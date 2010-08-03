@@ -14,3 +14,6 @@
 <!ENTITY  panePrivacy.title       "Adatvédelem">
 <!ENTITY  paneSecurity.title      "Biztonság">
 <!ENTITY  paneAdvanced.title      "Haladó">
+
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "Sync">

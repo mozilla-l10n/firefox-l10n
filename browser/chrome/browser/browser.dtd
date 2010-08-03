@@ -509,3 +509,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Böngészőlapok">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Lapok más számítógépekről">
+
+<!ENTITY syncBrand.shortName.label  "Sync">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "A &syncBrand.shortName.label; beállítása...">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncLogInItem.label          "Kapcsolódás">
+<!ENTITY syncLogInItem.accesskey      "K">
+<!ENTITY syncLogOutItem.label         "Leválás">
+<!ENTITY syncLogOutItem.accesskey     "L">
+<!ENTITY syncSyncNowItem.label        "Szinkronizálás">
+<!ENTITY syncSyncNowItem.accesskey    "S">

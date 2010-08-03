@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "A &syncBrand.fullName.label; beállítása">
+<!ENTITY setupButton.accesskey      "A">
+<!ENTITY weaveDesc.label            "A &syncBrand.fullName.label; lehetővé teszi az előzmények, könyvjelzők, jelszavak és megnyitott lapok elérését minden eszközön.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-fiók">
+<!ENTITY currentUser.label            "Jelenlegi felhasználó:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Frissítés">
+<!ENTITY resetPass.label              "Törlés">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Fiók kezelése">
+<!ENTITY manageAccount.accesskey      "F">
+<!ENTITY changePassword.label         "Jelszócsere">
+<!ENTITY changePassphrase.label       "Titkosító kifejezés megváltoztatása">
+<!ENTITY resetSync.label              "Sync alaphelyzetbe">
+<!ENTITY differentAccount.label       "Másik fiók használata">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Böngésző szinkronizálása">
+<!ENTITY syncComputerName.label       "Számítógép neve:">
+<!ENTITY syncComputerName.accesskey   "S">
+<!ENTITY syncModeSwitchDesc.label     "A &brandShortName;: ">
+<!ENTITY syncModeSwitchDesc.accesskey "A">
+<!ENTITY syncEverything.label         "Mindent szinkronizál">
+<!ENTITY customSync.label             "Az egyéni beállításokat használja">
+<!ENTITY syncEverythingDescription.label  "A könyvjelzők, előzmények, jelszavak, beállítások és lapok lesznek szinkronizálva.">
+<!ENTITY syncItem.bookmarks.label     "Könyvjelzők szinkronizálása">
+<!ENTITY syncItem.bookmarks.accesskey "K">
+<!ENTITY syncItem.tabs.label          "Lapok szinkronizálása">
+<!ENTITY syncItem.tabs.accesskey      "L">
+<!ENTITY syncItem.history.label       "Előzmények szinkronizálása">
+<!ENTITY syncItem.history.accesskey   "E">
+<!ENTITY syncItem.passwords.label     "Jelszavak szinkronizálása">
+<!ENTITY syncItem.passwords.accesskey "J">
+<!ENTITY syncItem.prefs.label         "Beállítások szinkronizálása">
+<!ENTITY syncItem.prefs.accesskey     "B">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "A szolgáltatás feltételei">
+<!ENTITY prefs.ppLink.label         "Adatvédelmi irányelvek">
