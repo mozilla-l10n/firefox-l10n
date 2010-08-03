@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Procurar todos os extras">
 <!ENTITY loading.label                        "A carregar…">
 <!ENTITY listEmpty.installed.label            "Não tem nenhum extra deste tipo instalado">
+<!ENTITY listEmpty.availableUpdates.label     "Nenhuma actualização encontrada">
+<!ENTITY listEmpty.recentUpdates.label        "Não actualizou nenhum extra recentemente">
+<!ENTITY listEmpty.findUpdates.label          "Procurar actualizações">
 <!ENTITY listEmpty.search.label               "Não foi possível encontrar extras correspondentes">
 <!ENTITY listEmpty.button.label               "Saber mais sobre os extras">
 
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label                  "Extensões">
 <!ENTITY view.appearance.label                "Temas">
 <!ENTITY view.plugins.label                   "Plugins">
+<!ENTITY view.recentUpdates.label             "Actualizações recentes">
+<!ENTITY view.availableUpdates.label          "Actualizações disponíveis">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Actualizar extras">
+<!ENTITY updates.updateAddonsNow.label        "Actualizar agora os extras">
+<!ENTITY updates.updateAddonsNow.accesskey    "u">
+<!ENTITY updates.viewUpdates.label            "Ver actualizações recentes">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.backgroudUpdateCheck.label   "Procurar actualizações automaticamente">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "c">
 <!ENTITY updates.updating.label               "A actualizar extras">
 <!ENTITY updates.installed.label              "Os seus extras foram actualizados.">
 <!ENTITY updates.downloaded.label             "As actualizações para os seus extras foram transferidas.">
 <!ENTITY updates.restart.label                "Reinicie para completar a instalação">
 <!ENTITY updates.noneFound.label              "Nenhuma actualização encontrada">
+<!ENTITY updates.manualUpdatesFound.label     "Ver actualizações disponíveis">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Mostrar mais informações">
@@ -46,6 +57,10 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir para o desenvolvimento deste extra">
 
+<!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de lançamento">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Mostra as notas de lançamento para esta actualização">
+<!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas de lançamento">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Oculta as notas de lançamento para esta actualização">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versão">
@@ -96,6 +111,8 @@
 <!ENTITY addon.homepage                       "Página inicial">
 <!ENTITY addon.unknownDate                    "Desconhecido">
 <!ENTITY addon.disabled.postfix               "(desactivado)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Actualizar">
 <!ENTITY addon.undo.label                     "Anular?">
 <!ENTITY addon.undo.tooltip                   "Anula esta acção">
 <!ENTITY addon.undoUninstall.label            "Anular?">
@@ -104,6 +121,11 @@
 <!ENTITY addon.restartNow.tooltip             "Reinicia para terminar a instalação">
 <!ENTITY addon.install.label                  "Instalar">
 <!ENTITY addon.install.tooltip                "Instala este extra">
+<!ENTITY addon.updateNow.label                "Actualizar agora">
+<!ENTITY addon.updateNow.tooltip              "Instala a actualização para este extra">
 <!ENTITY addon.checkingForUpdates.label       "A procurar actualizações…">
+<!ENTITY addon.releaseNotes.label             "Notas de lançamento:">
+<!ENTITY addon.loadingReleaseNotes.label      "A carregar…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Desculpe, mas houve um erro ao carregar as notas de lançamento.">
 
 <!ENTITY addon.createdBy.label                "Por ">
