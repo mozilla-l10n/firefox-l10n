@@ -509,3 +509,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Nettlesarfaner">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Faner frå andre datamaskiner">
+
+<!ENTITY syncBrand.shortName.label  "Synk">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "Konfigurer &syncBrand.shortName.label; …">
+<!ENTITY syncSetup.accesskey          "K">
+<!ENTITY syncLogInItem.label          "Kople til">
+<!ENTITY syncLogInItem.accesskey      "o">
+<!ENTITY syncLogOutItem.label         "Koble frå">
+<!ENTITY syncLogOutItem.accesskey     "p">
+<!ENTITY syncSyncNowItem.label        "Synkroniser no">
+<!ENTITY syncSyncNowItem.accesskey    "S">
