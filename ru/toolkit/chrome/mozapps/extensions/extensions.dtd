@@ -86,7 +86,7 @@
 <!ENTITY addon.homepage "Домашняя страница">
 <!ENTITY addon.unknownDate "Неизвестно">
 <!ENTITY addon.disabled.postfix "(отключено)">
-<!ENTITY addon.update.postfix "Обновить">
+<!ENTITY addon.update.postfix "обновление">
 <!ENTITY addon.undo.label "Отменить?">
 <!ENTITY addon.undo.tooltip "Отменить это действие">
 <!ENTITY addon.undoUninstall.label "Отменить?">
