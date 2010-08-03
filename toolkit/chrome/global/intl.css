@@ -16,6 +16,13 @@ window {
   max-height: 6.8em;
 }
 
+/* Workaround for SeaMonkey's Preferences dialog */
+@-moz-document url(chrome://communicator/content/pref/preferences.xul) {
+  #prefsTree {
+  width: 17em !important;
+  }
+}
+
 
 /* make Account Settings's height 46.6em or lower */
 @-moz-document url(chrome://messenger/content/AccountManager.xul) {
@@ -46,4 +53,5 @@ window {
 #changemp {
   min-width: 39em;
 }
+
 
