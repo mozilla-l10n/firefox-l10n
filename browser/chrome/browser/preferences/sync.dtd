@@ -1,6 +1,6 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "&syncBrand.fullName.label;-set-up">
-<!ENTITY setupButton.accesskey      "s">
+<!ENTITY setupButton.label          "Set-up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "Met &syncBrand.fullName.label; kunt u uw geschiedenis, bladwijzers, wachtwoorden en open tabbladen tussen al uw apparaten benaderen.">
 
 <!-- The page shown when logged in... -->
