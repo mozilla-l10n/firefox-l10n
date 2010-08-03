@@ -14,3 +14,6 @@
 <!ENTITY panePrivacy.title "Soukromí">
 <!ENTITY paneSecurity.title "Zabezpečení">
 <!ENTITY paneAdvanced.title "Rozšířené">
+
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title "Sync">
