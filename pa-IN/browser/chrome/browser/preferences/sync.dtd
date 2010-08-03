@@ -1,0 +1,12 @@
+<!ENTITY syncBrand.shortName.label  "ਸਿੰਕ">
+
+<!ENTITY syncMenu.label       "&syncBrand.shortName.label;">
+<!ENTITY syncSetup.label      "&syncBrand.shortName.label; ਸੈਟਅੱਪ…">
+<!ENTITY logInItem.label      "ਕੁਨੈਕਟ ਕਰੋ">
+<!ENTITY logOutItem.label     "ਡਿਸ-ਕੁਨੈਕਟ">
+<!ENTITY syncNowItem.label    "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
+<!ENTITY openPrefsItem.label  "ਮੇਰੀ ਪਸੰਦ…">
+<!ENTITY openLogItem.label    "ਸਰਗਰਮੀ ਲਾਗ">
+<!ENTITY status.offline.label "ਆਫਲਾਈਨ">
+
+<!ENTITY syncTabsMenu.label               "ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਤੋਂ ਟੈਬਾਂ">
