@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "Nastavenie služby &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Používali ste službu &syncBrand.fullName.label; už v minulosti?">
+<!ENTITY setup.choicePage.new.label       "Nikdy predtým som službu &syncBrand.shortName.label; nepoužil">
+<!ENTITY setup.choicePage.existing.label  "Používam službu &syncBrand.shortName.label; na inom počítači">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Pripojiť sa k">
+<!ENTITY serverType.main.label      "Server služby &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Použiť vlastný server">
+<!ENTITY signIn.username.label      "Používateľské meno">
+<!ENTITY signIn.username.accesskey  "o">
+<!ENTITY signIn.password.label      "Heslo">
+<!ENTITY signIn.password.accesskey  "H">
+<!ENTITY signIn.serverURL.label     "Adresa URL servera">
+<!ENTITY signIn.serverURL.accesskey "d">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Vytvorenie nového účtu &syncBrand.shortName.label;">
+<!ENTITY setup.confirmPassword.label  "Potvrdenie hesla">
+<!ENTITY setup.confirmPassword.accesskey  "P">
+<!ENTITY setup.emailAddress.label     "E-mailová adresa">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Súhlasím s">
+<!ENTITY setup.tosAgree1.accesskey  "S">
+<!ENTITY setup.tosLink.label        "podmienkami používania služby">
+<!ENTITY setup.tosAgree2.label      "a">
+<!ENTITY setup.ppLink.label         "zásadami ochrany súkromia">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Zadajte vašu tajnú frázu">
+<!ENTITY passphraseDesc.label         "Zadajte tajnú frázu, ktorá bude použitá na zašifrovanie všetkých údajov, aby ste k nim mohli pristupovať len vy. Fráza sa neukladá na serveri, takže ju nestraťte!">
+<!ENTITY passphraseDesc2.label        "Fráza musí mať minimálne 12 znakov a nesmie sa zhodovať s vašim heslom.">
+<!ENTITY passphraseEntry.label        "Tajná fráza">
+<!ENTITY passphraseEntry.accesskey    "T">
+<!ENTITY passphraseConfirm.label      "Potvrdenie">
+<!ENTITY passphraseConfirm.accesskey  "P">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Nastavenia sychronizácie prehliadača">
+<!ENTITY syncComputerName.label       "Názov počítača:">
+<!ENTITY syncComputerName.accesskey   "a">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; bude: ">
+<!ENTITY syncModeSwitchDesc.accesskey "b">
+<!ENTITY syncEverything.label         "synchronizovať všetko">
+<!ENTITY customSync.label             "používať moje vlastné nastavenia">
+<!ENTITY syncEverythingDescription.label  "Vaše záložky, história, heslá, nastavenia a karty budú synchronizované.">
+<!ENTITY syncItem.bookmarks.label     "Synchronizovať záložky">
+<!ENTITY syncItem.bookmarks.accesskey "z">
+<!ENTITY syncItem.tabs.label          "Synchronizovať karty">
+<!ENTITY syncItem.tabs.accesskey      "k">
+<!ENTITY syncItem.history.label       "Synchronizovať históriu">
+<!ENTITY syncItem.history.accesskey   "h">
+<!ENTITY syncItem.passwords.label     "Synchronizovať heslá">
+<!ENTITY syncItem.passwords.accesskey "e">
+<!ENTITY syncItem.prefs.label         "Synchronizovať nastavenia">
+<!ENTITY syncItem.prefs.accesskey     "c">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Potvrďte, že nie ste robot ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Zadajte informácie o účte">
+<!ENTITY resetPassword.label          "Vynulovať heslo">
+<!ENTITY connecting.label             "Pripája sa…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Zadajte tajnú frázu">
+<!ENTITY passphraseDesc3.label        "Zadajte vašu tajnú frázu, ktorá musí byť rovnaká ako tá, ktorú ste použili pri šifrovaní vašich údajov.">
+<!ENTITY passphraseHelp.label         "Vaša tajná fráza má minimálne 12 znakov a nie je to vaše heslo. Uloženú frázu môžete nájsť na niektorom z vašich ďalších počítačov, kde v nastaveniach prehliadača zvolíte panel Bezpečnosť a položku Uložené heslá. Ak frázu nenájdete, môžete požiadať o novú, pričom ale stratíte všetky údaje uložené na serveri.">
+<!ENTITY changePassphrase.label       "Zmeniť tajnú frázu">
+<!ENTITY verifying.label              "Overuje sa…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Ako chcete začať?">
+<!ENTITY choice.merge.main.label      "Spojiť údaje tohto počítača s údajmi účtu &syncBrand.shortName.label;">
+<!ENTITY choice.merge.recommend.label "Mozilla odporúča túto možnosť pre všetkých používateľov.">
+<!ENTITY choice.client.main.label     "Nahradiť všetky údaje na tomto počítači tými z účtu &syncBrand.fullName.label;">
+<!ENTITY choice.server.main.label     "Nahradiť údaje na všetkých ostatných zariadeniach lokálnymi údajmi">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Potvrdenie výberu">
+<!ENTITY confirm.merge.label          "Zvolili ste si spojiť vaše údaje na tomto počítači s údajmi z ostatných vašich zariadení, ktoré používajú &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label         "Všetky údaje &brandShortName; na tomto počítači budú odstránené, vrátane:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; potom skopíruje údaje &syncBrand.fullName.label; na tento počítač.">
+<!ENTITY confirm.client.warning.label "UPOZORNENIE: týmto nahradíte všetky údaje prehliadača &brandShortName; na tomto počítači!">
+<!ENTITY confirm.server.label         "Nasledujúce zariadenia budú prepísané vašimi lokálnymi údajmi:">
+<!ENTITY confirm.server.warning.label "UPOZORNENIE: Vaše lokálne údaje prepíšu všetky údaje prehliadača &brandShortName; na týchto zariadeniach!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Nastavenie dokončené!">
+<!ENTITY setup.successPage.desc.label    "Gratulujeme! &brandShortName; je teraz nastavený na automatickú synchronizáciu vašich údajov. Nezabudnite si nainštalovať &syncBrand.fullName.label; na všetkých vašich zariadeniach. Teraz môžete pokračovať v práci s prehliadačom &brandShortName;.">

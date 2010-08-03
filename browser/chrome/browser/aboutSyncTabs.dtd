@@ -3,7 +3,13 @@
 <!ENTITY tabs.searchText.label                   "Hľadať karty…">
 
 <!ENTITY tabs.context.openTab.label              "Otvoriť túto kartu">
+<!ENTITY tabs.context.openTab.accesskey          "O">
 <!ENTITY tabs.context.openMultipleTabs.label     "Otvoriť označené karty">
+<!ENTITY tabs.context.openMultipleTabs.accesskey "O">
 <!ENTITY tabs.context.bookmarkSingleTab.label    "Pridať kartu medzi záložky…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "z">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label "Pridať označené karty medzi záložky…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "P">
 <!ENTITY tabs.context.refreshList.label          "Obnoviť zoznam">
+<!ENTITY tabs.context.refreshList.accesskey           "b">
+
