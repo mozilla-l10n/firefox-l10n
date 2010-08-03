@@ -14,3 +14,6 @@
 <!ENTITY  panePrivacy.title       "Personvern">
 <!ENTITY  paneSecurity.title      "Tryggleik">
 <!ENTITY  paneAdvanced.title      "Avansert">
+
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "Synk">

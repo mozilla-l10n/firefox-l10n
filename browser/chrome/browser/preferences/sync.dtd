@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Konfigurer &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "K">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lèt deg få tilgang til historikk, bokmerke, passord og opne faner på tvers av alle einingar.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-konto">
+<!ENTITY currentUser.label            "Aktiv brukar">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Oppdater">
+<!ENTITY resetPass.label              "Tilbakestill">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Handsame konto">
+<!ENTITY manageAccount.accesskey      "H">
+<!ENTITY changePassword.label         "Endre passord">
+<!ENTITY changePassphrase.label       "Endre hemmeleg setning">
+<!ENTITY resetSync.label              "Tilbakestill Synk">
+<!ENTITY differentAccount.label       "Bruk ein annan konto">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Nettlesar-synk">
+<!ENTITY syncComputerName.label       "Datamaskinnamn:">
+<!ENTITY syncComputerName.accesskey   "D">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; vil: ">
+<!ENTITY syncModeSwitchDesc.accesskey "v">
+<!ENTITY syncEverything.label         "Synkronisere alt">
+<!ENTITY customSync.label             "Bruk eigendefinerte innstillingar">
+<!ENTITY syncEverythingDescription.label  "Bokmerke, historikk, passord, innstillingar og faner vil synkroniserast.">
+<!ENTITY syncItem.bookmarks.label     "Synkroniser bokmerke">
+<!ENTITY syncItem.bookmarks.accesskey "S">
+<!ENTITY syncItem.tabs.label          "Synkroniser faner">
+<!ENTITY syncItem.tabs.accesskey      "k">
+<!ENTITY syncItem.history.label       "Synkroniser historikk">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Synkroniser passord">
+<!ENTITY syncItem.passwords.accesskey "a">
+<!ENTITY syncItem.prefs.label         "Synkroniser innstillingar">
+<!ENTITY syncItem.prefs.accesskey     "n">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Tenestevilkår">
+<!ENTITY prefs.ppLink.label         "Personvern">
