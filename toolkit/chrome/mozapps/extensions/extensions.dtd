@@ -110,7 +110,8 @@
 <!ENTITY addon.homepage                       "Domovská stránka">
 <!ENTITY addon.unknownDate                    "neznáme">
 <!ENTITY addon.disabled.postfix               "(zakázané)">
-<!ENTITY addon.update.postfix                 "Aktualizovať">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Aktualizácia">
 <!ENTITY addon.undo.label                     "Späť?">
 <!ENTITY addon.undo.tooltip                   "Vrátiť späť vykonanú akciu">
 <!ENTITY addon.undoUninstall.label            "Späť?">
