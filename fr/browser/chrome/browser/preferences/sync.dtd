@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Configurer &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; permet d'accéder à votre historique, vos marque-pages, vos mots de passe et onglets ouverts depuis différents ordinateurs et appareils.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Compte &syncBrand.fullName.label;">
+<!ENTITY currentUser.label            "Utilisateur courant :">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Mettre à jour">
+<!ENTITY resetPass.label              "Réinitialiser">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Gestion du compte">
+<!ENTITY manageAccount.accesskey      "c">
+<!ENTITY changePassword.label         "Modifier le mot de passe">
+<!ENTITY changePassphrase.label       "Modifier la phrase secrète">
+<!ENTITY resetSync.label              "Réinitialiser la synchronisation">
+<!ENTITY differentAccount.label       "Utiliser un compte différent">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Synchronisation du navigateur">
+<!ENTITY syncComputerName.label       "Nom de l'ordinateur :">
+<!ENTITY syncComputerName.accesskey   "o">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; : ">
+<!ENTITY syncModeSwitchDesc.accesskey "F">
+<!ENTITY syncEverything.label         "Synchronisera tout">
+<!ENTITY customSync.label             "Utilisera mes paramètres personnalisés">
+<!ENTITY syncEverythingDescription.label  "Vos marque-pages, votre historique, vos mots de passe, vos préférences et vos onglets seront synchronisés.">
+<!ENTITY syncItem.bookmarks.label     "Synchroniser les marque-pages">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Synchroniser les onglets">
+<!ENTITY syncItem.tabs.accesskey      "n">
+<!ENTITY syncItem.history.label       "Synchroniser l'historique">
+<!ENTITY syncItem.history.accesskey   "h">
+<!ENTITY syncItem.passwords.label     "Synchroniser les mots de passe">
+<!ENTITY syncItem.passwords.accesskey "s">
+<!ENTITY syncItem.prefs.label         "Synchroniser les préférences">
+<!ENTITY syncItem.prefs.accesskey     "p">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Conditions d'utilisation">
+<!ENTITY prefs.ppLink.label         "Politique de confidentialité">
