@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;-set-up">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Hebt u &syncBrand.fullName.label; eerder gebruikt?">
+<!ENTITY setup.choicePage.new.label       "Ik heb &syncBrand.shortName.label; nooit eerder gebruikt">
+<!ENTITY setup.choicePage.existing.label  "Ik gebruik &syncBrand.shortName.label; al op een andere computer">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Verbinden met">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-server">
+<!ENTITY serverType.custom.label    "Een aangepaste server gebruiken">
+<!ENTITY signIn.username.label      "Gebruikersnaam">
+<!ENTITY signIn.username.accesskey  "G">
+<!ENTITY signIn.password.label      "Wachtwoord">
+<!ENTITY signIn.password.accesskey  "W">
+<!ENTITY signIn.serverURL.label     "Server-URL">
+<!ENTITY signIn.serverURL.accesskey "L">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Uw &syncBrand.shortName.label;-account aanmaken">
+<!ENTITY setup.confirmPassword.label  "Wachtwoord bevestigen">
+<!ENTITY setup.confirmPassword.accesskey  "c">
+<!ENTITY setup.emailAddress.label     "E-mailadres">
+<!ENTITY setup.emailAddress.accesskey "r">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Ik ga akkoord met de">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "servicevoorwaarden (en)">
+<!ENTITY setup.tosAgree2.label      "en het">
+<!ENTITY setup.ppLink.label         "privacybeleid (en)">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Voer uw geheime wachtzin in">
+<!ENTITY passphraseDesc.label         "Voer een geheime wachtzin in. Deze zal worden gebruikt om al uw gegevens te versleutelen, zodat alleen u ze kunt benaderen. De wachtzin wordt nooit opgeslagen op de server, dus raak deze niet kwijt!">
+<!ENTITY passphraseDesc2.label        "De wachtzin moet minstens 12 tekens lang zijn en kan niet gelijk zijn aan uw accountwachtwoord.">
+<!ENTITY passphraseEntry.label        "Geheime wachtzin">
+<!ENTITY passphraseEntry.accesskey    "m">
+<!ENTITY passphraseConfirm.label      "Bevestigen">
+<!ENTITY passphraseConfirm.accesskey  "s">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Browsersynchronisatievoorkeuren">
+<!ENTITY syncComputerName.label       "Computernaam:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; zal: ">
+<!ENTITY syncModeSwitchDesc.accesskey "z">
+<!ENTITY syncEverything.label         "Alles synchroniseren">
+<!ENTITY customSync.label             "Mijn aangepaste instellingen gebruiken">
+<!ENTITY syncEverythingDescription.label  "Uw bladwijzers, geschiedenis, wachtwoorden, voorkeuren en tabbladen zullen worden gesynchroniseerd.">
+<!ENTITY syncItem.bookmarks.label     "Bladwijzers synchroniseren">
+<!ENTITY syncItem.bookmarks.accesskey "B">
+<!ENTITY syncItem.tabs.label          "Tabbladen synchroniseren">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Geschiedenis synchroniseren">
+<!ENTITY syncItem.history.accesskey   "G">
+<!ENTITY syncItem.passwords.label     "Wachtwoorden synchroniseren">
+<!ENTITY syncItem.passwords.accesskey "W">
+<!ENTITY syncItem.prefs.label         "Voorkeuren synchroniseren">
+<!ENTITY syncItem.prefs.accesskey     "V">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Bevestig dat u geen robot bent ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Accountinformatie invoeren">
+<!ENTITY resetPassword.label          "Wachtwoord herinitialiseren">
+<!ENTITY connecting.label             "Verbinden…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Voer een geheime wachtzin in">
+<!ENTITY passphraseDesc3.label        "Voer uw geheime wachtzin in. Dit moet dezelfde zijn als de wachtzin die u gebruikte om uw gegevens te versleutelen.">
+<!ENTITY passphraseHelp.label         "Uw geheime wachtzin is minstens 12 tekens lang en niet gelijk aan uw wachtwoord. U kunt uw opgeslagen geheime wachtzin vinden door naar uw andere computer te gaan en de Opgeslagen wachtwoorden onder Beveiliging te controleren. Als u de geheime wachtzin nog steeds niet kunt vinden, kunt u deze opnieuw instellen, maar u zult alle opgeslagen gegevens op de server verliezen.">
+<!ENTITY changePassphrase.label       "Geheime wachtzin wijzigen">
+<!ENTITY verifying.label              "Verifiëren…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Hoe wilt u beginnen?">
+<!ENTITY choice.merge.main.label      "De gegevens van deze computer met uw &syncBrand.shortName.label;-gegevens laten samengaan">
+<!ENTITY choice.merge.recommend.label "Deze optie wordt door Mozilla sterk aanbevolen voor alle gebruikers.">
+<!ENTITY choice.client.main.label     "Alle gegevens op deze computer vervangen door uw &syncBrand.fullName.label;-gegevens">
+<!ENTITY choice.server.main.label     "Alle gegevens op andere apparaten vervangen door uw lokale gegevens">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Bevestig uw keuze">
+<!ENTITY confirm.merge.label          "U hebt ervoor gekozen uw gegevens op deze computer te laten samengaan met de gegevens op uw andere apparaten die &syncBrand.fullName.label; gebruiken.">
+<!ENTITY confirm.client.label         "Alle &brandShortName;-gegevens op deze computer zullen worden verwijderd, inclusief het volgende:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; zal vervolgens uw &syncBrand.fullName.label;-gegevens naar deze computer kopiëren.">
+<!ENTITY confirm.client.warning.label "WAARSCHUWING: dit zal ertoe leiden dat alle &brandShortName;-gegevens op deze computer worden vervangen!">
+<!ENTITY confirm.server.label         "De volgende apparaten zullen worden overschreven door uw lokale gegevens:">
+<!ENTITY confirm.server.warning.label "WAARSCHUWING: uw lokale gegevens zullen alle &brandShortName;-gegevens op deze apparaten vervangen!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Set-up voltooid!">
+<!ENTITY setup.successPage.desc.label    "Gefeliciteerd! &brandShortName; is nu ingesteld om automatisch uw informatie te synchroniseren. Vergeet niet om &syncBrand.fullName.label; op al uw apparaten te installeren. U kunt &brandShortName; nu verder gebruiken.">
