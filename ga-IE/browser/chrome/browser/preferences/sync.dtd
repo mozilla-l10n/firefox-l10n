@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label "Socraigh &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey "S">
+<!ENTITY weaveDesc.label "Le &syncBrand.fullName.label; is féidir leat do stair, leabharmharcanna, focail fhaire agus cluaisíní a rochtain ar gach gléas atá agat.">
+<!-- The page shown when logged in... -->
+
+<!ENTITY accountGroupboxCaption.label "Cuntas &syncBrand.fullName.label;">
+<!ENTITY currentUser.label "Úsáideoir Reatha:">
+<!-- Login error feedback -->
+
+<!ENTITY updatePass.label "Nuashonrú">
+<!ENTITY resetPass.label "Bánaigh">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label "Bainistigh Do Chuntas">
+<!ENTITY manageAccount.accesskey "C">
+<!ENTITY changePassword.label "Athraigh an Focal Faire">
+<!ENTITY changePassphrase.label "Athraigh an Frása Faire">
+<!ENTITY resetSync.label "Athshocraigh Sync">
+<!ENTITY differentAccount.label "Úsáid Cuntais Eile">
+<!-- Sync Settings -->
+
+<!ENTITY syncPrefsCaption.label "Sioncrónú Brabhsálaí">
+<!ENTITY syncComputerName.label "Ainm an Ríomhaire:">
+<!ENTITY syncComputerName.accesskey "A">
+<!ENTITY syncModeSwitchDesc.label "Cad is mian leat &brandShortName; a dhéanamh?">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label "Sioncrónaigh Gach Rud">
+<!ENTITY customSync.label "Úsáid socruithe saincheaptha">
+<!ENTITY syncEverythingDescription.label "Beidh do chuid leabharmharcanna, stair, focail fhaire, sainroghanna, agus cluaisíní sioncrónaithe.">
+<!ENTITY syncItem.bookmarks.label "Sioncrónaigh Leabharmharcanna">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label "Sioncrónaigh Cluaisíní">
+<!ENTITY syncItem.tabs.accesskey "C">
+<!ENTITY syncItem.history.label "Sioncrónaigh Stair">
+<!ENTITY syncItem.history.accesskey "r">
+<!ENTITY syncItem.passwords.label "Sioncrónaigh Focail Fhaire">
+<!ENTITY syncItem.passwords.accesskey "F">
+<!ENTITY syncItem.prefs.label "Sioncrónaigh Sainroghanna">
+<!ENTITY syncItem.prefs.accesskey "S">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label "Téarmaí Seirbhíse">
+<!ENTITY prefs.ppLink.label "Polasaí Príobháideachta">

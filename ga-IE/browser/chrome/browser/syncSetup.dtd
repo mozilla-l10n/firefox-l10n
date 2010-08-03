@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label "Socrú &syncBrand.fullName.label;">
+<!-- First page of the wizard -->
+
+
+<!ENTITY setup.choicePage.title.label "Ar bhain tú úsáid as &syncBrand.fullName.label; riamh?">
+<!ENTITY setup.choicePage.new.label "Níor bhain mé úsáid as &syncBrand.fullName.label; riamh">
+<!ENTITY setup.choicePage.existing.label "Tá mé ag baint úsáide as &syncBrand.fullName.label; ar ríomhaire eile">
+<!-- New Account AND Existing Account -->
+
+<!ENTITY connectTo.label "Ceangail le">
+<!ENTITY serverType.main.label "Freastalaí &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label "Úsáid freastalaí saincheaptha">
+<!ENTITY signIn.username.label "Ainm Úsáideora">
+<!ENTITY signIn.username.accesskey "A">
+<!ENTITY signIn.password.label "Focal Faire">
+<!ENTITY signIn.password.accesskey "F">
+<!ENTITY signIn.serverURL.label "URL an Fhreastalaí">
+<!ENTITY signIn.serverURL.accesskey "L">
+<!-- New Account Page 1: Basic Account Info -->
+
+<!ENTITY setup.newAccountPage.title.label "Cruthaigh do Chuntas &syncBrand.shortName.label;">
+<!ENTITY setup.confirmPassword.label "Dearbhaigh an Focal Faire">
+<!ENTITY setup.confirmPassword.accesskey "b">
+<!ENTITY setup.emailAddress.label "Seoladh Ríomhphoist">
+<!ENTITY setup.emailAddress.accesskey "e">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label "Glacaim leis na">
+<!ENTITY setup.tosAgree1.accesskey "a">
+<!ENTITY setup.tosLink.label "Téarmaí Seirbhíse">
+<!ENTITY setup.tosAgree2.label "agus an">
+<!ENTITY setup.ppLink.label "Polasaí Príobháideachta">
+<!ENTITY setup.tosAgree3.label "">
+<!ENTITY setup.tosAgree2.accesskey "">
+<!-- New Account Page 2: Passphrase Entry -->
+
+<!ENTITY setup.newPPPage.title.label "Iontráil do Fhrása Faire">
+<!ENTITY passphraseDesc.label "Please enter a secret phrase. This will be used to encrypt all your data so only you can access it. It is never stored on the server, so don't lose this!">
+<!ENTITY passphraseDesc2.label "This must be at least 12 characters long and cannot match your account password.">
+<!ENTITY passphraseEntry.label "Frása Faire">
+<!ENTITY passphraseEntry.accesskey "s">
+<!ENTITY passphraseConfirm.label "Dearbhaigh">
+<!ENTITY passphraseConfirm.accesskey "b">
+<!-- New Account Page 3: Sync Type Options -->
+
+<!ENTITY setup.newAccountPrefs2.title.label "Sainroghanna Sync">
+<!ENTITY syncComputerName.label "Ainm an Ríomhaire:">
+<!ENTITY syncComputerName.accesskey "A">
+<!ENTITY syncModeSwitchDesc.label "Cad is mian leat &brandShortName; a dhéanamh?">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label "Sioncrónaigh Gach Rud">
+<!ENTITY customSync.label "Úsáid socruithe saincheaptha">
+<!ENTITY syncEverythingDescription.label "Beidh do chuid leabharmharcanna, stair, focail fhaire, sainroghanna, agus cluaisíní sioncrónaithe.">
+<!ENTITY syncItem.bookmarks.label "Sioncrónaigh Leabharmharcanna">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label "Sioncrónaigh Cluaisíní">
+<!ENTITY syncItem.tabs.accesskey "C">
+<!ENTITY syncItem.history.label "Sioncrónaigh Stair">
+<!ENTITY syncItem.history.accesskey "r">
+<!ENTITY syncItem.passwords.label "Sioncrónaigh Focail Fhaire">
+<!ENTITY syncItem.passwords.accesskey "F">
+<!ENTITY syncItem.prefs.label "Sioncrónaigh Sainroghanna">
+<!ENTITY syncItem.prefs.accesskey "S">
+<!-- New Account Page 4: Captcha -->
+
+<!ENTITY setup.captchaPage.title.label "Dearbhaigh nach róbat thú, le do thoil ;)">
+<!-- Existing Account Page 1: Login -->
+
+<!ENTITY setup.existingAccount.title.label "Iontráil d'Fhaisnéis Chuntais">
+<!ENTITY resetPassword.label "Athshocraigh Focal Faire">
+<!ENTITY connecting.label "Á Cheangal…">
+<!-- Existing Account Page 2: Passphrase -->
+
+<!ENTITY passphraseGroupbox.label "Iontráil Frása Faire">
+<!ENTITY passphraseDesc3.label "Please enter your secret phrase. This must be the same secret phrase that you used to encrypt your data.">
+<!ENTITY passphraseHelp.label "Your secret phrase is at least 12 characters long and is not your password. You can find your saved secret phrase by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
+<!ENTITY changePassphrase.label "Athraigh an Frása Faire">
+<!ENTITY verifying.label "Á Dheimhniú…">
+<!-- New & Existing Account: Merge Options -->
+
+<!ENTITY setup.mergeChoicePage.title.label "Cad é ba mhaith leat a dhéanamh ar dtús?">
+<!ENTITY choice.merge.main.label "Cumaisc na sonraí ar an ríomhaire seo le do chuid sonraí &syncBrand.shortName.label;">
+<!ENTITY choice.merge.recommend.label "Molann Mozilla an rogha seo go láidir do gach úsáideoir.">
+<!ENTITY choice.client.main.label "Cuir do chuid sonraí &syncBrand.fullName.label; in áit na sonraí ar an ríomhaire seo">
+<!ENTITY choice.server.main.label "Cuir na sonraí logánta in áit na sonraí ar gach gléas eile">
+<!-- New & Existing Account: Confirm Merge Options -->
+
+<!ENTITY confirm.caption.label "Dearbhaigh do rogha">
+<!ENTITY confirm.merge.label "You have chosen to merge your data on this computer with the data on your other devices running &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label "Scriosfar na sonraí &brandShortName; go léir ar an ríomhaire seo, na sonraí seo a leanas san áireamh:">
+<!ENTITY confirm.client.moreinfo.label "Cóipeálfaidh &brandShortName; do chuid sonraí &syncBrand.fullName.label; go dtí an ríomhaire seo.">
+<!ENTITY confirm.client.warning.label "RABHADH: Scriosfar na sonraí &brandShortName; go léir ón ríomhaire seo!">
+<!ENTITY confirm.server.label "The following devices will be overwritten with your local data:">
+<!ENTITY confirm.server.warning.label "RABHADH: Cuirfear do chuid sonraí logánta in áit na sonraí &brandShortName; go léir ar na gléasanna seo!">
+<!-- New & Existing Account: Setup Complete -->
+
+<!ENTITY setup.successPage.title.label "Tá an socrú críochnaithe!">
+<!ENTITY setup.successPage.desc.label "Congratulations! &brandShortName; is now set up to automatically sync your information. Don't forget to install &syncBrand.fullName.label; on all your devices. You can now continue using &brandShortName;.">
