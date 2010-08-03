@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; oppsett">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Har du brukt &syncBrand.fullName.label; før?">
+<!ENTITY setup.choicePage.new.label       "Jeg har aldri brukt &syncBrand.shortName.label; før">
+<!ENTITY setup.choicePage.existing.label  "Jeg bruker allerede &syncBrand.shortName.label; på en annen datamaskin">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Koble til">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-tjeneren">
+<!ENTITY serverType.custom.label    "Bruk en annen tjener">
+<!ENTITY signIn.username.label      "Brukernavn">
+<!ENTITY signIn.username.accesskey  "B">
+<!ENTITY signIn.password.label      "Passord">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.serverURL.label     "Tjener-URL">
+<!ENTITY signIn.serverURL.accesskey "T">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Opprett en &syncBrand.shortName.label;-konto">
+<!ENTITY setup.confirmPassword.label  "Bekreft passord">
+<!ENTITY setup.confirmPassword.accesskey  "e">
+<!ENTITY setup.emailAddress.label     "E-postadresse">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Jeg godtar">
+<!ENTITY setup.tosAgree1.accesskey  "J">
+<!ENTITY setup.tosLink.label        "tjenestevilkårene">
+<!ENTITY setup.tosAgree2.label      "og">
+<!ENTITY setup.ppLink.label         "personvernbestemmelsene">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Skriv inn den hemmelige setningen">
+<!ENTITY passphraseDesc.label         "Skriv inn en hemmelig setning. Den vil bli brukt for å kryptere alle data, slik at bare du kan få tilgang til den. Denne setningen lagres aldri på tjeneren, så pass på å ikke mist denne!">
+<!ENTITY passphraseDesc2.label        "Denne må være minst 12 tegn lang, og kan ikke være det samme som kontopassordet ditt.">
+<!ENTITY passphraseEntry.label        "Hemmelig setning">
+<!ENTITY passphraseEntry.accesskey    "H">
+<!ENTITY passphraseConfirm.label      "Bekreft">
+<!ENTITY passphraseConfirm.accesskey  "B">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Innstillinger for nettleser-synk">
+<!ENTITY syncComputerName.label       "Datamaskinnavn:">
+<!ENTITY syncComputerName.accesskey   "D">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; vil: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Synkronisere alt">
+<!ENTITY customSync.label             "Bruke egendefinerte innstillinger">
+<!ENTITY syncEverythingDescription.label  "Bokmerker, historikk, passord, innstillinger og faner vil synkroniseres.">
+<!ENTITY syncItem.bookmarks.label     "Synkroniser bokmerker">
+<!ENTITY syncItem.bookmarks.accesskey "S">
+<!ENTITY syncItem.tabs.label          "Synkroniser faner">
+<!ENTITY syncItem.tabs.accesskey      "k">
+<!ENTITY syncItem.history.label       "Synkroniser historikk">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Synkroniser passord">
+<!ENTITY syncItem.passwords.accesskey "a">
+<!ENTITY syncItem.prefs.label         "Synkroniser innstillinger">
+<!ENTITY syncItem.prefs.accesskey     "n">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Bekreft at du ikke er en robot ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Skriv inn kontoinformasjon">
+<!ENTITY resetPassword.label          "Tilbakestill passord">
+<!ENTITY connecting.label             "Kobler til …">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Skriv inn hemmelig setning">
+<!ENTITY passphraseDesc3.label        "Skriv inn den hemmelige setningen. Dette må være den samme hemmelige setningen som du brukte til å kryptere med.">
+<!ENTITY passphraseHelp.label         "Den hemmelige setningen må være minst 12 tegn lang, og må være forskjellig fra passordet. Du kan finne din hemmelige setning ved å sjekke 'Lagrede passord' under Sikkerhet i innstillingene. Dersom du fortsatt ikke finner den riktige hemmelige setningen kan du velge å tilbakestille den, men da vil du miste alle data som er lagret på tjeneren.">
+<!ENTITY changePassphrase.label       "Endre hemmelig setning">
+<!ENTITY verifying.label              "Bekrefter …">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Hvordan vil du begynne?">
+<!ENTITY choice.merge.main.label      "Flett sammen denne datamaskinens data med &syncBrand.shortName.label; sine data">
+<!ENTITY choice.merge.recommend.label "Dette valget anbefales sterkt av Mozilla for alle brukere.">
+<!ENTITY choice.client.main.label     "Erstatt alle data på denne datamaskinen med data fra &syncBrand.fullName.label;">
+<!ENTITY choice.server.main.label     "Erstatt alle andre enheters data med dine data">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Bekreft valget">
+<!ENTITY confirm.merge.label          "Du har valgt å flette sammen data på denne datamaskinen med data på andre enheter som kjører &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label         "All &brandShortName;-data på denne datamaskinen vil slettes, som også gjelder følgende:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; vil deretter kopiere dine &syncBrand.fullName.label;-data til denne datamaskinen.">
+<!ENTITY confirm.client.warning.label "ADVARSEL: Dette vil føre til at alle &brandShortName;-data på denne datamaskinen erstattes!">
+<!ENTITY confirm.server.label         "Følgende enheter vil overskrives med lokale data:">
+<!ENTITY confirm.server.warning.label "ADVARSEL: Dine lokale data vil erstatte alle &brandShortName;-data på disse enhetene!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Oppsett er fullført!">
+<!ENTITY setup.successPage.desc.label    "Gratulerer! &brandShortName; er nå konfigurert til å automatisk synkronisere informasjonen din. Ikke glem å installere &syncBrand.fullName.label; på alle dine enheter. Du kan nå fortsette å bruke &brandShortName;.">
