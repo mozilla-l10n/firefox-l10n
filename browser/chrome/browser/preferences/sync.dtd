@@ -1,44 +1,44 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "Configura la &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY weaveDesc.label            "La &syncBrand.fullName.label; us permet accedir al vostre historial, adreces d'interès, contrasenyes i pestanyes obertes des de qualsevol dels vostres dispositius.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentUser.label            "Current User:">
+<!ENTITY accountGroupboxCaption.label "Compte de &syncBrand.fullName.label;">
+<!ENTITY currentUser.label            "Usuari actual:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "Actualitza">
+<!ENTITY resetPass.label              "Reinicia">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY changePassphrase.label       "Change Secret Phrase">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY differentAccount.label       "Use a Different Account">
+<!ENTITY manageAccount.label          "Gestiona el compte">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY changePassword.label         "Canvia la contrasenya">
+<!ENTITY changePassphrase.label       "Canvia la frase secreta">
+<!ENTITY resetSync.label              "Reinicia la sincronització">
+<!ENTITY differentAccount.label       "Utilitza un compte diferent">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
-<!ENTITY syncEverything.label         "Sync Everything">
-<!ENTITY customSync.label             "Use my custom settings">
-<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
-<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
-<!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sync Tabs">
-<!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncPrefsCaption.label       "Sincronització del navegador">
+<!ENTITY syncComputerName.label       "Nom de l'ordinador:">
+<!ENTITY syncComputerName.accesskey   "o">
+<!ENTITY syncModeSwitchDesc.label     "El &brandShortName;: ">
+<!ENTITY syncModeSwitchDesc.accesskey "l">
+<!ENTITY syncEverything.label         "ho sincronitzarà tot">
+<!ENTITY customSync.label             "utilitzarà els meus paràmetres personalitzats">
+<!ENTITY syncEverythingDescription.label  "Se sincronitzaran les vostres adreces d'interès, historial, contrasenyes, preferències i pestanyes.">
+<!ENTITY syncItem.bookmarks.label     "Sincronitza les adreces d'interès">
+<!ENTITY syncItem.bookmarks.accesskey "d">
+<!ENTITY syncItem.tabs.label          "Sincronitza les pestanyes">
+<!ENTITY syncItem.tabs.accesskey      "t">
+<!ENTITY syncItem.history.label       "Sincronitza l'historial">
 <!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Sync Passwords">
-<!ENTITY syncItem.passwords.accesskey "P">
-<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.passwords.label     "Sincronitza les contrasenyes">
+<!ENTITY syncItem.passwords.accesskey "c">
+<!ENTITY syncItem.prefs.label         "Sincronitza les preferències">
 <!ENTITY syncItem.prefs.accesskey     "S">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "Termes del servei">
+<!ENTITY prefs.ppLink.label         "Política de privadesa">
