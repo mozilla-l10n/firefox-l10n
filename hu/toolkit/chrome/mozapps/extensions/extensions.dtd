@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Keresés a kiegészítők között">
 <!ENTITY loading.label                        "Betöltés...">
 <!ENTITY listEmpty.installed.label            "Nincs ilyen típusú kiegészítője">
+<!ENTITY listEmpty.availableUpdates.label     "Nem találhatók frissítések">
+<!ENTITY listEmpty.recentUpdates.label        "Mostanában nem frissített kiegészítőket">
+<!ENTITY listEmpty.findUpdates.label          "Frissítések keresése">
 <!ENTITY listEmpty.search.label               "Nem található ilyen kiegészítő">
 <!ENTITY listEmpty.button.label               "További tudnivalók a kiegészítőkről">
 
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label                  "Kiterjesztések">
 <!ENTITY view.appearance.label                "Témák">
 <!ENTITY view.plugins.label                   "Bővítmények">
+<!ENTITY view.recentUpdates.label             "Legutóbbi frissítések">
+<!ENTITY view.availableUpdates.label          "Elérhető frissítések">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Kiegészítők frissítése">
+<!ENTITY updates.updateAddonsNow.label        "Kiegészítők frissítése most">
+<!ENTITY updates.updateAddonsNow.accesskey    "K">
+<!ENTITY updates.viewUpdates.label            "A legutóbbi frissítések megtekintése">
+<!ENTITY updates.viewUpdates.accesskey        "A">
+<!ENTITY updates.backgroudUpdateCheck.label   "Frissítések automatikus keresése">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "F">
 <!ENTITY updates.updating.label               "Kiegészítők frissítése">
 <!ENTITY updates.installed.label              "A kiegészítői frissítve lettek.">
 <!ENTITY updates.downloaded.label             "A kiegészítőfrissítések letöltődtek.">
 <!ENTITY updates.restart.label                "A telepítés befejezéséhez újra kell indítani">
 <!ENTITY updates.noneFound.label              "Nem találhatók frissítések">
+<!ENTITY updates.manualUpdatesFound.label     "Az elérhető frissítések megtekintése">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "További adatok megjelenítése">
@@ -46,6 +57,10 @@
 <!ENTITY cmd.contribute.accesskey             "T">
 <!ENTITY cmd.contribute.tooltip               "A kiegészítő fejlesztésének támogatása">
 
+<!ENTITY cmd.showReleaseNotes.label           "Kiadási megjegyzések megjelenítése">
+<!ENTITY cmd.showReleaseNotes.tooltip         "A frissítés kiadási megjegyzéseinek megjelenítése">
+<!ENTITY cmd.hideReleaseNotes.label           "Kiadási megjegyzések elrejtése">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "A frissítés kiadási megjegyzéseinek elrejtése">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Verzió">
@@ -96,6 +111,8 @@
 <!ENTITY addon.homepage                       "Honlap">
 <!ENTITY addon.unknownDate                    "Ismeretlen">
 <!ENTITY addon.disabled.postfix               "(letiltva)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Frissítés">
 <!ENTITY addon.undo.label                     "Visszavonás?">
 <!ENTITY addon.undo.tooltip                   "A művelet visszavonása">
 <!ENTITY addon.undoUninstall.label            "Visszavonás?">
@@ -104,6 +121,11 @@
 <!ENTITY addon.restartNow.tooltip             "A telepítés befejezéséhez újra kell indítani">
 <!ENTITY addon.install.label                  "Telepítés">
 <!ENTITY addon.install.tooltip                "Ennek a kiegészítőnek a telepítése">
+<!ENTITY addon.updateNow.label                "Frissítés">
+<!ENTITY addon.updateNow.tooltip              "A frissítés telepítése ehhez a kiegészítőhöz">
 <!ENTITY addon.checkingForUpdates.label       "Frissítések keresése...">
+<!ENTITY addon.releaseNotes.label             "Kiadási megjegyzések:">
+<!ENTITY addon.loadingReleaseNotes.label      "Betöltés...">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sajnáljuk, de hiba történt a kiadási megjegyzések betöltésekor.">
 
 <!ENTITY addon.createdBy.label                "Szerző: ">

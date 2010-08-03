@@ -1,0 +1,99 @@
+<!ENTITY accountSetupTitle.label    "A &syncBrand.fullName.label; beállítása">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Használta már a &syncBrand.fullName.label; kiegészítőt?">
+<!ENTITY setup.choicePage.new.label       "Még nem használtam a &syncBrand.shortName.label; kiegészítőt">
+<!ENTITY setup.choicePage.existing.label  "Már használom a &syncBrand.shortName.label; kiegészítőt egy másik számítógépen">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Kapcsolódás">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-kiszolgáló">
+<!ENTITY serverType.custom.label    "Egyéni kiszolgáló használata">
+<!ENTITY signIn.username.label      "Felhasználónév">
+<!ENTITY signIn.username.accesskey  "F">
+<!ENTITY signIn.password.label      "Jelszó">
+<!ENTITY signIn.password.accesskey  "J">
+<!ENTITY signIn.serverURL.label     "Kiszolgáló URL-je">
+<!ENTITY signIn.serverURL.accesskey "K">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "&syncBrand.shortName.label;-fiók létrehozása">
+<!ENTITY setup.confirmPassword.label  "Jelszó megerősítése">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "E-mail cím">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Egyetértek a">
+<!ENTITY setup.tosAgree1.accesskey  "e">
+<!ENTITY setup.tosLink.label        "szolgáltatás feltételeivel">
+<!ENTITY setup.tosAgree2.label      "és az">
+<!ENTITY setup.ppLink.label         "adatvédelmi irányelvekkel">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Írja be a titkosító kifejezést">
+<!ENTITY passphraseDesc.label         "Írjon be egy titkosító kifejezést. Ez titkosítja az összes adatát, hogy csak Ön férhessen hozzá. Ez nem tárolódik a kiszolgálón, úgyhogy ne veszítse el!">
+<!ENTITY passphraseDesc2.label        "A titkosító kifejezés legalább 12 karakter hosszú legyen, és ne egyezzen meg a jelszóval.">
+<!ENTITY passphraseEntry.label        "Titkosító kifejezés">
+<!ENTITY passphraseEntry.accesskey    "T">
+<!ENTITY passphraseConfirm.label      "Megerősítés">
+<!ENTITY passphraseConfirm.accesskey  "m">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "A böngészőszinkronizálás beállításai">
+<!ENTITY syncComputerName.label       "Számítógép neve:">
+<!ENTITY syncComputerName.accesskey   "S">
+<!ENTITY syncModeSwitchDesc.label     "A &brandShortName;: ">
+<!ENTITY syncModeSwitchDesc.accesskey "A">
+<!ENTITY syncEverything.label         "Mindent szinkronizál">
+<!ENTITY customSync.label             "Az egyéni beállításokat használja">
+<!ENTITY syncEverythingDescription.label  "A könyvjelzők, előzmények, jelszavak, beállítások és lapok lesznek szinkronizálva.">
+<!ENTITY syncItem.bookmarks.label     "Könyvjelzők szinkronizálása">
+<!ENTITY syncItem.bookmarks.accesskey "K">
+<!ENTITY syncItem.tabs.label          "Lapok szinkronizálása">
+<!ENTITY syncItem.tabs.accesskey      "L">
+<!ENTITY syncItem.history.label       "Előzmények szinkronizálása">
+<!ENTITY syncItem.history.accesskey   "E">
+<!ENTITY syncItem.passwords.label     "Jelszavak szinkronizálása">
+<!ENTITY syncItem.passwords.accesskey "J">
+<!ENTITY syncItem.prefs.label         "Beállítások szinkronizálása">
+<!ENTITY syncItem.prefs.accesskey     "B">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Bizonyítsa be, hogy Ön nem egy robot! ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Fiókadatok beírása">
+<!ENTITY resetPassword.label          "Jelszó törlése">
+<!ENTITY connecting.label             "Kapcsolódás...">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Írja be a titkosító kifejezést">
+<!ENTITY passphraseDesc3.label        "Írjon be a titkosító kifejezést. Ez ugyanaz a titkosító kifejezés legyen, amelyet az adatok titkosítására használt.">
+<!ENTITY passphraseHelp.label         "A titkosító kifejezés legalább 12 karakter hosszú és nem ugyanaz, mint a jelszó. A mentett titkosító kifejezést megtalálja a másik számítógépén a Biztonság párbeszédpanelen a Mentett jelszavak alatt. Ha nem tudja megszerezni a helyes titkosító kifejezést, akkor alaphelyzetbe is állíthatja, de akkor minden kiszolgálón tárolt adatot elveszt.">
+<!ENTITY changePassphrase.label       "Titkosító kifejezés megváltoztatása">
+<!ENTITY verifying.label              "Ellenőrzés...">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Hogyan szeretne kezdeni?">
+<!ENTITY choice.merge.main.label      "A számítógép adatainak összefésülése a &syncBrand.shortName.label; adataival">
+<!ENTITY choice.merge.recommend.label "A Mozilla minden felhasználónak ezt a lehetőséget javasolja.">
+<!ENTITY choice.client.main.label     "Minden adat felülírása ezen a számítógépen a &syncBrand.fullName.label; adataival">
+<!ENTITY choice.server.main.label     "Minden más eszköz adatának a helyi adatokra cseréje">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Erősítse meg a választását">
+<!ENTITY confirm.merge.label          "Azt választotta, hogy összefésüli az ezen a számítógépen található adatokat a &syncBrand.fullName.label; kiegészítőt futtató többi eszköze adataival.">
+<!ENTITY confirm.client.label         "Minden &brandShortName;-adat törlődni fog ezen a számítógépen, beleértve a következőket:">
+<!ENTITY confirm.client.moreinfo.label "A &brandShortName; ezután rámásolja a &syncBrand.fullName.label;-adatokat erre a számítógépre.">
+<!ENTITY confirm.client.warning.label "FIGYELEM: Ez azt jelenti, hogy ezen a számítógépen minden &brandShortName;-adat felül lesz írva!">
+<!ENTITY confirm.server.label         "A következő eszközökön levő adatok lesznek felülírva a helyi adatokkal:">
+<!ENTITY confirm.server.warning.label "FIGYELEM: A helyi adatok minden &brandShortName;-adatot felül fognak írni ezeken az eszközökön!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "A beállítás kész!">
+<!ENTITY setup.successPage.desc.label    "Gratulálunk! A &brandShortName; be van állítva az adatok automatikus szinkronizálására. Ne felejtse el telepíteni minden eszközére a &syncBrand.fullName.label; kiegészítőt.
+Folytathatja a &brandShortName; használatát.">
