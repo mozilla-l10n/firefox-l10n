@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "安裝 &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "s">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; 可以讓您存取多個裝置的歷史資訊、書籤、密碼、開啟分頁。">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; 帳號">
+<!ENTITY currentUser.label            "目前使用者:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "更新">
+<!ENTITY resetPass.label              "重設">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "管理帳號">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY changePassword.label         "變更密碼">
+<!ENTITY changePassphrase.label       "變更加密金鑰">
+<!ENTITY resetSync.label              "重設同步">
+<!ENTITY differentAccount.label       "使用不同的帳號">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "瀏覽器同步">
+<!ENTITY syncComputerName.label       "電腦名稱:">
+<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; 將會: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "同步全部">
+<!ENTITY customSync.label             "使用自訂的設定">
+<!ENTITY syncEverythingDescription.label  "將會同步您的書籤、歷史紀錄、密碼、偏好設定、分頁。">
+<!ENTITY syncItem.bookmarks.label     "同步書籤">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "同步分頁">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "同步歷史紀錄">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "同步密碼">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "同步偏好設定">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "服務條款">
+<!ENTITY prefs.ppLink.label         "隱私權保護政策">

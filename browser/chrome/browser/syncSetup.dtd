@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; 安裝">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "您曾經使用過 &syncBrand.fullName.label; 嗎？">
+<!ENTITY setup.choicePage.new.label       "我從來沒使用過 &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "我正在別台電腦上使用 &syncBrand.shortName.label;">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "連線到">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; 伺服器">
+<!ENTITY serverType.custom.label    "使用自訂的伺服器">
+<!ENTITY signIn.username.label      "使用者名稱">
+<!ENTITY signIn.username.accesskey  "U">
+<!ENTITY signIn.password.label      "密碼">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.serverURL.label     "伺服器網址">
+<!ENTITY signIn.serverURL.accesskey "L">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "建立您的 &syncBrand.shortName.label; 帳號">
+<!ENTITY setup.confirmPassword.label  "請再次輸入密碼">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "Email 位址">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "我同意">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "服務條款">
+<!ENTITY setup.tosAgree2.label      "與">
+<!ENTITY setup.ppLink.label         "隱私權保護政策">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "a">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "輸入您的加密金鑰">
+<!ENTITY passphraseDesc.label         "請輸入加密金鑰。這將會被用來加密您所有的資料，只讓您可以存取。伺服器不會儲存這把金鑰，所以請不要忘記！">
+<!ENTITY passphraseDesc2.label        "至少 12 個字元以上且不能與您的帳號、密碼相同。">
+<!ENTITY passphraseEntry.label        "加密金鑰">
+<!ENTITY passphraseEntry.accesskey    "S">
+<!ENTITY passphraseConfirm.label      "確認">
+<!ENTITY passphraseConfirm.accesskey  "m">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "瀏覽器同步設定">
+<!ENTITY syncComputerName.label       "電腦名稱:">
+<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; 將會: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "同步全部">
+<!ENTITY customSync.label             "使用自訂的設定">
+<!ENTITY syncEverythingDescription.label  "將會同步您的書籤、歷史紀錄、密碼、偏好設定、分頁。">
+<!ENTITY syncItem.bookmarks.label     "同步書籤">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "同步分頁">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "同步歷史紀錄">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "同步密碼">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "同步偏好設定">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "請確認您不是機器人來亂的 ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "輸入帳號資訊">
+<!ENTITY resetPassword.label          "重設密碼">
+<!ENTITY connecting.label             "連線中…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "輸入加密金鑰">
+<!ENTITY passphraseDesc3.label        "請輸入您的加密金鑰。必須與您用來加密資料的金鑰相同。">
+<!ENTITY passphraseHelp.label         "您的私密金鑰需要至少 12 個半形符號長，而且不能與您的密碼相同。您可以到您其他電腦 Firefox 的選項>安全>已存密碼查看您已存的安全金鑰。若您仍然無法取得正確的金鑰，您可以重設它，但您將會失去伺服器上所有的資料。">
+<!ENTITY changePassphrase.label       "變更加密金鑰">
+<!ENTITY verifying.label              "驗證中…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "您希望如何同步？">
+<!ENTITY choice.merge.main.label      "將這台電腦的資料與您的 &syncBrand.shortName.label; 資料合併">
+<!ENTITY choice.merge.recommend.label "Mozilla 建議所有使用者使用這個選項。">
+<!ENTITY choice.client.main.label     "使用您 &syncBrand.fullName.label; 上的資料取代這台電腦所有的資料">
+<!ENTITY choice.server.main.label     "本地的資料將會取代您其他裝置上的資料">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "確認您的選擇">
+<!ENTITY confirm.merge.label          "您選擇將這台電腦上的資料與其他執行 &syncBrand.fullName.label; 的裝置合併。">
+<!ENTITY confirm.client.label         "這台電腦上所有 &brandShortName; 的資料將會被刪除，包括下列項目:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; 將會複製您 &syncBrand.fullName.label; 上的資料到這台電腦。">
+<!ENTITY confirm.client.warning.label "警告：這將會造成這台電腦上所有 &brandShortName; 的資料被取代！">
+<!ENTITY confirm.server.label         "下列的裝置將會被本地端資料覆寫:">
+<!ENTITY confirm.server.warning.label "警告：本地端資料將取代這些裝置上的所有 &brandShortName; 資料！">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "安裝成功！">
+<!ENTITY setup.successPage.desc.label    "恭喜！您已經成功設定 &brandShortName; 來自動同步您的資訊。別忘了在您的其他裝置安裝 &syncBrand.fullName.label;。您現在可以繼續使用 &brandShortName;。">
