@@ -9,4 +9,4 @@
 <!ENTITY switchToNewTabs.label "Al abrir un enlace en una pestaña nueva, cambiar a ésta inmediatamente">
 <!ENTITY switchToNewTabs.accesskey "C">
 <!ENTITY showTabsInTaskbar.label "Mostrar miniaturas de las pestañas en la barra de tareas de Windows">
-<!ENTITY showTabsInTaskbar.accesskey "v">
+<!ENTITY showTabsInTaskbar.accesskey "ñ">

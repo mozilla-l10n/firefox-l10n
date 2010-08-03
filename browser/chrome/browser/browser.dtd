@@ -392,3 +392,15 @@
 <!ENTITY downloadMonitor2.tooltip "Clic para abrir la ventana de descargas">
 <!ENTITY allTabs.filter.emptyText "Buscar pestañas">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
+<!ENTITY syncTabsMenu.label "Pestañas de otros equipos">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncMenu.label "&syncBrand.shortName.label;">
+<!ENTITY syncMenu.accesskey "Y">
+<!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey "n">
+<!ENTITY syncLogInItem.label "Conectar">
+<!ENTITY syncLogInItem.accesskey "C">
+<!ENTITY syncLogOutItem.label "Desconectar">
+<!ENTITY syncLogOutItem.accesskey "D">
+<!ENTITY syncSyncNowItem.label "Sincronizar ahora">
+<!ENTITY syncSyncNowItem.accesskey "S">
