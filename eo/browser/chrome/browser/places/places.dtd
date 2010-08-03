@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizi">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Organize your bookmarks">
 
 <!ENTITY file.accesskey                 "M">
 <!ENTITY file.close.label               "Fermi">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                 "M">
 <!ENTITY views.label                    "Vidi">
 <!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "Change your view">
 <!ENTITY view.columns.label             "Montri kolumnoj">
 <!ENTITY view.columns.accesskey         "K">
 <!ENTITY view.sort.label                "Ordigi">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label      "Importi kaj sekurkopii">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
 
 <!ENTITY backCmd.label       "Malantaŭen">
 <!ENTITY backButton.tooltip  "Malantaŭenn">

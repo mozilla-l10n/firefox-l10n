@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        "Kiam mi malfermas ligilon en nova folio, ŝanĝi al ĝi tuj">
 <!ENTITY switchToNewTabs.accesskey    "a">
+
+<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
