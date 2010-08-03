@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder "Cuardaigh na breiseáin go léir">
 <!ENTITY loading.label "Á Luchtú…">
 <!ENTITY listEmpty.installed.label "Níl aon bhreiseán den chineál seo suiteáilte agat">
+<!ENTITY listEmpty.availableUpdates.label "Ní bhfuarthas nuashonruithe">
+<!ENTITY listEmpty.recentUpdates.label "Ní raibh aon bhreiseáin nuashonraithe agat le déanaí">
+<!ENTITY listEmpty.findUpdates.label "Lorg Nuashonruithe">
 <!ENTITY listEmpty.search.label "Níor aimsíodh aon bhreiseáin chomhoiriúnacha">
 <!ENTITY listEmpty.button.label "Tuilleadh eolais faoi bhreiseáin">
 <!-- categories / views -->
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label "Eisínteachtaí">
 <!ENTITY view.appearance.label "Téamaí">
 <!ENTITY view.plugins.label "Forlíontáin">
+<!ENTITY view.recentUpdates.label "Nuashonruithe Le Déanaí">
+<!ENTITY view.availableUpdates.label "Nuashonruithe Ar Fáil">
 <!-- addon updates -->
 
-<!ENTITY updates.updateNow.label "Nuashonraigh breiseáin">
+<!ENTITY updates.updateAddonsNow.label "Nuashonraigh Breiseáin Anois">
+<!ENTITY updates.updateAddonsNow.accesskey "u">
+<!ENTITY updates.viewUpdates.label "Féach ar Nuashonruithe Le Déanaí">
+<!ENTITY updates.viewUpdates.accesskey "F">
+<!ENTITY updates.backgroudUpdateCheck.label "Cuardaigh Nuashonruithe go hUathoibríoch">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
 <!ENTITY updates.updating.label "Breiseáin á nuashonrú">
 <!ENTITY updates.installed.label "Nuashonraíodh do chuid breiseán.">
 <!ENTITY updates.downloaded.label "Íosluchtaíodh nuashonruithe na mbreiseán.">
 <!ENTITY updates.restart.label "Atosaigh anois chun an tsuiteáil a chur i gcrích">
-<!ENTITY updates.noneFound.label "Níor aimsíodh nuashonruithe">
+<!ENTITY updates.noneFound.label "Ní bhfuarthas nuashonruithe">
+<!ENTITY updates.manualUpdatesFound.label "Féach ar Nuashonruithe Ar Fáil">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label "Taispeáin tuilleadh eolais">
@@ -45,8 +56,12 @@
 <!ENTITY cmd.contribute.label "Glac Páirt">
 <!ENTITY cmd.contribute.accesskey "c">
 <!ENTITY cmd.contribute.tooltip "Glac páirt i bhforbairt an bhreiseáin seo">
-<!-- detail view -->
 
+<!ENTITY cmd.showReleaseNotes.label "Taispeáin na Nótaí Eisiúna">
+<!ENTITY cmd.showReleaseNotes.tooltip "Taispeáin na nótaí eisiúna don nuashonrú seo">
+<!ENTITY cmd.hideReleaseNotes.label "Folaigh na Nótaí Eisiúna">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Folaigh na nótaí eisiúna don nuashonrú seo">
+<!-- detail view -->
 
 <!ENTITY detail.version.label "Leagan">
 <!ENTITY detail.updated.label "Nuashonraithe">
@@ -96,6 +111,7 @@
 <!ENTITY addon.homepage "Leathanach Baile">
 <!ENTITY addon.unknownDate "Anaithnid">
 <!ENTITY addon.disabled.postfix "(díchumasaithe)">
+<!ENTITY addon.update.postfix "Nuashonrú">
 <!ENTITY addon.undo.label "Cealaigh?">
 <!ENTITY addon.undo.tooltip "Cealaigh an gníomh seo">
 <!ENTITY addon.undoUninstall.label "Cealaigh?">
@@ -104,6 +120,11 @@
 <!ENTITY addon.restartNow.tooltip "Atosaigh anois chun an tsuiteáil a chur i gcrích">
 <!ENTITY addon.install.label "Suiteáil">
 <!ENTITY addon.install.tooltip "Suiteáil an breiseán seo">
+<!ENTITY addon.updateNow.label "Nuashonraigh Anois">
+<!ENTITY addon.updateNow.tooltip "Suiteáil an nuashonrú don bhreiseán seo">
 <!ENTITY addon.checkingForUpdates.label "Nuashonruithe á lorg…">
+<!ENTITY addon.releaseNotes.label "Nótaí Eisiúna:">
+<!ENTITY addon.loadingReleaseNotes.label "Á Luchtú…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Tá brón orm, ach tharla earráid agus na nótaí eisiúna á luchtú.">
 
 <!ENTITY addon.createdBy.label "Le ">
