@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Configurar o &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; deixa-o aceder ao seu histórico, marcadores, senhas e separadores abertos em todos os seus dispositivos.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Conta do &syncBrand.fullName.label;">
+<!ENTITY currentUser.label            "Utilizador actual:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Actualizar">
+<!ENTITY resetPass.label              "Reiniciar">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Gerir conta">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Alterar senha">
+<!ENTITY changePassphrase.label       "Alterar frase secreta">
+<!ENTITY resetSync.label              "Reiniciar o Sync">
+<!ENTITY differentAccount.label       "Usar uma conta diferente">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Sincronizar navegador">
+<!ENTITY syncComputerName.label       "Nome do computador:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "O &brandShortName; vai: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Sincronizar tudo">
+<!ENTITY customSync.label             "Usar as minhas configurações personalizadas">
+<!ENTITY syncEverythingDescription.label  "Os seus marcadores, histórico, senhas, preferências e separadores serão sincronizados.">
+<!ENTITY syncItem.bookmarks.label     "Sincronizar marcadores">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sincronizar separadores">
+<!ENTITY syncItem.tabs.accesskey      "d">
+<!ENTITY syncItem.history.label       "Sincronizar histórico">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sincronizar senhas">
+<!ENTITY syncItem.passwords.accesskey "c">
+<!ENTITY syncItem.prefs.label         "Sincronizar preferências">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Termos do serviço">
+<!ENTITY prefs.ppLink.label         "Política de privacidade">
