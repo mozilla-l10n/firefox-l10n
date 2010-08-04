@@ -86,5 +86,7 @@
 
 <!ENTITY contextOpenInNewTab.label    "在新标签页中打开">
 <!ENTITY contextSaveImage.label       "保存图片">
+<!ENTITY contextShareLink.label       "分享链接">
+<!ENTITY contextShareImage.label      "分享图片">
 <!ENTITY contextEditBookmark.label    "编辑">
 <!ENTITY contextRemoveBookmark.label  "删除">
