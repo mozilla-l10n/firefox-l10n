@@ -65,7 +65,7 @@
 <!ENTITY retentionKeepRecent.label "Последние">
 <!ENTITY retentionKeepRecent.accesskey "л">
 <!ENTITY retentionKeepUnreadHidden.label "Всегда удалять прочитанные сообщения (игнорировать возраст сообщений)">
-<!ENTITY retentionApplyToFlagged.label "Всегда сохранять сообщения, отмеченные флагом">
+<!ENTITY retentionApplyToFlagged.label "Всегда хранить сообщения, отмеченные флагом">
 <!ENTITY retentionApplyToFlagged.accesskey "р">
 <!ENTITY folderSynchronizationTab.label "Синхронизация">
 <!ENTITY folderCheckForNewMessages2.label "При получении новых сообщений для этой учётной записи всегда проверять эту папку">
