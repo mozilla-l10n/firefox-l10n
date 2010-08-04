@@ -1,98 +1,98 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "Configuració del &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "Heu fet servir el &syncBrand.fullName.label; abans?">
+<!ENTITY setup.choicePage.new.label       "Mai abans he fet servir el &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "Ja faig servir el &syncBrand.shortName.label; en un altre ordinador">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Connect to">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom.label    "Use a custom server">
-<!ENTITY signIn.username.label      "User Name">
-<!ENTITY signIn.username.accesskey  "U">
-<!ENTITY signIn.password.label      "Password">
-<!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY connectTo.label            "Connecta a">
+<!ENTITY serverType.main.label      "Servidor del &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Utilitza un servidor personalitzat">
+<!ENTITY signIn.username.label      "Nom d'usuari">
+<!ENTITY signIn.username.accesskey  "u">
+<!ENTITY signIn.password.label      "Contrasenya">
+<!ENTITY signIn.password.accesskey  "y">
+<!ENTITY signIn.serverURL.label     "URL del servidor">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "Create your &syncBrand.shortName.label; Account">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
+<!ENTITY setup.newAccountPage.title.label  "Creeu el vostre compte del &syncBrand.shortName.label;">
+<!ENTITY setup.confirmPassword.label  "Confirmeu la contrasenya">
 <!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
-<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.emailAddress.label     "Adreça electrònica">
+<!ENTITY setup.emailAddress.accesskey "e">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
-<!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
+<!ENTITY setup.tosAgree1.label      "Accepto">
+<!ENTITY setup.tosAgree1.accesskey  "A">
+<!ENTITY setup.tosLink.label        "els termes del servei">
+<!ENTITY setup.tosAgree2.label      "i la">
+<!ENTITY setup.ppLink.label         "política de privadesa">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label       "Enter your Secret Phrase">
-<!ENTITY passphraseDesc.label         "Please enter a secret phrase. This will be used to encrypt all your data so only you can access it. It is never stored on the server, so don't lose this!">
-<!ENTITY passphraseDesc2.label        "This must be at least 12 characters long and cannot match your account password.">
-<!ENTITY passphraseEntry.label        "Secret Phrase">
-<!ENTITY passphraseEntry.accesskey    "S">
-<!ENTITY passphraseConfirm.label      "Confirm">
+<!ENTITY setup.newPPPage.title.label       "Introduïu la vostra frase secreta">
+<!ENTITY passphraseDesc.label         "Introduïu una frase secreta. S'utiltizarà per xifrar totes les vostres dades i que ningú altre pugui tenir-hi accés. Mai s'emmagatzema en el servidor, per tant, no la perdeu!">
+<!ENTITY passphraseDesc2.label        "Ha de contenir com a mínim 12 caràcters i no ha de coincidir amb la contrasenya del vostre compte.">
+<!ENTITY passphraseEntry.label        "Frase secreta">
+<!ENTITY passphraseEntry.accesskey    "s">
+<!ENTITY passphraseConfirm.label      "Confirmeu">
 <!ENTITY passphraseConfirm.accesskey  "m">
 
 <!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Browser Sync Preferences">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
-<!ENTITY syncEverything.label         "Sync Everything">
-<!ENTITY customSync.label             "Use my custom settings">
-<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
-<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
-<!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sync Tabs">
-<!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY setup.newAccountPrefs2.title.label "Preferències de navegació del Sync">
+<!ENTITY syncComputerName.label       "Nom de l'ordinador:">
+<!ENTITY syncComputerName.accesskey   "o">
+<!ENTITY syncModeSwitchDesc.label     "El &brandShortName;: ">
+<!ENTITY syncModeSwitchDesc.accesskey "l">
+<!ENTITY syncEverything.label         "Ho sincronitzarà tot">
+<!ENTITY customSync.label             "Utilitzarà els meus paràmetres personalitzats">
+<!ENTITY syncEverythingDescription.label  "Se sincronitzaran les vostres adreces d'interès, historial, contrasenyes, preferències i pestanyes.">
+<!ENTITY syncItem.bookmarks.label     "Sincronitza les adreces d'interès">
+<!ENTITY syncItem.bookmarks.accesskey "d">
+<!ENTITY syncItem.tabs.label          "Sincronitza les pestanyes">
+<!ENTITY syncItem.tabs.accesskey      "t">
+<!ENTITY syncItem.history.label       "Sincronitza l'historial">
 <!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Sync Passwords">
-<!ENTITY syncItem.passwords.accesskey "P">
-<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.passwords.label     "Sincronitza les contrasenyes">
+<!ENTITY syncItem.passwords.accesskey "c">
+<!ENTITY syncItem.prefs.label         "Sincrontiza les preferències">
 <!ENTITY syncItem.prefs.accesskey     "S">
 
 <!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label     "Please confirm you're not a robot ;)">
+<!ENTITY setup.captchaPage.title.label     "Confirmeu que no sou cap robot ;)">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY connecting.label             "Connecting…">
+<!ENTITY setup.existingAccount.title.label "Introduïu la informació del compte">
+<!ENTITY resetPassword.label          "Reinicia la contrasenya">
+<!ENTITY connecting.label             "S'està connectant…">
 
 <!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label     "Enter Secret Phrase">
-<!ENTITY passphraseDesc3.label        "Please enter your secret phrase. This must be the same secret phrase that you used to encrypt your data.">
-<!ENTITY passphraseHelp.label         "Your secret phrase is at least 12 characters long and is not your password. You can find your saved secret phrase by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY changePassphrase.label       "Change Secret Phrase">
-<!ENTITY verifying.label              "Verifying…">
+<!ENTITY passphraseGroupbox.label     "Introduïu la frase secreta">
+<!ENTITY passphraseDesc3.label        "Introduïu la vostra frase secreta. Aquesta ha de ser la mateixa frase secreta que heu utilitzat per xifrar les vostres dades.">
+<!ENTITY passphraseHelp.label         "La vostra frase secreta conté com a mínim 12 caràcters, però no pot ser la vostra contrasenya. Podeu esbrinar quina és la vostra frase secreta anant al vostre altre ordinador i obtenir-la de 'Contrasenyes desades' a 'Seguretat'. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
+<!ENTITY changePassphrase.label       "Canvia la frase secreta">
+<!ENTITY verifying.label              "S'està verificant…">
 
 <!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "How do you want to start off?">
-<!ENTITY choice.merge.main.label      "Merge this computer's data with your &syncBrand.shortName.label; data">
-<!ENTITY choice.merge.recommend.label "This option is strongly recommended by Mozilla for all users.">
-<!ENTITY choice.client.main.label     "Replace all data on this computer with your &syncBrand.fullName.label; data">
-<!ENTITY choice.server.main.label     "Replace all other devices with your local data">
+<!ENTITY setup.mergeChoicePage.title.label "Com voleu començar?">
+<!ENTITY choice.merge.main.label      "Fusiona les dades d'aquest ordinador amb les vostres dades del &syncBrand.shortName.label;">
+<!ENTITY choice.merge.recommend.label "Mozilla recomana aquesta opció a tots els usuaris.">
+<!ENTITY choice.client.main.label     "Reemplaça totes les dades d'aquest ordinador amb les vostres dades del &syncBrand.fullName.label;">
+<!ENTITY choice.server.main.label     "Reemplaça tots els altres dispositius amb les vostres dades locals">
 
 <!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label        "Confirm your choice">
-<!ENTITY confirm.merge.label          "You have chosen to merge your data on this computer with the data on your other devices running &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
-<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
-<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
+<!ENTITY confirm.caption.label        "Confirmeu la vostra tria">
+<!ENTITY confirm.merge.label          "Heu triat fusionar les dades d'aquest ordinador amb les dades d'altres dispositius on funciona el &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label         "Se suprimiran totes les dades del &brandShortName; en aquest ordinador, incloent-hi el següent:">
+<!ENTITY confirm.client.moreinfo.label "Aleshores el &brandShortName; copiarà les vostres dades del &syncBrand.fullName.label; a l'ordinador.">
+<!ENTITY confirm.client.warning.label "AVÍS: Això vol dir que es reemplaçaran totes dades del &brandShortName; en aquest ordinador!">
+<!ENTITY confirm.server.label         "Se sobrescriuran els dispositius següents amb les vostres dades locals:">
+<!ENTITY confirm.server.warning.label "AVÍS: Se reemplaçaran les dades del &brandShortName; en aquests dispositius amb les vostres dades locals!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "Setup Complete!">
-<!ENTITY setup.successPage.desc.label    "Congratulations! &brandShortName; is now set up to automatically sync your information. Don't forget to install &syncBrand.fullName.label; on all your devices. You can now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title.label   "S'ha completat la configuració!">
+<!ENTITY setup.successPage.desc.label    "Enhorabona! Ja s'ha configurat el &brandShortName; per sincronitzar automàticament la vostra informació. No oblideu instal·lar el &syncBrand.fullName.label; en tots el vostres dispositius. Podeu continuar fent servir el &brandShortName;.">
