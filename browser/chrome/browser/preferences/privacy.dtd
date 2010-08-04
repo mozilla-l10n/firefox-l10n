@@ -32,7 +32,7 @@
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; va:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "v">
 <!ENTITY  historyHeader.remember.label     "Memora istoricul">
 <!ENTITY  historyHeader.dontremember.label "Nu va memora istoricul niciodată">
 <!ENTITY  historyHeader.custom.label       "Folosește setări personalizate pentru istoric">
