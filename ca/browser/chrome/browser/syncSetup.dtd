@@ -73,7 +73,7 @@
 <!-- Existing Account Page 2: Passphrase -->
 <!ENTITY passphraseGroupbox.label     "Introduïu la frase secreta">
 <!ENTITY passphraseDesc3.label        "Introduïu la vostra frase secreta. Aquesta ha de ser la mateixa frase secreta que heu utilitzat per xifrar les vostres dades.">
-<!ENTITY passphraseHelp.label         "La vostra frase secreta conté com a mínim 12 caràcters, però no pot ser la vostra contrasenya. Podeu esbrinar quina és la vostra frase secreta anant al vostre altre ordinador i obtenir-la de 'Contrasenyes desades' a 'Seguretat'. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
+<!ENTITY passphraseHelp.label         "La vostra frase secreta conté com a mínim 12 caràcters, però no pot ser la vostra contrasenya. Podeu esbrinar quina és la vostra frase secreta anant al vostre altre ordinador i obtenir-la de 'Contrasenyes desades' a 'Seguretat'. Si no trobeu la forma de saber quina és la frase secreta correcta, podeu optar per reiniciar-la, però perdreu les dades que tinguéssiu emmagatzemades al servidor.">
 <!ENTITY changePassphrase.label       "Canvia la frase secreta">
 <!ENTITY verifying.label              "S'està verificant…">
 
