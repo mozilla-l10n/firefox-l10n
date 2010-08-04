@@ -253,7 +253,7 @@
 
 <!ENTITY appMenuPrintCmd.label "Udskriv">
 <!ENTITY appMenuCustomize.label "Tilpas">
-<!ENTITY appMenuToolbarLayout.label "Værktøjslinje layout…">
+<!ENTITY appMenuToolbarLayout.label "Værktøjslinje-layout…">
 <!ENTITY appMenuSidebars.label "Sidebjælker">
 <!ENTITY appMenuHelp.label "Hjælp">
 
