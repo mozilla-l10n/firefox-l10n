@@ -1,7 +1,7 @@
 <!ENTITY addons.windowTitle                   "Tilføjelser">
 <!ENTITY search.placeholder                   "Søg i alle tilføjelser">
 <!ENTITY loading.label                        "Henter…">
-<!ENTITY listEmpty.installed.label            "Du har ikke nogle tilføjelser af denne type installeret">
+<!ENTITY listEmpty.installed.label            "Du har ikke nogen tilføjelser af denne type installeret">
 <!ENTITY listEmpty.availableUpdates.label     "Ingen opdateringer fundet">
 <!ENTITY listEmpty.recentUpdates.label        "Du har ikke opdateret nogle tilføjelser for nyligt">
 <!ENTITY listEmpty.findUpdates.label          "Tjek for opdateringer">
@@ -121,8 +121,8 @@
 <!ENTITY addon.install.label                  "Installer">
 <!ENTITY addon.install.tooltip                "Installer denne tilføjelse">
 <!ENTITY addon.updateNow.label                "Opdater nu">
-<!ENTITY addon.updateNow.tooltip              "Installer opdateringen for denne tilføjelse">
-<!ENTITY addon.checkingForUpdates.label       "Tjekker for opdateringer…">
+<!ENTITY addon.updateNow.tooltip              "Installer opdateringen til denne tilføjelse">
+<!ENTITY addon.checkingForUpdates.label       "Søger efter opdateringer…">
 <!ENTITY addon.releaseNotes.label             "Udgivelsesnoter:">
 <!ENTITY addon.loadingReleaseNotes.label      "Henter…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Beklager, men udgivelsesnoterne kunne ikke hentes.">
