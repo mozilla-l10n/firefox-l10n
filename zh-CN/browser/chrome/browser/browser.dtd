@@ -175,6 +175,7 @@
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "查看">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "下一个">
@@ -255,6 +256,8 @@
 <!ENTITY appMenuToolbarLayout.label "工具栏布局…">
 <!ENTITY appMenuSidebars.label "侧边栏">
 <!ENTITY appMenuHelp.label "帮助">
+
+<!ENTITY developerMenu.label "开发者">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "转到一个网站">
@@ -506,3 +509,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "浏览器标签">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "来自其他计算机的标签页">
+
+<!ENTITY syncBrand.shortName.label  "同步">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "设置 &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncLogInItem.label          "连接">
+<!ENTITY syncLogInItem.accesskey      "C">
+<!ENTITY syncLogOutItem.label         "断开连接">
+<!ENTITY syncLogOutItem.accesskey     "D">
+<!ENTITY syncSyncNowItem.label        "立即同步">
+<!ENTITY syncSyncNowItem.accesskey    "S">
