@@ -1,6 +1,6 @@
 <!ENTITY setupButton.label "Configurar &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey "S">
-<!ENTITY weaveDesc.label "&syncBrand.fullName.label; le permite acceder a sus marcadores, historial, contraseñas, preferencias y pestañas a lo largo de varios equipos.">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; le permite acceder a sus marcadores, historial, contraseñas, preferencias y pestañas en varios equipos.">
 <!ENTITY accountGroupboxCaption.label "Cuenta de &syncBrand.fullName.label;">
 <!ENTITY currentUser.label "Usuario actual:">
 <!ENTITY updatePass.label "Actualizar">
@@ -18,7 +18,7 @@
 <!ENTITY syncModeSwitchDesc.accesskey "p">
 <!ENTITY syncEverything.label "Sincronizar todo">
 <!ENTITY customSync.label "Usar una configuración personalizada">
-<!ENTITY syncEverythingDescription.label "Sus marcadores, historial, contraseñas, preferencias y pestañas serán sincronizados.">
+<!ENTITY syncEverythingDescription.label "Se sincronizarán sus marcadores, historial, contraseñas, preferencias y pestañas.">
 <!ENTITY syncItem.bookmarks.label "Sincronizar marcadores">
 <!ENTITY syncItem.bookmarks.accesskey "m">
 <!ENTITY syncItem.tabs.label "Sincronizar pestañas">

@@ -1,5 +1,5 @@
 <!ENTITY accountSetupTitle.label "Configuración de &syncBrand.fullName.label;">
-<!ENTITY setup.choicePage.title.label "¿Has usado &syncBrand.fullName.label; antes?">
+<!ENTITY setup.choicePage.title.label "¿Ha usado &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label "No he usado nunca &syncBrand.shortName.label; antes">
 <!ENTITY setup.choicePage.existing.label "Ya estoy usando &syncBrand.shortName.label; en otro equipo">
 <!ENTITY connectTo.label "Conectar a">
@@ -37,7 +37,7 @@
 <!ENTITY syncModeSwitchDesc.accesskey "p">
 <!ENTITY syncEverything.label "Sincronizar todo">
 <!ENTITY customSync.label "Usar una configuración personalizada">
-<!ENTITY syncEverythingDescription.label "Sus marcadores, historial, contraseñas, preferencias y pestañas serán sincronizados.">
+<!ENTITY syncEverythingDescription.label "Se sincronizarán sus marcadores, historial, contraseñas, preferencias y pestañas.">
 <!ENTITY syncItem.bookmarks.label "Sincronizar marcadores">
 <!ENTITY syncItem.bookmarks.accesskey "m">
 <!ENTITY syncItem.tabs.label "Sincronizar pestañas">
@@ -48,7 +48,7 @@
 <!ENTITY syncItem.passwords.accesskey "P">
 <!ENTITY syncItem.prefs.label "Sincronizar preferencias">
 <!ENTITY syncItem.prefs.accesskey "S">
-<!ENTITY setup.captchaPage.title.label "Por favor, confirma que no eres un robot ;)">
+<!ENTITY setup.captchaPage.title.label "Por favor, confirme que no es un robot ;)">
 <!ENTITY setup.existingAccount.title.label "Introduzca información de su cuenta">
 <!ENTITY resetPassword.label "Restablecer contraseña">
 <!ENTITY connecting.label "Conectando…">
