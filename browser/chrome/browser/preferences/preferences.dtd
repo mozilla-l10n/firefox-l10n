@@ -14,3 +14,6 @@
 <!ENTITY  panePrivacy.title       "隐私">
 <!ENTITY  paneSecurity.title      "安全">
 <!ENTITY  paneAdvanced.title      "高级">
+
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "同步">
