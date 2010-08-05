@@ -17,6 +17,7 @@
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "&syncBrand.shortName.label; 계정 만들기">
 <!ENTITY setup.confirmPassword.label  "암호 확인">
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "메일 주소">

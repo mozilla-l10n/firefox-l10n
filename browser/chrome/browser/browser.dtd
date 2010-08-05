@@ -83,6 +83,8 @@
 <!ENTITY feedButton.tooltip		"구독하기…">
 <!ENTITY printButton.label "인쇄">
 <!ENTITY printButton.tooltip "현재 페이지 인쇄">
+
+<!ENTITY backForwardItem.title        "뒤로/앞으로">
 <!ENTITY locationItem.title "주소">
 <!ENTITY searchItem.title "검색">
 <!ENTITY throbberItem.title "실행 색인기">
