@@ -1,0 +1,97 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; 설정">
+
+<!-- First page of the wizard -->
+<!ENTITY setup.choicePage.title.label     "&syncBrand.fullName.label; 사용해 보신 적이 있으십니까?">
+<!ENTITY setup.choicePage.new.label       "&syncBrand.shortName.label; 처음 사용합니다.">
+<!ENTITY setup.choicePage.existing.label  "&syncBrand.shortName.label; 사용 중 입니다.">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "연결하기 -">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; 서버">
+<!ENTITY serverType.custom.label    "별도 서버 설정">
+<!ENTITY signIn.username.label      "사용자명">
+<!ENTITY signIn.username.accesskey  "U">
+<!ENTITY signIn.password.label      "암호">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.serverURL.label     "서버 주소(URL)">
+<!ENTITY signIn.serverURL.accesskey "L">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.confirmPassword.label  "암호 확인">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "메일 주소">
+<!ENTITY setup.emailAddress.accesskey "E">
+
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "동의">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "서비스 이용 약관">
+<!ENTITY setup.tosAgree2.label      "그리고">
+<!ENTITY setup.ppLink.label         "개인 정보 보호 정책">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "암호키 입력">
+<!ENTITY passphraseDesc.label         "암호키를 입력하세요. 이것은 여러분의 자료를 암호화 하기 위한 비밀키입니다. 서버에 저장되지 않으므로 잊어버리면 자료를 접>근할 수 없으니 꼭 기억하시기 바랍니다.">
+<!ENTITY passphraseDesc2.label        "최소 12자 이상 되어야 하며 현재 암호와 같으면 안됩니다.">
+<!ENTITY passphraseEntry.label        "암호키">
+<!ENTITY passphraseEntry.accesskey    "S">
+<!ENTITY passphraseConfirm.label      "확인">
+<!ENTITY passphraseConfirm.accesskey  "m">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "브라우저 동기화 설정">
+<!ENTITY syncComputerName.label       "컴퓨터 이름:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; 실행 항목: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "전체 동기화">
+<!ENTITY customSync.label             "선택한 항목만">
+<!ENTITY syncEverythingDescription.label  "북마크, 방문 기록, 암호, 설정 및 탭 >이용 정보를 동기화 합니다."> 
+<!ENTITY syncItem.bookmarks.label     "북마크">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "탭 정보">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "방문 기록">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "웹 사이트 암호">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "환경 설정">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "본인 여부 그림 문자 인증하십시오">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "계정 정보 입력">
+<!ENTITY resetPassword.label          "암호 재설정">
+<!ENTITY connecting.label             "연결 하는 중…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "암호키 입력">
+<!ENTITY passphraseDesc3.label        "암호키를 입력하세요. 자료를 암호화 하는데 사용하는 비밀키와 동일해야 합니다.">
+<!ENTITY passphraseHelp.label         "최소 12자 이상되어야 하며 계정 암호와는 >다릅니다. 암호키는 다른 기기에 저장된 암호 목록을 보기 위한 기본 암호에 해당 됩>니다. 암호키를 분실하면 재설정은 가능하나 이전에 서버에 기록된 모든 자료는 사용>할 수 없게 되므로 잃어버리지 않도록 유의하시기 바랍니다.">
+<!ENTITY changePassphrase.label       "암호키 변경">
+<!ENTITY verifying.label              "확인 중…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "서비스 시작 설정">
+<!ENTITY choice.merge.main.label      "PC 자료와 &syncBrand.shortName.label; 사>이 병합하기">
+<!ENTITY choice.merge.recommend.label "Mozilla는 사용자 편의를 위해 현재 설정을 추천합니다.">
+<!ENTITY choice.client.main.label     "&syncBrand.fullName.label; 자료로 PC 자료 모두 바꾸기">
+<!ENTITY choice.server.main.label     "PC 자료를 다른 기기로 모두 바꾸기">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "선택 사항 확인">
+<!ENTITY confirm.merge.label          "현재 컴퓨터의 자료와 &syncBrand.fullName.label;를 구동하는 다른 기기의 자료와 병합을 선택했습니다.">
+<!ENTITY confirm.client.label         "현재 컴퓨터의 모든 &brandShortName; 자료>는 삭제됩니다. 포함 항목:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName;는 &syncBrand.fullName.label; 자료를 현재 컴퓨터로 복사합니다.">
+<!ENTITY confirm.client.warning.label "경고: 현재 컴퓨터의 모든 &brandShortName; 자료가 변경됩니다!">
+<!ENTITY confirm.server.label         "아래 기기는 로컬 자료로 변경됩니다:">
+<!ENTITY confirm.server.warning.label "경고: 로컬 자료는 현재 기기 내 &brandShortName;의 모든 자료로 변경 됩니다!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "설정이 완료되었습니다!">
+<!ENTITY setup.successPage.desc.label    "축하 합니다! &brandShortName;는 여러분의 정보를 자동으로 설정할 수 없습니다. &syncBrand.fullName.label;를 설치 하시기 바랍니다.  &brandShortName;에서 계속 사용 가능 합니다.">
