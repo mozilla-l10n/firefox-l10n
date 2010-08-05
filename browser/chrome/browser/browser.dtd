@@ -163,8 +163,7 @@
 <!ENTITY closeTab.accesskey "c">
 <!ENTITY closeOtherTabs.accesskey "o">
 <!ENTITY closeOtherTabs.label "다른 탭 모두 닫기">
-<!ENTITY newTab.label "새 탭">
-<!ENTITY newTab.accesskey "N">
+
 <!ENTITY openTabInNewWindow.label     "새 창에 열기">
 <!ENTITY openTabInNewWindow.accesskey "W">
 <!ENTITY listAllTabs.label "탭 전체 목록">
@@ -353,14 +352,15 @@
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "자바스크립트 콘솔">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "웹 콘솔">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "문서 검사">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "문서 검사">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "다음">
@@ -385,6 +385,7 @@
 <!ENTITY appMenuSidebars.label "탐색창">
 <!ENTITY appMenuHelp.label "도움말">
 
+<!ENTITY developerMenu.label "개발자">
 <!ENTITY savePageCmd.accesskey2 "P">
 <!ENTITY quitApplicationCmdMac.label "&brandShortName; 종료">
 <!ENTITY quitApplicationCmdMac.key "Q">
@@ -443,3 +444,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "브라우저 탭">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "다른 컴퓨터에 저장된 탭 정보">
+
+<!ENTITY syncBrand.shortName.label  "동기화">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; 설정…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncLogInItem.label          "연결하기">
+<!ENTITY syncLogInItem.accesskey      "C">
+<!ENTITY syncLogOutItem.label         "연결끊기">
+<!ENTITY syncLogOutItem.accesskey     "D">
+<!ENTITY syncSyncNowItem.label        "동기화하기">
+<!ENTITY syncSyncNowItem.accesskey    "S">

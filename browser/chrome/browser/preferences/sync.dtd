@@ -1,0 +1,352 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY currentUser.label            "Current User:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Update">
+<!ENTITY resetPass.label              "Reset">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassphrase.label       "Change Secret Phrase">
+<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY differentAccount.label       "Use a Different Account">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY currentUser.label            "Current User:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Update">
+<!ENTITY resetPass.label              "Reset">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassphrase.label       "Change Secret Phrase">
+<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY differentAccount.label       "Use a Different Account">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY currentUser.label            "Current User:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Update">
+<!ENTITY resetPass.label              "Reset">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassphrase.label       "Change Secret Phrase">
+<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY differentAccount.label       "Use a Different Account">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY currentUser.label            "Current User:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Update">
+<!ENTITY resetPass.label              "Reset">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassphrase.label       "Change Secret Phrase">
+<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY differentAccount.label       "Use a Different Account">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY currentUser.label            "Current User:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Update">
+<!ENTITY resetPass.label              "Reset">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassphrase.label       "Change Secret Phrase">
+<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY differentAccount.label       "Use a Different Account">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY currentUser.label            "Current User:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Update">
+<!ENTITY resetPass.label              "Reset">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassphrase.label       "Change Secret Phrase">
+<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY differentAccount.label       "Use a Different Account">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY currentUser.label            "Current User:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Update">
+<!ENTITY resetPass.label              "Reset">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassphrase.label       "Change Secret Phrase">
+<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY differentAccount.label       "Use a Different Account">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY currentUser.label            "Current User:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Update">
+<!ENTITY resetPass.label              "Reset">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassphrase.label       "Change Secret Phrase">
+<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY differentAccount.label       "Use a Different Account">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "웹 브라우저 동기화">
+<!ENTITY syncComputerName.label       "컴퓨터 이름:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "항목 설정: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "전체 동기화">
+<!ENTITY customSync.label             "사용자 설정">
+<!ENTITY syncEverythingDescription.label  "북마크, 방문기록, 암호, 설정 및 탭 목록을 저장합니다.">
+<!ENTITY syncItem.bookmarks.label     "북마크">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "탭 목록">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "방문 기록">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "암호">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "동기화 설정">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "이용 약관">
+<!ENTITY prefs.ppLink.label         "개인정보 보호 정책">

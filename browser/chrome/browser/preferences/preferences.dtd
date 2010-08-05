@@ -10,3 +10,5 @@
 <!ENTITY prefWinMinSize.styleMac "width: 48em; min-height: 43em;">
 <!ENTITY prefWinMinSize.styleGNOME "width: 45em; min-height: 42.5em;">
 <!ENTITY paneApplications.title "프로그램">
+<!ENTITY paneSync.title          "동기화">
+
