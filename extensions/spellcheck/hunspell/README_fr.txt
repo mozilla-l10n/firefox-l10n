@@ -1,7 +1,7 @@
 _______________________________________________________________________________
 
    DICTIONNAIRE ORTHOGRAPHIQUE FRANÇAIS «Classique & Réforme 1990»
-   version 3.4.6
+   version 3.8
    
    Olivier R. - dicollecte<at>free<dot>fr
    Dicollecte: http://www.dicollecte.org/
@@ -19,10 +19,12 @@ _______________________________________________________________________________
    
    Principaux contributeurs:
    - Laurent Dubois, administrateur du dictionnaire;
-   - Pierre Poisson et Sylvain Poirier, contrôleurs;
+   - Sylvain P. et Pierre Poisson, contrôleurs;
    - Romain Muller et Serge Bibauw, de l’association RENOUVO, grâce à qui
-     la nouvelle orthographe et ses anciennes variantes ont pu être établies.
-     
+     la nouvelle orthographe et ses anciennes variantes ont pu être établies;
+   - Chantal Contant, pour ses recherches sur la réforme de 1990;
+   - Philipp Burgess, pour la normalisation de l’unicode avec Hunspell.
+   
    Merci aussi à tous ceux qui ont apporté leur pierre à l’édifice.
 
    Pour participer à l’amélioration du dictionnaire, allez sur:
@@ -35,27 +37,34 @@ _______________________________________________________________________________
    
    En 1990, le Conseil supérieur à la langue française et l’Académie française
    ont proposé une réforme de l’orthographe qui concerne plusieurs milliers de
-   mots. Les nouvelles graphies des mots ne sont pas obligatoires.
+   mots. L’emploi des nouvelles graphies n’est pas obligatoire. Les anciennes
+   comme les nouvelles sont considérées comme correctes.
    
    Pour en savoir plus sur la réforme de 1990:
    http://www.renouvo.org/regles.php
    http://www.orthographe-recommandee.info/
    
-   Afin de satisfaire les exigences de chacun, trois dictionnaires existent,
-   respectant différemment cette réforme.
+   Malgré les rectifications modestes apportées par cette réforme, la nouvelle
+   orthographe suscite beaucoup de polémiques. Afin de satisfaire les exigences
+   de chacun, quatre dictionnaires existent, respectant différemment cette
+   réforme.
    
-    Classique & Réforme 1990
-        Ce dictionnaire contient les nouvelles et les anciennes graphies des
-        mots concernés par la réforme de 1990.
-        C’est le dictionnaire recommandé.
-		
-    Classique
+    Dictionnaire «Classique»
         Ce dictionnaire ne propose que l’orthographe classique, celle qu’on
         trouve dans la plupart des livres publiés à ce jour.
 
-    Réforme 1990
+    Dictionnaire «Réforme 1990»
         Ce dictionnaire ne connaît que les graphies nouvelles des mots concernés
         par la réforme de 1990.
+        
+    Dictionnaire «Moderne»  [recommandé]
+        Ce dictionnaire propose une sélection des graphies classiques et
+        réformées, suivant la lente évolution de l’orthographe actuelle. Ce
+        dictionnaire contient les graphies les moins polémiques de la réforme.
+        
+    Dictionnaire «Classique & Réforme 1990»
+        Ce dictionnaire contient les nouvelles et les anciennes graphies des
+        mots concernés par la réforme de 1990.
 
 _______________________________________________________________________________
 
