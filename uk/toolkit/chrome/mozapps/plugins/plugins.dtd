@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Для роботи модуля(ів) потрібно перезапустити &brandShortName;. ">
   
 <!ENTITY missingPlugin.label                                 "Клацніть тут щоб завантажити модуль.">
-<!ENTITY disabledPlugin.label                                "Моділь для цього типу вмісту вимкниний. Клацніть тут щоб керувати вашими модулями.">
+<!ENTITY disabledPlugin.label                                "Моділь для цього типу вмісту вимкнений. Клацніть тут щоб керувати вашими модулями.">
 <!ENTITY blockedPlugin.label                                 "Цей модуль був блокований задля вашого захисту.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
