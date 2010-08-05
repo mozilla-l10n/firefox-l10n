@@ -120,6 +120,7 @@
 <!ENTITY printButton.label            "Imprimer">
 <!ENTITY printButton.tooltip          "Imprimer cette page">
 
+<!ENTITY backForwardItem.title        "Page précédente/suivante">
 <!ENTITY locationItem.title           "Adresse">
 <!ENTITY searchItem.title             "Rechercher">
 <!ENTITY throbberItem.title           "Indicateur d'activité">
@@ -255,7 +256,7 @@
 <!ENTITY appMenuPrintCmd.label "Imprimer">
 <!ENTITY appMenuCustomize.label "Personnaliser">
 <!ENTITY appMenuToolbarLayout.label "Disposition de la barre d'outils…">
-<!ENTITY appMenuSidebars.label "Barres latérales">
+<!ENTITY appMenuSidebars.label "Panneau latéral">
 <!ENTITY appMenuHelp.label "Aide">
 
 <!ENTITY developerMenu.label "Développeur">
