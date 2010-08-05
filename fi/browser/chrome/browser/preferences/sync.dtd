@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Aseta &syncBrand.fullName.label;in asetukset">
+<!ENTITY setupButton.accesskey      "A">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label;in avulla sivuhistoriasi, kirjanmerkkisi, salasanasi ja avoimet välilehtesi ovat saatavilla kaikissa laitteissasi.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; -tili">
+<!ENTITY currentUser.label            "Käyttäjätunnus:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Päivitä">
+<!ENTITY resetPass.label              "Palauta">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Hallinnoi tiliä">
+<!ENTITY manageAccount.accesskey      "H">
+<!ENTITY changePassword.label         "Vaihda salasana">
+<!ENTITY changePassphrase.label       "Vaihda salainen lause">
+<!ENTITY resetSync.label              "Aloita synkronointi alusta">
+<!ENTITY differentAccount.label       "Käytä toista tiliä">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Selaimen synkronointi">
+<!ENTITY syncComputerName.label       "Laitteen nimi:">
+<!ENTITY syncComputerName.accesskey   "L">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; synkronoi: ">
+<!ENTITY syncModeSwitchDesc.accesskey "s">
+<!ENTITY syncEverything.label         "Kaikki tiedot">
+<!ENTITY customSync.label             "Valitut tiedot">
+<!ENTITY syncEverythingDescription.label  "Kirjanmerkit, sivuhistoria, salasanat, asetukset ja avoimet välilehdet synkronoidaan.">
+<!ENTITY syncItem.bookmarks.label     "Synkronoi kirjanmerkit">
+<!ENTITY syncItem.bookmarks.accesskey "k">
+<!ENTITY syncItem.tabs.label          "Synkronoi välilehdet">
+<!ENTITY syncItem.tabs.accesskey      "v">
+<!ENTITY syncItem.history.label       "Synkronoi sivuhistoria">
+<!ENTITY syncItem.history.accesskey   "h">
+<!ENTITY syncItem.passwords.label     "Synkronoi salasanat">
+<!ENTITY syncItem.passwords.accesskey "n">
+<!ENTITY syncItem.prefs.label         "Synkronoi asetukset">
+<!ENTITY syncItem.prefs.accesskey     "a">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Käyttöehdot">
+<!ENTITY prefs.ppLink.label         "Tietosuojakäytäntö">

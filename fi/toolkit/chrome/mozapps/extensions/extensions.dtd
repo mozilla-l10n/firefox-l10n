@@ -111,7 +111,8 @@
 <!ENTITY addon.homepage                       "Kotisivu">
 <!ENTITY addon.unknownDate                    "Tuntematon">
 <!ENTITY addon.disabled.postfix               "(pois käytöstä)">
-<!ENTITY addon.update.postfix                 "Päivitä">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "päivitys">
 <!ENTITY addon.undo.label                     "Kumoa?">
 <!ENTITY addon.undo.tooltip                   "Kumoa toiminto">
 <!ENTITY addon.undoUninstall.label            "Kumo?">
