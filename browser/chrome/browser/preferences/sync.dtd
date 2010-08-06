@@ -1,12 +1,44 @@
-<!ENTITY syncBrand.shortName.label  "ਸਿੰਕ">
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; ਸੈਟਅੱਪ">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
 
-<!ENTITY syncMenu.label       "&syncBrand.shortName.label;">
-<!ENTITY syncSetup.label      "&syncBrand.shortName.label; ਸੈਟਅੱਪ…">
-<!ENTITY logInItem.label      "ਕੁਨੈਕਟ ਕਰੋ">
-<!ENTITY logOutItem.label     "ਡਿਸ-ਕੁਨੈਕਟ">
-<!ENTITY syncNowItem.label    "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
-<!ENTITY openPrefsItem.label  "ਮੇਰੀ ਪਸੰਦ…">
-<!ENTITY openLogItem.label    "ਸਰਗਰਮੀ ਲਾਗ">
-<!ENTITY status.offline.label "ਆਫਲਾਈਨ">
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ਅਕਾਊਂਟ">
+<!ENTITY currentUser.label            "ਮੌਜੂਦਾ ਯੂਜ਼ਰ">
 
-<!ENTITY syncTabsMenu.label               "ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਤੋਂ ਟੈਬਾਂ">
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "ਅੱਪਡੇਟ">
+<!ENTITY resetPass.label              "ਮੁੜ-ਸੈੱਟ">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "ਅਕਾਊਂਟ ਪਰਬੰਧ">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "ਪਾਸਵਰਡ ਬਦਲੋ">
+<!ENTITY changePassphrase.label       "ਗੁਪਤ ਭੇਦ ਬਦਲੋ">
+<!ENTITY resetSync.label              "ਸਿੰਕ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
+<!ENTITY differentAccount.label       "ਵੱਖਰਾ ਅਕਾਊਂਟ ਵਰਤੋਂ">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "ਬਰਾਊਜ਼ਰ ਸਿੰਕ">
+<!ENTITY syncComputerName.label       "ਕੰਪਿਊਟਰ ਨਾਂ:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "ਹਰ ਚੀਜ਼ ਸਿੰਕ ਕਰੋ">
+<!ENTITY customSync.label             "ਮੇਰੀ ਪਸੰਦੀਦਾ ਸੈਟਿੰਗ ਵਰਤੋਂ">
+<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "ਸਰਵਿਸ ਦੀਆਂ ਸ਼ਰਤਾਂ">
+<!ENTITY prefs.ppLink.label         "ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ">

@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ">
 <!ENTITY loading.label                        "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…">
 <!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.availableUpdates.label     "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਲੱਭਿਆ">
+<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.findUpdates.label          "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
 <!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
 <!ENTITY listEmpty.button.label               "ਐਡ-ਆਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
 
@@ -17,12 +20,19 @@
 <!ENTITY view.plugins.label                   "ਪਲੱਗਇਨ">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕਰੋ">
-<!ENTITY updates.updating.label               "ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ">
-<!ENTITY updates.installed.label              "Your add-ons have been updated.">
+
+<!ENTITY updates.updateAddonsNow.label        "ਹੁਣ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.viewUpdates.label            "ਤਾਜ਼ਾ ਅੱਪਡੇਟ ਵੇਖੋ">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.backgroudUpdateCheck.label   "ਅੱਪਡੇਟ ਲਈ ਆਟੋਮੈਟਿਕ ਹੀ ਚੈੱਕ ਕਰੋ">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
+<!ENTITY updates.updating.label               "ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ">
+<!ENTITY updates.installed.label              "ਤੁਹਾਡੀ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ।">
 <!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
 <!ENTITY updates.restart.label                "ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਲਈ ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
-<!ENTITY updates.noneFound.label              "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ">
+<!ENTITY updates.noneFound.label              "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ">
+<!ENTITY updates.manualUpdatesFound.label     "ਉਪਲੱਬਧ ਅੱਪਡੇਟ ਵੇਖੋ">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "ਹੋਰ ਜਾਣਕਾਰੀ ਵੇਖੋ">
@@ -42,11 +52,16 @@
 
 <!ENTITY cmd.uninstallAddon.label             "ਹਟਾਓ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferences.label            "Preferences">
-<!ENTITY cmd.showPreferences.tooltip          "Change this add-on's preferences">
+<!ENTITY cmd.showPreferences.label            "ਪਸੰਦ">
+<!ENTITY cmd.showPreferences.tooltip          "ਇਸ ਐਡ-ਆਨ ਪਸੰਦ ਬਦਲੋ">
 <!ENTITY cmd.contribute.label                 "ਯੋਗਦਾਨ">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
+
+<!ENTITY cmd.showReleaseNotes.label           "ਰੀਲਿਜ਼ ਨੋਟਿਸ ਵੇਖੋ">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
+<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
 
 
 <!-- detail view -->
@@ -62,7 +77,7 @@
 <!ENTITY detail.checkForUpdates.label         "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
-<!ENTITY detail.showPreferences.label         "Preferences">
+<!ENTITY detail.showPreferences.label         "ਪਸੰਦ">
 <!ENTITY detail.showPreferences.accesskey     "P">
 <!ENTITY detail.showPreferences.tooltip       "Change this add-on's preferences">
 
@@ -92,20 +107,27 @@
 <!ENTITY showLess.tooltip                     "Show fewer details">
 
 <!ENTITY search.filter.label                  "ਵੇਖੋ:">
-<!ENTITY search.filter.installed.label        "Your installed add-ons">
-<!ENTITY search.filter.available.label        "Available add-ons">
+<!ENTITY search.filter.installed.label        "ਤੁਹਾਡੀਆਂ ਇੰਸਟਾਲ ਐਡ-ਆਨ">
+<!ENTITY search.filter.available.label        "ਉਪਲੱਬਧ ਐਡ-ਆਨ">
 
 <!ENTITY addon.homepage                       "ਮੁੱਖ ਪੇਜ਼">
 <!ENTITY addon.unknownDate                    "ਅਣਜਾਣ">
 <!ENTITY addon.disabled.postfix               "(ਬੰਦ ਹੈ)">
-<!ENTITY addon.undo.label                     "Undo?">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "ਅੱਪਡੇਟ">
+<!ENTITY addon.undo.label                     "ਵਾਪਸ ਲੈਣਾ?">
 <!ENTITY addon.undo.tooltip                   "Undo this action">
-<!ENTITY addon.undoUninstall.label            "Undo?">
+<!ENTITY addon.undoUninstall.label            "ਵਾਪਸ ਲੈਣਾ?">
 <!ENTITY addon.undoUninstall.tooltip          "Keep this add-on installed">
 <!ENTITY addon.restartNow.label               "ਹੁਣੇ ਮੁੜ-ਚਾਲੂ">
 <!ENTITY addon.restartNow.tooltip             "Restart now to complete installation">
 <!ENTITY addon.install.label                  "ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addon.install.tooltip                "Install this add-on">
-<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
+<!ENTITY addon.updateNow.label                "ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
+<!ENTITY addon.checkingForUpdates.label       "…ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
+<!ENTITY addon.releaseNotes.label             "ਰੀਲਿਜ਼ ਨੋਟਿਸ:">
+<!ENTITY addon.loadingReleaseNotes.label      "…ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
 
 <!ENTITY addon.createdBy.label                "ਵਲੋਂ ">

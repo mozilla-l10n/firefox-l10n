@@ -118,6 +118,7 @@
 <!ENTITY printButton.tooltip          "ਇਹ ਪੇਜ਼ ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY feedButton.tooltip           "…ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 
+<!ENTITY backForwardItem.title        "ਪਿੱਛੇ/ਅੱਗੇ">
 <!ENTITY locationItem.title           "ਟਿਕਾਣਾ">
 <!ENTITY searchItem.title             "ਖੋਜ">
 <!ENTITY throbberItem.title           "ਐਕਟਵਿਟੀ ਇੰਡੀਕੇਟਰ">
@@ -177,6 +178,7 @@
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "ਜਾਂਚ">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "ਅੱਗੇ">
@@ -266,6 +268,7 @@
 <!ENTITY appMenuSidebars.label "ਬਾਹੀ">
 <!ENTITY appMenuHelp.label "ਮੱਦਦ">
 
+<!ENTITY developerMenu.label "ਡਿਵੈਲਪਰ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "ਵੈੱਬ ਸਾਈਟ ਉੱਤੇ ਜਾਓ">
@@ -525,3 +528,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ਬਰਾਊਜ਼ਰ ਟੈਬ">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਤੋਂ ਟੈਬਾਂ">
+
+<!ENTITY syncBrand.shortName.label  "ਸਿੰਕ">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; ਸੈਟਅੱਪ…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncLogInItem.label          "ਕੁਨੈਕਟ ਕਰੋ">
+<!ENTITY syncLogInItem.accesskey      "C">
+<!ENTITY syncLogOutItem.label         "ਡਿਸ-ਕੁਨੈਕਟ ਕਰੋ">
+<!ENTITY syncLogOutItem.accesskey     "D">
+<!ENTITY syncSyncNowItem.label        "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
+<!ENTITY syncSyncNowItem.accesskey    "S">
