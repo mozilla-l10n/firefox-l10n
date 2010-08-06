@@ -108,6 +108,7 @@
 <!ENTITY feedButton.tooltip "Gerast áskrifandi að þessari síðu…">
 <!ENTITY printButton.label "Prenta">
 <!ENTITY printButton.tooltip "Prenta síðu">
+<!ENTITY backForwardItem.title "Til baka/Áfram">
 <!ENTITY locationItem.title "Staðsetning">
 <!ENTITY searchItem.title "Leita">
 <!ENTITY throbberItem.title "Virknivísir">
@@ -155,6 +156,7 @@
 <!ENTITY inspectMenu.label "Skoða">
 <!ENTITY inspectMenu.accesskey "S">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Skoða">
 <!ENTITY inspectButton.accesskey "k">
 <!ENTITY inspectNextButton.label "Áfram">
@@ -259,6 +261,7 @@
 <!ENTITY appMenuToolbarLayout.label "Útlit tækjaslár…">
 <!ENTITY appMenuSidebars.label "Hliðarslá">
 <!ENTITY appMenuHelp.label "Hjálp">
+<!ENTITY developerMenu.label "Forritari">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Fara á vefsvæði">
 <!ENTITY urlbar.accesskey "d">
@@ -493,3 +496,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Vafraflipa">
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label "Flipar frá öðrum tölvum">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncMenu.label "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey "y">
+<!ENTITY syncSetup.label "Setja upp &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey "y">
+<!ENTITY syncLogInItem.label "Tengjast">
+<!ENTITY syncLogInItem.accesskey "T">
+<!ENTITY syncLogOutItem.label "Aftengja">
+<!ENTITY syncLogOutItem.accesskey "A">
+<!ENTITY syncSyncNowItem.label "Samstilla núna">
+<!ENTITY syncSyncNowItem.accesskey "S">
