@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Ställ in &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ger dig tillgång till din historik, dina bokmärken, lösenord och öppna flikar på alla dina enheter.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-konto">
+<!ENTITY currentUser.label            "Aktuell användare:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Uppdatera">
+<!ENTITY resetPass.label              "Återställ">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Hantera konto">
+<!ENTITY manageAccount.accesskey      "k">
+<!ENTITY changePassword.label         "Byt lösenord">
+<!ENTITY changePassphrase.label       "Byt hemlig fras">
+<!ENTITY resetSync.label              "Återställ Sync">
+<!ENTITY differentAccount.label       "Använd ett annat konto">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Webbläsarsynkning">
+<!ENTITY syncComputerName.label       "Datorns namn:">
+<!ENTITY syncComputerName.accesskey   "D">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; kommer att: ">
+<!ENTITY syncModeSwitchDesc.accesskey "k">
+<!ENTITY syncEverything.label         "Synka allt">
+<!ENTITY customSync.label             "Använda anpassade inställningar">
+<!ENTITY syncEverythingDescription.label  "Dina bokmärken, historik, lösenord, inställningar och flikar kommer att synkas.">
+<!ENTITY syncItem.bookmarks.label     "Synka bokmärken">
+<!ENTITY syncItem.bookmarks.accesskey "b">
+<!ENTITY syncItem.tabs.label          "Synka flikar">
+<!ENTITY syncItem.tabs.accesskey      "a">
+<!ENTITY syncItem.history.label       "Synka historiken">
+<!ENTITY syncItem.history.accesskey   "o">
+<!ENTITY syncItem.passwords.label     "Synka lösenord">
+<!ENTITY syncItem.passwords.accesskey "ö">
+<!ENTITY syncItem.prefs.label         "Synka inställningar">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Tjänstevillkor">
+<!ENTITY prefs.ppLink.label         "Sekretesspolicy">
