@@ -111,7 +111,8 @@
 <!ENTITY addon.homepage                       "Webbplats">
 <!ENTITY addon.unknownDate                    "Okänt">
 <!ENTITY addon.disabled.postfix               "(inaktiverat)">
-<!ENTITY addon.update.postfix                 "Uppdatera">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "uppdatering">
 <!ENTITY addon.undo.label                     "Ångra?">
 <!ENTITY addon.undo.tooltip                   "Ångra denna åtgärd">
 <!ENTITY addon.undoUninstall.label            "Ångra?">
