@@ -119,6 +119,7 @@
 <!ENTITY printButton.label            "列印">
 <!ENTITY printButton.tooltip          "列印頁面">
 
+<!ENTITY backForwardItem.title        "上一頁／下一頁">
 <!ENTITY locationItem.title           "位址">
 <!ENTITY searchItem.title             "搜尋">
 <!ENTITY throbberItem.title           "進度指示器">
@@ -238,7 +239,7 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "自訂…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY viewTabsOnTop.label            "把分頁標籤移到網址列之上">
+<!ENTITY viewTabsOnTop.label            "分頁列置頂">
 <!ENTITY viewTabsOnTop.accesskey        "T">
 
 <!ENTITY historyMenu.label "歷史">
