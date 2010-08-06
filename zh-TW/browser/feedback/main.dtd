@@ -25,6 +25,6 @@
 
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "開啟使用者研究">
-<!ENTITY testpilot.feedbackbutton.label                "回饋">
+<!ENTITY testpilot.feedbackbutton.label                "意見回饋">
 <!ENTITY testpilot.happy.label        "Firefox 讓我覺得高興，因為…">
 <!ENTITY testpilot.sad.label          "Firefox 讓我覺得難過，因為…">
