@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder "Leita í öllum viðbótum">
 <!ENTITY loading.label "Hleður…">
 <!ENTITY listEmpty.installed.label "Ekki eru uppsettar neinar tegundir af þessum viðbótum">
+<!ENTITY listEmpty.availableUpdates.label "Engar uppfærslur fundust">
+<!ENTITY listEmpty.recentUpdates.label "Þú hefur ekki uppfært neinar viðbætur nýlega">
+<!ENTITY listEmpty.findUpdates.label "Athuga með uppfærslur">
 <!ENTITY listEmpty.search.label "Fann ekki viðbætur sem pössuðu">
 <!ENTITY listEmpty.button.label "Fræðast meira um viðbætur">
 <!-- categories / views -->
@@ -13,13 +16,21 @@
 <!ENTITY view.features.label "Viðbætur">
 <!ENTITY view.appearance.label "Þema">
 <!ENTITY view.plugins.label "Tengiforrit">
+<!ENTITY view.recentUpdates.label "Nýlegar uppfærslur">
+<!ENTITY view.availableUpdates.label "Fáanlegar uppfærslur">
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label "Uppfæra viðbætur">
+<!ENTITY updates.updateAddonsNow.label "Uppfæra viðbætur núna">
+<!ENTITY updates.updateAddonsNow.accesskey "U">
+<!ENTITY updates.viewUpdates.label "Skoða nýlegar uppfærslur">
+<!ENTITY updates.viewUpdates.accesskey "S">
+<!ENTITY updates.backgroudUpdateCheck.label "Leita sjálfkrafa að uppfærslum">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "L">
 <!ENTITY updates.updating.label "Uppfæri viðbætur">
 <!ENTITY updates.installed.label "Búið er að uppfæra viðbætur.">
 <!ENTITY updates.downloaded.label "Búið er að niðurhala viðbótum.">
 <!ENTITY updates.restart.label "Endurræstu núna til að ljúka uppsetningu">
 <!ENTITY updates.noneFound.label "Engar uppfærslur fundust">
+<!ENTITY updates.manualUpdatesFound.label "Skoða fáanlegar uppfærslur">
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label "Sýna meiri upplýsingar">
 <!ENTITY cmd.showDetails.accesskey "S">
@@ -31,18 +42,19 @@
 <!ENTITY cmd.about.accesskey "U">
 <!ENTITY cmd.enableAddon.label "Gera virkt">
 <!ENTITY cmd.enableAddon.accesskey "e">
-<!ENTITY cmd.enableAddon.tooltip "Virkja viðbót">
 <!ENTITY cmd.disableAddon.label "Slökkva">
 <!ENTITY cmd.disableAddon.accesskey "S">
-<!ENTITY cmd.disableAddon.tooltip "Slökkva á viðbót">
 <!ENTITY cmd.uninstallAddon.label "Fjarlægja">
 <!ENTITY cmd.uninstallAddon.accesskey "r">
-<!ENTITY cmd.uninstallAddon.tooltip "Taka viðbót út">
 <!ENTITY cmd.showPreferences.label "Valkostir">
 <!ENTITY cmd.showPreferences.tooltip "Breyta stillingum viðbótar">
 <!ENTITY cmd.contribute.label "Gefa">
 <!ENTITY cmd.contribute.accesskey "G">
 <!ENTITY cmd.contribute.tooltip "Hjálpa til með þróunina á þessari viðbót">
+<!ENTITY cmd.showReleaseNotes.label "Sýna útgáfuupplýsingar">
+<!ENTITY cmd.showReleaseNotes.tooltip "Sýna útgáfuupplýsingar fyrir þessa uppfærslu">
+<!ENTITY cmd.hideReleaseNotes.label "Fela útgáfuupplýsingar">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Fela útgáfuupplýsingar fyrir þessa uppfærslu">
 <!-- detail view -->
 <!ENTITY detail.version.label "Útgáfa">
 <!ENTITY detail.updated.label "Uppfært">
@@ -82,6 +94,8 @@
 <!ENTITY addon.homepage "Heimasíða">
 <!ENTITY addon.unknownDate "Óþekkt">
 <!ENTITY addon.disabled.postfix "(óvirkt)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix "Uppfæra">
 <!ENTITY addon.undo.label "Afturkalla?">
 <!ENTITY addon.undo.tooltip "Hætta við þessa aðgerð">
 <!ENTITY addon.undoUninstall.label "Afturkalla?">
@@ -90,5 +104,10 @@
 <!ENTITY addon.restartNow.tooltip "Endurræstu núna til að ljúka uppsetningu">
 <!ENTITY addon.install.label "Setja upp">
 <!ENTITY addon.install.tooltip "Setja inn þessa viðbót">
+<!ENTITY addon.updateNow.label "Uppfæra nú">
+<!ENTITY addon.updateNow.tooltip "Setja inn uppfærslu fyrir þessa viðbót">
 <!ENTITY addon.checkingForUpdates.label "Athuga með uppfærslur…">
+<!ENTITY addon.releaseNotes.label "Útgáfuupplýsingar:">
+<!ENTITY addon.loadingReleaseNotes.label "Hleður…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Því miður kom upp villa við að sýna útgáfuupplýsingar.">
 <!ENTITY addon.createdBy.label "Eftir ">
