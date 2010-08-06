@@ -99,6 +99,7 @@
 <!ENTITY feedButton.tooltip "Подписаться на ленты новостей…">
 <!ENTITY printButton.label "Печать">
 <!ENTITY printButton.tooltip "Распечатать эту страницу">
+<!ENTITY backForwardItem.title "Назад/Вперёд">
 <!ENTITY locationItem.title "Адрес">
 <!ENTITY searchItem.title "Поиск">
 <!ENTITY throbberItem.title "Индикатор активности">
