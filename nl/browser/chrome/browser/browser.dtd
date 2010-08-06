@@ -119,6 +119,7 @@
 <!ENTITY printButton.label            "Afdrukken">
 <!ENTITY printButton.tooltip          "Deze pagina afdrukken">
 
+<!ENTITY backForwardItem.title        "Terug/vooruit">
 <!ENTITY locationItem.title           "Locatie">
 <!ENTITY searchItem.title             "Zoeken">
 <!ENTITY throbberItem.title           "Activiteitsindicator">
