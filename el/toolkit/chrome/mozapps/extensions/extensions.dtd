@@ -5,6 +5,17 @@
 <!ENTITY listEmpty.installed.label            "Δεν έχετε εγκατεστημένα πρόσθετα αυτού του τύπου">
 <!ENTITY listEmpty.search.label               "Αδυναμία εύρεσης προσθέτων που να ταιριάζουν">
 <!ENTITY listEmpty.button.label               "Μάθετε περισσότερα για τα πρόσθετα">
+<!ENTITY listEmpty.availableUpdates.label     "Δεν βρέθηκαν ενημερώσεις">
+<!ENTITY listEmpty.recentUpdates.label        "Δεν έχετε ενημερώσει πρόσφατα κάποιο από τα πρόσθετα σας">
+<!ENTITY listEmpty.findUpdates.label          "Έλεγχος για ενημερώσεις">
+
+
+
+<!ENTITY cmd.showReleaseNotes.label           "Προβολή σημειώσεων έκδοσης">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Προβολή των σημειώσεων έκδοσης για αυτή την ενημέρωση">
+<!ENTITY cmd.hideReleaseNotes.label           "Απόκρυψη σημειώσεων έκδοσης">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Απόκρυψη των σημειώσεων έκδοσης για αυτή την ενημέρωση">
+
 
 
 <!-- categories / views -->
@@ -17,14 +28,26 @@
 <!ENTITY view.features.label                  "Επεκτάσεις">
 <!ENTITY view.appearance.label                "Θέματα">
 <!ENTITY view.plugins.label                   "Πρόσθετες λειτουργίες">
+<!ENTITY view.recentUpdates.label             "Πρόσφατες ενημερώσεις">
+<!ENTITY view.availableUpdates.label          "Διαθέσιμες ενημερώσεις">
+
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Ενημέρωση προσθέτων">
+<!ENTITY updates.updateAddonsNow.label        "Ενημέρωση προσθέτων τώρα">
+<!ENTITY updates.updateAddonsNow.accesskey    "η">
+
 <!ENTITY updates.updating.label               "Γίνεται ενημέρωση προσθέτων">
 <!ENTITY updates.installed.label              "Τα πρόσθετα σας ενημερώθηκαν.">
 <!ENTITY updates.downloaded.label             "Έχει ολοκληρωθεί η λήψη των ενημερώσεων των προσθέτων σας.">
 <!ENTITY updates.restart.label                "Επανεκκίνηση για να ολοκληρωθεί η εγκατάσταση">
 <!ENTITY updates.noneFound.label              "Δεν βρέθηκαν ενημερώσεις">
+
+<!ENTITY updates.backgroudUpdateCheck.label   "Αυτόματος έλεγχος για ενημερώσεις">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "χ">
+<!ENTITY updates.manualUpdatesFound.label     "Εμφάνιση διαθέσιμων ενημερώσεων">
+<!ENTITY updates.viewUpdates.label            "Εμφάνιση πρόσφατων ενημερώσεων">
+<!ENTITY updates.viewUpdates.accesskey        "φ">
+
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Προβολή περισσότερων πληροφοριών">
@@ -107,6 +130,14 @@
 <!ENTITY addon.checkingForUpdates.label       "Γίνεται έλεγχος για ενημερώσεις…">
 
 <!ENTITY addon.createdBy.label                "Από ">
+
+<!ENTITY addon.updateNow.label                "Ενημέρωση τώρα">
+<!ENTITY addon.updateNow.tooltip              "Εγκατάσταση της ενημέρωσης για αυτό το πρόσθετο">
+<!ENTITY addon.checkingForUpdates.label       "Γίνεται έλεγχος για ενημερώσεις…">
+<!ENTITY addon.releaseNotes.label             "Σημειώσεις έκδοσης:">
+<!ENTITY addon.loadingReleaseNotes.label      "Φόρτωση…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Συγγνώμη, αλλά υπήρξε ένα σφάλμα κατά την φόρτωση των σημειώσεων έκδοσης.">
+
 
 <!ENTITY cmd.showPreferences.label            "Προτιμήσεις">
 <!ENTITY cmd.showPreferences.tooltip          "Αλλαγή των προτιμήσεων αυτού του προσθέτου">

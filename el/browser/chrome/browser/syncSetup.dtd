@@ -1,0 +1,99 @@
+<!ENTITY accountSetupTitle.label    "Ρύθμιση &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν;">
+<!ENTITY setup.choicePage.new.label       "Δεν εχω χρησιμοποιήσει το &syncBrand.shortName.label; ξανά">
+<!ENTITY setup.choicePage.existing.label  "Χρησιμοποιώ ήδη το &syncBrand.shortName.label; σε άλλο υπολογιστή">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Σύνδεση σε">
+<!ENTITY serverType.main.label      "Εξυπηρετητής &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Χρήση ενός προσαρμοσμένου εξυπηρετητή">
+<!ENTITY signIn.username.label      "Όνομα χρήστη">
+<!ENTITY signIn.username.accesskey  "ν">
+<!ENTITY signIn.password.label      "Κωδικός">
+<!ENTITY signIn.password.accesskey  "ω">
+<!ENTITY signIn.serverURL.label     "URL εξυπηρετητή">
+<!ENTITY signIn.serverURL.accesskey "L">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Δημιουργία λογαριασμού &syncBrand.shortName.label;">
+<!ENTITY setup.confirmPassword.label  "Επιβεβαίωση κωδικού">
+<!ENTITY setup.confirmPassword.accesskey  "β">
+<!ENTITY setup.emailAddress.label     "Διεύθυνση Email">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Συμφωνώ με τους">
+<!ENTITY setup.tosAgree1.accesskey  "ο">
+<!ENTITY setup.tosLink.label        "Όρους της υπηρεσίας">
+<!ENTITY setup.tosAgree2.label      "και την">
+<!ENTITY setup.ppLink.label         "Πολιτική απορρήτου">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Εισάγετε τη συνθηματική σας φράση">
+<!ENTITY passphraseDesc.label         "Παρακαλώ εισάγετε τη συνθηματική σας φράση. Αυτή θα χρησιμοποιηθεί για τη κρυπτογράφηση όλων των δεδομένων σας για να έχετε αποκλειστική πρόσβαση. Δεν θα αποθηκευθεί ποτέ στον εξυπηρετητή, ΜΗΝ την ξεχάσετε!">
+<!ENTITY passphraseDesc2.label        "Θα πρέπει να αποτελείται από τουλάχιστον 12 χαρακτήρες και δεν θα πρέπει να ταιριάζει με το κωδικό του λογαριασμού.">
+<!ENTITY passphraseEntry.label        "Συνθηματική φράση">
+<!ENTITY passphraseEntry.accesskey    "Σ">
+<!ENTITY passphraseConfirm.label      "Επιβεβαίωση">
+<!ENTITY passphraseConfirm.accesskey  "β">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Προτιμήσεις συγχρονισμού περιηγητή">
+<!ENTITY syncComputerName.label       "Όνομα υπολογιστή">
+<!ENTITY syncComputerName.accesskey   "π">
+<!ENTITY syncModeSwitchDesc.label     "Με τον &brandShortName; να: ">
+<!ENTITY syncModeSwitchDesc.accesskey "ν">
+<!ENTITY syncEverything.label         "Γίνεται συγχρονισμός όλων">
+<!ENTITY customSync.label             "Χρήση των προσαρμοσμένων μου ρυθμίσεων">
+<!ENTITY syncEverythingDescription.label  "Οι σελιδοδείκτες, το ιστορικό, οι κωδικοί, οι προτιμήσεις και οι καρτέλες σας θα συγχρονιστούν.">
+<!ENTITY syncItem.bookmarks.label     "Συγχρονισμός σελιδοδεικτών">
+<!ENTITY syncItem.bookmarks.accesskey "δ">
+<!ENTITY syncItem.tabs.label          "Συγχρονισμός καρτελών">
+<!ENTITY syncItem.tabs.accesskey      "τ">
+<!ENTITY syncItem.history.label       "Συγχρονισμός ιστορικού">
+<!ENTITY syncItem.history.accesskey   "ρ">
+<!ENTITY syncItem.passwords.label     "Συγχρονισμός κωδικών">
+<!ENTITY syncItem.passwords.accesskey "ω">
+<!ENTITY syncItem.prefs.label         "Συγχρονισμός προτιμήσεων">
+<!ENTITY syncItem.prefs.accesskey     "χ">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Παρακαλώ αποδείξτε ότι δεν είστε ρομπότ ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Εισάγετε πληροφορίες λογαριασμού">
+<!ENTITY resetPassword.label          "Διαγραφή κωδικού">
+<!ENTITY connecting.label             "Γίνεται σύνδεση…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Εισάγετε τη συνθηματική σας φράση">
+<!ENTITY passphraseDesc3.label        "Εισάγετε τη συνθηματική σας φράση. Θα πρέπει να είναι η ίδια συνθηματική φράση που χρησιμοποιήσατε για τη κρυπτογράφηση των δεδομένων σας.">
+<!ENTITY passphraseHelp.label         " Η συνθηματική σας φράση Θα πρέπει να αποτελείται από τουλάχιστον 12 χαρακτήρες και δεν είναι ο κωδικός σας. Μπορείτε να δείτε την αποθηκευμένη συνθηματική σας φράση στον άλλο σας υπολογιστή κάτω από την επιλογή Αποθηκευμένοι κωδικοί στη καρτέλα Ασφάλεια. Αν δεν μπορείτε να βρείτε την σωστή συνθηματική φράση, μπορείτε να την διαγράψετε αλλά θα χάσετε και όλα τα αποθηκευμένα δεδομένα σας που βρίσκονται στον εξυπηρετητή.">
+<!ENTITY changePassphrase.label       "Αλλαγή συνθηματικής φράσης">
+<!ENTITY verifying.label              "Επιβεβαίωση…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Πως θέλετε να ξεκινήσετε;">
+<!ENTITY choice.merge.main.label      "Συγχώνευση των δεδομένων αυτού του υπολογιστή με τα δεδομένα του &syncBrand.shortName.label; σας">
+<!ENTITY choice.merge.recommend.label "Αυτή επιλογή συστήνεται για όλους τους χρήστες.">
+<!ENTITY choice.client.main.label     "Αντικατάσταση όλων των δεδομένων αυτού του υπολογιστή με τα δεδομένα του &syncBrand.fullName.label;">
+<!ENTITY choice.server.main.label     "Αντικατάσταση σε όλες τις άλλες συσκευές με τα τοπικά δεδομένα σας">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Επιβεβαιώστε την επιλογή σας">
+<!ENTITY confirm.merge.label          "Επιλέξατε να συγχωνεύσετε τα δεδομένα αυτού του υπολογιστή με τα δεδομένα των άλλων σας συσκευών που τρέχουν το &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label         "Όλα τα δεδομένα του &brandShortName; σε αυτό τον υπολογιστή θα διαγραφούν, συμπεριλαμβανομένων των παρακάτω:">
+<!ENTITY confirm.client.moreinfo.label "Ο &brandShortName; θα αντιγράψει τα δεδομένα του &syncBrand.fullName.label; σε αυτό τον υπολογιστή.">
+<!ENTITY confirm.client.warning.label "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Αυτό θα έχει ως αποτέλεσμα την αντικατάσταση όλων των δεδομένων του &brandShortName; σε αυτό τον υπολογιστή!">
+<!ENTITY confirm.server.label         "Οι παρακάτω συσκευές θα αντικατασταθούν με τα τοπικά σας δεδομένα:">
+<!ENTITY confirm.server.warning.label "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Τα τοπικά σας δεδομένα θα αντικαταστήσουν όλα τα δεδομένα του &brandShortName; σε αυτές τις συσκευές!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Η ρύθμιση ολοκληρώθηκε!">
+<!ENTITY setup.successPage.desc.label    "Συγχαρητήρια! Τώρα ο &brandShortName; έχει ρυθμιστεί να συγχρονίζει αυτόματα τις πληροφορίες σας. Μην ξεχάσετε να εγκαταστήσετε το &syncBrand.fullName.label; σε όλες σας τις συσκευές. Μπορείτε τώρα να συνεχίσετε τη χρήση του &brandShortName;.">
+
