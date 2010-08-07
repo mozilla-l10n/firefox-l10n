@@ -1,0 +1,45 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Ρύθμιση &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "θ">
+<!ENTITY weaveDesc.label            "Με τον &syncBrand.fullName.label; μπορείτε να έχετε πρόσβαση στο ιστορικό, τους σελιδοδείκτες, τους κωδικούς και τις ανοικτές καρτέλες σας, μέσω όλων των συσκευών σας.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Λογαριασμός &syncBrand.fullName.label;">
+<!ENTITY currentUser.label            "Τρέχων χρήστης:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Ενημέρωση">
+<!ENTITY resetPass.label              "Εκκαθάριση">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
+<!ENTITY manageAccount.accesskey      "χ">
+<!ENTITY changePassword.label         "Αλλαγή κωδικού">
+<!ENTITY changePassphrase.label       "Αλλαγή συνθηματικής φράσης">
+<!ENTITY resetSync.label              "Εκκαθάριση συγχρονισμού">
+<!ENTITY differentAccount.label       "Χρήση ενός διαφορετικού λογαριασμού">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Συγχρονισμός περιηγητή">
+<!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
+<!ENTITY syncComputerName.accesskey   "υ">
+<!ENTITY syncModeSwitchDesc.label     "Με τον &brandShortName; να: ">
+<!ENTITY syncModeSwitchDesc.accesskey "ν">
+<!ENTITY syncEverything.label         "Γίνεται συγχρονισμός όλων">
+<!ENTITY customSync.label             "Χρήση των προσαρμοσμένων μου ρυθμίσεων">
+<!ENTITY syncEverythingDescription.label  "Οι σελιδοδείκτες, το ιστορικό, οι κωδικοί, οι προτιμήσεις και οι καρτέλες σας θα συγχρονιστούν.">
+<!ENTITY syncItem.bookmarks.label     "Συγχρονισμός σελιδοδεικτών">
+<!ENTITY syncItem.bookmarks.accesskey "δ">
+<!ENTITY syncItem.tabs.label          "Συγχρονισμός καρτελών">
+<!ENTITY syncItem.tabs.accesskey      "τ">
+<!ENTITY syncItem.history.label       "Συγχρονισμός ιστορικού">
+<!ENTITY syncItem.history.accesskey   "ρ">
+<!ENTITY syncItem.passwords.label     "Συγχρονισμός κωδικών">
+<!ENTITY syncItem.passwords.accesskey "κ">
+<!ENTITY syncItem.prefs.label         "Συγχρονισμός προτιμήσεων">
+<!ENTITY syncItem.prefs.accesskey     "σ">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Όροι υπηρεσίας">
+<!ENTITY prefs.ppLink.label         "Πολιτική απορρήτου">
+
