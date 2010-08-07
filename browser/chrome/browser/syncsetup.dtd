@@ -8,7 +8,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY connectTo.label            "Anslut till">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label;servern">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-servern">
 <!ENTITY serverType.custom.label    "Använd en egen server">
 <!ENTITY signIn.username.label      "Användarnamn">
 <!ENTITY signIn.username.accesskey  "A">
@@ -20,7 +20,7 @@
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountPage.title.label  "Skapa ett &syncBrand.shortName.label;-konto">
 <!ENTITY setup.confirmPassword.label  "Bekräfta lösenord">
-<!ENTITY setup.confirmPassword.accesskey  "B">
+<!ENTITY setup.confirmPassword.accesskey  "k">
 <!ENTITY setup.emailAddress.label     "E-postadress">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -35,8 +35,8 @@
 
 <!-- New Account Page 2: Passphrase Entry -->
 <!ENTITY setup.newPPPage.title.label       "Ange en hemlig fras">
-<!ENTITY passphraseDesc.label         "Ange den hemliga fras. Den kommer att användas för att kryptera all din data så att endast du får tillgång till den. Frasen kommer inte att lagras på servern, så glöm inte bort den!">
-<!ENTITY passphraseDesc2.label        "Den måste vara minst 12 tecken lång och får inte vara samma som ditt kontolösenord.">
+<!ENTITY passphraseDesc.label         "Ange din hemliga fras. Den kommer att användas för att kryptera all din data så att endast du får tillgång till den. Frasen kommer inte att lagras på servern, så glöm inte bort den!">
+<!ENTITY passphraseDesc2.label        "Den måste bestå av minst 12 tecken och får inte vara samma som ditt kontolösenord.">
 <!ENTITY passphraseEntry.label        "Hemlig fras">
 <!ENTITY passphraseEntry.accesskey    "H">
 <!ENTITY passphraseConfirm.label      "Bekräfta">
@@ -52,11 +52,11 @@
 <!ENTITY customSync.label             "Använda anpassade inställningar">
 <!ENTITY syncEverythingDescription.label  "Dina bokmärken, historik, lösenord, inställningar och flikar kommer att synkas.">
 <!ENTITY syncItem.bookmarks.label     "Synka bokmärken">
-<!ENTITY syncItem.bookmarks.accesskey "b">
+<!ENTITY syncItem.bookmarks.accesskey "o">
 <!ENTITY syncItem.tabs.label          "Synka flikar">
 <!ENTITY syncItem.tabs.accesskey      "a">
 <!ENTITY syncItem.history.label       "Synka historiken">
-<!ENTITY syncItem.history.accesskey   "o">
+<!ENTITY syncItem.history.accesskey   "h">
 <!ENTITY syncItem.passwords.label     "Synka lösenord">
 <!ENTITY syncItem.passwords.accesskey "ö">
 <!ENTITY syncItem.prefs.label         "Synka inställningar">
@@ -73,7 +73,7 @@
 <!-- Existing Account Page 2: Passphrase -->
 <!ENTITY passphraseGroupbox.label     "Ange den hemliga frasen">
 <!ENTITY passphraseDesc3.label        "Skriv in din hemliga fras. Det måste vara samma fras som den du använde då du krypterade din data.">
-<!ENTITY passphraseHelp.label         "Den hemliga frasen är minst 12 tecken lång och är inte samma som ditt lösenord. Du hittar din sparade hemliga fras genom att gå till din andra dator och söka bland de sparade lösenorden under Säkerhet. Om du ändå inte hittar den rätta hemliga frasen kan du välja att återställa den, men du kommer då att tappa all data som finns lagrad på servern.">
+<!ENTITY passphraseHelp.label         "Den hemliga frasen består av minst 12 tecken och är inte samma som ditt lösenord. Du hittar din sparade hemliga fras genom att gå till din andra dator och söka bland de sparade lösenorden under Säkerhet. Om du ändå inte hittar den rätta hemliga frasen kan du välja att återställa den, men du kommer då att tappa all data som finns lagrad på servern.">
 <!ENTITY changePassphrase.label       "Byt hemlig fras">
 <!ENTITY verifying.label              "Verifierar…">
 
