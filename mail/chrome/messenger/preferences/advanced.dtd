@@ -45,7 +45,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "U">
 <!ENTITY reuseExpRadio1.label          "une fenêtre existante">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnDelete.label  "Fermer la fenêtre de message lors de la suppression">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label "Fermer la fenêtre de message lors du déplacement ou de la suppression">
 <!ENTITY closeMsgWindowOnDelete.accesskey "F">
 
 <!-- Update -->
