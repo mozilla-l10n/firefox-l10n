@@ -258,7 +258,7 @@
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY appMenuHelp.label "Ayuda">
 
-<!ENTITY developerMenu.label "Desarollador">
+<!ENTITY developerMenu.label "Desarrolladores">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ir a un sitio web">

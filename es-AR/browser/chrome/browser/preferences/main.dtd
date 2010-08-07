@@ -21,7 +21,7 @@
 <!ENTITY showWhenDownloading.accesskey "D">
 <!ENTITY closeWhenDone.label "Cerrarla cuando finalicen todas las descargas">
 <!ENTITY closeWhenDone.accesskey "f">
-<!ENTITY saveTo.label "Guardar archivos a">
+<!ENTITY saveTo.label "Guardar archivos en">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Examinar…">
 <!ENTITY chooseFolderWin.accesskey    "x">
