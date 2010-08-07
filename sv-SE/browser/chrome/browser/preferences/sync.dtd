@@ -24,7 +24,7 @@
 <!ENTITY syncComputerName.label       "Datorns namn:">
 <!ENTITY syncComputerName.accesskey   "D">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; kommer att: ">
-<!ENTITY syncModeSwitchDesc.accesskey "k">
+<!ENTITY syncModeSwitchDesc.accesskey "F">
 <!ENTITY syncEverything.label         "Synka allt">
 <!ENTITY customSync.label             "Använda anpassade inställningar">
 <!ENTITY syncEverythingDescription.label  "Dina bokmärken, historik, lösenord, inställningar och flikar kommer att synkas.">

@@ -552,7 +552,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                               don't use a conflicting access key -->
 <!ENTITY syncMenu.accesskey           "c">
 <!ENTITY syncSetup.label              "Ställ in &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "S">
+<!ENTITY syncSetup.accesskey          "ä">
 <!ENTITY syncLogInItem.label          "Anslut">
 <!ENTITY syncLogInItem.accesskey      "A">
 <!ENTITY syncLogOutItem.label         "Koppla ned">
