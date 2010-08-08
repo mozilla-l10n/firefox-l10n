@@ -28,9 +28,6 @@
 # link title for https://mobile.support.mozilla.com
 #define bookmarks_support Firefox: Υποστήριξη
 
-# LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/sync
-#define bookmarks_sync Firefox: Συγχρονισμός με το Weave Sync
 
 
 # LOCALIZATION NOTE (bookmarks_aboutHome):
