@@ -119,6 +119,7 @@
 <!ENTITY printButton.label            "Presi">
 <!ENTITY printButton.tooltip          "Presi ĉi tiun paĝon">
 
+<!ENTITY backForwardItem.title        "Malantaŭen/antaŭen">
 <!ENTITY locationItem.title           "Retadreso">
 <!ENTITY searchItem.title             "Serĉi">
 <!ENTITY throbberItem.title           "Indikilo de aktiveco">
