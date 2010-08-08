@@ -1,0 +1,73 @@
+<!ENTITY accountSetupTitle.label "Наладка &syncBrand.fullName.label;">
+<!ENTITY setup.choicePage.title.label "Ужывалі &syncBrand.fullName.label; раней?">
+<!ENTITY setup.choicePage.new.label "Я ніколі не ўжываў &syncBrand.shortName.label; раней">
+<!ENTITY setup.choicePage.existing.label "Я ўжо ўжываю &syncBrand.shortName.label; на іншым кампутары">
+<!ENTITY connectTo.label "Злучыцца з">
+<!ENTITY serverType.main.label "паслугачом &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label "Ужываць іншы паслугач">
+<!ENTITY signIn.username.label "Імя карыстальніка">
+<!ENTITY signIn.username.accesskey "І">
+<!ENTITY signIn.password.label "Пароль">
+<!ENTITY signIn.password.accesskey "П">
+<!ENTITY signIn.serverURL.label "URL паслугача">
+<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY setup.newAccountPage.title.label "Стварыць ваш рахунак &syncBrand.shortName.label;">
+<!ENTITY setup.confirmPassword.label "Пацвердзіць пароль">
+<!ENTITY setup.confirmPassword.accesskey "ц">
+<!ENTITY setup.emailAddress.label "Э-паштовы адрас">
+<!ENTITY setup.emailAddress.accesskey "Э">
+<!ENTITY setup.tosAgree1.label "Я згодны з">
+<!ENTITY setup.tosAgree1.accesskey "з">
+<!ENTITY setup.tosLink.label "умовамі абслугоўвання">
+<!ENTITY setup.tosAgree2.label "і">
+<!ENTITY setup.ppLink.label "палітыкай адасаблення">
+<!ENTITY setup.tosAgree3.label "">
+<!ENTITY setup.tosAgree2.accesskey "">
+<!ENTITY setup.newPPPage.title.label "Увядзіце ваш тайны выраз">
+<!ENTITY passphraseDesc.label "Увядзіце, калі ласка, тайны выраз. Ён будзе ўжывацца, каб зашыфраваць усе вашы здаткі, таму толькі вы можаце мець доступ да іх. Ён ніколі не захоўваецца на паслугачы, таму не згубіце яго!">
+<!ENTITY passphraseDesc2.label "Павінны быць прынамсі 12 знакаў даўжынёй і не можа супадаць з паролям вашага рахунку.">
+<!ENTITY passphraseEntry.label "Тайны выраз">
+<!ENTITY passphraseEntry.accesskey "Т">
+<!ENTITY passphraseConfirm.label "Сцвердзіць">
+<!ENTITY passphraseConfirm.accesskey "ц">
+<!ENTITY setup.newAccountPrefs2.title.label "Азіральнік сінхранізуе перавагі">
+<!ENTITY syncComputerName.label "Назва кампутара:">
+<!ENTITY syncComputerName.accesskey "Н">
+<!ENTITY syncModeSwitchDesc.label "Сінхранізацыя &brandShortName;: ">
+<!ENTITY syncModeSwitchDesc.accesskey "С">
+<!ENTITY syncEverything.label "Сіхранізаваць усё">
+<!ENTITY customSync.label "Ужываць выбраныя мною наладжванні">
+<!ENTITY syncEverythingDescription.label "Вашы закладкі, гістроыя, паролі, перавагі і ўстаўкі будуць сінхранізаваныя.">
+<!ENTITY syncItem.bookmarks.label "Сінхранізацыя закладак">
+<!ENTITY syncItem.bookmarks.accesskey "з">
+<!ENTITY syncItem.tabs.label "Сінхранізацыя ўставак">
+<!ENTITY syncItem.tabs.accesskey "ў">
+<!ENTITY syncItem.history.label "Сінхранізацыя гісторыі">
+<!ENTITY syncItem.history.accesskey "г">
+<!ENTITY syncItem.passwords.label "Сінхранізацыя пароляў">
+<!ENTITY syncItem.passwords.accesskey "п">
+<!ENTITY syncItem.prefs.label "Сінхранізацыя перавагаў">
+<!ENTITY syncItem.prefs.accesskey "в">
+<!ENTITY setup.captchaPage.title.label "Пацвердзіце, калі ласка, што вы не робат ;)">
+<!ENTITY setup.existingAccount.title.label "Увядзіце звесткі рахунку">
+<!ENTITY resetPassword.label "Скінуць пароль">
+<!ENTITY connecting.label "Злучэнне…">
+<!ENTITY passphraseGroupbox.label "Увядзіце тайны выраз">
+<!ENTITY passphraseDesc3.label "Увядзіце, калі ласка, тайны выраз. Ён павінны быць аднолькавам з тайным выразам, які вы ўжылі, каб зашыфраваць вашы здаткі.">
+<!ENTITY passphraseHelp.label "Ваш тайны выраз прынамсі 12 знакаў даўжынёй і не супадае з вашым паролям вашага рахунку. Вы можаце знайсці ваш захаваны тайны выраз на вашым іншым кампутары ў захаваных паролях у раздзеле Бяспека. Калі вы не можаце ўспомніць/адшукаць тайны выраз, вы можаце скінуць яго, але вы згубіце ўсе здаткі, захаваныя на паслугачы.">
+<!ENTITY changePassphrase.label "Змяніць тайны выраз">
+<!ENTITY verifying.label "Праверка…">
+<!ENTITY setup.mergeChoicePage.title.label "Як вы хочаце пачаць?">
+<!ENTITY choice.merge.main.label "Зліць здаткі з вашага кампутара з здаткамі &syncBrand.shortName.label;">
+<!ENTITY choice.merge.recommend.label "Гэты выбар Mozilla настойліва раіць усім карыстальнікам.">
+<!ENTITY choice.client.main.label "Замяніць усе здаткі на гэтым кампутары здаткамі &syncBrand.fullName.label;">
+<!ENTITY choice.server.main.label "Замяніць усе здаткі на іншых збудовах вашымі мясцовымі здаткамі">
+<!ENTITY confirm.caption.label "Пацвердзіце ваш выбар">
+<!ENTITY confirm.merge.label "Вы вырашылі зліць здаткі з вашага кампутара з здаткамі іншых збудоваў, якія ўжываюць   &syncBrand.shortName.label;.">
+<!ENTITY confirm.client.label "Усе здаткі &brandShortName; на гэтым кампутары будуць выдалены, уключаючы:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; скапіруе здаткі &syncBrand.fullName.label; на гэты кампутар.">
+<!ENTITY confirm.client.warning.label "УВАГА: У выніку ўсе здаткі &brandShortName; на гэтым кампутары будуць змененыя!">
+<!ENTITY confirm.server.label "Здаткі на наступных збудовах будуць перазапісаны вашымі мясцовымі здаткамі:">
+<!ENTITY confirm.server.warning.label "УВАГА: Вашы мясцовыя здаткі &brandShortName; зменяць усе здаткі на гэтых збудовах!">
+<!ENTITY setup.successPage.title.label "Наладка скончана!">
+<!ENTITY setup.successPage.desc.label "Віншаванні! &brandShortName; зараз наладжаны самастойна сінхранізаваць вашы здаткі. Не забудзьце ўсталяваць &syncBrand.fullName.label; на вашых іншых збудовах. Вы можаце працягнуць карыстацца &brandShortName;.">

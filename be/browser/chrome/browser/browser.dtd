@@ -99,6 +99,7 @@
 <!ENTITY feedButton.tooltip "Падпісацца на гэтую старонку…">
 <!ENTITY printButton.label "Друкаваць">
 <!ENTITY printButton.tooltip "Друкаваць гэтую старонку">
+<!ENTITY backForwardItem.title "Назад/Наперад">
 <!ENTITY locationItem.title "Месцазнаходжанне">
 <!ENTITY searchItem.title "Пошук">
 <!ENTITY throbberItem.title "Паказальнік чыннасці">
@@ -392,3 +393,15 @@
 <!ENTITY downloadMonitor2.tooltip "Пстрыкніце, каб адкрыць акно загрузак">
 <!ENTITY allTabs.filter.emptyText "Пошук уставак">
 <!ENTITY tabsToolbar.label "Устаўкі азіральніка">
+<!ENTITY syncTabsMenu.label "Устаўкі з іншых кампутараў">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncMenu.label "&syncBrand.shortName.label;">
+<!ENTITY syncMenu.accesskey "Y">
+<!ENTITY syncSetup.label "Наладзіць &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey "Y">
+<!ENTITY syncLogInItem.label "Злучыцца">
+<!ENTITY syncLogInItem.accesskey "З">
+<!ENTITY syncLogOutItem.label "Разлучыцца">
+<!ENTITY syncLogOutItem.accesskey "Р">
+<!ENTITY syncSyncNowItem.label "Сінхранізаваць зараз ">
+<!ENTITY syncSyncNowItem.accesskey "С">

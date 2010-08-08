@@ -1,0 +1,33 @@
+<!ENTITY setupButton.label "Уладкаваць &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey "У">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; дазваляе вам мець доступ да вашых гісторыі, закладак, пароляў і адкрытых уставак на ўсіх вашых збудовах.">
+<!ENTITY accountGroupboxCaption.label "Рахунак &syncBrand.fullName.label;">
+<!ENTITY currentUser.label "Цяперашні карыстальнік:">
+<!ENTITY updatePass.label "Абнавіць">
+<!ENTITY resetPass.label "Скінуць">
+<!ENTITY manageAccount.label "Кіраваць рахункам">
+<!ENTITY manageAccount.accesskey "р">
+<!ENTITY changePassword.label "Змяніць пароль">
+<!ENTITY changePassphrase.label "Змяніць тайны выраз">
+<!ENTITY resetSync.label "Узнавіць сінхранізацыю">
+<!ENTITY differentAccount.label "Скарыстацца іншых рахункам">
+<!ENTITY syncPrefsCaption.label "Сінхранізацыя азіральніка">
+<!ENTITY syncComputerName.label "Назва кампутара:">
+<!ENTITY syncComputerName.accesskey "к">
+<!ENTITY syncModeSwitchDesc.label "Сінхранізацыя &brandShortName;: ">
+<!ENTITY syncModeSwitchDesc.accesskey "С">
+<!ENTITY syncEverything.label "Сіхранізаваць усё">
+<!ENTITY customSync.label "Ужываць выбраныя мною наладжванні">
+<!ENTITY syncEverythingDescription.label "Вашы закладкі, гістроыя, паролі, перавагі і ўстаўкі будуць сінхранізаваныя.">
+<!ENTITY syncItem.bookmarks.label "Сінхранізацыя закладак">
+<!ENTITY syncItem.bookmarks.accesskey "з">
+<!ENTITY syncItem.tabs.label "Сінхранізацыя ўставак">
+<!ENTITY syncItem.tabs.accesskey "ў">
+<!ENTITY syncItem.history.label "Сінхранізацыя гісторыі">
+<!ENTITY syncItem.history.accesskey "г">
+<!ENTITY syncItem.passwords.label "Сінхранізацыя пароляў">
+<!ENTITY syncItem.passwords.accesskey "п">
+<!ENTITY syncItem.prefs.label "Сінхранізацыя перавагаў">
+<!ENTITY syncItem.prefs.accesskey "в">
+<!ENTITY prefs.tosLink.label "Умовы абслугоўвання">
+<!ENTITY prefs.ppLink.label "Палітыка адасаблення">
