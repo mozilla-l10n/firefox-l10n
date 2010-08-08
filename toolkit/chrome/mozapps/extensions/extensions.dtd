@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder "Пошук усіх дадаткаў">
 <!ENTITY loading.label "Загрузка…">
 <!ENTITY listEmpty.installed.label "У вас няма ніводнага ўсталяванага дадатку гэтага тыпу">
+<!ENTITY listEmpty.availableUpdates.label "Абнаўленні не знойдзеныя">
+<!ENTITY listEmpty.recentUpdates.label "Нядаўна вы не абнаўлялі ніякіх дадаткаў">
+<!ENTITY listEmpty.findUpdates.label "Знайсці абнаўленні">
 <!ENTITY listEmpty.search.label "Немагчыма знайсці адпаведныя дадаткі">
 <!ENTITY listEmpty.button.label "Падрабязней пра дадаткі">
 <!ENTITY view.search.label "Пошук">
@@ -11,12 +14,20 @@
 <!ENTITY view.features.label "Пашырэнні">
 <!ENTITY view.appearance.label "Тэмы">
 <!ENTITY view.plugins.label "Убудовы">
-<!ENTITY updates.updateNow.label "Абнавіць дадаткі">
+<!ENTITY view.recentUpdates.label "Нядаўнія абнаўленні">
+<!ENTITY view.availableUpdates.label "Даступныя абнаўленні">
+<!ENTITY updates.updateAddonsNow.label "Абнавіць дадаткі зараз">
+<!ENTITY updates.updateAddonsNow.accesskey "А">
+<!ENTITY updates.viewUpdates.label "Пабачыць нядаўнія абнаўленні">
+<!ENTITY updates.viewUpdates.accesskey "б">
+<!ENTITY updates.backgroudUpdateCheck.label "Шукаць абнаўленні самастойна">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "с">
 <!ENTITY updates.updating.label "Абнаўленне дадаткаў">
 <!ENTITY updates.installed.label "Вашы дадаткі абноўленыя.">
 <!ENTITY updates.downloaded.label "Вашы дадаткі загружаны.">
 <!ENTITY updates.restart.label "Перазапусціць зараз, каб скончыць усталяванне">
 <!ENTITY updates.noneFound.label "Абнаўленні не знойдзеныя">
+<!ENTITY updates.manualUpdatesFound.label "Пабачыць даступныя абнаўленні">
 <!ENTITY cmd.showDetails.label "Паказаць больш звестак">
 <!ENTITY cmd.showDetails.accesskey "П">
 <!ENTITY cmd.findUpdates.label "Знайсці абнаўленні">
@@ -36,6 +47,10 @@
 <!ENTITY cmd.contribute.label "Ахвяраваць">
 <!ENTITY cmd.contribute.accesskey "А">
 <!ENTITY cmd.contribute.tooltip "Ахвяраваць сродкі на распрацоўку гэтага дадатку">
+<!ENTITY cmd.showReleaseNotes.label "Пабачыць заўвагі пра выданне">
+<!ENTITY cmd.showReleaseNotes.tooltip "Паказаць заўвагі пра выданне гэтага абнаўлення">
+<!ENTITY cmd.hideReleaseNotes.label "Схаваць заўвагі пра выданне">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Схаваць заўвагі пра выданне гэтага абнаўлення">
 <!ENTITY detail.version.label "Версія">
 <!ENTITY detail.updated.label "Абноўлена">
 <!ENTITY detail.creator.label "Распрацаўнік">
@@ -71,6 +86,7 @@
 <!ENTITY addon.homepage "Хатняя старонка">
 <!ENTITY addon.unknownDate "Невядомая">
 <!ENTITY addon.disabled.postfix "(забаронена)">
+<!ENTITY addon.update.postfix "Абнавіць">
 <!ENTITY addon.undo.label "Адмяніць?">
 <!ENTITY addon.undo.tooltip "Адмяніць гэтае дзеянне">
 <!ENTITY addon.undoUninstall.label "Адмяніць?">
@@ -79,5 +95,10 @@
 <!ENTITY addon.restartNow.tooltip "Перазапусціць зараз, каб скончыць усталяванне">
 <!ENTITY addon.install.label "Усталяваць">
 <!ENTITY addon.install.tooltip "Усталяваць гэты дадатак">
+<!ENTITY addon.updateNow.label "Абнавіць зараз">
+<!ENTITY addon.updateNow.tooltip "Усталяваць абнаўленне гэтага дадатка">
 <!ENTITY addon.checkingForUpdates.label "Праверка існавання абнаўленняў…">
+<!ENTITY addon.releaseNotes.label "Заўвагі пра выданне:">
+<!ENTITY addon.loadingReleaseNotes.label "Загрузка…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Прабачце, здарылася памылка падчас загрузкі заўвагаў пра выданне.">
 <!ENTITY addon.createdBy.label "By ">
