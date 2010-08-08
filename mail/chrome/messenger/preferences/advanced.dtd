@@ -37,6 +37,7 @@
 <!ENTITY reuseExpRadio1.label "Ένα υπάρχον παράθυρο μηνύματος">
 <!ENTITY reuseExpRadio1.accesskey "π">
 <!ENTITY closeMsgWindowOnDelete.label "Κλείσιμο παραθύρου μηνύματος στη όταν γίνει διαγραφή">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Κλείσιμο παραθύρου μηνύματος στη μετακίνηση ή διαγραφή">
 <!ENTITY closeMsgWindowOnDelete.accesskey "λ">
 <!ENTITY autoCheck.label "Να γίνεται αυτόματος έλεγχος για ενημερώσεις για:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
