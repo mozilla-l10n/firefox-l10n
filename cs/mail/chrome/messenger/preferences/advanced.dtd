@@ -45,7 +45,7 @@
 <!ENTITY reuseExpRadio0.accesskey "N">
 <!ENTITY reuseExpRadio1.label "Aktuálním okně se zprávou">
 <!ENTITY reuseExpRadio1.accesskey "A">
-<!ENTITY closeMsgWindowOnDelete.label "Při smazání zprávy zavřít okno">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label "Při přesunutí nebo smazání zprávy zavřít okno">
 <!ENTITY closeMsgWindowOnDelete.accesskey "s">
 
 <!-- Update -->

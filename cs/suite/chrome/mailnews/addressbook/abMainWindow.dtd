@@ -117,6 +117,7 @@
 <!ENTITY newimButton.label "Krátká zpráva">
 <!ENTITY newimButton.accesskey "K">
 <!ENTITY searchNameAndEmail.placeholder "Hledat jméno a e-mail">
+<!ENTITY searchBox.title "Hledat">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip "Lišta složky kontaktů">

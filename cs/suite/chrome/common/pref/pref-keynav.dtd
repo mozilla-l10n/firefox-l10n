@@ -19,3 +19,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Pouze odkazy">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "o">
 
+<!ENTITY findAsYouTypeFindbarEnable.label "Zobrazit panel hledání při vyhledávání psaním">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "Z">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Pozn.: Vyhledávání psaním bez zobrazení panelu hledání neumožňuje vložení mezinárodního textu.">

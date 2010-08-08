@@ -119,6 +119,7 @@
 <!ENTITY printButton.label "Tisk">
 <!ENTITY printButton.tooltip "Vytiskne tuto stránku">
 
+<!ENTITY backForwardItem.title "Zpět/Vpřed">
 <!ENTITY locationItem.title "Adresa">
 <!ENTITY searchItem.title "Hledání">
 <!ENTITY throbberItem.title "Ukazatel činnosti">
