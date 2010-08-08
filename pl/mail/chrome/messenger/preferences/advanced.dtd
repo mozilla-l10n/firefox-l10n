@@ -41,7 +41,7 @@
 <!ENTITY reuseExpRadio0.accesskey         "h">
 <!ENTITY reuseExpRadio1.label             "istniejącym oknie wiadomości">
 <!ENTITY reuseExpRadio1.accesskey         "m">
-<!ENTITY closeMsgWindowOnDelete.label     "Zamykaj okno wiadomości przy usuwaniu">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label "Zamykaj okno wiadomości przy przenoszeniu lub usuwaniu">
 <!ENTITY closeMsgWindowOnDelete.accesskey "Z">
 
 <!-- Update -->
