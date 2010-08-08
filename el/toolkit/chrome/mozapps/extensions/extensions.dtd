@@ -119,6 +119,8 @@
 <!ENTITY addon.homepage                       "Αρχική σελίδα">
 <!ENTITY addon.unknownDate                    "Άγνωστη">
 <!ENTITY addon.disabled.postfix               "(απενεργοποιημένο)">
+<!ENTITY addon.update.postfix                 "Ενημέρωση">
+
 <!ENTITY addon.undo.label                     "Αναίρεση;">
 <!ENTITY addon.undo.tooltip                   "Αναίρεση αυτής της ενέργειας">
 <!ENTITY addon.undoUninstall.label            "Αναίρεση;">

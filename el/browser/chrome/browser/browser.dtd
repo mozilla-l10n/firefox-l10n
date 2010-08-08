@@ -116,6 +116,8 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY backForwardItem.title        "Πίσω/Μπροστά">
+
 
 <!ENTITY inspectButton.label          "Έλεγχος">
 <!ENTITY inspectButton.accesskey      "λ">
