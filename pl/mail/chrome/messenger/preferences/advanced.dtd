@@ -22,27 +22,26 @@
 <!ENTITY showReturnReceipts.accesskey "O">
 
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption                  "Czytanie">
-<!ENTITY display.caption                  "Wyświetlanie">
-<!ENTITY showCondensedAddresses.label     "Pokazuj tylko nazwy kontaktów dla nadawców z mojej książki adresowej">
-<!ENTITY showCondensedAddresses.accesskey "P">
-<!ENTITY autoMarkAsRead.label             "Automatycznie oznaczaj wiadomości jako przeczytane:">
-<!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "natychmiast po wyświetleniu">
-<!ENTITY markAsReadNoDelay.accesskey      "n">
-<!-- markAsReadDelay.label will concatenate to "After displaying for [___] seconds" -->
-<!ENTITY markAsReadDelay.label            "po wyświetlaniu przez">
-<!ENTITY markAsReadDelay.accesskey        "w">
-<!ENTITY secondsLabel.label               "sekund">
-<!ENTITY openMsgIn.label                  "Otwieraj wiadomości w:">
-<!ENTITY openMsgInNewTab.label            "nowych kartach">
-<!ENTITY openMsgInNewTab.accesskey        "k">
-<!ENTITY reuseExpRadio0.label             "nowych oknach wiadomości">
-<!ENTITY reuseExpRadio0.accesskey         "h">
-<!ENTITY reuseExpRadio1.label             "istniejącym oknie wiadomości">
-<!ENTITY reuseExpRadio1.accesskey         "m">
+<!ENTITY reading.caption                    "Czytanie">
+<!ENTITY display.caption                    "Wyświetlanie">
+<!ENTITY showCondensedAddresses.label       "Pokazuj tylko nazwy kontaktów dla nadawców z mojej książki adresowej">
+<!ENTITY showCondensedAddresses.accesskey   "P">
+<!ENTITY autoMarkAsRead.label               "Automatycznie oznaczaj wiadomości jako przeczytane:">
+<!ENTITY autoMarkAsRead.accesskey           "A">
+<!ENTITY markAsReadNoDelay.label            "natychmiast po wyświetleniu">
+<!ENTITY markAsReadNoDelay.accesskey        "n">
+<!ENTITY markAsReadDelay.label              "po wyświetlaniu przez">
+<!ENTITY markAsReadDelay.accesskey          "w">
+<!ENTITY secondsLabel.label                 "sekund">
+<!ENTITY openMsgIn.label                    "Otwieraj wiadomości w:">
+<!ENTITY openMsgInNewTab.label              "nowych kartach">
+<!ENTITY openMsgInNewTab.accesskey          "k">
+<!ENTITY reuseExpRadio0.label               "nowych oknach wiadomości">
+<!ENTITY reuseExpRadio0.accesskey           "h">
+<!ENTITY reuseExpRadio1.label               "istniejącym oknie wiadomości">
+<!ENTITY reuseExpRadio1.accesskey           "m">
 <!ENTITY closeMsgWindowOnMoveOrDelete.label "Zamykaj okno wiadomości przy przenoszeniu lub usuwaniu">
-<!ENTITY closeMsgWindowOnDelete.accesskey "Z">
+<!ENTITY closeMsgWindowOnDelete.accesskey   "Z">
 
 <!-- Update -->
 <!ENTITY autoCheck.label              "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
@@ -75,9 +74,6 @@
 <!ENTITY offlineCompact.accesskey "A">
 <!ENTITY kb.label                 "KB">
 
-<!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single line in preferences as follows:
-  &useCacheBefore.label [ textbox for cache size in MB ] &useCacheAfter.label; -->
 <!ENTITY useCacheBefore.label     "Używaj maksymalnie">
 <!ENTITY useCacheBefore.accesskey "m">
 <!ENTITY useCacheAfter.label      "MB miejsca dla pamięci podręcznej">
