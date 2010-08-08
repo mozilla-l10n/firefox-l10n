@@ -15,7 +15,7 @@
 <!ENTITY radioNotSend.accesskey           "N">
 <!ENTITY radioAskUnsent.label             "Zapytaj">
 <!ENTITY radioAskUnsent.accesskey         "a">
-<!ENTITY textGoingOffline                 "Czy pobierać wiadomości do wykorzystania w trybie offline przed przchodzeniem do niego?">
+<!ENTITY textGoingOffline                 "Czy pobierać wiadomości do wykorzystania w trybie offline przed przechodzeniem do niego?">
 <!ENTITY radioAutoDownload.label          "Tak">
 <!ENTITY radioAutoDownload.accesskey      "k">
 <!ENTITY radioNotDownload.label           "Nie">
