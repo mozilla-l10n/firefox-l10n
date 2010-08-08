@@ -105,6 +105,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "j">
 <!ENTITY detachAttachmentCmd.label "Vyčlenit…">
 <!ENTITY deleteAttachmentCmd.label "Smazat">
+<!ENTITY openAllAttachmentsCmd.label "Otevřít vše…">
+<!ENTITY openAllAttachmentsCmd.accesskey "t">
 <!ENTITY saveAllAttachmentsCmd.label "Uložit vše…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "U">
 <!ENTITY detachAllAttachmentsCmd.label "Vyčlenit vše…">
