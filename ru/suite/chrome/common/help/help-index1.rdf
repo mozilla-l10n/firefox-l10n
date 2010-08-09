@@ -393,7 +393,7 @@
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
          nc:name="настройка почтового клиента для автономной работы"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1898,7 +1898,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
          nc:name="режим автономной работы"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -2064,7 +2064,7 @@
           <rdf:li>
        <rdf:Description ID="Working_Offline"
          nc:name="работа в автономном режиме"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="HTTP_Networking"

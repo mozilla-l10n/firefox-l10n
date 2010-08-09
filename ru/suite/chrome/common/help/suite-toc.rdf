@@ -170,7 +170,7 @@
         <rdf:li> <rdf:Description ID="mail-junk" nc:name="Анти-спам фильтр" nc:link="mail_help.xhtml#controlling_junk_mail" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Импорт из других почтовых программ" nc:link="mail_help.xhtml#importing_mail_from_other_programs" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Начало работы с группами новостей" nc:link="mail_help.xhtml#getting_started_with_newsgroups" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Автономная работа" nc:link="mail_help.xhtml#working_offline" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Автономная работа" nc:link="mailnews_offline.xhtml#working_offline" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Подписывание и шифрование сообщений" nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-account-settings" nc:name="Параметры учетной записи" nc:link="mailnews_account_settings.xhtml#mail_and_newsgroups_account_settings" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Настройки почты и групп новостей" nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
@@ -394,15 +394,15 @@
 <rdf:Description about="#mail-doc-offline">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name="Настройка почтового клиента для автономной работы" nc:link="mail_help.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-inbox" nc:name="Загрузка папки Входящие для автономной работы" nc:link="mail_help.xhtml#downloading_your_inbox_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-folder" nc:name="Загрузка отдельной папки для автономной работы" nc:link="mail_help.xhtml#downloading_an_individual_folder_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-flagged" nc:name="Загрузка выделенных или отмеченных флагом сообщений для автономной работы" nc:link="mail_help.xhtml#downloading_selected_or_flagged_messages_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-directory" nc:name="Загрузка записей в каталоге LDAP для автономной работы" nc:link="mail_help.xhtml#downloading_directory_entries_for_offline_use"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-accounts" nc:name="Настройка учетных записей для автономной работы" nc:link="mail_help.xhtml#setting_up_your_accounts_for_working_offline"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-items" nc:name="Выбор учетных записей, папок и групп новостей для автономной работы" nc:link="mail_help.xhtml#selecting_items_for_offline_viewing"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-sync" nc:name="Загрузка и синхронизация сообщений" nc:link="mail_help.xhtml#downloading_and_synchronizing_your_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-offline-go" nc:name="Автономная работа и последующее подключение" nc:link="mail_help.xhtml#working_offline_and_reconnecting_later"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name="Настройка почтового клиента для автономной работы" nc:link="mailnews_offline.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-inbox" nc:name="Загрузка папки Входящие для автономной работы" nc:link="mailnews_offline.xhtml#downloading_your_inbox_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-folder" nc:name="Загрузка отдельной папки для автономной работы" nc:link="mailnews_offline.xhtml#downloading_an_individual_folder_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-flagged" nc:name="Загрузка выделенных или отмеченных флагом сообщений для автономной работы" nc:link="mailnews_offline.xhtml#downloading_selected_or_flagged_messages_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-directory" nc:name="Загрузка записей в каталоге LDAP для автономной работы" nc:link="mailnews_offline.xhtml#downloading_directory_entries_for_offline_use"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-accounts" nc:name="Настройка учетных записей для автономной работы" nc:link="mailnews_offline.xhtml#setting_up_your_accounts_for_working_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-items" nc:name="Выбор учетных записей, папок и групп новостей для автономной работы" nc:link="mailnews_offline.xhtml#selecting_items_for_offline_viewing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-sync" nc:name="Загрузка и синхронизация сообщений" nc:link="mailnews_offline.xhtml#downloading_and_synchronizing_your_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-go" nc:name="Автономная работа и последующее подключение" nc:link="mailnews_offline.xhtml#working_offline_and_reconnecting_later"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
