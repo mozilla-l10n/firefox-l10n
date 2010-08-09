@@ -45,7 +45,7 @@
 <!ENTITY reuseExpRadio0.accesskey "v">
 <!ENTITY reuseExpRadio1.label "Na janela existente">
 <!ENTITY reuseExpRadio1.accesskey "j">
-<!ENTITY closeMsgWindowOnDelete.label  "Fechar janela de mensagem ao eliminar">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Fechar janela de mensagem ao mover ou eliminar">
 <!ENTITY closeMsgWindowOnDelete.accesskey "F">
 
 <!-- Update -->
