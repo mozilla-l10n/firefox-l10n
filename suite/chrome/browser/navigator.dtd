@@ -129,6 +129,7 @@
 <!ENTITY bookmarksButton.tooltip "Отображает ваши закладки">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY bookmarksToolbarItem.label "Элементы панели закладок">
+<!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY statusText.label "Готово">
 <!ENTITY historyCmd.label "Журнал посещений">
 <!ENTITY historyCmd.accesskey "Ж">
