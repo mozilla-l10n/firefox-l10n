@@ -208,7 +208,7 @@
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuPrintCmd.label "Печать">
-<!ENTITY appMenuCustomize.label "Настроить">
+<!ENTITY appMenuCustomize.label "Изменить">
 <!ENTITY appMenuToolbarLayout.label "Панель инструментов…">
 <!ENTITY appMenuSidebars.label "Боковые панели">
 <!ENTITY appMenuHelp.label "Справка">
