@@ -959,7 +959,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
          nc:name="trabajar sin conexi&#243;n"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1894,6 +1894,11 @@
 	 nc:link="cs_nav_prefs_navigator.xhtml#languages"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="preferences:Link_Behavior"
+         nc:name="preferencias de comportamiento de los enlaces"
+	 nc:link="cs_nav_prefs_navigator.xhtml#link_behavior"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="preferences:Navigator"
          nc:name="preferencias del navegador"
 	 nc:link="cs_nav_prefs_navigator.xhtml#navigator_preferences"/>
@@ -1922,11 +1927,6 @@
        <rdf:Description ID="preferences:security"
          nc:name="preferencias de seguridad"
 	 nc:link="privsec_help.xhtml"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="preferences:smart_browsing"
-         nc:name="preferencias de navegaci&#243;n inteligente"
-	 nc:link="cs_nav_prefs_navigator.xhtml#smart_browsing"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences:SSL"
@@ -2123,7 +2123,7 @@
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
          nc:name="Correo y Noticias sin conexi&#243;n"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -2183,7 +2183,7 @@
      <rdf:li>
        <rdf:Description ID="Working_Offline"
          nc:name="trabajar sin conexi&#243;n"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
