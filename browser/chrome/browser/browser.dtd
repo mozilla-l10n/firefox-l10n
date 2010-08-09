@@ -99,6 +99,7 @@
 <!ENTITY feedButton.tooltip "Suscribirse a esta página…">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
+<!ENTITY backForwardItem.title "Atrás/Adelante">
 <!ENTITY locationItem.title "Dirección">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY throbberItem.title "Progreso">
