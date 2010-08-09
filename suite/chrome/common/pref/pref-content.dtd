@@ -5,13 +5,6 @@
 <!ENTITY useSiteIcons.accesskey "M">
 <!ENTITY useFavIcons.label "Buscar de modo agresivo iconos de sitio web si la página no indica uno">
 <!ENTITY useFavIcons.accesskey "B">
-<!ENTITY tbIconsDescription.label "Mostrar iconos de sitios web en el menú y la barra de herramientas de marcadores:">
-<!ENTITY tbIconsNever.label "No mostrar nunca iconos en los marcadores">
-<!ENTITY tbIconsNever.accesskey "N">
-<!ENTITY tbIconsCache.label "Sólo si el sitio web se ha cargado recientemente">
-<!ENTITY tbIconsCache.accesskey "O">
-<!ENTITY tbIconsAlways.label "Cargar siempre iconos de sitios web en marcadores">
-<!ENTITY tbIconsAlways.accesskey "C">
 <!ENTITY enableAutomaticImageResizing.label "Reajustar imágenes grandes a la ventana del navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 <!ENTITY useSmoothScroll.label "Usar desplazamiento suave">
