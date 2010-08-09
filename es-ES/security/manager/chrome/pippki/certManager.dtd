@@ -89,7 +89,7 @@
 <!ENTITY certmgr.override_lifetime "Vida útil">
 <!ENTITY certmgr.tokenname "Dispositivo de seguridad">
 <!ENTITY certmgr.issued "Emitido el">
-<!ENTITY certmgr.expires "Expira el">
+<!ENTITY certmgr.expires "Caduca el">
 <!ENTITY certmgr.email "Dirección de correo electr.">
 <!ENTITY certmgr.serial "Número de serie">
 <!ENTITY certmgr.close.label "Cerrar">

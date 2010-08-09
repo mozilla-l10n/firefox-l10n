@@ -9,4 +9,4 @@
 <!ENTITY tree.recipient "Recipiente:">
 <!ENTITY tree.status "Estado">
 <!ENTITY tree.issuedDate "Emitido:">
-<!ENTITY tree.expiresDate "Expira:">
+<!ENTITY tree.expiresDate "Caduca">

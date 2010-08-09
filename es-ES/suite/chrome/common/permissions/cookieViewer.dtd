@@ -4,7 +4,7 @@
 <!ENTITY div.cookiesonsystem.label "Ver y eliminar cookies que están guardadas en su equipo.">
 <!ENTITY treehead.cookiename.label "Nombre de la cookie">
 <!ENTITY treehead.cookiedomain.label "Sitio web">
-<!ENTITY treehead.cookieexpires.label "Expira">
+<!ENTITY treehead.cookieexpires.label "Caduca">
 <!ENTITY treehead.infoselected.label "Información sobre la cookie seleccionada">
 <!ENTITY button.removecookie.label "Eliminar cookie">
 <!ENTITY button.removecookie.accesskey "R">
