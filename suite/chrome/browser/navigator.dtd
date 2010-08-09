@@ -129,6 +129,7 @@
 <!ENTITY bookmarksButton.tooltip "Lista de marcadores">
 <!ENTITY homeButton.label "Inicio">
 <!ENTITY bookmarksToolbarItem.label "Elementos de la barra de herramientas de marcadores">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY statusText.label "Hecho">
 <!ENTITY historyCmd.label "Historial">
 <!ENTITY historyCmd.accesskey "H">
