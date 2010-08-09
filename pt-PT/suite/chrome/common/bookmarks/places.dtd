@@ -1,29 +1,21 @@
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Biblioteca">
-<!ENTITY places.library.width  "700">
-<!ENTITY places.library.height "500">
-<!ENTITY organize.label          "Organizar">
-<!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organizar os seus marcadores">
+<!ENTITY bookmarksManager.title         "Gestor de marcadores">
+<!ENTITY bookmarksManager.width         "700">
+<!ENTITY bookmarksManager.height        "500">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Fechar">
 <!ENTITY file.close.accesskey           "e">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Editar">
-<!ENTITY edit.accesskey                 "E">
-<!ENTITY views.label                    "Ver">
-<!ENTITY views.accesskey                 "V">
-<!ENTITY views.tooltip                  "Alterar vista">
+
 <!ENTITY view.columns.label             "Mostrar colunas">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "Ordenar">
 <!ENTITY view.sort.accesskey            "O">
 <!ENTITY view.unsorted.label            "Não-ordenado">
 <!ENTITY view.unsorted.accesskey        "N">
-<!ENTITY view.sortAscending.label       "Ordenado alfabeticamente">
+<!ENTITY view.sortAscending.label       "Ordenado de A a Z">
 <!ENTITY view.sortAscending.accesskey   "a">
-<!ENTITY view.sortDescending.label      "Ordenado de Z para A">
+<!ENTITY view.sortDescending.label      "Ordenado de Z a A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY cmd.findInBookmarks.label      "Encontrar nos marcadores...">
@@ -64,14 +56,13 @@
 
 <!ENTITY cmd.sortby_name.label              "Ordenar por nome">
 <!ENTITY cmd.sortby_name.accesskey          "O">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Novo marcador...">
 <!ENTITY cmd.new_bookmark.accesskey        "M">
 <!ENTITY cmd.new_folder.label              "Nova pasta...">
 <!ENTITY cmd.new_folder.accesskey          "a">
 <!ENTITY cmd.context_new_folder.accesskey  "P">
-<!ENTITY cmd.new_separator.label           "Novo separador">
+<!ENTITY cmd.new_separator.label           "Novo Separador">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Recarregar marcador dinâmico">
@@ -98,28 +89,20 @@
 <!ENTITY search.scopeFolder.accesskey              "P">
 <!ENTITY search.scopeBookmarks.label               "Marcadores">
 <!ENTITY search.scopeBookmarks.accesskey           "M">
-<!ENTITY search.scopeDownloads.label               "Transferências">
-<!ENTITY search.scopeDownloads.accesskey           "r">
-<!ENTITY search.scopeHistory.label                 "Histórico">
-<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY saveSearch.label                          "Guardar">
 <!ENTITY saveSearch.accesskey                      "G">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label   "Importar e Fazer cópia de segurança">
-<!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importar e fazer cópia de segurança dos marcadores">
-
-<!ENTITY backCmd.label       "Retroceder">
-<!ENTITY backButton.tooltip  "Voltar atrás">
-
-<!ENTITY forwardCmd.label       "Avançar">
-<!ENTITY forwardButton.tooltip  "Ir para a frente">
+<!ENTITY backButton.tooltip  "Retroceder">
+<!ENTITY forwardButton.tooltip  "Avançar">
 
 <!ENTITY detailsPane.more.label "Mais">
 <!ENTITY detailsPane.more.accesskey "s">
 <!ENTITY detailsPane.less.label "Menos">
 <!ENTITY detailsPane.less.accesskey "s">
-<!ENTITY detailsPane.noPreviewAvailable.label "Pré-visualizar">
 <!ENTITY detailsPane.selectAnItemText.description "Escolher um item para ver e editar as suas propriedades">
+
+<!ENTITY editBookmark.done.label "Feito">
+<!ENTITY editBookmark.cancel.label "Cancelar">
+<!ENTITY editBookmark.removeBookmark.accessKey "R">
