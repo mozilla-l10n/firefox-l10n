@@ -6,8 +6,8 @@
 
 <!ENTITY reportWizardMustAgree.description          "Aby kontynuować, musisz zgodzić się na warunki powyższej polityki prywatności.">
 
-<!ENTITY dontShowPrivacyStatement.label             "Przeczytałem i zgadzam się z powyższą polityką prywatności">
-<!ENTITY dontShowPrivacyStatement.accesskey         "P">
+<!ENTITY dontShowPrivacyStatement.label             "Zgadzam się z powyższą polityką prywatności">
+<!ENTITY dontShowPrivacyStatement.accesskey         "Z">
 
 <!ENTITY reportForm.label                           "Wypełnij zgłoszenie">
 
