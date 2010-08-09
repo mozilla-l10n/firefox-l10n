@@ -158,6 +158,7 @@
 <!ENTITY  bookmarksButton.tooltip     "Lista de marcadores">
 <!ENTITY  homeButton.label            "Página inicial">
 <!ENTITY  bookmarksToolbarItem.label  "Itens da barra de ferramentas dos marcadores">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Feito">
