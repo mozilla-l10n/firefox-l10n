@@ -158,6 +158,7 @@
 <!ENTITY bookmarksButton.tooltip "Nabídka záložek">
 <!ENTITY homeButton.label "Domů">
 <!ENTITY bookmarksToolbarItem.label "Položky lišty záložek">
+<!ENTITY bookmarksToolbarChevron.tooltip "Zobrazí více záložek">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Hotovo">
