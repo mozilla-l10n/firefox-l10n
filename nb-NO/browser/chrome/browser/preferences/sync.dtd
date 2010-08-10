@@ -16,7 +16,7 @@
 <!ENTITY manageAccount.accesskey      "B">
 <!ENTITY changePassword.label         "Endre passord">
 <!ENTITY changePassphrase.label       "Endre hemmelig setning">
-<!ENTITY resetSync.label              "Tilbakestill Synk">
+<!ENTITY resetSync.label              "Tilbakestill Sync">
 <!ENTITY differentAccount.label       "Bruk en annen konto">
 
 <!-- Sync Settings -->
