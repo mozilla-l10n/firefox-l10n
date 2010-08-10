@@ -7,13 +7,6 @@
 <!ENTITY useSiteIcons.accesskey                 "Z">
 <!ENTITY useFavIcons.label                      "Automaticky hledat ikonu webového serveru, pokud není ve stránce uvedena">
 <!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY tbIconsDescription.label               "Zobrazovat ikony webového serveru u záložek v nabídce a na liště:">
-<!ENTITY tbIconsNever.label                     "Nikdy u záložek nezobrazovat ikony webového serveru">
-<!ENTITY tbIconsNever.accesskey                 "N">
-<!ENTITY tbIconsCache.label                     "Pouze pokud byla stránka nedávno navštívena">
-<!ENTITY tbIconsCache.accesskey                 "P">
-<!ENTITY tbIconsAlways.label                    "Vždy u záložek nahrávat ikony webového serveru">
-<!ENTITY tbIconsAlways.accesskey                "V">
 <!ENTITY enableAutomaticImageResizing.label     "Zmenšovat velké obrázky na rozměr okna prohlížeče">
 <!ENTITY enableAutomaticImageResizing.accesskey "e">
 <!ENTITY useSmoothScroll.label                  "Použít jemné posunování">
