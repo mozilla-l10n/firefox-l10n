@@ -119,6 +119,7 @@
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denne siden">
 
+<!ENTITY backForwardItem.title        "Tilbake/frem">
 <!ENTITY locationItem.title           "Adresse">
 <!ENTITY searchItem.title             "Søk">
 <!ENTITY throbberItem.title           "Fremdriftsindikator">
