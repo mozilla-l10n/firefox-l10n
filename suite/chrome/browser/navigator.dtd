@@ -158,6 +158,7 @@
 <!ENTITY  bookmarksButton.tooltip     "Bokmerkeliste">
 <!ENTITY  homeButton.label            "Hjem">
 <!ENTITY  bookmarksToolbarItem.label  "Elementer i bokmerkeverktøylinje">
+<!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bokmerker">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Fullført">
