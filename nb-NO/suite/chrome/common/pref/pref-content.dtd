@@ -7,13 +7,6 @@
 <!ENTITY useSiteIcons.accesskey                 "V">
 <!ENTITY useFavIcons.label                      "Aggressivt se etter nettsideikoner for nettsider som ikke oppgir et">
 <!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY tbIconsDescription.label               "Vis nettsideikoner i bokmerkemenyen og verktøylinjen:">
-<!ENTITY tbIconsNever.label                     "Aldri vis ikoner på bokmerker">
-<!ENTITY tbIconsNever.accesskey                 "A">
-<!ENTITY tbIconsCache.label                     "Bare vis når nettsiden er nylig lastet inn">
-<!ENTITY tbIconsCache.accesskey                 "B">
-<!ENTITY tbIconsAlways.label                    "Alltid last inn nettsideikoner for bokmerker">
-<!ENTITY tbIconsAlways.accesskey                "d">
 <!ENTITY enableAutomaticImageResizing.label     "Forandre størrelse på store bilder til å passe i nettleservinduet">
 <!ENTITY enableAutomaticImageResizing.accesskey "F">
 <!ENTITY useSmoothScroll.label                  "Bruk jevn rulling">
