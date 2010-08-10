@@ -48,9 +48,9 @@
 <!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "w">
 
-<!ENTITY event.new.todo                         "Nowe zadanie…">
-<!ENTITY event.new.todo.key                     "T">
-<!ENTITY event.new.todo.accesskey               "z">
+<!ENTITY event.new.task                         "Nowe zadanie…">
+<!ENTITY event.new.task.key                     "K">
+<!ENTITY event.new.task.accesskey               "z">
 
 <!ENTITY calendar.new.server.label              "Nowy kalendarz…">
 <!ENTITY calendar.new.server.key                "L">
