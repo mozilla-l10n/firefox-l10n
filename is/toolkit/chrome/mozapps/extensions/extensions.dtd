@@ -1,7 +1,7 @@
 <!ENTITY addons.windowTitle "Viðbótastjóri">
 <!ENTITY search.placeholder "Leita í öllum viðbótum">
 <!ENTITY loading.label "Hleður…">
-<!ENTITY listEmpty.installed.label "Ekki eru uppsettar neinar tegundir af þessum viðbótum">
+<!ENTITY listEmpty.installed.label "Engar viðbætur af þessari tegund eru uppsettar">
 <!ENTITY listEmpty.availableUpdates.label "Engar uppfærslur fundust">
 <!ENTITY listEmpty.recentUpdates.label "Þú hefur ekki uppfært neinar viðbætur nýlega">
 <!ENTITY listEmpty.findUpdates.label "Athuga með uppfærslur">
