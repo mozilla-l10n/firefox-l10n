@@ -111,6 +111,7 @@
 <!ENTITY addon.homepage                       "網站首頁">
 <!ENTITY addon.unknownDate                    "未知">
 <!ENTITY addon.disabled.postfix               "（已停用）">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "更新">
 <!ENTITY addon.undo.label                     "復原？">
 <!ENTITY addon.undo.tooltip                   "還原這個動作">
