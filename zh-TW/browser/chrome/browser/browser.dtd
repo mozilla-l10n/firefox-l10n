@@ -22,7 +22,7 @@
 <!ENTITY  openTabInNewWindow.accesskey       "w">
 <!ENTITY  pinTab.label                       "釘選成應用程式分頁">
 <!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "釘選成普通標籤">
+<!ENTITY  unpinTab.label                     "還原成普通標籤">
 <!ENTITY  unpinTab.accesskey                 "k">
 <!ENTITY  bookmarkThisTab.label              "將此分頁加入書籤">
 <!ENTITY  bookmarkThisTab.accesskey          "B">

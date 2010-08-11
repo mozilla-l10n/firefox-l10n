@@ -13,7 +13,7 @@
 <!ENTITY testpilot.studiesWindow.title                  "您的 Test Pilot 研究">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "目前的研究">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "已完成的研究">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "研究所找到的">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "研究結果">
 <!ENTITY testpilot.studiesWindow.settings.label         "設定">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "正在載入中，請稍候…">
 

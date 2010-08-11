@@ -73,7 +73,7 @@
 <!-- Existing Account Page 2: Passphrase -->
 <!ENTITY passphraseGroupbox.label     "輸入加密金鑰">
 <!ENTITY passphraseDesc3.label        "請輸入您的加密金鑰。必須與您用來加密資料的金鑰相同。">
-<!ENTITY passphraseHelp.label         "您的私密金鑰需要至少 12 個半形符號長，而且不能與您的密碼相同。您可以到您其他電腦 Firefox 的選項>安全>已存密碼查看您已存的安全金鑰。若您仍然無法取得正確的金鑰，您可以重設它，但您將會失去伺服器上所有的資料。">
+<!ENTITY passphraseHelp.label         "您的加密金鑰需要至少 12 個半形符號長，而且不能與您的密碼相同。您可以到您其他電腦 Firefox 的選項>安全>已存密碼查看您已存的加密金鑰。若您仍然無法取得正確的金鑰，您可以重設它，但您將會失去伺服器上所有的資料。">
 <!ENTITY changePassphrase.label       "變更加密金鑰">
 <!ENTITY verifying.label              "驗證中…">
 
