@@ -55,7 +55,7 @@
 <!ENTITY  validation.crl.autoupdate.time.label2   "ਅਗਲੀ ਅੱਪਡੇਟ ਮਿਤੀ ਤੋਂ ਪਹਿਲਾਂ ਦਿਨ">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "ਅੱਪਡੇਟ ਹਰੇਕ">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "ਦਿਨ">
-<!ENTITY  validation.crl.autoupdate.url.label     "CRL would be imported From:">
+<!ENTITY  validation.crl.autoupdate.url.label     "CRL ਇੰਪੋਰਟ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਇੱਥੋਂ:">
 <!ENTITY  crl.import.status.title                 "CRL ਇੰਪੋਰਟ ਹਾਲਤ">
 <!ENTITY  crl.import.success.message              "The Certificate Revocation List (CRL) was successfully imported.">
 <!ENTITY  crl.issuer.label                        "CRL ਜਾਰੀ ਕਰਤਾ:">

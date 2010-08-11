@@ -35,7 +35,7 @@
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; ਓਹਲੇ">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.label      "ਹੋਰ ਓਹਲੇ">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "ਸਭ ਵੇਖੋ">

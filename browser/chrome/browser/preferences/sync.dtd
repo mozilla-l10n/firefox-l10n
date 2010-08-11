@@ -23,20 +23,20 @@
 <!ENTITY syncPrefsCaption.label       "ਬਰਾਊਜ਼ਰ ਸਿੰਕ">
 <!ENTITY syncComputerName.label       "ਕੰਪਿਊਟਰ ਨਾਂ:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName;: ">
 <!ENTITY syncModeSwitchDesc.accesskey "w">
 <!ENTITY syncEverything.label         "ਹਰ ਚੀਜ਼ ਸਿੰਕ ਕਰੋ">
 <!ENTITY customSync.label             "ਮੇਰੀ ਪਸੰਦੀਦਾ ਸੈਟਿੰਗ ਵਰਤੋਂ">
-<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
-<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncEverythingDescription.label  "ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ, ਪਸੰਦ ਤੇ ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕੀਤਾ ਜਾਵੇਗਾ।">
+<!ENTITY syncItem.bookmarks.label     "ਬੁੱਕਮਾਰਕ ਸਿੰਕ">
 <!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.label          "ਟੈਬਾਂ ਸਿੰਕ">
 <!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.label       "ਅਤੀਤ ਸਿੰਕ">
 <!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.label     "ਪਾਸਵਰਡ ਸਿੰਕ">
 <!ENTITY syncItem.passwords.accesskey "P">
-<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.label         "ਮੇਰੀ ਪਸੰਦ ਸਿੰਕ">
 <!ENTITY syncItem.prefs.accesskey     "S">
 
 <!-- Footer stuff -->
