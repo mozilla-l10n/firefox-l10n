@@ -40,7 +40,7 @@
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; 可讓防毒軟體在郵件存入電腦前檢查郵件是否有問題。">
-<!ENTITY antiVirus.label      "允許防毒軟體各別處理與檢查新郵件">
+<!ENTITY antiVirus.label      "允許防毒軟體個別處理與檢查新郵件">
 <!ENTITY antiVirus.accesskey  "A">
 
 <!-- Cookies -->

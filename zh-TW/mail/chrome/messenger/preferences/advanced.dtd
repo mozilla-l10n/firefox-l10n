@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "重複使用已存在的視窗">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnDelete.label  "刪除郵件時關閉該郵件視窗">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "移動或刪除郵件時關閉視窗">
+<!ENTITY closeMsgWindowOnDelete.accesskey "c">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "自動檢查更新:">
