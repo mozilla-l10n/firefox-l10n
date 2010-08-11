@@ -1,30 +1,30 @@
-<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!ENTITY testpilot.brand.label                      "ਟੈਸਟ ਪਾਇਲਟ">
 <!-- browser window: menu and status bar -->
-<!ENTITY testpilot.settings.label                   "Settings">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Notify me when">
-<!ENTITY testpilot.settings.readyToSubmit.label     "A study is ready to submit">
-<!ENTITY testpilot.settings.newStudy.label          "There's a new study">
-<!ENTITY testpilot.settings.hasNewResults.label     "A study has new results">
-<!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatically submit my data (don't ask me)">
-<!ENTITY testpilot.allStudies.label                 "All Your User Studies">
-<!ENTITY testpilot.about.label                      "About Test Pilot">
+<!ENTITY testpilot.settings.label                   "ਸੈਟਿੰਗ">
+<!ENTITY testpilot.settings.notifyMeWhen.label      "ਮੈਨੂੰ ਸੂਚਨਾ ਦਿਓ ਜਦੋਂ">
+<!ENTITY testpilot.settings.readyToSubmit.label     "ਅਧਿਐਨ ਭੇਜਣ ਲਈ ਤਿਆਰ ਹੋਵੇ">
+<!ENTITY testpilot.settings.newStudy.label          "ਨਵਾਂ ਅਧਿਐਨ ਉਪਲੱਬਧ ਹੋਵੇ">
+<!ENTITY testpilot.settings.hasNewResults.label     "ਅਧਿਐਨ ਲਈ ਨਵੇਂ ਨਤੀਜੇ ਹੋਣ">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "ਮੇਰਾ ਡਾਟਾ ਆਟੋਮੈਟਿਕ ਹੀ ਭੇਜੋ (ਮੈਨੂੰ ਨਾ ਪੁੱਛੋ)">
+<!ENTITY testpilot.allStudies.label                 "ਸਭ ਤੁਹਾਡੇ ਯੂਜ਼ਰ ਅਧਿਐਨ">
+<!ENTITY testpilot.about.label                      "ਟੈਸਟ ਪਾਇਲਟ ਬਾਰੇ">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
-<!ENTITY testpilot.studiesWindow.settings.label         "Settings">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait…">
+<!ENTITY testpilot.studiesWindow.title                  "ਤੁਹਾਡੇ ਟੈਸਟ ਪਾਇਲਟ ਅਧਿਐਨ">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "ਮੌਜੂਦਾ ਅਧਿਐਨ">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "ਮੁਕੰਮਮਲ ਹੋਏ ਅਧਿਐਨ">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "ਅਧਿਐਨ ਨਤੀਜੇ">
+<!ENTITY testpilot.studiesWindow.settings.label         "ਸੈਟਿੰਗ">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ, ਉਡੀਕੋ ਜੀ…">
 
 <!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
+<!ENTITY testpilot.rawDataWindow.title                  "ਟੈਸਟ ਪਾਇਲਟ: ਕੱਚਾ ਡਾਟਾ">
 
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip            "Close">
+<!ENTITY testpilot.notification.close.tooltip            "ਬੰਦ ਕਰੋ">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Turn On User Studies">
-<!ENTITY testpilot.feedbackbutton.label                "Feedback">
-<!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because…">
-<!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because…">
+<!ENTITY testpilot.enable.label                        "ਯੂਜ਼ਰ ਅਧਿਐਨ ਚਾਲੂ ਕਰੋ">
+<!ENTITY testpilot.feedbackbutton.label                "ਸੁਝਾਅ">
+<!ENTITY testpilot.happy.label        "ਫਾਇਰਫਾਕਸ ਨੇ ਮੈਨੂੰ ਖੁਸ਼ ਕੀਤਾ ਹੈ, ਕਿਉਂਕਿ…">
+<!ENTITY testpilot.sad.label          "ਫਾਇਰਫਾਕਸ ਨੇ ਮੈਨੂੰ ਦੁਖੀ ਕੀਤਾ ਹੈ, ਕਿਉਂਕਿ…">

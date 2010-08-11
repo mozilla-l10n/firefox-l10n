@@ -97,7 +97,7 @@
 <!ENTITY escrowWarn.message1 "ਖਾਸ: ਇਹ ਸਰਟੀਫਿਕੇਟ ਪ੍ਰਮਾਣਕਰਤਾ ਨੇ ਤੁਹਾਡੀ ਇਕ੍ਰਿਪਸ਼ਨ ਕੁੰਜੀ ਦੀ ਬੈਕਅੱਪ ਬਣਾਉਣ ਬਾਰੇ ਪੁੱਛਿਆ  ਹੈ।">
 <!ENTITY escrowWarn.benefit1 "ਲਾਭ ਇਹ ਹੈ ਕਿ ਜੇਕਰ ਤੁਸੀਂ ਆਪਣੀ ਇਕ੍ਰਿਪਸ਼ਨ ਨਿੱਜੀ ਕੁੰਜੀ ਨੂੰ ਗੁਆ ਲਿਆ ਹੈ, ਤਦ ਤੁਸੀਂ ਇਸ ਸਰਟੀਫਿਕੇਟ ਪ੍ਰਮਾਣਕਰਤਾ ਤੋਂ ਨਕਲ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।">
 <!ENTITY escrowWarn.message2 "ਪਰ, ਤੁਹਾਡੀ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਿੱਜੀ ਕੁੰਜੀ ਸਰਟੀਫਿਕੇਟ ਪ੍ਰਮਾਣਕਰਤਾ ਕੋਲ ਸੰਭਾਲੀ ਰਹੇਗੀ ਅਤੇ ਤੁਹਾਡੇ ਇਕ੍ਰਿਪਟਡ ਈਮੇਲ ਅਤੇ ਦਸਤਾਵੇਜ਼ ਤੁਹਾਡੀ ਆਗਿਆ ਤੋਂ ਬਿਨਾਂ ਪੜਨ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।">
-<!ENTITY examineCert.label "View Certificate">
+<!ENTITY examineCert.label "ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">
 <!ENTITY examineCert.accesskey "V">
 
 <!ENTITY serverCrlNextupdate.message "ਮੱਦਦ ਲਈ ਆਪਣੇ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ">
