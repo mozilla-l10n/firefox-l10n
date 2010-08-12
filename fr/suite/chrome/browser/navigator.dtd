@@ -158,6 +158,7 @@
 <!ENTITY  bookmarksButton.tooltip "Liste des marque-pages">
 <!ENTITY  homeButton.label "Accueil">
 <!ENTITY  bookmarksToolbarItem.label "Éléments de la barre d'outils des marque-pages">
+<!ENTITY bookmarksToolbarChevron.tooltip "Afficher plus de marque-pages">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Chargé">
