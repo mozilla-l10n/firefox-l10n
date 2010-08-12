@@ -4,7 +4,7 @@
 <!ENTITY retry.label "Попробовать снова">
 <!ENTITY connectionFailure.title "Попытка соединения не удалась">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-<!ENTITY deniedPortAccess.title "Обращение к данному адресу запрещено">
+<!ENTITY deniedPortAccess.title "Обращение к данному адресу заблокировано">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Сервер не найден">
 <!ENTITY dnsNotFound.longDesc "
