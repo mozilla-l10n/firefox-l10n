@@ -7,13 +7,6 @@
 <!ENTITY useSiteIcons.accesskey                 "S">
 <!ENTITY useFavIcons.label                      "Rechercher activement les icônes de sites Web quand la page n'en définit pas">
 <!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY tbIconsDescription.label               "Afficher les icônes de sites Web dans le menu des marque-pages et dans les barres d'outils :">
-<!ENTITY tbIconsNever.label                     "Ne jamais afficher les icônes pour les marque-pages">
-<!ENTITY tbIconsNever.accesskey                 "N">
-<!ENTITY tbIconsCache.label                     "Seulement lorsque le site Web a été visité récemment">
-<!ENTITY tbIconsCache.accesskey                 "o">
-<!ENTITY tbIconsAlways.label                    "Toujours afficher les icônes de sites Web pour les marque-pages">
-<!ENTITY tbIconsAlways.accesskey                "T">
 <!ENTITY enableAutomaticImageResizing.label     "Réduire les images à la taille de la fenêtre">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 <!ENTITY useSmoothScroll.label                  "Utiliser le défilement doux">
