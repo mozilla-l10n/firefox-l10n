@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Mode Penjelajahan Pribadi)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Pindah Tab Ini ke…">
+<!ENTITY  moveTabTo.accesskey                "P">
+<!ENTITY  createNewGroup.label               "Buat Kelompok Baru">
+<!ENTITY  createNewGroup.accesskey           "o">
+<!ENTITY  namedGroups.label                  "Kelompok yang Diberi Nama">
 <!ENTITY  reloadTab.label              "Muat Ulang Tab">
 <!ENTITY  reloadTab.accesskey          "l">
 <!ENTITY  reloadAllTabs.label          "Muat Ulang Semua Tab">
@@ -119,6 +124,7 @@
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak laman ini">
 
+<!ENTITY backForwardItem.title        "Maju/Mundur">
 <!ENTITY locationItem.title           "Lokasi">
 <!ENTITY searchItem.title             "Cari">
 <!ENTITY throbberItem.title           "Indikator Aktivitas">
@@ -126,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Beranda">
+<!ENTITY tabViewButton.label          "Kelompok Tab">
+<!ENTITY tabViewButton.tooltip        "Buka antarmuka penelusur tab">
 
 <!ENTITY bookmarksButton.label          "Bookmark">
 <!ENTITY bookmarksButton.tooltip        "Menampilkan bookmark Anda">
@@ -232,6 +240,8 @@
 
 <!ENTITY viewMenu.label         "Tampilan"> 
 <!ENTITY viewMenu.accesskey       "T"> 
+<!ENTITY showTabView.label     "Tampilan Tab">
+<!ENTITY showTabView.accesskey     "n">
 <!ENTITY viewToolbarsMenu.label       "Bilah Alat"> 
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Bilah Samping">
@@ -509,3 +519,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tab peramban">
+
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Tab dari Komputer Lain">
+
+<!ENTITY syncBrand.shortName.label  "Sync">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "Setel &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "l">
+<!ENTITY syncLogInItem.label          "Sambungkan">
+<!ENTITY syncLogInItem.accesskey      "b">
+<!ENTITY syncLogOutItem.label         "Putuskan">
+<!ENTITY syncLogOutItem.accesskey     "p">
+<!ENTITY syncSyncNowItem.label        "Sinkronkan Sekarang">
+<!ENTITY syncSyncNowItem.accesskey    "S">

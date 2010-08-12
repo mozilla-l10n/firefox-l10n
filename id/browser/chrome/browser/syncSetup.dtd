@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "Penyetelan &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Sudah pernah menggunakan &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label       "Belum pernah">
+<!ENTITY setup.choicePage.existing.label  "Sudah menggunakan &syncBrand.shortName.label; di komputer lainnya">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Sambungkan ke">
+<!ENTITY serverType.main.label      "Server &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Gunakan server khusus">
+<!ENTITY signIn.username.label      "Nama Pengguna">
+<!ENTITY signIn.username.accesskey  "U">
+<!ENTITY signIn.password.label      "Sandi">
+<!ENTITY signIn.password.accesskey  "S">
+<!ENTITY signIn.serverURL.label     "URL Server">
+<!ENTITY signIn.serverURL.accesskey "L">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Buat Akun &syncBrand.shortName.label;">
+<!ENTITY setup.confirmPassword.label  "Konfirmasi Sandi">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "Alamat Email">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Saya menyetujui">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "Ketentuan Layanan">
+<!ENTITY setup.tosAgree2.label      "dan">
+<!ENTITY setup.ppLink.label         "Kebijakan Privasi">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Masukkan Kata Pengaman yang Diinginkan">
+<!ENTITY passphraseDesc.label         "Silakan masukkan kata pengaman pilihan Anda. Kata ini akan digunakan untuk mengenkripsi semua data Anda agar hanya Anda yang dapat mengakses data Anda. Kata pengaman ini tidak akan pernah disimpan di server, jadi jangan sampai lupa ya!">
+<!ENTITY passphraseDesc2.label        "Panjang kata pengaman paling sedikit 12 karakter dan tidak boleh sama dengan sandi Anda.">
+<!ENTITY passphraseEntry.label        "Kata Pengaman">
+<!ENTITY passphraseEntry.accesskey    "P">
+<!ENTITY passphraseConfirm.label      "Ulangi">
+<!ENTITY passphraseConfirm.accesskey  "m">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Pengaturan Sinkronisasi Peramban">
+<!ENTITY syncComputerName.label       "Nama Komputer:">
+<!ENTITY syncComputerName.accesskey   "k">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; akan: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Menyinkronisasi Semua Data">
+<!ENTITY customSync.label             "Gunakan pengaturan pilihan saya">
+<!ENTITY syncEverythingDescription.label  "Data Bookmark, riwayat, sandi, pengaturan, dan tab Anda akan disinkronkan.">
+<!ENTITY syncItem.bookmarks.label     "Sinkronkan Bookmark">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sinkronkan Tab">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sinkronkan Riwayat">
+<!ENTITY syncItem.history.accesskey   "w">
+<!ENTITY syncItem.passwords.label     "Sinkronkan Sandi">
+<!ENTITY syncItem.passwords.accesskey "i">
+<!ENTITY syncItem.prefs.label         "Sinkronkan Pengaturan">
+<!ENTITY syncItem.prefs.accesskey     "p">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Pastikan Anda bukan robot ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Masukkan Data Akun">
+<!ENTITY resetPassword.label          "Setel Ulang Sandi">
+<!ENTITY connecting.label             "Menyambungkan…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Masukkan Kata Pengaman">
+<!ENTITY passphraseDesc3.label        "Silakan masukkan kata pengaman Anda. Kata pengaman ini harus persis sama dengan kata pengaman yang Anda gunakan untuk mengenkripsi data.">
+<!ENTITY passphraseHelp.label         "Panjang kata pengaman paling sedikit 12 karakter dan tidak boleh sama dengan sandi Anda. Anda juga dapat menemukannya pada komputer Anda lainnya dan melihatnya pada bagian Kata Sandi Tersimpan pada Pengaturan Keamanan. Jika Anda masih juga tidak dapat mengingatnya, Anda dapat mengganti kata pengaman ini tetapi semua data Anda akan hilang dari server.">
+<!ENTITY changePassphrase.label       "Ganti Kata Pengaman">
+<!ENTITY verifying.label              "Memverifikasi…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "How do you want to start off?">
+<!ENTITY choice.merge.main.label      "Gabungkan data pada komputer ini dengan data &syncBrand.shortName.label; Anda">
+<!ENTITY choice.merge.recommend.label "Mozilla menyarankan pilihan ini untuk semua pengguna.">
+<!ENTITY choice.client.main.label     "Timpa data pada komputer ini dengan data &syncBrand.fullName.label; Anda">
+<!ENTITY choice.server.main.label     "Timpa data pada komputer dan perangkat Anda lainnya dengan data pada komputer ini">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Konfirmasi pilihan penyetelan">
+<!ENTITY confirm.merge.label          "Anda telah memilih untuk menggabungkan data pada komputer ini dengan data pada perangkat lain yang telah terpasang &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label         "Semua data &brandShortName; pada komputer ini akan dihapus, yaitu:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; akan menyalin semua data &syncBrand.fullName.label; ke komputer ini.">
+<!ENTITY confirm.client.warning.label "PERINGATAN: Data &brandShortName; pada komputer ini akan ditimpa!">
+<!ENTITY confirm.server.label         "Data pada perangkat berikut akan ditimpa dengan data pada komputer ini:">
+<!ENTITY confirm.server.warning.label "PERINGATAN: Data pada komputer ini akan menimpa data &brandShortName; pada perangkat berikut!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Penyetelan Selesai!">
+<!ENTITY setup.successPage.desc.label    "Selamat ya! &brandShortName; telah disetel untuk menyinkronkan data Anda secara otomatis. Jangan lupa untuk memasang &syncBrand.fullName.label; di semua komputer dan perangkat Anda. Kini Anda dapat melanjutkan menggunakan &brandShortName;.">
