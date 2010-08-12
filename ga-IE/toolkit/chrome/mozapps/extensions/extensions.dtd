@@ -111,6 +111,7 @@
 <!ENTITY addon.homepage "Leathanach Baile">
 <!ENTITY addon.unknownDate "Anaithnid">
 <!ENTITY addon.disabled.postfix "(díchumasaithe)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix "Nuashonrú">
 <!ENTITY addon.undo.label "Cealaigh?">
 <!ENTITY addon.undo.tooltip "Cealaigh an gníomh seo">
