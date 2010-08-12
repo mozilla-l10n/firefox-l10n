@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigation privée)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label "Déplacer cet onglet vers…">
+<!ENTITY  moveTabTo.accesskey "D">
+<!ENTITY  createNewGroup.label "Créer un nouveau groupe">
+<!ENTITY  createNewGroup.accesskey "C">
+<!ENTITY  namedGroups.label "Groupes nommés">
 <!ENTITY reloadTab.label "Actualiser l'onglet">
 <!ENTITY reloadTab.accesskey "A">
 <!ENTITY reloadAllTabs.label "Actualiser tous les onglets">
@@ -128,6 +133,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY  homeButton.label          "Accueil">
+<!ENTITY tabViewButton.label        "Ensemble d'onglets">
+<!ENTITY tabViewButton.tooltip      "Ouvrir une interface visuelle dans un onglet">
 
 <!ENTITY bookmarksButton.label      "Marque-pages">
 <!ENTITY bookmarksButton.tooltip    "Afficher le panneau des marque-pages">
@@ -234,6 +241,8 @@
 
 <!ENTITY viewMenu.label         "Affichage">
 <!ENTITY viewMenu.accesskey       "A">
+<!ENTITY showTabView.label     "Vue onglet">
+<!ENTITY showTabView.accesskey "V">
 <!ENTITY viewToolbarsMenu.label       "Barres d'outils">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Panneau latéral">
