@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Brabhsáil Phríobháideach)">
 <!-- Tab context menu -->
 
+<!ENTITY moveTabTo.label "Bog an Cluaisín seo go…">
+<!ENTITY moveTabTo.accesskey "B">
+<!ENTITY createNewGroup.label "Cruthaigh Grúpa Nua">
+<!ENTITY createNewGroup.accesskey "C">
+<!ENTITY namedGroups.label "Grúpaí Ainmnithe">
 <!ENTITY reloadTab.label "Athluchtaigh Cluaisín">
 <!ENTITY reloadTab.accesskey "A">
 <!ENTITY reloadAllTabs.label "Athluchtaigh Gach Cluaisín">
@@ -119,6 +124,7 @@
 <!ENTITY printButton.label "Priontáil">
 <!ENTITY printButton.tooltip "Priontáil an leathanach seo">
 
+<!ENTITY backForwardItem.title "Siar/Ar Aghaidh">
 <!ENTITY locationItem.title "Suíomh">
 <!ENTITY searchItem.title "Cuardach">
 <!ENTITY throbberItem.title "Táscaire Gníomhaíochta">
@@ -126,6 +132,8 @@
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label "Baile">
+<!ENTITY tabViewButton.label "Tacair Chluaisíní">
+<!ENTITY tabViewButton.tooltip "Open a visual tab interface">
 
 <!ENTITY bookmarksButton.label "Leabharmharcanna">
 <!ENTITY bookmarksButton.tooltip "Taispeáin do leabharmharcanna">
@@ -232,6 +240,8 @@
 
 <!ENTITY viewMenu.label "Amharc">
 <!ENTITY viewMenu.accesskey "A">
+<!ENTITY showTabView.label "Amharc Cluaisíní">
+<!ENTITY showTabView.accesskey "C">
 <!ENTITY viewToolbarsMenu.label "Barraí Uirlisí">
 <!ENTITY viewToolbarsMenu.accesskey "U">
 <!ENTITY viewSidebarMenu.label "Barra Taoibh">
