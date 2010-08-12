@@ -261,7 +261,7 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ugrás egy webhelyre">
-<!ENTITY urlbar.accesskey             "U">
+<!ENTITY urlbar.accesskey             "D">
 <!ENTITY urlbar.switchToTab.label     "Váltás erre a lapra:">
 
 <!-- 
