@@ -15,10 +15,11 @@
 </ul>
 ">
 <!ENTITY fileNotFound.title "Файл не найден">
-<!ENTITY fileNotFound.longDesc " <ul>
+<!ENTITY fileNotFound.longDesc "
+<ul>
    <li>Проверьте правильность введённого имени файла, соответствие регистра и отсутствие других ошибок в имени файла.</li>
    <li>Проверьте, не был ли файл переименован, удалён или перемещён.</li>
-</ul> ">
+</ul>">
 <!ENTITY generic.title "Ой.">
 <!ENTITY generic.longDesc "<p>&brandShortName; не может загрузить эту страницу по неопределённой причине.</p>">
 <!ENTITY malformedURI.title "Формат адреса неверен">
