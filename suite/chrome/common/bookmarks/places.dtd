@@ -94,8 +94,8 @@
 
 <!ENTITY cmd.find.key "f">
 
-<!ENTITY backCmd.label "Retour">
 <!ENTITY backButton.tooltip "Retour en arrière">
+<!ENTITY forwardButton.tooltip "Avancer d'une page">
 
 <!ENTITY detailsPane.more.label "Plus">
 <!ENTITY detailsPane.more.accesskey "P">
