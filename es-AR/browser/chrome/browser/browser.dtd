@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación privada)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Mover esta pestaña a…">
+<!ENTITY  moveTabTo.accesskey                "M">
+<!ENTITY  createNewGroup.label               "Crear nuevo grupo">
+<!ENTITY  createNewGroup.accesskey           "C">
+<!ENTITY  namedGroups.label                  "Grupos con nombre">
 <!ENTITY  reloadTab.label                    "Recargar pestaña">
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Recargar todas las pestañas">
@@ -127,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label "Inicio">
+<!ENTITY tabViewButton.label          "Grupos de pestañas">
+<!ENTITY tabViewButton.tooltip        "Abrir una interfaz de pestañas visual">
 
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
@@ -233,6 +240,8 @@
 
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
+<!ENTITY showTabView.label     "TabView">
+<!ENTITY showTabView.accesskey     "V">
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "t">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
