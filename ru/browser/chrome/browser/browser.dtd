@@ -200,7 +200,7 @@
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
 <!ENTITY showTabView.label "Наборы вкладок">
-<!ENTITY showTabView.accesskey "б">
+<!ENTITY showTabView.accesskey "а">
 <!ENTITY viewToolbarsMenu.label "Панели инструментов">
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY viewSidebarMenu.label "Боковая панель">
