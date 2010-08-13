@@ -90,3 +90,10 @@
 <!ENTITY contextShareImage.label "Sdílet obrázek">
 <!ENTITY contextEditBookmark.label "Upravit">
 <!ENTITY contextRemoveBookmark.label "Odebrat">
+
+<!ENTITY pageactions.saveas.pdf "Uložit jako PDF">
+<!ENTITY pageactions.share.page "Sdílet stránku">
+<!ENTITY pageactions.password.forget "Zapomenout heslo">
+<!ENTITY pageactions.reset "Vymazat předvolby serveru">
+<!ENTITY pageactions.findInPage "Hledat ve stránce">
+<!ENTITY pageactions.search.addNew "Přidat vyhledávací modul">
