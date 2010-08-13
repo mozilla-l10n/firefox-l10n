@@ -28,7 +28,7 @@
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!ENTITY updates.backgroudUpdateCheck.label   "Otomatis Periksa Versi Baru">
 <!ENTITY updates.backgroudUpdateCheck.accesskey "O">
-<!ENTITY updates.updating.label               "Memperbarui pengaya‚">
+<!ENTITY updates.updating.label               "Memperbarui pengaya">
 <!ENTITY updates.installed.label              "Pengaya Anda telah diperbarui.">
 <!ENTITY updates.downloaded.label             "Versi baru pengaya Anda telah diunduh.">
 <!ENTITY updates.restart.label                "Mulai ulang sekarang untuk menyelesaikan pemasangan">
