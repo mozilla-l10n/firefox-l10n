@@ -199,8 +199,8 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
-<!ENTITY showTabView.label "Вид Вкладок">
-<!ENTITY showTabView.accesskey "к">
+<!ENTITY showTabView.label "Наборы вкладок">
+<!ENTITY showTabView.accesskey "б">
 <!ENTITY viewToolbarsMenu.label "Панели инструментов">
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY viewSidebarMenu.label "Боковая панель">
