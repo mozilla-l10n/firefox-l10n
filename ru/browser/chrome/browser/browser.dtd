@@ -111,7 +111,7 @@
 <!ENTITY bookmarksItem.title "Закладки">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY tabViewButton.label "Наборы вкладок">
-<!ENTITY tabViewButton.tooltip "Открыть интерфейс визуальных вкладок">
+<!ENTITY tabViewButton.tooltip "Открыть панель визуальных вкладок">
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksButton.tooltip "Показать ваши закладки">
 <!ENTITY bookmarksButton.accesskey "к">
