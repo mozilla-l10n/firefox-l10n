@@ -84,9 +84,16 @@
 <!ENTITY consoleErrLine.label      "Linje:">
 <!ENTITY consoleErrColumn.label    "Kolonne:">
 
-<!ENTITY contextOpenInNewTab.label "Åpne lenke i ny fane">
-<!ENTITY contextSaveImage.label    "Lagre bilde">
+<!ENTITY contextOpenInNewTab.label    "Åpne lenke i ny fane">
+<!ENTITY contextSaveImage.label       "Lagre bilde">
 <!ENTITY contextShareLink.label       "Del lenke">
 <!ENTITY contextShareImage.label      "Del bilde">
 <!ENTITY contextEditBookmark.label    "Rediger">
 <!ENTITY contextRemoveBookmark.label  "Slett">
+
+<!ENTITY pageactions.saveas.pdf      "Lagre som PDF">
+<!ENTITY pageactions.share.page      "Del side">
+<!ENTITY pageactions.password.forget "Glem passord">
+<!ENTITY pageactions.reset           "Fjern innstillinger for nettsted">
+<!ENTITY pageactions.findInPage      "Finn på siden">
+<!ENTITY pageactions.search.addNew   "Legg til søkemotor">
