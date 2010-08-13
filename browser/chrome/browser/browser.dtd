@@ -2,6 +2,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazione anonima)">
+<!ENTITY moveTabTo.label "Sposta questa scheda in…">
+<!ENTITY moveTabTo.accesskey "S">
+<!ENTITY createNewGroup.label "Crea un nuovo gruppo">
+<!ENTITY createNewGroup.accesskey "C">
+<!ENTITY namedGroups.label "Gruppi con nome">
 <!ENTITY reloadTab.label "Ricarica scheda">
 <!ENTITY reloadTab.accesskey "R">
 <!ENTITY reloadAllTabs.label "Ricarica tutte le schede">
@@ -105,6 +110,8 @@
 <!ENTITY throbberItem.title "Indicatore attività">
 <!ENTITY bookmarksItem.title "Segnalibri">
 <!ENTITY homeButton.label "Pagina iniziale">
+<!ENTITY tabViewButton.label "Gruppi di schede">
+<!ENTITY tabViewButton.tooltip "Apri interfaccia visuale per le schede">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksButton.tooltip "Visualizza i segnalibri">
 <!ENTITY bookmarksButton.accesskey "a">
@@ -192,6 +199,8 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
+<!ENTITY showTabView.label "Visualizza schede">
+<!ENTITY showTabView.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barre degli strumenti">
 <!ENTITY viewToolbarsMenu.accesskey "B">
 <!ENTITY viewSidebarMenu.label "Barra laterale">
