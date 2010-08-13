@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação Privada)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Mover este separador para…">
+<!ENTITY  moveTabTo.accesskey                "M">
+<!ENTITY  createNewGroup.label               "Criar novo grupo">
+<!ENTITY  createNewGroup.accesskey           "C">
+<!ENTITY  namedGroups.label                  "Grupos">
 <!ENTITY  reloadTab.label        "Recarregar Separador">
 <!ENTITY  reloadTab.accesskey         "R">
 <!ENTITY  reloadAllTabs.label    "Recarregar Todos os Separadores">
@@ -127,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label "Início">
+<!ENTITY tabViewButton.label          "Conjuntos de separadores">
+<!ENTITY tabViewButton.tooltip        "Abrir um separador de interface visual">
 
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostra os marcadores">
@@ -233,6 +240,8 @@ shortcut keys on Linux. -->
 
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
+<!ENTITY showTabView.label     "Vista de separadores">
+<!ENTITY showTabView.accesskey     "V">
 <!ENTITY viewToolbarsMenu.label "Barras de ferramentas">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
