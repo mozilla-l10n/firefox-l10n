@@ -25,8 +25,8 @@
 <!ENTITY syncComputerName.accesskey   "k">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; akan: ">
 <!ENTITY syncModeSwitchDesc.accesskey "w">
-<!ENTITY syncEverything.label         "Menyinkronisasi Semua Data">
-<!ENTITY customSync.label             "Gunakan pengaturan pilihan saya">
+<!ENTITY syncEverything.label         "menyinkronisasikan Semua Data">
+<!ENTITY customSync.label             "menggunakan pengaturan pilihan saya">
 <!ENTITY syncEverythingDescription.label  "Data Bookmark, riwayat, sandi, pengaturan, dan tab Anda akan disinkronkan.">
 <!ENTITY syncItem.bookmarks.label     "Sinkronkan Bookmark">
 <!ENTITY syncItem.bookmarks.accesskey "m">
