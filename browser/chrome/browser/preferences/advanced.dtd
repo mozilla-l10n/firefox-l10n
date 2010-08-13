@@ -22,7 +22,7 @@
 <!ENTITY submitCrashes.accesskey "n">
 <!ENTITY networkTab.label "Rete">
 <!ENTITY connection.label "Connessione">
-<!ENTITY connectionDesc.label "Determina come &brandShortName; si collega a internet">
+<!ENTITY connectionDesc.label "Determina come &brandShortName; si collega a Internet">
 <!ENTITY connectionSettings.label "Impostazioni…">
 <!ENTITY connectionSettings.accesskey "z">
 <!ENTITY offlineStorage.label "Memorizzazione dati non in linea">
