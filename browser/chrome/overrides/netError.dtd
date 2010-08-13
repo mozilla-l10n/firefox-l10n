@@ -15,11 +15,13 @@
 <!ENTITY dnsNotFound.title "Çewtî! Navnîşan Nayê Dîtin">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Kiểm tra các lỗi gõ địa chỉ như là
-    <strong>ww</strong>.example.com thay vì
-    <strong>www</strong>.example.com</li>
-  <li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng của bạn.</li>
-  <li>Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc rằng &brandShortName; được phép truy cập Web.</li>
+  <li>Ji ber gumana çewtiyan navnîşanê kontrol bike. Dibe ku te
+  <strong>ww</strong>.example.com nivîsandibe ji dêvla vê ve:
+  <strong>www</strong>.example.com</li>
+  <li>Eger nikaribî tu rûpelekê vekî, girêdana înternetê ya kompîtera xwe
+  kontrol bike.</li>
+  <li>Eger kompîtera te ji hêla firewall an jî proksiyekê ve tê parastin, teqez bike ka ji bo
+  that &brandShortName;ê destûra Webê heye an na.</li>
 </ul>
 ">
 

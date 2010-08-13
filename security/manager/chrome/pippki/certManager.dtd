@@ -105,9 +105,9 @@
 <!ENTITY certmgr.close.accesskey              "G">
 <!ENTITY certmgr.view2.label                  "Nîşan Bide...">
 <!ENTITY certmgr.view2.accesskey              "N">
-<!ENTITY certmgr.edit3.label                  "Pêbaweriyê Serast Bike…">
+<!ENTITY certmgr.edit3.label                  "Pêbaweriyê serast bike…">
 <!ENTITY certmgr.edit3.accesskey              "e">
-<!ENTITY certmgr.editca.label                 "CA Ewlekarî serats bike">
+<!ENTITY certmgr.editca.label                 "CA pêbawerî serast bike">
 <!ENTITY certmgr.editca.accesskey             "C">
 <!ENTITY certmgr.add.label                    "Têxê">
 <!ENTITY certmgr.add.accesskey                "T">
