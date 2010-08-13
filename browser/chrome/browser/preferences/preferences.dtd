@@ -14,3 +14,6 @@
 <!ENTITY panePrivacy.title "Privātums">
 <!ENTITY paneSecurity.title "Drošība">
 <!ENTITY paneAdvanced.title "Papildu">
+
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "Sync">

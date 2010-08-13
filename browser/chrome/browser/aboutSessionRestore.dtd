@@ -9,8 +9,6 @@
 
 <!ENTITY restorepage.tryagainButton  "Atjaunot">
 <!ENTITY restorepage.restore.access "A">
-<!ENTITY restorepage.cancelButton   "Sākt jaunu sesiju">
-<!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "Atjaunot">
 <!ENTITY restorepage.listHeader     "Logus un cilnes">
