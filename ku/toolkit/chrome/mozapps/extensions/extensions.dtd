@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Li hemû add-onan bigere">
 <!ENTITY loading.label                        "Tê barkirin…">
 <!ENTITY listEmpty.installed.label            "Tu add-onên te yên sazkirî yên ji vê cureyê nîn in">
+<!ENTITY listEmpty.availableUpdates.label     "Tu rojanekirin nehat dîtin">
+<!ENTITY listEmpty.recentUpdates.label        "Di demeke nêz de te tu add-on rojane nekiriye">
+<!ENTITY listEmpty.findUpdates.label          "Ji bo Rojanekirinan Kontrol Bike">
 <!ENTITY listEmpty.search.label               "Tu add-oneke ku li vê tê nehat dîtin">
 <!ENTITY listEmpty.button.label               "Derbarê add-onan de zêdetir agahiyan bistîne">
 
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label                  "Pêvek">
 <!ENTITY view.appearance.label                "Tema">
 <!ENTITY view.plugins.label                   "Plugin">
+<!ENTITY view.recentUpdates.label             "Rojanekirin Nêz">
+<!ENTITY view.availableUpdates.label          "Rojankirinên Amade">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Add-onan rijane bike">
+<!ENTITY updates.updateAddonsNow.label        "Add-onan Niha Rojane Bike">
+<!ENTITY updates.updateAddonsNow.accesskey    "A">
+<!ENTITY updates.viewUpdates.label            "Rojanekirinên Nêz Nîşan Bide">
+<!ENTITY updates.viewUpdates.accesskey        "R">
+<!ENTITY updates.backgroudUpdateCheck.label   "Xweber li Rojanekirinan Bigere">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "X">
 <!ENTITY updates.updating.label               "Add-onan rojane dıke">
 <!ENTITY updates.installed.label              "Add-onön te hatın rojanekırın.">
 <!ENTITY updates.downloaded.label             "Rojanekirinên add-onên te hatin daxistin.">
 <!ENTITY updates.restart.label                "Ji bo bidawîkirina sazkirinê, niha ji nû ve bide destpêkirin">
 <!ENTITY updates.noneFound.label              "Tu rojanekirin nehat dîtin">
+<!ENTITY updates.manualUpdatesFound.label     "Rojanekirinên Amade Nîşan Bide">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Zêdetir agahiyan nîşan bide">
@@ -36,19 +47,20 @@
 
 <!ENTITY cmd.enableAddon.label                "Çalak">
 <!ENTITY cmd.enableAddon.accesskey            "a">
-<!ENTITY cmd.enableAddon.tooltip              "Vê add-onê çalak bike">
 <!ENTITY cmd.disableAddon.label               "Neçalak">
 <!ENTITY cmd.disableAddon.accesskey           "N">
-<!ENTITY cmd.disableAddon.tooltip             "Vê add-onê neçalak bike">
 <!ENTITY cmd.uninstallAddon.label             "Rake">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.uninstallAddon.tooltip           "Vê add-onê rake">
 <!ENTITY cmd.showPreferences.label            "Vebijêrk">
 <!ENTITY cmd.showPreferences.tooltip          "Vebijêrkên vê add-onê biguherîne">
 <!ENTITY cmd.contribute.label                 "Hevpar">
 <!ENTITY cmd.contribute.accesskey             "H">
 <!ENTITY cmd.contribute.tooltip               "Ji bo pêşdebirina vê add-onê hevkariyê bike">
 
+<!ENTITY cmd.showReleaseNotes.label           "Têbiniyên Weşanê Nîşan Bide">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Ji bo vê rojanekirinê têbiniyên weşanê nîşan bide">
+<!ENTITY cmd.hideReleaseNotes.label           "Têbiniyên Weşanê Veşêre">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Têbiniyên weşanê yên ji bo vê rojanekirinê veşêre">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Guherto">
@@ -99,6 +111,8 @@
 <!ENTITY addon.homepage                       "Serûpel">
 <!ENTITY addon.unknownDate                    "Nenas">
 <!ENTITY addon.disabled.postfix               "(neçalak e)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Rojanekirin">
 <!ENTITY addon.undo.label                     "Vegerîne?">
 <!ENTITY addon.undo.tooltip                   "Vê çalakiyê vegerîne">
 <!ENTITY addon.undoUninstall.label            "Vegerîne?">
@@ -107,6 +121,11 @@
 <!ENTITY addon.restartNow.tooltip             "Ji bo bidawîkirina sazkirinê, niha ji nû ve bide destpêkirin">
 <!ENTITY addon.install.label                  "Saz Bike">
 <!ENTITY addon.install.tooltip                "Vê add-onê saz bike">
+<!ENTITY addon.updateNow.label                "Niha Rojane Bike">
+<!ENTITY addon.updateNow.tooltip              "Rojanekirina vê add-onê saz bike">
 <!ENTITY addon.checkingForUpdates.label       "Li rojanekirina digere…">
+<!ENTITY addon.releaseNotes.label             "Têbiniyên Weşanê:">
+<!ENTITY addon.loadingReleaseNotes.label      "Tê barkirin…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Bibore, di barkirina têbiniyên weşanê de çewtiyek derket.">
 
 <!ENTITY addon.createdBy.label                "Ji hêla ">

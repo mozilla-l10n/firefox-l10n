@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gera Nepen)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Move This Tab To…">
+<!ENTITY  moveTabTo.accesskey                "M">
+<!ENTITY  createNewGroup.label               "Koma nû biafirîne">
+<!ENTITY  createNewGroup.accesskey           "K">
+<!ENTITY  namedGroups.label                  "Komên binavkirî">
 <!ENTITY  reloadTab.label                    "Hilpekînê ji nû ve bar bike">
 <!ENTITY  reloadTab.accesskey                "n">
 <!ENTITY  reloadAllTabs.label                "Hemû hilpekînan ji nû ve bar bike">
@@ -119,6 +124,7 @@
 <!ENTITY printButton.label            "Çap bike">
 <!ENTITY printButton.tooltip          "Vê rûpelê çap bike">
 
+<!ENTITY backForwardItem.title        "Back/Forward">
 <!ENTITY locationItem.title           "Cih">
 <!ENTITY searchItem.title             "Lêgerîn">
 <!ENTITY throbberItem.title           "Şanîkera çalakiyan">
@@ -126,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Serûpel">
+<!ENTITY tabViewButton.label          "Komên hilpekînan">
+<!ENTITY tabViewButton.tooltip        "Open a visual tab interface">
 
 <!ENTITY bookmarksButton.label          "Bijare">
 <!ENTITY bookmarksButton.tooltip        "Bijareyên xwe bibîne">
@@ -175,6 +183,7 @@
 <!ENTITY inspectMenu.accesskey        "V">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Venêre">
 <!ENTITY inspectButton.accesskey      "V">
 <!ENTITY inspectNextButton.label      "Pêş">
@@ -191,7 +200,7 @@
 <!ENTITY newNavigatorCmd.key        "n">
 <!ENTITY newNavigatorCmd.accesskey      "y">
 
-<!ENTITY editMenu.label         "Serast Bike"> 
+<!ENTITY editMenu.label         "Serastkirin"> 
 <!ENTITY editMenu.accesskey       "S"> 
 <!ENTITY undoCmd.label            "Şûnde Bîne">  
 <!ENTITY undoCmd.key            "Z">  
@@ -231,6 +240,8 @@
 
 <!ENTITY viewMenu.label         "Nîşan bide"> 
 <!ENTITY viewMenu.accesskey       "b"> 
+<!ENTITY showTabView.label     "TabView">
+<!ENTITY showTabView.accesskey     "V">
 <!ENTITY viewToolbarsMenu.label       "Darikê Amûran"> 
 <!ENTITY viewToolbarsMenu.accesskey     "a"> 
 <!ENTITY viewSidebarMenu.label "Darikê Quncikê">
@@ -255,6 +266,8 @@
 <!ENTITY appMenuToolbarLayout.label "Bicîbûna Darikê Amûran…">
 <!ENTITY appMenuSidebars.label "Darikên kêlekê">
 <!ENTITY appMenuHelp.label "Alîkarî">
+
+<!ENTITY developerMenu.label "Pêşdebir">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Here Malperekê">
@@ -480,7 +493,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 <!ENTITY editBookmark.undo.label                     "Şûnde Bîne">
 <!ENTITY editBookmark.undo.accessKey                 "Ş">
-<!ENTITY editBookmark.edit.label                     "Bipergalî">
+<!ENTITY editBookmark.edit.label                     "Serast bike…">
 <!ENTITY editBookmark.edit.accessKey                 "e">
 
 <!ENTITY identity.unverifiedsite2 "Di vê malperê de agahiyên nasnameyê nîn in.">
@@ -506,3 +519,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Hilpekînên gerokê">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Hilpekînên ji komputerên din">
+
+<!ENTITY syncBrand.shortName.label  "Sync">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "y">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label;ê saz bike…">
+<!ENTITY syncSetup.accesskey          "s">
+<!ENTITY syncLogInItem.label          "Girêbide">
+<!ENTITY syncLogInItem.accesskey      "G">
+<!ENTITY syncLogOutItem.label         "Girêdanê Qut Bike">
+<!ENTITY syncLogOutItem.accesskey     "d">
+<!ENTITY syncSyncNowItem.label        "Niha senkronîze bike">
+<!ENTITY syncSyncNowItem.accesskey    "s">
