@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat nettlesing)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Flytt denne fanen til …">
+<!ENTITY  moveTabTo.accesskey                "F">
+<!ENTITY  createNewGroup.label               "Lag ny gruppe">
+<!ENTITY  createNewGroup.accesskey           "L">
+<!ENTITY  namedGroups.label                  "Navngitte grupper">
 <!ENTITY  reloadTab.label                    "Oppdater fane">
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Oppdater alle faner">
@@ -127,6 +132,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY  homeButton.label            "Startside">
+<!ENTITY tabViewButton.label          "Fanegrupper">
+<!ENTITY tabViewButton.tooltip        "Åpne et visuelt fanegrensesnitt">
 
 <!ENTITY bookmarksButton.label          "Bokmerker">
 <!ENTITY bookmarksButton.tooltip        "Viser bokmerkene dine">
@@ -233,6 +240,8 @@
 
 <!ENTITY viewMenu.label         "Vis">
 <!ENTITY viewMenu.accesskey       "V">
+<!ENTITY showTabView.label     "Fanevisning">
+<!ENTITY showTabView.accesskey     "F">
 <!ENTITY viewToolbarsMenu.label       "Verktøylinjer">
 <!ENTITY viewToolbarsMenu.accesskey     "V">
 <!ENTITY viewSidebarMenu.label "Sidestolpe">
