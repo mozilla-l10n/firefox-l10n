@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegació privada)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Mou la pestanya a…">
+<!ENTITY  moveTabTo.accesskey                "M">
+<!ENTITY  createNewGroup.label               "Crea un grup nou">
+<!ENTITY  createNewGroup.accesskey           "C">
+<!ENTITY  namedGroups.label                  "Grups amb nom">
 <!ENTITY  reloadTab.label                    "Torna a carregar la pestanya">
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Torna a carregar totes les pestanyes">
@@ -117,6 +122,7 @@
 <!ENTITY printButton.label "Imprimeix">
 <!ENTITY printButton.tooltip "Imprimeix aquesta pàgina">
 
+<!ENTITY backForwardItem.title        "Enrere/Endavant">
 <!ENTITY locationItem.title "Ubicació">
 <!ENTITY searchItem.title "Cerca">
 <!ENTITY throbberItem.title "Indicador d'activitat">
@@ -124,6 +130,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label "Inici">
+<!ENTITY tabViewButton.label          "Conjunts de pestanyes">
+<!ENTITY tabViewButton.tooltip        "Obre una interfície visual de pestanyes">
 
 <!ENTITY bookmarksButton.label "Adreces d'interès">
 <!ENTITY bookmarksButton.tooltip "Mostra les vostres adreces d'interès">
@@ -229,6 +237,8 @@
 
 <!ENTITY viewMenu.label "Visualitza">
 <!ENTITY viewMenu.accesskey "V">
+<!ENTITY showTabView.label     "Visualitza en pestanya">
+<!ENTITY showTabView.accesskey     "V">
 <!ENTITY viewToolbarsMenu.label "Barres d'eines">
 <!ENTITY viewToolbarsMenu.accesskey "a">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
