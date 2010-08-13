@@ -10,8 +10,6 @@
 
 <!ENTITY restorepage.tryagainButton  "Restaurar">
 <!ENTITY restorepage.restore.access "a">
-<!ENTITY restorepage.cancelButton   "Iniciar nova sessão">
-<!ENTITY restorepage.cancel.access  "n">
 
 <!ENTITY restorepage.restoreHeader  "Restaurar">
 <!ENTITY restorepage.listHeader     "Janelas e separadores">
