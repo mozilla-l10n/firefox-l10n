@@ -12,14 +12,19 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Anonymní prohlížení)">
 
 <!-- Tab context menu -->
+<!ENTITY moveTabTo.label "Přesunout panel do…">
+<!ENTITY moveTabTo.accesskey "s">
+<!ENTITY createNewGroup.label "Vytvořit skupinu">
+<!ENTITY createNewGroup.accesskey "t">
+<!ENTITY namedGroups.label "Pojmenované skupiny">
 <!ENTITY reloadTab.label "Obnovit panel">
 <!ENTITY reloadTab.accesskey "O">
 <!ENTITY reloadAllTabs.label "Obnovit všechny panely">
 <!ENTITY reloadAllTabs.accesskey "b">
 <!ENTITY closeOtherTabs.label "Zavřít ostatní panely">
-<!ENTITY closeOtherTabs.accesskey "s">
+<!ENTITY closeOtherTabs.accesskey "v">
 <!ENTITY openTabInNewWindow.label "Otevřít v novém okně">
-<!ENTITY openTabInNewWindow.accesskey "v">
+<!ENTITY openTabInNewWindow.accesskey "k">
 <!ENTITY pinTab.label "Připnout panel">
 <!ENTITY pinTab.accesskey "a">
 <!ENTITY unpinTab.label "Odepnout panel">
@@ -127,6 +132,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label "Domů">
+<!ENTITY tabViewButton.label "Panely">
+<!ENTITY tabViewButton.tooltip "Otevře správce panelů">
 
 <!ENTITY bookmarksButton.label "Záložky">
 <!ENTITY bookmarksButton.tooltip "Zobrazí vaše záložky">
@@ -233,6 +240,8 @@
 
 <!ENTITY viewMenu.label "Zobrazení">
 <!ENTITY viewMenu.accesskey "Z">
+<!ENTITY showTabView.label "Panely">
+<!ENTITY showTabView.accesskey "P">
 <!ENTITY viewToolbarsMenu.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenu.accesskey "N">
 <!ENTITY viewSidebarMenu.label "Postranní lišta">
@@ -240,7 +249,7 @@
 <!ENTITY viewCustomizeToolbar.label "Vlastní…">
 <!ENTITY viewCustomizeToolbar.accesskey "V">
 <!ENTITY viewTabsOnTop.label "Panely navrchu">
-<!ENTITY viewTabsOnTop.accesskey "P">
+<!ENTITY viewTabsOnTop.accesskey "a">
 
 <!ENTITY historyMenu.label "Historie">
 <!ENTITY historyMenu.accesskey "H">
