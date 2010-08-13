@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "&syncBrand.fullName.label;ê Saz Bike">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; dike ku tu bikevî dîrok, bijare, şîfreyan û hilpekînên li ser cîhaza xwe vekî.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Hesabê &syncBrand.fullName.label;ê">
+<!ENTITY currentUser.label            "Bikarhênerê Niha:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Rojanekirin">
+<!ENTITY resetPass.label              "Resetkirin">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Rêveberiya Hebasî">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY changePassword.label         "Şîfreyê biguherîne">
+<!ENTITY changePassphrase.label       "Rêzika Nepen Biguherîne">
+<!ENTITY resetSync.label              "Syncê Reset Bike">
+<!ENTITY differentAccount.label       "Hesabekî Cuda Bi Kar Bîne">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Synca Gerokê">
+<!ENTITY syncComputerName.label       "Navê Kompîterê:">
+<!ENTITY syncComputerName.accesskey   "N">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; dê: ">
+<!ENTITY syncModeSwitchDesc.accesskey "d">
+<!ENTITY syncEverything.label         "Her Tiştî Sync Bike">
+<!ENTITY customSync.label             "Mîhengên min ên takeeksî bi kar bîne">
+<!ENTITY syncEverythingDescription.label  "Bijare, dîrok, şîfre, vebijêrk, û hemû hilpekîn dê bên senkronîzekirin.">
+<!ENTITY syncItem.bookmarks.label     "Bijareyan Senkronîze Bike">
+<!ENTITY syncItem.bookmarks.accesskey "B">
+<!ENTITY syncItem.tabs.label          "Hilpekînan Senkronîze Bike">
+<!ENTITY syncItem.tabs.accesskey      "H">
+<!ENTITY syncItem.history.label       "Dîrokê Senkronîze Bike">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Şîfreyan Senkronîze Bike">
+<!ENTITY syncItem.passwords.accesskey "Ş">
+<!ENTITY syncItem.prefs.label         "vebijêrkan Senkronîze Bike">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Termên Servîsê">
+<!ENTITY prefs.ppLink.label         "Siyaseta nepeniyê">
