@@ -35,5 +35,5 @@
 <!ENTITY noproxy.label "Ekki nota milliþjóna fyrir:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Til dæmis: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Nota þennan milliþjónn fyrir allar samskiptareglur">
+<!ENTITY shareproxy.label "Nota þennan milliþjón fyrir allar samskiptareglur">
 <!ENTITY shareproxy.accesskey "o">

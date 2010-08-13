@@ -11,6 +11,11 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Einkavöfrun)">
 <!-- Tab context menu -->
+<!ENTITY moveTabTo.label "Færa þennan flipa í…">
+<!ENTITY moveTabTo.accesskey "F">
+<!ENTITY createNewGroup.label "Búa til nýjan hóp">
+<!ENTITY createNewGroup.accesskey "B">
+<!ENTITY namedGroups.label "Nefndir hópar">
 <!ENTITY reloadTab.label "Endurnýja flipa">
 <!ENTITY reloadTab.accesskey "r">
 <!ENTITY reloadAllTabs.label "Endurnýja alla flipa">
@@ -115,6 +120,8 @@
 <!ENTITY bookmarksItem.title "Bókamerki">
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label "Heim">
+<!ENTITY tabViewButton.label "Flipahópar">
+<!ENTITY tabViewButton.tooltip "Opna myndrænt flipaviðmót">
 <!ENTITY bookmarksButton.label "Bókamerki">
 <!ENTITY bookmarksButton.tooltip "Birta bókamerkin þín">
 <!ENTITY bookmarksButton.accesskey "B">
@@ -237,6 +244,8 @@
  
 <!ENTITY viewMenu.accesskey "k">
  
+<!ENTITY showTabView.label "Flipaviðmót">
+<!ENTITY showTabView.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "Verkfæraslár">
  
 <!ENTITY viewToolbarsMenu.accesskey "V">
