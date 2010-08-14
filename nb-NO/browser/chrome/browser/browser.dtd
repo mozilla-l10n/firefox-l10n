@@ -132,8 +132,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY  homeButton.label            "Startside">
-<!ENTITY tabViewButton.label          "Fanegrupper">
-<!ENTITY tabViewButton.tooltip        "Åpne et visuelt fanegrensesnitt">
+<!ENTITY tabViewButton2.label         "Fanegrupper">
+<!ENTITY tabViewButton2.tooltip       "Legg fanene dine i grupper">
 
 <!ENTITY bookmarksButton.label          "Bokmerker">
 <!ENTITY bookmarksButton.tooltip        "Viser bokmerkene dine">
@@ -240,8 +240,8 @@
 
 <!ENTITY viewMenu.label         "Vis">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY showTabView.label     "Fanevisning">
-<!ENTITY showTabView.accesskey     "F">
+<!ENTITY showTabView2.label     "Grupper fanene dine …">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label       "Verktøylinjer">
 <!ENTITY viewToolbarsMenu.accesskey     "V">
 <!ENTITY viewSidebarMenu.label "Sidestolpe">
