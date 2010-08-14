@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label "Paramètres">
-<!ENTITY testpilot.settings.notifyMeWhen.label "Avertir quand">
+<!ENTITY testpilot.settings.dataSubmission.label    "Envoi de données">
+<!ENTITY testpilot.settings.notifications.label     "Notifications">
+<!ENTITY testpilot.settings.notifyWhen.label        "Me prévenir quand…">
 <!ENTITY testpilot.settings.readyToSubmit.label "une étude est prête à être envoyée">
 <!ENTITY testpilot.settings.newStudy.label "une nouvelle étude est disponible">
 <!ENTITY testpilot.settings.hasNewResults.label "une étude dispose de nouveaux résultats">
 <!ENTITY testpilot.settings.alwaysSubmitData.label "Envoyer automatiquement mes informations (ne pas demander)">
-<!ENTITY testpilot.allStudies.label "Toutes vos études d'utilisation">
+<!ENTITY testpilot.allYourStudies.label             "Toutes vos études d'utilisation…">
 <!ENTITY testpilot.about.label "À propos de Pilot">
 
 <!-- all studies window -->
