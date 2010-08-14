@@ -93,3 +93,10 @@
 <!ENTITY contextShareImage.label      "Comparteix la imatge">
 <!ENTITY contextEditBookmark.label    "Edita">
 <!ENTITY contextRemoveBookmark.label  "Suprimeix">
+
+<!ENTITY pageactions.saveas.pdf      "Desa com a PDF">
+<!ENTITY pageactions.share.page      "Comparteix la pàgina">
+<!ENTITY pageactions.password.forget "Oblida la contrasenya">
+<!ENTITY pageactions.reset           "Neteja les preferències del lloc">
+<!ENTITY pageactions.findInPage      "Cerca a la pàgina">
+<!ENTITY pageactions.search.addNew   "Afegeix el motor de cerca">
