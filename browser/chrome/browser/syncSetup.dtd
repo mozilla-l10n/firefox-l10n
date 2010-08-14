@@ -8,34 +8,34 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY connectTo.label            "Girê bide bi">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom.label    "Use a custom server">
+<!ENTITY serverType.main.label      "pêşkêşkara &syncBrand.fullName.label;ê">
+<!ENTITY serverType.custom.label    "Pêşkêşkareke takekesî bi kar bîne">
 <!ENTITY signIn.username.label      "Navê bikarhêner">
 <!ENTITY signIn.username.accesskey  "N">
 <!ENTITY signIn.password.label      "Şîfre">
 <!ENTITY signIn.password.accesskey  "Ş">
-<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY signIn.serverURL.label     "URL'a pêşkêşkarê">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "Create your &syncBrand.shortName.label; Account">
+<!ENTITY setup.newAccountPage.title.label  "Hesabê Xwe yê &syncBrand.shortName.label;ê Biafirîne">
 <!ENTITY setup.confirmPassword.label  "Şîfreyê pesend bike">
 <!ENTITY setup.confirmPassword.accesskey  "Ş">
 <!ENTITY setup.emailAddress.label     "Navnîşana EPeyamê">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
-<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosAgree1.label      "Ez dipejirînim">
+<!ENTITY setup.tosAgree1.accesskey  "E">
 <!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
+<!ENTITY setup.tosAgree2.label      "û">
 <!ENTITY setup.ppLink.label         "Siyaseta nepeniyê">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "a">
+<!ENTITY setup.tosAgree2.accesskey  "û">
 
 <!-- New Account Page 2: Passphrase Entry -->
 <!ENTITY setup.newPPPage.title.label       "Enter your Secret Phrase">
-<!ENTITY passphraseDesc.label         "Please enter a secret phrase. This will be used to encrypt all your data so only you can access it. It is never stored on the server, so don't lose this!">
+<!ENTITY passphraseDesc.label         "Ji kerema xwe re rêzika nepen binivîse. Bi vê dê hemû daneyên te bên şîfrekirin û tenê tu yê dikaribî bikeviyê. Tu carî li ser vê pêşkêşkarê tomar nabe, lewre divê winda nekî!">
 <!ENTITY passphraseDesc2.label        "This must be at least 12 characters long and cannot match your account password.">
 <!ENTITY passphraseEntry.label        "Rêzika nepen">
 <!ENTITY passphraseEntry.accesskey    "R">
