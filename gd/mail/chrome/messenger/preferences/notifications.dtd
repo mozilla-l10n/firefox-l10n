@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "Gnàthaich a' chaismeachd airson post ùr">
+<!ENTITY window.width                     "35em">
+
+<!ENTITY alertCustomization.intro         "Tagh na raointean a nochdas sna rabhaidhean caismeachd:">
+<!ENTITY previewText.label                "Teacsa ro-shealladh nan teachdaireachdan">
+<!ENTITY previewText.accesskey            "T">
+<!ENTITY subject.label                    "Cuspair">
+<!ENTITY subject.accesskey                "s">
+<!ENTITY sender.label                     "Seòladair">
+<!ENTITY sender.accesskey                 "e">
+

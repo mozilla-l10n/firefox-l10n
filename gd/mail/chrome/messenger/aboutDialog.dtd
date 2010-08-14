@@ -1,0 +1,16 @@
+<!ENTITY aboutDialog.title      "Mu &brandFullName;">
+<!ENTITY aboutButton.label      "&lt; Air ais">
+<!ENTITY aboutButton.accesskey  "A">
+<!ENTITY aboutVersion           "tionndadh">
+<!ENTITY aboutMenu.label        "Mu dhèidhinn">
+<!ENTITY aboutMenu.accesskey    "M">
+<!ENTITY aboutCredits.label     "Mu dhèidhinn">
+<!ENTITY aboutCredits.accesskey "M">
+<!ENTITY aboutRights.label      "Creideisean">
+<!ENTITY aboutRights.accesskey  "r">
+<!ENTITY aboutContributors.label "Do chòraichean">
+<!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutLicense.label      "Ceadachas">
+<!ENTITY aboutLicense.accesskey  "C">
+
+<!ENTITY cmdCloseMac.commandKey "w">

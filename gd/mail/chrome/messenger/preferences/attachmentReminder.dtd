@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title   "Faclan a bheir ceanglachan gu m' aire">
+<!ENTITY attachKeywordText.label          "Bheir &brandShortName; ceanglachan a tha a dhìth fhathast gu d' aire ma bhios tu an impis post-dealain a chur anns a bheil gin dhe na faclan seo.">
+<!ENTITY addKeywordButton.label           "Cuir ris">
+<!ENTITY addKeywordButton.accesskey       "C">
+<!ENTITY editKeywordButton.label          "Deasaich">
+<!ENTITY editKeywordButton.accesskey      "e">
+<!ENTITY removeKeywordButton.label        "Sguab às">
+<!ENTITY removeKeywordButton.accesskey    "g">

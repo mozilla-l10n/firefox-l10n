@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "Draoidh an ion-phortaidh">
+
+<!ENTITY importFromWin.label            "Ion-phortaich roghainnean, roghainnean cunntais, leabhar nan seòlaidh, criathragan is dàta eile o:">
+<!ENTITY importFromNonWin.label         "Ion-phortaich roghainnean, roghainnean cunntais, leabhar nan seòlaidh, criathragan is dàta eile o:">
+
+<!ENTITY importFromNothing.label        "Na ion-phortaich rud sam bith">
+<!ENTITY importFromNothing.accesskey    "d">
+<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x no SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "S">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Ion-phortaich na roghainnean is pasgain puist">
+<!ENTITY importItems.title              "Rudan ri an ion-phortadh">
+<!ENTITY importItems.label              "Tagh na rudan a thèid ion-phortadh:">
+
+<!ENTITY migrating.title                "Ag ion-phortadh…">
+<!ENTITY migrating.label                "Tha na rudan a leanas 'gan ion-phortadh an-dràsta…">
+
+<!ENTITY selectProfile.title            "Tagh clàr-aithne">
+<!ENTITY selectProfile.label            "'S urrainn dhut ion-phortadh o na clàir-aithne a leanas:">
+
+<!ENTITY done.title                     "Ion-phortadh deiseil">
+<!ENTITY done.label                     "Chaidh na rudan a leanas ion-phortadh gu soirbheachail:">

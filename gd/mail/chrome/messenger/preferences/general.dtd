@@ -1,0 +1,35 @@
+<!ENTITY messengerStartPage.label         "Duilleag tòiseachaidh &brandShortName;">
+<!ENTITY enableStartPage.label            "Nuair a thòiseachas &brandShortName;, seall an duilleag tòiseachaidh ann an raon nan teachdaireachdan">
+<!ENTITY enableStartPage.accesskey        "N">
+<!ENTITY location.label                   "Seòladh:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "Aisig na roghainnean bunaiteach">
+<!ENTITY useDefault.accesskey             "r">
+
+<!ENTITY bounceSystemDockIcon.label       "Beòthaich an ìomhaigheag doca">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "Nuair a ruigeas teachdaireachd ùr:">
+<!ENTITY playSound.label                  "Cluich fuaim">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Seall caismeachd">
+<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY customizeMailAlert.label         "Gnàthaich…">
+<!ENTITY customizeMailAlert.accesskey     "c">
+
+<!ENTITY play.label                       "Cluich">
+<!ENTITY play.accesskey                   "C">
+<!ENTITY systemsound.label                "Fuaim bhunaiteach an t-siostaim airson post ùr">
+<!ENTITY systemsoundMac.label             "Fuaim caismeachd an t-siostaim">
+<!ENTITY systemsoundMac.accesskey         "F">
+<!ENTITY systemsound.accesskey            "F">
+<!ENTITY customsound.label                "Cleachd an fhuaim a leanas">
+<!ENTITY customsound.accesskey            "u">
+<!ENTITY browse.label                     "Brabhsaich…">
+<!ENTITY browse.accesskey                 "B">
+
+<!ENTITY addonsMgr.label                  "Tuilleadain">
+<!ENTITY manageAddonsDescWin.label        "Atharraich roghainnean nan tuilleadan agad">
+<!ENTITY manageAddonsDescUnix2.label      "Atharraich roghainnean nan tuilleadan agad">
+<!ENTITY manageAddons.label               "Rianaich tuilleadan…">
+<!ENTITY manageAddons.accesskey           "R">

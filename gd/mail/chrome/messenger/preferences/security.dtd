@@ -1,0 +1,59 @@
+<!ENTITY itemJunk.label          "Truilleis">
+<!ENTITY itemPhishing.label      "Fallsaidheachdan puist-dhealain">
+<!ENTITY itemPasswords.label     "Faclan-faire">
+<!ENTITY itemAntiVirus.label     "Ana-bhìoras">
+<!ENTITY itemCookies.label       "Susbaint-lìn">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Suidhich na roghainnean bunaiteach agad airson post-truilleis. 'S urrainn dhut roghainnean a shònrachadh ann an "Roghainnean nan cunntasan" aig am bi buaidh air cunntasan fa leth.">
+<!ENTITY manualMark.label "Nuair a chuireas mi comharra gu bheil teachdaireachd 'na phost-truilleis:">
+<!ENTITY manualMark.accesskey "N">
+<!ENTITY manualMarkModeMove.label "Gluais iad gu pasgan &quot;Truilleis&quot; a' chunntais sin">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Sguab às iad">
+<!ENTITY manualMarkModeDelete.accesskey "d">
+<!ENTITY markAsReadOnSpam.label "Cuir comharra mar gum biodh teachdaireachd air a leughadh ma tha comharra truilleis ris">
+<!ENTITY markAsReadOnSpam.accesskey "m">
+<!ENTITY enableJunkLogging.label "Cuir an comas logadh criathradh na truilleis">
+<!ENTITY enableJunkLogging.accesskey "e">
+<!ENTITY openJunkLog.label "Seall an loga">
+<!ENTITY openJunkLog.accesskey "S">
+<!ENTITY resetTrainingData.label "Ath-shuidhich an dàta trèanaidh">
+<!ENTITY resetTrainingData.accesskey "r">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "'s urrainn do &brandShortName; sgrùdadh a dhèanamh air teachdaireachdan air eagal 's gu bheil iad nam fallsaidheachdan puis-dhealain le bhith a' cumail faire air gleusan cumanta a chleachdar a chum foill.">
+<!ENTITY enablePhishingDetector1.label    "Innis dhomh ma tha amharas gu bheil an teachdaireachd a tha mi a' leughadh 'na fhallsaidheachd puist-dhealain">
+<!ENTITY enablePhishingDetector1.accesskey  "t">
+<!ENTITY useDownloadedList.label "Luchdaich a-nuas liosta de dh'fhallsaicheachdan puist-dhealain fo amharas">
+<!ENTITY useDownloadedList.accesskey "u">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "'S urrainn do &brandShortName; na faclan-faire airson gach cunntas agad a chumail 'na chuimhne.">
+<!ENTITY useMasterPassword.label        "Cleachd prìomh fhacal-faire">
+<!ENTITY useMasterPassword.accesskey    "u">
+<!ENTITY masterPassword.intro           "Dìonaidh am prìomh fhacal-faire na faclan-faire uile agad ach feumaidh tu a chur a-steach turas gach seisein.">
+<!ENTITY changeMasterPassword.label     "Atharraich am prìomh fhacal-faire…">
+<!ENTITY changeMasterPassword.accesskey "c">
+<!ENTITY savedPasswords.label           "Faclan-faire a chaidh a shàbhaladh…">
+<!ENTITY savedPasswords.accesskey       "s">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "Nì &brandShortName; èasgaidh e do bhathar-bog ana-bhìorais teachdaireachdan puist a sgrùdadh a thig a-steach, air eagal 's gum bi bìorasan annta, mus dèid an stòradh gu h-ionadail.">
+<!ENTITY antiVirus.label      "Leig le cliantan ana-bhìorais teachdaireachdan a thig a-steach a chur ann an cuarantain">
+<!ENTITY antiVirus.accesskey  "a">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "Le &brandShortName;, 's urrainn dhut sònrachadh dè na blogaichean, na h-inbhirean naidheachd is na làraichean-lìn eile aig a bhios cead briosgaidean a shuidheachadh.">
+<!ENTITY acceptCookies.label            "Gabh ri briosgaidean o làraichean">
+<!ENTITY acceptCookies.accesskey        "c">
+<!ENTITY keepUntil.label                "Cum gus:">
+<!ENTITY keepUntil.accesskey            "k">
+<!ENTITY expire.label                   "am falbh an ùine orra">
+<!ENTITY close.label                    "an dùin mi &brandShortName;">
+<!ENTITY askEachTime.label              "faighnich dhìom gach turas">
+<!ENTITY cookieExceptions.label         "Eisgeachdan…">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "Seall na briosgaidean…">
+<!ENTITY showCookies.accesskey          "S">
+

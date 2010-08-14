@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label            "Leabhar nan seòladh:">
+<!ENTITY addressbookPicker.accesskey        "L">
+<!ENTITY searchInput.label                  "Lorg:">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY SearchNameOrEmail.label            "Ainm no post-dealain">
+
+<!ENTITY deleteAddrBookCard.label           "Sguab às">
+<!ENTITY addrBookCardProperties.label       "Roghainnean">
+<!ENTITY addtoToFieldMenu.label             "Cuir ris an raon "Gu"">
+<!ENTITY addtoCcFieldMenu.label             "Cuir ris an raon "Cc"">
+<!ENTITY addtoBccFieldMenu.label            "Cuir ris an raon "Bcc"">
+
+<!ENTITY toButton.label                     "Cuir ri "Gu":">
+<!ENTITY toButton.accesskey                 "C">
+<!ENTITY ccButton.label                     "Cuir ri "Cc":">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Cuir ri "Bcc":">
+<!ENTITY bccButton.accesskey                "B">

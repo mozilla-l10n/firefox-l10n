@@ -1,0 +1,111 @@
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "Draoidh nan cunntasan">
+<!ENTITY accountWizard.size "width: 50em; height: 48em;">
+
+<!-- Entities for Account Type page -->
+
+<!ENTITY accountSetupInfo.label "Feumaidh tu cunntas puist no buidhnean-naidheachd a chur air dòigh mus urrainn dhut teachdaireachdan fhaighinn.">
+<!ENTITY accountTypeTitle.label "Suidheachadh de chunntas ùr">
+<!ENTITY accountTypeDesc.label "Cruinnichidh an draoidh am fiosrachadh air a bheil feum gus cunntas puist no buidhinn-naidheachd a chur air dòigh. Mur eil am fiosrachadh ceart again, cuir fios gu rianadair an t-siostaim no solaraiche na seirbheise-lìn agad.">
+<!ENTITY accountTypeDirections.label "Tagh an seòrsa de chunntas a bu toigh leat a chur air dòigh:">
+<!ENTITY accountTypeMail.label "Cunntas puist-dhealain">
+<!ENTITY accountTypeMail.accesskey "C">
+<!ENTITY accountTypeNews.label "Cunntas buidhinn-naidheachd">
+<!ENTITY accountTypeNews.accesskey "C">
+
+<!-- Entities for Identity page -->
+
+<!ENTITY identityTitle.label "Dearbh-aithne">
+<!ENTITY identityDesc.label "Tha dearbh-aithne aig gach cunntas; sin am fiosrachadh air a dh'aithnichear thusa nuair a gheibhear teachdaireachdan uat.">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Cuir a-steach an t-ainm a nochdas san raon &quot;O&quot; sna teachdaireachdan a chuireas tu gu daoine eile">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(mar eisimpleir, &quot;Calum MacCaluim&quot;).">
+<!ENTITY fullnameLabel.label "D' ainm:">
+<!ENTITY fullnameLabel.accesskey "D">
+
+<!ENTITY emailLabel.label "An seòladh puist-dhealain:">
+<!ENTITY emailLabel.accesskey "e">
+
+<!-- Entities for Server page -->
+
+<!ENTITY serverTitle.label "Fiosrachadh an fhrithealaiche">
+<!ENTITY incomingServerTypeDesc.label "Tagh seòrsa an fhrithealaiche a-steach a tha thu a' cleachdadh.">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "Cuir a-steach ainm an fhrithealaiche a-steach agad (mar eisimpleir &quot;post.ballsampaill.net&quot;).">
+<!ENTITY incomingServerLabel.label "Am frithealaiche a-steach:">
+<!ENTITY incomingServerLabel.accesskey "s">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Cuir a-steach ainm frithealaiche nan naidheachdan (NNTP) agad (mar eisimpleir &quot;naidheachdan.ballsampaill.net&quot;).">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "Cuir a-steach ainm an fhrithealaiche a-mach (SMTP) agad (mar eisimpleir &quot;smtp.ballsampaill.net&quot;).">
+<!ENTITY smtpServerLabel.label "Am frithealaiche a-mach:">
+<!ENTITY smtpServerLabel.accesskey "A">
+<!ENTITY newsServerLabel.label "Frithealaiche nam buidhnean-naidheachd:">
+<!ENTITY newsServerLabel.accesskey "F">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Thèid am frithealaiche a-mach (SMTP) làithreach agad, &quot;">
+<!ENTITY haveSmtp1.suffix2 "&quot;, a chleachdadh. 'S urrainn dhut na frithealaichean a-mach atharrachadh ann an roghainnean nan cunntasan.">
+
+<!-- Entities for Login page -->
+
+<!ENTITY loginTitle.label "Ainmean a' chleachdaiche">
+<!ENTITY usernameDesc.label "Cuir a-steach ainm a' chleachdaiche airson post a-steach a fhuair thu o sholaraiche a' phuist-dhealain agad ">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(mar eisimpleir &quot;cmaccaluim&quot;).">
+<!ENTITY usernameLabel.label "Ainm a' chleachdaiche airson post a-steach:">
+<!ENTITY usernameLabel.accesskey "i">
+<!ENTITY usernameSmtpDesc.label "Cuir a-steach ainm a' chleachdaiche airson post a-mach a fhuair thu o sholaraiche a' phuist-dhealain agad (an dearbh ainm a tha agad airson post a-steach mar is trice).">
+<!ENTITY usernameSmtpLabel.label "Ainm a' chleachdaiche airson post a-mach:">
+<!ENTITY usernameSmtpLabel.accesskey "o">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Thèid an t-ainm cleachdaiche làithreach agad airson post a-mach (SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix2 "&quot;, a chleachdadh. 'S urrainn dhut na frithealaichean a-mach atharrachadh ann an roghainnean nan cunntasan.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "Tha am frithealaiche a-mach (SMTP) agad, &quot;">
+<!ENTITY haveSmtp3.suffix2 "&quot;, co-ionnan ris an fhrithealaiche a-steach agad 's thèid d' ainm cleachdaiche airson post a-steach a chleachdadh gus inntrigeadh a dhèanamh thuige. 'S urrainn dhut na frithealaichean a-mach atharrachadh ann an roghainnean nan cunntasan.">
+
+<!-- Entities for Account name page -->
+
+<!ENTITY accnameTitle.label "Ainm a' chunntais">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Cuir a-steach an t-ainm a bu toigh leat a bhith air a' chunntas seo (mar eisimpleir &quot;Cunntas m' obrach&quot;, &quot;Cunntas an taighe&quot; no &quot;Cunntas nan naidheachdan&quot;).">
+<!ENTITY accnameLabel.label "Ainm a' chunntais:">
+<!ENTITY accnameLabel.accesskey "A">
+
+<!-- Entities for Done (Congratulations) page -->
+
+<!ENTITY completionTitle.label "Meal do naidheachd!">
+<!ENTITY completionText.label "Dearbhaich gu bheil am fiosrachadh gu h-ìosal ceart.">
+<!ENTITY serverTypePrefix.label "Seòrsa an fhrithealaiche a-steach:">
+<!ENTITY serverNamePrefix.label "Ainm an fhrithealaiche a-steach:">
+<!ENTITY smtpServerNamePrefix.label "Ainm an fhrithealaiche a-mach (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Ainm frithealaiche nan naidheachdan (NNTP):">
+<!ENTITY downloadOnLogin.label "Luchdaich a-nuas teachdaireachdan an-dràsta">
+<!ENTITY downloadOnLogin.accesskey "d">
+<!ENTITY deferStorageDesc.label "Thoir air falbh a' chromag on bhogsa seo ma tha thu airson post a' chunntais seo a chumail 'na eòlaire fhèin. Nochdaidh an cunntas seo mar chunntas àrd-ìre an uairsin. Mura dèan thu sin, bidh e 'na phàirt de chunntas a' bhogsa a-steach uile-choitchinn sna pasgain ionadail.">
+<!ENTITY deferStorage.label "Cleachd am bogsa a-steach uile-choitcheann (cum post sna pasgain ionadail)">
+<!ENTITY deferStorage.accesskey "g">
+<!ENTITY clickFinish.label "Briog air "Crìochnaich" gus na roghainnean seo a shàbhaladh 's draoidh nan cunntasan fhàgail.">
+<!ENTITY clickFinish.labelMac "Briog air "Dèanta" gus na roghainnean seo a shàbhaladh 's draoidh nan cunntasan fhàgail.">

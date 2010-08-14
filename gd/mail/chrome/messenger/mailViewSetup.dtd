@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Suidheachadh sealladh nan teachdaireachdan">
+<!ENTITY mailViewHeading.label "Ainm sealladh na teachdaireachdan:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Nuair a chaidh an sealladh seo a thaghadh, na seall ach teachdaireachdan:">
+

@@ -1,0 +1,102 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label           "Roghainnean">
+
+<!ENTITY generalInfo.label                       "Fiosrachadh coitcheann">
+<!ENTITY folderCharsetTab.label                  "Còdachadh charactairean bunaiteach:">
+<!ENTITY folderCharsetTab.accesskey              "e">
+<!ENTITY folderCharsetOverride.label             "Cleachd na roghainnean bunaiteach airson a h-uile teachdaireachd sa phasgan (thèid roghainnean sònraichte a thaobh còdachadh charactairean is fèin-mhothachadh aig teachdaireachdan fa leth a leigeil seachad)">
+<!ENTITY folderCharsetOverride.accesskey         "a">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Ath-thog gearr-chunntas clàr-innse nam faidhle">
+<!ENTITY folderRebuildSummaryFile2.label         "Càraich pasgan">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "r">
+<!ENTITY folderRebuildSummaryFile.explanation    "Thèid faidhle clàr-innse nam pasgan (.msf) a thruailleadh uaireannan 's bidh coltas gu bheil teachdaireachdan air chall no bidh feadhainn a chaidh a sguabadh às ri fhaicinn fhathast; ma chàraicheas tu am pasgan, thèid seo a chur ceart.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Gabh a-steach teachdaireachdan sa phasgan seo ann an toraidhean de lorg uile-choitcheann">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+     
+<!ENTITY retention.label "Am poileasaidh glèidhidh">
+<!ENTITY retentionUseAccount.label  "Cleachd roghainnean a' chunntais agam">
+<!ENTITY retentionUseAccount.accesskey "u">
+<!ENTITY daysOld.label "là(ithean) a dh'aois">
+<!ENTITY message.label "teachdaireachdan">
+<!ENTITY retentionCleanup.label "'S urrainn dhut seann teachdaireachdan a sguabadh às gu buan gus àite air an diosg fhaighinn air ais.">
+<!ENTITY retentionCleanupImap.label "'S urrainn dhut seann teachdaireachdan a sguabadh às gu buan gus àite air an diosg fhaighinn air ais, an dà chuid lethbhric ionadail is an fheadhainn thùsail air an fhrithealaiche chèin.">
+<!ENTITY retentionCleanupPop.label "'S urrainn dhut seann teachdaireachdan a sguabadh às gu buan gus àite air an diosg fhaighinn air ais, a' gabhail a-steach na feadhainn thùsail air an fhrithealaiche chèin.">
+<!ENTITY retentionDeleteMsg.label "Sguab às teachdaireachdan a tha nas sine na">
+<!ENTITY retentionDeleteMsg.accesskey "S">
+<!ENTITY retentionKeepAll.label "Na sguab às teachdaireachd sam bith">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepRecent.label "Sguab às a h-uile ach an fheadhainn as ùire">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Sguab às teachdaireachdan a chaidh a leughadh an-còmhnaidh (leig seachad na roghainnean aoise)">
+<!ENTITY retentionApplyToFlagged.label "Cum teachdaireachdan ris a bheil rionnag an-còmhnaidh">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+
+<!ENTITY folderSynchronizationTab.label          "Co-thìmeachadh">
+<!ENTITY folderCheckForNewMessages2.label         "Nuair a lorgar teachdaireachdan ùra airson a' chunntais seo, cuir sùil air a' phasgan seo an-còmhnaidh">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+
+<!ENTITY offlineFolder.check.label               "Tagh am pasgan seo a chum cleachdaidh far loidhne">
+<!ENTITY offlineFolder.check.accesskey           "s">
+<!ENTITY offlineFolder.button.label              "Luchdaich a-nuas an-dràsta">
+<!ENTITY offlineFolder.button.accesskey          "d">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Tagh am buidheann-naidheachd seo a chum cleachdaidh far loidhne">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY offlineNewsgroup.button.label           "Luchdaich a-nuas an-dràsta">
+<!ENTITY offlineNewsgroup.button.accesskey       "d">
+
+<!ENTITY folderProps.name.label                  "Ainm:">
+<!ENTITY folderProps.name.accesskey              "n">
+<!ENTITY folderProps.location.label              "Seòladh:">
+<!ENTITY folderProps.location.accesskey          "l">
+
+<!ENTITY folderSharingTab.label                  "Co-roinneadh">
+<!ENTITY privileges.button.label                 "Pribhleidean…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Tha cead agad na leanas a dhèanamh:">
+<!ENTITY folderType.label                        "Seòrsa a' phasgain:">
+
+<!ENTITY folderQuotaTab.label                    "Cuota">
+<!ENTITY folderQuotaRoot.label                   "Freumh a' chuota:">
+<!ENTITY folderQuotaUsage.label                  "Cleachdadh:">
+<!ENTITY folderQuotaStatus.label                 "Cor:">

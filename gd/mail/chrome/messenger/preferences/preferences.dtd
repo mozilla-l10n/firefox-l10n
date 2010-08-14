@@ -1,0 +1,12 @@
+<!ENTITY  prefWindow.titleWin     "Roghainnean">
+<!ENTITY  prefWindow.titleGNOME   "Roghainnean &brandShortName;">
+<!ENTITY  prefWindow.styleWindows "width: 55em; min-height: 45em;">
+<!ENTITY  prefWindow.styleMac     "width: 55em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 55em; min-height: 45em;">
+
+<!ENTITY paneGeneral.title        "Coitcheann">
+<!ENTITY paneDisplay.title        "Taisbeanadh">
+<!ENTITY paneComposition.title    "Sgrìobhadh">
+<!ENTITY paneAttachments.title    "Ceanglachain">
+<!ENTITY paneSecurity.title       "Tèarainteachd">
+<!ENTITY paneAdvanced.title       "Adhartach">

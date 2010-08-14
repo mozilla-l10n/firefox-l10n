@@ -1,0 +1,120 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY toField2.label "gu ">
+<!ENTITY fromField2.label "o ">
+<!ENTITY senderField2.label "seòladair ">
+<!ENTITY organizationField2.label "buidheann ">
+<!ENTITY replyToField2.label "freagairt-gu ">
+
+<!ENTITY subjectField2.label "cuspair ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "bcc ">
+<!ENTITY newsgroupsField2.label "buidhnean-naidheachd ">
+<!ENTITY followupToField2.label "post leanmhainnach gu ">
+<!ENTITY tagsHdr2.label "tagaichean ">
+<!ENTITY dateField2.label "ceann-là ">
+<!ENTITY userAgentField2.label "àidseant-cleachdaiche ">
+<!ENTITY referencesField2.label "iomraidhean ">
+<!ENTITY messageIdField2.label "dearbh-aithne na teachdaireachd ">
+<!ENTITY inReplyToField2.label "san fhreagairt gu ">
+<!ENTITY originalWebsite2.label "làrach-lìn ">
+
+<!ENTITY editMessageDescription.label "Seo dreach teachdaireachd">
+<!ENTITY editMessageButton.label "Deasaich…">
+<!ENTITY hdrArchiveButton.label "tasg-lann">
+<!ENTITY hdrArchiveButton.tooltip "cuir an teachdaireachd seo san tasg-lann">
+<!ENTITY hdrReplyButton.label "freagair">
+<!ENTITY hdrReplyButton.tooltip "freagair ris an teachdaireachd seo">
+<!ENTITY hdrReplyAllButton.label "freagair ris a h-uile">
+<!ENTITY hdrReplyAllButton.tooltip "freagair ris a h-uile seòladair is faightear">
+<!ENTITY hdrReplyListButton.label "liosta nam freagairt">
+<!ENTITY hdrReplyListButton.tooltip "freagair ri liosta puist">
+<!ENTITY hdrForwardButton.label "sìn air adhart">
+<!ENTITY hdrForwardButton.tooltip "sìn an teachdaireachd air adhart gu">
+<!ENTITY hdrJunkButton.label "truilleis">
+<!ENTITY hdrJunkButton.tooltip "cuir comharra truilleis air an teachdaireachd seo">
+<!ENTITY hdrTrashButton.label "sguab às">
+<!ENTITY hdrTrashButton.tooltip "sguab às an teachdaireachd seo">
+
+<!ENTITY hdrViewToolbarShowFull.label "seall ìomhaigheagan is teacsa">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Na seall ach ìomhaigheagan">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
+<!ENTITY hdrViewToolbarShowText.label "Seall teacsa a-mhàin">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Seall "Freagair ris an t-seòladair" an-còmhnaidh">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
+
+<!ENTITY otherActionsButton.label "gnìomhan eile">
+<!ENTITY otherActionsOpenConversation.label "fosgail ann an còmhradh">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow.label "fosgail ann an uinneag ùr">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "f">
+<!ENTITY otherActionsOpenInNewTab.label "fosgail ann an taba ùr">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
+<!ENTITY markAsReadMenuItem.label "cuir comharra air gun deach a leughadh">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "cuir comharra air nach deach a leughadh">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
+<!ENTITY saveAsMenuItem.label "sàbhail mar…">
+<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "seall am bun-tùs">
+<!ENTITY viewSourceMenuItem.accesskey "m">
+<!ENTITY otherActionsPrint.label "clò-bhuail…">
+<!ENTITY otherActionsPrint.accesskey "c">
+
+<!ENTITY openAttachmentCmd.label    "Fosgail">
+<!ENTITY openAttachmentCmd.accesskey    "o">
+<!ENTITY saveAsAttachmentCmd.label    "Sàbhail mar…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "a">
+<!ENTITY detachAttachmentCmd.label    "Dealaich…">
+<!ENTITY deleteAttachmentCmd.label    "Sguab às">
+<!ENTITY saveAllAttachmentsCmd.label    "Sàbhail a h-uile…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "Dealaich a h-uile…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "Sguab às a h-uile…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!ENTITY copyLinkCmd.label        "Dèan lethbhreac de sheòladh a' cheangail">
+<!ENTITY copyLinkCmd.accesskey    "c">
+
+<!ENTITY CopyMessageId.label "Dèan lethbhreac de dhearbh-aithne na teachdaireachd">
+<!ENTITY OpenMessageForMsgId.label "Fosgail an teachdaireachd leis an dearbh-aithne seo">
+<!ENTITY OpenBrowserWithMsgId.label "Fosgail am brabhsair le dearbh-aithne na teachdaireachd">

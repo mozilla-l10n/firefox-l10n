@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "A' luchdadh a-nuas teisteanasan">
+<!ENTITY info.message "A' rannsachadh an eòlaire airson teisteanasan nam faightearan. Faodaidh gum feum seo mionaid no dhà.">
+<!ENTITY stop.label "Sguir dhen rannsachadh">

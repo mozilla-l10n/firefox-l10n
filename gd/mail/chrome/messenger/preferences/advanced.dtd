@@ -1,0 +1,108 @@
+<!ENTITY itemGeneral.label       "Coitcheann">
+<!ENTITY itemDisplay.label       "Leughadh ┐ taisbanadh">
+<!ENTITY itemUpdate.label        "Ùraich">
+<!ENTITY itemNetworking.label    "An lìonra ┐ àite air an diosg">
+<!ENTITY itemCertificates.label  "Teaisteanasan">
+
+<!-- General Settings -->
+
+<!ENTITY enableGlodaSearch.label       "Cuir an lorg is an clàr-innsiche uile-choitcheann an comas">
+<!ENTITY enableGlodaSearch.accesskey   "e">
+<!ENTITY systemIntegration.label       "Co-fhilleadh an t-siostaim">
+<!ENTITY alwaysCheckDefault.label      "Bheir &brandShortName; sùil an e e fhèin do roghainn prògram nam post-dealain gach turas a thòiseachas e">
+<!ENTITY alwaysCheckDefault.accesskey  "a">
+<!ENTITY searchIntegration.label       "Leig le &searchIntegration.engineName; teachdaireachdan a rannsachadh">
+<!ENTITY searchIntegration.accesskey   "s">
+<!ENTITY checkNow.label                "Thoir sùil an-dràsta">
+<!ENTITY checkNow.accesskey            "n">
+<!ENTITY configEditDesc.label          "Roghainnean adhartach">
+<!ENTITY configEdit.label              "Deasaichear nan roghainnean…">
+<!ENTITY configEdit.accesskey          "c">
+<!ENTITY returnReceiptsInfo.label      "Suidhich mar a làimhsicheas &brandShortName; na bannan-cuidhteis">
+<!ENTITY showReturnReceipts.label      "Bannan-cuidhteis…">
+<!ENTITY showReturnReceipts.accesskey  "B">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Leughadh">
+<!ENTITY display.caption               "Taisbeanadh">
+<!ENTITY showCondensedAddresses.label  "Na seall ach an t-ainm-taisbeanaidh airson nan daoine ann an leabhar nan seòladh agam">
+<!ENTITY showCondensedAddresses.accesskey "s">
+
+<!ENTITY autoMarkAsRead.label          "Cuirear comharra gun deach teachdaireachd a leughadh leis fhèin">
+<!ENTITY autoMarkAsRead.accesskey      "a">
+<!ENTITY markAsReadNoDelay.label       "Sa bhad nuair a choimheadas mi air">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Nuair a bhios mi air coimhead air fad">
+<!ENTITY markAsReadDelay.accesskey     "d">
+<!ENTITY secondsLabel.label            "diog(an)">
+<!ENTITY openMsgIn.label               "Fosgail teachdaireachdan ann an:">
+<!ENTITY openMsgInNewTab.label         "Taba ùr">
+<!ENTITY openMsgInNewTab.accesskey     "T">
+<!ENTITY reuseExpRadio0.label          "Uinneag teachdaireachd ùr">
+<!ENTITY reuseExpRadio0.accesskey      "n">
+<!ENTITY reuseExpRadio1.label          "Uinneag teachdaireachd a tha fosgailte mu thràth">
+<!ENTITY reuseExpRadio1.accesskey      "e">
+<!ENTITY closeMsgWindowOnDelete.label  "Dùin uinneag na teachdaireachd nuair a sguabas mi às tè">
+<!ENTITY closeMsgWindowOnDelete.accesskey "c">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Lorgar ùrachaidhean airson na leanas leis fhèin:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "Tuilleadain a chaidh a stàladh">
+<!ENTITY enableAddonsUpdate.accesskey   "a">
+<!ENTITY whenUpdatesFound.label         "Nuair a thèid ùrachadh a lorg airson &brandShortName;,">
+<!ENTITY modeAskMe.label                "Faighnich dhìom na tha mi airson dèanamh">
+<!ENTITY modeAskMe.accesskey            "m">
+<!ENTITY modeAutomatic.label            "Luchdaichear a-nuas is stàlaichear an t-ùrachadh leis fhèin">
+<!ENTITY modeAutomatic.accesskey        "d">
+<!ENTITY modeAutoAddonWarn.label        "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas na chois">
+<!ENTITY modeAutoAddonWarn.accesskey    "T">
+<!ENTITY showUpdates.label              "Seall eachdraidh nan ùrachaidhean">
+<!ENTITY showUpdates.accesskey          "S">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Roghainnean…">
+<!ENTITY showSettings.accesskey        "R">
+<!ENTITY proxiesConfigure.label        "Rèitich mar a cheanglas &brandShortName; ris an lìon">
+<!ENTITY connectionsInfo.caption       "Ceangal">
+<!ENTITY offlineInfo.caption           "Far loidhne">
+<!ENTITY offlineInfo.label             "Rèitich na roghainnean airson obrachadh far loidhne">
+<!ENTITY showOffline.label             "Far loidhne…">
+<!ENTITY showOffline.accesskey         "o">
+
+<!ENTITY Diskspace "Àite air an diosg">
+<!ENTITY offlineCompact.label "Dùmhlaich na pasgain nan sàbhaladh seo barrachd air">
+<!ENTITY offlineCompact.accesskey "a">
+<!ENTITY kb.label "KB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Cleachd suas gu">
+<!ENTITY useCacheBefore.accesskey        "u">
+<!ENTITY useCacheAfter.label             "MB a dh'àite airson an tasgadan">
+<!ENTITY clearCacheNow.label             "Glan an-dràsta">
+<!ENTITY clearCacheNow.accesskey         "G">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:">
+<!ENTITY certs.auto                      "Taghar fear leis fhèin">
+<!ENTITY certs.auto.accesskey            "T">
+<!ENTITY certs.ask                       "Faighnich dhìom gach turas">
+<!ENTITY certs.ask.accesskey             "a">
+
+<!ENTITY viewCertificates.label         "Seall na teisteanasan">
+<!ENTITY viewCertificates.accesskey     "S">
+<!ENTITY viewCRLs.label                 "Liosta nan cùl-ghairmean">
+<!ENTITY viewCRLs.accesskey             "r">
+<!ENTITY validation.label               "Dearbhadh">
+<!ENTITY validation.accesskey           "D">
+<!ENTITY viewSecurityDevices.label      "Innealan tèarainteachd">
+<!ENTITY viewSecurityDevices.accesskey  "n">

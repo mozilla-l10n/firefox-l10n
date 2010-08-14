@@ -1,0 +1,29 @@
+<!ENTITY window.title "Criathragan nan teachdaireachd">
+<!ENTITY nameColumn.label "Ainm na criathraige">
+<!ENTITY activeColumn.label "Air a chur an comas">
+<!ENTITY newButton.label "Ùr…">
+<!ENTITY newButton.accesskey "Ù">
+<!ENTITY editButton.label "Deasaich…">
+<!ENTITY editButton.accesskey "e">
+<!ENTITY deleteButton.label "Sguab às">
+<!ENTITY deleteButton.accesskey "S">
+<!ENTITY reorderUpButton.label "Gluais suas">
+<!ENTITY reorderUpButton.accesskey "u">
+<!ENTITY reorderDownButton.label "Gluais sìos">
+<!ENTITY reorderDownButton.accesskey "G">
+<!ENTITY filterHeader.label "Tha na criathragan a tha air a chur an comas 'gan ruith leotha fhèin san òrdugh a chì thu gu h-ìosal.">
+<!ENTITY filtersForPrefix.label "Criathragan airson:">
+<!ENTITY filtersForPrefix.accesskey "C">
+<!ENTITY viewLogButton.label "An loga criathraidh">
+<!ENTITY viewLogButton.accesskey "l">
+<!ENTITY runFilters.label "Ruith an-dràsta">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "Sguir dheth">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Cuir na leanas tro na criathragan a thagh thu:">
+<!ENTITY folderPickerPrefix.accesskey "C">
+<!ENTITY choosethis.label "tagh am pasgan seo">
+<!ENTITY choosethisnewsserver.label "tagh am frithealaiche naidheachdan seo">
+<!ENTITY helpButton.label "Cobhair">
+<!ENTITY helpButton.accesskey "h">
+<!ENTITY closeCmd.key "W"> 

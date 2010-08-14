@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title "Na roghainnean airson obrachadh far loidhne">
+
+<!ENTITY textStartUp "Nuair a thòisicheas e:">
+<!ENTITY radioRememberPrevState.label "Cuimhnich mo roghainn air loidhne/far loidhne roimhe">
+<!ENTITY radioRememberPrevState.accesskey "r">
+<!ENTITY radioAskMe.label "Faighnich dhìom dè mo roghainn air loidhne/far loidhne aig an toiseach">
+<!ENTITY radioAskMe.accesskey "F">
+<!ENTITY radioAlwaysOnline.label "Tòisich air loidhne an-còmhnaidh">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "An cuirear na teachdaireachdan nach deach an cur roimhe nuair a thèid thu air loidhne?">
+<!ENTITY radioAutoSend.label "Cuiridh">
+<!ENTITY radioAutoSend.accesskey "C">
+<!ENTITY radioNotSend.label "Cha chuir">
+<!ENTITY radioNotSend.accesskey "C">
+<!ENTITY radioAskUnsent.label "Faighnich dhìom">
+<!ENTITY radioAskUnsent.accesskey "F">
+<!ENTITY textGoingOffline "Am bu toigh leat na teachdaireachdan a luachdadh a-nuas a chum cleachdaidh far loidhne nuair a thèid thu far loidhne?">
+<!ENTITY radioAutoDownload.label "Bu toigh l'">
+<!ENTITY radioAutoDownload.accesskey "B">
+<!ENTITY radioNotDownload.label "Cha bu toigh l'">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload.label "Faighnich dhìom">
+<!ENTITY radioAskDownload.accesskey "a">

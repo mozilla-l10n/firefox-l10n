@@ -1,0 +1,46 @@
+<!ENTITY itemFormatting.label             "Fòrmatadh">
+<!ENTITY itemTags.label                   "Tagaichean">
+
+<!ENTITY style.label                      "Stoidhle:">
+<!ENTITY style.accesskey                  "S">
+<!ENTITY regularStyle.label               "Àbhaisteach">
+<!ENTITY bold.label                       "Trom">
+<!ENTITY italic.label                     "Eadailteach">
+<!ENTITY boldItalic.label                 "Eadailteach is trom">
+<!ENTITY size.label                       "Meud:">
+<!ENTITY size.accesskey                   "M">
+<!ENTITY regularSize.label                "Àbhaisteach">
+<!ENTITY bigger.label                     "Nas motha">
+<!ENTITY smaller.label                    "Nas lugha">
+<!ENTITY color.label                      "Dath:">
+<!ENTITY color.accesskey                  "D">
+<!ENTITY displayWidth.label               "Teachdaireachdan ann an teacsa lom">
+<!ENTITY displayText.label                "Nuair choimheadas mi air teachdaireachdan ann an teacsa lom a tha mi a' toirt luaidh orra:">
+<!ENTITY colors.label                     "Dathan">
+<!ENTITY overrideColors.label             "Nuair a choimheadas mi air teachdaireachdan, cleachd na dathan a leanas:">
+<!ENTITY textColor.label                  "Dath an teacsa:">
+<!ENTITY textColor.accesskey              "t">
+<!ENTITY backgroundColor.label            "Dath a' chùlaibh:">
+<!ENTITY backgroundColor.accesskey        "b">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Seall na samhlaidhean-gnùis mar dhealbhan">
+<!ENTITY convertEmoticons.accesskey    "d">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label     "'S urrainn dhut do theachdaireachdan agad a chur ann an roinnean 's prìomhachas a thoirt dhaibh le tagaichean.">
+<!ENTITY addTagButton.label        "Cuir ris">
+<!ENTITY addTagButton.accesskey    "C">
+<!ENTITY editTagButton.label       "Deasaich">
+<!ENTITY editTagButton.accesskey   "e">
+<!ENTITY removeTagButton.label     "Sguab às">
+<!ENTITY removeTagButton.accesskey "S">
+
+<!-- Fonts -->
+<!ENTITY fontsAndColors.label    "Cruthan-clò">
+<!ENTITY defaultFont.label       "An cruth-clò bunaiteach:">
+<!ENTITY defaultFont.accesskey   "A">
+<!ENTITY defaultSize.label       "Meud:">
+<!ENTITY defaultSize.accesskey   "M">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Adhartach…">

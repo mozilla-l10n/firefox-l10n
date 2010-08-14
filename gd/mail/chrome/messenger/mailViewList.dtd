@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewListTitle.label "Gnàthaich sealladh na teachdaireachdan">
+<!ENTITY viewName.label "Seall an t-ainm">
+

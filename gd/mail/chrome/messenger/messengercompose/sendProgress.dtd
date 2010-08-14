@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "A' cur nan teachdaireachdan"> 
+<!ENTITY status.label "Cor:">
+<!ENTITY progress.label "Adhartas:">
