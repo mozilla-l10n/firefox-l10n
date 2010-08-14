@@ -47,7 +47,7 @@
 <!ENTITY syncComputerName.label       "Navê komputerê:">
 <!ENTITY syncComputerName.accesskey   "N">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; dê: ">
-<!ENTITY syncModeSwitchDesc.accesskey "&">
+<!ENTITY syncModeSwitchDesc.accesskey "d">
 <!ENTITY syncEverything.label         "Sync Everything">
 <!ENTITY customSync.label             "Mîhengên min ên takekesî bi kar bîne">
 <!ENTITY syncEverythingDescription.label  "Bijare, dîrok, şîfre, vebijêrk, û hemû hilpekînên te dê bên senkronîzekirin.">
