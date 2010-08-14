@@ -1,4 +1,4 @@
-<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!ENTITY testpilot.brand.label                      "Pilot de încercare">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Setări">
 <!ENTITY testpilot.settings.notifyMeWhen.label      "Notify me when">
@@ -7,10 +7,10 @@
 <!ENTITY testpilot.settings.hasNewResults.label     "A study has new results">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatically submit my data (don't ask me)">
 <!ENTITY testpilot.allStudies.label                 "All Your User Studies">
-<!ENTITY testpilot.about.label                      "About Test Pilot">
+<!ENTITY testpilot.about.label                      "Despre pilotul de încercare">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
+<!ENTITY testpilot.studiesWindow.title                  "Răspunsurile dumneavoastră ca pilot de încercare">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
@@ -18,7 +18,7 @@
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait…">
 
 <!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
+<!ENTITY testpilot.rawDataWindow.title                  "Pilot de încercare: date brute">
 
 <!-- notification -->
 <!ENTITY testpilot.notification.close.tooltip            "Închide">
