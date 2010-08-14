@@ -1,21 +1,21 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; oppsett">
+<!ENTITY accountSetupTitle.label    "Innstillinger for &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
 
 <!ENTITY setup.choicePage.title.label     "Har du brukt &syncBrand.fullName.label; før?">
 <!ENTITY setup.choicePage.new.label       "Jeg har aldri brukt &syncBrand.shortName.label; før">
-<!ENTITY setup.choicePage.existing.label  "Jeg bruker allerede &syncBrand.shortName.label; på en annen datamaskin">
+<!ENTITY setup.choicePage.existing.label  "Jeg bruker &syncBrand.shortName.label; på en annen datamaskin">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Koble til">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-tjeneren">
+<!ENTITY connectTo.label            "Tjener">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "Bruk en annen tjener">
 <!ENTITY signIn.username.label      "Brukernavn">
 <!ENTITY signIn.username.accesskey  "B">
 <!ENTITY signIn.password.label      "Passord">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Tjener-URL">
-<!ENTITY signIn.serverURL.accesskey "T">
+<!ENTITY signIn.serverURL.label     "URL til tjeneren">
+<!ENTITY signIn.serverURL.accesskey "U">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountPage.title.label  "Opprett en &syncBrand.shortName.label;-konto">
@@ -35,8 +35,8 @@
 
 <!-- New Account Page 2: Passphrase Entry -->
 <!ENTITY setup.newPPPage.title.label       "Skriv inn den hemmelige setningen">
-<!ENTITY passphraseDesc.label         "Skriv inn en hemmelig setning. Den vil bli brukt for å kryptere alle data, slik at bare du kan få tilgang til den. Denne setningen lagres aldri på tjeneren, så pass på å ikke mist denne!">
-<!ENTITY passphraseDesc2.label        "Denne må være minst 12 tegn lang, og kan ikke være det samme som kontopassordet ditt.">
+<!ENTITY passphraseDesc.label         "Skriv inn en hemmelig setning. Den vil bli brukt for å kryptere alle data, slik at bare du kan få tilgang til den. Setningen lagres aldri på tjeneren, så pass på å ikke mist den!">
+<!ENTITY passphraseDesc2.label        "Setningen må være minst 12 tegn lang, og kan ikke være det samme som kontopassordet ditt.">
 <!ENTITY passphraseEntry.label        "Hemmelig setning">
 <!ENTITY passphraseEntry.accesskey    "H">
 <!ENTITY passphraseConfirm.label      "Bekreft">
@@ -47,20 +47,20 @@
 <!ENTITY syncComputerName.label       "Datamaskinnavn:">
 <!ENTITY syncComputerName.accesskey   "D">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; vil: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncModeSwitchDesc.accesskey "v">
 <!ENTITY syncEverything.label         "Synkronisere alt">
 <!ENTITY customSync.label             "Bruk egendefinerte innstillinger">
 <!ENTITY syncEverythingDescription.label  "Bokmerker, historikk, passord, innstillinger og faner vil synkroniseres.">
 <!ENTITY syncItem.bookmarks.label     "Synkroniser bokmerker">
 <!ENTITY syncItem.bookmarks.accesskey "S">
 <!ENTITY syncItem.tabs.label          "Synkroniser faner">
-<!ENTITY syncItem.tabs.accesskey      "k">
+<!ENTITY syncItem.tabs.accesskey      "f">
 <!ENTITY syncItem.history.label       "Synkroniser historikk">
-<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.history.accesskey   "o">
 <!ENTITY syncItem.passwords.label     "Synkroniser passord">
-<!ENTITY syncItem.passwords.accesskey "a">
+<!ENTITY syncItem.passwords.accesskey "k">
 <!ENTITY syncItem.prefs.label         "Synkroniser innstillinger">
-<!ENTITY syncItem.prefs.accesskey     "n">
+<!ENTITY syncItem.prefs.accesskey     "r">
 
 <!-- New Account Page 4: Captcha -->
 <!ENTITY setup.captchaPage.title.label     "Bekreft at du ikke er en robot ;)">
@@ -94,5 +94,5 @@
 <!ENTITY confirm.server.warning.label "ADVARSEL: Dine lokale data vil erstatte alle &brandShortName;-data på disse enhetene!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "Oppsett er fullført!">
+<!ENTITY setup.successPage.title.label   "Konfigurasjonen er fullført!">
 <!ENTITY setup.successPage.desc.label    "Gratulerer! &brandShortName; er nå konfigurert til å automatisk synkronisere informasjonen din. Ikke glem å installere &syncBrand.fullName.label; på alle dine enheter. Du kan nå fortsette å bruke &brandShortName;.">
