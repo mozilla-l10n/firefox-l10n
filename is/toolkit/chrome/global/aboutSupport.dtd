@@ -24,6 +24,9 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsTitle "Breyttar stillingar">
 <!ENTITY aboutSupport.modifiedPrefsName "Nafn">
 <!ENTITY aboutSupport.modifiedPrefsValue "Gildi">
+<!ENTITY aboutSupport.graphicsTitle "Grafík">
+<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
+<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D virkt">
 <!ENTITY aboutSupport.installationHistoryTitle "Uppsetningarsaga">
 <!ENTITY aboutSupport.updateHistoryTitle "Uppfærslusaga">
 <!ENTITY aboutSupport.copyToClipboard.label "Afrita allt á klemmuspjald">
