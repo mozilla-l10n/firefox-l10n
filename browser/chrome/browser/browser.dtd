@@ -132,8 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label "Início">
-<!ENTITY tabViewButton.label          "Conjuntos de separadores">
-<!ENTITY tabViewButton.tooltip        "Abrir um separador de interface visual">
+<!ENTITY tabViewButton2.label          "Conjuntos de separadores">
+<!ENTITY tabViewButton2.tooltip        "Abrir um separador de interface visual">
 
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostra os marcadores">
@@ -240,8 +240,8 @@ shortcut keys on Linux. -->
 
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY showTabView.label     "Vista de separadores">
-<!ENTITY showTabView.accesskey     "V">
+<!ENTITY showTabView2.label     "Vista de separadores">
+<!ENTITY showTabView2.accesskey     "V">
 <!ENTITY viewToolbarsMenu.label "Barras de ferramentas">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
