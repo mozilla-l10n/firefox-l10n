@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                          "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                       "Sätted">
-<!ENTITY testpilot.settings.notifyMeWhen.label          "Teavitatakse, kui">
+<!ENTITY testpilot.settings.dataSubmission.label        "Andmete sisestamine">
+<!ENTITY testpilot.settings.notifications.label         "Hoiatused">
+<!ENTITY testpilot.settings.notifyWhen.label            "Teavitatakse, kui…">
 <!ENTITY testpilot.settings.readyToSubmit.label         "uuring on valmis sisestamiseks">
 <!ENTITY testpilot.settings.newStudy.label              "on loodud uus uuring">
 <!ENTITY testpilot.settings.hasNewResults.label         "uuringul on uusi tulemusi">
 <!ENTITY testpilot.settings.alwaysSubmitData.label      "Andmed sisestatakse automaatselt (kasutajalt ei küsita)">
-<!ENTITY testpilot.allStudies.label                     "Kõik sinu uuringud">
+<!ENTITY testpilot.allYourStudies.label                 "Kõik sinu kasutajauuringud…">
 <!ENTITY testpilot.about.label                          "Teave Test Piloti kohta">
 
 <!-- all studies window -->

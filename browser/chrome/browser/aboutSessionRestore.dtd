@@ -8,10 +8,8 @@
 <!ENTITY restorepage.restoreSome    "eemaldada kaardi või kaardid, mida pead probleemi põhjuseks">
 <!ENTITY restorepage.startNew       "käivitada täiesti uue seansi">
 
-<!ENTITY restorepage.tryagainButton  "Taasta eelmine seanss">
+<!ENTITY restorepage.tryagainButton "Taasta eelmine seanss">
 <!ENTITY restorepage.restore.access "T">
-<!ENTITY restorepage.cancelButton   "Alusta uut seanssi">
-<!ENTITY restorepage.cancel.access  "A">
 
 <!ENTITY restorepage.restoreHeader  "Taastatakse">
 <!ENTITY restorepage.listHeader     "Aknad ja kaardid">
