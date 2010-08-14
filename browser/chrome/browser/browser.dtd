@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(私密瀏覽)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "移動此分頁到…">
+<!ENTITY  moveTabTo.accesskey                "M">
+<!ENTITY  createNewGroup.label               "建立新的群組">
+<!ENTITY  createNewGroup.accesskey           "C">
+<!ENTITY  namedGroups.label                  "已命名的群組">
 <!ENTITY  reloadTab.label                    "重新載入分頁">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "重新載入所有分頁">
@@ -22,7 +27,7 @@
 <!ENTITY  openTabInNewWindow.accesskey       "w">
 <!ENTITY  pinTab.label                       "釘選成應用程式分頁">
 <!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "還原成普通標籤">
+<!ENTITY  unpinTab.label                     "還原成普通分頁">
 <!ENTITY  unpinTab.accesskey                 "k">
 <!ENTITY  bookmarkThisTab.label              "將此分頁加入書籤">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
@@ -127,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "首頁">
+<!ENTITY tabViewButton2.label         "分頁群組">
+<!ENTITY tabViewButton2.tooltip       "將您的分頁進行分組">
 
 <!ENTITY bookmarksButton.label          "書籤">
 <!ENTITY bookmarksButton.tooltip        "顯示您的書籤">
@@ -233,6 +240,8 @@
 
 <!ENTITY viewMenu.label         "檢視"> 
 <!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY showTabView2.label     "分類您的分頁…">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label       "工具列"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "側邊欄">
