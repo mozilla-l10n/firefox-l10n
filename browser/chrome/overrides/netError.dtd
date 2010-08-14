@@ -9,7 +9,7 @@
 <!ENTITY connectionFailure.title "Ude af stand til at oprette forbindelse">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Adgang til denne adresse er underlagt begrænsinger">
+<!ENTITY deniedPortAccess.title "Adgang til denne adresse er underlagt begrænsninger">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serveren blev ikke fundet">
@@ -80,7 +80,7 @@
 <!ENTITY protocolNotFound.title "Adressen kunne ikke forstås">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>Du er nød til at installere andet software for at åbne denne adresse.</li>
+  <li>Du er nødt til at installere andet software for at åbne denne adresse.</li>
 </ul>
 ">
 
@@ -112,16 +112,16 @@
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Undersøg om dit system har den personlige sikkerhedsmanager installeret.</li>
-  <li>Dette kan skyldes en ikke-standard opsættelse af serveren.</li>
+  <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
 </ul>
 ">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenticiteten af de modtagene data ikke kunne bekræftes.</p><ul><li>Kontakt venligst ejeren af webstedet omkring dette problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</p><ul><li>Kontakt venligst ejeren af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Dette kan være et problem med serverens konfiguration eller det kunne betyde at nogen forsøger at give sig ud for at være serveren.</li>
+<li>Dette kan være et problem med serverens konfiguration eller det kan betyde at nogen forsøger at give sig ud for at være serveren.</li>
 <li>Hvis du har kunne tilgå serveren tidligere kan dette problem være midlertidligt og du anbefales at prøve igen senere.</li>
 </ul>
 ">
@@ -143,7 +143,7 @@
 <!ENTITY phishingBlocked.title "Mistænkt netsvindel!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Indtastning af personlige informationer på denne side kan resultere i identitetstyveri eller anden forfalskning.</p>
-<p>Disse typer webforfalskninger bruges i svindelsager kendt som phishing angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
+<p>Disse typer webforfalskninger bruges i svindelsager kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkeret grundet indholdssikkerhedshedspolitik">

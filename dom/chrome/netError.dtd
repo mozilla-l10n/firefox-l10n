@@ -77,7 +77,7 @@
 <!ENTITY phishingBlocked.title "Mistænkt netsvindel!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Indtastning af personlige informationer på denne side kan resultere i identitetstyveri eller anden forfalskning.</p>
-<p>Disse typer webforfalskninger bruges i svindelsager kendt som phishing angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
+<p>Disse typer webforfalskninger bruges i svindelsager kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkeret grundet indholdssikkerhedshedspolitik">

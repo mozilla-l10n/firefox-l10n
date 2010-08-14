@@ -1,16 +1,16 @@
-<!ENTITY newWindowsAsTabs.label       "Åbn nye vinduer i et nyt faneblad i stedet for">
+<!ENTITY newWindowsAsTabs.label       "Åbn links i faneblade, hvor de ellers ville blive åbnet i vinduer">
 <!ENTITY newWindowsAsTabs.accesskey   "f">
 
 <!ENTITY warnCloseMultipleTabs.label  "Advar mig, når jeg lukker flere faneblade">
 <!ENTITY warnCloseMultipleTabs.accesskey  "l">
 
-<!ENTITY warnOpenManyTabs.label       "Advar mig, når jeg åbner flere faneblade, som kan gøre &brandShortName; langsommere">
+<!ENTITY warnOpenManyTabs.label       "Advar mig, hvis jeg åbner flere faneblade, som kan gøre &brandShortName; langsommere">
 <!ENTITY warnOpenManyTabs.accesskey   "å">
 
 <!ENTITY showTabBar.label             "Vis altid fanebladsbjælken">
-<!ENTITY showTabBar.accesskey         "a">
+<!ENTITY showTabBar.accesskey         "V">
 
-<!ENTITY switchToNewTabs.label        "Skift automatisk fokus til et nyt faneblad, når jeg åbner et link deri">
+<!ENTITY switchToNewTabs.label        "Skift fokus til det nye faneblad, når jeg åbner et link deri">
 <!ENTITY switchToNewTabs.accesskey    "S">
 
 <!ENTITY showTabsInTaskbar.label          "Vis forhåndsvisning for faneblade i Windows opgavelinjen">
