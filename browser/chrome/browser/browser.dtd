@@ -132,8 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label "Inicio">
-<!ENTITY tabViewButton.label          "Grupos de pestañas">
-<!ENTITY tabViewButton.tooltip        "Abrir una interfaz de pestañas visual">
+<!ENTITY tabViewButton2.label         "Grupos de pestañas">
+<!ENTITY tabViewButton2.tooltip       "Agrupar pestañas">
 
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
@@ -240,8 +240,8 @@
 
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY showTabView.label     "TabView">
-<!ENTITY showTabView.accesskey     "V">
+<!ENTITY showTabView2.label     "Agrupar pestañas…">
+<!ENTITY showTabView2.accesskey     "g">
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "t">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
