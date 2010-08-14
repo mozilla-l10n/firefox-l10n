@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "設定">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "通知我，當">
+<!ENTITY testpilot.settings.dataSubmission.label    "送交資料">
+<!ENTITY testpilot.settings.notifications.label     "通知">
+<!ENTITY testpilot.settings.notifyWhen.label        "通知我，當…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "有一份新的研究可送出">
 <!ENTITY testpilot.settings.newStudy.label          "有一份新的研究">
 <!ENTITY testpilot.settings.hasNewResults.label     "有新的研究結果">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "自動送出我的資料（不要問我）">
-<!ENTITY testpilot.allStudies.label                 "您所有的使用者研究">
+<!ENTITY testpilot.allYourStudies.label             "您所有的使用者研究…">
 <!ENTITY testpilot.about.label                      "關於 Test Pilot">
 
 <!-- all studies window -->
