@@ -25,8 +25,8 @@
 <!ENTITY closeOtherTabs.label "Fermer les autres onglets">
 <!ENTITY openTabInNewWindow.label "Ouvrir dans une nouvelle fenêtre">
 <!ENTITY openTabInNewWindow.accesskey "O">
-<!ENTITY pinTab.label "Fixer l'onglet">
-<!ENTITY pinTab.accesskey "F">
+<!ENTITY pinTab.label "Épingler cet onglet">
+<!ENTITY pinTab.accesskey "p">
 <!ENTITY unpinTab.label "Relâcher l'onglet">
 <!ENTITY unpinTab.accesskey "R">
 
