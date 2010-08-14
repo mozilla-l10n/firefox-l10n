@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Setați &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; vă permite să accesați istoricul, semnele de carte, parolele și filele deschise de pe toate dispozitivele pe care le aveți.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Cont &syncBrand.fullName.label;">
+<!ENTITY currentUser.label            "Utilizator curent:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Update">
+<!ENTITY resetPass.label              "Reset">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Gestionează contul">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassphrase.label       "Schimbă fraza secretă">
+<!ENTITY resetSync.label              "Resetează sincronizarea">
+<!ENTITY differentAccount.label       "Folosește un alt cont">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Sincronizare cu navigatorul">
+<!ENTITY syncComputerName.label       "Nume calculator:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; va: ">
+<!ENTITY syncModeSwitchDesc.accesskey "&">
+<!ENTITY syncEverything.label         "sincroniza totul">
+<!ENTITY customSync.label             "folosi setările mele personalizate">
+<!ENTITY syncEverythingDescription.label  "Se vor sincroniza semnele de carte, istoricul, parolele, preferințele și filele.">
+<!ENTITY syncItem.bookmarks.label     "Sincronizează semnele de carte">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sincronizează filele">
+<!ENTITY syncItem.tabs.accesskey      "S">
+<!ENTITY syncItem.history.label       "Sincronizează istoricul">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sincronizează parolele">
+<!ENTITY syncItem.passwords.accesskey "p">
+<!ENTITY syncItem.prefs.label         "Sincronizează preferințele">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Termeni ai serviciului">
+<!ENTITY prefs.ppLink.label         "Politică de confidențialitate">

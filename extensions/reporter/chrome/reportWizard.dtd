@@ -1,7 +1,7 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
 <!ENTITY reportWizard.title                         "Raportează sait cu defecțiuni">
 
-<!ENTITY privacyNotice.label                        "Politica de confidențialitate">
+<!ENTITY privacyNotice.label                        "Politică de confidențialitate">
 <!ENTITY reportWizardPrivacy.description            "Această unealtă vă oferă posibilitatea să raportați echipei de promovare ('evangelism team') saiturile care nu funcționează corect în &brandShortName;, sau nu permit accesul cu &brandShortName;. În acest fel ne puteți ajuta să asigurăm utilizatorilor &brandShortName; cea mai bună experiență posibilă. Vă rog acordați un moment pentru a citi următoarele, pentru a ști cum vom folosi noi informațiile pe care le colectăm, dacă dumneavoastră sunteți de acord să participați.">
 <!ENTITY reportWizardMustAgree.description          "Pentru a continua, trebuie să fiți de acord cu politica de confidențialitate de mai sus.">
 
@@ -46,7 +46,7 @@
 <!ENTITY reportForm.email.title                     "Email (opțional):">
 <!ENTITY reportForm.email.accesskey                 "E">
 
-<!ENTITY reportForm.privacyPolicy.title             "Politica de confidențialitate">
+<!ENTITY reportForm.privacyPolicy.title             "Politică de confidențialitate">
 <!ENTITY reportForm.privacyPolicy.tooltip           "Afișează politica de confidențialitate">
 
 <!ENTITY reportResults.showDetail.title             "Arată detalii">
