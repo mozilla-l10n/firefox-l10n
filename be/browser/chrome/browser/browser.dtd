@@ -110,8 +110,8 @@
 <!ENTITY throbberItem.title "Паказальнік чыннасці">
 <!ENTITY bookmarksItem.title "Закладкі">
 <!ENTITY homeButton.label "Дадому">
-<!ENTITY tabViewButton.label "Сукупнасці ўставак">
-<!ENTITY tabViewButton.tooltip "Адкрыць наглядны інтэрфейс уставак">
+<!ENTITY tabViewButton2.label "Купы ўставак">
+<!ENTITY tabViewButton2.tooltip "Скупаваць вашы ўстаўкі">
 <!ENTITY bookmarksButton.label "Закладкі">
 <!ENTITY bookmarksButton.tooltip "Паказаць вашы закладкі">
 <!ENTITY bookmarksButton.accesskey "З">
@@ -199,8 +199,8 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "П">
-<!ENTITY showTabView.label "Прагляд уставак">
-<!ENTITY showTabView.accesskey "П">
+<!ENTITY showTabView2.label "Скупаваць вашы ўстаўкі…">
+<!ENTITY showTabView2.accesskey "к">
 <!ENTITY viewToolbarsMenu.label "Паліцы прыладаў">
 <!ENTITY viewToolbarsMenu.accesskey "л">
 <!ENTITY viewSidebarMenu.label "Палічка">
