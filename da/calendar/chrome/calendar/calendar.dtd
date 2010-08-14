@@ -263,10 +263,10 @@
 <!ENTITY calendar.context.convertmenu.task.accesskey "O">
 
 <!ENTITY calendar.tasks.view.minimonth.label "Minimåned">
-<!ENTITY calendar.tasks.view.minimonth.accesskey "M">
+<!ENTITY calendar.tasks.view.minimonth.accesskey "å">
 
 <!ENTITY calendar.tasks.view.calendarlist.label "Kalenderliste">
-<!ENTITY calendar.tasks.view.calendarlist.accesskey "L">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey "K">
 
 <!ENTITY calendar.tasks.view.filtertasks.label "Filtrer opgaver">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey "F">

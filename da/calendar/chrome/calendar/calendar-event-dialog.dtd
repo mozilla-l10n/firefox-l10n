@@ -52,7 +52,7 @@
 <!ENTITY newevent.status.label "Status">
 <!ENTITY newevent.status.accesskey "S">
 <!ENTITY newevent.eventStatus.none.label "Ikke angivet" >
-<!ENTITY newevent.eventStatus.none.accesskey "i" >
+<!ENTITY newevent.eventStatus.none.accesskey "I" >
 <!ENTITY newevent.todoStatus.none.label "Ikke angivet" >
 <!ENTITY newevent.eventStatus.cancelled.label "Annulleret" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "a" >
@@ -69,8 +69,8 @@
 <!ENTITY newtodo.percentcomplete.label "&#037; færdig">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key2              "I">
-<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.event.key2              "B">
+<!ENTITY event.dialog.new.task.key2               "O">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
