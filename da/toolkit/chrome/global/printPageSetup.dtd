@@ -29,26 +29,26 @@
 <!ENTITY marginGroup.label   "Margener (#1)">
 <!ENTITY marginUnits.inches  "tommer">
 <!ENTITY marginUnits.metric  "millimeter">
-<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginTop.label     "Top">
 <!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label  "Bund:">
+<!ENTITY marginBottom.label  "Bund">
 <!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginLeft.label    "Venstre:">
+<!ENTITY marginLeft.label    "Venstre">
 <!ENTITY marginLeft.accesskey "V">
-<!ENTITY marginRight.label   "Højre:">
+<!ENTITY marginRight.label   "Højre">
 <!ENTITY marginRight.accesskey "H">
 
 <!ENTITY headerFooter.label  "Sidehoveder og sidefødder">
 
-<!ENTITY hfLeft.label        "Venstre:">
-<!ENTITY hfCenter.label      "Centrer:">
-<!ENTITY hfRight.label       "Højre:">
-<!ENTITY headerLeft.tip      "Venstre teksthoved">
-<!ENTITY headerCenter.tip    "Center teksthoved">
-<!ENTITY headerRight.tip     "Højre teksthoved">
-<!ENTITY footerLeft.tip      "Venstre tekstfod">
-<!ENTITY footerCenter.tip    "Center tekstfod">
-<!ENTITY footerRight.tip     "Højre tekstfod">
+<!ENTITY hfLeft.label        "Venstre">
+<!ENTITY hfCenter.label      "Midten">
+<!ENTITY hfRight.label       "Højre">
+<!ENTITY headerLeft.tip      "Venstrejusteret teksthoved">
+<!ENTITY headerCenter.tip    "Centreret teksthoved">
+<!ENTITY headerRight.tip     "Højrejusteret teksthoved">
+<!ENTITY footerLeft.tip      "Venstrejusteret tekstfod">
+<!ENTITY footerCenter.tip    "Centreret tekstfod">
+<!ENTITY footerRight.tip     "Højrejusteret tekstfod">
 
 <!ENTITY hfTitle             "Titel">
 <!ENTITY hfURL               "URL">

@@ -46,7 +46,7 @@
 -->
 <!ENTITY useCacheBefore.label            "Benyt op til">
 <!ENTITY useCacheBefore.accesskey        "B">
-<!ENTITY useCacheAfter.label             "MB til mellemlager for sider">
+<!ENTITY useCacheAfter.label             "MB til side-cache">
 <!ENTITY clearCacheNow.label             "Ryd nu">
 <!ENTITY clearCacheNow.accesskey         "R">
 

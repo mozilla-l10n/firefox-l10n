@@ -15,8 +15,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "G">
 <!ENTITY cmd.cancel.label                 "Annuller">
 <!ENTITY cmd.cancel.accesskey             "A">
-<!ENTITY cmd.show.label                   "Åbn overordnet mappe">
-<!ENTITY cmd.show.accesskey               "o">
+<!ENTITY cmd.show.label                   "Åbn hentningsmappe">
+<!ENTITY cmd.show.accesskey               "h">
 <!ENTITY cmd.showMac.label                "Vis i Finder">
 <!ENTITY cmd.showMac.accesskey            "V">
 <!ENTITY cmd.open.label                   "Åbn">

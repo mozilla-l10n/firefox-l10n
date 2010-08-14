@@ -26,15 +26,15 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Alle vedkommende policer vedrørende privatlivssikring for dette produkt bør optegnes her.">
+<!ENTITY rights.intro-point3-unbranded "Alle vedkommende politikker vedrørende privatlivssikring for dette produkt bør optegnes her.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; tilbyder også valgfrie webbaserede informationstjenester om websteder, såsom tjenesten SafeBrowsing; Vi kan dog ikke garantere at de er 100&#37; korrekte eller fejlfri. Yderligere detaljer, inklusive information om at frakoble disse tjenester, kan findes under punktet ">
+<!ENTITY rights.intro-point4a "&brandShortName; tilbyder også valgfrie webbaserede informationstjenester om websteder, såsom tjenesten SafeBrowsing; Vi kan dog ikke garantere at de er 100&#37; korrekte eller fejlfrie. Yderligere detaljer, inklusive information om at deaktivere disse tjenester, kan findes under punktet ">
 <!ENTITY rights.intro-point4b "tjenstevilkår">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Hvis dette produkt indeholder webbaserede tjenester, skal alle betingelser for tjenesterne henvise til afsnittet">
+<!ENTITY rights.intro-point4a-unbranded "Hvis dette produkt bruger webbaserede tjenester skal alle vedkommende vilkår for tjenesterne linkes til under afsnittet ">
 <!ENTITY rights.intro-point4b-unbranded "Webbaserede tjenester">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
@@ -52,8 +52,8 @@
 <!ENTITY rights.webservices-d "Opdateringer">
 <!ENTITY rights.webservices-e " og fravælg &quot;Undersøg automatisk om der er opdateringer til&quot;.">
 
-
-<!ENTITY rights.webservices-unbranded "Et overblik over de webbaserede tjenester, produktet indkorporerer, samt instruktioner om, hvordan de fravælges (hvis muligt), skal indkluderes her.">
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Et overblik over de webbaserede tjenester, produktet bruger, samt instruktioner om, hvordan de deaktiveress (hvis muligt), skal inkluderes her.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Alle vedkommende tjenestevilkår for dette produkt bør optegnes her.">

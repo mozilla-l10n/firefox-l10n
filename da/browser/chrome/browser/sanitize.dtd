@@ -32,9 +32,9 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Browsing- og filhentningshistorik">
+<!ENTITY itemHistoryAndDownloads.label     "Browser- og filhentningshistorik">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemBrowsingHistory.label         "Browsinghistorik">
+<!ENTITY itemBrowsingHistory.label         "Browserhistorik">
 <!ENTITY itemBrowsingHistory.accesskey     "B">
 <!ENTITY itemFormSearchHistory.label       "Formular- og søgehistorik">
 <!ENTITY itemFormSearchHistory.accesskey   "s">
@@ -42,8 +42,8 @@ that require it.  -->
 <!ENTITY itemPasswords.accesskey           "G">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
-<!ENTITY itemCache.label                   "Mellemlager for sider">
-<!ENTITY itemCache.accesskey               "M">
+<!ENTITY itemCache.label                   "Sidecahce">
+<!ENTITY itemCache.accesskey               "d">
 <!ENTITY itemOfflineApps.label             "Offline webapplikationsdata">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemDownloadHistory.label         "Filhentningshistoik">
