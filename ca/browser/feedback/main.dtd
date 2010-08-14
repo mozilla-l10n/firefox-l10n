@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Paràmetres">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Notifica'm quan">
+<!ENTITY testpilot.settings.dataSubmission.label    "Tramesa de dades">
+<!ENTITY testpilot.settings.notifications.label     "Notificacions">
+<!ENTITY testpilot.settings.notifyWhen.label        "Notifica'm quan…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Un estudi estigui llest per trametre">
 <!ENTITY testpilot.settings.newStudy.label          "Hi hagi un nou estudi">
 <!ENTITY testpilot.settings.hasNewResults.label     "Un estudi tingui resultats nous">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Trame't les meves dades automàticament (no m'ho demanis)">
-<!ENTITY testpilot.allStudies.label                 "Tots els vostres estudis d'usuari">
+<!ENTITY testpilot.allYourStudies.label             "Tots els vostres estudis del Test Pilot…">
 <!ENTITY testpilot.about.label                      "Quant al Test Pilot">
 
 <!-- all studies window -->
