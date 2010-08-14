@@ -132,8 +132,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label "Domů">
-<!ENTITY tabViewButton.label "Panely">
-<!ENTITY tabViewButton.tooltip "Otevře správce panelů">
+<!ENTITY tabViewButton2.label "Skupiny panelů">
+<!ENTITY tabViewButton2.tooltip "Umožní seskupit panely">
 
 <!ENTITY bookmarksButton.label "Záložky">
 <!ENTITY bookmarksButton.tooltip "Zobrazí vaše záložky">
@@ -240,13 +240,13 @@
 
 <!ENTITY viewMenu.label "Zobrazení">
 <!ENTITY viewMenu.accesskey "Z">
-<!ENTITY showTabView.label "Panely">
-<!ENTITY showTabView.accesskey "P">
+<!ENTITY showTabView2.label "Seskupit panely…">
+<!ENTITY showTabView2.accesskey "S">
 <!ENTITY viewToolbarsMenu.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenu.accesskey "N">
 <!ENTITY viewSidebarMenu.label "Postranní lišta">
-<!ENTITY viewSidebarMenu.accesskey "s">
-<!ENTITY viewCustomizeToolbar.label "Vlastní…">
+<!ENTITY viewSidebarMenu.accesskey "P">
+<!ENTITY viewCustomizeToolbar.label "Nastavit lišty…">
 <!ENTITY viewCustomizeToolbar.accesskey "V">
 <!ENTITY viewTabsOnTop.label "Panely navrchu">
 <!ENTITY viewTabsOnTop.accesskey "a">
