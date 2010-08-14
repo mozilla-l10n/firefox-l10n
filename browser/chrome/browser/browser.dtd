@@ -120,8 +120,8 @@
 <!ENTITY bookmarksItem.title "Bókamerki">
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label "Heim">
-<!ENTITY tabViewButton.label "Flipahópar">
-<!ENTITY tabViewButton.tooltip "Opna myndrænt flipaviðmót">
+<!ENTITY tabViewButton2.label "Flipahópar">
+<!ENTITY tabViewButton2.tooltip "Setja flipa í hópa">
 <!ENTITY bookmarksButton.label "Bókamerki">
 <!ENTITY bookmarksButton.tooltip "Birta bókamerkin þín">
 <!ENTITY bookmarksButton.accesskey "B">
@@ -244,8 +244,8 @@
  
 <!ENTITY viewMenu.accesskey "k">
  
-<!ENTITY showTabView.label "Flipaviðmót">
-<!ENTITY showTabView.accesskey "v">
+<!ENTITY showTabView2.label "Setja flipa í hópa…">
+<!ENTITY showTabView2.accesskey "h">
 <!ENTITY viewToolbarsMenu.label "Verkfæraslár">
  
 <!ENTITY viewToolbarsMenu.accesskey "V">
