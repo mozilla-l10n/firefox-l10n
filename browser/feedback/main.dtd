@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Testpilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Innstillinger">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Varsle meg når">
+<!ENTITY testpilot.settings.dataSubmission.label    "Dataoverføring">
+<!ENTITY testpilot.settings.notifications.label     "Varsling">
+<!ENTITY testpilot.settings.notifyWhen.label        "Varsle meg når …">
 <!ENTITY testpilot.settings.readyToSubmit.label     "En undersøkelse er klar til å sende">
 <!ENTITY testpilot.settings.newStudy.label          "En ny undersøkelse er tilgjengelig">
 <!ENTITY testpilot.settings.hasNewResults.label     "En undersøkelse har nye resultater">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatisk send mine data (ikke spør meg)">
-<!ENTITY testpilot.allStudies.label                 "Alle brukerundersøkelser">
+<!ENTITY testpilot.allYourStudies.label             "Alle brukerundersøkelser …">
 <!ENTITY testpilot.about.label                      "Om testpiloten">
 
 <!-- all studies window -->
