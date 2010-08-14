@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix   "(privaatne veebilehitsemine)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                        "Liiguta see kaart…">
+<!ENTITY  moveTabTo.accesskey                    "L">
+<!ENTITY  createNewGroup.label                   "Loo uus grupp">
+<!ENTITY  createNewGroup.accesskey               "o">
+<!ENTITY  namedGroups.label                      "Nimega grupid">
 <!ENTITY  reloadTab.label                        "Laadi kaart uuesti">
 <!ENTITY  reloadTab.accesskey                    "i">
 <!ENTITY  reloadAllTabs.label                    "Laadi kõik kaardid uuesti">
@@ -119,6 +124,7 @@
 <!ENTITY printButton.label                       "Prindi">
 <!ENTITY printButton.tooltip                     "Prindi see leht">
 
+<!ENTITY backForwardItem.title                   "Tagasi/edasi">
 <!ENTITY locationItem.title                      "Asukoht">
 <!ENTITY searchItem.title                        "Otsi">
 <!ENTITY throbberItem.title                      "Aktiivsuse indikaator">
@@ -126,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label                        "Kodu">
+<!ENTITY tabViewButton2.label                    "Kaardigrupid">
+<!ENTITY tabViewButton2.tooltip                  "Grupeeri oma kaardid">
 
 <!ENTITY bookmarksButton.label                   "Järjehoidjad">
 <!ENTITY bookmarksButton.tooltip                 "Vaata oma järjehoidjaid">
@@ -233,6 +241,8 @@
 
 <!ENTITY viewMenu.label                          "Vaade">
 <!ENTITY viewMenu.accesskey                      "V">
+<!ENTITY showTabView2.label                      "Kaartide grupeerimine…">
+<!ENTITY showTabView2.accesskey                  "a">
 <!ENTITY viewToolbarsMenu.label                  "Tööriistaribad">
 <!ENTITY viewToolbarsMenu.accesskey              "T">
 <!ENTITY viewSidebarMenu.label                   "Külgriba">
@@ -240,7 +250,7 @@
 <!ENTITY viewCustomizeToolbar.label              "Kohanda...">
 <!ENTITY viewCustomizeToolbar.accesskey          "o">
 <!ENTITY viewTabsOnTop.label                     "Kaardid kõige üleval">
-<!ENTITY viewTabsOnTop.accesskey                 "K">
+<!ENTITY viewTabsOnTop.accesskey                 "r">
 
 <!ENTITY historyMenu.label                       "Ajalugu">
 <!ENTITY historyMenu.accesskey                   "A">
@@ -512,3 +522,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label                       "Brauseri kaardid">
 
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label                      "Kaardid teistest arvutitest">
+
+<!ENTITY syncBrand.shortName.label               "Sync">
+
+<!ENTITY syncMenu.label                          "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey                      "y">
+<!ENTITY syncSetup.label                         "Seadista &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey                     "y">
+<!ENTITY syncLogInItem.label                     "Ühenda">
+<!ENTITY syncLogInItem.accesskey                 "h">
+<!ENTITY syncLogOutItem.label                    "Katkesta ühendus">
+<!ENTITY syncLogOutItem.accesskey                "t">
+<!ENTITY syncSyncNowItem.label                   "Sünkroniseeri kohe">
+<!ENTITY syncSyncNowItem.accesskey               "S">

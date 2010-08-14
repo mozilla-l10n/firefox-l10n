@@ -13,3 +13,6 @@
 <!ENTITY panePrivacy.title         "Privaatsus">
 <!ENTITY paneSecurity.title        "Turvalisus">
 <!ENTITY paneAdvanced.title        "Muud">
+
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title           "Sync">
