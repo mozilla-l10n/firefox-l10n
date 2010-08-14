@@ -5,13 +5,6 @@
 <!ENTITY useSiteIcons.accesskey "з">
 <!ENTITY useFavIcons.label "Нападліва шукаць значкі пляцовак Сеціва, калі пляцоўка не вызначае іх">
 <!ENTITY useFavIcons.accesskey "Н">
-<!ENTITY tbIconsDescription.label "Адлюстроўваць значкі пляцовак Сеціва ў меню і на прыладапаліцы закладак:">
-<!ENTITY tbIconsNever.label "Ніколі не паказваць значкі разам з закладкамі">
-<!ENTITY tbIconsNever.accesskey "Н">
-<!ENTITY tbIconsCache.label "Толькі тады, калі пляцоўка сеціва нядаўна загружалася">
-<!ENTITY tbIconsCache.accesskey "Т">
-<!ENTITY tbIconsAlways.label "Заўсёды загружаць значкі пляцовак сеціва для закладак">
-<!ENTITY tbIconsAlways.accesskey "ў">
 <!ENTITY enableAutomaticImageResizing.label "Сціскаць вялікія малюнкі да памераў акна азіральніка">
 <!ENTITY enableAutomaticImageResizing.accesskey "ц">
 <!ENTITY useSmoothScroll.label "Ужываць плаўнае пракручванне">
