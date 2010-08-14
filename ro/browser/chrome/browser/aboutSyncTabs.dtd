@@ -1,0 +1,17 @@
+<!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
+<!ENTITY tabs.otherComputers.label               "Tabs From Other Computers">
+
+<!ENTITY tabs.searchText.label                   "Tastați aici pentru a găsi file…">
+
+<!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
+     Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
+<!ENTITY tabs.context.openTab.label                   "Deschide această filă">
+<!ENTITY tabs.context.openTab.accesskey               "D">
+<!ENTITY tabs.context.openMultipleTabs.label          "Deschide filele selectate">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "D">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Pune semn de carte la această filă…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "P">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Pune semn de carte la filele selectate…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "P">
+<!ENTITY tabs.context.refreshList.label               "Refresh List">
+<!ENTITY tabs.context.refreshList.accesskey           "R">

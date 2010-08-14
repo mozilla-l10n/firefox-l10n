@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "Setare &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Ați mai folosit &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label       "N-am mai folosit niciodată &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "Folosesc deja &syncBrand.shortName.label; pe alt calculator">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Connect to">
+<!ENTITY serverType.main.label      "Server &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Folosește un server personalizat">
+<!ENTITY signIn.username.label      "User Name">
+<!ENTITY signIn.username.accesskey  "U">
+<!ENTITY signIn.password.label      "Password">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY signIn.serverURL.accesskey "L">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Creați-vă un cont &syncBrand.shortName.label;">
+<!ENTITY setup.confirmPassword.label  "Confirm Password">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "Email Address">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Sunt de acord cu">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "Terms of Service">
+<!ENTITY setup.tosAgree2.label      "și cu">
+<!ENTITY setup.ppLink.label         "Privacy Policy">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "ș">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Introduceți fraza secretă">
+<!ENTITY passphraseDesc.label         "Vă rugăm să introduceți fraza secretă. Aceasta va fi folosită pentru a cripta toate datele dumneavoastră pentru a nu permite accesarea lor de alte persoane. Fraza nu e stocată pe server, așa că vă recomandăm să o notați undeva!">
+<!ENTITY passphraseDesc2.label        "Trebuie să aibă minim 12 caractere lungime și nu poate fi aceeași cu parola contului.">
+<!ENTITY passphraseEntry.label        "Fraza secretă">
+<!ENTITY passphraseEntry.accesskey    "s">
+<!ENTITY passphraseConfirm.label      "Confirm">
+<!ENTITY passphraseConfirm.accesskey  "m">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Preferințe de sincronizare a navigatorului">
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Vă rugăm să confirmați că nu sunteți un robot ;^)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Introduceți informațiile despre cont">
+<!ENTITY resetPassword.label          "Reset Password">
+<!ENTITY connecting.label             "Connecting…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Introduceți fraza secretă">
+<!ENTITY passphraseDesc3.label        "Vă rugăm să introduceți fraza secretă. Aceasta trebuie să fie aceeași pe care ați setat-o când s-au criptat datele.">
+<!ENTITY passphraseHelp.label         "Your secret phrase is at least 12 characters long and is not your password. You can find your saved secret phrase by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
+<!ENTITY changePassphrase.label       "Change Secret Phrase">
+<!ENTITY verifying.label              "Se verifică…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Cum doriți să începeți?">
+<!ENTITY choice.merge.main.label      "Combină datele de pe acest calculator cu datele din &syncBrand.shortName.label;">
+<!ENTITY choice.merge.recommend.label "Această opțiune e recomandată cu tărie de Mozilla pentru toți utilizatorii.">
+<!ENTITY choice.client.main.label     "Înlocuiește datele de pe acest calculator cu datele din &syncBrand.fullName.label;">
+<!ENTITY choice.server.main.label     "Înlocuiește toate celelalte dispozitive cu datele dumneavoastră locale">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Confirmați alegerea dumneavoastră">
+<!ENTITY confirm.merge.label          "Ați ales să combinați datele de pe acest calculator cu datele de pe alte dispozitive care rulează &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label         "Toate datele &brandShortName; de pe acest calculator vor fi șterse, inclusiv următoarele:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; va copia apoi datele din &syncBrand.fullName.label; pe acest calculator.">
+<!ENTITY confirm.client.warning.label "AVERTISMENT: Acest lucru înseamnă că toate datele &brandShortName; de pe acest calculator vor fi înlocuite!">
+<!ENTITY confirm.server.label         "Următoarele dispozitive vor fi suprascrise cu datele dumneavoastră locale:">
+<!ENTITY confirm.server.warning.label "AVERTISMENT: Datele dumneavoastră locale din &brandShortName; vor înlocui datele de pe aceste dispozitive!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Setare încheiată!">
+<!ENTITY setup.successPage.desc.label    "Felicitări! &brandShortName; este acum setat să sincronizeze automat informațiile dumneavoastră. Nu uitați să instalați &syncBrand.fullName.label; pe toate dispozitivele dumneavoastră. Puteți acum să continuați să folosiți &brandShortName;.">
