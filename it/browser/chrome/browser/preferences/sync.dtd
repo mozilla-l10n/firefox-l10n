@@ -1,6 +1,6 @@
 <!ENTITY setupButton.label "Imposta &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey "m">
-<!ENTITY weaveDesc.label "&syncBrand.fullName.label; consente l'accesso alla propria cronologia, ai segnalibri, alle password e alle schede aperte da tutti i propri dispositivi.">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; consente l'accesso alla cronologia, ai segnalibri, alle password e alle schede aperte da tutti i propri dispositivi.">
 <!ENTITY accountGroupboxCaption.label "Account &syncBrand.fullName.label;">
 <!ENTITY currentUser.label "Utente attuale:">
 <!ENTITY updatePass.label "Aggiorna">
@@ -14,20 +14,20 @@
 <!ENTITY syncPrefsCaption.label "Sincronizzazione del browser">
 <!ENTITY syncComputerName.label "Nome del computer:">
 <!ENTITY syncComputerName.accesskey "c">
-<!ENTITY syncModeSwitchDesc.label "Opzioni sincronizzazione:">
+<!ENTITY syncModeSwitchDesc.label "Opzioni di sincronizzazione:">
 <!ENTITY syncModeSwitchDesc.accesskey "s">
-<!ENTITY syncEverything.label "Sincronizza tutto">
-<!ENTITY customSync.label "Utilizza impostazioni personalizzate">
+<!ENTITY syncEverything.label "sincronizza tutto">
+<!ENTITY customSync.label "utilizza impostazioni personalizzate">
 <!ENTITY syncEverythingDescription.label "Vengono sincronizzati i segnalibri, la cronologia, le password, le preferenze e le schede.">
 <!ENTITY syncItem.bookmarks.label "Sincronizza i segnalibri">
-<!ENTITY syncItem.bookmarks.accesskey "S">
+<!ENTITY syncItem.bookmarks.accesskey "e">
 <!ENTITY syncItem.tabs.label "Sincronizza le schede">
 <!ENTITY syncItem.tabs.accesskey "h">
 <!ENTITY syncItem.history.label "Sincronizza la cronologia">
 <!ENTITY syncItem.history.accesskey "c">
 <!ENTITY syncItem.passwords.label "Sincronizza le password">
-<!ENTITY syncItem.passwords.accesskey "p">
+<!ENTITY syncItem.passwords.accesskey "w">
 <!ENTITY syncItem.prefs.label "Sincronizza le preferenze">
-<!ENTITY syncItem.prefs.accesskey "p">
-<!ENTITY prefs.tosLink.label "Condizioni di utilizzo">
+<!ENTITY syncItem.prefs.accesskey "z">
+<!ENTITY prefs.tosLink.label "Condizioni di utilizzo del servizio">
 <!ENTITY prefs.ppLink.label "Informativa sulla privacy">

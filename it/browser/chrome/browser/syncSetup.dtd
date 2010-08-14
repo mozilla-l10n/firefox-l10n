@@ -14,11 +14,11 @@
 <!ENTITY setup.newAccountPage.title.label "Crezione account &syncBrand.shortName.label;">
 <!ENTITY setup.confirmPassword.label "Conferma password">
 <!ENTITY setup.confirmPassword.accesskey "C">
-<!ENTITY setup.emailAddress.label "e">
-<!ENTITY setup.emailAddress.accesskey "Indirizzo e-mail">
+<!ENTITY setup.emailAddress.label "Indirizzo e-mail">
+<!ENTITY setup.emailAddress.accesskey "e">
 <!ENTITY setup.tosAgree1.label "Accetto le">
 <!ENTITY setup.tosAgree1.accesskey "A">
-<!ENTITY setup.tosLink.label "condizioni di utilizzo">
+<!ENTITY setup.tosLink.label "condizioni di utilizzo del servizio">
 <!ENTITY setup.tosAgree2.label "e l'">
 <!ENTITY setup.ppLink.label "informativa sulla privacy">
 <!ENTITY setup.tosAgree3.label "">
@@ -33,24 +33,24 @@
 <!ENTITY setup.newAccountPrefs2.title.label "Opzioni di sincronizzazione del browser">
 <!ENTITY syncComputerName.label "Nome del computer:">
 <!ENTITY syncComputerName.accesskey "c">
-<!ENTITY syncModeSwitchDesc.label "Opzioni sincronizzazione:">
+<!ENTITY syncModeSwitchDesc.label "Opzioni di sincronizzazione:">
 <!ENTITY syncModeSwitchDesc.accesskey "s">
-<!ENTITY syncEverything.label "Sincronizza tutto">
+<!ENTITY syncEverything.label "sincronizza tutto">
 <!ENTITY customSync.label "utilizza impostazioni personalizzate">
 <!ENTITY syncEverythingDescription.label "Vengono sincronizzati i segnalibri, la cronologia, le password, le preferenze e le schede.">
 <!ENTITY syncItem.bookmarks.label "Sincronizza i segnalibri">
-<!ENTITY syncItem.bookmarks.accesskey "s">
+<!ENTITY syncItem.bookmarks.accesskey "e">
 <!ENTITY syncItem.tabs.label "Sincronizza le schede">
 <!ENTITY syncItem.tabs.accesskey "h">
 <!ENTITY syncItem.history.label "Sincronizza la cronologia">
 <!ENTITY syncItem.history.accesskey "c">
 <!ENTITY syncItem.passwords.label "Sincronizza le password">
-<!ENTITY syncItem.passwords.accesskey "p">
+<!ENTITY syncItem.passwords.accesskey "w">
 <!ENTITY syncItem.prefs.label "Sincronizza le preferenze">
 <!ENTITY syncItem.prefs.accesskey "z">
 <!ENTITY setup.captchaPage.title.label "Confermare di non essere un robot ;-)">
 <!ENTITY setup.existingAccount.title.label "Inserire le informazioni dell'account">
-<!ENTITY resetPassword.label "Azzera la password">
+<!ENTITY resetPassword.label "Ripristina la password">
 <!ENTITY connecting.label "Connessione in corso…">
 <!ENTITY passphraseGroupbox.label "Inserisci una frase segreta">
 <!ENTITY passphraseDesc3.label "Inserire la frase segreta. Deve essere la stessa frase segreta utilizzata per cifrare i dati.">
@@ -61,13 +61,13 @@
 <!ENTITY choice.merge.main.label "Unisci i dati di questo computer con quelli di &syncBrand.shortName.label;">
 <!ENTITY choice.merge.recommend.label "Questa è l'opzione consigliata da Mozilla per la maggior parte degli utenti.">
 <!ENTITY choice.client.main.label "Sostituisci tutti i dati presenti su questo computer con quelli di &syncBrand.fullName.label;">
-<!ENTITY choice.server.main.label "Sostituisci i dati degli altri dispositivi con quelli in locale">
+<!ENTITY choice.server.main.label "Sostituisci i dati degli altri dispositivi con quelli presenti in locale">
 <!ENTITY confirm.caption.label "Confermare la scelta">
 <!ENTITY confirm.merge.label "Si è deciso di unire i dati di questo computer con i dati degli altri dispositivi connessi a &syncBrand.fullName.label;.">
 <!ENTITY confirm.client.label "Tutti i dati di &brandShortName; presenti su questo computer saranno eliminati, compresi i seguenti:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; copierà i propri dati da &syncBrand.fullName.label; su questo computer.">
 <!ENTITY confirm.client.warning.label "ATTENZIONE: tutti i dati di &brandShortName; su questo computer verranno sovrascritti.">
-<!ENTITY confirm.server.label "I dati dei seguenti dispositivi verranno sovrascritti con i dati in locale:">
-<!ENTITY confirm.server.warning.label "ATTENZIONE: tutti i dati di &brandShortName; su questi dispositivi verranno sostituiti dai dati in locale.">
+<!ENTITY confirm.server.label "I dati dei seguenti dispositivi verranno sovrascritti con i dati presenti in locale:">
+<!ENTITY confirm.server.warning.label "ATTENZIONE: tutti i dati di &brandShortName; su questi dispositivi verranno sostituiti dai dati presenti in locale.">
 <!ENTITY setup.successPage.title.label "Configurazione completata">
 <!ENTITY setup.successPage.desc.label "Complimenti. &brandShortName; è impostato per sincronizzare automaticamente le informazioni. Si raccomanda di installare &syncBrand.fullName.label; su tutti i dispositivi. Ora è possibile tornare a utilizzare &brandShortName;.">
