@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label               "Seadista &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey           "S">
+<!ENTITY weaveDesc.label                 "&syncBrand.fullName.label; võimaldab sulle ligipääsu sinu teistes seadmetes olevale ajaloole, järjehoidjatele, paroolidele ja avatud kaartidele.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label    "&syncBrand.fullName.label;i konto">
+<!ENTITY currentUser.label               "Praegune kasutaja:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label                "Uuenda">
+<!ENTITY resetPass.label                 "Lähtesta">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label             "Konto haldamine">
+<!ENTITY manageAccount.accesskey         "K">
+<!ENTITY changePassword.label            "Muuda parooli">
+<!ENTITY changePassphrase.label          "Muuda salajast võtit">
+<!ENTITY resetSync.label                 "Lähtesta Sync">
+<!ENTITY differentAccount.label          "Kasuta teist kontot">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label          "Brauseri sünkroniseerimine">
+<!ENTITY syncComputerName.label          "Arvuti nimi:">
+<!ENTITY syncComputerName.accesskey      "r">
+<!ENTITY syncModeSwitchDesc.label        "&brandShortName;: ">
+<!ENTITY syncModeSwitchDesc.accesskey    "y">
+<!ENTITY syncEverything.label            "sünkroniseerib kõik">
+<!ENTITY customSync.label                "kasutab kohandatud sätteid">
+<!ENTITY syncEverythingDescription.label "Sünkroniseeritakse järjehoidjad, ajalugu, paroolid, eelistused ja kaardid.">
+<!ENTITY syncItem.bookmarks.label        "sünkroniseeritakse järjehoidjad">
+<!ENTITY syncItem.bookmarks.accesskey    "j">
+<!ENTITY syncItem.tabs.label             "sünkroniseeritakse kaardid">
+<!ENTITY syncItem.tabs.accesskey         "k">
+<!ENTITY syncItem.history.label          "sünkroniseeritakse ajalugu">
+<!ENTITY syncItem.history.accesskey      "a">
+<!ENTITY syncItem.passwords.label        "sünkroniseeritakse paroolid">
+<!ENTITY syncItem.passwords.accesskey    "p">
+<!ENTITY syncItem.prefs.label            "sünkroniseeritakse eelistused">
+<!ENTITY syncItem.prefs.accesskey        "e">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label             "Teenuse tingimused">
+<!ENTITY prefs.ppLink.label              "Privaatsusreeglid">
