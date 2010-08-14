@@ -495,7 +495,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  bookmarkThisTab.label              "Προσθήκη καρτέλας στους σελιδοδείκτες">
 <!ENTITY  bookmarkThisTab.accesskey          "ρ">
 
-<!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατους ιστορικού…">
+<!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY clearRecentHistory.accesskey           "ι">
 
 <!ENTITY  closeOtherTabs.label               "Κλείσιμο των άλλων καρτελών">
