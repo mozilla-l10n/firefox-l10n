@@ -37,3 +37,8 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Προβολή στον Finder">
 
+<!ENTITY aboutSupport.graphicsTitle "Γραφικά">
+<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
+<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D Ενεργό">
+
+

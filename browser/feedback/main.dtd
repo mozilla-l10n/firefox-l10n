@@ -1,15 +1,19 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Ρυθμίσεις">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Ειδοποίηση όταν">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Μια μελέτη είναι έτοιμη για υποβολή">
 <!ENTITY testpilot.settings.newStudy.label          "Υπάρχει νέα μελέτη">
 <!ENTITY testpilot.settings.hasNewResults.label     "Μια μελέτη έχει νέα αποτελέσματα">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Αυτόματη υποβολή δεδομένων (χωρίς ερώτηση)">
-<!ENTITY testpilot.allStudies.label                 "Όλες οι μελέτες χρήσης μου">
 <!ENTITY testpilot.about.label                      "Περί Test Pilot">
 
 <!-- all studies window -->
+
+<!ENTITY testpilot.allYourStudies.label             "Όλες οι μελέτες χρήσης μου…">
+<!ENTITY testpilot.settings.dataSubmission.label    "Υποβολή δεδομένων">
+<!ENTITY testpilot.settings.notifications.label     "Ειδοποιήσεις">
+<!ENTITY testpilot.settings.notifyWhen.label        "Ειδοποίηση όταν…">
+
 <!ENTITY testpilot.studiesWindow.title                  "Μελέτες Test Pilot">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Τρέχουσες μελέτες">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Ολοκληρωμένες μελέτες">
