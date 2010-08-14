@@ -1,5 +1,4 @@
 google
-yahoo-ca
 huubs
 diec2
 wikipedia-ca
