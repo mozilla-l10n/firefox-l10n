@@ -48,18 +48,18 @@
 <!ENTITY syncComputerName.accesskey   "C">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
 <!ENTITY syncModeSwitchDesc.accesskey "w">
-<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY syncEverything.label         "sincroniza totul">
 <!ENTITY customSync.label             "Use my custom settings">
-<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
-<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncEverythingDescription.label  "Se vor sincroniza semnele de carte, istoricul, parolele, preferințele și filele.">
+<!ENTITY syncItem.bookmarks.label     "Sincronizează semnele de carte">
 <!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sync Tabs">
-<!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.tabs.label          "Sincronizează filele">
+<!ENTITY syncItem.tabs.accesskey      "S">
+<!ENTITY syncItem.history.label       "Sincronizează istoricul">
 <!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Sync Passwords">
-<!ENTITY syncItem.passwords.accesskey "P">
-<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.passwords.label     "Sincronizează parolele">
+<!ENTITY syncItem.passwords.accesskey "p">
+<!ENTITY syncItem.prefs.label         "Sincronizează preferințele">
 <!ENTITY syncItem.prefs.accesskey     "S">
 
 <!-- New Account Page 4: Captcha -->
