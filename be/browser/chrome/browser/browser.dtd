@@ -2,6 +2,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Адасобленае азіранне)">
+<!ENTITY moveTabTo.label "Перамясціць гэтую ўстаўку…">
+<!ENTITY moveTabTo.accesskey "м">
+<!ENTITY createNewGroup.label "Стварыць новую купу">
+<!ENTITY createNewGroup.accesskey "С">
+<!ENTITY namedGroups.label "Іменаваныя купы">
 <!ENTITY reloadTab.label "Абнавіць устаўку">
 <!ENTITY reloadTab.accesskey "А">
 <!ENTITY reloadAllTabs.label "Абнавіць усе ўстаўкі">
@@ -105,6 +110,8 @@
 <!ENTITY throbberItem.title "Паказальнік чыннасці">
 <!ENTITY bookmarksItem.title "Закладкі">
 <!ENTITY homeButton.label "Дадому">
+<!ENTITY tabViewButton.label "Сукупнасці ўставак">
+<!ENTITY tabViewButton.tooltip "Адкрыць наглядны інтэрфейс уставак">
 <!ENTITY bookmarksButton.label "Закладкі">
 <!ENTITY bookmarksButton.tooltip "Паказаць вашы закладкі">
 <!ENTITY bookmarksButton.accesskey "З">
@@ -192,6 +199,8 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "П">
+<!ENTITY showTabView.label "Прагляд уставак">
+<!ENTITY showTabView.accesskey "П">
 <!ENTITY viewToolbarsMenu.label "Паліцы прыладаў">
 <!ENTITY viewToolbarsMenu.accesskey "л">
 <!ENTITY viewSidebarMenu.label "Палічка">

@@ -70,3 +70,9 @@
 <!ENTITY contextShareImage.label "Падзяліцца малюнкам">
 <!ENTITY contextEditBookmark.label "Правіць">
 <!ENTITY contextRemoveBookmark.label "Выдаліць">
+<!ENTITY pageactions.saveas.pdf "Захаваць як PDF">
+<!ENTITY pageactions.share.page "Падзяліцца старонкай">
+<!ENTITY pageactions.password.forget "Забыць пароль">
+<!ENTITY pageactions.reset "Ачысціць перавагі пляцоўкі">
+<!ENTITY pageactions.findInPage "Знайсці на старонцы">
+<!ENTITY pageactions.search.addNew "Дадаць машыну пошуку">

@@ -129,6 +129,7 @@
 <!ENTITY bookmarksButton.tooltip "Спіс закладак">
 <!ENTITY homeButton.label "Дадому">
 <!ENTITY bookmarksToolbarItem.label "Адзінкі прыладапаліцы закладак">
+<!ENTITY bookmarksToolbarChevron.tooltip "Паказаць больш закладак">
 <!ENTITY statusText.label "Гатова">
 <!ENTITY historyCmd.label "Гісторыя">
 <!ENTITY historyCmd.accesskey "і">
