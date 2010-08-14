@@ -110,8 +110,8 @@
 <!ENTITY throbberItem.title "Индикатор активности">
 <!ENTITY bookmarksItem.title "Закладки">
 <!ENTITY homeButton.label "Домой">
-<!ENTITY tabViewButton.label "Наборы вкладок">
-<!ENTITY tabViewButton.tooltip "Открыть панель визуальных вкладок">
+<!ENTITY tabViewButton2.label "Группы вкладок">
+<!ENTITY tabViewButton2.tooltip "Группы вкладок">
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksButton.tooltip "Показать ваши закладки">
 <!ENTITY bookmarksButton.accesskey "к">
@@ -199,8 +199,8 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
-<!ENTITY showTabView.label "Наборы вкладок">
-<!ENTITY showTabView.accesskey "а">
+<!ENTITY showTabView2.label "Группы вкладок…">
+<!ENTITY showTabView2.accesskey "р">
 <!ENTITY viewToolbarsMenu.label "Панели инструментов">
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY viewSidebarMenu.label "Боковая панель">
