@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Pîlotê Testê">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Mîheng">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Min hişyar bike dema">
+<!ENTITY testpilot.settings.dataSubmission.label    "Data Submission">
+<!ENTITY testpilot.settings.notifications.label     "Notifications">
+<!ENTITY testpilot.settings.notifyWhen.label        "Notify me when…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Perwerdehiyek bê ragihandin">
 <!ENTITY testpilot.settings.newStudy.label          "Perwerdehiyeke nû heye">
 <!ENTITY testpilot.settings.hasNewResults.label     "Encameke nû ya perwerdehiyekê heye">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Daneyên min xweber bişîne (ji min nepirse)">
-<!ENTITY testpilot.allStudies.label                 "Hemû Perwerdehiyên Bikarhêneran ên Te">
+<!ENTITY testpilot.allYourStudies.label             "All Your User Studies…">
 <!ENTITY testpilot.about.label                      "Berbarê Pîlotê Testê de">
 
 <!-- all studies window -->
