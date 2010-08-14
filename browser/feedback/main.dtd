@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label "Zkušební letec">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label "Nastavení">
-<!ENTITY testpilot.settings.notifyMeWhen.label "Upozornit, když">
+<!ENTITY testpilot.settings.dataSubmission.label "Odeslání dat">
+<!ENTITY testpilot.settings.notifications.label "Upozornění">
+<!ENTITY testpilot.settings.notifyWhen.label "Upozornit, když">
 <!ENTITY testpilot.settings.readyToSubmit.label "je studie připravená k odeslání">
 <!ENTITY testpilot.settings.newStudy.label "je k dispozici nová studie">
 <!ENTITY testpilot.settings.hasNewResults.label "má studie nové výsledky">
 <!ENTITY testpilot.settings.alwaysSubmitData.label "Automaticky odeslat data (neptat se)">
-<!ENTITY testpilot.allStudies.label "Všechny vaše studie">
+<!ENTITY testpilot.allYourStudies.label "Všechny vaše uživatelské studie">
 <!ENTITY testpilot.about.label "O doplňku Zkušební letec">
 
 <!-- all studies window -->
