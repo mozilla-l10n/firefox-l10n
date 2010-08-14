@@ -16,6 +16,8 @@
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferenze modificate">
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valore">
+<!ENTITY aboutSupport.graphicsTitle "Grafica">
+<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D attivo">
 <!ENTITY aboutSupport.installationHistoryTitle "Cronologia installazione">
 <!ENTITY aboutSupport.updateHistoryTitle "Aggiorna cronologia">
 <!ENTITY aboutSupport.copyToClipboard.label "Copia negli appunti">
