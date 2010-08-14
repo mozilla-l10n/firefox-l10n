@@ -3,7 +3,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazione anonima)">
 <!ENTITY moveTabTo.label "Sposta questa scheda in…">
-<!ENTITY moveTabTo.accesskey "S">
+<!ENTITY moveTabTo.accesskey "u">
 <!ENTITY createNewGroup.label "Crea un nuovo gruppo">
 <!ENTITY createNewGroup.accesskey "C">
 <!ENTITY namedGroups.label "Gruppi con nome">
@@ -110,7 +110,7 @@
 <!ENTITY throbberItem.title "Indicatore attività">
 <!ENTITY bookmarksItem.title "Segnalibri">
 <!ENTITY homeButton.label "Pagina iniziale">
-<!ENTITY tabViewButton.label "Gruppi di schede">
+<!ENTITY tabViewButton.label "Panoramica schede">
 <!ENTITY tabViewButton.tooltip "Apri interfaccia visuale per le schede">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksButton.tooltip "Visualizza i segnalibri">
@@ -199,8 +199,8 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY showTabView.label "Visualizza schede">
-<!ENTITY showTabView.accesskey "V">
+<!ENTITY showTabView.label "Panoramica schede">
+<!ENTITY showTabView.accesskey "P">
 <!ENTITY viewToolbarsMenu.label "Barre degli strumenti">
 <!ENTITY viewToolbarsMenu.accesskey "B">
 <!ENTITY viewSidebarMenu.label "Barra laterale">
@@ -407,7 +407,7 @@
 <!ENTITY syncMenu.label "&syncBrand.shortName.label;">
 <!ENTITY syncMenu.accesskey "y">
 <!ENTITY syncSetup.label "Configurazione di &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey "C">
+<!ENTITY syncSetup.accesskey "y">
 <!ENTITY syncLogInItem.label "Connetti">
 <!ENTITY syncLogInItem.accesskey "C">
 <!ENTITY syncLogOutItem.label "Disconnetti">
