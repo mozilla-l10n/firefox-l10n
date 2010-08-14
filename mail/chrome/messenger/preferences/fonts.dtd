@@ -1,0 +1,76 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "Cruthan-clò ┐ còdachaidhean">
+<!ENTITY  window.width                            "45em">
+<!ENTITY  window.macWidth                         "48em">
+<!ENTITY  window.unixWidth                        "49em">
+
+<!ENTITY  language.label                          "Cruthan-clò airson:">
+<!ENTITY  language.accesskey                      "t">
+
+<!ENTITY  size.label                              "Meud:">
+<!ENTITY  proportionalSize.accesskey              "e">
+<!ENTITY  sizeMono.accesskey                      "i">
+
+<!ENTITY  proportional.label                      "Co-rèireach:">
+<!ENTITY  proportional.accesskey                  "C">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Clò aon-leud:">
+<!ENTITY  monospace.accesskey                     "C">
+
+<!ENTITY  font.langGroup.latin1                   "Siarach">
+<!ENTITY  font.langGroup.latin2                   "Meadhan-Eòrpach">
+<!ENTITY  font.langGroup.japanese                 "Seapanais">
+<!ENTITY  font.langGroup.trad-chinese             "Sìneach tradaiseanta (Taidh-Mhàn)">
+<!ENTITY  font.langGroup.simpl-chinese            "Sìnis shimplichte">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Sìneach tradaiseanta (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Coireanais">
+<!ENTITY  font.langGroup.cyrillic                 "Cirilis">
+<!ENTITY  font.langGroup.baltic                   "Baltach">
+<!ENTITY  font.langGroup.el                       "Greugais">
+<!ENTITY  font.langGroup.turkish                  "Turcais">
+<!ENTITY  font.langGroup.unicode                  "Cànain eile">
+<!ENTITY  font.langGroup.user-def                 "Roghnadh a' chleachdaiche">
+<!ENTITY  font.langGroup.thai                     "Tàidh">
+<!ENTITY  font.langGroup.hebrew                   "Eabhra">
+<!ENTITY  font.langGroup.arabic                   "Arabais">
+<!ENTITY  font.langGroup.devanagari               "Devanàgari">
+<!ENTITY  font.langGroup.tamil                    "Taimil">
+<!ENTITY  font.langGroup.armenian                 "Airmeinis">
+<!ENTITY  font.langGroup.bengali                  "Beangailis">
+<!ENTITY  font.langGroup.canadian                 "Lidire Aonaichte Canadach">
+<!ENTITY  font.langGroup.ethiopic                 "Amtharais">
+<!ENTITY  font.langGroup.georgian                 "Cairtbheilis">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Cmèar">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Meud as lugha a' chrutha-chlò:">
+<!ENTITY minSize.accesskey                        "M">
+<!ENTITY minSize.none                             "Chan eil gin">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Smachd nan cruthan-clò">
+<!ENTITY  useFixedWidthForPlainText.label         "Cleachd cruth-clò de leud suidhichte airson teachdaireachdan ann an teacsa lom">
+<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  useDocumentFonts.label                  "Leig le teachdaireachdan cruthan-clò eile a chleachdadh">
+<!ENTITY  useDocumentFonts.accesskey              "L">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Post a-mach:">
+<!ENTITY sendDefaultCharset.accesskey     "P">
+<!ENTITY languagesTitle1.label            "Còdachaidhean charactairean">
+<!ENTITY composingDescription.label       "Suidhich an còdachadh charactairean bunaiteach airson post a chur 's fhaighinn">
+
+<!ENTITY viewDefaultCharsetList.label     "Post a-steach:">
+<!ENTITY viewDefaultCharsetList.accesskey  "P">
+<!ENTITY replyInDefaultCharset2.label     "Ma ghabhas sin a dhèanamh, cleachd an còdachadh charactairean bunaiteach 'nam fhreagairtean">
+<!ENTITY replyInDefaultCharset2.accesskey "h">

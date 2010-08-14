@@ -1,0 +1,74 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Lorg teachdaireachdan ann an:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "Rannsaich na fo-phasgain">
+<!ENTITY searchSubfolders.accesskey  "R">
+<!ENTITY searchOnServer.label        "Ruith an lorg air an fhrithealaiche">
+<!ENTITY searchOnServer.accesskey    "u">
+<!ENTITY resetButton.label           "Falamhaich">
+<!ENTITY resetButton.accesskey       "c">
+<!ENTITY openButton.label            "Fosgail">
+<!ENTITY openButton.accesskey        "F">
+<!ENTITY deleteButton.label          "Sguab às">
+<!ENTITY deleteButton.accesskey      "S">
+<!ENTITY searchDialogTitle.label     "Rannsaich na teachdaireachdan">
+<!ENTITY results.label               "Toraidhean">
+<!ENTITY fileHereMenu.label          "Faidhle an-seo">
+<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileButton.label            "Faidhle">
+<!ENTITY fileButton.accesskey        "i">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Fosgail sa phasgan">
+<!ENTITY openInFolder.accesskey      "F">
+<!ENTITY saveAsVFButton.label        "Sàbhail mar phasgan luirg">
+<!ENTITY saveAsVFButton.accesskey    "S">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Lorg ann an:">
+<!ENTITY abSearchHeading.accesskey   "L">
+<!ENTITY propertiesButton.label      "Roghainnean">
+<!ENTITY propertiesButton.accesskey  "R">
+<!ENTITY composeButton.label         "Sgrìobh">
+<!ENTITY composeButton.accesskey     "S">
+<!ENTITY abSearchDialogTitle.label   "Rannsachadh adhartach leabhar nan seòladh">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Snàth">
+<!ENTITY fromColumn.label "O">
+<!ENTITY recipientColumn.label "Faightear">
+<!ENTITY subjectColumn.label "Cuspair">
+<!ENTITY dateColumn.label "Ceann-là">
+<!ENTITY priorityColumn.label "Prìomhachas">
+<!ENTITY tagsColumn.label "Tagaichean">
+<!ENTITY accountColumn.label "Cunntas">
+<!ENTITY statusColumn.label "Cor">
+<!ENTITY sizeColumn.label "Meud">
+<!ENTITY junkStatusColumn.label "An inbhe truilleis">
+<!ENTITY unreadColumn.label "Gun leughadh">
+<!ENTITY totalColumn.label "Gu h-iomlan">
+<!ENTITY readColumn.label "Air a leughadh">
+<!ENTITY receivedColumn.label "Air fhaighinn">
+<!ENTITY starredColumn.label "Le rionnag ris">
+<!ENTITY locationColumn.label "Seòladh">
+<!ENTITY idColumn.label "An t-òrdugh san d' fhuaradh iad">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Briog airson na cuilbh a thagh thu a thaisbeanadh">
+<!ENTITY threadColumn.tooltip "Briog airson snàithean nan teachdaireachdan a thaisbeanadh"> 
+<!ENTITY fromColumn.tooltip "Briog gus a sheòrsachadh a-rèir an t-seòladair">
+<!ENTITY recipientColumn.tooltip "Briog airson a sheòrsachadh a-rèir faighteir">
+<!ENTITY subjectColumn.tooltip "Briog gus a sheòrsachadh a-rèir cuspair">
+<!ENTITY dateColumn.tooltip "Briog gus a sheòrsachadh a-rèir cinn-là">
+<!ENTITY priorityColumn.tooltip "Briog gus a sheòrsachadh a-rèir prìomhachais">
+<!ENTITY tagsColumn.tooltip "Briog gus a sheòrsachadh a-rèir nan taga">
+<!ENTITY accountColumn.tooltip "Briog gus a sheòrsachadh a-rèir cunntais">
+<!ENTITY statusColumn.tooltip "Briog gus a sheòrsachadh a-rèir cor">
+<!ENTITY sizeColumn.tooltip "Briog gus a sheòrsachadh a-rèir meud">
+<!ENTITY junkStatusColumn.tooltip "Briog gus a sheòrsachadh a-rèir na h-inbhe truilleis">
+<!ENTITY unreadColumn.tooltip "Àireamh nan teachdaireachdan gun leughadh san t-snàth">
+<!ENTITY totalColumn.tooltip "Àireamh iomlan nan teachdaireachdan san t-snàth">
+<!ENTITY readColumn.tooltip "Briog gus a sheòrsachadh a-rèir comharra "gun leughadh/air a leughadh"">
+<!ENTITY receivedColumn.tooltip "Briog gus a sheòrsachadh a-rèir a' chinn-là nuair a fhuaradh e">
+<!ENTITY starredColumn.tooltip "Briog gus a sheòrsachadh a-rèir rionnagan">
+<!ENTITY locationColumn.tooltip "Briog gus a sheòrsachadh a-rèir seòlaidh">
+<!ENTITY idColumn.tooltip "Briog gus a sheòrsachadh a-rèir an òrduigh san d' fhuaradh iad">

@@ -1,0 +1,13 @@
+<!ENTITY credit.title     "Creideasan &brandFullName;">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.thanks    "Taing air leth do">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Eadar-theangadairean</h3><ul><li>Michael &apos;Akerbeltz&apos; Bauer</li></ul>">
+
+<!ENTITY credit.memory         "Mar chuimhneachan cridheil air">
+<!ENTITY credit.poweredByGecko "Le cumhachd Gecko&trade;">

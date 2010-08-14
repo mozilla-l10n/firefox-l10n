@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "Pasgan luirg ùr air a shàbhaladh">
+<!ENTITY name.label                 "Ainm:">
+<!ENTITY name.accesskey             "n">
+<!ENTITY description.label          "Cruthaich mar fho-phasgan de:">
+<!ENTITY description.accesskey      "C">
+
+<!ENTITY searchTermCaption.label "Rèitich na roghainnean luirg airson a' phasgain luirg seo a chaidh a shàbhaladh: ">
+
+<!ENTITY folderSelectionCaption.label "Tagh na pasgain a thèid a rannsachadh: ">
+<!ENTITY chooseFoldersButton.label "Tagh…">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Lorg air loidhne (Gheibh thu toraidhean gu ruige an-diugh airson pasgain naidheachdan is IMAP ach bheir e nas fhaide a' fosgladh a' phasgain)">
+<!ENTITY searchOnline.accesskey "s">

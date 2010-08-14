@@ -1,0 +1,7 @@
+<!ENTITY window.title "Gnàthaich na bannan-cinn">
+<!ENTITY addButton.label "Cuir ris">
+<!ENTITY addButton.accesskey "C">
+<!ENTITY removeButton.label "Thoir air falbh">
+<!ENTITY removeButton.accesskey "r">
+<!ENTITY newMsgHeader.label "Bann-cinn teachdaireachd ùr:">
+<!ENTITY newMsgHeader.accesskey "n">

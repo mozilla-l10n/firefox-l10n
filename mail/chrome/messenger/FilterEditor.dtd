@@ -1,0 +1,41 @@
+<!ENTITY window.title "Riaghailtean a' chriathraidh">
+
+<!ENTITY filterName.label "Ainm na criathraige:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Truilleis">
+<!ENTITY notJunk.label "Post còir">
+
+<!ENTITY lowestPriorityCmd.label "As ìsle">
+<!ENTITY lowPriorityCmd.label "Ìseal">
+<!ENTITY normalPriorityCmd.label "Àbhaisteach">
+<!ENTITY highPriorityCmd.label "Àrd">
+<!ENTITY highestPriorityCmd.label "As àirde">
+
+<!ENTITY contextDesc.label "Cleachd a' chriathrag nuair:">
+<!ENTITY contextDesc.accesskey "C">
+<!ENTITY contextIncoming.label "A' thathar lorg post ùr">
+<!ENTITY contextManual.label "A thathar 'ga ruith a làimh">
+<!ENTITY contextBoth.label "A thathar a' lorg post ùr no 'ga ruith a làimh">
+<!ENTITY contextPostPlugin.label "A thathar a' lorg post ùr (às dèidh seòrsachadh)">
+<!ENTITY contextPostPluginBoth.label "A thathar a' lorg post ùr (às dèidh seòrsachadh) no 'ga ruith a làimh">
+<!ENTITY filterActionDesc.label "Dèan na leanas:">
+<!ENTITY filterActionDesc.accesskey "D">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Gluais an teachdaireachd gu">
+<!ENTITY copyMessage.label "Cuir lethbhreac dhen teachdaireachd gu">
+<!ENTITY forwardTo.label "Sìn an teachdaireachd air adhart gu">
+<!ENTITY replyWithTemplate.label "Thoir freagairt le teamplaid">
+<!ENTITY markMessageRead.label "Cuir comharra air gun deach a leughadh">
+<!ENTITY markMessageStarred.label "Cuir rionnag ris">
+<!ENTITY setPriority.label "Atharraich a prìomhachas gu">
+<!ENTITY addTag.label "Cuir taga ris an teachdaireachd">
+<!ENTITY setJunkScore.label "Cuir a h-inbhe truilleis gu">
+<!ENTITY deleteMessage.label "Sguab às an teachdaireachd">
+<!ENTITY deleteFromPOP.label "Sguab às on fhrithealaiche POP">
+<!ENTITY fetchFromPOP.label "Faigh on fhrithealaiche POP">
+<!ENTITY ignoreThread.label "Leig seachad an snàth">
+<!ENTITY ignoreSubthread.label "Leig seachad am fo-shnàth">
+<!ENTITY watchThread.label "Cum sùil air an t-snàth">
+<!ENTITY stopExecution.label "Sguir dhen chriathradh">

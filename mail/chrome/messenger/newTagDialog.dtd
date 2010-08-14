@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Cruthaich taga ùr">
+<!ENTITY name.label              "Ainm an taga:">
+<!ENTITY name.accesskey          "t">

@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label "Fo-sgrìobhaidhean an inbhir">
+<!ENTITY subscriptionDesc.label "Aire: Cha bhi buaidh ann air artagailean a luchdaich thu a-nuas roimhe ma bheir thu air falbh no ma dh'atharraicheas tu am pasgan airson inbhir.">
+<!ENTITY feedTitle.label "Tiotal:">
+<!ENTITY location.label  "Seòladh:">
+
+<!ENTITY button.addFeed.label       "Cuir ris">
+<!ENTITY button.addFeed.accesskey   "C">
+<!ENTITY button.editFeed.label      "Deasaich">
+<!ENTITY button.editFeed.accesskey  "e">
+<!ENTITY button.removeFeed.label "Thoir air falbh">
+<!ENTITY button.removeFeed.accesskey   "r">
+<!ENTITY button.importOPML.label "Ion-phortaich">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Às-phortaich">
+<!ENTITY button.exportOPML.accesskey   "À">
+
+<!ENTITY cmd.close.commandKey             "w">

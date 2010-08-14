@@ -1,0 +1,7 @@
+<!ENTITY identityDialog.style "width: 75ch;">
+<!ENTITY identityTitle.label "Roghainnean na dearbh-aithne">
+<!ENTITY identityListDesc.label "Rèitich roghainnean na dearbh-aithne seo:">
+
+<!ENTITY settingsTab.label       "Roghainnean">
+<!ENTITY copiesFoldersTab.label "Lethbhric ┐ pasgain">
+<!ENTITY addressingTab.label    "Sgrìobhadh ┐ seòlachadh">

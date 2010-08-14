@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Co-fhilleadh an t-siostaim">
+<!ENTITY defaultClient.intro  "Cleachd &brandShortName; mar an cliant bunaiteach airson:">
+
+<!ENTITY email.label "Post-dealain">
+<!ENTITY newsgroups.label "Buidhnean-naidheachd">
+<!ENTITY feeds.label "Inbhirean">
+
+<!ENTITY checkOnStartup.label "Ceasnaich seo gach turas a thòisicheas &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "a">
+
+<!ENTITY searchIntegration.label "Leig le &searchIntegration.engineName; teachdaireachdan a rannsachadh">
+<!ENTITY searchIntegration.accesskey "s">

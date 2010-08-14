@@ -1,0 +1,110 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Roghainnean an deilbh">
+
+<!ENTITY pixelsPopup.value "pixel">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Seòladh an deilbh:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "Cuir a-steach ainm no seòladh an deilbh">
+<!ENTITY title.label "Gliocas-inneil:">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip "Seo am feart html 'title' a nochdas mar ghliocas-inneil">
+<!ENTITY altText.label "Roghainn teacsa eile:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Cuir a-steach teacsa a chithear an àite an deilbh">
+<!ENTITY noAltText.label "Na cleachd roghainn teacsa eile">
+<!ENTITY noAltText.accessKey "D">
+
+<!ENTITY previewBox.label "Ro-shealladh an deilbh">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Am meud fìor:">
+<!ENTITY actualSizeRadio.label "Am meud fìor">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "Aisig meud fìor an deilbh">
+<!ENTITY customSizeRadio.label "Meud gnàthaichte">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "Atharraich meud an deilbh mar a chithear e san duilleag">
+<!ENTITY heightEditField.label "Àirde:">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY widthEditField.label "Leud:">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY constrainCheckbox.label "Cuir co-èiginn air">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "Glèidh co-mheas an deilbh">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Mapa an deilbh">
+<!ENTITY removeImageMapButton.label "Thoir air falbh">
+<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY editImageMapButton.label "Deasaich…">
+<!ENTITY editImageMapButton.tooltip "Cruthaich Hotspots a ghabhas a bhriogadh airson an deilbh seo">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Taobhaich an teacsa a-rèir an deilbh">
+<!ENTITY bottomPopup.value "Aig a' bhun">
+<!ENTITY topPopup.value "Aig a' bharr">
+<!ENTITY centerPopup.value "Sa mheadhan">
+<!ENTITY wrapRightPopup.value "Paisg gun deis">
+<!ENTITY wrapLeftPopup.value "Paisg gun chlì">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Beàrnadh">
+<!ENTITY leftRightEditField.label "Clì 's deis:">
+<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY topBottomEditField.label "Bun is barr:">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "Iomall soladach:">
+<!ENTITY borderEditField.accessKey "B">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Seall iomall mun dealbh cheangailte">
+<!ENTITY showImageLinkBorder.accessKey "B">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Foirm">
+<!ENTITY imageLocationTab.label "Seòladh">
+<!ENTITY imageDimensionsTab.label "Meudachd">
+<!ENTITY imageAppearanceTab.label "Riochd">
+<!ENTITY imageLinkTab.label "Ceangal">

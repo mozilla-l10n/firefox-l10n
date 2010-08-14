@@ -1,0 +1,20 @@
+<!ENTITY emailSectionHdr.label        "Post-dealain"> 
+<!ENTITY readMsgsLink.label           "Leugh teachdaireachdan"> 
+<!ENTITY composeMsgLink.label         "Sgrìobh teachdaireachd ùr"> 
+
+<!ENTITY newsSectionHdr.label         "Buidhnean-naidheachd"> 
+<!ENTITY subscribeNewsLink.label      "Rianaich fo-sgrìobhaidhean gu buidhnean-naidheachd"> 
+
+<!ENTITY accountsSectionHdr.label     "Cunntasan"> 
+<!ENTITY subscribeImapFolders.label   "Rianaich fo-sgrìobhaidhean gu pasgain">
+<!ENTITY settingsLink.label           "Seall roghainnean a' chunntais seo"> 
+<!ENTITY newAcctLink.label            "Cruthaich cunntas ùr"> 
+
+<!ENTITY advFeaturesSectionHdr.label  "Feartan adhartach"> 
+<!ENTITY searchMsgsLink.label         "Rannsaich na teachdaireachdan"> 
+<!ENTITY filtersLink.label            "Rianaich criathragan nan teachdaireachd">
+<!ENTITY junkSettings.label           "Roghainnean a' phuist-thruilleis">
+<!ENTITY offlineLink.label            "Roghainnean airson obrachadh far loidhne">
+
+<!ENTITY feedsSectionHdr.label        "Inbhirean">
+<!ENTITY subscribeFeeds.label         "Rianaich fo-sgrìobhaidhean">

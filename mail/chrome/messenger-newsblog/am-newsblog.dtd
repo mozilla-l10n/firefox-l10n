@@ -1,0 +1,20 @@
+<!ENTITY accountTitle.label "Roghainnean a' chunntais">
+
+<!ENTITY biffStart.label "Cuir sùil airson artagailean ùra gach ">
+<!ENTITY biffStart.accesskey "C">
+<!ENTITY biffEnd.label "mionaid">
+
+<!ENTITY loginAtStartup.label "Cuir sùil airson artagailean ùra nuair a thòisicheas am prògram"> 
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "Seall gearr-chunntas an artagail seach a bhith a' luchdadh na duilleige-lìn a ghnàth"> 
+<!ENTITY useQuickMode.accesskey "b">
+
+<!ENTITY manageSubscriptions.label "Rianaich fo-sgrìobhaidhean…"> 
+<!ENTITY manageSubscriptions.accesskey "R">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogaichean ┐ inbhirean naidheachdan">
+<!ENTITY feeds.wizardShortName "Inbhirean">
+<!ENTITY feeds.wizardLongName "Blogaichean ┐ inbhirean naidheachdan">
+<!ENTITY feeds.wizardLongName.accesskey "B">

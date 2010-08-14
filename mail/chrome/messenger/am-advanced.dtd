@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Roghainnean an fhrithealaiche a-mach (SMTP)">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Ged as urrainn dhut barrachd air aon fhrithealaiche a-mach (SMTP) a shònrachadh, cha mholar seo ach do chleachdaichean sàr-eòlach. Faodaidh tu mearachdan adhbharachadh ann an cur a-null puist ma tha barrachd air aon fhrithealaiche SMTP agad.">
+
+<!ENTITY smtpListAdd.label  "Cuir ris…">
+<!ENTITY smtpListAdd.accesskey  "C">
+<!ENTITY smtpListEdit.label "Deasaich…">
+<!ENTITY smtpListEdit.accesskey "e">
+<!ENTITY smtpListDelete.label "Thoir air falbh">
+<!ENTITY smtpListDelete.accesskey "T">
+<!ENTITY smtpListSetDefault.label "Suidhich roghainn bhunaiteach">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "Tuairisgeul: ">
+<!ENTITY serverName.label "Ainm an fhrithealaiche: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label   "Ainm a' chleachdaiche: ">
+<!ENTITY connectionSecurity.label "Tèarainteachd a' cheangail: ">
+<!ENTITY authMethod.label   "An dòigh dearbhachaidh: ">

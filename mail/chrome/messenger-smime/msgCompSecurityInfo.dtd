@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Tèarainteachd na teachdaireachd">
+<!ENTITY subject.plaintextWarning "An aire: Cha bhi loidhnichean cuspair de theachdaireachdain puist-dhealain air an dubh-cheileadh idir.">
+<!ENTITY status.heading "Thàid susbaint do theachdaireachd a chur mar seo:">
+<!ENTITY status.signed "Le ainm digiteach:">
+<!ENTITY status.encrypted "Air a dhubh-cheileadh:">
+<!ENTITY status.certificates "Teisteanasan:">
+<!ENTITY view.label "Sealladh">
+<!ENTITY view.accesskey "S">
+<!ENTITY tree.recipient "Faightear">
+<!ENTITY tree.status "Cor">
+<!ENTITY tree.issuedDate "Air fhoillseachadh">
+<!ENTITY tree.expiresDate "Falbhaidh an ùine air">
