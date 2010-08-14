@@ -16,8 +16,8 @@
 <!ENTITY restorepage.tryagainButton "Επαναφορά">
 
 <!ENTITY restorepage.restore.access "ρ">
-<!ENTITY restorepage.cancelButton   "Έναρξη νέας συνεδρίας">
-<!ENTITY restorepage.cancel.access  "σ">
+
+
 
 <!ENTITY restorepage.restoreHeader  "Επαναφορά">
 <!ENTITY restorepage.listHeader     "Παραθύρων και καρτελών">

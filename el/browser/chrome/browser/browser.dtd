@@ -129,6 +129,16 @@
 <!ENTITY inspectStyleButton.accesskey "Σ">
 <!ENTITY inspectStylePanelTitle.label  "Στυλ">
 
+<!ENTITY  createNewGroup.label               "Δημιουργία νέας ομάδας">
+<!ENTITY  createNewGroup.accesskey           "μ">
+<!ENTITY  moveTabTo.label                    "Μετακίνηση αυτής της καρτέλας σε…">
+<!ENTITY  moveTabTo.accesskey                "Μ">
+<!ENTITY  namedGroups.label                  "Ομάδες με όνομα">
+<!ENTITY showTabView2.label     "Ομαδοποίηση των καρτελών σας…">
+<!ENTITY showTabView2.accesskey     "δ">
+<!ENTITY tabViewButton2.label         "Ομάδες καρτελών">
+<!ENTITY tabViewButton2.tooltip       "Ομαδοποιήστε τις καρτέλες σας">
+
 
 
 
