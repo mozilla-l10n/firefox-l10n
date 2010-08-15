@@ -158,6 +158,7 @@
 <!ENTITY  bookmarksButton.tooltip     "Lesezeichen-Liste">
 <!ENTITY  homeButton.label            "Startseite">
 <!ENTITY  bookmarksToolbarItem.label  "Elemente der Lesezeichen-Symbolleiste">
+<!ENTITY bookmarksToolbarChevron.tooltip "Weitere Lesezeichen anzeigen">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Fertig">
