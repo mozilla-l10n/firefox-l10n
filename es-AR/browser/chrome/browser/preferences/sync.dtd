@@ -24,7 +24,7 @@
 <!ENTITY syncComputerName.label "Nombre de computadora:">
 <!ENTITY syncComputerName.accesskey "N">
 <!ENTITY syncModeSwitchDesc.label "&brandShortName;: ">
-<!ENTITY syncModeSwitchDesc.accesskey "S">
+<!ENTITY syncModeSwitchDesc.accesskey "F">
 <!ENTITY syncEverything.label "Sincronizará todo">
 <!ENTITY customSync.label "Usará mis preferencias personalizadas">
 <!ENTITY syncEverythingDescription.label "Se sincronizarán sus marcadores, historial, contraseñas, preferencias y pestañas.">

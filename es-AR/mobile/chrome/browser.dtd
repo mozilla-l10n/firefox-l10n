@@ -91,3 +91,9 @@
 <!ENTITY contextEditBookmark.label    "Editar">
 <!ENTITY contextRemoveBookmark.label  "Eliminar">
 
+<!ENTITY pageactions.saveas.pdf      "Guardar como PDF">
+<!ENTITY pageactions.share.page      "Compartir página">
+<!ENTITY pageactions.password.forget "Olvidar contraseña">
+<!ENTITY pageactions.reset           "Borrar preferencias del sitio">
+<!ENTITY pageactions.findInPage      "Buscar ne la página">
+<!ENTITY pageactions.search.addNew   "Agregar buscador">
