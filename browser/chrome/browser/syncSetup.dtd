@@ -47,7 +47,7 @@
 <!ENTITY syncComputerName.label       "Nama Komputer:">
 <!ENTITY syncComputerName.accesskey   "k">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; akan: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncModeSwitchDesc.accesskey "F">
 <!ENTITY syncEverything.label         "Menyinkronisasi Semua Data">
 <!ENTITY customSync.label             "Gunakan pengaturan pilihan saya">
 <!ENTITY syncEverythingDescription.label  "Data Bookmark, riwayat, sandi, pengaturan, dan tab Anda akan disinkronkan.">
@@ -78,7 +78,7 @@
 <!ENTITY verifying.label              "Memverifikasi…">
 
 <!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "How do you want to start off?">
+<!ENTITY setup.mergeChoicePage.title.label "Silakan pilih penyetelan awal yang sesuai dengan keinginan Anda">
 <!ENTITY choice.merge.main.label      "Gabungkan data pada komputer ini dengan data &syncBrand.shortName.label; Anda">
 <!ENTITY choice.merge.recommend.label "Mozilla menyarankan pilihan ini untuk semua pengguna.">
 <!ENTITY choice.client.main.label     "Timpa data pada komputer ini dengan data &syncBrand.fullName.label; Anda">
@@ -91,7 +91,7 @@
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; akan menyalin semua data &syncBrand.fullName.label; ke komputer ini.">
 <!ENTITY confirm.client.warning.label "PERINGATAN: Data &brandShortName; pada komputer ini akan ditimpa!">
 <!ENTITY confirm.server.label         "Data pada perangkat berikut akan ditimpa dengan data pada komputer ini:">
-<!ENTITY confirm.server.warning.label "PERINGATAN: Data pada komputer ini akan menimpa data &brandShortName; pada perangkat berikut!">
+<!ENTITY confirm.server.warning.label "PERINGATAN: Data pada komputer ini akan menimpa data &brandShortName; pada perangkat tersebut!">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title.label   "Penyetelan Selesai!">
