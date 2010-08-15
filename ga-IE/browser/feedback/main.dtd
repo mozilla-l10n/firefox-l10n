@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label "Socruithe">
-<!ENTITY testpilot.settings.notifyMeWhen.label "Cuir in iúl dom">
+<!ENTITY testpilot.settings.dataSubmission.label "Seoladh Sonraí">
+<!ENTITY testpilot.settings.notifications.label "Fógraí">
+<!ENTITY testpilot.settings.notifyWhen.label "Cuir in iúl dom…">
 <!ENTITY testpilot.settings.readyToSubmit.label "Nuair a bheidh staidéar réidh le seoladh">
 <!ENTITY testpilot.settings.newStudy.label "Nuair a bheidh staidéar nua ann">
 <!ENTITY testpilot.settings.hasNewResults.label "Nuair a bheidh torthaí nua ag staidéar">
 <!ENTITY testpilot.settings.alwaysSubmitData.label "Seol mo chuid sonraí go huathoibríoch (ná fiafraigh díom)">
-<!ENTITY testpilot.allStudies.label "Do Staidéir Úsáideora Go Léir">
+<!ENTITY testpilot.allYourStudies.label "Do Chuid Staidéar Go Léir…">
 <!ENTITY testpilot.about.label "Maidir le Test Pilot">
 <!-- all studies window -->
 
