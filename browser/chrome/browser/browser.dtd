@@ -2,6 +2,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación privada)">
+<!ENTITY moveTabTo.label "Mover esta pestaña a…">
+<!ENTITY moveTabTo.accesskey "M">
+<!ENTITY createNewGroup.label "Crear nuevo grupo">
+<!ENTITY createNewGroup.accesskey "C">
+<!ENTITY namedGroups.label "Grupos nombrados">
 <!ENTITY reloadTab.label "Recargar pestaña">
 <!ENTITY reloadTab.accesskey "g">
 <!ENTITY reloadAllTabs.label "Recargar todas las pestañas">
@@ -105,6 +110,8 @@
 <!ENTITY throbberItem.title "Progreso">
 <!ENTITY bookmarksItem.title "Marcadores">
 <!ENTITY homeButton.label "Inicio">
+<!ENTITY tabViewButton2.label "Grupos de pestañas">
+<!ENTITY tabViewButton2.tooltip "Agrupar sus pestañas">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
 <!ENTITY bookmarksButton.accesskey "c">
@@ -192,6 +199,8 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
+<!ENTITY showTabView2.label "Agrupar sus pestañas…">
+<!ENTITY showTabView2.accesskey "g">
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY viewSidebarMenu.label "Panel lateral">
