@@ -13,6 +13,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(tryb prywatny)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Przenieś tę kartę do…">
+<!ENTITY  moveTabTo.accesskey                "n">
+<!ENTITY  createNewGroup.label               "Utwórz nową grupę">
+<!ENTITY  createNewGroup.accesskey           "U">
+<!ENTITY  namedGroups.label                  "Grupy nazwane">
 <!ENTITY reloadTab.label                     "Odśwież kartę" >
 <!ENTITY reloadTab.accesskey                 "d" >
 <!ENTITY reloadAllTabs.label                 "Odśwież wszystkie karty" >
@@ -128,6 +133,7 @@
 <!ENTITY printButton.label "Drukuj" >
 <!ENTITY printButton.tooltip "Drukuj bieżącą stronę" >
 
+<!ENTITY backForwardItem.title        "Wstecz/Do przodu">
 <!ENTITY locationItem.title "Adres" >
 <!ENTITY searchItem.title "Znajdź" >
 <!ENTITY throbberItem.title "Wskaźnik aktywności" >
@@ -135,6 +141,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label "Strona startowa" >
+<!ENTITY tabViewButton2.label         "Grupy kart">
+<!ENTITY tabViewButton2.tooltip       "Grupuj karty">
 
 <!ENTITY bookmarksButton.label          "Zakładki">
 <!ENTITY bookmarksButton.tooltip        "Wyświetl zakładki">
@@ -240,6 +248,8 @@
 
 <!ENTITY viewMenu.label "Widok" >
 <!ENTITY viewMenu.accesskey "W" >
+<!ENTITY showTabView2.label     "Groupuj karty…">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label "Paski narzędzi" >
 <!ENTITY viewToolbarsMenu.accesskey "P" >
 <!ENTITY viewSidebarMenu.label "Panel boczny" >
@@ -505,3 +515,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Karty przeglądarki">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Karty z innych komputerów">
+
+<!ENTITY syncBrand.shortName.label  "Sync">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "Skonfiguruj &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncLogInItem.label          "Połącz">
+<!ENTITY syncLogInItem.accesskey      "P">
+<!ENTITY syncLogOutItem.label         "Rozłącz">
+<!ENTITY syncLogOutItem.accesskey     "R">
+<!ENTITY syncSyncNowItem.label        "Synchronizuj teraz">
+<!ENTITY syncSyncNowItem.accesskey    "S">
