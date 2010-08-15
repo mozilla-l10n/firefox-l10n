@@ -32,6 +32,10 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Nazwa">
 <!ENTITY aboutSupport.modifiedPrefsValue "Wartość">
 
+<!ENTITY aboutSupport.graphicsTitle "Grafika">
+<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
+<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D włączony">
+
 <!ENTITY aboutSupport.installationHistoryTitle "Historia instalacji">
 <!ENTITY aboutSupport.updateHistoryTitle "Historia aktualizacji">
 
