@@ -536,5 +536,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncLogInItem.accesskey      "b">
 <!ENTITY syncLogOutItem.label         "Putuskan">
 <!ENTITY syncLogOutItem.accesskey     "p">
-<!ENTITY syncSyncNowItem.label        "Sinkronkan Sekarang">
+<!ENTITY syncSyncNowItem.label        "Sinkronisasikan Sekarang">
 <!ENTITY syncSyncNowItem.accesskey    "S">

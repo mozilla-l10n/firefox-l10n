@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Setel &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; memudahkan Anda untuk mengakses data riwayat, bookmark, sandi, dan tab di semua perangkat Anda.">
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Akun &syncBrand.fullName.label;">
@@ -16,27 +16,27 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY changePassword.label         "Ganti Sandi">
 <!ENTITY changePassphrase.label       "Ganti Kata Pengaman">
-<!ENTITY resetSync.label              "Setel Ulang Sync">
+<!ENTITY resetSync.label              "Setel Ulang Sinkronisasi">
 <!ENTITY differentAccount.label       "Gunakan Akun Lainnya">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Sync Peramban">
+<!ENTITY syncPrefsCaption.label       "Sinkronisasikan Peramban">
 <!ENTITY syncComputerName.label       "Nama Komputer:">
 <!ENTITY syncComputerName.accesskey   "k">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; akan: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
-<!ENTITY syncEverything.label         "menyinkronisasikan Semua Data">
+<!ENTITY syncModeSwitchDesc.accesskey "F">
+<!ENTITY syncEverything.label         "menyinkronisasikan semua data">
 <!ENTITY customSync.label             "menggunakan pengaturan pilihan saya">
-<!ENTITY syncEverythingDescription.label  "Data Bookmark, riwayat, sandi, pengaturan, dan tab Anda akan disinkronkan.">
-<!ENTITY syncItem.bookmarks.label     "Sinkronkan Bookmark">
+<!ENTITY syncEverythingDescription.label  "Data bookmark, riwayat, sandi, pengaturan, dan tab Anda akan disinkronisasikan.">
+<!ENTITY syncItem.bookmarks.label     "Sinkronisasikan Bookmark">
 <!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sinkronkan Tab">
+<!ENTITY syncItem.tabs.label          "Sinkronisasikan Tab">
 <!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "Sinkronkan Riwayat">
+<!ENTITY syncItem.history.label       "Sinkronisasikan Riwayat">
 <!ENTITY syncItem.history.accesskey   "w">
-<!ENTITY syncItem.passwords.label     "Sinkronkan Sandi">
+<!ENTITY syncItem.passwords.label     "Sinkronisasikan Sandi">
 <!ENTITY syncItem.passwords.accesskey "i">
-<!ENTITY syncItem.prefs.label         "Sinkronkan Pengaturan">
+<!ENTITY syncItem.prefs.label         "Sinkronisasikan Pengaturan">
 <!ENTITY syncItem.prefs.accesskey     "p">
 
 <!-- Footer stuff -->
