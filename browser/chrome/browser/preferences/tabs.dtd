@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label "Ko odprem povezavo v novem zavihku, ta zavihek takoj prikaži v ospredju">
 <!ENTITY switchToNewTabs.accesskey "k">
+
+<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.accesskey      "k">

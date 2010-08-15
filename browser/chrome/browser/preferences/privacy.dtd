@@ -57,21 +57,14 @@
 <!ENTITY  dontrememberActions.clearHistory.label "počistiti vso trenutno zgodovino">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Samodejno zaženi &brandShortName; v seji za zasebno brskanje">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
+<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.accesskey  "b">
 
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Zgodovino brskanja shranjuj najmanj">
-<!ENTITY  rememberHistory.pre.accesskey  "Z">
-<!ENTITY  rememberHistory.post.label     "dni">
-
-<!ENTITY  rememberDownload.label         "Shranjuj zgodovino prenosov">
-<!ENTITY  rememberDownload.accesskey     "p">
+<!ENTITY  rememberDownload.label         "Remember download history">
+<!ENTITY  rememberDownload.accesskey     "d">
 
 <!ENTITY  rememberSearchForm.label       "Shranjuj zgodovino iskanja in obrazcev">
 <!ENTITY  rememberSearchForm.accesskey   "i">

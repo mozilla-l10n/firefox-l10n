@@ -3,6 +3,7 @@
 <!ENTITY cookiesonsystem.label "Na vašem računalniku so shranjeni naslednji piškoti:">
 <!ENTITY cookiename.label "Ime">
 <!ENTITY cookiedomain.label "Stran">
+<!ENTITY     button.removecookies.label     "Remove Cookies">
 <!ENTITY button.removecookie.label "Odstrani piškot">
 <!ENTITY button.removecookie.accesskey "O">
 <!ENTITY button.removeallcookies.label "Odstrani vse piškote">

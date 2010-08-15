@@ -11,6 +11,30 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Zasebno brskanje)">
 
+<!-- Tab context menu -->
+<!ENTITY  reloadTab.label                    "Reload Tab">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "Reload All Tabs">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  closeOtherTabs.label               "Close Other Tabs">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  openTabInNewWindow.label           "Open in a New Window">
+<!ENTITY  openTabInNewWindow.accesskey       "W">
+<!ENTITY  pinTab.label                       "Make into App Tab">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "Make into Normal Tab">
+<!ENTITY  unpinTab.accesskey                 "k">
+<!ENTITY  bookmarkThisTab.label              "Bookmark This Tab">
+<!ENTITY  bookmarkThisTab.accesskey          "B">
+<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "Undo Close Tab">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "Close Tab">
+<!ENTITY  closeTab.accesskey                 "c">
+
+<!ENTITY  listAllTabs.label      "List all tabs">
+
 <!ENTITY tabCmd.label "Nov zavihek">
 <!ENTITY tabCmd.accesskey "Z">
 <!ENTITY tabCmd.commandkey "t">
@@ -95,6 +119,7 @@
 <!ENTITY printButton.label "Natisni">
 <!ENTITY printButton.tooltip "Natisni to stran">
 
+<!ENTITY backForwardItem.title        "Back/Forward">
 <!ENTITY locationItem.title "Naslov">
 <!ENTITY searchItem.title "Iskanje">
 <!ENTITY throbberItem.title "Merilnik dejavnosti">
@@ -107,6 +132,12 @@
 <!ENTITY bookmarksButton.tooltip "Prikaže vaše zaznamke">
 <!ENTITY bookmarksButton.accesskey  "Z">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Bookmarks">
+<!ENTITY bookmarksMenuButton.tooltip        "Display your bookmarks">
+<!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
+<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -131,12 +162,30 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Dodatki">
-<!ENTITY addons.tooltip "Upravljanje dodatkov">
 <!ENTITY addons.accesskey "D">
 
 <!ENTITY errorConsoleCmd.label "Konzola JavaScript">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
+
+<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Inspect">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Inspect">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Next">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Previous">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Style">
 
 <!ENTITY fileMenu.label "Datoteka">
 <!ENTITY fileMenu.accesskey "D">
@@ -172,8 +221,8 @@
 <!ENTITY preferencesCmdUnix.label "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearRecentHistoryCmd.label            "Počisti nedavno zgodovino">
-<!ENTITY clearRecentHistoryCmd.accesskey        "Z">
+<!ENTITY clearRecentHistory.label            "Počisti nedavno zgodovino">
+<!ENTITY clearRecentHistory.accesskey        "Z">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Vključi zasebno brskanje">
@@ -190,6 +239,8 @@
 <!ENTITY viewSidebarMenu.accesskey "v">
 <!ENTITY viewCustomizeToolbar.label "Po meri ...">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
+<!ENTITY viewTabsOnTop.label            "Tabs on Top">
+<!ENTITY viewTabsOnTop.accesskey        "T">
 
 <!ENTITY historyMenu.label "Zgodovina">
 <!ENTITY historyMenu.accesskey "i">
@@ -201,12 +252,18 @@
 <!ENTITY showAllHistoryCmd2.label "Prikaži vso zgodovino">
 <!ENTITY showAllHistoryCmd.commandkey "S">
 
+<!ENTITY appMenuPrintCmd.label "Print">
+<!ENTITY appMenuCustomize.label "Customize">
+<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appMenuSidebars.label "Sidebars">
+<!ENTITY appMenuHelp.label "Help">
+
+<!ENTITY developerMenu.label "Developer">
+
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Iskanje po zaznamkih in zgodovini">
-<!ENTITY urlbar.bookmark.emptyText    "Iskanje po zaznamkih">
-<!ENTITY urlbar.history.emptyText     "Iskanje po zgodovini">
-<!ENTITY urlbar.none.emptyText        "Vnesite spletni naslov">
-<!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.placeholder           "Go to a Web Site">
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -235,6 +292,8 @@
 
 <!ENTITY openLinkCmd.label "Odpri povezavo v novem oknu">
 <!ENTITY openLinkCmd.accesskey "N">
+<!ENTITY openLinkCmdInCurrent.label     "Open Link">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label "Odpri povezavo v novem zavihku">
 <!ENTITY openLinkCmdInTab.accesskey "Z">
 <!ENTITY openFrameCmd.label "Odpri okvir v novem oknu">
@@ -305,8 +364,6 @@
 <!ENTITY sendAudioCmd.accesskey       "o">
 <!ENTITY copyLinkCmd.label "Kopiraj mesto povezave">
 <!ENTITY copyLinkCmd.accesskey "i">
-<!ENTITY copyLinkTextCmd.label "Kopiraj besedilo povezave">
-<!ENTITY copyLinkTextCmd.accesskey "b">
 <!ENTITY copyImageCmd.label "Kopiraj mesto slike">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopiraj sliko">
@@ -315,7 +372,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopiraj mesto zvoka">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey "k">
 <!ENTITY copyEmailCmd.label "Kopiraj e-poštni naslov">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Ta okvir">
@@ -334,6 +390,8 @@
 <!ENTITY mediaShowControls.accesskey "g">
 <!ENTITY mediaHideControls.label     "Skrij gradnike">
 <!ENTITY mediaHideControls.accesskey "g">
+<!ENTITY videoFullScreen.label       "Full Screen">
+<!ENTITY videoFullScreen.accesskey   "F">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -449,3 +507,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Kliknite za odpiranje okna prenosov">
 
 <!ENTITY allTabs.filter.emptyText "Search Tabs">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Browser tabs">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
+
+<!ENTITY syncBrand.shortName.label  "Sync">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "Set Up &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncLogInItem.label          "Connect">
+<!ENTITY syncLogInItem.accesskey      "C">
+<!ENTITY syncLogOutItem.label         "Disconnect">
+<!ENTITY syncLogOutItem.accesskey     "D">
+<!ENTITY syncSyncNowItem.label        "Sync Now">
+<!ENTITY syncSyncNowItem.accesskey    "S">
