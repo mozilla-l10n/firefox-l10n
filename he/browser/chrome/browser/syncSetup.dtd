@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
+<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
+<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "התחבר אל">
+<!ENTITY serverType.main.label      "שרת &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "השתמש בשרת מותאם אישית">
+<!ENTITY signIn.username.label      "שם משתמש">
+<!ENTITY signIn.username.accesskey  "ש">
+<!ENTITY signIn.password.label      "ססמה">
+<!ENTITY signIn.password.accesskey  "ס">
+<!ENTITY signIn.serverURL.label     "כתובת שרת">
+<!ENTITY signIn.serverURL.accesskey "כ">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "צור חשבון ב־&syncBrand.shortName.label;">
+<!ENTITY setup.confirmPassword.label  "וודא ססמה">
+<!ENTITY setup.confirmPassword.accesskey  "ו">
+<!ENTITY setup.emailAddress.label     "כתובת דוא״ל">
+<!ENTITY setup.emailAddress.accesskey "כ">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "אני מסכים">
+<!ENTITY setup.tosAgree1.accesskey  "א">
+<!ENTITY setup.tosLink.label        "לתנאי השירות">
+<!ENTITY setup.tosAgree2.label      "וגם ל־">
+<!ENTITY setup.ppLink.label         "מדיניות הפרטיות">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "ו">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "הכנס את הקוד הסודי שלך">
+<!ENTITY passphraseDesc.label         "אנא הכנס קוד סודי. קוד זה ישמש להצפנה של כל המידע שלך כך שרק אתה תוכל לגשת אליו. קוד זה אינו נשמר בשרת, כך שרצוי שלא תאבד אותו!">
+<!ENTITY passphraseDesc2.label        "הקוד הסודי חייב להיות באורך של 12 תווים לפחות, ואינו יכול להיות זהה לססמה שלך.">
+<!ENTITY passphraseEntry.label        "קוד סודי">
+<!ENTITY passphraseEntry.accesskey    "ק">
+<!ENTITY passphraseConfirm.label      "אישור">
+<!ENTITY passphraseConfirm.accesskey  "א">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "העדפות Browser Sync">
+<!ENTITY syncComputerName.label       "שם מחשב:">
+<!ENTITY syncComputerName.accesskey   "ש">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName;:&rlm;">
+<!ENTITY syncModeSwitchDesc.accesskey "&">
+<!ENTITY syncEverything.label         "יסנכרן הכל">
+<!ENTITY customSync.label             "ישתמש בהגדרות המותאמות אישית שלי">
+<!ENTITY syncEverythingDescription.label  "הסימניות, ההיסטוריה, הססמאות, ההעדפות והלשוניות שלך יסונכרנו.">
+<!ENTITY syncItem.bookmarks.label     "יסנכרן סימניות">
+<!ENTITY syncItem.bookmarks.accesskey "י">
+<!ENTITY syncItem.tabs.label          "יסנכרן לשוניות">
+<!ENTITY syncItem.tabs.accesskey      "י">
+<!ENTITY syncItem.history.label       "יסנכרן היסטוריה">
+<!ENTITY syncItem.history.accesskey   "י">
+<!ENTITY syncItem.passwords.label     "יסנכרן ססמאות">
+<!ENTITY syncItem.passwords.accesskey "י">
+<!ENTITY syncItem.prefs.label         "יסנכרן העדפות">
+<!ENTITY syncItem.prefs.accesskey     "י">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "בבקשה אשר שאתה לא רובוט ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "הזנת פרטי חשבון">
+<!ENTITY resetPassword.label          "אפס סיסמה">
+<!ENTITY connecting.label             "מתחבר…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "הכנס קוד סודי">
+<!ENTITY passphraseDesc3.label        "בבקשה הכנס את הקוד הסודי שלך. קוד זה חייב להיות זהה לקוד שהכנסת כדי להצפין את הנתונים שלך.">
+<!ENTITY passphraseHelp.label         "הקוד הסודי שלך הוא באורך של 12 תווים לפחות ואינו הססמה שלך. תוכל לאתר את הקוד הסודי שלך במחשבים האחרים שלך בססמאות השמורות בתוך לשונית אבטחה. במידה ואינך יכול למצוא את הקוד הסודי הנכון, באפשרותך לאפס אותו, אך זה יגרום גם לאיבוד כל המידע שנשמר בשרת.">
+<!ENTITY changePassphrase.label       "שינוי קוד סודי">
+<!ENTITY verifying.label              "מאמת…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "מה ברצונך לעשות כעת?">
+<!ENTITY choice.merge.main.label      "אחד את הנתונים שבמחשב זה עם הנתונים של &syncBrand.shortName.label;">
+<!ENTITY choice.merge.recommend.label "אפשרות זו מומלצת מאד על ידי Mozilla לכלל המשתמשים.">
+<!ENTITY choice.client.main.label     "החלף את כל הנתונים שבמחשב זה עם הנתונים של &syncBrand.fullName.label;">
+<!ENTITY choice.server.main.label     "החלף את כל הנתונים במכשירים האחרים עם המידע המקומי">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "אשר את בחירתך">
+<!ENTITY confirm.merge.label          "בחרת לאחד מידע במחשב זה עם כל המידע שבמכשירים אחרים שמריצים &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label         "כל הנתונים של &brandShortName; במחשב זה ימחקו, כולל:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; יעתיק את כל הנתונים של &syncBrand.fullName.label; למחשב זה.">
+<!ENTITY confirm.client.warning.label "זהירות! פעולה זו תגרום שכל הנתונים של &brandShortName; במחשב זה יוחלפו!">
+<!ENTITY confirm.server.label         "הנתונים שבמכשירים הבאים יוחלף עם הנתונים המקומיים:">
+<!ENTITY confirm.server.warning.label "זהירות: הנתונים המקומיים יחליפו את הנתונים של &brandShortName; במכשירים אלו!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "ההתקנה הושלמה!">
+<!ENTITY setup.successPage.desc.label    "איחולים! &brandShortName; כעת מוגדר לסנכרון אוטומטי של המידע שלך. אל תשכח להתקין את &syncBrand.fullName.label; על כל המכשירים שלך. אתה יכול כעת להמשיך להשתמש ב־&brandShortName;.">
