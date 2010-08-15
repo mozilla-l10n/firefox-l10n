@@ -73,7 +73,7 @@
 <!ENTITY passphraseGroupbox.label     "Wprowadź szyfr">
 <!ENTITY passphraseDesc3.label        "Wprowadź szyfr. Musi być to ten sam szyfr, jaki jest używany do szyfrowania danych.">
 <!ENTITY passphraseHelp.label         "Szyfr zawiera przynajmniej 12 znaków i jest inny niż hasło. Jeśli nie pamiętasz szyfru, możesz go sprawdzić, korzystając z innego zsynchronizowanego urządzenia. Przejdź do karty Bezpieczeństwo znajdującej się w oknie dialogowym opcji i naciśnij przycisk Zapamiętane hasła… Jeśli nie znajdziesz tam właściwego szyfru, możesz go zresetować, ale stracisz wszystkie dane zapisane na serwerze.">
-<!ENTITY changePassphrase.label         "Zmień szyfr">
+<!ENTITY changePassphrase.label       "Zmień szyfr">
 <!ENTITY verifying.label              "Weryfikacja…">
 
 <!-- New & Existing Account: Merge Options -->
