@@ -267,7 +267,7 @@
 <!ENTITY appMenuSidebars.label "Sidestolper">
 <!ENTITY appMenuHelp.label "Hjelp">
 
-<!ENTITY developerMenu.label "Utvikler">
+<!ENTITY developerMenu.label "Utvikling">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gå til et nettsted">
