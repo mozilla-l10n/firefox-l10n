@@ -132,8 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Beranda">
-<!ENTITY tabViewButton.label          "Kelompok Tab">
-<!ENTITY tabViewButton.tooltip        "Buka antarmuka penelusur tab">
+<!ENTITY tabViewButton2.label          "Kelompok Tab">
+<!ENTITY tabViewButton2.tooltip        "Kelompokkan tab peramban Anda">
 
 <!ENTITY bookmarksButton.label          "Bookmark">
 <!ENTITY bookmarksButton.tooltip        "Menampilkan bookmark Anda">
@@ -240,8 +240,8 @@
 
 <!ENTITY viewMenu.label         "Tampilan"> 
 <!ENTITY viewMenu.accesskey       "T"> 
-<!ENTITY showTabView.label     "Tampilan Tab">
-<!ENTITY showTabView.accesskey     "n">
+<!ENTITY showTabView2.label     "Kelompokkan Tab">
+<!ENTITY showTabView2.accesskey     "n">
 <!ENTITY viewToolbarsMenu.label       "Bilah Alat"> 
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Bilah Samping">

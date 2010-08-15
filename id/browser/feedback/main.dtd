@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Pengaturan">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Beritahu ketika">
+<!ENTITY testpilot.settings.dataSubmission.label    "Pengiriman Data">
+<!ENTITY testpilot.settings.notifications.label     "Pemberitahuan">
+<!ENTITY testpilot.settings.notifyWhen.label        "Beritahu ketika…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Ada studi yang siap dikirim">
 <!ENTITY testpilot.settings.newStudy.label          "Ada studi baru">
 <!ENTITY testpilot.settings.hasNewResults.label     "Ada hasil baru dari sebuah studi">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Otomatis kirimkan data saya (jangan tanya lagi)">
-<!ENTITY testpilot.allStudies.label                 "Semua Studi Pengguna Anda">
+<!ENTITY testpilot.allYourStudies.label             "Semua Studi Pengguna Anda">
 <!ENTITY testpilot.about.label                      "Tentang Test Pilot">
 
 <!-- all studies window -->
