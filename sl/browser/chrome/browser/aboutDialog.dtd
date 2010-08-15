@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion "različice">
 <!ENTITY closeCmdGNOME.label        "Zapri">  
 <!ENTITY closeCmdGNOME.accesskey    "Z">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Sodelavci. Vse pravice pridržane. (">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Podatki o dovoljenjih">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkSuffix          ".">

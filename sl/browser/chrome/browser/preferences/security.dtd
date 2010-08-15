@@ -33,11 +33,3 @@
 
 <!ENTITY savedPasswords.label "Shranjena gesla...">
 <!ENTITY savedPasswords.accesskey "G">
-
-
-<!ENTITY warnings.label "Varnostna opozorila">
-
-<!ENTITY chooseWarnings.label "Izberite, katera varnostna opozorila želite videti med brskanjem po spletu.">
-
-<!ENTITY warningSettings.label "Nastavitve ...">
-<!ENTITY warningSettings.accesskey "N">
