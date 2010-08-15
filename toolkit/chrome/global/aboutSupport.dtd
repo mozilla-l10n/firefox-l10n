@@ -8,7 +8,6 @@
   <a id='supportLink'>Hilfeseite</a>.
 ">
 
-
 <!ENTITY aboutSupport.extensionsTitle "Erweiterungen">
 <!ENTITY aboutSupport.extensionName "Name">
 <!ENTITY aboutSupport.extensionEnabled "Aktiviert">
@@ -32,6 +31,10 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsTitle "Modifizierte Einstellungen">
 <!ENTITY aboutSupport.modifiedPrefsName "Name">
 <!ENTITY aboutSupport.modifiedPrefsValue "Wert">
+
+<!ENTITY aboutSupport.graphicsTitle "Grafik">
+<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
+<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D aktiviert">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Installations-Chronik">
 <!ENTITY aboutSupport.updateHistoryTitle "Update-Chronik">
