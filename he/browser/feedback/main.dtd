@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "הגדרות">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "הודע לי כאשר">
+<!ENTITY testpilot.settings.dataSubmission.label    "Data Submission">
+<!ENTITY testpilot.settings.notifications.label     "Notifications">
+<!ENTITY testpilot.settings.notifyWhen.label        "Notify me when…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "מבחן מוכן לשליחה">
 <!ENTITY testpilot.settings.newStudy.label          "קיים מבחן חדש">
 <!ENTITY testpilot.settings.hasNewResults.label     "למבחן ישנן תוצאות חדשות">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "שליחה אוטומטית של המידע שלי (אל תשאל אותי)">
-<!ENTITY testpilot.allStudies.label                 "כל מבחני הרגלי השימוש שלך">
+<!ENTITY testpilot.allYourStudies.label             "All Your User Studies…">
 <!ENTITY testpilot.about.label                      "אודות Test Pilot">
 
 <!-- all studies window -->
