@@ -18,7 +18,7 @@
   <li>Periksa kesalahan pengetikan pada alamat seperti
     <strong>ww</strong>.example.com yang seharusnya
     <strong>www</strong>.example.com</li>
-  <li>Bila Anda tidak dapat memuat laman apapun, periksa sambungan jaringan komputer
+  <li>Bila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer
     Anda.</li>
   <li>Bila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan
     bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
@@ -136,7 +136,7 @@
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.</li>
-  <li>Apabila Anda tidak dapat memuat laman apapun, periksa sambungan jaringan komputer Anda.</li>
+  <li>Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer Anda.</li>
   <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li>
 </ul>
 ">

@@ -62,7 +62,7 @@
 <!ENTITY retentionCleanupPop.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk pesan asli yang disimpan di server.">
 <!ENTITY retentionDeleteMsg.label "Hapus pesan yang lebih dari">
 <!ENTITY retentionDeleteMsg.accesskey "l">
-<!ENTITY retentionKeepAll.label "Jangan hapus pesan apapun">
+<!ENTITY retentionKeepAll.label "Jangan hapus pesan apa pun">
 <!ENTITY retentionKeepAll.accesskey "J">
 <!ENTITY retentionKeepRecent.label "Hapus selain yang paling akhir">
 <!ENTITY retentionKeepRecent.accesskey "a">

@@ -49,7 +49,7 @@
 <!ENTITY  rememberActions.removeCookies.label "menghapus cookie satu-persatu">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan pengaturan seperti halnya pengaturan mode penjelahan pribadi dan tidak akan menyimpan riwayat apapun ketika Anda menjelajah Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
