@@ -132,8 +132,8 @@
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label "Baile">
-<!ENTITY tabViewButton.label "Tacair Chluaisíní">
-<!ENTITY tabViewButton.tooltip "Open a visual tab interface">
+<!ENTITY tabViewButton2.label "Grúpaí Cluaisíní">
+<!ENTITY tabViewButton2.tooltip "Grúpáil Do Chluaisíní">
 
 <!ENTITY bookmarksButton.label "Leabharmharcanna">
 <!ENTITY bookmarksButton.tooltip "Taispeáin do leabharmharcanna">
@@ -240,8 +240,8 @@
 
 <!ENTITY viewMenu.label "Amharc">
 <!ENTITY viewMenu.accesskey "A">
-<!ENTITY showTabView.label "Amharc Cluaisíní">
-<!ENTITY showTabView.accesskey "C">
+<!ENTITY showTabView2.label "Grúpáil Do Chluaisíní…">
+<!ENTITY showTabView2.accesskey "G">
 <!ENTITY viewToolbarsMenu.label "Barraí Uirlisí">
 <!ENTITY viewToolbarsMenu.accesskey "U">
 <!ENTITY viewSidebarMenu.label "Barra Taoibh">
