@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Inställningar">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Meddela mig när">
+<!ENTITY testpilot.settings.dataSubmission.label    "Sändande av data">
+<!ENTITY testpilot.settings.notifications.label     "Meddelanden">
+<!ENTITY testpilot.settings.notifyWhen.label        "Meddela mig när…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "En studie är klar att skickas">
 <!ENTITY testpilot.settings.newStudy.label          "Det finns en ny studie">
 <!ENTITY testpilot.settings.hasNewResults.label     "En studie har nya resultat">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Skicka automatiskt data (fråga mig inte)">
-<!ENTITY testpilot.allStudies.label                 "Alla dina användarstudier">
+<!ENTITY testpilot.allYourStudies.label             "Alla dina användarstudier…">
 <!ENTITY testpilot.about.label                      "Om Test Pilot">
 
 <!-- all studies window -->
