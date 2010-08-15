@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privát böngészés)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Lap áthelyezése...">
+<!ENTITY moveTabTo.accesskey                "L">
+<!ENTITY  createNewGroup.label               "Új csoport létrehozása">
+<!ENTITY createNewGroup.accesskey           "C">
+<!ENTITY  namedGroups.label                  "Névvel ellátott csoportok">
 <!ENTITY  reloadTab.label                    "Lap frissítése">
 <!ENTITY reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Összes lap frissítése">
@@ -119,6 +124,7 @@
 <!ENTITY printButton.label            "Nyomtatás">
 <!ENTITY printButton.tooltip          "Oldal kinyomtatása">
 
+<!ENTITY backForwardItem.title        "Előre/Vissza">
 <!ENTITY locationItem.title           "Hely">
 <!ENTITY searchItem.title             "Keresés">
 <!ENTITY throbberItem.title           "Aktivitásjelző">
@@ -126,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Kezdőlap">
+<!ENTITY tabViewButton2.label         "Lapcsoportok">
+<!ENTITY tabViewButton2.tooltip       "Lapok csoportosítása">
 
 <!ENTITY bookmarksButton.label          "Könyvjelzők">
 <!ENTITY bookmarksButton.tooltip        "Könyvjelzők megjelenítése">
@@ -232,6 +240,8 @@
 
 <!ENTITY viewMenu.label         "Nézet"> 
 <!ENTITY viewMenu.accesskey       "N"> 
+<!ENTITY showTabView2.label     "Lapok csoportosítása...">
+<!ENTITY showTabView2.accesskey     "L">
 <!ENTITY viewToolbarsMenu.label       "Eszköztárak"> 
 <!ENTITY viewToolbarsMenu.accesskey     "E"> 
 <!ENTITY viewSidebarMenu.label "Oldalsáv">
@@ -261,7 +271,7 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ugrás egy webhelyre">
-<!ENTITY urlbar.accesskey             "D">
+<!ENTITY urlbar.accesskey             "U">
 <!ENTITY urlbar.switchToTab.label     "Váltás erre a lapra:">
 
 <!-- 
