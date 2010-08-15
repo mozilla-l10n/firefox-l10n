@@ -46,7 +46,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "N">
 <!ENTITY reuseExpRadio1.label          "Vorhandenem Fenster">
 <!ENTITY reuseExpRadio1.accesskey      "V">
-<!ENTITY closeMsgWindowOnDelete.label  "Nachrichtenfenster beim Löschen schließen">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Nachrichtenfenster beim Verschieben oder Löschen schließen">
 <!ENTITY closeMsgWindowOnDelete.accesskey "h">
 
 <!-- Update -->
