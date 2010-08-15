@@ -43,6 +43,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privat surfning)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Flytta fliken till…">
+<!ENTITY  moveTabTo.accesskey                "F">
+<!ENTITY  createNewGroup.label               "Skapa ny grupp">
+<!ENTITY  createNewGroup.accesskey           "S">
+<!ENTITY  namedGroups.label                  "Namngivna grupper">
 <!ENTITY  reloadTab.label          "Uppdatera flik">
 <!ENTITY  reloadTab.accesskey      "U">
 <!ENTITY  reloadAllTabs.label      "Uppdatera alla flikar">
@@ -158,6 +163,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Startsida">
+<!ENTITY tabViewButton2.label         "Flikgrupper">
+<!ENTITY tabViewButton2.tooltip       "Gruppera dina flikar">
 
 <!ENTITY bookmarksButton.label          "Bokmärken">
 <!ENTITY bookmarksButton.tooltip        "Visa dina bokmärken">
@@ -264,6 +271,8 @@
 
 <!ENTITY viewMenu.label         "Visa"> 
 <!ENTITY viewMenu.accesskey       "s"> 
+<!ENTITY showTabView2.label     "Flikgrupper">
+<!ENTITY showTabView2.accesskey     "F">
 <!ENTITY viewToolbarsMenu.label       "Verktygsfält"> 
 <!ENTITY viewToolbarsMenu.accesskey     "V"> 
 <!ENTITY viewSidebarMenu.label "Sidofält">
