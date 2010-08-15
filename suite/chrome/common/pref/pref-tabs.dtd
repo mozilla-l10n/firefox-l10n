@@ -12,17 +12,3 @@
 <!ENTITY loadGroupReplace.label "Existierende Tabs ersetzen">
 <!ENTITY loadGroupReplace.accesskey "r">
 <!ENTITY openTabs.label "Tabs statt Fenster öffnen bei">
-
-<!ENTITY newWindow.label "Verhalten beim Öffnen von Links">
-<!ENTITY newWindowDescription.label "Links, die neue Fenster öffnen sollten, öffnen in">
-<!ENTITY external.label "Links aus anderen Anwendungen">
-<!ENTITY externalDescription.label "Links aus anderen Anwendungen öffnen in">
-<!ENTITY openCurrent.label "Aktuellem Tab/Fenster">
-<!ENTITY newWindowGroupCurrent.accesskey "k">
-<!ENTITY externalGroupCurrent.accesskey "A">
-<!ENTITY openTab.label "Neuem Tab im aktuellen Fenster">
-<!ENTITY newWindowGroupTab.accesskey "N">
-<!ENTITY externalGroupTab.accesskey "T">
-<!ENTITY openWindow.label "Neuem Fenster">
-<!ENTITY newWindowGroupWindow.accesskey "e">
-<!ENTITY externalGroupWindow.accesskey "F">

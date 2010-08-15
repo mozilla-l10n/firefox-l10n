@@ -7,13 +7,6 @@
 <!ENTITY useSiteIcons.accesskey                 "W">
 <!ENTITY useFavIcons.label                      "Aggressiv nach Website-Symbolen suchen, wenn die Seite keines definiert">
 <!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY tbIconsDescription.label               "Website-Symbole in Lesezeichen-Menü und -Symbolleiste anzeigen:">
-<!ENTITY tbIconsNever.label                     "Symbole nie für Lesezeichen anzeigen">
-<!ENTITY tbIconsNever.accesskey                 "y">
-<!ENTITY tbIconsCache.label                     "Nur wenn die Website kürzlich geladen wurde">
-<!ENTITY tbIconsCache.accesskey                 "N">
-<!ENTITY tbIconsAlways.label                    "Website-Symbole für Lesezeichen immer laden">
-<!ENTITY tbIconsAlways.accesskey                "b">
 <!ENTITY enableAutomaticImageResizing.label     "Große Grafiken verkleinern, damit sie ins Browser-Fenster passen">
 <!ENTITY enableAutomaticImageResizing.accesskey "G">
 <!ENTITY useSmoothScroll.label                  "Sanftes Scrollen verwenden">

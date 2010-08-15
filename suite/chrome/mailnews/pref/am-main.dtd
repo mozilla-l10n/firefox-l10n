@@ -19,7 +19,7 @@
 <!ENTITY signatureHtml.accesskey "T">
 <!ENTITY signatureFile.label "Stattdessen die Signatur aus einer Datei anhängen:">
 <!ENTITY signatureFile.accesskey "u">
-<!ENTITY choose.label "Durchsuchen…">
+<!ENTITY choose.label "Wählen…">
 <!ENTITY choose.accesskey "D">
 <!ENTITY editVCard.label "Karte bearbeiten…">
 <!ENTITY editVCard.accesskey "K">

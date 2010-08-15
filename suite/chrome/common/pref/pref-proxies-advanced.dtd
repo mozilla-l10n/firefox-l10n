@@ -8,15 +8,12 @@
 <!ENTITY  ssl.accesskey               "L">
 <!ENTITY  ftp.label                   "FTP-Proxy:">
 <!ENTITY  ftp.accesskey               "F">
-<!ENTITY  gopher.label                "Gopher-Proxy:">
-<!ENTITY  gopher.accesskey            "G">
 <!ENTITY  reuseProxy.label            "Gleichen Proxy für alle Protokolle verwenden">
 <!ENTITY  reuseProxy.accesskey        "v">
 <!ENTITY  port.label                  "Port:">
 <!ENTITY  HTTPPort.accesskey          "P">
 <!ENTITY  SSLPort.accesskey           "o">
 <!ENTITY  FTPPort.accesskey           "r">
-<!ENTITY  gopherPort.accesskey        "">
 
 <!ENTITY  socks.caption               "Generischer Proxy">
 <!ENTITY  socks.description           "Ein SOCKS-Proxy ist ein generischer Proxy, der manchmal in Firmen oder ähnlichen Umgebungen verwendet wird.">

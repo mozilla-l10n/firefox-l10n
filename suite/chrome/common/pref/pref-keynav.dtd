@@ -19,3 +19,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Nur Links">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "N">
 
+<!ENTITY findAsYouTypeFindbarEnable.label "Die Suchleiste beim Suchen während der Eingabe anzeigen">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "c">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Anmerkung: Das Suchen während der Eingabe ohne Anzeige der Suchleiste erlaubt keine erweitere Eingabe von internationalem Text.">
