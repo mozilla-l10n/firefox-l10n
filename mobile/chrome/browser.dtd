@@ -90,3 +90,10 @@
 <!ENTITY contextShareImage.label      "Kép megosztása">
 <!ENTITY contextEditBookmark.label    "Szerkesztés">
 <!ENTITY contextRemoveBookmark.label  "Eltávolítás">
+
+<!ENTITY pageactions.saveas.pdf      "Mentés PDF-ként">
+<!ENTITY pageactions.share.page      "Oldal megosztása">
+<!ENTITY pageactions.password.forget "Jelszó elfelejtése">
+<!ENTITY pageactions.reset           "Webhelybeállítások törlése">
+<!ENTITY pageactions.findInPage      "Keresés az oldalon">
+<!ENTITY pageactions.search.addNew   "Keresőszolgáltatás hozzáadása">

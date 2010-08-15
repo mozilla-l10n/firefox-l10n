@@ -10,8 +10,6 @@
 
 <!ENTITY restorepage.tryagainButton "Visszaállítás">
 <!ENTITY restorepage.restore.access "V">
-<!ENTITY restorepage.cancelButton   "Új munkamenet indítása">
-<!ENTITY restorepage.cancel.access  "m">
 
 <!ENTITY restorepage.restoreHeader  "Visszaállítás">
 <!ENTITY restorepage.listHeader     "Ablakok és lapok">

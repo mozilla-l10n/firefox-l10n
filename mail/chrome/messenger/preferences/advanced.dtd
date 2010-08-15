@@ -45,7 +45,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "z">
 <!ENTITY reuseExpRadio1.label          "Létező üzenetablakban">
 <!ENTITY reuseExpRadio1.accesskey      "l">
-<!ENTITY closeMsgWindowOnDelete.label  "Üzenetablak bezárása törléskor">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Üzenetablak bezárása áthelyezéskot vagy törléskor">
 <!ENTITY closeMsgWindowOnDelete.accesskey "t">
 
 <!-- Update -->
