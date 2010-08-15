@@ -50,16 +50,16 @@
 <!ENTITY syncModeSwitchDesc.accesskey "F">
 <!ENTITY syncEverything.label         "Menyinkronisasi Semua Data">
 <!ENTITY customSync.label             "Gunakan pengaturan pilihan saya">
-<!ENTITY syncEverythingDescription.label  "Data Bookmark, riwayat, sandi, pengaturan, dan tab Anda akan disinkronkan.">
-<!ENTITY syncItem.bookmarks.label     "Sinkronkan Bookmark">
+<!ENTITY syncEverythingDescription.label  "Data Bookmark, riwayat, sandi, pengaturan, dan tab Anda akan disinkronisasikan.">
+<!ENTITY syncItem.bookmarks.label     "Sinkronisasikan Bookmark">
 <!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sinkronkan Tab">
+<!ENTITY syncItem.tabs.label          "Sinkronisasikan Tab">
 <!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "Sinkronkan Riwayat">
+<!ENTITY syncItem.history.label       "Sinkronisasikan Riwayat">
 <!ENTITY syncItem.history.accesskey   "w">
-<!ENTITY syncItem.passwords.label     "Sinkronkan Sandi">
+<!ENTITY syncItem.passwords.label     "Sinkronisasikan Sandi">
 <!ENTITY syncItem.passwords.accesskey "i">
-<!ENTITY syncItem.prefs.label         "Sinkronkan Pengaturan">
+<!ENTITY syncItem.prefs.label         "Sinkronisasikan Pengaturan">
 <!ENTITY syncItem.prefs.accesskey     "p">
 
 <!-- New Account Page 4: Captcha -->
@@ -95,4 +95,4 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title.label   "Penyetelan Selesai!">
-<!ENTITY setup.successPage.desc.label    "Selamat ya! &brandShortName; telah disetel untuk menyinkronkan data Anda secara otomatis. Jangan lupa untuk memasang &syncBrand.fullName.label; di semua komputer dan perangkat Anda. Kini Anda dapat melanjutkan menggunakan &brandShortName;.">
+<!ENTITY setup.successPage.desc.label    "Selamat ya! &brandShortName; telah disetel untuk menyinkronisasikan data Anda secara otomatis. Jangan lupa untuk memasang &syncBrand.fullName.label; di semua komputer dan perangkat Anda. Kini Anda dapat melanjutkan menggunakan &brandShortName;.">
