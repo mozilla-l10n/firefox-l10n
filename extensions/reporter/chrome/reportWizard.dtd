@@ -39,7 +39,7 @@
 <!ENTITY reportForm.platform.title                  "מערכת:">
 <!ENTITY reportForm.product.title                   "מוצר:">
 <!ENTITY reportForm.gecko.title                     "ג'קו:">
-<!ENTITY reportForm.useragent.title                 "Useragent:">
+<!ENTITY reportForm.useragent.title                 "סוכן משתמש:">
 <!ENTITY reportForm.language.title                  "שפה:">
 
 <!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
