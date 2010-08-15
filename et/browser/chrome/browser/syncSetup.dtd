@@ -4,7 +4,7 @@
 
 <!ENTITY setup.choicePage.title.label       "Kas sa oled varem kasutanud &syncBrand.fullName.label;i?">
 <!ENTITY setup.choicePage.new.label         "Ma pole varem &syncBrand.shortName.label;i kasutanud">
-<!ENTITY setup.choicePage.existing.label    "Ma juba kasutan &syncBrand.shortName.label;i teisel arvutil">
+<!ENTITY setup.choicePage.existing.label    "Ma juba kasutan &syncBrand.shortName.label;i teises arvutis">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY connectTo.label                    "Ühendu">
@@ -80,7 +80,7 @@
 <!-- New & Existing Account: Merge Options -->
 <!ENTITY setup.mergeChoicePage.title.label  "Kuidas sa soovid alustada?">
 <!ENTITY choice.merge.main.label            "Ühenda selle arvuti andmed &syncBrand.shortName.label;i andmetega">
-<!ENTITY choice.merge.recommend.label       "Mozilla rangelt soovitab seda valikut kõigile kasutajatele.">
+<!ENTITY choice.merge.recommend.label       "Mozilla soovitab tungivalt seda valikut kõigile kasutajatele.">
 <!ENTITY choice.client.main.label           "Asenda kõik selle arvuti andmed &syncBrand.fullName.label;i andmetega">
 <!ENTITY choice.server.main.label           "Asenda teiste seadmete andmed selle arvuti andmetega">
 
@@ -89,9 +89,9 @@
 <!ENTITY confirm.merge.label                "Sa oled valinud selle arvuti andmete ühendamise teiste &syncBrand.fullName.label;i kasutavate seadmete andmetega.">
 <!ENTITY confirm.client.label               "Kõik &brandShortName;i andmed selles arvutis kustutatakse, ka järgnevad:">
 <!ENTITY confirm.client.moreinfo.label      "&brandShortName; kopeerib pärast seda &syncBrand.fullName.label;i andmed sellesse arvutisse.">
-<!ENTITY confirm.client.warning.label       "HOIATUS: Lõpptulemusena asendatakse kõik &brandShortName;i andmed selles arvutis!">
+<!ENTITY confirm.client.warning.label       "HOIATUS: lõpptulemusena asendatakse kõik &brandShortName;i andmed selles arvutis!">
 <!ENTITY confirm.server.label               "Järgnevate seadmete andmed kirjutatakse üle selle arvuti andmetega:">
-<!ENTITY confirm.server.warning.label       "HOIATUS: Selle arvuti andmed asendavad kõik &brandShortName;i andmed nendes seadmetes!">
+<!ENTITY confirm.server.warning.label       "HOIATUS: selle arvuti andmed asendavad kõik &brandShortName;i andmed nendes seadmetes!">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title.label   "Seadistamine on lõpetatud!">

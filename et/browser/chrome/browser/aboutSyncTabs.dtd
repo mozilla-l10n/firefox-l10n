@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
 <!ENTITY tabs.otherComputers.label                   "Kaardid teistest arvutitest">
 
-<!ENTITY tabs.searchText.label                       "Kaartide leidmiseks tipi siia…">
+<!ENTITY tabs.searchText.label                       "Kaartide leidmiseks kirjuta siia…">
 
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
