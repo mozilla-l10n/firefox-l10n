@@ -70,3 +70,9 @@
 <!ENTITY contextShareImage.label "Compartir imagen">
 <!ENTITY contextEditBookmark.label "Editar">
 <!ENTITY contextRemoveBookmark.label "Eliminar">
+<!ENTITY pageactions.saveas.pdf "Guardar como PDF">
+<!ENTITY pageactions.share.page "Compartir página">
+<!ENTITY pageactions.password.forget "Olvidar contraseña">
+<!ENTITY pageactions.reset "Limpiar preferencias del sitio">
+<!ENTITY pageactions.findInPage "Buscar en la página">
+<!ENTITY pageactions.search.addNew "Añadir motor de búsqueda">
