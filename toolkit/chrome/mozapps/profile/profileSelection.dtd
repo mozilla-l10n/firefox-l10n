@@ -51,7 +51,7 @@
 <!ENTITY deleteButton.accesskey "E">
 <!-- manager entities -->
 <!ENTITY pmDescription.label "&brandShortName; geymir fyrir þig upplýsingar um stillingar, og aðra hluti í notandastillingum.">
-<!ENTITY offlineState.label "Vinna ótengdur">
+<!ENTITY offlineState.label "Vinna án nettengingar">
 <!ENTITY offlineState.accesskey "n">
 <!ENTITY autoSelect.label "Ekki spyrja í ræsingu">
 <!ENTITY autoSelect.accesskey "s">

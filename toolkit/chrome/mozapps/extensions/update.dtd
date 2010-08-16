@@ -1,5 +1,5 @@
 <!ENTITY updateWizard.title "&brandShortName; Uppfærsla">
-<!ENTITY offline.title "&brandShortName; er að vinna ótengdur">
+<!ENTITY offline.title "&brandShortName; er að vinna án nettengingar">
 <!ENTITY offline.description "&brandShortName; þarf að athuga á netinu til að sjá hvort einhverjar uppfærslur
                                            er til fyrir núverandi viðbætur til þess að gera þær samhæfðar við þessa
                                            útgáfu.">

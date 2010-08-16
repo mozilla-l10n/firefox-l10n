@@ -54,8 +54,8 @@
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY import.label "Flytja inn…">
 <!ENTITY import.accesskey "i">
-<!ENTITY goOfflineCmd.label "Vinna ótengdur">
-<!ENTITY goOfflineCmd.accesskey "d">
+<!ENTITY goOfflineCmd.label "Vinna án nettengingar">
+<!ENTITY goOfflineCmd.accesskey "g">
 <!ENTITY menubarCmd.label "Valmyndaslá">
 <!ENTITY menubarCmd.accesskey "V">
 <!ENTITY navbarCmd.label "Flakktækjaslá">
@@ -84,7 +84,7 @@
 <!ENTITY fullScreenExit.label "Ekki fylla skjá">
 <!ENTITY fullScreenExit.accesskey "f">
 <!ENTITY closeWindow.label "Loka glugga">
-<!ENTITY closeWindow.accesskey "g">
+<!ENTITY closeWindow.accesskey "k">
 <!ENTITY bookmarksMenu.label "Bókamerki">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Setja síðu í bókamerki">
