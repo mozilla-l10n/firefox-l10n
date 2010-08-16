@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Випробувач">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Налаштування">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Сповіщати мене коли">
+<!ENTITY testpilot.settings.dataSubmission.label    "Відсилання даних">
+<!ENTITY testpilot.settings.notifications.label     "Сповіщення">
+<!ENTITY testpilot.settings.notifyWhen.label        "Сповіщати мене коли…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Дослід готовий до надсилання">
 <!ENTITY testpilot.settings.newStudy.label          "Є новий Дослід">
 <!ENTITY testpilot.settings.hasNewResults.label     "Дослід має нові результати">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Автоматично надсилати мої дані (не питати мене)">
-<!ENTITY testpilot.allStudies.label                 "Всі ваші Досліди">
+<!ENTITY testpilot.allYourStudies.label             "Всі ваші Досліди…">
 <!ENTITY testpilot.about.label                      "Про Випробувача">
 
 <!-- all studies window -->
