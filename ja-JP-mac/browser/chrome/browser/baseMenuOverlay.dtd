@@ -10,18 +10,20 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label		"ヘルプ"> 
 <!ENTITY helpMenuWin.accesskey		"H">
-<!ENTITY aboutCmd.label			"&brandFullName; について">
-<!ENTITY aboutCmd.accesskey		"A">
-<!ENTITY helpContents.label		"&brandShortName; ヘルプ">
-<!ENTITY helpContents.accesskey		"H">
-<!ENTITY helpContentsMac.label		"&brandShortName; ヘルプ">
+<!ENTITY aboutProduct.label		"&brandShortName; について">
+<!ENTITY aboutProduct.accesskey		"A">
+<!ENTITY productHelp.label		"&brandShortName; ヘルプ">
+<!ENTITY productHelp.accesskey		"H">
 <!ENTITY helpForIEUsers.label		"Internet Explorer ユーザのために">
 <!ENTITY helpForIEUsers.accesskey	"I">
-<!ENTITY openHelp.commandkey		"VK_F1">
 <!ENTITY helpMac.commandkey		"?">
 
 <!ENTITY helpReleaseNotes.label		"リリースノート">
 <!ENTITY helpReleaseNotes.accesskey	"N">
+
+<!ENTITY helpTroubleshootingInfo.label	"トラブルシューティング情報...">
+<!ENTITY helpTroubleshootingInfo.accesskey "T">
+
 <!ENTITY updateCmd.label		"ソフトウェアの更新を確認...">
 
 <!ENTITY preferencesCmdMac.label        "環境設定...">
