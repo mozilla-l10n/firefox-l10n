@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "Налаштування &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Чи використовували ви &syncBrand.fullName.label; дотепер?">
+<!ENTITY setup.choicePage.new.label       "Ніколи">
+<!ENTITY setup.choicePage.existing.label  "Вже використовую цей додаток на іншому пристрої">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "З’єднатися з">
+<!ENTITY serverType.main.label      "Сервер &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Використати власний сервер">
+<!ENTITY signIn.username.label      "Ім’я користувача">
+<!ENTITY signIn.username.accesskey  "І">
+<!ENTITY signIn.password.label      "Пароль">
+<!ENTITY signIn.password.accesskey  "П">
+<!ENTITY signIn.serverURL.label     "Адреса сервера">
+<!ENTITY signIn.serverURL.accesskey "А">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Створити обліковий запис синхронізації">
+<!ENTITY setup.confirmPassword.label  "Підтвердження пароля">
+<!ENTITY setup.confirmPassword.accesskey  "д">
+<!ENTITY setup.emailAddress.label     "Адреса електронної пошти">
+<!ENTITY setup.emailAddress.accesskey "е">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Я погоджуюсь з">
+<!ENTITY setup.tosAgree1.accesskey  "Я">
+<!ENTITY setup.tosLink.label        "умовами використання служби">
+<!ENTITY setup.tosAgree2.label      "та">
+<!ENTITY setup.ppLink.label         "політикою конфіденційності">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Ввести таємну фразу">
+<!ENTITY passphraseDesc.label         "Будь ласка, введіть таємну фразу. Її буде використано для шифрування всієї вашої інформації і захисту від несанкціонованого доступу. Фраза не зберігається на сервері, тому не забудьте її!">
+<!ENTITY passphraseDesc2.label        "Фраза повинна мати мінімальну довжину 12 символів і не збігатися з паролем вашого облікового запису.">
+<!ENTITY passphraseEntry.label        "Таємна фраза">
+<!ENTITY passphraseEntry.accesskey    "ф">
+<!ENTITY passphraseConfirm.label      "Підтвердження">
+<!ENTITY passphraseConfirm.accesskey  "т">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Вподобання синхронізації браузера">
+<!ENTITY syncComputerName.label       "Назва комп’ютера:">
+<!ENTITY syncComputerName.accesskey   "к">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; буде: ">
+<!ENTITY syncModeSwitchDesc.accesskey "у">
+<!ENTITY syncEverything.label         "Синхронізувати все">
+<!ENTITY customSync.label             "Використовувати мої налаштування">
+<!ENTITY syncEverythingDescription.label  "Ваші закладки, історія, паролі, налаштування та вкладки будуть синхронізуватися.">
+<!ENTITY syncItem.bookmarks.label     "Синхронізувати закладки">
+<!ENTITY syncItem.bookmarks.accesskey "з">
+<!ENTITY syncItem.tabs.label          "Синхронізувати вкладки">
+<!ENTITY syncItem.tabs.accesskey      "в">
+<!ENTITY syncItem.history.label       "Синхронізувати історію">
+<!ENTITY syncItem.history.accesskey   "і">
+<!ENTITY syncItem.passwords.label     "Синхронізувати паролі">
+<!ENTITY syncItem.passwords.accesskey "п">
+<!ENTITY syncItem.prefs.label         "Синхронізувати налаштування">
+<!ENTITY syncItem.prefs.accesskey     "н">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Будь ласка, доведіть, що ви — не робот ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Введіть інформацію облікового запису">
+<!ENTITY resetPassword.label          "Стерти пароль">
+<!ENTITY connecting.label             "З’єднання…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Введіть таємну фразу">
+<!ENTITY passphraseDesc3.label        "Будь ласка, введіть таємну фразу. Вона повинна збігатися з тією, що була використана на інших пристроях.">
+<!ENTITY passphraseHelp.label         "Ваша таємна фраза має мінімальну довжину 12 символів і не є вашим паролем. Пригадати цю фразу ви зможете, переглянувши інформацію про збережені паролі у вкладці Безпека на іншому комп’ютері. Якщо все ж вам не вдалось згадати таємну фразу, ви можете стерти її, однак це призведе до втрати всіх ваших даних на сервері.">
+<!ENTITY changePassphrase.label       "Змінити таємну фразу">
+<!ENTITY verifying.label              "Перевірка…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Як бажаєте почати?">
+<!ENTITY choice.merge.main.label      "Об’єднати дані на цьому комп’ютері з даними на сервері">
+<!ENTITY choice.merge.recommend.label "Рекомендовано Mozilla для всіх користувачів.">
+<!ENTITY choice.client.main.label     "Замінити дані на цьому комп’ютері даними &syncBrand.fullName.label;">
+<!ENTITY choice.server.main.label     "Замінити дані на інших пристроях локальними даними з цього комп’ютера">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Підтвердьте свій вибір">
+<!ENTITY confirm.merge.label          "Ви обрали об’єднання даних на цьому комп’ютері з даними на інших пристроях, що використовують синхронізацію  &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label         "Всі дані &brandShortName; на цьому комп’ютері будуть стерті, включно з:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; скопіює дані &syncBrand.fullName.label; на цей комп’ютер.">
+<!ENTITY confirm.client.warning.label "УВАГА: це призведе до заміни всіх даних &brandShortName; на цьому комп’ютері!">
+<!ENTITY confirm.server.label         "Дані на таких пристроях будуть замінені локальними даними:">
+<!ENTITY confirm.server.warning.label "УВАГА: Ваші локальні дані замінять всі дані &brandShortName; на цих пристроях!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Налаштування завершено!">
+<!ENTITY setup.successPage.desc.label    "Вітання! Додаток налаштовано для автоматичної синхронізації вашої інформації. Не забудьте встановити &syncBrand.fullName.label; на всіх своїх пристроях. Ви можете продовжити використання &brandShortName;.">
