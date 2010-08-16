@@ -39,7 +39,7 @@
 <!ENTITY insertSmiley.accesskey "E">
 <!ENTITY smiley1Cmd.label "Sonriendo">
 <!ENTITY smiley1Cmd.accesskey "S">
-<!ENTITY smiley1Cmd.tooltip "Insertar un emoticón">
+<!ENTITY smiley1Cmd.tooltip "Insertar un emoticono">
 <!ENTITY smiley2Cmd.label "Frunciendo el ceño">
 <!ENTITY smiley2Cmd.accesskey "F">
 <!ENTITY smiley2Cmd.tooltip "Insertar cara de fruncir">
