@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "설정">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "알림 설정:">
+<!ENTITY testpilot.settings.dataSubmission.label    "데이터 전송">
+<!ENTITY testpilot.settings.notifications.label     "알림 목록">
+<!ENTITY testpilot.settings.notifyWhen.label        "알림 설정…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "과제 제출 준비될 때">
 <!ENTITY testpilot.settings.newStudy.label          "새 과제가 나올 때">
 <!ENTITY testpilot.settings.hasNewResults.label     "새 결과가 나올 때">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "자동 결과 보내기 (묻지 않음)">
-<!ENTITY testpilot.allStudies.label                 "사용자 테스트 전체 목록">
+<!ENTITY testpilot.allYoursStudies.label                 "사용자 테스트 전체 목록">
 <!ENTITY testpilot.about.label                      "Test Pilot 소개">
 
 <!-- all studies window -->
@@ -25,6 +27,6 @@
 
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "과제 수행 시작">
-<!ENTITY testpilot.feedbackbutton.label                "사용 평가">
+<!ENTITY testpilot.feedbackbutton.label                "의견 보내기">
 <!ENTITY testpilot.happy.label        "사용 중 Firefox 장점 보내기…">
 <!ENTITY testpilot.sad.label          "사용 중 Firefox 단점 보내기…">
