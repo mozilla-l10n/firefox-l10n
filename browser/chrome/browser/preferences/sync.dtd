@@ -8,13 +8,13 @@
 <!ENTITY currentUser.label            "Utilizator curent:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "Actualizează">
+<!ENTITY resetPass.label              "Resetează">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gestionează contul">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassword.label         "Schimbare parolă">
 <!ENTITY changePassphrase.label       "Schimbă fraza secretă">
 <!ENTITY resetSync.label              "Resetează sincronizarea">
 <!ENTITY differentAccount.label       "Folosește un alt cont">
@@ -24,7 +24,7 @@
 <!ENTITY syncComputerName.label       "Nume calculator:">
 <!ENTITY syncComputerName.accesskey   "c">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; va: ">
-<!ENTITY syncModeSwitchDesc.accesskey "&">
+<!ENTITY syncModeSwitchDesc.accesskey "v">
 <!ENTITY syncEverything.label         "sincroniza totul">
 <!ENTITY customSync.label             "folosi setările mele personalizate">
 <!ENTITY syncEverythingDescription.label  "Se vor sincroniza semnele de carte, istoricul, parolele, preferințele și filele.">

@@ -38,7 +38,7 @@
 <!ENTITY  closeTab.label                     "Close Tab">
 <!ENTITY  closeTab.accesskey                 "C">
 
-<!ENTITY  listAllTabs.label      "List all tabs">
+<!ENTITY  listAllTabs.label      "Listă cu toate filele">
 
 <!ENTITY tabCmd.label "Filă nouă">
 <!ENTITY tabCmd.accesskey "F">
@@ -132,17 +132,17 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Acasă">
-<!ENTITY tabViewButton.label          "Seturi de file">
-<!ENTITY tabViewButton.tooltip        "Open a visual tab interface">
+<!ENTITY tabViewButton2.label         "Tab Groups">
+<!ENTITY tabViewButton2.tooltip       "Group Your Tabs">
 
 <!ENTITY bookmarksButton.label          "Semne de carte">
 <!ENTITY bookmarksButton.tooltip        "Afișează semnele dumneavoastră de carte">
 <!ENTITY bookmarksButton.accesskey  "S">
 <!ENTITY bookmarksCmd.commandkey "r">
 
-<!ENTITY bookmarksMenuButton.label          "Bookmarks">
-<!ENTITY bookmarksMenuButton.tooltip        "Display your bookmarks">
-<!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
+<!ENTITY bookmarksMenuButton.label          "Semne de carte">
+<!ENTITY bookmarksMenuButton.tooltip        "Afișează semnele dumneavoastră de carte">
+<!ENTITY viewBookmarksSidebar.label         "Arată în bara laterală">
 <!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -192,7 +192,7 @@
 <!ENTITY inspectPreviousButton.accesskey "P">
 <!ENTITY inspectStyleButton.label     "Style">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Style">
+<!ENTITY inspectStylePanelTitle.label  "Stil">
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -240,8 +240,8 @@
 
 <!ENTITY viewMenu.label         "Vizualizare"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY showTabView.label     "TabView">
-<!ENTITY showTabView.accesskey     "V">
+<!ENTITY showTabView2.label     "Grupați filele…">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label       "Bare de unelte"> 
 <!ENTITY viewToolbarsMenu.accesskey     "B"> 
 <!ENTITY viewSidebarMenu.label "Bară laterală">
@@ -261,18 +261,18 @@
 <!ENTITY showAllHistoryCmd2.label "Arată tot istoricul">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Print">
-<!ENTITY appMenuCustomize.label "Customize">
+<!ENTITY appMenuPrintCmd.label "Tipărește">
+<!ENTITY appMenuCustomize.label "Personalizare">
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
-<!ENTITY appMenuSidebars.label "Sidebars">
-<!ENTITY appMenuHelp.label "Help">
+<!ENTITY appMenuSidebars.label "Bare laterale">
+<!ENTITY appMenuHelp.label "Ajutor">
 
-<!ENTITY developerMenu.label "Developer">
+<!ENTITY developerMenu.label "Dezvoltator">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Go to a Web Site">
+<!ENTITY urlbar.placeholder           "Du-te la saitul web">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+<!ENTITY urlbar.switchToTab.label     "Schimbă la fila:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -518,7 +518,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY allTabs.filter.emptyText "Caută file">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Browser tabs">
+<!ENTITY tabsToolbar.label "Filele navigatorului">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
