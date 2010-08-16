@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navegação privativa)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Mover esta aba para">
+<!ENTITY  moveTabTo.accesskey                "M">
+<!ENTITY  createNewGroup.label               "Criar novo grupo">
+<!ENTITY  createNewGroup.accesskey           "C">
+<!ENTITY  namedGroups.label                  "Named Groups">
 <!ENTITY  reloadTab.label                    "Recarregar aba">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Recarregar tudo">
@@ -119,6 +124,7 @@
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir a página">
 
+<!ENTITY backForwardItem.title        "Voltar/Avançar">
 <!ENTITY locationItem.title           "Endereço">
 <!ENTITY searchItem.title             "Campo de pesquisa">
 <!ENTITY throbberItem.title           "Indicador de atividade">
@@ -126,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Página inicial">
+<!ENTITY tabViewButton2.label         "Grupos de abas">
+<!ENTITY tabViewButton2.tooltip       "Agrupar suas abas">
 
 <!ENTITY bookmarksButton.label          "Favoritos">
 <!ENTITY bookmarksButton.tooltip        "Exibir o painel com os favoritos">
@@ -232,6 +240,8 @@
 
 <!ENTITY viewMenu.label         "Exibir"> 
 <!ENTITY viewMenu.accesskey       "x"> 
+<!ENTITY showTabView2.label     "Agrupar suas abas…">
+<!ENTITY showTabView2.accesskey     "u">
 <!ENTITY viewToolbarsMenu.label       "Barras de ferramentas"> 
 <!ENTITY viewToolbarsMenu.accesskey     "B"> 
 <!ENTITY viewSidebarMenu.label "Painel">
@@ -509,3 +519,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Abas do navegador">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Abas de outros computadores">
+
+<!ENTITY syncBrand.shortName.label  "Sync">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "y">
+<!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "f">
+<!ENTITY syncLogInItem.label          "Conectar">
+<!ENTITY syncLogInItem.accesskey      "C">
+<!ENTITY syncLogOutItem.label         "Desconectar">
+<!ENTITY syncLogOutItem.accesskey     "D">
+<!ENTITY syncSyncNowItem.label        "Sincronizar agora">
+<!ENTITY syncSyncNowItem.accesskey    "S">
