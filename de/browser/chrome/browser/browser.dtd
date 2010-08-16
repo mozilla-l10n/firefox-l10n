@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privater Modus)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                   "Diesen Tab verschieben nach…">
+<!ENTITY  moveTabTo.accesskey               "D">
+<!ENTITY  createNewGroup.label              "Neue Gruppe erstellen">
+<!ENTITY  createNewGroup.accesskey          "e">
+<!ENTITY  namedGroups.label                 "Benannte Gruppen">
 <!ENTITY  reloadTab.label        			"Tab neu laden">
 <!ENTITY  reloadTab.accesskey         		"l">
 <!ENTITY  reloadAllTabs.label    			"Alle Tabs neu laden">
