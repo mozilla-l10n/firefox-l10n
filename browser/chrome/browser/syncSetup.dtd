@@ -89,7 +89,7 @@
 <!ENTITY confirm.merge.label          "Sie haben sich entschieden, die Daten dieses Computers mit den Daten Ihrer anderen Computer, die &syncBrand.fullName.label; verwenden, zusammenzuführen.">
 <!ENTITY confirm.client.label         "Alle &brandShortName;-Daten auf diesem Computer werden gelöscht, dies betrifft:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; wird dann die &syncBrand.fullName.label;-Daten auf diesen Computer kopieren.">
-<!ENTITY confirm.client.warning.label "WARNUNG: Alle &brandShortName;-Daten auf diesem Computer werden ersetzt
+<!ENTITY confirm.client.warning.label "WARNUNG: Alle &brandShortName;-Daten auf diesem Computer werden ersetzt!">
 <!ENTITY confirm.server.label         "Die folgenden Geräte werden mit den lokalen Daten überschrieben:">
 <!ENTITY confirm.server.warning.label "WARNUNG: Ihre lokalen Daten werden alle &brandShortName;-Daten auf diesen Geräten überschreiben!">
 
