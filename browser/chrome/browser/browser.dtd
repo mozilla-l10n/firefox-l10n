@@ -90,6 +90,8 @@
 <!ENTITY throbberItem.title "실행 색인기">
 <!ENTITY bookmarksItem.title "북마크">
 <!ENTITY homeButton.label "홈">
+<!ENTITY tabViewButton2.label         "탭 그룹">
+<!ENTITY tabViewButton2.tooltip       "탭 그룹으로 보기">
 <!ENTITY bookmarksButton.label "북마크">
 <!ENTITY bookmarksButton.tooltip "북마크 표시">
 <!ENTITY bookmarksButton.accesskey	"B">
@@ -103,7 +105,7 @@
 <!ENTITY bookmarksGtkCmd.commandkey	"o">
 <!ENTITY bookmarksWinCmd.commandkey	"i">
 <!ENTITY historyButton.label "방문 기록">
-<!ENTITY historyButton.tooltip "최근 방문 사이트 목록 표시">
+<!ENTITY historyButton.tooltip "방문 사이트 목록 표시">
 <!ENTITY historySidebarCmd.accesskey "s">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "도구">
@@ -173,19 +175,28 @@
 <!ENTITY reloadAllTabs.accesskey "A">
 <!ENTITY reloadTab.label "현재 탭 새로 고침">
 <!ENTITY reloadTab.accesskey "R">
+
+<!ENTITY  moveTabTo.label                    "탭 그룹 이동…">
+<!ENTITY  moveTabTo.accesskey                "M">
+<!ENTITY  createNewGroup.label               "새 그룹 만들기">
+<!ENTITY  createNewGroup.accesskey           "C">
+<!ENTITY  namedGroups.label                  "그룹 목록">
+
 <!ENTITY undoCloseTab.label "닫은 탭 다시 열기">
 <!ENTITY undoCloseTab.accesskey "U">
-<!ENTITY clearRecentHistory.label            "최근 기록 삭제">
+<!ENTITY clearRecentHistory.label            "사용 기록 삭제">
 <!ENTITY clearRecentHistory.accesskey        "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "사생활 보호 모드 시작">
+<!ENTITY privateBrowsingCmd.start.label         "사생활 보호 모드">
 <!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "사생활 보호 모드 중지">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 <!ENTITY viewMenu.label "보기">
 <!ENTITY viewMenu.accesskey "V">
+<!ENTITY showTabView2.label     "탭 그룹으로 보기…">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label "도구 모음">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY viewSidebarMenu.label "탐색창">
