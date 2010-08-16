@@ -3,8 +3,8 @@
 <!ENTITY loading.label                        "Carregando…">
 <!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
 <!ENTITY listEmpty.availableUpdates.label     "Nenhuma atualização encontrada">
-<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
-<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+<!ENTITY listEmpty.recentUpdates.label        "Não há atualização recente de nenhum complemento.">
+<!ENTITY listEmpty.findUpdates.label          "Verificar atualizações">
 <!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
 <!ENTITY listEmpty.button.label               "Learn more about add-ons">
 
@@ -22,12 +22,12 @@
 <!ENTITY view.availableUpdates.label          "Atualizações disponíveis">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Update Add-ons Now">
-<!ENTITY updates.updateAddonsNow.accesskey    "U">
-<!ENTITY updates.viewUpdates.label            "View Recent Updates">
-<!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Check for Updates Automatically">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
+<!ENTITY updates.updateAddonsNow.label        "Atualizar complementos agora">
+<!ENTITY updates.updateAddonsNow.accesskey    "A">
+<!ENTITY updates.viewUpdates.label            "Exibir atualizações recentes">
+<!ENTITY updates.viewUpdates.accesskey        "E">
+<!ENTITY updates.backgroudUpdateCheck.label   "Verificar atualizações automaticamente">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "V">
 <!ENTITY updates.updating.label               "Atualizando complementos">
 <!ENTITY updates.installed.label              "Your add-ons have been updated.">
 <!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
@@ -84,7 +84,7 @@
 <!ENTITY rating.label                         "Avaliação:">
 
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.pause.tooltip               "Pausa">
 <!ENTITY progress.cancel.tooltip              "Cancelar">
 
 
@@ -109,13 +109,14 @@
 <!ENTITY search.filter.available.label        "Complementos disponíveis">
 
 <!ENTITY addon.homepage                       "Visitar o site">
-<!ENTITY addon.unknownDate                    "Unknown">
+<!ENTITY addon.unknownDate                    "Desconhecido">
 <!ENTITY addon.disabled.postfix               "(desativado)">
-<!ENTITY addon.update.postfix                 "Update">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Atualização do">
 <!ENTITY addon.undo.label                     "Desfazer?">
 <!ENTITY addon.undo.tooltip                   "Desfazer esta ação">
 <!ENTITY addon.undoUninstall.label            "Desfazer?">
-<!ENTITY addon.undoUninstall.tooltip          "Keep this add-on installed">
+<!ENTITY addon.undoUninstall.tooltip          "Manter este complemento instalado">
 <!ENTITY addon.restartNow.label               "Reiniciar agora">
 <!ENTITY addon.restartNow.tooltip             "Reinicie agora para concluir a instalação">
 <!ENTITY addon.install.label                  "Instalar">
