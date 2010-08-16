@@ -158,6 +158,7 @@
 <!ENTITY bookmarksButton.tooltip "Yer imleri listesi">
 <!ENTITY homeButton.label "Başlangıç">
 <!ENTITY bookmarksToolbarItem.label "Yer imi simgeleri">
+<!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
 <!-- Statusbar -->
 
 <!ENTITY statusText.label "Tamamlandı">

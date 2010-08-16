@@ -14,8 +14,8 @@
 <!ENTITY acceptCookies.label "Sitelerden çerez kabul et">
 <!ENTITY acceptCookies.accesskey "k">
 
-<!ENTITY acceptThirdParty.label "Üçüncü parti çerezlerini kabul et">
-<!ENTITY acceptThirdParty.accesskey "p">
+<!ENTITY acceptThirdParty.label "Üçüncü taraf çerezlerini kabul et">
+<!ENTITY acceptThirdParty.accesskey "e">
 
 <!ENTITY keepUntil.label "Tutma sınırı:">
 <!ENTITY keepUntil.accesskey "T">
@@ -57,11 +57,11 @@
 <!ENTITY dontrememberActions.clearHistory.label "şu ana kadar kaydedilmiş tarama geçmişinizi">
 <!ENTITY dontrememberActions.post.label " de silebilirsiniz.">
 
-<!ENTITY privateBrowsingPermanent.label "Permanent Private Browsing mode">
-<!ENTITY privateBrowsingPermanent.accesskey "P">
+<!ENTITY privateBrowsingPermanent.label "Sürekli gizli tarama kipi">
+<!ENTITY privateBrowsingPermanent.accesskey "S">
 
-<!ENTITY rememberHistory.label "Remember my browsing history">
-<!ENTITY rememberHistory.accesskey "b">
+<!ENTITY rememberHistory.label "Tarama geçmişimi hatırla">
+<!ENTITY rememberHistory.accesskey "g">
 
 <!ENTITY rememberDownload.label "İndirme geçmişini hatırla">
 <!ENTITY rememberDownload.accesskey "d">

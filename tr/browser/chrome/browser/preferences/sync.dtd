@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey "S">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; tüm aygıtlarınızdan tarama geçmişinize, yer imlerinize, parolalarınıza ve açık sekmelerinize erişmenize olanak sağlar.">
+<!-- The page shown when logged in... -->
+
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; hesabı">
+<!ENTITY currentUser.label "Geçerli kullanıcı:">
+<!-- Login error feedback -->
+
+<!ENTITY updatePass.label "Update">
+<!ENTITY resetPass.label "Reset">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label "Hesabı yönet">
+<!ENTITY manageAccount.accesskey "y">
+<!ENTITY changePassword.label "Change Password">
+<!ENTITY changePassphrase.label "Gizli tümceciği değiştir">
+<!ENTITY resetSync.label "Sync'i sıfırla">
+<!ENTITY differentAccount.label "Farklı bir hesap kullan">
+<!-- Sync Settings -->
+
+<!ENTITY syncPrefsCaption.label "Tarayıcı eşitleme">
+<!ENTITY syncComputerName.label "Bilgisayar adı:">
+<!ENTITY syncComputerName.accesskey "B">
+<!ENTITY syncModeSwitchDesc.label "&brandShortName; uygulaması:">
+<!ENTITY syncModeSwitchDesc.accesskey "u">
+<!ENTITY syncEverything.label "Her şeyi eşitlesin">
+<!ENTITY customSync.label "Özel ayarlarımı kullansın">
+<!ENTITY syncEverythingDescription.label "Yer imleriniz, tarama geçmişiniz, parolalarınız, tercihleriniz ve sekmeleriniz eşitlenecektir.">
+<!ENTITY syncItem.bookmarks.label "Yer imlerini eşitle">
+<!ENTITY syncItem.bookmarks.accesskey "Y">
+<!ENTITY syncItem.tabs.label "Sekmeleri eşitle">
+<!ENTITY syncItem.tabs.accesskey "S">
+<!ENTITY syncItem.history.label "Geçmişi eşitle">
+<!ENTITY syncItem.history.accesskey "G">
+<!ENTITY syncItem.passwords.label "Parolaları eşitle">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label "Tercihleri eşitle">
+<!ENTITY syncItem.prefs.accesskey "T">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label "Kullanım Koşulları">
+<!ENTITY prefs.ppLink.label "Gizlilik Anlaşması">

@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; Kurulumu">
+<!-- First page of the wizard -->
+
+
+<!ENTITY setup.choicePage.title.label "Daha önce &syncBrand.fullName.label; kullandınız mı?">
+<!ENTITY setup.choicePage.new.label "Daha önce hiç &syncBrand.shortName.label; kullanmadım">
+<!ENTITY setup.choicePage.existing.label "Başka bir bilgisayarda &syncBrand.shortName.label; kullanıyorum">
+<!-- New Account AND Existing Account -->
+
+<!ENTITY connectTo.label "Bağlanılacan sunucu">
+<!ENTITY serverType.main.label "&syncBrand.fullName.label; sunucusu">
+<!ENTITY serverType.custom.label "Özel sunucu kullan">
+<!ENTITY signIn.username.label "Kullanıcı adı">
+<!ENTITY signIn.username.accesskey "u">
+<!ENTITY signIn.password.label "Parola">
+<!ENTITY signIn.password.accesskey "P">
+<!ENTITY signIn.serverURL.label "Sunucu adresi">
+<!ENTITY signIn.serverURL.accesskey "a">
+<!-- New Account Page 1: Basic Account Info -->
+
+<!ENTITY setup.newAccountPage.title.label "&syncBrand.shortName.label; hesabınızı oluşturun">
+<!ENTITY setup.confirmPassword.label "Parolayı doğrulayın">
+<!ENTITY setup.confirmPassword.accesskey "d">
+<!ENTITY setup.emailAddress.label "E-posta adresi">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label "Şunları kabul ediyorum:">
+<!ENTITY setup.tosAgree1.accesskey "k">
+<!ENTITY setup.tosLink.label "Kullanım Koşulları">
+<!ENTITY setup.tosAgree2.label "ve">
+<!ENTITY setup.ppLink.label "Gizlilik Anlaşması">
+<!ENTITY setup.tosAgree3.label "">
+<!ENTITY setup.tosAgree2.accesskey "">
+<!-- New Account Page 2: Passphrase Entry -->
+
+<!ENTITY setup.newPPPage.title.label "Gizli tümceciğinizi girin">
+<!ENTITY passphraseDesc.label "Lütfen bir gizli tümcecik girin. Bu tümcecik, yalnızca sizin erişebilmeniz için tüm verilerinizin şifrelenmesinde kullanılacaktır. Sunucuda asla saklanmadığı için gizli tümceciğinizi kaybetmeyin!">
+<!ENTITY passphraseDesc2.label "Tümceciğiniz en az 12 karakter uzunluğunda olmalı hesap parolanızla aynı olmamalıdır.">
+<!ENTITY passphraseEntry.label "Gizli tümcecik">
+<!ENTITY passphraseEntry.accesskey "z">
+<!ENTITY passphraseConfirm.label "Onayla">
+<!ENTITY passphraseConfirm.accesskey "O">
+<!-- New Account Page 3: Sync Type Options -->
+
+<!ENTITY setup.newAccountPrefs2.title.label "Tarayıcı Eşitleme Tercihleri">
+<!ENTITY syncComputerName.label "Bilgisayar adı:">
+<!ENTITY syncComputerName.accesskey "B">
+<!ENTITY syncModeSwitchDesc.label "&brandShortName; uygulaması:">
+<!ENTITY syncModeSwitchDesc.accesskey "u">
+<!ENTITY syncEverything.label "Her şeyi eşitlesin">
+<!ENTITY customSync.label "Özel ayarlarımı kullansın">
+<!ENTITY syncEverythingDescription.label "Yer imleriniz, tarama geçmişiniz, parolalarınız, tercihleriniz ve sekmeleriniz eşitlenecektir.">
+<!ENTITY syncItem.bookmarks.label "Yer imlerini eşitle">
+<!ENTITY syncItem.bookmarks.accesskey "Y">
+<!ENTITY syncItem.tabs.label "Sekmeleri eşitle">
+<!ENTITY syncItem.tabs.accesskey "S">
+<!ENTITY syncItem.history.label "Geçmişi eşitle">
+<!ENTITY syncItem.history.accesskey "G">
+<!ENTITY syncItem.passwords.label "Parolaları eşitle">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label "Tercihleri eşitle">
+<!ENTITY syncItem.prefs.accesskey "T">
+<!-- New Account Page 4: Captcha -->
+
+<!ENTITY setup.captchaPage.title.label "Lütfen robot olmadığınızı kanıtlayın ;)">
+<!-- Existing Account Page 1: Login -->
+
+<!ENTITY setup.existingAccount.title.label "Hesap bilgilerini girin">
+<!ENTITY resetPassword.label "Reset Password">
+<!ENTITY connecting.label "Bağlanıyor...">
+<!-- Existing Account Page 2: Passphrase -->
+
+<!ENTITY passphraseGroupbox.label "Gizli tümceciği girin">
+<!ENTITY passphraseDesc3.label "Lütfen gizli tümceciğinizi girin. Verilerinizi şifrelemede kullandığınız gizli tümceciği aynen girmelisiniz.">
+<!ENTITY passphraseHelp.label "Gizli tümceciğiniz en az 12 karakter uzunluğundadır ve parolanız değildir. Kayıtlı gizli tümceciğinizi öğrenmek için diğer bilgisayarınıza gidip Güvenlik altındaki Kayıtlı Parolalar'ı kontrol edebilirsiniz. Buna rağmen doğru gizli tümceciği öğrenemiyorsanız tümceciği sıfırlayabilirsiniz, ama sunucuda depolanan tüm verileri kaybedersiniz.">
+<!ENTITY changePassphrase.label "Gizli tümceciği değiştir">
+<!ENTITY verifying.label "Doğrulanıyor...">
+<!-- New & Existing Account: Merge Options -->
+
+<!ENTITY setup.mergeChoicePage.title.label "Nasıl başlamak istersiniz?">
+<!ENTITY choice.merge.main.label "Bu bilgisayardaki veriler &syncBrand.shortName.label; verilerinizle birleştirilsin">
+<!ENTITY choice.merge.recommend.label "Mozilla, tüm kullanıcılara bu seçeneği önerir.">
+<!ENTITY choice.client.main.label "Bu bilgisayardaki tüm veriler &syncBrand.fullName.label; verileri ile değiştirilsin">
+<!ENTITY choice.server.main.label "Tüm diğer aygıtlar yerel verilerinizle değiştirilsin">
+<!-- New & Existing Account: Confirm Merge Options -->
+
+<!ENTITY confirm.caption.label "Seçiminizi onaylayın">
+<!ENTITY confirm.merge.label "Bu bilgisayardaki verilerinizi &syncBrand.shortName.label; kullanan diğer ayıgtlarınızdaki verilerle birleştirmeyi seçtiniz.">
+<!ENTITY confirm.client.label "Aşağıdakiler de dahil olmak üzere, bu bilgisayardaki tüm &brandShortName; verileri silinecektir:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; daha sonra &syncBrand.fullName.label; verilerinizi bu bilgisayara kopyalacaktır.">
+<!ENTITY confirm.client.warning.label "UYARI: Bu işlem sonucunda bu bilgisayardaki tüm &brandShortName; verileri değişecektir!">
+<!ENTITY confirm.server.label "Aşağıdaki aygıtlardaki veriler yerel verilerinizle değiştirilecektir:">
+<!ENTITY confirm.server.warning.label "UYARI: Bu aygıtlardaki tüm &brandShortName; verilerinin yerini yerel verileriniz alacaktır!">
+<!-- New & Existing Account: Setup Complete -->
+
+<!ENTITY setup.successPage.title.label "Kurulum tamamlandı!">
+<!ENTITY setup.successPage.desc.label "Congratulations! &brandShortName; is now set up to automatically sync your information. Don't forget to install &syncBrand.fullName.label; on all your devices. You can now continue using &brandShortName;.">
