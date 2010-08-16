@@ -354,17 +354,17 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="feeds:subscribing"
          nc:name="suscribirse a un canal"
-         nc:link="mail_help.xhtml#subscribing_to_blogs_and_news_feeds"/>
+         nc:link="mailnews_blogs_and_feeds.xhtml#subscribing_to_blogs_and_news_feeds"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="feeds:reading"
          nc:name="Leer un canal"
-         nc:link="mail_help.xhtml#reading_blogs_and_news_feed_messages"/>
+         nc:link="mailnews_blogs_and_feeds.xhtml#reading_blogs_and_news_feed_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="feeds:exporting_importing"
          nc:name="exportar e importar canales"
-         nc:link="mail_help.xhtml#exporting_and_importing_feeds"/>
+         nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1259,7 +1259,7 @@
      <rdf:li>
        <rdf:Description ID="import:feeds"
          nc:name="importar canales"
-         nc:link="mail_help.xhtml#exporting_and_importing_feeds"/>
+         nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="import:certificates"
