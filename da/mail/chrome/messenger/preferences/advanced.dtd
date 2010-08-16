@@ -45,7 +45,7 @@
 <!ENTITY reuseExpRadio0.accesskey "n">
 <!ENTITY reuseExpRadio1.label "Et eksisterende meddelelsesvindue">
 <!ENTITY reuseExpRadio1.accesskey "e">
-<!ENTITY closeMsgWindowOnDelete.label  "Luk meddelelsesvinduet ved sletning">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Luk meddelelsesvinduet ved flytning eller sletning">
 <!ENTITY closeMsgWindowOnDelete.accesskey "L">
 
 <!-- Update -->

@@ -3,9 +3,16 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY description.label "Opret som en undermappe til:">
 <!ENTITY description.accesskey "O">
+
 <!ENTITY searchTermCaption.label "Indstil søgekriterierne for denne virtuelle mappe:">
+
 <!ENTITY folderSelectionCaption.label "Vælg mapper der skal søges i:">
 <!ENTITY chooseFoldersButton.label "Vælg…">
 <!ENTITY chooseFoldersButton.accesskey "V">
+
 <!ENTITY searchOnline.label "Søg online (Giver opdateret resultater ved IMAP og nyhedsgrupper, men forøger tiden at åben mappen)">
 <!ENTITY searchOnline.accesskey "G">
+<!ENTITY newFolderButton.label       "Opret">
+<!ENTITY newFolderButton.accesskey   "p">
+<!ENTITY editFolderButton.label      "Opdater">
+<!ENTITY editFolderButton.accesskey  "d">
