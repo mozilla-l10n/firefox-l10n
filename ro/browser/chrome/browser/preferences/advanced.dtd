@@ -54,7 +54,7 @@
 
 <!ENTITY autoCheck.label                 "Caută automat actualizări pentru:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "&">
+<!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Suplimente">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Motoare de căutare">
