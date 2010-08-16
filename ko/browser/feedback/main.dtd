@@ -8,7 +8,7 @@
 <!ENTITY testpilot.settings.newStudy.label          "새 과제가 나올 때">
 <!ENTITY testpilot.settings.hasNewResults.label     "새 결과가 나올 때">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "자동 결과 보내기 (묻지 않음)">
-<!ENTITY testpilot.allYoursStudies.label                 "사용자 테스트 전체 목록">
+<!ENTITY testpilot.allYourStudies.label                 "사용자 테스트 전체 목록">
 <!ENTITY testpilot.about.label                      "Test Pilot 소개">
 
 <!-- all studies window -->
