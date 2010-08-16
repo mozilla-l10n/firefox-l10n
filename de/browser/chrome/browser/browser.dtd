@@ -119,6 +119,7 @@
 <!ENTITY printButton.label            "Drucken">
 <!ENTITY printButton.tooltip          "Diese Seite drucken">
 
+<!ENTITY backForwardItem.title        "Zurück/Vorwärts">
 <!ENTITY locationItem.title           "Adresse">
 <!ENTITY searchItem.title             "Suchen">
 <!ENTITY throbberItem.title           "Aktivitätsanzeige">
