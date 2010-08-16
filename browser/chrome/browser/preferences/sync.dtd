@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Iestatīt &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ļauj jums piekļūt pārlūkošanas vēsturei, grāmatzīmēm, parolēm un atvērtajām cilnēm visās jūsu izmantotajās ierīcēs.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; konts">
+<!ENTITY currentUser.label            "Izvēlētais lietotājs:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Atjaunināt">
+<!ENTITY resetPass.label              "Atiestatīt">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Pārvaldīt kontu">
+<!ENTITY manageAccount.accesskey      "P">
+<!ENTITY changePassword.label         "Mainīt paroli">
+<!ENTITY changePassphrase.label       "Mainīt drošības paroli">
+<!ENTITY resetSync.label              "Atiestatīt sinhronizāciju">
+<!ENTITY differentAccount.label       "Izmantot citu kontu">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Pārlūka sinhronizācija">
+<!ENTITY syncComputerName.label       "Datora nosaukums:">
+<!ENTITY syncComputerName.accesskey   "d">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName;: ">
+<!ENTITY syncModeSwitchDesc.accesskey "f">
+<!ENTITY syncEverything.label         "Sinhronizēs visu">
+<!ENTITY customSync.label             "Izmantos pielāgotus iestatījumus">
+<!ENTITY syncEverythingDescription.label  "Jūsu grāmatzīmes, pārlūkošanas vēsture, paroles, iestatījumi un cilnes tiks sinhronizētas.">
+<!ENTITY syncItem.bookmarks.label     "Sinhronzēt grāmatzīmes">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sinhronizēt cilnes">
+<!ENTITY syncItem.tabs.accesskey      "t">
+<!ENTITY syncItem.history.label       "Sinhronizēt pārlkošanas vēsturi">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sinhronizēt paroles">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sinhronizēt iestatījumus">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Lietošanas noteikumi">
+<!ENTITY prefs.ppLink.label         "Privātuma politika">
