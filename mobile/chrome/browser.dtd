@@ -1,4 +1,4 @@
-<!ENTITY urlbar.emptytext "Enter Search or Address">
+<!ENTITY urlbar.emptytext "Arama Yap ya da Adrese Git">
 
 <!ENTITY back.label "Geri">
 <!ENTITY forward.label "İleri">
@@ -86,7 +86,14 @@
 
 <!ENTITY contextOpenInNewTab.label "Bağlantıyı yeni sekmede aç">
 <!ENTITY contextSaveImage.label "Resmi kaydet">
-<!ENTITY contextShareLink.label "Bağlantıyı paylaş">
-<!ENTITY contextShareImage.label "Share Image">
+<!ENTITY contextShareLink.label "Bağlantıyı Paylaş">
+<!ENTITY contextShareImage.label "Resmi Paylaş">
 <!ENTITY contextEditBookmark.label "Düzenle">
 <!ENTITY contextRemoveBookmark.label "Kaldır">
+
+<!ENTITY pageactions.saveas.pdf "PDF Olarak Kaydet">
+<!ENTITY pageactions.share.page "Share Page">
+<!ENTITY pageactions.password.forget "Şifreyi Sil">
+<!ENTITY pageactions.reset "Site Tercihlerini Temizle">
+<!ENTITY pageactions.findInPage "Sayfada bul">
+<!ENTITY pageactions.search.addNew "Arama motoru ekleme">

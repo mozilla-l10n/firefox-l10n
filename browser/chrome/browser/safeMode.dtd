@@ -36,7 +36,7 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "&brandShortName; - Güvenlik Kip">
+<!ENTITY safeModeDialog.title "&brandShortName; - Güvenli Kip">
 <!ENTITY window.width "37em">
 
 <!ENTITY safeModeDescription.label "&brandShortName; şimdi güvenli kipte çalıştırıldı. Bu kipte ayarlarınız, temalarınız ve eklentileriniz devre dışı durumundadır.">
