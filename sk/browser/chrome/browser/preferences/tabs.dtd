@@ -2,7 +2,7 @@
 <!ENTITY newWindowsAsTabs.accesskey   "N">
 
 <!ENTITY warnCloseMultipleTabs.label      "Upozorniť pri zatváraní viacerých kariet">
-<!ENTITY warnCloseMultipleTabs.accesskey  "z">
+<!ENTITY warnCloseMultipleTabs.accesskey  "o">
 
 <!ENTITY warnOpenManyTabs.label           "Upozorniť, ak by otvorenie viacerých kariet spôsobilo spomalenie &brandShortName;u">
 <!ENTITY warnOpenManyTabs.accesskey       "U">
@@ -14,4 +14,4 @@
 <!ENTITY switchToNewTabs.accesskey    "r">
 
 <!ENTITY showTabsInTaskbar.label          "Zobrazovať ukážky kariet v paneli úloh systému Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "o">
+<!ENTITY showTabsInTaskbar.accesskey      "Z">

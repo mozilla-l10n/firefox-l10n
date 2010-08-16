@@ -105,9 +105,9 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
 <!ENTITY detachAttachmentCmd.label "Vyčleniť…">
 <!ENTITY deleteAttachmentCmd.label "Odstrániť">
-<!ENTITY openAllAttachmentsCmd.label    "Otvoriť všetky…">
+<!ENTITY openAllAttachmentsCmd.label    "Otvoriť všetky prílohy…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
-<!ENTITY saveAllAttachmentsCmd.label "Uložiť všetky prílohy">
+<!ENTITY saveAllAttachmentsCmd.label "Uložiť všetky prílohy…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "U">
 <!ENTITY detachAllAttachmentsCmd.label "Vyčleniť všetky prílohy…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "V">
