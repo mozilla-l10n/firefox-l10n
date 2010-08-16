@@ -10,8 +10,6 @@
 
 <!ENTITY restorepage.tryagainButton "Відновити">
 <!ENTITY restorepage.restore.access "В">
-<!ENTITY restorepage.cancelButton   "Почати новий сеанс">
-<!ENTITY restorepage.cancel.access  "н">
 
 <!ENTITY restorepage.restoreHeader  "Відновити">
 <!ENTITY restorepage.listHeader     "Вікна та вкладки">

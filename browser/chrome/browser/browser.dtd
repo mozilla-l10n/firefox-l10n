@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Потайливий режим)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Перенести цю вкладку до…">
+<!ENTITY  moveTabTo.accesskey                "н">
+<!ENTITY  createNewGroup.label               "Створити нову групу">
+<!ENTITY  createNewGroup.accesskey           "С">
+<!ENTITY  namedGroups.label                  "Названі групи">
 <!ENTITY  reloadTab.label                    "Оновити вкладку">
 <!ENTITY  reloadTab.accesskey                "О">
 <!ENTITY  reloadAllTabs.label                "Оновити всі вкладки">
@@ -119,6 +124,7 @@
 <!ENTITY printButton.label            "Друкувати">
 <!ENTITY printButton.tooltip          "Надрукувати поточну сторінку">
 
+<!ENTITY backForwardItem.title        "Назад/Вперед">
 <!ENTITY locationItem.title           "Адреса">
 <!ENTITY searchItem.title             "Пошук">
 <!ENTITY throbberItem.title           "Індикатор діяльності">
@@ -126,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Домашня сторінка">
+<!ENTITY tabViewButton2.label         "Групи вкладок">
+<!ENTITY tabViewButton2.tooltip       "Згрупуйте ваші вкладки">
 
 <!ENTITY bookmarksButton.label          "Закладки">
 <!ENTITY bookmarksButton.tooltip        "Показати ваші закладки">
@@ -232,6 +240,8 @@
 
 <!ENTITY viewMenu.label         "Вигляд"> 
 <!ENTITY viewMenu.accesskey       "В"> 
+<!ENTITY showTabView2.label     "Згрупувати вкладки…">
+<!ENTITY showTabView2.accesskey     "г">
 <!ENTITY viewToolbarsMenu.label       "Панелі інструментів"> 
 <!ENTITY viewToolbarsMenu.accesskey     "П"> 
 <!ENTITY viewSidebarMenu.label "Бічна панель">
@@ -509,3 +519,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Браузерних вкладок">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Вкладки з інших комп’ютерів">
+
+<!ENTITY syncBrand.shortName.label  "Синхронізація">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "С">
+<!ENTITY syncSetup.label              "Налаштуйте синхронізацію…">
+<!ENTITY syncSetup.accesskey          "Н">
+<!ENTITY syncLogInItem.label          "З’єднатись">
+<!ENTITY syncLogInItem.accesskey      "З">
+<!ENTITY syncLogOutItem.label         "Від’єднатись">
+<!ENTITY syncLogOutItem.accesskey     "В">
+<!ENTITY syncSyncNowItem.label        "Синхронізувати зараз">
+<!ENTITY syncSyncNowItem.accesskey    "С">

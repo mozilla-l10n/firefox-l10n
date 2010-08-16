@@ -14,3 +14,6 @@
 <!ENTITY  panePrivacy.title       "Приватність">
 <!ENTITY  paneSecurity.title      "Безпека">
 <!ENTITY  paneAdvanced.title      "Додатково">
+
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "Синхронізація">
