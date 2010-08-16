@@ -127,6 +127,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Startseite">
+<!ENTITY tabViewButton2.label         "Tab-Gruppen">
+<!ENTITY tabViewButton2.tooltip       "Tabs gruppieren">
 
 <!ENTITY bookmarksButton.label          "Lesezeichen">
 <!ENTITY bookmarksButton.tooltip        "Öffnet Ihre Lesezeichen-Liste">
@@ -233,6 +235,8 @@
 
 <!ENTITY viewMenu.label         "Ansicht"> 
 <!ENTITY viewMenu.accesskey       "A"> 
+<!ENTITY showTabView2.label     "Tabs gruppieren…">
+<!ENTITY showTabView2.accesskey     "g">
 <!ENTITY viewToolbarsMenu.label       "Symbolleisten"> 
 <!ENTITY viewToolbarsMenu.accesskey     "y"> 
 <!ENTITY viewSidebarMenu.label "Sidebar">
