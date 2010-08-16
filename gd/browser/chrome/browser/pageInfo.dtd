@@ -97,7 +97,7 @@
 <!ENTITY  permPopup             "Fosgladh de phriob-uinneagan">
 <!ENTITY  permCookie            "Suidheachadh de bhriosgaidean">
 <!ENTITY  permInstall           "Stàladh de leasachan no coltasan">
-<!ENTITY  permGeo               "Nochd d' àite">
+<!ENTITY  permGeo               "Nochdadh an àite">
 
 <!ENTITY  securityTab           "Tèarainteachd">
 <!ENTITY  securityTab.accesskey "T">
