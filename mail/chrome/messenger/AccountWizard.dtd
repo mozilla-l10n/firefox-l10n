@@ -107,5 +107,5 @@
 <!ENTITY deferStorageDesc.label "Thoir air falbh a' chromag on bhogsa seo ma tha thu airson post a' chunntais seo a chumail 'na eòlaire fhèin. Nochdaidh an cunntas seo mar chunntas àrd-ìre an uairsin. Mura dèan thu sin, bidh e 'na phàirt de chunntas a' bhogsa a-steach uile-choitchinn sna pasgain ionadail.">
 <!ENTITY deferStorage.label "Cleachd am bogsa a-steach uile-choitcheann (cum post sna pasgain ionadail)">
 <!ENTITY deferStorage.accesskey "g">
-<!ENTITY clickFinish.label "Briog air "Crìochnaich" gus na roghainnean seo a shàbhaladh 's draoidh nan cunntasan fhàgail.">
-<!ENTITY clickFinish.labelMac "Briog air "Dèanta" gus na roghainnean seo a shàbhaladh 's draoidh nan cunntasan fhàgail.">
+<!ENTITY clickFinish.label "Briog air &quot;Crìochnaich&quot; gus na roghainnean seo a shàbhaladh 's draoidh nan cunntasan fhàgail.">
+<!ENTITY clickFinish.labelMac "Briog air &quot;Dèanta&quot; gus na roghainnean seo a shàbhaladh 's draoidh nan cunntasan fhàgail.">

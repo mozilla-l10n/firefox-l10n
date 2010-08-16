@@ -59,7 +59,7 @@
 <!ENTITY modeAskMe.accesskey            "m">
 <!ENTITY modeAutomatic.label            "Luchdaichear a-nuas is stàlaichear an t-ùrachadh leis fhèin">
 <!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas na chois">
+<!ENTITY modeAutoAddonWarn.label        "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas 'na chois">
 <!ENTITY modeAutoAddonWarn.accesskey    "T">
 <!ENTITY showUpdates.label              "Seall eachdraidh nan ùrachaidhean">
 <!ENTITY showUpdates.accesskey          "S">

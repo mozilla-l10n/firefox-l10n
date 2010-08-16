@@ -17,13 +17,13 @@
 <!ENTITY PlainTextTab.label           "Àrainnean teacsa luim">
 <!ENTITY PlainTextTab.accesskey       "À">
 <!ENTITY AddHtmlDomain.label          "Cuir ris…">
-<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddHtmlDomain.accesskey      "C">
 <!ENTITY AddPlainText.label           "Cuir ris…">
-<!ENTITY AddPlainText.accesskey       "a">
+<!ENTITY AddPlainText.accesskey       "C">
 <!ENTITY DeleteHtmlDomain.label       "Sguab às">
-<!ENTITY DeleteHtmlDomain.accesskey   "d">
+<!ENTITY DeleteHtmlDomain.accesskey   "S">
 <!ENTITY DeletePlainText.label        "Sguab às">
-<!ENTITY DeletePlainText.accesskey    "d">
+<!ENTITY DeletePlainText.accesskey    "S">
 
 <!ENTITY add.htmltitle                "Cuir àrainn HTML ris">
 <!ENTITY add.htmldomain               "Ainm na h-àrainne HTML:">

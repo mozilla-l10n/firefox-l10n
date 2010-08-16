@@ -78,7 +78,7 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
 <!ENTITY hdrViewToolbarShowText.label "Seall teacsa a-mhàin">
 <!ENTITY hdrViewToolbarShowText.accesskey "t">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Seall "Freagair ris an t-seòladair" an-còmhnaidh">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Seall &quot;Freagair ris an t-seòladair&quot; an-còmhnaidh">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton.label "gnìomhan eile">

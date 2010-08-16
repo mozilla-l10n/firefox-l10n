@@ -8,7 +8,7 @@
 <!ENTITY featureConfigurator.para.1 "Tha feartan ùra 's cumhachdach aig an tionndadh seo de &brandShortName; is tha sinn gu math pròiseil àsta agus tha sinn sa bheachd gun còrd iad ris a' mhòrchuid. Ach cha digeadh blas na taigeise air a h-uile duine agus tha diofar feuman aig daoine. Air sgàth sin, tha e furasta cuideachd smachd fhaighinn air &brandShortName is a ghnàthachadh.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para.2 "Cleachd an duilleag seo gus na roghainnean ùra seo a rèiteachadh. 'S urrainn dhut tilleadh do mhanaidsear na h-imrich on chlàr-taice "Cobhair" uair sam bith eile.">
+<!ENTITY featureConfigurator.para.2 "Cleachd an duilleag seo gus na roghainnean ùra seo a rèiteachadh. 'S urrainn dhut tilleadh do mhanaidsear na h-imrich on chlàr-taice &quot;Cobhair&quot; uair sam bith eile.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Bàr-inneil ùr nan teachdaireachdan">
 <!ENTITY featureConfigurator.toolbar.new "Bàr-inneil putain nan teachdaireachd">
@@ -18,7 +18,7 @@
 <!ENTITY featureConfigurator.toolbar.original "Glèidh seann phutain a' bhàir-inneil agad">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Glèidh putan gnàthaichte sam bith air a' bhàr-inneil ri taobh putain ùra nan teachdaireachd.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Gluais gnìomhan teachdaireachd, leithid "Freagair" is "Sìn air adhart" on bhàr-inneil gu bann-cinn nan teachdaireachd fhèin. Tha seo a' ceangal nam putan gnìomha ris an teachdaireachd fhèin 's mar sin tha barrachd àite sa bhàr-inneil airson bogsa-luirg nas fhearr agus cuid de thuilleadain.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Gluais gnìomhan teachdaireachd, leithid &quot;Freagair&quot; is &quot;Sìn air adhart&quot; on bhàr-inneil gu bann-cinn nan teachdaireachd fhèin. Tha seo a' ceangal nam putan gnìomha ris an teachdaireachd fhèin 's mar sin tha barrachd àite sa bhàr-inneil airson bogsa-luirg nas fhearr agus cuid de thuilleadain.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "'Ga stàladh…">
@@ -45,7 +45,7 @@
 <!ENTITY featureConfigurator.folderColumns.heading "Colbhan adhartach nam pasgan">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.weak "Tha an leudachan "colbhan adhartach nam pasgan" a' dol an àite an rud a bha 'na roghainn adhartach roimhe seo. Ma tha thu airson sùil a chumail air àireamh mhionaideach nan teachdaireachdan 's an t-àite air an diosg a tha gach pasgan a' cleachdadh, bidh feum agad air an leudachan seo.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "Tha an leudachan &quot;colbhan adhartach nam pasgan&quot; a' dol an àite an rud a bha 'na roghainn adhartach roimhe seo. Ma tha thu airson sùil a chumail air àireamh mhionaideach nan teachdaireachdan 's an t-àite air an diosg a tha gach pasgan a' cleachdadh, bidh feum agad air an leudachan seo.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
 <!ENTITY featureConfigurator.folderColumns.para.strong "Mhothaich sinn gun robh thu a' cleachdadh colbhan adhartach nam pasgan. Ghluais am feart seo 'na leudachan fhèin 's mholamaid dhut a stàladh an-seo.">

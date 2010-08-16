@@ -16,7 +16,7 @@
 <!ENTITY returnSome.accesskey         "e">
 <!ENTITY never.label                  "Na cuir bannan-cuidhteis idir">
 <!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "Mur eil mi ann an raon "Gu" no "Cc" na teachdaireachd:">
+<!ENTITY notInToCc.label              "Mur eil mi ann an raon &quot;Gu&quot; no &quot;Cc&quot; na teachdaireachd:">
 <!ENTITY notInToCc.accesskey          "t">
 <!ENTITY outsideDomain.label          "Ma bhios an seòladair taobh a-muigh na h-àrainne agam:">
 <!ENTITY outsideDomain.accesskey      "s">
