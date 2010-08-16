@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; einrichten">
+<!ENTITY setupButton.accesskey      "e">
+<!ENTITY weaveDesc.label            "Mit &syncBrand.fullName.label; haben Sie Zugriff auf Ihre Surf-Chronik, Passwörter, Tabs und Lesezeichen auf all Ihren Geräten.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-Account">
+<!ENTITY currentUser.label            "Aktueller Benutzer:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Aktualisieren">
+<!ENTITY resetPass.label              "Zurücksetzen">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Account verwalten">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Passwort ändern">
+<!ENTITY changePassphrase.label       "Passphrase ändern">
+<!ENTITY resetSync.label              "Sync zurücksetzen">
+<!ENTITY differentAccount.label       "Anderen Account verwenden">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browser-Sync">
+<!ENTITY syncComputerName.label       "Computer-Name:">
+<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; wird: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Alles synchronisieren">
+<!ENTITY customSync.label             "Meine eigenen Einstellungen verwenden">
+<!ENTITY syncEverythingDescription.label  "Ihre Lesezeichen, Chronik, Passwörter, Einstellungen und Tabs werden synchronisiert.">
+<!ENTITY syncItem.bookmarks.label     "Lesezeichen synchronisieren">
+<!ENTITY syncItem.bookmarks.accesskey "L">
+<!ENTITY syncItem.tabs.label          "Tabs synchronisieren">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Chronik synchronisieren">
+<!ENTITY syncItem.history.accesskey   "C">
+<!ENTITY syncItem.passwords.label     "Passwörter synchronisieren">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Einstellungen synchronisieren">
+<!ENTITY syncItem.prefs.accesskey     "E">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Nutzungsbedingungen">
+<!ENTITY prefs.ppLink.label         "Datenschutzrichtlinie">
