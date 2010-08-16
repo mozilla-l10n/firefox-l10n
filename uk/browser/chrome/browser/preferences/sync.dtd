@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Налаштувати &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "Н">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; дозволяє вам синхронізувати ваші історію, закладки, паролі та відкриті вкладки на всіх ваших пристроях..">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Обліковий запис &syncBrand.fullName.label;">
+<!ENTITY currentUser.label            "Поточний користувач:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Оновити">
+<!ENTITY resetPass.label              "Скинути">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Керувати обліковим записом">
+<!ENTITY manageAccount.accesskey      "К">
+<!ENTITY changePassword.label         "Змінити пароль">
+<!ENTITY changePassphrase.label       "Змінити таємну фразу">
+<!ENTITY resetSync.label              "Скинути Sync">
+<!ENTITY differentAccount.label       "Використати інший обліковий запис">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Синхронізація браузера">
+<!ENTITY syncComputerName.label       "Назва комп’ютера:">
+<!ENTITY syncComputerName.accesskey   "к">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; буде: ">
+<!ENTITY syncModeSwitchDesc.accesskey "б">
+<!ENTITY syncEverything.label         "Синхронізувати все">
+<!ENTITY customSync.label             "Використовувати мої налаштування">
+<!ENTITY syncEverythingDescription.label  "Ваші закладки, історія, паролі, налаштування та вкладки будуть синхронізуватися.">
+<!ENTITY syncItem.bookmarks.label     "Синхронізувати закладки">
+<!ENTITY syncItem.bookmarks.accesskey "з">
+<!ENTITY syncItem.tabs.label          "Синхронізувати вкладки">
+<!ENTITY syncItem.tabs.accesskey      "в">
+<!ENTITY syncItem.history.label       "Синхронізувати історію">
+<!ENTITY syncItem.history.accesskey   "і">
+<!ENTITY syncItem.passwords.label     "Синхронізувати паролі">
+<!ENTITY syncItem.passwords.accesskey "п">
+<!ENTITY syncItem.prefs.label         "Синхронізувати налаштування">
+<!ENTITY syncItem.prefs.accesskey     "н">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Умови надання послуги">
+<!ENTITY prefs.ppLink.label         "Угода конфіденційності">
