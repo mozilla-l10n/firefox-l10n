@@ -521,3 +521,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Tabs von anderen Computern">
+
+<!ENTITY syncBrand.shortName.label  "Sync">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; einrichten…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncLogInItem.label          "Verbinden">
+<!ENTITY syncLogInItem.accesskey      "V">
+<!ENTITY syncLogOutItem.label         "Trennen">
+<!ENTITY syncLogOutItem.accesskey     "T">
+<!ENTITY syncSyncNowItem.label        "Jetzt synchronisieren">
+<!ENTITY syncSyncNowItem.accesskey    "J">
