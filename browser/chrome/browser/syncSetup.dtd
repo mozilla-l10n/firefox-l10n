@@ -35,7 +35,7 @@
 
 <!-- New Account Page 2: Passphrase Entry -->
 <!ENTITY setup.newPPPage.title.label       "Masukkan Kata Pengaman yang Diinginkan">
-<!ENTITY passphraseDesc.label         "Silakan masukkan kata pengaman pilihan Anda. Kata ini akan digunakan untuk mengenkripsi semua data Anda agar hanya Anda yang dapat mengakses data Anda. Kata pengaman ini tidak akan pernah disimpan di server, jadi jangan sampai lupa ya!">
+<!ENTITY passphraseDesc.label         "Silakan masukkan kata pengaman pilihan Anda. Kata ini akan digunakan untuk mengenkripsi semua data Anda agar hanya Anda yang dapat mengakses data Anda. Kata pengaman ini tidak akan pernah disimpan di server. Jadi, jangan sampai lupa ya!">
 <!ENTITY passphraseDesc2.label        "Panjang kata pengaman paling sedikit 12 karakter dan tidak boleh sama dengan sandi Anda.">
 <!ENTITY passphraseEntry.label        "Kata Pengaman">
 <!ENTITY passphraseEntry.accesskey    "P">
