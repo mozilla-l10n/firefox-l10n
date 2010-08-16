@@ -5,9 +5,9 @@
 <!ENTITY externalDescription.label "Odkazy z iných aplikácií otvárať">
 <!ENTITY openCurrent.label "V aktuálnej karte/okne">
 <!ENTITY newWindowGroupCurrent.accesskey "V">
-<!ENTITY externalGroupCurrent.accesskey "k">
+<!ENTITY externalGroupCurrent.accesskey "a">
 <!ENTITY openTab.label "Na novej karte v aktuálnom okne">
-<!ENTITY newWindowGroupTab.accesskey "a">
+<!ENTITY newWindowGroupTab.accesskey "k">
 <!ENTITY externalGroupTab.accesskey "r">
 <!ENTITY openWindow.label "V novom okne">
 <!ENTITY newWindowGroupWindow.accesskey "o">

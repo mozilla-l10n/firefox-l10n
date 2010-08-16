@@ -44,7 +44,7 @@
 <!ENTITY addonCancel.label         "Zrušiť">
 <!ENTITY addonShowPage.label       "Prejsť na stránku">
 
-<!ENTITY downloadsHeader.label     "Preberanie súborov">
+<!ENTITY downloadsHeader.label     "Prevzaté súbory">
 
 <!ENTITY downloadShowPage.label    "Prejsť na stránku">
 <!ENTITY downloadShow2.label       "Nájsť">
@@ -90,3 +90,10 @@
 <!ENTITY contextShareImage.label      "Zdieľať obrázok">
 <!ENTITY contextEditBookmark.label    "Upraviť">
 <!ENTITY contextRemoveBookmark.label  "Odstrániť">
+
+<!ENTITY pageactions.saveas.pdf      "Uložiť ako PDF">
+<!ENTITY pageactions.share.page      "Zdieľať stránku">
+<!ENTITY pageactions.password.forget "Zabudnúť heslo">
+<!ENTITY pageactions.reset           "Vymazať nastavenia stránky">
+<!ENTITY pageactions.findInPage      "Hľadať na stránke">
+<!ENTITY pageactions.search.addNew   "Pridať vyhľadávací modul">

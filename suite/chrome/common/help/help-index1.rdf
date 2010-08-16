@@ -1300,7 +1300,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
          nc:name="práca v režime offline"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1389,7 +1389,7 @@
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
          nc:name="Diskusné skupiny a pošta offline"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1617,6 +1617,11 @@
          nc:link="cs_nav_prefs_navigator.xhtml#languages"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="preferences:Link_Behavior"
+         nc:name="nastavenia správania sa odkazov"
+         nc:link="cs_nav_prefs_navigator.xhtml#link_behavior"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="preferences:Navigator"
          nc:name="nastavenia prehliadača"
          nc:link="cs_nav_prefs_navigator.xhtml#navigator_preferences"/>
@@ -1645,11 +1650,6 @@
        <rdf:Description ID="preferences:security"
          nc:name="bezpečnostné nastavenia"
          nc:link="privsec_help.xhtml"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="preferences:smart_browsing"
-         nc:name="nastavenia inteligentného prehliadania"
-         nc:link="cs_nav_prefs_navigator.xhtml#smart_browsing"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences:SSL"
@@ -2208,7 +2208,7 @@
      <rdf:li>
        <rdf:Description ID="Working_Offline"
          nc:name="Režim Offline"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>

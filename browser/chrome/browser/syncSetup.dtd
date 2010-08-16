@@ -18,7 +18,7 @@
 <!ENTITY signIn.serverURL.accesskey "d">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "Vytvorenie nového účtu &syncBrand.shortName.label;">
+<!ENTITY setup.newAccountPage.title.label  "Vytvorenie nového účtu služby &syncBrand.shortName.label;">
 <!ENTITY setup.confirmPassword.label  "Potvrdenie hesla">
 <!ENTITY setup.confirmPassword.accesskey  "P">
 <!ENTITY setup.emailAddress.label     "E-mailová adresa">
@@ -79,9 +79,9 @@
 
 <!-- New & Existing Account: Merge Options -->
 <!ENTITY setup.mergeChoicePage.title.label "Ako chcete začať?">
-<!ENTITY choice.merge.main.label      "Spojiť údaje tohto počítača s údajmi účtu &syncBrand.shortName.label;">
+<!ENTITY choice.merge.main.label      "Spojiť údaje tohto počítača s údajmi nachádzajúcimi sa na účte služby &syncBrand.shortName.label;">
 <!ENTITY choice.merge.recommend.label "Mozilla odporúča túto možnosť pre všetkých používateľov.">
-<!ENTITY choice.client.main.label     "Nahradiť všetky údaje na tomto počítači tými z účtu &syncBrand.fullName.label;">
+<!ENTITY choice.client.main.label     "Nahradiť všetky údaje na tomto počítači tými z účtu služby &syncBrand.fullName.label;">
 <!ENTITY choice.server.main.label     "Nahradiť údaje na všetkých ostatných zariadeniach lokálnymi údajmi">
 
 <!-- New & Existing Account: Confirm Merge Options -->
