@@ -7,10 +7,6 @@
 #define bookmarks_title Zaznamki
 #define bookmarks_heading Zaznamki
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Prenesi dodatke za zaznamke
-
 #define bookmarks_toolbarfolder Orodna vrstica zaznamkov
 #define bookmarks_toolbarfolder_description Dodajte zaznamke v to mapo, če jih želite imeti v orodni vrstici zaznamkov
 
