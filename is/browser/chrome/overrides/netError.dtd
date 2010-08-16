@@ -45,7 +45,7 @@
 <!ENTITY netOffline.title "Ónettengdur hamur">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Afhakaðu við &quot;Vinna ótengdur&quot; í skráarvalmynd, reyndu svo aftur.</li>
+  <li>Afhakaðu við &quot;Vinna án nettengingar&quot; í skráarvalmynd, reyndu svo aftur.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Kóðunarvilla">
