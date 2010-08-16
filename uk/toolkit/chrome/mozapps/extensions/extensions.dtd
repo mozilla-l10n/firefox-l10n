@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Шукати серед усіх додатків">
 <!ENTITY loading.label                        "Завантаження…">
 <!ENTITY listEmpty.installed.label            "У вас не встановлено жодного додатку цього типу">
+<!ENTITY listEmpty.availableUpdates.label     "Оновлень не знайдено">
+<!ENTITY listEmpty.recentUpdates.label        "Ви не оновлювали додатків останнім часом.">
+<!ENTITY listEmpty.findUpdates.label          "Перевірити оновлення">
 <!ENTITY listEmpty.search.label               "Не знайдено жодного відповідного додатку">
 <!ENTITY listEmpty.button.label               "Дізнайтесь більше про додатки">
 
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label                  "Розширення">
 <!ENTITY view.appearance.label                "Теми">
 <!ENTITY view.plugins.label                   "Модулі">
+<!ENTITY view.recentUpdates.label             "Недавні оновлення">
+<!ENTITY view.availableUpdates.label          "Доступні оновлення">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Оновити додатки">
+<!ENTITY updates.updateAddonsNow.label        "Оновити додатки зараз">
+<!ENTITY updates.updateAddonsNow.accesskey    "О">
+<!ENTITY updates.viewUpdates.label            "Глянути недавні оновлення">
+<!ENTITY updates.viewUpdates.accesskey        "Г">
+<!ENTITY updates.backgroudUpdateCheck.label   "Перевіряти оновлення автоматично">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "П">
 <!ENTITY updates.updating.label               "Оновлення додатків">
 <!ENTITY updates.installed.label              "Ваші додатки були оновлені.">
 <!ENTITY updates.downloaded.label             "Оновлення до ваших додатків завантажені.">
 <!ENTITY updates.restart.label                "Перезапустити зараз щоб завершити встановлення">
 <!ENTITY updates.noneFound.label              "Оновлень не знайдено">
+<!ENTITY updates.manualUpdatesFound.label     "Переглянути доступні оновлення">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Показати більше інформації">
@@ -46,6 +57,10 @@
 <!ENTITY cmd.contribute.accesskey             "П">
 <!ENTITY cmd.contribute.tooltip               "Посприяти розвитку цього додатку">
 
+<!ENTITY cmd.showReleaseNotes.label           "Показати примітки до випуску">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Показати примітки до випуску цього оновлення">
+<!ENTITY cmd.hideReleaseNotes.label           "Сховати примітки до випуску">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Сховати примітки до випуску цього оновлення">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Версія">
@@ -96,6 +111,8 @@
 <!ENTITY addon.homepage                       "Домівка">
 <!ENTITY addon.unknownDate                    "Невідомо">
 <!ENTITY addon.disabled.postfix               "(вимкнено)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Оновлення">
 <!ENTITY addon.undo.label                     "Скасувати?">
 <!ENTITY addon.undo.tooltip                   "Скасувати цю дію">
 <!ENTITY addon.undoUninstall.label            "Скасувати?">
@@ -104,6 +121,11 @@
 <!ENTITY addon.restartNow.tooltip             "Перезапустити зараз щоб завершити встановлення">
 <!ENTITY addon.install.label                  "Встановити">
 <!ENTITY addon.install.tooltip                "Встановити цей додаток">
+<!ENTITY addon.updateNow.label                "Оновити зараз">
+<!ENTITY addon.updateNow.tooltip              "Встановити оновлення до цього додатку">
 <!ENTITY addon.checkingForUpdates.label       "Пошук оновлень…">
+<!ENTITY addon.releaseNotes.label             "Примітки до випуску:">
+<!ENTITY addon.loadingReleaseNotes.label      "Завантаження…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Шкода, але під час завантаження приміток сталася помилка.">
 
 <!ENTITY addon.createdBy.label                "Від ">

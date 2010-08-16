@@ -22,7 +22,7 @@
 <!ENTITY  openTabInNewWindow.accesskey       "в">
 <!ENTITY  pinTab.label                       "Перетворити на програмну вкладку">
 <!ENTITY  pinTab.accesskey                   "п">
-<!ENTITY  unpinTab.label                     "Перетворити на нормальну вкладку">
+<!ENTITY  unpinTab.label                     "Перетворити на звичайну вкладку">
 <!ENTITY  unpinTab.accesskey                 "н">
 <!ENTITY  bookmarkThisTab.label              "Закласти цю вкладку">
 <!ENTITY  bookmarkThisTab.accesskey          "З">
@@ -119,7 +119,7 @@
 <!ENTITY printButton.label            "Друкувати">
 <!ENTITY printButton.tooltip          "Надрукувати поточну сторінку">
 
-<!ENTITY locationItem.title           "Розташування">
+<!ENTITY locationItem.title           "Адреса">
 <!ENTITY searchItem.title             "Пошук">
 <!ENTITY throbberItem.title           "Індикатор діяльності">
 <!ENTITY bookmarksItem.title          "Закладки">
@@ -253,15 +253,15 @@
 
 <!ENTITY appMenuPrintCmd.label "Друкувати">
 <!ENTITY appMenuCustomize.label "Вигляд">
-<!ENTITY appMenuToolbarLayout.label "Розташування панелей…">
+<!ENTITY appMenuToolbarLayout.label "Панель інструментів…">
 <!ENTITY appMenuSidebars.label "Бічні панелі">
 <!ENTITY appMenuHelp.label "Довідка">
 
-<!ENTITY developerMenu.label "Developer">
+<!ENTITY developerMenu.label "Розробка">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Go to a Web Site">
-<!ENTITY urlbar.accesskey             "а">
+<!ENTITY urlbar.placeholder           "Перейти на сайт">
+<!ENTITY urlbar.accesskey             "с">
 <!ENTITY urlbar.switchToTab.label     "Перемкнутись на вкладку:">
 
 <!-- 
