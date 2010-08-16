@@ -2,14 +2,43 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
+<!ENTITY mainWindow.title		"&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!ENTITY mainWindow.titlemodifier	"&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY mainWindow.titlemodifiermenuseparator	" - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(プライベートブラウジング)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix	"(プライベートブラウジング)">
+
+<!-- Tab context menu -->
+<!ENTITY moveTabTo.label		"タブを移動...">
+<!ENTITY moveTabTo.accesskey		"M">
+<!ENTITY createNewGroup.label		"新しいタブグループ">
+<!ENTITY createNewGroup.accesskey	"C">
+<!ENTITY namedGroups.label		"名前のついたグループ">
+<!ENTITY reloadTab.label		"タブを再読み込み">
+<!ENTITY reloadTab.accesskey		"R">
+<!ENTITY reloadAllTabs.label		"すべてのタブを再読み込み">
+<!ENTITY reloadAllTabs.accesskey	"A">
+<!ENTITY closeOtherTabs.label		"他のタブをすべて閉じる">
+<!ENTITY closeOtherTabs.accesskey	"o">
+<!ENTITY openTabInNewWindow.label	"新しいウィンドウで開く">
+<!ENTITY openTabInNewWindow.accesskey	"W">
+<!ENTITY pinTab.label			"アイコンタブ">
+<!ENTITY pinTab.accesskey		"p">
+<!ENTITY unpinTab.label			"アイコンタブを元に戻す">
+<!ENTITY unpinTab.accesskey		"k">
+<!ENTITY bookmarkThisTab.label		"このタブをブックマーク">
+<!ENTITY bookmarkThisTab.accesskey	"B">
+<!ENTITY bookmarkAllTabs.label		"すべてのタブをブックマーク...">
+<!ENTITY bookmarkAllTabs.accesskey	"T">
+<!ENTITY undoCloseTab.label		"閉じたタブを元に戻す">
+<!ENTITY undoCloseTab.accesskey		"U">
+<!ENTITY closeTab.label			"タブを閉じる">
+<!ENTITY closeTab.accesskey		"c">
+
+<!ENTITY listAllTabs.label		"タブを一覧表示します">
 
 <!ENTITY tabCmd.label			"新しいタブ"><!-- 表示カ所によりアクセスキーが異なる -->
 <!ENTITY tabCmd.accesskey		"T">
@@ -32,6 +61,8 @@
 <!ENTITY goOfflineCmd.label		"オフライン作業">
 <!ENTITY goOfflineCmd.accesskey		"w">
 
+<!ENTITY menubarCmd.label		"メニューバー">
+<!ENTITY menubarCmd.accesskey		"M">
 <!ENTITY navbarCmd.label		"ナビゲーションツールバー">
 <!ENTITY navbarCmd.accesskey		"N">
 <!ENTITY personalbarCmd.label		"ブックマークツールバー">
@@ -48,6 +79,9 @@
 <!ENTITY pageInfoCmd.commandkey		"i">
 <!ENTITY fullScreenCmd.label		"全画面表示">
 <!ENTITY fullScreenCmd.accesskey	"F">
+<!ENTITY fullScreenCmd.macCommandKey	"f">
+<!ENTITY showAllTabsCmd.label		"すべてのタブを表示">
+<!ENTITY showAllTabsCmd.accesskey	"A">
 
 <!ENTITY fullScreenMinimize.tooltip	"最小化">
 <!ENTITY fullScreenRestore.tooltip	"元に戻す">
@@ -90,6 +124,7 @@
 <!ENTITY printButton.label		"印刷">
 <!ENTITY printButton.tooltip		"このページを印刷します">
 
+<!ENTITY backForwardItem.title		"戻る/進む">
 <!ENTITY locationItem.title		"ロケーションバー">
 <!ENTITY searchItem.title		"検索">
 <!ENTITY throbberItem.title		"読み込み中アイコン">
@@ -97,11 +132,19 @@
 
 <!-- Toolbar items -->
 <!ENTITY  homeButton.label		"ホーム">
+<!ENTITY tabViewButton2.label		"タブグループ">
+<!ENTITY tabViewButton2.tooltip		"タブをグループ分けして管理できます">
 
 <!ENTITY bookmarksButton.label		"ブックマーク">
 <!ENTITY bookmarksButton.tooltip	"ブックマークをサイドバーに表示します">
 <!ENTITY bookmarksButton.accesskey	"B">
 <!ENTITY bookmarksCmd.commandkey	"b">
+
+<!ENTITY bookmarksMenuButton.label	"ブックマーク">
+<!ENTITY bookmarksMenuButton.tooltip	"ブックマークを表示">
+<!ENTITY viewBookmarksSidebar.label	"ブックマークをサイドバーに表示します">
+<!ENTITY viewBookmarksToolbar.label	"ブックマークをツールバーに表示します">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -110,8 +153,8 @@
 
 <!ENTITY historyButton.label		"履歴">
 <!ENTITY historyButton.tooltip		"最近表示したページの履歴をサイドバーに表示します">
-<!ENTITY bookmarksButton.accesskey	"B">
-<!ENTITY bookmarksCmd.commandkey	"b">
+<!ENTITY historySidebarCmd.accesskey	"s">
+<!ENTITY historySidebarCmd.commandKey	"h">
 
 <!ENTITY toolsMenu.label		"ツール">
 <!ENTITY toolsMenu.accesskey		"T">
@@ -126,12 +169,30 @@
 <!ENTITY downloads.commandkey		"j">
 <!ENTITY downloadsUnix.commandkey	"y">
 <!ENTITY addons.label			"アドオン">
-<!ENTITY addons.tooltip			"インストールされている拡張機能やテーマを管理します">
 <!ENTITY addons.accesskey		"A">
 
 <!ENTITY errorConsoleCmd.label		"エラーコンソール">
 <!ENTITY errorConsoleCmd.accesskey	"C">
 <!ENTITY errorConsoleCmd.commandkey	"j">
+
+<!ENTITY webConsoleCmd.label		"Web コンソール">
+<!ENTITY webConsoleCmd.accesskey	"W">
+<!ENTITY webConsoleCmd.commandkey	"k">
+
+<!ENTITY inspectMenu.label		"調査">
+<!ENTITY inspectMenu.accesskey		"T">
+<!ENTITY inspectMenu.commandkey		"I">
+
+<!ENTITY inspectPanelTitle.label	"HTML">
+<!ENTITY inspectButton.label		"調査">
+<!ENTITY inspectButton.accesskey	"I">
+<!ENTITY inspectNextButton.label	"次へ">
+<!ENTITY inspectNextButton.accesskey	"N">
+<!ENTITY inspectPreviousButton.label	"戻る">
+<!ENTITY inspectPreviousButton.accesskey	"P">
+<!ENTITY inspectStyleButton.label	"スタイルシート">
+<!ENTITY inspectStyleButton.accesskey	"S">
+<!ENTITY inspectStylePanelTitle.label	"スタイルシート">
 
 <!ENTITY fileMenu.label			"ファイル">
 <!ENTITY fileMenu.accesskey		"F">
@@ -167,8 +228,8 @@
 <!ENTITY preferencesCmdUnix.label	"設定">
 <!ENTITY preferencesCmdUnix.accesskey	"n">
 
-<!ENTITY clearRecentHistoryCmd.label	"最近の履歴を消去">
-<!ENTITY clearRecentHistoryCmd.accesskey	"H">
+<!ENTITY clearRecentHistory.label	"最近の履歴を消去">
+<!ENTITY clearRecentHistory.accesskey	"H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label		"プライベートブラウジングを開始">
@@ -179,12 +240,16 @@
 
 <!ENTITY viewMenu.label			"表示">
 <!ENTITY viewMenu.accesskey		"V">
+<!ENTITY showTabView2.label		"Group Your Tabs..."> <!-- (^^h 未使用？ -->
+<!ENTITY showTabView2.accesskey		"G"> <!-- (^^h 未使用？ -->
 <!ENTITY viewToolbarsMenu.label		"ツールバー">
 <!ENTITY viewToolbarsMenu.accesskey	"T">
 <!ENTITY viewSidebarMenu.label		"サイドバー">
 <!ENTITY viewSidebarMenu.accesskey	"e">
 <!ENTITY viewCustomizeToolbar.label	"カスタマイズ...">
 <!ENTITY viewCustomizeToolbar.accesskey	"C">
+<!ENTITY viewTabsOnTop.label		"タブを上部に表示">
+<!ENTITY viewTabsOnTop.accesskey	"T">
 
 <!ENTITY historyMenu.label		"履歴">
 <!ENTITY historyMenu.accesskey		"s">
@@ -196,12 +261,18 @@
 <!ENTITY showAllHistoryCmd2.label	"すべての履歴を表示"><!-- (^^; -->
 <!ENTITY showAllHistoryCmd.commandkey	"H">
 
+<!ENTITY appMenuPrintCmd.label		"印刷">
+<!ENTITY appMenuCustomize.label		"カスタマイズ">
+<!ENTITY appMenuToolbarLayout.label	"ツールバーのレイアウト">
+<!ENTITY appMenuSidebars.label		"サイドバー">
+<!ENTITY appMenuHelp.label		"ヘルプ">
+
+<!ENTITY developerMenu.label		"開発者メニュー"> <!-- (^^h 未使用？ -->
+
 <!ENTITY openCmd.commandkey		"l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "履歴とブックマークを検索">
-<!ENTITY urlbar.bookmark.emptyText	"ブックマークを検索">
-<!ENTITY urlbar.history.emptyText	"履歴を検索">
-<!ENTITY urlbar.none.emptyText		"ページの URL を入力">
+<!ENTITY urlbar.placeholder		"URL を入力します">
 <!ENTITY urlbar.accesskey		"d">
+<!ENTITY urlbar.switchToTab.label	"Switch to tab:"> <!-- (^^h 画面未確認 -->
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -232,6 +303,8 @@
 <!ENTITY openLinkCmd.accesskey		"W">
 <!ENTITY openLinkCmdInTab.label		"リンクを新しいタブで開く">
 <!ENTITY openLinkCmdInTab.accesskey	"T">
+<!ENTITY openLinkCmdInCurrent.label     "リンクを現在のタブに開く"> <!-- (^^h 画面未確認 -->
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmd.label		"フレームを新しいウィンドウで開く">
 <!ENTITY openFrameCmd.accesskey		"W">
 <!ENTITY openFrameCmdInTab.label	"フレームを新しいタブで開く">
@@ -258,6 +331,8 @@
 <!ENTITY reloadImageCmd.accesskey	"R">
 <!ENTITY viewImageCmd.label		"画像だけを表示">
 <!ENTITY viewImageCmd.accesskey		"I">
+<!ENTITY viewImageInfoCmd.label		"画像の情報を表示">
+<!ENTITY viewImageInfoCmd.accesskey	"f">
 <!ENTITY viewVideoCmd.label		"動画だけを表示">
 <!ENTITY viewVideoCmd.accesskey		"I">
 <!ENTITY viewBGImageCmd.label		"背景画像だけを表示">
@@ -299,8 +374,6 @@
 <!ENTITY sendAudioCmd.accesskey		"n">
 <!ENTITY copyLinkCmd.label		"リンクの URL をコピー">
 <!ENTITY copyLinkCmd.accesskey		"a">
-<!ENTITY copyLinkTextCmd.label		"リンクテキストをコピー">
-<!ENTITY copyLinkTextCmd.accesskey	"x">
 <!ENTITY copyImageCmd.label		"画像の URL をコピー">
 <!ENTITY copyImageCmd.accesskey		"o">
 <!ENTITY copyImageContentsCmd.label	"画像をコピー">
@@ -309,9 +382,6 @@
 <!ENTITY copyVideoURLCmd.accesskey	"o">
 <!ENTITY copyAudioURLCmd.label		"オーディオの URL をコピー">
 <!ENTITY copyAudioURLCmd.accesskey	"o">
-<!ENTITY blockImageCmd.accesskey	"B">
-<!ENTITY metadataCmd.label		"プロパティ">
-<!ENTITY metadataCmd.accesskey		"P">
 <!ENTITY copyEmailCmd.label		"メールアドレスをコピー">
 <!ENTITY copyEmailCmd.accesskey		"E">
 <!ENTITY thisFrameMenu.label		"このフレーム">
@@ -330,6 +400,8 @@
 <!ENTITY mediaShowControls.accesskey	"C">
 <!ENTITY mediaHideControls.label	"コントロールを隠す">
 <!ENTITY mediaHideControls.accesskey	"C">
+<!ENTITY videoFullScreen.label		"全画面表示">
+<!ENTITY videoFullScreen.accesskey	"F">
 
 
 <!-- LOCALIZATION NOTE :
@@ -366,6 +438,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip		"切り取り">
 <!ENTITY copyButton.tooltip		"コピー">
 <!ENTITY pasteButton.tooltip		"貼り付け">
+<!ENTITY fullScreenButton.tooltip	"ウィンドウを画面全体に表示します">
 
 <!ENTITY quitApplicationCmdWin.label	"終了">
 <!ENTITY quitApplicationCmdWin.accesskey	"x">
@@ -444,4 +517,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip		"クリックするとダウンロードウィンドウを開きます">
 
-<!ENTITY ctrlTab.search.emptyText		"タブを検索">
+<!ENTITY allTabs.filter.emptyText		"タブを検索">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label			"Browser tabs"> <!-- (^^h 未使用？ -->
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label			"他のコンピュータで開いていたタブ">
+
+<!ENTITY syncBrand.shortName.label		"Sync">
+
+<!ENTITY syncMenu.label				"&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey			"Y">
+<!ENTITY syncSetup.label			"&syncBrand.shortName.label; を設定...">
+<!ENTITY syncSetup.accesskey			"Y">
+<!ENTITY syncLogInItem.label			"接続">
+<!ENTITY syncLogInItem.accesskey		"C">
+<!ENTITY syncLogOutItem.label			"接続を解除">
+<!ENTITY syncLogOutItem.accesskey		"D">
+<!ENTITY syncSyncNowItem.label			"今すぐ同期">
+<!ENTITY syncSyncNowItem.accesskey		"S">
