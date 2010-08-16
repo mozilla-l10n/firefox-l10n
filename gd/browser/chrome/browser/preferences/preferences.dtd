@@ -5,7 +5,7 @@
      Luna since widget heights are different based on the OS theme -->
 <!ENTITY  prefWinMinSize.styleWin2      "width: 51em; min-height: 47em;">
 <!ENTITY  prefWinMinSize.styleMac       "width: 65em; min-height: 50em;">
-<!ENTITY  prefWinMinSize.styleGNOME     "width: 52em; min-height: 45em;">
+<!ENTITY  prefWinMinSize.styleGNOME     "width: 65em; min-height: 50em;">
 
 <!ENTITY  paneGeneral.title       "Coitcheann">
 <!ENTITY  paneTabs.title          "Tabaichean">
