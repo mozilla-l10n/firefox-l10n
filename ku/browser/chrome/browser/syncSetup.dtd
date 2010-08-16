@@ -13,14 +13,14 @@
 <!ENTITY signIn.username.label      "Navê bikarhêner">
 <!ENTITY signIn.username.accesskey  "N">
 <!ENTITY signIn.password.label      "Şîfre">
-<!ENTITY signIn.password.accesskey  "Ş">
+<!ENTITY signIn.password.accesskey  "f">
 <!ENTITY signIn.serverURL.label     "URL'a pêşkêşkarê">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountPage.title.label  "Hesabê Xwe yê &syncBrand.shortName.label;ê Biafirîne">
 <!ENTITY setup.confirmPassword.label  "Şîfreyê pesend bike">
-<!ENTITY setup.confirmPassword.accesskey  "Ş">
+<!ENTITY setup.confirmPassword.accesskey  "f">
 <!ENTITY setup.emailAddress.label     "Navnîşana EPeyamê">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -31,7 +31,7 @@
 <!ENTITY setup.tosAgree2.label      "û">
 <!ENTITY setup.ppLink.label         "Siyaseta nepeniyê">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "û">
+<!ENTITY setup.tosAgree2.accesskey  "a">
 
 <!-- New Account Page 2: Passphrase Entry -->
 <!ENTITY setup.newPPPage.title.label       "Enter your Secret Phrase">
@@ -58,7 +58,7 @@
 <!ENTITY syncItem.history.label       "Dîrokê senkronîze bike">
 <!ENTITY syncItem.history.accesskey   "r">
 <!ENTITY syncItem.passwords.label     "Şîfreyan senkronîze bike">
-<!ENTITY syncItem.passwords.accesskey "Ş">
+<!ENTITY syncItem.passwords.accesskey "f">
 <!ENTITY syncItem.prefs.label         "Vebijêrkan senkronîze bike">
 <!ENTITY syncItem.prefs.accesskey     "s">
 
@@ -66,7 +66,7 @@
 <!ENTITY setup.captchaPage.title.label     "Please confirm you're not a robot ;)">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
+<!ENTITY setup.existingAccount.title.label "Agahiya hesabê têkeve">
 <!ENTITY resetPassword.label          "Şîfreyê reset bike">
 <!ENTITY connecting.label             "Tê girêdan…">
 

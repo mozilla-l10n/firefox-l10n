@@ -42,17 +42,15 @@
 <!ENTITY malformedURI.title "Çewtî' Navnîşan Nederbasdar e">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Địa chỉ Web thường được viết như sau
-    <strong>http://www.example.com/</strong></li>
-  <li>Hãy chắc rằng bạn đang dùng dấu chéo lên (vd.
-    <strong>/</strong>).</li>
+  <li>Navnîşan bi piranî wekî <strong>http://www.navnisan.com/</strong> tên nivîsandin.</li>
+  <li>Gelo xalbenda parvekirinê (<strong>/</strong>) rast hatiye nivîsandin? Divê ev xalbend, ne çepaldayî lê <strong>rastpaldayî</strong> be.</li>
 </ul>
 ">
 
 <!ENTITY netInterrupt.title "Girêdan qut bû">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Çewtî! Negirêdayî">
+<!ENTITY netOffline.title "Moda negirêdayî">
 <!ENTITY netOffline.longDesc "netOffline tê vê derê.">
 
 <!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
