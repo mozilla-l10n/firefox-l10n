@@ -1,5 +1,5 @@
 <!ENTITY newprofile.title             "Asistente de criación de perfiles">
-<!ENTITY window.size                  "anchor: 45em; alto: 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; atroxa información sobro la so configuración y preferencies nel so perfil personal.">
