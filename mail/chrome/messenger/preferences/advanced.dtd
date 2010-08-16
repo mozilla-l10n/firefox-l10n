@@ -39,13 +39,13 @@
 <!ENTITY markAsReadDelay.accesskey		"d">
 <!ENTITY secondsLabel.label			"秒間以上表示していたら既読にする">
 <!ENTITY openMsgIn.label			"メッセージを次の場所に開く:">
-<!ENTITY openMsgInNewTab.label			"新しいタブで開く">
+<!ENTITY openMsgInNewTab.label			"新しいタブ">
 <!ENTITY openMsgInNewTab.accesskey		"t">
-<!ENTITY reuseExpRadio0.label			"新しいメッセージウィンドウで開く">
+<!ENTITY reuseExpRadio0.label			"新しいメッセージウィンドウ">
 <!ENTITY reuseExpRadio0.accesskey		"n">
-<!ENTITY reuseExpRadio1.label			"既存のメッセージウィンドウで開く">
+<!ENTITY reuseExpRadio1.label			"既存のメッセージウィンドウ">
 <!ENTITY reuseExpRadio1.accesskey		"e">
-<!ENTITY closeMsgWindowOnDelete.label		"削除時にメッセージウィンドウを閉じる">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label	"移動時または削除時にメッセージウィンドウを閉じる">
 <!ENTITY closeMsgWindowOnDelete.accesskey	"C">
 
 <!-- Update -->
