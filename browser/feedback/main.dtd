@@ -2,7 +2,7 @@
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Mîheng">
 <!ENTITY testpilot.settings.dataSubmission.label    "Data Submission">
-<!ENTITY testpilot.settings.notifications.label     "Notifications">
+<!ENTITY testpilot.settings.notifications.label     "Agahdarker">
 <!ENTITY testpilot.settings.notifyWhen.label        "Notify me when…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Perwerdehiyek bê ragihandin">
 <!ENTITY testpilot.settings.newStudy.label          "Perwerdehiyeke nû heye">
@@ -12,9 +12,9 @@
 <!ENTITY testpilot.about.label                      "Berbarê Pîlotê Testê de">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Perwerdehiyên Te yên Pîlotê Testê">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Perwerdehiyên Niha">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Perwerdehiyên Qediyayî">
+<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Dîtina Perwerdehiyan">
 <!ENTITY testpilot.studiesWindow.settings.label         "Mîheng">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait...">
@@ -26,7 +26,7 @@
 <!ENTITY testpilot.notification.close.tooltip            "Girtin">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Perwerdehiyên Bikarhêneran Veke">
+<!ENTITY testpilot.enable.label                        "Turn On User Studies">
 <!ENTITY testpilot.feedbackbutton.label                "Agahdarkirin">
 <!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because...">
 <!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because...">
