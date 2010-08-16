@@ -1,12 +1,15 @@
 <!ENTITY testpilot.brand.label                      "ਟੈਸਟ ਪਾਇਲਟ">
 <!-- browser window: menu and status bar -->
+<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "ਸੈਟਿੰਗ">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "ਮੈਨੂੰ ਸੂਚਨਾ ਦਿਓ ਜਦੋਂ">
+<!ENTITY testpilot.settings.dataSubmission.label    "ਡਾਟਾ ਭੇਜਣਾ">
+<!ENTITY testpilot.settings.notifications.label     "ਸੂਚਨਾ">
+<!ENTITY testpilot.settings.notifyWhen.label        "ਮੈਨੂੰ ਸੂਚਨਾ ਦਿਓ ਜਦੋਂ…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "ਅਧਿਐਨ ਭੇਜਣ ਲਈ ਤਿਆਰ ਹੋਵੇ">
 <!ENTITY testpilot.settings.newStudy.label          "ਨਵਾਂ ਅਧਿਐਨ ਉਪਲੱਬਧ ਹੋਵੇ">
 <!ENTITY testpilot.settings.hasNewResults.label     "ਅਧਿਐਨ ਲਈ ਨਵੇਂ ਨਤੀਜੇ ਹੋਣ">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "ਮੇਰਾ ਡਾਟਾ ਆਟੋਮੈਟਿਕ ਹੀ ਭੇਜੋ (ਮੈਨੂੰ ਨਾ ਪੁੱਛੋ)">
-<!ENTITY testpilot.allStudies.label                 "ਸਭ ਤੁਹਾਡੇ ਯੂਜ਼ਰ ਅਧਿਐਨ">
+<!ENTITY testpilot.allYourStudies.label             "ਤੁਹਾਡੇ ਸਭ ਯੂਜ਼ਰ ਅਧਿਐਨ…">
 <!ENTITY testpilot.about.label                      "ਟੈਸਟ ਪਾਇਲਟ ਬਾਰੇ">
 
 <!-- all studies window -->

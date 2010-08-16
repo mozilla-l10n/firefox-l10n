@@ -11,6 +11,11 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)">
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "ਇਹ ਟੈਬ ਭੇਜੋ ਇਸ 'ਚ…">
+<!ENTITY  moveTabTo.accesskey                "M">
+<!ENTITY  createNewGroup.label               "ਨਵਾਂ ਗਰੁੱਪ ਬਣਾਓ">
+<!ENTITY  createNewGroup.accesskey           "C">
+<!ENTITY  namedGroups.label                  "ਨਾਂ ਨਾਲ ਗਰੁੱਪ">
 <!ENTITY  reloadTab.label                    "ਟੈਬ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "ਸਭ ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ">
@@ -126,6 +131,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "ਘਰ">
+<!ENTITY tabViewButton2.label         "ਟੈਗ ਗਰੁੱਪ">
+<!ENTITY tabViewButton2.tooltip       "ਆਪਣੀ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਓ">
 
 <!ENTITY bookmarksButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
@@ -237,6 +244,8 @@
 
 <!ENTITY viewMenu.label         "ਵੇਖੋ">
 <!ENTITY viewMenu.accesskey       "V">
+<!ENTITY showTabView2.label     "ਆਪਣੀਆਂ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਓ…">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label       "ਟੂਲਬਾਰ">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "ਸਾਈਡਬਾਰ">
