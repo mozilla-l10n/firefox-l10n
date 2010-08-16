@@ -54,8 +54,8 @@
 <!ENTITY  namedGroups.label                  "Nosauktas grupas">
 <!ENTITY  moveTabTo.label                    "Pārcelt cilni uz…">
 <!ENTITY  moveTabTo.accesskey                "P">
-<!ENTITY showTabView.label     "CilņuSkats">
-<!ENTITY showTabView.accesskey     "C">
+<!ENTITY showTabView2.label     "Grupēt cilnes…">
+<!ENTITY showTabView2.accesskey     "G">
 
 <!ENTITY syncBrand.shortName.label  "Sinhronizēt">
 
@@ -73,8 +73,8 @@
 <!ENTITY syncLogOutItem.accesskey     "A">
 <!ENTITY syncSyncNowItem.label        "Sinhronizēt">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY tabViewButton.label          "Cilņu kopas">
-<!ENTITY tabViewButton.tooltip        "Atvērt vizuālu cilņu skatu">
+<!ENTITY tabViewButton2.label         "Cilņu grupas">
+<!ENTITY tabViewButton2.tooltip       "Grupējiet savas cilnes">
 
 <!ENTITY goOfflineCmd.label "Strādāt nesaistē">
 <!ENTITY goOfflineCmd.accesskey "R">

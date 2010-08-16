@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; iestatīšana">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Vai lietojat &syncBrand.fullName.label;s iespēju?">
+<!ENTITY setup.choicePage.new.label       "Es vēl nelietoju &syncBrand.shortName.label;s iespēju">
+<!ENTITY setup.choicePage.existing.label  "Es jau lietoju &syncBrand.shortName.label;s iespēju citā datorā">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Pieslēgties">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label;s serverim">
+<!ENTITY serverType.custom.label    "Citam serverim">
+<!ENTITY signIn.username.label      "Lietotājvārds">
+<!ENTITY signIn.username.accesskey  "L">
+<!ENTITY signIn.password.label      "Parole">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.serverURL.label     "Servera adrese">
+<!ENTITY signIn.serverURL.accesskey "S">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Izveidot savu &syncBrand.shortName.label;s kontu">
+<!ENTITY setup.confirmPassword.label  "Apstipriniet paroli">
+<!ENTITY setup.confirmPassword.accesskey  "p">
+<!ENTITY setup.emailAddress.label     "Epasta adrese">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Es piekrītu">
+<!ENTITY setup.tosAgree1.accesskey  "">
+<!ENTITY setup.tosLink.label        "Lietošanas noteikumiem">
+<!ENTITY setup.tosAgree2.label      "un">
+<!ENTITY setup.ppLink.label         "Privātuma politikai">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Ievadiet slepeno frāzi">
+<!ENTITY passphraseDesc.label         "Lūdzu ievadiet slepeno frāzi. Tā tiks izmantota, lai šifrētu jūsu datus, lai vienīgi jūs varētu tiem piekļūt. Tā netiek glabāta uz servera un to nav iespējams atgūt, lūdzu nepazaudējiet to!">
+<!ENTITY passphraseDesc2.label        "Tai ir jābūt vismaz 12 simbolus garai un tā nevar būt vienāda ar jūsu sinhronizācijas konta paroli.">
+<!ENTITY passphraseEntry.label        "Slepenā frāze">
+<!ENTITY passphraseEntry.accesskey    "S">
+<!ENTITY passphraseConfirm.label      "Vēlreiz">
+<!ENTITY passphraseConfirm.accesskey  "v">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Pārlūka sinhronizēšanas iestatījumi">
+<!ENTITY syncComputerName.label       "Datora nosaukums:">
+<!ENTITY syncComputerName.accesskey   "n">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName;: ">
+<!ENTITY syncModeSwitchDesc.accesskey "f">
+<!ENTITY syncEverything.label         "Sinhronizēs visu">
+<!ENTITY customSync.label             "Izmantos pielāgotus iestatījumus">
+<!ENTITY syncEverythingDescription.label  "Jūsu grāmatzīmes, pārlūkošanas vēsture, paroles, iestatījumi un cilnes tiks sinhronizētas.">
+<!ENTITY syncItem.bookmarks.label     "Sinhronizēt grāmatzīmes">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sinhronizēt cilnes">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sinhronizēt vēsturi">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sinhronizēt paroles">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sinhronizēt iestatījumus">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Lūdzu aplieciniet, ka neesat robots ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Ievadiet konta informāciju">
+<!ENTITY resetPassword.label          "Atjaunot paroli">
+<!ENTITY connecting.label             "Savienojas…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Ievadiet slepeno frāzi">
+<!ENTITY passphraseDesc3.label        "Lūdzu ievadiet slepeno frāzi. Šai ir jābūt tai pašai slepenajai frāzei, ko jūs izmantojāt, lai nošifrētu datus.">
+<!ENTITY passphraseHelp.label         "Jūsu slepenā frāze ir vismaz 12 simbolus gara un nav vienāda ar jūsu paroli. Slepeno frāzi jūš varat atrast otrā datorā pie Saglabātās paroles Drošība sadaļā. Ja nevarat atrast pareizo slepeno frāzi, jūs varat ievadīt jaunu, bet šajā gadījumā tiks pazaudēti visi sinhronizācijas serverī saglabātie dati.">
+<!ENTITY changePassphrase.label       "Mainīt slepeno frāzi">
+<!ENTITY verifying.label              "Notiek pārbaude…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Kā vēlaties sākt?">
+<!ENTITY choice.merge.main.label      "Apvienot šī datora datus ar datiem no jūsu &syncBrand.shortName.label;s konta">
+<!ENTITY choice.merge.recommend.label "Mozilla iesaka šo variantu lielākajai daļai lietotāju.">
+<!ENTITY choice.client.main.label     "Aizstāt visus datus šajā datorā ar datiem no jūsu &syncBrand.fullName.label;s konta">
+<!ENTITY choice.server.main.label     "Aizstāt visu citu ierīču datus">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Apstipriniet savu izvēli">
+<!ENTITY confirm.merge.label          "Jūs esat izvēlējies apvienot savus datus šajā datorā ar datiem no citiem datoriem un ierīcēm, kas izmanto &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label         "Visi &brandShortName; dati šajā datorā tiks izdzēsti, ieskaitot sekojošo:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; pēc tam pārkopēs datus no &syncBrand.fullName.label;s šajā datorā.">
+<!ENTITY confirm.client.warning.label "BRĪDINĀJUMS: Šī darbība novedīs pie tā, ka visi &brandShortName; dati šajā datorā tiek aizvietoti!">
+<!ENTITY confirm.server.label         "Dati sekojošās ierīcēs tiks aizstāti ar jūsu lokālajiem datiem šajā datorā:">
+<!ENTITY confirm.server.warning.label "BRĪDINĀJUMS: Jūsu lokālie dati šajā datorā aizstās &brandShortName; datus sekojošās ierīcēs!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Iestatīšana pabeigta!">
+<!ENTITY setup.successPage.desc.label    "Apsveicam! &brandShortName; ir veiksmīgi iestatīts automātiskai jūsu informācijas sinhronizēšanai. Neaizmirstiet uzinstalēt &syncBrand.fullName.label; arī visos citos datoros vai ierīcēs, ko jūs izmantojat. Tagad jūs varat turpināt &brandShortName;s lietošanu.">
