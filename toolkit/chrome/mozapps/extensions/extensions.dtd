@@ -22,13 +22,10 @@
 
 <!ENTITY cmd.enableAddon.label "Ieslēgt">
 <!ENTITY cmd.enableAddon.accesskey "E">
-<!ENTITY cmd.enableAddon.tooltip "Ieslēgt šo papildinājumu pēc &brandShortName; pārstartēšanas">
 <!ENTITY cmd.disableAddon.label "Atslēgt">
 <!ENTITY cmd.disableAddon.accesskey "T">
-<!ENTITY cmd.disableAddon.tooltip "Atslēgt šo papildinājumu pēc &brandShortName; pārstartēšanas">
 <!ENTITY cmd.uninstallAddon.label             "Atinstalēt">
 <!ENTITY cmd.uninstallAddon.accesskey         "A">
-<!ENTITY cmd.uninstallAddon.tooltip           "Atinstalēt šo papildinājumu">
 
 <!ENTITY cmd.about.label "Par šo papildinājumu">
 <!ENTITY cmd.about.accesskey "P">
@@ -68,14 +65,23 @@
 <!ENTITY listEmpty.installed.label            "Jums nav uzinstalēts neviens šī tipa atjauninājums">
 <!ENTITY listEmpty.search.label               "Nevar atrast nevienu atbilstošu papildinājumu">
 <!ENTITY listEmpty.button.label               "Uzziniet vairāk par papildinājumiem">
+<!ENTITY listEmpty.availableUpdates.label     "Atjauninājumi nav atrasti">
+<!ENTITY listEmpty.recentUpdates.label        "Pēdējā laikā neviens papildinājums nav atjaunināts">
+<!ENTITY listEmpty.findUpdates.label          "Meklēt atjauninājumus">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Atjanināt papildinājumu">
 <!ENTITY updates.updating.label               "Atjaunina papildinājumus">
 <!ENTITY updates.installed.label              "Jūsu papildinājumi ir atjaunināti.">
 <!ENTITY updates.downloaded.label             "Jūsu papildinājumu atjauninājumi ir lejupielādēti.">
 <!ENTITY updates.restart.label                "Pārstartējiet, lai pabeigtu atjaunināšanu">
 <!ENTITY updates.noneFound.label              "Atjauninājumi nav atrasti">
+<!ENTITY updates.backgroudUpdateCheck.label   "Meklēt atjauninājumus automātiski">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "m">
+<!ENTITY updates.manualUpdatesFound.label     "Aplūkot pieejamos atjauninājumus">
+<!ENTITY updates.updateAddonsNow.label        "Atjaunināt papildinājumus">
+<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.viewUpdates.label            "Aplūkot nesenos atjauninājumus">
+<!ENTITY updates.viewUpdates.accesskey        "n">
 
 <!ENTITY addon.homepage                       "Mājas lapa">
 <!ENTITY addon.unknownDate                    "Nezināms">
@@ -113,3 +119,17 @@
 <!ENTITY view.appearance.label                "Tēmas">
 <!ENTITY view.plugins.label                   "Spraudņi">
 <!ENTITY addon.install.label                  "Instalēt">
+<!ENTITY view.recentUpdates.label             "Nesenie atjauninājumi">
+<!ENTITY view.availableUpdates.label          "Pieejamie atjauninājumi">
+
+<!ENTITY addon.releaseNotes.label             "Laidiena piezīmes:">
+<!ENTITY addon.loadingReleaseNotes.label      "Ielādē…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Atvainojiet, bet ielādējot laidiena piezīmes notikusi kļūda.">
+<!ENTITY addon.updateNow.label                "Atjaunināt">
+<!ENTITY addon.updateNow.tooltip              "Instalēt šī papildinājuma atjauninājumu">
+<!ENTITY addon.update.postfix                 "atjauninājums">
+
+<!ENTITY cmd.showReleaseNotes.label           "Parādīt laidiena piezīmes">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Parādt šī atjauninājuma laidiena piezīmes">
+<!ENTITY cmd.hideReleaseNotes.label           "Paslēpt laidiena piezīmes">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Paslēpt šī laidiena piezīmes">
