@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Test pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Asetukset">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Ilmoita minulle, kun">
+<!ENTITY testpilot.settings.dataSubmission.label    "Lähetetyt datat">
+<!ENTITY testpilot.settings.notifications.label     "Ilmoitukset">
+<!ENTITY testpilot.settings.notifyWhen.label        "Ilmoita, kun">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Kerätty tutkimusdata on lähetysvalmiina">
 <!ENTITY testpilot.settings.newStudy.label          "Uusi tutkimus on mahdollista aloittaa">
 <!ENTITY testpilot.settings.hasNewResults.label     "Tutkimustulokset ovat tarkasteltavissa">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Lähetä tutkimusdatani automaattisesti (älä kysy minulta)">
-<!ENTITY testpilot.allStudies.label                 "Kaikki käyttötutkimuksesi">
+<!ENTITY testpilot.allYourStudies.label             "Kaikki käyttäjätutkimukset">
 <!ENTITY testpilot.about.label                      "Tietoja Test pilotista">
 
 <!-- all studies window -->
