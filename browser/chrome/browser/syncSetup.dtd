@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;-Setup">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Sind Sie bereits Nutzer von &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label       "Ich habe &syncBrand.shortName.label; bisher noch nicht verwendet">
+<!ENTITY setup.choicePage.existing.label  "Ich verwende &syncBrand.shortName.label; bereits auf einem anderen Computer">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Verbinde mit">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-Server">
+<!ENTITY serverType.custom.label    "Eigenen Server verwenden">
+<!ENTITY signIn.username.label      "Benutzername">
+<!ENTITY signIn.username.accesskey  "B">
+<!ENTITY signIn.password.label      "Passwort">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.serverURL.label     "Server-URL">
+<!ENTITY signIn.serverURL.accesskey "L">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Erstellen Sie Ihren &syncBrand.shortName.label;-Account">
+<!ENTITY setup.confirmPassword.label  "Passwort bestätigen">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "E-Mail-Adresse">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Ich bestätige die">
+<!ENTITY setup.tosAgree1.accesskey  "b">
+<!ENTITY setup.tosLink.label        "Nutzungsbedingungen">
+<!ENTITY setup.tosAgree2.label      "und die">
+<!ENTITY setup.ppLink.label         "Datenschutzrichtlinie">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label  "Eingabe der Passphrase">
+<!ENTITY passphraseDesc.label         "Bitte geben Sie eine Passphrase ein. Diese wird zur Verschlüsselung Ihrer Daten verwendet und nicht auf dem Server gespeichert. Nur Sie haben die Passphrase mit der die Daten wieder hergestellt werden können, also vergessen bzw. verlieren Sie sie nicht!">
+<!ENTITY passphraseDesc2.label        "Es sind mindestens 12 Zeichen erforderlich, das Account-Passwort darf nicht verwendet werden.">
+<!ENTITY passphraseEntry.label        "Passphrase">
+<!ENTITY passphraseEntry.accesskey    "P">
+<!ENTITY passphraseConfirm.label      "Bestätigen">
+<!ENTITY passphraseConfirm.accesskey  "B">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Browser-Sync-Einstellungen">
+<!ENTITY syncComputerName.label       "Computer-Name:">
+<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; wird: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Alles synchronisieren">
+<!ENTITY customSync.label             "Meine eigenen Einstellungen verwenden">
+<!ENTITY syncEverythingDescription.label  "Ihre Lesezeichen, Chronik, Passwörter, Einstellungen und Tabs werden synchronisiert.">
+<!ENTITY syncItem.bookmarks.label     "Lesezeichen synchronisieren">
+<!ENTITY syncItem.bookmarks.accesskey "L">
+<!ENTITY syncItem.tabs.label          "Tabs synchronisieren">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Chronik synchronisieren">
+<!ENTITY syncItem.history.accesskey   "C">
+<!ENTITY syncItem.passwords.label     "Passwörter synchronisieren">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Einstellungen synchronisieren">
+<!ENTITY syncItem.prefs.accesskey     "E">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Bitte bestätigen Sie, dass Sie kein Roboter sind ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Geben Sie Ihre Benutzerdaten ein">
+<!ENTITY resetPassword.label          "Passwort zurücksetzen">
+<!ENTITY connecting.label             "Verbinden…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Passphrase eingeben">
+<!ENTITY passphraseDesc3.label        "Bitte geben Sie die Passphrase ein. Dies muss die selbe Passphrase sein, die Sie zur Verschlüsselung der Daten verwendet haben.">
+<!ENTITY passphraseHelp.label         "Ihre Passphrase muss mindestens 12 Zeichen lang sein und unterscheidet sich von Ihrem Passwort. Wenn Sie Ihre Passphrase nicht mehr wissen, können Sie auf einem bereits eingerichteten Computer unter Einstellungen/Sicherheit die gespeicherte Passwörter anzeigen lassen. Wenn Sie damit keinen Erfolg haben können Sie die Passphrase zurücksetzen, allerdings verlieren Sie dann alle Ihre auf dem Server gespeicherten Daten.">
+<!ENTITY changePassphrase.label       "Passphrase ändern">
+<!ENTITY verifying.label              "Überprüfen…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Wie möchten Sie beginnen?">
+<!ENTITY choice.merge.main.label      "Zusammenführen der Daten auf diesem Computer mit den Daten auf &syncBrand.shortName.label;">
+<!ENTITY choice.merge.recommend.label "Mozilla empfiehlt diese Option allen Benutzern.">
+<!ENTITY choice.client.main.label     "Ersetzen aller Daten auf diesem Computer mit den Daten, die auf &syncBrand.fullName.label; verfügbar sind">
+<!ENTITY choice.server.main.label     "Überschreiben aller anderen Geräte mit den lokalen Daten">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Bestätigen Sie Ihre Auswahl">
+<!ENTITY confirm.merge.label          "Sie haben sich entschieden, die Daten dieses Computers mit den Daten Ihrer anderen Computer, die &syncBrand.fullName.label; verwenden, zusammenzuführen.">
+<!ENTITY confirm.client.label         "Alle &brandShortName;-Daten auf diesem Computer werden gelöscht, dies betrifft:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; wird dann die &syncBrand.fullName.label;-Daten auf diesen Computer kopieren.">
+<!ENTITY confirm.client.warning.label "WARNUNG: Alle &brandShortName;-Daten auf diesem Computer werden ersetzt
+<!ENTITY confirm.server.label         "Die folgenden Geräte werden mit den lokalen Daten überschrieben:">
+<!ENTITY confirm.server.warning.label "WARNUNG: Ihre lokalen Daten werden alle &brandShortName;-Daten auf diesen Geräten überschreiben!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Setup abgeschlossen!">
+<!ENTITY setup.successPage.desc.label    "Gratulation! &brandShortName; wird nun automatisch Ihre Daten synchronisieren. Vergessen Sie nicht, &syncBrand.fullName.label; auf allen zu synchronisierenden Geräten zu installieren. Sie können &brandShortName; nun verwenden.">
