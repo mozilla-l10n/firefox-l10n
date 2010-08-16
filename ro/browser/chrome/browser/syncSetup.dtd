@@ -7,7 +7,7 @@
 <!ENTITY setup.choicePage.existing.label  "Folosesc deja &syncBrand.shortName.label; pe alt calculator">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Connect to">
+<!ENTITY connectTo.label            "Conectare la">
 <!ENTITY serverType.main.label      "Server &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "Folosește un server personalizat">
 <!ENTITY signIn.username.label      "User Name">
@@ -49,7 +49,7 @@
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
 <!ENTITY syncModeSwitchDesc.accesskey "w">
 <!ENTITY syncEverything.label         "sincroniza totul">
-<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY customSync.label             "folosi setările mele personalizate">
 <!ENTITY syncEverythingDescription.label  "Se vor sincroniza semnele de carte, istoricul, parolele, preferințele și filele.">
 <!ENTITY syncItem.bookmarks.label     "Sincronizează semnele de carte">
 <!ENTITY syncItem.bookmarks.accesskey "m">
@@ -67,14 +67,14 @@
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Introduceți informațiile despre cont">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY connecting.label             "Connecting…">
+<!ENTITY resetPassword.label          "Resetează parola">
+<!ENTITY connecting.label             "Conectare…">
 
 <!-- Existing Account Page 2: Passphrase -->
 <!ENTITY passphraseGroupbox.label     "Introduceți fraza secretă">
 <!ENTITY passphraseDesc3.label        "Vă rugăm să introduceți fraza secretă. Aceasta trebuie să fie aceeași pe care ați setat-o când s-au criptat datele.">
 <!ENTITY passphraseHelp.label         "Your secret phrase is at least 12 characters long and is not your password. You can find your saved secret phrase by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY changePassphrase.label       "Change Secret Phrase">
+<!ENTITY changePassphrase.label       "Schimbă fraza secretă">
 <!ENTITY verifying.label              "Se verifică…">
 
 <!-- New & Existing Account: Merge Options -->
