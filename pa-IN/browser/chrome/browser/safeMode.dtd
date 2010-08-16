@@ -49,7 +49,7 @@
 <!ENTITY resetToolbars.label          "ਟੂਲਬਾਰ ਅਤੇ ਕੰਟਰੋਲ ਮੁੜ-ਸੈੱਟ">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.label        "ਬੈਕਅੱਪ ਨੂੰ ਛੱਡ ਕੇ ਸਭ ਬੁੱਕਮਾਰਕ ਹਟਾਓ">
 <!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "ਸਭ ਯੂਜ਼ਰ ਪਸੰਦਾਂ ਨੂੰ &brandShortName; ਡਿਫਾਲਟ ਬਣਾਓ">
