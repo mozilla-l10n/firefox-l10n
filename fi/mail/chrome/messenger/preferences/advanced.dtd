@@ -45,7 +45,7 @@
 <!ENTITY reuseExpRadio0.accesskey       "U">
 <!ENTITY reuseExpRadio1.label           "Auki olevaan viesti-ikkunaan">
 <!ENTITY reuseExpRadio1.accesskey       "A">
-<!ENTITY closeMsgWindowOnDelete.label  "Sulje viesti-ikkuna kun viesti poistetaan">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Sulje viesti-ikkuna kun viesti siirretään tai poistetaan">
 <!ENTITY closeMsgWindowOnDelete.accesskey "v">
 
 <!-- Update -->

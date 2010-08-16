@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Yksityinen selaus)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Siirrä välilehti ryhmään…">
+<!ENTITY  moveTabTo.accesskey                "S">
+<!ENTITY  createNewGroup.label               "Luo uusi ryhmä">
+<!ENTITY  createNewGroup.accesskey           "L">
+<!ENTITY  namedGroups.label                  "Nimetyt ryhmät">
 <!ENTITY  reloadTab.label                    "Päivitä välilehti">
 <!ENTITY  reloadTab.accesskey                "P">
 <!ENTITY  reloadAllTabs.label                "Päivitä kaikki välilehdet">
@@ -127,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label             "Aloitussivu">
+<!ENTITY tabViewButton2.label         "Välilehtiryhmät">
+<!ENTITY tabViewButton2.tooltip       "Ryhmittele välilehtesi">
 
 <!ENTITY bookmarksButton.label           "Kirjanmerkit">
 <!ENTITY bookmarksButton.tooltip         "Näytä kirjanmerkit">
@@ -233,6 +240,8 @@
 
 <!ENTITY viewMenu.label          "Näytä">
 <!ENTITY viewMenu.accesskey        "N">
+<!ENTITY showTabView2.label     "Ryhmittele välilehtesi…">
+<!ENTITY showTabView2.accesskey     "R">
 <!ENTITY viewToolbarsMenu.label        "Työkalupalkit">
 <!ENTITY viewToolbarsMenu.accesskey      "T">
 <!ENTITY viewSidebarMenu.label  "Sivupaneeli">
