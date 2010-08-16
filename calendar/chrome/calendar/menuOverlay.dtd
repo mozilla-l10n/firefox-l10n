@@ -44,12 +44,12 @@
 <!ENTITY event.new.event "Nuovo evento…">
 <!ENTITY event.new.event.key "N">
 <!ENTITY event.new.event.accesskey "u">
-<!ENTITY event.new.todo "Nuova attività…">
-<!ENTITY event.new.todo.key "T">
-<!ENTITY event.new.todo.accesskey "T">
+<!ENTITY event.new.task "Nuova attività…">
+<!ENTITY event.new.task.key "D">
+<!ENTITY event.new.task.accesskey "v">
 <!ENTITY calendar.new.server.label "Nuovo file calendario…">
 <!ENTITY calendar.new.server.key "L">
-<!ENTITY calendar.new.server.accesskey "v">
+<!ENTITY calendar.new.server.accesskey "d">
 <!ENTITY calendar.print.label "Stampa…">
 <!ENTITY calendar.print.key "S">
 <!ENTITY calendar.print.accesskey "S">
