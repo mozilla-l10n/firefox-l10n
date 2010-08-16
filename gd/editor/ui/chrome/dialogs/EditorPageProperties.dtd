@@ -47,4 +47,4 @@
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Duilleag ùr, gun sàbhaladh fhathast]">
 <!ENTITY EditHEADSource1.label "Sàr-chleachdaichean:">
-<!ENTITY EditHEADSource2.label "Gus susbaint eile raon a' &lt;chinn&gt; a dheasachadh, cleachd &quot;Bun-tùs an HTML&quot; sa chlàr-taice "Sealladh" no air a' bhàr-inneil "Modh deasachaidh".">
+<!ENTITY EditHEADSource2.label "Gus susbaint eile raon a' &lt;chinn&gt; a dheasachadh, cleachd &quot;Bun-tùs an HTML&quot; sa chlàr-taice &quot;Sealladh&quot; no air a' bhàr-inneil &quot;Modh deasachaidh&quot;.">

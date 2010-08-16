@@ -11,9 +11,9 @@
 <!ENTITY never.accesskey               "N">
 <!ENTITY returnSome.label              "Ceadaich bannan-cuidhteis airson cuid de theachdaireachdan">
 <!ENTITY returnSome.accesskey          "r">
-<!ENTITY notInToCc.label               "Mur eil mi ann an raon "Gu" no "Cc" na teachdaireachd:">
-<!ENTITY notInToCc.accesskey           "f">
-<!ENTITY outsideDomain.label           "Mur eil mi ann an raon "Gu" no "Cc" na teachdaireachd:">
+<!ENTITY notInToCc.label               "Mur eil mi ann an raon &quot;Gu&quot; no &quot;Cc&quot; na teachdaireachd:">
+<!ENTITY notInToCc.accesskey           "M">
+<!ENTITY outsideDomain.label           "Ma bhios an seòladair taobh a-muigh na h-àrainne agam:">
 <!ENTITY outsideDomain.accesskey       "t">
 <!ENTITY otherCases.label              "Anns gach suidheachadh eile:">
 <!ENTITY otherCases.accesskey          "A">

@@ -6,13 +6,13 @@
 
 <!ENTITY deleteAddrBookCard.label           "Sguab às">
 <!ENTITY addrBookCardProperties.label       "Roghainnean">
-<!ENTITY addtoToFieldMenu.label             "Cuir ris an raon "Gu"">
-<!ENTITY addtoCcFieldMenu.label             "Cuir ris an raon "Cc"">
-<!ENTITY addtoBccFieldMenu.label            "Cuir ris an raon "Bcc"">
+<!ENTITY addtoToFieldMenu.label             "Cuir ris an raon &quot;Gu&quot;">
+<!ENTITY addtoCcFieldMenu.label             "Cuir ris an raon &quot;Cc&quot;">
+<!ENTITY addtoBccFieldMenu.label            "Cuir ris an raon &quot;Bcc&quot;">
 
-<!ENTITY toButton.label                     "Cuir ri "Gu":">
+<!ENTITY toButton.label                     "Cuir ri &quot;Gu&quot;:">
 <!ENTITY toButton.accesskey                 "C">
-<!ENTITY ccButton.label                     "Cuir ri "Cc":">
+<!ENTITY ccButton.label                     "Cuir ri &quot;Cc&quot;:">
 <!ENTITY ccButton.accesskey                 "C">
-<!ENTITY bccButton.label                    "Cuir ri "Bcc":">
+<!ENTITY bccButton.label                    "Cuir ri &quot;Bcc&quot;:">
 <!ENTITY bccButton.accesskey                "B">

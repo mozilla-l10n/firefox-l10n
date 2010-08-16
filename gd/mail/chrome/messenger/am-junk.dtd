@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Roghainnean na truilleis">
-<!ENTITY trainingWarning.label "Ma chuireas tu seo an comas, bi agad ri &brandShortName; a thrèanadh gus an aithnich e post-truilleis. Nì thu seo leis a' phutan "Truilleis" air a' bhàr-inneil a dh'innseas dha an e truilleis a tha ann gus nach e. Feumaidh tu an dà chuid teachdaireachdan truilleis is feadhainn chòir a chomharradh.">
+<!ENTITY trainingWarning.label "Ma chuireas tu seo an comas, bi agad ri &brandShortName; a thrèanadh gus an aithnich e post-truilleis. Nì thu seo leis a' phutan &quot;Truilleis&quot; air a' bhàr-inneil a dh'innseas dha an e truilleis a tha ann gus nach e. Feumaidh tu an dà chuid teachdaireachdan truilleis is feadhainn chòir a chomharradh.">
 <!ENTITY level.label "Cuir an comas na h-uidheaman-smachd tuigseach air a' chunntas seo">
 <!ENTITY level.accesskey "e">
 

@@ -624,7 +624,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkStatusColumn.tooltip "Briog gus a sheòrsachadh a-rèir na h-inbhe truilleis">
 <!ENTITY unreadColumn.tooltip "Àireamh nan teachdaireachdan gun leughadh san t-snàth">
 <!ENTITY totalColumn.tooltip "Àireamh iomlan nan teachdaireachdan san t-snàth">
-<!ENTITY readColumn.tooltip "Briog gus a sheòrsachadh a-rèir comharra "gun leughadh/air a leughadh"">
+<!ENTITY readColumn.tooltip "Briog gus a sheòrsachadh a-rèir comharra &quot;gun leughadh/air a leughadh&quot;">
 <!ENTITY receivedColumn.tooltip "Briog gus a sheòrsachadh a-rèir a' chinn-là nuair a fhuaradh e">
 <!ENTITY starredColumn.tooltip "Briog gus a sheòrsachadh a-rèir rionnagan">
 <!ENTITY locationColumn.tooltip "Briog gus a sheòrsachadh a-rèir seòlaidh">
@@ -699,7 +699,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    of its descendents.  The user selects the folder using the same widget as the
    move to/copy to mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolderAndChildren.label "Am pasgan 's a cuid cloinne…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Am pasgan 's a chuid cloinne…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
    This is used in the folder selection widget for the
    "columnPicker.applyToFolder.label" and
@@ -780,7 +780,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.label "Deasaich a' charaid…">
 <!ENTITY EditContact.accesskey "e">
 <!ENTITY ViewContact.label "Seall a' charaid">
-<!ENTITY ViewContact.accesskey "v">
+<!ENTITY ViewContact.accesskey "S">
 <!ENTITY SubscribeToNewsgroup.label "Fo-sgrìobh gun bhuidheann-naidheachd">
 <!ENTITY SubscribeToNewsgroup.accesskey "n">
 <!ENTITY SendMessageTo.label "Sgrìobh teachdaireachd gu">
@@ -798,27 +798,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Sàbhail an ceangal mar…">
-<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveLinkAsCmd.accesskey "S">
 <!ENTITY saveImageAsCmd.label "Sàbhail an dealbh mar…">
-<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY saveImageAsCmd.accesskey "S">
 <!ENTITY cutCmd.label "Gearr às">
-<!ENTITY cutCmd.accesskey "u">
+<!ENTITY cutCmd.accesskey "G">
 <!ENTITY copyCmd.label "Dèan lethbhreac">
 <!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Cuir ann">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Tagh a h-uile">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Dèan lethbhreac de sheòladh a' cheangail">
 <!ENTITY copyLinkCmd.accesskey "c">
 <!ENTITY copyImageAllCmd.label "Dèan lethbhreac dhen dealbh">
-<!ENTITY copyImageAllCmd.accesskey "i">
+<!ENTITY copyImageAllCmd.accesskey "D">
 <!ENTITY copyEmailCmd.label "Dèan lethbhreac de sheòladh a' phuist-dhealain">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Sguir dheth">
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY reloadCmd.label "Ath-luchdaich">
-<!ENTITY reloadCmd.accesskey "r">
+<!ENTITY reloadCmd.accesskey "A">
 <!ENTITY openInBrowser.label "Fosgail sa bhrabhsair">
 <!ENTITY openInBrowser.accesskey "o">
 <!ENTITY openLinkInBrowser.label "Fosgail an ceangal sa bhrabhsair">

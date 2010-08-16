@@ -67,7 +67,7 @@
 <!ENTITY junkStatusColumn.tooltip "Briog gus a sheòrsachadh a-rèir na h-inbhe truilleis">
 <!ENTITY unreadColumn.tooltip "Àireamh nan teachdaireachdan gun leughadh san t-snàth">
 <!ENTITY totalColumn.tooltip "Àireamh iomlan nan teachdaireachdan san t-snàth">
-<!ENTITY readColumn.tooltip "Briog gus a sheòrsachadh a-rèir comharra "gun leughadh/air a leughadh"">
+<!ENTITY readColumn.tooltip "Briog gus a sheòrsachadh a-rèir comharra &quot;gun leughadh/air a leughadh&quot;">
 <!ENTITY receivedColumn.tooltip "Briog gus a sheòrsachadh a-rèir a' chinn-là nuair a fhuaradh e">
 <!ENTITY starredColumn.tooltip "Briog gus a sheòrsachadh a-rèir rionnagan">
 <!ENTITY locationColumn.tooltip "Briog gus a sheòrsachadh a-rèir seòlaidh">
