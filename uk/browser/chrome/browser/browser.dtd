@@ -133,7 +133,7 @@
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Домашня сторінка">
 <!ENTITY tabViewButton2.label         "Групи вкладок">
-<!ENTITY tabViewButton2.tooltip       "Згрупуйте ваші вкладки">
+<!ENTITY tabViewButton2.tooltip       "Впорядкуйте ваші вкладки">
 
 <!ENTITY bookmarksButton.label          "Закладки">
 <!ENTITY bookmarksButton.tooltip        "Показати ваші закладки">
@@ -240,7 +240,7 @@
 
 <!ENTITY viewMenu.label         "Вигляд"> 
 <!ENTITY viewMenu.accesskey       "В"> 
-<!ENTITY showTabView2.label     "Згрупувати вкладки…">
+<!ENTITY showTabView2.label     "Групи вкладок…">
 <!ENTITY showTabView2.accesskey     "г">
 <!ENTITY viewToolbarsMenu.label       "Панелі інструментів"> 
 <!ENTITY viewToolbarsMenu.accesskey     "П"> 
