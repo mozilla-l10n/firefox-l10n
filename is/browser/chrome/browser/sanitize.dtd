@@ -39,7 +39,7 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey "S">
 <!ENTITY itemCache.label "Biðminni">
 <!ENTITY itemCache.accesskey "B">
-<!ENTITY itemOfflineApps.label "Ótengd vefgögn">
+<!ENTITY itemOfflineApps.label "Ónettengd vefgögn">
 <!ENTITY itemOfflineApps.accesskey "t">
 <!ENTITY itemDownloadHistory.label "Ferill niðurhals">
 <!ENTITY itemDownloadHistory.accesskey "n">
