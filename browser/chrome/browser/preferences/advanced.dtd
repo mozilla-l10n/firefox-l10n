@@ -28,7 +28,7 @@
 <!ENTITY connectionDesc.label "Stilla hvernig &brandShortName; tengist við Internetið">
 <!ENTITY connectionSettings.label "Stillingar…">
 <!ENTITY connectionSettings.accesskey "t">
-<!ENTITY offlineStorage.label "Ótengd geymsla">
+<!ENTITY offlineStorage.label "Ónettengd geymsla">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
@@ -57,11 +57,11 @@
 <!ENTITY modeAutoAddonWarn.accesskey "u">
 <!ENTITY updateHistory.label "Sýna uppfærslusögu">
 <!ENTITY updateHistory.accesskey "p">
-<!ENTITY offlineNotify.label "Láta vita þegar vefsvæði biður um að geyma gögn fyrir ótengda notkun">
+<!ENTITY offlineNotify.label "Láta vita þegar vefsvæði biður um að geyma gögn fyrir ónettengda notkun">
 <!ENTITY offlineNotify.accesskey "t">
 <!ENTITY offlineNotifyExceptions.label "Undanþágur…">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
-<!ENTITY offlineAppsList.label "Eftirfarandi vefsvæði eru með geymd gögn fyrir ótengda notkun:">
+<!ENTITY offlineAppsList.label "Eftirfarandi vefsvæði eru með geymd gögn fyrir ónettengda notkun:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Fjarlægja…">
 <!ENTITY offlineAppsListRemove.accesskey "r">
