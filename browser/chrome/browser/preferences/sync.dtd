@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Rregulloni &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "R">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ju lejon të përdorni historikun, faqerojtësit, fjalëkalimet tuaja dhe të hapni skedat tuaja nëpër krejt pajisjet tuaja.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Llogari &syncBrand.fullName.label;">
+<!ENTITY currentUser.label            "Përdoruesi i Tanishëm:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Përditësoje">
+<!ENTITY resetPass.label              "Riktheji">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Administroni Llogarinë">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Ndryshoni Fjalëkalimin">
+<!ENTITY changePassphrase.label       "Ndryshoni Togfjalëshin e Fshehtë">
+<!ENTITY resetSync.label              "Rikthe Sync-un te Parazgjedhjet">
+<!ENTITY differentAccount.label       "Përdorni një Llogari Tjetër">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Njëkohësim Shfletuesi">
+<!ENTITY syncComputerName.label       "Emri i Kompjuterit:">
+<!ENTITY syncComputerName.accesskey   "E">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; do të: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Njëkohësojë Gjithçka">
+<!ENTITY customSync.label             "Përdorë rregullimet e mia të përshtatura">
+<!ENTITY syncEverythingDescription.label  "Do të njëkohësojë faqerojtësit, historikun, fjalëkalimet, parapëlqimet tuaja.">
+<!ENTITY syncItem.bookmarks.label     "Njëkohëso Faqerojtësit">
+<!ENTITY syncItem.bookmarks.accesskey "F">
+<!ENTITY syncItem.tabs.label          "Njëkohëso Skedat">
+<!ENTITY syncItem.tabs.accesskey      "S">
+<!ENTITY syncItem.history.label       "Njëkohëso Historikun">
+<!ENTITY syncItem.history.accesskey   "H">
+<!ENTITY syncItem.passwords.label     "Njëkohëso Fjalëkalimet">
+<!ENTITY syncItem.passwords.accesskey "l">
+<!ENTITY syncItem.prefs.label         "Njëkohëso Parapëlqimet">
+<!ENTITY syncItem.prefs.accesskey     "P">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Kushtet e Shërbimit">
+<!ENTITY prefs.ppLink.label         "Rregullat Vetësie">
