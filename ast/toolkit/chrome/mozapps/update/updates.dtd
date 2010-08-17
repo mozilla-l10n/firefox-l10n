@@ -54,7 +54,7 @@
 <!ENTITY  details.link                    "Detáis">
 
 <!ENTITY  error.label                     "Hebo problemes al comprebar, descargar o instalar esta
-                                           anovamientu. Nun se pudo acuualizar &brandShortName; porque:">
+                                           anovamientu. Nun se pudo anovar &brandShortName; porque:">
                                            
 <!ENTITY  errorManual.label               "Puede anovar &brandShortName; manualmente visitando esti enllaz
                                            y descargando la cabera versión:">
