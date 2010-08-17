@@ -31,12 +31,14 @@
 <!ENTITY testpilot.brand.label                          "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                       "Nuostatos">
-<!ENTITY testpilot.settings.notifyMeWhen.label          "Pranešti, kai">
+<!ENTITY testpilot.settings.dataSubmission.label        "Duomenų siuntimas">
+<!ENTITY testpilot.settings.notifications.label         "Pranešimai">
+<!ENTITY testpilot.settings.notifyWhen.label            "Pranešti, kai…">
 <!ENTITY testpilot.settings.readyToSubmit.label         "galima išsiųsti studijos rezultatus">
 <!ENTITY testpilot.settings.newStudy.label              "parengiama nauja studija">
 <!ENTITY testpilot.settings.hasNewResults.label         "studijoje yra naujų rezultatų">
 <!ENTITY testpilot.settings.alwaysSubmitData.label      "Automatiškai, neatsiklausiant išsiųsti mano duomenis">
-<!ENTITY testpilot.allStudies.label                     "Visos Jūsų studijos">
+<!ENTITY testpilot.allYourStudies.label                 "Visos Jūsų dalyvaujamos studijos…">
 <!ENTITY testpilot.about.label                          "Apie „Test Pilot“">
 
 <!-- all studies window -->

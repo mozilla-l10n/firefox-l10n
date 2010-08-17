@@ -43,6 +43,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privatusis naršymas)">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "Perkelti kortelę į…">
+<!ENTITY  moveTabTo.accesskey                "r">
+<!ENTITY  createNewGroup.label               "Sukurti naują grupę">
+<!ENTITY  createNewGroup.accesskey           "n">
+<!ENTITY  namedGroups.label                  "Įvardintos grupės">
 <!ENTITY  reloadTab.label             "Atsiųsti kortelės tinklalapį iš naujo">
 <!ENTITY  reloadTab.accesskey         "A">
 <!ENTITY  reloadAllTabs.label         "Atsiųsti visų kortelių tinklalapius iš naujo">
@@ -150,13 +155,16 @@
 <!ENTITY printButton.label            "Spausdinti">
 <!ENTITY printButton.tooltip          "Spausdinti šį tinklalapį">
 
+<!ENTITY backForwardItem.title        "Atgal/pirmyn">
 <!ENTITY locationItem.title           "Adresas">
 <!ENTITY searchItem.title             "Paieška">
 <!ENTITY throbberItem.title           "Siuntimo rodiklis">
 <!ENTITY bookmarksItem.title          "Adresynas">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Pradžios tinklalapis">
+<!ENTITY homeButton.label             "Pradžios tinklalapis">
+<!ENTITY tabViewButton2.label         "Kortelių grupės">
+<!ENTITY tabViewButton2.tooltip       "Grupuoti korteles">
 
 <!ENTITY bookmarksButton.label          "Adresynas">
 <!ENTITY bookmarksButton.tooltip        "Rodyti tinklalapių adresyną">
@@ -263,6 +271,8 @@
 
 <!ENTITY viewMenu.label                   "Rodymas"> 
 <!ENTITY viewMenu.accesskey               "R"> 
+<!ENTITY showTabView2.label               "Grupuoti korteles…">
+<!ENTITY showTabView2.accesskey           "G">
 <!ENTITY viewToolbarsMenu.label           "Priemonių juostos"> 
 <!ENTITY viewToolbarsMenu.accesskey       "j"> 
 <!ENTITY viewSidebarMenu.label            "Parankinė">
@@ -538,4 +548,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Kortelių juosta">
+<!ENTITY tabsToolbar.label            "Kortelių juosta">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label           "Kortelės kituose kompiuteriuose">
+
+<!ENTITY syncBrand.shortName.label    "Sync">
+
+<!ENTITY syncMenu.label               "Sinchronizavimas">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "S">
+<!ENTITY syncSetup.label              "Konfigūruoti „&syncBrand.shortName.label;“…">
+<!ENTITY syncSetup.accesskey          "K">
+<!ENTITY syncLogInItem.label          "Prisijungti">
+<!ENTITY syncLogInItem.accesskey      "P">
+<!ENTITY syncLogOutItem.label         "Atsijungti">
+<!ENTITY syncLogOutItem.accesskey     "A">
+<!ENTITY syncSyncNowItem.label        "Sinchronizuoti dabar">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+

@@ -42,8 +42,6 @@
 
 <!ENTITY restorepage.tryagainButton "Atkurti">
 <!ENTITY restorepage.restore.access "A">
-<!ENTITY restorepage.cancelButton   "Pradėti naują seansą">
-<!ENTITY restorepage.cancel.access  "P">
 
 <!ENTITY restorepage.restoreHeader  "Atkurti">
 <!ENTITY restorepage.listHeader     "Langai ir kortelės">

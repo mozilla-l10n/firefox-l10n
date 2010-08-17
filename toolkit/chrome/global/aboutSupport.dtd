@@ -62,6 +62,10 @@
 <!ENTITY aboutSupport.modifiedPrefsName            "Vardas">
 <!ENTITY aboutSupport.modifiedPrefsValue           "Reikšmė">
 
+<!ENTITY aboutSupport.graphicsTitle                "Grafika">
+<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
+<!ENTITY aboutSupport.graphicsDirect2DEnabled      "Naudojama „Direct2D“">
+
 <!ENTITY aboutSupport.installationHistoryTitle     "Įdiegimo žurnalas">
 <!ENTITY aboutSupport.updateHistoryTitle           "Atnaujinimo žurnalas">
 
