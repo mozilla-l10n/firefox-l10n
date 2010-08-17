@@ -34,5 +34,3 @@
 <!ENTITY clickFinish.label "Для продолжения запуска &brandShortName; нажмите кнопку «Готово».">
 <!ENTITY clickFinish.labelMac "Для продолжения запуска &brandShortName; нажмите кнопку «Готово».">
 <!ENTITY enableChecking.label "Разрешить &brandShortName; проверять наличие обновлений.">
-<!ENTITY details.label "Подробности…">
-<!ENTITY details.accesskey "о">
