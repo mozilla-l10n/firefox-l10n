@@ -107,8 +107,10 @@
 <!ENTITY saveAsAttachmentCmd.accesskey		"k">
 <!ENTITY detachAttachmentCmd.label    "Išimti…">  
 <!ENTITY deleteAttachmentCmd.label    "Pašalinti">  
+<!ENTITY openAllAttachmentsCmd.label    "Atverti visus…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "v">
 <!ENTITY saveAllAttachmentsCmd.label    "Įrašyti visus…">
-<!ENTITY saveAllAttachmentsCmd.accesskey		"v">
+<!ENTITY saveAllAttachmentsCmd.accesskey		"r">
 <!ENTITY detachAllAttachmentsCmd.label    "Išimti visus…">  
 <!ENTITY detachAllAttachmentsCmd.accesskey    "s">  
 <!ENTITY deleteAllAttachmentsCmd.label    "Pašalinti visus…">  
