@@ -12,6 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "（隐私浏览）">
 
 <!-- Tab context menu -->
+<!ENTITY  moveTabTo.label                    "移动此标签页至…">
+<!ENTITY  moveTabTo.accesskey                "M">
+<!ENTITY  createNewGroup.label               "创建新组">
+<!ENTITY  createNewGroup.accesskey           "C">
+<!ENTITY  namedGroups.label                  "命名组">
 <!ENTITY  reloadTab.label                    "重新载入标签页">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "重新载入全部标签页">
@@ -119,6 +124,7 @@
 <!ENTITY printButton.label            "打印">
 <!ENTITY printButton.tooltip          "打印当前页">
 
+<!ENTITY backForwardItem.title        "后退/前进">
 <!ENTITY locationItem.title           "地址">
 <!ENTITY searchItem.title             "搜索">
 <!ENTITY throbberItem.title           "活动指示器">
@@ -126,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "主页">
+<!ENTITY tabViewButton2.label         "标签页组">
+<!ENTITY tabViewButton2.tooltip       "将您的标签页分组">
 
 <!ENTITY bookmarksButton.label          "书签">
 <!ENTITY bookmarksButton.tooltip        "显示您的书签">
@@ -232,6 +240,8 @@
 
 <!ENTITY viewMenu.label         "查看"> 
 <!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY showTabView2.label     "将您的标签页分组…">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label       "工具栏"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "侧栏">
