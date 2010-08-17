@@ -8,13 +8,13 @@
 <!ENTITY testpilot.settings.newStudy.label          "Perwerdehiyeke nû heye">
 <!ENTITY testpilot.settings.hasNewResults.label     "Encameke nû ya perwerdehiyekê heye">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Daneyên min xweber bişîne (ji min nepirse)">
-<!ENTITY testpilot.allYourStudies.label             "All Your User Studies…">
+<!ENTITY testpilot.allYourStudies.label             "Hemû lêkolînên bikarhêneran ên te…">
 <!ENTITY testpilot.about.label                      "Berbarê Pîlotê Testê de">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
+<!ENTITY testpilot.studiesWindow.title                  "Lêkolînên te yên Pîlotê Testê">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Lêkolînên niha">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Lêkolînên qediyayî">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Dîtina Perwerdehiyan">
 <!ENTITY testpilot.studiesWindow.settings.label         "Mîheng">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait...">
@@ -26,7 +26,7 @@
 <!ENTITY testpilot.notification.close.tooltip            "Girtin">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Turn On User Studies">
+<!ENTITY testpilot.enable.label                        "Lêkolînên bikarhêneran çalak bike">
 <!ENTITY testpilot.feedbackbutton.label                "Agahdarkirin">
 <!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because...">
 <!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because...">

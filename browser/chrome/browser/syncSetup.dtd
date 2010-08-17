@@ -13,14 +13,14 @@
 <!ENTITY signIn.username.label      "Navê bikarhêner">
 <!ENTITY signIn.username.accesskey  "N">
 <!ENTITY signIn.password.label      "Şîfre">
-<!ENTITY signIn.password.accesskey  "f">
+<!ENTITY signIn.password.accesskey  "Ş">
 <!ENTITY signIn.serverURL.label     "URL'a pêşkêşkarê">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountPage.title.label  "Hesabê Xwe yê &syncBrand.shortName.label;ê Biafirîne">
 <!ENTITY setup.confirmPassword.label  "Şîfreyê pesend bike">
-<!ENTITY setup.confirmPassword.accesskey  "f">
+<!ENTITY setup.confirmPassword.accesskey  "Ş">
 <!ENTITY setup.emailAddress.label     "Navnîşana EPeyamê">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -31,10 +31,10 @@
 <!ENTITY setup.tosAgree2.label      "û">
 <!ENTITY setup.ppLink.label         "Siyaseta nepeniyê">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "a">
+<!ENTITY setup.tosAgree2.accesskey  "û">
 
 <!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label       "Enter your Secret Phrase">
+<!ENTITY setup.newPPPage.title.label       "Rêzika xwe ya nepen binivîse">
 <!ENTITY passphraseDesc.label         "Ji kerema xwe re rêzika nepen binivîse. Bi vê dê hemû daneyên te bên şîfrekirin û tenê tu yê dikaribî bikeviyê. Tu carî li ser vê pêşkêşkarê tomar nabe, lewre divê winda nekî!">
 <!ENTITY passphraseDesc2.label        "This must be at least 12 characters long and cannot match your account password.">
 <!ENTITY passphraseEntry.label        "Rêzika nepen">
@@ -48,7 +48,7 @@
 <!ENTITY syncComputerName.accesskey   "N">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; dê: ">
 <!ENTITY syncModeSwitchDesc.accesskey "d">
-<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY syncEverything.label         "Her tiştî sync bike">
 <!ENTITY customSync.label             "Mîhengên min ên takekesî bi kar bîne">
 <!ENTITY syncEverythingDescription.label  "Bijare, dîrok, şîfre, vebijêrk, û hemû hilpekînên te dê bên senkronîzekirin.">
 <!ENTITY syncItem.bookmarks.label     "Bijareyan senkronîze bike">
@@ -58,7 +58,7 @@
 <!ENTITY syncItem.history.label       "Dîrokê senkronîze bike">
 <!ENTITY syncItem.history.accesskey   "r">
 <!ENTITY syncItem.passwords.label     "Şîfreyan senkronîze bike">
-<!ENTITY syncItem.passwords.accesskey "f">
+<!ENTITY syncItem.passwords.accesskey "Ş">
 <!ENTITY syncItem.prefs.label         "Vebijêrkan senkronîze bike">
 <!ENTITY syncItem.prefs.accesskey     "s">
 
@@ -71,7 +71,7 @@
 <!ENTITY connecting.label             "Tê girêdan…">
 
 <!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label     "Enter Secret Phrase">
+<!ENTITY passphraseGroupbox.label     "Rêzika nepen têkevê">
 <!ENTITY passphraseDesc3.label        "Please enter your secret phrase. This must be the same secret phrase that you used to encrypt your data.">
 <!ENTITY passphraseHelp.label         "Your secret phrase is at least 12 characters long and is not your password. You can find your saved secret phrase by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
 <!ENTITY changePassphrase.label       "Rêzika nepen biguherîne">
@@ -85,7 +85,7 @@
 <!ENTITY choice.server.main.label     "Replace all other devices with your local data">
 
 <!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label        "Confirm your choice">
+<!ENTITY confirm.caption.label        "Terciha xwe pesend bike">
 <!ENTITY confirm.merge.label          "You have chosen to merge your data on this computer with the data on your other devices running &syncBrand.fullName.label;.">
 <!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
