@@ -87,6 +87,9 @@
                               
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Hyrje">
+<!ENTITY tabViewButton2.label         "Grupe Skedash">
+<!ENTITY tabViewButton2.tooltip       "Gruponi Skedat Tuaja">
+
 
 <!ENTITY bookmarksButton.label          "Faqerojtësa">
 <!ENTITY bookmarksButton.tooltip        "Shfaqni faqerojtësit tuaj">
@@ -471,6 +474,16 @@
 <!ENTITY  unpinTab.label                     "Kaloje në Skedë Normale">
 <!ENTITY  unpinTab.accesskey                 "N">
 
+<!ENTITY  moveTabTo.label                    "Kaloje Këtë Skedë Te…">
+<!ENTITY  moveTabTo.accesskey                "K">
+<!ENTITY  createNewGroup.label               "Krijoni Grup të Ri">
+<!ENTITY  createNewGroup.accesskey           "G">
+<!ENTITY  namedGroups.label                  "Grupe me Emër">
+
+<!ENTITY showTabView2.label     "Gruponi Skedat Tuaja…">
+<!ENTITY showTabView2.accesskey     "G">
+
+
 <!ENTITY  reloadTab.label                    "Ringarkoje Skedën">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Ringarko Krejt Skedat">
@@ -491,3 +504,21 @@
 <!ENTITY viewTabsOnTop.accesskey        "P">
 <!ENTITY  closeOtherTabs.label               "Mbylli Skedat e Tjera">
 <!ENTITY  closeOtherTabs.accesskey           "T">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Skeda Prej Kompjuterësh të Tjerë">
+
+<!ENTITY syncBrand.shortName.label  "Njëkohëso">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "Rregulloni &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "R">
+<!ENTITY syncLogInItem.label          "Lidhu">
+<!ENTITY syncLogInItem.accesskey      "L">
+<!ENTITY syncLogOutItem.label         "Shkëputu">
+<!ENTITY syncLogOutItem.accesskey     "S">
+<!ENTITY syncSyncNowItem.label        "Njëkohësohu Tani">
+<!ENTITY syncSyncNowItem.accesskey    "N">
