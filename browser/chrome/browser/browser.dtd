@@ -79,6 +79,7 @@
 <!ENTITY printButton.label            "Shtyp">
 <!ENTITY printButton.tooltip          "Shtyp këtë faqe">
 
+<!ENTITY backForwardItem.title        "Mbrapsht/Përpara">
 <!ENTITY locationItem.title           "Vendndodhje">
 <!ENTITY searchItem.title             "Kërkoni">
 <!ENTITY throbberItem.title           "Tregues Veprimtarie">
@@ -172,8 +173,13 @@
 <!ENTITY historyUndoMenu.label "Skeda të Mbyllyra së Fundmi">
 <!ENTITY historyHomeCmd.label "Hyrje">
 
+<!ENTITY developerMenu.label "Zhvillues">
+
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.placeholder           "Shko te një Site Web">
+<!ENTITY urlbar.accesskey             "S">
+<!ENTITY urlbar.switchToTab.label     "Kalo në skedë:">
+
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -444,6 +450,8 @@
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
 
+
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Shqyrtoje">
 <!ENTITY inspectButton.accesskey      "q">
 <!ENTITY inspectNextButton.label      "Pasuesi">
