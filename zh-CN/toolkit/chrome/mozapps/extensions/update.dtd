@@ -46,5 +46,3 @@
 <!ENTITY  clickFinish.label               "点击 完成 以继续启动 &brandShortName;。">
 <!ENTITY  clickFinish.labelMac            "点击 结束 继续启动 &brandShortName;.">
 <!ENTITY  enableChecking.label            "允许 &brandShortName; 检查更新。">
-<!ENTITY  details.label                   "详细信息…">
-<!ENTITY  details.accesskey               "D">
