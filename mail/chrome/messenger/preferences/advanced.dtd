@@ -76,7 +76,7 @@
 <!ENTITY reuseExpRadio0.accesskey            "n">
 <!ENTITY reuseExpRadio1.label                "tame pačiame (atvertame) lange">
 <!ENTITY reuseExpRadio1.accesskey            "t">
-<!ENTITY closeMsgWindowOnDelete.label        "Ištrynus laišką, užverti langą su juo">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Perkėlus ar pašalinus laišką, užverti langą su juo">
 <!ENTITY closeMsgWindowOnDelete.accesskey    "v">
 
 <!-- Update -->
