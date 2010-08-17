@@ -32,6 +32,9 @@
 <!ENTITY search.placeholder                   "Ieškoti priedų">
 <!ENTITY loading.label                        "Įkeliama…">
 <!ENTITY listEmpty.installed.label            "Nėra įdiegtų šio tipo priedų">
+<!ENTITY listEmpty.availableUpdates.label     "Naujinimų nerasta">
+<!ENTITY listEmpty.recentUpdates.label        "Pastaruoju metu nesate atnaujinę jokių priedų">
+<!ENTITY listEmpty.findUpdates.label          "Tikrinti, ar yra naujinimų">
 <!ENTITY listEmpty.search.label               "Paiešką atitinkančių priedų nerasta">
 <!ENTITY listEmpty.button.label               "Sužinokite apie priedus daugiau">
 
@@ -45,14 +48,22 @@
 <!ENTITY view.features.label                  "Plėtiniai">
 <!ENTITY view.appearance.label                "Grafiniai apvalkalai">
 <!ENTITY view.plugins.label                   "Papildiniai">
+<!ENTITY view.recentUpdates.label             "Paskiausiai atnaujinti">
+<!ENTITY view.availableUpdates.label          "Galimi naujinimai">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Naujinti priedus">
+<!ENTITY updates.updateAddonsNow.label        "Atnaujinti priedus">
+<!ENTITY updates.updateAddonsNow.accesskey    "n">
+<!ENTITY updates.viewUpdates.label            "Rodyti paskiausiai atnaujintus priedus">
+<!ENTITY updates.viewUpdates.accesskey        "R">
+<!ENTITY updates.backgroudUpdateCheck.label   "Automatiškai tikrinti, ar yra naujinimų">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "t">
 <!ENTITY updates.updating.label               "Priedai naujinami">
 <!ENTITY updates.installed.label              "Turimi priedai atnaujinti.">
 <!ENTITY updates.downloaded.label             "Parsiųsti turimų priedų naujinimai.">
 <!ENTITY updates.restart.label                "Paleiskite programą iš naujo, kad diegimas būtų užbaigtas">
 <!ENTITY updates.noneFound.label              "Priedų nerasta">
+<!ENTITY updates.manualUpdatesFound.label     "Rodyti galimus atnaujinti priedus">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Išsamiau">
@@ -75,6 +86,11 @@
 <!ENTITY cmd.contribute.label                 "Paremti">
 <!ENTITY cmd.contribute.accesskey             "p">
 <!ENTITY cmd.contribute.tooltip               "Paremti šio priedo kūrimą">
+
+<!ENTITY cmd.showReleaseNotes.label           "Atverti laidos apžvalgą">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Parodyti šio naujinimo laidos apžvalgą">
+<!ENTITY cmd.hideReleaseNotes.label           "Nerodyti laidos apžvalgos">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Nerodyti šio naujinimo laidos apžvalgos">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Laida">
@@ -122,6 +138,8 @@
 <!ENTITY addon.homepage                       "Svetainė">
 <!ENTITY addon.unknownDate                    "Nežinoma">
 <!ENTITY addon.disabled.postfix               "(išjungtas)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "naujinimas">
 <!ENTITY addon.undo.label                     "Atšaukti?">
 <!ENTITY addon.undo.tooltip                   "Atšaukti šį veiksmą">
 <!ENTITY addon.undoUninstall.label            "Atšaukti?">
@@ -130,6 +148,11 @@
 <!ENTITY addon.restartNow.tooltip             "Paleiskite programą iš naujo, kad diegimas būtų užbaigtas">
 <!ENTITY addon.install.label                  "Įdiegti">
 <!ENTITY addon.install.tooltip                "Įdiegti šį priedą">
+<!ENTITY addon.updateNow.label                "Atnaujinti">
+<!ENTITY addon.updateNow.tooltip              "Įdiegti šio priedo naujinimą">
 <!ENTITY addon.checkingForUpdates.label       "Ieškoma naujinimų…">
+<!ENTITY addon.releaseNotes.label             "Laidos apžvalga:">
+<!ENTITY addon.loadingReleaseNotes.label      "Įkeliama…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Atsiprašome, bet įkeliant laidos apžvalgą, įvyko klaida.">
 
 <!ENTITY addon.createdBy.label                "priedą kūrė ">
