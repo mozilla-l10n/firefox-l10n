@@ -35,7 +35,7 @@
 <!ENTITY syncItem.history.label       "Dîrokê Senkronîze Bike">
 <!ENTITY syncItem.history.accesskey   "r">
 <!ENTITY syncItem.passwords.label     "Şîfreyan Senkronîze Bike">
-<!ENTITY syncItem.passwords.accesskey "f">
+<!ENTITY syncItem.passwords.accesskey "Ş">
 <!ENTITY syncItem.prefs.label         "vebijêrkan Senkronîze Bike">
 <!ENTITY syncItem.prefs.accesskey     "S">
 

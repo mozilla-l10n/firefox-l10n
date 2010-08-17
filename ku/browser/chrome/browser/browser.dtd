@@ -132,8 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Serûpel">
-<!ENTITY tabViewButton.label          "Komên hilpekînan">
-<!ENTITY tabViewButton.tooltip        "Open a visual tab interface">
+<!ENTITY tabViewButton2.label         "Tab Groups">
+<!ENTITY tabViewButton2.tooltip       "Group Your Tabs">
 
 <!ENTITY bookmarksButton.label          "Bijare">
 <!ENTITY bookmarksButton.tooltip        "Bijareyên xwe bibîne">
@@ -240,8 +240,8 @@
 
 <!ENTITY viewMenu.label         "Nîşan bide"> 
 <!ENTITY viewMenu.accesskey       "b"> 
-<!ENTITY showTabView.label     "TabView">
-<!ENTITY showTabView.accesskey     "V">
+<!ENTITY showTabView2.label     "Group Your Tabs…">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label       "Darikê Amûran"> 
 <!ENTITY viewToolbarsMenu.accesskey     "a"> 
 <!ENTITY viewSidebarMenu.label "Darikê Quncikê">
