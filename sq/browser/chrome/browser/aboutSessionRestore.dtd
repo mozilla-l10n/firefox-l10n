@@ -6,8 +6,7 @@
 <!ENTITY restorepage.tryagainButton "Riktheji">
 <!ENTITY restorepage.tabtitle       "Rikthim Sesioni">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Nis Sesion të Ri">
-<!ENTITY restorepage.cancel.access  "N">
+
 
 <!ENTITY restorepage.restoreHeader  "Rikthim">
 <!ENTITY restorepage.listHeader     "Dritare dhe Skeda">
