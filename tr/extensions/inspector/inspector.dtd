@@ -13,16 +13,16 @@
 
 <!ENTITY mnFile.label "Dosya…">
 <!ENTITY mnFile.accesskey "o">
-<!ENTITY mnInspectContentDocument.label "İçerik Belgeyi İncele">
-<!ENTITY mnInspectContentDocument.accesskey "B">
-<!ENTITY mnInspectChromeDocument.label "Inspect Chrome Document">
+<!ENTITY mnInspectContentDocument.label "İçerik belgesi incele">
+<!ENTITY mnInspectContentDocument.accesskey "b">
+<!ENTITY mnInspectChromeDocument.label "Chrome belgesi incele">
 <!ENTITY mnInspectChromeDocument.accesskey "h">
-<!ENTITY cmdEnterLocation.label "Inspect a URL">
+<!ENTITY cmdEnterLocation.label "URL incele">
 <!ENTITY cmdEnterLocation.accesskey "U">
 <!ENTITY cmdEnterLocation.key "L">
 <!ENTITY cmdEnterLocation.key2 "D">
-<!ENTITY cmdSave.label "Save DOM As…">
-<!ENTITY cmdSave.accesskey "S">
+<!ENTITY cmdSave.label "DOM'yi farklı kaydet...">
+<!ENTITY cmdSave.accesskey "D">
 <!ENTITY cmdClose.label "Kapat">
 <!ENTITY cmdClose.accesskey "K">
 <!ENTITY cmdExit.label "Çık">
@@ -42,9 +42,6 @@
 <!ENTITY cmdPaste.accesskey "p">
 <!ENTITY cmdDelete.label "Sil">
 <!ENTITY cmdDelete.accesskey "S">
-
-<!ENTITY mnSearch.label "Search">
-<!ENTITY mnSearch.accesskey "S">
 
 <!ENTITY mnView.label "Görünüm">
 <!ENTITY mnView.accesskey "G">

@@ -1,5 +1,5 @@
-<!ENTITY editBookmarkOverlay.name.label "İsim:">
-<!ENTITY editBookmarkOverlay.name.accesskey "İ">
+<!ENTITY editBookmarkOverlay.name.label "Ad:">
+<!ENTITY editBookmarkOverlay.name.accesskey "d">
 <!ENTITY editBookmarkOverlay.location.label "Konum:">
 <!ENTITY editBookmarkOverlay.location.accesskey "K">
 <!ENTITY editBookmarkOverlay.feedLocation.label "Besleme konumu:">

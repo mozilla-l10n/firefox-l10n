@@ -114,7 +114,7 @@
 
 <!ENTITY securityView.privacy.header "Güvenlik ve geçmiş">
 <!ENTITY securityView.privacy.history "Bu siteyi daha önce ziyaret ettim mi?">
-<!ENTITY securityView.privacy.cookies "Bu site bilgisayarıma çerez yerleştirdi mi?">
+<!ENTITY securityView.privacy.cookies "Bu site bilgisayarımda bilgi (çerez) bulunduruyor mu?">
 <!ENTITY securityView.privacy.viewCookies "Çerezleri göster">
 <!ENTITY securityView.privacy.viewCookies.accessKey "R">
 <!ENTITY securityView.privacy.passwords "Bu sayfaya ait herhangi bir parola kaydettim mi?">
