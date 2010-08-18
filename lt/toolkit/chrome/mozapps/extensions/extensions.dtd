@@ -121,10 +121,10 @@
 <!ENTITY sort.name.tooltip                    "Rikiuoti pagal pavadinimą">
 <!ENTITY sort.size.label                      "Dydis">
 <!ENTITY sort.size.tooltip                    "Rikiuoti pagal dydį">
-<!ENTITY sort.dateUpdated.label               "Atnaujintas">
+<!ENTITY sort.dateUpdated.label               "Atnaujinimo data">
 <!ENTITY sort.dateUpdated.tooltip             "Rikiuoti pagal paskiausio atnaujinimo datą">
-<!ENTITY sort.rating.label                    "Reitingas">
-<!ENTITY sort.rating.tooltip                  "Rikiuoti pagal reitingą">
+<!ENTITY sort.rating.label                    "Įvertinimas">
+<!ENTITY sort.rating.tooltip                  "Rikiuoti pagal įvertinimą">
 
 <!ENTITY showMore.label                       "Išsamiau">
 <!ENTITY showMore.tooltip                     "Rodyti išsamesnę informaciją">

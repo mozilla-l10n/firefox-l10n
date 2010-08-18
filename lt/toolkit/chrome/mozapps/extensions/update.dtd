@@ -87,5 +87,3 @@
 <!ENTITY  clickFinish.label               "Spustelėkite mygtuką „Baigti“, kad būtų tęsiamas „&brandShortName;“ vykdymas.">
 <!ENTITY  clickFinish.labelMac            "Spustelėkite mygtuką „Baigti“, kad būtų tęsiamas „&brandShortName;“ vykdymas.">
 <!ENTITY  enableChecking.label            "Nurodyti programai „&brandShortName;“, kad tikrintų, ar yra naujinimų.">
-<!ENTITY  details.label                   "Išsamiau…">
-<!ENTITY  details.accesskey               "I">
