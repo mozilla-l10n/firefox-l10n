@@ -48,5 +48,3 @@
 <!ENTITY clickFinish.label "Pulse Finalizar para continuar iniciando &brandShortName;.">
 <!ENTITY clickFinish.labelMac "Pulse Terminado para continuar iniciando &brandShortName;.">
 <!ENTITY enableChecking.label "Permitir a &brandShortName; buscar actualizaciones.">
-<!ENTITY details.label "Detalles…">
-<!ENTITY details.accesskey "D">
