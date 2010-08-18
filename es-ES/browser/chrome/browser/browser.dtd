@@ -2,11 +2,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación privada)">
-<!ENTITY moveTabTo.label "Mover esta pestaña a…">
-<!ENTITY moveTabTo.accesskey "M">
-<!ENTITY createNewGroup.label "Crear nuevo grupo">
-<!ENTITY createNewGroup.accesskey "C">
-<!ENTITY namedGroups.label "Grupos nombrados">
 <!ENTITY reloadTab.label "Recargar pestaña">
 <!ENTITY reloadTab.accesskey "g">
 <!ENTITY reloadAllTabs.label "Recargar todas las pestañas">
@@ -19,6 +14,11 @@
 <!ENTITY pinTab.accesskey "ñ">
 <!ENTITY unpinTab.label "Hacer una pestaña normal">
 <!ENTITY unpinTab.accesskey "ñ">
+<!ENTITY moveToGroup.label "Mover al grupo">
+<!ENTITY moveToGroup.accesskey "M">
+<!ENTITY moveToNewGroup.label "Nuevo grupo">
+<!ENTITY moveToNewGroup.accesskey "N">
+<!ENTITY namedGroups.label "Grupos nombrados">
 <!ENTITY bookmarkThisTab.label "Añadir esta pestaña a marcadores">
 <!ENTITY bookmarkThisTab.accesskey "ñ">
 <!ENTITY bookmarkAllTabs.label "Añadir pestañas a marcadores…">
