@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigation privée)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label "Déplacer cet onglet vers…">
-<!ENTITY  moveTabTo.accesskey "D">
-<!ENTITY  createNewGroup.label "Créer un nouveau groupe">
-<!ENTITY  createNewGroup.accesskey "C">
-<!ENTITY  namedGroups.label "Groupes nommés">
 <!ENTITY reloadTab.label "Actualiser l'onglet">
 <!ENTITY reloadTab.accesskey "A">
 <!ENTITY reloadAllTabs.label "Actualiser tous les onglets">
@@ -29,6 +24,11 @@
 <!ENTITY pinTab.accesskey "p">
 <!ENTITY unpinTab.label "Relâcher l'onglet">
 <!ENTITY unpinTab.accesskey "R">
+<!ENTITY  moveToGroup.label                  "Déplacer vers le groupe">
+<!ENTITY  moveToGroup.accesskey              "D">
+<!ENTITY  moveToNewGroup.label               "Nouveau groupe">
+<!ENTITY  moveToNewGroup.accesskey           "N">
+<!ENTITY  namedGroups.label                  "Groupes nommés">
 
 <!ENTITY bookmarkAllTabs.label "Marquer tous les onglets…">
 <!ENTITY bookmarkAllTabs.accesskey "u">
