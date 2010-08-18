@@ -53,5 +53,3 @@
 <!ENTITY  clickFinish.label               "&brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਕਈ ਮੁਕੰਮਲ ਦੱਬੋ">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; ਚਲਾਉਣ ਲਈ ਮੁਕੰਮਲ ਦੱਬੋ">
 <!ENTITY  enableChecking.label            "&brandShortName; ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਇਜ਼ਾਜ਼ਤ ਹੈ।">
-<!ENTITY  details.label                   "ਵੇਰਵਾ...">
-<!ENTITY  details.accesskey               "D">
