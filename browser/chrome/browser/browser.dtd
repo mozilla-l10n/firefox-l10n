@@ -43,33 +43,33 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privatusis naršymas)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Perkelti kortelę į…">
-<!ENTITY  moveTabTo.accesskey                "r">
-<!ENTITY  createNewGroup.label               "Sukurti naują grupę">
-<!ENTITY  createNewGroup.accesskey           "n">
+<!ENTITY  reloadTab.label                    "Atsiųsti kortelės tinklalapį iš naujo">
+<!ENTITY  reloadTab.accesskey                "A">
+<!ENTITY  reloadAllTabs.label                "Atsiųsti visų kortelių tinklalapius iš naujo">
+<!ENTITY  reloadAllTabs.accesskey            "v">
+<!ENTITY  closeOtherTabs.label               "Užverti kitas korteles">
+<!ENTITY  closeOtherTabs.accesskey           "k">
+<!ENTITY  openTabInNewWindow.label           "Atverti naujame lange">
+<!ENTITY  openTabInNewWindow.accesskey       "l">
+<!ENTITY  pinTab.label                       "Paversti specialiąja kortele">
+<!ENTITY  pinTab.accesskey                   "s">
+<!ENTITY  unpinTab.label                     "Paversti paprastąja kortele">
+<!ENTITY  unpinTab.accesskey                 "s">
+<!ENTITY  moveToGroup.label                  "Perkelti į grupę">
+<!ENTITY  moveToGroup.accesskey              "g">
+<!ENTITY  moveToNewGroup.label               "Nauja grupė">
+<!ENTITY  moveToNewGroup.accesskey           "N">
 <!ENTITY  namedGroups.label                  "Įvardintos grupės">
-<!ENTITY  reloadTab.label             "Atsiųsti kortelės tinklalapį iš naujo">
-<!ENTITY  reloadTab.accesskey         "A">
-<!ENTITY  reloadAllTabs.label         "Atsiųsti visų kortelių tinklalapius iš naujo">
-<!ENTITY  reloadAllTabs.accesskey     "v">
-<!ENTITY  closeOtherTabs.label        "Užverti kitas korteles">
-<!ENTITY  closeOtherTabs.accesskey    "k">
-<!ENTITY  openTabInNewWindow.label    "Atverti naujame lange">
-<!ENTITY  openTabInNewWindow.accesskey "l">
-<!ENTITY  pinTab.label                "Paversti specialiąja kortele">
-<!ENTITY  pinTab.accesskey            "s">
-<!ENTITY  unpinTab.label              "Paversti paprastąja kortele">
-<!ENTITY  unpinTab.accesskey          "s">
-<!ENTITY  bookmarkThisTab.label       "Įrašyti į adresyną šią kortelę">
-<!ENTITY  bookmarkThisTab.accesskey   "r">
-<!ENTITY  bookmarkAllTabs.label       "Įrašyti į adresyną visas korteles…">
-<!ENTITY  bookmarkAllTabs.accesskey   "v">
-<!ENTITY  undoCloseTab.label          "Atšaukti kortelės užvėrimą">
-<!ENTITY  undoCloseTab.accesskey      "ž">
-<!ENTITY  closeTab.label              "Užverti kortelę">
-<!ENTITY  closeTab.accesskey          "U">
+<!ENTITY  bookmarkThisTab.label              "Įrašyti į adresyną šią kortelę">
+<!ENTITY  bookmarkThisTab.accesskey          "r">
+<!ENTITY  bookmarkAllTabs.label              "Įrašyti į adresyną visas korteles…">
+<!ENTITY  bookmarkAllTabs.accesskey          "v">
+<!ENTITY  undoCloseTab.label                 "Atšaukti kortelės užvėrimą">
+<!ENTITY  undoCloseTab.accesskey             "ž">
+<!ENTITY  closeTab.label                     "Užverti kortelę">
+<!ENTITY  closeTab.accesskey                 "U">
 
-<!ENTITY  listAllTabs.label           "Pateikti visas korteles">
+<!ENTITY  listAllTabs.label                  "Pateikti visas korteles">
 
 <!ENTITY tabCmd.label "Nauja kortelė">
 <!ENTITY tabCmd.accesskey "k">
@@ -210,7 +210,7 @@
 <!ENTITY webConsoleCmd.accesskey      "p">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Tirti">
+<!ENTITY inspectMenu.label            "Tyriklis">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
