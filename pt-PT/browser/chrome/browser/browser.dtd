@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação Privada)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Mover este separador para…">
-<!ENTITY  moveTabTo.accesskey                "M">
-<!ENTITY  createNewGroup.label               "Criar novo grupo">
-<!ENTITY  createNewGroup.accesskey           "C">
-<!ENTITY  namedGroups.label                  "Grupos">
 <!ENTITY  reloadTab.label        "Recarregar Separador">
 <!ENTITY  reloadTab.accesskey         "R">
 <!ENTITY  reloadAllTabs.label    "Recarregar Todos os Separadores">
@@ -29,6 +24,11 @@
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Tornar em separador normal">
 <!ENTITY  unpinTab.accesskey                 "m">
+<!ENTITY  moveToGroup.label                  "Mover para grupo">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "Novo grupo">
+<!ENTITY  moveToNewGroup.accesskey           "N">
+<!ENTITY  namedGroups.label                  "Grupos com nome">
 <!ENTITY  bookmarkThisTab.label        "Adicionar Separador aos Marcadores">
 <!ENTITY  bookmarkThisTab.accesskey    "d">
 <!ENTITY  bookmarkAllTabs.label       "Guardar Separadores como Marcadores...">
