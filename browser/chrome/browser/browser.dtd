@@ -2,11 +2,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazione anonima)">
-<!ENTITY moveTabTo.label "Sposta questa scheda in…">
-<!ENTITY moveTabTo.accesskey "u">
-<!ENTITY createNewGroup.label "Crea un nuovo gruppo">
-<!ENTITY createNewGroup.accesskey "C">
-<!ENTITY namedGroups.label "Gruppi con nome">
 <!ENTITY reloadTab.label "Ricarica scheda">
 <!ENTITY reloadTab.accesskey "R">
 <!ENTITY reloadAllTabs.label "Ricarica tutte le schede">
@@ -19,6 +14,11 @@
 <!ENTITY pinTab.accesskey "h">
 <!ENTITY unpinTab.label "Trasforma in Scheda normale">
 <!ENTITY unpinTab.accesskey "h">
+<!ENTITY moveToGroup.label "Sposta nel gruppo">
+<!ENTITY moveToGroup.accesskey "S">
+<!ENTITY moveToNewGroup.label "Nuovo gruppo">
+<!ENTITY moveToNewGroup.accesskey "N">
+<!ENTITY namedGroups.label "Gruppi con nome">
 <!ENTITY bookmarkThisTab.label "Questa scheda nei segnalibri">
 <!ENTITY bookmarkThisTab.accesskey "Q">
 <!ENTITY bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
