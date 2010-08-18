@@ -47,5 +47,3 @@
 <!ENTITY  clickFinish.label               "Cliquez sur Terminer pour continuer le démarrage de &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Cliquez sur Terminer pour continuer le démarrage de &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permettre à &brandShortName; de vérifier la disponibilité de mises à jour.">
-<!ENTITY  details.label                   "Détails…">
-<!ENTITY  details.accesskey               "D">
