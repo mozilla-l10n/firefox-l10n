@@ -90,5 +90,3 @@
 <!ENTITY  clickFinish.label               "Klicka på Slutför för att fortsätta starten av &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Klicka på Klar för att fortsätta starten av &brandShortName;.">
 <!ENTITY  enableChecking.label            "Låt &brandShortName; söka efter uppdateringar.">
-<!ENTITY  details.label                   "Detaljer…">
-<!ENTITY  details.accesskey               "D">
