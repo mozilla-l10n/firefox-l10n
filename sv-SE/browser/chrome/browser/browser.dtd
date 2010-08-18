@@ -43,11 +43,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privat surfning)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Flytta fliken till…">
-<!ENTITY  moveTabTo.accesskey                "F">
-<!ENTITY  createNewGroup.label               "Skapa ny grupp">
-<!ENTITY  createNewGroup.accesskey           "S">
-<!ENTITY  namedGroups.label                  "Namngivna grupper">
 <!ENTITY  reloadTab.label          "Uppdatera flik">
 <!ENTITY  reloadTab.accesskey      "U">
 <!ENTITY  reloadAllTabs.label      "Uppdatera alla flikar">
@@ -60,6 +55,11 @@
 <!ENTITY  pinTab.accesskey                   "G">
 <!ENTITY  unpinTab.label                     "Gör om till vanlig flik">
 <!ENTITY  unpinTab.accesskey                 "v">
+<!ENTITY  moveToGroup.label                  "Flytta till grupp">
+<!ENTITY  moveToGroup.accesskey              "F">
+<!ENTITY  moveToNewGroup.label               "Ny grupp">
+<!ENTITY  moveToNewGroup.accesskey           "N">
+<!ENTITY  namedGroups.label                  "Namngivna grupper">
 <!ENTITY  bookmarkThisTab.label       "Bokmärke för denna flik">
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  bookmarkAllTabs.label       "Bokmärke för alla flikar…">
