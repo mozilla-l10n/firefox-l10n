@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gizli tarama)">
 <!-- Tab context menu -->
 
-<!ENTITY moveTabTo.label "Move This Tab To…">
-<!ENTITY moveTabTo.accesskey "M">
-<!ENTITY createNewGroup.label "Create New Group">
-<!ENTITY createNewGroup.accesskey "C">
-<!ENTITY namedGroups.label "Named Groups">
 <!ENTITY reloadTab.label "Sekmeyi tazele">
 <!ENTITY reloadTab.accesskey "z">
 <!ENTITY reloadAllTabs.label "Tüm sekmeleri tazele">
@@ -29,6 +24,11 @@
 <!ENTITY pinTab.accesskey "U">
 <!ENTITY unpinTab.label "Normal sekmeye dönüştür">
 <!ENTITY unpinTab.accesskey "N">
+<!ENTITY moveToGroup.label "Move to Group">
+<!ENTITY moveToGroup.accesskey "M">
+<!ENTITY moveToNewGroup.label "New Group">
+<!ENTITY moveToNewGroup.accesskey "N">
+<!ENTITY namedGroups.label "Adlı gruplar">
 <!ENTITY bookmarkThisTab.label "Sekmeyi yer imlerine ekle">
 <!ENTITY bookmarkThisTab.accesskey "i">
 <!ENTITY bookmarkAllTabs.label "Tüm sekmeleri yer imlerine ekle...">
@@ -51,7 +51,7 @@
 <!ENTITY printSetupCmd.label "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey "y">
 <!ENTITY printPreviewCmd.label "Yazdırma önizleme">
-<!ENTITY printPreviewCmd.accesskey "ö">
+<!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printCmd.label "Yazdır">
 <!ENTITY printCmd.accesskey "Y">
 <!ENTITY printCmd.commandkey "P">
@@ -59,7 +59,7 @@
 <!ENTITY import.accesskey "a">
 
 <!ENTITY goOfflineCmd.label "Çevrim dışı çalış">
-<!ENTITY goOfflineCmd.accesskey "Ç">
+<!ENTITY goOfflineCmd.accesskey "d">
 
 <!ENTITY menubarCmd.label "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey "M">
@@ -124,7 +124,7 @@
 <!ENTITY printButton.label "Yazdır">
 <!ENTITY printButton.tooltip "Bu sayfayı yazdır">
 
-<!ENTITY backForwardItem.title "Back/Forward">
+<!ENTITY backForwardItem.title "Geri/İleri">
 <!ENTITY locationItem.title "Konum">
 <!ENTITY searchItem.title "Ara">
 <!ENTITY throbberItem.title "Etkinlik göstergesi">
@@ -132,8 +132,8 @@
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label "Başlangıç">
-<!ENTITY tabViewButton2.label "Tab Groups">
-<!ENTITY tabViewButton2.tooltip "Group Your Tabs">
+<!ENTITY tabViewButton2.label "Sekme grupları">
+<!ENTITY tabViewButton2.tooltip "Sekmelerinizi gruplandırın">
 
 <!ENTITY bookmarksButton.label "Yer imleri">
 <!ENTITY bookmarksButton.tooltip "Yer imlerini göster">
@@ -185,7 +185,7 @@
 
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "İncele">
-<!ENTITY inspectButton.accesskey "İ">
+<!ENTITY inspectButton.accesskey "c">
 <!ENTITY inspectNextButton.label "Sonraki">
 <!ENTITY inspectNextButton.accesskey "S">
 <!ENTITY inspectPreviousButton.label "Önceki">
@@ -240,8 +240,8 @@
 
 <!ENTITY viewMenu.label "Görünüm">
 <!ENTITY viewMenu.accesskey "m">
-<!ENTITY showTabView2.label "Group Your Tabs…">
-<!ENTITY showTabView2.accesskey "G">
+<!ENTITY showTabView2.label "Sekmelerinizi gruplandırın">
+<!ENTITY showTabView2.accesskey "u">
 <!ENTITY viewToolbarsMenu.label "Araç çubukları">
 <!ENTITY viewToolbarsMenu.accesskey "A">
 <!ENTITY viewSidebarMenu.label "Kenar çubuğu">
@@ -400,8 +400,8 @@
 <!ENTITY mediaShowControls.accesskey "s">
 <!ENTITY mediaHideControls.label "Düğmeleri gizle">
 <!ENTITY mediaHideControls.accesskey "D">
-<!ENTITY videoFullScreen.label "Full Screen">
-<!ENTITY videoFullScreen.accesskey "F">
+<!ENTITY videoFullScreen.label "Tam ekran">
+<!ENTITY videoFullScreen.accesskey "T">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -522,19 +522,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Tarayıcı sekmeleri">
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu.label "Diğer Bilgisayarlardaki Sekmeler">
+<!ENTITY syncTabsMenu.label "Diğer bilgisayarlardaki sekmeler">
 
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.shortName.label "Eşitle">
 
 <!ENTITY syncMenu.label "&syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
                                               don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey "Y">
-<!ENTITY syncSetup.label "&syncBrand.shortName.label;'ı Kur…">
-<!ENTITY syncSetup.accesskey "Y">
-<!ENTITY syncLogInItem.label "Connect">
-<!ENTITY syncLogInItem.accesskey "C">
-<!ENTITY syncLogOutItem.label "Disconnect">
-<!ENTITY syncLogOutItem.accesskey "D">
-<!ENTITY syncSyncNowItem.label "Sync Now">
-<!ENTITY syncSyncNowItem.accesskey "S">
+<!ENTITY syncMenu.accesskey "l">
+<!ENTITY syncSetup.label "&syncBrand.shortName.label; yapılandırması…">
+<!ENTITY syncSetup.accesskey "y">
+<!ENTITY syncLogInItem.label "Bağlan">
+<!ENTITY syncLogInItem.accesskey "B">
+<!ENTITY syncLogOutItem.label "Bağlantıyı kes">
+<!ENTITY syncLogOutItem.accesskey "k">
+<!ENTITY syncSyncNowItem.label "Şimdi eşitle">
+<!ENTITY syncSyncNowItem.accesskey "m">

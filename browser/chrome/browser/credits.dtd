@@ -9,7 +9,7 @@
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
 
-<!ENTITY credit.translation "<h3>Çevirmenler</h3><ul><li>Erkan Kaplan</li><li>Ahmet Serkan Tıratacı</li><li>Rail Aliev</li></ul>">
+<!ENTITY credit.translation "<h3>Çevirmenler</h3><ul><li>Erkan Kaplan</li><li>Ahmet Serkan Tıratacı</li><li>Rail Aliev</li><li>Adem Alp Yıldız</li><li>Selim Şumlu</li></ul>">
 
 <!ENTITY credit.memory "Adına Adadıklarımız">
 <!ENTITY credit.poweredByGeckoReg "Gücünün kaynağı Gecko&reg;">

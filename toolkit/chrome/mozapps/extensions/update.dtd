@@ -1,11 +1,11 @@
-<!ENTITY updateWizard.title "&brandShortName; Güncelleme">
+<!ENTITY updateWizard.title "&brandShortName; güncelleme">
 
 <!ENTITY offline.title "&brandShortName; şu anda çevrim dışı çalışıyor">
 <!ENTITY offline.description "&brandShortName; uygulamasının güncellemeleri kontrol edebilmesi ve uyumlu eklentileri indirebilmesi için çevrim içi olması gereklidir.">
 <!ENTITY offline.toggleOffline.label "Çevrim içi ol.">
 <!ENTITY offline.toggleOffline.accesskey "v">
 
-<!ENTITY mismatch.win.title "Uyumsuz Eklentiler">
+<!ENTITY mismatch.win.title "Uyumsuz eklentiler">
 <!ENTITY mismatch.top.label "Aşağıdaki eklentiler &brandShortName; tarayıcısının bu sürümüyle uyumlu değil ve bu nedenle devre dışı bırakıldılar:">
 <!ENTITY mismatch.bottom.label "&brandShortName; bu eklentilerin uyumlu sürümlerinin olup olmadığına bakabilir.">
 
@@ -46,5 +46,3 @@
 <!ENTITY clickFinish.label "&brandShortName; tarayıcısını açmaya devam etmek için Tamamlandı düğmesine basın.">
 <!ENTITY clickFinish.labelMac "&brandShortName; uygulamasını başlatmak için Tamamlandı düğmesine basın.">
 <!ENTITY enableChecking.label "&brandShortName; tarayıcısının güncellemelere bakmasına izin ver.">
-<!ENTITY details.label "Ayrıntılar…">
-<!ENTITY details.accesskey "A">
