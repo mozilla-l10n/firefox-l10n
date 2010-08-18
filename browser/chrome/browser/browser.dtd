@@ -2,11 +2,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Режим приватного просмотра)">
-<!ENTITY moveTabTo.label "Переместить эту вкладку в…">
-<!ENTITY moveTabTo.accesskey "м">
-<!ENTITY createNewGroup.label "Создать новую группу">
-<!ENTITY createNewGroup.accesskey "з">
-<!ENTITY namedGroups.label "Именованные группы">
 <!ENTITY reloadTab.label "Обновить вкладку">
 <!ENTITY reloadTab.accesskey "и">
 <!ENTITY reloadAllTabs.label "Обновить все вкладки">
@@ -19,6 +14,11 @@
 <!ENTITY pinTab.accesskey "п">
 <!ENTITY unpinTab.label "Сделать обычной вкладкой">
 <!ENTITY unpinTab.accesskey "о">
+<!ENTITY moveToGroup.label "Переместить в группу">
+<!ENTITY moveToGroup.accesskey "м">
+<!ENTITY moveToNewGroup.label "Новая группа">
+<!ENTITY moveToNewGroup.accesskey "в">
+<!ENTITY namedGroups.label "Именованные группы">
 <!ENTITY bookmarkThisTab.label "Добавить эту вкладку в закладки">
 <!ENTITY bookmarkThisTab.accesskey "б">
 <!ENTITY bookmarkAllTabs.label "Добавить все вкладки в закладки…">
