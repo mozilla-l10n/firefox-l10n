@@ -224,6 +224,12 @@
 <!ENTITY inspectStyleButton.label          "Stilius">
 <!ENTITY inspectStyleButton.accesskey      "S">
 <!ENTITY inspectStylePanelTitle.label      "Stilius">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label            "DOM">
+<!ENTITY inspectDOMButton.accesskey        "D">
 
 <!ENTITY fileMenu.label         "Failas"> 
 <!ENTITY fileMenu.accesskey       "F">
