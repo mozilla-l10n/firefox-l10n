@@ -1,3 +1,7 @@
+<!ENTITY listEmpty.availableUpdates.label     "Nuk u gjetën përditësime">
+<!ENTITY listEmpty.recentUpdates.label        "Nuk keni përditësuar së fundmi ndonjë shtesë">
+<!ENTITY listEmpty.findUpdates.label          "Kontrollo Për Përditësime">
+
 <!ENTITY addons.windowTitle                   "Përgjegjësi i Shtesave">
 <!ENTITY search.placeholder                   "Kërko në tërë shtesat">
 <!ENTITY loading.label                        "Po ngarkohet…">
@@ -17,12 +21,18 @@
 <!ENTITY view.plugins.label                   "Shtojca">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Përditësoni shtesat">
+<!ENTITY updates.updateAddonsNow.label        "Përditësojini Shtesat Tani">
+<!ENTITY updates.updateAddonsNow.accesskey    "P">
+<!ENTITY updates.viewUpdates.label            "Shihni Përditësimet e Fundit">
+<!ENTITY updates.viewUpdates.accesskey        "S">
+<!ENTITY updates.backgroudUpdateCheck.label   "Kontrollo Vetvetiu për Përditësime">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "K">
 <!ENTITY updates.updating.label               "Po përditësohen shtesat">
 <!ENTITY updates.installed.label              "Shtesat tuaja u përditësuan.">
 <!ENTITY updates.downloaded.label             "Përditësimet për shtesat tuaja u shkarkuan.">
-<!ENTITY updates.restart.label                "Riniseni tani, që të plotësohet instalimi">
+<!ENTITY updates.restart.label                "Që të plotësohet instalimi, riniseni tani">
 <!ENTITY updates.noneFound.label              "Nuk u gjetën përditësime">
+<!ENTITY updates.manualUpdatesFound.label     "Shihni Përditësimet e Mundshme">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Shfaq më tepër të dhëna">
@@ -36,19 +46,20 @@
 
 <!ENTITY cmd.enableAddon.label                "Aktivizoje">
 <!ENTITY cmd.enableAddon.accesskey            "A">
-<!ENTITY cmd.enableAddon.tooltip              "Aktivizojeni këtë shtesë">
 <!ENTITY cmd.disableAddon.label               "Çaktivizoje">
 <!ENTITY cmd.disableAddon.accesskey           "Ç">
-<!ENTITY cmd.disableAddon.tooltip             "Çaktivizojeni këtë shtesë">
 <!ENTITY cmd.uninstallAddon.label             "Hiqe">
 <!ENTITY cmd.uninstallAddon.accesskey         "H">
-<!ENTITY cmd.uninstallAddon.tooltip           "Çinstalojeni këtë shtesë">
 <!ENTITY cmd.showPreferences.label            "Parapëlqime">
 <!ENTITY cmd.showPreferences.tooltip          "Ndryshoni parapëlqimet për këtë shtesë">
 <!ENTITY cmd.contribute.label                 "Kontribuoni">
 <!ENTITY cmd.contribute.accesskey             "K">
 <!ENTITY cmd.contribute.tooltip               "Kontribuoni në zhvillimin e kësaj shtese">
 
+<!ENTITY cmd.showReleaseNotes.label           "Shfaq Shënime Versioni">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Shfaqni shënimet e versionit për këtë përditësim">
+<!ENTITY cmd.hideReleaseNotes.label           "Fshihi Shënimet e Versioni">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Fshihini shënimet e versionit për këtë përditësim">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
@@ -99,6 +110,8 @@
 <!ENTITY addon.homepage                       "Faqe hyrëse">
 <!ENTITY addon.unknownDate                    "E panjohur">
 <!ENTITY addon.disabled.postfix               "(e çaktivizuar)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Përditësim">
 <!ENTITY addon.undo.label                     "Të zhbëhet?">
 <!ENTITY addon.undo.tooltip                   "Zhbëje këtë veprim">
 <!ENTITY addon.undoUninstall.label            "Të zhbëhet?">
@@ -108,5 +121,10 @@
 <!ENTITY addon.install.label                  "Instaloje">
 <!ENTITY addon.install.tooltip                "Instalojeni këtë shtesë">
 <!ENTITY addon.checkingForUpdates.label       "Po kontrollohet për përditësime…">
+<!ENTITY addon.updateNow.label                "Përditësoje Tani">
+<!ENTITY addon.updateNow.tooltip              "Instaloni përditësimet për këtë shtesë">
+<!ENTITY addon.releaseNotes.label             "Shënime Versioni:">
+<!ENTITY addon.loadingReleaseNotes.label      "Po ngarkohet…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Na ndjeni, por pati një gabim gjatë ngarkimit të shënimeve të versionit.">
 
 <!ENTITY addon.createdBy.label                "Nga ">
