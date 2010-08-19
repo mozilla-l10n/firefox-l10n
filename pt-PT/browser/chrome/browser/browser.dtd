@@ -193,6 +193,12 @@ shortcut keys on Linux. -->
 <!ENTITY inspectStyleButton.label     "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Estilo">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "F">
@@ -530,7 +536,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                               don't use a conflicting access key -->
 <!ENTITY syncMenu.accesskey           "i">
 <!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSetup.accesskey          "z">
 <!ENTITY syncLogInItem.label          "Ligar">
 <!ENTITY syncLogInItem.accesskey      "L">
 <!ENTITY syncLogOutItem.label         "Desligar">
