@@ -46,6 +46,4 @@ për shtesat tuaja për t&quot;i bërë ato të përputhshme me këtë version."
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Klikoni Përfundoje për të vazhduar me nisjen e &brandShortName;-it.">
 <!ENTITY  enableChecking.label            "Lejo &brandShortName;-in të kontrollojë për përditësime.">
-<!ENTITY  details.label                   "Hollësi…">
-<!ENTITY  details.accesskey               "H">
 <!ENTITY  clickFinish.labelMac            "Klikoni U bë për të vazhduar me nisjen e &brandShortName;-it.">
