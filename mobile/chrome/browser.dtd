@@ -118,5 +118,14 @@
 
 <!ENTITY contextOpenInNewTab.label        "Atverti saitą naujoje kortelėje">
 <!ENTITY contextSaveImage.label           "Įrašyti paveikslą">
+<!ENTITY contextShareLink.label           "Dalintis saitu">
+<!ENTITY contextShareImage.label          "Dalintis paveikslu">
 <!ENTITY contextEditBookmark.label        "Taisyti">
 <!ENTITY contextRemoveBookmark.label      "Pašalinti">
+
+<!ENTITY pageactions.saveas.pdf           "Įrašyti PDF formatu">
+<!ENTITY pageactions.share.page           "Dalintis tinklalapiu">
+<!ENTITY pageactions.password.forget      "Užmiršti slaptažodį">
+<!ENTITY pageactions.reset                "Išvalyti svetainės nuostatas">
+<!ENTITY pageactions.findInPage           "Ieškoti tinklalapyje">
+<!ENTITY pageactions.search.addNew        "Pridėti ieškyklę">
