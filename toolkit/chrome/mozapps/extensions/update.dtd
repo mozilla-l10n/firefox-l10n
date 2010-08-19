@@ -59,5 +59,3 @@
 <!ENTITY  clickFinish.label               "Trykk «Fullfør» for å fortsette med å starte &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Trykk «Ferdig» for å fortsette med å starte &brandShortName;.">
 <!ENTITY  enableChecking.label            "Tillat &brandShortName; å søke etter oppdateringer.">
-<!ENTITY  details.label                   "Detaljer …">
-<!ENTITY  details.accesskey               "D">
