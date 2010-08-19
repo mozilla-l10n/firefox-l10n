@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Rregullime">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Njoftomë kur">
+<!ENTITY testpilot.settings.dataSubmission.label    "Parashtrim të Dhënash">
+<!ENTITY testpilot.settings.notifications.label     "Njoftime">
+<!ENTITY testpilot.settings.notifyWhen.label        "Njoftomë kur…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Ka një vëzhgim për t&apos;'u bërë">
 <!ENTITY testpilot.settings.newStudy.label          "Ka një vëzhgim të ri">
 <!ENTITY testpilot.settings.hasNewResults.label     "Një vëzhgim ka përfundime të reja">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Parashtroji vetvetiu të dhënat e mia (pa më pyetur)">
-<!ENTITY testpilot.allStudies.label                 "Krejt Vëzhgimet Tuaja të Përdoruesit">
+<!ENTITY testpilot.allYourStudies.label             "Krejt Vëzhgimet Tuaja si Përdorues…">
 <!ENTITY testpilot.about.label                      "Rreth Testit Pilot">
 
 <!-- all studies window -->
