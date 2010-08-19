@@ -47,15 +47,17 @@
 <!ENTITY undoCloseTab.accesskey "U">
 
 <!ENTITY backForwardItem.title        "Atpakaļ/Uz priekšu">
-<!ENTITY  createNewGroup.label               "Izveidot jaunu grupu">
-<!ENTITY  createNewGroup.accesskey           "I">
 <!ENTITY developerMenu.label "Izstrādātājiem">
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY  namedGroups.label                  "Nosauktas grupas">
-<!ENTITY  moveTabTo.label                    "Pārcelt cilni uz…">
-<!ENTITY  moveTabTo.accesskey                "P">
 <!ENTITY showTabView2.label     "Grupēt cilnes…">
 <!ENTITY showTabView2.accesskey     "G">
+<!ENTITY  moveToGroup.label                  "Pārvietot uz grupu">
+<!ENTITY  moveToGroup.accesskey              "P">
+<!ENTITY  moveToNewGroup.label               "Jauna grupa">
+<!ENTITY  moveToNewGroup.accesskey           "J">
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 
 <!ENTITY syncBrand.shortName.label  "Sinhronizēt">
 
