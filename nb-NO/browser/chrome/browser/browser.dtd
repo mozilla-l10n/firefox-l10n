@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat nettlesing)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Flytt denne fanen til …">
-<!ENTITY  moveTabTo.accesskey                "F">
-<!ENTITY  createNewGroup.label               "Lag ny gruppe">
-<!ENTITY  createNewGroup.accesskey           "L">
-<!ENTITY  namedGroups.label                  "Navngitte grupper">
 <!ENTITY  reloadTab.label                    "Oppdater fane">
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Oppdater alle faner">
@@ -29,6 +24,11 @@
 <!ENTITY  pinTab.accesskey                   "G">
 <!ENTITY  unpinTab.label                     "Gjør om til vanlig fane">
 <!ENTITY  unpinTab.accesskey                 "G">
+<!ENTITY  moveToGroup.label                  "Flytt til gruppe">
+<!ENTITY  moveToGroup.accesskey              "F">
+<!ENTITY  moveToNewGroup.label               "Ny gruppe">
+<!ENTITY  moveToNewGroup.accesskey           "N">
+<!ENTITY  namedGroups.label                  "Navngitte grupper">
 <!ENTITY  bookmarkThisTab.label              "Bokmerk denne fanen">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner …">
