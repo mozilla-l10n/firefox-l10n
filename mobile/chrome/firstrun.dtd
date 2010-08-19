@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title "Bienvenido a &brandShortName;">
-<!ENTITY firstrun.heading "Para ayudarle a comenzar, aquí están algunas de las características y complementos más populares para sacar el máximo provecho a &brandShortName;.">
-<!ENTITY firstrun.recommended "Recomendado:">
-<!ENTITY firstrun.weave.title "Conseguir Weave Sync">
-<!ENTITY firstrun.weave.description "Comparta el historial, contraseñas, marcadores y pestañas de &brandShortName; entre su escritorio y su dispositivo móvil">
-<!ENTITY firstrun.starter.title "Consiga algunos complementos interesantes">
-<!ENTITY firstrun.starter.description "Instale estos complementos recomendados para mejorar la experiencia con &brandShortName;">
-<!ENTITY firstrun.tour.title "Dar una vuelta">
-<!ENTITY firstrun.tour.description "Vea este vídeo para familiarizarse con la forma de moverse y encontrar características interesantes">
-<!ENTITY firstrun.features "Vea más características">
+<!ENTITY firstrun.heading "Bienvenido a &brandShortName;">
+<!ENTITY firstrun.sync.title "Consiga Firefox Sync">
+<!ENTITY firstrun.sync.description "Comparta su historial, contraseñas, marcadores y pestañas de &brandShortName; entre equipos de escritorio y móviles.">
+<!ENTITY firstrun.starter.title "Consiga complementos">
+<!ENTITY firstrun.starter.description "Instale complementos para mejorar la experiencia con &brandShortName;">
+<!ENTITY firstrun.tour.title "Comenzar">
+<!ENTITY firstrun.tour.description "Presione para ir a su página de inicio personalizada y empezar a navegar por la Web.">
+<!ENTITY firstrun.features "Vea las notas de publicación">
 <!ENTITY firstrun.faq "PUF">
 <!ENTITY firstrun.privacy "Política de privacidad">
 <!ENTITY firstrun.follow "Síganos en:">

@@ -158,6 +158,8 @@
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "s">
 <!ENTITY inspectStylePanelTitle.label "Estilo">
+<!ENTITY inspectDOMButton.label "DOM">
+<!ENTITY inspectDOMButton.accesskey "D">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newNavigatorCmd.label "Nueva ventana">
