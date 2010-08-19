@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title "Добро пожаловать в &brandShortName;">
-<!ENTITY firstrun.heading "Чтобы помочь вам начать работу, здесь приведены некоторые из наиболее популярных возможностей и дополнений, которые помогут вам использовать &brandShortName; по максимуму.">
-<!ENTITY firstrun.recommended "Рекомендованные:">
-<!ENTITY firstrun.weave.title "Загрузите Weave Sync">
-<!ENTITY firstrun.weave.description "Используйте журнал посещений, пароли, закладки и вкладки вашего &brandShortName; как с настольного, так и с мобильного компьютера.">
-<!ENTITY firstrun.starter.title "Загрузите набор для начинающих">
-<!ENTITY firstrun.starter.description "Установите эти рекомендованные дополнения, чтобы улучшить вашу работу в &brandShortName;">
-<!ENTITY firstrun.tour.title "Совершите экскурсию">
-<!ENTITY firstrun.tour.description "Просмотрите этот клип, чтобы ознакомиться с тем, как всё работает, и найти интересные для вас возможности">
-<!ENTITY firstrun.features "Больше возможностей">
+<!ENTITY firstrun.heading "Добро пожаловать в &brandShortName;">
+<!ENTITY firstrun.sync.title "Загрузите Firefox Sync">
+<!ENTITY firstrun.sync.description "Используйте историю, пароли, закладки и вкладки вашего &brandShortName; как на настольном, так и на мобильном компьютере">
+<!ENTITY firstrun.starter.title "Загрузите дополнения">
+<!ENTITY firstrun.starter.description "Установите дополнения, чтобы улучшить вашу работу в &brandShortName;">
+<!ENTITY firstrun.tour.title "Начало работы">
+<!ENTITY firstrun.tour.description "Нажмите, чтобы перейти на вашу персональную стартовую страницу и начать сёрфинг по Интернету">
+<!ENTITY firstrun.features "Просмотрите примечания к выпуску">
 <!ENTITY firstrun.faq "FAQ">
 <!ENTITY firstrun.privacy "Политика приватности">
 <!ENTITY firstrun.follow "Следуйте за нами на:">
