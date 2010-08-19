@@ -474,10 +474,6 @@
 <!ENTITY  unpinTab.label                     "Kaloje në Skedë Normale">
 <!ENTITY  unpinTab.accesskey                 "N">
 
-<!ENTITY  moveTabTo.label                    "Kaloje Këtë Skedë Te…">
-<!ENTITY  moveTabTo.accesskey                "K">
-<!ENTITY  createNewGroup.label               "Krijoni Grup të Ri">
-<!ENTITY  createNewGroup.accesskey           "G">
 <!ENTITY  namedGroups.label                  "Grupe me Emër">
 
 <!ENTITY showTabView2.label     "Gruponi Skedat Tuaja…">
