@@ -59,5 +59,4 @@
 <!ENTITY clickFinish.label "Haga clic en Finalizar para continuar iniciando &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Haga clic en Done para continuar iniciando &brandShortName;.">
 <!ENTITY enableChecking.label "Permitir a &brandShortName; buscar actualizaciones.">
-<!ENTITY details.label "Detalles…">
-<!ENTITY details.accesskey "D">
+

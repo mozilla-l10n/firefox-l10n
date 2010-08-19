@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación privada)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Mover esta pestaña a…">
-<!ENTITY  moveTabTo.accesskey                "M">
-<!ENTITY  createNewGroup.label               "Crear nuevo grupo">
-<!ENTITY  createNewGroup.accesskey           "C">
-<!ENTITY  namedGroups.label                  "Grupos con nombre">
 <!ENTITY  reloadTab.label                    "Recargar pestaña">
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Recargar todas las pestañas">
@@ -29,6 +24,11 @@
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Transformar en pestaña normal">
 <!ENTITY  unpinTab.accesskey                 "T">
+<!ENTITY  moveToGroup.label                  "Mover a grupo">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "Nuevo grupo">
+<!ENTITY  moveToNewGroup.accesskey           "N">
+<!ENTITY  namedGroups.label                  "Grupos con nombre">
 <!ENTITY  bookmarkThisTab.label              "Marcar esta pestaña">
 <!ENTITY  bookmarkThisTab.accesskey          "M">
 <!ENTITY  bookmarkAllTabs.label              "Marcar todas las pestañas…">
@@ -193,6 +193,12 @@
 <!ENTITY inspectStyleButton.label     "Estilo">
 <!ENTITY inspectStyleButton.accesskey "s">
 <!ENTITY inspectStylePanelTitle.label  "Estilo">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
