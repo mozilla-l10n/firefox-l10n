@@ -7,6 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label "Controlla aggiornamenti">
 <!ENTITY listEmpty.search.label "Non è stato trovato alcun componente aggiuntivo corrispondente">
 <!ENTITY listEmpty.button.label "Scopri altre informazioni sui componenti aggiuntivi">
+<!ENTITY installFromFile.label "Installa da file…">
+<!ENTITY installFromFile.accesskey "I">
 <!ENTITY view.search.label "Cerca">
 <!ENTITY view.discover.label "Esplora">
 <!ENTITY view.locales.label "Lingue">
