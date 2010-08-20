@@ -7,6 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label      "Vérifier les mises à jour">
 <!ENTITY listEmpty.search.label           "Aucun module correspondant">
 <!ENTITY listEmpty.button.label           "En apprendre plus sur les modules complémentaires">
+<!ENTITY installFromFile.label                "Installer depuis un fichier…">
+<!ENTITY installFromFile.accesskey            "I">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
