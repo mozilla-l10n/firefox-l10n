@@ -17,8 +17,6 @@
 <!ENTITY moveToGroup.label "Mover al grupo">
 <!ENTITY moveToGroup.accesskey "M">
 <!ENTITY moveToNewGroup.label "Nuevo grupo">
-<!ENTITY moveToNewGroup.accesskey "N">
-<!ENTITY namedGroups.label "Grupos nombrados">
 <!ENTITY bookmarkThisTab.label "Añadir esta pestaña a marcadores">
 <!ENTITY bookmarkThisTab.accesskey "ñ">
 <!ENTITY bookmarkAllTabs.label "Añadir pestañas a marcadores…">
@@ -218,11 +216,12 @@
 <!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY appMenuPrintCmd.label "Imprimir">
 <!ENTITY appMenuCustomize.label "Personalizar">
 <!ENTITY appMenuToolbarLayout.label "Disposición de las barras de herramientas…">
 <!ENTITY appMenuSidebars.label "Barras laterales">
-<!ENTITY appMenuHelp.label "Ayuda">
+<!ENTITY appMenuFind.label "Buscar…">
+<!ENTITY appMenuUnsorted.label "Marcadores sin ordenar">
+<!ENTITY appMenuGettingStarted.label "Comenzar">
 <!ENTITY developerMenu.label "Desarrolladores">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Ir a un sitio web">
