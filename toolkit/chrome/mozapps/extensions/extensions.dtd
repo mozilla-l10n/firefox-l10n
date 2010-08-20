@@ -11,6 +11,8 @@
 <!ENTITY showMore.tooltip                     "Rādīt vairāk informācijas">
 <!ENTITY showLess.label                       "Rādīt mazāk">
 <!ENTITY showLess.tooltip                     "Rādīt mazāk informācijas">
+<!ENTITY installFromFile.label                "Instalēt no faila…">
+<!ENTITY installFromFile.accesskey            "I">
 
 <!-- Command Bar items -->
 
