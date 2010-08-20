@@ -252,11 +252,12 @@
 <!ENTITY showAllHistoryCmd2.label "Alle geschiedenis tonen">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY appMenuPrintCmd.label "Afdrukken">
 <!ENTITY appMenuCustomize.label "Aanpassen">
 <!ENTITY appMenuToolbarLayout.label "Werkbalkindeling…">
 <!ENTITY appMenuSidebars.label "Zijbalken">
-<!ENTITY appMenuHelp.label "Help">
+<!ENTITY appMenuFind.label "Zoeken…">
+<!ENTITY appMenuUnsorted.label "Ongesorteerde bladwijzers">
+<!ENTITY appMenuGettingStarted.label "Aan de slag">
 
 <!ENTITY developerMenu.label "Ontwikkelaar">
 
