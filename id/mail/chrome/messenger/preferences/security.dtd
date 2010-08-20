@@ -44,9 +44,9 @@
 <!ENTITY antiVirus.accesskey  "l">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; dapat mengatur feed blog dan berita atau situs web lain yang diizinkan untuk mengatur cookie.">
-<!ENTITY acceptCookies.label            "Terima cookie dari situs">
-<!ENTITY acceptCookies.accesskey        "c">
+<!ENTITY cookies.intro                  "&brandShortName; dapat mengatur feed blog dan berita atau situs web lain yang diizinkan untuk mengatur kuki.">
+<!ENTITY acceptCookies.label            "Terima kuki dari situs">
+<!ENTITY acceptCookies.accesskey        "k">
 <!ENTITY keepUntil.label                "Simpan hingga:">
 <!ENTITY keepUntil.accesskey            "S">
 <!ENTITY expire.label                   "kedaluwarsa">
@@ -54,6 +54,6 @@
 <!ENTITY askEachTime.label              "tanyakan selalu">
 <!ENTITY cookieExceptions.label         "Pengecualian…">
 <!ENTITY cookieExceptions.accesskey     "P">
-<!ENTITY showCookies.label              "Tampilkan Cookie…">
+<!ENTITY showCookies.label              "Tampilkan Kuki…">
 <!ENTITY showCookies.accesskey          "T">
 
