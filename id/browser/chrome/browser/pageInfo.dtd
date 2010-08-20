@@ -95,7 +95,7 @@
 <!ENTITY  permissionsFor        "Hak akses untuk:">
 <!ENTITY  permImage             "Muat Gambar">
 <!ENTITY  permPopup             "Buka Jendela Pop-up">
-<!ENTITY  permCookie            "Simpan Cookie">
+<!ENTITY  permCookie            "Simpan Kuki">
 <!ENTITY  permInstall           "Memasang Ekstensi atau Tema">
 <!ENTITY  permGeo               "Berbagi Data Lokasi">
 
@@ -114,9 +114,9 @@
 
 <!ENTITY  securityView.privacy.header                   "Privasi &amp; Riwayat">
 <!ENTITY  securityView.privacy.history                  "Pernahkah situs ini dikunjungi sebelum hari ini?">
-<!ENTITY  securityView.privacy.cookies                  "Apakah situs web ini menyimpan informasi (cookie) dalam komputer saya?">
-<!ENTITY  securityView.privacy.viewCookies              "Tampilkan Cookie">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "c">
+<!ENTITY  securityView.privacy.cookies                  "Apakah situs web ini menyimpan informasi (kuki) dalam komputer saya?">
+<!ENTITY  securityView.privacy.viewCookies              "Tampilkan Kuki">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Pernahkah kata sandi untuk situs web ini disimpan?">
 <!ENTITY  securityView.privacy.viewPasswords            "Kata Sandi Tersimpan">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">

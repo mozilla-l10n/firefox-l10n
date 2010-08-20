@@ -40,8 +40,8 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Kata Sandi Tersimpan">
 <!ENTITY itemPasswords.accesskey           "S">
-<!ENTITY itemCookies.label                 "Cookie">
-<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCookies.label                 "Kuki">
+<!ENTITY itemCookies.accesskey             "K">
 <!ENTITY itemCache.label                   "Tembolok">
 <!ENTITY itemCache.accesskey               "T">
 <!ENTITY itemOfflineApps.label             "Data Situs Web Luring">

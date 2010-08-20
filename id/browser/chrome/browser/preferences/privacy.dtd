@@ -11,10 +11,10 @@
 <!ENTITY  locbar.nothing.label          "Tidak ada">
 
 
-<!ENTITY  acceptCookies.label           "Terima cookie dari situs web">
+<!ENTITY  acceptCookies.label           "Terima kuki dari situs web">
 <!ENTITY  acceptCookies.accesskey       "w">
 
-<!ENTITY  acceptThirdParty.label        "Terima cookie dari pihak ketiga">
+<!ENTITY  acceptThirdParty.label        "Terima kuki dari pihak ketiga">
 <!ENTITY  acceptThirdParty.accesskey    "k">
 
 <!ENTITY  keepUntil.label               "Simpan hingga:">
@@ -27,8 +27,8 @@
 <!ENTITY  cookieExceptions.label        "Pengecualian…">
 <!ENTITY  cookieExceptions.accesskey    "e">
 
-<!ENTITY  showCookies.label             "Tampilkan Cookie…">
-<!ENTITY  showCookies.accesskey         "C">
+<!ENTITY  showCookies.label             "Tampilkan Kuki…">
+<!ENTITY  showCookies.accesskey         "K">
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
@@ -38,7 +38,7 @@
 <!ENTITY  historyHeader.custom.label       "menggunakan pengaturan khusus untuk data riwayat">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; akan mengingat riwayat penjelajahan, unduhan, isian form, dan pencarian serta menyimpan cookie dari situs Web yang pernah dikunjungi.">
+<!ENTITY  rememberDescription.label      "&brandShortName; akan mengingat riwayat penjelajahan, unduhan, isian form, dan pencarian serta menyimpan kuki dari situs Web yang pernah dikunjungi.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -46,7 +46,7 @@
 <!ENTITY  rememberActions.pre.label           "Anda juga dapat ">
 <!ENTITY  rememberActions.clearHistory.label  "membersihkan riwayat terakhir">
 <!ENTITY  rememberActions.middle.label        " atau ">
-<!ENTITY  rememberActions.removeCookies.label "menghapus cookie satu-persatu">
+<!ENTITY  rememberActions.removeCookies.label "menghapus kuki satu-persatu">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.">

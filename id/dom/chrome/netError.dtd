@@ -53,7 +53,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Program peramban diatur untuk menggunakan server proxy, tetapi server proxy tidak bisa ditemukan.</p><ul><li>Apakah pengaturan proxy program peramban sudah benar? Periksa lagi pengaturan tersebut dan coba lagi.</li><li>Apakah komputer tersambung pada jaringan yang berfungsi?</li><li>Masih bermasalah? Tanyakan pada administrator jaringan Anda atau Penyedia Jasa Layanan Internet (Internet Service Provider).</li></ul>">
 
 <!ENTITY redirectLoop.title "Peralihan Berkalang">
-<!ENTITY redirectLoop.longDesc "<p>Program peramban menghentikan proses pengambilan permintaan. Situs yang dimaksud mengalihkan permintaan sedemikian rupa hingga tidak akan pernah berakhir.</p><ul><li>Apakah Anda mematikan atau memblokir cookie yang dibutuhkan untuk mengakses situs ini?</li><li><em>CATATAN</em>: Jika dengan menerima cookie dari situs tidak dapat menyelesaikan masalah, kemungkinan besar hal tersebut merupakan masalah konfigurasi server dan bukan masalah komputer Anda.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Program peramban menghentikan proses pengambilan permintaan. Situs yang dimaksud mengalihkan permintaan sedemikian rupa hingga tidak akan pernah berakhir.</p><ul><li>Apakah Anda mematikan atau memblokir kuki yang dibutuhkan untuk mengakses situs ini?</li><li><em>CATATAN</em>: Jika dengan menerima kuki dari situs tidak dapat menyelesaikan masalah, kemungkinan besar hal tersebut merupakan masalah konfigurasi server dan bukan masalah komputer Anda.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Respons Salah">
 <!ENTITY unknownSocketType.longDesc "<p>Situs menjawab permintaan lewat jaringan dengan cara yang tidak diharapkan dan program peramban tidak dapat melanjutkan.</p>">
