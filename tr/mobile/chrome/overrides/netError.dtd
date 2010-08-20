@@ -14,8 +14,8 @@
 
 <!ENTITY dnsNotFound.title "Sunucu bulunamadı">
 <!ENTITY dnsNotFound.longDesc "<ul> 
-<li><strong>www</strong>.example.com yerine 
-<strong>ww</strong>.example.com 
+<li><strong>www</strong>.siteadresi.com yerine 
+<strong>ww</strong>.siteadresi.com 
 adres yanlış yazılmış olabilir.</li> 
 <li>Hiçbir sayfayı açmayı başaramıyorsanız bilgisayarınızın ağ bağlantılarını gözden geçirin ve İnternet'e bağlı olduğunuzdan emin olun.</li> 
 <li>Bilgisayarınız ya da ağınız güvenlik duvarı ya da vekil sunucu tarafından korunuyorsa, &brandShortName; uygulamasına İnternet'e erişmek için gerekli izinlerin verilmiş olduğundan emin olun.</li> 
@@ -33,7 +33,7 @@ adres yanlış yazılmış olabilir.</li>
 
 <!ENTITY malformedURI.title "Adres geçersiz">
 <!ENTITY malformedURI.longDesc "<ul> 
-<li>Adresler genelde <strong>http://www.example.com/</strong> biçiminde yazılır.</li> 
+<li>Adresler genelde <strong>http://www.siteadresi.com/</strong> biçiminde yazılır.</li> 
 <li>Adreste düzgün bölü (taksim) işareti (<strong>/</strong>) bulunduğundan emin olun. Bu işaret sola değil, <strong>sağa yatık</strong> olmalıdır.</li> </ul>">
 
 <!ENTITY netInterrupt.title "Bağlantı kesildi">

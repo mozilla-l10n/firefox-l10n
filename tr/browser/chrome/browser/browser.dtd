@@ -24,11 +24,9 @@
 <!ENTITY pinTab.accesskey "U">
 <!ENTITY unpinTab.label "Normal sekmeye dönüştür">
 <!ENTITY unpinTab.accesskey "N">
-<!ENTITY moveToGroup.label "Move to Group">
-<!ENTITY moveToGroup.accesskey "M">
+<!ENTITY moveToGroup.label "Gruba taşı">
+<!ENTITY moveToGroup.accesskey "t">
 <!ENTITY moveToNewGroup.label "New Group">
-<!ENTITY moveToNewGroup.accesskey "N">
-<!ENTITY namedGroups.label "Adlı gruplar">
 <!ENTITY bookmarkThisTab.label "Sekmeyi yer imlerine ekle">
 <!ENTITY bookmarkThisTab.accesskey "i">
 <!ENTITY bookmarkAllTabs.label "Tüm sekmeleri yer imlerine ekle...">
@@ -121,7 +119,7 @@
 <!ENTITY stopButton.tooltip "Sayfayı yüklemeyi durdur">
 <!ENTITY goEndCap.tooltip "Konum çubuğundaki adrese git">
 <!ENTITY feedButton.tooltip "Bu sayfaya abone ol…">
-<!ENTITY printButton.label "Yazdır">
+<!ENTITY printButton.label "Print">
 <!ENTITY printButton.tooltip "Bu sayfayı yazdır">
 
 <!ENTITY backForwardItem.title "Geri/İleri">
@@ -190,9 +188,9 @@
 <!ENTITY inspectNextButton.accesskey "S">
 <!ENTITY inspectPreviousButton.label "Önceki">
 <!ENTITY inspectPreviousButton.accesskey "n">
-<!ENTITY inspectStyleButton.label "Stil">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label "Stil">
+<!ENTITY inspectStyleButton.label "Biçem">
+<!ENTITY inspectStyleButton.accesskey "B">
+<!ENTITY inspectStylePanelTitle.label "Biçem">
 <!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
   -  stands for Document Object Model and appears on the inspector's toolbar.
   -  It is used to open and closed the DOM panel. There is also a DOM label in
@@ -267,11 +265,12 @@
 <!ENTITY showAllHistoryCmd2.label "Tüm geçmişi göster">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Yazdır">
 <!ENTITY appMenuCustomize.label "Özelleştir">
 <!ENTITY appMenuToolbarLayout.label "Araç çubuğu düzeni...">
 <!ENTITY appMenuSidebars.label "Kenar çubukları">
-<!ENTITY appMenuHelp.label "Yardım">
+<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuUnsorted.label "Sıralanmamış yer imleri">
+<!ENTITY appMenuGettingStarted.label "İlk Adım">
 
 <!ENTITY developerMenu.label "Geliştirici">
 

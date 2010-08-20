@@ -71,12 +71,12 @@
 <!ENTITY certmgr.certdetail.md5fingerprint "MD5 parmak izi">
 
 <!ENTITY certmgr.editcert.title "Güvenlik onay belgesi ayarlarını düzenle">
-<!ENTITY certmgr.editcacert.title "CA onay belgesi güvenlik ayarlarını düzenle">
+<!ENTITY certmgr.editcacert.title "Onay belgesi güven ayarlarını düzenle">
 <!ENTITY certmgr.editsslcert.title "Ağ sayfası onay belgesi güvenlik ayarlarını düzenle">
 <!ENTITY certmgr.editcert.edittrust "Güven ayarlarını düzenle:">
-<!ENTITY certmgr.editcert.trustssl "Bu onay belgesi ağ sayfalarını belirler.">
-<!ENTITY certmgr.editcert.trustemail "Bu onay belgesi posta kullanıcılarını tanımlar.">
-<!ENTITY certmgr.editcert.trustobjsign "Bu onay belgesi yazılımcıları belirler.">
+<!ENTITY certmgr.editcert.trustssl "Bu onay belgesi ağ sitelerini tanımlayabilir.">
+<!ENTITY certmgr.editcert.trustemail "Bu onay belgesi posta kullanıcılarını tanımlayabilir.">
+<!ENTITY certmgr.editcert.trustobjsign "Bu onay belgesi yazılımcıları tanımlayabilir.">
 <!ENTITY certmgr.editsslcert.edittrust "Onay belgesi güven ayarlarını düzenle:">
 <!ENTITY certmgr.editsslcert.dotrust "Bu onay belgesinin doğruluğu güvensiz.">
 <!ENTITY certmgr.editsslcert.donttrust "Bu onay belgesinin doğruluğuna güvenmeyin.">
@@ -105,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey "K">
 <!ENTITY certmgr.view2.label "Görüntüle…">
 <!ENTITY certmgr.view2.accesskey "G">
-<!ENTITY certmgr.edit3.label "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey "E">
+<!ENTITY certmgr.edit3.label "Güven ayarları...">
+<!ENTITY certmgr.edit3.accesskey "G">
 <!ENTITY certmgr.editca.label "CA güvenlik düzenle">
 <!ENTITY certmgr.editca.accesskey "d">
 <!ENTITY certmgr.add.label "Ekle">
@@ -115,8 +115,8 @@
 <!ENTITY certmgr.export.accesskey "D">
 <!ENTITY certmgr.delete2.label "Sil…">
 <!ENTITY certmgr.delete2.accesskey "S">
-<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey "D">
+<!ENTITY certmgr.delete_builtin.label "Sil veya güvenme...">
+<!ENTITY certmgr.delete_builtin.accesskey "S">
 <!ENTITY certmgr.backup2.label "Yedekle…">
 <!ENTITY certmgr.backup2.accesskey "Y">
 <!ENTITY certmgr.backupall2.label "Hepsini yedekle…">

@@ -5,7 +5,7 @@
 <!ENTITY name.text "Başkalarına gösterilecek isim">
 <!ENTITY email.label "E-posta adresi:">
 <!ENTITY email.accesskey "p">
-<!ENTITY email.emptytext "email@example.com">
+<!ENTITY email.emptytext "eposta@siteadresi.com">
 <!ENTITY password.label "Parola:">
 <!ENTITY password.accesskey "P">
 <!ENTITY password.emptytext "Parola">

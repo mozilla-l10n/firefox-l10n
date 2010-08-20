@@ -13,7 +13,7 @@
      deliberate for formatting around the embedded links. -->
 
 <!ENTITY rights.intro-point1a "&brandShortName; aşağıdaki şartlar altında dağıtılmaktadır (hukuki nedenlerden dolayı lisans metni İngilizce'dir)">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1b "Mozilla Kamu Ruhsatı">
 <!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
 
 <!ENTITY rights.intro-point2-a "Mozilla Vakfı ya da başka bir kurumun herhangi bir ticari markasını ya da hakkını (Firefox logosu ve ismi de dahil olmak üzere) kullanma hakkına sahip değilsiniz. Ticari markalarla ilgili ayrıntılı bilgi ">

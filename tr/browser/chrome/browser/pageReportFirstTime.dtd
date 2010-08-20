@@ -1,6 +1,6 @@
 <!ENTITY startDescription.label "Bir sayfa size sormadan pencere açmaya çalıştı, ancak &brandShortName; bunu engelledi. &brandShortName; bu gibi açılır pencereleri her engellediğinde durum çubuğunda bir uyarı simgesi göreceksiniz.">
 
-<!ENTITY endDescription.label "Bu simgeye tıklayarak hangi sayfanın istem dışı açılan penceresinin &brandShortName; tarafından engellendiğini görebilirsiniz. İsterseniz bu pencereye izin verebilir ve açılır pencerelerin engellenmesiyle ilgili diğer ayarları da yapabilirsiniz. ">
+<!ENTITY endDescription.label "Bu simgeye tıklayarak hangi sayfanın istem dışı açılan penceresinin &brandShortName; tarafından engellendiğini görebilirsiniz. İsterseniz bu pencereye izin verebilir ve açılır pencerelerin engellenmesiyle ilgili diğer ayarları da yapabilirsiniz.">
 
 <!ENTITY caption.label "Açılır pencerelerin engellemesi hakkında">
 

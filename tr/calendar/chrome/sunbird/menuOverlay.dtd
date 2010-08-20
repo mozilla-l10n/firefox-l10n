@@ -79,7 +79,7 @@
 <!ENTITY calendar.exit.label "Çık">
 <!ENTITY calendar.exit.accesskey "k">
 
-<!ENTITY calendar.undo.label "Geri al ">
+<!ENTITY calendar.undo.label "Geri al">
 <!ENTITY calendar.undo.key "z">
 <!ENTITY calendar.undo.accesskey "G">
 
