@@ -1,13 +1,12 @@
-<!ENTITY firstrun.title "Bienvenue dans &brandShortName;">
-<!ENTITY firstrun.heading "Pour vous aider à démarrer, voici quelques modules complémentaires et fonctionnalités parmi les plus populaires pour vous aider à tirer le maximum de &brandShortName;.">
-<!ENTITY firstrun.recommended "Recommandés :">
-<!ENTITY firstrun.weave.title "Obtenir Weave Sync">
-<!ENTITY firstrun.weave.description "Partagez votre historique de navigation, vos mots de passe, vos marque-pages, et vos onglets entre votre ordinateur et votre téléphone portable">
-<!ENTITY firstrun.starter.title "Obtenir la collection « kit de démarrage »">
-<!ENTITY firstrun.starter.description "Installez ces modules complémentaires recommandés pour améliorer votre expérience de &brandShortName;">
-<!ENTITY firstrun.tour.title "Visite guidée">
-<!ENTITY firstrun.tour.description "Regardez ce clip pour vous familiariser avec &brandShortName; et pour localiser les fonctionnalités utiles">
-<!ENTITY firstrun.features "Voir plus de fonctionnalités">
+<!ENTITY firstrun.title                "Bienvenue dans &brandShortName;">
+<!ENTITY firstrun.heading              "Bienvenue dans &brandShortName;">
+<!ENTITY firstrun.sync.title           "Obtenir Firefox Sync">
+<!ENTITY firstrun.sync.description     "Partagez votre historique, vos mots de passe, marque-pages et onglets de Firefox entre votre ordinateur et votre mobile.">
+<!ENTITY firstrun.starter.title        "Obtenir des modules">
+<!ENTITY firstrun.starter.description  "Installez des modules complémentaires pour améliorer &brandShortName;">
+<!ENTITY firstrun.tour.title           "Visite guidée">
+<!ENTITY firstrun.tour.description     "Rendez-vous sur votre page de démarrage personnalisée et commencez à parcourir le Web">
+<!ENTITY firstrun.features             "Notes de version">
 <!ENTITY firstrun.faq "FAQ">
 <!ENTITY firstrun.privacy "Politique de confidentialité">
 <!ENTITY firstrun.follow "Suivez-nous sur :">
