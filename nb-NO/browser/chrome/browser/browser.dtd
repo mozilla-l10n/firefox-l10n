@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "Flytt til gruppe">
 <!ENTITY  moveToGroup.accesskey              "F">
 <!ENTITY  moveToNewGroup.label               "Ny gruppe">
-<!ENTITY  moveToNewGroup.accesskey           "N">
-<!ENTITY  namedGroups.label                  "Navngitte grupper">
 <!ENTITY  bookmarkThisTab.label              "Bokmerk denne fanen">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner …">
@@ -193,6 +191,12 @@
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Stil">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 
 <!ENTITY fileMenu.label         "Fil">
 <!ENTITY fileMenu.accesskey       "F">
@@ -261,11 +265,12 @@
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY appMenuPrintCmd.label "Skriv ut">
 <!ENTITY appMenuCustomize.label "Tilpass">
 <!ENTITY appMenuToolbarLayout.label "Verktøylinjeutseende …">
 <!ENTITY appMenuSidebars.label "Sidestolper">
-<!ENTITY appMenuHelp.label "Hjelp">
+<!ENTITY appMenuFind.label "Finn …">
+<!ENTITY appMenuUnsorted.label "Usorterte bokmerker">
+<!ENTITY appMenuGettingStarted.label "Kom i gang">
 
 <!ENTITY developerMenu.label "Utvikling">
 

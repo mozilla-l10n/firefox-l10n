@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title                "Velkommen til &brandShortName;">
-<!ENTITY firstrun.heading              "For å hjelpe deg å komme i gang, her er de mest populære funksjonene og utvidelsene som vil hjelpe deg å få mest mulig ut av &brandShortName;.">
-<!ENTITY firstrun.recommended          "Anbefalt:">
-<!ENTITY firstrun.weave.title          "Last ned Weave Sync">
-<!ENTITY firstrun.weave.description    "Del &brandShortName;-historikk, passord, bokmerker og faner mellom datamaskinen og mobilen">
-<!ENTITY firstrun.starter.title        "Last ned Starter Kit Collection">
-<!ENTITY firstrun.starter.description  "Installer disse anbefalte utvidelsene for å forbedre &brandShortName;-opplevelsen">
-<!ENTITY firstrun.tour.title           "Få en omvisning">
-<!ENTITY firstrun.tour.description     "Dette videoklippet introduserer deg til hvordan du bruker programmet og nyttige funksjoner">
-<!ENTITY firstrun.features             "Se flere funksjoner">
+<!ENTITY firstrun.heading2             "Velkommen til &brandShortName;">
+<!ENTITY firstrun.sync.title           "Last ned Firefox Sync">
+<!ENTITY firstrun.sync.description     "Del &brandShortName;-historikk, passord, bokmerker og faner mellom datamaskinen og mobilen">
+<!ENTITY firstrun.addons.title         "Last ned utvidelser">
+<!ENTITY firstrun.addons.description   "Installer utvidelser for å forbedre &brandShortName;-opplevelsen">
+<!ENTITY firstrun.home.title           "Kom i gang">
+<!ENTITY firstrun.home.description     "Trykk for å gå til din personlige startside og starte bruke nettet">
+<!ENTITY firstrun.relNotes.label       "Les versjonsnotatet">
 <!ENTITY firstrun.faq                  "FAQ">
 <!ENTITY firstrun.privacy              "Personvern">
 <!ENTITY firstrun.follow               "Følg oss på:">
