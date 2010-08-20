@@ -11,11 +11,6 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Einkavöfrun)">
 <!-- Tab context menu -->
-<!ENTITY moveTabTo.label "Færa þennan flipa í…">
-<!ENTITY moveTabTo.accesskey "F">
-<!ENTITY createNewGroup.label "Búa til nýjan hóp">
-<!ENTITY createNewGroup.accesskey "B">
-<!ENTITY namedGroups.label "Nefndir hópar">
 <!ENTITY reloadTab.label "Endurnýja flipa">
 <!ENTITY reloadTab.accesskey "r">
 <!ENTITY reloadAllTabs.label "Endurnýja alla flipa">
@@ -28,6 +23,11 @@
 <!ENTITY pinTab.accesskey "p">
 <!ENTITY unpinTab.label "Breyta yfir í venjulegan flipa">
 <!ENTITY unpinTab.accesskey "v">
+<!ENTITY moveToGroup.label "Færa í hóp">
+<!ENTITY moveToGroup.accesskey "F">
+<!ENTITY moveToNewGroup.label "Nýr hópur">
+<!ENTITY moveToNewGroup.accesskey "N">
+<!ENTITY namedGroups.label "Nefndir hópar">
 <!ENTITY bookmarkThisTab.label "Setja flipa í bókamerki">
 <!ENTITY bookmarkThisTab.accesskey "b">
 <!ENTITY bookmarkAllTabs.label "Setja flipa í bókamerki…">
@@ -173,6 +173,12 @@
 <!ENTITY inspectStyleButton.label "Stíll">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label "Stíll">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label "DOM">
+<!ENTITY inspectDOMButton.accesskey "D">
 <!ENTITY fileMenu.label "Skrá">
  
 <!ENTITY fileMenu.accesskey "S">

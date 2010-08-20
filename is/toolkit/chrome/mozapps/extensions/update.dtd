@@ -48,5 +48,3 @@
 <!ENTITY clickFinish.label "Smelltu á Ljúka til að ræsa &brandShortName;.">
 <!ENTITY clickFinish.labelMac "Smelltu á Búið til að halda áfram með að ræsa upp &brandShortName;.">
 <!ENTITY enableChecking.label "Leyfa &brandShortName; að athuga með uppfærslur.">
-<!ENTITY details.label "Smáatriði…">
-<!ENTITY details.accesskey "S">
