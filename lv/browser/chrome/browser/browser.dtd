@@ -49,15 +49,17 @@
 <!ENTITY backForwardItem.title        "Atpakaļ/Uz priekšu">
 <!ENTITY developerMenu.label "Izstrādātājiem">
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY  namedGroups.label                  "Nosauktas grupas">
 <!ENTITY showTabView2.label     "Grupēt cilnes…">
 <!ENTITY showTabView2.accesskey     "G">
 <!ENTITY  moveToGroup.label                  "Pārvietot uz grupu">
 <!ENTITY  moveToGroup.accesskey              "P">
 <!ENTITY  moveToNewGroup.label               "Jauna grupa">
-<!ENTITY  moveToNewGroup.accesskey           "J">
 <!ENTITY inspectDOMButton.label       "DOM">
 <!ENTITY inspectDOMButton.accesskey       "D">
+
+<!ENTITY appMenuFind.label "Meklēt…">
+<!ENTITY appMenuUnsorted.label "Nešķirotas grāmatzīmes">
+<!ENTITY appMenuGettingStarted.label "Ar ko sākt">
 
 <!ENTITY syncBrand.shortName.label  "Sinhronizēt">
 
@@ -246,11 +248,9 @@
 <!ENTITY  unpinTab.label                     "Izveidot parastu cilni">
 <!ENTITY  unpinTab.accesskey                 "v">
 
-<!ENTITY appMenuPrintCmd.label "Drukāt">
 <!ENTITY appMenuCustomize.label "Pielāgot">
 <!ENTITY appMenuToolbarLayout.label "Rīkjoslas izkārtojums…">
 <!ENTITY appMenuSidebars.label "Sānjoslas">
-<!ENTITY appMenuHelp.label "Palīdzība">
 <!ENTITY bookmarksMenuButton.label          "Grāmatzīmes">
 <!ENTITY bookmarksMenuButton.tooltip        "Attēlo jūsu grāmatzīmes">
 <!ENTITY viewBookmarksSidebar.label         "Rādīt sānjoslā">
