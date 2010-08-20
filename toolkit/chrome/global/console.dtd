@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY errorConsole.title "Hata Konsolu">
+<!ENTITY errorConsole.title "Hata konsolu">
 
 <!ENTITY errFile.label "Kaynak dosya:">
 <!ENTITY errLine.label "Satır:">

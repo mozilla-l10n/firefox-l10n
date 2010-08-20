@@ -1,11 +1,7 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "Sorun çözme bilgisi">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "  Bu sayfa bir sorunu çözerken kullanabileceğiniz teknik bilgiler içermektedir. Eğer &brandShortName; hakkında sıkça sorulan sorulara cevap arıyorsanız <a id='supportLink'>destek sayfamızı</a> ziyaret edin.">
 
 <!ENTITY aboutSupport.extensionsTitle "Eklentiler">
 <!ENTITY aboutSupport.extensionName "Adı">
@@ -31,9 +27,9 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Adı">
 <!ENTITY aboutSupport.modifiedPrefsValue "Değer">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Çizimler">
 <!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
-<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D Enabled">
+<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D devrede">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Kurulum tarihçesi">
 <!ENTITY aboutSupport.updateHistoryTitle "Güncelleme geçmişi">

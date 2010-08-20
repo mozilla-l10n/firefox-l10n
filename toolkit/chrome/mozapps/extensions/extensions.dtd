@@ -7,9 +7,10 @@
 <!ENTITY listEmpty.findUpdates.label "Güncellemeleri denetle">
 <!ENTITY listEmpty.search.label "Eşleşen bir eklenti bulunamadı">
 <!ENTITY listEmpty.button.label "Eklentiler hakkında daha fazlasını öğrenin">
+<!ENTITY installFromFile.label "Install from file…">
+<!ENTITY installFromFile.accesskey "I">
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
-
 
 <!ENTITY view.search.label "Ara">
 <!ENTITY view.discover.label "Eklenti edin">
@@ -72,7 +73,7 @@
 <!ENTITY detail.updateAutomatically.label "Kendiliğinden güncelle">
 <!ENTITY detail.updateAutomatically.accesskey "K">
 <!ENTITY detail.updateAutomatically.tooltip "Bu eklentinin güncellemesi çıktığında eklentiyi kendiliğinden güncelle">
-<!ENTITY detail.checkForUpdates.label "Güncellemeleri bak…">
+<!ENTITY detail.checkForUpdates.label "Güncellemelere bak…">
 <!ENTITY detail.checkForUpdates.accesskey "b">
 <!ENTITY detail.checkForUpdates.tooltip "Bu eklentinin güncellemelerine bak">
 <!ENTITY detail.showPreferences.label "Tercihler">
@@ -113,9 +114,9 @@
 <!ENTITY addon.disabled.postfix "(devre dışı)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix "Güncelle">
-<!ENTITY addon.undo.label "Geri alınsın mı?">
+<!ENTITY addon.undo.label "Vazgeç">
 <!ENTITY addon.undo.tooltip "Bu eylemi geri al">
-<!ENTITY addon.undoUninstall.label "Geri alınsın mı?">
+<!ENTITY addon.undoUninstall.label "Vazgeç">
 <!ENTITY addon.undoUninstall.tooltip "Bu eklentiyi kurulu bırak">
 <!ENTITY addon.restartNow.label "Şimdi yeniden başlat">
 <!ENTITY addon.restartNow.tooltip "Kurulumu tamamlamak için baştan başlat">

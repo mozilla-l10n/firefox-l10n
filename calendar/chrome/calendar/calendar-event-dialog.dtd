@@ -51,8 +51,8 @@
 
 <!ENTITY newevent.status.label "Durum">
 <!ENTITY newevent.status.accesskey "u">
-<!ENTITY newevent.eventStatus.none.label "Not specified">
-<!ENTITY newevent.eventStatus.none.accesskey "o">
+<!ENTITY newevent.eventStatus.none.label "Belirtilmemiş">
+<!ENTITY newevent.eventStatus.none.accesskey "B">
 <!ENTITY newevent.todoStatus.none.label "Belirtilmemiş">
 <!ENTITY newevent.eventStatus.cancelled.label "İptal edildi">
 <!ENTITY newevent.eventStatus.cancelled.accesskey "p">
@@ -109,7 +109,7 @@
 
 <!ENTITY event.menu.edit.label "Düzenle">
 <!ENTITY event.menu.edit.accesskey "e">
-<!ENTITY event.menu.edit.undo.label "Geri al ">
+<!ENTITY event.menu.edit.undo.label "Geri al">
 <!ENTITY event.menu.edit.undo.accesskey "G">
 <!ENTITY event.menu.edit.redo.label "Yinele">
 <!ENTITY event.menu.edit.redo.accesskey "Y">
@@ -147,10 +147,10 @@
 <!ENTITY event.menu.options.link.accesskey "B">
 <!ENTITY event.menu.options.timezone.label "Zaman dilimi">
 <!ENTITY event.menu.options.timezone.accesskey "Z">
-<!ENTITY event.menu.options.priority2.label "Önemlilik">
-<!ENTITY event.menu.options.priority2.accesskey "Ö">
-<!ENTITY event.menu.options.priority.notspecified.label "Not specified">
-<!ENTITY event.menu.options.priority.notspecified.accesskey "o">
+<!ENTITY event.menu.options.priority2.label "Öncelik">
+<!ENTITY event.menu.options.priority2.accesskey "c">
+<!ENTITY event.menu.options.priority.notspecified.label "Belirtilmemiş">
+<!ENTITY event.menu.options.priority.notspecified.accesskey "B">
 <!ENTITY event.menu.options.priority.low.label "Düşük">
 <!ENTITY event.menu.options.priority.low.accesskey "D">
 <!ENTITY event.menu.options.priority.normal.label "Normal">
