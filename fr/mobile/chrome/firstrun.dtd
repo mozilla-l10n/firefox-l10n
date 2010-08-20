@@ -1,12 +1,12 @@
 <!ENTITY firstrun.title                "Bienvenue dans &brandShortName;">
-<!ENTITY firstrun.heading              "Bienvenue dans &brandShortName;">
+<!ENTITY firstrun.heading2             "Bienvenue dans &brandShortName;">
 <!ENTITY firstrun.sync.title           "Obtenir Firefox Sync">
 <!ENTITY firstrun.sync.description     "Partagez votre historique, vos mots de passe, marque-pages et onglets de Firefox entre votre ordinateur et votre mobile.">
-<!ENTITY firstrun.starter.title        "Obtenir des modules">
-<!ENTITY firstrun.starter.description  "Installez des modules complémentaires pour améliorer &brandShortName;">
-<!ENTITY firstrun.tour.title           "Visite guidée">
-<!ENTITY firstrun.tour.description     "Rendez-vous sur votre page de démarrage personnalisée et commencez à parcourir le Web">
-<!ENTITY firstrun.features             "Notes de version">
-<!ENTITY firstrun.faq "FAQ">
-<!ENTITY firstrun.privacy "Politique de confidentialité">
-<!ENTITY firstrun.follow "Suivez-nous sur :">
+<!ENTITY firstrun.addons.title         "Obtenir des modules">
+<!ENTITY firstrun.addons.description   "Installez des modules complémentaires pour améliorer &brandShortName;">
+<!ENTITY firstrun.home.title           "Visite guidée">
+<!ENTITY firstrun.home.description     "Rendez-vous sur votre page de démarrage personnalisée et commencez à parcourir le Web">
+<!ENTITY firstrun.relNotes.label       "Notes de version">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Politique de confidentialité">
+<!ENTITY firstrun.follow               "Suivez-nous sur :">
