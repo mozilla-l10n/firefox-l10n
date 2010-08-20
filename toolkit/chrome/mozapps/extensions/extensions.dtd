@@ -128,3 +128,9 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Na ndjeni, por pati një gabim gjatë ngarkimit të shënimeve të versionit.">
 
 <!ENTITY addon.createdBy.label                "Nga ">
+
+<!ENTITY installFromFile.label                "Instaloni prej kartele…">
+<!ENTITY installFromFile.accesskey            "I">
+
+<!ENTITY view.recentUpdates.label             "Përditësime Së Fundmi">
+<!ENTITY view.availableUpdates.label          "Përditësime të Passhme">
