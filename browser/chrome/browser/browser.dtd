@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Mode Penjelajahan Pribadi)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Pindah Tab Ini ke…">
-<!ENTITY  moveTabTo.accesskey                "P">
-<!ENTITY  createNewGroup.label               "Buat Kelompok Baru">
-<!ENTITY  createNewGroup.accesskey           "o">
-<!ENTITY  namedGroups.label                  "Kelompok yang Diberi Nama">
 <!ENTITY  reloadTab.label              "Muat Ulang Tab">
 <!ENTITY  reloadTab.accesskey          "l">
 <!ENTITY  reloadAllTabs.label          "Muat Ulang Semua Tab">
@@ -29,6 +24,9 @@
 <!ENTITY  pinTab.accesskey             "p">
 <!ENTITY  unpinTab.label               "Jadikan Tab Normal">
 <!ENTITY  unpinTab.accesskey           "d">
+<!ENTITY  moveToGroup.label            "Pindahkan ke Kelompok Tab">
+<!ENTITY  moveToGroup.accesskey        "K">
+<!ENTITY  moveToNewGroup.label         "Kelompok Tab Baru">
 <!ENTITY  bookmarkThisTab.label        "Buat Bookmark untuk Tab Ini">
 <!ENTITY  bookmarkThisTab.accesskey    "k">
 <!ENTITY  bookmarkAllTabs.label        "Buat Bookmark Semua Tab…">
@@ -193,6 +191,12 @@
 <!ENTITY inspectStyleButton.label     "Gaya">
 <!ENTITY inspectStyleButton.accesskey "G">
 <!ENTITY inspectStylePanelTitle.label  "Gaya">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 
 <!ENTITY fileMenu.label         "Berkas"> 
 <!ENTITY fileMenu.accesskey       "B">
@@ -261,11 +265,12 @@
 <!ENTITY showAllHistoryCmd2.label "Tampilkan Semua Riwayat">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Cetak">
 <!ENTITY appMenuCustomize.label "Ubahsuai">
 <!ENTITY appMenuToolbarLayout.label "Tata Letak Bilah Alat…">
 <!ENTITY appMenuSidebars.label "Bilah Samping">
-<!ENTITY appMenuHelp.label "Bantuan">
+<!ENTITY appMenuFind.label "Cari…">
+<!ENTITY appMenuUnsorted.label "Bookmark Belum Diurut">
+<!ENTITY appMenuGettingStarted.label "Memulai">
 
 <!ENTITY developerMenu.label "Pengembang">
 
