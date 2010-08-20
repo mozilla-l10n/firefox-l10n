@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title "Benvenuto in &brandShortName;">
-<!ENTITY firstrun.heading "Per iniziare ecco alcune delle caratteristiche più popolari e i componenti aggiuntivi per ottenere il massimo da &brandShortName;.">
-<!ENTITY firstrun.recommended "Consigliato:">
-<!ENTITY firstrun.weave.title "Scarica Weave Sync">
-<!ENTITY firstrun.weave.description "Condividi cronologia, password, segnalibri e schede di &brandShortName; tra computer e telefono cellulare.">
-<!ENTITY firstrun.starter.title "Installa la raccolta Starter kit">
-<!ENTITY firstrun.starter.description "Installa questi componenti aggiuntivi consigliati per migliorare la tua esperienza con &brandShortName;">
+<!ENTITY firstrun.heading "Benvenuto in &brandShortName;">
+<!ENTITY firstrun.sync.title "Scarica Firefox Sync">
+<!ENTITY firstrun.sync.description "Condividi con &brandShortName; la cronologia, le password, i segnalibri e le schede aperte sul tuo computer e sul tuo telefono.">
+<!ENTITY firstrun.starter.title "Scarica componenti aggiuntivi">
+<!ENTITY firstrun.starter.description "Installa questi componenti aggiuntivi per migliorare la tua esperienza con &brandShortName;">
 <!ENTITY firstrun.tour.title "Panoramica">
-<!ENTITY firstrun.tour.description "Guarda questo filmato per capire come muoverti e individuare le caratteristiche più interessanti">
-<!ENTITY firstrun.features "Scopri le altre caratteristiche">
+<!ENTITY firstrun.tour.description "Tocca per aprire la pagina iniziale personalizzata e iniziare a navigare sul Web">
+<!ENTITY firstrun.features "Visualizza le note di versione">
 <!ENTITY firstrun.faq "FAQ">
 <!ENTITY firstrun.privacy "Informativa sulla privacy">
 <!ENTITY firstrun.follow "Seguici su:">
