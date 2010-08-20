@@ -48,5 +48,3 @@
 <!ENTITY  clickFinish.label               "Klik Selesai untuk melanjutkan membuka &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Klik Selesai untuk melanjutkan memulai &brandShortName;.">
 <!ENTITY  enableChecking.label            "Izinkan &brandShortName; untuk memeriksa versi baru.">
-<!ENTITY  details.label                   "Detail…">
-<!ENTITY  details.accesskey               "D">
