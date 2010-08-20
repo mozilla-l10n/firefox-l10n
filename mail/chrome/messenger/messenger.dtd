@@ -21,13 +21,13 @@
 <!ENTITY openAttachmentCmd.accesskey "a">
 <!ENTITY saveAsMenu.label "Sàbhail mar">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Fhaidhle">
+<!ENTITY saveAsFileCmd.label "Faidhle">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
-<!ENTITY saveAsTemplateCmd.label "Theamplaid">
+<!ENTITY saveAsTemplateCmd.label "Teamplaid">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgCmd.key "t">
-<!ENTITY getNewMsgForCmd.label "Faigh teachdaireachdan ùra">
+<!ENTITY getNewMsgForCmd.label "Faigh teachdaireachdan ùr airson">
 <!ENTITY getNewMsgForCmd.accesskey "F">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "A h-uile cunntas">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
@@ -123,10 +123,10 @@
 <!ENTITY messagePaneLayoutStyle.accesskey "l">
 <!ENTITY messagePaneClassic.label "An sealladh clasaigeach">
 <!ENTITY messagePaneClassic.accesskey "c">
-<!ENTITY messagePaneWide.label "An sealladh leathann">
-<!ENTITY messagePaneWide.accesskey "e">
-<!ENTITY messagePaneVertical.label "An sealladh dìreach">
-<!ENTITY messagePaneVertical.accesskey "d">
+<!ENTITY messagePaneWide.label "Sealladh leathann">
+<!ENTITY messagePaneWide.accesskey "S">
+<!ENTITY messagePaneVertical.label "Sealladh dìreach">
+<!ENTITY messagePaneVertical.accesskey "S">
 <!ENTITY showMessageCmd.label "Leòs na teachdaireachd">
 <!ENTITY showMessageCmd.accesskey "L">
 
