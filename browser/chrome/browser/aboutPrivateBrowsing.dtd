@@ -5,7 +5,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; tidak sedang berada dalam Mode Penjelajahan Pribadi.">
 
 <!ENTITY privatebrowsingpage.description               "Selama menjelajah dalam Mode Penjelajahan Pribadi, &brandShortName; tidak akan menyimpan 
-riwayat penjelajahan, pencarian, unduhan, pengisian form, cookie, dan berkas Internet yang bersifat sementara. Akan tetapi berkas yang telah diunduh dan bookmark yang telah dibuat akan tetap disimpan.">
+riwayat penjelajahan, pencarian, unduhan, pengisian form, kuki, dan berkas Internet yang bersifat sementara. Akan tetapi berkas yang telah diunduh dan bookmark yang telah dibuat akan tetap disimpan.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->

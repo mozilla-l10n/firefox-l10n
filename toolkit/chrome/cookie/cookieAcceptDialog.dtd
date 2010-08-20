@@ -13,6 +13,6 @@
 <!ENTITY     button.deny.label              "Tolak">
 <!ENTITY     button.deny.accesskey          "T">
 
-<!ENTITY     dialog.title                   "Konfirmasi pengaturan cookie">
-<!ENTITY     dialog.remember.label          "Gunakan pilihan saya untuk semua cookie dari situs ini">
+<!ENTITY     dialog.title                   "Konfirmasi pengaturan kuki">
+<!ENTITY     dialog.remember.label          "Gunakan pilihan saya untuk semua kuki dari situs ini">
 <!ENTITY     dialog.remember.accesskey      "p">
