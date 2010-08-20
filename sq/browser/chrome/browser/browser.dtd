@@ -432,11 +432,11 @@
 <!ENTITY videoFullScreen.label       "Sa Krejt Ekrani">
 <!ENTITY videoFullScreen.accesskey   "K">
 
-<!ENTITY appMenuPrintCmd.label "Shtype">
+
 <!ENTITY appMenuCustomize.label "Përshtateni">
 <!ENTITY appMenuToolbarLayout.label "Skemë Paneli…">
 <!ENTITY appMenuSidebars.label "Anështylla">
-<!ENTITY appMenuHelp.label "Ndihmë">
+
 
 <!ENTITY  bookmarkThisTab.label              "Faqeruaje Këtë Skedë">
 <!ENTITY  bookmarkThisTab.accesskey          "F">
@@ -474,11 +474,8 @@
 <!ENTITY  unpinTab.label                     "Kaloje në Skedë Normale">
 <!ENTITY  unpinTab.accesskey                 "N">
 
-<!ENTITY  namedGroups.label                  "Grupe me Emër">
-
 <!ENTITY showTabView2.label     "Gruponi Skedat Tuaja…">
 <!ENTITY showTabView2.accesskey     "G">
-
 
 <!ENTITY  reloadTab.label                    "Ringarkoje Skedën">
 <!ENTITY  reloadTab.accesskey                "R">
@@ -529,4 +526,7 @@
 <!ENTITY  moveToGroup.label                  "Kaloje në Grup">
 <!ENTITY  moveToGroup.accesskey              "K">
 <!ENTITY  moveToNewGroup.label               "Grup i Ri">
-<!ENTITY  moveToNewGroup.accesskey           "R">
+
+<!ENTITY appMenuFind.label "Gjej…">
+<!ENTITY appMenuGettingStarted.label "Si Tapos;ia Fillohet">
+<!ENTITY appMenuUnsorted.label "Faqerojtës të Parenditur">
