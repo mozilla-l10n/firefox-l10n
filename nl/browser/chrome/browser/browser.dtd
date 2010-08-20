@@ -243,7 +243,9 @@
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Beeld"> 
-<!ENTITY viewMenu.accesskey       "l"> 
+<!ENTITY viewMenu.accesskey       "l">
+<!ENTITY showTabView2.label     "Uw tabbladen groeperen…">
+<!ENTITY showTabView2.accesskey     "g">
 <!ENTITY viewToolbarsMenu.label       "Werkbalken"> 
 <!ENTITY viewToolbarsMenu.accesskey     "W"> 
 <!ENTITY viewSidebarMenu.label "Zijbalk">
