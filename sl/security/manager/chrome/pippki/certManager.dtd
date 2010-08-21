@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname "Ime digitalnega potrdila">
 <!ENTITY certmgr.certserver "Strežnik">
-<!ENTITY certmgr.typesofoverrides "Izjeme">
 <!ENTITY certmgr.override_lifetime "Življenjska doba">
 <!ENTITY certmgr.tokenname "Varnostna naprava">
-<!ENTITY certmgr.purpose "Nameni">
 <!ENTITY certmgr.issued "Izdan dne">
 <!ENTITY certmgr.expires "Preteče dne">
 <!ENTITY certmgr.email "E-mail naslov">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey "Z">
 <!ENTITY certmgr.view2.label "Pogled…">
 <!ENTITY certmgr.view2.accesskey "P">
-<!ENTITY certmgr.edit2.label "Urejanje…">
-<!ENTITY certmgr.edit2.accesskey "E">
+<!ENTITY certmgr.edit3.label                  "Edit Trust…">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label "Spremeni zaupanje overitelja">
 <!ENTITY certmgr.editca.accesskey "s">
 <!ENTITY certmgr.add.label "Dodaj">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey "i">
 <!ENTITY certmgr.delete2.label "Zbriši…">
 <!ENTITY certmgr.delete2.accesskey "Z">
+<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label "Varnostna kopija…">
 <!ENTITY certmgr.backup2.accesskey "K">
 <!ENTITY certmgr.backupall2.label "Varnostna kopija vseh">
