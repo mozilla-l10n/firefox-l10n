@@ -2,11 +2,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Адасобленае азіранне)">
-<!ENTITY moveTabTo.label "Перамясціць гэтую ўстаўку…">
-<!ENTITY moveTabTo.accesskey "м">
-<!ENTITY createNewGroup.label "Стварыць новую купу">
-<!ENTITY createNewGroup.accesskey "С">
-<!ENTITY namedGroups.label "Іменаваныя купы">
 <!ENTITY reloadTab.label "Абнавіць устаўку">
 <!ENTITY reloadTab.accesskey "А">
 <!ENTITY reloadAllTabs.label "Абнавіць усе ўстаўкі">
@@ -19,6 +14,9 @@
 <!ENTITY pinTab.accesskey "п">
 <!ENTITY unpinTab.label "Зрабіць звычайнай устаўкай">
 <!ENTITY unpinTab.accesskey "з">
+<!ENTITY moveToGroup.label "Перамясціць у купу">
+<!ENTITY moveToGroup.accesskey "м">
+<!ENTITY moveToNewGroup.label "Новая купа">
 <!ENTITY bookmarkThisTab.label "Закласці гэтую ўстаўку">
 <!ENTITY bookmarkThisTab.accesskey "ў">
 <!ENTITY bookmarkAllTabs.label "Дадаць закладкі да ўсіх уставак…">
@@ -158,6 +156,8 @@
 <!ENTITY inspectStyleButton.label "Стыль">
 <!ENTITY inspectStyleButton.accesskey "С">
 <!ENTITY inspectStylePanelTitle.label "Стыль">
+<!ENTITY inspectDOMButton.label "DOM">
+<!ENTITY inspectDOMButton.accesskey "D">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newNavigatorCmd.label "Новае акно">
@@ -216,11 +216,12 @@
 <!ENTITY historyHomeCmd.label "Дадому">
 <!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY appMenuPrintCmd.label "Друкаваць">
 <!ENTITY appMenuCustomize.label "Уладкаваць">
 <!ENTITY appMenuToolbarLayout.label "Раскладка прыладапаліцы…">
 <!ENTITY appMenuSidebars.label "Палічкі">
-<!ENTITY appMenuHelp.label "Даведка">
+<!ENTITY appMenuFind.label "Знайсці…">
+<!ENTITY appMenuUnsorted.label "Неразмеркаваныя закладкі">
+<!ENTITY appMenuGettingStarted.label "Пачынаецца">
 <!ENTITY developerMenu.label "Распрацаўнік">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Перайсці на пляцоўку Сеціва">

@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title "Калі ласка да &brandShortName;">
-<!ENTITY firstrun.heading "Каб дапамагчы вам асвоіцца, тут прапанованы для азнаямлення некалькі найбольш папулярных асаблівасцяў і дадаткаў &brandShortName;.">
-<!ENTITY firstrun.recommended "Раіцца:">
-<!ENTITY firstrun.weave.title "Атрыманне Weave Sync">
-<!ENTITY firstrun.weave.description "Падзяліць гісторыю азірання, закладкі, захаваныя паролі, устаўкі паміж вашым кампутарам і мабільнікам.">
-<!ENTITY firstrun.starter.title "Атрыманне калекцыі пачаткоўца">
-<!ENTITY firstrun.starter.description "Усталяваць гэтыя параеныя дадаткі, каб удасканаліць свой &brandShortName;.">
-<!ENTITY firstrun.tour.title "Агляд">
-<!ENTITY firstrun.tour.description "Пабачыць гэтую стужку для даведацца, як гэта працуе і як атрымаць файныя рэчы">
-<!ENTITY firstrun.features "Іншыя ўласцівасці">
+<!ENTITY firstrun.heading2 "Калі ласка да &brandShortName;">
+<!ENTITY firstrun.sync.title "Атрымаць Firefox Sync">
+<!ENTITY firstrun.sync.description "Падзеляць гісторыю, паролі, закладкі і ўстаўкі &brandShortName; паміж кампутарам і мабільнікам">
+<!ENTITY firstrun.addons.title "Атрымаць дадаткі">
+<!ENTITY firstrun.addons.description "Усталяваць дадаткі, каб удасканаліць функцыянальнасць &brandShortName;">
+<!ENTITY firstrun.home.title "Пачаць">
+<!ENTITY firstrun.home.description "Грукніце, каб перайсці на вашу асабістую пачатковую старонку і пачаць азіраць Сеціва">
+<!ENTITY firstrun.relNotes.label "Пабачыць завагі пра выданне">
 <!ENTITY firstrun.faq "Пытанні і адказы">
 <!ENTITY firstrun.privacy "Палітыка адасаблення">
 <!ENTITY firstrun.follow "Сачыць за намі:">

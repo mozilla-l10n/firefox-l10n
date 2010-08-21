@@ -7,6 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label "Знайсці абнаўленні">
 <!ENTITY listEmpty.search.label "Немагчыма знайсці адпаведныя дадаткі">
 <!ENTITY listEmpty.button.label "Падрабязней пра дадаткі">
+<!ENTITY installFromFile.label "Усталяваць з файла…">
+<!ENTITY installFromFile.accesskey "У">
 <!ENTITY view.search.label "Пошук">
 <!ENTITY view.discover.label "Атрымаць дадаткі">
 <!ENTITY view.locales.label "Мовы">
