@@ -59,5 +59,3 @@
 <!ENTITY  clickFinish.label               "Klik op Voltooien om door te gaan met het starten van &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Klik op Klaar om door te gaan met het starten van &brandShortName;.">
 <!ENTITY  enableChecking.label            "&brandShortName; toestaan om te controleren op updates.">
-<!ENTITY  details.label                   "Details…">
-<!ENTITY  details.accesskey               "D">
