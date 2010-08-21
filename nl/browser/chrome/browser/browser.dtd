@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "Naar groep verplaatsen">
 <!ENTITY  moveToGroup.accesskey              "v">
 <!ENTITY  moveToNewGroup.label               "Nieuw groep">
-<!ENTITY  moveToNewGroup.accesskey           "N">
-<!ENTITY  namedGroups.label                  "Groep met naam">
 <!ENTITY  bookmarkThisTab.label              "Bladwijzer voor dit tabblad maken">
 <!ENTITY  bookmarkThisTab.accesskey          "m">
 <!ENTITY  bookmarkAllTabs.label              "Bladwijzer voor alle tabbladen maken…">
