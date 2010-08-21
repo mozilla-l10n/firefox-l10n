@@ -46,5 +46,3 @@
 <!ENTITY clickFinish.label "Пстрыкніце Скончыць, каб працягнуць запуск &brandShortName;.">
 <!ENTITY clickFinish.labelMac "Пстрыкніце Гатова, каб працягнуць запуск &brandShortName;.">
 <!ENTITY enableChecking.label "Дазволіць &brandShortName; правяраць, ці існуюць абнаўленні.">
-<!ENTITY details.label "Падрабязнасці…">
-<!ENTITY details.accesskey "П">
