@@ -7,6 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label          "Controleren op updates">
 <!ENTITY listEmpty.search.label               "Geen overeenkomende add-ons gevonden">
 <!ENTITY listEmpty.button.label               "Meer info over add-ons">
+<!ENTITY installFromFile.label                "Van bestand installeren…">
+<!ENTITY installFromFile.accesskey            "i">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
