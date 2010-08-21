@@ -160,6 +160,10 @@
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "일반 탭으로 만들기">
 <!ENTITY  unpinTab.accesskey                 "k">
+<!ENTITY  moveToGroup.label                  "그룹으로 이동">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "새 그룹">
+
 
 <!ENTITY bookmarkThisTab.label "현재 탭 북마크 하기">
 <!ENTITY bookmarkThisTab.accesskey "B">
@@ -176,12 +180,6 @@
 <!ENTITY reloadTab.label "현재 탭 새로 고침">
 <!ENTITY reloadTab.accesskey "R">
 
-<!ENTITY  moveTabTo.label                    "탭 그룹 이동…">
-<!ENTITY  moveTabTo.accesskey                "M">
-<!ENTITY  createNewGroup.label               "새 그룹 만들기">
-<!ENTITY  createNewGroup.accesskey           "C">
-<!ENTITY  namedGroups.label                  "그룹 목록">
-
 <!ENTITY undoCloseTab.label "닫은 탭 다시 열기">
 <!ENTITY undoCloseTab.accesskey "U">
 <!ENTITY clearRecentHistory.label            "사용 기록 삭제">
@@ -195,7 +193,7 @@
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 <!ENTITY viewMenu.label "보기">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY showTabView2.label     "탭 그룹으로 보기…">
+<!ENTITY showTabView2.label     "탭 그룹…">
 <!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label "도구 모음">
 <!ENTITY viewToolbarsMenu.accesskey "T">
@@ -383,6 +381,8 @@
 <!ENTITY inspectStyleButton.label     "스타일">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "스타일">
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 
 <!ENTITY historyMenu.label "이동">
 <!ENTITY historyMenu.accesskey "s">
@@ -392,11 +392,12 @@
 <!ENTITY showAllHistoryCmd2.label "방문 기록 보기">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "인쇄">
 <!ENTITY appMenuCustomize.label "사용자 설정">
 <!ENTITY appMenuToolbarLayout.label "도구 모음 배치…">
 <!ENTITY appMenuSidebars.label "탐색창">
-<!ENTITY appMenuHelp.label "도움말">
+<!ENTITY appMenuFind.label "찾기…">
+<!ENTITY appMenuUnsorted.label "통합 북마크">
+<!ENTITY appMenuGettingStarted.label "시작하기">
 
 <!ENTITY developerMenu.label "개발자">
 <!ENTITY savePageCmd.accesskey2 "P">
