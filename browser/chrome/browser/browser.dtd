@@ -58,8 +58,6 @@
 <!ENTITY  moveToGroup.label                  "Flytta till grupp">
 <!ENTITY  moveToGroup.accesskey              "F">
 <!ENTITY  moveToNewGroup.label               "Ny grupp">
-<!ENTITY  moveToNewGroup.accesskey           "N">
-<!ENTITY  namedGroups.label                  "Namngivna grupper">
 <!ENTITY  bookmarkThisTab.label       "Bokmärke för denna flik">
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  bookmarkAllTabs.label       "Bokmärke för alla flikar…">
