@@ -1,13 +1,14 @@
 <!ENTITY addons.windowTitle                   "ਐਡ-ਆਨ ਮੈਨੇਜਰ">
 <!ENTITY search.placeholder                   "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ">
 <!ENTITY loading.label                        "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…">
-<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.installed.label            "ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਕਿਸਮ ਦੀ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ">
 <!ENTITY listEmpty.availableUpdates.label     "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਲੱਭਿਆ">
-<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.recentUpdates.label        "ਤੁਸੀਂ ਹੁਣੇ ਜਿਹੇ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਨਹੀਂ ਕੀਤੀ ਹੈ">
 <!ENTITY listEmpty.findUpdates.label          "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
-<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
+<!ENTITY listEmpty.search.label               "ਕੋਈ ਵੀ ਰਲਦੀ ਐਡ-ਆਨ ਨਹੀਂ ਲੱਭੀ ਜਾ ਸਕੀ">
 <!ENTITY listEmpty.button.label               "ਐਡ-ਆਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
-
+<!ENTITY installFromFile.label                "ਫਾਇਲ ਤੋਂ ਇੰਸਟਾਲ ਕਰੋ…">
+<!ENTITY installFromFile.accesskey            "I">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
@@ -31,7 +32,7 @@
 <!ENTITY updates.backgroudUpdateCheck.accesskey "C">
 <!ENTITY updates.updating.label               "ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ">
 <!ENTITY updates.installed.label              "ਤੁਹਾਡੀ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ।">
-<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
+<!ENTITY updates.downloaded.label             "ਤੁਹਾਡੇ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੇ ਜਾ ਚੁੱਕੇ ਹਨ।">
 <!ENTITY updates.restart.label                "ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਲਈ ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY updates.noneFound.label              "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ">
 <!ENTITY updates.manualUpdatesFound.label     "ਉਪਲੱਬਧ ਅੱਪਡੇਟ ਵੇਖੋ">
@@ -58,12 +59,12 @@
 <!ENTITY cmd.showPreferences.tooltip          "ਇਸ ਐਡ-ਆਨ ਪਸੰਦ ਬਦਲੋ">
 <!ENTITY cmd.contribute.label                 "ਯੋਗਦਾਨ">
 <!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
+<!ENTITY cmd.contribute.tooltip               "ਇਹ ਐਡ-ਆਨ ਦੇ ਡਿਵੈਲਪਮੈਂਟ ਲਈ ਯੋਗਦਾਨ ਪਾਓ">
 
 <!ENTITY cmd.showReleaseNotes.label           "ਰੀਲਿਜ਼ ਨੋਟਿਸ ਵੇਖੋ">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
-<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
+<!ENTITY cmd.showReleaseNotes.tooltip         "ਇਸ ਅੱਪਡੇਟ ਲਈ ਰੀਲਿਜ਼ ਨੋਟਿਸ ਵੇਖੋ">
+<!ENTITY cmd.hideReleaseNotes.label           "ਰੀਲਿਜ਼ ਨੋਟਿਸ ਓਹਲੇ">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "ਇਹ ਅੱਪਡੇਟ ਲਈ ਰੀਲਿਜ਼ ਨੋਟਿਸ ਓਹਲੇ ਕਰੋ">
 
 
 <!-- detail view -->
@@ -75,13 +76,13 @@
 
 <!ENTITY detail.updateAutomatically.label     "ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
 <!ENTITY detail.updateAutomatically.accesskey "U">
-<!ENTITY detail.updateAutomatically.tooltip   "Update this add-on automatically whenever there is an update available">
+<!ENTITY detail.updateAutomatically.tooltip   "ਜਦੋਂ ਵੀ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੋਵੇ ਤਾਂ ਇਹ ਆਟੋਮਐਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
 <!ENTITY detail.checkForUpdates.label         "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
-<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.checkForUpdates.tooltip       "ਇਹ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਚੈੱਕ ਕਰੋ">
 <!ENTITY detail.showPreferences.label         "ਪਸੰਦ">
 <!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "Change this add-on's preferences">
+<!ENTITY detail.showPreferences.tooltip       "ਇਹ ਐਡ-ਆਨ ਦੀ ਪਸੰਦ ਬਦਲੋ">
 
 
 <!-- ratings -->
@@ -94,19 +95,19 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "ਨਾਂ">
-<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.name.tooltip                    "ਨਾਂ ਨਾਲ ਲੜੀਬੱਧ">
 <!ENTITY sort.size.label                      "ਆਕਾਰ">
-<!ENTITY sort.size.tooltip                    "Sort by size">
-<!ENTITY sort.dateUpdated.label               "Last Updated">
-<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
+<!ENTITY sort.size.tooltip                    "ਆਕਾਰ ਨਾਲ ਲੜੀਬੱਧ">
+<!ENTITY sort.dateUpdated.label               "ਆਖਰੀ ਵਾਰ ਅੱਪਡੇਟ">
+<!ENTITY sort.dateUpdated.tooltip             "ਅੱਪਡੇਟ ਮਿਤੀ ਨਾਲ ਲੜੀਬੱਧ">
 <!ENTITY sort.rating.label                    "ਰੇਟਿੰਗ">
-<!ENTITY sort.rating.tooltip                  "Sort by average rating">
+<!ENTITY sort.rating.tooltip                  "ਔਸਤ ਰੇਟਿੰਗ ਨਾਲ ਲੜੀਬੱਧ">
 
 
 <!ENTITY showMore.label                       "ਹੋਰ ਵੇਖੋ">
-<!ENTITY showMore.tooltip                     "Show more details">
+<!ENTITY showMore.tooltip                     "ਹੋਰ ਵੱਧ ਜਾਣਕਾਰੀ ਵੇਖੋ">
 <!ENTITY showLess.label                       "ਘੱਟ ਵੇਖੋ">
-<!ENTITY showLess.tooltip                     "Show fewer details">
+<!ENTITY showLess.tooltip                     "ਘੱਟ ਵੇਰਵਾ ਵੇਖੋ">
 
 <!ENTITY search.filter.label                  "ਵੇਖੋ:">
 <!ENTITY search.filter.installed.label        "ਤੁਹਾਡੀਆਂ ਇੰਸਟਾਲ ਐਡ-ਆਨ">
@@ -118,18 +119,18 @@
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "ਅੱਪਡੇਟ">
 <!ENTITY addon.undo.label                     "ਵਾਪਸ ਲੈਣਾ?">
-<!ENTITY addon.undo.tooltip                   "Undo this action">
+<!ENTITY addon.undo.tooltip                   "ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਲਵੋ">
 <!ENTITY addon.undoUninstall.label            "ਵਾਪਸ ਲੈਣਾ?">
-<!ENTITY addon.undoUninstall.tooltip          "Keep this add-on installed">
+<!ENTITY addon.undoUninstall.tooltip          "ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਰੱਖੋ">
 <!ENTITY addon.restartNow.label               "ਹੁਣੇ ਮੁੜ-ਚਾਲੂ">
-<!ENTITY addon.restartNow.tooltip             "Restart now to complete installation">
+<!ENTITY addon.restartNow.tooltip             "ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY addon.install.label                  "ਇੰਸਟਾਲ ਕਰੋ">
-<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.install.tooltip                "ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addon.updateNow.label                "ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ">
-<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
+<!ENTITY addon.updateNow.tooltip              "ਇਹ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addon.checkingForUpdates.label       "…ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY addon.releaseNotes.label             "ਰੀਲਿਜ਼ ਨੋਟਿਸ:">
 <!ENTITY addon.loadingReleaseNotes.label      "…ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "ਅਫਸੋਸ, ਪਰ ਰੀਲਿਜ਼ ਨੋਟਿਸ ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ।">
 
 <!ENTITY addon.createdBy.label                "ਵਲੋਂ ">
