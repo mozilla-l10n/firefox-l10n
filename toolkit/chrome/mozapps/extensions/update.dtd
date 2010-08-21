@@ -46,5 +46,3 @@
 <!ENTITY  clickFinish.label               "לחץ סיים להמשך ההפעלה של &brandShortName;">
 <!ENTITY  clickFinish.labelMac            "לחץ סיום כדי להתחיל להמשיך בהפעלת &brandShortName;.">
 <!ENTITY  enableChecking.label            "אפשר ל־&brandShortName; לבדוק עדכונים.">
-<!ENTITY  details.label                   "פרטים…">
-<!ENTITY  details.accesskey               "פ">

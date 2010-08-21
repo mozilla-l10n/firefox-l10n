@@ -1,10 +1,10 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "התקנת &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "האם השתמשת ב־&syncBrand.fullName.label; בעבר?">
+<!ENTITY setup.choicePage.new.label       "מעולם לא השתמשתי ב־&syncBrand.shortName.label; בעבר">
+<!ENTITY setup.choicePage.existing.label  "אני עושה שימוש ב־&syncBrand.shortName.label; במחשב אחר">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY connectTo.label            "התחבר אל">
@@ -47,7 +47,7 @@
 <!ENTITY syncComputerName.label       "שם מחשב:">
 <!ENTITY syncComputerName.accesskey   "ש">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName;:&rlm;">
-<!ENTITY syncModeSwitchDesc.accesskey "&">
+<!ENTITY syncModeSwitchDesc.accesskey "S">
 <!ENTITY syncEverything.label         "יסנכרן הכל">
 <!ENTITY customSync.label             "ישתמש בהגדרות המותאמות אישית שלי">
 <!ENTITY syncEverythingDescription.label  "הסימניות, ההיסטוריה, הססמאות, ההעדפות והלשוניות שלך יסונכרנו.">
