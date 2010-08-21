@@ -7,6 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label "Проверить наличие обновлений">
 <!ENTITY listEmpty.search.label "Ни одного подходящего дополнения не найдено">
 <!ENTITY listEmpty.button.label "Узнать больше о дополнениях">
+<!ENTITY installFromFile.label "Установить из файла…">
+<!ENTITY installFromFile.accesskey "с">
 <!ENTITY view.search.label "Поиск">
 <!ENTITY view.discover.label "Получить дополнения">
 <!ENTITY view.locales.label "Языки">
