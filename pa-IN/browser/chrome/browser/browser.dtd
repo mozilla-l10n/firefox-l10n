@@ -11,11 +11,6 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)">
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "ਇਹ ਟੈਬ ਭੇਜੋ ਇਸ 'ਚ…">
-<!ENTITY  moveTabTo.accesskey                "M">
-<!ENTITY  createNewGroup.label               "ਨਵਾਂ ਗਰੁੱਪ ਬਣਾਓ">
-<!ENTITY  createNewGroup.accesskey           "C">
-<!ENTITY  namedGroups.label                  "ਨਾਂ ਨਾਲ ਗਰੁੱਪ">
 <!ENTITY  reloadTab.label                    "ਟੈਬ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "ਸਭ ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ">
@@ -28,6 +23,9 @@
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "ਸਧਾਰਨ ਟੈਬ ਬਣਾਓ">
 <!ENTITY  unpinTab.accesskey                 "k">
+<!ENTITY  moveToGroup.label                  "ਗਰੁੱਪ 'ਚ ਭੇਜੋ">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "ਨਵਾਂ ਗਰੁੱਪ">
 <!ENTITY  bookmarkThisTab.label              "ਇਹ ਟੈਬ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ…">
@@ -196,6 +194,12 @@
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "ਸਟਾਈਲ">
 
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 <!ENTITY fileMenu.label         "ਫਾਇਲ">
 <!ENTITY fileMenu.accesskey       "F">
 
@@ -271,11 +275,12 @@
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "ਪਰਿੰਟ">
 <!ENTITY appMenuCustomize.label "ਪਸੰਦੀਦਾ">
 <!ENTITY appMenuToolbarLayout.label "ਟੂਲਬਾਰ ਲੇਆਉਟ…">
 <!ENTITY appMenuSidebars.label "ਬਾਹੀ">
-<!ENTITY appMenuHelp.label "ਮੱਦਦ">
+<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuUnsorted.label "ਬਿਨ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ">
+<!ENTITY appMenuGettingStarted.label "ਸ਼ੁਰੂਆਤ">
 
 <!ENTITY developerMenu.label "ਡਿਵੈਲਪਰ">
 
