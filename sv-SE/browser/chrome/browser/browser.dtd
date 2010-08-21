@@ -296,11 +296,12 @@
 <!ENTITY showAllHistoryCmd2.label "Visa all historik">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Skriv ut">
 <!ENTITY appMenuCustomize.label "Anpassa">
 <!ENTITY appMenuToolbarLayout.label "Verktygsfältslayout…">
 <!ENTITY appMenuSidebars.label "Sidofält">
-<!ENTITY appMenuHelp.label "Hjälp">
+<!ENTITY appMenuFind.label "Sök…">
+<!ENTITY appMenuUnsorted.label "Osorterade bokmärken">
+<!ENTITY appMenuGettingStarted.label "Kom igång">
 
 <!ENTITY developerMenu.label "Utvecklare">
 
