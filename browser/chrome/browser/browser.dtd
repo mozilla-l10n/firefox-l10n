@@ -132,6 +132,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Startpagina">
+<!ENTITY tabViewButton2.label         "Tabbladgroepen">
+<!ENTITY tabViewButton2.tooltip       "Uw tabbladen groeperen">
 
 <!ENTITY bookmarksButton.label          "Bladwijzers">
 <!ENTITY bookmarksButton.tooltip        "Uw bladwijzers weergeven">
