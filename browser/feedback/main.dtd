@@ -1,12 +1,14 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Instellingen">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Mij waarschuwen wanneer">
+<!ENTITY testpilot.settings.dataSubmission.label    "Dataverzending">
+<!ENTITY testpilot.settings.notifications.label     "Waarschuwingen">
+<!ENTITY testpilot.settings.notifyWhen.label        "Mij waarschuwen wanneer…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Een onderzoek kan worden ingediend">
 <!ENTITY testpilot.settings.newStudy.label          "Er een nieuw onderzoek is">
 <!ENTITY testpilot.settings.hasNewResults.label     "Er nieuwe uitslagen van een onderzoek zijn">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Mijn gegevens automatisch indienen (niet vragen)">
-<!ENTITY testpilot.allStudies.label                 "Al uw gebruikersonderzoeken">
+<!ENTITY testpilot.allYourStudies.label             "Al uw gebruikersonderzoeken…">
 <!ENTITY testpilot.about.label                      "Over Test Pilot">
 
 <!-- all studies window -->
