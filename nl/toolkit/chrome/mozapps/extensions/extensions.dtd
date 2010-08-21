@@ -109,6 +109,7 @@
 <!ENTITY addon.homepage                       "Homepage">
 <!ENTITY addon.unknownDate                    "Onbekend">
 <!ENTITY addon.disabled.postfix               "(uitgeschakeld)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "Bijwerken">
 <!ENTITY addon.undo.label                     "Ongedaan maken?">
 <!ENTITY addon.undo.tooltip                   "Deze actie ongedaan maken">
