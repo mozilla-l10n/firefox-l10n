@@ -1,12 +1,12 @@
 <!ENTITY firstrun.title "Добро пожаловать в &brandShortName;">
-<!ENTITY firstrun.heading "Добро пожаловать в &brandShortName;">
+<!ENTITY firstrun.heading2 "Добро пожаловать в &brandShortName;">
 <!ENTITY firstrun.sync.title "Загрузите Firefox Sync">
 <!ENTITY firstrun.sync.description "Используйте историю, пароли, закладки и вкладки вашего &brandShortName; как на настольном, так и на мобильном компьютере">
-<!ENTITY firstrun.starter.title "Загрузите дополнения">
-<!ENTITY firstrun.starter.description "Установите дополнения, чтобы улучшить вашу работу в &brandShortName;">
-<!ENTITY firstrun.tour.title "Начало работы">
-<!ENTITY firstrun.tour.description "Нажмите, чтобы перейти на вашу персональную стартовую страницу и начать сёрфинг по Интернету">
-<!ENTITY firstrun.features "Просмотрите примечания к выпуску">
+<!ENTITY firstrun.addons.title "Загрузите дополнения">
+<!ENTITY firstrun.addons.description "Установите дополнения, чтобы улучшить вашу работу в &brandShortName;">
+<!ENTITY firstrun.home.title "Начало работы">
+<!ENTITY firstrun.home.description "Нажмите, чтобы перейти на вашу персональную стартовую страницу и начать сёрфинг по Интернету">
+<!ENTITY firstrun.relNotes.label "Просмотрите примечания к выпуску">
 <!ENTITY firstrun.faq "FAQ">
 <!ENTITY firstrun.privacy "Политика приватности">
 <!ENTITY firstrun.follow "Следуйте за нами на:">

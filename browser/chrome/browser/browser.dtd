@@ -17,8 +17,6 @@
 <!ENTITY moveToGroup.label "Переместить в группу">
 <!ENTITY moveToGroup.accesskey "м">
 <!ENTITY moveToNewGroup.label "Новая группа">
-<!ENTITY moveToNewGroup.accesskey "в">
-<!ENTITY namedGroups.label "Именованные группы">
 <!ENTITY bookmarkThisTab.label "Добавить эту вкладку в закладки">
 <!ENTITY bookmarkThisTab.accesskey "б">
 <!ENTITY bookmarkAllTabs.label "Добавить все вкладки в закладки…">
@@ -218,11 +216,12 @@
 <!ENTITY historyHomeCmd.label "Домашняя страница">
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY appMenuPrintCmd.label "Печать">
 <!ENTITY appMenuCustomize.label "Изменить">
 <!ENTITY appMenuToolbarLayout.label "Панель инструментов…">
 <!ENTITY appMenuSidebars.label "Боковые панели">
-<!ENTITY appMenuHelp.label "Справка">
+<!ENTITY appMenuFind.label "Найти…">
+<!ENTITY appMenuUnsorted.label "Неподшитые закладки">
+<!ENTITY appMenuGettingStarted.label "Начало работы">
 <!ENTITY developerMenu.label "Разработка">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Перейти на веб-сайт">
