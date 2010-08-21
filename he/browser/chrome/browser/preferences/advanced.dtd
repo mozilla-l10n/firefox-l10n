@@ -54,7 +54,7 @@
 
 <!ENTITY autoCheck.label                 "בדוק אוטומטית אם ישנם עדכונים עבור:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "&">
+<!ENTITY enableAppUpdate.accesskey       "b">
 <!ENTITY enableAddonsUpdate2.label       "תוספות">
 <!ENTITY enableAddonsUpdate2.accesskey   "ת">
 <!ENTITY enableSearchUpdate.label        "מנועי חיפוש">

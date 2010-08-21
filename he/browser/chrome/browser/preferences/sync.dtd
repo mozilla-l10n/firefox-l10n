@@ -24,7 +24,7 @@
 <!ENTITY syncComputerName.label       "שם מחשב:">
 <!ENTITY syncComputerName.accesskey   "ש">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName;:&rlm;">
-<!ENTITY syncModeSwitchDesc.accesskey "&">
+<!ENTITY syncModeSwitchDesc.accesskey "b">
 <!ENTITY syncEverything.label         "יסנכרן הכל">
 <!ENTITY customSync.label             "ישתמש בהגדרות המותאמות אישית שלי">
 <!ENTITY syncEverythingDescription.label  "הסימניות, ההיסטוריה, הססמאות, ההעדפות והלשוניות שלך יסונכרנו.">
