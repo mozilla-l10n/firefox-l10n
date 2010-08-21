@@ -6,12 +6,15 @@
 <!ENTITY listEmpty.recentUpdates.label        "부가 기능에 대한 업데이트가 없습니다.">
 <!ENTITY listEmpty.findUpdates.label          "업데이트 확인">
 <!ENTITY listEmpty.search.label               "일치하는 부가 기능 없음">
-<!ENTITY listEmpty.button.label               "부가 기능 자세히 알아보기">
+<!ENTITY listEmpty.button.label               "부가 기능 자세히 보기">
+<!ENTITY installFromFile.label                "파일로 설치…">
+<!ENTITY installFromFile.accesskey            "I">
+
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "검색">
-<!ENTITY view.discover.label                  "부가 기능 찾기">
+<!ENTITY view.discover.label                  "부가 기능 검색">
 <!ENTITY view.locales.label                   "언어">
 <!ENTITY view.searchengines.label             "검색 엔진">
 <!ENTITY view.features.label                  "확장 기능">
