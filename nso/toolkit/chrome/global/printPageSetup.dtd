@@ -1,58 +1,62 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title "Peakanyo ya Letlakala">
+<!ENTITY printSetup.title "Peakanyo ya letlakala">
 
-<!ENTITY basic.tab "Fomete &amp; Dikgetho">
+<!ENTITY basic.tab "Sebopego &amp; dikgetho">
 
 <!ENTITY formatGroup.label "Sebopego">
 
-<!ENTITY orientation.label "Tšhupetšo:">
-<!ENTITY portrait "Seswantšho">
-<!ENTITY landscape "Ponagalo ya naga">
+<!ENTITY orientation.label "Tšhupo:">
+<!ENTITY portrait.label "Seswantšho">
+<!ENTITY portrait.accesskey "S">
+<!ENTITY landscape.label "Ponagalo">
+<!ENTITY landscape.accesskey "P">
 
 <!ENTITY scale.label "Sekala:">
+<!ENTITY scale.accesskey "S">
 <!ENTITY scalePercent "&#037;">
 
-<!ENTITY shrinkToFit.label "Šošobanya go Lekanya Bophara bja Letlakala">
+<!ENTITY shrinkToFit.label "Hunyetša go lekanya go bophara bja letlakala">
+<!ENTITY shrinkToFit.accesskey "b">
 
 <!ENTITY optionsGroup.label "Dikgetho">
 
-<!ENTITY printBG.label "Gatiša Bokamorago (mebala, &amp;empo; diswantšho)">
+<!ENTITY printBG.label "Gatiša bokamorago (mebala, &amp; diswantšho)">
+<!ENTITY printBG.accesskey "b">
 
-<!ENTITY advanced.tab "Mellwane &amp; Bokagodimo/Bokatlase">
+<!ENTITY advanced.tab "Mellwane &amp; hlogwana/bogomo">
 
 <!ENTITY marginGroup.label "Mellwane (#1)">
 <!ENTITY marginUnits.inches "dinoko">
 <!ENTITY marginUnits.metric "dimilimetara">
-<!ENTITY marginTop.label "Bogodimo:">
-<!ENTITY marginBottom.label "Botlase:">
-<!ENTITY marginLeft.label "Ntsogošo:">
+<!ENTITY marginTop.label "Godimo:">
+<!ENTITY marginTop.accesskey "G">
+<!ENTITY marginBottom.label "Tlase:">
+<!ENTITY marginBottom.accesskey "T">
+<!ENTITY marginLeft.label "Nngele:">
+<!ENTITY marginLeft.accesskey "N">
 <!ENTITY marginRight.label "La go ja:">
+<!ENTITY marginRight.accesskey "L">
 
-<!ENTITY headerFooter.label "Bokagodimo &amp; Bokatlase">
+<!ENTITY headerFooter.label "Dihlogwana &amp; magomo">
 
-<!ENTITY hfLeft.label "Ntsogošo:">
-<!ENTITY hfCenter.label "Gare:">
+<!ENTITY hfLeft.label "Nngele:">
+<!ENTITY hfCenter.label "Bogareng:">
 <!ENTITY hfRight.label "La go ja:">
-<!ENTITY headerLeft.tip "Hlogo ka go ntsogošo">
-<!ENTITY headerCenter.tip "Hlogo ya gare">
-<!ENTITY headerRight.tip "Hlogo ka go la go ja">
-<!ENTITY footerLeft.tip "Bogomo go la ntsogošo">
-<!ENTITY footerCenter.tip "Bogomo bja gare">
-<!ENTITY footerRight.tip "Bogomo bja ka go la go ja">
+<!ENTITY headerLeft.tip "Hlogwana ya la nngele">
+<!ENTITY headerCenter.tip "Hlogwana ya bogareng">
+<!ENTITY headerRight.tip "Hlogwana ya la go ja">
+<!ENTITY footerLeft.tip "Bogomo bja la nngele">
+<!ENTITY footerCenter.tip "Bogomo bja bogareng">
+<!ENTITY footerRight.tip "Bogomo bja la go ja">
 
 <!ENTITY hfTitle "Thaetlele">
-<!ENTITY hfTitle.code "[&amp;T]">
 <!ENTITY hfURL "URL">
-<!ENTITY hfURL.code "[&amp;U]">
-<!ENTITY hfDateAndTime "Tšatšikgwedi/Nako">
-<!ENTITY hfDateAndTime.code "&amp;D">
+<!ENTITY hfDateAndTime "Letšatšikgwedi/nako">
 <!ENTITY hfPage "Letlakala #">
-<!ENTITY hfPage.code "[&amp;P]">
-<!ENTITY hfPageAndTotal "Letlakala # of #">
-<!ENTITY hfPageAndTotal.code "[&amp;PT]">
+<!ENTITY hfPageAndTotal "Letlakala # la #">
 <!ENTITY hfBlank "--sekgala--">
-<!ENTITY hfCustom "Setlwaedi...">
+<!ENTITY hfCustom "Tlwaelo…">
 
-<!ENTITY customPrompt.title "Setlwaedi...">
-<!ENTITY customPrompt.prompt "Lokela sengwalwa sa gago sa hlogo/bogomo bja setlwaedi">
+<!ENTITY customPrompt.title "Tlwaelo…">
+<!ENTITY customPrompt.prompt "Tsenya sengwalwa sa gago sa hlogwana/bogomo sa tlwaelo">

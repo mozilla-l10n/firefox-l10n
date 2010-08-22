@@ -1,9 +1,9 @@
 <!ENTITY position.label "Maemo:">
 <!ENTITY tile.label "Thaele">
-<!ENTITY center.label "Gare">
+<!ENTITY center.label "Bogareng">
 <!ENTITY stretch.label "Otlolla">
 <!ENTITY preview.label "Tebelelo pele">
 <!ENTITY color.label "Mmala:">
-<!ENTITY setDesktopBackground.title "Bea Bokamorago bja Tesekethopo">
-<!ENTITY openDesktopPrefs.label "Bula Dipharologanyo tša Tesekethopo">
+<!ENTITY setDesktopBackground.title "Beakanya bokamorago bja tesekethopo">
+<!ENTITY openDesktopPrefs.label "Bula dikganyogo tša tesekethopo">
 <!ENTITY closeWindow.key "w">

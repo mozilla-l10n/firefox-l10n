@@ -1,18 +1,17 @@
 <!ENTITY lookInMenuList.label "Lebelelela ka gare:">
 <!ENTITY lookInMenuList.accesskey "L">
-<!ENTITY textInput.label "Faele leina:">
-<!ENTITY textInput.accesskey "l">
+<!ENTITY textInput.label "Leina la faele:">
+<!ENTITY textInput.accesskey "L">
 <!ENTITY filterMenuList.label "Difaele tša mohuta:">
 <!ENTITY filterMenuList.accesskey "m">
 <!ENTITY name.label "Leina">
-<!ENTITY size.label "Saese">
-<!ENTITY lastModified.label "Fetotšwe la Mafelelo">
-<!ENTITY permissions.label "Ditumelelo">
-<!ENTITY showHiddenFiles.label "Laetša difaele tše fihlilwego le ditšhupamegala">
+<!ENTITY size.label "Bogolo">
+<!ENTITY lastModified.label "Fetošitšwe la mafelelo">
+<!ENTITY showHiddenFiles.label "Laetša difaele tšeo di fihlilwego le ditšhupetšo">
 <!ENTITY showHiddenFiles.accesskey "L">
 
-<!ENTITY noPermissionError.label "Ga o na le ditumelelo tša maleba go lebelela tšhupamegala ye.">
+<!ENTITY noPermissionError.label "Ga o na ditumelelo tše nyakegago tša go lebelela tšhupetšo ye.">
 
 <!ENTITY folderUp.tooltiptext "E ya legatong la godimo">
-<!ENTITY folderHome.tooltiptext "E ya letlakaleng la mathomo">
-<!ENTITY folderNew.tooltiptext "Hlola tšhupamegala e mpsha">
+<!ENTITY folderHome.tooltiptext "E ya gae">
+<!ENTITY folderNew.tooltiptext "Hlola tšhupetšo e mpsha">

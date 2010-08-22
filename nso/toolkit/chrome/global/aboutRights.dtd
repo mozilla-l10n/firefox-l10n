@@ -1,0 +1,65 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle "ka ga:ditokelo">
+<!ENTITY rights.intro-header "Ka ga ditokelo tša gago">
+<!ENTITY rights.intro "&brandFullName; ke lenaneo-tirišo la khomphutha la bolokologi le la mothopo o bulegilego, leo le agilwego ke setšhaba sa batho ba dikete bao ba tšwago lefaseng ka bophara. Go na le dilo tše mmalwa tšeo o swanetšego go di tseba:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; e dirilwe gore e hwetšagale go wena ka tlase ga maemo a ">
+<!ENTITY rights.intro-point1b "Laesense ya Setšhaba ya Mozilla">
+<!ENTITY rights.intro-point1c ". Se se bolela gore o ka diriša, kopiša le go phatlalatša &brandShortName; go batho ba bangwe.  Gape o amogelegile gore o ka fetoša khoutu ya mothopo ya &brandShortName; ka ge o nyaka go fihlelela dinyakwa tša gago. Laesense ya Setšhaba ya Mozilla gape e go nea tokelo ya go phatlalatša dikgatišo tšeo o di fetošitšego.">
+
+<!ENTITY rights.intro-point2-a "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found ">
+<!ENTITY rights.intro-point2-b "here">
+<!ENTITY rights.intro-point2-c ".">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights.intro-point3a "Dipholisi tša sephiri bakeng sa ditšweletšwa tša &vendorShortName; di ka hwetšwa ">
+<!ENTITY rights.intro-point3b "mo">
+<!ENTITY rights.intro-point3c ".">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "Dipholisi dife goba dife tša sephiri tšeo di šomago tša setšweletšwa se di swanetše go lokeletšwa mo.">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights.intro-point4a "&brandShortName; gape e fana ka ditirelo tša tshedimošo ya wepesaete ya boikgethelo, bjalo ka tirelo ya SafeBrowsing; lega go le bjalo, re ka se tiišetše gore di 100&#37; di nepagetše goba ga di na phošo. Dintlha tše oketšegilego, go akaretšwa tshedimošo ya kamoo o ka šitišago ditirelo, e ka hwetšwa  ">
+<!ENTITY rights.intro-point4b "maemong a tirelo">
+<!ENTITY rights.intro-point4c ".">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "Ge eba setṧweletšwa se se akaretša ditirelo tša wepe, maemo afe goba afe a tirelo ao a šomago a (di)tirelo a swanetše go lomaganywa le tiro ya ">
+<!ENTITY rights.intro-point4b-unbranded "ditirelo tša">
+<!ENTITY rights.intro-point4c-unbranded " wepesaete.">
+
+<!ENTITY rights.webservices-header "ditirelo tša wepesaete tša &brandFullName;">
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!ENTITY rights.webservices-a "&brandFullName; e diriša ditirelo tša tshedimošo ya wepesaete (&quot;ditirelo&quot;), tše bjalo ka tirelo ya SafeBrowsing, tšeo di sa hwetšagalego gore o ka di diriša ka kgatišo ye ya ka bobedi ya &brandShortName; go ya kamoo go hlalositšwego ka mo tlase. Ge eba o sa nyake go diriša ditirelo goba maemo ao a lego ka mo tlase ga a amogelege, o ka šitiša tirelo ya SafeBrowsing ka go bula dikganyogo tša tirišo, gomme wa kgetha karolo ya ">
+<!ENTITY rights.webservices-b "Tšhireletšego">
+<!ENTITY rights.webservices-c " gomme wa swayolla dikgetho tša &quot;&blockAttackSites.label;&quot; le &quot;&blockWebForgeries.label;&quot;">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "Kakaretšo ya ditirelo tša wepesaete tšeo setšweletšwa se di akaretšago, gotee le ditaelo tša kamoo di ka šitišwago ka gona, ge e ba di šoma, di swanetše go akaretšwa mo.">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "Maemo afe goba afe a tirelo ao a šomago a setšweletšwa se a swanetše go lokeletšwa mo.">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights.webservices-term1 "&vendorShortName; le batsenya-letsogo ba yona, badilaesense le badirišani ba yona ba šoma bakeng sa go fana ka tshedimošo yeo e nepagetšego yeo e lego nakong ya go lwantšha ditwatši le go senywa ga mananeo. Lega go le bjalo, ba ka se tiišetše gore tshedimošo ye e a kwagala e bile ga e na phošo: disaete tše dingwe tšeo di lego kotsi di ka no se lemogwe gape disaete tše dingwe tšeo di bolokegilego di ka lemogwa di na le phošo.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; e ka kgaotša goba ya fetoša ditirelo go ya kamoo yona e bonago e le gabohlale.">
+<!ENTITY rights.webservices-term3 "O amogelegile go diriša ditirelo tše le kgatišo yeo e sepelago le tšona ya &brandShortName;, gape o na le ditokelo tšohle tšeo di hlokegago gore o ka dira bjalo.  &vendorShortName; le banei ba yona ba laesense ba boloka ditokelo tše dingwe ka moka ditirelong.  Melao ye ga se ya ikemišetša go lekanyetša ditokelo dife goba dife tšeo di filwego ka tlase ga dilaesense tša mothopo wo o bulegilego tšeo di šomago go &brandShortName; le go dikgatišo tša khoutu ya motheo yeo e sepelelanago le &brandShortName;.">
+<!ENTITY rights.webservices-term4 "Ditirelo di newa go ya kamoo di lego ka gona. &vendorShortName;, batsenya-letsogo ba yona, badilaesense, le baphatlalatši ba ganetša dikaranti ka moka, go sa šetšwe gore di boletšwe goba di šišintšwe, go akaretšwa ka ntle le tekanyetšo, dikaranti tšeo ditirelo di rekwago le tšona e bile di swanela morero wa gago o itšego.  O rwala maikarabelo a kotsi ka moka ya go kgetha ditirelo bakeng sa merero ya gago gotee le boleng le tsela ya go šoma ga ditirelo. Dikahlolo tše dingwe ga di dumelele go se akaretšwe goba tekanyetšo ya dikaranti tšeo di šišintšwego, ka gona kganetšo ye e ka no se šome go wena.">
+<!ENTITY rights.webservices-term5 "Ka ntle le ge go nyakwa ke molao, &vendorShortName;, batsenya-letsogo ba yona, badilaesense, le baphatlalatši ba ka se ikarabele ka tshenyo ya go lebanya, e kgethegilego, e kopanego le maemo, ditlamorago, kotlo, goba tša mohlala tšeo di tšwelelago go goba ka go tswalana ka tsela efe goba efe le tirišo ya &brandShortName; le ditirelo.  Maikarabelo ao a kgobokeditšwego ka tlase ga melao ye a ka se fete $500 (ditolara tše makgolo a mahlano). Dikahlolo tše dingwe ga di dumelele go se akaretšwe goba tekanyetšo ya ditshenyo tše itšego, ka gona go se akaretšwe mo le tekanyetšo di ka no se šome go wena.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; e ka mpshafatša melao ye go ya ka mo go nyakegago nako le nako. Melao ye e ka no se fetošwe goba go khanselwa ka ntle le tumelelo yeo e ngwadilwego fase ya &vendorShortName;.">
+<!ENTITY rights.webservices-term7 "Melao ye e bušwa ke melao ya naga ya California, U.S.A., go sa akaretšwe go lwantšhana ga yona le molao wa kabo. Ge eba karolo efe goba efe ya melao ye e sa šome goba e ka se gapeletšwe, dikarolo tšeo di šetšego di tla šala di šoma ka mo go feletšego. Tabeng yeo go yona go bago le go thulana magareng ga kgatišo yeo e fetoletšwego le kgatišo ya leleme la Seisemane, go tla laola kgatišo ya leleme la Seisemane.">

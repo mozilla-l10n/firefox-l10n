@@ -1,14 +1,13 @@
-<!ENTITY window.width "400">
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more downloads in the list -->
+<!ENTITY window.width2 "485">
 <!ENTITY window.height "300">
 
-<!ENTITY done.label "Dirilwe">
-<!ENTITY canceled.label "Khansetšwe">
-<!ENTITY installing.label "Ya lokela...">
+<!ENTITY starting.label "Go thoma…">
+<!ENTITY scanning.label "Go nyaka ditwatši…">
 
-<!ENTITY starting.label "Ya thoma...">
-<!ENTITY failed.label "Paletšwe">
-
-<!ENTITY downloads.title "Dibulwa">
+<!ENTITY downloads.title "Ditaollo">
 
 <!ENTITY cmd.pause.label "Khutša">
 <!ENTITY cmd.pause.accesskey "K">
@@ -16,31 +15,34 @@
 <!ENTITY cmd.resume.accesskey "T">
 <!ENTITY cmd.cancel.label "Khansela">
 <!ENTITY cmd.cancel.accesskey "K">
-<!ENTITY cmd.show.label "Bula Foltara ya go Bolokela">
-<!ENTITY cmd.show.labelMac "Show in Finder">
-<!ENTITY cmd.show.accesskey "F">
-<!ENTITY cmd.show.accesskeyMac "F">
+<!ENTITY cmd.show.label "Bula foltara ya go swara">
+<!ENTITY cmd.show.accesskey "f">
+<!ENTITY cmd.showMac.label "Laetša go sehwetši">
+<!ENTITY cmd.showMac.accesskey "s">
 <!ENTITY cmd.open.label "Bula">
 <!ENTITY cmd.open.accesskey "B">
-<!ENTITY cmd.openWith.label "Bula Ka...">
+<!ENTITY cmd.openWith.label "Bula ka…">
 <!ENTITY cmd.openWith.accesskey "a">
 <!ENTITY cmd.retry.label "Leka gape">
 <!ENTITY cmd.retry.accesskey "L">
-<!ENTITY cmd.remove.label "Tloša">
-<!ENTITY cmd.remove.accesskey "l">
-<!ENTITY cmd.properties.label "Diponagalo">
-<!ENTITY cmd.properties.accesskey "a">
-<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.goToDownloadPage.label "Eya go letlakala la go laolla">
+<!ENTITY cmd.goToDownloadPage.accesskey "E">
+<!ENTITY cmd.copyDownloadLink.label "Kopiša lomaganyo ya go laolla">
+<!ENTITY cmd.copyDownloadLink.accesskey "l">
+<!ENTITY cmd.removeFromList.label "Tloša lelokelelong">
+<!ENTITY cmd.removeFromList.accesskey "l">
 
 <!ENTITY cmd.close.commandKey "w">
 <!ENTITY cmd.close2.commandKey "j">
 <!ENTITY cmd.close2Unix.commandKey "y">
-<!ENTITY cmd.cleanUp.label "Hlwekiša">
-<!ENTITY cmd.cleanUp.tooltip "Tloša dibulwa tše di feditšwego, khansetšwego le tše di paletšwego go tšwa mo lenaneong">
-<!ENTITY cmd.cleanUp.accesskey "H">
+<!ENTITY cmd.clearList.label "Tloša lelokelelo">
+<!ENTITY cmd.clearList.tooltip "E tloša lenaneong ditaollo tše di feditšwego, khansetšwego le tše di paletšwego">
+<!ENTITY cmd.clearList.accesskey "T">
+<!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 
-<!ENTITY closeWhenDone.label "Tswalela ge dibulwa di feditše">
-<!ENTITY closeWhenDone.tooltip "Tswalela lefasetere la Dibulwa ge difaele ka moka di feditše go bulwa">
+<!ENTITY closeWhenDone.label "Tswalela ge ditaollo di feditše">
+<!ENTITY closeWhenDone.tooltip "E tswalela lefasetere la ditaollo ge difaele tšohle di feditše go laollwa">
 
-<!ENTITY filesSavedTo.label "Difaele ka moka di butšwe go:">
-<!ENTITY showFolder.label "Laetša Foltara ye">
+<!ENTITY showFolder.label "Laetša foltara ye">
+<!ENTITY searchBox.label "Nyaka…">

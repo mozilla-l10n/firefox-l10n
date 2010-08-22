@@ -1,20 +1,20 @@
-<!ENTITY button-back-mac.label "Go Back">
-<!ENTITY button-back-mac.accesskey "B">
-<!ENTITY button-next-mac.label "Continue">
-<!ENTITY button-next-mac.accesskey "C">
-<!ENTITY button-finish-mac.label "Done">
-<!ENTITY button-cancel-mac.label "Cancel">
+<!ENTITY button-back-mac.label "Boela morago">
+<!ENTITY button-back-mac.accesskey "m">
+<!ENTITY button-next-mac.label "Tšwela pele">
+<!ENTITY button-next-mac.accesskey "T">
+<!ENTITY button-finish-mac.label "Feditše">
+<!ENTITY button-cancel-mac.label "Khansela">
 
-<!ENTITY button-back-unix.label "Back">
-<!ENTITY button-back-unix.accesskey "B">
-<!ENTITY button-next-unix.label "Next">
-<!ENTITY button-next-unix.accesskey "N">
-<!ENTITY button-finish-unix.label "Finish">
-<!ENTITY button-cancel-unix.label "Cancel">
+<!ENTITY button-back-unix.label "Morago">
+<!ENTITY button-back-unix.accesskey "M">
+<!ENTITY button-next-unix.label "Latelago">
+<!ENTITY button-next-unix.accesskey "L">
+<!ENTITY button-finish-unix.label "Feditše">
+<!ENTITY button-cancel-unix.label "Khansela">
 
-<!ENTITY button-back-win.label "&lt; Back">
-<!ENTITY button-back-win.accesskey "B">
-<!ENTITY button-next-win.label "Next &gt;">
-<!ENTITY button-next-win.accesskey "N">
-<!ENTITY button-finish-win.label "Finish">
-<!ENTITY button-cancel-win.label "Cancel">
+<!ENTITY button-back-win.label "&lt; Morago">
+<!ENTITY button-back-win.accesskey "M">
+<!ENTITY button-next-win.label "Latelago &gt;">
+<!ENTITY button-next-win.accesskey "L">
+<!ENTITY button-finish-win.label "Feditše">
+<!ENTITY button-cancel-win.label "Khansela">

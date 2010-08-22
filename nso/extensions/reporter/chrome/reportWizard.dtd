@@ -1,56 +1,59 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title "Bega Webe Saete yeo e Senyegilego">
+<!ENTITY reportWizard.title "Bega wepesaete yeo e robegilego">
 
-<!ENTITY privacyNotice.label "Leano-Tshepedišo la Sephiri">
-<!ENTITY reportWizardPrivacy.description "Setlabelo se se go dumelela go botša Sehlopha sa Bodumedi ka ga diwebesaete tšeo di sa šomego ka tshwanelo go &brandShortName;, goba go tswalelela &brandShortName; ka ntle. Ye ke tsela ya gago ya go re thuša go kgonthišiša boitemogelo bja nnete bja tirišo ya &brandShortName;. Ka kgopelo tšea nakwana o bale tše di latelago go ithuta ka tsela yeo re šomišago tshedimošo yeo re e kgoboketšago ge o kgetha go kgatha tema.">
-<!ENTITY reportWizardMustAgree.description "Go tšwela pele o swanetše go dumela go leano-tshepedišo la sephiri la ka godimo.">
+<!ENTITY privacyNotice.label "Pholisi ya sephiri">
+<!ENTITY reportWizardPrivacy.description "Setlabelo se se go dumelela go botša sehlopha sa baebangedi ka ga diwepesaete tšeo di sa šomego ka tshwanelo go &brandShortName;, goba go tswalelela &brandShortName; ka ntle. Ye ke tsela ya gago ya go re thuša go kgonthišetša maitemogelo a tšwago pele a badiriši ba &brandShortName;. Hle tšea nakwana o bale tše di latelago go ithuta ka tsela yeo re šomišago tshedimošo yeo re e kgoboketšago ge o kgetha go kgatha tema.">
+<!ENTITY reportWizardMustAgree.description "Go tšwela pele o swanetše go dumela go pholisi ya sephiri yeo e lego ka mo godimo.">
 
-<!ENTITY dontShowPrivacyStatement.label "Ke badile gomme ke amogela leano-tshepedišo la ka godimo.">
+<!ENTITY dontShowPrivacyStatement.label "Ke badile gomme ke amogela pholisi ya sephiri yeo e lego ka mo godimo.">
 <!ENTITY dontShowPrivacyStatement.accesskey "K">
 
-<!ENTITY reportForm.label "Tlatša Pego">
+<!ENTITY reportForm.label "Tlatša pego">
 
-<!ENTITY reportForm.description "Re botše gannyane ka bothata bjo o gahlanego le bjona:">
-<!ENTITY reportForm.url.title "Webe saete URL:">
+<!ENTITY reportForm.description "Re botše ganyenyane ka bothata bjo o gahlanego le bjona:">
+<!ENTITY reportForm.url.title "URL ya wepesaete:">
+<!ENTITY reportForm.url.accesskey "U">
 <!-- No ":" at the end -->
 
-<!ENTITY reportForm.behind_login.title "Web site is password-protected">
-<!ENTITY reportForm.behind_login.accesskey "P">
+<!ENTITY reportForm.behind_login.title "Wepesaete e šireleditšwe ka lentšuphetišo">
+<!ENTITY reportForm.behind_login.accesskey "p">
 
-<!ENTITY reportForm.problem_type.title "Problem Type:">
-<!ENTITY reportForm.problem_type.accesskey "T">
+<!ENTITY reportForm.problem_type.title "Mohuta wa bothata:">
+<!ENTITY reportForm.problem_type.accesskey "t">
 
-<!ENTITY reportForm.problem_type.chooseOne.title "Kgetha e Tee...">
+<!ENTITY reportForm.problem_type.chooseOne.title "Kgetha e tee…">
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
 
-<!ENTITY reportForm.problem_type.item1.title "Sefetleki ga se thekgwe">
-<!ENTITY reportForm.problem_type.item2.title "Ga e bule">
-<!ENTITY reportForm.problem_type.item3.title "Bohlomelo ga bo laetšwe">
+<!ENTITY reportForm.problem_type.item1.title "Praosara ga e thekgwe">
+<!ENTITY reportForm.problem_type.item2.title "Ga e kgone go tsena">
+<!ENTITY reportForm.problem_type.item3.title "Tsebišo-koketšo ga ya laetšwa">
 <!ENTITY reportForm.problem_type.item4.title "Diteng tše dingwe di lahlegile">
-<!ENTITY reportForm.problem_type.item5.title "Maitshwaro a go phošagala">
-<!ENTITY reportForm.problem_type.item6.title "Sebopego sa go phošagala">
+<!ENTITY reportForm.problem_type.item5.title "Boitshwaro bjo fošagetšego">
+<!ENTITY reportForm.problem_type.item6.title "Ponagalo e fošagetšego">
 <!ENTITY reportForm.problem_type.item7.title "Bothata bjo bongwe">
+<!ENTITY reportForm.problem_type.item8.title "Botseno bja ba nago le bogole">
+<!ENTITY reportForm.problem_type.item9.title "Tšweletšo yeo e gatišitšwego e fošagetše">
 
-<!ENTITY reportForm.describe.title "Describe Problem:">
-<!ENTITY reportForm.describe.accesskey "D">
+<!ENTITY reportForm.describe.title "Hlalosa bothata:">
+<!ENTITY reportForm.describe.accesskey "s">
 
 <!ENTITY reportForm.platform.title "Polatefomo:">
 <!ENTITY reportForm.product.title "Setšweletšwa:">
 <!ENTITY reportForm.gecko.title "Gecko:">
 <!ENTITY reportForm.useragent.title "Moemedi wa tirišo:">
-<!ENTITY reportForm.language.title "Polelo:">
+<!ENTITY reportForm.language.title "Leleme:">
 <!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
 
-<!ENTITY reportForm.email.title "Email (Optional):">
-<!ENTITY reportForm.email.accesskey "E">
+<!ENTITY reportForm.email.title "Imeile (boikgethelo):">
+<!ENTITY reportForm.email.accesskey "e">
 
-<!ENTITY reportForm.privacyPolicy.title "Leano-Tshepedišo la Sephiri">
-<!ENTITY reportForm.privacyPolicy.tooltip "Lebelela Leano-Tshepedišo la Sephiri">
+<!ENTITY reportForm.privacyPolicy.title "Pholisi ya sephiri">
+<!ENTITY reportForm.privacyPolicy.tooltip "Lebelela pholisi ya sephiri">
 
-<!ENTITY reportResults.showDetail.title "Show Details">
-<!ENTITY reportResults.showDetail.accesskey "S">
+<!ENTITY reportResults.showDetail.title "Laetša dintlha">
+<!ENTITY reportResults.showDetail.accesskey "a">
 
-<!ENTITY sendReport.label "Romela Pego">
-<!ENTITY sendReport.description "Romela Pego go sebara...">
+<!ENTITY sendReport.label "Go romela pego">
+<!ENTITY sendReport.description "Romela pego go seabi…">
 
-<!ENTITY finish.label "Pego e Rometšwe">
+<!ENTITY finish.label "Pego e rometšwe">

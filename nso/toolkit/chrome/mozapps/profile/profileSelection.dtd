@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Kgetha Profaele ya Tirišo">
+<!ENTITY windowtitle.label "&brandShortName; - Kgetha profaele ya modiriši">
 
-<!ENTITY profilename.label "Leina la Profaele:">
+<!ENTITY profilename.label "Leina la profaele:">
 
 <!ENTITY start.label "Thoma &brandShortName;">
-<!ENTITY exit.label "E tšwa">
+<!ENTITY exit.label "E-tšwa">
 
 <!ENTITY availprofiles.label "Diprofaele tšeo di lego gona">
 
-<!ENTITY newButton.label "Hlama Profaele...">
+<!ENTITY newButton.label "Hlama profaele…">
 <!ENTITY newButton.accesskey "H">
-<!ENTITY renameButton.label "Thea Profaele Leina Gape...">
+<!ENTITY renameButton.label "Thea profaele leina gape…">
 <!ENTITY renameButton.accesskey "T">
-<!ENTITY deleteButton.label "Phumula Profaele...">
+<!ENTITY deleteButton.label "Phumola profaele…">
 <!ENTITY deleteButton.accesskey "P">
 <!-- manager entities -->
 
-<!ENTITY pmDescription.label "&brandShortName; e boloka tshedimošo ka ga dipeakanyo tša gago, dipharologantšho, le dilo tše dingwe tša tirišo mo profaeleng ya gago ya tirišo.">
+<!ENTITY pmDescription.label "&brandShortName; e boloka tshedimošo ka ga dipeakanyo tša gago, dikganyogo, le dilo tše dingwe tša modiriši mo profaeleng ya gago ya modiriši.">
 
-<!ENTITY offlineState.label "Šoma ntle le megala ya dikgokagano">
+<!ENTITY offlineState.label "Šoma o se mogaleng">
 <!ENTITY offlineState.accesskey "o">
 
-<!ENTITY autoSelect.label "O se botšiše mo go mathomo">
-<!ENTITY autoSelect.accesskey "t">
+<!ENTITY autoSelect.label "O se botšiše mathomong">
+<!ENTITY autoSelect.accesskey "s">

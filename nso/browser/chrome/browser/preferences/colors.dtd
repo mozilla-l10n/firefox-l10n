@@ -2,21 +2,21 @@
 <!ENTITY window.width "38em">
 <!ENTITY window.macWidth "41em">
 
-<!ENTITY allowPagesToUse.label "Allow pages to choose their own colors, instead of my selections above">
-<!ENTITY allowPagesToUse.accesskey "A">
+<!ENTITY allowPagesToUse.label "Dumelela matlakala go ikgethela mebala, go e na le kgetho ya ka yeo e lego ka mo godimo">
+<!ENTITY allowPagesToUse.accesskey "D">
 
-<!ENTITY color "Sengwalwa le Bokamorago">
+<!ENTITY color "Sengwalwa le bokamorago">
 <!ENTITY textColor.label "Sengwalwa:">
-<!ENTITY textColor.accesskey "s">
+<!ENTITY textColor.accesskey "S">
 <!ENTITY backgroundColor.label "Bokamorago:">
-<!ENTITY backgroundColor.accesskey "b">
-<!ENTITY useSystemColors.label "Šomiša mebala ya khomphuthara">
-<!ENTITY useSystemColors.accesskey "o">
+<!ENTITY backgroundColor.accesskey "B">
+<!ENTITY useSystemColors.label "Diriša mebala ya tshepedišo">
+<!ENTITY useSystemColors.accesskey "r">
 
-<!ENTITY underlineLinks.label "Thalela dikgokaganyi">
-<!ENTITY underlineLinks.accesskey "t">
-<!ENTITY links "Mebala ya Dikgokaganyi">
-<!ENTITY linkColor.label "Dikgokaganyi tše di sa Bulwago:">
-<!ENTITY linkColor.accesskey "d">
-<!ENTITY visitedLinkColor.label "Dikgokaganyi tše di Butšwego:">
-<!ENTITY visitedLinkColor.accesskey "b">
+<!ENTITY underlineLinks.label "Thalela dilomaganyo">
+<!ENTITY underlineLinks.accesskey "T">
+<!ENTITY links "Mebala ya dilomaganyo">
+<!ENTITY linkColor.label "Dilomaganyo tšeo di sa etelwago:">
+<!ENTITY linkColor.accesskey "D">
+<!ENTITY visitedLinkColor.label "Dilomaganyo tšeo di etetšwego:">
+<!ENTITY visitedLinkColor.accesskey "e">

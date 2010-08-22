@@ -19,6 +19,8 @@
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,86 +37,88 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY preface "Tshedimošo go: ">
-
-<!ENTITY title "Letlakala la Tshedimošo">
-<!ENTITY description "Tshedimošo mabapi le letlakala la bjale">
-<!ENTITY pageInfoWindow.width "425">
-<!ENTITY pageInfoWindow.height "470">
+<!ENTITY pageInfoWindow.width "600">
+<!ENTITY pageInfoWindow.height "500">
 
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Kopiša">
 <!ENTITY copy.accesskey "K">
 <!ENTITY selectall.key "A">
-<!ENTITY selectall.label "Kgetha ka Moka">
-<!ENTITY selectall.accesskey "K">
+<!ENTITY selectall.label "Kgetha tšohle">
+<!ENTITY selectall.accesskey "a">
 <!ENTITY closeWindow.key "w">
 
 <!ENTITY generalTab "Kakaretšo">
-<!ENTITY generalAccesskey "G">
-<!ENTITY generalTitle "Thaetlele:">
+<!ENTITY generalTab.accesskey "G">
 <!ENTITY generalURL "Aterese:">
-<!ENTITY generalMode "Abela Moute:">
 <!ENTITY generalType "Mohuta:">
-<!ENTITY generalSize "Saese:">
+<!ENTITY generalMode "Mokgwa wa go gafela:">
+<!ENTITY generalSize "Bogolo:">
 <!ENTITY generalReferrer "Go lebiša URL:">
-<!ENTITY generalSource "Mothopo wa Mokgobo:">
-<!ENTITY generalSent "Rometše:">
+<!ENTITY generalSource "Mothopo wa polokelo-tsebišo:">
 <!ENTITY generalModified "Fetotšwe:">
-<!ENTITY generalExpires "Felelwa ke nako:">
-<!ENTITY generalEncoding "Go fetoša:">
-<!ENTITY generalMeta "Meta:">
+<!ENTITY generalEncoding "Go tsenya khoutu:">
 <!ENTITY generalMetaName "Leina">
 <!ENTITY generalMetaContent "Diteng">
-
-<!ENTITY formsTab "Dibopego">
-<!ENTITY formsAccesskey "F">
-<!ENTITY formAction "Bopa Tiro">
-<!ENTITY formMethod "Mokgwa">
-<!ENTITY formName "Leina">
-<!ENTITY formNo "Nomoro">
-<!ENTITY formEncoding "Go fetoša:">
-<!ENTITY formTarget "Tebanyo:">
-<!ENTITY formFields "Mafelo:">
-<!ENTITY formLabel "Leibole">
-<!ENTITY formFName "Leina la Lefelo">
-<!ENTITY formType "Mohuta">
-<!ENTITY formCValue "Boleng bja Bjale">
-
-<!ENTITY linksTab "Ditlemaganyo">
-<!ENTITY linksAccesskey "L">
-<!ENTITY linkNo "Nomoro">
-<!ENTITY linkName "Leina">
-<!ENTITY linkAddress "Aterese">
-<!ENTITY linkType "Mohuta">
-<!ENTITY linkTarget "Tebanyo">
-<!ENTITY linkAccessKey "Senotlelo sa Phihlelelo">
+<!ENTITY generalSecurityDetails "Dintlha">
+<!ENTITY generalSecurityDetails.accesskey "D">
 
 <!ENTITY mediaTab "Kgašoditaba">
-<!ENTITY mediaAccesskey "M">
-<!ENTITY mediaHeader "Diswantšho mo letlakaleng le">
-<!ENTITY mediaURL "Aterese:">
-<!ENTITY mediaBase "Aterese ya Motheo:">
-<!ENTITY mediaAlt "Fetola Sengwalwa:">
-<!ENTITY mediaAltHeader "Fetola Sengwalwa">
-<!ENTITY mediaNo "Nomoro">
-<!ENTITY mediaName "Leina">
+<!ENTITY mediaTab.accesskey "M">
+<!ENTITY mediaLocation "Lefelo:">
+<!ENTITY mediaText "Sengwalwa se tswalanago:">
+<!ENTITY mediaAltHeader "Sengwalwa se sengwe">
 <!ENTITY mediaAddress "Aterese">
 <!ENTITY mediaType "Mohuta">
+<!ENTITY mediaSize "Bogolo:">
 <!ENTITY mediaCount "Bala">
-<!ENTITY mediaPlugin "Hlomela:">
-<!ENTITY mediaCharset "Go fetoša:">
-<!ENTITY mediaDimensions "Bogolo bjo laeditšwego:">
-<!ENTITY mediaPhysDimensions "Bogolo bja Nnete:">
-<!ENTITY mediaEncryption "Enkripšene:">
-<!ENTITY mediaTitle "Thaetlele:">
-<!ENTITY mediaLongdesc "Tlhathollo e Telele:">
-<!ENTITY mediaSaveAs "Boloka Ka...">
-<!ENTITY mediaSaveAs.accesskey "S">
-<!ENTITY mediaPreview "Tebelelo pele ya Kgašoditaba:">
+<!ENTITY mediaDimension "Ditekanyo:">
+<!ENTITY mediaLongdesc "Tlhaloso e telele:">
+<!ENTITY mediaBlockImage.accesskey "B">
+<!ENTITY mediaSaveAs "Boloka e le…">
+<!ENTITY mediaSaveAs.accesskey "A">
+<!ENTITY mediaSaveAs2.accesskey "e">
+<!ENTITY mediaPreview "Tebelelo pele ya kgašoditaba:">
 
-<!ENTITY framesTab "Diforeimi">
-<!ENTITY framesTab.accesskey "r">
-<!ENTITY frameName "Leina">
-<!ENTITY frameAddress "Aterese">
-<!ENTITY frameType "Mohuta">
+<!ENTITY feedTab "Diphepo">
+<!ENTITY feedTab.accesskey "F">
+<!ENTITY feedSubscribe "Ingwadiše">
+<!ENTITY feedSubscribe.accesskey "u">
+
+<!ENTITY permTab "Ditumelelo">
+<!ENTITY permTab.accesskey "P">
+<!ENTITY permUseDefault "Diriša tirelwa">
+<!ENTITY permAskAlways "Botšiša ka mehla">
+<!ENTITY permAllow "Dumelela">
+<!ENTITY permAllowSession "Dumelela bakeng sa nako">
+<!ENTITY permBlock "Thibela">
+<!ENTITY permissionsFor "Ditumelelo tša:">
+<!ENTITY permImage "Hlahlela diswantšho">
+<!ENTITY permPopup "Bula mafasetere a runyago">
+<!ENTITY permCookie "Beakanya dikhukhi">
+<!ENTITY permInstall "Lokela dikoketšo goba dihlogo">
+<!ENTITY permGeo "Abelana lefelo">
+
+<!ENTITY securityTab "Tšhireletšo">
+<!ENTITY securityTab.accesskey "S">
+<!ENTITY securityHeader "Tšhireletšego ya tshedimošo ya letlakala le">
+<!ENTITY securityView.certView "Lebelela setifikeiti">
+<!ENTITY securityView.accesskey "V">
+<!ENTITY securityView.unknown "Sa tsebjego">
+
+
+<!ENTITY securityView.identity.header "Boitsebišo bja wepesaete">
+<!ENTITY securityView.identity.owner "Mong:">
+<!ENTITY securityView.identity.domain "Wepesaete: ">
+<!ENTITY securityView.identity.verifier "Kgonthišeditšwe ke:">
+
+<!ENTITY securityView.privacy.header "Bosephiri le histori">
+<!ENTITY securityView.privacy.history "Have I visited this web site prior to today?">
+<!ENTITY securityView.privacy.cookies "Na wepesaete ye e boloka tshedimošo (dikhukhi) khomphutheng ya ka?">
+<!ENTITY securityView.privacy.viewCookies "Lebelela dikhukhi">
+<!ENTITY securityView.privacy.viewCookies.accessKey "k">
+<!ENTITY securityView.privacy.passwords "Na ke bolokile mantšuphetišo afe goba afe a wepesaete ye?">
+<!ENTITY securityView.privacy.viewPasswords "Lebelela mantšuphetišo ao a bolokilwego">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "w">
+
+<!ENTITY securityView.technical.header "Dintlha tše raraganego">

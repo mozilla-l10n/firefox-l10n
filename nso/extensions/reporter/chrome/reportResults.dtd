@@ -1,14 +1,15 @@
 <!ENTITY reportSite "Saete">
-<!ENTITY reportProblemType "Mohuta wa Bothata">
+<!ENTITY reportProblemType "Mohuta wa bothata">
 <!ENTITY reportDecsription "Tlhaloso">
 <!ENTITY reportPlatform "Polatefomo">
 <!ENTITY reportProduct "Setšweletšwa">
 <!ENTITY reportoscpu "OS">
 <!ENTITY reportGecko "Gecko">
-<!ENTITY reportBuildConfig "Aga Peakanyo">
-<!ENTITY reportUseragent "Modiredi-tirišo">
-<!ENTITY reportLanguage "Polelo">
-<!ENTITY reportEmail "Eposo">
-<!ENTITY error "Tshedimošo ya Phošo">
-<!ENTITY faultCode "Khoute">
+<!ENTITY reportBuildConfig "Aga peakanyo">
+<!ENTITY reportUseragent "Moemedi-tirišo">
+<!ENTITY reportLanguage "Leleme">
+<!ENTITY reportCharset "Hlopha-tlhaka">
+<!ENTITY reportEmail "Imeile">
+<!ENTITY error "Dintlha tša phošo">
+<!ENTITY faultCode "Khoutu">
 <!ENTITY faultMessage "Molaetša">

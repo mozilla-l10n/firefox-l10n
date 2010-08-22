@@ -2,15 +2,15 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 <!-- entities split out from browser.dtd -->
 
-<!ENTITY next.label "Next">
-<!ENTITY next.accesskey "N">
-<!ENTITY next.tooltip "Hwetša tiragalo ya kgauswi ya sekafoko">
-<!ENTITY previous.label "Previous">
-<!ENTITY previous.accesskey "P">
-<!ENTITY previous.tooltip "Hwetša tiragalo ye e fetilego ya sekafoko">
-<!ENTITY findCloseButton.tooltip "Tswalela paa ya Hwetša">
-<!ENTITY highlight.label "Akaretša ka Moka">
-<!ENTITY highlight.accesskey "k">
-<!ENTITY highlight.tooltiptext "Highlight all occurrences of the phrase">
-<!ENTITY caseSensitiveCheckbox.label "Nyalelanya mongwalo">
-<!ENTITY caseSensitiveCheckbox.accesskey "n">
+<!ENTITY next.label "Latelago">
+<!ENTITY next.accesskey "L">
+<!ENTITY next.tooltip "Hwetša tiragalo e latelago ya sekafoko">
+<!ENTITY previous.label "Fetilego">
+<!ENTITY previous.accesskey "F">
+<!ENTITY previous.tooltip "Hwetša tiragalo e fetilego ya sekafoko">
+<!ENTITY findCloseButton.tooltip "Tswalela hwetša para">
+<!ENTITY highlight.label "Bonagatša tšohle">
+<!ENTITY highlight.accesskey "t">
+<!ENTITY highlight.tooltiptext "Bonagatša ditiragalo tšohle tša sekafoko">
+<!ENTITY caseSensitiveCheckbox.label "Swantšha mongwalo">
+<!ENTITY caseSensitiveCheckbox.accesskey "h">

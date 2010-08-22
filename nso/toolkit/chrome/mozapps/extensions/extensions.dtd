@@ -1,116 +1,131 @@
-<!ENTITY addons.title "Add-ons">
-<!-- Default window size for the addon manager in pixels -->
+<!ENTITY addons.windowTitle "Add-ons Manager">
+<!ENTITY search.placeholder "Search all add-ons">
+<!ENTITY loading.label "Loading…">
+<!ENTITY listEmpty.installed.label "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.availableUpdates.label "No updates found">
+<!ENTITY listEmpty.recentUpdates.label "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.findUpdates.label "Check For Updates">
+<!ENTITY listEmpty.search.label "Could not find any matching add-ons">
+<!ENTITY listEmpty.button.label "Learn more about add-ons">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 
-<!ENTITY em.width "520">
-<!ENTITY em.height "380">
 
-<!ENTITY cmd.info.commandKey "i">
-<!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
-<!-- View labels -->
+<!ENTITY view.search.label "Nyaka">
+<!ENTITY view.discover.label "Hwetša ditlaleletši">
+<!ENTITY view.locales.label "Maleme">
+<!ENTITY view.searchengines.label "Search Engines">
+<!ENTITY view.features.label "Dikoketšo">
+<!ENTITY view.appearance.label "Dihlogo">
+<!ENTITY view.plugins.label "Ditsebišo-koketšo">
+<!ENTITY view.recentUpdates.label "Recent Updates">
+<!ENTITY view.availableUpdates.label "Available Updates">
+<!-- addon updates -->
 
-<!ENTITY extensions.label "Dikatološo">
-<!ENTITY themes.label "Themes">
-<!ENTITY locales.label "Languages">
-<!ENTITY plugins.label "Plugins">
-<!ENTITY update.label "Updates">
-<!ENTITY install.label "Installation">
-<!-- Command Bar items -->
+<!ENTITY updates.updateAddonsNow.label "Update Add-ons Now">
+<!ENTITY updates.updateAddonsNow.accesskey "U">
+<!ENTITY updates.viewUpdates.label "View Recent Updates">
+<!ENTITY updates.viewUpdates.accesskey "V">
+<!ENTITY updates.backgroudUpdateCheck.label "Check for Updates Automatically">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
+<!ENTITY updates.updating.label "Updating add-ons">
+<!ENTITY updates.installed.label "Your add-ons have been updated.">
+<!ENTITY updates.downloaded.label "Your add-on updates have been downloaded.">
+<!ENTITY updates.restart.label "Restart now to complete installation">
+<!ENTITY updates.noneFound.label "No updates found">
+<!ENTITY updates.manualUpdatesFound.label "View Available Updates">
+<!-- addon actions -->
 
-<!ENTITY cmd.checkUpdatesAll.label "Find Updates">
-<!ENTITY cmd.checkUpdatesAll.accesskey "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Finds Updates to your Add-ons">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Finds Updates to your Themes">
-<!ENTITY cmd.installLocalFile.label "Install...">
-<!ENTITY cmd.installFile.accesskey "I">
-<!ENTITY cmd.installFileAddon.tooltip "Install an Add-on">
-<!ENTITY cmd.installFileTheme.tooltip "Install a Theme">
-<!ENTITY cmd.installUpdatesAll.label "Install Updates">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "Installs the selected updates">
-<!ENTITY cmd.restartApp.label "Restart &brandShortName;">
-<!ENTITY cmd.restartApp.accesskey "R">
-<!ENTITY cmd.restartApp.tooltip "Restarts &brandShortName; to finish the installation">
-<!ENTITY cmd.skip.label "Skip">
-<!ENTITY cmd.skip.accesskey "S">
-<!ENTITY cmd.skip.tooltip "Skip these updates">
-<!ENTITY cmd.continue.label "Continue">
-<!ENTITY cmd.continue.accesskey "C">
-<!ENTITY cmd.continue.tooltip "Continue loading &brandShortName;">
-
-<!ENTITY cmd.enableAll.label "Enable All">
-<!ENTITY cmd.enableAll.accesskey "a">
-<!ENTITY cmd.enableAll.tooltip "Enable all displayed Add-ons">
-<!ENTITY cmd.disableAll.label "Disable All">
-<!ENTITY cmd.disableAll.accesskey "s">
-<!ENTITY cmd.disableAll.tooltip "Disable all displayed Add-ons">
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-
-<!ENTITY cmd.useTheme.label "Šomiša Hlogo">
-<!ENTITY cmd.useTheme.accesskey "H">
-<!ENTITY cmd.useTheme.tooltip "Fetola Hlogo ya &brandShortName;">
-<!ENTITY cmd.options.label "Dikgetho">
-<!ENTITY cmd.options.accesskey "D">
-<!ENTITY cmd.options.tooltip "Beakanya Dikgetho tša Dikatološo tše kgethilwego">
-<!ENTITY cmd.optionsUnix.label "Dikgetho">
-<!ENTITY cmd.optionsUnix.accesskey "i">
-<!ENTITY cmd.optionsUnix.tooltip "Rulaganya Dikgetho tša Dikatološo tše o di kgethilwego">
-<!ENTITY cmd.enable.label "Kgonagatša">
-<!ENTITY cmd.enable.accesskey "K">
-<!ENTITY cmd.enable.tooltip "Enable this Add-on when &brandShortName; is restarted">
-<!ENTITY cmd.disable.label "Šitiša">
-<!ENTITY cmd.disable.accesskey "Š">
-<!ENTITY cmd.disable.tooltip "Disable this Add-on when &brandShortName; is restarted">
-<!ENTITY cmd.uninstall.label "Uninstall">
-<!ENTITY cmd.uninstall2.accesskey "U">
-<!ENTITY cmd.uninstall2.tooltip "Uninstall this Add-on when &brandShortName; is restarted">
-<!ENTITY cmd.cancelUninstall.label "Cancel Uninstall">
-<!ENTITY cmd.cancelUninstall.accesskey "C">
-<!ENTITY cmd.cancelUninstall.tooltip "Cancel the uninstall of this Add-on">
-<!ENTITY cmd.installUpdate.label "Install Update">
-<!ENTITY cmd.installUpdate.accesskey "I">
-<!ENTITY cmd.installUpdate.tooltip "Install an update for this Add-on">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "Cancel">
-<!ENTITY cancel.accesskey "C">
-<!-- Only displayed in the selected Add-on's context menu -->
-
-<!ENTITY cmd.homepage.label "Etela Letlakala la Mathomo">
-<!ENTITY cmd.homepage.accesskey "L">
-<!ENTITY cmd.about2.label "About this Add-on">
+<!ENTITY cmd.showDetails.label "Show more information">
+<!ENTITY cmd.showDetails.accesskey "S">
+<!ENTITY cmd.findUpdates.label "Find updates">
+<!ENTITY cmd.findUpdates.accesskey "F">
+<!ENTITY cmd.preferences.label "Preferences">
+<!ENTITY cmd.preferences.accesskey "P">
+<!ENTITY cmd.about.label "About">
 <!ENTITY cmd.about.accesskey "A">
-<!ENTITY cmd.checkUpdate.label "Find Update">
-<!ENTITY cmd.checkUpdate.accesskey "F">
 
-<!ENTITY cmd.includeUpdate.label "Include Update">
-<!ENTITY cmd.includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.label "Include this update">
-<!ENTITY includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.tooltip "Include this Add-on when installing the updates">
-<!-- Status Messsages -->
+<!ENTITY cmd.enableAddon.label "Kgonagatša">
+<!ENTITY cmd.enableAddon.accesskey "K">
+<!ENTITY cmd.disableAddon.label "Šitiša">
+<!ENTITY cmd.disableAddon.accesskey "t">
+<!ENTITY cmd.uninstallAddon.label "Remove">
+<!ENTITY cmd.uninstallAddon.accesskey "R">
+<!ENTITY cmd.showPreferences.label "Preferences">
+<!ENTITY cmd.showPreferences.tooltip "Change this add-on's preferences">
+<!ENTITY cmd.contribute.label "Contribute">
+<!ENTITY cmd.contribute.accesskey "C">
+<!ENTITY cmd.contribute.tooltip "Contribute to the development of this add-on">
 
-<!ENTITY needsDependencies.label "Requires additional items.">
-<!ENTITY blocklisted.label "Disabled for your protection.">
-<!ENTITY toBeDisabled.label "This add-on will be disabled when &brandShortName; is restarted.">
-<!ENTITY toBeEnabled.label "This add-on will be enabled when &brandShortName; is restarted.">
-<!ENTITY toBeInstalled.label "This add-on will be installed when &brandShortName; is restarted.">
-<!ENTITY toBeUninstalled.label "This add-on will be uninstalled when &brandShortName; is restarted.">
-<!ENTITY toBeUpgraded.label "This add-on will be upgraded when &brandShortName; is restarted.">
+<!ENTITY cmd.showReleaseNotes.label "Show Release Notes">
+<!ENTITY cmd.showReleaseNotes.tooltip "Show the release notes for this update">
+<!ENTITY cmd.hideReleaseNotes.label "Hide Release Notes">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Hide the release notes for this update">
+<!-- detail view -->
 
-<!ENTITY getExtensions.label "Get Extensions">
-<!ENTITY getExtensions.tooltip "Get Extensions from addons.mozilla.org">
-<!ENTITY getThemes.label "Get Themes">
-<!ENTITY getThemes.tooltip "Get Themes from addons.mozilla.org">
-<!ENTITY previewNoThemeSelected.label "Ga go Hlogo yeo e Kgethilwego">
-<!ENTITY previewNoPreviewImage.label "Hlogo ye ga e na Seswantšho sa Tebelelo pele">
-<!ENTITY moreInfo.label "More Information">
-<!ENTITY closeMessage.tooltip "Close this message">
+<!ENTITY detail.version.label "Version">
+<!ENTITY detail.updated.label "Updated">
+<!ENTITY detail.creator.label "Developer">
+<!ENTITY detail.homepage.label "Homepage">
+<!ENTITY detail.numberOfDownloads.label "Downloads">
 
-<!ENTITY updateSuccess.label "Update completed successfully.">
-<!ENTITY installSuccess.label "Install completed successfully.">
-<!ENTITY installSuccessRestart.label "Restart to complete the installation.">
-<!ENTITY installWaiting.label "Waiting...">
-<!ENTITY installIncompatibleUpdate.label "Checking compatibility...">
-<!ENTITY installFinishing.label "Installing...">
-<!ENTITY installFailure.label "Install failed.">
+<!ENTITY detail.updateAutomatically.label "Update automatically">
+<!ENTITY detail.updateAutomatically.accesskey "U">
+<!ENTITY detail.updateAutomatically.tooltip "Update this add-on automatically whenever there is an update available">
+<!ENTITY detail.checkForUpdates.label "Check for updates">
+<!ENTITY detail.checkForUpdates.accesskey "F">
+<!ENTITY detail.checkForUpdates.tooltip "Check for updates for this add-on">
+<!ENTITY detail.showPreferences.label "Preferences">
+<!ENTITY detail.showPreferences.accesskey "P">
+<!ENTITY detail.showPreferences.tooltip "Change this add-on's preferences">
+<!-- ratings -->
 
+
+<!ENTITY rating.label "Rating:">
+<!-- download/install progress -->
+
+<!ENTITY progress.pause.tooltip "Khutša">
+<!ENTITY progress.cancel.tooltip "Khansela">
+<!-- list sorting -->
+
+
+<!ENTITY sort.name.label "Leina">
+<!ENTITY sort.name.tooltip "Sort by name">
+<!ENTITY sort.size.label "Bogolo">
+<!ENTITY sort.size.tooltip "Sort by size">
+<!ENTITY sort.dateUpdated.label "Last Updated">
+<!ENTITY sort.dateUpdated.tooltip "Sort by date updated">
+<!ENTITY sort.rating.label "Rating">
+<!ENTITY sort.rating.tooltip "Sort by average rating">
+
+
+<!ENTITY showMore.label "Show more">
+<!ENTITY showMore.tooltip "Show more details">
+<!ENTITY showLess.label "Show less">
+<!ENTITY showLess.tooltip "Show fewer details">
+
+<!ENTITY search.filter.label "Laetša:">
+<!ENTITY search.filter.installed.label "Your installed add-ons">
+<!ENTITY search.filter.available.label "Available add-ons">
+
+<!ENTITY addon.homepage "Homepage">
+<!ENTITY addon.unknownDate "Unknown">
+<!ENTITY addon.disabled.postfix "(disabled)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix "Update">
+<!ENTITY addon.undo.label "Undo?">
+<!ENTITY addon.undo.tooltip "Undo this action">
+<!ENTITY addon.undoUninstall.label "Undo?">
+<!ENTITY addon.undoUninstall.tooltip "Keep this add-on installed">
+<!ENTITY addon.restartNow.label "Restart now">
+<!ENTITY addon.restartNow.tooltip "Restart now to complete installation">
+<!ENTITY addon.install.label "Install">
+<!ENTITY addon.install.tooltip "Install this add-on">
+<!ENTITY addon.updateNow.label "Update Now">
+<!ENTITY addon.updateNow.tooltip "Install the update for this add-on">
+<!ENTITY addon.checkingForUpdates.label "Checking for updates…">
+<!ENTITY addon.releaseNotes.label "Release Notes:">
+<!ENTITY addon.loadingReleaseNotes.label "Loading…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+
+<!ENTITY addon.createdBy.label "By ">

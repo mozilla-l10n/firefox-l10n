@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label "Beakanya go Fetošwa ga Tlhaka">
-<!ENTITY current.label "Diphetošo tša Tlhaka ye e Šomago:">
-<!ENTITY remove.label "Remove">
-<!ENTITY remove.accessKey "R">
-<!ENTITY additional.label "Diphetošo tša Tlhaka tše di lego gona:">
-<!ENTITY add.label "Add">
-<!ENTITY add.accessKey "A">
-<!ENTITY moveUp.label "Move Up">
-<!ENTITY moveUp.accessKey "U">
-<!ENTITY moveDown.label "Move Down">
-<!ENTITY moveDown.accessKey "D">
+<!ENTITY title.label "Tlwaelanya go tsenywa khoutu ga ditlhaka">
+<!ENTITY current.label "Go tsenywa dikhoutu ga ditlhaka mo go šomago:">
+<!ENTITY remove.label "Tloša">
+<!ENTITY remove.accessKey "T">
+<!ENTITY additional.label "Go tsenywa khoutu ga ditlhaka mo go lego gona:">
+<!ENTITY add.label "Oketša">
+<!ENTITY add.accessKey "a">
+<!ENTITY moveUp.label "Šuthišetša godimo">
+<!ENTITY moveUp.accessKey "o">
+<!ENTITY moveDown.label "Šuthišetša tlase">
+<!ENTITY moveDown.accessKey "s">
