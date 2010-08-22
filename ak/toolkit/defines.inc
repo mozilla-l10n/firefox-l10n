@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Akan (GH)
+#define MOZ_LANG_TITLE Akan
