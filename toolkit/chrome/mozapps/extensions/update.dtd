@@ -59,6 +59,4 @@
 <!ENTITY clickFinish.label "Klepněte na Hotovo pro start aplikace &brandShortName;.">
 <!ENTITY clickFinish.labelMac "Klepněte na Hotovo pro start aplikace &brandShortName;.">
 <!ENTITY enableChecking.label "Povolit aplikaci &brandShortName; kontrolovat dostupnost aktualizací.">
-<!ENTITY details.label "Detaily…">
-<!ENTITY details.accesskey "D">
  
