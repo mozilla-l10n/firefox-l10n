@@ -1,0 +1,164 @@
+<!ENTITY addons.title "Askouezhioù">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+
+<!-- View labels -->
+<!ENTITY search.label "Kaout askouezhioù">
+<!ENTITY extensions.label "Askouezhioù">
+<!ENTITY themes.label "Neuzioù">
+<!ENTITY locales.label "Yezhoù">
+<!ENTITY plugins.label "Enlugelladoù">
+<!ENTITY update.label "Hizivadurioù">
+<!ENTITY install.label "Staliañ">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label "Klask hizivadurioù">
+<!ENTITY cmd.checkUpdatesAll.accesskey "l">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Kavout hizivadurioù eus hoc'h askouezhioù">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Kavout hizivadurioù eus ho neuzioù">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Kavout hizivadurioù eus hoc'h enlugelladoù">
+<!ENTITY cmd.installLocalFile.label "Staliañ…">
+<!ENTITY cmd.installLocalFile.accesskey "t">
+<!ENTITY cmd.installFileAddon.tooltip "Staliañ un askouezh">
+<!ENTITY cmd.installFileTheme.tooltip "Staliañ un neuz">
+<!ENTITY cmd.installUpdatesAll2.label "Staliañ Hizivadurioù">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Staliañ an hivizadurioù diuzet">
+<!ENTITY cmd.restartApp2.label "Adloc'hañ &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey "R">
+<!ENTITY cmd.restartApp2.tooltip "Adloc'hañ &brandShortName; evit arloañ ar c'hemmoù">
+<!ENTITY cmd.skip.label "Leuskel a-gostez">
+<!ENTITY cmd.skip.accesskey "S">
+<!ENTITY cmd.skip.tooltip "Leuskel a-gostez an hizivadurioù-mañ">
+<!ENTITY cmd.continue.label "Kenderc'hel">
+<!ENTITY cmd.continue.accesskey "K">
+<!ENTITY cmd.continue.tooltip "Kenderc'hel gant kargañ &brandShortName;">
+<!ENTITY cmd.enableAll.label "Gweredekaat an holl">
+<!ENTITY cmd.enableAll.accesskey "a">
+<!ENTITY cmd.enableAll.tooltip "Aotren an holl askouezhioù skrammet">
+<!ENTITY cmd.disableAll.label "Dizaotren an holl">
+<!ENTITY cmd.disableAll.accesskey "z">
+<!ENTITY cmd.disableAll.tooltip "Diweredekaat an holl askouezhioù skrammet">
+<!ENTITY cmd.useTheme.label "Arverañ an neuz">
+<!ENTITY cmd.useTheme.accesskey "U">
+<!ENTITY cmd.useTheme.tooltip "Kemmañ neuz &brandShortName;">
+<!ENTITY cmd.options.label "Dibarzhioù">
+<!ENTITY cmd.options.accesskey "O">
+<!ENTITY cmd.options.tooltip "Kempenn an dibarzhioù evit an askouezh bet diuzet">
+<!ENTITY cmd.optionsUnix.label "Gwellvezioù">
+<!ENTITY cmd.optionsUnix.accesskey "w">
+<!ENTITY cmd.optionsUnix.tooltip "Embann ar gwellvezioù evit an askouezh diuzet">
+<!ENTITY cmd.enable.label "Gweredekaat">
+<!ENTITY cmd.enable.accesskey "E">
+<!ENTITY cmd.enable.tooltip "Gweredekaat an askouezh-mañ pa vo adloc'het &brandShortName;">
+<!ENTITY cmd.disable.label "Diweredekaat">
+<!ENTITY cmd.disable.accesskey "D">
+<!ENTITY cmd.disable.tooltip "Dizaotren an enlugellad-mañ pa vez adloc'het &brandShortName;">
+<!ENTITY cmd.uninstall.label "Distaliañ">
+<!ENTITY cmd.uninstall2.accesskey "D">
+<!ENTITY cmd.uninstall2.tooltip "Distaliañ an askouezh-mañ pa vez adloc'het &brandShortName;.">
+<!ENTITY cmd.cancelUninstall.label "Nullañ an distaliañ">
+<!ENTITY cmd.cancelUninstall.accesskey "n">
+<!ENTITY cmd.cancelUninstall.tooltip "Nullañ distaliañ an askouezh-mañ">
+<!ENTITY cmd.cancelInstall.label "Nullañ ar staliañ">
+<!ENTITY cmd.cancelInstall.accesskey "l">
+<!ENTITY cmd.cancelInstall.tooltip "Nullañ hizivaat an askouezh-mañ">
+<!ENTITY cmd.cancelUpgrade.label "Dilezel an hizivaat">
+<!ENTITY cmd.cancelUpgrade.accesskey "l">
+<!ENTITY cmd.cancelUpgrade.tooltip "Nullañ hizivadur an askouezh-mañ">
+<!ENTITY cmd.installUpdate.label "Staliañ un hizivadur">
+<!ENTITY cmd.installUpdate.accesskey "I">
+<!ENTITY cmd.installUpdate.tooltip "Staliañ un hizivadur evit an askouezh-mañ">
+<!ENTITY cmd.showUpdateInfo.label "Diskouez stlennoù">
+<!ENTITY cmd.showUpdateInfo.accesskey "S">
+<!ENTITY cmd.showUpdateInfo.tooltip "Diskouez titouroù all a-zivout an hizivadurioù-mañ">
+<!ENTITY cmd.hideUpdateInfo.label "Kuzhat an titouroù">
+<!ENTITY cmd.hideUpdateInfo.accesskey "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip "Kuzhat an titouroù a-zivout an hizivadurioù-mañ">
+<!ENTITY cmd.installSearchResult.label "Ouzhpennañ da &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip "Pellgargañ ha staliañ an askouezh-mañ">
+<!ENTITY cancel.label "Nullañ">
+<!ENTITY cancel.accesskey "N">
+<!ENTITY cancelInstall.label "Dilezel">
+<!ENTITY cancelInstall.accesskey "z">
+<!ENTITY cancelUpgrade.label "Nullañ">
+<!ENTITY cancelUpgrade.accesskey "l">
+<!ENTITY cmd.homepage.label "Gweladenniñ ar bennbajenn">
+<!ENTITY cmd.homepage.accesskey "G">
+<!ENTITY cmd.about2.label "A-zivout an askouezh-mañ">
+<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.checkUpdate.label "Klask hizivadur">
+<!ENTITY cmd.checkUpdate.accesskey "k">
+<!ENTITY cmd.includeUpdate.label "Enlakaat an hizivaat ouzhpenn">
+<!ENTITY cmd.includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.label "Kemer an hizivadur-mañ">
+<!ENTITY includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.tooltip "Enlakaat an askouezh-mañ pa vez staliet an hizivadurioù">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label "Ne bourchas ket hizivadurioù diarvar.">
+<!ENTITY needsDependencies.label "Rekis eo elfennoù ouzhpenn.">
+<!ENTITY blocklisted.label "Diweredekaet evit ho tiogelroez">
+<!ENTITY softBlocklisted.label "Anavezet evel dañjerus pe distabil.">
+<!ENTITY outdated.label                   "Un handelv nevesoc'h ha diogeloc'h a zo hegerz.">
+<!ENTITY toBeDisabled.label "Diweredekaet e vo an askouezh-mañ pa vo adloc'het &brandShortName;.">
+<!ENTITY toBeEnabled.label "Gweredekaet e vo an askouezh-mañ pa vo adloc'het &brandShortName;">
+<!ENTITY toBeInstalled.label "Staliet e vo an askouezh-mañ pa vo adloc'het &brandShortName;.">
+<!ENTITY toBeUninstalled.label "Distaliet e vo an askouezh-mañ pa vo adloc'het &brandShortName;.">
+
+<!ENTITY toBeUpdated.label "Hizivaet e vo an askouezh-mañ pa vo adloc'het &brandShortName;.">
+<!ENTITY getExtensions.label "Kerc'hat askouezhioù">
+<!ENTITY getThemes.label "Kerc'hat neuzioù">
+<!ENTITY getPlugins.label "Kaout enlugelladoù">
+<!ENTITY searchAddons.label "Klask an holl askouezhioù">
+<!ENTITY browseAddons.label "Furchal e-touez an holl askouezhioù">
+<!ENTITY searchFailed.label "&brandShortName; n'hall ket degas askouezhioù">
+<!ENTITY recommendedHeader.label "Erbedet">
+<!ENTITY recommendedThrobber.label "O tegas an askouezhioù erbedet">
+<!ENTITY searchThrobber.label "O klask askouezhioù">
+<!ENTITY resetSearch.label "Skarzhañ an disoc'hoù">
+<!ENTITY noSearchResults.label "Staliet pe zigeverlec'h eo an holl zisoc'hoù endeo.">
+<!ENTITY noRecommendedResults.label "Staliet pe zigeverlec'h eo an holl erbedadennoù endeo.">
+<!ENTITY emptySearch.label "Askouezh ebet o klotañ ganti">
+<!ENTITY emptySearch.button "Mat eo">
+<!ENTITY cancelSearch.button "Dilezel">
+<!ENTITY searchFailed.button "Mat eo">
+<!ENTITY searchResultHomepage.value "Gouzout hiroc'h">
+<!ENTITY searchBox.label "Klask an holl askouezhioù">
+<!ENTITY recommendedResults.label "Gwelout an holl askouezhioù erbedet">
+<!ENTITY searchResultConnecting.label "O kennaskañ…">
+<!ENTITY searchResultInstalling.label "O staliañ…">
+<!ENTITY searchResultFailed.label "C'hwitadenn war ar staliañ">
+<!ENTITY searchResultInstalled.label "Staliañ peurechu">
+<!ENTITY addonTypeExtension.label "Askouezh">
+<!ENTITY addonTypeTheme.label "Neuz">
+<!ENTITY missingThumbnail.label "Alberz ebet">
+<!ENTITY previewNoThemeSelected.label "Neuz ebet bet dibabet">
+<!ENTITY previewNoPreviewImage.label "N'eus skeudenn alberz ebet gant an neuz-mañ">
+<!ENTITY moreInfo.label "Muioc'h a ditouroù">
+<!ENTITY infoNoAddonSelected.label "Hizivavur ebet bet diuzet">
+<!ENTITY infoNoUpdateInfo.label "N'eus titouroù ouzhpenn ebet gant an hizivadur-mañ">
+<!ENTITY infoUpdateInfoError.label "Degouezhet ez eus bet ur fazi e-pad ma oa o kargañ an titoudoù a-zivout an hizivadur-mañ">
+<!ENTITY updateSuccess.label "Hizivaat kaset da vat.">
+<!ENTITY installSuccess.label "Staliañ kaset da vat.">
+<!ENTITY installSuccessRestart.label "Adloc'hañ evit peurechuiñ ar staliañ.">
+<!ENTITY updateSuccessRestart.label "Adloc'hañ evit peurechuiñ an hizivaat.">
+<!ENTITY installWaiting.label "O c'hortoz…">
+<!ENTITY installIncompatibleUpdate.label "O wiriañ keverlec'hded…">
+<!ENTITY installFinishing.label "O staliañ…">
+<!ENTITY installFailure.label "C'hwitadenn war ar staliañ.">
+<!ENTITY progressStatus.label "O wiriañ mar befe hizivadurioù">
+<!ENTITY eula.title "Asant al lañvaz gant an arveriad diwezhel">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Asantiñ ha Staliañ…">
+<!ENTITY blocklist.blocked.label "Harzet">
+<!ENTITY blocklist.checkbox.label "Diweredekaat">
+

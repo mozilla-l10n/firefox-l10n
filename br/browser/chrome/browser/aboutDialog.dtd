@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title "A-zivout &brandFullName;">
+<!ENTITY copyright "Daveoù">
+<!ENTITY copyright.accesskey "a">
+<!ENTITY copyrightGNOME.accesskey "a">
+<!ENTITY aboutLink "&lt; A-zivout &brandFullName;">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "handelv">
+<!ENTITY closeCmdGNOME.label "Serriñ">
+<!ENTITY closeCmdGNOME.accesskey "S">
+<!ENTITY copyrightInfo1 "©1998-2009 Kenaozerien. Pep gwir miret strizh. (">
+<!ENTITY licenseLink "about:license">
+<!ENTITY licenseLinkText "Titouroù aotre">
+<!ENTITY copyrightInfo2 ").">

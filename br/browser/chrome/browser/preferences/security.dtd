@@ -1,0 +1,23 @@
+<!ENTITY warnAddonInstall.label "Kas keloù din pa glask al lec'hiennoù staliañ askouezhioù">
+<!ENTITY warnAddonInstall.accesskey "K">
+<!ENTITY blockAttackSites.label "Herzel al lec'hiennoù arouezet evel lec'hiennoù dagus">
+<!ENTITY blockAttackSites.accesskey "H">
+<!ENTITY blockWebForgeries.label     "Herzel al lec'hiennoù arouezet evel bezañ drevezet">
+<!ENTITY blockWebForgeries.accesskey "e">
+<!ENTITY addonExceptions.label "Nemedennoù">
+<!ENTITY addonExceptions.accesskey "N">
+<!ENTITY passwords.label "Gerioù-tremen">
+<!ENTITY rememberPasswords.label "Derc'hel soñj e gerioù-tremen evit al lec'hiennoù-se">
+<!ENTITY rememberPasswords.accesskey "D">
+<!ENTITY passwordExceptions.label "Nemedennoù…">
+<!ENTITY passwordExceptions.accesskey "m">
+<!ENTITY useMasterPassword.label "Arverañ ur ger-tremen mestr">
+<!ENTITY useMasterPassword.accesskey "A">
+<!ENTITY changeMasterPassword.label "Kemmañ ar ger-tremen mestr…">
+<!ENTITY changeMasterPassword.accesskey "K">
+<!ENTITY savedPasswords.label "Gerioù-tremen enrollet…">
+<!ENTITY savedPasswords.accesskey "G">
+<!ENTITY warnings.label "Kemennoù evezh">
+<!ENTITY chooseWarnings.label "Diuz pe c'hemennoù evezh a fell deoc'h gwelout pa vez merdeet war ar genrouedad">
+<!ENTITY warningSettings.label "Arventennoù…">
+<!ENTITY warningSettings.accesskey "A">

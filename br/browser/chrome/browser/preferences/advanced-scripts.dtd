@@ -1,0 +1,14 @@
+<!--null-->
+<!ENTITY advancedJSDialog.title "Arventennoù JavaScript kempleshoc'h">
+<!ENTITY window.width "37em">
+<!ENTITY allowScripts.label "Aotren skriptoù evit :">
+<!ENTITY moveResizeWindows.label "Dilec'hiañ pe gemmañ ment ar prenestri a zo anezho">
+<!ENTITY moveResizeWindows.accesskey "M">
+<!ENTITY raiseLowerWindows.label "Sevel pe ziskenn ar prenestroù">
+<!ENTITY raiseLowerWindows.accesskey "R">
+<!ENTITY disableContextMenus.label "Diweredekaat pe amsaviñ lañserioù kemperzhel">
+<!ENTITY disableContextMenus.accesskey "D">
+<!ENTITY hideStatusBar.label "Kuzhat ar varrenn stad">
+<!ENTITY hideStatusBar.accesskey "H">
+<!ENTITY changeStatusBar.label "Kemmañ testenn ar varrenn stad">
+<!ENTITY changeStatusBar.accesskey "t">

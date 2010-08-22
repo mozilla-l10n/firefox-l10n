@@ -1,0 +1,9 @@
+<!ENTITY blocklist.title "Askouezhioù a c'hell degas kudennoù">
+<!ENTITY blocklist.style "width: 45em; height: 30em">
+<!ENTITY blocklist.summary "Didemernet en deus &brandShortName; an azkouezhioù da-heul a c'hell degas kudennoù evit stabilded pe diogelroez:">
+<!ENTITY blocklist.softblocked "Evit ho kwarez, ez eo erbedet groñs deoc'h diweredekaat an azkouezhioù-mañ hag adloc'hañ.">
+<!ENTITY blocklist.hardblocked "Ur riskl bras zo gant an azkouezhioù-mañ degas kudennoù evit stabilded pe diogelroez ha harzet int bet, met ret eo adloc'hañ evit diweredekaat anezho da vat.">
+<!ENTITY blocklist.softandhard "Harzet eo bet an azkouezhioù o deus ur riskl bras degas kudennoù evit stabilded pe diogelroez. Dirisklusoc'h eo ar re all,met ez eo erbedet groñs deoc'h diweredekaat anezho hag adloc'hañ.">
+<!ENTITY blocklist.moreinfo "Muioc'h a ditouroù">
+<!ENTITY blocklist.accept.label "Adloc'hañ &brandShortName;">
+<!ENTITY blocklist.accept.accesskey "A">

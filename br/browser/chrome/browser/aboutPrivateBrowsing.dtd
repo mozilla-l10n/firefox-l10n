@@ -1,0 +1,14 @@
+<!ENTITY privatebrowsingpage.title "Merdeiñ prevez">
+<!ENTITY privatebrowsingpage.title.normal "Fellout a ra deoc'h kregiñ ur merdeiñ prevez?">
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; ne zalc'ho ket soñj ar roll istor evit an estez-mañ.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "Evit c'hoazh, &brandShortName; n'eo ket en ar mod Merdeiñ Prevez.">
+<!ENTITY privatebrowsingpage.description "En un estez Merdeiñ Prevez, &brandShortName; ne zalc'ho ket ar roll istor, ar c'hlaskoù, ar roll pellgargadur, ar furmskridoù, an toupinoù pe ar restroù kenrouedad padennek. Koulskoude, ar restroù pellgarget hag ar sinedoù a vo miret.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "Marteze fellout a ra deoc'h ivez ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "skarzhañ ho roll istor nevesañ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Kregiñ ar merdeiñ prevez">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "K">
+<!ENTITY privatebrowsingpage.howToStop "Evit paouezañ ar merdeiñ prevez, diuzit &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, pe serrit &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart "Evit kregiñ ar merdeiñ prevez, gallout a rit ivez diuzañ &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.moreInfo "Ha pa an urzhiataer-mañ ne zalc'h ket ar roll istor ho merdeiñ, ho pourvezer servijoù ar genrouedad (ISP) pe hoc'h implijer a c'hall gouzout c'hoazh ar pajennadoù hoc'h eus gweladennet.">
+<!ENTITY privatebrowsingpage.learnMore "Gouzout hiroc'h">

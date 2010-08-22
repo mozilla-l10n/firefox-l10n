@@ -1,0 +1,187 @@
+<!ENTITY places.library.title "Levraoueg">
+<!ENTITY places.library.width "700">
+<!ENTITY places.library.height "470">
+<!ENTITY organize.label "Aozañ">
+<!ENTITY organize.accesskey "O">
+<!ENTITY file.accesskey "F">
+<!ENTITY file.close.label "Serriñ">
+<!ENTITY file.close.accesskey "e">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "Embann">
+<!ENTITY edit.accesskey "E">
+<!ENTITY views.label "Gwelioù">
+<!ENTITY views.accesskey "w">
+<!ENTITY view.toolbar.label "Barrenn ostilhoù">
+<!ENTITY view.toolbar.accesskey "o">
+<!ENTITY view.columns.label "Diskouez ar bannoù">
+<!ENTITY view.columns.accesskey "s">
+<!ENTITY view.sort.label "Rummañ">
+<!ENTITY view.sort.accesskey "r">
+<!ENTITY view.unsorted.label "Dirummet">
+<!ENTITY view.unsorted.accesskey "U">
+<!ENTITY view.sortAscending.label "Urzh ar rummañ A > Z">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "Urzh ar rummañ Z > A">
+<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY help.usingBookmarks.label "Oc'h arverañ ar sinedoù">
+<!ENTITY help.usingBookmarks.accesskey "r">
+<!ENTITY help.usingHistory.label "Oc'h arverañ ar roll istor">
+<!ENTITY help.usingHistory.accesskey "i">
+<!ENTITY help.advancedTips.label "Tunioù &amp; korvigelloù kempleshoc'h">
+<!ENTITY help.advancedTips.accesskey "T">
+<!ENTITY cmd.findInBookmarks.label "Kavout er sinedoù…">
+<!ENTITY cmd.findInBookmarks.accesskey "v">
+<!ENTITY cmd.findCurrent.label "Kavout en dastumadeg vremanel…">
+<!ENTITY cmd.findCurrent.accesskey "k">
+<!ENTITY cmd.exportHTML.label "Ezporzhiañ HTML…">
+<!ENTITY cmd.exportHTML.accesskey "E">
+<!ENTITY cmd.importHTML.label "Enporzhiañ HTML…">
+<!ENTITY cmd.importHTML.accesskey "I">
+<!ENTITY cmd.backup.label "Gwarediñ…">
+<!ENTITY cmd.backup.accesskey "r">
+<!ENTITY cmd.restore2.label "Assav">
+<!ENTITY cmd.restore2.accesskey "s">
+<!ENTITY cmd.restoreFromFile.label "Dibab ur restr…">
+<!ENTITY cmd.restoreFromFile.accesskey "b">
+<!ENTITY cmd.select_all.label "Diuzañ an holl anezho">
+<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.key "a">
+<!ENTITY cmd.edit_cut.label "Troc'hañ">
+<!ENTITY cmd.edit_cut.accesskey "t">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "Eilañ">
+<!ENTITY cmd.edit_copy.accesskey "l">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "Pegañ">
+<!ENTITY cmd.edit_paste.accesskey "P">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "Dilemel">
+<!ENTITY cmd.edit_delete.accesskey "D">
+<!ENTITY cmd.edit_undo.label "Dizober">
+<!ENTITY cmd.edit_undo.accesskey "i">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "Adober">
+<!ENTITY cmd.edit_redo.accesskey "R">
+<!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.bookmarkLink.label         "Ouzhpennañ ar bajenn-mañ d'ar sinedoù…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
+<!ENTITY cmd.delete.label "Dilemel ar bajenn-mañ">
+<!ENTITY cmd.delete.accesskey "D">
+<!ENTITY cmd.deleteDomainData.label "Ankouaat al lec'hienn-mañ">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
+<!ENTITY cmd.open.label "Digeriñ">
+<!ENTITY cmd.open.accesskey "g">
+<!ENTITY cmd.open_window.label "Digeriñ e-barzh ur prenestr nevez">
+<!ENTITY cmd.open_window.accesskey "N">
+<!ENTITY cmd.open_tab.label "Digeriñ e-barzh un ivinell nevez">
+<!ENTITY cmd.open_tab.accesskey "g">
+<!ENTITY cmd.open_all_in_tabs.label "Digeriñ an holl anezho e ivinelloù">
+<!ENTITY cmd.open_all_in_tabs.accesskey "O">
+<!ENTITY cmd.properties.label "Perzhioù">
+<!ENTITY cmd.properties.accesskey "i">
+<!ENTITY cmd.show_info.key "i">
+<!ENTITY cmd.rename.label "Adenvel">
+<!ENTITY cmd.rename.accesskey "d">
+<!ENTITY cmd.sortby_name.label "Rummañ dre anv">
+<!ENTITY cmd.sortby_name.accesskey "m">
+<!ENTITY cmd.context_sortby_name.accesskey "r">
+<!ENTITY cmd.new_bookmark.label "Sined nevez…">
+<!ENTITY cmd.new_bookmark.accesskey "n">
+<!ENTITY cmd.new_livemark.label "Sined dialuskel nevez…">
+<!ENTITY cmd.new_livemark.accesskey "n">
+<!ENTITY cmd.new_folder.label "Teuliad nevez…">
+<!ENTITY cmd.new_folder.accesskey "u">
+<!ENTITY cmd.context_new_folder.accesskey "N">
+<!ENTITY cmd.new_separator.label "Disranner nevez">
+<!ENTITY cmd.new_separator.accesskey "S">
+<!ENTITY cmd.reloadLivebookmark.label "Adkargañ ar sined dialuskel">
+<!ENTITY cmd.reloadLivebookmark.accesskey "R">
+<!ENTITY cmd.reloadMicrosummary.label "Adkargañ an titl bev">
+<!ENTITY cmd.reloadMicrosummary.accesskey "R">
+<!ENTITY cmd.groupby_site.label "Strollañ dre lec'hienn">
+<!ENTITY cmd.groupby_site.accesskey "S">
+<!ENTITY cmd.groupby_page.label "Strollañ dre bajenn">
+<!ENTITY cmd.groupby_page.accesskey "t">
+<!ENTITY cmd.groupby_feed.label "Strollañ dre enrolladur">
+<!ENTITY cmd.groupby_feed.accesskey "S">
+<!ENTITY cmd.groupby_post.label "Strollañ dre stael">
+<!ENTITY cmd.groupby_post.accesskey "r">
+<!ENTITY cmd.moveBookmarks.label "Dilec'hiañ…">
+<!ENTITY cmd.moveBookmarks.accesskey "l">
+<!ENTITY col.name.label "Anv">
+<!ENTITY col.tags.label "Klavioù">
+<!ENTITY col.url.label "Lec'hiadur">
+<!ENTITY col.lastvisit.label "Deiziad ar weladenn">
+<!ENTITY col.visitcount.label "Kont ar gweladenniñ">
+<!ENTITY col.keyword.label "Gerioù alc'hwez">
+<!ENTITY col.description.label "Deskrivadur">
+<!ENTITY col.dateadded.label "Ouzhpennet">
+<!ENTITY col.lastmodified.label "An hini kemmet diwezhañ">
+<!ENTITY search.label "Klask :">
+<!ENTITY search.accesskey "S">
+<!ENTITY search.scopeFolder.label "Teuliad bet diuzet">
+<!ENTITY search.scopeFolder.accesskey "b">
+<!ENTITY search.scopeBookmarks.label "Sinedoù">
+<!ENTITY search.scopeBookmarks.accesskey "S">
+<!ENTITY search.scopeDownloads.label "Pellgargadurioù">
+<!ENTITY search.scopeDownloads.accesskey "D">
+<!ENTITY search.scopeHistory.label "Roll istor">
+<!ENTITY search.scopeHistory.accesskey "r">
+<!ENTITY search.scopeBarExpanderDown.tooltip "Diskouez ar ganner klask">
+<!ENTITY search.scopeBarExpanderUp.tooltip "Kuzhat ar ganner klask">
+<!ENTITY saveSearch.label "Enrollañ">
+<!ENTITY saveSearch.accesskey "n">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "Klask sinedoù nemetken">
+<!ENTITY advancedSearch.match.label "Klotadenn ">
+<!ENTITY advancedSearch.all.label "an holl anezho">
+<!ENTITY advancedSearch.any.label "ne vern">
+<!ENTITY advancedSearch.rules.label " eus ar reolennoù da heul :">
+<!ENTITY advancedSearch.subj_keyword.label "Gant an destenn enno">
+<!ENTITY advancedSearch.subj_visited.label "Gweladennet">
+<!ENTITY advancedSearch.subj_location.label "Lec'hiadur">
+<!ENTITY advancedSearch.location_startswith.label "a grog gant">
+<!ENTITY advancedSearch.location_is.label "zo">
+<!ENTITY advancedSearch.location_onsite.label "zo war al lec'hienn">
+<!ENTITY advancedSearch.time_is.label "deraouekaet">
+<!ENTITY advancedSearch.time_before.label "kent">
+<!ENTITY advancedSearch.time_after.label "goude">
+<!ENTITY advancedSearch.time_inlast.label "e korf an diwezhañ">
+<!ENTITY advancedSearch.last_days.label "a zeizioù">
+<!ENTITY advancedSearch.last_weeks.label "sizhun">
+<!ENTITY advancedSearch.last_months.label "a vizioù">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "Strollañ dre :">
+<!ENTITY advancedSearch.groupby_host.label "ostiz">
+<!ENTITY advancedSearch.groupby_domain.label "domani">
+<!ENTITY advancedSearch.groupby_folder.label "teuliad">
+<!ENTITY advancedSearch.sortby.label "Rummañ dre :">
+<!ENTITY advancedSearch.sortby_title.label "titl">
+<!ENTITY advancedSearch.sortby_date.label "deiziad">
+<!ENTITY advancedSearch.sortby_visit.label "kont ar gweladenniñ">
+<!ENTITY advancedSearch.sortby_url.label "url">
+<!ENTITY advancedSearch.sortby_asc.label "war gresk">
+<!ENTITY advancedSearch.sortby_desc.label "war zigresk">
+<!ENTITY advancedSearch.max.label "Disoc'hoù uc'hek :">
+<!ENTITY cmd.find.key "f">
+<!ENTITY feed.subscribe.label "Lanv">
+<!ENTITY feed.subscribe.tooltip "En em enrollañ">
+<!ENTITY view.detailsMacOSX.label "Roll">
+<!ENTITY view.details.label "Munudoù">
+<!ENTITY view.details.accesskey "D">
+<!ENTITY view.addons.label "Kaout gwel an askouezhioù">
+<!ENTITY maintenance.label "Enporzhiañ ha gwarediñ">
+<!ENTITY maintenance.accesskey "I">
+<!ENTITY backCmd.label "War-gil">
+<!ENTITY backButton.tooltip "Mont war-gil">
+<!ENTITY forwardCmd.label "War-raok">
+<!ENTITY forwardButton.tooltip "Mont war-raok">
+<!ENTITY detailsPane.more.label "Muioc'h a draoù">
+<!ENTITY detailsPane.more.accesskey "u">
+<!ENTITY detailsPane.less.label "Nebeutoc'h">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "Alberz">
+<!ENTITY detailsPane.selectAnItemText.description "Diuzañ an ergorenn evit gwelout he ferzhioù">

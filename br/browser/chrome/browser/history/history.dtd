@@ -1,0 +1,26 @@
+<!ENTITY find.label "Klask :">
+<!ENTITY find.accesskey "k">
+<!ENTITY expand.label "Astenn">
+<!ENTITY expand.accesskey "E">
+<!ENTITY collapse.label "Bihanaat">
+<!ENTITY collapse.accesskey "h">
+<!ENTITY byDate.label "Diouzh an deiziad">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Diouzh al lec'hienn">
+<!ENTITY bySite.accesskey "l">
+<!ENTITY view.label "Gwelout">
+<!ENTITY view.accesskey "w">
+<!ENTITY byMostVisited.label "Diouzh an hini gweladennetañ">
+<!ENTITY byMostVisited.accesskey "g">
+<!ENTITY byLastVisited.label "Diouzh an hini gweladennet diwezhatañ">
+<!ENTITY byLastVisited.accesskey "d">
+<!ENTITY byDayAndSite.label "Diouzh an deiziad hag al lec'hienn">
+<!ENTITY byDayAndSite.accesskey "d">
+<!ENTITY openLinkInWindow.label "Digeriñ">
+<!ENTITY openLinkInWindow.accesskey "d">
+<!ENTITY openInNewTab.label "Digeriñ e-barzh un ivinell nevez">
+<!ENTITY openInNewTab.accesskey "i">
+<!ENTITY openInNewWindow.label "Digeriñ e-barzh ur prenestr nevez">
+<!ENTITY openInNewWindow.accesskey "d">
+<!ENTITY copyLink.label "Eilañ lec'hiadur an ere">
+<!ENTITY copyLink.accesskey "l">

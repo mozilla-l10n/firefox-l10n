@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Lec'hienn">
+<!ENTITY reportProblemType "Rizh ar gudenn">
+<!ENTITY reportDecsription "Deskrivadenn">
+<!ENTITY reportPlatform "Savenn">
+<!ENTITY reportProduct "Aozad">
+<!ENTITY reportoscpu "RK">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Kefluniañ ar savadur">
+<!ENTITY reportUseragent "Gwezhour an arveriad">
+<!ENTITY reportLanguage "Yezh">
+<!ENTITY reportCharset "Spletad arouezennoù">
+<!ENTITY reportEmail "Postel">
+<!ENTITY error "Munudoù ar fazi">
+<!ENTITY faultCode "Boneg">
+<!ENTITY faultMessage "Kemennadenn">

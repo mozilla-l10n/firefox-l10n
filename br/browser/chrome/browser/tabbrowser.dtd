@@ -1,0 +1,21 @@
+<!ENTITY untitledTab "(Hep titl)">
+<!ENTITY newTab.label "Ivinell nevez">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY closeTab.label "Serriñ an ivinell">
+<!ENTITY closeTab.accesskey "r">
+<!ENTITY closeOtherTabs.accesskey "o">
+<!ENTITY closeOtherTabs.label "Serriñ an ivinelloù all">
+<!ENTITY reloadAllTabs.label "Adkargañ an holl ivinelloù">
+<!ENTITY reloadAllTabs.accesskey "A">
+<!ENTITY reloadTab.label "Adkargañ an ivinell">
+<!ENTITY reloadTab.accesskey "r">
+<!ENTITY openTabInNewWindow.label "Digeriñ e-barzh ur prenestr nevez">
+<!ENTITY openTabInNewWindow.accesskey "D">
+<!ENTITY listAllTabs.label "Roll an holl ivinelloù">
+<!ENTITY bookmarkAllTabs.label "Ouzhpennañ ur sined d'an holl ivinelloù…">
+<!ENTITY bookmarkAllTabs.accesskey "o">
+<!ENTITY bookmarkThisTab.label "Ouzhpennañ ur sined d'an ivinell-mañ">
+<!ENTITY bookmarkThisTab.accesskey "n">
+<!ENTITY undoCloseTab.label "Dizober Serriñ an ivinell">
+<!ENTITY undoCloseTab.accesskey "s">
+<!ENTITY newTabButton.tooltip "Digeriñ un ivinell nevez">

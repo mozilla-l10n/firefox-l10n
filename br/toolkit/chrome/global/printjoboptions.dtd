@@ -1,0 +1,30 @@
+<!ENTITY printJobOptions.title "Perzhioù ar voullerez">
+<!ENTITY paperInput.label "Ment ar baperenn :">
+<!ENTITY paperInput.accesskey "P">
+<!ENTITY plexInput.label "Mod pleks :">
+<!ENTITY plexInput.accesskey "m">
+<!ENTITY resolutionInput.label "Diarunusted/Perzhded :">
+<!ENTITY resolutionInput.accesskey "e">
+<!ENTITY cmdInput.label "Arc'had moullañ :">
+<!ENTITY cmdInput.accesskey "o">
+<!ENTITY jobTitleInput.label "Titl al labour :">
+<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY colorGroup.label "Liv :">
+<!ENTITY grayRadio.label "Liveoù louedoù">
+<!ENTITY grayRadio.accesskey "G">
+<!ENTITY colorRadio.label "Liv">
+<!ENTITY colorRadio.accesskey "C">
+<!ENTITY colorspaceInput.label "Livioù :">
+<!ENTITY colorspaceInput.accesskey "s">
+<!ENTITY fontsGroup.label "Nodrezhoù :">
+<!ENTITY downloadFonts.label "Pellgargañ nodrezhoù davet ar voullerez ?">
+<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY edgeMarginInput.label "Esaouenn eus riblenn ar baperenn betek ar marz">
+<!ENTITY topInput.label "Krec'h :">
+<!ENTITY topInput.accesskey "T">
+<!ENTITY bottomInput.label "Diaz :">
+<!ENTITY bottomInput.accesskey "B">
+<!ENTITY leftInput.label "Kleiz :">
+<!ENTITY leftInput.accesskey "L">
+<!ENTITY rightInput.label "Dehou :">
+<!ENTITY rightInput.accesskey "R">

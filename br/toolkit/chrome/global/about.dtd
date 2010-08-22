@@ -1,0 +1,14 @@
+<!ENTITY about.version "handelv">
+<!ENTITY about.copy.beforeLink "Copyright &copy; 1998-2008 by">
+<!ENTITY about.copy.linkTitle "perzhiaded">
+<!ENTITY about.copy.afterLink "evit ar Raktres Mozilla.">
+<!ENTITY about.license.beforeLink "Lenn an">
+<!ENTITY about.license.linkTitle "titouroù a-fet lañvaz">
+<!ENTITY about.license.afterLink "evit an aozad-mañ">
+<!ENTITY about.relnotes.beforeLink "Lenn an">
+<!ENTITY about.relnotes.linkTitle "notennoù an handelv">
+<!ENTITY about.relnotes.afterLink "evit an handelv-mañ.">
+<!ENTITY about.buildconfig.beforeLink "Gwelout an">
+<!ENTITY about.buildconfig.linkTitle "kefluniadur ar c'hempunañ">
+<!ENTITY about.buildconfig.afterLink "arveret evit an handelv-mañ">
+<!ENTITY about.buildIdentifier "Hennad ar c'hempunañ :">
