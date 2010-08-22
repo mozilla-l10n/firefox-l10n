@@ -1,0 +1,176 @@
+<!ENTITY addons.title "Nkaho">
+<!-- Default window size for the addon manager in pixels -->
+
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!-- View labels -->
+
+<!ENTITY search.label "Gye Nkaho">
+<!ENTITY extensions.label "Ntrɛmu">
+<!ENTITY themes.label "Ntiim">
+<!ENTITY locales.label "Akasa">
+<!ENTITY plugins.label "Mplagin">
+<!ENTITY update.label "Ntoso">
+<!ENTITY install.label "Instɔlehyɛn">
+<!-- Command Bar items -->
+
+<!ENTITY cmd.checkUpdatesAll.label "Hu Ntoso">
+<!ENTITY cmd.checkUpdatesAll.accesskey "H">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Ɔhu Ntoso ma wo Nkaho">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Ɔhu Ntoso ma wo Ntiim">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Hu Ntoso ma wo Mplagin">
+<!ENTITY cmd.installLocalFile.label "Instɔl…">
+<!ENTITY cmd.installLocalFile.accesskey "n">
+<!ENTITY cmd.installFileAddon.tooltip "Instɔl Kaho">
+<!ENTITY cmd.installFileTheme.tooltip "Instɔl Tiim">
+<!ENTITY cmd.installUpdatesAll2.label "Instɔl Ntoso">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Instɔl ntoso a wɔapaw wɔn">
+<!ENTITY cmd.restartApp2.label "San hyɛ &brandShortName; ase">
+<!ENTITY cmd.restartApp2.accesskey "S">
+<!ENTITY cmd.restartApp2.tooltip "San hyɛ &brandShortName; ase fa tim nsesae">
+<!ENTITY cmd.skip.label "Bɔ tra">
+<!ENTITY cmd.skip.accesskey "t">
+<!ENTITY cmd.skip.tooltip "Bɔ ntoso yinom tra">
+<!ENTITY cmd.continue.label "Toa so">
+<!ENTITY cmd.continue.accesskey "T">
+<!ENTITY cmd.continue.tooltip "Toa so sɛ wo relood &brandShortName;">
+
+<!ENTITY cmd.enableAll.label "Sɔ No Nyinara">
+<!ENTITY cmd.enableAll.accesskey "a">
+<!ENTITY cmd.enableAll.tooltip "Sɔ Nkaho a woeyi wɔn akyerɛ nyinara">
+<!ENTITY cmd.disableAll.label "Dum no Nyinara">
+<!ENTITY cmd.disableAll.accesskey "a">
+<!ENTITY cmd.disableAll.tooltip "Dum Nkaho a woeyi wɔn akyerɛ nyinara">
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+
+<!ENTITY cmd.useTheme.label "Fa Tiim">
+<!ENTITY cmd.useTheme.accesskey "T">
+<!ENTITY cmd.useTheme.tooltip "Ɛsesa &brandShortName; ne Tiim">
+<!ENTITY cmd.options.label "Nɔphyɛn">
+<!ENTITY cmd.options.accesskey "N">
+<!ENTITY cmd.options.tooltip "Hyɛ Nɔphyɛn ma Ntrɛwmu a wɔapaw no">
+<!ENTITY cmd.optionsUnix.label "Apɛde">
+<!ENTITY cmd.optionsUnix.accesskey "p">
+<!ENTITY cmd.optionsUnix.tooltip "Sesa Apɛde ma Ntrɛwmu a wɔapaw no">
+<!ENTITY cmd.enable.label "Sɔ">
+<!ENTITY cmd.enable.accesskey "S">
+<!ENTITY cmd.enable.tooltip "Sɔ Kaho yi sɛ &brandShortName; san hyɛ ase a">
+<!ENTITY cmd.disable.label "Dum">
+<!ENTITY cmd.disable.accesskey "D">
+<!ENTITY cmd.disable.tooltip "Dum Kaho yi sɛ &brandShortName; san hyɛ ase a">
+<!ENTITY cmd.uninstall.label "Yi-instɔl">
+<!ENTITY cmd.uninstall2.accesskey "U">
+<!ENTITY cmd.uninstall2.tooltip "Yi-instɔl Kaho yi sɛ &brandShortName; san hyɛ ase a">
+<!ENTITY cmd.cancelUninstall.label "Twa Yi-instɔl Mu">
+<!ENTITY cmd.cancelUninstall.accesskey "w">
+<!ENTITY cmd.cancelUninstall.tooltip "Twa Kaho yi no yi-instɔl mu">
+<!ENTITY cmd.cancelInstall.label "Twa Instɔl mu">
+<!ENTITY cmd.cancelInstall.accesskey "w">
+<!ENTITY cmd.cancelInstall.tooltip "Twa Kaho yi no instɔl mu">
+<!ENTITY cmd.cancelUpgrade.label "Twa Mpegya so">
+<!ENTITY cmd.cancelUpgrade.accesskey "w">
+<!ENTITY cmd.cancelUpgrade.tooltip "Twa Kaho yi no mpegya so">
+<!ENTITY cmd.installUpdate.label "Instɔl Ntoso">
+<!ENTITY cmd.installUpdate.accesskey "I">
+<!ENTITY cmd.installUpdate.tooltip "Instɔl ntoso ma Kaho yi">
+<!ENTITY cmd.showUpdateInfo.label "Kyerɛ Infɔmehyɛn">
+<!ENTITY cmd.showUpdateInfo.accesskey "K">
+<!ENTITY cmd.showUpdateInfo.tooltip "Kyerɛ infɔmehyɛn bio ka ntoso yi wɔn ho">
+<!ENTITY cmd.hideUpdateInfo.label "Suma Infɔmehyɛn">
+<!ENTITY cmd.hideUpdateInfo.accesskey "S">
+<!ENTITY cmd.hideUpdateInfo.tooltip "Suma infɔmehyɛn fa ntoso yi wɔn ho">
+<!ENTITY cmd.installSearchResult.label "Fa ka &brandShortName; ho…">
+<!ENTITY cmd.installSearchResult.accesskey "a">
+<!ENTITY cmd.installSearchResult.tooltip "Twe na instɔl kaho yi">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label "Twa-mu">
+<!ENTITY cancel.accesskey "w">
+<!ENTITY cancelInstall.label "Twa-mu">
+<!ENTITY cancelInstall.accesskey "w">
+<!ENTITY cancelUpgrade.label "Twa-mu">
+<!ENTITY cancelUpgrade.accesskey "w">
+<!-- Only displayed in the selected Add-on's context menu -->
+
+<!ENTITY cmd.homepage.label "Kɔ Krataafa Fie">
+<!ENTITY cmd.homepage.accesskey "e">
+<!ENTITY cmd.about2.label "Fa Kaho Yi">
+<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.checkUpdate.label "Hu Ntoso">
+<!ENTITY cmd.checkUpdate.accesskey "H">
+
+<!ENTITY cmd.includeUpdate.label "Fa Ntoso ka ho">
+<!ENTITY cmd.includeUpdate.accesskey "N">
+<!ENTITY includeUpdate.label "Fa ntoso yi ka ho">
+<!ENTITY includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.tooltip "Fa Kaho yi ka nea wɔaka no ho sɛ wo reinstɔl ntoso a">
+<!-- Status Messsages -->
+
+<!ENTITY insecureUpdate.label "Mma ntoso a wɔabɔ wɔn ho ban.">
+<!ENTITY needsDependencies.label "Hia naetɛm a wɔkeka ho.">
+<!ENTITY blocklisted.label "Edum ama wo banbɔ.">
+<!ENTITY softBlocklisted.label "Yenim sɛ etumi haw adwen wɔ sikuriti anaaso faakogyina nsɛm mu.">
+<!ENTITY outdated.label "Vɛɛhyɛn foforo a no ho tew aba.">
+<!ENTITY toBeDisabled.label "Wɔbedum kaho yi sɛ wɔsan hyɛ &brandShortName; ase a.">
+<!ENTITY toBeEnabled.label "Wɔbɛsɔ kaho yi sɛ wɔsan hyɛ &brandShortName; ase a.">
+<!ENTITY toBeInstalled.label "Wɔbeinstɔl kaho yi sɛ wɔsan hyɛ &brandShortName; ase a.">
+<!ENTITY toBeUninstalled.label "Wɔbeyi kaho yi sɛ wɔsan hyɛ &brandShortName; ase a.">
+<!ENTITY toBeUpdated.label "Wɔbɛto kaho yi so sɛ wɔsan hyɛ &brandShortName; ase a.">
+
+<!ENTITY getExtensions.label "Gye Ntrɛmu">
+<!ENTITY getThemes.label "Gye Ntiim">
+<!ENTITY getPlugins.label "Gye Mplagin">
+
+<!ENTITY searchAddons.label "Hwehwɛ Nkaho Nyinara">
+<!ENTITY browseAddons.label "Brawse Nkaho Nyinara">
+<!ENTITY searchFailed.label "&brandShortName; enntumi anntwe nkaho">
+<!ENTITY recommendedHeader.label "Edi adanse">
+<!ENTITY recommendedThrobber.label "Retwe nkaho a wɔedi wɔn ho adanse pa">
+<!ENTITY searchThrobber.label "Rehwehwɛ nkaho">
+<!ENTITY resetSearch.label "Pepa Nsusuanso">
+<!ENTITY noSearchResults.label "Wɔeinstɔl nsusuanso nyinara dadaw anaaso nsusuanso no mmfa.">
+<!ENTITY noRecommendedResults.label "Wɔeinstɔl adansidipa nyinara dadaw anaaso adansidipa no mmfa.">
+<!ENTITY emptySearch.label "Nkaho biara nni hɔ a wodi nsɛ">
+<!ENTITY emptySearch.button "OK">
+<!ENTITY cancelSearch.button "Twa-mu">
+<!ENTITY searchFailed.button "OK">
+<!ENTITY searchResultHomepage.value "Sua bio">
+<!ENTITY searchBox.label "Hwehwɛ Nkaho Nyinara">
+<!ENTITY recommendedResults.label "Hu Nkaho a woedi wɔn ho Adanse pa Nyinara">
+<!ENTITY searchResultConnecting.label "Rekɔnɛkt…">
+<!ENTITY searchResultInstalling.label "Reinstɔl…">
+<!ENTITY searchResultFailed.label "Instɔl Annkɔ yie">
+<!ENTITY searchResultInstalled.label "Instɔl Ewie">
+<!ENTITY addonTypeExtension.label "Ntrɛmu">
+<!ENTITY addonTypeTheme.label "Tiim">
+<!ENTITY missingThumbnail.label "Kaneewhɛ biara Nni hɔ">
+
+<!ENTITY previewNoThemeSelected.label "Wɔmmpaaw Tiim Biara">
+<!ENTITY previewNoPreviewImage.label "Tiim Yi nni Mfonin Kaneehwɛ biara">
+<!ENTITY moreInfo.label "Infɔmehyɛn Bio">
+<!ENTITY infoNoAddonSelected.label "Wɔmmpaaw Ntoso Biara">
+<!ENTITY infoNoUpdateInfo.label "Ntoso yi nni infɔmehyɛn a wɔkeka ho biara bio">
+<!ENTITY infoUpdateInfoError.label "Mfomso bi bae wɔ bere a wɔrelood infɔmehyɛn fa ntoso yi ho">
+
+<!ENTITY updateSuccess.label "Ntoso ewie konimdimu.">
+<!ENTITY installSuccess.label "Instɔl ewie konimdimu.">
+<!ENTITY installSuccessRestart.label "San hyɛ ase fa wie instɔlehyɛn no.">
+<!ENTITY updateSuccessRestart.label "San hyɛ ase fa wie ntoso no.">
+<!ENTITY installWaiting.label "Retweɔn…">
+<!ENTITY installIncompatibleUpdate.label "Rehwɛ sɛ wɔ fa a…">
+<!ENTITY installFinishing.label "Reinstɔl…">
+<!ENTITY installFailure.label "Instɔl annkɔ yie…">
+
+<!ENTITY progressStatus.label "Rehwehwɛ Ntoso">
+
+<!ENTITY eula.title "Laesens Nhyehyɛe ma Adehye">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Gye to mu na Instɔl…">
+
+<!ENTITY blocklist.blocked.label "Esiw">
+<!ENTITY blocklist.checkbox.label "Dum">

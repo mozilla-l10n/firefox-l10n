@@ -1,0 +1,104 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label "Gyɛnɛral">
+
+<!ENTITY accessibility.label "Hokwanma">
+
+<!ENTITY useCursorNavigation.label "Fa kɛɛsa akee nom kyini akrataafa mu">
+<!ENTITY useCursorNavigation.accesskey "k">
+<!ENTITY searchStartTyping.label "Hwehwɛ atɛkst wɔ bere a me hyɛ-ase retaep">
+<!ENTITY searchStartTyping.accesskey "k">
+<!ENTITY blockAutoRefresh.label "Bɔ me kɔkɔ wɔ bere a awɛb saet bɔ mbɔden dan anaa wɔsanbue krataafa bi">
+<!ENTITY blockAutoRefresh.accesskey "b">
+
+<!ENTITY browsing.label "Ɛrebrawse">
+
+<!ENTITY useAutoScroll.label "Yɛ otomatik mpia">
+<!ENTITY useAutoScroll.accesskey "o">
+<!ENTITY useSmoothScrolling.label "Yɛ apia tɔtee">
+<!ENTITY useSmoothScrolling.accesskey "p">
+<!ENTITY checkSpelling.label "Feefee me spɛllen mu wɔ bere a meretaepe">
+<!ENTITY checkSpelling.accesskey "t">
+
+<!ENTITY systemDefaults.label "Systɛm adaedi dada">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label "Hwɛ bere biara sɛ &brandShortName; ne brawsa difɔlt a ɔnhyɛ ase">
+<!ENTITY alwaysCheckDefault.accesskey "b">
+<!ENTITY checkNow.label "Hwɛ seisei ara">
+<!ENTITY checkNow.accesskey "s">
+<!ENTITY submitCrashes.label "Submit crash reports">
+<!ENTITY submitCrashes.accesskey "S">
+
+<!ENTITY networkTab.label "Nɛtwɛɛke">
+
+<!ENTITY connection.label "Kɔnɛkhyen">
+
+<!ENTITY connectionDesc.label "Hyehyɛ sɛnea &brandShortName; kɔnɛkte abɛɛfo kwantenpɔn">
+<!ENTITY connectionSettings.label "Nhyehyɛe…">
+<!ENTITY connectionSettings.accesskey "y">
+
+<!ENTITY offlineStorage.label "Ɔflaen siebea">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Yɛ ho adwuma kosi">
+<!ENTITY useCacheBefore.accesskey "a">
+<!ENTITY useCacheAfter.label "Akwan MB a aka ama asiei no">
+<!ENTITY clearCacheNow.label "Pepa seisei">
+<!ENTITY clearCacheNow.accesskey "P">
+
+<!ENTITY updateTab.label "Ntoso">
+
+<!ENTITY autoCheck.label "Hwehwɛ ntoso otomatikmu:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate2.label "Add-ons">
+<!ENTITY enableAddonsUpdate2.accesskey "n">
+<!ENTITY enableSearchUpdate.label "Ahwehwɛfidie">
+<!ENTITY enableSearchUpdate.accesskey "f">
+<!ENTITY whenUpdatesFound.label "Bere a wɔehu &brandShortName; ntoso:">
+<!ENTITY askMe.label "Bisa me nea mepɛsɛ meyɛ">
+<!ENTITY askMe.accesskey "i">
+<!ENTITY modeAutomatic.label "Twe na instɔɔle ntoso bi otomatikmu">
+<!ENTITY modeAutomatic.accesskey "k">
+<!ENTITY modeAutoAddonWarn.label "Bɔ me kɔkɔ sɛ eyi bedum me nkaho bi a">
+<!ENTITY modeAutoAddonWarn.accesskey "ɔ">
+<!ENTITY updateHistory.label "Kyerɛ ntoso abakɔsɛm">
+<!ENTITY updateHistory.accesskey "s">
+
+<!ENTITY offlineNotify.label "Ka kyerɛ me wɔ bere a wɛbsaet bi bisa sɛ ɛde deta besie ɔflaen ayɛ ho edwuma">
+<!ENTITY offlineNotify.accesskey "K">
+<!ENTITY offlineNotifyExceptions.label "Nea ɛnnka ho…">
+<!ENTITY offlineNotifyExceptions.accesskey "o">
+
+<!ENTITY offlineAppsList.label "Wɛbsaet ndidiso yi wɔ deta a wɔde asie sɛ wɔnnyɛ wɔ ho edwuma ɔflaen:">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "Yi…">
+<!ENTITY offlineAppsListRemove.accesskey "i">
+<!ENTITY offlineAppRemove.confirm "Yi deta a ɛwɔ ɔflaen">
+
+<!ENTITY encryptionTab.label "Ɛnkrephyen">
+
+<!ENTITY protocols.label "Mprotokɔl">
+<!ENTITY useSSL3.label "Yɛ SSL 3.0 ho adwuma">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Yɛ TLS 1.0 ho adwuma">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Abasobɔde nkrataa">
+<!ENTITY certSelection.description "Sɛ somfo bi bisa meabasobɔde krataa:">
+<!ENTITY certs.auto "Paw baako otomatikmu">
+<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.ask "Bisa me bere biara">
+<!ENTITY certs.ask.accesskey "i">
+<!ENTITY viewCerts.label "Hwɛ abasobɔde nkrataa">
+<!ENTITY viewCerts.accesskey "r">
+<!ENTITY viewCRLs.label "Atweasan alist">
+<!ENTITY viewCRLs.accesskey "t">
+<!ENTITY verify2.label "Nokwarediemu">
+<!ENTITY verify2.accesskey "N">
+<!ENTITY viewSecurityDevices.label "Banbɔ mfidie">
+<!ENTITY viewSecurityDevices.accesskey "f">

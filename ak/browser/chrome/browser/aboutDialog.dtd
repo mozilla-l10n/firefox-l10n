@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title "&brandFullName; Ho Nsɛm">
+<!ENTITY copyright "Aboafo">
+<!ENTITY copyright.accesskey "C">
+<!ENTITY copyrightGNOME.accesskey "r">
+<!ENTITY aboutLink "&lt; &brandFullName; Ho Nsɛm">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "vɛɛhyen">
+<!ENTITY closeCmdGNOME.label "To-mu">
+<!ENTITY closeCmdGNOME.accesskey "T">
+<!ENTITY copyrightInfo1 "&#169;1998-2009 Aboafo. Yekuta yɛn tumi nyinara. (">
+<!ENTITY licenseLink "fa:laesens">
+<!ENTITY licenseLinkText "Laesens ho infɔmehyɛn">
+<!ENTITY copyrightInfo2 ").">

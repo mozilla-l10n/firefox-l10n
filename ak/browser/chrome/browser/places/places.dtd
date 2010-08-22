@@ -1,0 +1,212 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title "Nwomasuabea">
+<!ENTITY places.library.width "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label "Siesie">
+<!ENTITY organize.accesskey "S">
+
+<!ENTITY file.accesskey "F">
+<!ENTITY file.close.label "To-mu">
+<!ENTITY file.close.accesskey "T">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "Sesa">
+<!ENTITY edit.accesskey "e">
+<!ENTITY views.label "Nhwɛ">
+<!ENTITY views.accesskey "w">
+<!ENTITY view.toolbar.label "Tulbaa">
+<!ENTITY view.toolbar.accesskey "u">
+<!ENTITY view.columns.label "Kyerɛ Nkɔlɔm">
+<!ENTITY view.columns.accesskey "k">
+<!ENTITY view.sort.label "Hyehyɛ">
+<!ENTITY view.sort.accesskey "H">
+<!ENTITY view.unsorted.label "Nnhyehyɛe">
+<!ENTITY view.unsorted.accesskey "N">
+<!ENTITY view.sortAscending.label "A > Z Nheyhɛe Kwan So">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "Z > A Nhyehyɛ Kwan So">
+<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY help.usingBookmarks.label "De Mbukmaak Redi Dwuma">
+<!ENTITY help.usingBookmarks.accesskey "b">
+<!ENTITY help.usingHistory.label "De Abakɔsɛm Redi Dwuma">
+<!ENTITY help.usingHistory.accesskey "e">
+<!ENTITY help.advancedTips.label "Ntip Akɔenim &amp; Nkongyaa">
+<!ENTITY help.advancedTips.accesskey "t">
+
+<!ENTITY cmd.findInBookmarks.label "Hu wɔ Mbukmaak mu…">
+<!ENTITY cmd.findInBookmarks.accesskey "H">
+<!ENTITY cmd.findCurrent.label "Hu wɔ Kɔlɛkhyɛn a Ɛwɔ Hɔ Seisei…">
+<!ENTITY cmd.findCurrent.accesskey "u">
+
+<!ENTITY cmd.exportHTML.label "Tu Kɔ HTML Mu…">
+<!ENTITY cmd.exportHTML.accesskey "T">
+<!ENTITY cmd.importHTML.label "Gye HTML Bra Mu…">
+<!ENTITY cmd.importHTML.accesskey "G">
+
+<!ENTITY cmd.backup.label "Sie-bio…">
+<!ENTITY cmd.backup.accesskey "S">
+<!ENTITY cmd.restore2.label "Fa San Bra">
+<!ENTITY cmd.restore2.accesskey "F">
+<!ENTITY cmd.restoreFromFile.label "Fa Fael…">
+<!ENTITY cmd.restoreFromFile.accesskey "F">
+
+<!ENTITY cmd.select_all.label "Paw Wɔn Nyinara">
+<!ENTITY cmd.select_all.accesskey "a">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label "Twa">
+<!ENTITY cmd.edit_cut.accesskey "T">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "Fa">
+<!ENTITY cmd.edit_copy.accesskey "F">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "Tare">
+<!ENTITY cmd.edit_paste.accesskey "T">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "Pepa">
+<!ENTITY cmd.edit_delete.accesskey "P">
+<!ENTITY cmd.edit_undo.label "Nnyɛ">
+<!ENTITY cmd.edit_undo.accesskey "N">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "Yɛ bio">
+<!ENTITY cmd.edit_redo.accesskey "b">
+<!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.bookmarkLink.label "Bukmaake Krataafa Yi…">
+<!ENTITY cmd.bookmarkLink.accesskey "B">
+<!ENTITY cmd.delete.label "Yi Krataafa Yi Firi Hɔ">
+<!ENTITY cmd.delete.accesskey "Y">
+<!ENTITY cmd.deleteDomainData.label "Ma Wo Were Mfiri Saet Yi">
+<!ENTITY cmd.deleteDomainData.accesskey "f">
+
+<!ENTITY cmd.open.label "Bue">
+<!ENTITY cmd.open.accesskey "B">
+<!ENTITY cmd.open_window.label "Bue wɔ Tokuro Foforo mu">
+<!ENTITY cmd.open_window.accesskey "o">
+<!ENTITY cmd.open_tab.label "Bue wɔ Tab Foforo mu">
+<!ENTITY cmd.open_tab.accesskey "f">
+<!ENTITY cmd.open_all_in_tabs.label "Bue No Nyinara wɔ Ntab mu">
+<!ENTITY cmd.open_all_in_tabs.accesskey "o">
+
+<!ENTITY cmd.properties.label "Ho-nsɛm">
+<!ENTITY cmd.properties.accesskey "s">
+
+<!ENTITY cmd.show_info.key "i">
+
+<!ENTITY cmd.rename.label "San-to-din">
+<!ENTITY cmd.rename.accesskey "S">
+
+<!ENTITY cmd.sortby_name.label "Fa Din Hyehyɛ">
+<!ENTITY cmd.sortby_name.accesskey "h">
+<!ENTITY cmd.context_sortby_name.accesskey "r">
+
+<!ENTITY cmd.new_bookmark.label "Bukmaak Foforo…">
+<!ENTITY cmd.new_bookmark.accesskey "B">
+<!ENTITY cmd.new_livemark.label "Laev Bukmaak Foforo…">
+<!ENTITY cmd.new_livemark.accesskey "L">
+<!ENTITY cmd.new_folder.label "Folda Foforo…">
+<!ENTITY cmd.new_folder.accesskey "o">
+<!ENTITY cmd.context_new_folder.accesskey "F">
+<!ENTITY cmd.new_separator.label "Akyɛmude Foforo">
+<!ENTITY cmd.new_separator.accesskey "k">
+
+<!ENTITY cmd.reloadLivebookmark.label "San-loode Bukmaak Laev">
+<!ENTITY cmd.reloadLivebookmark.accesskey "S">
+<!ENTITY cmd.reloadMicrosummary.label "San-loode Ti-asɛm Laev">
+<!ENTITY cmd.reloadMicrosummary.accesskey "S">
+
+<!ENTITY cmd.groupby_site.label "Fa Nsaet Ka Bɔ Mu">
+<!ENTITY cmd.groupby_site.accesskey "s">
+<!ENTITY cmd.groupby_page.label "Fa Nkrataafa Ka Bɔ Mu">
+<!ENTITY cmd.groupby_page.accesskey "f">
+<!ENTITY cmd.groupby_feed.label "Fa Akyerɛwdin Ka Bɔ Mu">
+<!ENTITY cmd.groupby_feed.accesskey "k">
+<!ENTITY cmd.groupby_post.label "Fa Post Ka Bɔ Mu">
+<!ENTITY cmd.groupby_post.accesskey "P">
+
+<!ENTITY cmd.moveBookmarks.label "Soa-kɔ…">
+<!ENTITY cmd.moveBookmarks.accesskey "S">
+
+<!ENTITY col.name.label "Din">
+<!ENTITY col.tags.label "Ntag">
+<!ENTITY col.url.label "Lokehyɛn">
+<!ENTITY col.lastvisit.label "Afeda Nsrahwɛ">
+<!ENTITY col.visitcount.label "Nsrahwɛ no Dodow">
+<!ENTITY col.keyword.label "Asɛmfua-titiriw">
+<!ENTITY col.description.label "Nkyerɛmu">
+<!ENTITY col.dateadded.label "Aka-ho">
+<!ENTITY col.lastmodified.label "Nsesae a Etwa To">
+
+<!ENTITY search.label "Hwehwɛ">
+<!ENTITY search.accesskey "H">
+<!ENTITY search.scopeFolder.label "Folda a Wɔapaw">
+<!ENTITY search.scopeFolder.accesskey "p">
+<!ENTITY search.scopeBookmarks.label "Mbukmaak">
+<!ENTITY search.scopeBookmarks.accesskey "k">
+<!ENTITY search.scopeDownloads.label "Ntwe">
+<!ENTITY search.scopeDownloads.accesskey "N">
+<!ENTITY search.scopeHistory.label "Abakɔsɛm">
+<!ENTITY search.scopeHistory.accesskey "A">
+<!ENTITY search.scopeBarExpanderDown.tooltip "Kyerɛ dansifo a wɔde yɛ nhwehwɛ">
+<!ENTITY search.scopeBarExpanderUp.tooltip "Suma dansifo a wɔde yɛ nhwehwɛ">
+<!ENTITY saveSearch.label "Sie">
+<!ENTITY saveSearch.accesskey "S">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "Hwehwɛ Mbukmaak ara nko">
+<!ENTITY advancedSearch.match.label "Maakye">
+<!ENTITY advancedSearch.all.label "nyinara">
+<!ENTITY advancedSearch.any.label "biara">
+<!ENTITY advancedSearch.rules.label "fi mbra yinom:">
+<!ENTITY advancedSearch.subj_keyword.label "Wɔ nkyerɛwee">
+<!ENTITY advancedSearch.subj_visited.label "Asra">
+<!ENTITY advancedSearch.subj_location.label "Lokehyɛn">
+<!ENTITY advancedSearch.location_startswith.label "de hyɛ ase">
+<!ENTITY advancedSearch.location_is.label "yɛ">
+<!ENTITY advancedSearch.location_onsite.label "wɔ saet so">
+<!ENTITY advancedSearch.time_is.label "wɔ">
+<!ENTITY advancedSearch.time_before.label "ansaana">
+<!ENTITY advancedSearch.time_after.label "ekyiri">
+<!ENTITY advancedSearch.time_inlast.label "wɔ nea etwa to">
+<!ENTITY advancedSearch.last_days.label "nda">
+<!ENTITY advancedSearch.last_weeks.label "ndapɛn">
+<!ENTITY advancedSearch.last_months.label "abosome">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "Fa Nkuw Ka Bɔ Mu:">
+<!ENTITY advancedSearch.groupby_host.label "host">
+<!ENTITY advancedSearch.groupby_domain.label "domen">
+<!ENTITY advancedSearch.groupby_folder.label "folda">
+<!ENTITY advancedSearch.sortby.label "Fa yɛ nhyehyɛe:">
+<!ENTITY advancedSearch.sortby_title.label "ti-asɛm">
+<!ENTITY advancedSearch.sortby_date.label "afeda">
+<!ENTITY advancedSearch.sortby_visit.label "nsrahwɛ nkanee">
+<!ENTITY advancedSearch.sortby_url.label "url">
+<!ENTITY advancedSearch.sortby_asc.label "kɔ-soro">
+<!ENTITY advancedSearch.sortby_desc.label "bra-famu">
+<!ENTITY advancedSearch.max.label "Nsusuanso akɛse papaapa:">
+
+<!ENTITY cmd.find.key "f">
+
+<!ENTITY feed.subscribe.label "Fiid">
+<!ENTITY feed.subscribe.tooltip "Kyerɛw-din">
+
+<!ENTITY view.detailsMacOSX.label "Liste">
+<!ENTITY view.details.label "Nkyerɛmu">
+<!ENTITY view.details.accesskey "N">
+
+<!ENTITY view.addons.label "Gye Add-on Nhwɛe">
+
+<!ENTITY maintenance.label "Gye Bra na Fa Sie-bio">
+<!ENTITY maintenance.accesskey "i">
+
+<!ENTITY backCmd.label "Ekyiri">
+<!ENTITY backButton.tooltip "Kɔ ekyiri">
+
+<!ENTITY forwardCmd.label "Enim">
+<!ENTITY forwardButton.tooltip "Kɔ enim">
+
+<!ENTITY detailsPane.more.label "Bio ka ho">
+<!ENTITY detailsPane.more.accesskey "o">
+<!ENTITY detailsPane.less.label "Kyerɛ ketewa">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "Hwɛ-ansa">
+<!ENTITY detailsPane.selectAnItemText.description "Fa aetɛm, hwɛ na sesa ne ho nsɛm">

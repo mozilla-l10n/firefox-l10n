@@ -1,0 +1,19 @@
+<!ENTITY about.version "vɛɛhyen">
+
+<!ENTITY about.copy.beforeLink "Nhwɛsoɔtumi &copy; 1998-2009 kosi">
+<!ENTITY about.copy.linkTitle "mboafo">
+<!ENTITY about.copy.afterLink "ɛkɔ Mozilla dwumadi no hɔ.">
+
+<!ENTITY about.license.beforeLink "Kan">
+<!ENTITY about.license.linkTitle "Tumikrata-ma infɔmehyen">
+<!ENTITY about.license.afterLink "ma adetɔn yi.">
+
+<!ENTITY about.relnotes.beforeLink "Kan">
+<!ENTITY about.relnotes.linkTitle "ngyae-mu nkrata">
+<!ENTITY about.relnotes.afterLink "ma vɛɛhyen yi.">
+
+<!ENTITY about.buildconfig.beforeLink "Hwɛ">
+<!ENTITY about.buildconfig.linkTitle "esi nhyehyɛe">
+<!ENTITY about.buildconfig.afterLink "a wɔde yɛɛ vɛɛhyen yi ho adwuma.">
+
+<!ENTITY about.buildIdentifier "Esi Nsohyɛde:">

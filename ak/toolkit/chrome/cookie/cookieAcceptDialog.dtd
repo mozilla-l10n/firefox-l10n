@@ -1,0 +1,18 @@
+<!ENTITY props.name.label "din:">
+<!ENTITY props.value.label "Emu nsɛm:">
+<!ENTITY props.domain.label "ɔhɔhogyefoɔ:">
+<!ENTITY props.path.label "kwan:">
+<!ENTITY props.secure.label "mane bra:">
+<!ENTITY props.expires.label "atwam:">
+<!ENTITY props.policy.label "Mbra:">
+
+<!ENTITY button.allow.label "ma kwan">
+<!ENTITY button.allow.accesskey "m">
+<!ENTITY button.session.label "Ma sɛhyen ho kwan">
+<!ENTITY button.session.accesskey "s">
+<!ENTITY button.deny.label "twesan">
+<!ENTITY button.deny.accesskey "t">
+
+<!ENTITY dialog.title "foa nhehyɛe kuki so">
+<!ENTITY dialog.remember.label "Fa akuki a mapaw yɛ saet yi ho adwuma">
+<!ENTITY dialog.remember.accesskey "U">

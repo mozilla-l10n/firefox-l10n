@@ -1,0 +1,452 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Brawsen A Ɛyɛ Praevet)">
+
+<!ENTITY tabCmd.label "Tab Foforo">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Bue Lokehyɛn…">
+<!ENTITY openLocationCmd.accesskey "L">
+<!ENTITY openFileCmd.label "Bue Fael…">
+<!ENTITY openFileCmd.accesskey "B">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Krataafa Sɛtɔp…">
+<!ENTITY printSetupCmd.accesskey "p">
+<!ENTITY printPreviewCmd.label "Prente Priviw">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Prente…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Twe…">
+<!ENTITY import.accesskey "T">
+
+<!ENTITY goOfflineCmd.label "Di Dwuma Ɔflaen">
+<!ENTITY goOfflineCmd.accesskey "w">
+
+<!ENTITY menubarCmd.label "Mɛnu Baa">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "Tuulbaa A Wɔde Yɛ Navigehyɛn">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "TuulBaa A Wɔde Sie Mbukmaak">
+<!ENTITY personalbarCmd.accesskey "b">
+<!ENTITY bookmarksToolbarItem.label "Tuulbaa Ndeɛma A Wɔde Sie Mbukmaak">
+<!ENTITY taskbarCmd.label "Baa A Ɛkyerɛ Tebea">
+<!ENTITY taskbarCmd.accesskey "B">
+
+<!ENTITY pageSourceCmd.label "Krataafa Ne Firii">
+<!ENTITY pageSourceCmd.accesskey "r">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Krataafa Ho Info">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Skreen Tɛtrɛtɛɛ">
+<!ENTITY fullScreenCmd.accesskey "t">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Kyerɛ Ntab Nyinara">
+<!ENTITY showAllTabsCmd.accesskey "a">
+
+<!ENTITY fullScreenMinimize.tooltip "Yɛ-ketewa">
+<!ENTITY fullScreenRestore.tooltip "Siesie">
+<!ENTITY fullScreenClose.tooltip "To mu">
+<!ENTITY fullScreenAutohide.label "Suma Ntuulbaa">
+<!ENTITY fullScreenAutohide.accesskey "S">
+<!ENTITY fullScreenExit.label "Pue Firi Skreen Tɛtrɛtɛɛ Mood Mu">
+<!ENTITY fullScreenExit.accesskey "F">
+
+<!ENTITY closeWindow.label "To Tokuro Mu">
+<!ENTITY closeWindow.accesskey "k">
+
+<!ENTITY bookmarksMenu.label "Mbukmaak">
+<!ENTITY bookmarksMenu.accesskey "b">
+<!ENTITY bookmarkThisPageCmd.label "Bukmaake Krataafa Yi">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "Kyerɛw Wo Din Ka Krataafa Yi Ho">
+<!ENTITY subscribeToPageMenuitem.label "Kyerɛw Wo Din Ka Krataafa Yi Ho…">
+<!ENTITY addCurPagesCmd.label "Bukmaake Ntab Nyinara…">
+<!ENTITY organizeBookmarks.label "Boa Mbukmaak Ano…">
+<!ENTITY bookmarkAllCmd.label "Bukmaake Ntab Nyinara…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Kyerɛ mbukmaak bebree">
+
+<!ENTITY backCmd.label "Ekyiri">
+<!ENTITY backCmd.accesskey "E">
+<!ENTITY backButton.tooltip "Kɔ krataafa ekyiri baako">
+<!ENTITY forwardCmd.label "Enim">
+<!ENTITY forwardCmd.accesskey "E">
+<!ENTITY forwardButton.tooltip "Kɔ enim krataafa baako">
+<!ENTITY backForwardMenu.tooltip "Krataafa a wɔakɔ ndansa yi">
+<!ENTITY reloadCmd.label "Bue-bio">
+<!ENTITY reloadCmd.accesskey "B">
+<!ENTITY reloadButton.tooltip "Bue krataafa a wo wɔ so yi bio">
+<!ENTITY stopCmd.label "Gyae">
+<!ENTITY stopCmd.accesskey "G">
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY stopButton.tooltip "Gyae sɛ wo reloode krataafa yi">
+<!ENTITY goEndCap.tooltip "Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu">
+<!ENTITY feedButton.tooltip "Kyerɛw wo din ka krataafa yi ho…">
+<!ENTITY printButton.label "Prente">
+<!ENTITY printButton.tooltip "Prente krataafa yi">
+
+<!ENTITY locationItem.title "Lokehyɛn">
+<!ENTITY searchItem.title "Hwehwɛ">
+<!ENTITY throbberItem.title "Hyewbɔ Tebeakyerɛ Fidie">
+<!ENTITY bookmarksItem.title "Mbukmaak">
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label "Fie">
+
+<!ENTITY bookmarksButton.label "Mbukmaak">
+<!ENTITY bookmarksButton.tooltip "Kyerɛ wo mbukmaak">
+<!ENTITY bookmarksButton.accesskey "b">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label "Abakɔsɛm">
+<!ENTITY historyButton.tooltip "Kyerɛ nkrataafa a wo ahwɛ ndansa yi ara">
+<!ENTITY historySidebarCmd.accesskey "s">
+<!ENTITY historySidebarCmd.commandKey "h">
+
+<!ENTITY toolsMenu.label "Mfidie">
+<!ENTITY toolsMenu.accesskey "i">
+
+<!ENTITY keywordfield.label "Fa Kasafuahia Ka Nhwehwɛ Yi Ho…">
+<!ENTITY keywordfield.accesskey "K">
+<!ENTITY search.label "Wɛb Nhwehwɛ">
+<!ENTITY search.accesskey "w">
+<!ENTITY downloads.label "Ntwe">
+<!ENTITY downloads.tooltip "Kyerɛ sɛnea ntwe a wɔrekɔ so rekɔ wɔn enim">
+<!ENTITY downloads.accesskey "t">
+<!ENTITY downloads.commandkey "j">
+<!ENTITY downloadsUnix.commandkey "y">
+<!ENTITY addons.label "Nkaho">
+<!ENTITY addons.tooltip "Kyerɛ na Hwɛ Nkaho a Wɔeinstɔl Wɔn So">
+<!ENTITY addons.accesskey "a">
+
+<!ENTITY errorConsoleCmd.label "Mfomso Kɔnsool">
+<!ENTITY errorConsoleCmd.accesskey "K">
+<!ENTITY errorConsoleCmd.commandkey "j">
+
+<!ENTITY fileMenu.label "Fael">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newNavigatorCmd.label "Tokuro Foforo">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "o">
+
+<!ENTITY editMenu.label "Sesa">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Nnyɛ">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "n">
+<!ENTITY redoCmd.label "Yɛ bio">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "b">
+<!ENTITY cutCmd.label "Twa">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "T">
+<!ENTITY copyCmd.label "Fa">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "F">
+<!ENTITY pasteCmd.label "Tare">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "T">
+<!ENTITY deleteCmd.label "Pepa">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "P">
+<!ENTITY selectAllCmd.label "Paw No Nyinara">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "Ɔphyɛn…">
+<!ENTITY preferencesCmd.accesskey "Ɔ">
+<!ENTITY preferencesCmdUnix.label "Apɛde-nhyehyɛ">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+
+<!ENTITY clearRecentHistoryCmd.label "Pepa Ndansa Yi Ara N'Abakɔsɛm">
+<!ENTITY clearRecentHistoryCmd.accesskey "b">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+
+<!ENTITY privateBrowsingCmd.start.label "Hyɛ Brawsen a Ɛyɛ Praevet Ase">
+<!ENTITY privateBrowsingCmd.start.accesskey "P">
+<!ENTITY privateBrowsingCmd.stop.label "Gyae Brawsen a Ɛyɛ Praevet">
+<!ENTITY privateBrowsingCmd.stop.accesskey "P">
+<!ENTITY privateBrowsingCmd.commandkey "P">
+
+<!ENTITY viewMenu.label "Hwɛ">
+<!ENTITY viewMenu.accesskey "H">
+<!ENTITY viewToolbarsMenu.label "Ntuulbaa">
+<!ENTITY viewToolbarsMenu.accesskey "t">
+<!ENTITY viewSidebarMenu.label "Nkyɛn-baa">
+<!ENTITY viewSidebarMenu.accesskey "y">
+<!ENTITY viewCustomizeToolbar.label "Kɔstɔmaez…">
+<!ENTITY viewCustomizeToolbar.accesskey "K">
+
+<!ENTITY historyMenu.label "Abakɔsɛm">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "Ntab a Wo Ato Mu Ndansa Yi Ara">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Ntokuro a Wo Ato Mu Ndansa Yi Ara">
+
+<!ENTITY historyHomeCmd.label "Fie">
+<!ENTITY showAllHistoryCmd2.label "Kyerɛ Abakɔsɛm Nyinara">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY openCmd.commandkey "I">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Hwehwɛ Mbukmaak ne Abakɔsɛm">
+<!ENTITY urlbar.bookmark.emptyText "Hwewhɛ Mbukmaak">
+<!ENTITY urlbar.history.emptyText "Hwehwɛ Abakɔsɛm">
+<!ENTITY urlbar.none.emptyText "Taepe Wɛb Adrɛs Bi">
+<!ENTITY urlbar.accesskey "d">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+
+<!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
+<!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY openLinkCmd.label "Bue Link wɔ Tokuro Foforo mu">
+<!ENTITY openLinkCmd.accesskey "o">
+<!ENTITY openLinkCmdInTab.label "Bue Link wɔ Tab Foforo mu">
+<!ENTITY openLinkCmdInTab.accesskey "T">
+<!ENTITY openFrameCmd.label "Bue Frem wɔ Tokuro Foforo mu">
+<!ENTITY openFrameCmd.accesskey "o">
+<!ENTITY openFrameCmdInTab.label "Bue Frem wɔ Tab Foforo mu">
+<!ENTITY openFrameCmdInTab.accesskey "T">
+<!ENTITY showOnlyThisFrameCmd.label "Kyerɛ Frem Yi Nkoaa">
+<!ENTITY showOnlyThisFrameCmd.accesskey "K">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadFrameCmd.label "San Lood Frem">
+<!ENTITY reloadFrameCmd.accesskey "S">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Hwɛ Mpawee ne Fibea">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Hwɛ MathML Fibea">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label "Hwɛ KrataaFa ne Fibea">
+<!ENTITY viewPageSourceCmd.accesskey "H">
+<!ENTITY viewFrameSourceCmd.label "Hwɛ Frem ne Fibea">
+<!ENTITY viewFrameSourceCmd.accesskey "H">
+<!ENTITY viewPageInfoCmd.label "Hwɛ Krataafa Info">
+<!ENTITY viewPageInfoCmd.accesskey "I">
+<!ENTITY viewFrameInfoCmd.label "Hwɛ Frem Info">
+<!ENTITY viewFrameInfoCmd.accesskey "I">
+<!ENTITY reloadImageCmd.label "San Lood Mfonin">
+<!ENTITY reloadImageCmd.accesskey "S">
+<!ENTITY viewImageCmd.label "Hwɛ Mfonin">
+<!ENTITY viewImageCmd.accesskey "i">
+<!ENTITY viewImageInfoCmd.label "View Image Info">
+<!ENTITY viewImageInfoCmd.accesskey "f">
+<!ENTITY viewVideoCmd.label "Hwɛ Video">
+<!ENTITY viewVideoCmd.accesskey "i">
+<!ENTITY viewBGImageCmd.label "Hwɛ Ekyiri Mfonin">
+<!ENTITY viewBGImageCmd.accesskey "w">
+<!ENTITY setDesktopBackgroundCmd.label "Hyɛ No Ekyiri Mfonin…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "H">
+<!ENTITY bookmarkPageCmd2.label "Bukmaake Krataafa Yi">
+<!ENTITY bookmarkPageCmd2.accesskey "m">
+<!ENTITY bookmarkThisLinkCmd.label "Bukmaake Link Yi">
+<!ENTITY bookmarkThisLinkCmd.accesskey "L">
+<!ENTITY bookmarkThisFrameCmd.label "Bukmaake Frem Yi">
+<!ENTITY bookmarkThisFrameCmd.accesskey "m">
+<!ENTITY sendPageCmd.label "Soma Link…">
+<!ENTITY sendPageCmd.accesskey "o">
+<!ENTITY savePageCmd.label "Sie Krataafa Sɛ…">
+<!ENTITY savePageCmd.accesskey "S">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2 "P">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameCmd.label "Sie Frem Sɛ…">
+<!ENTITY saveFrameCmd.accesskey "F">
+<!ENTITY printFrameCmd.label "Prente Frem…">
+<!ENTITY printFrameCmd.accesskey "P">
+<!ENTITY saveLinkCmd.label "Sie Link Sɛ…">
+<!ENTITY saveLinkCmd.accesskey "k">
+<!ENTITY sendLinkCmd.label "Soma Link…">
+<!ENTITY sendLinkCmd.accesskey "o">
+<!ENTITY saveImageCmd.label "Sie Mfonin Sɛ…">
+<!ENTITY saveImageCmd.accesskey "S">
+<!ENTITY saveVideoCmd.label "Sie Vide Sɛ…">
+<!ENTITY saveVideoCmd.accesskey "V">
+<!ENTITY saveAudioCmd.label "Sie Audio Sɛ…">
+<!ENTITY saveAudioCmd.accesskey "i">
+<!ENTITY sendImageCmd.label "Soma Mfonin…">
+<!ENTITY sendImageCmd.accesskey "o">
+<!ENTITY sendVideoCmd.label "Soma Video…">
+<!ENTITY sendVideoCmd.accesskey "o">
+<!ENTITY sendAudioCmd.label "Soma Audio…">
+<!ENTITY sendAudioCmd.accesskey "o">
+<!ENTITY copyLinkCmd.label "Fa Link Lokehyɛn">
+<!ENTITY copyLinkCmd.accesskey "e">
+<!ENTITY copyLinkTextCmd.label "Fa Link no Tɛkst">
+<!ENTITY copyLinkTextCmd.accesskey "k">
+<!ENTITY copyImageCmd.label "Fa Mfonin no Lokehyɛn">
+<!ENTITY copyImageCmd.accesskey "a">
+<!ENTITY copyImageContentsCmd.label "Fa Mfonin">
+<!ENTITY copyImageContentsCmd.accesskey "a">
+<!ENTITY copyVideoURLCmd.label "Fa Video no Lokehyɛn">
+<!ENTITY copyVideoURLCmd.accesskey "a">
+<!ENTITY copyAudioURLCmd.label "Fa Ɔdio no Lokehyɛn">
+<!ENTITY copyAudioURLCmd.accesskey "a">
+<!ENTITY blockImageCmd.accesskey "B">
+<!ENTITY copyEmailCmd.label "Fa Emel Adrɛs">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY thisFrameMenu.label "Frem Yi">
+<!ENTITY thisFrameMenu.accesskey "Y">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label "Bɔ">
+<!ENTITY mediaPlay.accesskey "B">
+<!ENTITY mediaPause.label "Gyina">
+<!ENTITY mediaPause.accesskey "G">
+<!ENTITY mediaMute.label "Mum">
+<!ENTITY mediaMute.accesskey "M">
+<!ENTITY mediaUnmute.label "Mmum">
+<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaShowControls.label "Kyerɛ Nkɔntrol">
+<!ENTITY mediaShowControls.accesskey "k">
+<!ENTITY mediaHideControls.label "Suma Nkɔntrol">
+<!ENTITY mediaHideControls.accesskey "k">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+
+<!ENTITY fullZoomEnlargeCmd.label "Zuum Kɔ Mu">
+<!ENTITY fullZoomEnlargeCmd.accesskey "u">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label "Zuum Pue">
+<!ENTITY fullZoomReduceCmd.accesskey "P">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+
+<!ENTITY fullZoomResetCmd.label "San-hyɛ">
+<!ENTITY fullZoomResetCmd.accesskey "S">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+
+<!ENTITY fullZoomToggleCmd.label "Zuum Nkyerɛwee Nko Ara">
+<!ENTITY fullZoomToggleCmd.accesskey "N">
+<!ENTITY fullZoom.label "Zuum">
+<!ENTITY fullZoom.accesskey "Z">
+
+<!ENTITY newTabButton.tooltip "Bue tab foforo">
+<!ENTITY newWindowButton.tooltip "Bue tokuro foforo">
+<!ENTITY sidebarCloseButton.tooltip "To saedbaa no mu">
+
+<!ENTITY cutButton.tooltip "Twa">
+<!ENTITY copyButton.tooltip "Fa">
+<!ENTITY pasteButton.tooltip "Tare">
+<!ENTITY fullScreenButton.tooltip "Kyerɛ tokuro no wɔ skreen tɛtrɛtɛɛ mu">
+
+<!ENTITY quitApplicationCmdWin.label "Pue">
+<!ENTITY quitApplicationCmdWin.accesskey "u">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label "Gyae">
+<!ENTITY quitApplicationCmd.accesskey "G">
+<!ENTITY quitApplicationCmdMac.label "Gyae &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key "Q">
+
+<!ENTITY closeCmd.label "To mu">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "o">
+
+<!ENTITY pageStyleMenu.label "Krataafa ne Stael">
+<!ENTITY pageStyleMenu.accesskey "t">
+<!ENTITY pageStyleNoStyle.label "Nni Style">
+<!ENTITY pageStyleNoStyle.accesskey "N">
+<!ENTITY pageStylePersistentOnly.label "Krataafa ne Stael Mfitiase">
+<!ENTITY pageStylePersistentOnly.accesskey "f">
+
+<!ENTITY pageReportIcon.tooltip "Sesa nhyehyɛe a wɔfa mpɔpap ho ma wɛbsaet yi">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Sesa Wo Apɛde ma Pɔpap Nsiwkwan…">
+<!ENTITY editPopupSettings.label "Sesa Wo Ɔphyɛn ma Pɔpap Nsiwkwan…">
+<!ENTITY editPopupSettings.accesskey "e">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label "Dane Kwan a Krataafa Fa So">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "a">
+<!ENTITY bidiSwitchTextDirectionItem.label "Dane Kwan a Tɛkst Fa So">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!ENTITY findOnCmd.label "Hu wɔ Krataafa Yi Mu…">
+<!ENTITY findOnCmd.accesskey "H">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Hu Bio">
+<!ENTITY findAgainCmd.accesskey "B">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "Fa Nsɛmfuasekyerɛ Ka ho…">
+<!ENTITY spellAddDictionaries.accesskey "a">
+
+<!ENTITY editBookmark.done.label "Ewie">
+<!ENTITY editBookmark.cancel.label "Twa-mu">
+<!ENTITY editBookmark.removeBookmark.accessKey "R">
+<!ENTITY editBookmark.undo.label "NNyɛ">
+<!ENTITY editBookmark.undo.accessKey "y">
+<!ENTITY editBookmark.edit.label "Sesa…">
+<!ENTITY editBookmark.edit.accessKey "e">
+
+<!ENTITY identity.unverifiedsite2 "Wɛbsaet yi mma obiara ne ho nsɛm.">
+<!ENTITY identity.connectedTo "Wo akɔnɛkte akɔ">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "a wɔn a wɔdi ekyiri yɛ">
+
+<!ENTITY identity.moreInfoLinkText "Infɔmehyɛn a Wɔkeka Ho…">
+
+<!ENTITY downloadMonitor2.tooltip "Klike fa bue ntwe tokuro">
+
+<!ENTITY allTabs.filter.emptyText "Hwehwɛ Ntab">

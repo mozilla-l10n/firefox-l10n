@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Impɔɔt sɔftwɛɛ instɔl boafo">
+
+<!ENTITY importFrom.label "Impɔɔt Nɔphyɛn, Mbukmaak, Abakɔsɛm, Ehintansɛmfua ne data a wɔka ho firi:">
+<!ENTITY importFromUnix.label "Impɔɔt Apɛde, Mbukmaak, Abakɔsɛm, Ehintansɛmfua ne data a wɔka ho firi:">
+<!ENTITY importFromBookmarks.label "Impɔɔt Mbukmaak firi:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird or Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Ɛntwe hwee mba">
+<!ENTITY importFromNothing.accesskey "n">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label "Efi HTML fael bi">
+<!ENTITY importFromHTMLFile.accesskey "f">
+
+<!ENTITY noMigrationSources.label "Enhu dwumadi biara a ɛwɔ mbukmaak, abakɔsɛm anaa ehintasɛmfua deta bi.">
+
+<!ENTITY importSource.title "Twe nhyehyɛe ne deta">
+<!ENTITY importItems.title "Ndeɛma a yɛbɛtwe">
+<!ENTITY importItems.label "Paw ndeɛma a wobɛtwe:">
+
+<!ENTITY migrating.title "Ɛrekra aba...">
+<!ENTITY migrating.label "Ɛrekra ndeɛma a edi so yi aba...">
+
+<!ENTITY selectProfile.title "Paw profael">
+<!ENTITY selectProfile.label "Kwan da aprofael yi ho sɛ wobɛkra wɔn aba:">
+
+<!ENTITY done.title "Atwe awie">
+<!ENTITY done.label "Etumi atwe ndeɛma ndiso yi nkunim: ">
+

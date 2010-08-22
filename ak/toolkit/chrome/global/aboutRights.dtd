@@ -1,0 +1,65 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle "fa:mbra-ho-akwanya">
+<!ENTITY rights.intro-header "Fa wo mbra akwanya ho">
+<!ENTITY rights.intro "&brandFullName; yɛ sɔftwɛɛ a ayɛ fo, na nipadɔm a wɔbɔ fɛkuw firi wiase afanda nyinara yɛe. Ndeɛma kakra bi wɔ hɔ a ɛwɔ sɛ wo hu:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "Wɔde &brandShortName; ama wo wɔ mbrakwan a wɔfrɛ no">
+<!ENTITY rights.intro-point1b "Mozilla Amansan Tumikrataa">
+<!ENTITY rights.intro-point1c ". Yi kyerɛ sɛ wobetumi ayɛ &brandShortName; ho adwuma, ayɛ ne sɛso asan akyekyɛ ama afoforo. Kwan da hɔ ma wo nso sɛ wobɛsesa &brandShortName; kɔmputa kasa no sɛnea wopɛ sɛ wo hyia wo ahiade. Mozilla Amansan tumikrataa so ma kwan sɛ wobɛkyekyɛ avɛɛhyen a wɔasesa no.">
+
+<!ENTITY rights.intro-point2a "Mozilla mma wo ho kwan sɛ wo de Mozilla ne Firefox ahyɛnsewde ne nlogo bɛyɛ nea wo pɛ biara. Wo betumi ehu nsɛm a wɔka ho fa ahyɛnsewde wɔ">
+<!ENTITY rights.intro-point2b "ha">
+<!ENTITY rights.intro-point2c ".">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights.intro-point3a "Wo betumi ehu &vendorShortName; ne ndeɛma a ɔtɔn ho siesɛm mbra wɔ">
+<!ENTITY rights.intro-point3b "ha">
+<!ENTITY rights.intro-point3c ".">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "Ɛwɔ sɛ wo bobɔ siesɛm a wɔnho hia adetɔn yi wɔ ha.">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights.intro-point4a "&brandShortName; nso ma wɛbsaet infɔmehyen asom ahorow bi, te sɛ abrawse-ho-tew adwumadi; nso yentumi ndi adanse sɛ wɔyɛ 100&#37; pɛpɛɛpɛ anaa sɛ mfomso nni wɔn ho. Nhunumu foforo te sɛ infɔmehyen a wɔde dum adwumadi no wɔ">
+<!ENTITY rights.intro-point4b "som ɛfene">
+<!ENTITY rights.intro-point4c ".">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "sɛ adwumadi yi bata wɛb adwumadi a, ɛwɔ sɛ wɔlinke asom afene a wɔka adwumadi no ho ma">
+<!ENTITY rights.intro-point4b-unbranded "Wɛb saet Asom">
+<!ENTITY rights.intro-point4c-unbranded "ɔfa bi.">
+
+<!ENTITY rights.webservices-header "&brandFullName; Wɛb saet asom">
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!ENTITY rights.webservices-a "&brandFullName; yɛ wɛb saet infɔmehyen asom (&quot;Asom&quot;) ho adwuma te sɛ abrawse-ho-tew asom a ɛda-hɔ ma &brandShortName; yi baenari vɛɛhyen te sɛ nea yɛaka ho asɛm adi so no. Sɛ wo mpɛ sɛ woyɛ adwumadi yi ho adwuma anaa sɛ afene no nsɔ w'ani a, wobetumi edum abrawse-ho-tew dwumadi no wɔ bere a woabue aplekehyɛn apɛ no na woapaw">
+<!ENTITY rights.webservices-b "Banbɔ">
+<!ENTITY rights.webservices-c "ɔfa no, na yi &quot;&blockAttackSites.label;&quot; ne &quot;&blockWebForgeries.label;&quot; nhyɛ.">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "Wɛbsaet no ndwumadi tɔfa a ade-tɔn no bata no, ɛne akwankyerɛ wɔ kwan a yedum wɔn, sɛ ebi wɔ hɔ mpo a, sɛ sɛ wɔda edi wɔ ha.">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "Ɛwɔ sɛ wo bobɔ asom afene a wɔnho hia adetɔn yi wɔ ha.">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights.webservices-term1 "&vendorShortName; ne mboafo, tumikrataamafo ne adwumadamfo yɛ adwuuma sɛ wɔbɛma fihyin ne Mɔlwɛɛ infɔmehyen a edi mu yiye a ɛnkyɛe nso. Nso no, wontumi ndi adanse sɛ infɔmehyen yi yɛ nokware turodoo a ɛsan ka asɛm biara a wopɛ: ɛnkyerɛ asaet bi a wɔnho nteeɛ na ebi a wɔnho te nso no, ɛkyerɛ wɔn wɔ mfomso mu.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; betumi atwe asan anaa ɔbɛsesa asom dwuma a ɔpɛ.">
+<!ENTITY rights.webservices-term3 "Wo wɔ kwan sɛ wobetumi de &brandShortName; vɛɛhyen a ɛka ho no ayɛ asom yi ho adwuma, na wo wɔ tumi nyinaa a ehia sɛ wodebɛyɛ saa. &vendorShortName; ne ɛho tumikrataamafo wɔ kwan sɛ wɔbɛyɛ mbra ho akwanma ho adwuma wɔ wɔn asom. Wɔanyɛ saa ɛfene yi sɛ wontia mbra akwanya biara a wowɔ wɔ atumikrataa a wayɛ-fo ase a wɔfa &brandShortName; ho ɛne &brandShortName; kɔmputa kasa vɛɛhyen.">
+<!ENTITY rights.webservices-term4 "Wɔma asom ndwumadi no sɛ &quot;as-is.&quot; &vendorShortName;, ɛho aboafo, tumikrataamafo, ne akyekyɛwfo mpene waranti biara, sɛ ɛyɛ kyenkyenee anaa ehinta. waranti a wɔkyerɛ sɛ asomdwuma no yɛ ma wo pɛyeɛ a yetumi tɔn nyinaa ka ho. Asom no adwumadi ne ɛho nsɛnsɛm nyinaa wɔ w'afa. Mbea bi mpene sɛ yeyi anaa yetia awaranti a wɔehinta enti saa krata yi mfa wɔn ho.">
+<!ENTITY rights.webservices-term5 "Mbra anka hwee entia a, &vendorShortName;, ɛho aboafo, tumikrataamafo, ne akyekyɛwfo ndi fɔ wɔ atitiriw, asotwe, mpofrim ne esiekyiri asɛe a efri &brandShortName; ho adwumayɛ mu. Ka a ɛsɛ atua wɔ eyi mu mboro $500 (dɔla ahanum). Mbea bi mpene sɛ yeyi anaa yetia asɛe bi enti saa krata yi mfa wɔn ho.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; betumi ato ɛfene yi so mbere a ehia biara. Wontumi nsesa anaa ntwa ɛfene yi mu wɔ bere a wonni &vendorShortName; nkyerɛwapene.">
+<!ENTITY rights.webservices-term7 "Saa mbra yi hyɛ California, U.S.A mbra ase sɛ woyi wɔn mbra-bɔ-abira nhyehyɛe no frim a. Sɛ yɛbɛka sɛ mbra yi baabi ndi mu a, mbea na wɔaka no de wɔde wɔn bɛyɛ adwuma yiye ara. Sɛ mbra no asekyerɛ bi ne ne brɔfo-mu bɔ abira a, nea ɛkyerɛ wɔ brɔfo no mu na wɔde bɛyɛ adwuma.">

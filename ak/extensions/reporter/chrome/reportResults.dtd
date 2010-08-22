@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Saet">
+<!ENTITY reportProblemType "Asɛm Ban">
+<!ENTITY reportDecsription "Nkyerɛmu">
+<!ENTITY reportPlatform "Platfɔɔm">
+<!ENTITY reportProduct "Prodakt">
+<!ENTITY reportoscpu "OS">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Build Config">
+<!ENTITY reportUseragent "Useragent">
+<!ENTITY reportLanguage "Kasa">
+<!ENTITY reportCharset "Charset">
+<!ENTITY reportEmail "Emel">
+<!ENTITY error "Mfomso Nkyerɛmu">
+<!ENTITY faultCode "Kood">
+<!ENTITY faultMessage "Mɛsegye">

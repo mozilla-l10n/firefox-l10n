@@ -1,0 +1,5 @@
+<!ENTITY window.title "Paw Folda">
+<!ENTITY window.style "tiatia: 36em; tenten: 18em;">
+<!ENTITY moveTo.label "Ma so kɔ:">
+<!ENTITY newFolderButton.label "Folda Foforo">
+<!ENTITY newFolderButton.accesskey "F">
