@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Luganda (US)
+#define MOZ_LANG_TITLE Luganda
