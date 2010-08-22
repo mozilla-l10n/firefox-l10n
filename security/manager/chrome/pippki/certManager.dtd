@@ -38,21 +38,26 @@
 <!ENTITY certmgr.title "Selaola Ditifikheiti">
 
 <!ENTITY certmgr.tab.mine "Ditifikheiti tša Gago">
-<!ENTITY certmgr.tab.others "Tša Batho ba bangwe">
-<!ENTITY certmgr.tab.websites "Diwepe Saete">
+<!ENTITY certmgr.tab.others2 "People">
+<!ENTITY certmgr.tab.websites3 "Servers">
 <!ENTITY certmgr.tab.ca "Ditaolo">
+<!ENTITY certmgr.tab.orphan2 "Others">
 
 <!ENTITY certmgr.ca.builtins "Di-CA tšeo di Agetšwego ka gare">
 <!ENTITY certmgr.ca.mycas "Di-CA tšeo di Laolwago ke Wena">
 
 <!ENTITY certmgr.mine "O na le disetifikheiti go tšwa go mekgahlo ye yeo e go tsebago:">
 <!ENTITY certmgr.others "O na le ditifikheiti mo faeleng tšeo di tsebago batho ba:">
-<!ENTITY certmgr.websites "O na le ditifikheiti mo faeleng tšeo di tsebago di wepe saete tše:">
+<!ENTITY certmgr.websites2 "You have certificates on file that identify these servers:">
 <!ENTITY certmgr.cas "O na le ditifikheiti mo faeleng tšeo di tsebago dilaola-setifikheiti tše:">
+<!ENTITY certmgr.orphans "You have certificates on file that do not fit in any of the other categories:">
 
 <!ENTITY certmgr.detail.general_tab.title "Kakaretšo">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Tshedimošo">
+<!ENTITY certmgr.detail.general_tab.accesskey "K">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Dintlha">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
+<!ENTITY certmgr.pending.label "Currently verifying certificate…">
 <!ENTITY certmgr.subjectinfo.label "Ntšheditšwe Go">
 <!ENTITY certmgr.issuerinfo.label "Ntšhitšwe Ke">
 <!ENTITY certmgr.validity.label "Bonnete">
@@ -71,7 +76,7 @@
 <!ENTITY certmgr.editcert.edittrust "Rulaganya dipeakanyo tša tshepho:">
 <!ENTITY certmgr.editcert.trustssl "Setifikheiti se se ka hlaola diwepe saete.">
 <!ENTITY certmgr.editcert.trustemail "Setifikheiti se se ka hlaola badiriši ba thomelo.">
-<!ENTITY certmgr.editcert.trustobjsign "Setifikheiti se se ka hlaola diswaya tshedimošo.">
+<!ENTITY certmgr.editcert.trustobjsign "Setifikeiti se se ka šupa badiri ba lenaneotirišo la khomphutha.">
 <!ENTITY certmgr.editsslcert.edittrust "Rulaganya dipeakanyo tša tshepho ya setifikheiti:">
 <!ENTITY certmgr.editsslcert.dotrust "Tshepha bonnete bja setifikheiti se.">
 <!ENTITY certmgr.editsslcert.donttrust "Se ke wa tshepha bonnete bja setifikheiti se.">
@@ -88,36 +93,55 @@
 <!ENTITY certmgr.deleteusercert.aftername "Morago ga gore o phumule setifikheiti se, o ka se kgone go bala poso yeo e enkriptilwego ka yona.">
 
 <!ENTITY certmgr.certname "Leina la Setifikheiti">
+<!ENTITY certmgr.certserver "Sebara">
+<!ENTITY certmgr.override_lifetime "Lifetime">
 <!ENTITY certmgr.tokenname "Setlabela sa Tšhireletšo">
-<!ENTITY certmgr.purpose "Dinepo">
 <!ENTITY certmgr.issued "Ntšhitšwe Ka">
 <!ENTITY certmgr.expires "E felelwa ke nako Ka">
 <!ENTITY certmgr.email "Aterese ya E-Poso">
 <!ENTITY certmgr.serial "Nomoro ya Seriale">
-<!ENTITY certmgr.ocsp_info "Disetifikheiti ga se nke di netefatšwa ka OCSP. Kgotla Lebelela go dira bjalo.">
 
-<!ENTITY certmgr.close.label "Close">
-<!ENTITY certmgr.close.accesskey "C">
-<!ENTITY certmgr.view.label "View">
-<!ENTITY certmgr.view.accesskey "V">
-<!ENTITY certmgr.edit.label "Edit">
-<!ENTITY certmgr.edit.accesskey "E">
-<!ENTITY certmgr.editca.label "Edit CA Trust">
-<!ENTITY certmgr.editca.accesskey "d">
-<!ENTITY certmgr.add.label "Add">
-<!ENTITY certmgr.add.accesskey "A">
-<!ENTITY certmgr.delete.label "Delete">
-<!ENTITY certmgr.delete.accesskey "D">
-<!ENTITY certmgr.backup.label "Backup">
-<!ENTITY certmgr.backup.accesskey "B">
-<!ENTITY certmgr.backupall.label "Backup All">
-<!ENTITY certmgr.backupall.accesskey "k">
-<!ENTITY certmgr.restore.label "Import">
-<!ENTITY certmgr.restore.accesskey "m">
-<!ENTITY certmgr.details.label "Certificate Fields">
-<!ENTITY certmgr.details.accesskey "F">
-<!ENTITY certmgr.fields.label "Field Value">
-<!ENTITY certmgr.fields.accesskey "V">
-<!ENTITY certmgr.hierarchy.label "Certificate Hierarchy">
-<!ENTITY certmgr.hierarchy.accesskey "C">
+<!ENTITY certmgr.close.label "Tswalela">
+<!ENTITY certmgr.close.accesskey "s">
+<!ENTITY certmgr.view2.label "Lebelela…">
+<!ENTITY certmgr.view2.accesskey "b">
+<!ENTITY certmgr.edit3.label "Edit Trust…">
+<!ENTITY certmgr.edit3.accesskey "E">
+<!ENTITY certmgr.editca.label "Rulaganya tshepho ya CA">
+<!ENTITY certmgr.editca.accesskey "e">
+<!ENTITY certmgr.add.label "Oketša">
+<!ENTITY certmgr.add.accesskey "a">
+<!ENTITY certmgr.export.label "Export…">
+<!ENTITY certmgr.export.accesskey "x">
+<!ENTITY certmgr.delete2.label "Phumola...">
+<!ENTITY certmgr.delete2.accesskey "P">
+<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.accesskey "D">
+<!ENTITY certmgr.backup2.label "Pekapo...">
+<!ENTITY certmgr.backup2.accesskey "P">
+<!ENTITY certmgr.backupall2.label "Dira pekapo ya tšohle...">
+<!ENTITY certmgr.backupall2.accesskey "k">
+<!ENTITY certmgr.restore2.label "Amogela">
+<!ENTITY certmgr.restore2.accesskey "m">
+<!ENTITY certmgr.details.label "Mafelo a setifikeiti">
+<!ENTITY certmgr.details.accesskey "f">
+<!ENTITY certmgr.fields.label "Boleng bja lefelo">
+<!ENTITY certmgr.fields.accesskey "B">
+<!ENTITY certmgr.hierarchy.label "Tatelano ya setifikeiti">
+<!ENTITY certmgr.hierarchy.accesskey "s">
+<!ENTITY certmgr.addException.label "Oketša tše sa akaretšwego…">
+<!ENTITY certmgr.addException.accesskey "k">
 
+<!ENTITY exceptionMgr.title "Add Security Exception">
+<!ENTITY exceptionMgr.exceptionButton "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButtonAccess "C">
+<!ENTITY exceptionMgr.supplementalWarning "Legitimate banks, stores, and other public sites will not ask you to do this.">
+<!ENTITY exceptionMgr.certlocation.caption2 "Sebara">
+<!ENTITY exceptionMgr.certlocation.url "Lefelo:">
+<!ENTITY exceptionMgr.certlocation.download "Get Certificate">
+<!ENTITY exceptionMgr.certlocation.accesskey "G">
+<!ENTITY exceptionMgr.certstatus.caption "Certificate Status">
+<!ENTITY exceptionMgr.certstatus.viewCert "View…">
+<!ENTITY exceptionMgr.certstatus.accesskey "V">
+<!ENTITY exceptionMgr.permanent.label "Permanently store this exception">
+<!ENTITY exceptionMgr.permanent.accesskey "P">

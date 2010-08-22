@@ -1,11 +1,10 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Tsenya lefelo la Wepe (URL), goba laetša faele ya tikologo yeo o nyakago go e bula:">
-<!ENTITY chooseFile.label "Kgetha Faele...">
-<!ENTITY newWindow.label "Lefasetere le Leswa">
-<!ENTITY newTab.label "Thepe ye Mpsha">
-<!ENTITY topWindow.label "Lefasetere la Bjale">
-<!ENTITY caption.label "Bula Lefelo la Wepe">
-<!ENTITY openWhere.label "Bula ka go:">
-<!ENTITY example.label "Mohlala: &vendorURL;">
+<!ENTITY enter.label "Tsenya lefelo la wepe (URL), goba laetša faele ya mo lapeng yeo o nyakago go e bula:">
+<!ENTITY chooseFile.label "Kgetha faele…">
+<!ENTITY newTab.label "Thepo e mpsha">
+<!ENTITY newWindow.label "Lefasetere le leswa">
+<!ENTITY topTab.label "Thepo ya gona bjale">
+<!ENTITY caption.label "Bula lefelo la wepe">
+<!ENTITY openWhere.label "Bula go:">
 <!ENTITY openBtn.label "Bula">

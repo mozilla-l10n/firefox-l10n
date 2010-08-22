@@ -1,15 +1,8 @@
-<!ENTITY brandMotto "Hwetša lefsa Webe">
-<!ENTITY credit.leads "Boentšinere bo eta pele">
-<!ENTITY credit.core "Posse ya Tšwelopele ya Motheo">
-<!ENTITY credit.gecko "Peakanyo ya Entšine ya Gecko">
-<!ENTITY credit.thanks "Ditebogišo tše Kgethegilego Go">
+<!ENTITY brandMotto "Hwetša wepe gape">
+<!ENTITY credit.thanks "Ditebogo tše kgethegilego go">
 
-<!ENTITY credit.thanks2 "Many thanks to our">
-<!ENTITY credit.prethanks "">
-<!ENTITY credit.friends "Friends">
-<!ENTITY credit.and "&amp;">
-<!ENTITY credit.contributors "Contributors">
-<!ENTITY credit.postthanks "">
+<!ENTITY credit.thanks2 "Re leboga kudu">
+<!ENTITY credit.contributors2 "batsenya-letsogo">
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
@@ -18,19 +11,5 @@
 
 <!ENTITY credit.translation "">
 
-<!ENTITY credit.visuals "Sekgokaganyi sa Boakanyetšo bjo Bonalago">
-<!ENTITY credit.theme "Moakanyetšo wa Tabakgolo">
-<!ENTITY credit.brand "Tlhaolo ya Leswao">
-<!ENTITY credit.web "Moakanyetšo wa Webe">
-<!ENTITY credit.update "Kaonafatšo ya Mozilla">
-<!ENTITY credit.qalead "Tiišetšo ya Khwalithi e eta pele">
-<!ENTITY credit.qa "Tiišetšo ya Khwalithi">
-<!ENTITY credit.build "Aga le Lokolla">
-<!ENTITY credit.infra "Thekgo ya Mananeokgoparara">
-<!ENTITY credit.support "Methopo ya Thekgo">
-<!ENTITY credit.manage "Taolo ya Protšeke">
-<!ENTITY credit.marketleads "Ketapele ya Papatšo">
-<!ENTITY credit.market "Papatšo">
-<!ENTITY credit.creators "Hlamilwe Ke">
-<!ENTITY credit.memory "Go Gopolwa ka Lerato">
-<!ENTITY credit.poweredByGecko "E thekgilwe ke Gecko&trade;">
+<!ENTITY credit.memory "Go gopolwa ka lerato">
+<!ENTITY credit.poweredByGeckoReg "Matlafaditšwe ke Gecko&reg;">

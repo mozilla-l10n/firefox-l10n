@@ -1,12 +1,12 @@
-<!ENTITY dialog.title "Beakanya Thulupaa">
-<!ENTITY dialog.style "width: 635px; height: 400px;">
-<!ENTITY instructions.description "O ka lokela goba wa šuthiša dilo ka go goga go ya go goba go tšwa go dithulupaa.">
+<!ENTITY dialog.title "Beakanya thulupaa">
+<!ENTITY dialog.style "width: 86ch; height: 36em;">
+<!ENTITY instructions.description "O ka oketša goba wa šuthiša dilo ka go goga go ya go goba go tšwa go dithulupaa.">
 <!ENTITY show.label "Laetša:">
-<!ENTITY iconsAndText.label "Maswao le Sengwalwa">
-<!ENTITY icons.label "Maswao">
+<!ENTITY iconsAndText.label "Diaekhone le sengwalwa">
+<!ENTITY icons.label "Diaekhone">
 <!ENTITY text.label "Sengwalwa">
-<!ENTITY useSmallIcons.label "Šomiša Maswao a Mannyane">
-<!ENTITY restoreDefaultSet.label "Boloka Peakanyo ya Defolete">
-<!ENTITY addNewToolbar.label "Lokela Thulupaa e Mpsha">
+<!ENTITY useSmallIcons.label "Diriša diaekhone tše nyenyane">
+<!ENTITY restoreDefaultSet.label "Bušetša peakanyo ya tirelwa">
+<!ENTITY addNewToolbar.label "Oketša thulupaa e mpsha">
 <!ENTITY saveChanges.label "Feditše">
-<!ENTITY undoChanges.label "Dirolla Diphetogo">
+<!ENTITY undoChanges.label "Dirolla diphetogo">

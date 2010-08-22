@@ -1,15 +1,12 @@
 
-<!ENTITY history.title "Kaonafatša Histori">
-<!ENTITY history.intro "Dikaonafatšo tše di latelago di loketšwe:">
+<!ENTITY history.title "Mpshafatša histori">
+<!ENTITY history.intro "Dimpshafatšo tše di latelago di loketšwe:">
 <!ENTITY closebutton.label "Tswalela">
                                      
-<!ENTITY detailsButton.label "Tshedimošo">
-<!ENTITY detailsButton.accesskey "T">
+<!ENTITY noupdates.label "Ga go dimpshafatšo tše di šetšego di loketšwe">
 
-<!ENTITY noupdates.label "Ga go dikaonafatšo tše di šetšego di loketšwe">
-
-<!ENTITY name.header "Kaonafatša Leina">
-<!ENTITY date.header "Lokela Tšatšikgwedi">
+<!ENTITY name.header "Mpshafatša leina">
+<!ENTITY date.header "Lokela letšatšikgwedi">
 <!ENTITY type.header "Mohuta">
-<!ENTITY state.header "Seemo">
+<!ENTITY state.header "Boemo">
 

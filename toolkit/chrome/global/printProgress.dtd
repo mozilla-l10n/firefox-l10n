@@ -2,8 +2,8 @@
 <!ENTITY printWindow.title "Go gatiša">
 <!ENTITY title "Thaetlele:">
 <!ENTITY progress "Kgatelopele:">
-<!ENTITY preparing "Go itokiša...">
-<!ENTITY printComplete "Kgatišo e Feditšwe.">
+<!ENTITY preparing "Go itokiša…">
+<!ENTITY printComplete "Kgatišo e feditšwe.">
 
 <!ENTITY dialogCancel.label "Khansela">
 <!ENTITY dialogClose.label "Tswalela">
@@ -15,4 +15,3 @@
     #1 will be replaced by the percentage of the file that has been saved -->
 
 <!ENTITY percentPrint "#1&#037;">
-

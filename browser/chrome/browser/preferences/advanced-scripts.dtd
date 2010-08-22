@@ -35,18 +35,18 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "Advanced JavaScript Settings">
+<!ENTITY advancedJSDialog.title "Dipeakanyo tše gatetšego pele tša JavaScript">
 <!ENTITY window.width "37em">
 
-<!ENTITY allowScripts.label "Allow scripts to:">
+<!ENTITY allowScripts.label "Dumelela dingwalwa go:">
 
-<!ENTITY moveResizeWindows.label "Move or resize existing windows">
-<!ENTITY moveResizeWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label "Raise or lower windows">
-<!ENTITY raiseLowerWindows.accesskey "R">
-<!ENTITY disableContextMenus.label "Disable or replace context menus">
-<!ENTITY disableContextMenus.accesskey "D">
-<!ENTITY hideStatusBar.label "Hide the status bar">
-<!ENTITY hideStatusBar.accesskey "H">
-<!ENTITY changeStatusBar.label "Change status bar text">
-<!ENTITY changeStatusBar.accesskey "C">
+<!ENTITY moveResizeWindows.label "Šuthiša goba o lokiše bogolo bja mafasetere ao a šetšego a le gona">
+<!ENTITY moveResizeWindows.accesskey "t">
+<!ENTITY raiseLowerWindows.label "Iša godimo goba o theoše mafasetere">
+<!ENTITY raiseLowerWindows.accesskey "I">
+<!ENTITY disableContextMenus.label "Šitiša goba o tšee legato la diteng tša dikagare">
+<!ENTITY disableContextMenus.accesskey "i">
+<!ENTITY hideStatusBar.label "Fihla para ya boemo">
+<!ENTITY hideStatusBar.accesskey "F">
+<!ENTITY changeStatusBar.label "Fetoša sengwalwa sa para ya boemo">
+<!ENTITY changeStatusBar.accesskey "e">

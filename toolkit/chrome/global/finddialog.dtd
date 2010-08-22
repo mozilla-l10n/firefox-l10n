@@ -1,17 +1,13 @@
 <!-- extracted from finddialog.xul -->
 
-<!ENTITY findDialog.title "Hwetša mo Letlakaleng le">
-<!ENTITY findDialogFrame.title "Hwetša mo Foreiming ye">
+<!ENTITY findDialog.title "Hwetša mo letlakaleng le">
 <!ENTITY findField.label "Hwetša eng:">
 <!ENTITY findField.accesskey "t">
-<!ENTITY caseSensitiveCheckbox.label "Nyalelanya mongwalo">
-<!ENTITY caseSensitiveCheckbox.accesskey "n">
+<!ENTITY caseSensitiveCheckbox.label "Swantšha mongwalo">
+<!ENTITY caseSensitiveCheckbox.accesskey "h">
 <!ENTITY wrapCheckbox.label "Phuthela">
 <!ENTITY wrapCheckbox.accesskey "P">
-<!ENTITY backwardsCheckbox.label "Nyaka ka sa morago">
-<!ENTITY backwardsCheckbox.accesskey "k">
-<!ENTITY findField.tooltip "Thaepa lentšu le tee goba a mantši go nyaka">
-<!ENTITY findButton.label "Hwetša e Latelago">
+<!ENTITY findButton.label "Hwetša e latelago">
 <!ENTITY findButton.accesskey "H">
 <!ENTITY cancelButton.label "Khansela">
 <!ENTITY closeButton.label "Tswalela">
@@ -19,4 +15,4 @@
 <!ENTITY up.accesskey "G">
 <!ENTITY down.label "Fase">
 <!ENTITY down.accesskey "F">
-<!ENTITY direction.label "Tšhupetšo">
+<!ENTITY direction.label "Boyo">

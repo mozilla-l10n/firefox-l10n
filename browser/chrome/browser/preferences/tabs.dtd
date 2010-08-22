@@ -1,20 +1,17 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
+<!ENTITY newWindowsAsTabs.label "Go e na le moo bula mafasetere a maswa go thepo e mpsha">
+<!ENTITY newWindowsAsTabs.accesskey "t">
 
-<!ENTITY newPagesIn.label "New pages should be opened in:">
-<!ENTITY inNewWindow.label "a new window">
-<!ENTITY inNewWindow.accesskey "w">
-<!ENTITY inNewTab.label "a new tab">
-<!ENTITY inNewTab.accesskey "t">
+<!ENTITY warnCloseMultipleTabs.label "Ntemoše ge go tswalelwa dithepo tše ntšhi">
+<!ENTITY warnCloseMultipleTabs.accesskey "N">
 
-<!ENTITY warnCloseMultipleTabs.label "Warn me when closing multiple tabs">
-<!ENTITY warnCloseMultipleTabs.accesskey "m">
+<!ENTITY warnOpenManyTabs.label "Ntemoše ge go bula dithepo tše ntšhi go ka theoša lebelo la &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "b">
 
-<!ENTITY warnOpenManyTabs.label "Warn me when opening multiple tabs might slow down &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "o">
+<!ENTITY showTabBar.label "Ka mehla laetša para ya thepo">
+<!ENTITY showTabBar.accesskey "p">
 
-<!ENTITY showTabBar.label "Always show the tab bar">
-<!ENTITY showTabBar.accesskey "b">
+<!ENTITY switchToNewTabs.label "Ge ke bula lomaganyo go thepo e mpsha, fetogela go yona ka pejana">
+<!ENTITY switchToNewTabs.accesskey "f">
 
-<!ENTITY switchToNewTabs.label "When I open a link in a new tab, switch to it immediately">
-<!ENTITY switchToNewTabs.accesskey "s">
+<!ENTITY showTabsInTaskbar.label "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.accesskey "k">

@@ -43,18 +43,18 @@
 <!ENTITY devmgr.status.label "Maemo">
 <!ENTITY devmgr.version.label "Tšweletšo">
 
-<!ENTITY devmgr.button.changeslotname.label "Change Slot Name">
-<!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label "Log In">
+<!ENTITY devmgr.button.changeslotname.label "Fetoša leina la sekgoba">
+<!ENTITY devmgr.button.changeslotname.accesskey "F">
+<!ENTITY devmgr.button.login.label "Tsena">
 <!ENTITY devmgr.button.login.accesskey "n">
-<!ENTITY devmgr.button.logout.label "Log Out">
-<!ENTITY devmgr.button.logout.accesskey "O">
-<!ENTITY devmgr.button.changepw.label "Change Password">
-<!ENTITY devmgr.button.changepw.accesskey "P">
-<!ENTITY devmgr.button.load.label "Load">
-<!ENTITY devmgr.button.load.accesskey "L">
-<!ENTITY devmgr.button.unload.label "Unload">
-<!ENTITY devmgr.button.unload.accesskey "U">
+<!ENTITY devmgr.button.logout.label "E-tšwa">
+<!ENTITY devmgr.button.logout.accesskey "E">
+<!ENTITY devmgr.button.changepw.label "Fetoša lentšuphetišo">
+<!ENTITY devmgr.button.changepw.accesskey "p">
+<!ENTITY devmgr.button.load.label "Hlahlela">
+<!ENTITY devmgr.button.load.accesskey "l">
+<!ENTITY devmgr.button.unload.label "Se hlahlele">
+<!ENTITY devmgr.button.unload.accesskey "h">
 <!ENTITY devmgr.button.fips.accesskey "F">
 
 <!ENTITY loaddevice.info "Tsenya tshedimošo ya motšule wo o nyakago go o lokela.">
@@ -63,7 +63,7 @@
 <!ENTITY loaddevice.modname.default "Motšule o Mofsa wa PKCS#11">
 <!ENTITY loaddevice.filename "Leina la faele ya Motšule:">
 <!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "Fetleka...">
+<!ENTITY loaddevice.browse "Fetleka…">
 <!ENTITY loaddevice.browse.accesskey "B">
 
 <!ENTITY loaddevice.title "Hlahlela Setlabela sa PKCS#11">

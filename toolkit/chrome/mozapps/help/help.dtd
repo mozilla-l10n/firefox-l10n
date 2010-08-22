@@ -10,10 +10,10 @@
 <!ENTITY forwardButton.label "Pele">
 <!ENTITY forwardButton.accesskey "P">
 <!ENTITY forwardButton.tooltip "Eya pele ka letlakala le tee">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY copyCmd.label "Kopolla">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Kgetha Ka moka">
+<!ENTITY selectAllCmd.accesskey "K">
 <!ENTITY goBackCmd.commandkey "[">
 <!ENTITY goForwardCmd.commandkey "]">
 <!ENTITY homeButton.label "Gae">
@@ -22,26 +22,32 @@
 <!ENTITY printButton.tooltip "Gatiša letlakala le">
 <!ENTITY closeWindow.commandkey "W">
 
-<!ENTITY throbberItem.title "Tšhupetša Tiragalo">
-<!ENTITY throbber.tooltip "Eya go Thuša mo go karolong ya Thušo">
-
-<!ENTITY searchtab.label "Nyaka">
-<!ENTITY searchtab.accesskey "N">
+<!ENTITY search.emptytext "Nyaka">
+<!ENTITY searchHeader.label "Search results">
 <!ENTITY toctab.label "Diteng">
 <!ENTITY toctab.accesskey "D">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
+
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
 
 <!ENTITY helpSearch.commandkey "k">
 
 <!ENTITY zLevel.label "Ka mehla e Godimo">
 <!ENTITY zLevel.accesskey "G">
 
-<!ENTITY textZoomReduceBtn.label "Fokotša Saese ya Sengwalwa">
-<!ENTITY textZoomReduceBtn.accesskey "F">
-<!ENTITY textZoomEnlargeBtn.label "Oketša Saese ya Sengwalwa">
-<!ENTITY textZoomEnlargeBtn.accesskey "O">
+<!ENTITY fullZoomReduceBtn.label "Godišetša ntle">
+<!ENTITY fullZoomReduceBtn.accesskey "n">
+<!ENTITY fullZoomEnlargeBtn.label "Godišetša ka gare">
+<!ENTITY fullZoomEnlargeBtn.accesskey "g">

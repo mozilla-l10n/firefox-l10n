@@ -1,52 +1,37 @@
-<!ENTITY blockPopups.label "Block pop-up windows">
-<!ENTITY blockPopups.accesskey "B">
-<!ENTITY popupExceptions.label "Maarogi...">
-<!ENTITY popupExceptions.accesskey "M">
+<!ENTITY blockPopups.label "Thibela mafasetere a runyago">
+<!ENTITY blockPopups.accesskey "T">
+<!ENTITY popupExceptions.label "Tše sa akaretšwego…">
+<!ENTITY popupExceptions.accesskey "T">
 
-<!ENTITY loadImages.label "Load images automatically">
-<!ENTITY loadImages.accesskey "I">
-<!ENTITY exceptions.label "Maarogi...">
-<!ENTITY exceptions.accesskey "a">
+<!ENTITY loadImages.label "Hlahlela diswantšho ka maitirišo">
+<!ENTITY loadImages.accesskey "d">
+<!ENTITY exceptions.label "Tše sa akaretšwego…">
+<!ENTITY exceptions.accesskey "k">
 
-<!ENTITY enableJavaScript.label "Enable JavaScript">
+<!ENTITY enableJavaScript.label "Kgonagatša JavaScript">
 <!ENTITY enableJavaScript.accesskey "J">
-<!ENTITY advancedJS.label "Advanced...">
-<!ENTITY advancedJS.accesskey "v">
+<!ENTITY advancedJS.label "Gatetšego pele…">
+<!ENTITY advancedJS.accesskey "t">
 
-<!ENTITY enableJava.label "Kgontšha Java">
-<!ENTITY enableJava.accesskey "g">
+<!ENTITY enableJava.label "Kgonagatša Java">
+<!ENTITY enableJava.accesskey "J">
 
 
-<!ENTITY fontsAndColors.label "Difonte &amp; Mebala">
+<!ENTITY fontsAndColors.label "Difonte &amp; mebala">
 
-<!ENTITY defaultFont.label "Fonto ya Tifolete:">
+<!ENTITY defaultFont.label "Fonte ya tirelwa:">
 <!ENTITY defaultFont.accesskey "F">
-<!ENTITY defaultSize.label "Saese:">
-<!ENTITY defaultSize.accesskey "e">
+<!ENTITY defaultSize.label "Bogolo:">
+<!ENTITY defaultSize.accesskey "B">
 
-<!ENTITY advancedFonts.label "Gatetšego pele...">
-<!ENTITY advancedFonts.accesskey "a">
+<!ENTITY advancedFonts.label "Gatetšego pele…">
+<!ENTITY advancedFonts.accesskey "G">
 
-<!ENTITY colors.label "Mebala...">
+<!ENTITY colors.label "Mebala…">
 <!ENTITY colors.accesskey "M">
 
 
-<!ENTITY feeds.label "Feeds">
-
-<!ENTITY feedReader.label "Feed Reader:">
-<!ENTITY feedReader.accesskey "F">
-
-<!ENTITY feedClick.label "When I click on a web feed:">
-<!ENTITY ask.label "Ask me what to use">
-<!ENTITY ask.accesskey "A">
-<!ENTITY subLiveBookmark.label "Always subscribe with a Live Bookmark">
-<!ENTITY subLiveBookmark.accesskey "L">
-<!ENTITY subReader.label "Always subscribe using the Feed Reader">
-<!ENTITY subReader.accesskey "R">
-
-
-<!ENTITY fileTypes.label "File Types">
-
-<!ENTITY configureFileTypes.label "Configure how &brandShortName; handles certain types of files">
-<!ENTITY manage.label "Manage...">
-<!ENTITY manage.accesskey "M">
+<!ENTITY languages.label "Maleme">
+<!ENTITY chooseLanguage.label "Kgetha leleme leo o le kganyogago la go bontšha matlakala">
+<!ENTITY chooseButton.label "Kgetha…">
+<!ENTITY chooseButton.accesskey "g">

@@ -2,27 +2,25 @@
 <!ENTITY find.accesskey "N">
 <!ENTITY expand.label "Katološa">
 <!ENTITY expand.accesskey "K">
-<!ENTITY collapse.label "Phuhlama">
+<!ENTITY collapse.label "Phuhlamiša">
 <!ENTITY collapse.accesskey "P">
-<!ENTITY byDate.label "Ka Tšatšikgwedi">
-<!ENTITY byDate.accesskey "T">
-<!ENTITY bySite.label "Ka Saete">
-<!ENTITY bySite.accesskey "S">
-<!ENTITY view.label "Lebelela">
+<!ENTITY byDate.label "Ka letšatšikgwedi">
+<!ENTITY byDate.accesskey "l">
+<!ENTITY bySite.label "Ka saete">
+<!ENTITY bySite.accesskey "s">
+<!ENTITY view.label "Tebelelo">
 <!ENTITY view.accesskey "l">
-<!ENTITY byMostVisited.label "Ka tšeo di Etetšwego ka Bontši">
-<!ENTITY byMostVisited.accesskey "E">
-<!ENTITY byLastVisited.label "Ka Etetšwego la Mafelelo">
-<!ENTITY byLastVisited.accesskey "E">
-<!ENTITY byDayAndSite.label "Ka Tšatšikgwedi le Saete">
-<!ENTITY byDayAndSite.accesskey "k">
+<!ENTITY byMostVisited.label "Ka tšeo di etetšwego gantši">
+<!ENTITY byMostVisited.accesskey "e">
+<!ENTITY byLastVisited.label "Ka e etetšwego la mafelelo">
+<!ENTITY byLastVisited.accesskey "m">
+<!ENTITY byDayAndSite.label "Ka letšatšikgwedi le saete">
+<!ENTITY byDayAndSite.accesskey "t">
 <!ENTITY openLinkInWindow.label "Bula">
 <!ENTITY openLinkInWindow.accesskey "B">
-<!ENTITY openInNewTab.label "Bula go Thepe e Mpsha">
-<!ENTITY openInNewTab.accesskey "T">
-<!ENTITY openInNewWindow.label "Bula go Lefasetere le Lefsa">
-<!ENTITY openInNewWindow.accesskey "L">
-<!ENTITY bookmarkLink.label "Swaya Nyalantšho Ye...">
-<!ENTITY bookmarkLink.accesskey "S">
-<!ENTITY copyLink.label "Khopa Lefelo la Nyalantšho">
+<!ENTITY openInNewTab.label "Bula go thepo e mpsha">
+<!ENTITY openInNewTab.accesskey "t">
+<!ENTITY openInNewWindow.label "Bula go lefasetere le leswa">
+<!ENTITY openInNewWindow.accesskey "l">
+<!ENTITY copyLink.label "Kopiša lefelo la lomaganyo">
 <!ENTITY copyLink.accesskey "K">

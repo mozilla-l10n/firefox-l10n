@@ -1,19 +1,20 @@
 <!ENTITY cutCmd.label "Ripa">
 <!ENTITY cutCmd.accesskey "a">
-<!ENTITY copyCmd.label "Khopa">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.label "Kopiša">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Kgomaretša">
-<!ENTITY pasteCmd.accesskey "k">
+<!ENTITY pasteCmd.accesskey "K">
 <!ENTITY undoCmd.label "Dirolla">
-<!ENTITY undoCmd.accesskey "d">
-<!ENTITY selectAllCmd.label "Kgetha ka Moka">
-<!ENTITY selectAllCmd.accesskey "k">
-<!ENTITY deleteCmd.label "Phumula">
-<!ENTITY deleteCmd.accesskey "p">
-<!ENTITY spellAddToDictionary.label "Add to dictionary">
-<!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellEnable.label "Spell check this field">
-<!ENTITY spellEnable.accesskey "S">
-<!ENTITY spellNoSuggestions.label "(No spelling suggestions)">
-<!ENTITY spellDictionaries.label "Languages">
-<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY undoCmd.accesskey "D">
+<!ENTITY selectAllCmd.label "Kgetha tšohle">
+<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY deleteCmd.label "Phumola">
+<!ENTITY deleteCmd.accesskey "P">
+
+<!ENTITY spellAddToDictionary.label "Oketša go pukuntšu">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellCheckEnable.label "Lekola mopeleto">
+<!ENTITY spellCheckEnable.accesskey "m">
+<!ENTITY spellNoSuggestions.label "(Ga go na ditšhišinyo tša mopeleto)">
+<!ENTITY spellDictionaries.label "Maleme">
+<!ENTITY spellDictionaries.accesskey "M">

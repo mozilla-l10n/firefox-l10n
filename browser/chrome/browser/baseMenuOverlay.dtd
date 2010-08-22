@@ -1,7 +1,7 @@
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Fokotša">
-<!ENTITY bringAllToFront.label "Tliša ka moka ka Pele">
-<!ENTITY zoomWindow.label "Sebatametši">
+<!ENTITY minimizeWindow.label "Nyenyefatša">
+<!ENTITY bringAllToFront.label "Tliša tšohle ka pele">
+<!ENTITY zoomWindow.label "Godiša">
 <!ENTITY windowMenu.label "Lefasetere">
 
 <!ENTITY helpMenu.label "Thušo">
@@ -10,40 +10,31 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Thušo">
 <!ENTITY helpMenuWin.accesskey "T">
-<!ENTITY aboutCmd.label "Mabapi le &brandFullName;">
-<!ENTITY aboutCmd.accesskey "M">
-<!ENTITY helpContents.label "Diteng tša Thušo">
-<!ENTITY helpContents.accesskey "D">
-<!ENTITY helpContentsMac.label "&brandShortName; Thuša">
-<!ENTITY helpForIEUsers.label "Go Bašomiši ba Internet Explorer">
+<!ENTITY aboutProduct.label "About &brandShortName;">
+<!ENTITY aboutProduct.accesskey "A">
+<!ENTITY productHelp.label "&brandShortName; Help">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY helpForIEUsers.label "Bakeng sa badiriši ba Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.commandkey "VK_HELP">
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac2.commandkey "/">
-<!ENTITY openHelpMac2.modifiers "accel,shift">
-<!ENTITY openHelpMac2.frontendCommandkey "?">
-<!ENTITY openHelpMac2.frontendModifiers "accel">
+<!ENTITY helpMac.commandkey "?">
 
-<!ENTITY helpReleaseNotes.label "Lokolla Dikgakollo">
+<!ENTITY helpReleaseNotes.label "Dikgakollo tša tokollo">
 <!ENTITY helpReleaseNotes.accesskey "D">
-<!ENTITY updateCmd.label "Lekola ya Beakanyalefsa...">
-<!ENTITY updateCmd.accesskey "a">
 
-<!ENTITY preferencesCmdMac.label "Preferences...">
+<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey "T">
+
+<!ENTITY updateCmd.label "Lekola dikaonafatšo…">
+
+<!ENTITY preferencesCmdMac.label "Dikganyogo…">
 <!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
 
-<!ENTITY servicesMenuMac.label "Services">
+<!ENTITY servicesMenuMac.label "Ditirelo">
 
-<!ENTITY hideThisAppCmdMac.label "Hide &brandShortName;">
+<!ENTITY hideThisAppCmdMac.label "Uta &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
 
-<!ENTITY hideOtherAppsCmdMac.label "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.label "Uta tše dingwe">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label "Show All">
+<!ENTITY showAllAppsCmdMac.label "Bontšha tšohle">

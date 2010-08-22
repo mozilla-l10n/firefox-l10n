@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Northern Sotho
+#define MOZ_LANG_TITLE Sesotho sa lebowa

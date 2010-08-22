@@ -35,20 +35,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label "Gatiša...">
+<!ENTITY print.label "Gatiša…">
 <!ENTITY print.accesskey "G">
-<!ENTITY pageSetup.label "Peakanyo ya Letlakala...">
+<!ENTITY pageSetup.label "Peakanyo ya letlakala…">
 <!ENTITY pageSetup.accesskey "a">
-<!ENTITY page.label "Page:">
+<!ENTITY page.label "Letlakala:">
 <!ENTITY page.accesskey "a">
 <!ENTITY of.label "la">
-<!ENTITY scale.label "Scale:">
+<!ENTITY scale.label "Sekala:">
 <!ENTITY scale.accesskey "S">
-<!ENTITY percent.label "&#037;">
-<!ENTITY portrait.label "Portrait">
+<!ENTITY portrait.label "Seswantšho">
 <!ENTITY portrait.accesskey "o">
-<!ENTITY landscape.label "Ponagalo ya naga">
-<!ENTITY landscape.accesskey "P">
+<!ENTITY landscape.label "Ponagalo">
+<!ENTITY landscape.accesskey "l">
 <!ENTITY close.label "Tswalela">
 <!ENTITY close.accesskey "T">
 <!ENTITY p30.label "30&#037;">
@@ -63,11 +62,11 @@
 <!ENTITY p150.label "150&#037;">
 <!ENTITY p175.label "175&#037;">
 <!ENTITY p200.label "200&#037;">
-<!ENTITY Custom.label "Setlwaedi...">
-<!ENTITY ShrinkToFit.label "Hunyetša Go Lekanya">
-<!ENTITY customPrompt.title "Sekala sa Setlwaedi...">
+<!ENTITY Custom.label "Tlwaelo…">
+<!ENTITY ShrinkToFit.label "Hunyetša go lekanya">
+<!ENTITY customPrompt.title "Sekala sa tlwaelo…">
 
-<!ENTITY homearrow.tooltip "Letlakala la mathomo">
+<!ENTITY homearrow.tooltip "Letlakala la pele">
 <!ENTITY endarrow.tooltip "Letlakala la mafelelo">
-<!ENTITY rightarrow.tooltip "Letlakala la go latela">
-<!ENTITY leftarrow.tooltip "Letlakala la pele">
+<!ENTITY nextarrow.tooltip "Letlakala le latelago">
+<!ENTITY previousarrow.tooltip "Letlakala le fetilego">

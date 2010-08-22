@@ -51,7 +51,7 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Lokela Lentšuphetišo la Motheo">
-<!ENTITY getPassword.tokenName.label "Setlabelo sa Tšhireletšo">
+<!ENTITY getPassword.tokenName2.label "Security Device:">
 <!ENTITY getPassword.password.label "Lentšuphetišo:">
 <!-- These should be common -->
 
@@ -72,7 +72,7 @@
 <!ENTITY downloadCert.message1 "O kgopetšwe go tshepha Taolo e mpsha ya Disetifikheiti (CA).">
 <!ENTITY downloadCert.trustSSL "Tshepha CA ye go hlatha diwebe saete.">
 <!ENTITY downloadCert.trustEmail "Tshepha CA ye go hlatha bašomiši ba e-poso.">
-<!ENTITY downloadCert.trustObjSign "Tshepha CA go hlatha bahlabolli ba mananeo a khomphuthara.">
+<!ENTITY downloadCert.trustObjSign "Holofela CA ye šupa batšweletši ba mananeotirišo a khomphutha.">
 <!ENTITY downloadCert.message3 "Pele o ka tshepha CA ye morerong o mongwe le o mongwe, o swanetše go lekola setifikheiti sa yona le maano-tshepedišo le ditsela tša yona (ge di le gona).">
 <!ENTITY downloadCert.viewCert.label "Lebelela">
 <!ENTITY downloadCert.viewPolicy.label "Leano-Tshepedišo">
@@ -82,15 +82,6 @@
 
 <!ENTITY caCertExists.title "Setifikheiti se Gona">
 <!ENTITY caCertExists.message "Setifikheiti se šetše se le gona.">
-<!-- Strings for the MismatchDomain dialog  -->
-
-<!ENTITY domainMismatch.title "Phošo ya Tšhireletšo: Leina la Karolotaolo leo le sa Nyalelanego">
-<!ENTITY examineCert.label "Lebelela Setifikheiti">
-<!ENTITY examineCert.accesskey "L">
-<!-- Strings for the Server cert expired dialog  -->
-
-<!ENTITY serverCertExpired.continue "Naa o nyaka go tšwela pele le ge go le bjalo?">
-<!ENTITY serverCertExpired.accept.label "Tšwela pele">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Kgopelo ya Tlhatho ya Modiriši">
@@ -119,15 +110,26 @@
 <!ENTITY escrowWarn.message1 "Ye Bohlokwa: Taolo ye ya setifikheiti e kgopetšwe go dira thekgo ya enkripšene ya senotlelo sa gago sa sephiri.">
 <!ENTITY escrowWarn.benefit1 "Mohola ke gore ge o lahlegelwa ke go fihlelela enkripšene ya senotlelo sa gago sa sephiri, o ka kgopela khopi go tšwa go taolo ye ya setifikheiti.">
 <!ENTITY escrowWarn.message2 "Le ge go le bjalo, enkripšene ya senotlelo sa gago sa sephiri e tla bolokwa ke taolo ya setifikheiti, gomme e ka šomišwa go bala e-poso ya gago yeo e enkripthilwego goba ditokumente ntle le tumelelo ya gago.">
+<!ENTITY examineCert.label "Lebelela Setifikheiti">
+<!ENTITY examineCert.accesskey "L">
 
 <!ENTITY serverCrlNextupdate.message "Ka kgopelo kgopela setsebi sa dikhomphuthara sa gago go hwetša thušo">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Go tšweletša Senotlelo sa Sephiri">
-<!ENTITY createCertInfo.msg1 "Tšweletšo ya Senotlelo e tšwela pele... Se se tla tšea metsotso e se mekae....">
-<!ENTITY createCertInfo.msg2 "Ka kgopelo ema...">
+<!ENTITY createCertInfo.msg1 "Tšweletšo ya Senotlelo e tšwela pele… Se se tla tšea metsotso e se mekae….">
+<!ENTITY createCertInfo.msg2 "Ka kgopelo ema…">
 <!-- Form Signing confirmation prompt -->
 
 <!ENTITY formSigning.title "Kgopelo ya go Saena Sengwalwa">
 <!ENTITY formSigning.cert "Go Saena Setifikheiti">
 <!ENTITY formSigning.confirmPassword "Go tiišetša gore o dumela go saena sengwalwa se sa molaetša o šomiša setifikheiti sa gago seo o se kgethilego, ka kgopelo tiišetša ka go lokela lentšuphetišo la motheo:">
+<!-- Strings for protectedAuth dialog -->
+
+<!ENTITY protectedAuth.title "Protected Token Authentication">
+<!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
+<!ENTITY protectedAuth.tokenName.label "Token:">
+
+<!ENTITY certErrorDlg.title "Secure Connection Failed">
+<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
+<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">

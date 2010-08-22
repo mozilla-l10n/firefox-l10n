@@ -1,9 +1,11 @@
 <!ENTITY aboutDialog.title "Ka ga &brandFullName;">
-<!ENTITY copyright "Dikrediti">
+<!ENTITY copyright "Ditumišo">
+<!ENTITY copyright.accesskey "C">
+<!ENTITY copyrightGNOME.accesskey "r">
 <!ENTITY aboutLink "&lt; Ka ga &brandFullName;">
-<!ENTITY aboutVersion "tlhalošo">
-<!ENTITY copyrightText "&#169;1998-2006 Contributors. All Rights Reserved. Firefox and the 
-                                 Firefox logos are trademarks of the Mozilla Foundation.  All rights 
-                                 reserved. Some trademark rights used under license from The 
-                                 Charlton Company.">
-<!ENTITY cmdClose.macKey "W">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "kgatišo">
+<!ENTITY closeCmdGNOME.label "Tswalela">
+<!ENTITY closeCmdGNOME.accesskey "T">
+<!ENTITY licenseLinkText "Tshedimošo ya dilaesense">
+<!ENTITY licenseLinkSuffix ".">

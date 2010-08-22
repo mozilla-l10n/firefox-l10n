@@ -1,30 +1,28 @@
 <!ENTITY window.width "36em">
 
-<!ENTITY cookiesonsystem.label "Melaetša ye e latelago e beilwe ka khomphuthareng ya gago:">
-<!ENTITY cookiename.label "Leina la Molaetša">
+<!ENTITY cookiesonsystem.label "Dikhukhi tše latelago di beilwe ka khomphutheng ya gago:">
+<!ENTITY cookiename.label "Leina la khukhi">
 <!ENTITY cookiedomain.label "Saete">
-<!ENTITY button.removecookie.label "Šuthiša Molaetša">
-<!ENTITY button.removecookie.accesskey "Š">
-<!ENTITY button.removeallcookies.label "Šuthiša Melaetša Ka moka">
-<!ENTITY button.removeallcookies.accesskey "M">
+<!ENTITY button.removecookies.label "Remove Cookies">
+<!ENTITY button.removecookie.label "Tloša khukhi">
+<!ENTITY button.removecookie.accesskey "T">
+<!ENTITY button.removeallcookies.label "Tloša dikhukhi tšohle">
+<!ENTITY button.removeallcookies.accesskey "d">
 
 <!ENTITY props.name.label "Leina:">
 <!ENTITY props.value.label "Dikagare:">
-<!ENTITY props.domain.label "Monggae:">
-<!ENTITY props.path.label "Tsela:">
-<!ENTITY props.secure.label "Romela go:">
-<!ENTITY props.expires.label "Felela:">
+<!ENTITY props.domain.label "Moamogedi:">
+<!ENTITY props.path.label "Tsejana:">
+<!ENTITY props.secure.label "Romela bakeng sa:">
+<!ENTITY props.expires.label "Felelwa ke nako:">
 
-<!ENTITY window.title "Melaetša">
+<!ENTITY window.title "Dikhukhi">
 <!ENTITY windowClose.key "w">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 
 <!ENTITY filter.label "Nyaka:">
 <!ENTITY filter.accesskey "N">
-<!ENTITY clear.label "Hlwekiša">
-<!ENTITY clear.accesskey "l">
 
 <!ENTITY button.close.label "Tswalela">
 <!ENTITY button.close.accesskey "T">
-

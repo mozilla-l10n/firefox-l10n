@@ -1,11 +1,13 @@
-<!ENTITY window.width "38em">
-
-<!ENTITY ocspDialog.title "Kgonthišišo">
-<!ENTITY validation.ocsp.description "&brandShortName; e ka šomiša Prothokholo ya Seteithase ya Setifikheiti sa Kgokaganyo ya Megala ya go šoma (OCSP) go kgonthišiša disetifikheiti. Beakanya &brandShortName; go šomiša OCSP ka tsela ye e latelago:">
-<!ENTITY disableOCSP.label "O se ke wa šomiša OCSP go netefatša setifikheiti">
-<!ENTITY certOCSP.label "Šomiša OCSP go netefatša fela disetifikheiti tšeo di hlaolago tirelo ya OCSP go URL">
-<!ENTITY proxyOCSP.label "Šomiša OCSP go netefatša disetifikheiti ka moka o šomiša URL ye le mosaeni:">
+<!ENTITY ocspDialog.title "Certificate Validation">
+<!ENTITY enableOCSP.label "Use the Online Certificate Status Protocol (OCSP) to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey "U">
+<!ENTITY certOCSP2.label "Validate a certificate if it specifies an OCSP server">
+<!ENTITY certOCSP2.accesskey "V">
+<!ENTITY proxyOCSP2.label "Validate all certificates using the following OCSP server:">
+<!ENTITY proxyOCSP2.accesskey "a">
 <!ENTITY serviceURL.label "Tirelo ya URL:">
 <!ENTITY serviceURL.accesskey "T">
 <!ENTITY signingCA.label "Mosaena-Phetolo:">
 <!ENTITY signingCA.accesskey "M">
+<!ENTITY requireOCSP.label "When an OCSP server connection fails, treat the certificate as invalid">
+<!ENTITY requireOCSP.accesskey "W">

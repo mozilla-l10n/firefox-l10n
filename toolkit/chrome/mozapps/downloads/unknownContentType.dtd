@@ -39,27 +39,23 @@
 
 <!ENTITY intro.label "O kgethile go bula">
 <!ENTITY from.label "go tšwa go:">
-<!ENTITY actionQuestion.label "Naa &brandShortName; e swanetše go dira eng ka faele ye?">
+<!ENTITY actionQuestion.label "Na &brandShortName; e swanetše go dira eng ka faele ye?">
 
 <!ENTITY openWith.label "Bula ka">
-<!ENTITY openWith.accesskey "b">
-<!ENTITY other.label "Ye nngwe...">
+<!ENTITY openWith.accesskey "B">
+<!ENTITY other.label "Ye nngwe…">
 
-<!ENTITY save.label "Boloka go Tisiki">
-<!ENTITY save.accesskey "b">
+<!ENTITY saveFile.label "Boloka faele">
+<!ENTITY saveFile.accesskey "B">
 
-<!ENTITY rememberChoice.label "Dira se ka tsela ya othomethiki go difaele tša go swana le ye go tloga gabjale go ya go ile.">
+<!ENTITY rememberChoice.label "Dira se ka maitirišo go difaele tša go swana le ye go tloga gabjale go ya pele.">
 <!ENTITY rememberChoice.accesskey "k">
-
-<!ENTITY settingsChange.label "Settings can be changed in the Content section of Tools, Options.">
-<!ENTITY settingsChangeMac.label "Settings can be changed in the Content section of &brandShortName;, Preferences.">
-<!ENTITY settingsChangeUnix.label "Settings can be changed in the Content section of Edit, Preferences.">
 
 <!ENTITY whichIsA.label "yeo e lego:">
 
-<!ENTITY chooseHandlerMac.label "Kgetha...">
+<!ENTITY chooseHandlerMac.label "Kgetha…">
 <!ENTITY chooseHandlerMac.accesskey "K">
-<!ENTITY chooseHandler.label "Fetleka...">
-<!ENTITY chooseHandler.accesskey "F">
+<!ENTITY chooseHandler.label "Praosa…">
+<!ENTITY chooseHandler.accesskey "P">
 
-<!ENTITY unknownPromptText.label "Would you like to save this file?">
+<!ENTITY unknownPromptText.label "Na o ka rata go boloka faele ye?">

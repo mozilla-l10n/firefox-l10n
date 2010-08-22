@@ -1,49 +1,83 @@
-<!ENTITY loadError.label "Page Load Error">
-<!ENTITY retry.label "Try Again">
+<!ENTITY loadError.label "Phošo ya go hlahlela letlakala">
+<!ENTITY retry.label "Leka gape">
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Failed to Connect">
-<!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
+<!ENTITY connectionFailure.title "E paletšwe ke go kgokaganya">
+<!ENTITY connectionFailure.longDesc "<p>Gaešita le ge saete e bonagala e le ya kgonthe, praosara e paletšwe ke go thea kgokaganyo.</p><ul><li>Na saete e ka ba e se gona ka nakwana? Leka gape ka moragonyana.</li><li>Na ga o kgone go praosa disaete tše dingwe?  Lekola kgokaganyo ya neteweke ya khomphutha.</li><li>Na khomphutha ya gago goba neteweke di šireleditšwe ke sešireletši goba kemedi? Dipeakanyo tšeo di fošagetšego di ka šitišana le go praosa ga wepe.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Port Restricted for Security Reasons">
-<!ENTITY deniedPortAccess.longDesc "<p>The requested address specified a port (e.g. <q>mozilla.org:80</q> for port 80 on mozilla.org) normally used for purposes <em>other</em> than Web browsing. The browser has canceled the request for your protection and security.</p>">
+<!ENTITY deniedPortAccess.title "Tswalantšho e thibetšwe ka mabaka a tšhireletšo">
+<!ENTITY deniedPortAccess.longDesc "<p>Aterese e kgopetšwego e laeditše tswalantšho (ka mohlala, <q>mozilla.org:80</q> bakeng sa tswalantšho 80 go mozilla.org) yeo ka tlwaelo e dirišetšwago merero e <em>mengwe</em> ka ntle le go praosa wepe. Praosara e khansetše kgopelo gore e go šireletše.</p>">
 
-<!ENTITY dnsNotFound.title "Address Not Found">
-<!ENTITY dnsNotFound.longDesc "<p>The browser could not find the host server for the provided address.</p><ul><li>Did you make a mistake when typing the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> instead of <q><strong>www</strong>.mozilla.org</q>)</li><li>Are you certain this domain address exists?  Its registration may have expired.</li><li>Are you unable to browse other sites?  Check your network connection and DNS server settings.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li></ul>">
+<!ENTITY dnsNotFound.title "Aterese ga ya hwetšwa">
+<!ENTITY dnsNotFound.longDesc "<p>Praosara ga ya hwetša seabi sa moamogedi bakeng sa aterese e filwego.</p><ul><li>Na o dirile phošo ge o tlanya tomeine? (ka mohlala, <q><strong>ww</strong>.mozilla.org</q> go e na le <q><strong>www</strong>.mozilla.org</q>)</li><li>Na o kgonthišegile gore aterese ye ya tomeine e gona?  Ngwadišo ya yona e ka ba e feletšwe ke nako.</li><li>Na ga o kgone go praosa disaete tše dingwe?  Lekola kgokaganyo ya gago ya neteweke le dipeakanyo tša seabi ya DNS.</li><li>Na khomphutha ya gago goba neteweke di šireleditšwe ke sešireletši goba kemedi?  Dipeakanyo tše fošagetšego di ka šitišana le go praosa ga wepe.</li></ul>">
 
-<!ENTITY fileNotFound.title "File Not Found">
-<!ENTITY fileNotFound.longDesc "<ul><li>Could the item have been renamed, removed, or relocated?</li><li>Is there a spelling, capitalization, or other typographical error in the address?</li><li>Do you have sufficient access permissions to the requested item?</li></ul>">
+<!ENTITY fileNotFound.title "Faele ga ya hwetšwa">
+<!ENTITY fileNotFound.longDesc "<ul><li>Na aetheme e ka ba e reilwe gape, tlošitšwe goba e hudišitšwe?</li><li>Na go na le phošo ya mopeleto, ditlhaka-kgolo goba ya kgatišo atereseng?</li><li>Na o na le ditumelelo tšeo di lekanego tša go tsena go aetheme yeo e kgopetšwego?</li></ul>">
 
-<!ENTITY generic.title "Cannot Complete Request">
-<!ENTITY generic.longDesc "<p>Additional information about this problem or error is currently unavailable.</p>">
+<!ENTITY generic.title "E ka se fetše kgopelo">
+<!ENTITY generic.longDesc "<p>Tshedimošo e oketšegilego ka ga bothata bjo goba phošo gabjale ga e gona.</p>">
 
-<!ENTITY malformedURI.title "Invalid Address">
-<!ENTITY malformedURI.longDesc "<p>The provided address is not in a recognized format. Please check the location bar for mistakes and try again.</p>">
+<!ENTITY malformedURI.title "Aterese e sa šomego">
+<!ENTITY malformedURI.longDesc "<p>Aterese e filwego ga se sebopego se lemogwago. Hle lekola gore ga go na phošo lefelong la aterese gomme o leke gape.</p>">
 
-<!ENTITY netInterrupt.title "Data Transfer Interrupted">
-<!ENTITY netInterrupt.longDesc "<p>The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.</p><ul><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY netInterrupt.title "Go fetišetša ga tsebišo go šitišitšwe">
+<!ENTITY netInterrupt.longDesc "<p>Praosara e kgokagantšwe ka katlego, eupša kgokaganyo e šitišitšwe mola e dutše e fetišetša tshedimošo.  Hle leka gape.</p><ul><li>Na ga o kgone go praosa disaete tše dingwe? Lekola kgokaganyo ya neteweke ya khomphutha.</li><li>O sa dutše o na le mathata? Ikopanye le molaodi wa gago wa neteweke goba moabi wa inthanete bakeng sa thušo.</li></ul>">
 
-<!ENTITY netOffline.title "Offline Mode">
-<!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.title "Mokgwa wa go se be inthaneteng">
+<!ENTITY netOffline.longDesc "<p>Praosara e šoma ka mokgwa wa go se be inthaneteng gape e ka se kgokaganye go aetheme yeo e kgopetšwego.</p><ul><li>Na khomphutha e kgokagantšwe go neteweke yeo e šomago?</li><li>Bea praosara go mokgwa wa go ba inthaneteng gomme o leke gape.</li></ul>">
 
-<!ENTITY netReset.title "Connection Interrupted">
-<!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
+<!ENTITY contentEncodingError.title "Phošo ya phetošo ya diteng">
+<!ENTITY contentEncodingError.longDesc "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane le diriša sebopego sa kitlano yeo e sa šomego goba yeo e sa thekgwego.</p><ul><li>Hle ikopanye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
 
-<!ENTITY netTimeout.title "Network Timeout">
-<!ENTITY netTimeout.longDesc "<p>The requested site did not respond to a connection request and the browser has stopped waiting for a reply.</p><ul><li>Could the server be experiencing high demand or a temporary outage?  Try again later.</li><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY unsafeContentType.title "Mohuta o sa bolokegago wa faele">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li> 
+</ul>">
 
-<!ENTITY protocolNotFound.title "Unknown Protocol">
-<!ENTITY protocolNotFound.longDesc "<p>The address specifies a protocol (e.g. <q>wxyz://</q>) the browser does not recognize, so the browser cannot properly connect to the site.</p><ul><li>Are you trying to access multimedia or other non-text services? Check the site for extra requirements.</li><li>Some protocols may require third-party software or plugins before the browser can recognize them.</li></ul>">
+<!ENTITY netReset.title "Kgokaganyo e šitišitšwe">
+<!ENTITY netReset.longDesc "<p>Lomaganyo ya neteweke e šitišitšwe mola e dutše e dira ditherišano tša kgokaganyo. Hle leka gape.</p>">
 
-<!ENTITY proxyConnectFailure.title "Proxy Server Refused Connection">
-<!ENTITY proxyConnectFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy refused a connection.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Does the proxy service allow connections from this network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY netTimeout.title "Neteweke e feletšwe ke nako">
+<!ENTITY netTimeout.longDesc "<p>Saete yeo e kgopetšwego ga se ya arabela go kgopelo ya kgokaganyo gomme praosara e emišitše go letela karabo.</p><ul><li>Na seabi se ka ba se imelwa goba se feletšwe ka nakwana?  Leka gape ka moragonyana.</li><li>Na o palelwa ke go praosa disaete tše dingwe? Lekola kgokaganyo ya neteweke ya khomphutha.</li><li>Na khomphutha ya gago goba neteweke di šireleditšwe ke sešireletši goba kemedi?  Dipeakanyo tše fošagetšego di ka šitišana le go praosa ga wepe.</li><li>O sa dutše o na le mathata? Ikopanye le molaodi wa gago wa neteweke goba moabi wa inthanete bakeng sa thušo.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "Proxy Server Not Found">
-<!ENTITY proxyResolveFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy could not be found.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Is the computer connected to an active network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY protocolNotFound.title "Protokole e sa tsebjwego">
+<!ENTITY protocolNotFound.longDesc "<p>Aterese e laetša protokole (ka mohlala, <q>wxyz://</q>) yeo praosara e sa e lemogego, ka gona praosara e ka se ikgokaganye go saete ka tshwanelo.</p><ul><li>Na o leka go tsena go kgašontši goba ditirelo tše dingwe tšeo e sego tša mongwalo? Lekola saete gore o bone dinyakwa tše oketšegilego.</li><li>Diprotokole tše dingwe di ka nyaka lenaneo-tirišo la motho wa boraro goba ditsebišo-koketšo pele praosara e ka di lemoga.</li></ul>">
 
-<!ENTITY redirectLoop.title "Redirect Loop">
-<!ENTITY redirectLoop.longDesc "<p>The browser has stopped trying to retrieve the requested item. The site is redirecting the request in a way that will never complete.</p><ul><li>Have you disabled or blocked cookies required by this site?</li><li><em>NOTE</em>: If accepting the site's cookies does not resolve the problem, it is likely a server configuration issue and not your computer.</li></ul>">
+<!ENTITY proxyConnectFailure.title "Seabi sa kemedi se ganne kgokaganyo">
+<!ENTITY proxyConnectFailure.longDesc "<p>Praosara e rulagantšwe gore e diriše seabi sa kemedi, eupša kemedi e ganne kgokaganyo.</p><ul><li>Na thulaganyo ya praosara ya kemedi e nepagetše? Lekola dipeakanyo gomme o leke gape.</li><li>Na tirelo ya kemedi e dumelela dikgokaganyo go tšwa go neteweke ye?</li><li>O sa dutše o na le mathata? Ikopanye le molaodi wa gago wa neteweke goba moabi wa inthanete bakeng sa thušo.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Incorrect Response">
-<!ENTITY unknownSocketType.longDesc "<p>The site responded to the network request in an unexpected way and the browser cannot continue.</p>">
+<!ENTITY proxyResolveFailure.title "Seabi sa kemedi ga sa hwetšwa">
+<!ENTITY proxyResolveFailure.longDesc "<p>Praosara e rulagantšwe gore e diriše seabi sa kemedi, eupša kemedi ga ya hwetšwa.</p><ul><li>Na thulaganyo ya praosara ya kemedi e nepagetše? Lekola dipeakanyo gomme o leke gape.</li><li>Na khomphutha e kgokagantšwe go neteweke ye e šomago?</li><li>O sa dutše o na le mathata? Ikopanye le molaodi wa gago wa neteweke goba moabi wa inthanete bakeng sa thušo.</li></ul>">
+
+<!ENTITY redirectLoop.title "Laela lupu gape">
+<!ENTITY redirectLoop.longDesc "<p>Praosara e emišitše go leka go hwetša gape aetheme yeo e kgopetšwego. Saete e laela gape kgopelo ka tsela yeo e ka se tsogego e feditše.</p><ul><li>Na o paledišitše goba o thibetše dikhukhi tšeo di nyakwago ke saete ye?</li><li><em>ELA HLOKO</em>: Ge eba go amogela dikhukhi tša saete ga go rarolle bothata, go na le kgonagalo ya gore ke bothata bja thulaganyo e sego bja khomphutha ya gago.</li></ul>">
+
+<!ENTITY unknownSocketType.title "Karabo e fošagetšego">
+<!ENTITY unknownSocketType.longDesc "<p>Saete e arabile kgopelo ya neteweke ka tsela yeo e sa letelwago gomme praosara e ka se iše pele.</p>">
+
+<!ENTITY nssFailure2.title "Kgokaganyo e šireletšegilego e paletšwe">
+<!ENTITY nssFailure2.longDesc "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka ge bonnete bja tsebišo yeo e amogetšwego bo ka se netefatšwe.</p><ul><li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
+
+<!ENTITY nssBadCert.title "Kgokaganyo e šireletšegilego e paletšwe">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Se e ka ba e le bothata bja thulaganyo ya seabi, goba motho yo mongwe o leka go itira seabi.</li> 
+<li>Ge e ba nakong e fetilego o ikgokagantše go seabi se ka katlego, phošo e ka ba e le ya nakwana, gomme o ka leka gape ka moragonyana.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Saete yeo e belaelwago ya go hlasela!">
+<!ENTITY malwareBlocked.longDesc "<p>Disaete tša go hlasela di leka go lokela mananeo ao a utswago tshedimošo ya praebete, go diriša khomphutha ya gago go hlasela tše dingwe, goba go senya tshepedišo ya gago.</p> 
+<p>Beng ba diwepesaete bao ba dumelago gore saete ya bona e begilwe e le saete ya go hlasela ka phošo ba ka <a href='http://www.stopbadware.org/home/reviewinfo' >kgopela tlhahlobo</a>.</p>">
+
+<!ENTITY phishingBlocked.title "Bofora bjo bo belaelwago bja wepe!">
+<!ENTITY phishingBlocked.longDesc "<p>Go tsenya tshedimošo ya botho letlakaleng le go ka baka go utswiwa ga boitsebišo goba boradia bjo bongwe.</p> 
+<p>Mehuta ye ya boradia bja wepe e dirišwa bohwirihwiring bjo bo tsebjwago e le ditlhaselo tša boradia, moo matlakala a boradia a wepe le diimeile di dirišwago go ekiša methopo yeo o ka bago o e botile.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly. -->
+
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
