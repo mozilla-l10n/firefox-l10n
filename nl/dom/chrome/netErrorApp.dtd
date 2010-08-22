@@ -3,7 +3,7 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Of u kunt een uitzondering toevoegen…">
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>U kunt beter geen uitzondering toevoegen als u een internetverbinding gebruikt die u niet volledig vertrouwt, of als u normaal gesproken geen waarschuwing krijgt voor deze server.</p>
 <p>Als u nog steeds een uitzondering voor deze website wilt toevoegen, kunt u dat doen in uw uitgebreide encryptie-instellingen.</p>
 ">
