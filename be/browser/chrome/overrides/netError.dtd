@@ -133,12 +133,13 @@
 <p>Гэтыя тыпы сеціўных падробак ужываюцца ў ашуках, вядомых як лоўлявыя напады, у якіх круцельскія старонкі сеціва і адрасы э-пошты выкарыстоўваюцца для імітавання крыніцаў, якім вы давяраеце.</p>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Затрымана палітыкай бяспекі змесціва">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName прадухіліў загрузку гэтай старонкі такім спосабам, бо палітыка бяспекі змесціва старонкі не дазваляе карыстацца ім.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; прадухіліў загрузку гэтай старонкі такім спосабам, бо палітыка бяспекі змесціва старонкі не дазваляе карыстацца ім.</p>">
 <!ENTITY securityOverride.linkText "Ці вы можаце дадаць выключэнне…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Пакінуць гэтае месца!">
 <!ENTITY securityOverride.exceptionButtonLabel "Дадаць выключэнне…">
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>Вы не павінны дадаваць выключэнне, калі вы ўжываеце злучэнне з інтэрнэтам, якому вы цалкам не давяраеце, ці калі вам не даводзілася бачыць папярэджанне для гэтага паслугача.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
