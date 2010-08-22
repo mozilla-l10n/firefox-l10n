@@ -137,14 +137,14 @@
 <!ENTITY securityOverride.linkText "Eða þú getur bætt við undantekningu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hjálpaðu mér héðan út!">
 <!ENTITY securityOverride.exceptionButtonLabel "Bæta við undantekningu…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>Þú ættir ekki að bæta við undantekningu ef þú ert að nota Internet tengingu sem þú treystir ekki alveg eða ef þú ert ekki vanur að sjá aðvörun fyrir þennan vefþjón.</p>
+<!ENTITY securityOverride.warningContent "
+<p>Þú ættir ekki að bæta við undantekningu ef þú ert að nota Internet tengingu sem þú treystir ekki alveg eða ef þú ert ekki vanur að sjá aðvörun fyrir þennan vefþjóni.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

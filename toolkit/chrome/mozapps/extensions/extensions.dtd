@@ -7,6 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label "Athuga með uppfærslur">
 <!ENTITY listEmpty.search.label "Fann ekki viðbætur sem pössuðu">
 <!ENTITY listEmpty.button.label "Fræðast meira um viðbætur">
+<!ENTITY installFromFile.label "Setja inn frá skrá…">
+<!ENTITY installFromFile.accesskey "i">
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label "Leita">
