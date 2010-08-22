@@ -56,8 +56,8 @@
                                            nekih vaših add-ona.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Kliknite "Završi" kako biste nastavili pokretanje &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Kliknite "Gotovo" za nastavak pokretanja &brandShortName;.">
+<!ENTITY  clickFinish.label               "Kliknite &quot;Završi&quot; kako biste nastavili pokretanje &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Kliknite &quot;Gotovo&quot; za nastavak pokretanja &brandShortName;.">
 <!ENTITY  enableChecking.label            "Dozvoli &brandShortName;u da provjerava ima li updatea.">
 <!ENTITY  details.label                   "Detalji…">
 <!ENTITY  details.accesskey               "D">
