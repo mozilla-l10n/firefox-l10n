@@ -1,13 +1,12 @@
 ﻿<!ENTITY firstrun.title                "Bem vindo ao &brandShortName;">
-<!ENTITY firstrun.heading              "Para o ajudar a começar estão aqui algumas das mais populares funcionalidades e extras para o ajudar a tirar o melhor partido do &brandShortName;.">
-<!ENTITY firstrun.recommended          "Recomendado:">
-<!ENTITY firstrun.weave.title          "Obtenha o Weave para o ajudar com o seu &brandShortName;. Partilhe as suas preferências, marcadores, histórico de navegação, e mais entre o seu PC e o telemóvel.">
-<!ENTITY firstrun.weave.description    "Partilhe o histórico, senhas, marcadores e separadores do &brandShortName; com o seu computador">
-<!ENTITY firstrun.starter.title        "Obtenha o kit de colecções para iniciados">
-<!ENTITY firstrun.starter.description  "Instale estes extras recomendados para melhorar a sua experiência com o &brandShortName;">
-<!ENTITY firstrun.tour.title           "Faça uma visita">
-<!ENTITY firstrun.tour.description     "Veja este clip para se familiarizar e descobrir interessantes funcionalidades">
-<!ENTITY firstrun.features             "Veja mais funcionalidades">
+<!ENTITY firstrun.heading2             "Bem vindo ao &brandShortName;">
+<!ENTITY firstrun.sync.title           "Obter o Firefox Sync">
+<!ENTITY firstrun.sync.description     "Partilhe o histórico, senhas, marcadores e separadores do &brandShortName; com o seu computador">
+<!ENTITY firstrun.addons.title         "Obter extras">
+<!ENTITY firstrun.addons.description   "Instale estes extras recomendados para melhorar a sua experiência com o &brandShortName;">
+<!ENTITY firstrun.home.title           "Começar">
+<!ENTITY firstrun.home.description     "Toque para ir para a sua página inicial personalizada e começar a navegar na web">
+<!ENTITY firstrun.relNotes.label       "Veja as notas de lançamento">
 <!ENTITY firstrun.faq                  "FAQ">
 <!ENTITY firstrun.privacy              "Política de privacidade">
 <!ENTITY firstrun.follow               "Siga-nos em:">
