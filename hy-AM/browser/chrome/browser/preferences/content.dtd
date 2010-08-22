@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,37 +37,40 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY lHeader "Վեբ Հատկանիշներ">
-<!ENTITY enbJavaCheck.label "Java­ն միացնել">
-<!ENTITY enbJavaCheck.accesskey "J">
-<!ENTITY enableJavaScript.label "JavaScript­ը միացնել">
-<!ENTITY enableJavaScript.accesskey "S">
-<!ENTITY advancedJS.label "Խորացված…">
-<!ENTITY advancedJS.accesskey "խ">
-<!ENTITY enableImages.label "Բեռնավորել Նկարները">
-<!ENTITY enableImages.accesskey "Ն">
-<!ENTITY forOriginatingSiteOnly.label "միայն բուն հանգույցից">
-<!ENTITY forOriginatingSiteOnly.accesskey "հ">
-<!ENTITY popupReject.label "Արգելել Ինքաելից Պատուհանները">
-<!ENTITY popupReject.accesskey "ա">
-<!ENTITY enableXPInstall.label "Հանգույցներին թույլ տալ ծրագիր տեղադրել">
-<!ENTITY enableXPInstallWarning.label "Զգուշացնել եթե Վեբ հանգույցները փորձում են հավելում կամ ձեվավորում տեղադրել">
-<!ENTITY enableXPInstall.accesskey "ծ">
-<!ENTITY enableXPInstallWarning.accesskey "Զ">
-<!ENTITY allowedSitesPopup.label "Իրավասու Հանգույցներ">
-<!ENTITY allowedSitesPopup.accesskey "ր">
-<!ENTITY allowedSitesSoftware.label "Իրավասու Հանգույցներ">
-<!ENTITY exceptionsSoftware.label "Բացառում">
-<!ENTITY allowedSitesSoftware.accesskey "ր">
-<!ENTITY exceptionsSoftware.accesskey "ց">
-<!ENTITY exceptions.label "Բացառություններ">
-<!ENTITY exceptions.accesskey "Բ">
-<!ENTITY fonts.caption "Տառատեսակներ և Գույներ">
-<!ENTITY advancedFonts.label "Խորացված…">
-<!ENTITY advancedFonts.accesskey "Խ">
-<!ENTITY colors.label "Գույներ…">
-<!ENTITY colors.accesskey "Գ">
-<!ENTITY defaultFontSize.label "Չափը.">
-<!ENTITY defaultFontSize.accesskey "Չ">
-<!ENTITY defaultFont.label "Ըստ Լռելայն Տառատեսակ.">
-<!ENTITY defaultFont.accesskey "Տ">
+<!ENTITY  blockPopups.label           "Կանխել Pop-up պատուհանները">
+<!ENTITY  blockPopups.accesskey       "Կ">
+<!ENTITY  popupExceptions.label       "Բացառություններ…">
+<!ENTITY  popupExceptions.accesskey   "E">
+
+<!ENTITY  loadImages.label            "Բեռնել նկարները">
+<!ENTITY  loadImages.accesskey        "Բ">
+<!ENTITY  exceptions.label            "Բացառություններ…">
+<!ENTITY  exceptions.accesskey        "x">
+
+<!ENTITY  enableJavaScript.label      "JavaScript­ը միացնել">
+<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  advancedJS.label            "Խորացված…">
+<!ENTITY  advancedJS.accesskey        "v">
+
+<!ENTITY  enableJava.label            "Ակտիվացնել Java-ն">
+<!ENTITY  enableJava.accesskey        "Ա">
+
+
+<!ENTITY  fontsAndColors.label        "Ֆոնտեր և Գույներ">
+
+<!ENTITY  defaultFont.label           "Ըստ Լռելայն Տառատեսակ.">
+<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultSize.label           "Չափը.">
+<!ENTITY  defaultSize.accesskey       "S">
+
+<!ENTITY  advancedFonts.label         "Խորացված…">
+<!ENTITY  advancedFonts.accesskey     "A">
+
+<!ENTITY  colors.label                "Գույներ…">
+<!ENTITY  colors.accesskey            "C">
+
+
+<!ENTITY languages.label              "Լեզուներ">
+<!ENTITY chooseLanguage.label         "Ընտրեք ձեր նախնտրելի լեցուն էջերը ցուցադրելու համար">
+<!ENTITY chooseButton.label           "Ընտրել…">
+<!ENTITY chooseButton.accesskey       "o">

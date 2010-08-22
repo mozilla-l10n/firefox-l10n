@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,11 +37,20 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY printWindow.title "Տպել">
-<!ENTITY title "Վերնագիր.">
+<!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
+<!ENTITY printWindow.title "Տպել"> 
+<!ENTITY title    "Վերնագիր."> 
 <!ENTITY progress "Առաջխաղացում.">
 <!ENTITY preparing "Պատրաստում եմ…">
 <!ENTITY printComplete "Տպված է:">
-<!ENTITY dialogCancel.label "Դադարեցնել">
+
+<!ENTITY dialogCancel.label "Չեղարկել"> 
 <!ENTITY dialogClose.label "Փակել">
+
+<!-- LOCALIZATION NOTE (percentPrint):
+
+    This string is used to format the text to the right of the progress
+    meter.
+
+    #1 will be replaced by the percentage of the file that has been saved -->
 <!ENTITY percentPrint "#1&#037;">

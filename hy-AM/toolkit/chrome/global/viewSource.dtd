@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,53 +37,79 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
+<!-- extracted from content/viewSource.xul -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " -  ">
 <!ENTITY mainWindow.preface "Ակնագիրն ի.">
+
 <!ENTITY fileMenu.label "Ֆայլ">
-<!ENTITY fileMenu.accesskey "Ֆ">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Էջը Պահպանել Որպես…">
-<!ENTITY savePageCmd.accesskey "Ո">
+<!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Տպելու Կազմաձեվում…">
-<!ENTITY pageSetupCmd.accesskey "զ">
+<!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Տպելու Նախատեսք">
-<!ENTITY printPreviewCmd.accesskey "տ">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Տպել…">
-<!ENTITY printCmd.accesskey "Տ">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Փակել">
-<!ENTITY closeCmd.accesskey "Փ">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
+
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
+
 <!ENTITY goToLineCmd.label "Գնալ տող համար...">
-<!ENTITY goToLineCmd.accesskey "Գ">
+<!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
-<!ENTITY viewMenu.label "Նայել">
-<!ENTITY viewMenu.accesskey "Ն">
-<!ENTITY reloadCmd.label "Վերաբեռնավորել">
+
+<!ENTITY viewMenu.label           "Նայել">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY reloadCmd.label "Վերբեռնել">
 <!ENTITY reloadCmd.accesskey "Վ">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Տողադարձել Երկար Տողերը">
-<!ENTITY menu_wrapLongLines.accesskey "դ">
+<!ENTITY menu_wrapLongLines.title "Տողադարձել Երկար Տողերը"> 
+<!ENTITY menu_wrapLongLines.accesskey "W">
 <!ENTITY menu_highlightSyntax.label "Ընդգծել Ուղղագրությունը">
-<!ENTITY menu_highlightSyntax.accesskey "ղ">
+<!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "Տեքստի Չափը">
-<!ENTITY menu_textSize.accesskey "Չ">
+<!ENTITY menu_textSize.accesskey "T">
 <!ENTITY menu_textEnlarge.label "Ավելացնել Տեքստի Չափը">
-<!ENTITY menu_textEnlarge.accesskey "Ա">
+<!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "Նվազացնել Տեքստի Չափը">
-<!ENTITY menu_textReduce.accesskey "Ն">
+<!ENTITY menu_textReduce.accesskey "D">
 <!ENTITY menu_textReset.label "Սովորական">
-<!ENTITY menu_textReset.accesskey "Ս">
-<!ENTITY findOnCmd.label "Գտնել Այս Էջում…">
-<!ENTITY findOnCmd.accesskey "Է">
+<!ENTITY menu_textReset.accesskey "N">
+
+<!ENTITY findOnCmd.label     "Գտնել Այս Էջում…">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Նորից Գտնել">
+<!ENTITY findAgainCmd.label  "Նորից Գտնել">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backCmd.label "Հետ">
+<!ENTITY backCmd.accesskey "b">
+<!ENTITY forwardCmd.label "Առաջ">
+<!ENTITY forwardCmd.accesskey "f">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">

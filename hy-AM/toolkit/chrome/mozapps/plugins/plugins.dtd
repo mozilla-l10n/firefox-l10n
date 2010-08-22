@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,18 +37,41 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY pluginWizard.title "Խից­Բաղադիր գտնելու ծառայություն">
-<!ENTITY pluginWizard.firstPage.title "Բարի Գալուստ &pluginWizard.title;">
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName;­ը ստուգում է մատչելի խից­բաղադիրների առկայությունը…">
-<!ENTITY pluginWizard.availablePluginsPage.title "Մատչելի խից­բաղադիրների բեռնավորում">
+<!ENTITY pluginWizard.title                                  "Խից­Բաղադիր գտնելու ծառայություն">
+<!ENTITY pluginWizard.firstPage.title                        "Բարի Գալուստ &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName;­ը ստուգում է մատչելի խից­բաղադիրների առկայությունը…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Մատչելի խից­բաղադիրների բեռնավորում">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Հետեվյալ խից­բաղադիրներն առկա են՝">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Սեղմեք Հաջորդ այս խից­բաղադիրները տեղադրելու համար:">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Որոշ խից­բաղադիրներ կարող են Ձեզանից պահանջել հավելյալ ինֆորմացիա տեղադրման ընթացքում:">
-<!ENTITY pluginWizard.licensePage.title "խից­բաղադրի լիցենզավորում">
-<!ENTITY pluginWizard.licensePage.accept.label "Համաձայն եմ:">
-<!ENTITY pluginWizard.licensePage.deny.label "Համաձայն չեմ (բաղադիրը չի տեղադրվի).">
-<!ENTITY pluginWizard.installPluginsPage.title "Տեղադրում եմ խիցժբաղադիրներ">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName;­ը տեղադրում է խից­բաղադիրներ…">
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName;­ը եզրափակեց պակասող խից­բաղադիրների տեղադրումը՝">
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Հավելյալ տեղեկություններ խից­բաղադիրների մասին, կամ ինքներդ տեղադրեք բաղադիրներ:">
-<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName;­ը պիտի վերագործարկվի բաղադիրներն աշխատացնելու համար:">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Որոշ խից­բաղադիրներ կարող են Ձեզանից պահանջել հավելյալ ինֆորմացիա տեղադրման ընթացքում:">
+
+<!ENTITY pluginWizard.licensePage.title                      "խից­բաղադրի լիցենզավորում">
+<!ENTITY pluginWizard.licensePage.accept.label               "Համաձայն եմ:">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Համաձայն չեմ (բաղադիրը չի տեղադրվի).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Տեղադրում եմ խիցժբաղադիրներ">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName;­ը տեղադրում է խից­բաղադիրներ…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName;­ը եզրափակեց պակասող խից­բաղադիրների տեղադրումը՝">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Հավելյալ տեղեկություններ խից­բաղադիրների մասին, կամ ինքներդ տեղադրեք բաղադիրներ:">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName;­ը պիտի վերագործարկվի բաղադիրներն աշխատացնելու համար:">
+  
+<!ENTITY missingPlugin.label                                 "Սեղմեք այստեղ բաղադրիչը բեռնավորելու համար:">
+<!ENTITY disabledPlugin.label                                "Այս բովանդակության պլագինը անջատված է: Սեղմեք այստեղ պլագինները կարգավորելու համար:">
+<!ENTITY blockedPlugin.label                                 "Անվտանգության նկատառումներով այս պլագինը կասեցվել է:">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Վերբեռնել էջը">
+<!ENTITY reloadPlugin.post                                   " կրկին փորձելու համար:">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Ուղարկել վթարի զեկույցը">
+<!ENTITY report.submitting                                   "Զեկույցն ուղարկվում է…">
+<!ENTITY report.submitted                                    "Վթարի զեկույցը ուղարկված է:">
+<!ENTITY report.disabled                                     "Վթարի զեկուցումը անջատված է:">
+<!ENTITY report.failed                                       "Անհաջող փոխանցում:">
+<!ENTITY report.unavailable                                  "Ոչ մի զեկույց չկա:">

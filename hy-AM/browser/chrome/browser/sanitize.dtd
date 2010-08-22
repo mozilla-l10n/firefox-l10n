@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,21 +37,65 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY sanitizeDialog.title "Մաքրել Անձնական Տվյալները">
-<!ENTITY sanitizeItems.label "Մաքրել հետեվյալ բաղադիրները հիմա.">
-<!ENTITY itemHistory.label "Նավարկման Մատյան">
-<!ENTITY itemHistory.accesskey "B">
-<!ENTITY itemFormData.label "Ձեվերի Պահպանված Ինֆորմացիան">
-<!ENTITY itemFormData.accesskey "F">
-<!ENTITY itemPasswords.label "Պահպանված Գաղտնաբառերը">
-<!ENTITY itemPasswords.accesskey "P">
-<!ENTITY itemCookies.label "Պատրաստուքները">
-<!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemCache.label "Պահոցը">
-<!ENTITY itemCache.accesskey "a">
-<!ENTITY itemDownloads.label "Բեռնավորման Մատյանը">
-<!ENTITY itemDownloads.accesskey "D">
-<!ENTITY itemSessions.label "Հավաստված Նիստեր">
-<!ENTITY itemSessions.accesskey "S">
-<!ENTITY promptOnSanitize.label "Անձնական տվյալները մաքրելուց առաջ ինձ հարցնել">
-<!ENTITY promptOnSanitize.accesskey "k">
+<!ENTITY sanitizePrefs2.title          "Պատմության մաքրման կարգավորումներ">
+<!ENTITY sanitizeDialog2.title         "Մաքրել Վերջին Պատմությունը">
+
+<!ENTITY sanitizeItems.label          "Մաքրել հետեվյալ բաղադիրները հիմա.">
+<!ENTITY clearDataSettings2.label     "Երբ ես դուրս գամ &brandShortName; -ից, այն պիտի ավտոմատ մաքրի ամենը`">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
+<!ENTITY clearTimeDuration.label          "Ջնջելու ենթակա ժամանակահատվածը`">
+<!ENTITY clearTimeDuration.accesskey      "Ջ">
+<!ENTITY clearTimeDuration.lastHour       "Վերջին ժամի">
+<!ENTITY clearTimeDuration.last2Hours     "Վերջին երկու ժամը">
+<!ENTITY clearTimeDuration.last4Hours     "Վերջին չորս ժամը">
+<!ENTITY clearTimeDuration.today          "Այսօր">
+<!ENTITY clearTimeDuration.everything     "Ամենը">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.dateColumn     "Այցելման ամսաթիվ">
+<!ENTITY clearTimeDuration.nameColumn     "Անվանումը">
+
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+<!ENTITY detailsProgressiveDisclosure.label     "Մանրամասներ">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+
+<!ENTITY historySection.label         "Պատմություն">
+<!ENTITY dataSection.label            "Տվյալներ">
+
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+<!ENTITY itemHistoryAndDownloads.label     "Նավարկման և Բեռնումների Մատյան">
+<!ENTITY itemHistoryAndDownloads.accesskey "Ն">
+<!ENTITY itemBrowsingHistory.label         "Նավարկման Հուշամատյան">
+<!ENTITY itemBrowsingHistory.accesskey     "b">
+<!ENTITY itemFormSearchHistory.label       "Ձևերի և որոնման պատմություն">
+<!ENTITY itemFormSearchHistory.accesskey   "Ձ">
+<!ENTITY itemPasswords.label               "Պահպանված Գաղտնաբառերը">
+<!ENTITY itemPasswords.accesskey           "P">
+<!ENTITY itemCookies.label                 "Պատրաստուքները">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.label                   "Պահոցը">
+<!ENTITY itemCache.accesskey               "a">
+<!ENTITY itemOfflineApps.label             "Վեբ Կայքերի Օֆլյն Տվյալներ">
+<!ENTITY itemOfflineApps.accesskey         "o">
+<!ENTITY itemDownloadHistory.label         "Բեռնավորման Մատյանը">
+<!ENTITY itemDownloadHistory.accesskey     "d">
+<!ENTITY itemActiveLogins.label            "Ակտիվ Մուտքեր">
+<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemSitePreferences.label         "Կայքի նախըտրանքներ">
+<!ENTITY itemSitePreferences.accesskey     "Կ">
+
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "Այս գործողությունը չի կարող լինել անավարտ:">
+
+<!ENTITY dialog.width                 "32em">
+<!ENTITY column.width                 "14em">

@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,8 +37,14 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY mozilla.quote 'Ի վերջո կենդանին <em class="f">ընկավ</em> ու անհավատները ցնծացին:
+<!ENTITY mozilla.title
+'Մոզիլլայի գիրք, 11:9'>
+
+<!ENTITY mozilla.quote
+'Ի վերջո կենդանին <em class="f">ընկավ</em> ու անհավատները ցնծացին:
 Սակայն ամեն բան չէր կորսված, քանզի մոխրից մի <em>մեծ թռչյուն դեգերեց</em>:
 Թռչյունը նետեց իր խոժոռ հայացքն անհվատների վրա և <em class="f">կրակ</em> ու <em>կայծակ</em> թափեց նրանց վրա: Եվ քանզի թռչյունը <em>վերածնվել</em> էր <em>թարմացած</em> ուժերով, դրամապաշտների հետեվորդները սարսափահար եղան:
 '>
-<!ENTITY mozilla.from "<strong>«Մոզիլլայի Գրքից»</strong>, 7:15">
+
+<!ENTITY mozilla.from
+'<strong>«Մոզիլլայի Գրքից»</strong>, 7:15'>

@@ -19,8 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
-	  Nerses Aznauryan (Hayeren.am Team) <aznauryan@gmail.com> 
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,52 +37,44 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Փոքրացնել">
 <!ENTITY bringAllToFront.label    "Բոլորն Առաջ Բերել">
 <!ENTITY zoomWindow.label         "Խոշորացնել">
 <!ENTITY windowMenu.label         "Պատուհան">
 
-<!ENTITY helpMenu.label           "Օգնություն">
-<!ENTITY helpMenu.accesskey       "Օ"> 
+<!ENTITY helpMenu.label           "Օգնություն"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Օգնություն">
-<!ENTITY helpMenuWin.accesskey    "Օ">
+<!ENTITY helpMenuWin.label        "Օգնություն"> 
+<!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "&brandFullName;-ի մասին">
-<!ENTITY aboutCmd.accesskey       "մ">
-<!ENTITY helpContents.label       "Օգնության Բովանդակությունը">
-<!ENTITY helpContents.accesskey   "Օ">
-<!ENTITY helpContentsMac.label    "&brandShortName; Օգնություն">
+<!ENTITY aboutCmd.accesskey       "b">
+<!ENTITY productHelp.label        "&brandShortName; Օգնություն">
+<!ENTITY productHelp.accesskey    "h">
 <!ENTITY helpForIEUsers.label     "Internet Explorer Օգտագործողների համար">
-<!ENTITY helpForIEUsers.accesskey "գ">
+<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "Թողարկման Նշումներ">
-<!ENTITY helpReleaseNotes.accesskey     "Ն">
+<!ENTITY helpReleaseNotes.accesskey     "N">
+
+<!ENTITY helpTroubleshooting.label      "Դիագնոստիկական տեղեկություն…">
+<!ENTITY helpTroubleshooting.accesskey  "Դ">
+
 <!ENTITY updateCmd.label                "Ստուգել Թարմացումներ…">
-<!ENTITY updateCmd.accesskey            "Ս">
 
 <!ENTITY preferencesCmdMac.label        "Կարգավորումներ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Ծառայություններ">
 
 <!ENTITY hideThisAppCmdMac.label        "Թաքցնել &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Թաքցնել Մնացածը">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Բոլորը ցույց տալ">

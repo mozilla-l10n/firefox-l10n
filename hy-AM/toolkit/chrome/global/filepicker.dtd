@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,19 +37,20 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY lookInMenuList.label "Փնտրել ներքո.">
-<!ENTITY lookInMenuList.accesskey "Փ">
-<!ENTITY textInput.label "Ֆայլի անունը.">
-<!ENTITY textInput.accesskey "ա">
-<!ENTITY filterMenuList.label "Ֆայլի տիպը.">
-<!ENTITY filterMenuList.accesskey "տ">
-<!ENTITY name.label "Անվանումը">
-<!ENTITY size.label "Չափը">
-<!ENTITY lastModified.label "Վերջին փոփոխությունը">
-<!ENTITY permissions.label "Թույլտվությունները">
-<!ENTITY showHiddenFiles.label "Ցույց տալ թաքցված ֆայլերն ու պանակները">
-<!ENTITY showHiddenFiles.accesskey "Ց">
+<!ENTITY lookInMenuList.label   "Փնտրել ներքո.">
+<!ENTITY lookInMenuList.accesskey   "L">
+<!ENTITY textInput.label        "Ֆայլի անունը.">
+<!ENTITY textInput.accesskey        "n">
+<!ENTITY filterMenuList.label   "Ֆայլի տիպը.">
+<!ENTITY filterMenuList.accesskey   "t">
+<!ENTITY name.label             "Անվանումը">
+<!ENTITY size.label             "Չափը">
+<!ENTITY lastModified.label     "Վերջին փոփոխությունը">
+<!ENTITY showHiddenFiles.label  "Ցույց տալ թաքցված ֆայլերն ու պանակները">
+<!ENTITY showHiddenFiles.accesskey  "S">
+
 <!ENTITY noPermissionError.label "Դուք բավարար իրավունքներ չունեք այս պանակը բացելու համար:">
-<!ENTITY folderUp.tooltiptext "Գնալ մեկ աստիճան վեր">
+
+<!ENTITY folderUp.tooltiptext   "Գնալ մեկ աստիճան վեր">
 <!ENTITY folderHome.tooltiptext "Գնալ դեպի անձնական պանակ">
-<!ENTITY folderNew.tooltiptext "Նոր պանակ ստեղծել">
+<!ENTITY folderNew.tooltiptext  "Նոր պանակ ստեղծել">

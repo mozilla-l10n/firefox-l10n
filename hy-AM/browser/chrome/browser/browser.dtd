@@ -19,8 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
-	  Nerses Aznauryan (Hayeren.am Team) <aznauryan@gmail.com>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,98 +45,112 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY mainWindow.titlemodifiermenuseparator " -  ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Փակ նավարկում)">
 
 <!ENTITY tabCmd.label "Նոր Ներդիր">
-<!ENTITY tabCmd.accesskey "Ն">
+<!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Բացել Հասցեն…">
-<!ENTITY openLocationCmd.accesskey "Հ">
+<!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "Բացել Ֆայլ…">
-<!ENTITY openFileCmd.accesskey "Բ">
+<!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Էջի կարգավորումներ…">
-<!ENTITY printSetupCmd.accesskey "Է">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Տպման Տեսք">
-<!ENTITY printPreviewCmd.accesskey "պ">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Տպել…">
-<!ENTITY printCmd.accesskey "Տ">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY import.label "Ներմուծել…">
-<!ENTITY import.accesskey "Ն">
+<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Աշխատել Օֆլայն">
-<!ENTITY goOfflineCmd.accesskey "ա">
+<!ENTITY goOfflineCmd.accesskey "W">
 
+<!ENTITY menubarCmd.label "Մենյու վահանակ">
+<!ENTITY menubarCmd.accesskey "Մ">
 <!ENTITY navbarCmd.label "Նավարկման Վահանակ">
-<!ENTITY navbarCmd.accesskey "Ն">
-<!ENTITY personalbarCmd.label "Էջանիշների Վահանակ">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "Էջանիշերի Վահանակ">
 <!ENTITY personalbarCmd.accesskey "Է">
-<!ENTITY bookmarksToolbarItem.label "Էջանիշների Վահանակի Առարկաներ">
+<!ENTITY bookmarksToolbarItem.label "Էջանիշերի Վահանակի Իրեր">
 <!ENTITY taskbarCmd.label "Կարգավիճակի Տող">
-<!ENTITY taskbarCmd.accesskey "Կ">
+<!ENTITY taskbarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Դիտել Էջի Կոդը">
-<!ENTITY pageSourceCmd.accesskey "Կ">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Էջի Մասին Տվյալներ">
-<!ENTITY pageInfoCmd.accesskey "Տ">
+<!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Բացել Ամբողջ Էկրանով">
-<!ENTITY fullScreenCmd.accesskey "Ա">
+<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Ցուցադրել բոլոր էջադիրները">
+<!ENTITY showAllTabsCmd.accesskey "Ց">
 
 <!ENTITY fullScreenMinimize.tooltip "Փոքրացնել">
 <!ENTITY fullScreenRestore.tooltip "Վերականգնել">
 <!ENTITY fullScreenClose.tooltip "Փակել">
 <!ENTITY fullScreenAutohide.label "Թաքցնել Վահանակները">
-<!ENTITY fullScreenAutohide.accesskey "Թ">
+<!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Փակել Ամբողջ Էկրանով Ռեժիմը">
-<!ENTITY fullScreenExit.accesskey "Փ">
+<!ENTITY fullScreenExit.accesskey "F">
 
 <!ENTITY closeWindow.label "Փակել Պատուհանը">
-<!ENTITY closeWindow.accesskey "կ">
+<!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Էջանիշներ">
-<!ENTITY bookmarksMenu.accesskey "է">
+<!ENTITY bookmarksMenu.label "Էջանիշեր">
+<!ENTITY bookmarksMenu.accesskey "Է">
 <!ENTITY bookmarkThisPageCmd.label "Էջանշել Այս Էջը">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Բաժանորդագրվել Այս Էջին">
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
-<!ENTITY organizeBookmarks.label "Դասավորել Էջանիշները…">
+<!ENTITY organizeBookmarks.label "Դասավորել Էջանիշերը…">
 <!ENTITY bookmarkAllCmd.label "Էջանշել Բոլոր Ներդիրները…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Ցույց տալ ավելի շատ էջանիշերի">
 
 <!ENTITY backCmd.label                "Նախորդ">
-<!ENTITY backCmd.accesskey            "Ն">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Գնալ Նախորդ Էջ">
 <!ENTITY forwardCmd.label             "Հաջորդ">
-<!ENTITY forwardCmd.accesskey         "Հ">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Գնալ Հաջորդ Էջ">
 <!ENTITY backForwardMenu.tooltip      "Վերջին Էջերը">
-<!ENTITY reloadCmd.label              "Վերաբեռնավորել">
-<!ENTITY reloadCmd.accesskey          "Վ">
+<!ENTITY reloadCmd.label              "Վերբեռնել">
+<!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY reloadButton.tooltip         "Վերաբեռնավորել Տվյալ Էջը">
 <!ENTITY stopCmd.label                "Ընդհատել">
-<!ENTITY stopCmd.accesskey            "Ը">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ընդհատել Էջի բեռնավորումը">
 <!ENTITY goEndCap.tooltip             "Գնալ Հասցեի Տողում նշված հասցեով">
+<!ENTITY feedButton.tooltip           "Բաժանորդագրվել այս էջին...">
 <!ENTITY printButton.label            "Տպել">
 <!ENTITY printButton.tooltip          "Տպել տվյալ էջը">
 
 <!ENTITY locationItem.title           "Հասցե">
 <!ENTITY searchItem.title             "Որոնում">
 <!ENTITY throbberItem.title           "Գործողության ինդիկատոր">
-<!ENTITY bookmarksItem.title          "Էջանիշներ">
+<!ENTITY bookmarksItem.title          "Էջանիշեր">
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Տուն">
 
 <!ENTITY bookmarksButton.label          "Էջանիշներ">
 <!ENTITY bookmarksButton.tooltip        "Ցույց տալ ձեր էջանիշները">
-<!ENTITY bookmarksSidebarCmd.accesskey  "է">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Պատմություն">
 <!ENTITY historyButton.tooltip          "Ցույց տալ ձեր այցելած վերջին էջերը">
@@ -142,81 +158,93 @@
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Գործիքներ">
-<!ENTITY toolsMenu.accesskey          "Գ"> 
+<!ENTITY toolsMenu.accesskey          "T"> 
 
 <!ENTITY keywordfield.label           "Ավելացնել Բանալի այս Որոնմանը…">
-<!ENTITY keywordfield.accesskey       "Բ">
+<!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "Որոնում Վեբում">
-<!ENTITY search.accesskey             "Ո">
+<!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "Բեռնումներ">
 <!ENTITY downloads.tooltip            "Ցույց տալ բեռնումների ընթացքը">
-<!ENTITY downloads.accesskey          "բ">
+<!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Հավելումներ">
 <!ENTITY addons.tooltip               "Ցույց տալ և Ղեկավարել տեղադրված Հավելումները">
-<!ENTITY addons.accesskey             "Հ">
+<!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "Սխալների կոնսոլ">
-<!ENTITY errorConsoleCmd.accesskey    "կ">
+<!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY fileMenu.label         "Ֆայլ"> 
-<!ENTITY fileMenu.accesskey       "Ֆ">
+<!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Նոր Պատուհան">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "Ն">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 
 <!ENTITY editMenu.label         "Խմբագրել"> 
-<!ENTITY editMenu.accesskey       "Խ"> 
+<!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Ետ տալ">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "Ե"> 
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Կրկնել">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "Կ"> 
+<!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "Կտրել">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "տ"> 
+<!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Կրկնօրինակել">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ն"> 
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Տեղադրել">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "Տ"> 
+<!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "Ջնջել">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "Ջ"> 
+<!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "Նշել Ամբողջը">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "Ա"> 
-<!ENTITY preferencesCmd.label       "Նախըտրանքներ…">
-<!ENTITY preferencesCmd.accesskey     "ր"> 
+<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY preferencesCmd.label       "Հատկանիշներ…">
+<!ENTITY preferencesCmd.accesskey     "Հ"> 
 <!ENTITY preferencesCmdUnix.label       "Նախըտրանքներ">
-<!ENTITY preferencesCmdUnix.accesskey     "ր"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearPrivateDataCmd.label            "Մաքրել Անձնական Տվյալները">
-<!ENTITY clearPrivateDataCmd.accesskey        "Մ">
+<!ENTITY clearRecentHistoryCmd.label            "Մաքրել Վերջին Պատմությունը">
+<!ENTITY clearRecentHistoryCmd.accesskey        "h">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Սկսել Գաղտնի Նավարկում">
+<!ENTITY privateBrowsingCmd.start.accesskey     "p">
+<!ENTITY privateBrowsingCmd.stop.label          "Դադարեցնել Անձնական Նավարկումը">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "Դ">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Տեսք"> 
-<!ENTITY viewMenu.accesskey       "Տ"> 
+<!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "Վահանակներ"> 
-<!ENTITY viewToolbarsMenu.accesskey     "Վ"> 
+<!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "Կողային վահանակ">
-<!ENTITY viewSidebarMenu.accesskey "Կ">
+<!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Հարմարեցնել…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "Հ">
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "Պատմություն">
-<!ENTITY historyMenu.accesskey "Պ">
+<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Վերջին փակված ներդիրները">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Վերջին փակված պատուհանները">
 
 <!ENTITY historyHomeCmd.label "Տուն">
 <!ENTITY showAllHistoryCmd2.label "Ցույց տալ ամբողջ պատմությունը">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Որոնել Էջանիշներում և Պատմությունում">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Որոնել Էջանիշներում և Պատմությունում">
+<!ENTITY urlbar.bookmark.emptyText    "Փնտրել էջանիշերում">
+<!ENTITY urlbar.history.emptyText     "Փնտրել Ամսագրում">
+<!ENTITY urlbar.none.emptyText        "Մուտքագրեք Վեբ Հասցեն">
 <!ENTITY urlbar.accesskey             "Ո">
 
 <!-- 
@@ -245,78 +273,108 @@
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "Հղումը Բացել Նոր Պատուհանում">
-<!ENTITY openLinkCmd.accesskey        "Պ">
+<!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkCmdInTab.label       "Հղումը Բացել Նոր Ներդիրում">
-<!ENTITY openLinkCmdInTab.accesskey   "Ն">
-<!ENTITY openFrameCmd.label           "Ենթապատուհանը Բացել Նոր Պատուհանում">
-<!ENTITY openFrameCmd.accesskey       "Պ">
-<!ENTITY openFrameCmdInTab.label      "Ենթապատուհանը Բացել Նոր Ներդիրում">
-<!ENTITY openFrameCmdInTab.accesskey  "Ն">
-<!ENTITY showOnlyThisFrameCmd.label     "Ցույց Տալ Միայն Այս Ենթապատուհանը">
-<!ENTITY showOnlyThisFrameCmd.accesskey "Ց">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openFrameCmd.label           "Շրջանակը բացել նոր պատուհանում">
+<!ENTITY openFrameCmd.accesskey       "Շ">
+<!ENTITY openFrameCmdInTab.label      "Շրջանակը բացել նոր ներդիրում">
+<!ENTITY openFrameCmdInTab.accesskey  "Շ">
+<!ENTITY showOnlyThisFrameCmd.label     "Ցուցադրել միայն այս շրջանակը">
+<!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Վերաբեռնավորել Ենթապատուհանը">
+<!ENTITY reloadFrameCmd.label         "Վերբեռնել շրջանակը">
 <!ENTITY reloadFrameCmd.accesskey     "Վ">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Դիտել Նշված Մասի Կոդը">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Դիտել MathML Կոդը">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ի">
 <!ENTITY viewPageSourceCmd.label      "Դիտել Էջի Կոդը">
-<!ENTITY viewPageSourceCmd.accesskey  "Դ">
-<!ENTITY viewFrameSourceCmd.label     "Դիտել Ենթապատուհանի Կոդը">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "Դիտել շրջանակը">
 <!ENTITY viewFrameSourceCmd.accesskey "Դ">
 <!ENTITY viewPageInfoCmd.label        "Էջի Մասին Տվյալներ">
-<!ENTITY viewPageInfoCmd.accesskey    "Տ">
-<!ENTITY viewFrameInfoCmd.label       "Ենթապատուհանի Մասին Տվյալներ">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "Տեղեկություն շրջանակի մասին">
 <!ENTITY viewFrameInfoCmd.accesskey   "Տ">
-<!ENTITY showImageCmd.label           "Ցույց տալ Նկարը">
-<!ENTITY showImageCmd.accesskey       "Ց">
+<!ENTITY reloadImageCmd.label         "Վերբեռնել Նկարը">
+<!ENTITY reloadImageCmd.accesskey     "Վ">
 <!ENTITY viewImageCmd.label           "Նայել Նկարը">
-<!ENTITY viewImageCmd.accesskey       "Ն">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageInfoCmd.label       "Տեղեկություն նկարի մասին">
+<!ENTITY viewImageInfoCmd.accesskey   "Տ">
+<!ENTITY viewVideoCmd.label           "Դիտել Հոլովակը">
+<!ENTITY viewVideoCmd.accesskey       "Դ">
 <!ENTITY viewBGImageCmd.label         "Նայել Ֆոնի Նկարը">
-<!ENTITY viewBGImageCmd.accesskey     "լ">
-
+<!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Տեղադրել Դեսկտոպի Ֆոն…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "Տ">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Էջանշել Այս Էջը">
-<!ENTITY bookmarkPageCmd2.accesskey   "Է">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "էջանշել Այս Հղումը">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "Հ">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Եջանշել Այս Ենթապատուհանը">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "Է">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY sendPageCmd.label            "Ուղարկել Հղումը…">
-<!ENTITY sendPageCmd.accesskey        "ղ">
+<!ENTITY sendPageCmd.accesskey        "e">
 <!ENTITY savePageCmd.label            "Պահպանել Էջը Որպես…">
-<!ENTITY savePageCmd.accesskey        "Ո">
+<!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "պ">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Պահպանել Ենթապատուհանը Որպես…">
-<!ENTITY saveFrameCmd.accesskey       "Ե">
-<!ENTITY printFrameCmd.label          "Տպել Ենթապատուհանը…">
+<!ENTITY saveFrameCmd.label           "Պահել շրջանակը որպես…">
+<!ENTITY saveFrameCmd.accesskey       "Պ">
+<!ENTITY printFrameCmd.label          "Տպել շրջանակը…">
 <!ENTITY printFrameCmd.accesskey      "Տ">
 <!ENTITY saveLinkCmd.label            "Պահպանել Հղումը Որպես…">
-<!ENTITY saveLinkCmd.accesskey        "մ">
+<!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY sendLinkCmd.label            "Ուղարկել Հղումը…"> 
-<!ENTITY sendLinkCmd.accesskey        "լ">
+<!ENTITY sendLinkCmd.accesskey        "d">
 <!ENTITY saveImageCmd.label           "Պահպանել Նկարը Որպես…">
-<!ENTITY saveImageCmd.accesskey       "պ">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "Պահել Տեսագրությունը Որպես...">
+<!ENTITY saveVideoCmd.accesskey       "Պ">
+<!ENTITY saveAudioCmd.label           "Պահել Ձայնագրությունը Որպես...">
+<!ENTITY saveAudioCmd.accesskey       "Պ">
 <!ENTITY sendImageCmd.label           "Ուղարկել Նկարը…">
-<!ENTITY sendImageCmd.accesskey       "կ">
-<!ENTITY copyLinkCmd.label            "Կրկնօրինակել Նկարի Հասցեն">
-<!ENTITY copyLinkCmd.accesskey        "ա">
+<!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "Ուղարկել Տեսագրություն...">
+<!ENTITY sendVideoCmd.accesskey       "Ո">
+<!ENTITY sendAudioCmd.label           "Ուղարկել Ձայնագրություն...">
+<!ENTITY sendAudioCmd.accesskey       "Ո">
+<!ENTITY copyLinkCmd.label            "Կրկնել Հղման Հասցեն">
+<!ENTITY copyLinkCmd.accesskey        "Կ">
 <!ENTITY copyLinkTextCmd.label        "Կրկնօրինակել Հղման Տեքստը">
-<!ENTITY copyLinkTextCmd.accesskey    "ր">
-<!ENTITY copyImageCmd.label           "Կրկնօրինակել Նկարի Հասցեն">
-<!ENTITY copyImageCmd.accesskey       "օ">
+<!ENTITY copyLinkTextCmd.accesskey    "x">
+<!ENTITY copyImageCmd.label           "Կրկնել Նկարի Հասցեն">
+<!ENTITY copyImageCmd.accesskey       "Կ">
 <!ENTITY copyImageContentsCmd.label   "Կրկնօրինակել Նկարը">
-<!ENTITY copyImageContentsCmd.accesskey  "կ"> 
-<!ENTITY blockImageCmd.accesskey       "բ">
-<!ENTITY metadataCmd.label            "Հատկանիշներ">
-<!ENTITY metadataCmd.accesskey        "Հ">
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyVideoURLCmd.label        "Կրկնօրինակել Հոլովակի Հասցեն">
+<!ENTITY copyVideoURLCmd.accesskey    "Կ">
+<!ENTITY copyAudioURLCmd.label        "Կրկնօրինակել  Ձայնագրության Հասցեն">
+<!ENTITY copyAudioURLCmd.accesskey    "Կ">
+<!ENTITY blockImageCmd.accesskey      "բ">
 <!ENTITY copyEmailCmd.label           "Կրկնօրինակել Մեյլի Հասցեն">
-<!ENTITY copyEmailCmd.accesskey       "Մ">
-<!ENTITY thisFrameMenu.label              "Այս Ենթապատուհանը">
-<!ENTITY thisFrameMenu.accesskey          "յ">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY thisFrameMenu.label              "Այս շրջանակում">
+<!ENTITY thisFrameMenu.accesskey          "Ա">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Միացնել">
+<!ENTITY mediaPlay.accesskey         "p">
+<!ENTITY mediaPause.label            "Ընդմիջել">
+<!ENTITY mediaPause.accesskey        "p">
+<!ENTITY mediaMute.label             "Սսկել">
+<!ENTITY mediaMute.accesskey         "m">
+<!ENTITY mediaUnmute.label           "Ձայն">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "Ցուցադրել ղեկավարիչներին">
+<!ENTITY mediaShowControls.accesskey "Ց">
+<!ENTITY mediaHideControls.label     "Թաքցնել ղեկավարիչները">
+<!ENTITY mediaHideControls.accesskey "Թ">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -325,120 +383,108 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "Խոշորացնել">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "Խ">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Փոքրացնել">
-<!ENTITY fullZoomReduceCmd.accesskey    "Փ">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Բերել Նախնական Վիճակի">
-<!ENTITY fullZoomResetCmd.accesskey     "Ն">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Խոշորացնել Միայն Տեքստը">
-<!ENTITY fullZoomToggleCmd.accesskey    "Տ">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "Խոշորացնել">
-<!ENTITY fullZoom.accesskey             "ո">
+<!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Բացել Նոր Ներդիրում">
-<!ENTITY newWindowButton.tooltip        "Բացել Նոր Պատուհանում">
-<!ENTITY sidebarCloseButton.tooltip     "Փակել Կողային վահանակը">
+<!ENTITY newTabButton.tooltip           "Նոր ներդիր բացել">
+<!ENTITY newWindowButton.tooltip        "Նոր պատուհան բացել">
+<!ENTITY sidebarCloseButton.tooltip     "Փակել կողավահանակը">
 
 <!ENTITY cutButton.tooltip              "Կտրել">
-<!ENTITY copyButton.tooltip             "Կրկնօրինակել">
-<!ENTITY pasteButton.tooltip            "Տեղադրել">
+<!ENTITY copyButton.tooltip             "Կրկնակել">
+<!ENTITY pasteButton.tooltip            "Մեջբերել">
+<!ENTITY fullScreenButton.tooltip       "Ցուցադրել պատուհանը որջ էկրանով">
 
-<!ENTITY quitApplicationCmdWin.label       "Ելք"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "Ե">
+<!ENTITY quitApplicationCmdWin.label       "Ավարտել"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "x">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Ելք"> 
-<!ENTITY quitApplicationCmd.accesskey   "Ե">
+<!ENTITY quitApplicationCmd.label       "Լքել"> 
+<!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac.label    "Ելք &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Ե">
 
 <!ENTITY closeCmd.label                 "Փակել">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "Փ">
+<!ENTITY closeCmd.accesskey             "C">
 
-<!ENTITY pageStyleMenu.label "Էջի Ստիլը">
-<!ENTITY pageStyleMenu.accesskey "տ">
-<!ENTITY pageStyleNoStyle.label "Առանց Ստիլի">
-<!ENTITY pageStyleNoStyle.accesskey "Ա">
-<!ENTITY pageStylePersistentOnly.label "Էջի Հիմնական Ստիլը">
-<!ENTITY pageStylePersistentOnly.accesskey "Հ">
-
-<!ENTITY pageReportIcon.tooltip            "Փոխել փոփ-ափի blocking settings for this web site">
-
-<!ENTITY allowPopups.accesskey "p">
-<!ENTITY textZoomEnlargeCmd.label "Ավելացնել">
-<!ENTITY textZoomEnlargeCmd.accesskey "Ա">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Նվազեցնել">
-<!ENTITY textZoomReduceCmd.accesskey "զ">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Սովորական">
-<!ENTITY textZoomResetCmd.accesskey "Ս">
-<!ENTITY textSize.label "Տեքստի Չափսը">
-<!ENTITY textSize.accesskey "Չ">
-<!ENTITY mailMenu.label "Էլ-Փոստ և Նորություններ">
-<!ENTITY mailMenu.accesskey "և">
-<!ENTITY mailButton.label "Էլ-Փոստ">
-<!ENTITY mailButton.tooltip "Կարդալ և Ուղղարկել էլ-Փոստ">
-<!ENTITY mailButton.readMail.label "Կարդալ էլ-Փոստը">
-<!ENTITY mailButton.readMail.accesskey "ո">
-<!ENTITY mailButton.newMessage.label "Նոր Նամակ…">
-<!ENTITY mailButton.newMessage.accesskey "մ">
-<!ENTITY mailButton.sendLink.label "Հղումն ուղղարկել…">
-<!ENTITY mailButton.sendLink.accesskey "Հ">
-<!ENTITY mailButton.readNews.label "Կարդալ Նորությունները">
-<!ENTITY mailButton.readNews.accesskey "Կ">
-<!ENTITY sendMessage.commandkey "m">
-<!ENTITY newTabButton.tooltip "Նոր ներդիր բացել">
-<!ENTITY newWindowButton.tooltip "Նոր պատուհան բացել">
-<!ENTITY sidebarCloseButton.tooltip "Փակել կողավահանակը">
-<!ENTITY cutButton.tooltip "Կտրել">
-<!ENTITY copyButton.tooltip "Կրկնակել">
-<!ENTITY pasteButton.tooltip "Մեջբերել">
-<!ENTITY quitApplicationCmdWin.label "Ավարտել">
-<!ENTITY quitApplicationCmdWin.accesskey "վ">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label "Լքել">
-<!ENTITY quitApplicationCmd.accesskey "ք">
-<!ENTITY closeCmd.label "Փակել">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "Փ">
 <!ENTITY pageStyleMenu.label "Էջի Ոճը">
-<!ENTITY pageStyleMenu.accesskey "ճ">
-<!ENTITY pageStyleButton.label "Էջի Ոճը">
+<!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "Առանձ Ոճի">
-<!ENTITY pageStyleNoStyle.accesskey "ռ">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "Օգտագործել Էջի Հիմնական Ոճը">
-<!ENTITY pageStylePersistentOnly.accesskey "մ">
-<!ENTITY pageStyleIcon.tooltip "Փոխել այլնտրանքային էջավոճի">
-<!ENTITY pageReportIcon.tooltip "Փոխել այս էջի համար ինքնաելիցների արգելակման դրույթները">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
+
+<!ENTITY pageReportIcon.tooltip            "Փոխել այս էջի համար ինքնաելիցների արգելակման դրույթները">
+
 <!ENTITY allowPopups.accesskey "ի">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Խմբագրել Ինքնաելիցների Խափանման Նախընտրանքները…">
 <!ENTITY editPopupSettings.label "Խմբագրել Ինքաելիցների Արգելակման Հատկանիշները…">
-<!ENTITY editPopupSettings.accesskey "Խ">
+<!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "Չ">
-<!ENTITY bidiSwitchPageDirectionItem.label "Փոխել Էջի Ուղղությունը">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "յ">
-<!ENTITY bidiSwitchTextDirectionItem.label "Փոխել Տեքստի Ուղղությունը">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "ս">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
-<!ENTITY findOnCmd.label "Փնտրել էջում…">
-<!ENTITY findOnCmd.accesskey "Փ">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Փոխել Էջի Ուղղությունը">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Փոխել Տեքստի Ուղղությունը">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "Փնտրել էջում…">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Նորից Գտնել">
-<!ENTITY findAgainCmd.accesskey "ց">
+<!ENTITY findAgainCmd.label  "Նորից Գտնել">
+<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "Ավելացնել Բառարաններ...">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
+<!ENTITY editBookmark.done.label                     "Կատարված է">
+<!ENTITY editBookmark.cancel.label                   "Չեղարկել">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.undo.label                     "Ետ տալ">
+<!ENTITY editBookmark.undo.accessKey                 "U">
+<!ENTITY editBookmark.edit.label                     "Խմբագրել...">
+<!ENTITY editBookmark.edit.accessKey                 "E">
+
+<!ENTITY identity.unverifiedsite2 "Այս վեբ կայքը չի տրամադրում ին նույնացման ինֆորմացիան:">
+<!ENTITY identity.connectedTo "Դուք կապնվել էք">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "որը ղեկավարվում է">
+
+<!ENTITY identity.moreInfoLinkText "Մանրամասն...">
+
+<!ENTITY downloadMonitor2.tooltip "Կտտացրեք, որ բացվի բեռնումների պատուհանը">
+
+<!ENTITY allTabs.filter.emptyText "Որոնման Ներդիրներ">

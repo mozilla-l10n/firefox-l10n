@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,34 +37,34 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY editMenu.label "Խմբագրել">
-<!ENTITY editMenu.accesskey "խ">
-<!ENTITY undoCmd.label "Հետդարձնել">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "հ">
-<!ENTITY redoCmd.label "Կրկնել">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "ն">
-<!ENTITY cutCmd.label "Կտրել">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "տ">
-<!ENTITY copyCmd.label "Կրկնակել">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "կ">
-<!ENTITY pasteCmd.label "Մեջբերել">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "մ">
-<!ENTITY deleteCmd.label "Ջնջել">
-<!ENTITY deleteCmd.accesskey "ջ">
-<!ENTITY selectAllCmd.label "Ամբողջն ընտրել">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ա">
-<!ENTITY findCmd.label "Փնտրել">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "Փ">
-<!ENTITY findAgainCmd.label "Նորից Փնտրել">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findAgainCmd.accesskey "ո">
-<!ENTITY findPreviousCmd.label "Փնտրել Նախորդը">
-<!ENTITY findPreviousCmd.accesskey "խ">
+<!ENTITY editMenu.label            "Խմբագրել">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label             "Հրաժարվել">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY undoCmd.accesskey         "u">
+<!ENTITY redoCmd.label             "Կրկնել">
+<!ENTITY redoCmd.key               "Y">
+<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY cutCmd.label              "Կտրել">
+<!ENTITY cutCmd.key                "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label             "Կրկնակել">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "C">
+<!ENTITY pasteCmd.label            "Մեջբերել">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY deleteCmd.label           "Ջնջել">
+<!ENTITY deleteCmd.accesskey       "D">
+<!ENTITY selectAllCmd.label        "Ամբողջն ընտրել">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey    "S">
+<!ENTITY findCmd.label             "Փնտրել">
+<!ENTITY findCmd.key               "F">
+<!ENTITY findCmd.accesskey         "F">
+<!ENTITY findAgainCmd.label        "Նորից Փնտրել">
+<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "g">
+<!ENTITY findPreviousCmd.label     "Փնտրել Նախորդը">
+<!ENTITY findPreviousCmd.accesskey "v">

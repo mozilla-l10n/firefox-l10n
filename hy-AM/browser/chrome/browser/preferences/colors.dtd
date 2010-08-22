@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,21 +37,25 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY colorsDialog.title "Գույներ">
-<!ENTITY window.width "38em">
-<!ENTITY allowPagesToUse.label "Թույլատրել էջերին, վերը նշվածների փոխարեն, ընտրել իրենց սեփական գույները">
-<!ENTITY allowPagesToUse.accesskey "ս">
-<!ENTITY color "Տեքստ և Աստառ">
-<!ENTITY textColor.label "Տեքստ.">
-<!ENTITY textColor.accesskey "Տ">
-<!ENTITY backgroundColor.label "Աստառ.">
-<!ENTITY backgroundColor.accesskey "Ա">
-<!ENTITY useSystemColors.label "Օգտագործել համակարգի գույները">
-<!ENTITY useSystemColors.accesskey "հ">
-<!ENTITY underlineLinks.label "Հղաւմներն ընդգծել">
-<!ENTITY underlineLinks.accesskey "Ն">
-<!ENTITY links "Հղման Գույները">
-<!ENTITY linkColor.label "Չայցելված հղումներ.">
-<!ENTITY linkColor.accesskey "ղ">
-<!ENTITY visitedLinkColor.label "Այցելված հղումներ.">
-<!ENTITY visitedLinkColor.accesskey "ց">
+<!ENTITY  colorsDialog.title              "Գույներ">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "Թույլատրել էջերին, վերը նշվածների փոխարեն, ընտրել իրենց սեփական գույները">
+<!ENTITY  allowPagesToUse.accesskey       "A">
+
+<!ENTITY  color                           "Տեքստ և Աստառ">
+<!ENTITY  textColor.label                 "Տեքստ.">
+<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  backgroundColor.label           "Աստառ.">
+<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  useSystemColors.label           "Օգտագործել համակարգի գույները">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "Հղաւմներն ընդգծել">
+<!ENTITY  underlineLinks.accesskey        "U">
+<!ENTITY  links                           "Հղման Գույները">
+<!ENTITY  linkColor.label                 "Չայցելված հղումներ.">
+<!ENTITY  linkColor.accesskey             "U">
+<!ENTITY  visitedLinkColor.label          "Այցելված հղումներ.">
+<!ENTITY  visitedLinkColor.accesskey      "V">

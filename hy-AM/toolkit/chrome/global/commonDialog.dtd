@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,9 +37,13 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY header.label "Համառոտ Վերնագիր">
-<!ENTITY message.label "Օրինակը հայտնվում է այստեղ.">
-<!ENTITY editfield0.label "Օգտվողի Անուն.">
-<!ENTITY editfield1.label "Գաղտնաբառ.">
-<!ENTITY editfield2.label "Հաստատել Գաղտնաբառը.">
-<!ENTITY checkbox.label "ստուգել">
+<!ENTITY header.label     "Համառոտ Վերնագիր"> 
+<!ENTITY message.label    "Օրինակը հայտնվում է այստեղ.">
+<!ENTITY editfield0.label "Օգտվողի Անուն."> 
+<!ENTITY editfield1.label "Գաղտնաբառ."> 
+<!ENTITY editfield2.label "Հաստատել Գաղտնաբառը."> 
+<!ENTITY checkbox.label   "ստուգել">
+<!ENTITY copyCmd.label    "Կրկնակել">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Նշել Ամբողջը">
+<!ENTITY selectAllCmd.accesskey "A">

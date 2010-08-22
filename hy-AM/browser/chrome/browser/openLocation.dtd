@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,12 +37,13 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY enter.label "Նշեք հասցե (URL), կամ տեղայի ֆայլ որ կցանկանայիք բացել. ">
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Նշեք հասցե (URL), կամ տեղայի ֆայլ որ կցանկանայիք բացել. ">  
 <!ENTITY chooseFile.label "Ընտրել Ֆայլ…">
 <!ENTITY newWindow.label "Նոր Պատուհան">
 <!ENTITY newTab.label "Նոր Ներդիր">
-<!ENTITY topWindow.label "Առկա Պատուհանը">
+<!ENTITY topTab.label "Ընթացիկ ներդիրը">
 <!ENTITY caption.label "Web-Հասցեն Բացել">
 <!ENTITY openWhere.label "Բացոլ ուր.">
-<!ENTITY example.label "Օրինակ՝. &vendorURL;">
 <!ENTITY openBtn.label "Բացել">

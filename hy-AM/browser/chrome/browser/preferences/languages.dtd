@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,18 +37,18 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY window.width "30em">
-<!ENTITY languages.customize.Header "Լեզուներն ու Գրանշանների Կոդավորումը">
-<!ENTITY languages.customize.label "Լեզուներ">
-<!ENTITY languages.customize.prefLangDescript "Հաճախ վեբ էջերը ստեղծված են լինում տարբեր լեզուներով: Ընտրեք նման էջերի ցույց տալու լեզուն ըստ նախընտրության կարգի:">
-<!ENTITY languages.customize.active.label "Լեզուներն ըստ նախընտրության կարգի.">
-<!ENTITY languages.customize.moveUp.label "Վեր">
-<!ENTITY languages.customize.moveUp.accesskey "ե">
-<!ENTITY languages.customize.moveDown.label "Վար">
-<!ENTITY languages.customize.moveDown.accesskey "ա">
-<!ENTITY languages.customize.deleteButton.label "Հեռացնել">
-<!ENTITY languages.customize.deleteButton.accesskey "Հ">
-<!ENTITY languages.customize.selectLanguage.label "Ընտրեք ավելացվելիք լեզուն…">
-<!ENTITY languages.customize.selectLanguage.accesskey "լ">
-<!ENTITY languages.customize.addButton.label "Ավելացնել">
-<!ENTITY languages.customize.addButton.accesskey "վ">
+<!ENTITY window.width                                   "30em">
+
+<!ENTITY languages.customize.Header                     "Լեզուներ">
+<!ENTITY languages.customize.prefLangDescript           "Հաճախ վեբ էջերը ստեղծված են լինում տարբեր լեզուներով: Ընտրեք նման էջերի ցույց տալու լեզուն ըստ նախընտրության կարգի:">
+<!ENTITY languages.customize.active.label               "Լեզուներն ըստ նախընտրության կարգի.">
+<!ENTITY languages.customize.moveUp.label               "Վեր">
+<!ENTITY languages.customize.moveUp.accesskey           "U">
+<!ENTITY languages.customize.moveDown.label             "Վար">
+<!ENTITY languages.customize.moveDown.accesskey         "D">
+<!ENTITY languages.customize.deleteButton.label         "Հեռացնել">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
+<!ENTITY languages.customize.selectLanguage.label       "Ընտրեք ավելացվելիք լեզուն…">
+<!ENTITY languages.customize.addButton.label            "Ավելացնել">
+<!ENTITY languages.customize.addButton.accesskey        "A">
+

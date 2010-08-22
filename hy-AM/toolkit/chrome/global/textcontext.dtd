@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,14 +38,22 @@
 
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY cutCmd.label "Կտրել">
-<!ENTITY cutCmd.accesskey "տ">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Կրկնակել">
-<!ENTITY copyCmd.accesskey "կ">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Մեջբերել">
-<!ENTITY pasteCmd.accesskey "մ">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY undoCmd.label "Հետդարձնել">
-<!ENTITY undoCmd.accesskey "հ">
+<!ENTITY undoCmd.accesskey "U">
 <!ENTITY selectAllCmd.label "Ամբողջն ընտրել">
-<!ENTITY selectAllCmd.accesskey "ա">
+<!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY deleteCmd.label "Ջնջել">
-<!ENTITY deleteCmd.accesskey "ջ">
+<!ENTITY deleteCmd.accesskey "D">
+
+<!ENTITY spellAddToDictionary.label "Ավելացնել բառարանում">
+<!ENTITY spellAddToDictionary.accesskey "Ա">
+<!ENTITY spellCheckEnable.label "Ստուգել ուղղագրությունը">
+<!ENTITY spellCheckEnable.accesskey "Ս">
+<!ENTITY spellNoSuggestions.label "(հուշում չկա)">
+<!ENTITY spellDictionaries.label "Լեզուներ">
+<!ENTITY spellDictionaries.accesskey "L">

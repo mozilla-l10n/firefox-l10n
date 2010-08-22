@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,25 +37,17 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY tabsTab.label "Ներդիրներ">
-<!ENTITY openExternalLinksIn.label "Այլ ծրագրերից հղումները բացել.">
-<!ENTITY newWindow.label "նոր պատուհանում">
-<!ENTITY newWindow.accesskey "w">
-<!ENTITY newTabInRecentWindow.label "ամենաթարմ պատուհանի նոր ներդիրում">
-<!ENTITY newTabInRecentWindow.accesskey "t">
-<!ENTITY recentWindowOrTab.label "ամենաթարմ ներդիրում կամ պատուհանում">
-<!ENTITY recentWindowOrTab.accesskey "r">
-<!ENTITY forceNewWindowLinks.label "Նոր պատուհան բացող հղումները բացել.">
-<!ENTITY forceNewWindowLinks.accesskey "Պ">
-<!ENTITY sameTabOrWindow.label "հղման ներդիրում կամ պատուհանում">
-<!ENTITY sameTabOrWindow.accesskey "s">
-<!ENTITY newTab.label "նոր ներդիրում">
-<!ENTITY newTab.accesskey "n">
-<!ENTITY hideTabBar.label "Միայն մեկ բաց էջի դեպքում թաքցնել ներդիրների վահանակը">
-<!ENTITY hideTabBar.accesskey "d">
-<!ENTITY loadInBackground.label "Անցնել դեպի հղումից բացված ներդիրը">
-<!ENTITY loadInBackground.accesskey "l">
-<!ENTITY loadBookmarksInBackground.label "Անցնել էջանիշից կամ մատյանից բացված ներդիրին">
-<!ENTITY loadBookmarksInBackground.accesskey "b">
-<!ENTITY warnOnClose.label "Բազմաթիվ ներդիրներ փակելիս զգուշացնել">
-<!ENTITY warnOnClose.accesskey "m">
+<!ENTITY newWindowsAsTabs.label       "Նոր պատուհանները բացել նոր ներդիրում">
+<!ENTITY newWindowsAsTabs.accesskey   "Ն">
+
+<!ENTITY warnCloseMultipleTabs.label  "Զգուշացնել բազմակի ներդիրների փակման պարագայում">
+<!ENTITY warnCloseMultipleTabs.accesskey  "Զ">
+
+<!ENTITY warnOpenManyTabs.label       "Զգուշացնել բազմակի ներդիրների բացման պարագայում, որոնք կարող են դանդաղեցնել &brandShortName; -ի աշխատանքը:">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
+
+<!ENTITY showTabBar.label             "Միշտ ցույց տալ էջադիրերի վահանակը">
+<!ENTITY showTabBar.accesskey         "Մ">
+
+<!ENTITY switchToNewTabs.label        "Անցնել նոր բացվող պատուհանը">
+<!ENTITY switchToNewTabs.accesskey    "Ա">

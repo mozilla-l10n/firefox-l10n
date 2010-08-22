@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,13 +37,15 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY history.title "Թարմացման Մատյան">
-<!ENTITY history.intro "Հետեվյալ թարմացումները տեղադրվել են.">
-<!ENTITY closebutton.label "Փակել">
-<!ENTITY detailsButton.label "Մանրամասներ">
-<!ENTITY detailsButton.accesskey "Մ">
-<!ENTITY noupdates.label "Առայժմ թարմացումներ չեն տեղադրվել">
-<!ENTITY name.header "Թարմացման Անվանումը">
-<!ENTITY date.header "Տեղադրման Ամսաթիվը">
-<!ENTITY type.header "Տիպը">
-<!ENTITY state.header "Վիճակը">
+
+<!ENTITY  history.title             "Թարմացման Մատյան">
+<!ENTITY  history.intro             "Հետեվյալ թարմացումները տեղադրվել են.">
+<!ENTITY  closebutton.label         "Փակել">
+                                     
+<!ENTITY  noupdates.label           "Առայժմ թարմացումներ չեն տեղադրվել">
+
+<!ENTITY  name.header               "Թարմացման Անվանումը">
+<!ENTITY  date.header               "Տեղադրման Ամսաթիվը">
+<!ENTITY  type.header               "Տիպը">
+<!ENTITY  state.header              "Վիճակը">
+

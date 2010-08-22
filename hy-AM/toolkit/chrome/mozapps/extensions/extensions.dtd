@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,54 +37,179 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY extensions.title "Հավելումներ">
-<!ENTITY cmd.info.commandKey "i">
-<!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
-<!ENTITY cmd.uninstall.label "Հեռացնել">
-<!ENTITY cmd.uninstall.tooltip "Հեռացնում է ընտրված հավելումները">
-<!ENTITY cmd.uninstall.accesskey "ռ">
-<!ENTITY cmd.update.label "Թարմացնել">
-<!ENTITY cmd.update.accesskey "թ">
-<!ENTITY cmd.update.tooltip "Ստուգում է Ձեր հավելումների թարմացումները">
-<!ENTITY cmd.useTheme.label "Օգտագործել ձևավորումը">
-<!ENTITY cmd.useTheme.accesskey "օ">
-<!ENTITY cmd.useTheme.tooltip "Փոխում է &brandShortName;­ի ձևավորումը">
-<!ENTITY cmd.install.label "Տեղադրել">
-<!ENTITY cmd.install.tooltip "Տեղադրել հավելում">
-<!ENTITY cmd.install.accesskey "տ">
-<!ENTITY cmd.options.label "Հատկանիշներ">
-<!ENTITY cmd.options.accesskey "հ">
-<!ENTITY cmd.options.tooltip "Զետեղել ընտրված հավելումների հատկանիշները">
-<!ENTITY cmd.optionsUnix.label "Նախըտրանքներ">
-<!ENTITY cmd.optionsUnix.accesskey "ն">
-<!ENTITY cmd.optionsUnix.tooltip "Խմբագրել Ընտրված Հավելման Հատկանիշները">
-<!ENTITY cmd.homepage.label "Այցելել Տնային Էջը">
-<!ENTITY cmd.homepage.accesskey "է">
-<!ENTITY cmd.about.label "Այս հավելման մասին">
-<!ENTITY cmd.about.accesskey "ա">
-<!ENTITY cmd.updateAddon.label "Find Update">
-<!ENTITY cmd.updateAddon.accesskey "F">
-<!ENTITY cmd.enable.label "Միացնել">
-<!ENTITY cmd.enable.accesskey "մ">
-<!ENTITY cmd.disable.label "Անջատել">
-<!ENTITY cmd.disable.accesskey "Ա">
-<!ENTITY cmd.moveToTop.label "Տեղաշարժել Վերեվ">
-<!ENTITY cmd.moveToTop.accesskey "ե">
-<!ENTITY cmd.moveUp.label "Վեր">
-<!ENTITY cmd.moveUp.accesskey "վ">
-<!ENTITY cmd.moveDn.label "Վար">
-<!ENTITY cmd.moveDn.accesskey "ա">
-<!ENTITY cmd.showFolder.label "Ցուցադրել Բաղադրությունը…">
-<!ENTITY cmd.showFolder.accesskey "Բ">
-<!ENTITY options.tooltip "Հատկանիշներ">
-<!ENTITY optionsUnix.tooltip "Նախըտրանքներ">
-<!ENTITY about.tooltip "Մասին">
-<!ENTITY homepage.tooltip "Սկզբնաէջ">
-<!ENTITY installNow.label "Update Now">
-<!ENTITY getMoreExtensions.label "Գտնել այլ հավելումներ">
-<!ENTITY getMoreExtensions.tooltip "Գտնել այլ հավելումներ addons.mozilla.org­ից">
-<!ENTITY getMoreThemes.label "Հավելյալ ձեվավորումներ">
-<!ENTITY getMoreThemes.tooltip "Հավելյալ ձեվավորումներ addons.mozilla.org հանգույցից">
-<!ENTITY previewNoThemeSelected.label "Ոչ մի ձեվավորում ընտրված չե">
-<!ENTITY previewNoPreviewImage.label "Այս ձեվավորումը ցուցադրական էջ չունի">
+<!ENTITY addons.title                     "Հավելումներ">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "630">
+<!ENTITY em.height                        "400">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "Ձեռք բերել հավելումներ">
+<!ENTITY extensions.label                 "Ընդարձակումներ">
+<!ENTITY themes.label                     "Թեմաներ">
+<!ENTITY locales.label                    "Լեզուներ">
+<!ENTITY plugins.label                    "Պլագիններ">
+<!ENTITY update.label                     "Թարմացումներ">
+<!ENTITY install.label                    "Տեղակայումներ">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "Գտնել թարմացումներ">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "Գ">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Փնտրել թարմացումները ձեր հավելումների համար">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Փնտրել թարմացումները ձեր թեմաների համար">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Փտնել պլագինների թարմացում">
+<!ENTITY cmd.installLocalFile.label       "Տեղադրել...">
+<!ENTITY cmd.installLocalFile.accesskey   "Տ">
+<!ENTITY cmd.installFileAddon.tooltip     "Տեղադրել Հավելում">
+<!ENTITY cmd.installFileTheme.tooltip     "Տեղադրել Թեմա">
+<!ENTITY cmd.installUpdatesAll2.label     "Տեղադրել Թարմացումներ">
+<!ENTITY cmd.installUpdatesAll2.accesskey "i">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Տեղադրել նշված թարմացումները">
+<!ENTITY cmd.restartApp2.label            "Վերսկսել &brandShortName; -ը">
+<!ENTITY cmd.restartApp2.accesskey        "r">
+<!ENTITY cmd.restartApp2.tooltip          "Փոփխությունները կիրառելու համար Վերսկսել &brandShortName; -ը">
+<!ENTITY cmd.skip.label                   "Անցնել">
+<!ENTITY cmd.skip.accesskey               "Ա">
+<!ENTITY cmd.skip.tooltip                 "Շրջանցել հետևյալ թարմացումները">
+<!ENTITY cmd.continue.label               "Շարունակել">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.continue.tooltip             "Շարունակել &brandShortName; -ի բեռնումը">
+
+<!ENTITY cmd.enableAll.label              "Ակտիվացնել բոլորը">
+<!ENTITY cmd.enableAll.accesskey          "Ա">
+<!ENTITY cmd.enableAll.tooltip            "Միացնել բերված բոլոր Հավելումները">
+<!ENTITY cmd.disableAll.label             "Անջատել Բոլորը">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "Անջատել ցուցադրված բոլոր Հավելումները">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "Օգտագործել ձևավորումը">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "Փոխում է &brandShortName;­ի ձևավորումը">
+<!ENTITY cmd.options.label                "Հատկանիշներ">
+<!ENTITY cmd.options.accesskey            "O">
+<!ENTITY cmd.options.tooltip              "Զետեղել ընտրված հավելումների հատկանիշները">
+<!ENTITY cmd.optionsUnix.label            "Նախըտրանքներ">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "Խմբագրել Ընտրված Հավելման Հատկանիշները">
+<!ENTITY cmd.enable.label                 "Միացնել">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "Միացնել այս հավելումը &brandShortName; -ը վերսկսելուց հետո">
+<!ENTITY cmd.disable.label                "Անջատել">
+<!ENTITY cmd.disable.accesskey            "D">
+<!ENTITY cmd.disable.tooltip              "Անջատել այս հավելումը &brandShortName; -ը վերսկսելուց հետո">
+<!ENTITY cmd.uninstall.label              "Հեռացնել">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "Ջնջել այս հավելումը &brandShortName; -ը վերսկսելուց հետո">
+<!ENTITY cmd.cancelUninstall.label        "Ընդհատել Ջնջումը">
+<!ENTITY cmd.cancelUninstall.accesskey    "Ը">
+<!ENTITY cmd.cancelUninstall.tooltip      "Ընդհատել այս հավելման ջնջումը">
+<!ENTITY cmd.cancelInstall.label          "Ընդհատել Տեղակայումը">
+<!ENTITY cmd.cancelInstall.accesskey      "Ը">
+<!ENTITY cmd.cancelInstall.tooltip        "Ընդհատել այս հավելման տեղակայումը">
+<!ENTITY cmd.cancelUpgrade.label          "Ընդհատել Թարմացումը">
+<!ENTITY cmd.cancelUpgrade.accesskey      "Ը">
+<!ENTITY cmd.cancelUpgrade.tooltip        "Ընդհատել այս հավելման թարմացումը">
+<!ENTITY cmd.installUpdate.label          "Տեղակայել Թարմացումը">
+<!ENTITY cmd.installUpdate.accesskey      "Տ">
+<!ENTITY cmd.installUpdate.tooltip        "Տեղակայել այս Հավելման թարմացումը">
+<!ENTITY cmd.showUpdateInfo.label         "Ցուցադրել Ինֆորմացիան">
+<!ENTITY cmd.showUpdateInfo.accesskey     "Ց">
+<!ENTITY cmd.showUpdateInfo.tooltip       "Ցույց տալ մանրամասն տեղեկություն այս թարմացումների վերաբերյալ">
+<!ENTITY cmd.hideUpdateInfo.label         "Թաքցնել Տեղեկությունը">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "Թ">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "Թաքցնել այս թարմացումների մասին տեղեկությունը">
+<!ENTITY cmd.installSearchResult.label     "Ավելացնել &brandShortName;-ում...">
+<!ENTITY cmd.installSearchResult.accesskey "a">
+<!ENTITY cmd.installSearchResult.tooltip   "Բեռնել և տեղադրել այս հավելումը">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "Չեղարկել">
+<!ENTITY cancel.accesskey                 "C">
+<!ENTITY cancelInstall.label              "Չեղարկել">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "Չեղարկել">
+<!ENTITY cancelUpgrade.accesskey          "C">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "Այցելել Տնային Էջը">
+<!ENTITY cmd.homepage.accesskey           "H">
+<!ENTITY cmd.about2.label                 "Այս հավելման մասին">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "Գտնել թարմացում">
+<!ENTITY cmd.checkUpdate.accesskey        "Գ">
+
+<!ENTITY cmd.includeUpdate.label          "Ներառել թարմացումները">
+<!ENTITY cmd.includeUpdate.accesskey      "Ն">
+<!ENTITY includeUpdate.label              "Ներառել այս հավելումը">
+<!ENTITY includeUpdate.accesskey          "Ն">
+<!ENTITY includeUpdate.tooltip            "Թարմացումների տեղադրման ժամանակ ներառել այս հավելումը">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "Չի ապահովում անվտանգ թարմացումներ:">
+<!ENTITY needsDependencies.label          "Պահանջում է հավելային բաղադրիչներ:">
+<!ENTITY blocklisted.label                "Անջատված է ձեր անվտանգության համար:">
+<!ENTITY softBlocklisted.label            "Հայտնի է անվտանգության և կայունության խնդիրներ առաջացնելով:">
+<!ENTITY outdated.label                   "Հասանելի է ավելի նոր, անվտանգ տարբերակը:">
+<!ENTITY toBeDisabled.label               "Այս հավելումը կանջատվի &brandShortName;-ի վերսկսումից հետո:">
+<!ENTITY toBeEnabled.label                "Այս հավելումը կակտիվանա &brandShortName;-ի վերսկսումից հետո:">
+<!ENTITY toBeInstalled.label              "Այս հավելումը կտեղակայվի &brandShortName;ի հաջորդ մեկնարկման ժամանակ:">
+<!ENTITY toBeUninstalled.label            "Այս հավելումը կջնջվի երբ &brandShortName;-ը վերսկսի աշխատանքը:">
+<!ENTITY toBeUpdated.label                "Այս հավելումը կթարմացվի երբ &brandShortName;-ը վերսկսի աշխատանքը:">
+
+<!ENTITY getExtensions.label              "Բեռնել ընդլայնում">
+<!ENTITY getThemes.label                  "Բեռնել թեմաներ">
+<!ENTITY getPlugins.label                 "Բեռնել պլագիններ">
+
+<!ENTITY searchAddons.label               "Փնտրել բոլոր հավելումներում">
+<!ENTITY browseAddons.label               "Դիտարկել բոլոր հավելուները">
+<!ENTITY searchFailed.label               "&brandShortName;-ը չկարողացավ գտնել հավելումներ">
+<!ENTITY recommendedHeader.label          "Ռեկոմենդացված">
+<!ENTITY recommendedThrobber.label        "Ստանում է խորհուրդ տրված հավելումները">
+<!ENTITY searchThrobber.label             "Հավելումների որոնում">
+<!ENTITY resetSearch.label                "Մաքրել արդյունքները">
+<!ENTITY noSearchResults.label            "Բոլոր գտնված հավելումները արդեն զետեղված են կամ անհամատեղելի են:">
+<!ENTITY noRecommendedResults.label       "Բոլոր ռեկոմենդացիաները արդեն տեղադրված են կամ անհամատեղելի են:">
+<!ENTITY emptySearch.label                "Չկան համապատասխան հավելումներ">
+<!ENTITY emptySearch.button               "Այո՛">
+<!ENTITY cancelSearch.button              "Չեղարկել">
+<!ENTITY searchFailed.button              "Այո՛">
+<!ENTITY searchResultHomepage.value       "Իմանալ ավելին">
+<!ENTITY searchBox.label                  "Փնտրել բոլոր հավելումներում">
+<!ENTITY recommendedResults.label         "Դիտել բոլոր ռեկեմենդացիաները">
+<!ENTITY searchResultConnecting.label     "Կապի հաստատում…">
+<!ENTITY searchResultInstalling.label     "Տեղակայում ...">
+<!ENTITY searchResultFailed.label         "Տեղակայումը Չստացվեց">
+<!ENTITY searchResultInstalled.label      "Տեղադրումն ավարտվեց">
+<!ENTITY addonTypeExtension.label         "Ընդարձակումներ">
+<!ENTITY addonTypeTheme.label             "Թեմա">
+<!ENTITY missingThumbnail.label           "Չկա նախնական դիտում">
+
+<!ENTITY previewNoThemeSelected.label     "Ոչ մի ձեվավորում ընտրված չե">
+<!ENTITY previewNoPreviewImage.label      "Այս ձեվավորումը ցուցադրական էջ չունի">
+<!ENTITY moreInfo.label                   "Ավելի շատ տեղեկություն">
+<!ENTITY infoNoAddonSelected.label        "Թարմացում չի նշվել">
+<!ENTITY infoNoUpdateInfo.label           "Այս հավելումը չունի հավելյալ տեղեկություն">
+<!ENTITY infoUpdateInfoError.label        "Այս թարմացման մասին տեղեկություն բեռնելիս տեղի ունեցավ վթար">
+
+<!ENTITY updateSuccess.label              "Թարմացումը բարեհաջող ավարտվեց">
+<!ENTITY installSuccess.label             "Տեղակայումը բարեհաջող ավարտված է:">
+<!ENTITY installSuccessRestart.label      "Տեղակայումն ավարտելու համար անհրաժեշտ է վերամեկնարկել:">
+<!ENTITY updateSuccessRestart.label       "Թարմացումն ավարտելու համար պետք է վերամեկնարկել:">
+<!ENTITY installWaiting.label             "Պատրաստվում է տեղակայման ...">
+<!ENTITY installIncompatibleUpdate.label  "Ստուգվում է համատեղելիությունը…">
+<!ENTITY installFinishing.label           "Տեղակայում...">
+<!ENTITY installFailure.label             "Տեղակայումը չհաջողվեց:">
+
+<!ENTITY progressStatus.label             "Ստուգվում է թարմացման առկայությունը">
+
+<!ENTITY eula.title                       "Վերջին օգտագործողի լիցենզիոն համաձայնագիր">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "Ընդունել և տեղակայել">
+
+<!ENTITY blocklist.blocked.label          "Արգելված է">
+<!ENTITY blocklist.checkbox.label         "Անջատել">

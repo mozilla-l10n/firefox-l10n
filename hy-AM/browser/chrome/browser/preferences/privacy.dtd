@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,70 +37,86 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY privacy.intro "Նավարկման ընթացքում Ձեր այցելած հանգույցների, կատարած գործողությունների և այլնի մասին ինֆորմացիան &brandShortName;-ը պահպանվում է հետեվյալ տեղերում:">
-<!ENTITY clear.label "Մաքրել">
-<!ENTITY view.label "Դիտել">
-<!ENTITY privacy.label "Գաղտնիություն">
-<!ENTITY itemHistory.label "Մատյան">
-<!ENTITY rememberPages.label "Այցելված էջերի մասին արձանագրությունը պահպանել վերջին">
-<!ENTITY rememberPages.accesskey "պ">
-<!ENTITY rememberDays.label "օրվա համար">
-<!ENTITY clearHistory.label "Ջնջել Նավարկման Մատյանը Հենց Հիմա">
-<!ENTITY clearHistory.accesskey "Ջ">
-<!ENTITY itemFormData.label "Պահպանված Ձեվերը">
-<!ENTITY savedFormData.intro "Էջերի եւ Փնտրավահանակի Ձեվերում մուտքագրված տեղեկությունը պահպանվում է հետագա մուտքագրումը կամ փնտրտուքն արագացնելու համար:">
-<!ENTITY enableFormFill.label "Պահպանել Փնտրավահանակում եվ վեբ ձեվերում իմ մուտքագրած տվյալները">
-<!ENTITY enableFormFill.accesskey "փ">
-<!ENTITY clearFormData.label "Ձեվերի Պահպանված Տվյալներ Հիմա Մաքրել">
-<!ENTITY clearFormData.accesskey "ձ">
-<!ENTITY itemPasswords.label "Գաղտնաբառեր">
-<!ENTITY savedPasswords.intro "&brandShortName; կարող է Վեբ էջերի համար գրանցման տվյալները հիշել, որպեսզի դուք ամեն անգամ այցելելիս չմուտքագրեք:">
-<!ENTITY enablePasswords.label "Հիշել Գաղտնաբառերը">
-<!ENTITY enablePasswords.accesskey "Գ">
-<!ENTITY masterPassword.intro "Եթե նշված է, ապա հիմնական գաղտնաբառը պաշտպանում է բոլոր գաղտնաբառերը. Այնուամենայնիվ դուք պիտի նիստի ընթացքում մեկ անգամ այն մուտքագրեք:">
-<!ENTITY setMasterPassword.label "Հիմնական Գաղտնաբառը">
-<!ENTITY setMasterPassword.accesskey "Հ">
-<!ENTITY removeMasterPassword.label "Ջնջել Հիմնական Գաղտնաբառը…">
-<!ENTITY removeMasterPassword.accesskey "R">
-<!ENTITY viewPasswords.label "Զննել Պահված Գաղտնաբառերը">
-<!ENTITY viewPasswords.accesskey "V">
-<!ENTITY itemDownloads.label "Բեռնավորման Մատյան">
-<!ENTITY downloadManager.intro "Բեռնավորման պատուհանը նշում է նոր բեռնավորված ֆայլերը:">
-<!ENTITY downloadsRetentionPolicy.label "Հեռացնել ֆայլերը Բեռնավորման Կառավարչից.">
-<!ENTITY downloadsRetentionPolicy.accesskey "e">
-<!ENTITY downloadsRemoveImmediately.label "Հաջող բեռնավորելուն պես">
-<!ENTITY downloadsRemoveExit.label "&brandShortName;­ը փակելիս">
-<!ENTITY downloadsRemoveManually.label "Ձեռքով">
-<!ENTITY viewDownloads.label "Դիտել Բեռնավորման Մատյանը">
-<!ENTITY viewDownloads.accesskey "y">
-<!ENTITY clearDownloads.label "Բեռնավորման Մատյանը Հիմա Մաքրել">
-<!ENTITY clearDownloads.accesskey "Բ">
-<!ENTITY itemCookies.label "Պատրաստուքներ">
-<!ENTITY cookies.intro "Պատրաստուքը դա հանգույցի կողմից Ձեր համակարգչում պահվող մի փոքր ինֆորմացիա է: Այն օգտագործվում է գրանցման և այլ ինֆորմացիա հիշելու համար:">
-<!ENTITY enableCookies.label "Թույլատրել պատրաստուքների տեղադրումը">
-<!ENTITY enableCookies.accesskey "պ">
-<!ENTITY exceptions.label "Բացառումներ">
-<!ENTITY cookieExceptions.accesskey "x">
-<!ENTITY enableCookiesForOriginating.label "միայն բուն հանգույցից">
-<!ENTITY enableCookiesForOriginating.accesskey "g">
-<!ENTITY enableCookiesNotRemoved.label "մինչև ես կհեռացնեմ հանգույցի տեղադրած պատրաստուքը">
-<!ENTITY enableCookiesNotRemoved.accesskey "մ">
-<!ENTITY keepCookies.label "Պահել Պատրաստուքները.">
-<!ENTITY keepCookies.accesskey "Պ">
-<!ENTITY acceptNormally.label "մինչ ժամկետանց լինելը">
-<!ENTITY acceptForSession.label "մինչ ես կփակեմ &brandShortName;­ը">
-<!ENTITY askAboutCookies.label "հարցնել ինձ ամեն անգամ">
-<!ENTITY viewCookies.label "Զննել Պատրաստուքները">
-<!ENTITY viewCookies.accesskey "w">
-<!ENTITY clearCookies.label "Պատրաստուքները Հիմա Մաքրել">
-<!ENTITY clearCookies.accesskey "ա">
-<!ENTITY itemCache.label "Պահոց">
-<!ENTITY cache.intro "Ձեր կողմից դիտված էջերը տեղադրվում են պահոցում հետագայում ավելի արագ դիտելու համար:">
-<!ENTITY cacheUseUpTo.label "Պահոցի համար գործածել մինչև.">
-<!ENTITY cacheUseUpTo.accesskey "p">
-<!ENTITY cacheSize.label "ՄԲ սկավառակի տարածք:">
-<!ENTITY clearCache.label "Պահոցը Հիմա Մաքրել">
-<!ENTITY clearCache.accesskey "Պ">
-<!ENTITY sanitizeSettings.label "Դրույթները…">
-<!ENTITY sanitizeSettings.accesskey "դ">
-<!ENTITY sanitize.intro "Մաքրել Անձնական Տվյալները հեռացնում է անձնական ինֆորմացիան &brandShortName;-ը փակելիս կամ համապատասխան ստեղնակցումն օգտագործելիս:">
+<!ENTITY  history.label                 "Պատմություն">
+
+<!ENTITY  locationBar.label             "Հասցեի վահանակ">
+
+<!ENTITY  locbar.pre.label              "Էրբ օգտագործում եք հասցեի վահանակ, հուշում`">
+<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Պատմություն և էջանիշեր">
+<!ENTITY  locbar.history.label          "Պատմություն">
+<!ENTITY  locbar.bookmarks.label        "Էջանիշեր">
+<!ENTITY  locbar.nothing.label          "Ոչինչ">
+
+
+<!ENTITY  acceptCookies.label           "Ընդունել քուկինար կայքերից">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.label        "Ընդունել քուկիներ կողմնակի կայքերից">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  keepUntil.label               "Պահպանել մինչև`">
+<!ENTITY  keepUntil.accesskey           "Պ">
+
+<!ENTITY  expire.label                  "ավարտման ժամկերը">
+<!ENTITY  close.label                   "&brandShortName; -ի փակումը">
+<!ENTITY  askEachTime.label             "հարցնել ամեն անգամ">
+
+<!ENTITY  cookieExceptions.label        "Բացառություններ…">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "Ցուցադրել քուկիները…">
+<!ENTITY  showCookies.accesskey         "Ց">
+
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName;-ը`">
+<!ENTITY  historyHeader.pre.accesskey      "պ">
+<!ENTITY  historyHeader.remember.label     "Հիշել պատմությունը">
+<!ENTITY  historyHeader.dontremember.label "Երբեք չհիշել այցելությունները">
+<!ENTITY  historyHeader.custom.label       "Պատմւթյան համար օգտագործել սեփական կարգավորումները">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName;ը հիշելու է ձեր նավարկումը, բեռնումները, ձևերի լրացումը և որոնման պատմությունը, նաև պահելու է քուուքիներ ձեր այցելած վեբ կայքերից:">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Դուք կարող է ուզեք ">
+<!ENTITY  rememberActions.clearHistory.label  "մաքրել վերջին պատմությունը">
+<!ENTITY  rememberActions.middle.label        ", կամ ">
+<!ENTITY  rememberActions.removeCookies.label "ջնջել անձնական քուուկիները">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName;ը կօգտագործի գաղտնի նավարկման կարգավումները և չի հիշի համացանցում ձեր նավարկման պատմությունը:">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Դուք նաև կարող է ուզենաք  ">
+<!ENTITY  dontrememberActions.clearHistory.label "մաքրել ողջ ընթացիկ պատմությունը">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Ինքնաբերաբար մեկնարկել &brandShortName;ը գաղտնի նավարկման ռեժիմում">
+<!ENTITY  privateBrowsingAutoStart.accesskey "a">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Հիշել իմ նավարկման պատմությունը առնվազն">
+<!ENTITY  rememberHistory.pre.accesskey  "Հ">
+<!ENTITY  rememberHistory.post.label     "օրեր">
+
+<!ENTITY  rememberDownload.label         "Հիշել բեռնումների պատմությունը">
+<!ENTITY  rememberDownload.accesskey     "Հ">
+
+<!ENTITY  rememberSearchForm.label       "Հիշել որոնման և ձևերի պատմությունը">
+<!ENTITY  rememberSearchForm.accesskey   "Հ">
+
+<!ENTITY  clearOnClose.label             "Ջնջել պատմությունը երբ &brandShortName;ը փակվի">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "Կարգավորել...">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

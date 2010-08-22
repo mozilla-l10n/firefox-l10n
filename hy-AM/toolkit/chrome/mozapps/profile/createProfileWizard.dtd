@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,18 +37,24 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY newprofile.title "Հաշվի Ստեղծման Հարցուկ">
-<!ENTITY window.size "width: 45em; height: 32em;">
-<!ENTITY profileCreationExplanation_1.text "&brandShortName;­ը Ձեր նախընտրանքների և կազմաձևման վերաբերյալ տվյալները պահպանում է Ձեր անձնական հաշվում:">
-<!ENTITY profileCreationExplanation_2.text "Եթե Դուք &brandShortName;­ը այլ օգտվողների հետ համատեղ եք օգտագործում, ապա կարող եք օգտագործել հաշիվներ օգտվողների տեղեկություններն իրարից առանձին պահելու համար: Դրա համար ամեն օգտվող պիտի ստեղծի իր անձնական հաշիվը:">
-<!ENTITY profileCreationExplanation_3.text "Եթե Դուք այս &brandShortName;­ից միակ օգտվողն եք, ապա պիտի ունենաք առնվազն մեկ հաշիվ: Այնուամենայնիվ կարող եք ստեղծել ձեր համար բազմաթիվ հաշիվներ նախընտրանքների և կազմաձեվման տարբեր խմբեր ունենալու համար: Օրինակ՝. կարող եք ունենալ մեկ աշխատանքային հաշիվ եվ մեկ անձնական օգտագորման հաշիվ:">
-<!ENTITY profileCreationExplanation_4.text "Հաշվի ստեղծման գործնթացը սկսելու համար սեղմեք Հաջորդ կոճակը:">
-<!ENTITY profileCreationIntro.text "Հաշիվները կարելի է տարբերակել անվամբ: Կարող եք օգտագործել նախանշված անունը կամ նշեք մեկ այլ անուն Ձեր ցանկությամբ:">
-<!ENTITY profilePrompt.label "Մուտքագրեք նոր հաշվի անունը.">
-<!ENTITY profilePrompt.accesskey "Մ">
-<!ENTITY profileDirExplanation.text "Տեղն ուր պահվելու են Ձեր օգտվողի տվյալները, նախընտրանքները, էջանիշները.">
-<!ENTITY profileDefaultName "Ըստ Լռելայն Օգտվող">
-<!ENTITY button.choosefolder.label "Պանակն ընտրել…">
-<!ENTITY button.choosefolder.accesskey "Պ">
-<!ENTITY button.usedefault.label "Օգտագործել նախանշված պանակը">
-<!ENTITY button.usedefault.accesskey "Օ">
+<!ENTITY newprofile.title             "Create Profile Wizard">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
+
+<!-- First wizard page -->
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; stores information about your settings and preferences in your personal profile.">
+<!ENTITY profileCreationExplanation_2.text  "If you are sharing this copy of &brandShortName; with other users, you can use profiles to keep each user's information separate. To do this, each user should create his or her own profile.">
+<!ENTITY profileCreationExplanation_3.text  "If you are the only person using this copy of &brandShortName;, you must have at least one profile. If you would like, you can create multiple profiles for yourself to store different sets of settings and preferences. For example, you may want to have separate profiles for business and personal use.">
+<!ENTITY profileCreationExplanation_4.text  "To begin creating your profile, click Next.">
+<!ENTITY profileCreationExplanation_4Mac.text  "To begin creating your profile, click Continue.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "To begin creating your profile, click Next.">
+
+<!-- Second wizard page -->
+<!ENTITY profileCreationIntro.text      "If you create several profiles you can tell them apart by the profile names. You may use the name provided here or use one of your own.">
+<!ENTITY profilePrompt.label            "Enter new profile name:">
+<!ENTITY profilePrompt.accesskey        "E">
+<!ENTITY profileDirectoryExplanation.text   "Your user settings, preferences and other user-related data will be stored in:">
+<!ENTITY profileDefaultName             "Default User">
+<!ENTITY button.choosefolder.label      "Choose Folder…">
+<!ENTITY button.choosefolder.accesskey  "C">
+<!ENTITY button.usedefault.label        "Use Default Folder">
+<!ENTITY button.usedefault.accesskey    "U">
