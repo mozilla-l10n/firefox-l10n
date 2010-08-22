@@ -26,8 +26,6 @@
 <!ENTITY moveToGroup.label "Færa í hóp">
 <!ENTITY moveToGroup.accesskey "F">
 <!ENTITY moveToNewGroup.label "Nýr hópur">
-<!ENTITY moveToNewGroup.accesskey "N">
-<!ENTITY namedGroups.label "Nefndir hópar">
 <!ENTITY bookmarkThisTab.label "Setja flipa í bókamerki">
 <!ENTITY bookmarkThisTab.accesskey "b">
 <!ENTITY bookmarkAllTabs.label "Setja flipa í bókamerki…">
@@ -271,11 +269,12 @@
 <!ENTITY historyHomeCmd.label "Heim">
 <!ENTITY showAllHistoryCmd2.label "Skoða alla ferla">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY appMenuPrintCmd.label "Prenta">
 <!ENTITY appMenuCustomize.label "Sérsníða">
 <!ENTITY appMenuToolbarLayout.label "Útlit tækjaslár…">
 <!ENTITY appMenuSidebars.label "Hliðarslá">
-<!ENTITY appMenuHelp.label "Hjálp">
+<!ENTITY appMenuFind.label "Finna…">
+<!ENTITY appMenuUnsorted.label "Óröðuð bókamerki">
+<!ENTITY appMenuGettingStarted.label "Hafist handa">
 <!ENTITY developerMenu.label "Forritari">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Fara á vefsvæði">
