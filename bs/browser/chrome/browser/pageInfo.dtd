@@ -1,0 +1,124 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Kopiraj">
+<!ENTITY  copy.accesskey        "K">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Označi sve">
+<!ENTITY  selectall.accesskey   "a">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Opće">
+<!ENTITY  generalTab.accesskey  "O">
+<!ENTITY  generalURL            "Adresa:">
+<!ENTITY  generalType           "Tip:">
+<!ENTITY  generalMode           "Tip prikaza:">
+<!ENTITY  generalSize           "Veličina:">
+<!ENTITY  generalReferrer       "Referirajući URL:">
+<!ENTITY  generalSource         "Izvor cachea:">
+<!ENTITY  generalModified       "Izmijenjeno:">
+<!ENTITY  generalEncoding       "Kodiranje:">
+<!ENTITY  generalMetaName       "Ime">
+<!ENTITY  generalMetaContent    "Sadržaj">
+<!ENTITY  generalSecurityDetails   "Detalji">
+<!ENTITY  generalSecurityDetails.accesskey "D">
+
+<!ENTITY  mediaTab              "Mediji">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Lokacija:">
+<!ENTITY  mediaText             "Pridruženi tekst:">
+<!ENTITY  mediaAltHeader        "Alternativni tekst">
+<!ENTITY  mediaAddress          "Adresa">
+<!ENTITY  mediaType             "Tip">
+<!ENTITY  mediaSize             "Veličina">
+<!ENTITY  mediaCount            "Ukupno">
+<!ENTITY  mediaDimension        "Dimenzije:">
+<!ENTITY  mediaLongdesc         "Dugi opis:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Spasi kao…">
+<!ENTITY  mediaSaveAs.accesskey "a">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Pregled medija:">
+
+<!ENTITY  feedTab               "Feedovi">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Prati">
+<!ENTITY  feedSubscribe.accesskey "P">
+
+<!ENTITY  permTab               "Dozvole">
+<!ENTITY  permTab.accesskey     "D">
+<!ENTITY  permUseDefault        "Koristi izvorno">
+<!ENTITY  permAskAlways         "Uvijek pitaj">
+<!ENTITY  permAllow             "Dozvoli">
+<!ENTITY  permAllowSession      "Dozvoli za sesiju">
+<!ENTITY  permBlock             "Blokiraj">
+<!ENTITY  permissionsFor        "Dozvole za:">
+<!ENTITY  permImage             "Učitavaj slike">
+<!ENTITY  permPopup             "Otvaraj pop-up prozore">
+<!ENTITY  permCookie            "Postavi kolačiće">
+<!ENTITY  permInstall           "Instaliraj ekstenzije ili teme">
+<!ENTITY  permGeo               "Podijeli lokaciju">
+
+<!ENTITY  securityTab           "Sigurnost">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Sigurnosni podaci o ovoj stranici">
+<!ENTITY  securityView.certView "Prikaži certifikat">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Nepoznato">
+
+
+<!ENTITY  securityView.identity.header   "Identitet web stranice">
+<!ENTITY  securityView.identity.owner    "Vlasnik:">
+<!ENTITY  securityView.identity.domain   "Web stranica:">
+<!ENTITY  securityView.identity.verifier "Ovjerio:">
+
+<!ENTITY  securityView.privacy.header                   "Privatnost &amp; Historija">
+<!ENTITY  securityView.privacy.history                  "Da li sam posjetio ovu web stranicu ranije danas?">
+<!ENTITY  securityView.privacy.cookies                  "Da li ova web stranica čuva podatke (kolačiće) na mom računaru?">
+<!ENTITY  securityView.privacy.viewCookies              "Prikaži kolačiće">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Da li sam spasio ijednu lozinku za ovu web stranicu?">
+<!ENTITY  securityView.privacy.viewPasswords            "Prikaži spašene lozinke">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Tehnički detalji">

@@ -1,0 +1,21 @@
+<!ENTITY  untitledTab            "(bez naslova)">
+<!ENTITY  newTab.label           "Novi tab">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "Zatvori tab">
+<!ENTITY  closeTab.accesskey         "Z">
+<!ENTITY  closeOtherTabs.accesskey  "o">
+<!ENTITY  closeOtherTabs.label   "Zatvori ostale tabove">
+<!ENTITY  reloadAllTabs.label    "Obnovi sve tabove">
+<!ENTITY  reloadAllTabs.accesskey         "a">
+<!ENTITY  reloadTab.label        "Obnovi tab">
+<!ENTITY  reloadTab.accesskey         "O">
+<!ENTITY  openTabInNewWindow.label    "Otvori u novom prozoru">
+<!ENTITY  openTabInNewWindow.accesskey "O">
+<!ENTITY  listAllTabs.label      "Izlistaj sve tabove">
+<!ENTITY  bookmarkAllTabs.label       "Zabilježi sve tabove…">
+<!ENTITY  bookmarkAllTabs.accesskey   "t">
+<!ENTITY  bookmarkThisTab.label       "Zabilježi ovaj tab">
+<!ENTITY  bookmarkThisTab.accesskey   "b">
+<!ENTITY  undoCloseTab.label          "Vrati zatvoreni tab">
+<!ENTITY  undoCloseTab.accesskey      "V">
+<!ENTITY  newTabButton.tooltip        "Otvori novi tab">

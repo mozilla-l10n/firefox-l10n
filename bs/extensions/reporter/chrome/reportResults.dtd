@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "Stranica">
+<!ENTITY reportProblemType           "Vrsta problema">
+<!ENTITY reportDecsription           "Opis">
+<!ENTITY reportPlatform              "Platforma">
+<!ENTITY reportProduct               "Proizvod">
+<!ENTITY reportoscpu                 "OS">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Konfiguracija verzije">
+<!ENTITY reportUseragent             "Korisnički agent">
+<!ENTITY reportLanguage              "Jezik">
+<!ENTITY reportCharset               "Skup znakova">
+<!ENTITY reportEmail                 "Email">
+<!ENTITY error                       "Detalji greške">
+<!ENTITY faultCode                   "Kod">
+<!ENTITY faultMessage                "Poruka">

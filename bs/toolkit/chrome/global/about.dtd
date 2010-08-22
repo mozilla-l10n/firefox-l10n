@@ -1,0 +1,19 @@
+<!ENTITY about.version                "verzija">
+
+<!ENTITY about.copy.beforeLink        "Sva prava pridržana &copy; 1998-2010">
+<!ENTITY about.copy.linkTitle         "saradnici">
+<!ENTITY about.copy.afterLink         "Mozilla projekta.">
+
+<!ENTITY about.license.beforeLink     "Pročitajte">
+<!ENTITY about.license.linkTitle      "podatke o licenciranju">
+<!ENTITY about.license.afterLink      "za ovaj proizvod.">
+
+<!ENTITY about.relnotes.beforeLink    "Pročitajte">
+<!ENTITY about.relnotes.linkTitle     "bilješke o izdanju">
+<!ENTITY about.relnotes.afterLink     "za ovu verziju.">
+
+<!ENTITY about.buildconfig.beforeLink "Pogledajte">
+<!ENTITY about.buildconfig.linkTitle  "build konfiguraciju">
+<!ENTITY about.buildconfig.afterLink  "korištenu za ovu verziju.">
+
+<!ENTITY about.buildIdentifier        "Build identifikator: ">

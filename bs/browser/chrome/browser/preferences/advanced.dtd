@@ -1,0 +1,103 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Opće">
+
+<!ENTITY accessibility.label             "Pristupačnost">
+
+<!ENTITY useCursorNavigation.label       "Uvijek koristi strelice na tastaturi za kretanje po stranicama">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "Traži tekst čim počnem da kucam">
+<!ENTITY searchStartTyping.accesskey     "T">
+<!ENTITY blockAutoRefresh.label          "Upozori me kada web stranice pokušaju da redirektuju ili osvježe stranicu">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+<!ENTITY browsing.label                  "Surfanje">
+
+<!ENTITY useAutoScroll.label             "Koristi autoscrolling">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Koristi glatko pomjeranje">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkSpelling.label             "Provjeravaj pravopis dok kucam">
+<!ENTITY checkSpelling.accesskey         "P">
+
+<!ENTITY systemDefaults.label            "Izvorne sistemske vrijednosti">
+<!ENTITY alwaysCheckDefault.label        "Uvijek prilikom pokretanja provjeri da li je &brandShortName; glavni browser"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "Odmah provjeri">
+<!ENTITY checkNow.accesskey              "O">
+<!ENTITY submitCrashes.label             "Pošaljite izvještaje o rušenju">
+<!ENTITY submitCrashes.accesskey         "P">
+
+<!ENTITY networkTab.label                "Mreža">
+
+<!ENTITY connection.label                "Konekcija">
+
+<!ENTITY connectionDesc.label            "Konfiguriši kako se &brandShortName; konektuje na internet">
+<!ENTITY connectionSettings.label        "Postavke…">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY offlineStorage.label            "Offline pohrana">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Koristi najviše">
+<!ENTITY useCacheBefore.accesskey        "K">
+<!ENTITY useCacheAfter.label             "MB prostora za cache">
+<!ENTITY clearCacheNow.label             "Odmah očisti">
+<!ENTITY clearCacheNow.accesskey         "O">
+
+<!ENTITY updateTab.label                 "Update">
+
+<!ENTITY autoCheck.label                 "Automatski provjeravaj postoji li update za:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "f">
+<!ENTITY enableAddonsUpdate2.label       "Add-one">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableSearchUpdate.label        "Pretraživače">
+<!ENTITY enableSearchUpdate.accesskey    "P">
+<!ENTITY whenUpdatesFound.label          "Kada je pronađen update za &brandShortName;:">
+<!ENTITY askMe.label                     "Pitaj me šta želim uraditi">
+<!ENTITY askMe.accesskey                 "P">
+<!ENTITY modeAutomatic.label             "Automatski preuzmi i instaliraj update">
+<!ENTITY modeAutomatic.accesskey         "d">
+<!ENTITY modeAutoAddonWarn.label         "Upozori me ukoliko će ovo da onemogući neki od mojih add-ona">
+<!ENTITY modeAutoAddonWarn.accesskey     "U">
+<!ENTITY updateHistory.label             "Prikaži update historijat">
+<!ENTITY updateHistory.accesskey         "P">
+
+<!ENTITY offlineNotify.label             "Obavijesti me kada web stranica zatraži dozvolu za pohranu podataka za offline upotrebu">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "Izuzeci…">
+<!ENTITY offlineNotifyExceptions.accesskey "I">
+
+<!ENTITY offlineAppsList.label           "Sljedeće web stranice su pohranile podatke za offline upotrebu:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Ukloni…">
+<!ENTITY offlineAppsListRemove.accesskey "U">
+<!ENTITY offlineAppRemove.confirm        "Ukloni offline podatke">
+
+<!ENTITY encryptionTab.label             "Enkripcija">
+
+<!ENTITY protocols.label                 "Protokoli">
+<!ENTITY useSSL3.label                   "Koristi SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Koristi TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certifikati">
+<!ENTITY certSelection.description       "Kada server zatraži moj lični certifikat:">
+<!ENTITY certs.auto                      "Odaberi jedan automatski">
+<!ENTITY certs.auto.accesskey            "O">
+<!ENTITY certs.ask                       "Pitaj me svaki put">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Prikaži certifikate">
+<!ENTITY viewCerts.accesskey             "P">
+<!ENTITY viewCRLs.label                  "Lista opoziva">
+<!ENTITY viewCRLs.accesskey              "L">
+<!ENTITY verify2.label                   "Validacija">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Sigurnosni uređaji">
+<!ENTITY viewSecurityDevices.accesskey   "S">

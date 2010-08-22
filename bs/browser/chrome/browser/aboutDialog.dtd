@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title          "O &brandFullName;u">
+<!ENTITY copyright                  "Zasluge">
+<!ENTITY copyright.accesskey        "Z">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY aboutLink                  "&lt; O &brandFullName;u">
+<!ENTITY aboutLink.accesskey        "O">
+<!ENTITY aboutVersion               "verzija">
+<!ENTITY closeCmdGNOME.label        "Zatvori">  
+<!ENTITY closeCmdGNOME.accesskey    "Z">
+<!ENTITY copyrightInfo1             "&#169;1998-2010 Saradnici. Sva prava pridržana. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Informacije o licenci">
+<!ENTITY copyrightInfo2             ").">
