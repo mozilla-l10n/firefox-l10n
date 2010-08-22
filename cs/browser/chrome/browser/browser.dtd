@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Anonymní prohlížení)">
 
 <!-- Tab context menu -->
-<!ENTITY moveTabTo.label "Přesunout panel do…">
-<!ENTITY moveTabTo.accesskey "s">
-<!ENTITY createNewGroup.label "Vytvořit skupinu">
-<!ENTITY createNewGroup.accesskey "t">
-<!ENTITY namedGroups.label "Pojmenované skupiny">
 <!ENTITY reloadTab.label "Obnovit panel">
 <!ENTITY reloadTab.accesskey "O">
 <!ENTITY reloadAllTabs.label "Obnovit všechny panely">
@@ -29,6 +24,9 @@
 <!ENTITY pinTab.accesskey "a">
 <!ENTITY unpinTab.label "Odepnout panel">
 <!ENTITY unpinTab.accesskey "a">
+<!ENTITY moveToGroup.label "Přesunout do skupiny">
+<!ENTITY moveToGroup.accesskey "s">
+<!ENTITY moveToNewGroup.label "Nová skupina">
 <!ENTITY bookmarkThisTab.label "Přidat tento panel do záložek…">
 <!ENTITY bookmarkThisTab.accesskey "P">
 <!ENTITY bookmarkAllTabs.label "Přidat všechny panely do záložek…">
@@ -193,6 +191,12 @@
 <!ENTITY inspectStyleButton.label "Styl">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label "Styl">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label "DOM">
+<!ENTITY inspectDOMButton.accesskey "D">
 
 <!ENTITY fileMenu.label "Soubor">
 <!ENTITY fileMenu.accesskey "S">
@@ -261,11 +265,12 @@
 <!ENTITY showAllHistoryCmd2.label "Zobrazit celou historii">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Tisk">
-<!ENTITY appMenuCustomize.label "Vlastní">
+<!ENTITY appMenuCustomize.label "Přizpůsobit">
 <!ENTITY appMenuToolbarLayout.label "Rozložení lišt…">
 <!ENTITY appMenuSidebars.label "Postranní lišty">
-<!ENTITY appMenuHelp.label "Nápověda">
+<!ENTITY appMenuFind.label "Najít…">
+<!ENTITY appMenuUnsorted.label "Nezatříděné záložky">
+<!ENTITY appMenuGettingStarted.label "Začínáme">
 
 <!ENTITY developerMenu.label "Vývojář">
 

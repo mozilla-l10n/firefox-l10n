@@ -7,7 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label "Zkontrolovat aktualizace">
 <!ENTITY listEmpty.search.label "Nepodařilo se najít žádný odpovídající doplněk">
 <!ENTITY listEmpty.button.label "Zjistěte více informací o doplňcích">
-
+<!ENTITY installFromFile.label "Instalovat ze souboru…">
+<!ENTITY installFromFile.accesskey "I">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
@@ -111,6 +112,7 @@
 <!ENTITY addon.homepage "Domovská stránka">
 <!ENTITY addon.unknownDate "Neznámá">
 <!ENTITY addon.disabled.postfix "(zakázáno)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix "Aktualizovat">
 <!ENTITY addon.undo.label "Zpět?">
 <!ENTITY addon.undo.tooltip "Vrátí tuto akci">

@@ -3,7 +3,7 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "A nebo můžete přidat výjimku…">
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>Není doporučováno přidávat výjimku, pokud nemůžete svému internetovému spojení plně důvěřovat a nebo pokud nejste u tohoto serveru zvyklí vídat podobná varování.</p>
 <p>Pokud si přejete výjimku pro tento server opravdu přidat, můžete tak učinit v rozšířeném nastavení šifrování.</p>
 ">
