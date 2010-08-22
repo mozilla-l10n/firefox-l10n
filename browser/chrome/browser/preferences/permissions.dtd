@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,22 +37,25 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY window.title "Բացառումներ">
-<!ENTITY window.width "36em">
-<!ENTITY treehead.sitename.label "Հանգույցը">
-<!ENTITY treehead.status.label "Կարգավիճակը">
-<!ENTITY addpermission.label "Նոր Հանգույց">
-<!ENTITY removepermission.label "Հեռացնել Հանգույցը">
-<!ENTITY removepermission.accesskey "R">
-<!ENTITY removeallpermissions.label "Հեռացնել Բոլոր Հանգույցները">
+<!ENTITY window.title                 "Բացառումներ">
+<!ENTITY window.width                 "36em">
+
+<!ENTITY treehead.sitename.label      "Հանգույցը">
+<!ENTITY treehead.status.label        "Կարգավիճակը">
+<!ENTITY removepermission.label       "Հեռացնել Հանգույցը">
+<!ENTITY removepermission.accesskey   "R">
+<!ENTITY removeallpermissions.label   "Հեռացնել Բոլոր Հանգույցները">
 <!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label "Հանգույցի հասցեն">
-<!ENTITY block.label "Արգելել">
-<!ENTITY block.accesskey "Ա">
-<!ENTITY session.label "Թույլ տալ Նիստի ընթացքում">
-<!ENTITY session.accesskey "Ն">
-<!ENTITY allow.label "Թույլ տալ">
-<!ENTITY allow.accesskey "Թ">
-<!ENTITY windowClose.key "w">
-<!ENTITY button.close.label "Փակել">
-<!ENTITY button.close.accesskey "Փ">
+<!ENTITY address.label                "Հանգույցի հասցեն">
+<!ENTITY address.accesskey            "d">
+<!ENTITY block.label                  "Արգելել">
+<!ENTITY block.accesskey              "B">
+<!ENTITY session.label                "Թույլ տալ Նիստի ընթացքում">
+<!ENTITY session.accesskey            "S">
+<!ENTITY allow.label                  "Թույլ տալ">
+<!ENTITY allow.accesskey              "A">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.close.label           "Փակել">
+<!ENTITY button.close.accesskey       "C">
+

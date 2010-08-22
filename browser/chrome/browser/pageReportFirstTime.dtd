@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,7 +37,10 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY startDescription.label "Վեբ հանգույցը փորձեց առանձ Ձեր համաձայնության ինքնաելից պատուհան բացել: &brandShortName;-ը փակեց ինքնաելիցը: Ամեն անգամ երբ &brandShortName;-ը կարգելի ինքնաելիցները, դուք կտեղեկացվեք կարգավիճակի վահանակում մանրանկարի միջոցով:">
-<!ENTITY endDescription.label "Կարող եք կտացնել այս մանրանկարին տեսնելու համար թե &brandShortName;-ը որ հանգույցներն է արգելափակել և այդ հանգույցներին թույլ տալ ինքնաելից պատուհաններ բացելու եթե դա անհրաժեշտ է հանգույցի անխափան աշխատանքի համար:">
-<!ENTITY caption.label "Ինքնաելից Պատուհանների Կասեցումը">
+<!ENTITY startDescription.label            "Վեբ հանգույցը փորձեց առանձ Ձեր համաձայնության ինքնաելից պատուհան բացել: &brandShortName;-ը փակեց ինքնաելիցը: Ամեն անգամ երբ &brandShortName;-ը կարգելի ինքնաելիցները, դուք կտեղեկացվեք կարգավիճակի վահանակում մանրանկարի միջոցով:">
+
+<!ENTITY endDescription.label              "Կարող եք կտացնել այս մանրանկարին տեսնելու համար թե &brandShortName;-ը որ հանգույցներն է արգելափակել և այդ հանգույցներին թույլ տալ ինքնաելից պատուհաններ բացելու եթե դա անհրաժեշտ է հանգույցի անխափան աշխատանքի համար:">
+
+<!ENTITY caption.label                     "Ինքնաելից Պատուհանների Կասեցումը">
+
 <!ENTITY done.label "Կատարված է">

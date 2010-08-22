@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,7 +37,12 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY dialog.title "Ծրագրի Տեղադրում">
-<!ENTITY warningText2.label "Նենգամիտ ծրագրերը կարող են վնասել Ձեր համակարգիչը կամ խախտել գաղտնիությունը:">
-<!ENTITY warningText3.label "Դուք պիտի տեղադրեք ծրագրեր միայն վստահելի աղբյուրներից:">
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title            "Ծրագրի Տեղադրում">
+<!ENTITY dialog.style            "width: 45em">
+<!ENTITY warningPrimary.label    "Զետեղել միայն այն հավելումները որոնց հեղինակներին ես վստահում եմ:">
+<!ENTITY warningSecondary.label  "Չարամիտ ծրագիրը կարող է վնասել ձեր համակարգիչը կամ գողանալ անձնական տվյալներ:">
+
 <!ENTITY from.label "աղբյուրը.">
+

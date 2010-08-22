@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,39 +37,55 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY backButton.label "Հետ">
-<!ENTITY backButton.accesskey "ե">
-<!ENTITY backButton.tooltip "Մեկ քայլ հետ">
-<!ENTITY forwardButton.label "Առաջ">
-<!ENTITY forwardButton.accesskey "ռ">
-<!ENTITY forwardButton.tooltip "Մեկ էջ առաջ">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "Սկիզբ">
-<!ENTITY homeButton.tooltip "Գնալ դեպի Օգն. Սկզբնաէջը">
-<!ENTITY printButton.label "Տպել">
-<!ENTITY printButton.tooltip "Տպել այս էջը">
-<!ENTITY reloadCmd.label "Վերաբեռնավորել">
-<!ENTITY reloadCmd.accesskey "Վ">
-<!ENTITY closeWindow.commandkey "W">
-<!ENTITY throbberItem.title "Աշխուժության Ցուցիչ">
-<!ENTITY throbber.tooltip "Օգնություն Օգնության Մասին">
-<!ENTITY searchtab.label "Փնտրել">
-<!ENTITY searchtab.accesskey "Փ">
-<!ENTITY toctab.label "Բովանդակություն">
-<!ENTITY toctab.accesskey "Բ">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY helpSearch.commandkey "k">
-<!ENTITY zLevel.label "Միշտ Վերը">
-<!ENTITY zLevel.accesskey "Վ">
-<!ENTITY textZoomReduceBtn.label "Նվազեցնել Տեքստի Չափսը">
-<!ENTITY textZoomReduceBtn.accesskey "Ն">
-<!ENTITY textZoomEnlargeBtn.label "Ավելացնել Տեքստի Չափսը">
-<!ENTITY textZoomEnlargeBtn.accesskey "Ա">
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Հետ">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "Մեկ քայլ հետ">
+<!ENTITY forwardButton.label            "Առաջ">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "Մեկ էջ առաջ">
+<!ENTITY copyCmd.label                  "Կրկնակել">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "Նշել Բոլորը">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Սկիզբ">
+<!ENTITY homeButton.tooltip             "Գնալ դեպի Օգն. Սկզբնաէջը">
+<!ENTITY printButton.label              "Տպել">
+<!ENTITY printButton.tooltip            "Տպել այս էջը">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY search.emptytext               "Որոնում">
+<!ENTITY searchHeader.label             "Որոնման արդյունքներ">
+<!ENTITY toctab.label                   "Բովանդակություն">
+<!ENTITY toctab.accesskey               "C">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Միշտ Վերը">
+<!ENTITY zLevel.accesskey               "T">
+
+<!ENTITY fullZoomReduceBtn.label        "Փոքրացնել">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "Խոշորացնել">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

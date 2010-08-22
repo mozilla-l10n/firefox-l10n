@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,46 +37,65 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY printSetup.title "Էջի Կազմաձեվում">
-<!ENTITY basic.tab "Ձեվը և Հատկանիշներ">
-<!ENTITY formatGroup.label "Ձեվը">
-<!ENTITY orientation.label "Դիրքավորումը.">
-<!ENTITY portrait "Երկայնքով">
-<!ENTITY landscape "Լայնքով">
-<!ENTITY scale.label "Չափափոխում.">
-<!ENTITY scalePercent "&#037;">
-<!ENTITY shrinkToFit.label "Փոքրացնել Էջի Լայնությանը Հարմարացնել">
-<!ENTITY optionsGroup.label "Հատկանիշներ">
-<!ENTITY printBG.label "Աստառը Տպել (Գույները և Նկարները)">
-<!ENTITY advanced.tab "Երիզ և Գլխա/Ոտնամաս">
-<!ENTITY marginGroup.label "Երիզ (#1)">
-<!ENTITY marginUnits.inches "Մատնաչափ">
-<!ENTITY marginUnits.metric "Միլիմետր">
-<!ENTITY marginTop.label "Վերեվը.">
-<!ENTITY marginBottom.label "Ներքևը.">
-<!ENTITY marginLeft.label "Ձախ.">
-<!ENTITY marginRight.label "Աջ.">
-<!ENTITY headerFooter.label "Գլխամաս և Ոտնամաս">
-<!ENTITY hfLeft.label "Ձախ.">
-<!ENTITY hfCenter.label "Մեջտեղում.">
-<!ENTITY hfRight.label "Աջ.">
-<!ENTITY headerLeft.tip "Ձախ էջագլուխ">
-<!ENTITY headerCenter.tip "Կենտրոնի էջագլուխ">
-<!ENTITY headerRight.tip "Աջ էջագլուխ">
-<!ENTITY footerLeft.tip "Ձախ էջատակ">
-<!ENTITY footerCenter.tip "Կենտրոնի էջատակ">
-<!ENTITY footerRight.tip "Աջ էջատակ">
-<!ENTITY hfTitle "Վերնագիրը">
-<!ENTITY hfTitle.code "[&amp;T]">
-<!ENTITY hfURL "URL">
-<!ENTITY hfURL.code "[&amp;U]">
-<!ENTITY hfDateAndTime "Ամսաթիվ/Ժամանակ">
-<!ENTITY hfDateAndTime.code "&amp;D">
-<!ENTITY hfPage "Էջ #">
-<!ENTITY hfPage.code "[&amp;P]">
-<!ENTITY hfPageAndTotal "Էջ # #-ից">
-<!ENTITY hfPageAndTotal.code "[&amp;PT]">
-<!ENTITY hfBlank "--դատարկ--">
-<!ENTITY hfCustom "Օգտվողի Ընտր…">
-<!ENTITY customPrompt.title "Օգտվողի Ընտր…">
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Էջի Կազմաձեվում">
+
+<!ENTITY basic.tab           "Ձեվը և Հատկանիշներ">
+
+<!ENTITY formatGroup.label   "Ձեվը">
+
+<!ENTITY orientation.label   "Դիրքավորումը.">
+<!ENTITY portrait.label      "Երկայնքով">
+<!ENTITY portrait.accesskey  "p">
+<!ENTITY landscape.label     "Լայնքով">
+<!ENTITY landscape.accesskey "l">
+
+<!ENTITY scale.label         "Չափափոխում.">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Փոքրացնել և տեղավորել էջում">
+<!ENTITY shrinkToFit.accesskey "Փ">
+
+<!ENTITY optionsGroup.label  "Հատկանիշներ">
+
+<!ENTITY printBG.label       "Աստառը Տպել (Գույները և Նկարները)">
+<!ENTITY printBG.accesskey   "B">
+
+<!ENTITY advanced.tab        "Երիզ և Գլխա/Ոտնամաս">
+
+<!ENTITY marginGroup.label   "Երիզ (#1)">
+<!ENTITY marginUnits.inches  "Մատնաչափ">
+<!ENTITY marginUnits.metric  "Միլիմետր">
+<!ENTITY marginTop.label     "Վերեվը.">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "Ներքևը.">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "Ձախ.">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "Աջ.">
+<!ENTITY marginRight.accesskey "R">
+
+<!ENTITY headerFooter.label  "Գլխամաս և Ոտնամաս">
+
+<!ENTITY hfLeft.label        "Ձախ.">
+<!ENTITY hfCenter.label      "Մեջտեղում.">
+<!ENTITY hfRight.label       "Աջ.">
+<!ENTITY headerLeft.tip      "Ձախ էջագլուխ">
+<!ENTITY headerCenter.tip    "Կենտրոնի էջագլուխ">
+<!ENTITY headerRight.tip     "Աջ էջագլուխ">
+<!ENTITY footerLeft.tip      "Ձախ էջատակ">
+<!ENTITY footerCenter.tip    "Կենտրոնի էջատակ">
+<!ENTITY footerRight.tip     "Աջ էջատակ">
+
+<!ENTITY hfTitle             "Վերնագիրը">
+<!ENTITY hfURL               "Էջի հասցե">
+<!ENTITY hfDateAndTime       "Ամսաթիվ/Ժամանակ">
+<!ENTITY hfPage              "Էջ #">
+<!ENTITY hfPageAndTotal      "Էջ # #-ից">
+<!ENTITY hfBlank             "--դատարկ--">
+<!ENTITY hfCustom            "Օգտվողի Ընտր…">
+
+<!ENTITY customPrompt.title  "Օգտվողի Ընտր…">
 <!ENTITY customPrompt.prompt "Մուտքագրեք գլխամասի և կամ ոտնամասի Ձեր անհատական տեքստը">

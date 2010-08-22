@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,6 +37,7 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY projectLead.text "Նախագծի Ղեկավար">
-<!ENTITY copyright.text "Կրկնորինակամ Իրավունք (C) 2004-2005">
-<!ENTITY thanks.text "Շնորհակալություն">
+<!ENTITY projectLead.text                         "Նախագծի Ղեկավար">
+<!ENTITY copyright.text                           "Կրկնորինակամ Իրավունք (C) 2004-2005">
+<!ENTITY thanks.text                              "Շնորհակալություն">
+

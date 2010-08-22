@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,14 +37,15 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY dialog.title "Կարգավորել Մանրավահանակը">
+<!ENTITY dialog.title             "Կարգավորել Մանրավահանակը">
+<!ENTITY dialog.style             "width: 700px; height: 430px;">
 <!ENTITY instructions.description "Դեպի մանրավահանակը կամ մանրավահանակից քաշելով կարող եք բաներ ավելացնել կամ հեռացնել:">
-<!ENTITY show.label "Ցուցադրել.">
-<!ENTITY iconsAndText.label "Մանրանկարներ և Տեքստ">
-<!ENTITY icons.label "Մանրանկարներ">
-<!ENTITY text.label "Տեքստ">
-<!ENTITY useSmallIcons.label "Փոքր Մանրանկարներ Գործածել">
-<!ENTITY restoreDefaultSet.label "Վերականգնել Ըստ Լռելայն Հավաքածուն">
-<!ENTITY addNewToolbar.label "Ավելացնել Նոր Մանրավահանակ">
-<!ENTITY saveChanges.label "Կատարված է">
-<!ENTITY undoChanges.label "Փոփոխությունները Հետադարձել">
+<!ENTITY show.label               "Ցուցադրել.">
+<!ENTITY iconsAndText.label       "Մանրանկարներ և Տեքստ">
+<!ENTITY icons.label              "Մանրանկարներ">
+<!ENTITY text.label               "Տեքստ">
+<!ENTITY useSmallIcons.label      "Փոքր Մանրանկարներ Գործածել">
+<!ENTITY restoreDefaultSet.label  "Վերականգնել Նախնականը">
+<!ENTITY addNewToolbar.label      "Ավելացնել Նոր Վահանակ">
+<!ENTITY saveChanges.label        "Կատարված է">
+<!ENTITY undoChanges.label        "Փոփոխությունները Հետադարձել">

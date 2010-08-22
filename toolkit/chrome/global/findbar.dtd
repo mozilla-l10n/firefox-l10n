@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,17 +37,19 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY find.label "Գտնել.">
-<!ENTITY findNext.label "Գտնել Հաջորդը">
-<!ENTITY findNext.accesskey "Հ">
-<!ENTITY findNext.tooltip "Գտնել արտահայտության հաջորդ մեջբերումը">
-<!ENTITY findPrevious.label "Գտնել Նախորդը">
-<!ENTITY findPrevious.accesskey "Ն">
-<!ENTITY findPrevious.tooltip "Գտնել արտահայտության նախորդ մեջբերումը">
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+
+<!-- entities split out from browser.dtd -->
+<!ENTITY next.label "Հաջորդ">
+<!ENTITY next.accesskey "Հ">
+<!ENTITY next.tooltip "Գտիր արտահայտության հաջորդ հանդիպումը">
+<!ENTITY previous.label "Նախորդ">
+<!ENTITY previous.accesskey "Ն">
+<!ENTITY previous.tooltip "Գտնել անրահայտության նախորդ հանդիպումը">
 <!ENTITY findCloseButton.tooltip "Փակել Փնտրավահանակը">
 <!ENTITY highlight.label "Նշագծել Բոլորը">
-<!ENTITY highlight.accesskey "բ">
-<!ENTITY highlight.tooltip "Նշագծել արտահայտության բոլոր մեջբերումները (Ctrl+Enter)">
-<!ENTITY highlight.macTooltip "Նշագծել արտահայտության բոլոր մեջբերումները (Cmd+Return)">
+<!ENTITY highlight.accesskey "a">
+<!ENTITY highlight.tooltiptext "Նշել արտահայտության բոլոր հանդիպումները">
 <!ENTITY caseSensitiveCheckbox.label "Մեծ(փոքր)ատառ հաշվի առնել">
-<!ENTITY caseSensitiveCheckbox.accesskey "հ">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">

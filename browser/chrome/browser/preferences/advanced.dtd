@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,61 +37,104 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY generalTab.label "Հիմնական">
-<!ENTITY accessibility.label "Մատչելիություն">
-<!ENTITY moveSystemCaret.label "Թույլ տալ ստեղնաշարի օգնությամբ տեքստի ընտրությունը">
-<!ENTITY moveSystemCaret.accesskey "ս">
-<!ENTITY useTypeAheadFind.label "Սկսել փնտրել Ձեր տպելուն զուգահեռ">
-<!ENTITY useTypeAheadFind.accesskey "փ">
-<!ENTITY browsing.label "Նավարկում">
-<!ENTITY enableAutoImageResizing.label "Մեծ նկարները փոքրացնել այնպես, որ տեղավորվեն զննիչի պատուհանում">
-<!ENTITY enableAutoImageResizing.accesskey "փ">
-<!ENTITY useAutoScrolling.label "Օգտագործել ինքնասահքաթերթումը">
-<!ENTITY useAutoScrolling.accesskey "ի">
-<!ENTITY useSmoothScrolling.label "Օգտագործել կոկիկ սահքաթերթումը">
-<!ENTITY useSmoothScrolling.accesskey "կ">
-<!ENTITY updateTab.label "Թարմացնել">
-<!ENTITY autoCheck.label "Ինքնաբար ստուգել թարմացումներ.">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableExtensionUpdate.label "Իմ հավելումներն ու ձեվավորումները">
-<!ENTITY enableExtensionUpdate.accesskey "ի">
-<!ENTITY enableSearchUpdate.label "Փնտրամեքենաներ">
-<!ENTITY enableSearchUpdate.accesskey "h">
-<!ENTITY checkNow.label "Հիմա Ստուգել">
-<!ENTITY appCheckNow.accesskey "Ս">
-<!ENTITY whenUpdatesFound.label "Երբ որ &brandShortName;­ի համար թարմացումներ են առկա.">
-<!ENTITY modeAskMe.label "Ինձ հարցնել">
-<!ENTITY modeAskMe.accesskey "հ">
-<!ENTITY modeAutomatic.label "Ինքնաբար բեռնավորել և տեղադրել թարմացումը">
-<!ENTITY modeAutomatic.accesskey "ի">
-<!ENTITY modeAutoWarn.label "Զգուշացնել եթե հավելումներ կամ ձեվավորումներ եմ անջատելու">
-<!ENTITY modeAutoWarn.accesskey "Զ">
-<!ENTITY showUpdates.label "Ցուցադրել Թարմացումների Մատյանը">
-<!ENTITY showUpdates.accesskey "Թ">
-<!ENTITY securityTab.label "Անվտանգություն">
-<!ENTITY protocols.label "Աշխատակարգեր">
-<!ENTITY useSSL2.label "Օգտագործել SSL 2.0">
-<!ENTITY useSSL2.accesskey "2">
-<!ENTITY useSSL3.label "Օգտագործել SSL 3.0">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "Օգտագործել TLS 1.0">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "Արտոնաթղթեր">
-<!ENTITY certselect.description "Նշեք թե ինչպես է &brandShortName;­ը արտոնաթղթեր պահանջող հանգույցներին ներկայացնելու համար արտոնաթղթեր ընտրելու:">
-<!ENTITY certselect.auto "Ընտրել Ինքնաբար">
-<!ENTITY certselect.auto.accesskey "Ի">
-<!ENTITY certselect.ask "Ամեն անգամ հարցնել">
-<!ENTITY certselect.ask.accesskey "հ">
-<!ENTITY viewCertificates.label "Դիտել Արտոնաթղթերը">
-<!ENTITY viewCertificates.accesskey "Ա">
-<!ENTITY viewCRLs.label "Վավերազրկման Ցուցակներ">
-<!ENTITY viewCRLs.accesskey "Ց">
-<!ENTITY viewOCSP.label "Հավաստում">
-<!ENTITY viewOCSP.accesskey "Հ">
-<!ENTITY viewSecurityDevices.label "Անվտանգության Սարքեր">
-<!ENTITY viewSecurityDevices.accesskey "Ա">
-<!ENTITY languages.caption "Լեզուներ">
-<!ENTITY languagesInfo.label "Ընտրել վեբ էջերի ցուցադրման Լեզուները:">
-<!ENTITY showLanguages.label "Խմբագրել Լեզուները…">
-<!ENTITY showLanguages.accesskey "Լ">
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Հիմնական">
+
+<!ENTITY accessibility.label             "Մատչելիություն">
+
+<!ENTITY useCursorNavigation.label       "Էջերում նավիգացիայի համար միշտ օգտագործել կուռսորի սեղմակները:">
+<!ENTITY useCursorNavigation.accesskey   "Է">
+<!ENTITY searchStartTyping.label         "Էջում տեքստ մուտքագրելու դեպքում փնտրել այն էջում">
+<!ENTITY searchStartTyping.accesskey     "Է">
+<!ENTITY blockAutoRefresh.label          "Զգուշացրու ինձ երբ վեբ կայքերը փորձում են վերահասցեավորել կամ վերբեռնել">
+<!ENTITY blockAutoRefresh.accesskey      "Զ">
+
+<!ENTITY browsing.label                  "Նավարկում">
+
+<!ENTITY useAutoScroll.label             "Օգտագործել էջր ավտոմատ թերթում">
+<!ENTITY useAutoScroll.accesskey         "Օ">
+<!ENTITY useSmoothScrolling.label        "Օգտագործել կոկիկ սահքաթերթումը">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkSpelling.label             "Տեքստ մուտքագրելու ընթացքում ստուգիր ուղղագրությունը">
+<!ENTITY checkSpelling.accesskey         "Տ">
+
+<!ENTITY systemDefaults.label            "Սկզբնական Վիճակ">
+<!ENTITY alwaysCheckDefault.label        "Միանալուց միշտ ստուգիր, աևդյոք &brandShortName; -ը հիմնական բռաուզեր է:"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "Մ">
+<!ENTITY checkNow.label                  "Հիմա Ստուգել">
+<!ENTITY checkNow.accesskey              "N">
+
+<!ENTITY networkTab.label                "Ցանց">
+
+<!ENTITY connection.label                "Միացում">
+
+<!ENTITY connectionDesc.label            "Կարգավորել &brandShortName; - Ինտերնետին միանալու պարամետրերը">
+<!ENTITY connectionSettings.label        "Կարգավորել...">
+<!ENTITY connectionSettings.accesskey    "Կ">
+
+<!ENTITY offlineStorage.label            "Օֆլայն պահոց">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Օգտագործել մինչև">
+<!ENTITY useCacheBefore.accesskey        "Օ">
+<!ENTITY useCacheAfter.label             "ՄԲ քեշի համար">
+<!ENTITY clearCacheNow.label             "Մաքրել հԻմա">
+<!ENTITY clearCacheNow.accesskey         "Մ">
+
+<!ENTITY updateTab.label                 "Թարմացնել">
+
+<!ENTITY autoCheck.label                 "Ինքնաբար ստուգել թարմացումներ.">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate2.label       "Հավելումներ">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
+<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY whenUpdatesFound.label          "Երբ որ &brandShortName;­ի համար թարմացումներ են առկա.">
+<!ENTITY askMe.label                     "Հարցնել ինձ">
+<!ENTITY askMe.accesskey                 "Հ">
+<!ENTITY modeAutomatic.label             "Ինքնաբար բեռնավորել և տեղադրել թարմացումը">
+<!ENTITY modeAutomatic.accesskey         "d">
+<!ENTITY modeAutoAddonWarn.label         "Զգուշացրու ինձ եթե այն պիտի պասիվացնի որևէ հավելում">
+<!ENTITY modeAutoAddonWarn.accesskey     "Զ">
+<!ENTITY updateHistory.label             "Ցուցադրել Թարմացումների Պատմությունը">
+<!ENTITY updateHistory.accesskey         "Ց">
+
+<!ENTITY offlineNotify.label             "Տեղեկացնել, երբ վեբ կայքը խնդրում է պակպանել ֆայլեր offline ռեժիմում օգտագործելու համար">
+<!ENTITY offlineNotify.accesskey         "Տ">
+<!ENTITY offlineNotifyExceptions.label   "Բացառություններ…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList.label           "Հետևյալ վեբ կայքերը խահպանել են ինֆորմացիա offline ռեժիմում օգտագործելու համար`">
+<!ENTITY offlineAppsList.height          "10em">
+<!ENTITY offlineAppsListRemove.label     "Ջնջել…">
+<!ENTITY offlineAppsListRemove.accesskey "Ջ">
+<!ENTITY offlineAppRemove.confirm        "Ջնջել offline ֆայլերը">
+
+<!ENTITY encryptionTab.label             "Գաղտնագրում">
+
+<!ENTITY protocols.label                 "Աշխատակարգեր">
+<!ENTITY useSSL3.label                   "Օգտագործել SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Օգտագործել TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Արտոնաթղթեր">
+<!ENTITY certSelection.description       "Երբ սերվերը հանցնում է իմ սեփական սերտիֆիկատը`">
+<!ENTITY certs.auto                      "Ընտրել ավտոմատիկորեն">
+<!ENTITY certs.auto.accesskey            "Ը">
+<!ENTITY certs.ask                       "Ամեն անգամ հարցնել">
+<!ENTITY certs.ask.accesskey             "Ա">
+<!ENTITY viewCerts.label                 "Դիտել արտոնագրերը">
+<!ENTITY viewCerts.accesskey             "Դ">
+<!ENTITY viewCRLs.label                  "Վավերազրկման Ցանկեր">
+<!ENTITY viewCRLs.accesskey              "Վ">
+<!ENTITY verify2.label                   "Հավաստում">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Անվտանգության Սարքեր">
+<!ENTITY viewSecurityDevices.accesskey   "y">

@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,76 +37,53 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY updateWizard.title "&brandShortName;-ի Թարմացում">
-<!ENTITY mismatch.title "Անհամատեղելի Բաղադրիչներ">
-<!ENTITY mismatch.intro1.label "Հետեվյալ բաղադրիչներն անհամատեղելի են Ձեր կողմից հենց նոր տեղադրված 
-	&brandShortName;-ի տարբերակի հետ:">
-<!ENTITY mismatch.intro2.label "Նրանք անջատվել են մինչև համատեղելի տարբերակների տեղադրումը:">
-<!ENTITY mismatch.intro3.label "&brandShortName;-ը կարող է ստուգել և տեղադրել այս բաղադրիչների նոր համատեղելի տարբերակները:">
-<!ENTITY checking.title "Ստուգում եմ Թարմացումների առկայությունը">
-<!ENTITY checking.intro.label "&brandShortName;-ն այժմ ստուգում է առկա թարմացումները…">
-<!ENTITY checking.status "Սա կարող է մի որոշ ժամանակ տևել…">
-<!ENTITY version.title "Ստուգում եմ Համատեղելիության Թարմացումներ">
-<!ENTITY version.intro.label "&brandShortName;­ը ստուգում է համատեղելիության թարմացումներ  ձեր հավելումների և ձեվավորումների համար…">
-<!ENTITY version.status "Սա կարող է մի որոշ ժամանակ տևել…">
-<!ENTITY found.title "Թարմացումներ Գտնվել են">
-<!ENTITY found.intro.label "&brandShortName;­ը գտավ հետեվյալ առկա թարմացումները.">
-<!ENTITY from.label "սկզբնաղբյուրը.">
-<!ENTITY found.updatetype.patches.accesskey "Ղ">
-<!ENTITY found.updatetype.components.accesskey "Բ">
-<!ENTITY found.updatetype.addons.accesskey "Ա">
-<!ENTITY found.updatetype.languages.accesskey "Լ">
-<!ENTITY found.criticalUpdates.label "&brandShortName;­ի համար Հետեվյալ Կարեվոր Թարմացումներն են առկա.">
-<!ENTITY found.criticalUpdates.info "Դուք պիտի անմիջապես տեղադրեք այս թարմացումները Ձեր համակարգիչը հարձակումներից պաշտպանելու համար:">
-<!ENTITY found.app.infoLink "Հավելյալ Ինֆորմացիա…">
-<!ENTITY found.components.label "Հետվյալ բաղադիրներն ու խից­բաղադիրներն առկա են տեղադրման համար.">
-<!ENTITY found.components.info "Այս բաղադիրների տեղադրումը կարող է նավարկումն առավել հաճելի դարձնել:">
-<!ENTITY found.addons.label "Ձեր կողմից արդեն իսկ տեղադրված հավելումների եվ ձեվավորումների համար առկա են հետեվյալ թարմացումները">
-<!ENTITY found.languages.label "Հետվյալ լեզվական փաթեթներն առկա են.">
-<!ENTITY installing.title "Տեղադրում եմ Թարմացումները">
-<!ENTITY installing.intro.label "Այժմ բեռնավորում և տեղադրում եմ թարմացումները…">
-<!ENTITY installing.disclaimer.label "XXXben.­ Սա չի աշխատի քանի դեռ մենք XPInstall­ի համար սկրիպտների API չունենք:">
-<!ENTITY noupdates.title "Թարմացումներ Առկա Չեն">
-<!ENTITY noupdates.intro.user.label "&brandShortName;­ը չհաջողեց գտնել որևէ առկա թարմացումներ:">
-<!ENTITY noupdates.intro.mismatch.label "&brandShortName;­ը չհաջողեց գտնել որևէ առկա թարմացումներ՝
-                                      հնարավոր է, որ համատեղելի տարբերակներ այժմ առկա չեն:">
-<!ENTITY noupdates.intro2.mismatch.label "&brandShortName;­ը պարբերաբար կստուգի և կտեղեկացնի Ձեզ
-                                           հենց որ համատեղելի տարբերակներ առկա լինեն:">
-<!ENTITY noupdates.intro3.mismatch.label "&brandShortName;­ը կարող է պարբերաբար ստուգել և տեղեկացնել Ձեզ
-                                           հենց որ համատեղելի տարբերակներ առկա լինեն:">
-<!ENTITY noupdates.enableChecking.label "Թույլ տալ &brandShortName;­ին ստուգել թարմացումների առկայությունը:">
-<!ENTITY finished.title "Թարմացումը Եզրափակվեց">
-<!ENTITY finished.updated.label "&brandShortName;­ը տեղադրեց առկա թարմացումները: Որոշ թարմացումների ազդեցության համար պիտի վերագործարկեք &brandShortName;­ը:">
-<!ENTITY finished.remaining.label "Անհնար էր թարմացնել որոշ անհամատեղելի բաղադիրներ,
-                                           գուցե և համատեղելի տարբերակների 
-                                           բացակայության պատճառով: 
-                                           &brandShortName;­ը պարբերաբար կստուգի
-                                           և կտեղեկացնի Ձեզ թարմացված տարբերակների
-                                           առկայության դեպքում:">
-<!ENTITY finished.remaining2.label "Անհնար էր թարմացնել որոշ անհամատեղելի բաղադիրներ,
-                                           գուցե և համատեղելի տարբերակների 
-                                           բացակայության պատճառով: 
-                                           &brandShortName;­ը կարող էպարբերաբար ստուգել
-                                           և կտեղեկացնել Ձեզ թարմացված տարբերակների
-                                           առկայության դեպքում:">
-<!ENTITY finished.error.label "&brandShortName;­ը չհաջողեց որոշ թարմացումների 
-                                           բեռնավորման և տեղադրման
-                                           հարցում:">
-<!ENTITY finished.enableChecking.label "Թույլ տալ &brandShortName;­ին ստուգելթարմացումներ:">
-<!ENTITY finished.mismatch.label "Սեղմեք Եզրափակել &brandShortName;­ը գործարկելու համար:">
-<!ENTITY optional.title "Անպարտադիր Բաղադրամասեր">
-<!ENTITY optional.intro.label "Ընտրեք հավելյալ բաղադիրները, որոնք ցանկանում եք տեղադրել, այնուհետեվ սեղմեք Հիմա Տեղադրել:">
-<!ENTITY errors.title "Խնդիրներ Թարմացման Ընթացքում">
-<!ENTITY errors.intro.label "&brandShortName;­ը թարմացման ընթացքում խնդիրների 
-                                            առաջ է կանգնել որպես հետեվանք 
-                                            ոչ բոլոր բաղադիրներն են թարմացվել:">
-<!ENTITY errors.details.label "Մանրամասներ">
-<!ENTITY errors.details.accesskey "Մ">
-<!ENTITY updateCheckError.description "Որոշ բաների թարմացումները փնտրելիս &brandShortName;­ը
-                                           խնդիրների առաջ է կանգնել:">
-<!ENTITY updateCheckError.label "Մանրամասներ">
-<!ENTITY updateCheckError.accesskey "Մ">
-<!ENTITY resolveMaxVersion.title "Ստուգում եմ համատեղելի հավելումների ու ձեվավորումների առկայությունը…">
-<!ENTITY resolveMaxVersion.intro1.label "&brandShortName;­ը ստուգում է համատեղելիության թարմացումներ  ձեր հավելումների և ձեվավորումների համար…">
-<!ENTITY versioninfo.title "Compatibility Updates">
-<!ENTITY versioninfo.intro "Checking for compatibility updates to your Extensions...">
+<!ENTITY  updateWizard.title              "&brandShortName;-ի Թարմացում">
+
+<!ENTITY  offline.title                   "&brandShortName; -ը աշխատում է աֆտոնոմ ռեժիմում">
+<!ENTITY  offline.description             "&brandShortName;ը պետք է անցնի օնլայն ռեծիմի որպեսզի ստուգի արդյոք կան հավելումների թարմացումներ, որոնք հավելումներին կդարձնեն այս տարբերակի հետ համատեղելի:">
+<!ENTITY  offline.toggleOffline.label     "Միանալ ցանցին:">
+<!ENTITY  offline.toggleOffline.accesskey "G">
+
+<!ENTITY  mismatch.win.title              "Անհամատեղելի Հավելումներ">
+<!ENTITY  mismatch.top.label              "Հետևյալ հավելումները պասիվացվել են քանի որ անհամատեղելի են &brandShortName; -ի այս տարբերակի հետ`">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; -ը կարող է ստուգել արդյոք կան այս հավելումների համապատասխան տարբերակներ:">
+
+<!ENTITY  checking.wizard.title           "Համապատասխանող Հավելումների որոնում">
+<!ENTITY  checking.top.label              "Ձեր անհամապատասխան հավելումների թարմացումների որոնում...">
+<!ENTITY  checking.status                 "Սա կարող է մի որոշ ժամանակ տևել…">
+
+<!ENTITY  found.wizard.title               "Գտնվեցին Համապատասխան Հավելումներ">
+<!ENTITY  found.top.label                 "Ընտրեք հավելումները որոնք դուք կցանկանաիք տեղակայել`">
+<!ENTITY  found.disabledXPinstall.label   "Այս թարմացումները չեն կարող տեղակայվել, քանի որ ծրագրերի տեղակայումը ժամանակավորապես պասիվ է: Դուք կարող էք փոխել այս կարգավորումը ներգևում:">
+<!ENTITY  found.enableXPInstall.label     "Թույլ տալ վեբ կայքերին տեղակայել ծրագրեր">
+<!ENTITY  found.enableXPInstall.accesskey "A">
+
+<!ENTITY  installing.wizard.title         "Համապատասխան Հավելումների Տեղակայում">
+<!ENTITY  installing.top.label            "Ձեր հավելումների թարմացումների բեռնում և տեղակայում...">
+
+<!ENTITY  noupdates.wizard.title          "Ոչ մի Համապատասխան Հավելում Չի Գտնվել">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; -ը չկարողացավ հայտնաբերել թարմացումներ ձեր անհամապատասխան հավելումների համար:">
+<!ENTITY  noupdates.error.desc            "Որոշ պռոբլեմներ տեղի ունեցան, երբ փորձ էր արվում փնտրել թարմացումներ:">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; -ը պարբերաբար կստուգի և ձեզ տեղյակ կպահի, երբ գտնվեն թարմացումներ հետևյալ հավելումների համար:">
+
+<!ENTITY  finished.wizard.title           "Համապատասխան Հավելումները Բարեհաջող Տեղակայվեցին">
+<!ENTITY  finished.top.label              "&brandShortName; -ը տեղակայեց ձեր հավելումների թարմացումները:">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; -ը կարող է պարբերաբար ստուգել և ձեզ տեղեկացնել, երբ գտնվեն հավելումների թարմացումներ:">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName;ը պարբերաբար կստուգի և ձեզ կտեղեկացնի, երբ գտնվեն հավելումների թարմացումներ:">
+
+<!ENTITY  adminDisabled.wizard.title      "Չի ստացվում ստուգել թարմացումների առկայությունը">
+<!ENTITY  adminDisabled.warning.label     "Անհնար է ստուգել անհամատեղելի հավելումների թարմացումների առկայությունը, քանզի &brandShortName;ի ծրագրերի տեղադրումը անջատված է: Խնդրեմ օգնության համար դիմել ձեր համակարգի ադմինիստրատորին:">
+
+<!ENTITY  versioninfo.wizard.title        "Ստուգվում է հավելումների համատեղելիությունը">
+<!ENTITY  versioninfo.top.label           "Ստուգվում է ձեր հավելումների համատեղելիությունը &brandShortName;ի այս տարբերակի հետ:">
+<!ENTITY  versioninfo.waiting             "Սա կարող է մի որոշ ժամանակ տևել…">
+
+<!ENTITY  installerrors.wizard.title      "Խնդիրներ թարմացումների տեղակայման ժամանակ">
+<!ENTITY  installerrors.intro.label       "&brandShortName;ը որոշ հավելումների թարմացման ժամանակ հանգեց պռոբլեմի:">
+
+<!-- general strings used by several of the finish pages -->
+<!ENTITY  clickFinish.label               "Սեղմիր Ավարտել որպեսզի շարունակվի &brandShortName;-ի մեկնարկը:">
+<!ENTITY  clickFinish.labelMac            "Սեղմիր Կատարված որպեսզի շարունակվի &brandShortName;-ի մեկնարկը:">
+<!ENTITY  enableChecking.label            "Թույլ տալ &brandShortName;-ին փնտրել նոր թարմացումներ:">
+<!ENTITY  details.label                   "Դետալներ...">
+<!ENTITY  details.accesskey               "D">

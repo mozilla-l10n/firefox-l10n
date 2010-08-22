@@ -1,0 +1,251 @@
+<!-- ******* BEGIN LICENSE BLOCK **********
+    Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   
+    The contents of this file are subject to the Mozilla Public License Version
+    1.1 (the "License"); you may not use this file except in compliance with
+    the License. You may obtain a copy of the License at
+    http://www.mozilla.org/MPL/
+   
+    Software distributed under the License is distributed on an "AS IS" basis,
+    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+    for the specific language governing rights and limitations under the
+    License.
+   
+    The Original Code is Mozilla Progress Dialog.
+   
+    The Initial Developer of the Original Code is
+    Netscape Communications Corp.
+    Portions created by the Initial Developer are Copyright (C) 2002
+    the Initial Developer. All Rights Reserved.
+   
+    Contributor(s):
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
+   
+    Alternatively, the contents of this file may be used under the terms of
+    either the GNU General Public License Version 2 or later (the "GPL"), or
+    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+    in which case the provisions of the GPL or the LGPL are applicable instead
+    of those above. If you wish to allow use of your version of this file only
+    under the terms of either the GPL or the LGPL, and not to allow others to
+    use your version of this file under the terms of the MPL, indicate your
+    decision by deleting the provisions above and replace them with the notice
+    and other provisions required by the LGPL or the GPL. If you do not delete
+    the provisions above, a recipient may use your version of this file under
+    the terms of any one of the MPL, the GPL or the LGPL.
+
+******* END LICENSE BLOCK ********** -->
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Պահոց">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Ղեկավարում">
+<!ENTITY organize.accesskey    "Ղ">
+
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "Փակել">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Խմբագրել">
+<!ENTITY edit.accesskey                 "E">
+<!ENTITY views.label                    "Տեսք">
+<!ENTITY views.accesskey                "Տ">
+<!ENTITY view.toolbar.label             "Գործիքների Վահանակ">
+<!ENTITY view.toolbar.accesskey         "Գ">
+<!ENTITY view.columns.label             "Ցուցադրել սյուները">
+<!ENTITY view.columns.accesskey         "Ց">
+<!ENTITY view.sort.label                "Դասավորում">
+<!ENTITY view.sort.accesskey            "Դ">
+<!ENTITY view.unsorted.label            "Առանց դասավորման">
+<!ENTITY view.unsorted.accesskey        "Ա">
+<!ENTITY view.sortAscending.label       "Այբենական Դասավորում">
+<!ENTITY view.sortAscending.accesskey   "Ա">
+<!ENTITY view.sortDescending.label      "Հադարձ դասավորում">
+<!ENTITY view.sortDescending.accesskey  "Հ">
+<!ENTITY help.usingBookmarks.label      "Էջանիշներ Օգտագործում">
+<!ENTITY help.usingBookmarks.accesskey  "Է">
+<!ENTITY help.usingHistory.label        "Մատյանի օգտագործում">
+<!ENTITY help.usingHistory.accesskey    "Մ">
+<!ENTITY help.advancedTips.label        "Խերացված տրյուկներ">
+<!ENTITY help.advancedTips.accesskey    "Խ">
+
+<!ENTITY cmd.findInBookmarks.label      "Գտնել էջանիշերում…">
+<!ENTITY cmd.findInBookmarks.accesskey  "Գ">
+<!ENTITY cmd.findCurrent.label          "Գտնել ընթացիկ հավաքածույում…">
+<!ENTITY cmd.findCurrent.accesskey      "Գ">
+
+<!ENTITY cmd.exportHTML.label           "Արտահանել HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "Ա">
+<!ENTITY cmd.importHTML.label           "Ներմուծել HTML…">
+<!ENTITY cmd.importHTML.accesskey       "Ն">
+
+<!ENTITY cmd.backup.label               "Պահել կրկնորինակը…">
+<!ENTITY cmd.backup.accesskey           "Պ">
+<!ENTITY cmd.restore2.label             "Վերականգնել">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Ընտրել Ֆայլ…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+
+<!ENTITY cmd.select_all.label "Նշել Ամբողջը">
+<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label         "Կտրել">
+<!ENTITY cmd.edit_cut.accesskey     "t">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "Կրկնօրինակել">
+<!ENTITY cmd.edit_copy.accesskey    "C">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "Տեղադրել">
+<!ENTITY cmd.edit_paste.accesskey   "P">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "Ջնջել">
+<!ENTITY cmd.edit_delete.accesskey  "D">
+<!ENTITY cmd.edit_undo.label        "Ետ տալ">
+<!ENTITY cmd.edit_undo.accesskey    "U">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "Կրկնել">
+<!ENTITY cmd.edit_redo.accesskey    "R">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.bookmarkLink.label         "Էջանշել այս էջը…">
+<!ENTITY cmd.bookmarkLink.accesskey     "Է">
+<!ENTITY cmd.delete.label               "Ջնջել Այս Էջը">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "Մոռանալ Այս Կայքի Մասին">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
+<!ENTITY cmd.open.label                  "Բացել">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "Բացել նոր պատուհանում">
+<!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_tab.label              "Բացել նոր ներդիրում">
+<!ENTITY cmd.open_tab.accesskey          "Բ">
+<!ENTITY cmd.open_all_in_tabs.label      "Բացել Բոլորը Ներդիրներում">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
+
+<!ENTITY cmd.properties.label      "Հատկանիշներ">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "Անվանափոխել">
+<!ENTITY cmd.rename.accesskey  "Ա">
+
+<!ENTITY cmd.sortby_name.label              "Դասավորել ըստ անունների">
+<!ENTITY cmd.sortby_name.accesskey          "Դ">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "Նոր էջանիշ…">
+<!ENTITY cmd.new_bookmark.accesskey        "Ն">
+<!ENTITY cmd.new_livemark.label            "Նոր կենդանի էջանիշ…">
+<!ENTITY cmd.new_livemark.accesskey        "Ն">
+<!ENTITY cmd.new_folder.label              "Նոր Պնակ...">
+<!ENTITY cmd.new_folder.accesskey          "Պ">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "Նոր բաժանիչ">
+<!ENTITY cmd.new_separator.accesskey       "Ն">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Թարմացնել կենդանի էջանիշերը">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "Թ">
+<!ENTITY cmd.reloadMicrosummary.label      "Թարմացնել ընթացիկ վերնագիրը">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "Թ">
+
+<!ENTITY cmd.groupby_site.label      "Խմբավորել ըստ կայքերի">
+<!ENTITY cmd.groupby_site.accesskey  "Խ">
+<!ENTITY cmd.groupby_page.label      "Խմբավորել ըստ էջի">
+<!ENTITY cmd.groupby_page.accesskey  "Խ">
+<!ENTITY cmd.groupby_feed.label      "Խմբավորել ըստ անդամագրության">
+<!ENTITY cmd.groupby_feed.accesskey  "Խ">
+<!ENTITY cmd.groupby_post.label      "Խմբավորել ըստ պոստերի">
+<!ENTITY cmd.groupby_post.accesskey  "Խ">
+
+<!ENTITY cmd.moveBookmarks.label                  "Տեղափոխել...">
+<!ENTITY cmd.moveBookmarks.accesskey              "Տ">
+
+<!ENTITY col.name.label          "Անվանումը">
+<!ENTITY col.tags.label          "Կցապիտակներ">
+<!ENTITY col.url.label           "Հասցե">
+<!ENTITY col.lastvisit.label     "Այցելման ամսաթիվ">
+<!ENTITY col.visitcount.label    "Այցելումների քանակ">
+<!ENTITY col.keyword.label       "Հիմնաբառ">
+<!ENTITY col.description.label   "Նկարագրությունը">
+<!ENTITY col.dateadded.label     "Ավելացվել է">
+<!ENTITY col.lastmodified.label  "Վերջին փոփոխությունը">
+
+<!ENTITY search.label                              "Փնտրել.">
+<!ENTITY search.accesskey                          "S">
+<!ENTITY search.scopeFolder.label                  "Նշված պնակ">
+<!ENTITY search.scopeFolder.accesskey              "Ն">
+<!ENTITY search.scopeBookmarks.label               "Էջանիշեր">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
+<!ENTITY search.scopeDownloads.label               "Բեռնումներ">
+<!ENTITY search.scopeDownloads.accesskey           "D">
+<!ENTITY search.scopeHistory.label                 "Պատմություն">
+<!ENTITY search.scopeHistory.accesskey             "H">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Ցույց տալ որոնման կառուցիչը">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Թաքցնել որոնման կառուցիչը">
+<!ENTITY saveSearch.label                          "Պահպանել">
+<!ENTITY saveSearch.accesskey                      "s">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "Փնտրել միայն էջանիշերում">
+<!ENTITY advancedSearch.match.label                "Համընկնում ">
+<!ENTITY advancedSearch.all.label                  "բոլորը">
+<!ENTITY advancedSearch.any.label                  "ցանկացած">
+<!ENTITY advancedSearch.rules.label                " կանոններ:">
+<!ENTITY advancedSearch.subj_keyword.label         "Տեքստ պարունակող">
+<!ENTITY advancedSearch.subj_visited.label         "Այցելած">
+<!ENTITY advancedSearch.subj_location.label        "Հասցե">
+<!ENTITY advancedSearch.location_startswith.label  "սկսվում է">
+<!ENTITY advancedSearch.location_is.label          "համընկնում է">
+<!ENTITY advancedSearch.location_onsite.label      "գտնվում է կայքում">
+<!ENTITY advancedSearch.time_is.label              "վրա">
+<!ENTITY advancedSearch.time_before.label          "մինչև">
+<!ENTITY advancedSearch.time_after.label           "հետո">
+<!ENTITY advancedSearch.time_inlast.label          "վերջում">
+<!ENTITY advancedSearch.last_days.label            "օրեր">
+<!ENTITY advancedSearch.last_weeks.label           "շաբաթներ">
+<!ENTITY advancedSearch.last_months.label          "ամիսներ">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "Խմբավորել ըստ`">
+<!ENTITY advancedSearch.groupby_host.label         "հանգույց">
+<!ENTITY advancedSearch.groupby_domain.label       "դոմեին">
+<!ENTITY advancedSearch.groupby_folder.label       "պնակ">
+<!ENTITY advancedSearch.sortby.label               "Դասավորել ըստ`">
+<!ENTITY advancedSearch.sortby_title.label         "վերնագիր">
+<!ENTITY advancedSearch.sortby_date.label          "ամսաթվի">
+<!ENTITY advancedSearch.sortby_visit.label         "այցելման քանակ">
+<!ENTITY advancedSearch.sortby_url.label           "հղում (URL)">
+<!ENTITY advancedSearch.sortby_asc.label           "աճման">
+<!ENTITY advancedSearch.sortby_desc.label          "նվազման">
+<!ENTITY advancedSearch.max.label                  "Որոնման մաքսիմալ արդյունքներ`">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "Նորությունների շղթա">
+<!ENTITY feed.subscribe.tooltip  "Բաժանորդագրվել">
+
+<!ENTITY view.detailsMacOSX.label  "Ցանկ">
+<!ENTITY view.details.label        "Մանրամասներ">
+<!ENTITY view.details.accesskey    "D">
+
+<!ENTITY view.addons.label   "Բեռնել տեսքի հավելում">
+
+<!ENTITY maintenance.label      "Ներմուծել և ռեզերվացնել">
+<!ENTITY maintenance.accesskey  "Ն">
+
+<!ENTITY backCmd.label       "Հետ">
+<!ENTITY backButton.tooltip  "Գնալ ետ">
+
+<!ENTITY forwardCmd.label       "Առաջ">
+<!ENTITY forwardButton.tooltip  "Անցնել առաջ">
+
+<!ENTITY detailsPane.more.label "Ավելին">
+<!ENTITY detailsPane.more.accesskey "Ա">
+<!ENTITY detailsPane.less.label "Քիչ">
+<!ENTITY detailsPane.less.accesskey "Ք">
+<!ENTITY detailsPane.noPreviewAvailable.label "Դիտել">
+<!ENTITY detailsPane.selectAnItemText.description "Ընտրեք բաղադրիրը դիտելու և խմբագրելու նրա կարգավորումները">

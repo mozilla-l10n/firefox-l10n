@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,8 +37,9 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY removePassword.title "Հեռացնել Հիմնական Գաղտնաբառը">
-<!ENTITY removeInfo.label "Շարունակելու համար պիտի մուտքագրեք Ձեր առկա գաղտնաբառը.">
-<!ENTITY removeWarning1.label "Ձեր Հիմնական Գաղտնաբառն օգտագործվում է զգայուն ինֆորմացիան, ինչպես օրինակ հանգուցների գաղտնաբառերը, պաշտպանելու համար:">
-<!ENTITY removeWarning2.label "Եթե հեռացնեք Ձեր Հիմնական Գաղտնաբառն, ապա Ձեր ինֆորմացիան պաշտպանված չի լինի եթե Ձեր համակարգիչը վտանգվի:">
-<!ENTITY setPassword.oldPassword.label "Առկա Գաղտնաբառը.">
+<!ENTITY removePassword.title              "Հեռացնել Հիմնական Գաղտնաբառը">
+<!ENTITY removeInfo.label                  "Շարունակելու համար պիտի մուտքագրեք Ձեր առկա գաղտնաբառը.">
+<!ENTITY removeWarning1.label              "Ձեր Հիմնական Գաղտնաբառն օգտագործվում է զգայուն ինֆորմացիան, ինչպես օրինակ հանգուցների գաղտնաբառերը, պաշտպանելու համար:">
+<!ENTITY removeWarning2.label              "Եթե հեռացնեք Ձեր Հիմնական Գաղտնաբառն, ապա Ձեր ինֆորմացիան պաշտպանված չի լինի եթե Ձեր համակարգիչը վտանգվի:">
+<!ENTITY setPassword.oldPassword.label     "Առկա Գաղտնաբառը.">
+

@@ -19,8 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
-	  Nerses Aznauryan (Hayeren.am Team) <aznauryan@gmail.com> 
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,12 +37,16 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY aboutDialog.title      "&brandFullName;­ի մասին">
-<!ENTITY copyright              "Հեղինակներ">
-<!ENTITY copyright.accesskey    "C">
-<!ENTITY aboutLink              "&lt; &brandFullName;­ի մասին">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "տարբերակ">
-<!ENTITY copyrightText          "©1998-2008 Աջակիցներ: Բոլոր Իրավունքները Պաշտպանված են: 
-								Firefox­ը և Firefox լոգոն Mozilla հիմնադրամի առևտրային նշաններն են: 
-								Բոլոր Իրավունքները Պաշտպանված են:">
+<!ENTITY aboutDialog.title          "&brandFullName;­ի մասին">
+<!ENTITY copyright                  "Հեղինակներ">
+<!ENTITY copyright.accesskey        "C">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY aboutLink                  "&lt; &brandFullName;­ի մասին">
+<!ENTITY aboutLink.accesskey        "l">
+<!ENTITY aboutVersion               "տարբերակ">
+<!ENTITY closeCmdGNOME.label        "Փակել">  
+<!ENTITY closeCmdGNOME.accesskey    "c">
+<!ENTITY copyrightInfo1             "&#169;1998-2010 Բոլոր իրավունքները պաշտպանված են։ (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "Լիցենզավորման տեղեկություն">
+<!ENTITY copyrightInfo2             "):">

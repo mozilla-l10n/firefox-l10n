@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,20 +37,21 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY props.box.label "Տվյալ պատրաստուքի մասին">
-<!ENTITY props.name.label "Անվանումը.">
-<!ENTITY props.value.label "Պարունակությունը.">
-<!ENTITY props.domain.label "Հանգույցը.">
-<!ENTITY props.path.label "Ծրագիծը.">
-<!ENTITY props.secure.label "Ուղղարկել ի.">
-<!ENTITY props.expires.label "Բոլորում է.">
-<!ENTITY props.policy.label "Դրույթները.">
-<!ENTITY button.allow.label "Ընդունել">
-<!ENTITY button.allow.accesskey "Ը">
-<!ENTITY button.session.label "Նիստի ընթացքում թույ տալ">
-<!ENTITY button.session.accesskey "Ն">
-<!ENTITY button.deny.label "Արգելել">
-<!ENTITY button.deny.accesskey "Ա">
-<!ENTITY dialog.title "Հաստատել պատրաստուքի տեղադրումը">
-<!ENTITY dialog.remember.label "Իմ ընտրությունը կիրառել այս հանգույցի բոլոր պատրաստուքների համար">
-<!ENTITY dialog.remember.accesskey "Ի">
+<!ENTITY     props.name.label               "Անվանումը.">
+<!ENTITY     props.value.label              "Պարունակությունը.">
+<!ENTITY     props.domain.label             "Հանգույցը.">
+<!ENTITY     props.path.label               "Ծրագիծը.">
+<!ENTITY     props.secure.label             "Ուղղարկել ի.">
+<!ENTITY     props.expires.label            "Բոլորում է.">
+<!ENTITY     props.policy.label             "Դրույթները."> 
+
+<!ENTITY     button.allow.label             "Թույլ տալ">
+<!ENTITY     button.allow.accesskey         "A">
+<!ENTITY     button.session.label           "Նիստի ընթացքում թույ տալ">
+<!ENTITY     button.session.accesskey       "S">
+<!ENTITY     button.deny.label              "Արգելել">
+<!ENTITY     button.deny.accesskey          "D">
+
+<!ENTITY     dialog.title                   "Հաստատել պատրաստուքի տեղադրումը">
+<!ENTITY     dialog.remember.label          "Իմ ընտրությունը կիրառել այս հանգույցի բոլոր պատրաստուքների համար">
+<!ENTITY     dialog.remember.accesskey      "U">

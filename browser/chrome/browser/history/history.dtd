@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,31 +37,29 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY find.label "Փնտրել.">
-<!ENTITY find.accesskey "Փ">
-<!ENTITY expand.label "Բացել">
-<!ENTITY expand.accesskey "Բ">
-<!ENTITY collapse.label "Հավաքել">
-<!ENTITY collapse.accesskey "Հ">
+<!ENTITY find.label                "Փնտրել.">
+<!ENTITY find.accesskey            "S">
+<!ENTITY expand.label              "Բացել">
+<!ENTITY expand.accesskey          "E">
+<!ENTITY collapse.label            "Հավաքել">
+<!ENTITY collapse.accesskey        "C">
 <!ENTITY byDate.label "Ըստ ամսաթվի">
-<!ENTITY byDate.accesskey "թ">
+<!ENTITY byDate.accesskey "D">
 <!ENTITY bySite.label "Ըստ հանգույցի">
-<!ENTITY bySite.accesskey "հ">
+<!ENTITY bySite.accesskey "S">
 <!ENTITY view.label "Դիտել">
-<!ENTITY view.accesskey "Դ">
+<!ENTITY view.accesskey "w">
 <!ENTITY byMostVisited.label "Ըստ առավել այցերի">
-<!ENTITY byMostVisited.accesskey "ա">
+<!ENTITY byMostVisited.accesskey "V">
 <!ENTITY byLastVisited.label "Ըստ վերջին այցի">
-<!ENTITY byLastVisited.accesskey "վ">
+<!ENTITY byLastVisited.accesskey "L">
 <!ENTITY byDayAndSite.label "Ըստ ամսաթվի և հանգույցի">
-<!ENTITY byDayAndSite.accesskey "և">
+<!ENTITY byDayAndSite.accesskey "t">
 <!ENTITY openLinkInWindow.label "Բացել">
-<!ENTITY openLinkInWindow.accesskey "Բ">
+<!ENTITY openLinkInWindow.accesskey "O">
 <!ENTITY openInNewTab.label "Բացել Նոր Ներդիրում">
-<!ENTITY openInNewTab.accesskey "ե">
+<!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "Բացել Նոր Պատուհանում">
-<!ENTITY openInNewWindow.accesskey "Ն">
-<!ENTITY bookmarkLink.label "էջանշել Այս Հղումը…">
-<!ENTITY bookmarkLink.accesskey "է">
-<!ENTITY copyLink.label "Կրկնակել Հղման Հասցեն">
-<!ENTITY copyLink.accesskey "Հ">
+<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY copyLink.label "Կրկնել Հղման Հասցեն">
+<!ENTITY copyLink.accesskey "c">

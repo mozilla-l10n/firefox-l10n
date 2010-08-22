@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,44 +37,47 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY connectionsDialog.title "Կապի Դրույթներ">
-<!ENTITY window.width "37em">
-<!ENTITY window.macWidth "39em">
-<!ENTITY proxyTitle.label "Կազմաձեվել ինտերնետ միացման միջնորդներ">
-<!ENTITY directTypeRadio.label "Ուղղակի կապ ինտերնետի հետ">
-<!ENTITY directTypeRadio.accesskey "Ո">
-<!ENTITY WPADTypeRadio.label "Ինքնաբացահայտել միջնորդի կազմաձեվումն այս ցանցի համար">
-<!ENTITY WPADTypeRadio.accesskey "ք">
-<!ENTITY manualTypeRadio.label "Միջնորդն անձամբ կազմաձեվել">
-<!ENTITY manualTypeRadio.accesskey "ձ">
-<!ENTITY autoTypeRadio.label "Միջանկյալ սպասարկչի ինքնաբար կազմաձեվման URL:">
-<!ENTITY autoTypeRadio.accesskey "մ">
-<!ENTITY configAutoconfigText.label "Կազմաձևման հասցեն (URL).">
-<!ENTITY configAutoconfigText.accesskey "զ">
-<!ENTITY reload.label "Վերաբեռնավորել">
-<!ENTITY reload.accesskey "բ">
-<!ENTITY ftp.label "FTP միջնորդ.">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher միջնորդ.">
-<!ENTITY gopher.accesskey "G">
-<!ENTITY http.label "HTTP միջնորդ.">
-<!ENTITY http.accesskey "y">
-<!ENTITY ssl.label "SSL միջնորդ.">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY socks.label "SOCKS սպասարկիչ">
-<!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "K">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY port.label "Դարպաս.">
-<!ENTITY HTTPport.accesskey "Դ">
-<!ENTITY SSLport.accesskey "ա">
-<!ENTITY FTPport.accesskey "ր">
-<!ENTITY gopherPort.accesskey "">
-<!ENTITY SOCKSport.accesskey "պ">
-<!ENTITY noproxy.label "Չմիջնորդել.">
-<!ENTITY noproxy.accesskey "Չ">
-<!ENTITY noproxyExplain.label "Օրինակ՝. .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Օգտագործել նույն միջնորդ բոլոր աշխատակարգերի համար">
-<!ENTITY shareproxy.accesskey "յ">
+
+<!ENTITY  connectionsDialog.title       "Կապի Դրույթներ">
+<!ENTITY  window.width                  "44em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "Կազմաձեվել ինտերնետ միացման միջնորդներ">
+<!ENTITY  noProxyTypeRadio.label        "Առանց պռոքսի">
+<!ENTITY  noProxyTypeRadio.accesskey    "Ա">
+<!ENTITY  systemTypeRadio.label         "Օգտագործել համակարգի պռոքսի կարգավորումները">
+<!ENTITY  systemTypeRadio.accesskey     "Օ">
+<!ENTITY  WPADTypeRadio.label           "Ինքնաբացահայտել միջնորդի կազմաձեվումն այս ցանցի համար">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Միջնորդն անձամբ կազմաձեվել">
+<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  autoTypeRadio.label           "Միջանկյալ սպասարկչի ինքնաբար կազմաձեվման URL:">
+<!ENTITY  autoTypeRadio.accesskey       "U">
+<!ENTITY  reload.label                  "Վերբեռնել">
+<!ENTITY  reload.accesskey              "e">
+<!ENTITY  ftp.label                     "FTP միջնորդ.">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  gopher.label                  "Gopher միջնորդ.">
+<!ENTITY  gopher.accesskey              "G">
+<!ENTITY  http.label                    "HTTP միջնորդ.">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "SSL միջնորդ.">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "SOCKS սպասարկիչ">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS տ4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS տ5">
+<!ENTITY  socks5.accesskey              "S">
+<!ENTITY  port.label                    "Դարպաս.">
+<!ENTITY  HTTPport.accesskey            "Դ">
+<!ENTITY  SSLport.accesskey             "ա">
+<!ENTITY  FTPport.accesskey             "ր">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.accesskey           "պ">
+<!ENTITY  noproxy.label                 "Չմիջնորդել.">
+<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxyExplain.label          "Օրինակ՝. .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Օգտագործել նույն միջնորդ բոլոր աշխատակարգերի համար">
+<!ENTITY  shareproxy.accesskey          "s">

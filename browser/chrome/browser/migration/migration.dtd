@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,44 +37,54 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY migrationWizard.title "Ներմուծման Հարցուկ">
-<!ENTITY importFrom.label "Ներմուծել հատկանիշները, Էջանիշները, Մատյանը, Ծածկաբառերը և այլ տվյալները այստեղից՝">
-<!ENTITY importFromUnix.label "Ներմուծել նախընտրանքները, էջանիշները, ծածկագրերը եվ այլ տվյալներ՝">
-<!ENTITY importFromBookmarks.label "Ներմուծել էջանիշներ՝">
-<!ENTITY importFromIE.label "Microsoft Internet Explorer­ից">
-<!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefox 0.8­ից, Firebird­ից կամ Phoenix­ից">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "Չներմուծել ոչինչ">
-<!ENTITY importFromNothing.accesskey "Չ">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7­ից կամ Mozilla 1.x­ից">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x­ից">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "Opera­ից">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino­ից">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "Safari­ից">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb­ից">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab­ից">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror­ից">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany­ից">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon­ից">
-<!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importFromFile.label "Ֆալից">
-<!ENTITY importFromFile.accesskey "Ֆ">
-<!ENTITY importSource.title "Ներմուծել նախնտրանքները ու տվյալները">
-<!ENTITY importItems.title "Ներմուծելու բաներ">
-<!ENTITY importItems.label "Ընտրեք թե ինչ պիտի ներմուծվի">
-<!ENTITY migrating.title "Ներմուծում եմ…">
-<!ENTITY migrating.label "Հետեվյալ բաղադրիչները ներմուծվում են…">
-<!ENTITY selectProfile.title "Ընտրել հաշիվը">
-<!ENTITY selectProfile.label "Կարող եք ներմուծել հետեվյալ հաշիվներից">
-<!ENTITY done.title "Ներմուծումն ավարտվեց">
-<!ENTITY done.label "Հետեվյալ բաղդրիչները հաջողությամբ ներմուծվեցին՝">
+
+<!ENTITY migrationWizard.title          "Ներմուծման Հարցուկ">
+
+<!ENTITY importFrom.label               "Ներմուծել հատկանիշները, Էջանիշները, Մատյանը, Ծածկաբառերը և այլ տվյալները այստեղից՝">
+<!ENTITY importFromUnix.label           "Ներմուծել նախընտրանքները, էջանիշները, ծածկագրերը եվ այլ տվյալներ՝">
+<!ENTITY importFromBookmarks.label      "Ներմուծել էջանիշներ՝">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer­ից">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8­ից, Firebird­ից կամ Phoenix­ից">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Չներմուծել ոչինչ">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7­ից կամ Mozilla 1.x­ից">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x­ից">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera­ից">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino­ից">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari­ից">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb­ից">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab­ից">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror­-ից">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany­ից">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon­ից">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "HTML ֆայլից">
+<!ENTITY importFromHTMLFile.accesskey   "H">
+
+<!ENTITY noMigrationSources.label       "Չգտնվեց գետ մեկ ծրագիր որը պարունակում է էջանիշեր, պատմություն կամ գաղտնաբառ:">
+
+<!ENTITY importSource.title             "Ներմուծել նախնտրանքները ու տվյալները">
+<!ENTITY importItems.title              "Ներմուծելու բաներ">
+<!ENTITY importItems.label              "Ընտրեք թե ինչ պիտի ներմուծվի">
+
+<!ENTITY migrating.title                "Ներմուծում եմ…">
+<!ENTITY migrating.label                "Հետեվյալ բաղադրիչները ներմուծվում են…">
+
+<!ENTITY selectProfile.title            "Ընտրել հաշիվը">
+<!ENTITY selectProfile.label            "Կարող եք ներմուծել հետեվյալ հաշիվներից">
+
+<!ENTITY done.title                     "Ներմուծումն ավարտվեց">
+<!ENTITY done.label                     "Հետեվյալ բաղդրիչները հաջողությամբ ներմուծվեցին՝">
+

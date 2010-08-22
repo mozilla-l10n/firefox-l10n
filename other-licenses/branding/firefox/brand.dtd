@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,7 +37,7 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY brandShortName "Firefox">
-<!ENTITY brandFullName "Mozilla Firefox">
-<!ENTITY vendorShortName "Mozilla">
-<!ENTITY releaseURL "http://www.mozilla.org/products/firefox/releases/1.5.html">
+<!ENTITY  brandShortName        "Firefox">
+<!ENTITY  brandFullName         "Mozilla Firefox">
+<!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  logoCopyright         "Firefox ը և Firefox -ի լոգոտպերը հանդիսանում են Firefox Foundation -ի ապրանքային նշանները: Բոլոր իրավունքները պաշտպանված են:">

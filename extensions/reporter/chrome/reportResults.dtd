@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,17 +37,18 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY reportSite "Հանգույց">
-<!ENTITY reportProblemType "Խնդրի Տիպը">
-<!ENTITY reportDecsription "Նկարագրությունը">
-<!ENTITY reportPlatform "Հենքը">
-<!ENTITY reportProduct "Ապրանքը">
-<!ENTITY reportoscpu "ԳՀ (OS)">
-<!ENTITY reportGecko "Gecko">
-<!ENTITY reportBuildConfig "Ստեղծման Ձևակազմը">
-<!ENTITY reportUseragent "Օգտվողի Գործակալ">
-<!ENTITY reportLanguage "Լեզուն">
-<!ENTITY reportEmail "Էլ-Փոստ">
-<!ENTITY error "Սխալի Մանրամասները">
-<!ENTITY faultCode "Համարը">
-<!ENTITY faultMessage "Գրություն">
+<!ENTITY reportSite                  "Հանգույց">
+<!ENTITY reportProblemType           "Խնդրի Տիպը">
+<!ENTITY reportDecsription           "Նկարագրությունը">
+<!ENTITY reportPlatform              "Հենքը">
+<!ENTITY reportProduct               "Ապրանքը">
+<!ENTITY reportoscpu                 "ԳՀ (OS)">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Ստեղծման Ձևակազմը">
+<!ENTITY reportUseragent             "Օգտվողի Գործակալ">
+<!ENTITY reportLanguage              "Լեզուն">
+<!ENTITY reportCharset               "Կոդավորումը">
+<!ENTITY reportEmail                 "Էլ-Փոստ">
+<!ENTITY error                       "Սխալի Մանրամասները">
+<!ENTITY faultCode                   "Համարը">
+<!ENTITY faultMessage                "Գրություն">

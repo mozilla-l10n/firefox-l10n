@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,23 +37,24 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY charsetMenu.label "Գրանշանների Կոդավորում">
-<!ENTITY charsetMenu.accesskey "Գ">
-<!ENTITY charsetMenuAutodet.label "Ինքնաբացահայտել">
-<!ENTITY charsetMenuAutodet.accesskey "ի">
-<!ENTITY charsetMenuMore.label "Հավելյալ Կոդավորումներ">
-<!ENTITY charsetMenuMore.accesskey "հ">
-<!ENTITY charsetMenuMore1.label "Արեվմտաեվրոպական">
-<!ENTITY charsetMenuMore1.accesskey "մ">
-<!ENTITY charsetMenuMore2.label "Արեվելաեվրոպական">
-<!ENTITY charsetMenuMore2.accesskey "ե">
-<!ENTITY charsetMenuMore3.label "Արեվելաասիական">
-<!ENTITY charsetMenuMore3.accesskey "Ա">
-<!ENTITY charsetMenuMore4.label "ՀԱԵ և ՀԱՄ Ասիական">
-<!ENTITY charsetMenuMore4.accesskey "Հ">
-<!ENTITY charsetMenuMore5.label "Միջինարեվելյան">
-<!ENTITY charsetMenuMore5.accesskey "Մ">
-<!ENTITY charsetMenuUnicode.label "Յունիկոդ">
-<!ENTITY charsetMenuUnicode.accesskey "Յ">
-<!ENTITY charsetCustomize.label "Ցուցակը Կարգավորել…">
-<!ENTITY charsetCustomize.accesskey "Կ">
+<!-- extracted from charsetOverlay.xul -->
+<!ENTITY charsetMenu.label             "Գրանշանների Կոդավորում">
+<!ENTITY charsetMenu.accesskey         "C">
+<!ENTITY charsetMenuAutodet.label      "Ինքնաբացահայտել">
+<!ENTITY charsetMenuAutodet.accesskey  "A">
+<!ENTITY charsetMenuMore.label         "Հավելյալ Կոդավորումներ">
+<!ENTITY charsetMenuMore.accesskey     "M">
+<!ENTITY charsetMenuMore1.label        "Արեվմտաեվրոպական">
+<!ENTITY charsetMenuMore1.accesskey    "W">
+<!ENTITY charsetMenuMore2.label        "Արեվելաեվրոպական">
+<!ENTITY charsetMenuMore2.accesskey    "E">
+<!ENTITY charsetMenuMore3.label        "Արեվելաասիական">
+<!ENTITY charsetMenuMore3.accesskey    "A">
+<!ENTITY charsetMenuMore4.label        "ՀԱԵ և ՀԱՄ Ասիական">
+<!ENTITY charsetMenuMore4.accesskey    "S">
+<!ENTITY charsetMenuMore5.label        "Միջինարեվելյան">
+<!ENTITY charsetMenuMore5.accesskey    "M">
+<!ENTITY charsetMenuUnicode.label      "Յունիկոդ">
+<!ENTITY charsetMenuUnicode.accesskey  "U">
+<!ENTITY charsetCustomize.label        "Ցուցակը Կարգավորել…">
+<!ENTITY charsetCustomize.accesskey    "C">

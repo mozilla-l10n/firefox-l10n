@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,23 +37,21 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
+<!-- extracted from finddialog.xul -->
+
 <!ENTITY findDialog.title "Փնտրել Այս Էջում">
-<!ENTITY findDialogFrame.title "Փնտրել Այս Ենթապատուհանում">
 <!ENTITY findField.label "Փնտրել ի՞նչ.">
-<!ENTITY findField.accesskey "ն">
+<!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Մեծ(փոքր)ատառ հաշվի առնել">
-<!ENTITY caseSensitiveCheckbox.accesskey "տ">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Պտտվել">
-<!ENTITY wrapCheckbox.accesskey "պ">
-<!ENTITY backwardsCheckbox.label "Փնտրել դեպի հետ">
-<!ENTITY backwardsCheckbox.accesskey "հ">
-<!ENTITY findField.tooltip "Նշեք մեկ կամ ավել փնտրվող բառ">
+<!ENTITY wrapCheckbox.accesskey "W">
 <!ENTITY findButton.label "Հաջորդը Գտնել">
-<!ENTITY findButton.accesskey "Հ">
-<!ENTITY cancelButton.label "Դադարեցնել">
+<!ENTITY findButton.accesskey "F">
+<!ENTITY cancelButton.label "Չեղարկել">
 <!ENTITY closeButton.label "Փակել">
 <!ENTITY up.label "Վեր">
-<!ENTITY up.accesskey "ե">
+<!ENTITY up.accesskey "U">
 <!ENTITY down.label "Վար">
-<!ENTITY down.accesskey "ա">
+<!ENTITY down.accesskey "D">
 <!ENTITY direction.label "Ուղղությունը">

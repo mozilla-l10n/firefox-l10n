@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,40 +37,61 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY reportWizard.title "Զեկուցել Անաշխատունակ Վեբ Հանգույց">
-<!ENTITY privacyNotice.label "Գաղտնիության Դրույթները">
-<!ENTITY reportWizardPrivacy.description "Այս գործիքը թույլ է տալիս Ձեզ տեղեկացնել &brandShortName;-ում սխալ աշխատող կամ &brandShortName;-ը բացառող հանգույցների մասին: Այս օժանդակության շնորհիվ մենք կկարողանանք &brandShortName;-ի օգտվողներին երաշխել լավագույն փորձառությունը: Խնդրեմ եթե ուզում եք մասնակցել, ապա մի պահ տրամադրեք կարդալու և հասկանալու համար թե մենք ինչպես ենք օգտագործելու կուտակվող ինֆորմացիան:">
-<!ENTITY reportWizardMustAgree.description "Շարունակելու համար պիտի համաձայնվեք վերը նշվա գաղտնիության դրույթների հետ:">
-<!ENTITY dontShowPrivacyStatement.label "Ես կարդացել և ընդունում եմ վերը նշված գաղտնիության դրույթները:">
-<!ENTITY dontShowPrivacyStatement.accesskey "Ե">
-<!ENTITY reportForm.label "Լրացնել Զեկույցը">
-<!ENTITY reportForm.description "Մի քիչ պատմեք մեզ Ձեզ պատահած խնդրի մասին.">
-<!ENTITY reportForm.url.title "Վեբ Հանգույցի Հասցեն.">
-<!ENTITY reportForm.behind_login.title "Վեբ Հանգույցը գաղտնաբառով պաշտպանված է">
-<!ENTITY reportForm.behind_login.accesskey "Պ">
-<!ENTITY reportForm.problem_type.title "Խնդրի Տիպը.">
-<!ENTITY reportForm.problem_type.accesskey "Տ">
-<!ENTITY reportForm.problem_type.chooseOne.title "Մեկն Ընտրել…">
-<!ENTITY reportForm.problem_type.item1.title "Զննիչը չի աջակցվում">
-<!ENTITY reportForm.problem_type.item2.title "Անհնար է գրանցվել">
-<!ENTITY reportForm.problem_type.item3.title "Խից-բաղադիրը չի ցուցադրվում">
-<!ENTITY reportForm.problem_type.item4.title "Այլ պարունակություն առկա չէ">
-<!ENTITY reportForm.problem_type.item5.title "Սխալ է աշխատում">
-<!ENTITY reportForm.problem_type.item6.title "Սխալ է ցուցադրվում">
-<!ENTITY reportForm.problem_type.item7.title "Այլ Խնդիր">
-<!ENTITY reportForm.describe.title "Նկարագրեք Խնդիրը.">
-<!ENTITY reportForm.describe.accesskey "Ն">
-<!ENTITY reportForm.platform.title "Համակարգչային Հենք.">
-<!ENTITY reportForm.product.title "Ապրանքը">
-<!ENTITY reportForm.gecko.title "Gecko.">
-<!ENTITY reportForm.useragent.title "Օգտվողի Գործակալ">
-<!ENTITY reportForm.language.title "Լեզուն">
-<!ENTITY reportForm.email.title "Էլ-փոստ (պարտադիր չէ)">
-<!ENTITY reportForm.email.accesskey "Է">
-<!ENTITY reportForm.privacyPolicy.title "Գաղտնիության Դրույթները">
-<!ENTITY reportForm.privacyPolicy.tooltip "Դիտել Գաղտնիության Դրույթները">
-<!ENTITY reportResults.showDetail.title "Դիտել Մանրամասները">
-<!ENTITY reportResults.showDetail.accesskey "Մ">
-<!ENTITY sendReport.label "Ուղղարկում եմ Զեկույցը">
-<!ENTITY sendReport.description "Ուղղարկում եմ Զեկույցը սպասարկչին">
-<!ENTITY finish.label "Զեկույցն Ուղղարկված է">
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "Զեկուցել Անաշխատունակ Վեբ Հանգույց">
+
+<!ENTITY privacyNotice.label                        "Գաղտնիության Դրույթները">
+<!ENTITY reportWizardPrivacy.description            "Այս գործիքը թույլ է տալիս Ձեզ տեղեկացնել &brandShortName;-ում սխալ աշխատող կամ &brandShortName;-ը բացառող հանգույցների մասին: Այս օժանդակության շնորհիվ մենք կկարողանանք &brandShortName;-ի օգտվողներին երաշխել լավագույն փորձառությունը: Խնդրեմ եթե ուզում եք մասնակցել, ապա մի պահ տրամադրեք կարդալու և հասկանալու համար թե մենք ինչպես ենք օգտագործելու կուտակվող ինֆորմացիան:">
+<!ENTITY reportWizardMustAgree.description          "Շարունակելու համար պիտի համաձայնվեք վերը նշվա գաղտնիության դրույթների հետ:">
+
+<!ENTITY dontShowPrivacyStatement.label             "Ես կարդացել և ընդունում եմ վերը նշված գաղտնիության դրույթները:">
+<!ENTITY dontShowPrivacyStatement.accesskey         "I">
+
+<!ENTITY reportForm.label                           "Լրացնել Զեկույցը">
+
+<!ENTITY reportForm.description                     "Մի քիչ պատմեք մեզ Ձեզ պատահած խնդրի մասին.">
+<!ENTITY reportForm.url.title                       "Վեբ Հանգույցի Հասցեն.">
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!ENTITY reportForm.behind_login.title              "Վեբ Հանգույցը գաղտնաբառով պաշտպանված է"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "W">
+
+<!ENTITY reportForm.problem_type.title              "Խնդրի Տիպը.">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "Մեկն Ընտրել…">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "Զննիչը չի աջակցվում">
+<!ENTITY reportForm.problem_type.item2.title        "Անհնար է գրանցվել">
+<!ENTITY reportForm.problem_type.item3.title        "Խից-բաղադիրը չի ցուցադրվում">
+<!ENTITY reportForm.problem_type.item4.title        "Այլ պարունակություն առկա չէ">
+<!ENTITY reportForm.problem_type.item5.title        "Սխալ է աշխատում">
+<!ENTITY reportForm.problem_type.item6.title        "Սխալ է ցուցադրվում">
+<!ENTITY reportForm.problem_type.item7.title        "Այլ Խնդիր">
+<!ENTITY reportForm.problem_type.item8.title        "Մուտք սահմանափակ հնարավորություն ունեցողների համար">
+<!ENTITY reportForm.problem_type.item9.title        "Պարունակությունը սխալ է տպված">
+
+<!ENTITY reportForm.describe.title                  "Նկարագրեք Խնդիրը.">
+<!ENTITY reportForm.describe.accesskey              "D">
+
+<!ENTITY reportForm.platform.title                  "Համակարգչային Հենք.">
+<!ENTITY reportForm.product.title                   "Ապրանքը">
+<!ENTITY reportForm.gecko.title                     "Gecko.">
+<!ENTITY reportForm.useragent.title                 "Օգտվողի Գործակալ">
+<!ENTITY reportForm.language.title                  "Լեզուն">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Էլ-փոստ (պարտադիր չէ)">
+<!ENTITY reportForm.email.accesskey                 "-">
+
+<!ENTITY reportForm.privacyPolicy.title             "Գաղտնիության Դրույթները">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Դիտել Գաղտնիության Դրույթները">
+
+<!ENTITY reportResults.showDetail.title             "Դիտել Մանրամասները">
+<!ENTITY reportResults.showDetail.accesskey         "S">
+
+<!ENTITY sendReport.label                           "Ուղղարկում եմ Զեկույցը">
+<!ENTITY sendReport.description                     "Ուղղարկում եմ Զեկույցը սպասարկչին">
+
+<!ENTITY finish.label                               "Զեկույցն Ուղարկված է">

@@ -19,7 +19,10 @@
     the Initial Developer. All Rights Reserved.
    
     Contributor(s):
-      Vahe Khachikyan       <vahe@khachikyan.de>
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
    
     Alternatively, the contents of this file may be used under the terms of
     either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,25 +37,18 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY brandMotto "Զննիչը Վերամշակված">
-<!ENTITY credit.leads "Նախագծման Ղեկավարներ">
-<!ENTITY credit.core "Զարգացման Հիմնական Խումբ">
-<!ENTITY credit.gecko "Gecko Ցուցադրման Մեքենա">
-<!ENTITY credit.thanks "Հատուկ Երախտագիտություն ի">
-<!ENTITY credit.translation "<h3>Թարգմանիչ</h3><ul><li>Վահե Խաչիկյան</li></ul>">
-<!ENTITY credit.visuals "Տեսքային Նախագծման Համաձայնեցում">
-<!ENTITY credit.theme "Ձեվավորման Նախագիծ">
-<!ENTITY credit.brand "Մակնիշ">
-<!ENTITY credit.web "Web Կազմվածք">
-<!ENTITY credit.update "Mozilla-ի Թարմացում">
-<!ENTITY credit.qalead "Որակի Ստուգման Ղեկավար">
-<!ENTITY credit.qa "Որակի Ստուգում">
-<!ENTITY credit.build "Ստեղծում և Թողարկում">
-<!ENTITY credit.infra "Ենթակառուցվածքի Աջակցում">
-<!ENTITY credit.support "Աջակցման Ռեսուրսներ">
-<!ENTITY credit.manage "Նախագծի Կառավարում">
-<!ENTITY credit.marketleads "Շուկայագետ Ղեկավարներ">
-<!ENTITY credit.market "Շուկայագիտություն">
-<!ENTITY credit.creators "Ստեղծողներ">
-<!ENTITY credit.memory "Ի Գողտրիկ Հիշատակն">
-<!ENTITY credit.poweredByGecko "Զորացված է Gecko&trade;-ի կողմից">
+<!ENTITY brandMotto       "Զննիչը Վերամշակված">
+<!ENTITY credit.thanks    "Հատուկ Երախտագիտություն ի">
+
+<!ENTITY credit.thanks2       "Անչափ շնորհակալություն մեր">
+<!ENTITY credit.contributors2 "սատարողներ">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Թարգմանիչ</h3><ul><li>Ռոբերտ Սարգսյան</li></ul>">
+
+<!ENTITY credit.memory      "Ի Գողտրիկ Հիշատակն">
+<!ENTITY credit.poweredByGeckoReg "Հիմքում` Gecko&reg;">
