@@ -20,7 +20,7 @@
 <!ENTITY  closeOtherTabs.accesskey     "L">
 <!ENTITY  openTabInNewWindow.label     "Buka di Jendela Baru">
 <!ENTITY  openTabInNewWindow.accesskey "J">
-<!ENTITY  pinTab.label                 "Jadikan Tab Apl">
+<!ENTITY  pinTab.label                 "Jadikan Tab Permanen">
 <!ENTITY  pinTab.accesskey             "p">
 <!ENTITY  unpinTab.label               "Jadikan Tab Normal">
 <!ENTITY  unpinTab.accesskey           "d">
