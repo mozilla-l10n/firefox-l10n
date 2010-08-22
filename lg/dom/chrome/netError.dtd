@@ -1,0 +1,84 @@
+<!ENTITY loadError.label "Ensobi ebaddewo mukutikka omukko">
+<!ENTITY retry.label "Try Again">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Kigaanye Okukwatagana">
+<!ENTITY connectionFailure.longDesc "<p>Wadde embuga elabika nti ntufu, akanonyesebwa kalemedwa okuyunga ku mpuliziganya.</p><ul><li>Oba embuga teriwo mukaseera kano? Gezaako edda ko.</li><li>Olemeddwa okunoonya ku mbuga endala?  Kebera ennyunga y'empuliziganya ya kompyuta.</li><li>Kompyuuta oba omukutu gwo gukuumibwa engabo oba omusigire? Entegeka enkyamu eyinza okugootaanya ennooya y`omukutu.</li></ul>">
+
+<!ENTITY deniedPortAccess.title "Ekituli Kiziyiziddwa ku Lw'ensonga Y'ebyokwerinda">
+<!ENTITY deniedPortAccess.longDesc "<p>Endagiriro esabiddwa, elonze ekituli (eky`okulabirako. <q>mozilla.org:80</q> olw`ekituli 80 ku mozilla.org) etera okukozesebwa olw`emigaso <em>ngojyekko</em> okunonya kulutimbe. Ekinonya kisazizamu okusabakwo ku lw`ebyokwerinda byo.</p>">
+
+<!ENTITY dnsNotFound.title "Endagiriro Ebuze">
+<!ENTITY dnsNotFound.longDesc "<p>Akanonya tekasobode kufuna endagiriro ya nyinimu ya  kompyuta effuga zinazo.</p><ul><li>Wakoze ensobi ng'owandiika ekifo? (Okugeza. <q><strong>ww</strong>. mozilla.org</q> mu kifo kya <q><strong>www</strong>.mozilla.org</q>)</li><li>Okikakasa endagiriro ye kitundu eno gyeri? Kyandiba nga Okuwandikibwa kwayo kwayitako.</li><li>Olemeredwa okunonya ebyapa ebirala?   Kebera empuliriziganya ya kompyuta yo ne ntegeka ya kompyuta effuga zinazo eya DNS.</li><li>kompyuta yo oba ebyempulizinganya bikumidwa ne firewall oba ekyekusa kwe ekyo?  Entekateka sintufu oyinza okuyingirira ne empulisiganya; okugatta.</li></ul>">
+
+<!ENTITY fileNotFound.title "Fayilo telabise">
+<!ENTITY fileNotFound.longDesc "<ul><li>Ekintu kiyinza okuba nga kyakyusiddwa erinnya,kyaggyiddwawo,oba kyakyusiddwa ekifo?</li><li>Waliwo ensobi mu nnyukuta ezikola ekigambo,okugezza ennyukuta, oba empandiika, mu ndagiriro?</li><li>Olina olukusa olumala ku kintu ekisabiddwa?</li></ul>">
+
+<!ENTITY generic.title "Tekisobose kumalayo kusaba kwo">
+<!ENTITY generic.longDesc "<p>Obubaka obulala obukwata ku kizibu kino oba ku nsobi eno tebiriiwo mu kaseera kano..</p>">
+
+<!ENTITY malformedURI.title "Endagiriro Tekirizibwa">
+<!ENTITY malformedURI.longDesc "<p>Endagiriro eweereddwa teri mu ngeri ekirizibwa. Baambi Kebera mu kabawo ke biffo olw'ensobi era oddemu ogezeeko natte.</p>">
+
+<!ENTITY netInterrupt.title "Okusenvula ebiwandiko Kutaataaganyiziddwamu">
+<!ENTITY netInterrupt.longDesc "<p>Akanonya kayungiddwa bulungi, naye ennyunga yatataganye mukuwereza obubaka.  Bambi ddamu ogezeko nate.</p><ul><li>Olemeledwa okunonya kumikutu emmilara? Kebelako ku nnyunga y'empuliziganya ya kompyuuta.</li><li>Wakyaliwo obuzibu? Webuzeeko eli addukanya empuliziganya oba agabilira kompyuuta yo eby'omukutu ogw'ensi yonna akuyambe.</li></ul>">
+
+<!ENTITY netOffline.title "Toli ku nkola y'ekintu">
+<!ENTITY netOffline.longDesc "<p>Akanoonya kakolera ku lutimbe naye teluliiko n`olw`ekyo tekayinza kuyunga ku kintu ekisabiddwa.</p><ul><li>Kompyuta yo eyungiddwa ku mpuliriziganya ekola?</li><li>akanoonya kayunge ku lutimbe olukola oddemu ogezeeko.</li></ul>">
+
+<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.longDesc "<p>Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa fomu enfu oba etewagiddwa nga nnyige.</p><ul><li>bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.</li></ul>">
+
+<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Okuyungibwa kutaataaganyiziddwa">
+<!ENTITY netReset.longDesc "<p>Empuliziganya egatta etaataaganyiziddwa ng'ogezaako okuyunga. Ddamu ogezeeko nate.</p>">
+
+<!ENTITY netTimeout.title "Akaseera K'empuliziganya kaweddeko">
+<!ENTITY netTimeout.longDesc "<p>Olutimbe olusabidwa teluzemu kuyungakko kusaba n`akanonyesa ka ganye okulinda ekidibwamu.</p><ul><li>Kompyuta efuga zinazo eyinza okubanga erimubwetavu bwa wagulu oba esilikiridemu?  Gezako omulundi omulala.</li><li>Tosobola kunonya bitimbo birala? Kebera okuyungibwa kwo mukutu gwa kompyuta.</li><li>Omukutu gwa kompyuta yo gukumidwa engabo?  Okutereza okutali kutufu kuyinza okuyingirira okunonyezebwa kw`olutimbe.</li><li>Era okyalina obuzibu? Webuzeko ku mukugu wa kompyuta yo oba akugatta kumukutu gwensiyona kulw`obuyambi.</li></ul>">
+
+<!ENTITY protocolNotFound.title "Ebigobererwa tebimanyiddwa">
+<!ENTITY protocolNotFound.longDesc "<p>Endagiriro eraga emitendera (okugeza. <q>wxyz://</q>) akanoonyeraza tekakiteggera, bwekityo akanonyesa tekasobola kuyunga bulungi ku kyapa.</p><ul><li>Ogezaako kuzuula mpuliziganya oba nkola ndala ezitali mu nnukutta? Kebera ekyapa ofuna bye weetaaga ebirala.</li><li>Ebigobererwa ebimu biyinza okwetaagisa enkozesa endala oba ebikozesa ebirara owo akanonya kalyoke kakitegere.</li></ul>">
+
+<!ENTITY proxyConnectFailure.title "Kompyuta efuga zinnaazo egaanye okuyungako">
+<!ENTITY proxyConnectFailure.longDesc "<p>Akanoonyesa bakategese okukozesa komyputa effuga zinazo,Naye ekyokumpi kigaanye okuyungibwako,</p><ul><li>Entegeke y'akanonyesa ntuufu? Kebera entegeka era odemu ogezeeko.</li><li>Kitufu nti empereza eyokumpi ekiriza okuyungibwa kumukutu guno?</li><li>Okyalina obuzibu? Weebuze ku akwatibwa ku by'omukutu oba omuntu yena akwatibwako olwobuyambi.</li></ul>">
+
+<!ENTITY proxyResolveFailure.title "Kompyuta efuga zinnazo ebuze">
+<!ENTITY proxyResolveFailure.longDesc "<p>Ekinoonya kitegekedwa okukozesebwa naye kompyuta efuga zinayo tesobola kusangibwa.</p><ul><li>Naye ekinoonya kompyuta effuga zinayo kitegekedwa bulungi? Kebera ensengeka oddemu.</li><li>Kompyuta yo eyungidwa ku mukutu ogukola?</li><li>Okyalina obuzibu? Buuza omukugu w'omukutu guno oyambibwe.</li></ul>">
+
+<!ENTITY redirectLoop.title "Ddiŋŋana endagiriro">
+<!ENTITY redirectLoop.longDesc "<p>Enonyesa eyimirizza okuzza ebisabidwa. Ekifo kilagirira ekyetaago mungeri eterigwayo.</p><ul><li>Olemeseza oba ozibikidde cookies ezetagibwa ekifo kino?</li><li><em>NOTE</em>: Oba okukiriza cookies z'ekifo tekijjewo kizibu, kiyinza okuba ekizibu kya kompyuta egabira zinaayo nga si kya kompyta yo.</li></ul>">
+
+<!ENTITY unknownSocketType.title "Okuddibwamu kukyamu">
+<!ENTITY unknownSocketType.longDesc "<p>Olutimbe lwakkiriza okusaba kw'enkwataganya mu ngeri etasuubirwa era akanonya tekasobodde kweyongerayo.</p>">
+
+<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.longDesc "<p>Omuko gw'ogezaako okulaba teguyinza kulagibwa, kubanga ensibuko y'ebiwandiiko tekakasiddwa .</p><ul><li>Bambi kwatagana nebananyini mukutu okubategeeze ku kizibu kino.</li></ul>">
+
+<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Kino kiyinza okubeera ekizibu okuva ku ntegeka ya kompyuta engabizi, oba kifananamu omuntu agezaako okukweka obukozesa bwe eri engabizi.</li> 
+<li>Bwoba oyungiddwa bulungi ku kompyuta eno enkulu gyebuvudeko, ensobi eyinza okuba nga ssi yalubeelera, era oyinza okudamu noogezako oluvannyuma.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+">
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly. -->
+
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;

@@ -1,0 +1,26 @@
+<!ENTITY find.label "Nnoonya:">
+<!ENTITY find.accesskey "N">
+<!ENTITY expand.label "Gaziya">
+<!ENTITY expand.accesskey "G">
+<!ENTITY collapse.label "Ssanyawo">
+<!ENTITY collapse.accesskey "S">
+<!ENTITY byDate.label "Ku Nnaku z'omwezi">
+<!ENTITY byDate.accesskey "N">
+<!ENTITY bySite.label "Ku kibanja">
+<!ENTITY bySite.accesskey "k">
+<!ENTITY view.label "Endabika">
+<!ENTITY view.accesskey "a">
+<!ENTITY byMostVisited.label "Ku kisinga Okukyalirwa">
+<!ENTITY byMostVisited.accesskey "O">
+<!ENTITY byLastVisited.label "Ku Kisembyeyo okukyalirwa">
+<!ENTITY byLastVisited.accesskey "K">
+<!ENTITY byDayAndSite.label "Ku lunaku n'ekibanja">
+<!ENTITY byDayAndSite.accesskey "n">
+<!ENTITY openLinkInWindow.label "Ggulawo">
+<!ENTITY openLinkInWindow.accesskey "G">
+<!ENTITY openInNewTab.label "Ggulawo akabaawo akapya">
+<!ENTITY openInNewTab.accesskey "a">
+<!ENTITY openInNewWindow.label "Ggulirawo mu lutimbe olupya">
+<!ENTITY openInNewWindow.accesskey "l">
+<!ENTITY copyLink.label "Koppa akakwanaganya k'ekifo">
+<!ENTITY copyLink.accesskey "K">

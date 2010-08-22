@@ -1,0 +1,83 @@
+<!ENTITY history.label "Ebyafaayo">
+
+<!ENTITY locationBar.label "Akalagilira">
+
+<!ENTITY locbar.pre.label "When using the location bar, suggest:">
+<!ENTITY locbar.pre.accessKey "u">
+<!ENTITY locbar.post.label "">
+<!ENTITY locbar.both.label "History and Bookmarks">
+<!ENTITY locbar.history.label "Ebyafaayo">
+<!ENTITY locbar.bookmarks.label "Obulambe">
+<!ENTITY locbar.nothing.label "Tewali">
+
+
+<!ENTITY acceptCookies.label "Accept cookies from sites">
+<!ENTITY acceptCookies.accesskey "c">
+
+<!ENTITY acceptThirdParty.label "Accept third-party cookies">
+<!ENTITY acceptThirdParty.accesskey "p">
+
+<!ENTITY keepUntil.label "Kuuma okutuusa:">
+<!ENTITY keepUntil.accesskey "K">
+
+<!ENTITY expire.label "ziyitako">
+<!ENTITY close.label "Nzigalawo &brandShortName;">
+<!ENTITY askEachTime.label "mbuuza buli kiseera">
+
+<!ENTITY cookieExceptions.label "Okujjako…">
+<!ENTITY cookieExceptions.accesskey "O">
+
+<!ENTITY showCookies.label "Laga Kkuki…">
+<!ENTITY showCookies.accesskey "L">
+
+
+<!ENTITY historyHeader.pre.label "&brandShortName; will:">
+<!ENTITY historyHeader.pre.accesskey "w">
+<!ENTITY historyHeader.remember.label "Jjukira ebyafaayo">
+<!ENTITY historyHeader.dontremember.label "Tojjukiranga byafaayo">
+<!ENTITY historyHeader.custom.label "Use custom settings for history">
+<!ENTITY historyHeader.post.label "">
+
+<!ENTITY rememberDescription.label "&brandShortName; ejja kujjukira okunonyereza,okuwanula n'okutereka ebyafaayo ku kkuki okuva ku mikutu gy'Omutimbagano gw'okyalako.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY rememberActions.pre.label "Oyinza okwagala ">
+<!ENTITY rememberActions.clearHistory.label "clear your recent history">
+<!ENTITY rememberActions.middle.label ", oba ">
+<!ENTITY rememberActions.removeCookies.label "gyawo kkuki kkinnemu">
+<!ENTITY rememberActions.post.label ".">
+
+<!ENTITY dontrememberDescription.label "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY dontrememberActions.pre.label "Era oyinza okwagala ">
+<!ENTITY dontrememberActions.clearHistory.label "longoosa ebyafaayo byona">
+<!ENTITY dontrememberActions.post.label ".">
+
+<!ENTITY privateBrowsingAutoStart.label "Automatically start &brandShortName; in a private browsing session">
+<!ENTITY privateBrowsingAutoStart.accesskey "A">
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+
+<!ENTITY rememberHistory.pre.label "Remember my browsing history for at least">
+<!ENTITY rememberHistory.pre.accesskey "b">
+<!ENTITY rememberHistory.post.label "ennaku">
+
+<!ENTITY rememberDownload.label "Jjukira owanule ebyafaayo">
+<!ENTITY rememberDownload.accesskey "o">
+
+<!ENTITY rememberSearchForm.label "Remember search and form history">
+<!ENTITY rememberSearchForm.accesskey "f">
+
+<!ENTITY clearOnClose.label "Clear history when &brandShortName; closes">
+<!ENTITY clearOnClose.accesskey "r">
+
+<!ENTITY clearOnCloseSettings.label "Entegeka…">
+<!ENTITY clearOnCloseSettings.accesskey "t">

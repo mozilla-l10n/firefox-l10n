@@ -1,0 +1,59 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Lopa Omukutu Ogwononese">
+
+<!ENTITY privacyNotice.label "Enkola eyekyama egobelerwa">
+<!ENTITY reportWizardPrivacy.description "Ekikozesebwa kino kikukiliza okulaga ebibiina by'Enzikiliza ku byapa ebitakolabulungi mu &brandShortName;, oba okugala mu &brandShortName; wabweru. Eno yenkolayo ejja okutuyamba kubumanyilivu bwa &brandShortName; abakozesi. Bambi mufune akasela musome bino no kubitegera engeli yokosesa obubaka bwetukuŋŋanya mwelondereko.">
+<!ENTITY reportWizardMustAgree.description "Okweyongerayo sooka okiriziganye ne'nkola eyekyama egobelerwa waggulu.">
+
+<!ENTITY dontShowPrivacyStatement.label "Nsomye era nzikiriziganya n'enkola egobererwa ey'ekyama waggulu.">
+<!ENTITY dontShowPrivacyStatement.accesskey "N">
+
+<!ENTITY reportForm.label "Jjuzzamu Alipoota">
+
+<!ENTITY reportForm.description "Tunnyonnyole mu bufunze ekizibu kyosanze:">
+<!ENTITY reportForm.url.title "Omutimbagano ku mukutu gwe'nsi yonna URL:">
+<!ENTITY reportForm.url.accesskey "U">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Omukutu gw'ensi yonna gukuumidwa-n'ekisumuluzo">
+<!ENTITY reportForm.behind_login.accesskey "g">
+
+<!ENTITY reportForm.problem_type.title "Obuzibu Ekika:">
+<!ENTITY reportForm.problem_type.accesskey "E">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Londako Kimu…">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Ekinoonya tekiwagiddwa">
+<!ENTITY reportForm.problem_type.item2.title "Tesobola kuggulawo">
+<!ENTITY reportForm.problem_type.item3.title "Awongelezebwako tewalagiddwa">
+<!ENTITY reportForm.problem_type.item4.title "Waliwo ebilala ebitaliimu">
+<!ENTITY reportForm.problem_type.item5.title "Enneeyisa nkyamu">
+<!ENTITY reportForm.problem_type.item6.title "Endabika nkyamu">
+<!ENTITY reportForm.problem_type.item7.title "Ekizibu ekilala">
+<!ENTITY reportForm.problem_type.item8.title "Tolina buyinza">
+<!ENTITY reportForm.problem_type.item9.title "Ebifulumiziddwa bikyamu">
+
+<!ENTITY reportForm.describe.title "Nnyonnyola Omutawaana:">
+<!ENTITY reportForm.describe.accesskey "N">
+
+<!ENTITY reportForm.platform.title "Akatuti:">
+<!ENTITY reportForm.product.title "Ekikole ekifulumiziddwa:">
+<!ENTITY reportForm.gecko.title "Geko:">
+<!ENTITY reportForm.useragent.title "Agenti wo'mukozesa:">
+<!ENTITY reportForm.language.title "Olulimi:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "Emeyilo (Ebyenjawulo):">
+<!ENTITY reportForm.email.accesskey "E">
+
+<!ENTITY reportForm.privacyPolicy.title "Enkola y'ekyama">
+<!ENTITY reportForm.privacyPolicy.tooltip "Kenga Enkola Y'ekyama">
+
+<!ENTITY reportResults.showDetail.title "Laga Ebisingawo">
+<!ENTITY reportResults.showDetail.accesskey "L">
+
+<!ENTITY sendReport.label "Weereza alipoota">
+<!ENTITY sendReport.description "Okuweereza alipoota ku kompyuta engabirizi…">
+
+<!ENTITY finish.label "Lipoota Eweerezeddwa">

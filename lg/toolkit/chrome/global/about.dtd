@@ -1,0 +1,19 @@
+<!ENTITY about.version "ekyika">
+
+<!ENTITY about.copy.beforeLink "Koppa wandikee&copy; kuva 1998-2009">
+<!ENTITY about.copy.linkTitle "abebazibwa">
+<!ENTITY about.copy.afterLink "ku Murimu gwa Mozilla.">
+
+<!ENTITY about.license.beforeLink "Soma">
+<!ENTITY about.license.linkTitle "amawulire anga kirizirwa">
+<!ENTITY about.license.afterLink "kurwa pulodakiti eno.">
+
+<!ENTITY about.relnotes.beforeLink "Soma">
+<!ENTITY about.relnotes.linkTitle "ebiwandiiko bite">
+<!ENTITY about.relnotes.afterLink "kurwa ekyika kino.">
+
+<!ENTITY about.buildconfig.beforeLink "Laba">
+<!ENTITY about.buildconfig.linkTitle "jjenga etekateka">
+<!ENTITY about.buildconfig.afterLink "kozesa kurwa ekyika kino.">
+
+<!ENTITY about.buildIdentifier "Jjenga nnakkalazi: ">

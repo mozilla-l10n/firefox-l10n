@@ -1,0 +1,31 @@
+<!ENTITY editMenu.label "Longosereza">
+<!ENTITY editMenu.accesskey "L">
+<!ENTITY undoCmd.label "Zzayo">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "Z">
+<!ENTITY redoCmd.label "Ddamu">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "D">
+<!ENTITY cutCmd.label "Jjawo">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "w">
+<!ENTITY copyCmd.label "Koppa">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Teeka">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "T">
+<!ENTITY deleteCmd.label "Sangula">
+<!ENTITY deleteCmd.accesskey "a">
+<!ENTITY selectAllCmd.label "Londa Byonna">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "B">
+<!ENTITY findCmd.label "Noonya">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "N">
+<!ENTITY findAgainCmd.label "Ddamu Onoonye">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "m">
+<!ENTITY findPreviousCmd.label "Noonya by'Ovuddemu">
+<!ENTITY findPreviousCmd.accesskey "y">

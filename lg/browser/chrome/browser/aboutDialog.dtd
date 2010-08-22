@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title "Ebikwataku &brandFullName;">
+<!ENTITY copyright "Abantu abakoze bino">
+<!ENTITY copyright.accesskey "B">
+<!ENTITY copyrightGNOME.accesskey "r">
+<!ENTITY aboutLink "&lt; Ebikwata ku &brandFullName;">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "enkola">
+<!ENTITY closeCmdGNOME.label "Galawo">
+<!ENTITY closeCmdGNOME.accesskey "G">
+<!ENTITY copyrightInfo1 "&#169;1998-2009 Abayambyeko. Obuyinza bwona busigaziddwa. (">
+<!ENTITY licenseLink "ebikwata ku: lisensi">
+<!ENTITY licenseLinkText "Ebikwata ku lisensi">
+<!ENTITY copyrightInfo2 ").">

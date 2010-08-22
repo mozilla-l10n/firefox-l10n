@@ -1,0 +1,65 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle "ebikwataku:buyinza">
+<!ENTITY rights.intro-header "Ebikwata ku buyinza bwo">
+<!ENTITY rights.intro "&brandFullName; ya'bwerere era nga ekirizibwa okugikyusa, ezimbidwa enkuyanza za'abantu munsiyona. Waliwo ebitono bye wetagisa okumanya:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; ekutusibwako okusinzira ku ">
+<!ENTITY rights.intro-point1b "Lisensi yabulyomu eya Mozilla">
+<!ENTITY rights.intro-point1c ". Kyino kyitegeza nti osoboola okukoozesa, okukopa nokuwereza &brandShortName; eri abalala.  Era oyaniriziddwa okukyusa &brandShortName; nga bwoyagala okusinzira kubyetago byo. Lisensi yabulomu eya Mozilla nayo ekuwa obuyinza oku wereza abalala ebivudde mukyusa.">
+
+<!ENTITY rights.intro-point2a "Mizilla tekuwa buyinza bwona ku bipapi no bulambe obutunda Mozilla ne Firefox. Ebisingako awo ku bulambe obutunda biyinza okusangibwa ">
+<!ENTITY rights.intro-point2b "wano">
+<!ENTITY rights.intro-point2c ".">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights.intro-point3a "Amateka agafuga ebyekyama bya plugramu ezifulumiziddwa &vendorShortName; biyinza okusangibwa ">
+<!ENTITY rights.intro-point3b "wano">
+<!ENTITY rights.intro-point3c ".">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "Olukusa lwona olw'obwananyini ku nkola eno luteebwe wano.">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights.intro-point4a "&brandShortName; era erina empeereza efunika ku kibanja, gamba nga okunoonya ebikwata ku kyeweetaga; naye, tetusobola kukuwa bukakafu nti etuukiriddee 100&#37; oba terina nsobi. Ebisingawo, ng'otwoliddemu n'engeri gy'oyinzamu okunafuya empeereza, osobola okufunika mu ">
+<!ENTITY rights.intro-point4b "amateeka g'empeereza">
+<!ENTITY rights.intro-point4c ".">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "Enkola eno bweba ng'etwaliramu empeereza y'ebibanja, amateeka gonna agasoboka ku mpeereza(s) gasaanye okukwanaganya ne ">
+<!ENTITY rights.intro-point4b-unbranded "Empeereza y'Ekibanja">
+<!ENTITY rights.intro-point4c-unbranded " ekitundu.">
+
+<!ENTITY rights.webservices-header "&brandFullName; Empeereza y'Ekibanja">
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!ENTITY rights.webservices-a "&brandFullName; ekozesa amawulire agakwata ku mpeereza y'ekibanja (&quot;Services&quot;), gamba nga okunoonya kyeweetaga, gy'osobola okukozesa n'empeereza &brandShortName; nga bwennyonnyoddwa wammanga. Ssinga teweetaaga kukozesa mpeereza oba nga tokkiriziganya na mateeka galagiddwa wammanga, osobola okunafuya empeereza ekwata ku kunoonya ng'oggulawo eby'okweroboza, n'olondako ">
+<!ENTITY rights.webservices-b "Ebyokwerinda">
+<!ENTITY rights.webservices-c " kitundu, era n'obutakebera bya kweroboza bya &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "Ebikwata ku mpeereza y'ekibanja ezingiramu, awamu n'endagiriro ku ngeri y'okuginafuyamu, bwe biba bisoboka, bisaanye bigattibwe wano.">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "Enkola yonna n'amateeka g'empeereza eno essane eragibwe wanno.">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights.webservices-term1 "&vendorShortName; n'abagiwagira, abagiwa olukusa, era nebeekolagana nabo, bakola okuwa amawulire amatuufu era amappya ku nkola y'enteekateeka. Naye tebasobola kukakasa nti amawulire ago galimu buli kimu oba nti tegalina nsobi: ebibanja ebimu ebiyinza okuba eby'omutawaana biyinza obutalabibwa, ate ebitalina mutawaana bisobola okulabibwa mu bukyamu.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; esobola okukomya oba okukyusa Empeereza nga bweba esiimye.">
+<!ENTITY rights.webservices-term3 "Oyanirizibwa okukozesa empeereza zino awamu n'ekika kya &brandShortName;, ekigenderako era olina olukusa lwonna olwetagisa okukusobozesa.  &vendorShortName; n'abagiwa olukusa beesigaliza olukusa ku mpeereza ekwata ku birala.  Amateeka gano tegagenderedde kukugira ddembe lyonna liweebwa mu nkola ey'olukusa olutaliiko bukwakkulizo etuukana ne &brandShortName;awamu n'ebirala ebikwata ku &brandShortName;.">
+<!ENTITY rights.webservices-term4 "Empeereza ekutuusibwako &quot;as-is.&quot;  &vendorShortName;, n'abanywanyi, abagiwa olukusa, n'abagisaasanya, beesammula okukasa kwonna, okugenderere oba okutali, okutwaliramu awatali kkomo, okukakasa nti empeereza za busubuzi era nti zituukiridde eri ekigendererwa kyo.  Kikukakatako okulonda empeereza enekukolera naddala ku mutindo n'enkola. Abamu ku betuweereza tebakkiriziganya na kya kwesammula kutali kugenderere, n'olwekyo, okwesammula kuno kuyinza obutabakwatako.">
+<!ENTITY rights.webservices-term5 "Okujjako nga bwekyetagisa mu mateeka, &vendorShortName;, banywanyi baayo, abagiwa olukusa, n'abagisaasanya tebakwatibwengako mungeri yonna, kukosebwa okuyinza kubalukawo ku nkozesa oba nga kwekuusa ku nkozesa ya &brandShortName; n'empeereza.   Ekibakwatirako awamu mu mateeka gano tekiisusse $500 (bikumi bitano ebya Dolla ya America). Abamu ku betuweereza tebakkiriziganya na kya kuleka bbali oba okukugira kukosebwa, n'olwekyo kino kiyinza obutabakwatako.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; esobola okuzza obugya amateeka gano nga bwekyetagisa bili kiseera. Amateeka gano, tegakyusibwenga oba okusazibwamu awatali lukusa lwa &vendorShortName; luwandiike.">
+<!ENTITY rights.webservices-term7 "Amateeka gano gafugibwa mateeka ga gwanga lya California, U.S.A., ng'ojjeeko obuwayiro obukontana. Ssinga ekitundu kyonna ku mateeka gano kitwalibwa nti kikyamu oba tekissika mu nkola, ekitundu ekinaaba kisigaddewo kinaakolanga. Ssinga wabaawo okukuubagana wakati w'amateeka gano agakyusiddwa naago agali mu lulimi oluzungu, enkizo eneweebwanga ago agali mu lulimi oluzungu.">

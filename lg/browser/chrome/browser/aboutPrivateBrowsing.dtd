@@ -1,0 +1,22 @@
+<!ENTITY privatebrowsingpage.title "Okunnonya Okutongozeddwa">
+<!ENTITY privatebrowsingpage.title.normal "Wandiyagadde okutandika Okunnonya Okutongozeddwa?">
+
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; tejja kujjukira ebifudeyo mu kiseera kino.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; teri mu'mbera eyo'Kunnonya Okutongozeddwa kakano.">
+
+<!ENTITY privatebrowsingpage.description "Mumbera eyo'Kunnonya Okutongozeddwa, &brandShortName; tejja kutereeka bifudeyo mukunnonya, kuwanula, kuwayo, bubaka oba fayiro ezakaseera.  Wabula fayiro zo wanula ne'miko gyolamba gyi jja kutereekebwa.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "Oyinza okwagala okutandisa ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "okusangulawo ebyafudeyo emabega">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Tandika Okunnonya Okutongozeddwa">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "O">
+
+<!ENTITY privatebrowsingpage.howToStop "Okulekerawo Okunnonya Okutongozeddwa, londa &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, oba galawo &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart "Okutandika Okunnonya Okutongozeddwa, londa &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo "Newankubade kompyuta enno tejja kujjukira biffudeyo mukunnonya kwo, akuwereeza yintaneti oba mukamawo asobola oku zula emiko gyo kyalide.">
+<!ENTITY privatebrowsingpage.learnMore "Weyongere Okuyiga">

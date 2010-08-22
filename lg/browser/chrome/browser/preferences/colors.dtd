@@ -1,0 +1,22 @@
+<!ENTITY colorsDialog.title "Langi">
+<!ENTITY window.width "38em">
+<!ENTITY window.macWidth "41em">
+
+<!ENTITY allowPagesToUse.label "Kirizza emiko ku londako langi zizzo, mukyifo kyazze kukebere mubyewagulu">
+<!ENTITY allowPagesToUse.accesskey "K">
+
+<!ENTITY color "Ebigambo ne Obwaliriro">
+<!ENTITY textColor.label "Ebigambo:">
+<!ENTITY textColor.accesskey "E">
+<!ENTITY backgroundColor.label "Obwaliriro:">
+<!ENTITY backgroundColor.accesskey "O">
+<!ENTITY useSystemColors.label "Kozesa langi za sisitimu">
+<!ENTITY useSystemColors.accesskey "o">
+
+<!ENTITY underlineLinks.label "Saza laini ku buyungiro">
+<!ENTITY underlineLinks.accesskey "S">
+<!ENTITY links "Langi z'Ennyungiro">
+<!ENTITY linkColor.label "Ennyungiro ezi tanabikulwa:">
+<!ENTITY linkColor.accesskey "E">
+<!ENTITY visitedLinkColor.label "Enyungiro ezi bikuddwa:">
+<!ENTITY visitedLinkColor.accesskey "b">

@@ -1,0 +1,16 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+<!-- entities split out from browser.dtd -->
+
+<!ENTITY next.label "Ekiddirira">
+<!ENTITY next.accesskey "E">
+<!ENTITY next.tooltip "Sanga awaddirira ebigambo ebyo webiri">
+<!ENTITY previous.label "Ekiyise">
+<!ENTITY previous.accesskey "E">
+<!ENTITY previous.tooltip "Sanga awayise ebigambo ebyo webiri">
+<!ENTITY findCloseButton.tooltip "Ggalawo akabawo akan'onya">
+<!ENTITY highlight.label "Siiga byona">
+<!ENTITY highlight.accesskey "b">
+<!ENTITY highlight.tooltiptext "Siiga buli wekili">
+<!ENTITY caseSensitiveCheckbox.label "Faanaganya empandiika ye'nnukuta">
+<!ENTITY caseSensitiveCheckbox.accesskey "a">

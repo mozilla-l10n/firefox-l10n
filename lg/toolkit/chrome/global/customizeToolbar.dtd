@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Akabawo Kebikozesebwa">
+<!ENTITY dialog.style "obugazi: 635px; obuwanvu: 400px;">
+<!ENTITY instructions.description "Osobola okugata oba okujjako ekintu nga okozeesa akabawo ke bikozesebwa.">
+<!ENTITY show.label "Langa:">
+<!ENTITY iconsAndText.label "Akokoni ne Kiwandiko">
+<!ENTITY icons.label "Kakoni">
+<!ENTITY text.label "Ekigambo">
+<!ENTITY useSmallIcons.label "Kozesa kakoni obutini">
+<!ENTITY restoreDefaultSet.label "Nddamu Ekiberawo eteegeke">
+<!ENTITY addNewToolbar.label "Ggatta akabawo ke ebikozesa Akapya">
+<!ENTITY saveChanges.label "Kikoleddwa">
+<!ENTITY undoChanges.label "Nddemabega kubikyusirwa">

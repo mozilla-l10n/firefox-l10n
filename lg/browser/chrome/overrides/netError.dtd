@@ -1,0 +1,151 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Obuzibu mukutikka omuko">
+<!ENTITY retry.label "Try Again">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Tekisobose kuyungibwa">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Endagiriro eno ekugiddwa">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Egabizi tezuulidddwa">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Kebera endagiriro ku nsobi ezikoleddwa mu kuwandiika nga 
+<strong>ww</strong>.ekyokulabirako.com mu kifo kya 
+<strong>www</strong>.ekyokulabirako.com</li> 
+<li>Bw'oba tosobala kuyingiza egyimu ku miko gyonna, kebera ku mpuliriziganya ya kompyuta yo 
+Enyungibwa</li> 
+<li>Kompyuta yo oba empuliziganyayo bw'eba ekuumiddwa firewall oba omubaka, kakasa 
+nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Enteresi ebuze">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Kebera erinnya ly'enteresi oba liri mu nnukuta nnene oba lyasobeddwa mukuliwandiika.</li> 
+<li>Kebera olabe oba enteresi yagyibwawo, oba ya kyusibbwa erinnya oba nga lyasanguddwa.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>&brandShortName; terisobola kutikka muko guno olw'ensonga ezimu.</p>">
+
+<!ENTITY malformedURI.title "Endagiriro tetukana">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Endagiriro ze`ntimbe zitera okuwandikibwa nga 
+<strong>http://www.example.com/</strong></li> 
+<li>Ffuba okulaba nti okozesa obusale bw`omumaaso (i.e. 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Okuyungibwa kwataataaganyizibbwa">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Toli ku lutimbe">
+<!ENTITY netOffline.longDesc "<ul> 
+<li>Tekirondedwa &quot;Kola emirimu nga toli kulutimbe&quot; Ku bintu ebiri munteresi nate oddemu ogezeeko.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Okuyungibwa kwaddiddwamu okuteekebwa natte">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Obudde bw'okuyunga buweddeyo">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Endagiriro teyategeerekese">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Oyinza okwetaaga okuteekamu pulogulamu za kompyuta endala okuggulawo endagiriro eno.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Kompyuta enfuga zinayo egaanyi obuyunzi">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Kebera entegeka eyokumpi okukakassa nti bituufu.</li> 
+<li>Tegeeza kalabaalaba wempulizigannya yo okakase nti enviisirizi enfuzi kweri 
+ ekola.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Tesobodde kuzuula kompyuta effuga zinayo">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Kebera enkola ye`ntegekka okulaba nti ntuufu.</li> 
+<li>Kebera okukakasa nti kompyuuta yo eyungiddwa ku mpulisiganya ekola.</li> <li>Kompyuuta yo oba empulisiganya bweba nga ekumiddwa abasirikale bapulogulamu oba enkola, ffuba okulaba 
+nti &brandShortName; ekirizibwa okukozesa omukutu.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "Omuko guno tegulagirira bulungi">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Obuzibu buno oluusi busobola okuleetebwa okulemesa oba okugaana okukiriza 
+ kuki.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Engabirizi ezemu nga tekissubirwa">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Kebera okakase ng'omuyungiro gwo gulina obukuumi Obwannannyini 
+ obwateekebwako.</li> 
+<li>kino kiyinza okuba nga kiva ku ntegeka etari nnuŋŋamu okuva ku kompyuta enfuzi.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Olutimbe lw`ogezaako okulaba telusobola kulagibwa kubanga obutuufu bw`obubaka obufuniddwa tebusobodde kukakasibwa.</li> 
+<li>Osabibwa okwatagane ne bannannyini mutimbo obategeeze ku buzibu buno. Oba, weeyambise endagiriro esangibwa mu lukalala oluyambi owaabe okuziŋŋama kw`olutimbo luno.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Kino kisobola okuba ekizibu ekivudde ku nteekateeka ya enviisirizi kagaba, oba kisobola okuba 
+nga waliwo agezaako okwefuula kagaba.</li> 
+<li>Bwoba ng'oyungiddwa ku ngabizi bulungi emabegako, ensobi 
+eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osobola okuddamu okugezaako oluvannyuma.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc "<ul> 
+<li>Omutimbo guyinza okumala akaseera nga teguliiko oba gwandiba nga gukozesebwa nnyo. Gezaako nate 
+ mu kaseera akomumaaso.</li> 
+<li>Bw'obeera olemeddwa okuttikka entimbe, kebera kenkwasaganya 
+ yo'mukutu ku Kompyuta yo.</li> 
+<li>Bw'eba nga kompyuta yo oba empuliziganya ekumiddwa fgguluggulu oba kompyuta enkozi poxi, gezaako okulaba 
+ nti &brandShortName; ekkirizibwa okweyambisa omutimbagano.</li> 
+ </ul>">
+
+<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+">
+
+<!ENTITY securityOverride.linkText "Oba oyinza okugattako ekyensuso…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Nzijja wano!">
+<!ENTITY securityOverride.exceptionButtonLabel "Gatako ebyensuso…">
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningText "<p>Tolina kugattako ekyawufu singa oba okozessa obuyunzi bw'akatimba kotekakasizza ddala oba nga tomanyidde kulaba kulabula kwa kalimagezi eno enfuzi.</p> 
+ 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">

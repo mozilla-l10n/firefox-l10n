@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Ssala">
+<!ENTITY cutCmd.accesskey "l">
+<!ENTITY copyCmd.label "Koppa">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Ssiiga">
+<!ENTITY pasteCmd.accesskey "S">
+<!ENTITY undoCmd.label "Jawo">
+<!ENTITY undoCmd.accesskey "J">
+<!ENTITY selectAllCmd.label "Londa byonna">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "Jjirawo ddala">
+<!ENTITY deleteCmd.accesskey "J">
+
+<!ENTITY spellAddToDictionary.label "Gatta ku nkuluze">
+<!ENTITY spellAddToDictionary.accesskey "u">
+<!ENTITY spellCheckEnable.label "Kebera Empandiika">
+<!ENTITY spellCheckEnable.accesskey "E">
+<!ENTITY spellNoSuggestions.label "(Tewali mpandiika eteeseddwako)">
+<!ENTITY spellDictionaries.label "Ennimi">
+<!ENTITY spellDictionaries.accesskey "E">

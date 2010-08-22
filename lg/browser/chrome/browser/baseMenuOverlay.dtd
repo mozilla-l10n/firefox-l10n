@@ -1,0 +1,41 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Funza">
+<!ENTITY bringAllToFront.label "Leeta byonna mumaso">
+<!ENTITY zoomWindow.label "Gezzamu">
+<!ENTITY windowMenu.label "Eddirisa">
+
+<!ENTITY helpMenu.label "Obuyambi">
+<!ENTITY helpMenu.accesskey "O">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Obuyambi">
+<!ENTITY helpMenuWin.accesskey "O">
+<!ENTITY aboutCmd.label "Ebikwata ku &brandFullName;">
+<!ENTITY aboutCmd.accesskey "E">
+<!ENTITY productHelp.label "&brandShortName; Help">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY helpForIEUsers.label "Lwa Abakozzesa Ekkubo eriggula Omukutu gwensiyonna">
+<!ENTITY helpForIEUsers.accesskey "A">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY helpMac.commandkey "?">
+
+<!ENTITY helpReleaseNotes.label "Ta Ebiwandiiko">
+<!ENTITY helpReleaseNotes.accesskey "E">
+
+<!ENTITY helpTroubleshooting.label "Troubleshooting Information…">
+<!ENTITY helpTroubleshooting.accesskey "T">
+
+<!ENTITY updateCmd.label "Kebera ku nkyukakyuka…">
+
+<!ENTITY preferencesCmdMac.label "Ebyokwelobozaamu…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+
+<!ENTITY servicesMenuMac.label "Enkola">
+
+<!ENTITY hideThisAppCmdMac.label "Kweeka &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+
+<!ENTITY hideOtherAppsCmdMac.label "Kweeka Ebilala">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label "Lagga Byona">

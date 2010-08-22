@@ -1,0 +1,176 @@
+<!ENTITY addons.title "Ebigattibwako">
+<!-- Default window size for the addon manager in pixels -->
+
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!-- View labels -->
+
+<!ENTITY search.label "Funa Ebigattibwako">
+<!ENTITY extensions.label "Ekyongezayo">
+<!ENTITY themes.label "Emiramwa">
+<!ENTITY locales.label "Ennimi">
+<!ENTITY plugins.label "Ebigattibwako">
+<!ENTITY update.label "Ebitsaganya">
+<!ENTITY install.label "Okuteekamu">
+<!-- Command Bar items -->
+
+<!ENTITY cmd.checkUpdatesAll.label "Funa Ebitusaganya">
+<!ENTITY cmd.checkUpdatesAll.accesskey "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Funa ebitusaganya ebigattibwako byo">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Funa Ebitusaganya Emisono gyo">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Funa ebitusaganya ebyongerezebwako byo">
+<!ENTITY cmd.installLocalFile.label "Tteekamu…">
+<!ENTITY cmd.installLocalFile.accesskey "t">
+<!ENTITY cmd.installFileAddon.tooltip "Teekamu Ekigattibwako">
+<!ENTITY cmd.installFileTheme.tooltip "Tteekamu Omussono">
+<!ENTITY cmd.installUpdatesAll2.label "Tteekamu Ebitusaganya">
+<!ENTITY cmd.installUpdatesAll2.accesskey "T">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Teekamu ebitusaganya ebirondeddwamu">
+<!ENTITY cmd.restartApp2.label "Tandikka buto &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey "T">
+<!ENTITY cmd.restartApp2.tooltip "Tandika buto &brandShortName; okuteekamu enkyukakyuka">
+<!ENTITY cmd.skip.label "Buuka">
+<!ENTITY cmd.skip.accesskey "u">
+<!ENTITY cmd.skip.tooltip "Ebizziddwa obuggya bino bibuuke">
+<!ENTITY cmd.continue.label "Weeyongereyo">
+<!ENTITY cmd.continue.accesskey "W">
+<!ENTITY cmd.continue.tooltip "Weyongere okutikka &brandShortName;">
+
+<!ENTITY cmd.enableAll.label "Sobozesa byonna">
+<!ENTITY cmd.enableAll.accesskey "b">
+<!ENTITY cmd.enableAll.tooltip "Sobozesa ebirala byonna ebiragiddwa ebyongeddwako">
+<!ENTITY cmd.disableAll.label "Byonna Biyimirize">
+<!ENTITY cmd.disableAll.accesskey "o">
+<!ENTITY cmd.disableAll.tooltip "Gaana byonna ebiragiddwa nga Byeyongeddeko">
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+
+<!ENTITY cmd.useTheme.label "Kozesa omulamwa">
+<!ENTITY cmd.useTheme.accesskey "o">
+<!ENTITY cmd.useTheme.tooltip "Enkyukakyuka &brandShortName;'s Omulamwa">
+<!ENTITY cmd.options.label "Ebyokwerobozaako">
+<!ENTITY cmd.options.accesskey "E">
+<!ENTITY cmd.options.tooltip "Tegeka ebyokwerobozaako eby'ekyongerezebwako ekirondeddwa">
+<!ENTITY cmd.optionsUnix.label "Byololozeko">
+<!ENTITY cmd.optionsUnix.accesskey "l">
+<!ENTITY cmd.optionsUnix.tooltip "Longoosa Ebyoyagala ku byongerebwa ku ebirondeddwamu">
+<!ENTITY cmd.enable.label "Sobozesa">
+<!ENTITY cmd.enable.accesskey "S">
+<!ENTITY cmd.enable.tooltip "Sobozesa bino Ebigattiddwako nga &brandShortName; litandikidwa bupya">
+<!ENTITY cmd.disable.label "Kikomye">
+<!ENTITY cmd.disable.accesskey "K">
+<!ENTITY cmd.disable.tooltip "Tosobozesa bino Ebigatiddwaako nga &brandShortName; butandikiddwa bupya">
+<!ENTITY cmd.uninstall.label "Ukujjamu">
+<!ENTITY cmd.uninstall2.accesskey "U">
+<!ENTITY cmd.uninstall2.tooltip "Jjamu bino Ebigatiddwako nga &brandShortName; etandikidwa bupya">
+<!ENTITY cmd.cancelUninstall.label "Sazaamu Okujjamu">
+<!ENTITY cmd.cancelUninstall.accesskey "S">
+<!ENTITY cmd.cancelUninstall.tooltip "Sazaamu Okujjamu kw'ekigattiddwako kino">
+<!ENTITY cmd.cancelInstall.label "Sazaamu okutteekamu">
+<!ENTITY cmd.cancelInstall.accesskey "S">
+<!ENTITY cmd.cancelInstall.tooltip "Sazaamu okuteekako Kw'ekigatiddwako kino">
+<!ENTITY cmd.cancelUpgrade.label "Sazaamu Okulinnyisa eddala">
+<!ENTITY cmd.cancelUpgrade.accesskey "S">
+<!ENTITY cmd.cancelUpgrade.tooltip "Okulinnyisa kw'eddaala ly'ekyongerebwako kino kusazeemu">
+<!ENTITY cmd.installUpdate.label "Tteekamu Ebizziddwa obuggya">
+<!ENTITY cmd.installUpdate.accesskey "T">
+<!ENTITY cmd.installUpdate.tooltip "Tteekamu okuutuganya kwo Kugatako kuno">
+<!ENTITY cmd.showUpdateInfo.label "Laga obubaka">
+<!ENTITY cmd.showUpdateInfo.accesskey "L">
+<!ENTITY cmd.showUpdateInfo.tooltip "Laga obubaka obulala obukwata ku bizziddwa obuggya bino">
+<!ENTITY cmd.hideUpdateInfo.label "Kweeka obubaka">
+<!ENTITY cmd.hideUpdateInfo.accesskey "K">
+<!ENTITY cmd.hideUpdateInfo.tooltip "Kweka obubaka ku bizziddwa obuggya bino">
+<!ENTITY cmd.installSearchResult.label "Gatta ku &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "G">
+<!ENTITY cmd.installSearchResult.tooltip "Ekiigattiddwako kino kiwanule okiteekeko">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label "Sazaamu">
+<!ENTITY cancel.accesskey "S">
+<!ENTITY cancelInstall.label "Sazaamu">
+<!ENTITY cancelInstall.accesskey "S">
+<!ENTITY cancelUpgrade.label "Sazaamu">
+<!ENTITY cancelUpgrade.accesskey "S">
+<!-- Only displayed in the selected Add-on's context menu -->
+
+<!ENTITY cmd.homepage.label "Kyalira Omuko Gw'eka">
+<!ENTITY cmd.homepage.accesskey "O">
+<!ENTITY cmd.about2.label "Ebikwata ku kigattibwako kino">
+<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.checkUpdate.label "Nnonya ebitereezaamu">
+<!ENTITY cmd.checkUpdate.accesskey "N">
+
+<!ENTITY cmd.includeUpdate.label "IYogeramu ebizzidya ebigya">
+<!ENTITY cmd.includeUpdate.accesskey "Y">
+<!ENTITY includeUpdate.label "Tekamu na bino ebiterezamu">
+<!ENTITY includeUpdate.accesskey "e">
+<!ENTITY includeUpdate.tooltip "Bw'oba ng'oteekamu by'otereezezzaamu na bino bigatteko">
+<!-- Status Messsages -->
+
+<!ENTITY insecureUpdate.label "Tewa ntuukaganya zeesigika.">
+<!ENTITY needsDependencies.label "Kyetaagisa ebintu ebirala.">
+<!ENTITY blocklisted.label "Kiremeseddwa olw'okwerinda kwo.">
+<!ENTITY softBlocklisted.label "Kimanyiddwa okuleeta obunkenke.">
+<!ENTITY outdated.label "Enkola en'mpya, era esingako weri.">
+<!ENTITY toBeDisabled.label "Bino ebigattiddwamu tebijja kukozesebwa singa &brandShortName; etandikibwa buto.">
+<!ENTITY toBeEnabled.label "Biino ebigattiddwako bija kusobozesabwa singa &brandShortName; litandika obupya.">
+<!ENTITY toBeInstalled.label "Ebigatidwako bigya kutekebwamu nga &brandShortName; litandikidwa bupya.">
+<!ENTITY toBeUninstalled.label "Ebigatidwamu bigya kugyibwamu nga &brandShortName; litandikidwa obupya.">
+<!ENTITY toBeUpdated.label "Ebigatidwako bigya ku tereezebwe nga &brandShortName; eddiddwamu bupya.">
+
+<!ENTITY getExtensions.label "Funa eby'ongerezebwako">
+<!ENTITY getThemes.label "Funa emiramwa">
+<!ENTITY getPlugins.label "Funa eby'ongerwamu">
+
+<!ENTITY searchAddons.label "Noonyereza ku byonna ebigattwaako">
+<!ENTITY browseAddons.label "Noonyereza mu byonna ebigattibwaako">
+<!ENTITY searchFailed.label "&brandShortName; tekasobola kuzuula bigattiddwako">
+<!ENTITY recommendedHeader.label "Ekisembebwa">
+<!ENTITY recommendedThrobber.label "Okuzuula ebigattibwamu ebisembebwa">
+<!ENTITY searchThrobber.label "Nnooya ebigattibwamu">
+<!ENTITY resetSearch.label "Ebivuddemu Biggyewo">
+<!ENTITY noSearchResults.label "Ebivuddemu byonna biteekeddwamu oba tebikwataganye.">
+<!ENTITY noRecommendedResults.label "Byonna ebisembeddwa biteekeddwamu oba tebikwatagana.">
+<!ENTITY emptySearch.label "Ebigattiddwamu byonna tebigoberegana">
+<!ENTITY emptySearch.button "OK">
+<!ENTITY cancelSearch.button "Sazaamu">
+<!ENTITY searchFailed.button "OK">
+<!ENTITY searchResultHomepage.value "Weyongere Okuyiga">
+<!ENTITY searchBox.label "Nnoonya Byona Ebigattibwako">
+<!ENTITY recommendedResults.label "Laba Ebisembebwa Byona Ebigattibwako">
+<!ENTITY searchResultConnecting.label "Yunga…">
+<!ENTITY searchResultInstalling.label "Okuteekamu…">
+<!ENTITY searchResultFailed.label "Okuteekamu Kulemye">
+<!ENTITY searchResultInstalled.label "Okuteekamu Kuwedde">
+<!ENTITY addonTypeExtension.label "Ekyongerebwako">
+<!ENTITY addonTypeTheme.label "Omulamwa">
+<!ENTITY missingThumbnail.label "Teri Kugezaamu">
+
+<!ENTITY previewNoThemeSelected.label "Teri Mulamwa Gulondeddwamu">
+<!ENTITY previewNoPreviewImage.label "Guno Omulamwa tegulina Kifaananyi Kinozwamu">
+<!ENTITY moreInfo.label "Obubaka Obulala">
+<!ENTITY infoNoAddonSelected.label "Tewali Bipya Birondeddwamu">
+<!ENTITY infoNoUpdateInfo.label "Ekizziddwa obuggya kino tekirina bubaka bwongerezeddwako yadde">
+<!ENTITY infoUpdateInfoError.label "Wabaddewo ensobi mu kuttika amawulire agakwata ku bipya">
+
+<!ENTITY updateSuccess.label "Ekipya kiwedde bulungi.">
+<!ENTITY installSuccess.label "Okutekamu kuwedde bulungi.">
+<!ENTITY installSuccessRestart.label "Tandika butto kompyuta yo okumaliliza okuteekako.">
+<!ENTITY updateSuccessRestart.label "Tandika bupya kompyuta okumaliriza ebipya.">
+<!ENTITY installWaiting.label "Lindirira…">
+<!ENTITY installIncompatibleUpdate.label "Okukebera okukwatagana…">
+<!ENTITY installFinishing.label "Biteekebwamu…">
+<!ENTITY installFailure.label "Okuteekamu kugaanye.">
+
+<!ENTITY progressStatus.label "Okukebera Ebipya">
+
+<!ENTITY eula.title "Ekisanyizzo Eky'endagano Yomukozesa">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Kkiriza era Otekemu…">
+
+<!ENTITY blocklist.blocked.label "Kyiziyiziddwa">
+<!ENTITY blocklist.checkbox.label "Kikomye">

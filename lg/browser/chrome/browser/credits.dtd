@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Komyawo omutimbagano">
+<!ENTITY credit.thanks "Okusiima okwensuso">
+
+<!ENTITY credit.thanks2 "Okwebaza okwenjawulo eri">
+<!ENTITY credit.contributors2 "abawadeyo">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "">
+
+<!ENTITY credit.memory "Olw'okujjukira">
+<!ENTITY credit.poweredByGeckoReg "Okkiriziiddwa ne Gecko&reg;">
