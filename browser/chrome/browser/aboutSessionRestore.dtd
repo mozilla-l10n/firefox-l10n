@@ -10,8 +10,6 @@
 
 <!ENTITY restorepage.tryagainButton "Bygg opp att">
 <!ENTITY restorepage.restore.access "B">
-<!ENTITY restorepage.cancelButton   "Start ny programøkt">
-<!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "Bygg opp att">
 <!ENTITY restorepage.listHeader     "Vindauge og faner">

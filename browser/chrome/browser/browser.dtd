@@ -24,6 +24,9 @@
 <!ENTITY  pinTab.accesskey                   "G">
 <!ENTITY  unpinTab.label                     "Gjer om til vanleg fane">
 <!ENTITY  unpinTab.accesskey                 "G">
+<!ENTITY  moveToGroup.label                  "Flytt til gruppe">
+<!ENTITY  moveToGroup.accesskey              "F">
+<!ENTITY  moveToNewGroup.label               "Ny gruppe">
 <!ENTITY  bookmarkThisTab.label              "Bokmerk denne fana">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle fanene …">
@@ -119,6 +122,7 @@
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denne sida">
 
+<!ENTITY backForwardItem.title        "Tilbake/Fram">
 <!ENTITY locationItem.title           "Adresse">
 <!ENTITY searchItem.title             "Søk">
 <!ENTITY throbberItem.title           "Framdriftsindikator">
@@ -126,6 +130,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Startside">
+<!ENTITY tabViewButton2.label         "Fanegrupper">
+<!ENTITY tabViewButton2.tooltip       "Legg fanene dine i grupper">
 
 <!ENTITY bookmarksButton.label          "Bokmerke">
 <!ENTITY bookmarksButton.tooltip        "Vis bokmerka dine">
@@ -163,7 +169,7 @@
 <!ENTITY addons.label                 "Utvidingar">
 <!ENTITY addons.accesskey             "U">
 
-<!ENTITY errorConsoleCmd.label        "Feillogg">
+<!ENTITY errorConsoleCmd.label        "Feilmeldingar">
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
@@ -185,6 +191,12 @@
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Stil">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 
 <!ENTITY fileMenu.label         "Fil"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -232,6 +244,8 @@
 
 <!ENTITY viewMenu.label         "Vis"> 
 <!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY showTabView2.label     "Grupper fanene dine …">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label       "Verktøylinjer"> 
 <!ENTITY viewToolbarsMenu.accesskey     "V"> 
 <!ENTITY viewSidebarMenu.label "Sidestolpe">
@@ -251,11 +265,12 @@
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY appMenuPrintCmd.label "Skriv ut">
 <!ENTITY appMenuCustomize.label "Tilpass">
 <!ENTITY appMenuToolbarLayout.label "Verktøylinjeutsjånad …">
 <!ENTITY appMenuSidebars.label "Sidestolpar">
-<!ENTITY appMenuHelp.label "Hjelp">
+<!ENTITY appMenuFind.label "Finn …">
+<!ENTITY appMenuUnsorted.label "Usorterte bokmerke">
+<!ENTITY appMenuGettingStarted.label "Kom i gang">
 
 <!ENTITY developerMenu.label "Utviklar">
 
@@ -523,7 +538,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "K">
 <!ENTITY syncLogInItem.label          "Kople til">
 <!ENTITY syncLogInItem.accesskey      "o">
-<!ENTITY syncLogOutItem.label         "Koble frå">
+<!ENTITY syncLogOutItem.label         "Kople frå">
 <!ENTITY syncLogOutItem.accesskey     "p">
 <!ENTITY syncSyncNowItem.label        "Synkroniser no">
 <!ENTITY syncSyncNowItem.accesskey    "S">

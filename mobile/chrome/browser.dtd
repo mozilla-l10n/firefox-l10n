@@ -90,3 +90,10 @@
 <!ENTITY contextShareImage.label      "Del bilete">
 <!ENTITY contextEditBookmark.label    "Endre">
 <!ENTITY contextRemoveBookmark.label  "Slett">
+
+<!ENTITY pageactions.saveas.pdf      "Lagre som PDF">
+<!ENTITY pageactions.share.page      "Del side">
+<!ENTITY pageactions.password.forget "Gløym passord">
+<!ENTITY pageactions.reset           "Fjern innstillingane for nettstaden">
+<!ENTITY pageactions.findInPage      "Finn på sida">
+<!ENTITY pageactions.search.addNew   "Legg til søkjemotor">

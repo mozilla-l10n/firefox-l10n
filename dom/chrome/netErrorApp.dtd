@@ -3,5 +3,6 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "eller du kan leggje til eit unntak …">
-<!ENTITY securityOverride.warningText "<p>Du bør ikkje leggje til eit unntak om du brukar eit internettsamband som du ikkje stolar heilt på eller om du ikkje er van med å sjå åvaringar for denne tenaren.</p> <p>Om du framleis ønskjer å leggje til eit unntak for denne sida, kan du gjere det i avanserte innstillingar for kryptering.</p> 
+<!ENTITY securityOverride.warningContent "<p>Du bør ikkje leggje til eit unntak om du brukar ei internettilkopling du ikkje fullstendig stolar på, eller eller om det ikkje er vanleg å sjå ei åtvaring for denne tenaren.</p>
+<p>Om du framleis ønskjer å leggje til eit unntak for denne sida, kan du gjere det i innstillingane for avansert kryptering.</p>
 ">
