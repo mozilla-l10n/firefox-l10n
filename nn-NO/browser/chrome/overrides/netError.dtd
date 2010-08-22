@@ -151,13 +151,13 @@ mellombels, og du kan prøve på nytt seinare.</li>
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg ut herifrå!">
 <!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak …">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "<p>Du bør ikkje leggje til eit unntak om du brukar ei Internett-tilkopling som du ikkje stolar heilt på eller om du ikkje er van med å sjå åtvaring for denne tenaren.</p>
+<!ENTITY securityOverride.warningContent "<p>Du bør ikkje leggje til eit unntak om du brukar ei internett-tilkopling du ikkje heilt stolar på eller om det ikkje er vanleg å sjå åtvaringar for denne tenaren.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

@@ -7,7 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label          "Sjå etter oppdateringar">
 <!ENTITY listEmpty.search.label               "Klarte ikkje å finne passande utvidingar">
 <!ENTITY listEmpty.button.label               "Les meir om utvidingar">
-
+<!ENTITY installFromFile.label                "Installer frå fil …">
+<!ENTITY installFromFile.accesskey            "I">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
@@ -111,6 +112,7 @@
 <!ENTITY addon.homepage                       "Heimeside">
 <!ENTITY addon.unknownDate                    "Ukjent">
 <!ENTITY addon.disabled.postfix               "(slått av)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "Oppdater">
 <!ENTITY addon.undo.label                     "Angre?">
 <!ENTITY addon.undo.tooltip                   "Angre denne handlinga">

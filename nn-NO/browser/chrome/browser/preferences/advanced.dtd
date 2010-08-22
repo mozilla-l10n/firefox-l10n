@@ -64,12 +64,12 @@
 <!ENTITY askMe.accesskey                 "S">
 <!ENTITY modeAutomatic.label             "Last ned og installer oppdateringa automatisk">
 <!ENTITY modeAutomatic.accesskey         "L">
-<!ENTITY modeAutoAddonWarn.label         "Åtvar meg om dette fører til at utvidingar eller tema vert slått av">
+<!ENTITY modeAutoAddonWarn.label         "Åtvar meg om dette vil slå av utvidingar">
 <!ENTITY modeAutoAddonWarn.accesskey     "Å">
 <!ENTITY updateHistory.label             "Vis oppdateringshistorikk">
 <!ENTITY updateHistory.accesskey         "V">
 
-<!ENTITY offlineNotify.label             "Informer meg når ein nettstad ber om å lagre data for fråkopla bruk">
+<!ENTITY offlineNotify.label             "Fortel meg når ein nettstad ber om å lagre data for fråkopla bruk">
 <!ENTITY offlineNotify.accesskey         "o">
 <!ENTITY offlineNotifyExceptions.label   "Unntak …">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
