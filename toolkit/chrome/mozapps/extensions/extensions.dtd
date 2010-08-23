@@ -7,7 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label          "檢查更新">
 <!ENTITY listEmpty.search.label               "找不到任何符合您搜尋條件的附加元件">
 <!ENTITY listEmpty.button.label               "取得更多有關附加元件的消息">
-
+<!ENTITY installFromFile.label                "從檔案安裝…">
+<!ENTITY installFromFile.accesskey            "I">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->

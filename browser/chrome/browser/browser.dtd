@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(私密瀏覽)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "移動此分頁到…">
-<!ENTITY  moveTabTo.accesskey                "M">
-<!ENTITY  createNewGroup.label               "建立新的群組">
-<!ENTITY  createNewGroup.accesskey           "C">
-<!ENTITY  namedGroups.label                  "已命名的群組">
 <!ENTITY  reloadTab.label                    "重新載入分頁">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "重新載入所有分頁">
@@ -29,6 +24,9 @@
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "還原成普通分頁">
 <!ENTITY  unpinTab.accesskey                 "k">
+<!ENTITY  moveToGroup.label                  "移動到群組">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "新群組">
 <!ENTITY  bookmarkThisTab.label              "將此分頁加入書籤">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "將所有分頁加入書籤…">
@@ -193,6 +191,12 @@
 <!ENTITY inspectStyleButton.label     "樣式">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "樣式">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 
 <!ENTITY fileMenu.label         "檔案"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -261,11 +265,12 @@
 <!ENTITY showAllHistoryCmd2.label "顯示所有瀏覽記錄">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "列印">
 <!ENTITY appMenuCustomize.label "自訂">
 <!ENTITY appMenuToolbarLayout.label "工具列版面…">
 <!ENTITY appMenuSidebars.label "側邊欄">
-<!ENTITY appMenuHelp.label "說明">
+<!ENTITY appMenuFind.label "搜尋…">
+<!ENTITY appMenuUnsorted.label "未排序書籤">
+<!ENTITY appMenuGettingStarted.label "新手上路">
 
 <!ENTITY developerMenu.label "開發者">
 
