@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title                "歡迎使用 &brandShortName;">
-<!ENTITY firstrun.heading              "為了讓您快速上手，這裡是一些受歡迎的功能與附加元件，讓您可以最快、最完整的熟悉 &brandShortName;。">
-<!ENTITY firstrun.recommended          "建議的:">
-<!ENTITY firstrun.weave.title          "取得 Weave Sync">
-<!ENTITY firstrun.weave.description    "在行動裝置與電腦之間分享您的 &brandShortName; 瀏覽歷史記錄、已存密碼、書籤與分頁">
-<!ENTITY firstrun.starter.title        "取得新手上路包">
-<!ENTITY firstrun.starter.description  "安裝這些建議的附加元件讓您的 &brandShortName; 使用體驗變得更好">
-<!ENTITY firstrun.tour.title           "使用導覽">
-<!ENTITY firstrun.tour.description     "透過這個影片讓您熟悉這套軟體，並且瞭解這些酷功能">
-<!ENTITY firstrun.features             "看看更多功能">
+<!ENTITY firstrun.heading2             "歡迎使用 &brandShortName;">
+<!ENTITY firstrun.sync.title           "取得 Firefox Sync">
+<!ENTITY firstrun.sync.description     "在行動裝置與電腦之間分享您的 &brandShortName; 瀏覽歷史記錄、已存密碼、書籤與分頁">
+<!ENTITY firstrun.addons.title         "取得元件">
+<!ENTITY firstrun.addons.description   "安裝這些建議的附加元件讓您的 &brandShortName; 使用體驗變得更好">
+<!ENTITY firstrun.home.title           "使用導覽">
+<!ENTITY firstrun.home.description     "點一下以前往個人化的首頁，並開始瀏覽網頁">
+<!ENTITY firstrun.relNotes.label       "看看版本資訊">
 <!ENTITY firstrun.faq                  "常見問題集">
 <!ENTITY firstrun.privacy              "隱私權保護政策">
 <!ENTITY firstrun.follow               "追蹤我們:">
