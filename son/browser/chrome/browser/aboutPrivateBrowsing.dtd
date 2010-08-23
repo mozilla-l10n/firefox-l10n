@@ -16,7 +16,7 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "S">
 
 <!ENTITY privatebrowsingpage.howToStop "Ka sutura narumi kayandi, tee &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; wala ma &brandShortName; suuba.">
-<!ENTITY privatebrowsingpage.howToStart "Ka sutura narumi kayandi, war ga hin ka tee da &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;.">
+<!ENTITY privatebrowsingpage.howToStart "Ka sutura narumi kayandi, war ga hin ka tee da &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo "Zama ordinateroo woo ši war ceeci taariki kul gaabu, war Interneti nookaa wala goykaa ga hin ka moɲey kaŋ war n'i guna ceebandu bay waati kul.">
 <!ENTITY privatebrowsingpage.learnMore "Caw ka tonton">
