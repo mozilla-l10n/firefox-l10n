@@ -1,0 +1,149 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Moo zumandiyan šenday">
+<!ENTITY retry.label "Ceeci koyne">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Ši hin ka ciya">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Aderesoo ga dafandi">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Feršikaa ši duwandi">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Aderesoo ceeci ka firkawey hantum sanda <strong>ww</strong>.example.com manti 
+<strong>www</strong>.example.com</li> 
+<li>Nda war ši hin ka moɲey zumandi, war ordinateroo sanka guna 
+ciyari.</li> 
+<li>Nda war nuneceta wala tokore ga war ordinateroo wala sankaa jejebu, m'alhakiika wala 
+&brandShortName; woo goo nda fondoo ka huru tataaroo ra.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Tuku mana diyandi">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Tuku maɲoo guna harfu beerandiyan wala hantum firkayaŋ se.</li> 
+<li>Guna ka dii wala tukooo mana ganandi, maa-barmandi, wala tuusandi.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Hãaroo ši hin ka too nga mee.">
+<!ENTITY generic.longDesc "Haya foo kaŋ ši nda fahami se, <p>&brandShortName; ši hin ka moɲoo woo zumandi.</p>">
+
+<!ENTITY malformedURI.title "Aderesoo woo ši boori">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Tataaru aderesey ši doona ka hantumandi sanda 
+<strong>http://www.example.com/</strong></li> 
+<li>War m'alhakiika kaŋ jine žeeri šiirante ši war hantumoo ra (himakašine 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Ciyaroo dunbu">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Bila nda ciyari alhaali">
+<!ENTITY netOffline.longDesc "<ul> 
+<li>Taamansa kaa ne &quot;Goy bila nda ciyari&quot; tukušilbayboŋoo ra, de war m'a tee koyne.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Tuku dumi kaŋ ši nda naanay">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Ciyaroo willi lasaloo ga">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Ciyari batuyan waatoo bisa">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Aderesoo mana fahamandi">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>War ga hima ka goyjinaw waani foo sinji ka aderesoo feeri.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Feršikaw tokoraa ga wanji ciyarey ga">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Guna wala tokore alhaaley k'alhakiika wal'i ga boori.</li> 
+<li>War feršikaw juwalkaa hãa wala feršikaw tokoraa goo 
+goy ra.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Mana hin ka duu feršikaw tokoraa">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Guna wala tokore alhaaley k'alhakiika wal'i ga boori.</li> 
+<li>Guna wala war ordinateroo goo nda sankay ciyari goyante.</li> 
+<li>Guna wala nuneceta wala tokore ga war ordinateroo wala sankaa jejebu, m'alhakiika wala 
+&brandShortName; goo nda fondo ka huru tataaroo ra.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "Moɲoo woo ši ma bisandi taaga boryo">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Cee fooyaŋ šenday ga tee zama aleewawey</li> kayandi wala i wanjandi 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Zaabi kaŋ mana mana hongandi hun feršikaa doo">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Guna k'alhakiika wala boŋ-saajaw juwalkaw ši sinjandi.</li> 
+<li>Woo sotoloo ga hin ka tee hanseyan dumi kaŋ fondaa ši hennay goo feršikaa ga.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Ciyari saajante kay">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Moɲoo kaŋ war ga ceeci ka dii ya ši hin ka cebandi zama bayhaya duwantey tabatandiyan ši hin ka korosandi.</li> 
+<li>Taare war tataaru nungukoyey hãa ka šendaa woo bayrandi i se. Wala juwaloo kaŋ fatta faaba šilbayboŋoo ra ka nungu hasarantaa bayrandi.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Ciyari saajante kay">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Woo ga hin ka tee šenda kaŋ hun feršikaa hanseyanoo ra, wala a ma tee kaŋ 
+boro foo goo ma ceeci ka war feršikaa ženti.</li> 
+<li>Nda war bay ka feršikaa woo ciya ka boori han foo, firkaa ga hin ka tee 
+waati-waati haya, adiši war ga ceeci taaga nd'a too kayna.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc "<ul> 
+<li>Nungoo ši duwandi waati foo, wala a goo goy warga ra. A ceeci koyne 
+ nd'a too kayna.</li> 
+<li>Nda war mana hin ka moɲey zumandi, guna wala war ordinateroo sanka 
+ga ciya.</li> 
+<li>Nda nuneceta wala tokore ga war ordinateroo wala sankaa jejebu, w'alhakiika kaŋ 
+goo &brandShortName; nda fondo ka huru tataaroo ra.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+">
+
+<!ENTITY securityOverride.linkText "Wala war ga hin ka hasaraw foo tonton...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Ay kaataray ne!">
+<!ENTITY securityOverride.exceptionButtonLabel "Hasaraw tonton...">
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningText "<p>War ga hima ka hasaraw foo tonton nda war ga goy nda Interneti ciyari kaŋ war ši naanay ya nda cimi, wala nda war mana doona ka dii yaamar war ordinateroo se.</p> 
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">

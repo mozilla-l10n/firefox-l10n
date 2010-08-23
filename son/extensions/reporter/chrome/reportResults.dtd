@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Nungu">
+<!ENTITY reportProblemType "Šenday dumi">
+<!ENTITY reportDecsription "Šilbayyan">
+<!ENTITY reportPlatform "Goydaari">
+<!ENTITY reportProduct "Jinay">
+<!ENTITY reportoscpu "OS">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Cinari hanse">
+<!ENTITY reportUseragent "Goyteeri">
+<!ENTITY reportLanguage "Šenni">
+<!ENTITY reportCharset "Harfu kanandi">
+<!ENTITY reportEmail "Bataga">
+<!ENTITY error "Firka šilbayhayey">
+<!ENTITY faultCode "Ašariya">
+<!ENTITY faultMessage "Alhabaryu">

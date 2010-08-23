@@ -1,0 +1,21 @@
+<!ENTITY newprofile.title "Bida alhal tee">
+<!ENTITY window.size "hayri: 45em; kayyan: 32em;">
+<!-- First wizard page -->
+
+<!ENTITY profileCreationExplanation_1.text "&brandShortName; g'alhabar jiši war kayandiyaney nd'ibaayey se war boŋ alhaaloo ra.">
+<!ENTITY profileCreationExplanation_2.text "Nda war ga &brandShortName; berandoo woo žemni; nda goykawyaŋ, war ga hin ka alhaaley zaa k'i gaabu boro foo kul alhabar bata ra. Ka woo tee, goykaw foo kul ga hima ka nga boŋ alhaaloo tee.">
+<!ENTITY profileCreationExplanation_3.text "Nda war ti boro follokaa kaŋ ga goy nda &brandShortName; berandoo woo; adiši war ga hima boŋ alhal tee. Nda war ga baa, war ga hin ka alhaali booboyaŋ tee war boŋ se ka kayandi dumiyaŋ nda ibaayiyaŋ jiši. Sanda, nda war ga baa alhaali waani-waaniyaŋ tee war goydoo nda hugay misey se.">
+<!ENTITY profileCreationExplanation_4.text "Ka sintin ka war alhaaloo tee, Jine naagu.">
+<!ENTITY profileCreationExplanation_4Mac.text "Ka sintin ka war alhaaloo tee, Koy jine naagu.">
+<!ENTITY profileCreationExplanation_4Gnome.text "Ka sintin ka war alhaaloo tee, Jine naagu.">
+<!-- Second wizard page -->
+
+<!ENTITY profileCreationIntro.text "Nda war baa ka alhaali booboyaŋ tee war ga hin k'i fay nda maawey. War ga hin ka ne maawoo zaa wala war boŋ maawoo dam.">
+<!ENTITY profilePrompt.label "Alhal taaga maa dam:">
+<!ENTITY profilePrompt.accesskey "A">
+<!ENTITY profileDirectoryExplanation.text "War goykaw kayandiyaney, ibaayey nda goy-mise bayhayey ga jisandi ne ra:">
+<!ENTITY profileDefaultName "Tilasu goykaw">
+<!ENTITY button.choosefolder.label "Foolo suuba...">
+<!ENTITY button.choosefolder.accesskey "F">
+<!ENTITY button.usedefault.label "Tilasu foolo goyandi">
+<!ENTITY button.usedefault.accesskey "T">

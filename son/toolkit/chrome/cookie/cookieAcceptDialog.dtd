@@ -1,0 +1,18 @@
+<!ENTITY props.name.label "Maa:">
+<!ENTITY props.value.label "Gundekuna:">
+<!ENTITY props.domain.label "Zunbudoo:">
+<!ENTITY props.path.label "Fondo:">
+<!ENTITY props.secure.label "Sanba se:">
+<!ENTITY props.expires.label "Waati ga ben:">
+<!ENTITY props.policy.label "Batu laada:">
+
+<!ENTITY button.allow.label "Noo fondo">
+<!ENTITY button.allow.accesskey "N">
+<!ENTITY button.session.label "Noo fondo goywaati ra">
+<!ENTITY button.session.accesskey "N">
+<!ENTITY button.deny.label "Wanji">
+<!ENTITY button.deny.accesskey "W">
+
+<!ENTITY dialog.title "Aleewa kayandiyan cimandi">
+<!ENTITY dialog.remember.label "Goy nda ag'aleewa suubarey nungoo woo ra">
+<!ENTITY dialog.remember.accesskey "G">

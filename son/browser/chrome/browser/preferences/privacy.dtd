@@ -1,0 +1,83 @@
+<!ENTITY history.label "Taariki">
+
+<!ENTITY locationBar.label "Gorodoo žeeri">
+
+<!ENTITY locbar.pre.label "Nda war ga gorodoo žeeri goyandi, honnandi:">
+<!ENTITY locbar.pre.accessKey "g">
+<!ENTITY locbar.post.label "">
+<!ENTITY locbar.both.label "Taariki nda doo-šilbawey">
+<!ENTITY locbar.history.label "Taariki">
+<!ENTITY locbar.bookmarks.label "Doo-šilbawey">
+<!ENTITY locbar.nothing.label "Baffoo">
+
+
+<!ENTITY acceptCookies.label "Dogey aleewawey taa">
+<!ENTITY acceptCookies.accesskey "t">
+
+<!ENTITY acceptThirdParty.label "Doo-waaney aleewawey taa">
+<!ENTITY acceptThirdParty.accesskey "t">
+
+<!ENTITY keepUntil.label "Gaabu hala:">
+<!ENTITY keepUntil.accesskey "G">
+
+<!ENTITY expire.label "ngi waatoo ga ben">
+<!ENTITY close.label "Daabu &brandShortName;">
+<!ENTITY askEachTime.label "ay hãa waati kul">
+
+<!ENTITY cookieExceptions.label "Hasarawey...">
+<!ENTITY cookieExceptions.accesskey "H">
+
+<!ENTITY showCookies.label "Aleewawey cebe...">
+<!ENTITY showCookies.accesskey "c">
+
+
+<!ENTITY historyHeader.pre.label "&brandShortName; will:">
+<!ENTITY historyHeader.pre.accesskey "w">
+<!ENTITY historyHeader.remember.label "Hongu taariku">
+<!ENTITY historyHeader.dontremember.label "Ma ši honga taarikoo abada">
+<!ENTITY historyHeader.custom.label "Hanse bonše taariku se goyandi">
+<!ENTITY historyHeader.post.label "">
+
+<!ENTITY rememberDescription.label "&brandShortName; ga honga gunari, zumandiyan, takari nda ceeci taariku, nd'a ga aleewawey kaŋ hun war tataaru goyey ra.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY rememberActions.pre.label "Nda war ga baa ka woo tee ">
+<!ENTITY rememberActions.clearHistory.label "war taariki kokoraa koonandi">
+<!ENTITY rememberActions.middle.label ", wala ">
+<!ENTITY rememberActions.removeCookies.label "aleewa foofawey kaa">
+<!ENTITY rememberActions.post.label ".">
+
+<!ENTITY dontrememberDescription.label "&brandShortName; ga goy nda kayandiyan follokey kaŋ goo nda sutura ceeciyan, amma a si taariku gaabu war tataaru ceeciroo banda.  ">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY dontrememberActions.pre.label "Nda war ga baa ka woo da tee ">
+<!ENTITY dontrememberActions.clearHistory.label "taariki taagante kul koonandi">
+<!ENTITY dontrememberActions.post.label ".">
+
+<!ENTITY privateBrowsingAutoStart.label "Automatically start &brandShortName; sutura ceeciri ra">
+<!ENTITY privateBrowsingAutoStart.accesskey "A">
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+
+<!ENTITY rememberHistory.pre.label "Honga ay ceeciri taariku waati kayna woo se">
+<!ENTITY rememberHistory.pre.accesskey "H">
+<!ENTITY rememberHistory.post.label "zaarey">
+
+<!ENTITY rememberDownload.label "Honga zumandi taariku">
+<!ENTITY rememberDownload.accesskey "z">
+
+<!ENTITY rememberSearchForm.label "Honga ceeci nda takari taariku">
+<!ENTITY rememberSearchForm.accesskey "t">
+
+<!ENTITY clearOnClose.label "Taariku koonandi waati kaŋ &brandShortName; ga daaba">
+<!ENTITY clearOnClose.accesskey "k">
+
+<!ENTITY clearOnCloseSettings.label "Kayandiyaney...">
+<!ENTITY clearOnCloseSettings.accesskey "y">

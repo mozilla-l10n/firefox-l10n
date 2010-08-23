@@ -1,0 +1,212 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title "Tiirahugu">
+<!ENTITY places.library.width "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label "Hanse">
+<!ENTITY organize.accesskey "H">
+
+<!ENTITY file.accesskey "F">
+<!ENTITY file.close.label "Daabu">
+<!ENTITY file.close.accesskey "D">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "Fasal">
+<!ENTITY edit.accesskey "F">
+<!ENTITY views.label "Gunarey">
+<!ENTITY views.accesskey "G">
+<!ENTITY view.toolbar.label "Goyjinay žeeri">
+<!ENTITY view.toolbar.accesskey "G">
+<!ENTITY view.columns.label "Sorrawey cebe">
+<!ENTITY view.columns.accesskey "S">
+<!ENTITY view.sort.label "Fay">
+<!ENTITY view.sort.accesskey "F">
+<!ENTITY view.unsorted.label "Mana fayandi">
+<!ENTITY view.unsorted.accesskey "M">
+<!ENTITY view.sortAscending.label "(A > Z) tontoni hangayan">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "(Z > A) nakaši hangayan">
+<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY help.usingBookmarks.label "Goy nda doo-šilbawey">
+<!ENTITY help.usingBookmarks.accesskey "d">
+<!ENTITY help.usingHistory.label "Goy nda taariki">
+<!ENTITY help.usingHistory.accesskey "t">
+<!ENTITY help.advancedTips.label "Jinehere nafaw yaamar nda alhiilayaŋ ">
+<!ENTITY help.advancedTips.accesskey "J">
+
+<!ENTITY cmd.findInBookmarks.label "Ceeci doo-šilbawey ra">
+<!ENTITY cmd.findInBookmarks.accesskey "C">
+<!ENTITY cmd.findCurrent.label "Ceeci sohõda kuunayano ra...">
+<!ENTITY cmd.findCurrent.accesskey "C">
+
+<!ENTITY cmd.exportHTML.label "HTML fattandi...">
+<!ENTITY cmd.exportHTML.accesskey "f">
+<!ENTITY cmd.importHTML.label "HTML cendi ka dam...">
+<!ENTITY cmd.importHTML.accesskey "c">
+
+<!ENTITY cmd.backup.label "Banda-gaabu...">
+<!ENTITY cmd.backup.accesskey "B">
+<!ENTITY cmd.restore2.label "Willi taka jinaa ga">
+<!ENTITY cmd.restore2.accesskey "W">
+<!ENTITY cmd.restoreFromFile.label "Tuku suuba...">
+<!ENTITY cmd.restoreFromFile.accesskey "s">
+
+<!ENTITY cmd.select_all.label "Kul suuba">
+<!ENTITY cmd.select_all.accesskey "l">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label "Dunbu">
+<!ENTITY cmd.edit_cut.accesskey "D">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "Berandi">
+<!ENTITY cmd.edit_copy.accesskey "B">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "Dobu">
+<!ENTITY cmd.edit_paste.accesskey "D">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "Tuusu">
+<!ENTITY cmd.edit_delete.accesskey "T">
+<!ENTITY cmd.edit_undo.label "Taafeeri">
+<!ENTITY cmd.edit_undo.accesskey "T">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "Tee taaga">
+<!ENTITY cmd.edit_redo.accesskey "T">
+<!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.bookmarkLink.label "Moɲoo woo šilbay...">
+<!ENTITY cmd.bookmarkLink.accesskey "l">
+<!ENTITY cmd.delete.label "Moɲoo woo tuusu...">
+<!ENTITY cmd.delete.accesskey "t">
+<!ENTITY cmd.deleteDomainData.label "Dirɲa nungoo woo">
+<!ENTITY cmd.deleteDomainData.accesskey "D">
+
+<!ENTITY cmd.open.label "Feeri">
+<!ENTITY cmd.open.accesskey "F">
+<!ENTITY cmd.open_window.label "Feeri zanfun taaga ra">
+<!ENTITY cmd.open_window.accesskey "t">
+<!ENTITY cmd.open_tab.label "Feeri nor loku taaga ra">
+<!ENTITY cmd.open_tab.accesskey "t">
+<!ENTITY cmd.open_all_in_tabs.label "Kul feeri nor lokey ra">
+<!ENTITY cmd.open_all_in_tabs.accesskey "f">
+
+<!ENTITY cmd.properties.label "Mayrawey">
+<!ENTITY cmd.properties.accesskey "M">
+
+<!ENTITY cmd.show_info.key "i">
+
+<!ENTITY cmd.rename.label "Maa barmay">
+<!ENTITY cmd.rename.accesskey "M">
+
+<!ENTITY cmd.sortby_name.label "Fay maa bande">
+<!ENTITY cmd.sortby_name.accesskey "F">
+<!ENTITY cmd.context_sortby_name.accesskey "r">
+
+<!ENTITY cmd.new_bookmark.label "Doo-šilbay taaga...">
+<!ENTITY cmd.new_bookmark.accesskey "t">
+<!ENTITY cmd.new_livemark.label "Doo-šilbay dirante taaga...">
+<!ENTITY cmd.new_livemark.accesskey "t">
+<!ENTITY cmd.new_folder.label "Foolo taaga...">
+<!ENTITY cmd.new_folder.accesskey "F">
+<!ENTITY cmd.context_new_folder.accesskey "F">
+<!ENTITY cmd.new_separator.label "Fayari taaga">
+<!ENTITY cmd.new_separator.accesskey "t">
+
+<!ENTITY cmd.reloadLivebookmark.label "Doo-šilbay dirante dam taaga">
+<!ENTITY cmd.reloadLivebookmark.accesskey "d">
+<!ENTITY cmd.reloadMicrosummary.label "Tiiramaa dirante dam taaga">
+<!ENTITY cmd.reloadMicrosummary.accesskey "d">
+
+<!ENTITY cmd.groupby_site.label "Marga nungu bande">
+<!ENTITY cmd.groupby_site.accesskey "n">
+<!ENTITY cmd.groupby_page.label "Marga moo bande">
+<!ENTITY cmd.groupby_page.accesskey "m">
+<!ENTITY cmd.groupby_feed.label "Marga duuyan waafakay bande">
+<!ENTITY cmd.groupby_feed.accesskey "d">
+<!ENTITY cmd.groupby_post.label "Marga alhabar fattante bande">
+<!ENTITY cmd.groupby_post.accesskey "a">
+
+<!ENTITY cmd.moveBookmarks.label "Ganandi...">
+<!ENTITY cmd.moveBookmarks.accesskey "G">
+
+<!ENTITY col.name.label "Maa">
+<!ENTITY col.tags.label "Kanjey">
+<!ENTITY col.url.label "Gorodoo">
+<!ENTITY col.lastvisit.label "Narumi han">
+<!ENTITY col.visitcount.label "Narumi kabu">
+<!ENTITY col.keyword.label "Kufalkalima">
+<!ENTITY col.description.label "Šilbayyan">
+<!ENTITY col.dateadded.label "Tontonyan han">
+<!ENTITY col.lastmodified.label "Barmay cee koraa">
+
+<!ENTITY search.label "Ceeci:">
+<!ENTITY search.accesskey "C">
+<!ENTITY search.scopeFolder.label "Foolo suubante">
+<!ENTITY search.scopeFolder.accesskey "F">
+<!ENTITY search.scopeBookmarks.label "Doo-šilbawey">
+<!ENTITY search.scopeBookmarks.accesskey "D">
+<!ENTITY search.scopeDownloads.label "Zumandiyaney">
+<!ENTITY search.scopeDownloads.accesskey "Z">
+<!ENTITY search.scopeHistory.label "Taariki">
+<!ENTITY search.scopeHistory.accesskey "T">
+<!ENTITY search.scopeBarExpanderDown.tooltip "Ceeci cinari cebe">
+<!ENTITY search.scopeBarExpanderUp.tooltip "Ceeci cinari tugu">
+<!ENTITY saveSearch.label "Gaabu">
+<!ENTITY saveSearch.accesskey "G">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "Doo-šilbawey hinne ceeci">
+<!ENTITY advancedSearch.match.label "Ga sawa nda ">
+<!ENTITY advancedSearch.all.label "kul">
+<!ENTITY advancedSearch.any.label "affoo kul ">
+<!ENTITY advancedSearch.rules.label " fondawey wey ra:">
+<!ENTITY advancedSearch.subj_keyword.label "Kaŋ ra kalimaɲaa kuroo goo">
+<!ENTITY advancedSearch.subj_visited.label "Narumandi">
+<!ENTITY advancedSearch.subj_location.label "Gorodoo">
+<!ENTITY advancedSearch.location_startswith.label "Sintin nda">
+<!ENTITY advancedSearch.location_is.label "ti">
+<!ENTITY advancedSearch.location_onsite.label "goo nungoo ra">
+<!ENTITY advancedSearch.time_is.label "ga ">
+<!ENTITY advancedSearch.time_before.label "jine">
+<!ENTITY advancedSearch.time_after.label "banda">
+<!ENTITY advancedSearch.time_inlast.label "ikorawey ra">
+<!ENTITY advancedSearch.last_days.label "zaarey">
+<!ENTITY advancedSearch.last_weeks.label "jirbiyyey">
+<!ENTITY advancedSearch.last_months.label "handey">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "Marga nda: ">
+<!ENTITY advancedSearch.groupby_host.label "zunbudoo">
+<!ENTITY advancedSearch.groupby_domain.label "laama">
+<!ENTITY advancedSearch.groupby_folder.label "foolo">
+<!ENTITY advancedSearch.sortby.label "fay ... bande: ">
+<!ENTITY advancedSearch.sortby_title.label "tiiramaa">
+<!ENTITY advancedSearch.sortby_date.label "han">
+<!ENTITY advancedSearch.sortby_visit.label "narumi kabu">
+<!ENTITY advancedSearch.sortby_url.label "url">
+<!ENTITY advancedSearch.sortby_asc.label "tontoni-kur">
+<!ENTITY advancedSearch.sortby_desc.label "nakaši-kur">
+<!ENTITY advancedSearch.max.label "Bebbeeri duurawey: ">
+
+<!ENTITY cmd.find.key "f">
+
+<!ENTITY feed.subscribe.label "Alhabar dam">
+<!ENTITY feed.subscribe.tooltip "Boŋ-maa hantum">
+
+<!ENTITY view.detailsMacOSX.label "Maašeedandi">
+<!ENTITY view.details.label "Šilbayhayey">
+<!ENTITY view.details.accesskey "b">
+
+<!ENTITY view.addons.label "Duu gunari tontoney">
+
+<!ENTITY maintenance.label "Cendi ka dam nda banda-gaabu">
+<!ENTITY maintenance.accesskey "C">
+
+<!ENTITY backCmd.label "banda">
+<!ENTITY backButton.tooltip "Yee banda">
+
+<!ENTITY forwardCmd.label "Jine">
+<!ENTITY forwardButton.tooltip "Koy jine">
+
+<!ENTITY detailsPane.more.label "Bešere">
+<!ENTITY detailsPane.more.accesskey "B">
+<!ENTITY detailsPane.less.label "Jaŋay">
+<!ENTITY detailsPane.less.accesskey "J">
+<!ENTITY detailsPane.noPreviewAvailable.label "Moo-fur">
+<!ENTITY detailsPane.selectAnItemText.description "Hayiize suuba k'a guna nda ka nga mayrawey fasal. ">

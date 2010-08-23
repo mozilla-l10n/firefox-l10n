@@ -1,0 +1,59 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Tataaru nungu hasarante bayrandi">
+
+<!ENTITY privacyNotice.label "Sutura laada">
+<!ENTITY reportWizardPrivacy.description "Goyjinaa woo ga war naŋ ka nee Wanjiili goykondaa se kaŋ tataaru nungey ši goy boryo &brandShortName; ra, wala i ga &brandShortName; daabu. Takaa woo nda war ga &brandShortName; goykey hawgay. Taare waati foo zaa ka woo caw ka bay haya kaŋ ir g'a tee nda alhabarey k'ir n'i marga borey ga, kaŋyaŋ yadda ka tuuru.">
+<!ENTITY reportWizardMustAgree.description "Ka koy jine kala war ma yadda jina sutura laada kaŋ goo beene ga.">
+
+<!ENTITY dontShowPrivacyStatement.label "Ay na beene sutura laada caw, ay yadda a ga.">
+<!ENTITY dontShowPrivacyStatement.accesskey "A">
+
+<!ENTITY reportForm.label "Bayrandi hantum">
+
+<!ENTITY reportForm.description "Har ir se šendaa kaŋ war dii ya ga:">
+<!ENTITY reportForm.url.title "Tataaru nungu URL:">
+<!ENTITY reportForm.url.accesskey "U">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Tataaru nungoo goo nda šennikufal-jejebu">
+<!ENTITY reportForm.behind_login.accesskey "n">
+
+<!ENTITY reportForm.problem_type.title "Šenday dumi:">
+<!ENTITY reportForm.problem_type.accesskey "d">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Affoo suuba...">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Ceecikaw ši nda faaba">
+<!ENTITY reportForm.problem_type.item2.title "Ši hin ka boŋhantum">
+<!ENTITY reportForm.problem_type.item3.title "Sukari ši cebandi">
+<!ENTITY reportForm.problem_type.item4.title "Gundekuna waani ši duwandi">
+<!ENTITY reportForm.problem_type.item5.title "Ladabu šiirante">
+<!ENTITY reportForm.problem_type.item6.title "Bangayyan šiirante">
+<!ENTITY reportForm.problem_type.item7.title "Šenday dumi fooyaŋ">
+<!ENTITY reportForm.problem_type.item8.title "Huray monguyan">
+<!ENTITY reportForm.problem_type.item9.title "Fattari karante ga šiiri">
+
+<!ENTITY reportForm.describe.title "Šenday šilbay:">
+<!ENTITY reportForm.describe.accesskey "b">
+
+<!ENTITY reportForm.platform.title "Goydaari:">
+<!ENTITY reportForm.product.title "Jinay:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "Goyteeri:">
+<!ENTITY reportForm.language.title "Šenni:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "Bataga (suubayan-bande):">
+<!ENTITY reportForm.email.accesskey "B">
+
+<!ENTITY reportForm.privacyPolicy.title "Sutura laaba">
+<!ENTITY reportForm.privacyPolicy.tooltip "Sutura laaba guna">
+
+<!ENTITY reportResults.showDetail.title "Šilbayhayey cebe">
+<!ENTITY reportResults.showDetail.accesskey "c">
+
+<!ENTITY sendReport.label "Goo ma bayrandi sanba">
+<!ENTITY sendReport.description "Goo ma bayrandi sanba feršikaa doo...">
+
+<!ENTITY finish.label "Bayrandi sanbante">

@@ -1,0 +1,21 @@
+<!ENTITY untitledTab "(Bila-nda-maa)">
+<!ENTITY newTab.label "Nor loku taaga">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY closeTab.label "Nor lokoo daabu">
+<!ENTITY closeTab.accesskey "d">
+<!ENTITY closeOtherTabs.accesskey "j">
+<!ENTITY closeOtherTabs.label "Nor lokey jerey daabu">
+<!ENTITY reloadAllTabs.label "Nor lokey kul dam taaga">
+<!ENTITY reloadAllTabs.accesskey "k">
+<!ENTITY reloadTab.label "Nor lokoo dam taaga">
+<!ENTITY reloadTab.accesskey "d">
+<!ENTITY openTabInNewWindow.label "Feeri zanfun taaga ra">
+<!ENTITY openTabInNewWindow.accesskey "z">
+<!ENTITY listAllTabs.label "Maaɲey kul šeedandi">
+<!ENTITY bookmarkAllTabs.label "Nor lokey kul šilbay...">
+<!ENTITY bookmarkAllTabs.accesskey "N">
+<!ENTITY bookmarkThisTab.label "Nor lokoo woo šilbay">
+<!ENTITY bookmarkThisTab.accesskey "b">
+<!ENTITY undoCloseTab.label "Nor loku daabu taafeeri">
+<!ENTITY undoCloseTab.accesskey "t">
+<!ENTITY newTabButton.tooltip "Nor loku taaga feeri">

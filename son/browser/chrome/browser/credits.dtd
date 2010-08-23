@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Tataaruhugoo fuuni koyne">
+<!ENTITY credit.thanks "Foondagoy cececerantey ma too">
+
+<!ENTITY credit.thanks2 "Ma hansa ka foo nda goy, ir">
+<!ENTITY credit.contributors2 "kanbuzaakey">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "">
+
+<!ENTITY credit.memory "Ir ga honga">
+<!ENTITY credit.poweredByGeckoReg "Ga dira Gecko&reg; ga">

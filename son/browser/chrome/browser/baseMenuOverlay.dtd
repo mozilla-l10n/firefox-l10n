@@ -1,0 +1,41 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Kaccandi">
+<!ENTITY bringAllToFront.label "Kul kate jinehere">
+<!ENTITY zoomWindow.label "Bebbeerandi">
+<!ENTITY windowMenu.label "Zanfun">
+
+<!ENTITY helpMenu.label "Faaba">
+<!ENTITY helpMenu.accesskey "F">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Faaba">
+<!ENTITY helpMenuWin.accesskey "F">
+<!ENTITY aboutCmd.label "&brandFullName; ga">
+<!ENTITY aboutCmd.accesskey "g">
+<!ENTITY productHelp.label "&brandShortName; Help">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY helpForIEUsers.label "Internet Explorer goykey se">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY helpMac.commandkey "?">
+
+<!ENTITY helpReleaseNotes.label "Kaataray-dumi hantumi">
+<!ENTITY helpReleaseNotes.accesskey "K">
+
+<!ENTITY helpTroubleshooting.label "Troubleshooting Information…">
+<!ENTITY helpTroubleshooting.accesskey "T">
+
+<!ENTITY updateCmd.label "Taagandirey ceeci...">
+
+<!ENTITY preferencesCmdMac.label "Ibaayey...">
+<!ENTITY preferencesCmdMac.commandkey ",">
+
+<!ENTITY servicesMenuMac.label "Goyey">
+
+<!ENTITY hideThisAppCmdMac.label "&brandShortName; tugu">
+<!ENTITY hideThisAppCmdMac.commandkey "h">
+
+<!ENTITY hideOtherAppsCmdMac.label "Jerey tugu">
+<!ENTITY hideOtherAppsCmdMac.commandkey "h">
+
+<!ENTITY showAllAppsCmdMac.label "Kul cebe">

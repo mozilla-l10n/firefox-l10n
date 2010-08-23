@@ -1,0 +1,84 @@
+<!ENTITY loadError.label "Moo zumandi firka">
+<!ENTITY retry.label "Ceeci koyne">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Ciyaroo kay">
+<!ENTITY connectionFailure.longDesc "<p>Baa kaŋ woo ga hima nungu henno, ceecikaw mana hin ka ciyaroo timmandi.</p><ul><li>A ga hin ka tee kaŋ nungoo ši bara waati foo? Ceeci koyne.</li><li>War ši hin ka nungu tana fooyaŋ ceeci? Ordinateroo ciyari koroši.</li><li>Nuneceta wala tokore ma war ordinateroo wala sankaa jejebu? Kayandiyan laalayaŋ Incorrect ka hin ka war tataaru naarumey nakaši.</li></ul>">
+
+<!ENTITY deniedPortAccess.title "Lotay-mee nakasante saajaw sabbu se">
+<!ENTITY deniedPortAccess.longDesc "<p>Aderesu kaŋ wirandi na kotay-mee cebe (sanda <q>mozilla.org:80</q> kotay-mee 80 se mozilla.org ga) kaŋ ga doona ka goy <em>other</em> misey ra, manti tataaru naarumi se. Ceecikaa na hãayanoo naŋ war jejeburoo nda saajaa sabboo se.</p>">
+
+<!ENTITY dnsNotFound.title "Aderesey mana duwandi">
+<!ENTITY dnsNotFound.longDesc "<p>Ceecikaa mana hin ka duu zunbudoo feršikaa aderesoo kaŋ noondi ga.</p><ul><li>War n'ka firka tee laamaa hantumoo ra? (sanda <q><strong>ww</strong>.mozilla.org</q> manti <q><strong>www</strong>.mozilla.org</q>)</li><li>War g'alhakiika kaŋ laama aderesoo woo ga bara?  A ga hin ka tee da kaŋ nga maa-hantumoo waatoo buu.</li><li>War ši hin ka nungu tana fooyaŋ naaru da?  War sanka ciyaroo nda DNS feršikaa kayandiyaney koroši koyne.</li><li>Nuneceta wala tokore ma war ordinateroo wala sankaa jejebu?  Kayandiyan laalayaŋ Incorrect ka hin ka war tataaru naarumey nakaši.</li></ul>">
+
+<!ENTITY fileNotFound.title "Tukoo mana duwandi">
+<!ENTITY fileNotFound.longDesc "<ul><li>A ga hin ka tee kaŋ hayiizoo n'ka maa-barmandi, ganandi, berandi doo taaga ra?</li><li>Boŋhantum, harfu beerandiyan, wala hantum firka goo aderesoo ra?</li><li>War goo nda fondo wasanta hayiizoo kaŋ war n'a wiri se?</li></ul>">
+
+<!ENTITY generic.title "Ši hin ka hãayanoo timmandi">
+<!ENTITY generic.longDesc "<p>Alhabar tontonante ga bara sohõ šendaa wala firkaa woo ga.</p>">
+
+<!ENTITY malformedURI.title "Aderesoo ši boori">
+<!ENTITY malformedURI.longDesc "<p>Aderesoo kaŋ noondi mana fasal taka bayante ra. Taare doo žeeroo koroši firkawey se, de war ma ceeci koyne.</p>">
+
+<!ENTITY netInterrupt.title "Bayhayey berandiri kay">
+<!ENTITY netInterrupt.longDesc "<p>Ceecikaa ciya boryo, amma ciyaroo kay waatoo kaŋ alhabarey goo ma berandi.  Taare wa ceeci koyne.</p><ul><li>War n'ka ši hin ka tataaru nungu tanayaŋ naaru? War ordinateroo ciyaroo koroši koyne.</li><li>Šenday goo hala sohõ? Wa war sankaa juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
+
+<!ENTITY netOffline.title "Bila nda ciyari alhaali">
+<!ENTITY netOffline.longDesc "<p>Ceecikaa ga goy bila nda ciyari nd'a ši hin ka hayiize wirantaa cee.</p><ul><li>War ordinateroo ga dobu sankay goyante ga?</li><li>War ceecikaa dam ciyari alhaali ra, de ma ceeci koyne.</li></ul>">
+
+<!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
+<!ENTITY contentEncodingError.longDesc "<p>Moɲoo kaŋ war ga wiri k'a guna ši hin ka diyandi zama a mma goy nda kankamandiyan dabari laala wala kaŋ ši nda gaakašinay.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li></ul>">
+
+<!ENTITY unsafeContentType.title "Tuku dumi kaŋ ši nda naanay">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Ciyaroo kay">
+<!ENTITY netReset.longDesc "<p>Sankay dobuyanoo kay waatoo kaŋ ciyari ga sintin. Taare ceeci koyne.</p>">
+
+<!ENTITY netTimeout.title "Sankay waati ben">
+<!ENTITY netTimeout.longDesc "<p>Nungoo kaŋ war n'a ceeci ši tuuri ciyari se nda ceecikaa ši zaabi batu koyne.</p><ul><li>A ga hin ka tee kaŋ feršikaa goo goy šenda ra wala a ši goy ra?  Taare ceeci koyne.</li><li>War ši hin ka nungu tanayaŋ ceeci? War ordinateroo sankay ciyaroo koroši koyne.</li><li>Nuneceta wala tokore ga war ordinateroo wala sankaa jejebu?  Kayandiyan laalayaŋ ga hin ka war tataaru naarumaa nakaši.</li><li>Šenday goo hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
+
+<!ENTITY protocolNotFound.title "Berehaw šibayante">
+<!ENTITY protocolNotFound.longDesc "<p>Aderesoo ga berehaw tabatandi (sanda <q>wxyz://</q>) kaŋ feršikaa ši a bay, adiši ceecikaa ši hin ka nungoo cee ka boori.</p><ul><li>War n'ma wiri ka too heenandikaw boobo wala manti-hantum goyyaŋ doo? Nungoo ceeci ka waažibi tontoney bay.</li><li>A hin ka tee kaŋ berehawey ga baa goyjinay waaniyaŋ wala sukariyan hala i ga hin ka tontoney bay.</li></ul>">
+
+<!ENTITY proxyConnectFailure.title "Tokore feršikaa wanga ciyaroo">
+<!ENTITY proxyConnectFailure.longDesc "<p>Ceecikaa hanse ka goy nda tokore feršikaa, amma tokoraa wanga ciyaroo.</p><ul><li>Ceecikaa tokore hanseyanoo ga boori wala? Hanseyaney koroši, de ma ceeci koyne.</li><li>Tokore goydoo ga yadda ciyarey kaŋ ga hun sankaa woo doo ga?</li><li>Šenday goo hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
+
+<!ENTITY proxyResolveFailure.title "Tokore feršikaa mana duwandi">
+<!ENTITY proxyResolveFailure.longDesc "<p>Ceecikaa hanse ka goy nda tokore feršikaw, tokoraa ši hin ka duwandi.</p><ul><li>War ceecikaw tokore hanseyaney ga boori? Hanseyaney koroši, de ma ceeci koyne.</li><li>War ordinateroo ga dobu sankaw goyante ga?</li><li>Šenday goo hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
+
+<!ENTITY redirectLoop.title "Moɲoo mana bisandi taaga">
+<!ENTITY redirectLoop.longDesc "<p>Ceecikaa na hayiizoo kaŋ war wiri k'a soolom naŋ. Nungoo goo ma war hãayanoo bisandi taaga nda taka ka.</p><ul><li>War n'ka aleewawey kaŋ ga waažibi nungoo se kayandi wala k'i gagayandi?</li><li><em>NOTE</em>: Nda feršikaa aleewawey taaroo ši šendaa benandi, a ga hin ka tee hanseyan šenday no kaŋ duu war feršikaa nda war ordinateroo.</li></ul>">
+
+<!ENTITY unknownSocketType.title "Feršikaw zaabi leybante">
+<!ENTITY unknownSocketType.longDesc "<p>Nungoo na sankaa hãayano zaabi nda taka kaŋ mana hongandi, nda ceecikaa ši hin ka goy jine.</p>">
+
+<!ENTITY nssFailure2.title "Ciyari saajante kay">
+<!ENTITY nssFailure2.longDesc "<p>Moɲoo kaŋ war ga wiri k'a guna ši hin ka cebandi zama bayhaya duwantey ši hin ka tabatandi.</p><ul><li>Taare war tataaru nungu koyey cee ka šendaa alhabar tee i se.</li></ul>">
+
+<!ENTITY nssBadCert.title "Ciyari saajante kay">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>A ga hin ka tee feršikaw hanseyan šenday ti woo, wala a ma tee kaŋ boro foo ga wiri ka war feršikaa ženti.</li> 
+<li>Nda war na feršikaa woo cee ka boori, firka ga hin ka tee waati foo wane, nda war ga hin ka ceeci koyne nd'a too kayna.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+">
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly. -->
+
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;

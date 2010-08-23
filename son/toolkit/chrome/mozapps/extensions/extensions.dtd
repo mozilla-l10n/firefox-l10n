@@ -1,0 +1,176 @@
+<!ENTITY addons.title "Tontoney">
+<!-- Default window size for the addon manager in pixels -->
+
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!-- View labels -->
+
+<!ENTITY search.label "Tontoney zaa">
+<!ENTITY extensions.label "Dobuyaney">
+<!ENTITY themes.label "Furarey">
+<!ENTITY locales.label "Šenney">
+<!ENTITY plugins.label "Sukarey">
+<!ENTITY update.label "Taagandirey">
+<!ENTITY install.label "Sinjiyan">
+<!-- Command Bar items -->
+
+<!ENTITY cmd.checkUpdatesAll.label "Taagandirey ceeci">
+<!ENTITY cmd.checkUpdatesAll.accesskey "T">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Ga taagandirey ceeci war tontoney se">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Ga taagandirey ceeci war furarey se">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Ga taagandirey ceeci war sukarey se">
+<!ENTITY cmd.installLocalFile.label "Sinji...">
+<!ENTITY cmd.installLocalFile.accesskey "i">
+<!ENTITY cmd.installFileAddon.tooltip "Tontoni foo sinji...">
+<!ENTITY cmd.installFileTheme.tooltip "Furari foo sinji">
+<!ENTITY cmd.installUpdatesAll2.label "Taagandirey sinji">
+<!ENTITY cmd.installUpdatesAll2.accesskey "T">
+<!ENTITY cmd.installUpdatesAll2.tooltip "Taagandiri suubantey sinji">
+<!ENTITY cmd.restartApp2.label "&brandShortName; tunandi taaga">
+<!ENTITY cmd.restartApp2.accesskey "t">
+<!ENTITY cmd.restartApp2.tooltip "&brandShortName; tunandi taaga ka barmawey kanandi">
+<!ENTITY cmd.skip.label "Sar">
+<!ENTITY cmd.skip.accesskey "a">
+<!ENTITY cmd.skip.tooltip "Taagandirey wey sar">
+<!ENTITY cmd.continue.label "Koy jine">
+<!ENTITY cmd.continue.accesskey "K">
+<!ENTITY cmd.continue.tooltip "Gaabu ka &brandShortName; zumandi">
+
+<!ENTITY cmd.enableAll.label "Kul tunandi">
+<!ENTITY cmd.enableAll.accesskey "K">
+<!ENTITY cmd.enableAll.tooltip "Tontoni cebantey kul tunandi">
+<!ENTITY cmd.disableAll.label "Kul kayandi">
+<!ENTITY cmd.disableAll.accesskey "y">
+<!ENTITY cmd.disableAll.tooltip "Tontoni cebantey kul kayandi">
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+
+<!ENTITY cmd.useTheme.label "Furari goyandi">
+<!ENTITY cmd.useTheme.accesskey "F">
+<!ENTITY cmd.useTheme.tooltip "Ga &brandShortName; furaroo barmay">
+<!ENTITY cmd.options.label "Suubarey">
+<!ENTITY cmd.options.accesskey "S">
+<!ENTITY cmd.options.tooltip "Suubari kayandi dobuyan suubantaa se">
+<!ENTITY cmd.optionsUnix.label "Ibaayey">
+<!ENTITY cmd.optionsUnix.accesskey "b">
+<!ENTITY cmd.optionsUnix.tooltip "Ibaayey fasal dobuyan suubantaa se">
+<!ENTITY cmd.enable.label "Tunandi">
+<!ENTITY cmd.enable.accesskey "T">
+<!ENTITY cmd.enable.tooltip "Tontonoo woo tunandi waati kaŋ &brandShortName; ga tunandi taaga">
+<!ENTITY cmd.disable.label "Kayandi">
+<!ENTITY cmd.disable.accesskey "K">
+<!ENTITY cmd.disable.tooltip "Tontonoo woo kayandi waati kaŋ &brandShortName; ga tunandi taaga">
+<!ENTITY cmd.uninstall.label "Dogu">
+<!ENTITY cmd.uninstall2.accesskey "U">
+<!ENTITY cmd.uninstall2.tooltip "Tontonoo woo dogu waati kaŋ &brandShortName; ga tunandi taaga">
+<!ENTITY cmd.cancelUninstall.label "Doguyan naŋ">
+<!ENTITY cmd.cancelUninstall.accesskey "D">
+<!ENTITY cmd.cancelUninstall.tooltip "Tontonoo woo doguyanoo naŋ">
+<!ENTITY cmd.cancelInstall.label "Sinjiyan naŋ">
+<!ENTITY cmd.cancelInstall.accesskey "S">
+<!ENTITY cmd.cancelInstall.tooltip "Sinjiyan naŋ tontonoo woo se">
+<!ENTITY cmd.cancelUpgrade.label "Taagandiri naŋ">
+<!ENTITY cmd.cancelUpgrade.accesskey "n">
+<!ENTITY cmd.cancelUpgrade.tooltip "Taagandiroo naŋ tontonoo woo se">
+<!ENTITY cmd.installUpdate.label "Taagandiri sinji">
+<!ENTITY cmd.installUpdate.accesskey "s">
+<!ENTITY cmd.installUpdate.tooltip "Taagandiri foo sinji tontonoo woo se">
+<!ENTITY cmd.showUpdateInfo.label "Alhabar cebe">
+<!ENTITY cmd.showUpdateInfo.accesskey "c">
+<!ENTITY cmd.showUpdateInfo.tooltip "Alhabar bešere cebe taagandirey wey se">
+<!ENTITY cmd.hideUpdateInfo.label "Alhabar tugu ">
+<!ENTITY cmd.hideUpdateInfo.accesskey "t">
+<!ENTITY cmd.hideUpdateInfo.tooltip "Alhabar tugu taagandirey wey se">
+<!ENTITY cmd.installSearchResult.label "Tonton &brandShortName; ga...">
+<!ENTITY cmd.installSearchResult.accesskey "T">
+<!ENTITY cmd.installSearchResult.tooltip "Tontonoo woo zumandi nd'a sinji">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label "Naŋ">
+<!ENTITY cancel.accesskey "N">
+<!ENTITY cancelInstall.label "Naŋ">
+<!ENTITY cancelInstall.accesskey "N">
+<!ENTITY cancelUpgrade.label "Naŋ">
+<!ENTITY cancelUpgrade.accesskey "N">
+<!-- Only displayed in the selected Add-on's context menu -->
+
+<!ENTITY cmd.homepage.label "Koy sintin moɲoo ga">
+<!ENTITY cmd.homepage.accesskey "s">
+<!ENTITY cmd.about2.label "Tontoni woo ga">
+<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.checkUpdate.label "Taagandiri ceeci">
+<!ENTITY cmd.checkUpdate.accesskey "c">
+
+<!ENTITY cmd.includeUpdate.label "Taagandiri dam a ra">
+<!ENTITY cmd.includeUpdate.accesskey "a">
+<!ENTITY includeUpdate.label "Taagandiroo woo dam a ra">
+<!ENTITY includeUpdate.accesskey "a">
+<!ENTITY includeUpdate.tooltip "Taagandiroo woo dam waati kaŋ taagandirey ga sinja">
+<!-- Status Messsages -->
+
+<!ENTITY insecureUpdate.label "Ši taagandiri saajanteyaŋ noo.">
+<!ENTITY needsDependencies.label "Ga boona hayiize tontonanteyaŋ.">
+<!ENTITY blocklisted.label "War jejeboo se a kay.">
+<!ENTITY softBlocklisted.label "Boro ga bay, woo ga saajaw wala tabatiyan šenday tee.">
+<!ENTITY outdated.label "Dumi taaga ga bara, nda saajaw tontoni.">
+<!ENTITY toBeDisabled.label "Tontonoo woo ga kayandi waati kaŋ &brandShortName; ga tunandi taaga.">
+<!ENTITY toBeEnabled.label "Tontonoo woo ga tunandi waati kaŋ &brandShortName; ga tunandi taaga.">
+<!ENTITY toBeInstalled.label "Tontonoo woo ga sinja waati kaŋ &brandShortName; ga tunandi taaga.">
+<!ENTITY toBeUninstalled.label "Tontonoo woo ga dogandi waati kaŋ &brandShortName; ga tunandi taaga.">
+<!ENTITY toBeUpdated.label "Tontonoo woo ga taagandi waati kaŋ &brandShortName; ga tunandi taaga.">
+
+<!ENTITY getExtensions.label "Dobuyaney zaa">
+<!ENTITY getThemes.label "Furarey zaa">
+<!ENTITY getPlugins.label "Sukarey zaa">
+
+<!ENTITY searchAddons.label "Tontoney kul ceeci">
+<!ENTITY browseAddons.label "Tontoney kul naaru">
+<!ENTITY searchFailed.label "&brandShortName; ši hin ga tontoney soolom">
+<!ENTITY recommendedHeader.label "Yaamarante">
+<!ENTITY recommendedThrobber.label "Goo ma tontoni yaamarantey soolom">
+<!ENTITY searchThrobber.label "Tontoney kul ceeci">
+<!ENTITY resetSearch.label "Hunyaney koonandi">
+<!ENTITY noSearchResults.label "Hunyaney kul sinjandi ka ben wal'i ši cerebande.">
+<!ENTITY noRecommendedResults.label "Yaamarey kul sinjandi ka ben wal'i ši cerebande.">
+<!ENTITY emptySearch.label "Tontoni sawante kul ši bara ">
+<!ENTITY emptySearch.button "Ayyo">
+<!ENTITY cancelSearch.button "Naŋ">
+<!ENTITY searchFailed.button "Ayyo">
+<!ENTITY searchResultHomepage.value "Bešere caw">
+<!ENTITY searchBox.label "Tontoney kul ceeci">
+<!ENTITY recommendedResults.label "Dii tontoni yaamarantey kul">
+<!ENTITY searchResultConnecting.label "Goo ma ciya...">
+<!ENTITY searchResultInstalling.label "Sinjiyan...">
+<!ENTITY searchResultFailed.label "Sinjiyan kay">
+<!ENTITY searchResultInstalled.label "Sinjiyan timme">
+<!ENTITY addonTypeExtension.label "Dobuyan">
+<!ENTITY addonTypeTheme.label "Furari">
+<!ENTITY missingThumbnail.label "Moo-fur ši">
+
+<!ENTITY previewNoThemeSelected.label "Furari kul mana suubandi">
+<!ENTITY previewNoPreviewImage.label "Furaroo woo ši nda moo-fur bii">
+<!ENTITY moreInfo.label "Alhabar bešere">
+<!ENTITY infoNoAddonSelected.label "Taagandiri kul mana suubandi">
+<!ENTITY infoNoUpdateInfo.label "Taagandiro woo ši nda alhabar tontonante ">
+<!ENTITY infoUpdateInfoError.label "Firka foo bangay kaŋ alhabaroo ga zunbu taagandiroo woo se">
+
+<!ENTITY updateSuccess.label "Taagandiri timmandi boryo.">
+<!ENTITY installSuccess.label "Sinjiyan timmandi boryo.">
+<!ENTITY installSuccessRestart.label "Tunandi taaga ka sinjiyanoo timmandi.">
+<!ENTITY updateSuccessRestart.label "Tunandi taaga ka taagandiroo timmandi.">
+<!ENTITY installWaiting.label "Goo ma batu...">
+<!ENTITY installIncompatibleUpdate.label "Goo ma cerekanbeyan koroši...">
+<!ENTITY installFinishing.label "Goo ma sinja...">
+<!ENTITY installFailure.label "Sinjiyanoo kay.">
+
+<!ENTITY progressStatus.label "Taagandirey ceeci">
+
+<!ENTITY eula.title "Benandi goykaw duɲe waafakay">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Yadda nda sinji...">
+
+<!ENTITY blocklist.blocked.label "Gagayante">
+<!ENTITY blocklist.checkbox.label "Kayandi">

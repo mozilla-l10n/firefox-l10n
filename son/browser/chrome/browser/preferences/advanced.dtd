@@ -1,0 +1,104 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label "Hayakul">
+
+<!ENTITY accessibility.label "Duwandiyan">
+
+<!ENTITY useCursorNavigation.label "Waati kul ma moo dirandikaw kufaley ka naaru moɲey ra">
+<!ENTITY useCursorNavigation.accesskey "d">
+<!ENTITY searchStartTyping.label "Kalimaɲaa kuru ceeci waati kaŋ I šintin ka hantum">
+<!ENTITY searchStartTyping.accesskey "l">
+<!ENTITY blockAutoRefresh.label "Ay yaamar waati kaŋ nungey ka wiri ka moɲoo bisandi wala k'a dam taaga">
+<!ENTITY blockAutoRefresh.accesskey "n">
+
+<!ENTITY browsing.label "Ceeciyan">
+
+<!ENTITY useAutoScroll.label "Boŋ-cendiyan goyandi">
+<!ENTITY useAutoScroll.accesskey "c">
+<!ENTITY useSmoothScrolling.label "Cendiyan baana goyandi">
+<!ENTITY useSmoothScrolling.accesskey "a">
+<!ENTITY checkSpelling.label "Ay boŋhantumandoo korosi kaŋ ay ga hantum">
+<!ENTITY checkSpelling.accesskey "h">
+
+<!ENTITY systemDefaults.label "Dabariɲaa tilasey">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label "Koroši waati kul ka dii wala &brandShortName;  ti tilasu tataaruhugu-ceecikaw tunandiroo ga">
+<!ENTITY alwaysCheckDefault.accesskey "w">
+<!ENTITY checkNow.label "Guna sohõ">
+<!ENTITY checkNow.accesskey "s">
+<!ENTITY submitCrashes.label "Submit crash reports">
+<!ENTITY submitCrashes.accesskey "S">
+
+<!ENTITY networkTab.label "Sankay">
+
+<!ENTITY connection.label "Ciyari">
+
+<!ENTITY connectionDesc.label "Hanse taka kaŋ nda &brandShortName; ga Interneti ciya">
+<!ENTITY connectionSettings.label "Kayandiyaney...">
+<!ENTITY connectionSettings.accesskey "a">
+
+<!ENTITY offlineStorage.label "Bila nda ciyari jišidoo">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Goyandi hala">
+<!ENTITY useCacheBefore.accesskey "G">
+<!ENTITY useCacheAfter.label "MB tugudoo">
+<!ENTITY clearCacheNow.label "Koonandi sohõ">
+<!ENTITY clearCacheNow.accesskey "K">
+
+<!ENTITY updateTab.label "Taagandiri">
+
+<!ENTITY autoCheck.label "Taagandirey ceeci ngi boŋse hala:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate2.label "Add-ons">
+<!ENTITY enableAddonsUpdate2.accesskey "n">
+<!ENTITY enableSearchUpdate.label "Ceeci maršiney">
+<!ENTITY enableSearchUpdate.accesskey "i">
+<!ENTITY whenUpdatesFound.label "Waati kaŋ taagandi ga duwandi &brandShortName; se:">
+<!ENTITY askMe.label "Ay hãa woo kaŋ ay ga baa ka tee">
+<!ENTITY askMe.accesskey "h">
+<!ENTITY modeAutomatic.label "Bonše zumandi nda taagandiroo sinjandi">
+<!ENTITY modeAutomatic.accesskey "B">
+<!ENTITY modeAutoAddonWarn.label "Ay yaamar nda woo ga tontoney jerey kayandi">
+<!ENTITY modeAutoAddonWarn.accesskey "A">
+<!ENTITY updateHistory.label "Taagandiri taariku cebe">
+<!ENTITY updateHistory.accesskey "a">
+
+<!ENTITY offlineNotify.label "Har ya ne waati kaŋ tataataru nungu hãa ka bayhayey jiši bila-nda-ciyari goyyan se.">
+<!ENTITY offlineNotify.accesskey "H">
+<!ENTITY offlineNotifyExceptions.label "Hasarawey...">
+<!ENTITY offlineNotifyExceptions.accesskey "a">
+
+<!ENTITY offlineAppsList.label "Tataaru nungey wey na bayhayey jiši bila-nda-ciyari goyyan se:">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "Kaa...">
+<!ENTITY offlineAppsListRemove.accesskey "K">
+<!ENTITY offlineAppRemove.confirm "Bila-nda-ciyari kaa">
+
+<!ENTITY encryptionTab.label "Tuguyan">
+
+<!ENTITY protocols.label "Berehawey">
+<!ENTITY useSSL3.label "SSL 3.0 goyandi">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "TLS 1.0 goyandi">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Tabatiyan-tiirawey">
+<!ENTITY certSelection.description "Waati kaŋ feršikaw n'ay boŋ tabatiyan-tiiraa wiri:">
+<!ENTITY certs.auto "Affoo suuba boŋše">
+<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.ask "Hãa waati foo kul">
+<!ENTITY certs.ask.accesskey "i">
+<!ENTITY viewCerts.label "Tabatiyan-tiirawey gunari">
+<!ENTITY viewCerts.accesskey "a">
+<!ENTITY viewCRLs.label "Maašeedawey williyan">
+<!ENTITY viewCRLs.accesskey "w">
+<!ENTITY verify2.label "Alhakiikandiyan">
+<!ENTITY verify2.accesskey "A">
+<!ENTITY viewSecurityDevices.label "Saajaw jinawey">
+<!ENTITY viewSecurityDevices.accesskey "w">

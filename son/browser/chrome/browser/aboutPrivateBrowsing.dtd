@@ -1,0 +1,22 @@
+<!ENTITY privatebrowsingpage.title "Sutura narumi">
+<!ENTITY privatebrowsingpage.title.normal "War ga war ma sutura narumi sintin wala?">
+
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; ši anniye ka honga taariki kul goywaatoo woo se. ">
+<!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; ši sutura narumi alhaali ra sohõda.">
+
+<!ENTITY privatebrowsingpage.description "Sutura narumi goywaati ra, &brandShortName; ši ceecikaw taariki, ceeci taariki, zumandi taariki, tataaru takari taariki. aleewayaŋ, wala Interneti tuku bisanteyaŋ gaabu. Ammaa, tukey kaŋ war g'i zumandi nda doo-šilbawey kaŋ war n'i dam ga gaabundi. ">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "Nda war ga baa, wa sintin nda da _">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "Ga war taariki kokorantaa koonandi">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Sutura narumi  sintin ">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "S">
+
+<!ENTITY privatebrowsingpage.howToStop "Ka sutura narumi kayandi, tee &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; wala ma &brandShortName; suuba.">
+<!ENTITY privatebrowsingpage.howToStart "Ka sutura narumi kayandi, war ga hin ka tee da &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo "Zama ordinateroo woo ši war ceeci taariki kul gaabu, war Interneti nookaa wala goykaa ga hin ka moɲey kaŋ war n'i guna ceebandu bay waati kul.">
+<!ENTITY privatebrowsingpage.learnMore "Caw ka tonton">

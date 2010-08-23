@@ -1,0 +1,19 @@
+<!ENTITY about.version "Dumi">
+
+<!ENTITY about.copy.beforeLink "Teeri-alhaku &berandi; 1998-2009 se">
+<!ENTITY about.copy.linkTitle "kanbuzaakey">
+<!ENTITY about.copy.afterLink "Mozilla Porožewo ga.">
+
+<!ENTITY about.license.beforeLink "Caw">
+<!ENTITY about.license.linkTitle "duɲe alhabar">
+<!ENTITY about.license.afterLink "jinaa woo se">
+
+<!ENTITY about.relnotes.beforeLink "Caw">
+<!ENTITY about.relnotes.linkTitle "kaataray hantumey">
+<!ENTITY about.relnotes.afterLink "dumoo woo se">
+
+<!ENTITY about.buildconfig.beforeLink "Guna">
+<!ENTITY about.buildconfig.linkTitle "cinari hanseyanoo">
+<!ENTITY about.buildconfig.afterLink "kaŋ goyandi dumoo woo se.">
+
+<!ENTITY about.buildIdentifier "Cinari taamansakaw: ">

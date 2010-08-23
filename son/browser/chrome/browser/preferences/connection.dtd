@@ -1,0 +1,44 @@
+
+<!ENTITY connectionsDialog.title "Ciyari kayandiyaney">
+<!ENTITY window.width "37em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY proxyTitle.label "Tokorawey hanse ka huru Interneti ra">
+<!ENTITY noProxyTypeRadio.label "Tokore ši">
+<!ENTITY noProxyTypeRadio.accesskey "k">
+<!ENTITY systemTypeRadio.label "Dabariɲaa tokore kayandiyaney goyandi">
+<!ENTITY systemTypeRadio.accesskey "g">
+<!ENTITY WPADTypeRadio.label "Tokore kayandiyaney boŋ honnay sankaa woo se">
+<!ENTITY WPADTypeRadio.accesskey "k">
+<!ENTITY manualTypeRadio.label "Kanbe tokore hanseyan">
+<!ENTITY manualTypeRadio.accesskey "K">
+<!ENTITY autoTypeRadio.label "Tokore boŋ hanseyan aderesu:">
+<!ENTITY autoTypeRadio.accesskey "b">
+<!ENTITY reload.label "Taagandi">
+<!ENTITY reload.accesskey "a">
+<!ENTITY ftp.label "FTP tokore:">
+<!ENTITY ftp.accesskey "F">
+<!ENTITY gopher.label "Dontokaw tokore:">
+<!ENTITY gopher.accesskey "D">
+<!ENTITY http.label "HTTP tokore:">
+<!ENTITY http.accesskey "t">
+<!ENTITY ssl.label "SSL tokore">
+<!ENTITY ssl.accesskey "L">
+<!ENTITY socks.label "SOCKS zunbudoo:">
+<!ENTITY socks.accesskey "C">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "K">
+<!ENTITY socks5.label "SOCKS v4">
+<!ENTITY socks5.accesskey "K">
+<!ENTITY port.label "Kotay-mee">
+<!ENTITY HTTPport.accesskey "P">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY FTPport.accesskey "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY gopherPort.accesskey "">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "Tokore ši woo se:">
+<!ENTITY noproxy.accesskey "i">
+<!ENTITY noproxyExplain.label "Himakašine: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Feršikaw tokoraa woo goyandi berehawey kul">
+<!ENTITY shareproxy.accesskey "g">

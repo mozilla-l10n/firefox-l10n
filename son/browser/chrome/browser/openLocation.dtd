@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Tataaru nungu (URL) dam, wala ma tabatandi doo-bande tukoo kaŋ war ga baa k'a feeri:">
+<!ENTITY chooseFile.label "Tuku suuba...">
+<!ENTITY newWindow.label "Zanfun taaga">
+<!ENTITY newTab.label "Nor loku taaga">
+<!ENTITY topTab.label "Sohõda nor loku">
+<!ENTITY caption.label "Tataaru gorodoo feeri">
+<!ENTITY openWhere.label "Feeri ne ra:">
+<!ENTITY openBtn.label "Feeri">

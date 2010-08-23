@@ -1,0 +1,37 @@
+<!ENTITY startup.label "Tunandiri">
+
+<!ENTITY startupPage.label "Waati foo &brandShortName; starts:">
+<!ENTITY startupPage.accesskey "s">
+<!ENTITY startupHomePage.label "Ay šintin moɲoo cebe">
+<!ENTITY startupBlankPage.label "Moo koonu cebe">
+<!ENTITY startupLastSession.label "Ay zanfuney nda cee koraa nor-lokey cebe">
+<!ENTITY location.label "Home Page:">
+<!ENTITY location.accesskey "H">
+<!ENTITY useCurrentPage.label "Sohõ moo goyandi">
+<!ENTITY useCurrentPage.accesskey "S">
+<!ENTITY useMultiple.label "Sohõ moɲey goyandi">
+<!ENTITY useBookmark.label "Doo-šilbay goyandi">
+<!ENTITY useBookmark.accesskey "D">
+<!ENTITY restoreDefault.label "Bere tilasu takaa ga">
+<!ENTITY restoreDefault.accesskey "B">
+
+<!ENTITY downloads.label "Zumandiyaney">
+
+<!ENTITY showWhenDownloading.label "Zumandiyaney zanfunoo cebe nda tuku ga zumandi">
+<!ENTITY showWhenDownloading.accesskey "Z">
+<!ENTITY closeWhenDone.label "A daabu waati kaŋ zumandiyaney tee ka ben ">
+<!ENTITY closeWhenDone.accesskey "w">
+<!ENTITY saveTo.label "Tukey gaabu ga">
+<!ENTITY saveTo.accesskey "g">
+<!ENTITY chooseFolderWin.label "Guna...">
+<!ENTITY chooseFolderWin.accesskey "G">
+<!ENTITY chooseFolderMac.label "Suuba">
+<!ENTITY chooseFolderMac.accesskey "S">
+<!ENTITY alwaysAsk.label "Ay hãa waati kul nungu kaŋ ra tukey ga jiši ">
+<!ENTITY alwaysAsk.accesskey "w">
+
+<!ENTITY addonsMgr.label "Tontoney">
+<!ENTITY manageAddonsDescWin.label "Suubarey barmay war tontoney se">
+<!ENTITY manageAddonsDescUnix2.label "Ibaayey barmay war tontoney se">
+<!ENTITY manageAddons.label "Tontoney juwal">
+<!ENTITY manageAddons.accesskey "T">

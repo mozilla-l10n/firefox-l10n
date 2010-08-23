@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title "&brandFullName; ga">
+<!ENTITY copyright "Garawey">
+<!ENTITY copyright.accesskey "C">
+<!ENTITY copyrightGNOME.accesskey "r">
+<!ENTITY aboutLink "&lt; &brandFullName; ga">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "dumi">
+<!ENTITY closeCmdGNOME.label "daabu">
+<!ENTITY closeCmdGNOME.accesskey "d">
+<!ENTITY copyrightInfo1 "&#169;1998-2009 Kanbuzaakey. Mayrawey kul gaabandi. (">
+<!ENTITY licenseLink "ga:duɲekaddasu">
+<!ENTITY licenseLinkText "duɲekaddasu alhabar">
+<!ENTITY copyrightInfo2 ").">

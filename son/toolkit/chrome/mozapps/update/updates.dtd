@@ -1,0 +1,82 @@
+<!ENTITY updateWizard.title "Goyjinay taagandiri">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "Taagandirey guna">
+<!ENTITY updateCheck.label "Goo ma dumi taagayaŋ guna &brandShortName; se...">
+
+<!ENTITY pluginupdatesfound.title "Duu taagandiriyaŋ sukarey se">
+<!ENTITY pluginupdatesfound.label "Dumi taagayaŋ duwandi sukari foo wala ibooboyaŋ se.">
+<!ENTITY pluginupdateslink.label "Dii taka kaŋ nda sukarey ga taagandi. ">
+
+<!ENTITY noupdatesfound.title "Taagandiri kul mana duwandi">
+<!ENTITY noupdatesautoenabled.intro "Taagandiriyaŋ kul ši bara. &brandShortName; ga guna
+ waati foo-foo wala taagandiryaŋ ga bangay ">
+<!ENTITY noupdatesautodisabled.intro "Taagandiriyaŋ kul ši bara. Taare wa guna koyne waati foo, wala war ma &brandShortName; boŋ-taagandiroo tunandi.  ">
+
+<!ENTITY manualUpdate.title "Taagandiri ši hin ka tee">
+<!ENTITY manualUpdate.desc "Saajaw fellante nda gorandiyan taagandiri goo no. amma war ši 
+ nda dabariɲaa fondawey kaŋ ka waažibi ngi sinjiyanoo se. Taare war ma war 
+ dabariɲaa juwalkaa hãa, wala war ma ceeci koyne nda kontu foo kaŋ goo nda duɲe ka 
+ goyjinay sinji ordinateroo woo ra. ">
+<!ENTITY manualUpdateGetMsg.label "War ga hin ka duu &brandShortName; dumi kokorantaa waati kul ne:">
+
+<!ENTITY incompatibleCheck.title "Tontoni cerekanbeyan ceeci">
+<!ENTITY incompatibleCheck.label "Goo ma dumi taagayaŋ ceeci war tontoney se...">
+
+<!ENTITY clickHere.label "Alhabar bešere guna taagandiroo se">
+
+<!ENTITY evangelism.desc "I ga hansa war yaamar kaŋ war ma taagandiroo woo kanandi &brandShortName; nda cahãri.">
+
+<!ENTITY license.instructions "Nda war yaddo yaddaroo woo kalima ga, wa 
+ Ay yadda naagu ganda hala taagandiroo woo sinjiyanoo ma koy nda jine. ">
+
+<!ENTITY license.titleText "Goyjinay duɲe kaddasu">
+<!ENTITY license.introText "Kalima nda sarti goyjinaa woo goyandiroo se.">
+<!ENTITY license.instructionText "Taare wa duɲe waafakaa woo caw. Wa maažeeri cendante ka dii waafakaa cindoo.">
+<!ENTITY license.accept "Ay ga yadda duɲe waafakaa kalimawey ga">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "Ay ŠI yadda duɲe waafakaa kalimawey ga">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY incompatibleList.title "Tontoniyan duwandi kaŋ ši cere kanbe">
+
+<!ENTITY downloading.title "Taagandiri goo ma zumandi">
+<!ENTITY downloading.intro "Taagandiroo goo ma zumandi...">
+<!ENTITY connecting.label "Goo ciya ma taagandiri feršikaa se...">
+<!ENTITY verificationFailedText.label "&brandShortName; mana hin ka 
+ timmetaraa tabatandi, kaŋ jere-taagandiri faalandi, woo se a goo ma 
+ taagandiri sanbaroo kul zumandi. ">
+
+<!ENTITY viewDetails.tooltip "Šilbayhayey guna taagandiroo se">
+
+<!ENTITY details.link "Šilbayhayey">
+
+<!ENTITY error.label "
+ taagandiroo woo dii šenday, kaŋ i ga  ceeci, zumandi wala k'a sinji. &brandShortName; ši hin ka taagandi zama:">
+                                           
+<!ENTITY errorManual.label "War ga hin ka &brandShortName; taagandi nda kanbe nda war hanga 
+ doboo woo ka dumi kokorantaa zumandi:">
+                                           
+<!ENTITY errorpatching.title "Taagandiroo kay">
+<!ENTITY errorpatching.intro "Jere-taagandiroo mana hin ka kanandi. 
+ &brandShortName; ga wiri ka taagandiri timmante zumandi. ">
+
+<!ENTITY finishedPage.title "Taagandiroo soolu ka sinja">
+<!ENTITY finishedPage.text "Taagandiroo ga sinjandi hiino kaŋ &brandShortName; ga tun. War 
+ ga hin ka &brandShortName; tunandi taaga sohõda, wala ka gaabu goyoo ga, k'a tunandi taaga nd'a too kayna. ">
+
+<!ENTITY finishedBackgroundPage.text "Saajaw wala tabatiyan taagandiri foo zumandi &brandShortName; se nda a soolu sinjiyanoo se. ">
+<!ENTITY finishedBackground.name "Taagandiri:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY finishedBackground.more "Taagandiroo ga sinja hiino kaŋ &brandShortName; ga tun. War 
+ ga hin ka &brandShortName; tunandi taaga sohõda, wala war ma gaabu goyoo ga, k'a tunandi taaga nd'a too kayna.">
+
+<!ENTITY installed.title "Taagandiri sinjante">
+<!ENTITY installed.intro "Taagandiroo sinjandi ka boori.">
+<!ENTITY whatsnew.label "Caw jine haya tejey ga...">
+
+<!ENTITY update.details.label "Šilbayhayey">
+<!ENTITY update.installedOn.label "Sinjiyan han:">
+<!ENTITY update.status.label "Assariya:">
