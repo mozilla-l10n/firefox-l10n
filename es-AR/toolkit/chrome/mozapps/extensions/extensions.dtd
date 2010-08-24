@@ -92,24 +92,18 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nombre">
 <!ENTITY sort.name.tooltip                    "Ordenar por nombre">
-<!ENTITY sort.size.label                      "Tamaño">
-<!ENTITY sort.size.tooltip                    "Ordenar por tamaño">
 <!ENTITY sort.dateUpdated.label               "Última actualización">
 <!ENTITY sort.dateUpdated.tooltip             "Ordenar por fecha de actualización">
 <!ENTITY sort.rating.label                    "Puntuación">
 <!ENTITY sort.rating.tooltip                  "Ordenar por puntuación promedio">
-
-
-<!ENTITY showMore.label                       "Mostrar más">
-<!ENTITY showMore.tooltip                     "Mostrar más detalles">
-<!ENTITY showLess.label                       "Mostrar menos">
-<!ENTITY showLess.tooltip                     "Mostrar menos detalles">
 
 <!ENTITY search.filter.label                  "Mostrar:">
 <!ENTITY search.filter.installed.label        "Sus complementos instalados">
 <!ENTITY search.filter.available.label        "Complementos disponibles">
 
 <!ENTITY addon.homepage                       "Sitio web">
+<!ENTITY addon.details.label                  "Más">
+<!ENTITY addon.details.tooltip                "Mostrar más detalles sobre este complemento">
 <!ENTITY addon.unknownDate                    "Desconocida">
 <!ENTITY addon.disabled.postfix               "(deshabilitado)">
 <!ENTITY addon.update.postfix                 "Actualizar">
@@ -118,7 +112,6 @@
 <!ENTITY addon.undoUninstall.label            "¿Deshacer?">
 <!ENTITY addon.undoUninstall.tooltip          "Mantener este complemento instalado">
 <!ENTITY addon.restartNow.label               "Reiniciar ahora">
-<!ENTITY addon.restartNow.tooltip             "Reiniciar ahora para completar la instalación">
 <!ENTITY addon.install.label                  "Instalar">
 <!ENTITY addon.install.tooltip                "Instalar este complemento">
 <!ENTITY addon.updateNow.label                "Actualizar ahora">
