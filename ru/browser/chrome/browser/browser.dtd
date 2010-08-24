@@ -1,7 +1,7 @@
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Режим приватного просмотра)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Приватный просмотр)">
 <!ENTITY reloadTab.label "Обновить вкладку">
 <!ENTITY reloadTab.accesskey "и">
 <!ENTITY reloadAllTabs.label "Обновить все вкладки">
@@ -60,7 +60,7 @@
 <!ENTITY pageInfoCmd.label "Информация о странице">
 <!ENTITY pageInfoCmd.accesskey "И">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Полноэкранный режим">
+<!ENTITY fullScreenCmd.label "Полный экран">
 <!ENTITY fullScreenCmd.accesskey "э">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Показать все вкладки">
@@ -192,9 +192,9 @@
 <!ENTITY preferencesCmdUnix.accesskey "Н">
 <!ENTITY clearRecentHistory.label "Стереть недавнюю историю…">
 <!ENTITY clearRecentHistory.accesskey "т">
-<!ENTITY privateBrowsingCmd.start.label "Войти в режим приватного просмотра">
+<!ENTITY privateBrowsingCmd.start.label "Начать приватный просмотр">
 <!ENTITY privateBrowsingCmd.start.accesskey "п">
-<!ENTITY privateBrowsingCmd.stop.label "Выйти из режима приватного просмотра">
+<!ENTITY privateBrowsingCmd.stop.label "Закончить приватный просмотр">
 <!ENTITY privateBrowsingCmd.stop.accesskey "п">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Вид">
@@ -326,7 +326,7 @@
 <!ENTITY mediaShowControls.accesskey "а">
 <!ENTITY mediaHideControls.label "Скрыть пульт управления">
 <!ENTITY mediaHideControls.accesskey "к">
-<!ENTITY videoFullScreen.label "Полноэкранный режим">
+<!ENTITY videoFullScreen.label "Полный экран">
 <!ENTITY videoFullScreen.accesskey "л">
 <!ENTITY fullZoomEnlargeCmd.label "Увеличить">
 <!ENTITY fullZoomEnlargeCmd.accesskey "в">

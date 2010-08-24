@@ -54,7 +54,7 @@
 <!ENTITY pageInfoCmd.label "Информация о странице">
 <!ENTITY pageInfoCmd.accesskey "И">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Полноэкранный режим">
+<!ENTITY fullScreenCmd.label "Полный экран">
 <!ENTITY fullScreenCmd.accesskey "э">
 <!ENTITY translateMenu.label "Перевести страницу">
 <!ENTITY translateMenu.accesskey "р">
