@@ -86,8 +86,7 @@
 <!-- New & Existing Account: Confirm Merge Options -->
 <!ENTITY confirm.caption.label          "Potwierdzenie wyboru">
 <!ENTITY confirm.merge.label            "Wybrano połączenie synchronizowanych danych z tego urządzenia z danymi z innych urządzeń używających &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label           "Wszystkie dane programu
-&brandShortName; na tym urządzeniu zostaną usunięte, włączając w to:">
+<!ENTITY confirm.client.label           "Wszystkie dane programu &brandShortName; na tym urządzeniu zostaną usunięte, włączając w to:">
 <!ENTITY confirm.client.moreinfo.label  "&brandShortName; skopiuje twoje dane &syncBrand.fullName.label; na to urządzenie.">
 <!ENTITY confirm.client.warning.label   "UWAGA: ta operacja spowoduje zamianę danych programu &brandShortName; na tym urządzeniu!">
 <!ENTITY confirm.server.label           "Dane na następujących urządzeniach zostaną zastąpione danymi lokalnymi:">
