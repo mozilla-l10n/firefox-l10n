@@ -18,6 +18,8 @@
 <!ENTITY helpReleaseNotes.accesskey "N">
 <!ENTITY helpTroubleshootingInfo.label "Información para solucionar problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey "f">
+<!ENTITY helpFeedbackPage.label "Enviar opinión…">
+<!ENTITY helpFeedbackPage.accesskey "v">
 <!ENTITY updateCmd.label "Buscar actualizaciones…">
 <!ENTITY preferencesCmdMac.label "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey ",">
