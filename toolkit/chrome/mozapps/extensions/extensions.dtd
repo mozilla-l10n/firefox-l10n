@@ -90,23 +90,18 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                  "Nom">
 <!ENTITY sort.name.tooltip                "Trier par nom">
-<!ENTITY sort.size.label                  "Taille">
-<!ENTITY sort.size.tooltip                "Trier par taille">
 <!ENTITY sort.dateUpdated.label           "Dernière mise à jour">
 <!ENTITY sort.dateUpdated.tooltip         "Trier par date de dernière mise à jour">
 <!ENTITY sort.rating.label                "Appréciation">
 <!ENTITY sort.rating.tooltip              "Trier par appréciation">
-
-<!ENTITY showMore.label                   "Plus">
-<!ENTITY showMore.tooltip                 "Afficher plus de détails">
-<!ENTITY showLess.label                   "Moins">
-<!ENTITY showLess.tooltip                 "Afficher moins de détails">
 
 <!ENTITY search.filter.label              "Afficher :">
 <!ENTITY search.filter.installed.label    "Vos modules installés">
 <!ENTITY search.filter.available.label    "Modules disponibles">
 
 <!ENTITY addon.homepage                   "Page d'accueil">
+<!ENTITY addon.details.label                  "Plus">
+<!ENTITY addon.details.tooltip                "Afficher plus de détails concernant ce module complémentaire">
 <!ENTITY addon.unknownDate                "Inconnue">
 <!ENTITY addon.disabled.postfix           "(désactivé)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -116,7 +111,6 @@
 <!ENTITY addon.undoUninstall.label        "Annuler ?">
 <!ENTITY addon.undoUninstall.tooltip      "Conserver ce module complémentaire">
 <!ENTITY addon.restartNow.label           "Redémarrer maintenant">
-<!ENTITY addon.restartNow.tooltip         "Redémarrer maintenant pour terminer cette installation">
 <!ENTITY addon.install.label              "Installer">
 <!ENTITY addon.install.tooltip            "Installer ce module complémentaire">
 <!ENTITY addon.updateNow.label            "Mettre à jour maintenant">
