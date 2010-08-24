@@ -54,7 +54,7 @@
 <!ENTITY cmd.hideReleaseNotes.label "Скрыть примечания к выпуску">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Скрыть примечания к выпуску для этого обновления">
 <!ENTITY detail.version.label "Версия">
-<!ENTITY detail.updated.label "Обновлен">
+<!ENTITY detail.updated.label "Обновлён">
 <!ENTITY detail.creator.label "Разработчик">
 <!ENTITY detail.homepage.label "Домашняя страница">
 <!ENTITY detail.numberOfDownloads.label "Загрузок">
