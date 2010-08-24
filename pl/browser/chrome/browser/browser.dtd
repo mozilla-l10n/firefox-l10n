@@ -248,7 +248,7 @@
 
 <!ENTITY viewMenu.label "Widok" >
 <!ENTITY viewMenu.accesskey "W" >
-<!ENTITY showTabView2.label     "Groupuj karty…">
+<!ENTITY showTabView2.label     "Grupuj karty…">
 <!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label "Paski narzędzi" >
 <!ENTITY viewToolbarsMenu.accesskey "P" >
