@@ -34,7 +34,7 @@
 
 <!-- New Account Page 2: Passphrase Entry -->
 <!ENTITY setup.newPPPage.title.label       "Podaj swój szyfr">
-<!ENTITY passphraseDesc.label         "Wprowadź szyfr. Będzie on używany do szyfrowania wszystkich twoich danych. Tylko ty masz dostęp do niego. Nie jest on przechowywany na serwerze, zatem postaraj się go nie zapomnieć!">
+<!ENTITY passphraseDesc.label         "Wprowadź szyfr. Będzie on używany do szyfrowania wszystkich twoich danych, więc nikt inny nie ma do niego dostępu. Nie jest on przechowywany na serwerze, zatem postaraj się go nie zapomnieć!">
 <!ENTITY passphraseDesc2.label        "Szyfr musi zawierać przynajmniej 12 znaków i nie może być taki sam, jak hasło do konta.">
 <!ENTITY passphraseEntry.label        "Szyfr">
 <!ENTITY passphraseEntry.accesskey    "S">
