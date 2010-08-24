@@ -32,12 +32,12 @@
 <!ENTITY rememberActions.middle.label ", или ">
 <!ENTITY rememberActions.removeCookies.label "удалить отдельные куки">
 <!ENTITY rememberActions.post.label ".">
-<!ENTITY dontrememberDescription.label "&brandShortName; будет использовать настройки режима приватного просмотра и не будет помнить историю вашей работы с веб-сайтами.">
+<!ENTITY dontrememberDescription.label "&brandShortName; будет использовать те же настройки, что и при приватном просмотре, и не будет помнить историю вашей работы с веб-сайтами.">
 <!ENTITY dontrememberActions.pre.label "Возможно, вы также захотите  ">
 <!ENTITY dontrememberActions.clearHistory.label "очистить всю текущую историю">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingPermanent.label "Постоянно работать в режиме приватного просмотра">
-<!ENTITY privateBrowsingPermanent.accesskey "б">
+<!ENTITY privateBrowsingPermanent.label "Постоянный режим приватного просмотра">
+<!ENTITY privateBrowsingPermanent.accesskey "о">
 <!ENTITY rememberHistory.label "Помнить историю посещений">
 <!ENTITY rememberHistory.accesskey "о">
 <!ENTITY rememberDownload.label "Помнить историю загрузок">
