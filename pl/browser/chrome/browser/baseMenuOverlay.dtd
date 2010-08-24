@@ -25,6 +25,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informacje dla rozwiązywania problemów…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "n">
 
+<!ENTITY helpFeedbackPage.label      "Prześlij swoją opinię…">
+<!ENTITY helpFeedbackPage.accesskey  "e">
+
 <!ENTITY updateCmd.label                "Sprawdź dostępność aktualizacji…">
 
 <!ENTITY preferencesCmdMac.label        "Preferencje…">
