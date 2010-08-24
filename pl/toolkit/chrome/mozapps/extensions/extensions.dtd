@@ -89,23 +89,20 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nazwa">
 <!ENTITY sort.name.tooltip                    "Sortuj według nazwy">
-<!ENTITY sort.size.label                      "Rozmiar">
-<!ENTITY sort.size.tooltip                    "Sortuj według rozmiaru">
 <!ENTITY sort.dateUpdated.label               "Ostatnia aktualizacja">
 <!ENTITY sort.dateUpdated.tooltip             "Sortuj według daty aktualizacji">
 <!ENTITY sort.rating.label                    "Ocena">
 <!ENTITY sort.rating.tooltip                  "Sortuj według średniej ocen">
 
-<!ENTITY showMore.label                       "Więcej informacji">
-<!ENTITY showMore.tooltip                     "Wyświetl więcej szczegółów">
-<!ENTITY showLess.label                       "Mniej informacji">
-<!ENTITY showLess.tooltip                     "Wyświetl mniej szczegółów">
-
-<!ENTITY search.filter.label                  "Wyświetl:">
-<!ENTITY search.filter.installed.label        "zainstalowane dodatki">
-<!ENTITY search.filter.available.label        "dostępne dodatki">
+<!ENTITY search.filter2.label                 "Przeszukaj:">
+<!ENTITY search.filter2.installed.label       "moje dodatki">
+<!ENTITY search.filter2.installed.tooltip     "Wyświetl zainstalowane dodatki">
+<!ENTITY search.filter2.available.label       "dostępne dodatki">
+<!ENTITY search.filter2.available.tooltip     "Wyświetl dodatki dostępne do instalacji">
 
 <!ENTITY addon.homepage                       "Witryna">
+<!ENTITY addon.details.label                  "Więcej">
+<!ENTITY addon.details.tooltip                "Wyświetl więcej informacji o tym dodatku">
 <!ENTITY addon.unknownDate                    "nieznana">
 <!ENTITY addon.disabled.postfix               "(wyłączony)">
 <!ENTITY addon.update.postfix                 "Aktualizuj">
@@ -114,7 +111,6 @@
 <!ENTITY addon.undoUninstall.label            "Cofnąć?">
 <!ENTITY addon.undoUninstall.tooltip          "Pozostaw ten dodatek">
 <!ENTITY addon.restartNow.label               "Uruchom ponownie">
-<!ENTITY addon.restartNow.tooltip             "Uruchom ponownie teraz, by ukończyć instalację">
 <!ENTITY addon.install.label                  "Zainstaluj">
 <!ENTITY addon.install.tooltip                "Zainstall ten dodatek">
 <!ENTITY addon.updateNow.label                "Aktualizuj teraz">

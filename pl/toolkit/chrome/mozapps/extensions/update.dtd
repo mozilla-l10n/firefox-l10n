@@ -56,5 +56,3 @@
 <!ENTITY  clickFinish.label               "Naciśnij Zakończ, by kontynuować uruchamianie programu &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Naciśnij Gotowe, by kontynuować uruchamianie programu &brandShortName;.">
 <!ENTITY  enableChecking.label            "Zezwól programowi &brandShortName; na poszukiwanie aktualizacji.">
-<!ENTITY  details.label                   "Szczegóły…">
-<!ENTITY  details.accesskey               "g">
