@@ -54,7 +54,7 @@
 <!ENTITY cmd.hideReleaseNotes.label "Скрыть примечания к выпуску">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Скрыть примечания к выпуску для этого обновления">
 <!ENTITY detail.version.label "Версия">
-<!ENTITY detail.updated.label "Обновлено">
+<!ENTITY detail.updated.label "Обновлен">
 <!ENTITY detail.creator.label "Разработчик">
 <!ENTITY detail.homepage.label "Домашняя страница">
 <!ENTITY detail.numberOfDownloads.label "Загрузок">
@@ -85,7 +85,7 @@
 <!ENTITY addon.details.label "Подробнее">
 <!ENTITY addon.details.tooltip "Подробнее об этом дополнении">
 <!ENTITY addon.unknownDate "Неизвестно">
-<!ENTITY addon.disabled.postfix "(отключено)">
+<!ENTITY addon.disabled.postfix "(отключён)">
 <!ENTITY addon.update.postfix "обновление">
 <!ENTITY addon.undo.label "Отменить?">
 <!ENTITY addon.undo.tooltip "Отменить это действие">
