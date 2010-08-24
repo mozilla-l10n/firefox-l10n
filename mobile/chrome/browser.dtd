@@ -4,7 +4,6 @@
 <!ENTITY reload.label "Обновить">
 <!ENTITY stop.label "Остановить">
 <!ENTITY go.label "Перейти">
-<!ENTITY openLocation.label "Открыть адрес">
 <!ENTITY star.label "Звёздочка">
 <!ENTITY newtab.label "Новая вкладка">
 <!ENTITY closetab.label "Закрыть вкладку">
@@ -16,7 +15,10 @@
 <!ENTITY selectAll.label "Выделить всё">
 <!ENTITY noSuggestions.label "(нет предложений)">
 <!ENTITY addToDictionary.label "Добавить в словарь">
+<!ENTITY allPagesHeader.label "Все страницы">
 <!ENTITY bookmarksHeader.label "Закладки">
+<!ENTITY historyHeader.label "Журнал">
+<!ENTITY desktopHeader.label "Рабочий стол">
 <!ENTITY editBookmarkDone.label "Готово">
 <!ENTITY editBookmarkTags.label "Добавьте сюда метки">
 <!ENTITY selectHelper.done "Готово">

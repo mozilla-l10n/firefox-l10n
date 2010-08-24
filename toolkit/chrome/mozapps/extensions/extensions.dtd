@@ -72,20 +72,16 @@
 <!ENTITY progress.cancel.tooltip "Отмена">
 <!ENTITY sort.name.label "Имя">
 <!ENTITY sort.name.tooltip "Сортировать по имени">
-<!ENTITY sort.size.label "Размер">
-<!ENTITY sort.size.tooltip "Сортировать по размеру">
 <!ENTITY sort.dateUpdated.label "Последнее обновление">
 <!ENTITY sort.dateUpdated.tooltip "Сортировать по дате обновления">
 <!ENTITY sort.rating.label "Рейтинг">
 <!ENTITY sort.rating.tooltip "Сортировать по среднему рейтингу">
-<!ENTITY showMore.label "Более подробно">
-<!ENTITY showMore.tooltip "Показать больше подробностей">
-<!ENTITY showLess.label "Менее подробно">
-<!ENTITY showLess.tooltip "Показать меньше подробностей">
 <!ENTITY search.filter.label "Показать:">
 <!ENTITY search.filter.installed.label "Установленные вами дополнения">
 <!ENTITY search.filter.available.label "Доступные дополнения">
 <!ENTITY addon.homepage "Домашняя страница">
+<!ENTITY addon.details.label "Подробнее">
+<!ENTITY addon.details.tooltip "Подробнее об этом дополнении">
 <!ENTITY addon.unknownDate "Неизвестно">
 <!ENTITY addon.disabled.postfix "(отключено)">
 <!ENTITY addon.update.postfix "обновление">
@@ -94,7 +90,6 @@
 <!ENTITY addon.undoUninstall.label "Отменить?">
 <!ENTITY addon.undoUninstall.tooltip "Оставить это дополнение установленным">
 <!ENTITY addon.restartNow.label "Перезапустить сейчас">
-<!ENTITY addon.restartNow.tooltip "Перезапустить сейчас для завершения установки">
 <!ENTITY addon.install.label "Установить">
 <!ENTITY addon.install.tooltip "Установить это дополнение">
 <!ENTITY addon.updateNow.label "Обновить сейчас">
