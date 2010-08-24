@@ -7,6 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label "Buscar actualizaciones">
 <!ENTITY listEmpty.search.label "No se ha podido encontrar ningún complemento que cumpla los criterios">
 <!ENTITY listEmpty.button.label "Aprender más sobre los complementos">
+<!ENTITY installFromFile.label "Instalar desde archivo…">
+<!ENTITY installFromFile.accesskey "I">
 <!ENTITY view.search.label "Buscar">
 <!ENTITY view.discover.label "Obtener complementos">
 <!ENTITY view.locales.label "Idiomas">
@@ -70,20 +72,16 @@
 <!ENTITY progress.cancel.tooltip "Cancelar">
 <!ENTITY sort.name.label "Nombre">
 <!ENTITY sort.name.tooltip "Ordenar por nombre">
-<!ENTITY sort.size.label "Tamaño">
-<!ENTITY sort.size.tooltip "Ordenar por tamaño">
 <!ENTITY sort.dateUpdated.label "Última actualización">
 <!ENTITY sort.dateUpdated.tooltip "Ordenar por fecha de actualización">
 <!ENTITY sort.rating.label "Evaluación">
 <!ENTITY sort.rating.tooltip "Ordenar por evaluación promedio">
-<!ENTITY showMore.label "Mostrar más">
-<!ENTITY showMore.tooltip "Mostrar más detalles">
-<!ENTITY showLess.label "Mostrar menos">
-<!ENTITY showLess.tooltip "Mostrar menos detalles">
 <!ENTITY search.filter.label "Mostrar:">
 <!ENTITY search.filter.installed.label "Sus complementos instalados">
 <!ENTITY search.filter.available.label "Complementos disponibles">
 <!ENTITY addon.homepage "Página de inicio">
+<!ENTITY addon.details.label "Más">
+<!ENTITY addon.details.tooltip "Mostrar más detalles sobre este complemento">
 <!ENTITY addon.unknownDate "Desconocido">
 <!ENTITY addon.disabled.postfix "(desactivado)">
 <!ENTITY addon.update.postfix "Actualizar">
@@ -92,7 +90,6 @@
 <!ENTITY addon.undoUninstall.label "¿Deshacer?">
 <!ENTITY addon.undoUninstall.tooltip "Conservar este complemento instalado">
 <!ENTITY addon.restartNow.label "Reiniciar ahora">
-<!ENTITY addon.restartNow.tooltip "Reiniciar ahora para instalar">
 <!ENTITY addon.install.label "Instalar">
 <!ENTITY addon.install.tooltip "Instalar este complemento">
 <!ENTITY addon.updateNow.label "Actualizar ahora">
