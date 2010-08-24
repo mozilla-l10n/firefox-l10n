@@ -41,7 +41,7 @@
 <!ENTITY  downloadPage.title              "A &brandShortName; letöltése">
 <!ENTITY  downloading.intro               "Frissítés letöltése... ">
 <!ENTITY  connecting.label                "Kapcsolódás a kiszolgálóhoz... ">
-<!ENTITY  verificationFailedText.label    "A &brandShortName; nem tudta ellenőrizni a letöltött inkrementális
+<!ENTITY  verificationFailedText.label    "A &brandShortName; nem tudta ellenőrizni a letöltött különbségi
                                            frissítés sértetlenségét, ezért most kénytelen a teljes frissítési
                                            csomagot letölteni.">
 
