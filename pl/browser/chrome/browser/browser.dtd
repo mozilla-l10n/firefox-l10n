@@ -13,11 +13,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(tryb prywatny)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Przenieś tę kartę do…">
-<!ENTITY  moveTabTo.accesskey                "n">
-<!ENTITY  createNewGroup.label               "Utwórz nową grupę">
-<!ENTITY  createNewGroup.accesskey           "U">
-<!ENTITY  namedGroups.label                  "Grupy nazwane">
 <!ENTITY reloadTab.label                     "Odśwież kartę" >
 <!ENTITY reloadTab.accesskey                 "d" >
 <!ENTITY reloadAllTabs.label                 "Odśwież wszystkie karty" >
@@ -26,10 +21,13 @@
 <!ENTITY closeOtherTabs.accesskey            "i" >
 <!ENTITY openTabInNewWindow.label            "Otwórz w nowym oknie">
 <!ENTITY openTabInNewWindow.accesskey        "O">
-<!ENTITY  pinTab.label                       "Przekształć w kartę aplikacji">
-<!ENTITY  pinTab.accesskey                   "e">
-<!ENTITY  unpinTab.label                     "Przekształć w zwykłą kartę">
-<!ENTITY  unpinTab.accesskey                 "e">
+<!ENTITY pinTab.label                        "Przekształć w kartę aplikacji">
+<!ENTITY pinTab.accesskey                    "e">
+<!ENTITY unpinTab.label                      "Przekształć w zwykłą kartę">
+<!ENTITY unpinTab.accesskey                  "e">
+<!ENTITY moveToGroup.label                   "Przenieś do grupy">
+<!ENTITY moveToGroup.accesskey               "n">
+<!ENTITY moveToNewGroup.label                "Nowa grupa">
 <!ENTITY bookmarkThisTab.label               "Dodaj zakładkę do tej karty">
 <!ENTITY bookmarkThisTab.accesskey           "z">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
@@ -275,11 +273,13 @@
 <!ENTITY showAllHistoryCmd2.label "Wyświetl całą historię">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Drukuj">
 <!ENTITY appMenuCustomize.label "Dostosuj">
 <!ENTITY appMenuToolbarLayout.label "Układ paska narzędzi…">
 <!ENTITY appMenuSidebars.label "Panele boczne">
-<!ENTITY appMenuHelp.label "Pomoc">
+<!ENTITY appMenuFind.label "Znajdź…">
+<!ENTITY appMenuUnsorted.label "Zakładki nieprzypisane">
+<!ENTITY appMenuGettingStarted.label "Pierwsze kroki">
+
 <!ENTITY developerMenu.label "Programowanie">
 
 <!ENTITY openCmd.commandkey "l" >
