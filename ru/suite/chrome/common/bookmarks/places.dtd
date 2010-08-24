@@ -60,7 +60,7 @@
 <!ENTITY cmd.reloadMicrosummary.accesskey "б">
 <!ENTITY cmd.moveBookmarks.label "Переместить…">
 <!ENTITY cmd.moveBookmarks.accesskey "м">
-<!ENTITY col.name.label "Имя">
+<!ENTITY col.title.label "Имя">
 <!ENTITY col.tags.label "Метки">
 <!ENTITY col.url.label "Адрес">
 <!ENTITY col.lastvisit.label "Дата посещения">
