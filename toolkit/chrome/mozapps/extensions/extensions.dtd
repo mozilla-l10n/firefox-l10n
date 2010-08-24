@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label 					  "Procurar">
 <!ENTITY view.discover.label                  "Obter extras">
-<!ENTITY view.locales.label                 "Idiomas">
+<!ENTITY view.locales.label                   "Idiomas">
 <!ENTITY view.searchengines.label             "Motores de pesquisa">
 <!ENTITY view.features.label                  "Extensões">
 <!ENTITY view.appearance.label                "Temas">
@@ -92,24 +92,18 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nome">
 <!ENTITY sort.name.tooltip                    "ordenar por nome">
-<!ENTITY sort.size.label                      "Tamanho">
-<!ENTITY sort.size.tooltip                    "Ordenar por tamanho">
 <!ENTITY sort.dateUpdated.label               "Última actualização">
 <!ENTITY sort.dateUpdated.tooltip             "ordenar por data de actualização">
 <!ENTITY sort.rating.label                    "Avaliação">
 <!ENTITY sort.rating.tooltip                  "Ordenar por avaliação média">
-
-
-<!ENTITY showMore.label                       "Mostrar mais">
-<!ENTITY showMore.tooltip                     "Mostra mais detalhes">
-<!ENTITY showLess.label                       "Mostrar menos">
-<!ENTITY showLess.tooltip                     "Mostra menos detalhes">
 
 <!ENTITY search.filter.label                  "Mostrar:">
 <!ENTITY search.filter.installed.label        "Os seus extras instalados">
 <!ENTITY search.filter.available.label        "Extras disponíveis">
 
 <!ENTITY addon.homepage                       "Página inicial">
+<!ENTITY addon.details.label                  "Mais">
+<!ENTITY addon.details.tooltip                "Mostrar mais detalhes sobre este extra">
 <!ENTITY addon.unknownDate                    "Desconhecido">
 <!ENTITY addon.disabled.postfix               "(desactivado)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -119,7 +113,6 @@
 <!ENTITY addon.undoUninstall.label            "Anular?">
 <!ENTITY addon.undoUninstall.tooltip          "manter este extra instalado">
 <!ENTITY addon.restartNow.label               "Reiniciar agora">
-<!ENTITY addon.restartNow.tooltip             "Reinicia para terminar a instalação">
 <!ENTITY addon.install.label                  "Instalar">
 <!ENTITY addon.install.tooltip                "Instala este extra">
 <!ENTITY addon.updateNow.label                "Actualizar agora">

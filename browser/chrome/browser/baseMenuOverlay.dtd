@@ -18,12 +18,14 @@
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 
-
 <!ENTITY helpReleaseNotes.label "Notas de lançamento">
 <!ENTITY helpReleaseNotes.accesskey "N">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informação sobre problemas…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
+
+<!ENTITY helpFeedbackPage.label      "Submeter Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY updateCmd.label "Procurar actualizações...">
 
