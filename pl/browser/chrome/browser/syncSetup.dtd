@@ -94,5 +94,4 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title.label     "Konfiguracja zakończona!">
-<!ENTITY setup.successPage.desc.label      "Gratulacje! Program &brandShortName; jest teraz skonfigurowany do automatycznej synchronizacji twoich informacji. Pamiętaj, by zainstalować &syncBrand.fullName.label; na wszystkich swoich urządzeniach.
-Możesz teraz kontynuować pracę z programem &brandShortName;.">
+<!ENTITY setup.successPage.desc.label      "Gratulacje! Program &brandShortName; jest teraz skonfigurowany do automatycznej synchronizacji twoich informacji. Pamiętaj, by zainstalować &syncBrand.fullName.label; na wszystkich swoich urządzeniach. Możesz teraz kontynuować pracę z programem &brandShortName;.">
