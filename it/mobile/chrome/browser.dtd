@@ -4,7 +4,6 @@
 <!ENTITY reload.label "Ricarica">
 <!ENTITY stop.label "Stop">
 <!ENTITY go.label "Vai">
-<!ENTITY openLocation.label "Apri indirizzo">
 <!ENTITY star.label "Stella">
 <!ENTITY newtab.label "Nuova scheda">
 <!ENTITY closetab.label "Chiudi scheda">
@@ -16,7 +15,10 @@
 <!ENTITY selectAll.label "Seleziona tutto">
 <!ENTITY noSuggestions.label "(nessun suggerimento)">
 <!ENTITY addToDictionary.label "Aggiungi al dizionario">
+<!ENTITY allPagesHeader.label "Tutte le pagine">
 <!ENTITY bookmarksHeader.label "Segnalibri">
+<!ENTITY historyHeader.label "Cronologia">
+<!ENTITY desktopHeader.label "Desktop">
 <!ENTITY editBookmarkDone.label "Fatto">
 <!ENTITY editBookmarkTags.label "Etichette:">
 <!ENTITY selectHelper.done "Fatto">
