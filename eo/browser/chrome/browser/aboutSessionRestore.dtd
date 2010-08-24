@@ -10,8 +10,6 @@
 
 <!ENTITY restorepage.tryagainButton "Restaŭri">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Komenci novan seancon">
-<!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "Restaŭri">
 <!ENTITY restorepage.listHeader     "Fenestrojn kaj foliojn">

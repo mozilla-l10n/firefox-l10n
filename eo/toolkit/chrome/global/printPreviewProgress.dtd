@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
-<!ENTITY printWindow.title "Antaŭvidi presadon"> 
-<!ENTITY title   "Titolo:"> 
+<!ENTITY printWindow.title "Print Preview"> 
+<!ENTITY title   "Title:"> 
 <!ENTITY preparing "Preparado…">
 <!ENTITY progress "Progreso:">

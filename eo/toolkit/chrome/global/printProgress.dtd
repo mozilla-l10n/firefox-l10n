@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Presado"> 
-<!ENTITY title    "Titolo:"> 
+<!ENTITY title    "Title:"> 
 <!ENTITY progress "Progreso:">
 <!ENTITY preparing "Preparado…">
 <!ENTITY printComplete "La presado finiĝis.">

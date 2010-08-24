@@ -24,13 +24,16 @@
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Make into Normal Tab">
 <!ENTITY  unpinTab.accesskey                 "k">
+<!ENTITY  moveToGroup.label                  "Move to Group">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "New Group">
 <!ENTITY  bookmarkThisTab.label              "Bookmark This Tab">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Undo Close Tab">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "Close Tab">
+<!ENTITY  closeTab.label                     "Fermi folion">
 <!ENTITY  closeTab.accesskey                 "c">
 
 <!ENTITY  listAllTabs.label      "List all tabs">
@@ -102,10 +105,10 @@
 
 <!ENTITY backCmd.label                "Malantaŭen">
 <!ENTITY backCmd.accesskey            "M">
-<!ENTITY backButton.tooltip           "Iri malantaŭen unu paĝo">
+<!ENTITY backButton.tooltip           "Go back one page">
 <!ENTITY forwardCmd.label             "Antaŭen">
 <!ENTITY forwardCmd.accesskey         "A">
-<!ENTITY forwardButton.tooltip        "Iri antaŭen unu paĝo">
+<!ENTITY forwardButton.tooltip        "Go forward one page">
 <!ENTITY backForwardMenu.tooltip      "Recent pages">
 <!ENTITY reloadCmd.label              "Reŝargi">
 <!ENTITY reloadCmd.accesskey          "R">
@@ -127,6 +130,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Eka paĝo">
+<!ENTITY tabViewButton2.label         "Tab Groups">
+<!ENTITY tabViewButton2.tooltip       "Group Your Tabs">
 
 <!ENTITY bookmarksButton.label          "Paĝosignoj">
 <!ENTITY bookmarksButton.tooltip        "Montri viajn paĝosignojn">
@@ -154,7 +159,7 @@
 
 <!ENTITY keywordfield.label           "Aldoni kategorian vorton por tiu ĉi serĉado…">
 <!ENTITY keywordfield.accesskey       "K">
-<!ENTITY search.label                 "TTT serĉado">
+<!ENTITY search.label                 "Web Search">
 <!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "Elŝutoj">
 <!ENTITY downloads.tooltip            "Montri la progreson de la aktivaj elŝutoj">
@@ -186,6 +191,12 @@
 <!ENTITY inspectStyleButton.label     "Style">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Style">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 
 <!ENTITY fileMenu.label         "Dosiero"> 
 <!ENTITY fileMenu.accesskey       "o">
@@ -233,6 +244,8 @@
 
 <!ENTITY viewMenu.label         "Vidi"> 
 <!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY showTabView2.label     "Group Your Tabs…">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label       "Ilaraj strioj"> 
 <!ENTITY viewToolbarsMenu.accesskey     "I"> 
 <!ENTITY viewSidebarMenu.label "Flanka strio">
@@ -252,11 +265,12 @@
 <!ENTITY showAllHistoryCmd2.label "Montri tutan historion">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Print">
 <!ENTITY appMenuCustomize.label "Customize">
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label "Sidebars">
-<!ENTITY appMenuHelp.label "Help">
+<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuGettingStarted.label "Getting Started">
 
 <!ENTITY developerMenu.label "Developer">
 

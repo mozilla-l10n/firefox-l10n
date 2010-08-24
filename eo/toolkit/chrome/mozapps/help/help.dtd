@@ -1,22 +1,22 @@
 <!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY findOnCmd.commandkey           "M">
+<!ENTITY findOnCmd.commandkey           "F">
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "Malantaŭen">
-<!ENTITY backButton.accesskey           "M">
-<!ENTITY backButton.tooltip             "Iri malantaŭen unu paĝo">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "Go back one page">
 <!ENTITY forwardButton.label            "Antaŭen">
 <!ENTITY forwardButton.accesskey        "A">
-<!ENTITY forwardButton.tooltip          "Iri antaŭen unu paĝo">
+<!ENTITY forwardButton.tooltip          "Go forward one page">
 <!ENTITY copyCmd.label                  "Kopii">
 <!ENTITY copyCmd.accesskey              "K">
-<!ENTITY selectAllCmd.label             "Elekti ĉion">
+<!ENTITY selectAllCmd.label             "Elekti Ĉion">
 <!ENTITY selectAllCmd.accesskey         "Ĉ">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Komenco">
+<!ENTITY homeButton.label               "Eka paĝo">
 <!ENTITY homeButton.tooltip             "Al la ĉefa paĝo pri helpo">
 <!ENTITY printButton.label              "Presi">
 <!ENTITY printButton.tooltip            "Presi ĉi tiun paĝon">

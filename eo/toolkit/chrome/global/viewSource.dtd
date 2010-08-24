@@ -9,13 +9,13 @@
 <!ENTITY mainWindow.preface "Fonto de: ">
 
 <!ENTITY fileMenu.label "Dosiero">
-<!ENTITY fileMenu.accesskey "D">
-<!ENTITY savePageCmd.label "Konservi Paĝon Kiel…">
+<!ENTITY fileMenu.accesskey "o">
+<!ENTITY savePageCmd.label "Konservi paĝon kiel…">
 <!ENTITY savePageCmd.accesskey "K">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Agordi paĝon…">
 <!ENTITY pageSetupCmd.accesskey "a">
-<!ENTITY printPreviewCmd.label "Antaŭvidi Presadon">
+<!ENTITY printPreviewCmd.label "Antaŭvidi presadon">
 <!ENTITY printPreviewCmd.accesskey "s">
 <!ENTITY printCmd.label "Presi…">
 <!ENTITY printCmd.accesskey "P">
@@ -63,14 +63,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Serĉi en tiu ĉi paĝo …">
 <!ENTITY findOnCmd.accesskey "S">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Serĉi Denove">
+<!ENTITY findAgainCmd.label  "Serĉi denove">
 <!ENTITY findAgainCmd.accesskey "e">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY backCmd.label "Back">
-<!ENTITY backCmd.accesskey "B">
-<!ENTITY forwardCmd.label "Forward">
-<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY backCmd.label "Malantaŭen">
+<!ENTITY backCmd.accesskey "M">
+<!ENTITY forwardCmd.label "Antaŭen">
+<!ENTITY forwardCmd.accesskey "A">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">

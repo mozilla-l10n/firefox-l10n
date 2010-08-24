@@ -2,7 +2,7 @@
 <!ENTITY     props.value.label              "Enhavo:">
 <!ENTITY     props.domain.label             "Servilo:">
 <!ENTITY     props.path.label               "Vojo:">
-<!ENTITY     props.secure.label             "Sendi al:">
+<!ENTITY     props.secure.label             "Sendi por:">
 <!ENTITY     props.expires.label            "Senvalidiĝos:">
 <!ENTITY     props.policy.label             "Politiko:"> 
 
@@ -13,6 +13,6 @@
 <!ENTITY     button.deny.label              "Rifuzi">
 <!ENTITY     button.deny.accesskey          "R">
 
-<!ENTITY     dialog.title                   "Konfirmi la difinon de kuketo">
+<!ENTITY     dialog.title                   "Confirm setting cookie">
 <!ENTITY     dialog.remember.label          "Uzi mian elekton por ĉiuj kuketoj el tiu ĉi retejo">
 <!ENTITY     dialog.remember.accesskey      "U">
