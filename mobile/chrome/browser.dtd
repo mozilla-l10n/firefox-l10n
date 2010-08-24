@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "Recargar">
 <!ENTITY stop.label            "Detener">
 <!ENTITY go.label              "Ir">
-<!ENTITY openLocation.label    "Abrir dirección">
 <!ENTITY star.label            "Destacado">
 
 <!ENTITY newtab.label          "Nueva pestaña">
@@ -20,7 +19,10 @@
 <!ENTITY noSuggestions.label   "(Sin sugerencias)">
 <!ENTITY addToDictionary.label "Agregar al diccionario">
 
+<!ENTITY allPagesHeader.label      "Todas las páginas">
 <!ENTITY bookmarksHeader.label     "Marcadores">
+<!ENTITY historyHeader.label       "Historial">
+<!ENTITY desktopHeader.label       "Escritorio">
 
 <!ENTITY editBookmarkDone.label    "Terminado">
 <!ENTITY editBookmarkTags.label    "Agregar etiquetas aquí">
