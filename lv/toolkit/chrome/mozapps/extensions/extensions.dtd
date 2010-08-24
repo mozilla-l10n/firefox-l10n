@@ -7,12 +7,10 @@
 <!ENTITY progress.pause.tooltip               "Apturēt">
 <!ENTITY progress.cancel.tooltip              "Atcelt">
 
-<!ENTITY showMore.label                       "Rādīt vairāk">
-<!ENTITY showMore.tooltip                     "Rādīt vairāk informācijas">
-<!ENTITY showLess.label                       "Rādīt mazāk">
-<!ENTITY showLess.tooltip                     "Rādīt mazāk informācijas">
 <!ENTITY installFromFile.label                "Instalēt no faila…">
 <!ENTITY installFromFile.accesskey            "I">
+<!ENTITY addon.details.label                  "Vairāk">
+<!ENTITY addon.details.tooltip                "Rādīt vairāk informācijas par šo papildinājumu">
 
 <!-- Command Bar items -->
 
@@ -93,7 +91,6 @@
 <!ENTITY addon.undoUninstall.label            "Atcelt?">
 <!ENTITY addon.undoUninstall.tooltip          "Atstāt šo papildinājumu">
 <!ENTITY addon.restartNow.label               "Pārstartēt">
-<!ENTITY addon.restartNow.tooltip             "Pārstartēt, lai pabeigtu instalēšanu">
 <!ENTITY addon.install.tooltip                "Instalēt šo papildinājumu">
 <!ENTITY addon.checkingForUpdates.label       "Meklē atjauninājumus…">
 
@@ -105,8 +102,6 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nosaukums">
 <!ENTITY sort.name.tooltip                    "Kārtot pēc nosaukuma">
-<!ENTITY sort.size.label                      "Izmērs">
-<!ENTITY sort.size.tooltip                    "Kārtot pēc izmēra">
 <!ENTITY sort.dateUpdated.label               "Atjaunināts">
 <!ENTITY sort.dateUpdated.tooltip             "Kārtot pēc atjaunināšanas datuma">
 <!ENTITY sort.rating.label                    "Vērtējums">
