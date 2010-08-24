@@ -76,9 +76,11 @@
 <!ENTITY sort.dateUpdated.tooltip "Сортировать по дате обновления">
 <!ENTITY sort.rating.label "Рейтинг">
 <!ENTITY sort.rating.tooltip "Сортировать по среднему рейтингу">
-<!ENTITY search.filter.label "Показать:">
-<!ENTITY search.filter.installed.label "Установленные вами дополнения">
-<!ENTITY search.filter.available.label "Доступные дополнения">
+<!ENTITY search.filter2.label "Поиск среди:">
+<!ENTITY search.filter2.installed.label "Моих дополнений">
+<!ENTITY search.filter2.installed.tooltip "Показать установленные дополнения">
+<!ENTITY search.filter2.available.label "Доступных дополнений">
+<!ENTITY search.filter2.available.tooltip "Показать дополнения доступные для установки">
 <!ENTITY addon.homepage "Домашняя страница">
 <!ENTITY addon.details.label "Подробнее">
 <!ENTITY addon.details.tooltip "Подробнее об этом дополнении">
