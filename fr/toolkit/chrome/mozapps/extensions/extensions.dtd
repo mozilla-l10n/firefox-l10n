@@ -95,9 +95,11 @@
 <!ENTITY sort.rating.label                "Appréciation">
 <!ENTITY sort.rating.tooltip              "Trier par appréciation">
 
-<!ENTITY search.filter.label              "Afficher :">
-<!ENTITY search.filter.installed.label    "Vos modules installés">
-<!ENTITY search.filter.available.label    "Modules disponibles">
+<!ENTITY search.filter2.label                 "Rechercher :">
+<!ENTITY search.filter2.installed.label       "Mes modules complémentaires">
+<!ENTITY search.filter2.installed.tooltip     "Afficher les modules complémentaires installés">
+<!ENTITY search.filter2.available.label       "Modules complémentaires disponibles">
+<!ENTITY search.filter2.available.tooltip     "Afficher les modules complémentaires disponibles à l'installation">
 
 <!ENTITY addon.homepage                   "Page d'accueil">
 <!ENTITY addon.details.label                  "Plus">
