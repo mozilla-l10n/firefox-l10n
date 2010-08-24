@@ -1073,7 +1073,7 @@
      <rdf:li>
        <rdf:Description ID="Newsgroups"
          nc:name="grupos de noticias"
-         nc:link="mail_help.xhtml#getting_started_with_newsgroups"/>
+         nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="save"
@@ -1102,7 +1102,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Newsgroups:getting_started"
          nc:name="comenzar con los grupos de noticias"
-         nc:link="mail_help.xhtml#getting_started_with_newsgroups"/>
+         nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Newsgroups:server_settings"

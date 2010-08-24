@@ -60,7 +60,7 @@
 <!ENTITY cmd.reloadMicrosummary.accesskey "R">
 <!ENTITY cmd.moveBookmarks.label "Mover…">
 <!ENTITY cmd.moveBookmarks.accesskey "M">
-<!ENTITY col.name.label "Nombre">
+<!ENTITY col.title.label "Nombre">
 <!ENTITY col.tags.label "Etiquetas">
 <!ENTITY col.url.label "Dirección">
 <!ENTITY col.lastvisit.label "Fecha de visita">
