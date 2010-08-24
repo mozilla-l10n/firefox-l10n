@@ -73,7 +73,7 @@
 <!ENTITY cmd.moveBookmarks.label                  "Mover...">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
-<!ENTITY col.name.label          "Nome">
+<!ENTITY col.title.label          "Nome">
 <!ENTITY col.tags.label          "Etiquetas">
 <!ENTITY col.url.label           "Local">
 <!ENTITY col.lastvisit.label     "Data de visita">
