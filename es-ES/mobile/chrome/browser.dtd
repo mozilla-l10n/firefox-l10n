@@ -4,7 +4,6 @@
 <!ENTITY reload.label "Recargar">
 <!ENTITY stop.label "Parar">
 <!ENTITY go.label "Ir">
-<!ENTITY openLocation.label "Abrir enlace">
 <!ENTITY star.label "Marcar">
 <!ENTITY newtab.label "Pestaña nueva">
 <!ENTITY closetab.label "Cerrar pestaña">
@@ -16,7 +15,10 @@
 <!ENTITY selectAll.label "Seleccionar todo">
 <!ENTITY noSuggestions.label "(Sin sugerencias)">
 <!ENTITY addToDictionary.label "Añadir al diccionario">
+<!ENTITY allPagesHeader.label "Todas las páginas">
 <!ENTITY bookmarksHeader.label "Marcadores">
+<!ENTITY historyHeader.label "Historial">
+<!ENTITY desktopHeader.label "Escritorio">
 <!ENTITY editBookmarkDone.label "Terminar">
 <!ENTITY editBookmarkTags.label "Añada etiquetas aquí">
 <!ENTITY selectHelper.done "Terminar">
