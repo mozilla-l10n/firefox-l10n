@@ -5,7 +5,7 @@
 <!ENTITY filterMenuList.label   "Dosieroj de tipo:">
 <!ENTITY filterMenuList.accesskey   "t">
 <!ENTITY name.label             "Nomo">
-<!ENTITY size.label             "Grando">
+<!ENTITY size.label             "Size">
 <!ENTITY lastModified.label     "Laste Modifita">
 <!ENTITY showHiddenFiles.label  "Montri kaŝitajn dosierojn kaj dosierujojn">
 <!ENTITY showHiddenFiles.accesskey  "M">

@@ -1,4 +1,4 @@
-<!ENTITY  updateWizard.title              "Ĝisdatigo de programo">
+<!ENTITY  updateWizard.title              "Software Update">
 
 <!ENTITY  checking.title                  "Kontrolado de ĝisdatigoj">
 <!ENTITY  updateCheck.label               "Serĉado de novaj versioj de &brandShortName;…">
@@ -38,7 +38,7 @@ por daŭrigi la instaladon de ĉi tiu ĝisdatigo.">
 
 <!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 <!ENTITY  downloading.intro               "Elŝutado de ĝisdatigo…">
-<!ENTITY  connecting.label                "Konektado al la ĝisdatiga servilo…">
+<!ENTITY  connecting.label                "Connecting to the update server…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ne povis kontroli la sanon de la 
 poioma ĝisdatigo kiun ĝi elŝutis kaj 
 do ĝi elŝutas nun la tutan ĝisdatigan pakon.">

@@ -2,6 +2,6 @@
 
 <!ENTITY endDescription.label              "Vi povas alklaki tiun ĉi bildsimbolon por vidi kiujn retejojn &brandShortName; blokis kaj por permesi al tiuj retejoj malfermi ŝprucfenestrojn se ili estas postulataj por korekta funkciado de retejo.">
 
-<!ENTITY caption.label                     "Pri blokado de ŝprucfenestroj">
+<!ENTITY caption.label                     "About Pop-up Blocking">
 
-<!ENTITY done.label "Preta">
+<!ENTITY done.label "Done">

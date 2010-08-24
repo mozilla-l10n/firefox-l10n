@@ -2,7 +2,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Permesi al paĝoj elekti proprajn kolorojn anstataŭ tiujn kiujn mi elektis supre">
+<!ENTITY  allowPagesToUse.label           "Allow pages to choose their own colors, instead of my selections above">
 <!ENTITY  allowPagesToUse.accesskey       "P">
 
 <!ENTITY  color                           "Teksto kaj fono">

@@ -1,15 +1,15 @@
 <!ENTITY cutCmd.label "Eltondi">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopii">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Alglui">
-<!ENTITY pasteCmd.accesskey "a">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Malfari">
-<!ENTITY undoCmd.accesskey "m">
+<!ENTITY undoCmd.accesskey "u">
 <!ENTITY selectAllCmd.label "Elekti Ĉion">
-<!ENTITY selectAllCmd.accesskey "ĉ">
+<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Forviŝi">
-<!ENTITY deleteCmd.accesskey "f">
+<!ENTITY deleteCmd.accesskey "d">
 
 <!ENTITY spellAddToDictionary.label "Aldoni al vortaro">
 <!ENTITY spellAddToDictionary.accesskey "a">

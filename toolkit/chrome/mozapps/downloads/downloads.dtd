@@ -41,7 +41,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Fermi kiam elŝutadoj finiĝas">
+<!ENTITY closeWhenDone.label              "Close when downloads complete">
 <!ENTITY closeWhenDone.tooltip            "Fermo de la elŝutada fenestro kiam ĉiuj dosieroj estas elŝutitaj">
 
 <!ENTITY showFolder.label                 "Montri tiun ĉi dosierujon">

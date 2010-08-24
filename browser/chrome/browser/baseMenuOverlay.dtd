@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
 <!ENTITY updateCmd.label                "Kontroli ĉu estas ĝisdatigoj…">
 
 <!ENTITY preferencesCmdMac.label        "Preferoj…">

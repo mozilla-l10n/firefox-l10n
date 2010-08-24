@@ -45,10 +45,10 @@
 <!ENTITY scale.label          "Skalo:">
 <!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label       "Vertikala">
-<!ENTITY portrait.accesskey   "e">
+<!ENTITY portrait.accesskey   "o">
 <!ENTITY landscape.label      "Horizontala">
 <!ENTITY landscape.accesskey  "H">
-<!ENTITY close.label          "Fermi">
+<!ENTITY close.label          "Close">
 <!ENTITY close.accesskey      "F">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
@@ -63,8 +63,8 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Persone agordite…">
-<!ENTITY ShrinkToFit.label    "Malgrandigi por adapti">
-<!ENTITY customPrompt.title   "Persone agordita skalo…">
+<!ENTITY ShrinkToFit.label    "Shrink To Fit">
+<!ENTITY customPrompt.title   "Custom Scale…">
 
 <!ENTITY homearrow.tooltip    "Unua paĝo">
 <!ENTITY endarrow.tooltip     "Lasta paĝo">

@@ -4,14 +4,14 @@
 <!ENTITY findField.label "Kion serĉi:">
 <!ENTITY findField.accesskey "k">
 <!ENTITY caseSensitiveCheckbox.label "Distingi inter majuskloj kaj minuskloj">
-<!ENTITY caseSensitiveCheckbox.accesskey "d">
+<!ENTITY caseSensitiveCheckbox.accesskey "i">
 <!ENTITY wrapCheckbox.label "post la fino ekde la eko">
 <!ENTITY wrapCheckbox.accesskey "P">
 <!ENTITY findButton.label "Serĉi venontan">
 <!ENTITY findButton.accesskey "S">
 <!ENTITY cancelButton.label "Nuligi">
 <!ENTITY closeButton.label "Fermi">
-<!ENTITY up.label "Supren">
+<!ENTITY up.label "Up">
 <!ENTITY up.accesskey "S">
 <!ENTITY down.label "Malsupren">
 <!ENTITY down.accesskey "M">

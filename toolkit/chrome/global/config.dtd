@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title "pri:agordo">
+<!ENTITY window.title "about:config">
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
@@ -50,7 +50,7 @@
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nomo de prefero">
 <!ENTITY lockColumn.label "Stato">
-<!ENTITY typeColumn.label "Tipo">
+<!ENTITY typeColumn.label "Type">
 <!ENTITY valueColumn.label "Valoro">
 
 <!-- Tooltips -->
