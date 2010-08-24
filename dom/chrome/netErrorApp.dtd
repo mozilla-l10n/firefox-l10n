@@ -3,5 +3,5 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Vai arī varat pievienot izņēmumu…">
-<!ENTITY securityOverride.warningText "<p>Jums nevajadzētu pievienot izņēmumus, ja izmantojat Interneta savienojumu, kuram pilnībā neuzticaties vai arī, ja redzat brīdinājumu serverī, kurā parasti viss ir kārtībā.</p> 
+<!ENTITY securityOverride.warningContent "<p>Jums nevajadzētu pievienot izņēmumus, ja izmantojat Interneta savienojumu, kuram pilnībā neuzticaties vai arī, ja redzat brīdinājumu serverī, kurā parasti viss ir kārtībā.</p> 
 <p>Ja joprojām vēlaties pievienot izņēmumu, to varat izdarīt paplašinātajos pārlūka šifrēšanas iestatījumos.</p>">
