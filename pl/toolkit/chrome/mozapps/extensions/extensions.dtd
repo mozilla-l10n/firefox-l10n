@@ -9,6 +9,9 @@
 <!ENTITY listEmpty.search.label               "Nie znaleziono pasujących dodatków">
 <!ENTITY listEmpty.button.label               "Więcej informacji o dodatkach">
 
+<!ENTITY installFromFile.label                "Zainstaluj z pliku…">
+<!ENTITY installFromFile.accesskey            "Z">
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Szukaj">
@@ -39,7 +42,7 @@
 <!ENTITY cmd.showDetails.label                "Wyświetl więcej informacji">
 <!ENTITY cmd.showDetails.accesskey            "W">
 <!ENTITY cmd.findUpdates.label                "Znajdź aktualizacje">
-<!ENTITY cmd.findUpdates.accesskey            "Z">
+<!ENTITY cmd.findUpdates.accesskey            "n">
 <!ENTITY cmd.preferences.label                "Preferencje">
 <!ENTITY cmd.preferences.accesskey            "P">
 <!ENTITY cmd.about.label                      "O tym dodatku">
