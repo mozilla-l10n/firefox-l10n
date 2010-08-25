@@ -10,6 +10,8 @@
 
 <!ENTITY restorepage.tryagainButton "Herstellen">
 <!ENTITY restorepage.restore.access "e">
+<!ENTITY restorepage.cancelButton   "Nieuwe sessie starten">
+<!ENTITY restorepage.cancel.access  "N">
 
 <!ENTITY restorepage.restoreHeader  "Herstellen">
 <!ENTITY restorepage.listHeader     "Vensters en tabbladen">
