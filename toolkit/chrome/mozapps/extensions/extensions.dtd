@@ -97,9 +97,11 @@
 <!ENTITY sort.rating.label                    "Avaliação">
 <!ENTITY sort.rating.tooltip                  "Ordenar por avaliação média">
 
-<!ENTITY search.filter.label                  "Mostrar:">
-<!ENTITY search.filter.installed.label        "Os seus extras instalados">
-<!ENTITY search.filter.available.label        "Extras disponíveis">
+<!ENTITY search.filter2.label                 "Pesquisar:">
+<!ENTITY search.filter2.installed.label       "Os seus extras instalados">
+<!ENTITY search.filter2.installed.tooltip     "Mostrar extras instalados">
+<!ENTITY search.filter2.available.label       "Extras disponíveis">
+<!ENTITY search.filter2.available.tooltip     "Mostrar extras disponíveis para instalar">
 
 <!ENTITY addon.homepage                       "Página inicial">
 <!ENTITY addon.details.label                  "Mais">
