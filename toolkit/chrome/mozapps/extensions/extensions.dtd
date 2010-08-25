@@ -97,9 +97,11 @@
 <!ENTITY sort.rating.label                    "Puntuación">
 <!ENTITY sort.rating.tooltip                  "Ordenar por puntuación promedio">
 
-<!ENTITY search.filter.label                  "Mostrar:">
-<!ENTITY search.filter.installed.label        "Sus complementos instalados">
-<!ENTITY search.filter.available.label        "Complementos disponibles">
+<!ENTITY search.filter2.label                 "Buscar:">
+<!ENTITY search.filter2.installed.label       "Mis complementos">
+<!ENTITY search.filter2.installed.tooltip     "Mostrar complementos instalados">
+<!ENTITY search.filter2.available.label       "Complementos disponibles">
+<!ENTITY search.filter2.available.tooltip     "Mostrar complemen tos disponibles para instalar">
 
 <!ENTITY addon.homepage                       "Sitio web">
 <!ENTITY addon.details.label                  "Más">
