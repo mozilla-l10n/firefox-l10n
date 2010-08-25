@@ -10,6 +10,8 @@
 
 <!ENTITY restorepage.tryagainButton "Obnovit">
 <!ENTITY restorepage.restore.access "O">
+<!ENTITY restorepage.cancelButton "Začít novou relaci">
+<!ENTITY restorepage.cancel.access  "Z">
 
 <!ENTITY restorepage.restoreHeader "Obnovit">
 <!ENTITY restorepage.listHeader "Okna a panely">

@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label "Technické informace…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
+<!ENTITY helpFeedbackPage.label "Odeslat zpětnou vazbu…">
+<!ENTITY helpFeedbackPage.accesskey "s">
+
 <!ENTITY updateCmd.label "Zkontrolovat aktualizace…">
 
 <!ENTITY preferencesCmdMac.label "Předvolby…">
