@@ -95,9 +95,11 @@
 <!ENTITY sort.rating.label                    "Beoordeling">
 <!ENTITY sort.rating.tooltip                  "Sorteren op gemiddelde beoordeling">
 
-<!ENTITY search.filter.label                  "Tonen:">
-<!ENTITY search.filter.installed.label        "Uw geïnstalleerde add-ons">
-<!ENTITY search.filter.available.label        "Beschikbare add-ons">
+<!ENTITY search.filter2.label                 "Zoeken:">
+<!ENTITY search.filter2.installed.label       "Mijn add-ons">
+<!ENTITY search.filter2.installed.tooltip     "Geïnstalleerde add-ons tonen">
+<!ENTITY search.filter2.available.label       "Beschikbare add-ons">
+<!ENTITY search.filter2.available.tooltip     "Add-ons beschikbaar om te installeren tonen">
 
 <!ENTITY addon.homepage                       "Homepage">
 <!ENTITY addon.details.label                  "Meer">
