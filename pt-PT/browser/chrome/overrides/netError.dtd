@@ -178,6 +178,6 @@ functionality specific to firefox. -->
 <!ENTITY securityOverride.warningContent "
 <p>Não deve adicionar uma excepção se estiver a utilizar uma ligação à Internet em que não confie plenamente ou se não está habituado a ver um aviso deste servidor.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
