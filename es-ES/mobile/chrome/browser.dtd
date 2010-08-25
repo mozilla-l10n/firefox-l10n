@@ -70,6 +70,8 @@
 <!ENTITY contextSaveImage.label "Guardar imagen">
 <!ENTITY contextShareLink.label "Compartir enlace">
 <!ENTITY contextShareImage.label "Compartir imagen">
+<!ENTITY contextSaveVideo.label "Guardar vídeo">
+<!ENTITY contextShareVideo.label "Compartir vídeo">
 <!ENTITY contextEditBookmark.label "Editar">
 <!ENTITY contextRemoveBookmark.label "Eliminar">
 <!ENTITY pageactions.saveas.pdf "Guardar como PDF">
