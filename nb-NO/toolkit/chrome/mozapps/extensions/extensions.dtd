@@ -19,7 +19,7 @@
 <!ENTITY view.features.label                  "Utvidelser">
 <!ENTITY view.appearance.label                "Temaer">
 <!ENTITY view.plugins.label                   "Programtillegg">
-<!ENTITY view.recentUpdates.label             "Nylig oppdatert">
+<!ENTITY view.recentUpdates.label             "Nylige oppdateringer">
 <!ENTITY view.availableUpdates.label          "Tilgjengelige oppdateringer">
 
 <!-- addon updates -->
@@ -92,24 +92,20 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Navn">
 <!ENTITY sort.name.tooltip                    "Sorter etter navn">
-<!ENTITY sort.size.label                      "Størrelse">
-<!ENTITY sort.size.tooltip                    "Sorter etter størrelse">
 <!ENTITY sort.dateUpdated.label               "Sist oppdatert">
 <!ENTITY sort.dateUpdated.tooltip             "Sorter etter dato oppdatert">
 <!ENTITY sort.rating.label                    "Karakter">
 <!ENTITY sort.rating.tooltip                  "Sorter etter gjennomsnittlig vurdering">
 
-
-<!ENTITY showMore.label                       "Vis mer">
-<!ENTITY showMore.tooltip                     "Vis flere detaljer">
-<!ENTITY showLess.label                       "Vis mindre">
-<!ENTITY showLess.tooltip                     "Vis mindre detaljer">
-
-<!ENTITY search.filter.label                  "Vis:">
-<!ENTITY search.filter.installed.label        "Installerte utvidelser">
-<!ENTITY search.filter.available.label        "Tilgjengelige utvidelser">
+<!ENTITY search.filter2.label                 "Søk:">
+<!ENTITY search.filter2.installed.label       "Installerte utvidelser">
+<!ENTITY search.filter2.installed.tooltip     "Vis installerte utvidelser">
+<!ENTITY search.filter2.available.label       "Tilgjengelige utvidelser">
+<!ENTITY search.filter2.available.tooltip     "Vis utvidelser som kan installeres">
 
 <!ENTITY addon.homepage                       "Hjemmeside">
+<!ENTITY addon.details.label                  "Mer">
+<!ENTITY addon.details.tooltip                "Vis mer informasjon om denne utvidelsen">
 <!ENTITY addon.unknownDate                    "Ukjent">
 <!ENTITY addon.disabled.postfix               "(avslått)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -119,7 +115,6 @@
 <!ENTITY addon.undoUninstall.label            "Angre?">
 <!ENTITY addon.undoUninstall.tooltip          "Behold denne utvidelsen installert">
 <!ENTITY addon.restartNow.label               "Start på nytt nå">
-<!ENTITY addon.restartNow.tooltip             "Start på nytt for å fullføre installeringen">
 <!ENTITY addon.install.label                  "Installer">
 <!ENTITY addon.install.tooltip                "Installer denne utvidelsen">
 <!ENTITY addon.updateNow.label                "Oppdater nå">

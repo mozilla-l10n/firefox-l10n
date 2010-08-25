@@ -10,6 +10,8 @@
 
 <!ENTITY restorepage.tryagainButton "Gjenopprett">
 <!ENTITY restorepage.restore.access "G">
+<!ENTITY restorepage.cancelButton   "Start ny programøkt">
+<!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "Gjenopprett">
 <!ENTITY restorepage.listHeader     "Vinduer og faner">
