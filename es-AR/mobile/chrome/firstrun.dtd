@@ -5,7 +5,7 @@
 <!ENTITY firstrun.addons.title         "Obtener complementos">
 <!ENTITY firstrun.addons.description   "Instalá complementos para mejorar tu experiencia con &brandShortName;">
 <!ENTITY firstrun.home.title           "Primeros pasos">
-<!ENTITY firstrun.home.description     "Tap para ir a tu página de inicio personalizada y comenzar a navegar la web">
+<!ENTITY firstrun.home.description     "Presioná para ir a tu página de inicio personalizada y comenzar a navegar la web">
 <!ENTITY firstrun.relNotes.label       "Mirá las notas de la versión">
 <!ENTITY firstrun.faq                  "Preguntas frecuentes">
 <!ENTITY firstrun.privacy              "Política de privacidad">
