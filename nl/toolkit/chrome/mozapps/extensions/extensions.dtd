@@ -90,23 +90,18 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Naam">
 <!ENTITY sort.name.tooltip                    "Sorteren op naam">
-<!ENTITY sort.size.label                      "Grootte">
-<!ENTITY sort.size.tooltip                    "Sorteren op grootte">
 <!ENTITY sort.dateUpdated.label               "Laatste update">
 <!ENTITY sort.dateUpdated.tooltip             "Sorteren op updatedatum">
 <!ENTITY sort.rating.label                    "Beoordeling">
 <!ENTITY sort.rating.tooltip                  "Sorteren op gemiddelde beoordeling">
-
-<!ENTITY showMore.label                       "Meer tonen">
-<!ENTITY showMore.tooltip                     "Meer details tonen">
-<!ENTITY showLess.label                       "Minder tonen">
-<!ENTITY showLess.tooltip                     "Minder details tonen">
 
 <!ENTITY search.filter.label                  "Tonen:">
 <!ENTITY search.filter.installed.label        "Uw geïnstalleerde add-ons">
 <!ENTITY search.filter.available.label        "Beschikbare add-ons">
 
 <!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.details.label                  "Meer">
+<!ENTITY addon.details.tooltip                "Meer details over deze add-on tonen">
 <!ENTITY addon.unknownDate                    "Onbekend">
 <!ENTITY addon.disabled.postfix               "(uitgeschakeld)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
