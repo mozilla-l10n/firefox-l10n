@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "Création d'un compte courrier">
 <!ENTITY name.label                      "Vos nom et prénom :">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "Prénom Nom">
+<!ENTITY name.placeholder                "Prénom Nom">
 <!ENTITY name.text                       "Votre nom, tel qu'il s'affichera">
 <!ENTITY email.label                     "Adresse électronique :">
 <!ENTITY email.accesskey                 "A">
-<!ENTITY email.emptytext                 "adresse@exemple.fr">
+<!ENTITY email.placeholder               "adresse@exemple.com">
 <!ENTITY password.label                  "Mot de passe :">
 <!ENTITY password.accesskey              "M">
-<!ENTITY password.emptytext              "Mot de passe">
+<!ENTITY password.placeholder            "Mot de passe">
 <!ENTITY password.text                   "Optionnel, ne sera utilisé que pour valider l'identifiant">
 
 <!ENTITY accountInformation.label        "Information de compte">
