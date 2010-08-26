@@ -110,6 +110,8 @@
 <!ENTITY search.filter.available.label        "Tillgängliga tillägg">
 
 <!ENTITY addon.homepage                       "Webbplats">
+<!ENTITY addon.details.label                  "Mer">
+<!ENTITY addon.details.tooltip                "Visar fler detaljer om det här tillägget">
 <!ENTITY addon.unknownDate                    "Okänt">
 <!ENTITY addon.disabled.postfix               "(inaktiverat)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -119,7 +121,6 @@
 <!ENTITY addon.undoUninstall.label            "Ångra?">
 <!ENTITY addon.undoUninstall.tooltip          "Behåll tillägget installerat">
 <!ENTITY addon.restartNow.label               "Starta om nu">
-<!ENTITY addon.restartNow.tooltip             "Startar om och slutför installationen">
 <!ENTITY addon.install.label                  "Installera">
 <!ENTITY addon.install.tooltip                "Installerar detta tillägg">
 <!ENTITY addon.updateNow.label                "Uppdatera nu">
