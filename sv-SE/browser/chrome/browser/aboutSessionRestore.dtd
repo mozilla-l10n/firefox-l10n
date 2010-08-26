@@ -10,6 +10,8 @@
 
 <!ENTITY restorepage.tryagainButton "Återställ">
 <!ENTITY restorepage.restore.access "Å">
+<!ENTITY restorepage.cancelButton   "Starta ny session">
+<!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "Återställ">
 <!ENTITY restorepage.listHeader     "Fönster och flikar">
