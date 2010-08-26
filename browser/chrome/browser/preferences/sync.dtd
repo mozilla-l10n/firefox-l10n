@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-konto">
-<!ENTITY currentUser.label            "Aktiv brukar">
+<!ENTITY currentUser.label            "Aktiv brukar:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Oppdater">
@@ -16,11 +16,11 @@
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY changePassword.label         "Endre passord">
 <!ENTITY changePassphrase.label       "Endre hemmeleg setning">
-<!ENTITY resetSync.label              "Tilbakestill Synk">
+<!ENTITY resetSync.label              "Tilbakestill Sync">
 <!ENTITY differentAccount.label       "Bruk ein annan konto">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Nettlesar-synk">
+<!ENTITY syncPrefsCaption.label       "Nettlesar-synkronisering">
 <!ENTITY syncComputerName.label       "Datamaskinnamn:">
 <!ENTITY syncComputerName.accesskey   "D">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; vil: ">
