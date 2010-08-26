@@ -156,8 +156,8 @@
 <!ENTITY inspectStyleButton.label "Стиль">
 <!ENTITY inspectStyleButton.accesskey "и">
 <!ENTITY inspectStylePanelTitle.label "Стиль">
-<!ENTITY inspectDOMButton.label "DOM">
-<!ENTITY inspectDOMButton.accesskey "D">
+<!ENTITY inspectObjectButton.label "Объект">
+<!ENTITY inspectObjectButton.accesskey "б">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newNavigatorCmd.label "Новое окно">
