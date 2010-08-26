@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Brabhsáil Phríobháideach)">
 <!-- Tab context menu -->
 
-<!ENTITY moveTabTo.label "Bog an Cluaisín seo go…">
-<!ENTITY moveTabTo.accesskey "B">
-<!ENTITY createNewGroup.label "Cruthaigh Grúpa Nua">
-<!ENTITY createNewGroup.accesskey "C">
-<!ENTITY namedGroups.label "Grúpaí Ainmnithe">
 <!ENTITY reloadTab.label "Athluchtaigh Cluaisín">
 <!ENTITY reloadTab.accesskey "A">
 <!ENTITY reloadAllTabs.label "Athluchtaigh Gach Cluaisín">
@@ -29,6 +24,9 @@
 <!ENTITY pinTab.accesskey "F">
 <!ENTITY unpinTab.label "Déan Gnáthchluaisín As">
 <!ENTITY unpinTab.accesskey "G">
+<!ENTITY moveToGroup.label "Bog go Grúpa">
+<!ENTITY moveToGroup.accesskey "B">
+<!ENTITY moveToNewGroup.label "Grúpa Nua">
 <!ENTITY bookmarkThisTab.label "Cruthaigh Leabharmharc don Chluaisín Seo">
 <!ENTITY bookmarkThisTab.accesskey "b">
 <!ENTITY bookmarkAllTabs.label "Leabharmharcáil Gach Cluaisín…">
@@ -193,6 +191,12 @@
 <!ENTITY inspectStyleButton.label "Stíl">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label "Stíl">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label "Réad">
+<!ENTITY inspectObjectButton.accesskey "R">
 
 <!ENTITY fileMenu.label "Comhad">
 <!ENTITY fileMenu.accesskey "C">
@@ -261,11 +265,12 @@
 <!ENTITY showAllHistoryCmd2.label "Taispeáin an Stair Iomlán">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Priontáil">
 <!ENTITY appMenuCustomize.label "Saincheap">
 <!ENTITY appMenuToolbarLayout.label "Leagan Amach an Bharra Uirlisí…">
 <!ENTITY appMenuSidebars.label "Barraí Taoibh">
-<!ENTITY appMenuHelp.label "Cabhair">
+<!ENTITY appMenuFind.label "Aimsigh…">
+<!ENTITY appMenuUnsorted.label "Leabharmharcanna Gan Sórtáil">
+<!ENTITY appMenuGettingStarted.label "Tús Maith">
 
 <!ENTITY developerMenu.label "Forbróir">
 

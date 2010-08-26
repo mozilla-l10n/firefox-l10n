@@ -46,5 +46,3 @@
 <!ENTITY clickFinish.label "Cliceáil Críochnaigh chun leanúint ar aghaidh le &brandShortName; a thosú.">
 <!ENTITY clickFinish.labelMac 'Cliceáil "Déanta" chun leanúint ar aghaidh le &brandShortName; a thosú.'>
 <!ENTITY enableChecking.label "Lig do &brandShortName; nuashonruithe a lorg.">
-<!ENTITY details.label "Mionsonraí…">
-<!ENTITY details.accesskey "M">

@@ -3,4 +3,4 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Nó is féidir leat eisceacht a chruthú…">
-<!ENTITY securityOverride.warningText "<p>Ní ceart duit eisceacht a chruthú mura bhfuil muinín agat as do cheangal Idirlín, nó mura bhfuil tú cleachta le rabhadh a fheiceáil ón bhfreastalaí seo.</p> <p>Má tá tú cinnte go dteastaíonn uait eisceacht a chruthú don suíomh seo, is féidir é sin a dhéanamh sna hardsocruithe chriptiúcháin.</p>">
+<!ENTITY securityOverride.warningContent "<p>Ní ceart duit eisceacht a chruthú mura bhfuil muinín agat as do cheangal Idirlín, nó mura bhfuil tú cleachta le rabhadh a fheiceáil ón bhfreastalaí seo.</p> <p>Má tá tú cinnte go dteastaíonn uait eisceacht a chruthú don suíomh seo, is féidir é sin a dhéanamh sna hardsocruithe chriptiúcháin.</p>">

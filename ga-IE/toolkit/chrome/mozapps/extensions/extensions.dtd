@@ -7,9 +7,10 @@
 <!ENTITY listEmpty.findUpdates.label "Lorg Nuashonruithe">
 <!ENTITY listEmpty.search.label "Níor aimsíodh aon bhreiseáin chomhoiriúnacha">
 <!ENTITY listEmpty.button.label "Tuilleadh eolais faoi bhreiseáin">
+<!ENTITY installFromFile.label "Suiteáil ó chomhad…">
+<!ENTITY installFromFile.accesskey "i">
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
-
 
 <!ENTITY view.search.label "Cuardach">
 <!ENTITY view.discover.label "Faigh Breiseáin">
@@ -91,24 +92,20 @@
 
 <!ENTITY sort.name.label "Ainm">
 <!ENTITY sort.name.tooltip "Sórtáil de réir ainm">
-<!ENTITY sort.size.label "Méid">
-<!ENTITY sort.size.tooltip "Sórtáil de réir méide">
 <!ENTITY sort.dateUpdated.label "Nuashonraithe">
 <!ENTITY sort.dateUpdated.tooltip "Sórtáil de réir dáta nuashonraithe">
 <!ENTITY sort.rating.label "Rátáil">
 <!ENTITY sort.rating.tooltip "Sórtáil de réir meánrátála">
 
-
-<!ENTITY showMore.label "Tuilleadh">
-<!ENTITY showMore.tooltip "Taispeáin mionsonraí">
-<!ENTITY showLess.label "Níos Lú">
-<!ENTITY showLess.tooltip "Níos lú mionsonraí">
-
-<!ENTITY search.filter.label "Taispeáin:">
-<!ENTITY search.filter.installed.label "Do chuid breiseán suiteáilte">
-<!ENTITY search.filter.available.label "Breiseáin le fáil">
+<!ENTITY search.filter2.label "Cuardaigh:">
+<!ENTITY search.filter2.installed.label "Mo Chuid Bhreiseán">
+<!ENTITY search.filter2.installed.tooltip "Taispeáin breiseáin shuiteáilte">
+<!ENTITY search.filter2.available.label "Breiseáin le fáil">
+<!ENTITY search.filter2.available.tooltip "Taispeáin na breiseáin is féidir suiteáil">
 
 <!ENTITY addon.homepage "Leathanach Baile">
+<!ENTITY addon.details.label "Tuilleadh">
+<!ENTITY addon.details.tooltip "Taispeáin tuilleadh eolais faoin bhreiseán seo">
 <!ENTITY addon.unknownDate "Anaithnid">
 <!ENTITY addon.disabled.postfix "(díchumasaithe)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -118,7 +115,6 @@
 <!ENTITY addon.undoUninstall.label "Cealaigh?">
 <!ENTITY addon.undoUninstall.tooltip "Coinnigh an breiseán seo suiteáilte">
 <!ENTITY addon.restartNow.label "Atosaigh anois">
-<!ENTITY addon.restartNow.tooltip "Atosaigh anois chun an tsuiteáil a chur i gcrích">
 <!ENTITY addon.install.label "Suiteáil">
 <!ENTITY addon.install.tooltip "Suiteáil an breiseán seo">
 <!ENTITY addon.updateNow.label "Nuashonraigh Anois">
