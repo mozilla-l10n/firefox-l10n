@@ -4,7 +4,7 @@
 <!ENTITY actionColumn2.accesskey "е">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.emptytext "Поиск">
+<!ENTITY filter.placeholder "Поиск">
 <!ENTITY saveTo.label "Путь для сохранения файлов">
 <!ENTITY saveTo.accesskey "х">
 <!ENTITY alwaysAsk.label "Всегда выдавать запрос на сохранение файлов">

@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title "Настройка учётной записи почты">
 <!ENTITY name.label "Ваше имя:">
 <!ENTITY name.accesskey "м">
-<!ENTITY name.emptytext "Имя Фамилия">
+<!ENTITY name.placeholder "Имя Фамилия">
 <!ENTITY name.text "Ваше имя, как оно отображается у других">
 <!ENTITY email.label "Адрес эл. почты:">
 <!ENTITY email.accesskey "р">
-<!ENTITY email.emptytext "email@example.ru">
+<!ENTITY email.placeholder "email@example.ru">
 <!ENTITY password.label "Пароль:">
 <!ENTITY password.accesskey "р">
-<!ENTITY password.emptytext "Пароль">
+<!ENTITY password.placeholder "Пароль">
 <!ENTITY password.text "Необязательно, будет использоваться только для проверки имени пользователя">
 <!ENTITY accountInformation.label "Информация учётной записи">
 <!ENTITY username2.label "Имя пользователя:">

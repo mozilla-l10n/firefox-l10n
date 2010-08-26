@@ -14,6 +14,8 @@
 <!ENTITY PhoneticField2.label "Произношение:">
 <!ENTITY DisplayName.label "Отображать как:">
 <!ENTITY DisplayName.accesskey "б">
+<!ENTITY preferDisplayName.label "Всегда использовать отображаемое имя вместо имени из заголовка сообщения">
+<!ENTITY preferDisplayName.accesskey "с">
 <!ENTITY NickName.label "Псевдоним:">
 <!ENTITY NickName.accesskey "д">
 <!ENTITY PrimaryEmail.label "Электронная почта:">
@@ -59,9 +61,9 @@
 <!ENTITY Birthday.label "День рождения:">
 <!ENTITY Birthday.accesskey "е">
 <!ENTITY In.label "">
-<!ENTITY Year.emptytext "Год">
+<!ENTITY Year.placeholder "Год">
 <!ENTITY Or.value "или">
-<!ENTITY Age.emptytext "Возраст">
+<!ENTITY Age.placeholder "Возраст">
 <!ENTITY YearsOld.label "">
 <!ENTITY Work.tab "Рабочее">
 <!ENTITY Work.accesskey "б">
@@ -109,6 +111,6 @@
 <!ENTITY BrowsePhoto.accesskey "б">
 <!ENTITY PhotoURL.label "В Интернете">
 <!ENTITY PhotoURL.accesskey "е">
-<!ENTITY PhotoURL.emptytext "Вставьте или наберите веб-адрес фотографии">
+<!ENTITY PhotoURL.placeholder "Вставьте или наберите веб-адрес фотографии">
 <!ENTITY UpdatePhoto.label "Обновить">
 <!ENTITY UpdatePhoto.accesskey "б">
