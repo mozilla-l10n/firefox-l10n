@@ -64,7 +64,8 @@ The Initial Developer of the Original Code is
 <!ENTITY PhoneticField2.label "Nombre fonético:">
 <!ENTITY DisplayName.label "Mostrado:">
 <!ENTITY DisplayName.accesskey "d">
-<!ENTITY NickName.label "Apodo:">
+<!ENTITY preferDisplayName.label        "Siempre preferir nombre mostrado en lugar de encabezado del mensaje">
+<!ENTITY preferDisplayName.accesskey    "y"><!ENTITY NickName.label "Apodo:">
 <!ENTITY NickName.accesskey "A">
 
 <!ENTITY PrimaryEmail.label "Correo electrónico:">
