@@ -47,7 +47,7 @@
 <!ENTITY syncComputerName.label             "Arvuti nimi:">
 <!ENTITY syncComputerName.accesskey         "A">
 <!ENTITY syncModeSwitchDesc.label           "&brandShortName;: ">
-<!ENTITY syncModeSwitchDesc.accesskey       "y">
+<!ENTITY syncModeSwitchDesc.accesskey       "F">
 <!ENTITY syncEverything.label               "sünkroniseerib kõik">
 <!ENTITY customSync.label                   "kasutatab kohandatud sätteid">
 <!ENTITY syncEverythingDescription.label    "Sünkroniseeritakse järjehoidjad, ajalugu, paroolid, eelistused ja kaardid.">
