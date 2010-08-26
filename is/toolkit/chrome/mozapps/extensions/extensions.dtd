@@ -80,20 +80,18 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label "Nafn">
 <!ENTITY sort.name.tooltip "Raða eftir heiti">
-<!ENTITY sort.size.label "Stærð">
-<!ENTITY sort.size.tooltip "Raða eftir Stærð">
 <!ENTITY sort.dateUpdated.label "Síðast uppfært">
 <!ENTITY sort.dateUpdated.tooltip "Raða eftir uppsetningardagsetningu">
 <!ENTITY sort.rating.label "Einkunn">
 <!ENTITY sort.rating.tooltip "Raða eftir meðaltal einkunnar">
-<!ENTITY showMore.label "Sýna meira">
-<!ENTITY showMore.tooltip "Sýna frekari upplýsingar">
-<!ENTITY showLess.label "Sýna minna">
-<!ENTITY showLess.tooltip "Sýna færri upplýsingar">
-<!ENTITY search.filter.label "Sýna:">
-<!ENTITY search.filter.installed.label "Uppsettar viðbætur">
-<!ENTITY search.filter.available.label "Tiltækar viðbætur">
+<!ENTITY search.filter2.label "Leita:">
+<!ENTITY search.filter2.installed.label "Mínar viðbætur">
+<!ENTITY search.filter2.installed.tooltip "Sýna uppsettar viðbætur">
+<!ENTITY search.filter2.available.label "Tiltækar viðbætur">
+<!ENTITY search.filter2.available.tooltip "Sýna viðbætur sem er hægt að setja inn">
 <!ENTITY addon.homepage "Heimasíða">
+<!ENTITY addon.details.label "Meira">
+<!ENTITY addon.details.tooltip "Sýna meiri upplýsingar um þessa viðbót">
 <!ENTITY addon.unknownDate "Óþekkt">
 <!ENTITY addon.disabled.postfix "(óvirkt)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -103,7 +101,6 @@
 <!ENTITY addon.undoUninstall.label "Afturkalla?">
 <!ENTITY addon.undoUninstall.tooltip "Halda þessari viðbót uppsettri">
 <!ENTITY addon.restartNow.label "Endurræsa núna">
-<!ENTITY addon.restartNow.tooltip "Endurræstu núna til að ljúka uppsetningu">
 <!ENTITY addon.install.label "Setja upp">
 <!ENTITY addon.install.tooltip "Setja inn þessa viðbót">
 <!ENTITY addon.updateNow.label "Uppfæra nú">
