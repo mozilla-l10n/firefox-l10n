@@ -1,0 +1,19 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+<!-- These strings are used in the about:home page -->
+
+
+<!ENTITY abouthome.pageTitle "Leathanach Tosaigh &brandFullName;">
+<!ENTITY abouthome.brandLogo.title "Lógó &brandFullName;">
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+
+<!ENTITY abouthome.brandStart "Tosach <span>&brandShortName;</span>">
+
+<!ENTITY abouthome.searchEngineLogo.title "Lógó innill chuardaigh">
+
+<!ENTITY abouthome.searchEngineButton.label "Cuardach">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Cuardach Casta">
+<!ENTITY abouthome.searchEngineLinks.preferences "Sainroghanna">
+
+<!ENTITY abouthome.aboutMozilla "Maidir le Mozilla">
