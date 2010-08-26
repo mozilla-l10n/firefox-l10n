@@ -6,4 +6,5 @@
 <!-- localization credits look like this: -->
 <!ENTITY credit.translation  "<h3>ਅਨੁਵਾਦ</h3><ul><li>ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮਵਾਲਾ [Amanpreet Singh Brar Alamwala] ੨੦੦੪ ਤੋਂ</li><li></li><li>PUNJABI OS Team [Moga] (http://www.satluj.com)</li></ul>">
 <!ENTITY credit.memory      "ਯਾਦ ਵਿੱਚ">
-<!ENTITY credit.poweredByGeckoReg "Gecko&trade; ਰਾਹੀਂ ਮੱਦਦ ਪਰਾਪਤ">
+<!ENTITY credit.poweredByGeckoReg "Gecko&reg; ਰਾਹੀਂ ਮੱਦਦ ਪਰਾਪਤ">
+
