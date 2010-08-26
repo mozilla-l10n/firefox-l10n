@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "移至组">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "新建组">
-<!ENTITY  moveToNewGroup.accesskey           "N">
-<!ENTITY  namedGroups.label                  "命名组">
 <!ENTITY  bookmarkThisTab.label              "将此标签页加为书签">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "将全部标签页加为书签…">
@@ -193,6 +191,12 @@
 <!ENTITY inspectStyleButton.label     "样式">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "样式">
+<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
+  -  stands for Document Object Model and appears on the inspector's toolbar.
+  -  It is used to open and closed the DOM panel. There is also a DOM label in
+  -  inspector.properties for the panel titlebar. -->
+<!ENTITY inspectDOMButton.label       "DOM">
+<!ENTITY inspectDOMButton.accesskey       "D">
 
 <!ENTITY fileMenu.label         "文件"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -261,11 +265,12 @@
 <!ENTITY showAllHistoryCmd2.label "显示全部历史">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "打印">
 <!ENTITY appMenuCustomize.label "定制">
 <!ENTITY appMenuToolbarLayout.label "工具栏布局…">
 <!ENTITY appMenuSidebars.label "侧边栏">
-<!ENTITY appMenuHelp.label "帮助">
+<!ENTITY appMenuFind.label "查找…">
+<!ENTITY appMenuUnsorted.label "未分类书签">
+<!ENTITY appMenuGettingStarted.label "新手上路">
 
 <!ENTITY developerMenu.label "开发者">
 

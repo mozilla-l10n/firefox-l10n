@@ -7,7 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label          "检查更新">
 <!ENTITY listEmpty.search.label               "找不到任何匹配的附加组件">
 <!ENTITY listEmpty.button.label               "了解更多有关附加组件的信息">
-
+<!ENTITY installFromFile.label                "从文件安装…">
+<!ENTITY installFromFile.accesskey            "I">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
@@ -91,24 +92,20 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "名称">
 <!ENTITY sort.name.tooltip                    "按名称排列">
-<!ENTITY sort.size.label                      "大小">
-<!ENTITY sort.size.tooltip                    "按大小排列">
 <!ENTITY sort.dateUpdated.label               "最后更新">
 <!ENTITY sort.dateUpdated.tooltip             "按最后更新日期排列">
 <!ENTITY sort.rating.label                    "评级">
 <!ENTITY sort.rating.tooltip                  "按平均评级排列">
 
-
-<!ENTITY showMore.label                       "显示更多">
-<!ENTITY showMore.tooltip                     "显示更多明细">
-<!ENTITY showLess.label                       "减少显示项">
-<!ENTITY showLess.tooltip                     "显示更多的详细信息">
-
-<!ENTITY search.filter.label                  "显示：">
-<!ENTITY search.filter.installed.label        "您的已安装附加组件">
-<!ENTITY search.filter.available.label        "可用附加组件">
+<!ENTITY search.filter2.label                 "搜索：">
+<!ENTITY search.filter2.installed.label       "我的附加组件">
+<!ENTITY search.filter2.installed.tooltip     "显示已安装附加组件">
+<!ENTITY search.filter2.available.label       "可用附加组件">
+<!ENTITY search.filter2.available.tooltip     "显示可安装附加组件">
 
 <!ENTITY addon.homepage                       "主页">
+<!ENTITY addon.details.label                  "更多">
+<!ENTITY addon.details.tooltip                "显示该附加组件的更多详情">
 <!ENTITY addon.unknownDate                    "未知">
 <!ENTITY addon.disabled.postfix               "（已禁用）">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -118,7 +115,6 @@
 <!ENTITY addon.undoUninstall.label            "撤销吗?">
 <!ENTITY addon.undoUninstall.tooltip          "保持此附加组件安装">
 <!ENTITY addon.restartNow.label               "立即重启">
-<!ENTITY addon.restartNow.tooltip             "立即重启来完成安装">
 <!ENTITY addon.install.label                  "安装">
 <!ENTITY addon.install.tooltip                "安装此附加组件">
 <!ENTITY addon.updateNow.label                "立即更新">
