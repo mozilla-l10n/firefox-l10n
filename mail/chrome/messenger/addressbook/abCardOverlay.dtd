@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label "Fonético:">
 <!ENTITY DisplayName.label "Mostrar:">
 <!ENTITY DisplayName.accesskey "r">
+<!ENTITY preferDisplayName.label        "Preferir sempre mostrar o nome acima do cabeçalho da mensagem">
+<!ENTITY preferDisplayName.accesskey    "ç">
 <!ENTITY NickName.label "Alcunha:">
 <!ENTITY NickName.accesskey "u">
 
@@ -117,9 +119,9 @@ mensagens HTML deste contacto.">
 <!ENTITY Birthday.label                 "Aniversário:">
 <!ENTITY Birthday.accesskey             "v">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Ano">
+<!ENTITY Year.placeholder               "Ano">
 <!ENTITY Or.value                       "ou">
-<!ENTITY Age.emptytext                  "Idade">
+<!ENTITY Age.placeholder                "Idade">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab "Trabalho">
@@ -170,6 +172,6 @@ mensagens HTML deste contacto.">
 <!ENTITY BrowsePhoto.accesskey          "N">
 <!ENTITY PhotoURL.label                 "Na Web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "Escrever ou colar o endereço web de uma fotografia">
+<!ENTITY PhotoURL.placeholder           "Escrever ou colar o endereço web de uma fotografia">
 <!ENTITY UpdatePhoto.label              "Actualizar">
 <!ENTITY UpdatePhoto.accesskey          "u">
