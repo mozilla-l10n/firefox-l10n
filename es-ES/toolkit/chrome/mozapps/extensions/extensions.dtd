@@ -76,9 +76,11 @@
 <!ENTITY sort.dateUpdated.tooltip "Ordenar por fecha de actualización">
 <!ENTITY sort.rating.label "Evaluación">
 <!ENTITY sort.rating.tooltip "Ordenar por evaluación promedio">
-<!ENTITY search.filter.label "Mostrar:">
-<!ENTITY search.filter.installed.label "Sus complementos instalados">
-<!ENTITY search.filter.available.label "Complementos disponibles">
+<!ENTITY search.filter2.label "Buscar:">
+<!ENTITY search.filter2.installed.label "Mis complementos">
+<!ENTITY search.filter2.installed.tooltip "Mostrar complementos instalados">
+<!ENTITY search.filter2.available.label "Complementos disponibles">
+<!ENTITY search.filter2.available.tooltip "Mostrar complementos disponibles para instalar">
 <!ENTITY addon.homepage "Página de inicio">
 <!ENTITY addon.details.label "Más">
 <!ENTITY addon.details.tooltip "Mostrar más detalles sobre este complemento">
