@@ -60,7 +60,7 @@
 <!ENTITY  privateBrowsingPermanent.label "永久私密瀏覽模式">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "記住我的瀏覽歷史">
+<!ENTITY  rememberHistory.label      "保留我的瀏覽記錄">
 <!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "保留我的下載記錄">

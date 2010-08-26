@@ -92,24 +92,20 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "名稱">
 <!ENTITY sort.name.tooltip                    "以名稱排序">
-<!ENTITY sort.size.label                      "大小">
-<!ENTITY sort.size.tooltip                    "以大小排序">
 <!ENTITY sort.dateUpdated.label               "最近更新時間">
 <!ENTITY sort.dateUpdated.tooltip             "以更新日期排序">
 <!ENTITY sort.rating.label                    "評分">
 <!ENTITY sort.rating.tooltip                  "以平均評等排序">
 
-
-<!ENTITY showMore.label                       "顯示更多">
-<!ENTITY showMore.tooltip                     "顯示更多資訊">
-<!ENTITY showLess.label                       "顯示更少">
-<!ENTITY showLess.tooltip                     "顯示更少資訊">
-
-<!ENTITY search.filter.label                  "顯示:">
-<!ENTITY search.filter.installed.label        "您已經安裝的附加元件">
-<!ENTITY search.filter.available.label        "可用的附加元件">
+<!ENTITY search.filter2.label                 "搜尋:">
+<!ENTITY search.filter2.installed.label       "我的附加元件">
+<!ENTITY search.filter2.installed.tooltip     "顯示已安裝的附加元件">
+<!ENTITY search.filter2.available.label       "可用的附加元件">
+<!ENTITY search.filter2.available.tooltip     "顯示可安裝的附加元件">
 
 <!ENTITY addon.homepage                       "網站首頁">
+<!ENTITY addon.details.label                  "更多">
+<!ENTITY addon.details.tooltip                "顯示更多關於此附加元件的詳情">
 <!ENTITY addon.unknownDate                    "未知">
 <!ENTITY addon.disabled.postfix               "（已停用）">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -119,7 +115,6 @@
 <!ENTITY addon.undoUninstall.label            "復原？">
 <!ENTITY addon.undoUninstall.tooltip          "保持這個附加元件已安裝">
 <!ENTITY addon.restartNow.label               "立刻重新啟動">
-<!ENTITY addon.restartNow.tooltip             "立刻重新啟動以完成安裝">
 <!ENTITY addon.install.label                  "立刻重新啟動以完成安裝">
 <!ENTITY addon.install.tooltip                "安裝此附加元件">
 <!ENTITY addon.updateNow.label                "立即更新">

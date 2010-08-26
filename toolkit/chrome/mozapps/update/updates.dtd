@@ -9,7 +9,7 @@
 
 <!ENTITY  noupdatesfound.title            "無任何更新">
 <!ENTITY  noupdatesautoenabled.intro      "目前沒有新的更新檔。 &brandShortName; 會定期檢查是否有更新。">
-<!ENTITY  noupdatesautodisabled.intro     "目前沒有新的更新檔。請稍候再檢查或是啟用 &brandShortName; 的自動檢查更新功能。">
+<!ENTITY  noupdatesautodisabled.intro     "目前沒有新的更新檔。請在稍後再檢查或是啟用 &brandShortName; 的自動檢查更新功能。">
 
 <!ENTITY  manualUpdate.title              "無法更新">
 <!ENTITY  manualUpdate.desc               "找到一個新的安全與穩定性更新，但您沒有安裝更新所需的系統權限。請聯絡您的系統管理員，或是從具有安裝軟體權限的系統帳號再試一次。">

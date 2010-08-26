@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName; 開始頁面">
+<!ENTITY abouthome.brandLogo.title "&brandFullName; 圖示">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> 開始">
+
+<!ENTITY abouthome.searchEngineLogo.title "搜尋引擎圖示">
+
+<!ENTITY abouthome.searchEngineButton.label "搜尋">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "進階搜尋">
+<!ENTITY abouthome.searchEngineLinks.preferences "偏好設定">
+
+<!ENTITY abouthome.aboutMozilla "關於 Mozilla">

@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "疑難排解資訊">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
+<!ENTITY helpFeedbackPage.label      "送出意見回饋…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
 <!ENTITY updateCmd.label                "檢查更新…">
 
 <!ENTITY preferencesCmdMac.label        "偏好設定…">
