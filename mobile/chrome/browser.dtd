@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "重新载入">
 <!ENTITY stop.label            "停止">
 <!ENTITY go.label              "转到">
-<!ENTITY openLocation.label    "打开位置">
 <!ENTITY star.label            "星标">
 
 <!ENTITY newtab.label          "新建标签页">
@@ -20,7 +19,10 @@
 <!ENTITY noSuggestions.label   "(无建议)">
 <!ENTITY addToDictionary.label "添加至字典">
 
+<!ENTITY allPagesHeader.label      "全部页">
 <!ENTITY bookmarksHeader.label     "书签">
+<!ENTITY historyHeader.label       "历史">
+<!ENTITY desktopHeader.label       "桌面">
 
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "标签:">
@@ -88,5 +90,14 @@
 <!ENTITY contextSaveImage.label       "保存图片">
 <!ENTITY contextShareLink.label       "分享链接">
 <!ENTITY contextShareImage.label      "分享图片">
+<!ENTITY contextSaveVideo.label       "保存视频">
+<!ENTITY contextShareVideo.label      "分享视频">
 <!ENTITY contextEditBookmark.label    "编辑">
 <!ENTITY contextRemoveBookmark.label  "删除">
+
+<!ENTITY pageactions.saveas.pdf      "保存为 PDF">
+<!ENTITY pageactions.share.page      "分享页面">
+<!ENTITY pageactions.password.forget "忘记密码">
+<!ENTITY pageactions.reset           "清除网站首选设置">
+<!ENTITY pageactions.findInPage      "页内查找">
+<!ENTITY pageactions.search.addNew   "添加搜索引擎">

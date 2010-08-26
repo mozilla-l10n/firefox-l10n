@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title                "欢迎使用 &brandShortName;">
-<!ENTITY firstrun.heading              "为了帮助你入门，这里提供一些最流行的功能和附加组件，以便让 &brandShortName; 能够充分发挥效用。">
-<!ENTITY firstrun.recommended          "推荐：">
-<!ENTITY firstrun.weave.title          "使用Weave Sync">
-<!ENTITY firstrun.weave.description    "在你的桌面电脑&amp;手机之间共享&brandShortName;、历史记录、密码、书签&amp;标签项">
-<!ENTITY firstrun.starter.title        "下载初学者安装包">
-<!ENTITY firstrun.starter.description  "安装这些推荐的附加组件，改进的 &brandShortName; 使用体验">
-<!ENTITY firstrun.tour.title           "跟着火狐，瞧一瞧！">
-<!ENTITY firstrun.tour.description     "观看此视频，让你玩转火狐，炫出你个性！">
-<!ENTITY firstrun.features             "查看更多特性">
+<!ENTITY firstrun.heading2             "欢迎使用 &brandShortName;">
+<!ENTITY firstrun.sync.title           "获取 Firefox 同步">
+<!ENTITY firstrun.sync.description     "在你的桌面电脑&amp;手机之间共享&brandShortName; 历史记录、密码、书签&amp;标签页">
+<!ENTITY firstrun.addons.title         "获取附加组件">
+<!ENTITY firstrun.addons.description   "安装附加组件来增强您的 &brandShortName; 使用体验">
+<!ENTITY firstrun.home.title           "跟着火狐，瞧一瞧！">
+<!ENTITY firstrun.home.description     "轻按即可转到炫彩个性起始页面并开始浏览">
+<!ENTITY firstrun.relNotes.label       "查看更多特性">
 <!ENTITY firstrun.faq                  "常见问题">
 <!ENTITY firstrun.privacy              "隐私条款">
 <!ENTITY firstrun.follow               "跟随我们一起来看看：">
