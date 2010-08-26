@@ -28,12 +28,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Error messages that are likely to be overridden by applications go in this
-     file, all messages that likely don't need to tie into app-specific UI
-	  should go into netError.dtd -->
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
 
-<!ENTITY securityOverride.linkText "Galite sukurti išimtį…">
-<!ENTITY securityOverride.warningContent "
-<p>Išimties kurti neturėtumėte, jei naudojatės interneto ryšiu, kuriuo nepasitikite pilnai, arba jei anksčiau nematėte įspėjimo apie šį serverį.</p>
-<p>Jei vis tiek norite sukurti išimtį šiai svetainei, tai galite padaryti papildomų šifravimo nuostatų dialoge.</p>
-">
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "„&brandFullName;“ pradžios tinklalapis">
+<!ENTITY abouthome.brandLogo.title "„&brandFullName;“ logotipas">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart "<span>„&brandShortName;“</span> pradžia">
+
+<!ENTITY abouthome.searchEngineLogo.title "Ieškyklės logotipas">
+
+<!ENTITY abouthome.searchEngineButton.label "Ieškoti">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Patikslintoji paieška">
+<!ENTITY abouthome.searchEngineLinks.preferences "Nuostatos">
+
+<!ENTITY abouthome.aboutMozilla "Apie „Mozillą“">

@@ -37,7 +37,8 @@
 <!ENTITY listEmpty.findUpdates.label          "Tikrinti, ar yra naujinimų">
 <!ENTITY listEmpty.search.label               "Paiešką atitinkančių priedų nerasta">
 <!ENTITY listEmpty.button.label               "Sužinokite apie priedus daugiau">
-
+<!ENTITY installFromFile.label                "Įdiegti iš failo…">
+<!ENTITY installFromFile.accesskey            "d">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
@@ -119,23 +120,20 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Pavadinimas">
 <!ENTITY sort.name.tooltip                    "Rikiuoti pagal pavadinimą">
-<!ENTITY sort.size.label                      "Dydis">
-<!ENTITY sort.size.tooltip                    "Rikiuoti pagal dydį">
 <!ENTITY sort.dateUpdated.label               "Atnaujinimo data">
 <!ENTITY sort.dateUpdated.tooltip             "Rikiuoti pagal paskiausio atnaujinimo datą">
 <!ENTITY sort.rating.label                    "Įvertinimas">
 <!ENTITY sort.rating.tooltip                  "Rikiuoti pagal įvertinimą">
 
-<!ENTITY showMore.label                       "Išsamiau">
-<!ENTITY showMore.tooltip                     "Rodyti išsamesnę informaciją">
-<!ENTITY showLess.label                       "Glausčiau">
-<!ENTITY showLess.tooltip                     "Rodyti glaustesnę informaciją">
-
-<!ENTITY search.filter.label                  "Rodyti:">
-<!ENTITY search.filter.installed.label        "Jūsų turimus priedus">
-<!ENTITY search.filter.available.label        "prieinamus priedus">
+<!ENTITY search.filter2.label                 "Ieškoti:">
+<!ENTITY search.filter2.installed.label       "įdiegtų priedų">
+<!ENTITY search.filter2.installed.tooltip     "Rodyti jau įdiegtus priedus">
+<!ENTITY search.filter2.available.label       "prieinamų priedų">
+<!ENTITY search.filter2.available.tooltip     "Rodyti galimus įdiegti priedus">
 
 <!ENTITY addon.homepage                       "Svetainė">
+<!ENTITY addon.details.label                  "Išsamiau">
+<!ENTITY addon.details.tooltip                "Parodyti išsamesnę informaciją apie šį priedą">
 <!ENTITY addon.unknownDate                    "Nežinoma">
 <!ENTITY addon.disabled.postfix               "(išjungtas)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -145,7 +143,6 @@
 <!ENTITY addon.undoUninstall.label            "Atšaukti?">
 <!ENTITY addon.undoUninstall.tooltip          "Palikti šį priedą įdiegtą">
 <!ENTITY addon.restartNow.label               "Perleisti dabar">
-<!ENTITY addon.restartNow.tooltip             "Paleiskite programą iš naujo, kad diegimas būtų užbaigtas">
 <!ENTITY addon.install.label                  "Įdiegti">
 <!ENTITY addon.install.tooltip                "Įdiegti šį priedą">
 <!ENTITY addon.updateNow.label                "Atnaujinti">
