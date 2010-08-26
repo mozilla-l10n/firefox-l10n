@@ -527,7 +527,7 @@
 <!ENTITY folderContextSettings.accesskey "C">
 <!ENTITY SearchNameOrEmail.label "El nombre o dirección contiene:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY glodaSearchBar.emptyText "Buscar mensajes…">
+<!ENTITY glodaSearchBar.placeholder "Buscar mensajes…">
 <!ENTITY searchSubjectMenu.label "Asunto">
 <!ENTITY searchFromMenu.label "Remitente">
 <!ENTITY searchSubjectOrFromMenu.label "Asunto o remitente">
