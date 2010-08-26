@@ -4,7 +4,7 @@
 <!ENTITY actionColumn2.accesskey "A">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.emptytext "Buscar">
+<!ENTITY filter.placeholder "Buscar">
 <!ENTITY saveTo.label "Guardar archivos en">
 <!ENTITY saveTo.accesskey "G">
 <!ENTITY alwaysAsk.label "Preguntarme siempre dónde guardar archivos">

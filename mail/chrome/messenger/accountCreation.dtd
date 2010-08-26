@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title "Configuración de cuenta de correo">
 <!ENTITY name.label "Su nombre:">
 <!ENTITY name.accesskey "S">
-<!ENTITY name.emptytext "Nombre y apellidos">
+<!ENTITY name.placeholder "Nombre y apellidos">
 <!ENTITY name.text "Su nombre, tal y como se muestra a los demás">
 <!ENTITY email.label "Dirección de correo:">
 <!ENTITY email.accesskey "D">
-<!ENTITY email.emptytext "email@ejemplo.com">
+<!ENTITY email.placeholder "email@ejemplo.com">
 <!ENTITY password.label "Contraseña:">
 <!ENTITY password.accesskey "a">
-<!ENTITY password.emptytext "Contraseña">
+<!ENTITY password.placeholder "Contraseña">
 <!ENTITY password.text "Opcional, sólo se usará para validar el nombre de usuario">
 <!ENTITY accountInformation.label "Información de cuenta">
 <!ENTITY username2.label "Nombre de usuario:">
