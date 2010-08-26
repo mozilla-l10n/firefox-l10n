@@ -244,8 +244,8 @@
 
 <!ENTITY viewMenu.label         "תצוגה"> 
 <!ENTITY viewMenu.accesskey       "ת"> 
-<!ENTITY showTabView2.label     "Group Your Tabs…">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY showTabView2.label     "קבץ את הלשוניות שלך…">
+<!ENTITY showTabView2.accesskey     "ק">
 <!ENTITY viewToolbarsMenu.label       "סרגלי כלים"> 
 <!ENTITY viewToolbarsMenu.accesskey     "ם"> 
 <!ENTITY viewSidebarMenu.label "סרגל צד">
@@ -536,9 +536,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncMenu.accesskey           "y">
 <!ENTITY syncSetup.label              "התקנת &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "s">
-<!ENTITY syncLogInItem.label          "Connect">
-<!ENTITY syncLogInItem.accesskey      "C">
-<!ENTITY syncLogOutItem.label         "Disconnect">
-<!ENTITY syncLogOutItem.accesskey     "D">
+<!ENTITY syncLogInItem.label          "התחברות">
+<!ENTITY syncLogInItem.accesskey      "ה">
+<!ENTITY syncLogOutItem.label         "התנתקות">
+<!ENTITY syncLogOutItem.accesskey     "ה">
 <!ENTITY syncSyncNowItem.label        "סנכרן כעת">
 <!ENTITY syncSyncNowItem.accesskey    "ס">

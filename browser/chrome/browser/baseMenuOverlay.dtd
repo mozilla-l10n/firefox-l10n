@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "מידע לפתרון בעיות">
 <!ENTITY helpTroubleshootingInfo.accesskey  "מ">
 
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
 <!ENTITY updateCmd.label                "בדוק אם ישנם עדכונים…">
 
 <!ENTITY preferencesCmdMac.label        "העדפות…">

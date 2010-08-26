@@ -64,6 +64,6 @@
 <!ENTITY  allowPagesToUse.label                   "אפשר לדפים לבחור את הגופנים שלהם במקום בחירתי למעלה">
 <!ENTITY  allowPagesToUse.accesskey               "ל">
 
-<!ENTITY languages.customize.Charset.grouplabel         "קידוד תוים">
-<!ENTITY languages.customize.DefaultCharset.label       "ברירת מחדל של קידוד תוים:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "מ">
+<!ENTITY languages.customize.Charset.grouplabel         "קידוד תווים">
+<!ENTITY languages.customize.DefaultCharset.label       "קידוד תווים בברירת מחדל:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "ק">

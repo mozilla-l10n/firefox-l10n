@@ -115,8 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "י">
 <!ENTITY certmgr.delete2.label                "מחק…">
 <!ENTITY certmgr.delete2.accesskey            "מ">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.delete_builtin.label         "מחיקה או אי־אמון…">
+<!ENTITY certmgr.delete_builtin.accesskey     "מ">
 <!ENTITY certmgr.backup2.label                "גבה…">
 <!ENTITY certmgr.backup2.accesskey            "ג">
 <!ENTITY certmgr.backupall2.label             "גבה הכל…">
