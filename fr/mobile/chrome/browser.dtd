@@ -86,12 +86,14 @@
 <!ENTITY consoleErrLine.label "Ligne :">
 <!ENTITY consoleErrColumn.label "Colonne :">
 
-<!ENTITY contextOpenInNewTab.label "Ouvrir le lien dans un nouvel onglet">
-<!ENTITY contextSaveImage.label "Enregistrer l'image">
-<!ENTITY contextShareLink.label "Partager le lien">
-<!ENTITY contextShareImage.label "Partager l'image">
-<!ENTITY contextEditBookmark.label "Modifier">
-<!ENTITY contextRemoveBookmark.label "Supprimer">
+<!ENTITY contextOpenInNewTab.label    "Ouvrir le lien dans un nouvel onglet">
+<!ENTITY contextSaveImage.label       "Enregistrer l'image">
+<!ENTITY contextShareLink.label       "Partager le lien">
+<!ENTITY contextShareImage.label      "Partager l'image">
+<!ENTITY contextSaveVideo.label       "Enregistrer la vidéo">
+<!ENTITY contextShareVideo.label      "Partager la vidéo">
+<!ENTITY contextEditBookmark.label    "Modifier">
+<!ENTITY contextRemoveBookmark.label  "Supprimer">
 
 <!ENTITY pageactions.saveas.pdf      "Enregistrer au format PDF">
 <!ENTITY pageactions.share.page      "Partager la page">
