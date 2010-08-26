@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label "Fabhtcheartú">
 <!ENTITY helpTroubleshootingInfo.accesskey "t">
 
+<!ENTITY helpFeedbackPage.label "Seol Aiseolas Chugainn…">
+<!ENTITY helpFeedbackPage.accesskey "S">
+
 <!ENTITY updateCmd.label "Lorg Nuashonruithe…">
 
 <!ENTITY preferencesCmdMac.label "Sainroghanna…">

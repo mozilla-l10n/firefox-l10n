@@ -35,7 +35,7 @@
 <!-- New Account Page 2: Passphrase Entry -->
 
 <!ENTITY setup.newPPPage.title.label "Iontráil do Fhrása Faire">
-<!ENTITY passphraseDesc.label "Please enter a secret phrase. This will be used to encrypt all your data so only you can access it. It is never stored on the server, so don't lose this!">
+<!ENTITY passphraseDesc.label "Cuir frása faire isteach. Úsáidfear é seo chun do chuid sonraí go léir a chriptiú sa chaoi nach mbeidh aon duine eile in ann féachaint orthu. Ní shábháiltear ar an bhfreastalaí é - ná caill é!">
 <!ENTITY passphraseDesc2.label "This must be at least 12 characters long and cannot match your account password.">
 <!ENTITY passphraseEntry.label "Frása Faire">
 <!ENTITY passphraseEntry.accesskey "s">
@@ -90,9 +90,9 @@
 <!ENTITY confirm.client.label "Scriosfar na sonraí &brandShortName; go léir ar an ríomhaire seo, na sonraí seo a leanas san áireamh:">
 <!ENTITY confirm.client.moreinfo.label "Cóipeálfaidh &brandShortName; do chuid sonraí &syncBrand.fullName.label; go dtí an ríomhaire seo.">
 <!ENTITY confirm.client.warning.label "RABHADH: Scriosfar na sonraí &brandShortName; go léir ón ríomhaire seo!">
-<!ENTITY confirm.server.label "The following devices will be overwritten with your local data:">
+<!ENTITY confirm.server.label "Forscríobhfar na gléasanna seo a leanas leis na sonraí logánta:">
 <!ENTITY confirm.server.warning.label "RABHADH: Cuirfear do chuid sonraí logánta in áit na sonraí &brandShortName; go léir ar na gléasanna seo!">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title.label "Tá an socrú críochnaithe!">
-<!ENTITY setup.successPage.desc.label "Congratulations! &brandShortName; is now set up to automatically sync your information. Don't forget to install &syncBrand.fullName.label; on all your devices. You can now continue using &brandShortName;.">
+<!ENTITY setup.successPage.desc.label "Comhghairdeas! Sioncrónóidh &brandShortName; do chuid sonraí go huathoibríoch as seo amach.  Ná dearmad &syncBrand.fullName.label; a shocrú ar do ghléasanna go léir. Anois lean ort agus bain úsáid as &brandShortName;.">
