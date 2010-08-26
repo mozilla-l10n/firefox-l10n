@@ -39,7 +39,7 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.emptytext        "Ieškoti">
+<!ENTITY  filter.placeholder          "Ieškoti">
 
 <!ENTITY saveTo.label                 "Įrašyti failus į aplanką">
 <!ENTITY saveTo.accesskey             "f">

@@ -66,6 +66,10 @@
 <!ENTITY PhoneticField2.label           "Fonetinė:"> 
 <!ENTITY DisplayName.label              "Rodomas vardas:">
 <!ENTITY DisplayName.accesskey          "m">
+<!--
+<!ENTITY preferDisplayName.label        "Visuomet rodyti šį vardą vietoj nurodyto laiško antraštėje">
+<!ENTITY preferDisplayName.accesskey    "š">
+-->
 <!ENTITY NickName.label                 "Slapyvardis">
 <!ENTITY NickName.accesskey             "l">
 
@@ -118,9 +122,9 @@ Pažymėjus šią parinktį, tokie tinkle esantys intarpai šio adresato laišku
 <!ENTITY Birthday.label                 "Gimimo diena:">
 <!ENTITY Birthday.accesskey             "o">
 <!ENTITY In.label                       "g.">
-<!ENTITY Year.emptytext                 "metai">
+<!ENTITY Year.placeholder               "metai">
 <!ENTITY Or.value                       "arba">
-<!ENTITY Age.emptytext                  "amžius">
+<!ENTITY Age.placeholder                "amžius">
 <!ENTITY YearsOld.label                 "m.">
 
 <!ENTITY Work.tab                       "Darbovietė">
@@ -171,6 +175,6 @@ Pažymėjus šią parinktį, tokie tinkle esantys intarpai šio adresato laišku
 <!ENTITY BrowsePhoto.accesskey          "P">
 <!ENTITY PhotoURL.label                 "Atvaizdas iš tinklo">
 <!ENTITY PhotoURL.accesskey             "t">
-<!ENTITY PhotoURL.emptytext             "Įveskite atvaizdo adresą">
+<!ENTITY PhotoURL.placeholder           "Įveskite atvaizdo adresą">
 <!ENTITY UpdatePhoto.label              "Atnaujinti">
 <!ENTITY UpdatePhoto.accesskey          "a">

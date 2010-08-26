@@ -603,7 +603,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "I">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Ieškoti laiškų…">
+<!ENTITY glodaSearchBar.placeholder "Ieškoti laiškų…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Tema">
