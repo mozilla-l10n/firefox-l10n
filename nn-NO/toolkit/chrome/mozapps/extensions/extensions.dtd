@@ -113,7 +113,7 @@
 <!ENTITY addon.unknownDate                    "Ukjent">
 <!ENTITY addon.disabled.postfix               "(slått av)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
-<!ENTITY addon.update.postfix                 "Oppdater">
+<!ENTITY addon.update.postfix                 "Oppdatering">
 <!ENTITY addon.undo.label                     "Angre?">
 <!ENTITY addon.undo.tooltip                   "Angre denne handlinga">
 <!ENTITY addon.undoUninstall.label            "Angre?">

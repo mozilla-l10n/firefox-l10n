@@ -43,7 +43,7 @@
 <!ENTITY passphraseConfirm.accesskey  "S">
 
 <!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Innstillingar for nettlesar-synk">
+<!ENTITY setup.newAccountPrefs2.title.label "Innstillingar for nettlesar-synkronisering">
 <!ENTITY syncComputerName.label       "Datamaskinnamn:">
 <!ENTITY syncComputerName.accesskey   "D">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; vil: ">
