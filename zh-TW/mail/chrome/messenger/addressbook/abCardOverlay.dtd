@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "注音碼:">
 <!ENTITY DisplayName.label              "顯示名稱:">
 <!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "總是在郵件檔頭上顯示姓名">
+<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "暱稱:">
 <!ENTITY NickName.accesskey             "N">
 
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "生日:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "年">
+<!ENTITY Year.placeholder               "年">
 <!ENTITY Or.value                       "或">
-<!ENTITY Age.emptytext                  "年齡">
+<!ENTITY Age.placeholder                "年齡">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "商務">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "從網路上">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "貼上或輸入相片在網路上的網址">
+<!ENTITY PhotoURL.placeholder           "貼上或輸入相片的網址">
 <!ENTITY UpdatePhoto.label              "更新">
 <!ENTITY UpdatePhoto.accesskey          "U">
