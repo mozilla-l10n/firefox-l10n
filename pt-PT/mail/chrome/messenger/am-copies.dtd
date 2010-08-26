@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc estes endereços de correio:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Separar endereços com vírgulas">
+<!ENTITY ccAddressList.placeholder  "Separar endereços com vírgulas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc para estes endereços de correio:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.emptytext "Separar endereços com vírgulas">
+<!ENTITY bccAddressList.placeholder  "Separar endereços com vírgulas">
 <!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmação quando as mensagens são guardadas">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
