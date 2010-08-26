@@ -58,8 +58,6 @@
 <!ENTITY  moveToGroup.label                  "Perkelti į grupę">
 <!ENTITY  moveToGroup.accesskey              "g">
 <!ENTITY  moveToNewGroup.label               "Nauja grupė">
-<!ENTITY  moveToNewGroup.accesskey           "N">
-<!ENTITY  namedGroups.label                  "Įvardintos grupės">
 <!ENTITY  bookmarkThisTab.label              "Įrašyti į adresyną šią kortelę">
 <!ENTITY  bookmarkThisTab.accesskey          "r">
 <!ENTITY  bookmarkAllTabs.label              "Įrašyti į adresyną visas korteles…">
@@ -224,12 +222,12 @@
 <!ENTITY inspectStyleButton.label          "Stilius">
 <!ENTITY inspectStyleButton.accesskey      "S">
 <!ENTITY inspectStylePanelTitle.label      "Stilius">
-<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
-  -  stands for Document Object Model and appears on the inspector's toolbar.
-  -  It is used to open and closed the DOM panel. There is also a DOM label in
-  -  inspector.properties for the panel titlebar. -->
-<!ENTITY inspectDOMButton.label            "DOM">
-<!ENTITY inspectDOMButton.accesskey        "D">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Objektas">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label         "Failas"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -298,11 +296,12 @@
 <!ENTITY showAllHistoryCmd2.label "Rodyti visą žurnalą">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label         "Spausdinti">
 <!ENTITY appMenuCustomize.label        "Tvarkyti">
 <!ENTITY appMenuToolbarLayout.label    "Priemonių juostos išdėstymas…">
 <!ENTITY appMenuSidebars.label         "Parankinė">
-<!ENTITY appMenuHelp.label             "Žinynas">
+<!ENTITY appMenuFind.label             "Ieškoti…">
+<!ENTITY appMenuUnsorted.label         "Nerūšiuoti adresai">
+<!ENTITY appMenuGettingStarted.label   "Darbo pradžia">
 
 <!ENTITY developerMenu.label           "Programavimas">
 
