@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "姓氏发音：">
 <!ENTITY DisplayName.label              "显示名称：">
 <!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "消息头优先列出显示名称">
+<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "昵称：">
 <!ENTITY NickName.accesskey             "N">
 
