@@ -1,0 +1,10 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY abouthome.pageTitle "Página de inicio de &brandFullName;">
+<!ENTITY abouthome.brandLogo.title "Logotipo de &brandFullName;">
+<!ENTITY abouthome.brandStart "Inicio de <span>&brandShortName;</span>">
+<!ENTITY abouthome.searchEngineLogo.title "Logotipo del motor de búsqueda">
+<!ENTITY abouthome.searchEngineButton.label "Buscar">
+<!ENTITY abouthome.searchEngineLinks.advanced "Búsqueda avanzada">
+<!ENTITY abouthome.searchEngineLinks.preferences "Preferencias">
+<!ENTITY abouthome.aboutMozilla "Acerca de Mozilla">
