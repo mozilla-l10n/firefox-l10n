@@ -113,7 +113,6 @@
 <!ENTITY addon.undoUninstall.label            "Ongedaan maken?">
 <!ENTITY addon.undoUninstall.tooltip          "Deze add-on geïnstalleerd laten">
 <!ENTITY addon.restartNow.label               "Nu herstarten">
-<!ENTITY addon.restartNow.tooltip             "Herstart nu om de installatie te voltooien">
 <!ENTITY addon.install.label                  "Installeren">
 <!ENTITY addon.install.tooltip                "Deze add-on installeren">
 <!ENTITY addon.updateNow.label                "Nu bijwerken">
