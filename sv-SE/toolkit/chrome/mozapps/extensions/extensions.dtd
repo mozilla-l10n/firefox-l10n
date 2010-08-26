@@ -92,22 +92,16 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Namn">
 <!ENTITY sort.name.tooltip                    "Ordna efter namn">
-<!ENTITY sort.size.label                      "Storlek">
-<!ENTITY sort.size.tooltip                    "Ordna efter storlek">
 <!ENTITY sort.dateUpdated.label               "Senast uppdaterad">
 <!ENTITY sort.dateUpdated.tooltip             "Ordna efter senast uppdaterad">
 <!ENTITY sort.rating.label                    "Betyg">
 <!ENTITY sort.rating.tooltip                  "Ordna efter genomsnittsbetyg">
 
-
-<!ENTITY showMore.label                       "Visa mer">
-<!ENTITY showMore.tooltip                     "Visar fler detaljer">
-<!ENTITY showLess.label                       "Visa mindre">
-<!ENTITY showLess.tooltip                     "Visar färre detaljer">
-
-<!ENTITY search.filter.label                  "Visa:">
-<!ENTITY search.filter.installed.label        "Dina installerade tillägg">
-<!ENTITY search.filter.available.label        "Tillgängliga tillägg">
+<!ENTITY search.filter2.label                 "Sök:">
+<!ENTITY search.filter2.installed.label       "Mina tillägg">
+<!ENTITY search.filter2.installed.tooltip     "Visar installerade tillägg">
+<!ENTITY search.filter2.available.label       "Tillgängliga tillägg">
+<!ENTITY search.filter2.available.tooltip     "Visar tillägg som kan installeras">
 
 <!ENTITY addon.homepage                       "Webbplats">
 <!ENTITY addon.details.label                  "Mer">
