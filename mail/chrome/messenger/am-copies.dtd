@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "寄送副本 (Cc) 至:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "用半形逗號（,）分隔地址">
+<!ENTITY ccAddressList.placeholder "用半形逗號（,）分隔地址">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "寄送密件副本 (Bcc) 至:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.emptytext "用半形逗號（,）分隔地址">
+<!ENTITY bccAddressList.placeholder "用半形逗號（,）分隔地址">
 <!ENTITY saveMessageDlg.label "儲存郵件時顯示確認視窗">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
