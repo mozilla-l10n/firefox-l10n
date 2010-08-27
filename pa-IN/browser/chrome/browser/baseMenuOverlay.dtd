@@ -19,11 +19,14 @@
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 
-
 <!ENTITY helpReleaseNotes.label         "ਰੀਲਿਜ਼ ਨੋਟਿਸ">
 <!ENTITY helpReleaseNotes.accesskey     "N">
+
 <!ENTITY helpTroubleshootingInfo.label      "ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
+<!ENTITY helpFeedbackPage.label      "ਸੁਝਾਅ ਭੇਜੋ…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY updateCmd.label                "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ...">
 

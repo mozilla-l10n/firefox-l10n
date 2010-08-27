@@ -84,36 +84,29 @@
 <!ENTITY detail.showPreferences.accesskey     "P">
 <!ENTITY detail.showPreferences.tooltip       "ਇਹ ਐਡ-ਆਨ ਦੀ ਪਸੰਦ ਬਦਲੋ">
 
-
 <!-- ratings -->
 <!ENTITY rating.label                         "ਰੇਟਿੰਗ:">
-
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "ਵਿਰਾਮ">
 <!ENTITY progress.cancel.tooltip              "ਰੱਦ ਕਰੋ">
 
-
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "ਨਾਂ">
 <!ENTITY sort.name.tooltip                    "ਨਾਂ ਨਾਲ ਲੜੀਬੱਧ">
-<!ENTITY sort.size.label                      "ਆਕਾਰ">
-<!ENTITY sort.size.tooltip                    "ਆਕਾਰ ਨਾਲ ਲੜੀਬੱਧ">
 <!ENTITY sort.dateUpdated.label               "ਆਖਰੀ ਵਾਰ ਅੱਪਡੇਟ">
 <!ENTITY sort.dateUpdated.tooltip             "ਅੱਪਡੇਟ ਮਿਤੀ ਨਾਲ ਲੜੀਬੱਧ">
 <!ENTITY sort.rating.label                    "ਰੇਟਿੰਗ">
 <!ENTITY sort.rating.tooltip                  "ਔਸਤ ਰੇਟਿੰਗ ਨਾਲ ਲੜੀਬੱਧ">
 
-
-<!ENTITY showMore.label                       "ਹੋਰ ਵੇਖੋ">
-<!ENTITY showMore.tooltip                     "ਹੋਰ ਵੱਧ ਜਾਣਕਾਰੀ ਵੇਖੋ">
-<!ENTITY showLess.label                       "ਘੱਟ ਵੇਖੋ">
-<!ENTITY showLess.tooltip                     "ਘੱਟ ਵੇਰਵਾ ਵੇਖੋ">
-
-<!ENTITY search.filter.label                  "ਵੇਖੋ:">
-<!ENTITY search.filter.installed.label        "ਤੁਹਾਡੀਆਂ ਇੰਸਟਾਲ ਐਡ-ਆਨ">
-<!ENTITY search.filter.available.label        "ਉਪਲੱਬਧ ਐਡ-ਆਨ">
+<!ENTITY search.filter2.label                 "ਖੋਜ:">
+<!ENTITY search.filter2.installed.label       "ਮੇਰੇ ਐਡ-ਆਨ">
+<!ENTITY search.filter2.installed.tooltip     "ਇੰਸਟਾਲ ਹੋਏ ਐਡ-ਆਨ ਵੇਖੋ">
+<!ENTITY search.filter2.available.label       "ਉਪਲੱਬਧ ਐਡ-ਆਨ">
+<!ENTITY search.filter2.available.tooltip     "ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਉਪਲੱਬਧ ਐਡ-ਆਨ ਵੇਖੋ">
 
 <!ENTITY addon.homepage                       "ਮੁੱਖ ਪੇਜ਼">
+<!ENTITY addon.details.label                  "ਹੋਰ">
+<!ENTITY addon.details.tooltip                "ਇਸ ਐਡ-ਆਨ ਬਾਰੇ ਹੋਰ ਵੇਰਵਾ ਵੇਖੋ">
 <!ENTITY addon.unknownDate                    "ਅਣਜਾਣ">
 <!ENTITY addon.disabled.postfix               "(ਬੰਦ ਹੈ)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -123,7 +116,7 @@
 <!ENTITY addon.undoUninstall.label            "ਵਾਪਸ ਲੈਣਾ?">
 <!ENTITY addon.undoUninstall.tooltip          "ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਰੱਖੋ">
 <!ENTITY addon.restartNow.label               "ਹੁਣੇ ਮੁੜ-ਚਾਲੂ">
-<!ENTITY addon.restartNow.tooltip             "ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
+
 <!ENTITY addon.install.label                  "ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addon.install.tooltip                "ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addon.updateNow.label                "ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ">
