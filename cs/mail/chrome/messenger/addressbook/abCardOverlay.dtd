@@ -62,8 +62,10 @@
 <!ENTITY NameField2.accesskey "P">
 <!ENTITY PhoneticField1.label "Foneticky:">
 <!ENTITY PhoneticField2.label "Foneticky:">
-<!ENTITY DisplayName.label "Zobrazené jméno:">
+<!ENTITY DisplayName.label "Zobrazované jméno:">
 <!ENTITY DisplayName.accesskey "o">
+<!ENTITY preferDisplayName.label "Vždy upřednostnit zobrazované jméno před hlavičkou zprávy">
+<!ENTITY preferDisplayName.accesskey "u">
 <!ENTITY NickName.label "Přezdívka:">
 <!ENTITY NickName.accesskey "e">
 
@@ -117,9 +119,9 @@
 <!ENTITY Birthday.label "Narozeniny:">
 <!ENTITY Birthday.accesskey "N">
 <!ENTITY In.label "">
-<!ENTITY Year.emptytext "rok">
+<!ENTITY Year.placeholder "rok">
 <!ENTITY Or.value "nebo">
-<!ENTITY Age.emptytext "věk">
+<!ENTITY Age.placeholder "věk">
 <!ENTITY YearsOld.label "">
 
 <!ENTITY Work.tab "Zaměstnání">
@@ -170,7 +172,7 @@
 <!ENTITY BrowsePhoto.accesskey "r">
 <!ENTITY PhotoURL.label "Na webu">
 <!ENTITY PhotoURL.accesskey "w">
-<!ENTITY PhotoURL.emptytext "Vložte nebo vepište webovou adresu fotografie">
+<!ENTITY PhotoURL.placeholder "Vložte nebo vepište webovou adresu fotografie">
 <!ENTITY UpdatePhoto.label "Aktualizovat">
 <!ENTITY UpdatePhoto.accesskey "A">
 

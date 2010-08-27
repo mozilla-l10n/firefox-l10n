@@ -7,7 +7,7 @@
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 
-<!ENTITY filter.emptytext "Hledat">
+<!ENTITY filter.placeholder "Hledat">
 
 <!ENTITY saveTo.label "Uložit soubory do">
 <!ENTITY saveTo.accesskey "U">
