@@ -82,8 +82,8 @@
 <!ENTITY sort.name.tooltip "Raða eftir heiti">
 <!ENTITY sort.dateUpdated.label "Síðast uppfært">
 <!ENTITY sort.dateUpdated.tooltip "Raða eftir uppsetningardagsetningu">
-<!ENTITY sort.rating.label "Einkunn">
-<!ENTITY sort.rating.tooltip "Raða eftir meðaltal einkunnar">
+<!ENTITY sort.relevance.label "Passar best við">
+<!ENTITY sort.relevance.tooltip "Raða eftir mikilvægi">
 <!ENTITY search.filter2.label "Leita:">
 <!ENTITY search.filter2.installed.label "Mínar viðbætur">
 <!ENTITY search.filter2.installed.tooltip "Sýna uppsettar viðbætur">
