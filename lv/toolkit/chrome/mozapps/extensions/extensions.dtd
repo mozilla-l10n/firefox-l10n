@@ -14,10 +14,10 @@
 
 <!-- Command Bar items -->
 
-<!ENTITY cmd.contribute.label                 "Dot iegldījumi">
+<!ENTITY cmd.contribute.label                 "Dot ieguldījumu">
 <!ENTITY cmd.contribute.accesskey             "D">
 <!ENTITY cmd.contribute.tooltip               "Dot ieguldījumu šī papildinājuma izstrādē">
-<!ENTITY cmd.findUpdates.label                "Meklēt atjauninājunmus">
+<!ENTITY cmd.findUpdates.label                "Meklēt atjauninājumus">
 <!ENTITY cmd.findUpdates.accesskey            "M">
 
 <!ENTITY cmd.enableAddon.label "Ieslēgt">
@@ -47,7 +47,7 @@
 
 <!ENTITY detail.updateAutomatically.label     "Atjaunināt automātiski">
 <!ENTITY detail.updateAutomatically.accesskey "A">
-<!ENTITY detail.updateAutomatically.tooltip   "Automātiski atjaunināt šo papildinākumu, kolīdz ir pieejama jaunāka versija">
+<!ENTITY detail.updateAutomatically.tooltip   "Automātiski atjaunināt šo papildinājumu, kolīdz ir pieejama jaunāka versija">
 <!ENTITY detail.checkForUpdates.label         "Meklēt atjauninājumus">
 <!ENTITY detail.checkForUpdates.accesskey     "M">
 <!ENTITY detail.checkForUpdates.tooltip       "Meklēt atjauninājumus šim papildinājumam">
@@ -57,9 +57,12 @@
 
 <!-- Status Messsages -->
 
-<!ENTITY search.filter.label                  "Rādīt:">
-<!ENTITY search.filter.installed.label        "Instalētos papildinājumus">
-<!ENTITY search.filter.available.label        "Pieejamos papildinājumus">
+<!ENTITY search.filter2.label                 "Rādīt:">
+<!ENTITY search.filter2.installed.label       "Manus papildinājumus">
+<!ENTITY search.filter2.installed.tooltip     "Rādīt instalētos papildinājumus">
+<!ENTITY search.filter2.available.label       "Pieejamos papildinājumus">
+<!ENTITY search.filter2.available.tooltip     "Rādīt instalēšanai pieejamos papildinājumus">
+
 
 <!ENTITY loading.label                        "Ielādē…">
 <!ENTITY listEmpty.installed.label            "Jums nav uzinstalēts neviens šī tipa atjauninājums">
@@ -87,7 +90,7 @@
 <!ENTITY addon.unknownDate                    "Nezināms">
 <!ENTITY addon.disabled.postfix               "(atslēgts)">
 <!ENTITY addon.undo.label                     "Atcelt?">
-<!ENTITY addon.undo.tooltip                   "Atcelt šo darbībi">
+<!ENTITY addon.undo.tooltip                   "Atcelt šo darbību">
 <!ENTITY addon.undoUninstall.label            "Atcelt?">
 <!ENTITY addon.undoUninstall.tooltip          "Atstāt šo papildinājumu">
 <!ENTITY addon.restartNow.label               "Pārstartēt">
@@ -127,6 +130,6 @@
 <!ENTITY addon.update.postfix                 "atjauninājums">
 
 <!ENTITY cmd.showReleaseNotes.label           "Parādīt laidiena piezīmes">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Parādt šī atjauninājuma laidiena piezīmes">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Parādīt šī atjauninājuma laidiena piezīmes">
 <!ENTITY cmd.hideReleaseNotes.label           "Paslēpt laidiena piezīmes">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Paslēpt šī laidiena piezīmes">
