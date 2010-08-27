@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Phonetisch:">
 <!ENTITY DisplayName.label              "Anzeigename:">
 <!ENTITY DisplayName.accesskey          "z">
+<!ENTITY preferDisplayName.label        "Immer Anzeigename statt der Angabe im Nachrichtenkopf verwenden">
+<!ENTITY preferDisplayName.accesskey    "z">
 <!ENTITY NickName.label                 "Spitzname:">
 <!ENTITY NickName.accesskey             "i">
 
