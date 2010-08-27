@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Jūsu pieprasītā adrese norādīja portu (piem. <q>mozilla.org:80</q> 80. ports uz mozilla.org), kas parasti tiek izmantots <em>citiem</em> mērķiem, nevis tīmekļa pārlūkošanai. Pārlūks, drošības apsvērumu dēļ, pārtrauca šo pieprasījumu.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloķē satura drošības politika">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; liedza šai lapai ielādēties šādā veidā, jo to neatļauj lapas drošības politika.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Pārlūks liedza šai lapai ielādēties šādā veidā, jo to neatļauj lapas drošības politika.</p>">
 
 <!ENTITY dnsNotFound.title "Adrese nav atrasta">
 
@@ -59,7 +59,7 @@
 
 <!ENTITY contentEncodingError.title "Satura kodējuma kļūda">
 
-<!ENTITY contentEncodingError.longDesc "<p>Lapa, kuru jūs mēģinat aplūkot, satur nederīgu vai neatbalsītu saspiešanas formu un tāpēc to nevar parādīt.</p><ul><li>Lūdzu sazinieties ar lapas īpašniekiem un ziņojiet par šo problēmu.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Lapa, kuru jūs mēģināt aplūkot, satur nederīgu vai neatbalstītu saspiešanas formu un tāpēc to nevar parādīt.</p><ul><li>Lūdzu sazinieties ar lapas īpašniekiem un ziņojiet par šo problēmu.</li></ul>">
 
 
 
@@ -79,7 +79,7 @@
 
 <!ENTITY netTimeout.title "Tīkla noildze">
 
-<!ENTITY netTimeout.longDesc "<p>Izvēlētā lapa neatbildēja uz nosūtīto pieprasījumu un pārlūks beidza gaidīt atbildi.</p><ul><li>Vai serverim varētu būt problēmas ar lielu slodzi vai īslaicīgi darbības traucējumi?  Mēģiniet vēlreiz nedaudz vēlāk.</li><li>Vai jums ir problēmas ar citu lapu aplūkošanu? Pārbaudiet sava datora tīkla savienojumu.</li><li>Vai jūsu datoru no Interneta aizsargā ugunsmūris vai starpniekserveris?  Nekorekti šo lietu iestatījumi var traucēt tīmekļa parlūkošanu.</li><li>Jums joprojām ir problēmas? Lūdziet palīdzību savam tīkla administratoram vai Interneta pakalpojumu sniedzējam.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Izvēlētā lapa neatbildēja uz nosūtīto pieprasījumu un pārlūks beidza gaidīt atbildi.</p><ul><li>Vai serverim varētu būt problēmas ar lielu slodzi vai īslaicīgi darbības traucējumi?  Mēģiniet vēlreiz nedaudz vēlāk.</li><li>Vai jums ir problēmas ar citu lapu aplūkošanu? Pārbaudiet sava datora tīkla savienojumu.</li><li>Vai jūsu datoru no Interneta aizsargā ugunsmūris vai starpniekserveris?  Nekorekti šo lietu iestatījumi var traucēt tīmekļa pārlūkošanu.</li><li>Jums joprojām ir problēmas? Lūdziet palīdzību savam tīkla administratoram vai Interneta pakalpojumu sniedzējam.</li></ul>">
 
 
 
@@ -123,7 +123,7 @@
 
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Tā varētu būt problēma ar servera konfigurāciju, vai arī kāds cits mēģina izlikties par šo serveri.</li> 
-<li>Ja iepriekš jums ir izdevies veiksmīgi pieslēgties šim serverim, problēma varētu būt īslaicīga. Mēģiiet vēlreiz nedaudz vēlāk.</li> 
+<li>Ja iepriekš jums ir izdevies veiksmīgi pieslēgties šim serverim, problēma varētu būt īslaicīga. Mēģiniet vēlreiz nedaudz vēlāk.</li> 
 </ul>">
 
 
@@ -138,7 +138,7 @@
 <!ENTITY phishingBlocked.title "Iespējama krāpnieku lapa!">
 
 <!ENTITY phishingBlocked.longDesc "<p>Personiskās informācijas ievadīšana šajā lapā var novest pie tās zādzības un ļaunprātīgas izmantošanas vai krāpšanas.</p> 
-<p>Šāda tipa lapas tiek izmantotas uzbrukumos, kas pazīstami kā fišinga uzbrukumi, kuros ar neīstu mājas lapu vai e-pastu palīdžību krāpnieki mēģina izlikties par uzticamiem Interneta avotiem.</p>">
+<p>Šāda tipa lapas tiek izmantotas uzbrukumos, kas pazīstami kā fišinga uzbrukumi, kuros ar neīstu mājas lapu vai e-pastu palīdzību krāpnieki mēģina izlikties par uzticamiem Interneta avotiem.</p>">
 <!-- Include app-specific error messages - do not change this in localization!
 
      Some applications might override netErrorApp.dtd with their specific version,
