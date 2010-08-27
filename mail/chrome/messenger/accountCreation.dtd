@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title "Založení poštovního účtu">
 <!ENTITY name.label "Vaše jméno:">
 <!ENTITY name.accesskey "V">
-<!ENTITY name.emptytext "Jméno Příjmení">
+<!ENTITY name.placeholder "Jméno Příjmení">
 <!ENTITY name.text "Vaše jméno tak, jak se bude zobrazovat ostatním.">
 <!ENTITY email.label "E-mail:">
 <!ENTITY email.accesskey "l">
-<!ENTITY email.emptytext "email@example.com">
+<!ENTITY email.placeholder "email@example.com">
 <!ENTITY password.label "Heslo:">
 <!ENTITY password.accesskey "H">
-<!ENTITY password.emptytext "Heslo">
+<!ENTITY password.placeholder "Heslo">
 <!ENTITY password.text "Nepovinné, pouze pro ověření uživatelského jména">
 
 <!ENTITY accountInformation.label "Informace o účtu">

@@ -5,7 +5,6 @@
 <!ENTITY reload.label "Obnovit">
 <!ENTITY stop.label "Zastavit">
 <!ENTITY go.label "Přejít">
-<!ENTITY openLocation.label "Otevřít adresu">
 <!ENTITY star.label "Hvězda">
 
 <!ENTITY newtab.label "Nový panel">
@@ -20,7 +19,10 @@
 <!ENTITY noSuggestions.label "(žádné návrhy)">
 <!ENTITY addToDictionary.label "Přidat do slovníku">
 
+<!ENTITY allPagesHeader.label "Všechny stránky">
 <!ENTITY bookmarksHeader.label "Záložky">
+<!ENTITY historyHeader.label "Historie">
+<!ENTITY desktopHeader.label "Počítač">
 
 <!ENTITY editBookmarkDone.label "Hotovo">
 <!ENTITY editBookmarkTags.label "Přidat štítky">
@@ -88,6 +90,8 @@
 <!ENTITY contextSaveImage.label "Uložit obrázek">
 <!ENTITY contextShareLink.label "Sdílet odkaz">
 <!ENTITY contextShareImage.label "Sdílet obrázek">
+<!ENTITY contextSaveVideo.label "Uložit video">
+<!ENTITY contextShareVideo.label "Sdílet video">
 <!ENTITY contextEditBookmark.label "Upravit">
 <!ENTITY contextRemoveBookmark.label "Odebrat">
 
