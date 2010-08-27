@@ -54,8 +54,8 @@
 <!ENTITY  moveToGroup.label                  "Pārvietot uz grupu">
 <!ENTITY  moveToGroup.accesskey              "P">
 <!ENTITY  moveToNewGroup.label               "Jauna grupa">
-<!ENTITY inspectDOMButton.label       "DOM">
-<!ENTITY inspectDOMButton.accesskey       "D">
+<!ENTITY inspectObjectButton.label       "Objekts">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY appMenuFind.label "Meklēt…">
 <!ENTITY appMenuUnsorted.label "Nešķirotas grāmatzīmes">
@@ -437,8 +437,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Rediģēt uznistošo logu bloķētāja iestatījumus...">
-<!ENTITY editPopupSettings.label "Rediģēt uznistošo logu bloķētāja iestatījumus...">
+<!ENTITY editPopupSettingsUnix.label "Rediģēt uznirstošo logu bloķētāja iestatījumus...">
+<!ENTITY editPopupSettings.label "Rediģēt uznirstošo logu bloķētāja iestatījumus...">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
