@@ -35,7 +35,5 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "Atjauninājumu vēsture">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
-<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
-<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D ieslēgts">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Kopēt visu atmiņā">
