@@ -99,22 +99,13 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Όνομα">
 <!ENTITY sort.name.tooltip                    "Ταξινόμηση κατά όνομα">
-<!ENTITY sort.size.label                      "Μέγεθος">
-<!ENTITY sort.size.tooltip                    "Ταξινόμηση κατά μέγεθος">
+
 <!ENTITY sort.dateUpdated.label               "Τελευταία ενημέρωση">
 <!ENTITY sort.dateUpdated.tooltip             "Ταξινόμηση κατά ημερομηνία ενημέρωσης">
 <!ENTITY sort.rating.label                    "Αξιολόγηση">
 <!ENTITY sort.rating.tooltip                  "Ταξινόμηση κατά μέσο όρο αξιολόγησης">
 
 
-<!ENTITY showMore.label                       "Προβολή περισσότερων">
-<!ENTITY showMore.tooltip                     "Προβολή περισσότερων λεπτομερειών">
-<!ENTITY showLess.label                       "Προβολή λιγότερων">
-<!ENTITY showLess.tooltip                     "Προβολή λιγότερων">
-
-<!ENTITY search.filter.label                  "Προβολή:">
-<!ENTITY search.filter.installed.label        "Τα εγκαταστημένα σας πρόσθετα">
-<!ENTITY search.filter.available.label        "Διαθέσιμα πρόσθετα">
 
 <!ENTITY addon.homepage                       "Αρχική σελίδα">
 <!ENTITY addon.unknownDate                    "Άγνωστη">
@@ -126,7 +117,7 @@
 <!ENTITY addon.undoUninstall.label            "Αναίρεση;">
 <!ENTITY addon.undoUninstall.tooltip          "Διατήρηση αυτού του προσθέτου">
 <!ENTITY addon.restartNow.label               "Επανεκκίνηση τώρα">
-<!ENTITY addon.restartNow.tooltip             "Επανεκκίνηση τώρα για ολοκλήρωση της εγκατάστασης">
+
 <!ENTITY addon.install.label                  "Εγκατάσταση">
 <!ENTITY addon.install.tooltip                "Εγκατάσταση αυτού του προσθέτου">
 <!ENTITY addon.checkingForUpdates.label       "Γίνεται έλεγχος για ενημερώσεις…">
@@ -146,6 +137,20 @@
 
 <!-- ratings -->
 <!ENTITY rating.label                         "Αξιολόγηση:">
+
+<!ENTITY addon.details.label                  "Περισσότερα">
+<!ENTITY addon.details.tooltip                "Προβολή περισσότερων πληροφοριών για αυτό το πρόσθετο">
+
+<!ENTITY installFromFile.label                "Εγκατάσταση από αρχείο…">
+<!ENTITY installFromFile.accesskey            "γ">
+
+<!ENTITY search.filter2.label                 "Αναζήτηση:">
+<!ENTITY search.filter2.installed.label       "Τα πρόσθετα μου">
+<!ENTITY search.filter2.installed.tooltip     "Προβολή εγκατεστημένων προσθέτων">
+<!ENTITY search.filter2.available.label       "Διαθέσιμα πρόσθετα">
+<!ENTITY search.filter2.available.tooltip     "Προβολή διαθέσιμων πρόσθετων για εγκατάσταση">
+
+
 
 
 
