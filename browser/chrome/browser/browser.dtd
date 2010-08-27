@@ -129,11 +129,10 @@
 <!ENTITY inspectStyleButton.accesskey "Σ">
 <!ENTITY inspectStylePanelTitle.label  "Στυλ">
 
-<!ENTITY  createNewGroup.label               "Δημιουργία νέας ομάδας">
-<!ENTITY  createNewGroup.accesskey           "μ">
-<!ENTITY  moveTabTo.label                    "Μετακίνηση αυτής της καρτέλας σε…">
-<!ENTITY  moveTabTo.accesskey                "Μ">
-<!ENTITY  namedGroups.label                  "Ομάδες με όνομα">
+
+
+
+
 <!ENTITY showTabView2.label     "Ομαδοποίηση των καρτελών σας…">
 <!ENTITY showTabView2.accesskey     "δ">
 <!ENTITY tabViewButton2.label         "Ομάδες καρτελών">
@@ -384,11 +383,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addCurPagesCmd.label "Όλες οι καρτέλες ως σελιδοδείκτης...">
 
 
-<!ENTITY appMenuPrintCmd.label "Εκτύπωση">
+
 <!ENTITY appMenuCustomize.label "Προσαρμογή">
 <!ENTITY appMenuToolbarLayout.label "Διάταξη εργαλειοθήκης…">
 <!ENTITY appMenuSidebars.label "Πλευρικές στήλες">
-<!ENTITY appMenuHelp.label "Βοήθεια">
+
 
 
 
@@ -570,4 +569,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncLogOutItem.accesskey     "π">
 <!ENTITY syncSyncNowItem.label        "Συγχρονισμός τώρα">
 <!ENTITY syncSyncNowItem.accesskey    "Σ">
+
+<!ENTITY appMenuFind.label "Εύρεση…">
+<!ENTITY appMenuGettingStarted.label "Ξεκινώντας">
+<!ENTITY appMenuUnsorted.label "Αταξινόμητοι σελιδοδείκτες">
+
+
+<!ENTITY inspectObjectButton.label       "Αντικείμενο">
+<!ENTITY inspectObjectButton.accesskey   "ο">
+
+<!ENTITY  moveToGroup.label                  "Μετακίνηση στην ομάδα">
+<!ENTITY  moveToGroup.accesskey              "Μ">
+<!ENTITY  moveToNewGroup.label               "Νέα ομάδα">
+
+
 
