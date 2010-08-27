@@ -22,6 +22,8 @@
 <!ENTITY helpMac.commandkey       "?">
 
 
+<!ENTITY helpFeedbackPage.label      "Υποβολή σχολίων…">
+<!ENTITY helpFeedbackPage.accesskey  "χ">
 
 
 

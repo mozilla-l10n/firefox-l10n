@@ -1,0 +1,21 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "Αρχική σελίδα &brandFullName;">
+<!ENTITY abouthome.brandLogo.title "Λόγότυπο &brandFullName;">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
+
+<!ENTITY abouthome.searchEngineLogo.title "Λογότυπο μηχανής αναζήτησης">
+
+<!ENTITY abouthome.searchEngineButton.label "Αναζήτηση">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Προχωρημένη αναζήτηση">
+<!ENTITY abouthome.searchEngineLinks.preferences "Προτιμήσεις">
+
+<!ENTITY abouthome.aboutMozilla "Περί Mozilla">
+
