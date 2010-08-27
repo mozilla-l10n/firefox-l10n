@@ -49,7 +49,5 @@
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Πατήστε τέλος για να συνεχίσετε με την εκκίνηση του &brandShortName;.">
 <!ENTITY  enableChecking.label            "Να επιτρέπεται στον &brandShortName; να ελέγχει για ενημερώσεις.">
-<!ENTITY  details.label                   "Λεπτομέρειες...">
-<!ENTITY  details.accesskey               "λ">
 
 <!ENTITY  clickFinish.labelMac            "Πατήστε Ολοκλήρωση για να συνεχίσετε με την εκκίνηση του &brandShortName;.">
