@@ -577,7 +577,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "n">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Buscar mensajes…">
+<!ENTITY glodaSearchBar.placeholder "Buscar mensajes…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Asunto">

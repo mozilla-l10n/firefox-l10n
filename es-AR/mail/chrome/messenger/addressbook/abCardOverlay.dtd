@@ -65,7 +65,8 @@ The Initial Developer of the Original Code is
 <!ENTITY DisplayName.label "Mostrado:">
 <!ENTITY DisplayName.accesskey "d">
 <!ENTITY preferDisplayName.label        "Siempre preferir nombre mostrado en lugar de encabezado del mensaje">
-<!ENTITY preferDisplayName.accesskey    "y"><!ENTITY NickName.label "Apodo:">
+<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY NickName.label "Apodo:">
 <!ENTITY NickName.accesskey "A">
 
 <!ENTITY PrimaryEmail.label "Correo electrónico:">
@@ -118,9 +119,9 @@ incrustado en mensajes HTML de este contacto.">
 <!ENTITY Birthday.label                 "Cumpleaños:">
 <!ENTITY Birthday.accesskey             "C">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Año">
+<!ENTITY Year.placeholder               "Año">
 <!ENTITY Or.value                       "o">
-<!ENTITY Age.emptytext                  "Edad">
+<!ENTITY Age.placeholder                "Edad">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab "Trabajo">
@@ -171,6 +172,6 @@ incrustado en mensajes HTML de este contacto.">
 <!ENTITY BrowsePhoto.accesskey          "x">
 <!ENTITY PhotoURL.label                 "En la web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "Pegar o ingresar la dirección web de una foto">
+<!ENTITY PhotoURL.placeholder           "Pegar o ingresar la dirección web de una foto">
 <!ENTITY UpdatePhoto.label              "Actualizar">
 <!ENTITY UpdatePhoto.accesskey          "u">
