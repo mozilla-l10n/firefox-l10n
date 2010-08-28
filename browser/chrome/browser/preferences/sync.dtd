@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "התקנת &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label מאפשר לך לגשת להיסטוריה, לסימניות, לססמאות וללשוניות הפתוחות שלך מכל המכשירים שברשותך.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; מאפשר לך לגשת להיסטוריה, לסימניות, לססמאות וללשוניות הפתוחות שלך מכל המכשירים שברשותך.">
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "חשבון &syncBrand.fullName.label;">

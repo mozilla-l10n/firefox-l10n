@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "דף הפתיחה של &brandFullName;">
+<!ENTITY abouthome.brandLogo.title "הלוגו של &brandFullName;">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart "התחלת <span>&brandShortName;</span>">
+
+<!ENTITY abouthome.searchEngineLogo.title "לוגו מנוע החיפוש">
+
+<!ENTITY abouthome.searchEngineButton.label "חיפוש">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "חיפוש מתקדם">
+<!ENTITY abouthome.searchEngineLinks.preferences "העדפות">
+
+<!ENTITY abouthome.aboutMozilla "אודות Mozilla">

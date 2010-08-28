@@ -24,8 +24,8 @@
 <!ENTITY helpTroubleshootingInfo.label      "מידע לפתרון בעיות">
 <!ENTITY helpTroubleshootingInfo.accesskey  "מ">
 
-<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpFeedbackPage.label      "שלח את המשוב…">
+<!ENTITY helpFeedbackPage.accesskey  "ש">
 
 <!ENTITY updateCmd.label                "בדוק אם ישנם עדכונים…">
 

@@ -1,10 +1,10 @@
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label             "קידוד תוים">
-<!ENTITY charsetMenu.accesskey         "ד">
+<!ENTITY charsetMenu.label             "קידוד תווים">
+<!ENTITY charsetMenu.accesskey         "ק">
 <!ENTITY charsetMenuAutodet.label      "זיהוי אוטומטי">
 <!ENTITY charsetMenuAutodet.accesskey  "א">
-<!ENTITY charsetMenuMore.label         "קידודי תוים נוספים">
-<!ENTITY charsetMenuMore.accesskey     "ת">
+<!ENTITY charsetMenuMore.label         "קידודי תווים נוספים">
+<!ENTITY charsetMenuMore.accesskey     "ק">
 <!ENTITY charsetMenuMore1.label        "מערב אירופי">
 <!ENTITY charsetMenuMore1.accesskey    "ע">
 <!ENTITY charsetMenuMore2.label        "מזרח אירופי">
