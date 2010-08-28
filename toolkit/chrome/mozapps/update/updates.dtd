@@ -29,10 +29,12 @@
 <!ENTITY verificationFailedText.label "&brandShortName; не удалось удостовериться в целостности загруженного частичного обновления, поэтому он загружает полное обновление.">
 <!ENTITY viewDetails.tooltip "Подробнее об этом обновлении">
 <!ENTITY details.link "Подробности">
+<!ENTITY error.title "Обновление не удалось">
 <!ENTITY error.label "При проверке, загрузке или установке этого обновления возникли проблемы. &brandShortName; не был обновлен по следующей причине:">
 <!ENTITY errorManual.label "Вы можете обновить &brandShortName; вручную, перейдя по следующей ссылке и загрузив его последнюю версию:">
-<!ENTITY errorpatching.title "Обновление не удалось">
 <!ENTITY errorpatching.intro "Частичное обновление не может быть установлено. &brandShortName; попытается установить обновление, загрузив полное обновление.">
+<!ENTITY errorCertAttrNoUpdate.label "Что-то не даёт &brandShortName; произвести безопасное обновление. Пожалуйста, проверьте, что у вас установлена последняя версия &brandShortName;, по адресу:">
+<!ENTITY errorCertAttrHasUpdate.label "Что-то пытается обмануть &brandShortName;, предлагая ему небезопасное обновление. Пожалуйста, свяжитесь с вашим Интернет-провайдером, и попросите его о помощи.">
 <!ENTITY finishedPage.title "Обновление готово для установки">
 <!ENTITY finishedPage.text "Обновление будет установлено при следующем запуске &brandShortName;. Вы можете перезапустить &brandShortName; прямо сейчас, или продолжить работу и перезапустить его позже.">
 <!ENTITY finishedBackgroundPage.text "Обновление стабильности и безопасности для &brandShortName; успешно загружено и готово для установки.">
