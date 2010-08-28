@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "m">
 <!ENTITY useSmoothScrolling.label        "Vloeiend schuiven gebruiken">
 <!ENTITY useSmoothScrolling.accesskey    "e">
+<!ENTITY allowHWAccel.label              "Gebruik hardware-acceleratie wanneer beschikbaar">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Mijn spelling controleren tijdens het typen">
 <!ENTITY checkSpelling.accesskey         "s">
 
