@@ -52,15 +52,20 @@
 
 <!ENTITY details.link "Podrobnosti">
 
+<!ENTITY error.title "Aktualizace se nezdařila">
+
 <!ENTITY error.label "Při kontrole, stahování či instalaci aktualizace došlo k chybě. Aplikaci &brandShortName; se nepodařilo aktualizovat, protože: ">
 
 
 <!ENTITY errorManual.label "Aplikaci &brandShortName; doporučujeme aktualizovat ručně stažením nejnovější verze z této stránky: ">
 
 
-<!ENTITY errorpatching.title "Aktualizace se nezdařila">
 <!ENTITY errorpatching.intro "Použití rozdílové aktualizace se nezdařilo. Aplikace &brandShortName; se pokusí stáhnout kompletní aktualizaci.">
 
+
+<!ENTITY errorCertAttrNoUpdate.label "Aplikaci &brandShortName; je bráněno v bezpečné aktualizaci. Zkontrolujte prosím, že máte poslední verzi aplikace &brandShortName; v:">
+
+<!ENTITY errorCertAttrHasUpdate.label "Aplikaci &brandShortName; je nabízena nezabezpečená aktualizace. Kontaktujte prosím svého správce sítě a požádejte ho o pomoc.">
 
 <!ENTITY finishedPage.title "Aktualizace je připravena k instalaci">
 <!ENTITY finishedPage.text "Aktualizace bude nainstalována při příštím startu aplikace &brandShortName;. Nyní můžete aplikaci &brandShortName; restartovat nebo pokračovat v práci a restartovat ji později.">
@@ -72,6 +77,7 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more "Aktualizace bude nainstalována při příštím startu aplikace &brandShortName;. Nyní můžete aplikaci &brandShortName; restartovat nebo pokračovat v práci a restartovat ji později.">
 
+
 <!ENTITY installed.title "Aktualizace nainstalována">
 <!ENTITY installed.intro "Aktualizace byla úspěšně nainstalována.">
 <!ENTITY whatsnew.label "Přečtěte si, co je nového…">
@@ -79,4 +85,3 @@
 <!ENTITY update.details.label "Podrobnosti">
 <!ENTITY update.installedOn.label "Nainstalováno dne:">
 <!ENTITY update.status.label "Stav:">
-

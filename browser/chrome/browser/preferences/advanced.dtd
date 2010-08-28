@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey "P">
 <!ENTITY useSmoothScrolling.label "Použít jemné posunování">
 <!ENTITY useSmoothScrolling.accesskey "e">
+<!ENTITY allowHWAccel.label "Použít hardwarovou akceleraci, je-li dostupná">
+<!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "Při psaní kontrolovat pravopis">
 <!ENTITY checkSpelling.accesskey "r">
 
