@@ -14,6 +14,8 @@
 <!ENTITY PhoneticField2.label "Фанетычна:">
 <!ENTITY DisplayName.label "Адлюстроўнае:">
 <!ENTITY DisplayName.accesskey "л">
+<!ENTITY preferDisplayName.label "Заўсёды аддаваць перавагу адлюстроўнаму імя перад загалоўкам ліста">
+<!ENTITY preferDisplayName.accesskey "ў">
 <!ENTITY NickName.label "Мянушка:">
 <!ENTITY NickName.accesskey "М">
 <!ENTITY PrimaryEmail.label "Э-Пошта:">
@@ -63,9 +65,9 @@
 <!ENTITY Birthday.label "Дзень нараджэння:">
 <!ENTITY Birthday.accesskey "р">
 <!ENTITY In.label "">
-<!ENTITY Year.emptytext "Год">
+<!ENTITY Year.placeholder "Год">
 <!ENTITY Or.value "ці">
-<!ENTITY Age.emptytext "Узрост">
+<!ENTITY Age.placeholder "Узрост">
 <!ENTITY YearsOld.label "">
 <!ENTITY Work.tab "Працоўныя">
 <!ENTITY Work.accesskey "П">
@@ -113,6 +115,6 @@
 <!ENTITY BrowsePhoto.accesskey "г">
 <!ENTITY PhotoURL.label "У Сеціве">
 <!ENTITY PhotoURL.accesskey "С">
-<!ENTITY PhotoURL.emptytext "Устаўце ці набярыце сеціўны адрас здымка">
+<!ENTITY PhotoURL.placeholder "Устаўце ці набярыце сеціўны адрас здымка">
 <!ENTITY UpdatePhoto.label "Абнавіць">
 <!ENTITY UpdatePhoto.accesskey "н">

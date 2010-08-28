@@ -527,7 +527,7 @@
 <!ENTITY folderContextSettings.accesskey "Н">
 <!ENTITY SearchNameOrEmail.label "Імя або адрас змяшчаюць:">
 <!ENTITY SearchNameOrEmail.accesskey "І">
-<!ENTITY glodaSearchBar.emptyText "Пошук лістоў…">
+<!ENTITY glodaSearchBar.placeholder "Пошук лістоў…">
 <!ENTITY searchSubjectMenu.label "Тэма">
 <!ENTITY searchFromMenu.label "Ад">
 <!ENTITY searchSubjectOrFromMenu.label "Тэма або Ад">

@@ -349,7 +349,7 @@
 <!ENTITY tableDeleteMenu.accesskey "д">
 <!ENTITY tableJoinCells.label "я">
 <!ENTITY tableJoinCells.accesskey "я">
-<!ENTITY tableSplitCell.label "Падзяліць  клетку">
+<!ENTITY tableSplitCell.label "Падзяліць клетку">
 <!ENTITY tableSplitCell.accesskey "к">
 <!ENTITY convertToTable.label "Стварыць табліцу з вылучэння">
 <!ENTITY convertToTable.accesskey "р">

@@ -20,7 +20,7 @@
 <!ENTITY showReturnReceipts.accesskey "К">
 <!ENTITY reading.caption "Чытанне">
 <!ENTITY display.caption "Адлюстраванне">
-<!ENTITY showCondensedAddresses.label "Паказваць толькі адлюстравальнае імя для людзей з маёй адраснай кнігі">
+<!ENTITY showCondensedAddresses.label "Паказваць толькі адлюстроўнае імя для людзей з маёй адраснай кнігі">
 <!ENTITY showCondensedAddresses.accesskey "П">
 <!ENTITY autoMarkAsRead.label "Самастойна пазначаць лісты прачытанымі">
 <!ENTITY autoMarkAsRead.accesskey "ч">

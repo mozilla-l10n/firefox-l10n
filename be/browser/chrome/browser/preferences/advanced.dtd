@@ -11,6 +11,8 @@
 <!ENTITY useAutoScroll.accesskey "с">
 <!ENTITY useSmoothScrolling.label "Ужываць плаўнае пракручванне">
 <!ENTITY useSmoothScrolling.accesskey "л">
+<!ENTITY allowHWAccel.label "Ужываць, калі можна, паскарэнне начыння">
+<!ENTITY allowHWAccel.accesskey "н">
 <!ENTITY checkSpelling.label "Правяраць правапіс падчас набору">
 <!ENTITY checkSpelling.accesskey "п">
 <!ENTITY systemDefaults.label "Сістэмныя змоўчкі">

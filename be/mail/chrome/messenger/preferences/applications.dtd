@@ -4,7 +4,7 @@
 <!ENTITY actionColumn2.accesskey "Д">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.emptytext "Пошук">
+<!ENTITY filter.placeholder "Пошук">
 <!ENTITY saveTo.label "Захоўваць файлы ў">
 <!ENTITY saveTo.accesskey "З">
 <!ENTITY alwaysAsk.label "Заўсёды пытаць мяне, дзе захоўваць файлы">
