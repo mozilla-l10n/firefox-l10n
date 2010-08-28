@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "使用平滑捲動">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "可用時開啟硬體加速">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "打字時即時檢查拼字">
 <!ENTITY checkSpelling.accesskey         "t">
 
