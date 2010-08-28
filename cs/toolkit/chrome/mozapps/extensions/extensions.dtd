@@ -10,8 +10,10 @@
 <!ENTITY installFromFile.label "Instalovat ze souboru…">
 <!ENTITY installFromFile.accesskey "I">
 
+<!ENTITY cmd.back.tooltip "Přejde jednu stránku zpět">
+<!ENTITY cmd.forward.tooltip "Přejde jednu stránku vpřed">
+
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label "Hledat">
 <!ENTITY view.discover.label "Získání doplňků">
 <!ENTITY view.locales.label "Jazykové balíčky">
@@ -21,6 +23,8 @@
 <!ENTITY view.plugins.label "Zásuvné moduly">
 <!ENTITY view.recentUpdates.label "Nedávné aktualizace">
 <!ENTITY view.availableUpdates.label "Dostupné aktualizace">
+<!ENTITY view.utilites.preferences.tooltip "Možnosti všech doplňků">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Předvolby všech doplňků">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label "Aktualizovat doplňky">
@@ -41,8 +45,10 @@
 <!ENTITY cmd.showDetails.accesskey "Z">
 <!ENTITY cmd.findUpdates.label "Aktualizovat">
 <!ENTITY cmd.findUpdates.accesskey "A">
-<!ENTITY cmd.preferences.label "Předvolby">
-<!ENTITY cmd.preferences.accesskey "P">
+<!ENTITY cmd.preferencesWin.label "Možnosti">
+<!ENTITY cmd.preferencesWin.accesskey "M">
+<!ENTITY cmd.preferencesUnix.label "Předvolby">
+<!ENTITY cmd.preferencesUnix.accesskey "P">
 <!ENTITY cmd.about.label "O doplňku">
 <!ENTITY cmd.about.accesskey "O">
 
@@ -52,8 +58,10 @@
 <!ENTITY cmd.disableAddon.accesskey "Z">
 <!ENTITY cmd.uninstallAddon.label "Odebrat">
 <!ENTITY cmd.uninstallAddon.accesskey "O">
-<!ENTITY cmd.showPreferences.label "Předvolby">
-<!ENTITY cmd.showPreferences.tooltip "Umožní změnit předvolby doplňku">
+<!ENTITY cmd.showPreferencesWin.label "Možnosti">
+<!ENTITY cmd.showPreferencesWin.tooltip "Umožní změnit možnosti doplňku">
+<!ENTITY cmd.showPreferencesUnix.label "Předvolby">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Umožní změnit předvolby doplňku">
 <!ENTITY cmd.contribute.label "Přispět">
 <!ENTITY cmd.contribute.accesskey "P">
 <!ENTITY cmd.contribute.tooltip "Zobrazí informace jak přispět k vývoji doplňku">
@@ -76,9 +84,12 @@
 <!ENTITY detail.checkForUpdates.label "Zkontrolovat aktualizace">
 <!ENTITY detail.checkForUpdates.accesskey "Z">
 <!ENTITY detail.checkForUpdates.tooltip "Zkontroluje dostupnost aktualizace doplňku">
-<!ENTITY detail.showPreferences.label "Předvolby">
-<!ENTITY detail.showPreferences.accesskey "P">
-<!ENTITY detail.showPreferences.tooltip "Umožní nastavit předvolby doplňku">
+<!ENTITY detail.showPreferencesWin.label "Možnosti">
+<!ENTITY detail.showPreferencesWin.accesskey "M">
+<!ENTITY detail.showPreferencesWin.tooltip "Umožní změnit možnosti doplňku">
+<!ENTITY detail.showPreferencesUnix.label "Předvolby">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip "Umožní změnit předvolby doplňku">
 
 
 <!-- ratings -->
@@ -94,8 +105,8 @@
 <!ENTITY sort.name.tooltip "Řadit dle názvu">
 <!ENTITY sort.dateUpdated.label "Aktualizace">
 <!ENTITY sort.dateUpdated.tooltip "Řadit dle aktualizace">
-<!ENTITY sort.rating.label "Hodnocení">
-<!ENTITY sort.rating.tooltip "Řadit dle průměrného hodnocení">
+<!ENTITY sort.relevance.label "Nejlepší shody">
+<!ENTITY sort.relevance.tooltip "Řadit dle nejlepší shody">
 
 <!ENTITY search.filter2.label "Hledat:">
 <!ENTITY search.filter2.installed.label "Mé doplňky">
@@ -104,9 +115,8 @@
 <!ENTITY search.filter2.available.tooltip "Zobrazí doplňky dostupné k instalaci">
 
 <!ENTITY addon.homepage "Domovská stránka">
-<!ENTITY addon.details.label                  "Více">
-<!ENTITY addon.details.tooltip                "Zobrazí více informací o doplňku">
-
+<!ENTITY addon.details.label "Více">
+<!ENTITY addon.details.tooltip "Zobrazí více informací o doplňku">
 <!ENTITY addon.unknownDate "Neznámá">
 <!ENTITY addon.disabled.postfix "(zakázáno)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
