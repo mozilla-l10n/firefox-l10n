@@ -52,7 +52,10 @@
 <!ENTITY noSuggestions.label              "(Nėra siūlymų)">
 <!ENTITY addToDictionary.label            "Įtraukti į žodyną">
 
+<!ENTITY allPagesHeader.label             "Visi tinklalapiai">
 <!ENTITY bookmarksHeader.label            "Adresynas">
+<!ENTITY historyHeader.label              "Žurnalas">
+<!ENTITY desktopHeader.label              "Darbalaukis">
 
 <!ENTITY editBookmarkTags.label           "Gairės:">
 <!ENTITY editBookmarkDone.label           "Įrašyti">
@@ -120,6 +123,8 @@
 <!ENTITY contextSaveImage.label           "Įrašyti paveikslą">
 <!ENTITY contextShareLink.label           "Dalintis saitu">
 <!ENTITY contextShareImage.label          "Dalintis paveikslu">
+<!ENTITY contextSaveVideo.label           "Įrašyti vaizdą">
+<!ENTITY contextShareVideo.label          "Dalintis vaizdu">
 <!ENTITY contextEditBookmark.label        "Taisyti">
 <!ENTITY contextRemoveBookmark.label      "Pašalinti">
 
