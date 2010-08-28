@@ -43,8 +43,10 @@
 <!ENTITY cmd.showDetails.accesskey            "V">
 <!ENTITY cmd.findUpdates.label                "Sök efter uppdateringar">
 <!ENTITY cmd.findUpdates.accesskey            "S">
-<!ENTITY cmd.preferences.label                "Inställningar">
-<!ENTITY cmd.preferences.accesskey            "n">
+<!ENTITY cmd.preferencesWin.label             "Inställningar">
+<!ENTITY cmd.preferencesWin.accesskey         "n">
+<!ENTITY cmd.preferencesUnix.label            "Inställningar">
+<!ENTITY cmd.preferencesUnix.accesskey        "n">
 <!ENTITY cmd.about.label                      "Om">
 <!ENTITY cmd.about.accesskey                  "O">
 
@@ -54,8 +56,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "k">
 <!ENTITY cmd.uninstallAddon.label             "Ta bort">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
-<!ENTITY cmd.showPreferences.label            "Inställningar">
-<!ENTITY cmd.showPreferences.tooltip          "Ändra tilläggets inställningar">
+<!ENTITY cmd.showPreferencesWin.label         "Inställningar">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Ändra tilläggets inställningar">
+<!ENTITY cmd.showPreferencesUnix.label        "Inställningar">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Ändra tilläggets inställningar">
 <!ENTITY cmd.contribute.label                 "Bidra">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Ge ett bidrag till utvecklingen av detta tillägg">
@@ -78,9 +82,12 @@
 <!ENTITY detail.checkForUpdates.label         "Sök efter uppdateringar">
 <!ENTITY detail.checkForUpdates.accesskey     "ö">
 <!ENTITY detail.checkForUpdates.tooltip       "Söker efter uppdateringar till tillägget">
-<!ENTITY detail.showPreferences.label         "Inställningar">
-<!ENTITY detail.showPreferences.accesskey     "ä">
-<!ENTITY detail.showPreferences.tooltip       "Ändra tilläggets inställningar">
+<!ENTITY detail.showPreferencesWin.label      "Inställningar">
+<!ENTITY detail.showPreferencesWin.accesskey  "ä">
+<!ENTITY detail.showPreferencesWin.tooltip    "Ändra tilläggets inställningar">
+<!ENTITY detail.showPreferencesUnix.label     "Inställningar">
+<!ENTITY detail.showPreferencesUnix.accesskey "ä">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Ändra tilläggets inställningar">
 
 
 <!-- ratings -->
