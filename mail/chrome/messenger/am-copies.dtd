@@ -6,10 +6,10 @@
 <!ENTITY fccReplyFollowsParent.accesskey "а">
 <!ENTITY ccAddress.label "Даслаць таксама на гэтыя адрасы (СА):">
 <!ENTITY ccAddress.accesskey "к">
-<!ENTITY ccAddressList.emptytext "Аддзяліце адрасы коскамі">
+<!ENTITY ccAddressList.placeholder "Аддзяляць адрасы коскамі">
 <!ENTITY bccAddress.label "Дасылаць схаваныя копіі на гэтыя адрасы э-пошты:">
 <!ENTITY bccAddress.accesskey "С">
-<!ENTITY bccAddressList.emptytext "Аддзяліце адрасы коскамі">
+<!ENTITY bccAddressList.placeholder "Аддзяляць адрасы коскамі">
 <!ENTITY saveMessageDlg.label "Паказваць дыялог пацвярджэння пасля захавання ліста">
 <!ENTITY saveMessageDlg.accesskey "П">
 <!ENTITY sentFolderOn.label "Папку &quot;Дасланыя&quot; ў:">

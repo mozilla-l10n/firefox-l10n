@@ -9,6 +9,8 @@
 <!ENTITY listEmpty.button.label "Падрабязней пра дадаткі">
 <!ENTITY installFromFile.label "Усталяваць з файла…">
 <!ENTITY installFromFile.accesskey "У">
+<!ENTITY cmd.back.tooltip "Папярэдняя старонка">
+<!ENTITY cmd.forward.tooltip "Наступная старонка">
 <!ENTITY view.search.label "Пошук">
 <!ENTITY view.discover.label "Атрымаць дадаткі">
 <!ENTITY view.locales.label "Мовы">
@@ -18,6 +20,8 @@
 <!ENTITY view.plugins.label "Убудовы">
 <!ENTITY view.recentUpdates.label "Нядаўнія абнаўленні">
 <!ENTITY view.availableUpdates.label "Даступныя абнаўленні">
+<!ENTITY view.utilites.preferences.tooltip "наладжванні для ўсіх дадаткаў">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Перавагі для ўсіх дадаткаў">
 <!ENTITY updates.updateAddonsNow.label "Абнавіць дадаткі зараз">
 <!ENTITY updates.updateAddonsNow.accesskey "А">
 <!ENTITY updates.viewUpdates.label "Пабачыць нядаўнія абнаўленні">
@@ -34,8 +38,10 @@
 <!ENTITY cmd.showDetails.accesskey "П">
 <!ENTITY cmd.findUpdates.label "Знайсці абнаўленні">
 <!ENTITY cmd.findUpdates.accesskey "З">
-<!ENTITY cmd.preferences.label "Перавагі">
-<!ENTITY cmd.preferences.accesskey "П">
+<!ENTITY cmd.preferences.label "Наладжванні">
+<!ENTITY cmd.preferences.accesskey "Н">
+<!ENTITY cmd.preferencesUnix.label "Перавагі">
+<!ENTITY cmd.preferencesUnix.accesskey "П">
 <!ENTITY cmd.about.label "Пра">
 <!ENTITY cmd.about.accesskey "п">
 <!ENTITY cmd.enableAddon.label "Дазволіць">
@@ -44,8 +50,12 @@
 <!ENTITY cmd.disableAddon.accesskey "З">
 <!ENTITY cmd.uninstallAddon.label "Выдаліць">
 <!ENTITY cmd.uninstallAddon.accesskey "В">
-<!ENTITY cmd.showPreferences.label "Перавагі">
-<!ENTITY cmd.showPreferences.tooltip "Змяніць перавагі гэтага дадатка">
+<!ENTITY cmd.showPreferences.label "Наладжванні">
+<!ENTITY cmd.showPreferences.accesskey "Н">
+<!ENTITY cmd.showPreferences.tooltip "Змяніць наладжванні гэтага дадатка">
+<!ENTITY cmd.showPreferencesUnix.label "Перавагі">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Змяніць перавагі гэтага дадатка">
+<!ENTITY cmd.showPreferencesUnix.accesskey "П">
 <!ENTITY cmd.contribute.label "Ахвяраваць">
 <!ENTITY cmd.contribute.accesskey "А">
 <!ENTITY cmd.contribute.tooltip "Ахвяраваць сродкі на распрацоўку гэтага дадатку">
@@ -64,28 +74,29 @@
 <!ENTITY detail.checkForUpdates.label "Праверыць, ці існуюць абнаўленні">
 <!ENTITY detail.checkForUpdates.accesskey "н">
 <!ENTITY detail.checkForUpdates.tooltip "Праверыць, ці існуюць абнаўленні гэтага дадатку">
-<!ENTITY detail.showPreferences.label "Перавагі">
-<!ENTITY detail.showPreferences.accesskey "П">
-<!ENTITY detail.showPreferences.tooltip "Змяніць перавагі гэтага дадатка">
+<!ENTITY detail.showPreferences.label "Наладжванні">
+<!ENTITY detail.showPreferences.accesskey "Н">
+<!ENTITY detail.showPreferences.tooltip "Змяніць наладжванні гэтага дадатка">
+<!ENTITY detail.showPreferencesUnix.label "Перавагі">
+<!ENTITY detail.showPreferencesUnix.accesskey "П">
+<!ENTITY detail.showPreferencesUnix.tooltip "Змяніць перавагі гэтага дадатка">
 <!ENTITY rating.label "Ацэнка:">
 <!ENTITY progress.pause.tooltip "Прыпыніць">
 <!ENTITY progress.cancel.tooltip "Скасаваць">
 <!ENTITY sort.name.label "Назва">
 <!ENTITY sort.name.tooltip "Размеркаваць па імям">
-<!ENTITY sort.size.label "Памер">
-<!ENTITY sort.size.tooltip "Размеркаваць па памеру">
 <!ENTITY sort.dateUpdated.label "Апошняе абнаўленне">
 <!ENTITY sort.dateUpdated.tooltip "Размеркаваць па даце абнаўлення">
-<!ENTITY sort.rating.label "Ацэнка">
-<!ENTITY sort.rating.tooltip "Размеркаваць па сярэдняй ацэнцы">
-<!ENTITY showMore.label "Паказваць больш">
-<!ENTITY showMore.tooltip "Паказваць падрабязнасці">
-<!ENTITY showLess.label "Паказваць менш">
-<!ENTITY showLess.tooltip "Без падрабязнасцяў">
-<!ENTITY search.filter.label "Паказваць:">
-<!ENTITY search.filter.installed.label "Вашы ўсталяваныя дадаткі">
-<!ENTITY search.filter.available.label "Даступныя дадаткі">
+<!ENTITY sort.relevance.label "Лепшае супадзенне">
+<!ENTITY sort.relevance.tooltip "Размеркаваць па дарэчнасці">
+<!ENTITY search.filter2.label "Пошук:">
+<!ENTITY search.filter2.installed.label "Мае дадаткі">
+<!ENTITY search.filter2.installed.tooltip "Паказаць усталяваныя дадаткі">
+<!ENTITY search.filter2.available.label "Даступныя дадаткі">
+<!ENTITY search.filter2.available.tooltip "Паказаць даступныя для ўсталявання дадаткі ">
 <!ENTITY addon.homepage "Хатняя старонка">
+<!ENTITY addon.details.label "Больш">
+<!ENTITY addon.details.tooltip "Паказаць больш падрабязнасцяў пра гэты дадатак">
 <!ENTITY addon.unknownDate "Невядомая">
 <!ENTITY addon.disabled.postfix "(забаронена)">
 <!ENTITY addon.update.postfix "Абнавіць">
@@ -94,7 +105,6 @@
 <!ENTITY addon.undoUninstall.label "Адмяніць?">
 <!ENTITY addon.undoUninstall.tooltip "Захаваць дадатак усталяваным">
 <!ENTITY addon.restartNow.label "Перазапусціць зараз">
-<!ENTITY addon.restartNow.tooltip "Перазапусціць зараз, каб скончыць усталяванне">
 <!ENTITY addon.install.label "Усталяваць">
 <!ENTITY addon.install.tooltip "Усталяваць гэты дадатак">
 <!ENTITY addon.updateNow.label "Абнавіць зараз">

@@ -38,13 +38,17 @@
                                            поўны пакет абнаўлення.">
 <!ENTITY viewDetails.tooltip "Прагляд падрабязнасцяў гэтага абнаўлення">
 <!ENTITY details.link "Падрабязнасці">
+<!ENTITY error.title "Няўдача абнаўлення">
 <!ENTITY error.label "Здарыліся праблемы ў час праверкі, загрузкі або ўсталявання гэтага 
                                            абнаўлення. &brandShortName; не можа абнавіцца з прычыны:">
 <!ENTITY errorManual.label "Вы можаце абнавіць &brandShortName; уручную. Дзеля гэтага наведайце
                                            гэтую спасылку і загрузіце апошнюю версію:">
-<!ENTITY errorpatching.title "Няўдача абнаўлення">
 <!ENTITY errorpatching.intro "Частковае абнаўленне не выканана. 
                                            &brandShortName; паспрабуе зрабіць яго зноў, загрузіўшы абнаўленне цалкам.">
+<!ENTITY errorCertAttrNoUpdate.label "Нейкая перашкодзіла бяспечанму абнаўленню &brandShortName;.
+                                           Праверце, калі ласка, наўянасць апошняй версіі &brandShortName; на:">
+<!ENTITY errorCertAttrHasUpdate.label "Штосьці спрабуе ашукаць &brandShortName;, каб было атрымана
+                                           небяспечнае абнаўленне. Паведамце, калі ласка, пра гэта дастаўшчыку сеткавых паслугаў і папрасіце дапамогі.">
 <!ENTITY finishedPage.title "Абнаўленне гатова для ўсталявання">
 <!ENTITY finishedPage.text "Абнаўленне будзе ўсталявана наступным разам, пры запуску &brandShortName;. Вы 
                                            можаце перазапусціць &brandShortName; зараз ці працягнуць працаваць і перазапусціць яго пазней.">

@@ -4,7 +4,6 @@
 <!ENTITY reload.label "Абнавіць">
 <!ENTITY stop.label "Прыпыніць">
 <!ENTITY go.label "Пайсці">
-<!ENTITY openLocation.label "Адкрыць месца">
 <!ENTITY star.label "Зорка">
 <!ENTITY newtab.label "Новая ўстаўка">
 <!ENTITY closetab.label "Зачыніць устаўку">
@@ -16,7 +15,10 @@
 <!ENTITY selectAll.label "Вылучыць усё">
 <!ENTITY noSuggestions.label "(няма прапановаў)">
 <!ENTITY addToDictionary.label "Дадаць у слоўнік">
+<!ENTITY allPagesHeader.label "Усе старонкі">
 <!ENTITY bookmarksHeader.label "Закладкі">
+<!ENTITY historyHeader.label "Гісторыя">
+<!ENTITY desktopHeader.label "Працоўны стол">
 <!ENTITY editBookmarkDone.label "Гатова">
 <!ENTITY editBookmarkTags.label "Дадаць тэгі сюды">
 <!ENTITY selectHelper.done "Гатова">
@@ -68,6 +70,8 @@
 <!ENTITY contextSaveImage.label "Захаванне малюнка">
 <!ENTITY contextShareLink.label "Падзяліцца спасылкай">
 <!ENTITY contextShareImage.label "Падзяліцца малюнкам">
+<!ENTITY contextSaveVideo.label "Захаваць відэя">
+<!ENTITY contextShareVideo.label "Падзяліцца відэя">
 <!ENTITY contextEditBookmark.label "Правіць">
 <!ENTITY contextRemoveBookmark.label "Выдаліць">
 <!ENTITY pageactions.saveas.pdf "Захаваць як PDF">

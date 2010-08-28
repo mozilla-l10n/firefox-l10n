@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title "Наладка паштовага рахунку">
 <!ENTITY name.label "Ваша імя:">
 <!ENTITY name.accesskey "і">
-<!ENTITY name.emptytext "Імя Прозвішча">
+<!ENTITY name.placeholder "Імя Прозвішча">
 <!ENTITY name.text "Ваша імя для іншых людзей">
 <!ENTITY email.label "Адрас э-пошты:">
 <!ENTITY email.accesskey "А">
-<!ENTITY email.emptytext "email@example.com">
+<!ENTITY email.placeholder "email@example.com">
 <!ENTITY password.label "Пароль:">
 <!ENTITY password.accesskey "П">
-<!ENTITY password.emptytext "Пароль">
+<!ENTITY password.placeholder "Пароль">
 <!ENTITY password.text "Неабавязковы, патрэбны толькі для спраўджання імя карыстальніка">
 <!ENTITY accountInformation.label "Звесткі пра рахунак">
 <!ENTITY username2.label "Імя карыстальніка:">

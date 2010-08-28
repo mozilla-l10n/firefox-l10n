@@ -12,7 +12,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Схаваць">
 <!ENTITY editBookmarkOverlay.tags.label "Тэгі:">
 <!ENTITY editBookmarkOverlay.tags.accesskey "Т">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "Падзяляйце тэгі коскамі">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "Аддзяляйце тэгі коскамі">
 <!ENTITY editBookmarkOverlay.description.label "Апісанне:">
 <!ENTITY editBookmarkOverlay.description.accesskey "А">
 <!ENTITY editBookmarkOverlay.keyword.label "Ключавое слова:">
