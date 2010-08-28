@@ -10,8 +10,10 @@
 <!ENTITY installFromFile.label                "從檔案安裝…">
 <!ENTITY installFromFile.accesskey            "I">
 
+<!ENTITY cmd.back.tooltip                     "回到上一頁">
+<!ENTITY cmd.forward.tooltip                  "到下一頁">
+
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "搜尋">
 <!ENTITY view.discover.label                  "取得元件">
 <!ENTITY view.locales.label                   "語言套件">
@@ -21,6 +23,8 @@
 <!ENTITY view.plugins.label                   "外掛程式">
 <!ENTITY view.recentUpdates.label             "最近的更新">
 <!ENTITY view.availableUpdates.label          "可用的更新">
+<!ENTITY view.utilites.preferences.tooltip    "所有附加元件的選項">
+<!ENTITY view.utilites.preferencesUnix.tooltip "所有附加元件的偏好設定">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "立刻更新附加元件">
@@ -41,8 +45,10 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "尋找更新">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferences.label                "偏好設定">
-<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.preferencesWin.label             "選項">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "偏好設定">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "關於">
 <!ENTITY cmd.about.accesskey                  "A">
 
@@ -52,8 +58,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.uninstallAddon.label             "移除">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferences.label            "偏好設定">
-<!ENTITY cmd.showPreferences.tooltip          "修改此附加元件的偏好設定">
+<!ENTITY cmd.showPreferencesWin.label         "選項">
+<!ENTITY cmd.showPreferencesWin.tooltip       "修改此附加元件的選項">
+<!ENTITY cmd.showPreferencesUnix.label        "偏好設定">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "修改此附加元件的偏好設定">
 <!ENTITY cmd.contribute.label                 "捐助">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "贊助這個元件的開發">
@@ -76,9 +84,12 @@
 <!ENTITY detail.checkForUpdates.label         "檢查更新">
 <!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "檢查此附加元件是否有更新版本">
-<!ENTITY detail.showPreferences.label         "偏好設定">
-<!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "修改此附加元件的偏好設定">
+<!ENTITY detail.showPreferencesWin.label      "選項">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "修改此附加元件的選項">
+<!ENTITY detail.showPreferencesUnix.label     "偏好設定">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "修改此附加元件的偏好設定">
 
 
 <!-- ratings -->
@@ -94,8 +105,8 @@
 <!ENTITY sort.name.tooltip                    "以名稱排序">
 <!ENTITY sort.dateUpdated.label               "最近更新時間">
 <!ENTITY sort.dateUpdated.tooltip             "以更新日期排序">
-<!ENTITY sort.rating.label                    "評分">
-<!ENTITY sort.rating.tooltip                  "以平均評等排序">
+<!ENTITY sort.relevance.label                 "最佳結果">
+<!ENTITY sort.relevance.tooltip               "依照相關程度排序">
 
 <!ENTITY search.filter2.label                 "搜尋:">
 <!ENTITY search.filter2.installed.label       "我的附加元件">
