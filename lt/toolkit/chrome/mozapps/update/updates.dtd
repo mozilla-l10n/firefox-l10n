@@ -84,15 +84,21 @@
 
 <!ENTITY  details.link                    "Išsamiau">
 
+<!ENTITY  error.title                     "Atnaujinti nepavyko">
+
 <!ENTITY  error.label                     "Nesklandumai ieškant, atsiunčiant ar įdiegiant šį naujinimą. 
                                            „&brandShortName;“ nepavyko atnaujinti dėl šių priežasčių:">
                                            
 <!ENTITY  errorManual.label               "Galima atnaujinti „&brandShortName;“ rankiniu būdu aplankius šią svetainę ir 
                                            atsisiuntus naujausią versiją:">
                                            
-<!ENTITY  errorpatching.title             "Nepavyko atnaujinti">
 <!ENTITY  errorpatching.intro             "Dalinis atnaujinimas nepavyko. 
                                            Bus bandoma atnaujinti atsiuntus visą naujinimą.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Kažkodėl nepavyksta „&brandShortName;“ atnaujinti, naudojant šifruotą ryšį.
+                                           Patikrinti, ar turite naujausią „&brandShortName;“ laidą, galite adresu:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Kažkas bando „&brandShortName;“ įsiūlyti nesaugų naujinimą.
+                                           Susisiekite su savo tinklo administratoriais ir paprašykite jų pagalbos.">
 
 <!ENTITY  finishedPage.title              "Naujinimas paruoštas diegimui">
 <!ENTITY  finishedPage.text               "Naujinimas bus įdiegtas iš naujo paleidus „&brandShortName;“. Galite

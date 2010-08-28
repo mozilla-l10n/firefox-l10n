@@ -47,9 +47,11 @@
 <!ENTITY browsing.label                  "Naršymas">
 
 <!ENTITY useAutoScroll.label             "Automatiškai slinkti dokumentą">
-<!ENTITY useAutoScroll.accesskey         "A">
+<!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Slinkti tolygiai">
 <!ENTITY useSmoothScrolling.accesskey    "t">
+<!ENTITY allowHWAccel.label              "Naudoti aparatinį spartinimą, jei tai įmanoma">
+<!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkSpelling.label             "Tikrinti rašybą renkant tekstą">
 <!ENTITY checkSpelling.accesskey         "k">
 
