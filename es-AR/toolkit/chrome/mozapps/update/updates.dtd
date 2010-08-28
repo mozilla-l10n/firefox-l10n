@@ -52,15 +52,21 @@
 
 <!ENTITY details.link "Detalles">
 
+<!ENTITY  error.title                     "Fallo en la actualización">
+
 <!ENTITY error.label "Hubo problemas instalando esta actualización. &brandShortName; no pudo
                                            ser actualizado porque:">
 
 <!ENTITY errorManual.label "Puede actualizar &brandShortName; manualmente visitando este enlace
                                            y descargando la última versión:">
 
-<!ENTITY errorpatching.title "Fallo en la actualización">
 <!ENTITY errorpatching.intro "La actualización parcial no pudo ser aplicada. 
                                            &brandShortName; intentará nuevamente descargando una actualización completa.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Algo está evitando que &brandShortName; se actualice de forma segura.
+                                           Verifique que tiene la última versión de &brandShortName; en:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Algo está tratando de engañar a &brandShortName; para que acepte una
+                                           actualización insegura. Contacte a su proveedor de red y busque ayuda.">
 
 <!ENTITY  finishedPage.title              "Actualización lista para instalar">
 <!ENTITY  finishedPage.text               "La actualización será instalada la próxima vez que se inicie &brandShortName;.
