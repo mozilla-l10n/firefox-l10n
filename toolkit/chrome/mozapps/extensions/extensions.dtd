@@ -44,8 +44,10 @@
 <!ENTITY cmd.showDetails.accesskey        "A">
 <!ENTITY cmd.findUpdates.label            "Rechercher des mises à jour">
 <!ENTITY cmd.findUpdates.accesskey        "R">
-<!ENTITY cmd.preferences.label            "Préférences">
-<!ENTITY cmd.preferences.accesskey        "P">
+<!ENTITY cmd.preferences.label                "Options">
+<!ENTITY cmd.preferences.accesskey            "O">
+<!ENTITY cmd.preferencesUnix.label            "Préférences">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                  "À propos de">
 <!ENTITY cmd.about.accesskey              "o">
 
@@ -55,8 +57,12 @@
 <!ENTITY cmd.disableAddon.accesskey       "D">
 <!ENTITY cmd.uninstallAddon.label         "Supprimer">
 <!ENTITY cmd.uninstallAddon.accesskey     "S">
-<!ENTITY cmd.showPreferences.label        "Préférences">
-<!ENTITY cmd.showPreferences.tooltip      "Changer les préférences de ce module complémentaire">
+<!ENTITY cmd.showPreferences.label            "Options">
+<!ENTITY cmd.showPreferences.accesskey        "O">
+<!ENTITY cmd.showPreferences.tooltip          "Modifier les options de ce module complémentaire">
+<!ENTITY cmd.showPreferencesUnix.label        "Préférences">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Modifier les préférences de ce module complémentaire">
+<!ENTITY cmd.showPreferencesUnix.accesskey    "P">
 <!ENTITY cmd.contribute.label             "Contribuer">
 <!ENTITY cmd.contribute.accesskey         "C">
 <!ENTITY cmd.contribute.tooltip           "Contribuer au développement de ce module complémentaire">
@@ -78,9 +84,13 @@
 <!ENTITY detail.checkForUpdates.label         "Vérifier si des mises à jour sont disponibles">
 <!ENTITY detail.checkForUpdates.accesskey     "V">
 <!ENTITY detail.checkForUpdates.tooltip       "Vérifier si des mises à jour sont disponibles pour ce module">
-<!ENTITY detail.showPreferences.label         "Préférences">
-<!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "Modifier les préférences de ce module">
+<!ENTITY detail.showPreferences.label         "Options">
+<!ENTITY detail.showPreferences.accesskey     "O">
+<!ENTITY detail.showPreferences.tooltip       "Modifier les options de ce module">
+<!ENTITY detail.showPreferencesUnix.label     "Préférences">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Modifier les préférences de ce module">
+
 
 <!-- ratings -->
 <!ENTITY rating.label                     "Appréciation :">
