@@ -23,6 +23,8 @@
 <!ENTITY view.plugins.label               "Plugins">
 <!ENTITY view.recentUpdates.label         "Mises à jour récentes">
 <!ENTITY view.availableUpdates.label      "Mises à jour disponibles">
+<!ENTITY view.utilites.preferences.tooltip    "Options pour tous les modules">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Préférences pour tous les modules">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Mettre à jour les modules complémentaires maintenant">
