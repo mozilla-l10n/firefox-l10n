@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Finom görgetés">
 <!ENTITY useSmoothScrolling.accesskey    "F">
+<!ENTITY allowHWAccel.label              "Hardveres gyorsítás használata, ha lehetséges">
+<!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkSpelling.label             "Helyesírás-ellenőrzés beírás közben">
 <!ENTITY checkSpelling.accesskey         "H">
 

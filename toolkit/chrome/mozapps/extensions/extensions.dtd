@@ -7,10 +7,13 @@
 <!ENTITY listEmpty.findUpdates.label          "Frissítések keresése">
 <!ENTITY listEmpty.search.label               "Nem található ilyen kiegészítő">
 <!ENTITY listEmpty.button.label               "További tudnivalók a kiegészítőkről">
+<!ENTITY installFromFile.label                "Telepítés fájlból...">
+<!ENTITY installFromFile.accesskey            "T">
 
+<!ENTITY cmd.back.tooltip                     "Ugrás az előző oldalra">
+<!ENTITY cmd.forward.tooltip                  "Ugrás a következő oldalra">
 
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Keresés">
 <!ENTITY view.discover.label                  "Kiegészítők letöltése">
 <!ENTITY view.locales.label                   "Nyelvek">
@@ -20,6 +23,8 @@
 <!ENTITY view.plugins.label                   "Bővítmények">
 <!ENTITY view.recentUpdates.label             "Legutóbbi frissítések">
 <!ENTITY view.availableUpdates.label          "Elérhető frissítések">
+<!ENTITY view.utilites.preferences.tooltip    "Kiegészítők beállítása">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Kiegészítők beállítása">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Kiegészítők frissítése most">
@@ -40,8 +45,10 @@
 <!ENTITY cmd.showDetails.accesskey            "T">
 <!ENTITY cmd.findUpdates.label                "Frissítések keresése">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferences.label                "Beállítások">
-<!ENTITY cmd.preferences.accesskey            "B">
+<!ENTITY cmd.preferencesWin.label             "Beállítások">
+<!ENTITY cmd.preferencesWin.accesskey         "B">
+<!ENTITY cmd.preferencesUnix.label            "Beállítások">
+<!ENTITY cmd.preferencesUnix.accesskey        "B">
 <!ENTITY cmd.about.label                      "Névjegy">
 <!ENTITY cmd.about.accesskey                  "n">
 
@@ -51,8 +58,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "L">
 <!ENTITY cmd.uninstallAddon.label             "Eltávolítás">
 <!ENTITY cmd.uninstallAddon.accesskey         "l">
-<!ENTITY cmd.showPreferences.label            "Beállítások">
-<!ENTITY cmd.showPreferences.tooltip          "A kiegészítő beállításainak módosítása">
+<!ENTITY cmd.showPreferencesWin.label         "Beállítások">
+<!ENTITY cmd.showPreferencesWin.tooltip       "A kiegészítő beállításainak módosítása">
+<!ENTITY cmd.showPreferencesUnix.label        "Beállítások">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "A kiegészítő beállításainak módosítása">
 <!ENTITY cmd.contribute.label                 "Támogatás">
 <!ENTITY cmd.contribute.accesskey             "T">
 <!ENTITY cmd.contribute.tooltip               "A kiegészítő fejlesztésének támogatása">
@@ -75,9 +84,12 @@
 <!ENTITY detail.checkForUpdates.label         "Frissítés keresése">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "Frissítések keresése ehhez a kiegészítőhöz">
-<!ENTITY detail.showPreferences.label         "Beállítások">
-<!ENTITY detail.showPreferences.accesskey     "B">
-<!ENTITY detail.showPreferences.tooltip       "A kiegészítő beállításainak módosítása">
+<!ENTITY detail.showPreferencesWin.label      "Beállítások">
+<!ENTITY detail.showPreferencesWin.accesskey  "B">
+<!ENTITY detail.showPreferencesWin.tooltip    "A kiegészítő beállításainak módosítása">
+<!ENTITY detail.showPreferencesUnix.label     "Beállítások">
+<!ENTITY detail.showPreferencesUnix.accesskey "B">
+<!ENTITY detail.showPreferencesUnix.tooltip   "A kiegészítő beállításainak módosítása">
 
 
 <!-- ratings -->
@@ -91,24 +103,20 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Név">
 <!ENTITY sort.name.tooltip                    "Rendezés név szerint">
-<!ENTITY sort.size.label                      "Méret">
-<!ENTITY sort.size.tooltip                    "Rendezés méret szerint">
 <!ENTITY sort.dateUpdated.label               "Utoljára frissítve">
 <!ENTITY sort.dateUpdated.tooltip             "Rendezés a frissítés ideje szerint">
-<!ENTITY sort.rating.label                    "Értékelés">
-<!ENTITY sort.rating.tooltip                  "Rendezés az átlagos értékelés szerint">
+<!ENTITY sort.relevance.label                 "Legjobb egyezés">
+<!ENTITY sort.relevance.tooltip               "Rendezés fontosság szerint">
 
-
-<!ENTITY showMore.label                       "Több részlet">
-<!ENTITY showMore.tooltip                     "Több részlet megjelenítése">
-<!ENTITY showLess.label                       "Kevesebb részlet">
-<!ENTITY showLess.tooltip                     "Kevesebb részlet megjelenítése">
-
-<!ENTITY search.filter.label                  "Megjelenítés:">
-<!ENTITY search.filter.installed.label        "Telepített kiegészítők">
-<!ENTITY search.filter.available.label        "Elérhető kiegészítők">
+<!ENTITY search.filter2.label                 "Keresés:">
+<!ENTITY search.filter2.installed.label       "Saját kiegészítők">
+<!ENTITY search.filter2.installed.tooltip     "Telepített kiegészítők megjelenítése">
+<!ENTITY search.filter2.available.label       "Elérhető kiegészítők">
+<!ENTITY search.filter2.available.tooltip     "Telepíthető kiegészítők megjelenítése">
 
 <!ENTITY addon.homepage                       "Honlap">
+<!ENTITY addon.details.label                  "Tovább">
+<!ENTITY addon.details.tooltip                "További részletek errők a kiegészítőről">
 <!ENTITY addon.unknownDate                    "Ismeretlen">
 <!ENTITY addon.disabled.postfix               "(letiltva)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -118,7 +126,6 @@
 <!ENTITY addon.undoUninstall.label            "Visszavonás?">
 <!ENTITY addon.undoUninstall.tooltip          "Maradjon telepítve ez a kiegészítő">
 <!ENTITY addon.restartNow.label               "Újraindítás most">
-<!ENTITY addon.restartNow.tooltip             "A telepítés befejezéséhez újra kell indítani">
 <!ENTITY addon.install.label                  "Telepítés">
 <!ENTITY addon.install.tooltip                "Ennek a kiegészítőnek a telepítése">
 <!ENTITY addon.updateNow.label                "Frissítés">

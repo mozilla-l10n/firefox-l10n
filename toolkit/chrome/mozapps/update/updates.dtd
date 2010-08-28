@@ -49,15 +49,21 @@
 
 <!ENTITY  details.link                    "Részletek">
 
+<!ENTITY  error.title                     "Sikertelen frissítés">
+
 <!ENTITY  error.label                     "Gondok támadtak a frissítés ellenőrzése, letöltése vagy telepítése
                                            közben. A &brandShortName; programot nem lehet frissíteni, mert:">
                                            
 <!ENTITY  errorManual.label               "Kézzel frissítheti a &brandShortName; programot, ha a következő
                                            helyről letölti a legfrissebb verziót:">
                                            
-<!ENTITY  errorpatching.title             "Sikertelen frissítés">
 <!ENTITY  errorpatching.intro             "A részleges frissítést nem lehetett alkalmazni.
                                            A &brandShortName; újra próbálkozik, most a teljes frissítés letöltésével.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Valami miatt a &brandShortName; biztonságos frissítése nem sikerült.
+                                           Ellenőrizze, hogy a &brandShortName; legújabb verziójával rendelkezik-e:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Valami megpróbálja becsapni a &brandShortName; programot, hogy nem
+                                           biztonságos frissítést fogadjon el. Lépjen kapcsolatba az internetszolgáltatójával, és kérjen segítséget.">
 
 <!ENTITY  finishedPage.title              "A frissítés készen áll a telepítésre">
 <!ENTITY  finishedPage.text               "A frissítés a &brandShortName; következő indításakor fog települni. Újraindíthatja a &brandShortName; alkalmazást most, vagy folytathatja a munkát, és újraindíthatja később.">
