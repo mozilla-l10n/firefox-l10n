@@ -10,6 +10,9 @@
 <!ENTITY installFromFile.label                "Instalar desde archivo…">
 <!ENTITY installFromFile.accesskey            "I">
 
+<!ENTITY cmd.back.tooltip                     "Retroceder una página">
+<!ENTITY cmd.forward.tooltip                  "Avanzar una página">
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Buscar">
@@ -21,6 +24,8 @@
 <!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Actualizaciones recientes">
 <!ENTITY view.availableUpdates.label          "Actualizaciones disponibles">
+<!ENTITY view.utilites.preferences.tooltip    "Opciones para todos los complementos">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Preferencias para todos los complementos">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Actualizar complementos">
@@ -41,8 +46,10 @@
 <!ENTITY cmd.showDetails.accesskey            "s">
 <!ENTITY cmd.findUpdates.label                "Buscar actualizaciones">
 <!ENTITY cmd.findUpdates.accesskey            "B">
-<!ENTITY cmd.preferences.label                "Preferencias">
-<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.preferencesWin.label             "Opciones">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "Preferencias">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "Acerca de">
 <!ENTITY cmd.about.accesskey                  "A">
 
@@ -52,8 +59,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
-<!ENTITY cmd.showPreferences.label            "Preferencias">
-<!ENTITY cmd.showPreferences.tooltip          "Cambiar las preferencias de este complemento">
+<!ENTITY cmd.showPreferencesWin.label         "Opciones">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar las opciones de este complemento">
+<!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Cambiar las preferencias de este complemento">
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir al desarrollo de este complemento">
@@ -76,9 +85,12 @@
 <!ENTITY detail.checkForUpdates.label         "Buscar actualizaciones">
 <!ENTITY detail.checkForUpdates.accesskey     "B">
 <!ENTITY detail.checkForUpdates.tooltip       "Buscar actualizaciones para este complemento">
-<!ENTITY detail.showPreferences.label         "Preferencias">
-<!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "Cambiar las preferencias para este complemento">
+<!ENTITY detail.showPreferencesWin.label      "Opciones">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "Cambiar las opciones para este complemento">
+<!ENTITY detail.showPreferencesUnix.label     "Preferencias">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Cambiar las preferencias para este complemento">
 
 
 <!-- ratings -->
@@ -94,8 +106,8 @@
 <!ENTITY sort.name.tooltip                    "Ordenar por nombre">
 <!ENTITY sort.dateUpdated.label               "Última actualización">
 <!ENTITY sort.dateUpdated.tooltip             "Ordenar por fecha de actualización">
-<!ENTITY sort.rating.label                    "Puntuación">
-<!ENTITY sort.rating.tooltip                  "Ordenar por puntuación promedio">
+<!ENTITY sort.relevance.label                 "Relevancia">
+<!ENTITY sort.relevance.tooltip               "Ordenar por relevancia">
 
 <!ENTITY search.filter2.label                 "Buscar:">
 <!ENTITY search.filter2.installed.label       "Mis complementos">
