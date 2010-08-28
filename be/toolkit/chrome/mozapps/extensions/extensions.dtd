@@ -38,8 +38,8 @@
 <!ENTITY cmd.showDetails.accesskey "П">
 <!ENTITY cmd.findUpdates.label "Знайсці абнаўленні">
 <!ENTITY cmd.findUpdates.accesskey "З">
-<!ENTITY cmd.preferences.label "Наладжванні">
-<!ENTITY cmd.preferences.accesskey "Н">
+<!ENTITY cmd.preferencesWin.label "Наладжванні">
+<!ENTITY cmd.preferencesWin.accesskey "Н">
 <!ENTITY cmd.preferencesUnix.label "Перавагі">
 <!ENTITY cmd.preferencesUnix.accesskey "П">
 <!ENTITY cmd.about.label "Пра">
@@ -50,12 +50,10 @@
 <!ENTITY cmd.disableAddon.accesskey "З">
 <!ENTITY cmd.uninstallAddon.label "Выдаліць">
 <!ENTITY cmd.uninstallAddon.accesskey "В">
-<!ENTITY cmd.showPreferences.label "Наладжванні">
-<!ENTITY cmd.showPreferences.accesskey "Н">
-<!ENTITY cmd.showPreferences.tooltip "Змяніць наладжванні гэтага дадатка">
+<!ENTITY cmd.showPreferencesWin.label "Наладжванні">
+<!ENTITY cmd.showPreferencesWin.tooltip "Змяненне наладжванняў гэтага дадатка">
 <!ENTITY cmd.showPreferencesUnix.label "Перавагі">
-<!ENTITY cmd.showPreferencesUnix.tooltip "Змяніць перавагі гэтага дадатка">
-<!ENTITY cmd.showPreferencesUnix.accesskey "П">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Змяненне перавагаў гэтага дадатка">
 <!ENTITY cmd.contribute.label "Ахвяраваць">
 <!ENTITY cmd.contribute.accesskey "А">
 <!ENTITY cmd.contribute.tooltip "Ахвяраваць сродкі на распрацоўку гэтага дадатку">
@@ -74,12 +72,12 @@
 <!ENTITY detail.checkForUpdates.label "Праверыць, ці існуюць абнаўленні">
 <!ENTITY detail.checkForUpdates.accesskey "н">
 <!ENTITY detail.checkForUpdates.tooltip "Праверыць, ці існуюць абнаўленні гэтага дадатку">
-<!ENTITY detail.showPreferences.label "Наладжванні">
-<!ENTITY detail.showPreferences.accesskey "Н">
-<!ENTITY detail.showPreferences.tooltip "Змяніць наладжванні гэтага дадатка">
+<!ENTITY detail.showPreferencesWin.label "Наладжванні">
+<!ENTITY detail.showPreferencesWin.accesskey "Н">
+<!ENTITY detail.showPreferencesWin.tooltip "Змяненне наладжванняў гэтага дадатка">
 <!ENTITY detail.showPreferencesUnix.label "Перавагі">
 <!ENTITY detail.showPreferencesUnix.accesskey "П">
-<!ENTITY detail.showPreferencesUnix.tooltip "Змяніць перавагі гэтага дадатка">
+<!ENTITY detail.showPreferencesUnix.tooltip "Змяненне перавагаў гэтага дадатка">
 <!ENTITY rating.label "Ацэнка:">
 <!ENTITY progress.pause.tooltip "Прыпыніць">
 <!ENTITY progress.cancel.tooltip "Скасаваць">
