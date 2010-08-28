@@ -52,15 +52,21 @@
 
 <!ENTITY  details.link                    "Details">
 
+<!ENTITY  error.title                     "Bijwerken mislukt">
+
 <!ENTITY  error.label                     "Er was een probleem bij het controleren op, of het downloaden of installeren
                                            van deze update. &brandShortName; kon niet worden bijgewerkt omdat:">
 
 <!ENTITY  errorManual.label               "U kunt &brandShortName; handmatig bijwerken door deze koppeling te
                                            bezoeken en de laatste versie te downloaden:">
 
-<!ENTITY  errorpatching.title             "Bijwerken mislukt">
 <!ENTITY  errorpatching.intro             "De gedeeltelijke update kon niet worden toegepast. 
                                            &brandShortName; zal het opnieuw proberen door een volledige update te downloaden.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Iets voorkomt dat &brandShortName; veilig wordt bijgewerkt.
+                                           Controleer of u de laatste versie van &brandShortName; heeft op:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Iets probeert &brandShortName; te verleiden om een onveile update
+                                           te accepteren. Neem contact op met uw netwerkprovider en vraag hulp.">
 
 <!ENTITY  finishedPage.title              "Update klaar om te installeren">
 <!ENTITY  finishedPage.text               "De update zal de volgende keer dat &brandShortName; start worden geïnstalleerd. U
