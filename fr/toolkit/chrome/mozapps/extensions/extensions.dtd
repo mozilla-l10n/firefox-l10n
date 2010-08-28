@@ -92,8 +92,8 @@
 <!ENTITY sort.name.tooltip                "Trier par nom">
 <!ENTITY sort.dateUpdated.label           "Dernière mise à jour">
 <!ENTITY sort.dateUpdated.tooltip         "Trier par date de dernière mise à jour">
-<!ENTITY sort.rating.label                "Appréciation">
-<!ENTITY sort.rating.tooltip              "Trier par appréciation">
+<!ENTITY sort.relevance.label                 "Pertinence">
+<!ENTITY sort.relevance.tooltip               "Trier par pertinence">
 
 <!ENTITY search.filter2.label                 "Rechercher :">
 <!ENTITY search.filter2.installed.label       "Mes modules complémentaires">
