@@ -62,7 +62,6 @@
 <!ENTITY  update.installedOn.label        "Εγκαταστάθηκε σε:">
 <!ENTITY  update.status.label             "Κατάσταση:">
 
-<!ENTITY  errorpatching.title             "Αποτυχία ενημέρωσης">
 <!ENTITY  errorpatching.intro             "Η μερική ενημέρωση δεν μπορεί να εφαρμοσθεί. 
                                            Ο &brandShortName; θα προσπαθήσει ξανά να κάνει λήψη ολόκληρης της ενημέρωσης.">
 <!ENTITY  whatsnew.label                  "Διαβάστε περισσότερα για το τι νέο υπάρχει...">
@@ -97,4 +96,11 @@
 <!ENTITY  updateCheck.label               "Έλεγχος για νεότερες εκδόσεις του &brandShortName;…">
 
 <!ENTITY  viewDetails.tooltip             "Προβολή λεπτομερειών για αυτή την ενημέρωση">
+
+<!ENTITY  error.title                     "Αποτυχία ενημέρωσης">
+<!ENTITY  errorCertAttrNoUpdate.label     "Κάτι εμποδίζει την ασφαλή ενημέρωση του &brandShortName;.
+                                           Παρακαλώ ελέγξτε ότι έχετε την πιο πρόσφατη έκδοση του &brandShortName;:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Κάτι προσπαθεί να ξεγελάσει τον &brandShortName; ώστε να δεχθεί μια μη ασφαλή ενημέρωση. Παρακαλώ επικοινωνήστε με τον πάροχο σας για βοήθεια.">
+
+
 
