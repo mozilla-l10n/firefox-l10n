@@ -9,6 +9,8 @@
 <!ENTITY listEmpty.button.label "Scopri altre informazioni sui componenti aggiuntivi">
 <!ENTITY installFromFile.label "Installa da file…">
 <!ENTITY installFromFile.accesskey "I">
+<!ENTITY cmd.back.tooltip "Torna indietro di una pagina">
+<!ENTITY cmd.forward.tooltip "Vai avanti di una pagina">
 <!ENTITY view.search.label "Cerca">
 <!ENTITY view.discover.label "Esplora">
 <!ENTITY view.locales.label "Lingue">
@@ -18,6 +20,8 @@
 <!ENTITY view.plugins.label "Plugin">
 <!ENTITY view.recentUpdates.label "Aggiornamenti recenti">
 <!ENTITY view.availableUpdates.label "Aggiornamenti disponibili">
+<!ENTITY view.utilites.preferences.tooltip "Opzioni per tutti i componenti aggiuntivi">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Preferenze per tutti i componenti aggiuntivi">
 <!ENTITY updates.updateAddonsNow.label "Aggiorna adesso i componenti aggiuntivi">
 <!ENTITY updates.updateAddonsNow.accesskey "A">
 <!ENTITY updates.viewUpdates.label "Visualizza aggiornamenti recenti">
@@ -34,8 +38,10 @@
 <!ENTITY cmd.showDetails.accesskey "V">
 <!ENTITY cmd.findUpdates.label "Cerca aggiornamenti">
 <!ENTITY cmd.findUpdates.accesskey "C">
-<!ENTITY cmd.preferences.label "Preferenze">
-<!ENTITY cmd.preferences.accesskey "P">
+<!ENTITY cmd.preferencesWin.label "Opzioni">
+<!ENTITY cmd.preferencesWin.accesskey "O">
+<!ENTITY cmd.preferencesUnix.label "Preferenze">
+<!ENTITY cmd.preferencesUnix.accesskey "P">
 <!ENTITY cmd.about.label "Informazioni su">
 <!ENTITY cmd.about.accesskey "I">
 <!ENTITY cmd.enableAddon.label "Attiva">
@@ -44,8 +50,10 @@
 <!ENTITY cmd.disableAddon.accesskey "D">
 <!ENTITY cmd.uninstallAddon.label "Rimuovi">
 <!ENTITY cmd.uninstallAddon.accesskey "R">
-<!ENTITY cmd.showPreferences.label "Preferenze">
-<!ENTITY cmd.showPreferences.tooltip "Modifica le preferenze di questo componente aggiuntivo">
+<!ENTITY cmd.showPreferencesWin.label "Opzioni">
+<!ENTITY cmd.showPreferencesWin.tooltip "Modifica le opzioni di questo componente aggiuntivo">
+<!ENTITY cmd.showPreferencesUnix.label "Preferenze">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Modifica le preferenze di questo componente aggiuntivo">
 <!ENTITY cmd.contribute.label "Fai una donazione">
 <!ENTITY cmd.contribute.accesskey "F">
 <!ENTITY cmd.contribute.tooltip "Contribuisci allo sviluppo di questo componente aggiuntivo">
@@ -64,9 +72,12 @@
 <!ENTITY detail.checkForUpdates.label "Cerca aggiornamenti">
 <!ENTITY detail.checkForUpdates.accesskey "e">
 <!ENTITY detail.checkForUpdates.tooltip "Cerca aggiornamenti per questo componente aggiuntivo">
-<!ENTITY detail.showPreferences.label "Preferenze">
-<!ENTITY detail.showPreferences.accesskey "z">
-<!ENTITY detail.showPreferences.tooltip "Modifica le preferenze di questo componente aggiuntivo">
+<!ENTITY detail.showPreferencesWin.label "Opzioni">
+<!ENTITY detail.showPreferencesWin.accesskey "O">
+<!ENTITY detail.showPreferencesWin.tooltip "Modifica le opzioni di questo componente aggiuntivo">
+<!ENTITY detail.showPreferencesUnix.label "Preferenze">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip "Modifica le preferenze di questo componente aggiuntivo">
 <!ENTITY rating.label "Voto:">
 <!ENTITY progress.pause.tooltip "Pausa">
 <!ENTITY progress.cancel.tooltip "Annulla">
@@ -74,8 +85,8 @@
 <!ENTITY sort.name.tooltip "Ordina per nome">
 <!ENTITY sort.dateUpdated.label "Ultimo aggiornamento">
 <!ENTITY sort.dateUpdated.tooltip "Ordina per data di aggiornamento">
-<!ENTITY sort.rating.label "Voto">
-<!ENTITY sort.rating.tooltip "Ordina per voto medio">
+<!ENTITY sort.relevance.label "Miglior risultato">
+<!ENTITY sort.relevance.tooltip "Ordina per pertinenza">
 <!ENTITY search.filter2.label "Cerca:">
 <!ENTITY search.filter2.installed.label "Componenti aggiuntivi presenti">
 <!ENTITY search.filter2.installed.tooltip "Visualizza i componenti aggiuntivi installati">
