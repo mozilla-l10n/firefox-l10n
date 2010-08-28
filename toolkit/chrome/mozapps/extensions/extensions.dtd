@@ -30,7 +30,7 @@
 <!ENTITY updates.backgroudUpdateCheck.accesskey "в">
 <!ENTITY updates.updating.label "Обновление дополнений">
 <!ENTITY updates.installed.label "Ваши дополнения были обновлены.">
-<!ENTITY updates.downloaded.label "Обновления для ваших дополнений загружены.">
+<!ENTITY updates.downloaded.label "Обновления дополнений загружены.">
 <!ENTITY updates.restart.label "Перезапустить для завершения установки">
 <!ENTITY updates.noneFound.label "Обновлений не найдено">
 <!ENTITY updates.manualUpdatesFound.label "Показать доступные обновления">
