@@ -3,12 +3,12 @@
 <!ENTITY loading.label                        "בטעינה…">
 <!ENTITY listEmpty.installed.label            "לא הותקנה אף תוספת מסוג זה">
 <!ENTITY listEmpty.availableUpdates.label     "לא נמצאו עדכונים">
-<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.recentUpdates.label        "לא עדכנת תוספות כלשהן לאחרונה">
 <!ENTITY listEmpty.findUpdates.label          "בדוק אם ישנם עדכונים">
 <!ENTITY listEmpty.search.label               "לא ניתן למצוא תוספת תואמת">
 <!ENTITY listEmpty.button.label               "למד עוד אודות תוספות">
-<!ENTITY installFromFile.label                "Install from file…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installFromFile.label                "התקן מקובץ…">
+<!ENTITY installFromFile.accesskey            "ה">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
@@ -58,10 +58,10 @@
 <!ENTITY cmd.contribute.accesskey             "ת">
 <!ENTITY cmd.contribute.tooltip               "תרום לפיתוח של תוסף זו">
 
-<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
-<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
+<!ENTITY cmd.showReleaseNotes.label           "הצג הערות שחרור">
+<!ENTITY cmd.showReleaseNotes.tooltip         "הצג את הערות השחרור של עדכון זה">
+<!ENTITY cmd.hideReleaseNotes.label           "הסתר הערות שחרור">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "הסתר את הערות השחרור של עדכון זה">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "גרסה">
@@ -92,24 +92,20 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "שם">
 <!ENTITY sort.name.tooltip                    "מיין לפי שם">
-<!ENTITY sort.size.label                      "גודל ">
-<!ENTITY sort.size.tooltip                    "מיין לפי גודל">
 <!ENTITY sort.dateUpdated.label               "עודכן לאחרונה">
 <!ENTITY sort.dateUpdated.tooltip             "מיין לפי תאריך עדכון">
 <!ENTITY sort.rating.label                    "דירוג">
 <!ENTITY sort.rating.tooltip                  "מיין לפי דירוג ממוצע">
 
-
-<!ENTITY showMore.label                       "הצג עוד">
-<!ENTITY showMore.tooltip                     "הצג עוד פרטים">
-<!ENTITY showLess.label                       "הצג פחות">
-<!ENTITY showLess.tooltip                     "הצג פחות פרטים">
-
-<!ENTITY search.filter.label                  "הצג:">
-<!ENTITY search.filter.installed.label        "התוספות שמותקנות אצלך">
-<!ENTITY search.filter.available.label        "תוספות זמינות">
+<!ENTITY search.filter2.label                 "חפש:">
+<!ENTITY search.filter2.installed.label       "התוספות שלי">
+<!ENTITY search.filter2.installed.tooltip     "הצג תוספות מותקנות">
+<!ENTITY search.filter2.available.label       "תוספות זמינות">
+<!ENTITY search.filter2.available.tooltip     "הצג תוספות זמינות להתקנה">
 
 <!ENTITY addon.homepage                       "דף בית">
+<!ENTITY addon.details.label                  "עוד">
+<!ENTITY addon.details.tooltip                "הצג פרטים נוספים על תוספת זו">
 <!ENTITY addon.unknownDate                    "לא ידוע">
 <!ENTITY addon.disabled.postfix               "(מנוטרל)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -119,14 +115,13 @@
 <!ENTITY addon.undoUninstall.label            "לבטל?">
 <!ENTITY addon.undoUninstall.tooltip          "השאר תוספת זו מותקנת">
 <!ENTITY addon.restartNow.label               "הפעל מחדש כעת">
-<!ENTITY addon.restartNow.tooltip             "הפעל מחדש כעת להשלמת ההתקנה">
 <!ENTITY addon.install.label                  "התקן">
 <!ENTITY addon.install.tooltip                "התקן תוספת זו">
 <!ENTITY addon.updateNow.label                "עדכן כעת">
 <!ENTITY addon.updateNow.tooltip              "התקנת העדכון לתוספת זו">
 <!ENTITY addon.checkingForUpdates.label       "בודק אם ישנם עדכונים חדשים…">
-<!ENTITY addon.releaseNotes.label             "Release Notes:">
+<!ENTITY addon.releaseNotes.label             "הערות שחרור:">
 <!ENTITY addon.loadingReleaseNotes.label      "בטעינה…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "מצטערים, שגיאה התרחשה במהלך טעינת הערות השחרור.">
 
 <!ENTITY addon.createdBy.label                "מאת ">

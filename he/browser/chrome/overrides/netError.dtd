@@ -155,8 +155,7 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<!ENTITY securityOverride.warningContent "<p>מומלץ שלא להוסיף חריגה אם אתה משתמש בחיבור רשת בלתי מהימן לחלוטין או אם אינך רגיל לראות אזהרות עבור שרת זה.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>

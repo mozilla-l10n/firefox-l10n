@@ -37,11 +37,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label        "התאמה אישית של קידוד תוים">
-<!ENTITY current.label      "קידודי תוים פעילים:">
+<!ENTITY title.label        "התאמה אישית של קידוד תווים">
+<!ENTITY current.label      "קידודי תווים פעילים:">
 <!ENTITY remove.label       "הסרה">
 <!ENTITY remove.accessKey   "ה">
-<!ENTITY additional.label   "קידודים זמינים של תוים:">
+<!ENTITY additional.label   "קידודי תווים זמינים:">
 <!ENTITY add.label          "הוספה">
 <!ENTITY add.accessKey      "ס">
 <!ENTITY moveUp.label       "הזז למעלה">

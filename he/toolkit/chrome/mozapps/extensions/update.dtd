@@ -1,12 +1,12 @@
 <!ENTITY  updateWizard.title              "&brandShortName; עדכון">
 
 <!ENTITY  offline.title                   "&brandShortName; נמצא במצב לא־מקוון">
-<!ENTITY  offline.description             "&brandShortName; צריך להיות במצב מקוון כדי לבדוק אם ישנם עדכונים זמינים עבור התוספות שלך כדי להפוך אותן לתואמות עם גירסה זו.">
+<!ENTITY  offline.description             "&brandShortName; צריך להיות במצב מקוון כדי לבדוק אם ישנם עדכונים זמינים עבור התוספות שלך כדי להפוך אותן לתואמות עם גרסה זו.">
 <!ENTITY  offline.toggleOffline.label     "עבור למצב מקוון כעת.">
 <!ENTITY  offline.toggleOffline.accesskey "ע">
 
 <!ENTITY  mismatch.win.title              "תוספת לא תואמת">
-<!ENTITY  mismatch.top.label              "התוספות הבאות אינן תואמות עם גירסה זו של &brandShortName; ולכן נוטרלו:">
+<!ENTITY  mismatch.top.label              "התוספות הבאות אינן תואמות עם גרסה זו של &brandShortName; ולכן נוטרלו:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; יכול לבדוק אם ישנן גירסאות תואמות של תוספות אלו זמינות.">
 
 <!ENTITY  checking.wizard.title           "בודק עבור תוספות תואמות">
@@ -36,7 +36,7 @@
 <!ENTITY  adminDisabled.warning.label     "לא ניתן לבדוק עדכונים לתוספות לא תואמות מאחר והתקנת תוכנות עבור &brandShortName; מנוטרלת. בבקשה צור קשר עם מנהל המערכת שלך לסיוע.">
 
 <!ENTITY  versioninfo.wizard.title        "בודק תאימות תוספות">
-<!ENTITY  versioninfo.top.label           "בודק את התוספות שלך לתאימות עם גירסה זו של &brandShortName;.">
+<!ENTITY  versioninfo.top.label           "בודק את התוספות שלך לתאימות עם גרסה זו של &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "זה יקח מספר דקות…">
 
 <!ENTITY  installerrors.wizard.title      "בעיה בהתקנת עדכונים">
