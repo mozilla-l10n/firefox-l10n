@@ -29,15 +29,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY firstrun.title                     "Sveiki! Čia „&brandShortName;“">
-<!ENTITY firstrun.heading                   "Žemiau pateikiame keletą pagrindinių „&brandShortName;“ savybių ir populiariausių priedų, padėsiančių pilnavertiškai naudotis šia programa.">
-<!ENTITY firstrun.recommended               "Rekomenduojame:">
-<!ENTITY firstrun.weave.title               "Parsisiųskite „Weave Sync“">
-<!ENTITY firstrun.weave.description         "Sinchronizuokite „&brandShortName;“ naršymo žurnalą, įrašytus slaptažodžius, adresyną ir korteles su naršykle Jūsų kompiuteryje.">
-<!ENTITY firstrun.starter.title             "Parsisiųskite „Starter Kit“ rinkinį">
-<!ENTITY firstrun.starter.description       "Įdiekite šiuos rekomenduojamus priedus ir mėgaukitės naujais potyriais su „&brandShortName;“">
-<!ENTITY firstrun.tour.title                "Pažiūrėkite pristatymą">
-<!ENTITY firstrun.tour.description          "Susipažinkite su nuostabiomis šios programos savybėmis – pažiūrėkite jos vaizdinį pristaymą">
-<!ENTITY firstrun.features                  "Daugiau savybių">
+<!ENTITY firstrun.heading2                  "Sveiki! Čia „&brandShortName;“">
+<!ENTITY firstrun.sync.title                "Parsisiųskite „Firefox Sync“">
+<!ENTITY firstrun.sync.description          "Sinchronizuokite „&brandShortName;“ naršymo žurnalą, įrašytus slaptažodžius, adresyną ir korteles su naršykle Jūsų kompiuteryje.">
+<!ENTITY firstrun.addons.title              "Parsisiųskite priedų">
+<!ENTITY firstrun.addons.description        "Parsisiųskite „&brandShortName;“ priedų ir mėgaukitės naujais potyriais">
+<!ENTITY firstrun.home.title                "Pradėkite naršymą">
+<!ENTITY firstrun.home.description          "Bakstelėkite, kad patektumėte į asmeninį pradžios tinklalapį, ir pradėkite naršyti">
 <!ENTITY firstrun.faq                       "Klausimai ir atsakymai">
 <!ENTITY firstrun.privacy                   "Privatumo politika">
 <!ENTITY firstrun.follow                    "Sekite mus:">
