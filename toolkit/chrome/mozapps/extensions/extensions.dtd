@@ -23,6 +23,8 @@
 <!ENTITY view.plugins.label                   "Insticksmoduler">
 <!ENTITY view.recentUpdates.label             "Nyligen uppdaterade">
 <!ENTITY view.availableUpdates.label          "Tillgängliga uppdateringar">
+<!ENTITY view.utilites.preferences.tooltip    "Inställningar för alla tillägg">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Inställningar för alla tillägg">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Uppdatera tillägg nu">
