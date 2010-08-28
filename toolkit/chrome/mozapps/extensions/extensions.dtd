@@ -40,6 +40,9 @@
 <!ENTITY installFromFile.label                "Įdiegti iš failo…">
 <!ENTITY installFromFile.accesskey            "d">
 
+<!ENTITY cmd.back.tooltip                     "Vienu tinklalapiu atgal">
+<!ENTITY cmd.forward.tooltip                  "Vienu tinklalapiu pirmyn">
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Paieška">
@@ -51,6 +54,8 @@
 <!ENTITY view.plugins.label                   "Papildiniai">
 <!ENTITY view.recentUpdates.label             "Paskiausiai atnaujinti">
 <!ENTITY view.availableUpdates.label          "Galimi naujinimai">
+<!ENTITY view.utilites.preferences.tooltip    "Visiems priedams taikomos nuostatos">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Visiems priedams taikomos nuostatos">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Atnaujinti priedus">
@@ -71,8 +76,10 @@
 <!ENTITY cmd.showDetails.accesskey            "I">
 <!ENTITY cmd.findUpdates.label                "Rasti naujinimų">
 <!ENTITY cmd.findUpdates.accesskey            "R">
-<!ENTITY cmd.preferences.label                "Nuostatos">
-<!ENTITY cmd.preferences.accesskey            "N">
+<!ENTITY cmd.preferencesWin.label             "Nuostatos">
+<!ENTITY cmd.preferencesWin.accesskey         "N">
+<!ENTITY cmd.preferencesUnix.label            "Nuostatos">
+<!ENTITY cmd.preferencesUnix.accesskey        "N">
 <!ENTITY cmd.about.label                      "Apie">
 <!ENTITY cmd.about.accesskey                  "A">
 
@@ -82,8 +89,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "u">
 <!ENTITY cmd.uninstallAddon.label             "Pašalinti">
 <!ENTITY cmd.uninstallAddon.accesskey         "š">
-<!ENTITY cmd.showPreferences.label            "Nuostatos">
-<!ENTITY cmd.showPreferences.tooltip          "Keisti šio priedo nuostatas">
+<!ENTITY cmd.showPreferencesWin.label         "Nuostatos">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Keisti šio priedo nuostatas">
+<!ENTITY cmd.showPreferencesUnix.label        "Nuostatos">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Keisti šio priedo nuostatas">
 <!ENTITY cmd.contribute.label                 "Paremti">
 <!ENTITY cmd.contribute.accesskey             "p">
 <!ENTITY cmd.contribute.tooltip               "Paremti šio priedo kūrimą">
@@ -106,9 +115,12 @@
 <!ENTITY detail.checkForUpdates.label         "Ieškoti naujinimų">
 <!ENTITY detail.checkForUpdates.accesskey     "I">
 <!ENTITY detail.checkForUpdates.tooltip       "Ieškoti šio priedo naujinimų">
-<!ENTITY detail.showPreferences.label         "Nuostatos">
-<!ENTITY detail.showPreferences.accesskey     "N">
-<!ENTITY detail.showPreferences.tooltip       "Keisti šio priedo nuostatas">
+<!ENTITY detail.showPreferencesWin.label      "Nuostatos">
+<!ENTITY detail.showPreferencesWin.accesskey  "N">
+<!ENTITY detail.showPreferencesWin.tooltip    "Keisti šio priedo nuostatas">
+<!ENTITY detail.showPreferencesUnix.label     "Nuostatos">
+<!ENTITY detail.showPreferencesUnix.accesskey "N">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Keisti šio priedo nuostatas">
 
 <!-- ratings -->
 <!ENTITY rating.label                         "Įvertinimas:">
@@ -122,8 +134,8 @@
 <!ENTITY sort.name.tooltip                    "Rikiuoti pagal pavadinimą">
 <!ENTITY sort.dateUpdated.label               "Atnaujinimo data">
 <!ENTITY sort.dateUpdated.tooltip             "Rikiuoti pagal paskiausio atnaujinimo datą">
-<!ENTITY sort.rating.label                    "Įvertinimas">
-<!ENTITY sort.rating.tooltip                  "Rikiuoti pagal įvertinimą">
+<!ENTITY sort.relevance.label                 "Atitikimas">
+<!ENTITY sort.relevance.tooltip               "Rikiuoti pagal atitikimą paieškos kriterijams">
 
 <!ENTITY search.filter2.label                 "Ieškoti:">
 <!ENTITY search.filter2.installed.label       "įdiegtų priedų">
