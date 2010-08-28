@@ -44,12 +44,18 @@
 
 <!ENTITY  details.link                    "Détails">
 
+<!ENTITY  error.title                     "La mise à jour a échoué">
+
 <!ENTITY  error.label                     "Des problèmes ont été rencontrés lors de la vérification, du téléchargement ou de l'installation de cette mise à jour. &brandShortName; n'a pas pu être mis à jour suite à :">
 
 <!ENTITY  errorManual.label               "Vous pouvez mettre &brandShortName; à jour manuellement en suivant ce lien et en téléchargeant la dernière version :">
 
-<!ENTITY  errorpatching.title             "La mise à jour a échoué">
 <!ENTITY  errorpatching.intro             "La mise à jour partielle n'a pas pu être appliquée. &brandShortName; va réessayer en téléchargeant une mise à jour complète.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Quelque chose empêche &brandShortName; de se mettre à jour de manière sûre.
+                                           Veuillez vérifier que vous disposez de la dernière version de &brandShortName; à :">
+<!ENTITY  errorCertAttrHasUpdate.label    "Quelque chose essaie de duper &brandShortName; en lui proposant une mise à jour
+                                           non sûre. Veuillez contacter votre fournisseur de réseau pour demander de l'aide.">
 
 <!ENTITY  finishedPage.title              "Mise à jour prête à être installée">
 <!ENTITY  finishedPage.text               "La mise à jour sera installée au prochain démarrage de &brandShortName;. Vous pouvez
