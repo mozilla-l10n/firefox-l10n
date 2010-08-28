@@ -92,8 +92,8 @@
 <!ENTITY sort.name.tooltip                    "Sorteren op naam">
 <!ENTITY sort.dateUpdated.label               "Laatste update">
 <!ENTITY sort.dateUpdated.tooltip             "Sorteren op updatedatum">
-<!ENTITY sort.rating.label                    "Beoordeling">
-<!ENTITY sort.rating.tooltip                  "Sorteren op gemiddelde beoordeling">
+<!ENTITY sort.relevance.label                 "Beste overeenkomst">
+<!ENTITY sort.relevance.tooltip               "Sorteren op relevantie">
 
 <!ENTITY search.filter2.label                 "Zoeken:">
 <!ENTITY search.filter2.installed.label       "Mijn add-ons">
