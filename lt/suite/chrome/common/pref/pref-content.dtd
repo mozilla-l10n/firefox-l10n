@@ -37,13 +37,6 @@
 <!ENTITY useSiteIcons.accesskey                 "R">
 <!ENTITY useFavIcons.label                      "Bandyti savarankiškai aptikti piktogramą, jei svetainė jos neapibrėžia">
 <!ENTITY useFavIcons.accesskey                  "B">
-<!ENTITY tbIconsDescription.label               "Rodyti svetainių piktogramas adresyno meniu ir juostoje:">
-<!ENTITY tbIconsNever.label                     "Niekada">
-<!ENTITY tbIconsNever.accesskey                 "N">
-<!ENTITY tbIconsCache.label                     "Tik jei svetainėje neseniai lankytasi">
-<!ENTITY tbIconsCache.accesskey                 "T">
-<!ENTITY tbIconsAlways.label                    "Visada">
-<!ENTITY tbIconsAlways.accesskey                "V">
 <!ENTITY enableAutomaticImageResizing.label     "Sumažinti didelių paveikslų dydį, kad tilptų naršyklės lange">
 <!ENTITY enableAutomaticImageResizing.accesskey "m">
 <!ENTITY useSmoothScroll.label                  "Slinkti tolygiai">

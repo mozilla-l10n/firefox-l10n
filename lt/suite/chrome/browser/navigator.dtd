@@ -186,13 +186,14 @@
 <!ENTITY proxyIcon.tooltip            "Jei norite saitą į tinklalapį įrašyti į asmeninę mygtukų juostą, nuvilkite šį ženkliuką">
 
 <!-- Toolbar items --> 
-<!ENTITY  bookmarksButton.label       "Adresynas">
-<!ENTITY  bookmarksButton.tooltip     "Įrašytų adresų sąrašas">
-<!ENTITY  homeButton.label            "Pradžia">
-<!ENTITY  bookmarksToolbarItem.label  "Adresyno juostos elementai">
+<!ENTITY bookmarksButton.label        "Adresynas">
+<!ENTITY bookmarksButton.tooltip      "Įrašytų adresų sąrašas">
+<!ENTITY homeButton.label             "Pradžia">
+<!ENTITY bookmarksToolbarItem.label   "Adresyno juostos elementai">
+<!ENTITY bookmarksToolbarChevron.tooltip "Rodyti daugiau adresų">
 
 <!-- Statusbar -->
-<!ENTITY  statusText.label            "Dokumentas baigtas">
+<!ENTITY statusText.label           "Dokumentas baigtas">
 
 <!ENTITY historyCmd.label           "Į žurnalą">  
 <!ENTITY historyCmd.accesskey       "ž">

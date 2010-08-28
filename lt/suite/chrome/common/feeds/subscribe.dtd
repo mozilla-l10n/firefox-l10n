@@ -32,4 +32,5 @@
 
 <!ENTITY feedPage.title        "Sklaidos kanalo peržiūra">
 <!ENTITY feedSubscribeNow      "Prenumeruoti">
-<!ENTITY feedMessenger         "Naujienų ir tinklaraščių modulį">
+<!ENTITY feedMessenger         "naujienų ir tinklaraščių modulį">
+<!ENTITY feedLiveBookmarks     "naršyklės adresyną">
