@@ -18,7 +18,6 @@
 <!ENTITY aboutSupport.modifiedPrefsName "Имя">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значение">
 <!ENTITY aboutSupport.graphicsTitle "Графика">
-<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D включён">
 <!ENTITY aboutSupport.installationHistoryTitle "Журнал установки">
 <!ENTITY aboutSupport.updateHistoryTitle "Журнал обновлений">
 <!ENTITY aboutSupport.copyToClipboard.label "Копировать всё в буфер обмена">

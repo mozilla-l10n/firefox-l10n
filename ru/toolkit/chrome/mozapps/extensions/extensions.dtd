@@ -9,6 +9,8 @@
 <!ENTITY listEmpty.button.label "Узнать больше о дополнениях">
 <!ENTITY installFromFile.label "Установить из файла…">
 <!ENTITY installFromFile.accesskey "с">
+<!ENTITY cmd.back.tooltip "На предыдущую страницу">
+<!ENTITY cmd.forward.tooltip "На следующую страницу">
 <!ENTITY view.search.label "Поиск">
 <!ENTITY view.discover.label "Получить дополнения">
 <!ENTITY view.locales.label "Языки">
@@ -18,6 +20,8 @@
 <!ENTITY view.plugins.label "Плагины">
 <!ENTITY view.recentUpdates.label "Недавние обновления">
 <!ENTITY view.availableUpdates.label "Доступные обновления">
+<!ENTITY view.utilites.preferences.tooltip "Настройки для всех дополнений">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Настройки для всех дополнений">
 <!ENTITY updates.updateAddonsNow.label "Обновить дополнения прямо сейчас">
 <!ENTITY updates.updateAddonsNow.accesskey "н">
 <!ENTITY updates.viewUpdates.label "Показать недавние обновления">
@@ -34,8 +38,10 @@
 <!ENTITY cmd.showDetails.accesskey "д">
 <!ENTITY cmd.findUpdates.label "Найти обновления">
 <!ENTITY cmd.findUpdates.accesskey "а">
-<!ENTITY cmd.preferences.label "Настройки">
-<!ENTITY cmd.preferences.accesskey "с">
+<!ENTITY cmd.preferencesWin.label "Настройки">
+<!ENTITY cmd.preferencesWin.accesskey "с">
+<!ENTITY cmd.preferencesUnix.label "Настройки">
+<!ENTITY cmd.preferencesUnix.accesskey "с">
 <!ENTITY cmd.about.label "О дополнении">
 <!ENTITY cmd.about.accesskey "О">
 <!ENTITY cmd.enableAddon.label "Включить">
@@ -44,8 +50,10 @@
 <!ENTITY cmd.disableAddon.accesskey "т">
 <!ENTITY cmd.uninstallAddon.label "Удалить">
 <!ENTITY cmd.uninstallAddon.accesskey "д">
-<!ENTITY cmd.showPreferences.label "Настройки">
-<!ENTITY cmd.showPreferences.tooltip "Изменить настройки этого дополнения">
+<!ENTITY cmd.showPreferencesWin.label "Настройки">
+<!ENTITY cmd.showPreferencesWin.tooltip "Изменить настройки этого дополнения">
+<!ENTITY cmd.showPreferencesUnix.label "Настройки">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Изменить настройки этого дополнения">
 <!ENTITY cmd.contribute.label "Внести вклад">
 <!ENTITY cmd.contribute.accesskey "т">
 <!ENTITY cmd.contribute.tooltip "Внести вклад в развитие этого дополнения">
@@ -64,9 +72,12 @@
 <!ENTITY detail.checkForUpdates.label "Проверить наличие обновлений">
 <!ENTITY detail.checkForUpdates.accesskey "в">
 <!ENTITY detail.checkForUpdates.tooltip "Проверить наличие обновлений для этого дополнения">
-<!ENTITY detail.showPreferences.label "Настройки">
-<!ENTITY detail.showPreferences.accesskey "с">
-<!ENTITY detail.showPreferences.tooltip "Изменить настройки этого дополнения">
+<!ENTITY detail.showPreferencesWin.label "Настройки">
+<!ENTITY detail.showPreferencesWin.accesskey "с">
+<!ENTITY detail.showPreferencesWin.tooltip "Изменить настройки этого дополнения">
+<!ENTITY detail.showPreferencesUnix.label "Настройки">
+<!ENTITY detail.showPreferencesUnix.accesskey "с">
+<!ENTITY detail.showPreferencesUnix.tooltip "Изменить настройки этого дополнения">
 <!ENTITY rating.label "Рейтинг:">
 <!ENTITY progress.pause.tooltip "Приостановить">
 <!ENTITY progress.cancel.tooltip "Отмена">
@@ -74,8 +85,8 @@
 <!ENTITY sort.name.tooltip "Сортировать по имени">
 <!ENTITY sort.dateUpdated.label "Последнее обновление">
 <!ENTITY sort.dateUpdated.tooltip "Сортировать по дате обновления">
-<!ENTITY sort.rating.label "Рейтинг">
-<!ENTITY sort.rating.tooltip "Сортировать по среднему рейтингу">
+<!ENTITY sort.relevance.label "Лучшее совпадение">
+<!ENTITY sort.relevance.tooltip "Сортировать по релевантности">
 <!ENTITY search.filter2.label "Поиск среди:">
 <!ENTITY search.filter2.installed.label "Моих дополнений">
 <!ENTITY search.filter2.installed.tooltip "Показать установленные дополнения">

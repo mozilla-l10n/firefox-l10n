@@ -11,6 +11,8 @@
 <!ENTITY useAutoScroll.accesskey "п">
 <!ENTITY useSmoothScrolling.label "Использовать плавную прокрутку">
 <!ENTITY useSmoothScrolling.accesskey "л">
+<!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
+<!ENTITY allowHWAccel.accesskey "л">
 <!ENTITY checkSpelling.label "Проверять орфографию при наборе текста">
 <!ENTITY checkSpelling.accesskey "н">
 <!ENTITY systemDefaults.label "Браузер по умолчанию">
