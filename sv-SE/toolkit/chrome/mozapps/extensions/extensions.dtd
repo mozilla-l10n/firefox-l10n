@@ -94,8 +94,8 @@
 <!ENTITY sort.name.tooltip                    "Ordna efter namn">
 <!ENTITY sort.dateUpdated.label               "Senast uppdaterad">
 <!ENTITY sort.dateUpdated.tooltip             "Ordna efter senast uppdaterad">
-<!ENTITY sort.rating.label                    "Betyg">
-<!ENTITY sort.rating.tooltip                  "Ordna efter genomsnittsbetyg">
+<!ENTITY sort.relevance.label                 "Bästa träff">
+<!ENTITY sort.relevance.tooltip               "Ordna efter bästa träff">
 
 <!ENTITY search.filter2.label                 "Sök:">
 <!ENTITY search.filter2.installed.label       "Mina tillägg">
