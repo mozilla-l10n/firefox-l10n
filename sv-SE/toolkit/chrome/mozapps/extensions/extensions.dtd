@@ -10,8 +10,10 @@
 <!ENTITY installFromFile.label                "Installera från fil…">
 <!ENTITY installFromFile.accesskey            "I">
 
+<!ENTITY cmd.back.tooltip                     "Gå bakåt en sida">
+<!ENTITY cmd.forward.tooltip                  "Gå framåt en sida">
+
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Sök">
 <!ENTITY view.discover.label                  "Hämta tillägg">
 <!ENTITY view.locales.label                   "Språk">
