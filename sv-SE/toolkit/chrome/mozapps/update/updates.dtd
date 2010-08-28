@@ -52,15 +52,21 @@
 
 <!ENTITY  details.link                    "Detaljer">
 
+<!ENTITY  error.title                     "Uppdatering misslyckades">
+
 <!ENTITY  error.label                     "Problem uppstod vid sökning, hämtning eller installation av den här 
                                            uppdateringen. &brandShortName; kunde inte uppdateras eftersom:">
                                            
 <!ENTITY  errorManual.label               "Du kan uppgradera &brandShortName; manuellt genom att besöka den här länken
                                            och hämta den senaste versionen:">
                                            
-<!ENTITY  errorpatching.title             "Uppdateringen misslyckades">
 <!ENTITY  errorpatching.intro             "Programfixen kunde inte installeras. 
                                            &brandShortName; kommer att försöka igen genom att hämta ett komplett uppdateringspaket.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Någonting förhindrar &brandShortName; från att uppdatera säkert.
+                                           Kontrollera att du använder den senaste versionen av &brandShortName; på:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Någonting försöker lura &brandShortName; till att acceptera en
+                                           osäker uppdatering. Kontakta din nätverksleverantör för hjälp.">
 
 <!ENTITY  finishedPage.title              "Uppdatering färdig att installera">
 <!ENTITY  finishedPage.text               "Uppdateringen kommer att installeras nästa gång &brandShortName; startas.
