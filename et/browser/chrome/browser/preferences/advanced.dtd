@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey           "u">
 <!ENTITY useSmoothScrolling.label          "Kasutatakse sujuvat kerimist">
 <!ENTITY useSmoothScrolling.accesskey      "s">
+<!ENTITY allowHWAccel.label                "Võimalusel kasutatakse riistvaralist kiirendust">
+<!ENTITY allowHWAccel.accesskey            "i">
 <!ENTITY checkSpelling.label               "Sisestamisel kontrollitakse õigekirja">
 <!ENTITY checkSpelling.accesskey           "r">
 
@@ -27,7 +29,6 @@
 <!ENTITY checkNow.accesskey                "K">
 <!ENTITY submitCrashes.label               "Saada vearaportid">
 <!ENTITY submitCrashes.accesskey           "S">
-
 
 <!ENTITY networkTab.label                  "Võrk">
 

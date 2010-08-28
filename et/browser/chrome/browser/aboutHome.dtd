@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle                     "&brandFullName;i avaleht">
+<!ENTITY abouthome.brandLogo.title               "&brandFullName;i logo">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart                    "<span>&brandShortName;</span> Start">
+
+<!ENTITY abouthome.searchEngineLogo.title        "Otsingumootori logo">
+
+<!ENTITY abouthome.searchEngineButton.label      "Otsi">
+
+<!ENTITY abouthome.searchEngineLinks.advanced    "Täpsem otsing">
+<!ENTITY abouthome.searchEngineLinks.preferences "Eelistused">
+
+<!ENTITY abouthome.aboutMozilla                  "Mozillast">

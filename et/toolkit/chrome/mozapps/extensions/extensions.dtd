@@ -7,9 +7,13 @@
 <!ENTITY listEmpty.findUpdates.label          "Kontrolli uuendusi">
 <!ENTITY listEmpty.search.label               "Ühtegi sobivat lisa ei leitud">
 <!ENTITY listEmpty.button.label               "Rohkem teavet lisade kohta">
+<!ENTITY installFromFile.label                "Paigalda failist…">
+<!ENTITY installFromFile.accesskey            "P">
+
+<!ENTITY cmd.back.tooltip                     "Mine üks leht tagasi">
+<!ENTITY cmd.forward.tooltip                  "Mine üks leht edasi">
 
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Otsing">
 <!ENTITY view.discover.label                  "Hangi lisasid">
 <!ENTITY view.locales.label                   "Keeled">
@@ -19,6 +23,8 @@
 <!ENTITY view.plugins.label                   "Pluginad">
 <!ENTITY view.recentUpdates.label             "Hiljutised uuendused">
 <!ENTITY view.availableUpdates.label          "Saadaolevad uuendused">
+<!ENTITY view.utilites.preferences.tooltip    "Sätted kõigi lisade jaoks">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Eelistused kõigi lisade jaoks">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Uuenda lisasid kohe">
@@ -39,8 +45,10 @@
 <!ENTITY cmd.showDetails.accesskey            "K">
 <!ENTITY cmd.findUpdates.label                "Leia uuendusi">
 <!ENTITY cmd.findUpdates.accesskey            "L">
-<!ENTITY cmd.preferences.label                "Eelistused">
-<!ENTITY cmd.preferences.accesskey            "E">
+<!ENTITY cmd.preferencesWin.label             "Sätted">
+<!ENTITY cmd.preferencesWin.accesskey         "t">
+<!ENTITY cmd.preferencesUnix.label            "Eelistused">
+<!ENTITY cmd.preferencesUnix.accesskey        "E">
 <!ENTITY cmd.about.label                      "Sellest lisast">
 <!ENTITY cmd.about.accesskey                  "S">
 
@@ -50,8 +58,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "a">
 <!ENTITY cmd.uninstallAddon.label             "Eemalda">
 <!ENTITY cmd.uninstallAddon.accesskey         "m">
-<!ENTITY cmd.showPreferences.label            "Eelistused">
-<!ENTITY cmd.showPreferences.tooltip          "Muuda selle lisa eelistusi">
+<!ENTITY cmd.showPreferencesWin.label         "Sätted">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Muuda selle lisa sätteid">
+<!ENTITY cmd.showPreferencesUnix.label        "Eelistused">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Muuda selle lisa eelistusi">
 <!ENTITY cmd.contribute.label                 "Aita kaasa">
 <!ENTITY cmd.contribute.accesskey             "i">
 <!ENTITY cmd.contribute.tooltip               "Panusta selle lisa arendusse">
@@ -74,9 +84,12 @@
 <!ENTITY detail.checkForUpdates.label         "Kontrolli uuenduste olemasolu">
 <!ENTITY detail.checkForUpdates.accesskey     "K">
 <!ENTITY detail.checkForUpdates.tooltip       "Kontrolli, kas lisale on uuendusi">
-<!ENTITY detail.showPreferences.label         "Eelistused">
-<!ENTITY detail.showPreferences.accesskey     "E">
-<!ENTITY detail.showPreferences.tooltip       "Muuda selle lisa eelistusi">
+<!ENTITY detail.showPreferencesWin.label      "Sätted">
+<!ENTITY detail.showPreferencesWin.accesskey  "S">
+<!ENTITY detail.showPreferencesWin.tooltip    "Muuda selle lisa sätteid">
+<!ENTITY detail.showPreferencesUnix.label     "Eelistused">
+<!ENTITY detail.showPreferencesUnix.accesskey "E">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Muuda selle lisa eelistusi">
 
 <!-- ratings -->
 <!ENTITY rating.label                         "Hinnang:">
@@ -88,32 +101,29 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nimi">
 <!ENTITY sort.name.tooltip                    "Sorteeri nime järgi">
-<!ENTITY sort.size.label                      "Suurus">
-<!ENTITY sort.size.tooltip                    "Sorteeri suuruse järgi">
 <!ENTITY sort.dateUpdated.label               "Viimati uuendatud">
 <!ENTITY sort.dateUpdated.tooltip             "Sorteeri uuendatuse järgi">
-<!ENTITY sort.rating.label                    "Hinnang">
-<!ENTITY sort.rating.tooltip                  "Sorteeri hinnangu järgi">
+<!ENTITY sort.relevance.label                 "Täpsus">
+<!ENTITY sort.relevance.tooltip               "Sorteeri täpsuse järgi">
 
-<!ENTITY showMore.label                       "Kuva rohkem">
-<!ENTITY showMore.tooltip                     "Kuva rohkem teavet">
-<!ENTITY showLess.label                       "Kuva vähem">
-<!ENTITY showLess.tooltip                     "Kuva vähem teavet">
-
-<!ENTITY search.filter.label                  "Kuvatakse:">
-<!ENTITY search.filter.installed.label        "paigaldatud lisasid">
-<!ENTITY search.filter.available.label        "saadaolevaid lisasid">
+<!ENTITY search.filter2.label                 "Otsitakse:">
+<!ENTITY search.filter2.installed.label       "Paigaldatud lisade seast">
+<!ENTITY search.filter2.installed.tooltip     "Kuva paigaldatud lisasid">
+<!ENTITY search.filter2.available.label       "Saadaolevate lisade seast">
+<!ENTITY search.filter2.available.tooltip     "Kuva paigaldatavaid lisasid">
 
 <!ENTITY addon.homepage                       "Koduleht">
+<!ENTITY addon.details.label                  "Veel">
+<!ENTITY addon.details.tooltip                "Kuva veel infot selle lisa kohta">
 <!ENTITY addon.unknownDate                    "pole teada">
 <!ENTITY addon.disabled.postfix               "(keelatud)">
-<!ENTITY addon.update.postfix                 "Uuenda">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Uuendus">
 <!ENTITY addon.undo.label                     "Võta tagasi?">
 <!ENTITY addon.undo.tooltip                   "Võta see tegevus tagasi">
 <!ENTITY addon.undoUninstall.label            "Võta tagasi?">
 <!ENTITY addon.undoUninstall.tooltip          "Jäta see lisa paigaldatuks">
 <!ENTITY addon.restartNow.label               "Taaskäivita kohe">
-<!ENTITY addon.restartNow.tooltip             "Paigalduse lõpetamiseks taaskäivita">
 <!ENTITY addon.install.label                  "Paigalda">
 <!ENTITY addon.install.tooltip                "Paigalda see lisa">
 <!ENTITY addon.updateNow.label                "Uuenda kohe">
