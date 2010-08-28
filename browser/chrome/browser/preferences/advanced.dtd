@@ -11,6 +11,8 @@
 <!ENTITY useAutoScroll.accesskey "s">
 <!ENTITY useSmoothScrolling.label "Utilizza lo scorrimento continuo">
 <!ENTITY useSmoothScrolling.accesskey "a">
+<!ENTITY allowHWAccel.label "Utilizza l'accelerazione hardware quando disponibile">
+<!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "Controllo ortografico durante la digitazione">
 <!ENTITY checkSpelling.accesskey "C">
 <!ENTITY systemDefaults.label "Impostazioni predefinite">
