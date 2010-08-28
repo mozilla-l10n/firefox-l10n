@@ -8,7 +8,7 @@
 <!ENTITY  mismatch.win.title              "Nem kompatibilis kiegészítők">
 <!ENTITY  mismatch.top.label              "A következő kiegészítők nem kompatibilisek a &brandShortName;
                                            jelen verziójával, ezért le lettek tiltva:">
-<!ENTITY  mismatch.bottom.label           "A &brandShortName; megkeresheti és telepítheti ezen kiegészítők újabb, kompatibilis változatait.">
+<!ENTITY  mismatch.bottom.label           "A &brandShortName; megkeresheti és telepítheti ezen kiegészítők újabb, kompatibilis változatait. ">
 
 <!ENTITY  checking.wizard.title           "Kompatibilis kiegészítők keresése">
 <!ENTITY  checking.top.label              "A nem kompatibilis kiegészítők frissítéseinek keresése...">
@@ -55,5 +55,3 @@
 <!ENTITY  clickFinish.label               "A &brandShortName; indításának folytatásához kattintson a Befejezés gombra.">
 <!ENTITY  clickFinish.labelMac            "A &brandShortName; indításának folytatásához kattintson a Done gombra.">
 <!ENTITY  enableChecking.label            "&brandShortName;-frissítések ellenőrzésének engedélyezése">
-<!ENTITY  details.label                   "Részletek...">
-<!ENTITY details.accesskey               "R">

@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Hibakeresési információ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "H">
 
+<!ENTITY helpFeedbackPage.label      "Visszajelzés beküldése...">
+<!ENTITY helpFeedbackPage.accesskey  "V">
+
 <!ENTITY updateCmd.label                "Frissítések keresése...">
 
 <!ENTITY preferencesCmdMac.label        "Beállítások...">

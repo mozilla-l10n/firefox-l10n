@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Másolatot kap (Cc):">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "A címeket vesszővel válassza el.">
+<!ENTITY ccAddressList.placeholder "A címeket vesszővel válassza el.">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Rejtett másolatot kap (Bcc):">
 <!ENTITY bccAddress.accesskey "R">
-<!ENTITY bccAddressList.emptytext "A címeket vesszővel válassza el.">
+<!ENTITY bccAddressList.placeholder "A címeket vesszővel válassza el.">
 <!ENTITY saveMessageDlg.label "Jóváhagyás kérése üzenet mentésekor">
 <!ENTITY saveMessageDlg.accesskey "J">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

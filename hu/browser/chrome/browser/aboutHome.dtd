@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName; kezdőoldal">
+<!ENTITY abouthome.brandLogo.title "&brandFullName; logó">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> kezdőoldal">
+
+<!ENTITY abouthome.searchEngineLogo.title "Keresőszolgáltatás logója">
+
+<!ENTITY abouthome.searchEngineButton.label "Keresés">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Speciális keresés">
+<!ENTITY abouthome.searchEngineLinks.preferences "Beállítások">
+
+<!ENTITY abouthome.aboutMozilla "A Mozilláról">

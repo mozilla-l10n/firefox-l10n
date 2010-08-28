@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Keresés">
+<!ENTITY  filter.placeholder          "Keresés">
 
 <!ENTITY saveTo.label                 "Fájlok mentése">
 <!ENTITY saveTo.accesskey             "m">

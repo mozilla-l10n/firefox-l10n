@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title                "Üdvözli a &brandShortName;!">
-<!ENTITY firstrun.heading              "Az indulást megkönnyítendő felsoroljuk a legnépszerűbb funkciókat és kiegészítőket, amelyekkel a legtöbbet hozhatja ki a &brandShortName;ból.">
-<!ENTITY firstrun.recommended          "Ajánlott:">
-<!ENTITY firstrun.weave.title          "A Weave Sync letöltése">
-<!ENTITY firstrun.weave.description    "A &brandShortName; előzményeit, jelszavait, könyvjelzőit és lapjait megoszthatja az asztali gépe és a mobilja között.">
-<!ENTITY firstrun.starter.title        "Töltse le a Kezdőcsomagot">
-<!ENTITY firstrun.starter.description  "Telepítse ezeket az ajánlott kiegészítőket a &brandShortName; bővítése céljából">
-<!ENTITY firstrun.tour.title           "Bemutató">
-<!ENTITY firstrun.tour.description     "Nézze meg ezt a klipet a kezelésről és a menő funkciók használatáról">
-<!ENTITY firstrun.features             "A további funkciókról">
+<!ENTITY firstrun.heading2             "Üdvözli a &brandShortName;!">
+<!ENTITY firstrun.sync.title           "A Firefox Sync letöltése">
+<!ENTITY firstrun.sync.description     "A &brandShortName; előzményeit, jelszavait, könyvjelzőit és lapjait megoszthatja az asztali gépe és a mobilja között.">
+<!ENTITY firstrun.addons.title         "Kiegészítők letöltése">
+<!ENTITY firstrun.addons.description   "Telepítsen kiegészítőket a &brandShortName; bővítése céljából">
+<!ENTITY firstrun.home.title           "Kezdő lépések">
+<!ENTITY firstrun.home.description     "Koppintson a saját kezdőlapjára ugráshoz, és a webböngészés elkezdéséhez">
+<!ENTITY firstrun.relNotes.label       "Kiadási megjegyzések megjelenítése">
 <!ENTITY firstrun.faq                  "GYIK">
 <!ENTITY firstrun.privacy              "Adatvédelmi irányelvek">
 <!ENTITY firstrun.follow               "További infó:">

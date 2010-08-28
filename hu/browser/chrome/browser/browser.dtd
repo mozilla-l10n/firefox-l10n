@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privát böngészés)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Lap áthelyezése...">
-<!ENTITY moveTabTo.accesskey                "L">
-<!ENTITY  createNewGroup.label               "Új csoport létrehozása">
-<!ENTITY createNewGroup.accesskey           "C">
-<!ENTITY  namedGroups.label                  "Névvel ellátott csoportok">
 <!ENTITY  reloadTab.label                    "Lap frissítése">
 <!ENTITY reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Összes lap frissítése">
@@ -29,6 +24,9 @@
 <!ENTITY pinTab.accesskey                   "L">
 <!ENTITY  unpinTab.label                     "Legyen normál lap">
 <!ENTITY unpinTab.accesskey                 "n">
+<!ENTITY  moveToGroup.label                  "Áthelyezés csoportba">
+<!ENTITY moveToGroup.accesskey              "c">
+<!ENTITY  moveToNewGroup.label               "Új csoport">
 <!ENTITY  bookmarkThisTab.label              "Aktuális lap könyvjelzőbe">
 <!ENTITY bookmarkThisTab.accesskey          "A">
 <!ENTITY  bookmarkAllTabs.label              "Minden lap egy könyvjelzőbe...">
@@ -193,6 +191,12 @@
 <!ENTITY inspectStyleButton.label     "Stílus">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Stílus">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Objektum">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label         "Fájl"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -261,11 +265,12 @@
 <!ENTITY showAllHistoryCmd2.label "Minden előzmény megjelenítése">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Nyomtatás">
 <!ENTITY appMenuCustomize.label "Testreszabás">
 <!ENTITY appMenuToolbarLayout.label "Eszköztár elrendezése...">
 <!ENTITY appMenuSidebars.label "Oldalsávok">
-<!ENTITY appMenuHelp.label "Súgó">
+<!ENTITY appMenuFind.label "Keresés...">
+<!ENTITY appMenuUnsorted.label "Nem rendezett könyvjelzők">
+<!ENTITY appMenuGettingStarted.label "Kezdő lépések">
 
 <!ENTITY developerMenu.label "Fejlesztő">
 

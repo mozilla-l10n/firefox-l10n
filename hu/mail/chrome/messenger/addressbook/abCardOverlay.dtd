@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Fonetikus:">
 <!ENTITY DisplayName.label              "Megjelenítendő név:">
 <!ENTITY DisplayName.accesskey          "M">
+<!ENTITY preferDisplayName.label        "A megjelenítendő név használata az üzenetfejlécben levő helyett">
+<!ENTITY preferDisplayName.accesskey    "m">
 <!ENTITY NickName.label                 "Becenév:">
 <!ENTITY NickName.accesskey             "B">
 
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "Születési dátum:">
 <!ENTITY Birthday.accesskey             "S">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "évente">
+<!ENTITY Year.placeholder               "évente">
 <!ENTITY Or.value                       "vagy">
-<!ENTITY Age.emptytext                  "Kor">
+<!ENTITY Age.placeholder                "Kor">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Munkahely">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "M">
 <!ENTITY PhotoURL.label                 "A weben">
 <!ENTITY PhotoURL.accesskey             "w">
-<!ENTITY PhotoURL.emptytext             "Illessze be vagy adja meg a fénykép webcímét">
+<!ENTITY PhotoURL.placeholder           "Illessze be vagy adja meg a fénykép webcímét">
 <!ENTITY UpdatePhoto.label              "Frissítés">
 <!ENTITY UpdatePhoto.accesskey          "F">
