@@ -54,8 +54,6 @@
 <!ENTITY cmd.showDetails.accesskey            "β">
 <!ENTITY cmd.findUpdates.label                "Εύρεση ενημερώσεων">
 <!ENTITY cmd.findUpdates.accesskey            "ρ">
-<!ENTITY cmd.preferences.label                "Προτιμήσεις">
-<!ENTITY cmd.preferences.accesskey            "Π">
 <!ENTITY cmd.about.label                      "Περί">
 <!ENTITY cmd.about.accesskey                  "ε">
 
@@ -86,9 +84,6 @@
 <!ENTITY detail.checkForUpdates.label         "Έλεγχος για ενημερώσεις">
 <!ENTITY detail.checkForUpdates.accesskey     "χ">
 <!ENTITY detail.checkForUpdates.tooltip       "Έλεγχος για ενημερώσεις αυτού του προσθέτου">
-<!ENTITY detail.showPreferences.label         "Προτιμήσεις">
-<!ENTITY detail.showPreferences.accesskey     "Π">
-<!ENTITY detail.showPreferences.tooltip       "Αλλαγή των προτιμήσεων αυτού του προσθέτου">
 
 
 <!-- download/install progress -->
@@ -102,8 +97,7 @@
 
 <!ENTITY sort.dateUpdated.label               "Τελευταία ενημέρωση">
 <!ENTITY sort.dateUpdated.tooltip             "Ταξινόμηση κατά ημερομηνία ενημέρωσης">
-<!ENTITY sort.rating.label                    "Αξιολόγηση">
-<!ENTITY sort.rating.tooltip                  "Ταξινόμηση κατά μέσο όρο αξιολόγησης">
+
 
 
 
@@ -132,8 +126,6 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Συγγνώμη, αλλά υπήρξε ένα σφάλμα κατά την φόρτωση των σημειώσεων έκδοσης.">
 
 
-<!ENTITY cmd.showPreferences.label            "Προτιμήσεις">
-<!ENTITY cmd.showPreferences.tooltip          "Αλλαγή των προτιμήσεων αυτού του προσθέτου">
 
 <!-- ratings -->
 <!ENTITY rating.label                         "Αξιολόγηση:">
@@ -151,6 +143,31 @@
 <!ENTITY search.filter2.available.tooltip     "Προβολή διαθέσιμων πρόσθετων για εγκατάσταση">
 
 
+<!ENTITY cmd.back.tooltip                     "Μετάβαση πίσω μια σελίδα">
+<!ENTITY cmd.forward.tooltip                  "Μετάβαση μπροστά μια σελίδα">
 
+<!ENTITY cmd.preferencesWin.label             "Επιλογές">
+<!ENTITY cmd.preferencesWin.accesskey         "λ">
+<!ENTITY cmd.preferencesUnix.label            "Προτιμήσεις">
+<!ENTITY cmd.preferencesUnix.accesskey        "Π">
+
+
+<!ENTITY cmd.showPreferencesWin.label         "Επιλογές">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Αλλαγή των επιλογών αυτού του προσθέτου">
+<!ENTITY cmd.showPreferencesUnix.label        "Προτιμήσεις">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Αλλαγή των προτιμήσεων αυτού του προσθέτου">
+
+<!ENTITY detail.showPreferencesWin.label      "Επιλογές">
+<!ENTITY detail.showPreferencesWin.accesskey  "λ">
+<!ENTITY detail.showPreferencesWin.tooltip    "Αλλαγή των επιλογών αυτού του προσθέτου">
+<!ENTITY detail.showPreferencesUnix.label     "Προτιμήσεις">
+<!ENTITY detail.showPreferencesUnix.accesskey "Π">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Αλλαγή των προτιμήσεων">
+
+<!ENTITY sort.relevance.label                 "Καλύτερο ταίριασμα">
+<!ENTITY sort.relevance.tooltip               "Ταξινόμηση βάσει συνάφειας">
+<!ENTITY view.utilites.preferences.tooltip    "Επιλογές για όλα τα πρόσθετα">
+
+<!ENTITY view.utilites.preferencesUnix.tooltip "Προτιμήσεις για όλα τα πρόσθετα">
 
 

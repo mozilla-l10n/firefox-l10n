@@ -115,5 +115,7 @@
 <!ENTITY submitCrashes.label             "Υποβολή αναφορών κατάρρευσης">
 <!ENTITY submitCrashes.accesskey         "β">
 
+<!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης hardware όπου είναι διαθέσιμη">
+<!ENTITY allowHWAccel.accesskey          "h">
 
 
