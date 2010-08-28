@@ -3,25 +3,25 @@
 <!ENTITY useCursorNavigation.label "Всегда использовать клавиши курсора для навигации по страницам">
 <!ENTITY useCursorNavigation.accesskey "к">
 <!ENTITY searchStartTyping.label "Искать текст на странице по мере его набора">
-<!ENTITY searchStartTyping.accesskey "И">
+<!ENTITY searchStartTyping.accesskey "с">
 <!ENTITY blockAutoRefresh.label "Предупреждать при попытке веб-сайтов перенаправить или перезагрузить страницу">
 <!ENTITY blockAutoRefresh.accesskey "р">
 <!ENTITY browsing.label "Просмотр сайтов">
 <!ENTITY useAutoScroll.label "Использовать автоматическую прокрутку">
 <!ENTITY useAutoScroll.accesskey "п">
 <!ENTITY useSmoothScrolling.label "Использовать плавную прокрутку">
-<!ENTITY useSmoothScrolling.accesskey "л">
+<!ENTITY useSmoothScrolling.accesskey "о">
 <!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
 <!ENTITY allowHWAccel.accesskey "л">
 <!ENTITY checkSpelling.label "Проверять орфографию при наборе текста">
-<!ENTITY checkSpelling.accesskey "н">
+<!ENTITY checkSpelling.accesskey "в">
 <!ENTITY systemDefaults.label "Браузер по умолчанию">
 <!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; браузером по умолчанию">
-<!ENTITY alwaysCheckDefault.accesskey "р">
+<!ENTITY alwaysCheckDefault.accesskey "д">
 <!ENTITY checkNow.label "Проверить сейчас">
-<!ENTITY checkNow.accesskey "в">
+<!ENTITY checkNow.accesskey "е">
 <!ENTITY submitCrashes.label "Отправлять сообщения о падениях">
-<!ENTITY submitCrashes.accesskey "в">
+<!ENTITY submitCrashes.accesskey "т">
 <!ENTITY networkTab.label "Сеть">
 <!ENTITY connection.label "Соединение">
 <!ENTITY connectionDesc.label "Настройте параметры соединения &brandShortName; с Интернет">
@@ -29,7 +29,7 @@
 <!ENTITY connectionSettings.accesskey "с">
 <!ENTITY offlineStorage.label "Автономное хранилище">
 <!ENTITY useCacheBefore.label "Использовать до">
-<!ENTITY useCacheBefore.accesskey "И">
+<!ENTITY useCacheBefore.accesskey "п">
 <!ENTITY useCacheAfter.label "МБ на диске для кэша">
 <!ENTITY clearCacheNow.label "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
@@ -40,10 +40,10 @@
 <!ENTITY enableAddonsUpdate2.label "Дополнений">
 <!ENTITY enableAddonsUpdate2.accesskey "о">
 <!ENTITY enableSearchUpdate.label "Плагинов для поисковых систем">
-<!ENTITY enableSearchUpdate.accesskey "п">
+<!ENTITY enableSearchUpdate.accesskey "л">
 <!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">
 <!ENTITY askMe.label "Предоставлять выбор действия пользователю">
-<!ENTITY askMe.accesskey "п">
+<!ENTITY askMe.accesskey "д">
 <!ENTITY modeAutomatic.label "Автоматически загружать и устанавливать обновления">
 <!ENTITY modeAutomatic.accesskey "в">
 <!ENTITY modeAutoAddonWarn.label "Предупреждать, если при данном действии будут отключены какие-либо дополнения">
@@ -74,8 +74,8 @@
 <!ENTITY viewCerts.label "Просмотр сертификатов">
 <!ENTITY viewCerts.accesskey "с">
 <!ENTITY viewCRLs.label "Управление CRL">
-<!ENTITY viewCRLs.accesskey "У">
+<!ENTITY viewCRLs.accesskey "п">
 <!ENTITY verify2.label "Настройки OCSP">
-<!ENTITY verify2.accesskey "а">
+<!ENTITY verify2.accesskey "р">
 <!ENTITY viewSecurityDevices.label "Устройства защиты">
 <!ENTITY viewSecurityDevices.accesskey "з">
