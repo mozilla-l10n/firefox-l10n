@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "n">
 <!ENTITY useSmoothScrolling.label        "Använd mjuk rullning">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "Använd om möjligt hårdvaruacceleration">
+<!ENTITY allowHWAccel.accesskey          "ä">
 <!ENTITY checkSpelling.label             "Använd automatisk stavningskontroll">
 <!ENTITY checkSpelling.accesskey         "v">
 
