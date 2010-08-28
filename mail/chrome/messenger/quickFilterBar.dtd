@@ -70,7 +70,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.label
-         "Contact">
+         "Contacts">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -99,7 +99,7 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.label
-         "Pièce jointe">
+         "Pièces jointes">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
