@@ -10,8 +10,10 @@
 <!ENTITY installFromFile.label                "从文件安装…">
 <!ENTITY installFromFile.accesskey            "I">
 
+<!ENTITY cmd.back.tooltip                     "转到上一页">
+<!ENTITY cmd.forward.tooltip                  "转到下一页">
+
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "搜索">
 <!ENTITY view.discover.label                  "获取附加组件">
 <!ENTITY view.locales.label                   "语言">
@@ -21,6 +23,8 @@
 <!ENTITY view.plugins.label                   "插件">
 <!ENTITY view.recentUpdates.label             "最近更新">
 <!ENTITY view.availableUpdates.label          "可用更新">
+<!ENTITY view.utilites.preferences.tooltip    "附件组件全局选项">
+<!ENTITY view.utilites.preferencesUnix.tooltip "附件组件全局首选项">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "立即更新附加组件">
@@ -41,8 +45,10 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "查找更新">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferences.label                "首选项">
-<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.preferencesWin.label             "选项">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "首选项">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "关于">
 <!ENTITY cmd.about.accesskey                  "A">
 
@@ -52,8 +58,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.uninstallAddon.label             "移除">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferences.label            "首选项">
-<!ENTITY cmd.showPreferences.tooltip          "更改此附加组件的配置">
+<!ENTITY cmd.showPreferencesWin.label         "选项">
+<!ENTITY cmd.showPreferencesWin.tooltip       "更改此附加组件选项">
+<!ENTITY cmd.showPreferencesUnix.label        "首选项">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "更改本附加件的首选项">
 <!ENTITY cmd.contribute.label                 "贡献">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "对此附加组件的开发做出贡献">
@@ -76,9 +84,12 @@
 <!ENTITY detail.checkForUpdates.label         "检查更新">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "检查此附加组件的更新">
-<!ENTITY detail.showPreferences.label         "首选项">
-<!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "更改本附加件的首选项">
+<!ENTITY detail.showPreferencesWin.label      "选项">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "修改此附加组件选项">
+<!ENTITY detail.showPreferencesUnix.label     "首选项">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "更改本附加件的首选项">
 
 
 <!-- ratings -->
@@ -94,8 +105,8 @@
 <!ENTITY sort.name.tooltip                    "按名称排列">
 <!ENTITY sort.dateUpdated.label               "最后更新">
 <!ENTITY sort.dateUpdated.tooltip             "按最后更新日期排列">
-<!ENTITY sort.rating.label                    "评级">
-<!ENTITY sort.rating.tooltip                  "按平均评级排列">
+<!ENTITY sort.relevance.label                 "最佳匹配">
+<!ENTITY sort.relevance.tooltip               "根据关联度排序">
 
 <!ENTITY search.filter2.label                 "搜索：">
 <!ENTITY search.filter2.installed.label       "我的附加组件">

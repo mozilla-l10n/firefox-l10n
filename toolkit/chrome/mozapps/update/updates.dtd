@@ -45,12 +45,18 @@
 
 <!ENTITY  details.link                    "详细信息">
 
+<!ENTITY  error.title                     "更新失败">
+
 <!ENTITY  error.label                     "检查、下载或安装此更新时发生问题。&brandShortName; 无法被更新，原因为：">
                                            
 <!ENTITY  errorManual.label               "您可以通过此链接手动更新和下载 &brandShortName;  的最新版本：">
                                            
-<!ENTITY  errorpatching.title             "更新失败">
 <!ENTITY  errorpatching.intro             "无法应用此局部更新。&brandShortName; 将下载完整的更新并重试。">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "某些东西阻碍了 &brandShortName; 安全的更新。
+                                           请检查确认您安装了最新的 &brandShortName;，它位于：">
+<!ENTITY  errorCertAttrHasUpdate.label    "某事物正尝试欺骗 &brandShortName; 以接受不安全的更新。
+                                           请联系您的网络供应商以寻求帮助。">
 
 <!ENTITY  finishedPage.title              "更新已可安装">
 <!ENTITY  finishedPage.text               "此更新将在下次启动 &brandShortName; 时自动安装。您
