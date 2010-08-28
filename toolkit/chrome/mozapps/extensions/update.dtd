@@ -46,5 +46,3 @@
 <!ENTITY clickFinish.label               "Klõpsa Lõpeta, et jätkata &brandShortName;i käivitamist.">
 <!ENTITY clickFinish.labelMac            "Klõpsa Lõpeta, et jätkata &brandShortName;i käivitamist.">
 <!ENTITY enableChecking.label            "Luba &brandShortName;il kontrollida uuendusi.">
-<!ENTITY details.label                   "Üksikasjad...">
-<!ENTITY details.accesskey               "k">

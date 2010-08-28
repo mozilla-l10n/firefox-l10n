@@ -50,15 +50,21 @@
 
 <!ENTITY details.link                    "Üksikasjad">
 
+<!ENTITY  error.title                    "Uuendamine ebaõnnestus">
+
 <!ENTITY error.label                     "Uuenduse kontrollimisel, allalaadimisel või paigaldamisel esines probleeme.
                                           &brandShortName;i ei uuendatud, kuna:">
                                           
 <!ENTITY errorManual.label               "Sa võid &brandShortName;i käsitsi uuendada, laadides alla uusima
                                           versiooni sellelt lingilt:">
                                           
-<!ENTITY errorpatching.title             "Uuendamine nurjus">
 <!ENTITY errorpatching.intro             "Osalist uuendust ei õnnestunud rakendada. &brandShortName; proovib
                                           alla laadida terve uuenduse.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Miski takistab &brandShortName;il turvalist uuendamist.
+                                           Palun kontrolli järgnevalt aadressilt, et kasutusel oleks viimane versioon &brandShortName;ist:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Miski üritab panna &brandShortName;i nõustuma ebaturvalise
+                                           uuendusega. Palun võta ühendust oma ISPga ja palu abi.">
 
 <!ENTITY finishedPage.title              "Uuendus on paigaldamiseks valmis">
 <!ENTITY finishedPage.text               "Uuendus paigaldatakse järgmisel &brandShortName;i käivitumisel. Sa võid
