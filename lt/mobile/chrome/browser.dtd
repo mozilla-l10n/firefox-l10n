@@ -37,7 +37,6 @@
 <!ENTITY reload.label                     "Naujinti">
 <!ENTITY stop.label                       "Stabdyti">
 <!ENTITY go.label                         "Eiti">
-<!ENTITY openLocation.label               "Atverti tinklavietę">
 <!ENTITY star.label                       "Žvaigždutė">
 
 <!ENTITY newtab.label                     "Nauja kortelė">

@@ -36,6 +36,7 @@
 <!ENTITY firstrun.addons.description        "Parsisiųskite „&brandShortName;“ priedų ir mėgaukitės naujais potyriais">
 <!ENTITY firstrun.home.title                "Pradėkite naršymą">
 <!ENTITY firstrun.home.description          "Bakstelėkite, kad patektumėte į asmeninį pradžios tinklalapį, ir pradėkite naršyti">
+<!ENTITY firstrun.relNotes.label            "Susipažinkite su laidos apžvalga">
 <!ENTITY firstrun.faq                       "Klausimai ir atsakymai">
 <!ENTITY firstrun.privacy                   "Privatumo politika">
 <!ENTITY firstrun.follow                    "Sekite mus:">
