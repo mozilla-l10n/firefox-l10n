@@ -36,13 +36,17 @@ cuenta que tenga permisos para instalar software en este equipo.">
                                            el paquete de actualización completo.">
 <!ENTITY viewDetails.tooltip "Ver detalles de esta actualización">
 <!ENTITY details.link "Detalles">
+<!ENTITY error.title "Actualización fallida">
 <!ENTITY error.label "Hubo problemas al comprobar, descargar o instalar esta
                                            actualización. No se pudo actualizar &brandShortName; porque:">
 <!ENTITY errorManual.label "Se puede actualizar &brandShortName; manualmente visitando este enlace
                                            y descargando la última versión:">
-<!ENTITY errorpatching.title "Fallo en la actualización">
 <!ENTITY errorpatching.intro "No se pudo aplicar la actualización parcial.
                                            &brandShortName; volverá a intentarlo descargando la actualización completa.">
+<!ENTITY errorCertAttrNoUpdate.label "Algo está impidiendo que &brandShortName; se actualice de forma segura.
+                                          Por favor, compruebe que tiene la última versión de &brandShortNAme; en:">
+<!ENTITY errorCertAttrHasUpdate.label "Algo está intentando engañar a &brandShortName; para que acepte una
+                               actualización insegura. Por favor, contacte con su proveedor de red y busque ayuda.">
 <!ENTITY finishedPage.title "Actualización lista para instalar">
 <!ENTITY finishedPage.text "La actualización se instalará la próxima vez que se inicie &brandShortName;. Puede reiniciar &brandShortName; ahora, o continuar trabajando y reiniciarlo más tarde.">
 <!ENTITY finishedBackgroundPage.text "Se ha descargado una actualización de seguridad y estabilidad
