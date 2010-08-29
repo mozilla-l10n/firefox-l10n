@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Fonetisk:">
 <!ENTITY DisplayName.label              "Fullt namn:">
 <!ENTITY DisplayName.accesskey          "u">
+<!ENTITY preferDisplayName.label        "Alltid vel fullt namn framfor namnet i meldingshovudet">
+<!ENTITY preferDisplayName.accesskey    "i">
 <!ENTITY NickName.label                 "Kallenamn:">
 <!ENTITY NickName.accesskey             "K">
 
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "Fødselsdag:">
 <!ENTITY Birthday.accesskey             "F">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "År">
+<!ENTITY Year.placeholder               "År">
 <!ENTITY Or.value                       "eller">
-<!ENTITY Age.emptytext                  "Alder">
+<!ENTITY Age.placeholder                "Alder">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Arbeid">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "B">
 <!ENTITY PhotoURL.label                 "På nettet">
 <!ENTITY PhotoURL.accesskey             "n">
-<!ENTITY PhotoURL.emptytext             "Lim eller skriv inn nettadressa til eit bilde">
+<!ENTITY PhotoURL.placeholder           "Lim eller skriv inn nettadressa til eit foto">
 <!ENTITY UpdatePhoto.label              "Oppdater">
 <!ENTITY UpdatePhoto.accesskey          "O">

@@ -92,24 +92,20 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Namn">
 <!ENTITY sort.name.tooltip                    "Sorter etter namn">
-<!ENTITY sort.size.label                      "Storleik">
-<!ENTITY sort.size.tooltip                    "Sorter etter storleik">
 <!ENTITY sort.dateUpdated.label               "Sist oppdatert">
 <!ENTITY sort.dateUpdated.tooltip             "Sorter etter dato oppdatert">
 <!ENTITY sort.rating.label                    "Vurdering">
 <!ENTITY sort.rating.tooltip                  "Sorter etter gjennomsnittleg vurdering">
 
-
-<!ENTITY showMore.label                       "Vis meir">
-<!ENTITY showMore.tooltip                     "Vis fleire detaljar">
-<!ENTITY showLess.label                       "Vis mindre">
-<!ENTITY showLess.tooltip                     "Vis færre detaljar">
-
-<!ENTITY search.filter.label                  "Vis:">
-<!ENTITY search.filter.installed.label        "Dine installerte utvidingar">
-<!ENTITY search.filter.available.label        "Tilgjengelege utvidingar">
+<!ENTITY search.filter2.label                 "Søk:">
+<!ENTITY search.filter2.installed.label       "Installerte utvidingar">
+<!ENTITY search.filter2.installed.tooltip     "Vis installerte utvidingar">
+<!ENTITY search.filter2.available.label       "Tilgjengelege utvidingar">
+<!ENTITY search.filter2.available.tooltip     "Vis utvidingar som kan installerast">
 
 <!ENTITY addon.homepage                       "Heimeside">
+<!ENTITY addon.details.label                  "Meir">
+<!ENTITY addon.details.tooltip                "Vis meir informasjon om denne utvidinga">
 <!ENTITY addon.unknownDate                    "Ukjent">
 <!ENTITY addon.disabled.postfix               "(slått av)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -119,7 +115,6 @@
 <!ENTITY addon.undoUninstall.label            "Angre?">
 <!ENTITY addon.undoUninstall.tooltip          "Behald denne utvidinga installert">
 <!ENTITY addon.restartNow.label               "Start på nytt no">
-<!ENTITY addon.restartNow.tooltip             "Start på nytt for å fullføre installeringa">
 <!ENTITY addon.install.label                  "Installer">
 <!ENTITY addon.install.tooltip                "Installer denne utvidinga">
 <!ENTITY addon.updateNow.label                "Oppdater no">

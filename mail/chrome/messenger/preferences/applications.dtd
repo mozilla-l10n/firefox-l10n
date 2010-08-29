@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Søk">
+<!ENTITY  filter.placeholder          "Søk">
 
 <!ENTITY saveTo.label                 "Lagre filer til">
 <!ENTITY saveTo.accesskey             "L">

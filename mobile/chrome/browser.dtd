@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "Oppdater">
 <!ENTITY stop.label            "Stopp">
 <!ENTITY go.label              "Gå">
-<!ENTITY openLocation.label    "Opne adresse">
 <!ENTITY star.label            "Stjerne">
 
 <!ENTITY newtab.label          "Ny fane">
@@ -20,7 +19,10 @@
 <!ENTITY noSuggestions.label   "(Ingen forslag)">
 <!ENTITY addToDictionary.label "Legg til i ordbok">
 
+<!ENTITY allPagesHeader.label      "Alle sidene">
 <!ENTITY bookmarksHeader.label     "Bokmerke">
+<!ENTITY historyHeader.label       "Historikk">
+<!ENTITY desktopHeader.label       "Skrivebord">
 
 <!ENTITY editBookmarkDone.label    "Fullført">
 <!ENTITY editBookmarkTags.label    "Legg til merkelappar her">
@@ -88,6 +90,8 @@
 <!ENTITY contextSaveImage.label       "Lagre bilete">
 <!ENTITY contextShareLink.label       "Del lenkje">
 <!ENTITY contextShareImage.label      "Del bilete">
+<!ENTITY contextSaveVideo.label       "Lagre video">
+<!ENTITY contextShareVideo.label      "Del video">
 <!ENTITY contextEditBookmark.label    "Endre">
 <!ENTITY contextRemoveBookmark.label  "Slett">
 

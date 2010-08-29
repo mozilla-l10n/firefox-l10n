@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "Innstillingar for e-postkonto">
 <!ENTITY name.label                      "Namnet ditt:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.emptytext                  "Fornamn, Etternam">
+<!ENTITY name.placeholder                "Fornamn Etternamn">
 <!ENTITY name.text                       "Namnet ditt, slik det vert vist til andre">
 <!ENTITY email.label                     "E-postaddresse:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.emptytext                 "epost@eksempel.com">
+<!ENTITY email.placeholder               "epost@døme.com">
 <!ENTITY password.label                  "Passord:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "Password">
+<!ENTITY password.placeholder            "Passord">
 <!ENTITY password.text                   "Valfritt, -vert berre brukt til å stadfeste brukarnamnet.">
 
 <!ENTITY accountInformation.label        "Kontoinformasjon">

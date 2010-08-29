@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Send CC til desse e-postadressene:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Skil fleire adresser med komma">
+<!ENTITY ccAddressList.placeholder "Skil fleire adresser med komma">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Send BCC til desse e-postadressene:">
 <!ENTITY bccAddress.accesskey "b">
-<!ENTITY bccAddressList.emptytext "Skil fleire adresser med komma">
+<!ENTITY bccAddressList.placeholder "Skil fleire adresser med komma">
 <!ENTITY saveMessageDlg.label "Vis stadfestingsdialog når meldingar vert lagra">
 <!ENTITY saveMessageDlg.accesskey "V">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
