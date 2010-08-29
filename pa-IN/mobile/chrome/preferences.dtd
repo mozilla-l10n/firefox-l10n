@@ -1,17 +1,20 @@
-<!ENTITY prefsHeader.label                         "ਪਸੰਦ">
+<!ENTITY prefsHeader.label                         "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY about.title                               "&brandShortName; ਬਾਰੇ">
-<!ENTITY about.button                              "ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
-<!ENTITY about.description                         "ਮੱਦਦ ਅਤੇ ਪਰੋਡੱਕਟ ਜਾਣਕਾਰੀ ਲਵੋ">
+<!ENTITY about.button                              "ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
 <!ENTITY content.title                             "ਸਮੱਗਰੀ">
 <!ENTITY showImages.title                          "ਚਿੱਤਰ ਵੇਖੋ">
-<!ENTITY enableJavaScript.title                    "ਜਾਵਾਸਕ੍ਰਿਪਟ ਯੋਗ">
-<!ENTITY enableJavaScript.description              "ਬਹੁਤੀਆਂ ਦਿਲਖਿੱਚਵੀਆਂ ਸਾਈਟਾਂ ਜਾਵਾਸਕ੍ਰਿਪਟ ਵਰਤੀਆਂ ਹਨ">
-<!ENTITY enablePlugins.title                       "ਪਲੱਗਇਨ ਯੋਗ">
-<!ENTITY enablePlugins.description                 "ਪਲੱਗਇਨ ਖਾਸ ਸਮਗੱਰੀ ਜਿਵੇਂ ਕਿ ਵਿਡੀਓ ਆਦਿ ਲਈ ਵਰਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ">
-<!ENTITY privacy.title                             "ਪਰਾਈਵੇਸੀ ਅਤੇ ਸੁਰੱਖਿਆ">
+<!ENTITY enableJavaScript.title                    "ਜਾਵਾਸਕ੍ਰਿਪਟ ਚਾਲੂ">
+<!ENTITY enablePlugins.title                       "ਪਲੱਗਇਨ ਚਾਲੂ">
+<!ENTITY privacy.title                             "ਪਰਾਈਵੇਸੀ &amp; ਸੁਰੱਖਿਆ">
 <!ENTITY allowCookies.title                        "ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ">
-<!ENTITY allowCookies.description                  "ਸਾਈਤ ਕੂਕੀਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪਛਾਣ ਕਰਨ ਅਤੇ ਤੁਹਾਡੀ ਸੈਟਿੰਗ ਯਾਦ ਰੱਖਣ ਲਈ ਵਰਤਦੀ ਹੈ">
-<!ENTITY clearPrivateData.title                    "ਤਾਜ਼ਾ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearPrivateData.button                   "ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearPrivateData.description              "ਤੁਹਾਡਾ ਅਤੀਤ &brandShortName; ਨੂੰ ਸੁਝਾਅ ਦੇਣ ਲਈ ਮੱਦਦ ਕਰਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕਿੱਥੇ ਜਾਣਾ ਹੈ">
+<!ENTITY clearPrivateData2.title                   "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY clearPrivateData.button                   "ਸਾਫ਼">
 <!ENTITY rememberPasswords.title                   "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
+<!ENTITY language.title                            "ਭਾਸ਼ਾ">
+<!ENTITY language.auto                             "ਆਟੋਮੈਟਿਕ-ਖੋਜੋ">
+<!ENTITY defaultBrowser.title                      "ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ">
+<!ENTITY defaultBrowser.description                "&brandShortName; ਨੂੰ ਆਪਣਾ ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਬਣਾਓ">
+<!ENTITY homepage.title                            "ਸ਼ੁਰੂ ਸਫ਼ਾ">
+<!ENTITY homepage.none                             "ਖਾਲੀ ਸਫ਼ਾ">
+<!ENTITY homepage.default                          "&brandShortName; ਸ਼ੁਰੂ">
+<!ENTITY homepage.currentpage                      "ਮੌਜੂਦਾ ਸਫ਼ਾ ਵਰਤੋਂ">

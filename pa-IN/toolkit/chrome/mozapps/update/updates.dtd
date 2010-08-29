@@ -46,13 +46,21 @@
 
 <!ENTITY  details.link                    "ਵੇਰਵਾ">
 
+<!ENTITY  error.title                     "ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ">
+
 <!ENTITY  error.label                     "ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਹੈ। &brandShortName; ਨੂੰ ਅੱਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਸਕਿਆ ਹੈ, 
                                            ਕਿਉਕਿ:">
                                            
 <!ENTITY  errorManual.label               "ਤੁਸੀਂ &brandShortName; ਨੂੰ ਖੁਦ ਇਹ ਲਿੰਕ ਖੋਲ੍ਹ ਕੇ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਨਵਾਂ ਵਰਜਨ ਡਾਊਨਲੋਡ ਕਰ ਸਕਦੇ ਹੋ:">
-<!ENTITY  errorpatching.title             "ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ">
+
 <!ENTITY  errorpatching.intro             "ਅਧੂਰੇ ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। 
                                             &brandShortName; ਪੂਰੇ ਅੱਪਡੇਟ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰੇਗਾ।">
+
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Something is preventing &brandShortName; from updating securely.
+                                           Please check you have the latest version of &brandShortName; at:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
+                                           insecure update. Please contact your network provider and seek help.">
 
 <!ENTITY  finishedPage.title              "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਹੋਣ ਲਈ ਤਿਆਰ ਹੈ">
 <!ENTITY  finishedPage.text               "ਅੱਪਡੇਟ ਅਗਲੀ ਵਾਰ &brandShortName; ਸ਼ੁਰੂ ਹੋਣ ਉੱਤੇ ਇੰਸਟਾਲ ਹੋਵੇਗਾ। ਤੁਸੀਂ ਹੁਣ 

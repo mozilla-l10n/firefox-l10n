@@ -10,6 +10,9 @@
 <!ENTITY installFromFile.label                "ਫਾਇਲ ਤੋਂ ਇੰਸਟਾਲ ਕਰੋ…">
 <!ENTITY installFromFile.accesskey            "I">
 
+<!ENTITY cmd.back.tooltip                     "ਇੱਕ ਸਫ਼ਾ ਪਿੱਛੇ ਜਾਓ">
+<!ENTITY cmd.forward.tooltip                  "ਇੱਕ ਸਫ਼ਾ ਅੱਗੇ ਜਾਓ">
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "ਖੋਜ">
@@ -21,6 +24,8 @@
 <!ENTITY view.plugins.label                   "ਪਲੱਗਇਨ">
 <!ENTITY view.recentUpdates.label             "ਤਾਜ਼ਾ ਅੱਪਡੇਟ">
 <!ENTITY view.availableUpdates.label          "ਉਪਲੱਬਧ ਅੱਪਡੇਟ">
+<!ENTITY view.utilites.preferences.tooltip    "ਸਭ ਐਡ-ਆਨ ਲਈ ਚੋਣਾਂ ਵੇਖੋ">
+<!ENTITY view.utilites.preferencesUnix.tooltip "ਸਭ ਐਡ-ਆਨ ਲਈ ਪਸੰਦ ਵੇਖੋ">
 
 <!-- addon updates -->
 
@@ -42,8 +47,10 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "ਅੱਪਡੇਟ ਲੱਭੋ">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferences.label                "ਮੇਰੀ ਪਸੰਦ">
-<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.preferencesWin.label             "ਚੋਣਾਂ">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "ਮੇਰੀ ਪਸੰਦ">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "ਇਸ ਬਾਰੇ">
 <!ENTITY cmd.about.accesskey                  "A">
 
@@ -55,8 +62,10 @@
 
 <!ENTITY cmd.uninstallAddon.label             "ਹਟਾਓ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferences.label            "ਪਸੰਦ">
-<!ENTITY cmd.showPreferences.tooltip          "ਇਸ ਐਡ-ਆਨ ਪਸੰਦ ਬਦਲੋ">
+<!ENTITY cmd.showPreferencesWin.label         "ਚੋਣਾਂ">
+<!ENTITY cmd.showPreferencesWin.tooltip       "ਇਸ ਐਡ-ਆਨ ਦੀਆਂ ਚੋਣਾਂ ਨੂੰ ਬਦਲੋ">
+<!ENTITY cmd.showPreferencesUnix.label        "ਮੇਰੀ ਪਸੰਦ">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "ਇਸ ਐਡ-ਆਨ ਦੀ ਪਸੰਦ ਬਦਲੋ">
 <!ENTITY cmd.contribute.label                 "ਯੋਗਦਾਨ">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "ਇਹ ਐਡ-ਆਨ ਦੇ ਡਿਵੈਲਪਮੈਂਟ ਲਈ ਯੋਗਦਾਨ ਪਾਓ">
@@ -80,9 +89,12 @@
 <!ENTITY detail.checkForUpdates.label         "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "ਇਹ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਚੈੱਕ ਕਰੋ">
-<!ENTITY detail.showPreferences.label         "ਪਸੰਦ">
-<!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "ਇਹ ਐਡ-ਆਨ ਦੀ ਪਸੰਦ ਬਦਲੋ">
+<!ENTITY detail.showPreferencesWin.label      "ਚੋਣਾਂ">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "ਇਸ ਐਡ-ਆਨ ਦੀਆਂ ਚੋਣਾਂ ਬਦਲੋ">
+<!ENTITY detail.showPreferencesUnix.label     "ਮੇਰੀ ਪਸੰਦ">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "ਇਸ ਐਡ-ਆਨ ਦੀ ਪਸੰਦ ਬਦਲੋ">
 
 <!-- ratings -->
 <!ENTITY rating.label                         "ਰੇਟਿੰਗ:">
@@ -92,11 +104,11 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "ਨਾਂ">
-<!ENTITY sort.name.tooltip                    "ਨਾਂ ਨਾਲ ਲੜੀਬੱਧ">
+<!ENTITY sort.name.tooltip                    "ਨਾਂ ਨਾਲ ਲੜੀਬੱਧ ਕਰੋ">
 <!ENTITY sort.dateUpdated.label               "ਆਖਰੀ ਵਾਰ ਅੱਪਡੇਟ">
-<!ENTITY sort.dateUpdated.tooltip             "ਅੱਪਡੇਟ ਮਿਤੀ ਨਾਲ ਲੜੀਬੱਧ">
-<!ENTITY sort.rating.label                    "ਰੇਟਿੰਗ">
-<!ENTITY sort.rating.tooltip                  "ਔਸਤ ਰੇਟਿੰਗ ਨਾਲ ਲੜੀਬੱਧ">
+<!ENTITY sort.dateUpdated.tooltip             "ਅੱਪਡੇਟ ਮਿਤੀ ਨਾਲ ਲੜੀਬੱਧ ਕਰੋ">
+<!ENTITY sort.relevance.label                 "ਸਭ ਵਧੀਆ ਮੇਲ">
+<!ENTITY sort.relevance.tooltip               "ਢੁੱਕਵੇਂ ਮੁਤਾਬਕ ਲੜੀਬੱਧ ਕਰੋ">
 
 <!ENTITY search.filter2.label                 "ਖੋਜ:">
 <!ENTITY search.filter2.installed.label       "ਮੇਰੇ ਐਡ-ਆਨ">

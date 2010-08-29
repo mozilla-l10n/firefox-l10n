@@ -18,6 +18,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "ਸਮੂਥ ਸਕਰੋਲਿੰਗ ਵਰਤੋਂ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "ਜਦੋਂ ਵੀ ਉਪਲੱਬਧ ਹੋਵੇ ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਸ਼ਨ ਵਰਤੋਂ">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "ਜਿਵੇਂ ਮੈਂ ਲਿਖਾਂ ਤਦੇ ਹੀ ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
 <!ENTITY checkSpelling.accesskey         "t">
 
