@@ -10,5 +10,5 @@
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->
 <!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Les contributeurs. Tous droits réservés. (">
-<!ENTITY aboutPage.licenseLink                  "Information de licence">
+<!ENTITY aboutPage.licenseLink                  "Informations de licence">
 <!ENTITY aboutPage.copyrightInfo2               ").">

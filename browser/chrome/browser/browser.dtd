@@ -266,9 +266,9 @@
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY appMenuCustomize.label "Personnaliser">
-<!ENTITY appMenuToolbarLayout.label "Disposition de la barre d'outils…">
+<!ENTITY appMenuToolbarLayout.label "Personnaliser la barre d'outils…">
 <!ENTITY appMenuSidebars.label "Panneau latéral">
-<!ENTITY appMenuFind.label "Rechercher…">
+<!ENTITY appMenuFind.label "Rechercher dans la page…">
 <!ENTITY appMenuUnsorted.label "Marque-pages non classés">
 <!ENTITY appMenuGettingStarted.label "Pour commencer">
 
