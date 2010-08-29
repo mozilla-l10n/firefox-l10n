@@ -3,6 +3,8 @@
 <!ENTITY browsing.label "보기 기능">
 <!ENTITY useSmoothScrolling.label "부드러운 스크롤 기능 사용">
 <!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY allowHWAccel.label              "하드웨어 가속 사용">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY updateTab.label "업데이트">
 <!ENTITY autoCheck.label "자동으로 업데이트할 항목:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">

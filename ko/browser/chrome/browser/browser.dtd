@@ -381,8 +381,8 @@
 <!ENTITY inspectStyleButton.label     "스타일">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "스타일">
-<!ENTITY inspectDOMButton.label       "DOM">
-<!ENTITY inspectDOMButton.accesskey       "D">
+<!ENTITY inspectObjectButton.label       "객체">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY historyMenu.label "이동">
 <!ENTITY historyMenu.accesskey "s">
