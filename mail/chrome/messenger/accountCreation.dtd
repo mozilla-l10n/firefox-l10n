@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "邮件帐户设置">
 <!ENTITY name.label                      "你的名字：">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "姓名">
+<!ENTITY name.placeholder                "姓名">
 <!ENTITY name.text                       "你的名字，显示给其他人">
 <!ENTITY email.label                     "电子邮件地址：">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "密码：">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "密码">
+<!ENTITY password.placeholder            "密码">
 <!ENTITY password.text                   "可选，仅用于验证用户名">
 
 <!ENTITY accountInformation.label        "帐号信息">
