@@ -143,18 +143,18 @@
 <!ENTITY webConsoleCmd.label "Console web">
 <!ENTITY webConsoleCmd.accesskey "w">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY inspectMenu.label "Analizza">
-<!ENTITY inspectMenu.accesskey "A">
+<!ENTITY inspectMenu.label "Analisi pagina">
+<!ENTITY inspectMenu.accesskey "s">
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectPanelTitle.label "HTML">
-<!ENTITY inspectButton.label "Analizza">
+<!ENTITY inspectButton.label "Analisi">
 <!ENTITY inspectButton.accesskey "A">
 <!ENTITY inspectNextButton.label "Successivo">
 <!ENTITY inspectNextButton.accesskey "S">
 <!ENTITY inspectPreviousButton.label "Precedente">
 <!ENTITY inspectPreviousButton.accesskey "P">
 <!ENTITY inspectStyleButton.label "Stile">
-<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStyleButton.accesskey "t">
 <!ENTITY inspectStylePanelTitle.label "Stile">
 <!ENTITY inspectObjectButton.label "Oggetto">
 <!ENTITY inspectObjectButton.accesskey "O">
@@ -217,7 +217,7 @@
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "V">
 <!ENTITY appMenuCustomize.label "Personalizza">
-<!ENTITY appMenuToolbarLayout.label "Struttura barra degli strumenti…">
+<!ENTITY appMenuToolbarLayout.label "Personalizza barra degli strumenti…">
 <!ENTITY appMenuSidebars.label "Barre laterali">
 <!ENTITY appMenuFind.label "Trova…">
 <!ENTITY appMenuUnsorted.label "Segnalibri non catalogati">
