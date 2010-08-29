@@ -10,8 +10,10 @@
 <!ENTITY installFromFile.label                "Installer fra fil …">
 <!ENTITY installFromFile.accesskey            "I">
 
+<!ENTITY cmd.back.tooltip                     "Gå tilbake en side">
+<!ENTITY cmd.forward.tooltip                  "Gå frem en side">
+
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Søk">
 <!ENTITY view.discover.label                  "Last ned utvidelser">
 <!ENTITY view.locales.label                   "Språk">
@@ -21,6 +23,8 @@
 <!ENTITY view.plugins.label                   "Programtillegg">
 <!ENTITY view.recentUpdates.label             "Nylige oppdateringer">
 <!ENTITY view.availableUpdates.label          "Tilgjengelige oppdateringer">
+<!ENTITY view.utilites.preferences.tooltip    "Innstillinger for alle utvidelser">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Innstillinger for alle utvidelser">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Oppdater utvidelser nå">
@@ -41,8 +45,10 @@
 <!ENTITY cmd.showDetails.accesskey            "V">
 <!ENTITY cmd.findUpdates.label                "Søk etter oppdateringer">
 <!ENTITY cmd.findUpdates.accesskey            "S">
-<!ENTITY cmd.preferences.label                "Innstillinger">
-<!ENTITY cmd.preferences.accesskey            "I">
+<!ENTITY cmd.preferencesWin.label             "Innstillinger">
+<!ENTITY cmd.preferencesWin.accesskey         "I">
+<!ENTITY cmd.preferencesUnix.label            "Innstillinger">
+<!ENTITY cmd.preferencesUnix.accesskey        "I">
 <!ENTITY cmd.about.label                      "Om">
 <!ENTITY cmd.about.accesskey                  "O">
 
@@ -52,8 +58,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "a">
 <!ENTITY cmd.uninstallAddon.label             "Slett">
 <!ENTITY cmd.uninstallAddon.accesskey         "e">
-<!ENTITY cmd.showPreferences.label            "Innstillinger">
-<!ENTITY cmd.showPreferences.tooltip          "Endre denne utvidelsens innstillinger">
+<!ENTITY cmd.showPreferencesWin.label         "Innstillinger">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Endre denne utvidelsens innstillinger">
+<!ENTITY cmd.showPreferencesUnix.label        "Innstillinger">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Endre denne utvidelsens innstillinger">
 <!ENTITY cmd.contribute.label                 "Bidra">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Bidra til utviklingen av denne utvidelsen">
@@ -76,9 +84,12 @@
 <!ENTITY detail.checkForUpdates.label         "Søk etter oppdateringer">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
 <!ENTITY detail.checkForUpdates.tooltip       "Søker etter oppdateringer for denne utvidelsen">
-<!ENTITY detail.showPreferences.label         "Innstillinger">
-<!ENTITY detail.showPreferences.accesskey     "I">
-<!ENTITY detail.showPreferences.tooltip       "Endre denne utvidelsens innstillinger">
+<!ENTITY detail.showPreferencesWin.label      "Innstillinger">
+<!ENTITY detail.showPreferencesWin.accesskey  "I">
+<!ENTITY detail.showPreferencesWin.tooltip    "Endre denne utvidelsens innstillinger">
+<!ENTITY detail.showPreferencesUnix.label     "Innstillinger">
+<!ENTITY detail.showPreferencesUnix.accesskey "I">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Endre denne utvidelsens innstillinger">
 
 
 <!-- ratings -->
@@ -94,8 +105,8 @@
 <!ENTITY sort.name.tooltip                    "Sorter etter navn">
 <!ENTITY sort.dateUpdated.label               "Sist oppdatert">
 <!ENTITY sort.dateUpdated.tooltip             "Sorter etter dato oppdatert">
-<!ENTITY sort.rating.label                    "Karakter">
-<!ENTITY sort.rating.tooltip                  "Sorter etter gjennomsnittlig vurdering">
+<!ENTITY sort.relevance.label                 "Beste treff">
+<!ENTITY sort.relevance.tooltip               "Sorter etter relevans">
 
 <!ENTITY search.filter2.label                 "Søk:">
 <!ENTITY search.filter2.installed.label       "Installerte utvidelser">

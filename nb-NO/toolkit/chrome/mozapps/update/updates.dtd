@@ -52,15 +52,21 @@
 
 <!ENTITY  details.link                    "Detaljer">
 
+<!ENTITY  error.title                     "Oppdatering feilet">
+
 <!ENTITY  error.label                     "Det oppstod problemer under kontroll, nedlasting eller installering av denne
                                            oppdateringen. Klarte ikke oppdatere &brandShortName; fordi:">
                                            
 <!ENTITY  errorManual.label               "Du kan oppdatere &brandShortName; ved å manuelt laste ned siste
                                            versjon fra denne lenken:">
                                            
-<!ENTITY  errorpatching.title             "Oppdatering feilet">
-<!ENTITY  errorpatching.intro             "Installering av den inkrementelle oppdateringen feilet.
-                                           &brandShortName; vil forsøke å laste ned den fullstendige oppdateringen.">
+<!ENTITY  errorpatching.intro             "Klarte ikke installere den inkrementelle oppdateringen.
+                                           &brandShortName; vil forsøke å laste ned en fullstendig oppdatering.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Noe forhindrer &brandShortName; fra å oppdatere sikkert.
+                                           Kontroller at du har den nyeste versjonen av &brandShortName; fra:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Noe forsøker å lure &brandShortName; til å akseptere en
+                                           usikker oppdatering. Kontakt nettverksansvarlig for å få hjelp.">
 
 <!ENTITY  finishedPage.title              "Oppdatering er klar til å installere">
 <!ENTITY  finishedPage.text               "Oppdateringen installeres neste gang &brandShortName; starter. Du

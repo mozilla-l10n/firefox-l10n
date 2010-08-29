@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "B">
 <!ENTITY useSmoothScrolling.label        "Bruk jevn rulling">
 <!ENTITY useSmoothScrolling.accesskey    "u">
+<!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengelig">
+<!ENTITY allowHWAccel.accesskey          "m">
 <!ENTITY checkSpelling.label             "Kontroller staving mens jeg skriver">
 <!ENTITY checkSpelling.accesskey         "K">
 
