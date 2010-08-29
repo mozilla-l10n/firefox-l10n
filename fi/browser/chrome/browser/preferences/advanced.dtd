@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "V">
 <!ENTITY useSmoothScrolling.label        "Vieritä sivua portaattomasti">
 <!ENTITY useSmoothScrolling.accesskey    "i">
+<!ENTITY allowHWAccel.label              "Käytä laitteistokiihdytystä jos mahdollista">
+<!ENTITY allowHWAccel.accesskey          "K">
 <!ENTITY checkSpelling.label             "Oikolue käyttäjän kirjoitukset">
 <!ENTITY checkSpelling.accesskey         "O">
 

@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label            "Foneettinen:">
 <!ENTITY DisplayName.label               "Näytä:">
 <!ENTITY DisplayName.accesskey           "N">
+<!ENTITY preferDisplayName.label        "Näytä aina näyttönimi jos olemassa viestiotsakkeen sijaan">
+<!ENTITY preferDisplayName.accesskey    "ä">
 <!ENTITY NickName.label                  "Lempinimi:">
 <!ENTITY NickName.accesskey              "L">
 
@@ -117,9 +119,9 @@ tämän kontaktin lähettämissä sähköposteissa.">
 <!ENTITY Birthday.label                 "Syntymäpäivä:">
 <!ENTITY Birthday.accesskey             "S">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Syntymävuosi">
+<!ENTITY Year.placeholder                 "Syntymävuosi">
 <!ENTITY Or.value                       "tai">
-<!ENTITY Age.emptytext                  "Ikä">
+<!ENTITY Age.placeholder                  "Ikä">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Työ">
@@ -170,6 +172,6 @@ tämän kontaktin lähettämissä sähköposteissa.">
 <!ENTITY BrowsePhoto.accesskey          "S">
 <!ENTITY PhotoURL.label                 "Verkossa">
 <!ENTITY PhotoURL.accesskey             "V">
-<!ENTITY PhotoURL.emptytext             "Liitä tai kirjoita www-osoite kuvaan">
+<!ENTITY PhotoURL.placeholder             "Liitä tai kirjoita www-osoite kuvaan">
 <!ENTITY UpdatePhoto.label              "Päivitä">
 <!ENTITY UpdatePhoto.accesskey          "P">

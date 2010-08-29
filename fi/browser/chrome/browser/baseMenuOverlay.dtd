@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Tietoja ongelmatilanteisiin">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
+<!ENTITY helpFeedbackPage.label      "Lähetä palaute…">
+<!ENTITY helpFeedbackPage.accesskey  "L">
+
 <!ENTITY updateCmd.label                 "Hae päivityksiä…">
 
 <!ENTITY preferencesCmdMac.label        "Asetukset…">

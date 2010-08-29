@@ -59,5 +59,3 @@
 <!ENTITY  clickFinish.label               "Jatka &brandShortName;in käynnistystä napsauttamalla Valmis.">
 <!ENTITY  clickFinish.labelMac            "Jatka &brandShortName;in käynnistystä napsauttamalla Valmis.">
 <!ENTITY  enableChecking.label            "&brandShortName; saa hakea päivityksiä.">
-<!ENTITY  details.label                   "Lisätietoja…">
-<!ENTITY  details.accesskey               "L">

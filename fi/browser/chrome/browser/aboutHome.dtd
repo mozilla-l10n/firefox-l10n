@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName;in aloitussivu">
+<!ENTITY abouthome.brandLogo.title "&brandFullName;in logo">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;in</span> aloitussivu">
+
+<!ENTITY abouthome.searchEngineLogo.title "Hakukoneen logo">
+
+<!ENTITY abouthome.searchEngineButton.label "Etsi">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Tarkennettu haku">
+<!ENTITY abouthome.searchEngineLinks.preferences "Asetukset">
+
+<!ENTITY abouthome.aboutMozilla "Tietoja Mozillasta">

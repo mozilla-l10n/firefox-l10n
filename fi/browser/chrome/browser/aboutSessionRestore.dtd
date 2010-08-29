@@ -10,6 +10,8 @@
 
 <!ENTITY restorepage.tryagainButton "Palauta edellinen istunto">
 <!ENTITY restorepage.restore.access "P">
+<!ENTITY restorepage.cancelButton   "Aloita uusi istunto">
+<!ENTITY restorepage.cancel.access  "A">
 
 <!ENTITY restorepage.restoreHeader  "Palauta">
 <!ENTITY restorepage.listHeader     "Ikkunat ja välilehdet">

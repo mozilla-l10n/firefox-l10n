@@ -7,10 +7,13 @@
 <!ENTITY listEmpty.findUpdates.label          "Etsi päivityksiä">
 <!ENTITY listEmpty.search.label               "Ei löytynyt täsmääviä lisäosia">
 <!ENTITY listEmpty.button.label               "Lue lisää lisäosista">
+<!ENTITY installFromFile.label                "Asenna tiedostosta…">
+<!ENTITY installFromFile.accesskey            "A">
 
+<!ENTITY cmd.back.tooltip                     "Edellinen sivu">
+<!ENTITY cmd.forward.tooltip                  "Seuraava sivu">
 
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Etsi">
 <!ENTITY view.discover.label                  "Lataa lisäosia">
 <!ENTITY view.locales.label                   "Kielet">
@@ -20,6 +23,8 @@
 <!ENTITY view.plugins.label                   "Liitännäiset">
 <!ENTITY view.recentUpdates.label             "Tuoreet päivitykset">
 <!ENTITY view.availableUpdates.label          "Saatavilla olevat päivitykset">
+<!ENTITY view.utilites.preferences.tooltip    "Asetukset kaikille lisäosille">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Asetukset kaikille lisäosille">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Päivitä lisäosat">
@@ -40,8 +45,10 @@
 <!ENTITY cmd.showDetails.accesskey            "N">
 <!ENTITY cmd.findUpdates.label                "Etsi päivityksiä">
 <!ENTITY cmd.findUpdates.accesskey            "E">
-<!ENTITY cmd.preferences.label                "Asetukset">
-<!ENTITY cmd.preferences.accesskey            "A">
+<!ENTITY cmd.preferencesWin.label             "Asetukset">
+<!ENTITY cmd.preferencesWin.accesskey         "A">
+<!ENTITY cmd.preferencesUnix.label            "Asetukset">
+<!ENTITY cmd.preferencesUnix.accesskey        "A">
 <!ENTITY cmd.about.label                      "Tietoja">
 <!ENTITY cmd.about.accesskey                  "T">
 
@@ -51,8 +58,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "P">
 <!ENTITY cmd.uninstallAddon.label             "Poista">
 <!ENTITY cmd.uninstallAddon.accesskey         "o">
-<!ENTITY cmd.showPreferences.label            "Asetukset">
-<!ENTITY cmd.showPreferences.tooltip          "Muokkaa lisäosan asetuksia">
+<!ENTITY cmd.showPreferencesWin.label         "Asetukset">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Muokkaa tämän lisäosan asetuksia">
+<!ENTITY cmd.showPreferencesUnix.label        "Asetukset">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Muokkaa tämän lisäosan asetuksia">
 <!ENTITY cmd.contribute.label                 "Auta">
 <!ENTITY cmd.contribute.accesskey             "A">
 <!ENTITY cmd.contribute.tooltip               "Auta lisäosan kehitystyössä">
@@ -75,9 +84,12 @@
 <!ENTITY detail.checkForUpdates.label         "Hae päivityksiä">
 <!ENTITY detail.checkForUpdates.accesskey     "H">
 <!ENTITY detail.checkForUpdates.tooltip       "Hae päivityksiä lisäosaan">
-<!ENTITY detail.showPreferences.label         "Asetukset">
-<!ENTITY detail.showPreferences.accesskey     "A">
-<!ENTITY detail.showPreferences.tooltip       "Muokkaa lisäosan asetuksia">
+<!ENTITY detail.showPreferencesWin.label      "Asetukset">
+<!ENTITY detail.showPreferencesWin.accesskey  "A">
+<!ENTITY detail.showPreferencesWin.tooltip    "Muokkaa tämän lisäosan asetuksia">
+<!ENTITY detail.showPreferencesUnix.label     "Asetukset">
+<!ENTITY detail.showPreferencesUnix.accesskey "A">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Muokkaa tämän lisäosan asetuksia">
 
 
 <!-- ratings -->
@@ -91,34 +103,29 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nimi">
 <!ENTITY sort.name.tooltip                    "Järjestä nimen mukaan">
-<!ENTITY sort.size.label                      "Koko">
-<!ENTITY sort.size.tooltip                    "Järjestä koon mukaan">
 <!ENTITY sort.dateUpdated.label               "Viimeisin päivitys">
 <!ENTITY sort.dateUpdated.tooltip             "Järjestä viimeisimmän päivityksen mukaan">
-<!ENTITY sort.rating.label                    "Arvosana">
-<!ENTITY sort.rating.tooltip                  "Järjestä arvosanan mukaan">
+<!ENTITY sort.relevance.label                 "Paras osuma">
+<!ENTITY sort.relevance.tooltip               "Järjestä haun vastaavuuden mukaan">
 
-
-<!ENTITY showMore.label                       "Näytä lisätietoja">
-<!ENTITY showMore.tooltip                     "Näytä lisätietoja">
-<!ENTITY showLess.label                       "Näytä vähemmän">
-<!ENTITY showLess.tooltip                     "Näytä vähemmän tietoja">
-
-<!ENTITY search.filter.label                  "Näytä:">
-<!ENTITY search.filter.installed.label        "Asennetut lisäosat">
-<!ENTITY search.filter.available.label        "Saatavilla olevat lisäosat">
+<!ENTITY search.filter2.label                 "Etsi:">
+<!ENTITY search.filter2.installed.label       "Lisäosani">
+<!ENTITY search.filter2.installed.tooltip     "Näytä asennetut lisäosat">
+<!ENTITY search.filter2.available.label       "Asennettavissa olevat lisäosat">
+<!ENTITY search.filter2.available.tooltip     "Näytä lisäosat, jotka ovat asennettavissa">
 
 <!ENTITY addon.homepage                       "Kotisivu">
+<!ENTITY addon.details.label                  "Lisää">
+<!ENTITY addon.details.tooltip                "Näytä lisätietoja lisäosasta">
 <!ENTITY addon.unknownDate                    "Tuntematon">
 <!ENTITY addon.disabled.postfix               "(pois käytöstä)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "päivitys">
 <!ENTITY addon.undo.label                     "Kumoa?">
 <!ENTITY addon.undo.tooltip                   "Kumoa toiminto">
-<!ENTITY addon.undoUninstall.label            "Kumo?">
+<!ENTITY addon.undoUninstall.label            "Kumoa?">
 <!ENTITY addon.undoUninstall.tooltip          "Säilytä lisäosan asennus">
 <!ENTITY addon.restartNow.label               "Käynnistä uudelleen">
-<!ENTITY addon.restartNow.tooltip             "Käynnistä uudelleen viimeistelläksesi asennuksen">
 <!ENTITY addon.install.label                  "Asenna">
 <!ENTITY addon.install.tooltip                "Asenna lisäosa">
 <!ENTITY addon.updateNow.label                "Päivitä">
