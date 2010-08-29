@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title "Posta hesabı ayarları">
 <!ENTITY name.label "İsminiz:">
 <!ENTITY name.accesskey "m">
-<!ENTITY name.emptytext "Ad Soyad">
+<!ENTITY name.placeholder "Ad Soyad">
 <!ENTITY name.text "Başkalarına gösterilecek isim">
 <!ENTITY email.label "E-posta adresi:">
 <!ENTITY email.accesskey "p">
-<!ENTITY email.emptytext "eposta@siteadresi.com">
+<!ENTITY email.placeholder "eposta@siteadresi.com">
 <!ENTITY password.label "Parola:">
 <!ENTITY password.accesskey "P">
-<!ENTITY password.emptytext "Parola">
+<!ENTITY password.placeholder "Parola">
 <!ENTITY password.text "İsteğe bağlı, sadece kullanıcı adını doğrulamada kullanılacak">
 
 <!ENTITY accountInformation.label "Hesap bilgileri">

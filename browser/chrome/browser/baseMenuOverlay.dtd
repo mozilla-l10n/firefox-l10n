@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label "Sorun giderme bilgileri">
 <!ENTITY helpTroubleshootingInfo.accesskey "S">
 
+<!ENTITY helpFeedbackPage.label "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey "S">
+
 <!ENTITY updateCmd.label "Güncellemeleri denetle…">
 
 <!ENTITY preferencesCmdMac.label "Tercihler…">

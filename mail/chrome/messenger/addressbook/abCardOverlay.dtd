@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label "Okunuşu:">
 <!ENTITY DisplayName.label "Gösterilen:">
 <!ENTITY DisplayName.accesskey "ö">
+<!ENTITY preferDisplayName.label "Always prefer display name over message header">
+<!ENTITY preferDisplayName.accesskey "y">
 <!ENTITY NickName.label "Takma isim:">
 <!ENTITY NickName.accesskey "T">
 
@@ -117,9 +119,9 @@ bu kutuyu kontrol edin.">
 <!ENTITY Birthday.label "Doğum günü:">
 <!ENTITY Birthday.accesskey "ü">
 <!ENTITY In.label "">
-<!ENTITY Year.emptytext "Yıl">
+<!ENTITY Year.placeholder "Yıl">
 <!ENTITY Or.value "veya">
-<!ENTITY Age.emptytext "Yaş">
+<!ENTITY Age.placeholder "Yaş">
 <!ENTITY YearsOld.label "">
 
 <!ENTITY Work.tab "İş">
@@ -170,6 +172,6 @@ bu kutuyu kontrol edin.">
 <!ENTITY BrowsePhoto.accesskey "G">
 <!ENTITY PhotoURL.label "Web üzerinde">
 <!ENTITY PhotoURL.accesskey "b">
-<!ENTITY PhotoURL.emptytext "Resim adresini yazın veya yapıştırın">
+<!ENTITY PhotoURL.placeholder "Resim adresini yazın veya yapıştırın">
 <!ENTITY UpdatePhoto.label "Güncelle">
 <!ENTITY UpdatePhoto.accesskey "G">

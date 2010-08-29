@@ -3,5 +3,5 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
-<!ENTITY securityOverride.warningText "<p>Tamamen güvenmediğiniz bir internet bağlantısı kullanıyorsanız ya da bu sunucuyla ilgili uyarılar almaya alışık değilseniz ayrıcalık tanımamalısınız.</p> 
+<!ENTITY securityOverride.warningContent "<p>Tamamen güvenmediğiniz bir internet bağlantısı kullanıyorsanız ya da bu sunucuyla ilgili uyarılar almaya alışık değilseniz ayrıcalık tanımamalısınız.</p> 
 <p>Yine de ayrıcalık tanımayı istiyorsanız bunu gelişmiş şifreleme ayarlarıyla yapabilirsiniz.</p>">

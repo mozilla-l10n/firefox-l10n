@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey "a">
 <!ENTITY useSmoothScrolling.label "Akıcı kaydırmayı kullan">
 <!ENTITY useSmoothScrolling.accesskey "c">
+<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "Yazarken yazım denetimi gerçekleştir">
 <!ENTITY checkSpelling.accesskey "t">
 
@@ -53,7 +55,7 @@
 
 <!ENTITY updateTab.label "Güncelleme">
 
-<!ENTITY autoCheck.label "Seçili öğeler için güncellemeleri otomatik olarak kontrol et:">
+<!ENTITY autoCheck.label "Bunların güncellemelerine kendiliğinden bak:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "e">
 <!ENTITY enableAddonsUpdate2.label "Eklentiler">
@@ -63,7 +65,7 @@
 <!ENTITY whenUpdatesFound.label "&brandShortName; için güncelleme bulunursa:">
 <!ENTITY askMe.label "Ne yapmak istediğimi sor">
 <!ENTITY askMe.accesskey "s">
-<!ENTITY modeAutomatic.label "Güncellemeleri otomatik olarak indir ve kur">
+<!ENTITY modeAutomatic.label "Güncellemeleri kendiliğineden indir ve kur">
 <!ENTITY modeAutomatic.accesskey "d">
 <!ENTITY modeAutoAddonWarn.label "Bu işlem kurulu eklentilerimden herhangi birini devre dışı bırakacaksa beni uyar">
 <!ENTITY modeAutoAddonWarn.accesskey "u">
@@ -90,7 +92,7 @@
 <!ENTITY useTLS1.accesskey "1">
 <!ENTITY certificates.label "Onay belgeleri">
 <!ENTITY certSelection.description "Sunucu kişisel onay belgemi istediğinde:">
-<!ENTITY certs.auto "Birini otomatik olarak seç">
+<!ENTITY certs.auto "Birini kendiliğinden seç">
 <!ENTITY certs.auto.accesskey "B">
 <!ENTITY certs.ask "Her seferinde bana sor">
 <!ENTITY certs.ask.accesskey "b">
