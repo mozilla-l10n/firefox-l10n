@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "U">
 <!ENTITY useSmoothScrolling.label "Suavizar o deslocamento">
 <!ENTITY useSmoothScrolling.accesskey "d">
+<!ENTITY allowHWAccel.label              "Usar aceleração por hardware quando disponível">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Verificar a minha ortografia durante a escrita">
 <!ENTITY checkSpelling.accesskey         "t">
 
