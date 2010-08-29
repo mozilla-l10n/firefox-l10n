@@ -1,8 +1,5 @@
 <!ENTITY updateWizard.title "Posodobitev programske opreme">
 
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "42em">
-
 <!ENTITY  checking.title                  "Iskanje posodobitev">
 <!ENTITY  updateCheck.label               "Iskanje novih različic programa &brandShortName; ...">
 
@@ -43,7 +40,7 @@
 
 <!ENTITY  incompatibleList.title          "Najdeni nezdružljivi dodatki">
 
-<!ENTITY downloading.title "Prenos posodobitve">
+<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 <!ENTITY downloading.intro "Prenašanje posodobitev ...">
 <!ENTITY connecting.label "Povezujem se na strežnik za posodobitve...">
 <!ENTITY verificationFailedText.label "Ker ni bilo mogoče preveriti neokrnjenosti posodobitve po stopnjah, se zdaj prenaša celoten posodobitveni paket.">
@@ -52,12 +49,18 @@
 
 <!ENTITY details.link "Podrobnosti">
 
+<!ENTITY  error.title                     "Update Failed">
+
 <!ENTITY error.label "Pri iskanju, prenosu ali namestitvi te posodobitve je prišlo do napak zaradi:">
 
 <!ENTITY errorManual.label "Program lahko posodobite ročno, če obiščete naslednjo povezavo in prenesete najnovejšo različico:">
 
-<!ENTITY errorpatching.title "Posodobitev neuspešna">
 <!ENTITY errorpatching.intro "Delne posodobitve ne morem namestiti. Prenesena bo celotna posodobitev.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Something is preventing &brandShortName; from updating securely.
+                                           Please check you have the latest version of &brandShortName; at:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
+                                           insecure update. Please contact your network provider and seek help.">
 
 <!ENTITY  finishedPage.title              "Posodobitev je na voljo">
 <!ENTITY  finishedPage.text               "Posodobitev bo nameščena, ko boste naslednjič zagnali &brandShortName;. To lahko 

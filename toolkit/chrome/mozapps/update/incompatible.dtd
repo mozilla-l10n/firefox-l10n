@@ -1,8 +1,0 @@
-
-<!ENTITY incompatible.title "Odkrita nezdružljivost">
-<!ENTITY incompatible.intro "Naslednje komponente niso združljive s to posodobitvijo in bodo ob namestitvi onemogočeni:">
-<!ENTITY incompatible.update "&brandShortName; bo redno iskal posodobitve zanje, če bo na voljo združljiva različica.">
-<!ENTITY incompatible.suffix "Posodobitve za &brandShortName; vsebujejo nekatere pomembne varnostne popravke, zato vam priporočamo, da posodobite program, četudi nekatere razširitve ali teme ne bodo združljive z novo različico.">
-                                     
-<!ENTITY closebutton.label "Zapri">
-
