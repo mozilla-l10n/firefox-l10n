@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "Sähköpostitilin asennus">
 <!ENTITY name.label                      "Nimi:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.emptytext                  "Etunimi Sukunimi">
+<!ENTITY name.placeholder                  "Etunimi Sukunimi">
 <!ENTITY name.text                       "Nimesi muille näkyvä muoto">
 <!ENTITY email.label                     "Sähköpostiosoite:">
 <!ENTITY email.accesskey                 "S">
-<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY email.placeholder                 "email@example.com">
 <!ENTITY password.label                  "Salasana:">
 <!ENTITY password.accesskey              "a">
-<!ENTITY password.emptytext              "Salasana">
+<!ENTITY password.placeholder              "Salasana">
 <!ENTITY password.text                   "Valinnainen, käytetään vain todentamaan käyttäjätunnus">
 
 <!ENTITY accountInformation.label        "Tilin tiedot">

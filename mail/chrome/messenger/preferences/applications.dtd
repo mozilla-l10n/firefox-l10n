@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.emptytext        "Etsi">
+<!ENTITY  filter.placeholder        "Etsi">
 
 <!ENTITY saveTo.label                 "Tallenna kansioon">
 <!ENTITY saveTo.accesskey             "T">

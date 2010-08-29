@@ -52,15 +52,21 @@
 
 <!ENTITY  details.link                     "Lisätietoja">
 
+<!ENTITY  error.title                     "Päivitys ei onnistunut">
+
 <!ENTITY  error.label                      "Päivityksen lataus, tarkistus tai asennus ei onnistunut.
                                             Päivitys aiheutti virheilmoituksen:">
                                            
 <!ENTITY  errorManual.label                "&brandShortName; voidaan päivittää käsin lataamalla ja 
                                             asentamalla ohjelman uusin versio osoitteesta:">
                                            
-<!ENTITY  errorpatching.title              "Päivitys ei onnistunut">
 <!ENTITY  errorpatching.intro              "Korjauspäivitys ei toiminut. 
                                             &brandShortName; lataa päivitetyn ohjelmaversion ja yrittää uudestaan.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Jokin estää &brandShortName;ia päivittämistä itseään turvallisesti.
+                                           Tarkista, että asennettuna on &brandShortName;in viimeisin versio osoitteesta:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Jokin yrittää huijata &brandShortName;ia hyväksymään päivityksen, joka ei ole
+                                           turvallinen. Pyydä apua Internet-palveluntarjoajaltasi.">
 
 <!ENTITY  finishedPage.title              "Päivitys on valmis asennettavaksi">
 <!ENTITY  finishedPage.text               "Päivitys asennetaan kun &brandShortName; käynnistetään uudelleen. Voit käynnistää 
