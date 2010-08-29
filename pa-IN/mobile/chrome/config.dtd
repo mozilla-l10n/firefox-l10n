@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "ਖੋਜ">
+<!ENTITY newpref.label          "Add a New Preference">
+<!ENTITY addpref.name           "ਨਾਂ">
+<!ENTITY addpref.value          "ਮੁੱਲ">
+
+<!ENTITY cancel.label           "ਰੱਦ ਕਰੋ">
+<!ENTITY reset.label            "ਮੁੜ-ਸੈੱਟ">
+<!ENTITY done.label             "ਠੀਕ ਹੈ">
+
+<!ENTITY integer.label          "Integer">
+<!ENTITY string.label           "String">
+<!ENTITY boolean.label          "Boolean">
