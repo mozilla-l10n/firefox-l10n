@@ -1,0 +1,15 @@
+<!ENTITY networkPanel.requestURL                  "Päringu URL">
+<!ENTITY networkPanel.requestMethod               "Päringu meetod">
+<!ENTITY networkPanel.statusCode                  "Olekukood">
+
+<!ENTITY networkPanel.requestHeaders              "Päringu päised">
+<!ENTITY networkPanel.requestCookie               "Saadetud küpsis">
+<!ENTITY networkPanel.requestBody                 "Päringu sisu">
+<!ENTITY networkPanel.requestFormData             "Saadetud vormi andmed">
+
+<!ENTITY networkPanel.responseHeaders             "Vastuse päised">
+<!ENTITY networkPanel.responseBody                "Vastuse sisu">
+<!ENTITY networkPanel.responseBodyCached          "Puhverdatud andmed">
+<!ENTITY networkPanel.responseNoBody              "Vastuse sisu puudub">
+<!ENTITY networkPanel.responseImage               "Vastuvõetud pildid">
+<!ENTITY networkPanel.responseImageCached         "Puhverdatud pildid">
