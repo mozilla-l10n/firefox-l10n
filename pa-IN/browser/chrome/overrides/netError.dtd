@@ -152,7 +152,7 @@
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "ਸਮੱਗਰੀ ਸੁਰੱਖਿਆ ਪਾਲਸੀ ਰਾਹੀਂ ਪਾਬੰਦੀ">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ਨੇ ਇਹ ਸਫ਼ੇ ਨੂੰ ਇਸ ਢੰਗ ਨਾਲ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕ ਦਿੱਤਾ ਹੈ, ਕਿਉਂਕਿ ਸਫ਼ੇ ਉੱਤੇ ਸਮੱਗਰੀ ਸਮੱਗਰੀ ਨੀਤੀ ਹੈ, ਜੋ ਇਸ ਤੋਂ ਰੋਕਦੀ ਹੈ।</p>">
 
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਇੱਕ ਛੋਟ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹੋ...">
 <!ENTITY securityOverride.getMeOutOfHereButton "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਕੱਢੋ">

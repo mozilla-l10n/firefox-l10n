@@ -16,9 +16,7 @@
 <!ENTITY  enableJava.label            "ਜਾਵਾ ਯੋਗ">
 <!ENTITY  enableJava.accesskey        "n">
 
-
 <!ENTITY  fontsAndColors.label        "ਫੋਂਟ &amp; ਰੰਗ">
-
 <!ENTITY  defaultFont.label           "ਡਿਫਾਲਟ ਫੋਂਟ:">
 <!ENTITY  defaultFont.accesskey       "D">
 <!ENTITY  defaultSize.label           "ਸਾਈਜ਼:">
@@ -29,7 +27,6 @@
 
 <!ENTITY  colors.label                "ਰੰਗ...">
 <!ENTITY  colors.accesskey            "C">
-
 
 <!ENTITY languages.label              "ਭਾਸ਼ਾ">
 <!ENTITY chooseLanguage.label         "ਪੇਜ਼ ਵੇਖਣ ਲਈ ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ ਚੁਣੋ">

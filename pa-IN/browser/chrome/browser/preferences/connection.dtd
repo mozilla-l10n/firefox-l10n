@@ -15,7 +15,6 @@
 <!ENTITY  autoTypeRadio.label           "ਆਟੋਮੈਟਿਕ ਪਰਾਕਸੀ ਸੰਰਚਨਾ URL:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
 
-
 <!ENTITY  reload.label                  "ਮੁੜ ਲੋਡ">
 <!ENTITY  reload.accesskey              "l">
 <!ENTITY  ftp.label                     "FTP ਪਰਾਕਸੀ:">

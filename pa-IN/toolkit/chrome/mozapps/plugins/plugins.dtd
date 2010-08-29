@@ -15,9 +15,9 @@
 <!ENTITY pluginWizard.installPluginsPage.title               "ਪਲੱਗਇਨ ਇੰਸਟਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ।">
 <!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; ਪਲੱਗਇਨ ਇੰਸਟਾਲ ਕਰ ਰਿਹਾ ਹੈ…">
 
-<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; finished installing the missing plugins:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; ਨੇ ਨਾ-ਮੌਜੂਦਾ ਪਲੱਗਇਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰ ਲਿਆ ਹੈ:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Find out more about Plugins or manually find missing plugins.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "ਪਲੱਗਇਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ ਜਾਂ ਨਾ-ਮੌਜੂਦ ਪਲੱਗਇਨ ਖੁਦ ਲੱਭੋ।">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ਨੂੰ ਪਲੱਗਇਨ ਦੇ ਕੰਮ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।">
   
 <!ENTITY missingPlugin.label                                 "ਪਲੱਗਇਨ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ।">
