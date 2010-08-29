@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "搜索">
+<!ENTITY  filter.placeholder          "搜索">
 
 <!ENTITY saveTo.label                 "保存文件至">
 <!ENTITY saveTo.accesskey             "S">
