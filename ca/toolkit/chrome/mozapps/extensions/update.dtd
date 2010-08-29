@@ -59,5 +59,3 @@
 <!ENTITY  clickFinish.label               "Feu clic a Finalitza per a continuar amb l'inici del &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Feu clic a Fet per a continuar amb l'inici del &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permet que el &brandShortName; comprovi si hi ha actualitzacions.">
-<!ENTITY  details.label                   "Detalls…">
-<!ENTITY  details.accesskey               "D">

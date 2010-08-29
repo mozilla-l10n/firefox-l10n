@@ -45,15 +45,22 @@
 
 <!ENTITY  details.link                    "Detalls">
 
+<!ENTITY  error.title                     "L'actualització ha fallat">
+
 <!ENTITY  error.label                     "S'han produït problemes en instaŀlar aquesta actualització. El &brandShortName; no s'ha
                                            pogut actualitzar perquè:">
 
 <!ENTITY  errorManual.label               "Podeu actualitzar el &brandShortName; manualment visitant aquest enllaç
                                            i baixant la darrera versió:">
 
-<!ENTITY  errorpatching.title             "L'actualització ha fallat">     
 <!ENTITY  errorpatching.intro             "L'actualització parcial no s'ha pogut aplicar. 
                                            El &brandShortName; ho tornarà a provar baixant una actualització completa.">                                  
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Quelcom ha evitat que el &brandShortName; s'actualitzés de forma segura.
+                                           Comproveu que teniu la darrera versió del &brandShortName; a:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Quelcom està mirant d'enganyar el &brandShortName; perquè accepti una
+                                           actualització insegura. Contacteu amb el vostre proveïdor de la xarxa i demaneu ajuda.">
+
 
 <!ENTITY  finishedPage.title        	  "L'actualització està preparada per a poder instaŀlar-la">
 <!ENTITY  finishedPage.text		  "L'actualització s'instaŀlarà la propera vegada que s'iniciï el &brandShortName;. Podeu 

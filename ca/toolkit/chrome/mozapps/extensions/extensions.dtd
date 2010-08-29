@@ -7,6 +7,11 @@
 <!ENTITY listEmpty.findUpdates.label          "Comprova si hi ha actualitzacions">
 <!ENTITY listEmpty.search.label               "No s'ha pogut trobar cap complement que hi coincideixi">
 <!ENTITY listEmpty.button.label               "Més informació dels complements">
+<!ENTITY installFromFile.label                "Instal·la d'un fitxer…">
+<!ENTITY installFromFile.accesskey            "I">
+
+<!ENTITY cmd.back.tooltip                     "Vés enrere una pàgina">
+<!ENTITY cmd.forward.tooltip                  "Vés endavant una pàgina">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
@@ -19,6 +24,8 @@
 <!ENTITY view.plugins.label                   "Connectors">
 <!ENTITY view.recentUpdates.label             "Actualitzacions recents">
 <!ENTITY view.availableUpdates.label          "Actualitzacions disponibles">
+<!ENTITY view.utilites.preferences.tooltip    "Opcions per a tots els complements">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Preferències per a tots els complements">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Actualitza els complements ara">
@@ -39,8 +46,10 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Cerca actualitzacions">
 <!ENTITY cmd.findUpdates.accesskey            "C">
-<!ENTITY cmd.preferences.label                "Preferències">
-<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.preferencesWin.label             "Opcions">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label                "Preferències">
+<!ENTITY cmd.preferencesUnix.accesskey            "P">
 <!ENTITY cmd.about.label                      "Quant a">
 <!ENTITY cmd.about.accesskey                  "a">
 
@@ -50,8 +59,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Suprimeix">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
-<!ENTITY cmd.showPreferences.label            "Preferències">
-<!ENTITY cmd.showPreferences.tooltip          "Canvia les preferències del complement">
+<!ENTITY cmd.showPreferencesWin.label         "Opcions">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Canvia les opcions del complement">
+<!ENTITY cmd.showPreferencesUnix.label            "Preferències">
+<!ENTITY cmd.showPreferencesUnix.tooltip          "Canvia les preferències del complement">
 <!ENTITY cmd.contribute.label                 "Col·labora-hi">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Col·labora en el desenvolupament del complement">
@@ -74,9 +85,12 @@
 <!ENTITY detail.checkForUpdates.label         "Comprova si hi ha actualitzacions">
 <!ENTITY detail.checkForUpdates.accesskey     "h">
 <!ENTITY detail.checkForUpdates.tooltip       "Comprova si hi ha actualitzacions del complement">
-<!ENTITY detail.showPreferences.label         "Preferències">
-<!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "Canvia les preferències del complement">
+<!ENTITY detail.showPreferencesWin.label         "Opcions">
+<!ENTITY detail.showPreferencesWin.accesskey     "O">
+<!ENTITY detail.showPreferencesWin.tooltip       "Canvia les opcions del complement">
+<!ENTITY detail.showPreferencesUnix.label         "Preferències">
+<!ENTITY detail.showPreferencesUnix.accesskey     "P">
+<!ENTITY detail.showPreferencesUnix.tooltip       "Canvia les preferències del complement">
 
 <!-- ratings -->
 <!ENTITY rating.label                         "Puntuació:">
@@ -88,23 +102,20 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nom">
 <!ENTITY sort.name.tooltip                    "Ordena per nom">
-<!ENTITY sort.size.label                      "Mida">
-<!ENTITY sort.size.tooltip                    "Ordena per mida">
 <!ENTITY sort.dateUpdated.label               "Darrera actualització">
 <!ENTITY sort.dateUpdated.tooltip             "Ordena per la data d'actualització">
-<!ENTITY sort.rating.label                    "Puntuació">
-<!ENTITY sort.rating.tooltip                  "Ordena per la puntació mitjana">
+<!ENTITY sort.relevance.label                 "Millor coincidència">
+<!ENTITY sort.relevance.tooltip               "Ordena per rellevància">
 
-<!ENTITY showMore.label                       "Mostra'n més">
-<!ENTITY showMore.tooltip                     "Mostra més detalls">
-<!ENTITY showLess.label                       "Mostra'n menys">
-<!ENTITY showLess.tooltip                     "Mostra menys detalls">
-
-<!ENTITY search.filter.label                  "Mostra:">
-<!ENTITY search.filter.installed.label        "Els vostres complements instal·lats">
-<!ENTITY search.filter.available.label        "Complements disponibles">
+<!ENTITY search.filter2.label                  "Cerca:">
+<!ENTITY search.filter2.installed.label        "Els meus complements">
+<!ENTITY search.filter2.installed.tooltip     "Mostra els complements instal·lats">
+<!ENTITY search.filter2.available.label        "Complements disponibles">
+<!ENTITY search.filter2.available.tooltip     "Mostra els complements disponibles per instal·lar">
 
 <!ENTITY addon.homepage                       "Pàgina d'inici">
+<!ENTITY addon.details.label                  "Més">
+<!ENTITY addon.details.tooltip                "Mostra més detalls del complement">
 <!ENTITY addon.unknownDate                    "Desconegut">
 <!ENTITY addon.disabled.postfix               "(inhabilitat)">
 <!ENTITY addon.update.postfix                 "Actualitza">
@@ -113,7 +124,6 @@
 <!ENTITY addon.undoUninstall.label            "Ho voleu desfer?">
 <!ENTITY addon.undoUninstall.tooltip          "Mantingues el complement instal·lat">
 <!ENTITY addon.restartNow.label               "Reinicia ara">
-<!ENTITY addon.restartNow.tooltip             "Reinicia ara per a completar la instal·lació">
 <!ENTITY addon.install.label                  "Instal·la">
 <!ENTITY addon.install.tooltip                "Instal·la el complement">
 <!ENTITY addon.updateNow.label                "Actualitza'l ara">
