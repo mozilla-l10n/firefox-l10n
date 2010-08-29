@@ -1,12 +1,11 @@
 <!ENTITY  updateWizard.title              "ਸਾਫਟਵੇਅਰ ਅੱਪਡੇਟ">
 
-
 <!ENTITY  checking.title                  "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY  updateCheck.label               "&brandShortName; ਦੇ ਨਵੇਂ ਵਰਜਨਾਂ ਲਈ ਖੋਜ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
 
-<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
-<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
-<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
+<!ENTITY  pluginupdatesfound.title        "ਪਲੱਗਇਨ ਲਈ ਅੱਪਡੇਟ ਮਿਲੇ">
+<!ENTITY  pluginupdatesfound.label        "ਤੁਹਾਡੀਆਂ ਇੱਕ ਜਾਂ ਵੱਧ ਪਲੱਗਇਨ ਲਈ ਨਵੇਂ ਵਰਜਨ ਮਿਲੇ ਹਨ।">
+<!ENTITY  pluginupdateslink.label         "ਆਪਣੀ ਪਲੱਗਇਨ ਕਿਵੇਂ ਅੱਪਗਰੇਡ ਕਰਨੀ ਹੈ ਵੇਖੋ।">
 
 <!ENTITY  noupdatesfound.title            "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ ਹੈ">
 <!ENTITY  noupdatesautoenabled.intro      "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। &brandShortName; ਅੱਪਡੇਟ ਲਈ ਲਗਾਤਾਰ ਚੈੱਕ ਕਰਦਾ ਰਹੇਗਾ।">
@@ -57,10 +56,10 @@
                                             &brandShortName; ਪੂਰੇ ਅੱਪਡੇਟ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰੇਗਾ।">
 
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Something is preventing &brandShortName; from updating securely.
-                                           Please check you have the latest version of &brandShortName; at:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
-                                           insecure update. Please contact your network provider and seek help.">
+<!ENTITY  errorCertAttrNoUpdate.label     "ਕੁਝ &brandShortName; ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਅੱਪਡੇਟ ਹੋਣ ਤੋਂ ਰੋਕ ਰਿਹਾ ਹੈ।
+                                           ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ ਤੁਹਾਡੇ ਕੋਲ &brandShortName; ਦਾ ਨਵਾਂ ਵਰਜਨ ਹੈ, ਇੱਥੋਂ:">
+<!ENTITY  errorCertAttrHasUpdate.label    "ਕੁਝ &brandShortName; ਨੂੰ ਅਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ
+                                           ਹੈ। ਆਪਣੇ ਨੈੱਟਵਰਕ ਉਪਲੱਬਧ ਕਰਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰਕੇ ਮੱਦਦ ਲਈ ਪੁੱਛੋ।">
 
 <!ENTITY  finishedPage.title              "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਹੋਣ ਲਈ ਤਿਆਰ ਹੈ">
 <!ENTITY  finishedPage.text               "ਅੱਪਡੇਟ ਅਗਲੀ ਵਾਰ &brandShortName; ਸ਼ੁਰੂ ਹੋਣ ਉੱਤੇ ਇੰਸਟਾਲ ਹੋਵੇਗਾ। ਤੁਸੀਂ ਹੁਣ 

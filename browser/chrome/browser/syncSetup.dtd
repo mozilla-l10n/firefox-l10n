@@ -73,7 +73,7 @@
 <!-- Existing Account Page 2: Passphrase -->
 <!ENTITY passphraseGroupbox.label     "ਗੁਪਤ ਭੇਦ ਦਿਓ">
 <!ENTITY passphraseDesc3.label        "ਆਪਣਾ ਗੁਪਤ ਭੇਦ ਦਿਓ ਜੀ। ਇਹ ਉਹੀ ਭੇਦ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰਨ ਲਈ ਵਰਤਿਆ ਸੀ।">
-<!ENTITY passphraseHelp.label         "Your secret phrase is at least 12 characters long and is not your password. You can find your saved secret phrase by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
+<!ENTITY passphraseHelp.label         "ਤੁਹਾਡਾ ਭੇਦ ਘੱਟੋ-ਘੱਟ ੧੨ ਅੱਖਰ ਲੰਮਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਤੇ ਇਹ ਤੁਹਾਡਾ ਪਾਸਵਰਡ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਤੁਸੀਂ ਆਪਣਾ ਸੰਭਾਲਿਆ ਗੁਪਤ ਭੇਦ ਆਪਣੇ ਹੋਰ ਕੰਪਿਊਟਰ ਉੱਤੇ ਜਾ ਕੇ ਸੁਰੱਖਿਆ ਦੇ ਵਿੱਚ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਜਾ ਕੇ ਲੱਭ ਸਕਦੇ ਹੋ। ਜੇ ਤੁਸੀਂ ਹਾਲੇ ਵੀ ਠੀਕ ਗੁਪਤ ਭੇਦ ਨਹੀਂ ਲੱਭ ਸਕੇ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਯਾਦ ਰੱਖੋ ਕਿ ਤੁਸੀਂ ਸਰਵਰ ਉੱਤੇ ਮੌਜੂਦ ਸਭ ਡਾਟਾ ਗੁਆ ਲਵੋਗੇ।">
 <!ENTITY changePassphrase.label       "ਗੁਪਤ ਭੇਦ ਬਦਲੋ">
 <!ENTITY verifying.label              "ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
 
@@ -86,13 +86,13 @@
 
 <!-- New & Existing Account: Confirm Merge Options -->
 <!ENTITY confirm.caption.label        "ਆਪਣੀ ਚੋਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ">
-<!ENTITY confirm.merge.label          "You have chosen to merge your data on this computer with the data on your other devices running &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
-<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
-<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
+<!ENTITY confirm.merge.label          "ਤੁਸੀਂ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਹੋਰ ਜੰਤਰਾਂ ਉੱਤੇ ਚੱਲਦੇ &syncBrand.fullName.label; ਨਾਲ ਮਿਲਾਉਣ ਦੀ ਚੋਣ ਕੀਤੀ ਹੈ।">
+<!ENTITY confirm.client.label         "ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਭ &brandShortName; ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ, ਜਿਸ ਵਿੱਚ ਸ਼ਾਮਲ ਹੈ">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; ਤਦ ਤੁਹਾਡੇ &syncBrand.fullName.label; ਡਾਟੇ ਨੂੰ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਕਾਪੀ ਕਰੇਗਾ।">
+<!ENTITY confirm.client.warning.label "ਚੇਤਾਵਨੀ: ਇਸ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਭ &brandShortName; ਡਾਟਾ ਬਦਲ ਦਿੱਤਾ ਜਾਵੇਗਾ!">
+<!ENTITY confirm.server.label         "ਅੱਗੇ ਦਿੱਤੇ ਜੰਤਰ ਤੁਹਾਡੇ ਲੋਕਲ ਡਾਟੇ ਨਾਲ ਬਦਲ ਦਿੱਤੇ ਜਾਣਗੇ:">
+<!ENTITY confirm.server.warning.label "ਚੇਤਾਵਨੀ: ਤੁਹਾਡਾ ਲੋਕਲ ਡਾਟਾ ਇਹਨਾਂ ਜੰਤਰਾਂ ਉੱਤੇ ਸਭ &brandShortName; ਡਾਟੇ ਨੂੰ ਬਦਲ ਦੇਵੇਗਾ।!">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title.label   "ਸੈਟਅੱਪ ਹੋਇਆ ਮੁਕੰਮਲ!">
-<!ENTITY setup.successPage.desc.label    "Congratulations! &brandShortName; is now set up to automatically sync your information. Don't forget to install &syncBrand.fullName.label; on all your devices. You can now continue using &brandShortName;.">
+<!ENTITY setup.successPage.desc.label    "ਵਧਾਈਆਂ! &brandShortName; ਹੁਣ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸੈੱਟਅੱਪ ਕਰ ਲਿਆ ਗਿਆ ਹੈ। &syncBrand.fullName.label; ਨੂੰ ਆਪਣੇ ਸਭ ਜੰਤਰਾਂ ਉੱਤੇ ਇੰਸਟਾਲ ਕਰਨਾ ਨਾ ਭੁੱਲੋ। ਤੁਸੀਂ ਹੁਣ &brandShortName; ਦੀ ਵਰਤੋਂ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ।">
