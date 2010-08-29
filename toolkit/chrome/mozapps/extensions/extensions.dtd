@@ -118,7 +118,7 @@
 <!ENTITY addon.unknownDate                    "pole teada">
 <!ENTITY addon.disabled.postfix               "(keelatud)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
-<!ENTITY addon.update.postfix                 "Uuendus">
+<!ENTITY addon.update.postfix                 "uuendus">
 <!ENTITY addon.undo.label                     "Võta tagasi?">
 <!ENTITY addon.undo.tooltip                   "Võta see tegevus tagasi">
 <!ENTITY addon.undoUninstall.label            "Võta tagasi?">
