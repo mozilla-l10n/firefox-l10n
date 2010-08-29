@@ -10,6 +10,8 @@
 <!ENTITY installFromFile.label                "파일로 설치…">
 <!ENTITY installFromFile.accesskey            "I">
 
+<!ENTITY cmd.back.tooltip                     "뒤로">
+<!ENTITY cmd.forward.tooltip                  "앞으로">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
@@ -22,6 +24,8 @@
 <!ENTITY view.plugins.label                   "플러그인">
 <!ENTITY view.recentUpdates.label             "최신 업데이트 항목 보기">
 <!ENTITY view.availableUpdates.label          "업데이트 가능 항목 보기">
+<!ENTITY view.utilites.preferences.tooltip    "부가 기능 설정">
+<!ENTITY view.utilites.preferencesUnix.tooltip "부가 기능 환경 설정">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "지금 업데이트 하기">
@@ -42,8 +46,10 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "업데이트 찾기">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferences.label                "환경 설정">
-<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.preferencesWin.label             "설정">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "환경 설정">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "정보">
 <!ENTITY cmd.about.accesskey                  "A">
 
@@ -53,8 +59,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.uninstallAddon.label             "제거">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferences.label            "환경 설정">
-<!ENTITY cmd.showPreferences.tooltip          "부가 기능 설정 변경">
+<!ENTITY cmd.showPreferencesWin.label         "설정">
+<!ENTITY cmd.showPreferencesWin.tooltip       "부가 기능 설정 변경">
+<!ENTITY cmd.showPreferencesUnix.label        "환경 설정">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "부가 기능 환경 설정 변경">
 <!ENTITY cmd.contribute.label                 "공헌">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "부가 기능 개발 참여하기">
@@ -77,10 +85,12 @@
 <!ENTITY detail.checkForUpdates.label         "업데이트 확인">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "현재 부가 기능 업데이트 확인">
-<!ENTITY detail.showPreferences.label         "환경 설정">
-<!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "현재 부가 기능 설정 변경">
-
+<!ENTITY detail.showPreferencesWin.label      "설정">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "부가 기능 설정 변경">
+<!ENTITY detail.showPreferencesUnix.label     "환경 설정">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "부가 기능 환경 설정 변경">
 
 <!-- ratings -->
 <!ENTITY rating.label                         "평가:">
@@ -93,24 +103,20 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "이름">
 <!ENTITY sort.name.tooltip                    "이름순">
-<!ENTITY sort.size.label                      "크기">
-<!ENTITY sort.size.tooltip                    "크기순">
 <!ENTITY sort.dateUpdated.label               "최종 변경일">
 <!ENTITY sort.dateUpdated.tooltip             "변경일순">
-<!ENTITY sort.rating.label                    "평가">
-<!ENTITY sort.rating.tooltip                  "평가순">
+<!ENTITY sort.relevance.label                 "검색 결과">
+<!ENTITY sort.relevance.tooltip               "가장 적합한 결과">
 
-
-<!ENTITY showMore.label                       "상세 보기">
-<!ENTITY showMore.tooltip                     "상세 정보 보기">
-<!ENTITY showLess.label                       "닫기">
-<!ENTITY showLess.tooltip                     "상세 정보 닫기">
-
-<!ENTITY search.filter.label                  "상세 보기:">
-<!ENTITY search.filter.installed.label        "설치한 부가 기능">
-<!ENTITY search.filter.available.label        "사용가능 부가 기능">
+<!ENTITY search.filter2.label                 "검색:">
+<!ENTITY search.filter2.installed.label       "설치된 목록">
+<!ENTITY search.filter2.installed.tooltip     "설치된 부가 기능 보기">
+<!ENTITY search.filter2.available.label       "사용 가능 목록">
+<!ENTITY search.filter2.available.tooltip     "설치 가능한 부가 기능 목록">
 
 <!ENTITY addon.homepage                       "홈페이지">
+<!ENTITY addon.details.label                  "상세보기">
+<!ENTITY addon.details.tooltip                "부가 기능에 대한 상세 정보 표시">
 <!ENTITY addon.unknownDate                    "알수 없음">
 <!ENTITY addon.disabled.postfix               "(사용 안 함)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
@@ -120,7 +126,6 @@
 <!ENTITY addon.undoUninstall.label            "삭제 취소">
 <!ENTITY addon.undoUninstall.tooltip          "설치된 부가 기능 유지하기">
 <!ENTITY addon.restartNow.label               "재시작">
-<!ENTITY addon.restartNow.tooltip             "설치 완료를 위해 재시작">
 <!ENTITY addon.install.label                  "설치하기">
 <!ENTITY addon.install.tooltip                "현재 부가 기능 설치하기">
 <!ENTITY addon.updateNow.label                "업데이트">

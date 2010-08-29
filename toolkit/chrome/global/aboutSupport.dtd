@@ -32,8 +32,6 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.graphicsTitle "그래픽">
 
 <!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
-<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D 사용">
-
 <!ENTITY aboutSupport.installationHistoryTitle "설치 기록">
 <!ENTITY aboutSupport.updateHistoryTitle "업데이트 기록">
 
