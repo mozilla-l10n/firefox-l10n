@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". To pomeni, da lahko &brandShortName; uporabljate, kopirate in ga delite drugim.  Spreminjate lahko tudi izvorno kodo programa &brandShortName;, tako da zadosti vašim potrebam. Mozilla Public License vam daje tudi pravico do razširanja vaših spremenjenih različic.">
 
-<!ENTITY rights.intro-point2a "Mozilla vam ne daje nikakršnjih pravic do uporabe blagovnih znamk in logotipov Mozilla in Firefox. Več informacij o blagovnih znamkah lahko najdete ">
-<!ENTITY rights.intro-point2b "tukaj">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found ">
+<!ENTITY rights.intro-point2-b "here">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Politiko zasebnosti izdelkov &vendorShortName; lahko najdete ">
