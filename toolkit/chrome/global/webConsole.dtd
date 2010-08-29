@@ -1,0 +1,15 @@
+<!ENTITY networkPanel.requestURL                  "Verzochte URL">
+<!ENTITY networkPanel.requestMethod               "Verzoekmethode">
+<!ENTITY networkPanel.statusCode                  "Statuscode">
+
+<!ENTITY networkPanel.requestHeaders              "Verzochte koppen">
+<!ENTITY networkPanel.requestCookie               "Verzonden Cookie">
+<!ENTITY networkPanel.requestBody                 "Verzochte kern">
+<!ENTITY networkPanel.requestFormData             "Verzonden formulierdata">
+
+<!ENTITY networkPanel.responseHeaders             "Beantwoorde koppen">
+<!ENTITY networkPanel.responseBody                "Beantwoorde kern">
+<!ENTITY networkPanel.responseBodyCached          "Gebufferde data">
+<!ENTITY networkPanel.responseNoBody              "Geen antwoordkern">
+<!ENTITY networkPanel.responseImage               "Ontvangen afbeelding">
+<!ENTITY networkPanel.responseImageCached         "Gebufferde afbeelding">
