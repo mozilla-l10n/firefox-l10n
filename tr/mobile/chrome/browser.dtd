@@ -5,7 +5,6 @@
 <!ENTITY reload.label "Tazele">
 <!ENTITY stop.label "Dur">
 <!ENTITY go.label "Git">
-<!ENTITY openLocation.label "Konumu aç">
 <!ENTITY star.label "Yıldız">
 
 <!ENTITY newtab.label "Yeni sekme">
@@ -20,7 +19,10 @@
 <!ENTITY noSuggestions.label "(Öneri yok)">
 <!ENTITY addToDictionary.label "Sözlüğe ekle">
 
+<!ENTITY allPagesHeader.label "All Pages">
 <!ENTITY bookmarksHeader.label "Yer imleri">
+<!ENTITY historyHeader.label "Geçmiş">
+<!ENTITY desktopHeader.label "Masaüstü">
 
 <!ENTITY editBookmarkDone.label "Tamamlandı">
 <!ENTITY editBookmarkTags.label "Buraya etiket ekle">
@@ -88,11 +90,13 @@
 <!ENTITY contextSaveImage.label "Resmi kaydet">
 <!ENTITY contextShareLink.label "Bağlantıyı Paylaş">
 <!ENTITY contextShareImage.label "Resmi Paylaş">
+<!ENTITY contextSaveVideo.label "Video kaydı">
+<!ENTITY contextShareVideo.label "Share Video">
 <!ENTITY contextEditBookmark.label "Düzenle">
 <!ENTITY contextRemoveBookmark.label "Kaldır">
 
 <!ENTITY pageactions.saveas.pdf "PDF Olarak Kaydet">
-<!ENTITY pageactions.share.page "Share Page">
+<!ENTITY pageactions.share.page "Sayfayı Paylaş">
 <!ENTITY pageactions.password.forget "Şifreyi Sil">
 <!ENTITY pageactions.reset "Site Tercihlerini Temizle">
 <!ENTITY pageactions.findInPage "Sayfada bul">

@@ -65,7 +65,7 @@
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "y">
 <!-- Update -->
 
-<!ENTITY pref.calendar.advanced.update.autoCheck.label "Aşağıdaki güncellemeleri otomatik olarak kontrol et:">
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Bunların güncellemelerine kendiliğinden bak:">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Kurulu eklentiler">
@@ -88,7 +88,7 @@
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
 <!ENTITY pref.calendar.advanced.encryption.certificates.label "Onay belgeleri">
 <!ENTITY pref.calendar.advanced.encryption.certSelection.description "Sunucu kişisel onay belgemi istediğinde:">
-<!ENTITY pref.calendar.advanced.encryption.certs.auto "Birini otomatik olarak seç">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Birini kendiliğinden seç">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "Her seferinde bana sor">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">

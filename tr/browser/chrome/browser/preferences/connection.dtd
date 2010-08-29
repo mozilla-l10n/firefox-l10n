@@ -8,7 +8,7 @@
 <!ENTITY noProxyTypeRadio.accesskey "e">
 <!ENTITY systemTypeRadio.label "Sistem vekil sunucu ayarlarını kullan">
 <!ENTITY systemTypeRadio.accesskey "S">
-<!ENTITY WPADTypeRadio.label "Bu ağın vekil sunucu ayarlarını otomatik tanı">
+<!ENTITY WPADTypeRadio.label "Bu ağın vekil sunucu ayarlarını kendin tanı">
 <!ENTITY WPADTypeRadio.accesskey "v">
 <!ENTITY manualTypeRadio.label "Vekil sunucu ayarları">
 <!ENTITY manualTypeRadio.accesskey "u">

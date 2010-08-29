@@ -46,7 +46,7 @@
 <!ENTITY proxyTitle.label "İnternet erişimi için vekil sunucu ayarlarını ayarla">
 <!ENTITY directTypeRadio.label "İnternete doğrudan bağlantı">
 <!ENTITY directTypeRadio.accesskey "d">
-<!ENTITY WPADTypeRadio.label "Vekil sunucu ayarları otomatik olarak bul">
+<!ENTITY WPADTypeRadio.label "Vekil sunucu ayarlarını kendin bul">
 <!ENTITY WPADTypeRadio.accesskey "V">
 <!ENTITY manualTypeRadio.label "Vekil sunucu ayarları elden yap:">
 <!ENTITY manualTypeRadio.accesskey "k">

@@ -26,7 +26,7 @@
 <!ENTITY unpinTab.accesskey "N">
 <!ENTITY moveToGroup.label "Gruba taşı">
 <!ENTITY moveToGroup.accesskey "t">
-<!ENTITY moveToNewGroup.label "New Group">
+<!ENTITY moveToNewGroup.label "Yeni grup">
 <!ENTITY bookmarkThisTab.label "Sekmeyi yer imlerine ekle">
 <!ENTITY bookmarkThisTab.accesskey "i">
 <!ENTITY bookmarkAllTabs.label "Tüm sekmeleri yer imlerine ekle...">
@@ -119,7 +119,7 @@
 <!ENTITY stopButton.tooltip "Sayfayı yüklemeyi durdur">
 <!ENTITY goEndCap.tooltip "Konum çubuğundaki adrese git">
 <!ENTITY feedButton.tooltip "Bu sayfaya abone ol…">
-<!ENTITY printButton.label "Print">
+<!ENTITY printButton.label "Yazdır">
 <!ENTITY printButton.tooltip "Bu sayfayı yazdır">
 
 <!ENTITY backForwardItem.title "Geri/İleri">
@@ -173,7 +173,7 @@
 <!ENTITY errorConsoleCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
-<!ENTITY webConsoleCmd.label "Web konsulu">
+<!ENTITY webConsoleCmd.label "Web konsolu">
 <!ENTITY webConsoleCmd.accesskey "b">
 <!ENTITY webConsoleCmd.commandkey "k">
 
@@ -191,12 +191,12 @@
 <!ENTITY inspectStyleButton.label "Biçem">
 <!ENTITY inspectStyleButton.accesskey "B">
 <!ENTITY inspectStylePanelTitle.label "Biçem">
-<!-- LOCALIZATION NOTE (inspectDOMButton.label): This button label
-  -  stands for Document Object Model and appears on the inspector's toolbar.
-  -  It is used to open and closed the DOM panel. There is also a DOM label in
-  -  inspector.properties for the panel titlebar. -->
-<!ENTITY inspectDOMButton.label "DOM">
-<!ENTITY inspectDOMButton.accesskey "D">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label "Object">
+<!ENTITY inspectObjectButton.accesskey "O">
 
 <!ENTITY fileMenu.label "Dosya">
 <!ENTITY fileMenu.accesskey "s">
@@ -268,7 +268,7 @@
 <!ENTITY appMenuCustomize.label "Özelleştir">
 <!ENTITY appMenuToolbarLayout.label "Araç çubuğu düzeni...">
 <!ENTITY appMenuSidebars.label "Kenar çubukları">
-<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuFind.label "Bul…">
 <!ENTITY appMenuUnsorted.label "Sıralanmamış yer imleri">
 <!ENTITY appMenuGettingStarted.label "İlk Adım">
 
