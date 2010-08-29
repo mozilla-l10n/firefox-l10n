@@ -21,6 +21,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Utilitza el desplaçament suau">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
+<!ENTITY allowHWAccel.accesskey          "q">
 <!ENTITY checkSpelling.label             "Comprova l'ortografia mentre escric">
 <!ENTITY checkSpelling.accesskey         "t">
 

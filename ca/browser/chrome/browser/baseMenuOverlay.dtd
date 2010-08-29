@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informació per a la resolució d'errors">
 <!ENTITY helpTroubleshootingInfo.accesskey  "r">
 
+<!ENTITY helpFeedbackPage.label      "Tramet l'opinió…">
+<!ENTITY helpFeedbackPage.accesskey  "T">
+
 <!ENTITY updateCmd.label                "Comprova si hi ha actualitzacions…">
 
 <!ENTITY preferencesCmdMac.label        "Preferències…">

@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegació privada)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Mou la pestanya a…">
-<!ENTITY  moveTabTo.accesskey                "M">
-<!ENTITY  createNewGroup.label               "Crea un grup nou">
-<!ENTITY  createNewGroup.accesskey           "C">
-<!ENTITY  namedGroups.label                  "Grups amb nom">
 <!ENTITY  reloadTab.label                    "Torna a carregar la pestanya">
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Torna a carregar totes les pestanyes">
@@ -29,6 +24,9 @@
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Converteix en pestanya normal">
 <!ENTITY  unpinTab.accesskey                 "m">
+<!ENTITY  moveToGroup.label                  "Mou al grup">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "Grup nou">
 <!ENTITY  bookmarkThisTab.label              "Afegeix aquesta pestanya a les adreces d'interès">
 <!ENTITY  bookmarkThisTab.accesskey          "g">
 <!ENTITY  bookmarkAllTabs.label              "Afegeix totes les pestanyes a les adreces d'interès…">
@@ -190,6 +188,12 @@
 <!ENTITY inspectStyleButton.label     "Estil">
 <!ENTITY inspectStyleButton.accesskey "s">
 <!ENTITY inspectStylePanelTitle.label  "Estil">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Objecte">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label "Fitxer">
 <!ENTITY fileMenu.accesskey "F">
@@ -258,11 +262,12 @@
 <!ENTITY showAllHistoryCmd2.label "Mostra tot l'historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Imprimeix">
 <!ENTITY appMenuCustomize.label "Personalitza">
 <!ENTITY appMenuToolbarLayout.label "Format de la barra d'eines…">
 <!ENTITY appMenuSidebars.label "Barres laterals">
-<!ENTITY appMenuHelp.label "Ajuda">
+<!ENTITY appMenuFind.label "Cerca…">
+<!ENTITY appMenuUnsorted.label "Adreces d'interès desordenades">
+<!ENTITY appMenuGettingStarted.label "Primers passos">
 
 <!ENTITY developerMenu.label "Desenvolupador">
 
