@@ -1,13 +1,13 @@
 <!ENTITY firstrun.title                      "Us donem la benvinguda al &brandShortName;">
-<!ENTITY firstrun.heading              "Per a ajudar-vos a començar, a continuació presentem algunes de les característiques i extensions més populars perquè pugueu obtenir el major profit del &brandShortName;.">
-<!ENTITY firstrun.recommended          "Recomanat:">
-<!ENTITY firstrun.weave.title                        "Aconseguiu el Weave Sync">
-<!ENTITY firstrun.weave.description                  "Compartiu l'historial, contrasenyes, adreces d'interès i pestanyes del &brandShortName; tant a l'ordinador de sobretaula com al dispositiu mòbil">
-<!ENTITY firstrun.starter.title        "Aconseguiu la col·lecció Starter Kit">
-<!ENTITY firstrun.starter.description  "Instal·leu aquests complements recomanats per a millorar la vostra experiència amb el &brandShortName;">
-<!ENTITY firstrun.tour.title           "Feu-ne un recorregut">
-<!ENTITY firstrun.tour.description     "Mireu aquest vídeo per a familiaritzar-vos amb les noves característiques i com accedir-hi">
-<!ENTITY firstrun.features             "Vegeu més característiques">
+<!ENTITY firstrun.heading2                      "Us donem la benvinguda al &brandShortName;">
+<!ENTITY firstrun.sync.title           "Aconseguiu el Firefox Sync">
+<!ENTITY firstrun.sync.description     "Compartiu l'historial, contrasenyes, adreces d'interès i les pestanyes del &brandShortName; entre el vostre ordinador i el vostre mòbil">
+<!ENTITY firstrun.addons.title         "Aconseguiu complements">
+<!ENTITY firstrun.addons.description   "Instal·leu complements per millorar l'experiència amb el vostre &brandShortName;">
+<!ENTITY firstrun.home.title           "Primers passos">
+<!ENTITY firstrun.home.description     "Feu un toc per anar a la vostra pàgina d'inici personalitzada i començar a navegar">
+<!ENTITY firstrun.relNotes.label       "Vegeu les notes de la versió">
+
 <!ENTITY firstrun.faq                  "PMF">
 <!ENTITY firstrun.privacy              "Política de privadesa">
 <!ENTITY firstrun.follow               "Seguiu-nos a:">
