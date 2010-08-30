@@ -46,9 +46,9 @@
 <!ENTITY event.new.event.key                    "A">
 <!ENTITY event.new.event.accesskey              "A">
 
-<!ENTITY event.new.todo                         "Tugas Baru…">
-<!ENTITY event.new.todo.key                     "T">
-<!ENTITY event.new.todo.accesskey               "T">
+<!ENTITY event.new.task                         "Tugas Baru…">
+<!ENTITY event.new.task.key                     "T">
+<!ENTITY event.new.task.accesskey               "T">
 
 <!ENTITY calendar.new.server.label              "Kalender Baru…">
 <!ENTITY calendar.new.server.key                "L">
