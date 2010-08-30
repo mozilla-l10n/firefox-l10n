@@ -1,0 +1,13 @@
+<!ENTITY networkPanel.requestURL "Veffang">
+<!ENTITY networkPanel.requestMethod "Beiðnategund">
+<!ENTITY networkPanel.statusCode "Stöðunúmer">
+<!ENTITY networkPanel.requestHeaders "Beiðnahausar">
+<!ENTITY networkPanel.requestCookie "Send smákaka">
+<!ENTITY networkPanel.requestBody "Beiðni">
+<!ENTITY networkPanel.requestFormData "Send eyðublaðagögn">
+<!ENTITY networkPanel.responseHeaders "Svarhausar">
+<!ENTITY networkPanel.responseBody "Svar">
+<!ENTITY networkPanel.responseBodyCached "Gögn í flýtiminni">
+<!ENTITY networkPanel.responseNoBody "Ekkert svar">
+<!ENTITY networkPanel.responseImage "Móttekin mynd">
+<!ENTITY networkPanel.responseImageCached "Mynd í flýtiminni">

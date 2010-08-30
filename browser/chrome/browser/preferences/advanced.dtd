@@ -13,6 +13,8 @@
 <!ENTITY useAutoScroll.accesskey "o">
 <!ENTITY useSmoothScrolling.label "Nota fíngerða skrunun">
 <!ENTITY useSmoothScrolling.accesskey "f">
+<!ENTITY allowHWAccel.label "Nota vélbúnaðarhröðun ef mögulegt">
+<!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "Athuga stafsetningu um leið og texti er sleginn inn">
 <!ENTITY checkSpelling.accesskey "t">
 <!ENTITY systemDefaults.label "Sjálfgefnar kerfistillingar">
