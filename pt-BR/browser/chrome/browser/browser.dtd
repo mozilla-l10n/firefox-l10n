@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navegação privativa)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Mover esta aba para">
-<!ENTITY  moveTabTo.accesskey                "M">
-<!ENTITY  createNewGroup.label               "Criar novo grupo">
-<!ENTITY  createNewGroup.accesskey           "C">
-<!ENTITY  namedGroups.label                  "Named Groups">
 <!ENTITY  reloadTab.label                    "Recarregar aba">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Recarregar tudo">
@@ -29,6 +24,9 @@
 <!ENTITY  pinTab.accesskey                   "v">
 <!ENTITY  unpinTab.label                     "Converter em aba normal">
 <!ENTITY  unpinTab.accesskey                 "v">
+<!ENTITY  moveToGroup.label                  "Mover para o grupo">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "Novo grupo">
 <!ENTITY  bookmarkThisTab.label              "Adicionar aba aos favoritos">
 <!ENTITY  bookmarkThisTab.accesskey          "d">
 <!ENTITY  bookmarkAllTabs.label              "Adicionar todas as abas…">
@@ -133,7 +131,7 @@
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Página inicial">
 <!ENTITY tabViewButton2.label         "Grupos de abas">
-<!ENTITY tabViewButton2.tooltip       "Agrupar suas abas">
+<!ENTITY tabViewButton2.tooltip       "Agrupar abas">
 
 <!ENTITY bookmarksButton.label          "Favoritos">
 <!ENTITY bookmarksButton.tooltip        "Exibir o painel com os favoritos">
@@ -142,7 +140,7 @@
 
 <!ENTITY bookmarksMenuButton.label          "Favoritos">
 <!ENTITY bookmarksMenuButton.tooltip        "Exibir os favoritos">
-<!ENTITY viewBookmarksSidebar.label         "Exibir painel dos favoritos">
+<!ENTITY viewBookmarksSidebar.label         "Exibir painel">
 <!ENTITY viewBookmarksToolbar.label         "Exibir barra dos favoritos">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -193,6 +191,12 @@
 <!ENTITY inspectStyleButton.label     "Estilos">
 <!ENTITY inspectStyleButton.accesskey "E">
 <!ENTITY inspectStylePanelTitle.label  "Estilos">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Object">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label         "Arquivo"> 
 <!ENTITY fileMenu.accesskey       "A">
@@ -240,7 +244,7 @@
 
 <!ENTITY viewMenu.label         "Exibir"> 
 <!ENTITY viewMenu.accesskey       "x"> 
-<!ENTITY showTabView2.label     "Agrupar suas abas…">
+<!ENTITY showTabView2.label     "Agrupar abas…">
 <!ENTITY showTabView2.accesskey     "u">
 <!ENTITY viewToolbarsMenu.label       "Barras de ferramentas"> 
 <!ENTITY viewToolbarsMenu.accesskey     "B"> 
@@ -261,18 +265,19 @@
 <!ENTITY showAllHistoryCmd2.label "Exibir todo o histórico">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY appMenuPrintCmd.label "Imprimir">
 <!ENTITY appMenuCustomize.label "Personalizar">
 <!ENTITY appMenuToolbarLayout.label "Barras de ferramentas…">
 <!ENTITY appMenuSidebars.label "Painel">
-<!ENTITY appMenuHelp.label "Ajuda">
+<!ENTITY appMenuFind.label "Localizar…">
+<!ENTITY appMenuUnsorted.label "Não organizados">
+<!ENTITY appMenuGettingStarted.label "Primeiros passos">
 
 <!ENTITY developerMenu.label "Desenvolvimento">
 
 <!ENTITY openCmd.commandkey           "L">
 <!ENTITY urlbar.placeholder           "Abrir uma página web">
 <!ENTITY urlbar.accesskey             "D">
-<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+<!ENTITY urlbar.switchToTab.label     "Selecionar aba:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
