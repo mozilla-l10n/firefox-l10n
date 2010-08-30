@@ -18,5 +18,5 @@
 <!ENTITY privatebrowsingpage.howToStop                 "Režim Súkromné prehliadanie zrušíte pomocou voľby &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, prípadne ukončením prehliadača &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart                "Režim Súkromné prehliadanie spustíte aj pomocou voľby &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Aj keď sa v tomto počítači nebudú ukladať žiadne údaje o prehliadaných stránkach, váš poskytovateľ internetového pripojenia či zamestnávateľ stále môžu sledovať, ktoré stránky navštevujete.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Aj keď sa v tomto počítači nebudú ukladať žiadne údaje o prehliadaných stránkach, váš poskytovateľ internetového pripojenia či zamestnávateľ môžu napriek tomu sledovať, ktoré stránky navštevujete.">
 <!ENTITY privatebrowsingpage.learnMore                 "Ďalšie informácie">

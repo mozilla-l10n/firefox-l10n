@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Režim Súkromné prehliadanie)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Presunúť túto kartu do…">
-<!ENTITY  moveTabTo.accesskey                "e">
-<!ENTITY  createNewGroup.label               "Vytvoriť novú skupinu">
-<!ENTITY  createNewGroup.accesskey           "V">
-<!ENTITY  namedGroups.label                  "Pomenované skupiny">
 <!ENTITY  reloadTab.label                    "Obnoviť kartu">
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Obnoviť všetky karty">
@@ -29,6 +24,9 @@
 <!ENTITY  pinTab.accesskey                   "t">
 <!ENTITY  unpinTab.label                     "Zrušiť pripnutie karty">
 <!ENTITY  unpinTab.accesskey                 "t">
+<!ENTITY  moveToGroup.label                  "Presunúť do skupiny">
+<!ENTITY  moveToGroup.accesskey              "e">
+<!ENTITY  moveToNewGroup.label               "Nová skupina">
 <!ENTITY  bookmarkThisTab.label              "Pridať túto kartu medzi záložky">
 <!ENTITY  bookmarkThisTab.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
@@ -193,6 +191,12 @@
 <!ENTITY inspectStyleButton.label     "Štýl">
 <!ENTITY inspectStyleButton.accesskey "t">
 <!ENTITY inspectStylePanelTitle.label  "Štýl">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Objekt">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label "Súbor">
 <!ENTITY fileMenu.accesskey "S">
@@ -261,11 +265,13 @@
 <!ENTITY showAllHistoryCmd2.label "Zobraziť celú históriu">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Tlačiť">
+<!ENTITY appMenuEdit.label "Úpravy">
 <!ENTITY appMenuCustomize.label "Prispôsobenie">
 <!ENTITY appMenuToolbarLayout.label "Rozloženie panela nástrojov…">
 <!ENTITY appMenuSidebars.label "Bočné panely">
-<!ENTITY appMenuHelp.label "Pomocník">
+<!ENTITY appMenuFind.label "Hľadať…">
+<!ENTITY appMenuUnsorted.label "Nezaradené záložky">
+<!ENTITY appMenuGettingStarted.label "Začíname">
 
 <!ENTITY developerMenu.label "Vývojár">
 

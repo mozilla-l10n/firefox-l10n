@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "Nastavenie poštového účtu">
 <!ENTITY name.label                      "Vaše meno:">
 <!ENTITY name.accesskey                  "V">
-<!ENTITY name.emptytext                  "Meno priezvisko">
+<!ENTITY name.placeholder                "Meno priezvisko">
 <!ENTITY name.text                       "Vaše meno tak ako bude zobrazené ostatným">
 <!ENTITY email.label                     "E-mailová adresa:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.emptytext                 "email@priklad.sk">
+<!ENTITY email.placeholder               "email@priklad.sk">
 <!ENTITY password.label                  "Heslo:">
 <!ENTITY password.accesskey              "H">
-<!ENTITY password.emptytext              "Heslo">
+<!ENTITY password.placeholder            "Heslo">
 <!ENTITY password.text                   "Voliteľné, bude použité len na overenie prihlasovacieho mena">
 
 <!ENTITY accountInformation.label        "Informácie o účte">

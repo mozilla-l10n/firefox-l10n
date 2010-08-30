@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Hľadať">
+<!ENTITY  filter.placeholder          "Hľadať">
 
 <!ENTITY saveTo.label                 "Súbory ukladať do">
 <!ENTITY saveTo.accesskey             "S">

@@ -749,17 +749,17 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="feeds:subscribing"
          nc:name="prihlásenie k odberu kanála"
-         nc:link="mail_help.xhtml#subscribing_to_blogs_and_news_feeds"/>
+         nc:link="mailnews_blogs_and_feeds.xhtml#subscribing_to_blogs_and_news_feeds"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="feeds:reading"
          nc:name="čítanie kanála"
-         nc:link="mail_help.xhtml#reading_blogs_and_news_feed_messages"/>
+         nc:link="mailnews_blogs_and_feeds.xhtml#reading_blogs_and_news_feed_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="feeds:exporting_importing"
          nc:name="export a import kanálov"
-         nc:link="mail_help.xhtml#exporting_and_importing_feeds"/>
+         nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -906,7 +906,7 @@
      <rdf:li>
        <rdf:Description ID="import:feeds"
          nc:name="import kanálov"
-         nc:link="mail_help.xhtml#exporting_and_importing_feeds"/>
+         nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="import:mail"
@@ -1340,7 +1340,7 @@
      <rdf:li>
        <rdf:Description ID="Newsgroups"
          nc:name="Diskusné skupiny"
-         nc:link="mail_help.xhtml#getting_started_with_newsgroups"/>
+         nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1350,7 +1350,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Newsgroups:getting_started"
          nc:name="začíname s diskusnými skupinami"
-         nc:link="mail_help.xhtml#getting_started_with_newsgroups"/>
+         nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Newsgroups:server_settings"

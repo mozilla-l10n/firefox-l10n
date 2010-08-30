@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informácie pre riešenie problémov">
 <!ENTITY helpTroubleshootingInfo.accesskey  "n">
 
+<!ENTITY helpFeedbackPage.label      "Odoslať svoj názor…">
+<!ENTITY helpFeedbackPage.accesskey  "d">
+
 <!ENTITY updateCmd.label                "Kontrola aktualizácií…">
 
 <!ENTITY preferencesCmdMac.label        "Možnosti…">
