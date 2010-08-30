@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "Setup Akun Email">
 <!ENTITY name.label                      "Nama Anda:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.emptytext                  "Nama Lengkap">
+<!ENTITY name.placeholder                "Nama Lengkap">
 <!ENTITY name.text                       "Nama Anda, untuk ditampilkan">
 <!ENTITY email.label                     "Alamat email:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Kata Sandi:">
 <!ENTITY password.accesskey              "S">
-<!ENTITY password.emptytext              "kata sandi">
+<!ENTITY password.placeholder            "Kata Sandi">
 <!ENTITY password.text                   "Opsional, akan digunakan untuk memvalidasi nama pengguna">
 
 <!ENTITY accountInformation.label        "Informasi Akun">
