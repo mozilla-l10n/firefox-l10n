@@ -66,10 +66,8 @@
 <!ENTITY PhoneticField2.label           "Fonetinė:"> 
 <!ENTITY DisplayName.label              "Rodomas vardas:">
 <!ENTITY DisplayName.accesskey          "m">
-<!--
 <!ENTITY preferDisplayName.label        "Visuomet rodyti šį vardą vietoj nurodyto laiško antraštėje">
 <!ENTITY preferDisplayName.accesskey    "š">
--->
 <!ENTITY NickName.label                 "Slapyvardis">
 <!ENTITY NickName.accesskey             "l">
 
