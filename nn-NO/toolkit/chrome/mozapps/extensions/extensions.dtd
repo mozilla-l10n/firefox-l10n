@@ -10,8 +10,10 @@
 <!ENTITY installFromFile.label                "Installer frå fil …">
 <!ENTITY installFromFile.accesskey            "I">
 
+<!ENTITY cmd.back.tooltip                     "Gå tilbake ei side">
+<!ENTITY cmd.forward.tooltip                  "Gå fram ei side">
+
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Søk">
 <!ENTITY view.discover.label                  "Last ned utvidingar">
 <!ENTITY view.locales.label                   "Språk">
@@ -21,6 +23,8 @@
 <!ENTITY view.plugins.label                   "Programtillegg">
 <!ENTITY view.recentUpdates.label             "Nyleg oppdatert">
 <!ENTITY view.availableUpdates.label          "Tilgjengelege oppdateringar">
+<!ENTITY view.utilites.preferences.tooltip    "Innstillingar for alle utvidingane">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Innstillingar for alle utvidingane">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Oppdater utvidingane no">
@@ -41,8 +45,10 @@
 <!ENTITY cmd.showDetails.accesskey            "V">
 <!ENTITY cmd.findUpdates.label                "Sjå etter oppdateringar">
 <!ENTITY cmd.findUpdates.accesskey            "S">
-<!ENTITY cmd.preferences.label                "Innstillingar">
-<!ENTITY cmd.preferences.accesskey            "I">
+<!ENTITY cmd.preferencesWin.label             "Innstillingar">
+<!ENTITY cmd.preferencesWin.accesskey         "I">
+<!ENTITY cmd.preferencesUnix.label            "Innstillingar">
+<!ENTITY cmd.preferencesUnix.accesskey        "I">
 <!ENTITY cmd.about.label                      "Om">
 <!ENTITY cmd.about.accesskey                  "O">
 
@@ -52,8 +58,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "a">
 <!ENTITY cmd.uninstallAddon.label             "Slett">
 <!ENTITY cmd.uninstallAddon.accesskey         "e">
-<!ENTITY cmd.showPreferences.label            "Innstillingar">
-<!ENTITY cmd.showPreferences.tooltip          "Endre innstillingane for denne utvidinga">
+<!ENTITY cmd.showPreferencesWin.label         "Innstillingar">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Endre innstillingane til denne utvidinga">
+<!ENTITY cmd.showPreferencesUnix.label        "Innstillingar">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Endre innstillingane til denne utvidinga">
 <!ENTITY cmd.contribute.label                 "Bidra">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Bidra til utviklinga av denne utvidinga">
@@ -76,9 +84,12 @@
 <!ENTITY detail.checkForUpdates.label         "Sjå etter oppdateringar">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
 <!ENTITY detail.checkForUpdates.tooltip       "Søkjer etter oppdateringar for denne utvidinga">
-<!ENTITY detail.showPreferences.label         "Innstillingar">
-<!ENTITY detail.showPreferences.accesskey     "I">
-<!ENTITY detail.showPreferences.tooltip       "Endre innstillingane til denne utvidinga">
+<!ENTITY detail.showPreferencesWin.label      "Innstillingar">
+<!ENTITY detail.showPreferencesWin.accesskey  "I">
+<!ENTITY detail.showPreferencesWin.tooltip    "Endre innstillingane til denne utvidinga">
+<!ENTITY detail.showPreferencesUnix.label     "Innstillingar">
+<!ENTITY detail.showPreferencesUnix.accesskey "I">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Endre innstillingane til denne utvidinga">
 
 
 <!-- ratings -->
@@ -94,8 +105,8 @@
 <!ENTITY sort.name.tooltip                    "Sorter etter namn">
 <!ENTITY sort.dateUpdated.label               "Sist oppdatert">
 <!ENTITY sort.dateUpdated.tooltip             "Sorter etter dato oppdatert">
-<!ENTITY sort.rating.label                    "Vurdering">
-<!ENTITY sort.rating.tooltip                  "Sorter etter gjennomsnittleg vurdering">
+<!ENTITY sort.relevance.label                 "Beste treff">
+<!ENTITY sort.relevance.tooltip               "Sorter etter relevans">
 
 <!ENTITY search.filter2.label                 "Søk:">
 <!ENTITY search.filter2.installed.label       "Installerte utvidingar">
