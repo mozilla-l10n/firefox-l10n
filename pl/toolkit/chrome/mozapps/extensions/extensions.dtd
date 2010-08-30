@@ -12,6 +12,9 @@
 <!ENTITY installFromFile.label                "Zainstaluj z pliku…">
 <!ENTITY installFromFile.accesskey            "Z">
 
+<!ENTITY cmd.back.tooltip                     "Przejdź o jedną stronę do przodu">
+<!ENTITY cmd.forward.tooltip                  "Przejdź o jedną stronę wstecz">
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Szukaj">
