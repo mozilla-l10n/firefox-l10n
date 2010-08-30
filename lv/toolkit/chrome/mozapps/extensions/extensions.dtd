@@ -12,6 +12,9 @@
 <!ENTITY addon.details.label                  "Vairāk">
 <!ENTITY addon.details.tooltip                "Rādīt vairāk informācijas par šo papildinājumu">
 
+<!ENTITY cmd.back.tooltip                     "Pāriet uz iepriekšējo lapu">
+<!ENTITY cmd.forward.tooltip                  "Pāriet uz nākamo lapu">
+
 <!-- Command Bar items -->
 
 <!ENTITY cmd.contribute.label                 "Dot ieguldījumu">
@@ -29,14 +32,20 @@
 
 <!ENTITY cmd.about.label "Par šo papildinājumu">
 <!ENTITY cmd.about.accesskey "P">
-<!ENTITY cmd.preferences.label                "Iestatījumi">
-<!ENTITY cmd.preferences.accesskey            "I">
+
+<!ENTITY cmd.preferencesWin.label             "Iestatījumi">
+<!ENTITY cmd.preferencesWin.accesskey         "I">
+<!ENTITY cmd.preferencesUnix.label            "Iestatījumi">
+<!ENTITY cmd.preferencesUnix.accesskey        "I">
+
+<!ENTITY cmd.showPreferencesWin.label         "Iestatījumi">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Izmainīt šī papildinājuma iestatījumus">
+<!ENTITY cmd.showPreferencesUnix.label        "Iestatījumi">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Izmainīt šī papildinājuma iestatījumus">
 
 <!-- ratings -->
 <!ENTITY rating.label              "Vērtējums:">
 
-<!ENTITY cmd.showPreferences.label            "Iestatījumi">
-<!ENTITY cmd.showPreferences.tooltip          "Izmainīt papildinājuma iestatījumus">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versija">
@@ -51,9 +60,12 @@
 <!ENTITY detail.checkForUpdates.label         "Meklēt atjauninājumus">
 <!ENTITY detail.checkForUpdates.accesskey     "M">
 <!ENTITY detail.checkForUpdates.tooltip       "Meklēt atjauninājumus šim papildinājumam">
-<!ENTITY detail.showPreferences.label         "Iestatījumi">
-<!ENTITY detail.showPreferences.accesskey     "I">
-<!ENTITY detail.showPreferences.tooltip       "Izmainiet šī papildinājuma iestatījumus">
+<!ENTITY detail.showPreferencesWin.label      "Iestatījumi">
+<!ENTITY detail.showPreferencesWin.accesskey  "I">
+<!ENTITY detail.showPreferencesWin.tooltip    "Izmainīt šī papildinājuma iestatījumus">
+<!ENTITY detail.showPreferencesUnix.label     "Iestatījumi">
+<!ENTITY detail.showPreferencesUnix.accesskey "I">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Izmainīt šī papildinājuma iestatījumus">
 
 <!-- Status Messsages -->
 
@@ -107,8 +119,10 @@
 <!ENTITY sort.name.tooltip                    "Kārtot pēc nosaukuma">
 <!ENTITY sort.dateUpdated.label               "Atjaunināts">
 <!ENTITY sort.dateUpdated.tooltip             "Kārtot pēc atjaunināšanas datuma">
-<!ENTITY sort.rating.label                    "Vērtējums">
-<!ENTITY sort.rating.tooltip                  "Kārtot pēc vidējā vērtējuma">
+<!ENTITY sort.relevance.label                 "Labākais rezultāts">
+<!ENTITY sort.relevance.tooltip               "Kārtot pēc atbilstības">
+<!ENTITY view.utilites.preferences.tooltip    "Visu papildinājumi iestatījumi">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Visu papildinājumi iestatījumi">
 
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Meklēšana">

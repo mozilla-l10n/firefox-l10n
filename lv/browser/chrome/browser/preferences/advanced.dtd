@@ -13,6 +13,9 @@
 
 <!ENTITY browsing.label "Pārlūkošana">
 
+<!ENTITY allowHWAccel.label              "Ja pieejams izmantot aparatūras paātrinājumu">
+<!ENTITY allowHWAccel.accesskey          "p">
+
 <!ENTITY useAutoScroll.label "Lietot autoritināšanu">
 <!ENTITY useAutoScroll.accesskey "a">
 <!ENTITY useSmoothScrolling.label "Lietot plūdeno ritināšanu">
@@ -47,7 +50,7 @@
 
 <!ENTITY useCacheBefore.label "Izmantot līdz pat">
 <!ENTITY useCacheBefore.accesskey "I">
-<!ENTITY useCacheAfter.label "MB no pieejamās kešatmņas">
+<!ENTITY useCacheAfter.label "MB no pieejamās kešatmiņas">
 <!ENTITY clearCacheNow.label "Iztīrīt">
 <!ENTITY clearCacheNow.accesskey "I">
 

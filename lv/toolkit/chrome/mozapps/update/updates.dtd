@@ -39,7 +39,6 @@ atjauninājumu. Neizdevās atjaunināt &brandShortName;, jo:">
 <!ENTITY errorManual.label "Varat pašrocīgi atjaunināt &brandShortName;, dodoties uz šo saiti 
 un lejupielādējot jaunāko versiju.">
                                            
-<!ENTITY errorpatching.title "Neizdevās atjaunināt">
 <!ENTITY errorpatching.intro "Neizdevās pielietot daļējo atjauninājumu. 
 &brandShortName; mēģinās vēlreiz lejupielādējot pilno atjauninājumu.">
 
@@ -75,3 +74,10 @@ un lejupielādējot jaunāko versiju.">
 <!ENTITY  manualUpdate.title              "Nesanāk atjaunināšana">
 <!ENTITY  manualUpdate.desc               "Ir pieejami drošības un stabilitātes atjauninājumi, taču jums nav nepieciešamo tiesību instalēt tos. Lūdzu informējiet par šo savu sistēmas administratoru vai arī mēģiniet vēlreiz no cita lietotāja konta, kam ir nepieciešamās atļaujas instalēt programmatūŗas atjauninājumus.">
 <!ENTITY  manualUpdateGetMsg.label        "Jaunākot &brandShortName; versiju jūs vienmēr varat iegūt šeit:">
+
+<!ENTITY  error.title                     "Atjaunināšana neizdevās">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Kaut kas liedz &brandShortName; droši atjaunināties.
+                                           Lūdzu pārliecinieties, ka jums ir jaunākā &brandShortName; versija šeit:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Kaut kas mēģina apmānīt &brandShortName;, lai tas pieņemtu nedrošu atjauninājumu.
+                                     	   Lūdzu sazinieties ar savu tīkla nodrošinātāju un meklējiet palīdzību.">
