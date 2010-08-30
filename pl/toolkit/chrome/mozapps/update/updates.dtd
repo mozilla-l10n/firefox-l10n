@@ -44,12 +44,19 @@
 
 <!ENTITY  details.link                    "Szczegóły">
 
+<!ENTITY  error.title                     "Aktualizacja się nie powiodła">
+
 <!ENTITY  error.label                     "Pojawiły się problemy podczas sprawdzania, pobierania lub instalacji aktualizacji. Program &brandShortName; nie mógł zostać zaktualizowany, ponieważ:">
 
 <!ENTITY  errorManual.label               "Można dokonać ręcznej aktualizacji programu &brandShortName; poprzez otwarcie tego odnośnika i pobranie najnowszej wersji:">
 
-<!ENTITY  errorpatching.title             "Aktualizacja nie powiodła się">
 <!ENTITY  errorpatching.intro             "Częściowa aktualizacja nie mogła zostać przeprowadzona. &brandShortName; spróbuje pobrać kompletną aktualizację.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Nie można bezpiecznie zaktualizować programu &brandShortName;.
+                                           Prosimy upewnić się, czy używana wersja programu &brandShortName; jest aktualna na:">
+                                           
+<!ENTITY  errorCertAttrHasUpdate.label    "Próba wymuszenia na programie &brandShortName; akceptacji niebezpiecznej aktualizacji.
+                                           Prosimy skontaktować się z dostawcą usług sieciowych i poszukać pomocy.">
 
 <!ENTITY  finishedPage.title              "Aktualizacja gotowa do zainstalowania">
 <!ENTITY  finishedPage.text               "Aktualizacja zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;. Uruchom teraz ponownie program &brandShortName; lub kontynuuj pracę i zainstaluj aktualizację później.">
