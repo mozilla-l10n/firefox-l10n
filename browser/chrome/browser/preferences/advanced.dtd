@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "G">
 <!ENTITY useSmoothScrolling.label        "Geser dengan mulus">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "Gunakan akselerasi perangkat keras jika tersedia">
+<!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkSpelling.label             "Periksa ejaan saat mengetik teks">
 <!ENTITY checkSpelling.accesskey         "e">
 
