@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Cari">
+<!ENTITY  filter.placeholder          "Cari">
 
 <!ENTITY saveTo.label                 "Simpan berkas di">
 <!ENTITY saveTo.accesskey             "S">

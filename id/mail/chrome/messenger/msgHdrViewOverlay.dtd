@@ -105,6 +105,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Pisahkan…">
 <!ENTITY deleteAttachmentCmd.label    "Hapus">
+<!ENTITY openAllAttachmentsCmd.label    "Buka Semua…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "m">
 <!ENTITY saveAllAttachmentsCmd.label    "Simpan Semua…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Pisahkan Semua…">

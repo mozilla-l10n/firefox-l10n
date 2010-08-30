@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Fonetik:">
 <!ENTITY DisplayName.label              "Tampilan:">
 <!ENTITY DisplayName.accesskey          "T">
+<!ENTITY preferDisplayName.label        "Selalu gunakan nama tampilan daripada nama pada header pesan">
+<!ENTITY preferDisplayName.accesskey    "h">
 <!ENTITY NickName.label                 "Nama alias:">
 <!ENTITY NickName.accesskey             "a">
 
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "Ulang Tahun:">
 <!ENTITY Birthday.accesskey             "U">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Tahun">
+<!ENTITY Year.placeholder               "Tahun">
 <!ENTITY Or.value                       "atau">
-<!ENTITY Age.emptytext                  "Umur">
+<!ENTITY Age.placeholder                "Umur">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Kantor">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "J">
 <!ENTITY PhotoURL.label                 "Di Web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "Tempel atau ketik alamat web foto">
+<!ENTITY PhotoURL.placeholder           "Tempel atau ketik alamat web foto">
 <!ENTITY UpdatePhoto.label              "Perbarui">
 <!ENTITY UpdatePhoto.accesskey          "u">
