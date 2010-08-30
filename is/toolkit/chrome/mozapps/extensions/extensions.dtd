@@ -9,8 +9,9 @@
 <!ENTITY listEmpty.button.label "Fræðast meira um viðbætur">
 <!ENTITY installFromFile.label "Setja inn frá skrá…">
 <!ENTITY installFromFile.accesskey "i">
+<!ENTITY cmd.back.tooltip "Til baka um eina síðu">
+<!ENTITY cmd.forward.tooltip "Áfram um eina síðu">
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label "Leita">
 <!ENTITY view.discover.label "Ná í viðbætur">
 <!ENTITY view.locales.label "Tungumál">
@@ -20,6 +21,8 @@
 <!ENTITY view.plugins.label "Tengiforrit">
 <!ENTITY view.recentUpdates.label "Nýlegar uppfærslur">
 <!ENTITY view.availableUpdates.label "Fáanlegar uppfærslur">
+<!ENTITY view.utilites.preferences.tooltip "Valkostir fyrir allar viðbætur">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Valkostir fyrir allar viðbætur">
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label "Uppfæra viðbætur núna">
 <!ENTITY updates.updateAddonsNow.accesskey "U">
@@ -38,8 +41,10 @@
 <!ENTITY cmd.showDetails.accesskey "S">
 <!ENTITY cmd.findUpdates.label "Leita að uppfærslum">
 <!ENTITY cmd.findUpdates.accesskey "f">
-<!ENTITY cmd.preferences.label "Valkostir">
-<!ENTITY cmd.preferences.accesskey "V">
+<!ENTITY cmd.preferencesWin.label "Valkostir">
+<!ENTITY cmd.preferencesWin.accesskey "o">
+<!ENTITY cmd.preferencesUnix.label "Valkostir">
+<!ENTITY cmd.preferencesUnix.accesskey "o">
 <!ENTITY cmd.about.label "Um">
 <!ENTITY cmd.about.accesskey "U">
 <!ENTITY cmd.enableAddon.label "Gera virkt">
@@ -48,8 +53,10 @@
 <!ENTITY cmd.disableAddon.accesskey "S">
 <!ENTITY cmd.uninstallAddon.label "Fjarlægja">
 <!ENTITY cmd.uninstallAddon.accesskey "r">
-<!ENTITY cmd.showPreferences.label "Valkostir">
-<!ENTITY cmd.showPreferences.tooltip "Breyta stillingum viðbótar">
+<!ENTITY cmd.showPreferencesWin.label "Valkostir">
+<!ENTITY cmd.showPreferencesWin.tooltip "Breyta stillingum fyrir þessa viðbót">
+<!ENTITY cmd.showPreferencesUnix.label "Valkostir">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Breyta stillingum viðbótar">
 <!ENTITY cmd.contribute.label "Gefa">
 <!ENTITY cmd.contribute.accesskey "G">
 <!ENTITY cmd.contribute.tooltip "Hjálpa til með þróunina á þessari viðbót">
@@ -69,9 +76,12 @@
 <!ENTITY detail.checkForUpdates.label "Leita að uppfærslum">
 <!ENTITY detail.checkForUpdates.accesskey "f">
 <!ENTITY detail.checkForUpdates.tooltip "Athuga uppfærslur fyrir þessa viðbót">
-<!ENTITY detail.showPreferences.label "Valkostir">
-<!ENTITY detail.showPreferences.accesskey "V">
-<!ENTITY detail.showPreferences.tooltip "Breyta stillingum viðbótar">
+<!ENTITY detail.showPreferencesWin.label "Valkostir">
+<!ENTITY detail.showPreferencesWin.accesskey "o">
+<!ENTITY detail.showPreferencesWin.tooltip "Breyta stillingum fyrir þessa viðbót">
+<!ENTITY detail.showPreferencesUnix.label "Valkostir">
+<!ENTITY detail.showPreferencesUnix.accesskey "o">
+<!ENTITY detail.showPreferencesUnix.tooltip "Breyta stillingum fyrir þessa viðbót">
 <!-- ratings -->
 <!ENTITY rating.label "Einkunn:">
 <!-- download/install progress -->
