@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "Úvodná stránka prehliadača &brandFullName;">
+<!ENTITY abouthome.brandLogo.title "Logo prehliadača &brandFullName;">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart "Úvodná stránka <span>&brandShortName;u</span>">
+
+<!ENTITY abouthome.searchEngineLogo.title "Logo vyhľadávacieho modulu">
+
+<!ENTITY abouthome.searchEngineButton.label "Hľadať">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Rozšírené vyhľadávanie">
+<!ENTITY abouthome.searchEngineLinks.preferences "Nastavenia">
+
+<!ENTITY abouthome.aboutMozilla "O Mozille">

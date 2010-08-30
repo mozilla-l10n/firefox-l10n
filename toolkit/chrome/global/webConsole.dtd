@@ -1,0 +1,15 @@
+<!ENTITY networkPanel.requestURL                  "Adresa požiadavky">
+<!ENTITY networkPanel.requestMethod               "Metóda požiadavky">
+<!ENTITY networkPanel.statusCode                  "Stavový kód">
+
+<!ENTITY networkPanel.requestHeaders              "Hlavičky požiadavky">
+<!ENTITY networkPanel.requestCookie               "Odoslané cookie">
+<!ENTITY networkPanel.requestBody                 "Telo požiadavky">
+<!ENTITY networkPanel.requestFormData             "Odoslané údaje formulára">
+
+<!ENTITY networkPanel.responseHeaders             "Hlavičky odpovede">
+<!ENTITY networkPanel.responseBody                "Telo odpovede">
+<!ENTITY networkPanel.responseBodyCached          "Údaje vo vyrovnávacej pamäti">
+<!ENTITY networkPanel.responseNoBody              "Žiadne telo odpovede">
+<!ENTITY networkPanel.responseImage               "Prijatý obrázok">
+<!ENTITY networkPanel.responseImageCached         "Obrázok vo vyrovnávacej pamäti">
