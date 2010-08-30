@@ -26,6 +26,8 @@
 <!ENTITY view.plugins.label                   "Wtyczki">
 <!ENTITY view.recentUpdates.label             "Ostatnie aktualizacje">
 <!ENTITY view.availableUpdates.label          "Dostępne aktualizacje">
+<!ENTITY view.utilites.preferences.tooltip    "Opcje dla wszystkich dodatków">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Preferencje dla wszystkich dodatków">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Aktualizuj teraz dodatki">
@@ -46,10 +48,12 @@
 <!ENTITY cmd.showDetails.accesskey            "W">
 <!ENTITY cmd.findUpdates.label                "Znajdź aktualizacje">
 <!ENTITY cmd.findUpdates.accesskey            "n">
-<!ENTITY cmd.preferences.label                "Preferencje">
-<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.preferencesWin.label             "Opcje">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "Preferencje">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "O tym dodatku">
-<!ENTITY cmd.about.accesskey                  "O">
+<!ENTITY cmd.about.accesskey                  "d">
 
 <!ENTITY cmd.enableAddon.label                "Włącz">
 <!ENTITY cmd.enableAddon.accesskey            "W">
@@ -57,8 +61,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "W">
 <!ENTITY cmd.uninstallAddon.label             "Usuń">
 <!ENTITY cmd.uninstallAddon.accesskey         "U">
-<!ENTITY cmd.showPreferences.label            "Preferencje">
-<!ENTITY cmd.showPreferences.tooltip          "Zmień preferencje związane z tym dodatkiem">
+<!ENTITY cmd.showPreferencesWin.label         "Opcje">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Zmień opcje tego dodatku">
+<!ENTITY cmd.showPreferencesUnix.label        "Preferencje">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Zmień preferencje związane z tym dodatkiem">
 <!ENTITY cmd.contribute.label                 "Wspomóż">
 <!ENTITY cmd.contribute.accesskey             "s">
 <!ENTITY cmd.contribute.tooltip               "Wspomóż rozwój tego dodatku">
@@ -81,9 +87,12 @@
 <!ENTITY detail.checkForUpdates.label         "Sprawdź dostępność aktualizacji">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
 <!ENTITY detail.checkForUpdates.tooltip       "Sprawdź, czy dostępne są aktualizacje dla tego dodatku">
-<!ENTITY detail.showPreferences.label         "Preferencje">
-<!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "Zmień preferencje związane z tym dodatkiem">
+<!ENTITY detail.showPreferencesWin.label      "Opcje">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "Zmień opcje tego dodatku">
+<!ENTITY detail.showPreferencesUnix.label     "Preferencje">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Zmień preferencje związane z tym dodatkiem">
 
 <!-- ratings -->
 <!ENTITY rating.label                         "Ocena:">
@@ -97,8 +106,8 @@
 <!ENTITY sort.name.tooltip                    "Sortuj według nazwy">
 <!ENTITY sort.dateUpdated.label               "Ostatnia aktualizacja">
 <!ENTITY sort.dateUpdated.tooltip             "Sortuj według daty aktualizacji">
-<!ENTITY sort.rating.label                    "Ocena">
-<!ENTITY sort.rating.tooltip                  "Sortuj według średniej ocen">
+<!ENTITY sort.relevance.label                 "Najbardziej pasujące">
+<!ENTITY sort.relevance.tooltip               "Sortuj według istotności">
 
 <!ENTITY search.filter2.label                 "Przeszukaj:">
 <!ENTITY search.filter2.installed.label       "moje dodatki">
