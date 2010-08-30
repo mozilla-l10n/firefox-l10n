@@ -10,7 +10,7 @@
 <!ENTITY searchStartTyping.accesskey     "r">
 
 <!ENTITY blockAutoRefresh.label          "Ostrzeż, jeśli witryny próbują przekierować lub odświeżyć stronę">
-<!ENTITY blockAutoRefresh.accesskey      "k">
+<!ENTITY blockAutoRefresh.accesskey      "w">
 
 <!ENTITY browsing.label                  "Przeglądanie">
 
@@ -21,6 +21,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "n">
 <!ENTITY checkSpelling.label             "Sprawdzaj pisownię podczas wprowadzania tekstu">
 <!ENTITY checkSpelling.accesskey         "i">
+<!ENTITY allowHWAccel.label              "Korzystaj z akceleracji sprzętowej, kiedy jest dostępna">
+<!ENTITY allowHWAccel.accesskey          "K">
 
 <!ENTITY systemDefaults.label  		 "Ustawienia systemowe">
 
