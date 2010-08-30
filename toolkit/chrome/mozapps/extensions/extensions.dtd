@@ -39,8 +39,6 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Gjeni Përditësime">
 <!ENTITY cmd.findUpdates.accesskey            "G">
-<!ENTITY cmd.preferences.label                "Parapëlqime">
-<!ENTITY cmd.preferences.accesskey            "P">
 <!ENTITY cmd.about.label                      "Rreth">
 <!ENTITY cmd.about.accesskey                  "R">
 
@@ -50,12 +48,9 @@
 <!ENTITY cmd.disableAddon.accesskey           "Ç">
 <!ENTITY cmd.uninstallAddon.label             "Hiqe">
 <!ENTITY cmd.uninstallAddon.accesskey         "H">
-<!ENTITY cmd.showPreferences.label            "Parapëlqime">
-<!ENTITY cmd.showPreferences.tooltip          "Ndryshoni parapëlqimet për këtë shtesë">
 <!ENTITY cmd.contribute.label                 "Kontribuoni">
 <!ENTITY cmd.contribute.accesskey             "K">
 <!ENTITY cmd.contribute.tooltip               "Kontribuoni në zhvillimin e kësaj shtese">
-
 <!ENTITY cmd.showReleaseNotes.label           "Shfaq Shënime Versioni">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Shfaqni shënimet e versionit për këtë përditësim">
 <!ENTITY cmd.hideReleaseNotes.label           "Fshihi Shënimet e Versioni">
@@ -74,9 +69,6 @@
 <!ENTITY detail.checkForUpdates.label         "Kontrollo për përditësime">
 <!ENTITY detail.checkForUpdates.accesskey     "K">
 <!ENTITY detail.checkForUpdates.tooltip       "Kontrolloni për përditësime për këtë shtesë">
-<!ENTITY detail.showPreferences.label         "Parapëlqime">
-<!ENTITY detail.showPreferences.accesskey     "q">
-<!ENTITY detail.showPreferences.tooltip       "Ndryshoni parapëlqimet për këtë shtesë">
 
 
 <!-- ratings -->
@@ -90,22 +82,15 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Emër">
 <!ENTITY sort.name.tooltip                    "Renditi sipas emrave">
-<!ENTITY sort.size.label                      "Madhësi">
-<!ENTITY sort.size.tooltip                    "Renditi sipas madhësisë">
 <!ENTITY sort.dateUpdated.label               "Përditësuar Së Fundmi">
 <!ENTITY sort.dateUpdated.tooltip             "Renditi sipas datës së përditësimit">
-<!ENTITY sort.rating.label                    "Vlerësim">
-<!ENTITY sort.rating.tooltip                  "Renditi sipas mesatares në vlerësim">
 
 
-<!ENTITY showMore.label                       "Shfaq më tepër">
-<!ENTITY showMore.tooltip                     "Shfaq më tepër hollësi">
-<!ENTITY showLess.label                       "Shfaq më pak">
-<!ENTITY showLess.tooltip                     "Shfaq më pak hollësi">
-
-<!ENTITY search.filter.label                  "Shfaq:">
-<!ENTITY search.filter.installed.label        "Shtesat tuaja të instaluar">
-<!ENTITY search.filter.available.label        "Shtesa të mundshme">
+<!ENTITY search.filter2.label                 "Kërkim:">
+<!ENTITY search.filter2.installed.label       "Shtesat e Mia">
+<!ENTITY search.filter2.installed.tooltip     "Shfaq shtesat e instaluara">
+<!ENTITY search.filter2.available.label       "Shtesa të Mundshme">
+<!ENTITY search.filter2.available.tooltip     "Shfaq shtesa të mundshme për instalim">
 
 <!ENTITY addon.homepage                       "Faqe hyrëse">
 <!ENTITY addon.unknownDate                    "E panjohur">
@@ -117,7 +102,6 @@
 <!ENTITY addon.undoUninstall.label            "Të zhbëhet?">
 <!ENTITY addon.undoUninstall.tooltip          "Mbaje të instaluar këtë shtesë">
 <!ENTITY addon.restartNow.label               "Rinise tani">
-<!ENTITY addon.restartNow.tooltip             "Riniseni tani, që të plotësohet instalimi">
 <!ENTITY addon.install.label                  "Instaloje">
 <!ENTITY addon.install.tooltip                "Instalojeni këtë shtesë">
 <!ENTITY addon.checkingForUpdates.label       "Po kontrollohet për përditësime…">
@@ -134,3 +118,32 @@
 
 <!ENTITY view.recentUpdates.label             "Përditësime Së Fundmi">
 <!ENTITY view.availableUpdates.label          "Përditësime të Passhme">
+
+<!ENTITY addon.details.label                  "Më tepër">
+<!ENTITY addon.details.tooltip                "Shfaq më tepër hollësi mbi këtë shtesë">
+<!ENTITY cmd.back.tooltip                     "Shko mbrapsht një faqe">
+<!ENTITY cmd.forward.tooltip                  "Shko përpara një faqe">
+
+
+<!ENTITY cmd.preferencesWin.label             "Mundësi">
+<!ENTITY cmd.preferencesWin.accesskey         "M">
+<!ENTITY cmd.preferencesUnix.label            "Parapëlqime">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
+
+<!ENTITY cmd.showPreferencesWin.label         "Mundësi">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Ndryshoni mundësitë e kësaj shtese">
+<!ENTITY cmd.showPreferencesUnix.label        "Parapëlqime">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Ndryshoni parapëlqimet e kësaj shtese">
+
+<!ENTITY detail.showPreferencesWin.label      "Mundësi">
+<!ENTITY detail.showPreferencesWin.accesskey  "M">
+<!ENTITY detail.showPreferencesWin.tooltip    "Ndryshoni mundësitë e kësaj shtese">
+<!ENTITY detail.showPreferencesUnix.label     "Parapëlqime">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Ndryshoni parapëlqimet e kësaj shtese">
+
+<!ENTITY sort.relevance.label                 "Më e afërta">
+<!ENTITY sort.relevance.tooltip               "Renditi sipas rëndësisë">
+
+<!ENTITY view.utilites.preferences.tooltip    "Mundësi për krejt shtesat">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Parapëlqime për krejt shtesat">
