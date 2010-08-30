@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "Faqja e Fillimit për &brandFullName;-in">
+<!ENTITY abouthome.brandLogo.title "Stema e &brandFullName;-it">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart "Fillimi i <span>&brandShortName;</span>-it">
+
+<!ENTITY abouthome.searchEngineLogo.title "Stema e motorit të kërkimit">
+
+<!ENTITY abouthome.searchEngineButton.label "Kërkoni">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Kërkim i Mëtejshëm">
+<!ENTITY abouthome.searchEngineLinks.preferences "Parapëlqime">
+
+<!ENTITY abouthome.aboutMozilla "Mbi Mozilla-n">
