@@ -72,7 +72,7 @@
 <!ENTITY cmd.moveBookmarks.label            "Presunúť…">
 <!ENTITY cmd.moveBookmarks.accesskey        "u">
 
-<!ENTITY col.name.label                     "Názov">
+<!ENTITY col.title.label                    "Názov">
 <!ENTITY col.tags.label                     "Značky">
 <!ENTITY col.url.label                      "Adresa">
 <!ENTITY col.lastvisit.label                "Dátum poslednej návštevy">

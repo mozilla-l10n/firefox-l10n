@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Odoslať kópiu (CC) na tieto adresy:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Adresy oddelené čiarkami">
+<!ENTITY ccAddressList.placeholder "Adresy oddelené čiarkami">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Odoslať Skrytú kópiu (BCC) na tieto adresy:">
 <!ENTITY bccAddress.accesskey "S">
-<!ENTITY bccAddressList.emptytext "Adresy oddelené čiarkami">
+<!ENTITY bccAddressList.placeholder "Adresy oddelené čiarkami">
 <!ENTITY saveMessageDlg.label "Pri ukladaní správ zobraziť dialógové okno s potvrdením">
 <!ENTITY saveMessageDlg.accesskey "z">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
