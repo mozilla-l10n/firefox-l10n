@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informasi Pemecahan Masalah…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "m">
 
+<!ENTITY helpFeedbackPage.label      "Kirim Saran…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
 <!ENTITY updateCmd.label                "Periksa Versi Baru…">
 
 <!ENTITY preferencesCmdMac.label        "Pengaturan…">

@@ -48,15 +48,21 @@
 
 <!ENTITY  details.link                    "Detail">
 
-<!ENTITY  error.label                     "Terdapat masalah pada pemeriksaan, pengunduhan, atau pemasangan pemutakhiran ini.
+<!ENTITY  error.title                     "Pemutakhiran Gagal">
+
+<!ENTITY  error.label                     "Terjadi masalah pada pemeriksaan, pengunduhan, atau pemasangan pemutakhiran ini.
                                            &brandShortName; tidak dapat diperbarui karena:">
                                            
 <!ENTITY  errorManual.label               "Anda dapat memperbarui &brandShortName; sendiri dengan mengunjungi tautan ini
                                            dan mengunduh versi terbaru:">
                                            
-<!ENTITY  errorpatching.title             "Pemutakhiran Gagal">
 <!ENTITY  errorpatching.intro             "Pemutakhiran Parsial tidak dapat diaplikasikan.
                                            &brandShortName; akan mencoba lagi dengan mengunduh pemutakhiran lengkap.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Ada hal yang mencegah &brandShortName; memutakhirkan program secara aman.
+                                           Silakan periksa apakah Anda menggunakan &brandShortName; versi terbaru lewat:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Ada yang mencoba menipu &brandShortName; untuk menerima pemutakhiran yang tidak aman.
+                                           Silakan hubungi penyedia jaringan Internet Anda dan meminta bantuan.">
 
 <!ENTITY  finishedPage.title              "Pemutakhiran Siap Dipasang">
 <!ENTITY  finishedPage.text               "Pemutakhiran akan dipasang saat &brandShortName; dibuka lagi. Anda dapat memulai ulang &brandShortName; sekarang juga atau tetap bekerja dan memulai ulang nanti.">

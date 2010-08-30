@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "Laman Memulai &brandFullName;">
+<!ENTITY abouthome.brandLogo.title "Logo &brandFullName;">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart "Beranda <span>&brandShortName;</span>">
+
+<!ENTITY abouthome.searchEngineLogo.title "Logo mesin pencari">
+
+<!ENTITY abouthome.searchEngineButton.label "Cari">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Penelusuran Lanjutan">
+<!ENTITY abouthome.searchEngineLinks.preferences "Pengaturan">
+
+<!ENTITY abouthome.aboutMozilla "Tentang Mozilla">
