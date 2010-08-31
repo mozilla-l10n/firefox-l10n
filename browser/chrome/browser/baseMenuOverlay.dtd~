@@ -37,8 +37,7 @@
 <!ENTITY helpTroubleshootingInfo.label      "Të dhëna Diagnostikimi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
+
+
 <!ENTITY productHelp.label        "Ndihmë e &brandShortName;-it">
 <!ENTITY productHelp.accesskey    "N">
-
-<!ENTITY helpFeedbackPage.label      "Parashtroni Përshtypjet…">
-<!ENTITY helpFeedbackPage.accesskey  "P">
