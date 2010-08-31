@@ -26,7 +26,7 @@
 <!ENTITY import.label "आयात  करू …">
 <!ENTITY import.accesskey "I">
 
-<!ENTITY goOfflineCmd.label "आफ़लाइन काम  करू ">
+<!ENTITY goOfflineCmd.label "आफ़लाइन काज  करू ">
 <!ENTITY goOfflineCmd.accesskey "w">
 
 <!ENTITY navbarCmd.label "संचरण औजारपट्टी">
@@ -58,7 +58,7 @@
 <!ENTITY fullScreenMinimize.tooltip "न्यूनतम  करू ">
 <!ENTITY fullScreenRestore.tooltip "फेर संग्रहित  करू ">
 <!ENTITY fullScreenClose.tooltip "बन्न  करू ">
-<!ENTITY fullScreenAutohide.label "औज़ार पट्ट नुकाउ">
+<!ENTITY fullScreenAutohide.label "अओजार पट्ट नुकाउ">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "पूर्ण स्क्रीन मोड सँ बाहर निकलें">
 <!ENTITY fullScreenExit.accesskey "F">
@@ -144,7 +144,7 @@
 <!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "औज़ार">
+<!ENTITY toolsMenu.label              "अओजार">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
 <!ENTITY keywordfield.label           "ई खोज क लेल बीजशब्द जोड़ू…">
