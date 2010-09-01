@@ -5,14 +5,14 @@
 <!ENTITY     cookiedomain.label             "साइट"> 
 <!ENTITY     button.removecookie.label      "कूकी हटाउ">
 <!ENTITY     button.removecookie.accesskey  "R">
-<!ENTITY     button.removeallcookies.label  "सारे कूकीज केँ हटाउ">
+<!ENTITY     button.removeallcookies.label  "सभटा कूकीज केँ हटाउ">
 <!ENTITY     button.removeallcookies.accesskey "A">
 
 <!ENTITY     props.name.label               "नाम:">
 <!ENTITY     props.value.label              "सामग्री:">
-<!ENTITY     props.domain.label             "मेजखनान:">
+<!ENTITY     props.domain.label             "मेजबाननाम:">
 <!ENTITY     props.path.label               "पथ:">
-<!ENTITY     props.secure.label             "ई कलेल  प्रेषित:">
+<!ENTITY     props.secure.label             "एकरा लेल  प्रेषित:">
 <!ENTITY     props.expires.label            "मियाद समाप्ति:">
 
 <!ENTITY     window.title                   "कूकीज">

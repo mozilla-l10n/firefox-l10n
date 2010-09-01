@@ -2,12 +2,12 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "इंटरनेट पहुँच  कलेल  प्राक्सी विन्यस्त  करू ">
+<!ENTITY  proxyTitle.label              "इंटरनेट पहुँच कलेल  प्राक्सी विन्यस्त  करू ">
 <!ENTITY  noProxyTypeRadio.label        "कोनो प्राक्सी नहि">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "तंत्र प्राक्सी सेटिंग क प्रयोग  करू ">
+<!ENTITY  systemTypeRadio.label         "तंत्र प्राक्सी सेटिंगक प्रयोग  करू ">
 <!ENTITY  systemTypeRadio.accesskey     "u">
-<!ENTITY  WPADTypeRadio.label           "ई सँजाल क लेल प्राक्सी सेटिंग स्वतः जाँचू">
+<!ENTITY  WPADTypeRadio.label           "ई सँजालक लेल प्राक्सी सेटिंग स्वतः जाँचू">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "दस्ती प्राक्सी विन्यास:">
 <!ENTITY  manualTypeRadio.accesskey     "m">

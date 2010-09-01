@@ -4,11 +4,11 @@
 
 <!ENTITY accessibility.label             "पहुँच">
 
-<!ENTITY useCursorNavigation.label       "पृष्ठ क अंदर संचरण क लेल  हरदम  कर्सर क प्रयोग  करू ">
+<!ENTITY useCursorNavigation.label       "पृष्ठक अंदर संचरणक लेल हरदम कर्सरक प्रयोग करू ">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "टाइप करब क दौरान शुरू करते ही पाठ क लेल खोजू">
+<!ENTITY searchStartTyping.label         "टाइप करबाक दौरान शुरू करैत पाठक लेल खोजू">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "हमरा चेतावनी दिअजखन वेबसाइट पृष्ठ केँ पुनर्निर्देशित अथवा पुनर्लोड  कएनाइ  चाहता अछि">
+<!ENTITY blockAutoRefresh.label          "हमरा चेतावनी दिखाउ जे वेबसाइट पृष्ठकेँ पुनर्निर्देशित अथवा पुनर्लोड  कएनाइ  चाहैत अछि">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "ब्राउजिंग">
@@ -17,11 +17,11 @@
 <!ENTITY submitCrashes.accesskey         "S">
 
 
-<!ENTITY useAutoScroll.label             "स्वतः स्क्रालिंग क प्रयोग  करू ">
+<!ENTITY useAutoScroll.label             "स्वतः स्क्रालिंगक प्रयोग  करू ">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "सुगम स्क्रालिंग क प्रयोग  करू ">
+<!ENTITY useSmoothScrolling.label        "सुगम स्क्रालिंगक प्रयोग  करू ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY checkSpelling.label             "टाइप  कएनाइ  शुरू करब पर वर्तनी जाँचू">
+<!ENTITY checkSpelling.label             "टाइप  कएनाइ  शुरू करबा पर वर्तनी जाँचू">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "तंत्र पूर्वनिर्धारित">
@@ -34,11 +34,11 @@
 
 <!ENTITY connection.label                "कनेक्शन">
 
-<!ENTITY connectionDesc.label            "विन्यस्त करू जे  कहिना   &brandShortName; इंटरनेट सँ जुड़ता अछि">
+<!ENTITY connectionDesc.label            "विन्यस्त करू जे कहिना &brandShortName; इंटरनेट सँ जुड़ैत अछि">
 <!ENTITY connectionSettings.label        "सेटिंग…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "आफ़लाइन भंडार">
+<!ENTITY offlineStorage.label            "आफलाइन भंडार">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -48,7 +48,7 @@
 -->
 <!ENTITY useCacheBefore.label            "एतय तक प्रयोग  करू ">
 <!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "कैश क लेल MB स्थान">
+<!ENTITY useCacheAfter.label             "कैशक लेल MB स्थान">
 <!ENTITY clearCacheNow.label             "आब साफ  करू ">
 <!ENTITY clearCacheNow.accesskey         "C">
 
@@ -57,31 +57,31 @@
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableAddonsUpdate2.label       "सहयुक्ति">
 
-<!ENTITY autoCheck.label                 "एतय अद्यतन क लेल स्वतः जाँचू:">
+<!ENTITY autoCheck.label                 "एतय अद्यतनक लेल स्वतः जाँचू:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableSearchUpdate.label        "खोज इंजन">
 <!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "जखन &brandShortName; क अद्यतन पाया जाएत अछि:">
-<!ENTITY askMe.label                     "मुझसे पूछू जे हम क चाहता हूं">
+<!ENTITY whenUpdatesFound.label          "जखन &brandShortName; क अद्यतन पाओल जाएत अछि:">
+<!ENTITY askMe.label                     "हमरासँ पूछू जे हम की चाहैत छी">
 <!ENTITY askMe.accesskey                 "k">
 <!ENTITY modeAutomatic.label             "अद्यतन स्वतः डाउनलोड कए स्थापित  करू ">
 <!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "हमरा चेताउ  जँ  एकरासँ मेरी कोनो सहयुक्ति निष्क्रिय होती अछि">
+<!ENTITY modeAutoAddonWarn.label         "हमरा चेताउ जँ एकरासँ हमर कोनो सहयुक्ति निष्क्रिय होइछ">
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
-<!ENTITY updateHistory.label             "अद्यतन इतिहास देखाओलँ">
+<!ENTITY updateHistory.label             "अद्यतन इतिहास देखाउ">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY offlineNotify.label             "हमरा बताएँ जे कब वेबसाइट आफ़लाइन प्रयोग क लेल आँकड़ा जमा करब क लेल पूछता अछि">
+<!ENTITY offlineNotify.label             "हमरा बताउ जे कखन वेबसाइट आफलाइन प्रयोगक लेल आँकड़ा जमा करबाक लेल पूछैत अछि">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "अपवाद…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "निम्नलिखित वेबसाइट ने आफ़लाइन प्रयोग क लेल आँकड़ा जमा कएल अछि:">
+<!ENTITY offlineAppsList.label           "निम्नलिखित वेबसाइट आफलाइन प्रयोगक लेल आँकड़ा जमा कएने अछि:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "हटाउ…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "आफ़लाइन आँकड़ा हटाउ">
+<!ENTITY offlineAppRemove.confirm        "आफलाइन आँकड़ा हटाउ">
 
 <!ENTITY encryptionTab.label             "गोपन">
 
@@ -94,7 +94,7 @@
 <!ENTITY certSelection.description       "जखन एकटा सर्वर हमर निज प्रमाणपत्र क आग्रह करैत अछि:">
 <!ENTITY certs.auto                      "कोनो एकटा स्वतः चुनू">
 <!ENTITY certs.auto.accesskey            "l">
-<!ENTITY certs.ask                       "मुझसे  हरदम  पूछू">
+<!ENTITY certs.ask                       "हमरासँ हरदम पूछू">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "प्रमाणपत्र देखू">
 <!ENTITY viewCerts.accesskey             "s">

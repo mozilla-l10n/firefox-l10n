@@ -1,14 +1,14 @@
-<!ENTITY newWindowsAsTabs.label       "नए विंडो केँ बदले मे नव टैब मे खोलू">
+<!ENTITY newWindowsAsTabs.label       "नव विंडो केँ बदला मे नव टैब मे खोलू">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "हमरा चेताउ जखन कई टैब बन्न करैत हूँ">
+<!ENTITY warnCloseMultipleTabs.label  "हमरा चेताउ जखन कतेक टैब बन्न करैत छी">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "हमरा चेताउ जखन कई टैब क  खोललक  जएनाइ &brandShortName; केँ धीमा करैत हो">
+<!ENTITY warnOpenManyTabs.label       "हमरा चेताउ जखन कतेक टैबक  खोलनाइ &brandShortName; केँ धीमा करैत अछि">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label             "टैब पट्टी  हरदम  देखाओलँ">
+<!ENTITY showTabBar.label             "टैब पट्टी  हरदम  देखाउ">
 <!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label        "जखन हम नये टैब मे कड़ी खोलता हूँ, एहिमे तत्काल जाउ">
+<!ENTITY switchToNewTabs.label        "जखन हम नव टैब मे कड़ी खोलैत छी, एहिमे तुरत जाउ">
 <!ENTITY switchToNewTabs.accesskey    "s">
