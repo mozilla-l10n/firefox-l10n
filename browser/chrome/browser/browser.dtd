@@ -168,6 +168,7 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Complementos">
 <!ENTITY addons.accesskey "o">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "C">
@@ -178,6 +179,7 @@
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspeccionar">
+
 <!ENTITY inspectMenu.accesskey        "n">
 <!ENTITY inspectMenu.commandkey       "I">
 
