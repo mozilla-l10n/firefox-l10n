@@ -1,10 +1,10 @@
-<!ENTITY virtualFolderProperties.title "Pasgan luirg ùr air a shàbhaladh">
+<!ENTITY virtualFolderProperties.title "Pasgan airson lorg sàbhalaichte ùr">
 <!ENTITY name.label                 "Ainm:">
 <!ENTITY name.accesskey             "n">
 <!ENTITY description.label          "Cruthaich mar fho-phasgan de:">
 <!ENTITY description.accesskey      "C">
 
-<!ENTITY searchTermCaption.label "Rèitich na roghainnean luirg airson a' phasgain luirg seo a chaidh a shàbhaladh: ">
+<!ENTITY searchTermCaption.label "Rèitich na roghainnean luirg airson a' phasgain luirg shàbhalaichte seo: ">
 
 <!ENTITY folderSelectionCaption.label "Tagh na pasgain a thèid a rannsachadh: ">
 <!ENTITY chooseFoldersButton.label "Tagh…">
