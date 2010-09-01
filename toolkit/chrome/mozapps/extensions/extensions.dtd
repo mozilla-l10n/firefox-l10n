@@ -57,6 +57,8 @@
 <!ENTITY cmd.enableAddon.accesskey        "A">
 <!ENTITY cmd.disableAddon.label           "Désactiver">
 <!ENTITY cmd.disableAddon.accesskey       "D">
+<!ENTITY cmd.installAddon.label               "Installer">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label         "Supprimer">
 <!ENTITY cmd.uninstallAddon.accesskey     "S">
 <!ENTITY cmd.showPreferencesWin.label         "Options">
@@ -73,14 +75,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label             "Version">
-<!ENTITY detail.updated.label             "Mise à jour">
+<!ENTITY detail.lastupdated.label             "Dernière mise à jour">
 <!ENTITY detail.creator.label             "Développeur">
 <!ENTITY detail.homepage.label            "Page d'accueil">
 <!ENTITY detail.numberOfDownloads.label   "Téléchargements">
 
-<!ENTITY detail.updateAutomatically.label     "Mettre à jour automatiquement">
-<!ENTITY detail.updateAutomatically.accesskey "M">
-<!ENTITY detail.updateAutomatically.tooltip   "Mettre ce module à jour automatiquement dès qu'une mise à jour est disponible">
+<!ENTITY detail.contributions.description     "Le développeur de ce module demande que vous l'aidiez à assurer la poursuite de son développement en lui versant une petite contribution.">
+
+<!ENTITY detail.updateType                    "Mises à jour automatiques">
+<!ENTITY detail.updateAutomatic.label         "Activées">
+<!ENTITY detail.updateAutomatic.tooltip       "Installe automatiquement les mises à jour">
+<!ENTITY detail.updateManual.label            "Désactivées">
+<!ENTITY detail.updateManual.tooltip          "N'installe pas automatiquement les mises à jour">
+<!ENTITY detail.home                          "Page d'accueil">
+<!ENTITY detail.repository                    "Profil du module">
+<!ENTITY detail.size                          "Taille">
+
 <!ENTITY detail.checkForUpdates.label         "Vérifier si des mises à jour sont disponibles">
 <!ENTITY detail.checkForUpdates.accesskey     "V">
 <!ENTITY detail.checkForUpdates.tooltip       "Vérifier si des mises à jour sont disponibles pour ce module">
