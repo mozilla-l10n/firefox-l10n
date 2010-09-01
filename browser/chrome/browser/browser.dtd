@@ -582,5 +582,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  moveToGroup.accesskey              "Μ">
 <!ENTITY  moveToNewGroup.label               "Νέα ομάδα">
 
+<!ENTITY addons.commandkey            "A">
 
 
