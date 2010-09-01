@@ -67,6 +67,7 @@
 <!ENTITY consoleErrLine.label "Riga:">
 <!ENTITY consoleErrColumn.label "Colonna:">
 <!ENTITY contextOpenInNewTab.label "Apri in una nuova scheda">
+<!ENTITY contextSaveLink.label "Salva collegamento">
 <!ENTITY contextSaveImage.label "Salva immagine">
 <!ENTITY contextShareLink.label "Condividi collegamento">
 <!ENTITY contextShareImage.label "Condividi immagine">
