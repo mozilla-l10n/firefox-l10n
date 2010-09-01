@@ -137,6 +137,7 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Дополнения">
 <!ENTITY addons.accesskey "Д">
+<!ENTITY addons.commandkey "A">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
