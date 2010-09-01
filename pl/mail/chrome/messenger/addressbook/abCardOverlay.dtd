@@ -62,6 +62,9 @@
 <!ENTITY DisplayName.label          "Wyświetlaj jako:">
 <!ENTITY DisplayName.accesskey      "W">
 
+<!ENTITY preferDisplayName.label     "Używaj nazwy kontaktu z książki adresowej zamiast nazwy podanej w wiadomości">
+<!ENTITY preferDisplayName.accesskey "j">
+
 <!ENTITY NickName.label             "Pseudonim:">
 <!ENTITY NickName.accesskey         "u">
 <!ENTITY PrimaryEmail.label         "E-mail:">
