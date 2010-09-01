@@ -168,6 +168,7 @@ shortcut keys on Linux. -->
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Extras">
 <!ENTITY addons.accesskey "E">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label "Consola de erros">
 <!ENTITY errorConsoleCmd.accesskey "C">
