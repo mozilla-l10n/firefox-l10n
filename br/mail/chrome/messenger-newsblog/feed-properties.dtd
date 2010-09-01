@@ -1,0 +1,12 @@
+<!ENTITY window.title "Perzhioù lanv ar c'heleier">
+<!ENTITY feedFolder.label "Gwarediñ pennadoù al lanv e :">
+<!ENTITY feedFolder.accesskey "n">
+<!ENTITY feedLocation.label "URL al lanv : ">
+<!ENTITY feedLocation.accesskey "l">
+<!ENTITY choosethisfolder.label "diuz an teuliad-se">
+<!ENTITY quickMode.label "Diskouez krennad ar pennad e lec'h kargañ ar bajennad web">
+<!ENTITY quickMode.accesskey "h">
+<!ENTITY copyLinkCmd.label "Eilañ lec'hiadur an ere">
+<!ENTITY copyLinkCmd.accesskey "r">
+<!ENTITY pasteLinkCmd.label "Pegañ">
+<!ENTITY pasteLinkCmd.accesskey "P">

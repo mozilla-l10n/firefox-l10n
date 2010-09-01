@@ -1,0 +1,35 @@
+<!ENTITY messengerStartPage.label "Pajenn degemer &brandShortName;">
+<!ENTITY enableStartPage.label "Pa loc'h &brandShortName;, diskouez ar bajenn degemer war tachad ar gemennadenn">
+<!ENTITY enableStartPage.accesskey "l">
+<!ENTITY location.label "Lec'hiadur :">
+<!ENTITY location1.accesskey "e">
+<!ENTITY useDefault.label "Adlakaat ar re dre ziouer">
+<!ENTITY useDefault.accesskey "R">
+
+<!ENTITY bounceSystemDockIcon.label "Buhezañ an arlun klotañ">
+<!ENTITY bounceSystemDockIcon.accesskey "b">
+
+<!ENTITY newMessagesArrive.label "P'en em gav kemennadennoù nevez :">
+<!ENTITY playSound.label "Seniñ ur son">
+<!ENTITY playSound1.accesskey "s">
+<!ENTITY showAnimatedAlert.label "Diskouez ur c'hemenn evezhiañ">
+<!ENTITY showAnimatedAlert.accesskey "S">
+<!ENTITY customizeMailAlert.label "Personelaat…">
+<!ENTITY customizeMailAlert.accesskey "P">
+
+<!ENTITY play.label "Lenn">
+<!ENTITY play.accesskey "e">
+<!ENTITY systemsound.label "Son ar reizhiad dre ziouer evit ur postel nevez">
+<!ENTITY systemsoundMac.label "Son evezhiañ ar reizhiad ">
+<!ENTITY systemsoundMac.accesskey "r">
+<!ENTITY systemsound.accesskey "s">
+<!ENTITY customsound.label "Ober gant ar restr son da heul">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY browse.label "Furchal…">
+<!ENTITY browse.accesskey "F">
+
+<!ENTITY addonsMgr.label                  "Askouezhioù">
+<!ENTITY manageAddonsDescWin.label        "Kemmañ an dibarzhioù evit hoc'h askouezhioù">
+<!ENTITY manageAddonsDescUnix2.label      "Kemmañ ar gwellvezioù evit hoc'h askouezhioù">
+<!ENTITY manageAddons.label               "Ardeiñ an askouezhioù…">
+<!ENTITY manageAddons.accesskey           "A">

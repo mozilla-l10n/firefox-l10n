@@ -19,9 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
-   -   
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,20 +33,31 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY window.title "a-zivout : kefluniañ">
+
+<!-- about:config warning page -->
+<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Ho kwarant a vefe nullaet ganti !">
 <!ENTITY aboutWarningText.label "Mekaus evit stabilder, diogelroez ha digonusted an arload e c'hall bezañ kemmañ an arventennoù kempleshoc'h. Kendalc'hit mard oc'h sur n'emaoc'h ket oc'h ober ur fazi.">
 <!ENTITY aboutWarningButton.label "Evezhiek e vin, prometiñ a ran !">
 <!ENTITY aboutWarningCheckbox.label "Diskouez an evezh-mañ ar wech a zeu">
+
 <!ENTITY filterPrefs.label "Sil :">
 <!ENTITY filterPrefs.accesskey "i">
 <!ENTITY focusFilter.key "f">
+
+<!-- Columns -->
 <!ENTITY prefColumn.label "Anv ar gwellvezioù">
 <!ENTITY lockColumn.label "Stad">
 <!ENTITY typeColumn.label "Rizh">
 <!ENTITY valueColumn.label "Gwerzh">
-<!ENTITY prefColumnHeader.tooltip "Klikit evit rummañ">
-<!ENTITY columnChooser.tooltip "Klikit da ziuz ar bannoù da skrammañ">
+
+<!-- Tooltips -->
+<!ENTITY prefColumnHeader.tooltip "Klikit evit rummañ"> 
+<!ENTITY columnChooser.tooltip "Klikit da ziuz ar bannoù da skrammañ"> 
+
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Eilañ">
 <!ENTITY copyPref.accesskey "l">
@@ -58,7 +66,7 @@
 <!ENTITY copyValue.label "Eilañ ar werzh">
 <!ENTITY copyValue.accesskey "l">
 <!ENTITY modify.label "Daskemmañ">
-<!ENTITY modify.accesskey "M">
+<!ENTITY modify.accesskey "m">
 <!ENTITY toggle.label "Trec'haoliñ">
 <!ENTITY toggle.accesskey "r">
 <!ENTITY reset.label "Adderaouekaat">
@@ -68,6 +76,6 @@
 <!ENTITY string.label "Hedad">
 <!ENTITY string.accesskey "d">
 <!ENTITY integer.label "Kevan">
-<!ENTITY integer.accesskey "k">
+<!ENTITY integer.accesskey "K">
 <!ENTITY boolean.label "Boolead">
 <!ENTITY boolean.accesskey "B">

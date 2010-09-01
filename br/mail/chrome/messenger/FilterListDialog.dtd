@@ -1,0 +1,29 @@
+<!ENTITY window.title "Siloù ar c'hemennadennoù">
+<!ENTITY nameColumn.label "Anv ar sil">
+<!ENTITY activeColumn.label "Gweredekaet">
+<!ENTITY newButton.label "Nevez…">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Embann…">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "Dilemel">
+<!ENTITY deleteButton.accesskey "D">
+<!ENTITY reorderUpButton.label "Dilec'hiañ uheloc'h">
+<!ENTITY reorderUpButton.accesskey "u">
+<!ENTITY reorderDownButton.label "Dilec'hiañ izeloc'h">
+<!ENTITY reorderDownButton.accesskey "i">
+<!ENTITY filterHeader.label "Lañset eo ar siloù gweredekaet ent-emgefre diouzh an urzh da heul.">
+<!ENTITY filtersForPrefix.label "Siloù evit :">
+<!ENTITY filtersForPrefix.accesskey "s">
+<!ENTITY viewLogButton.label "Logaritm silañ">
+<!ENTITY viewLogButton.accesskey "T">
+<!ENTITY runFilters.label "Lañsañ diouzhtu">
+<!ENTITY runFilters.accesskey "d">
+<!ENTITY stopFilters.label "Paouez">
+<!ENTITY stopFilters.accesskey "P">
+<!ENTITY folderPickerPrefix.label "Lañsañ ar sil(où) diuzet war :">
+<!ENTITY folderPickerPrefix.accesskey "i">
+<!ENTITY choosethis.label "diuzañ an teuliad-se">
+<!ENTITY choosethisnewsserver.label "diuz dafariad ar strolladoù-keleier-mañ">
+<!ENTITY helpButton.label "Skoazell">
+<!ENTITY helpButton.accesskey "S">
+<!ENTITY closeCmd.key "W">

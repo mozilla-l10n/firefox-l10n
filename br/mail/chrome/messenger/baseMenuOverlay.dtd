@@ -1,0 +1,23 @@
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "Skoazell">
+<!ENTITY helpMenu.accesskey "S">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Skoazell">
+<!ENTITY helpMenuWin.accesskey "S">
+<!ENTITY releaseCmd.label "Notennoù handelv">
+<!ENTITY releaseCmd.accesskey "N">
+<!ENTITY whatsNewCmd.label "Petra zo nevez">
+<!ENTITY whatsNewCmd.accesskey "P">
+<!ENTITY featureConfiguratorCmd.label "Skoazeller enporzhiañ">
+<!ENTITY featureConfiguratorCmd.accesskey "e">
+<!ENTITY openHelp.label "Endalc'hadoù ar skoazell">
+<!ENTITY openHelp.accesskey "d">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "Skoazell &brandShortName;">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
+
+<!ENTITY updateCmd.label "Gwiriañ an hizivadurioù nevez…">
+<!ENTITY aboutMenuCmd.label "A-zivout &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "A">

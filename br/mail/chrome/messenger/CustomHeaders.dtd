@@ -1,0 +1,7 @@
+<!ENTITY window.title "Personelaat an talbennoù">
+<!ENTITY addButton.label "Ouzhpennañ">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "Dilemel">
+<!ENTITY removeButton.accesskey "D">
+<!ENTITY newMsgHeader.label "Talbenn ar gemennadenn nevez :">
+<!ENTITY newMsgHeader.accesskey "N">

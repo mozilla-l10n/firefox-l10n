@@ -1,0 +1,98 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label            "Embann ar bajenn">
+<!ENTITY windowTitleSettings.label    "Arventennoù ar brudañ">
+<!ENTITY publishTab.label             "Brudañ">
+<!ENTITY settingsTab.label            "Arventennoù">
+<!ENTITY publishButton.label          "Brudañ">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Anv al lec'hienn:">
+<!ENTITY siteList.accesskey           "A">
+<!ENTITY siteList.tooltip             "Dibabit da beseurt lec'hienn e fell deoc'h brudañ">
+<!ENTITY newSiteButton.label          "Lec'hienn nevez">
+<!ENTITY newSiteButton.accesskey      "L">
+<!ENTITY docDirList.label             "Kavlec'h al lec'hienn evit ar bajenn-mañ:">
+<!ENTITY docDirList.accesskey         "K">
+<!ENTITY docDirList.tooltip           "Dibabit pe bizskrivit anv ar c'havlec'h a-bell evit ar bajenn-mañ">
+<!ENTITY publishImgCheckbox.label     "Enderc'hel ar skeudennoù hag ar restroù all">
+<!ENTITY publishImgCheckbox.accesskey "E">
+<!ENTITY publishImgCheckbox.tooltip   "Brudañ ar skeudennoù hag ar restroù all meneget er bajenn-mañ">
+<!ENTITY sameLocationRadio.label      "Implijañ ar memes lec'hiadur evel ar bajenn">
+<!ENTITY sameLocationRadio.accesskey  "I">
+<!ENTITY sameLocationRadio.tooltip    "Embann ar restroù er memes lec'hiadur evel ar bajenn">
+<!ENTITY useSubdirRadio.label         "Implijañ iskavlec'h-mañ al lec'hienn:">
+<!ENTITY useSubdirRadio.accesskey     "m">
+<!ENTITY useSubdirRadio.tooltip       "Embann ar restroù er iskavlec'h a-bell diuzet">
+<!ENTITY otherDirList.tooltip         "Dibabit pe bizskrivit anv ar c'havlec'h a-bell da belec'h e vo brudet ar restroù">
+<!ENTITY pageTitle.label              "Titl ar bajenn:">
+<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.tooltip            "Bizskrivit un titl evit anavezout ar bajenn e-barzh ar prenestr pe ar sinedoù">
+<!ENTITY pageTitleExample.label       "skouer: &quot;Ma fajenn Web&quot;">
+<!ENTITY filename.label               "Anv ar restr:">
+<!ENTITY filename.accesskey           "n">
+<!ENTITY filename.tooltip             "Bizskrivit un anv evit ar restr-mañ, en ur enderc'hel '.html' evit ur bajenn web">
+<!ENTITY filenameExample.label        "skouer: &quot;mabajenn.html&quot;">
+<!ENTITY setDefaultButton.label       "Arverañ dre ziouer">
+<!ENTITY setDefaultButton.accesskey   "r">
+<!ENTITY removeButton.label           "Dilemel al lec'hienn">
+<!ENTITY removeButton.accesskey       "l">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Brudañ lec'hiennoù">
+<!ENTITY serverInfo.label             "Stlennoù an dafariad">
+<!ENTITY loginInfo.label              "Stlennoù kennask">
+<!ENTITY siteName.label               "Anv al lec'hienn:">
+<!ENTITY siteName.accesskey           "A">
+<!ENTITY siteName.tooltip             "Ul lesanv evit anavezout al lec'hienn-mañ (skouer: 'MaLec'hienn')">
+<!ENTITY siteUrl.label                "Chomlec'h evit ar brudañ (skouer: 'ftp://ftp.maisp.com/maanvarveriad'):">
+<!ENTITY siteUrl.accesskey            "C">
+<!ENTITY siteUrl.tooltip              "Ar chomlec'h FTP:// pe HTTP:// roet gant ho pourvezer servijoù ar genrouedad (ISP) pe ho herberc'hier lec'hienn">
+<!ENTITY browseUrl.label              "Chomlec'h HTTP ho pennbajenn (skouer: 'http://www.maisp.com/maanvarveriad'):">
+<!ENTITY browseUrl.accesskey          "l">
+<!ENTITY browseUrl.tooltip            "Ar chomlec'h HTTP:// ho penngavlec'h (n'endalc'hit ket an anvioù restr)">
+<!ENTITY username.label               "Anv arveriad:">
+<!ENTITY username.accesskey           "n">
+<!ENTITY username.tooltip             "An anv arveriad a implijit evit kennaskañ ouzh ho pourvezer servijoù ar genrouedad (ISP) pe ho herberc'hier lec'hienn">
+<!ENTITY password.label               "Ger-tremen:">
+<!ENTITY password.accesskey           "G">
+<!ENTITY password.tooltip             "Ar ger-tremen kevredet gant hoc'h anv arveriad">
+<!ENTITY savePassword.label           "Enrollañ ar ger-tremen">
+<!ENTITY savePassword.accesskey       "E">
+<!ENTITY savePassword.tooltip         "Diuzit an dra-mañ evit enrollañ diarvar ho ker-tremen gant an ardoer gerioù-tremen">

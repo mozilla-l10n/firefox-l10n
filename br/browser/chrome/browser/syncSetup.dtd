@@ -1,0 +1,98 @@
+<!ENTITY accountSetupTitle.label    "Kefluniañ &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Arveret hoc'h eus &syncBrand.fullName.label; a-raok ?">
+<!ENTITY setup.choicePage.new.label       "Ne 'm eus ket arveret &syncBrand.shortName.label; a-raok">
+<!ENTITY setup.choicePage.existing.label  "Arverañ a ran &syncBrand.shortName.label; war un urzhiataer all">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Kennask ouzh">
+<!ENTITY serverType.main.label      "Dafariad &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Arverañ un dafariad personelaet">
+<!ENTITY signIn.username.label      "Anv arveriad">
+<!ENTITY signIn.username.accesskey  "A">
+<!ENTITY signIn.password.label      "Ger-tremen">
+<!ENTITY signIn.password.accesskey  "G">
+<!ENTITY signIn.serverURL.label     "URL an dafariad">
+<!ENTITY signIn.serverURL.accesskey "U">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Krouiñ ur gont &syncBrand.shortName.label;">
+<!ENTITY setup.confirmPassword.label  "Kadarnaat ar ger-tremen">
+<!ENTITY setup.confirmPassword.accesskey  "K">
+<!ENTITY setup.emailAddress.label     "Chomlec'h postel">
+<!ENTITY setup.emailAddress.accesskey "C">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Asantiñ a ran d'an">
+<!ENTITY setup.tosAgree1.accesskey  "A">
+<!ENTITY setup.tosLink.label        "Divizoù arver">
+<!ENTITY setup.tosAgree2.label      "ha d'ar">
+<!ENTITY setup.ppLink.label         "Reolenn an diogelroez">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "a">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Roit ho frazenn guzh">
+<!ENTITY passphraseDesc.label         "Roit ur frazenn guzh mar plij. Arveret e vo evit enrinegañ holl ho roadennoù a-benn ma vint haezet ganeoc'h nemetken. Na gollit ket anezhi 'ta rak n'eo ket enrollet war an dafariad !">
+<!ENTITY passphraseDesc2.label        "Rankout a ra enderc'hel 12 arouezenn d'an nebeutañ ha bezañ disheñvel diouzh ker-tremen ho kont.">
+<!ENTITY passphraseEntry.label        "Frazenn guzh">
+<!ENTITY passphraseEntry.accesskey    "F">
+<!ENTITY passphraseConfirm.label      "Kadarnaat">
+<!ENTITY passphraseConfirm.accesskey  "K">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Gwellvezioù ar goubredañ merdeer">
+<!ENTITY syncComputerName.label       "Anv an urzhiataer :">
+<!ENTITY syncComputerName.accesskey   "A">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; : ">
+<!ENTITY syncModeSwitchDesc.accesskey ":">
+<!ENTITY syncEverything.label         "a c'houbredo pep tra">
+<!ENTITY customSync.label             "a arvero ma arventennoù personelaet">
+<!ENTITY syncEverythingDescription.label  "Goubredet e vo ho sinedoù, ho roll istor, ho kerioù-tremen, ho kwellvezioù hag hoc'h ivinelloù.">
+<!ENTITY syncItem.bookmarks.label     "Goubredañ ar sinedoù">
+<!ENTITY syncItem.bookmarks.accesskey "s">
+<!ENTITY syncItem.tabs.label          "Goubredañ an ivinelloù">
+<!ENTITY syncItem.tabs.accesskey      "i">
+<!ENTITY syncItem.history.label       "Goubredañ ar roll istor">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Goubredañ ar gerioù-tremen">
+<!ENTITY syncItem.passwords.accesskey "G">
+<!ENTITY syncItem.prefs.label         "Goubredañ ar gwellvezioù">
+<!ENTITY syncItem.prefs.accesskey     "v">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Kadarnait n'oc'h ket ur robot ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Roit titouroù ar gont">
+<!ENTITY resetPassword.label          "Adderaouekaat ar ger-tremen">
+<!ENTITY connecting.label             "O kennaskañ…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Roit ar frazenn guzh">
+<!ENTITY passphraseDesc3.label        "Roit ho frazenn guzh mar plij. Rankout a ra bezañ ar memes frazenn guzh hoc'h eus arveret evit enrinegañ ho roadennoù.">
+<!ENTITY passphraseHelp.label         "Ho frazenn guzh a endalc'h 12 arouezenn d'an nebeutañ ha disheñvel eo diouzh ho ker-tremen. Gallout a rit kavout ho frazenn guzh enrollet war hoc'h urzhiataer all en ur wiriañ ar gerioù-tremen enrollet e-barzh &quot;Diogelroez&quot;. Ma ne c'hellit ket mui kavout ar frazenn guzh dereat e c'hellit adderaouekaat anezhañ met kollet e vo ar roadennoù enrollet war an dafariad.">
+<!ENTITY changePassphrase.label       "Kemm ar frazenn guzh">
+<!ENTITY verifying.label              "O wiriañ…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Penaos e fell deoc'h deraouekaat ?">
+<!ENTITY choice.merge.main.label      "Toueziañ roadennoù an urzhiater-mañ ha roadennoù &syncBrand.shortName.label;">
+<!ENTITY choice.merge.recommend.label "Erbedet eo an dibarzh-mañ gant Mozilla evit an holl arveriaded.">
+<!ENTITY choice.client.main.label     "Amsaviñ an holl roadennoù war an urzhiataer-mañ gant ho roadennoù &syncBrand.fullName.label;">
+<!ENTITY choice.server.main.label     "Amsaviñ roadennoù an urzhiataerioù all gant ar roadennoù lec'hel">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Kadarnait ho tibab">
+<!ENTITY confirm.merge.label          "Dibabet hoc'h eus toueziañ ho roadennoù war an urzhiataer-mañ ha roadennoù hoc'h urzhiataerioù all en ur arverañ &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label         "Holl roadennoù &brandShortName; war an urzhiataer-mañ a vo dilamet, en o zouez :">
+<!ENTITY confirm.client.moreinfo.label "Eilet e vo goude ho roadennoù &syncBrand.fullName.label; war an urzhiater-mañ gant &brandShortName;.">
+<!ENTITY confirm.client.warning.label "DIWALLIT : Amsavet e vo an holl roadennoù eus &brandShortName; war an urzhiataer-mañ !">
+<!ENTITY confirm.server.label         "Amsavet e vo roadennoù an urzhiataerioù da-heul gant ho roadennoù lec'hel :">
+<!ENTITY confirm.server.warning.label "DIWALLIT : Ho roadennoù lec'hel a amsavo holl roadennoù &brandShortName; war an urzhiataerioù-mañ !">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Kefluniañ echu!">
+<!ENTITY setup.successPage.desc.label    "Gourc'hemennoù ! Kefluniet eo &brandShortName; evit goubredañ ho roadennoù ent-emgefreek. Soñjit e staliañ &syncBrand.fullName.label; war holl hoc'h urzhiataerioù. Gallout a rit kenderc'hel arverañ &brandShortName;.">

@@ -1,4 +1,5 @@
-<!ENTITY brandShortName "Firefox">
-<!ENTITY brandFullName "Mozilla Firefox">
-<!ENTITY vendorShortName "Mozilla">
-<!ENTITY logoCopyright "Firefox and the Firefox logos are trademarks of the Mozilla Foundation. All rights reserved.">
+<!ENTITY  brandShortName        "Firefox">
+<!ENTITY  brandFullName         "Mozilla Firefox">
+<!ENTITY  vendorShortName       "Mozilla">
+<!-- LOCALIZATION NOTE (trademarkInfo): note that there is no space between licenseLinkText (and its trailing licenseLinkSuffix entity) and this entity, so if your locale needs a space between sentences, you need to put it at the start of this entity. -->
+<!ENTITY  trademarkInfo         " Firefox hag al logoioù Firefox zo merkoù marilhet gant Mozilla Foundation. Un darn eus ar merkoù marilhet zo arveret hervez lañvaz The Charlton Company.">

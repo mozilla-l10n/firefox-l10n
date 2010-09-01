@@ -1,0 +1,28 @@
+<!ENTITY securityTitle.label "Diogelroez">
+<!ENTITY securityTab.label "Diogelroez">
+<!ENTITY securityHeading.label "A-benn kas ha degemer kemennadennoù sinet pe enrineget e vefe gwell deoc'h erspizañ un testeni sinañ niverel hag ivez un testeni enrinegañ.">
+<!ENTITY encryptionGroupTitle.label "Enrinegañ">
+<!ENTITY encryptionChoiceLabel.label "Arventennoù enrinegañ dre ziouer pa vez kaset kemennadennoù :">
+<!ENTITY neverEncrypt.label "Morse (na arverañ ket an enrinegañ)">
+<!ENTITY neverEncrypt.accesskey "M">
+<!ENTITY alwaysEncryptMessage.label "Azgoulennet (n'hall ket kas kemennadennoù anez ma vefe testenioù gant an holl zegemerion)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert.message "Arverañ an testeni-mañ evit enrinegañ &amp; ezrinegañ ar c'hemennadennoù kaset deoc'h :">
+<!ENTITY digitalSign.certificate.button "Diuzañ…">
+<!ENTITY digitalSign.certificate.accesskey "z">
+<!ENTITY digitalSign.certificate_clear.button "Skarzhañ">
+<!ENTITY digitalSign.certificate_clear.accesskey "S">
+<!ENTITY encryption.certificate.button "Diuzañ…">
+<!ENTITY encryption.certificate.accesskey "i">
+<!ENTITY encryption.certificate_clear.button "Skarzhañ">
+<!ENTITY encryption.certificate_clear.accesskey "k">
+<!ENTITY signingGroupTitle.label "Dinañ niverel">
+<!ENTITY signMessage.label "Dinañ ar c'hemennadennoù gant un doare niverel (dre ziouer)">
+<!ENTITY signMessage.accesskey "D">
+<!ENTITY signingCert.message "Arverañ an testeni-mañ evit sinañ gant un doare niverel ar c'hemennadennoù kaset ganeoc'h :">
+
+<!ENTITY certificates.label "Testenioù">
+<!ENTITY manageCerts.label "Gwelout an testenioù">
+<!ENTITY manageCerts.accesskey "w">
+<!ENTITY manageDevices.label "Trevnad diogelroez">
+<!ENTITY manageDevices.accesskey "o">

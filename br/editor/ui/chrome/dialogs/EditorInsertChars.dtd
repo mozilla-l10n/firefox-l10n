@@ -1,0 +1,13 @@
+<!ENTITY windowTitle.label "Ensoc'hañ un arouezenn">
+<!ENTITY category.label "Rummad">
+<!ENTITY letter.label "Lizherenn :">
+<!ENTITY letter.accessKey "L">
+<!ENTITY character.label "Arouezenn :">
+<!ENTITY character.accessKey "r">
+<!ENTITY accentUpper.label "Pennlizherenn dre dired">
+<!ENTITY accentLower.label "Lizherenn vihan dre dired">
+<!ENTITY otherUpper.label "Pennlizherenn all">
+<!ENTITY otherLower.label "Lizherenn vihan all">
+<!ENTITY commonSymbols.label "Arouezioù boutin">
+<!ENTITY insertButton.label "Ensoc'hañ">
+<!ENTITY closeButton.label "Serriñ">

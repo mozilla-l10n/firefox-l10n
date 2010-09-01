@@ -1,0 +1,32 @@
+<!ENTITY accountTitle.label "Arventennoù kont">
+<!ENTITY accountName.label "Anv kont :">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY identityTitle.label "Pivelezh dre ziouer">
+<!ENTITY identityDesc.label "Pep kont he deus titouroù dibar a vez lennet gant an dud pa resevont ho posteloù.">
+<!ENTITY name.label "Hoc'h anv :">
+<!ENTITY name.accesskey "a">
+<!ENTITY email.label "Postel :">
+<!ENTITY email.accesskey "E">
+<!ENTITY replyTo.label "Postel Respont-da :">
+<!ENTITY replyTo.accesskey "s">
+<!ENTITY organization.label "Aozadur :">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signatureText.label "Sinadur testenn:">
+<!ENTITY signatureText.accesskey "t">
+<!ENTITY signatureHtml.label "Implij HTML (e.g., &lt;b&gt;tev&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "l">
+<!ENTITY signatureFile.label "Kenstagañ ar sinadur diouzh ur restr (testenn, HTML, pe skeudenn):">
+<!ENTITY signatureFile.accesskey "t">
+
+<!ENTITY edit.label "Embann…">
+<!ENTITY choose.label "Diuzañ…">
+<!ENTITY choose.accesskey "D">
+<!ENTITY editVCard.label "Embann ar fichenn…">
+<!ENTITY editVCard.accesskey "e">
+<!ENTITY attachVCard.label "Kenstagañ ma vCard d'ar c'hemennadennoù">
+<!ENTITY attachVCard.accesskey "k">
+<!ENTITY manageIdentities.label "Ardeiñ ar pivelezhioù…">
+<!ENTITY manageIdentities.accesskey "p">
+<!ENTITY smtpName.label "Dafariad kas (SMTP):">
+<!ENTITY smtpName.accesskey "a">
+<!ENTITY smtpDefaultServer.label "Ober gant an dafariad dre-ziouer">

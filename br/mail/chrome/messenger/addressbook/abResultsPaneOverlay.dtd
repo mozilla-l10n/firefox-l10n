@@ -1,0 +1,32 @@
+<!ENTITY GeneratedName.label "Anv">
+<!ENTITY GeneratedName.accesskey "A">
+<!ENTITY PrimaryEmail.label "Postel">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY Company.label "Aozadur">
+<!ENTITY Company.accesskey "z">
+<!ENTITY _PhoneticName.label "Anv soniadel">
+<!ENTITY _PhoneticName.accesskey "o">
+<!ENTITY NickName.label "Moranv">
+<!ENTITY NickName.accesskey "o">
+<!ENTITY SecondEmail.label "Postel Ouzhpenn">
+<!ENTITY SecondEmail.accesskey "o">
+<!ENTITY Department.label "Departamant">
+<!ENTITY Department.accesskey "r">
+<!ENTITY JobTitle.label "Titl">
+<!ENTITY JobTitle.accesskey "T">
+<!ENTITY CellularNumber.label "Hezougell">
+<!ENTITY CellularNumber.accesskey "h">
+<!ENTITY PagerNumber.label "Pajenner">
+<!ENTITY PagerNumber.accesskey "P">
+<!ENTITY FaxNumber.label "Pelleiler">
+<!ENTITY FaxNumber.accesskey "l">
+<!ENTITY HomePhone.label "Pellgomz er gêr">
+<!ENTITY HomePhone.accesskey "g">
+<!ENTITY WorkPhone.label "Pellgomz Labour">
+<!ENTITY WorkPhone.accesskey "L">
+<!ENTITY ScreenName.label "Anv skramm">
+<!ENTITY ScreenName.accesskey "S">
+<!ENTITY sortAscending.label "War-gresk">
+<!ENTITY sortAscending.accesskey "W">
+<!ENTITY sortDescending.label "War-zigresk">
+<!ENTITY sortDescending.accesskey "W">

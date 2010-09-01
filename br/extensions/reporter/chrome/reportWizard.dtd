@@ -1,40 +1,58 @@
-<!ENTITY reportWizard.title "Kas keloù a-zivout ul lec'hienn troc'het">
-<!ENTITY privacyNotice.label "Diogelroez">
-<!ENTITY reportWizardPrivacy.description "Ar benveg-mañ a ro tu deoc'h da venegiñ d'an 'Evangelism Team' al lec'hiennoù na zeuont ket en-dro dereat gant &brandShortName;, pe lec'hiennoù o lazhañ &brandShortName;. Un doare eo evidoc'h a-benn reiñ skoazell deomp kinnig un arver plijus da arveriaded &brandShortName;. Mar plij, tremenit ur mareig evit lenn an destenn amañ dindan da zeskiñ penaos e vo implijet ar stlennoù dastumet ganeomp ha divizout mar kemerot perzh enni.">
-<!ENTITY reportWizardMustAgree.description "A-raok mont pelloc'h eo ret deoc'h asantiñ da reolennoù an diogelroez a-us.">
-<!ENTITY dontShowPrivacyStatement.label "Lennet hag asantet em eus da reolennoù an diogelroez a-us.">
-<!ENTITY dontShowPrivacyStatement.accesskey "I">
-<!ENTITY reportForm.label "Leuniañ an danevell">
-<!ENTITY reportForm.description "Kas keloù deomp diwar-benn ar gudenn ho peus bet :">
-<!ENTITY reportForm.url.title "URL al lec'hienn :">
-<!ENTITY reportForm.url.accesskey "U">
-<!ENTITY reportForm.behind_login.title "Gwarezet eo al lec'hienn gant ur ger-tremen">
-<!ENTITY reportForm.behind_login.accesskey "w">
-<!ENTITY reportForm.problem_type.title "Rizh ar gudenn :">
-<!ENTITY reportForm.problem_type.accesskey "R">
-<!ENTITY reportForm.problem_type.chooseOne.title "Dibab unan…">
-<!ENTITY reportForm.problem_type.item1.title "N'eo ket skoret ar merdeer">
-<!ENTITY reportForm.problem_type.item2.title "N'haller ket en em lugañ">
-<!ENTITY reportForm.problem_type.item3.title "Enlugellad ket diskouezet">
-<!ENTITY reportForm.problem_type.item4.title "Endalc'h all o vankañ">
-<!ENTITY reportForm.problem_type.item5.title "Emzalc'h fall">
-<!ENTITY reportForm.problem_type.item6.title "Neuz fall">
-<!ENTITY reportForm.problem_type.item7.title "Kudenn all">
-<!ENTITY reportForm.problem_type.item8.title "Divarregezh haeziñ">
-<!ENTITY reportForm.problem_type.item9.title "Fall eo an ec'hankad bet moullet">
-<!ENTITY reportForm.describe.title "Deskrivañ ar gudenn :">
-<!ENTITY reportForm.describe.accesskey "D">
-<!ENTITY reportForm.platform.title "Savenn :">
-<!ENTITY reportForm.product.title "Aozad :">
-<!ENTITY reportForm.gecko.title "Gecko:">
-<!ENTITY reportForm.useragent.title "Gwezhour an arveriad :">
-<!ENTITY reportForm.language.title "Yezh :">
-<!ENTITY reportForm.email.title "Postel (diret) :">
-<!ENTITY reportForm.email.accesskey "E">
-<!ENTITY reportForm.privacyPolicy.title "Reolenn an diogelroez">
-<!ENTITY reportForm.privacyPolicy.tooltip "Gwelout reolennoù an diogelroez">
-<!ENTITY reportResults.showDetail.title "Diskouez ar munudoù">
-<!ENTITY reportResults.showDetail.accesskey "S">
-<!ENTITY sendReport.label "O kas danevell">
-<!ENTITY sendReport.description "O kas danevell d'an dafariad…">
-<!ENTITY finish.label "Danevell kaset">
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "Kas keloù a-zivout ul lec'hienn troc'het">
+
+<!ENTITY privacyNotice.label                        "Diogelroez">
+<!ENTITY reportWizardPrivacy.description            "Ar benveg-mañ a ro tu deoc'h da venegiñ d'an 'Evangelism Team' al lec'hiennoù na zeuont ket en-dro dereat gant &brandShortName;, pe lec'hiennoù o lazhañ &brandShortName;. Un doare eo evidoc'h a-benn reiñ skoazell deomp kinnig un arver plijus da arveriaded &brandShortName;. Mar plij, tremenit ur mareig evit lenn an destenn amañ dindan da zeskiñ penaos e vo implijet ar stlennoù dastumet ganeomp ha divizout mar kemerot perzh enni.">
+<!ENTITY reportWizardMustAgree.description          "A-raok mont pelloc'h eo ret deoc'h asantiñ da reolennoù an diogelroez a-us.">
+
+<!ENTITY dontShowPrivacyStatement.label             "Lennet hag asantet em eus da reolennoù an diogelroez a-us.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "i">
+
+<!ENTITY reportForm.label                           "Leuniañ an danevell">
+
+<!ENTITY reportForm.description                     "Kas keloù deomp diwar-benn ar gudenn ho peus bet :">
+<!ENTITY reportForm.url.title                       "URL al lec'hienn :">
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!ENTITY reportForm.behind_login.title              "Gwarezet eo al lec'hienn gant ur ger-tremen"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "w">
+
+<!ENTITY reportForm.problem_type.title              "Rizh ar gudenn :">
+<!ENTITY reportForm.problem_type.accesskey          "R">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "Dibab unan…">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "N'eo ket skoret ar merdeer">
+<!ENTITY reportForm.problem_type.item2.title        "N'haller ket en em lugañ">
+<!ENTITY reportForm.problem_type.item3.title        "Enlugellad ket diskouezet">
+<!ENTITY reportForm.problem_type.item4.title        "Endalc'h all o vankañ">
+<!ENTITY reportForm.problem_type.item5.title        "Emzalc'h fall">
+<!ENTITY reportForm.problem_type.item6.title        "Neuz fall">
+<!ENTITY reportForm.problem_type.item7.title        "Kudenn all">
+<!ENTITY reportForm.problem_type.item8.title        "Divarregezh haeziñ">
+<!ENTITY reportForm.problem_type.item9.title        "Fall eo an ec'hankad bet moullet">
+
+<!ENTITY reportForm.describe.title                  "Deskrivañ ar gudenn :">
+<!ENTITY reportForm.describe.accesskey              "D">
+
+<!ENTITY reportForm.platform.title                  "Savenn :">
+<!ENTITY reportForm.product.title                   "Aozad :">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "Gwezhour an arveriad :">
+<!ENTITY reportForm.language.title                  "Yezh :">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Postel (diret) :">
+<!ENTITY reportForm.email.accesskey                 "e">
+
+<!ENTITY reportForm.privacyPolicy.title             "Reolenn an diogelroez">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Gwelout reolennoù an diogelroez">
+
+<!ENTITY reportResults.showDetail.title             "Diskouez ar munudoù">
+<!ENTITY reportResults.showDetail.accesskey         "s">
+
+<!ENTITY sendReport.label                           "O kas danevell">
+<!ENTITY sendReport.description                     "O kas danevell d'an dafariad…">
+
+<!ENTITY finish.label                               "Danevell kaset">

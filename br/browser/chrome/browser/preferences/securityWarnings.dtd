@@ -1,0 +1,12 @@
+<!ENTITY securityWarnings.title "Kemennoù diogelroez">
+<!ENTITY security.warn_when "Diskouez ur voest diviz p'emaon :">
+<!ENTITY security.warn_entering_secure.label "O vont da weladenniñ ur bajennad enrineget.">
+<!ENTITY security.warn_entering_secure.accesskey "v">
+<!ENTITY security.warn_entering_weak.label "O vont da welout ur bajennad a zo ganti enrinegañ a live izel.">
+<!ENTITY security.warn_entering_weak.accesskey "g">
+<!ENTITY security.warn_leaving_secure.label "O vont da guitaat ur bajennad evit unan nad eo ket enrineget.">
+<!ENTITY security.warn_leaving_secure.accesskey "g">
+<!ENTITY security.warn_submit_insecure.label "O vont da gas stlennoù ha n'int ket enrineget.">
+<!ENTITY security.warn_submit_insecure.accesskey "s">
+<!ENTITY security.warn_viewing_mixed.label "O vont da welout ur bajennad enrineget a zo ganti stlennoù nad int ket dienrineget.">
+<!ENTITY security.warn_viewing_mixed.accesskey "u">

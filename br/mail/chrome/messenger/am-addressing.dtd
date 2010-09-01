@@ -1,0 +1,34 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Aozañ &amp; chomlec'hiañ">
+<!ENTITY addressingGroupTitle.label "Chomlec'hiañ">
+<!ENTITY addressingText.label "Pa vez klasket chomlec'hioù :">
+<!ENTITY useGlobal.label "Ober gant gwellvezioù ma dafariad LDAP hollek evit ar gont-mañ">
+<!ENTITY useGlobal.accesskey "d">
+<!ENTITY editDirectories.label "Aozañ kavlec'hiadoù…">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY directories.label "Ober gant un dafariad LDAP disheñvel :">
+<!ENTITY directories.accesskey "d">
+<!ENTITY directoriesNone.label     "Tra ebet">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Aozadur">
+<!ENTITY useHtml.label "Aozañ ar c'hemennadennoù e mentrezh HTML">
+<!ENTITY useHtml.accesskey "z">
+<!ENTITY autoQuote.label "Menegiñ ent-emgefre ar gemennadenn a orin pa vez aozet ur respont">
+<!ENTITY autoQuote.accesskey "m">
+<!ENTITY then.label "Neuze,">
+<!ENTITY then.accesskey "z">
+<!ENTITY aboveQuote.label "lec'hiañ ma respont war-lein an destenn veneget">
+<!ENTITY belowQuote.label "Lec'hiañ ma respont a-zindan an destenn meneget">
+<!ENTITY selectAndQuote.label "Diuzañ an destenn meneget">
+<!ENTITY place.label "ha lec'hiañ ma sinadur">
+<!ENTITY place.accesskey "l">
+<!ENTITY belowText.label "a-zindan an destenn veneget (kuzuliet)">
+<!ENTITY aboveText.label "a-zindan ma respont (war-lein an destenn veneget)">
+<!ENTITY includeSigOnReply.label              "Ouzhpennañ ar sinadur evit ar respontoù">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Ouzhpennañ ar sinadur evit ar c'hemennadennoù treuzkaset">
+<!ENTITY includeSigOnForward.accesskey        "a">
+

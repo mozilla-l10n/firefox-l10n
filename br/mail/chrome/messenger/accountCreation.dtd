@@ -1,0 +1,78 @@
+<!ENTITY autoconfigWizard.title          "Krouiñ ur gont bostel">
+<!ENTITY name.label                      "Hoc'h anv:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Anv-bihan Anv">
+<!ENTITY name.text                       "Hoc'h anv, evel e vo diskwelet d'ar re all">
+<!ENTITY email.label                     "Chomlec'h:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "postel@skouer.bzh">
+<!ENTITY password.label                  "Ger-tremen:">
+<!ENTITY password.accesskey              "G">
+<!ENTITY password.emptytext              "Ger-tremen">
+<!ENTITY password.text                   "Diret, implijet evit kadarnaat an anv arveriad">
+
+<!ENTITY accountInformation.label        "Stlennoù ar gont">
+<!ENTITY username2.label                 "Anv arveriad:">
+<!ENTITY incoming.label                  "Dafariad degemer:">
+<!ENTITY outgoing.label                  "Dafariad kas:">
+<!ENTITY noEncryption.label              "Tra ebet">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Diraez an teuliadoù hag ar c'hemennadennoù diouzh meur a urzhiataer">
+<!ENTITY pop.description                 "POP - Pellgargañ an holl gemennadennoù war an urzhiataer-mañ, an teuliadoù zo lec'hel hepken">
+<!ENTITY recommended-appendix.label      "(recommended)">
+
+<!ENTITY manualSetup.label               "Kefluniad dornel">
+<!ENTITY manualSetup.accesskey           "K">
+<!ENTITY cancel.label                    "Nullañ">
+<!ENTITY cancel.accesskey                "N">
+<!ENTITY continue.label                  "Kenderc'hel">
+<!ENTITY continue.accesskey              "e">
+<!ENTITY startOver.label                 "Adkregiñ">
+<!ENTITY startOver.accesskey             "A">
+<!ENTITY stop.label                      "Paouez">
+<!ENTITY stop.accesskey                  "P">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Amprouiñ ar c'hefluniadur">
+<!ENTITY retest.accesskey                "m">
+<!ENTITY edit.label                      "Embann">
+<!ENTITY edit.accesskey                  "b">
+
+<!ENTITY rememberPassword.label          "Derc'hel soñj ar ger-tremen">
+<!ENTITY rememberPassword.accesskey      "r">
+
+<!ENTITY warning.label                   "Diwallit!">
+<!ENTITY incomingSettings.label          "Arventennoù an dafariad degemer:">
+<!ENTITY outgoingSettings.label          "Arventennoù an dafariad kas:">
+<!ENTITY technicaldetails.label          "Munudoù kalvezel">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Kompren a ran ar riskloù.">
+<!ENTITY confirmWarning.accesskey        "p">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Krouiñ ar gont">
+<!ENTITY createAccount.accesskey         "K">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Kemmañ an arventennoù">
+<!ENTITY changeSettings.accesskey        "a">
+
+<!ENTITY contactYourProvider.description "&brandShortName; a lezo deoc'h da gaout ho posteloù en ur implijañ an arventennoù-mañ. Koulskoude e rankfe deoc'h mont e darempred gant hoc'h ardoer pe ho pourchaser postel a-zivout ar c'hennaskoù direizh-mañ. Sellit ouzh ar FAQ Thunderbird evit kaout muioc'h a ditouroù.">
+
+<!ENTITY insecureServer.tooltip.title    "Diwallit! N'eo ket diogel an dafariad-mañ.">
+<!ENTITY insecureServer.tooltip.details  "Klikit war ar c'helc'h evit kaout muioc'h a ditouroù.">
+
+<!ENTITY insecureUnencrypted.description "Ho posteloù hag ho tilesa zo kaset hep bezañ enrineget. Rak se, ho ker-tremen (hag ho postel) a c'hell bezañ lennet aes gant un trede den. &brandShortName; a lezo deoc'h da gaout ho posteloù, met e rankfe deoc'h mont e darempred gant ho pourchaser postel evit kefluniañ an dafariad gant ur c'hennask diogel.">
+<!ENTITY insecureSelfSigned.description  "An dafariad a implij un testeni na c'hellomp ket kaout fiziañs enni, rak se ne c'hellomp ket bezañ sur n'emañ ket unan bennak o taspakañ an tremen etre &brandShortName; hag ho tafariad. &brandShortName; a lezo deoc'h da gaout ho posteloù, met e rankfe deoc'h mont e darempred gant ho pourchaser postel evit kefluniañ an dafariad gant un testeni fiziek">
+<!ENTITY secureServer.description        "Gourc'hemennoù! Diogel eo an dafariad-mañ.">

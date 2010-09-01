@@ -1,34 +1,41 @@
-<!ENTITY minimizeWindow.key "b">
-<!ENTITY minimizeWindow.label "Bihanaat">
-<!ENTITY bringAllToFront.label "Lakaat pep tra war ar rakleur">
-<!ENTITY zoomWindow.label "Zoum">
-<!ENTITY windowMenu.label "Prenestr">
-<!ENTITY helpMenu.label "Skoazell">
-<!ENTITY helpMenu.accesskey "S">
-<!ENTITY helpMenuWin.label "Skoazell">
-<!ENTITY helpMenuWin.accesskey "S">
-<!ENTITY aboutCmd.label "A-zivout &brandFullName;">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY minimizeWindow.key       "b">
+<!ENTITY minimizeWindow.label     "Bihanaat">
+<!ENTITY bringAllToFront.label    "Lakaat pep tra war ar rakleur">
+<!ENTITY zoomWindow.label         "Zoum">
+<!ENTITY windowMenu.label         "Prenestr">
+
+<!ENTITY helpMenu.label           "Skoazell"> 
+<!ENTITY helpMenu.accesskey       "S"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Skoazell"> 
+<!ENTITY helpMenuWin.accesskey    "S">
+<!ENTITY aboutProduct.label       "A-zivout &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "A">
 <!ENTITY productHelp.label        "Skoazell &brandShortName;">
 <!ENTITY productHelp.accesskey    "o">
-
-<!ENTITY helpForIEUsers.label "Evit arveriaded Internet Explorer">
+<!ENTITY helpForIEUsers.label     "Evit arveriaded Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpReleaseNotes.label "Notennoù an handelv">
-<!ENTITY helpReleaseNotes.accesskey "N">
+<!ENTITY helpReleaseNotes.label         "Notennoù an handelv">
+<!ENTITY helpReleaseNotes.accesskey     "N">
 
-<!ENTITY helpTroubleshooting.label      "Stlennoù disac'hadenn">
-<!ENTITY helpTroubleshooting.accesskey  "t">
+<!ENTITY helpTroubleshootingInfo.label      "Stlennoù disac'hadenn">
+<!ENTITY helpTroubleshootingInfo.accesskey  "t">
 
-<!ENTITY updateCmd.label "Gwiriañ an hizivadurioù…">
-<!ENTITY preferencesCmdMac.label "Ma gwellvezioù…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY servicesMenuMac.label " Gwazerezhioù">
-<!ENTITY hideThisAppCmdMac.label "Kuzhat &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "K">
-<!ENTITY hideOtherAppsCmdMac.label "Kuzhat ar re all">
+
+<!ENTITY updateCmd.label                "Gwiriañ an hizivadurioù…">
+
+<!ENTITY preferencesCmdMac.label        "Ma gwellvezioù…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          " Gwazerezhioù">
+
+<!ENTITY hideThisAppCmdMac.label        "Kuzhat &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "K">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Kuzhat ar re all">
 <!ENTITY hideOtherAppsCmdMac.commandkey "K">
-<!ENTITY showAllAppsCmdMac.label "Diskouez pep tra">
+
+<!ENTITY showAllAppsCmdMac.label        "Diskouez pep tra">

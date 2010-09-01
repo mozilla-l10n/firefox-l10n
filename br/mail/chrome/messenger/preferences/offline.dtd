@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title "Arventennoù ezlinenn">
+
+<!ENTITY textStartUp "Pa vez o loc'hañ :">
+<!ENTITY radioRememberPrevState.label "Derc'hel soñj eus ar stad enlinenn">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe.label "Goulenn ganin ar stad enlinenn gant al loc'hañ">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline.label "Loc'hañ enlinenn bepred">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Kas ar posteloù o c'hortoz pa 'z a da enlinenn ?">
+<!ENTITY radioAutoSend.label "Ya">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend.label "Ket">
+<!ENTITY radioNotSend.accesskey "K">
+<!ENTITY radioAskUnsent.label "Goulenn ganin">
+<!ENTITY radioAskUnsent.accesskey "G">
+<!ENTITY textGoingOffline "Pellgargañ ar c'hemennadennoù evit un arver ezlinenn pa 'z emañ o vont da ezlinenn ?">
+<!ENTITY radioAutoDownload.label "Ya">
+<!ENTITY radioAutoDownload.accesskey "Y">
+<!ENTITY radioNotDownload.label "Ket">
+<!ENTITY radioNotDownload.accesskey "K">
+<!ENTITY radioAskDownload.label "Goulenn ganin">
+<!ENTITY radioAskDownload.accesskey "G">

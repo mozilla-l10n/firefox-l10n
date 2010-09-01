@@ -1,0 +1,26 @@
+<!ENTITY pane.title "Testenioù-degemer">
+<!ENTITY useGlobalPrefs.label "Ober gant ma gwellvezioù hollek evit ardeiñ an testenioù-degemer">
+<!ENTITY useGlobalPrefs.accesskey "b">
+<!ENTITY useCustomPrefs.label "Personelaat an testenioù-degemer evit ar gont-mañ">
+<!ENTITY useCustomPrefs.accesskey "t">
+<!ENTITY requestReceipt.label "Atav azgoulenn un testeni-degemer pa gasan kemennadennoù">
+<!ENTITY requestReceipt.accesskey "z">
+<!ENTITY receiptArrive.label "P'en em gav un testeni-degemer :">
+<!ENTITY leaveIt.label "Leuskel anezhañ em boestad-lizheroù">
+<!ENTITY leaveIt.accesskey "I">
+<!ENTITY moveToSent.label "Dilec'hiañ hi em zeuliad &quot;Kaset&quot;">
+<!ENTITY moveToSent.accesskey "M">
+<!ENTITY requestMDN.label "Pa resevan un azgoulenn evit un testeni-degemer :">
+<!ENTITY returnSome.label "Aotren an testenioù-degemer evit kemennadennoù zo">
+<!ENTITY returnSome.accesskey "e">
+<!ENTITY never.label "Chom hep kas testeni-degemer atav">
+<!ENTITY never.accesskey "h">
+<!ENTITY notInToCc.label "Ma n'on ket e maezienn Da pe Cc ar gemennadenn :">
+<!ENTITY notInToCc.accesskey "T">
+<!ENTITY outsideDomain.label "Ma 'z eo ar c'hasour a-ziavaez ma domani :">
+<!ENTITY outsideDomain.accesskey "s">
+<!ENTITY otherCases.label "A-hend-all :">
+<!ENTITY otherCases.accesskey "a">
+<!ENTITY askMe.label "Goulenn ganin">
+<!ENTITY alwaysSend.label "Kas bepred">
+<!ENTITY neverSend.label "Chom hep kas atav">

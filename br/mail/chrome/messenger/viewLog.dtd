@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Kerzhlevr ar siloù">
+<!ENTITY viewLogInfo.text "Kerzhlevr ar siloù a zeskriv ar siloù bet arveret evit ar gont-mañ. Arverit ar voestad kevaskañ evit gweredekaat ar c'herzhlevr.">
+<!ENTITY clearLog.label "Skarzhañ ar c'herzhlevr">
+<!ENTITY clearLog.accesskey "k">
+<!ENTITY enableLog.label "Aotren kerzhlevr ar siloù">
+<!ENTITY enableLog.accesskey "E">
+<!ENTITY closeLog.label "Serriñ">
+<!ENTITY closeLog.accesskey "S">

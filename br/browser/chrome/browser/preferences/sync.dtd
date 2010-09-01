@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Kefluniañ &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "K">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; a ro tro deoc'h da haeziñ ho roll istor, ho sinedoù, ho kerioù-tremen hag hoc'h ivinelloù digor dre meur a urzhiataer pe trevnad.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Kont &syncBrand.fullName.label;">
+<!ENTITY currentUser.label            "Arveriad bremanel :">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Hizivaat">
+<!ENTITY resetPass.label              "Adderaouekaat">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Ardeiñ ar gont">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY changePassword.label         "Kemm ar ger-tremen">
+<!ENTITY changePassphrase.label       "Kemm ar frazenn guzh">
+<!ENTITY resetSync.label              "Adderaouekaat ar goubredañ">
+<!ENTITY differentAccount.label       "Arverañ ur gont disheñvel">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Goubredañ ar merdeer">
+<!ENTITY syncComputerName.label       "Anv an urzhiataer :">
+<!ENTITY syncComputerName.accesskey   "A">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; : ">
+<!ENTITY syncModeSwitchDesc.accesskey ":">
+<!ENTITY syncEverything.label         "a c'houbredo pep tra">
+<!ENTITY customSync.label             "a arvero ma arventennoù personelaet">
+<!ENTITY syncEverythingDescription.label  "Goubredet e vo ho sinedoù, ho roll istor, ho kerioù-tremen, ho kwellvezioù hag hoc'h ivinelloù.">
+<!ENTITY syncItem.bookmarks.label     "Goubredañ ar sinedoù">
+<!ENTITY syncItem.bookmarks.accesskey "G">
+<!ENTITY syncItem.tabs.label          "Goubredañ an ivinelloù">
+<!ENTITY syncItem.tabs.accesskey      "G">
+<!ENTITY syncItem.history.label       "Goubredañ ar roll istor">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Goubredañ ar gerioù-tremen">
+<!ENTITY syncItem.passwords.accesskey "G">
+<!ENTITY syncItem.prefs.label         "Goubredañ ar gwellvezioù">
+<!ENTITY syncItem.prefs.accesskey     "G">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Divizoù arver">
+<!ENTITY prefs.ppLink.label         "Reolenn an diogelroez">

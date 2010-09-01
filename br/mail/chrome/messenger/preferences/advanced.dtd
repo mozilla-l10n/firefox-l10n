@@ -1,0 +1,108 @@
+<!ENTITY itemGeneral.label "Hollek">
+<!ENTITY itemDisplay.label       "Lenn &amp; Skrammañ">
+<!ENTITY itemUpdate.label "Hizivaat">
+<!ENTITY itemNetworking.label "Rouedad &amp; Egor war ar gantenn">
+<!ENTITY itemCertificates.label "Testenioù">
+
+<!-- General Settings -->
+
+<!ENTITY enableGlodaSearch.label       "Gweredekaat ar c'hlask hag an ibiliañ hollek">
+<!ENTITY enableGlodaSearch.accesskey   "h">
+<!ENTITY systemIntegration.label       "Enframmadur reizhiad">
+<!ENTITY alwaysCheckDefault.label      "Gwiriañ bepred, pa loc'h ar goulev, ma'z eo &brandShortName; ho posteler dre ziouer">
+<!ENTITY alwaysCheckDefault.accesskey  "z">
+<!ENTITY searchIntegration.label       "Aotren &searchIntegration.engineName; da glask e-touez ar c'hemennadennoù">
+<!ENTITY searchIntegration.accesskey   "A">
+<!ENTITY checkNow.label                "Gwiriañ diouzhtu">
+<!ENTITY checkNow.accesskey            "d">
+<!ENTITY configEditDesc.label          "Kefluniadur kempleshoc'h">
+<!ENTITY configEdit.label              "Embanner kefluniañ…">
+<!ENTITY configEdit.accesskey          "E">
+<!ENTITY returnReceiptsInfo.label      "Despizañ penaos e dornatao &brandShortName; an testenioù degemer.">
+<!ENTITY showReturnReceipts.label      "Testenioù-degemer…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Lenn">
+<!ENTITY display.caption               "Skrammañ">
+<!ENTITY showCondensedAddresses.label  "Diskwel an anv evit an den eus ma c'harned chomlec'hioù nemetken">
+<!ENTITY showCondensedAddresses.accesskey "D">
+
+<!ENTITY autoMarkAsRead.label          "Merkañ ar c'hemennadennoù evel lennet ent-emgefreek">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Adalek ar skrammañ">
+<!ENTITY markAsReadNoDelay.accesskey   "s">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Goude">
+<!ENTITY markAsReadDelay.accesskey     "d">
+<!ENTITY secondsLabel.label            "a eilennoù">
+<!ENTITY openMsgIn.label               "Digeriñ ar c'hemennadennoù e-barzh:">
+<!ENTITY openMsgInNewTab.label         "Un ivinell nevez">
+<!ENTITY openMsgInNewTab.accesskey     "i">
+<!ENTITY reuseExpRadio0.label          "Ur prenestr kemennadenn nevez">
+<!ENTITY reuseExpRadio0.accesskey      "p">
+<!ENTITY reuseExpRadio1.label          "Ur prenestr kemennadenn digor">
+<!ENTITY reuseExpRadio1.accesskey      "d">
+<!ENTITY closeMsgWindowOnDelete.label  "Serrin ar prenestr kemennadenn goude an dilemel">
+<!ENTITY closeMsgWindowOnDelete.accesskey "S">
+
+<!-- Update -->
+<!ENTITY autoCheck.label "Gwiriañ an hizivadurioù nevez ent-emgefre bep :">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "e">
+<!ENTITY enableAddonsUpdate.label "Askouezhioù bet staliet">
+<!ENTITY enableAddonsUpdate.accesskey "t">
+<!ENTITY whenUpdatesFound.label "Ur wech kavet hizivadurioù eus &brandShortName;,">
+<!ENTITY modeAskMe.label "Goulenn ganin petra a fell din ober">
+<!ENTITY modeAskMe.accesskey "A">
+<!ENTITY modeAutomatic.label "Pellgargañ ent-emgefreek ha staliañ an hizivadur">
+<!ENTITY modeAutomatic.accesskey "d">
+<!ENTITY modeAutoAddonWarn.label "Kas keloù din hag-eñ e vo diweredekaet unan eus ma askouezhioù">
+<!ENTITY modeAutoAddonWarn.accesskey "-">
+<!ENTITY showUpdates.label "Diskouez istor an hizivadurioù">
+<!ENTITY showUpdates.accesskey "U">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Arventennoù…">
+<!ENTITY showSettings.accesskey        "A">
+<!ENTITY proxiesConfigure.label        "Despizañ penaos e kennasko &brandShortName; ouzh internet">
+<!ENTITY connectionsInfo.caption "Kennaskañ">
+<!ENTITY offlineInfo.caption "Ezlinenn">
+<!ENTITY offlineInfo.label "Kefluniañ an arventennoù ezlinenn">
+<!ENTITY showOffline.label "Ezlinenn…">
+<!ENTITY showOffline.accesskey "z">
+
+<!ENTITY Diskspace "Egor war ar gantenn">
+<!ENTITY offlineCompact.label "Koazhañ teuliadoù p'ez a o ment dreist da">
+<!ENTITY offlineCompact.accesskey "z">
+<!ENTITY kb.label "KE">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Arverañ betek">
+<!ENTITY useCacheBefore.accesskey        "r">
+<!ENTITY useCacheAfter.label             "Me a egor evit ar grubuilh">
+<!ENTITY clearCacheNow.label             "Skarzhañ diouzhtu">
+<!ENTITY clearCacheNow.accesskey         "S">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Pa vez goulennet ma zesteni personel gant un dafariad:">
+<!ENTITY certs.auto                      "Diuz unan ent-emgefre">
+<!ENTITY certs.auto.accesskey            "u">
+<!ENTITY certs.ask                       "Goulenn diganin bewech">
+<!ENTITY certs.ask.accesskey             "b">
+
+<!ENTITY viewCertificates.label "Gwelout an testenioù">
+<!ENTITY viewCertificates.accesskey "G">
+<!ENTITY viewCRLs.label "Rolloù dizorniañ">
+<!ENTITY viewCRLs.accesskey "r">
+<!ENTITY validation.label               "Gwiriadur">
+<!ENTITY validation.accesskey           "w">
+<!ENTITY viewSecurityDevices.label "Trevnadoù diogelroez">
+<!ENTITY viewSecurityDevices.accesskey "g">

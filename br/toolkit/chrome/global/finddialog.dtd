@@ -1,3 +1,5 @@
+<!-- extracted from finddialog.xul -->
+
 <!ENTITY findDialog.title "Klask war ar bajennad-mañ">
 <!ENTITY findField.label "Klask petra :">
 <!ENTITY findField.accesskey "k">

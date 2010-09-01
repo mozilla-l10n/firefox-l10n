@@ -1,5 +1,5 @@
-<!ENTITY window.title "Dibab un teuliad">
-<!ENTITY window.style "led : 36em; sav : 18em;">
-<!ENTITY moveTo.label "Dilec'hiañ betek ">
-<!ENTITY newFolderButton.label "Teuliad nevez">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY window.title              "Dibab un teuliad">
+<!ENTITY window.style              "led : 36em; sav : 18em;">
+<!ENTITY moveTo.label              "Dilec'hiañ betek ">
+<!ENTITY newFolderButton.label     "Teuliad nevez">
+<!ENTITY newFolderButton.accesskey "n">

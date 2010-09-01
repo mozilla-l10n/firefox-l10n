@@ -1,0 +1,77 @@
+<!ENTITY  fontsAndEncodingsDialog.title "Nodrezhoù &amp; Bonegadurioù">
+<!ENTITY  window.width "39em">
+<!ENTITY  window.macWidth "43em">
+<!ENTITY  window.unixWidth "41em">
+
+<!ENTITY  language.label "Nodrezhoù :">
+<!ENTITY  language.accesskey "r">
+
+<!ENTITY  size.label "Ment">
+<!ENTITY  proportionalSize.accesskey "e">
+<!ENTITY  sizeMono.accesskey                      "x">
+
+<!ENTITY  proportional.label "Kenfeuriek :">
+<!ENTITY  proportional.accesskey "n">
+
+<!ENTITY  serif.label "Serif:">
+<!ENTITY  serif.accesskey "s">
+<!ENTITY  sans-serif.label "Hep-serif:">
+<!ENTITY  sans-serif.accesskey "h">
+<!ENTITY  monospace.label "Unegor :">
+<!ENTITY  monospace.accesskey "n">
+
+<!ENTITY  font.langGroup.latin1 "Kornôg">
+<!ENTITY  font.langGroup.latin2 "Europat Kreiz">
+<!ENTITY  font.langGroup.japanese "Japaneg">
+<!ENTITY  font.langGroup.trad-chinese "Sinaeg hengounel (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese "Sinaeg eeunaet">
+<!ENTITY  font.langGroup.trad-chinese-hk "Sinaeg hengounel (Hong Kong)">
+<!ENTITY  font.langGroup.korean "Koreeg">
+<!ENTITY  font.langGroup.cyrillic "Kirilleg">
+<!ENTITY  font.langGroup.baltic "Balteg">
+<!ENTITY  font.langGroup.el "Gresianeg">
+<!ENTITY  font.langGroup.turkish "Turkeg">
+<!ENTITY  font.langGroup.unicode "Yezhoù all">
+<!ENTITY  font.langGroup.user-def "Despizet gant an arveriad">
+<!ENTITY  font.langGroup.thai "Thaieg">
+<!ENTITY  font.langGroup.hebrew "Hebraeg">
+<!ENTITY  font.langGroup.arabic "Arabeg">
+<!ENTITY  font.langGroup.devanagari "Devanagarieg">
+<!ENTITY  font.langGroup.tamil "Tamileg">
+<!ENTITY  font.langGroup.armenian "Armenian">
+<!ENTITY  font.langGroup.bengali "Bengalieg">
+<!ENTITY  font.langGroup.canadian "Sillabennaoueg Kanada unvanet">
+<!ENTITY  font.langGroup.ethiopic "Etiopeg">
+<!ENTITY  font.langGroup.georgian "Jorjianeg">
+<!ENTITY  font.langGroup.gujarati "Gujaratieg">
+<!ENTITY  font.langGroup.gurmukhi "Gurmukhieg">
+<!ENTITY  font.langGroup.khmer "Khmereg">
+<!ENTITY  font.langGroup.malayalam "Malayalameg">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Minimum font size:">
+<!ENTITY minSize.accesskey "z">
+<!ENTITY minSize.none "tra ebet">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label "Serif">
+<!ENTITY  useDefaultFontSansSerif.label "Hep Serif">
+
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Gwiriañ an nodrezh">
+<!ENTITY  useFixedWidthForPlainText.label         "Arverañ un nodrezh gant ul led digemmus evit ar c'hemennadennoù testenn">
+<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  useDocumentFonts.label "Aotren ar c'hemennadennoù da arverañ nodrezhoù all">
+<!ENTITY  useDocumentFonts.accesskey "o">
+
+<!-- Language settings -->
+<!ENTITY  sendDefaultCharset.label "Postel o vont er-maez :">
+<!ENTITY  sendDefaultCharset.accesskey "o">
+<!ENTITY  languagesTitle1.label "Bonegañ an arouezennoù">
+<!ENTITY  composingDescription.label "Arventennañ ar bonegañ dre ziouer evit kas ha degemer posteloù">
+
+<!ENTITY  viewDefaultCharsetList.label "Postel o tont e-barzh :">
+<!ENTITY  viewDefaultCharsetList.accesskey "s">
+<!ENTITY  replyInDefaultCharset2.label     "Mard eo posubl, arverañ ar bonegañ dre ziouer gant ar respontoù">
+<!ENTITY  replyInDefaultCharset2.accesskey "e">
+

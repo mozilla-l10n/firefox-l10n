@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Enframmadur reizhiad">
+<!ENTITY defaultClient.intro  "Arverañ &brandShortName; evel arval dre ziouer evit:">
+
+<!ENTITY email.label "Postel">
+<!ENTITY newsgroups.label "Strolladoù keleier">
+<!ENTITY feeds.label "Lanv">
+
+<!ENTITY checkOnStartup.label "Gwiriañ atav pa loc'h &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "a">
+
+<!ENTITY searchIntegration.label "Aotren &searchIntegration.engineName; da glask er c'hemennadennoù">
+<!ENTITY searchIntegration.accesskey "n">

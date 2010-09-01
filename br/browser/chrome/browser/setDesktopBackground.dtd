@@ -1,9 +1,9 @@
-<!ENTITY position.label "Lec'hiadur :">
-<!ENTITY tile.label "Teolenn">
-<!ENTITY center.label "Kreizañ">
-<!ENTITY stretch.label "Astenn">
-<!ENTITY preview.label "Alberz">
-<!ENTITY color.label "Liv :">
+<!ENTITY position.label             "Lec'hiadur :">
+<!ENTITY tile.label                 "Teolenn">
+<!ENTITY center.label               "Kreizañ">
+<!ENTITY stretch.label              "Astenn">
+<!ENTITY preview.label              "Alberz">
+<!ENTITY color.label                "Liv :">
 <!ENTITY setDesktopBackground.title "Kempenn drekleur ar burev">
-<!ENTITY openDesktopPrefs.label "Digeriñ ma gwellvezioù evit ar burev ">
-<!ENTITY closeWindow.key "w">
+<!ENTITY openDesktopPrefs.label     "Digeriñ ma gwellvezioù evit ar burev ">
+<!ENTITY closeWindow.key            "w">

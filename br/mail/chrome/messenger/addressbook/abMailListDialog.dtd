@@ -1,0 +1,12 @@
+<!ENTITY mailListWindow.title "Roll skignañ">
+<!ENTITY addToAddressBook.label "Ouzhpennañ da :">
+<!ENTITY ListName.label "Anv ar roll :">
+<!ENTITY ListNickName.label "Moranv ar roll :">
+<!ENTITY ListDescription.label "Deskrivadenn :">
+<!ENTITY AddressTitle.label "Roit posteloù da ouzhpennañ er roll-skignañ :">
+<!ENTITY UpButton.label "Dilec'hiañ d'ar c'hrec'h">
+<!ENTITY DownButton.label "Dilec'hiañ d'an diaz">
+<!ENTITY addToAddressBook.accesskey "O">
+<!ENTITY ListName.accesskey "L">
+<!ENTITY ListNickName.accesskey "N">
+<!ENTITY ListDescription.accesskey "e">

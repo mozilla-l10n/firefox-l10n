@@ -1,0 +1,42 @@
+<!ENTITY newDirectoryTitle.label "Perzhioù kavlec'hiad an dafariad">
+<!ENTITY directoryName.label "Anv :">
+<!ENTITY directoryName.accesskey "n">
+<!ENTITY directoryHostname.label "Anv ostiz :">
+<!ENTITY directoryHostname.accesskey "o">
+<!ENTITY directoryBaseDN.label "Bon DN :">
+<!ENTITY directoryBaseDN.accesskey "b">
+<!ENTITY findButton.label "Kavout">
+<!ENTITY findButton.accesskey "k">
+<!ENTITY directorySecure.label "Ober gant ur c'hennaskañ suraet (SSL)">
+<!ENTITY directorySecure.accesskey "O">
+<!ENTITY directoryLogin.label "Niv. Kav. da eren :">
+<!ENTITY directoryLogin.accesskey "i">
+<!ENTITY General.tab "Hollek">
+<!ENTITY Offline.tab "Ezlinenn">
+<!ENTITY Advanced.tab "Kempleshoc'h">
+<!ENTITY portNumber.label "Nv porzh :">
+<!ENTITY portNumber.accesskey "p">
+<!ENTITY searchFilter.label "Sil klask :">
+<!ENTITY searchFilter.accesskey "k">
+<!ENTITY scope.label "Ledad : ">
+<!ENTITY scope.accesskey "d">
+<!ENTITY scopeOneLevel.label "Ul live">
+<!ENTITY scopeOneLevel.accesskey "L">
+<!ENTITY scopeSubtree.label "Iswezenn">
+<!ENTITY scopeSubtree.accesskey "S">
+<!ENTITY return.label "Chom hep kas en-dro muioc'h a">
+<!ENTITY return.accesskey "r">
+<!ENTITY results.label "disoc'hoù">
+<!ENTITY offlineText.label "Un eilad lec'hel eus ho kavlec'hiad a c'hallit pellgargañ a-benn ma vo hegerz evit un arver pa viot o labourat ezlinenn.">
+<!ENTITY saslMechanism.label               "Hentenn gennask: ">
+<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslOff.label                     "Eeun">
+<!ENTITY saslOff.accesskey                 "E">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
+<!-- Localization note: this is here because the width of the dialog 
+     is determined by the width of the base DN box; and that is likely
+     to vary somewhat with the language.
+-->
+<!ENTITY newDirectoryWidth "36em">

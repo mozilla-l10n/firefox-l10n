@@ -1,0 +1,59 @@
+<!ENTITY itemJunk.label          "Lastez">
+<!ENTITY itemPhishing.label      "Postel c'hwibañ">
+<!ENTITY itemPasswords.label     "Gerioù-tremen">
+<!ENTITY itemAntiVirus.label     "Enep-viruzoù">
+<!ENTITY itemCookies.label       "Endalc'had Web">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Kefluniañ arventennoù ar posteloù lastez dre ziouer. Kefluniet e vez ur gont evit ar posteloù lastez e Arventennoù ar gont.">
+<!ENTITY manualMark.label "Pa verkan kemennadennoù evel lastez :">
+<!ENTITY manualMark.accesskey "v">
+<!ENTITY manualMarkModeMove.label "Dilec'hiañ anezho betek teuliad &quot;Lastez&quot; ar gont">
+<!ENTITY manualMarkModeMove.accesskey "i">
+<!ENTITY manualMarkModeDelete.label "Dilemel anezho">
+<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY markAsReadOnSpam.label "Merkañ evel bet lennet ar c'hemennadennoù despizet evel lastez">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableJunkLogging.label "Gweredekaat ar c'herzhlevr evit sil al lastez">
+<!ENTITY enableJunkLogging.accesskey "G">
+<!ENTITY openJunkLog.label "Diskwel ar c'herzhlevr">
+<!ENTITY openJunkLog.accesskey "s">
+<!ENTITY resetTrainingData.label "Adderaouekaat ar pleustriñ war ar roadennoù">
+<!ENTITY resetTrainingData.accesskey "A">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "Barrek eo &brandShortName; da zezrannañ kemennadennoù da gavout posteloù c'hwibañ dre glask an doareoù boutin arveret evit ho kwallbakañ.">
+<!ENTITY enablePhishingDetector1.label    "Lavar din hag-eñ emaon o lenn ur postel gant c'hwezh ar c'hwiberezh warnañ">
+<!ENTITY enablePhishingDetector1.accesskey "e">
+<!ENTITY useDownloadedList.label "Arverañ ur roll bet pellgarget eus posteloù stumm c'hwiberezh warno">
+<!ENTITY useDownloadedList.accesskey "U">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "Gallout a ra &brandShortName; derc'hel soñj eus ho kerioù-tremen evit holl ho kontoù.">
+<!ENTITY useMasterPassword.label        "Implijañ ur ger-tremen mestr">
+<!ENTITY useMasterPassword.accesskey    "I">
+<!ENTITY masterPassword.intro           "Pa vez implijet anezhañ e tiwall ar ger-tremen mestr holl ho kerioù-tremen - met ret eo deoc'h e reiñ ur wech dre estez.">
+<!ENTITY changeMasterPassword.label     "Kemmañ ar ger-tremen mestr…">
+<!ENTITY changeMasterPassword.accesskey "K">
+<!ENTITY savedPasswords.label           "Gerioù-tremen enrollet…">
+<!ENTITY savedPasswords.accesskey       "e">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "Gallout a ray &brandShortName; aesaat labour an enep-viruzoù da zielfennañ kemennadennoù ouzh ar viruzoù, a-raok ma vo gwaredet ar c'hemennadennoù war hoc'h urzhiataer.">
+<!ENTITY antiVirus.label      "Aotren an enep-viruzoù da lakaat en dispell ar c'hemennadennoù oc'h erruout.">
+<!ENTITY antiVirus.accesskey  "a">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; a ro tro deoc'h spisaat peseurt blogoù, lanvioù keleier, pe lec'hiennoù all zo aotret da blantañ toupinoù.">
+<!ENTITY acceptCookies.label            "Degemer an toupinoù adalek lec'hiennoù">
+<!ENTITY acceptCookies.accesskey        "D">
+<!ENTITY keepUntil.label                "Mirout betek:">
+<!ENTITY keepUntil.accesskey            "M">
+<!ENTITY expire.label                   "ez echuont">
+<!ENTITY close.label                    "ma serrin &brandShortName;">
+<!ENTITY askEachTime.label              "goulenn ganin bewech">
+<!ENTITY cookieExceptions.label         "Nemedennoù…">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "Diskwel an toupinoù…">
+<!ENTITY showCookies.accesskey          "S">
+

@@ -1,0 +1,8 @@
+<!ENTITY windowTitle.label "Ensoc'hañ HTML">
+<!ENTITY sourceEditField.label "Reiñ klavioù HTML ha testenn :">
+<!ENTITY example.label "Skouer :">
+<!ENTITY exampleOpenTag.label "&lt;i&gt;">
+<!ENTITY exampleCloseTag.label "&lt;/i&gt;">
+<!ENTITY exampleText.label "Demat deoc'h !">
+<!ENTITY insertButton.label "Ensoc'hañ">
+<!ENTITY insertButton.accesskey "E">

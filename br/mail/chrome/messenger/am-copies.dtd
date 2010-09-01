@@ -1,0 +1,40 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Eiladoù &amp; teuliadoù">
+<!ENTITY sendingPrefix.label "Pa vez kaset kemennadennoù, ober ent-emgefre :">
+<!ENTITY fccMailFolder.label "Eilañ e-barzh :">
+<!ENTITY fccMailFolder.accesskey "b">
+<!ENTITY fccReplyFollowsParent.label "Lakaat ar respontoù e teuliad ar c'hemennadennoù da vezañ respontet">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc ar chomlec'hioù posteloù da-heul :">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Chomlec'hioù disrannet gant virgulennoù">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc ar chomlec'hioù posteloù da-heul :">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.emptytext "Chomlec'hioù disrannet gant virgulennoù">
+<!ENTITY saveMessageDlg.label "Diskouez ar voestad kendiviz kadarnaat pa vez enrollet ar c'hemennadennoù">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!ENTITY sentFolderOn.label "Teuliad &quot;kaset&quot; e-barzh :">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "All :">
+<!ENTITY sentInOtherFolder.accesskey "a">
+<!ENTITY draftsFolderOn.label "Teuliad ar &quot;Brouilhedoù&quot; e-barzh :">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "All :">
+<!ENTITY draftInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "Teuliad &quot;Dielloù&quot; e-barzh :">
+<!ENTITY archivesFolderOn.accesskey "l">
+<!ENTITY archiveInOtherFolder.label "All :">
+<!ENTITY archiveInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Teuliad ar &quot;Patromoù&quot; e-barzh :">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "All :">
+<!ENTITY templateInOtherFolder.accesskey "A">
+<!ENTITY specialFoldersTitle.label "Brouilhedoù ha patromoù">
+<!ENTITY keepDrafts.label "Mirout brouilhedoù ar c'hemennadennoù e-barzh :">
+<!ENTITY keepArchives.label "Mirout dielloù ar c'hemennadennoù e-barzh :">
+<!ENTITY keepTempltes.label "Mirout patromoù ar c'hemennadennoù e-barzh :">

@@ -1,0 +1,100 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label "Perzhioù">
+<!ENTITY generalInfo.label "Titouroù hollek">
+<!ENTITY folderCharsetTab.label "Bonegañ an arouezennoù dre ziouer :">
+<!ENTITY folderCharsetTab.accesskey "E">
+<!ENTITY folderCharsetOverride.label "Seveniñ an arventennoù dre ziouer da bep kemennadennoù en teuliad-mañ (laosket e vo a-gostez ar c'hemennadennoù gant ur bonegañ arouezennoù personelaet pe gant an dinoiñ emgefre)">
+<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Adsevel menegva ar restr krenn">
+<!ENTITY folderRebuildSummaryFile2.label         "Dresañ an teuliad">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "D">
+<!ENTITY folderRebuildSummaryFile.explanation    "A-wechoù ar restr menegva an teuliad (.msf) a c'hell bezañ gwallet ha kemennadennoù a ya diwar wel pe kemennadennoù dilemet zo skrammet c'hoazh; dresañ an teuliad a c'hell reizhañ ar c'hudennoù-mañ.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Enderc'hel ar c'hemennadennoù eus an teuliad-mañ e-barzh disoc'hoù ar c'hlask hollek">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "n">
+
+<!ENTITY retention.label "Pennaennoù derc'hel">
+<!ENTITY retentionUseAccount.label  "Ober gant arventennoù ma gont">
+<!ENTITY retentionUseAccount.accesskey "O">
+<!ENTITY daysOld.label "a zeizioù zo">
+<!ENTITY message.label "kemennadennoù">
+<!ENTITY retentionCleanup.label "Evit adkavout egor kantenn ez eo posupl lemel kuit kemennadennoù kozh da vat">
+<!ENTITY retentionCleanupImap.label "Evit adkavout egor kantenn ez eo posupl lemel kuit kemennadennoù kozh da vat, an eiladoù lec'hel hag ar c'hemennadennoù a orin war an dafariad.">
+<!ENTITY retentionCleanupPop.label "Evit adkavout egor kantenn ez eo posupl lemel kuit kemennadennoù kozh da vat, hag ar c'hemennadennoù a orin war an dafariad ivez.">
+<!ENTITY retentionDeleteMsg.label "Dilemel ar c'hemennadennoù koshoc'h eget">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Chom hep dilemel kemennadennoù">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepRecent.label "Dilemel an holl anezho nemet an nevesañ">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Atav dilemel ar c'hemennadennoù bet lennet (mont dreist d'an arventennoù oad)">
+<!ENTITY retentionApplyToFlagged.label "Atav mirout ar c'hemennadennoù steredek">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+
+<!ENTITY folderSynchronizationTab.label          "Goubredañ">
+<!ENTITY folderCheckForNewMessages2.label         "Atav gwiriañ an teuliad-mañ pa vez degemeret kemennadennoù nevez">
+<!ENTITY folderCheckForNewMessages2.accesskey     "A">
+
+<!ENTITY offlineFolder.check.label "Diuzañ an teuliad-mañ evit un arver ezlinenn">
+<!ENTITY offlineFolder.check.accesskey "t">
+<!ENTITY offlineFolder.button.label "Pellgargañ diouzhtu">
+<!ENTITY offlineFolder.button.accesskey "D">
+
+<!ENTITY selectofflineNewsgroup.check.label "Diuzañ ar strollad-keleier-mañ evit un arver ezlinenn">
+<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY offlineNewsgroup.button.label "Pellgargañ diouzhtu">
+<!ENTITY offlineNewsgroup.button.accesskey "D">
+
+<!ENTITY folderProps.name.label "Anv :">
+<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.location.label              "Lec'hiadur :">
+<!ENTITY folderProps.location.accesskey          "L">
+
+<!ENTITY folderSharingTab.label "Eskemm">
+<!ENTITY privileges.button.label "Brientoù…">
+<!ENTITY privileges.button.accesskey "r">
+<!ENTITY permissionsDesc.label "An aotreoù da-heul ho peus :">
+<!ENTITY folderType.label "Rizh an teuliad :">
+<!ENTITY folderQuotaTab.label "Feur">
+<!ENTITY folderQuotaRoot.label "Gwrizhienn ar feur :">
+<!ENTITY folderQuotaUsage.label "En arver :">
+<!ENTITY folderQuotaStatus.label "Stad :">

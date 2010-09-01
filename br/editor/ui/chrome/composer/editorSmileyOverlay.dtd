@@ -1,0 +1,51 @@
+<!ENTITY insertSmiley.label "Fromlun">
+<!ENTITY insertSmiley.accesskey "m">
+<!ENTITY smiley1Cmd.label "Mousc'hoarzhiñ">
+<!ENTITY smiley1Cmd.accesskey "C">
+<!ENTITY smiley1Cmd.tooltip "Ensoc'hañ ur fromarlun">
+<!ENTITY smiley2Cmd.label "Krizañ e dal">
+<!ENTITY smiley2Cmd.accesskey "K">
+<!ENTITY smiley2Cmd.tooltip "Ensoc'hañ un dremm o krizañ e dal">
+<!ENTITY smiley3Cmd.label "Gwilc'hadenn">
+<!ENTITY smiley3Cmd.accesskey "L">
+<!ENTITY smiley3Cmd.tooltip "Ensoc'hañ un dremm o wilc'hañ">
+<!ENTITY smiley4Cmd.label "Tennañ teod">
+<!ENTITY smiley4Cmd.accesskey "T">
+<!ENTITY smiley4Cmd.tooltip "Ensoc'hañ un dremm o tennañ e deod">
+<!ENTITY smiley5Cmd.label "C'hoarzhin">
+<!ENTITY smiley5Cmd.accesskey "o">
+<!ENTITY smiley5Cmd.tooltip "Ensoc'hañ un dremm o c'hoarzhin">
+<!ENTITY smiley6Cmd.label "Lakaet diaes">
+<!ENTITY smiley6Cmd.accesskey "k">
+<!ENTITY smiley6Cmd.tooltip "Ensoc'hañ un dremm lakaet diaes">
+<!ENTITY smiley7Cmd.label "N'eo ket lakaet e soñj">
+<!ENTITY smiley7Cmd.accesskey "k">
+<!ENTITY smiley7Cmd.tooltip "Ensoc'hañ un dremm n'eo ket lakaet e soñj">
+<!ENTITY smiley8Cmd.label "Souezhadenn">
+<!ENTITY smiley8Cmd.accesskey "S">
+<!ENTITY smiley8Cmd.tooltip "Ensoc'hañ un dremm souezhet">
+<!ENTITY smiley9Cmd.label "Pokañ">
+<!ENTITY smiley9Cmd.accesskey "P">
+<!ENTITY smiley9Cmd.tooltip "Ensoc'hañ un dremm o pokat">
+<!ENTITY smiley10Cmd.label "Yudal">
+<!ENTITY smiley10Cmd.accesskey "Y">
+<!ENTITY smiley10Cmd.tooltip "Ensoc'hañ un dremm o huchal">
+<!ENTITY smiley11Cmd.label "Kool">
+<!ENTITY smiley11Cmd.accesskey "K">
+<!ENTITY smiley11Cmd.tooltip "Ensoc'hañ un dremm koul">
+<!ENTITY smiley12Cmd.label "Beg-arc'hant">
+<!ENTITY smiley12Cmd.accesskey "B">
+<!ENTITY smiley12Cmd.tooltip "Ensoc'hañ un dremm beg-arc'hant">
+<!ENTITY smiley13Cmd.label "Beg-troad">
+<!ENTITY smiley13Cmd.accesskey "B">
+<!ENTITY smiley13Cmd.tooltip "Ensoc'hañ un dremm e veg-troad">
+<!ENTITY smiley14Cmd.label "Divlam">
+<!ENTITY smiley14Cmd.accesskey "D">
+<!ENTITY smiley14Cmd.tooltip "Ensoc'hañ un dremm digablus">
+<!ENTITY smiley15Cmd.label "Gouelañ">
+<!ENTITY smiley15Cmd.accesskey "O">
+<!ENTITY smiley15Cmd.tooltip "Ensoc'hañ un dremm o ouelañ">
+<!ENTITY smiley16Cmd.label "Diweuz serr">
+<!ENTITY smiley16Cmd.accesskey "D">
+<!ENTITY smiley16Cmd.tooltip "Ensoc'hañ un dremm e ziweuz serr">
+<!ENTITY SmileButton.tooltip "Ensoc'hañ ur fromarlun">

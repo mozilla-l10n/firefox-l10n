@@ -1,0 +1,82 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Input Tag Properties Dialog.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY windowTitle.label "Perzhioù maeziennoù ar furmskrid">
+<!ENTITY windowTitleImage.label "Perzhioù skeudennoù ar furmskrid">
+
+<!ENTITY InputType.label "Rizh ar vaezienn">
+<!ENTITY InputType.accesskey "R">
+<!ENTITY text.value "Testenn">
+<!ENTITY password.value "Ger-tremen">
+<!ENTITY checkbox.value "Log da gevaskañ">
+<!ENTITY radio.value "Afell radio">
+<!ENTITY submit.value "Afell treuzkas">
+<!ENTITY reset.value "Afell adderaouekaat">
+<!ENTITY file.value "Restr">
+<!ENTITY hidden.value "Kuzh">
+<!ENTITY image.value "Skeudenn">
+<!ENTITY button.value "Afell">
+
+<!ENTITY InputSettings.label "Arventennoù ar vaezienn">
+<!ENTITY InputName.label "Anv ar vaezienn:">
+<!ENTITY InputName.accesskey "A">
+<!ENTITY GroupName.label "Anv ar strollad:">
+<!ENTITY GroupName.accesskey "A">
+<!ENTITY InputValue.label "Talvoud ar vaezienn:">
+<!ENTITY InputValue.accesskey "T">
+<!ENTITY InitialValue.label "Talvoud kentañ:">
+<!ENTITY InitialValue.accesskey "T">
+<!ENTITY InputChecked.label "Kevask da gentañ">
+<!ENTITY InputChecked.accesskey "e">
+<!ENTITY InputSelected.label "Diuz da gentañ">
+<!ENTITY InputSelected.accesskey "u">
+<!ENTITY InputReadOnly.label "Lenn hepken">
+<!ENTITY InputReadOnly.accesskey "n">
+<!ENTITY InputDisabled.label "Diweredekaet">
+<!ENTITY InputDisabled.accesskey "r">
+<!ENTITY tabIndex.label "Menegva taolennata:">
+<!ENTITY tabIndex.accesskey "g">
+<!ENTITY TextSize.label "Ment ar vaezienn:">
+<!ENTITY TextSize.accesskey "v">
+<!ENTITY TextLength.label "Hirder brasañ:">
+<!ENTITY TextLength.accesskey "H">
+<!ENTITY AccessKey.label "Stokell moned:">
+<!ENTITY AccessKey.accesskey "k">
+<!ENTITY Accept.label "Degemer ar rizhoù:">
+<!ENTITY Accept.accesskey "m">
+
+<!ENTITY ImageProperties.label "Perzhioù ar skeudenn…">
+<!ENTITY ImageProperties.accesskey "z">

@@ -1,0 +1,10 @@
+<!ENTITY pref.ldap.window.title "Dafariadoù evit ar c'havlec'hiad LDAP">
+<!ENTITY directories.label "Dafariad kavlec'hiad LDAP :">
+<!ENTITY directoriesText.label "Diuzañ un dafariad kavlec'hiad LDAP :">
+<!ENTITY directoriesText.accesskey "d">
+<!ENTITY addDirectory.label "Ouzhpennañ">
+<!ENTITY addDirectory.accesskey "O">
+<!ENTITY editDirectory.label "Embann">
+<!ENTITY editDirectory.accesskey "e">
+<!ENTITY deleteDirectory.label "Dilemel">
+<!ENTITY deleteDirectory.accesskey "D">

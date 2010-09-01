@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "Composer">
+<!ENTITY editing.label "Pajenn nevez">
+<!ENTITY toolbars.label "Barennoù ostilhoù">
+<!ENTITY publish.label "Brudañ">

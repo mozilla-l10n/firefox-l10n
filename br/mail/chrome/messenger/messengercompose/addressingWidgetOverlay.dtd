@@ -1,0 +1,6 @@
+<!ENTITY toAddr.label "Da :">
+<!ENTITY ccAddr.label "Cc :">
+<!ENTITY bccAddr.label "Bcc :">
+<!ENTITY replyAddr.label "Respont-da :">
+<!ENTITY newsgroupsAddr.label "Strollad-keleier :">
+<!ENTITY followupAddr.label "Kas en-dro-da :">

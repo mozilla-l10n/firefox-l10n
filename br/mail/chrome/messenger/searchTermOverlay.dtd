@@ -1,0 +1,10 @@
+<!ENTITY matchAll.label "Kenglotañ gant pep hini eus ar re da-heul">
+<!ENTITY matchAll.accesskey "a">
+<!ENTITY matchAny.label "Kenglotañ gant unan da nebeutañ eus ar re da-heul">
+<!ENTITY matchAny.accesskey "o">
+<!ENTITY matchAllMsgs.label "Kenglotañ gant an holl gemennadennoù">
+<!ENTITY matchAllMsgs.accesskey "m">
+<!ENTITY searchTermListAttributesFlexValue "4">
+<!ENTITY searchTermListOperatorsFlexValue "4">
+<!ENTITY searchTermListValueFlexValue "4">
+<!ENTITY searchTermListButtonsFlexValue "2">

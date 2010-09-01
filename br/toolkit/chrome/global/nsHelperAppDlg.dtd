@@ -1,0 +1,22 @@
+<!ENTITY caption.label "O tigeriñ #1">
+<!ENTITY intro.label "Ar restr &quot;#3&quot; zo he rizh #2 (#1), ha ne oar ket #4 penaos dornata restroù ar seurt-se. Emañ ar restr e :">
+<!ENTITY intro.noDesc.label "Ar restr &quot;#3&quot; zo he rizh #2, ha #4 ne oar ket penaos dornata ar rizh restr-mañ. Emañ ar restr-mañ e :">
+<!ENTITY intro.attachment.label "Atizet eo bet gant al lec'hienn ma vefe dornataet &quot;#3&quot; evel ur stagadenn. He rizh zo #2 (#1) hag emañ e :">
+<!ENTITY intro.attachment.noDesc.label "Atizet eo bet gant al lec'hienn ma vefe dornataet &quot;#3&quot; evel ur stagadenn. He rizh zo #2 hag emañ e :">
+<!ENTITY intro.sniffed.label "Dinoet eo bet gant #4 e oa moarvat ar restr &quot;#3&quot; he rizh #2 (#1). Emañ ar restr e :">
+<!ENTITY intro.sniffed.noDesc.label "Dinoet eo bet gant #4 e oa moarvat ar restr &quot;#3&quot; he rizh #2. Emañ ar restr e :">
+<!ENTITY prompt.label "Petra a vo graet gant #1 eus ar restr-mañ ?">
+<!ENTITY alwaysHandle.label "Seveniñ ar gwezhiadur-mañ atav pa vez dornataet restroù ar seurt-se">
+<!ENTITY alwaysHandle.accesskey "a">
+<!ENTITY saveToDisk.label "Enrollañ anezhi war ar gantenn">
+<!ENTITY saveToDisk.accesskey "a">
+<!ENTITY useSystemDefault.label "Digeriñ hi gant an arload dre ziouer (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Digeriñ hi gant an arload dre ziouer">
+<!ENTITY useSystemDefault.accesskey "o">
+<!ENTITY openUsing.label "Digeriñ hi gant">
+<!ENTITY openUsing.accesskey "d">
+<!ENTITY chooseApp.label "Diuz…">
+<!ENTITY chooseApp.accesskey "D">
+<!ENTITY chooseAppFilePickerTitle "Diuz an arload skoazell">
+<!ENTITY badApp "An arload ersipet ganeoc'h (&quot;#1&quot;) n'hall ket bezañ kavet. Gwiriit anv ar restr pe diuzit un arload all.">
+<!ENTITY badApp.title "Arload ket bet kavet ">

@@ -1,0 +1,11 @@
+<!ENTITY accountTitle.label "Arventennoù kont">
+<!ENTITY accountSettingsDesc.label "An titouroù da-heul a zo re ur gont dibar. N'eus anv ebet staget outi.">
+<!ENTITY accountName.label "Anv kont :">
+<!ENTITY accountName.accesskey "A">
+<!ENTITY messageStorage.label "Kadaviñ ar c'hemennadoù">
+<!ENTITY emptyTrashOnExit.label "Goullonderiñ ar gest en ur guitaat">
+<!ENTITY emptyTrashOnExit.accesskey "G">
+<!ENTITY localPath.label "Kavlec'hiad lec'hel:">
+<!ENTITY localFolderPicker.label "Diuzañ an teuliadoù lec'hel :">
+<!ENTITY browseFolder.label "Furchal…">
+<!ENTITY browseFolder.accesskey "F">

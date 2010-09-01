@@ -7,10 +7,6 @@
 #define bookmarks_title Sinedoù
 #define bookmarks_heading Sinedoù
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Kaout askouezhioù
-
 #define bookmarks_toolbarfolder Barren ostilhoù ar sinedoù
 #define bookmarks_toolbarfolder_description Ouzhpennit sinedoù en teuliad-mañ evit diskouez anezho er varren ostilhoù ar sinedoù
 
@@ -30,7 +26,7 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
-#define firefox_help Skoazell ha tutorialoù
+#define firefox_help Skoazell ha kelennskridoù
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
@@ -38,10 +34,10 @@
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
-#define firefox_community Kenober
+#define firefox_community Kemer perzh
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
-#define firefox_about A-zivout ac'hanomp
+# link title for http://en-US.www.mozilla.com/en-US/about/
+#define firefox_about Diwar hor penn
 
 #unfilter emptyLines

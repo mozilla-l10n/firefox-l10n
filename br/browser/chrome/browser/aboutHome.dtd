@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "Pennbajenn &brandFullName;">
+<!ENTITY abouthome.brandLogo.title "Logo &brandFullName;">
+
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!ENTITY abouthome.brandStart "Loc'hañ <span>&brandShortName;</span>">
+
+<!ENTITY abouthome.searchEngineLogo.title "Logo ar c'heflusker enklask">
+
+<!ENTITY abouthome.searchEngineButton.label "Klask">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Klask kempleshoc'h">
+<!ENTITY abouthome.searchEngineLinks.preferences "Gwellvezioù">
+
+<!ENTITY abouthome.aboutMozilla "A-zivout Mozilla">

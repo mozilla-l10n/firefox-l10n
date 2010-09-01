@@ -1,7 +1,15 @@
-<!ENTITY brandMotto "Mont en-dro war ar rouedad">
-<!ENTITY credit.thanks "Trugarekadurioù kalonekañ da">
-<!ENTITY credit.thanks2 "Trugarekadurioù kalonekañ d'hon">
+<!ENTITY brandMotto       "Mont en-dro war ar rouedad">
+<!ENTITY credit.thanks    "Trugarekadurioù kalonekañ da">
+
+<!ENTITY credit.thanks2       "Trugarekadurioù kalonekañ d'hon">
 <!ENTITY credit.contributors2 "perzhiaded">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
 <!ENTITY credit.translation "Korvigelloù an Drouizig">
-<!ENTITY credit.memory "E Koun">
+
+<!ENTITY credit.memory      "E Koun">
 <!ENTITY credit.poweredByGeckoReg "Startijennet gant Gecko&reg;">

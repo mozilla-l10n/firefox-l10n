@@ -1,0 +1,21 @@
+<!ENTITY accountTitle.label "Arventennoù kont">
+
+<!ENTITY biffStart.label "Gwiriañ ar pennadoù-skrid nevez bep">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "a vunutennoù">
+
+<!ENTITY loginAtStartup.label "Gwiriañ ar pennadoù-skrid nevez pa loc'h ar goulev">
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "Dre ziouer e vez diskouezet berradenn ar pennad-skrid kentoc'h eget kargañ ar bajennad Web">
+<!ENTITY useQuickMode.accesskey "B">
+
+<!ENTITY manageSubscriptions.label "Ardeiñ koumanantiñ…">
+<!ENTITY manageSubscriptions.accesskey "M">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogoù &amp; keleier">
+<!ENTITY feeds.wizardShortName "Lanvioù">
+<!ENTITY feeds.wizardLongName "Blogoù &amp; keleier">
+<!ENTITY feeds.wizardLongName.accesskey "B">
+

@@ -1,0 +1,7 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Kemennadenn">
+<!ENTITY newMessageCmd.accesskey "m">
+
+<!ENTITY  newContactCmd.label             "Darempred ar c'harned chomlec'hioù…">
+<!ENTITY  newContactCmd.accesskey         "C">

@@ -1,0 +1,53 @@
+<!ENTITY windowTitle.label "Perzhioù ar skeudenn">
+<!ENTITY pixelsPopup.value "a bikselioù">
+<!ENTITY locationEditField.label "Lec'hiadur ar skeudenn :">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "Biziata anv restr ar skeudenn pe he lec'hiadur">
+<!ENTITY title.label "Tun ar binvioù :">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip "An doareenn 'titl' mod html hag a skramm evel un tun eus ar binvioù">
+<!ENTITY altText.label "Testenn all :">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Biziata an destenn da skrammañ e lec'h ar skeudenn">
+<!ENTITY noAltText.label "Na arverañ un destenn all">
+<!ENTITY noAltText.accessKey "D">
+<!ENTITY previewBox.label "Alberz ar skeudenn">
+<!ENTITY actualSize.label "Ment vremanel :">
+<!ENTITY actualSizeRadio.label "Ment vremanel">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "Distreiñ da vent ar skeudenn vremanel">
+<!ENTITY customSizeRadio.label "Ment personelaet">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "Kemmañ ment ar skeudenn evel ma 'z eo skrammet war ar bajennad">
+<!ENTITY heightEditField.label "Sav :">
+<!ENTITY heightEditField.accessKey "a">
+<!ENTITY widthEditField.label "Led :">
+<!ENTITY widthEditField.accessKey "D">
+<!ENTITY constrainCheckbox.label "Destrizhañ">
+<!ENTITY constrainCheckbox.accessKey "r">
+<!ENTITY constrainCheckbox.tooltip "Mirout kenfeur neuz ar skeudenn">
+<!ENTITY imagemapBox.label "Kartenn skeudenn">
+<!ENTITY removeImageMapButton.label "Dilemel">
+<!ENTITY removeImageMapButton.accessKey "D">
+<!ENTITY editImageMapButton.label "Embann…">
+<!ENTITY editImageMapButton.tooltip "Krouiñ strolladoù ditouroù klikadus evit ar skeudenn-mañ">
+<!ENTITY alignment.label "Desteudañ an destenn ouzh ar skeudenn">
+<!ENTITY bottomPopup.value "En diaz">
+<!ENTITY topPopup.value "Betek al lein">
+<!ENTITY centerPopup.value "Er c'hreiz">
+<!ENTITY wrapRightPopup.value "Ambakañ d'an tu dehou">
+<!ENTITY wrapLeftPopup.value "Ambakañ d'an tu kleiz">
+<!ENTITY spacingBox.label "Oc'h esaouiñ">
+<!ENTITY leftRightEditField.label "Kleiz ha dehou :">
+<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY topBottomEditField.label "Krec'h ha diaz :">
+<!ENTITY topBottomEditField.accessKey "r">
+<!ENTITY borderEditField.label "Riblenn plaen :">
+<!ENTITY borderEditField.accessKey "B">
+<!ENTITY showImageLinkBorder.label "Diskouez ar riblenn tro dro d'ar skeudenn ereet">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY imageInputTab.label "Furmskrid">
+<!ENTITY imageLocationTab.label "Lec'hiadur">
+<!ENTITY imageDimensionsTab.label "Mentoù">
+<!ENTITY imageAppearanceTab.label "Neuz">
+<!ENTITY imageLinkTab.label "Ere">

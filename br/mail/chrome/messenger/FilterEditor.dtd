@@ -1,0 +1,42 @@
+<!ENTITY window.title "Reolennoù silañ">
+
+<!ENTITY filterName.label "Anv ar sil :">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Lastez">
+<!ENTITY notJunk.label "Prizius">
+
+<!ENTITY lowestPriorityCmd.label "Izellañ">
+<!ENTITY lowPriorityCmd.label "Izel">
+<!ENTITY normalPriorityCmd.label "Reizh">
+<!ENTITY highPriorityCmd.label "Uhel">
+<!ENTITY highestPriorityCmd.label "Uhelañ">
+
+<!ENTITY contextDesc.label "Arloañ ar sil pa vez:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Degemeret posteloù">
+<!ENTITY contextManual.label "Lañset dre zorn">
+<!ENTITY contextBoth.label "Degemeret posteloù pe Lañset dre zorn">
+<!ENTITY contextPostPlugin.label "Degemeret posteloù (goude rummadur)">
+<!ENTITY contextPostPluginBoth.label "Degemeret posteloù (goude rummadur) pe Lañset dre zorn">
+
+<!ENTITY filterActionDesc.label "Lañsañ ar gwezhioù da-heul :">
+<!ENTITY filterActionDesc.accesskey "o">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Dilec'hiañ ar gemennadenn etrezek">
+<!ENTITY copyMessage.label "Eilañ ar gemennadenn e">
+<!ENTITY forwardTo.label "Kas ar gemennadenn en-dro da">
+<!ENTITY replyWithTemplate.label "Respont gant ur patrom">
+<!ENTITY markMessageRead.label "Merkañ evel lennet">
+<!ENTITY markMessageStarred.label "Ouzhpennañ ur steredenn">
+<!ENTITY setPriority.label "Lakaat tevet da">
+<!ENTITY addTag.label "Kemennadenn gant ur merk">
+<!ENTITY setJunkScore.label 'Lakaat ar stad "Lastez" war :'>
+<!ENTITY deleteMessage.label "Dilemel ar gemennadenn">
+<!ENTITY deleteFromPOP.label "Lemel kuit diouzh an dafariad POP">
+<!ENTITY fetchFromPOP.label "Kerc'hat adalek an dafariad POP">
+<!ENTITY ignoreThread.label "Leuskel an neudennad a-gostez">
+<!ENTITY ignoreSubthread.label "Leuskel an isneudennad a-gostez">
+<!ENTITY watchThread.label "Sellout ouzh an neudennad">
+<!ENTITY stopExecution.label "Paouez erounezadur ar sil">

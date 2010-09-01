@@ -1,75 +1,124 @@
-<!ENTITY pageInfoWindow.width "425">
-<!ENTITY pageInfoWindow.height "470">
-<!ENTITY copy.key "C">
-<!ENTITY copy.label "Eilañ">
-<!ENTITY copy.accesskey "i">
-<!ENTITY selectall.key "A">
-<!ENTITY selectall.label "Diuz pep tra">
-<!ENTITY selectall.accesskey "A">
-<!ENTITY closeWindow.key "w">
-<!ENTITY generalTab "Hollek">
-<!ENTITY generalTab.accesskey "o">
-<!ENTITY generalURL "Chomlec'h :">
-<!ENTITY generalType "Rizh :">
-<!ENTITY generalMode "Mod Neuz :">
-<!ENTITY generalSize "Ment :">
-<!ENTITY generalReferrer "URL bukenn :">
-<!ENTITY generalSource "Tarzh ar grubuilh :">
-<!ENTITY generalModified "Daskemmet :">
-<!ENTITY generalEncoding "Bonegañ :">
-<!ENTITY generalMetaName "Anv ">
-<!ENTITY generalMetaContent "Endalc'had">
-<!ENTITY generalSecurityDetails "Munudoù">
-<!ENTITY generalSecurityDetails.accesskey "M">
-<!ENTITY mediaTab "Media">
-<!ENTITY mediaTab.accesskey "M">
-<!ENTITY mediaLocation "Lec'hiadur :">
-<!ENTITY mediaText "Testenn kevreet :">
-<!ENTITY mediaAltHeader "Testenn bebeilet">
-<!ENTITY mediaAddress "Chomlec'h">
-<!ENTITY mediaType "Rizh">
-<!ENTITY mediaSize "Ment">
-<!ENTITY mediaCount "Kont">
-<!ENTITY mediaDimension "Mentoù :">
-<!ENTITY mediaLongdesc "Deskrivadenn gemplezh :">
-<!ENTITY mediaBlockImage.accesskey "B">
-<!ENTITY mediaSaveAs "Enrollañ dindan …">
-<!ENTITY mediaSaveAs.accesskey "n">
-<!ENTITY mediaSaveAs2.accesskey "e">
-<!ENTITY mediaPreview "Alberz ar media :">
-<!ENTITY feedTab "Lanvioù">
-<!ENTITY feedTab.accesskey "n">
-<!ENTITY feedSubscribe "En em enrollañ">
-<!ENTITY feedSubscribe.accesskey "e">
-<!ENTITY permTab "Aotreoù">
-<!ENTITY permTab.accesskey "t">
-<!ENTITY permUseDefault "Arverañ an arventennoù dre ziouer">
-<!ENTITY permAskAlways "Goulenn bewech">
-<!ENTITY permAllow "Aotren">
-<!ENTITY permAllowSession "Aotren evit an estez">
-<!ENTITY permBlock "Herzel">
-<!ENTITY permissionsFor "Aotreoù evit :">
-<!ENTITY permImage "Kargañ ar skeudennoù">
-<!ENTITY permPopup "Digeriñ un diflugell">
-<!ENTITY permCookie "Arventenniñ an toupinoù">
-<!ENTITY permInstall "Staliañ askouezhioù pe neuzioù">
-<!ENTITY permGeo "Rannañ lec'hadur">
-<!ENTITY securityTab "Diogelroez">
-<!ENTITY securityTab.accesskey "g">
-<!ENTITY securityHeader "Stlennoù a-fet diogelroez evit ar bajennad-mañ">
-<!ENTITY securityView.certView "Gwelout an testeni">
-<!ENTITY securityView.accesskey "V">
-<!ENTITY securityView.unknown "Dianav">
-<!ENTITY securityView.identity.header "Pivelezh al lec'hienn internet">
-<!ENTITY securityView.identity.owner "Perc'henner : ">
-<!ENTITY securityView.identity.domain "Lec'hienn internet :">
-<!ENTITY securityView.identity.verifier "Gwiriet gant :">
-<!ENTITY securityView.privacy.header "Buhez prevez &amp; Roll istor">
-<!ENTITY securityView.privacy.history "Ha gweladennet em befe al lec'hienn-mañ a-raok hiziv ?">
-<!ENTITY securityView.privacy.cookies "Hag al lec'hienn-mañ a vefe o kadaviñ roadennoù (toupinoù) war ma urzhiataer ?">
-<!ENTITY securityView.privacy.viewCookies "Gwelout an toupinoù">
-<!ENTITY securityView.privacy.viewCookies.accessKey "w">
-<!ENTITY securityView.privacy.passwords "Ur ger-tremen am eus enrollet evit al lec'hienn-mañ ?">
-<!ENTITY securityView.privacy.viewPasswords "Gwelout ar gerioù-tremen bet enrollet">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "w">
-<!ENTITY securityView.technical.header "Munudoù kalvezel">
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "425">
+<!ENTITY  pageInfoWindow.height "470">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Eilañ">
+<!ENTITY  copy.accesskey        "i">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Diuz pep tra">
+<!ENTITY  selectall.accesskey   "a">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Hollek">
+<!ENTITY  generalTab.accesskey  "o">
+<!ENTITY  generalURL            "Chomlec'h :">
+<!ENTITY  generalType           "Rizh :">
+<!ENTITY  generalMode           "Mod Neuz :">
+<!ENTITY  generalSize           "Ment :">
+<!ENTITY  generalReferrer       "URL bukenn :">
+<!ENTITY  generalSource         "Tarzh ar grubuilh :">
+<!ENTITY  generalModified       "Daskemmet :">
+<!ENTITY  generalEncoding       "Bonegañ :">
+<!ENTITY  generalMetaName       "Anv ">
+<!ENTITY  generalMetaContent    "Endalc'had">
+<!ENTITY  generalSecurityDetails   "Munudoù">
+<!ENTITY  generalSecurityDetails.accesskey "M">
+
+<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Lec'hiadur :">
+<!ENTITY  mediaText             "Testenn kevreet :">
+<!ENTITY  mediaAltHeader        "Testenn bebeilet">
+<!ENTITY  mediaAddress          "Chomlec'h">
+<!ENTITY  mediaType             "Rizh">
+<!ENTITY  mediaSize             "Ment">
+<!ENTITY  mediaCount            "Kont">
+<!ENTITY  mediaDimension        "Mentoù :">
+<!ENTITY  mediaLongdesc         "Deskrivadenn gemplezh :">
+<!ENTITY  mediaBlockImage.accesskey "H">
+<!ENTITY  mediaSaveAs           "Enrollañ dindan …">
+<!ENTITY  mediaSaveAs.accesskey "n">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Alberz ar media :">
+
+<!ENTITY  feedTab               "Lanvioù">
+<!ENTITY  feedTab.accesskey     "n">
+<!ENTITY  feedSubscribe         "En em enrollañ">
+<!ENTITY  feedSubscribe.accesskey "e">
+
+<!ENTITY  permTab               "Aotreoù">
+<!ENTITY  permTab.accesskey     "t">
+<!ENTITY  permUseDefault        "Arverañ an arventennoù dre ziouer">
+<!ENTITY  permAskAlways         "Goulenn bewech">
+<!ENTITY  permAllow             "Aotren">
+<!ENTITY  permAllowSession      "Aotren evit an estez">
+<!ENTITY  permBlock             "Herzel">
+<!ENTITY  permissionsFor        "Aotreoù evit :">
+<!ENTITY  permImage             "Kargañ ar skeudennoù">
+<!ENTITY  permPopup             "Digeriñ un diflugell">
+<!ENTITY  permCookie            "Arventenniñ an toupinoù">
+<!ENTITY  permInstall           "Staliañ askouezhioù pe neuzioù">
+<!ENTITY  permGeo               "Rannañ ho lec'hiadur">
+
+<!ENTITY  securityTab           "Diogelroez">
+<!ENTITY  securityTab.accesskey "g">
+<!ENTITY  securityHeader        "Stlennoù a-fet diogelroez evit ar bajennad-mañ">
+<!ENTITY  securityView.certView "Gwelout an testeni">
+<!ENTITY  securityView.accesskey "t">
+<!ENTITY  securityView.unknown   "Dianav">
+
+
+<!ENTITY  securityView.identity.header   "Pivelezh al lec'hienn internet">
+<!ENTITY  securityView.identity.owner    "Perc'henner : ">
+<!ENTITY  securityView.identity.domain   "Lec'hienn internet :">
+<!ENTITY  securityView.identity.verifier "Gwiriet gant :">
+
+<!ENTITY  securityView.privacy.header                   "Buhez prevez &amp; Roll istor">
+<!ENTITY  securityView.privacy.history                  "Ha gweladennet em befe al lec'hienn-mañ a-raok hiziv ?">
+<!ENTITY  securityView.privacy.cookies                  "Hag al lec'hienn-mañ a vefe o kadaviñ roadennoù (toupinoù) war ma urzhiataer ?">
+<!ENTITY  securityView.privacy.viewCookies              "Gwelout an toupinoù">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "o">
+<!ENTITY  securityView.privacy.passwords                "Ur ger-tremen am eus enrollet evit al lec'hienn-mañ ?">
+<!ENTITY  securityView.privacy.viewPasswords            "Gwelout ar gerioù-tremen bet enrollet">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "g">
+
+<!ENTITY  securityView.technical.header                 "Munudoù kalvezel">

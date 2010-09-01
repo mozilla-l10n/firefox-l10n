@@ -1,0 +1,17 @@
+<!ENTITY aboutDialog.title "A-zivout &brandShortName;">
+<!ENTITY aboutButton.label      "&lt; War-gil">
+<!ENTITY aboutButton.accesskey  "B">
+<!ENTITY aboutVersion "handelv">
+
+<!ENTITY aboutMenu.label        "A-zivout">
+<!ENTITY aboutMenu.accesskey    "A">
+<!ENTITY aboutCredits.label     "Daveoù">
+<!ENTITY aboutCredits.accesskey "D">
+<!ENTITY aboutRights.label      "Ho kwirioù">
+<!ENTITY aboutRights.accesskey  "H">
+<!ENTITY aboutContributors.label "Kenaozerien">
+<!ENTITY aboutContributors.accesskey "K">
+<!ENTITY aboutLicense.label      "Lañvaz">
+<!ENTITY aboutLicense.accesskey  "o">
+
+<!ENTITY cmdCloseMac.commandKey "w">

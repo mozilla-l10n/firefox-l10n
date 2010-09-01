@@ -1,0 +1,13 @@
+<!ENTITY windowTitle.label "Geriadur personel">
+<!ENTITY wordEditField.label "Ger nevez :">
+<!ENTITY wordEditField.accessKey "N">
+<!ENTITY AddButton.label "Ouzhpennañ">
+<!ENTITY AddButton.accessKey "A">
+<!ENTITY DictionaryList.label "Gerioù er geriadur :">
+<!ENTITY DictionaryList.accessKey "e">
+<!ENTITY ReplaceButton.label "Amsaviñ">
+<!ENTITY ReplaceButton.accessKey "s">
+<!ENTITY RemoveButton.label "Dilemel">
+<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY CloseButton.label "Serriñ">
+<!ENTITY CloseButton.accessKey "S">
