@@ -6,10 +6,10 @@
 <!ENTITY fccReplyFollowsParent.accesskey "m">
 <!ENTITY ccAddress.label                 "wysyłaj kopię do:">
 <!ENTITY ccAddress.accesskey             "k">
-<!ENTITY ccAddressList.emptytext         "adresy e-mail rozdzielone przecinkami">
+<!ENTITY ccAddressList.placeholder       "adresy e-mail rozdzielone przecinkami">
 <!ENTITY bccAddress.label                "wysyłaj ukrytą kopię do:">
 <!ENTITY bccAddress.accesskey            "u">
-<!ENTITY bccAddressList.emptytext        "adresy e-mail rozdzielone przecinkami">
+<!ENTITY bccAddressList.placeholder      "adresy e-mail rozdzielone przecinkami">
 <!ENTITY saveMessageDlg.label            "Wyświetlaj okno dialogowe potwierdzające zapisywanie wiadomości">
 <!ENTITY saveMessageDlg.accesskey        "e">
 <!ENTITY sentFolderOn.label              "folderze Wysłane konta:">

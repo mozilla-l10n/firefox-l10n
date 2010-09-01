@@ -571,8 +571,7 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label     "Imię, nazwisko lub e-mail zawiera:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
-
-<!ENTITY glodaSearchBar.emptyText "Szukaj wiadomości…">
+<!ENTITY glodaSearchBar.placeholder  "Szukaj wiadomości…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label            "Temat">
