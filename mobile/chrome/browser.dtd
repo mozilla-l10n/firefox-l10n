@@ -24,7 +24,6 @@
 <!ENTITY historyHeader.label       "Histórico">
 <!ENTITY desktopHeader.label       "Ambiente de trabalho">
 
-
 <!ENTITY editBookmarkDone.label    "Feito">
 <!ENTITY editBookmarkTags.label    "Adicionar etiquetas aqui">
 
@@ -88,7 +87,8 @@
 <!ENTITY consoleErrColumn.label    "Coluna:">
 
 <!ENTITY contextOpenInNewTab.label "Abrir ligação em novo separador">
-<!ENTITY contextSaveImage.label    "Guardar imagem">
+<!ENTITY contextSaveLink.label        "Guardar ligação">
+<!ENTITY contextSaveImage.label       "Guardar imagem">
 <!ENTITY contextShareLink.label       "Partilhar ligação">
 <!ENTITY contextShareImage.label      "Partilhar imagem">
 <!ENTITY contextSaveVideo.label       "Guardar vídeo">
