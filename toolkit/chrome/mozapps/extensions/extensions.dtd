@@ -19,7 +19,7 @@
 <!ENTITY view.locales.label               "Langues">
 <!ENTITY view.searchengines.label         "Moteurs de recherche">
 <!ENTITY view.features.label              "Extensions">
-<!ENTITY view.appearance.label            "Thèmes">
+<!ENTITY view.appearance2.label               "Apparence">
 <!ENTITY view.plugins.label               "Plugins">
 <!ENTITY view.recentUpdates.label         "Mises à jour récentes">
 <!ENTITY view.availableUpdates.label      "Mises à jour disponibles">
