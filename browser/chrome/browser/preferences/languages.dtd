@@ -1,7 +1,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "भाषा">
-<!ENTITY languages.customize.prefLangDescript           "वेब पृष्ठ  कहियो - कहियो  एकाधिक भाषाओं मे दी जाएत अछि. वरीयता क्रम मे इन वेब पृष्ठ केँ  देखाबै  लिए भाषा चुनू.">
+<!ENTITY languages.customize.prefLangDescript           "वेब पृष्ठ  कहियो - कहियो  एकाधिक भाषाओं मे देल जाएत अछि. वरीयता क्रममे ई वेब पृष्ठकेँ  देखाबैक लेल भाषा चुनू.">
 <!ENTITY languages.customize.active.label               "वरीयता क्रम मे भाषा:">
 <!ENTITY languages.customize.moveUp.label               "उप्पर जाउ">
 <!ENTITY languages.customize.moveUp.accesskey           "U">
@@ -9,7 +9,7 @@
 <!ENTITY languages.customize.moveDown.accesskey         "D">
 <!ENTITY languages.customize.deleteButton.label         "हटाउ">
 <!ENTITY languages.customize.deleteButton.accesskey     "R">
-<!ENTITY languages.customize.selectLanguage.label       "भाषा जोड़ने क लेल चुनू...">
+<!ENTITY languages.customize.selectLanguage.label       "भाषा जोड़बाक लेल चुनू...">
 <!ENTITY languages.customize.addButton.label            "जोड़ू">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 

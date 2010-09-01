@@ -15,7 +15,7 @@
 
 
 
-<!ENTITY  clearOnClose.label             "इतिहास साफ करू जखन &brandShortName; बन्न  हाएत  अछि">
+<!ENTITY  clearOnClose.label             "इतिहास साफ करू जखन &brandShortName; बन्न हाइछ">
 <!ENTITY  clearOnClose.accesskey         "w">
 
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग…">
@@ -25,7 +25,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "अहाँ ई  कएनाइ  भी चाह सकैत छी ">
+<!ENTITY  dontrememberActions.pre.label          "अहाँ ई कएनाइ भी चाह सकैत छी ">
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; करताह:">
@@ -40,7 +40,7 @@
 <!ENTITY  privateBrowsingAutoStart.label "स्वतः &brandShortName; केँ निज ब्राउजिंग सत्र मे आरंभ  करू ">
 <!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; अहाँक ब्राउजिंग, डाउनलोड, फार्म, आओर खोज इतिहास केँ याद राखैतह आओर वेबसाइट सँ कुकीज जमा राखैतह जखन अहँ साइट पर जाते अछि.">
+<!ENTITY  rememberDescription.label      "&brandShortName; अहाँक ब्राउजिंग, डाउनलोड, फार्म, आओर खोज इतिहास केँ याद राखैतह आओर वेबसाइट सँ कुकीज जमा राखैतह जखन अहँ साइट पर जाइत अछि.">
 
 
 <!-- LOCALIZATION NOTE:
@@ -49,9 +49,9 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "हमर ब्राउजिंग इतिहास केँ कम सँ कम इतने दिनों तक याद राखू">
+<!ENTITY  rememberHistory.pre.label      "हमर ब्राउजिंग इतिहास केँ कम सँ कम एतबा दिवस तकि याद राखू">
 <!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "दिनों">
+<!ENTITY  rememberHistory.post.label     "दिवस">
 
 <!ENTITY  rememberDownload.label         "डाउनलोड इतिहास याद राखू">
 <!ENTITY  rememberDownload.accesskey     "d">
@@ -64,12 +64,12 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "अहाँ चाह सकैत छी ">
-<!ENTITY  rememberActions.clearHistory.label  " अपन  हाल क इतिहास साफ  करू ">
+<!ENTITY  rememberActions.clearHistory.label  " अपन हालक इतिहास साफ  करू ">
 <!ENTITY  rememberActions.middle.label        ", or ">
-<!ENTITY  rememberActions.removeCookies.label "व्यक्तिगत कुकीज़ हटाउ">
+<!ENTITY  rememberActions.removeCookies.label "व्यक्तिगत कुकीज हटाउ">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; निज ब्राउजिंग क तरह क ही सेटिंग प्रयोग करताह आओर अहाँक वेब ब्राउज़ करब क दौरान कोनो इतिहास याद नहि राखैतह.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; निज ब्राउजिंग क तरह क ही सेटिंग प्रयोग करताह आओर अहाँक वेब ब्राउज़ करब क दौरान कोनो इतिहास याद नहि रखिताह.">
 
 
 
@@ -81,18 +81,18 @@
 <!ENTITY  keepUntil.label               "जारी राखू जखनतक:">
 <!ENTITY  keepUntil.accesskey           "K">
 
-<!ENTITY  expire.label                  "उनकी मियाद पूरी होती अछि">
-<!ENTITY  close.label                   "हम &brandShortName; बन्न करैत हूँ">
-<!ENTITY  askEachTime.label             "हमरा हर बार पूछू">
+<!ENTITY  expire.label                  "हुनकर मियाद पूर्ण होइछ">
+<!ENTITY  close.label                   "हम &brandShortName; बन्न करैत छी">
+<!ENTITY  askEachTime.label             "हमरा सभ बेर पूछू">
 
 <!ENTITY  cookieExceptions.label        "अपवाद...">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "कुकी देखाओलँ...">
+<!ENTITY  showCookies.label             "कुकी देखाउ...">
 <!ENTITY  showCookies.accesskey         "S">
 
 
-<!ENTITY  locbar.pre.label              "जखन स्थान पट्टी क प्रयोग कएल जा रहल अछि, सलाह दें:">
+<!ENTITY  locbar.pre.label              "जखन स्थान पट्टी क प्रयोग कएल जाए रहल अछि, सलाह दिअ':">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "इतिहास आ पुस्तकचिह्न">

@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "चेताउ जखन साइट सहयुक्तियों केँ जोड़नाइइ चाहता अछि">
+<!ENTITY  warnAddonInstall.label        "चेताउ जखन साइट सहयुक्तिसभकेँ जोड़नाइ चाहैत अछि">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
@@ -12,7 +12,7 @@
 <!ENTITY  blockAttackSites.label     "रिपोर्ट कएल गेल हमला साइट रोकू">
 <!ENTITY  blockAttackSites.accesskey "k">
 
-<!ENTITY  blockWebForgeries.label     "रिपोर्ट कएल गेल वेब धोखेबाज़ी रोकू">
+<!ENTITY  blockWebForgeries.label     "रिपोर्ट कएल गेल वेब धोखेबाजीकेँ रोकू">
 <!ENTITY  blockWebForgeries.accesskey "B">
 
 <!ENTITY  addonExceptions.label         "अपवाद…">
@@ -21,12 +21,12 @@
 
 <!ENTITY  passwords.label               "गुड़किल्ली">
 
-<!ENTITY  rememberPasswords.label       "साइटों क लेल गुड़किल्ली याद राखू">
+<!ENTITY  rememberPasswords.label       "साइटक गुड़किल्ली याद राखू">
 <!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "अपवाद…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "मुख्य गुड़किल्ली क प्रयोग  करू ">
+<!ENTITY  useMasterPassword.label        "मुख्य गुड़किल्ली क' प्रयोग  करू ">
 <!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "मुख्य गुड़किल्ली बदलू…">
 <!ENTITY  changeMasterPassword.accesskey "M">
@@ -37,7 +37,7 @@
 
 <!ENTITY  warnings.label                "चेतावनी संदेश">
 
-<!ENTITY  chooseWarnings.label          "चुनू जे वेब ब्राउज करब क दौरान अहँ कओनसँ चेतावनी संदेश देखनाइइ चाहब">
+<!ENTITY  chooseWarnings.label          "चुनू जे वेब ब्राउज करबाक दौरान अहँ कओनसँ चेतावनी संदेश देखोनाइ चाहब">
 
 <!ENTITY  warningSettings.label         "सेटिंग…">
 <!ENTITY  warningSettings.accesskey     "S">
