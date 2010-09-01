@@ -168,6 +168,7 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Modules complémentaires">
 <!ENTITY addons.accesskey             "e">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Console d'erreurs">
 <!ENTITY errorConsoleCmd.accesskey    "s">
