@@ -33,7 +33,7 @@
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Dreach">
 <!ENTITY saveAsDraftCmd.accesskey "D">
-<!ENTITY saveAsTemplateCmd.label "Teamplaid">
+<!ENTITY saveAsTemplateCmd.label "Theamplaid">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY sendNowCmd.label "Cuir an-dràsta">
 <!ENTITY sendCmd.keycode "VK_RETURN">

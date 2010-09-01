@@ -60,9 +60,9 @@
 <!ENTITY hdrArchiveButton.label "tasg-lann">
 <!ENTITY hdrArchiveButton.tooltip "cuir an teachdaireachd seo san tasg-lann">
 <!ENTITY hdrReplyButton.label "freagair">
-<!ENTITY hdrReplyButton.tooltip "freagair ris an teachdaireachd seo">
-<!ENTITY hdrReplyAllButton.label "freagair ris a h-uile">
-<!ENTITY hdrReplyAllButton.tooltip "freagair ris a h-uile seòladair is faightear">
+<!ENTITY hdrReplyButton.tooltip "freagair an teachdaireachd seo">
+<!ENTITY hdrReplyAllButton.label "freagair a h-uile">
+<!ENTITY hdrReplyAllButton.tooltip "freagair a h-uile seòladair is faightear">
 <!ENTITY hdrReplyListButton.label "liosta nam freagairt">
 <!ENTITY hdrReplyListButton.tooltip "freagair ri liosta puist">
 <!ENTITY hdrForwardButton.label "sìn air adhart">
@@ -78,7 +78,7 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
 <!ENTITY hdrViewToolbarShowText.label "Seall teacsa a-mhàin">
 <!ENTITY hdrViewToolbarShowText.accesskey "t">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Seall &quot;Freagair ris an t-seòladair&quot; an-còmhnaidh">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Seall &quot;Freagair an seòladair&quot; an-còmhnaidh">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton.label "gnìomhan eile">

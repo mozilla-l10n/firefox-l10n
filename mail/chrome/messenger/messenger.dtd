@@ -9,7 +9,7 @@
 <!ENTITY closeTabCmd.accesskey "D">
 <!ENTITY closeOtherTabsCmd.label "Dùin na tabaichean eile">
 <!ENTITY closeOtherTabsCmd.accesskey "l">
-<!ENTITY newVirtualFolderCmd.label "Lorg a chaidh a shàbhaladh…">
+<!ENTITY newVirtualFolderCmd.label "Lorg sàbhalaichte…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Cunntasan eile…">
 <!ENTITY newOtherAccountsCmd.accesskey "C">
@@ -21,13 +21,13 @@
 <!ENTITY openAttachmentCmd.accesskey "a">
 <!ENTITY saveAsMenu.label "Sàbhail mar">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Faidhle">
+<!ENTITY saveAsFileCmd.label "Fhaidhle">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
-<!ENTITY saveAsTemplateCmd.label "Teamplaid">
+<!ENTITY saveAsTemplateCmd.label "Theamplaid">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgCmd.key "t">
-<!ENTITY getNewMsgForCmd.label "Faigh teachdaireachdan ùr airson">
+<!ENTITY getNewMsgForCmd.label "Faigh teachdaireachdan ùra">
 <!ENTITY getNewMsgForCmd.accesskey "F">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "A h-uile cunntas">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
@@ -123,10 +123,10 @@
 <!ENTITY messagePaneLayoutStyle.accesskey "l">
 <!ENTITY messagePaneClassic.label "An sealladh clasaigeach">
 <!ENTITY messagePaneClassic.accesskey "c">
-<!ENTITY messagePaneWide.label "Sealladh leathann">
-<!ENTITY messagePaneWide.accesskey "S">
-<!ENTITY messagePaneVertical.label "Sealladh dìreach">
-<!ENTITY messagePaneVertical.accesskey "S">
+<!ENTITY messagePaneWide.label "An sealladh leathann">
+<!ENTITY messagePaneWide.accesskey "e">
+<!ENTITY messagePaneVertical.label "An sealladh dìreach">
+<!ENTITY messagePaneVertical.accesskey "d">
 <!ENTITY showMessageCmd.label "Leòs na teachdaireachd">
 <!ENTITY showMessageCmd.accesskey "L">
 
@@ -329,14 +329,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.label "Freagair">
 <!ENTITY replyMsgCmd.accesskey "r">
 <!ENTITY replyMsgCmd.key  "r">
-<!ENTITY replySenderCmd.label "Freagair ris an t-seòladair a-mhàin">
+<!ENTITY replySenderCmd.label "Freagair an seòladair a-mhàin">
 <!ENTITY replySenderCmd.accesskey "r">
-<!ENTITY replyNewsgroupCmd.label "Freagair ris a' bhuidheann-naidheachd">
+<!ENTITY replyNewsgroupCmd.label "Freagair am buidheann-naidheachd">
 <!ENTITY replyNewsgroupCmd.accesskey  "F">
-<!ENTITY replyToAllMsgCmd.label "Freagair ris a h-uile">
+<!ENTITY replyToAllMsgCmd.label "Freagair a h-uile">
 <!ENTITY replyToAllMsgCmd.accesskey  "F">
 <!ENTITY replyToAllMsgCmd.key  "r">
-<!ENTITY replyToListMsgCmd.label "Freagair ris an liosta">
+<!ENTITY replyToListMsgCmd.label "Freagair an liosta">
 <!ENTITY replyToListMsgCmd.accesskey  "l">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Air adhart">
@@ -473,10 +473,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.label "Faigh post">
 <!ENTITY newMsgButton.label "Sgrìobh">
 <!ENTITY replyButton.label "Freagair">
-<!ENTITY replyAllButton.label "Freagair ris a h-uile">
-<!ENTITY replyListButton.label "Freagair ris an liosta">
+<!ENTITY replyAllButton.label "Freagair a h-uile">
+<!ENTITY replyListButton.label "Freagair an liosta">
 <!ENTITY forwardButton.label "Air adhart">
-<!ENTITY fileButton.label "Faidhle">
+<!ENTITY fileButton.label "Fhaidhle">
 <!ENTITY archiveButton.label "Tasg-lann">
 <!ENTITY nextButton.label "Air adhart">
 <!ENTITY previousButton.label "Air ais">
@@ -505,9 +505,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getAllNewMsgCmd.accesskey "g">
 <!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Cruthaich teachdaireachd ùr">
-<!ENTITY replyButton.tooltip "Freagair ris an teachdaireachd">
-<!ENTITY replyAllButton.tooltip "Freagair ris an t-seòladair 's a h-uile faightear">
-<!ENTITY replyListButton.tooltip "Freagair ris an liosta phuist">
+<!ENTITY replyButton.tooltip "Freagair an teachdaireachd">
+<!ENTITY replyAllButton.tooltip "Freagair an seòladair 's a h-uile faightear">
+<!ENTITY replyListButton.tooltip "Freagair an liosta puist">
 <!ENTITY forwardButton.tooltip "Sìn air adhart an teachdaireachd a thagh thu">
 <!ENTITY fileButton.tooltip "Faidhlich an teachdaireachd a thagh thu">
 <!ENTITY archiveButton.tooltip "Cuir na teachdaireachdan a thagh thu san tasg-lann">
@@ -642,13 +642,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Tasg-lann">
 <!ENTITY contextArchive.accesskey "T">
-<!ENTITY contextReplySender.label "Freagair ris an t-seòladair a-mhàin">
+<!ENTITY contextReplySender.label "Freagair an seòladair a-mhàin">
 <!ENTITY contextReplySender.accesskey "r">
-<!ENTITY contextReplyNewsgroup.label "Freagair ris a' bhuidheann-naidheachd">
+<!ENTITY contextReplyNewsgroup.label "Freagair am buidheann-naidheachd">
 <!ENTITY contextReplyNewsgroup.accesskey "F">
-<!ENTITY contextReplyAll.label "Freagair ris a h-uile">
+<!ENTITY contextReplyAll.label "Freagair a h-uile">
 <!ENTITY contextReplyAll.accesskey "a">
-<!ENTITY contextReplyList.label "Freagair ris an liosta">
+<!ENTITY contextReplyList.label "Freagair an liosta">
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Air adhart">
 <!ENTITY contextForward.accesskey "A">
