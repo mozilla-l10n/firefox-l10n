@@ -176,6 +176,7 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Papildinājumi">
 <!ENTITY addons.accesskey "A">
+<!ENTITY addons.commandkey "A">
 
 <!ENTITY inspectMenu.label            "Apskatīt">
 <!ENTITY inspectMenu.accesskey        "T">
