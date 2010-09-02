@@ -8,7 +8,6 @@
 <!ENTITY networkPanel.responseHeaders "Header della risposta">
 <!ENTITY networkPanel.responseBody "Corpo della risposta">
 <!ENTITY networkPanel.responseBodyCached "Dati in cache">
-<!ENTITY networkPanel.responseBodyUnknownType "Tipo di contenuto sconosciuto">
 <!ENTITY networkPanel.responseNoBody "Nessun corpo della risposta">
 <!ENTITY networkPanel.responseImage "Immagine ricevuta">
 <!ENTITY networkPanel.responseImageCached "Immagine in cache">
