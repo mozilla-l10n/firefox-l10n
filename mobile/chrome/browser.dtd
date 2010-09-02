@@ -87,6 +87,7 @@
 <!ENTITY consoleErrColumn.label    "欄數:">
 
 <!ENTITY contextOpenInNewTab.label    "用新分頁開啟鏈結">
+<!ENTITY contextSaveLink.label        "儲存鏈結">
 <!ENTITY contextSaveImage.label       "儲存圖片">
 <!ENTITY contextShareLink.label       "分享鏈結">
 <!ENTITY contextShareImage.label      "分享圖片">

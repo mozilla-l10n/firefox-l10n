@@ -168,6 +168,7 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "附加元件">
 <!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "錯誤主控台">
 <!ENTITY errorConsoleCmd.accesskey    "C">
