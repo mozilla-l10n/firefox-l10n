@@ -14,13 +14,12 @@
 <!ENTITY cmd.forward.tooltip                  "Avanzar una página">
 
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Buscar">
 <!ENTITY view.discover.label                  "Obtener complementos">
 <!ENTITY view.locales.label                   "Idiomas">
 <!ENTITY view.searchengines.label             "Buscadores">
 <!ENTITY view.features.label                  "Extensiones">
-<!ENTITY view.appearance.label                "Temas">
+<!ENTITY view.appearance2.label               "Apariencia">
 <!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Actualizaciones recientes">
 <!ENTITY view.availableUpdates.label          "Actualizaciones disponibles">
@@ -57,6 +56,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Deshabilitar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.installAddon.label               "Instalar">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opciones">
@@ -79,9 +80,17 @@
 <!ENTITY detail.homepage.label                "Sitio web">
 <!ENTITY detail.numberOfDownloads.label       "Descargas">
 
-<!ENTITY detail.updateAutomatically.label     "Actualizar automáticamente">
-<!ENTITY detail.updateAutomatically.accesskey "u">
-<!ENTITY detail.updateAutomatically.tooltip   "Actualizar este complemento automáticamente cuando haya una actualización disponible">
+<!ENTITY detail.contributions.description     "El programador de este complemento pide que lo ayuden a soportar su desarrollo continuo mediante una pequeña contribución.">
+
+<!ENTITY detail.updateType                    "Actualización automática">
+<!ENTITY detail.updateAutomatic.label         "Sí">
+<!ENTITY detail.updateAutomatic.tooltip       "Instalar actualizaciones automáticamente">
+<!ENTITY detail.updateManual.label            "No">
+<!ENTITY detail.updateManual.tooltip          "No instalar actualizaciones automáticamente">
+<!ENTITY detail.home                          "Sitio web">
+<!ENTITY detail.repository                    "Perfil del complemento">
+<!ENTITY detail.size                          "Tamaño">
+
 <!ENTITY detail.checkForUpdates.label         "Buscar actualizaciones">
 <!ENTITY detail.checkForUpdates.accesskey     "B">
 <!ENTITY detail.checkForUpdates.tooltip       "Buscar actualizaciones para este complemento">
@@ -120,11 +129,12 @@
 <!ENTITY addon.details.tooltip                "Mostrar más detalles sobre este complemento">
 <!ENTITY addon.unknownDate                    "Desconocida">
 <!ENTITY addon.disabled.postfix               "(deshabilitado)">
-<!ENTITY addon.update.postfix                 "Actualizar">
-<!ENTITY addon.undo.label                     "¿Deshacer?">
-<!ENTITY addon.undo.tooltip                   "Deshacer esta acción">
-<!ENTITY addon.undoUninstall.label            "¿Deshacer?">
-<!ENTITY addon.undoUninstall.tooltip          "Mantener este complemento instalado">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Actualización">
+<!ENTITY addon.undoAction.label               "Deshacer">
+<!ENTITY addon.undoAction.tooltip             "Deshacer esta acción">
+<!ENTITY addon.undoRemove.label               "Deshacer">
+<!ENTITY addon.undoRemove.tooltip             "Mantener este complemento instalado">
 <!ENTITY addon.restartNow.label               "Reiniciar ahora">
 <!ENTITY addon.install.label                  "Instalar">
 <!ENTITY addon.install.tooltip                "Instalar este complemento">
@@ -132,7 +142,7 @@
 <!ENTITY addon.updateNow.tooltip              "Instalar la actualización para este complemento">
 <!ENTITY addon.checkingForUpdates.label       "Buscar actualizaciones…">
 <!ENTITY addon.releaseNotes.label             "Notas de la versión:">
-<!ENTITY addon.loadingReleaseNotes.label      "Cargand…">
+<!ENTITY addon.loadingReleaseNotes.label      "Cargando…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Lo siento, hubo un error cargando las notas de la versión.">
 
 <!ENTITY addon.createdBy.label                "Por ">
