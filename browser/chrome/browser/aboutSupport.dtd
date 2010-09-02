@@ -1,21 +1,21 @@
 <!ENTITY aboutSupport.pageTitle "מידע לפתרון בעיות">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "   דף זה מכיל מידע טכני שיתכן ויהיה שימושי עבורך 
-   כשתנסה לפתור בעיות. אם אתה מחפש תשובות לשאלות נפוצות
-   אודות &brandShortName;, עבור ל<a id='supportLink'>אתר התמיכה</a>.">
+<!ENTITY aboutSupport.pageSubtitle "
+  דף זה מכיל מידע טכני שעשוי להיות שימושי כאשר אתה מנסה לפתור בעיה. במידה ואתה מחפש תשובות לשאלות נפוצות על &brandShortName;, בדוק את <a id='supportLink'>אתר התמיכה</a> שלנו.
+">
 
 <!ENTITY aboutSupport.extensionsTitle "הרחבות">
 <!ENTITY aboutSupport.extensionName "שם">
-<!ENTITY aboutSupport.extensionEnabled "מאופשר">
-<!ENTITY aboutSupport.extensionVersion "גרסה">
+<!ENTITY aboutSupport.extensionEnabled "פעיל">
+<!ENTITY aboutSupport.extensionVersion "גירסה">
 <!ENTITY aboutSupport.extensionId "מזהה">
 
 <!ENTITY aboutSupport.appBasicsTitle "מידע יישום בסיסי">
 <!ENTITY aboutSupport.appBasicsName "שם">
-<!ENTITY aboutSupport.appBasicsVersion "גרסה">
+<!ENTITY aboutSupport.appBasicsVersion "גירסה">
 <!ENTITY aboutSupport.appBasicsProfileDir "תיקיית פרופיל">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "הפעל תוספים חיצוניים">
+<!ENTITY aboutSupport.appBasicsPlugins "תוספים מותקנים">
 <!ENTITY aboutSupport.appBasicsBuildConfig "הגדרות בנייה">
 
 <!ENTITY aboutSupport.show.label "פתח תיקייה מכילה">
@@ -25,11 +25,10 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "הצג ב־Finder">
 
+
 <!ENTITY aboutSupport.modifiedPrefsTitle "העדפות ששונו">
 <!ENTITY aboutSupport.modifiedPrefsName "שם">
 <!ENTITY aboutSupport.modifiedPrefsValue "ערך">
-
-<!ENTITY aboutSupport.graphicsTitle "גרפיקות">
 
 <!ENTITY aboutSupport.installationHistoryTitle "היסטוריית התקנות">
 <!ENTITY aboutSupport.updateHistoryTitle "היסטוריית עדכונים">
