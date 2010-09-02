@@ -75,7 +75,7 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versión">
-<!ENTITY detail.updated.label                 "Actualizado">
+<!ENTITY detail.lastupdated.label             "Última actualización">
 <!ENTITY detail.creator.label                 "Desarrollador">
 <!ENTITY detail.homepage.label                "Sitio web">
 <!ENTITY detail.numberOfDownloads.label       "Descargas">

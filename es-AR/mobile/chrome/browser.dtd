@@ -87,6 +87,7 @@
 <!ENTITY consoleErrColumn.label    "Columna:">
 
 <!ENTITY contextOpenInNewTab.label "Abrir enlace en nueva pestaña">
+<!ENTITY contextSaveLink.label        "Guardar enlace">
 <!ENTITY contextSaveImage.label    "Guardar imagen">
 <!ENTITY contextShareLink.label       "Compartir enlace">
 <!ENTITY contextShareImage.label      "Compartir imagen">

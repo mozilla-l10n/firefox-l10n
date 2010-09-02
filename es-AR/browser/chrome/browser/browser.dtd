@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "Mover a grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Nuevo grupo">
-<!ENTITY  bookmarkThisTab.label              "Marcar esta pestaña">
-<!ENTITY  bookmarkThisTab.accesskey          "M">
 <!ENTITY  bookmarkAllTabs.label              "Marcar todas las pestañas…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Deshacer cerrar pestaña">
