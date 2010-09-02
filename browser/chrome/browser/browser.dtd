@@ -273,7 +273,7 @@
 <!ENTITY appMenuUnsorted.label "Marque-pages non classés">
 <!ENTITY appMenuGettingStarted.label "Pour commencer">
 
-<!ENTITY developerMenu.label "Développeur">
+<!ENTITY developerMenu.label "Développement Web">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Se rendre sur un site Web">
