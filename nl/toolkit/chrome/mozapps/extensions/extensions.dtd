@@ -19,7 +19,7 @@
 <!ENTITY view.locales.label                   "Talen">
 <!ENTITY view.searchengines.label             "Zoekmachines">
 <!ENTITY view.features.label                  "Extensies">
-<!ENTITY view.appearance.label                "Thema’s">
+<!ENTITY view.appearance2.label               "Vormgeving">
 <!ENTITY view.plugins.label                   "Plug-ins">
 <!ENTITY view.recentUpdates.label             "Recente updates">
 <!ENTITY view.availableUpdates.label          "Beschikbare updates">
