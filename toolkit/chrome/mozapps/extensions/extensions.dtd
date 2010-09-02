@@ -16,7 +16,7 @@
 <!ENTITY view.locales.label "Языки">
 <!ENTITY view.searchengines.label "Поисковые системы">
 <!ENTITY view.features.label "Расширения">
-<!ENTITY view.appearance.label "Темы">
+<!ENTITY view.appearance2.label "Внешний вид">
 <!ENTITY view.plugins.label "Плагины">
 <!ENTITY view.recentUpdates.label "Недавние обновления">
 <!ENTITY view.availableUpdates.label "Доступные обновления">
@@ -48,6 +48,8 @@
 <!ENTITY cmd.enableAddon.accesskey "ч">
 <!ENTITY cmd.disableAddon.label "Отключить">
 <!ENTITY cmd.disableAddon.accesskey "т">
+<!ENTITY cmd.installAddon.label "Установить">
+<!ENTITY cmd.installAddon.accesskey "с">
 <!ENTITY cmd.uninstallAddon.label "Удалить">
 <!ENTITY cmd.uninstallAddon.accesskey "д">
 <!ENTITY cmd.showPreferencesWin.label "Настройки">
@@ -62,13 +64,19 @@
 <!ENTITY cmd.hideReleaseNotes.label "Скрыть примечания к выпуску">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Скрыть примечания к выпуску для этого обновления">
 <!ENTITY detail.version.label "Версия">
-<!ENTITY detail.updated.label "Обновлён">
+<!ENTITY detail.lastupdated.label "Последнее обновление">
 <!ENTITY detail.creator.label "Разработчик">
 <!ENTITY detail.homepage.label "Домашняя страница">
 <!ENTITY detail.numberOfDownloads.label "Загрузок">
-<!ENTITY detail.updateAutomatically.label "Обновлять автоматически">
-<!ENTITY detail.updateAutomatically.accesskey "б">
-<!ENTITY detail.updateAutomatically.tooltip "Обновлять это дополнение автоматически при появлении доступного обновления">
+<!ENTITY detail.contributions.description "Разработчик этого дополнения просит вас помочь поддержать его дальнейшее развитие, внеся небольшое пожертвование.">
+<!ENTITY detail.updateType "Автоматические обновления">
+<!ENTITY detail.updateAutomatic.label "Включёно">
+<!ENTITY detail.updateAutomatic.tooltip "Устанавливать обновления автоматически">
+<!ENTITY detail.updateManual.label "Отключёно">
+<!ENTITY detail.updateManual.tooltip "Не устанавливать обновления автоматически">
+<!ENTITY detail.home "Домашняя страница">
+<!ENTITY detail.repository "Профиль дополнения">
+<!ENTITY detail.size "Размер">
 <!ENTITY detail.checkForUpdates.label "Проверить наличие обновлений">
 <!ENTITY detail.checkForUpdates.accesskey "в">
 <!ENTITY detail.checkForUpdates.tooltip "Проверить наличие обновлений для этого дополнения">
@@ -98,10 +106,10 @@
 <!ENTITY addon.unknownDate "Неизвестно">
 <!ENTITY addon.disabled.postfix "(отключён)">
 <!ENTITY addon.update.postfix "обновление">
-<!ENTITY addon.undo.label "Отменить?">
-<!ENTITY addon.undo.tooltip "Отменить это действие">
-<!ENTITY addon.undoUninstall.label "Отменить?">
-<!ENTITY addon.undoUninstall.tooltip "Оставить это дополнение установленным">
+<!ENTITY addon.undoAction.label "Отменить">
+<!ENTITY addon.undoAction.tooltip "Отменить это действие">
+<!ENTITY addon.undoRemove.label "Отменить">
+<!ENTITY addon.undoRemove.tooltip "Оставить это дополнение установленным">
 <!ENTITY addon.restartNow.label "Перезапустить сейчас">
 <!ENTITY addon.install.label "Установить">
 <!ENTITY addon.install.tooltip "Установить это дополнение">

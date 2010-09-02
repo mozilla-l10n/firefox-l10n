@@ -17,8 +17,6 @@
 <!ENTITY moveToGroup.label "Переместить в группу">
 <!ENTITY moveToGroup.accesskey "м">
 <!ENTITY moveToNewGroup.label "Новая группа">
-<!ENTITY bookmarkThisTab.label "Добавить эту вкладку в закладки">
-<!ENTITY bookmarkThisTab.accesskey "б">
 <!ENTITY bookmarkAllTabs.label "Добавить все вкладки в закладки…">
 <!ENTITY bookmarkAllTabs.accesskey "в">
 <!ENTITY undoCloseTab.label "Восстановить закрытую вкладку">
