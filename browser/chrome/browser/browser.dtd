@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "移動到群組">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "新群組">
-<!ENTITY  bookmarkThisTab.label              "將此分頁加入書籤">
-<!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "將所有分頁加入書籤…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "復原已關閉分頁">
