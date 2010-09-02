@@ -16,7 +16,7 @@
 <!ENTITY view.locales.label "Idiomas">
 <!ENTITY view.searchengines.label "Buscadores">
 <!ENTITY view.features.label "Extensiones">
-<!ENTITY view.appearance.label "Temas">
+<!ENTITY view.appearance2.label "Apariencia">
 <!ENTITY view.plugins.label "Plugins">
 <!ENTITY view.recentUpdates.label "Actualizaciones recientes">
 <!ENTITY view.availableUpdates.label "Actualizaciones disponibles">
@@ -48,6 +48,8 @@
 <!ENTITY cmd.enableAddon.accesskey "v">
 <!ENTITY cmd.disableAddon.label "Desactivar">
 <!ENTITY cmd.disableAddon.accesskey "D">
+<!ENTITY cmd.installAddon.label "Instalar">
+<!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey "E">
 <!ENTITY cmd.showPreferencesWin.label "Opciones">
@@ -62,13 +64,19 @@
 <!ENTITY cmd.hideReleaseNotes.label "Ocultar notas de la versión">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Ocultar las notas de la versión de esta actualización">
 <!ENTITY detail.version.label "Versión">
-<!ENTITY detail.updated.label "Actualizado">
+<!ENTITY detail.lastupdated.label "Última actualización">
 <!ENTITY detail.creator.label "Desarrollador">
 <!ENTITY detail.homepage.label "Página de inicio">
 <!ENTITY detail.numberOfDownloads.label "Descargas">
-<!ENTITY detail.updateAutomatically.label "Actualizar automáticamente">
-<!ENTITY detail.updateAutomatically.accesskey "u">
-<!ENTITY detail.updateAutomatically.tooltip "Actualizar este complemento automáticamente siempre que haya una actualización disponible">
+<!ENTITY detail.contributions.description "El desarrollador de este complemento solicita que ayudes a continuar su desarrollo haciendo una pequeña contribución.">
+<!ENTITY detail.updateType "Actualizaciones automáticas">
+<!ENTITY detail.updateAutomatic.label "Sí">
+<!ENTITY detail.updateAutomatic.tooltip "Instalar actualizaciones automáticamente">
+<!ENTITY detail.updateManual.label "No">
+<!ENTITY detail.updateManual.tooltip "No instalar automáticamente las actualizaciones">
+<!ENTITY detail.home "Página de inicio">
+<!ENTITY detail.repository "Perfil del complemento">
+<!ENTITY detail.size "Tamaño">
 <!ENTITY detail.checkForUpdates.label "Buscar actualizaciones">
 <!ENTITY detail.checkForUpdates.accesskey "n">
 <!ENTITY detail.checkForUpdates.tooltip "Buscar actualizaciones de este complemento">
@@ -98,10 +106,10 @@
 <!ENTITY addon.unknownDate "Desconocido">
 <!ENTITY addon.disabled.postfix "(desactivado)">
 <!ENTITY addon.update.postfix "Actualizar">
-<!ENTITY addon.undo.label "¿Deshacer?">
-<!ENTITY addon.undo.tooltip "Deshacer esta acción">
-<!ENTITY addon.undoUninstall.label "¿Deshacer?">
-<!ENTITY addon.undoUninstall.tooltip "Conservar este complemento instalado">
+<!ENTITY addon.undoAction.label "Deshacer">
+<!ENTITY addon.undoAction.tooltip "Deshacer esta acción">
+<!ENTITY addon.undoRemove.label "Deshacer">
+<!ENTITY addon.undoRemove.tooltip "Conservar este complemento instalado">
 <!ENTITY addon.restartNow.label "Reiniciar ahora">
 <!ENTITY addon.install.label "Instalar">
 <!ENTITY addon.install.tooltip "Instalar este complemento">
