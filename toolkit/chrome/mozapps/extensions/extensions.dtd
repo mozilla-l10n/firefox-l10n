@@ -19,7 +19,7 @@
 <!ENTITY view.locales.label                   "Idiomas">
 <!ENTITY view.searchengines.label             "Motores de pesquisa">
 <!ENTITY view.features.label                  "Extensões">
-<!ENTITY view.appearance.label                "Temas">
+<!ENTITY view.appearance2.label               "Aparência">
 <!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Actualizações recentes">
 <!ENTITY view.availableUpdates.label          "Actualizações disponíveis">
@@ -56,6 +56,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Desactivar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.installAddon.label               "Instalar">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Opções">
@@ -73,14 +75,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versão">
-<!ENTITY detail.updated.label                 "Actualizado">
+<!ENTITY detail.lastupdated.label             "Última actualização">
 <!ENTITY detail.creator.label                 "Desenvolvedor">
 <!ENTITY detail.homepage.label                "Página inicial">
 <!ENTITY detail.numberOfDownloads.label       "Transferências">
 
-<!ENTITY detail.updateAutomatically.label     "Actualizar automaticamente">
-<!ENTITY detail.updateAutomatically.accesskey "u">
-<!ENTITY detail.updateAutomatically.tooltip   "Actualiza este extra automaticamente sempre que existir uma nova actualização">
+<!ENTITY detail.contributions.description     "O desenvolvedor deste extra pede para o ajudar no desenvolvimento deste extra com uma pequena contribuição.">
+
+<!ENTITY detail.updateType                    "Actualizações automáticas">
+<!ENTITY detail.updateAutomatic.label         "Ligado">
+<!ENTITY detail.updateAutomatic.tooltip       "Instalar actualizações automaticamente">
+<!ENTITY detail.updateManual.label            "Desligado">
+<!ENTITY detail.updateManual.tooltip          "Não instalar actualizações automaticamente">
+<!ENTITY detail.home                          "Página inicial">
+<!ENTITY detail.repository                    "Perfil do extra">
+<!ENTITY detail.size                          "Tamanho">
+
 <!ENTITY detail.checkForUpdates.label         "Procurar actualizações">
 <!ENTITY detail.checkForUpdates.accesskey     "P">
 <!ENTITY detail.checkForUpdates.tooltip       "Procurar actualizações para este extra">
@@ -102,9 +112,9 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nome">
-<!ENTITY sort.name.tooltip                    "ordenar por nome">
+<!ENTITY sort.name.tooltip                    "Ordenar por nome">
 <!ENTITY sort.dateUpdated.label               "Última actualização">
-<!ENTITY sort.dateUpdated.tooltip             "ordenar por data de actualização">
+<!ENTITY sort.dateUpdated.tooltip             "Ordenar por data de actualização">
 <!ENTITY sort.relevance.label                 "Melhor correspondência">
 <!ENTITY sort.relevance.tooltip               "Ordenar por relevância">
 
@@ -121,10 +131,10 @@
 <!ENTITY addon.disabled.postfix               "(desactivado)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "Actualizar">
-<!ENTITY addon.undo.label                     "Anular?">
-<!ENTITY addon.undo.tooltip                   "Anula esta acção">
-<!ENTITY addon.undoUninstall.label            "Anular?">
-<!ENTITY addon.undoUninstall.tooltip          "manter este extra instalado">
+<!ENTITY addon.undoAction.label               "Anular">
+<!ENTITY addon.undoAction.tooltip             "Anula esta acção">
+<!ENTITY addon.undoRemove.label               "Anular">
+<!ENTITY addon.undoRemove.tooltip             "Manter este extra instalado">
 <!ENTITY addon.restartNow.label               "Reiniciar agora">
 <!ENTITY addon.install.label                  "Instalar">
 <!ENTITY addon.install.tooltip                "Instala este extra">
