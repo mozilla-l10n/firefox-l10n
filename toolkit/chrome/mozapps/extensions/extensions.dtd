@@ -16,7 +16,7 @@
 <!ENTITY view.locales.label "Lingue">
 <!ENTITY view.searchengines.label "Motori di ricerca">
 <!ENTITY view.features.label "Estensioni">
-<!ENTITY view.appearance.label "Temi">
+<!ENTITY view.appearance2.label "Aspetto">
 <!ENTITY view.plugins.label "Plugin">
 <!ENTITY view.recentUpdates.label "Aggiornamenti recenti">
 <!ENTITY view.availableUpdates.label "Aggiornamenti disponibili">
@@ -48,6 +48,8 @@
 <!ENTITY cmd.enableAddon.accesskey "A">
 <!ENTITY cmd.disableAddon.label "Disattiva">
 <!ENTITY cmd.disableAddon.accesskey "D">
+<!ENTITY cmd.installAddon.label "Installa">
+<!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Rimuovi">
 <!ENTITY cmd.uninstallAddon.accesskey "R">
 <!ENTITY cmd.showPreferencesWin.label "Opzioni">
@@ -62,13 +64,19 @@
 <!ENTITY cmd.hideReleaseNotes.label "Nascondi note di versione">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Nascondi le note di versione per questo aggiornamento">
 <!ENTITY detail.version.label "Versione">
-<!ENTITY detail.updated.label "Ultimo aggiornamento">
+<!ENTITY detail.lastupdated.label "Ultimo aggiornamento">
 <!ENTITY detail.creator.label "Sviluppatore">
 <!ENTITY detail.homepage.label "Sito web">
 <!ENTITY detail.numberOfDownloads.label "Download">
-<!ENTITY detail.updateAutomatically.label "Aggiorna automaticamente">
-<!ENTITY detail.updateAutomatically.accesskey "u">
-<!ENTITY detail.updateAutomatically.tooltip "Aggiorna automaticamente questo componente aggiuntivo quando è disponibile un aggiornamento">
+<!ENTITY detail.contributions.description "Lo sviluppatore di questo componente aggiuntivo chiede agli utenti una piccola donazione per contribuire al suo sviluppo.">
+<!ENTITY detail.updateType "Aggiornamenti automatici">
+<!ENTITY detail.updateAutomatic.label "Attivo">
+<!ENTITY detail.updateAutomatic.tooltip "Installa automaticamente gli aggiornamenti">
+<!ENTITY detail.updateManual.label "Disattivo">
+<!ENTITY detail.updateManual.tooltip "Non installare automaticamente gli aggiornamenti">
+<!ENTITY detail.home "Sito web">
+<!ENTITY detail.repository "Profilo del componente aggiuntivo">
+<!ENTITY detail.size "Dimensione">
 <!ENTITY detail.checkForUpdates.label "Cerca aggiornamenti">
 <!ENTITY detail.checkForUpdates.accesskey "e">
 <!ENTITY detail.checkForUpdates.tooltip "Cerca aggiornamenti per questo componente aggiuntivo">
@@ -98,10 +106,10 @@
 <!ENTITY addon.unknownDate "Sconosciuto">
 <!ENTITY addon.disabled.postfix "(disattivato)">
 <!ENTITY addon.update.postfix "Aggiorna">
-<!ENTITY addon.undo.label "Annulla?">
-<!ENTITY addon.undo.tooltip "Annulla questa azione">
-<!ENTITY addon.undoUninstall.label "Annulla?">
-<!ENTITY addon.undoUninstall.tooltip "Mantieni installato questo componente aggiuntivo">
+<!ENTITY addon.undoAction.label "Annulla">
+<!ENTITY addon.undoAction.tooltip "Annulla questa azione">
+<!ENTITY addon.undoRemove.label "Annulla">
+<!ENTITY addon.undoRemove.tooltip "Mantieni installato questo componente aggiuntivo">
 <!ENTITY addon.restartNow.label "Riavvia adesso">
 <!ENTITY addon.install.label "Installa">
 <!ENTITY addon.install.tooltip "Installa questo componente aggiuntivo">
