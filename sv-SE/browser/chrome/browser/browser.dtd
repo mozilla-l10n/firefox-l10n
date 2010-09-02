@@ -199,6 +199,7 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Tillägg">
 <!ENTITY addons.accesskey             "T">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Felkonsol">
 <!ENTITY errorConsoleCmd.accesskey    "k">
