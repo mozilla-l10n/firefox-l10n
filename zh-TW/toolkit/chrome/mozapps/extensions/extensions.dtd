@@ -19,7 +19,7 @@
 <!ENTITY view.locales.label                   "語言套件">
 <!ENTITY view.searchengines.label             "搜尋引擎">
 <!ENTITY view.features.label                  "擴充套件">
-<!ENTITY view.appearance.label                "佈景主題">
+<!ENTITY view.appearance2.label               "外觀設定">
 <!ENTITY view.plugins.label                   "外掛程式">
 <!ENTITY view.recentUpdates.label             "最近的更新">
 <!ENTITY view.availableUpdates.label          "可用的更新">
@@ -56,6 +56,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "停用">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.installAddon.label               "安裝">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "移除">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "選項">
@@ -73,14 +75,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "版本">
-<!ENTITY detail.updated.label                 "已更新">
+<!ENTITY detail.lastupdated.label             "最近更新時間">
 <!ENTITY detail.creator.label                 "開發者">
 <!ENTITY detail.homepage.label                "網站首頁">
 <!ENTITY detail.numberOfDownloads.label       "下載次數">
 
-<!ENTITY detail.updateAutomatically.label     "自動更新">
-<!ENTITY detail.updateAutomatically.accesskey "U">
-<!ENTITY detail.updateAutomatically.tooltip   "當有更新版本時自動更新這個附加元件">
+<!ENTITY detail.contributions.description     "這個元件的開發者希望您透過小小的捐獻協助其後續開發。">
+
+<!ENTITY detail.updateType                    "自動更新">
+<!ENTITY detail.updateAutomatic.label         "開啟">
+<!ENTITY detail.updateAutomatic.tooltip       "自動安裝更新">
+<!ENTITY detail.updateManual.label            "關閉">
+<!ENTITY detail.updateManual.tooltip          "不要自動安裝更新">
+<!ENTITY detail.home                          "網站首頁">
+<!ENTITY detail.repository                    "附加元件設定檔">
+<!ENTITY detail.size                          "大小">
+
 <!ENTITY detail.checkForUpdates.label         "檢查更新">
 <!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "檢查此附加元件是否有更新版本">
@@ -121,10 +131,10 @@
 <!ENTITY addon.disabled.postfix               "（已停用）">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "更新">
-<!ENTITY addon.undo.label                     "復原？">
-<!ENTITY addon.undo.tooltip                   "還原這個動作">
-<!ENTITY addon.undoUninstall.label            "復原？">
-<!ENTITY addon.undoUninstall.tooltip          "保持這個附加元件已安裝">
+<!ENTITY addon.undoAction.label               "復原">
+<!ENTITY addon.undoAction.tooltip             "還原這個動作">
+<!ENTITY addon.undoRemove.label               "復原">
+<!ENTITY addon.undoRemove.tooltip             "保持安裝此附加元件">
 <!ENTITY addon.restartNow.label               "立刻重新啟動">
 <!ENTITY addon.install.label                  "立刻重新啟動以完成安裝">
 <!ENTITY addon.install.tooltip                "安裝此附加元件">
