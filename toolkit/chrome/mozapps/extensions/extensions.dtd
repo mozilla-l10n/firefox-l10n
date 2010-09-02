@@ -70,9 +70,9 @@
 <!ENTITY detail.numberOfDownloads.label "Загрузок">
 <!ENTITY detail.contributions.description "Разработчик этого дополнения просит вас помочь поддержать его дальнейшее развитие, внеся небольшое пожертвование.">
 <!ENTITY detail.updateType "Автоматические обновления">
-<!ENTITY detail.updateAutomatic.label "Включёны">
+<!ENTITY detail.updateAutomatic.label "Включены">
 <!ENTITY detail.updateAutomatic.tooltip "Устанавливать обновления автоматически">
-<!ENTITY detail.updateManual.label "Отключёны">
+<!ENTITY detail.updateManual.label "Отключены">
 <!ENTITY detail.updateManual.tooltip "Не устанавливать обновления автоматически">
 <!ENTITY detail.home "Домашняя страница">
 <!ENTITY detail.repository "Профиль дополнения">
