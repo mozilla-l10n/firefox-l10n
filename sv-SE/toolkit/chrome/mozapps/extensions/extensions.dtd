@@ -56,6 +56,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Inaktivera">
 <!ENTITY cmd.disableAddon.accesskey           "k">
+<!ENTITY cmd.installAddon.label               "Installera">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Ta bort">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
 <!ENTITY cmd.showPreferencesWin.label         "Inställningar">
@@ -73,14 +75,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
-<!ENTITY detail.updated.label                 "Uppdaterad">
+<!ENTITY detail.lastupdated.label             "Senast uppdaterad">
 <!ENTITY detail.creator.label                 "Utvecklare">
 <!ENTITY detail.homepage.label                "Webbplats">
 <!ENTITY detail.numberOfDownloads.label       "Hämtningar">
 
-<!ENTITY detail.updateAutomatically.label     "Uppdatera automatiskt">
-<!ENTITY detail.updateAutomatically.accesskey "U">
-<!ENTITY detail.updateAutomatically.tooltip   "Uppdaterar detta tillägg automatiskt när det finns en tillgänglig uppdatering">
+<!ENTITY detail.contributions.description     "Skaparen av det här tillägget ber dig om ett litet bidrag för att stödja den fortsatta utvecklingen.">
+
+<!ENTITY detail.updateType                    "Automatiska uppdateringar">
+<!ENTITY detail.updateAutomatic.label         "På">
+<!ENTITY detail.updateAutomatic.tooltip       "Installerar uppdateringar automatiskt">
+<!ENTITY detail.updateManual.label            "Av">
+<!ENTITY detail.updateManual.tooltip          "Installerar inte uppdateringar automatiskt">
+<!ENTITY detail.home                          "Webbplats">
+<!ENTITY detail.repository                    "Tilläggets profil">
+<!ENTITY detail.size                          "Storlek">
+
 <!ENTITY detail.checkForUpdates.label         "Sök efter uppdateringar">
 <!ENTITY detail.checkForUpdates.accesskey     "ö">
 <!ENTITY detail.checkForUpdates.tooltip       "Söker efter uppdateringar till tillägget">
@@ -121,10 +131,10 @@
 <!ENTITY addon.disabled.postfix               "(inaktiverat)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "uppdatering">
-<!ENTITY addon.undo.label                     "Ångra?">
-<!ENTITY addon.undo.tooltip                   "Ångra denna åtgärd">
-<!ENTITY addon.undoUninstall.label            "Ångra?">
-<!ENTITY addon.undoUninstall.tooltip          "Behåll tillägget installerat">
+<!ENTITY addon.undoAction.label               "Ångra">
+<!ENTITY addon.undoAction.tooltip             "Ångra denna åtgärd">
+<!ENTITY addon.undoRemove.label               "Ångra">
+<!ENTITY addon.undoRemove.tooltip             "Behåll tillägget installerat">
 <!ENTITY addon.restartNow.label               "Starta om nu">
 <!ENTITY addon.install.label                  "Installera">
 <!ENTITY addon.install.tooltip                "Installerar detta tillägg">
