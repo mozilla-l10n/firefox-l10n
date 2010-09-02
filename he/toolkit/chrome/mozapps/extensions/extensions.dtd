@@ -8,10 +8,12 @@
 <!ENTITY listEmpty.search.label               "לא ניתן למצוא תוספת תואמת">
 <!ENTITY listEmpty.button.label               "למד עוד אודות תוספות">
 <!ENTITY installFromFile.label                "התקן מקובץ…">
-<!ENTITY installFromFile.accesskey            "ה">
+<!ENTITY installFromFile.accesskey            "מ">
+
+<!ENTITY cmd.back.tooltip                     "חזור דף אחד אחורה">
+<!ENTITY cmd.forward.tooltip                  "התקדם דף אחד קדימה">
 
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "חיפוש">
 <!ENTITY view.discover.label                  "קבל תוספות">
 <!ENTITY view.locales.label                   "שפות">
@@ -21,6 +23,8 @@
 <!ENTITY view.plugins.label                   "תוספים חיצוניים">
 <!ENTITY view.recentUpdates.label             "עדכונים אחרונים">
 <!ENTITY view.availableUpdates.label          "עדכונים זמינים">
+<!ENTITY view.utilites.preferences.tooltip    "אפשרויות לכל התוספות">
+<!ENTITY view.utilites.preferencesUnix.tooltip "העדפות לכל התוספות">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "עדכן תוספות כעת">
@@ -41,8 +45,10 @@
 <!ENTITY cmd.showDetails.accesskey            "ה">
 <!ENTITY cmd.findUpdates.label                "מצא עדכונים">
 <!ENTITY cmd.findUpdates.accesskey            "מ">
-<!ENTITY cmd.preferences.label                "העדפות">
-<!ENTITY cmd.preferences.accesskey            "ה">
+<!ENTITY cmd.preferencesWin.label             "אפשרויות">
+<!ENTITY cmd.preferencesWin.accesskey         "א">
+<!ENTITY cmd.preferencesUnix.label            "העדפות">
+<!ENTITY cmd.preferencesUnix.accesskey        "ה">
 <!ENTITY cmd.about.label                      "אודות">
 <!ENTITY cmd.about.accesskey                  "א">
 
@@ -52,8 +58,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "נ">
 <!ENTITY cmd.uninstallAddon.label             "הסרה">
 <!ENTITY cmd.uninstallAddon.accesskey         "ה">
-<!ENTITY cmd.showPreferences.label            "העדפות">
-<!ENTITY cmd.showPreferences.tooltip          "שנה את ההעדפות של תוספת זו">
+<!ENTITY cmd.showPreferencesWin.label         "אפשרויות">
+<!ENTITY cmd.showPreferencesWin.tooltip       "שנה את האפשרויות של תוספת זו">
+<!ENTITY cmd.showPreferencesUnix.label        "העדפות">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "שנה את ההעדפות של תוספת זו">
 <!ENTITY cmd.contribute.label                 "תרום">
 <!ENTITY cmd.contribute.accesskey             "ת">
 <!ENTITY cmd.contribute.tooltip               "תרום לפיתוח של תוסף זו">
@@ -76,9 +84,12 @@
 <!ENTITY detail.checkForUpdates.label         "בדוק אם ישנם עדכונים">
 <!ENTITY detail.checkForUpdates.accesskey     "ב">
 <!ENTITY detail.checkForUpdates.tooltip       "בדוק אם ישנם עדכונים לתוספת זו">
-<!ENTITY detail.showPreferences.label         "העדפות">
-<!ENTITY detail.showPreferences.accesskey     "ה">
-<!ENTITY detail.showPreferences.tooltip       "שנה את ההעדפות של תוספת זו">
+<!ENTITY detail.showPreferencesWin.label      "אפשרויות">
+<!ENTITY detail.showPreferencesWin.accesskey  "א">
+<!ENTITY detail.showPreferencesWin.tooltip    "שנה את האפשרויות של תוספת זו">
+<!ENTITY detail.showPreferencesUnix.label     "העדפות">
+<!ENTITY detail.showPreferencesUnix.accesskey "ה">
+<!ENTITY detail.showPreferencesUnix.tooltip   "שנה את ההעדפות של תוספת זו">
 
 
 <!-- ratings -->
@@ -94,8 +105,8 @@
 <!ENTITY sort.name.tooltip                    "מיין לפי שם">
 <!ENTITY sort.dateUpdated.label               "עודכן לאחרונה">
 <!ENTITY sort.dateUpdated.tooltip             "מיין לפי תאריך עדכון">
-<!ENTITY sort.rating.label                    "דירוג">
-<!ENTITY sort.rating.tooltip                  "מיין לפי דירוג ממוצע">
+<!ENTITY sort.relevance.label                 "ההתאמה הטובה ביותר">
+<!ENTITY sort.relevance.tooltip               "מיין לפי רלוונטיות">
 
 <!ENTITY search.filter2.label                 "חפש:">
 <!ENTITY search.filter2.installed.label       "התוספות שלי">

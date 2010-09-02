@@ -47,13 +47,19 @@
 
 <!ENTITY  details.link                    "פרטים">
 
+<!ENTITY  error.title                     "עדכון נכשל">
+
 <!ENTITY  error.label                     "נמצאו שגיאות בבדיקה, הורדה או התקנה של                 עדכון זה. &brandShortName; אינו יכול להתעדכן משום ש:">
                                            
 <!ENTITY  errorManual.label               "ביכולתך לעדכן את &brandShortName; ידנית על־ידי ביקור בקישור זה 
                                                                     והורדת הגרסה האחרונה:">
                                            
-<!ENTITY  errorpatching.title             "עדכון נכשל">
 <!ENTITY  errorpatching.intro             "אין אפשרות ליישם את העדכון החלקי. &brandShortName; ינסה שוב על־ידי הורדת עדכון שלם.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "משהו מונע מ־&brandShortName; לעדכן בצורה מאובטחת.
+                                           אנא בדוק שיש לך את הגרסה המעודכנת של &brandShortName; ב־">
+<!ENTITY  errorCertAttrHasUpdate.label    "משהו מנסה להערים על &brandShortName; כדי שיתקבל
+                                           עדכון המהווה סיכון בטיחותי. אנא צור קשר עם ספק הרשת שלך בבקשת עזרה.">
 
 <!ENTITY  finishedPage.title              "עדכון מוכן להתקנה">
 <!ENTITY  finishedPage.text               "עדכון זה יותקן בהפעלה הבאה של &brandShortName;. תוכל להפעיל מחדש את &brandShortName; כעת, או להמשיך לעבוד ולהפעיל מחדש מאוחר יותר.">

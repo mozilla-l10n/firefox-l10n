@@ -1,0 +1,12 @@
+<!ENTITY securityWarnings.title "התראות אבטחה">
+<!ENTITY security.warn_when "הצג תיבת אזהרה כאשר:">
+<!ENTITY security.warn_entering_secure.label "אני עומד לצפות בדף מוצפן.">
+<!ENTITY security.warn_entering_secure.accesskey "צ">
+<!ENTITY security.warn_entering_weak.label "אני עומד לצפות בדף שמשתמש בהצפנה נמוכה.">
+<!ENTITY security.warn_entering_weak.accesskey "נ">
+<!ENTITY security.warn_leaving_secure.label "אני עובר מדף מוצפן לדף שאיננו מוצפן.">
+<!ENTITY security.warn_leaving_secure.accesskey "ע">
+<!ENTITY security.warn_submit_insecure.label "אני שולח נתונים שאינם מוצפנים.">
+<!ENTITY security.warn_submit_insecure.accesskey "ש">
+<!ENTITY security.warn_viewing_mixed.label "אני עומד לצפות בדף מוצפן שמכיל מידע שאיננו מוצפן.">
+<!ENTITY security.warn_viewing_mixed.accesskey "א">

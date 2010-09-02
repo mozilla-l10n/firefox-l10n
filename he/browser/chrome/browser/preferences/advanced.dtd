@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "ב">
 <!ENTITY useSmoothScrolling.label        "השתמש בגלילה חלקה">
 <!ENTITY useSmoothScrolling.accesskey    "ח">
+<!ENTITY allowHWAccel.label              "השתמש בהאצת חומרה כשניתן">
+<!ENTITY allowHWAccel.accesskey          "ה">
 <!ENTITY checkSpelling.label             "בדוק איות בזמן שאני מקליד">
 <!ENTITY checkSpelling.accesskey         "א">
 
