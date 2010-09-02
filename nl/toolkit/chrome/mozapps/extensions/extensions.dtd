@@ -56,6 +56,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "I">
 <!ENTITY cmd.disableAddon.label               "Uitschakelen">
 <!ENTITY cmd.disableAddon.accesskey           "U">
+<!ENTITY cmd.installAddon.label               "Installeren">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Verwijderen">
 <!ENTITY cmd.uninstallAddon.accesskey         "V">
 <!ENTITY cmd.showPreferencesWin.label         "Opties">
@@ -74,13 +76,22 @@
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versie">
 <!ENTITY detail.updated.label                 "Bijgewerkt">
+<!ENTITY detail.lastupdated.label             "Laatste update">
 <!ENTITY detail.creator.label                 "Ontwikkelaar">
 <!ENTITY detail.homepage.label                "Homepagina">
 <!ENTITY detail.numberOfDownloads.label       "Aantal downloads">
 
-<!ENTITY detail.updateAutomatically.label     "Automatisch bijwerken">
-<!ENTITY detail.updateAutomatically.accesskey "A">
-<!ENTITY detail.updateAutomatically.tooltip   "Deze add-on automatisch bijwerken als er een update beschikbaar is">
+<!ENTITY detail.contributions.description     "De ontwikkelaar van deze add-on vraagt uw steun voor verdere ontwikkeling door middel van een kleine bijdrage.">
+
+<!ENTITY detail.updateType                    "Automatische updates">
+<!ENTITY detail.updateAutomatic.label         "Aan">
+<!ENTITY detail.updateAutomatic.tooltip       "Updates automatisch installeren">
+<!ENTITY detail.updateManual.label            "Uit">
+<!ENTITY detail.updateManual.tooltip          "Updates niet automatisch installeren">
+<!ENTITY detail.home                          "Homepage">
+<!ENTITY detail.repository                    "Add-on profiel">
+<!ENTITY detail.size                          "Grootte">
+
 <!ENTITY detail.checkForUpdates.label         "Controleren op updates">
 <!ENTITY detail.checkForUpdates.accesskey     "C">
 <!ENTITY detail.checkForUpdates.tooltip       "Controleren op updates voor deze add-on">
