@@ -69,7 +69,7 @@
 <!ENTITY detail.homepage.label "Sito web">
 <!ENTITY detail.numberOfDownloads.label "Download">
 <!ENTITY detail.contributions.description "Lo sviluppatore di questo componente aggiuntivo chiede agli utenti una piccola donazione per contribuire al suo sviluppo.">
-<!ENTITY detail.updateType "Aggiornamenti automatici">
+<!ENTITY detail.updateType "Aggiornamento automatico">
 <!ENTITY detail.updateAutomatic.label "Attivo">
 <!ENTITY detail.updateAutomatic.tooltip "Installa automaticamente gli aggiornamenti">
 <!ENTITY detail.updateManual.label "Disattivo">
@@ -86,7 +86,7 @@
 <!ENTITY detail.showPreferencesUnix.label "Preferenze">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip "Modifica le preferenze di questo componente aggiuntivo">
-<!ENTITY rating.label "Voto:">
+<!ENTITY rating.label "Voto">
 <!ENTITY progress.pause.tooltip "Pausa">
 <!ENTITY progress.cancel.tooltip "Annulla">
 <!ENTITY sort.name.label "Nome">
