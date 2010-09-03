@@ -19,7 +19,7 @@
 <!ENTITY view.locales.label "Jazykové balíčky">
 <!ENTITY view.searchengines.label "Vyhledávače">
 <!ENTITY view.features.label "Rozšíření">
-<!ENTITY view.appearance.label "Motivy vzhledu">
+<!ENTITY view.appearance2.label "Vzhled">
 <!ENTITY view.plugins.label "Zásuvné moduly">
 <!ENTITY view.recentUpdates.label "Nedávné aktualizace">
 <!ENTITY view.availableUpdates.label "Dostupné aktualizace">
@@ -56,6 +56,8 @@
 <!ENTITY cmd.enableAddon.accesskey "P">
 <!ENTITY cmd.disableAddon.label "Zakázat">
 <!ENTITY cmd.disableAddon.accesskey "Z">
+<!ENTITY cmd.installAddon.label "Instalovat">
+<!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Odebrat">
 <!ENTITY cmd.uninstallAddon.accesskey "O">
 <!ENTITY cmd.showPreferencesWin.label "Možnosti">
@@ -73,14 +75,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label "Verze">
-<!ENTITY detail.updated.label "Aktulizováno">
+<!ENTITY detail.lastupdated.label "Poslední aktualizace">
 <!ENTITY detail.creator.label "Autor">
 <!ENTITY detail.homepage.label "Domovská stránka">
 <!ENTITY detail.numberOfDownloads.label "Počet stažení">
 
-<!ENTITY detail.updateAutomatically.label "Automaticky aktualizovat">
-<!ENTITY detail.updateAutomatically.accesskey "A">
-<!ENTITY detail.updateAutomatically.tooltip "Pokud je dostupná aktualizace, doplněk je automaticky aktualizován">
+<!ENTITY detail.contributions.description "Vývojář tohoto doplňku vás žádá o malý příspěvek, kterým pomůžete podpořit další vývoj.">
+
+<!ENTITY detail.updateType "Automatické aktualizace">
+<!ENTITY detail.updateAutomatic.label "Povoleny">
+<!ENTITY detail.updateAutomatic.tooltip "Instalovat aktualizace automaticky">
+<!ENTITY detail.updateManual.label "Zakázány">
+<!ENTITY detail.updateManual.tooltip "Neinstalovat aktualizace automaticky">
+<!ENTITY detail.home "Domovská stránka">
+<!ENTITY detail.repository "Profil doplňku">
+<!ENTITY detail.size "Velikost">
+
 <!ENTITY detail.checkForUpdates.label "Zkontrolovat aktualizace">
 <!ENTITY detail.checkForUpdates.accesskey "Z">
 <!ENTITY detail.checkForUpdates.tooltip "Zkontroluje dostupnost aktualizace doplňku">
@@ -121,10 +131,10 @@
 <!ENTITY addon.disabled.postfix "(zakázáno)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix "Aktualizovat">
-<!ENTITY addon.undo.label "Zpět?">
-<!ENTITY addon.undo.tooltip "Vrátí tuto akci">
-<!ENTITY addon.undoUninstall.label "Zpět?">
-<!ENTITY addon.undoUninstall.tooltip "Ponechá doplněk nainstalovaný">
+<!ENTITY addon.undoAction.label "Zpět">
+<!ENTITY addon.undoAction.tooltip "Vrátí tuto akci">
+<!ENTITY addon.undoRemove.label "Zpět">
+<!ENTITY addon.undoRemove.tooltip "Ponechá doplněk nainstalovaný">
 <!ENTITY addon.restartNow.label "Restartovat">
 <!ENTITY addon.install.label "Instalovat">
 <!ENTITY addon.install.tooltip "Nainstaluje doplněk">
