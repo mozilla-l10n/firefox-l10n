@@ -19,7 +19,7 @@
 <!ENTITY view.locales.label                   "语言">
 <!ENTITY view.searchengines.label             "搜索引擎">
 <!ENTITY view.features.label                  "扩展">
-<!ENTITY view.appearance.label                "主题">
+<!ENTITY view.appearance2.label               "外观">
 <!ENTITY view.plugins.label                   "插件">
 <!ENTITY view.recentUpdates.label             "最近更新">
 <!ENTITY view.availableUpdates.label          "可用更新">
@@ -56,6 +56,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "禁用">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.installAddon.label               "安装">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "移除">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "选项">
@@ -73,14 +75,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "版本">
-<!ENTITY detail.updated.label                 "已更新">
+<!ENTITY detail.lastupdated.label             "最后更新">
 <!ENTITY detail.creator.label                 "开发者">
 <!ENTITY detail.homepage.label                "主页">
 <!ENTITY detail.numberOfDownloads.label       "下载">
 
-<!ENTITY detail.updateAutomatically.label     "自动更新">
-<!ENTITY detail.updateAutomatically.accesskey "U">
-<!ENTITY detail.updateAutomatically.tooltip   "当有可用更新时,自动更新本附加件">
+<!ENTITY detail.contributions.description     "此附加组件的开发人员请求您的帮助，以便支持他们能继续开发。">
+
+<!ENTITY detail.updateType                    "自动更新">
+<!ENTITY detail.updateAutomatic.label         "开">
+<!ENTITY detail.updateAutomatic.tooltip       "自动安装更新">
+<!ENTITY detail.updateManual.label            "关">
+<!ENTITY detail.updateManual.tooltip          "不要自动安装更新">
+<!ENTITY detail.home                          "主页">
+<!ENTITY detail.repository                    "附加组件配置文件">
+<!ENTITY detail.size                          "大小">
+
 <!ENTITY detail.checkForUpdates.label         "检查更新">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "检查此附加组件的更新">
@@ -121,10 +131,10 @@
 <!ENTITY addon.disabled.postfix               "（已禁用）">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "更新">
-<!ENTITY addon.undo.label                     "撤销吗?">
-<!ENTITY addon.undo.tooltip                   "撤销此操作">
-<!ENTITY addon.undoUninstall.label            "撤销吗?">
-<!ENTITY addon.undoUninstall.tooltip          "保持此附加组件安装">
+<!ENTITY addon.undoAction.label               "撤销">
+<!ENTITY addon.undoAction.tooltip             "撤销此操作">
+<!ENTITY addon.undoRemove.label               "撤销">
+<!ENTITY addon.undoRemove.tooltip             "保持此附加组件安装">
 <!ENTITY addon.restartNow.label               "立即重启">
 <!ENTITY addon.install.label                  "安装">
 <!ENTITY addon.install.tooltip                "安装此附加组件">
