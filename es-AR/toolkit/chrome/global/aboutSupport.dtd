@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins habilitados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de build">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
 <!ENTITY aboutSupport.show.label "Abrir carpeta contenedora">
 
