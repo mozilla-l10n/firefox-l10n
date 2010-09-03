@@ -33,7 +33,6 @@
 <!ENTITY  errorManual.label               "Mund ta përditësoni &brandShortName;-in dorazi duke vizituar këtë lidhje
                                            dhe shkarkuar versionin më të fundit:">
                                           
-<!ENTITY  errorpatching.title             "Përditësimi Dështoi">
 <!ENTITY  errorpatching.intro             "Nuk u zbatua dot Përditësimi i pjesshëm. 
                                            &brandShortName;-i do të riprovojë duke shkarkuar Përditësimin e plotë.">
 <!ENTITY  installed.title                 "Përditësimi u Instalua">
