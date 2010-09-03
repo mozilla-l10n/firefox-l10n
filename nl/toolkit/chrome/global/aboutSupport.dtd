@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Profielmap">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ingeschakelde plug-ins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Buildconfiguratie">
+<!ENTITY aboutSupport.appBasicsUserAgent "Useragent">
 
 <!ENTITY aboutSupport.show.label "Bijbehorende map openen">
 
