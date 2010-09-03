@@ -130,10 +130,10 @@
 <!ENTITY addon.disabled.postfix               "(uitgeschakeld)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "Bijwerken">
-<!ENTITY addon.undo.label                     "Ongedaan maken?">
-<!ENTITY addon.undo.tooltip                   "Deze actie ongedaan maken">
-<!ENTITY addon.undoUninstall.label            "Ongedaan maken?">
-<!ENTITY addon.undoUninstall.tooltip          "Deze add-on geïnstalleerd laten">
+<!ENTITY addon.undoAction.label               "Ongedaan maken">
+<!ENTITY addon.undoAction.tooltip             "Deze actie ongedaan maken">
+<!ENTITY addon.undoRemove.label               "Ongedaan maken">
+<!ENTITY addon.undoRemove.tooltip             "Deze add-on geïnstalleerd laten">
 <!ENTITY addon.restartNow.label               "Nu herstarten">
 <!ENTITY addon.install.label                  "Installeren">
 <!ENTITY addon.install.tooltip                "Deze add-on installeren">
