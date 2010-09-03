@@ -75,7 +75,6 @@
   
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versie">
-<!ENTITY detail.updated.label                 "Bijgewerkt">
 <!ENTITY detail.lastupdated.label             "Laatste update">
 <!ENTITY detail.creator.label                 "Ontwikkelaar">
 <!ENTITY detail.homepage.label                "Homepagina">
