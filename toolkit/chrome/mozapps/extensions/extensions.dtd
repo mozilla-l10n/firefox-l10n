@@ -20,7 +20,7 @@
 <!ENTITY view.locales.label                   "ਭਾਸ਼ਾਵਾਂ">
 <!ENTITY view.searchengines.label             "ਖੋਜ ਇੰਜਣ">
 <!ENTITY view.features.label                  "ਇਕਸਟੈਨਸ਼ਨ">
-<!ENTITY view.appearance.label                "ਥੀਮ">
+<!ENTITY view.appearance2.label               "ਦਿੱਖ">
 <!ENTITY view.plugins.label                   "ਪਲੱਗਇਨ">
 <!ENTITY view.recentUpdates.label             "ਤਾਜ਼ਾ ਅੱਪਡੇਟ">
 <!ENTITY view.availableUpdates.label          "ਉਪਲੱਬਧ ਅੱਪਡੇਟ">
@@ -56,9 +56,10 @@
 
 <!ENTITY cmd.enableAddon.label                "ਚਾਲੂ">
 <!ENTITY cmd.enableAddon.accesskey            "E">
-
 <!ENTITY cmd.disableAddon.label               "ਬੰਦ">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.installAddon.label               "ਇੰਸਟਾਲ">
+<!ENTITY cmd.installAddon.accesskey           "I">
 
 <!ENTITY cmd.uninstallAddon.label             "ਹਟਾਓ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
@@ -78,14 +79,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "ਵਰਜਨ">
-<!ENTITY detail.updated.label                 "ਅੱਪਡੇਟ ਹੈ">
 <!ENTITY detail.creator.label                 "ਡਿਵੈਲਪਰ">
 <!ENTITY detail.homepage.label                "ਮੁੱਖ ਪੇਜ਼">
 <!ENTITY detail.numberOfDownloads.label       "ਡਾਊਨਲੋਡ">
 
-<!ENTITY detail.updateAutomatically.label     "ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
-<!ENTITY detail.updateAutomatically.accesskey "U">
-<!ENTITY detail.updateAutomatically.tooltip   "ਜਦੋਂ ਵੀ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੋਵੇ ਤਾਂ ਇਹ ਆਟੋਮਐਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY detail.contributions.description     "ਇਹ ਐਡ-ਆਨ ਦੇ ਡਿਵੈਲਪਰ ਨੇ ਤੁਹਾਨੂੰ ਪੁੱਛਿਆ ਹੈ ਕਿ ਤੁਸੀਂ ਛੋਟਾ ਜਿਹਾ ਯੋਗਦਾਨ ਦੇ ਕੇ ਇਸ ਦੀ ਡਿਵੈਲਪਮੈਂਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ 'ਚ ਮੱਦਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ।">
+
+<!ENTITY detail.updateType                    "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ">
+<!ENTITY detail.updateAutomatic.label         "ਚਾਲੂ">
+<!ENTITY detail.updateAutomatic.tooltip       "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY detail.updateManual.label            "ਬੰਦ">
+<!ENTITY detail.updateManual.tooltip          "ਅੱਪਡੇਟ ਆਟੋਮੈਟਿਕ ਇੰਸਟਾਲ ਨਾ ਕਰੋ">
+<!ENTITY detail.home                          "ਮੁੱਖ ਪੇਜ਼">
+<!ENTITY detail.repository                    "ਐਡ-ਆਨ ਪਰੋਫਾਇਲAdd-on Profile">
+<!ENTITY detail.size                          "ਆਕਾਰ">
+
+
 <!ENTITY detail.checkForUpdates.label         "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "ਇਹ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਚੈੱਕ ਕਰੋ">
@@ -123,10 +132,10 @@
 <!ENTITY addon.disabled.postfix               "(ਬੰਦ ਹੈ)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "ਅੱਪਡੇਟ">
-<!ENTITY addon.undo.label                     "ਵਾਪਸ ਲੈਣਾ?">
-<!ENTITY addon.undo.tooltip                   "ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਲਵੋ">
-<!ENTITY addon.undoUninstall.label            "ਵਾਪਸ ਲੈਣਾ?">
-<!ENTITY addon.undoUninstall.tooltip          "ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਰੱਖੋ">
+<!ENTITY addon.undoAction.label               "ਵਾਪਸ">
+<!ENTITY addon.undoAction.tooltip             "ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਲਵੋ">
+<!ENTITY addon.undoRemove.label               "ਵਾਪਸ">
+<!ENTITY addon.undoRemove.tooltip             "ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਹੀ ਰੱਖੋ">
 <!ENTITY addon.restartNow.label               "ਹੁਣੇ ਮੁੜ-ਚਾਲੂ">
 
 <!ENTITY addon.install.label                  "ਇੰਸਟਾਲ ਕਰੋ">
