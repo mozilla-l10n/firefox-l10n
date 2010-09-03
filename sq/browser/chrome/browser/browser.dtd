@@ -438,8 +438,6 @@
 <!ENTITY appMenuSidebars.label "Anështylla">
 
 
-<!ENTITY  bookmarkThisTab.label              "Faqeruaje Këtë Skedë">
-<!ENTITY  bookmarkThisTab.accesskey          "F">
 <!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
 <!ENTITY  bookmarkAllTabs.accesskey          "K">
 
