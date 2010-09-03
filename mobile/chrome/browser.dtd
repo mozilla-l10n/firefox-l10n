@@ -87,6 +87,7 @@
 <!ENTITY consoleErrColumn.label "Sloupec:">
 
 <!ENTITY contextOpenInNewTab.label "Otevřít odkaz v novém panelu">
+<!ENTITY contextSaveLink.label "Uložit odkaz">
 <!ENTITY contextSaveImage.label "Uložit obrázek">
 <!ENTITY contextShareLink.label "Sdílet odkaz">
 <!ENTITY contextShareImage.label "Sdílet obrázek">
