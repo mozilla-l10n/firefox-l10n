@@ -27,8 +27,6 @@
 <!ENTITY moveToGroup.label "Přesunout do skupiny">
 <!ENTITY moveToGroup.accesskey "s">
 <!ENTITY moveToNewGroup.label "Nová skupina">
-<!ENTITY bookmarkThisTab.label "Přidat tento panel do záložek…">
-<!ENTITY bookmarkThisTab.accesskey "P">
 <!ENTITY bookmarkAllTabs.label "Přidat všechny panely do záložek…">
 <!ENTITY bookmarkAllTabs.accesskey "d">
 <!ENTITY undoCloseTab.label "Otevřít zavřený panel">
@@ -168,6 +166,7 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Správce doplňků">
 <!ENTITY addons.accesskey "d">
+<!ENTITY addons.commandkey "a">
 
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
