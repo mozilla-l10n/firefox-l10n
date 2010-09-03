@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "移至组">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "新建组">
-<!ENTITY  bookmarkThisTab.label              "将此标签页加为书签">
-<!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "将全部标签页加为书签…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "恢复关闭的标签页">
