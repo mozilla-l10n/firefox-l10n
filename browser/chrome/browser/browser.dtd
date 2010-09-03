@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "Déplacer vers le groupe">
 <!ENTITY  moveToGroup.accesskey              "D">
 <!ENTITY  moveToNewGroup.label               "Nouveau groupe">
-<!ENTITY  bookmarkThisTab.label              "Marquer cet onglet">
-<!ENTITY  bookmarkThisTab.accesskey          "M">
 <!ENTITY  bookmarkAllTabs.label              "Marquer tous les onglets…">
 <!ENTITY  bookmarkAllTabs.accesskey          "u">
 <!ENTITY undoCloseTab.label "Annuler la fermeture de l'onglet">
