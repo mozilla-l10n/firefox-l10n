@@ -26,8 +26,6 @@
 <!ENTITY  moveToGroup.label                  "ਗਰੁੱਪ 'ਚ ਭੇਜੋ">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "ਨਵਾਂ ਗਰੁੱਪ">
-<!ENTITY  bookmarkThisTab.label              "ਇਹ ਟੈਬ ਬੁੱਕਮਾਰਕ ਕਰੋ">
-<!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਸ ਲਵੋ">
@@ -167,8 +165,8 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "ਐਡ-ਆਨ">
-
 <!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "ਗਲਤੀ ਕਨਸੋਂਲ">
 <!ENTITY errorConsoleCmd.accesskey    "C">
