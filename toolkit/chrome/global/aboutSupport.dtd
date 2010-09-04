@@ -20,6 +20,8 @@
 <!ENTITY aboutSupport.appBasicsVersion "Έκδοση">
 <!ENTITY aboutSupport.appBasicsProfileDir "Κατάλογος προφίλ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Τροποποιημένες προτιμήσεις">
 <!ENTITY aboutSupport.modifiedPrefsName "Όνομα">
