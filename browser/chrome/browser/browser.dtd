@@ -26,8 +26,6 @@
 <!ENTITY moveToGroup.label "Færa í hóp">
 <!ENTITY moveToGroup.accesskey "F">
 <!ENTITY moveToNewGroup.label "Nýr hópur">
-<!ENTITY bookmarkThisTab.label "Setja flipa í bókamerki">
-<!ENTITY bookmarkThisTab.accesskey "b">
 <!ENTITY bookmarkAllTabs.label "Setja flipa í bókamerki…">
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY undoCloseTab.label "Afturkalla loka flipa">
@@ -90,7 +88,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Gerast áskrifandi að þessari síðu">
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
 <!ENTITY addCurPagesCmd.label "Setja flipa í bókamerki…">
-<!ENTITY organizeBookmarks.label "Breyta bókamerkjum…">
+<!ENTITY showAllBookmarks.label "Sýna öll bókamerki…">
 <!ENTITY bookmarkAllCmd.label "Setja flipa í bókamerki…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
 <!ENTITY backCmd.label "Til baka">
@@ -152,6 +150,7 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Viðbætur">
 <!ENTITY addons.accesskey "i">
+<!ENTITY addons.commandkey "A">
 <!ENTITY errorConsoleCmd.label "Villugluggi">
 <!ENTITY errorConsoleCmd.accesskey "g">
 <!ENTITY errorConsoleCmd.commandkey "j">

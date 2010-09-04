@@ -17,7 +17,7 @@
 <!ENTITY view.locales.label "Tungumál">
 <!ENTITY view.searchengines.label "Leitarvélar">
 <!ENTITY view.features.label "Viðbætur">
-<!ENTITY view.appearance.label "Þema">
+<!ENTITY view.appearance2.label "Útlit">
 <!ENTITY view.plugins.label "Tengiforrit">
 <!ENTITY view.recentUpdates.label "Nýlegar uppfærslur">
 <!ENTITY view.availableUpdates.label "Fáanlegar uppfærslur">
@@ -51,6 +51,8 @@
 <!ENTITY cmd.enableAddon.accesskey "e">
 <!ENTITY cmd.disableAddon.label "Slökkva">
 <!ENTITY cmd.disableAddon.accesskey "S">
+<!ENTITY cmd.installAddon.label "Setja upp">
+<!ENTITY cmd.installAddon.accesskey "t">
 <!ENTITY cmd.uninstallAddon.label "Fjarlægja">
 <!ENTITY cmd.uninstallAddon.accesskey "r">
 <!ENTITY cmd.showPreferencesWin.label "Valkostir">
@@ -66,13 +68,19 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip "Fela útgáfuupplýsingar fyrir þessa uppfærslu">
 <!-- detail view -->
 <!ENTITY detail.version.label "Útgáfa">
-<!ENTITY detail.updated.label "Uppfært">
+<!ENTITY detail.lastupdated.label "Síðast uppfært">
 <!ENTITY detail.creator.label "Forritari">
 <!ENTITY detail.homepage.label "Heimasíða">
 <!ENTITY detail.numberOfDownloads.label "Niðurhal">
-<!ENTITY detail.updateAutomatically.label "Uppfæra sjálfvirkt">
-<!ENTITY detail.updateAutomatically.accesskey "U">
-<!ENTITY detail.updateAutomatically.tooltip "Uppfæra þessa viðbót sjálkrafa þegar til er uppfærsla">
+<!ENTITY detail.contributions.description "Höfundur þessarar viðbótar biður þig um að styðja við áframhaldandi þróun með því að styrkja viðkomandi með smá upphæð.">
+<!ENTITY detail.updateType "Sjálfvirkar uppfærslur">
+<!ENTITY detail.updateAutomatic.label "Virkt">
+<!ENTITY detail.updateAutomatic.tooltip "Setja sjálfvirkt inn uppfærslur">
+<!ENTITY detail.updateManual.label "Óvirkt">
+<!ENTITY detail.updateManual.tooltip "Ekki setja sjálfvirkt inn uppfærslur">
+<!ENTITY detail.home "Heimasíða">
+<!ENTITY detail.repository "Lýsing viðbótar">
+<!ENTITY detail.size "Stærð">
 <!ENTITY detail.checkForUpdates.label "Leita að uppfærslum">
 <!ENTITY detail.checkForUpdates.accesskey "f">
 <!ENTITY detail.checkForUpdates.tooltip "Athuga uppfærslur fyrir þessa viðbót">
@@ -106,10 +114,10 @@
 <!ENTITY addon.disabled.postfix "(óvirkt)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix "Uppfæra">
-<!ENTITY addon.undo.label "Afturkalla?">
-<!ENTITY addon.undo.tooltip "Hætta við þessa aðgerð">
-<!ENTITY addon.undoUninstall.label "Afturkalla?">
-<!ENTITY addon.undoUninstall.tooltip "Halda þessari viðbót uppsettri">
+<!ENTITY addon.undoAction.label "Afturkalla">
+<!ENTITY addon.undoAction.tooltip "Hætta við þessa aðgerð">
+<!ENTITY addon.undoRemove.label "Afturkalla">
+<!ENTITY addon.undoRemove.tooltip "Halda þessari viðbót uppsettri">
 <!ENTITY addon.restartNow.label "Endurræsa núna">
 <!ENTITY addon.install.label "Setja upp">
 <!ENTITY addon.install.tooltip "Setja inn þessa viðbót">
