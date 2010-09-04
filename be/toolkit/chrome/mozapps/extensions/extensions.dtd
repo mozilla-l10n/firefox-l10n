@@ -16,7 +16,7 @@
 <!ENTITY view.locales.label "Мовы">
 <!ENTITY view.searchengines.label "Машыны пошуку">
 <!ENTITY view.features.label "Пашырэнні">
-<!ENTITY view.appearance.label "Тэмы">
+<!ENTITY view.appearance2.label "Выгляд">
 <!ENTITY view.plugins.label "Убудовы">
 <!ENTITY view.recentUpdates.label "Нядаўнія абнаўленні">
 <!ENTITY view.availableUpdates.label "Даступныя абнаўленні">
@@ -48,6 +48,8 @@
 <!ENTITY cmd.enableAddon.accesskey "Д">
 <!ENTITY cmd.disableAddon.label "Забараніць">
 <!ENTITY cmd.disableAddon.accesskey "З">
+<!ENTITY cmd.installAddon.label "Усталяваць">
+<!ENTITY cmd.installAddon.accesskey "У">
 <!ENTITY cmd.uninstallAddon.label "Выдаліць">
 <!ENTITY cmd.uninstallAddon.accesskey "В">
 <!ENTITY cmd.showPreferencesWin.label "Наладжванні">
@@ -62,13 +64,19 @@
 <!ENTITY cmd.hideReleaseNotes.label "Схаваць заўвагі пра выданне">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Схаваць заўвагі пра выданне гэтага абнаўлення">
 <!ENTITY detail.version.label "Версія">
-<!ENTITY detail.updated.label "Абноўлена">
+<!ENTITY detail.lastupdated.label "Апошняе абнаўленне">
 <!ENTITY detail.creator.label "Распрацаўнік">
-<!ENTITY detail.homepage.label "Хатняя стронка">
+<!ENTITY detail.homepage.label "Хатняя старонка">
 <!ENTITY detail.numberOfDownloads.label "Загрузкі">
-<!ENTITY detail.updateAutomatically.label "Абнаўляць самастойна">
-<!ENTITY detail.updateAutomatically.accesskey "А">
-<!ENTITY detail.updateAutomatically.tooltip "Абнаўляць гэты дадатак самастойна, калі існуюць абнаўленні">
+<!ENTITY detail.contributions.description "Распрацоўца гэтага дадатка просіць падтрымаць яго распрацоўку невялікім ахвяраваннем.">
+<!ENTITY detail.updateType "Самастойныя абнаўленні">
+<!ENTITY detail.updateAutomatic.label "Укл.">
+<!ENTITY detail.updateAutomatic.tooltip "Самастойна ўсталёўваць абнаўленні">
+<!ENTITY detail.updateManual.label "Выкл.">
+<!ENTITY detail.updateManual.tooltip "Не шсталёўваць абнаўленні самастойна">
+<!ENTITY detail.home "Хатняя старонка">
+<!ENTITY detail.repository "Профіль дадатка">
+<!ENTITY detail.size "Памер">
 <!ENTITY detail.checkForUpdates.label "Праверыць, ці існуюць абнаўленні">
 <!ENTITY detail.checkForUpdates.accesskey "н">
 <!ENTITY detail.checkForUpdates.tooltip "Праверыць, ці існуюць абнаўленні гэтага дадатку">
@@ -98,10 +106,10 @@
 <!ENTITY addon.unknownDate "Невядомая">
 <!ENTITY addon.disabled.postfix "(забаронена)">
 <!ENTITY addon.update.postfix "Абнавіць">
-<!ENTITY addon.undo.label "Адмяніць?">
-<!ENTITY addon.undo.tooltip "Адмяніць гэтае дзеянне">
-<!ENTITY addon.undoUninstall.label "Адмяніць?">
-<!ENTITY addon.undoUninstall.tooltip "Захаваць дадатак усталяваным">
+<!ENTITY addon.undoAction.label "Адмяніць">
+<!ENTITY addon.undoAction.tooltip "Адмяніць гэтае дзеянне">
+<!ENTITY addon.undoRemove.label "Адмяніць">
+<!ENTITY addon.undoRemove.tooltip "Трымаць гэты дадатак усталяваным">
 <!ENTITY addon.restartNow.label "Перазапусціць зараз">
 <!ENTITY addon.install.label "Усталяваць">
 <!ENTITY addon.install.tooltip "Усталяваць гэты дадатак">

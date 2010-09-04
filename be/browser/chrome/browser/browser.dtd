@@ -17,8 +17,6 @@
 <!ENTITY moveToGroup.label "Перамясціць у купу">
 <!ENTITY moveToGroup.accesskey "м">
 <!ENTITY moveToNewGroup.label "Новая купа">
-<!ENTITY bookmarkThisTab.label "Закласці гэтую ўстаўку">
-<!ENTITY bookmarkThisTab.accesskey "ў">
 <!ENTITY bookmarkAllTabs.label "Дадаць закладкі да ўсіх уставак…">
 <!ENTITY bookmarkAllTabs.accesskey "Д">
 <!ENTITY undoCloseTab.label "Адмяніць закрыццё ўстаўкі">
@@ -137,6 +135,7 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Дадаткі">
 <!ENTITY addons.accesskey "Д">
+<!ENTITY addons.commandkey "A">
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
