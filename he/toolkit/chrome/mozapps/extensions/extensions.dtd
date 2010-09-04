@@ -19,7 +19,7 @@
 <!ENTITY view.locales.label                   "שפות">
 <!ENTITY view.searchengines.label             "מנועי חיפוש">
 <!ENTITY view.features.label                  "הרחבות">
-<!ENTITY view.appearance.label                "ערכות נושא">
+<!ENTITY view.appearance2.label               "מראה">
 <!ENTITY view.plugins.label                   "תוספים חיצוניים">
 <!ENTITY view.recentUpdates.label             "עדכונים אחרונים">
 <!ENTITY view.availableUpdates.label          "עדכונים זמינים">
@@ -56,6 +56,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "א">
 <!ENTITY cmd.disableAddon.label               "נטרל">
 <!ENTITY cmd.disableAddon.accesskey           "נ">
+<!ENTITY cmd.installAddon.label               "התקנה">
+<!ENTITY cmd.installAddon.accesskey           "ה">
 <!ENTITY cmd.uninstallAddon.label             "הסרה">
 <!ENTITY cmd.uninstallAddon.accesskey         "ה">
 <!ENTITY cmd.showPreferencesWin.label         "אפשרויות">
@@ -73,14 +75,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "גרסה">
-<!ENTITY detail.updated.label                 "עודכן">
+<!ENTITY detail.lastupdated.label             "עודכן לאחרונה">
 <!ENTITY detail.creator.label                 "מפתח">
 <!ENTITY detail.homepage.label                "דף בית">
 <!ENTITY detail.numberOfDownloads.label       "הורדות">
 
-<!ENTITY detail.updateAutomatically.label     "עדכון אוטומטי">
-<!ENTITY detail.updateAutomatically.accesskey "ע">
-<!ENTITY detail.updateAutomatically.tooltip   "עדכן תוספת זו אוטומטית בכל עת שיש עדכון זמין">
+<!ENTITY detail.contributions.description     "המפתח של תוספת זו מבקש את עזרתך בהמשך הפיתוח על ידי מתן תרומה צנועה.">
+
+<!ENTITY detail.updateType                    "עדכונים אוטומטיים">
+<!ENTITY detail.updateAutomatic.label         "פעיל">
+<!ENTITY detail.updateAutomatic.tooltip       "התקן עדכונים אוטומטית">
+<!ENTITY detail.updateManual.label            "כבוי">
+<!ENTITY detail.updateManual.tooltip          "אל תתקין עדכונים אוטומטית">
+<!ENTITY detail.home                          "דף הבית">
+<!ENTITY detail.repository                    "פרופיל התוספת">
+<!ENTITY detail.size                          "גודל ">
+
 <!ENTITY detail.checkForUpdates.label         "בדוק אם ישנם עדכונים">
 <!ENTITY detail.checkForUpdates.accesskey     "ב">
 <!ENTITY detail.checkForUpdates.tooltip       "בדוק אם ישנם עדכונים לתוספת זו">
@@ -121,10 +131,10 @@
 <!ENTITY addon.disabled.postfix               "(מנוטרל)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "עדכון">
-<!ENTITY addon.undo.label                     "לבטל?">
-<!ENTITY addon.undo.tooltip                   "בטל פעולה זו">
-<!ENTITY addon.undoUninstall.label            "לבטל?">
-<!ENTITY addon.undoUninstall.tooltip          "השאר תוספת זו מותקנת">
+<!ENTITY addon.undoAction.label               "בטל">
+<!ENTITY addon.undoAction.tooltip             "בטל פעולה זו">
+<!ENTITY addon.undoRemove.label               "בטל">
+<!ENTITY addon.undoRemove.tooltip             "השאר תוספת זו מותקנת">
 <!ENTITY addon.restartNow.label               "הפעל מחדש כעת">
 <!ENTITY addon.install.label                  "התקן">
 <!ENTITY addon.install.tooltip                "התקן תוספת זו">

@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "העבר לקבוצה">
 <!ENTITY  moveToGroup.accesskey              "ה">
 <!ENTITY  moveToNewGroup.label               "קבוצה חדשה">
-<!ENTITY  bookmarkThisTab.label              "צור סימניה ללשונית זו">
-<!ENTITY  bookmarkThisTab.accesskey          "צ">
 <!ENTITY  bookmarkAllTabs.label              "צור סימנייה לכל הלשוניות...">
 <!ENTITY  bookmarkAllTabs.accesskey          "צ">
 <!ENTITY  undoCloseTab.label                 "בטל סגירת לשונית">

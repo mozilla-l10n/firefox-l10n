@@ -83,7 +83,7 @@
  ">
 
 <!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>הדפדפן מונע מדף זה להיטען בדרך זו מאחר ומדיניות אבטחת התוכן מונעת זאת.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>הדפדפן מונע מדף זה להיטען בדרך זו מאחר שמדיניות אבטחת התוכן מונעת זאת.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
