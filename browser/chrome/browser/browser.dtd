@@ -97,7 +97,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Abonneren op deze pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abonneren op deze pagina…">
 <!ENTITY addCurPagesCmd.label "Bladwijzer voor alle tabbladen maken…">
-<!ENTITY organizeBookmarks.label "Bladwijzers ordenen…">
+<!ENTITY showAllBookmarks.label "Alle bladwijzers tonen…">
 <!ENTITY bookmarkAllCmd.label "Bladwijzer voor alle tabbladen maken…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
 
