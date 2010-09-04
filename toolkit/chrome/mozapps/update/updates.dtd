@@ -64,3 +64,9 @@
 <!ENTITY  manualUpdateGetMsg.label        "Mund të merrni, kur të doni, versionin më të fundit të &brandShortName;-it nga:">
 <!ENTITY  downloadPage.title              "Po shkarkohet &brandShortName;">
 
+<!ENTITY  error.title                     "Përditësimi Dështoi">
+<!ENTITY  errorCertAttrHasUpdate.label    "Diçka po përpiqet t&apos;ia hedhë &brandShortName;-it duke e bërë të pranojë një
+                                           përditësim të pasigurt. Ju lutem, lidhuni me mundësuesin tuaj të rrjetit dhe kërkoni ndihmë.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Diçka po e pengon &brandShortName;-in të përditësohet në mënyrë të sigurt.
+                                           Ju lutem, kontrolloni nëse keni versionin më të fundit të &brandShortName;-it, te:">
