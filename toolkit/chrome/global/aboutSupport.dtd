@@ -17,6 +17,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "תיקיית פרופיל">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "הפעל תוספים חיצוניים">
 <!ENTITY aboutSupport.appBasicsBuildConfig "הגדרות בנייה">
+<!ENTITY aboutSupport.appBasicsUserAgent "סוכן משתמש">
 
 <!ENTITY aboutSupport.show.label "פתח תיקייה מכילה">
 

@@ -144,7 +144,7 @@
  ">
 
 <!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר והדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר שהדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">

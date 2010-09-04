@@ -15,7 +15,7 @@
 
 <!ENTITY  found.wizard.title               "נמצאו תוספות תואמות">
 <!ENTITY  found.top.label                 "בחר את התוספות שברצונך להתקין:">
-<!ENTITY  found.disabledXPinstall.label   "עדכונים אלו לא ניתנים להתקנה מאחר והתקנת תוכנה כרגע מנוטרלת. ניתן לשנות זאת בהמשך.">
+<!ENTITY  found.disabledXPinstall.label   "עדכונים אלו לא ניתנים להתקנה מאחר שהתקנת תכנה כרגע מנוטרלת. ניתן לשנות זאת בהמשך.">
 <!ENTITY  found.enableXPInstall.label     "אפשר התקנות לאתרים">
 <!ENTITY  found.enableXPInstall.accesskey "ת">
 
@@ -33,7 +33,7 @@
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; יבדוק באופן תדיר ויודיע כאשר עדכונים תואמים להרחבות אלו זמינים.">
 
 <!ENTITY  adminDisabled.wizard.title      "לא ניתן לבדוק עדכונים">
-<!ENTITY  adminDisabled.warning.label     "לא ניתן לבדוק עדכונים לתוספות לא תואמות מאחר והתקנת תוכנות עבור &brandShortName; מנוטרלת. בבקשה צור קשר עם מנהל המערכת שלך לסיוע.">
+<!ENTITY  adminDisabled.warning.label     "לא ניתן לבדוק עדכונים לתוספות לא תואמות מאחר שהתקנת תוכנות עבור &brandShortName; מנוטרלת. בבקשה צור קשר עם מנהל המערכת שלך לסיוע.">
 
 <!ENTITY  versioninfo.wizard.title        "בודק תאימות תוספות">
 <!ENTITY  versioninfo.top.label           "בודק את התוספות שלך לתאימות עם גרסה זו של &brandShortName;.">
