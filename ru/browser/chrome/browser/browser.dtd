@@ -79,7 +79,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Подписаться на ленты новостей">
 <!ENTITY subscribeToPageMenuitem.label "Подписаться на ленты новостей…">
 <!ENTITY addCurPagesCmd.label "Добавить все вкладки…">
-<!ENTITY organizeBookmarks.label "Управление закладками…">
+<!ENTITY showAllBookmarks.label "Показать все закладки…">
 <!ENTITY bookmarkAllCmd.label "Добавить все вкладки в закладки…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY backCmd.label "Назад">
