@@ -46,9 +46,10 @@
 <!ENTITY event.new.event.key                    "s">
 <!ENTITY event.new.event.accesskey              "s">
 
-<!ENTITY event.new.todo                         "Uus ülesanne…">
-<!ENTITY event.new.todo.key                     "ü">
-<!ENTITY event.new.todo.accesskey               "ü">
+<!ENTITY event.new.task                         "Uus ülesanne…">
+<!ENTITY event.new.task.key                     "k">
+<!ENTITY event.new.task.accesskey               "n">
+
 
 <!ENTITY calendar.new.server.label              "Uus kalender…">
 <!ENTITY calendar.new.server.key                "k">
