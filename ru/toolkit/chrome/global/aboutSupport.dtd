@@ -12,6 +12,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Папка профиля">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Включённые плагины">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурация сборки">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.show.label "Открыть его папку">
 <!ENTITY aboutSupport.showMac.label "Показать в Finder">
 <!ENTITY aboutSupport.modifiedPrefsTitle "Изменённые настройки">
