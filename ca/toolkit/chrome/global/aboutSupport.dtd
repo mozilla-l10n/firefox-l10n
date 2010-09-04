@@ -18,6 +18,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Directori del perfil">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Connectors habilitats">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuració de la versió">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agent d'usuari">
 
 <!ENTITY aboutSupport.show.label "Obre la carpeta on es troba">
 
