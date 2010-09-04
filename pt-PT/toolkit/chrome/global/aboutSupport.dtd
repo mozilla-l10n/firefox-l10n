@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Pasta do perfil">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuração da versão">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agente de utilizador">
 
 <!ENTITY aboutSupport.show.label "Abrir pasta de conteúdos">
 
