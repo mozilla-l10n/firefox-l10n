@@ -1,8 +1,3 @@
-detail.updateAutomatically.accesskey
-detail.updateAutomatically.label
-detail.updateAutomatically.tooltip
-
-
 <!ENTITY listEmpty.availableUpdates.label     "Nuk u gjetën përditësime">
 <!ENTITY listEmpty.recentUpdates.label        "Nuk keni përditësuar së fundmi ndonjë shtesë">
 <!ENTITY listEmpty.findUpdates.label          "Kontrollo Për Përditësime">
