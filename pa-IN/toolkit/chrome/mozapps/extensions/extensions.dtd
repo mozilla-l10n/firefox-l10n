@@ -79,6 +79,7 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "ਵਰਜਨ">
+<!ENTITY detail.lastupdated.label             "ਆਖਰੀ ਅੱਪਡੇਟ">
 <!ENTITY detail.creator.label                 "ਡਿਵੈਲਪਰ">
 <!ENTITY detail.homepage.label                "ਮੁੱਖ ਪੇਜ਼">
 <!ENTITY detail.numberOfDownloads.label       "ਡਾਊਨਲੋਡ">
