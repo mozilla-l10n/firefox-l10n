@@ -1,3 +1,8 @@
+detail.updateAutomatically.accesskey
+detail.updateAutomatically.label
+detail.updateAutomatically.tooltip
+
+
 <!ENTITY listEmpty.availableUpdates.label     "Nuk u gjetën përditësime">
 <!ENTITY listEmpty.recentUpdates.label        "Nuk keni përditësuar së fundmi ndonjë shtesë">
 <!ENTITY listEmpty.findUpdates.label          "Kontrollo Për Përditësime">
@@ -17,8 +22,13 @@
 <!ENTITY view.locales.label                   "Gjuhë">
 <!ENTITY view.searchengines.label             "Motorë Kërkimesh">
 <!ENTITY view.features.label                  "Zgjerime">
-<!ENTITY view.appearance.label                "Tema">
+<!ENTITY view.appearance2.label               "Dukje">
 <!ENTITY view.plugins.label                   "Shtojca">
+<!ENTITY view.recentUpdates.label             "Përditësime Së Fundmi">
+<!ENTITY view.availableUpdates.label          "Përditësime të Passhme">
+<!ENTITY view.utilites.preferences.tooltip    "Mundësi për krejt shtesat">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Parapëlqime për krejt shtesat">
+
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Përditësojini Shtesat Tani">
@@ -58,18 +68,31 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
-<!ENTITY detail.updated.label                 "E përditësuar">
+<!ENTITY detail.lastupdated.label             "Përditësuar Së Fundmi">
 <!ENTITY detail.creator.label                 "Zhvillues">
 <!ENTITY detail.homepage.label                "Faqe hyrëse">
 <!ENTITY detail.numberOfDownloads.label       "Shkarkime">
 
-<!ENTITY detail.updateAutomatically.label     "Përditësoje vetvetiu">
-<!ENTITY detail.updateAutomatically.accesskey "P">
-<!ENTITY detail.updateAutomatically.tooltip   "Përditësojeni këtë shtesë vetvetiu kurdo që ka një përditësim për të">
+<!ENTITY detail.contributions.description     "Zhvilluesi i kësaj shtese do të dëshironte që përmes një kontributi të vogël të ndihmonit zhvillimin e saj në vazhdimësi.">
+
+<!ENTITY detail.updateType                    "Përditësime të Vetvetishme">
+<!ENTITY detail.updateAutomatic.label         "On">
+<!ENTITY detail.updateAutomatic.tooltip       "Instalo përditësimet vetvetiu">
+<!ENTITY detail.updateManual.label            "Off">
+<!ENTITY detail.updateManual.tooltip          "Mos i instalo vetvetiu përditësimet">
+<!ENTITY detail.home                          "Faqja Hyrëse">
+<!ENTITY detail.repository                    "Profil Shtese">
+<!ENTITY detail.size                          "Madhësi">
+
 <!ENTITY detail.checkForUpdates.label         "Kontrollo për përditësime">
 <!ENTITY detail.checkForUpdates.accesskey     "K">
 <!ENTITY detail.checkForUpdates.tooltip       "Kontrolloni për përditësime për këtë shtesë">
-
+<!ENTITY detail.showPreferencesWin.label      "Mundësi">
+<!ENTITY detail.showPreferencesWin.accesskey  "M">
+<!ENTITY detail.showPreferencesWin.tooltip    "Ndryshoni Mundësitë e kësaj shtese">
+<!ENTITY detail.showPreferencesUnix.label     "Parapëlqime">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Ndryshoni parapëlqimet e kësaj shtese">
 
 <!-- ratings -->
 <!ENTITY rating.label                         "Vlerësime:">
@@ -78,13 +101,11 @@
 <!ENTITY progress.pause.tooltip               "Pushim">
 <!ENTITY progress.cancel.tooltip              "Anulim">
 
-
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Emër">
 <!ENTITY sort.name.tooltip                    "Renditi sipas emrave">
 <!ENTITY sort.dateUpdated.label               "Përditësuar Së Fundmi">
 <!ENTITY sort.dateUpdated.tooltip             "Renditi sipas datës së përditësimit">
-
 
 <!ENTITY search.filter2.label                 "Kërkim:">
 <!ENTITY search.filter2.installed.label       "Shtesat e Mia">
@@ -97,10 +118,10 @@
 <!ENTITY addon.disabled.postfix               "(e çaktivizuar)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "Përditësim">
-<!ENTITY addon.undo.label                     "Të zhbëhet?">
-<!ENTITY addon.undo.tooltip                   "Zhbëje këtë veprim">
-<!ENTITY addon.undoUninstall.label            "Të zhbëhet?">
-<!ENTITY addon.undoUninstall.tooltip          "Mbaje të instaluar këtë shtesë">
+<!ENTITY addon.undoAction.label               "Zhbëje">
+<!ENTITY addon.undoAction.tooltip             "Zhbëje këtë veprim">
+<!ENTITY addon.undoRemove.label               "Zhbëje">
+<!ENTITY addon.undoRemove.tooltip             "Mbaje të instaluar këtë shtesë">
 <!ENTITY addon.restartNow.label               "Rinise tani">
 <!ENTITY addon.install.label                  "Instaloje">
 <!ENTITY addon.install.tooltip                "Instalojeni këtë shtesë">
@@ -112,12 +133,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Na ndjeni, por pati një gabim gjatë ngarkimit të shënimeve të versionit.">
 
 <!ENTITY addon.createdBy.label                "Nga ">
-
 <!ENTITY installFromFile.label                "Instaloni prej kartele…">
 <!ENTITY installFromFile.accesskey            "I">
-
-<!ENTITY view.recentUpdates.label             "Përditësime Së Fundmi">
-<!ENTITY view.availableUpdates.label          "Përditësime të Passhme">
 
 <!ENTITY addon.details.label                  "Më tepër">
 <!ENTITY addon.details.tooltip                "Shfaq më tepër hollësi mbi këtë shtesë">
@@ -141,9 +158,5 @@
 <!ENTITY detail.showPreferencesUnix.label     "Parapëlqime">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Ndryshoni parapëlqimet e kësaj shtese">
-
 <!ENTITY sort.relevance.label                 "Më e afërta">
 <!ENTITY sort.relevance.tooltip               "Renditi sipas rëndësisë">
-
-<!ENTITY view.utilites.preferences.tooltip    "Mundësi për krejt shtesat">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Parapëlqime për krejt shtesat">
