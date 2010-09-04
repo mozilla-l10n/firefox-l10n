@@ -51,6 +51,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Çaktivizoje">
 <!ENTITY cmd.disableAddon.accesskey           "Ç">
+<!ENTITY cmd.installAddon.label               "Instaloje">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Hiqe">
 <!ENTITY cmd.uninstallAddon.accesskey         "H">
 <!ENTITY cmd.contribute.label                 "Kontribuoni">
