@@ -26,7 +26,7 @@
 <!ENTITY view.locales.label                   "Γλώσσες">
 <!ENTITY view.searchengines.label             "Μηχανές αναζήτησης">
 <!ENTITY view.features.label                  "Επεκτάσεις">
-<!ENTITY view.appearance.label                "Θέματα">
+
 <!ENTITY view.plugins.label                   "Πρόσθετες λειτουργίες">
 <!ENTITY view.recentUpdates.label             "Πρόσφατες ενημερώσεις">
 <!ENTITY view.availableUpdates.label          "Διαθέσιμες ενημερώσεις">
@@ -73,14 +73,14 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Έκδοση">
-<!ENTITY detail.updated.label                 "Ενημερώθηκε">
+
 <!ENTITY detail.creator.label                 "Προγραμματιστής">
 <!ENTITY detail.homepage.label                "Αρχική σελίδα">
 <!ENTITY detail.numberOfDownloads.label       "Αριθμός λήψεων">
 
-<!ENTITY detail.updateAutomatically.label     "Αυτόματη ενημέρωση">
-<!ENTITY detail.updateAutomatically.accesskey "υ">
-<!ENTITY detail.updateAutomatically.tooltip   "Αυτόματη ενημέρωση κάθε φορά που υπάρχει νεότερη έκδοση του">
+
+
+
 <!ENTITY detail.checkForUpdates.label         "Έλεγχος για ενημερώσεις">
 <!ENTITY detail.checkForUpdates.accesskey     "χ">
 <!ENTITY detail.checkForUpdates.tooltip       "Έλεγχος για ενημερώσεις αυτού του προσθέτου">
@@ -106,10 +106,10 @@
 <!ENTITY addon.disabled.postfix               "(απενεργοποιημένο)">
 <!ENTITY addon.update.postfix                 "Ενημέρωση">
 
-<!ENTITY addon.undo.label                     "Αναίρεση;">
-<!ENTITY addon.undo.tooltip                   "Αναίρεση αυτής της ενέργειας">
-<!ENTITY addon.undoUninstall.label            "Αναίρεση;">
-<!ENTITY addon.undoUninstall.tooltip          "Διατήρηση αυτού του προσθέτου">
+
+
+
+
 <!ENTITY addon.restartNow.label               "Επανεκκίνηση τώρα">
 
 <!ENTITY addon.install.label                  "Εγκατάσταση">
@@ -169,5 +169,23 @@
 <!ENTITY view.utilites.preferences.tooltip    "Επιλογές για όλα τα πρόσθετα">
 
 <!ENTITY view.utilites.preferencesUnix.tooltip "Προτιμήσεις για όλα τα πρόσθετα">
+
+<!ENTITY addon.undoAction.label               "Αναίρεση">
+<!ENTITY addon.undoAction.tooltip             "Αναίρεση αυτής της ενέργειας">
+<!ENTITY addon.undoRemove.label               "Αναίρεση">
+<!ENTITY addon.undoRemove.tooltip             "Διατήρηση αυτού του προσθέτου">
+<!ENTITY cmd.installAddon.label               "Εγκατάσταση">
+<!ENTITY cmd.installAddon.accesskey           "γ">
+<!ENTITY detail.contributions.description     "Ο προγραμματιστής αυτού του προσθέτου σας ζητάει να βοηθήσετε να συνεχίζει την ανάπτυξη του με μια μικρή συνεισφορά.">
+<!ENTITY detail.home                          "Αρχική σελίδα">
+<!ENTITY detail.lastupdated.label             "Τελευταία ενημέρωση">
+<!ENTITY detail.repository                    "Προφίλ πρόσθετου">
+<!ENTITY detail.size                          "Μέγεθος">
+<!ENTITY detail.updateType                    "Αυτόματες ενημερώσεις">
+<!ENTITY detail.updateAutomatic.label         "Ναι">
+<!ENTITY detail.updateAutomatic.tooltip       "Αυτόματη εγκατάσταση ενημερώσεων">
+<!ENTITY detail.updateManual.label            "Όχι">
+<!ENTITY detail.updateManual.tooltip          "Να μην γίνεται αυτόματη εγκατάσταση ενημερώσεων">
+<!ENTITY view.appearance2.label               "Εμφάνιση">
 
 

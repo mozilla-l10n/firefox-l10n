@@ -431,7 +431,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.unverifiedsite2 "Αυτή η σελίδα δεν παρέχει πληροφορίες ταυτότητας της.">
 
-<!ENTITY organizeBookmarks.label "Οργάνωση σελιδοδεικτών…">
 <!ENTITY backForwardMenu.tooltip      "Πρόσφατες σελίδες">
 
 <!ENTITY copyVideoURLCmd.label        "Αντιγραφή τοποθεσίας βίντεο">
@@ -501,8 +500,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  bookmarkAllTabs.label              "Όλες οι καρτέλες σε σελιδοδείκτη…">
 <!ENTITY  bookmarkAllTabs.accesskey          "τ">
 
-<!ENTITY  bookmarkThisTab.label              "Προσθήκη καρτέλας στους σελιδοδείκτες">
-<!ENTITY  bookmarkThisTab.accesskey          "ρ">
+
 
 <!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY clearRecentHistory.accesskey           "ι">
@@ -583,5 +581,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  moveToNewGroup.label               "Νέα ομάδα">
 
 <!ENTITY addons.commandkey            "A">
+<!ENTITY showAllBookmarks.label "Προβολή όλων των σελιδοδεικτών…">
 
 
