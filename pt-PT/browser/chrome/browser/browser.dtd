@@ -97,7 +97,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Subscrever esta página">
 <!ENTITY subscribeToPageMenuitem.label "Subscrever esta página...">
 <!ENTITY addCurPagesCmd.label "Adicionar separadores...">
-<!ENTITY organizeBookmarks.label "Organizar marcadores...">
+<!ENTITY showAllBookmarks.label "Mostrar todos os marcadores...">
 <!ENTITY bookmarkAllCmd.label "Adicionar todos os separadores...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 
