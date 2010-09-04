@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "Mou al grup">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Grup nou">
-<!ENTITY  bookmarkThisTab.label              "Afegeix aquesta pestanya a les adreces d'interès">
-<!ENTITY  bookmarkThisTab.accesskey          "g">
 <!ENTITY  bookmarkAllTabs.label              "Afegeix totes les pestanyes a les adreces d'interès…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Desfés el tancament de la pestanya">
@@ -166,6 +164,8 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label                 "Complements">
 <!ENTITY addons.accesskey             "m">
+<!ENTITY addons.commandkey            "m">
+
 <!ENTITY errorConsoleCmd.label "Consola d'errors">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
