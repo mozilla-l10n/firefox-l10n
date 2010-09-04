@@ -120,7 +120,8 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Shtesa">
-<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.accesskey             "S">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Konsolë Gabimesh">
 <!ENTITY errorConsoleCmd.accesskey    "G">
