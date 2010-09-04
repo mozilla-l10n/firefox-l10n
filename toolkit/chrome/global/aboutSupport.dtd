@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilmapp">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktiva insticksmoduler">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggkonfiguration">
+<!ENTITY aboutSupport.appBasicsUserAgent "Användaragent">
 
 <!ENTITY aboutSupport.show.label "Öppna mapp">
 
