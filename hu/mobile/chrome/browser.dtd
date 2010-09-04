@@ -87,6 +87,7 @@
 <!ENTITY consoleErrColumn.label    "Oszlop:">
 
 <!ENTITY contextOpenInNewTab.label    "Megnyitás új lapon">
+<!ENTITY contextSaveLink.label        "Hivatkozás mentése">
 <!ENTITY contextSaveImage.label       "Kép mentése">
 <!ENTITY contextShareLink.label       "Hivatkozás megosztása">
 <!ENTITY contextShareImage.label      "Kép megosztása">

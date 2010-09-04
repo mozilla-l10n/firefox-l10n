@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "Áthelyezés csoportba">
 <!ENTITY moveToGroup.accesskey              "c">
 <!ENTITY  moveToNewGroup.label               "Új csoport">
-<!ENTITY  bookmarkThisTab.label              "Aktuális lap könyvjelzőbe">
-<!ENTITY bookmarkThisTab.accesskey          "A">
 <!ENTITY  bookmarkAllTabs.label              "Minden lap egy könyvjelzőbe...">
 <!ENTITY bookmarkAllTabs.accesskey          "M">
 <!ENTITY  undoCloseTab.label                 "Lapbezárás visszavonása">
@@ -99,7 +97,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Feliratkozás erre az oldalra">
 <!ENTITY subscribeToPageMenuitem.label "Feliratkozás erre az oldalra...">
 <!ENTITY addCurPagesCmd.label "Minden lap egy könyvjelzőbe...">
-<!ENTITY organizeBookmarks.label "Könyvjelzők kezelése...">
+<!ENTITY showAllBookmarks.label "Minden könyvjelző megjelenítése...">
 <!ENTITY bookmarkAllCmd.label "Minden lap egy könyvjelzőbe...">
 <!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
 
@@ -168,6 +166,7 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Kiegészítők">
 <!ENTITY addons.accesskey             "T">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Hibakonzol">
 <!ENTITY errorConsoleCmd.accesskey    "H">
@@ -276,7 +275,7 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ugrás egy webhelyre">
-<!ENTITY urlbar.accesskey             "D">
+<!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Váltás erre a lapra:">
 
 <!-- 

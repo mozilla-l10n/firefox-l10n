@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilkönyvtár">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Engedélyezett bővítmények">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build konfiguráció">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
 <!ENTITY aboutSupport.show.label "Megjelenítés">
 
