@@ -15,6 +15,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Дырэкторыя профілю">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Дазволеныя ўбудовы">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Наладкі пабудовы">
+<!ENTITY aboutSupport.appBasicsUserAgent "Дзеяч карыстальніка">
 <!ENTITY aboutSupport.show.label "Адкрыць змяшчальную папку">
 <!ENTITY aboutSupport.showMac.label "Паказаць у шукальніку">
 <!ENTITY aboutSupport.modifiedPrefsTitle "Змененыя перавагі">
