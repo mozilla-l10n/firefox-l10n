@@ -97,7 +97,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Marcar todas las pestañas…">
-<!ENTITY organizeBookmarks.label "Organizar marcadores…">
+<!ENTITY showAllBookmarks.label "Mostrar todos los marcadores…">
 <!ENTITY bookmarkAllCmd.label "Marcar todas las pestañas…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
