@@ -39,7 +39,7 @@
 <!ENTITY name.label "Nombre:">
 <!ENTITY name.accesskey "n">
 <!ENTITY description.label "Crear como subcarpeta de:">
-<!ENTITY description.accesskey "c">
+<!ENTITY description.accesskey "C">
 <!ENTITY folderRestriction1.label "Este servidor restringe las carpetas a dos tipos especiales.">
 <!ENTITY folderRestriction2.label "Permitir que su nueva carpeta contenga:">
 <!ENTITY foldersOnly.label "Sólo carpetas">
