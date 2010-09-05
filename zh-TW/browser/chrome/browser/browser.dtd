@@ -97,7 +97,7 @@
 <!ENTITY subscribeToPageMenupopup.label "訂閱此頁面">
 <!ENTITY subscribeToPageMenuitem.label "訂閱此頁面…">
 <!ENTITY addCurPagesCmd.label "所有分頁加入書籤…">
-<!ENTITY organizeBookmarks.label "管理書籤…">
+<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
 <!ENTITY bookmarkAllCmd.label "所有分頁加入書籤…">
 <!ENTITY bookmarksToolbarChevron.tooltip "顯示更多書籤">
 
