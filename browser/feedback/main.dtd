@@ -1,7 +1,7 @@
 <!ENTITY testpilot.brand.label                      "Pîlotê Testê">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Mîheng">
-<!ENTITY testpilot.settings.dataSubmission.label    "Data Submission">
+<!ENTITY testpilot.settings.dataSubmission.label    "Şandina daneyan">
 <!ENTITY testpilot.settings.notifications.label     "Agahdarker">
 <!ENTITY testpilot.settings.notifyWhen.label        "Notify me when…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Perwerdehiyek bê ragihandin">

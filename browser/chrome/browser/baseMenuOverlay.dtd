@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Agahiyên tamîrkirinê">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">
 
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
 <!ENTITY updateCmd.label                "Rojanebûnan Bişopîne...">
 
 <!ENTITY preferencesCmdMac.label        "Vebijêrk">

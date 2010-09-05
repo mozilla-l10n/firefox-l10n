@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Pelrêça Profîlê">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Pêvekên Çalak">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Mîhengên Avakirinê">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
 <!ENTITY aboutSupport.show.label "Peldanka ku tê de ye veke">
 
@@ -31,9 +32,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Nav">
 <!ENTITY aboutSupport.modifiedPrefsValue "Nirx">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
-<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
-<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D Enabled">
+<!ENTITY aboutSupport.graphicsTitle "Grafîk">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Mêjûya sazkirinê">
 <!ENTITY aboutSupport.updateHistoryTitle "Mêjûya rojanekirinê">

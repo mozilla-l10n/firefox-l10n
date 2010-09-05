@@ -12,11 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gera Nepen)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Move This Tab To…">
-<!ENTITY  moveTabTo.accesskey                "M">
-<!ENTITY  createNewGroup.label               "Koma nû biafirîne">
-<!ENTITY  createNewGroup.accesskey           "K">
-<!ENTITY  namedGroups.label                  "Komên binavkirî">
 <!ENTITY  reloadTab.label                    "Hilpekînê ji nû ve bar bike">
 <!ENTITY  reloadTab.accesskey                "n">
 <!ENTITY  reloadAllTabs.label                "Hemû hilpekînan ji nû ve bar bike">
@@ -29,8 +24,9 @@
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Bixe Hilpekîna Asayî">
 <!ENTITY  unpinTab.accesskey                 "k">
-<!ENTITY  bookmarkThisTab.label              "Vê hilpekînê têxe bijareyan">
-<!ENTITY  bookmarkThisTab.accesskey          "t">
+<!ENTITY  moveToGroup.label                  "Biguhêze komê">
+<!ENTITY  moveToGroup.accesskey              "m">
+<!ENTITY  moveToNewGroup.label               "Koma nû">
 <!ENTITY  bookmarkAllTabs.label              "Hemû hilpekînan têxe bijareyan…">
 <!ENTITY  bookmarkAllTabs.accesskey          "m">
 <!ENTITY  undoCloseTab.label                 "Hilpekîna hat girtin şûnde bîne">
@@ -101,7 +97,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY subscribeToPageMenuitem.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY addCurPagesCmd.label "Hemû Hilpekînan Têxe Bijareyan...">
-<!ENTITY organizeBookmarks.label "Rêveberiya Bijareyan">
+<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
 <!ENTITY bookmarkAllCmd.label "Hemû Hilpekînan Têxe Bijareyan...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zêdetir bijare nîşan bide">
 
@@ -124,7 +120,7 @@
 <!ENTITY printButton.label            "Çap bike">
 <!ENTITY printButton.tooltip          "Vê rûpelê çap bike">
 
-<!ENTITY backForwardItem.title        "Back/Forward">
+<!ENTITY backForwardItem.title        "Paşve/Pêşve">
 <!ENTITY locationItem.title           "Cih">
 <!ENTITY searchItem.title             "Lêgerîn">
 <!ENTITY throbberItem.title           "Şanîkera çalakiyan">
@@ -132,8 +128,8 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Serûpel">
-<!ENTITY tabViewButton2.label         "Tab Groups">
-<!ENTITY tabViewButton2.tooltip       "Group Your Tabs">
+<!ENTITY tabViewButton2.label         "Komên hilpekînan">
+<!ENTITY tabViewButton2.tooltip       "Hilpekînên xwe kom bike">
 
 <!ENTITY bookmarksButton.label          "Bijare">
 <!ENTITY bookmarksButton.tooltip        "Bijareyên xwe bibîne">
@@ -170,6 +166,7 @@
 <!ENTITY downloadsUnix.commandkey     "Y">
 <!ENTITY addons.label                 "Add-on">
 <!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Konsola Çewtiyê">
 <!ENTITY errorConsoleCmd.accesskey    "K">
@@ -193,6 +190,12 @@
 <!ENTITY inspectStyleButton.label     "Teşe">
 <!ENTITY inspectStyleButton.accesskey "T">
 <!ENTITY inspectStylePanelTitle.label  "Teşe">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Object">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label         "Pel"> 
 <!ENTITY fileMenu.accesskey       "P">
@@ -240,8 +243,8 @@
 
 <!ENTITY viewMenu.label         "Nîşan bide"> 
 <!ENTITY viewMenu.accesskey       "b"> 
-<!ENTITY showTabView2.label     "Group Your Tabs…">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY showTabView2.label     "Hilpekînên xwe kom bike…">
+<!ENTITY showTabView2.accesskey     "H">
 <!ENTITY viewToolbarsMenu.label       "Darikê Amûran"> 
 <!ENTITY viewToolbarsMenu.accesskey     "a"> 
 <!ENTITY viewSidebarMenu.label "Darikê Quncikê">
@@ -261,11 +264,12 @@
 <!ENTITY showAllHistoryCmd2.label "Hemû Dîrokê Nîşan Bide">
 <!ENTITY showAllHistoryCmd.commandkey "A">
 
-<!ENTITY appMenuPrintCmd.label "Çapkirin">
 <!ENTITY appMenuCustomize.label "Takekes bike">
 <!ENTITY appMenuToolbarLayout.label "Bicîbûna Darikê Amûran…">
 <!ENTITY appMenuSidebars.label "Darikên kêlekê">
-<!ENTITY appMenuHelp.label "Alîkarî">
+<!ENTITY appMenuFind.label "Lêgerîn…">
+<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuGettingStarted.label "Getting Started">
 
 <!ENTITY developerMenu.label "Pêşdebir">
 
