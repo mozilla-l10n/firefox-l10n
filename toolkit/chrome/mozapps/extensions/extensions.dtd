@@ -50,7 +50,7 @@
 <!ENTITY view.locales.label                   "Kalbos">
 <!ENTITY view.searchengines.label             "Ieškyklės">
 <!ENTITY view.features.label                  "Plėtiniai">
-<!ENTITY view.appearance.label                "Grafiniai apvalkalai">
+<!ENTITY view.appearance2.label               "Programos išvaizda">
 <!ENTITY view.plugins.label                   "Papildiniai">
 <!ENTITY view.recentUpdates.label             "Paskiausiai atnaujinti">
 <!ENTITY view.availableUpdates.label          "Galimi naujinimai">
@@ -87,6 +87,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "u">
 <!ENTITY cmd.disableAddon.label               "Išjungti">
 <!ENTITY cmd.disableAddon.accesskey           "u">
+<!ENTITY cmd.installAddon.label               "Įdiegti">
+<!ENTITY cmd.installAddon.accesskey           "d">
 <!ENTITY cmd.uninstallAddon.label             "Pašalinti">
 <!ENTITY cmd.uninstallAddon.accesskey         "š">
 <!ENTITY cmd.showPreferencesWin.label         "Nuostatos">
@@ -94,7 +96,7 @@
 <!ENTITY cmd.showPreferencesUnix.label        "Nuostatos">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Keisti šio priedo nuostatas">
 <!ENTITY cmd.contribute.label                 "Paremti">
-<!ENTITY cmd.contribute.accesskey             "p">
+<!ENTITY cmd.contribute.accesskey             "P">
 <!ENTITY cmd.contribute.tooltip               "Paremti šio priedo kūrimą">
 
 <!ENTITY cmd.showReleaseNotes.label           "Atverti laidos apžvalgą">
@@ -104,14 +106,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Laida">
-<!ENTITY detail.updated.label                 "Atnaujintas">
+<!ENTITY detail.lastupdated.label             "Paskiausiai atnaujintas">
 <!ENTITY detail.creator.label                 "Autorius">
 <!ENTITY detail.homepage.label                "Svetainė">
 <!ENTITY detail.numberOfDownloads.label       "Parsisiuntimų">
 
-<!ENTITY detail.updateAutomatically.label     "Naujinti automatiškai">
-<!ENTITY detail.updateAutomatically.accesskey "a">
-<!ENTITY detail.updateAutomatically.tooltip   "Automatiškai atnaujinti šį priedą, kai tik jam randama naujinimų">
+<!ENTITY detail.contributions.description     "Šio priedo autorius prašo paremti tolesnį jo kūrimą nedideliu finansiniu įnašu.">
+
+<!ENTITY detail.updateType                    "Naujinti automatiškai">
+<!ENTITY detail.updateAutomatic.label         "Taip">
+<!ENTITY detail.updateAutomatic.tooltip       "Automatiškai atnaujinti priedą, kai jam randama naujinimų">
+<!ENTITY detail.updateManual.label            "Ne">
+<!ENTITY detail.updateManual.tooltip          "Nediegti priedo naujinimų automatiškai">
+<!ENTITY detail.home                          "Svetainė">
+<!ENTITY detail.repository                    "Priedo profilis">
+<!ENTITY detail.size                          "Dydis">
+
 <!ENTITY detail.checkForUpdates.label         "Ieškoti naujinimų">
 <!ENTITY detail.checkForUpdates.accesskey     "I">
 <!ENTITY detail.checkForUpdates.tooltip       "Ieškoti šio priedo naujinimų">
@@ -150,10 +160,10 @@
 <!ENTITY addon.disabled.postfix               "(išjungtas)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "naujinimas">
-<!ENTITY addon.undo.label                     "Atšaukti?">
-<!ENTITY addon.undo.tooltip                   "Atšaukti šį veiksmą">
-<!ENTITY addon.undoUninstall.label            "Atšaukti?">
-<!ENTITY addon.undoUninstall.tooltip          "Palikti šį priedą įdiegtą">
+<!ENTITY addon.undoAction.label               "Atšaukti">
+<!ENTITY addon.undoAction.tooltip             "Atšaukti šį veiksmą">
+<!ENTITY addon.undoRemove.label               "Atšaukti">
+<!ENTITY addon.undoRemove.tooltip             "Palikti šį priedą įdiegtą">
 <!ENTITY addon.restartNow.label               "Perleisti dabar">
 <!ENTITY addon.install.label                  "Įdiegti">
 <!ENTITY addon.install.tooltip                "Įdiegti šį priedą">

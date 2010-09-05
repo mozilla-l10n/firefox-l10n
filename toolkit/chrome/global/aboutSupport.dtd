@@ -50,6 +50,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir          "Profilio aplankas">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins      "Įjungti priedai">
 <!ENTITY aboutSupport.appBasicsBuildConfig         "Darinio konfigūracija">
+<!ENTITY aboutSupport.appBasicsUserAgent           "Identifikacinė eilutė">
 
 <!ENTITY aboutSupport.show.label                   "Atverti aplanką">
 
