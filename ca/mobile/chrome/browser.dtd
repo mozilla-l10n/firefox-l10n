@@ -90,6 +90,7 @@
 <!ENTITY consoleErrColumn.label    "Columna:">
 
 <!ENTITY contextOpenInNewTab.label "Obre en una pestanya nova">
+<!ENTITY contextSaveLink.label        "Desa l'enllaç">
 <!ENTITY contextSaveImage.label    "Desa la imatge">
 <!ENTITY contextShareLink.label       "Comparteix l'enllaç">
 <!ENTITY contextShareImage.label      "Comparteix la imatge">
