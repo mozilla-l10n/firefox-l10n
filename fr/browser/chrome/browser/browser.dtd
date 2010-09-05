@@ -97,7 +97,7 @@
 <!ENTITY subscribeToPageMenupopup.label "S'abonner à cette page">
 <!ENTITY subscribeToPageMenuitem.label "S'abonner à cette page…">
 <!ENTITY addCurPagesCmd.label "Marquer tous les onglets…">
-<!ENTITY organizeBookmarks.label "Organiser les marque-pages…">
+<!ENTITY showAllBookmarks.label "Afficher tous les marque-pages…">
 <!ENTITY bookmarkAllCmd.label "Marquer tous les onglets…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afficher plus de marque-pages">
 
