@@ -72,7 +72,7 @@
 <!ENTITY detail.updateType "Aggiornamento automatico">
 <!ENTITY detail.updateAutomatic.label "Attivo">
 <!ENTITY detail.updateAutomatic.tooltip "Installa automaticamente gli aggiornamenti">
-<!ENTITY detail.updateManual.label "Disattivo">
+<!ENTITY detail.updateManual.label "Disattivato">
 <!ENTITY detail.updateManual.tooltip "Non installare automaticamente gli aggiornamenti">
 <!ENTITY detail.home "Sito web">
 <!ENTITY detail.repository "Profilo del componente aggiuntivo">
