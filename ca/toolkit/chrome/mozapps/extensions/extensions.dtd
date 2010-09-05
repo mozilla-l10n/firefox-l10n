@@ -20,7 +20,7 @@
 <!ENTITY view.locales.label                   "Llengües">
 <!ENTITY view.searchengines.label             "Motors de cerca">
 <!ENTITY view.features.label                  "Extensions">
-<!ENTITY view.appearance.label                "Temes">
+<!ENTITY view.appearance2.label               "Aspecte">
 <!ENTITY view.plugins.label                   "Connectors">
 <!ENTITY view.recentUpdates.label             "Actualitzacions recents">
 <!ENTITY view.availableUpdates.label          "Actualitzacions disponibles">
@@ -56,7 +56,9 @@
 <!ENTITY cmd.enableAddon.label                "Habilita">
 <!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Inhabilita">
-<!ENTITY cmd.disableAddon.accesskey           "I">
+<!ENTITY cmd.disableAddon.accesskey           "n">
+<!ENTITY cmd.installAddon.label               "Instal·la">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Suprimeix">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
@@ -74,14 +76,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versió">
-<!ENTITY detail.updated.label                 "Actualitzat">
+<!ENTITY detail.lastupdated.label             "Darrera actualització">
 <!ENTITY detail.creator.label                 "Desenvolupador">
 <!ENTITY detail.homepage.label                "Pàgina d'inici">
 <!ENTITY detail.numberOfDownloads.label       "Baixades">
 
-<!ENTITY detail.updateAutomatically.label     "Actualitza automàticament">
-<!ENTITY detail.updateAutomatically.accesskey "U">
-<!ENTITY detail.updateAutomatically.tooltip   "Actualitza el complement automàticament sempre que hi hagi una actualització disponible">
+<!ENTITY detail.contributions.description     "El desenvolupador del complement us demana que l'ajudeu a continuar amb el seu desenvolupament fent una donació.">
+
+<!ENTITY detail.updateType                    "Actualitzacions automàtiques">
+<!ENTITY detail.updateAutomatic.label     "Activades">
+<!ENTITY detail.updateAutomatic.tooltip   "Instal·la actualitzacions automàticament">
+<!ENTITY detail.updateManual.label            "Desactivades">
+<!ENTITY detail.updateManual.tooltip          "No instal·lis actualitzacions automàticament">
+<!ENTITY detail.home                          "Pàgina d'inici">
+<!ENTITY detail.repository                    "Perfil del complement">
+<!ENTITY detail.size                          "Mida">
+
 <!ENTITY detail.checkForUpdates.label         "Comprova si hi ha actualitzacions">
 <!ENTITY detail.checkForUpdates.accesskey     "h">
 <!ENTITY detail.checkForUpdates.tooltip       "Comprova si hi ha actualitzacions del complement">
@@ -119,10 +129,10 @@
 <!ENTITY addon.unknownDate                    "Desconegut">
 <!ENTITY addon.disabled.postfix               "(inhabilitat)">
 <!ENTITY addon.update.postfix                 "Actualitza">
-<!ENTITY addon.undo.label                     "Ho voleu desfer?">
-<!ENTITY addon.undo.tooltip                   "Voleu desfer l'acció">
-<!ENTITY addon.undoUninstall.label            "Ho voleu desfer?">
-<!ENTITY addon.undoUninstall.tooltip          "Mantingues el complement instal·lat">
+<!ENTITY addon.undoAction.label               "Desfés">
+<!ENTITY addon.undoAction.tooltip             "Desfés l'acció">
+<!ENTITY addon.undoRemove.label               "Desfés">
+<!ENTITY addon.undoRemove.tooltip             "Mantingues el complement desinstal·lat">
 <!ENTITY addon.restartNow.label               "Reinicia ara">
 <!ENTITY addon.install.label                  "Instal·la">
 <!ENTITY addon.install.tooltip                "Instal·la el complement">

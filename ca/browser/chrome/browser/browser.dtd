@@ -95,7 +95,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Subscriu-me a la pàgina">
 <!ENTITY subscribeToPageMenuitem.label "Subscriu-me a la pàgina…">
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
-<!ENTITY organizeBookmarks.label "Organitza les adreces d'interès…">
+<!ENTITY showAllBookmarks.label "Mostra totes les adreces d'interès…">
 <!ENTITY bookmarkAllCmd.label "Afegeix-hi totes les pestanyes…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 
