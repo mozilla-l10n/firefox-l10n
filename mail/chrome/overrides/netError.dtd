@@ -46,8 +46,7 @@
 <!ENTITY netOffline.title "Modo sin conexión">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Desmarque &quot;Trabajar sin conexión&quot; en el menú
-    Archivo y vuelva a intentarlo.</li>
+  <li>Pase &brandShortName; a modo con conexión y vuelva a intentarlo.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
