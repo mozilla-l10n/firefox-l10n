@@ -1,5 +1,5 @@
 <!ENTITY addons.windowTitle "Administrador de complementos">
-<!ENTITY search.placeholder "Buscar en todos los complementos">
+<!ENTITY search.placeholder "Buscar complementos">
 <!ENTITY loading.label "Cargando…">
 <!ENTITY listEmpty.installed.label "No tiene instalado ningún complemento de este tipo">
 <!ENTITY listEmpty.availableUpdates.label "No se han encontrado actualizaciones">
