@@ -52,12 +52,12 @@
 <!ENTITY newevent.eventStatus.none.accesskey "N">
 <!ENTITY newevent.todoStatus.none.label "No especificado">
 <!ENTITY newevent.eventStatus.cancelled.label "Cancelado">
-<!ENTITY newevent.eventStatus.cancelled.accesskey "n">
+<!ENTITY newevent.eventStatus.cancelled.accesskey "a">
 <!ENTITY newevent.todoStatus.cancelled.label "Cancelado">
 <!ENTITY newevent.status.tentative.label "Tentativo">
 <!ENTITY newevent.status.tentative.accesskey "T">
 <!ENTITY newevent.status.confirmed.label "Confirmado">
-<!ENTITY newevent.status.confirmed.accesskey "a">
+<!ENTITY newevent.status.confirmed.accesskey "C">
 <!ENTITY newevent.status.needsaction.label "Necesita intervención">
 <!ENTITY newevent.status.inprogress.label "En proceso">
 <!ENTITY newevent.status.completed.label "Completado el">
@@ -148,11 +148,11 @@
 <!ENTITY event.menu.options.privacy.label "Privacidad">
 <!ENTITY event.menu.options.privacy.accesskey "P">
 <!ENTITY event.menu.options.privacy.public.label "Evento público">
-<!ENTITY event.menu.options.privacy.public.accesskey "b">
+<!ENTITY event.menu.options.privacy.public.accesskey "E">
 <!ENTITY event.menu.options.privacy.confidential.label "Mostrar solamente fecha y hora">
-<!ENTITY event.menu.options.privacy.confidential.accesskey "S">
+<!ENTITY event.menu.options.privacy.confidential.accesskey "M">
 <!ENTITY event.menu.options.privacy.private.label "Evento privado">
-<!ENTITY event.menu.options.privacy.private.accesskey "r">
+<!ENTITY event.menu.options.privacy.private.accesskey "v">
 <!ENTITY event.menu.options.show.time.label "Mostrar hora como">
 <!ENTITY event.menu.options.show.time.accesskey "h">
 <!ENTITY event.menu.options.show.time.busy.label "Ocupado">
@@ -172,35 +172,35 @@
 <!ENTITY event.toolbar.privacy.label "Privacidad">
 <!ENTITY event.toolbar.attachments.label "Adjuntar">
 <!ENTITY event.title.textbox.label "Título:">
-<!ENTITY event.title.textbox.accesskey "T">
+<!ENTITY event.title.textbox.accesskey "u">
 <!ENTITY event.location.label "Lugar:">
 <!ENTITY event.location.accesskey "L">
 <!ENTITY event.categories.label "Categoría:">
-<!ENTITY event.categories.accesskey "e">
+<!ENTITY event.categories.accesskey "C">
 <!ENTITY event.calendar.label "Calendario:">
-<!ENTITY event.calendar.accesskey "C">
+<!ENTITY event.calendar.accesskey "n">
 <!ENTITY event.attendees.label "Asistentes:">
 <!ENTITY event.attendees.accesskey "A">
 <!ENTITY event.alldayevent.label "Evento de día completo">
-<!ENTITY event.alldayevent.accesskey "d">
+<!ENTITY event.alldayevent.accesskey "m">
 <!ENTITY event.from.label "Inicio:">
 <!ENTITY event.from.accesskey "I">
 <!ENTITY task.from.label "Inicio:">
 <!ENTITY task.from.accesskey "I">
 <!ENTITY event.to.label "Final:">
-<!ENTITY event.to.accesskey "n">
-<!ENTITY task.to.label "Fecha de vencimiento:">
-<!ENTITY task.to.accesskey "v">
+<!ENTITY event.to.accesskey "F">
+<!ENTITY task.to.label "Fecha límite:">
+<!ENTITY task.to.accesskey "F">
 <!ENTITY task.status.label "Estado:">
-<!ENTITY task.status.accesskey "a">
+<!ENTITY task.status.accesskey "s">
 <!ENTITY event.repeat.label "Repetir:">
-<!ENTITY event.repeat.accesskey "R">
+<!ENTITY event.repeat.accesskey "p">
 <!ENTITY event.reminder.label "Recordatorio:">
 <!ENTITY event.reminder.accesskey "R">
 <!ENTITY event.description.label "Descripción:">
-<!ENTITY event.description.accesskey "p">
+<!ENTITY event.description.accesskey "D">
 <!ENTITY event.attachments.label "Adjuntos:">
-<!ENTITY event.attachments.accesskey "u">
+<!ENTITY event.attachments.accesskey "j">
 <!ENTITY event.attachments.popup.remove.label "Eliminar">
 <!ENTITY event.attachments.popup.remove.accesskey "E">
 <!ENTITY event.attachments.popup.open.label "Abrir">
