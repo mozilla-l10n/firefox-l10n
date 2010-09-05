@@ -96,7 +96,7 @@
 <!ENTITY subscribeToPageMenupopup.label "ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY subscribeToPageMenuitem.label "ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ...">
 <!ENTITY addCurPagesCmd.label "ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ...">
-<!ENTITY organizeBookmarks.label "ਬੁੱਕਮਾਰਕ ਪਰਬੰਧ…">
+<!ENTITY showAllBookmarks.label "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ…">
 <!ENTITY bookmarkAllCmd.label "ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ......">
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
