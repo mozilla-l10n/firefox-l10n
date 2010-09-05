@@ -15,7 +15,7 @@
 <!ENTITY  preserveExisting.tooltip      "säilitatakse reamurdmised ja lehe algne vorming">
 <!ENTITY  saveAssociatedFiles.label     "Salvestamisel salvestatakse ka pildid ja muud seotud failid">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
-<!ENTITY  showPublishDialog.label       "Alati kuvatakse avaldamise aken kui lehti avaldatakse">
+<!ENTITY  showPublishDialog.label       "Lehtede avaldamisel näidatakse alati avaldamise akent">
 <!ENTITY  showPublishDialog.accesskey   "A">
 
 <!ENTITY  composerEditing.label         "Redigeerimine">

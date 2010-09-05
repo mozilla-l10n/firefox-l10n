@@ -23,7 +23,7 @@
 <!ENTITY checkSpelling.accesskey           "r">
 
 <!ENTITY systemDefaults.label              "Vaikimisi seaded">
-<!ENTITY alwaysCheckDefault.label          "Käivitamisel kontrollitakse alati kas &brandShortName; on vaikimisi brauser"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label          "Käivitamisel kontrollitakse alati, kas &brandShortName; on vaikimisi brauser"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey      "v">
 <!ENTITY checkNow.label                    "Kontrolli nüüd">
 <!ENTITY checkNow.accesskey                "K">
