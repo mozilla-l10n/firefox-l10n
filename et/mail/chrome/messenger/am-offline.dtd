@@ -5,7 +5,7 @@
 <!ENTITY allFoldersOffline.accesskey          "A">
 <!ENTITY offlineNotDownload.label             "suuremaid kirju kui">
 <!ENTITY offlineNotDownload.accesskey         "r">
-<!ENTITY autosyncNotDownload.label            "Kirju ei tõmmata kui need on suuremad kui">
+<!ENTITY autosyncNotDownload.label            "Kirju ei tõmmata, kui need on suuremad kui">
 <!ENTITY autosyncNotDownload.accesskey        "K">
 <!ENTITY kb.label                             "KiB">
 <!ENTITY daysOld.label                        "päeva vanad">

@@ -4,6 +4,6 @@
 
 <!ENTITY securityOverride.linkText       "Võid ka lisada erandi…">
 <!ENTITY securityOverride.warningContent "
-<p>Erandit ei tohiks lisada, kui kasutad internetiühendust, mida sa täielikult ei usalda või kui sa pole harjunud saama hoiatusi selle serveri kohta.</p>
+<p>Erandit ei tohiks lisada, kui kasutad internetiühendust, mida sa täielikult ei usalda, või kui sa pole harjunud saama hoiatusi sellelt serverilt.</p>
 <p>Kui soovid lisada erandi sellele lehele, võid teha seda turvalisuse täpsemate seadistuste alt.</p>
 ">

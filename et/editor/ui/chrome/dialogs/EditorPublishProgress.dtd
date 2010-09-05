@@ -46,5 +46,5 @@
 <!ENTITY succeeded.label       "Õnnestus">
 <!ENTITY failed.label          "Ebaõnnestus">
 
-<!ENTITY keepOpen              "Aken jäetakse lahti kui avaldamine on lõppenud.">
+<!ENTITY keepOpen              "Aken jäetakse lahti, kui avaldamine on lõppenud.">
 <!ENTITY closeButton.label     "Sulge">
