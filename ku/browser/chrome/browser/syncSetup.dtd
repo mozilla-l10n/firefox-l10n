@@ -43,7 +43,7 @@
 <!ENTITY passphraseConfirm.accesskey  "P">
 
 <!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Browser Sync Preferences">
+<!ENTITY setup.newAccountPrefs2.title.label "Vebijêrkên Sync ên gerokê">
 <!ENTITY syncComputerName.label       "Navê komputerê:">
 <!ENTITY syncComputerName.accesskey   "N">
 <!ENTITY syncModeSwitchDesc.label     "&brandShortName; dê: ">
@@ -63,7 +63,7 @@
 <!ENTITY syncItem.prefs.accesskey     "s">
 
 <!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label     "Please confirm you're not a robot ;)">
+<!ENTITY setup.captchaPage.title.label     "Ji kerema xwe re pesend bike ku tu ne robot î ;)">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Agahiya hesabê têkeve">
@@ -75,10 +75,10 @@
 <!ENTITY passphraseDesc3.label        "Please enter your secret phrase. This must be the same secret phrase that you used to encrypt your data.">
 <!ENTITY passphraseHelp.label         "Your secret phrase is at least 12 characters long and is not your password. You can find your saved secret phrase by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
 <!ENTITY changePassphrase.label       "Rêzika nepen biguherîne">
-<!ENTITY verifying.label              "Verifying…">
+<!ENTITY verifying.label              "Tê piştrastkirin…">
 
 <!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "How do you want to start off?">
+<!ENTITY setup.mergeChoicePage.title.label "Çawa dixwazî dest pê bikî?">
 <!ENTITY choice.merge.main.label      "Merge this computer's data with your &syncBrand.shortName.label; data">
 <!ENTITY choice.merge.recommend.label "This option is strongly recommended by Mozilla for all users.">
 <!ENTITY choice.client.main.label     "Replace all data on this computer with your &syncBrand.fullName.label; data">
@@ -94,5 +94,5 @@
 <!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "Setup Complete!">
+<!ENTITY setup.successPage.title.label   "Sazkirin qediya!">
 <!ENTITY setup.successPage.desc.label    "Congratulations! &brandShortName; is now set up to automatically sync your information. Don't forget to install &syncBrand.fullName.label; on all your devices. You can now continue using &brandShortName;.">

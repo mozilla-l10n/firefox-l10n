@@ -3,6 +3,7 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Heke bixwazî zêdekariyan bidê...">
-<!ENTITY securityOverride.warningText " <p>Heke baweriya te bi girêdana te ya înternetê tunebe an jî her tim der barê vê pêşkêşkarê de hişyariyan nastînî, divê zêdekariyan nedî vê.</p>
-<p>Lê heke hê jî bixwazî zêdekariyan bidî vê, vê yekê bi bikaranîna mîhengên pêşketî yên nasnavkirinê bike.</p>
+<!ENTITY securityOverride.warningContent "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>If you still wish to add an exception for this site, you can do so in your advanced encryption settings.</p>
 ">
