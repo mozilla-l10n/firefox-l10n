@@ -46,10 +46,10 @@
 <!ENTITY cmd.showDetails.accesskey        "A">
 <!ENTITY cmd.findUpdates.label            "Rechercher des mises à jour">
 <!ENTITY cmd.findUpdates.accesskey        "R">
-<!ENTITY cmd.preferencesWin.label             "Options">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "Préférences">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.preferencesWin.label         "Options">
+<!ENTITY cmd.preferencesWin.accesskey     "O">
+<!ENTITY cmd.preferencesUnix.label        "Préférences">
+<!ENTITY cmd.preferencesUnix.accesskey    "P">
 <!ENTITY cmd.about.label                  "À propos de">
 <!ENTITY cmd.about.accesskey              "o">
 
@@ -57,14 +57,18 @@
 <!ENTITY cmd.enableAddon.accesskey        "A">
 <!ENTITY cmd.disableAddon.label           "Désactiver">
 <!ENTITY cmd.disableAddon.accesskey       "D">
-<!ENTITY cmd.installAddon.label               "Installer">
-<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.enableTheme.label            "Appliquer le thème">
+<!ENTITY cmd.enableTheme.accesskey        "A">
+<!ENTITY cmd.disableTheme.label           "Enlever le thème">
+<!ENTITY cmd.disableTheme.accesskey       "E">
+<!ENTITY cmd.installAddon.label           "Installer">
+<!ENTITY cmd.installAddon.accesskey       "I">
 <!ENTITY cmd.uninstallAddon.label         "Supprimer">
 <!ENTITY cmd.uninstallAddon.accesskey     "S">
-<!ENTITY cmd.showPreferencesWin.label         "Options">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Modifier les options de ce module complémentaire">
-<!ENTITY cmd.showPreferencesUnix.label        "Préférences">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Modifier les préférences de ce module complémentaire">
+<!ENTITY cmd.showPreferencesWin.label     "Options">
+<!ENTITY cmd.showPreferencesWin.tooltip   "Modifier les options de ce module complémentaire">
+<!ENTITY cmd.showPreferencesUnix.label    "Préférences">
+<!ENTITY cmd.showPreferencesUnix.tooltip  "Modifier les préférences de ce module complémentaire">
 <!ENTITY cmd.contribute.label             "Contribuer">
 <!ENTITY cmd.contribute.accesskey         "C">
 <!ENTITY cmd.contribute.tooltip           "Contribuer au développement de ce module complémentaire">
