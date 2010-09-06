@@ -13,6 +13,15 @@
 <!ENTITY cmd.back.tooltip                     "ਇੱਕ ਸਫ਼ਾ ਪਿੱਛੇ ਜਾਓ">
 <!ENTITY cmd.forward.tooltip                  "ਇੱਕ ਸਫ਼ਾ ਅੱਗੇ ਜਾਓ">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "ਸੁਰਖਿਅਤ ਮੋਡ 'ਚ ਸਭ ਐਡ-ਆਨ ਬੰਦ ਕਰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ।">
+<!ENTITY warning.checkcompatibility.label          "ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।">
+<!ENTITY warning.checkcompatibility.enable.label   "ਚਾਲੂ">
+<!ENTITY warning.checkcompatibility.enable.tooltip "ਐਡ-ਆਨ ਦੀ ਅਨੁਕੂਲਤਾ ਨੂੰ ਕੀਤਾ ਜਾਵੇਗਾ।">
+<!ENTITY warning.updatesecurity.label              "ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।">
+<!ENTITY warning.updatesecurity.enable.label       "ਚਾਲੂ">
+<!ENTITY warning.updatesecurity.enable.tooltip     "ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ">
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "ਖੋਜ">
@@ -58,9 +67,12 @@
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "ਬੰਦ">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "ਥੀਮ ਲਾਓ">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "ਥੀਮ ਲਾਉਣ ਤੋਂ ਰੋਕੋ">
+<!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.installAddon.label               "ਇੰਸਟਾਲ">
 <!ENTITY cmd.installAddon.accesskey           "I">
-
 <!ENTITY cmd.uninstallAddon.label             "ਹਟਾਓ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "ਚੋਣਾਂ">
@@ -92,7 +104,7 @@
 <!ENTITY detail.updateManual.label            "ਬੰਦ">
 <!ENTITY detail.updateManual.tooltip          "ਅੱਪਡੇਟ ਆਟੋਮੈਟਿਕ ਇੰਸਟਾਲ ਨਾ ਕਰੋ">
 <!ENTITY detail.home                          "ਮੁੱਖ ਪੇਜ਼">
-<!ENTITY detail.repository                    "ਐਡ-ਆਨ ਪਰੋਫਾਇਲAdd-on Profile">
+<!ENTITY detail.repository                    "ਐਡ-ਆਨ ਪਰੋਫਾਇਲ">
 <!ENTITY detail.size                          "ਆਕਾਰ">
 
 
