@@ -59,6 +59,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "W">
 <!ENTITY cmd.disableAddon.label               "Wyłącz">
 <!ENTITY cmd.disableAddon.accesskey           "W">
+<!ENTITY cmd.installAddon.label               "Zainstaluj">
+<!ENTITY cmd.installAddon.accesskey           "Z">
 <!ENTITY cmd.uninstallAddon.label             "Usuń">
 <!ENTITY cmd.uninstallAddon.accesskey         "U">
 <!ENTITY cmd.showPreferencesWin.label         "Opcje">
@@ -76,14 +78,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Wersja">
-<!ENTITY detail.updated.label                 "Zaktualizowano">
+<!ENTITY detail.lastupdated.label             "Ostatnia aktualizacja">
 <!ENTITY detail.creator.label                 "Twórca">
 <!ENTITY detail.homepage.label                "Witryna">
 <!ENTITY detail.numberOfDownloads.label       "Liczba pobrań">
 
-<!ENTITY detail.updateAutomatically.label     "Aktualizuj automatycznie">
-<!ENTITY detail.updateAutomatically.accesskey "A">
-<!ENTITY detail.updateAutomatically.tooltip   "Aktualizuj ten dodatek automatycznie, gdy tylko dostępna jest aktualizacja">
+<!ENTITY detail.contributions.description     "Autor tego dodatku prosi o wsparcie niewielką kwotą jego dalszego rozwoju.">
+
+<!ENTITY detail.updateType                    "Aktualizacje automatyczne">
+<!ENTITY detail.updateAutomatic.label         "Włącz">
+<!ENTITY detail.updateAutomatic.tooltip       "Instaluj aktualizacje automatycznie">
+<!ENTITY detail.updateManual.label            "Wyłącz">
+<!ENTITY detail.updateManual.tooltip          "Nie instaluj aktualizacji automatycznie">
+<!ENTITY detail.home                          "Strona domowa">
+<!ENTITY detail.repository                    "Profil dodatku">
+<!ENTITY detail.size                          "Rozmiar">
+
 <!ENTITY detail.checkForUpdates.label         "Sprawdź dostępność aktualizacji">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
 <!ENTITY detail.checkForUpdates.tooltip       "Sprawdź, czy dostępne są aktualizacje dla tego dodatku">
