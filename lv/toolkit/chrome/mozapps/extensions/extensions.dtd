@@ -49,14 +49,16 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versija">
-<!ENTITY detail.updated.label                 "Atjaunināts">
 <!ENTITY detail.creator.label                 "Izstrādātājs">
 <!ENTITY detail.homepage.label                "Mājas lapa">
 <!ENTITY detail.numberOfDownloads.label       "Lejupielāžu skaits">
 
-<!ENTITY detail.updateAutomatically.label     "Atjaunināt automātiski">
-<!ENTITY detail.updateAutomatically.accesskey "A">
-<!ENTITY detail.updateAutomatically.tooltip   "Automātiski atjaunināt šo papildinājumu, kolīdz ir pieejama jaunāka versija">
+<!ENTITY detail.updateType                    "Automātiska atjaunināšana">
+<!ENTITY detail.updateAutomatic.label         "Ieslēgta">
+<!ENTITY detail.updateAutomatic.tooltip       "Instalēt atjauninājumus automātiski">
+<!ENTITY detail.updateManual.label            "Izslēgta">
+<!ENTITY detail.updateManual.tooltip          "Neinstalēt atjauninājumus automātiski">
+
 <!ENTITY detail.checkForUpdates.label         "Meklēt atjauninājumus">
 <!ENTITY detail.checkForUpdates.accesskey     "M">
 <!ENTITY detail.checkForUpdates.tooltip       "Meklēt atjauninājumus šim papildinājumam">
@@ -101,13 +103,25 @@
 <!ENTITY addon.homepage                       "Mājas lapa">
 <!ENTITY addon.unknownDate                    "Nezināms">
 <!ENTITY addon.disabled.postfix               "(atslēgts)">
-<!ENTITY addon.undo.label                     "Atcelt?">
-<!ENTITY addon.undo.tooltip                   "Atcelt šo darbību">
-<!ENTITY addon.undoUninstall.label            "Atcelt?">
-<!ENTITY addon.undoUninstall.tooltip          "Atstāt šo papildinājumu">
+<!ENTITY addon.undoAction.label               "Atcelt">
+<!ENTITY addon.undoAction.tooltip             "Atcelt šo darbību">
+<!ENTITY addon.undoRemove.label               "Atcelt">
+<!ENTITY addon.undoRemove.tooltip             "Saglabāt šo papildinājumu">
 <!ENTITY addon.restartNow.label               "Pārstartēt">
 <!ENTITY addon.install.tooltip                "Instalēt šo papildinājumu">
 <!ENTITY addon.checkingForUpdates.label       "Meklē atjauninājumus…">
+<!ENTITY cmd.enableTheme.label                "Izmantot šo tēmu">
+<!ENTITY cmd.enableTheme.accesskey            "I">
+<!ENTITY cmd.disableTheme.label               "Neizmantot šo tēmu">
+<!ENTITY cmd.disableTheme.accesskey           "N">
+<!ENTITY cmd.installAddon.label               "Instalēt">
+<!ENTITY cmd.installAddon.accesskey           "I">
+
+<!ENTITY detail.contributions.description     "Šī papildinājuma autors lūdz jūs atbalstīt izstrādi ar nelielu ziedojumu.">
+<!ENTITY detail.home                          "Mājas lapa">
+<!ENTITY detail.repository                    "Papildinājuma profils">
+<!ENTITY detail.size                          "Izmērs">
+<!ENTITY detail.lastupdated.label             "Pēdējo reizi atjaunināts">
 
 <!ENTITY addon.createdBy.label                "Autors: ">
 
@@ -130,7 +144,7 @@
 <!ENTITY view.locales.label                   "Valodas">
 <!ENTITY view.searchengines.label             "Meklētāji">
 <!ENTITY view.features.label                  "Papildinājumi">
-<!ENTITY view.appearance.label                "Tēmas">
+<!ENTITY view.appearance2.label               "Izskats">
 <!ENTITY view.plugins.label                   "Spraudņi">
 <!ENTITY addon.install.label                  "Instalēt">
 <!ENTITY view.recentUpdates.label             "Nesenie atjauninājumi">
@@ -147,3 +161,12 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Parādīt šī atjauninājuma laidiena piezīmes">
 <!ENTITY cmd.hideReleaseNotes.label           "Paslēpt laidiena piezīmes">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Paslēpt šī laidiena piezīmes">
+
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Drošais režīms ir deaktivizējis visus papildinājumu.">
+<!ENTITY warning.checkcompatibility.label          "Papildinājumu savietojamības pārbaude ir deaktivizēta. Iespējams jums ir nesavietojami papildinājumu.">
+<!ENTITY warning.checkcompatibility.enable.label   "Aktivizēt">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Aktivizēt papildinājumu savietojamības pārbaudi">
+<!ENTITY warning.updatesecurity.label              "Papildinājumu drošības pārbaude ir deaktivizēta. Iespējams jums ir nedroši papildinājumu.">
+<!ENTITY warning.updatesecurity.enable.label       "Aktivizēt">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Aktivizēt papildinājumu drošības pārbaudi">
