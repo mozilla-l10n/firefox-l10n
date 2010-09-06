@@ -15,6 +15,15 @@
 <!ENTITY cmd.back.tooltip                     "Przejdź o jedną stronę do przodu">
 <!ENTITY cmd.forward.tooltip                  "Przejdź o jedną stronę wstecz">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Wszystkie dodatki zostały wyłączone przez tryb awaryjny">
+<!ENTITY warning.checkcompatibility.label          "Sprawdzanie zgodności dodatków jest wyłączone. Dodatki mogą być niezgodne.">
+<!ENTITY warning.checkcompatibility.enable.label   "Włącz">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Włącz sprawdzanie zgodności dodatków">
+<!ENTITY warning.updatesecurity.label              "Sprawdzanie bezpieczeństwa aktualizacji jest wyłączone. Aktualizacje mogą powodować zagrożenie.">
+<!ENTITY warning.updatesecurity.enable.label       "Włącz">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Włącz sprawdzanie bezpieczeństwa aktualizacji dodatków"
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Szukaj">
