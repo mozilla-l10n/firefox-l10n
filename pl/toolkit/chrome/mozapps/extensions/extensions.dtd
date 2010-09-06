@@ -59,6 +59,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "W">
 <!ENTITY cmd.disableAddon.label               "Wyłącz">
 <!ENTITY cmd.disableAddon.accesskey           "W">
+<!ENTITY cmd.enableTheme.label                "Używaj motywu">
+<!ENTITY cmd.enableTheme.accesskey            "U">
+<!ENTITY cmd.disableTheme.label               "Przestań używać motywu">
+<!ENTITY cmd.disableTheme.accesskey           "u">
 <!ENTITY cmd.installAddon.label               "Zainstaluj">
 <!ENTITY cmd.installAddon.accesskey           "Z">
 <!ENTITY cmd.uninstallAddon.label             "Usuń">
