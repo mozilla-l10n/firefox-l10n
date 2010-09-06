@@ -1,5 +1,5 @@
 <!ENTITY dialog.title             "Personalizar barra de ferramientes">
-<!ENTITY dialog.style             "width: 86ch; height: 36em;">
+<!ENTITY dialog.style             "width: 130ch; height: 36em;">
 <!ENTITY instructions.description "Puen amestase o desaniciase elementos arrastrándolos a la barra de ferramientes.">
 <!ENTITY show.label               "Amosar:">
 <!ENTITY iconsAndText.label       "Iconos y testu">
