@@ -18,7 +18,7 @@
 <!ENTITY homepage.none                             "Tom side">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Bruk aktiv side">
-<!ENTITY sync.title                                "Synk">
+<!ENTITY sync.title                                "Sync">
 <!ENTITY sync.username                             "Brukarnamn">
 <!ENTITY sync.password                             "Passord">
 <!ENTITY sync.secretPhrase                         "Hemmeleg setning">
