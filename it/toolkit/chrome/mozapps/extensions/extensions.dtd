@@ -11,6 +11,13 @@
 <!ENTITY installFromFile.accesskey "I">
 <!ENTITY cmd.back.tooltip "Torna indietro di una pagina">
 <!ENTITY cmd.forward.tooltip "Vai avanti di una pagina">
+<!ENTITY warning.safemode.label "Tutti i componenti aggiuntivi sono stati disattivati dalla modalità provvisoria.">
+<!ENTITY warning.checkcompatibility.label "Il controllo di compatibilità dei componenti aggiuntivi è disattivato. Potrebbero essere presenti dei componenti aggiuntivi non compatibili.">
+<!ENTITY warning.checkcompatibility.enable.label "Attivo">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Attiva il controllo di compatibilità dei componenti aggiuntivi">
+<!ENTITY warning.updatesecurity.label "Il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi è disattivato. Il sistema potrebbe essere danneggiato da un aggiornamento.">
+<!ENTITY warning.updatesecurity.enable.label "Attivo">
+<!ENTITY warning.updatesecurity.enable.tooltip "Attiva il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi">
 <!ENTITY view.search.label "Cerca">
 <!ENTITY view.discover.label "Esplora">
 <!ENTITY view.locales.label "Lingue">
@@ -48,6 +55,10 @@
 <!ENTITY cmd.enableAddon.accesskey "A">
 <!ENTITY cmd.disableAddon.label "Disattiva">
 <!ENTITY cmd.disableAddon.accesskey "D">
+<!ENTITY cmd.enableTheme.label "Utilizza questo tema">
+<!ENTITY cmd.enableTheme.accesskey "t">
+<!ENTITY cmd.disableTheme.label "Abbandona questo tema">
+<!ENTITY cmd.disableTheme.accesskey "t">
 <!ENTITY cmd.installAddon.label "Installa">
 <!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Rimuovi">
