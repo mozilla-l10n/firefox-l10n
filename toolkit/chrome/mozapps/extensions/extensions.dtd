@@ -13,6 +13,15 @@
 <!ENTITY cmd.back.tooltip                     "Retroceder una página">
 <!ENTITY cmd.forward.tooltip                  "Avanzar una página">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Todos los complementos fueron deshabilitados por el modo seguro.">
+<!ENTITY warning.checkcompatibility.label          "La verificación de compatibilidad de complementos está deshabilitada. Puede tener complementos incompatibles.">
+<!ENTITY warning.checkcompatibility.enable.label   "Habilitar">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Habilitar verificación de compatibilidad de complementos">
+<!ENTITY warning.updatesecurity.label              "La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puede estar en peligro por las actualizaciones.">
+<!ENTITY warning.updatesecurity.enable.label       "Habilitar">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Habilitar la verificación de actualizaciones de seguridad">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Buscar">
 <!ENTITY view.discover.label                  "Obtener complementos">
@@ -56,6 +65,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Deshabilitar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Usar tema">
+<!ENTITY cmd.enableTheme.accesskey            "U">
+<!ENTITY cmd.disableTheme.label               "Dejar de usar tema">
+<!ENTITY cmd.disableTheme.accesskey           "u">
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
