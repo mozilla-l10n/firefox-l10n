@@ -13,6 +13,15 @@
 <!ENTITY cmd.back.tooltip                     "Reculer d'une page">
 <!ENTITY cmd.forward.tooltip                  "Avancer d'une page">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Tous les modules complémentaires ont été désactivés par le mode sans échec.">
+<!ENTITY warning.checkcompatibility.label          "La vérification de compatibilité des modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires incompatibles.">
+<!ENTITY warning.checkcompatibility.enable.label   "Activer">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Activer la vérification de compatibilité">
+<!ENTITY warning.updatesecurity.label              "La vérification de mises à jour de sécurité pour les modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires non sûrs.">
+<!ENTITY warning.updatesecurity.enable.label       "Activer">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Activer la vérification de mises à jour de sécurité pour les modules complémentaires">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                "Rechercher">
 <!ENTITY view.discover.label              "Catalogue">
