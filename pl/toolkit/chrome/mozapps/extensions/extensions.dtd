@@ -22,7 +22,7 @@
 <!ENTITY warning.checkcompatibility.enable.tooltip "Włącz sprawdzanie zgodności dodatków">
 <!ENTITY warning.updatesecurity.label              "Sprawdzanie bezpieczeństwa aktualizacji jest wyłączone. Aktualizacje mogą powodować zagrożenie.">
 <!ENTITY warning.updatesecurity.enable.label       "Włącz">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Włącz sprawdzanie bezpieczeństwa aktualizacji dodatków"
+<!ENTITY warning.updatesecurity.enable.tooltip     "Włącz sprawdzanie bezpieczeństwa aktualizacji dodatków">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
