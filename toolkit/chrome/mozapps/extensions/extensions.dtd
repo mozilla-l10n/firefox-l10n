@@ -13,6 +13,15 @@
 <!ENTITY cmd.back.tooltip                     "Een pagina terug gaan">
 <!ENTITY cmd.forward.tooltip                  "Een pagina vooruit gaan">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Alle add-ons zijn uitgeschakeld door de veilige modus.">
+<!ENTITY warning.checkcompatibility.label          "Compatibiliteitscontrole voor add-ons is uitgeschakeld. U zou incompatibele add-ons kunnen hebben.">
+<!ENTITY warning.checkcompatibility.enable.label   "Inschakelen">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Add-oncompatibiliteitcontrole inschakelen">
+<!ENTITY warning.updatesecurity.label              "Veiligheidscontrole voor add-on-updates is uitgeschakeld. U kunt een veiligheidsrisico lopen door updates.">
+<!ENTITY warning.updatesecurity.enable.label       "Inschakelen">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Add-onveiligheidscontrole inschakelen">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Doorzoeken">
 <!ENTITY view.discover.label                  "Add-ons verkrijgen">
