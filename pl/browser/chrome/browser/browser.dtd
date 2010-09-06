@@ -28,8 +28,6 @@
 <!ENTITY moveToGroup.label                   "Przenieś do grupy">
 <!ENTITY moveToGroup.accesskey               "n">
 <!ENTITY moveToNewGroup.label                "Nowa grupa">
-<!ENTITY bookmarkThisTab.label               "Dodaj zakładkę do tej karty">
-<!ENTITY bookmarkThisTab.accesskey           "z">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
 <!ENTITY bookmarkAllTabs.accesskey           "k">
 <!ENTITY undoCloseTab.label                  "Przywróć zamkniętą kartę">
