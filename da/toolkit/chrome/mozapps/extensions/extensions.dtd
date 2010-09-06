@@ -7,19 +7,24 @@
 <!ENTITY listEmpty.findUpdates.label          "Tjek for opdateringer">
 <!ENTITY listEmpty.search.label               "Ingen matchende tilføjelser">
 <!ENTITY listEmpty.button.label               "Lær mere om tilføjelser">
+<!ENTITY installFromFile.label                "Installer fra fil…">
+<!ENTITY installFromFile.accesskey            "I">
 
+<!ENTITY cmd.back.tooltip                     "Gå en side tilbage">
+<!ENTITY cmd.forward.tooltip                  "Gå en side frem">
 
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Søg">
 <!ENTITY view.discover.label                  "Find tilføjelser">
 <!ENTITY view.locales.label                   "Sprog">
 <!ENTITY view.searchengines.label             "Søgetjenester">
 <!ENTITY view.features.label                  "Udvidelser">
-<!ENTITY view.appearance.label                "Temaer">
+<!ENTITY view.appearance2.label               "Temaer">
 <!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Nylige opdateringer">
 <!ENTITY view.availableUpdates.label          "Tilgænglige opdateringer">
+<!ENTITY view.utilites.preferences.tooltip    "Indstillinger for alle tilføjelser">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Præferencer for alle tilføjelser">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Opdater tilføjelser nu">
@@ -40,8 +45,10 @@
 <!ENTITY cmd.showDetails.accesskey            "V">
 <!ENTITY cmd.findUpdates.label                "Find opdateringer">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferences.label                "Indstillinger">
-<!ENTITY cmd.preferences.accesskey            "I">
+<!ENTITY cmd.preferencesWin.label             "Indstillinger">
+<!ENTITY cmd.preferencesWin.accesskey         "I">
+<!ENTITY cmd.preferencesUnix.label            "Preferencer">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "Om">
 <!ENTITY cmd.about.accesskey                  "O">
 
@@ -49,10 +56,14 @@
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Deaktiver">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.installAddon.label               "Installer">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Fjern">
 <!ENTITY cmd.uninstallAddon.accesskey         "F">
-<!ENTITY cmd.showPreferences.label            "Indstillinger">
-<!ENTITY cmd.showPreferences.tooltip          "Rediger denne tilføjelses indstillinger">
+<!ENTITY cmd.showPreferencesWin.label         "Indstillinger">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Rediger indstillinger for denne tilføjelse">
+<!ENTITY cmd.showPreferencesUnix.label        "Præferencer">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Rediger præferencer for denne tilføjelse">
 <!ENTITY cmd.contribute.label                 "Bidrag">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Bidrag til udviklingen af denne tilføjelse">
@@ -64,20 +75,31 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
-<!ENTITY detail.updated.label                 "Opdateret">
+<!ENTITY detail.lastupdated.label             "Senest opdateret">
 <!ENTITY detail.creator.label                 "Udvikler">
 <!ENTITY detail.homepage.label                "Hjemmeside">
 <!ENTITY detail.numberOfDownloads.label       "Antal gange hentet">
 
-<!ENTITY detail.updateAutomatically.label     "Opdater automatisk">
-<!ENTITY detail.updateAutomatically.accesskey "O">
-<!ENTITY detail.updateAutomatically.tooltip   "Opdater denne tilføjelse automatisk, når der er en opdatering tilgænglig">
+<!ENTITY detail.contributions.description     "Udvikleren af denne tilføjelse forespøger om du vil hjælpe dens videre udvikling ved at bidrage med en lille donation.">
+
+<!ENTITY detail.updateType                    "Automatisk opdatering">
+<!ENTITY detail.updateAutomatic.label         "Til">
+<!ENTITY detail.updateAutomatic.tooltip       "Installer opdateringer automatisk">
+<!ENTITY detail.updateManual.label            "Fra">
+<!ENTITY detail.updateManual.tooltip          "Installer ikke opdateringer automatisk">
+<!ENTITY detail.home                          "Hjemmeside">
+<!ENTITY detail.repository                    "Profil af tilføjelse">
+<!ENTITY detail.size                          "Størrelse">
+
 <!ENTITY detail.checkForUpdates.label         "Tjek for opdateringer">
 <!ENTITY detail.checkForUpdates.accesskey     "T">
-<!ENTITY detail.checkForUpdates.tooltip       "Tjek for opdateringer til denne tilføjelse">
-<!ENTITY detail.showPreferences.label         "Indstillinger">
-<!ENTITY detail.showPreferences.accesskey     "I">
-<!ENTITY detail.showPreferences.tooltip       "Rediger denne tilføjelses indstillinger">
+<!ENTITY detail.checkForUpdates.tooltip       "Søg efter tilgænglige opdateringer til denne tilføjelse">
+<!ENTITY detail.showPreferencesWin.label      "Indstillinger">
+<!ENTITY detail.showPreferencesWin.accesskey  "I">
+<!ENTITY detail.showPreferencesWin.tooltip    "Rediger indstillinger for denne tilføjelse">
+<!ENTITY detail.showPreferencesUnix.label     "Præferencer">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Rediger præferencer for denne tilføjelse">
 
 
 <!-- ratings -->
@@ -91,33 +113,29 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Navn">
 <!ENTITY sort.name.tooltip                    "Sorter efter navn">
-<!ENTITY sort.size.label                      "Størrelse">
-<!ENTITY sort.size.tooltip                    "Sorter efter størrelse">
 <!ENTITY sort.dateUpdated.label               "Senest opdateret">
 <!ENTITY sort.dateUpdated.tooltip             "Sorter efter seneste opdateringsdato">
-<!ENTITY sort.rating.label                    "Vurdering">
-<!ENTITY sort.rating.tooltip                  "Sorter efter vurdering">
+<!ENTITY sort.relevance.label                 "Bedste match">
+<!ENTITY sort.relevance.tooltip               "Sorter efter relevans">
 
-
-<!ENTITY showMore.label                       "Vis mere">
-<!ENTITY showMore.tooltip                     "Vis flere detaljer">
-<!ENTITY showLess.label                       "Vis mindre">
-<!ENTITY showLess.tooltip                     "Vis færre detaljer">
-
-<!ENTITY search.filter.label                  "Vis:">
-<!ENTITY search.filter.installed.label        "Dine installerede tilføjelser">
-<!ENTITY search.filter.available.label        "Tilgænglige tilføjelser">
+<!ENTITY search.filter2.label                 "Søg:">
+<!ENTITY search.filter2.installed.label       "Mine tilføjelser">
+<!ENTITY search.filter2.installed.tooltip     "Vis installerede tilføjelser">
+<!ENTITY search.filter2.available.label       "Tilgængelige tilføjelser">
+<!ENTITY search.filter2.available.tooltip     "Vis tilføjelser tilgængelige for installation">
 
 <!ENTITY addon.homepage                       "Hjemmeside">
+<!ENTITY addon.details.label                  "Mere">
+<!ENTITY addon.details.tooltip                "Vis flere detajler om denne tilføjelse">
 <!ENTITY addon.unknownDate                    "ukendt">
 <!ENTITY addon.disabled.postfix               "(deaktiveret)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "Opdatering">
-<!ENTITY addon.undo.label                     "Fortryd?">
-<!ENTITY addon.undo.tooltip                   "Fortryd denne handling">
-<!ENTITY addon.undoUninstall.label            "Fortryd?">
-<!ENTITY addon.undoUninstall.tooltip          "Behold denne tilføjelse">
+<!ENTITY addon.undoAction.label               "Fortryd">
+<!ENTITY addon.undoAction.tooltip             "Fortryd denne handling">
+<!ENTITY addon.undoRemove.label               "Fortryd">
+<!ENTITY addon.undoRemove.tooltip             "Lad denne tilføjelse forblive installeret">
 <!ENTITY addon.restartNow.label               "Genstart nu">
-<!ENTITY addon.restartNow.tooltip             "Genstart nu for at afslutte installationen">
 <!ENTITY addon.install.label                  "Installer">
 <!ENTITY addon.install.tooltip                "Installer denne tilføjelse">
 <!ENTITY addon.updateNow.label                "Opdater nu">

@@ -46,5 +46,3 @@
 <!ENTITY  clickFinish.label               "Klik Afslut for at fortsætte opstarten af &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Klik Færdig for at fortsætte opstarten af &brandShortName;.">
 <!ENTITY  enableChecking.label            "Tillad &brandShortName; at søge efter opdateringer.">
-<!ENTITY  details.label                   "Detaljer…">
-<!ENTITY  details.accesskey               "D">
