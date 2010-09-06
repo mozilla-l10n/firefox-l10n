@@ -108,7 +108,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Subskrybuj tę stronę">
 <!ENTITY subscribeToPageMenuitem.label "Subskrybuj tę stronę…">
 <!ENTITY addCurPagesCmd.label "Dodaj zakładki do wszystkich kart…">
-<!ENTITY organizeBookmarks.label "Zarządzaj zakładkami…">
+<!ENTITY showAllBookmarks.label "Wyświetl wszystkie zakładki…">
 <!ENTITY bookmarkAllCmd.label "Dodaj zakładki do wszystkich kart…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
 
