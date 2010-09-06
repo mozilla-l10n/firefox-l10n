@@ -131,10 +131,10 @@
 <!ENTITY addon.unknownDate                    "nieznana">
 <!ENTITY addon.disabled.postfix               "(wyłączony)">
 <!ENTITY addon.update.postfix                 "Aktualizuj">
-<!ENTITY addon.undo.label                     "Cofnąć?">
-<!ENTITY addon.undo.tooltip                   "Cofnij tę operację">
-<!ENTITY addon.undoUninstall.label            "Cofnąć?">
-<!ENTITY addon.undoUninstall.tooltip          "Pozostaw ten dodatek">
+<!ENTITY addon.undoAction.label               "Cofnij">
+<!ENTITY addon.undoAction.tooltip             "Cofnij tę operację">
+<!ENTITY addon.undoRemove.label               "Cofnij">
+<!ENTITY addon.undoRemove.tooltip             "Pozostaw ten dodatek">
 <!ENTITY addon.restartNow.label               "Uruchom ponownie">
 <!ENTITY addon.install.label                  "Zainstaluj">
 <!ENTITY addon.install.tooltip                "Zainstall ten dodatek">
