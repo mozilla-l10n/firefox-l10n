@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilbibliotek">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktive plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfiguration">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
 <!ENTITY aboutSupport.show.label "Åbn mappe">
 
@@ -30,6 +31,8 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsTitle "Ændrede indstillinger">
 <!ENTITY aboutSupport.modifiedPrefsName "Navn">
 <!ENTITY aboutSupport.modifiedPrefsValue "Værdi">
+
+<!ENTITY aboutSupport.graphicsTitle "Grafik">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Installationshistorik">
 <!ENTITY aboutSupport.updateHistoryTitle "Opdateringshistorik">

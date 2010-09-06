@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Fejlfindingsinformation…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "F">
 
+<!ENTITY helpFeedbackPage.label      "Indsend feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "I">
+
 <!ENTITY updateCmd.label                "Tjek for opdateringer…">
 
 <!ENTITY preferencesCmdMac.label        "Indstillinger…">

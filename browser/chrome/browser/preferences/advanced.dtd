@@ -1,8 +1,8 @@
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label               "Generelt">
+<!ENTITY generalTab.label                "Generelt">
 
-<!ENTITY accessibility.label            "Tilgængelighed">
+<!ENTITY accessibility.label             "Tilgængelighed">
 
 <!ENTITY useCursorNavigation.label       "Brug altid markør og tastatur til at navigere på sider">
 <!ENTITY useCursorNavigation.accesskey   "m">
@@ -11,12 +11,14 @@
 <!ENTITY blockAutoRefresh.label          "Advar mig når sider forsøger at viderestille eller genindlæse siden">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
-<!ENTITY browsing.label                 "Browsing">
+<!ENTITY browsing.label                  "Browsing">
 
 <!ENTITY useAutoScroll.label             "Anvend autoscrolling">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label       "Anvend blød scrolling">
-<!ENTITY useSmoothScrolling.accesskey   "b">
+<!ENTITY useSmoothScrolling.label        "Anvend blød scrolling">
+<!ENTITY useSmoothScrolling.accesskey    "b">
+<!ENTITY allowHWAccel.label              "Brug hardware-acceleration hvor muligt">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontroller min stavning mens jeg taster">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -50,20 +52,20 @@
 <!ENTITY clearCacheNow.label             "Ryd nu">
 <!ENTITY clearCacheNow.accesskey         "R">
 
-<!ENTITY updateTab.label                "Opdateringer">
+<!ENTITY updateTab.label                 "Opdateringer">
 
-<!ENTITY autoCheck.label                "Undersøg automatisk om der er opdateringer til:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "F">
+<!ENTITY autoCheck.label                 "Undersøg automatisk om der er opdateringer til:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Tilføjelser">
 <!ENTITY enableAddonsUpdate2.accesskey   "T">
-<!ENTITY enableSearchUpdate.label       "Søgetjenester">
-<!ENTITY enableSearchUpdate.accesskey   "S">
-<!ENTITY whenUpdatesFound.label         "Når opdateringer til &brandShortName; bliver fundet, så">
+<!ENTITY enableSearchUpdate.label        "Søgetjenester">
+<!ENTITY enableSearchUpdate.accesskey    "S">
+<!ENTITY whenUpdatesFound.label          "Når opdateringer til &brandShortName; bliver fundet, så">
 <!ENTITY askMe.label                     "Spørg hvad jeg ønsker at gøre">
 <!ENTITY askMe.accesskey                 "p">
-<!ENTITY modeAutomatic.label            "Foretag automatisk hentning og installation af opdateringen">
-<!ENTITY modeAutomatic.accesskey        "o">
+<!ENTITY modeAutomatic.label             "Foretag automatisk hentning og installation af opdateringen">
+<!ENTITY modeAutomatic.accesskey         "o">
 <!ENTITY modeAutoAddonWarn.label         "Advar mig hvis dette deaktiverer nogle af mine tilføjelser">
 <!ENTITY modeAutoAddonWarn.accesskey     "A">
 <!ENTITY updateHistory.label             "Vis opdateringshistorik">
@@ -82,12 +84,12 @@
 
 <!ENTITY encryptionTab.label             "Kryptering">
 
-<!ENTITY protocols.label                "Protokoller">
-<!ENTITY useSSL3.label                  "Brug SSL 3.0">
-<!ENTITY useSSL3.accesskey              "3">
-<!ENTITY useTLS1.label                  "Brug TLS 1.0">
-<!ENTITY useTLS1.accesskey              "1">
-<!ENTITY certificates.label             "Certifikater">
+<!ENTITY protocols.label                 "Protokoller">
+<!ENTITY useSSL3.label                   "Brug SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Brug TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certifikater">
 <!ENTITY certSelection.description       "Når en server forespørger mit personlige certifikat:">
 <!ENTITY certs.auto                      "Vælg et automatisk">
 <!ENTITY certs.auto.accesskey            "l">
@@ -95,9 +97,9 @@
 <!ENTITY certs.ask.accesskey             "p">
 <!ENTITY viewCerts.label                 "Vis certifikater">
 <!ENTITY viewCerts.accesskey             "c">
-<!ENTITY viewCRLs.label                 "Tilbagekaldelsesliste">
-<!ENTITY viewCRLs.accesskey             "T">
-<!ENTITY verify2.label                    "Verifikation">
-<!ENTITY verify2.accesskey                "V">
-<!ENTITY viewSecurityDevices.label      "Sikkerhedsmoduler">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY viewCRLs.label                  "Tilbagekaldelsesliste">
+<!ENTITY viewCRLs.accesskey              "T">
+<!ENTITY verify2.label                   "Verifikation">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Sikkerhedsmoduler">
+<!ENTITY viewSecurityDevices.accesskey   "S">
