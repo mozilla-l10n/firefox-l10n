@@ -42,7 +42,7 @@
 <!ENTITY updates.manualUpdatesFound.label     "Tampilkan Versi Baru yang Tersedia">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Tampilkan informasi lebih lanjut">
+<!ENTITY cmd.showDetails.label                "Tampilkan informasi selengkapnya">
 <!ENTITY cmd.showDetails.accesskey            "i">
 <!ENTITY cmd.findUpdates.label                "Temukan Versi Baru">
 <!ENTITY cmd.findUpdates.accesskey            "B">
@@ -125,7 +125,7 @@
 <!ENTITY search.filter2.available.tooltip     "Tampilkan pengaya yang tersedia untuk dipasang">
 
 <!ENTITY addon.homepage                       "Beranda">
-<!ENTITY addon.details.label                  "Selanjutnya">
+<!ENTITY addon.details.label                  "Selengkapnya">
 <!ENTITY addon.details.tooltip                "Tampilkan detail lainnya tentang pengaya ini">
 <!ENTITY addon.unknownDate                    "Tidak dikenali">
 <!ENTITY addon.disabled.postfix               "(dimatikan)">
@@ -142,6 +142,6 @@
 <!ENTITY addon.checkingForUpdates.label       "Memeriksa versi baru…">
 <!ENTITY addon.releaseNotes.label             "Catatan Rilis:">
 <!ENTITY addon.loadingReleaseNotes.label      "Memuat…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, ada kesalahan ketika memuat catatan rilis.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, galat terjadi ketika memuat catatan rilis.">
 
 <!ENTITY addon.createdBy.label                "Oleh ">
