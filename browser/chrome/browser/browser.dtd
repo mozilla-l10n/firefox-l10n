@@ -30,8 +30,6 @@
 
 <!ENTITY bookmarkAllTabs.label "Saglabāt visas cilnes grāmatzīmēs...">
 <!ENTITY bookmarkAllTabs.accesskey "T">
-<!ENTITY bookmarkThisTab.label "Saglabāt šo cilni grāmatzīmēs">
-<!ENTITY bookmarkThisTab.accesskey "B">
 <!ENTITY closeTab.label "Aizvērt cilni">
 <!ENTITY closeTab.accesskey "C">
 <!ENTITY closeOtherTabs.accesskey "v">
@@ -122,7 +120,6 @@
 <!ENTITY subscribeToPageMenupopup.label "Pierakstīties uz šo lapu">
 <!ENTITY subscribeToPageMenuitem.label "Pierakstīties uz šo lapu...">
 <!ENTITY addCurPagesCmd.label "Atzīmēt visas cilnes grāmatzīmēs...">
-<!ENTITY organizeBookmarks.label "Sakārtot grāmatzīmes...">
 <!ENTITY bookmarkAllCmd.label "Atzīmēt visas cilnes grāmatzīmēs...">
 
 <!ENTITY backCmd.label "Atpakaļ">
@@ -177,6 +174,7 @@
 <!ENTITY addons.label "Papildinājumi">
 <!ENTITY addons.accesskey "A">
 <!ENTITY addons.commandkey "A">
+<!ENTITY showAllBookmarks.label "Rādīt visas grāmatzīmes…">
 
 <!ENTITY inspectMenu.label            "Apskatīt">
 <!ENTITY inspectMenu.accesskey        "T">

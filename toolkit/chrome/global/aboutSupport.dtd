@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Profila direktorija">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivizētie spraudņi">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Būvējuma konfigurācija">
+<!ENTITY aboutSupport.appBasicsUserAgent "Lietotāja aģents">
 
 <!ENTITY aboutSupport.show.label "Atvērt saturošo mapi">
 
