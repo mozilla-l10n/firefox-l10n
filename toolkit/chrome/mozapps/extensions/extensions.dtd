@@ -11,6 +11,14 @@
 <!ENTITY installFromFile.accesskey "i">
 <!ENTITY cmd.back.tooltip "Til baka um eina síðu">
 <!ENTITY cmd.forward.tooltip "Áfram um eina síðu">
+<!-- global warnings -->
+<!ENTITY warning.safemode.label "Allar viðbætur hafa verið gerðar óvirkar vegna öryggishams.">
+<!ENTITY warning.checkcompatibility.label "Samhæfnisathugun viðbóta er óvirk. Hugsanlegt er að þú sért með ósamhæfðar viðbætur.">
+<!ENTITY warning.checkcompatibility.enable.label "Virkja">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Virkja samhæfnisathugun viðbóta">
+<!ENTITY warning.updatesecurity.label "Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.">
+<!ENTITY warning.updatesecurity.enable.label "Virkja">
+<!ENTITY warning.updatesecurity.enable.tooltip "Virkja öryggisuppfærslur fyrir viðbætur">
 <!-- categories / views -->
 <!ENTITY view.search.label "Leita">
 <!ENTITY view.discover.label "Ná í viðbætur">
@@ -51,6 +59,10 @@
 <!ENTITY cmd.enableAddon.accesskey "e">
 <!ENTITY cmd.disableAddon.label "Slökkva">
 <!ENTITY cmd.disableAddon.accesskey "S">
+<!ENTITY cmd.enableTheme.label "Nota þema">
+<!ENTITY cmd.enableTheme.accesskey "þ">
+<!ENTITY cmd.disableTheme.label "Hætta að nota þema">
+<!ENTITY cmd.disableTheme.accesskey "þ">
 <!ENTITY cmd.installAddon.label "Setja upp">
 <!ENTITY cmd.installAddon.accesskey "t">
 <!ENTITY cmd.uninstallAddon.label "Fjarlægja">
