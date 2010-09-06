@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilmappe">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Påslåtte programtillegg">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Bygginnstillinger">
+<!ENTITY aboutSupport.appBasicsUserAgent "Brukeragent">
 
 <!ENTITY aboutSupport.show.label "Åpne mappen med filen">
 
