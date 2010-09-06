@@ -13,6 +13,15 @@
 <!ENTITY cmd.back.tooltip                     "Mundur satu laman">
 <!ENTITY cmd.forward.tooltip                  "Maju satu laman">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Semua pengaya telah dimatikan dalam mode aman.">
+<!ENTITY warning.checkcompatibility.label          "Pemeriksaan kompatibilitas pengaya telah dimatikan. Anda mungkin menggunakan pengaya yang tidak kompatibel.">
+<!ENTITY warning.checkcompatibility.enable.label   "Aktifkan">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Aktifkan pemeriksaan kompatibilitas pengaya">
+<!ENTITY warning.updatesecurity.label              "Pemeriksaan keamanan pemutakhiran pengaya telah dimatikan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.">
+<!ENTITY warning.updatesecurity.enable.label       "Aktifkan">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Aktifkan pemeriksaan keamanan pemutakhiran pengaya">
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Cari">
@@ -57,6 +66,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Matikan">
 <!ENTITY cmd.disableAddon.accesskey           "M">
+<!ENTITY cmd.enableTheme.label                "Gunakan Tema">
+<!ENTITY cmd.enableTheme.accesskey            "G">
+<!ENTITY cmd.disableTheme.label               "Berhenti Menggunakan Tema">
+<!ENTITY cmd.disableTheme.accesskey           "B">
 <!ENTITY cmd.installAddon.label               "Pasang">
 <!ENTITY cmd.installAddon.accesskey           "P">
 <!ENTITY cmd.uninstallAddon.label             "Hapus">
