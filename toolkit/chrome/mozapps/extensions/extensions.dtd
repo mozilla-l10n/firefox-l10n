@@ -65,6 +65,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "I">
 <!ENTITY cmd.disableAddon.label               "Uitschakelen">
 <!ENTITY cmd.disableAddon.accesskey           "U">
+<!ENTITY cmd.enableTheme.label                "Thema dragen">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Stop thema dragen">
+<!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.installAddon.label               "Installeren">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Verwijderen">
