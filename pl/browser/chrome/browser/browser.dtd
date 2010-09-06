@@ -175,6 +175,7 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label		"Dodatki">
 <!ENTITY addons.accesskey		"D">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label "Konsola błędów" >
 <!ENTITY errorConsoleCmd.accesskey "K" >
