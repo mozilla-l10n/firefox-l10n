@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label            "Pindahkan ke Kelompok Tab">
 <!ENTITY  moveToGroup.accesskey        "K">
 <!ENTITY  moveToNewGroup.label         "Kelompok Tab Baru">
-<!ENTITY  bookmarkThisTab.label        "Buat Bookmark untuk Tab Ini">
-<!ENTITY  bookmarkThisTab.accesskey    "k">
 <!ENTITY  bookmarkAllTabs.label        "Buat Bookmark Semua Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey    "S">
 <!ENTITY  undoCloseTab.label           "Batalkan Menutup Tab">
@@ -99,7 +97,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Berlangganan Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Berlangganan Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Buat Bookmark Semua Tab…">
-<!ENTITY organizeBookmarks.label "Kelola Bookmark…">
+<!ENTITY showAllBookmarks.label "Tampilkan Semua Bookmark…">
 <!ENTITY bookmarkAllCmd.label "Buat Bookmark Semua Tab…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan bookmark lainnya">
 
@@ -168,6 +166,7 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Pengaya">
 <!ENTITY addons.accesskey             "P">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Konsol Kesalahan">
 <!ENTITY errorConsoleCmd.accesskey    "K">
