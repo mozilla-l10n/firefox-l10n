@@ -7,10 +7,6 @@
 #define bookmarks_title Էջանիշներ
 #define bookmarks_heading Էջանիշներ
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Բեռնել Էջանիշերի Հավելումներ
-
 #define bookmarks_toolbarfolder Էջանիշերի Վահանակի Ծրար
 #define bookmarks_toolbarfolder_description Ավելացրեք էջանիշերը այս ծրարում որպեսզի դրանք տեսնեք Էջանիշների Վահանակում
 
@@ -41,7 +37,7 @@
 #define firefox_community Ընդգրկվել
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about Մեր Մասին
 
 #unfilter emptyLines

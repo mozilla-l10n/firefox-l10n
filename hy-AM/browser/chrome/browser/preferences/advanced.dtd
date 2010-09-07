@@ -56,6 +56,8 @@
 <!ENTITY useAutoScroll.accesskey         "Օ">
 <!ENTITY useSmoothScrolling.label        "Օգտագործել կոկիկ սահքաթերթումը">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Տեքստ մուտքագրելու ընթացքում ստուգիր ուղղագրությունը">
 <!ENTITY checkSpelling.accesskey         "Տ">
 
@@ -64,6 +66,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "Մ">
 <!ENTITY checkNow.label                  "Հիմա Ստուգել">
 <!ENTITY checkNow.accesskey              "N">
+<!ENTITY submitCrashes.label             "Տեղեկացնել վթարների մասին">
+<!ENTITY submitCrashes.accesskey         "Տ">
 
 <!ENTITY networkTab.label                "Ցանց">
 

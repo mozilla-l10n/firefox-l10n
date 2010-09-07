@@ -85,5 +85,3 @@
 <!ENTITY  clickFinish.label               "Սեղմիր Ավարտել որպեսզի շարունակվի &brandShortName;-ի մեկնարկը:">
 <!ENTITY  clickFinish.labelMac            "Սեղմիր Կատարված որպեսզի շարունակվի &brandShortName;-ի մեկնարկը:">
 <!ENTITY  enableChecking.label            "Թույլ տալ &brandShortName;-ին փնտրել նոր թարմացումներ:">
-<!ENTITY  details.label                   "Դետալներ...">
-<!ENTITY  details.accesskey               "D">

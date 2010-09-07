@@ -49,20 +49,22 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Օգնություն"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutCmd.label           "&brandFullName;-ի մասին">
-<!ENTITY aboutCmd.accesskey       "b">
+<!ENTITY aboutProduct.label       "&brandShortName;-ի մասին">
+<!ENTITY aboutProduct.accesskey   "a">
 <!ENTITY productHelp.label        "&brandShortName; Օգնություն">
 <!ENTITY productHelp.accesskey    "h">
 <!ENTITY helpForIEUsers.label     "Internet Explorer Օգտագործողների համար">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "Թողարկման Նշումներ">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
-<!ENTITY helpTroubleshooting.label      "Դիագնոստիկական տեղեկություն…">
-<!ENTITY helpTroubleshooting.accesskey  "Դ">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY updateCmd.label                "Ստուգել Թարմացումներ…">
 

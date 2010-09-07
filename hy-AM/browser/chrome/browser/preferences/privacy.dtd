@@ -64,7 +64,7 @@
 <!ENTITY  askEachTime.label             "հարցնել ամեն անգամ">
 
 <!ENTITY  cookieExceptions.label        "Բացառություններ…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.accesskey    "e">
 
 <!ENTITY  showCookies.label             "Ցուցադրել քուկիները…">
 <!ENTITY  showCookies.accesskey         "Ց">
@@ -96,18 +96,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "մաքրել ողջ ընթացիկ պատմությունը">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Ինքնաբերաբար մեկնարկել &brandShortName;ը գաղտնի նավարկման ռեժիմում">
-<!ENTITY  privateBrowsingAutoStart.accesskey "a">
+<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Հիշել իմ նավարկման պատմությունը առնվազն">
-<!ENTITY  rememberHistory.pre.accesskey  "Հ">
-<!ENTITY  rememberHistory.post.label     "օրեր">
+<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Հիշել բեռնումների պատմությունը">
 <!ENTITY  rememberDownload.accesskey     "Հ">

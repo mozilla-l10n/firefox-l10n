@@ -39,9 +39,6 @@
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY  updateWizard.title              "Ծրագրի Թարմացում">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Ստուգում եմ Թարմացումները">
 <!ENTITY  updateCheck.label               "Փնտրվում է &brandShortName;ի նոր տարբերակ…">
 
@@ -76,7 +73,7 @@
 
 <!ENTITY  incompatibleList.title          "Գտնվել են անհամատեղելի հավելումներ">
 
-<!ENTITY  downloading.title               "Թարմացումների բեռնում">
+<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 <!ENTITY  downloading.intro               "Բեռնավորում է թարմացումը…">
 <!ENTITY  connecting.label                "Միանում եմ թարմացման սպասարկչին…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; չկարողացավ հավաստել բեռնավորված ըստ աճման թարմացման 
@@ -87,15 +84,21 @@
 
 <!ENTITY  details.link                    "Մանրամասներ">
 
+<!ENTITY  error.title                     "Update Failed">
+
 <!ENTITY  error.label                     "Խնդիրներ առաջացան այս թարմացուման առկայությունը ստուգելիս, այն 
 	բեռնավորելիս կամ տեղադրելիս: &brandShortName;-ն անհնար է 
   	թարմացնել, որովհետև. ">
                                            
 <!ENTITY  errorManual.label               "Դուք կարող եք &brandShortName;-ը ինքնուրույն թարմացնել եթե այցելեք այս հղումը և բեռնավորեք առկա ամենաթարմ տարբերակը.">
                                            
-<!ENTITY  errorpatching.title             "Թարմացումը Խափանվեց">
 <!ENTITY  errorpatching.intro             "Անհնար է կիրառել մասնակի Թարմացումը:
 	&brandShortName;-ն այժմ կփորձի բեռնավորել ամբողջական Թարմացումը:">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Something is preventing &brandShortName; from updating securely.
+                                           Please check you have the latest version of &brandShortName; at:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
+                                           insecure update. Please contact your network provider and seek help.">
 
 <!ENTITY  finishedPage.title              "Թարմացումը Պատրաստ է Տեղադրման">
 <!ENTITY  finishedPage.text               "Հավելումը կտեղակայվի &brandShortName;ի հաջորդ մեկնարկի ժամանակ: Դուք                                            կարող էք վերսկսել &brandShortName;ի աշխատանքը հիմա կամ շարունակել աշխատանքը և վերսկսել հետո:">

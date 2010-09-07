@@ -37,24 +37,5 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY  untitledTab            "(Անանուն)">
-<!ENTITY  newTab.label           "Նոր Սյուն">
-<!ENTITY  newTab.accesskey       "N">
 <!ENTITY  closeTab.label         "Փակել Էջը">
-<!ENTITY  closeTab.accesskey         "Փ">
-<!ENTITY  closeOtherTabs.accesskey  "Փ">
-<!ENTITY  closeOtherTabs.label   "Փակել Մնացաց Էջերը">
-<!ENTITY  reloadAllTabs.label    "Վերբեռնել Բոլոր Էջերը">
-<!ENTITY  reloadAllTabs.accesskey         "Վ">
-<!ENTITY  reloadTab.label        "Վերբեռնել Էջը">
-<!ENTITY  reloadTab.accesskey         "Վ">
-<!ENTITY  openTabInNewWindow.label    "Բացել նոր պատուհանում">
-<!ENTITY  openTabInNewWindow.accesskey "Բ">
-<!ENTITY  listAllTabs.label      "Ցուցադրել բոլոր էջերը">
-<!ENTITY  bookmarkAllTabs.label       "Էջանշել Բոլոր Սյուները...">
-<!ENTITY  bookmarkAllTabs.accesskey   "T">
-<!ENTITY  bookmarkThisTab.label       "Էջանշել Այս Էջը">
-<!ENTITY  bookmarkThisTab.accesskey   "Է">
-<!ENTITY  undoCloseTab.label          "Հետ գալ Փակել Էջը">
-<!ENTITY  undoCloseTab.accesskey      "Հ">
 <!ENTITY  newTabButton.tooltip        "Նոր ներդիր բացել">

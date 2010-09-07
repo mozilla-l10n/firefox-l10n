@@ -46,7 +46,5 @@
 <!ENTITY aboutVersion               "տարբերակ">
 <!ENTITY closeCmdGNOME.label        "Փակել">  
 <!ENTITY closeCmdGNOME.accesskey    "c">
-<!ENTITY copyrightInfo1             "&#169;1998-2010 Բոլոր իրավունքները պաշտպանված են։ (">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Լիցենզավորման տեղեկություն">
-<!ENTITY copyrightInfo2             "):">
+<!ENTITY licenseLinkSuffix          ".">
