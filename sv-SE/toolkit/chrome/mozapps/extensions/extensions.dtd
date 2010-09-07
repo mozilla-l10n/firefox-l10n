@@ -65,6 +65,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Inaktivera">
 <!ENTITY cmd.disableAddon.accesskey           "k">
+<!ENTITY cmd.enableTheme.label                "Använd tema">
+<!ENTITY cmd.enableTheme.accesskey            "ä">
+<!ENTITY cmd.disableTheme.label               "Sluta använd tema">
+<!ENTITY cmd.disableTheme.accesskey           "ä">
 <!ENTITY cmd.installAddon.label               "Installera">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Ta bort">
