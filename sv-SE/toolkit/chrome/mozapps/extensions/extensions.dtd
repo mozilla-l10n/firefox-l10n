@@ -13,6 +13,15 @@
 <!ENTITY cmd.back.tooltip                     "Gå bakåt en sida">
 <!ENTITY cmd.forward.tooltip                  "Gå framåt en sida">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Alla tillägg är inaktiverade i felsäkert läge.">
+<!ENTITY warning.checkcompatibility.label          "Kompatibilitetskontroll av tillägg är inaktiverat. Du kan ha inkompatibla tillägg.">
+<!ENTITY warning.checkcompatibility.enable.label   "Aktivera">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Aktiverar kompatibilitetskontroll av tillägg">
+<!ENTITY warning.updatesecurity.label              "Säkerhetskontroll av tilläggsuppdateringar är inaktiverat. Du är sårbar för skadliga uppdateringar.">
+<!ENTITY warning.updatesecurity.enable.label       "Aktivera">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Aktiverar säkerhetskontroll av tilläggsuppdateringar">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Sök">
 <!ENTITY view.discover.label                  "Hämta tillägg">
