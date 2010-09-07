@@ -1,0 +1,341 @@
+<!-- ******* BEGIN LICENSE BLOCK **********
+    Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   
+    The contents of this file are subject to the Mozilla Public License Version
+    1.1 (the "License"); you may not use this file except in compliance with
+    the License. You may obtain a copy of the License at
+    http://www.mozilla.org/MPL/
+   
+    Software distributed under the License is distributed on an "AS IS" basis,
+    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+    for the specific language governing rights and limitations under the
+    License.
+   
+    The Original Code is Mozilla Progress Dialog.
+   
+    The Initial Developer of the Original Code is
+    Netscape Communications Corp.
+    Portions created by the Initial Developer are Copyright (C) 2002
+    the Initial Developer. All Rights Reserved.
+   
+    Contributor(s):
+      Vahe Khachikyan                         <vahe@khachikyan.de>
+      Nerses Aznauryan (Hayeren.am Team)      <aznauryan@gmail.com> 
+      Robert Sargsyan                         <robyerevan@gmail.com>
+      Armen Zambrano Gasparnian               <armenzg@gmail.com>
+   
+    Alternatively, the contents of this file may be used under the terms of
+    either the GNU General Public License Version 2 or later (the "GPL"), or
+    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+    in which case the provisions of the GPL or the LGPL are applicable instead
+    of those above. If you wish to allow use of your version of this file only
+    under the terms of either the GPL or the LGPL, and not to allow others to
+    use your version of this file under the terms of the MPL, indicate your
+    decision by deleting the provisions above and replace them with the notice
+    and other provisions required by the LGPL or the GPL. If you do not delete
+    the provisions above, a recipient may use your version of this file under
+    the terms of any one of the MPL, the GPL or the LGPL.
+
+******* END LICENSE BLOCK ********** -->
+<!ENTITY addons.title                     "Հավելումներ">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "630">
+<!ENTITY em.height                        "400">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "Ձեռք բերել հավելումներ">
+<!ENTITY extensions.label                 "Ընդարձակումներ">
+<!ENTITY themes.label                     "Թեմաներ">
+<!ENTITY locales.label                    "Լեզուներ">
+<!ENTITY plugins.label                    "Պլագիններ">
+<!ENTITY update.label                     "Թարմացումներ">
+<!ENTITY install.label                    "Տեղակայումներ">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "Գտնել թարմացումներ">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "Գ">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Փնտրել թարմացումները ձեր հավելումների համար">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Փնտրել թարմացումները ձեր թեմաների համար">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Փտնել պլագինների թարմացում">
+<!ENTITY cmd.installLocalFile.label       "Տեղադրել...">
+<!ENTITY cmd.installLocalFile.accesskey   "Տ">
+<!ENTITY cmd.installFileAddon.tooltip     "Տեղադրել Հավելում">
+<!ENTITY cmd.installFileTheme.tooltip     "Տեղադրել Թեմա">
+<!ENTITY cmd.installUpdatesAll2.label     "Տեղադրել Թարմացումներ">
+<!ENTITY cmd.installUpdatesAll2.accesskey "i">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Տեղադրել նշված թարմացումները">
+<!ENTITY cmd.restartApp2.label            "Վերսկսել &brandShortName; -ը">
+<!ENTITY cmd.restartApp2.accesskey        "r">
+<!ENTITY cmd.restartApp2.tooltip          "Փոփխությունները կիրառելու համար Վերսկսել &brandShortName; -ը">
+<!ENTITY cmd.skip.label                   "Անցնել">
+<!ENTITY cmd.skip.accesskey               "Ա">
+<!ENTITY cmd.skip.tooltip                 "Շրջանցել հետևյալ թարմացումները">
+<!ENTITY cmd.continue.label               "Շարունակել">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.continue.tooltip             "Շարունակել &brandShortName; -ի բեռնումը">
+
+<!ENTITY cmd.enableAll.label              "Ակտիվացնել բոլորը">
+<!ENTITY cmd.enableAll.accesskey          "Ա">
+<!ENTITY cmd.enableAll.tooltip            "Միացնել բերված բոլոր Հավելումները">
+<!ENTITY cmd.disableAll.label             "Անջատել Բոլորը">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "Անջատել ցուցադրված բոլոր Հավելումները">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "Օգտագործել ձևավորումը">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "Փոխում է &brandShortName;­ի ձևավորումը">
+<!ENTITY cmd.options.label                "Հատկանիշներ">
+<!ENTITY cmd.options.accesskey            "O">
+<!ENTITY cmd.options.tooltip              "Զետեղել ընտրված հավելումների հատկանիշները">
+<!ENTITY cmd.optionsUnix.label            "Նախըտրանքներ">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "Խմբագրել Ընտրված Հավելման Հատկանիշները">
+<!ENTITY cmd.enable.label                 "Միացնել">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "Միացնել այս հավելումը &brandShortName; -ը վերսկսելուց հետո">
+<!ENTITY cmd.disable.label                "Անջատել">
+<!ENTITY cmd.disable.accesskey            "D">
+<!ENTITY cmd.disable.tooltip              "Անջատել այս հավելումը &brandShortName; -ը վերսկսելուց հետո">
+<!ENTITY cmd.uninstall.label              "Հեռացնել">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "Ջնջել այս հավելումը &brandShortName; -ը վերսկսելուց հետո">
+<!ENTITY cmd.cancelUninstall.label        "Ընդհատել Ջնջումը">
+<!ENTITY cmd.cancelUninstall.accesskey    "Ը">
+<!ENTITY cmd.cancelUninstall.tooltip      "Ընդհատել այս հավելման ջնջումը">
+<!ENTITY cmd.cancelInstall.label          "Ընդհատել Տեղակայումը">
+<!ENTITY cmd.cancelInstall.accesskey      "Ը">
+<!ENTITY cmd.cancelInstall.tooltip        "Ընդհատել այս հավելման տեղակայումը">
+<!ENTITY cmd.cancelUpgrade.label          "Ընդհատել Թարմացումը">
+<!ENTITY cmd.cancelUpgrade.accesskey      "Ը">
+<!ENTITY cmd.cancelUpgrade.tooltip        "Ընդհատել այս հավելման թարմացումը">
+<!ENTITY cmd.installUpdate.label          "Տեղակայել Թարմացումը">
+<!ENTITY cmd.installUpdate.accesskey      "Տ">
+<!ENTITY cmd.installUpdate.tooltip        "Տեղակայել այս Հավելման թարմացումը">
+<!ENTITY cmd.showUpdateInfo.label         "Ցուցադրել Ինֆորմացիան">
+<!ENTITY cmd.showUpdateInfo.accesskey     "Ց">
+<!ENTITY cmd.showUpdateInfo.tooltip       "Ցույց տալ մանրամասն տեղեկություն այս թարմացումների վերաբերյալ">
+<!ENTITY cmd.hideUpdateInfo.label         "Թաքցնել Տեղեկությունը">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "Թ">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "Թաքցնել այս թարմացումների մասին տեղեկությունը">
+<!ENTITY cmd.installSearchResult.label     "Ավելացնել &brandShortName;-ում...">
+<!ENTITY cmd.installSearchResult.accesskey "a">
+<!ENTITY cmd.installSearchResult.tooltip   "Բեռնել և տեղադրել այս հավելումը">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "Չեղարկել">
+<!ENTITY cancel.accesskey                 "C">
+<!ENTITY cancelInstall.label              "Չեղարկել">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "Չեղարկել">
+<!ENTITY cancelUpgrade.accesskey          "C">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "Այցելել Տնային Էջը">
+<!ENTITY cmd.homepage.accesskey           "H">
+<!ENTITY cmd.about2.label                 "Այս հավելման մասին">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "Գտնել թարմացում">
+<!ENTITY cmd.checkUpdate.accesskey        "Գ">
+
+<!ENTITY cmd.includeUpdate.label          "Ներառել թարմացումները">
+<!ENTITY cmd.includeUpdate.accesskey      "Ն">
+<!ENTITY includeUpdate.label              "Ներառել այս հավելումը">
+<!ENTITY includeUpdate.accesskey          "Ն">
+<!ENTITY includeUpdate.tooltip            "Թարմացումների տեղադրման ժամանակ ներառել այս հավելումը">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "Չի ապահովում անվտանգ թարմացումներ:">
+<!ENTITY needsDependencies.label          "Պահանջում է հավելային բաղադրիչներ:">
+<!ENTITY blocklisted.label                "Անջատված է ձեր անվտանգության համար:">
+<!ENTITY softBlocklisted.label            "Հայտնի է անվտանգության և կայունության խնդիրներ առաջացնելով:">
+<!ENTITY outdated.label                   "Հասանելի է ավելի նոր, անվտանգ տարբերակը:">
+<!ENTITY toBeDisabled.label               "Այս հավելումը կանջատվի &brandShortName;-ի վերսկսումից հետո:">
+<!ENTITY toBeEnabled.label                "Այս հավելումը կակտիվանա &brandShortName;-ի վերսկսումից հետո:">
+<!ENTITY toBeInstalled.label              "Այս հավելումը կտեղակայվի &brandShortName;ի հաջորդ մեկնարկման ժամանակ:">
+<!ENTITY toBeUninstalled.label            "Այս հավելումը կջնջվի երբ &brandShortName;-ը վերսկսի աշխատանքը:">
+<!ENTITY toBeUpdated.label                "Այս հավելումը կթարմացվի երբ &brandShortName;-ը վերսկսի աշխատանքը:">
+
+<!ENTITY getExtensions.label              "Բեռնել ընդլայնում">
+<!ENTITY getThemes.label                  "Բեռնել թեմաներ">
+<!ENTITY getPlugins.label                 "Բեռնել պլագիններ">
+
+<!ENTITY searchAddons.label               "Փնտրել բոլոր հավելումներում">
+<!ENTITY browseAddons.label               "Դիտարկել բոլոր հավելուները">
+<!ENTITY searchFailed.label               "&brandShortName;-ը չկարողացավ գտնել հավելումներ">
+<!ENTITY recommendedHeader.label          "Ռեկոմենդացված">
+<!ENTITY recommendedThrobber.label        "Ստանում է խորհուրդ տրված հավելումները">
+<!ENTITY searchThrobber.label             "Հավելումների որոնում">
+<!ENTITY resetSearch.label                "Մաքրել արդյունքները">
+<!ENTITY noSearchResults.label            "Բոլոր գտնված հավելումները արդեն զետեղված են կամ անհամատեղելի են:">
+<!ENTITY noRecommendedResults.label       "Բոլոր ռեկոմենդացիաները արդեն տեղադրված են կամ անհամատեղելի են:">
+<!ENTITY emptySearch.label                "Չկան համապատասխան հավելումներ">
+<!ENTITY emptySearch.button               "Այո՛">
+<!ENTITY cancelSearch.button              "Չեղարկել">
+<!ENTITY searchFailed.button              "Այո՛">
+<!ENTITY searchResultHomepage.value       "Իմանալ ավելին">
+<!ENTITY searchBox.label                  "Փնտրել բոլոր հավելումներում">
+<!ENTITY recommendedResults.label         "Դիտել բոլոր ռեկեմենդացիաները">
+<!ENTITY searchResultConnecting.label     "Կապի հաստատում…">
+<!ENTITY searchResultInstalling.label     "Տեղակայում ...">
+<!ENTITY searchResultFailed.label         "Տեղակայումը Չստացվեց">
+<!ENTITY searchResultInstalled.label      "Տեղադրումն ավարտվեց">
+<!ENTITY addonTypeExtension.label         "Ընդարձակումներ">
+<!ENTITY addonTypeTheme.label             "Թեմա">
+<!ENTITY missingThumbnail.label           "Չկա նախնական դիտում">
+
+<!ENTITY previewNoThemeSelected.label     "Ոչ մի ձեվավորում ընտրված չե">
+<!ENTITY previewNoPreviewImage.label      "Այս ձեվավորումը ցուցադրական էջ չունի">
+<!ENTITY moreInfo.label                   "Ավելի շատ տեղեկություն">
+<!ENTITY infoNoAddonSelected.label        "Թարմացում չի նշվել">
+<!ENTITY infoNoUpdateInfo.label           "Այս հավելումը չունի հավելյալ տեղեկություն">
+<!ENTITY infoUpdateInfoError.label        "Այս թարմացման մասին տեղեկություն բեռնելիս տեղի ունեցավ վթար">
+
+<!ENTITY updateSuccess.label              "Թարմացումը բարեհաջող ավարտվեց">
+<!ENTITY installSuccess.label             "Տեղակայումը բարեհաջող ավարտված է:">
+<!ENTITY installSuccessRestart.label      "Տեղակայումն ավարտելու համար անհրաժեշտ է վերամեկնարկել:">
+<!ENTITY updateSuccessRestart.label       "Թարմացումն ավարտելու համար պետք է վերամեկնարկել:">
+<!ENTITY installWaiting.label             "Պատրաստվում է տեղակայման ...">
+<!ENTITY installIncompatibleUpdate.label  "Ստուգվում է համատեղելիությունը…">
+<!ENTITY installFinishing.label           "Տեղակայում...">
+<!ENTITY installFailure.label             "Տեղակայումը չհաջողվեց:">
+
+<!ENTITY progressStatus.label             "Ստուգվում է թարմացման առկայությունը">
+
+<!ENTITY eula.title                       "Վերջին օգտագործողի լիցենզիոն համաձայնագիր">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "Ընդունել և տեղակայել">
+
+<!ENTITY blocklist.blocked.label          "Արգելված է">
+<!ENTITY blocklist.checkbox.label         "Անջատել">
+<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
+
+<!ENTITY addon.createdBy.label                "By ">
+<!ENTITY addon.details.label                  "More">
+<!ENTITY addon.details.tooltip                "Show more details about this add-on">
+<!ENTITY addon.disabled.postfix               "(disabled)">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+
+<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
+<!ENTITY addon.releaseNotes.label             "Release Notes:">
+<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.undo.label                     "Undo?">
+<!ENTITY addon.undo.tooltip                   "Undo this action">
+<!ENTITY addon.undoUninstall.label            "Undo?">
+<!ENTITY addon.undoUninstall.tooltip          "Keep this add-on installed">
+<!ENTITY addon.unknownDate                    "Unknown">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Update">
+<!ENTITY addon.updateNow.label                "Update Now">
+<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
+<!ENTITY addons.windowTitle                   "Add-ons Manager">
+<!ENTITY cmd.about.label                      "About">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.label                 "Contribute">
+<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.disableAddon.label               "Disable">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+
+<!ENTITY cmd.enableAddon.label                "Enable">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.findUpdates.label                "Find updates">
+<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
+<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.preferences.label                "Preferences">
+<!ENTITY cmd.showDetails.accesskey            "S">
+
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Show more information">
+<!ENTITY cmd.showPreferences.label            "Preferences">
+<!ENTITY cmd.showPreferences.tooltip          "Change this add-on's preferences">
+
+<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.uninstallAddon.label             "Remove">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.label         "Check for updates">
+<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.creator.label                 "Developer">
+<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.numberOfDownloads.label       "Downloads">
+<!ENTITY detail.showPreferences.accesskey     "P">
+<!ENTITY detail.showPreferences.label         "Preferences">
+<!ENTITY detail.showPreferences.tooltip       "Change this add-on's preferences">
+<!ENTITY detail.updateAutomatically.accesskey "U">
+
+<!ENTITY detail.updateAutomatically.label     "Update automatically">
+<!ENTITY detail.updateAutomatically.tooltip   "Update this add-on automatically whenever there is an update available">
+<!ENTITY detail.updated.label                 "Updated">
+
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Version">
+<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installFromFile.label                "Install from file…">
+<!ENTITY listEmpty.availableUpdates.label     "No updates found">
+<!ENTITY listEmpty.button.label               "Learn more about add-ons">
+<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
+<!ENTITY loading.label                        "Loading…">
+<!ENTITY progress.cancel.tooltip              "Cancel">
+
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Pause">
+
+
+<!-- ratings -->
+<!ENTITY rating.label                         "Rating:">
+<!ENTITY search.filter2.available.label       "Available Add-ons">
+<!ENTITY search.filter2.available.tooltip     "Show add-ons available to install">
+<!ENTITY search.filter2.installed.label       "My Add-ons">
+<!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
+
+<!ENTITY search.filter2.label                 "Search:">
+<!ENTITY search.placeholder                   "Search all add-ons">
+<!ENTITY sort.dateUpdated.label               "Last Updated">
+<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
+
+
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Name">
+<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.rating.label                    "Rating">
+<!ENTITY sort.rating.tooltip                  "Sort by average rating">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
+<!ENTITY updates.backgroudUpdateCheck.label   "Check for Updates Automatically">
+<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
+<!ENTITY updates.installed.label              "Your add-ons have been updated.">
+<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
+<!ENTITY updates.noneFound.label              "No updates found">
+<!ENTITY updates.restart.label                "Restart now to complete installation">
+<!ENTITY updates.updateAddonsNow.accesskey    "U">
+
+<!-- addon updates -->
+<!ENTITY updates.updateAddonsNow.label        "Update Add-ons Now">
+<!ENTITY updates.updating.label               "Updating add-ons">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.viewUpdates.label            "View Recent Updates">
+<!ENTITY view.appearance.label                "Themes">
+<!ENTITY view.availableUpdates.label          "Available Updates">
+<!ENTITY view.discover.label                  "Get Add-ons">
+<!ENTITY view.features.label                  "Extensions">
+<!ENTITY view.locales.label                   "Languages">
+<!ENTITY view.plugins.label                   "Plugins">
+<!ENTITY view.recentUpdates.label             "Recent Updates">
+
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "Search">
+<!ENTITY view.searchengines.label             "Search Engines">
