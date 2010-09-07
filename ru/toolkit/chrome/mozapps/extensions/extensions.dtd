@@ -11,6 +11,13 @@
 <!ENTITY installFromFile.accesskey "с">
 <!ENTITY cmd.back.tooltip "На предыдущую страницу">
 <!ENTITY cmd.forward.tooltip "На следующую страницу">
+<!ENTITY warning.safemode.label "В безопасном режиме все дополнения были отключены.">
+<!ENTITY warning.checkcompatibility.label "Проверка совместимости дополнений отключена. У вас могут иметься несовместимые дополнения.">
+<!ENTITY warning.checkcompatibility.enable.label "Включить">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Включить проверку совместимости дополнений">
+<!ENTITY warning.updatesecurity.label "Проверка безопасного обновления дополнений отключена. Обновления могут поставить вас под угрозу.">
+<!ENTITY warning.updatesecurity.enable.label "Включить">
+<!ENTITY warning.updatesecurity.enable.tooltip "Включить проверку безопасного обновления дополнений">
 <!ENTITY view.search.label "Поиск">
 <!ENTITY view.discover.label "Получить дополнения">
 <!ENTITY view.locales.label "Языки">
@@ -48,6 +55,10 @@
 <!ENTITY cmd.enableAddon.accesskey "ч">
 <!ENTITY cmd.disableAddon.label "Отключить">
 <!ENTITY cmd.disableAddon.accesskey "т">
+<!ENTITY cmd.enableTheme.label "Использовать тему">
+<!ENTITY cmd.enableTheme.accesskey "с">
+<!ENTITY cmd.disableTheme.label "Больше не использовать тему">
+<!ENTITY cmd.disableTheme.accesskey "с">
 <!ENTITY cmd.installAddon.label "Установить">
 <!ENTITY cmd.installAddon.accesskey "с">
 <!ENTITY cmd.uninstallAddon.label "Удалить">
