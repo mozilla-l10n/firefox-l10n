@@ -47,7 +47,7 @@
 <!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "Indstillinger">
 <!ENTITY cmd.preferencesWin.accesskey         "I">
-<!ENTITY cmd.preferencesUnix.label            "Preferencer">
+<!ENTITY cmd.preferencesUnix.label            "Præferencer">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "Om">
 <!ENTITY cmd.about.accesskey                  "O">
@@ -122,7 +122,7 @@
 <!ENTITY search.filter2.installed.label       "Mine tilføjelser">
 <!ENTITY search.filter2.installed.tooltip     "Vis installerede tilføjelser">
 <!ENTITY search.filter2.available.label       "Tilgængelige tilføjelser">
-<!ENTITY search.filter2.available.tooltip     "Vis tilføjelser tilgængelige for installation">
+<!ENTITY search.filter2.available.tooltip     "Vis tilgængelige tilføjelser">
 
 <!ENTITY addon.homepage                       "Hjemmeside">
 <!ENTITY addon.details.label                  "Mere">
