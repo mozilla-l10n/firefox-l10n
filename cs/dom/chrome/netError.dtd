@@ -81,7 +81,7 @@
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Zablokováno dle bezpečnostních pravidel stránky">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Aplikace &brandShortName; zabránila této stránce v nahrání, neboť tato stránka má bezpečnostní pravidla, která tento způsob užití zakazují.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Aplikace zabránila této stránce v nahrání, neboť tato stránka má bezpečnostní pravidla, která tento způsob užití zakazují.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
