@@ -43,6 +43,15 @@
 <!ENTITY cmd.back.tooltip                     "Vienu tinklalapiu atgal">
 <!ENTITY cmd.forward.tooltip                  "Vienu tinklalapiu pirmyn">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Ribotojoje veiksenoje visi priedai išjungti.">
+<!ENTITY warning.checkcompatibility.label          "Priedų suderinamumas netikrinamas. Gali būti, kad turite nesuderinamų priedų.">
+<!ENTITY warning.checkcompatibility.enable.label   "Tikrinti">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Įjungti priedų suderinamumo tikrinimą">
+<!ENTITY warning.updatesecurity.label              "Priedų naujinimų saugumas netikrinamas. Priedų naujinimai gali pakenkti Jūsų saugumui.">
+<!ENTITY warning.updatesecurity.enable.label       "Tikrinti">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Įjungti priedų naujinimų saugumo tikrinimą">
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Paieška">
@@ -87,6 +96,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "u">
 <!ENTITY cmd.disableAddon.label               "Išjungti">
 <!ENTITY cmd.disableAddon.accesskey           "u">
+<!ENTITY cmd.enableTheme.label                "Naudoti apvalkalą">
+<!ENTITY cmd.enableTheme.accesskey            "N">
+<!ENTITY cmd.disableTheme.label               "Nebenaudoti apvalkalo">
+<!ENTITY cmd.disableTheme.accesskey           "N">
 <!ENTITY cmd.installAddon.label               "Įdiegti">
 <!ENTITY cmd.installAddon.accesskey           "d">
 <!ENTITY cmd.uninstallAddon.label             "Pašalinti">
