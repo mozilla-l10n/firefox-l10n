@@ -12,7 +12,7 @@
 <!ENTITY cmd.back.tooltip "На предыдущую страницу">
 <!ENTITY cmd.forward.tooltip "На следующую страницу">
 <!ENTITY warning.safemode.label "В безопасном режиме все дополнения отключены.">
-<!ENTITY warning.checkcompatibility.label "Проверка совместимости дополнений отключена. Вы можете иметь несовместимые дополнения.">
+<!ENTITY warning.checkcompatibility.label "Проверка совместимости дополнений отключена. У вас могут иметься несовместимые дополнения.">
 <!ENTITY warning.checkcompatibility.enable.label "Включить">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Включить проверку совместимости дополнений">
 <!ENTITY warning.updatesecurity.label "Проверка безопасного обновления дополнений отключена. Обновления могут поставить вас под угрозу.">
