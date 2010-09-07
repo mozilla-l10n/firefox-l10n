@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Indstil &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "I">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lader dig få adgang til din historik, bogmærker, adgangskoder og åbne faneblade fra alle dine enheder.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Konto">
+<!ENTITY currentUser.label            "Nuværende bruger:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Opdater">
+<!ENTITY resetPass.label              "Ryd">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Håndter konto">
+<!ENTITY manageAccount.accesskey      "H">
+<!ENTITY changePassword.label         "Ændr adgangskode">
+<!ENTITY changePassphrase.label       "Ændr hemmelig sætning">
+<!ENTITY resetSync.label              "Nulstil Sync">
+<!ENTITY differentAccount.label       "Brug en anden konto">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncComputerName.label       "Computernavn:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; vil: ">
+<!ENTITY syncModeSwitchDesc.accesskey "v">
+<!ENTITY syncEverything.label         "synkronisere alt">
+<!ENTITY customSync.label             "bruge mine tilpassede indstillinger">
+<!ENTITY syncEverythingDescription.label  "Dine bogmærker, historik, adgangskoder, præferencer og faneblade vil blive synkroniseret.">
+<!ENTITY syncItem.bookmarks.label     "Synkroniser bogmærker">
+<!ENTITY syncItem.bookmarks.accesskey "b">
+<!ENTITY syncItem.tabs.label          "Synkroniser faneblade">
+<!ENTITY syncItem.tabs.accesskey      "f">
+<!ENTITY syncItem.history.label       "Synkroniser historik">
+<!ENTITY syncItem.history.accesskey   "h">
+<!ENTITY syncItem.passwords.label     "Synkroniser adgangskoder">
+<!ENTITY syncItem.passwords.accesskey "a">
+<!ENTITY syncItem.prefs.label         "Synkroniser præferencer">
+<!ENTITY syncItem.prefs.accesskey     "p">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Tjenestevilkår">
+<!ENTITY prefs.ppLink.label         "Privatlivspolitik">
