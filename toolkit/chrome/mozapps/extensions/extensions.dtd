@@ -13,6 +13,16 @@
 <!ENTITY cmd.back.tooltip                     "Vés enrere una pàgina">
 <!ENTITY cmd.forward.tooltip                  "Vés endavant una pàgina">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "El mode segur ha inhabilitat tots els complements.">
+<!ENTITY warning.checkcompatibility.label          "La comprovació de compabilitat dels complements no està habilitada. Pot ser que tingueu complements incompatibles.">
+<!ENTITY warning.checkcompatibility.enable.label   "Habilita">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Habilita la comprovació de compatibilitat dels complements">
+<!ENTITY warning.updatesecurity.label              "La comprovació de seguretat dels complements no està habilitada. Les actualitzacions podrien posar-vos en risc.">
+<!ENTITY warning.updatesecurity.enable.label       "Habilita">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Habilita la comprovació de seguretat dels complements">
+
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Cerca">
@@ -57,6 +67,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Inhabilita">
 <!ENTITY cmd.disableAddon.accesskey           "n">
+<!ENTITY cmd.enableTheme.label                "Emprova't el tema">
+<!ENTITY cmd.enableTheme.accesskey            "v">
+<!ENTITY cmd.disableTheme.label               "Deixa el tema">
+<!ENTITY cmd.disableTheme.accesskey           "x">
 <!ENTITY cmd.installAddon.label               "Instal·la">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Suprimeix">
