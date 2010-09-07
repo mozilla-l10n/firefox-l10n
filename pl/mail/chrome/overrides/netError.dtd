@@ -4,7 +4,6 @@
 <!ENTITY loadError.label   "Błąd wczytywania strony">
 <!ENTITY retry.label       "Spróbuj ponownie">
 
-<!-- Specific error messages -->
 <!ENTITY connectionFailure.title    "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title     "Ten adres jest zastrzeżony">
@@ -151,9 +150,9 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "Zabierz mnie stąd">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj wyjątek…">
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>Nie powinno się dodawać wyjątku w przypadku korzystania z niezaufanego połączenia z Internetem, ani jeśli zwykle takie ostrzeżenie nie pojawia się podczas korzystania z tego serwera.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
