@@ -37,6 +37,9 @@
 <!ENTITY editContactEmail.label "El. paštas:">
 <!ENTITY editContactEmail.accesskey "p">
 
+<!ENTITY editContactAddressBook.label "Adresų knyga:">
+<!ENTITY editContactAddressBook.accesskey "k">
+
 <!ENTITY editContactPanelCancel.label "Atsisakyti">
 <!ENTITY editContactPanelCancel.accesskey "A">
 
