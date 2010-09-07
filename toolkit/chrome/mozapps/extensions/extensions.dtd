@@ -13,6 +13,15 @@
 <!ENTITY cmd.back.tooltip                     "Gå en side tilbage">
 <!ENTITY cmd.forward.tooltip                  "Gå en side frem">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Alle tilføjelser er blevet deaktiveret i fejlsikker tilstand.">
+<!ENTITY warning.checkcompatibility.label          "Kompatibilitetstjek for tilføjelser er deaktiverert. Du kan have inkompatible tilføjelser.">
+<!ENTITY warning.checkcompatibility.enable.label   "Aktiver">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Aktiver kompatibilitetstjek for tilføjelser">
+<!ENTITY warning.updatesecurity.label              "Sikkerheddstjek ved opdatering af tilføjelser er deaktiveret. Du kan blive kompromiteret ved opdateringer.">
+<!ENTITY warning.updatesecurity.enable.label       "Aktiver">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Aktiver sikkerhedstjek ved opdatering af tilføjelser">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Søg">
 <!ENTITY view.discover.label                  "Find tilføjelser">
@@ -56,6 +65,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Deaktiver">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Brug tema">
+<!ENTITY cmd.enableTheme.accesskey            "t">
+<!ENTITY cmd.disableTheme.label               "Stop brug af tema">
+<!ENTITY cmd.disableTheme.accesskey           "t">
 <!ENTITY cmd.installAddon.label               "Installer">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Fjern">
