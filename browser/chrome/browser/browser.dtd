@@ -97,7 +97,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odebírat kanál této stránky…">
 <!ENTITY addCurPagesCmd.label "Přidat všechny panely do záložek…">
-<!ENTITY organizeBookmarks.label "Knihovna stránek…">
+<!ENTITY showAllBookmarks.label "Zobrazit všechny záložky…">
 <!ENTITY bookmarkAllCmd.label "Přidat všechny panely do záložek…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobrazí více záložek">
 

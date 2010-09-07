@@ -13,6 +13,15 @@
 <!ENTITY cmd.back.tooltip "Přejde jednu stránku zpět">
 <!ENTITY cmd.forward.tooltip "Přejde jednu stránku vpřed">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label "V nouzovém režimu jsou všechny doplňky zakázány.">
+<!ENTITY warning.checkcompatibility.label "Kontrola kompatibility doplňků je zakázána. Aplikace může obsahovat nekompatibilní doplňky.">
+<!ENTITY warning.checkcompatibility.enable.label "Povolit">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Povolí kontrolu kompatibility doplňků">
+<!ENTITY warning.updatesecurity.label "Kontrola bezpečné aktualizace doplňků je zakázána. Aplikace může být pomocí aktualizací napadena.">
+<!ENTITY warning.updatesecurity.enable.label "Povolit">
+<!ENTITY warning.updatesecurity.enable.tooltip "Povolí kontrolu bezpečné aktualizace doplňků">
+
 <!-- categories / views -->
 <!ENTITY view.search.label "Hledat">
 <!ENTITY view.discover.label "Získání doplňků">
@@ -56,6 +65,10 @@
 <!ENTITY cmd.enableAddon.accesskey "P">
 <!ENTITY cmd.disableAddon.label "Zakázat">
 <!ENTITY cmd.disableAddon.accesskey "Z">
+<!ENTITY cmd.enableTheme.label "Použít motiv vzhledu">
+<!ENTITY cmd.enableTheme.accesskey "W">
+<!ENTITY cmd.disableTheme.label "Nepoužívat motiv vzhledu">
+<!ENTITY cmd.disableTheme.accesskey "W">
 <!ENTITY cmd.installAddon.label "Instalovat">
 <!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Odebrat">
