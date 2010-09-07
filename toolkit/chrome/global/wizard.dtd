@@ -52,7 +52,7 @@
 <!ENTITY  button-cancel-unix.label     "Չեղարկել">
 
 <!ENTITY  button-back-win.label        "&lt; Հետ">
-<!ENTITY  button-back-win.accesskey    "&">
+<!ENTITY  button-back-win.accesskey    "l">
 <!ENTITY  button-next-win.label        "Շարունակել &gt;">
 <!ENTITY  button-next-win.accesskey    "Շ">
 <!ENTITY  button-finish-win.label      "Պատրաստ է">

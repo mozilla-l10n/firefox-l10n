@@ -41,7 +41,6 @@
 <!ENTITY message.label    "Օրինակը հայտնվում է այստեղ.">
 <!ENTITY editfield0.label "Օգտվողի Անուն."> 
 <!ENTITY editfield1.label "Գաղտնաբառ."> 
-<!ENTITY editfield2.label "Հաստատել Գաղտնաբառը."> 
 <!ENTITY checkbox.label   "ստուգել">
 <!ENTITY copyCmd.label    "Կրկնակել">
 <!ENTITY copyCmd.accesskey "C">

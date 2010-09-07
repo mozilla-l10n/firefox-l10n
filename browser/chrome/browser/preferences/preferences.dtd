@@ -53,3 +53,6 @@
 <!ENTITY  panePrivacy.title       "Գաղտնիություն">
 <!ENTITY  paneSecurity.title      "Անվտանգություն">
 <!ENTITY  paneAdvanced.title      "Խորացված">
+
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "Sync">

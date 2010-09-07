@@ -54,7 +54,7 @@
 <!ENTITY  blockWebForgeries.accesskey "Կ">
 
 <!ENTITY  addonExceptions.label         "Բացառություններ…">
-<!ENTITY  addonExceptions.accesskey     "E">
+<!ENTITY  addonExceptions.accesskey     "e">
 
 
 <!ENTITY  passwords.label               "Գաղտնաբառեր">
@@ -71,11 +71,3 @@
 
 <!ENTITY  savedPasswords.label            "Հիշած գաղտնաբառեր…">
 <!ENTITY  savedPasswords.accesskey        "Հ">
-
-
-<!ENTITY  warnings.label                "Զգուշացումներ">
-
-<!ENTITY  chooseWarnings.label          "Ընտրեք այն նախազգուշացումները որոնք ցանկանում եք տեսնել նավարկման ժամանակ">
-
-<!ENTITY  warningSettings.label         "Կարգավորել...">
-<!ENTITY  warningSettings.accesskey     "s">

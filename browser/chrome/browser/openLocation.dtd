@@ -41,8 +41,8 @@
 
 <!ENTITY enter.label "Նշեք հասցե (URL), կամ տեղայի ֆայլ որ կցանկանայիք բացել. ">  
 <!ENTITY chooseFile.label "Ընտրել Ֆայլ…">
-<!ENTITY newWindow.label "Նոր Պատուհան">
 <!ENTITY newTab.label "Նոր Ներդիր">
+<!ENTITY newWindow.label "Նոր Պատուհան">
 <!ENTITY topTab.label "Ընթացիկ ներդիրը">
 <!ENTITY caption.label "Web-Հասցեն Բացել">
 <!ENTITY openWhere.label "Բացոլ ուր.">

@@ -42,6 +42,7 @@
 <!ENTITY     cookiesonsystem.label          "Հետեվյալ պատրաստուքները պահպանված են ձեր համակարգչի վրա.">
 <!ENTITY     cookiename.label               "Պատրաստուքի անունը">
 <!ENTITY     cookiedomain.label             "Հանգույցը"> 
+<!ENTITY     button.removecookies.label     "Remove Cookies">
 <!ENTITY     button.removecookie.label      "Հեռացնել Պատրաստուքը">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "Ջնջել Բոլոր Պատրաստուքները">

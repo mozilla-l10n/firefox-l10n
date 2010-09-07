@@ -90,6 +90,7 @@
 <!ENTITY  font.langGroup.telugu                   "Տելուգու">
 <!ENTITY  font.langGroup.kannada                  "Կաննադա">
 <!ENTITY  font.langGroup.sinhala                  "Սինգալյան">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Առնվազն տառաչափը.">
 <!ENTITY minSize.accesskey                        "o">
