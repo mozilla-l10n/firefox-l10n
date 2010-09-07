@@ -118,7 +118,7 @@
 <!ENTITY securityOverride.linkText "Или же вы можете добавить исключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Уходим отсюда!">
 <!ENTITY securityOverride.exceptionButtonLabel "Добавить исключение…">
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>Вам не следует добавлять исключение, если вы используете соединение с Интернетом, которому не полностью доверяете, или если вы обычно не видите предупреждения при соединении с этим сервером.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/> ">
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button> ">
