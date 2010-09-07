@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Anvend blød scrolling">
 <!ENTITY useSmoothScrolling.accesskey    "b">
-<!ENTITY allowHWAccel.label              "Brug hardware-acceleration hvor muligt">
+<!ENTITY allowHWAccel.label              "Brug hardwareacceleration hvor muligt">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontroller min stavning mens jeg taster">
 <!ENTITY checkSpelling.accesskey         "t">

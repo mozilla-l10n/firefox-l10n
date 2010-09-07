@@ -63,8 +63,8 @@
 <!ENTITY  errorpatching.intro             "Den delvise opdatering kunne ikke anvendes. 
                                            &brandShortName; vil forsøge igen ved at hente en komplet opdatering.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Noget forhindrer &brandShortName; i at opdaterer på en sikker facon.
-                                           Tjek venligst at du har den seneste version af &brandShortName; på:">
+<!ENTITY  errorCertAttrNoUpdate.label     "Noget forhindrer &brandShortName; i at opdatere på sikker vis.
+                                           Tjek venligst at du har den seneste version af &brandShortName; her:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Noget forsøger at lokke &brandShortName; til at acceptere en usikker opdatering.
                                            Kontakt venligst din netudbyder og søg assistance.">
 
