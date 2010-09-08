@@ -12,28 +12,24 @@
 <!ENTITY manageAccount.label "Sýsla með aðgang">
 <!ENTITY manageAccount.accesskey "a">
 <!ENTITY changePassword.label "Breyta lykilorði">
-<!ENTITY changePassphrase.label "Breyta leynifrasa">
+<!ENTITY mySyncKey.label "Sync lykillinn minn">
 <!ENTITY resetSync.label "Endurstilla Sync">
 <!ENTITY differentAccount.label "Nota annan aðgang">
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label "Samstilla vafra">
 <!ENTITY syncComputerName.label "Tölvuheiti:">
 <!ENTITY syncComputerName.accesskey "T">
-<!ENTITY syncModeSwitchDesc.label "&brandShortName; mun: ">
-<!ENTITY syncModeSwitchDesc.accesskey "m">
-<!ENTITY syncEverything.label "Samstilla allt">
-<!ENTITY customSync.label "Nota sérsniðnar stillingar">
-<!ENTITY syncEverythingDescription.label "Bókamerki, ferill, lykilorð, stillingar, og flipar verða samstilltir.">
-<!ENTITY syncItem.bookmarks.label "Samstilla bókamerki">
-<!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label "Samstilla flipa">
-<!ENTITY syncItem.tabs.accesskey "t">
-<!ENTITY syncItem.history.label "Samstilla feril">
-<!ENTITY syncItem.history.accesskey "r">
-<!ENTITY syncItem.passwords.label "Samstilla lykilorð">
-<!ENTITY syncItem.passwords.accesskey "l">
-<!ENTITY syncItem.prefs.label "Sync stillingar">
-<!ENTITY syncItem.prefs.accesskey "S">
+<!ENTITY syncMy.label "Samkeyra við">
+<!ENTITY engine.bookmarks.label "Bókamerki">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label "Flipar">
+<!ENTITY engine.tabs.accesskey "F">
+<!ENTITY engine.history.label "Ferill">
+<!ENTITY engine.history.accesskey "r">
+<!ENTITY engine.passwords.label "Lykilorð">
+<!ENTITY engine.passwords.accesskey "L">
+<!ENTITY engine.prefs.label "Valkostir">
+<!ENTITY engine.prefs.accesskey "s">
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label "Skilmálar þjónustu">
 <!ENTITY prefs.ppLink.label "Meðferð persónuupplýsinga">

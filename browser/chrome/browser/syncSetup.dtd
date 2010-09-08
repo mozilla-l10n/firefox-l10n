@@ -1,11 +1,14 @@
 <!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; uppsetning">
 <!-- First page of the wizard -->
 
+<!ENTITY setup.pickSetupType.description "Velkominn, ef þú hefur aldrei notað &syncBrand.fullName.label; áður, verðurðu að búa til nýjan aðgang.">
+<!ENTITY button.createNewAccount.label "Stofna nýjan reikning">
+<!ENTITY button.haveAccount.label "Ég er með &syncBrand.fullName.label; aðgang">
 <!ENTITY setup.choicePage.title.label "Hefurðu notað &syncBrand.fullName.label; áður?">
 <!ENTITY setup.choicePage.new.label "Ég hef aldrei notað &syncBrand.shortName.label; áður">
 <!ENTITY setup.choicePage.existing.label "Ég er þegar að nota &syncBrand.shortName.label; á annari tölvu">
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label "Tengjast við">
+<!ENTITY server.label "Netþjónn">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; netþjónn">
 <!ENTITY serverType.custom.label "Nota sérsniðinn netþjón">
 <!ENTITY signIn.username.label "Notandanafn">
@@ -15,7 +18,7 @@
 <!ENTITY signIn.serverURL.label "Slóð þjóns">
 <!ENTITY signIn.serverURL.accesskey "l">
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label "Búa til &syncBrand.shortName.label; aðgang">
+<!ENTITY setup.newAccountDetailsPage.title.label "Upplýsingar aðgangs">
 <!ENTITY setup.confirmPassword.label "Staðfestu lykilorðið">
 <!ENTITY setup.confirmPassword.accesskey "S">
 <!ENTITY setup.emailAddress.label "Tölvupóstfang">
@@ -29,53 +32,54 @@
 <!ENTITY setup.ppLink.label "Meðferð persónuupplýsinga">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label "Sláðu inn leynifrasa">
-<!ENTITY passphraseDesc.label "Sláðu inn leynifrasa. Þessi frasi er notaður til að dulkóða öll gögnin þín þannig að aðeins þú hafir aðgang að þeim. Frasinn er aldrei geymdur á netþjóninum, þannig að passaðu þig á að týna honum ekki!">
-<!ENTITY passphraseDesc2.label "Verður að vera að minnsta kosti 12 stafa langur og má ekki vera það sama og aðgangslykilorð.">
-<!ENTITY passphraseEntry.label "Leynifrasi">
-<!ENTITY passphraseEntry.accesskey "s">
-<!ENTITY passphraseConfirm.label "Staðfesta">
-<!ENTITY passphraseConfirm.accesskey "S">
-<!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Stillingar vafrasamstillingar">
-<!ENTITY syncComputerName.label "Tölvuheiti:">
-<!ENTITY syncComputerName.accesskey "T">
-<!ENTITY syncModeSwitchDesc.label "&brandShortName; mun: ">
-<!ENTITY syncModeSwitchDesc.accesskey "m">
-<!ENTITY syncEverything.label "Samstilla allt">
-<!ENTITY customSync.label "Nota sérsniðnar stillingar">
-<!ENTITY syncEverythingDescription.label "Bókamerki, ferill, lykilorð, stillingar, og flipar verða samstilltir.">
-<!ENTITY syncItem.bookmarks.label "Samstilla bókamerki">
-<!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label "Samstilla flipa">
-<!ENTITY syncItem.tabs.accesskey "t">
-<!ENTITY syncItem.history.label "Samstilla feril">
-<!ENTITY syncItem.history.accesskey "r">
-<!ENTITY syncItem.passwords.label "Samstilla lykilorð">
-<!ENTITY syncItem.passwords.accesskey "l">
-<!ENTITY syncItem.prefs.label "Sync stillingar">
-<!ENTITY syncItem.prefs.accesskey "S">
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label "Vinsamlega staðfestu að þú sért ekki tölva ;)">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; er umhugað um þína friðhelgi">
+<!ENTITY setup.newSyncKeyPage.description.label "Til að passa upp á friðhelgi þína, eru öll gögn dulkóðuð áður en þau eru send. Sync lykillinn sem er nauðsynlegur til að afkóða gögnin er ekki sendur.">
+<!ENTITY syncKeyEntry.label "Sync lykillinn þinn">
+<!ENTITY syncKeyEntry.accesskey "k">
+<!ENTITY syncKeyGenerate.label "Búa til">
+<!ENTITY syncKeyBackup.description "Þú þarft að hafa Sync lykilinn þinn til að fá aðgang að &syncBrand.fullName.label; á öðrum tölvum. Vinsamlega búðu til afrit af lyklinum. Við getum ekki hjálpað þér að endurheimta Sync lykilinn þinn.">
+<!ENTITY button.syncKeyBackup.email.label "Tölvupóstfang…">
+<!ENTITY button.syncKeyBackup.email.accesskey "T">
+<!ENTITY button.syncKeyBackup.print.label "Prenta…">
+<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.save.label "Vista…">
+<!ENTITY button.syncKeyBackup.save.accesskey "s">
+<!ENTITY page.syncKeyBackup.title "Firefox Sync lykillinn þinn">
+<!ENTITY page.syncKeyBackup.descr "Þessi leynilykill er notaður til að dulkóða persónuleg gögn. Hann er ekki sendur yfir á netþjóninn og ekki er hægt að endurheimta hann. Ekki týna honum eða deila honum með öðrum.">
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label "Staðfestu að þú sért ekki vélmenni">
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Færa inn aðgangsupplýsingar">
 <!ENTITY resetPassword.label "Endurstilla lykilorð">
 <!ENTITY connecting.label "Tenging…">
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label "Sláðu inn leynifrasa">
-<!ENTITY passphraseDesc3.label "Sláðu inn leynifrasa. Þetta verður að vera sami frasi og þú notaðir til að dulkóða gögnin þín.">
-<!ENTITY passphraseHelp.label "Leynifrasinn þinn er að minnsta kosti 12 stafa langur og er ekki það sama og lykilorðið þitt. Þú getur fundið vistaða leynifrasann með því fara í hina tölvuna og athuga vistuð lykilorð undir öryggi. Ef þú hefur ekki aðgang að réttum leynifrasa, geturðu valið að endursetja hann, en þá muntu missa öll gögn sem eru geymd á netþjóninum.">
-<!ENTITY changePassphrase.label "Breyta leynifrasa">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Sláðu inn Sync lykilinn þinn">
+<!ENTITY setup.existingSyncKeyPage.description "Sync lykillinn var búinn til fyrir þig, eða þú slóst inn þinn eigin, þegar þú skráðir þig fyrst inn í &syncBrand.fullName.label;. Hann er ekki það sama og lykilorðið þitt.">
+<!ENTITY existingSyncKeyHelp.description "Þú getur fundið vistaða Sync lykilinn með því fara í hina tölvuna og athuga vistuð lykilorð undir öryggi. Ef þú getur ekki nálgast réttan Sync lykil, geturðu valið að endursetja hann, en þá muntu missa öll gögn sem eru geymd á netþjóninum.">
+<!ENTITY lostSyncKey.label "Ég er búinn að týna Sync lyklinum mínum">
 <!ENTITY verifying.label "Staðfesti…">
-<!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "Hvernig viltu byrja?">
-<!ENTITY choice.merge.main.label "Sameina gögn á þessari tölvu við &syncBrand.shortName.label; gögn">
-<!ENTITY choice.merge.recommend.label "Mozilla mælir með þessum valkosti fyrir alla notendur.">
-<!ENTITY choice.client.main.label "Skipta út gögnum á þessari tölvu með &syncBrand.fullName.label; gögnum">
-<!ENTITY choice.server.main.label "Skipta út á öllum öðrum tækjum með gögnum á þessari tölvu">
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label "Staðfestu þitt val">
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title "Sync stillingar">
+<!ENTITY syncComputerName.label "Tölvuheiti:">
+<!ENTITY syncComputerName.accesskey "T">
+<!ENTITY syncMy.label "Samkeyra við">
+<!ENTITY engine.bookmarks.label "Bókamerki">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label "Flipar">
+<!ENTITY engine.tabs.accesskey "F">
+<!ENTITY engine.history.label "Ferill">
+<!ENTITY engine.history.accesskey "r">
+<!ENTITY engine.passwords.label "Lykilorð">
+<!ENTITY engine.passwords.accesskey "L">
+<!ENTITY engine.prefs.label "Valkostir">
+<!ENTITY engine.prefs.accesskey "s">
+<!ENTITY choice2.merge.main.label "Sameina gögn á þessari tölvu við &syncBrand.shortName.label; gögn">
+<!ENTITY choice2.merge.recommended.label "Mælt með:">
+<!ENTITY choice2.client.main.label "Skipta út gögnum á þessari tölvu með &syncBrand.shortName.label; gögnum">
+<!ENTITY choice2.server.main.label "Skipta út á öllum öðrum tækjum með gögnum á þessari tölvu">
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Staðfesta">
 <!ENTITY confirm.merge.label "Þú hefur valið að sameina gögnin þín á þessari tölvu við gögnin á öðrum tækjum sem keyra &syncBrand.fullName.label;.">
 <!ENTITY confirm.client.label "Öllum &brandShortName; gögnum á þessari tölvu mun verða eytt, þar á meðal:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; mun afrita &syncBrand.fullName.label; gögn á þessa tölvu.">
@@ -83,5 +87,6 @@
 <!ENTITY confirm.server.label "Eftirfarandi tæki verða yfirskrifuð með gögnum á þessari tölvu:">
 <!ENTITY confirm.server.warning.label "AÐVÖRUN: Gögnin á þessari tölvu verða sett í staðinn fyrir öll gögn &brandShortName; á þessum tækjum!">
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label "Uppsetningu lokið!">
-<!ENTITY setup.successPage.desc.label "Til hamingju! &brandShortName; er núna stillt þannig að samstilling er sjálfvirk. Ekki gleyma að setja inn &syncBrand.fullName.label; á öll tækin sem þú notar. Þú getur nún haldið áfram að nota &brandShortName;.">
+<!ENTITY setup.successPage.title "Uppsetningu lokið">
+<!ENTITY changeOptions.label "Þú getur breytt þessari stillingu með því að velja Sync stillingar hér fyrir neðan.">
+<!ENTITY continueUsing.label "Þú getur núna haldið áfram að nota &brandShortName;.">
