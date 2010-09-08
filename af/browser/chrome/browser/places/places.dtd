@@ -4,17 +4,17 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Organiseer">
 <!ENTITY organize.accesskey "O">
+<!ENTITY organize.tooltip "Organize your bookmarks">
 
 <!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Sluit">
 <!ENTITY file.close.accesskey "S">
 <!ENTITY cmd.close.key "w">
 <!ENTITY edit.label "Redigeer">
-<!ENTITY edit.accesskey "R">
+<!ENTITY edit.accesskey "e">
 <!ENTITY views.label "Aansigte">
 <!ENTITY views.accesskey "A">
-<!ENTITY view.toolbar.label "Nutsbalke">
-<!ENTITY view.toolbar.accesskey "u">
+<!ENTITY views.tooltip "Change your view">
 <!ENTITY view.columns.label "Wys kolomme">
 <!ENTITY view.columns.accesskey "W">
 <!ENTITY view.sort.label "Rangskik">
@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Z>A-rangskikking">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "Gebruik boekmerke">
-<!ENTITY help.usingBookmarks.accesskey "b">
-<!ENTITY help.usingHistory.label "Met geskiedenis">
-<!ENTITY help.usingHistory.accesskey "g">
-<!ENTITY help.advancedTips.label "Gevorderde wenke">
-<!ENTITY help.advancedTips.accesskey "w">
 
 <!ENTITY cmd.findInBookmarks.label "Vind in boekmerke…">
 <!ENTITY cmd.findInBookmarks.accesskey "V">
@@ -49,28 +43,8 @@
 <!ENTITY cmd.restoreFromFile.label "Kies lêer…">
 <!ENTITY cmd.restoreFromFile.accesskey "K">
 
-<!ENTITY cmd.select_all.label "Merk alles">
-<!ENTITY cmd.select_all.accesskey "a">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label "Knip">
-<!ENTITY cmd.edit_cut.accesskey "p">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "Kopieer">
-<!ENTITY cmd.edit_copy.accesskey "K">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Plak">
-<!ENTITY cmd.edit_paste.accesskey "P">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Skrap">
-<!ENTITY cmd.edit_delete.accesskey "S">
-<!ENTITY cmd.edit_undo.label "Ontdoen">
-<!ENTITY cmd.edit_undo.accesskey "O">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Herdoen">
-<!ENTITY cmd.edit_redo.accesskey "H">
-<!ENTITY cmd.edit_redo.key "y">
-
+<!ENTITY cmd.bookmarkLink.label "Boekmerk hierdie bladsy…">
+<!ENTITY cmd.bookmarkLink.accesskey "B">
 <!ENTITY cmd.delete.label "Skrap hierdie bladsy">
 <!ENTITY cmd.delete.accesskey "S">
 <!ENTITY cmd.deleteDomainData.label "Vergeet van hierdie werf">
@@ -88,19 +62,12 @@
 <!ENTITY cmd.properties.label "Eienskappe">
 <!ENTITY cmd.properties.accesskey "k">
 
-<!ENTITY cmd.show_info.key "i">
-
-<!ENTITY cmd.rename.label "Hernoem">
-<!ENTITY cmd.rename.accesskey "r">
-
 <!ENTITY cmd.sortby_name.label "Rangskik volgens naam">
 <!ENTITY cmd.sortby_name.accesskey "s">
 <!ENTITY cmd.context_sortby_name.accesskey "R">
 
 <!ENTITY cmd.new_bookmark.label "Nuwe boekmerk…">
 <!ENTITY cmd.new_bookmark.accesskey "b">
-<!ENTITY cmd.new_livemark.label "Nuwe lewende boekmerk…">
-<!ENTITY cmd.new_livemark.accesskey "l">
 <!ENTITY cmd.new_folder.label "Nuwe vouer…">
 <!ENTITY cmd.new_folder.accesskey "o">
 <!ENTITY cmd.context_new_folder.accesskey "u">
@@ -112,21 +79,12 @@
 <!ENTITY cmd.reloadMicrosummary.label "Herlaai Lewendige titel">
 <!ENTITY cmd.reloadMicrosummary.accesskey "H">
 
-<!ENTITY cmd.groupby_site.label "Groepeer volgens werf">
-<!ENTITY cmd.groupby_site.accesskey "w">
-<!ENTITY cmd.groupby_page.label "Groepeer volgens bladsy">
-<!ENTITY cmd.groupby_page.accesskey "b">
-<!ENTITY cmd.groupby_feed.label "Groepeer volgens intekening">
-<!ENTITY cmd.groupby_feed.accesskey "i">
-<!ENTITY cmd.groupby_post.label "Groepeer volgens boodskap">
-<!ENTITY cmd.groupby_post.accesskey "b">
-
 <!ENTITY cmd.moveBookmarks.label "Verskuif…">
 <!ENTITY cmd.moveBookmarks.accesskey "V">
 
 <!ENTITY col.name.label "Naam">
 <!ENTITY col.tags.label "Merkers">
-<!ENTITY col.url.label "Ligging">
+<!ENTITY col.url.label "Location">
 <!ENTITY col.lastvisit.label "Besoekdatum">
 <!ENTITY col.visitcount.label "Besoektelling">
 <!ENTITY col.keyword.label "Sleutelwoord">
@@ -144,64 +102,19 @@
 <!ENTITY search.scopeDownloads.accesskey "A">
 <!ENTITY search.scopeHistory.label "Geskiedenis">
 <!ENTITY search.scopeHistory.accesskey "G">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Wys soekbouer">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Versteek soekbouer">
 <!ENTITY saveSearch.label "Stoor">
 <!ENTITY saveSearch.accesskey "S">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Deursoek net boekmerke">
-<!ENTITY advancedSearch.match.label "Pas by ">
-<!ENTITY advancedSearch.all.label "alle">
-<!ENTITY advancedSearch.any.label "enige">
-<!ENTITY advancedSearch.rules.label " van die volgende reëls:">
-<!ENTITY advancedSearch.subj_keyword.label "Wat die teks bevat">
-<!ENTITY advancedSearch.subj_visited.label "Besoek">
-<!ENTITY advancedSearch.subj_location.label "Ligging">
-<!ENTITY advancedSearch.location_startswith.label "begin met">
-<!ENTITY advancedSearch.location_is.label "is">
-<!ENTITY advancedSearch.location_onsite.label "is op die werf">
-<!ENTITY advancedSearch.time_is.label "aan">
-<!ENTITY advancedSearch.time_before.label "voor">
-<!ENTITY advancedSearch.time_after.label "na">
-<!ENTITY advancedSearch.time_inlast.label "in die afgelope">
-<!ENTITY advancedSearch.last_days.label "dae">
-<!ENTITY advancedSearch.last_weeks.label "weke">
-<!ENTITY advancedSearch.last_months.label "maande">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Groepeer volgens: ">
-<!ENTITY advancedSearch.groupby_host.label "gasheer">
-<!ENTITY advancedSearch.groupby_domain.label "domein">
-<!ENTITY advancedSearch.groupby_folder.label "vouer">
-<!ENTITY advancedSearch.sortby.label "Rangskik volgens: ">
-<!ENTITY advancedSearch.sortby_title.label "titel">
-<!ENTITY advancedSearch.sortby_date.label "datum">
-<!ENTITY advancedSearch.sortby_visit.label "besoektelling">
-<!ENTITY advancedSearch.sortby_url.label "url">
-<!ENTITY advancedSearch.sortby_asc.label "oplopend">
-<!ENTITY advancedSearch.sortby_desc.label "aflopend">
-<!ENTITY advancedSearch.max.label "Maksimum resultate: ">
 
 <!ENTITY cmd.find.key "f">
 
-<!ENTITY feed.subscribe.label "Voer">
-<!ENTITY feed.subscribe.tooltip "Inteken">
-
-<!ENTITY view.detailsMacOSX.label "Lys">
-<!ENTITY view.details.label "Besonderhede">
-<!ENTITY view.details.accesskey "B">
-
-<!ENTITY view.addons.label "Kry kykbyvoegings">
-
 <!ENTITY maintenance.label "Invoer en rugsteun">
 <!ENTITY maintenance.accesskey "I">
+<!ENTITY maintenance.tooltip "Import and backup your bookmarks">
 
 <!ENTITY backCmd.label "Terug">
-<!ENTITY backCmd.accesskey "T">
 <!ENTITY backButton.tooltip "Gaan terug">
 
 <!ENTITY forwardCmd.label "Vorentoe">
-<!ENTITY forwardCmd.accesskey "V">
 <!ENTITY forwardButton.tooltip "Gaan vorentoe">
 
 <!ENTITY detailsPane.more.label "Meer">

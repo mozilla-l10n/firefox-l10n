@@ -50,7 +50,7 @@
 <!ENTITY validation.advanced.accesskey "O">
 
 <!ENTITY validation.crl.autoupdate.title "Voorkeure vir outomatiese SOL-bywerk">
-<!ENTITY validation.crl.autoupdate.enable.label "Aktiveer outomatiese bywerking vir hierdie SOL.">
+<!ENTITY validation.crl.autoupdate.enable.label "Aktiveer outomatiese bywerking vir hierdie SOL">
 <!ENTITY validation.crl.autoupdate.time.label1 "Bywerk">
 <!ENTITY validation.crl.autoupdate.time.label2 "Dag(e) voor volgende bywerkdatum">
 <!ENTITY validation.crl.autoupdate.freq.label1 "Werk by elke">

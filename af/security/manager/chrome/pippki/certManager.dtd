@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname "Naam van sertifikaat">
 <!ENTITY certmgr.certserver "Bediener">
-<!ENTITY certmgr.typesofoverrides "Uitsonderings">
 <!ENTITY certmgr.override_lifetime "Lewensduur">
 <!ENTITY certmgr.tokenname "Sekuriteitstoestel">
-<!ENTITY certmgr.purpose "Doelwitte">
 <!ENTITY certmgr.issued "Uitgereik op">
 <!ENTITY certmgr.expires "Verval op">
 <!ENTITY certmgr.email "E-posadres">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey "S">
 <!ENTITY certmgr.view2.label "Bekyk…">
 <!ENTITY certmgr.view2.accesskey "B">
-<!ENTITY certmgr.edit2.label "Redigeer…">
-<!ENTITY certmgr.edit2.accesskey "R">
+<!ENTITY certmgr.edit3.label "Edit Trust…">
+<!ENTITY certmgr.edit3.accesskey "E">
 <!ENTITY certmgr.editca.label "Redigeer SO-vertroue">
 <!ENTITY certmgr.editca.accesskey "e">
 <!ENTITY certmgr.add.label "Voeg by">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey "i">
 <!ENTITY certmgr.delete2.label "Skrap…">
 <!ENTITY certmgr.delete2.accesskey "S">
+<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.accesskey "D">
 <!ENTITY certmgr.backup2.label "Rugsteun…">
 <!ENTITY certmgr.backup2.accesskey "R">
 <!ENTITY certmgr.backupall2.label "Rugsteun alles…">

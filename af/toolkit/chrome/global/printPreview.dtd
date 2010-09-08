@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip "Eerste bladsy">
 <!ENTITY endarrow.tooltip "Laaste bladsy">
-<!ENTITY rightarrow.tooltip "Volgende bladsy">
-<!ENTITY leftarrow.tooltip "Vorige bladsy">
+<!ENTITY nextarrow.tooltip "Volgende bladsy">
+<!ENTITY previousarrow.tooltip "Vorige bladsy">

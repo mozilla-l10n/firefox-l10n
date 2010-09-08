@@ -13,14 +13,14 @@
 <!ENTITY safeb.palm.decline.label "Ignoreer hierdie waarskuwing">
 <!ENTITY safeb.palm.decline.statustext "Sluit waarskuwing af">
 <!ENTITY safeb.palm.notforgery.label2 "Dit is nie 'n kwaadwillige webnamaaksel nie…">
-<!ENTITY safeb.palm.report.label "Hoekom is hierdie werf geblok?">
+<!ENTITY safeb.palm.reportPage.label "Hoekom is hierdie bladsy geblok?">
 
-<!ENTITY safeb.blocked.malware.title "'n Geraporteerde aanvalswerf!">
+<!ENTITY safeb.blocked.malwarePage.title "'n Gerapporteerde aanvalsbladsy!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Die webwerf by <span id='malware_sitename'/> is as 'n aanvalswerf aangegee en is op grond van u sekuriteitvoorkeur geblokkeer.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Aanvalswerwe probeer programme installeer wat private inligting steel, u rekenaar gebruik om ander aan te val, of u stelsel beskadig.</p><p>Sommige aanvalswerwe versprei doelbewus skadelike sagteware, maar baie word oorgeneem sonder die wete of toestemming van hulle eienaars.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Die webblad by <span id='malware_sitename'/> is as 'n aanvalsbladsy aangegee en is op grond van u sekuriteitvoorkeure geblokkeer.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Aanvalsbladsye probeer programme installeer wat private inligting steel, u rekenaar gebruik om ander aan te val, of u stelsel beskadig.</p><p>Sommige aanvalsbladsye versprei doelbewus skadelike sagteware, maar baie word oorgeneem sonder die wete of toestemming van hulle eienaars.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Rapporteer webbedrog!">
+<!ENTITY safeb.blocked.phishingPage.title "Rapporteer webbedrog!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Die webwerf by <span id='phishing_sitename'/> is as 'n webnamaaksel aangegee en is op grond van u sekuriteitvoorkeur geblokkeer.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Webnamaaksels word ontwerp om mens te flous om persoonlike of finansiële inligting bekend te maak deur bronne na te maak wat mens dalk vertrou.</p><p>Deur inligting op hierdie webblad te gee, kan dit dalk lei tot identiteitsdiefstal of ander bedrog.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Die webblad by <span id='phishing_sitename'/> is as 'n webnamaaksel aangegee en is op grond van u sekuriteitvoorkeure geblokkeer.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Webnamaaksels word ontwerp om mens te flous om persoonlike of finansiële inligting bekend te maak deur bronne na te maak wat mens dalk vertrou.</p><p>Deur inligting op hierdie webblad te gee, kan dit dalk lei tot identiteitsdiefstal of ander bedrog.</p>">

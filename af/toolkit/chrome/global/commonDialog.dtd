@@ -2,7 +2,6 @@
 <!ENTITY message.label "Voorbeeldteks kom hierso.">
 <!ENTITY editfield0.label "Gebruikernaam:">
 <!ENTITY editfield1.label "Wagwoord:">
-<!ENTITY editfield2.label "Bevestig wagwoord:">
 <!ENTITY checkbox.label "merk">
 <!ENTITY copyCmd.label "Kopieer">
 <!ENTITY copyCmd.accesskey "K">

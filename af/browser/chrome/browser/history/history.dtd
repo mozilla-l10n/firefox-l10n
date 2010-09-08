@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "o">
 <!ENTITY openInNewWindow.label "Open in nuwe venster">
 <!ENTITY openInNewWindow.accesskey "v">
-<!ENTITY bookmarkLink.label "Boekmerk hierdie skakel…">
-<!ENTITY bookmarkLink.accesskey "s">
 <!ENTITY copyLink.label "Kopieer skakelligging">
 <!ENTITY copyLink.accesskey "K">

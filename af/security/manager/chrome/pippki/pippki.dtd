@@ -126,8 +126,8 @@
 <!ENTITY formSigning.confirmPassword "Om te bevestig dat u toestem om hierdie teksboodskap te onderteken deur u geselekteerde sertifikaat te gebruik, bevestig deur u meesterwagwoord in te tik:">
 <!-- Strings for protectedAuth dialog -->
 
-<!ENTITY protectedAuth.title "Beskermde tekenstawing">
-<!ENTITY protectedAuth.msg "Staaf met die teken. Stawingmetode hang af van die soort teken.">
+<!ENTITY protectedAuth.title "Beskermde tekenmagtiging">
+<!ENTITY protectedAuth.msg "Verkry magtiging met die teken. Magtigingmetode hang af van die soort teken.">
 <!ENTITY protectedAuth.tokenName.label "Teken:">
 
 <!ENTITY certErrorDlg.title "Kon nie beveilig koppel nie">

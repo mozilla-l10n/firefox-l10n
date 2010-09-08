@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion "weergawe">
 <!ENTITY closeCmdGNOME.label "Sluit">
 <!ENTITY closeCmdGNOME.accesskey "S">
-<!ENTITY copyrightInfo1 "&#169;1998-2009 die bedraers. Alle regte voorbehou. (">
-<!ENTITY licenseLink "about:license">
 <!ENTITY licenseLinkText "Lisensiëringinligting">
-<!ENTITY copyrightInfo2 ").">
+<!ENTITY licenseLinkSuffix ".">

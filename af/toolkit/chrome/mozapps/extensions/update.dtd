@@ -2,7 +2,8 @@
 
 <!ENTITY offline.title "&brandShortName; werk aflyn">
 <!ENTITY offline.description "&brandShortName; moet aanlyn gaan om te kontroleer vir bywerkings 
-vir u byvoegings om hulle versoenbaar met hierdie weergawe te maak.">
+vir u byvoegings om hulle versoenbaar met hierdie weergawe te 
+maak.">
 <!ENTITY offline.toggleOffline.label "Gaan nou aanlyn.">
 <!ENTITY offline.toggleOffline.accesskey "G">
 
@@ -51,11 +52,10 @@ gedeaktiveer is. Vra u stelseladministrateur vir bystand.">
 <!ENTITY versioninfo.waiting "Dit kan 'n paar minute duur…">
 
 <!ENTITY installerrors.wizard.title "Kon nie bywerkings installeer nie">
-<!ENTITY installerrors.intro.label "&brandShortName; kon sekere van u byvoegings nie bywerk nie.">
+<!ENTITY installerrors.intro.label "&brandShortName; kon sekere van u byvoegings nie bywerk 
+nie.">
 <!-- general strings used by several of the finish pages -->
 
 <!ENTITY clickFinish.label "Kliek Voltooi om voort te gaan om &brandShortName; te laat loop.">
 <!ENTITY clickFinish.labelMac "Kliek Klaar om voort te gaan om &brandShortName; te laat loop.">
 <!ENTITY enableChecking.label "Laat &brandShortName; toe om vir bywerkings te kontroleer.">
-<!ENTITY details.label "Detail…">
-<!ENTITY details.accesskey "D">
