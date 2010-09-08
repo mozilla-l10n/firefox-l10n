@@ -129,16 +129,21 @@ instaanbediener beskerm word, maak seker dat &brandShortName; toegelaat word om 
 <!ENTITY phishingBlocked.longDesc "<p>As u enige persoonlike inligting op hierdie bladsy intik, kan dit lei tot identiteitdiefstal of ander bedrog.</p> 
 <p>Hierdie soort kwaadwillige na-apery word gebruik in slap rieme genaamd uitvissing, waarin bedrieglike webwerwe en e-posse gebruik word om bronne na te aap wat u vertrou.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
 <!ENTITY securityOverride.linkText "Of u kan 'n uitsondering byvoeg…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eina! Laat ek weg wees!">
 <!ENTITY securityOverride.exceptionButtonLabel "Voeg uitsondering by…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningText "<p>U moenie 'n uitsondering byvoeg as u 'n internetverbinding gebruik wat u nie heeltemal vertrou nie of as u nie gewoonlik 'n waarskuwing vir hierdie bediener ontvang nie.</p> 
- 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<!ENTITY securityOverride.warningContent "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">

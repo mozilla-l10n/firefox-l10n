@@ -3,5 +3,5 @@
 <!ENTITY date.heading "Datum ingelewer">
 <!ENTITY noReports.label "Geen omvalverslae is ingelewer nie.">
 <!ENTITY noConfig.label "Hierdie toepassing is nie opgestel om omvalverslae te wys nie. Die voorkeur <code>breakpad.reportURL</code> moet gestel word.">
-<!ENTITY clearReports.label "Verwyder verslae">
+<!ENTITY clearAllReports.label "Verwyder alle verslae">
 

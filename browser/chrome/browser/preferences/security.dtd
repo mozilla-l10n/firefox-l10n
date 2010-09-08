@@ -32,11 +32,3 @@
 
 <!ENTITY savedPasswords.label "Gestoorde wagwoorde…">
 <!ENTITY savedPasswords.accesskey "w">
-
-
-<!ENTITY warnings.label "Waarskuboodskappe">
-
-<!ENTITY chooseWarnings.label "Kies watter waarskuboodskap u wil sien terwyl u die web deursoek">
-
-<!ENTITY warningSettings.label "Opstelling…">
-<!ENTITY warningSettings.accesskey "O">

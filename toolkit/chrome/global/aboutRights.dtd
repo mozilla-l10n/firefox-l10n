@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Mozilla Publieke Lisensie">
 <!ENTITY rights.intro-point1c ". Dit beteken dat u &brandShortName; kan gebruik, kopieer en versprei.  U kan ook die bronkode van &brandShortName; wysig, as u dit wil, om aan u behoeftes te voldoen. Die Mozilla Publieke Lisensie gee u ook die reg om gewysigde weergawes te versprei.">
 
-<!ENTITY rights.intro-point2a "Mozilla gee u nie enige regte om die Mozilla- en Firefox-handelsmerke of -logo's te gebruik nie. Bykomende inligting oor handelsmerke is ">
-<!ENTITY rights.intro-point2b "hier">
-<!ENTITY rights.intro-point2c " te kry.">
+<!ENTITY rights.intro-point2-a "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found ">
+<!ENTITY rights.intro-point2-b "here">
+<!ENTITY rights.intro-point2-c ".">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights.intro-point3a "Die privaatheidbeleid vir &vendorShortName; se produkte kan ">
@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Enige toepaslike privaatheidbeleid vir hierdie produk sal daar gelys wees.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "&brandShortName; bied ook opsionele webwerf-inligtingsdienste soos die SafeBrowsing-diens; maar ons kan nie waarborg dat dit akkuraat of foutvry is nie. Meer inligting, soos hoe om die dienste te deaktiveer, is in die ">
+<!ENTITY rights.intro-point4a "&brandShortName; bied ook opsionele webwerf-inligtingsdienste soos die SafeBrowsing-diens; maar ons kan nie waarborg dat dit 100&#37; akkuraat of foutvry is nie. Meer inligting, soos hoe om die dienste te deaktiveer, is in die ">
 <!ENTITY rights.intro-point4b "diensbepalings">
 <!ENTITY rights.intro-point4c " te kry.">
 <!-- point 4 text for unbranded builds -->
@@ -59,7 +59,7 @@
 <!ENTITY rights.webservices-term1 "&vendorShortName; en sy bydraers, lisensiegewers en vennote probeer die akkuraatste, mees bygewerkte uitvissing- en wanware-inligting te bied. Hulle kan egter nie waarborg dat die inligting omvattend en foutvry is nie: sommige riskante werwe is dalk nog nie geïdentifiseer nie, en sekere veilige werwe kan verkeerdelik as sodanig geïdentifiseer gewees het.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; kan die dienste na goeddunke opskort of wysig.">
 <!ENTITY rights.webservices-term3 "U kan hierdie dienste met die meegaande weergawe van &brandShortName; gebruik -- u het alle reg om dit te doen.  &vendorShortName; en sy lisensiegewers behou hulle alle ander regte in die dienste voor.  Hierdie bepalings is nie ten doel om enige regte in te perk wat ingevolge die oopbronlisensies wat op &brandShortName; en die ooreenstemmende bronkode-weergawes van &brandShortName; van toepassing is nie.">
-<!ENTITY rights.webservices-term4 "Die Dienste word voetstoots verskaf. &vendorShortName;, sy bydraers, lisensieerders en verspreiders ontken alle waarborge, hetsy uitdruklik of geïmpliseer, met inbegrip van, sonder beperking, waarborge dat die Dienste verhandelbaar is en geskik is vir u besondere doeleindes. U dra die volle risiko wat betref die keuse van die Dienste vir u doeleindes en die gehalte en prestasie van die Dienste. Sommige owerhede verbied die uitsluiting of beperking van geïmpliseerde waarborge.  Hierdie ontkenning is dus moontlik nie op u van toepassing nie.">
-<!ENTITY rights.webservices-term5 "Tensy die reg dit vereis is &vendorShortName; sy bydraers, lisensieerders en verspreiders nie aanspreeklik vir enige indirekte, spesiale, toevallige,  gevolg- of bestraffende skadevergoeding wat spruit uit, of op enige manier te doen het met, die gebruik van &brandShortName; en die Dienste nie. Die gesamentlike aanspreeklikheid van hierdie bepalings sal nie $500 (vyfhonderd dollars) oorskry nie. Sommige owerhede verbied die uitsluiting of beperking van sekere skadevergoeding. Hierdie uitsluiting is dus moontlik nie op u van toepassing nie.">
-<!ENTITY rights.webservices-term6 "&vendorShortName; kan hierdie bepalings van tyd tot tyd bywerk indien nodig. Hierdie bepalings mag nie gewysig of gekanselleer word sonder &vendorShortName; se skriftelike toestemming nie.">
+<!ENTITY rights.webservices-term4 "Die Dienste word voetstoots verskaf. &vendorShortName;, sy bydraers, lisensieerders en verspreiders ontken alle waarborge, hetsy uitdruklik of geïmpliseer, met inbegrip van, sonder beperking, waarborge dat die Dienste verhandelbaar is en geskik is vir u besondere doeleindes.  U dra die volle risiko wat betref die keuse van die Dienste vir u doeleindes en die gehalte en prestasie van die Dienste. Sommige owerhede verbied die uitsluiting of beperking van geïmpliseerde waarborge. Hierdie ontkenning is dus moontlik nie op u van toepassing nie.">
+<!ENTITY rights.webservices-term5 "Tensy die reg dit vereis is &vendorShortName; sy bydraers, lisensieerders en verspreiders nie aanspreeklik vir enige indirekte, spesiale, toevallige,  gevolg- of bestraffende skadevergoeding wat spruit uit, of op enige manier te doen het met, die gebruik van &brandShortName; en die Dienste nie.  Die gesamentlike aanspreeklikheid van hierdie bepalings sal nie $500 (vyfhonderd dollars) oorskry nie. Sommige owerhede verbied die uitsluiting of beperking van sekere skadevergoeding. Hierdie uitsluiting is dus moontlik nie op u van toepassing nie.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; kan dalk hierdie bepalings van tyd tot tyd bywerk indien nodig. Hierdie bepalings mag nie sonder &vendorShortName; se skriftelike toestemming gewysig of gekanselleer word nie.">
 <!ENTITY rights.webservices-term7 "Hierdie bepalings word beheer deur die reg van die Staat van Kalifornië, V.S.A., met die uitsluiting van die bepalings in verband met internasionale privaatreg. As beslis word dat enige deel van hierdie bepalings ongeldig of onafdwingbaar is, bly die oorblywende dele ten volle van krag. In die geval waar die vertaalde weergawe in stryd is met die Engelse weergawe van hierdie bepalings, sal die Engelse bepalings geld.">

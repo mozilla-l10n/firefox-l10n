@@ -9,31 +9,13 @@
 <!ENTITY locbar.history.label "geskiedenis">
 <!ENTITY locbar.bookmarks.label "boekmerke">
 <!ENTITY locbar.nothing.label "niks">
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-
-<!ENTITY rememberDaysBefore.label "Behou my geskiedenis vir ten minste">
-<!ENTITY rememberDaysBefore.accesskey "g">
-<!ENTITY rememberDaysAfter2.label "dae">
-
-<!ENTITY rememberForms.label "Onthou wat ek in vorms in die soekbalk intik">
-<!ENTITY rememberForms.accesskey "v">
-
-<!ENTITY rememberDownloads.label "Onthou wat ek afgelaai het">
-<!ENTITY rememberDownloads.accesskey "a">
 
 
-<!ENTITY cookies.label "Koekies">
-
-<!ENTITY acceptCookies.label "Aanvaar koekies van werwe">
+<!ENTITY acceptCookies.label "Accept cookies from sites">
 <!ENTITY acceptCookies.accesskey "A">
 
-<!ENTITY acceptThirdParty.label "Aanvaar koekies van derde partye">
-<!ENTITY acceptThirdParty.accesskey "p">
+<!ENTITY acceptThirdParty.label "Accept third-party cookies">
+<!ENTITY acceptThirdParty.accesskey "c">
 
 <!ENTITY keepUntil.label "Hou tot:">
 <!ENTITY keepUntil.accesskey "H">
@@ -48,14 +30,6 @@
 <!ENTITY showCookies.label "Wys koekies…">
 <!ENTITY showCookies.accesskey "W">
 
-
-<!ENTITY privateData.label "Private data">
-
-<!ENTITY alwaysClear.label "Skrap altyd my private data wanneer ek &brandShortName; afsluit">
-<!ENTITY alwaysClear.accesskey "S">
-
-<!ENTITY clearDataSettings.label "Opstelling…">
-<!ENTITY clearDataSettings.accesskey "p">
 
 <!ENTITY historyHeader.pre.label "&brandShortName; sal:">
 <!ENTITY historyHeader.pre.accesskey "s">
@@ -83,18 +57,11 @@
 <!ENTITY dontrememberActions.clearHistory.label "alle huidige geskiedenis skrap">
 <!ENTITY dontrememberActions.post.label ".">
 
-<!ENTITY privateBrowsingAutoStart.label "Begin outomaties &brandShortName; in 'n privaatblaai-sessie">
-<!ENTITY privateBrowsingAutoStart.accesskey "B">
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
+<!ENTITY privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY privateBrowsingPermanent.accesskey "P">
 
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-
-<!ENTITY rememberHistory.pre.label "Onthou my blaaigeskiedenis vir ten minste">
-<!ENTITY rememberHistory.pre.accesskey "b">
-<!ENTITY rememberHistory.post.label "dae">
+<!ENTITY rememberHistory.label "Remember my browsing history">
+<!ENTITY rememberHistory.accesskey "b">
 
 <!ENTITY rememberDownload.label "Onthou aflaaigeskiedenis">
 <!ENTITY rememberDownload.accesskey "a">
@@ -106,7 +73,4 @@
 <!ENTITY clearOnClose.accesskey "r">
 
 <!ENTITY clearOnCloseSettings.label "Opstelling…">
-<!ENTITY clearOnCloseSettings.accesskey "p">
-
-<!ENTITY clearDataNow.label "Skrap nou…">
-<!ENTITY clearDataNow.accesskey "n">
+<!ENTITY clearOnCloseSettings.accesskey "t">

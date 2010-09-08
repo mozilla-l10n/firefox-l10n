@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey "a">
 <!ENTITY useSmoothScrolling.label "Gebruik gladde rol">
 <!ENTITY useSmoothScrolling.accesskey "a">
+<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "Kontroleer my spelling terwyl ek tik">
 <!ENTITY checkSpelling.accesskey "i">
 
@@ -26,6 +28,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "a">
 <!ENTITY checkNow.label "Kontroleer nou">
 <!ENTITY checkNow.accesskey "n">
+<!ENTITY submitCrashes.label "Submit crash reports">
+<!ENTITY submitCrashes.accesskey "S">
 
 <!ENTITY networkTab.label "Netwerk">
 
@@ -45,7 +49,7 @@
 
 <!ENTITY useCacheBefore.label "Gebruik tot">
 <!ENTITY useCacheBefore.accesskey "G">
-<!ENTITY useCacheAfter.label "MB spasie vir die kasgeheue">
+<!ENTITY useCacheAfter.label "MG spasie vir die kasgeheue">
 <!ENTITY clearCacheNow.label "Maak nou skoon">
 <!ENTITY clearCacheNow.accesskey "M">
 
@@ -54,8 +58,8 @@
 <!ENTITY autoCheck.label "Kontroleer outomaties vir bywerkings aan:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "Geïnstalleerde byvoegings">
-<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableAddonsUpdate2.label "Byvoegings">
+<!ENTITY enableAddonsUpdate2.accesskey "n">
 <!ENTITY enableSearchUpdate.label "Soekenjins">
 <!ENTITY enableSearchUpdate.accesskey "k">
 <!ENTITY whenUpdatesFound.label "Wanneer bywerking vir &brandShortName; gevind word:">

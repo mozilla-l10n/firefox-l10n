@@ -1,10 +1,11 @@
 <!ENTITY updateWizard.title "Sagtewarebywerking">
 
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "39em">
-
 <!ENTITY checking.title "Kontroleer vir bywerkings">
 <!ENTITY updateCheck.label "Soek tans vir jonger weergawes van &brandShortName;…">
+
+<!ENTITY pluginupdatesfound.title "Opdaterings vir inproppe is gevind">
+<!ENTITY pluginupdatesfound.label "Nuwer weergawes van een of meer van u inproppe is gevind.">
+<!ENTITY pluginupdateslink.label "Leer hoe om u inproppe op te gradeer.">
 
 <!ENTITY noupdatesfound.title "Geen bywerkings gevind nie">
 <!ENTITY noupdatesautoenabled.intro "Daar is geen bywerkings beskikbaar nie. &brandShortName; kan nou en dan 
@@ -40,7 +41,7 @@ onder om hierdie bywerking te installeer.">
 
 <!ENTITY incompatibleList.title "Onversoenbare byvoegings gevind">
 
-<!ENTITY downloading.title "Laai bywerking af">
+<!ENTITY downloadPage.title "Downloading &brandShortName;">
 <!ENTITY downloading.intro "Laai tans die bywerking af…">
 <!ENTITY connecting.label "Koppel tans aan die bywerkingbediener…">
 <!ENTITY verificationFailedText.label "&brandShortName; kon nie die integriteit van die trapsgewyse 
@@ -51,15 +52,21 @@ nou die volledige pakket af.">
 
 <!ENTITY details.link "Besonderhede">
 
+<!ENTITY error.title "Bywerking het misluk">
+
 <!ENTITY error.label "Kon nie vir hierdie bywerking kontroleer, dit aflaai of installeer nie. 
 &brandShortName; kon nie opgedateer word nie, omdat:">
                                            
 <!ENTITY errorManual.label "U kan &brandShortName; handmatig bywerk deur hierdie skakel te 
 besoek en die jongste weergawe af te laai:">
                                            
-<!ENTITY errorpatching.title "Bywerking het misluk">
-<!ENTITY errorpatching.intro "Die gedeeltelike bywerking kon nie toegepas word nie. &brandShortName; sal 
-weer probeer om die volledige bywerking af te laai.">
+<!ENTITY errorpatching.intro "Die gedeeltelike bywerking kon nie toegepas word nie. 
+&brandShortName; sal weer probeer deur 'n volledige bywerking af te laai.">
+
+<!ENTITY errorCertAttrNoUpdate.label "Something is preventing &brandShortName; from updating securely.
+                                           Please check you have the latest version of &brandShortName; at:">
+<!ENTITY errorCertAttrHasUpdate.label "Something is trying to trick &brandShortName; into accepting an
+                                           insecure update. Please contact your network provider and seek help.">
 
 <!ENTITY finishedPage.title "Bywerking gereed om geïnstalleer te word">
 <!ENTITY finishedPage.text "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U 

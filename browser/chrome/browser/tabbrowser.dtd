@@ -1,21 +1,2 @@
-<!ENTITY untitledTab "(Titelloos)">
-<!ENTITY newTab.label "Nuwe oortjie">
-<!ENTITY newTab.accesskey "N">
-<!ENTITY closeTab.label "Sluit oortjie">
-<!ENTITY closeTab.accesskey "S">
-<!ENTITY closeOtherTabs.accesskey "a">
-<!ENTITY closeOtherTabs.label "Sluit ander oortjies">
-<!ENTITY reloadAllTabs.label "Herlaai alle oortjies">
-<!ENTITY reloadAllTabs.accesskey "a">
-<!ENTITY reloadTab.label "Herlaai oortjie">
-<!ENTITY reloadTab.accesskey "H">
-<!ENTITY openTabInNewWindow.label "Open in nuwe venster">
-<!ENTITY openTabInNewWindow.accesskey "v">
-<!ENTITY listAllTabs.label "Lys alle oortjies">
-<!ENTITY bookmarkAllTabs.label "Boekmerk alle oortjies…">
-<!ENTITY bookmarkAllTabs.accesskey "o">
-<!ENTITY bookmarkThisTab.label "Boekmerk hierdie oortjie">
-<!ENTITY bookmarkThisTab.accesskey "B">
-<!ENTITY undoCloseTab.label "Ontdoen oortjie sluit">
-<!ENTITY undoCloseTab.accesskey "O">
+<!ENTITY closeTab.label "Close Tab">
 <!ENTITY newTabButton.tooltip "Open 'n nuwe oortjie">

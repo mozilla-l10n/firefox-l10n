@@ -1,5 +1,5 @@
 <!ENTITY editMenu.label "Redigeer">
-<!ENTITY editMenu.accesskey "R">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Ontdoen">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "O">

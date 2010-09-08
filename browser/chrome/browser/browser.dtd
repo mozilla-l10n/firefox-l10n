@@ -10,8 +10,31 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private blaaiery)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+<!-- Tab context menu -->
+
+<!ENTITY reloadTab.label "Herlaai oortjie">
+<!ENTITY reloadTab.accesskey "H">
+<!ENTITY reloadAllTabs.label "Herlaai alle oortjies">
+<!ENTITY reloadAllTabs.accesskey "a">
+<!ENTITY closeOtherTabs.label "Sluit ander oortjies">
+<!ENTITY closeOtherTabs.accesskey "a">
+<!ENTITY openTabInNewWindow.label "Open in a New Window">
+<!ENTITY openTabInNewWindow.accesskey "W">
+<!ENTITY pinTab.label "Make into App Tab">
+<!ENTITY pinTab.accesskey "p">
+<!ENTITY unpinTab.label "Make into Normal Tab">
+<!ENTITY unpinTab.accesskey "k">
+<!ENTITY moveToGroup.label "Move to Group">
+<!ENTITY moveToGroup.accesskey "M">
+<!ENTITY moveToNewGroup.label "New Group">
+<!ENTITY bookmarkAllTabs.label "Bookmark All Tabs…">
+<!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY undoCloseTab.label "Ontdoen oortjie sluit">
+<!ENTITY undoCloseTab.accesskey "O">
+<!ENTITY closeTab.label "Sluit oortjie">
+<!ENTITY closeTab.accesskey "S">
+
+<!ENTITY listAllTabs.label "Lys alle oortjies">
 
 <!ENTITY tabCmd.label "Nuwe oortjie">
 <!ENTITY tabCmd.accesskey "o">
@@ -34,6 +57,8 @@
 <!ENTITY goOfflineCmd.label "Werk aflyn">
 <!ENTITY goOfflineCmd.accesskey "W">
 
+<!ENTITY menubarCmd.label "Kieslysbalk">
+<!ENTITY menubarCmd.accesskey "K">
 <!ENTITY navbarCmd.label "Navigasienutsbalk">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Boekmerknutsbalk">
@@ -48,8 +73,11 @@
 <!ENTITY pageInfoCmd.label "Bladsyinfo">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Volskerm">
-<!ENTITY fullScreenCmd.accesskey "V">
+<!ENTITY fullScreenCmd.label "Full Screen">
+<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "v">
+<!ENTITY showAllTabsCmd.label "Wys alle oortjies">
+<!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimeer">
 <!ENTITY fullScreenRestore.tooltip "Terugkopieer">
@@ -88,26 +116,36 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Hou op om hierdie bladsy te laai">
 <!ENTITY goEndCap.tooltip "Gaan na die adres in die adresbalk">
+<!ENTITY feedButton.tooltip "Teken in op hierdie bladsy…">
 <!ENTITY printButton.label "Druk">
 <!ENTITY printButton.tooltip "Druk hierdie bladsy">
 
+<!ENTITY backForwardItem.title "Back/Forward">
 <!ENTITY locationItem.title "Ligging">
 <!ENTITY searchItem.title "Soek">
 <!ENTITY throbberItem.title "Aktiwiteitaanwyser">
-<!ENTITY bookmarksItem.title "Boekmerke">
+<!ENTITY bookmarksItem.title "Bookmarks">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label "Tuis">
+<!ENTITY tabViewButton2.label "Tab Groups">
+<!ENTITY tabViewButton2.tooltip "Group Your Tabs">
 
 <!ENTITY bookmarksButton.label "Boekmerke">
-<!ENTITY bookmarksButton.tooltip "Vertoon u boekmerke">
-<!ENTITY bookmarksSidebarCmd.accesskey "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksButton.tooltip "Display your bookmarks">
+<!ENTITY bookmarksButton.accesskey "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label "Bookmarks">
+<!ENTITY bookmarksMenuButton.tooltip "Display your bookmarks">
+<!ENTITY viewBookmarksSidebar.label "Wys in kantbalk">
+<!ENTITY viewBookmarksToolbar.label "View Bookmarks Toolbar">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label "Geskiedenis">
 <!ENTITY historyButton.tooltip "Vertoon bladsye wat u onlangs bekyk het">
@@ -127,12 +165,37 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Byvoegings">
-<!ENTITY addons.tooltip "Wys en bestuur geïnstalleerde byvoegings">
 <!ENTITY addons.accesskey "B">
+<!ENTITY addons.commandkey "A">
 
 <!ENTITY errorConsoleCmd.label "Foutkonsole">
 <!ENTITY errorConsoleCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.commandkey "j">
+
+<!ENTITY webConsoleCmd.label "Web Console">
+<!ENTITY webConsoleCmd.accesskey "W">
+<!ENTITY webConsoleCmd.commandkey "k">
+
+<!ENTITY inspectMenu.label "Inspect">
+<!ENTITY inspectMenu.accesskey "T">
+<!ENTITY inspectMenu.commandkey "I">
+
+<!ENTITY inspectPanelTitle.label "HTML">
+<!ENTITY inspectButton.label "Inspect">
+<!ENTITY inspectButton.accesskey "I">
+<!ENTITY inspectNextButton.label "Next">
+<!ENTITY inspectNextButton.accesskey "N">
+<!ENTITY inspectPreviousButton.label "Vorige">
+<!ENTITY inspectPreviousButton.accesskey "V">
+<!ENTITY inspectStyleButton.label "Style">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label "Style">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label "Object">
+<!ENTITY inspectObjectButton.accesskey "O">
 
 <!ENTITY fileMenu.label "Lêer">
 <!ENTITY fileMenu.accesskey "L">
@@ -168,8 +231,8 @@
 <!ENTITY preferencesCmdUnix.label "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey "k">
 
-<!ENTITY clearRecentHistoryCmd.label "Maak onlangse geskiedenis skoon">
-<!ENTITY clearRecentHistoryCmd.accesskey "g">
+<!ENTITY clearRecentHistory.label "Clear Recent History…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
 <!ENTITY privateBrowsingCmd.start.label "Begin privaat blaai">
@@ -180,12 +243,16 @@
 
 <!ENTITY viewMenu.label "Bekyk">
 <!ENTITY viewMenu.accesskey "k">
+<!ENTITY showTabView2.label "Group Your Tabs…">
+<!ENTITY showTabView2.accesskey "G">
 <!ENTITY viewToolbarsMenu.label "Nutsbalke">
 <!ENTITY viewToolbarsMenu.accesskey "N">
 <!ENTITY viewSidebarMenu.label "Kantbalk">
 <!ENTITY viewSidebarMenu.accesskey "b">
 <!ENTITY viewCustomizeToolbar.label "Doelmaak…">
 <!ENTITY viewCustomizeToolbar.accesskey "D">
+<!ENTITY viewTabsOnTop.label "Tabs on Top">
+<!ENTITY viewTabsOnTop.accesskey "T">
 
 <!ENTITY historyMenu.label "Geskiedenis">
 <!ENTITY historyMenu.accesskey "s">
@@ -197,18 +264,24 @@
 <!ENTITY showAllHistoryCmd2.label "Wys hele geskiedenis">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuCustomize.label "Customize">
+<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appMenuSidebars.label "Sidebars">
+<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuUnsorted.label "Ongeliasseerde boekmerke">
+<!ENTITY appMenuGettingStarted.label "Hoe om te begin">
+
+<!ENTITY developerMenu.label "Developer">
+
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.emptyText "Deursoek boekmerke en geskiedenis">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Deursoek boekmerke en geskiedenis">
-<!ENTITY urlbar.bookmark.emptyText "Deursoek boekmerke">
-<!ENTITY urlbar.history.emptyText "Deursoek geskiedenis">
-<!ENTITY urlbar.none.emptyText "Tik 'n webadres">
+<!ENTITY urlbar.placeholder "Go to a Web Site">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.switchToTab.label "Switch to tab:">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Ctrl+K (cross platform binding)
@@ -223,21 +296,23 @@
   for people to switch to Linux.
 
   Do *not* tamper with these values without talking to ben@mozilla.org
-  
+
  -->
 
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
-<!ENTITY openLinkCmd.label "Open skakel in nuwe venster">
-<!ENTITY openLinkCmd.accesskey "v">
 <!ENTITY openLinkCmdInTab.label "Open skakel in nuwe oortjie">
 <!ENTITY openLinkCmdInTab.accesskey "o">
-<!ENTITY openFrameCmd.label "Open raam in nuwe venster">
-<!ENTITY openFrameCmd.accesskey "v">
+<!ENTITY openLinkCmd.label "Open skakel in nuwe venster">
+<!ENTITY openLinkCmd.accesskey "v">
+<!ENTITY openLinkCmdInCurrent.label "Open Link">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label "Open raam in nuwe oortjie">
 <!ENTITY openFrameCmdInTab.accesskey "o">
+<!ENTITY openFrameCmd.label "Open raam in nuwe venster">
+<!ENTITY openFrameCmd.accesskey "v">
 <!ENTITY showOnlyThisFrameCmd.label "Vertoon net hierdie raam">
 <!ENTITY showOnlyThisFrameCmd.accesskey "r">
 <!ENTITY reloadCmd.commandkey "r">
@@ -260,6 +335,8 @@
 <!ENTITY reloadImageCmd.accesskey "H">
 <!ENTITY viewImageCmd.label "Bekyk prent">
 <!ENTITY viewImageCmd.accesskey "p">
+<!ENTITY viewImageInfoCmd.label "Bekyk prentinfo">
+<!ENTITY viewImageInfoCmd.accesskey "f">
 <!ENTITY viewVideoCmd.label "Bekyk video">
 <!ENTITY viewVideoCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Bekyk agtergrondprent">
@@ -293,7 +370,7 @@
 <!ENTITY saveVideoCmd.accesskey "v">
 <!ENTITY saveAudioCmd.label "Stoor klank as…">
 <!ENTITY saveAudioCmd.accesskey "o">
-<!ENTITY sendImageCmd.label "Gestuurde prent…">
+<!ENTITY sendImageCmd.label "Stuur prent…">
 <!ENTITY sendImageCmd.accesskey "u">
 <!ENTITY sendVideoCmd.label "Stuur video…">
 <!ENTITY sendVideoCmd.accesskey "u">
@@ -301,8 +378,6 @@
 <!ENTITY sendAudioCmd.accesskey "u">
 <!ENTITY copyLinkCmd.label "Kopieer skakelligging">
 <!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY copyLinkTextCmd.label "Kopieer skakelteks">
-<!ENTITY copyLinkTextCmd.accesskey "e">
 <!ENTITY copyImageCmd.label "Kopieer prentligging">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopieer prent">
@@ -311,9 +386,6 @@
 <!ENTITY copyVideoURLCmd.accesskey "o">
 <!ENTITY copyAudioURLCmd.label "Kopieer klankligging">
 <!ENTITY copyAudioURLCmd.accesskey "o">
-<!ENTITY blockImageCmd.accesskey "B">
-<!ENTITY metadataCmd.label "Eienskappe">
-<!ENTITY metadataCmd.accesskey "E">
 <!ENTITY copyEmailCmd.label "Kopieer e-posadres">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Hierdie raam">
@@ -332,6 +404,8 @@
 <!ENTITY mediaShowControls.accesskey "W">
 <!ENTITY mediaHideControls.label "Versteek kontroles">
 <!ENTITY mediaHideControls.accesskey "V">
+<!ENTITY videoFullScreen.label "Full Screen">
+<!ENTITY videoFullScreen.accesskey "F">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -369,6 +443,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Knip">
 <!ENTITY copyButton.tooltip "Kopieer">
 <!ENTITY pasteButton.tooltip "Plak">
+<!ENTITY fullScreenButton.tooltip "Display the window in full screen">
 
 <!ENTITY quitApplicationCmdWin.label "Afsluit">
 <!ENTITY quitApplicationCmdWin.accesskey "s">
@@ -398,7 +473,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Redigeer opspringerblokkering-voorkeure…">
 <!ENTITY editPopupSettings.label "Redigeer opspringerblokkering-opsies…">
-<!ENTITY editPopupSettings.accesskey "R">
+<!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label "Wysig bladsyrigting">
@@ -424,7 +499,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.undo.label "Ontdoen">
 <!ENTITY editBookmark.undo.accessKey "O">
 <!ENTITY editBookmark.edit.label "Redigeer…">
-<!ENTITY editBookmark.edit.accessKey "R">
+<!ENTITY editBookmark.edit.accessKey "e">
 
 <!ENTITY identity.unverifiedsite2 "Hierdie webwerf verskaf nie identiteitinligting nie.">
 <!ENTITY identity.connectedTo "U is gekoppel aan">
@@ -445,4 +520,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Klik om aflaaivenster te open">
 
-<!ENTITY ctrlTab.search.emptyText "Deursoek oortjies">
+<!ENTITY allTabs.filter.emptyText "Deursoek oortjies">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Browser tabs">
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+
+<!ENTITY syncTabsMenu.label "Tabs From Other Computers">
+
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!ENTITY syncMenu.label "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey "Y">
+<!ENTITY syncSetup.label "Set Up &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey "Y">
+<!ENTITY syncLogInItem.label "Connect">
+<!ENTITY syncLogInItem.accesskey "C">
+<!ENTITY syncLogOutItem.label "Disconnect">
+<!ENTITY syncLogOutItem.accesskey "D">
+<!ENTITY syncSyncNowItem.label "Sync Now">
+<!ENTITY syncSyncNowItem.accesskey "S">
