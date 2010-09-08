@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label          "Gerir conta">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY changePassword.label         "Alterar senha">
-<!ENTITY changePassphrase.label       "Alterar frase secreta">
+<!ENTITY mySyncKey.label              "Chave da do meu Sync">
 <!ENTITY resetSync.label              "Reiniciar o Sync">
 <!ENTITY differentAccount.label       "Usar uma conta diferente">
 
@@ -23,21 +23,19 @@
 <!ENTITY syncPrefsCaption.label       "Sincronizar navegador">
 <!ENTITY syncComputerName.label       "Nome do computador:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY syncModeSwitchDesc.label     "O &brandShortName; vai: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
-<!ENTITY syncEverything.label         "Sincronizar tudo">
-<!ENTITY customSync.label             "Usar as minhas configurações personalizadas">
-<!ENTITY syncEverythingDescription.label  "Os seus marcadores, histórico, senhas, preferências e separadores serão sincronizados.">
-<!ENTITY syncItem.bookmarks.label     "Sincronizar marcadores">
-<!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sincronizar separadores">
-<!ENTITY syncItem.tabs.accesskey      "d">
-<!ENTITY syncItem.history.label       "Sincronizar histórico">
-<!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Sincronizar senhas">
-<!ENTITY syncItem.passwords.accesskey "c">
-<!ENTITY syncItem.prefs.label         "Sincronizar preferências">
-<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!ENTITY syncMy.label               "Sincronizar os meus">
+<!ENTITY engine.bookmarks.label     "Marcadores">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "Separadores">
+<!ENTITY engine.tabs.accesskey      "p">
+<!ENTITY engine.history.label       "Histórico">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Senhas">
+<!ENTITY engine.passwords.accesskey "e">
+<!ENTITY engine.prefs.label         "Preferências">
+<!ENTITY engine.prefs.accesskey     "s">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termos do serviço">
