@@ -13,6 +13,15 @@
 <!ENTITY cmd.back.tooltip                     "Retroceder uma página">
 <!ENTITY cmd.forward.tooltip                  "Avançar uma página">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Todos os extras foram desactivados pelo modo de segurança.">
+<!ENTITY warning.checkcompatibility.label          "A verificação de compatibilidade do extra está desactivada. Poderá ter extras incompatíveis.">
+<!ENTITY warning.checkcompatibility.enable.label   "Activar">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Activar verificação de compatibilidade do extra">
+<!ENTITY warning.updatesecurity.label              "A verificação de compatibilidade do extra está desactivada. Poderá estar comprometico com actualizações.">
+<!ENTITY warning.updatesecurity.enable.label       "Activar">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Activar verificação de actualização de segurança do extra">
+
 <!-- categories / views -->
 <!ENTITY view.search.label 					  "Procurar">
 <!ENTITY view.discover.label                  "Obter extras">
@@ -56,6 +65,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Desactivar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Vestir tema">
+<!ENTITY cmd.enableTheme.accesskey            "V">
+<!ENTITY cmd.disableTheme.label               "Parar de vestir tema">
+<!ENTITY cmd.disableTheme.accesskey           "v">
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Remover">
