@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label          "Håndter konto">
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY changePassword.label         "Ændr adgangskode">
-<!ENTITY changePassphrase.label       "Ændr hemmelig sætning">
+<!ENTITY mySyncKey.label              "Min Sync nøgle">
 <!ENTITY resetSync.label              "Nulstil Sync">
 <!ENTITY differentAccount.label       "Brug en anden konto">
 
@@ -23,21 +23,19 @@
 <!ENTITY syncPrefsCaption.label       "Browser Sync">
 <!ENTITY syncComputerName.label       "Computernavn:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; vil: ">
-<!ENTITY syncModeSwitchDesc.accesskey "v">
-<!ENTITY syncEverything.label         "synkronisere alt">
-<!ENTITY customSync.label             "bruge mine tilpassede indstillinger">
-<!ENTITY syncEverythingDescription.label  "Dine bogmærker, historik, adgangskoder, præferencer og faneblade vil blive synkroniseret.">
-<!ENTITY syncItem.bookmarks.label     "Synkroniser bogmærker">
-<!ENTITY syncItem.bookmarks.accesskey "b">
-<!ENTITY syncItem.tabs.label          "Synkroniser faneblade">
-<!ENTITY syncItem.tabs.accesskey      "f">
-<!ENTITY syncItem.history.label       "Synkroniser historik">
-<!ENTITY syncItem.history.accesskey   "h">
-<!ENTITY syncItem.passwords.label     "Synkroniser adgangskoder">
-<!ENTITY syncItem.passwords.accesskey "a">
-<!ENTITY syncItem.prefs.label         "Synkroniser præferencer">
-<!ENTITY syncItem.prefs.accesskey     "p">
+
+<!ENTITY syncMy.label               "Synkroniser mine">
+<!ENTITY engine.bookmarks.label     "Bogmærker">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "Faneblade">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Historik">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Adgangskoder">
+<!ENTITY engine.passwords.accesskey "A">
+<!ENTITY engine.prefs.label         "Indstillinger">
+<!ENTITY engine.prefs.accesskey     "I">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjenestevilkår">
