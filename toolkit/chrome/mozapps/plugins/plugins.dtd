@@ -23,4 +23,15 @@
 <!ENTITY disabledPlugin.label                                "ഇതിനുള്ള പ്ലഗ്ഗിന്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിക്കുന്നു. നിങ്ങളുടെ പ്ലഗ്ഗിനുകള്‍ കൈകാര്യം ചെയ്യുന്നതിനായി ഇവിടെ ക്ലിക്ക് ചെയ്യുക.">
 <!ENTITY blockedPlugin.label                                 "സുരക്ഷാ കാരണങ്ങളാല്‍ ഈ പ്ലഗ്ഗിന്‍ തടഞ്ഞിരിക്കുന്നു.">
 
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "വീണ്ടും ശ്രമിയ്ക്കുന്നതിനായി">
+<!ENTITY reloadPlugin.post                                   " താള്‍ വീണ്ടും ലഭ്യമാക്കുക.">
+
+<!ENTITY report.please                                       "തകരാറിനുള്ള റിപ്പോര്‍ട്ട് അയയ്ക്കുക">
+<!ENTITY report.submitting                                   "റിപ്പോര്‍ട്ട് അയയ്ക്കുന്നു…">
+<!ENTITY report.submitted                                    "തകരാറിനുള്ള റിപ്പോര്‍ട്ട് അയച്ചു.">
+<!ENTITY report.disabled                                     "തകാരാറു് രേഖപ്പെടുത്തുന്നതു് പ്രവര്‍ത്തന രഹിതം.">
+<!ENTITY report.failed                                       "രേഖപ്പെടുത്തല്‍ പരാജയപ്പെട്ടു.">
+<!ENTITY report.unavailable                                  "റിപ്പോര്‍ട്ട് ലഭ്യമല്ല.">
+
 
