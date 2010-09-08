@@ -66,7 +66,7 @@
 <!-- Existing Account Page 2: Sync Key -->
 <!ENTITY setup.existingSyncKeyPage.title "Por favor escreva a sua chave do Sync">
 <!ENTITY setup.existingSyncKeyPage.description "A chave do Sync foi criada para si ou escreveu a sua quando iniciou a sessão pela primeira vez no &syncBrand.fullName.label;. Não é igual à sua senha.">
-<!ENTITY setup.existingSyncKeyPage.description "Pode encontrar a sua chave do Sync indo a outro computador e verificar as suas senhas guardadas em Segurança. Se mesmo assim não conseguir a chave do Sync correcta, pode reiniciá-la, mas irá perder quaisquer dados guardados no servidor.">
+<!ENTITY existingSyncKeyHelp.description "Pode encontrar a sua chave do Sync indo ao seu outro computador e verificar as senhas guardadas em Segurança. Se mesmo assim não conseguir a chave do Sync correcta, pode reiniciá-la, mas irá perder quaisquer dados guardados no servidor.">
 <!ENTITY lostSyncKey.label            "Perdi a minha chave do Sync">
 <!ENTITY verifying.label              "A verificar…">
 
