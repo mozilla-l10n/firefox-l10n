@@ -5,10 +5,8 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; ræsisíða">
-<!ENTITY abouthome.brandLogo.title "&brandFullName; táknmerki">
 <!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> ræsing">
-<!ENTITY abouthome.searchEngineLogo.title "Táknmynd leitarvélar">
 <!ENTITY abouthome.searchEngineButton.label "Leita">
 <!ENTITY abouthome.searchEngineLinks.advanced "Ítarleg leit">
 <!ENTITY abouthome.searchEngineLinks.preferences "Valkostir">
