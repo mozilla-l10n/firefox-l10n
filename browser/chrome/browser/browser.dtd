@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                  "Flytt til gruppe">
 <!ENTITY  moveToGroup.accesskey              "F">
 <!ENTITY  moveToNewGroup.label               "Ny gruppe">
-<!ENTITY  bookmarkThisTab.label              "Bokmerk denne fana">
-<!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle fanene …">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  undoCloseTab.label                 "Angre attlating av fane">
@@ -99,7 +97,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Abonnér på denne sida">
 <!ENTITY subscribeToPageMenuitem.label "Abonnér på denne sida …">
 <!ENTITY addCurPagesCmd.label "Bokmerk alle fanene …">
-<!ENTITY organizeBookmarks.label "Organiser bokmerke …">
+<!ENTITY showAllBookmarks.label "Vis alle bokmerka …">
 <!ENTITY bookmarkAllCmd.label "Bokmerk alle fanene …">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
 
@@ -168,6 +166,7 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Utvidingar">
 <!ENTITY addons.accesskey             "U">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Feilmeldingar">
 <!ENTITY errorConsoleCmd.accesskey    "F">
