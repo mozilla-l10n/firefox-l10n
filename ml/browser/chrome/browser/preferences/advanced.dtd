@@ -21,6 +21,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "ഉടന്‍ പരിശോധിക്കുക">
 <!ENTITY checkNow.accesskey              "N">
+<!ENTITY submitCrashes.label             "തകരാറിനുള്ള റിപ്പോര്‍ട്ടുകള്‍ രേഖപ്പെടുത്തുക">
+<!ENTITY submitCrashes.accesskey         "S">
 
 <!-- ENTITY languages.label "ഭാഷകള്‍ " -->
 <!-- ENTITY chooseLanguage.label "താളുകള്‍ കാണുവാന്‍ നിങ്ങള്‍ക്കു് താല്‍പര്യമുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക " -->
