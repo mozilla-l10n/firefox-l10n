@@ -8,26 +8,22 @@
 <!ENTITY manageAccount.label "Gestione account">
 <!ENTITY manageAccount.accesskey "a">
 <!ENTITY changePassword.label "Cambia la password">
-<!ENTITY changePassphrase.label "Cambia la frase segreta">
+<!ENTITY mySyncKey.label "Chiave di sincronizzazione">
 <!ENTITY resetSync.label "Ripristina la sincronizzazione">
 <!ENTITY differentAccount.label "Utilizza un altro account">
 <!ENTITY syncPrefsCaption.label "Sincronizzazione del browser">
 <!ENTITY syncComputerName.label "Nome del computer:">
 <!ENTITY syncComputerName.accesskey "c">
-<!ENTITY syncModeSwitchDesc.label "Opzioni di sincronizzazione:">
-<!ENTITY syncModeSwitchDesc.accesskey "s">
-<!ENTITY syncEverything.label "sincronizza tutto">
-<!ENTITY customSync.label "utilizza impostazioni personalizzate">
-<!ENTITY syncEverythingDescription.label "Vengono sincronizzati i segnalibri, la cronologia, le password, le preferenze e le schede.">
-<!ENTITY syncItem.bookmarks.label "Sincronizza i segnalibri">
-<!ENTITY syncItem.bookmarks.accesskey "e">
-<!ENTITY syncItem.tabs.label "Sincronizza le schede">
-<!ENTITY syncItem.tabs.accesskey "h">
-<!ENTITY syncItem.history.label "Sincronizza la cronologia">
-<!ENTITY syncItem.history.accesskey "c">
-<!ENTITY syncItem.passwords.label "Sincronizza le password">
-<!ENTITY syncItem.passwords.accesskey "w">
-<!ENTITY syncItem.prefs.label "Sincronizza le preferenze">
-<!ENTITY syncItem.prefs.accesskey "z">
+<!ENTITY syncMy.label "Sincronizza">
+<!ENTITY engine.bookmarks.label "Segnalibri">
+<!ENTITY engine.bookmarks.accesskey "e">
+<!ENTITY engine.tabs.label "Schede">
+<!ENTITY engine.tabs.accesskey "h">
+<!ENTITY engine.history.label "Cronologia">
+<!ENTITY engine.history.accesskey "C">
+<!ENTITY engine.passwords.label "Password">
+<!ENTITY engine.passwords.accesskey "w">
+<!ENTITY engine.prefs.label "Preferenze">
+<!ENTITY engine.prefs.accesskey "z">
 <!ENTITY prefs.tosLink.label "Condizioni di utilizzo del servizio">
 <!ENTITY prefs.ppLink.label "Informativa sulla privacy">
