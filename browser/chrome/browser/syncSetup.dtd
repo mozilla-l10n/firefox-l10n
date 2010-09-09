@@ -1,4 +1,4 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; ਸੈਟਅੱਪ">
 
 <!-- First page of the wizard -->
 
@@ -11,72 +11,72 @@
 <!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Server">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom.label    "Use a custom server">
-<!ENTITY signIn.username.label      "User Name">
+<!ENTITY server.label               "ਸਰਵਰ">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; ਸਰਵਰ">
+<!ENTITY serverType.custom.label    "ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ">
+<!ENTITY signIn.username.label      "ਯੂਜ਼ਰ ਨਾਂ">
 <!ENTITY signIn.username.accesskey  "U">
-<!ENTITY signIn.password.label      "Password">
+<!ENTITY signIn.password.label      "ਪਾਸਵਰਡ">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY signIn.serverURL.label     "ਸਰਵਰ URL">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
+<!ENTITY setup.newAccountDetailsPage.title.label "ਅਕਾਊਂਟ ਵੇਰਵਾ">
+<!ENTITY setup.confirmPassword.label  "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ">
 <!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
+<!ENTITY setup.emailAddress.label     "ਈਮੇਲ ਐਡਰੈੱਸ">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
+<!ENTITY setup.tosAgree1.label      "ਮੈਂ ">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
-<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosLink.label        "ਸਰਵਿਸ ਦੀਆਂ ਸ਼ਰਤਾਂ">
+<!ENTITY setup.tosAgree2.label      "ਅਤੇ">
+<!ENTITY setup.ppLink.label         "ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ">
+<!ENTITY setup.tosAgree3.label      " ਨਾਲ ਸਹਿਮਤ ਹਾਂ">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
 <!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
+<!ENTITY syncKeyEntry.label        "ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
+<!ENTITY syncKeyGenerate.label     "ਬਣਾਓ">
 <!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Email…">
+<!ENTITY button.syncKeyBackup.email.label     "ਈਮੇਲ…">
 <!ENTITY button.syncKeyBackup.email.accesskey "E">
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
+<!ENTITY button.syncKeyBackup.print.label     "ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
+<!ENTITY button.syncKeyBackup.save.label      "ਸੰਭਾਲੋ…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!ENTITY page.syncKeyBackup.title     "Your Firefox Sync Key">
+<!ENTITY page.syncKeyBackup.title     "ਤੁਹਾਡੀ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਕੁੰਜੀ">
 <!ENTITY page.syncKeyBackup.descr     "This secret key is used to encrypt your personal data. It is not uploaded to the server and cannot be recovered. Do not lose it or share with other people.">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ ਰੋਬੋਟ ਮਸ਼ੀਨ ਨਹੀਂ ਹੋ">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY connecting.label             "Connecting…">
+<!ENTITY setup.existingAccount.title.label "ਅਕਾਊਂਟ ਜਾਣਕਾਰੀ ਦਿਓ">
+<!ENTITY resetPassword.label          "ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
+<!ENTITY connecting.label             "ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
+<!ENTITY setup.existingSyncKeyPage.title "ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਦਿਓ ਜੀ">
 <!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
 <!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
-<!ENTITY verifying.label              "Verifying…">
+<!ENTITY lostSyncKey.label            "ਮੈਂ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਗੁਆ ਦਿੱਤੀ ਹੈ">
+<!ENTITY verifying.label              "ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY setup.optionsPage.title      "ਸਿੰਕ ਚੋਣਾਂ">
+<!ENTITY syncComputerName.label       "ਕੰਪਿਊਟਰ ਨਾਂ:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "ਸਿੰਕ ਕਰੋ">
+<!ENTITY engine.bookmarks.label     "ਮੇਰੇ ਬੁੱਕਮਾਰਕ">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "ਟੈਬ">
 <!ENTITY engine.tabs.accesskey      "T">
@@ -84,11 +84,11 @@
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "ਪਾਸਵਰਡ">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.label         "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY engine.prefs.accesskey     "S">
 
 <!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
+<!ENTITY choice2.merge.recommended.label "ਸਿਫਾਰਸ਼ੀ:">
 <!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
 
@@ -102,6 +102,6 @@
 <!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "ਸੈਟਅੱਪ ਪੂਰਾ ਹੋਇਆ">
+<!ENTITY changeOptions.label "ਤੁਸੀਂ ਇਹ ਪਸੰਦ ਨੂੰ ਹੇਠਾਂ ਸਿੰਕ ਚੋਣ ਵਿੱਚੋਂ ਬਦਲ ਸਕਦੇ ਹੋ।">
+<!ENTITY continueUsing.label "ਤੁਸੀਂ ਹੁਣ &brandShortName; ਨੂੰ ਵਰਤਣਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ।">
