@@ -15,7 +15,6 @@
 <!ENTITY manageAccount.label          "Pārvaldīt kontu">
 <!ENTITY manageAccount.accesskey      "P">
 <!ENTITY changePassword.label         "Mainīt paroli">
-<!ENTITY changePassphrase.label       "Mainīt drošības paroli">
 <!ENTITY resetSync.label              "Atiestatīt sinhronizāciju">
 <!ENTITY differentAccount.label       "Izmantot citu kontu">
 
@@ -23,21 +22,19 @@
 <!ENTITY syncPrefsCaption.label       "Pārlūka sinhronizācija">
 <!ENTITY syncComputerName.label       "Datora nosaukums:">
 <!ENTITY syncComputerName.accesskey   "d">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName;: ">
-<!ENTITY syncModeSwitchDesc.accesskey "f">
-<!ENTITY syncEverything.label         "Sinhronizēs visu">
-<!ENTITY customSync.label             "Izmantos pielāgotus iestatījumus">
-<!ENTITY syncEverythingDescription.label  "Jūsu grāmatzīmes, pārlūkošanas vēsture, paroles, iestatījumi un cilnes tiks sinhronizētas.">
-<!ENTITY syncItem.bookmarks.label     "Sinhronzēt grāmatzīmes">
-<!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sinhronizēt cilnes">
-<!ENTITY syncItem.tabs.accesskey      "t">
-<!ENTITY syncItem.history.label       "Sinhronizēt pārlkošanas vēsturi">
-<!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Sinhronizēt paroles">
-<!ENTITY syncItem.passwords.accesskey "P">
-<!ENTITY syncItem.prefs.label         "Sinhronizēt iestatījumus">
-<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!ENTITY syncMy.label               "Sinhronizēt manas">
+<!ENTITY engine.bookmarks.label     "Grāmatzīmes">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "Cilnes">
+<!ENTITY engine.tabs.accesskey      "C">
+<!ENTITY engine.history.label       "Vēsturi">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Paroles">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "Iestatījumus">
+<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY mySyncKey.label              "Mana sinhronizācijas atslēga">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Lietošanas noteikumi">
