@@ -32,9 +32,9 @@
 <!ENTITY syncKeyEntry.accesskey "к">
 <!ENTITY syncKeyGenerate.label "Сгенерировать">
 <!ENTITY syncKeyBackup.description "Ваш ключ синхронизации требуется для получения доступа к &syncBrand.fullName.label; с других машин. Пожалуйста, создайте его резервную копию. Мы не можем помочь вам восстановить ваш ключ синхронизации.">
-<!ENTITY button.syncKeyBackup.email.label "По почте…">
+<!ENTITY button.syncKeyBackup.email.label "Послать по почте…">
 <!ENTITY button.syncKeyBackup.email.accesskey "о">
-<!ENTITY button.syncKeyBackup.print.label "Печать…">
+<!ENTITY button.syncKeyBackup.print.label "Распечатать…">
 <!ENTITY button.syncKeyBackup.print.accesskey "ч">
 <!ENTITY button.syncKeyBackup.save.label "Сохранить…">
 <!ENTITY button.syncKeyBackup.save.accesskey "х">
@@ -45,7 +45,7 @@
 <!ENTITY resetPassword.label "Сбросить пароль">
 <!ENTITY connecting.label "Соединяюсь…">
 <!ENTITY setup.existingSyncKeyPage.title "Пожалуйста, введите свой ключ синхронизации">
-<!ENTITY setup.existingSyncKeyPage.description "Ключ синхронизации был для вас сгенерирован, или вы ввели свой собственный, когда в первый раз подключились к &syncBrand.fullName.label;. Это не то же самое, что ваш пароль.">
+<!ENTITY setup.existingSyncKeyPage.description "Ключ синхронизации был для вас сгенерирован, или вы ввели свой собственный ключ, когда в первый раз подключились к &syncBrand.fullName.label;. Это не то же самое, что ваш пароль.">
 <!ENTITY existingSyncKeyHelp.description "Вы можете найти ваш сохранённый ключ синхронизации, перейдя на другой ваш компьютер, открыв вкладку «Защита» и нажав на кнопку «Сохранённые пароли». Если вы всё же не смогли найти верный ключ синхронизации, вы можете сбросить его, но при этом вы потеряете все данные, сохранённые на сервере.">
 <!ENTITY lostSyncKey.label "Я потерял мой ключ синхронизации">
 <!ENTITY verifying.label "Проверка…">
