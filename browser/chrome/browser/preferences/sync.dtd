@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; ynstelle">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "Mei &syncBrand.fullName.label; kinne jo jo skiednis, blêdwizers, wachtwurden en iepen ljepblêden tusken al jo apparaten benaderje.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-account">
+<!ENTITY currentUser.label            "Aktuele brûker:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Bywurkje">
+<!ENTITY resetPass.label              "Werinisjalisearje">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Account beheare">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY changePassword.label         "Wachtwurd wizigje">
+<!ENTITY changePassphrase.label       "Geheime wurd wizigje">
+<!ENTITY resetSync.label              "Syngronisaasje werinisjalisearje">
+<!ENTITY differentAccount.label       "In oar account brûke">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browsersyngronisaasje">
+<!ENTITY syncComputerName.label       "Kompjûternamme:">
+<!ENTITY syncComputerName.accesskey   "k">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; sil: ">
+<!ENTITY syncModeSwitchDesc.accesskey "s">
+<!ENTITY syncEverything.label         "Alles syngronisearje">
+<!ENTITY customSync.label             "Myn oanpaste ynstellings brûke">
+<!ENTITY syncEverythingDescription.label  "Jo blêdwizers, skiednis, wachtwurden, foarkarren en ljepblêden sille syngronisearre wurde.">
+<!ENTITY syncItem.bookmarks.label     "Blêdwizers syngronisearje">
+<!ENTITY syncItem.bookmarks.accesskey "B">
+<!ENTITY syncItem.tabs.label          "Ljepblêden syngronisearje">
+<!ENTITY syncItem.tabs.accesskey      "L">
+<!ENTITY syncItem.history.label       "Skiednis syngronisearje">
+<!ENTITY syncItem.history.accesskey   "S">
+<!ENTITY syncItem.passwords.label     "Wachtwurden syngronisearje">
+<!ENTITY syncItem.passwords.accesskey "W">
+<!ENTITY syncItem.prefs.label         "Foarkarren syngronisearje">
+<!ENTITY syncItem.prefs.accesskey     "F">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Tsjinstbetingsten (en)">
+<!ENTITY prefs.ppLink.label         "Privacybelied (en)">

@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey     "m">
 <!ENTITY useSmoothScrolling.label       "Floeiend skowe brûke">
 <!ENTITY useSmoothScrolling.accesskey   "l">
+<!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontrolearje myn stavering as ik typ">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -49,6 +51,7 @@
 <!ENTITY useCacheAfter.label            "MB romte foar de buffer">
 <!ENTITY clearCacheNow.label            "No leechmeitsje">
 <!ENTITY clearCacheNow.accesskey        "l">
+<!ENTITY smartSizeCache.label           "Lit &brandShortName; de grutte fan myn buffer beheare.">
 
 <!ENTITY updateTab.label                "Fernijing">
 

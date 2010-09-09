@@ -5,7 +5,7 @@
      Luna since widget heights are different based on the OS theme -->
 <!ENTITY  prefWinMinSize.styleWin2		"width: 48em; min-height: 39em;">
 <!ENTITY  prefWinMinSize.styleMac		"width: 53em; min-height: 40em;">
-<!ENTITY  prefWinMinSize.styleGNOME		"width: 56em; min-height: 39.5em;">
+<!ENTITY  prefWinMinSize.styleGNOME		"width: 56em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title				"Algemien">
 <!ENTITY  paneTabs.title 				"Ljepblêden">
@@ -14,3 +14,6 @@
 <!ENTITY  panePrivacy.title				"Privacy">
 <!ENTITY  paneSecurity.title			"Befeiliging">
 <!ENTITY  paneAdvanced.title			"Avansearre">
+
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "Sync">
