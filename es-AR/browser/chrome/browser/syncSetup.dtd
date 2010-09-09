@@ -2,12 +2,16 @@
 
 <!-- First page of the wizard -->
 
+<!ENTITY setup.pickSetupType.description "Bienvenido, si nunca usó &syncBrand.fullName.label; antes, necesitará crear una nueva cuenta.">
+<!ENTITY button.createNewAccount.label "Crear una nueva cuenta">
+<!ENTITY button.haveAccount.label "Ya tengo una cuenta de &syncBrand.fullName.label;">
+
 <!ENTITY setup.choicePage.title.label "¿Ha usado &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label "Nunca usé &syncBrand.shortName.label; antes">
 <!ENTITY setup.choicePage.existing.label "Ya estoy usando &syncBrand.shortName.label; en otra computadora">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label "Conectar a">
+<!ENTITY server.label               "Servidor">
 <!ENTITY serverType.main.label "Servidor de &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label "Usar un servidor personalizado">
 <!ENTITY signIn.username.label "Usuario">
@@ -31,51 +35,62 @@
 <!ENTITY setup.tosAgree2.label "y la">
 <!ENTITY setup.ppLink.label "Política de privacidad">
 <!ENTITY setup.tosAgree3.label "">
-<!ENTITY setup.tosAgree2.accesskey "y">
+<!ENTITY setup.tosAgree2.accesskey "">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label "Ingrese su frase secreta">
-<!ENTITY passphraseDesc.label "Ingrese una frase secreta. Se usará para cifrar todos sus datos así solamente usted puede accederlos. Nunca se guarda en el servidor, así que ¡no la pierda!">
-<!ENTITY passphraseDesc2.label "Debe tener al menos 12 caracteres de longitud y no debe coincidir con la contraseña de su cuenta.">
-<!ENTITY passphraseEntry.label "Frase secreta">
-<!ENTITY passphraseEntry.accesskey "F">
-<!ENTITY passphraseConfirm.label "Confirmar">
-<!ENTITY passphraseConfirm.accesskey "C">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; se preocupa por su privacidad">
+<!ENTITY setup.newSyncKeyPage.description.label "Para asegurar su total privacidad, todos sus datos son cifrados antes de ser subidos. La clave para descifrar sus datos no es subida.">
+<!ENTITY syncKeyEntry.label        "Su clave de sincronización">
+<!ENTITY syncKeyEntry.accesskey    "z">
+<!ENTITY syncKeyGenerate.label     "Generar">
+<!ENTITY syncKeyBackup.description "Se requiere su clave de sincronización para acceder a &syncBrand.fullName.label; en otras máquinas. Debe crear una copia de seguridad. No podemos ayudarlo a recuperar su clave de sincronización.">
 
-<!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Preferencias de sincronización de navegador">
-<!ENTITY syncComputerName.label "Nombre de computadora:">
-<!ENTITY syncComputerName.accesskey "N">
-<!ENTITY syncModeSwitchDesc.label "&brandShortName;: ">
-<!ENTITY syncModeSwitchDesc.accesskey "F">
-<!ENTITY syncEverything.label "Sincronizará todo">
-<!ENTITY customSync.label "Usará mis preferencias personalizadas">
-<!ENTITY syncEverythingDescription.label "Se sincronizarán sus marcadores, historial, contraseñas, preferencias y pestañas.">
-<!ENTITY syncItem.bookmarks.label "Sincronizar marcadores">
-<!ENTITY syncItem.bookmarks.accesskey "S">
-<!ENTITY syncItem.tabs.label "Sincronizar pestañas">
-<!ENTITY syncItem.tabs.accesskey "S">
-<!ENTITY syncItem.history.label "Sincronizar historial">
-<!ENTITY syncItem.history.accesskey "S">
-<!ENTITY syncItem.passwords.label "Sincronizar contraseñas">
-<!ENTITY syncItem.passwords.accesskey "S">
-<!ENTITY syncItem.prefs.label "Sincronizar preferencias">
-<!ENTITY syncItem.prefs.accesskey "S">
+<!ENTITY button.syncKeyBackup.email.label     "Correo electrónico…">
+<!ENTITY button.syncKeyBackup.email.accesskey "e">
+<!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
+<!ENTITY button.syncKeyBackup.print.accesskey "p">
+<!ENTITY button.syncKeyBackup.save.label      "Guardar…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "G">
 
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label "Confirme que no es un robot ;)">
+<!ENTITY page.syncKeyBackup.title     "Su clave de sincronización de Firefox">
+<!ENTITY page.syncKeyBackup.descr     "Esta clave secreta se usa para cifrar sus datos personales. No es subida al servidor ni puede ser recuperada. No la pierda ni comparta con otras personas.">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Confirme que no es un robot">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Ingrese información de cuenta">
 <!ENTITY resetPassword.label "Restablecer contraseña">
 <!ENTITY connecting.label "Conectando…">
 
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label "Ingrese frase secreta">
-<!ENTITY passphraseDesc3.label "Ingrese su frase secreta. Debe ser la misma que se usó para cifrar sus datos.">
-<!ENTITY passphraseHelp.label "Su frase secreta tiene al menos 12 caracteres de longitud y no es su contraseña. Puede encontrar su frase secreta guardada mirando en otra computadoras y buscando en las Contraseñas guardadas en Seguridad. Si aún no puede obtener la frase secreta correcta, puede elegir restablecerla, pero perderá todos los datos guardados en el servidor.">
-<!ENTITY changePassphrase.label "Cambiar frase secreta">
-<!ENTITY verifying.label "Verificando…">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Ingrese su clave de sincronización">
+<!ENTITY setup.existingSyncKeyPage.description "La clave de sincronización fue generada o ingreso una propia al ingresar por primera vez a &syncBrand.fullName.label;. No es la misma que la contraseña.">
+<!ENTITY existingSyncKeyHelp.description "Puede encontrar su clave de sincronización guardada yendo a otra computadora y mirando en las contraseñas guardadas en Seguridad. Si aún no puede obtener la clave de sincronización correcta, puede reiniciarla, pero perderá todos los datos guardados en el servidor.">
+<!ENTITY lostSyncKey.label            "Perdí mi clave de sincronización">
+<!ENTITY verifying.label              "Verificando…">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Opciones de sincronización">
+<!ENTITY syncComputerName.label       "Nombre de computadora:">
+<!ENTITY syncComputerName.accesskey   "c">
+
+<!ENTITY syncMy.label               "Sincronizar mis">
+<!ENTITY engine.bookmarks.label     "Marcadores">
+<!ENTITY engine.bookmarks.accesskey "M">
+<!ENTITY engine.tabs.label          "Pestañas">
+<!ENTITY engine.tabs.accesskey      "t">
+<!ENTITY engine.history.label       "Historial">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Contraseñas">
+<!ENTITY engine.passwords.accesskey "n">
+<!ENTITY engine.prefs.label         "Preferencias">
+<!ENTITY engine.prefs.accesskey     "s">
+
+<!ENTITY choice2.merge.main.label      "Mezclar los datos de mi computadora con mis datos de &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Recomendado:">
+<!ENTITY choice2.client.main.label     "Reemplazar todos los datos en esta computadora con los datos de &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Reemplazar todos los otros dispositivos con los datos de esta computadora">
 
 <!-- New & Existing Account: Merge Options -->
 <!ENTITY setup.mergeChoicePage.title.label "¿Cómo quiere empezar?">
@@ -94,5 +109,7 @@
 <!ENTITY confirm.server.warning.label "ADVERTENCIA: ¡Sus datos locales reemplazarán todos los datos de &brandShortName; en estos dispositivos!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label "¡Instalación completa!">
-<!ENTITY setup.successPage.desc.label "¡Felicitaciones! &brandShortName; ahora está configurado para sincronizar automáticamente su información. No olvide instalar &syncBrand.fullName.label; en todos sus dispositivos. Ahora puede continuar usando &brandShortName;.">
+<!ENTITY setup.successPage.title "Instalación completa">
+<!ENTITY changeOptions.label "Puede cambiar esta preferencia selecionando las opciones de Sync debajo.">
+<!ENTITY continueUsing.label "Ahora puede continuar usando &brandShortName;.">
+
