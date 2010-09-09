@@ -1,12 +1,12 @@
-<!ENTITY addons.windowTitle               "Gestionnaire de modules complémentaires">
-<!ENTITY search.placeholder               "Rechercher dans tous les modules">
-<!ENTITY loading.label                    "Chargement…">
-<!ENTITY listEmpty.installed.label        "Vous n'avez aucun module de ce type installé">
-<!ENTITY listEmpty.availableUpdates.label "Aucune mise à jour trouvée">
-<!ENTITY listEmpty.recentUpdates.label    "Vous n'avez pas mis à jour vos modules complémentaires depuis un certain temps">
-<!ENTITY listEmpty.findUpdates.label      "Vérifier les mises à jour">
-<!ENTITY listEmpty.search.label           "Aucun module correspondant">
-<!ENTITY listEmpty.button.label           "En apprendre plus sur les modules complémentaires">
+<!ENTITY addons.windowTitle                   "Gestionnaire de modules complémentaires">
+<!ENTITY search.placeholder                   "Rechercher dans tous les modules">
+<!ENTITY loading.label                        "Chargement…">
+<!ENTITY listEmpty.installed.label            "Vous n'avez aucun module de ce type installé">
+<!ENTITY listEmpty.availableUpdates.label     "Aucune mise à jour trouvée">
+<!ENTITY listEmpty.recentUpdates.label        "Vous n'avez pas mis à jour vos modules complémentaires depuis un certain temps">
+<!ENTITY listEmpty.findUpdates.label          "Vérifier les mises à jour">
+<!ENTITY listEmpty.search.label               "Aucun module correspondant">
+<!ENTITY listEmpty.button.label               "En apprendre plus sur les modules complémentaires">
 <!ENTITY installFromFile.label                "Installer depuis un fichier…">
 <!ENTITY installFromFile.accesskey            "I">
 
@@ -23,15 +23,15 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activer la vérification de mises à jour de sécurité pour les modules complémentaires">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                "Rechercher">
-<!ENTITY view.discover.label              "Catalogue">
-<!ENTITY view.locales.label               "Langues">
-<!ENTITY view.searchengines.label         "Moteurs de recherche">
-<!ENTITY view.features.label              "Extensions">
+<!ENTITY view.search.label                    "Rechercher">
+<!ENTITY view.discover.label                  "Catalogue">
+<!ENTITY view.locales.label                   "Langues">
+<!ENTITY view.searchengines.label             "Moteurs de recherche">
+<!ENTITY view.features.label                  "Extensions">
 <!ENTITY view.appearance2.label               "Apparence">
-<!ENTITY view.plugins.label               "Plugins">
-<!ENTITY view.recentUpdates.label         "Mises à jour récentes">
-<!ENTITY view.availableUpdates.label      "Mises à jour disponibles">
+<!ENTITY view.plugins.label                   "Plugins">
+<!ENTITY view.recentUpdates.label             "Mis à jour">
+<!ENTITY view.availableUpdates.label          "À mettre à jour">
 <!ENTITY view.utilites.preferences.tooltip    "Options pour tous les modules">
 <!ENTITY view.utilites.preferencesUnix.tooltip "Préférences pour tous les modules">
 
@@ -42,56 +42,56 @@
 <!ENTITY updates.viewUpdates.accesskey        "A">
 <!ENTITY updates.backgroudUpdateCheck.label   "Vérifier les mises à jour automatiquement">
 <!ENTITY updates.backgroudUpdateCheck.accesskey "V">
-<!ENTITY updates.updating.label           "Mise à jour des modules">
-<!ENTITY updates.installed.label          "Vos modules ont été mis à jour.">
-<!ENTITY updates.downloaded.label         "Les mises à jour de vos modules ont été téléchargées.">
-<!ENTITY updates.restart.label            "Redémarrer maintenant pour terminer l'installation">
-<!ENTITY updates.noneFound.label          "Aucune mise à jour disponible">
-<!ENTITY updates.manualUpdatesFound.label "Afficher les mises à jour disponibles">
+<!ENTITY updates.updating.label               "Mise à jour des modules">
+<!ENTITY updates.installed.label              "Vos modules ont été mis à jour.">
+<!ENTITY updates.downloaded.label             "Les mises à jour de vos modules ont été téléchargées.">
+<!ENTITY updates.restart.label                "Redémarrer maintenant pour terminer l'installation">
+<!ENTITY updates.noneFound.label              "Aucune mise à jour disponible">
+<!ENTITY updates.manualUpdatesFound.label     "Afficher les mises à jour disponibles">
 
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label            "Afficher plus d'informations">
-<!ENTITY cmd.showDetails.accesskey        "A">
-<!ENTITY cmd.findUpdates.label            "Rechercher des mises à jour">
-<!ENTITY cmd.findUpdates.accesskey        "R">
-<!ENTITY cmd.preferencesWin.label         "Options">
-<!ENTITY cmd.preferencesWin.accesskey     "O">
-<!ENTITY cmd.preferencesUnix.label        "Préférences">
-<!ENTITY cmd.preferencesUnix.accesskey    "P">
-<!ENTITY cmd.about.label                  "À propos de">
-<!ENTITY cmd.about.accesskey              "o">
+<!ENTITY cmd.showDetails.label                "Afficher plus d'informations">
+<!ENTITY cmd.showDetails.accesskey            "A">
+<!ENTITY cmd.findUpdates.label                "Rechercher des mises à jour">
+<!ENTITY cmd.findUpdates.accesskey            "R">
+<!ENTITY cmd.preferencesWin.label             "Options">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "Préférences">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.about.label                      "À propos de">
+<!ENTITY cmd.about.accesskey                  "o">
 
-<!ENTITY cmd.enableAddon.label            "Activer">
-<!ENTITY cmd.enableAddon.accesskey        "A">
-<!ENTITY cmd.disableAddon.label           "Désactiver">
-<!ENTITY cmd.disableAddon.accesskey       "D">
-<!ENTITY cmd.enableTheme.label            "Appliquer le thème">
-<!ENTITY cmd.enableTheme.accesskey        "A">
-<!ENTITY cmd.disableTheme.label           "Enlever le thème">
-<!ENTITY cmd.disableTheme.accesskey       "E">
-<!ENTITY cmd.installAddon.label           "Installer">
-<!ENTITY cmd.installAddon.accesskey       "I">
-<!ENTITY cmd.uninstallAddon.label         "Supprimer">
-<!ENTITY cmd.uninstallAddon.accesskey     "S">
-<!ENTITY cmd.showPreferencesWin.label     "Options">
-<!ENTITY cmd.showPreferencesWin.tooltip   "Modifier les options de ce module complémentaire">
-<!ENTITY cmd.showPreferencesUnix.label    "Préférences">
-<!ENTITY cmd.showPreferencesUnix.tooltip  "Modifier les préférences de ce module complémentaire">
-<!ENTITY cmd.contribute.label             "Contribuer">
-<!ENTITY cmd.contribute.accesskey         "C">
-<!ENTITY cmd.contribute.tooltip           "Contribuer au développement de ce module complémentaire">
-<!ENTITY cmd.showReleaseNotes.label       "Afficher les notes de version">
-<!ENTITY cmd.showReleaseNotes.tooltip     "Afficher les notes de version pour cette mise à jour">
-<!ENTITY cmd.hideReleaseNotes.label       "Masquer les notes de version">
-<!ENTITY cmd.hideReleaseNotes.tooltip     "Masquer les notes de version pour cette mise à jour">
+<!ENTITY cmd.enableAddon.label                "Activer">
+<!ENTITY cmd.enableAddon.accesskey            "A">
+<!ENTITY cmd.disableAddon.label               "Désactiver">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Appliquer le thème">
+<!ENTITY cmd.enableTheme.accesskey            "A">
+<!ENTITY cmd.disableTheme.label               "Enlever le thème">
+<!ENTITY cmd.disableTheme.accesskey           "E">
+<!ENTITY cmd.installAddon.label               "Installer">
+<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.uninstallAddon.label             "Supprimer">
+<!ENTITY cmd.uninstallAddon.accesskey         "S">
+<!ENTITY cmd.showPreferencesWin.label         "Options">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Modifier les options de ce module complémentaire">
+<!ENTITY cmd.showPreferencesUnix.label        "Préférences">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Modifier les préférences de ce module complémentaire">
+<!ENTITY cmd.contribute.label                 "Contribuer">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Contribuer au développement de ce module complémentaire">
+<!ENTITY cmd.showReleaseNotes.label           "Afficher les notes de version">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Afficher les notes de version pour cette mise à jour">
+<!ENTITY cmd.hideReleaseNotes.label           "Masquer les notes de version">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Masquer les notes de version pour cette mise à jour">
 
 <!-- detail view -->
-<!ENTITY detail.version.label             "Version">
+<!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Dernière mise à jour">
-<!ENTITY detail.creator.label             "Développeur">
-<!ENTITY detail.homepage.label            "Page d'accueil">
-<!ENTITY detail.numberOfDownloads.label   "Téléchargements">
+<!ENTITY detail.creator.label                 "Développeur">
+<!ENTITY detail.homepage.label                "Page d'accueil">
+<!ENTITY detail.numberOfDownloads.label       "Téléchargements">
 
 <!ENTITY detail.contributions.description     "Le développeur de ce module demande que vous l'aidiez à assurer la poursuite de son développement en lui versant une petite contribution.">
 
@@ -116,17 +116,18 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.label                     "Appréciation :">
+<!ENTITY rating.label                         "Appréciation :">
 
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip           "Pause">
-<!ENTITY progress.cancel.tooltip          "Annuler">
+<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.cancel.tooltip              "Annuler">
+
 
 <!-- list sorting -->
-<!ENTITY sort.name.label                  "Nom">
-<!ENTITY sort.name.tooltip                "Trier par nom">
-<!ENTITY sort.dateUpdated.label           "Dernière mise à jour">
-<!ENTITY sort.dateUpdated.tooltip         "Trier par date de dernière mise à jour">
+<!ENTITY sort.name.label                      "Nom">
+<!ENTITY sort.name.tooltip                    "Trier par nom">
+<!ENTITY sort.dateUpdated.label               "Dernière mise à jour">
+<!ENTITY sort.dateUpdated.tooltip             "Trier par date de dernière mise à jour">
 <!ENTITY sort.relevance.label                 "Pertinence">
 <!ENTITY sort.relevance.tooltip               "Trier par pertinence">
 
@@ -136,25 +137,31 @@
 <!ENTITY search.filter2.available.label       "Modules complémentaires disponibles">
 <!ENTITY search.filter2.available.tooltip     "Afficher les modules complémentaires disponibles à l'installation">
 
-<!ENTITY addon.homepage                   "Page d'accueil">
+<!ENTITY addon.homepage                       "Page d'accueil">
 <!ENTITY addon.details.label                  "Plus">
 <!ENTITY addon.details.tooltip                "Afficher plus de détails concernant ce module complémentaire">
-<!ENTITY addon.unknownDate                "Inconnue">
-<!ENTITY addon.disabled.postfix           "(désactivé)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
-<!ENTITY addon.update.postfix             "Mise à jour">
+<!ENTITY addon.unknownDate                    "Inconnue">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(désactivé)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "(mise à jour)">
 <!ENTITY addon.undoAction.label               "Annuler">
 <!ENTITY addon.undoAction.tooltip             "Annuler cette action">
 <!ENTITY addon.undoRemove.label               "Annuler">
 <!ENTITY addon.undoRemove.tooltip             "Conserver ce module complémentaire">
-<!ENTITY addon.restartNow.label           "Redémarrer maintenant">
-<!ENTITY addon.install.label              "Installer">
-<!ENTITY addon.install.tooltip            "Installer ce module complémentaire">
-<!ENTITY addon.updateNow.label            "Mettre à jour maintenant">
-<!ENTITY addon.updateNow.tooltip          "Installer la mise à jour pour ce module complémentaire">
-<!ENTITY addon.checkingForUpdates.label   "Vérification des mises à jour…">
-<!ENTITY addon.releaseNotes.label         "Notes de version :">
-<!ENTITY addon.loadingReleaseNotes.label  "Chargement…">
+<!ENTITY addon.restartNow.label               "Redémarrer maintenant">
+<!ENTITY addon.install.label                  "Installer">
+<!ENTITY addon.install.tooltip                "Installer ce module complémentaire">
+<!ENTITY addon.updateNow.label                "Mettre à jour maintenant">
+<!ENTITY addon.updateNow.tooltip              "Installer la mise à jour pour ce module complémentaire">
+<!ENTITY addon.checkingForUpdates.label       "Vérification des mises à jour…">
+<!ENTITY addon.releaseNotes.label             "Notes de version :">
+<!ENTITY addon.loadingReleaseNotes.label      "Chargement…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Il y a eu une erreur lors du chargement des notes de version.">
 
-<!ENTITY addon.createdBy.label            "Par ">
+<!ENTITY addon.createdBy.label                "Par ">
