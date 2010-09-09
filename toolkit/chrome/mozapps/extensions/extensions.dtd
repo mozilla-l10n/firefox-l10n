@@ -1,5 +1,5 @@
 <!ENTITY addons.windowTitle			"アドオンマネージャ">
-<!ENTITY search.placeholder			"すべてのアドオンを検索">
+<!ENTITY search.placeholder			"アドオンを検索">
 <!ENTITY loading.label				"読み込み中...">
 <!ENTITY listEmpty.installed.label		"この種類のアドオンはインストールされていません">
 <!ENTITY listEmpty.availableUpdates.label	"更新は見つかりませんでした">
@@ -7,19 +7,33 @@
 <!ENTITY listEmpty.findUpdates.label		"更新を確認">
 <!ENTITY listEmpty.search.label			"該当するアドオンは見つかりませんでした">
 <!ENTITY listEmpty.button.label			"アドオンについて知る">
+<!ENTITY installFromFile.label			"ファイルからインストール...">
+<!ENTITY installFromFile.accesskey		"I">
 
+<!ENTITY cmd.back.tooltip			"前のページへ戻ります">
+<!ENTITY cmd.forward.tooltip			"次のページへ進みます">
+
+<!-- global warnings -->
+<!ENTITY warning.safemode.label			"セーフモードによりすべてのアドオンが無効化されています。">
+<!ENTITY warning.checkcompatibility.label	"アドオンの互換性確認は無効化されています。互換性のないアドオンがインストールされています。">
+<!ENTITY warning.checkcompatibility.enable.label	"有効化">
+<!ENTITY warning.checkcompatibility.enable.tooltip	"アドオンの互換性の確認を有効化します">
+<!ENTITY warning.updatesecurity.label		"更新のセキュリティ確認が無効化されています。更新により危険にさらされる可能性があります。">
+<!ENTITY warning.updatesecurity.enable.label	"有効化">
+<!ENTITY warning.updatesecurity.enable.tooltip	"アドオンの更新のセキュリティ確認を有効化します">
 
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label			"検索">
 <!ENTITY view.discover.label			"アドオン入手">
 <!ENTITY view.locales.label			"言語パック">
 <!ENTITY view.searchengines.label		"検索エンジン">
 <!ENTITY view.features.label			"拡張機能">
-<!ENTITY view.appearance.label			"テーマ">
+<!ENTITY view.appearance2.label			"テーマ">
 <!ENTITY view.plugins.label			"プラグイン">
 <!ENTITY view.recentUpdates.label		"最近の更新">
 <!ENTITY view.availableUpdates.label		"更新可能">
+<!ENTITY view.utilites.preferences.tooltip	"すべてのアドオン...">
+<!ENTITY view.utilites.preferencesUnix.tooltip	"すべてのアドオン...">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label		"今すぐ更新を確認">
@@ -40,8 +54,10 @@
 <!ENTITY cmd.showDetails.accesskey		"S">
 <!ENTITY cmd.findUpdates.label			"更新を確認">
 <!ENTITY cmd.findUpdates.accesskey		"F">
-<!ENTITY cmd.preferences.label			"設定">
-<!ENTITY cmd.preferences.accesskey		"P">
+<!ENTITY cmd.preferencesWin.label		"設定">
+<!ENTITY cmd.preferencesWin.accesskey		"O">
+<!ENTITY cmd.preferencesUnix.label		"設定">
+<!ENTITY cmd.preferencesUnix.accesskey		"P">
 <!ENTITY cmd.about.label			"このアドオンについて">
 <!ENTITY cmd.about.accesskey			"A">
 
@@ -49,10 +65,18 @@
 <!ENTITY cmd.enableAddon.accesskey		"E">
 <!ENTITY cmd.disableAddon.label			"無効化">
 <!ENTITY cmd.disableAddon.accesskey		"D">
+<!ENTITY cmd.enableTheme.label			"テーマを適用">
+<!ENTITY cmd.enableTheme.accesskey		"W">
+<!ENTITY cmd.disableTheme.label			"テーマを外す">
+<!ENTITY cmd.disableTheme.accesskey		"W">
+<!ENTITY cmd.installAddon.label			"インストール">
+<!ENTITY cmd.installAddon.accesskey		"I">
 <!ENTITY cmd.uninstallAddon.label		"削除">
 <!ENTITY cmd.uninstallAddon.accesskey		"R">
-<!ENTITY cmd.showPreferences.label		"設定">
-<!ENTITY cmd.showPreferences.tooltip		"このアドオンの設定を変更します">
+<!ENTITY cmd.showPreferencesWin.label		"設定">
+<!ENTITY cmd.showPreferencesWin.tooltip		"このアドオンの設定を変更します">
+<!ENTITY cmd.showPreferencesUnix.label		"設定">
+<!ENTITY cmd.showPreferencesUnix.tooltip	"このアドオンの設定を変更します">
 <!ENTITY cmd.contribute.label			"寄付">
 <!ENTITY cmd.contribute.accesskey		"C">
 <!ENTITY cmd.contribute.tooltip			"このアドオンの開発者に寄付します">
@@ -64,20 +88,31 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label			"バージョン">
-<!ENTITY detail.updated.label			"更新日">
+<!ENTITY detail.lastupdated.label		"更新日">
 <!ENTITY detail.creator.label			"開発者">
 <!ENTITY detail.homepage.label			"ホームページ">
 <!ENTITY detail.numberOfDownloads.label		"ダウンロード数">
 
-<!ENTITY detail.updateAutomatically.label	"自動的に更新する">
-<!ENTITY detail.updateAutomatically.accesskey	"U">
-<!ENTITY detail.updateAutomatically.tooltip	"更新可能な場合はこのアドオンを自動的に更新します">
+<!ENTITY detail.contributions.description	"このアドオンの開発者が開発を継続するための少額の寄付によるサポートを求めています。">
+
+<!ENTITY detail.updateType			"自動更新">
+<!ENTITY detail.updateAutomatic.label		"オン">
+<!ENTITY detail.updateAutomatic.tooltip		"更新を自動的にインストールします">
+<!ENTITY detail.updateManual.label		"オフ">
+<!ENTITY detail.updateManual.tooltip		"更新を手動でインストールします">
+<!ENTITY detail.home				"ホームページ">
+<!ENTITY detail.repository			"アドオンのプロファイル">
+<!ENTITY detail.size				"サイズ">
+
 <!ENTITY detail.checkForUpdates.label		"更新を確認">
 <!ENTITY detail.checkForUpdates.accesskey	"F">
 <!ENTITY detail.checkForUpdates.tooltip		"このアドオンの更新を確認します">
-<!ENTITY detail.showPreferences.label		"設定">
-<!ENTITY detail.showPreferences.accesskey	"P">
-<!ENTITY detail.showPreferences.tooltip		"このアドオンの設定を変更します">
+<!ENTITY detail.showPreferencesWin.label	"設定">
+<!ENTITY detail.showPreferencesWin.accesskey	"O">
+<!ENTITY detail.showPreferencesWin.tooltip	"このアドオンの設定を変更します">
+<!ENTITY detail.showPreferencesUnix.label	"設定">
+<!ENTITY detail.showPreferencesUnix.accesskey	"P">
+<!ENTITY detail.showPreferencesUnix.tooltip	"このアドオンの設定を変更します">
 
 
 <!-- ratings -->
@@ -91,34 +126,29 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label			"名前順">
 <!ENTITY sort.name.tooltip			"リストを名前順に並べ替えます">
-<!ENTITY sort.size.label			"サイズ順">
-<!ENTITY sort.size.tooltip			"リストをサイズ順に並べ替えます">
 <!ENTITY sort.dateUpdated.label			"更新日順">
 <!ENTITY sort.dateUpdated.tooltip		"リストを更新日順に並べ替えます">
-<!ENTITY sort.rating.label			"評価順">
-<!ENTITY sort.rating.tooltip			"リストを評価平均順に並べ替えます">
+<!ENTITY sort.relevance.label			"関連順">
+<!ENTITY sort.relevance.tooltip			"リストを関連順に並べ替えます">
 
-
-<!ENTITY showMore.label				"さらに表示">
-<!ENTITY showMore.tooltip			"表示する項目を増やします">
-<!ENTITY showLess.label				"表示を少なく">
-<!ENTITY showLess.tooltip			"表示する項目を減らします">
-
-<!ENTITY search.filter.label			"表示:">
-<!ENTITY search.filter.installed.label		"インストールされたアドオン">
-<!ENTITY search.filter.available.label		"利用可能なアドオン">
+<!ENTITY search.filter2.label			"表示:">
+<!ENTITY search.filter2.installed.label		"インストールされたアドオン">
+<!ENTITY search.filter2.installed.tooltip	"インストールされたアドオンを表示します">
+<!ENTITY search.filter2.available.label		"利用可能なアドオン">
+<!ENTITY search.filter2.available.tooltip	"インストール可能なアドオンを表示します">
 
 <!ENTITY addon.homepage				"ホームページ">
+<!ENTITY addon.details.label			"詳細">
+<!ENTITY addon.details.tooltip			"このアドオンの詳細を表示します">
 <!ENTITY addon.unknownDate			"不明">
-<!ENTITY addon.disabled.postfix               "(無効)">
+<!ENTITY addon.disabled.postfix			"(無効)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix			"更新">
-<!ENTITY addon.undo.label			"元に戻す？">
-<!ENTITY addon.undo.tooltip			"この操作を元に戻します">
-<!ENTITY addon.undoUninstall.label		"元に戻す？">
-<!ENTITY addon.undoUninstall.tooltip		"このアドオンをインストールされたままにします">
-<!ENTITY addon.restartNow.label			"今すぐ再起動">
-<!ENTITY addon.restartNow.tooltip		"再起動してインストールを完了してください">
+<!ENTITY addon.undoAction.label			"元に戻す">
+<!ENTITY addon.undoAction.tooltip		"この操作を元に戻します">
+<!ENTITY addon.undoRemove.label			"元に戻す">
+<!ENTITY addon.undoRemove.tooltip		"このアドオンをインストールされたままにします">
+<!ENTITY addon.restartNow.label			"今すぐ再起動する">
 <!ENTITY addon.install.label			"インストール">
 <!ENTITY addon.install.tooltip			"このアドオンをインストールします">
 <!ENTITY addon.updateNow.label			"今すぐ更新">
