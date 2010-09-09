@@ -24,7 +24,10 @@
 <!ENTITY helpTroubleshootingInfo.label      "Helpynformaasje">
 <!ENTITY helpTroubleshootingInfo.accesskey  "H">
 
-<!ENTITY updateCmd.label                "Op fernijings kontrolearjs…">
+<!ENTITY helpFeedbackPage.label      "Feedback ferstjoere…">
+<!ENTITY helpFeedbackPage.accesskey  "f">
+
+<!ENTITY updateCmd.label                "Op fernijings kontrolearje…">
 
 <!ENTITY preferencesCmdMac.label        "Foarkarren…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

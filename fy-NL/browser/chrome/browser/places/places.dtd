@@ -2,8 +2,9 @@
 <!ENTITY places.library.title    				"Bibleteek">
 <!ENTITY places.library.width  					"700">
 <!ENTITY places.library.height 					"500">
-<!ENTITY organize.label  						"Organisearje">
+<!ENTITY organize.label  						"Oarderje">
 <!ENTITY organize.accesskey    					"O">
+<!ENTITY organize.tooltip						"Jo blêdwizers oarderje">
 
 <!ENTITY file.accesskey  						"F">
 <!ENTITY file.close.label  						"Slute">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey  						"w">
 <!ENTITY views.label  							"Byld">
 <!ENTITY views.accesskey  						"B">
+<!ENTITY views.tooltip                  		"Jo werjefte wizigje">
 <!ENTITY view.columns.label  					"Toan kolommen">
 <!ENTITY view.columns.accesskey  				"T">
 <!ENTITY view.sort.label  						"Sortearre">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label  					"Ymport en Reservekopy">
 <!ENTITY maintenance.accesskey  				"Y">
+<!ENTITY maintenance.tooltip					"Jo blêdwizers ymportearje en reservekopy meitsje">
 
 <!ENTITY backCmd.label  						"Tebek">
 <!ENTITY backButton.tooltip  					"Gean tebek">
