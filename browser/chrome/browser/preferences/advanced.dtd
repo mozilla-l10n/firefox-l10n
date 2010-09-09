@@ -33,7 +33,7 @@
 <!ENTITY useCacheAfter.label "МБ на диске для кэша">
 <!ENTITY clearCacheNow.label "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
-<!ENTITY smartSizeCache.label "Позволить &brandShortName; управлять размером моего кэша.">
+<!ENTITY smartSizeCache.label "Позволить &brandShortName; управлять размером моего кэша">
 <!ENTITY updateTab.label "Обновления">
 <!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
 <!ENTITY enableAppUpdate.label "Браузера &brandShortName;">
