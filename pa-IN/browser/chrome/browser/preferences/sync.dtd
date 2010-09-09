@@ -4,7 +4,7 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ਅਕਾਊਂਟ">
 <!ENTITY currentUser.label            "ਮੌਜੂਦਾ ਯੂਜ਼ਰ:">
 
 <!-- Login error feedback -->
@@ -14,29 +14,29 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ਅਕਾਊਂਟ ਪਰਬੰਧ">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY differentAccount.label       "Use a Different Account">
+<!ENTITY changePassword.label         "ਪਾਸਵਰਡ ਬਦਲੋ">
+<!ENTITY mySyncKey.label              "ਮੇਰੀ ਸਿੰਕ ਕੁੰਜੀ">
+<!ENTITY resetSync.label              "ਸਿੰਕ ਮੁੜ-ਸੈੱਟ">
+<!ENTITY differentAccount.label       "ਵੱਖਰਾ ਅਕਾਊਂਟ ਵਰਤੋਂ">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncPrefsCaption.label       "ਬਰਾਊਜ਼ਰ ਸਿੰਕ">
+<!ENTITY syncComputerName.label       "ਕੰਪਿਊਟਰ ਨਾਂ:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "ਸਿੰਕ ਕਰੋ ਮੇਰੇ">
+<!ENTITY engine.bookmarks.label     "ਬੁੱਕਮਾਰਕ">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.label          "ਟੈਬਾਂ">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "ਅਤੀਤ">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.label     "ਪਾਸਵਰਡ">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.label         "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY engine.prefs.accesskey     "S">
 
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "ਸਰਵਿਸ ਦੀਆਂ ਸ਼ਰਤਾਂ">
+<!ENTITY prefs.ppLink.label         "ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ">

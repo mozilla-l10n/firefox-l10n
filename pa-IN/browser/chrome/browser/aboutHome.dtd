@@ -5,12 +5,9 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; ਸ਼ੁਰੂਆਤੀ ਸਫ਼ਾ">
-<!ENTITY abouthome.brandLogo.title "&brandFullName; ਲੋਗੋ">
 
 <!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> ਸ਼ੁਰੂਆਤ">
-
-<!ENTITY abouthome.searchEngineLogo.title "ਖੋਜ ਇੰਜਣ ਲੋਗੋ">
 
 <!ENTITY abouthome.searchEngineButton.label "ਖੋਜ">
 
