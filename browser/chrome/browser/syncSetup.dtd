@@ -1,8 +1,11 @@
 <!ENTITY accountSetupTitle.label "Настройка &syncBrand.fullName.label;">
+<!ENTITY setup.pickSetupType.description "Добро пожаловать. Если вы никогда раньше не использовали &syncBrand.fullName.label;, вам нужно создать новую учётную запись.">
+<!ENTITY button.createNewAccount.label "Создать учётную запись">
+<!ENTITY button.haveAccount.label "У меня есть учётная запись &syncBrand.fullName.label;">
 <!ENTITY setup.choicePage.title.label "Вы использовали раньше &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label "Я никогда раньше не использовал &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label "Я уже использую &syncBrand.shortName.label; на другом компьютере">
-<!ENTITY connectTo.label "Соединиться с">
+<!ENTITY server.label "Сервер">
 <!ENTITY serverType.main.label "Сервер &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label "Использовать свой сервер">
 <!ENTITY signIn.username.label "Имя пользователя">
@@ -11,7 +14,7 @@
 <!ENTITY signIn.password.accesskey "р">
 <!ENTITY signIn.serverURL.label "URL сервера">
 <!ENTITY signIn.serverURL.accesskey "е">
-<!ENTITY setup.newAccountPage.title.label "Создайте вашу учётную запись &syncBrand.shortName.label;">
+<!ENTITY setup.newAccountDetailsPage.title.label "Данные учётной записи">
 <!ENTITY setup.confirmPassword.label "Подтверждение пароля">
 <!ENTITY setup.confirmPassword.accesskey "д">
 <!ENTITY setup.emailAddress.label "Адрес электронной почты">
@@ -23,51 +26,54 @@
 <!ENTITY setup.ppLink.label "Политикой приватности">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
-<!ENTITY setup.newPPPage.title.label "Введите свою секретную фразу">
-<!ENTITY passphraseDesc.label "Пожалуйста, введите секретную фразу. Она будет использоваться для шифрования всех ваших данных, чтобы только вы могли получить к ним доступ. Она никогда не будет храниться на сервере, так что не потеряйте её!">
-<!ENTITY passphraseDesc2.label "Её длина должна быть не менее 12 символов и она не должна совпадать с паролем вашей учётной записи.">
-<!ENTITY passphraseEntry.label "Секретная фраза">
-<!ENTITY passphraseEntry.accesskey "к">
-<!ENTITY passphraseConfirm.label "Подтвердить">
-<!ENTITY passphraseConfirm.accesskey "т">
-<!ENTITY setup.newAccountPrefs2.title.label "Настройки синхронизации браузера">
-<!ENTITY syncComputerName.label "Имя компьютера:">
-<!ENTITY syncComputerName.accesskey "м">
-<!ENTITY syncModeSwitchDesc.label "&brandShortName; будет:">
-<!ENTITY syncModeSwitchDesc.accesskey "у">
-<!ENTITY syncEverything.label "Синхронизировать всё">
-<!ENTITY customSync.label "Использовать мои настройки">
-<!ENTITY syncEverythingDescription.label "Ваши закладки, история, пароли, настройки и вкладки будут синхронизированы.">
-<!ENTITY syncItem.bookmarks.label "Синхронизировать закладки">
-<!ENTITY syncItem.bookmarks.accesskey "к">
-<!ENTITY syncItem.tabs.label "Синхронизировать вкладки">
-<!ENTITY syncItem.tabs.accesskey "л">
-<!ENTITY syncItem.history.label "Синхронизировать историю">
-<!ENTITY syncItem.history.accesskey "т">
-<!ENTITY syncItem.passwords.label "Синхронизировать пароли">
-<!ENTITY syncItem.passwords.accesskey "р">
-<!ENTITY syncItem.prefs.label "Синхронизировать настройки">
-<!ENTITY syncItem.prefs.accesskey "о">
-<!ENTITY setup.captchaPage.title.label "Пожалуйста, подтвердите, что вы не робот ;)">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; заботится о вашей приватности">
+<!ENTITY setup.newSyncKeyPage.description.label "Чтобы обеспечить вашу полную приватность, все ваши данные шифруются перед их загрузкой. Ключ синхронизации, необходимый для расшифровки ваших данных, не загружается.">
+<!ENTITY syncKeyEntry.label "Ваш ключ синхронизации">
+<!ENTITY syncKeyEntry.accesskey "к">
+<!ENTITY syncKeyGenerate.label "Сгенерировать">
+<!ENTITY syncKeyBackup.description "Ваш ключ синхронизации требуется для получения доступа к &syncBrand.fullName.label; с других машин. Пожалуйста, создайте его резервную копию. Мы не можем помочь вам восстановить ваш ключ синхронизации.">
+<!ENTITY button.syncKeyBackup.email.label "По почте…">
+<!ENTITY button.syncKeyBackup.email.accesskey "о">
+<!ENTITY button.syncKeyBackup.print.label "Печать…">
+<!ENTITY button.syncKeyBackup.print.accesskey "ч">
+<!ENTITY button.syncKeyBackup.save.label "Сохранить…">
+<!ENTITY button.syncKeyBackup.save.accesskey "х">
+<!ENTITY page.syncKeyBackup.title "Ваш ключ синхронизации Firefox">
+<!ENTITY page.syncKeyBackup.descr "Этот секретный ключ используется для шифрования ваших персональных данных. Он не загружается на сервер и его невозможно восстановить. Не потеряйте его и не сообщайте другим людям.">
+<!ENTITY setup.captchaPage2.title.label "Пожалуйста, подтвердите, что вы не робот">
 <!ENTITY setup.existingAccount.title.label "Введите информацию о вашей учётной записи">
 <!ENTITY resetPassword.label "Сбросить пароль">
 <!ENTITY connecting.label "Соединяюсь…">
-<!ENTITY passphraseGroupbox.label "Введите секретную фразу">
-<!ENTITY passphraseDesc3.label "Пожалуйста, введите вашу секретную фразу. Это должна быть та же секретная фраза, что и использованная вами для шифрования своих данных.">
-<!ENTITY passphraseHelp.label "Длина вашей секретной фразы должна быть не менее 12 символов и она не совпадает с вашим паролем. Вы можете найти вашу сохранённую секретную фразу, перейдя на другой ваш компьютер, открыв вкладку «Защита» и нажав на кнопку «Сохранённые пароли». Если вы всё же не смогли найти верную секретную фразу, вы можете сбросить её, но при этом вы потеряете все данные, сохранённые на сервере.">
-<!ENTITY changePassphrase.label "Сменить секретную фразу">
+<!ENTITY setup.existingSyncKeyPage.title "Пожалуйста, введите свой ключ синхронизации">
+<!ENTITY setup.existingSyncKeyPage.description "Ключ синхронизации был для вас сгенерирован, или вы ввели свой собственный, когда в первый раз подключились к &syncBrand.fullName.label;. Это не то же самое, что ваш пароль.">
+<!ENTITY existingSyncKeyHelp.description "Вы можете найти ваш сохранённый ключ синхронизации, перейдя на другой ваш компьютер, открыв вкладку «Защита» и нажав на кнопку «Сохранённые пароли». Если вы всё же не смогли найти верный ключ синхронизации, вы можете сбросить его, но при этом вы потеряете все данные, сохранённые на сервере.">
+<!ENTITY lostSyncKey.label "Я потерял мой ключ синхронизации">
 <!ENTITY verifying.label "Проверка…">
-<!ENTITY setup.mergeChoicePage.title.label "Как вы хотите начать?">
-<!ENTITY choice.merge.main.label "Объединить данные этого компьютера с данными вашего &syncBrand.shortName.label;">
-<!ENTITY choice.merge.recommend.label "Mozilla настоятельно рекомендует всем пользователям использовать этот вариант.">
-<!ENTITY choice.client.main.label "Заменить все данные на этом компьютере данными вашего &syncBrand.fullName.label;">
-<!ENTITY choice.server.main.label "Заменить данные на всех остальных устройствах вашими локальными данными">
-<!ENTITY confirm.caption.label "Подтвердите свой выбор">
-<!ENTITY confirm.merge.label "Вы решили объединить ваши данные на этом компьютере с данными на других ваших устройствах, использующих &syncBrand.fullName.label;.">
+<!ENTITY setup.optionsPage.title "Настройки Sync">
+<!ENTITY syncComputerName.label "Имя компьютера:">
+<!ENTITY syncComputerName.accesskey "м">
+<!ENTITY syncMy.label "Синхронизировать мои">
+<!ENTITY engine.bookmarks.label "Закладки">
+<!ENTITY engine.bookmarks.accesskey "к">
+<!ENTITY engine.tabs.label "Вкладки">
+<!ENTITY engine.tabs.accesskey "л">
+<!ENTITY engine.history.label "Историю">
+<!ENTITY engine.history.accesskey "т">
+<!ENTITY engine.passwords.label "Пароли">
+<!ENTITY engine.passwords.accesskey "р">
+<!ENTITY engine.prefs.label "Настройки">
+<!ENTITY engine.prefs.accesskey "с">
+<!ENTITY choice2.merge.main.label "Объединить данные этого компьютера с данными моего &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Рекомендуется:">
+<!ENTITY choice2.client.main.label "Заменить все данные на этом компьютере данными моего &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label "Заменить данные на всех остальных устройствах данными этого компьютера">
+<!ENTITY setup.optionsConfirmPage.title "Подтверждение">
+<!ENTITY confirm.merge.label "&syncBrand.fullName.label; теперь объединит все данные браузера на этом компьютере с данными вашей учётной записи Sync.">
 <!ENTITY confirm.client.label "Все данные &brandShortName; на этом компьютере будут удалены, включая следующие:">
 <!ENTITY confirm.client.moreinfo.label "Затем &brandShortName; скопирует данные вашего &syncBrand.fullName.label; на этот компьютер.">
 <!ENTITY confirm.client.warning.label "ПРЕДУПРЕЖДЕНИЕ: Это приведёт к тому, что все данные &brandShortName; на этом компьютере будут заменены!">
 <!ENTITY confirm.server.label "Данные на следующих устройствах будут перезаписаны вашими локальными данными:">
 <!ENTITY confirm.server.warning.label "ПРЕДУПРЕЖДЕНИЕ: Ваши локальные данные заменят собой все данные &brandShortName; на этих устройствах!">
-<!ENTITY setup.successPage.title.label "Настройка завершена!">
-<!ENTITY setup.successPage.desc.label "Поздравляем! &brandShortName; теперь настроен на автоматическую синхронизацию вашей информации. Не забудьте установить &syncBrand.fullName.label; на все ваши устройства. Сейчас вы можете продолжить использовать &brandShortName;.">
+<!ENTITY setup.successPage.title "Настройка завершена">
+<!ENTITY changeOptions.label "Вы можете изменить эту настройку, перейдя в расположенные ниже настройки Sync.">
+<!ENTITY continueUsing.label "Теперь вы можете продолжить использовать &brandShortName;.">

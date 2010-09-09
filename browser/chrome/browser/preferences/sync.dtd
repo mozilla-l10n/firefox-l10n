@@ -8,26 +8,22 @@
 <!ENTITY manageAccount.label "Управление учётной записью">
 <!ENTITY manageAccount.accesskey "п">
 <!ENTITY changePassword.label "Сменить пароль">
-<!ENTITY changePassphrase.label "Сменить секретную фразу">
+<!ENTITY mySyncKey.label "Мой ключ синхронизации">
 <!ENTITY resetSync.label "Заменить или объединить данные Sync">
 <!ENTITY differentAccount.label "Использовать другую учётную запись">
 <!ENTITY syncPrefsCaption.label "Синхронизация браузера">
 <!ENTITY syncComputerName.label "Имя компьютера:">
 <!ENTITY syncComputerName.accesskey "м">
-<!ENTITY syncModeSwitchDesc.label "&brandShortName; будет:">
-<!ENTITY syncModeSwitchDesc.accesskey "у">
-<!ENTITY syncEverything.label "Синхронизировать всё">
-<!ENTITY customSync.label "Использовать мои настройки">
-<!ENTITY syncEverythingDescription.label "Ваши закладки, история, пароли, настройки и вкладки будут синхронизированы.">
-<!ENTITY syncItem.bookmarks.label "Синхронизировать закладки">
-<!ENTITY syncItem.bookmarks.accesskey "к">
-<!ENTITY syncItem.tabs.label "Синхронизировать вкладки">
-<!ENTITY syncItem.tabs.accesskey "л">
-<!ENTITY syncItem.history.label "Синхронизировать историю">
-<!ENTITY syncItem.history.accesskey "т">
-<!ENTITY syncItem.passwords.label "Синхронизировать пароли">
-<!ENTITY syncItem.passwords.accesskey "р">
-<!ENTITY syncItem.prefs.label "Синхронизировать настройки">
-<!ENTITY syncItem.prefs.accesskey "о">
+<!ENTITY syncMy.label "Синхронизировать мои">
+<!ENTITY engine.bookmarks.label "Закладки">
+<!ENTITY engine.bookmarks.accesskey "к">
+<!ENTITY engine.tabs.label "Вкладки">
+<!ENTITY engine.tabs.accesskey "л">
+<!ENTITY engine.history.label "Историю">
+<!ENTITY engine.history.accesskey "т">
+<!ENTITY engine.passwords.label "Пароли">
+<!ENTITY engine.passwords.accesskey "р">
+<!ENTITY engine.prefs.label "Настройки">
+<!ENTITY engine.prefs.accesskey "с">
 <!ENTITY prefs.tosLink.label "Условия использования службы">
 <!ENTITY prefs.ppLink.label "Политика приватности">
