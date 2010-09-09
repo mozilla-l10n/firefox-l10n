@@ -23,21 +23,18 @@
 <!ENTITY syncPrefsCaption.label       "Synchronisation du navigateur">
 <!ENTITY syncComputerName.label       "Nom de l'ordinateur :">
 <!ENTITY syncComputerName.accesskey   "o">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; : ">
-<!ENTITY syncModeSwitchDesc.accesskey "F">
-<!ENTITY syncEverything.label         "Synchronisera tout">
-<!ENTITY customSync.label             "Utilisera mes paramètres personnalisés">
-<!ENTITY syncEverythingDescription.label  "Vos marque-pages, votre historique, vos mots de passe, vos préférences et vos onglets seront synchronisés.">
-<!ENTITY syncItem.bookmarks.label     "Synchroniser les marque-pages">
-<!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Synchroniser les onglets">
-<!ENTITY syncItem.tabs.accesskey      "n">
-<!ENTITY syncItem.history.label       "Synchroniser l'historique">
-<!ENTITY syncItem.history.accesskey   "h">
-<!ENTITY syncItem.passwords.label     "Synchroniser les mots de passe">
-<!ENTITY syncItem.passwords.accesskey "s">
-<!ENTITY syncItem.prefs.label         "Synchroniser les préférences">
-<!ENTITY syncItem.prefs.accesskey     "p">
+
+<!ENTITY syncMy.label               "Synchroniser">
+<!ENTITY engine.bookmarks.label     "les marque-pages">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "les onglets">
+<!ENTITY engine.tabs.accesskey      "o">
+<!ENTITY engine.history.label       "l'historique">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "les mots de passe">
+<!ENTITY engine.passwords.accesskey "p">
+<!ENTITY engine.prefs.label         "les préférences">
+<!ENTITY engine.prefs.accesskey     "s">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Conditions d'utilisation">
