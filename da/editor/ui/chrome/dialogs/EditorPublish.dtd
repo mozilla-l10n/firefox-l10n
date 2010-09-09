@@ -95,4 +95,4 @@
 <!ENTITY password.tooltip             "Den adgangskode du bruger for at logge ind på webhotellet">
 <!ENTITY savePassword.label           "Husk adgangskode">
 <!ENTITY savePassword.accesskey       "H">
-<!ENTITY savePassword.tooltip         "Vælg dette for at gemme adgangskoden på en sikker måde med Kodeordshuskeren">
+<!ENTITY savePassword.tooltip         "Vælg dette for at få husket adgangskoden">

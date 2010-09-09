@@ -103,14 +103,14 @@
 <!ENTITY openAttachmentCmd.accesskey "Å">
 <!ENTITY saveAsAttachmentCmd.label "Gem som…">
 <!ENTITY saveAsAttachmentCmd.accesskey "G">
-<!ENTITY detachAttachmentCmd.label "Fjern…">
+<!ENTITY detachAttachmentCmd.label "Afhæft…">
 <!ENTITY deleteAttachmentCmd.label "Slet">
 <!ENTITY openAllAttachmentsCmd.label    "Åbn alle…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "Å">
 <!ENTITY saveAllAttachmentsCmd.label "Gem alle…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "G">
-<!ENTITY detachAllAttachmentsCmd.label "Fjern alle…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "F">
+<!ENTITY detachAllAttachmentsCmd.label "Afhæft alle…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "f">
 <!ENTITY deleteAllAttachmentsCmd.label "Slet alle…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "S">
 
