@@ -24,15 +24,15 @@
 <!ENTITY rights.intro-point2.5 "Noen funksjoner i &brandShortName;, som for eksempel krasjrapportereren, gir deg muligheten å gi tilbakemelding til &vendorShortName;. Ved å sende tilbakemelding gir du &vendorShortName; tillatelse til å bruke tilbakemeldingene for å forbedre produktene sine, publisere tilbakemeldingene på nettstedene sine, og å distribuere tilbakemeldingene.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Personvernerklæring for &vendorShortName;-produkter kan du finne ">
-<!ENTITY rights.intro-point3b "her">
+<!ENTITY rights2.intro-point3a "Hvordan vi bruker personlig informasjon og tilbakemeldinger som er sendt til &vendorShortName; gjennom &brandShortName; er beskrevet i ">
+<!ENTITY rights2.intro-point3b "&brandShortName; personvernbestemmelser">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Informasjon om personvernerklæring for dette produktet bør være henvist her.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; tilbyr også valgfrie informasjonstjenester som blant annet SafeBrowsing-tjenesten; men vi kan ikke garantere at de er 100&#37; feilfrie. Mer informasjon, også om hvordan tjenestene kan slås av, kan du finne i ">
+<!ENTITY rights2.intro-point4a "Noen &brandShortName;-funksjoner bruker vevbaserte informasjonstjenester, men vi kan ikke garantere at de er 100 &#37; nøyaktige eller feilfrie. Mer informasjon, også om hvordan tjenestene som bruker disse funksjonene kan slås av, kan du finne i ">
 <!ENTITY rights.intro-point4b "tjenestebetingelsene">
 <!ENTITY rights.intro-point4c ".">
 
