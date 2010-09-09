@@ -33,6 +33,7 @@
 <!ENTITY useCacheAfter.label "MB di spazio per la cache">
 <!ENTITY clearCacheNow.label "Cancella adesso">
 <!ENTITY clearCacheNow.accesskey "C">
+<!ENTITY smartSizeCache.label "Lascia gestire a &brandShortName; la dimensione della cache.">
 <!ENTITY updateTab.label "Aggiornamenti">
 <!ENTITY autoCheck.label "Controlla automaticamente la presenza di aggiornamenti per:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
