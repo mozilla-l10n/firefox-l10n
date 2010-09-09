@@ -7,16 +7,19 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc disse mailadresser:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Adskil adresser med komma">
+<!ENTITY ccAddressList.placeholder "Adskil adresser med komma">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Skjult kopi til andre adresser:">
 <!ENTITY bccAddress.accesskey "u">
-<!ENTITY bccAddressList.emptytext "Adskil adresser med komma">
+<!ENTITY bccAddressList.placeholder "Adskil adresser med komma">
 <!ENTITY saveMessageDlg.label "Vis godkendelsesdialog, når meddelelser gemmes">
 <!ENTITY saveMessageDlg.accesskey "g">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Mappen Sendt på:">
 <!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "Andet:">
 <!ENTITY sentInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Mappen Kladder på:">
 <!ENTITY draftsFolderOn.accesskey "l">
 <!ENTITY draftInOtherFolder.label "Andet:">
@@ -27,6 +30,7 @@
 <!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Andet:">
 <!ENTITY archiveInOtherFolder.accesskey "n">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Mappen Skabeloner på:">
 <!ENTITY templatesFolderOn.accesskey "o">
 <!ENTITY templateInOtherFolder.label "Andet:">

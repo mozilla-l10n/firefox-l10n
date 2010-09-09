@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "Opret mailkonto">
 <!ENTITY name.label                      "Dit navn:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "Fornavn Efternavn">
+<!ENTITY name.placeholder                "Fornavn Efternavn">
 <!ENTITY name.text                       "Dit navn som andre skal se det">
 <!ENTITY email.label                     "Din mailadresse:">
 <!ENTITY email.accesskey                 "m">
-<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Adgangskode:">
 <!ENTITY password.accesskey              "d">
-<!ENTITY password.emptytext              "Adgangskode">
+<!ENTITY password.placeholder            "Adgangskode">
 <!ENTITY password.text                   "Valgfri, vil kun blive brugt til at validere brugernavnet">
 
 <!ENTITY accountInformation.label        "Kontooplysninger">
