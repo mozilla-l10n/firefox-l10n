@@ -1,22 +1,22 @@
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label "Geral">
+<!ENTITY generalTab.label                "Geral">
 
-<!ENTITY accessibility.label "Acessibilidade">
+<!ENTITY accessibility.label             "Acessibilidade">
 
-<!ENTITY useCursorNavigation.label "Utilizar sempre as teclas do cursor para navegar nas páginas">
-<!ENTITY useCursorNavigation.accesskey "c">
-<!ENTITY searchStartTyping.label "Procurar ao escrever">
-<!ENTITY searchStartTyping.accesskey "E">
+<!ENTITY useCursorNavigation.label       "Utilizar sempre as teclas do cursor para navegar nas páginas">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "Procurar ao escrever">
+<!ENTITY searchStartTyping.accesskey     "E">
 <!ENTITY blockAutoRefresh.label          "Avise-me quando os sítios web que visito tentam redirecionar ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
-<!ENTITY browsing.label "Navegação">
+<!ENTITY browsing.label                  "Navegação">
 
 <!ENTITY useAutoScroll.label             "Utilizar deslocamento automático">
 <!ENTITY useAutoScroll.accesskey         "U">
-<!ENTITY useSmoothScrolling.label "Suavizar o deslocamento">
-<!ENTITY useSmoothScrolling.accesskey "d">
+<!ENTITY useSmoothScrolling.label        "Suavizar o deslocamento">
+<!ENTITY useSmoothScrolling.accesskey    "d">
 <!ENTITY allowHWAccel.label              "Usar aceleração por hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Verificar a minha ortografia durante a escrita">
@@ -30,13 +30,13 @@
 <!ENTITY submitCrashes.label             "Enviar relatórios de erro">
 <!ENTITY submitCrashes.accesskey         "v">
 
-<!ENTITY networkTab.label "Rede">
+<!ENTITY networkTab.label                "Rede">
 
-<!ENTITY connection.label "Ligação">
+<!ENTITY connection.label                "Ligação">
 
-<!ENTITY connectionDesc.label "Configurar como o &brandShortName; se liga à Internet">
-<!ENTITY connectionSettings.label "Definições...">
-<!ENTITY connectionSettings.accesskey "e">
+<!ENTITY connectionDesc.label            "Configurar como o &brandShortName; se liga à Internet">
+<!ENTITY connectionSettings.label        "Definições...">
+<!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY offlineStorage.label            "Armazenamento em modo Desligado">
 
@@ -46,32 +46,33 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label "Utilizar até">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "MB de espaço em disco para a cache">
+<!ENTITY useCacheBefore.label            "Utilizar até">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB de espaço em disco para a cache">
 <!ENTITY clearCacheNow.label             "Limpar Agora">
 <!ENTITY clearCacheNow.accesskey         "g">
+<!ENTITY smartSizeCache.label            "Deixar o &brandShortName; gerir o tamanho da cache.">
 
 <!ENTITY updateTab.label                 "Actualizar">
 
-<!ENTITY autoCheck.label "Verificar automaticamente a existência de actualizações para:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label        "Extras instalados">
-<!ENTITY enableAddonsUpdate2.accesskey    "n">
-<!ENTITY enableSearchUpdate.label "Motores de pesquisa">
-<!ENTITY enableSearchUpdate.accesskey "m">
-<!ENTITY whenUpdatesFound.label "Quando forem encontradas actualizações para o &brandShortName;:">
-<!ENTITY askMe.label "Perguntar o que fazer">
-<!ENTITY askMe.accesskey "q">
-<!ENTITY modeAutomatic.label "Transferir e instalar automaticamente a actualização">
-<!ENTITY modeAutomatic.accesskey "i">
-<!ENTITY modeAutoAddonWarn.label         "Avisar se este procedimento desactivar algum dos meus extras">
+<!ENTITY autoCheck.label                 "Verificar automaticamente a existência de actualizações para:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate2.label       "Extras">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableSearchUpdate.label        "Motores de pesquisa">
+<!ENTITY enableSearchUpdate.accesskey    "m">
+<!ENTITY whenUpdatesFound.label          "Quando forem encontradas actualizações para o &brandShortName;:">
+<!ENTITY askMe.label                     "Perguntar-me o que fazer">
+<!ENTITY askMe.accesskey                 "q">
+<!ENTITY modeAutomatic.label             "Transferir e instalar automaticamente a actualização">
+<!ENTITY modeAutomatic.accesskey         "i">
+<!ENTITY modeAutoAddonWarn.label         "Avisar-me se este procedimento desactivar algum dos meus extras">
 <!ENTITY modeAutoAddonWarn.accesskey     "v">
-<!ENTITY updateHistory.label "Mostrar o histórico das actualizações">
-<!ENTITY updateHistory.accesskey "h">
+<!ENTITY updateHistory.label             "Mostrar o histórico das actualizações">
+<!ENTITY updateHistory.accesskey         "h">
 
-<!ENTITY offlineNotify.label             "Informa-me quando um sítio web pede para guardar dados para uso desligado">
+<!ENTITY offlineNotify.label             "Informar-me quando um sítio web pede para guardar dados para uso desligado">
 <!ENTITY offlineNotify.accesskey         "I">
 <!ENTITY offlineNotifyExceptions.label   "Excepções...">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
@@ -82,23 +83,23 @@
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Remover dados do modo desligado">
 
-<!ENTITY encryptionTab.label "Cifra">
+<!ENTITY encryptionTab.label             "Cifra">
 
-<!ENTITY protocols.label "Protocolos">
-<!ENTITY useSSL3.label "Utilizar SSL 3.0">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "Utilizar TLS 1.0">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "Certificados">
-<!ENTITY certSelection.description "Quando um sítio pedir um certificado pessoal:">
-<!ENTITY certs.auto "Seleccionar um automaticamente">
-<!ENTITY certs.auto.accesskey "u">
-<!ENTITY certs.ask "Perguntar sempre">
-<!ENTITY certs.ask.accesskey "g">
-<!ENTITY viewCerts.label "Ver certificados">
-<!ENTITY viewCerts.accesskey "C">
-<!ENTITY viewCRLs.label "Listas de revogação">
-<!ENTITY viewCRLs.accesskey "V">
+<!ENTITY protocols.label                 "Protocolos">
+<!ENTITY useSSL3.label                   "Utilizar SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Utilizar TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certificados">
+<!ENTITY certSelection.description       "Quando um sítio pedir um certificado pessoal:">
+<!ENTITY certs.auto                      "Seleccionar um automaticamente">
+<!ENTITY certs.auto.accesskey            "u">
+<!ENTITY certs.ask                       "Perguntar sempre">
+<!ENTITY certs.ask.accesskey             "g">
+<!ENTITY viewCerts.label                 "Ver certificados">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewCRLs.label                  "Listas de revogação">
+<!ENTITY viewCRLs.accesskey              "V">
 <!ENTITY verify2.label                   "Validação">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Dispositivos de Segurança">
