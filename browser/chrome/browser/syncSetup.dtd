@@ -1,0 +1,97 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; ynstallaasje">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label     "Hawwe jo &syncBrand.fullName.label; earder brûkt?">
+<!ENTITY setup.choicePage.new.label       "Ik haw &syncBrand.shortName.label; net earderbrûkt">
+<!ENTITY setup.choicePage.existing.label  "Ik brûk &syncBrand.shortName.label; al op in oare kompjûter">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label            "Ferbyn mei">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-tsjinner">
+<!ENTITY serverType.custom.label    "Brûk in eigen tsjinner">
+<!ENTITY signIn.username.label      "Brûkersnamme">
+<!ENTITY signIn.username.accesskey  "B">
+<!ENTITY signIn.password.label      "Wachtwurd">
+<!ENTITY signIn.password.accesskey  "W">
+<!ENTITY signIn.serverURL.label     "Tsjinner-URL">
+<!ENTITY signIn.serverURL.accesskey "T">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label  "Meitsje jo &syncBrand.shortName.label;-account">
+<!ENTITY setup.confirmPassword.label  "Befestigje wachtwurd">
+<!ENTITY setup.confirmPassword.accesskey  "f">
+<!ENTITY setup.emailAddress.label     "E-mailadres">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Ik gean akkoard mei de">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "tsjinstbetingsten">
+<!ENTITY setup.tosAgree2.label      "en it">
+<!ENTITY setup.ppLink.label         "privacybelied">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label       "Jou jo geheime wurd">
+<!ENTITY passphraseDesc.label         "Jou asjobleaft in geheim wurd. Dit sil brûkt wurde om al jo gegevens te fersiferjen sa dat allinnich jo tagong hawwe. It wurdt noait bewarre op de tsjinner, dus ferlies dit net!">
+<!ENTITY passphraseDesc2.label        "Dit maot op syn minst 12 karakters lang wêze en kin net itselde wêze as jo accountwachtwurd.">
+<!ENTITY passphraseEntry.label        "Geheime wurd">
+<!ENTITY passphraseEntry.accesskey    "G">
+<!ENTITY passphraseConfirm.label      "Befestigje">
+<!ENTITY passphraseConfirm.accesskey  "f">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Foarkarren browsersyngronisaasje">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; sil: ">
+<!ENTITY syncModeSwitchDesc.accesskey "s">
+<!ENTITY syncEverything.label         "Syngronisearje alles">
+<!ENTITY customSync.label             "Brûk myn oanpaste ynstellings">
+<!ENTITY syncEverythingDescription.label  "Jo blêdwizers, skiednis, wachtwurden, foarkarren en ljepblêden sille syngronisearre wurde mei jo Weave-account.">
+<!ENTITY syncItem.bookmarks.label     "Syngronisearje blêdwizers">
+<!ENTITY syncItem.bookmarks.accesskey "b">
+<!ENTITY syncItem.tabs.label          "Syngronisearje ljepblêden">
+<!ENTITY syncItem.tabs.accesskey      "l">
+<!ENTITY syncItem.history.label       "Syngronisearje skiednis">
+<!ENTITY syncItem.history.accesskey   "s">
+<!ENTITY syncItem.passwords.label     "Syngronisearje wachtwurden">
+<!ENTITY syncItem.passwords.accesskey "w">
+<!ENTITY syncItem.prefs.label         "Syngronisearje foarkarren">
+<!ENTITY syncItem.prefs.accesskey     "f">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label     "Befestigje asjobleaft dat jo net in robot binne ;)">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Jou jo accountynformaasje">
+<!ENTITY resetPassword.label          "Wachtwurd opnij ynstelle">
+<!ENTITY connecting.label             "Ferbining meitsje…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label     "Jou geheime wurd">
+<!ENTITY passphraseDesc3.label        "Jou asjobleaft jo geheime wurd. Dit maot itselde wêze as dat wat jo brûkt hawwe om jo gegevens te fersiferjen.">
+<!ENTITY passphraseHelp.label         "Your secret phrase is at least 12 characters long and is not your password. You can find your saved secret phrase by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
+<!ENTITY changePassphrase.label       "Wizigje geheime wurd">
+<!ENTITY verifying.label              "Ferifikaasje…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Hoe wolle jo starte?">
+<!ENTITY choice.merge.main.label      "Merge this computer's data with your Weave data">
+<!ENTITY choice.merge.recommend.label "This option is strongly recommended by Mozilla for all users.">
+<!ENTITY choice.client.main.label     "Replace all data on this computer with your Weave data">
+<!ENTITY choice.server.main.label     "Replace all other devices with your local data">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label        "Confirm your choice">
+<!ENTITY confirm.merge.label          "You have chosen to merge your data on this computer with the data on your other devices running Weave.">
+<!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your Weave data to this computer.">
+<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
+<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
+<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label   "Ynstallaasje dien!">
+<!ENTITY setup.successPage.desc.label    "Gefeliciteerd! &brandShortName; is nu ingesteld om automatisch uw informatie te synchroniseren. Vergeet niet om &syncBrand.fullName.label; op al uw apparaten te installeren. U kunt &brandShortName; nu verder gebruiken.">
+<!ENTITY setup.successPage.desc.label    "Lokwinske! &brandShortName; is no ynsteld om automatysk jo ynformaasje te syngronisearjen. Ferjit net om &syncBrand.fullName.label; te ynstallearjen op al jo apparaten. Jo kinne no fierder mei &brandShortName;.">
