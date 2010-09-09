@@ -172,8 +172,8 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>Jo soene net in útsûndering tafoegje moatte as jo in ynternet ferbining hawwe dy't jo net folslein fertrouwe, of as it net normaal is dat jo in warskôging sjogge foar dizze tsjinner.</p>
+<!ENTITY securityOverride.warningContent "
+<p>Jo kinne better gjin útsûndering tafoegje as jo in ynternetferbining hawwe dy't jo net folslein fertrouwe, of as it net normaal is dat jo in warskôging sjogge foar dizze tsjinner.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
