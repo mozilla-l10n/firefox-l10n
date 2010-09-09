@@ -87,6 +87,7 @@
 <!ENTITY offlineAppRemove.confirm "Aizvākt nesaistes datus">
 
 <!ENTITY encryptionTab.label "Šifrēšana">
+<!ENTITY smartSizeCache.label            "Ļaut &brandShortName; izvēlēties manas kešatmiņas izmēru.">
 
 <!ENTITY protocols.label "Protokoli">
 <!ENTITY useSSL3.label "Izmantot SSL 3.0">
