@@ -43,12 +43,17 @@
 
 <!ENTITY  details.link			"詳細">
 
+<!ENTITY  error.title			"更新に失敗しました">
+
 <!ENTITY  error.label			"次の問題が発生したため、この更新を正しくダウンロードまたはインストールできませんでした:">
 
 <!ENTITY  errorManual.label		"このリンクを開いて最新バージョンをダウンロードすれば、手動で &brandShortName; を更新できます:">
 
-<!ENTITY  errorpatching.title		"更新できませんでした">
 <!ENTITY  errorpatching.intro		"差分更新を適用できませんでした。完全更新をダウンロードしてインストールします。">
+
+<!-- (^m^) Bug 583408#c3 -->
+<!ENTITY  errorCertAttrNoUpdate.label	"更新経路上で &brandShortName; の安全な更新が妨げられています。&brandShortName; の最新バージョンを使用しているか、次のサイトで確認してください:">
+<!ENTITY  errorCertAttrHasUpdate.label	"何者かが悪意のある更新を &brandShortName; にダウンロードさせようとしています。ネットワーク管理者またはプロバイダに連絡を取り、助けを求めてください。">
 
 <!ENTITY  finishedPage.title		"更新をインストールする準備ができました">
 <!ENTITY  finishedPage.text		"この更新は次の &brandShortName; 起動時にインストールされます。&brandShortName; を今すぐ再起動するか、作業を続けてから後で再起動してください。">
