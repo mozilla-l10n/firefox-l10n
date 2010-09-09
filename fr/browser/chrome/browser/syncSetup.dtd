@@ -39,7 +39,7 @@
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; respecte votre vie privée">
-<!ENTITY setup.newSyncKeyPage.description.label "Pour respecter totalement votre vie privée, toutes vos données sont chiffrées avant d'être envoyées avant d'être transmises. La clé de synchronisation qui est nécessaire pour déchiffrer vos données n'est pas transmise.">
+<!ENTITY setup.newSyncKeyPage.description.label "Pour respecter totalement votre vie privée, toutes vos données sont chiffrées avant d'être envoyées. La clé de synchronisation qui est nécessaire pour déchiffrer vos données n'est pas transmise.">
 <!ENTITY syncKeyEntry.label        "Votre clé de synchronisation">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Générer">
