@@ -1,9 +1,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 <!ENTITY abouthome.pageTitle "Начальная страница &brandFullName;">
-<!ENTITY abouthome.brandLogo.title "логотип &brandFullName;">
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> — Начало">
-<!ENTITY abouthome.searchEngineLogo.title "Логотип поисковой системы">
 <!ENTITY abouthome.searchEngineButton.label "Поиск">
 <!ENTITY abouthome.searchEngineLinks.advanced "Расширенный поиск">
 <!ENTITY abouthome.searchEngineLinks.preferences "Настройки">
