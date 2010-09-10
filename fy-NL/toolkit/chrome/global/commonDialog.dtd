@@ -2,7 +2,6 @@
 <!ENTITY message.label "In foarbyldtekst komt hjir.">
 <!ENTITY editfield0.label "Gebrukersnamme:">
 <!ENTITY editfield1.label "Wachtwurd:">
-<!ENTITY editfield2.label "Wachtwurd fêstdwaan:">
 <!ENTITY checkbox.label "markeare">
 <!ENTITY copyCmd.label    "Kopiearje">
 <!ENTITY copyCmd.accesskey "K">
