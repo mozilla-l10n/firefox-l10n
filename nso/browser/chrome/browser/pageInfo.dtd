@@ -99,6 +99,10 @@
 <!ENTITY permInstall "Lokela dikoketšo goba dihlogo">
 <!ENTITY permGeo "Abelana lefelo">
 
+<!ENTITY permIndexedDB "Maintain Offline Storage">
+<!ENTITY permClearStorage "Clear Storage">
+<!ENTITY permClearStorage.accesskey "C">
+
 <!ENTITY securityTab "Tšhireletšo">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "Tšhireletšego ya tshedimošo ya letlakala le">
