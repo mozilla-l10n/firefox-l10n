@@ -20,10 +20,16 @@
 <!ENTITY  closeOtherTabs.accesskey     "L">
 <!ENTITY  openTabInNewWindow.label     "Buka di Jendela Baru">
 <!ENTITY  openTabInNewWindow.accesskey "J">
-<!ENTITY  pinTab.label                 "Jadikan Tab Permanen">
-<!ENTITY  pinTab.accesskey             "p">
-<!ENTITY  unpinTab.label               "Jadikan Tab Normal">
-<!ENTITY  unpinTab.accesskey           "d">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Jadikan Tab Apl Permanen">
+<!ENTITY  pinAppTab.accesskey                "l">
+<!ENTITY  unpinAppTab.label                  "Hapus dari Tab Permanen">
+<!ENTITY  unpinAppTab.accesskey              "p">
 <!ENTITY  moveToGroup.label            "Pindahkan ke Kelompok Tab">
 <!ENTITY  moveToGroup.accesskey        "K">
 <!ENTITY  moveToNewGroup.label         "Kelompok Tab Baru">
@@ -264,6 +270,7 @@
 <!ENTITY showAllHistoryCmd2.label "Tampilkan Semua Riwayat">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Edit">
 <!ENTITY appMenuCustomize.label "Ubahsuai">
 <!ENTITY appMenuToolbarLayout.label "Tata Letak Bilah Alat…">
 <!ENTITY appMenuSidebars.label "Bilah Samping">
