@@ -265,6 +265,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Onlangs gesluite oortjies">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Onlangs gesluite vensters">
+<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
 
 <!ENTITY historyHomeCmd.label "Tuis">
 <!ENTITY showAllHistoryCmd2.label "Wys hele geskiedenis">
