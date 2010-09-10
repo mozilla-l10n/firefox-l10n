@@ -1,0 +1,16 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+<!-- These strings are used in the about:home page -->
+
+
+<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
+<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
+
+<!ENTITY abouthome.searchEngineButton.label "Search">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Advanced Search">
+<!ENTITY abouthome.searchEngineLinks.preferences "Preferences">
+
+<!ENTITY abouthome.aboutMozilla "About Mozilla">
