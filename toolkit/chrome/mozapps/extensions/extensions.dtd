@@ -12,6 +12,15 @@
 
 <!ENTITY cmd.back.tooltip "Gaan een bladsy terug">
 <!ENTITY cmd.forward.tooltip "Gaan een bladsy vorentoe">
+<!-- global warnings -->
+
+<!ENTITY warning.safemode.label "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label "Enable">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label "Enable">
+<!ENTITY warning.updatesecurity.enable.tooltip "Enable add-on update security checking">
 <!-- categories / views -->
 
 <!ENTITY view.search.label "Soek">
@@ -39,6 +48,8 @@
 <!ENTITY updates.restart.label "Herbegin nou vir volledige installering">
 <!ENTITY updates.noneFound.label "Bywerkings vir byvoegings gevind">
 <!ENTITY updates.manualUpdatesFound.label "View Available Updates">
+<!ENTITY updates.updateSelected.label "Install Updates">
+<!ENTITY updates.updateSelected.tooltip "Install available updates in this list">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label "Wys meer inligting">
@@ -56,6 +67,10 @@
 <!ENTITY cmd.enableAddon.accesskey "A">
 <!ENTITY cmd.disableAddon.label "Deaktiveer">
 <!ENTITY cmd.disableAddon.accesskey "a">
+<!ENTITY cmd.enableTheme.label "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey "W">
+<!ENTITY cmd.disableTheme.label "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey "W">
 <!ENTITY cmd.installAddon.label "Installeer">
 <!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Verwyder">
@@ -91,8 +106,8 @@
 <!ENTITY detail.repository "Add-on Profile">
 <!ENTITY detail.size "Grootte">
 
-<!ENTITY detail.checkForUpdates.label "Kontroleer vir bywerkings">
-<!ENTITY detail.checkForUpdates.accesskey "v">
+<!ENTITY detail.checkForUpdates.label "Check for Updates">
+<!ENTITY detail.checkForUpdates.accesskey "F">
 <!ENTITY detail.checkForUpdates.tooltip "Check for updates for this add-on">
 <!ENTITY detail.showPreferencesWin.label "Opsies">
 <!ENTITY detail.showPreferencesWin.accesskey "O">
@@ -103,7 +118,7 @@
 <!-- ratings -->
 
 
-<!ENTITY rating.label "Rating:">
+<!ENTITY rating2.label "Rating">
 <!-- download/install progress -->
 
 <!ENTITY progress.pause.tooltip "Laat wag">
@@ -128,8 +143,14 @@
 <!ENTITY addon.details.label "Meer">
 <!ENTITY addon.details.tooltip "Show more details about this add-on">
 <!ENTITY addon.unknownDate "Onbekend">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix "(disabled)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix "Bywerk">
 <!ENTITY addon.undoAction.label "Ontdoen">
 <!ENTITY addon.undoAction.tooltip "Undo this action">
@@ -140,6 +161,8 @@
 <!ENTITY addon.install.tooltip "Install this add-on">
 <!ENTITY addon.updateNow.label "Opdateer nou">
 <!ENTITY addon.updateNow.tooltip "Installeer die bywerking vir hierdie byvoeging">
+<!ENTITY addon.includeUpdate.label "Include in Update">
+<!ENTITY addon.updateAvailable.label "An update is available">
 <!ENTITY addon.checkingForUpdates.label "Kontroleer vir bywerkings...">
 <!ENTITY addon.releaseNotes.label "Vrystellingaantekeninge:">
 <!ENTITY addon.loadingReleaseNotes.label "Laai tans…">
