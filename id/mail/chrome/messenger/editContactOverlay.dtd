@@ -7,6 +7,9 @@
 <!ENTITY editContactEmail.label "Email:">
 <!ENTITY editContactEmail.accesskey "E">
 
+<!ENTITY editContactAddressBook.label "Buku Alamat:">
+<!ENTITY editContactAddressBook.accesskey "A">
+
 <!ENTITY editContactPanelCancel.label "Batal">
 <!ENTITY editContactPanelCancel.accesskey "B">
 
