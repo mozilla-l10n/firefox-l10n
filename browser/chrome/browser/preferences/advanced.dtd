@@ -52,6 +52,7 @@
 <!ENTITY useCacheAfter.label "MB ya sekgoba sa polokelo">
 <!ENTITY clearCacheNow.label "Tloša gona bjale">
 <!ENTITY clearCacheNow.accesskey "T">
+<!ENTITY smartSizeCache.label "Let &brandShortName; manage the size of my cache.">
 
 <!ENTITY updateTab.label "Kaonafatšo">
 
