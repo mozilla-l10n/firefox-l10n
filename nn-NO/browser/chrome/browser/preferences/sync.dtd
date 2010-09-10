@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label          "Handsame konto">
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY changePassword.label         "Endre passord">
-<!ENTITY changePassphrase.label       "Endre hemmeleg setning">
+<!ENTITY mySyncKey.label              "Endre Sync-nøkkel">
 <!ENTITY resetSync.label              "Tilbakestill Sync">
 <!ENTITY differentAccount.label       "Bruk ein annan konto">
 
@@ -23,21 +23,19 @@
 <!ENTITY syncPrefsCaption.label       "Nettlesar-synkronisering">
 <!ENTITY syncComputerName.label       "Datamaskinnamn:">
 <!ENTITY syncComputerName.accesskey   "D">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; vil: ">
-<!ENTITY syncModeSwitchDesc.accesskey "v">
-<!ENTITY syncEverything.label         "Synkronisere alt">
-<!ENTITY customSync.label             "Bruk eigendefinerte innstillingar">
-<!ENTITY syncEverythingDescription.label  "Bokmerke, historikk, passord, innstillingar og faner vil synkroniserast.">
-<!ENTITY syncItem.bookmarks.label     "Synkroniser bokmerke">
-<!ENTITY syncItem.bookmarks.accesskey "S">
-<!ENTITY syncItem.tabs.label          "Synkroniser faner">
-<!ENTITY syncItem.tabs.accesskey      "k">
-<!ENTITY syncItem.history.label       "Synkroniser historikk">
-<!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Synkroniser passord">
-<!ENTITY syncItem.passwords.accesskey "a">
-<!ENTITY syncItem.prefs.label         "Synkroniser innstillingar">
-<!ENTITY syncItem.prefs.accesskey     "n">
+
+<!ENTITY syncMy.label               "Synkroniser">
+<!ENTITY engine.bookmarks.label     "Bokmerke">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "Faner">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Historikk">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Passord">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "Innstillingar">
+<!ENTITY engine.prefs.accesskey     "n">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tenestevilkår">
