@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        		"As ik in keppeling iepenje yn in nij ljepblêd, der direkt nei ta gean">
 <!ENTITY switchToNewTabs.accesskey    		"a">
+
+<!ENTITY showTabsInTaskbar.label          	"Ljepblêdfoarbylden yn de Windows-taakbalke toane">
+<!ENTITY showTabsInTaskbar.accesskey      	"k">
