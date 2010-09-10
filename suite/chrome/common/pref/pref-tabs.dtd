@@ -6,6 +6,8 @@
 <!ENTITY background.accesskey "B">
 <!ENTITY warnOnClose.label "Me prévenir lors de la fermeture d'une fenêtre contenant plusieurs onglets">
 <!ENTITY warnOnClose.accesskey "M">
+<!ENTITY relatedAfterCurrent.label "Ouvrir les onglets liés après l'onglet courant">
+<!ENTITY relatedAfterCurrent.accesskey "O">
 <!ENTITY loadGroup.label "À l'ouverture d'un marque-page de groupe d'onglets">
 <!ENTITY loadGroupAppend.label "Ajouter des onglets">
 <!ENTITY loadGroupAppend.accesskey "o">
