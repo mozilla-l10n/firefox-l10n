@@ -59,5 +59,3 @@
 <!ENTITY  clickFinish.label               "Klik op Foltôgje om troch te gean mei it starten fan &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Klik op Klear om troch te gean mei it starten fan &brandShortName;.">
 <!ENTITY  enableChecking.label            "&brandShortName; tastean om te kontrolearjen op fernijings.">
-<!ENTITY  details.label                   "Details...">
-<!ENTITY  details.accesskey               "D">
