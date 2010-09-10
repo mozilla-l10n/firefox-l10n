@@ -100,7 +100,7 @@
 <!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "下載項目">
 <!ENTITY search.scopeDownloads.accesskey           "D">
-<!ENTITY search.scopeHistory.label                 "瀏覽記錄">
+<!ENTITY search.scopeHistory.label                 "歷史記錄">
 <!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY saveSearch.label                          "儲存">
 <!ENTITY saveSearch.accesskey                      "S">

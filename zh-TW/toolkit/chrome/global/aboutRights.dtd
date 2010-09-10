@@ -20,16 +20,19 @@
 <!ENTITY rights.intro-point2-b "這裡">
 <!ENTITY rights.intro-point2-c "找到更多關於商標的使用條款。">
 
+<!-- point 2.5 text for official branded builds -->
+<!ENTITY rights.intro-point2.5 "&brandShortName; 當中的一些功能，像是錯誤回報員，將會提供您送出 &vendorShortName; 使用者送出回饋的功能。在送出使用者回饋時，您必須同意授權 &vendorShortName; 使用您所送出的回饋內容以改善其產品、發布回饋內容於其網站、以及散佈使用者回饋。">
+
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "&vendorShortName; 產品的隱私權保護政策請看">
-<!ENTITY rights.intro-point3b "這裡">
+<!ENTITY rights2.intro-point3a "關於我們所使用您透過 &brandShortName; 送出給 &vendorShortName; 的個人資訊的方法位於 ">
+<!ENTITY rights2.intro-point3b "&brandShortName; 隱私權保護政策">
 <!ENTITY rights.intro-point3c "。">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "適用此產品的隱私權保護政策應在此處列出。">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; 提供選用的附加資訊服務，例如 SafeBrowsing 服務；但是我們無法保證它 100&#37; 準確且沒有錯誤。在">
+<!ENTITY rights2.intro-point4a "一些 &brandShortName; 的功能將會用到以網頁為基礎的資訊服務，然而，我們無法保證這些資料完全正確或是沒有錯誤。關於更多詳情，包含如何停用會使用到這些服務的功能，可以在 ">
 <!ENTITY rights.intro-point4b "服務聲明條款">
 <!ENTITY rights.intro-point4c "可以找到更多資訊，包括如何停用這些服務的說明。">
 
@@ -38,16 +41,36 @@
 <!ENTITY rights.intro-point4b-unbranded "網站資訊服務">
 <!ENTITY rights.intro-point4c-unbranded "章節。">
 
-<!ENTITY rights.webservices-header "&brandFullName; 網站資訊服務聲明條款">
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "適用此產品的隱私權保護政策應在此處列出。">
+
+<!ENTITY rights2.webservices-header "以網頁為基礎的 &brandFullName; 資訊服務 被找到">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; 提供下述的網站資訊服務（以下簡稱「資訊服務」），例如 SafeBrowsing 服務，會透過執行檔版本的 &brandShortName; 提供給您使用。若您不想要使用這些「資訊服務」或是您不願意接受以下的服務聲明條款，您可以進入 &brandShortName; 的偏好設定，選擇">
-<!ENTITY rights.webservices-b "安全">
-<!ENTITY rights.webservices-c "頁面，然後手動取消「&blockAttackSites.label;」與「&blockWebForgeries.label;」這二個選項，來停用 SafeBrowsing 的相關服務。">
+<!ENTITY rights2.webservices-a "&brandFullName; 依照以下的方式使用以網頁為基礎的資訊（以下簡稱「服務」）以在此二進位版本的 &brandShortName; 提供服務。如果您不想使用當中一或多個服務，或無法接受以下的方式，您可以停用這些功能或服務。停用某種特定功能或服務的方式可以在以下位置找到： ">
+<!ENTITY rights2.webservices-b "這裡">
+<!ENTITY rights2.webservices-c "找到更多關於商標的使用條款。">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "不建議您停用 Safe Browsing 功能，因為這將可能會讓您打開不安全的網站。如果您能然要完全停用此功能，請依照以下步驟:">
+<!ENTITY rights.safebrowsing-term1 "打開應用程式偏好設定">
+<!ENTITY rights.safebrowsing-term2 "選擇安全選項">
+<!ENTITY rights.safebrowsing-term3 "取消選取「&blockAttackSites.label」及「&blockWebForgeries.label;」選項">
+<!ENTITY rights.safebrowsing-term4 "已停用 Safe Browsing">
+
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "地理資訊瀏覽: ">
+<!ENTITY rights.locationawarebrowsing-b "是永遠可選的。沒有任何資訊會在您同意前被送出。如果您想要完全停用這些功能，請依照以下步驟:">
+<!ENTITY rights.locationawarebrowsing-term1a "請在網址列輸入 ">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "輸入 geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "雙擊 geo.enabled 這個項目">
+<!ENTITY rights.locationawarebrowsing-term4 "地理資訊瀏覽就會被停用">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "此產品包含的網站資訊服務，和停用這些服務的方法（若有的話），應該要寫在這裡。">
@@ -56,9 +79,9 @@
 <!ENTITY rights.webservices-term1-unbranded "適用於本產品的網站資訊服務聲明條款應該要寫在這裡。">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; 與其貢獻者、授權人與資訊服務的合作夥伴將盡力提供準確的詐騙防護與有害網站資訊。然而，他們並無法保證所提供的資訊鉅細靡遺且完整無誤：某些有風險的網站可能不會被辨認出來，某些安全的網站也有可能會被誤認有風險。">
+<!ENTITY rights2.webservices-term1 "&vendorShortName;與其貢獻者、授權者，及伙伴致力於提供最新最準確的服務。然而，我們無法保證此資訊足夠完善且沒有錯誤。舉例，Safe Browsing 服務可能無法偵測出某些有風險的網站，或是錯誤的把安全的網站辨識為有問題的網站；位置偵測服務當中由我們的服務提供者所回傳的位置資訊僅為預估值，我們與我們的服務提供者皆不保證回傳的位置資訊的準確度。">
 <!ENTITY rights.webservices-term2 "&vendorShortName; 保留嗣後自行修改服務內容或是停止相關服務的權利。">
-<!ENTITY rights.webservices-term3 "資訊服務的提供網站透過本聲明授權使用者，透過 &brandShortName; 的執行檔版本使用這些資訊服務。唯 &vendorShortName; 與它的授權人保留其他與此「資訊服務」無直接相關的權利。本網站資訊服務聲明條款，並無意限制任何基於 &brandShortName; 所適用的開放源碼授權條款給予軟體使用者的權利，亦不干預 &brandShortName; 開放源碼版本依其授權條款所能被進行的利用方式。">
+<!ENTITY rights2.webservices-term3 "&vendorShortName; 授權您，我們也歡迎您使用 &brandShortName; 當中所一併提供的這些服務。&vendorShortName; 及其授權人保留服務當中所有其他的權利。以上這些規定的目的並不是要用來限制任何 &brandShortName; 及其相對應的原始碼版本透過開放原始碼所授之權。">
 <!ENTITY rights.webservices-term4 "這些「資訊服務」的內容依其現狀提供。&vendorShortName; 與其貢獻者、授權人、與 &brandShortName; 的散布者，並不提供任何明示或隱含的保證，不擔保的範圍包含且不限於「資訊服務」的可用性及其他任何特定目的的使用。這些「資訊服務」的品質與效能沒有擔保，您須自行擔負使用此一「資訊服務」可能產生的任何風險。若您所處的司法管轄區域不容許聲明條款預先排除或限制隱含性的保證，那麼本聲明裡關於隱含性保證的預先排除規定便不適用於您，但本聲明條款的其他條款內容則仍成立生效。">
 <!ENTITY rights.webservices-term5 "除非法律要求，&vendorShortName;、它的貢獻者、授權人、與散布者不會對提供程式及「資訊服務」所造成的任何損害擔負責任，免責的範圍包含任何使用 &brandShortName; 與此「資訊服務」相關的，非直接的、特別的、偶發的、因果關係式的，以及示範性的懲罰性賠償金。如果法院就具體個案判定提供服務者仍需擔負上述的賠償責任，則各種損害賠償責任的總合須不逾美金五百元。若您所處的司法管轄區域不容許損害賠償責任的預先排除及限制，那麼本聲明裡關於損害賠償金的預先排除及限制規定便不適用於您，但本聲明條款的其他條款內容則仍成立生效。">
 <!ENTITY rights.webservices-term6 "&vendorShortName; 可在必要時更新聲明條款的內容。已公布聲明條款內容在沒有 &vendorShortName; 的書面同意下，任何人不得對其聲明內容進行修改或刪除。">
