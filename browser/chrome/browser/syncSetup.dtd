@@ -2,12 +2,16 @@
 
 <!-- First page of the wizard -->
 
+<!ENTITY setup.pickSetupType.description "Velkomen, dersom du ikkje har brukt &syncBrand.fullName.label; før, må du opprette ein ny konto.">
+<!ENTITY button.createNewAccount.label "Opprett ny konto">
+<!ENTITY button.haveAccount.label "Eg har ein &syncBrand.fullName.label;-konto">
+
 <!ENTITY setup.choicePage.title.label     "Har du brukt &syncBrand.fullName.label; før?">
 <!ENTITY setup.choicePage.new.label       "Eg har aldri brukt &syncBrand.shortName.label; før">
 <!ENTITY setup.choicePage.existing.label  "Eg brukar allereie &syncBrand.shortName.label; på ei anna datamaskin">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Kople til">
+<!ENTITY server.label               "Tenar">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-tenaren">
 <!ENTITY serverType.custom.label    "Bruk ein annan tenar">
 <!ENTITY signIn.username.label      "Brukarnamn">
@@ -18,7 +22,7 @@
 <!ENTITY signIn.serverURL.accesskey "T">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "Opprett ein &syncBrand.shortName.label;-konto">
+<!ENTITY setup.newAccountDetailsPage.title.label "Kontodetaljar">
 <!ENTITY setup.confirmPassword.label  "Stadfest passord">
 <!ENTITY setup.confirmPassword.accesskey  "a">
 <!ENTITY setup.emailAddress.label     "E-postadresse">
@@ -33,67 +37,76 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label       "Skriv inn den hemmelege setninga">
-<!ENTITY passphraseDesc.label         "Skriv inn ei hemmeleg setning. Setninga vert brukt for å kryptere alle data, slik at berre du kan få tilgang til henne. Denne setninga vert aldri lagra på tenaren, så du må passe på å ikkje miste henne.">
-<!ENTITY passphraseDesc2.label        "Denne må vere minst 12 teikn lang, og kan ikkje vere det same som kontopassordet ditt.">
-<!ENTITY passphraseEntry.label        "Hemmeleg setning">
-<!ENTITY passphraseEntry.accesskey    "H">
-<!ENTITY passphraseConfirm.label      "Stadfest">
-<!ENTITY passphraseConfirm.accesskey  "S">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; bryr seg om tryggleiken din">
+<!ENTITY setup.newSyncKeyPage.description.label "For å verne personvernet ditt vil alle data verte krypterte før dei vert lasta opp. Sync-nøkkelen som er nødvendig for å dekryptere dine data vert ikkje lasta opp.">
+<!ENTITY syncKeyEntry.label        "Sync-nøkkel">
+<!ENTITY syncKeyEntry.accesskey    "S">
+<!ENTITY syncKeyGenerate.label     "Generer">
+<!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkrevd for å få tilgang til &syncBrand.fullName.label; på fleire maskiner. Lag ein tryggingskopi. Vi kan ikkje hjelpe deg med å finne tilbake tilbake ein gløymd Sync-nøkkel.">
 
-<!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Innstillingar for nettlesar-synkronisering">
-<!ENTITY syncComputerName.label       "Datamaskinnamn:">
-<!ENTITY syncComputerName.accesskey   "D">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; vil: ">
-<!ENTITY syncModeSwitchDesc.accesskey "v">
-<!ENTITY syncEverything.label         "Synkronisere alt">
-<!ENTITY customSync.label             "Bruk eigendefinerte innstillingar">
-<!ENTITY syncEverythingDescription.label  "Bokmerke, historikk, passord, innstillingar og faner vil synkroniserast.">
-<!ENTITY syncItem.bookmarks.label     "Synkroniser bokmerke">
-<!ENTITY syncItem.bookmarks.accesskey "S">
-<!ENTITY syncItem.tabs.label          "Synkroniser faner">
-<!ENTITY syncItem.tabs.accesskey      "k">
-<!ENTITY syncItem.history.label       "Synkroniser historikk">
-<!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Synkroniser passord">
-<!ENTITY syncItem.passwords.accesskey "a">
-<!ENTITY syncItem.prefs.label         "Synkroniser innstillingar">
-<!ENTITY syncItem.prefs.accesskey     "n">
+<!ENTITY button.syncKeyBackup.email.label     "E-post …">
+<!ENTITY button.syncKeyBackup.email.accesskey "E">
+<!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
+<!ENTITY button.syncKeyBackup.print.accesskey "S">
+<!ENTITY button.syncKeyBackup.save.label      "Lagre …">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label     "Stadfest at du ikkje er ein robot ;)">
+<!ENTITY page.syncKeyBackup.title     "Firefox Sync-nøkkel">
+<!ENTITY page.syncKeyBackup.descr     "Denne hemmelege nøkkelen vert brukt for å kryptere dine personlige data. Han vert ikkje lasta opp til tenaren, og kan ikkje finnast att om du gløymer han. Ikke mist han eller del han med andre.
+">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Stadfest at du ikkje er ein robot">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Skriv inn kontoinformasjon">
 <!ENTITY resetPassword.label          "Tilbakestill passord">
 <!ENTITY connecting.label             "Koplar til …">
 
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label     "Skriv inn hemmeleg setning">
-<!ENTITY passphraseDesc3.label        "Skriv inn den hemmelige setninga di. Dette må vere den same hemmelege setninga som du brukte til å kryptere med.">
-<!ENTITY passphraseHelp.label         "Den hemmelege setninga må vere minst 12 teikn lang, og ulik passordet. Du kan finne den hemmelege setninga di ved å sjekke 'Lagra passord' under Tryggleik i innstillingne. Om du framleis ikkje finn den rette hemmelege setninga kan du velje å stille henne tilbake, men då vil du miste alle data som er lagra på tenaren.">
-<!ENTITY changePassphrase.label       "Endre hemmeleg setning">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Skriv inn Sync-nøkkelen">
+<!ENTITY setup.existingSyncKeyPage.description "Sync-nøkkelen vart oppretta for deg, eller du skreiv inn din eigen første gong du registrerte deg for &syncBrand.fullName.label;. Han er ikkje lik passordet ditt.
+">
+<!ENTITY existingSyncKeyHelp.description "Du kan finne din lagra Sync-nøkkel ved å gå til den andre datamaskina din, og kontrollere Lagra passord under TRyggleik. Dersom du framleis ikkje klarer å finne den rette Sync-nøkkelen kan du velje å tilbakestille han, men då vil du miste alle data som er lagra på tenaren.
+">
+<!ENTITY lostSyncKey.label            "Eg har mistet Sync-nøkkelen">
 <!ENTITY verifying.label              "Stadfestar …">
 
-<!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "Korleis vil du byrje?">
-<!ENTITY choice.merge.main.label      "Slå saman data på denne datamskina med &syncBrand.shortName.label; sine data">
-<!ENTITY choice.merge.recommend.label "Dette valet er sterkt tilrådd av Mozilla for alle brukarar.">
-<!ENTITY choice.client.main.label     "Byt ut alle data på denne datamaskina med data frå &syncBrand.fullName.label;
-">
-<!ENTITY choice.server.main.label     "Byt ut alle data på andre einingar med dine data">
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Sync-innstillingar">
+<!ENTITY syncComputerName.label       "Datamaskinnamn:">
+<!ENTITY syncComputerName.accesskey   "D">
 
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label        "Stadfest valet">
-<!ENTITY confirm.merge.label          "Du har valt å slå saman data på denne datamaskina med data på andre einingar som køyrer &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label         "Alle &brandShortName;-data på denne datamaskina vert sletta, som òg gjeld følgande:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; vil deretter kopiere &syncBrand.fullName.label;-data dine til denne datamaskina.">
+<!ENTITY syncMy.label               "Synkroniser">
+<!ENTITY engine.bookmarks.label     "Bokmerke">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "Faner">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Historikk">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Passord">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "Innstillingar">
+<!ENTITY engine.prefs.accesskey     "n">
+
+<!ENTITY choice2.merge.main.label      "Flett saman data til denne datamaskina med &syncBrand.shortName.label; sine data">
+<!ENTITY choice2.merge.recommended.label "Tilrådd:">
+<!ENTITY choice2.client.main.label     "Byt ut alle data på denne datamaskina med data fra &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Byt ut data på alle andre einingar med data på denne datamaskina">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Stadfest">
+<!ENTITY confirm.merge.label    "Du har valt å flette saman data fra denne datamaskina med data i Sync-kontoen.">
+<!ENTITY confirm.client.label         "Alle data på &brandShortName; vert sletta, inkludert følgjande:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; vil so kopiere &syncBrand.fullName.label;-data dine til denne datamaskina.">
 <!ENTITY confirm.client.warning.label "ÅTVARING: Dette vil føre til at alle &brandShortName;-data på denne datamaskina vert skifta ut!">
 <!ENTITY confirm.server.label         "Følgjande einingar vert overskrivne med lokale data:">
 <!ENTITY confirm.server.warning.label "ÅTVARING: Dine lokale data vil erstatte alle &brandShortName;-data på desse einingane!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "Oppsettet er fullført.">
-<!ENTITY setup.successPage.desc.label    "Gratulerer! &brandShortName; er no konfigurert til å automatisk synkronisere informasjonen din. Ikkje gløym å installere &syncBrand.fullName.label; på alle einingane dine. Du kan no halde fram med å bruke &brandShortName;.">
+<!ENTITY setup.successPage.title "Konfigurasjonen er fullført!">
+<!ENTITY changeOptions.label "Du kan endre denne innstillinga ved å velje Sync-innstillingar nedanfor.
+">
+<!ENTITY continueUsing.label "Du kan halde fram med å bruke &brandShortName;.
+">
