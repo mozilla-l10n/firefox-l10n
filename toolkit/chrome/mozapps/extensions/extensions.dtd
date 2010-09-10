@@ -49,6 +49,8 @@
 <!ENTITY updates.restart.label                "Mulai ulang sekarang untuk menyelesaikan pemasangan">
 <!ENTITY updates.noneFound.label              "Tidak ada versi baru ditemukan">
 <!ENTITY updates.manualUpdatesFound.label     "Tampilkan Versi Baru yang Tersedia">
+<!ENTITY updates.updateSelected.label         "Pasang Versi Baru">
+<!ENTITY updates.updateSelected.tooltip       "Pasang versi baru yang ada pada daftar ini">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Tampilkan informasi selengkapnya">
@@ -117,7 +119,7 @@
 <!ENTITY detail.showPreferencesUnix.tooltip   "Ubah pengaturan pengaya ini">
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Peringkat:">
+<!ENTITY rating2.label                        "Peringkat">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Tunda">
@@ -152,6 +154,8 @@
 <!ENTITY addon.install.tooltip                "Pasang pengaya ini">
 <!ENTITY addon.updateNow.label                "Perbarui Sekarang">
 <!ENTITY addon.updateNow.tooltip              "Pasang versi baru pengaya ini">
+<!ENTITY addon.includeUpdate.label            "Sertakan untuk dimutakhirkan">
+<!ENTITY addon.updateAvailable.label          "Versi baru tersedia">
 <!ENTITY addon.checkingForUpdates.label       "Memeriksa versi baru…">
 <!ENTITY addon.releaseNotes.label             "Catatan Rilis:">
 <!ENTITY addon.loadingReleaseNotes.label      "Memuat…">
