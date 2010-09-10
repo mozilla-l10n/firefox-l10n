@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label          "Account beheren">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY changePassword.label         "Wachtwoord wijzigen">
-<!ENTITY changePassphrase.label       "Geheime wachtzin wijzigen">
+<!ENTITY mySyncKey.label              "Mijn Syncsleutel">
 <!ENTITY resetSync.label              "Synchronisatie herinitialiseren">
 <!ENTITY differentAccount.label       "Een andere account gebruiken">
 
