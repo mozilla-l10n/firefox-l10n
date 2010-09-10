@@ -265,6 +265,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Onglets récemment fermés">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Fenêtres récemment fermées">
+<!ENTITY historyRestoreLastSession.label "Restaurer la session précédente">
 
 <!ENTITY historyHomeCmd.label "Accueil">
 <!ENTITY showAllHistoryCmd2.label "Afficher l'historique">
