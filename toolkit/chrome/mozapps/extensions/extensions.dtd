@@ -41,6 +41,8 @@
 <!ENTITY updates.restart.label "Riavvia adesso per completare l'installazione">
 <!ENTITY updates.noneFound.label "Nessun aggiornamento disponibile">
 <!ENTITY updates.manualUpdatesFound.label "Visualizza aggiornamenti disponibili">
+<!ENTITY updates.updateSelected.label "Installa aggiornamenti">
+<!ENTITY updates.updateSelected.tooltip "Installa gli aggiornamenti disponibili in questo elenco">
 <!ENTITY cmd.showDetails.label "Visualizza ulteriori informazioni">
 <!ENTITY cmd.showDetails.accesskey "V">
 <!ENTITY cmd.findUpdates.label "Cerca aggiornamenti">
@@ -97,7 +99,7 @@
 <!ENTITY detail.showPreferencesUnix.label "Preferenze">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip "Modifica le preferenze di questo componente aggiuntivo">
-<!ENTITY rating.label "Voto">
+<!ENTITY rating2.label "Voto">
 <!ENTITY progress.pause.tooltip "Pausa">
 <!ENTITY progress.cancel.tooltip "Annulla">
 <!ENTITY sort.name.label "Nome">
@@ -126,6 +128,8 @@
 <!ENTITY addon.install.tooltip "Installa questo componente aggiuntivo">
 <!ENTITY addon.updateNow.label "Aggiorna adesso">
 <!ENTITY addon.updateNow.tooltip "Installa l'aggiornamento per questo componente aggiuntivo">
+<!ENTITY addon.includeUpdate.label "Includi negli aggiornamenti">
+<!ENTITY addon.updateAvailable.label "È disponibile un aggiornamento">
 <!ENTITY addon.checkingForUpdates.label "Ricerca aggiornamenti…">
 <!ENTITY addon.releaseNotes.label "Note di versione:">
 <!ENTITY addon.loadingReleaseNotes.label "Caricamento in corso…">
