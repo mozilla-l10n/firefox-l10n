@@ -118,4 +118,5 @@
 <!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης hardware όπου είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey          "h">
 
+<!ENTITY smartSizeCache.label            "Να καθορίζει ο &brandShortName; το μέγεθος της λανθάνουσας μνήμης.">
 

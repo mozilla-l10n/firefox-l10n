@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
 <!ENTITY manageAccount.accesskey      "χ">
 <!ENTITY changePassword.label         "Αλλαγή κωδικού">
-<!ENTITY changePassphrase.label       "Αλλαγή συνθηματικής φράσης">
+
 <!ENTITY resetSync.label              "Εκκαθάριση συγχρονισμού">
 <!ENTITY differentAccount.label       "Χρήση ενός διαφορετικού λογαριασμού">
 
@@ -23,23 +23,29 @@
 <!ENTITY syncPrefsCaption.label       "Συγχρονισμός περιηγητή">
 <!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
 <!ENTITY syncComputerName.accesskey   "υ">
-<!ENTITY syncModeSwitchDesc.label     "Με τον &brandShortName; να: ">
-<!ENTITY syncModeSwitchDesc.accesskey "ν">
-<!ENTITY syncEverything.label         "Γίνεται συγχρονισμός όλων">
-<!ENTITY customSync.label             "Χρήση των προσαρμοσμένων μου ρυθμίσεων">
-<!ENTITY syncEverythingDescription.label  "Οι σελιδοδείκτες, το ιστορικό, οι κωδικοί, οι προτιμήσεις και οι καρτέλες σας θα συγχρονιστούν.">
-<!ENTITY syncItem.bookmarks.label     "Συγχρονισμός σελιδοδεικτών">
-<!ENTITY syncItem.bookmarks.accesskey "δ">
-<!ENTITY syncItem.tabs.label          "Συγχρονισμός καρτελών">
-<!ENTITY syncItem.tabs.accesskey      "τ">
-<!ENTITY syncItem.history.label       "Συγχρονισμός ιστορικού">
-<!ENTITY syncItem.history.accesskey   "ρ">
-<!ENTITY syncItem.passwords.label     "Συγχρονισμός κωδικών">
-<!ENTITY syncItem.passwords.accesskey "κ">
-<!ENTITY syncItem.prefs.label         "Συγχρονισμός προτιμήσεων">
-<!ENTITY syncItem.prefs.accesskey     "σ">
+
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Όροι υπηρεσίας">
 <!ENTITY prefs.ppLink.label         "Πολιτική απορρήτου">
+
+<!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">
+<!ENTITY engine.bookmarks.accesskey "δ">
+
+<!ENTITY engine.history.label       "Ιστορικό">
+<!ENTITY engine.history.accesskey   "ρ">
+
+<!ENTITY engine.passwords.label     "Κωδικοί">
+<!ENTITY engine.passwords.accesskey "δ">
+
+<!ENTITY engine.prefs.label         "Προτιμήσεις">
+<!ENTITY engine.prefs.accesskey     "ρ">
+
+<!ENTITY engine.tabs.label          "Καρτέλες">
+<!ENTITY engine.tabs.accesskey      "τ">
+
+<!ENTITY mySyncKey.label              "Το κλειδί συγχρονισμού μου">
+<!ENTITY syncMy.label               "Συγχρονισμός σε">
+
 
