@@ -3,7 +3,7 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje…">
-<!ENTITY securityOverride.warningText "
-<p>Jo moatte net in útsûndering tafoegje as jo in ynternetferbining brûke dy't jo net folslein fertrouwe of as jo net gewoan binne om in warskôging te sjen foar dizze tsjinner.</p>
+<!ENTITY securityOverride.warningContent "
+<p>Jo kinne better gjin útsûndering tafoegje as jo in ynternetferbining hawwe dy't jo net folslein fertrouwe, of as it net normaal is dat jo in warskôging sjogge foar dizze tsjinner.</p>
 <p>As jo noch hieltiid in útsûndering tafoegje wolle foar dizze side, dan kinne jo dat dwaan yn jo avansearre fersifering ynstellings.</p>
 ">
