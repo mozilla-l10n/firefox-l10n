@@ -97,7 +97,11 @@
 <!ENTITY  permPopup             "Abrir Janelas Popup">
 <!ENTITY  permCookie            "Definir Cookies">
 <!ENTITY  permInstall           "Instalar Extensões ou Temas">
-<!ENTITY  permGeo               "partilhar localização">
+<!ENTITY  permGeo               "Partilhar localização">
+
+<!ENTITY  permIndexedDB              "Manutenção do armazenamento desligado">
+<!ENTITY  permClearStorage           "Limpar armazenamento">
+<!ENTITY  permClearStorage.accesskey "z">
 
 <!ENTITY  securityTab           "Segurança">
 <!ENTITY  securityTab.accesskey "S">
