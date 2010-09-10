@@ -11,11 +11,11 @@
 <!ENTITY locbar.nothing.label "niks">
 
 
-<!ENTITY acceptCookies.label "Accept cookies from sites">
+<!ENTITY acceptCookies.label "Aanvaar koekies van werwe">
 <!ENTITY acceptCookies.accesskey "A">
 
-<!ENTITY acceptThirdParty.label "Accept third-party cookies">
-<!ENTITY acceptThirdParty.accesskey "c">
+<!ENTITY acceptThirdParty.label "Aanvaar derdeparty-koekies">
+<!ENTITY acceptThirdParty.accesskey "n">
 
 <!ENTITY keepUntil.label "Hou tot:">
 <!ENTITY keepUntil.accesskey "H">

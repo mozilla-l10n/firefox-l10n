@@ -1,6 +1,6 @@
 <!ENTITY testpilot.brand.label "Test Pilot">
 <!-- browser window: menu and status bar -->
-<!ENTITY testpilot.settings.label "Settings">
+<!ENTITY testpilot.settings.label "Instellings">
 <!ENTITY testpilot.settings.dataSubmission.label "Data Submission">
 <!ENTITY testpilot.settings.notifications.label "Notifications">
 <!ENTITY testpilot.settings.notifyWhen.label "Notify me when…">
@@ -16,7 +16,7 @@
 <!ENTITY testpilot.studiesWindow.currentStudies.label "Current Studies">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label "Finished Studies">
 <!ENTITY testpilot.studiesWindow.studyFindings.label "Study Findings">
-<!ENTITY testpilot.studiesWindow.settings.label "Settings">
+<!ENTITY testpilot.studiesWindow.settings.label "Instellings">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage "Loading, please wait…">
 <!-- raw data dialog -->
 

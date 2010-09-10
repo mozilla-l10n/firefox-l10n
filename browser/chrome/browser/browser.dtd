@@ -18,17 +18,17 @@
 <!ENTITY reloadAllTabs.accesskey "a">
 <!ENTITY closeOtherTabs.label "Sluit ander oortjies">
 <!ENTITY closeOtherTabs.accesskey "a">
-<!ENTITY openTabInNewWindow.label "Open in a New Window">
-<!ENTITY openTabInNewWindow.accesskey "W">
+<!ENTITY openTabInNewWindow.label "Open in 'n nuwe venster">
+<!ENTITY openTabInNewWindow.accesskey "v">
 <!ENTITY pinTab.label "Make into App Tab">
 <!ENTITY pinTab.accesskey "p">
 <!ENTITY unpinTab.label "Make into Normal Tab">
 <!ENTITY unpinTab.accesskey "k">
 <!ENTITY moveToGroup.label "Move to Group">
 <!ENTITY moveToGroup.accesskey "M">
-<!ENTITY moveToNewGroup.label "New Group">
-<!ENTITY bookmarkAllTabs.label "Bookmark All Tabs…">
-<!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY moveToNewGroup.label "Nuwe groep">
+<!ENTITY bookmarkAllTabs.label "Boekmerk alle oortjies…">
+<!ENTITY bookmarkAllTabs.accesskey "o">
 <!ENTITY undoCloseTab.label "Ontdoen oortjie sluit">
 <!ENTITY undoCloseTab.accesskey "O">
 <!ENTITY closeTab.label "Sluit oortjie">
@@ -73,8 +73,8 @@
 <!ENTITY pageInfoCmd.label "Bladsyinfo">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Full Screen">
-<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.label "Volskerm">
+<!ENTITY fullScreenCmd.accesskey "V">
 <!ENTITY fullScreenCmd.macCommandKey "v">
 <!ENTITY showAllTabsCmd.label "Wys alle oortjies">
 <!ENTITY showAllTabsCmd.accesskey "a">
@@ -124,7 +124,7 @@
 <!ENTITY locationItem.title "Ligging">
 <!ENTITY searchItem.title "Soek">
 <!ENTITY throbberItem.title "Aktiwiteitaanwyser">
-<!ENTITY bookmarksItem.title "Bookmarks">
+<!ENTITY bookmarksItem.title "Boekmerke">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label "Tuis">
@@ -132,14 +132,14 @@
 <!ENTITY tabViewButton2.tooltip "Group Your Tabs">
 
 <!ENTITY bookmarksButton.label "Boekmerke">
-<!ENTITY bookmarksButton.tooltip "Display your bookmarks">
+<!ENTITY bookmarksButton.tooltip "Vertoon u boekmerke">
 <!ENTITY bookmarksButton.accesskey "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label "Bookmarks">
-<!ENTITY bookmarksMenuButton.tooltip "Display your bookmarks">
+<!ENTITY bookmarksMenuButton.label "Boekmerke">
+<!ENTITY bookmarksMenuButton.tooltip "Vertoon u boekmerke">
 <!ENTITY viewBookmarksSidebar.label "Wys in kantbalk">
-<!ENTITY viewBookmarksToolbar.label "View Bookmarks Toolbar">
+<!ENTITY viewBookmarksToolbar.label "Vertoon boekmerknutsbalk">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -181,10 +181,10 @@
 <!ENTITY inspectMenu.commandkey "I">
 
 <!ENTITY inspectPanelTitle.label "HTML">
-<!ENTITY inspectButton.label "Inspect">
+<!ENTITY inspectButton.label "Inspekteer">
 <!ENTITY inspectButton.accesskey "I">
-<!ENTITY inspectNextButton.label "Next">
-<!ENTITY inspectNextButton.accesskey "N">
+<!ENTITY inspectNextButton.label "Volgende">
+<!ENTITY inspectNextButton.accesskey "n">
 <!ENTITY inspectPreviousButton.label "Vorige">
 <!ENTITY inspectPreviousButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Style">
@@ -194,7 +194,7 @@
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label "Object">
+<!ENTITY inspectObjectButton.label "Objek">
 <!ENTITY inspectObjectButton.accesskey "O">
 
 <!ENTITY fileMenu.label "Lêer">
@@ -231,8 +231,8 @@
 <!ENTITY preferencesCmdUnix.label "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey "k">
 
-<!ENTITY clearRecentHistory.label "Clear Recent History…">
-<!ENTITY clearRecentHistory.accesskey "H">
+<!ENTITY clearRecentHistory.label "Maak onlangse geskiedenis skoon…">
+<!ENTITY clearRecentHistory.accesskey "g">
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
 <!ENTITY privateBrowsingCmd.start.label "Begin privaat blaai">
@@ -264,14 +264,14 @@
 <!ENTITY showAllHistoryCmd2.label "Wys hele geskiedenis">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Customize">
+<!ENTITY appMenuCustomize.label "Doelmaak">
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
-<!ENTITY appMenuSidebars.label "Sidebars">
-<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuSidebars.label "Kantstawe">
+<!ENTITY appMenuFind.label "Vind…">
 <!ENTITY appMenuUnsorted.label "Ongeliasseerde boekmerke">
 <!ENTITY appMenuGettingStarted.label "Hoe om te begin">
 
-<!ENTITY developerMenu.label "Developer">
+<!ENTITY developerMenu.label "Ontwikkelaar">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Go to a Web Site">
@@ -404,8 +404,8 @@
 <!ENTITY mediaShowControls.accesskey "W">
 <!ENTITY mediaHideControls.label "Versteek kontroles">
 <!ENTITY mediaHideControls.accesskey "V">
-<!ENTITY videoFullScreen.label "Full Screen">
-<!ENTITY videoFullScreen.accesskey "F">
+<!ENTITY videoFullScreen.label "Volskerm">
+<!ENTITY videoFullScreen.accesskey "V">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

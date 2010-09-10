@@ -14,7 +14,7 @@
 
 <!ENTITY manageAccount.label "Manage Account">
 <!ENTITY manageAccount.accesskey "A">
-<!ENTITY changePassword.label "Change Password">
+<!ENTITY changePassword.label "Verander wagwoord">
 <!ENTITY changePassphrase.label "Change Secret Phrase">
 <!ENTITY resetSync.label "Reset Sync">
 <!ENTITY differentAccount.label "Use a Different Account">
@@ -23,8 +23,8 @@
 <!ENTITY syncPrefsCaption.label "Browser Sync">
 <!ENTITY syncComputerName.label "Computer Name:">
 <!ENTITY syncComputerName.accesskey "c">
-<!ENTITY syncModeSwitchDesc.label "&brandShortName; will: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncModeSwitchDesc.label "&brandShortName; sal: ">
+<!ENTITY syncModeSwitchDesc.accesskey "s">
 <!ENTITY syncEverything.label "Sync Everything">
 <!ENTITY customSync.label "Use my custom settings">
 <!ENTITY syncEverythingDescription.label "Your bookmarks, history, passwords, preferences, and tabs will be synced.">

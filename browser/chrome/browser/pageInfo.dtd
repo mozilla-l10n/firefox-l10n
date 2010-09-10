@@ -113,7 +113,7 @@
 <!ENTITY securityView.identity.verifier "Geverifieer deur:">
 
 <!ENTITY securityView.privacy.header "Privaatheid en geskiedenis">
-<!ENTITY securityView.privacy.history "Have I visited this web site prior to today?">
+<!ENTITY securityView.privacy.history "Het ek hierdie webwerf voor vandag besoek?">
 <!ENTITY securityView.privacy.cookies "Stoor hierdie webwerf inligting (koekies) op my rekenaar?">
 <!ENTITY securityView.privacy.viewCookies "Bekyk koekies">
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">
