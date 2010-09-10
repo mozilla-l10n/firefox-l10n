@@ -3,6 +3,6 @@
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Translate.org.za</em:contributor> <em:contributor>Dwayne Bailey</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Translate.org.za</em:contributor> <em:contributor>Dwayne Bailey</em:contributor> <em:contributor>Pheledi Mathibela</em:contributor>
 
 #unfilter emptyLines

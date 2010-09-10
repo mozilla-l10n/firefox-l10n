@@ -27,12 +27,12 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre "">
-<!ENTITY reloadPlugin.middle "Reload the page">
-<!ENTITY reloadPlugin.post " to try again.">
+<!ENTITY reloadPlugin.middle "Hlahlela letlakala gape">
+<!ENTITY reloadPlugin.post " gore o leke gape.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please "Send crash report">
-<!ENTITY report.submitting "Sending report…">
-<!ENTITY report.submitted "Crash report sent.">
-<!ENTITY report.disabled "Crash reporting disabled.">
-<!ENTITY report.failed "Submission failed.">
-<!ENTITY report.unavailable "No report available.">
+<!ENTITY report.please "Romela pego ya go pšhatlega">
+<!ENTITY report.submitting "Go romela pego…">
+<!ENTITY report.submitted "Pego ya go pšhatlega e rometšwe.">
+<!ENTITY report.disabled "Pego ya go pšhatlega e šitišitšwe.">
+<!ENTITY report.failed "Go iša go padile.">
+<!ENTITY report.unavailable "Ga go na pego yeo e lego gona.">

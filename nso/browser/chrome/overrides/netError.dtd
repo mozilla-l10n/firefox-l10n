@@ -129,19 +129,19 @@ gore &brandShortName; e dumeletšwe go tsena wepeng.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Go tsenya tshedimošo le ge e le efe ya botho letlakaleng le go ka feleletša ka bohodu bja boitsebišo goba boradia bjo bongwe.</p> 
 <p>Mehuta ye ya boradia bja wepeng e dirišetšwa go bohwirihwiri bjo bo tsebjwago e le dihlaselo tša boradia, moo go dirišwago matlakala a wepe a boradia le diimeile go ekiša methopo yeo o e tshepago.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Thibetšwe ke pholisi ya tšhireletšego ya dikagare">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; e thibetše letlakala le go hlahlela ka tsela ye ka gobane letlakala le le nale pholisi ya tšhireletšego ya dikagare yeo e sa go dumelelego.</p>">
 
 <!ENTITY securityOverride.linkText "Goba o ka oketša tše sa akaretšwego…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Joo! Ntšhe mo!">
 <!ENTITY securityOverride.exceptionButtonLabel "Oketša tše sa akaretšwego…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningText "<p>Ga se wa swanela go oketša tše sa akaretšwego ge e ba o diriša kgokaganyo ya inthanete yeo o sa e botego ka botlalo goba ge e ba o sa tlwaela go bona temošo bakeng sa seabi  se.</p> 
-  
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<!ENTITY securityOverride.warningContent "<p>Ga se wa swanela go oketša ditlhaolwa ge eba o diriša kgokaganyo ya inthanete yeo o sa e botego ka botlalo goba ge eba o sa tlwaela go bona temošo ya seabi se.</p> 
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

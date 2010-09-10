@@ -73,8 +73,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>Go tsenya tshedimošo ya botho letlakaleng le go ka baka go utswiwa ga boitsebišo goba boradia bjo bongwe.</p> 
 <p>Mehuta ye ya boradia bja wepe e dirišwa bohwirihwiring bjo bo tsebjwago e le ditlhaselo tša boradia, moo matlakala a boradia a wepe le diimeile di dirišwago go ekiša methopo yeo o ka bago o e botile.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "E thibetšwe ke pholisi ya tšhireletšego ya dikagare">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Praosara e thibetše letlakala le go hlahlela ka tsela ye ka gobane letlakala le na le pholisi ya tšhireletšego ya dikagare yeo e sa go dumelelego.</p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

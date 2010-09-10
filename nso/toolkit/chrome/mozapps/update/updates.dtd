@@ -52,15 +52,21 @@ sephuthelwana se feletšego sa kaonafatšo.">
 
 <!ENTITY details.link "Dintlha">
 
+<!ENTITY error.title "Kaonafatšo e paletšwe">
+
 <!ENTITY error.label "Go bile le mathata a go lekola go, laolla goba go lokela 
 kaonafatšo ye. &brandShortName; e be e ka se kaonafatšwe ka gobane:">
                                            
 <!ENTITY errorManual.label "O ka kaonafatša &brandShortName; ka go itirela ka go etela lomaganyo ye 
 le go laolla kgatišo ya morago bjale:">
                                            
-<!ENTITY errorpatching.title "Kaonafatšo e paletšwe">
 <!ENTITY errorpatching.intro "Kaonafatšo e hlaolago e be e ka se dirišwe. 
 &brandShortName; e tla leka gape ka go laolla kaonafatšo e feletšego.">
+
+<!ENTITY errorCertAttrNoUpdate.label "Something is preventing &brandShortName; from updating securely.
+                                           Please check you have the latest version of &brandShortName; at:">
+<!ENTITY errorCertAttrHasUpdate.label "Something is trying to trick &brandShortName; into accepting an
+                                           insecure update. Please contact your network provider and seek help.">
 
 <!ENTITY finishedPage.title "Kaonafatšo e loketše go tsenywa">
 <!ENTITY finishedPage.text "Kaonafatšo e tla lokelwa nakong e latelago ge &brandShortName; e thoma. O ka thoma &brandShortName; gape gona bjale, goba wa iša pele o šoma gomme wa thoma gape ka moragonyana.">

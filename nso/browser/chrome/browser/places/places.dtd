@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Rulaganya">
 <!ENTITY organize.accesskey "R">
-<!ENTITY organize.tooltip "Organize your bookmarks">
+<!ENTITY organize.tooltip "Rulaganya dipukutshwayo tša gago">
 
 <!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Tswalela">
@@ -14,7 +14,7 @@
 <!ENTITY edit.accesskey "L">
 <!ENTITY views.label "Ditebelelo">
 <!ENTITY views.accesskey "b">
-<!ENTITY views.tooltip "Change your view">
+<!ENTITY views.tooltip "Fetoša tebelelo ya gago">
 <!ENTITY view.columns.label "Laetša dikholomo">
 <!ENTITY view.columns.accesskey "k">
 <!ENTITY view.sort.label "Hlopha">
@@ -84,7 +84,7 @@
 
 <!ENTITY col.name.label "Leina">
 <!ENTITY col.tags.label "Ditshwayo">
-<!ENTITY col.url.label "Location">
+<!ENTITY col.url.label "Lefelo">
 <!ENTITY col.lastvisit.label "Letšatši la ketelo">
 <!ENTITY col.visitcount.label "Palo ya diketelo">
 <!ENTITY col.keyword.label "Lentšutheo">
@@ -109,7 +109,7 @@
 
 <!ENTITY maintenance.label "Diamogelwa le dikopišwa">
 <!ENTITY maintenance.accesskey "i">
-<!ENTITY maintenance.tooltip "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip "Amogela le go dira pekapo ya dipukutshwayo tša gago">
 
 <!ENTITY backCmd.label "Morago">
 <!ENTITY backButton.tooltip "Boela morago">
