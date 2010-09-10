@@ -10,7 +10,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Hulp">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY aboutProduct.label "About &brandShortName;">
+<!ENTITY aboutProduct.label "Aanvaarde &brandShortName;">
 <!ENTITY aboutProduct.accesskey "A">
 <!ENTITY productHelp.label "&brandShortName;-hulp">
 <!ENTITY productHelp.accesskey "h">
@@ -21,8 +21,8 @@
 <!ENTITY helpReleaseNotes.label "Vrystellingaantekeninge">
 <!ENTITY helpReleaseNotes.accesskey "a">
 
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
+<!ENTITY helpTroubleshootingInfo.label "Inligting vir probleemoplossing">
+<!ENTITY helpTroubleshootingInfo.accesskey "p">
 
 <!ENTITY helpFeedbackPage.label "Submit Feedback…">
 <!ENTITY helpFeedbackPage.accesskey "S">

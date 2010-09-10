@@ -1,10 +1,10 @@
 <!ENTITY addons.windowTitle "Add-ons Manager">
-<!ENTITY search.placeholder "Search all add-ons">
-<!ENTITY loading.label "Loading…">
+<!ENTITY search.placeholder "Deursoek alle byvoegings">
+<!ENTITY loading.label "Laai tans…">
 <!ENTITY listEmpty.installed.label "You don't have any add-ons of this type installed">
-<!ENTITY listEmpty.availableUpdates.label "No updates found">
+<!ENTITY listEmpty.availableUpdates.label "Geen bywerkings gevind nie">
 <!ENTITY listEmpty.recentUpdates.label "You haven't recently updated any add-ons">
-<!ENTITY listEmpty.findUpdates.label "Check For Updates">
+<!ENTITY listEmpty.findUpdates.label "Kontroleer vir bywerkings">
 <!ENTITY listEmpty.search.label "Could not find any matching add-ons">
 <!ENTITY listEmpty.button.label "Learn more about add-ons">
 <!ENTITY installFromFile.label "Install From File…">
@@ -17,11 +17,11 @@
 <!ENTITY view.search.label "Soek">
 <!ENTITY view.discover.label "Kry byvoegings">
 <!ENTITY view.locales.label "Tale">
-<!ENTITY view.searchengines.label "Search Engines">
+<!ENTITY view.searchengines.label "Soekenjins">
 <!ENTITY view.features.label "Uitbreidings">
 <!ENTITY view.appearance2.label "Voorkoms">
 <!ENTITY view.plugins.label "Inproppe">
-<!ENTITY view.recentUpdates.label "Recent Updates">
+<!ENTITY view.recentUpdates.label "Onlangse bywerkings">
 <!ENTITY view.availableUpdates.label "Available Updates">
 <!ENTITY view.utilites.preferences.tooltip "Options for all add-ons">
 <!ENTITY view.utilites.preferencesUnix.tooltip "Preferences for all add-ons">
@@ -36,20 +36,20 @@
 <!ENTITY updates.updating.label "Updating add-ons">
 <!ENTITY updates.installed.label "Your add-ons have been updated.">
 <!ENTITY updates.downloaded.label "Your add-on updates have been downloaded.">
-<!ENTITY updates.restart.label "Restart now to complete installation">
-<!ENTITY updates.noneFound.label "No updates found">
+<!ENTITY updates.restart.label "Herbegin nou vir volledige installering">
+<!ENTITY updates.noneFound.label "Bywerkings vir byvoegings gevind">
 <!ENTITY updates.manualUpdatesFound.label "View Available Updates">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label "Show More Information">
-<!ENTITY cmd.showDetails.accesskey "S">
+<!ENTITY cmd.showDetails.label "Wys meer inligting">
+<!ENTITY cmd.showDetails.accesskey "W">
 <!ENTITY cmd.findUpdates.label "Vind bywerkings">
 <!ENTITY cmd.findUpdates.accesskey "V">
-<!ENTITY cmd.preferencesWin.label "Options">
+<!ENTITY cmd.preferencesWin.label "Opsies">
 <!ENTITY cmd.preferencesWin.accesskey "O">
-<!ENTITY cmd.preferencesUnix.label "Preferences">
-<!ENTITY cmd.preferencesUnix.accesskey "P">
-<!ENTITY cmd.about.label "About">
+<!ENTITY cmd.preferencesUnix.label "Voorkeure">
+<!ENTITY cmd.preferencesUnix.accesskey "V">
+<!ENTITY cmd.about.label "Aangaande">
 <!ENTITY cmd.about.accesskey "A">
 
 <!ENTITY cmd.enableAddon.label "Aktiveer">
@@ -58,11 +58,11 @@
 <!ENTITY cmd.disableAddon.accesskey "a">
 <!ENTITY cmd.installAddon.label "Installeer">
 <!ENTITY cmd.installAddon.accesskey "I">
-<!ENTITY cmd.uninstallAddon.label "Remove">
-<!ENTITY cmd.uninstallAddon.accesskey "R">
+<!ENTITY cmd.uninstallAddon.label "Verwyder">
+<!ENTITY cmd.uninstallAddon.accesskey "V">
 <!ENTITY cmd.showPreferencesWin.label "Opsies">
 <!ENTITY cmd.showPreferencesWin.tooltip "Change this add-on's options">
-<!ENTITY cmd.showPreferencesUnix.label "Preferences">
+<!ENTITY cmd.showPreferencesUnix.label "Voorkeure">
 <!ENTITY cmd.showPreferencesUnix.tooltip "Change this add-on's preferences">
 <!ENTITY cmd.contribute.label "Contribute">
 <!ENTITY cmd.contribute.accesskey "C">
@@ -75,9 +75,9 @@
 <!-- detail view -->
 
 <!ENTITY detail.version.label "Weergawe">
-<!ENTITY detail.lastupdated.label "Last Updated">
-<!ENTITY detail.creator.label "Developer">
-<!ENTITY detail.homepage.label "Homepage">
+<!ENTITY detail.lastupdated.label "Onlangsste bygewerk">
+<!ENTITY detail.creator.label "Ontwikkelaar">
+<!ENTITY detail.homepage.label "Tuisblad">
 <!ENTITY detail.numberOfDownloads.label "Aflaaie">
 
 <!ENTITY detail.contributions.description "The developer of this add-on asks that you help support its continued development by making a small contribution.">
@@ -87,18 +87,18 @@
 <!ENTITY detail.updateAutomatic.tooltip "Automatically install updates">
 <!ENTITY detail.updateManual.label "Af">
 <!ENTITY detail.updateManual.tooltip "Don't automatically install updates">
-<!ENTITY detail.home "Homepage">
+<!ENTITY detail.home "Tuisblad">
 <!ENTITY detail.repository "Add-on Profile">
 <!ENTITY detail.size "Grootte">
 
-<!ENTITY detail.checkForUpdates.label "Check for updates">
-<!ENTITY detail.checkForUpdates.accesskey "F">
+<!ENTITY detail.checkForUpdates.label "Kontroleer vir bywerkings">
+<!ENTITY detail.checkForUpdates.accesskey "v">
 <!ENTITY detail.checkForUpdates.tooltip "Check for updates for this add-on">
-<!ENTITY detail.showPreferencesWin.label "Options">
+<!ENTITY detail.showPreferencesWin.label "Opsies">
 <!ENTITY detail.showPreferencesWin.accesskey "O">
 <!ENTITY detail.showPreferencesWin.tooltip "Change this add-on's Options">
-<!ENTITY detail.showPreferencesUnix.label "Preferences">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.label "Voorkeure">
+<!ENTITY detail.showPreferencesUnix.accesskey "V">
 <!ENTITY detail.showPreferencesUnix.tooltip "Change this add-on's preferences">
 <!-- ratings -->
 
@@ -112,37 +112,37 @@
 
 
 <!ENTITY sort.name.label "Naam">
-<!ENTITY sort.name.tooltip "Sort by name">
-<!ENTITY sort.dateUpdated.label "Last Updated">
+<!ENTITY sort.name.tooltip "Rangskik volgens naam">
+<!ENTITY sort.dateUpdated.label "Onlangsste bygewerk">
 <!ENTITY sort.dateUpdated.tooltip "Sort by date updated">
 <!ENTITY sort.relevance.label "Best match">
 <!ENTITY sort.relevance.tooltip "Sort by relevance">
 
-<!ENTITY search.filter2.label "Search:">
+<!ENTITY search.filter2.label "Soektog:">
 <!ENTITY search.filter2.installed.label "My Add-ons">
 <!ENTITY search.filter2.installed.tooltip "Show installed add-ons">
 <!ENTITY search.filter2.available.label "Available Add-ons">
 <!ENTITY search.filter2.available.tooltip "Show add-ons available to install">
 
-<!ENTITY addon.homepage "Homepage">
+<!ENTITY addon.homepage "Tuisblad">
 <!ENTITY addon.details.label "Meer">
 <!ENTITY addon.details.tooltip "Show more details about this add-on">
 <!ENTITY addon.unknownDate "Onbekend">
 <!ENTITY addon.disabled.postfix "(disabled)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
-<!ENTITY addon.update.postfix "Update">
-<!ENTITY addon.undoAction.label "Undo">
+<!ENTITY addon.update.postfix "Bywerk">
+<!ENTITY addon.undoAction.label "Ontdoen">
 <!ENTITY addon.undoAction.tooltip "Undo this action">
-<!ENTITY addon.undoRemove.label "Undo">
+<!ENTITY addon.undoRemove.label "Ontdoen">
 <!ENTITY addon.undoRemove.tooltip "Keep this add-on installed">
 <!ENTITY addon.restartNow.label "Restart now">
-<!ENTITY addon.install.label "Install">
+<!ENTITY addon.install.label "Installeer">
 <!ENTITY addon.install.tooltip "Install this add-on">
 <!ENTITY addon.updateNow.label "Opdateer nou">
-<!ENTITY addon.updateNow.tooltip "Install the update for this add-on">
-<!ENTITY addon.checkingForUpdates.label "Checking for updates…">
-<!ENTITY addon.releaseNotes.label "Release Notes:">
-<!ENTITY addon.loadingReleaseNotes.label "Loading…">
+<!ENTITY addon.updateNow.tooltip "Installeer die bywerking vir hierdie byvoeging">
+<!ENTITY addon.checkingForUpdates.label "Kontroleer vir bywerkings...">
+<!ENTITY addon.releaseNotes.label "Vrystellingaantekeninge:">
+<!ENTITY addon.loadingReleaseNotes.label "Laai tans…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
 
 <!ENTITY addon.createdBy.label "By ">

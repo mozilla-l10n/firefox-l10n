@@ -15,9 +15,9 @@ probleem probeer oplos. Indien u soek vir antwoorde op algemene vrae oor
 <!ENTITY aboutSupport.appBasicsName "Naam">
 <!ENTITY aboutSupport.appBasicsVersion "Weergawe">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profielgids">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktiveer inproppe">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Boukonfigurasie">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsUserAgent "Gebruikeragent">
 
 <!ENTITY aboutSupport.show.label "Open houervouer">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

@@ -41,7 +41,7 @@ onder om hierdie bywerking te installeer.">
 
 <!ENTITY incompatibleList.title "Onversoenbare byvoegings gevind">
 
-<!ENTITY downloadPage.title "Downloading &brandShortName;">
+<!ENTITY downloadPage.title "&brandShortName; aflaai">
 <!ENTITY downloading.intro "Laai tans die bywerking af…">
 <!ENTITY connecting.label "Koppel tans aan die bywerkingbediener…">
 <!ENTITY verificationFailedText.label "&brandShortName; kon nie die integriteit van die trapsgewyse 

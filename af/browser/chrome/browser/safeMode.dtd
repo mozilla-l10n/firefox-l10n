@@ -48,7 +48,7 @@
 <!ENTITY resetToolbars.label "Stel nutsbalke en kontroles terug">
 <!ENTITY resetToolbars.accesskey "S">
 
-<!ENTITY deleteBookmarks.label "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.label "Skrap alle boekmerke behalwe vir rugsteun">
 <!ENTITY deleteBookmarks.accesskey "b">
 
 <!ENTITY resetUserPrefs.label "Stel alle gebruikervoorkeure terug na &brandShortName;-verstek">
