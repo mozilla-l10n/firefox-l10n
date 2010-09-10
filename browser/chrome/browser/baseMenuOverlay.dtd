@@ -10,10 +10,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Thušo">
 <!ENTITY helpMenuWin.accesskey "T">
-<!ENTITY aboutProduct.label "About &brandShortName;">
-<!ENTITY aboutProduct.accesskey "A">
-<!ENTITY productHelp.label "&brandShortName; Help">
-<!ENTITY productHelp.accesskey "H">
+<!ENTITY aboutProduct.label "Ka ga &brandShortName;">
+<!ENTITY aboutProduct.accesskey "K">
+<!ENTITY productHelp.label "Thušo ya &brandShortName;">
+<!ENTITY productHelp.accesskey "T">
 <!ENTITY helpForIEUsers.label "Bakeng sa badiriši ba Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
@@ -21,8 +21,11 @@
 <!ENTITY helpReleaseNotes.label "Dikgakollo tša tokollo">
 <!ENTITY helpReleaseNotes.accesskey "D">
 
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.label "Tshedimošo ya go rarolla mathata">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
+
+<!ENTITY helpFeedbackPage.label "Iša dipoelo...">
+<!ENTITY helpFeedbackPage.accesskey "I">
 
 <!ENTITY updateCmd.label "Lekola dikaonafatšo…">
 
