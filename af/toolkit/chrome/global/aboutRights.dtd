@@ -19,17 +19,20 @@
 <!ENTITY rights.intro-point2-a "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found ">
 <!ENTITY rights.intro-point2-b "hier">
 <!ENTITY rights.intro-point2-c ".">
+<!-- point 2.5 text for official branded builds -->
+
+<!ENTITY rights.intro-point2.5 "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights.intro-point3a "Die privaatheidbeleid vir &vendorShortName; se produkte kan ">
-<!ENTITY rights.intro-point3b "hier">
+<!ENTITY rights2.intro-point3a "How we use your personal information and feedback submitted to &vendorShortName; through &brandShortName; is described in the ">
+<!ENTITY rights2.intro-point3b "&brandShortName; Privacy Policy">
 <!ENTITY rights.intro-point3c " gelees word.">
 <!-- point 3 text for unbranded builds -->
 
 <!ENTITY rights.intro-point3-unbranded "Enige toepaslike privaatheidbeleid vir hierdie produk sal daar gelys wees.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "&brandShortName; bied ook opsionele webwerf-inligtingsdienste soos die SafeBrowsing-diens; maar ons kan nie waarborg dat dit 100&#37; akkuraat of foutvry is nie. Meer inligting, soos hoe om die dienste te deaktiveer, is in die ">
+<!ENTITY rights2.intro-point4a "Some &brandShortName; features make use of web-based information services, however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the ">
 <!ENTITY rights.intro-point4b "diensbepalings">
 <!ENTITY rights.intro-point4c " te kry.">
 <!-- point 4 text for unbranded builds -->
@@ -38,16 +41,33 @@
 <!ENTITY rights.intro-point4b-unbranded "webwerfdienste">
 <!ENTITY rights.intro-point4c-unbranded "-afdeling gekoppel wees.">
 
-<!ENTITY rights.webservices-header "&brandFullName;-webwerfdienste">
+<!ENTITY rights2.webservices-header "&brandFullName; Web-Based Information Services">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights.webservices-a "&brandFullName; gebruik webwerf-inligtingsdienste (&quot;dienste&quot;) soos die SafeBrowsing-diens wat vir u gebruik in hierdie binêre weergawe van &brandShortName; beskikbaar is, soos hier onder uiteengesit. As u nie die dienste wil gebruik nie of die bepalings as onaanvaarbaar beskou, kan u die SafeBrowsing-diens deaktiveer deur die toepassing se voorkeure te open, die ">
-<!ENTITY rights.webservices-b "Sekuriteit">
-<!ENTITY rights.webservices-c "-afdeling te kies, en die opsies vir &quot;&blockAttackSites.label;&quot; en &quot;&blockWebForgeries.label;&quot; te ontmerk.">
+<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
+<!ENTITY rights2.webservices-b "here">
+<!ENTITY rights2.webservices-c ".">
+<!-- safe browsing points for branded builds -->
+
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:">
+<!ENTITY rights.safebrowsing-term1 "Open the application preferences">
+<!ENTITY rights.safebrowsing-term2 "Select the Security selection">
+<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
+<!-- location aware browsing points for branded builds -->
+
+<!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
+<!ENTITY rights.locationawarebrowsing-b "is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:">
+<!ENTITY rights.locationawarebrowsing-term1a "In the URL bar, type ">
+<!ENTITY rights.locationawarebrowsing-term1b "aangaande:konfig">
+<!ENTITY rights.locationawarebrowsing-term2 "Type geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Double click on the geo.enabled preference">
+<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
 <!-- intro paragraph for unbranded builds -->
 
 <!ENTITY rights.webservices-unbranded "'n Oorsig oor die webwerfdienste wat die produk bevat, asook instruksies hoe om hulle te deaktiveer, indien van toepassing, behoort hierby ingesluit te wees.">
@@ -56,9 +76,9 @@
 <!ENTITY rights.webservices-term1-unbranded "Enige toepaslike diensbepalings vir hierdie produk sal daar gelys wees.">
 <!-- points 1-7 text for branded builds -->
 
-<!ENTITY rights.webservices-term1 "&vendorShortName; en sy bydraers, lisensiegewers en vennote probeer die akkuraatste, mees bygewerkte uitvissing- en wanware-inligting te bied. Hulle kan egter nie waarborg dat die inligting omvattend en foutvry is nie: sommige riskante werwe is dalk nog nie geïdentifiseer nie, en sekere veilige werwe kan verkeerdelik as sodanig geïdentifiseer gewees het.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; and its contributors, licensors and partners work to provide the most accurate and up-to-date Services.  However, we cannot guarantee that this information is comprehensive and error-free.  For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are estimates only and neither we nor our service providers guarantee the accuracy of the locations provided.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; kan die dienste na goeddunke opskort of wysig.">
-<!ENTITY rights.webservices-term3 "U kan hierdie dienste met die meegaande weergawe van &brandShortName; gebruik -- u het alle reg om dit te doen.  &vendorShortName; en sy lisensiegewers behou hulle alle ander regte in die dienste voor.  Hierdie bepalings is nie ten doel om enige regte in te perk wat ingevolge die oopbronlisensies wat op &brandShortName; en die ooreenstemmende bronkode-weergawes van &brandShortName; van toepassing is nie.">
+<!ENTITY rights2.webservices-term3 "You are welcome to use these Services with the accompanying version of &brandShortName;, and &vendorShortName; grants you its rights to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Die Dienste word voetstoots verskaf. &vendorShortName;, sy bydraers, lisensieerders en verspreiders ontken alle waarborge, hetsy uitdruklik of geïmpliseer, met inbegrip van, sonder beperking, waarborge dat die Dienste verhandelbaar is en geskik is vir u besondere doeleindes.  U dra die volle risiko wat betref die keuse van die Dienste vir u doeleindes en die gehalte en prestasie van die Dienste. Sommige owerhede verbied die uitsluiting of beperking van geïmpliseerde waarborge. Hierdie ontkenning is dus moontlik nie op u van toepassing nie.">
 <!ENTITY rights.webservices-term5 "Tensy die reg dit vereis is &vendorShortName; sy bydraers, lisensieerders en verspreiders nie aanspreeklik vir enige indirekte, spesiale, toevallige,  gevolg- of bestraffende skadevergoeding wat spruit uit, of op enige manier te doen het met, die gebruik van &brandShortName; en die Dienste nie.  Die gesamentlike aanspreeklikheid van hierdie bepalings sal nie $500 (vyfhonderd dollars) oorskry nie. Sommige owerhede verbied die uitsluiting of beperking van sekere skadevergoeding. Hierdie uitsluiting is dus moontlik nie op u van toepassing nie.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; kan dalk hierdie bepalings van tyd tot tyd bywerk indien nodig. Hierdie bepalings mag nie sonder &vendorShortName; se skriftelike toestemming gewysig of gekanselleer word nie.">

@@ -52,6 +52,7 @@
 <!ENTITY useCacheAfter.label "MG spasie vir die kasgeheue">
 <!ENTITY clearCacheNow.label "Maak nou skoon">
 <!ENTITY clearCacheNow.accesskey "M">
+<!ENTITY smartSizeCache.label "Let &brandShortName; manage the size of my cache.">
 
 <!ENTITY updateTab.label "Bywerk">
 
