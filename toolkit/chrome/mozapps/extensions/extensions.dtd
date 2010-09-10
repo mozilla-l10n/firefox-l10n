@@ -48,6 +48,8 @@
 <!ENTITY updates.restart.label                "Reinicie para completar a instalação">
 <!ENTITY updates.noneFound.label              "Nenhuma actualização encontrada">
 <!ENTITY updates.manualUpdatesFound.label     "Ver actualizações disponíveis">
+<!ENTITY updates.updateSelected.label         "Instalar actualizações">
+<!ENTITY updates.updateSelected.tooltip       "Instalar actualizações disponíveis nesta lista">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Mostrar mais informações">
@@ -141,8 +143,14 @@
 <!ENTITY addon.details.label                  "Mais">
 <!ENTITY addon.details.tooltip                "Mostrar mais detalhes sobre este extra">
 <!ENTITY addon.unknownDate                    "Desconhecido">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(desactivado)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix                 "Actualizar">
 <!ENTITY addon.undoAction.label               "Anular">
 <!ENTITY addon.undoAction.tooltip             "Anula esta acção">
@@ -153,6 +161,8 @@
 <!ENTITY addon.install.tooltip                "Instala este extra">
 <!ENTITY addon.updateNow.label                "Actualizar agora">
 <!ENTITY addon.updateNow.tooltip              "Instala a actualização para este extra">
+<!ENTITY addon.includeUpdate.label            "Incluir na actualização">
+<!ENTITY addon.updateAvailable.label          "Está disponível uma actualização">
 <!ENTITY addon.checkingForUpdates.label       "A procurar actualizações…">
 <!ENTITY addon.releaseNotes.label             "Notas de lançamento:">
 <!ENTITY addon.loadingReleaseNotes.label      "A carregar…">
