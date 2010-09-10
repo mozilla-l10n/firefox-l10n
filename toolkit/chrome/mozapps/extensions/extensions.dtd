@@ -119,7 +119,8 @@
 <!ENTITY detail.showPreferencesUnix.tooltip   "ਇਸ ਐਡ-ਆਨ ਦੀ ਪਸੰਦ ਬਦਲੋ">
 
 <!-- ratings -->
-<!ENTITY rating.label                         "ਰੇਟਿੰਗ:">
+<!ENTITY rating2.label                        "ਰੇਟਿੰਗ">
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "ਵਿਰਾਮ">
 <!ENTITY progress.cancel.tooltip              "ਰੱਦ ਕਰੋ">
