@@ -10,10 +10,10 @@
 <!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY openTabInNewWindow.label "Apri in una nuova finestra">
 <!ENTITY openTabInNewWindow.accesskey "f">
-<!ENTITY pinTab.label "Trasforma in Scheda applicazione">
-<!ENTITY pinTab.accesskey "h">
-<!ENTITY unpinTab.label "Trasforma in Scheda normale">
-<!ENTITY unpinTab.accesskey "h">
+<!ENTITY pinAppTab.label "Blocca come Scheda applicazione">
+<!ENTITY pinAppTab.accesskey "h">
+<!ENTITY unpinAppTab.label "Sblocca scheda">
+<!ENTITY unpinAppTab.accesskey "h">
 <!ENTITY moveToGroup.label "Sposta nel gruppo">
 <!ENTITY moveToGroup.accesskey "S">
 <!ENTITY moveToNewGroup.label "Nuovo gruppo">
@@ -215,6 +215,7 @@
 <!ENTITY historyHomeCmd.label "Pagina iniziale">
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "V">
+<!ENTITY appMenuEdit.label "Modifica">
 <!ENTITY appMenuCustomize.label "Personalizza">
 <!ENTITY appMenuToolbarLayout.label "Personalizza barra degli strumenti…">
 <!ENTITY appMenuSidebars.label "Barre laterali">
