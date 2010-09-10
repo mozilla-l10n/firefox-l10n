@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Installer des extensions ou des thèmes">
 <!ENTITY  permGeo               "Partager la localisation">
 
+<!ENTITY  permIndexedDB              "Conserver des données hors connexion">
+<!ENTITY  permClearStorage           "Supprimer les données">
+<!ENTITY  permClearStorage.accesskey "d">
+
 <!ENTITY  securityTab           "Sécurité">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Informations de sécurité pour cette page">
