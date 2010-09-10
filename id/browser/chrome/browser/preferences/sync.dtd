@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label          "Kelola Akun">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY changePassword.label         "Ganti Sandi">
-<!ENTITY changePassphrase.label       "Ganti Kata Pengaman">
+<!ENTITY mySyncKey.label              "Kunci Sinkronisasi">
 <!ENTITY resetSync.label              "Setel Ulang Sinkronisasi">
 <!ENTITY differentAccount.label       "Gunakan Akun Lainnya">
 
@@ -23,21 +23,18 @@
 <!ENTITY syncPrefsCaption.label       "Sinkronisasikan Peramban">
 <!ENTITY syncComputerName.label       "Nama Komputer:">
 <!ENTITY syncComputerName.accesskey   "k">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; akan: ">
-<!ENTITY syncModeSwitchDesc.accesskey "F">
-<!ENTITY syncEverything.label         "menyinkronisasikan semua data">
-<!ENTITY customSync.label             "menggunakan pengaturan pilihan saya">
-<!ENTITY syncEverythingDescription.label  "Data bookmark, riwayat, sandi, pengaturan, dan tab Anda akan disinkronisasikan.">
-<!ENTITY syncItem.bookmarks.label     "Sinkronisasikan Bookmark">
-<!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sinkronisasikan Tab">
-<!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "Sinkronisasikan Riwayat">
-<!ENTITY syncItem.history.accesskey   "w">
-<!ENTITY syncItem.passwords.label     "Sinkronisasikan Sandi">
-<!ENTITY syncItem.passwords.accesskey "i">
-<!ENTITY syncItem.prefs.label         "Sinkronisasikan Pengaturan">
-<!ENTITY syncItem.prefs.accesskey     "p">
+
+<!ENTITY syncMy.label               "Sinkronisasikan">
+<!ENTITY engine.bookmarks.label     "Bookmark">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "Tab">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Riwayat">
+<!ENTITY engine.history.accesskey   "w">
+<!ENTITY engine.passwords.label     "Sandi">
+<!ENTITY engine.passwords.accesskey "i">
+<!ENTITY engine.prefs.label         "Pengaturan">
+<!ENTITY engine.prefs.accesskey     "P">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Ketentuan Layanan">
