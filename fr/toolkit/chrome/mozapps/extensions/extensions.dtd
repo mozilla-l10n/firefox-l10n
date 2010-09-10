@@ -48,7 +48,8 @@
 <!ENTITY updates.restart.label                "Redémarrer maintenant pour terminer l'installation">
 <!ENTITY updates.noneFound.label              "Aucune mise à jour disponible">
 <!ENTITY updates.manualUpdatesFound.label     "Afficher les mises à jour disponibles">
-
+<!ENTITY updates.updateSelected.label         "Installer les mises à jour">
+<!ENTITY updates.updateSelected.tooltip       "Installer les mises à jour disponibles dans cette liste">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Afficher plus d'informations">
@@ -159,9 +160,11 @@
 <!ENTITY addon.install.tooltip                "Installer ce module complémentaire">
 <!ENTITY addon.updateNow.label                "Mettre à jour maintenant">
 <!ENTITY addon.updateNow.tooltip              "Installer la mise à jour pour ce module complémentaire">
+<!ENTITY addon.includeUpdate.label            "Ajouter à la mise à jour">
+<!ENTITY addon.updateAvailable.label          "Une mise à jour est disponible">
 <!ENTITY addon.checkingForUpdates.label       "Vérification des mises à jour…">
 <!ENTITY addon.releaseNotes.label             "Notes de version :">
 <!ENTITY addon.loadingReleaseNotes.label      "Chargement…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Il y a eu une erreur lors du chargement des notes de version.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Une erreur s'est produite lors du chargement des notes de version.">
 
 <!ENTITY addon.createdBy.label                "Par ">
