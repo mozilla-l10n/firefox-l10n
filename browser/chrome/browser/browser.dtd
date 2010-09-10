@@ -265,6 +265,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Tab yang Baru Saja Ditutup">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Jendela yang Baru Saja Ditutup">
+<!ENTITY historyRestoreLastSession.label "Pulihkan Sesi Sebelumnya">
 
 <!ENTITY historyHomeCmd.label "Beranda">
 <!ENTITY showAllHistoryCmd2.label "Tampilkan Semua Riwayat">

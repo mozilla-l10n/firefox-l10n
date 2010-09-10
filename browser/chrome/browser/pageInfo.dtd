@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Memasang Ekstensi atau Tema">
 <!ENTITY  permGeo               "Berbagi Data Lokasi">
 
+<!ENTITY  permIndexedDB              "Kelola Penyimpanan Luring">
+<!ENTITY  permClearStorage           "Bersihkan Penyimpanan">
+<!ENTITY  permClearStorage.accesskey "h">
+
 <!ENTITY  securityTab           "Keamanan">
 <!ENTITY  securityTab.accesskey "K">
 <!ENTITY  securityHeader        "Informasi keamanan untuk laman ini">
