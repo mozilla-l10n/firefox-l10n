@@ -51,6 +51,7 @@
 <!ENTITY useCacheAfter.label             "MB 磁碟空間存放快取資料">
 <!ENTITY clearCacheNow.label             "立刻清除">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY smartSizeCache.label            "讓 &brandShortName; 管理我的快取大小。">
 
 <!ENTITY updateTab.label                 "更新">
 

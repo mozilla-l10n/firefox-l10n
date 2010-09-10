@@ -265,9 +265,9 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "自訂">
-<!ENTITY appMenuToolbarLayout.label "工具列版面…">
+<!ENTITY appMenuToolbarLayout.label "工具列配置…">
 <!ENTITY appMenuSidebars.label "側邊欄">
-<!ENTITY appMenuFind.label "搜尋…">
+<!ENTITY appMenuFind.label "尋找…">
 <!ENTITY appMenuUnsorted.label "未排序書籤">
 <!ENTITY appMenuGettingStarted.label "新手上路">
 
