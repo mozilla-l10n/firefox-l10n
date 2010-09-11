@@ -6,7 +6,7 @@
 <!ENTITY setup.choicePage.existing.label  "Używam już &syncBrand.shortName.label; na innym komputerze">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Połącz z">
+<!ENTITY server.label               "Serwer">
 <!ENTITY serverType.main.label      "Serwer &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "Użyj innego serwera">
 <!ENTITY signIn.username.label      "Login">
@@ -17,7 +17,7 @@
 <!ENTITY signIn.serverURL.accesskey "A">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "Utwórz konto &syncBrand.shortName.label;">
+<!ENTITY setup.newAccountDetailsPage.title.label "Szczegóły konta">
 <!ENTITY setup.confirmPassword.label      "Potwierdź hasło">
 <!ENTITY setup.confirmPassword.accesskey  "P">
 <!ENTITY setup.emailAddress.label         "Adres e-mail">
@@ -41,28 +41,11 @@
 <!ENTITY passphraseConfirm.label      "Potwierdź">
 <!ENTITY passphraseConfirm.accesskey  "W">
 
-<!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Ustawienia synchronizacji przeglądarki">
-<!ENTITY syncComputerName.label           "Nazwa komputera:">
-<!ENTITY syncComputerName.accesskey       "N">
-<!ENTITY syncModeSwitchDesc.label       "&brandShortName; będzie">
-<!ENTITY syncModeSwitchDesc.accesskey   "b">
-<!ENTITY syncEverything.label           "synchronizować wszystko">
-<!ENTITY customSync.label               "synchronizować wybrane rzeczy:">
-<!ENTITY syncEverythingDescription.label  "Twoje zakładki, historia, hasła, ustawienia i karty będą synchronizowane.">
-<!ENTITY syncItem.bookmarks.label         "zakładki">
-<!ENTITY syncItem.bookmarks.accesskey     "z">
-<!ENTITY syncItem.tabs.label              "karty">
-<!ENTITY syncItem.tabs.accesskey          "k">
-<!ENTITY syncItem.history.label           "historię">
-<!ENTITY syncItem.history.accesskey       "h">
-<!ENTITY syncItem.passwords.label         "hasła">
-<!ENTITY syncItem.passwords.accesskey     "a">
-<!ENTITY syncItem.prefs.label             "ustawienia">
-<!ENTITY syncItem.prefs.accesskey         "u">
+<!ENTITY page.syncKeyBackup.title     "Twój klucz Firefox Sync">
+<!ENTITY page.syncKeyBackup.descr     "Klucz ten jest używany do zaszyfrowania osobistych danych. Nie jest przesyłany na serwer i nie można go odzyskać. Nie zgub go i nie udostępniaj go innym.">
 
 <!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label     "Potwierdź, że nie jesteś robotem ;)">
+<!ENTITY setup.captchaPage2.title.label     "Potwierdź, że nie jesteś robotem">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Podaj informacje o koncie">

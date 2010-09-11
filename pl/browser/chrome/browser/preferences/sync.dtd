@@ -24,22 +24,18 @@
 <!ENTITY syncPrefsCaption.label       "Synchronizacja przeglądarki">
 <!ENTITY syncComputerName.label       "Nazwa komputera:">
 <!ENTITY syncComputerName.accesskey   "N">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; będzie: ">
-<!ENTITY syncModeSwitchDesc.accesskey "b">
-<!ENTITY syncEverything.label         "synchronizować wszystko">
-<!ENTITY customSync.label             "synchronizować wybrane rzeczy:">
-<!ENTITY syncEverythingDescription.label  "Twoje zakładki, historia, hasła, ustawienia i karty będą synchronizowane.">
 
-<!ENTITY syncItem.bookmarks.label         "zakładki">
-<!ENTITY syncItem.bookmarks.accesskey     "z">
-<!ENTITY syncItem.tabs.label              "karty">
-<!ENTITY syncItem.tabs.accesskey          "k">
-<!ENTITY syncItem.history.label           "historię">
-<!ENTITY syncItem.history.accesskey       "h">
-<!ENTITY syncItem.passwords.label         "hasła">
-<!ENTITY syncItem.passwords.accesskey     "a">
-<!ENTITY syncItem.prefs.label             "ustawienia">
-<!ENTITY syncItem.prefs.accesskey         "u">
+<!ENTITY syncMy.label                   "Synchronizuj moje:">
+<!ENTITY engine.bookmarks.label         "zakładki">
+<!ENTITY engine.bookmarks.accesskey     "z">
+<!ENTITY engine.tabs.label              "karty">
+<!ENTITY engine.tabs.accesskey          "k">
+<!ENTITY engine.history.label           "historię">
+<!ENTITY engine.history.accesskey       "h">
+<!ENTITY engine.passwords.label         "hasła">
+<!ENTITY engine.passwords.accesskey     "a">
+<!ENTITY engine.prefs.label             "ustawienia">
+<!ENTITY engine.prefs.accesskey         "u">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Warunki korzystania z usługi">
