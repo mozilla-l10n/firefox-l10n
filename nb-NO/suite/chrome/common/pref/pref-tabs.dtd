@@ -6,6 +6,8 @@
 <!ENTITY background.accesskey "Å">
 <!ENTITY warnOnClose.label "Advar meg ved lukking av et vindu med flere faner">
 <!ENTITY warnOnClose.accesskey "d">
+<!ENTITY relatedAfterCurrent.label "Åpne relaterte faner etter nåværende faner">
+<!ENTITY relatedAfterCurrent.accesskey "r">
 <!ENTITY loadGroup.label "Ved åpning av bokmerkegruppe">
 <!ENTITY loadGroupAppend.label "Legg til faner">
 <!ENTITY loadGroupAppend.accesskey "L">

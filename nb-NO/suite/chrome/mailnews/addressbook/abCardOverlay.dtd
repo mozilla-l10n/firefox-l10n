@@ -117,9 +117,9 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY Birthday.label                 "Bursdag:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "År">
+<!ENTITY Year.placeholder               "År">
 <!ENTITY Or.value                       "eller">
-<!ENTITY Age.emptytext                  "Alder">
+<!ENTITY Age.placeholder                "Alder">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Arbeid">
@@ -170,6 +170,6 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY BrowsePhoto.accesskey          "B">
 <!ENTITY PhotoURL.label                 "På nettet">
 <!ENTITY PhotoURL.accesskey             "n">
-<!ENTITY PhotoURL.emptytext             "Lim eller skriv inn nettadressen til et foto">
+<!ENTITY PhotoURL.placeholder           "Lim eller skriv inn nettadressen til et foto">
 <!ENTITY UpdatePhoto.label              "Oppdater">
 <!ENTITY UpdatePhoto.accesskey          "O">
