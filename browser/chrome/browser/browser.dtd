@@ -481,7 +481,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopiera">
 <!ENTITY pasteButton.tooltip            "Klistra in">
+
 <!ENTITY fullScreenButton.tooltip       "Visa fönstret i helskärm">
+
+<!ENTITY zoomOutButton.tooltip          "Zoomar ut">
+<!ENTITY zoomInButton.tooltip           "Zoomar in">
+<!ENTITY zoomControls.label             "Zoomreglage">
 
 <!ENTITY quitApplicationCmdWin.label       "Avsluta"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "A">
