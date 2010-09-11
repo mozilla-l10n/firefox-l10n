@@ -451,7 +451,12 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY cutButton.tooltip              "Couper">
 <!ENTITY copyButton.tooltip             "Copier">
 <!ENTITY pasteButton.tooltip            "Coller">
+
 <!ENTITY fullScreenButton.tooltip       "Afficher la fenêtre en plein écran">
+
+<!ENTITY zoomOutButton.tooltip          "Zoom avant">
+<!ENTITY zoomInButton.tooltip           "Zoom arrière">
+<!ENTITY zoomControls.label             "Niveau de zoom">
 
 <!ENTITY quitApplicationCmdWin.label       "Quitter">
 <!ENTITY quitApplicationCmdWin.accesskey   "Q">
