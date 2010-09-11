@@ -457,6 +457,10 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY pasteButton.tooltip "Wklej" >
 <!ENTITY fullScreenButton.tooltip       "Wyświetl okno na pełnym ekranie">
 
+<!ENTITY zoomOutButton.tooltip          "Pomniejsz">
+<!ENTITY zoomInButton.tooltip           "Powiększ">
+<!ENTITY zoomControls.label             "Zmiana powiększenia">
+
 <!ENTITY quitApplicationCmdWin.label     "Zakończ" >
 <!ENTITY quitApplicationCmdWin.accesskey "k" >
 <!ENTITY goBackCmd.commandKey           "[" >
