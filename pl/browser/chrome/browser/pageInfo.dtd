@@ -100,6 +100,10 @@
 <!ENTITY  permInstall           "Instalacja rozszerzeń i motywów">
 <!ENTITY  permGeo               "Udostępnij położenie">
 
+<!ENTITY  permIndexedDB              "Zarządzanie danymi offline">
+<!ENTITY  permClearStorage           "Wyczyść dane offline">
+<!ENTITY  permClearStorage.accesskey "d">
+
 <!ENTITY  securityTab           "Bezpieczeństwo">
 <!ENTITY  securityTab.accesskey "B">
 <!ENTITY  securityHeader        "Informacje dotyczące bezpieczeństwa tej strony">
