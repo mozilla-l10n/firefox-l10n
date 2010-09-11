@@ -55,6 +55,9 @@
 <!ENTITY permCookie "Impostare cookie">
 <!ENTITY permInstall "Installare estensioni o temi">
 <!ENTITY permGeo "Comunicare la posizione">
+<!ENTITY permIndexedDB "Archiviare dati non in linea">
+<!ENTITY permClearStorage "Cancella i dati">
+<!ENTITY permClearStorage.accesskey "C">
 <!ENTITY securityTab "Sicurezza">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "Informazioni di sicurezza per questa pagina">
