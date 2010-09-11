@@ -353,6 +353,9 @@
 <!ENTITY copyButton.tooltip "Copia">
 <!ENTITY pasteButton.tooltip "Incolla">
 <!ENTITY fullScreenButton.tooltip "Visualizza la finestra a schermo intero">
+<!ENTITY zoomOutButton.tooltip "Riduci zoom">
+<!ENTITY zoomInButton.tooltip "Aumenta zoom">
+<!ENTITY zoomControls.label "Controlli per lo zoom">
 <!ENTITY quitApplicationCmdWin.label "Esci">
 <!ENTITY quitApplicationCmdWin.accesskey "E">
 <!ENTITY goBackCmd.commandKey "[">
