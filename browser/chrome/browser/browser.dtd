@@ -295,6 +295,7 @@
 <!ENTITY showAllHistoryCmd2.label "Visa all historik">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Redigera">
 <!ENTITY appMenuCustomize.label "Anpassa">
 <!ENTITY appMenuToolbarLayout.label "Verktygsfältslayout…">
 <!ENTITY appMenuSidebars.label "Sidofält">
