@@ -1,6 +1,11 @@
 <!ENTITY accountSetupTitle.label    "Konfiguracja usługi &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "Witamy! Jeśli nie masz jeszcze konta &syncBrand.fullName.label;, konieczne będzie utworzenie nowego.">
+<!ENTITY button.createNewAccount.label "Utwórz nowe konto">
+<!ENTITY button.haveAccount.label "Mam już konto &syncBrand.fullName.label;">
+
 <!ENTITY setup.choicePage.title.label     "&syncBrand.fullName.label; był już ci wcześniej znany?">
 <!ENTITY setup.choicePage.new.label       "Korzystam z &syncBrand.shortName.label; po raz pierwszy">
 <!ENTITY setup.choicePage.existing.label  "Używam już &syncBrand.shortName.label; na innym komputerze">
@@ -32,14 +37,20 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label       "Podaj swój szyfr">
-<!ENTITY passphraseDesc.label         "Wprowadź szyfr. Będzie on używany do szyfrowania wszystkich twoich danych, więc nikt inny nie ma do niego dostępu. Nie jest on przechowywany na serwerze, zatem postaraj się go nie zapomnieć!">
-<!ENTITY passphraseDesc2.label        "Szyfr musi zawierać przynajmniej 12 znaków i nie może być taki sam, jak hasło do konta.">
-<!ENTITY passphraseEntry.label        "Szyfr">
-<!ENTITY passphraseEntry.accesskey    "S">
-<!ENTITY passphraseConfirm.label      "Potwierdź">
-<!ENTITY passphraseConfirm.accesskey  "W">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; dba o twoją prywatność">
+<!ENTITY setup.newSyncKeyPage.description.label "Aby zapewnić całkowitą prywatność, wszystkie dane są szyfrowane przed przesłaniem. Klucz Sync, który jest potrzebny do odszyfrowania danych, nie jest przesyłany.">
+<!ENTITY syncKeyEntry.label        "Twój klucz Sync">
+<!ENTITY syncKeyEntry.accesskey    "k">
+<!ENTITY syncKeyGenerate.label     "Wygeneruj">
+<!ENTITY syncKeyBackup.description "Klucz Sync jest potrzebny, by skorzystać z &syncBrand.fullName.label; na innych urządzeniach. Prosimy o utworzenie kopii zapasowej klucza. W razie jego utraty nie będziemy w stanie pomóc ci go odzyskać.">
+
+<!ENTITY button.syncKeyBackup.email.label     "Wyślij e-mail…">
+<!ENTITY button.syncKeyBackup.email.accesskey "e">
+<!ENTITY button.syncKeyBackup.print.label     "Wydrukuj…">
+<!ENTITY button.syncKeyBackup.print.accesskey "d">
+<!ENTITY button.syncKeyBackup.save.label      "Zapisz…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "Z">
 
 <!ENTITY page.syncKeyBackup.title     "Twój klucz Firefox Sync">
 <!ENTITY page.syncKeyBackup.descr     "Klucz ten jest używany do zaszyfrowania osobistych danych. Nie jest przesyłany na serwer i nie można go odzyskać. Nie zgub go i nie udostępniaj go innym.">
@@ -52,29 +63,45 @@
 <!ENTITY resetPassword.label            "Resetuj hasło">
 <!ENTITY connecting.label               "Łączenie…">
 
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label     "Wprowadź szyfr">
-<!ENTITY passphraseDesc3.label        "Wprowadź szyfr. Musi być to ten sam szyfr, jaki jest używany do szyfrowania danych.">
-<!ENTITY passphraseHelp.label         "Szyfr zawiera przynajmniej 12 znaków i jest inny niż hasło. Jeśli nie pamiętasz szyfru, możesz go sprawdzić, korzystając z innego zsynchronizowanego urządzenia. Przejdź do karty Bezpieczeństwo znajdującej się w oknie dialogowym opcji i naciśnij przycisk Zapamiętane hasła… Jeśli nie znajdziesz tam właściwego szyfru, możesz go zresetować, ale stracisz wszystkie dane zapisane na serwerze.">
-<!ENTITY changePassphrase.label       "Zmień szyfr">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Wprowadź klucz Sync">
+<!ENTITY setup.existingSyncKeyPage.description "Klucz Sync został dla ciebie wygenerowany lub przez ciebie wprowadzony w momencie zarejestrowania konta usługi &syncBrand.fullName.label;. Jest on inny niż hasło.">
+<!ENTITY existingSyncKeyHelp.description "Możesz odnaleźć swój zapisany klucz Sync na innym komputerze i sprawdzając zapisane hasła w panelu Bezpieczeństwo okna dialogowego opcji. Jeśli nie odnajdziesz właściwego klucza, możesz go zresetować, ale stracisz wszystkie dane zapisane na serwerze.">
+<!ENTITY lostSyncKey.label            "Nie mogę znaleźć mojego klucza Sync">
 <!ENTITY verifying.label              "Weryfikacja…">
 
-<!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "Jak chcesz rozpocząć?">
-<!ENTITY choice.merge.main.label        "Scal dane tego urządzenia ze swoimi danymi &syncBrand.shortName.label;">
-<!ENTITY choice.merge.recommend.label   "Mozilla zaleca tę opcję wszystkim użytkownikom.">
-<!ENTITY choice.client.main.label       "Zamień dane tego urządzenia danymi z &syncBrand.fullName.label;">
-<!ENTITY choice.server.main.label       "Zamień dane na wszystkich urządzeniach danymi lokalnymi">
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Opcje Sync">
+<!ENTITY syncComputerName.label       "Nazwa komputera:">
+<!ENTITY syncComputerName.accesskey   "k">
 
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label          "Potwierdzenie wyboru">
-<!ENTITY confirm.merge.label            "Wybrano połączenie synchronizowanych danych z tego urządzenia z danymi z innych urządzeń używających &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label           "Wszystkie dane programu &brandShortName; na tym urządzeniu zostaną usunięte, włączając w to:">
-<!ENTITY confirm.client.moreinfo.label  "&brandShortName; skopiuje twoje dane &syncBrand.fullName.label; na to urządzenie.">
-<!ENTITY confirm.client.warning.label   "UWAGA: ta operacja spowoduje nadpisanie danych programu &brandShortName; na tym urządzeniu!">
+<!ENTITY syncMy.label                   "Synchronizuj moje:">
+<!ENTITY engine.bookmarks.label         "zakładki">
+<!ENTITY engine.bookmarks.accesskey     "z">
+<!ENTITY engine.tabs.label              "karty">
+<!ENTITY engine.tabs.accesskey          "k">
+<!ENTITY engine.history.label           "historię">
+<!ENTITY engine.history.accesskey       "h">
+<!ENTITY engine.passwords.label         "hasła">
+<!ENTITY engine.passwords.accesskey     "a">
+<!ENTITY engine.prefs.label             "ustawienia">
+<!ENTITY engine.prefs.accesskey         "u">
+
+<!ENTITY choice2.merge.main.label      "Scal dane tego komputera z moimi danymi &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Zalecane:">
+<!ENTITY choice2.client.main.label     "Zamień dane tego komputera danymi z&syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Zamień dane na pozostałych urządzeniach danymi z tego komputera">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Potwierdzenie">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; włączy wszystkie dane przeglądarki na tym komputerze do danych na koncie Sync.">
+<!ENTITY confirm.client.label           "Wszystkie dane programu &brandShortName; na tym komputerze zostaną usunięte, włączając w to:">
+<!ENTITY confirm.client.moreinfo.label  "&brandShortName; skopiuje twoje dane &syncBrand.fullName.label; na ten komputer.">
+<!ENTITY confirm.client.warning.label   "UWAGA: ta operacja spowoduje nadpisanie danych programu &brandShortName; na tym komputerze!">
 <!ENTITY confirm.server.label           "Dane na następujących urządzeniach zostaną zastąpione danymi lokalnymi:">
 <!ENTITY confirm.server.warning.label   "UWAGA: wszystkie dane programu &brandShortName; na tych urządzeniach zostaną zastąpione danymi lokalnymi!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label     "Konfiguracja zakończona!">
-<!ENTITY setup.successPage.desc.label      "Gratulacje! Program &brandShortName; jest teraz skonfigurowany do automatycznej synchronizacji twoich informacji. Pamiętaj, by zainstalować &syncBrand.fullName.label; na wszystkich swoich urządzeniach. Możesz teraz kontynuować pracę z programem &brandShortName;.">
+<!ENTITY setup.successPage.title "Konfiguracja zakończona!">
+<!ENTITY changeOptions.label "Możesz zmienić to ustawienie wybierając Opcje Sync poniżej.">
+<!ENTITY continueUsing.label "Możesz teraz kontynuować korzystanie z programu &brandShortName;.">
