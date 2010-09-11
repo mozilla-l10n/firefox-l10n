@@ -21,12 +21,19 @@
 <!ENTITY closeOtherTabs.accesskey            "i" >
 <!ENTITY openTabInNewWindow.label            "Otwórz w nowym oknie">
 <!ENTITY openTabInNewWindow.accesskey        "O">
-<!ENTITY pinTab.label                        "Przekształć w kartę aplikacji">
-<!ENTITY pinTab.accesskey                    "e">
-<!ENTITY unpinTab.label                      "Przekształć w zwykłą kartę">
-<!ENTITY unpinTab.accesskey                  "e">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Przypnij jako kartę aplikacji">
+<!ENTITY  pinAppTab.accesskey                "n">
+<!ENTITY  unpinAppTab.label                  "Odepnij kartę">
+<!ENTITY  unpinAppTab.accesskey              "n">
+
 <!ENTITY moveToGroup.label                   "Przenieś do grupy">
-<!ENTITY moveToGroup.accesskey               "n">
+<!ENTITY moveToGroup.accesskey               "e">
 <!ENTITY moveToNewGroup.label                "Nowa grupa">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
 <!ENTITY bookmarkAllTabs.accesskey           "k">
