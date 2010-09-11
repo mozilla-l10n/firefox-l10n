@@ -10,7 +10,7 @@
 <!ENTITY closeOtherTabs.accesskey "д">
 <!ENTITY openTabInNewWindow.label "Открыть в новом окне">
 <!ENTITY openTabInNewWindow.accesskey "т">
-<!ENTITY pinAppTab.label "Прикрепить как вкладку">
+<!ENTITY pinAppTab.label "Прикрепить вкладку">
 <!ENTITY pinAppTab.accesskey "е">
 <!ENTITY unpinAppTab.label "Открепить вкладку">
 <!ENTITY unpinAppTab.accesskey "п">
