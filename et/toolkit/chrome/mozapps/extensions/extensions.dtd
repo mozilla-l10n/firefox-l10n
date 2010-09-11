@@ -13,13 +13,22 @@
 <!ENTITY cmd.back.tooltip                     "Mine üks leht tagasi">
 <!ENTITY cmd.forward.tooltip                  "Mine üks leht edasi">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label               "Kõik lisad on ohutu režiimi poolt keelatud.">
+<!ENTITY warning.checkcompatibility.label     "Lisade ühilduvuse kontrollimine on keelatud. Kasutusel võib olla mitteühilduvaid lisasid.">
+<!ENTITY warning.checkcompatibility.enable.label "Luba">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Luba lisade ühilduvuse kontrollimine">
+<!ENTITY warning.updatesecurity.label         "Lisade uuendamise turvalisuse kontrollimine on keelatud. Sinu turvalisus võib uuenduste tõttu ohus olla.">
+<!ENTITY warning.updatesecurity.enable.label  "Luba">
+<!ENTITY warning.updatesecurity.enable.tooltip "Luba lisade uuendamise turvalisuse kontrollimine">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Otsing">
 <!ENTITY view.discover.label                  "Hangi lisasid">
 <!ENTITY view.locales.label                   "Keeled">
 <!ENTITY view.searchengines.label             "Otsingumootorid">
 <!ENTITY view.features.label                  "Laiendused">
-<!ENTITY view.appearance.label                "Teemad">
+<!ENTITY view.appearance2.label               "Välimus">
 <!ENTITY view.plugins.label                   "Pluginad">
 <!ENTITY view.recentUpdates.label             "Hiljutised uuendused">
 <!ENTITY view.availableUpdates.label          "Saadaolevad uuendused">
@@ -39,6 +48,8 @@
 <!ENTITY updates.restart.label                "Paigalduse lõpetamiseks taaskäivita kohe">
 <!ENTITY updates.noneFound.label              "Uuendusi ei leitud">
 <!ENTITY updates.manualUpdatesFound.label     "Vaata saadaolevaid uuendusi">
+<!ENTITY updates.updateSelected.label         "Paigalda uuendused">
+<!ENTITY updates.updateSelected.tooltip       "Paigalda saadaolevad uuendused sellest nimekirjast">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Kuva rohkem teavet">
@@ -56,6 +67,12 @@
 <!ENTITY cmd.enableAddon.accesskey            "L">
 <!ENTITY cmd.disableAddon.label               "Keela">
 <!ENTITY cmd.disableAddon.accesskey           "a">
+<!ENTITY cmd.enableTheme.label                "Kasuta teemat">
+<!ENTITY cmd.enableTheme.accesskey            "K">
+<!ENTITY cmd.disableTheme.label               "Lõpeta teema kasutamine">
+<!ENTITY cmd.disableTheme.accesskey           "p">
+<!ENTITY cmd.installAddon.label               "Paigalda">
+<!ENTITY cmd.installAddon.accesskey           "P">
 <!ENTITY cmd.uninstallAddon.label             "Eemalda">
 <!ENTITY cmd.uninstallAddon.accesskey         "m">
 <!ENTITY cmd.showPreferencesWin.label         "Sätted">
@@ -73,14 +90,22 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versioon">
-<!ENTITY detail.updated.label                 "Uuendatud">
+<!ENTITY detail.lastupdated.label             "Viimati uuendatud">
 <!ENTITY detail.creator.label                 "Arendaja">
 <!ENTITY detail.homepage.label                "Koduleht">
 <!ENTITY detail.numberOfDownloads.label       "Allalaadimisi">
 
-<!ENTITY detail.updateAutomatically.label     "Uuendatakse automaatselt">
-<!ENTITY detail.updateAutomatically.accesskey "U">
-<!ENTITY detail.updateAutomatically.tooltip   "Uuenduste olemasolul uuendatakse see lisa automaatselt">
+<!ENTITY detail.contributions.description     "Selle lisa arendaja palub sult väikse annetuse näol abi jätkuvaks arenduseks.">
+
+<!ENTITY detail.updateType                    "Automaatsed uuendused">
+<!ENTITY detail.updateAutomatic.label         "Sees">
+<!ENTITY detail.updateAutomatic.tooltip       "Paigalda uuendused automaatselt">
+<!ENTITY detail.updateManual.label            "Väljas">
+<!ENTITY detail.updateManual.tooltip          "Ära paigalda uuendusi automaatselt">
+<!ENTITY detail.home                          "Koduleht">
+<!ENTITY detail.repository                    "Lisa profiil">
+<!ENTITY detail.size                          "Suurus">
+
 <!ENTITY detail.checkForUpdates.label         "Kontrolli uuenduste olemasolu">
 <!ENTITY detail.checkForUpdates.accesskey     "K">
 <!ENTITY detail.checkForUpdates.tooltip       "Kontrolli, kas lisale on uuendusi">
@@ -91,8 +116,9 @@
 <!ENTITY detail.showPreferencesUnix.accesskey "E">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Muuda selle lisa eelistusi">
 
+
 <!-- ratings -->
-<!ENTITY rating.label                         "Hinnang:">
+<!ENTITY rating2.label                        "Hinnang">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Paus">
@@ -116,18 +142,26 @@
 <!ENTITY addon.details.label                  "Veel">
 <!ENTITY addon.details.tooltip                "Kuva veel infot selle lisa kohta">
 <!ENTITY addon.unknownDate                    "pole teada">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(keelatud)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
-<!ENTITY addon.update.postfix                 "uuendus">
-<!ENTITY addon.undo.label                     "Võta tagasi?">
-<!ENTITY addon.undo.tooltip                   "Võta see tegevus tagasi">
-<!ENTITY addon.undoUninstall.label            "Võta tagasi?">
-<!ENTITY addon.undoUninstall.tooltip          "Jäta see lisa paigaldatuks">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "(uuendus)">
+<!ENTITY addon.undoAction.label               "Võta tagasi">
+<!ENTITY addon.undoAction.tooltip             "Võta see tegevus tagasi">
+<!ENTITY addon.undoRemove.label               "Võta tagasi">
+<!ENTITY addon.undoRemove.tooltip             "Jäta see lisa paigaldatuks">
 <!ENTITY addon.restartNow.label               "Taaskäivita kohe">
 <!ENTITY addon.install.label                  "Paigalda">
 <!ENTITY addon.install.tooltip                "Paigalda see lisa">
 <!ENTITY addon.updateNow.label                "Uuenda kohe">
 <!ENTITY addon.updateNow.tooltip              "Paigalda uuendus sellele lisale">
+<!ENTITY addon.includeUpdate.label            "Kaasa uuendamisse">
+<!ENTITY addon.updateAvailable.label          "Uuendus on saadaval">
 <!ENTITY addon.checkingForUpdates.label       "Uuenduste kontrollimine…">
 <!ENTITY addon.releaseNotes.label             "Väljalasketeade:">
 <!ENTITY addon.loadingReleaseNotes.label      "Laadimine…">

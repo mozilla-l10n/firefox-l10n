@@ -19,7 +19,7 @@
 <!ENTITY useSmoothScrolling.accesskey      "s">
 <!ENTITY allowHWAccel.label                "Võimalusel kasutatakse riistvaralist kiirendust">
 <!ENTITY allowHWAccel.accesskey            "i">
-<!ENTITY checkSpelling.label               "Sisestamisel kontrollitakse õigekirja">
+<!ENTITY checkSpelling.label               "Kirjutamisel kontrollitakse õigekirja">
 <!ENTITY checkSpelling.accesskey           "r">
 
 <!ENTITY systemDefaults.label              "Vaikimisi seaded">
@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey      "v">
 <!ENTITY checkNow.label                    "Kontrolli nüüd">
 <!ENTITY checkNow.accesskey                "K">
-<!ENTITY submitCrashes.label               "Saada vearaportid">
-<!ENTITY submitCrashes.accesskey           "S">
+<!ENTITY submitCrashes.label               "Lubatakse vearaportite saatmine">
+<!ENTITY submitCrashes.accesskey           "L">
 
 <!ENTITY networkTab.label                  "Võrk">
 

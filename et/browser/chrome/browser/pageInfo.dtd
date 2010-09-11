@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY pageInfoWindow.width                          "620">
+<!ENTITY pageInfoWindow.width                          "630">
 <!ENTITY pageInfoWindow.height                         "500">
 
 <!ENTITY copy.key                                      "C">
@@ -74,7 +74,7 @@
 <!ENTITY mediaCount                                    "Arv">
 <!ENTITY mediaDimension                                "Mõõtmed:">
 <!ENTITY mediaLongdesc                                 "Pikk kirjeldus:">
-<!ENTITY mediaBlockImage.accesskey                     "B">
+<!ENTITY mediaBlockImage.accesskey                     "P">
 <!ENTITY mediaSaveAs                                   "Salvesta kui...">
 <!ENTITY mediaSaveAs.accesskey                         "S">
 <!ENTITY mediaSaveAs2.accesskey                        "e">
@@ -99,12 +99,17 @@
 <!ENTITY  permInstall                                  "Laienduste või teemade paigaldamine">
 <!ENTITY  permGeo                                      "Asukoht avaldatakse">
 
+<!ENTITY  permIndexedDB                                "Võrguta režiimi kettakasutuse haldamine">
+<!ENTITY  permClearStorage                             "Kustuta andmed">
+<!ENTITY  permClearStorage.accesskey                   "K">
+
 <!ENTITY  securityTab                                  "Turvalisus">
 <!ENTITY  securityTab.accesskey                        "r">
 <!ENTITY  securityHeader                               "Selle lehe turvalisuse info">
 <!ENTITY  securityView.certView                        "Vaata sertifikaati">
 <!ENTITY  securityView.accesskey                       "V">
 <!ENTITY  securityView.unknown                         "Tundmatu">
+
 
 <!ENTITY  securityView.identity.header                 "Veebilehe identiteet">
 <!ENTITY  securityView.identity.owner                  "Omanik: ">

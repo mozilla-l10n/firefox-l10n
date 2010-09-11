@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir      "Profiili kaust">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins  "Lubatud pluginad">
 <!ENTITY aboutSupport.appBasicsBuildConfig     "Kompileerimise konfiguratsioon">
+<!ENTITY aboutSupport.appBasicsUserAgent       "Identifikaator">
 
 <!ENTITY aboutSupport.show.label               "Ava profiili sisaldav kaust">
 

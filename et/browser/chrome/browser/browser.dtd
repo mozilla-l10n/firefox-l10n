@@ -20,15 +20,18 @@
 <!ENTITY  closeOtherTabs.accesskey               "t">
 <!ENTITY  openTabInNewWindow.label               "Ava kaart uues aknas">
 <!ENTITY  openTabInNewWindow.accesskey           "v">
-<!ENTITY  pinTab.label                           "Tee püsikaardiks">
-<!ENTITY  pinTab.accesskey                       "T">
-<!ENTITY  unpinTab.label                         "Tee tavakaardiks">
-<!ENTITY  unpinTab.accesskey                     "d">
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                        "Tee püsikaardiks">
+<!ENTITY  pinAppTab.accesskey                    "T">
+<!ENTITY  unpinAppTab.label                      "Tee tavakaardiks">
+<!ENTITY  unpinAppTab.accesskey                  "d">
 <!ENTITY  moveToGroup.label                      "Liiguta gruppi">
 <!ENTITY  moveToGroup.accesskey                  "u">
 <!ENTITY  moveToNewGroup.label                   "Uus grupp">
-<!ENTITY  bookmarkThisTab.label                  "Lisa see kaart järjehoidjatesse">
-<!ENTITY  bookmarkThisTab.accesskey              "j">
 <!ENTITY  bookmarkAllTabs.label                  "Lisa kõik kaardid järjehoidjatesse…">
 <!ENTITY  bookmarkAllTabs.accesskey              "L">
 <!ENTITY  undoCloseTab.label                     "Võta kaardi sulgemine tagasi">
@@ -78,8 +81,8 @@
 <!ENTITY fullScreenCmd.label                     "Täisekraani režiim">
 <!ENTITY fullScreenCmd.accesskey                 "r">
 <!ENTITY fullScreenCmd.macCommandKey             "f">
-<!ENTITY showAllTabsCmd.label                    "Näita kõiki kaarte">
-<!ENTITY showAllTabsCmd.accesskey                "N">
+<!ENTITY showAllTabsCmd.label                    "Kuva kõiki kaarte">
+<!ENTITY showAllTabsCmd.accesskey                "K">
 
 <!ENTITY fullScreenMinimize.tooltip              "Minimeeri">
 <!ENTITY fullScreenRestore.tooltip               "Taasta">
@@ -99,7 +102,7 @@
 <!ENTITY subscribeToPageMenupopup.label          "Selle veebilehe uudisvoo tellimine">
 <!ENTITY subscribeToPageMenuitem.label           "Telli selle veebilehe uudisvoog...">
 <!ENTITY addCurPagesCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
-<!ENTITY organizeBookmarks.label                 "Redigeeri järjehoidjaid...">
+<!ENTITY showAllBookmarks.label                  "Kuva kõiki järjehoidjaid...">
 <!ENTITY bookmarkAllCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
 <!ENTITY bookmarksToolbarChevron.tooltip         "Veel järjehoidjaid">
 
@@ -168,6 +171,7 @@
 <!ENTITY downloadsUnix.commandkey                "y">
 <!ENTITY addons.label                            "Lisad">
 <!ENTITY addons.accesskey                        "L">
+<!ENTITY addons.commandkey                       "A">
 
 <!ENTITY errorConsoleCmd.label                   "Vigade konsool">
 <!ENTITY errorConsoleCmd.accesskey               "V">
@@ -262,12 +266,14 @@
 <!ENTITY historyUndoMenu.label                   "Hiljuti suletud kaardid">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label             "Hiljuti suletud aknad">
+<!ENTITY historyRestoreLastSession.label         "Taasta eelmine seanss">
 
 <!ENTITY historyHomeCmd.label                    "Kodu">
 <!ENTITY showAllHistoryCmd2.label                "Näita kogu ajalugu">
 <!ENTITY showAllHistoryCmd.commandkey            "H">
 
-<!ENTITY appMenuCustomize.label                  "Kohanda">
+<!ENTITY appMenuEdit.label                       "Redigeerimine">
+<!ENTITY appMenuCustomize.label                  "Kohandamine">
 <!ENTITY appMenuToolbarLayout.label              "Tööriistariba paigutus…">
 <!ENTITY appMenuSidebars.label                   "Külgribad">
 <!ENTITY appMenuFind.label                       "Leia…">

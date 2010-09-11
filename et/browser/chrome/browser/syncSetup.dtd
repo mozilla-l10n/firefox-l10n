@@ -2,12 +2,16 @@
 
 <!-- First page of the wizard -->
 
+<!ENTITY setup.pickSetupType.description    "Tere tulemast! Kui sa pole varem &syncBrand.fullName.label;i kasutanud, siis pead sa looma uue konto.">
+<!ENTITY button.createNewAccount.label      "Loo uus konto">
+<!ENTITY button.haveAccount.label           "Mul on &syncBrand.fullName.label;i konto olemas">
+
 <!ENTITY setup.choicePage.title.label       "Kas sa oled varem kasutanud &syncBrand.fullName.label;i?">
 <!ENTITY setup.choicePage.new.label         "Ma pole varem &syncBrand.shortName.label;i kasutanud">
 <!ENTITY setup.choicePage.existing.label    "Ma juba kasutan &syncBrand.shortName.label;i teises arvutis">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label                    "Ühendu">
+<!ENTITY server.label                       "Server">
 <!ENTITY serverType.main.label              "&syncBrand.fullName.label;i serveriga">
 <!ENTITY serverType.custom.label            "kasuta kohandatud serverit">
 <!ENTITY signIn.username.label              "Kasutajanimi">
@@ -18,7 +22,7 @@
 <!ENTITY signIn.serverURL.accesskey         "S">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label   "&syncBrand.shortName.label;i konto loomine">
+<!ENTITY setup.newAccountDetailsPage.title.label "Konto andmed">
 <!ENTITY setup.confirmPassword.label        "Korda parooli">
 <!ENTITY setup.confirmPassword.accesskey    "o">
 <!ENTITY setup.emailAddress.label           "E-posti aadress">
@@ -33,59 +37,63 @@
 <!ENTITY setup.tosAgree3.label              "">
 <!ENTITY setup.tosAgree2.accesskey          "">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label        "Salajase võtme sisestamine">
-<!ENTITY passphraseDesc.label               "Palun sisesta salajane võti. Seda kasutatakse selleks, et krüptida kogu sinu info, nii et ainult sinul on sellele ligipääs. Seda ei salvestata kunagi serverisse, nii et ära seda ära kaota!">
-<!ENTITY passphraseDesc2.label              "See peab olema vähemalt 12 tähemärki pikk ja ei tohi kattuda sinu konto parooliga.">
-<!ENTITY passphraseEntry.label              "Salajane võti">
-<!ENTITY passphraseEntry.accesskey          "S">
-<!ENTITY passphraseConfirm.label            "Korda">
-<!ENTITY passphraseConfirm.accesskey        "K">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label   "&brandShortName; peab lugu sinu privaatsusest">
+<!ENTITY setup.newSyncKeyPage.description.label "Privaatsuse tagamiseks krüptitakse kõik andmed enne üleslaadimist. Võtit, mis on vajalik andmete dekrüptimiseks, üles ei laadita.">
+<!ENTITY syncKeyEntry.label                 "Synci võti">
+<!ENTITY syncKeyEntry.accesskey             "S">
+<!ENTITY syncKeyGenerate.label              "Geneereeri">
+<!ENTITY syncKeyBackup.description          "Synci võti on vajalik &syncBrand.fullName.label;i kasutamisel teistes arvutites. Palun tee varukoopia. Me ei saa sind Synci võtme taastamisel aidata.">
 
-<!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Brauseri sünkroniseerimise eelistused">
-<!ENTITY syncComputerName.label             "Arvuti nimi:">
-<!ENTITY syncComputerName.accesskey         "A">
-<!ENTITY syncModeSwitchDesc.label           "&brandShortName;: ">
-<!ENTITY syncModeSwitchDesc.accesskey       "F">
-<!ENTITY syncEverything.label               "sünkroniseerib kõik">
-<!ENTITY customSync.label                   "kasutatab kohandatud sätteid">
-<!ENTITY syncEverythingDescription.label    "Sünkroniseeritakse järjehoidjad, ajalugu, paroolid, eelistused ja kaardid.">
-<!ENTITY syncItem.bookmarks.label           "sünkroniseeritakse järjehoidjad">
-<!ENTITY syncItem.bookmarks.accesskey       "j">
-<!ENTITY syncItem.tabs.label                "sünkroniseeritakse kaardid">
-<!ENTITY syncItem.tabs.accesskey            "k">
-<!ENTITY syncItem.history.label             "sünkroniseeritakse ajalugu">
-<!ENTITY syncItem.history.accesskey         "a">
-<!ENTITY syncItem.passwords.label           "sünkroniseeritakse paroolid">
-<!ENTITY syncItem.passwords.accesskey       "p">
-<!ENTITY syncItem.prefs.label               "sünkroniseeritakse eelistused">
-<!ENTITY syncItem.prefs.accesskey           "e">
+<!ENTITY button.syncKeyBackup.email.label   "Saada e-postiga…">
+<!ENTITY button.syncKeyBackup.email.accesskey "e">
+<!ENTITY button.syncKeyBackup.print.label   "Prindi…">
+<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.save.label    "Salvesta…">
+<!ENTITY button.syncKeyBackup.save.accesskey "S">
 
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label      "Palun tõesta, et sa pole robot ;)">
+<!ENTITY page.syncKeyBackup.title            "Sinu Firefox Synci võti">
+<!ENTITY page.syncKeyBackup.descr            "Seda võtit kasutatakse sinu isiklike andmete krüptimiseks. Seda ei laadida serverisse ja seda ei saa taastada. Ära kaota seda, ega jaga teiste inimestaga.">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Palun tõesta, et sa pole robot">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label  "Konto teabe sisestamine">
 <!ENTITY resetPassword.label                "Lähtesta parool">
 <!ENTITY connecting.label                   "Ühendumine…">
 
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label           "Salajase võtme sisestamine">
-<!ENTITY passphraseDesc3.label              "Palun sisesta salajane võti. See peab olema sama salajane võti, mida sa kasutasid oma andmete krüptimiseks.">
-<!ENTITY passphraseHelp.label               "Salajane võti on vähemalt 12 tähemärki pikk ja ei kattu sinu parooliga. Sa leiad oma salajase võtme, kui lähed oma teise arvuti juurde ja vaatad sealt Firefoxi salvestatud paroole. Kui sa siiski ei leia õiget salajast võtit, siis võid sa selle ka lähtestada, kuid see tähendab seda, et kaotad kõik oma serverisse salvestatud andmed.">
-<!ENTITY changePassphrase.label             "Muuda salajast võtit">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title    "Synci võtme sisestamine">
+<!ENTITY setup.existingSyncKeyPage.description "&syncBrand.fullName.label;i konto loomisel genereeriti sulle Synci võti või sa sisestasid selle ise. See ei kattu sinu parooliga.">
+<!ENTITY existingSyncKeyHelp.description    "Sa leiad oma salajase võtme, kui lähed oma teise arvuti juurde ja vaatad sealt Firefoxi salvestatud paroole. Kui sa siiski ei leia õiget salajast võtit, siis võid sa selle ka lähtestada, kuid see tähendab seda, et kaotad kõik oma serverisse salvestatud andmed.">
+<!ENTITY lostSyncKey.label                  "Ma kaotasin oma Synci võtme">
 <!ENTITY verifying.label                    "Kontrollimine…">
 
-<!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label  "Kuidas sa soovid alustada?">
-<!ENTITY choice.merge.main.label            "Ühenda selle arvuti andmed &syncBrand.shortName.label;i andmetega">
-<!ENTITY choice.merge.recommend.label       "Mozilla soovitab tungivalt seda valikut kõigile kasutajatele.">
-<!ENTITY choice.client.main.label           "Asenda kõik selle arvuti andmed &syncBrand.fullName.label;i andmetega">
-<!ENTITY choice.server.main.label           "Asenda teiste seadmete andmed selle arvuti andmetega">
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title            "Synci sätted">
+<!ENTITY syncComputerName.label             "Arvuti nimi:">
+<!ENTITY syncComputerName.accesskey         "v">
 
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label              "Valiku kinnitamine">
+<!ENTITY syncMy.label                       "Sünkroniseeritakse">
+<!ENTITY engine.bookmarks.label             "järjehoidjad">
+<!ENTITY engine.bookmarks.accesskey         "j">
+<!ENTITY engine.tabs.label                  "kaardid">
+<!ENTITY engine.tabs.accesskey              "k">
+<!ENTITY engine.history.label               "ajalugu">
+<!ENTITY engine.history.accesskey           "a">
+<!ENTITY engine.passwords.label             "paroolid">
+<!ENTITY engine.passwords.accesskey         "p">
+<!ENTITY engine.prefs.label                 "eelistused">
+<!ENTITY engine.prefs.accesskey             "e">
+
+<!ENTITY choice2.merge.main.label           "Ühenda selle arvuti andmed &syncBrand.shortName.label;i andmetega">
+<!ENTITY choice2.merge.recommended.label    "Soovitatud:">
+<!ENTITY choice2.client.main.label          "Asenda kõik selle arvuti andmed &syncBrand.fullName.label;i andmetega">
+<!ENTITY choice2.server.main.label          "Asenda teiste seadmete andmed selle arvuti andmetega">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title     "Kinnitamine">
 <!ENTITY confirm.merge.label                "Sa oled valinud selle arvuti andmete ühendamise teiste &syncBrand.fullName.label;i kasutavate seadmete andmetega.">
 <!ENTITY confirm.client.label               "Kõik &brandShortName;i andmed selles arvutis kustutatakse, ka järgnevad:">
 <!ENTITY confirm.client.moreinfo.label      "&brandShortName; kopeerib pärast seda &syncBrand.fullName.label;i andmed sellesse arvutisse.">
@@ -94,5 +102,6 @@
 <!ENTITY confirm.server.warning.label       "HOIATUS: selle arvuti andmed asendavad kõik &brandShortName;i andmed nendes seadmetes!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "Seadistamine on lõpetatud!">
-<!ENTITY setup.successPage.desc.label    "Õnnitleme! &brandShortName; on nüüd seadistatud automaatselt sünkroniseerima sinu andmeid. Ära unusta paigaldada &syncBrand.fullName.label;i kõigisse oma seadmetesse. Sa võid nüüd &brandShortName;i kasutamist jätkata.">
+<!ENTITY setup.successPage.title            "Seadistamine on lõpetatud!">
+<!ENTITY changeOptions.label                "Selle eelistuse muutmiseks klõpsa allolevat nuppu Synci sätted.">
+<!ENTITY continueUsing.label                "Sa võid nüüd &brandShortName;i kasutamist jätkata.">
