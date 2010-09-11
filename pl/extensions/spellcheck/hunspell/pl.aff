@@ -5736,7 +5736,7 @@ SFX U   o         zie       [^a]zdo
 SFX U   azdo      e¼dzie    azdo
 SFX U   o         ie        bo
 
-SFX V Y 79
+SFX V Y 78
 SFX V   um        a         um
 SFX V   0         ta        [^i]ê
 SFX V   ê         ona       miê
@@ -5744,15 +5744,14 @@ SFX V   0         ta        [^m]iê
 SFX V   o         0         bo
 SFX V   co        ec        jco
 SFX V   o         0         [^j]co
-SFX V   o         ów        [^za]do
-SFX V   o         0         [az]do
-SFX V   o         ów        eo
+SFX V   o         0         do
 SFX V   o         0         go
 SFX V   o         0         cho
 SFX V   ³o        e³        [^aegko]³o
 SFX V   ³o        ³         [ae]³o
 SFX V   o³o       ó³        o³o
 SFX V   ³o        ie³       [gk]³o
+SFX V   o         0         jo
 SFX V   ko        k         [^bcdjl³mnñprtwz¿]ko
 SFX V   ko        ek        [bcdjl³mprtwz¿]ko
 SFX V   ko        ek        [^a]nko
@@ -5765,7 +5764,6 @@ SFX V   e         i         [od]pole
 SFX V   e         i         zele
 SFX V   e         0         sele
 SFX V   ele       ó³        iele
-SFX V   ê         ±t        lê
 SFX V   cie       æ         [iruy]cie
 SFX V   e         0         [e]cie
 SFX V   cie       æ         [ê¶]cie
@@ -5781,19 +5779,20 @@ SFX V   e         y         [crs]ze
 SFX V   ê         ±t        [^i]ê
 SFX V   ê         on        miê
 SFX V   ê         ±t        [^m]iê
-SFX V   o         0         [^dhtb][mrw]o
+SFX V   o         0         mo
+SFX V   o         0         [^dhtb]ro
 SFX V   ro        er        [dht]ro
 SFX V   ro        er        [^oa]bro
 SFX V   o         0         abro
 SFX V   obro      óbr       obro
-SFX V   no        ien       [gkmsw]no
+SFX V   no        ien       [pgkmsw]no
 SFX V   no        en        [hj³]no
 SFX V   no        n         [^ó]tno
 SFX V   tno       cien      ótno
 SFX V   no        n         [nruyz]no
 SFX V   no        en        arno
 SFX V   no        en        dno
-SFX V   o         0         [ioa]no
+SFX V   o         0         [pioa]no
 SFX V   e         0         [bmswz]ie
 SFX V   e         0         [sw]ce
 SFX V   o         0         [psw]o
@@ -7231,4 +7230,3 @@ REP zi ¼
 REP zl az³
 REP z ¿n
 REP z rz
-
