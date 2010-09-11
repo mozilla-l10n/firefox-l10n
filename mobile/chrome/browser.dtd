@@ -87,6 +87,7 @@
 <!ENTITY consoleErrColumn.label    "Kolonne:">
 
 <!ENTITY contextOpenInNewTab.label    "Opne lenkje i ny fane">
+<!ENTITY contextSaveLink.label        "Lagre lenkje">
 <!ENTITY contextSaveImage.label       "Lagre bilete">
 <!ENTITY contextShareLink.label       "Del lenkje">
 <!ENTITY contextShareImage.label      "Del bilete">

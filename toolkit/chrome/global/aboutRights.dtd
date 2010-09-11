@@ -20,16 +20,19 @@
 <!ENTITY rights.intro-point2-b "her">
 <!ENTITY rights.intro-point2-c ".">
 
+<!-- point 2.5 text for official branded builds -->
+<!ENTITY rights.intro-point2.5 "Nokre funksjonar i &brandShortName;, som til dømes krasjrapporteraren, gir deg høve til å gi tilbakemelding til &vendorShortName;. Ved å sende tilbakemelding gir du &vendorShortName; løyve til å bruke tilbakemeldingane for å forbetre produkta sine, publisere tilbakemeldingane på nettstadene sine, og å distribuere tilbakemeldingane.">
+
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Personvernerklæring for &vendorShortName; sine produkt kan du finne ">
-<!ENTITY rights.intro-point3b "her">
+<!ENTITY rights2.intro-point3a "Korleis vi brukar personleg informasjon og tilbakemeldingar som er sendt til &vendorShortName; gjennom &brandShortName; er skildra i ">
+<!ENTITY rights2.intro-point3b "&brandShortName; personvernpraksis">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Informasjon om personvernerklæring for dette produktet bør vere oppført her.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; gjev deg også valfrie nettside-informasjonstenester, som mellom anna SafeBrowsing-tenesta; vi kan likevel ikkje garantere at dei er 100&#37; nøyaktige eller feilfrie. Meir informasjon, også om korleis tenestene kan slåast av, kan du finne i ">
+<!ENTITY rights2.intro-point4a "Nokre &brandShortName;-funksjonar brukar vevbaserte informasjonstenester, men vi kan ikkje garantere at dei er 100 &#37; nøyaktige eller feilfrie. Meir informasjon, også om korleis tenestene som brukar desse funksjonane kan slåast av, kan du finne i ">
 <!ENTITY rights.intro-point4b "tenestevilkåra">
 <!ENTITY rights.intro-point4c ".">
 
@@ -38,16 +41,34 @@
 <!ENTITY rights.intro-point4b-unbranded "Informasjonstenester">
 <!ENTITY rights.intro-point4c-unbranded "-seksjonen.">
 
-<!ENTITY rights.webservices-header "&brandFullName; informasjonstenester">
+<!ENTITY rights2.webservices-header "&brandFullName; vevbaserte informasjonstenester">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; brukar informasjonstenester (&quot;Tenester&quot;), som mellom anna SafeBrowsing-tenesta, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ønskjer å bruke Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå Program-innstillingane, ved å velje ">
-<!ENTITY rights.webservices-b "Sikerheit">
-<!ENTITY rights.webservices-c " -seksjonen, og deretter fjerne avkryssingane frå &quot;&blockAttackSites.label;&quot; og &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights2.webservices-a "&brandFullName; brukar vevbaserte informasjonstenester (&quot;Tenester&quot;) for å tilgjengeleggjere nokre av funksjonane i den binære versjonen av &brandShortName;, under vilkår som er skildra nedanfor. Dersom du ikkje ønskjer å bruke ei eller fleire av tenestene, eller om du ikkje kan akseptere vilkåra, kan du slå av funksjonen eller tenesta/tenestene. Instruksjonar om korleis du slår av ein bestemt funksjon eller teneste finn du 
+">
+<!ENTITY rights2.webservices-b "her">
+<!ENTITY rights2.webservices-c ".">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Trygg nettlesing: ">
+<!ENTITY rights.safebrowsing-b "Å slå av Trygg nettlesing-funksjonen er ikkje tilrådd, sidan det kan føre til at du vitjar utrygge nettstader. Dersom du ønskjer å skru av funksjonen heilt, følg desse stega:">
+<!ENTITY rights.safebrowsing-term1 "Opne programinnstillingane">
+<!ENTITY rights.safebrowsing-term2 "Vel Tryggleik-fana">
+<!ENTITY rights.safebrowsing-term3 "Fjern avkryssinga frå innstillingane &quot;&blockAttackSites.label;&quot; og &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Trygg nettlesing er no slått av">
+
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Stadmedviten nettlesing:">
+<!ENTITY rights.locationawarebrowsing-b "er alltid ein funksjon du må aktivt velje å slå på for at han skal brukast. Ingen stadinfo vert sendt utan at du gir løyve til det. Dersom du ønskjer å skru av denne funksjonen heilt, følg desse stega:">
+<!ENTITY rights.locationawarebrowsing-term1a "I adresselinja, skriv inn ">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "Skriv inn geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Dobbelklikk på geo.enabled preference">
+<!ENTITY rights.locationawarebrowsing-term4 "Stadmedviten nettlesing er no slått av">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Ei oversikt over informasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
@@ -56,9 +77,9 @@
 <!ENTITY rights.webservices-term1-unbranded "Andre tenestevilkår for dette produktet bør førast opp her.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; og bidragsytarane deira, lisensgjevarar og partnarar jobbar for å tilby den mest oppdaterte og nøyaktige informasjonen om skadeleg programvare og phishing. Dei kan likevel diverre ikkje garantere at informasjonen dekkjer alt, eller er feilfri: Nokre risikable nettstader er kan hende ikkje oppdaga enno, og nokre trygge nettstader kan feilaktig ha blitt klassifiserte som risikable.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; og bidragsytarane, lisensgjevarar og partnarar jobbar for å tilby den mest nøyaktige og oppdaterte tenesta. Vi kan likevel ikkje garantere at denne informasjonen er fullstendig og feilfri. Det kan til dømes hende at nokre risikable nettstader ikkje er oppdaga enno, og nokre trygge nettstader kan feilaktig ha blitt klassifiserte som risikable. All info som vert returnert frå våre tenestetilbydarar er berre estimat, og korkje vi eller tenestetilbydarane garanterer at informasjonen som vert gjeven opp er heilt nøyaktig.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; kan avbryte eller endre Tenestene etter eige ønskje.">
-<!ENTITY rights.webservices-term3 "Du er velkomen til å bruke desse Tenestene med den medfølgjande versjonen av &brandShortName;, og du har alle rettar for å gjere det. &vendorShortName; og dess lisensgjevarar reserverer alle andre rettar til Tenestene. Desse vilkåra er ikkje meint for å avgrense rettane som er gjevne under open kjeldekode-lisensane som er knytta til &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
+<!ENTITY rights2.webservices-term3 "Du er velkomen til å bruke desse Tenestene med den medfølgjande versjonen av &brandShortName;, og &vendorShortName; gir deg retten til å gjere det. &vendorShortName; og lisensgjevarane reserverer alle andre rettar til Tenestene. Desse vilkåra er ikkje berekna for å avgrense rettane som er gjevne under open kjeldekode-lisensane som gjeld for &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Tenestene er tilbydde &quot;som-dei-er.&quot; &vendorShortName;, bidragsytarane, lisensgjevarane og distributørane gjev ingen garantiar, verken eksplisitt eller implisitt, inkludert utan avgrensingar, garantiar for at Tenestene skal passe til dine føremål. Du har den fulle og heile risikoen for å velje Tenestene for å oppnå dine føremål, samt for kvaliteten og ytinga til Tenstene. Nokre jurisdiksjonar tillèt ikkje at implisitte garantiar vert ekskluderte, så dettee dementiet gjeld kanskje ikkje deg.">
 <!ENTITY rights.webservices-term5 "Med unntak av der det er påkravd av lova, &vendorShortName;, dess bidragsytarar, lisensgjevarar og distributørar er ikkje ansvarlege for nokon indirekte, spesiell, tilfeldig, følgjeleg, strafferettsleg eller mønstergyldige skadar eller ulemper som skjer som ei følgje av eller relatert til bruk av &brandShortName; og Tenestene. Det kollektive ansvaret i desse vilkåra vil ikkje overstige $500 (fem hundre amerikanske dollar). Nokre jurisdiksjonar tillèt ikkje eksklusjon eller avgrensing av enkelte former av skade, så det er mogleg desse eksklusjonane og avgrensingane ikkje gjeld deg.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; kan oppdatere desse vilkåra etter behov med jamne mellomrom. Vilkåra kan ikkje verte endra eller annullerte utan skriftleg avtale frå &vendorShortName;.">
