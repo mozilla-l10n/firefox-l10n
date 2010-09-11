@@ -141,9 +141,15 @@
 <!ENTITY addon.details.label                  "Mer">
 <!ENTITY addon.details.tooltip                "Visar fler detaljer om det här tillägget">
 <!ENTITY addon.unknownDate                    "Okänt">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(inaktiverat)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
-<!ENTITY addon.update.postfix                 "uppdatering">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "(uppdatering)">
 <!ENTITY addon.undoAction.label               "Ångra">
 <!ENTITY addon.undoAction.tooltip             "Ångra denna åtgärd">
 <!ENTITY addon.undoRemove.label               "Ångra">
