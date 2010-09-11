@@ -116,7 +116,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Betyg:">
+<!ENTITY rating2.label                        "Betyg">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Paus">
