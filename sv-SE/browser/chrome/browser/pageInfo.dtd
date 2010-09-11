@@ -100,6 +100,10 @@
 <!ENTITY  permInstall           "Installera tillägg eller teman">
 <!ENTITY  permGeo               "Uppge position">
 
+<!ENTITY  permIndexedDB              "Lagra för nedkopplat läge">
+<!ENTITY  permClearStorage           "Rensa lagring">
+<!ENTITY  permClearStorage.accesskey "R">
+
 <!ENTITY  securityTab           "Säkerhet">
 <!ENTITY  securityTab.accesskey "ä">
 <!ENTITY  securityHeader        "Säkerhetsinformation för den här sidan">
