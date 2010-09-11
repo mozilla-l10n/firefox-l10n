@@ -6,6 +6,8 @@
 <!ENTITY background.accesskey "х">
 <!ENTITY warnOnClose.label "Предупреждать при закрытии окна с несколькими вкладками">
 <!ENTITY warnOnClose.accesskey "д">
+<!ENTITY relatedAfterCurrent.label "Открывать связанные вкладки после текущей вкладки">
+<!ENTITY relatedAfterCurrent.accesskey "в">
 <!ENTITY loadGroup.label "При открытии группы закладок">
 <!ENTITY loadGroupAppend.label "Открывать новые вкладки">
 <!ENTITY loadGroupAppend.accesskey "ы">

@@ -41,6 +41,8 @@
 <!ENTITY updates.restart.label "Перезапустить для завершения установки">
 <!ENTITY updates.noneFound.label "Обновлений не найдено">
 <!ENTITY updates.manualUpdatesFound.label "Показать доступные обновления">
+<!ENTITY updates.updateSelected.label "Установить обновления">
+<!ENTITY updates.updateSelected.tooltip "Установить доступные обновления из этого списка">
 <!ENTITY cmd.showDetails.label "Подробнее">
 <!ENTITY cmd.showDetails.accesskey "д">
 <!ENTITY cmd.findUpdates.label "Найти обновления">
@@ -97,7 +99,7 @@
 <!ENTITY detail.showPreferencesUnix.label "Настройки">
 <!ENTITY detail.showPreferencesUnix.accesskey "с">
 <!ENTITY detail.showPreferencesUnix.tooltip "Изменить настройки этого дополнения">
-<!ENTITY rating.label "Рейтинг:">
+<!ENTITY rating2.label "Рейтинг">
 <!ENTITY progress.pause.tooltip "Приостановить">
 <!ENTITY progress.cancel.tooltip "Отмена">
 <!ENTITY sort.name.label "Имя">
@@ -126,6 +128,8 @@
 <!ENTITY addon.install.tooltip "Установить это дополнение">
 <!ENTITY addon.updateNow.label "Обновить сейчас">
 <!ENTITY addon.updateNow.tooltip "Установить обновление для этого дополнения">
+<!ENTITY addon.includeUpdate.label "Включить обновление">
+<!ENTITY addon.updateAvailable.label "Доступно обновление">
 <!ENTITY addon.checkingForUpdates.label "Проверка наличия обновлений…">
 <!ENTITY addon.releaseNotes.label "Примечания к выпуску:">
 <!ENTITY addon.loadingReleaseNotes.label "Загрузка…">
