@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label             "Konto haldamine">
 <!ENTITY manageAccount.accesskey         "K">
 <!ENTITY changePassword.label            "Muuda parooli">
-<!ENTITY changePassphrase.label          "Muuda salajast võtit">
+<!ENTITY mySyncKey.label                 "Synci võti">
 <!ENTITY resetSync.label                 "Lähtesta Sync">
 <!ENTITY differentAccount.label          "Kasuta teist kontot">
 
@@ -23,21 +23,19 @@
 <!ENTITY syncPrefsCaption.label          "Brauseri sünkroniseerimine">
 <!ENTITY syncComputerName.label          "Arvuti nimi:">
 <!ENTITY syncComputerName.accesskey      "r">
-<!ENTITY syncModeSwitchDesc.label        "&brandShortName;: ">
-<!ENTITY syncModeSwitchDesc.accesskey    "F">
-<!ENTITY syncEverything.label            "sünkroniseerib kõik">
-<!ENTITY customSync.label                "kasutab kohandatud sätteid">
-<!ENTITY syncEverythingDescription.label "Sünkroniseeritakse järjehoidjad, ajalugu, paroolid, eelistused ja kaardid.">
-<!ENTITY syncItem.bookmarks.label        "sünkroniseeritakse järjehoidjad">
-<!ENTITY syncItem.bookmarks.accesskey    "j">
-<!ENTITY syncItem.tabs.label             "sünkroniseeritakse kaardid">
-<!ENTITY syncItem.tabs.accesskey         "k">
-<!ENTITY syncItem.history.label          "sünkroniseeritakse ajalugu">
-<!ENTITY syncItem.history.accesskey      "a">
-<!ENTITY syncItem.passwords.label        "sünkroniseeritakse paroolid">
-<!ENTITY syncItem.passwords.accesskey    "p">
-<!ENTITY syncItem.prefs.label            "sünkroniseeritakse eelistused">
-<!ENTITY syncItem.prefs.accesskey        "e">
+
+<!ENTITY syncMy.label                    "Sünkroniseeritakse">
+<!ENTITY engine.bookmarks.label          "järjehoidjad">
+<!ENTITY engine.bookmarks.accesskey      "j">
+<!ENTITY engine.tabs.label               "kaardid">
+<!ENTITY engine.tabs.accesskey           "r">
+<!ENTITY engine.history.label            "ajalugu">
+<!ENTITY engine.history.accesskey        "a">
+<!ENTITY engine.passwords.label          "paroolid">
+<!ENTITY engine.passwords.accesskey      "p">
+<!ENTITY engine.prefs.label              "eelistused">
+<!ENTITY engine.prefs.accesskey          "e">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label             "Teenuse tingimused">
