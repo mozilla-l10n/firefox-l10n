@@ -296,6 +296,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Nyligen stängda flikar">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nyligen stängda fönster">
+<!ENTITY historyRestoreLastSession.label "Återställ föregående session">
 
 <!ENTITY historyHomeCmd.label "Startsidan">
 <!ENTITY showAllHistoryCmd2.label "Visa all historik">
