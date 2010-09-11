@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label          "Hantera konto">
 <!ENTITY manageAccount.accesskey      "k">
 <!ENTITY changePassword.label         "Byt lösenord">
-<!ENTITY changePassphrase.label       "Byt hemlig fras">
+<!ENTITY mySyncKey.label              "Min Sync-nyckel">
 <!ENTITY resetSync.label              "Återställ Sync">
 <!ENTITY differentAccount.label       "Använd ett annat konto">
 
@@ -23,21 +23,19 @@
 <!ENTITY syncPrefsCaption.label       "Webbläsarsynkning">
 <!ENTITY syncComputerName.label       "Datorns namn:">
 <!ENTITY syncComputerName.accesskey   "D">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; kommer att: ">
-<!ENTITY syncModeSwitchDesc.accesskey "F">
-<!ENTITY syncEverything.label         "Synka allt">
-<!ENTITY customSync.label             "Använda anpassade inställningar">
-<!ENTITY syncEverythingDescription.label  "Dina bokmärken, historik, lösenord, inställningar och flikar kommer att synkas.">
-<!ENTITY syncItem.bookmarks.label     "Synka bokmärken">
-<!ENTITY syncItem.bookmarks.accesskey "b">
-<!ENTITY syncItem.tabs.label          "Synka flikar">
-<!ENTITY syncItem.tabs.accesskey      "a">
-<!ENTITY syncItem.history.label       "Synka historiken">
-<!ENTITY syncItem.history.accesskey   "o">
-<!ENTITY syncItem.passwords.label     "Synka lösenord">
-<!ENTITY syncItem.passwords.accesskey "ö">
-<!ENTITY syncItem.prefs.label         "Synka inställningar">
-<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!ENTITY syncMy.label               "Synka">
+<!ENTITY engine.bookmarks.label     "Bokmärken">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "Flikar">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Historiken">
+<!ENTITY engine.history.accesskey   "o">
+<!ENTITY engine.passwords.label     "Lösenord">
+<!ENTITY engine.passwords.accesskey "L">
+<!ENTITY engine.prefs.label         "Inställningar">
+<!ENTITY engine.prefs.accesskey     "n">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjänstevillkor">

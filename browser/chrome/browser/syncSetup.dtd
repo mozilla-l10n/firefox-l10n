@@ -2,12 +2,16 @@
 
 <!-- First page of the wizard -->
 
+<!ENTITY setup.pickSetupType.description "Välkommen. Har du aldrig använt &syncBrand.fullName.label; förut kommer du att behöva skapa ett nytt konto.">
+<!ENTITY button.createNewAccount.label "Skapa ett nytt konto">
+<!ENTITY button.haveAccount.label "Jag har ett &syncBrand.fullName.label;-konto">
+
 <!ENTITY setup.choicePage.title.label     "Har du använt &syncBrand.fullName.label; förut?">
 <!ENTITY setup.choicePage.new.label       "Jag har aldrig använt &syncBrand.shortName.label; förut">
 <!ENTITY setup.choicePage.existing.label  "Jag använder redan &syncBrand.shortName.label; på en annan dator">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Anslut till">
+<!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-servern">
 <!ENTITY serverType.custom.label    "Använd en egen server">
 <!ENTITY signIn.username.label      "Användarnamn">
@@ -18,7 +22,7 @@
 <!ENTITY signIn.serverURL.accesskey "U">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "Skapa ett &syncBrand.shortName.label;-konto">
+<!ENTITY setup.newAccountDetailsPage.title.label "Kontodetaljer">
 <!ENTITY setup.confirmPassword.label  "Bekräfta lösenord">
 <!ENTITY setup.confirmPassword.accesskey  "k">
 <!ENTITY setup.emailAddress.label     "E-postadress">
@@ -33,60 +37,64 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label       "Ange en hemlig fras">
-<!ENTITY passphraseDesc.label         "Ange din hemliga fras. Den kommer att användas för att kryptera all din data så att endast du får tillgång till den. Frasen kommer inte att lagras på servern, så glöm inte bort den!">
-<!ENTITY passphraseDesc2.label        "Den måste bestå av minst 12 tecken och får inte vara samma som ditt kontolösenord.">
-<!ENTITY passphraseEntry.label        "Hemlig fras">
-<!ENTITY passphraseEntry.accesskey    "H">
-<!ENTITY passphraseConfirm.label      "Bekräfta">
-<!ENTITY passphraseConfirm.accesskey  "k">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; bryr sig om din personliga integritet">
+<!ENTITY setup.newSyncKeyPage.description.label "För att skydda din personliga integritet kommer all data att krypteras innan den skickas till servern. Sync-nyckeln som du använder för att dekryptera datan kommer inte skickas.">
+<!ENTITY syncKeyEntry.label        "Din Sync-nyckel">
+<!ENTITY syncKeyEntry.accesskey    "D">
+<!ENTITY syncKeyGenerate.label     "Generera">
+<!ENTITY syncKeyBackup.description "Din Sync-nyckel behövs för att använda &syncBrand.fullName.label; på din andra enheter. Du bör skapa en säkerhetskopia av nyckeln. Vi kan inte hjälpa dig att återskapa en borttappad Sync-nyckel.">
 
-<!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Synkinställningar för webbläsaren">
-<!ENTITY syncComputerName.label       "Datorns namn:">
-<!ENTITY syncComputerName.accesskey   "D">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; kommer att: ">
-<!ENTITY syncModeSwitchDesc.accesskey "k">
-<!ENTITY syncEverything.label         "Synka allt">
-<!ENTITY customSync.label             "Använda anpassade inställningar">
-<!ENTITY syncEverythingDescription.label  "Dina bokmärken, historik, lösenord, inställningar och flikar kommer att synkas.">
-<!ENTITY syncItem.bookmarks.label     "Synka bokmärken">
-<!ENTITY syncItem.bookmarks.accesskey "o">
-<!ENTITY syncItem.tabs.label          "Synka flikar">
-<!ENTITY syncItem.tabs.accesskey      "a">
-<!ENTITY syncItem.history.label       "Synka historiken">
-<!ENTITY syncItem.history.accesskey   "h">
-<!ENTITY syncItem.passwords.label     "Synka lösenord">
-<!ENTITY syncItem.passwords.accesskey "ö">
-<!ENTITY syncItem.prefs.label         "Synka inställningar">
-<!ENTITY syncItem.prefs.accesskey     "S">
+<!ENTITY button.syncKeyBackup.email.label     "E-post…">
+<!ENTITY button.syncKeyBackup.email.accesskey "E">
+<!ENTITY button.syncKeyBackup.print.label     "Skriv ut…">
+<!ENTITY button.syncKeyBackup.print.accesskey "u">
+<!ENTITY button.syncKeyBackup.save.label      "Spara…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label     "Bekräfta att du inte är en robot ;)">
+<!ENTITY page.syncKeyBackup.title     "Din Firefox Sync-nyckel">
+<!ENTITY page.syncKeyBackup.descr     "Den här hemliga nyckeln används för att kryptera din personliga data. Nyckeln skickas inte till servern och kan inte återskapas. Tappa inte bort den eller dela med dig av den till andra.">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Bekräfta att du inte är en robot">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Ange kontoinformation">
 <!ENTITY resetPassword.label          "Återställ lösenordet">
 <!ENTITY connecting.label             "Ansluter…">
 
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label     "Ange den hemliga frasen">
-<!ENTITY passphraseDesc3.label        "Skriv in din hemliga fras. Det måste vara samma fras som den du använde då du krypterade din data.">
-<!ENTITY passphraseHelp.label         "Den hemliga frasen består av minst 12 tecken och är inte samma som ditt lösenord. Du hittar din sparade hemliga fras genom att gå till din andra dator och söka bland de sparade lösenorden under Säkerhet. Om du ändå inte hittar den rätta hemliga frasen kan du välja att återställa den, men du kommer då att tappa all data som finns lagrad på servern.">
-<!ENTITY changePassphrase.label       "Byt hemlig fras">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Ange din Sync-nyckel">
+<!ENTITY setup.existingSyncKeyPage.description "Sync-nyckeln skapades för dig eller angavs av dig när du först började använda &syncBrand.fullName.label;. Den är inte samma som ditt lösenord.">
+<!ENTITY existingSyncKeyHelp.description "Du hittar din sparade Sync-nyckel genom att gå till din andra dator och söka bland de sparade lösenorden under Säkerhet. Om du ändå inte hittar den rätta Sync-nyckeln kan du välja att skapa en ny, men du kommer då att tappa all data som finns lagrad på servern.">
+<!ENTITY lostSyncKey.label            "Jag har tappat min Sync-nyckel">
 <!ENTITY verifying.label              "Verifierar…">
 
-<!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "Hur vill du börja?">
-<!ENTITY choice.merge.main.label      "Samordna datorns data med data från &syncBrand.shortName.label;">
-<!ENTITY choice.merge.recommend.label "Det här alternativet rekommenderas av Mozilla för alla användare.">
-<!ENTITY choice.client.main.label     "Ersätt all &brandShortName;-data på den här datorn med data från &syncBrand.fullName.label;">
-<!ENTITY choice.server.main.label     "Använd den lokala datan på alla andra enheter">
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Synkinställningar">
+<!ENTITY syncComputerName.label       "Datorns namn:">
+<!ENTITY syncComputerName.accesskey   "D">
 
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label        "Bekräfta ditt val">
-<!ENTITY confirm.merge.label          "Du har valt att samordna din data på den här datorn med data från dina andra enheter som använder &syncBrand.fullName.label;.">
+<!ENTITY syncMy.label               "Synka">
+<!ENTITY engine.bookmarks.label     "Bokmärken">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "Flikar">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Historiken">
+<!ENTITY engine.history.accesskey   "o">
+<!ENTITY engine.passwords.label     "Lösenord">
+<!ENTITY engine.passwords.accesskey "L">
+<!ENTITY engine.prefs.label         "Inställningar">
+<!ENTITY engine.prefs.accesskey     "n">
+
+<!ENTITY choice2.merge.main.label      "Samordna datorns data med min &syncBrand.shortName.label;-data">
+<!ENTITY choice2.merge.recommended.label "Rekommenderas:">
+<!ENTITY choice2.client.main.label     "Ersätt all &brandShortName;-data på den här datorn med min &syncBrand.shortName.label;-data">
+<!ENTITY choice2.server.main.label     "Använd data från den här datorn på alla andra enheter">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Bekräfta">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; kommer nu att lägga till webbläsningsdata från den här datorn till ditt Sync-konto.">
 <!ENTITY confirm.client.label         "All &brandShortName;-data på den här datorn kommer att tas bort, inklusive följande:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; kommer sedan att kopiera data från &syncBrand.fullName.label; till datorn.">
 <!ENTITY confirm.client.warning.label "VARNING: Detta kommer att ersätta all &brandShortName;-data på den här datorn!">
@@ -94,5 +102,6 @@
 <!ENTITY confirm.server.warning.label "VARNING: Din lokala data kommer att ersätta all &brandShortName;-data på dessa enheter!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "Inställningarna är gjorda!">
-<!ENTITY setup.successPage.desc.label    "Gratulerar! &brandShortName; kommer nu att automatiskt synka din information. Glöm inte att installera &syncBrand.fullName.label; på alla dina enheter. Du kan nu fortsätta att använda &brandShortName;.">
+<!ENTITY setup.successPage.title "Inställningarna är gjorda">
+<!ENTITY changeOptions.label "Du kan ändra den här inställningen genom att välja bland nedanstående synkinställningar.">
+<!ENTITY continueUsing.label "Du kan nu fortsätta att använda &brandShortName;.">
