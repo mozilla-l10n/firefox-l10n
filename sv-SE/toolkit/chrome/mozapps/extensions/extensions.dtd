@@ -48,6 +48,8 @@
 <!ENTITY updates.restart.label                "Starta om nu för att slutföra installationen">
 <!ENTITY updates.noneFound.label              "Inga uppdateringar hittades">
 <!ENTITY updates.manualUpdatesFound.label     "Se tillgängliga uppdateringar">
+<!ENTITY updates.updateSelected.label         "Installera uppdateringar">
+<!ENTITY updates.updateSelected.tooltip       "Installerar tillgängliga uppdateringar från listan">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Visa mer information">
@@ -159,6 +161,8 @@
 <!ENTITY addon.install.tooltip                "Installerar detta tillägg">
 <!ENTITY addon.updateNow.label                "Uppdatera nu">
 <!ENTITY addon.updateNow.tooltip              "Installerar uppdateringen för det här tillägget">
+<!ENTITY addon.includeUpdate.label            "Inkludera i uppdatering">
+<!ENTITY addon.updateAvailable.label          "En uppdatering är tillgänglig">
 <!ENTITY addon.checkingForUpdates.label       "Söker efter uppdateringar…">
 <!ENTITY addon.releaseNotes.label             "Versionsfakta:">
 <!ENTITY addon.loadingReleaseNotes.label      "Hämtar…">
