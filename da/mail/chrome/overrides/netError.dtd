@@ -159,7 +159,7 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>Du bør ikke tilføje en undtagelse, hvis du ikke bruger en internetforbindelse du stoler fuldt og fast på, eller hvis du ikke er vant til at se advarsler fra denne server.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
