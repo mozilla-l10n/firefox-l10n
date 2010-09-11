@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Informasjon om personvernerklæring for dette produktet bør være henvist her.">
+<!ENTITY rights.intro-point3-unbranded "Eventuelle personvernbestemmelser for dette produktet bør listes her.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "Noen &brandShortName;-funksjoner bruker vevbaserte informasjonstjenester, men vi kan ikke garantere at de er 100 &#37; nøyaktige eller feilfrie. Mer informasjon, også om hvordan tjenestene som bruker disse funksjonene kan slås av, kan du finne i ">
@@ -40,9 +40,6 @@
 <!ENTITY rights.intro-point4a-unbranded "Dersom dette produktet omfatter informasjonstjenester, så bør tjenestevilkår for tjenestene lenkes opp i  ">
 <!ENTITY rights.intro-point4b-unbranded "Informasjonstjenester">
 <!ENTITY rights.intro-point4c-unbranded "-seksjonen.">
-
-<!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Eventuelle personvernbestemmelser for dette produktet bør listes her.">
 
 <!ENTITY rights2.webservices-header "&brandFullName; vevbaserte informasjonstjenester">
 
