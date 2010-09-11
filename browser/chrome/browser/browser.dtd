@@ -265,6 +265,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Nylig lukkede faner">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nylig lukkede vinduer">
+<!ENTITY historyRestoreLastSession.label "Gjenopprett forrige programøkt">
 
 <!ENTITY historyHomeCmd.label "Hjem">
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
@@ -449,7 +450,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopier">
 <!ENTITY pasteButton.tooltip            "Lim inn">
+
 <!ENTITY fullScreenButton.tooltip       "Vis vinduet i fullskjerm">
+
+<!ENTITY zoomOutButton.tooltip          "Mindre skrift">
+<!ENTITY zoomInButton.tooltip           "Større skrift">
+<!ENTITY zoomControls.label             "Zoom-kontroller">
 
 <!ENTITY quitApplicationCmdWin.label       "Avslutt">
 <!ENTITY quitApplicationCmdWin.accesskey   "t">

@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Installere utvidelser og temaer">
 <!ENTITY  permGeo               "Tillat stedsangivelse">
 
+<!ENTITY  permIndexedDB              "Behandle frakoblet lager">
+<!ENTITY  permClearStorage           "Tøm lager">
+<!ENTITY  permClearStorage.accesskey "T">
+
 <!ENTITY  securityTab           "Sikkerhet">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Sikkerhetsinformasjon for denne siden">
