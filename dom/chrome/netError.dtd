@@ -17,7 +17,7 @@
 <p>Navnîşana ku dixwazî vekî portekê destnîşan kir (e.g. <q>mozilla.org:80</q> port 80 li ser mozilla.org) ji
  armancên <em>din</em> pirtir ji bo gerîna di webê de hatiye bikaranîn. Ji bo ewlekariya te gerok hat betalkirin.</p>">
 
-<!ENTITY dnsNotFound.title "Navnîşan Nayê Dîtin">
+<!ENTITY dnsNotFound.title "Navnîşan nayê dîtin">
 <!ENTITY dnsNotFound.longDesc "
 <p>Gerokê ji bo navnîşanê pêşkêşkara hostê nedît.</p>
 <ul>
