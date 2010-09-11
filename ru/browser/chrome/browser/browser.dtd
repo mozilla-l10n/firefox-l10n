@@ -11,9 +11,9 @@
 <!ENTITY openTabInNewWindow.label "Открыть в новом окне">
 <!ENTITY openTabInNewWindow.accesskey "т">
 <!ENTITY pinAppTab.label "Прикрепить как вкладку приложения">
-<!ENTITY pinAppTab.accesskey "к">
+<!ENTITY pinAppTab.accesskey "е">
 <!ENTITY unpinAppTab.label "Открепить вкладку">
-<!ENTITY unpinAppTab.accesskey "т">
+<!ENTITY unpinAppTab.accesskey "п">
 <!ENTITY moveToGroup.label "Переместить в группу">
 <!ENTITY moveToGroup.accesskey "м">
 <!ENTITY moveToNewGroup.label "Новая группа">
@@ -216,7 +216,7 @@
 <!ENTITY historyHomeCmd.label "Домашняя страница">
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY appMenuEdit.label "Изменить">
+<!ENTITY appMenuEdit.label "Правка">
 <!ENTITY appMenuCustomize.label "Изменить">
 <!ENTITY appMenuToolbarLayout.label "Панель инструментов…">
 <!ENTITY appMenuSidebars.label "Боковые панели">
