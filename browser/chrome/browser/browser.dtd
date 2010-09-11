@@ -10,10 +10,10 @@
 <!ENTITY closeOtherTabs.accesskey "д">
 <!ENTITY openTabInNewWindow.label "Открыть в новом окне">
 <!ENTITY openTabInNewWindow.accesskey "т">
-<!ENTITY pinTab.label "Сделать вкладкой приложения">
-<!ENTITY pinTab.accesskey "п">
-<!ENTITY unpinTab.label "Сделать обычной вкладкой">
-<!ENTITY unpinTab.accesskey "о">
+<!ENTITY pinAppTab.label "Прикрепить как вкладку приложения">
+<!ENTITY pinAppTab.accesskey "к">
+<!ENTITY unpinAppTab.label "Открепить вкладку">
+<!ENTITY unpinAppTab.accesskey "т">
 <!ENTITY moveToGroup.label "Переместить в группу">
 <!ENTITY moveToGroup.accesskey "м">
 <!ENTITY moveToNewGroup.label "Новая группа">
@@ -212,9 +212,11 @@
 <!ENTITY historyMenu.accesskey "Ж">
 <!ENTITY historyUndoMenu.label "Недавно закрытые вкладки">
 <!ENTITY historyUndoWindowMenu.label "Недавно закрытые окна">
+<!ENTITY historyRestoreLastSession.label "Восстановить предыдущую сессию">
 <!ENTITY historyHomeCmd.label "Домашняя страница">
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY appMenuEdit.label "Изменить">
 <!ENTITY appMenuCustomize.label "Изменить">
 <!ENTITY appMenuToolbarLayout.label "Панель инструментов…">
 <!ENTITY appMenuSidebars.label "Боковые панели">
@@ -351,6 +353,9 @@
 <!ENTITY copyButton.tooltip "Копировать">
 <!ENTITY pasteButton.tooltip "Вставить">
 <!ENTITY fullScreenButton.tooltip "Раскрывает окно на полный экран">
+<!ENTITY zoomOutButton.tooltip "Уменьшить">
+<!ENTITY zoomInButton.tooltip "Увеличить">
+<!ENTITY zoomControls.label "Управление масштабом">
 <!ENTITY quitApplicationCmdWin.label "Выход">
 <!ENTITY quitApplicationCmdWin.accesskey "х">
 <!ENTITY goBackCmd.commandKey "[">
