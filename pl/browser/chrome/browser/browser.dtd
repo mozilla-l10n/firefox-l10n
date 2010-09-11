@@ -273,6 +273,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Ostatnio zamknięte karty">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ostatnio zamknięte okna">
+<!ENTITY historyRestoreLastSession.label "Przywróć poprzednią sesję">
 
 <!ENTITY historyHomeCmd.label "Strona startowa">
 <!ENTITY showAllHistoryCmd2.label "Wyświetl całą historię">
