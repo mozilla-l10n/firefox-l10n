@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Pêvek an jî Dirban Saz Bike">
 <!ENTITY  permGeo               "Cih parve bike">
 
+<!ENTITY  permIndexedDB              "Maintain Offline Storage">
+<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permClearStorage.accesskey "C">
+
 <!ENTITY  securityTab           "Ewlekarî">
 <!ENTITY  securityTab.accesskey "E">
 <!ENTITY  securityHeader        "Agahiyên ewlekariyê yên rûpelê">

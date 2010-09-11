@@ -51,6 +51,7 @@
 <!ENTITY useCacheAfter.label             "MB'î ji bo pêşbîrê bi kar bîne">
 <!ENTITY clearCacheNow.label             "Niha Paqij Bike">
 <!ENTITY clearCacheNow.accesskey         "N">
+<!ENTITY smartSizeCache.label            "Let &brandShortName; manage the size of my cache.">
 
 <!ENTITY updateTab.label                 "Rojane Bike">
 

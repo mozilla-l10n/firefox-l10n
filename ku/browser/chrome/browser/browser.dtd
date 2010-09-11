@@ -20,10 +20,16 @@
 <!ENTITY  closeOtherTabs.accesskey           "d">
 <!ENTITY  openTabInNewWindow.label           "Di paceyeke nû de veke">
 <!ENTITY  openTabInNewWindow.accesskey       "p">
-<!ENTITY  pinTab.label                       "Bixe Hilpekîna Sepanan">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Bixe Hilpekîna Asayî">
-<!ENTITY  unpinTab.accesskey                 "k">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Pin as App Tab">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "Unpin Tab">
+<!ENTITY  unpinAppTab.accesskey              "b">
 <!ENTITY  moveToGroup.label                  "Biguhêze komê">
 <!ENTITY  moveToGroup.accesskey              "m">
 <!ENTITY  moveToNewGroup.label               "Koma nû">
@@ -185,8 +191,8 @@
 <!ENTITY inspectButton.accesskey      "V">
 <!ENTITY inspectNextButton.label      "Pêş">
 <!ENTITY inspectNextButton.accesskey  "P">
-<!ENTITY inspectPreviousButton.label  "Paş">
-<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectPreviousButton.label  "Paşve">
+<!ENTITY inspectPreviousButton.accesskey "a">
 <!ENTITY inspectStyleButton.label     "Teşe">
 <!ENTITY inspectStyleButton.accesskey "T">
 <!ENTITY inspectStylePanelTitle.label  "Teşe">
@@ -259,11 +265,13 @@
 <!ENTITY historyUndoMenu.label "Hilpekînên Di Dîroka Dawî De Hatine Girtin">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Paceyên Di Nêz De hatine Girtin">
+<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
 
 <!ENTITY historyHomeCmd.label "Serûpel">
 <!ENTITY showAllHistoryCmd2.label "Hemû Dîrokê Nîşan Bide">
 <!ENTITY showAllHistoryCmd.commandkey "A">
 
+<!ENTITY appMenuEdit.label "Edit">
 <!ENTITY appMenuCustomize.label "Takekes bike">
 <!ENTITY appMenuToolbarLayout.label "Bicîbûna Darikê Amûran…">
 <!ENTITY appMenuSidebars.label "Darikên kêlekê">

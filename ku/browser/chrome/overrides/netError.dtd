@@ -12,7 +12,7 @@
 <!ENTITY deniedPortAccess.title "Portê Ji Ber Sedemên Ewlekariyê Asteng Kir">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Çewtî! Navnîşan Nayê Dîtin">
+<!ENTITY dnsNotFound.title "Pêşkêşkar nehate dîtin">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Ji ber gumana çewtiyan navnîşanê kontrol bike. Dibe ku te
@@ -126,9 +126,8 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<!ENTITY securityOverride.warningContent "<p>Eger girêdana te ya înternetê ne ewle ye an û bi temamî baweriya te pê tune ye, an jî eger ji vê pêşkêşkarê hişyariyan nabînî divê zêdekariyê nediyê.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+ ">

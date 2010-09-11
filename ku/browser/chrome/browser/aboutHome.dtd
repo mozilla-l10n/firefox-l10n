@@ -4,17 +4,14 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
-<!ENTITY abouthome.brandLogo.title "&brandFullName; logo">
+<!ENTITY abouthome.pageTitle "Rûpela destpêka &brandFullName;">
 
 <!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
-
-<!ENTITY abouthome.searchEngineLogo.title "Search engine logo">
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Destpêk">
 
 <!ENTITY abouthome.searchEngineButton.label "Search">
 
 <!ENTITY abouthome.searchEngineLinks.advanced "Advanced Search">
 <!ENTITY abouthome.searchEngineLinks.preferences "Preferences">
 
-<!ENTITY abouthome.aboutMozilla "About Mozilla">
+<!ENTITY abouthome.aboutMozilla "Der barê Mozillayê de">

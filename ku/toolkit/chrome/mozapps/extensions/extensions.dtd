@@ -7,11 +7,20 @@
 <!ENTITY listEmpty.findUpdates.label          "Ji bo Rojanekirinan Kontrol Bike">
 <!ENTITY listEmpty.search.label               "Tu add-oneke ku li vê tê nehat dîtin">
 <!ENTITY listEmpty.button.label               "Derbarê add-onan de zêdetir agahiyan bistîne">
-<!ENTITY installFromFile.label                "Install From File…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installFromFile.label                "Ji pelî saz bike…">
+<!ENTITY installFromFile.accesskey            "i">
 
 <!ENTITY cmd.back.tooltip                     "Go back one page">
 <!ENTITY cmd.forward.tooltip                  "Go forward one page">
+
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label   "Enable">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label       "Enable">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Lêgerîn">
@@ -39,10 +48,12 @@
 <!ENTITY updates.restart.label                "Ji bo bidawîkirina sazkirinê, niha ji nû ve bide destpêkirin">
 <!ENTITY updates.noneFound.label              "Tu rojanekirin nehat dîtin">
 <!ENTITY updates.manualUpdatesFound.label     "Rojanekirinên Amade Nîşan Bide">
+<!ENTITY updates.updateSelected.label         "Install Updates">
+<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Show More Information">
-<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.showDetails.label                "Zêdetir agahî nîşan bide">
+<!ENTITY cmd.showDetails.accesskey            "Z">
 <!ENTITY cmd.findUpdates.label                "Find Updates">
 <!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "Options">
@@ -56,6 +67,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "a">
 <!ENTITY cmd.disableAddon.label               "Neçalak">
 <!ENTITY cmd.disableAddon.accesskey           "N">
+<!ENTITY cmd.enableTheme.label                "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.installAddon.label               "Install">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Rake">
@@ -91,19 +106,19 @@
 <!ENTITY detail.repository                    "Add-on Profile">
 <!ENTITY detail.size                          "Size">
 
-<!ENTITY detail.checkForUpdates.label         "Ji bo rojanekirinan kontrol bike">
-<!ENTITY detail.checkForUpdates.accesskey     "J">
+<!ENTITY detail.checkForUpdates.label         "Check for Updates">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "Ji bo vê add-onê rojanekirinan kontrol bike">
 <!ENTITY detail.showPreferencesWin.label      "Options">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's Options">
+<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
 <!ENTITY detail.showPreferencesUnix.label     "Preferences">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Change this add-on's preferences">
 
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Dengdan:">
+<!ENTITY rating2.label                        "Rating">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Rawestîne">
@@ -119,17 +134,23 @@
 <!ENTITY sort.relevance.tooltip               "Sort by relevance">
 
 <!ENTITY search.filter2.label                 "Search:">
-<!ENTITY search.filter2.installed.label       "My Add-ons">
-<!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
-<!ENTITY search.filter2.available.label       "Available Add-ons">
-<!ENTITY search.filter2.available.tooltip     "Show add-ons available to install">
+<!ENTITY search.filter2.installed.label       "Add*onên Min">
+<!ENTITY search.filter2.installed.tooltip     "Add-onên sazbûyî nîşan bide">
+<!ENTITY search.filter2.available.label       "Add-onên Heyî">
+<!ENTITY search.filter2.available.tooltip     "Add-onên ji bo sazkirinê amade nîşan bide">
 
 <!ENTITY addon.homepage                       "Serûpel">
 <!ENTITY addon.details.label                  "More">
-<!ENTITY addon.details.tooltip                "Show more details about this add-on">
+<!ENTITY addon.details.tooltip                "Derbarê vê add-onê de zêdetir kitekitan nîşan bide">
 <!ENTITY addon.unknownDate                    "Nenas">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(neçalak e)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix                 "Rojanekirin">
 <!ENTITY addon.undoAction.label               "Undo">
 <!ENTITY addon.undoAction.tooltip             "Undo this action">
@@ -140,6 +161,8 @@
 <!ENTITY addon.install.tooltip                "Vê add-onê saz bike">
 <!ENTITY addon.updateNow.label                "Niha Rojane Bike">
 <!ENTITY addon.updateNow.tooltip              "Rojanekirina vê add-onê saz bike">
+<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.updateAvailable.label          "An update is available">
 <!ENTITY addon.checkingForUpdates.label       "Li rojanekirina digere…">
 <!ENTITY addon.releaseNotes.label             "Têbiniyên Weşanê:">
 <!ENTITY addon.loadingReleaseNotes.label      "Tê barkirin…">
