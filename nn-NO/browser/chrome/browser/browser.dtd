@@ -20,10 +20,16 @@
 <!ENTITY  closeOtherTabs.accesskey           "a">
 <!ENTITY  openTabInNewWindow.label           "Opne i eit nytt vindauge">
 <!ENTITY  openTabInNewWindow.accesskey       "e">
-<!ENTITY  pinTab.label                       "Gjer om til applikasjonsfane">
-<!ENTITY  pinTab.accesskey                   "G">
-<!ENTITY  unpinTab.label                     "Gjer om til vanleg fane">
-<!ENTITY  unpinTab.accesskey                 "G">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Gjer om til applikasjonsfane">
+<!ENTITY  pinAppTab.accesskey                "G">
+<!ENTITY  unpinAppTab.label                  "Gjer om til vanleg fane">
+<!ENTITY  unpinAppTab.accesskey              "G">
 <!ENTITY  moveToGroup.label                  "Flytt til gruppe">
 <!ENTITY  moveToGroup.accesskey              "F">
 <!ENTITY  moveToNewGroup.label               "Ny gruppe">
@@ -259,11 +265,13 @@
 <!ENTITY historyUndoMenu.label "Nyleg attlatne faner">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nyleg attlatne vindauge">
+<!ENTITY historyRestoreLastSession.label "Bygg oppatt førre programøkt">
 
 <!ENTITY historyHomeCmd.label "Heim">
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
+<!ENTITY appMenuEdit.label "Endre">
 <!ENTITY appMenuCustomize.label "Tilpass">
 <!ENTITY appMenuToolbarLayout.label "Verktøylinjeutsjånad …">
 <!ENTITY appMenuSidebars.label "Sidestolpar">
@@ -442,7 +450,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopier">
 <!ENTITY pasteButton.tooltip            "Lim inn">
+
 <!ENTITY fullScreenButton.tooltip       "Vis vindauget i fullskjerm">
+
+<!ENTITY zoomOutButton.tooltip          "Mindre skrift">
+<!ENTITY zoomInButton.tooltip           "Større skrift">
+<!ENTITY zoomControls.label             "Zoom-kontrollar">
 
 <!ENTITY quitApplicationCmdWin.label       "Avslutt"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "t">

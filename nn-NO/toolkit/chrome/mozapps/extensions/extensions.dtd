@@ -48,6 +48,8 @@
 <!ENTITY updates.restart.label                "Start på nytt no for å fullføre installeringa">
 <!ENTITY updates.noneFound.label              "Fann ingen oppdateringar">
 <!ENTITY updates.manualUpdatesFound.label     "Vis tilgjengelege oppdateringar">
+<!ENTITY updates.updateSelected.label         "Installer oppdateringane">
+<!ENTITY updates.updateSelected.tooltip       "Installer tilgjengelege oppdateringar i denne lista">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Vis detaljar">
@@ -116,7 +118,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Vurdering:">
+<!ENTITY rating2.label                        "Vurdering">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pause">
@@ -141,8 +143,14 @@
 <!ENTITY addon.details.label                  "Meir">
 <!ENTITY addon.details.tooltip                "Vis meir informasjon om denne utvidinga">
 <!ENTITY addon.unknownDate                    "Ukjent">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(slått av)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix                 "Oppdatering">
 <!ENTITY addon.undoAction.label               "Angre">
 <!ENTITY addon.undoAction.tooltip             "Angre denne handlinga">
@@ -153,6 +161,8 @@
 <!ENTITY addon.install.tooltip                "Installer denne utvidinga">
 <!ENTITY addon.updateNow.label                "Oppdater no">
 <!ENTITY addon.updateNow.tooltip              "Installer oppdateringa for denne utvidinga">
+<!ENTITY addon.includeUpdate.label            "Inkluder i oppdateringa">
+<!ENTITY addon.updateAvailable.label          "Ei oppdatering er tilgjengeleg">
 <!ENTITY addon.checkingForUpdates.label       "Ser etter oppdateringer …">
 <!ENTITY addon.releaseNotes.label             "Versjonsnotat:">
 <!ENTITY addon.loadingReleaseNotes.label      "Lastar …">
