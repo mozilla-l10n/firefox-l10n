@@ -271,6 +271,7 @@
 <!ENTITY showAllHistoryCmd2.label "Wyświetl całą historię">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Edycja">
 <!ENTITY appMenuCustomize.label "Dostosuj">
 <!ENTITY appMenuToolbarLayout.label "Układ paska narzędzi…">
 <!ENTITY appMenuSidebars.label "Panele boczne">
