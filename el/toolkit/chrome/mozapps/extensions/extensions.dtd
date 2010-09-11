@@ -127,8 +127,6 @@
 
 
 
-<!-- ratings -->
-<!ENTITY rating.label                         "Αξιολόγηση:">
 
 <!ENTITY addon.details.label                  "Περισσότερα">
 <!ENTITY addon.details.tooltip                "Προβολή περισσότερων πληροφοριών για αυτό το πρόσθετο">
@@ -187,5 +185,30 @@
 <!ENTITY detail.updateManual.label            "Όχι">
 <!ENTITY detail.updateManual.tooltip          "Να μην γίνεται αυτόματη εγκατάσταση ενημερώσεων">
 <!ENTITY view.appearance2.label               "Εμφάνιση">
+
+<!ENTITY addon.includeUpdate.label            "Να συμπεριλαμβάνεται στην ενημέρωση">
+<!ENTITY addon.updateAvailable.label          "Υπάρχει διαθέσιμη μια ενημέρωση">
+
+<!ENTITY cmd.disableTheme.label               "Απενεργοποίηση θέματος">
+<!ENTITY cmd.disableTheme.accesskey           "π">
+
+<!ENTITY cmd.enableTheme.label                "Ενεργοποίηση θέματος">
+<!ENTITY cmd.enableTheme.accesskey            "ν">
+
+<!-- ratings -->
+<!ENTITY rating2.label                        "Αξιολόγηση">
+
+
+<!ENTITY updates.updateSelected.label         "Εγκατάσταση ενημερώσεων">
+<!ENTITY updates.updateSelected.tooltip       "Εγκατάσταση των διαθέσιμων ενημερώσεων σε αυτή τη λίστα">
+
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Όλα τα πρόσθετα έχουν απενεργοποιηθεί στην ασφαλή λειτουργία.">
+<!ENTITY warning.checkcompatibility.label          "Ο έλεγχος συμβατότητας προσθέτων είναι ανενεργός. Μπορεί να έχετε ασύμβατα πρόσθετα.">
+<!ENTITY warning.checkcompatibility.enable.label   "Ενεργοποίηση">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Ενεργοποίηση ελέγχου συμβατότητας προσθέτων">
+<!ENTITY warning.updatesecurity.label              "Ο έλεγχος ασφαλείας ενημερώσεων  προσθέτων είναι ανενεργός. Μπορεί να κινδυνέψετε.">
+<!ENTITY warning.updatesecurity.enable.label       "Ενεργοποίηση">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Ενεργοποίηση ελέγχου ασφαλείας ενημερώσεων προσθέτων">
 
 
