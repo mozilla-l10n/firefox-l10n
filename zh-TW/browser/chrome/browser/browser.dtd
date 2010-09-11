@@ -20,10 +20,16 @@
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!ENTITY  openTabInNewWindow.label           "用新視窗開啟">
 <!ENTITY  openTabInNewWindow.accesskey       "w">
-<!ENTITY  pinTab.label                       "釘選成應用程式分頁">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "還原成普通分頁">
-<!ENTITY  unpinTab.accesskey                 "k">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "釘選成應用程式分頁">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "還原成普通分頁">
+<!ENTITY  unpinAppTab.accesskey              "b">
 <!ENTITY  moveToGroup.label                  "移動到群組">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "新群組">
@@ -259,11 +265,13 @@
 <!ENTITY historyUndoMenu.label "最近關閉的分頁">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "最近關閉的視窗">
+<!ENTITY historyRestoreLastSession.label "還原先前的瀏覽紀錄">
 
 <!ENTITY historyHomeCmd.label "首頁">
 <!ENTITY showAllHistoryCmd2.label "顯示所有瀏覽記錄">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "編輯">
 <!ENTITY appMenuCustomize.label "自訂">
 <!ENTITY appMenuToolbarLayout.label "工具列配置…">
 <!ENTITY appMenuSidebars.label "側邊欄">
@@ -442,7 +450,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "剪下">
 <!ENTITY copyButton.tooltip             "複製">
 <!ENTITY pasteButton.tooltip            "貼上">
+
 <!ENTITY fullScreenButton.tooltip       "全螢幕顯示視窗">
+
+<!ENTITY zoomOutButton.tooltip          "縮小">
+<!ENTITY zoomInButton.tooltip           "放大">
+<!ENTITY zoomControls.label             "縮放控制">
 
 <!ENTITY quitApplicationCmdWin.label       "結束"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">

@@ -48,6 +48,8 @@
 <!ENTITY updates.restart.label                "立刻重新啟動以完成安裝">
 <!ENTITY updates.noneFound.label              "找不到更新">
 <!ENTITY updates.manualUpdatesFound.label     "檢視可用的更新">
+<!ENTITY updates.updateSelected.label         "安裝更新">
+<!ENTITY updates.updateSelected.tooltip       "安裝此清單中可用的更新">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "顯示更多資訊">
@@ -159,6 +161,8 @@
 <!ENTITY addon.install.tooltip                "安裝此附加元件">
 <!ENTITY addon.updateNow.label                "立即更新">
 <!ENTITY addon.updateNow.tooltip              "安裝此附加元件的更新">
+<!ENTITY addon.includeUpdate.label            "包含於更新當中">
+<!ENTITY addon.updateAvailable.label          "有可用的更新">
 <!ENTITY addon.checkingForUpdates.label       "檢查是否有更新…">
 <!ENTITY addon.releaseNotes.label             "新鮮事:">
 <!ENTITY addon.loadingReleaseNotes.label      "載入中…">
