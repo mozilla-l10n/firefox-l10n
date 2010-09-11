@@ -20,16 +20,19 @@
 <!ENTITY rights.intro-point2-b "här">
 <!ENTITY rights.intro-point2-c ".">
 
+<!-- point 2.5 text for official branded builds -->
+<!ENTITY rights.intro-point2.5 "Vissa funktioner i &brandShortName;, såsom Kraschrapportören, ger dig möjlighet att ge feedback till &vendorShortName;. Genom att skicka in feedback ger du &vendorShortName; tillstånd att använda den för att förbättra sina produkter, publicera denna feedback på sina webbplatser och att distribuera den.">
+
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Sekretesspolicyer för &vendorShortName;s produkter kan du hitta ">
-<!ENTITY rights.intro-point3b "här">
+<!ENTITY rights2.intro-point3a "Hur vi använder dina personliga uppgifter och din feedback som du skickar till &vendorShortName; genom &brandShortName; finns beskrivet i ">
+<!ENTITY rights2.intro-point3b "&brandShortName; sekretesspolicy">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Tillämpliga sekretesspolicyer för denna produkt bör listas här.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; erbjuder också frivilliga webbaserade informationstjänster, såsom Säker surfning; vi kan dock inte garantera att dessa är till 100 &#37; felfria. Fler detaljer, inklusive information om hur du inaktiverar dessa tjänster hittar du i ">
+<!ENTITY rights2.intro-point4a "Vissa funktioner i &brandShortName; använder webbaserade informationstjänster, men vi kan dock inte garantera att dessa är till 100 &#37; felfria. Fler detaljer, med information om hur du inaktiverar de funktioner som använder dessa tjänster hittar du i ">
 <!ENTITY rights.intro-point4b "tjänstevillkoren">
 <!ENTITY rights.intro-point4c ".">
 
@@ -38,16 +41,33 @@
 <!ENTITY rights.intro-point4b-unbranded "webbplatstjänster">
 <!ENTITY rights.intro-point4c-unbranded " .">
 
-<!ENTITY rights.webservices-header "&brandFullName; webbplatstjänster">
+<!ENTITY rights2.webservices-header "&brandFullName; webbaserade informationstjänster">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; använder informationstjänster om webbplatser (”Tjänster”), såsom Säker surfning, som du kan använda i den här binära versionen av &brandShortName; och som beskrivs nedan. Om du inte vill använda Tjänsterna eller om nedanstående villkor är oacceptabla, kan du inaktivera tjänsten Säker surfning genom att öppna Inställningar och välja sektionen ">
-<!ENTITY rights.webservices-b "Säkerhet">
-<!ENTITY rights.webservices-c " och avmarkera alternativen ”&blockAttackSites.label;” och ”&blockWebForgeries.label;”">
+<!ENTITY rights2.webservices-a "&brandFullName; använder webbaserade informationstjänster (”Tjänster”) för vissa funktioner i den här binära versionen av &brandShortName;. Villkoren för dessa beskrivs nedan. Om du inte vill använda en eller flera av dessa Tjänster eller om nedanstående villkor är oacceptabla, kan du inaktivera funktionen eller tjänsten. Instruktioner om hur du inaktiverar en särskild funktion eller tjänst finns ">
+<!ENTITY rights2.webservices-b "här">
+<!ENTITY rights2.webservices-c ".">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Säker surfning: ">
+<!ENTITY rights.safebrowsing-b "Inaktivering av funktionen Säker surfning rekommenderas inte eftersom det kan leda till att du kommer till osäkra webbplatser.  Om du helt vill inaktivera funktionen, följ dessa steg:">
+<!ENTITY rights.safebrowsing-term1 "Öppna programmets inställningar">
+<!ENTITY rights.safebrowsing-term2 "Välj sektionen Säkerhet">
+<!ENTITY rights.safebrowsing-term3 "Avmarkera alternativen ”&blockAttackSites.label;” och ”&blockWebForgeries.label;”">
+<!ENTITY rights.safebrowsing-term4 "Säker surfning är nu inaktiverad">
+
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Positionsberoende surfning: ">
+<!ENTITY rights.locationawarebrowsing-b "kräver alltid ditt medgivande.  Ingen positionsinformation skickas utan ditt tillstånd.  Om du helt vill inaktivera funktionen, följ dessa steg:">
+<!ENTITY rights.locationawarebrowsing-term1a "I Adressfältet, skriv in ">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "Skriv geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Dubbelklicka på inställningen geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "Positionsberoende surfning är nu inaktiverad">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "En översikt av de webbplatstjänster som är integrerade i produkten samt instruktioner om hur man om möjligt kan inaktivera dem bör finnas här.">
@@ -56,9 +76,9 @@
 <!ENTITY rights.webservices-term1-unbranded "Tillämpliga tjänstevillkor för denna produkt bör listas här.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; och dess medarbetare, licensgivare och partners arbetar för att förmedla de mest korrekta och aktuella uppgifterna om nätfiske och skadlig programvara. De kan dock inte garantera att dessa uppgifter är fullständiga och felfria: en del riskabla webbplatser kanske inte är identifierade och andra säkra webbplatser kan felaktigt pekas ut.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; och dess medarbetare, licensgivare och partners arbetar för att förmedla de mest korrekta och aktuella Tjänsterna. Vi kan dock inte garantera att dessa uppgifter är fullständiga och felfria. Till exempel kanske Säker surfning inte identifierar en del riskabla webbplatser medan andra säkra webbplatser felaktigt pekas ut. För Positionsberoende surfning kommer alla positioner som våra tjänsteleverantörer returnerar endast att vara uppskattningar och varken vi eller våra tjänsteleverantörer garanterar precisionen i de förmedlade positionerna.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; förbehåller sig rätten att efter eget gottfinnande upphöra med eller modifiera dessa tjänster.">
-<!ENTITY rights.webservices-term3 "Du är fri att använda dessa Tjänster med den medföljande versionen av &brandShortName;, och du har alla nödvändiga rättigheter för att göra det. &vendorShortName; och dess licensgivare förbehåller sig alla andra rättigheter i Tjänsterna. Dessa villkor är inte avsedda att begränsa några rättigheter givna enligt licenser för öppen källkod som tillämpas på &brandShortName; och motsvarande källkodsversioner av &brandShortName;.">
+<!ENTITY rights2.webservices-term3 "Du är fri att använda dessa Tjänster med den medföljande versionen av &brandShortName;, och &vendorShortName; ger dig rättigheten att göra det. &vendorShortName; och dess licensgivare förbehåller sig alla andra rättigheter i Tjänsterna. Dessa villkor är inte avsedda att begränsa några rättigheter givna enligt licenser för öppen källkod som tillämpas på &brandShortName; och motsvarande källkodsversioner av &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Tjänsterna tillhandahålls i ”befintligt skick”.  &vendorShortName; och dess medarbetare, licensgivare och distributörer, frånsäger sig alla garantier, uttryckliga såväl som underförstådda, inklusive några garantier att Tjänsterna är funktionella och ändamålsenliga för dina syften. Du bär själv hela ansvaret för valet att använda Tjänsterna för dina syften och för kvalitén och prestandan i Tjänsterna. Vissa jurisdiktioner tillåter inte uteslutande eller begränsningar av underförstådda garantier, så denna ansvarsbegränsning är kanske inte tillämplig i ditt fall.">
 <!ENTITY rights.webservices-term5 "Förutom vad som krävs av lagar är &vendorShortName; och dess medarbetare, licensgivare och distributörer inte ansvariga för några indirekta, speciella, tillfälliga, påföljande, straffrättsliga eller preventiva skadestånd till följd av eller i samband med användandet av &brandShortName; och Tjänsterna. Den samlade skadeståndsskyldigheten under dessa villkor överskrider inte $500 (femhundra dollar). Vissa jurisdiktioner tillåter inte uteslutande eller begränsningar av underförstådda garantier, så denna ansvarsbegränsning är kanske inte tillämplig i ditt fall.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; kan vid behov uppdatera dessa villkor. Dessa villkor får inte modifieras eller annulleras utan &vendorShortName;s skriftliga medgivande.">
