@@ -46,5 +46,3 @@
 <!ENTITY  clickFinish.label               "Для продовження запуску &brandShortName; натисніть кнопку Гаразд.">
 <!ENTITY  clickFinish.labelMac            "Для продовження запуску &brandShortName; натисніть кнопку Гаразд.">
 <!ENTITY  enableChecking.label            "Дозволити &brandShortName; перевіряти наявність оновлень.">
-<!ENTITY  details.label                   "Подробиці…">
-<!ENTITY  details.accesskey               "д">

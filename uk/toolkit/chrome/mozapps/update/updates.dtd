@@ -9,7 +9,8 @@
 
 <!ENTITY  noupdatesfound.title            "Оновлення відсутні">
 <!ENTITY  noupdatesautoenabled.intro      "Оновлення відсутні. &brandShortName; буде періодично перевіряти наявніcть оновлень.">
-<!ENTITY  noupdatesautodisabled.intro     "Оновлення відсутні. Будь ласка перевірте ще раз пізніше, або увімкніть автоматичну перевірку оновлень &brandShortName;.">
+<!ENTITY  noupdatesautodisabled.intro     "Оновлення відсутні. Будь ласка перевірте ще раз пізніше, 
+                                           або увімкніть автоматичну перевірку оновлень &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Неможливо оновитись">
 <!ENTITY  manualUpdate.desc               "Наявне рекомендоване оновлення стабільності та безпеки,
@@ -41,18 +42,28 @@
 <!ENTITY  downloadPage.title              "Завантаження &brandShortName;">
 <!ENTITY  downloading.intro               "Триває завантаження оновлення…">
 <!ENTITY  connecting.label                "З’єднання з сервером оновлень…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; не зміг перевірити цілісність частково завантаженого оновлення, тому він завантажує повне оновлення.">
+<!ENTITY  verificationFailedText.label    "&brandShortName; не зміг перевірити цілісність частково завантаженого оновлення,
+                                           тому він завантажує повне оновлення.">
 
 <!ENTITY  viewDetails.tooltip             "Переглянути подробиці щодо цього оновлення">
 
 <!ENTITY  details.link                    "Подробиці">
 
-<!ENTITY  error.label                     "При перевірці, завантаженні або встановленні цього оновлення виникли проблеми. &brandShortName; не був оновлений з наступної причини:">
+<!ENTITY  error.title                     "Помилка оновлення">
+
+<!ENTITY  error.label                     "При перевірці, завантаженні або встановленні цього оновлення виникли проблеми.
+                                           &brandShortName; не був оновлений з наступної причини:">
                                            
-<!ENTITY  errorManual.label               "Ви можете оновити &brandShortName; вручну, перейшовши по наступному посиланню і завантаживши його останню версію:">
+<!ENTITY  errorManual.label               "Ви можете оновити &brandShortName; вручну, перейшовши по наступному посиланню 
+                                           і завантаживши його останню версію:">
                                            
-<!ENTITY  errorpatching.title             "Помилка оновлення">
-<!ENTITY  errorpatching.intro             "Часткове оновлення не може бути встановлене. &brandShortName; спробує встановити оновлення, завантаживши повне оновлення.">
+<!ENTITY  errorpatching.intro             "Часткове оновлення не може бути встановлене. &brandShortName; 
+                                           спробує встановити оновлення, завантаживши повне оновлення.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Щось заважає &brandShortName; безпечно оновитись.
+                                           Будь ласка, упевніться що ви маєте останню версію &brandShortName; на:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Щось намагається всучити  &brandShortName;’у небезпечне оновлення. 
+                                           Будь ласка, зв’яжіться з вашим провайдером та попросіть допомоги.">
 
 <!ENTITY  finishedPage.title              "Оновлення готове до установки">
 <!ENTITY  finishedPage.text               "Оновлення буде встановлене при наступному запуску &brandShortName;.
