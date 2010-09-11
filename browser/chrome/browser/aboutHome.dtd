@@ -6,7 +6,9 @@
 
 <!ENTITY abouthome.pageTitle "Page de démarrage de &brandFullName;">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
 <!ENTITY abouthome.brandStart "Démarrage de <span>&brandShortName;</span>">
 
 <!ENTITY abouthome.searchEngineButton.label "Rechercher">
@@ -15,3 +17,12 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "Préférences">
 
 <!ENTITY abouthome.aboutMozilla "À propos de Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Merci d'avoir choisi Firefox ! Pour profiter pleinement de votre navigateur, découvrez ses <a>dernières fonctionnalités</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Vous pouvez personnaliser Firefox exactement comme il vous plaît. <a>Faites votre choix parmi des milliers de modules complémentaires</a>.">
