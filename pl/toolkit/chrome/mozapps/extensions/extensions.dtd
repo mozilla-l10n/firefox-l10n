@@ -118,7 +118,7 @@
 <!ENTITY detail.showPreferencesUnix.tooltip   "Zmień preferencje związane z tym dodatkiem">
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Ocena:">
+<!ENTITY rating2.label                         "Ocena">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Wstrzymaj">
