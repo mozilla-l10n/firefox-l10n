@@ -51,6 +51,8 @@
 <!ENTITY updates.restart.label                "Uruchom ponownie by dokończyć instalację">
 <!ENTITY updates.noneFound.label              "Nie znaleziono aktualizacji">
 <!ENTITY updates.manualUpdatesFound.label     "Wyświetl dostępne aktualizacje">
+<!ENTITY updates.updateSelected.label         "Zainstaluj aktualizacje">
+<!ENTITY updates.updateSelected.tooltip       "Zainstaluj aktualizacje z tej listy">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Wyświetl więcej informacji">
@@ -160,6 +162,8 @@
 <!ENTITY addon.install.tooltip                "Zainstall ten dodatek">
 <!ENTITY addon.updateNow.label                "Aktualizuj teraz">
 <!ENTITY addon.updateNow.tooltip              "Zainstaluj aktualizację tego dodatku">
+<!ENTITY addon.includeUpdate.label            "Zaktualizuj ten dodatek">
+<!ENTITY addon.updateAvailable.label          "Dostępna jest aktualizacja">
 <!ENTITY addon.checkingForUpdates.label       "Poszukiwanie aktualizacji…">
 <!ENTITY addon.releaseNotes.label             "Informacje o wydaniu:">
 <!ENTITY addon.loadingReleaseNotes.label      "Wczytywanie…">
