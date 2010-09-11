@@ -450,7 +450,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Colar">
+
 <!ENTITY fullScreenButton.tooltip       "Mostrar janela em todo o ecrã">
+
+<!ENTITY zoomOutButton.tooltip          "Aumentar">
+<!ENTITY zoomInButton.tooltip           "Diminuir">
+<!ENTITY zoomControls.label             "Controlos da lupa">
 
 <!ENTITY quitApplicationCmdWin.label "Sair">
 <!ENTITY quitApplicationCmdWin.accesskey "Q">
@@ -467,7 +472,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "Estilo de página">
 <!ENTITY pageStyleMenu.accesskey "s">
-<!ENTITY pageStyleNoStyle.label "Sem estilos">
+<!ENTITY pageStyleNoStyle.label "Sem estilo">
 <!ENTITY pageStyleNoStyle.accesskey "s">
 <!ENTITY pageStylePersistentOnly.label "Estilo de página básico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
