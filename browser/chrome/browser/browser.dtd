@@ -212,6 +212,7 @@
 <!ENTITY historyMenu.accesskey "C">
 <!ENTITY historyUndoMenu.label "Schede chiuse di recente">
 <!ENTITY historyUndoWindowMenu.label "Finestre chiuse di recente">
+<!ENTITY historyRestoreLastSession.label "Ripristina la sessione precedente">
 <!ENTITY historyHomeCmd.label "Pagina iniziale">
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "V">
