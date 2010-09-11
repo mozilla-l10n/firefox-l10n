@@ -6,6 +6,8 @@
 <!ENTITY background.accesskey "S">
 <!ENTITY warnOnClose.label "Advertirme al cerrar una ventana con múltiples pestañas">
 <!ENTITY warnOnClose.accesskey "c">
+<!ENTITY relatedAfterCurrent.label "Abrir pestañas relacionadas tras la pestaña actual">
+<!ENTITY relatedAfterCurrent.accesskey "b">
 <!ENTITY loadGroup.label "Al abrir un grupo de pestañas">
 <!ENTITY loadGroupAppend.label "Añadir pestañas">
 <!ENTITY loadGroupAppend.accesskey "A">
