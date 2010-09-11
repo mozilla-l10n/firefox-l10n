@@ -26,9 +26,6 @@
 <!ENTITY rights.intro-point3b "w tym miejscu">
 <!ENTITY rights.intro-point3c ".">
 
-<!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "W tym miejscu powinny być wypisane wszelkie zbiory zasad ochrony prywatności związane z tym produktem.">
-
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName; udostępnia także opcjonalne usługi informacyjne dotyczące witryn internetowych, takie jak usługa SafeBrowsing; jednakże nie możemy zagwarantować ich stuprocentowej dokładności ani bezbłędności. Szczegółowe informacje, w tym opis wyłączenia tych usług, można znaleźć w ">
 <!ENTITY rights.intro-point4b "warunkach korzystania z tych usług">
