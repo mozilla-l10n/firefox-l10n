@@ -22,7 +22,7 @@
 <!ENTITY signIn.serverURL.accesskey "U">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label "Crear su cuenta &syncBrand.shortName.label;">
+<!ENTITY setup.newAccountDetailsPage.title.label "Detalles de cuenta">
 <!ENTITY setup.confirmPassword.label "Confirmar contraseña">
 <!ENTITY setup.confirmPassword.accesskey "C">
 <!ENTITY setup.emailAddress.label "Correo electrónico">
@@ -92,15 +92,8 @@
 <!ENTITY choice2.client.main.label     "Reemplazar todos los datos en esta computadora con los datos de &syncBrand.shortName.label;">
 <!ENTITY choice2.server.main.label     "Reemplazar todos los otros dispositivos con los datos de esta computadora">
 
-<!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "¿Cómo quiere empezar?">
-<!ENTITY choice.merge.main.label "Mezclar los datos de esta computadora con los datos de &syncBrand.shortName.label;">
-<!ENTITY choice.merge.recommend.label "Esta opción es altamente recomendada por Mozilla para todos los usuarios.">
-<!ENTITY choice.client.main.label "Reemplazar todos los datos en esta computadora con sus datos de &syncBrand.fullName.label;">
-<!ENTITY choice.server.main.label "Reemplazar todos los otros dispositivos con sus datos locales">
-
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label "Confirmar la selección">
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Confirmar">
 <!ENTITY confirm.merge.label "Ha seleccionado mezclar los datos de esta computadora con los datos de sus otros dispositivos que usan &syncBrand.fullName.label;.">
 <!ENTITY confirm.client.label "Todos los datos de &brandShortName; en esta computadora se borrarán, incluyendo los siguientes:">
 <!ENTITY confirm.client.moreinfo.label "Después de eso, &brandShortName; copiará sus datos de &syncBrand.fullName.label; a esta computadora.">
