@@ -145,4 +145,10 @@
 <!ENTITY  generalSecurityDetails.accesskey "π">
 
 
+<!ENTITY  permIndexedDB              "Διατήρηση αποθηκευτικού χώρου για εργασία χωρίς σύνδεση">
+<!ENTITY  permClearStorage           "Εκκαθάριση αποθηκευτικού χώρου">
+<!ENTITY  permClearStorage.accesskey "θ">
+
+
+
 

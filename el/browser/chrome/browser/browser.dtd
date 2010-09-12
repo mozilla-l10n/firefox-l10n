@@ -44,12 +44,6 @@
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY  pinTab.label                       "Μετατροπή σε καρτέλα εφαρμογής">
-<!ENTITY  pinTab.accesskey                   "φ">
-<!ENTITY  unpinTab.label                     "Μετατροπή σε κανονική καρτέλα">
-<!ENTITY  unpinTab.accesskey                 "κ">
-
-
 
 <!ENTITY bookmarksItem.title "Σελιδοδείκτες">
 <!ENTITY bookmarksMenu.accesskey "Σ">
@@ -568,10 +562,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Συγχρονισμός τώρα">
 <!ENTITY syncSyncNowItem.accesskey    "Σ">
 
+<!ENTITY appMenuEdit.label "Επεξεργασία">
 <!ENTITY appMenuFind.label "Εύρεση…">
 <!ENTITY appMenuGettingStarted.label "Ξεκινώντας">
 <!ENTITY appMenuUnsorted.label "Αταξινόμητοι σελιδοδείκτες">
 
+<!ENTITY historyRestoreLastSession.label "Επαναφορά προηγούμενης συνεδρίας">
 
 <!ENTITY inspectObjectButton.label       "Αντικείμενο">
 <!ENTITY inspectObjectButton.accesskey   "ο">
@@ -582,5 +578,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addons.commandkey            "A">
 <!ENTITY showAllBookmarks.label "Προβολή όλων των σελιδοδεικτών…">
+
+<!ENTITY  pinAppTab.label                    "Ορισμός ως πρώτη καρτέλα">
+<!ENTITY  pinAppTab.accesskey                "π">
+<!ENTITY  unpinAppTab.label                  "Ορισμός ως κανονική καρτέλα">
+<!ENTITY  unpinAppTab.accesskey              "κ">
+
+<!ENTITY zoomOutButton.tooltip          "Σμίκρυνση">
+<!ENTITY zoomInButton.tooltip           "Εστίαση">
+<!ENTITY zoomControls.label             "Στοιχεία ελέγχου μεγέθυνσης">
 
 
