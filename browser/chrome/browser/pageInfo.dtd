@@ -55,6 +55,9 @@
 <!ENTITY permCookie "Усталёўваць біркі">
 <!ENTITY permInstall "Усталёўваць пашырэнні або тэмы">
 <!ENTITY permGeo "Дзяліцца месцазнаходжаннем">
+<!ENTITY permIndexedDB "Падтрымаманне пазасеткавага сховішча">
+<!ENTITY permClearStorage "Ачысціць сховішча">
+<!ENTITY permClearStorage.accesskey "ч">
 <!ENTITY securityTab "Бяспека">
 <!ENTITY securityTab.accesskey "Б">
 <!ENTITY securityHeader "Звесткі пра бяспечнасць гэтай старонкі">

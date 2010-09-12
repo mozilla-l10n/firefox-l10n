@@ -10,10 +10,10 @@
 <!ENTITY closeOtherTabs.accesskey "З">
 <!ENTITY openTabInNewWindow.label "Адчыніць у новым акне">
 <!ENTITY openTabInNewWindow.accesskey "А">
-<!ENTITY pinTab.label "Зрабіць устаўкай прыстасавання">
-<!ENTITY pinTab.accesskey "п">
-<!ENTITY unpinTab.label "Зрабіць звычайнай устаўкай">
-<!ENTITY unpinTab.accesskey "з">
+<!ENTITY pinAppTab.label "Прышпіліць як устаўку прыстасавання ">
+<!ENTITY pinAppTab.accesskey "П">
+<!ENTITY unpinAppTab.label "Адшпіліць устаўку">
+<!ENTITY unpinAppTab.accesskey "А">
 <!ENTITY moveToGroup.label "Перамясціць у купу">
 <!ENTITY moveToGroup.accesskey "м">
 <!ENTITY moveToNewGroup.label "Новая купа">
@@ -212,9 +212,11 @@
 <!ENTITY historyMenu.accesskey "Г">
 <!ENTITY historyUndoMenu.label "Нядаўна зачыненыя ўстаўкі">
 <!ENTITY historyUndoWindowMenu.label "Нядаўна зачыненыя вокны">
+<!ENTITY historyRestoreLastSession.label "Аднавіць папярэднюю сэсію">
 <!ENTITY historyHomeCmd.label "Дадому">
 <!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY appMenuEdit.label "Праўка">
 <!ENTITY appMenuCustomize.label "Уладкаваць">
 <!ENTITY appMenuToolbarLayout.label "Раскладка прыладапаліцы…">
 <!ENTITY appMenuSidebars.label "Палічкі">
@@ -351,6 +353,9 @@
 <!ENTITY copyButton.tooltip "Капіяваць">
 <!ENTITY pasteButton.tooltip "Уставіць">
 <!ENTITY fullScreenButton.tooltip "Паказаць акно на увесь экран">
+<!ENTITY zoomOutButton.tooltip "Наблізіць">
+<!ENTITY zoomInButton.tooltip "Аддаліць">
+<!ENTITY zoomControls.label "Кіроўцы павялічэннем">
 <!ENTITY quitApplicationCmdWin.label "Выйсці">
 <!ENTITY quitApplicationCmdWin.accesskey "В">
 <!ENTITY goBackCmd.commandKey "[">
