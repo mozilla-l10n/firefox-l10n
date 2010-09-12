@@ -48,6 +48,10 @@
 <!ENTITY selectall.accesskey "V">
 <!ENTITY closeWindow.key "w">
 
+<!ENTITY  permIndexedDB              "Uzturēt atsaistes glabātuvi">
+<!ENTITY  permClearStorage           "Iztīrīt glabātuvi">
+<!ENTITY  permClearStorage.accesskey "z">
+
 <!ENTITY generalTab "Vispārējā">
 <!ENTITY generalTab.accesskey "G">
 <!ENTITY generalURL "Adrese:">
@@ -81,7 +85,7 @@
 <!ENTITY mediaSaveAs "Saglabāt kā...">
 <!ENTITY mediaSaveAs.accesskey "A">
 <!ENTITY mediaSaveAs2.accesskey "e">
-<!ENTITY mediaPreview "Multivides pirmsapskate:">
+<!ENTITY mediaPreview "Multivides paraugs:">
 
 <!ENTITY feedTab "Barotnes">
 <!ENTITY feedTab.accesskey "F">

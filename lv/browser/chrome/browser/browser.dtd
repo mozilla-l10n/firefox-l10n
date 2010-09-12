@@ -54,7 +54,9 @@
 <!ENTITY  moveToNewGroup.label               "Jauna grupa">
 <!ENTITY inspectObjectButton.label       "Objekts">
 <!ENTITY inspectObjectButton.accesskey   "O">
+<!ENTITY historyRestoreLastSession.label "Atjaunot iepriekšējo sesiju">
 
+<!ENTITY appMenuEdit.label "Rediģēt">
 <!ENTITY appMenuFind.label "Meklēt…">
 <!ENTITY appMenuUnsorted.label "Nešķirotas grāmatzīmes">
 <!ENTITY appMenuGettingStarted.label "Ar ko sākt">
@@ -242,10 +244,11 @@
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.placeholder           "Iet uz mājas lapu">
-<!ENTITY  pinTab.label                       "Izveidot programcilni">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Izveidot parastu cilni">
-<!ENTITY  unpinTab.accesskey                 "v">
+
+<!ENTITY  pinAppTab.label                    "Izveidot kā programcilni">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "Pārvērst par parastu cilni">
+<!ENTITY  unpinAppTab.accesskey              "c">
 
 <!ENTITY appMenuCustomize.label "Pielāgot">
 <!ENTITY appMenuToolbarLayout.label "Rīkjoslas izkārtojums…">
@@ -258,6 +261,12 @@
 <!ENTITY webConsoleCmd.label          "Tīmekļa konsole">
 <!ENTITY webConsoleCmd.accesskey      "T">
 <!ENTITY webConsoleCmd.commandkey     "k">
+
+
+<!ENTITY zoomOutButton.tooltip          "Attālināt">
+<!ENTITY zoomInButton.tooltip           "Pietuvināt">
+<!ENTITY zoomControls.label             "Pietuvināšana">
+
 
 <!-- 
   Comment duplicated from browser-sets.inc:
