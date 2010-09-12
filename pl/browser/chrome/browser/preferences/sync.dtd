@@ -1,5 +1,5 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Konfiguruj &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "Konfiguruj usługę &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "K">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; umożliwia dostęp do twojej historii przeglądania, zakładek, haseł i otwartych kart z poziomu każdego twojego urządzenia.">
 
