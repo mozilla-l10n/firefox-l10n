@@ -6,7 +6,9 @@
 
 <!ENTITY abouthome.pageTitle "Laman Memulai &brandFullName;">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
 <!ENTITY abouthome.brandStart "Beranda <span>&brandShortName;</span>">
 
 <!ENTITY abouthome.searchEngineButton.label "Cari">
@@ -15,3 +17,13 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "Pengaturan">
 
 <!ENTITY abouthome.aboutMozilla "Tentang Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Terima kasih telah memilih Firefox! Baca tentang <a>fitur terbarunya</a> dan maksimalkan pengunaannya.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Gampang sekali mengubah-ubah Firefox sesuai keinginan Anda. <a>Pilih dari beribu pengaya yang tersedia</a>.">
+
