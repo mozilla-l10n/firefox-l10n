@@ -18,3 +18,12 @@
 
 <!ENTITY abouthome.aboutMozilla "Περί Mozilla">
 
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Σας ευχαριστούμε που επιλέξατε τον! Για να εκμεταλλευτείτε πλήρως την εφαρμογή, διαβάστε περισσότερα για τις <a>νέες λειτουργίες</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Είναι πανεύκολο να προσαρμόσετε τον Firefox όπως ακριβώς τον θέλετε. <a>Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα</a>.">
+
