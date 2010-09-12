@@ -53,7 +53,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey "S">
 
 <!ENTITY page.syncKeyBackup.title            "Sinu Firefox Synci võti">
-<!ENTITY page.syncKeyBackup.descr            "Seda võtit kasutatakse sinu isiklike andmete krüptimiseks. Seda ei laadida serverisse ja seda ei saa taastada. Ära kaota seda, ega jaga teiste inimestaga.">
+<!ENTITY page.syncKeyBackup.descr            "Seda võtit kasutatakse sinu isiklike andmete krüptimiseks. Seda ei laadita serverisse ja seda ei saa taastada. Ära kaota seda, ega jaga teiste inimestega.">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Palun tõesta, et sa pole robot">
