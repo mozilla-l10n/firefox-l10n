@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nesaglabās šīs sesijas pārlūkošanas vēsturi.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; šobrīd darbojas privātās pārlūkošanas režīmā.">
 
-<!ENTITY privatebrowsingpage.description               "Šīs sesijas laikā &brandShortName; nesaglabās pārlūkošanas vēsturi. Netiks saglabātas nedz jūsu apmeklēto lapu adreses, nedz meklētās frāzes, nedz lejupielādes nedz arī formās ievadītie dati, sīkdatnes vai pagaidu faili.  Taču, ja jūs lejupielādēsiet kādus failus vai izveidosiet jaunas grāmatzīmes, tās tiks saglabātas.">
+<!ENTITY privatebrowsingpage.description               "Šīs sesijas laikā &brandShortName; nesaglabās pārlūkošanas vēsturi. Netiks saglabātas nedz jūsu apmeklēto lapu adreses, nedz meklētās frāzes, nedz lejupielādes, nedz arī formās ievadītie dati, sīkdatnes vai pagaidu faili.  Taču, ja jūs lejupielādēsiet kādus failus vai izveidosiet jaunas grāmatzīmes, tās tiks saglabātas.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
@@ -18,5 +18,5 @@
 <!ENTITY privatebrowsingpage.howToStop             "Lai pārtrauktu privāto pārlūkošanu izņemiet ķeksīti no &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; vai aizveriet &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart                "Lai sāktu privāto pārlūkošanu izvēlieties &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Lai šis dators nesaglabās informāciju par jūsu pārlūkošans vēsturi, jūsu interneta pakalpojumu sniedzējam vai darba devējam joprojām ir iespēja sekot līdz jūsu apmeklētajām interneta vietnēm.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Lai arī šis dators nesaglabās informāciju par jūsu pārlūkošans vēsturi, jūsu interneta pakalpojumu sniedzējam vai darba devējam joprojām ir iespēja sekot līdz jūsu apmeklētajām interneta vietnēm.">
 <!ENTITY privatebrowsingpage.learnMore                 "Uzzināt vairāk">

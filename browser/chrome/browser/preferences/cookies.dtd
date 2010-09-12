@@ -14,7 +14,7 @@
 <!ENTITY props.domain.label "Resursdators:">
 <!ENTITY props.path.label "Ceļš:">
 <!ENTITY props.secure.label "Sūtīts:">
-<!ENTITY props.expires.label "Derīguma terminš:">
+<!ENTITY props.expires.label "Derīguma termiņš:">
 
 <!ENTITY window.title "Sīkdatnes">
 <!ENTITY windowClose.key "w">
