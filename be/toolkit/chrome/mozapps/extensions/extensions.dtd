@@ -11,6 +11,13 @@
 <!ENTITY installFromFile.accesskey "У">
 <!ENTITY cmd.back.tooltip "Папярэдняя старонка">
 <!ENTITY cmd.forward.tooltip "Наступная старонка">
+<!ENTITY warning.safemode.label "Усе дадаткі забаронены бяспечным рэжымам.">
+<!ENTITY warning.checkcompatibility.label "Праверка сумяшчальнасці дадаткаў забаронена. Вы можаце мець несумяшчальныя дадаткі.">
+<!ENTITY warning.checkcompatibility.enable.label "Дазволіць">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Дазволіць праверку сумяшчальнасці дадаткаў">
+<!ENTITY warning.updatesecurity.label "Праверка бяспечнасці дадаткаў забаронена. Вы можаце быць падведзены пад рызыку абнаўленнямі.">
+<!ENTITY warning.updatesecurity.enable.label "Дазволіць">
+<!ENTITY warning.updatesecurity.enable.tooltip "Дазволіць праверку бяспечнасці абнаўленняў дадаткаў">
 <!ENTITY view.search.label "Пошук">
 <!ENTITY view.discover.label "Атрымаць дадаткі">
 <!ENTITY view.locales.label "Мовы">
@@ -34,6 +41,8 @@
 <!ENTITY updates.restart.label "Перазапусціць зараз, каб скончыць усталяванне">
 <!ENTITY updates.noneFound.label "Абнаўленні не знойдзеныя">
 <!ENTITY updates.manualUpdatesFound.label "Пабачыць даступныя абнаўленні">
+<!ENTITY updates.updateSelected.label "Усталяваць абнаўленні">
+<!ENTITY updates.updateSelected.tooltip "Усталяваць даступныя абнаўленні з гэтага спісу">
 <!ENTITY cmd.showDetails.label "Паказаць больш звестак">
 <!ENTITY cmd.showDetails.accesskey "П">
 <!ENTITY cmd.findUpdates.label "Знайсці абнаўленні">
@@ -48,6 +57,10 @@
 <!ENTITY cmd.enableAddon.accesskey "Д">
 <!ENTITY cmd.disableAddon.label "Забараніць">
 <!ENTITY cmd.disableAddon.accesskey "З">
+<!ENTITY cmd.enableTheme.label "Ужыць тэму">
+<!ENTITY cmd.enableTheme.accesskey "У">
+<!ENTITY cmd.disableTheme.label "Спыніць ужыванне тэмы">
+<!ENTITY cmd.disableTheme.accesskey "у">
 <!ENTITY cmd.installAddon.label "Усталяваць">
 <!ENTITY cmd.installAddon.accesskey "У">
 <!ENTITY cmd.uninstallAddon.label "Выдаліць">
@@ -86,7 +99,7 @@
 <!ENTITY detail.showPreferencesUnix.label "Перавагі">
 <!ENTITY detail.showPreferencesUnix.accesskey "П">
 <!ENTITY detail.showPreferencesUnix.tooltip "Змяненне перавагаў гэтага дадатка">
-<!ENTITY rating.label "Ацэнка:">
+<!ENTITY rating2.label "Ацэнка">
 <!ENTITY progress.pause.tooltip "Прыпыніць">
 <!ENTITY progress.cancel.tooltip "Скасаваць">
 <!ENTITY sort.name.label "Назва">
@@ -115,6 +128,8 @@
 <!ENTITY addon.install.tooltip "Усталяваць гэты дадатак">
 <!ENTITY addon.updateNow.label "Абнавіць зараз">
 <!ENTITY addon.updateNow.tooltip "Усталяваць абнаўленне гэтага дадатка">
+<!ENTITY addon.includeUpdate.label "Уключыць у абнаўленне">
+<!ENTITY addon.updateAvailable.label "Даступна абнаўленне">
 <!ENTITY addon.checkingForUpdates.label "Праверка існавання абнаўленняў…">
 <!ENTITY addon.releaseNotes.label "Заўвагі пра выданне:">
 <!ENTITY addon.loadingReleaseNotes.label "Загрузка…">
