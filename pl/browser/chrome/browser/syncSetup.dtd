@@ -89,8 +89,8 @@
 
 <!ENTITY choice2.merge.main.label      "Scal dane tego komputera z moimi danymi &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Zalecane:">
-<!ENTITY choice2.client.main.label     "Zamień dane tego komputera danymi z&syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Zamień dane na pozostałych urządzeniach danymi z tego komputera">
+<!ENTITY choice2.client.main.label     "Nadpisz dane tego komputera danymi z &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Nadpisz dane na pozostałych urządzeniach danymi z tego komputera">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Potwierdzenie">
