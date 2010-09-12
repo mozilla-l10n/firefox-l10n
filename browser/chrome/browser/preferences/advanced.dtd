@@ -51,7 +51,6 @@
 <!ENTITY useCacheAfter.label             "MB">
 <!ENTITY clearCacheNow.label             "Bersihkan Sekarang">
 <!ENTITY clearCacheNow.accesskey         "g">
-<!ENTITY smartSizeCache.label            "Biarkan &brandShortName; mengelola ukuran tembolok.">
 
 <!ENTITY updateTab.label                 "Pemutakhiran">
 
