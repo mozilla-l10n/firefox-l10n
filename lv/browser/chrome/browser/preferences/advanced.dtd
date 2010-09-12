@@ -13,7 +13,7 @@
 
 <!ENTITY browsing.label "Pārlūkošana">
 
-<!ENTITY allowHWAccel.label              "Ja pieejams izmantot aparatūras paātrinājumu">
+<!ENTITY allowHWAccel.label              "Ja pieejams, izmantot aparatūras paātrinājumu">
 <!ENTITY allowHWAccel.accesskey          "p">
 
 <!ENTITY useAutoScroll.label "Lietot autoritināšanu">

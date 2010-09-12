@@ -48,8 +48,8 @@
 
 <!ENTITY certmgr.mine             "Jums ir jūs identificējoši sertifikāti no šīm organizācijām:">
 <!ENTITY certmgr.others           "Jums failā ir šos cilvēkus identificējoši sertifikāti:">
-<!ENTITY certmgr.websites2         "Jums failā ir šos serverus idenficējoši sertifikāti:">
-<!ENTITY certmgr.cas             "Jums failā ir šīs sertificēšanas autoritātes idenficiējoši sertifikāti:">
+<!ENTITY certmgr.websites2         "Jums failā ir šos serverus identificējoši sertifikāti:">
+<!ENTITY certmgr.cas             "Jums failā ir šīs sertificēšanas autoritātes identificējoši sertifikāti:">
 <!ENTITY certmgr.orphans          "Jums failā ir šādi sertifikāti, kas neiederas nevienā citā kategorijā:">
 
 <!ENTITY certmgr.detail.general_tab.title "Vispārīgi">
@@ -72,7 +72,7 @@
 
 <!ENTITY certmgr.editcert.title "Rediģēt drošības sertifikātu iestatījumus">
 <!ENTITY certmgr.editcacert.title "Rediģēt CA sertifikātu uzticamības iestatījumus">
-<!ENTITY certmgr.editsslcert.title "Redigēt tīmekļa vietņu sertifiātu uzticamības iestatījumus">
+<!ENTITY certmgr.editsslcert.title "Rediģēt tīmekļa vietņu sertifikātu uzticamības iestatījumus">
 <!ENTITY certmgr.editcert.edittrust "Rediģēt uzticamības iestatījumus:">
 <!ENTITY certmgr.editcert.trustssl "Šis sertifikāts var identificēt tīmekļa vietnes.">
 <!ENTITY certmgr.editcert.trustemail "Šis sertifikāts var identificēt pasta lietotājus.">

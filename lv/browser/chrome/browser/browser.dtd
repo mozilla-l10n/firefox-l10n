@@ -121,8 +121,8 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Pierakstīties uz šo lapu">
 <!ENTITY subscribeToPageMenuitem.label "Pierakstīties uz šo lapu...">
-<!ENTITY addCurPagesCmd.label "Atzīmēt visas cilnes grāmatzīmēs...">
-<!ENTITY bookmarkAllCmd.label "Atzīmēt visas cilnes grāmatzīmēs...">
+<!ENTITY addCurPagesCmd.label "Saglabāt visas cilnes grāmatzīmēs...">
+<!ENTITY bookmarkAllCmd.label "Saglabāt visas cilnes grāmatzīmēs...">
 
 <!ENTITY backCmd.label "Atpakaļ">
 <!ENTITY backCmd.accesskey "T">
@@ -166,7 +166,7 @@
 
 <!ENTITY keywordfield.label "Pievienot meklējuma atslēgas vārdu...">
 <!ENTITY keywordfield.accesskey "K">
-<!ENTITY search.label "Tīmekļa meklēšana">
+<!ENTITY search.label "Meklēšana tīmeklī">
 <!ENTITY search.accesskey "M">
 <!ENTITY downloads.label "Lejupielādes">
 <!ENTITY downloads.tooltip "Parādīt notiekošo lejupielāžu progresu">
@@ -336,9 +336,9 @@
 <!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setDesktopBackgroundCmd.label "Uzlikt kā darbvirsmas fonu...">
 <!ENTITY setDesktopBackgroundCmd.accesskey "U">
-<!ENTITY bookmarkPageCmd2.label "Atzīmēt šo lapu grāmatzīmēs">
+<!ENTITY bookmarkPageCmd2.label "Saglabāt šo lapu grāmatzīmēs">
 <!ENTITY bookmarkPageCmd2.accesskey "m">
-<!ENTITY bookmarkThisLinkCmd.label "Atzīmēt šo saiti grāmatzīmēs">
+<!ENTITY bookmarkThisLinkCmd.label "Saglabāt šo saiti grāmatzīmēs">
 <!ENTITY bookmarkThisLinkCmd.accesskey "S">
 <!ENTITY bookmarkThisFrameCmd.label "Pievienot šo ietvaru grāmatzīmēm">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">

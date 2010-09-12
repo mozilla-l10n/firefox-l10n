@@ -4,7 +4,7 @@
 <!ENTITY zoomWindow.label "Mērogs">
 <!ENTITY windowMenu.label "Logs">
 
-<!ENTITY helpTroubleshootingInfo.label      "Problēmu risināšanas informācija">
+<!ENTITY helpTroubleshootingInfo.label      "Problēmu novēršanas informācija">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
 <!ENTITY productHelp.label        "&brandShortName; palīdzība">
 <!ENTITY productHelp.accesskey    "l">

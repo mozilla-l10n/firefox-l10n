@@ -18,7 +18,7 @@ un varēsiet turpināt atjauninājuma instalēšanu.">
 <!ENTITY license.instructionText "Lūdzu, izlasiet šo licences līgumu. Lietojiet ritjoslu, lai apskatītu visu līguma tekstu.">
 <!ENTITY license.accept "Es piekrītu licences līguma noteikumiem">
 <!ENTITY license.accept.accesskey "c">
-<!ENTITY license.decline "Es NEpiekrītu licences līguma noteikumiem">
+<!ENTITY license.decline "Es nepiekrītu licences līguma noteikumiem">
 <!ENTITY license.decline.accesskey "T">
 
 <!ENTITY  downloadPage.title              "Lejupielādē &brandShortName;">
@@ -54,7 +54,7 @@ un lejupielādējot jaunāko versiju.">
 <!ENTITY update.details.label "Sīkāka informācija">
 <!ENTITY update.installedOn.label "Uzinstalēts:">
 <!ENTITY update.status.label "Statuss:">
-<!ENTITY  noupdatesautoenabled.intro      "Jaunu atjauninājumu nav. &brandShortName; ik pa brīdim pārbaudīt atjauninājumus.">
+<!ENTITY  noupdatesautoenabled.intro      "Jaunu atjauninājumu nav. &brandShortName; ik pa brīdim pārbaudīs atjauninājumus.">
 <!ENTITY  noupdatesautodisabled.intro     "Jaunu atjauninājumu nav. Pārbaudiet tos vēlreiz vēlāk vai arī aktivizējiet &brandShortName; automātisko atjauninājumu pārbaudi.">
 
 <!ENTITY  finishedPage.title              "Atjauninājumi ir gatavi uzstādīšanai">
@@ -69,11 +69,11 @@ un lejupielādējot jaunāko versiju.">
 
 <!ENTITY  updateCheck.label               "Meklē jaunāku &brandShortName; versiju…">
 
-<!ENTITY  viewDetails.tooltip             "Aplūkot sīkāķu informāciju par atjauninājumu">
+<!ENTITY  viewDetails.tooltip             "Aplūkot sīkāku informāciju par atjauninājumu">
 
 <!ENTITY  manualUpdate.title              "Nesanāk atjaunināšana">
-<!ENTITY  manualUpdate.desc               "Ir pieejami drošības un stabilitātes atjauninājumi, taču jums nav nepieciešamo tiesību instalēt tos. Lūdzu informējiet par šo savu sistēmas administratoru vai arī mēģiniet vēlreiz no cita lietotāja konta, kam ir nepieciešamās atļaujas instalēt programmatūŗas atjauninājumus.">
-<!ENTITY  manualUpdateGetMsg.label        "Jaunākot &brandShortName; versiju jūs vienmēr varat iegūt šeit:">
+<!ENTITY  manualUpdate.desc               "Ir pieejami drošības un stabilitātes atjauninājumi, taču jums nav nepieciešamo tiesību instalēt tos. Lūdzu informējiet par šo savu sistēmas administratoru vai arī mēģiniet vēlreiz no cita lietotāja konta, kam ir nepieciešamās atļaujas instalēt programmatūras atjauninājumus.">
+<!ENTITY  manualUpdateGetMsg.label        "Jaunāko &brandShortName; versiju jūs vienmēr varat iegūt šeit:">
 
 <!ENTITY  error.title                     "Atjaunināšana neizdevās">
 

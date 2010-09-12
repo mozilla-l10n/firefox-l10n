@@ -77,7 +77,7 @@
 <!ENTITY mediaAltHeader "Alternatīvais teksts">
 <!ENTITY mediaAddress "Adrese">
 <!ENTITY mediaType "Tips">
-<!ENTITY mediaSize "Izmērs">
+<!ENTITY mediaSize "Faila izmērs">
 <!ENTITY mediaCount "Skaits">
 <!ENTITY mediaDimension "Izmēri:">
 <!ENTITY mediaLongdesc "Garais apraksts:">
@@ -85,7 +85,7 @@
 <!ENTITY mediaSaveAs "Saglabāt kā...">
 <!ENTITY mediaSaveAs.accesskey "A">
 <!ENTITY mediaSaveAs2.accesskey "e">
-<!ENTITY mediaPreview "Multivides paraugs:">
+<!ENTITY mediaPreview "Paraugs:">
 
 <!ENTITY feedTab "Barotnes">
 <!ENTITY feedTab.accesskey "F">

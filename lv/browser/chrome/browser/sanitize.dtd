@@ -33,23 +33,23 @@ that require it.  -->
 
 <!ENTITY itemHistoryAndDownloads.label     "Pārlūkošanas un lejupielāžu vēsturi">
 <!ENTITY itemHistoryAndDownloads.accesskey "r">
-<!ENTITY itemBrowsingHistory.label "Pārlūkošanas vēsture">
+<!ENTITY itemBrowsingHistory.label "Pārlūkošanas vēsturi">
 <!ENTITY itemBrowsingHistory.accesskey "A">
-<!ENTITY itemFormSearchHistory.label "Formu un meklēšanu vēsture">
+<!ENTITY itemFormSearchHistory.label "Formu un meklēšanas vēsturi">
 <!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemPasswords.label "Saglabātās paroles">
 <!ENTITY itemPasswords.accesskey "P">
 <!ENTITY itemCookies.label "Sīkdatnes">
 <!ENTITY itemCookies.accesskey "S">
-<!ENTITY itemCache.label           "Kešatmiņa">
+<!ENTITY itemCache.label           "Kešatmiņu">
 <!ENTITY itemCache.accesskey       "K">
-<!ENTITY itemOfflineApps.label "Lapu nesaistes dati">
+<!ENTITY itemOfflineApps.label "Lapu nesaistes datus">
 <!ENTITY itemOfflineApps.accesskey "T">
-<!ENTITY itemDownloadHistory.label "Lejupielāžu saraksts">
+<!ENTITY itemDownloadHistory.label "Lejupielāžu sarakstu">
 <!ENTITY itemDownloadHistory.accesskey "J">
-<!ENTITY itemActiveLogins.label       "Aktīvie lietotāji">
+<!ENTITY itemActiveLogins.label       "Aktīvos lietotājus">
 <!ENTITY itemActiveLogins.accesskey   "L">
-<!ENTITY itemSitePreferences.label       "Lapas iestatījumi">
+<!ENTITY itemSitePreferences.label       "Lapas iestatījumus">
 <!ENTITY itemSitePreferences.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
