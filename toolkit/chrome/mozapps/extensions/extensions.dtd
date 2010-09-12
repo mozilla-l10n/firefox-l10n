@@ -44,7 +44,7 @@
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Izmainīt šī papildinājuma iestatījumus">
 
 <!-- ratings -->
-<!ENTITY rating.label              "Vērtējums:">
+<!ENTITY rating2.label              "Vērtējums">
 
 
 <!-- detail view -->
@@ -170,3 +170,7 @@
 <!ENTITY warning.updatesecurity.label              "Papildinājumu drošības pārbaude ir deaktivizēta. Iespējams jums ir nedroši papildinājumu.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktivizēt">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktivizēt papildinājumu drošības pārbaudi">
+<!ENTITY addon.includeUpdate.label            "Iekļaut atjauninājumā">
+<!ENTITY addon.updateAvailable.label          "Ir pieejams atjauninājums">
+<!ENTITY updates.updateSelected.label         "Instalēt atjauninājumus">
+<!ENTITY updates.updateSelected.tooltip       "Instalēt visus šajā sarakstā pieejamos atjauninājumus">
