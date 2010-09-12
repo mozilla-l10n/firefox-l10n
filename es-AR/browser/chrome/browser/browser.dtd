@@ -20,10 +20,16 @@
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!ENTITY  openTabInNewWindow.label           "Abrir en nueva ventana">
 <!ENTITY  openTabInNewWindow.accesskey       "v">
-<!ENTITY  pinTab.label                       "Transformar en pestaña de aplicación">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Transformar en pestaña normal">
-<!ENTITY  unpinTab.accesskey                 "T">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Pegar como pestaña de aplicación">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "Despegar pestaña">
+<!ENTITY  unpinAppTab.accesskey              "t">
 <!ENTITY  moveToGroup.label                  "Mover a grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Nuevo grupo">
@@ -260,11 +266,13 @@
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
+<!ENTITY historyRestoreLastSession.label "Restaurar sesión previa">
 
 <!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
+<!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
 <!ENTITY appMenuToolbarLayout.label "Barra de diseño…">
 <!ENTITY appMenuSidebars.label "Barras laterales">
@@ -443,7 +451,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Cortar">
 <!ENTITY copyButton.tooltip "Copiar">
 <!ENTITY pasteButton.tooltip "Pegar">
+
 <!ENTITY fullScreenButton.tooltip       "Mostrar la ventana en pantalla completa">
+
+<!ENTITY zoomOutButton.tooltip          "Acercar">
+<!ENTITY zoomInButton.tooltip           "Alejar">
+<!ENTITY zoomControls.label             "Controles de zoom">
 
 <!ENTITY quitApplicationCmdWin.label "Salir">
 <!ENTITY quitApplicationCmdWin.accesskey "S">

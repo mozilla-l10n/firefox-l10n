@@ -48,6 +48,8 @@
 <!ENTITY updates.restart.label                "Reiniciar ahora para completar la instalación">
 <!ENTITY updates.noneFound.label              "No se encontraron actualizaciones">
 <!ENTITY updates.manualUpdatesFound.label     "Ver actualizaciones disponibles">
+<!ENTITY updates.updateSelected.label         "Instalar actualizaciones">
+<!ENTITY updates.updateSelected.tooltip       "Instalar actualizaciones disponibles en esta lista">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Mostrar más información">
@@ -116,7 +118,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Puntuación:">
+<!ENTITY rating2.label                        "Puntuación">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
@@ -141,9 +143,15 @@
 <!ENTITY addon.details.label                  "Más">
 <!ENTITY addon.details.tooltip                "Mostrar más detalles sobre este complemento">
 <!ENTITY addon.unknownDate                    "Desconocida">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(deshabilitado)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
-<!ENTITY addon.update.postfix                 "Actualización">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "[Actualización]">
 <!ENTITY addon.undoAction.label               "Deshacer">
 <!ENTITY addon.undoAction.tooltip             "Deshacer esta acción">
 <!ENTITY addon.undoRemove.label               "Deshacer">
@@ -153,6 +161,8 @@
 <!ENTITY addon.install.tooltip                "Instalar este complemento">
 <!ENTITY addon.updateNow.label                "Actualizar ahora">
 <!ENTITY addon.updateNow.tooltip              "Instalar la actualización para este complemento">
+<!ENTITY addon.includeUpdate.label            "Incluir en actualización">
+<!ENTITY addon.updateAvailable.label          "Hay una actualización disponible">
 <!ENTITY addon.checkingForUpdates.label       "Buscar actualizaciones…">
 <!ENTITY addon.releaseNotes.label             "Notas de la versión:">
 <!ENTITY addon.loadingReleaseNotes.label      "Cargando…">
