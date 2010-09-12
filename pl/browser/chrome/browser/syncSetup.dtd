@@ -102,6 +102,6 @@
 <!ENTITY confirm.server.warning.label   "UWAGA: wszystkie dane programu &brandShortName; na tych urządzeniach zostaną zastąpione danymi lokalnymi!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Konfiguracja zakończona!">
+<!ENTITY setup.successPage.title "Konfiguracja zakończona">
 <!ENTITY changeOptions.label "Możesz zmienić to ustawienie wybierając Opcje Sync poniżej.">
 <!ENTITY continueUsing.label "Możesz teraz kontynuować korzystanie z programu &brandShortName;.">
