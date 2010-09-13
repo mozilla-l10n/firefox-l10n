@@ -99,6 +99,10 @@
 <!ENTITY permInstall "Eklenti veya tema kur">
 <!ENTITY permGeo "Konumu paylaş">
 
+<!ENTITY permIndexedDB "Maintain Offline Storage">
+<!ENTITY permClearStorage "Clear Storage">
+<!ENTITY permClearStorage.accesskey "C">
+
 <!ENTITY securityTab "Güvenlik">
 <!ENTITY securityTab.accesskey "G">
 <!ENTITY securityHeader "Sayfanın güvenlik bilgileri">

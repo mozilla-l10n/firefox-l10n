@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label "Hesabı yönet">
 <!ENTITY manageAccount.accesskey "y">
 <!ENTITY changePassword.label "Change Password">
-<!ENTITY changePassphrase.label "Gizli tümceciği değiştir">
+<!ENTITY mySyncKey.label "My Sync Key">
 <!ENTITY resetSync.label "Sync'i sıfırla">
 <!ENTITY differentAccount.label "Farklı bir hesap kullan">
 <!-- Sync Settings -->
@@ -23,22 +23,20 @@
 <!ENTITY syncPrefsCaption.label "Tarayıcı eşitleme">
 <!ENTITY syncComputerName.label "Bilgisayar adı:">
 <!ENTITY syncComputerName.accesskey "B">
-<!ENTITY syncModeSwitchDesc.label "&brandShortName; uygulaması:">
-<!ENTITY syncModeSwitchDesc.accesskey "u">
-<!ENTITY syncEverything.label "Her şeyi eşitlesin">
-<!ENTITY customSync.label "Özel ayarlarımı kullansın">
-<!ENTITY syncEverythingDescription.label "Yer imleriniz, tarama geçmişiniz, parolalarınız, tercihleriniz ve sekmeleriniz eşitlenecektir.">
-<!ENTITY syncItem.bookmarks.label "Yer imlerini eşitle">
-<!ENTITY syncItem.bookmarks.accesskey "Y">
-<!ENTITY syncItem.tabs.label "Sekmeleri eşitle">
-<!ENTITY syncItem.tabs.accesskey "S">
-<!ENTITY syncItem.history.label "Geçmişi eşitle">
-<!ENTITY syncItem.history.accesskey "G">
-<!ENTITY syncItem.passwords.label "Parolaları eşitle">
-<!ENTITY syncItem.passwords.accesskey "P">
-<!ENTITY syncItem.prefs.label "Tercihleri eşitle">
-<!ENTITY syncItem.prefs.accesskey "T">
+
+<!ENTITY syncMy.label "Sync My">
+<!ENTITY engine.bookmarks.label "Bookmarks">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label "Tabs">
+<!ENTITY engine.tabs.accesskey "T">
+<!ENTITY engine.history.label "History">
+<!ENTITY engine.history.accesskey "r">
+<!ENTITY engine.passwords.label "Passwords">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label "Preferences">
+<!ENTITY engine.prefs.accesskey "S">
 <!-- Footer stuff -->
+
 
 <!ENTITY prefs.tosLink.label "Kullanım Koşulları">
 <!ENTITY prefs.ppLink.label "Gizlilik Anlaşması">

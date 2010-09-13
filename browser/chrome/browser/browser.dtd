@@ -20,15 +20,19 @@
 <!ENTITY closeOtherTabs.accesskey "D">
 <!ENTITY openTabInNewWindow.label "Yeni pencerede aç">
 <!ENTITY openTabInNewWindow.accesskey "c">
-<!ENTITY pinTab.label "Uygulama sekmesine sabitle">
-<!ENTITY pinTab.accesskey "U">
-<!ENTITY unpinTab.label "Normal sekmeye dönüştür">
-<!ENTITY unpinTab.accesskey "N">
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+
+<!ENTITY pinAppTab.label "Pin as App Tab">
+<!ENTITY pinAppTab.accesskey "P">
+<!ENTITY unpinAppTab.label "Unpin Tab">
+<!ENTITY unpinAppTab.accesskey "b">
 <!ENTITY moveToGroup.label "Gruba taşı">
 <!ENTITY moveToGroup.accesskey "t">
 <!ENTITY moveToNewGroup.label "Yeni grup">
-<!ENTITY bookmarkThisTab.label "Sekmeyi yer imlerine ekle">
-<!ENTITY bookmarkThisTab.accesskey "i">
 <!ENTITY bookmarkAllTabs.label "Tüm sekmeleri yer imlerine ekle...">
 <!ENTITY bookmarkAllTabs.accesskey "T">
 <!ENTITY undoCloseTab.label "Kapatılan sekmeyi aç">
@@ -98,8 +102,8 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
-<!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle…">
-<!ENTITY organizeBookmarks.label "Yer imlerini düzenle…">
+<!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle...">
+<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
 <!ENTITY bookmarkAllCmd.label "Sekmeleri yer imlerine ekle…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
 
@@ -168,6 +172,7 @@
 <!ENTITY downloadsUnix.commandkey "Y">
 <!ENTITY addons.label "Eklentiler">
 <!ENTITY addons.accesskey "E">
+<!ENTITY addons.commandkey "A">
 
 <!ENTITY errorConsoleCmd.label "Hata konsolu">
 <!ENTITY errorConsoleCmd.accesskey "k">
@@ -195,8 +200,8 @@
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label "Object">
-<!ENTITY inspectObjectButton.accesskey "O">
+<!ENTITY inspectObjectButton.label "Nesne">
+<!ENTITY inspectObjectButton.accesskey "N">
 
 <!ENTITY fileMenu.label "Dosya">
 <!ENTITY fileMenu.accesskey "s">
@@ -225,7 +230,7 @@
 <!ENTITY deleteCmd.key "d">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Tümünü seç">
-<!ENTITY selectAllCmd.key "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T">
 <!ENTITY preferencesCmd.label "Seçenekler…">
 <!ENTITY preferencesCmd.accesskey "S">
@@ -260,11 +265,13 @@
 <!ENTITY historyUndoMenu.label "Yeni kapatılan sekmeler">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Yeni kapatılan pencereler">
+<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
 
 <!ENTITY historyHomeCmd.label "Başlangıç">
 <!ENTITY showAllHistoryCmd2.label "Tüm geçmişi göster">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Edit">
 <!ENTITY appMenuCustomize.label "Özelleştir">
 <!ENTITY appMenuToolbarLayout.label "Araç çubuğu düzeni...">
 <!ENTITY appMenuSidebars.label "Kenar çubukları">
@@ -444,7 +451,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Kes">
 <!ENTITY copyButton.tooltip "Kopyala">
 <!ENTITY pasteButton.tooltip "Yapıştır">
+
 <!ENTITY fullScreenButton.tooltip "Pencereyi tam ekran göster">
+
+<!ENTITY zoomOutButton.tooltip "Zoom out">
+<!ENTITY zoomInButton.tooltip "Zoom in">
+<!ENTITY zoomControls.label "Zoom Controls">
 
 <!ENTITY quitApplicationCmdWin.label "Çık">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
@@ -529,14 +541,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncTabsMenu.label "Diğer bilgisayarlardaki sekmeler">
 
-<!ENTITY syncBrand.shortName.label "Eşitle">
+<!ENTITY syncBrand.shortName.label "Eşitleme">
 
 <!ENTITY syncMenu.label "&syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
                                               don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey "l">
-<!ENTITY syncSetup.label "&syncBrand.shortName.label; yapılandırması…">
-<!ENTITY syncSetup.accesskey "y">
+<!ENTITY syncMenu.accesskey "e">
+<!ENTITY syncSetup.label "&syncBrand.shortName.label; kurulumu...">
+<!ENTITY syncSetup.accesskey "d">
 <!ENTITY syncLogInItem.label "Bağlan">
 <!ENTITY syncLogInItem.accesskey "B">
 <!ENTITY syncLogOutItem.label "Bağlantıyı kes">

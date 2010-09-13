@@ -30,7 +30,7 @@
 <!ENTITY selectHelper.done "Tamamlandı">
 
 <!ENTITY addonsHeader.label "Eklentiler">
-<!ENTITY addonsLocal.label "Eklentilerim">
+<!ENTITY addonsLocal.label "Eklentileriniz">
 <!ENTITY addonsUpdate.label "Güncelle">
 <!ENTITY addonsRepo.label "Eklenti edin">
 <!ENTITY addonsRecommended.label "Tavsiye edilen">
@@ -87,6 +87,7 @@
 <!ENTITY consoleErrColumn.label "Sütun:">
 
 <!ENTITY contextOpenInNewTab.label "Bağlantıyı yeni sekmede aç">
+<!ENTITY contextSaveLink.label "Save Link">
 <!ENTITY contextSaveImage.label "Resmi kaydet">
 <!ENTITY contextShareLink.label "Bağlantıyı Paylaş">
 <!ENTITY contextShareImage.label "Resmi Paylaş">

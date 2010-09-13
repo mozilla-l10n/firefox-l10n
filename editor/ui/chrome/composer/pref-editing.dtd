@@ -2,7 +2,7 @@
 
 <!ENTITY authorName.label "Yazar:">
 <!ENTITY authorName.accesskey "a">
-<!ENTITY pageColorHeader "Öntanımlı sayfa görünüşü">
+<!ENTITY pageColorHeader "Öntanımlı sayfa görünümü">
 
 <!ENTITY defaultColors.label "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
 <!ENTITY defaultColors.accesskey "t">

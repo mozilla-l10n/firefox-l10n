@@ -15,6 +15,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Kimlik dizini">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Devredeki yan uygulamalar">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Yapılandırma">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
 <!ENTITY aboutSupport.show.label "Bulunduğu dizini aç">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

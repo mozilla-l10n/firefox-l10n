@@ -24,8 +24,8 @@
 <!ENTITY helpTroubleshootingInfo.label "Sorun giderme bilgileri">
 <!ENTITY helpTroubleshootingInfo.accesskey "S">
 
-<!ENTITY helpFeedbackPage.label "Submit Feedback…">
-<!ENTITY helpFeedbackPage.accesskey "S">
+<!ENTITY helpFeedbackPage.label "Geri bildirim gönder...">
+<!ENTITY helpFeedbackPage.accesskey "G">
 
 <!ENTITY updateCmd.label "Güncellemeleri denetle…">
 
