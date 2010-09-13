@@ -99,6 +99,10 @@
 <!ENTITY permInstall "Instalovat doplňky">
 <!ENTITY permGeo "Prozradit polohu">
 
+<!ENTITY permIndexedDB "Správa offline úložiště">
+<!ENTITY permClearStorage "Vymazat úložiště">
+<!ENTITY permClearStorage.accesskey "m">
+
 <!ENTITY securityTab "Bezpečnost">
 <!ENTITY securityTab.accesskey "B">
 <!ENTITY securityHeader "Bezpečnostní informace o této stránce">

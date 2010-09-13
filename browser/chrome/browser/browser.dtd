@@ -452,6 +452,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pasteButton.tooltip "Vložit">
 <!ENTITY fullScreenButton.tooltip "Zobrazí okno v režimu celé obrazovky">
 
+<!ENTITY zoomOutButton.tooltip "Oddálí">
+<!ENTITY zoomInButton.tooltip "Přiblíží">
+<!ENTITY zoomControls.label "Lupa">
+
 <!ENTITY quitApplicationCmdWin.label "Ukončit">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
 <!ENTITY goBackCmd.commandKey "[">
