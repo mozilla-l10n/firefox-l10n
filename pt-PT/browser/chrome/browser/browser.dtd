@@ -133,13 +133,14 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title "Marcadores">
 
 <!-- Toolbar items --> 
-<!ENTITY homeButton.label "Início">
-<!ENTITY tabViewButton2.label          "Conjuntos de separadores">
-<!ENTITY tabViewButton2.tooltip        "Abrir um separador de interface visual">
+<!ENTITY appMenuButton.label          "Menu">
+<!ENTITY homeButton.label             "Início">
+<!ENTITY tabViewButton2.label         "Conjuntos de separadores">
+<!ENTITY tabViewButton2.tooltip       "Abrir um separador de interface visual">
 
-<!ENTITY bookmarksButton.label "Marcadores">
-<!ENTITY bookmarksButton.tooltip "Mostra os marcadores">
-<!ENTITY bookmarksButton.accesskey  "m">
+<!ENTITY bookmarksButton.label        "Marcadores">
+<!ENTITY bookmarksButton.tooltip      "Mostrar os seus marcadores">
+<!ENTITY bookmarksButton.accesskey    "m">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
