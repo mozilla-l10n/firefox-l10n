@@ -23,21 +23,18 @@
 <!ENTITY syncPrefsCaption.label       "Browsersynchronisatie">
 <!ENTITY syncComputerName.label       "Computernaam:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; zal: ">
-<!ENTITY syncModeSwitchDesc.accesskey "z">
-<!ENTITY syncEverything.label         "Alles synchroniseren">
-<!ENTITY customSync.label             "Mijn aangepaste instellingen gebruiken">
-<!ENTITY syncEverythingDescription.label  "Uw bladwijzers, geschiedenis, wachtwoorden, voorkeuren en tabbladen zullen worden gesynchroniseerd.">
-<!ENTITY syncItem.bookmarks.label     "Bladwijzers synchroniseren">
-<!ENTITY syncItem.bookmarks.accesskey "B">
-<!ENTITY syncItem.tabs.label          "Tabbladen synchroniseren">
-<!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "Geschiedenis synchroniseren">
-<!ENTITY syncItem.history.accesskey   "G">
-<!ENTITY syncItem.passwords.label     "Wachtwoorden synchroniseren">
-<!ENTITY syncItem.passwords.accesskey "W">
-<!ENTITY syncItem.prefs.label         "Voorkeuren synchroniseren">
-<!ENTITY syncItem.prefs.accesskey     "V">
+
+<!ENTITY syncMy.label               "Synchroniseer mijn">
+<!ENTITY engine.bookmarks.label     "Bladwijzers">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "Tabbladen">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Geschiedenis">
+<!ENTITY engine.history.accesskey   "G">
+<!ENTITY engine.passwords.label     "Wachtwoorden">
+<!ENTITY engine.passwords.accesskey "W">
+<!ENTITY engine.prefs.label         "Voorkeuren">
+<!ENTITY engine.prefs.accesskey     "V">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Servicevoorwaarden (en)">
