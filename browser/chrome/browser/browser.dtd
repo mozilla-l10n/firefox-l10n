@@ -20,10 +20,16 @@
 <!ENTITY  closeOtherTabs.accesskey           "e">
 <!ENTITY  openTabInNewWindow.label           "Openen in een nieuw venster">
 <!ENTITY  openTabInNewWindow.accesskey       "w">
-<!ENTITY  pinTab.label                       "Verander naar app tabbladen">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Verander naar normale tabbladen">
-<!ENTITY  unpinTab.accesskey                 "o">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Pin als App tabblad">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "Tabbladpin verwijderen">
+<!ENTITY  unpinAppTab.accesskey              "b">
 <!ENTITY  moveToGroup.label                  "Naar groep verplaatsen">
 <!ENTITY  moveToGroup.accesskey              "v">
 <!ENTITY  moveToNewGroup.label               "Nieuw groep">
