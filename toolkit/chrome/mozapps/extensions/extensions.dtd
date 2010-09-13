@@ -48,6 +48,8 @@
 <!ENTITY updates.restart.label "Restartovat pro dokončení instalace">
 <!ENTITY updates.noneFound.label "Nebyly nalezeny žádné aktualizace">
 <!ENTITY updates.manualUpdatesFound.label "Zobrazit dostupné aktualizace">
+<!ENTITY updates.updateSelected.label "Instalovat aktualizace">
+<!ENTITY updates.updateSelected.tooltip "Nainstaluje zvolené aktualizace">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label "Zobrazit více informací">
@@ -116,7 +118,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.label "Hodnocení:">
+<!ENTITY rating2.label "Hodnocení">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip "Pozastavit">
@@ -141,9 +143,15 @@
 <!ENTITY addon.details.label "Více">
 <!ENTITY addon.details.tooltip "Zobrazí více informací o doplňku">
 <!ENTITY addon.unknownDate "Neznámá">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix "(zakázáno)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
-<!ENTITY addon.update.postfix "Aktualizovat">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix "(aktualizovat)">
 <!ENTITY addon.undoAction.label "Zpět">
 <!ENTITY addon.undoAction.tooltip "Vrátí tuto akci">
 <!ENTITY addon.undoRemove.label "Zpět">
@@ -153,6 +161,8 @@
 <!ENTITY addon.install.tooltip "Nainstaluje doplněk">
 <!ENTITY addon.updateNow.label "Aktuaizovat">
 <!ENTITY addon.updateNow.tooltip "Nainstaluje aktualizaci tohoto doplňku">
+<!ENTITY addon.includeUpdate.label "Aktualizace obsahuje">
+<!ENTITY addon.updateAvailable.label "Aktualize je dostupná">
 <!ENTITY addon.checkingForUpdates.label "Kontrola aktualizací…">
 <!ENTITY addon.releaseNotes.label "Poznámky k vydání:">
 <!ENTITY addon.loadingReleaseNotes.label "Nahrávání…">

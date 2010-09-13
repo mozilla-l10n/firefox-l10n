@@ -1,7 +1,6 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label "Nastavit &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey "N">
-
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; umožňuje synchronizaci historie, záložek, hesel a otevřených panelů napříč všemi zařízeními.">
 
 <!-- The page shown when logged in... -->
@@ -16,7 +15,7 @@
 <!ENTITY manageAccount.label "Správa účtu">
 <!ENTITY manageAccount.accesskey "S">
 <!ENTITY changePassword.label "Změnit heslo">
-<!ENTITY changePassphrase.label "Změnit tajnou frázi">
+<!ENTITY mySyncKey.label "Můj klíč">
 <!ENTITY resetSync.label "Změnit typ synchronizace">
 <!ENTITY differentAccount.label "Použít jiný účet">
 
@@ -24,21 +23,18 @@
 <!ENTITY syncPrefsCaption.label "Synchronizace">
 <!ENTITY syncComputerName.label "Jméno počítače:">
 <!ENTITY syncComputerName.accesskey "J">
-<!ENTITY syncModeSwitchDesc.label "&brandShortName; bude: ">
-<!ENTITY syncModeSwitchDesc.accesskey "b">
-<!ENTITY syncEverything.label "Synchronizovat vše">
-<!ENTITY customSync.label "Použít vlastní nastavení">
-<!ENTITY syncEverythingDescription.label "Synchronizovány budou záložky, historie, hesla, předvolby a panely.">
-<!ENTITY syncItem.bookmarks.label "Synchronizovat záložky">
-<!ENTITY syncItem.bookmarks.accesskey "z">
-<!ENTITY syncItem.tabs.label "Synchronizovat panely">
-<!ENTITY syncItem.tabs.accesskey "T">
-<!ENTITY syncItem.history.label "Synchronizovat historii">
-<!ENTITY syncItem.history.accesskey "r">
-<!ENTITY syncItem.passwords.label "Synchronizovat hesla">
-<!ENTITY syncItem.passwords.accesskey "h">
-<!ENTITY syncItem.prefs.label "Synchronizovat předvolby">
-<!ENTITY syncItem.prefs.accesskey "S">
+
+<!ENTITY syncMy.label "Synchronizovat">
+<!ENTITY engine.bookmarks.label "Záložky">
+<!ENTITY engine.bookmarks.accesskey "Z">
+<!ENTITY engine.tabs.label "Panely">
+<!ENTITY engine.tabs.accesskey "P">
+<!ENTITY engine.history.label "Historie">
+<!ENTITY engine.history.accesskey "H">
+<!ENTITY engine.passwords.label "Hesla">
+<!ENTITY engine.passwords.accesskey "e">
+<!ENTITY engine.prefs.label "Předvolby">
+<!ENTITY engine.prefs.accesskey "v">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label "Podmínky služby">

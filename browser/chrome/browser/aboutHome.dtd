@@ -5,12 +5,9 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "Startovní stránka aplikace &brandFullName;">
-<!ENTITY abouthome.brandLogo.title "Logo &brandFullName;">
 
 <!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> start">
-
-<!ENTITY abouthome.searchEngineLogo.title "Logo vyhledávače">
 
 <!ENTITY abouthome.searchEngineButton.label "Hledat">
 
