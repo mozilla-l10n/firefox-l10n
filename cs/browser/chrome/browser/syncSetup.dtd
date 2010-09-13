@@ -2,9 +2,9 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY setup.pickSetupType.description "Vítejte! Jestliže jste nikdy &syncBrand.fullName.label; nepoužili, budete si muset vytvořit nový účet.">
+<!ENTITY button.createNewAccount.label "Vytvořit nový účet">
+<!ENTITY button.haveAccount.label "Již mám účet &syncBrand.fullName.label;">
 
 <!ENTITY setup.choicePage.title.label "Znáte a požíváte &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label "&syncBrand.shortName.label; neznám a nepoužívám">
@@ -18,11 +18,11 @@
 <!ENTITY signIn.username.accesskey "U">
 <!ENTITY signIn.password.label "Heslo">
 <!ENTITY signIn.password.accesskey "H">
-<!ENTITY signIn.serverURL.label "URL serveru">
-<!ENTITY signIn.serverURL.accesskey "s">
+<!ENTITY signIn.serverURL.label "Adresa serveru">
+<!ENTITY signIn.serverURL.accesskey "A">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
+<!ENTITY setup.newAccountDetailsPage.title.label "Podrobnosti účtu">
 <!ENTITY setup.confirmPassword.label "Kontrola hesla">
 <!ENTITY setup.confirmPassword.accesskey "K">
 <!ENTITY setup.emailAddress.label "E-mailová adresa">
@@ -38,22 +38,22 @@
 <!ENTITY setup.tosAgree2.accesskey "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; pečuje o vaše soukromí">
+<!ENTITY setup.newSyncKeyPage.description.label "Z důvodu zajištění vašeho soukromí jsou všechna vaše data před nahráváním na server zašifrována. Klíč potřebný k rozšifrování vašich dat nahrán není.">
+<!ENTITY syncKeyEntry.label "Klíč">
+<!ENTITY syncKeyEntry.accesskey "K">
+<!ENTITY syncKeyGenerate.label "Vygenerovat">
+<!ENTITY syncKeyBackup.description "Tento klíč je vyžadován k přístupu k &syncBrand.fullName.label; z ostatních zařízení. Vytvořte si prosím zálohu, neboť tento klíč není možné obnovit.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Email…">
+<!ENTITY button.syncKeyBackup.email.label "E-mail…">
 <!ENTITY button.syncKeyBackup.email.accesskey "E">
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+<!ENTITY button.syncKeyBackup.print.label "Tisk…">
+<!ENTITY button.syncKeyBackup.print.accesskey "T">
+<!ENTITY button.syncKeyBackup.save.label "Uložit…">
+<!ENTITY button.syncKeyBackup.save.accesskey "U">
 
-<!ENTITY page.syncKeyBackup.title     "Your Firefox Sync Key">
-<!ENTITY page.syncKeyBackup.descr     "This secret key is used to encrypt your personal data. It is not uploaded to the server and cannot be recovered. Do not lose it or share with other people.">
+<!ENTITY page.syncKeyBackup.title "Váš klíč pro Firefox Sync">
+<!ENTITY page.syncKeyBackup.descr "Tento tajný klíč se používá k šifrování vašich osobních dat. Není nahráván na server a není ho možno obnovit. Neztraťte ho ani ho nesvěřujte ostatním lidem.">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label "Potvrďte prosím, že nejste robot">
@@ -64,45 +64,45 @@
 <!ENTITY connecting.label "Probíhá připojování…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY passphraseGroupbox.label "Vložit tajnou frázi">
-<!ENTITY passphraseDesc3.label "Zadejte prosím svou tajnou frázi. Musí se jednat o stejnou frázi, kterou jste použili pro zašifrování svých dat.">
-<!ENTITY passphraseHelp.label "Vaše tajná fráze je nejméně 12 znaků dlouhá a neodpovídá vašemu heslu. Svou tajnou frázi můžete nalézt uloženu na jiném počítači v uložených heslech v sekci Zabezpečení. Pokud stále nemůžete tajnou frázi najít, můžete ji zrušit. V takovém případě ovšem ztratíte všechna data, která máte na serveru uložena.">
-<!ENTITY changePassphrase.label "Změnit tajnou frázi">
+<!ENTITY setup.existingSyncKeyPage.title "Vložte prosím svůj klíč">
+<!ENTITY setup.existingSyncKeyPage.description "Svůj klíč jste vložili nebo byl automaticky vygenerován při vašem prvním přihlášení k službě &syncBrand.fullName.label;. Klíč není to samé co vaše heslo.">
+<!ENTITY existingSyncKeyHelp.description "Váš klíč můžete nalézt uložený v ostatních prohlížečích v dialogu uložených hesel v panelu soukromí. Pokud stále svůj klíč neznáte, můžete ho nahradit novým. V takovém případě ovšem ztratíte všechna data, která máte na serveru uložena.">
+<!ENTITY lostSyncKey.label "Ztratil jsem svůj klíč">
 <!ENTITY verifying.label "Ověřování…">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY setup.optionsPage.title "Možnosti synchronizace">
+<!ENTITY syncComputerName.label "Jméno počítače:">
+<!ENTITY syncComputerName.accesskey "J">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY syncMy.label "Synchronizovat">
+<!ENTITY engine.bookmarks.label "Záložky">
+<!ENTITY engine.bookmarks.accesskey "Z">
+<!ENTITY engine.tabs.label "Panely">
+<!ENTITY engine.tabs.accesskey "P">
+<!ENTITY engine.history.label "Historie">
+<!ENTITY engine.history.accesskey "H">
+<!ENTITY engine.passwords.label "Hesla">
+<!ENTITY engine.passwords.accesskey "e">
+<!ENTITY engine.prefs.label "Předvolby">
+<!ENTITY engine.prefs.accesskey "v">
 
-<!ENTITY choice.merge.main.label "Sloučit data na tomto počítači s daty &syncBrand.fullName.label;">
-<!ENTITY choice.merge.recommend.label "Tato volba je Mozillou silně doporučena pro všechny uživatele.">
-<!ENTITY choice.client.main.label "Nahradit všechna data na tomto počítači daty z vašeho &syncBrand.fullName.label;">
-<!ENTITY choice.server.main.label "Nahradit data na ostatních zařízeních lokálními daty">
+<!ENTITY choice2.merge.main.label "Sloučit data na tomto počítači s daty &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Doporučováno:">
+<!ENTITY choice2.client.main.label "Nahradit všechna data na tomto počítači daty z vašeho &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label "Nahradit data na ostatních zařízeních data na tomto počítači">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Potvrdit">
 <!ENTITY confirm.merge.label "Zvolili jste sloučení dat na tomto počítači s daty na ostatních zařízeních, kde běží &syncBrand.fullName.label;.">
 <!ENTITY confirm.client.label "Všechna data aplikace &brandShortName; na tomto počítači budou smazána, a to včetně následujících:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; poté nakopíruje data &syncBrand.fullName.label; na tento počítač.">
-<!ENTITY confirm.client.warning.label "UPOZORNĚNÍ: Tímto krokem nahradíte všechna data aplikace &brandShortName; na tomto počítači!">
+<!ENTITY confirm.client.warning.label "Upozornění: Tímto krokem nahradíte všechna data aplikace &brandShortName; na tomto počítači!">
 <!ENTITY confirm.server.label "Na následujících zařízeních dojde k přepsání dat těmi lokálními">
-<!ENTITY confirm.server.warning.label "UPOZORNĚNÍ: Vaše lokální data nahradí všechna data aplikace &brandShortName; na těchto zařízeních!">
+<!ENTITY confirm.server.warning.label "Upozornění: Vaše lokální data nahradí všechna data aplikace &brandShortName; na těchto zařízeních!">
 
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label "Nastavení dokončeno!">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "Nastavení dokončeno!">
+<!ENTITY changeOptions.label "Vaše nastavení lze změnit v dialogu možnosti Sync níže.">
+<!ENTITY continueUsing.label "Nyní můžete pokračovat v používání aplikace &brandShortName;.">

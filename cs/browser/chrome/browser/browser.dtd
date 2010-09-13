@@ -20,10 +20,16 @@
 <!ENTITY closeOtherTabs.accesskey "v">
 <!ENTITY openTabInNewWindow.label "Otevřít v novém okně">
 <!ENTITY openTabInNewWindow.accesskey "k">
-<!ENTITY pinTab.label "Připnout panel">
-<!ENTITY pinTab.accesskey "a">
-<!ENTITY unpinTab.label "Odepnout panel">
-<!ENTITY unpinTab.accesskey "a">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY pinAppTab.label "Připnout panel">
+<!ENTITY pinAppTab.accesskey "a">
+<!ENTITY unpinAppTab.label "Odepnout panel">
+<!ENTITY unpinAppTab.accesskey "a">
 <!ENTITY moveToGroup.label "Přesunout do skupiny">
 <!ENTITY moveToGroup.accesskey "s">
 <!ENTITY moveToNewGroup.label "Nová skupina">
@@ -259,11 +265,13 @@
 <!ENTITY historyUndoMenu.label "Naposledy zavřené panely">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Naposledy zavřená okna">
+<!ENTITY historyRestoreLastSession.label "Obnovit předchozí relaci">
 
 <!ENTITY historyHomeCmd.label "Domů">
 <!ENTITY showAllHistoryCmd2.label "Zobrazit celou historii">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Upravit">
 <!ENTITY appMenuCustomize.label "Přizpůsobit">
 <!ENTITY appMenuToolbarLayout.label "Rozložení lišt…">
 <!ENTITY appMenuSidebars.label "Postranní lišty">
