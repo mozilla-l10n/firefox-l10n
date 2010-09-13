@@ -51,7 +51,6 @@
 <!ENTITY useCacheAfter.label             "MB ruimte gebruiken voor de buffer">
 <!ENTITY clearCacheNow.label             "Nu wissen">
 <!ENTITY clearCacheNow.accesskey         "w">
-<!ENTITY smartSizeCache.label            "Laat &brandShortName; de grootte van mijn cache beheren.">
 
 <!ENTITY updateTab.label                 "Update">
 
