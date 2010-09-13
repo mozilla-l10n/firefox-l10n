@@ -264,6 +264,7 @@
 <!ENTITY showAllHistoryCmd2.label "Alle geschiedenis tonen">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
+<!ENTITY appMenuEdit.label "Bewerken">
 <!ENTITY appMenuCustomize.label "Aanpassen">
 <!ENTITY appMenuToolbarLayout.label "Werkbalkindeling…">
 <!ENTITY appMenuSidebars.label "Zijbalken">
