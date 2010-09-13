@@ -449,7 +449,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Knippen">
 <!ENTITY copyButton.tooltip             "Kopiëren">
 <!ENTITY pasteButton.tooltip            "Plakken">
+
 <!ENTITY fullScreenButton.tooltip       "Venster weergeven in volledig scherm">
+
+<!ENTITY zoomOutButton.tooltip          "Uitzoomen">
+<!ENTITY zoomInButton.tooltip           "Inzoomen">
+<!ENTITY zoomControls.label             "Zoombediening">
 
 <!ENTITY quitApplicationCmdWin.label       "Afsluiten">
 <!ENTITY quitApplicationCmdWin.accesskey   "A">
