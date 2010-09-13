@@ -5,12 +5,11 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "Pennbajenn &brandFullName;">
-<!ENTITY abouthome.brandLogo.title "Logo &brandFullName;">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
 <!ENTITY abouthome.brandStart "Loc'hañ <span>&brandShortName;</span>">
-
-<!ENTITY abouthome.searchEngineLogo.title "Logo ar c'heflusker enklask">
 
 <!ENTITY abouthome.searchEngineButton.label "Klask">
 
@@ -18,3 +17,12 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "Gwellvezioù">
 
 <!ENTITY abouthome.aboutMozilla "A-zivout Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Trugarez da vezañ dibabet Firefox ! A-benn kaout ar pep gwellañ eus ho merdeer, deskit traoù a-zivout ar <a>molladoù diwezhañ</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Aes eo da bersonelaat ho Firefox evel ma fell deoc'h henn ober. <a>Dibabit e-touez miliadoù a askouezhioù</a>.">

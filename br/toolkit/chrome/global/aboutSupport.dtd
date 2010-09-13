@@ -18,6 +18,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Kavlec'h an aelad">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Enlugelladoù gweredekaet">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Kefluniad kempunadur">
+<!ENTITY aboutSupport.appBasicsUserAgent "Gwazour arveriad">
 
 <!ENTITY aboutSupport.show.label "Digeriñ teuliad an arload">
 
@@ -31,8 +32,6 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsValue "Talvoud">
 
 <!ENTITY aboutSupport.graphicsTitle "Reizhiad kevregañ">
-<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
-<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D gweredekaet">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Roll istor staliadur">
 <!ENTITY aboutSupport.updateHistoryTitle "Roll istor hizivadur">

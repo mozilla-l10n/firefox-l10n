@@ -44,12 +44,18 @@
 
 <!ENTITY  details.link                    "Munudoù">
 
+<!ENTITY  error.title                     "C'hwitadenn war an hizivaat">
+
 <!ENTITY  error.label                     "Kudennoù zo bet evit klask, pellgargañ pe staliañ an hizivadur-mañ. &brandShortName; n'eo ket bet hizivaet rak :">
                                            
 <!ENTITY  errorManual.label               "Posubl eo deoc'h hizivaat &brandShortName; dre zorn en ur weladenniñ an ere-mañ ha pellgargañ an handelv diwezhañ :">
                                            
-<!ENTITY  errorpatching.title             "C'hwitadenn war an hizivaat">
 <!ENTITY  errorpatching.intro             "N'hall ket bezañ sevenet an hizivadur darnel. Klasket e vo en-dro gant &brandShortName; da bellgargañ un hizivadur klok.">
+
+<!ENTITY  errorCertAttrNoUpdate.label     "Emañ un dra bennak o virout &brandShortName; ouzh hizivaat gant un doare diarvar.
+                                           Mar plij, kit da wiriañ hoc'h eus an handelv diwezhañ eus &brandShortName; da :">
+<!ENTITY  errorCertAttrHasUpdate.label    "Emañ un dra bennak o klask touellañ &brandShortName; a-benn ma vo degemeret un
+                                           hizivadenn disur. Kit e darempred gant ardead ho rouedad ha goulennit skoazell.">
 
 <!ENTITY  finishedPage.title              "An hizivadur zo prest da vezañ staliet">
 <!ENTITY  finishedPage.text               "Staliet e vo an hizivadur ar wech a zeu ma vo loc'het &brandShortName;. Gallout a rit adloc'hañ &brandShortName; bremañ, pe kenderc'hel gant ho labour.">

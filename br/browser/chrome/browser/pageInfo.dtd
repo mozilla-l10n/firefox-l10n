@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Staliañ askouezhioù pe neuzioù">
 <!ENTITY  permGeo               "Rannañ ho lec'hiadur">
 
+<!ENTITY  permIndexedDB              "Mirout ar c'hadaviñ ezlinenn">
+<!ENTITY  permClearStorage           "Skarzhañ ar c'hadaviñ">
+<!ENTITY  permClearStorage.accesskey "c">
+
 <!ENTITY  securityTab           "Diogelroez">
 <!ENTITY  securityTab.accesskey "g">
 <!ENTITY  securityHeader        "Stlennoù a-fet diogelroez evit ar bajennad-mañ">

@@ -2,12 +2,16 @@
 
 <!-- First page of the wizard -->
 
+<!ENTITY setup.pickSetupType.description "Degemer mat, ma n'ho eus ket graet gant &syncBrand.fullName.label; a-raok e vo ret deoc'h krouiñ ur gont nevez.">
+<!ENTITY button.createNewAccount.label "Krouiñ ur gont nevez">
+<!ENTITY button.haveAccount.label "Ur gont evit &syncBrand.fullName.label; 'm eus">
+
 <!ENTITY setup.choicePage.title.label     "Arveret hoc'h eus &syncBrand.fullName.label; a-raok ?">
 <!ENTITY setup.choicePage.new.label       "Ne 'm eus ket arveret &syncBrand.shortName.label; a-raok">
 <!ENTITY setup.choicePage.existing.label  "Arverañ a ran &syncBrand.shortName.label; war un urzhiataer all">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Kennask ouzh">
+<!ENTITY server.label               "Dafariad">
 <!ENTITY serverType.main.label      "Dafariad &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "Arverañ un dafariad personelaet">
 <!ENTITY signIn.username.label      "Anv arveriad">
@@ -18,7 +22,7 @@
 <!ENTITY signIn.serverURL.accesskey "U">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "Krouiñ ur gont &syncBrand.shortName.label;">
+<!ENTITY setup.newAccountDetailsPage.title.label "Munudoù ar gont">
 <!ENTITY setup.confirmPassword.label  "Kadarnaat ar ger-tremen">
 <!ENTITY setup.confirmPassword.accesskey  "K">
 <!ENTITY setup.emailAddress.label     "Chomlec'h postel">
@@ -33,60 +37,64 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "a">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label       "Roit ho frazenn guzh">
-<!ENTITY passphraseDesc.label         "Roit ur frazenn guzh mar plij. Arveret e vo evit enrinegañ holl ho roadennoù a-benn ma vint haezet ganeoc'h nemetken. Na gollit ket anezhi 'ta rak n'eo ket enrollet war an dafariad !">
-<!ENTITY passphraseDesc2.label        "Rankout a ra enderc'hel 12 arouezenn d'an nebeutañ ha bezañ disheñvel diouzh ker-tremen ho kont.">
-<!ENTITY passphraseEntry.label        "Frazenn guzh">
-<!ENTITY passphraseEntry.accesskey    "F">
-<!ENTITY passphraseConfirm.label      "Kadarnaat">
-<!ENTITY passphraseConfirm.accesskey  "K">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; a daol evezh ouzh ho puhez prevez">
+<!ENTITY setup.newSyncKeyPage.description.label "A-benn gwareziñ ho puhez prevez e vo enrineget ho roadennoù holl kent bezañ kaset. Ne vo ket kaset an alc'hwez goubredañ ret a-benn ezrinegañ.">
+<!ENTITY syncKeyEntry.label        "Hoc'h alc'hwez goubredañ">
+<!ENTITY syncKeyEntry.accesskey    "H">
+<!ENTITY syncKeyGenerate.label     "Genel">
+<!ENTITY syncKeyBackup.description "Ezhomm ez eus hoc'h alc'hwez enrinegañ a-benn tizhout &syncBrand.fullName.label; war urzhiataerioù all. Mar plij, savit un eilad gwarediñ. N'hallimp ket reiñ skoazell deoc'h a-benn adtapout hoc'h alc'hwez goubredañ.">
 
-<!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Gwellvezioù ar goubredañ merdeer">
-<!ENTITY syncComputerName.label       "Anv an urzhiataer :">
-<!ENTITY syncComputerName.accesskey   "A">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; : ">
-<!ENTITY syncModeSwitchDesc.accesskey ":">
-<!ENTITY syncEverything.label         "a c'houbredo pep tra">
-<!ENTITY customSync.label             "a arvero ma arventennoù personelaet">
-<!ENTITY syncEverythingDescription.label  "Goubredet e vo ho sinedoù, ho roll istor, ho kerioù-tremen, ho kwellvezioù hag hoc'h ivinelloù.">
-<!ENTITY syncItem.bookmarks.label     "Goubredañ ar sinedoù">
-<!ENTITY syncItem.bookmarks.accesskey "s">
-<!ENTITY syncItem.tabs.label          "Goubredañ an ivinelloù">
-<!ENTITY syncItem.tabs.accesskey      "i">
-<!ENTITY syncItem.history.label       "Goubredañ ar roll istor">
-<!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Goubredañ ar gerioù-tremen">
-<!ENTITY syncItem.passwords.accesskey "G">
-<!ENTITY syncItem.prefs.label         "Goubredañ ar gwellvezioù">
-<!ENTITY syncItem.prefs.accesskey     "v">
+<!ENTITY button.syncKeyBackup.email.label     "Postel...">
+<!ENTITY button.syncKeyBackup.email.accesskey "e">
+<!ENTITY button.syncKeyBackup.print.label     "Moullañ…">
+<!ENTITY button.syncKeyBackup.print.accesskey "M">
+<!ENTITY button.syncKeyBackup.save.label      "Enrollañ…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "E">
 
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label     "Kadarnait n'oc'h ket ur robot ;)">
+<!ENTITY page.syncKeyBackup.title     "Hoc'h alc'hwez goubredañ evit Firefox">
+<!ENTITY page.syncKeyBackup.descr     "A-benn enrinegañ ho roadennoù personel ez arverer an alc'hwez kuzh-mañ. Ne vo ket kaset d'an dafariad ha n'hallo ket bezañ adtapet. Na gollit ket ha na rannit ket hoc'h alc'hwez gant tud all.">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Mar plij, kadarnait n'oc'h ket ur robot">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Roit titouroù ar gont">
 <!ENTITY resetPassword.label          "Adderaouekaat ar ger-tremen">
 <!ENTITY connecting.label             "O kennaskañ…">
 
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label     "Roit ar frazenn guzh">
-<!ENTITY passphraseDesc3.label        "Roit ho frazenn guzh mar plij. Rankout a ra bezañ ar memes frazenn guzh hoc'h eus arveret evit enrinegañ ho roadennoù.">
-<!ENTITY passphraseHelp.label         "Ho frazenn guzh a endalc'h 12 arouezenn d'an nebeutañ ha disheñvel eo diouzh ho ker-tremen. Gallout a rit kavout ho frazenn guzh enrollet war hoc'h urzhiataer all en ur wiriañ ar gerioù-tremen enrollet e-barzh &quot;Diogelroez&quot;. Ma ne c'hellit ket mui kavout ar frazenn guzh dereat e c'hellit adderaouekaat anezhañ met kollet e vo ar roadennoù enrollet war an dafariad.">
-<!ENTITY changePassphrase.label       "Kemm ar frazenn guzh">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Mar plij, enankit hoc'h alc'hwez goubredañ">
+<!ENTITY setup.existingSyncKeyPage.description "Ganet eo an alc'hwez goubredañ evidoc'h pe enanket eo bet ganeoc'h pa 'z oc'h bet enskrivet evit &syncBrand.fullName.label;. N'eo ket heñvel ouzh ho ker tremen.">
+<!ENTITY existingSyncKeyHelp.description "Kavet e vez hoc'h alc'hwez goubredañ en ur vont d'hoc'h urzhiataer all hag en ur wiriañ ar ger tremen enrollet gant diogelroez. Ma ne viot ket evit kaout an alc'hwez goubredañ dereat e c'hallot e adderaouekaat, kollet e vo an holl roadennoù enrollet war an dafariad avat.">
+<!ENTITY lostSyncKey.label            "Kollet em eus ma alc'hwez goubredañ">
 <!ENTITY verifying.label              "O wiriañ…">
 
-<!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "Penaos e fell deoc'h deraouekaat ?">
-<!ENTITY choice.merge.main.label      "Toueziañ roadennoù an urzhiater-mañ ha roadennoù &syncBrand.shortName.label;">
-<!ENTITY choice.merge.recommend.label "Erbedet eo an dibarzh-mañ gant Mozilla evit an holl arveriaded.">
-<!ENTITY choice.client.main.label     "Amsaviñ an holl roadennoù war an urzhiataer-mañ gant ho roadennoù &syncBrand.fullName.label;">
-<!ENTITY choice.server.main.label     "Amsaviñ roadennoù an urzhiataerioù all gant ar roadennoù lec'hel">
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Dibarzhioù ar goubredañ">
+<!ENTITY syncComputerName.label       "Anv an urzhiataer :">
+<!ENTITY syncComputerName.accesskey   "A">
 
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label        "Kadarnait ho tibab">
-<!ENTITY confirm.merge.label          "Dibabet hoc'h eus toueziañ ho roadennoù war an urzhiataer-mañ ha roadennoù hoc'h urzhiataerioù all en ur arverañ &syncBrand.fullName.label;.">
+<!ENTITY syncMy.label               "Goubredañ ma">
+<!ENTITY engine.bookmarks.label     "Sinedoù">
+<!ENTITY engine.bookmarks.accesskey "S">
+<!ENTITY engine.tabs.label          "Ivinelloù">
+<!ENTITY engine.tabs.accesskey      "I">
+<!ENTITY engine.history.label       "Roll istor">
+<!ENTITY engine.history.accesskey   "R">
+<!ENTITY engine.passwords.label     "Gerioù-tremen">
+<!ENTITY engine.passwords.accesskey "G">
+<!ENTITY engine.prefs.label         "Gwellvezioù">
+<!ENTITY engine.prefs.accesskey     "G">
+
+<!ENTITY choice2.merge.main.label      "Toueziañ roadennoù an urzhiataer-mañ gant ma roadennoù eus &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Erbedet :">
+<!ENTITY choice2.client.main.label     "Amsaviñ holl roadennoù an urzhiataer-mañ gant ma roadennoù eus &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Amsaviñ an holl drevnadoù all gant roadennoù an urzhiataer-mañ">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Kadarnaat">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; a douezio holl roadennoù merdeer an urzhiataer-mañ en ho kont c'houbredañ.">
 <!ENTITY confirm.client.label         "Holl roadennoù &brandShortName; war an urzhiataer-mañ a vo dilamet, en o zouez :">
 <!ENTITY confirm.client.moreinfo.label "Eilet e vo goude ho roadennoù &syncBrand.fullName.label; war an urzhiater-mañ gant &brandShortName;.">
 <!ENTITY confirm.client.warning.label "DIWALLIT : Amsavet e vo an holl roadennoù eus &brandShortName; war an urzhiataer-mañ !">
@@ -94,5 +102,6 @@
 <!ENTITY confirm.server.warning.label "DIWALLIT : Ho roadennoù lec'hel a amsavo holl roadennoù &brandShortName; war an urzhiataerioù-mañ !">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "Kefluniañ echu!">
-<!ENTITY setup.successPage.desc.label    "Gourc'hemennoù ! Kefluniet eo &brandShortName; evit goubredañ ho roadennoù ent-emgefreek. Soñjit e staliañ &syncBrand.fullName.label; war holl hoc'h urzhiataerioù. Gallout a rit kenderc'hel arverañ &brandShortName;.">
+<!ENTITY setup.successPage.title "Echu eo ar c'hefluniadur">
+<!ENTITY changeOptions.label "Ar gwellvez-mañ a vez daskemmet en ur ziuzañ an dibarzhioù goubredañ amañ dindan.">
+<!ENTITY continueUsing.label "Bremañ e c'hallit kenderc'hel ober gant &brandShortName;.">

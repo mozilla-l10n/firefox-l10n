@@ -10,17 +10,30 @@
 <!ENTITY installFromFile.label                "Staliañ diouzh ur restr…">
 <!ENTITY installFromFile.accesskey            "i">
 
+<!ENTITY cmd.back.tooltip                     "Mont d'ar bajennad kent">
+<!ENTITY cmd.forward.tooltip                  "Mont d'ar bajennad war-lerc'h">
+
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "An holl askouezhioù zo bet diweredekaet gant ar mod diogelroez.">
+<!ENTITY warning.checkcompatibility.label          "Gwiriañ keverlec'hded an askouezhioù zo dizaotreet. Posubl eo deoc'h kaout askouezhioù nad int ket keverlec'h.">
+<!ENTITY warning.checkcompatibility.enable.label   "Gweredekaat">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Gweredekaat ar gwiriadur evit keverlec'hded an askouezh">
+<!ENTITY warning.updatesecurity.label              "Diweredekaet eo ar gwiriañ evit hizivaat an askouezhioù. Marteze e viot lakaet en arvar gant hizivadurioù.">
+<!ENTITY warning.updatesecurity.enable.label       "Gweredekaat">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Gweredekaat ar gwiriadur a-fet diogelroez hizivadur an askouezh">
+
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Klask">
 <!ENTITY view.discover.label                  "Kaout askouezhioù">
 <!ENTITY view.locales.label                   "Yezhoù">
 <!ENTITY view.searchengines.label             "Kefluskerioù klask">
 <!ENTITY view.features.label                  "Askouezhadennoù">
-<!ENTITY view.appearance.label                "Neuzioù">
+<!ENTITY view.appearance2.label               "Neuz">
 <!ENTITY view.plugins.label                   "Enlugelladoù">
 <!ENTITY view.recentUpdates.label             "Hizivadurioù nevesañ">
 <!ENTITY view.availableUpdates.label          "Hizivadurioù hegerz">
+<!ENTITY view.utilites.preferences.tooltip    "Dibarzhioù evit an holl enlugelladoù">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Gwellvezioù evit an holl askouezhioù">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Hizivaat an askouezhioù bremañ">
@@ -35,14 +48,18 @@
 <!ENTITY updates.restart.label                "Adloc'hañ bremañ evit peurechuiñ ar staliañ">
 <!ENTITY updates.noneFound.label              "Hizivadur ebet kavet">
 <!ENTITY updates.manualUpdatesFound.label     "Gwelout an hizivadurioù hegerz">
+<!ENTITY updates.updateSelected.label         "Staliañ Hizivadurioù">
+<!ENTITY updates.updateSelected.tooltip       "Staliañ an hizivadennoù hegerz war ar roll-mañ">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Diskouez muioc'h a stlennoù">
 <!ENTITY cmd.showDetails.accesskey            "s">
 <!ENTITY cmd.findUpdates.label                "Klask hizivadurioù">
 <!ENTITY cmd.findUpdates.accesskey            "K">
-<!ENTITY cmd.preferences.label                "Gwellvezioù">
-<!ENTITY cmd.preferences.accesskey            "G">
+<!ENTITY cmd.preferencesWin.label             "Dibarzhioù">
+<!ENTITY cmd.preferencesWin.accesskey         "o">
+<!ENTITY cmd.preferencesUnix.label            "Gwellvezioù">
+<!ENTITY cmd.preferencesUnix.accesskey        "G">
 <!ENTITY cmd.about.label                      "A-zivout">
 <!ENTITY cmd.about.accesskey                  "A">
 
@@ -50,10 +67,18 @@
 <!ENTITY cmd.enableAddon.accesskey            "e">
 <!ENTITY cmd.disableAddon.label               "Diweredekaat">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Lakaat un neuz">
+<!ENTITY cmd.enableTheme.accesskey            "L">
+<!ENTITY cmd.disableTheme.label               "Lemel an neuz">
+<!ENTITY cmd.disableTheme.accesskey           "L">
+<!ENTITY cmd.installAddon.label               "Staliañ">
+<!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Dilemel">
 <!ENTITY cmd.uninstallAddon.accesskey         "D">
-<!ENTITY cmd.showPreferences.label            "Gwellvezioù">
-<!ENTITY cmd.showPreferences.tooltip          "Kemmañ gwellvezioù an askouezh-mañ">
+<!ENTITY cmd.showPreferencesWin.label         "Dibarzhioù">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Kemmañ dibarzhioù an askouezh-mañ">
+<!ENTITY cmd.showPreferencesUnix.label        "Gwellvezioù">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Kemmañ gwellvezioù an askouezh-mañ">
 <!ENTITY cmd.contribute.label                 "Kenoberiañ">
 <!ENTITY cmd.contribute.accesskey             "K">
 <!ENTITY cmd.contribute.tooltip               "Kenoberiañ da ziorren an askouezh-mañ">
@@ -65,24 +90,35 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Handelv">
-<!ENTITY detail.updated.label                 "Hizivaet">
+<!ENTITY detail.lastupdated.label             "Hizivadur diwezhañ">
 <!ENTITY detail.creator.label                 "Diorrenour">
 <!ENTITY detail.homepage.label                "Pennbajenn">
 <!ENTITY detail.numberOfDownloads.label       "Pellgargadurioù">
 
-<!ENTITY detail.updateAutomatically.label     "Hizivaat ent emgefreek">
-<!ENTITY detail.updateAutomatically.accesskey "H">
-<!ENTITY detail.updateAutomatically.tooltip   "Hizivaat an askouezh-mañ ent emgefreek pa vez un hizivadenn hegerz">
-<!ENTITY detail.checkForUpdates.label         "Gwiriañ an hizivadurioù">
+<!ENTITY detail.contributions.description     "Goulenn a ra paotr an diorren ma vefe skoazellet diorrenadur an askouezh-mañ ganeoc'h dre ur berzhadenn-arc'hant vihan.">
+
+<!ENTITY detail.updateType                    "Hizivadurioù emgefreek">
+<!ENTITY detail.updateAutomatic.label         "Gweredekaet">
+<!ENTITY detail.updateAutomatic.tooltip       "Staliañ an hizivadurioù ent-emgefreek">
+<!ENTITY detail.updateManual.label            "Diweredekaet">
+<!ENTITY detail.updateManual.tooltip          "Arabat staliañ an hizivadennoù ent-emgefreek">
+<!ENTITY detail.home                          "Pennbajenn">
+<!ENTITY detail.repository                    "Aelad an askouezh">
+<!ENTITY detail.size                          "Ment">
+
+<!ENTITY detail.checkForUpdates.label         "Gwiriañ mar bez hizivadurioù d'ober">
 <!ENTITY detail.checkForUpdates.accesskey     "G">
 <!ENTITY detail.checkForUpdates.tooltip       "Gwiriañ hag-eñ ez eus hizivadennoù hegerz evit an askouezh-mañ">
-<!ENTITY detail.showPreferences.label         "Gwellvezioù">
-<!ENTITY detail.showPreferences.accesskey     "G">
-<!ENTITY detail.showPreferences.tooltip       "Kemmañ gwellvezioù an askouezh-mañ">
+<!ENTITY detail.showPreferencesWin.label      "Dibarzhioù">
+<!ENTITY detail.showPreferencesWin.accesskey  "o">
+<!ENTITY detail.showPreferencesWin.tooltip    "Kemmañ dibarzhioù an askouezh-mañ">
+<!ENTITY detail.showPreferencesUnix.label     "Gwellvezioù">
+<!ENTITY detail.showPreferencesUnix.accesskey "G">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Kemmañ gwellvezioù an askouezh-mañ">
 
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Prizadur :">
+<!ENTITY rating2.label                        "Prizadur">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Ehan">
@@ -94,8 +130,8 @@
 <!ENTITY sort.name.tooltip                    "Rummañ dre anv">
 <!ENTITY sort.dateUpdated.label               "Hizivadur diwezhañ">
 <!ENTITY sort.dateUpdated.tooltip             "Rummañ dre an deiziad hizivadur">
-<!ENTITY sort.rating.label                    "Prizadur">
-<!ENTITY sort.rating.tooltip                  "Rummañ dre ar prizadur">
+<!ENTITY sort.relevance.label                 "Kenglotadenn wellañ">
+<!ENTITY sort.relevance.tooltip               "Rummañ dre zereadelezh">
 
 <!ENTITY search.filter2.label                 "Klask :">
 <!ENTITY search.filter2.installed.label       "Ma askouezhadennoù">
@@ -107,18 +143,26 @@
 <!ENTITY addon.details.label                  "Muioc'h">
 <!ENTITY addon.details.tooltip                "Diskouez muioc'h a ditouroù a-zivout an askouezhadenn-mañ">
 <!ENTITY addon.unknownDate                    "Dianav">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(diweredekaet)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix                 "Hizivaat">
-<!ENTITY addon.undo.label                     "Dizober ?">
-<!ENTITY addon.undo.tooltip                   "Dizober ar gwezh-mañ">
-<!ENTITY addon.undoUninstall.label            "Dizober ?">
-<!ENTITY addon.undoUninstall.tooltip          "Mirout an askouezh-mañ">
+<!ENTITY addon.undoAction.label               "Dizober">
+<!ENTITY addon.undoAction.tooltip             "Dizober ar gwezh-mañ">
+<!ENTITY addon.undoRemove.label               "Dizober">
+<!ENTITY addon.undoRemove.tooltip             "Mirout an askouezh-mañ">
 <!ENTITY addon.restartNow.label               "Adloc'hañ bremañ">
 <!ENTITY addon.install.label                  "Staliañ">
 <!ENTITY addon.install.tooltip                "Staliañ an askouezh-mañ">
 <!ENTITY addon.updateNow.label                "Hizivaat bremañ">
 <!ENTITY addon.updateNow.tooltip              "Staliañ an hizivadur evit an askouezh-mañ">
+<!ENTITY addon.includeUpdate.label            "Ensoc'hañ en hizivadur">
+<!ENTITY addon.updateAvailable.label          "Hegerz ez eus un hizivadenn">
 <!ENTITY addon.checkingForUpdates.label       "O wiriañ an hizivadurioù…">
 <!ENTITY addon.releaseNotes.label             "Notennoù handelv :">
 <!ENTITY addon.loadingReleaseNotes.label      "O kargañ…">

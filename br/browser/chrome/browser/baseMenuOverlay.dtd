@@ -24,6 +24,8 @@
 <!ENTITY helpTroubleshootingInfo.label      "Stlennoù disac'hadenn">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">
 
+<!ENTITY helpFeedbackPage.label      "Kas ar menoioù...">
+<!ENTITY helpFeedbackPage.accesskey  "s">
 
 <!ENTITY updateCmd.label                "Gwiriañ an hizivadurioù…">
 

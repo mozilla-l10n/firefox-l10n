@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label          "Ardeiñ ar gont">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY changePassword.label         "Kemm ar ger-tremen">
-<!ENTITY changePassphrase.label       "Kemm ar frazenn guzh">
+<!ENTITY mySyncKey.label              "Ma alc'hwez goubredañ">
 <!ENTITY resetSync.label              "Adderaouekaat ar goubredañ">
 <!ENTITY differentAccount.label       "Arverañ ur gont disheñvel">
 
@@ -23,21 +23,19 @@
 <!ENTITY syncPrefsCaption.label       "Goubredañ ar merdeer">
 <!ENTITY syncComputerName.label       "Anv an urzhiataer :">
 <!ENTITY syncComputerName.accesskey   "A">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; : ">
-<!ENTITY syncModeSwitchDesc.accesskey ":">
-<!ENTITY syncEverything.label         "a c'houbredo pep tra">
-<!ENTITY customSync.label             "a arvero ma arventennoù personelaet">
-<!ENTITY syncEverythingDescription.label  "Goubredet e vo ho sinedoù, ho roll istor, ho kerioù-tremen, ho kwellvezioù hag hoc'h ivinelloù.">
-<!ENTITY syncItem.bookmarks.label     "Goubredañ ar sinedoù">
-<!ENTITY syncItem.bookmarks.accesskey "G">
-<!ENTITY syncItem.tabs.label          "Goubredañ an ivinelloù">
-<!ENTITY syncItem.tabs.accesskey      "G">
-<!ENTITY syncItem.history.label       "Goubredañ ar roll istor">
-<!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Goubredañ ar gerioù-tremen">
-<!ENTITY syncItem.passwords.accesskey "G">
-<!ENTITY syncItem.prefs.label         "Goubredañ ar gwellvezioù">
-<!ENTITY syncItem.prefs.accesskey     "G">
+
+<!ENTITY syncMy.label               "Goubredañ ma">
+<!ENTITY engine.bookmarks.label     "Sinedoù">
+<!ENTITY engine.bookmarks.accesskey "S">
+<!ENTITY engine.tabs.label          "Ivinelloù">
+<!ENTITY engine.tabs.accesskey      "I">
+<!ENTITY engine.history.label       "Roll istor">
+<!ENTITY engine.history.accesskey   "R">
+<!ENTITY engine.passwords.label     "Gerioù-tremen">
+<!ENTITY engine.passwords.accesskey "G">
+<!ENTITY engine.prefs.label         "Gwellvezioù">
+<!ENTITY engine.prefs.accesskey     "G">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Divizoù arver">
