@@ -3,39 +3,39 @@
 <!ENTITY printJobOptions.title "Свойства на принтера">
 
 <!ENTITY paperInput.label "Размер на хартията:">
-<!ENTITY paperInput.accesskey "Р">
+<!ENTITY paperInput.accesskey "P">
 
 <!ENTITY plexInput.label "Режим plex:">
-<!ENTITY plexInput.accesskey "ж">
+<!ENTITY plexInput.accesskey "p">
 
 <!ENTITY resolutionInput.label "Разрешаваща способност/качество:">
-<!ENTITY resolutionInput.accesskey "з">
+<!ENTITY resolutionInput.accesskey "e">
 
 <!ENTITY cmdInput.label "Команда за печат:">
-<!ENTITY cmdInput.accesskey "К">
+<!ENTITY cmdInput.accesskey "o">
 
 <!ENTITY jobTitleInput.label "Заглавие на задача">
-<!ENTITY jobTitleInput.accesskey "ч">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Цвят:">
 <!ENTITY grayRadio.label "Степен на сивото">
-<!ENTITY grayRadio.accesskey "С">
+<!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "Цвят">
-<!ENTITY colorRadio.accesskey "Ц">
+<!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY colorspaceInput.label "Пространство на цветове">
-<!ENTITY colorspaceInput.accesskey "П">
+<!ENTITY colorspaceInput.accesskey "s">
 
 <!ENTITY fontsGroup.label "Шрифтове:">
 <!ENTITY downloadFonts.label "Изтегляне на шрифтове в принтера">
-<!ENTITY downloadFonts.accesskey "ш">
+<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "Празнина от края на хартията до полето (инчове)">
 <!ENTITY topInput.label "Отгоре:">
-<!ENTITY topInput.accesskey "г">
+<!ENTITY topInput.accesskey "T">
 <!ENTITY bottomInput.label "Отдолу:">
-<!ENTITY bottomInput.accesskey "д">
+<!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "Отляво:">
-<!ENTITY leftInput.accesskey "л">
+<!ENTITY leftInput.accesskey "L">
 <!ENTITY rightInput.label "Отдясно:">
-<!ENTITY rightInput.accesskey "д">
+<!ENTITY rightInput.accesskey "R">

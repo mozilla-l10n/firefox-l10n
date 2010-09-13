@@ -1,13 +1,11 @@
-<!ENTITY aboutDialog.title "Относно &brandFullName;">
-<!ENTITY copyright "Заслуги">
-<!ENTITY copyright.accesskey "З">
-<!ENTITY copyrightGNOME.accesskey "р">
-<!ENTITY aboutLink "&lt; Относно &brandFullName;">
-<!ENTITY aboutLink.accesskey "О">
-<!ENTITY aboutVersion "версия">
-<!ENTITY closeCmdGNOME.label "Затваряне">
-<!ENTITY closeCmdGNOME.accesskey "З">
-<!ENTITY copyrightInfo1 "&#169;1998-2009 сътрудници. Всички права запазени. (">
-<!ENTITY licenseLink "about:license">
-<!ENTITY licenseLinkText "Информация за лицензи">
-<!ENTITY copyrightInfo2 ").">
+<!ENTITY aboutDialog.title          "Относно &brandFullName;">
+<!ENTITY copyright                  "Заслуги">
+<!ENTITY copyright.accesskey        "C">
+<!ENTITY copyrightGNOME.accesskey   "р">
+<!ENTITY aboutLink                  "&lt; Относно &brandFullName;">
+<!ENTITY aboutLink.accesskey        "l">
+<!ENTITY aboutVersion               "версия">
+<!ENTITY closeCmdGNOME.label        "Затваряне">  
+<!ENTITY closeCmdGNOME.accesskey    "C">
+<!ENTITY licenseLinkText            "Информация за лицензи">
+<!ENTITY licenseLinkSuffix          ".">

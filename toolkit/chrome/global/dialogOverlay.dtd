@@ -38,8 +38,8 @@
 # WARNING!!! This file is obsoleted by the dialog.xml widget
 #
 -->
-<!-- OK Cancel Buttons -->
 
-<!ENTITY okButton.label "ОК">
-<!ENTITY cancelButton.label "Отказ">
-<!ENTITY helpButton.label "Помощ">
+<!-- OK Cancel Buttons -->
+<!ENTITY okButton.label      "ОК">
+<!ENTITY cancelButton.label  "Отказ">
+<!ENTITY helpButton.label    "Помощ">

@@ -1,14 +1,17 @@
-<!ENTITY newWindowsAsTabs.label "Отваряне на новите прозорци в нов подпрозорец">
-<!ENTITY newWindowsAsTabs.accesskey "п">
+<!ENTITY newWindowsAsTabs.label       "Отваряне на новите прозорци в нов подпрозорец">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label "Предупреждение при затваряне на няколко подпрозореца">
-<!ENTITY warnCloseMultipleTabs.accesskey "з">
+<!ENTITY warnCloseMultipleTabs.label  "Предупреждение при затваряне на няколко подпрозореца">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label "Предупреждение, когато отварянето на няколко подпрозореца може да забави &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "н">
+<!ENTITY warnOpenManyTabs.label       "Предупреждение, когато отварянето на няколко подпрозореца може да забави &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "b">
 
-<!ENTITY showTabBar.label "Показване на лентата с подпрозорци винаги">
-<!ENTITY showTabBar.accesskey "л">
+<!ENTITY showTabBar.label             "Показване на лентата с подпрозорци винаги">
+<!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label "Превключване към новоотворен подпрозорец">
-<!ENTITY switchToNewTabs.accesskey "о">
+<!ENTITY switchToNewTabs.label        "Превключване към новоотворен подпрозорец">
+<!ENTITY switchToNewTabs.accesskey    "s">
+
+<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.accesskey      "k">

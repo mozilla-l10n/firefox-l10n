@@ -37,32 +37,32 @@
 
 <!ENTITY errorConsole.title "Конзола на грешките">
 
-<!ENTITY errFile.label "Изходен файл:">
-<!ENTITY errLine.label "Ред:">
+<!ENTITY errFile.label   "Изходен файл:">
+<!ENTITY errLine.label   "Ред:">
 <!ENTITY errColumn.label "Колона:">
 
-<!ENTITY all.label "Всичко">
-<!ENTITY all.accesskey "В">
-<!ENTITY errors.label "Грешки">
-<!ENTITY errors.accesskey "Г">
-<!ENTITY warnings.label "Предупреждения">
-<!ENTITY warnings.accesskey "П">
-<!ENTITY messages.label "Съобщения">
-<!ENTITY messages.accesskey "С">
-<!ENTITY clear.label "Изчистване">
-<!ENTITY clear.accesskey "И">
-<!ENTITY codeEval.label "Код:">
-<!ENTITY codeEval.accesskey "К">
-<!ENTITY evaluate.label "Изчисляване">
-<!ENTITY evaluate.accesskey "И">
+<!ENTITY all.label          "Всичко">
+<!ENTITY all.accesskey      "A">
+<!ENTITY errors.label       "Грешки">
+<!ENTITY errors.accesskey   "E">
+<!ENTITY warnings.label     "Предупреждения">
+<!ENTITY warnings.accesskey "W">
+<!ENTITY messages.label     "Съобщения">
+<!ENTITY messages.accesskey "M">
+<!ENTITY clear.label        "Изчистване">
+<!ENTITY clear.accesskey    "C">
+<!ENTITY codeEval.label     "Код:">
+<!ENTITY codeEval.accesskey "o">
+<!ENTITY evaluate.label     "Изчисляване">
+<!ENTITY evaluate.accesskey "v">
 
-<!ENTITY copyCmd.label "Копиране">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "Сортиране пръв > последен">
-<!ENTITY sortFirst.accesskey "р">
-<!ENTITY sortLast.label "Сортиране последен > пръв">
-<!ENTITY sortLast.accesskey "о">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY copyCmd.label       "Копиране">  
+<!ENTITY copyCmd.accesskey   "C"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "Сортиране пръв > последен">
+<!ENTITY sortFirst.accesskey "F">
+<!ENTITY sortLast.label      "Сортиране последен > пръв">
+<!ENTITY sortLast.accesskey  "L">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

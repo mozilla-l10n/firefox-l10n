@@ -1,174 +1,171 @@
-<!ENTITY addons.title "Добавки">
-<!-- Default window size for the addon manager in pixels -->
+<!ENTITY addons.windowTitle                   "Мениджър на добавките">
+<!ENTITY search.placeholder                   "Търсене на всички добавки">
+<!ENTITY loading.label                        "Зареждане…">
+<!ENTITY listEmpty.installed.label            "Нямате инсталирани добавки от този вид">
+<!ENTITY listEmpty.availableUpdates.label     "Не бяха намерени обновявания">
+<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+<!ENTITY listEmpty.search.label               "Няма намерени съвпадащи добавки">
+<!ENTITY listEmpty.button.label               "Научете повече относно добавките">
+<!ENTITY installFromFile.label                "Install From File…">
+<!ENTITY installFromFile.accesskey            "I">
 
-<!ENTITY em.width "660">
-<!ENTITY em.height "380">
+<!ENTITY cmd.back.tooltip                     "Връщане назад с една страница">
+<!ENTITY cmd.forward.tooltip                  "Отиване напред с една страница">
 
-<!ENTITY cmd.info.commandKey "i">
-<!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
-<!-- View labels -->
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label   "Активиране">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label       "Активиране">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 
-<!ENTITY search.label "Добавки">
-<!ENTITY extensions.label "Разширения">
-<!ENTITY themes.label "Теми">
-<!ENTITY locales.label "Езици">
-<!ENTITY plugins.label "Приставки">
-<!ENTITY update.label "Обновявания">
-<!ENTITY install.label "Инсталиране">
-<!-- Command Bar items -->
+<!-- categories / views -->
+<!ENTITY view.search.label                    "Търсене">
+<!ENTITY view.discover.label                  "Изтегляне на добавки">
+<!ENTITY view.locales.label                   "Езици">
+<!ENTITY view.searchengines.label             "Търсачките">
+<!ENTITY view.features.label                  "Разширения">
+<!ENTITY view.appearance2.label               "Appearance">
+<!ENTITY view.plugins.label                   "Приставки">
+<!ENTITY view.recentUpdates.label             "Recent Updates">
+<!ENTITY view.availableUpdates.label          "Available Updates">
+<!ENTITY view.utilites.preferences.tooltip    "Options for all add-ons">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Preferences for all add-ons">
 
-<!ENTITY cmd.checkUpdatesAll.label "Проверка за обновявания">
-<!ENTITY cmd.checkUpdatesAll.accesskey "о">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Проверка за обновени добавки">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Проверка за обновени теми">
-<!ENTITY cmd.installLocalFile.label "Инсталиране…">
-<!ENTITY cmd.installLocalFile.accesskey "И">
-<!ENTITY cmd.installFileAddon.tooltip "Инсталиране на добавка">
-<!ENTITY cmd.installFileTheme.tooltip "Инсталиране на тема">
-<!ENTITY cmd.installUpdatesAll.label "Инсталиране на обновявания">
-<!ENTITY cmd.installUpdatesAll.accesskey "о">
-<!ENTITY cmd.installUpdatesAll.tooltip "Инсталиране на избраните обновявания">
-<!ENTITY cmd.restartApp2.label "Рестартиране на &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey "Р">
-<!ENTITY cmd.restartApp2.tooltip "Рестартирайте &brandShortName;, за да се задействат промените">
-<!ENTITY cmd.skip.label "Пропускане">
-<!ENTITY cmd.skip.accesskey "у">
-<!ENTITY cmd.skip.tooltip "Пропускане на тези обновявания">
-<!ENTITY cmd.continue.label "Продължаване">
-<!ENTITY cmd.continue.accesskey "П">
-<!ENTITY cmd.continue.tooltip "Продължаване на зареждането">
+<!-- addon updates -->
+<!ENTITY updates.updateAddonsNow.label        "Update Add-ons Now">
+<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.viewUpdates.label            "View Recent Updates">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.backgroudUpdateCheck.label   "Check for Updates Automatically">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
+<!ENTITY updates.updating.label               "Обновяване на добавките">
+<!ENTITY updates.installed.label              "Вашите добавки бяха обновени.">
+<!ENTITY updates.downloaded.label             "Обновяването за вашите добавки е изтеглено.">
+<!ENTITY updates.restart.label                "Рестартирайте сега за да завършите инсталацията">
+<!ENTITY updates.noneFound.label              "Не бяха намерени обновявания">
+<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
+<!ENTITY updates.updateSelected.label         "Install Updates">
+<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
 
-<!ENTITY cmd.enableAll.label "Включване на всичко">
-<!ENTITY cmd.enableAll.accesskey "ч">
-<!ENTITY cmd.enableAll.tooltip "Включване на всички показани добавки">
-<!ENTITY cmd.disableAll.label "Изключване на всичко">
-<!ENTITY cmd.disableAll.accesskey "И">
-<!ENTITY cmd.disableAll.tooltip "Изключване на всички показани добавки">
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Show More Information">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "Find Updates">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferencesWin.label             "Настройки">
+<!ENTITY cmd.preferencesWin.accesskey         "Н">
+<!ENTITY cmd.preferencesUnix.label            "Настройки">
+<!ENTITY cmd.preferencesUnix.accesskey        "Н">
+<!ENTITY cmd.about.label                      "Относно">
+<!ENTITY cmd.about.accesskey                  "О">
 
-<!ENTITY cmd.useTheme.label "Използване">
-<!ENTITY cmd.useTheme.accesskey "И">
-<!ENTITY cmd.useTheme.tooltip "Промяна на темата">
-<!ENTITY cmd.options.label "Настройки">
-<!ENTITY cmd.options.accesskey "Н">
-<!ENTITY cmd.options.tooltip "Задаване на опции на избраните разширения">
-<!ENTITY cmd.optionsUnix.label "Настройки">
-<!ENTITY cmd.optionsUnix.accesskey "Н">
-<!ENTITY cmd.optionsUnix.tooltip "Настройване на избраното разширение">
-<!ENTITY cmd.enable.label "Включване">
-<!ENTITY cmd.enable.accesskey "В">
-<!ENTITY cmd.enable.tooltip "Включване на тази добавка при рестартиране на &brandShortName;">
-<!ENTITY cmd.disable.label "Изключване">
-<!ENTITY cmd.disable.accesskey "И">
-<!ENTITY cmd.disable.tooltip "Изключване на тази добавка при рестартиране на &brandShortName;">
-<!ENTITY cmd.uninstall.label "Деинсталиране">
-<!ENTITY cmd.uninstall2.accesskey "Д">
-<!ENTITY cmd.uninstall2.tooltip "Деинсталиране на тази добавка при рестартиране на &brandShortName;">
-<!ENTITY cmd.cancelUninstall.label "Отмяна на деинсталирането">
-<!ENTITY cmd.cancelUninstall.accesskey "О">
-<!ENTITY cmd.cancelUninstall.tooltip "Отмяна на деинсталирането на тази добавка">
-<!ENTITY cmd.cancelInstall.label "Отмяна на инсталирането">
-<!ENTITY cmd.cancelInstall.accesskey "О">
-<!ENTITY cmd.cancelInstall.tooltip "Отмяна на инсталирането на тази добавка">
-<!ENTITY cmd.cancelUpgrade.label "Отмяна на надграждането">
-<!ENTITY cmd.cancelUpgrade.accesskey "О">
-<!ENTITY cmd.cancelUpgrade.tooltip "Отмяна надграждането на тази добавка">
-<!ENTITY cmd.installUpdate.label "Инсталиране на обновяването">
-<!ENTITY cmd.installUpdate.accesskey "И">
-<!ENTITY cmd.installUpdate.tooltip "Инсталиране на обновяване за тази добавка">
-<!ENTITY cmd.showUpdateInfo.label "Показване на информацията">
-<!ENTITY cmd.showUpdateInfo.accesskey "П">
-<!ENTITY cmd.showUpdateInfo.tooltip "Показване на информация за тези обновявания">
-<!ENTITY cmd.hideUpdateInfo.label "Скриване на информацията">
-<!ENTITY cmd.hideUpdateInfo.accesskey "С">
-<!ENTITY cmd.hideUpdateInfo.tooltip "Скриване на информацията за тези обновявания">
-<!ENTITY cmd.installSearchResult.label "Добавяне към &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "Д">
-<!ENTITY cmd.installSearchResult.tooltip "Изтегляне и инсталиране на добавката">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "Отмяна">
-<!ENTITY cancel.accesskey "О">
-<!ENTITY cancelInstall.label "Отмяна">
-<!ENTITY cancelInstall.accesskey "О">
-<!ENTITY cancelUpgrade.label "Отмяна">
-<!ENTITY cancelUpgrade.accesskey "О">
-<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.enableAddon.label                "Активиране">
+<!ENTITY cmd.enableAddon.accesskey            "А">
+<!ENTITY cmd.disableAddon.label               "Деактивиране">
+<!ENTITY cmd.disableAddon.accesskey           "Д">
+<!ENTITY cmd.enableTheme.label                "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.installAddon.label               "Инсталиране">
+<!ENTITY cmd.installAddon.accesskey           "И">
+<!ENTITY cmd.uninstallAddon.label             "Премахване">
+<!ENTITY cmd.uninstallAddon.accesskey         "П">
+<!ENTITY cmd.showPreferencesWin.label         "Настройки">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
+<!ENTITY cmd.showPreferencesUnix.label        "Настройки">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Сменяне на настройките на тази добавка">
+<!ENTITY cmd.contribute.label                 "Принос">
+<!ENTITY cmd.contribute.accesskey             "П">
+<!ENTITY cmd.contribute.tooltip               "Принос за развитието на тази добавка">
 
-<!ENTITY cmd.homepage.label "Отиване в началната страница">
-<!ENTITY cmd.homepage.accesskey "н">
-<!ENTITY cmd.about2.label "Относно тази добавка">
-<!ENTITY cmd.about.accesskey "О">
-<!ENTITY cmd.checkUpdate.label "Търсене на обновяване">
-<!ENTITY cmd.checkUpdate.accesskey "Т">
+<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
+<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
 
-<!ENTITY cmd.includeUpdate.label "Включване на обновяване">
-<!ENTITY cmd.includeUpdate.accesskey "В">
-<!ENTITY includeUpdate.label "Включване на това обновяване">
-<!ENTITY includeUpdate.accesskey "В">
-<!ENTITY includeUpdate.tooltip "Включване на тази добавка при инсталиране на обновяванията">
-<!-- Status Messsages -->
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Версия">
+<!ENTITY detail.lastupdated.label             "Последно обновен">
+<!ENTITY detail.creator.label                 "Разработчик">
+<!ENTITY detail.homepage.label                "Начална страница">
+<!ENTITY detail.numberOfDownloads.label       "Изтегляния">
 
-<!ENTITY insecureUpdate.label "Не предлага сигурни обновявания.">
-<!ENTITY needsDependencies.label "Изисква допълнителни елементи.">
-<!ENTITY blocklisted.label "Изключен за ваша защита.">
-<!ENTITY softBlocklisted.label "Известни с причиняването си на проблеми по безопасността и устойчивостта.">
-<!ENTITY toBeDisabled.label "Добавката ще бъде изключена при рестартиране на &brandShortName;.">
-<!ENTITY toBeEnabled.label "Добавката ще бъде включена при рестартиране на &brandShortName;.">
-<!ENTITY toBeInstalled.label "Добавката ще бъде инсталирана при рестартиране на &brandShortName;.">
-<!ENTITY toBeUninstalled.label "Добавката ще бъде деинсталирана при рестартиране на &brandShortName;.">
-<!ENTITY toBeUpdated.label "Добавката ще бъде обновена при рестартиране на &brandShortName;.">
+<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
 
-<!ENTITY getExtensions.label "Други разширения">
-<!ENTITY getThemes.label "Други теми">
-<!ENTITY getPlugins.label "Други приставки">
+<!ENTITY detail.updateType                    "Automatic Updates">
+<!ENTITY detail.updateAutomatic.label         "Включено">
+<!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
+<!ENTITY detail.updateManual.label            "Изключено">
+<!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
+<!ENTITY detail.home                          "Начална страница">
+<!ENTITY detail.repository                    "Add-on Profile">
+<!ENTITY detail.size                          "Размер">
 
-<!ENTITY searchAddons.label "Търсене в добавките">
-<!ENTITY browseAddons.label "Разглеждане на всички добавки">
-<!ENTITY searchFailed.label "&brandShortName; не можа да изтегли добавките">
-<!ENTITY recommendedHeader.label "Препоръчани">
-<!ENTITY recommendedThrobber.label "Изтегляне на препоръчани добавки">
-<!ENTITY searchThrobber.label "Търсене в добавките">
-<!ENTITY resetSearch.label "Изчистване на резултата">
-<!ENTITY noSearchResults.label "Всички резултати са вече инсталирани или са несъвместими.">
-<!ENTITY noRecommendedResults.label "Всички препоръчани добавки са вече инсталирани или са несъвместими.">
-<!ENTITY emptySearch.label "Няма такива добавки">
-<!ENTITY emptySearch.button "ОК">
-<!ENTITY cancelSearch.button "Отказ">
-<!ENTITY searchFailed.button "ОК">
-<!ENTITY searchResultHomepage.value "Научете повече">
-<!ENTITY searchBox.label "Търсене в добавките">
-<!ENTITY recommendedResults.label "Преглед на препоръчаните добавки">
-<!ENTITY searchResultConnecting.label "Свързване…">
-<!ENTITY searchResultInstalling.label "Инсталиране…">
-<!ENTITY searchResultFailed.label "Инсталирането беше неуспешно">
-<!ENTITY searchResultInstalled.label "Инсталирането е завършено">
-<!ENTITY addonTypeExtension.label "Разширение">
-<!ENTITY addonTypeTheme.label "Тема">
-<!ENTITY missingThumbnail.label "Няма предварителен преглед">
+<!ENTITY detail.checkForUpdates.label         "Check for Updates">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.tooltip       "Проверка за обновления за тази добавка">
+<!ENTITY detail.showPreferencesWin.label      "Настройки">
+<!ENTITY detail.showPreferencesWin.accesskey  "Н">
+<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
+<!ENTITY detail.showPreferencesUnix.label     "Настройки">
+<!ENTITY detail.showPreferencesUnix.accesskey "Н">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Сменяне на настройките на тази добавка">
 
-<!ENTITY previewNoThemeSelected.label "Не е избрана тема">
-<!ENTITY previewNoPreviewImage.label "Тази тема няма изображение за предварителен преглед">
-<!ENTITY moreInfo.label "Повече информация">
-<!ENTITY infoNoAddonSelected.label "Не е избрано обновяване">
-<!ENTITY infoNoUpdateInfo.label "Няма допълнителна информация за обновяването">
-<!ENTITY infoUpdateInfoError.label "Възникна грешка при зареждане на информацията за това обновяване">
 
-<!ENTITY updateSuccess.label "Обновяването завърши успешно.">
-<!ENTITY installSuccess.label "Инсталирането завърши успешно.">
-<!ENTITY installSuccessRestart.label "Рестартирайте за завършване на инсталацията.">
-<!ENTITY updateSuccessRestart.label "Рестартирайте за завършване на обновяването.">
-<!ENTITY installWaiting.label "Изчакване…">
-<!ENTITY installIncompatibleUpdate.label "Проверка за съвместимост…">
-<!ENTITY installFinishing.label "Инсталиране…">
-<!ENTITY installFailure.label "Инсталирането беше неуспешно.">
+<!-- ratings -->
+<!ENTITY rating2.label                        "Оценяване">
 
-<!ENTITY progressStatus.label "Проверка за обновявания">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Спиране">
+<!ENTITY progress.cancel.tooltip              "Прекъсване">
 
-<!ENTITY eula.title "Лицензно споразумение с крайния потребител (EULA)">
-<!ENTITY eula.width "560px">
-<!ENTITY eula.height "400px">
-<!ENTITY eula.accept "Приемане и инсталиране…">
 
-<!ENTITY blocklist.blocked.label "Блокирани">
-<!ENTITY blocklist.checkbox.label "Изключване">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Име">
+<!ENTITY sort.name.tooltip                    "Сортиране по име">
+<!ENTITY sort.dateUpdated.label               "Последно обновен">
+<!ENTITY sort.dateUpdated.tooltip             "Сортиране по дата на обновяване">
+<!ENTITY sort.relevance.label                 "Best match">
+<!ENTITY sort.relevance.tooltip               "Sort by relevance">
+
+<!ENTITY search.filter2.label                 "Търсене:">
+<!ENTITY search.filter2.installed.label       "Моите добавки">
+<!ENTITY search.filter2.installed.tooltip     "Показване на инсталираните добавки">
+<!ENTITY search.filter2.available.label       "Налични добавки">
+<!ENTITY search.filter2.available.tooltip     "Показване на добавките налични за инсталиране">
+
+<!ENTITY addon.homepage                       "Начална страница">
+<!ENTITY addon.details.label                  "Повече">
+<!ENTITY addon.details.tooltip                "Показване на повече подробности за тази добавка">
+<!ENTITY addon.unknownDate                    "Неизвестен">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(неактивен)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "Обновяване">
+<!ENTITY addon.undoAction.label               "Отмяна">
+<!ENTITY addon.undoAction.tooltip             "Отмяна на това действие">
+<!ENTITY addon.undoRemove.label               "Отмяна">
+<!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
+<!ENTITY addon.restartNow.label               "Рестартиране сега">
+<!ENTITY addon.install.label                  "Инсталиране">
+<!ENTITY addon.install.tooltip                "Инсталиране на тази добавка">
+<!ENTITY addon.updateNow.label                "Update Now">
+<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
+<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.checkingForUpdates.label       "Проверяване за обновявания…">
+<!ENTITY addon.releaseNotes.label             "Release Notes:">
+<!ENTITY addon.loadingReleaseNotes.label      "Зареждане…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+
+<!ENTITY addon.createdBy.label                "От ">

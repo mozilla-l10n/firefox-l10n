@@ -1,59 +1,76 @@
-<!ENTITY history.label "История">
+<!ENTITY  history.label                 "История">
 
-<!ENTITY locbar.pre.label "При използване на лентата за адрес, показване на:">
-<!ENTITY locbar.pre.accessKey "л">
-<!ENTITY locbar.post.label "">
-<!ENTITY locbar.both.label "История и отметки">
-<!ENTITY locbar.history.label "История">
-<!ENTITY locbar.bookmarks.label "Отметки">
-<!ENTITY locbar.nothing.label "Нищо">
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
+<!ENTITY  locationBar.label             "Лента за адрес">
 
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-
-<!ENTITY rememberDaysBefore.label "Запомняне на посетените страници от последните">
-<!ENTITY rememberDaysBefore.accesskey "З">
-<!ENTITY rememberDaysAfter2.label "дни">
-
-<!ENTITY rememberForms.label "Запомняне на информацията от формулярите и лентата за търсене">
-<!ENTITY rememberForms.accesskey "ф">
-
-<!ENTITY rememberDownloads.label "Запомняне на изтеглянията">
-<!ENTITY rememberDownloads.accesskey "и">
+<!ENTITY  locbar.pre.label              "При използване на лентата за адрес, показване на:">
+<!ENTITY  locbar.pre.accessKey          "л">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "История и отметки">
+<!ENTITY  locbar.history.label          "История">
+<!ENTITY  locbar.bookmarks.label        "Отметки">
+<!ENTITY  locbar.nothing.label          "Нищо">
 
 
-<!ENTITY cookies.label "Бисквитки">
+<!ENTITY  acceptCookies.label           "Разрешаване на бисквитките">
+<!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY acceptCookies.label "Разрешаване на бисквитките">
-<!ENTITY acceptCookies.accesskey "Р">
+<!ENTITY  acceptThirdParty.label        "Разрешаване на бисквитките от трети страни">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
-<!ENTITY acceptThirdParty.label "Разрешаване на бисквитките от трети страни">
-<!ENTITY acceptThirdParty.accesskey "ш">
+<!ENTITY  keepUntil.label               "Запазване до:">
+<!ENTITY  keepUntil.accesskey           "K">
 
-<!ENTITY keepUntil.label "Запазване до:">
-<!ENTITY keepUntil.accesskey "З">
+<!ENTITY  expire.label                  "загуба на валидност">
+<!ENTITY  close.label                   "затваряне на &brandShortName;">
+<!ENTITY  askEachTime.label             "питане всеки път">
 
-<!ENTITY expire.label "загуба на валидност">
-<!ENTITY close.label "затваряне на &brandShortName;">
-<!ENTITY askEachTime.label "питане всеки път">
+<!ENTITY  cookieExceptions.label        "Изключения…">
+<!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY cookieExceptions.label "Изключения…">
-<!ENTITY cookieExceptions.accesskey "И">
-
-<!ENTITY showCookies.label "Показване на бисквитките…">
-<!ENTITY showCookies.accesskey "б">
+<!ENTITY  showCookies.label             "Показване на бисквитките…">
+<!ENTITY  showCookies.accesskey         "S">
 
 
-<!ENTITY privateData.label "Лични данни">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; ще:">
+<!ENTITY  historyHeader.pre.accesskey      "b">
+<!ENTITY  historyHeader.remember.label     "Помни историята">
+<!ENTITY  historyHeader.dontremember.label "Никога няма да помни историята">
+<!ENTITY  historyHeader.custom.label       "Използва частни настройки за историята">
+<!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY alwaysClear.label "Изчистване на личните данни при затваряне на &brandShortName;">
-<!ENTITY alwaysClear.accesskey "з">
+<!ENTITY  rememberDescription.label      "&brandShortName; ще помни историята на браузването, изтеглянията, формулярите  и търсенията и ще съхранява бисквитките на сайтовете, които посещавате.">
 
-<!ENTITY clearDataSettings.label "Настройване…">
-<!ENTITY clearDataSettings.accesskey "Н">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Може да искате да ">
+<!ENTITY  rememberActions.clearHistory.label  "изчистите последната история">
+<!ENTITY  rememberActions.middle.label        ", или ">
+<!ENTITY  rememberActions.removeCookies.label "да премахнете отделни бисквитки">
+<!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY clearDataNow.label "Изчистване сега…">
-<!ENTITY clearDataNow.accesskey "И">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ще използва същите настройки като при поверително сърфиране и няма да помни никаква история, докато сте в Интернет.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Може също да искате да">
+<!ENTITY  dontrememberActions.clearHistory.label "изчистите цялата настояща история">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingPermanent.label "Постоянен режим на поверително сърфиране">
+<!ENTITY  privateBrowsingPermanent.accesskey "П">
+
+<!ENTITY  rememberHistory.label      "Запомняне на моята история на сърфиране">
+<!ENTITY  rememberHistory.accesskey  "З">
+
+<!ENTITY  rememberDownload.label         "Помнене на историята на изтеглянията">
+<!ENTITY  rememberDownload.accesskey     "d">
+
+<!ENTITY  rememberSearchForm.label       "Помнене на историята на търсенията и формулярите">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Изчистване на историята при изход от &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "b">
+
+<!ENTITY  clearOnCloseSettings.label     "Настройване…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
