@@ -11,9 +11,9 @@
 <!ENTITY openTabInNewWindow.label "Abrir en una ventana nueva">
 <!ENTITY openTabInNewWindow.accesskey "n">
 <!ENTITY pinAppTab.label "Fijar pestaña">
-<!ENTITY pinAppTab.accesskey "F">
+<!ENTITY pinAppTab.accesskey "ñ">
 <!ENTITY unpinAppTab.label "Eliminar pestaña fija">
-<!ENTITY unpinAppTab.accesskey "b">
+<!ENTITY unpinAppTab.accesskey "ñ">
 <!ENTITY moveToGroup.label "Mover al grupo">
 <!ENTITY moveToGroup.accesskey "M">
 <!ENTITY moveToNewGroup.label "Nuevo grupo">
