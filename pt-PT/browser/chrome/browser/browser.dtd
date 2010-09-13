@@ -44,7 +44,7 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Novo separador">
 <!ENTITY tabCmd.accesskey "p">
-<!ENTITY tabCmd.commandkey "Q">
+<!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Abrir endereço...">
 <!ENTITY openLocationCmd.accesskey "B">
 <!ENTITY openFileCmd.label "Abrir ficheiro...">
