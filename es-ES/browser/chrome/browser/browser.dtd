@@ -10,10 +10,10 @@
 <!ENTITY closeOtherTabs.accesskey "C">
 <!ENTITY openTabInNewWindow.label "Abrir en una ventana nueva">
 <!ENTITY openTabInNewWindow.accesskey "n">
-<!ENTITY pinTab.label "Hacer una pestaña de aplicación">
-<!ENTITY pinTab.accesskey "ñ">
-<!ENTITY unpinTab.label "Hacer una pestaña normal">
-<!ENTITY unpinTab.accesskey "ñ">
+<!ENTITY pinAppTab.label "Fijar pestaña">
+<!ENTITY pinAppTab.accesskey "F">
+<!ENTITY unpinAppTab.label "Eliminar pestaña fija">
+<!ENTITY unpinAppTab.accesskey "b">
 <!ENTITY moveToGroup.label "Mover al grupo">
 <!ENTITY moveToGroup.accesskey "M">
 <!ENTITY moveToNewGroup.label "Nuevo grupo">
@@ -212,9 +212,11 @@
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
+<!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
 <!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
 <!ENTITY appMenuToolbarLayout.label "Disposición de las barras de herramientas…">
 <!ENTITY appMenuSidebars.label "Barras laterales">
@@ -351,6 +353,9 @@
 <!ENTITY copyButton.tooltip "Copiar">
 <!ENTITY pasteButton.tooltip "Pegar">
 <!ENTITY fullScreenButton.tooltip "Mostrar la ventana en pantalla completa">
+<!ENTITY zoomOutButton.tooltip "Reducir">
+<!ENTITY zoomInButton.tooltip "Aumentar">
+<!ENTITY zoomControls.label "Controles de tamaño">
 <!ENTITY quitApplicationCmdWin.label "Salir">
 <!ENTITY quitApplicationCmdWin.accesskey "S">
 <!ENTITY goBackCmd.commandKey "[">
