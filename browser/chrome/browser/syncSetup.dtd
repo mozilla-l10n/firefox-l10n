@@ -33,14 +33,20 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label       "Voer uw geheime wachtzin in">
-<!ENTITY passphraseDesc.label         "Voer een geheime wachtzin in. Deze zal worden gebruikt om al uw gegevens te versleutelen, zodat alleen u ze kunt benaderen. De wachtzin wordt nooit opgeslagen op de server, dus raak deze niet kwijt!">
-<!ENTITY passphraseDesc2.label        "De wachtzin moet minstens 12 tekens lang zijn en kan niet gelijk zijn aan uw accountwachtwoord.">
-<!ENTITY passphraseEntry.label        "Geheime wachtzin">
-<!ENTITY passphraseEntry.accesskey    "m">
-<!ENTITY passphraseConfirm.label      "Bevestigen">
-<!ENTITY passphraseConfirm.accesskey  "s">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; denkt aan uw privacy">
+<!ENTITY setup.newSyncKeyPage.description.label "Om uw totale privacy te waarborgen worden al uw gegevens versleuteld voordat het wordt geüpload. De Syncsleutel welke nodig is om uw gegevens te ontcijferen wordt niet geüpload.">
+<!ENTITY syncKeyEntry.label        "Uw Syncsleutel">
+<!ENTITY syncKeyEntry.accesskey    "s">
+<!ENTITY syncKeyGenerate.label     "Genereren">
+<!ENTITY syncKeyBackup.description "Uw Syncsleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw Syncsleutel niet herstellen.">
+
+<!ENTITY button.syncKeyBackup.email.label     "E-mail…">
+<!ENTITY button.syncKeyBackup.email.accesskey "E">
+<!ENTITY button.syncKeyBackup.print.label     "Afdrukken…">
+<!ENTITY button.syncKeyBackup.print.accesskey "A">
+<!ENTITY button.syncKeyBackup.save.label      "Opslaan…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "O">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bevestig dat u geen robot bent">
@@ -50,12 +56,11 @@
 <!ENTITY resetPassword.label          "Wachtwoord herinitialiseren">
 <!ENTITY connecting.label             "Verbinden…">
 
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label     "Voer een geheime wachtzin in">
-<!ENTITY passphraseDesc3.label        "Voer uw geheime wachtzin in. Dit moet dezelfde zijn als de wachtzin die u gebruikte om uw gegevens te versleutelen.">
-<!ENTITY passphraseHelp.label         "Uw geheime wachtzin is minstens 12 tekens lang en niet gelijk aan uw wachtwoord. U kunt uw opgeslagen geheime wachtzin vinden door naar uw andere computer te gaan en de Opgeslagen wachtwoorden onder Beveiliging te controleren. Als u de geheime wachtzin nog steeds niet kunt vinden, kunt u deze opnieuw instellen, maar u zult alle opgeslagen gegevens op de server verliezen.">
-<!ENTITY changePassphrase.label       "Geheime wachtzin wijzigen">
-<!ENTITY verifying.label              "Verifiëren…">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Voer uw Syncsleutel in">
+<!ENTITY setup.existingSyncKeyPage.description "De Syncsleutel is gegenereerd voor u of u heeft er een ingevoerd tijdens de eerste set-up van &syncBrand.fullName.label;. Het is niet hetzelfde als uw wachtwoord.">
+<!ENTITY existingSyncKeyHelp.description "U kunt uw opgeslagen Syncsleutel vinden door naar uw andere computer te gaan en de Opgeslagen wachtwoorden onder Beveiliging te controleren. Als u de juiste Syncsleutel nog steeds niet kunt vinden, kunt u deze opnieuw instellen, maar u zult alle opgeslagen gegevens op de server verliezen.">
+<!ENTITY lostSyncKey.label            "Ik ben mijn Syncsleutel kwijt">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Syncopties">
