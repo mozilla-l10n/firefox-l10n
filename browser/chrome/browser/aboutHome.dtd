@@ -15,3 +15,12 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "ਮੇਰੀ ਪਸੰਦ">
 
 <!ENTITY abouthome.aboutMozilla "ਮੋਜ਼ੀਲਾ ਬਾਰੇ">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "ਫਾਇਰਫਾਕਸ ਚੁਣਨ ਲਈ ਧੰਨਵਾਦ ਜੀ! ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਢੁੱਕਵੇਂ ਢੰਗ ਨਾਲ ਵਰਤੋਂ ਕਰਨ ਵਾਸਤੇ <a>ਨਵੇਂ ਫੀਚਰਾਂ</a> ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ।">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "ਆਪਣੇ ਫਾਇਰਫਾਕਸ ਨੂੰ ਆਪਣੀ ਲੋੜ ਮੁਤਾਬਕ ਢਾਲਣਾ ਬਹੁਤ ਸੌਖਾ ਹੈ। <a>ਹਜ਼ਾਰਾ ਐਡ-ਆਨ ਵਿੱਚੋਂ ਚੁਣੋ</a>।">
