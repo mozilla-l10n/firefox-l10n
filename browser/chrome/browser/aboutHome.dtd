@@ -15,3 +15,12 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "Voorkeuren">
 
 <!ENTITY abouthome.aboutMozilla "Over Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Bedankt voor het kiezen van Firefox! Om het meeste uit Firefox te halen' lees over de <a>nieuwste kenmerken</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Het is makkelijk om Firefox precies aan te passen zals u wilt. <a>Kies uit duizenden add-ons</a>.">
