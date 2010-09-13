@@ -1,18 +1,19 @@
-<!ENTITY restorepage.tabtitle "Възстановяване на сесия">
-<!ENTITY restorepage.pagetitle "Да се възстанови ли сесията?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "Предишната сесия на &brandShortName; беше прекъсната неочаквано. Извиняваме се за причинените неудобства. Можете да възстановите подпрозорците и прозорците от предишната сесия или да започнете нова сесия.">
-<!ENTITY restorepage.remedies "Ако &brandShortName; продължава да се затваря:">
-<!ENTITY restorepage.dueToChrome "Опитайте да изключите разширенията, които сте добавили наскоро.">
-<!ENTITY restorepage.dueToContent "Опитайте да възстановите сесията без страниците, които мислите, че създават проблема:">
+<!ENTITY restorepage.tabtitle       "Възстановяване на сесия">
 
-<!ENTITY restorepage.restoreButton "Възстановяване на предишната сесия">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Ух, това е неприятно.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; не може да възстанови Вашите прозорци и подпрозорци. Обикновено причината е в последното отворената уебстраница.">
+<!ENTITY restorepage.tryThis        "Можете да опитате:">
+<!ENTITY restorepage.restoreSome    "Да затворите един или повече подпрозорци, които смятате, че причиняват проблема">
+<!ENTITY restorepage.startNew       "Да започнете нова сесия">
+
+<!ENTITY restorepage.tryagainButton "Възстановяване">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton "Нова сесия">
-<!ENTITY restorepage.cancel.access "S">
+<!ENTITY restorepage.cancelButton   "Нова сесия">
+<!ENTITY restorepage.cancel.access  "S">
 
-<!ENTITY restorepage.restoreHeader "Възстановяване">
-<!ENTITY restorepage.listHeader "Прозорци и подпрозорци">
+<!ENTITY restorepage.restoreHeader  "Възстановяване">
+<!ENTITY restorepage.listHeader     "Прозорци и подпрозорци">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel "Прозорец № &#37;S">
+<!ENTITY restorepage.windowLabel    "Прозорец № &#37;S">

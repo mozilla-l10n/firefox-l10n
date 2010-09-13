@@ -35,18 +35,18 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "Допълнителни настройки на JavaScript">
-<!ENTITY window.width "37em">
+<!ENTITY advancedJSDialog.title         "Допълнителни настройки на JavaScript">
+<!ENTITY window.width                   "47em">
 
-<!ENTITY allowScripts.label "Разрешаване на скриптовете да:">
+<!ENTITY allowScripts.label             "Разрешаване на скриптовете да:">
 
-<!ENTITY moveResizeWindows.label "Преместват или преоразмеряват съществуващи прозорци">
-<!ENTITY moveResizeWindows.accesskey "П">
-<!ENTITY raiseLowerWindows.label "Издигат и снижават прозорци">
-<!ENTITY raiseLowerWindows.accesskey "И">
-<!ENTITY disableContextMenus.label "Деактивират и заменят контекстни менюта">
-<!ENTITY disableContextMenus.accesskey "Д">
-<!ENTITY hideStatusBar.label "Скриват лентата със състоянието">
-<!ENTITY hideStatusBar.accesskey "С">
-<!ENTITY changeStatusBar.label "Променят текста в лентата със състоянието">
-<!ENTITY changeStatusBar.accesskey "П">
+<!ENTITY moveResizeWindows.label        "Преместват или преоразмеряват съществуващи прозорци">
+<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY raiseLowerWindows.label        "Издигат и снижават прозорци">
+<!ENTITY raiseLowerWindows.accesskey    "R">
+<!ENTITY disableContextMenus.label      "Деактивират и заменят контекстни менюта">
+<!ENTITY disableContextMenus.accesskey  "D">
+<!ENTITY hideStatusBar.label            "Скриват лентата със състоянието">
+<!ENTITY hideStatusBar.accesskey        "H">
+<!ENTITY changeStatusBar.label          "Променят текста в лентата със състоянието">
+<!ENTITY changeStatusBar.accesskey      "C">

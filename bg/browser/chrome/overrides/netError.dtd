@@ -3,8 +3,8 @@
 
 <!ENTITY loadError.label "Проблем при зареждане на страница">
 <!ENTITY retry.label "Нов опит">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Не може да бъде установена връзка">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -118,16 +118,21 @@
 <!ENTITY phishingBlocked.longDesc "<p>Въвеждането на лична информация в тази страница може да доведе до кражба на идентичността и други измами.</p> 
 <p>Този вид измами са известни като измамнически атаки, при които се имитират страници и е-адреси на сайтове на които вярвате.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Блокирано от политика за сигурност на страницата">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото страницата е с политика за сигурност, което го забранява.</p>">
+
 <!ENTITY securityOverride.linkText "Или може да добавите изключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Махам се от тук!">
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
 
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "<p>Не бива да добавяте изключение, ако нямате пълно доверие на Интернет връзката си или ако не сте свикнали да виждате подобни предупреждения от този сървър.</p> 
- 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<!ENTITY securityOverride.warningContent "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">

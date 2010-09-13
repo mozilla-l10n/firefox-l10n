@@ -1,48 +1,43 @@
-<!ENTITY minimizeWindow.key "м">
-<!ENTITY minimizeWindow.label "Минимизиране">
-<!ENTITY bringAllToFront.label "Изкарване всичко напред">
-<!ENTITY zoomWindow.label "Мащабиране">
-<!ENTITY windowMenu.label "Прозорец">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Минимизиране">
+<!ENTITY bringAllToFront.label    "Изкарване всичко напред">
+<!ENTITY zoomWindow.label         "Мащабиране">
+<!ENTITY windowMenu.label         "Прозорец">
 
-<!ENTITY helpMenu.label "Помощ">
-<!ENTITY helpMenu.accesskey "П">
+<!ENTITY helpMenu.label           "Помощ"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Помощ">
-<!ENTITY helpMenuWin.accesskey "П">
-<!ENTITY aboutCmd.label "Относно &brandFullName;">
-<!ENTITY aboutCmd.accesskey "О">
-<!ENTITY helpContents.label "Съдържание">
-<!ENTITY helpContents.accesskey "С">
-<!ENTITY helpContentsMac.label "Помощ на &brandShortName;">
-<!ENTITY helpForIEUsers.label "За потребителите на Internet Explorer">
+<!ENTITY helpMenuWin.label        "Помощ"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct.label       "Относно &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "a">
+<!ENTITY productHelp.label        "Помощ на &brandShortName;">
+<!ENTITY productHelp.accesskey    "b">
+<!ENTITY helpForIEUsers.label     "За потребителите на Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey "/">
-<!ENTITY openHelpMac.modifiers "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers "accel">
+<!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpReleaseNotes.label "Бележки към изданието">
-<!ENTITY helpReleaseNotes.accesskey "Б">
-<!ENTITY updateCmd.label "Проверка за обновявания…">
-<!ENTITY updateCmd.accesskey "з">
+<!ENTITY helpReleaseNotes.label         "Бележки към изданието">
+<!ENTITY helpReleaseNotes.accesskey     "N">
 
-<!ENTITY preferencesCmdMac.label "Настройки…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY helpTroubleshootingInfo.label      "Информация за отстраняване на неизправности">
+<!ENTITY helpTroubleshootingInfo.accesskey  "И">
 
-<!ENTITY servicesMenuMac.label "Услуги">
+<!ENTITY helpFeedbackPage.label      "Подаване на обратна връзка…">
+<!ENTITY helpFeedbackPage.accesskey  "П">
 
-<!ENTITY hideThisAppCmdMac.label "Скриване на &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "С">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY updateCmd.label                "Проверка за обновявания…">
 
-<!ENTITY hideOtherAppsCmdMac.label "Скриване на другите">
-<!ENTITY hideOtherAppsCmdMac.commandkey "д">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY preferencesCmdMac.label        "Настройки…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY showAllAppsCmdMac.label "Показване на всички">
+<!ENTITY servicesMenuMac.label          "Услуги">
+
+<!ENTITY hideThisAppCmdMac.label        "Скриване на &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Скриване на другите">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "Показване на всички">

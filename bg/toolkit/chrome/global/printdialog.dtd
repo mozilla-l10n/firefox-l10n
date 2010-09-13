@@ -7,34 +7,34 @@
 <!ENTITY fpDialog.title "Запис на файл">
 
 <!ENTITY fileCheck.label "Отпечатване във файл">
-<!ENTITY fileCheck.accesskey "ф">
+<!ENTITY fileCheck.accesskey "F">
 <!ENTITY propertiesButton.label "Свойства…">
-<!ENTITY propertiesButton.accesskey "С">
+<!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "Описание на принтера:">
 <!ENTITY printer.label "Принтер">
 <!ENTITY printerInput.label "Име на принтера:">
-<!ENTITY printerInput.accesskey "И">
+<!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Отпечатване">
 <!ENTITY allpagesRadio.label "Всички страници">
-<!ENTITY allpagesRadio.accesskey "В">
-<!ENTITY rangeRadio.label "Страници">
-<!ENTITY rangeRadio.accesskey "С">
-<!ENTITY frompageInput.label "от">
-<!ENTITY frompageInput.accesskey "о">
-<!ENTITY topageInput.label "към">
-<!ENTITY topageInput.accesskey "к">
+<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY rangeRadio.label  "Страници">
+<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY frompageInput.label  "от">
+<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY topageInput.label  "към">
+<!ENTITY topageInput.accesskey  "t">
 <!ENTITY selectionRadio.label "Маркирания текст">
-<!ENTITY selectionRadio.accesskey "М">
+<!ENTITY selectionRadio.accesskey "S">
 
 <!ENTITY copies.label "Копия">
 <!ENTITY numCopies.label "Брой копия:">
-<!ENTITY numCopies.accesskey "Б">
+<!ENTITY numCopies.accesskey "c">
 
 <!ENTITY printframeGroup.label "Отпечатване на рамките">
 <!ENTITY aslaidoutRadio.label "Както се виждат на екрана">
-<!ENTITY aslaidoutRadio.accesskey "К">
-<!ENTITY selectedframeRadio.label "Маркираната рамка">
-<!ENTITY selectedframeRadio.accesskey "р">
-<!ENTITY eachframesepRadio.label "Всяка рамка поотделно">
-<!ENTITY eachframesepRadio.accesskey "о">
+<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY selectedframeRadio.label  "Маркираната рамка">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Всяка рамка поотделно">
+<!ENTITY eachframesepRadio.accesskey  "E">
