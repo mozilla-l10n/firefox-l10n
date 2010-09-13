@@ -7,11 +7,20 @@
 <!ENTITY listEmpty.findUpdates.label "Güncellemeleri denetle">
 <!ENTITY listEmpty.search.label "Eşleşen bir eklenti bulunamadı">
 <!ENTITY listEmpty.button.label "Eklentiler hakkında daha fazlasını öğrenin">
-<!ENTITY installFromFile.label "Install From File…">
-<!ENTITY installFromFile.accesskey "I">
+<!ENTITY installFromFile.label "Dosyadan kur...">
+<!ENTITY installFromFile.accesskey "D">
 
-<!ENTITY cmd.back.tooltip "Go back one page">
-<!ENTITY cmd.forward.tooltip "Go forward one page">
+<!ENTITY cmd.back.tooltip "Önceki sayfaya git">
+<!ENTITY cmd.forward.tooltip "Sonraki sayfaya git">
+<!-- global warnings -->
+
+<!ENTITY warning.safemode.label "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label "Enable">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label "Enable">
+<!ENTITY warning.updatesecurity.enable.tooltip "Enable add-on update security checking">
 <!-- categories / views -->
 
 <!ENTITY view.search.label "Ara">
@@ -19,12 +28,12 @@
 <!ENTITY view.locales.label "Diller">
 <!ENTITY view.searchengines.label "Arama motorları">
 <!ENTITY view.features.label "Eklentiler">
-<!ENTITY view.appearance.label "Temalar">
+<!ENTITY view.appearance2.label "Görünüm">
 <!ENTITY view.plugins.label "Yan uygulamalar">
 <!ENTITY view.recentUpdates.label "Yakın zamandaki güncellemeler">
 <!ENTITY view.availableUpdates.label "Mevcut güncellemeler">
-<!ENTITY view.utilites.preferences.tooltip "Options for all add-ons">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Preferences for all add-ons">
+<!ENTITY view.utilites.preferences.tooltip "Tüm eklentileri ilgilendiren seçenekler">
+<!ENTITY view.utilites.preferencesUnix.tooltip "Tüm eklentileri ilgilendiren tercihler">
 <!-- addon updates -->
 
 <!ENTITY updates.updateAddonsNow.label "Eklentileri şimdi güncelle">
@@ -36,19 +45,21 @@
 <!ENTITY updates.updating.label "Eklentiler güncelleniyor">
 <!ENTITY updates.installed.label "Eklentileriniz güncellendi.">
 <!ENTITY updates.downloaded.label "Eklenti güncellemeleriniz indirildi.">
-<!ENTITY updates.restart.label "Restart now to complete installation">
+<!ENTITY updates.restart.label "Kurulumu tamamlamak için şimdi baştan başlat">
 <!ENTITY updates.noneFound.label "Güncelleme bulunamadı">
 <!ENTITY updates.manualUpdatesFound.label "Yapılabilecek güncellemelere bak">
+<!ENTITY updates.updateSelected.label "Install Updates">
+<!ENTITY updates.updateSelected.tooltip "Install available updates in this list">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label "Show More Information">
-<!ENTITY cmd.showDetails.accesskey "S">
-<!ENTITY cmd.findUpdates.label "Find Updates">
-<!ENTITY cmd.findUpdates.accesskey "F">
-<!ENTITY cmd.preferencesWin.label "Options">
-<!ENTITY cmd.preferencesWin.accesskey "O">
-<!ENTITY cmd.preferencesUnix.label "Preferences">
-<!ENTITY cmd.preferencesUnix.accesskey "P">
+<!ENTITY cmd.showDetails.label "Daha fazla bilgi ver">
+<!ENTITY cmd.showDetails.accesskey "v">
+<!ENTITY cmd.findUpdates.label "Güncellemelere bak">
+<!ENTITY cmd.findUpdates.accesskey "c">
+<!ENTITY cmd.preferencesWin.label "Seçenekler">
+<!ENTITY cmd.preferencesWin.accesskey "S">
+<!ENTITY cmd.preferencesUnix.label "Tercihler">
+<!ENTITY cmd.preferencesUnix.accesskey "T">
 <!ENTITY cmd.about.label "Hakkında">
 <!ENTITY cmd.about.accesskey "H">
 
@@ -56,12 +67,18 @@
 <!ENTITY cmd.enableAddon.accesskey "t">
 <!ENTITY cmd.disableAddon.label "Etkisizleştir">
 <!ENTITY cmd.disableAddon.accesskey "s">
+<!ENTITY cmd.enableTheme.label "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey "W">
+<!ENTITY cmd.disableTheme.label "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey "W">
+<!ENTITY cmd.installAddon.label "Install">
+<!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Kaldır">
 <!ENTITY cmd.uninstallAddon.accesskey "K">
 <!ENTITY cmd.showPreferencesWin.label "Seçenekler">
 <!ENTITY cmd.showPreferencesWin.tooltip "Change this add-on's options">
 <!ENTITY cmd.showPreferencesUnix.label "Tercihler">
-<!ENTITY cmd.showPreferencesUnix.tooltip "Change this add-on's preferences">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Bu eklentinin tercihlerini değiştir">
 <!ENTITY cmd.contribute.label "Katkıda bulun">
 <!ENTITY cmd.contribute.accesskey "u">
 <!ENTITY cmd.contribute.tooltip "Bu eklentinin geliştirilmesine katkıda bulun">
@@ -73,27 +90,35 @@
 <!-- detail view -->
 
 <!ENTITY detail.version.label "Sürüm">
-<!ENTITY detail.updated.label "Güncellendi">
+<!ENTITY detail.lastupdated.label "Last Updated">
 <!ENTITY detail.creator.label "Geliştirici">
 <!ENTITY detail.homepage.label "Ana sayfa">
 <!ENTITY detail.numberOfDownloads.label "İndirme">
 
-<!ENTITY detail.updateAutomatically.label "Kendiliğinden güncelle">
-<!ENTITY detail.updateAutomatically.accesskey "K">
-<!ENTITY detail.updateAutomatically.tooltip "Bu eklentinin güncellemesi çıktığında eklentiyi kendiliğinden güncelle">
-<!ENTITY detail.checkForUpdates.label "Güncellemelere bak…">
-<!ENTITY detail.checkForUpdates.accesskey "b">
+<!ENTITY detail.contributions.description "The developer of this add-on asks that you help support its continued development by making a small contribution.">
+
+<!ENTITY detail.updateType "Automatic Updates">
+<!ENTITY detail.updateAutomatic.label "Açık">
+<!ENTITY detail.updateAutomatic.tooltip "Automatically install updates">
+<!ENTITY detail.updateManual.label "Kapalı">
+<!ENTITY detail.updateManual.tooltip "Don't automatically install updates">
+<!ENTITY detail.home "Homepage">
+<!ENTITY detail.repository "Add-on Profile">
+<!ENTITY detail.size "Boyut">
+
+<!ENTITY detail.checkForUpdates.label "Check for Updates">
+<!ENTITY detail.checkForUpdates.accesskey "F">
 <!ENTITY detail.checkForUpdates.tooltip "Bu eklentinin güncellemelerine bak">
-<!ENTITY detail.showPreferencesWin.label "Options">
-<!ENTITY detail.showPreferencesWin.accesskey "O">
-<!ENTITY detail.showPreferencesWin.tooltip "Change this add-on's Options">
-<!ENTITY detail.showPreferencesUnix.label "Preferences">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip "Change this add-on's preferences">
+<!ENTITY detail.showPreferencesWin.label "Seçenekler">
+<!ENTITY detail.showPreferencesWin.accesskey "S">
+<!ENTITY detail.showPreferencesWin.tooltip "Change this add-on's options">
+<!ENTITY detail.showPreferencesUnix.label "Tercihler">
+<!ENTITY detail.showPreferencesUnix.accesskey "T">
+<!ENTITY detail.showPreferencesUnix.tooltip "Bu eklentinin tercihlerini değiştir">
 <!-- ratings -->
 
 
-<!ENTITY rating.label "Beğeni:">
+<!ENTITY rating2.label "Beğeni">
 <!-- download/install progress -->
 
 <!ENTITY progress.pause.tooltip "Duraklat">
@@ -103,33 +128,41 @@
 
 <!ENTITY sort.name.label "Ad">
 <!ENTITY sort.name.tooltip "Ada göre sırala">
-<!ENTITY sort.dateUpdated.label "Son güncelleme">
+<!ENTITY sort.dateUpdated.label "Last Updated">
 <!ENTITY sort.dateUpdated.tooltip "Güncelleme tarihine göre sırala">
-<!ENTITY sort.relevance.label "Best match">
-<!ENTITY sort.relevance.tooltip "Sort by relevance">
+<!ENTITY sort.relevance.label "En çok uyuşan">
+<!ENTITY sort.relevance.tooltip "İlgiye göre sırala">
 
-<!ENTITY search.filter2.label "Search:">
-<!ENTITY search.filter2.installed.label "My Add-ons">
-<!ENTITY search.filter2.installed.tooltip "Show installed add-ons">
-<!ENTITY search.filter2.available.label "Available Add-ons">
-<!ENTITY search.filter2.available.tooltip "Show add-ons available to install">
+<!ENTITY search.filter2.label "Arama:">
+<!ENTITY search.filter2.installed.label "Eklentilerim">
+<!ENTITY search.filter2.installed.tooltip "Kurulu eklentileri göster">
+<!ENTITY search.filter2.available.label "Mevcut eklentiler">
+<!ENTITY search.filter2.available.tooltip "Kurulabilecek eklentileri göster">
 
 <!ENTITY addon.homepage "Ana sayfa">
-<!ENTITY addon.details.label "Daha fazla">
-<!ENTITY addon.details.tooltip "Show more details about this add-on">
+<!ENTITY addon.details.label "Daha fazla bilgi">
+<!ENTITY addon.details.tooltip "Bu eklentiyle ilgili daha fazla bilgi ver">
 <!ENTITY addon.unknownDate "Bilinmiyor">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix "(devre dışı)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix "Güncelle">
-<!ENTITY addon.undo.label "Vazgeç">
-<!ENTITY addon.undo.tooltip "Bu eylemi geri al">
-<!ENTITY addon.undoUninstall.label "Vazgeç">
-<!ENTITY addon.undoUninstall.tooltip "Bu eklentiyi kurulu bırak">
+<!ENTITY addon.undoAction.label "Undo">
+<!ENTITY addon.undoAction.tooltip "Bu eylemi geri al">
+<!ENTITY addon.undoRemove.label "Undo">
+<!ENTITY addon.undoRemove.tooltip "Bu eklentiyi kurulu bırak">
 <!ENTITY addon.restartNow.label "Şimdi yeniden başlat">
 <!ENTITY addon.install.label "Kur">
 <!ENTITY addon.install.tooltip "Bu eklentiyi kur">
 <!ENTITY addon.updateNow.label "Şimdi güncelle">
 <!ENTITY addon.updateNow.tooltip "Bu eklentinin güncellemesini kur">
+<!ENTITY addon.includeUpdate.label "Include in Update">
+<!ENTITY addon.updateAvailable.label "An update is available">
 <!ENTITY addon.checkingForUpdates.label "Güncellemeler denetleniyor…">
 <!ENTITY addon.releaseNotes.label "Sürüm notları:">
 <!ENTITY addon.loadingReleaseNotes.label "Yükleniyor…">
