@@ -50,6 +50,8 @@
 <!ENTITY updates.restart.label                "ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਲਈ ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY updates.noneFound.label              "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ">
 <!ENTITY updates.manualUpdatesFound.label     "ਉਪਲੱਬਧ ਅੱਪਡੇਟ ਵੇਖੋ">
+<!ENTITY updates.updateSelected.label         "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY updates.updateSelected.tooltip       "ਇਸ ਲਿਸਟ ਵਿੱਚ ਉਪਲੱਬਧ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "ਹੋਰ ਜਾਣਕਾਰੀ ਵੇਖੋ">
@@ -156,6 +158,8 @@
 <!ENTITY addon.install.tooltip                "ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addon.updateNow.label                "ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ">
 <!ENTITY addon.updateNow.tooltip              "ਇਹ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY addon.includeUpdate.label            "ਅੱਪਡੇਟ 'ਚ ਸ਼ਾਮਲ ਕਰੋ">
+<!ENTITY addon.updateAvailable.label          "ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ">
 <!ENTITY addon.checkingForUpdates.label       "…ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY addon.releaseNotes.label             "ਰੀਲਿਜ਼ ਨੋਟਿਸ:">
 <!ENTITY addon.loadingReleaseNotes.label      "…ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">

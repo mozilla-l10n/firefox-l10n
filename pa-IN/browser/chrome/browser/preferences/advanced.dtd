@@ -52,7 +52,6 @@
 <!ENTITY useCacheAfter.label             "MB ਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ">
 <!ENTITY clearCacheNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY smartSizeCache.label            "&brandShortName; ਨੂੰ ਮੇਰੀ ਕੈਸ਼ ਦਾ ਆਕਾਰ ਦਾ ਪਰਬੰਧ ਕਰ ਦਿਉ।">
 <!ENTITY updateTab.label                 "ਅੱਪਡੇਟ">
 
 <!ENTITY autoCheck.label                 "ਅੱਪਡੇਟ ਲਈ ਆਟੋਮੈਟਿਕ ਹੀ ਚੈੱਕ ਕਰੋ:">

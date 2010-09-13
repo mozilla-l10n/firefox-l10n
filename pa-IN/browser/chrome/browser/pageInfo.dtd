@@ -100,6 +100,10 @@
 <!ENTITY  permInstall           "ਇਕਸਟੈਨਸ਼ਨ ਜਾਂ ਥੀਮ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY  permGeo               "ਟਿਕਾਣਾ ਸਾਂਝਾ ਕਰੋ">
 
+<!ENTITY  permIndexedDB              "ਆਫਲਾਈਨ ਸਟੋਰੇਜ਼ ਪਰਬੰਧ">
+<!ENTITY  permClearStorage           "ਸਟੋਰੇਜ਼ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY  permClearStorage.accesskey "C">
+
 <!ENTITY  securityTab           "ਸੁਰੱਖਿਆ">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "ਇਹ ਪੇਜ਼ ਬਾਰੇ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ">
