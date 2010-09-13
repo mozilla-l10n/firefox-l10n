@@ -94,3 +94,7 @@
 <!ENTITY  mediaDimension        "Përmasa:">
 <!ENTITY  mediaLocation         "Vend:">
 <!ENTITY  mediaText             "Tekst Shoqërues:">
+
+<!ENTITY  permIndexedDB              "Mbaje Depozitimin për &quot;Offline&quot;">
+<!ENTITY  permClearStorage           "Pastroje Depozitimin">
+<!ENTITY  permClearStorage.accesskey "P">

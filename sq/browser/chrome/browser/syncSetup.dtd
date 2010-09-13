@@ -2,13 +2,17 @@
 
 <!-- First page of the wizard -->
 
+<!ENTITY setup.pickSetupType.description "Mirë se vini, nëse nuk e keni përdorur kurrë më parë &syncBrand.fullName.label;-un, lypset të krijoni një llogari të re.">
+<!ENTITY button.createNewAccount.label "Krijoni një Llogari të Re">
+<!ENTITY button.haveAccount.label "Kam një Llogari &syncBrand.fullName.label;-u">
+
 <!ENTITY setup.choicePage.title.label     "E keni përdorur &syncBrand.fullName.label; më parë?">
 <!ENTITY setup.choicePage.new.label       "Nuk e kam përdorur kurrë më parë &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label  "E përdor tashmë &syncBrand.shortName.label; në një tjetër kompjuter">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Lidhu te">
-<!ENTITY serverType.main.label      "Shërbyesi &syncBrand.fullName.label;">
+<!ENTITY server.label               "Shërbyes">
+<!ENTITY serverType.main.label      "Shërbyes &syncBrand.fullName.label;-u">
 <!ENTITY serverType.custom.label    "Përdor një shërbyes vetjak">
 <!ENTITY signIn.username.label      "Emër Përdoruesi">
 <!ENTITY signIn.username.accesskey  "E">
@@ -18,14 +22,14 @@
 <!ENTITY signIn.serverURL.accesskey "U">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "Krijoni Llogarinë tuaj &syncBrand.shortName.label;">
+<!ENTITY setup.newAccountDetailsPage.title.label "Hollësi Llogarie">
 <!ENTITY setup.confirmPassword.label  "Ripohoni Fjalëkalimin">
 <!ENTITY setup.confirmPassword.accesskey  "r">
 <!ENTITY setup.emailAddress.label     "Adresë Email">
 <!ENTITY setup.emailAddress.accesskey "A">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "Pajtohem">
+<!ENTITY setup.tosAgree1.label      "Pajtohem me">
 <!ENTITY setup.tosAgree1.accesskey  "p">
 <!ENTITY setup.tosLink.label        "Kushtet e Shërbimit">
 <!ENTITY setup.tosAgree2.label      "dhe">
@@ -33,66 +37,71 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label       "Jepni Togfjalëshin tuaj të Fshehtë">
-<!ENTITY passphraseDesc.label         "Ju lutem, jepni një togfjalësh të fshehtë. Ky do të përdoret për të koduar krejt të dhënat tuaja, që kështu vetëm ju të mund të hyni në to. Nuk depozitohet kurrë në shërbyes, ndaj mos e humbni!">
-<!ENTITY passphraseDesc2.label        "Ky duhet të jetë e pakta 12 shenja i gjatë dhe nuk mund të jetë i njëjtë me fjalëkalimin tuaj të llogarisë.">
-<!ENTITY passphraseEntry.label        "Togfjalësh i Fshehtë">
-<!ENTITY passphraseEntry.accesskey    "T">
-<!ENTITY passphraseConfirm.label      "Ripohojeni">
-<!ENTITY passphraseConfirm.accesskey  "R">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName;-i Kujdeset Për Vetësinë Tuaj">
+<!ENTITY setup.newSyncKeyPage.description.label "Për të siguruar vetësinë tuaj tërësore, krejt të dhënat tuaja kodohen përpara se të ngarkohen. Kyçi për Sync-un, që është i domosdoshëm për çkodimin e të dhënave tuaja, nuk ngarkohet.">
+<!ENTITY syncKeyEntry.label        "Kyçi Juaj për Sync-un">
+<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY syncKeyGenerate.label     "Prodhoje">
+<!ENTITY syncKeyBackup.description "Kyçi Juaj për Sync-un nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutem, bëjini një kopje kopjeruajtjeje. Nuk ju ndihmojmë dot për të rigjetur Kyçin tuaj për Sync-un.">
 
-<!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Parapëlqime Njëkohësimi Shfletuesish">
-<!ENTITY syncComputerName.label       "Emër Kompjuteri:">
-<!ENTITY syncComputerName.accesskey   "E">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; do të: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
-<!ENTITY syncEverything.label         "Njëkohësojë Gjithçka">
-<!ENTITY customSync.label             "Përdor rregullimet e mia vetjake">
-<!ENTITY syncEverythingDescription.label  "Do të njëkohësohen faqerojtësit tuaj, historiku, fjalëkalimet, parapëlqimet dhe skedat.">
-<!ENTITY syncItem.bookmarks.label     "Njëkohëso Bookmarks">
-<!ENTITY syncItem.bookmarks.accesskey "F">
-<!ENTITY syncItem.tabs.label          "Njëkohëso Skedat">
-<!ENTITY syncItem.tabs.accesskey      "S">
-<!ENTITY syncItem.history.label       "Njëkohëso Historikun">
-<!ENTITY syncItem.history.accesskey   "H">
-<!ENTITY syncItem.passwords.label     "Njëkohëso Fjalëkalimet">
-<!ENTITY syncItem.passwords.accesskey "l">
-<!ENTITY syncItem.prefs.label         "Njëkohëso Parapëlqimet">
-<!ENTITY syncItem.prefs.accesskey     "P">
+<!ENTITY button.syncKeyBackup.email.label     "Email…">
+<!ENTITY button.syncKeyBackup.email.accesskey "E">
+<!ENTITY button.syncKeyBackup.print.label     "Shtypeni…">
+<!ENTITY button.syncKeyBackup.print.accesskey "S">
+<!ENTITY button.syncKeyBackup.save.label      "Ruajeni…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "R">
 
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label     "Ju lutem, ripohoni që nuk jeni një robot ;)">
+<!ENTITY page.syncKeyBackup.title     "Kyçi Juaj për Firefox Sync-un">
+<!ENTITY page.syncKeyBackup.descr     "Ky kyç i fshehtë përdoret për të koduar të dhënat tuaja vetjake. Nuk ngarkohet te shërbyesi dhe nuk mund të rimerret. Mos e humbni, as mos ua jepni të tjerëve.">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Ju lutemi, Ripohoni Që Nuk Jeni Robot">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Jepni të Dhënat e Llogarisë">
 <!ENTITY resetPassword.label          "Ricaktoni Fjalëkalimin">
 <!ENTITY connecting.label             "Po lidhet…">
 
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label     "Jepni Togfjalëshin e Fshehtë">
-<!ENTITY passphraseDesc3.label        "Ju lutem, jepni togfjalëshin tuaj të fshehtë. Ky duhet të jetë i njëjti togfjalësh i fshehtë që përdorët për të koduar të dhënat tuaja.">
-<!ENTITY passphraseHelp.label         "Togfjalëshi juaj i fshehtë është e pakta 12 shenja i gjatë dhe nuk bëhet fjalë për fjalëkalimin tuaj. Togfjalëshin tuaj të fshehtë që keni ruajtur mund ta gjeni duke shkuar te kompjuteri juaj tjetër e duke parë te Fjalëkalime të Ruajtur, te pjesa Siguri. Nëse prapë nuk e gjeni saktë togfjalëshin tuaj të fshehtë, mund ta ricaktoni atë, por kështu do të humbni çfarëdo të dhënash që janë depozituar te shërbyesi.">
-<!ENTITY changePassphrase.label       "Ndryshoni Togfjalëshin e Fshehtë">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Ju lutem, Jepni Kyçin Tuaj për Sync-un">
+<!ENTITY setup.existingSyncKeyPage.description "Kyçi juaj për Sync-un qe prodhuar për ju, ose dhatë një të tuajin, kur krijuat së pari një llogari &syncBrand.fullName.label;. Nuk është i njëjtë me fjalëkalimin tuaj.">
+<!ENTITY existingSyncKeyHelp.description "Kyçin tuaj për Sync-un mund ta gjeni duke shkuar te kompjuteri juaj tjetër dhe duke kontrolluar Fjalëkalimet e Ruajtura, te pjesa Siguri. Nëse prapë nuk e gjeni Kyçin tuaj të saktë për Sync-un, mund të zgjidhni ricaktimin e tij, por kështu do të humbni çfarëdo të dhënash të depozituara në shërbyes.">
+<!ENTITY lostSyncKey.label            "E kam humbur Kyçin tim për Sync-un">
 <!ENTITY verifying.label              "Po verifikohet…">
 
-<!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "Si doni të fillohet?">
-<!ENTITY choice.merge.main.label      "Përzieni të dhënat e këtij kompjuteri me të dhënat nga &syncBrand.shortName.label;">
-<!ENTITY choice.merge.recommend.label "Kjo mundësi këshillohet me forcë nga Mozilla për krejt përdoruesit.">
-<!ENTITY choice.client.main.label     "Zëvendësoni krejt të dhënat në këtë kompjuter me të dhënat tuaja nga &syncBrand.fullName.label;">
-<!ENTITY choice.server.main.label     "Zëvendësoni te krejt pajisjet e tjera me dhënat tuaja vendore">
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Mundësi Sync-u">
+<!ENTITY syncComputerName.label       "Emër Kompjuteri:">
+<!ENTITY syncComputerName.accesskey   "E">
 
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label        "Ripohoni zgjedhjen tuaj">
-<!ENTITY confirm.merge.label          "Keni zgjedhur të përzieni të dhënat tuaja në këtë kompjuter me të dhëna nga pajisjet e tjera ku xhiron &syncBrand.fullName.label;.">
+<!ENTITY syncMy.label               "Njëkohëso">
+<!ENTITY engine.bookmarks.label     "Faqerojtësit e Mij">
+<!ENTITY engine.bookmarks.accesskey "F">
+<!ENTITY engine.tabs.label          "Skedat e Mia">
+<!ENTITY engine.tabs.accesskey      "S">
+<!ENTITY engine.history.label       "Historikun Tim">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Fjalëkalimet e Mij">
+<!ENTITY engine.passwords.accesskey "k">
+<!ENTITY engine.prefs.label         "Parapëlqimet e Mia">
+<!ENTITY engine.prefs.accesskey     "P">
+
+<!ENTITY choice2.merge.main.label      "Përzieni të dhënat e këtij kompjuteri me të dhënat e mia nga &syncBrand.shortName.label;-u">
+<!ENTITY choice2.merge.recommended.label "E këshilluar:">
+<!ENTITY choice2.client.main.label     "Zëvendëso krejt të dhënat në këtë kompjuter me të dhënat e mia nga &syncBrand.fullName.label;">
+<!ENTITY choice2.server.main.label     "Zëvendëso te krejt pajisjet e tjera me dhënat nga ky kompjuter">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Ripohim">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label;-u tani do të përziejë krejt të dhënat e shfletuesit prej këtij kompjuteri me të dhënat e llogarisë tuaj Sync.">
 <!ENTITY confirm.client.label         "Krejt të dhënat &brandShortName; në këtë kompjuter do të fshihen, përfshi sa vijon:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; mandej do të kopjojë në këtë kompjuter të dhënat tuaja &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.warning.label "KUJDES: Kjo do të bëjë që të zëvendësohen krejt të dhënat &brandShortName; në këtë kompjuter!">
-<!ENTITY confirm.server.label         "Pajisjet vijuese do të mbishkruhen me të dhënat tuaja vendore:">
-<!ENTITY confirm.server.warning.label "KUJDES: Të dhënat tuaja vendore do të zëvendësojnë krejt të dhënat &brandShortName; në këto pajisje!">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName;-i mandej do të kopjojë të dhënat tuaja &syncBrand.fullName.label; në këtë kompjuter.">
+<!ENTITY confirm.client.warning.label "KUJDES: This will result in all &brandShortName; data on this computer being replaced!">
+<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
+<!ENTITY confirm.server.warning.label "KUJDES: Your local data will replace all &brandShortName; data on these devices!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "Rregullim i Plotësuar!">
-<!ENTITY setup.successPage.desc.label    "Përgëzime! &brandShortName; tani është rregulluar të njëkohësojë vetvetiu të dhënat tuaja. Mos harroni të instaloni &syncBrand.fullName.label; në krejt pajisjet tuaja. Tani mund të vazhdoni me përdorimin e &brandShortName;-ut.">
+<!ENTITY setup.successPage.title "Rregullim i Plotësuar">
+<!ENTITY changeOptions.label "Këtë parapëlqim mund ta ndryshoni duke përzgjedhur Mundësi për Sync-un më poshtë.">
+<!ENTITY continueUsing.label "Tani mund të vazhdoni me përdorimin e &brandShortName;-it.">
