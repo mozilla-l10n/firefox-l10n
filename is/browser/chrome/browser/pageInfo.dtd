@@ -93,6 +93,9 @@
 <!ENTITY permCookie "Setja smákökur">
 <!ENTITY permInstall "Setja inn viðbætur eða þema">
 <!ENTITY permGeo "Deila staðsetningu">
+<!ENTITY permIndexedDB "Nota ónettengda geymslu">
+<!ENTITY permClearStorage "Hreinsa geymslu">
+<!ENTITY permClearStorage.accesskey "H">
 <!ENTITY securityTab "Öryggi">
 <!ENTITY securityTab.accesskey "Ö">
 <!ENTITY securityHeader "Öryggisupplýsingar þessarar síðu">

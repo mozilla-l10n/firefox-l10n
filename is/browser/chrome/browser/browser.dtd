@@ -19,10 +19,15 @@
 <!ENTITY closeOtherTabs.accesskey "o">
 <!ENTITY openTabInNewWindow.label "Opna í nýjum glugga">
 <!ENTITY openTabInNewWindow.accesskey "g">
-<!ENTITY pinTab.label "Breyta yfir í forritsflipa">
-<!ENTITY pinTab.accesskey "p">
-<!ENTITY unpinTab.label "Breyta yfir í venjulegan flipa">
-<!ENTITY unpinTab.accesskey "v">
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY pinAppTab.label "Festa sem forritsflipa">
+<!ENTITY pinAppTab.accesskey "p">
+<!ENTITY unpinAppTab.label "Losa flipa">
+<!ENTITY unpinAppTab.accesskey "s">
 <!ENTITY moveToGroup.label "Færa í hóp">
 <!ENTITY moveToGroup.accesskey "F">
 <!ENTITY moveToNewGroup.label "Nýr hópur">
@@ -265,9 +270,11 @@
 <!ENTITY historyUndoMenu.label "Nýlega lokaðir flipar">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nýlega lokaðir gluggar">
+<!ENTITY historyRestoreLastSession.label "Sækja fyrri lotu">
 <!ENTITY historyHomeCmd.label "Heim">
 <!ENTITY showAllHistoryCmd2.label "Skoða alla ferla">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY appMenuEdit.label "Breyta">
 <!ENTITY appMenuCustomize.label "Sérsníða">
 <!ENTITY appMenuToolbarLayout.label "Útlit tækjaslár…">
 <!ENTITY appMenuSidebars.label "Hliðarslá">
@@ -438,6 +445,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyButton.tooltip "Afrita">
 <!ENTITY pasteButton.tooltip "Líma">
 <!ENTITY fullScreenButton.tooltip "Sýna gluggann á öllum skjánum">
+<!ENTITY zoomOutButton.tooltip "Minnka aðdrátt">
+<!ENTITY zoomInButton.tooltip "Auka aðdrátt">
+<!ENTITY zoomControls.label "Aðdráttar stýringar">
 <!ENTITY quitApplicationCmdWin.label "Hætta">
  
 <!ENTITY quitApplicationCmdWin.accesskey "H">

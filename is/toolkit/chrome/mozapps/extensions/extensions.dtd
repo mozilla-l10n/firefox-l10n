@@ -44,6 +44,8 @@
 <!ENTITY updates.restart.label "Endurræstu núna til að ljúka uppsetningu">
 <!ENTITY updates.noneFound.label "Engar uppfærslur fundust">
 <!ENTITY updates.manualUpdatesFound.label "Skoða fáanlegar uppfærslur">
+<!ENTITY updates.updateSelected.label "Setja inn uppfærslur">
+<!ENTITY updates.updateSelected.tooltip "Setja inn allar uppfærslur í þessum lista">
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label "Sýna meiri upplýsingar">
 <!ENTITY cmd.showDetails.accesskey "S">
@@ -103,7 +105,7 @@
 <!ENTITY detail.showPreferencesUnix.accesskey "o">
 <!ENTITY detail.showPreferencesUnix.tooltip "Breyta stillingum fyrir þessa viðbót">
 <!-- ratings -->
-<!ENTITY rating.label "Einkunn:">
+<!ENTITY rating2.label "Einkunn">
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip "Bið">
 <!ENTITY progress.cancel.tooltip "Hætta við">
@@ -123,8 +125,14 @@
 <!ENTITY addon.details.label "Meira">
 <!ENTITY addon.details.tooltip "Sýna meiri upplýsingar um þessa viðbót">
 <!ENTITY addon.unknownDate "Óþekkt">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix "(óvirkt)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix "Uppfæra">
 <!ENTITY addon.undoAction.label "Afturkalla">
 <!ENTITY addon.undoAction.tooltip "Hætta við þessa aðgerð">
@@ -135,6 +143,8 @@
 <!ENTITY addon.install.tooltip "Setja inn þessa viðbót">
 <!ENTITY addon.updateNow.label "Uppfæra nú">
 <!ENTITY addon.updateNow.tooltip "Setja inn uppfærslu fyrir þessa viðbót">
+<!ENTITY addon.includeUpdate.label "Taka með í uppfærslu">
+<!ENTITY addon.updateAvailable.label "Uppfærsla er fáanleg">
 <!ENTITY addon.checkingForUpdates.label "Athuga með uppfærslur…">
 <!ENTITY addon.releaseNotes.label "Útgáfuupplýsingar:">
 <!ENTITY addon.loadingReleaseNotes.label "Hleður…">
