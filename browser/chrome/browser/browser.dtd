@@ -362,7 +362,6 @@
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-<!ENTITY organizeBookmarks.label "Organizoni Faqerojtësit…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Shfaq më tepër faqerojtësa">
 <!ENTITY copyVideoURLCmd.label        "Kopjo Vendndodhje Videoje">
 <!ENTITY copyVideoURLCmd.accesskey    "k">
@@ -465,13 +464,9 @@
 <!ENTITY inspectStylePanelTitle.label  "Stil">
 
 <!ENTITY  listAllTabs.label      "Paraqit krejt skedat">
-
 <!ENTITY  openTabInNewWindow.label           "Hape në Dritare të Re">
 <!ENTITY  openTabInNewWindow.accesskey       "D">
-<!ENTITY  pinTab.label                       "Kaloje në Skedë Zbatimi">
-<!ENTITY  pinTab.accesskey                   "Z">
-<!ENTITY  unpinTab.label                     "Kaloje në Skedë Normale">
-<!ENTITY  unpinTab.accesskey                 "N">
+
 
 <!ENTITY showTabView2.label     "Gruponi Skedat Tuaja…">
 <!ENTITY showTabView2.accesskey     "G">
@@ -530,3 +525,21 @@
 <!ENTITY inspectObjectButton.label       "Objekt">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
+<!ENTITY appMenuEdit.label "Përpunojeni">
+<!ENTITY historyRestoreLastSession.label "Rikthe Sesionin e Mëparshëm">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Fiksoje si Skedë Zbatimi">
+<!ENTITY  pinAppTab.accesskey                "F">
+<!ENTITY  unpinAppTab.label                  "Çfiksoje Skedën">
+<!ENTITY  unpinAppTab.accesskey              "ç">
+
+<!ENTITY showAllBookmarks.label "Shfaqni Krejt Faqerojtësit…">
+
+<!ENTITY zoomOutButton.tooltip          "Zmadhojeni">
+<!ENTITY zoomInButton.tooltip           "Zvogëlojeni">
+<!ENTITY zoomControls.label             "Kontrolle Ripërmasimi">
