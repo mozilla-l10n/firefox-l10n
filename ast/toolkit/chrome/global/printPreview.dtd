@@ -44,10 +44,10 @@
 <!ENTITY of.label             "de">
 <!ENTITY scale.label          "Escala:">
 <!ENTITY scale.accesskey      "s">
-<!ENTITY portrait.label       "Retratu">
-<!ENTITY portrait.accesskey   "R">
-<!ENTITY landscape.label      "Paisaxe">
-<!ENTITY landscape.accesskey  "P">
+<!ENTITY portrait.label       "Vertical">
+<!ENTITY portrait.accesskey   "V">
+<!ENTITY landscape.label      "Horizontal">
+<!ENTITY landscape.accesskey  "H">
 <!ENTITY close.label          "Zarrar">
 <!ENTITY close.accesskey      "Z">
 <!ENTITY p30.label            "30&#037;">

@@ -1,4 +1,4 @@
-<!ENTITY appManager.title     "Detáis del programa">
+<!ENTITY appManager.title     "Detalles del programa">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Desaniciar">
 <!ENTITY remove.accesskey     "E">

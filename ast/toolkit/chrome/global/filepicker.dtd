@@ -2,7 +2,7 @@
 <!ENTITY lookInMenuList.accesskey   "e">
 <!ENTITY textInput.label        "Nome del ficheru:">
 <!ENTITY textInput.accesskey        "N">
-<!ENTITY filterMenuList.label   "Ficheros de tipu:">
+<!ENTITY filterMenuList.label   "Ficheros de triba:">
 <!ENTITY filterMenuList.accesskey   "t">
 <!ENTITY name.label             "Nome">
 <!ENTITY size.label             "Tamañu:">

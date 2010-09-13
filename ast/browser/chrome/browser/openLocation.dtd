@@ -2,8 +2,8 @@
 
 <!ENTITY enter.label "Introduza la direición web (URL), o especifique el ficheru llocal que quier abrir:">  
 <!ENTITY chooseFile.label "Escoyerd ficheru…">
-<!ENTITY newWindow.label "Nueva ventana">
-<!ENTITY newTab.label "Nueva llingüeta">
+<!ENTITY newWindow.label "Ventana nueva">
+<!ENTITY newTab.label "Llingüeta nueva">
 <!ENTITY topTab.label "Llingüeta actual">
 <!ENTITY caption.label "Propiedaes del elementu">
 <!ENTITY openWhere.label "Abrir en:">

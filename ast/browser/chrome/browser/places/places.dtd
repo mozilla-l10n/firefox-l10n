@@ -42,11 +42,11 @@
 <!ENTITY cmd.importHTML.label           "Importar HTML">
 <!ENTITY cmd.importHTML.accesskey       "I">
 
-<!ENTITY cmd.backup.label               "Copia…">
+<!ENTITY cmd.backup.label               "Copiar…">
 <!ENTITY cmd.backup.accesskey           "C">
 <!ENTITY cmd.restore2.label             "Restaurar">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Elexir ficheru…">
+<!ENTITY cmd.restoreFromFile.label      "Escoyer ficheru…">
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
 <!ENTITY cmd.select_all.label "Seleicionar too">
@@ -80,9 +80,9 @@
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Abrir nuna nueva ventana">
+<!ENTITY cmd.open_window.label           "Abrir nuna ventana nueva">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_tab.label              "Abrir nuna nueva llingüeta">
+<!ENTITY cmd.open_tab.label              "Abrir nuna llingüeta nueva">
 <!ENTITY cmd.open_tab.accesskey          "t">
 <!ENTITY cmd.open_all_in_tabs.label      "Abrir too en llingüetes">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "o">
@@ -99,14 +99,14 @@
 <!ENTITY cmd.sortby_name.accesskey          "n">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Nuevu marcador…">
-<!ENTITY cmd.new_bookmark.accesskey        "N">
-<!ENTITY cmd.new_livemark.label            "Nuevu marcador dinámicu…">
+<!ENTITY cmd.new_bookmark.label            "Marcador nuevu…">
+<!ENTITY cmd.new_bookmark.accesskey        "n">
+<!ENTITY cmd.new_livemark.label            "Marcador nuevu dinámicu…">
 <!ENTITY cmd.new_livemark.accesskey        "d">
-<!ENTITY cmd.new_folder.label              "Nueva carpeta…">
+<!ENTITY cmd.new_folder.label              "Carpeta nueva…">
 <!ENTITY cmd.new_folder.accesskey          "u">
-<!ENTITY cmd.context_new_folder.accesskey  "c">
-<!ENTITY cmd.new_separator.label           "Nuevu separtador">
+<!ENTITY cmd.context_new_folder.accesskey  "C">
+<!ENTITY cmd.new_separator.label           "Separtador nuevu">
 <!ENTITY cmd.new_separator.accesskey       "v">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Recargar marcadores dinámicos">
@@ -190,7 +190,7 @@
 <!ENTITY feed.subscribe.tooltip  "Soscribise">
 
 <!ENTITY view.detailsMacOSX.label  "Llistar">
-<!ENTITY view.details.label        "Detáis">
+<!ENTITY view.details.label        "Detalles">
 <!ENTITY view.details.accesskey    "D">
 
 <!ENTITY view.addons.label   "Get View Add-ons">

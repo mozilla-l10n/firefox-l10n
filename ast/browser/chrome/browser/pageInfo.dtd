@@ -51,7 +51,7 @@
 <!ENTITY  generalTab            "Xeneral">
 <!ENTITY  generalTab.accesskey  "X">
 <!ENTITY  generalURL            "Direición:">
-<!ENTITY  generalType           "Tipu:">
+<!ENTITY  generalType           "Triba:">
 <!ENTITY  generalMode           "Mou de renderizáu:">
 <!ENTITY  generalSize           "Tamañu:">
 <!ENTITY  generalReferrer       "URL de referencia:">
@@ -60,7 +60,7 @@
 <!ENTITY  generalEncoding       "Codificación:">
 <!ENTITY  generalMetaName       "Nome">
 <!ENTITY  generalMetaContent    "Conteníu">
-<!ENTITY  generalSecurityDetails   "Detáis">
+<!ENTITY  generalSecurityDetails   "Detalles">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Medios">
@@ -112,7 +112,7 @@
 <!ENTITY  securityView.identity.domain   "Sitiu web:">
 <!ENTITY  securityView.identity.verifier "Verificáu por:">
 
-<!ENTITY  securityView.privacy.header                   "Privacidá ya hestorial">
+<!ENTITY  securityView.privacy.header                   "Privacidá y hestorial">
 <!ENTITY  securityView.privacy.history                  "¿Tien visitao esti sitiu web enantes?">
 <!ENTITY  securityView.privacy.cookies                  "¿Esti sitiu ta atroxando información (cookies) nesti equipu?">
 <!ENTITY  securityView.privacy.viewCookies              "Adicar cookies">

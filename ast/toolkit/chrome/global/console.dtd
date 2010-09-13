@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY errorConsole.title "Consola d'errores">
+<!ENTITY errorConsole.title "Consola de fallos">
 
 <!ENTITY errFile.label   "Ficheru d'orixe:">
 <!ENTITY errLine.label   "Llinia:">

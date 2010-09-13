@@ -20,6 +20,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Amosar toles etiquetes">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Cargar esti marcador na barra llateral">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "m">
-<!ENTITY editBookmarkOverlay.choose.label                    "Elexir…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "Nueva carpeta">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">
+<!ENTITY editBookmarkOverlay.choose.label                    "Escoyer…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Carpeta nueva">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "n">

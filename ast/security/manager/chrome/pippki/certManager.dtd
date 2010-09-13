@@ -54,7 +54,7 @@
 
 <!ENTITY certmgr.detail.general_tab.title     "Xeneral">
 <!ENTITY certmgr.detail.general_tab.accesskey "X">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Detáis">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Detalles">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                "Verificando agora'l certificáu…">

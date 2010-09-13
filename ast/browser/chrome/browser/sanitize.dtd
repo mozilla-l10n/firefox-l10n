@@ -23,7 +23,7 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-<!ENTITY detailsProgressiveDisclosure.label     "Detáis">
+<!ENTITY detailsProgressiveDisclosure.label     "Detalles">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "Hestorial">

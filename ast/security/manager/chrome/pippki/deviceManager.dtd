@@ -38,7 +38,7 @@
 <!ENTITY devmgr.title                           "Alministrador de Preseos">
 
 <!ENTITY devmgr.devlist.label                   "Módulos de seguridá y preseos">
-<!ENTITY devmgr.details.title                   "Detáis">
+<!ENTITY devmgr.details.title                   "Detalles">
 <!ENTITY devmgr.details.title2                  "Valor">
 <!ENTITY devmgr.status.label                    "Estáu">
 <!ENTITY devmgr.version.label                   "Versión">

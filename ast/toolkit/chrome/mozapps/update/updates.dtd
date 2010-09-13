@@ -51,7 +51,7 @@
 
 <!ENTITY  viewDetails.tooltip             "Ver detalles d'esti anovamientu">
 
-<!ENTITY  details.link                    "Detáis">
+<!ENTITY  details.link                    "Detalles">
 
 <!ENTITY  error.label                     "Hebo problemes al comprebar, descargar o instalar esta
                                            anovamientu. Nun se pudo anovar &brandShortName; porque:">
@@ -77,6 +77,6 @@
 <!ENTITY  installed.intro                 "L'anovamientu instalóse correchamente.">
 <!ENTITY  whatsnew.label                  "Lleer más al rodiu de les novedaes…">
 
-<!ENTITY  update.details.label            "Detáis">
+<!ENTITY  update.details.label            "Detalles">
 <!ENTITY  update.installedOn.label        "Instaláu en:">
 <!ENTITY  update.status.label             "Estáu:">

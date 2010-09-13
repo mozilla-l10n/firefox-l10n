@@ -11,7 +11,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
 
-<!ENTITY tabCmd.label "Nueva llingüeta">
+<!ENTITY tabCmd.label "Llingüeta nueva">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Abrir direición…">
@@ -123,7 +123,7 @@
 
 <!ENTITY keywordfield.label           "Amestar una pallabra clave pa esta gueta...">
 <!ENTITY keywordfield.accesskey       "p">
-<!ENTITY search.label                 "Gueta na web">
+<!ENTITY search.label                 "Guetar na web">
 <!ENTITY search.accesskey             "G">
 <!ENTITY downloads.label              "Descargues">
 <!ENTITY downloads.tooltip            "Amuesa'l progresu de les descargues en cursu">
@@ -134,15 +134,15 @@
 <!ENTITY addons.tooltip               "Llistáu y xestión de los complementos instalaos.">
 <!ENTITY addons.accesskey             "p">
 
-<!ENTITY errorConsoleCmd.label        "Consola d'errores">
+<!ENTITY errorConsoleCmd.label        "Consola de fallos">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY fileMenu.label         "Ficheru"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newNavigatorCmd.label        "Nueva ventana">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newNavigatorCmd.label        "Ventana nueva">
+<!ENTITY newNavigatorCmd.key        "n">
+<!ENTITY newNavigatorCmd.accesskey      "n">
 
 <!ENTITY editMenu.label         "Editar"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -193,9 +193,9 @@
 
 <!ENTITY historyMenu.label "Hestorial">
 <!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "Llingüetes recién zarraes">
+<!ENTITY historyUndoMenu.label "Llingüetes zarraes de recién">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Ventanes recién zarraes">
+<!ENTITY historyUndoWindowMenu.label "Ventanes zarraes de recién">
 
 <!ENTITY historyHomeCmd.label "Entamu">
 <!ENTITY showAllHistoryCmd2.label "Amosar tol hestorial">
@@ -235,11 +235,11 @@
 
 <!ENTITY openLinkCmd.label            "Abrir enllaz nuna ventana nueva">
 <!ENTITY openLinkCmd.accesskey        "A">
-<!ENTITY openLinkCmdInTab.label       "Abrir vínculu nuna nueva llingüeta">
+<!ENTITY openLinkCmdInTab.label       "Abrir vínculu nuna llingüeta nueva">
 <!ENTITY openLinkCmdInTab.accesskey   "v">
-<!ENTITY openFrameCmd.label           "Abrir el marcu nuna nueva ventana">
+<!ENTITY openFrameCmd.label           "Abrir el marcu nuna ventana nueva">
 <!ENTITY openFrameCmd.accesskey       "m">
-<!ENTITY openFrameCmdInTab.label      "Abrir marcu nuna nueva llingüeta">
+<!ENTITY openFrameCmdInTab.label      "Abrir marcu nuna llingüeta nueva">
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY showOnlyThisFrameCmd.label     "Amosar namái esti marcu">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
@@ -364,8 +364,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Abrir una nueva llingüeta">
-<!ENTITY newWindowButton.tooltip        "Abrir una nueva ventana">
+<!ENTITY newTabButton.tooltip           "Abrir una llingüeta nueva">
+<!ENTITY newWindowButton.tooltip        "Abrir una ventana nueva">
 <!ENTITY sidebarCloseButton.tooltip     "Zarrar panel llateral">
 
 <!ENTITY cutButton.tooltip              "Cortar">

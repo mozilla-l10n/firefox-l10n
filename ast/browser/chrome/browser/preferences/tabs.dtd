@@ -10,5 +10,5 @@
 <!ENTITY showTabBar.label             "Amosar siempres la barra de llingüetes">
 <!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label        "Al abrir un enllaz nuna nueva llingüeta, camudar a ésta darréu.">
+<!ENTITY switchToNewTabs.label        "Al abrir un enllaz nuna llingüeta nueva, camudar a ésta darréu.">
 <!ENTITY switchToNewTabs.accesskey    "c">
