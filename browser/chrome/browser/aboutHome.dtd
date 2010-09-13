@@ -5,9 +5,19 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; ræsisíða">
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> ræsing">
 <!ENTITY abouthome.searchEngineButton.label "Leita">
 <!ENTITY abouthome.searchEngineLinks.advanced "Ítarleg leit">
 <!ENTITY abouthome.searchEngineLinks.preferences "Valkostir">
 <!ENTITY abouthome.aboutMozilla "Um Mozilla">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Þakka þér fyrir að velja Firefox! Til að geta notað vafrann á sem bestan hátt, lærðu meira um <a>nýjustu eiginleikana</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Auðvelt er að sérsníða Firefox að þínum þörfum. <a>Þú getur valið um þúsund viðbóta</a>.">

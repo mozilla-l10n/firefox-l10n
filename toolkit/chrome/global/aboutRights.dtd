@@ -24,7 +24,7 @@
 <!ENTITY rights2.intro-point3b "Meðferð persónuupplýsinga hjá &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Any applicable privacy policies for this product should be listed here.">
+<!ENTITY rights.intro-point3-unbranded "Allar reglur um meðferð persónuupplýsinga fyrir þessa vöru ættu að vera sýndar hér.">
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "Sumir eiginleikar í &brandShortName; nota vefsvæðisupplýsingar, en, því miður getum við ekki ábyrgst að þær upplýsingar séu 100&#37; nákvæmar eða villulausar. Fyrir meiri upplýsingar, og meðal annars upplýsingar um hvernig á að gera þjónusturnar óvirkar, er að finna í ">
 <!ENTITY rights.intro-point4b "þjónustuskilmálum">
@@ -33,8 +33,6 @@
 <!ENTITY rights.intro-point4a-unbranded "Ef þessi vara inniheldur vefþjónustur, skulu allar viðeigandi skilmálar fyrir þjónustuna vera tengdar við ">
 <!ENTITY rights.intro-point4b-unbranded "Vefsvæðisþjónustu">
 <!ENTITY rights.intro-point4c-unbranded " flipann.">
-<!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Allar reglur um meðferð persónuupplýsinga fyrir þessa vöru ættu að vera sýndar hér.">
 <!ENTITY rights2.webservices-header "&brandFullName; Vefupplýsingaþjónustur">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
