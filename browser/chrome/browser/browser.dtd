@@ -265,6 +265,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Onlangs gesloten tabbladen">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Onlangs gesloten vensters">
+<!ENTITY historyRestoreLastSession.label "Vorige sessie herstellen">
 
 <!ENTITY historyHomeCmd.label "Startpagina">
 <!ENTITY showAllHistoryCmd2.label "Alle geschiedenis tonen">
