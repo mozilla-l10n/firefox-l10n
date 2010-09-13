@@ -65,6 +65,7 @@
 <!ENTITY setup.existingSyncKeyPage.description "De Syncsleutel is gegenereerd voor u of u heeft er een ingevoerd tijdens de eerste set-up van &syncBrand.fullName.label;. Het is niet hetzelfde als uw wachtwoord.">
 <!ENTITY existingSyncKeyHelp.description "U kunt uw opgeslagen Syncsleutel vinden door naar uw andere computer te gaan en de Opgeslagen wachtwoorden onder Beveiliging te controleren. Als u de juiste Syncsleutel nog steeds niet kunt vinden, kunt u deze opnieuw instellen, maar u zult alle opgeslagen gegevens op de server verliezen.">
 <!ENTITY lostSyncKey.label            "Ik ben mijn Syncsleutel kwijt">
+<!ENTITY verifying.label              "Verifiëren…">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Syncopties">
