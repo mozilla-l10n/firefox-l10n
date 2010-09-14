@@ -52,15 +52,23 @@
 
 <!ENTITY  details.link                    "Details">
 
+<!ENTITY  error.title                     "Biywurkjen mislearre">
+
 <!ENTITY  error.label                     "Der wie in probleem by it kontrolearjen op, of it ynladen of ynstallearjen
                                            fan dizze fernijing. &brandShortName; koe net bywurke wurde omdat:">
                                            
 <!ENTITY  errorManual.label               "Jo kinne &brandShortName; mei de hân bywurkje troch dizze keppeling te
                                            besykjen en de lêste ferzje yn te laden:">
 
-<!ENTITY  errorpatching.title             "Fernijing mislearre">
 <!ENTITY  errorpatching.intro             "It part fan de fernijing koe net tapast wurde. 
                                            &brandShortName; sil it op 'e nij probearje troch in folsleine fernijing yn te laden.">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; is net yn steat om te sjen oft der in fernijing beskikber is.
+                                           Kontrolearje oft jo de lêste ferzje fan &brandShortName; hawwe fanôf:">
+<!ENTITY  errorCertAttrNoUpdate2.label     "Iets foarkomt dat &brandShortName; feilich fernijd wurdt.
+                                           Kontrolearje oft jo de lêste ferzje fan &brandShortName; hawwe fanôf:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Iets probearret &brandShortName; te ferlieden om in ûnfeilige fernijing
+                                           te akseptearjen. Nim kontakt op mei jo netwurkprovider en freegje help.">
 
 <!ENTITY  finishedPage.title              "Fernijing klear foar ynstallaasje">
 <!ENTITY  finishedPage.text               "De fernijing sil ynstallearre wurde as &brandShortName; op 'e nij start. 
