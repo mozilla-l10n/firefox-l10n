@@ -37,7 +37,7 @@
 
 <!ENTITY certmgr.title                       "Alministrador de certificaos">
 
-<!ENTITY certmgr.tab.mine                     "Los sos certificaos">
+<!ENTITY certmgr.tab.mine                     "Los tos certificaos">
 <!ENTITY certmgr.tab.others2                  "Persones">
 <!ENTITY certmgr.tab.websites3                "Sirvidores">
 <!ENTITY certmgr.tab.ca                       "Autoridaes">
@@ -46,11 +46,11 @@
 <!ENTITY certmgr.ca.builtins                  "CAs integraes">
 <!ENTITY certmgr.ca.mycas                     "CAs xestionaes por vusté">
 
-<!ENTITY certmgr.mine                         "Tien certificaos d'estes organizaciones que-y identifiquen a vusté:">
-<!ENTITY certmgr.others                       "Tien certificaos archivaos qu'identifiquen a estes persones:">
-<!ENTITY certmgr.websites2                    "Tien certificaos nel ficheru qu'identifiquen estos sirvidores:">
-<!ENTITY certmgr.cas                          "Tien certificaos archivaos qu'identifiquen a estes autoridaes certificadores:">
-<!ENTITY certmgr.orphans                      "Tien certificaos nel ficheru que nun encaxen en denguna de les otres categoríes:">
+<!ENTITY certmgr.mine                         "Tienes certificaos d'estes organizaciones que t'identifiquen:">
+<!ENTITY certmgr.others                       "Tienes certificaos archivaos qu'identifiquen a estes persones:">
+<!ENTITY certmgr.websites2                    "Tienes certificaos archivaos qu'identifiquen a estos sirvidores:">
+<!ENTITY certmgr.cas                          "Tienes certificaos archivaos qu'identifiquen a estes autoridaes certificadores:">
+<!ENTITY certmgr.orphans                      "Tienes certificaos archivaos que nun encaxen en nenguna de les demás categoríes:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Xeneral">
 <!ENTITY certmgr.detail.general_tab.accesskey "X">

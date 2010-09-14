@@ -1,10 +1,10 @@
 <!ENTITY privatebrowsingpage.title                 "Navegación Privao">
 <!ENTITY privatebrowsingpage.title.normal          "¿Quies aniciar el mou de Navegación Privao?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nun remembrará res del hestorial durante esta sesión.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nun remembrará nada del hestorial durante esta sesión.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; nun ta actualmente en mou de Navegación Privao.">
 
-<!ENTITY privatebrowsingpage.description               "Nuna sesión de navegación privao, &brandShortName; nun atroxará res rellacionao col hestorial de navegación, les guetes de descargues, cookies o ficheros temporales d'Internet. Sicasí, los ficheros qu'atroxes o los marcadores que crees, sí que se caltendrán.">
+<!ENTITY privatebrowsingpage.description               "Nuna sesión de navegación privao, &brandShortName; nun atroxará nada rellacionao col hestorial de navegación, les guetes de descargues, cookies o ficheros temporales d'Internet. Sicasí, los ficheros qu'atroxes o los marcadores que crees, sí que se caltendrán.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->

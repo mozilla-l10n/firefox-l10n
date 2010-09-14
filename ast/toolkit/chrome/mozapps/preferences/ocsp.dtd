@@ -1,5 +1,5 @@
 <!ENTITY ocspDialog.title             "Validación de certificaos">
-<!ENTITY enableOCSP.label             "Usar el protocolu d'estáu de certificaos en llinia (OCSP) pa confirmar la validez autual de los certificaos">
+<!ENTITY enableOCSP.label             "Usar el protocolu d'estáu de certificaos en llinia (OCSP) pa confirmar la validez actual de los certificaos">
 <!ENTITY enableOCSP.accesskey         "U">
 <!ENTITY certOCSP2.label              "Validar el certificáu si especifica un sirvidor OCSP">
 <!ENTITY certOCSP2.accesskey          "V">
@@ -9,5 +9,5 @@
 <!ENTITY serviceURL.accesskey         "U">
 <!ENTITY signingCA.label              "Firmante de la rempuesta:">
 <!ENTITY signingCA.accesskey          "F">
-<!ENTITY requireOCSP.label            "Cuandu falle la conexón a un sirvidor OCSP, tratar el certificáu comu non válidu">
+<!ENTITY requireOCSP.label            "Cuando falle la conexón a un sirvidor OCSP, tratar el certificáu como non válidu">
 <!ENTITY requireOCSP.accesskey        "C">

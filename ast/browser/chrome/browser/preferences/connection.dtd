@@ -3,7 +3,7 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Configurar proxies pa l'accesu a Internet">
+<!ENTITY  proxyTitle.label              "Configurar proxies pal accesu a Internet">
 <!ENTITY  noProxyTypeRadio.label        "Ensin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Usar los datos de proxy del sistema">
@@ -37,8 +37,8 @@
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Non usar proxy pa:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy.label                 "Nun usar proxy pa:">
+<!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Usar el mesmu proxy pa too">
 <!ENTITY  shareproxy.accesskey          "x">

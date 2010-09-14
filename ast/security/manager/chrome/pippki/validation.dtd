@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  validation.crlmanager.label             "Alministrar CRLs">
-<!ENTITY  validation.crlmanager.description       "Estes llistes de revocación de certificaos (LRC) tán atroxaes na so bas de datos de certificaos:">
+<!ENTITY  validation.crlmanager.description       "Estes llistes de revocación de certificaos (LRC) tán atroxaes na to bas de datos de certificaos:">
 <!ENTITY  validation.crlname.label                "Nome">
 <!ENTITY  validation.crllastupdate.label          "Caberu anovamientu">
 <!ENTITY  validation.crlnextupdate.label          "Próximu anovamientu">

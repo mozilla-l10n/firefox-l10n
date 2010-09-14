@@ -36,7 +36,7 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
 <!ENTITY itemBrowsingHistory.label         "Hestorial">
 <!ENTITY itemBrowsingHistory.accesskey     "H">
-<!ENTITY itemFormSearchHistory.label       "Formularios guardaos ya hestorial de guetes">
+<!ENTITY itemFormSearchHistory.label       "Formularios guardaos y hestorial de guetes">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Contraseñes guardaes">
 <!ENTITY itemPasswords.accesskey           "C">
@@ -50,7 +50,7 @@ that require it.  -->
 <!ENTITY itemDownloadHistory.accesskey     "d">
 <!ENTITY itemActiveLogins.label            "Sesiones actives">
 <!ENTITY itemActiveLogins.accesskey        "S">
-<!ENTITY itemSitePreferences.label         "Preferencies del Sitiu">
+<!ENTITY itemSitePreferences.label         "Preferencies del sitiu">
 <!ENTITY itemSitePreferences.accesskey     "S">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph

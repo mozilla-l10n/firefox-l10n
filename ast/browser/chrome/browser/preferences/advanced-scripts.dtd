@@ -40,13 +40,13 @@
 
 <!ENTITY allowScripts.label             "Permitir los scripts:">
 
-<!ENTITY moveResizeWindows.label        "Mover o redimensionar les ventanes existentes">
+<!ENTITY moveResizeWindows.label        "Mover o redimensionar les ventanes esistentes">
 <!ENTITY moveResizeWindows.accesskey    "M">
-<!ENTITY raiseLowerWindows.label        "Amosar o soverar ventanes">
+<!ENTITY raiseLowerWindows.label        "Amosar o anubrir ventanes">
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Desactivar o trocar menús contestuales">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "Soverar barra d'estáu">
-<!ENTITY hideStatusBar.accesskey        "S">
+<!ENTITY hideStatusBar.label            "Anubrir barra d'estáu">
+<!ENTITY hideStatusBar.accesskey        "A">
 <!ENTITY changeStatusBar.label          "Camudar testu de la barra d'estáu">
 <!ENTITY changeStatusBar.accesskey      "C">

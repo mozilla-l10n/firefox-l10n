@@ -8,7 +8,7 @@
 <!ENTITY  locbar.both.label             "Hestorial y Marcadores">
 <!ENTITY  locbar.history.label          "Hestorial">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
-<!ENTITY  locbar.nothing.label          "Res">
+<!ENTITY  locbar.nothing.label          "Nada">
 
 
 <!ENTITY  acceptCookies.label           "Aceutar cookies de les webs">
@@ -38,7 +38,7 @@
 <!ENTITY  historyHeader.custom.label       "Usar una configuración personalizada pal hestorial">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; remembrará'l so hestorial de navegación, descargues, formularios y guetes, y atroxará tamién cookies de los sitios Web que visite.">
+<!ENTITY  rememberDescription.label      "&brandShortName; remembrará'l to hestorial de navegación, descargues, formularios y guetes, y atroxará tamién cookies de los sitios Web que visites.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->

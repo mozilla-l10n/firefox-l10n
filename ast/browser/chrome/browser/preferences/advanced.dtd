@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Guetar testu mientres s'escribe">
 <!ENTITY searchStartTyping.accesskey     "s">
-<!ENTITY blockAutoRefresh.label          "Avisame qué páxines intenten redireicionar o recargar">
+<!ENTITY blockAutoRefresh.label          "Avisame de qué páxines intenten redireicionar o recargar">
 <!ENTITY blockAutoRefresh.accesskey      "v">
 
 <!ENTITY browsing.label                  "Restolar">

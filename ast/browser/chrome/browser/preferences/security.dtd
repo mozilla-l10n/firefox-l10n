@@ -25,7 +25,7 @@
 <!ENTITY  passwordExceptions.label      "Esceiciones…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 
-<!ENTITY  useMasterPassword.label        "Usar una contraseña mayestra">
+<!ENTITY  useMasterPassword.label        "Usar una contraseña maestra">
 <!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "Camudar contraseña mayestra…">
 <!ENTITY  changeMasterPassword.accesskey "m">
@@ -36,7 +36,7 @@
 
 <!ENTITY  warnings.label                "Mensaxes d'alvertencia">
 
-<!ENTITY  chooseWarnings.label          "Escueya qué alvertencies deseya ver mientres restola pela web">
+<!ENTITY  chooseWarnings.label          "Escueyi qué alvertencies desees ver mientres restoles pela web">
 
 <!ENTITY  warningSettings.label         "Configuración…">
 <!ENTITY  warningSettings.accesskey     "n">
