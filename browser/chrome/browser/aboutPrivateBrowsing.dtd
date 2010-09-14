@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Starta privat surfning">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "t">
 
-<!ENTITY privatebrowsingpage.howToStop                 "För att avsluta privat surfning, välj &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller avsluta &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "Du kan också starta privat surfning genom att välja &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "För att avsluta privat surfning, välj &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller avsluta &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Du kan också starta privat surfning genom att välja &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Även om det inte kommer att sparas någon information om din webbläsarhistorik på din dator kan din internetleverantör eller arbetsgivare ändå spåra vilka sidor du besöker.">
 <!ENTITY privatebrowsingpage.learnMore                 "Mer info">
