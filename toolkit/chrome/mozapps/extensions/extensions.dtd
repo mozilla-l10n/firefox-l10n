@@ -42,6 +42,12 @@
 <!ENTITY updates.viewUpdates.accesskey        "A">
 <!ENTITY updates.backgroudUpdateCheck.label   "Vérifier les mises à jour automatiquement">
 <!ENTITY updates.backgroudUpdateCheck.accesskey "V">
+<!ENTITY updates.updateAddonsAutomatically.label     "Mettre à jour les modules automatiquement">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "a">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Activer la mise à jour automatique pour tous les modules">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "c">
+<!ENTITY updates.resetUpdatesToManual.label          "Désactiver la mise à jour automatique pour tous les modules">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "D">
 <!ENTITY updates.updating.label               "Mise à jour des modules">
 <!ENTITY updates.installed.label              "Vos modules ont été mis à jour.">
 <!ENTITY updates.downloaded.label             "Les mises à jour de vos modules ont été téléchargées.">
@@ -97,6 +103,8 @@
 <!ENTITY detail.contributions.description     "Le développeur de ce module demande que vous l'aidiez à assurer la poursuite de son développement en lui versant une petite contribution.">
 
 <!ENTITY detail.updateType                    "Mises à jour automatiques">
+<!ENTITY detail.updateDefault.label           "Par défaut">
+<!ENTITY detail.updateDefault.tooltip         "N'installe les mises à jour automatiquement que s'il s'agit du réglage par défaut">
 <!ENTITY detail.updateAutomatic.label         "Activées">
 <!ENTITY detail.updateAutomatic.tooltip       "Installe automatiquement les mises à jour">
 <!ENTITY detail.updateManual.label            "Désactivées">
