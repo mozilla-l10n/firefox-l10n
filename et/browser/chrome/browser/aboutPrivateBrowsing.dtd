@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label     "Alusta privaatset veebilehitsemist">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "A">
 
-<!ENTITY privatebrowsingpage.howToStop                      "Privaatse veebilehitsemise lõpetamiseks kasuta menüüd &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; või sulge &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                     "Privaatse veebilehitsemise alustamiseks võid ka kasutada menüüd &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                     "Privaatse veebilehitsemise lõpetamiseks vali &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; või sulge &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2                    "Privaatse veebilehitsemise alustamiseks võid ka valida &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                       "Kuigi sellesse arvutisse ei jää jälge sinu veebilehitsemise ajaloost, võib sinu interneti teenusepakkuja või tööandja siiski sinu poolt külastatavaid lehti jälgida.">
 <!ENTITY privatebrowsingpage.learnMore                      "Loe veel">
