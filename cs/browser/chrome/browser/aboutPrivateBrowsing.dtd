@@ -16,8 +16,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Spustit režim anonymního prohlížení">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
 
-<!ENTITY privatebrowsingpage.howToStop "Pro ukončení režimu anonymního prohlížení zvolte &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; nebo zavřete &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart "Pro spuštění režimu anonymního prohlížení můžete rovněž zvolit &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2 "Pro ukončení režimu anonymního prohlížení zvolte &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; nebo zavřete &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2 "Pro spuštění režimu anonymního prohlížení můžete rovněž zvolit &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo "Ačkoliv váš počítač nebude obsahovat záznamy historie vašeho prohlížení, váš poskytovatel Internetu nebo zaměstnavatel může i nadále sledovat, jaké stránky navštěvujete.">
 <!ENTITY privatebrowsingpage.learnMore "Zjistit více">

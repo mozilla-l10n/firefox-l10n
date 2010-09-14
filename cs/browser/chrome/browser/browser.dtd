@@ -133,6 +133,7 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title "Záložky">
 
 <!-- Toolbar items -->
+<!ENTITY appMenuButton.label "Nabídka">
 <!ENTITY homeButton.label "Domů">
 <!ENTITY tabViewButton2.label "Skupiny panelů">
 <!ENTITY tabViewButton2.tooltip "Umožní seskupit panely">

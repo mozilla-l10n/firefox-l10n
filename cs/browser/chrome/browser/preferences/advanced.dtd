@@ -51,7 +51,7 @@
 <!ENTITY useCacheAfter.label "MB místa na disku pro vyrovnávací paměť">
 <!ENTITY clearCacheNow.label "Vymazat">
 <!ENTITY clearCacheNow.accesskey "V">
-<!ENTITY smartSizeCache.label "&brandShortName; bude automaticky spravovat velikost vyrovnávací paměti.">
+<!-- ENTITY smartSizeCache.label "&brandShortName; bude automaticky spravovat velikost vyrovnávací paměti." -->
 
 <!ENTITY updateTab.label "Aktualizace">
 
