@@ -35,6 +35,12 @@
 <!ENTITY updates.viewUpdates.accesskey "V">
 <!ENTITY updates.backgroudUpdateCheck.label "Buscar actualizaciones automáticamente">
 <!ENTITY updates.backgroudUpdateCheck.accesskey "B">
+<!ENTITY updates.updateAddonsAutomatically.label "Actualizar complementos automáticamente">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Reiniciar todos los complementos para actualizarlos automáticamente">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
+<!ENTITY updates.resetUpdatesToManual.label "Reiniciar todos los complementos para actualizarlos manualmente">
+<!ENTITY updates.resetUpdatesToManual.accesskey "R">
 <!ENTITY updates.updating.label "Actualizando complementos">
 <!ENTITY updates.installed.label "Se han actualizado sus complementos.">
 <!ENTITY updates.downloaded.label "Descargadas actualizaciones de sus complementos.">
@@ -83,6 +89,8 @@
 <!ENTITY detail.numberOfDownloads.label "Descargas">
 <!ENTITY detail.contributions.description "El desarrollador de este complemento solicita que ayudes a continuar su desarrollo haciendo una pequeña contribución.">
 <!ENTITY detail.updateType "Actualizaciones automáticas">
+<!ENTITY detail.updateDefault.label "Por defecto">
+<!ENTITY detail.updateDefault.tooltip "Instalar actualizaciones automáticamente sólo si ése es el valor por defecto">
 <!ENTITY detail.updateAutomatic.label "Sí">
 <!ENTITY detail.updateAutomatic.tooltip "Instalar actualizaciones automáticamente">
 <!ENTITY detail.updateManual.label "No">
