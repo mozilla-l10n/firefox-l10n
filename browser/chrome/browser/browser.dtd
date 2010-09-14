@@ -105,6 +105,7 @@
 <!ENTITY searchItem.title "Cerca">
 <!ENTITY throbberItem.title "Indicatore attività">
 <!ENTITY bookmarksItem.title "Segnalibri">
+<!ENTITY appMenuButton.label "Menu">
 <!ENTITY homeButton.label "Pagina iniziale">
 <!ENTITY tabViewButton2.label "Gruppi di schede">
 <!ENTITY tabViewButton2.tooltip "Raggruppa le schede">
