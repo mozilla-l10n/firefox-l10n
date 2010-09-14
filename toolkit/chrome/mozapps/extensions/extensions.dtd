@@ -38,10 +38,16 @@
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label "Aktualizovat doplňky">
 <!ENTITY updates.updateAddonsNow.accesskey "A">
-<!ENTITY updates.viewUpdates.label "Zobrzit nedávné aktualizace">
+<!ENTITY updates.viewUpdates.label "Zobrazit nedávné aktualizace">
 <!ENTITY updates.viewUpdates.accesskey "Z">
 <!ENTITY updates.backgroudUpdateCheck.label "Automaticky kontrolovat aktualizace">
 <!ENTITY updates.backgroudUpdateCheck.accesskey "A">
+<!ENTITY updates.updateAddonsAutomatically.label "Automaticky aktualizace doplňky">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Nastavit všechny doplňky na automatickou aktualizaci">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "N">
+<!ENTITY updates.resetUpdatesToManual.label "Nastavit všechny doplňky na manuální aktualizaci">
+<!ENTITY updates.resetUpdatesToManual.accesskey "N">
 <!ENTITY updates.updating.label "Aktualizace doplňků">
 <!ENTITY updates.installed.label "Doplňky byly aktualizovány.">
 <!ENTITY updates.downloaded.label "Doplňky byly staženy.">
@@ -98,10 +104,12 @@
 <!ENTITY detail.contributions.description "Vývojář tohoto doplňku vás žádá o malý příspěvek, kterým pomůžete podpořit další vývoj.">
 
 <!ENTITY detail.updateType "Automatické aktualizace">
+<!ENTITY detail.updateDefault.label "Výchozí">
+<!ENTITY detail.updateDefault.tooltip "Aktualizace se instalují automaticky, pokud je to výchozí nastavení">
 <!ENTITY detail.updateAutomatic.label "Povoleny">
-<!ENTITY detail.updateAutomatic.tooltip "Instalovat aktualizace automaticky">
+<!ENTITY detail.updateAutomatic.tooltip "Aktualizace se instalují automaticky">
 <!ENTITY detail.updateManual.label "Zakázány">
-<!ENTITY detail.updateManual.tooltip "Neinstalovat aktualizace automaticky">
+<!ENTITY detail.updateManual.tooltip "Aktualizace se instalují manuálně">
 <!ENTITY detail.home "Domovská stránka">
 <!ENTITY detail.repository "Profil doplňku">
 <!ENTITY detail.size "Velikost">
