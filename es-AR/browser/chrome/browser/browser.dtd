@@ -133,7 +133,8 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title "Marcadores">
 
 <!-- Toolbar items --> 
-<!ENTITY homeButton.label "Inicio">
+<!ENTITY appMenuButton.label          "Menú">
+<!ENTITY homeButton.label             "Inicio">
 <!ENTITY tabViewButton2.label         "Grupos de pestañas">
 <!ENTITY tabViewButton2.tooltip       "Agrupar pestañas">
 

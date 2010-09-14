@@ -5,12 +5,12 @@
 <!ENTITY feedFolder.accesskey "S">
 
 <!ENTITY feedLocation.label "URL del canal:">
-<!ENTITY feedLocation.accesskey "F">
+<!ENTITY feedLocation.accesskey "U">
 
 <!ENTITY choosethisfolder.label "seleccionar esta carpeta">
 
 <!ENTITY quickMode.label "Mostrar el resumen del artículo en vez de cargar la página web">
-<!ENTITY quickMode.accesskey "h">
+<!ENTITY quickMode.accesskey "M">
 
 <!ENTITY copyLinkCmd.label        "Copiar dirección del enlace"> 
 <!ENTITY copyLinkCmd.accesskey    "C"> 
