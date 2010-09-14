@@ -143,6 +143,7 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title "Zakładki" >
 
 <!-- Toolbar items -->
+<!ENTITY appMenuButton.label          "Menu">
 <!ENTITY homeButton.label "Strona startowa" >
 <!ENTITY tabViewButton2.label         "Grupy kart">
 <!ENTITY tabViewButton2.tooltip       "Grupuj karty">
