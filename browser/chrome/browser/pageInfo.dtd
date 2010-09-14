@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Utwreidings of tema's ynstallearje">
 <!ENTITY  permGeo               "Toan lokaasje">
 
+<!ENTITY  permIndexedDB              "Offline opslach behâlde">
+<!ENTITY  permClearStorage           "Wiskje opslach">
+<!ENTITY  permClearStorage.accesskey "W">
+
 <!ENTITY  securityTab           "Befeiliging">
 <!ENTITY  securityTab.accesskey "B">
 <!ENTITY  securityHeader        "Befeiligingsynformaasje foar dizze side">
