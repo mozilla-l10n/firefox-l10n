@@ -45,6 +45,12 @@
 <!ENTITY updates.viewUpdates.accesskey        "W">
 <!ENTITY updates.backgroudUpdateCheck.label   "Sprawdzaj automatycznie dostępność aktualizacji">
 <!ENTITY updates.backgroudUpdateCheck.accesskey "S">
+<!ENTITY updates.updateAddonsAutomatically.label     "Aktualizuj dodatki automatycznie">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Przestaw wszystkie dodatki na automatyczną aktualizację">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "e">
+<!ENTITY updates.resetUpdatesToManual.label          "Przestaw wszystkie dodatki na ręczną aktualizację">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "e">
 <!ENTITY updates.updating.label               "Aktualizacja dodatków">
 <!ENTITY updates.installed.label              "Dodatki zostały zaktualizowane.">
 <!ENTITY updates.downloaded.label             "Pobrano aktualizacje dodatków.">
@@ -101,6 +107,8 @@
 <!ENTITY detail.contributions.description     "Autor tego dodatku prosi o wsparcie niewielką kwotą jego dalszego rozwoju.">
 
 <!ENTITY detail.updateType                    "Aktualizacje automatyczne">
+<!ENTITY detail.updateDefault.label           "Ustawienia domyślne">
+<!ENTITY detail.updateDefault.tooltip         "Instaluj aktualizacje automatycznie tylko, jeśli takie jest domyślne ustawienie">
 <!ENTITY detail.updateAutomatic.label         "Włącz">
 <!ENTITY detail.updateAutomatic.tooltip       "Instaluj aktualizacje automatycznie">
 <!ENTITY detail.updateManual.label            "Wyłącz">
