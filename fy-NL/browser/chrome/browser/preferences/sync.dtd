@@ -15,29 +15,27 @@
 <!ENTITY manageAccount.label          "Account beheare">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY changePassword.label         "Wachtwurd wizigje">
-<!ENTITY changePassphrase.label       "Geheime wurd wizigje">
-<!ENTITY resetSync.label              "Syngronisaasje werinisjalisearje">
+<!ENTITY mySyncKey.label              "Myn Sync-kaai">
+<!ENTITY resetSync.label              "Sync werinisjalisearje">
 <!ENTITY differentAccount.label       "In oar account brûke">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browsersyngronisaasje">
 <!ENTITY syncComputerName.label       "Kompjûternamme:">
 <!ENTITY syncComputerName.accesskey   "k">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; sil: ">
-<!ENTITY syncModeSwitchDesc.accesskey "s">
-<!ENTITY syncEverything.label         "Alles syngronisearje">
-<!ENTITY customSync.label             "Myn oanpaste ynstellings brûke">
-<!ENTITY syncEverythingDescription.label  "Jo blêdwizers, skiednis, wachtwurden, foarkarren en ljepblêden sille syngronisearre wurde.">
-<!ENTITY syncItem.bookmarks.label     "Blêdwizers syngronisearje">
-<!ENTITY syncItem.bookmarks.accesskey "B">
-<!ENTITY syncItem.tabs.label          "Ljepblêden syngronisearje">
-<!ENTITY syncItem.tabs.accesskey      "L">
-<!ENTITY syncItem.history.label       "Skiednis syngronisearje">
-<!ENTITY syncItem.history.accesskey   "S">
-<!ENTITY syncItem.passwords.label     "Wachtwurden syngronisearje">
-<!ENTITY syncItem.passwords.accesskey "W">
-<!ENTITY syncItem.prefs.label         "Foarkarren syngronisearje">
-<!ENTITY syncItem.prefs.accesskey     "F">
+
+<!ENTITY syncMy.label               "Sync myn">
+<!ENTITY engine.bookmarks.label     "Blêdwizers">
+<!ENTITY engine.bookmarks.accesskey "w">
+<!ENTITY engine.tabs.label          "Ljepblêden">
+<!ENTITY engine.tabs.accesskey      "L">
+<!ENTITY engine.history.label       "Skiednis">
+<!ENTITY engine.history.accesskey   "n">
+<!ENTITY engine.passwords.label     "Wachwurden">
+<!ENTITY engine.passwords.accesskey "W">
+<!ENTITY engine.prefs.label         "Foarkarren">
+<!ENTITY engine.prefs.accesskey     "F">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tsjinstbetingsten (en)">
