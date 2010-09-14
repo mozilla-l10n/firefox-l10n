@@ -42,6 +42,12 @@
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!ENTITY updates.backgroudUpdateCheck.label   "Procurar actualizações automaticamente">
 <!ENTITY updates.backgroudUpdateCheck.accesskey "c">
+<!ENTITY updates.updateAddonsAutomatically.label     "Actualizar extras automaticamente">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reiniciar todos os extras para actualizarem automaticamente">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Reiniciar todos os extras para actualizarem manualmente">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "A actualizar extras">
 <!ENTITY updates.installed.label              "Os seus extras foram actualizados.">
 <!ENTITY updates.downloaded.label             "As actualizações para os seus extras foram transferidas.">
@@ -98,6 +104,8 @@
 <!ENTITY detail.contributions.description     "O desenvolvedor deste extra pede para o ajudar no desenvolvimento deste extra com uma pequena contribuição.">
 
 <!ENTITY detail.updateType                    "Actualizações automáticas">
+<!ENTITY detail.updateDefault.label           "Pré-definição">
+<!ENTITY detail.updateDefault.tooltip         "Instalar actualizações automaticamente se for a pré-definição">
 <!ENTITY detail.updateAutomatic.label         "Ligado">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalar actualizações automaticamente">
 <!ENTITY detail.updateManual.label            "Desligado">
