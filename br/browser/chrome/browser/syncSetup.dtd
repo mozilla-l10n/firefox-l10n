@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Degemer mat, ma n'ho eus ket graet gant &syncBrand.fullName.label; a-raok e vo ret deoc'h krouiñ ur gont nevez.">
+<!ENTITY setup.pickSetupType.description "Degemer mat, ma n'hoc'h eus ket graet gant &syncBrand.fullName.label; a-raok e vo ret deoc'h krouiñ ur gont nevez.">
 <!ENTITY button.createNewAccount.label "Krouiñ ur gont nevez">
 <!ENTITY button.haveAccount.label "Ur gont evit &syncBrand.fullName.label; 'm eus">
 
