@@ -131,7 +131,8 @@ can reach it easily. -->
 <!ENTITY throbberItem.title                      "Aktiivsuse indikaator">
 <!ENTITY bookmarksItem.title                     "Järjehoidjad">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
+<!ENTITY appMenuButton.label                     "Menüü"> 
 <!ENTITY homeButton.label                        "Kodu">
 <!ENTITY tabViewButton2.label                    "Kaardigrupid">
 <!ENTITY tabViewButton2.tooltip                  "Grupeeri oma kaardid">
