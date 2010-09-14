@@ -133,7 +133,8 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Marque-pages">
 
 <!-- Toolbar items -->
-<!ENTITY  homeButton.label          "Accueil">
+<!ENTITY appMenuButton.label          "Menu">
+<!ENTITY  homeButton.label            "Accueil">
 <!ENTITY tabViewButton2.label         "Groupes d'onglets">
 <!ENTITY tabViewButton2.tooltip       "Organiser les onglets par groupes">
 
