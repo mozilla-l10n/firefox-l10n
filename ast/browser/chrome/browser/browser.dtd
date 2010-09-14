@@ -235,7 +235,7 @@
 
 <!ENTITY openLinkCmd.label            "Abrir enllaz nuna ventana nueva">
 <!ENTITY openLinkCmd.accesskey        "A">
-<!ENTITY openLinkCmdInTab.label       "Abrir vínculu nuna llingüeta nueva">
+<!ENTITY openLinkCmdInTab.label       "Abrir enllaz nuna llingüeta nueva">
 <!ENTITY openLinkCmdInTab.accesskey   "v">
 <!ENTITY openFrameCmd.label           "Abrir el marcu nuna ventana nueva">
 <!ENTITY openFrameCmd.accesskey       "m">

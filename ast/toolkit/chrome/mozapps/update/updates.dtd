@@ -3,7 +3,7 @@
 <!ENTITY  window.width                    "36em">
 <!ENTITY  window.macWidth                 "39em">
 
-<!ENTITY  checking.title                  "Comprebando anovamientos">
+<!ENTITY  checking.title                  "Comprobando anovamientos">
 <!ENTITY  updateCheck.label               "Entrugando por nueves versiones de &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Alcontráronse anovamientos pa los Plugins">

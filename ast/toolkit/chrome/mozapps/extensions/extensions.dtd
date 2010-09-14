@@ -161,7 +161,7 @@
 <!ENTITY installSuccessRestart.label      "Reanicie pa completar la instalación.">
 <!ENTITY updateSuccessRestart.label       "Reanicie pa completar l'anovamientu.">
 <!ENTITY installWaiting.label             "Esperando…">
-<!ENTITY installIncompatibleUpdate.label  "Comprebando compatibilidá…">
+<!ENTITY installIncompatibleUpdate.label  "Comprobando compatibilidá…">
 <!ENTITY installFinishing.label           "Instalando…">
 <!ENTITY installFailure.label             "Instalación fallía.">
 

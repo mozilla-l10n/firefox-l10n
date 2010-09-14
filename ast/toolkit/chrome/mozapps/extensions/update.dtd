@@ -47,8 +47,8 @@
                                            porque la instalación de software en &brandShortName; foi desactivada.
                                            Por favor, contaute col alministrador del sistema pa obtener aida.">
 
-<!ENTITY  versioninfo.wizard.title        "Comprebando compatibilidá de complementos">
-<!ENTITY  versioninfo.top.label           "Comprebando la compatiblidá de los sos complementos con esta
+<!ENTITY  versioninfo.wizard.title        "Comprobando compatibilidá de complementos">
+<!ENTITY  versioninfo.top.label           "Comprobando la compatiblidá de los sos complementos con esta
                                            versión de &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Esto pue llevar unos minutos…">
 

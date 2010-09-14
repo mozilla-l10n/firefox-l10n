@@ -1,7 +1,7 @@
 <!ENTITY pluginWizard.title                                  "Serviciu de gueta de complementos">
 <!ENTITY pluginWizard.firstPage.title                        "Bienaportáu al &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ta comprebando agora los plugins disponibles…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ta comprobando agora los plugins disponibles…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Descargues de plugins disponibles">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Los siguientes plugins tán disponibles:">
