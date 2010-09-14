@@ -52,11 +52,14 @@
 
 <!ENTITY  errorpatching.intro             "Częściowa aktualizacja nie mogła zostać przeprowadzona. &brandShortName; spróbuje pobrać kompletną aktualizację.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Nie można bezpiecznie zaktualizować programu &brandShortName;.
-                                           Prosimy upewnić się, czy używana wersja programu &brandShortName; jest aktualna na:">
-                                           
+<!ENTITY  genericBackgroundError.label    "&brandShortName; nie może ustalić, czy dostępna jest aktualizacja.
+                                           Proszę upewnić się, że używana jest najnowsza wersja programu &brandShortName; z:">
+
+<!ENTITY  errorCertAttrNoUpdate2.label    "Nie można bezpiecznie zaktualizować programu &brandShortName;.
+                                           Proszę upewnić się, że używana jest najnowsza wersja programu &brandShortName; z:">
+
 <!ENTITY  errorCertAttrHasUpdate.label    "Próba wymuszenia na programie &brandShortName; akceptacji niebezpiecznej aktualizacji.
-                                           Prosimy skontaktować się z dostawcą usług sieciowych i poszukać pomocy.">
+                                           Proszę skontaktować się z dostawcą usług sieciowych i poszukać pomocy.">
 
 <!ENTITY  finishedPage.title              "Aktualizacja gotowa do zainstalowania">
 <!ENTITY  finishedPage.text               "Aktualizacja zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;. Uruchom teraz ponownie program &brandShortName; lub kontynuuj pracę i zainstaluj aktualizację później.">
