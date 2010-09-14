@@ -164,6 +164,7 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Bokmärken">
 
 <!-- Toolbar items --> 
+<!ENTITY appMenuButton.label          "Meny">
 <!ENTITY  homeButton.label            "Startsida">
 <!ENTITY tabViewButton2.label         "Flikgrupper">
 <!ENTITY tabViewButton2.tooltip       "Gruppera dina flikar">
