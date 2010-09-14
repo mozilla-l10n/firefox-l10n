@@ -133,6 +133,7 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Sinedoù">
 
 <!-- Toolbar items --> 
+<!ENTITY appMenuButton.label          "Lañser">
 <!ENTITY  homeButton.label            "D'ar gêr">
 <!ENTITY tabViewButton2.label         "Strolladoù ivinelloù">
 <!ENTITY tabViewButton2.tooltip       "Strollañ hoc'h ivinelloù">

@@ -42,6 +42,12 @@
 <!ENTITY updates.viewUpdates.accesskey        "v">
 <!ENTITY updates.backgroudUpdateCheck.label   "Gwiriañ an hizivadurioù ent emgefreek">
 <!ENTITY updates.backgroudUpdateCheck.accesskey "G">
+<!ENTITY updates.updateAddonsAutomatically.label     "Hizivaat an askouezhioù ent-emgefreek">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "H">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Lakaat an holl askouezhioù da vezañ hizivaet ent-emgefreek">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "L">
+<!ENTITY updates.resetUpdatesToManual.label          "Lakaat an holl askouezhioù da vezañ hizivaet dre zorn">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "L">
 <!ENTITY updates.updating.label               "Hizivadur an askouezhioù">
 <!ENTITY updates.installed.label              "Hoc'h askouezhioù zo bet hizivaet.">
 <!ENTITY updates.downloaded.label             "Hizivadurioù hoc'h askouezhioù zo bet pellgarget.">
@@ -98,6 +104,8 @@
 <!ENTITY detail.contributions.description     "Goulenn a ra paotr an diorren ma vefe skoazellet diorrenadur an askouezh-mañ ganeoc'h dre ur berzhadenn-arc'hant vihan.">
 
 <!ENTITY detail.updateType                    "Hizivadurioù emgefreek">
+<!ENTITY detail.updateDefault.label           "Diouer">
+<!ENTITY detail.updateDefault.tooltip         "Staliañ an hizivadennoù ent-emgefreek mard ez eo an dibarzh dre ziouer nemetken.">
 <!ENTITY detail.updateAutomatic.label         "Gweredekaet">
 <!ENTITY detail.updateAutomatic.tooltip       "Staliañ an hizivadurioù ent-emgefreek">
 <!ENTITY detail.updateManual.label            "Diweredekaet">
