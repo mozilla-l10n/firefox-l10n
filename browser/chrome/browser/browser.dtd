@@ -133,6 +133,7 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title "Bookmarks">
 <!-- Toolbar items --> 
 
+<!ENTITY appMenuButton.label "Menu">
 <!ENTITY homeButton.label "Home">
 <!ENTITY tabViewButton2.label "Tab Groups">
 <!ENTITY tabViewButton2.tooltip "Group Your Tabs">
@@ -451,7 +452,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Cut">
 <!ENTITY copyButton.tooltip "Copy">
 <!ENTITY pasteButton.tooltip "Paste">
+
 <!ENTITY fullScreenButton.tooltip "Display the window in full screen">
+
+<!ENTITY zoomOutButton.tooltip "Zoom out">
+<!ENTITY zoomInButton.tooltip "Zoom in">
+<!ENTITY zoomControls.label "Zoom Controls">
 
 <!ENTITY quitApplicationCmdWin.label "Exit">
 <!ENTITY quitApplicationCmdWin.accesskey "x">
