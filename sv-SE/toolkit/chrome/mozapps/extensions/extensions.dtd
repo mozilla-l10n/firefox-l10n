@@ -42,6 +42,12 @@
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!ENTITY updates.backgroudUpdateCheck.label   "Sök automatiskt efter uppdateringar">
 <!ENTITY updates.backgroudUpdateCheck.accesskey "S">
+<!ENTITY updates.updateAddonsAutomatically.label     "Installera uppdateringar automatiskt">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "t">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Ställ om alla tillägg till automatisk uppdatering">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "o">
+<!ENTITY updates.resetUpdatesToManual.label          "Ställ om alla tillägg till manuell uppdatering">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "o">
 <!ENTITY updates.updating.label               "Uppdaterar tillägg">
 <!ENTITY updates.installed.label              "Dina tillägg har uppdaterats.">
 <!ENTITY updates.downloaded.label             "Uppdateringarna till tilläggen har hämtats.">
@@ -98,6 +104,8 @@
 <!ENTITY detail.contributions.description     "Skaparen av det här tillägget ber dig om ett litet bidrag för att stödja den fortsatta utvecklingen.">
 
 <!ENTITY detail.updateType                    "Automatiska uppdateringar">
+<!ENTITY detail.updateDefault.label           "Standard">
+<!ENTITY detail.updateDefault.tooltip         "Installerar uppdateringar automatiskt endast om det är standard">
 <!ENTITY detail.updateAutomatic.label         "På">
 <!ENTITY detail.updateAutomatic.tooltip       "Installerar uppdateringar automatiskt">
 <!ENTITY detail.updateManual.label            "Av">
