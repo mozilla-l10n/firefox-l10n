@@ -15,8 +15,8 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Start Privee sneupe">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop	             "Om te stoppen mei Privee sneupen, selektearje &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, of slút &brandShortName; ôf.">
-<!ENTITY privatebrowsingpage.howToStart                "Om te starten mei Priee sneupen, kinne jo ek &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; selektearje.">
+<!ENTITY privatebrowsingpage.howToStop2	             "Om te stoppen mei Privee sneupen, selektearje &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, of slút &brandShortName; ôf.">
+<!ENTITY privatebrowsingpage.howToStart2                "Om te starten mei Privee sneupen, kinne jo ek &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; selektearje.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Wylst dizze kompjûter gjin gegevens fan jo sneupskiednis hat, kin jo ynternetprovider of wurkjouwer noch hieltyd de siden dy't jo besykje neigean.">
 <!ENTITY privatebrowsingpage.learnMore                 "Lear mear">
