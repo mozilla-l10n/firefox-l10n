@@ -63,7 +63,9 @@
 <!ENTITY errorpatching.intro              "A actualização parcial não pode ser aplicada. 
 							               O &brandShortName; vai tentar novamente, transferindo o pacote de actualização completo.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Algo está a impedir o &brandShortName; de actualizar em segurança.
+<!ENTITY  genericBackgroundError.label    "O &brandShortName; não consegue determinar se existe uma actualização disponível. Por favor
+                                           verifique se tem a última versão do &brandShortName; em:">
+<!ENTITY  errorCertAttrNoUpdate2.label     "Algo está a impedir o &brandShortName; de actualizar em segurança.
                                            Por favor, verifique que tem a última versão do &brandShortName; em:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Algo está a tentar enganar o &brandShortName; para aceitar uma
                                            actualização insegura. Por favor contacte o seu fornecedor do serviço e procure ajuda.">
