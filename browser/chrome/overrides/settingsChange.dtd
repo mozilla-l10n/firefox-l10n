@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Instellings kan gewysig word met die Toepassings-oortjie in &brandShortName; se voorkeur.">
-<!ENTITY settingsChangeOptions.label "Instellings kan gewysig word met die Toepassings-oortjie in &brandShortName; se opsies.">
+<!ENTITY  settingsChangePreferences.label  "Instellings kan gewysig word met die Toepassings-oortjie in &brandShortName; se voorkeur.">
+<!ENTITY  settingsChangeOptions.label      "Instellings kan gewysig word met die Toepassings-oortjie in &brandShortName; se opsies.">

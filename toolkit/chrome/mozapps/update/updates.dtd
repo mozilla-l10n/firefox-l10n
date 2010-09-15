@@ -1,88 +1,90 @@
-<!ENTITY updateWizard.title "Sagtewarebywerking">
+<!ENTITY  updateWizard.title              "Sagtewarebywerking">
 
-<!ENTITY checking.title "Kontroleer vir bywerkings">
-<!ENTITY updateCheck.label "Soek tans vir jonger weergawes van &brandShortName;…">
+<!ENTITY  checking.title                  "Kontroleer vir bywerkings">
+<!ENTITY  updateCheck.label               "Soek tans vir jonger weergawes van &brandShortName;…">
 
-<!ENTITY pluginupdatesfound.title "Opdaterings vir inproppe is gevind">
-<!ENTITY pluginupdatesfound.label "Nuwer weergawes van een of meer van u inproppe is gevind.">
-<!ENTITY pluginupdateslink.label "Leer hoe om u inproppe op te gradeer.">
+<!ENTITY  pluginupdatesfound.title        "Opdaterings vir inproppe is gevind">
+<!ENTITY  pluginupdatesfound.label        "Nuwer weergawes van een of meer van u inproppe is gevind.">
+<!ENTITY  pluginupdateslink.label         "Leer hoe om u inproppe op te gradeer.">
 
-<!ENTITY noupdatesfound.title "Geen bywerkings gevind nie">
-<!ENTITY noupdatesautoenabled.intro "Daar is geen bywerkings beskikbaar nie. &brandShortName; kan nou en dan 
+<!ENTITY  noupdatesfound.title            "Geen bywerkings gevind nie">
+<!ENTITY  noupdatesautoenabled.intro      "Daar is geen bywerkings beskikbaar nie. &brandShortName; kan nou en dan 
 kontroleer vir bywerkings.">
-<!ENTITY noupdatesautodisabled.intro "Daar is geen bywerkings nie. Kontroleer later weer, of aktiveer 
+<!ENTITY  noupdatesautodisabled.intro     "Daar is geen bywerkings nie. Kontroleer later weer, of aktiveer 
 &brandShortName; se outomatiese kontrolering.">
 
-<!ENTITY manualUpdate.title "Kon nie bywerk nie">
-<!ENTITY manualUpdate.desc "'n Aanbevole sekuriteit-en-stabiliteit-bywerking is beskikbaar, maar 
+<!ENTITY  manualUpdate.title              "Kon nie bywerk nie">
+<!ENTITY  manualUpdate.desc               "'n Aanbevole sekuriteit-en-stabiliteit-bywerking is beskikbaar, maar 
 u het onvoldoende toestemming om dit te installeer. Kontak u 
 stelseladministrateur of probeer weer met 'n rekening wat wel toestemming 
 het om sagteware op hierdie rekenaar te installeer.">
-<!ENTITY manualUpdateGetMsg.label "U kan altyd die jongste weergawe van &brandShortName; kry by:">
+<!ENTITY  manualUpdateGetMsg.label        "U kan altyd die jongste weergawe van &brandShortName; kry by:">
 
-<!ENTITY incompatibleCheck.title "Kontroleer of byvoegings versoenbaar is">
-<!ENTITY incompatibleCheck.label "Soek tans vir jonger weergawes van u byvoegings…">
+<!ENTITY  incompatibleCheck.title         "Kontroleer of byvoegings versoenbaar is">
+<!ENTITY  incompatibleCheck.label         "Soek tans vir jonger weergawes van u byvoegings…">
 
-<!ENTITY clickHere.label "Bekyk meer inligting oor hierdie bywerking">
+<!ENTITY  clickHere.label                 "Bekyk meer inligting oor hierdie bywerking">
 
-<!ENTITY evangelism.desc "Daar word sterk aanbeveel dat u hierdie bywerking 
+<!ENTITY  evangelism.desc                 "Daar word sterk aanbeveel dat u hierdie bywerking 
 vir &brandShortName; so gou moontlik toepas.">
 
-<!ENTITY license.instructions "As u met die bepalings van hierdie ooreenkoms instem, kliek Ek stem in hier 
+<!ENTITY  license.instructions            "As u met die bepalings van hierdie ooreenkoms instem, kliek Ek stem in hier 
 onder om hierdie bywerking te installeer.">
 
-<!ENTITY license.titleText "Sagtewarelisensieooreenkoms">
-<!ENTITY license.introText "Bepalings en voorwaardes vir die gebruik van hierdie sagteware.">
-<!ENTITY license.instructionText "Lees asseblief die volgende lisensieooreenkoms. Gebruik die rolbalk om die res van die ooreenkoms te bekyk.">
-<!ENTITY license.accept "Ek aanvaar die bepalings van die lisensieooreenkoms">
-<!ENTITY license.accept.accesskey "s">
-<!ENTITY license.decline "Ek aanvaar nié die bepalings van die lisensieooreenkoms nie">
-<!ENTITY license.decline.accesskey "n">
+<!ENTITY  license.titleText               "Sagtewarelisensieooreenkoms">
+<!ENTITY  license.introText               "Bepalings en voorwaardes vir die gebruik van hierdie sagteware.">
+<!ENTITY  license.instructionText         "Lees asseblief die volgende lisensieooreenkoms. Gebruik die rolbalk om die res van die ooreenkoms te bekyk.">
+<!ENTITY  license.accept                  "Ek aanvaar die bepalings van die lisensieooreenkoms">
+<!ENTITY  license.accept.accesskey        "s">
+<!ENTITY  license.decline                 "Ek aanvaar nié die bepalings van die lisensieooreenkoms nie">
+<!ENTITY  license.decline.accesskey       "n">
 
-<!ENTITY incompatibleList.title "Onversoenbare byvoegings gevind">
+<!ENTITY  incompatibleList.title          "Onversoenbare byvoegings gevind">
 
-<!ENTITY downloadPage.title "&brandShortName; aflaai">
-<!ENTITY downloading.intro "Laai tans die bywerking af…">
-<!ENTITY connecting.label "Koppel tans aan die bywerkingbediener…">
-<!ENTITY verificationFailedText.label "&brandShortName; kon nie die integriteit van die trapsgewyse 
+<!ENTITY  downloadPage.title              "&brandShortName; aflaai">
+<!ENTITY  downloading.intro               "Laai tans die bywerking af…">
+<!ENTITY  connecting.label                "Koppel tans aan die bywerkingbediener…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; kon nie die integriteit van die trapsgewyse 
 bywerking wat afgelaai is, verifieer nie, en daarom laai dit 
 nou die volledige pakket af.">
 
-<!ENTITY viewDetails.tooltip "Bekyk details vir hierdie bywerking">
+<!ENTITY  viewDetails.tooltip             "Bekyk details vir hierdie bywerking">
 
-<!ENTITY details.link "Besonderhede">
+<!ENTITY  details.link                    "Besonderhede">
 
-<!ENTITY error.title "Bywerking het misluk">
+<!ENTITY  error.title                     "Bywerking het misluk">
 
-<!ENTITY error.label "Kon nie vir hierdie bywerking kontroleer, dit aflaai of installeer nie. 
+<!ENTITY  error.label                     "Kon nie vir hierdie bywerking kontroleer, dit aflaai of installeer nie. 
 &brandShortName; kon nie opgedateer word nie, omdat:">
                                            
-<!ENTITY errorManual.label "U kan &brandShortName; handmatig bywerk deur hierdie skakel te 
+<!ENTITY  errorManual.label               "U kan &brandShortName; handmatig bywerk deur hierdie skakel te 
 besoek en die jongste weergawe af te laai:">
                                            
-<!ENTITY errorpatching.intro "Die gedeeltelike bywerking kon nie toegepas word nie. 
+<!ENTITY  errorpatching.intro             "Die gedeeltelike bywerking kon nie toegepas word nie. 
 &brandShortName; sal weer probeer deur 'n volledige bywerking af te laai.">
 
-<!ENTITY errorCertAttrNoUpdate.label "Something is preventing &brandShortName; from updating securely.
-                                           Please check you have the latest version of &brandShortName; at:">
-<!ENTITY errorCertAttrHasUpdate.label "Something is trying to trick &brandShortName; into accepting an
+<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
+                                           make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
+                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
                                            insecure update. Please contact your network provider and seek help.">
 
-<!ENTITY finishedPage.title "Bywerking gereed om geïnstalleer te word">
-<!ENTITY finishedPage.text "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U 
+<!ENTITY  finishedPage.title              "Bywerking gereed om geïnstalleer te word">
+<!ENTITY  finishedPage.text               "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U 
 kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
 
-<!ENTITY finishedBackgroundPage.text "'n Sekuriteit-en-stabiliteit-bywerking vir &brandShortName; is 
+<!ENTITY  finishedBackgroundPage.text     "'n Sekuriteit-en-stabiliteit-bywerking vir &brandShortName; is 
 afgelaai en is gereed om geïnstalleer te word.">
-<!ENTITY finishedBackground.name "Bywerking:">
+<!ENTITY  finishedBackground.name         "Bywerking:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY finishedBackground.more "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U 
+<!ENTITY  finishedBackground.more         "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U 
 kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
 
-<!ENTITY installed.title "Bywerking geïnstalleer">
-<!ENTITY installed.intro "Die bywerking is suksesvol geïnstalleer.">
-<!ENTITY whatsnew.label "Leer meer oor wat nuut is…">
+<!ENTITY  installed.title                 "Bywerking geïnstalleer">
+<!ENTITY  installed.intro                 "Die bywerking is suksesvol geïnstalleer.">
+<!ENTITY  whatsnew.label                  "Leer meer oor wat nuut is…">
 
-<!ENTITY update.details.label "Besonderhede">
-<!ENTITY update.installedOn.label "Geïnstalleer op:">
-<!ENTITY update.status.label "Status:">
+<!ENTITY  update.details.label            "Besonderhede">
+<!ENTITY  update.installedOn.label        "Geïnstalleer op:">
+<!ENTITY  update.status.label             "Status:">

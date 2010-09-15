@@ -40,6 +40,6 @@
 -->
 <!-- OK Cancel Buttons -->
 
-<!ENTITY okButton.label "OK">
-<!ENTITY cancelButton.label "Kanselleer">
-<!ENTITY helpButton.label "Hulp">
+<!ENTITY okButton.label      "OK">
+<!ENTITY cancelButton.label  "Kanselleer">
+<!ENTITY helpButton.label    "Hulp">

@@ -1,9 +1,9 @@
-<!ENTITY find.label "Soek:">
-<!ENTITY find.accesskey "S">
-<!ENTITY expand.label "Uitvou">
-<!ENTITY expand.accesskey "U">
-<!ENTITY collapse.label "Invou">
-<!ENTITY collapse.accesskey "I">
+<!ENTITY find.label                "Soek:">
+<!ENTITY find.accesskey            "S">
+<!ENTITY expand.label              "Uitvou">
+<!ENTITY expand.accesskey          "U">
+<!ENTITY collapse.label            "Invou">
+<!ENTITY collapse.accesskey        "I">
 <!ENTITY byDate.label "Volgens datum">
 <!ENTITY byDate.accesskey "d">
 <!ENTITY bySite.label "Volgens werf">

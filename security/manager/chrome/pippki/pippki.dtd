@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title "Wysig meesterwagwoord">
+<!ENTITY setPassword.title  "Wysig meesterwagwoord">
 <!ENTITY setPassword.tokenName.label "Sekuriteitstoestel">
 <!ENTITY setPassword.oldPassword.label "Huidige wagwoord:">
 <!ENTITY setPassword.newPassword.label "Nuwe wagwoord:">
@@ -46,11 +46,11 @@
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Teruglaai">
-<!ENTITY resetPassword.title "Stel meesterwagwoord terug">
-<!ENTITY resetPassword.text "Indien u u meesterwagwoord terugstel, sal al u gestoorde web- en e-poswagwoorde, vormdata, persoonlike sertifikate en private sleutels vergeet word. Is u seker dat u die meesterwagwoord wil teruglaai?">
+<!ENTITY resetPassword.title  "Stel meesterwagwoord terug">
+<!ENTITY resetPassword.text  "Indien u u meesterwagwoord terugstel, sal al u gestoorde web- en e-poswagwoorde, vormdata, persoonlike sertifikate en private sleutels vergeet word. Is u seker dat u die meesterwagwoord wil teruglaai?">
 <!-- Values for getpassword.xul -->
 
-<!ENTITY getPassword.title "Tik meesterwagwoord in">
+<!ENTITY getPassword.title  "Tik meesterwagwoord in">
 <!ENTITY getPassword.tokenName2.label "Sekuriteitstoestel:">
 <!ENTITY getPassword.password.label "Wagwoord:">
 <!-- These should be common -->
@@ -91,19 +91,19 @@
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Kies sertifikaat">
-<!ENTITY certPicker.info "Sertifikaat:">
+<!ENTITY certPicker.info  "Sertifikaat:">
 <!ENTITY certPicker.detailsLabel "Besonderhede van geselekteerde sertifikaat:">
 
-<!ENTITY pkcs12.setpassword.title "Kies 'n rugsteunsertifikaat-wagwoord">
-<!ENTITY pkcs12.setpassword.message "Die sertifikaat-rugsteunwagwoord wat u hier opstel, beskerm die rugsteunlêer wat u op die punt is om te skep.  U moet hierdie wagwoord opstel voor u met die rugsteuning kan voortgaan.">
+<!ENTITY pkcs12.setpassword.title  "Kies 'n rugsteunsertifikaat-wagwoord">
+<!ENTITY pkcs12.setpassword.message  "Die sertifikaat-rugsteunwagwoord wat u hier opstel, beskerm die rugsteunlêer wat u op die punt is om te skep.  U moet hierdie wagwoord opstel voor u met die rugsteuning kan voortgaan.">
 <!ENTITY pkcs12.setpassword.label1 "Rugsteunsertifikaat-wagwoord:">
 <!ENTITY pkcs12.setpassword.label2 "Rugsteunsertifikaat-wagwoord (weer):">
 <!ENTITY pkcs12.setpassword.reminder "Belangrik: Indien u u sertifikaat-rugsteunwagwoord vergeet, sal u nie hierdie rugsteuning later kan terugkopieer nie.  Teken dit op 'n veilige plek aan.">
 
-<!ENTITY pkcs12.getpassword.title "Wagwoord-intikdialoog">
+<!ENTITY pkcs12.getpassword.title  "Wagwoord-intikdialoog">
 <!ENTITY pkcs12.getpassword.message "Tik die wagwoord in wat gebruik is om hierdie sertifikaatrugsteun te enkripteer.">
 
-<!ENTITY chooseToken.title "Kies tekendialoog">
+<!ENTITY chooseToken.title  "Kies tekendialoog">
 <!ENTITY chooseToken.message1 "Kies 'n teken.">
 
 <!ENTITY escrowWarn.title "Enkripsie-sleutelkopie">

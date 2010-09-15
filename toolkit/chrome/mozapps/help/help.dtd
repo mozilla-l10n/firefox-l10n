@@ -1,31 +1,31 @@
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label "Terug">
-<!ENTITY backButton.accesskey "T">
-<!ENTITY backButton.tooltip "Gaan een bladsy terug">
-<!ENTITY forwardButton.label "Vorentoe">
-<!ENTITY forwardButton.accesskey "V">
-<!ENTITY forwardButton.tooltip "Gaan een bladsy vorentoe">
-<!ENTITY copyCmd.label "Kopieer">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY selectAllCmd.label "Merk alles">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "Tuis">
-<!ENTITY homeButton.tooltip "Gaan na die hulpbeginbladsy">
-<!ENTITY printButton.label "Druk">
-<!ENTITY printButton.tooltip "Druk hierdie bladsy">
-<!ENTITY closeWindow.commandkey "W">
+<!ENTITY backButton.label               "Terug">
+<!ENTITY backButton.accesskey           "T">
+<!ENTITY backButton.tooltip             "Gaan een bladsy terug">
+<!ENTITY forwardButton.label            "Vorentoe">
+<!ENTITY forwardButton.accesskey        "V">
+<!ENTITY forwardButton.tooltip          "Gaan een bladsy vorentoe">
+<!ENTITY copyCmd.label                  "Kopieer">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Merk alles">
+<!ENTITY selectAllCmd.accesskey         "a">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Tuis">
+<!ENTITY homeButton.tooltip             "Gaan na die hulpbeginbladsy">
+<!ENTITY printButton.label              "Druk">
+<!ENTITY printButton.tooltip            "Druk hierdie bladsy">
+<!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext "Soek">
-<!ENTITY searchHeader.label "Deursoek resultate">
-<!ENTITY toctab.label "Inhoud">
-<!ENTITY toctab.accesskey "I">
+<!ENTITY search.emptytext               "Soek">
+<!ENTITY searchHeader.label             "Deursoek resultate">
+<!ENTITY toctab.label                   "Inhoud">
+<!ENTITY toctab.accesskey               "I">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -33,21 +33,21 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey "k">
+<!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label "Altyd bo-oor">
-<!ENTITY zLevel.accesskey "o">
+<!ENTITY zLevel.label                   "Altyd bo-oor">
+<!ENTITY zLevel.accesskey               "o">
 
-<!ENTITY fullZoomReduceBtn.label "Zoem uit">
-<!ENTITY fullZoomReduceBtn.accesskey "u">
-<!ENTITY fullZoomEnlargeBtn.label "Zoem in">
-<!ENTITY fullZoomEnlargeBtn.accesskey "i">
+<!ENTITY fullZoomReduceBtn.label        "Zoem uit">
+<!ENTITY fullZoomReduceBtn.accesskey    "u">
+<!ENTITY fullZoomEnlargeBtn.label       "Zoem in">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "i">

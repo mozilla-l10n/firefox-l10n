@@ -1,12 +1,12 @@
 
-<!ENTITY history.title "Bywerkinggeskiedenis">
-<!ENTITY history.intro "Die volgende bywerkings is geïnstalleer:">
-<!ENTITY closebutton.label "Sluit">
+<!ENTITY  history.title             "Bywerkinggeskiedenis">
+<!ENTITY  history.intro             "Die volgende bywerkings is geïnstalleer:">
+<!ENTITY  closebutton.label         "Sluit">
                                      
-<!ENTITY noupdates.label "Geen bywerkings is nog geïnstalleer nie">
+<!ENTITY  noupdates.label           "Geen bywerkings is nog geïnstalleer nie">
 
-<!ENTITY name.header "Bywerkingnaam">
-<!ENTITY date.header "Installeringdatum">
-<!ENTITY type.header "Soort">
-<!ENTITY state.header "Status">
+<!ENTITY  name.header               "Bywerkingnaam">
+<!ENTITY  date.header               "Installeringdatum">
+<!ENTITY  type.header               "Soort">
+<!ENTITY  state.header              "Status">
 

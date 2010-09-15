@@ -35,18 +35,18 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "Gevorderde JavaScript-opstelling">
-<!ENTITY window.width "37em">
+<!ENTITY advancedJSDialog.title         "Gevorderde JavaScript-opstelling">
+<!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label "Laat skripte toe om:">
+<!ENTITY allowScripts.label             "Laat skripte toe om:">
 
-<!ENTITY moveResizeWindows.label "Bestaande vensters te verskuif of te herskaleer">
-<!ENTITY moveResizeWindows.accesskey "B">
-<!ENTITY raiseLowerWindows.label "Vensters te lig of te laat sak">
-<!ENTITY raiseLowerWindows.accesskey "V">
-<!ENTITY disableContextMenus.label "Kontekskieslysitems te deaktiveer of te vervang">
-<!ENTITY disableContextMenus.accesskey "K">
-<!ENTITY hideStatusBar.label "Die statusbalk te verskuil">
-<!ENTITY hideStatusBar.accesskey "s">
-<!ENTITY changeStatusBar.label "Die statusbalkteks te verander">
-<!ENTITY changeStatusBar.accesskey "t">
+<!ENTITY moveResizeWindows.label        "Bestaande vensters te verskuif of te herskaleer">
+<!ENTITY moveResizeWindows.accesskey    "B">
+<!ENTITY raiseLowerWindows.label        "Vensters te lig of te laat sak">
+<!ENTITY raiseLowerWindows.accesskey    "V">
+<!ENTITY disableContextMenus.label      "Kontekskieslysitems te deaktiveer of te vervang">
+<!ENTITY disableContextMenus.accesskey  "K">
+<!ENTITY hideStatusBar.label            "Die statusbalk te verskuil">
+<!ENTITY hideStatusBar.accesskey        "s">
+<!ENTITY changeStatusBar.label          "Die statusbalkteks te verander">
+<!ENTITY changeStatusBar.accesskey      "t">

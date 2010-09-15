@@ -1,43 +1,43 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Minimeer">
-<!ENTITY bringAllToFront.label "Bring alles na vore">
-<!ENTITY zoomWindow.label "Zoem">
-<!ENTITY windowMenu.label "Venster">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Minimeer">
+<!ENTITY bringAllToFront.label    "Bring alles na vore">
+<!ENTITY zoomWindow.label         "Zoem">
+<!ENTITY windowMenu.label         "Venster">
 
-<!ENTITY helpMenu.label "Hulp">
-<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenu.label           "Hulp">
+<!ENTITY helpMenu.accesskey       "H">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Hulp">
-<!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY aboutProduct.label "Aanvaarde &brandShortName;">
-<!ENTITY aboutProduct.accesskey "A">
-<!ENTITY productHelp.label "&brandShortName;-hulp">
-<!ENTITY productHelp.accesskey "h">
-<!ENTITY helpForIEUsers.label "Vir Internet Explorer-gebruikers">
+<!ENTITY helpMenuWin.label        "Hulp">
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct.label       "Aanvaarde &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "&brandShortName;-hulp">
+<!ENTITY productHelp.accesskey    "h">
+<!ENTITY helpForIEUsers.label     "Vir Internet Explorer-gebruikers">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY helpMac.commandkey "?">
+<!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpReleaseNotes.label "Vrystellingaantekeninge">
-<!ENTITY helpReleaseNotes.accesskey "a">
+<!ENTITY helpReleaseNotes.label         "Vrystellingaantekeninge">
+<!ENTITY helpReleaseNotes.accesskey     "a">
 
-<!ENTITY helpTroubleshootingInfo.label "Inligting vir probleemoplossing">
-<!ENTITY helpTroubleshootingInfo.accesskey "p">
+<!ENTITY helpTroubleshootingInfo.label      "Inligting vir probleemoplossing">
+<!ENTITY helpTroubleshootingInfo.accesskey  "p">
 
-<!ENTITY helpFeedbackPage.label "Submit Feedback…">
-<!ENTITY helpFeedbackPage.accesskey "S">
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY updateCmd.label "Kontroleer vir bywerkings…">
+<!ENTITY updateCmd.label                "Kontroleer vir bywerkings…">
 
-<!ENTITY preferencesCmdMac.label "Voorkeure…">
-<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.label        "Voorkeure…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label "Dienste">
+<!ENTITY servicesMenuMac.label          "Dienste">
 
-<!ENTITY hideThisAppCmdMac.label "Verskuil &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.label        "Verskuil &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
-<!ENTITY hideOtherAppsCmdMac.label "Verskuil ander">
+<!ENTITY hideOtherAppsCmdMac.label      "Verskuil ander">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label "Wys alle">
+<!ENTITY showAllAppsCmdMac.label        "Wys alle">

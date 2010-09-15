@@ -1,11 +1,18 @@
-<!ENTITY aboutDialog.title "Aangaande &brandFullName;">
-<!ENTITY copyright "Erkenning">
-<!ENTITY copyright.accesskey "E">
-<!ENTITY copyrightGNOME.accesskey "r">
-<!ENTITY aboutLink "&lt; Aangaande &brandFullName;">
-<!ENTITY aboutLink.accesskey "A">
-<!ENTITY aboutVersion "weergawe">
-<!ENTITY closeCmdGNOME.label "Sluit">
-<!ENTITY closeCmdGNOME.accesskey "S">
-<!ENTITY licenseLinkText "Lisensiëringinligting">
-<!ENTITY licenseLinkSuffix ".">
+<!ENTITY aboutDialog.title          "Aangaande &brandFullName;">
+
+<!ENTITY community.start            "&brandShortName; is designed by ">
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.end              ", a global community working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+
+<!ENTITY contribute.start           "Sound interesting? ">
+<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY contribute.end             "">
+<!-- LOCALIZAION NOTE(bottomLinks.license): This is a link title that links to about:license. -->
+
+<!ENTITY bottomLinks.license        "Licensing Information">
+<!-- LOCALIZAION NOTE(bottomLinks.rights): This is a link title that links to about:rights. -->
+
+<!ENTITY bottomLinks.rights         "End User Rights">
+<!-- LOCALIZAION NOTE(bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy. -->
+
+<!ENTITY bottomLinks.privacy        "Privaatheidbeleid">
