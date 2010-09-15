@@ -77,7 +77,10 @@ un lejupielādējot jaunāko versiju.">
 
 <!ENTITY  error.title                     "Atjaunināšana neizdevās">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Kaut kas liedz &brandShortName; droši atjaunināties.
-                                           Lūdzu pārliecinieties, ka jums ir jaunākā &brandShortName; versija šeit:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; nevar noteikt vai ir pieejams tā atjauninājums. 
+											Lūdzu pārliecinieties, ka jums ir jaunākā &brandShortName; versija no:">
+<!ENTITY  errorCertAttrNoUpdate2.label     "Kaut kas liedz &brandShortName; droši atjaunināties.
+                                           Lūdzu pārliecinieties, ka jums ir jaunākā &brandShortName; versija no:">
+
 <!ENTITY  errorCertAttrHasUpdate.label    "Kaut kas mēģina apmānīt &brandShortName;, lai tas pieņemtu nedrošu atjauninājumu.
                                      	   Lūdzu sazinieties ar savu tīkla nodrošinātāju un meklējiet palīdzību.">

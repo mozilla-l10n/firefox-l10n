@@ -1,11 +1,17 @@
 <!ENTITY aboutDialog.title "Par &brandFullName;">
-<!ENTITY copyright "Autori">
-<!ENTITY copyright.accesskey "A">
-<!ENTITY aboutLink "&lt; Par &brandFullName;">
-<!ENTITY aboutLink.accesskey "P">
-<!ENTITY aboutVersion "versija">
-<!ENTITY closeCmdGNOME.label        "Aizvēt">  
-<!ENTITY closeCmdGNOME.accesskey    "A">
-<!ENTITY copyrightGNOME.accesskey   "i">
-<!ENTITY licenseLinkText            "Licencēšanas informācija">
-<!ENTITY licenseLinkSuffix          ".">
+<!ENTITY community.start            "&brandShortName; veido ">
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.end              " - tā ir globāla cilvēku kopiena, kas kopīgi strādā pie tā, lai padarītu Internetu labāku. Mēs ticam, ka internetam ir jābūt atvērtam, publiskam un brīvi pieejamam ikvienam bez jebkādiem ierobežojumiem.">
+
+<!ENTITY contribute.start           "Izklausās interesanti? ">
+<!ENTITY contribute.getInvolvedLink "Iesaisties!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZAION NOTE(bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Licencēšanas informācija">
+
+<!-- LOCALIZAION NOTE(bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Gala lietotāja tiesības">
+
+<!-- LOCALIZAION NOTE(bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy. -->
+<!ENTITY bottomLinks.privacy        "Privātuma politika">
