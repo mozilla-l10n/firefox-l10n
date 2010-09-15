@@ -14,8 +14,8 @@
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-servern">
 <!ENTITY serverType.custom.label    "Använd en egen server">
-<!ENTITY signIn.username.label      "Användarnamn">
-<!ENTITY signIn.username.accesskey  "A">
+<!ENTITY signIn.account.label       "E-postadress / Användarnamn">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Lösenord">
 <!ENTITY signIn.password.accesskey  "L">
 <!ENTITY signIn.serverURL.label     "Serverns URL">
