@@ -36,7 +36,8 @@
 <!ENTITY errorManual.label "È possibile aggiornare &brandShortName; manualmente visitando il seguente link e scaricando l'ultima versione:">
 <!ENTITY errorpatching.intro "L'aggiornamento parziale non può essere applicato. 
                                            &brandShortName; ritenterà nuovamente scaricando un aggiornamento completo.">
-<!ENTITY errorCertAttrNoUpdate.label "Non è possibile procedere con l'aggiornamento di &brandShortName; in modalità sicura. Verificare di avere installato l'ultima versione disponibile di &brandShortName; visitando:">
+<!ENTITY genericBackgroundError.label "Non è possibile controllare la disponibilità di aggiornamenti. Verificare di avere installato l'ultima versione disponibile di &brandShortName; visitando:">
+<!ENTITY errorCertAttrNoUpdate2.label "Non è possibile procedere con l'aggiornamento di &brandShortName; in modalità sicura. Verificare di avere installato l'ultima versione disponibile di &brandShortName; visitando:">
 <!ENTITY errorCertAttrHasUpdate.label "Qualcosa sta cercando di forzare &brandShortName; ad accettare un aggiornamento in modalità non sicura. Contattare il proprio fornitore di rete e chiedere informazioni.">
 <!ENTITY finishedPage.title "Aggiornamento pronto per l'installazione">
 <!ENTITY finishedPage.text "L'aggiornamento verrà installato al prossimo avvio di &brandShortName;. È possibile riavviare ora &brandShortName;, oppure proseguire con il lavoro e riavviarlo in seguito.">
