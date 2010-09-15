@@ -1,11 +1,24 @@
 <!ENTITY aboutDialog.title "Acerca de &brandFullName;">
-<!ENTITY copyright "Créditos">
-<!ENTITY copyright.accesskey    "C">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY aboutLink              "&lt; Acerca de &brandFullName;">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion "versión">
-<!ENTITY closeCmdGNOME.label        "Cerrar">  
-<!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY licenseLinkText            "Información de licencia">
-<!ENTITY licenseLinkSuffix          ".">
+
+<!ENTITY community.start2           "&brandShortName; es diseñado por ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", una ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "comunidad global">
+<!ENTITY community.end2             " trabajando junta para mejorar Internet. Creemos que Internet debería ser abierta, pública y accesible a todos sin ninguna restricción.">
+
+<!ENTITY contribute.start           "¿Suena interesante? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "¡Involúcrese!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Información de licencia">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Derechos de usuario final">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Política de privacidad">
+
