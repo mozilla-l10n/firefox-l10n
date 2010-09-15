@@ -8,8 +8,8 @@
 <!ENTITY server.label "Сервер">
 <!ENTITY serverType.main.label "Сервер &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label "Использовать свой сервер">
-<!ENTITY signIn.username.label "Имя пользователя">
-<!ENTITY signIn.username.accesskey "м">
+<!ENTITY signIn.account.label "Адрес эл. почты / Имя пользователя">
+<!ENTITY signIn.account.accesskey "э">
 <!ENTITY signIn.password.label "Пароль">
 <!ENTITY signIn.password.accesskey "р">
 <!ENTITY signIn.serverURL.label "URL сервера">

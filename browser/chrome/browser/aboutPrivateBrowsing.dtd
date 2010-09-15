@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Начать приватный просмотр">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "о">
-<!ENTITY privatebrowsingpage.howToStop "Чтобы закончить приватный просмотр, выберите пункт меню &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, или закройте &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart "Чтобы начать приватный просмотр, вы можете также выбрать пункт меню &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2 "Чтобы закончить приватный просмотр, выберите &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, или закройте &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2 "Чтобы начать приватный просмотр, вы можете также выбрать &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 <!ENTITY privatebrowsingpage.moreInfo "Хотя этот компьютер не будет вести журнал посещаемых вами сайтов, ваш интернет-провайдер или работодатель могут следить за тем, какие страницы вы посещаете.">
 <!ENTITY privatebrowsingpage.learnMore "Подробнее">

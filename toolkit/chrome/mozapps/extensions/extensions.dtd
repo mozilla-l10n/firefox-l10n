@@ -33,8 +33,12 @@
 <!ENTITY updates.updateAddonsNow.accesskey "н">
 <!ENTITY updates.viewUpdates.label "Показать недавние обновления">
 <!ENTITY updates.viewUpdates.accesskey "к">
-<!ENTITY updates.backgroudUpdateCheck.label "Автоматически проверять наличие обновлений">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "в">
+<!ENTITY updates.updateAddonsAutomatically.label "Автоматически обновлять дополнения">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "в">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Установить для всех дополнений режим автоматического обновления">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "с">
+<!ENTITY updates.resetUpdatesToManual.label "Установить для всех дополнений режим ручного обновления">
+<!ENTITY updates.resetUpdatesToManual.accesskey "с">
 <!ENTITY updates.updating.label "Обновление дополнений">
 <!ENTITY updates.installed.label "Ваши дополнения были обновлены.">
 <!ENTITY updates.downloaded.label "Обновления дополнений загружены.">
@@ -83,6 +87,8 @@
 <!ENTITY detail.numberOfDownloads.label "Загрузок">
 <!ENTITY detail.contributions.description "Разработчик этого дополнения просит вас помочь поддержать его дальнейшее развитие, внеся небольшое пожертвование.">
 <!ENTITY detail.updateType "Автоматическое обновление">
+<!ENTITY detail.updateDefault.label "По умолчанию">
+<!ENTITY detail.updateDefault.tooltip "Автоматически устанавливать обновления только если это настройка по умолчанию">
 <!ENTITY detail.updateAutomatic.label "Включено">
 <!ENTITY detail.updateAutomatic.tooltip "Устанавливать обновления автоматически">
 <!ENTITY detail.updateManual.label "Отключено">

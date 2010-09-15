@@ -1,4 +1,5 @@
 <!ENTITY brandShortName "Firefox">
 <!ENTITY brandFullName "Mozilla Firefox">
 <!ENTITY vendorShortName "Mozilla">
-<!ENTITY trademarkInfo " Firefox и логотипы Firefox являются торговыми марками Mozilla Foundation. Права на некоторые торговые марки лицензированы у The Charlton Company.">
+<!ENTITY trademarkInfo.part1 "Firefox и логотипы Firefox являются торговыми марками Mozilla Foundation.">
+<!ENTITY trademarkInfo.part2 "Права на некоторые торговые марки лицензированы у The Charlton Company.">
