@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-konto">
-<!ENTITY currentUser.label            "Aktuell användare:">
+<!ENTITY currentAccount.label         "Aktuellt konto:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Uppdatera">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Hantera konto">
 <!ENTITY manageAccount.accesskey      "k">
+<!ENTITY viewQuota.label              "Visa kvot">
 <!ENTITY changePassword.label         "Byt lösenord">
 <!ENTITY mySyncKey.label              "Min Sync-nyckel">
 <!ENTITY resetSync.label              "Återställ Sync">
-<!ENTITY differentAccount.label       "Använd ett annat konto">
+<!ENTITY stopUsingAccount.label       "Sluta använda det här kontot">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Webbläsarsynkning">
