@@ -1,0 +1,11 @@
+<!ENTITY aboutDialog.title "Rreth &brandFullName;-it">
+<!ENTITY aboutLink "&lt; Rreth &brandFullName;-it">
+<!ENTITY aboutLink.accesskey    "V">
+<!ENTITY aboutVersion "version">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY copyright "Pjesëmarrës:">
+<!ENTITY copyright.accesskey    "P">
+<!ENTITY closeCmdGNOME.label        "Mbylle">  
+<!ENTITY closeCmdGNOME.accesskey    "M">
+<!ENTITY licenseLinkText            "Të dhëna lejimi">
+<!ENTITY licenseLinkSuffix          ".">
