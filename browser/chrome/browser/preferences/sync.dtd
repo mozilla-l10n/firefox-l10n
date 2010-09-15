@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-account">
-<!ENTITY currentUser.label            "Aktuele brûker:">
+<!ENTITY currentAccount.label         "Aktuele account:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Bywurkje">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Account beheare">
 <!ENTITY manageAccount.accesskey      "a">
+<!ENTITY viewQuota.label              "Toan kwota">
 <!ENTITY changePassword.label         "Wachtwurd wizigje">
 <!ENTITY mySyncKey.label              "Myn Sync-kaai">
 <!ENTITY resetSync.label              "Sync werinisjalisearje">
-<!ENTITY differentAccount.label       "In oar account brûke">
+<!ENTITY stopUsingAccount.label       "Stop it gebrûk fan dit account">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browsersyngronisaasje">
