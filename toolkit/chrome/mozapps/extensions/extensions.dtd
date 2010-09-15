@@ -40,14 +40,12 @@
 <!ENTITY updates.updateAddonsNow.accesskey    "U">
 <!ENTITY updates.viewUpdates.label            "Visa nyligen uppdaterade">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Sök automatiskt efter uppdateringar">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "S">
 <!ENTITY updates.updateAddonsAutomatically.label     "Installera uppdateringar automatiskt">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "t">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Ställ om alla tillägg till automatisk uppdatering">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "o">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "S">
 <!ENTITY updates.resetUpdatesToManual.label          "Ställ om alla tillägg till manuell uppdatering">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "o">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "S">
 <!ENTITY updates.updating.label               "Uppdaterar tillägg">
 <!ENTITY updates.installed.label              "Dina tillägg har uppdaterats.">
 <!ENTITY updates.downloaded.label             "Uppdateringarna till tilläggen har hämtats.">
