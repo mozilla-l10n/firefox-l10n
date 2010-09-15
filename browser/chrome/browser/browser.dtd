@@ -410,13 +410,8 @@
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 <!ENTITY syncTabsMenu.label "Вкладки с других компьютеров">
 <!ENTITY syncBrand.shortName.label "Sync">
-<!ENTITY syncMenu.label "&syncBrand.shortName.label;">
-<!ENTITY syncMenu.accesskey "Y">
 <!ENTITY syncSetup.label "Настроить &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "с">
-<!ENTITY syncLogInItem.label "Соединиться">
-<!ENTITY syncLogInItem.accesskey "е">
-<!ENTITY syncLogOutItem.label "Разъединиться">
-<!ENTITY syncLogOutItem.accesskey "з">
 <!ENTITY syncSyncNowItem.label "Синхронизировать сейчас">
 <!ENTITY syncSyncNowItem.accesskey "х">
+<!ENTITY syncToolbarButton.label "Синхронизация">
