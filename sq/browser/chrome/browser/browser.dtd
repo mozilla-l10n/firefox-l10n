@@ -86,6 +86,7 @@
 <!ENTITY bookmarksItem.title          "Faqerojtësa">
                               
 <!-- Toolbar items --> 
+<!ENTITY appMenuButton.label          "Menu">
 <!ENTITY  homeButton.label            "Hyrje">
 <!ENTITY tabViewButton2.label         "Grupe Skedash">
 <!ENTITY tabViewButton2.tooltip       "Gruponi Skedat Tuaja">
