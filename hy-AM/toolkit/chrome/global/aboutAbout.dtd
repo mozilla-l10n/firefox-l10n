@@ -37,7 +37,7 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY aboutAbout.title  "About About">
+<!ENTITY aboutAbout.title  "Մասին">
 <!ENTITY aboutAbout.note   "This is a list of “about” pages for your convenience.<br/>
                             Some of them might be confusing. Some are for diagnostic purposes only.<br/>
                             And some are omitted because they require query strings.">

@@ -138,6 +138,10 @@
 <!ENTITY  permInstall           "Տեղակայել Ընդլայնումներ կամ Թեմաներ">
 <!ENTITY  permGeo               "Ցուցադրել Տեղամասը">
 
+<!ENTITY  permIndexedDB              "Maintain Offline Storage">
+<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permClearStorage.accesskey "C">
+
 <!ENTITY  securityTab           "Անվտանգություն">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Անվտանգության տեղեկություն այս էջի վերաբերյալ">

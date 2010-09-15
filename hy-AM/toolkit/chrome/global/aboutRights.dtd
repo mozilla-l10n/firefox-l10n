@@ -59,16 +59,19 @@
 <!ENTITY rights.intro-point2-b "here">
 <!ENTITY rights.intro-point2-c ".">
 
+<!-- point 2.5 text for official branded builds -->
+<!ENTITY rights.intro-point2.5 "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
+
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "&vendorShortName;ի գաղտնիության քաղաքականությունը գտնվում է ">
-<!ENTITY rights.intro-point3b "այստեղ">
+<!ENTITY rights2.intro-point3a "How we use your personal information and feedback submitted to &vendorShortName; through &brandShortName; is described in the ">
+<!ENTITY rights2.intro-point3b "&brandShortName;ի այստեղ">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Այս ծրագրում գործող ցանկացած կոնֆիդենցիալության քաղաքականություն պետք է ընդգրկված լինի այստեղ:">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName;ը նաև տրամադրում է վեբ կայքերի լրացուցիչ տյալներ, օրինակ ` SafeBrowsing ծառայություն, սակայն` մենք չենք կարող երաշխավորել, որ նրանք 100&#37; ճշգիտ են կամ անսխալ են: Առավել մանրամասներ, ներառելով այս ծառայությաը անջատելու ձևը, կարող էք գտնել այստեղ` ">
+<!ENTITY rights2.intro-point4a "&brandShortName;ը նաև տրամադրում է վեբ կայքերի լրացուցիչ տյալներ, օրինակ ` SafeBrowsing ծառայություն, սակայն` մենք չենք կարող երաշխավորել, որ նրանք 100&#37; ճշգիտ են կամ անսխալ են: Առավել մանրամասներ, ներառելով այս ծառայությաը անջատելու ձևը, կարող էք գտնել այստեղ` ">
 <!ENTITY rights.intro-point4b "ծարայությունների մատուցումներ">
 <!ENTITY rights.intro-point4c ".">
 
@@ -77,16 +80,33 @@
 <!ENTITY rights.intro-point4b-unbranded "Վեբ Կայքի Ծառայություններ">
 <!ENTITY rights.intro-point4c-unbranded " սեսիա:">
 
-<!ENTITY rights.webservices-header "&brandFullName; Վեբ կայքի Ծառայություններ">
+<!ENTITY rights2.webservices-header "&brandFullName; Վեբ կայքի Ծառայություններ">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName;-ը օգտագործում է կայքի ինֆորմացիոն ծառայություններև, այնպիսին ինչպիսին է անվտանգ նավարկման ծառայությունը, որոնք առկա են &brandShortName;-ի այս բինար տարբերակում որոնց նկարագրությունը բերված է ստորև: Եթե դուք չէք ցանկանում օգտագործել այս ծառայությունները կամ կանոնները անընդունելի են, ապա դուք կարեղ էք անջատել անվտանգ նավարկման ծառայությունը բացելով ծրագրի նախընտրանքները և ընտրել ">
-<!ENTITY rights.webservices-b "Անվտանգություն">
-<!ENTITY rights.webservices-c " ընտրությունը և հանելով &quot;&blockAttackSites.label;&quot; և &quot;&blockWebForgeries.label;&quot նշիչները:">
+<!ENTITY rights2.webservices-a "&brandFullName;-ը օգտագործում է կայքի ինֆորմացիոն ծառայություններև, այնպիսին ինչպիսին է անվտանգ նավարկման ծառայությունը, որոնք առկա են &brandSh    ortName;-ի այս բինար տարբերակում որոնց նկարագրությունը բերված է ստորև: Եթե դուք չէք ցանկանում օգտագործել այս ծառայությունները կամ կանոնները անընդունելի են, ապա դուք կարեղ էք ա    նջատել անվտանգ նավարկման ծառայությունը բացելով ծրագրի նախընտրանքները և ընտրել ">
+<!ENTITY rights2.webservices-b "Անվտանգություն">
+<!ENTITY rights2.webservices-c " ընտրությունը և հանելով &quot;&blockAttackSites.label;&quot; և &quot;&blockWebForgeries.label;&quot նշիչները:">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:">
+<!ENTITY rights.safebrowsing-term1 "Open the application preferences">
+<!ENTITY rights.safebrowsing-term2 "Select the Security selection">
+<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
+
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
+<!ENTITY rights.locationawarebrowsing-b "is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:">
+<!ENTITY rights.locationawarebrowsing-term1a "In the URL bar, type ">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "Type geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Double click on the geo.enabled preference">
+<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Այս ծրագրում ընդգրկված վեբ կայքի ծառայությունների ընդհանուն նկարագիրը, եթե առկա է, անջատելու կանոների հետ պետք է բերված լինի այստեղ:">
@@ -95,9 +115,9 @@
 <!ENTITY rights.webservices-term1-unbranded "Այս ապրանքում կիրառելի ցանկացած ծառայության դրույթ պետք է ընդգրկված լինեն այստեղ:">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; և իր ներդրողները, լիցենզավորողները և գործնկերները աշխատում են որ տրամադրեն ամենաճշգրիտ և թարմ ֆիշինգային և վնասակար կայքերի տեղեկություն: Սակայն նրանք չեն կարող հավաստիացնել որ այդ տվյալները ամբողջական են և առանց սխալների` որոշ վտանգավոր կայքեր հնարավոր է որ բացահայտված չլինեն և որոշ անվտանգ կայքեր կարող են սխալամբ ընդգրկված լինեն վտանգավորների ցուցակում:">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; և իր ներդրողները, լիցենզավորողները և գործնկերները աշխատում են որ տրամադրեն ամենաճշգրիտ և թարմ ֆիշինգային և վնասակար կայքերի տեղեկություն: Սակայն նրանք չեն կարող հավաստիացնել որ այդ տվյալները ամբողջական են և առանց սխալների` որոշ վտանգավոր կայքեր հնարավոր է որ բացահայտված չլինեն և որոշ անվտանգ կայքեր կարող են սխալամբ ընդգրկված լինեն վտանգավորների ցուցակում:">
 <!ENTITY rights.webservices-term2 "&vendorShortName;ը կարող է իր հայեցողությամբ դադարել կամ փոխել ծառայությունները:">
-<!ENTITY rights.webservices-term3 "Խնդրեմ, դուք կարող էք օգտագործել այս ծառայությունները &brandShortName;ի համապատասխան տարբերակի հետ և դուք ունեք բոլոր իրավունքները այդ անելու: &vendorShortName;ը և իր լիցենզավորողը պահպանում են ծառայության մնացած իրավունքները: Այս դրույթները մտադրված չեն սահմանափակել &brandShortName;ում կիրառելի բաց կոդի ընձեռած իրավունքները և &brandShortName;ի աղբյուր կոդը:">
+<!ENTITY rights2.webservices-term3 "Խնդրեմ, դուք կարող էք օգտագործել այս ծառայությունները &brandShortName;ի համապատասխան տարբերակի հետ և դուք ունեք բոլոր իրավունքները այդ անելու: &vendorShortName;ը և իր լիցենզավորողը պահպանում են ծառայության մնացած իրավունքները: Այս դրույթները մտադրված չեն սահմանափակել &brandShortName;ում կիրառելի բաց կոդի ընձեռած իրավունքները և &brandShortName;ի աղբյուր կոդը:">
 <!ENTITY rights.webservices-term4 "Ծառայություննները տրամադրվում են այնպես ինչպես կա: &vendorShortName;-ը, իր ներդրողները, լիցենզավորողները, դիստրիբյուտորները հրաժարվում են որևէ երաշխիքից, ոչ սպասվող և ոչ էլ ներմուծված, առանց սահմանափակումների ներառելով նաև այնպիսի ծառայությունների և ձեր յուրահատուկ գործարքների երաշխիքը: Դուք էք կրում ձեր նպատակների համար Ծառայությունների ընտրության նաև որակի և արդյունավետության որջ ռիսկը: Որոշ օրենսդրություններ չեն թույլատրում բացառություններ կամ սահմանափակումներ ենթադրվող երաշխիքների վրա, այդ դեպքում այս բացառությունները կարող են չկիրառվել ձեր վրա:">
 <!ENTITY rights.webservices-term5 "Բացառությամբ օրենքի բահանջների, &vendorShortName;-ը, իր աշխատակիցները, լիցենզավորողները և դիստրիբյուտորները պատասխանատու չեն որևէ անուղղակի, հատուկ, հանկարծակի, շոշափող, պատժելի կամ տիպային վնասների համար որոնք որևէ կերպ կապված են &brandShortName;-ի և Սերվիսի օգտագործումով: Ընդհանուր հատուցումը այս պայմանագրով չի կարող գերազանցել $500 (Հինգ Հարյուր ԱՄՆ դոլար): Որոշ օրենսդրություններ չեն թույլատրում որոշակի վնասների հատուցման սահմանափակում կամ բացառում, այսպիսով այս բացառությունները և սահմանափակումները կարող են չազդել ձեր վրա:">
 <!ENTITY rights.webservices-term6 "&vendorShortName;ը անհրաժեշտության դեպքում ժամանակ առ ժամանակ կարող է թարմացնել այս կանոնները: Այս կանոննորը չեն կարող փոփոխվել կամ մերժվել առանղ &vendorShortName;ի գրավոր համաձայության:">
