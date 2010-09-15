@@ -14,7 +14,7 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gerir conta">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Ver Quota">
+<!ENTITY viewQuota.label              "Ver quota">
 <!ENTITY changePassword.label         "Alterar senha">
 <!ENTITY mySyncKey.label              "Chave da do meu Sync">
 <!ENTITY resetSync.label              "Reiniciar o Sync">
