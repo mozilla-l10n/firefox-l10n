@@ -1,15 +1,25 @@
-<!ENTITY aboutDialog.title      "Πληροφορίες για τον &brandFullName;">
-<!ENTITY copyright              "Μνεία">
-<!ENTITY copyright.accesskey    "Μ">
-<!ENTITY aboutLink              "&lt; Περί του &brandFullName;">
-<!ENTITY aboutLink.accesskey    "ρ">
-<!ENTITY aboutVersion           "version">
 
-<!ENTITY closeCmdGNOME.label        "Κλείσιμο">  
-<!ENTITY closeCmdGNOME.accesskey    "Κ">
-<!ENTITY copyrightGNOME.accesskey   "ν">
-<!ENTITY licenseLinkText            "Πληροφορίες αδειοδότησης">
-<!ENTITY licenseLinkSuffix          ".">
+<!ENTITY aboutDialog.title          "Πληροφορίες για τον &brandFullName;">
 
+<!ENTITY community.start2           "Ο &brandShortName; δημιουργήθηκε από το ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", μια ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "παγκόσμια κοινότητα">
+<!ENTITY community.end2             " που συνεργάζεται για να κάνει το διαδίκτυο ένα καλύτερο κόσμο. Βασική μας αρχή είναι ότι το διαδίκτυο θα πρέπει να είναι ανοικτό, ελεύθερο και προσβάσιμο από όλους χωρίς κανένα περιορισμό.">
 
+<!ENTITY contribute.start           "Ακούγεται ενδιαφέρον; ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Αναμιχθείτε και εσείς!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Πληροφορίες αδειοδότησης">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Δικαιώματα χρήστη">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Πολιτική απορρήτου">
 
