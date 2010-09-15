@@ -1,4 +1,5 @@
 <!ENTITY brandShortName "Firefox">
 <!ENTITY brandFullName "Mozilla Firefox">
 <!ENTITY vendorShortName "Mozilla">
-<!ENTITY trademarkInfo " Firefox e i logo di Firefox sono marchi registrati della Mozilla Foundation. Alcuni dei marchi registrati sono utilizzati sotto licenza di The Charlton Company.">
+<!ENTITY trademarkInfo.part1 "Firefox e i logo di Firefox sono marchi registrati di Mozilla Foundation.">
+<!ENTITY trademarkInfo.part2 "Alcuni dei marchi registrati sono utilizzati sotto licenza di The Charlton Company.">
