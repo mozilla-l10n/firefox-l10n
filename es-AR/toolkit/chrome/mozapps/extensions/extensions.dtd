@@ -7,8 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label          "Buscar actualizaciones">
 <!ENTITY listEmpty.search.label               "No se pudo encontrar ningún complemento que coincida">
 <!ENTITY listEmpty.button.label               "Conocer más sobre complementos">
-<!ENTITY installFromFile.label                "Instalar desde archivo…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "Instalar complemento desde archivo…">
+<!ENTITY installAddonFromFile.accesskey       "I">
 
 <!ENTITY cmd.back.tooltip                     "Retroceder una página">
 <!ENTITY cmd.forward.tooltip                  "Avanzar una página">
@@ -40,8 +40,6 @@
 <!ENTITY updates.updateAddonsNow.accesskey    "u">
 <!ENTITY updates.viewUpdates.label            "Ver actualizaciones recientes">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Buscar actualizaciones automáticamente">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "c">
 <!ENTITY updates.updateAddonsAutomatically.label     "Actualizar complementos automáticamente">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Reiniciar todos los complementos a actualización automáticaReset All Add-ons to Update Automatically">
