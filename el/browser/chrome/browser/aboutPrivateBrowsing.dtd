@@ -20,9 +20,6 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
 <!ENTITY privatebrowsingpage.description               "Σε μια συνεδρία ιδιωτικής περιήγησης, ο &brandShortName; δεν θα αποθηκεύει ιστορικό περιήγησης, αναζητήσεων, λήψεων, συμπλήρωσης φορμών, cookies, και προσωρινών αρχείων διαδικτύου.  Διατηρούνται όμως τα αρχεία που κατεβάσατε και οι σελιδοδείκτες που δημιουργήσατε.">
-<!ENTITY privatebrowsingpage.howToStart                "Για να ξεκινήσετε την ιδιωτική περιήγηση, επιλέξτε &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
-
-<!ENTITY privatebrowsingpage.howToStop                 "Για να διακόψετε την ιδιωτική περιήγηση, επιλέξτε &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, ή κλείσιμο &brandShortName;.">
 
 <!ENTITY privatebrowsingpage.issueDesc.normal          "Ο &brandShortName; δεν βρίσκεται σε λειτουργία ιδιωτικής περιήγησης.">
 
@@ -31,4 +28,9 @@
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Αν και ο υπολογιστής δεν θα διατηρεί κανένα στοιχείο από το ιστορικό της περιήγησης σας, ο πάροχος της διαδικτυακής σας σύνδεσης έχει την δυνατότητα καταγραφής των σελίδων που έχετε επισκεφτεί.">
 <!ENTITY privatebrowsingpage.learnMore                 "Διαβάστε περισσότερα">
+
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "Για να διακόψετε την ιδιωτική περιήγηση, επιλέξτε &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Για να ξεκινήσετε την ιδιωτική περιήγηση, επιλέξτε &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
