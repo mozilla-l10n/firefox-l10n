@@ -1,11 +1,23 @@
 <!ENTITY aboutDialog.title          "Sobre o &brandFullName;">
-<!ENTITY copyright                  "Créditos">
-<!ENTITY copyright.accesskey        "C">
-<!ENTITY copyrightGNOME.accesskey   "C">
-<!ENTITY aboutLink                  "&lt; Acerca do &brandFullName;">
-<!ENTITY aboutLink.accesskey        "A">
-<!ENTITY aboutVersion               "versão">
-<!ENTITY closeCmdGNOME.label        "Fechar">  
-<!ENTITY closeCmdGNOME.accesskey    "F">
-<!ENTITY licenseLinkText            "Informação de licenciamento">
-<!ENTITY licenseLinkSuffix          ".">
+
+<!ENTITY community.start2           "O &brandShortName; é desenvolvido pela ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", uma ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "comunidade global">
+<!ENTITY community.end2             " que trabalha em conjunto para tornar a internet melhor. Acreditamos que a internet deve ser aberta, pública e acessível a todos sem quaisquer restrições.">
+
+<!ENTITY contribute.start           "Parece-lhe interessante? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Envolva-se!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Informação de licenciamento">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Direitos do utilizador final">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Política de privacidade">
