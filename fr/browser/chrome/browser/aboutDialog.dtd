@@ -1,11 +1,18 @@
 <!ENTITY aboutDialog.title          "À propos de &brandFullName;">
-<!ENTITY copyright                  "Contributeurs">
-<!ENTITY copyright.accesskey        "C">
-<!ENTITY copyrightGNOME.accesskey   "C">
-<!ENTITY aboutLink                  "&lt; À propos de &brandFullName;">
-<!ENTITY aboutLink.accesskey        "o">
-<!ENTITY aboutVersion               "version">
-<!ENTITY closeCmdGNOME.label        "Fermer">  
-<!ENTITY closeCmdGNOME.accesskey    "F">
-<!ENTITY licenseLinkText            "Informations de licence">
-<!ENTITY licenseLinkSuffix          ".">
+
+<!ENTITY community.start            "&brandShortName; est conçu par ">
+   22.17 +<!ENTITY community.mozillaLink      "&vendorShortName;">
+   22.18 +<!ENTITY community.end              ", une communauté mondiale qui travaille ensemble pour rendre Internet meilleur. Nous croyons qu'Internet doit être ouvert, public et accessible à tous sans aucune restriction.">
+   22.19 +
+   22.20 +<!ENTITY contribute.start           "Ça vous intéresse ? ">
+   22.21 +<!ENTITY contribute.getInvolvedLink "Participez !">
+   22.22 +<!ENTITY contribute.end             "">
+   22.23 +
+   22.24 +<!-- LOCALIZAION NOTE(bottomLinks.license): This is a link title that links to about:license. -->
+   22.25 +<!ENTITY bottomLinks.license        "Informations de licence">
+   22.26 +
+   22.27 +<!-- LOCALIZAION NOTE(bottomLinks.rights): This is a link title that links to about:rights. -->
+   22.28 +<!ENTITY bottomLinks.rights         "Droits de l'utilisateur">
+   22.29 +
+   22.30 +<!-- LOCALIZAION NOTE(bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy. -->
+   22.31 +<!ENTITY bottomLinks.privacy        "Politique de confidentialité">
