@@ -381,7 +381,7 @@
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "N">
 <!ENTITY bidiSwitchPageDirectionItem.label "Cambiar dirección de la página">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "D">
 <!ENTITY bidiSwitchTextDirectionItem.label "Cambiar dirección del texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "d">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
