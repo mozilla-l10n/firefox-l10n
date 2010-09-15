@@ -232,6 +232,8 @@
 <!ENTITY viewCustomizeToolbar.label "Pielāgot...">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
 
+<!ENTITY appMenuButton.label          "Izvēlne">
+
 <!ENTITY historyMenu.label "Vēsture">
 <!ENTITY historyMenu.accesskey "v">
 <!ENTITY historyUndoMenu.label "Nesen aizvērtās cilnes">

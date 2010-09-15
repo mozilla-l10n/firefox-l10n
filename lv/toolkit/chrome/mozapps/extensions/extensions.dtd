@@ -174,3 +174,12 @@
 <!ENTITY addon.updateAvailable.label          "Ir pieejams atjauninājums">
 <!ENTITY updates.updateSelected.label         "Instalēt atjauninājumus">
 <!ENTITY updates.updateSelected.tooltip       "Instalēt visus šajā sarakstā pieejamos atjauninājumus">
+
+<!ENTITY detail.updateDefault.label           "Noklusētā vērtība">
+<!ENTITY detail.updateDefault.tooltip         "Automātiski instalēt atjauninājumus vienīgi, ja tā ir noklusētā vērtība">
+<!ENTITY updates.updateAddonsAutomatically.label     "Atjaunināt papildinājumus automātiski">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Likt visiem papildinājumiem atjaunināties automātiski">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "L">
+<!ENTITY updates.resetUpdatesToManual.label          "Likt visiem papildinājumiem atjaunināties manuāli">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "M">
