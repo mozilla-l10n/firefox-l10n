@@ -1,11 +1,23 @@
-<!ENTITY aboutDialog.title "Rreth &brandFullName;-it">
-<!ENTITY aboutLink "&lt; Rreth &brandFullName;-it">
-<!ENTITY aboutLink.accesskey    "V">
-<!ENTITY aboutVersion "version">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY copyright "Pjesëmarrës:">
-<!ENTITY copyright.accesskey    "P">
-<!ENTITY closeCmdGNOME.label        "Mbylle">  
-<!ENTITY closeCmdGNOME.accesskey    "M">
-<!ENTITY licenseLinkText            "Të dhëna lejimi">
-<!ENTITY licenseLinkSuffix          ".">
+<!ENTITY aboutDialog.title          "Rreth &brandFullName;-it">
+
+<!ENTITY community.start2           "&brandShortName;-i është krijuar nga ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", një ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "bashkësi mbarëbotërore">
+<!ENTITY community.end2             " që punon tok për ta bërë Internetin më të mirë. Ne besojmë se Interneti duhet të jetë i hapur, publik, dhe i shfrytëzueshëm nga kushdo, pa kufizime.">
+
+<!ENTITY contribute.start           "Ju duket me interes? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Përfshihuni!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Të dhëna Lejimi">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Të drejta Përdoruesi">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Rregulla Vetësie">
