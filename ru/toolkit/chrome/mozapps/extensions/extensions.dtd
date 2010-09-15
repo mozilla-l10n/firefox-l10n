@@ -7,8 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label "Проверить наличие обновлений">
 <!ENTITY listEmpty.search.label "Ни одного подходящего дополнения не найдено">
 <!ENTITY listEmpty.button.label "Узнать больше о дополнениях">
-<!ENTITY installFromFile.label "Установить из файла…">
-<!ENTITY installFromFile.accesskey "с">
+<!ENTITY installAddonFromFile.label "Установить дополнение из файла…">
+<!ENTITY installAddonFromFile.accesskey "с">
 <!ENTITY cmd.back.tooltip "На предыдущую страницу">
 <!ENTITY cmd.forward.tooltip "На следующую страницу">
 <!ENTITY warning.safemode.label "В безопасном режиме все дополнения отключены.">

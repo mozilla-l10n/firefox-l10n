@@ -18,7 +18,7 @@
 <!ENTITY homepage.none "Пустая страница">
 <!ENTITY homepage.default "Запуск &brandShortName;">
 <!ENTITY homepage.currentpage "Использовать текущую страницу">
-<!ENTITY sync.title "Sync">
+<!ENTITY sync.title "Синхронизация">
 <!ENTITY sync.username "Имя пользователя">
 <!ENTITY sync.password "Пароль">
 <!ENTITY sync.secretPhrase "Секретная фраза">
