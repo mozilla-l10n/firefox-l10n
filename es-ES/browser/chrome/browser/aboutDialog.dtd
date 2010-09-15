@@ -1,11 +1,10 @@
 <!ENTITY aboutDialog.title "Acerca de &brandFullName;">
-<!ENTITY copyright "Créditos">
-<!ENTITY copyright.accesskey "C">
-<!ENTITY copyrightGNOME.accesskey "r">
-<!ENTITY aboutLink "&lt; Acerca de &brandFullName;">
-<!ENTITY aboutLink.accesskey "A">
-<!ENTITY aboutVersion "versión">
-<!ENTITY closeCmdGNOME.label "Cerrar">
-<!ENTITY closeCmdGNOME.accesskey "C">
-<!ENTITY licenseLinkText "Información sobre la licencia">
-<!ENTITY licenseLinkSuffix ".">
+<!ENTITY community.start "&brandShortName; está diseñado por">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.end ", una comunidad global que trabaja unida para hacer un internet mejor. Creemos que la red debe ser abierta, pública y accesible por todos sin ningún tipo de restricción.">
+<!ENTITY contribute.start "¿Suena interesante?">
+<!ENTITY contribute.getInvolvedLink "¡Involúcrese!">
+<!ENTITY contribute.end "">
+<!ENTITY bottomLinks.license "Información de licencia">
+<!ENTITY bottomLinks.rights "Derechos del usuario final">
+<!ENTITY bottomLinks.privacy "Política de privacidad">

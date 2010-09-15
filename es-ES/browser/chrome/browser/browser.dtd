@@ -105,6 +105,7 @@
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY throbberItem.title "Progreso">
 <!ENTITY bookmarksItem.title "Marcadores">
+<!ENTITY appMenuButton.label "Menú">
 <!ENTITY homeButton.label "Inicio">
 <!ENTITY tabViewButton2.label "Grupos de pestañas">
 <!ENTITY tabViewButton2.tooltip "Agrupar sus pestañas">
