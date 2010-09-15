@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Kies gebruikerprofiel">
+<!ENTITY            windowtitle.label      "&brandShortName; - Kies gebruikerprofiel">
 
-<!ENTITY profilename.label "Profielnaam:">
+<!ENTITY            profilename.label      "Profielnaam:">
 
-<!ENTITY start.label "Laat loop &brandShortName;">
-<!ENTITY exit.label "Afsluit">
+<!ENTITY            start.label            "Laat loop &brandShortName;">
+<!ENTITY            exit.label             "Afsluit">
 
-<!ENTITY availprofiles.label "Beskikbare profiele">
+<!ENTITY            availprofiles.label    "Beskikbare profiele">
 
-<!ENTITY newButton.label "Skep profiel…">
-<!ENTITY newButton.accesskey "S">
-<!ENTITY renameButton.label "Hernoem profiel…">
-<!ENTITY renameButton.accesskey "H">
-<!ENTITY deleteButton.label "Skrap profiel…">
-<!ENTITY deleteButton.accesskey "S">
+<!ENTITY            newButton.label        "Skep profiel…">
+<!ENTITY            newButton.accesskey    "S">
+<!ENTITY            renameButton.label     "Hernoem profiel…">
+<!ENTITY            renameButton.accesskey "H">
+<!ENTITY            deleteButton.label     "Skrap profiel…">
+<!ENTITY            deleteButton.accesskey "S">
 <!-- manager entities -->
 
-<!ENTITY pmDescription.label "&brandShortName; stoor inligting oor u opstelling, voorkeure, en ander gebruikeritems in u gebruikerprofiel.">
+<!ENTITY            pmDescription.label    "&brandShortName; stoor inligting oor u opstelling, voorkeure, en ander gebruikeritems in u gebruikerprofiel.">
 
-<!ENTITY offlineState.label "Werk aflyn">
-<!ENTITY offlineState.accesskey "e">
+<!ENTITY            offlineState.label    "Werk aflyn">
+<!ENTITY            offlineState.accesskey "e">
 
-<!ENTITY autoSelect.label "Moenie vra aan begin">
-<!ENTITY autoSelect.accesskey "r">
+<!ENTITY            autoSelect.label       "Moenie vra aan begin">
+<!ENTITY            autoSelect.accesskey   "r">

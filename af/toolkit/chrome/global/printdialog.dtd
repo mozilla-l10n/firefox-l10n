@@ -18,12 +18,12 @@
 <!ENTITY printrangeGroup.label "Drukreeks">
 <!ENTITY allpagesRadio.label "Alle bladsye">
 <!ENTITY allpagesRadio.accesskey "A">
-<!ENTITY rangeRadio.label "Bladsye">
-<!ENTITY rangeRadio.accesskey "B">
-<!ENTITY frompageInput.label "van">
-<!ENTITY frompageInput.accesskey "v">
-<!ENTITY topageInput.label "aan">
-<!ENTITY topageInput.accesskey "a">
+<!ENTITY rangeRadio.label  "Bladsye">
+<!ENTITY rangeRadio.accesskey  "B">
+<!ENTITY frompageInput.label  "van">
+<!ENTITY frompageInput.accesskey  "v">
+<!ENTITY topageInput.label  "aan">
+<!ENTITY topageInput.accesskey  "a">
 <!ENTITY selectionRadio.label "Seleksie">
 <!ENTITY selectionRadio.accesskey "S">
 
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Druk rame">
 <!ENTITY aslaidoutRadio.label "Soos op die skerm uitgelê">
 <!ENTITY aslaidoutRadio.accesskey "u">
-<!ENTITY selectedframeRadio.label "Die geselekteerde raam">
-<!ENTITY selectedframeRadio.accesskey "m">
-<!ENTITY eachframesepRadio.label "Elke raam apart">
-<!ENTITY eachframesepRadio.accesskey "E">
+<!ENTITY selectedframeRadio.label  "Die geselekteerde raam">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Elke raam apart">
+<!ENTITY eachframesepRadio.accesskey  "E">

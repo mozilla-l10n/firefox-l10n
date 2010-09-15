@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Toestelbestuurder">
+<!ENTITY devmgr.title                           "Toestelbestuurder">
 
-<!ENTITY devmgr.devlist.label "Sekuriteitsmodules en -toestelle">
-<!ENTITY devmgr.details.title "Besonderhede">
-<!ENTITY devmgr.details.title2 "Waarde">
-<!ENTITY devmgr.status.label "Status">
-<!ENTITY devmgr.version.label "Weergawe">
+<!ENTITY devmgr.devlist.label                   "Sekuriteitsmodules en -toestelle">
+<!ENTITY devmgr.details.title                   "Besonderhede">
+<!ENTITY devmgr.details.title2                  "Waarde">
+<!ENTITY devmgr.status.label                    "Status">
+<!ENTITY devmgr.version.label                   "Weergawe">
 
-<!ENTITY devmgr.button.changeslotname.label "Verander gleufnaam">
+<!ENTITY devmgr.button.changeslotname.label     "Verander gleufnaam">
 <!ENTITY devmgr.button.changeslotname.accesskey "V">
-<!ENTITY devmgr.button.login.label "Meld aan">
-<!ENTITY devmgr.button.login.accesskey "a">
-<!ENTITY devmgr.button.logout.label "Afmeld">
-<!ENTITY devmgr.button.logout.accesskey "m">
-<!ENTITY devmgr.button.changepw.label "Verander wagwoord">
-<!ENTITY devmgr.button.changepw.accesskey "w">
-<!ENTITY devmgr.button.load.label "Laai">
-<!ENTITY devmgr.button.load.accesskey "L">
-<!ENTITY devmgr.button.unload.label "Ontlaai">
-<!ENTITY devmgr.button.unload.accesskey "O">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.login.label              "Meld aan">
+<!ENTITY devmgr.button.login.accesskey          "a">
+<!ENTITY devmgr.button.logout.label             "Afmeld">
+<!ENTITY devmgr.button.logout.accesskey         "m">
+<!ENTITY devmgr.button.changepw.label           "Verander wagwoord">
+<!ENTITY devmgr.button.changepw.accesskey       "w">
+<!ENTITY devmgr.button.load.label               "Laai">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "Ontlaai">
+<!ENTITY devmgr.button.unload.accesskey         "O">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info "Tik die inligting in vir die module wat u wil byvoeg.">
-<!ENTITY loaddevice.modname "Modulenaam:">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "Nuwe PKCS#11-module">
-<!ENTITY loaddevice.filename "Lêernaam van module:">
-<!ENTITY loaddevice.filename.accesskey "L">
-<!ENTITY loaddevice.browse "Blaai…">
-<!ENTITY loaddevice.browse.accesskey "B">
+<!ENTITY loaddevice.info                        "Tik die inligting in vir die module wat u wil byvoeg.">
+<!ENTITY loaddevice.modname                     "Modulenaam:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "Nuwe PKCS#11-module">
+<!ENTITY loaddevice.filename                    "Lêernaam van module:">
+<!ENTITY loaddevice.filename.accesskey          "L">
+<!ENTITY loaddevice.browse                      "Blaai…">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title "Laai PKCS#11-toestel">
+<!ENTITY loaddevice.title                       "Laai PKCS#11-toestel">

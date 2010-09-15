@@ -42,8 +42,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label "Bekyk">
-<!ENTITY viewMenu.accesskey "B">
+<!ENTITY viewMenu.label           "Bekyk">
+<!ENTITY viewMenu.accesskey       "B">
 <!ENTITY reloadCmd.label "Herlaai">
 <!ENTITY reloadCmd.accesskey "H">
 <!ENTITY reloadCmd.commandkey "r">
@@ -60,10 +60,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Gewoon">
 <!ENTITY menu_textReset.accesskey "G">
 
-<!ENTITY findOnCmd.label "Vind op hierdie bladsy…">
+<!ENTITY findOnCmd.label     "Vind op hierdie bladsy…">
 <!ENTITY findOnCmd.accesskey "V">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Vind weer">
+<!ENTITY findAgainCmd.label  "Vind weer">
 <!ENTITY findAgainCmd.accesskey "e">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">

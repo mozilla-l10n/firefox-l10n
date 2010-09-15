@@ -1,17 +1,17 @@
-<!ENTITY newWindowsAsTabs.label "Open nuwe vensters eerder in 'n nuwe oortjie">
-<!ENTITY newWindowsAsTabs.accesskey "o">
+<!ENTITY newWindowsAsTabs.label       "Open nuwe vensters eerder in 'n nuwe oortjie">
+<!ENTITY newWindowsAsTabs.accesskey   "o">
 
-<!ENTITY warnCloseMultipleTabs.label "Waarsku my wanneer ek meer as een oortjie sluit">
-<!ENTITY warnCloseMultipleTabs.accesskey "m">
+<!ENTITY warnCloseMultipleTabs.label  "Waarsku my wanneer ek meer as een oortjie sluit">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label "Waarsku my wanneer dit dalk &brandShortName; kan vertraag as ek meer as een oortjies open">
-<!ENTITY warnOpenManyTabs.accesskey "o">
+<!ENTITY warnOpenManyTabs.label       "Waarsku my wanneer dit dalk &brandShortName; kan vertraag as ek meer as een oortjies open">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label "Wys altyd die oortjiebalk">
-<!ENTITY showTabBar.accesskey "b">
+<!ENTITY showTabBar.label             "Wys altyd die oortjiebalk">
+<!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label "Wanneer ek 'n skakel in 'n nuwe oortjie open, skakel dadelik daarheen oor">
-<!ENTITY switchToNewTabs.accesskey "s">
+<!ENTITY switchToNewTabs.label        "Wanneer ek 'n skakel in 'n nuwe oortjie open, skakel dadelik daarheen oor">
+<!ENTITY switchToNewTabs.accesskey    "s">
 
-<!ENTITY showTabsInTaskbar.label "Show tab previews in the Windows taskbar">
-<!ENTITY showTabsInTaskbar.accesskey "k">
+<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.accesskey      "k">

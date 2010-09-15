@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Instellings kan gewysig word in &brandShortName; se voorkeure.">
-<!ENTITY settingsChangeOptions.label "Instellings kan gewysig word in &brandShortName; se opsies.">
+<!ENTITY  settingsChangePreferences.label  "Instellings kan gewysig word in &brandShortName; se voorkeure.">
+<!ENTITY  settingsChangeOptions.label      "Instellings kan gewysig word in &brandShortName; se opsies.">
