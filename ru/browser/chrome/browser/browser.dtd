@@ -105,6 +105,7 @@
 <!ENTITY searchItem.title "Поиск">
 <!ENTITY throbberItem.title "Индикатор активности">
 <!ENTITY bookmarksItem.title "Закладки">
+<!ENTITY appMenuButton.label "Меню">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY tabViewButton2.label "Группы вкладок">
 <!ENTITY tabViewButton2.tooltip "Группы вкладок">

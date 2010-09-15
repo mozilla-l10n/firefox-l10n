@@ -1,11 +1,12 @@
 <!ENTITY aboutDialog.title "О &brandFullName;">
-<!ENTITY copyright "Авторы">
-<!ENTITY copyright.accesskey "в">
-<!ENTITY copyrightGNOME.accesskey "р">
-<!ENTITY aboutLink "&lt; О &brandFullName;">
-<!ENTITY aboutLink.accesskey "О">
-<!ENTITY aboutVersion "версия">
-<!ENTITY closeCmdGNOME.label "Закрыть">
-<!ENTITY closeCmdGNOME.accesskey "к">
-<!ENTITY licenseLinkText "Информация о лицензии">
-<!ENTITY licenseLinkSuffix ".">
+<!ENTITY community.start2 "&brandShortName; создан ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ",  ">
+<!ENTITY community.creditsLink "глобальным сообществом">
+<!ENTITY community.end2 " работающим над тем, чтобы сделать Интернет лучше. Мы верим, что Интернет должен быть общественным ресурсом, открытым и доступным для всех и каждого без каких-либо ограничений.">
+<!ENTITY contribute.start "Звучит интересно? ">
+<!ENTITY contribute.getInvolvedLink "Присоединяйтесь!">
+<!ENTITY contribute.end "">
+<!ENTITY bottomLinks.license "Информация о лицензии">
+<!ENTITY bottomLinks.rights "Права конечного пользователя">
+<!ENTITY bottomLinks.privacy "Политика приватности">
