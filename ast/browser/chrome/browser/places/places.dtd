@@ -95,7 +95,7 @@
 <!ENTITY cmd.rename.label      "Renomar">
 <!ENTITY cmd.rename.accesskey  "e">
 
-<!ENTITY cmd.sortby_name.label              "Tresnar por nome">
+<!ENTITY cmd.sortby_name.label              "Axeitar por nome">
 <!ENTITY cmd.sortby_name.accesskey          "n">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
