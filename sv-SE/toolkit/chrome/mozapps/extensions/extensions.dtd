@@ -138,6 +138,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Ordna efter senast uppdaterad">
 <!ENTITY sort.relevance.label                 "Bästa träff">
 <!ENTITY sort.relevance.tooltip               "Ordna efter bästa träff">
+<!ENTITY sort.price.label                     "Pris">
+<!ENTITY sort.price.tooltip                   "Ordna efter pris">
 
 <!ENTITY search.filter2.label                 "Sök:">
 <!ENTITY search.filter2.installed.label       "Mina tillägg">
