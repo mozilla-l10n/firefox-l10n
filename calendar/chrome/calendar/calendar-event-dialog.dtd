@@ -236,7 +236,7 @@
 <!ENTITY event.reminder.30minutes.before.label            "30 minutt før" >
 <!ENTITY event.reminder.1hour.before.label                "1 time før" >
 <!ENTITY event.reminder.2hours.before.label               "2 timar før" >
-<!ENTITY event.reminder.12hours.before.label              "12 time før" >
+<!ENTITY event.reminder.12hours.before.label              "12 timar før" >
 <!ENTITY event.reminder.1day.before.label                 "1 dag før" >
 <!ENTITY event.reminder.2days.before.label                "2 dagar før" >
 <!ENTITY event.reminder.1week.before.label                "1 veke før" >
