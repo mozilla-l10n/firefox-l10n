@@ -7,8 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label          "Procurar actualizações">
 <!ENTITY listEmpty.search.label               "Não foi possível encontrar extras correspondentes">
 <!ENTITY listEmpty.button.label               "Saber mais sobre os extras">
-<!ENTITY installFromFile.label                "Instalar a partir de ficheiro…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "Instalar extra a partir de ficheiro…">
+<!ENTITY installAddonFromFile.accesskey       "I">
 
 <!ENTITY cmd.back.tooltip                     "Retroceder uma página">
 <!ENTITY cmd.forward.tooltip                  "Avançar uma página">
@@ -36,12 +36,10 @@
 <!ENTITY view.utilites.preferencesUnix.tooltip "Preferências para todos os extras">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Actualizar agora os extras">
-<!ENTITY updates.updateAddonsNow.accesskey    "u">
+<!ENTITY updates.checkForUpdates.label        "Procurar actualizações">
+<!ENTITY updates.checkForUpdates.accesskey    "c">
 <!ENTITY updates.viewUpdates.label            "Ver actualizações recentes">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Procurar actualizações automaticamente">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "c">
 <!ENTITY updates.updateAddonsAutomatically.label     "Actualizar extras automaticamente">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Reiniciar todos os extras para actualizarem automaticamente">
@@ -140,6 +138,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Ordenar por data de actualização">
 <!ENTITY sort.relevance.label                 "Melhor correspondência">
 <!ENTITY sort.relevance.tooltip               "Ordenar por relevância">
+<!ENTITY sort.price.label                     "Preço">
+<!ENTITY sort.price.tooltip                   "Ordenar por preço">
 
 <!ENTITY search.filter2.label                 "Pesquisar:">
 <!ENTITY search.filter2.installed.label       "Os seus extras instalados">
