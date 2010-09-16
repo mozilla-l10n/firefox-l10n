@@ -2,15 +2,16 @@
 <!ENTITY setupButton.accesskey "m">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; consente l'accesso alla cronologia, ai segnalibri, alle password e alle schede aperte da tutti i propri dispositivi.">
 <!ENTITY accountGroupboxCaption.label "Account &syncBrand.fullName.label;">
-<!ENTITY currentUser.label "Utente attuale:">
+<!ENTITY currentAccount.label "Account corrente:">
 <!ENTITY updatePass.label "Aggiorna">
 <!ENTITY resetPass.label "Azzera">
 <!ENTITY manageAccount.label "Gestione account">
 <!ENTITY manageAccount.accesskey "a">
+<!ENTITY viewQuota.label "Visualizza quota">
 <!ENTITY changePassword.label "Cambia la password">
 <!ENTITY mySyncKey.label "Chiave di sincronizzazione">
 <!ENTITY resetSync.label "Ripristina la sincronizzazione">
-<!ENTITY differentAccount.label "Utilizza un altro account">
+<!ENTITY stopUsingAccount.label "Non utilizzare più questo account">
 <!ENTITY syncPrefsCaption.label "Sincronizzazione del browser">
 <!ENTITY syncComputerName.label "Nome del computer:">
 <!ENTITY syncComputerName.accesskey "c">

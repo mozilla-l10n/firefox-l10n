@@ -8,8 +8,8 @@
 <!ENTITY server.label "Server">
 <!ENTITY serverType.main.label "Server di &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label "Utilizza un server personalizzato">
-<!ENTITY signIn.username.label "Nome utente">
-<!ENTITY signIn.username.accesskey "N">
+<!ENTITY signIn.account.label "Indirizzo e-mail/Nome utente">
+<!ENTITY signIn.account.accesskey "n">
 <!ENTITY signIn.password.label "Password">
 <!ENTITY signIn.password.accesskey "P">
 <!ENTITY signIn.serverURL.label "Indirizzo del server">
