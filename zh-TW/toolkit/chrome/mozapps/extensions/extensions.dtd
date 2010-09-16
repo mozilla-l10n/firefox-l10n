@@ -7,8 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label          "檢查更新">
 <!ENTITY listEmpty.search.label               "找不到任何符合您搜尋條件的附加元件">
 <!ENTITY listEmpty.button.label               "取得更多有關附加元件的消息">
-<!ENTITY installFromFile.label                "從檔案安裝…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "從檔案安裝附加元件…">
+<!ENTITY installAddonFromFile.accesskey       "I">
 
 <!ENTITY cmd.back.tooltip                     "回到上一頁">
 <!ENTITY cmd.forward.tooltip                  "到下一頁">
@@ -40,8 +40,12 @@
 <!ENTITY updates.updateAddonsNow.accesskey    "U">
 <!ENTITY updates.viewUpdates.label            "檢視最近的更新">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "自動檢查更新">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
+<!ENTITY updates.updateAddonsAutomatically.label     "自動更新附加元件">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "a">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "重設所有附加元件的自動更新設定">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "將所有附加元件設定成手動更新">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "正在更新附加元件">
 <!ENTITY updates.installed.label              "您的附加元件已被更新。">
 <!ENTITY updates.downloaded.label             "已下載您的附加元件更新。">
@@ -98,6 +102,8 @@
 <!ENTITY detail.contributions.description     "這個元件的開發者希望您透過小小的捐獻協助其後續開發。">
 
 <!ENTITY detail.updateType                    "自動更新">
+<!ENTITY detail.updateDefault.label           "預設">
+<!ENTITY detail.updateDefault.tooltip         "只自動安裝預設值為自動更新的更新版本">
 <!ENTITY detail.updateAutomatic.label         "開啟">
 <!ENTITY detail.updateAutomatic.tooltip       "自動安裝更新">
 <!ENTITY detail.updateManual.label            "關閉">
@@ -140,7 +146,7 @@
 <!ENTITY search.filter2.available.tooltip     "顯示可安裝的附加元件">
 
 <!ENTITY addon.homepage                       "網站首頁">
-<!ENTITY addon.details.label                  "更多">
+<!ENTITY addon.details.label                  "更多資訊">
 <!ENTITY addon.details.tooltip                "顯示更多關於此附加元件的詳情">
 <!ENTITY addon.unknownDate                    "未知">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
