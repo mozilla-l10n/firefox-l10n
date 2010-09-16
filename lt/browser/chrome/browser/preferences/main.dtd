@@ -37,8 +37,8 @@
 <!ENTITY startupHomePage.label     "rodyti pradžios tinklalapį">
 <!ENTITY startupBlankPage.label    "rodyti tuščią puslapį">
 <!ENTITY startupLastSession.label  "atverti paskiausio seanso langus ir korteles">
-<!ENTITY location.label            "Pradžios tinklalapis:">
-<!ENTITY location.accesskey        "P">
+<!ENTITY homepage.label            "Pradžios tinklalapis:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Šiuo metu atvertas tinklalapis">
 <!ENTITY useCurrentPage.accesskey  "Š">
 <!ENTITY useMultiple.label         "Šiuo metu atverti tinklalapiai">

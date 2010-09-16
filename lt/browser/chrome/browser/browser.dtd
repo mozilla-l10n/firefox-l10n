@@ -51,10 +51,16 @@
 <!ENTITY  closeOtherTabs.accesskey           "k">
 <!ENTITY  openTabInNewWindow.label           "Atverti naujame lange">
 <!ENTITY  openTabInNewWindow.accesskey       "l">
-<!ENTITY  pinTab.label                       "Paversti specialiąja kortele">
-<!ENTITY  pinTab.accesskey                   "s">
-<!ENTITY  unpinTab.label                     "Paversti paprastąja kortele">
-<!ENTITY  unpinTab.accesskey                 "s">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Įsegti kortelę kairėje">
+<!ENTITY  pinAppTab.accesskey                "s">
+<!ENTITY  unpinAppTab.label                  "Išsegti kortelę">
+<!ENTITY  unpinAppTab.accesskey              "s">
 <!ENTITY  moveToGroup.label                  "Perkelti į grupę">
 <!ENTITY  moveToGroup.accesskey              "g">
 <!ENTITY  moveToNewGroup.label               "Nauja grupė">
@@ -158,6 +164,7 @@
 <!ENTITY bookmarksItem.title          "Adresynas">
 
 <!-- Toolbar items --> 
+<!ENTITY appMenuButton.label          "Meniu">
 <!ENTITY homeButton.label             "Pradžios tinklalapis">
 <!ENTITY tabViewButton2.label         "Kortelių grupės">
 <!ENTITY tabViewButton2.tooltip       "Grupuoti korteles">
@@ -290,11 +297,13 @@
 <!ENTITY historyUndoMenu.label "Paskiausiai užvertos kortelės">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Paskiausiai užverti langai">
+<!ENTITY historyRestoreLastSession.label "Atkurti paskiausiąjį seansą">
 
 <!ENTITY historyHomeCmd.label "Pradžios tinklalapis">
 <!ENTITY showAllHistoryCmd2.label "Rodyti visą žurnalą">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label             "Taisa">
 <!ENTITY appMenuCustomize.label        "Tvarkyti">
 <!ENTITY appMenuToolbarLayout.label    "Priemonių juostos išdėstymas…">
 <!ENTITY appMenuSidebars.label         "Parankinė">
@@ -471,7 +480,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Iškirpti">
 <!ENTITY copyButton.tooltip             "Kopijuoti">
 <!ENTITY pasteButton.tooltip            "Įdėti">
+
 <!ENTITY fullScreenButton.tooltip       "Rodyti šį langą per visą ekraną">
+
+<!ENTITY zoomOutButton.tooltip          "Sumažinti mastelį">
+<!ENTITY zoomInButton.tooltip           "Padidinti mastelį">
+<!ENTITY zoomControls.label             "Mastelio keitimas">
 
 <!ENTITY quitApplicationCmdWin.label       "Baigti darbą"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "B">
@@ -559,16 +573,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncMenu.label               "Sinchronizavimas">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "S">
-<!ENTITY syncSetup.label              "Konfigūruoti „&syncBrand.shortName.label;“…">
+<!ENTITY syncSetup.label              "Konfigūruoti sinchronizavimą…">
 <!ENTITY syncSetup.accesskey          "K">
-<!ENTITY syncLogInItem.label          "Prisijungti">
-<!ENTITY syncLogInItem.accesskey      "P">
-<!ENTITY syncLogOutItem.label         "Atsijungti">
-<!ENTITY syncLogOutItem.accesskey     "A">
 <!ENTITY syncSyncNowItem.label        "Sinchronizuoti dabar">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-
+<!ENTITY syncToolbarButton.label      "Sinchronizuoti">

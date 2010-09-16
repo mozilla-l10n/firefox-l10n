@@ -35,7 +35,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "„&syncBrand.fullName.label;“ paskyra">
-<!ENTITY currentUser.label            "Aktyvus naudotojas:">
+<!ENTITY currentAccount.label         "Aktyvi paskyra:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Atnaujinti">
@@ -44,30 +44,28 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Tvarkyti paskyrą">
 <!ENTITY manageAccount.accesskey      "T">
+<!ENTITY viewQuota.label              "Kvota">
 <!ENTITY changePassword.label         "Keisti slaptažodį">
-<!ENTITY changePassphrase.label       "Keisti slaptąją frazę">
+<!ENTITY mySyncKey.label              "Mano sinchronizavimo raktas">
 <!ENTITY resetSync.label              "Iš naujo sinchronizuoti duomenis">
-<!ENTITY differentAccount.label       "Naudoti kitą paskyrą">
+<!ENTITY stopUsingAccount.label       "Nebenaudoti šios paskyros">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label           "Sinchronizuojami duomenys">
 <!ENTITY syncComputerName.label           "Kompiuterio vardas:">
 <!ENTITY syncComputerName.accesskey       "v">
-<!ENTITY syncModeSwitchDesc.label         "„&brandShortName;“ privalo: ">
-<!ENTITY syncModeSwitchDesc.accesskey     "p">
-<!ENTITY syncEverything.label             "sinchronizuoti viską">
-<!ENTITY customSync.label                 "laikytis tinkintų sinchronizavimo nuostatų">
-<!ENTITY syncEverythingDescription.label  "Bus sinchronizuojamas Jūsų adresynas, žurnalas, įrašyti slaptažodžiai, nuostatos ir atvertos kortelės.">
-<!ENTITY syncItem.bookmarks.label         "Sinchronizuoti adresyną">
-<!ENTITY syncItem.bookmarks.accesskey     "a">
-<!ENTITY syncItem.tabs.label              "Sinchronizuoti atvertas korteles">
-<!ENTITY syncItem.tabs.accesskey          "k">
-<!ENTITY syncItem.history.label           "Sinchronizuoti žurnalą">
-<!ENTITY syncItem.history.accesskey       "ž">
-<!ENTITY syncItem.passwords.label         "Sinchronizuoti įrašytus slaptažodžius">
-<!ENTITY syncItem.passwords.accesskey     "s">
-<!ENTITY syncItem.prefs.label             "Sinchronizuoti nuostatas">
-<!ENTITY syncItem.prefs.accesskey         "n">
+
+<!ENTITY syncMy.label               "Sinchronizuoti:">
+<!ENTITY engine.bookmarks.label     "adresyną">
+<!ENTITY engine.bookmarks.accesskey "a">
+<!ENTITY engine.tabs.label          "korteles">
+<!ENTITY engine.tabs.accesskey      "k">
+<!ENTITY engine.history.label       "žurnalą">
+<!ENTITY engine.history.accesskey   "ž">
+<!ENTITY engine.passwords.label     "slaptažodžius">
+<!ENTITY engine.passwords.accesskey "s">
+<!ENTITY engine.prefs.label         "nuostatas">
+<!ENTITY engine.prefs.accesskey     "n">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label          "Paslaugos teikimo nuostatai">

@@ -84,6 +84,8 @@
 <!ENTITY useCacheAfter.label             "MB disko atminties">
 <!ENTITY clearCacheNow.label             "Išvalyti dabar">
 <!ENTITY clearCacheNow.accesskey         "v">
+<!ENTITY smartSizeCache.label            "Leisti programai „&brandShortName;“ valdyti podėlio dydį">
+<!ENTITY smartSizeCache.accesskey        "L">
 
 <!ENTITY updateTab.label                 "Atnaujinimas">
 

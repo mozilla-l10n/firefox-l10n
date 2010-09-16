@@ -12,8 +12,6 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
-   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -31,13 +29,26 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY aboutDialog.title          "Apie „&brandFullName;“">
-<!ENTITY copyright                  "Autoriai">
-<!ENTITY copyright.accesskey        "A">
-<!ENTITY copyrightGNOME.accesskey   "A">
-<!ENTITY aboutLink                  "&lt; Apie „&brandFullName;“">
-<!ENTITY aboutLink.accesskey        "A">
-<!ENTITY aboutVersion               "laida">
-<!ENTITY closeCmdGNOME.label        "Užverti">
-<!ENTITY closeCmdGNOME.accesskey    "U">
-<!ENTITY licenseLinkText            "Informacija apie licencijavimą">
-<!ENTITY licenseLinkSuffix          ".">
+
+<!ENTITY community.start2           "„&brandShortName;“ kuria ir tobulina ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "„&vendorShortName;“">
+<!ENTITY community.middle2          " – ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "pasaulinė bendruomenė">
+<!ENTITY community.end2             ", siekianti gerinti internetą ir skatinti jo vystymąsi. Mes tikime ir siekiame, kad internetas būtų atviras, viešas ir be apribojimų prieinamas kiekvienam.">
+
+<!ENTITY contribute.start           "Sudominome? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Įsitraukike">
+<!ENTITY contribute.end             " į mūsų veiklą!">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Informacija apie licencijavimą">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Galutinio naudotojo teisės">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Privatumo nuostatai">
+

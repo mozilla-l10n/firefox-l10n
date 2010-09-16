@@ -31,23 +31,28 @@
 <!ENTITY accountSetupTitle.label    "„&syncBrand.fullName.label;“ konfigūravimas">
 
 <!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description  "Sveiki! Jeigu seniau nesate naudojęsi „&syncBrand.fullName.label;“, turėsite susikurti paskyrą.">
+<!ENTITY button.createNewAccount.label    "Kurti naują paskyrą">
+<!ENTITY button.haveAccount.label         "Jau turiu „&syncBrand.fullName.label;“ paskyrą">
+
 <!ENTITY setup.choicePage.title.label     "Ar esate naudojęsi „&syncBrand.fullName.label;“ anksčiau?">
 <!ENTITY setup.choicePage.new.label       "Anksčiau „&syncBrand.shortName.label;“ nenaudojau">
 <!ENTITY setup.choicePage.existing.label  "Jau naudoju „&syncBrand.shortName.label;“ kitame kompiuteryje">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Jungtis prie">
-<!ENTITY serverType.main.label      "„&syncBrand.fullName.label;“ serverio">
-<!ENTITY serverType.custom.label    "kito serverio">
-<!ENTITY signIn.username.label      "Naudotojo vardas">
-<!ENTITY signIn.username.accesskey  "N">
+<!ENTITY server.label               "Serveris">
+<!ENTITY serverType.main.label      "„&syncBrand.fullName.label;“ serveris">
+<!ENTITY serverType.custom.label    "kitas serveris">
+<!ENTITY signIn.account.label       "El. pašto adresas arba naudotojo vardas">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Slaptažodis">
 <!ENTITY signIn.password.accesskey  "S">
 <!ENTITY signIn.serverURL.label     "Serverio URL">
 <!ENTITY signIn.serverURL.accesskey "U">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "„&syncBrand.shortName.label;“ paskyros kūrimas">
+<!ENTITY setup.newAccountDetailsPage.title.label "Paskyros savybės">
 <!ENTITY setup.confirmPassword.label  "Patvirtinkite slaptažodį">
 <!ENTITY setup.confirmPassword.accesskey  "P">
 <!ENTITY setup.emailAddress.label     "El. pašto adresas">
@@ -62,66 +67,71 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label  "Įveskite sugalvotą slaptąją frazę">
-<!ENTITY passphraseDesc.label         "Prašom įvesti slaptąją frazę. Ji bus naudojama šifruoti visiems Jūsų duomenims, kad juos pasiekti galėtumėte tik Jūs. Ši frazė niekada nepateks į mūsų serverius, tad neužmirškite jos!">
-<!ENTITY passphraseDesc2.label        "Slaptoji frazė turi būti bent 12 simbolių ilgio ir negali sutapti su Jūsų paskyros slaptažodžiu.">
-<!ENTITY passphraseEntry.label        "Slaptoji frazė">
-<!ENTITY passphraseEntry.accesskey    "S">
-<!ENTITY passphraseConfirm.label      "Patvirtinkite">
-<!ENTITY passphraseConfirm.accesskey  "P">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label         "„&brandShortName;“ rūpi Jūsų privatumas">
+<!ENTITY setup.newSyncKeyPage.description.label   "Siekiant užtikrinti Jūsų privatumą, visi Jūsų duomenys prieš siunčiant į serverį yra šifruojami. Jiems iššifruoti reikalingas sinchronizavimo raktas, kuris į serverį nesiunčiamas.">
+<!ENTITY syncKeyEntry.label        "Jūsų sinchronizavimo raktas">
+<!ENTITY syncKeyEntry.accesskey    "r">
+<!ENTITY syncKeyGenerate.label     "Sugeneruoti">
+<!ENTITY syncKeyBackup.description "Sinchronizavimo rakto Jums prireiks, kai norėsite „&syncBrand.fullName.label;“ pasiekti iš kito kompiuterio. Pasirūpinkite, kad jo nepamestumėte. Pametus sinchronizavimo raktą, mes negalėsime Jums padėti jo atstatyti.">
 
-<!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "Sinchronizavimo nuostatos">
-<!ENTITY syncComputerName.label       "Kompiuterio vardas:">
-<!ENTITY syncComputerName.accesskey   "v">
-<!ENTITY syncModeSwitchDesc.label     "„&brandShortName;“ privalo: ">
-<!ENTITY syncModeSwitchDesc.accesskey "p">
-<!ENTITY syncEverything.label         "sinchronizuoti viską">
-<!ENTITY customSync.label             "laikytis tinkintų sinchronizavimo nuostatų">
-<!ENTITY syncEverythingDescription.label  "Bus sinchronizuojamas Jūsų adresynas, žurnalas, įrašyti slaptažodžiai, nuostatos ir atvertos kortelės.">
-<!ENTITY syncItem.bookmarks.label     "Sinchronizuoti adresyną">
-<!ENTITY syncItem.bookmarks.accesskey "a">
-<!ENTITY syncItem.tabs.label          "Sinchronizuoti atvertas korteles">
-<!ENTITY syncItem.tabs.accesskey      "k">
-<!ENTITY syncItem.history.label       "Sinchronizuoti žurnalą">
-<!ENTITY syncItem.history.accesskey   "ž">
-<!ENTITY syncItem.passwords.label     "Sinchronizuoti įrašytus slaptažodžius">
-<!ENTITY syncItem.passwords.accesskey "s">
-<!ENTITY syncItem.prefs.label         "Sinchronizuoti nuostatas">
-<!ENTITY syncItem.prefs.accesskey     "n">
+<!ENTITY button.syncKeyBackup.email.label     "Nusiųsti el. paštu…">
+<!ENTITY button.syncKeyBackup.email.accesskey "e">
+<!ENTITY button.syncKeyBackup.print.label     "Spausdinti…">
+<!ENTITY button.syncKeyBackup.print.accesskey "S">
+<!ENTITY button.syncKeyBackup.save.label      "Įrašyti…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "r">
 
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label     "Prašom patvirtinti, kad nesate robotas ;)">
+<!ENTITY page.syncKeyBackup.title     "Jūsų „Firefox“ sinchronizavimo raktas">
+<!ENTITY page.syncKeyBackup.descr     "Sinchronizavimo raktas yra naudojamas Jūsų asmeniniams duomenims užšifruoti. Jis nesiunčiamas į serverį ir negali būti atkurtas. Nepameskite ir neatskleiskite jo kitiems.">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Prašom patvirtinti, kad nesate robotas">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label  "Įveskite paskyros duomenis">
 <!ENTITY resetPassword.label                "Perkurti slaptažodį">
 <!ENTITY connecting.label                   "Jungiamasi…">
 
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label     "Įveskite slaptąją frazę">
-<!ENTITY passphraseDesc3.label        "Prašom įvesti Jūsų slaptąją frazę. Tai turi būti ta pati slaptoji frazė, kurią naudojote duomenims užšifruoti.">
-<!ENTITY passphraseHelp.label         "Slaptoji frazė yra bent 12 simbolių ilgio ir neturi sutapti su Jūsų slaptažodžiu. Galbūt ją rasite kitame savo kompiuteryje, tarp įrašytų slaptažodžių. Jeigu nepavyko jos atsiminti, galite sukurti naują, tačiu tuomet prarasite visus serveryje laikomus duomenis.">
-<!ENTITY changePassphrase.label       "Keisti slaptąją frazę">
-<!ENTITY verifying.label              "Tikrinama…">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title        "Įveskite savo sinchronizavimo raktą">
+<!ENTITY setup.existingSyncKeyPage.description  "Sinchronizavimo raktas Jums buvo sugeneruotas arba jį susikūrėte, registruodamiesi „&syncBrand.fullName.label;“ tarnyboje. Šis raktas yra kitoks, negu Jūsų slaptažodis.">
+<!ENTITY existingSyncKeyHelp.description        "Savo sinchronizavimo raktą galite rasti kitame savo kompiuteryje, naršyklės saugumo nuostatose, tarp įrašytų slaptažodžių. Nepavykus atsiminti ar atrasti sinchronizavimo rakto, jį galite pakeisti nauju, tačiau tuomet prarasite visus serveryje laikomus duomenis.">
+<!ENTITY lostSyncKey.label                      "Mano sinchronizavimo raktas pasimetė">
+<!ENTITY verifying.label                        "Tikrinama…">
 
-<!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "Kaip norite pradėti?">
-<!ENTITY choice.merge.main.label      "Sulieti kompiuteryje laikomus duomenis su „&syncBrand.shortName.label;“ duomenimis">
-<!ENTITY choice.merge.recommend.label "Ši parinktis „Mozillos“ rekomenduojama visiems naudotojams.">
-<!ENTITY choice.client.main.label     "Pakeisti šiame kompiuteryje turimus duomenis „&syncBrand.fullName.label;“ duomenimis">
-<!ENTITY choice.server.main.label     "Pakeisti kituose įrenginiuose laikomus duomenis lokaliais">
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Sinchronizavimo nuostatos">
+<!ENTITY syncComputerName.label       "Kompiuterio vardas:">
+<!ENTITY syncComputerName.accesskey   "v">
 
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label        "Patvirtinkite savo pasirinkimą">
-<!ENTITY confirm.merge.label          "Jūs pasirinkote sulieti šiame kompiuteryje laikomus duomenis su kituose įrenginuose, kuriuose naudojate „&syncBrand.fullName.label;“, turimais duomenimis.">
-<!ENTITY confirm.client.label         "Visi „&brandShortName;“ šiame kompiuteryje turimi duomenys bus pašalinti, įskaitant:">
-<!ENTITY confirm.client.moreinfo.label "Tada „&brandShortName;“ nukopijuos Jūsų „&syncBrand.fullName.label;“ paskyroje saugomus duomenis į šį kompiuterį.">
-<!ENTITY confirm.client.warning.label "DĖMESIO! Tai reiškia, kad visi šiame kompiuteryje laikomi „&brandShortName;“ duomenys bus pakeisti!">
-<!ENTITY confirm.server.label         "Šiuose įrenginiuose esantys duomenys bus pakeisti šiame kompiuteryje esančiais duomenimis:">
-<!ENTITY confirm.server.warning.label "DĖMESIO! Tai reiškia, kad visi kituose įrenginiuose laikomi „&brandShortName;“ duomenys bus pakeisti šiame kompiuteryje laikomais duomenimis!">
+<!ENTITY syncMy.label               "Sinchronizuoti:">
+<!ENTITY engine.bookmarks.label     "adresyną">
+<!ENTITY engine.bookmarks.accesskey "d">
+<!ENTITY engine.tabs.label          "korteles">
+<!ENTITY engine.tabs.accesskey      "k">
+<!ENTITY engine.history.label       "žurnalą">
+<!ENTITY engine.history.accesskey   "ž">
+<!ENTITY engine.passwords.label     "slaptažodžius">
+<!ENTITY engine.passwords.accesskey "s">
+<!ENTITY engine.prefs.label         "nuostatas">
+<!ENTITY engine.prefs.accesskey     "n">
+
+<!ENTITY choice2.merge.main.label        "Sulieti kompiuteryje laikomus duomenis su „&syncBrand.shortName.label;“ duomenimis">
+<!ENTITY choice2.merge.recommended.label "Rekomenduojama:">
+<!ENTITY choice2.client.main.label       "Pakeisti šiame kompiuteryje turimus duomenis „&syncBrand.fullName.label;“ duomenimis">
+<!ENTITY choice2.server.main.label       "Pakeisti kituose įrenginiuose laikomus duomenis esančiais šiame kompiuteryje">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Patvirtinkite savo pasirinkimą">
+<!ENTITY confirm.merge.label            "Dabar šiame kompiuteryje laikomi duomenys bus sulieti su kituose įrenginuose, kuriuose naudojate „&syncBrand.fullName.label;“, turimais duomenimis.">
+<!ENTITY confirm.client.label           "Visi „&brandShortName;“ šiame kompiuteryje turimi duomenys bus pašalinti, įskaitant:">
+<!ENTITY confirm.client.moreinfo.label  "Tada „&brandShortName;“ nukopijuos Jūsų „&syncBrand.fullName.label;“ paskyroje saugomus duomenis į šį kompiuterį.">
+<!ENTITY confirm.client.warning.label   "DĖMESIO! Tai reiškia, kad visi šiame kompiuteryje laikomi „&brandShortName;“ duomenys bus pakeisti!">
+<!ENTITY confirm.server.label           "Šiuose įrenginiuose esantys duomenys bus pakeisti šiame kompiuteryje esančiais duomenimis:">
+<!ENTITY confirm.server.warning.label   "DĖMESIO! Tai reiškia, kad visi kituose įrenginiuose laikomi „&brandShortName;“ duomenys bus pakeisti šiame kompiuteryje laikomais duomenimis!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "Konfigūravimas baigtas!">
-<!ENTITY setup.successPage.desc.label    "Sveikiname! „&brandShortName;“ dabar sukonfigūruota automatiškai sinchronizuoti Jūsų duomenis. Nepamirškite sukonfigūruoti „&syncBrand.fullName.label;“ visuose įrenginiuose, kuriuose norite šia galimybe naudotis. Dabar galite tęsti darbą su “&brandShortName;“.">
+<!ENTITY setup.successPage.title        "Konfigūravimas baigtas!">
+<!ENTITY changeOptions.label            "Suliejimo nuostatas galite parinkti, spustelėję apačioje esantį mygtuką „Sinchronizavimo nuostatos“.">
+<!ENTITY continueUsing.label            "Dabar darbą su „&brandShortName;“ galite tęsti.">
