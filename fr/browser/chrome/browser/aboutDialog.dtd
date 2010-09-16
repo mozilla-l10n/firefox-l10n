@@ -1,18 +1,23 @@
 <!ENTITY aboutDialog.title          "À propos de &brandFullName;">
 
-<!ENTITY community.start            "&brandShortName; est conçu par ">
+<!ENTITY community.start2           "&brandShortName; est conçu par ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.end              ", une communauté mondiale de contributeurs qui travaillent ensemble pour rendre Internet meilleur. Nous croyons qu'Internet doit être ouvert, public et accessible à tous sans aucune restriction.">
+<!ENTITY community.middle2          ", une communauté mondiale de ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "contributeurs">
+<!ENTITY community.end2             " qui travaillent ensemble pour rendre Internet meilleur. Nous croyons qu'Internet doit être ouvert, public et accessible à tous sans aucune restriction.">
 
 <!ENTITY contribute.start           "Ça vous intéresse ? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Participez !">
 <!ENTITY contribute.end             "">
 
-<!-- LOCALIZAION NOTE(bottomLinks.license): This is a link title that links to about:license. -->
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Informations de licence">
 
-<!-- LOCALIZAION NOTE(bottomLinks.rights): This is a link title that links to about:rights. -->
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Droits de l'utilisateur">
 
-<!-- LOCALIZAION NOTE(bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Politique de confidentialité">
