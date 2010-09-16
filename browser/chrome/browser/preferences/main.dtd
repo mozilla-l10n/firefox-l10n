@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Visa startsidan">
 <!ENTITY startupBlankPage.label    "Visa en tom sida">
 <!ENTITY startupLastSession.label  "Visa fönster och flikar från förra sessionen">
-<!ENTITY location.label            "Startsida:">
-<!ENTITY location.accesskey        "S">
+<!ENTITY homepage.label            "Startsida:">
+<!ENTITY homepage.accesskey        "S">
 <!ENTITY useCurrentPage.label      "Använd aktuell sida">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Använd aktuella sidor">
