@@ -574,16 +574,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "c">
 <!ENTITY syncSetup.label              "Ställ in &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "ä">
-<!ENTITY syncLogInItem.label          "Anslut">
-<!ENTITY syncLogInItem.accesskey      "A">
-<!ENTITY syncLogOutItem.label         "Koppla ned">
-<!ENTITY syncLogOutItem.accesskey     "K">
 <!ENTITY syncSyncNowItem.label        "Synka nu">
 <!ENTITY syncSyncNowItem.accesskey    "n">
 <!ENTITY syncToolbarButton.label      "Sync">
