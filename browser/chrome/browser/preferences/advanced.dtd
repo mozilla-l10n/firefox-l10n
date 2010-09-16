@@ -51,6 +51,8 @@
 <!ENTITY useCacheAfter.label             "MB utrymme för cachen">
 <!ENTITY clearCacheNow.label             "Rensa nu">
 <!ENTITY clearCacheNow.accesskey         "R">
+<!ENTITY smartSizeCache.label            "Låt &brandShortName; hantera storleken på cachen">
+<!ENTITY smartSizeCache.accesskey        "L">
 
 <!ENTITY updateTab.label                 "Uppdateringar">
 
