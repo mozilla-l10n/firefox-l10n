@@ -51,6 +51,8 @@
 <!ENTITY useCacheAfter.label             " MB diskplass for mellomlageret">
 <!ENTITY clearCacheNow.label             "Tøm no">
 <!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY smartSizeCache.label            "La &brandShortName; kontrollere storleiken på snøgglageret">
+<!ENTITY smartSizeCache.accesskey        "L">
 
 <!ENTITY updateTab.label                 "Oppdatering">
 

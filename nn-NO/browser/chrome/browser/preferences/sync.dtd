@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-konto">
-<!ENTITY currentUser.label            "Aktiv brukar:">
+<!ENTITY currentAccount.label         "Gjeldande konto:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Oppdater">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Handsame konto">
 <!ENTITY manageAccount.accesskey      "H">
+<!ENTITY viewQuota.label              "Vis plassavgrensing">
 <!ENTITY changePassword.label         "Endre passord">
 <!ENTITY mySyncKey.label              "Endre Sync-nøkkel">
 <!ENTITY resetSync.label              "Tilbakestill Sync">
-<!ENTITY differentAccount.label       "Bruk ein annan konto">
+<!ENTITY stopUsingAccount.label       "Slutt å bruke denne kontoen">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Nettlesar-synkronisering">

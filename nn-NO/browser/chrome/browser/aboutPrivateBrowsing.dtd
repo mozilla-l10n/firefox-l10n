@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Start privat nettlesing">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "a">
 
-<!ENTITY privatebrowsingpage.howToStop                 "For å avslutte privat nettlesing, vel &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller avslutt &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "For å starte privat nettlesing kan du òg velje &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "For å avslutte privat nettlesing, vel &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller avslutt &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "For å starte privat nettlesing kan du òg velje &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Sjølv om denne datamaskina ikkje vil ha spor frå nettlesarhistorikken, kan det hende at Internett-leverandør eller arbeidsgjevar likevel kan spore nettsider som du vitjar.">
 <!ENTITY privatebrowsingpage.learnMore                 "Finn ut meir">
