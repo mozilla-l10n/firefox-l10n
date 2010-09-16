@@ -67,7 +67,6 @@
 <!ENTITY cmd.disableTheme.accesskey "t">
 <!ENTITY cmd.installAddon.label "Installa">
 <!ENTITY cmd.installAddon.accesskey "I">
-<!ENTITY cmd.purchaseAddon.accesskey "u">
 <!ENTITY cmd.uninstallAddon.label "Rimuovi">
 <!ENTITY cmd.uninstallAddon.accesskey "R">
 <!ENTITY cmd.showPreferencesWin.label "Opzioni">
@@ -135,7 +134,6 @@
 <!ENTITY addon.restartNow.label "Riavvia adesso">
 <!ENTITY addon.install.label "Installa">
 <!ENTITY addon.install.tooltip "Installa questo componente aggiuntivo">
-<!ENTITY addon.purchase.tooltip "Visita la galleria dei componenti aggiuntivi per acquistare questo componente aggiuntivo">
 <!ENTITY addon.updateNow.label "Aggiorna adesso">
 <!ENTITY addon.updateNow.tooltip "Installa l'aggiornamento per questo componente aggiuntivo">
 <!ENTITY addon.includeUpdate.label "Includi negli aggiornamenti">
