@@ -92,8 +92,8 @@
 <!ENTITY col.dateadded.label     "Têxistin">
 <!ENTITY col.lastmodified.label  "Guherandina Dawîn">
 
-<!ENTITY search.label                              "Bigere:">
-<!ENTITY search.accesskey                          "B">
+<!ENTITY search.label                              "Lêgerîn:">
+<!ENTITY search.accesskey                          "L">
 <!ENTITY search.scopeFolder.label                  "Peldanka Hilbijartî">
 <!ENTITY search.scopeFolder.accesskey              "P">
 <!ENTITY search.scopeBookmarks.label               "Bijare">
