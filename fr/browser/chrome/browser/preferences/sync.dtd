@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Compte &syncBrand.fullName.label;">
-<!ENTITY currentUser.label            "Utilisateur courant :">
+<!ENTITY currentAccount.label         "Compte courant :">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Mettre à jour">
