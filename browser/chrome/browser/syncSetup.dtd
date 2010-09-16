@@ -14,8 +14,8 @@
 <!ENTITY server.label               "Tjener">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "Bruk en annen tjener">
-<!ENTITY signIn.username.label      "Brukernavn">
-<!ENTITY signIn.username.accesskey  "B">
+<!ENTITY signIn.account.label       "E-postadresse / brukernavn">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Passord">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.serverURL.label     "URL til tjeneren">

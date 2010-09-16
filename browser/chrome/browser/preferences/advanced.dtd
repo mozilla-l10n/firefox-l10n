@@ -51,6 +51,8 @@
 <!ENTITY useCacheAfter.label             " MB diskplass for hurtiglageret">
 <!ENTITY clearCacheNow.label             "Tøm nå">
 <!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY smartSizeCache.label            "La &brandShortName; kontrollere størrelsen på hurtiglageret">
+<!ENTITY smartSizeCache.accesskey        "L">
 
 <!ENTITY updateTab.label                 "Oppdatering">
 
