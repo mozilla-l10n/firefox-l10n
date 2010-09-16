@@ -133,6 +133,7 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Bokmerker">
 
 <!-- Toolbar items -->
+<!ENTITY appMenuButton.label          "Meny">
 <!ENTITY  homeButton.label            "Startside">
 <!ENTITY tabViewButton2.label         "Fanegrupper">
 <!ENTITY tabViewButton2.tooltip       "Legg fanene dine i grupper">
@@ -542,15 +543,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "Y">
 <!ENTITY syncSetup.label              "Konfigurer &syncBrand.shortName.label; …">
 <!ENTITY syncSetup.accesskey          "K">
-<!ENTITY syncLogInItem.label          "Koble til">
-<!ENTITY syncLogInItem.accesskey      "o">
-<!ENTITY syncLogOutItem.label         "Koble fra">
-<!ENTITY syncLogOutItem.accesskey     "b">
 <!ENTITY syncSyncNowItem.label        "Synkroniser nå">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sync">
