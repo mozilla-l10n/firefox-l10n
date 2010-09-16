@@ -2,9 +2,9 @@
 <!ENTITY community.start2 "&brandShortName; è progettato da ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
-<!ENTITY community.creditsLink "una comunità mondiale">
+<!ENTITY community.creditsLink "comunità mondiale">
 <!ENTITY community.end2 " che lavora per rendere Internet un luogo migliore. Crediamo che Internet debba essere aperto, pubblico e accessibile a chiunque senza limitazioni.">
-<!ENTITY contribute.start "Sembra interessante?">
+<!ENTITY contribute.start "Sembra interessante? ">
 <!ENTITY contribute.getInvolvedLink "Collabora con noi">
 <!ENTITY contribute.end "">
 <!ENTITY bottomLinks.license "Informazioni sulla licenza">
