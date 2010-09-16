@@ -1,11 +1,23 @@
 <!ENTITY aboutDialog.title          "關於 &brandFullName;">
-<!ENTITY copyright                  "感謝">
-<!ENTITY copyright.accesskey        "C">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY aboutLink                  "&lt; 關於 &brandFullName;">
-<!ENTITY aboutLink.accesskey        "A">
-<!ENTITY aboutVersion               "版本">
-<!ENTITY closeCmdGNOME.label        "關閉">  
-<!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY licenseLinkText            "授權資訊">
-<!ENTITY licenseLinkSuffix          "。">
+
+<!ENTITY community.start2           "&brandShortName; 係由 ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          "設計，這是一個想讓網際網路變得更好的 ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "全球性的社群">
+<!ENTITY community.end2             "。我們相信網際網路應該是開放、共用、且可被任何人無條件使用的。">
+
+<!ENTITY contribute.start           "覺得有興趣？ ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "立刻加入我們！">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "授權資訊">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "使用者權利">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "隱私權保護政策">

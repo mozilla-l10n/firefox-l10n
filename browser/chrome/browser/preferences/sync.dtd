@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; 帳號">
-<!ENTITY currentUser.label            "目前使用者:">
+<!ENTITY currentAccount.label         "目前帳號:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "更新">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "管理帳號">
 <!ENTITY manageAccount.accesskey      "a">
+<!ENTITY viewQuota.label              "檢視配額">
 <!ENTITY changePassword.label         "變更密碼">
 <!ENTITY mySyncKey.label              "我的同步金鑰">
 <!ENTITY resetSync.label              "重設同步">
-<!ENTITY differentAccount.label       "使用不同的帳號">
+<!ENTITY stopUsingAccount.label       "停用此帳號">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "瀏覽器同步">
