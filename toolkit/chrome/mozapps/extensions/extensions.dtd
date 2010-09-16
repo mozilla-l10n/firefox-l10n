@@ -7,8 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label          "Søk etter oppdateringer">
 <!ENTITY listEmpty.search.label               "Klarte ikke finne noen passende utvidelser">
 <!ENTITY listEmpty.button.label               "Les mer om utvidelser">
-<!ENTITY installFromFile.label                "Installer fra fil …">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "Installer utvidelse fra fil …">
+<!ENTITY installAddonFromFile.accesskey       "I">
 
 <!ENTITY cmd.back.tooltip                     "Gå tilbake en side">
 <!ENTITY cmd.forward.tooltip                  "Gå frem en side">
@@ -36,12 +36,16 @@
 <!ENTITY view.utilites.preferencesUnix.tooltip "Innstillinger for alle utvidelser">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Oppdater utvidelser nå">
-<!ENTITY updates.updateAddonsNow.accesskey    "O">
+<!ENTITY updates.checkForUpdates.label        "Søk etter oppdateringer nå">
+<!ENTITY updates.checkForUpdates.accesskey    "S">
 <!ENTITY updates.viewUpdates.label            "Vis nylig oppdaterte">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Søk etter oppdateringer automatisk">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "S">
+<!ENTITY updates.updateAddonsAutomatically.label     "Oppdater utvidelser automatisk">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "O">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Tilbakestill alle utvidelser til å oppdatere automatisk">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
+<!ENTITY updates.resetUpdatesToManual.label          "Tilbakestill alle utvidelser til å oppdatere manuelt">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "T">
 <!ENTITY updates.updating.label               "Oppdaterer utvidelser">
 <!ENTITY updates.installed.label              "Utvidelsene er oppdatert.">
 <!ENTITY updates.downloaded.label             "Oppdateringer til utvidelsene er lastet ned.">
@@ -98,6 +102,8 @@
 <!ENTITY detail.contributions.description     "Utvikleren av denne utvidelsen ber om at du hjelper å støtte videre utvikling ved å gjøre en liten donasjon.">
 
 <!ENTITY detail.updateType                    "Automatiske oppdateringer">
+<!ENTITY detail.updateDefault.label           "Standard">
+<!ENTITY detail.updateDefault.tooltip         "Installer oppdateringer automatisk bare hvis det er standard oppførsel">
 <!ENTITY detail.updateAutomatic.label         "På">
 <!ENTITY detail.updateAutomatic.tooltip       "Automatisk installer utvidelser">
 <!ENTITY detail.updateManual.label            "Av">
@@ -132,6 +138,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Sorter etter dato oppdatert">
 <!ENTITY sort.relevance.label                 "Beste treff">
 <!ENTITY sort.relevance.tooltip               "Sorter etter relevans">
+<!ENTITY sort.price.label                     "Pris">
+<!ENTITY sort.price.tooltip                   "Sorter etter pris">
 
 <!ENTITY search.filter2.label                 "Søk:">
 <!ENTITY search.filter2.installed.label       "Installerte utvidelser">
