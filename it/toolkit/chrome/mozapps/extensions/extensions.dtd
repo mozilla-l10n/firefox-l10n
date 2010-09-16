@@ -7,8 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label "Controlla aggiornamenti">
 <!ENTITY listEmpty.search.label "Non è stato trovato alcun componente aggiuntivo corrispondente">
 <!ENTITY listEmpty.button.label "Scopri altre informazioni sui componenti aggiuntivi">
-<!ENTITY installFromFile.label "Installa da file…">
-<!ENTITY installFromFile.accesskey "I">
+<!ENTITY installAddonFromFile.label "Installa componente aggiuntivo da file…">
+<!ENTITY installAddonFromFile.accesskey "I">
 <!ENTITY cmd.back.tooltip "Torna indietro di una pagina">
 <!ENTITY cmd.forward.tooltip "Vai avanti di una pagina">
 <!ENTITY warning.safemode.label "Tutti i componenti aggiuntivi sono stati disattivati dalla modalità provvisoria.">
@@ -29,12 +29,10 @@
 <!ENTITY view.availableUpdates.label "Aggiornamenti disponibili">
 <!ENTITY view.utilites.preferences.tooltip "Opzioni per tutti i componenti aggiuntivi">
 <!ENTITY view.utilites.preferencesUnix.tooltip "Preferenze per tutti i componenti aggiuntivi">
-<!ENTITY updates.updateAddonsNow.label "Aggiorna adesso i componenti aggiuntivi">
-<!ENTITY updates.updateAddonsNow.accesskey "A">
+<!ENTITY updates.checkForUpdates.label "Cerca aggiornamenti">
+<!ENTITY updates.checkForUpdates.accesskey "C">
 <!ENTITY updates.viewUpdates.label "Visualizza aggiornamenti recenti">
 <!ENTITY updates.viewUpdates.accesskey "V">
-<!ENTITY updates.backgroudUpdateCheck.label "Cerca automaticamente gli aggiornamenti">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
 <!ENTITY updates.updateAddonsAutomatically.label "Aggiorna automaticamente i componenti aggiuntivi">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!ENTITY updates.resetUpdatesToAutomatic.label "Ripristina l'aggiornamento automatico per tutti i componenti aggiuntivi">
@@ -69,6 +67,7 @@
 <!ENTITY cmd.disableTheme.accesskey "t">
 <!ENTITY cmd.installAddon.label "Installa">
 <!ENTITY cmd.installAddon.accesskey "I">
+<!ENTITY cmd.purchaseAddon.accesskey "u">
 <!ENTITY cmd.uninstallAddon.label "Rimuovi">
 <!ENTITY cmd.uninstallAddon.accesskey "R">
 <!ENTITY cmd.showPreferencesWin.label "Opzioni">
@@ -116,6 +115,8 @@
 <!ENTITY sort.dateUpdated.tooltip "Ordina per data di aggiornamento">
 <!ENTITY sort.relevance.label "Pertinenza">
 <!ENTITY sort.relevance.tooltip "Ordina per pertinenza">
+<!ENTITY sort.price.label "Prezzo">
+<!ENTITY sort.price.tooltip "Ordina per prezzo">
 <!ENTITY search.filter2.label "Cerca in:">
 <!ENTITY search.filter2.installed.label "Componenti aggiuntivi installati">
 <!ENTITY search.filter2.installed.tooltip "Visualizza i componenti aggiuntivi installati">
@@ -134,6 +135,7 @@
 <!ENTITY addon.restartNow.label "Riavvia adesso">
 <!ENTITY addon.install.label "Installa">
 <!ENTITY addon.install.tooltip "Installa questo componente aggiuntivo">
+<!ENTITY addon.purchase.tooltip "Visita la galleria dei componenti aggiuntivi per acquistare questo componente aggiuntivo">
 <!ENTITY addon.updateNow.label "Aggiorna adesso">
 <!ENTITY addon.updateNow.tooltip "Installa l'aggiornamento per questo componente aggiuntivo">
 <!ENTITY addon.includeUpdate.label "Includi negli aggiornamenti">
