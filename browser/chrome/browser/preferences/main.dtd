@@ -4,8 +4,8 @@
 <!ENTITY startupHomePage.label "Mostra la pagina iniziale">
 <!ENTITY startupBlankPage.label "Mostra una pagina vuota">
 <!ENTITY startupLastSession.label "Mostra le finestre e le schede dell'ultima sessione">
-<!ENTITY location.label "Pagina iniziale:">
-<!ENTITY location.accesskey "n">
+<!ENTITY homepage.label "Pagina iniziale:">
+<!ENTITY homepage.accesskey "n">
 <!ENTITY useCurrentPage.label "Usa la pagina corrente">
 <!ENTITY useCurrentPage.accesskey "U">
 <!ENTITY useMultiple.label "Usa le pagine correnti">
