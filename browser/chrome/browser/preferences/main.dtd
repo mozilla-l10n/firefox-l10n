@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Myn begjinside toane">
 <!ENTITY startupBlankPage.label    "In lege side toane">
 <!ENTITY startupLastSession.label  "Myn finsters en ljepblêden fan de foarige kear toane">
-<!ENTITY location.label            "Begjinside:">
-<!ENTITY location.accesskey        "s">
+<!ENTITY homepage.label            "Begjinside:">
+<!ENTITY homepage.accesskey        "s">
 <!ENTITY useCurrentPage.label      "Aktuele side brûke">
 <!ENTITY useCurrentPage.accesskey  "A">
 <!ENTITY useMultiple.label         "Aktuele siden brûke">
