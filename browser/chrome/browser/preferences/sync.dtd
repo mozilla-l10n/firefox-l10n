@@ -17,7 +17,7 @@
 <!ENTITY changePassword.label         "Modifier le mot de passe">
 <!ENTITY mySyncKey.label              "Ma clé de synchronisation">
 <!ENTITY resetSync.label              "Réinitialiser la synchronisation">
-<!ENTITY differentAccount.label       "Utiliser un compte différent">
+<!ENTITY stopUsingAccount.label       "Arrêter d'utiliser ce compte">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Synchronisation du navigateur">
