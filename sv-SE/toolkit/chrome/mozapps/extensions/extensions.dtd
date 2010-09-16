@@ -7,8 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label          "Sök efter uppdateringar">
 <!ENTITY listEmpty.search.label               "Kunde inte hitta några matchande tillägg">
 <!ENTITY listEmpty.button.label               "Läs mer om tillägg">
-<!ENTITY installFromFile.label                "Installera från fil…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "Installera tillägg från fil…">
+<!ENTITY installAddonFromFile.accesskey       "I">
 
 <!ENTITY cmd.back.tooltip                     "Gå bakåt en sida">
 <!ENTITY cmd.forward.tooltip                  "Gå framåt en sida">
