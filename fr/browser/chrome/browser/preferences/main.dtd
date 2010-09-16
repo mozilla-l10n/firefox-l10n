@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Afficher ma page d'accueil">
 <!ENTITY startupBlankPage.label    "Afficher une page vide">
 <!ENTITY startupLastSession.label  "Afficher les derniers onglets et fenêtres utilisés">
-<!ENTITY location.label            "Page d'accueil :">
-<!ENTITY location.accesskey        "P">
+<!ENTITY homepage.label            "Page d'accueil :">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Page courante">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Pages courantes">
