@@ -7,8 +7,8 @@
 <!ENTITY listEmpty.findUpdates.label          "Vérifier les mises à jour">
 <!ENTITY listEmpty.search.label               "Aucun module correspondant">
 <!ENTITY listEmpty.button.label               "En apprendre plus sur les modules complémentaires">
-<!ENTITY installFromFile.label                "Installer depuis un fichier…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "Installer un module depuis un fichier…">
+<!ENTITY installAddonFromFile.accesskey       "I">
 
 <!ENTITY cmd.back.tooltip                     "Reculer d'une page">
 <!ENTITY cmd.forward.tooltip                  "Avancer d'une page">
@@ -36,12 +36,10 @@
 <!ENTITY view.utilites.preferencesUnix.tooltip "Préférences pour tous les modules">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Mettre à jour les modules complémentaires maintenant">
-<!ENTITY updates.updateAddonsNow.accesskey    "M">
+<!ENTITY updates.checkForUpdates.label        "Rechercher des mises à jour">
+<!ENTITY updates.checkForUpdates.accesskey    "m">
 <!ENTITY updates.viewUpdates.label            "Afficher les mises à jour récentes">
 <!ENTITY updates.viewUpdates.accesskey        "A">
-<!ENTITY updates.backgroudUpdateCheck.label   "Vérifier les mises à jour automatiquement">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "V">
 <!ENTITY updates.updateAddonsAutomatically.label     "Mettre à jour les modules automatiquement">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "a">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Activer la mise à jour automatique pour tous les modules">
@@ -139,6 +137,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Trier par date de dernière mise à jour">
 <!ENTITY sort.relevance.label                 "Pertinence">
 <!ENTITY sort.relevance.tooltip               "Trier par pertinence">
+<!ENTITY sort.price.label                     "Prix">
+<!ENTITY sort.price.tooltip                   "Trier par prix">
 
 <!ENTITY search.filter2.label                 "Rechercher :">
 <!ENTITY search.filter2.installed.label       "Mes modules complémentaires">
