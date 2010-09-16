@@ -411,7 +411,7 @@
 <!ENTITY syncTabsMenu.label "Pestañas de otros equipos">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey "n">
+<!ENTITY syncSetup.accesskey "f">
 <!ENTITY syncSyncNowItem.label "Sincronizar ahora">
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY syncToolbarButton.label "Sync">
