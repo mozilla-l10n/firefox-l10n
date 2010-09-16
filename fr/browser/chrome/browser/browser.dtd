@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Barre personnelle">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Éléments de la barre personnelle">
-<!ENTITY taskbarCmd.label "Barre d'état">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Barre des modules">
+<!ENTITY taskbarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Code source de la page">
 <!ENTITY pageSourceCmd.accesskey "o">
