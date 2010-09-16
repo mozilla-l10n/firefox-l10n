@@ -17,8 +17,8 @@
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop2                 "Evit paouezañ ar merdeiñ prevez, diuzit &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, pe serrit &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2                "Evit kregiñ ar merdeiñ prevez, gallout a rit ivez diuzañ &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2                "A-benn arsaviñ ar Merdeiñ prevez, diuzit &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, pe serrit &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "A-benn loc'hañ ar Merdeiñ prevez e vez diuzet &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; ivez.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Ha pa an urzhiataer-mañ ne zalc'h ket ar roll istor ho merdeiñ, ho pourvezer servijoù ar genrouedad (ISP) pe hoc'h implijer a c'hall gouzout c'hoazh ar pajennadoù hoc'h eus gweladennet.">
 <!ENTITY privatebrowsingpage.learnMore                 "Gouzout hiroc'h">

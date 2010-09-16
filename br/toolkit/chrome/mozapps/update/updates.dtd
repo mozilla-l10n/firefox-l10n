@@ -52,12 +52,10 @@
                                            
 <!ENTITY  errorpatching.intro             "N'hall ket bezañ sevenet an hizivadur darnel. Klasket e vo en-dro gant &brandShortName; da bellgargañ un hizivadur klok.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; n'hall ket didermenañ mard ez eus un hizivadenn hegerz.
-                                           Mar plij, kit da wiriañ hoc'h eus an handelv diwezhañ eus &brandShortName; da :">
-
-<!ENTITY  errorCertAttrNoUpdate2.label     "Emañ un dra bennak o virout &brandShortName; ouzh hizivaat gant un doare diarvar.
-                                           Mar plij, kit da wiriañ hoc'h eus an handelv diwezhañ eus &brandShortName; da :">
-
+<!ENTITY  genericBackgroundError.label    "N'eo ket gouest &brandShortName; da c'houzout hag-eñ ez eus un hizivadenn hegerz.
+                                           Bezit sur hoc'h eus an handelv diwezhañ eus &brandShortName; digant :">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Emañ un dra bennak o virout &brandShortName; ouzh hizivaat en diogelroez (diarvar).
+                                           Kit da wiriañ hoc'h eus an handelv diwezhañ eus &brandShortName; digant :">
 <!ENTITY  errorCertAttrHasUpdate.label    "Emañ un dra bennak o klask touellañ &brandShortName; a-benn ma vo degemeret un
                                            hizivadenn disur. Kit e darempred gant ho pourchaser rouedad ha goulennit skoazell.">
 
