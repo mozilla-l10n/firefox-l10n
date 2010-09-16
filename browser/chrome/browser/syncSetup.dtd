@@ -11,7 +11,7 @@
 <!ENTITY setup.choicePage.existing.label  "Ez &syncBrand.shortName.label; di komputereke din de bi kar tînim">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Server">
+<!ENTITY server.label               "Pêşkêşkar">
 <!ENTITY serverType.main.label      "pêşkêşkara &syncBrand.fullName.label;ê">
 <!ENTITY serverType.custom.label    "Pêşkêşkareke takekesî bi kar bîne">
 <!ENTITY signIn.username.label      "Navê bikarhêner">
@@ -47,8 +47,8 @@
 
 <!ENTITY button.syncKeyBackup.email.label     "Email…">
 <!ENTITY button.syncKeyBackup.email.accesskey "E">
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.print.label     "Çapkirin…">
+<!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label      "Save…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
@@ -76,16 +76,16 @@
 <!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.bookmarks.label     "Bijare">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "Hilpekîn">
+<!ENTITY engine.tabs.accesskey      "H">
+<!ENTITY engine.history.label       "Dîrok">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.passwords.label     "Şîfre">
+<!ENTITY engine.passwords.accesskey "Ş">
+<!ENTITY engine.prefs.label         "Vebijêrk">
+<!ENTITY engine.prefs.accesskey     "V">
 
 <!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "Recommended:">
@@ -93,7 +93,7 @@
 <!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
+<!ENTITY setup.optionsConfirmPage.title "Pesendkirin">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
 <!ENTITY confirm.client.label         "Hemû daneyên &brandShortName;ê yên li ser vê komputerê dê bên jêbirin, ev jî di nav de:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; dê piştre daneyên te yên &syncBrand.fullName.label;ê li ser vê komputerê kopî bike.">

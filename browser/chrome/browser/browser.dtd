@@ -200,8 +200,8 @@ can reach it easily. -->
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Object">
-<!ENTITY inspectObjectButton.accesskey   "O">
+<!ENTITY inspectObjectButton.label       "Bireser">
+<!ENTITY inspectObjectButton.accesskey   "B">
 
 <!ENTITY fileMenu.label         "Pel"> 
 <!ENTITY fileMenu.accesskey       "P">
@@ -234,8 +234,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.accesskey       "h"> 
 <!ENTITY preferencesCmd.label       "Vebijêrk">
 <!ENTITY preferencesCmd.accesskey     "j"> 
-<!ENTITY preferencesCmdUnix.label       "Vebijêrkên">
-<!ENTITY preferencesCmdUnix.accesskey     "j"> 
+<!ENTITY preferencesCmdUnix.label       "Vebijêrk">
+<!ENTITY preferencesCmdUnix.accesskey     "V"> 
 
 <!ENTITY clearRecentHistory.label               "Mêjûya Nêz Paqij Bike…">
 <!ENTITY clearRecentHistory.accesskey           "M">
@@ -265,13 +265,13 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Hilpekînên Di Dîroka Dawî De Hatine Girtin">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Paceyên Di Nêz De hatine Girtin">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.label "Danişîna berê veava bike">
 
 <!ENTITY historyHomeCmd.label "Serûpel">
 <!ENTITY showAllHistoryCmd2.label "Hemû Dîrokê Nîşan Bide">
 <!ENTITY showAllHistoryCmd.commandkey "A">
 
-<!ENTITY appMenuEdit.label "Edit">
+<!ENTITY appMenuEdit.label "Serastkirin">
 <!ENTITY appMenuCustomize.label "Takekes bike">
 <!ENTITY appMenuToolbarLayout.label "Bicîbûna Darikê Amûran…">
 <!ENTITY appMenuSidebars.label "Darikên kêlekê">

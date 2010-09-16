@@ -9,9 +9,9 @@
 <!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Destpêk">
 
-<!ENTITY abouthome.searchEngineButton.label "Search">
+<!ENTITY abouthome.searchEngineButton.label "Lêgerîn">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Advanced Search">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferences">
+<!ENTITY abouthome.searchEngineLinks.advanced "Lêgerîna pêşkeftî">
+<!ENTITY abouthome.searchEngineLinks.preferences "Vebijêrk">
 
 <!ENTITY abouthome.aboutMozilla "Der barê Mozillayê de">
