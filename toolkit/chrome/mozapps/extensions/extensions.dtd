@@ -36,8 +36,8 @@
 <!ENTITY view.utilites.preferencesUnix.tooltip "Inställningar för alla tillägg">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Uppdatera tillägg nu">
-<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.checkForUpdates.label        "Sök efter uppdateringar">
+<!ENTITY updates.checkForUpdates.accesskey    "u">
 <!ENTITY updates.viewUpdates.label            "Visa nyligen uppdaterade">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!ENTITY updates.updateAddonsAutomatically.label     "Installera uppdateringar automatiskt">
@@ -70,7 +70,7 @@
 <!ENTITY cmd.enableAddon.label                "Aktivera">
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Inaktivera">
-<!ENTITY cmd.disableAddon.accesskey           "k">
+<!ENTITY cmd.disableAddon.accesskey           "I">
 <!ENTITY cmd.enableTheme.label                "Använd tema">
 <!ENTITY cmd.enableTheme.accesskey            "ä">
 <!ENTITY cmd.disableTheme.label               "Sluta använd tema">
