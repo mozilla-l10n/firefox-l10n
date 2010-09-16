@@ -51,6 +51,8 @@
 <!ENTITY useCacheAfter.label             "MB de espacio para el cache">
 <!ENTITY clearCacheNow.label             "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey         "L">
+<!ENTITY smartSizeCache.label            "Permitir que &brandShortName; administre el tamaño de mi caché">
+<!ENTITY smartSizeCache.accesskey        "P">
 
 <!ENTITY updateTab.label                 "Actualizaciones">
 

@@ -544,16 +544,9 @@ The word "toolbar" is appended automatically and should not be contained below! 
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "Y">
 <!ENTITY syncSetup.label              "Configurar &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncLogInItem.label          "Conectar">
-<!ENTITY syncLogInItem.accesskey      "C">
-<!ENTITY syncLogOutItem.label         "Desconectar">
-<!ENTITY syncLogOutItem.accesskey     "D">
 <!ENTITY syncSyncNowItem.label        "Sincronizar ahora">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sincronizar">
 
