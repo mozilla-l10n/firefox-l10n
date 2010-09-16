@@ -35,12 +35,9 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "„&brandFullName;“ pradžios tinklalapis">
-<!ENTITY abouthome.brandLogo.title "„&brandFullName;“ logotipas">
 
 <!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
 <!ENTITY abouthome.brandStart "<span>„&brandShortName;“</span> pradžia">
-
-<!ENTITY abouthome.searchEngineLogo.title "Ieškyklės logotipas">
 
 <!ENTITY abouthome.searchEngineButton.label "Ieškoti">
 
@@ -48,3 +45,12 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "Nuostatos">
 
 <!ENTITY abouthome.aboutMozilla "Apie „Mozillą“">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Dėkojame, kad pasirinkote „Firefox“! Susipažinkite su šia naršykle iš arčiau – sužinokite apie <a>naujausias jos savybes</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Pritaikyti „Firefox“ savo poreikiams ypatingai lengva. <a>Rinkitės iš tūkstančių priedų</a>.">

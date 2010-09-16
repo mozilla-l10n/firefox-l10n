@@ -102,6 +102,10 @@
 <!ENTITY  permInstall           "Plėtinių ir grafinių apvalkalų diegimas">
 <!ENTITY  permGeo               "Jūsų buvimo vietos nustatymas">
 
+<!ENTITY  permIndexedDB              "Duomenų darbui atsijungus laikymas">
+<!ENTITY  permClearStorage           "Išvalyti duomenis">
+<!ENTITY  permClearStorage.accesskey "v">
+
 <!ENTITY  securityTab           "Saugumas">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Informacija apie šio tinklalapio saugumą">
