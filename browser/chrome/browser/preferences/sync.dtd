@@ -14,7 +14,7 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Behandle konto">
 <!ENTITY manageAccount.accesskey      "B">
-<!ENTITY viewQuota.label              "Vis plassbegrensing">
+<!ENTITY viewQuota.label              "Vis plasskvote">
 <!ENTITY changePassword.label         "Endre passord">
 <!ENTITY mySyncKey.label              "Endre Sync-nøkkel">
 <!ENTITY resetSync.label              "Tilbakestill Sync">
