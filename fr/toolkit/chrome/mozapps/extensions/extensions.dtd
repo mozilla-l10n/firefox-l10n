@@ -9,6 +9,7 @@
 <!ENTITY listEmpty.button.label               "En apprendre plus sur les modules complémentaires">
 <!ENTITY installAddonFromFile.label           "Installer un module depuis un fichier…">
 <!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Outils pour tous les modules">
 
 <!ENTITY cmd.back.tooltip                     "Reculer d'une page">
 <!ENTITY cmd.forward.tooltip                  "Avancer d'une page">
@@ -32,8 +33,6 @@
 <!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Mis à jour">
 <!ENTITY view.availableUpdates.label          "À mettre à jour">
-<!ENTITY view.utilites.preferences.tooltip    "Options pour tous les modules">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Préférences pour tous les modules">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Rechercher des mises à jour">
