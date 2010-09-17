@@ -13,7 +13,7 @@
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Behandle konto">
-<!ENTITY manageAccount.accesskey      "B">
+<!ENTITY manageAccount.accesskey      "e">
 <!ENTITY viewQuota.label              "Vis plasskvote">
 <!ENTITY changePassword.label         "Endre passord">
 <!ENTITY mySyncKey.label              "Endre Sync-nøkkel">
@@ -31,11 +31,11 @@
 <!ENTITY engine.tabs.label          "Faner">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Historikk">
-<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.history.accesskey   "s">
 <!ENTITY engine.passwords.label     "Passord">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Innstillinger">
-<!ENTITY engine.prefs.accesskey     "n">
+<!ENTITY engine.prefs.accesskey     "I">
 
 
 <!-- Footer stuff -->

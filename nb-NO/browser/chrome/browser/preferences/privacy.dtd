@@ -3,7 +3,7 @@
 <!ENTITY  locationBar.label             "Adresselinje">
 
 <!ENTITY  locbar.pre.label              "Foreslå ved bruk av adresselinjen:">
-<!ENTITY  locbar.pre.accessKey          "N">
+<!ENTITY  locbar.pre.accessKey          "o">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Historikk og bokmerker">
 <!ENTITY  locbar.history.label          "Historikk">

@@ -21,11 +21,11 @@
 <!ENTITY helpReleaseNotes.label         "Versjonsnotat">
 <!ENTITY helpReleaseNotes.accesskey     "V">
 
-<!ENTITY helpTroubleshootingInfo.label      "Feilsøkingsinfo">
+<!ENTITY helpTroubleshootingInfo.label      "Feilsøking">
 <!ENTITY helpTroubleshootingInfo.accesskey  "e">
 
-<!ENTITY helpFeedbackPage.label      "Send tilbakemelding …">
-<!ENTITY helpFeedbackPage.accesskey  "n">
+<!ENTITY helpFeedbackPage.label      "Gi tilbakemelding …">
+<!ENTITY helpFeedbackPage.accesskey  "G">
 
 <!ENTITY updateCmd.label                "Søk etter oppdateringer …">
 
