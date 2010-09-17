@@ -41,6 +41,12 @@
 <!ENTITY updates.viewUpdates.accesskey        "r">
 <!ENTITY updates.backgroudUpdateCheck.label   "Automatisch controleren op updates">
 <!ENTITY updates.backgroudUpdateCheck.accesskey "c">
+<!ENTITY updates.updateAddonsAutomatically.label     "Add-ons automatisch bijwerken">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset alle Add-ons naar automatisch bijwerken">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Reset alle Add-ons naar handmatig bijwerken">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Add-ons aan het bijwerken">
 <!ENTITY updates.installed.label              "Uw add-ons zijn bijgewerkt.">
 <!ENTITY updates.downloaded.label             "Uw add-on updates zijn gedownload.">
@@ -95,6 +101,8 @@
 <!ENTITY detail.contributions.description     "De ontwikkelaar van deze add-on vraagt uw steun voor verdere ontwikkeling door middel van een kleine bijdrage.">
 
 <!ENTITY detail.updateType                    "Automatische updates">
+<!ENTITY detail.updateDefault.label           "Standaard">
+<!ENTITY detail.updateDefault.tooltip         "Updates alleen automatisch installeren wanneer dat standaard is">
 <!ENTITY detail.updateAutomatic.label         "Aan">
 <!ENTITY detail.updateAutomatic.tooltip       "Updates automatisch installeren">
 <!ENTITY detail.updateManual.label            "Uit">
