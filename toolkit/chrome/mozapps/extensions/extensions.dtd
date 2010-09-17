@@ -36,8 +36,8 @@
 <!ENTITY view.utilites.preferencesUnix.tooltip "Preferencias para todos los complementos">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Actualizar complementos">
-<!ENTITY updates.updateAddonsNow.accesskey    "u">
+<!ENTITY updates.checkForUpdates.label        "Buscar actualizaciones">
+<!ENTITY updates.checkForUpdates.accesskey    "c">
 <!ENTITY updates.viewUpdates.label            "Ver actualizaciones recientes">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!ENTITY updates.updateAddonsAutomatically.label     "Actualizar complementos automáticamente">
@@ -138,6 +138,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Ordenar por fecha de actualización">
 <!ENTITY sort.relevance.label                 "Relevancia">
 <!ENTITY sort.relevance.tooltip               "Ordenar por relevancia">
+<!ENTITY sort.price.label                     "Precio">
+<!ENTITY sort.price.tooltip                   "Ordenar por precio">
 
 <!ENTITY search.filter2.label                 "Buscar:">
 <!ENTITY search.filter2.installed.label       "Mis complementos">

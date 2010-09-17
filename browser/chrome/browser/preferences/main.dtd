@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Mostrar mi página de inicio">
 <!ENTITY startupBlankPage.label    "Mostrar una página en blanco">
 <!ENTITY startupLastSession.label  "Mostrar las ventanas y pestañas de la última vez">
-<!ENTITY location.label            "Página de inicio:">
-<!ENTITY location.accesskey        "P">
+<!ENTITY homepage.label            "Página de inicio:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Usar página actual">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Usar páginas actuales">
