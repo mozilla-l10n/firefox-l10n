@@ -52,9 +52,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Spara…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!ENTITY page.syncKeyBackup.title     "Din Firefox Sync-nyckel">
-<!ENTITY page.syncKeyBackup.descr     "Den här hemliga nyckeln används för att kryptera din personliga data. Nyckeln skickas inte till servern och kan inte återskapas. Tappa inte bort den eller dela med dig av den till andra.">
-
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bekräfta att du inte är en robot">
 
