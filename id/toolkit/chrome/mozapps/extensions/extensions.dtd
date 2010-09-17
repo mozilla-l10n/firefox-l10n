@@ -7,8 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Periksa Versi Baru">
 <!ENTITY listEmpty.search.label               "Tidak dapat menemukan pengaya yang cocok">
 <!ENTITY listEmpty.button.label               "Pelajari lebih lanjut tentang pengaya">
-<!ENTITY installFromFile.label                "Buka dan Pasang dari berkas pengaya…">
-<!ENTITY installFromFile.accesskey            "B">
+<!ENTITY installAddonFromFile.label           "Pasang Pengaya dari Berkas…">
+<!ENTITY installAddonFromFile.accesskey       "B">
+<!ENTITY toolsMenu.tooltip                    "Alat untuk semua pengaya">
 
 <!ENTITY cmd.back.tooltip                     "Mundur satu laman">
 <!ENTITY cmd.forward.tooltip                  "Maju satu laman">
@@ -33,16 +34,20 @@
 <!ENTITY view.plugins.label                   "Plugin">
 <!ENTITY view.recentUpdates.label             "Versi Baru">
 <!ENTITY view.availableUpdates.label          "Versi Baru yang Tersedia">
-<!ENTITY view.utilites.preferences.tooltip    "Pengaturan untuk semua pengaya">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Pengaturan untuk semua pengaya">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Perbarui Pengaya Sekarang">
-<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.checkForUpdates.label        "Periksa Versi Baru">
+<!ENTITY updates.checkForUpdates.accesskey    "P">
+<!ENTITY updates.viewUpdates.label            "Tampilkan Versi yang Baru">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.updateAddonsAutomatically.label     "Otomatis Perbarui Pengaya">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "O">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Setel Ulang Semua Pengaya agar Diperbarui Otomatis">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "S">
+<!ENTITY updates.resetUpdatesToManual.label          "Setel Ulang Semua Pengaya agar Hanya Diperbarui Manual">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "M">
 <!ENTITY updates.viewUpdates.label            "Tampilkan Versi Baru">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Otomatis Periksa Versi Baru">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "O">
 <!ENTITY updates.updating.label               "Memperbarui pengaya">
 <!ENTITY updates.installed.label              "Pengaya Anda telah diperbarui.">
 <!ENTITY updates.downloaded.label             "Versi baru pengaya Anda telah diunduh.">
@@ -100,6 +105,8 @@
 <!ENTITY detail.contributions.description     "Pengembang pengaya ini memohon bantuan dukungan Anda untuk membantu kesinambungan pengembangan pengaya dengan memberikan kontribusi kecil.">
 
 <!ENTITY detail.updateType                    "Pemutakhiran Otomatis">
+<!ENTITY detail.updateDefault.label           "Bawaan">
+<!ENTITY detail.updateDefault.tooltip         "Otomatis pasang pemutakhiran hanya jika pengaturan bawaan diatur demikian">
 <!ENTITY detail.updateAutomatic.label         "Aktif">
 <!ENTITY detail.updateAutomatic.tooltip       "Otomatis memasang pemutakhiran">
 <!ENTITY detail.updateManual.label            "Mati">
@@ -132,6 +139,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Urut berdasarkan waktu terakhir diperbarui">
 <!ENTITY sort.relevance.label                 "Paling cocok">
 <!ENTITY sort.relevance.tooltip               "Urut berdasarkan kecocokan">
+<!ENTITY sort.price.label                     "Harga">
+<!ENTITY sort.price.tooltip                   "Urut berdasarkan harga">
 
 <!ENTITY search.filter2.label                 "Cari:">
 <!ENTITY search.filter2.installed.label       "Pengaya Saya">

@@ -59,7 +59,9 @@
 <!ENTITY  errorpatching.intro             "Pemutakhiran Parsial tidak dapat diaplikasikan.
                                            &brandShortName; akan mencoba lagi dengan mengunduh pemutakhiran lengkap.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Ada hal yang mencegah &brandShortName; memutakhirkan program secara aman.
+<!ENTITY  genericBackgroundError.label    "&brandShortName; tidak dapat mengetahui apakah pemutakhiran tersedia. Pastikan
+                                           Anda menggunakan versi terbaru &brandShortName; lewat:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Ada hal yang mencegah &brandShortName; memutakhirkan program secara aman.
                                            Silakan periksa apakah Anda menggunakan &brandShortName; versi terbaru lewat:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Ada yang mencoba menipu &brandShortName; untuk menerima pemutakhiran yang tidak aman.
                                            Silakan hubungi penyedia jaringan Internet Anda dan meminta bantuan.">
