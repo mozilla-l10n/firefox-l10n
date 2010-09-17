@@ -71,6 +71,9 @@
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.installAddon.label               "Installeren">
 <!ENTITY cmd.installAddon.accesskey           "I">
+<!-- LOCALIZATION NOTE (cmd.purchaseAddon.accesskey): The access key for
+     cmd.purchaseAddon.label in extensions.properties -->
+<!ENTITY cmd.purchaseAddon.accesskey          "a">
 <!ENTITY cmd.uninstallAddon.label             "Verwijderen">
 <!ENTITY cmd.uninstallAddon.accesskey         "V">
 <!ENTITY cmd.showPreferencesWin.label         "Opties">
@@ -128,6 +131,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Sorteren op updatedatum">
 <!ENTITY sort.relevance.label                 "Beste overeenkomst">
 <!ENTITY sort.relevance.tooltip               "Sorteren op relevantie">
+<!ENTITY sort.price.label                     "Prijs">
+<!ENTITY sort.price.tooltip                   "Sorteren op prijs">
 
 <!ENTITY search.filter2.label                 "Zoeken:">
 <!ENTITY search.filter2.installed.label       "Mijn add-ons">
@@ -149,6 +154,9 @@
 <!ENTITY addon.restartNow.label               "Nu herstarten">
 <!ENTITY addon.install.label                  "Installeren">
 <!ENTITY addon.install.tooltip                "Deze add-on installeren">
+<!-- LOCALIZATION NOTE (cmd.purchaseAddon.accesskey): The tooltip for
+     addon.purchase.label in extensions.properties -->
+<!ENTITY addon.purchase.tooltip               "Bezoek de add-ons galerie om deze add-on aan te schaffen">
 <!ENTITY addon.updateNow.label                "Nu bijwerken">
 <!ENTITY addon.updateNow.tooltip              "De update voor deze add-on installeren">
 <!ENTITY addon.checkingForUpdates.label       "Controleren op updates…">
