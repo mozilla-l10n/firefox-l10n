@@ -14,7 +14,7 @@
 <!ENTITY server.label               "Shërbyes">
 <!ENTITY serverType.main.label      "Shërbyes &syncBrand.fullName.label;-u">
 <!ENTITY serverType.custom.label    "Përdor një shërbyes vetjak">
-<!ENTITY signIn.username.label      "Emër Përdoruesi">
+<!ENTITY signIn.username.label      "Email / Emër Përdoruesi">
 <!ENTITY signIn.username.accesskey  "E">
 <!ENTITY signIn.password.label      "Fjalëkalim">
 <!ENTITY signIn.password.accesskey  "F">
