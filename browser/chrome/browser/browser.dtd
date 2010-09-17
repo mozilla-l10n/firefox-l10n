@@ -194,6 +194,12 @@
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Stil">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Objekt">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label         "Datei"> 
 <!ENTITY fileMenu.accesskey       "D">
