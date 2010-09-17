@@ -9,6 +9,7 @@
 <!ENTITY listEmpty.button.label               "Läs mer om tillägg">
 <!ENTITY installAddonFromFile.label           "Installera tillägg från fil…">
 <!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Verktyg för alla tillägg">
 
 <!ENTITY cmd.back.tooltip                     "Gå bakåt en sida">
 <!ENTITY cmd.forward.tooltip                  "Gå framåt en sida">
@@ -32,8 +33,6 @@
 <!ENTITY view.plugins.label                   "Insticksmoduler">
 <!ENTITY view.recentUpdates.label             "Nyligen uppdaterade">
 <!ENTITY view.availableUpdates.label          "Tillgängliga uppdateringar">
-<!ENTITY view.utilites.preferences.tooltip    "Inställningar för alla tillägg">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Inställningar för alla tillägg">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Sök efter uppdateringar">
