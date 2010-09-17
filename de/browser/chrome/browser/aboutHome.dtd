@@ -1,0 +1,29 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName;-Startseite">
+
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span>-Start">
+
+<!ENTITY abouthome.searchEngineButton.label "Suche">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Erweiterte Suche">
+<!ENTITY abouthome.searchEngineLinks.preferences "Einstellungen">
+
+<!ENTITY abouthome.aboutMozilla "Über Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Danke, dass Sie Firefox gewählt haben. Lernen Sie mehr über <a>die neusten Funktionen</a>, um Ihren Browser optimal nutzen zu können.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Es ist leicht, Firefox optimal auf Ihre Bedürfnisse anzupassen. <a>Wählen Sie aus Tausenden von Add-ons</a>.">
+
