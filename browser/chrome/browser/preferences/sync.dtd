@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Akun &syncBrand.fullName.label;">
-<!ENTITY currentUser.label            "Pengguna Saat Ini:">
+<!ENTITY currentAccount.label         "Akun Saat Ini:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Perbarui">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Kelola Akun">
 <!ENTITY manageAccount.accesskey      "A">
+<!ENTITY viewQuota.label              "Tampilkan Info Jatah">
 <!ENTITY changePassword.label         "Ganti Sandi">
 <!ENTITY mySyncKey.label              "Kunci Sinkronisasi">
 <!ENTITY resetSync.label              "Setel Ulang Sinkronisasi">
-<!ENTITY differentAccount.label       "Gunakan Akun Lainnya">
+<!ENTITY stopUsingAccount.label       "Hentikan Menggunakan Akun Ini">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sinkronisasikan Peramban">

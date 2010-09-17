@@ -16,8 +16,10 @@ riwayat penjelajahan, pencarian, unduhan, pengisian form, kuki, dan berkas Inter
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Mulai Mode Penjelajahan Pribadi">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Untuk berhenti dari Mode Penjelajahan Pribadi, hapus centang pada menu &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; atau tutup &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "Untuk memulai Mode Penjelajahan Pribadi, pilih menu &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "Untuk berhenti dari Mode Penjelajahan Pribadi, pilih &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, atau tutup &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Untuk memulai Mode Penjelajahan Pribadi, Anda juga dapat memilih &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Walaupun komputer ini tidak akan merekam riwayat penjelajahan Anda, Internet Service Provider atau pihak kantor Anda masih tetap dapat merekam jejak laman yang Anda kunjungi.">
 <!ENTITY privatebrowsingpage.learnMore                 "Pelajari Lebih Lanjut">

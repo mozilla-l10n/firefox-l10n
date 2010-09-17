@@ -1,11 +1,23 @@
 <!ENTITY aboutDialog.title          "Tentang &brandFullName;">
-<!ENTITY copyright                  "Kredit">
-<!ENTITY copyright.accesskey        "K">
-<!ENTITY copyrightGNOME.accesskey   "K">
-<!ENTITY aboutLink                  "&lt; Tentang &brandFullName;">
-<!ENTITY aboutLink.accesskey        "g">
-<!ENTITY aboutVersion               "versi">
-<!ENTITY closeCmdGNOME.label        "Tutup">  
-<!ENTITY closeCmdGNOME.accesskey    "T">
-<!ENTITY licenseLinkText            "Informasi Lisensi">
-<!ENTITY licenseLinkSuffix          ".">
+
+<!ENTITY community.start2           "&brandShortName; didesain oleh ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", sebuah ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "komunitas global">
+<!ENTITY community.end2             " yang bekerja sama untuk Internet yang lebih baik. Kami percaya bahwa Internet harus bersifat terbuka, untuk publik, dan dapat diakses oleh semura orang tanpa batasan.">
+
+<!ENTITY contribute.start           "Tertarik? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Ikutan!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Informasi Lisensi">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Hak Pengguna Akhir">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Kebijakan Privasi">
