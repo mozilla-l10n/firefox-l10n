@@ -9,8 +9,8 @@
 <!ENTITY startupHomePage.label     "Shfaq faqen time hyrëse">
 <!ENTITY startupBlankPage.label    "Shfaq një faqe bosh">
 <!ENTITY startupLastSession.label  "Shfaq dritaren dhe skedat e mia të herës së fundit">
-<!ENTITY location.label            "Faqe Hyrëse:">
-<!ENTITY location.accesskey        "H">
+<!ENTITY homepage.label            "Faqe Hyrëse:">
+<!ENTITY homepage.accesskey        "H">
 <!ENTITY useCurrentPage.label      "Përdor Faqen e Çastit">
 <!ENTITY useCurrentPage.accesskey  "Ç">
 <!ENTITY useMultiple.label         "Përdor Faqet e Çastit">

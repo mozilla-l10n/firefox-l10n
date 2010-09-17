@@ -34,6 +34,8 @@
 <!ENTITY useCacheBefore.label            "Përdor deri në">
 <!ENTITY useCacheBefore.accesskey        "D">
 <!ENTITY useCacheAfter.label             "MB të hapësirës së fshehtinës">
+<!ENTITY smartSizeCache.label            "Lejoje &brandShortName;-in të administrojë madhësinë e fshehtinës sime">
+<!ENTITY smartSizeCache.accesskey        "L">
 <!ENTITY updateTab.label                 "Përditësim">
 <!ENTITY autoCheck.label                 "Kontrollo vetvetiu për përditësime për:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;-in">
