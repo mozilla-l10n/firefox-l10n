@@ -17,3 +17,6 @@
 <!ENTITY prefEnablePipeliningProxy.accesskey "e">
 <!ENTITY prefPara                            "Nastavenia spojení HTTP môžu byť zmenené pomocou týchto volieb a tým môže byť zvýšená rýchlosť alebo kompatibilita. Napríklad niektoré servery proxy vyžadujú HTTP/1.0 (ďalšie informácie nájdete v poznámkach k vydaniu).">
 <!ENTITY prefPipeWarning                     "UPOZORNENIE: pipelining je experimentálna funkcia navrhnutá na zlepšenie výkonu pri načítavaní stránok, nanešťastie nie je podporovaná niektorými webovými servermi a servermi proxy.">
+<!ENTITY prefUseragent.label                 "Reťazec User Agent">
+<!ENTITY prefFirefoxCompat.label             "Indikovať kompatibilitu s prehliadačom Firefox">
+<!ENTITY prefFirefoxCompat.accesskey         "F">

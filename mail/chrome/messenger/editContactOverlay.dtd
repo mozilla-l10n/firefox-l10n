@@ -7,6 +7,9 @@
 <!ENTITY editContactEmail.label "E-mail:">
 <!ENTITY editContactEmail.accesskey "E">
 
+<!ENTITY editContactAddressBook.label "Adresár:">
+<!ENTITY editContactAddressBook.accesskey "A">
+
 <!ENTITY editContactPanelCancel.label "Zrušiť">
 <!ENTITY editContactPanelCancel.accesskey "Z">
 

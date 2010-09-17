@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Priečinok profilu">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Povolené zásuvné moduly">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfigurácia zostavenia">
+<!ENTITY aboutSupport.appBasicsUserAgent "Reťazec User Agent">
 
 <!ENTITY aboutSupport.show.label "Otvoriť priečinok">
 

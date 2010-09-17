@@ -1,11 +1,23 @@
 <!ENTITY aboutDialog.title          "O programe &brandFullName;">
-<!ENTITY copyright                  "Tvorcovia">
-<!ENTITY copyright.accesskey        "T">
-<!ENTITY copyrightGNOME.accesskey   "T">
-<!ENTITY aboutLink                  "&lt; O programe &brandFullName;">
-<!ENTITY aboutLink.accesskey        "O">
-<!ENTITY aboutVersion               "verzia">
-<!ENTITY closeCmdGNOME.label        "Zavrieť">
-<!ENTITY closeCmdGNOME.accesskey    "Z">
-<!ENTITY licenseLinkText            "Informácie o licenciách">
-<!ENTITY licenseLinkSuffix          "">
+
+<!ENTITY community.start2           "&brandShortName; vytvára ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "globálna komunita">
+<!ENTITY community.end2             " pracujúca s cieľom urobiť internet lepším. Veríme, že internet by mal byť otvorený, verejný a dostupný každému bez akýchkoľvek obmedzení.">
+
+<!ENTITY contribute.start           "Znie to zaujímavo? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Zapojte sa!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Informácie o licenciách">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Práva koncového používateľa">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Zásady ochrany súkromia">

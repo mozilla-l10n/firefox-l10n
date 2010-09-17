@@ -5,12 +5,11 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "Úvodná stránka prehliadača &brandFullName;">
-<!ENTITY abouthome.brandLogo.title "Logo prehliadača &brandFullName;">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
-<!ENTITY abouthome.brandStart "Úvodná stránka <span>&brandShortName;u</span>">
-
-<!ENTITY abouthome.searchEngineLogo.title "Logo vyhľadávacieho modulu">
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> - úvodná stránka">
 
 <!ENTITY abouthome.searchEngineButton.label "Hľadať">
 
@@ -18,3 +17,12 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "Nastavenia">
 
 <!ENTITY abouthome.aboutMozilla "O Mozille">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Ďakujeme, že ste si zvolili Firefox! Aby ste mohli prehliadač využívať naplno, pozrite si prehľad jeho <a>najnovších funkcií</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Prispôsobiť si Firefox podľa svojich predstáv je naozaj jednoduché. <a>Vyberte si z tisícov doplnkov</a>.">

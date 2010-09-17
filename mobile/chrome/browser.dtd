@@ -87,6 +87,7 @@
 <!ENTITY consoleErrColumn.label    "Stĺpec:">
 
 <!ENTITY contextOpenInNewTab.label    "Otvoriť odkaz na novej karte">
+<!ENTITY contextSaveLink.label        "Uložiť odkaz">
 <!ENTITY contextSaveImage.label       "Uložiť obrázok">
 <!ENTITY contextShareLink.label       "Zdieľať odkaz">
 <!ENTITY contextShareImage.label      "Zdieľať obrázok">

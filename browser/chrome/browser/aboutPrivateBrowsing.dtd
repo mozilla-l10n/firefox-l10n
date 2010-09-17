@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Spustiť režim Súkromné prehliadanie">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "k">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Režim Súkromné prehliadanie zrušíte pomocou voľby &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, prípadne ukončením prehliadača &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "Režim Súkromné prehliadanie spustíte aj pomocou voľby &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "Režim Súkromné prehliadanie zrušíte pomocou voľby &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, prípadne ukončením prehliadača &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Režim Súkromné prehliadanie spustíte aj pomocou voľby &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Aj keď sa v tomto počítači nebudú ukladať žiadne údaje o prehliadaných stránkach, váš poskytovateľ internetového pripojenia či zamestnávateľ môžu napriek tomu sledovať, ktoré stránky navštevujete.">
 <!ENTITY privatebrowsingpage.learnMore                 "Ďalšie informácie">

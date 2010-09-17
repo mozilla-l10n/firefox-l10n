@@ -6,6 +6,8 @@
 <!ENTITY background.accesskey "e">
 <!ENTITY warnOnClose.label "Upozorniť pri zatváraní viacerých kariet">
 <!ENTITY warnOnClose.accesskey "U">
+<!ENTITY relatedAfterCurrent.label "Príbuzné karty otvárať za aktuálnou kartou">
+<!ENTITY relatedAfterCurrent.accesskey "b">
 <!ENTITY loadGroup.label "Pri otváraní skupiny záložiek">
 <!ENTITY loadGroupAppend.label "Pridať karty">
 <!ENTITY loadGroupAppend.accesskey "d">
