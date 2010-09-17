@@ -9,6 +9,7 @@
 <!ENTITY listEmpty.button.label               "Saber mais sobre os extras">
 <!ENTITY installAddonFromFile.label           "Instalar extra a partir de ficheiro…">
 <!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Ferramentas para todos os extras">
 
 <!ENTITY cmd.back.tooltip                     "Retroceder uma página">
 <!ENTITY cmd.forward.tooltip                  "Avançar uma página">
@@ -32,8 +33,6 @@
 <!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Actualizações recentes">
 <!ENTITY view.availableUpdates.label          "Actualizações disponíveis">
-<!ENTITY view.utilites.preferences.tooltip    "Opções para todos os extras">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Preferências para todos os extras">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Procurar actualizações">
