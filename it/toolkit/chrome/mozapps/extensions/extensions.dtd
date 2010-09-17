@@ -9,6 +9,7 @@
 <!ENTITY listEmpty.button.label "Scopri altre informazioni sui componenti aggiuntivi">
 <!ENTITY installAddonFromFile.label "Installa componente aggiuntivo da file…">
 <!ENTITY installAddonFromFile.accesskey "I">
+<!ENTITY toolsMenu.tooltip "Strumenti per tutti i componenti aggiuntivi">
 <!ENTITY cmd.back.tooltip "Torna indietro di una pagina">
 <!ENTITY cmd.forward.tooltip "Vai avanti di una pagina">
 <!ENTITY warning.safemode.label "Tutti i componenti aggiuntivi sono stati disattivati dalla modalità provvisoria.">
@@ -27,8 +28,6 @@
 <!ENTITY view.plugins.label "Plugin">
 <!ENTITY view.recentUpdates.label "Aggiornamenti recenti">
 <!ENTITY view.availableUpdates.label "Aggiornamenti disponibili">
-<!ENTITY view.utilites.preferences.tooltip "Opzioni per tutti i componenti aggiuntivi">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Preferenze per tutti i componenti aggiuntivi">
 <!ENTITY updates.checkForUpdates.label "Cerca aggiornamenti">
 <!ENTITY updates.checkForUpdates.accesskey "C">
 <!ENTITY updates.viewUpdates.label "Visualizza aggiornamenti recenti">
