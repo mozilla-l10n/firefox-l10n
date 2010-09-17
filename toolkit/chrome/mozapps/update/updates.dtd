@@ -68,5 +68,7 @@
 <!ENTITY  errorCertAttrHasUpdate.label    "Diçka po përpiqet t&apos;ia hedhë &brandShortName;-it duke e bërë të pranojë një
                                            përditësim të pasigurt. Ju lutem, lidhuni me mundësuesin tuaj të rrjetit dhe kërkoni ndihmë.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Diçka po e pengon &brandShortName;-in të përditësohet në mënyrë të sigurt.
+<!ENTITY  errorCertAttrNoUpdate2.label     "Diçka po e pengon &brandShortName;-in të përditësohet në mënyrë të sigurt.
                                            Ju lutem, kontrolloni nëse keni versionin më të fundit të &brandShortName;-it, te:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName;-i nuk është i zoti të përcaktojë nëse ka të passhëm ndonjë përditësim. Ju lutem, 
+                                           sigurohuni që keni versionin më të fundit të &brandShortName;-it, te:">
