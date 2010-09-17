@@ -131,6 +131,7 @@
 <!ENTITY bookmarksItem.title          "Lesezeichen">
 
 <!-- Toolbar items --> 
+<!ENTITY appMenuButton.label          "Menü">
 <!ENTITY  homeButton.label            "Startseite">
 <!ENTITY tabViewButton2.label         "Tab-Gruppen">
 <!ENTITY tabViewButton2.tooltip       "Tabs gruppieren">
