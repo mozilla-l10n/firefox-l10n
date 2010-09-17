@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informationen zur Fehlerbehebung">
 <!ENTITY helpTroubleshootingInfo.accesskey  "z">
 
+<!ENTITY helpFeedbackPage.label      "Feedback senden…">
+<!ENTITY helpFeedbackPage.accesskey  "R">
+
 <!ENTITY updateCmd.label                "Nach Updates suchen…">
 
 <!ENTITY preferencesCmdMac.label        "Einstellungen…">
