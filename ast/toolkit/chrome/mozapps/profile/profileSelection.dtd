@@ -55,7 +55,7 @@
 <!ENTITY            deleteButton.accesskey "e">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; atroxa información sobro la so configuración, preferencies y otros elementos nel so perfil d'usuariu.">
+<!ENTITY            pmDescription.label    "&brandShortName; atroxa información sobre la so configuración, preferencies y otros elementos nel so perfil d'usuariu.">
 
 <!ENTITY            offlineState.label    "Trabayar ensin conexón">
 <!ENTITY            offlineState.accesskey "o">

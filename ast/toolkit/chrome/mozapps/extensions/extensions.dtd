@@ -80,10 +80,10 @@
 <!ENTITY cmd.installUpdate.tooltip        "Instalar una anovamientu pa esti complementu">
 <!ENTITY cmd.showUpdateInfo.label         "Amosar información">
 <!ENTITY cmd.showUpdateInfo.accesskey     "m">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Amosar más información sobro estes anovamientos">
+<!ENTITY cmd.showUpdateInfo.tooltip       "Amosar más información sobre estes anovamientos">
 <!ENTITY cmd.hideUpdateInfo.label         "Soverar información">
 <!ENTITY cmd.hideUpdateInfo.accesskey     "S">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Soverar información sobro estes anovamientos">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "Soverar información sobre estes anovamientos">
 <!ENTITY cmd.installSearchResult.label     "Amestar a &brandShortName;…">
 <!ENTITY cmd.installSearchResult.accesskey "A">
 <!ENTITY cmd.installSearchResult.tooltip   "Descargar ya instalar esti complementu">
@@ -154,7 +154,7 @@
 <!ENTITY moreInfo.label                   "Más información">
 <!ENTITY infoNoAddonSelected.label        "Nun se seleicionaron anovamientos">
 <!ENTITY infoNoUpdateInfo.label           "Esti anovamientu nun tien denguna información amestada">
-<!ENTITY infoUpdateInfoError.label        "Hebo un fallu al cargar la información sobro esti anovamientu">
+<!ENTITY infoUpdateInfoError.label        "Hebo un fallu al cargar la información sobre esti anovamientu">
 
 <!ENTITY updateSuccess.label              "Anovamientu completáu con ésitu.">
 <!ENTITY installSuccess.label             "Instalación completada con ésitu.">

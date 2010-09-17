@@ -2,7 +2,7 @@
 <!ENTITY window.size                  "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
-<!ENTITY profileCreationExplanation_1.text  "&brandShortName; atroxa información sobro la so configuración y preferencies nel so perfil personal.">
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; atroxa información sobre la so configuración y preferencies nel so perfil personal.">
 <!ENTITY profileCreationExplanation_2.text  "Si comparte esta copia de &brandShortName; con otros usuarios, pue usar perfiles pa caltener separtada la información de cada usuariu. Pa ello, cada usuariu tien de criar el so propiu perfil.">
 <!ENTITY profileCreationExplanation_3.text  "Si ye la única persona qu'usa esta copia de &brandShortName;, tien de tener al menos un perfil. Si-y presta, pue criar múltiples perfiles col envís d'atroxar diferentes conxuntos de configuraciones y preferencies. Por exemplu, pue querer tener perfiles separtaos pa usu personal y usu profesional.">
 <!ENTITY profileCreationExplanation_4.text  "Pa entamar a criar el so perfil, faiga clic en Siguiente.">
