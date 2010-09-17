@@ -17,7 +17,7 @@
 <!ENTITY changePassword.label         "Passwort ändern">
 <!ENTITY changePassphrase.label       "Passphrase ändern">
 <!ENTITY resetSync.label              "Sync zurücksetzen">
-<!ENTITY differentAccount.label       "Anderen Account verwenden">
+<!ENTITY stopUsingAccount.label       "Aufhören, diesen Account zu verwenden">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browser-Sync">
