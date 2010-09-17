@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Llogari &syncBrand.fullName.label;">
-<!ENTITY currentUser.label            "Përdoruesi i Tanishëm:">
+<!ENTITY currentAccount.label         "Llogaria e Tanishme:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Përditësoje">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Administroni Llogarinë">
 <!ENTITY manageAccount.accesskey      "A">
+<!ENTITY viewQuota.label              "Shihni Kuotat">
 <!ENTITY changePassword.label         "Ndryshoni Fjalëkalimin">
 <!ENTITY mySyncKey.label              "Kyçi Im për Sync-un">
 <!ENTITY resetSync.label              "Rikthe Sync-un te Parazgjedhjet">
-<!ENTITY differentAccount.label       "Përdorni një Llogari Tjetër">
+<!ENTITY stopUsingAccount.label       "Ndërprisni Përdorimin e Kësaj Llogarie">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Njëkohësim Shfletuesi">
@@ -29,7 +30,7 @@
 <!ENTITY engine.bookmarks.accesskey "F">
 <!ENTITY engine.tabs.label          "Skedat e Mia">
 <!ENTITY engine.tabs.accesskey      "S">
-<!ENTITY engine.history.label       "Historik Tim">
+<!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Fjalëkalimet e Mij">
 <!ENTITY engine.passwords.accesskey "k">
@@ -38,4 +39,4 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Kushtet e Shërbimit">
-<!ENTITY prefs.ppLink.label         "Rregullat Vetësie">
+<!ENTITY prefs.ppLink.label         "Rregulla Vetësie">

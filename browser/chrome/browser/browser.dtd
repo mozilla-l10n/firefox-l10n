@@ -497,17 +497,10 @@
 <!ENTITY syncTabsMenu.label     "Skeda Prej Kompjuterësh të Tjerë">
 
 <!ENTITY syncBrand.shortName.label  "Njëkohëso">
-
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
                                               don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "Y">
 <!ENTITY syncSetup.label              "Rregulloni &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "R">
-<!ENTITY syncLogInItem.label          "Lidhu">
-<!ENTITY syncLogInItem.accesskey      "L">
-<!ENTITY syncLogOutItem.label         "Shkëputu">
-<!ENTITY syncLogOutItem.accesskey     "S">
 <!ENTITY syncSyncNowItem.label        "Njëkohësohu Tani">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 
@@ -544,3 +537,5 @@ can reach it easily. -->
 <!ENTITY zoomOutButton.tooltip          "Zmadhojeni">
 <!ENTITY zoomInButton.tooltip           "Zvogëlojeni">
 <!ENTITY zoomControls.label             "Kontrolle Ripërmasimi">
+
+<!ENTITY syncToolbarButton.label      "Njëkohëso">
