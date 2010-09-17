@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title "Acerca de &brandFullName;">
 <!ENTITY community.start2 "&brandShortName; está diseñado por ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 ", una">
+<!ENTITY community.middle2 ", una ">
 <!ENTITY community.creditsLink "comunidad global">
 <!ENTITY community.end2 " trabajando unida para hacer un internet mejor. Creemos que internet debería ser abierto, público y accesible para todos sin ninguna restricción.">
 <!ENTITY contribute.start "¿Suena interesante? ">
