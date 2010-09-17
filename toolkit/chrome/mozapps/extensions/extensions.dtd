@@ -39,8 +39,6 @@
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Recente updates bekijken">
 <!ENTITY updates.viewUpdates.accesskey        "r">
-<!ENTITY updates.backgroudUpdateCheck.label   "Automatisch controleren op updates">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "c">
 <!ENTITY updates.updateAddonsAutomatically.label     "Add-ons automatisch bijwerken">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Reset alle Add-ons naar automatisch bijwerken">
