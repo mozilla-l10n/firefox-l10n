@@ -54,6 +54,7 @@
 <!ENTITY clearCacheNow.label             "Jetzt leeren">
 <!ENTITY clearCacheNow.accesskey         "J">
 <!ENTITY smartSizeCache.label            "&brandShortName; die Größe des Caches verwalten lassen">
+<!ENTITY smartSizeCache.accesskey        "G">
 
 <!ENTITY updateTab.label                 "Update">
 
