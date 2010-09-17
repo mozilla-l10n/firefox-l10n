@@ -52,9 +52,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Guardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 
-<!ENTITY page.syncKeyBackup.title     "A sua chave do Sync do Firefox">
-<!ENTITY page.syncKeyBackup.descr     "Esta chave secreta é usada para cifrar os seus dados pessoais. Não é carregada para o servidor e não pode ser recuperada. Não a perca ou partilhe com outras pessoas.">
-
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Por favor confirme que não é um robot ;)">
 
