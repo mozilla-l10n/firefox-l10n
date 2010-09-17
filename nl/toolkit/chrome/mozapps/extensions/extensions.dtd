@@ -51,6 +51,8 @@
 <!ENTITY updates.restart.label                "Herstart nu om de installatie te voltooien.">
 <!ENTITY updates.noneFound.label              "Geen updates gevonden">
 <!ENTITY updates.manualUpdatesFound.label     "Beschikbare updates bekijken">
+<!ENTITY updates.updateSelected.label         "Updates installeren">
+<!ENTITY updates.updateSelected.tooltip       "Installeer de beschikbare updates in deze lijst">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Meer informatie tonen">
@@ -158,6 +160,8 @@
 <!ENTITY addon.install.tooltip                "Deze add-on installeren">
 <!ENTITY addon.updateNow.label                "Nu bijwerken">
 <!ENTITY addon.updateNow.tooltip              "De update voor deze add-on installeren">
+<!ENTITY addon.includeUpdate.label            "Meenemen met bijwerken">
+<!ENTITY addon.updateAvailable.label          "Een update is beschikbaar">
 <!ENTITY addon.checkingForUpdates.label       "Controleren op updates…">
 <!ENTITY addon.releaseNotes.label             "Uitgaveopmerkingen:">
 <!ENTITY addon.loadingReleaseNotes.label      "Laden…">
