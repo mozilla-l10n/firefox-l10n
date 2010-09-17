@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Startseite anzeigen">
 <!ENTITY startupBlankPage.label    "Leere Seite anzeigen">
 <!ENTITY startupLastSession.label  "Fenster und Tabs der letzten Sitzung anzeigen">
-<!ENTITY location.label            "Startseite:">
-<!ENTITY location.accesskey        "S">
+<!ENTITY homepage.label            "Startseite:">
+<!ENTITY homepage.accesskey        "S">
 <!ENTITY useCurrentPage.label      "Aktuelle Seite verwenden">
 <!ENTITY useCurrentPage.accesskey  "A">
 <!ENTITY useMultiple.label         "Aktuelle Seiten verwenden">
