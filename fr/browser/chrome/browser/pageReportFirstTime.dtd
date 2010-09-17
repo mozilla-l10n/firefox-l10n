@@ -1,5 +1,7 @@
 <!ENTITY startDescriptionText.label        "Un site Web a tenté d'ouvrir une fenêtre popup sans votre permission. &brandShortName; a automatiquement bloqué ce popup.">
-
+1<!-- backout pour bug 574688 -->
+<!ENTITY startDescription.label            "Un site Web a tenté d'ouvrir une fenêtre popup sans votre permission. &brandShortName; a automatiquement bloqué ce popup. Lorsque &brandShortName; bloque un de ces popups, vous verrez une icône dans la Barre d'état.">
+<!-- fin backout -->
 <!ENTITY endDescription.label              "Vous pouvez cliquer sur cette icône pour voir quel site a été bloqué par &brandShortName; et autoriser celui-ci à afficher des popups s'ils sont malgré tout requis pour la bonne marche du site.">
 
 <!ENTITY caption.label "À propos du blocage des popups">
