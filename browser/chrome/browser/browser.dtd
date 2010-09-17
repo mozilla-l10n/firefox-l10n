@@ -244,13 +244,13 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Start privat nettlesing">
 <!ENTITY privateBrowsingCmd.start.accesskey     "a">
-<!ENTITY privateBrowsingCmd.stop.label          "Stopp privat nettlesing">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "o">
+<!ENTITY privateBrowsingCmd.stop.label          "Avslutt privat nettlesing">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "A">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vis">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY showTabView2.label     "Grupper fanene dine …">
+<!ENTITY showTabView2.label     "Grupper faner …">
 <!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label       "Verktøylinjer">
 <!ENTITY viewToolbarsMenu.accesskey     "V">
@@ -456,7 +456,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY zoomOutButton.tooltip          "Mindre skrift">
 <!ENTITY zoomInButton.tooltip           "Større skrift">
-<!ENTITY zoomControls.label             "Zoom-kontroller">
+<!ENTITY zoomControls.label             "Skalering">
 
 <!ENTITY quitApplicationCmdWin.label       "Avslutt">
 <!ENTITY quitApplicationCmdWin.accesskey   "t">
@@ -546,5 +546,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.label              "Konfigurer &syncBrand.shortName.label; …">
 <!ENTITY syncSetup.accesskey          "K">
 <!ENTITY syncSyncNowItem.label        "Synkroniser nå">
-<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncSyncNowItem.accesskey    "r">
 <!ENTITY syncToolbarButton.label      "Sync">
