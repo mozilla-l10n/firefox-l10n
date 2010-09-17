@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "domovskú stránku">
 <!ENTITY startupBlankPage.label    "prázdnu stránku">
 <!ENTITY startupLastSession.label  "naposledy otvorené okná a karty">
-<!ENTITY location.label            "Domovská stránka:">
-<!ENTITY location.accesskey        "D">
+<!ENTITY homepage.label            "Domovská stránka:">
+<!ENTITY homepage.accesskey        "D">
 <!ENTITY useCurrentPage.label      "Použiť aktuálnu stránku">
 <!ENTITY useCurrentPage.accesskey  "s">
 <!ENTITY useMultiple.label         "Použiť aktuálne stránky">

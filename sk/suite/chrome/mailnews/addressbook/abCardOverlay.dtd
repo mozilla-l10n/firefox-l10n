@@ -117,9 +117,9 @@ načítavanie externého obsahu, ak sú vo formáte HTML.">
 <!ENTITY Birthday.label                 "Dátum narodenia:">
 <!ENTITY Birthday.accesskey             "D">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Rok">
+<!ENTITY Year.placeholder               "Rok">
 <!ENTITY Or.value                       "alebo">
-<!ENTITY Age.emptytext                  "vek">
+<!ENTITY Age.placeholder                "vek">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Zamestnanie">
@@ -170,6 +170,6 @@ načítavanie externého obsahu, ak sú vo formáte HTML.">
 <!ENTITY BrowsePhoto.accesskey          "P">
 <!ENTITY PhotoURL.label                 "Na webe">
 <!ENTITY PhotoURL.accesskey             "N">
-<!ENTITY PhotoURL.emptytext             "Prilepte alebo zadajte webovú adresu fotografie">
+<!ENTITY PhotoURL.placeholder           "Prilepte alebo zadajte webovú adresu fotografie">
 <!ENTITY UpdatePhoto.label              "Aktualizovať">
 <!ENTITY UpdatePhoto.accesskey          "A">

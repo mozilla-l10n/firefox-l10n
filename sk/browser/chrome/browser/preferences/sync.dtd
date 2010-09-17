@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Účet služby &syncBrand.fullName.label;">
-<!ENTITY currentUser.label            "Aktuálny používateľ:">
+<!ENTITY currentAccount.label         "Aktuálny účet:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Aktualizovať">
@@ -14,30 +14,28 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Spravovať účet">
 <!ENTITY manageAccount.accesskey      "S">
+<!ENTITY viewQuota.label              "Zobraziť kvótu">
 <!ENTITY changePassword.label         "Zmeniť heslo">
-<!ENTITY changePassphrase.label       "Zmeniť tajnú frázu">
+<!ENTITY mySyncKey.label              "Môj Synchronizačný kľúč">
 <!ENTITY resetSync.label              "Nová synchronizácia">
-<!ENTITY differentAccount.label       "Použiť iný účet">
+<!ENTITY stopUsingAccount.label       "Prestať používať tento účet">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Synchronizácia prehliadača">
 <!ENTITY syncComputerName.label       "Názov počítača:">
 <!ENTITY syncComputerName.accesskey   "a">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; bude: ">
-<!ENTITY syncModeSwitchDesc.accesskey "b">
-<!ENTITY syncEverything.label         "synchronizovať všetko">
-<!ENTITY customSync.label             "používať moje vlastné nastavenia">
-<!ENTITY syncEverythingDescription.label  "Synchronizovať sa budú vaše záložky, história, heslá, nastavenia a otvorené karty.">
-<!ENTITY syncItem.bookmarks.label     "Synchronizovať záložky">
-<!ENTITY syncItem.bookmarks.accesskey "z">
-<!ENTITY syncItem.tabs.label          "Synchronizovať karty">
-<!ENTITY syncItem.tabs.accesskey      "k">
-<!ENTITY syncItem.history.label       "Synchronizovať históriu">
-<!ENTITY syncItem.history.accesskey   "h">
-<!ENTITY syncItem.passwords.label     "Synchronizovať heslá">
-<!ENTITY syncItem.passwords.accesskey "e">
-<!ENTITY syncItem.prefs.label         "Synchronizovať nastavenia">
-<!ENTITY syncItem.prefs.accesskey     "c">
+
+<!ENTITY syncMy.label               "Synchronizovať">
+<!ENTITY engine.bookmarks.label     "Záložky">
+<!ENTITY engine.bookmarks.accesskey "Z">
+<!ENTITY engine.tabs.label          "Karty">
+<!ENTITY engine.tabs.accesskey      "K">
+<!ENTITY engine.history.label       "Históriu">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Heslá">
+<!ENTITY engine.passwords.accesskey "e">
+<!ENTITY engine.prefs.label         "Nastavenia">
+<!ENTITY engine.prefs.accesskey     "N">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Podmienky používania služby">

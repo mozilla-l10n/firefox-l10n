@@ -63,8 +63,10 @@
 <!ENTITY errorpatching.intro              "Použitie rozdielovej aktualizácie bolo neúspešné.
                                            &brandShortName; sa pokúsi prevziať kompletnú aktualizáciu.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Z neznámeho dôvodu nie je možné &brandShortName; bezpečne aktualizovať.
-                                           Na uvedenej adrese si overte, že máte najnovšiu verziu aplikácie &brandShortName;:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; nedokázal zistiť, či je dostupná nejaká aktualizácia.
+                                           Uistite sa, že máte najnovšiu verziu aplikácie &brandShortName; zo stránky:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Z neznámeho dôvodu nie je možné &brandShortName;  bezpečne aktualizovať.
+                                           Uistite sa, že máte najnovšiu verziu aplikácie &brandShortName; zo stránky:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Niečo sa snaží prinútiť &brandShortName; akceptovať nezabezpečenú
                                            aktualizáciu. Kontaktujte správcu sieťového pripojenia a požiadajte o pomoc.">
 

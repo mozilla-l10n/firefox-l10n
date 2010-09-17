@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Inštalovanie rozšírení alebo tém">
 <!ENTITY  permGeo               "Prezradenie polohy">
 
+<!ENTITY  permIndexedDB              "Správa úložiska režimu offline">
+<!ENTITY  permClearStorage           "Vymazať úložisko">
+<!ENTITY  permClearStorage.accesskey "V">
+
 <!ENTITY  securityTab           "Zabezpečenie">
 <!ENTITY  securityTab.accesskey "Z">
 <!ENTITY  securityHeader        "Informácie o zabezpečení tejto stránky">

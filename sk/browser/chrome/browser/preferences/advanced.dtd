@@ -51,6 +51,8 @@
 <!ENTITY useCacheAfter.label             "MB diskového priestoru">
 <!ENTITY clearCacheNow.label             "Vymazať teraz">
 <!ENTITY clearCacheNow.accesskey         "e">
+<!ENTITY smartSizeCache.label            "Nechať &brandShortName; spravovať veľkosť vyrovnávacej pamäte">
+<!ENTITY smartSizeCache.accesskey        "c">
 
 <!ENTITY updateTab.label                 "Aktualizácie">
 

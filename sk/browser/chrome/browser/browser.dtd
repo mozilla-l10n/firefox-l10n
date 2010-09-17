@@ -17,22 +17,26 @@
 <!ENTITY  reloadAllTabs.label                "Obnoviť všetky karty">
 <!ENTITY  reloadAllTabs.accesskey            "b">
 <!ENTITY  closeOtherTabs.label               "Zavrieť ostatné karty">
-<!ENTITY  closeOtherTabs.accesskey           "a">
+<!ENTITY  closeOtherTabs.accesskey           "e">
 <!ENTITY  openTabInNewWindow.label           "Otvoriť v novom okne">
 <!ENTITY  openTabInNewWindow.accesskey       "k">
-<!ENTITY  pinTab.label                       "Pripnúť kartu">
-<!ENTITY  pinTab.accesskey                   "t">
-<!ENTITY  unpinTab.label                     "Zrušiť pripnutie karty">
-<!ENTITY  unpinTab.accesskey                 "t">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Pripnúť kartu">
+<!ENTITY  pinAppTab.accesskey                "r">
+<!ENTITY  unpinAppTab.label                  "Zrušiť pripnutie karty">
+<!ENTITY  unpinAppTab.accesskey              "r">
 <!ENTITY  moveToGroup.label                  "Presunúť do skupiny">
-<!ENTITY  moveToGroup.accesskey              "e">
+<!ENTITY  moveToGroup.accesskey              "P">
 <!ENTITY  moveToNewGroup.label               "Nová skupina">
-<!ENTITY  bookmarkThisTab.label              "Pridať túto kartu medzi záložky">
-<!ENTITY  bookmarkThisTab.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  undoCloseTab.label                 "Obnoviť zatvorenú kartu">
-<!ENTITY  undoCloseTab.accesskey             "r">
+<!ENTITY  undoCloseTab.accesskey             "a">
 <!ENTITY  closeTab.label                     "Zavrieť kartu">
 <!ENTITY  closeTab.accesskey                 "Z">
 
@@ -99,7 +103,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Odoberať kanál tejto stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
-<!ENTITY organizeBookmarks.label "Spravovať záložky…">
+<!ENTITY showAllBookmarks.label "Zobraziť všetky záložky…">
 <!ENTITY bookmarkAllCmd.label "Pridať všetky karty medzi záložky…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
 
@@ -129,6 +133,7 @@
 <!ENTITY bookmarksItem.title            "Záložky">
 
 <!-- Toolbar items -->
+<!ENTITY appMenuButton.label          "Ponuka">
 <!ENTITY homeButton.label "Domov">
 <!ENTITY tabViewButton2.label          "Skupiny kariet">
 <!ENTITY tabViewButton2.tooltip        "Zoskupte si svoje karty">
@@ -168,6 +173,7 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label                 "Doplnky">
 <!ENTITY addons.accesskey             "D">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey    "C">
@@ -260,6 +266,7 @@
 <!ENTITY historyUndoMenu.label "Nedávno zatvorené karty">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nedávno zatvorené okná">
+<!ENTITY historyRestoreLastSession.label "Obnoviť predchádzajúcu reláciu">
 
 <!ENTITY historyHomeCmd.label "Domov">
 <!ENTITY showAllHistoryCmd2.label "Zobraziť celú históriu">
@@ -272,7 +279,7 @@
 <!ENTITY appMenuFind.label "Hľadať…">
 <!ENTITY appMenuUnsorted.label "Nezaradené záložky">
 <!ENTITY appMenuGettingStarted.label "Začíname">
-
+<!ENTITY appMenuDeveloperTools.label "Vývojárske nástroje">
 <!ENTITY developerMenu.label "Vývojár">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -444,7 +451,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Vystrihnúť">
 <!ENTITY copyButton.tooltip             "Kopírovať">
 <!ENTITY pasteButton.tooltip            "Prilepiť">
+
 <!ENTITY fullScreenButton.tooltip       "Zobraziť okno na celú obrazovku">
+
+<!ENTITY zoomOutButton.tooltip          "Vzdialiť">
+<!ENTITY zoomInButton.tooltip           "Priblížiť">
+<!ENTITY zoomControls.label             "Lupa">
 
 <!ENTITY quitApplicationCmdWin.label    "Koniec">
 <!ENTITY quitApplicationCmdWin.accesskey "K">
@@ -529,17 +541,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label "Karty z ďalších počítačov">
 
-<!ENTITY syncBrand.shortName.label  "Sync">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncMenu.label               "Synchronizácia">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "n">
 <!ENTITY syncSetup.label              "Nastaviť službu &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "N">
-<!ENTITY syncLogInItem.label          "Pripojiť">
-<!ENTITY syncLogInItem.accesskey      "P">
-<!ENTITY syncLogOutItem.label         "Odpojiť">
-<!ENTITY syncLogOutItem.accesskey     "O">
 <!ENTITY syncSyncNowItem.label        "Synchronizovať teraz">
-<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncSyncNowItem.accesskey    "N">
+<!ENTITY syncToolbarButton.label      "Synchronizácia">
