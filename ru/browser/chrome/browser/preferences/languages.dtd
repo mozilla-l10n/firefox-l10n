@@ -7,7 +7,7 @@
 <!ENTITY languages.customize.moveDown.label "Вниз">
 <!ENTITY languages.customize.moveDown.accesskey "н">
 <!ENTITY languages.customize.deleteButton.label "Удалить">
-<!ENTITY languages.customize.deleteButton.accesskey "У">
+<!ENTITY languages.customize.deleteButton.accesskey "д">
 <!ENTITY languages.customize.selectLanguage.label "Выберите язык, чтобы его добавить…">
 <!ENTITY languages.customize.addButton.label "Добавить">
-<!ENTITY languages.customize.addButton.accesskey "Д">
+<!ENTITY languages.customize.addButton.accesskey "б">

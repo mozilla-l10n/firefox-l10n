@@ -3,17 +3,17 @@
 <!ENTITY treehead.sitename.label "Сайт">
 <!ENTITY treehead.status.label "Статус">
 <!ENTITY removepermission.label "Удалить сайт">
-<!ENTITY removepermission.accesskey "У">
+<!ENTITY removepermission.accesskey "д">
 <!ENTITY removeallpermissions.label "Удалить все сайты">
 <!ENTITY removeallpermissions.accesskey "в">
 <!ENTITY address.label "Адрес сайта:">
-<!ENTITY address.accesskey "д">
+<!ENTITY address.accesskey "р">
 <!ENTITY block.label "Блокировать">
-<!ENTITY block.accesskey "Б">
+<!ENTITY block.accesskey "л">
 <!ENTITY session.label "Разрешить на сессию">
 <!ENTITY session.accesskey "с">
 <!ENTITY allow.label "Разрешить">
-<!ENTITY allow.accesskey "Р">
+<!ENTITY allow.accesskey "з">
 <!ENTITY windowClose.key "w">
 <!ENTITY button.close.label "Закрыть">
-<!ENTITY button.close.accesskey "З">
+<!ENTITY button.close.accesskey "к">

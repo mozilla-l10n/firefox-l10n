@@ -1,33 +1,33 @@
 <!ENTITY startup.label "Запуск">
 <!ENTITY startupPage.label "При запуске &brandShortName;:">
-<!ENTITY startupPage.accesskey "з">
+<!ENTITY startupPage.accesskey "р">
 <!ENTITY startupHomePage.label "Показать домашнюю страницу">
 <!ENTITY startupBlankPage.label "Показать пустую страницу">
 <!ENTITY startupLastSession.label "Показать окна и вкладки, открытые в прошлый раз">
-<!ENTITY location.label "Домашняя страница:">
-<!ENTITY location.accesskey "Д">
+<!ENTITY homepage.label "Домашняя страница:">
+<!ENTITY homepage.accesskey "м">
 <!ENTITY useCurrentPage.label "Использовать текущую страницу">
 <!ENTITY useCurrentPage.accesskey "т">
 <!ENTITY useMultiple.label "Использовать текущие страницы">
 <!ENTITY useBookmark.label "Использовать закладку">
-<!ENTITY useBookmark.accesskey "з">
+<!ENTITY useBookmark.accesskey "л">
 <!ENTITY restoreDefault.label "Восстановить по умолчанию">
-<!ENTITY restoreDefault.accesskey "В">
+<!ENTITY restoreDefault.accesskey "о">
 <!ENTITY downloads.label "Загрузки">
 <!ENTITY showWhenDownloading.label "Показывать окно загрузок при загрузке файла">
-<!ENTITY showWhenDownloading.accesskey "о">
+<!ENTITY showWhenDownloading.accesskey "з">
 <!ENTITY closeWhenDone.label "Закрывать его после завершения всех загрузок">
-<!ENTITY closeWhenDone.accesskey "З">
+<!ENTITY closeWhenDone.accesskey "к">
 <!ENTITY saveTo.label "Путь для сохранения файлов">
-<!ENTITY saveTo.accesskey "С">
+<!ENTITY saveTo.accesskey "у">
 <!ENTITY chooseFolderWin.label "Обзор…">
 <!ENTITY chooseFolderWin.accesskey "б">
 <!ENTITY chooseFolderMac.label "Выбрать…">
 <!ENTITY chooseFolderMac.accesskey "ы">
 <!ENTITY alwaysAsk.label "Всегда выдавать запрос на сохранение файлов">
-<!ENTITY alwaysAsk.accesskey "В">
+<!ENTITY alwaysAsk.accesskey "с">
 <!ENTITY addonsMgr.label "Дополнения">
 <!ENTITY manageAddonsDescWin.label "Измените параметры ваших дополнений">
 <!ENTITY manageAddonsDescUnix2.label "Измените параметры ваших дополнений">
 <!ENTITY manageAddons.label "Настроить дополнения…">
-<!ENTITY manageAddons.accesskey "с">
+<!ENTITY manageAddons.accesskey "а">

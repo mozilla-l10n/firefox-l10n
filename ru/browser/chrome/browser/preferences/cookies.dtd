@@ -4,7 +4,7 @@
 <!ENTITY cookiedomain.label "Сайт">
 <!ENTITY button.removecookies.label "Удалить куки">
 <!ENTITY button.removecookie.label "Удалить куку">
-<!ENTITY button.removecookie.accesskey "У">
+<!ENTITY button.removecookie.accesskey "д">
 <!ENTITY button.removeallcookies.label "Удалить все куки">
 <!ENTITY button.removeallcookies.accesskey "в">
 <!ENTITY props.name.label "Имя:">
@@ -18,6 +18,6 @@
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 <!ENTITY filter.label "Поиск:">
-<!ENTITY filter.accesskey "П">
+<!ENTITY filter.accesskey "о">
 <!ENTITY button.close.label "Закрыть">
-<!ENTITY button.close.accesskey "З">
+<!ENTITY button.close.accesskey "к">
