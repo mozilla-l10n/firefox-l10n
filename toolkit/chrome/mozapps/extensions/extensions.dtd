@@ -9,6 +9,7 @@
 <!ENTITY listEmpty.button.label "Aprender más sobre los complementos">
 <!ENTITY installAddonFromFile.label "Instalar complemento desde archivo…">
 <!ENTITY installAddonFromFile.accesskey "I">
+<!ENTITY toolsMenu.tooltip "Herramientas para todos los complementos">
 <!ENTITY cmd.back.tooltip "Retroceder una página">
 <!ENTITY cmd.forward.tooltip "Avanzar una página">
 <!ENTITY warning.safemode.label "Todos los complementos han sido desactivados por el modo seguro.">
@@ -27,10 +28,8 @@
 <!ENTITY view.plugins.label "Plugins">
 <!ENTITY view.recentUpdates.label "Actualizaciones recientes">
 <!ENTITY view.availableUpdates.label "Actualizaciones disponibles">
-<!ENTITY view.utilites.preferences.tooltip "Opciones para todos los complementos">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Preferencias para todos los complementos">
-<!ENTITY updates.updateAddonsNow.label "Actualizar complementos ahora">
-<!ENTITY updates.updateAddonsNow.accesskey "A">
+<!ENTITY updates.checkForUpdates.label "Buscar actualizaciones">
+<!ENTITY updates.checkForUpdates.accesskey "B">
 <!ENTITY updates.viewUpdates.label "Ver actualizaciones recientes">
 <!ENTITY updates.viewUpdates.accesskey "V">
 <!ENTITY updates.updateAddonsAutomatically.label "Actualizar complementos automáticamente">
@@ -97,7 +96,7 @@
 <!ENTITY detail.repository "Perfil del complemento">
 <!ENTITY detail.size "Tamaño">
 <!ENTITY detail.checkForUpdates.label "Buscar actualizaciones">
-<!ENTITY detail.checkForUpdates.accesskey "n">
+<!ENTITY detail.checkForUpdates.accesskey "B">
 <!ENTITY detail.checkForUpdates.tooltip "Buscar actualizaciones de este complemento">
 <!ENTITY detail.showPreferencesWin.label "Opciones">
 <!ENTITY detail.showPreferencesWin.accesskey "O">
@@ -114,6 +113,8 @@
 <!ENTITY sort.dateUpdated.tooltip "Ordenar por fecha de actualización">
 <!ENTITY sort.relevance.label "Mejor coincidencia">
 <!ENTITY sort.relevance.tooltip "Ordenar por relevancia">
+<!ENTITY sort.price.label "Precio">
+<!ENTITY sort.price.tooltip "Ordenar por precio">
 <!ENTITY search.filter2.label "Buscar:">
 <!ENTITY search.filter2.installed.label "Mis complementos">
 <!ENTITY search.filter2.installed.tooltip "Mostrar complementos instalados">
