@@ -52,9 +52,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Lagre …">
 <!ENTITY button.syncKeyBackup.save.accesskey  "L">
 
-<!ENTITY page.syncKeyBackup.title     "Firefox Sync-nøkkel">
-<!ENTITY page.syncKeyBackup.descr     "Denne hemmelige nøkkelen brukes for å kryptere dine personlige data. Den lastes ikke opp til tjeneren, og kan ikke gjenfinnes om du glemmer den. Ikke mist den eller del den med andre.">
-
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bekreft at du ikke er en robot">
 
