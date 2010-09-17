@@ -9,6 +9,7 @@
 <!ENTITY listEmpty.button.label               "Les mer om utvidelser">
 <!ENTITY installAddonFromFile.label           "Installer utvidelse fra fil …">
 <!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidelser">
 
 <!ENTITY cmd.back.tooltip                     "Gå tilbake en side">
 <!ENTITY cmd.forward.tooltip                  "Gå frem en side">
@@ -32,8 +33,6 @@
 <!ENTITY view.plugins.label                   "Programtillegg">
 <!ENTITY view.recentUpdates.label             "Nylige oppdateringer">
 <!ENTITY view.availableUpdates.label          "Tilgjengelige oppdateringer">
-<!ENTITY view.utilites.preferences.tooltip    "Innstillinger for alle utvidelser">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Innstillinger for alle utvidelser">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Søk etter oppdateringer nå">
