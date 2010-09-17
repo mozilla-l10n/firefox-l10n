@@ -5,14 +5,14 @@
 <!ENTITY blockWebForgeries.label "Блокировать сайты, подозреваемые в мошенничестве">
 <!ENTITY blockWebForgeries.accesskey "л">
 <!ENTITY addonExceptions.label "Исключения…">
-<!ENTITY addonExceptions.accesskey "И">
+<!ENTITY addonExceptions.accesskey "с">
 <!ENTITY passwords.label "Пароли">
 <!ENTITY rememberPasswords.label "Запоминать пароли для сайтов">
-<!ENTITY rememberPasswords.accesskey "З">
+<!ENTITY rememberPasswords.accesskey "п">
 <!ENTITY passwordExceptions.label "Исключения…">
-<!ENTITY passwordExceptions.accesskey "И">
+<!ENTITY passwordExceptions.accesskey "ю">
 <!ENTITY useMasterPassword.label "Использовать мастер-пароль">
-<!ENTITY useMasterPassword.accesskey "И">
+<!ENTITY useMasterPassword.accesskey "в">
 <!ENTITY changeMasterPassword.label "Сменить мастер-пароль…">
 <!ENTITY changeMasterPassword.accesskey "м">
 <!ENTITY savedPasswords.label "Сохранённые пароли…">

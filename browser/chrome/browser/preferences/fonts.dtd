@@ -3,14 +3,14 @@
 <!ENTITY window.macWidth "58em">
 <!ENTITY window.unixWidth "56em">
 <!ENTITY language.label "Шрифты для набора символов:">
-<!ENTITY language.accesskey "Ш">
+<!ENTITY language.accesskey "ф">
 <!ENTITY size.label "Размер:">
 <!ENTITY sizeProportional.accesskey "з">
 <!ENTITY sizeMonospace.accesskey "м">
 <!ENTITY proportional.label "Пропорциональный">
-<!ENTITY proportional.accesskey "П">
+<!ENTITY proportional.accesskey "р">
 <!ENTITY serif.label "С засечками:">
-<!ENTITY serif.accesskey "з">
+<!ENTITY serif.accesskey "а">
 <!ENTITY sans-serif.label "Без засечек:">
 <!ENTITY sans-serif.accesskey "е">
 <!ENTITY monospace.label "Моноширинный:">
@@ -48,12 +48,12 @@
 <!ENTITY font.langGroup.sinhala "Сингальский">
 <!ENTITY font.langGroup.tibetan "Тибетский">
 <!ENTITY minSize.label "Наименьший размер шрифта:">
-<!ENTITY minSize.accesskey "м">
+<!ENTITY minSize.accesskey "и">
 <!ENTITY minSize.none "Нет">
 <!ENTITY useDefaultFontSerif.label "С засечками">
 <!ENTITY useDefaultFontSansSerif.label "Без засечек">
 <!ENTITY allowPagesToUse.label "Разрешить веб-сайтам использовать свои шрифты вместо установленных">
-<!ENTITY allowPagesToUse.accesskey "Р">
+<!ENTITY allowPagesToUse.accesskey "т">
 <!ENTITY languages.customize.Charset.grouplabel "Кодировка">
 <!ENTITY languages.customize.DefaultCharset.label "Кодировка по умолчанию:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "К">
+<!ENTITY languages.customize.DefaultCharset.accesskey "д">

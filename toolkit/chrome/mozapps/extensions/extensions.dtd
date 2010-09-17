@@ -9,6 +9,7 @@
 <!ENTITY listEmpty.button.label "Узнать больше о дополнениях">
 <!ENTITY installAddonFromFile.label "Установить дополнение из файла…">
 <!ENTITY installAddonFromFile.accesskey "с">
+<!ENTITY toolsMenu.tooltip "Инструменты для всех дополнений">
 <!ENTITY cmd.back.tooltip "На предыдущую страницу">
 <!ENTITY cmd.forward.tooltip "На следующую страницу">
 <!ENTITY warning.safemode.label "В безопасном режиме все дополнения отключены.">
@@ -27,10 +28,8 @@
 <!ENTITY view.plugins.label "Плагины">
 <!ENTITY view.recentUpdates.label "Недавние обновления">
 <!ENTITY view.availableUpdates.label "Доступные обновления">
-<!ENTITY view.utilites.preferences.tooltip "Настройки для всех дополнений">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Настройки для всех дополнений">
-<!ENTITY updates.updateAddonsNow.label "Обновить дополнения прямо сейчас">
-<!ENTITY updates.updateAddonsNow.accesskey "н">
+<!ENTITY updates.checkForUpdates.label "Проверить наличие обновлений">
+<!ENTITY updates.checkForUpdates.accesskey "в">
 <!ENTITY updates.viewUpdates.label "Показать недавние обновления">
 <!ENTITY updates.viewUpdates.accesskey "к">
 <!ENTITY updates.updateAddonsAutomatically.label "Автоматически обновлять дополнения">
@@ -114,6 +113,8 @@
 <!ENTITY sort.dateUpdated.tooltip "Сортировать по дате обновления">
 <!ENTITY sort.relevance.label "Лучшее совпадение">
 <!ENTITY sort.relevance.tooltip "Сортировать по релевантности">
+<!ENTITY sort.price.label "Цена">
+<!ENTITY sort.price.tooltip "Сортировать по цене">
 <!ENTITY search.filter2.label "Поиск среди:">
 <!ENTITY search.filter2.installed.label "Моих дополнений">
 <!ENTITY search.filter2.installed.tooltip "Показать установленные дополнения">

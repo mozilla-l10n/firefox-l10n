@@ -39,7 +39,7 @@
 <!ENTITY privateBrowsingPermanent.label "Постоянный режим приватного просмотра">
 <!ENTITY privateBrowsingPermanent.accesskey "о">
 <!ENTITY rememberHistory.label "Помнить историю посещений">
-<!ENTITY rememberHistory.accesskey "о">
+<!ENTITY rememberHistory.accesskey "м">
 <!ENTITY rememberDownload.label "Помнить историю загрузок">
 <!ENTITY rememberDownload.accesskey "з">
 <!ENTITY rememberSearchForm.label "Помнить историю поиска и данных форм">
@@ -47,4 +47,4 @@
 <!ENTITY clearOnClose.label "Очищать историю при закрытии &brandShortName;">
 <!ENTITY clearOnClose.accesskey "ч">
 <!ENTITY clearOnCloseSettings.label "Параметры…">
-<!ENTITY clearOnCloseSettings.accesskey "м">
+<!ENTITY clearOnCloseSettings.accesskey "е">

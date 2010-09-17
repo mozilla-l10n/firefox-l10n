@@ -38,8 +38,6 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "ч">
 <!ENTITY button.syncKeyBackup.save.label "Сохранить…">
 <!ENTITY button.syncKeyBackup.save.accesskey "х">
-<!ENTITY page.syncKeyBackup.title "Ваш ключ синхронизации Firefox">
-<!ENTITY page.syncKeyBackup.descr "Этот секретный ключ используется для шифрования ваших персональных данных. Он не загружается на сервер и его невозможно восстановить. Не потеряйте его и не сообщайте другим людям.">
 <!ENTITY setup.captchaPage2.title.label "Пожалуйста, подтвердите, что вы не робот">
 <!ENTITY setup.existingAccount.title.label "Введите информацию о вашей учётной записи">
 <!ENTITY resetPassword.label "Сбросить пароль">

@@ -1,5 +1,5 @@
 <!ENTITY blockPopups.label "Блокировать всплывающие окна">
-<!ENTITY blockPopups.accesskey "Б">
+<!ENTITY blockPopups.accesskey "л">
 <!ENTITY popupExceptions.label "Исключения…">
 <!ENTITY popupExceptions.accesskey "ю">
 <!ENTITY loadImages.label "Автоматически загружать изображения">
@@ -18,7 +18,7 @@
 <!ENTITY defaultSize.label "Размер:">
 <!ENTITY defaultSize.accesskey "з">
 <!ENTITY advancedFonts.label "Дополнительно…">
-<!ENTITY advancedFonts.accesskey "п">
+<!ENTITY advancedFonts.accesskey "н">
 <!ENTITY colors.label "Цвета…">
 <!ENTITY colors.accesskey "в">
 <!ENTITY languages.label "Языки">
