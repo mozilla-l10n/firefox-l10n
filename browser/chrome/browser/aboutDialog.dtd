@@ -1,11 +1,23 @@
-<!ENTITY aboutDialog.title      "&brandFullName; ਬਾਰੇ">
-<!ENTITY copyright              "ਮਾਣ">
-<!ENTITY copyright.accesskey    "C">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY aboutLink              "&lt; &brandFullName; ਬਾਰੇ">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "ਵਰਜਨ">
-<!ENTITY closeCmdGNOME.label        "ਬੰਦ ਕਰੋ">  
-<!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY licenseLinkText            "ਲਾਈਸੈਂਸ ਜਾਣਕਾਰੀ">
-<!ENTITY licenseLinkSuffix          "।">
+<!ENTITY aboutDialog.title          "&brandFullName; ਬਾਰੇ">
+
+<!ENTITY community.start2           "&brandShortName; ਨੂੰ ਤਿਆਰ ਕੀਤਾ ਹੈ ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", ਇੱਕ ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "ਗਲੋਬਲ ਕਮਿਊਨਟੀ">
+<!ENTITY community.end2             " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+
+<!ENTITY contribute.start           "ਦਿਲਚਸਪ ਲੱਗਾ? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "ਆਓ ਫੇਰ ਹਿੱਸਾ ਬਣੋ!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "ਕਾਨੂੰਨੀ ਜਾਣਕਾਰੀ">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "ਅੰਤਮ ਯੂਜ਼ਰ ਹੱਕ">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ">

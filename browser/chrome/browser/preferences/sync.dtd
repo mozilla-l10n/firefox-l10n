@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ਅਕਾਊਂਟ">
-<!ENTITY currentUser.label            "ਮੌਜੂਦਾ ਯੂਜ਼ਰ:">
+<!ENTITY currentAccount.label         "ਮੌਜੂਦਾ ਅਕਾਊਂਟ:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "ਅੱਪਡੇਟ">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ਅਕਾਊਂਟ ਪਰਬੰਧ">
 <!ENTITY manageAccount.accesskey      "A">
+<!ENTITY viewQuota.label              "ਕੋਟਾ ਵੇਖੋ">
 <!ENTITY changePassword.label         "ਪਾਸਵਰਡ ਬਦਲੋ">
 <!ENTITY mySyncKey.label              "ਮੇਰੀ ਸਿੰਕ ਕੁੰਜੀ">
 <!ENTITY resetSync.label              "ਸਿੰਕ ਮੁੜ-ਸੈੱਟ">
-<!ENTITY differentAccount.label       "ਵੱਖਰਾ ਅਕਾਊਂਟ ਵਰਤੋਂ">
+<!ENTITY stopUsingAccount.label       "ਇਹ ਅਕਾਊਂਟ ਦੀ ਵਰਤੋਂ ਰੋਕੋ">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "ਬਰਾਊਜ਼ਰ ਸਿੰਕ">
