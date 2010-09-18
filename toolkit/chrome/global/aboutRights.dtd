@@ -65,7 +65,7 @@
 <!ENTITY rights.locationawarebrowsing-b "이 기능은 항상 여러분에게 확인을 합니다. 허가 없이 어떠한 위치 정보도 웹 서비스로 전송되지 않습니다. 하지만 이 기능 중단을 원하시면 아래의 절차를 이용하십시오.:">
 <!ENTITY rights.locationawarebrowsing-term1a "주소창에 about:config 입력 ">
 <!ENTITY rights.locationawarebrowsing-term1b "검색항목에 geo.enabled 입력">
-<!ENTITY rights.locationawarebrowsing-term2 "geo.enabled 항목을 더블 클릭"
+<!ENTITY rights.locationawarebrowsing-term2 "geo.enabled 항목을 더블 클릭">
 <!ENTITY rights.locationawarebrowsing-term3 "geo.enabled 항목값이 false로 변경">
 <!ENTITY rights.locationawarebrowsing-term4 "위치 정보 서비스 기능 중단">
 

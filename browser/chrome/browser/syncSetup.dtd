@@ -13,15 +13,15 @@
 <!ENTITY server.label               "서버">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; 서버">
 <!ENTITY serverType.custom.label    "별도 서버 설정">
-<!ENTITY signIn.username.label      "사용자명">
-<!ENTITY signIn.username.accesskey  "U">
+<!ENTITY signIn.account.label       "메일 주소/ 사용자명">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "암호">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.serverURL.label     "서버 주소(URL)">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "&syncBrand.shortName.label; 계정 만들기">
+<!ENTITY setup.newAccountDetailsPage.title.label "계정 상세 정보">
 <!ENTITY setup.confirmPassword.label  "암호 확인">
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "메일 주소">
@@ -56,27 +56,8 @@
 <!ENTITY setup.captchaPage2.title.label     "그림 속 글자 입력">
 
 <!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "브라우저 동기화 설정">
 <!ENTITY syncComputerName.label       "컴퓨터 이름:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; 실행 항목: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
-<!ENTITY syncEverything.label         "전체 동기화">
-<!ENTITY customSync.label             "선택한 항목만">
-<!ENTITY syncEverythingDescription.label  "북마크, 방문 기록, 암호, 설정 및 탭 이용 정보를 동기화 합니다."> 
-<!ENTITY syncItem.bookmarks.label     "북마크">
-<!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "탭 정보">
-<!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "방문 기록">
-<!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "웹 사이트 암호">
-<!ENTITY syncItem.passwords.accesskey "P">
-<!ENTITY syncItem.prefs.label         "환경 설정">
-<!ENTITY syncItem.prefs.accesskey     "S">
-
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label     "본인 여부 그림 문자 인증하십시오">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "계정 정보 입력">
@@ -108,7 +89,7 @@
 <!ENTITY engine.prefs.accesskey     "S">
 
 <!ENTITY choice2.merge.main.label      "PC 자료와 &syncBrand.shortName.label; 사이 병합하기">
-<!ENTITY choice2.merge.recommend.label "추천 항목:">
+<!ENTITY choice2.merge.recommended.label "추천 항목:">
 <!ENTITY choice2.client.main.label     "&syncBrand.fullName.label; 자료로 PC 자료 모두 바꾸기">
 <!ENTITY choice2.server.main.label     "PC 자료를 다른 기기로 모두 바꾸기">
 
@@ -122,5 +103,6 @@
 <!ENTITY confirm.server.warning.label "경고: 로컬 자료는 현재 기기 내 &brandShortName;의 모든 자료로 변경 됩니다!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "설정이 완료되었습니다!">
-<!ENTITY setup.successPage.desc.label    "축하합니다! &brandShortName;는 여러분의 정보를 자동으로 설정할 수 없습니다. &syncBrand.fullName.label;를 설치 하시기 바랍니다.  &brandShortName;에서 계속 사용 가능 합니다.">
+<!ENTITY setup.successPage.title   "설정 완료">
+<!ENTITY changeOptions.label "아래 동기화 설정을 선택해 방식을 변경할 수 있습니다.">
+<!ENTITY continueUsing.label "&brandShortName;를 계속 사용할 수 있습니다.">
