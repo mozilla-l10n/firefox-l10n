@@ -1585,7 +1585,7 @@
           <rdf:li>
        <rdf:Description ID="Filing_messages"
          nc:name="перемещение сообщений"
-         nc:link="mail_help.xhtml#filing_messages_in_folders"/>
+         nc:link="mailnews_organizing.xhtml#filing_messages_in_folders"/>
      </rdf:li>
           <rdf:li>
        <rdf:Description ID="print"
@@ -1753,17 +1753,17 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copying_folders"
          nc:name="копирование папок"
-         nc:link="mail_help.xhtml#moving_or_copying_a_folder"/>
+         nc:link="mailnews_organizing.xhtml#moving_or_copying_a_folder"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_filters"
          nc:name="создание фильтров"
-         nc:link="mail_help.xhtml#creating_message_filters"/>
+         nc:link="mailnews_organizing.xhtml#creating_message_filters"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_folders"
          nc:name="создание папок"
-         nc:link="mail_help.xhtml#creating_a_folder"/>
+         nc:link="mailnews_organizing.xhtml#creating_a_folder"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_HTML_mail_messages"
@@ -1778,7 +1778,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:filing_messages"
          nc:name="перемещение сообщений"
-         nc:link="mail_help.xhtml#filing_messages_in_folders"/>
+         nc:link="mailnews_organizing.xhtml#filing_messages_in_folders"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:forwarding_messages"
@@ -1823,7 +1823,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:message_searching"
          nc:name="поиск в сообщениях"
-         nc:link="mail_help.xhtml#searching_through_messages"/>
+         nc:link="mailnews_organizing.xhtml#searching_through_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:POP_settings"
@@ -1833,7 +1833,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:renaming_folders"
          nc:name="переименование папок"
-         nc:link="mail_help.xhtml#renaming_a_folder"/>
+         nc:link="mailnews_organizing.xhtml#renaming_a_folder"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:replying_to_messages"
