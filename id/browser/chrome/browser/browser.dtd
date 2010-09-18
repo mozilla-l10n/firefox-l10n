@@ -18,8 +18,6 @@
 <!ENTITY  reloadAllTabs.accesskey      "M">
 <!ENTITY  closeOtherTabs.label         "Tutup Tab Lainnya">
 <!ENTITY  closeOtherTabs.accesskey     "L">
-<!ENTITY  openTabInNewWindow.label     "Buka di Jendela Baru">
-<!ENTITY  openTabInNewWindow.accesskey "J">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -33,6 +31,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label            "Pindahkan ke Kelompok Tab">
 <!ENTITY  moveToGroup.accesskey        "K">
 <!ENTITY  moveToNewGroup.label         "Kelompok Tab Baru">
+<!ENTITY  moveToNewWindow.label        "Pindahkan ke Jendela Baru">
+<!ENTITY  moveToNewWindow.accesskey    "J">
 <!ENTITY  bookmarkAllTabs.label        "Buat Bookmark Semua Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey    "S">
 <!ENTITY  undoCloseTab.label           "Batalkan Menutup Tab">
@@ -134,9 +134,10 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY  homeButton.label            "Beranda">
-<!ENTITY tabViewButton2.label          "Kelompok Tab">
-<!ENTITY tabViewButton2.tooltip        "Kelompokkan tab peramban Anda">
+<!ENTITY homeButton.label            "Beranda">
+
+<!ENTITY tabGroupsButton.label        "Kelompok Tab">
+<!ENTITY tabGroupsButton.tooltip      "Kelompokkan tab peramban">
 
 <!ENTITY bookmarksButton.label          "Bookmark">
 <!ENTITY bookmarksButton.tooltip        "Menampilkan bookmark Anda">
@@ -250,8 +251,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Tampilan"> 
 <!ENTITY viewMenu.accesskey       "T"> 
-<!ENTITY showTabView2.label     "Kelompokkan Tab">
-<!ENTITY showTabView2.accesskey     "n">
+<!ENTITY viewTabGroups.label            "Kelompok Tab">
+<!ENTITY viewTabGroups.accesskey        "K">
 <!ENTITY viewToolbarsMenu.label       "Bilah Alat"> 
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Bilah Samping">
