@@ -94,8 +94,10 @@
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label  "메뉴">
 <!ENTITY homeButton.label "홈">
-<!ENTITY tabViewButton2.label         "탭 그룹">
-<!ENTITY tabViewButton2.tooltip       "탭 그룹으로 보기">
+
+<!ENTITY tabGroupsButton.label         "탭 그룹">
+<!ENTITY tabGroupsButton.tooltip       "탭 그룹으로 보기">
+
 <!ENTITY bookmarksButton.label "북마크">
 <!ENTITY bookmarksButton.tooltip "북마크 표시">
 <!ENTITY bookmarksButton.accesskey	"B">
@@ -201,8 +203,8 @@ can reach it easily. -->
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 <!ENTITY viewMenu.label "보기">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY showTabView2.label     "탭 그룹…">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY viewTabCroups.label     "탭 그룹…">
+<!ENTITY viewTabCroups.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label "도구 모음">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY viewSidebarMenu.label "탐색창">
@@ -418,7 +420,7 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "통합 북마크">
 <!ENTITY appMenuGettingStarted.label "시작하기">
 
-<!ENTITY developerMenu.label "개발자">
+<!ENTITY developerMenu.label "개발자 도구">
 <!ENTITY savePageCmd.accesskey2 "P">
 <!ENTITY quitApplicationCmdMac.label "&brandShortName; 종료">
 <!ENTITY quitApplicationCmdMac.key "Q">
