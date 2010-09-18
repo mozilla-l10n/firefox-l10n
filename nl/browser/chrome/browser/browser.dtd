@@ -136,9 +136,10 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY  homeButton.label            "Startpagina">
-<!ENTITY tabViewButton2.label         "Tabbladgroepen">
-<!ENTITY tabViewButton2.tooltip       "Uw tabbladen groeperen">
+<!ENTITY homeButton.label             "Startpagina">
+
+<!ENTITY tabGroupsButton.label        "Tabbladgroepen">
+<!ENTITY tabGroupsButton.tooltip      "Uw tabbladen groeperen">
 
 <!ENTITY bookmarksButton.label          "Bladwijzers">
 <!ENTITY bookmarksButton.tooltip        "Uw bladwijzers weergeven">
