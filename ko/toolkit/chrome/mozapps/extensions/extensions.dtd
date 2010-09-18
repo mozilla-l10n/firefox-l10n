@@ -7,39 +7,52 @@
 <!ENTITY listEmpty.findUpdates.label          "업데이트 확인">
 <!ENTITY listEmpty.search.label               "일치하는 부가 기능 없음">
 <!ENTITY listEmpty.button.label               "부가 기능 자세히 보기">
-<!ENTITY installFromFile.label                "파일로 설치…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "파일에서 부가 기능 설치…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "부가 기능 도구">
 
 <!ENTITY cmd.back.tooltip                     "뒤로">
 <!ENTITY cmd.forward.tooltip                  "앞으로">
 
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "안전 모드에서 부가 기능 전체를 사용할 수 없습니다.">
+<!ENTITY warning.checkcompatibility.label          "부가 기능 호환성 확인 기능을 중단 합니다. 호환성이 맞지 않을 수 있습니다.">
+<!ENTITY warning.checkcompatibility.enable.label   "확인">
+<!ENTITY warning.checkcompatibility.enable.tooltip "부가 기능 호환성 확인 기능 사용">
+<!ENTITY warning.updatesecurity.label              "부가 기능 업데이트 보안 확인 기능을 중단 합니다. 업데이트가 보안 문제를 일으킬 수 있습니다.">
+<!ENTITY warning.updatesecurity.enable.label       "확인">
+<!ENTITY warning.updatesecurity.enable.tooltip     "부가 기능 업데이트 보안 확인 기능 사용">
+
 <!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "검색">
 <!ENTITY view.discover.label                  "부가 기능 검색">
 <!ENTITY view.locales.label                   "언어">
 <!ENTITY view.searchengines.label             "검색 엔진">
 <!ENTITY view.features.label                  "확장 기능">
-<!ENTITY view.appearance.label                "테마">
+<!ENTITY view.appearance2.label               "외양">
 <!ENTITY view.plugins.label                   "플러그인">
 <!ENTITY view.recentUpdates.label             "최신 업데이트 항목 보기">
 <!ENTITY view.availableUpdates.label          "업데이트 가능 항목 보기">
-<!ENTITY view.utilites.preferences.tooltip    "부가 기능 설정">
-<!ENTITY view.utilites.preferencesUnix.tooltip "부가 기능 환경 설정">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "지금 업데이트 하기">
-<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.checkForUpdates.label        "업데이트 확인">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "최신 업데이트 보기">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "자동 업데이트 확인">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
+<!ENTITY updates.updateAddonsAutomatically.label     "부가 기능 자동 업데이트">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "모든 부가 기능 자동 업데이트 설정">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "모든 부가 기능 자동 업데이트 설정 해제">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "업데이트 중">
 <!ENTITY updates.installed.label              "업데이트가 완료되었습니다.">
 <!ENTITY updates.downloaded.label             "부가 기능 업데이트를 다운로드 완료 했습니다.">
-<!ENTITY updates.restart.label                "설치를 완료하려면 재시작 하십시오.">
+<!ENTITY updates.restart.label                "설치를 완료하려면 다시 시작 하십시오.">
 <!ENTITY updates.noneFound.label              "최신 업데이트 없음">
 <!ENTITY updates.manualUpdatesFound.label     "업데이트 가능 항목 보기">
+<!ENTITY updates.updateSelected.label         "업데이트 설치">
+<!ENTITY updates.updateSelected.tooltip       "현재 목록 내 업데이트 설치하기">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "자세히 보기">
@@ -57,6 +70,12 @@
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "사용 안 함">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "테마 적용">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "테마 적용 중지">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.installAddon.label               "설치">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "제거">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "설정">
@@ -74,14 +93,24 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "버전">
-<!ENTITY detail.updated.label                 "갱신일">
+<!ENTITY detail.lastupdated.label             "최종 수정일">
 <!ENTITY detail.creator.label                 "제작자">
 <!ENTITY detail.homepage.label                "홈페이지">
 <!ENTITY detail.numberOfDownloads.label       "다운로드수">
 
-<!ENTITY detail.updateAutomatically.label     "자동 업데이트">
-<!ENTITY detail.updateAutomatically.accesskey "U">
-<!ENTITY detail.updateAutomatically.tooltip   "업데이트가 있을 때, 현재 부가 기능 자동 업데이트 하기">
+<!ENTITY detail.contributions.description     "이 부가 기능 개발자에게 작은 도움을 통해 개발이 지속될 수 있도록 지원할 수 있습니다.">
+
+<!ENTITY detail.updateType                    "자동 업데이트">
+<!ENTITY detail.updateDefault.label           "기본 설정">
+<!ENTITY detail.updateDefault.tooltip         "기본으로 업데이트를 자동으로 설치">
+<!ENTITY detail.updateAutomatic.label         "확인">
+<!ENTITY detail.updateAutomatic.tooltip       "업데이트 자동 설치 설정">
+<!ENTITY detail.updateManual.label            "해지">
+<!ENTITY detail.updateManual.tooltip          "업데이트 자동 설치 해지">
+<!ENTITY detail.home                          "홈페이지">
+<!ENTITY detail.repository                    "부가 기능 프로필">
+<!ENTITY detail.size                          "크기">
+
 <!ENTITY detail.checkForUpdates.label         "업데이트 확인">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "현재 부가 기능 업데이트 확인">
@@ -93,12 +122,11 @@
 <!ENTITY detail.showPreferencesUnix.tooltip   "부가 기능 환경 설정 변경">
 
 <!-- ratings -->
-<!ENTITY rating.label                         "평가:">
+<!ENTITY rating2.label                         "평가">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "중단">
 <!ENTITY progress.cancel.tooltip              "취소">
-
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "이름">
@@ -107,6 +135,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "변경일순">
 <!ENTITY sort.relevance.label                 "검색 결과">
 <!ENTITY sort.relevance.tooltip               "가장 적합한 결과">
+<!ENTITY sort.price.label                     "판매 가격">
+<!ENTITY sort.price.tooltip                   "가격순 정렬">
 
 <!ENTITY search.filter2.label                 "검색:">
 <!ENTITY search.filter2.installed.label       "설치된 목록">
@@ -121,15 +151,17 @@
 <!ENTITY addon.disabled.postfix               "(사용 안 함)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "업데이트">
-<!ENTITY addon.undo.label                     "실행취소">
-<!ENTITY addon.undo.tooltip                   "현재 실행을 취소">
-<!ENTITY addon.undoUninstall.label            "삭제 취소">
-<!ENTITY addon.undoUninstall.tooltip          "설치된 부가 기능 유지하기">
-<!ENTITY addon.restartNow.label               "재시작">
+<!ENTITY addon.undoAction.label               "실행 취소">
+<!ENTITY addon.undoAction.tooltip             "현재 동작 취소">
+<!ENTITY addon.undoRemove.label               "실행 취소">
+<!ENTITY addon.undoRemove.tooltip             "부가 기능 설치 유지">
+<!ENTITY addon.restartNow.label               "다시 시작">
 <!ENTITY addon.install.label                  "설치하기">
 <!ENTITY addon.install.tooltip                "현재 부가 기능 설치하기">
 <!ENTITY addon.updateNow.label                "업데이트">
 <!ENTITY addon.updateNow.tooltip              "현재 부가 기능 업데이트하기">
+<!ENTITY addon.includeUpdate.label            "업데이트 포함 항목">
+<!ENTITY addon.updateAvailable.label          "업데이트 사용 가능">
 <!ENTITY addon.checkingForUpdates.label       "업데이트 확인…">
 <!ENTITY addon.releaseNotes.label             "제품 소개:">
 <!ENTITY addon.loadingReleaseNotes.label      "읽는 중…">

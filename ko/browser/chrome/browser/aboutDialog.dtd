@@ -1,11 +1,23 @@
-<!ENTITY aboutDialog.title "&brandFullName; 정보">
-<!ENTITY copyright "공헌자">
-<!ENTITY aboutLink "&lt; &brandFullName; 정보">
-<!ENTITY aboutVersion "버전">
-<!ENTITY licenseLinkText		"라이선스 정보">
-<!ENTITY copyright.accesskey "C">
-<!ENTITY aboutLink.accesskey "A">
-<!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY closeCmdGNOME.label        "닫기">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY licenseLinkSuffix          ".">
+<!ENTITY aboutDialog.title          "&brandFullName; 정보">
+
+<!ENTITY community.start2           "&brandShortName;는 인터넷을 더 나은 곳으로 만들기 위해 ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          "라는 전 세계적인 자원 봉사 ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "커뮤니티">
+<!ENTITY community.end2             "에서 함께 만들고 있습니다. 우리는 아무 제한 없이 인터넷이 누구나 사용할 수 있는 열린 공간이 되어야 한다고 믿습니다.">
+
+<!ENTITY contribute.start           "함께 동참하기 원하십니까? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "자세히 보기">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "라이센스 정보">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "사용자 권리">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "개인 정보 정책">

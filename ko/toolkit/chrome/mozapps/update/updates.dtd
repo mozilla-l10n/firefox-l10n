@@ -29,8 +29,10 @@
 <!ENTITY details.link "상세 정보">
 <!ENTITY error.label "현재 업데이트를 설치하는 도중 문제가 발생했습니다. &brandShortName;가 업데이트를 설치할 수 없습니다:">
 <!ENTITY errorManual.label "사용자가 직접 다음 사이트를 방문하여 &brandShortName; 업데이트의 최신 버전을 다운로드 할 수 있습니다.">
-<!ENTITY errorpatching.intro "부분적인 업데이트를 할 수 없습니다. &brandShortName;가 업데이트 다운로드를 재시도합니다.">
-<!ENTITY  errorCertAttrNoUpdate.label     "안전하게 업데이트 하는 중 &brandShortName;가 중단되었습니다. &brandShortName; 최신 버전에서 확인해 보십시오:">
+<!ENTITY errorpatching.intro "부분적인 업데이트를 할 수 없습니다. &brandShortName;가 업데이트 다운로드를 다시 시도합니다.">
+<!ENTITY  genericBackgroundError.label    "&brandShortName;는 업데이트가 있는 지 확인할 수 없습니다. &brandShortName; 최신 버전에서 확인해 보십시오.:">
+
+<!ENTITY  errorCertAttrNoUpdate2.label     "안전하게 업데이트 하는 중 &brandShortName;가 중단되었습니다. &brandShortName; 최신 버전에서 확인해 보십시오:">
 <!ENTITY  errorCertAttrHasUpdate.label    "외부 프로그램이 &brandShortName;에게 안전하지 않는 연결 중입니다. 네트웍 상태를 보시고 도움을 요청하십시오.">
 <!ENTITY finishedPage.title "업데이트 설치 준비 완료">
 <!ENTITY finishedPage.text "업데이트는 &brandShortName; 다시 시작할 때 적용 합니다. 지금 &brandShortName;를 다시 시작하거나 나중에 하실 수 있습니다.">

@@ -1,11 +1,12 @@
 <!ENTITY startup.label "시작 페이지">
+
 <!ENTITY startupPage.label "&brandShortName;를 시작할 때 표시할 페이지:">
 <!ENTITY startupPage.accesskey "s">
 <!ENTITY startupHomePage.label "홈 페이지">
 <!ENTITY startupBlankPage.label "빈 페이지">
 <!ENTITY startupLastSession.label "이전 종료시 창과 탭">
-<!ENTITY location.label "홈 페이지:">
-<!ENTITY location.accesskey "H">
+<!ENTITY homepage.label            "홈 페이지:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label "현재 페이지">
 <!ENTITY useCurrentPage.accesskey "C">
 <!ENTITY useMultiple.label "현재 탭">

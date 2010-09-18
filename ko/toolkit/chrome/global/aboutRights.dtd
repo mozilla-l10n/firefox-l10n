@@ -20,17 +20,20 @@
 <!ENTITY rights.intro-point2-b "자세히">
 <!ENTITY rights.intro-point2-c ".">
 
+<!-- point 2.5 text for official branded builds -->
+<!ENTITY rights.intro-point2.5 "&brandShortName;내 충돌 보고서 같은 기능은 &vendorShortName;에 피드백을 보냅니다. 의견 보내기를 누르면 &vendorShortName;에서 더 나은 제품을 만드는 데 의견을 웹 사이트에 게시, 배포하는 권한을 얻게 됩니다.">
+
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "&vendorShortName;의 개인 정보 보호 정책에 대해서는 아래를 참고하십시오. ">
-<!ENTITY rights.intro-point3b "자세히">
+<!ENTITY rights2.intro-point3a "&vendorShortName;의 개인 정보 보호 정책에 대해서는 아래를 참고하십시오. ">
+<!ENTITY rights2.intro-point3b "&brandShortName; 개인 정보 정책">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "모든 적용 가능한 개인 정보 보호 정책은 아래에 기술되어 있습니다.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName;는 안전 탐색 모드 같은 몇 가지 웹 사이트 서비스를 제공합니다. 하지만, 이 서비스는 정확성 및 무결성을 보장하지 않습니다. 더 자세한 것은 서비스 조건을 참고하십시오.">
-<!ENTITY rights.intro-point4b "자세히">
+<!ENTITY rights2.intro-point4a "&brandShortName;는 몇 가지 웹 사이트 서비스를 제공합니다. 하지만, 이 서비스는 정확성 및 무결성을 보장하지 않습니다. 더 자세한 것은 서비스 약관을 참고하십시오.">
+<!ENTITY rights.intro-point4b "서비스 약관">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
@@ -38,27 +41,44 @@
 <!ENTITY rights.intro-point4b-unbranded "자세히">
 <!ENTITY rights.intro-point4c-unbranded " 보기">
 
-<!ENTITY rights.webservices-header "&brandFullName; 웹 사이트 서비스">
+<!ENTITY rights2.webservices-header "&brandFullName; 웹 기반 정보 서비스">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName;는 안전 탐색 모드 같은 웹 사이트 정보 서비스를 제공합니다. (&quot;서비스&quot;) 본 서비스는 &brandShortName;의 바이너리 제품을 사용할 때 이용 가능하며 서비스 사용을 원치 않거나 서비스 조건에 동의하지 않으시면 안전 탐색 모드를 정지할 수 있습니다. 설정 위치: ">
-<!ENTITY rights.webservices-b "보안">
-<!ENTITY rights.webservices-c "- &quot;&blockAttackSites.label;&quot;와 &quot;&blockWebForgeries.label;&quot; 체크 해제">
+<!ENTITY rights2.webservices-a "&brandFullName;는 이용자 조건에 따라 &brandShortName; 프로그램에서 웹 기반 서비스(이하 &quot;서비&quot;스)를 제공합니다. 제공 서비스를 이용하기 원하지 않으시면 기능을 중단할 수 있습니다. 다음 특정 서비스 중단 방법을 참고하십시오.:">
+<!ENTITY rights2.webservices-b "자세히 보기">
+<!ENTITY rights2.webservices-c ".">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "사생활 보호 기능: ">
+<!ENTITY rights.safebrowsing-b "사생활 보호 기능을 사용하지 않는 것은 안전한 웹 브라우징을 위해 권장하지 않습니다. 하지만 이 기능 중단을 원하시면 아래의 절차를 이용하십시오.:">
+<!ENTITY rights.safebrowsing-term1 "프로그램 설정 열기">
+<!ENTITY rights.safebrowsing-term2 "보안 설정 선택">
+<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot;와 &quot;&blockWebForgeries.label;&quot; 설정 선택하지 않음">
+<!ENTITY rights.safebrowsing-term4 "사생활 보호 기능 중단">
+
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "위치 정보 서비스: ">
+<!ENTITY rights.locationawarebrowsing-b "이 기능은 항상 여러분에게 확인을 합니다. 허가 없이 어떠한 위치 정보도 웹 서비스로 전송되지 않습니다. 하지만 이 기능 중단을 원하시면 아래의 절차를 이용하십시오.:">
+<!ENTITY rights.locationawarebrowsing-term1a "주소창에 about:config 입력 ">
+<!ENTITY rights.locationawarebrowsing-term1b "검색항목에 geo.enabled 입력">
+<!ENTITY rights.locationawarebrowsing-term2 "geo.enabled 항목을 더블 클릭"
+<!ENTITY rights.locationawarebrowsing-term3 "geo.enabled 항목값이 false로 변경">
+<!ENTITY rights.locationawarebrowsing-term4 "위치 정보 서비스 기능 중단">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "본 제품의 웹 사이트 서비스를 사용할 수 없는 제품입니다. 서비스 중단 방법에 따라 여기에 제공합니다.">
+<!ENTITY rights.webservices-unbranded "본 제품의 웹 사이트 서비스를 사용할 수 없는 제품입니다. 서비스 중단 방법을 제공합니다.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "모든 적용 가능한 서비스 조건을 아래에 게시합니다.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName;와 개발 공헌자, 라이센스 제공자 및 파트너사는 매우 정확하고 최신의 피싱 및 스파이웨어 정보를 제공합니다. 그러나, 모든 제공정보가 오류가 없음을 보장하지는 않습니다. 보안 위험이 있는 사이트인데도 보안 사이트로 표시될 수도 있습니다.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName;와 개발 공헌자, 라이센스 제공자 및 파트너사는 가급적 최신의 서비스를 제공합니다. 그러나, 모든 제공 정보에 오류 없음을 보장하지는 않습니다. 예를 들어, 사생활 보호 기능은 보안 위험이 있는 사이트인데도 보안 사이트로 표시될 수도 있으며, 위치 기반 서비스의 경우 여러분의 위치를 정확히 표시하지 못할 수도 있습니다.">
 <!ENTITY rights.webservices-term2 "&vendorShortName;는 서비스를 중단하거나 변경할 수도 있습니다.">
-<!ENTITY rights.webservices-term3 "&brandShortName;와 함께 제공한 서비스를 이욯해 주셔서 감사합니다. 여러분의 권한을 통해 &vendorShortName;와 라이센스 제공자는 서비스 내 다른 권한들도 보장합니다. 이들 조건들은 &brandShortName;와 소스 코드 버전에 대응하는 오픈 소스 라이센스 하에서 보장된 조건을 제한하기 위한 것이 아닙니다.">
+<!ENTITY rights2.webservices-term3 "&brandShortName;와 함께 제공한 서비스를 이욯해 주셔서 감사합니다. 여러분의 권한을 통해 &vendorShortName;와 라이센스 제공자는 서비스 내 다른 권한들도 보장합니다. 이들 조건들은 &brandShortName;와 소스 코드 버전에 대응하는 오픈 소스 라이센스 하에서 보장된 조건을 제한하기 위한 것이 아닙니다.">
 
 <!ENTITY rights.webservices-term4 "본 서비스는 &vendorShortName;와 개발 공헌자, 라이센스 제공자 등에 &quot;as-is.&quot;를 제공하며 특별한 목적을 위해 제공하거나 판매 가능한 서비스의 보장에 대한 제한 없이 표현 여부에 상관 없이 모든 보장 기간에 대한 청구권 포기합니다. 여러분은 서비스를 선택하는 데 있어 목적에 적합한 서비스를 선택하거나 특별한 목족에 맞게 판매가능하게 제공될 경우 전적인 책임을 져야 합니다. 법적 고려 사항은 예외나 제한을 인정하지 않으며 이 때 권한 포가는 여러분에게 적용되지 않습니다.">
 <!ENTITY rights.webservices-term5 "법적 요구사항을 제외하고 &vendorShortName;와 개발 공헌자, 라이센스 제공자, 배포자는 &brandShortName;와 서비스 사용에 대해 직접적이지 않고 특별하고 고의의 가혹한 징계 및 손해에 책임질 필요가 없습니다. 조건 내 책임 보상 범위도 500달러 이상을 초가하지 않습니다. 몇 가지 사법 사항은 특정 손해에 대한 제한을 허용하지 않으며 이런 예와와 제한은 여러분에게 적용하지 않습니다.">
