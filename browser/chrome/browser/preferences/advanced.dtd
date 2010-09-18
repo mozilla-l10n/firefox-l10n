@@ -50,6 +50,8 @@
 <!ENTITY useCacheAfter.label               "MiB-i kettaruumi">
 <!ENTITY clearCacheNow.label               "Tühjenda">
 <!ENTITY clearCacheNow.accesskey           "T">
+<!ENTITY smartSizeCache.label              "Vahemälu suuruse haldamisega tegeleb &brandShortName;">
+<!ENTITY smartSizeCache.accesskey          "V">
 
 <!ENTITY updateTab.label                   "Uuendamine">
 

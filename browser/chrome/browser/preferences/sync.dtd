@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label    "&syncBrand.fullName.label;i konto">
-<!ENTITY currentUser.label               "Praegune kasutaja:">
+<!ENTITY currentAccount.label            "Praegune konto:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label                "Uuenda">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label             "Konto haldamine">
 <!ENTITY manageAccount.accesskey         "K">
+<!ENTITY viewQuota.label                 "Vaata kvooti">
 <!ENTITY changePassword.label            "Muuda parooli">
 <!ENTITY mySyncKey.label                 "Synci võti">
 <!ENTITY resetSync.label                 "Lähtesta Sync">
-<!ENTITY differentAccount.label          "Kasuta teist kontot">
+<!ENTITY stopUsingAccount.label          "Lõpeta selle konto kasutamine">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label          "Brauseri sünkroniseerimine">

@@ -1,11 +1,23 @@
 <!ENTITY aboutDialog.title        "&brandFullName;i teave">
-<!ENTITY copyright                "Autorid">
-<!ENTITY copyright.accesskey      "A">
-<!ENTITY copyrightGNOME.accesskey "r">
-<!ENTITY aboutLink                "&lt; &brandFullName;i teave">
-<!ENTITY aboutLink.accesskey      "t">
-<!ENTITY aboutVersion             "versioon">
-<!ENTITY closeCmdGNOME.label      "Sulge">
-<!ENTITY closeCmdGNOME.accesskey  "S">
-<!ENTITY licenseLinkText          "Litsentsist täpsemalt">
-<!ENTITY licenseLinkSuffix        ".">
+
+<!ENTITY community.start2           "&brandShortName; on loodud ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          " ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "globaalse kommuuni ">
+<!ENTITY community.end2             " poolt, et teha internet paremaks. Me usume, et internet peaks olema avatud, avalik ja ilma igasuguste piiranguteta ligipääsetav kõigile.">
+
+<!ENTITY contribute.start           "Kõlab huvitavalt? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Löö kaasa!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Litsensist">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Kasutaja õigustest">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Privaatsuse reeglid">
