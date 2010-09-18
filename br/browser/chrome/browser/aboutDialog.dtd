@@ -1,18 +1,23 @@
 <!ENTITY aboutDialog.title          "A-zivout &brandFullName;">
 
-<!ENTITY community.start            "Ergrafet eo &brandShortName; gant ">
+<!ENTITY community.start2           "Ergrafet eo &brandShortName; gant ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.end              ", ur gumuniezh vedel o labourat a-benn ma vefe lakaet Internet da welloc'h. Hervezomp e rankfe Internet bezañ digor, foran, haezadus d'an holl dud hep strizhadur ebet.">
+<!ENTITY community.middle2          ", a ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "global community">
+<!ENTITY community.end2             " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
 
-<!ENTITY contribute.start           "Ha deuriet oc'h ? ">
+<!ENTITY contribute.start           "Ha dedennet oc'h ? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Kemerit perzh enni !">
 <!ENTITY contribute.end             "">
 
-<!-- LOCALIZAION NOTE(bottomLinks.license): This is a link title that links to about:license. -->
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Titouroù a-fet lañvaz">
 
-<!-- LOCALIZAION NOTE(bottomLinks.rights): This is a link title that links to about:rights. -->
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Gwirioù an arveriaded-dibenn">
 
-<!-- LOCALIZAION NOTE(bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Reolenn an diogelroez">

@@ -14,8 +14,8 @@
 <!ENTITY server.label               "Dafariad">
 <!ENTITY serverType.main.label      "Dafariad &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "Arverañ un dafariad personelaet">
-<!ENTITY signIn.username.label      "Anv arveriad">
-<!ENTITY signIn.username.accesskey  "A">
+<!ENTITY signIn.account.label       "Chomlec'h postel / Anv an arveriad">
+<!ENTITY signIn.account.accesskey   "C">
 <!ENTITY signIn.password.label      "Ger-tremen">
 <!ENTITY signIn.password.accesskey  "G">
 <!ENTITY signIn.serverURL.label     "URL an dafariad">

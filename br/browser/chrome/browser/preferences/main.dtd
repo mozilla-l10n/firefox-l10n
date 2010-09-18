@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Diskouez ma fennbajennad">
 <!ENTITY startupBlankPage.label    "Diskouez ur bajenn wenn">
 <!ENTITY startupLastSession.label  "Diskouez ma frenestroù hag ivinelloù evel ar wech diwezhañ">
-<!ENTITY location.label            "Pennbajennad :">
-<!ENTITY location.accesskey        "b">
+<!ENTITY homepage.label            "Pennbajennad :">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Arverañ ar bajenn vremanel">
 <!ENTITY useCurrentPage.accesskey  "r">
 <!ENTITY useMultiple.label         "Arverañ ar pajennoù bremanel">

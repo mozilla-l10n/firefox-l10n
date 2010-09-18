@@ -51,6 +51,8 @@
 <!ENTITY useCacheAfter.label             "Me a egor evit ar grubuilh">
 <!ENTITY clearCacheNow.label             "Skarzhañ bremañ">
 <!ENTITY clearCacheNow.accesskey         "k">
+<!ENTITY smartSizeCache.label            "Let &brandShortName; manage the size of my cache">
+<!ENTITY smartSizeCache.accesskey        "L">
 
 <!ENTITY updateTab.label                 "Hizivaat">
 

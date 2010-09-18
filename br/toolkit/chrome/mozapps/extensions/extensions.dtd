@@ -7,8 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Klask hizivadennoù">
 <!ENTITY listEmpty.search.label               "Askouezh ebet bet kavet">
 <!ENTITY listEmpty.button.label               "Gouzout hiroc'h a-zivout an askouezhioù">
-<!ENTITY installFromFile.label                "Staliañ diouzh ur restr…">
-<!ENTITY installFromFile.accesskey            "i">
+<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
 
 <!ENTITY cmd.back.tooltip                     "Mont d'ar bajennad kent">
 <!ENTITY cmd.forward.tooltip                  "Mont d'ar bajennad war-lerc'h">
@@ -32,16 +33,12 @@
 <!ENTITY view.plugins.label                   "Enlugelladoù">
 <!ENTITY view.recentUpdates.label             "Hizivadurioù nevesañ">
 <!ENTITY view.availableUpdates.label          "Hizivadurioù hegerz">
-<!ENTITY view.utilites.preferences.tooltip    "Dibarzhioù evit an holl enlugelladoù">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Gwellvezioù evit an holl askouezhioù">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Hizivaat an askouezhioù bremañ">
-<!ENTITY updates.updateAddonsNow.accesskey    "u">
+<!ENTITY updates.checkForUpdates.label        "Gwiriañ mar bez hizivadurioù d'ober">
+<!ENTITY updates.checkForUpdates.accesskey    "G">
 <!ENTITY updates.viewUpdates.label            "Gwelout an hizivadurioù nevesañ">
 <!ENTITY updates.viewUpdates.accesskey        "v">
-<!ENTITY updates.backgroudUpdateCheck.label   "Gwiriañ an hizivadurioù ent emgefreek">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "G">
 <!ENTITY updates.updateAddonsAutomatically.label     "Hizivaat an askouezhioù gant un doare emgefreek">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "a">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Adderaouekaat an holl askouezhioù a-benn ma vint hizivaet ent-emgefreek">
@@ -140,6 +137,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Rummañ dre an deiziad hizivadur">
 <!ENTITY sort.relevance.label                 "Kenglotadenn wellañ">
 <!ENTITY sort.relevance.tooltip               "Rummañ dre zereadelezh">
+<!ENTITY sort.price.label                     "Price">
+<!ENTITY sort.price.tooltip                   "Sort by price">
 
 <!ENTITY search.filter2.label                 "Klask :">
 <!ENTITY search.filter2.installed.label       "Ma askouezhioù">
