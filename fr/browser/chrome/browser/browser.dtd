@@ -138,9 +138,9 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY  homeButton.label            "Accueil">
-<!ENTITY tabViewButton2.label         "Groupes d'onglets">
-<!ENTITY tabViewButton2.tooltip       "Organiser les onglets par groupes">
+<!ENTITY homeButton.label             "Accueil">
+<!ENTITY tabGroupsButton.label        "Groupes d'onglets">
+<!ENTITY tabGroupsButton.tooltip      "Organiser les onglets par groupes">
 
 <!ENTITY bookmarksButton.label      "Marque-pages">
 <!ENTITY bookmarksButton.tooltip    "Afficher le panneau des marque-pages">
@@ -254,8 +254,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Affichage">
 <!ENTITY viewMenu.accesskey       "A">
-<!ENTITY showTabView2.label     "Grouper les onglets…">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY viewTabGroups.label            "Groupes d'onglets">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Barres d'outils">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Panneau latéral">
