@@ -61,7 +61,9 @@
 <!ENTITY errorpatching.intro             "Osalist uuendust ei õnnestunud rakendada. &brandShortName; proovib
                                           alla laadida terve uuenduse.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Miski takistab &brandShortName;il turvalist uuendamist.
+<!ENTITY  genericBackgroundError.label    "&brandShortName;il ei õnnestu uuenduse olemasolu tuvastada. Palun
+                                           kontrolli järgnevalt aadressilt, et kasutusel oleks viimane versioon &brandShortName;ist:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Miski takistab &brandShortName;il turvalist uuendamist.
                                            Palun kontrolli järgnevalt aadressilt, et kasutusel oleks viimane versioon &brandShortName;ist:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Miski üritab panna &brandShortName;i nõustuma ebaturvalise
                                            uuendusega. Palun võta ühendust oma ISPga ja palu abi.">

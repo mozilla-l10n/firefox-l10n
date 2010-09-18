@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label         "Kuvatakse avalehte">
 <!ENTITY startupBlankPage.label        "Kuvatakse tühja lehte">
 <!ENTITY startupLastSession.label      "Kuvatakse viimati avatud aknaid ja kaarte">
-<!ENTITY location.label                "Avaleht:">
-<!ENTITY location.accesskey            "h">
+<!ENTITY homepage.label                "Avaleht:">
+<!ENTITY homepage.accesskey            "h">
 <!ENTITY useCurrentPage.label          "Kasuta aktiivset veebilehte">
 <!ENTITY useCurrentPage.accesskey      "K">
 <!ENTITY useMultiple.label             "Kasuta aktiivseid veebilehti">

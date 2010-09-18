@@ -7,8 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Kontrolli uuendusi">
 <!ENTITY listEmpty.search.label               "Ühtegi sobivat lisa ei leitud">
 <!ENTITY listEmpty.button.label               "Rohkem teavet lisade kohta">
-<!ENTITY installFromFile.label                "Paigalda failist…">
-<!ENTITY installFromFile.accesskey            "P">
+<!ENTITY installAddonFromFile.label           "Paigalda lisa failist…">
+<!ENTITY installAddonFromFile.accesskey       "P">
+<!ENTITY toolsMenu.tooltip                    "Tööriistad kõigile lisadele">
 
 <!ENTITY cmd.back.tooltip                     "Mine üks leht tagasi">
 <!ENTITY cmd.forward.tooltip                  "Mine üks leht edasi">
@@ -32,16 +33,18 @@
 <!ENTITY view.plugins.label                   "Pluginad">
 <!ENTITY view.recentUpdates.label             "Hiljutised uuendused">
 <!ENTITY view.availableUpdates.label          "Saadaolevad uuendused">
-<!ENTITY view.utilites.preferences.tooltip    "Sätted kõigi lisade jaoks">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Eelistused kõigi lisade jaoks">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Uuenda lisasid kohe">
-<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.checkForUpdates.label        "Kontrolli uuendusi">
+<!ENTITY updates.checkForUpdates.accesskey    "o">
 <!ENTITY updates.viewUpdates.label            "Vaata hiljutisi uuendusi">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Uuendusi kontrollitakse automaatselt">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "k">
+<!ENTITY updates.updateAddonsAutomatically.label "Lisasid uuendatakse automaatselt">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "L">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Määra kõik lisad uuendama automaatselt">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "M">
+<!ENTITY updates.resetUpdatesToManual.label   "Määra kõik lisad käsitsi uuendamisele">
+<!ENTITY updates.resetUpdatesToManual.accesskey "M">
 <!ENTITY updates.updating.label               "Lisade uuendamine">
 <!ENTITY updates.installed.label              "Lisad on uuendatud.">
 <!ENTITY updates.downloaded.label             "Lisade uuendused on alla laaditud.">
@@ -97,7 +100,9 @@
 
 <!ENTITY detail.contributions.description     "Selle lisa arendaja palub sult väikse annetuse näol abi jätkuvaks arenduseks.">
 
-<!ENTITY detail.updateType                    "Automaatsed uuendused">
+<!ENTITY detail.updateType                    "Automaatne uuendamine">
+<!ENTITY detail.updateDefault.label           "Vaikimisi">
+<!ENTITY detail.updateDefault.tooltip         "Uuendused paigaldatakse ainult siis, kui see on määratud vaikeväärtuses">
 <!ENTITY detail.updateAutomatic.label         "Sees">
 <!ENTITY detail.updateAutomatic.tooltip       "Paigalda uuendused automaatselt">
 <!ENTITY detail.updateManual.label            "Väljas">
@@ -131,6 +136,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Sorteeri uuendatuse järgi">
 <!ENTITY sort.relevance.label                 "Täpsus">
 <!ENTITY sort.relevance.tooltip               "Sorteeri täpsuse järgi">
+<!ENTITY sort.price.label                     "Hind">
+<!ENTITY sort.price.tooltip                   "Sorteeri hinna härgi">
 
 <!ENTITY search.filter2.label                 "Otsitakse:">
 <!ENTITY search.filter2.installed.label       "Paigaldatud lisade seast">

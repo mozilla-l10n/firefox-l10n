@@ -18,20 +18,20 @@
 <!ENTITY  reloadAllTabs.accesskey                "a">
 <!ENTITY  closeOtherTabs.label                   "Sulge teised kaardid">
 <!ENTITY  closeOtherTabs.accesskey               "t">
-<!ENTITY  openTabInNewWindow.label               "Ava kaart uues aknas">
-<!ENTITY  openTabInNewWindow.accesskey           "v">
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinAppTab.label                        "Tee püsikaardiks">
-<!ENTITY  pinAppTab.accesskey                    "T">
+<!ENTITY  pinAppTab.accesskey                    "e">
 <!ENTITY  unpinAppTab.label                      "Tee tavakaardiks">
 <!ENTITY  unpinAppTab.accesskey                  "d">
 <!ENTITY  moveToGroup.label                      "Liiguta gruppi">
 <!ENTITY  moveToGroup.accesskey                  "u">
 <!ENTITY  moveToNewGroup.label                   "Uus grupp">
+<!ENTITY  moveToNewWindow.label                  "Liiguta uude aknasse">
+<!ENTITY  moveToNewWindow.accesskey              "k">
 <!ENTITY  bookmarkAllTabs.label                  "Lisa kõik kaardid järjehoidjatesse…">
 <!ENTITY  bookmarkAllTabs.accesskey              "L">
 <!ENTITY  undoCloseTab.label                     "Võta kaardi sulgemine tagasi">
@@ -134,8 +134,9 @@ can reach it easily. -->
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label                     "Menüü"> 
 <!ENTITY homeButton.label                        "Kodu">
-<!ENTITY tabViewButton2.label                    "Kaardigrupid">
-<!ENTITY tabViewButton2.tooltip                  "Grupeeri oma kaardid">
+
+<!ENTITY tabGroupsButton.label                   "Kaardigrupid">
+<!ENTITY tabGroupsButton.tooltip                 "Grupeeri oma kaardid">
 
 <!ENTITY bookmarksButton.label                   "Järjehoidjad">
 <!ENTITY bookmarksButton.tooltip                 "Vaata oma järjehoidjaid">
@@ -251,8 +252,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label                          "Vaade">
 <!ENTITY viewMenu.accesskey                      "V">
-<!ENTITY showTabView2.label                      "Kaartide grupeerimine…">
-<!ENTITY showTabView2.accesskey                  "a">
+<!ENTITY viewTabGroups.label                     "Kaardigrupid">
+<!ENTITY viewTabGroups.accesskey                 "a">
 <!ENTITY viewToolbarsMenu.label                  "Tööriistaribad">
 <!ENTITY viewToolbarsMenu.accesskey              "T">
 <!ENTITY viewSidebarMenu.label                   "Külgriba">
@@ -545,15 +546,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label               "Sync">
 
-<!ENTITY syncMenu.label                          "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey                      "y">
 <!ENTITY syncSetup.label                         "Seadista &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey                     "y">
-<!ENTITY syncLogInItem.label                     "Ühenda">
-<!ENTITY syncLogInItem.accesskey                 "h">
-<!ENTITY syncLogOutItem.label                    "Katkesta ühendus">
-<!ENTITY syncLogOutItem.accesskey                "t">
 <!ENTITY syncSyncNowItem.label                   "Sünkroniseeri kohe">
 <!ENTITY syncSyncNowItem.accesskey               "S">
+<!ENTITY syncToolbarButton.label                 "Sync">
