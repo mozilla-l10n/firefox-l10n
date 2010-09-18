@@ -8,8 +8,6 @@
 <!ENTITY reloadAllTabs.accesskey "н">
 <!ENTITY closeOtherTabs.label "Закрыть другие вкладки">
 <!ENTITY closeOtherTabs.accesskey "д">
-<!ENTITY openTabInNewWindow.label "Открыть в новом окне">
-<!ENTITY openTabInNewWindow.accesskey "т">
 <!ENTITY pinAppTab.label "Закрепить вкладку">
 <!ENTITY pinAppTab.accesskey "е">
 <!ENTITY unpinAppTab.label "Открепить вкладку">
@@ -17,6 +15,8 @@
 <!ENTITY moveToGroup.label "Переместить в группу">
 <!ENTITY moveToGroup.accesskey "м">
 <!ENTITY moveToNewGroup.label "Новая группа">
+<!ENTITY moveToNewWindow.label "Переместить в новое окно">
+<!ENTITY moveToNewWindow.accesskey "е">
 <!ENTITY bookmarkAllTabs.label "Добавить все вкладки в закладки…">
 <!ENTITY bookmarkAllTabs.accesskey "в">
 <!ENTITY undoCloseTab.label "Восстановить закрытую вкладку">
@@ -107,8 +107,8 @@
 <!ENTITY bookmarksItem.title "Закладки">
 <!ENTITY appMenuButton.label "Меню">
 <!ENTITY homeButton.label "Домой">
-<!ENTITY tabViewButton2.label "Группы вкладок">
-<!ENTITY tabViewButton2.tooltip "Группы вкладок">
+<!ENTITY tabGroupsButton.label "Группы вкладок">
+<!ENTITY tabGroupsButton.tooltip "Сгруппировать ваши вкладки">
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksButton.tooltip "Показать ваши закладки">
 <!ENTITY bookmarksButton.accesskey "к">
@@ -199,8 +199,8 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
-<!ENTITY showTabView2.label "Группы вкладок…">
-<!ENTITY showTabView2.accesskey "р">
+<!ENTITY viewTabGroups.label "Группы вкладок">
+<!ENTITY viewTabGroups.accesskey "р">
 <!ENTITY viewToolbarsMenu.label "Панели инструментов">
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY viewSidebarMenu.label "Боковая панель">

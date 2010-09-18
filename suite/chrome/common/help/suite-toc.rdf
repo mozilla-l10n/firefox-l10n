@@ -166,8 +166,8 @@
         <rdf:li> <rdf:Description ID="mail-doc-attach"  nc:name="Использование вложений" nc:link="mail_help.xhtml#using_attachments" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Удаление сообщений" nc:link="mail_help.xhtml#deleting_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Использование адресных книг" nc:link="mail_help.xhtml#using_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Организация сообщений" nc:link="mail_help.xhtml#organizing_your_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk" nc:name="Анти-спам фильтр" nc:link="mail_help.xhtml#controlling_junk_mail" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Организация сообщений" nc:link="mailnews_organizing.xhtml#organizing_your_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk" nc:name="Анти-спам фильтр" nc:link="mailnews_organizing.xhtml#controlling_junk_mail" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Импорт из других почтовых программ" nc:link="mail_help.xhtml#importing_mail_from_other_programs" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Начало работы с группами новостей" nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Автономная работа" nc:link="mailnews_offline.xhtml#working_offline" /> </rdf:li>
@@ -301,16 +301,16 @@
   <rdf:Description about="#mail-doc-folders">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="folder-creating" nc:name="Создание папки" nc:link="mail_help.xhtml#creating_a_folder"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-renaming" nc:name="Переименование папки" nc:link="mail_help.xhtml#renaming_a_folder"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-copying" nc:name="Перемещение или копирование папки" nc:link="mail_help.xhtml#moving_or_copying_a_folder"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-opening" nc:name="Перемещение сообщений между папками" nc:link="mail_help.xhtml#filing_messages_in_folders"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="folder-sharing" nc:name="Организация общего доступа к папкам" nc:link="mail_help.xhtml#sharing_folders_with_other_users"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="labeling-messages" nc:name="Использование меток" nc:link="mail_help.xhtml#labeling_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-flagging" nc:name="Непрочитанные сообщения и сообщения, отмеченные флагом" nc:link="mail_help.xhtml#marking_or_flagging_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="message-views-using" nc:name="Отображение сообщений" nc:link="mail_help.xhtml#using_message_views"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-filters" nc:name="Создание фильтров сообщений" nc:link="mail_help.xhtml#creating_message_filters"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="search-mailnews" nc:name="Поиск в сообщениях" nc:link="mail_help.xhtml#searching_through_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-creating" nc:name="Создание папки" nc:link="mailnews_organizing.xhtml#creating_a_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-renaming" nc:name="Переименование папки" nc:link="mailnews_organizing.xhtml#renaming_a_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-copying" nc:name="Перемещение или копирование папки" nc:link="mailnews_organizing.xhtml#moving_or_copying_a_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-opening" nc:name="Перемещение сообщений между папками" nc:link="mailnews_organizing.xhtml#filing_messages_in_folders"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-sharing" nc:name="Организация общего доступа к папкам" nc:link="mailnews_organizing.xhtml#sharing_folders_with_other_users"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="labeling-messages" nc:name="Использование меток" nc:link="mailnews_organizing.xhtml#labeling_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-flagging" nc:name="Непрочитанные сообщения и сообщения, отмеченные флагом" nc:link="mailnews_organizing.xhtml#marking_or_flagging_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="message-views-using" nc:name="Отображение сообщений" nc:link="mailnews_organizing.xhtml#using_message_views"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-filters" nc:name="Создание фильтров сообщений" nc:link="mailnews_organizing.xhtml#creating_message_filters"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="search-mailnews" nc:name="Поиск в сообщениях" nc:link="mailnews_organizing.xhtml#searching_through_messages"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -318,7 +318,7 @@
 <rdf:Description about="#folder-sharing">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="folder-subscribing" nc:name="Подписка на общую папку" nc:link="mail_help.xhtml#subscribing_to_a_shared_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="folder-subscribing" nc:name="Подписка на общую папку" nc:link="mailnews_organizing.xhtml#subscribing_to_a_shared_folder"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -326,10 +326,10 @@
 <rdf:Description about="#labeling-messages">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="label-apply" nc:name="Присвоение метки" nc:link="mail_help.xhtml#applying_a_label"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="label-customize" nc:name="Установка параметров меток" nc:link="mail_help.xhtml#customizing_labels"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="label-sort" nc:name="Сортировка сообщений по метке" nc:link="mail_help.xhtml#sorting_messages_by_label"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="label-remove" nc:name="Удаление меток" nc:link="mail_help.xhtml#removing_labels"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="label-apply" nc:name="Присвоение метки" nc:link="mailnews_organizing.xhtml#applying_a_label"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="label-customize" nc:name="Установка параметров меток" nc:link="mailnews_organizing.xhtml#customizing_labels"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="label-sort" nc:name="Сортировка сообщений по метке" nc:link="mailnews_organizing.xhtml#sorting_messages_by_label"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="label-remove" nc:name="Удаление меток" nc:link="mailnews_organizing.xhtml#removing_labels"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -337,7 +337,7 @@
 <rdf:Description about="#message-views-using">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="message-views-create-new" nc:name="Создание режимов просмотра сообщений" nc:link="mail_help.xhtml#creating_a_custom_view"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="message-views-create-new" nc:name="Создание режимов просмотра сообщений" nc:link="mailnews_organizing.xhtml#creating_a_custom_view"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -345,7 +345,7 @@
 <rdf:Description about="#mail-filters">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="send-filter" nc:name="Фильтрация сообщений от конкретного отправителя" nc:link="mail_help.xhtml#filtering_messages_from_a_specific_sender"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="send-filter" nc:name="Фильтрация сообщений от конкретного отправителя" nc:link="mailnews_organizing.xhtml#filtering_messages_from_a_specific_sender"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -353,7 +353,7 @@
 <rdf:Description about="#search-mailnews">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="search_messages" nc:name="Поиск сообщений по критериям" nc:link="mail_help.xhtml#searching_for_specific_messages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="search_messages" nc:name="Поиск сообщений по критериям" nc:link="mailnews_organizing.xhtml#searching_for_specific_messages"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -361,9 +361,9 @@
 <rdf:Description about="#mail-junk">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-junk-controls" nc:name="Использование анти-спам фильтра" nc:link="mail_help.xhtml#using_junk_mail_controls" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk-options" nc:name="Настройки анти-спам фильтра" nc:link="mail_help.xhtml#junk_controls_options" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk-filters" nc:name="Фильтрация и контроль спама" nc:link="mail_help.xhtml#junk_controls_and_filters" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-controls" nc:name="Использование анти-спам фильтра" nc:link="mailnews_organizing.xhtml#using_junk_mail_controls" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-options" nc:name="Настройки анти-спам фильтра" nc:link="mailnews_organizing.xhtml#junk_controls_options" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-filters" nc:name="Фильтрация и контроль спама" nc:link="mailnews_organizing.xhtml#junk_controls_and_filters" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
