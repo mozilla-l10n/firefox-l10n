@@ -17,33 +17,33 @@
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "안전 모드에서 부가 기능 전체를 사용할 수 없습니다.">
 <!ENTITY warning.checkcompatibility.label          "부가 기능 호환성 확인 기능을 중단 합니다. 호환성이 맞지 않을 수 있습니다.">
-<!ENTITY warning.checkcompatibility.enable.label   "확인">
+<!ENTITY warning.checkcompatibility.enable.label   "취소">
 <!ENTITY warning.checkcompatibility.enable.tooltip "부가 기능 호환성 확인 기능 사용">
 <!ENTITY warning.updatesecurity.label              "부가 기능 업데이트 보안 확인 기능을 중단 합니다. 업데이트가 보안 문제를 일으킬 수 있습니다.">
-<!ENTITY warning.updatesecurity.enable.label       "확인">
+<!ENTITY warning.updatesecurity.enable.label       "취소">
 <!ENTITY warning.updatesecurity.enable.tooltip     "부가 기능 업데이트 보안 확인 기능 사용">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "검색">
-<!ENTITY view.discover.label                  "부가 기능 검색">
+<!ENTITY view.discover.label                  "추천">
 <!ENTITY view.locales.label                   "언어">
 <!ENTITY view.searchengines.label             "검색 엔진">
 <!ENTITY view.features.label                  "확장 기능">
 <!ENTITY view.appearance2.label               "외양">
 <!ENTITY view.plugins.label                   "플러그인">
-<!ENTITY view.recentUpdates.label             "최신 업데이트 항목 보기">
-<!ENTITY view.availableUpdates.label          "업데이트 가능 항목 보기">
+<!ENTITY view.recentUpdates.label             "최근 항목 보기">
+<!ENTITY view.availableUpdates.label          "업데이트 가능 항목">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "업데이트 확인">
+<!ENTITY updates.checkForUpdates.label        "업데이트 확인하기">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "최신 업데이트 보기">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.updateAddonsAutomatically.label     "부가 기능 자동 업데이트">
+<!ENTITY updates.updateAddonsAutomatically.label     "자동 업데이트 하기">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!ENTITY updates.resetUpdatesToAutomatic.label       "모든 부가 기능 자동 업데이트 설정">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "자동 업데이트 설정">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "모든 부가 기능 자동 업데이트 설정 해제">
+<!ENTITY updates.resetUpdatesToManual.label          "자동 업데이트 설정 해제">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "업데이트 중">
 <!ENTITY updates.installed.label              "업데이트가 완료되었습니다.">
@@ -103,10 +103,10 @@
 <!ENTITY detail.updateType                    "자동 업데이트">
 <!ENTITY detail.updateDefault.label           "기본 설정">
 <!ENTITY detail.updateDefault.tooltip         "기본으로 업데이트를 자동으로 설치">
-<!ENTITY detail.updateAutomatic.label         "확인">
+<!ENTITY detail.updateAutomatic.label         "사용">
 <!ENTITY detail.updateAutomatic.tooltip       "업데이트 자동 설치 설정">
-<!ENTITY detail.updateManual.label            "해지">
-<!ENTITY detail.updateManual.tooltip          "업데이트 자동 설치 해지">
+<!ENTITY detail.updateManual.label            "중단">
+<!ENTITY detail.updateManual.tooltip          "업데이트 자동 설치 중단">
 <!ENTITY detail.home                          "홈페이지">
 <!ENTITY detail.repository                    "부가 기능 프로필">
 <!ENTITY detail.size                          "크기">
