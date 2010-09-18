@@ -5,6 +5,7 @@
 <!ENTITY listEmpty.recentUpdates.label        "Nuk keni përditësuar së fundmi ndonjë shtesë">
 <!ENTITY listEmpty.findUpdates.label          "Kontrollo Për Përditësime">
 <!ENTITY listEmpty.search.label               "Nuk u gjet dot ndonjë shtesë me përputhje">
+<!ENTITY listEmpty.availableUpdates.label     "Nuk u gjetën përditësime">
 <!ENTITY listEmpty.button.label               "Mësoni më tepër rreth shtesave">
 <!ENTITY installAddonFromFile.label           "Instaloni Shtesë Prej Kartele…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -120,7 +121,7 @@
 <!ENTITY detail.showPreferencesUnix.tooltip   "Ndryshoni parapëlqimet e kësaj shtese">
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Vlerësime:">
+<!ENTITY rating2.label                         "Vlerësim">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pushim">

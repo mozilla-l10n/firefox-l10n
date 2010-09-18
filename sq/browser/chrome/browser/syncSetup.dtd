@@ -52,9 +52,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Ruajeni…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "R">
 
-besnik<!ENTITY page.syncKeyBackup.title     "Kyçi Juaj për Firefox Sync-un">
-besnik<!ENTITY page.syncKeyBackup.descr     "Ky kyç i fshehtë përdoret për të koduar të dhënat tuaja vetjake. Nuk ngarkohet te shërbyesi dhe nuk mund të rimerret. Mos e humbni, as mos ua jepni të tjerëve.">
-
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Ju lutemi, Ripohoni Që Nuk Jeni Robot">
 
