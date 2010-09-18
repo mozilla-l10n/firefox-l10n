@@ -165,9 +165,10 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Meny">
-<!ENTITY  homeButton.label            "Startsida">
-<!ENTITY tabViewButton2.label         "Flikgrupper">
-<!ENTITY tabViewButton2.tooltip       "Gruppera dina flikar">
+<!ENTITY homeButton.label             "Startsida">
+
+<!ENTITY tabGroupsButton.label        "Flikgrupper">
+<!ENTITY tabGroupsButton.tooltip      "Gruppera dina flikar">
 
 <!ENTITY bookmarksButton.label          "Bokmärken">
 <!ENTITY bookmarksButton.tooltip        "Visa dina bokmärken">
@@ -281,8 +282,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Visa"> 
 <!ENTITY viewMenu.accesskey       "s"> 
-<!ENTITY showTabView2.label     "Flikgrupper">
-<!ENTITY showTabView2.accesskey     "F">
+<!ENTITY viewTabGroups.label            "Flikgrupper">
+<!ENTITY viewTabGroups.accesskey        "F">
 <!ENTITY viewToolbarsMenu.label       "Verktygsfält"> 
 <!ENTITY viewToolbarsMenu.accesskey     "V"> 
 <!ENTITY viewSidebarMenu.label "Sidofält">
