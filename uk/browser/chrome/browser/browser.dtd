@@ -12,25 +12,27 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Потайливий режим)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Перенести цю вкладку до…">
-<!ENTITY  moveTabTo.accesskey                "н">
-<!ENTITY  createNewGroup.label               "Створити нову групу">
-<!ENTITY  createNewGroup.accesskey           "С">
-<!ENTITY  namedGroups.label                  "Названі групи">
 <!ENTITY  reloadTab.label                    "Оновити вкладку">
 <!ENTITY  reloadTab.accesskey                "О">
 <!ENTITY  reloadAllTabs.label                "Оновити всі вкладки">
 <!ENTITY  reloadAllTabs.accesskey            "с">
 <!ENTITY  closeOtherTabs.label               "Закрити інші вкладки">
 <!ENTITY  closeOtherTabs.accesskey           "З">
-<!ENTITY  openTabInNewWindow.label           "Відкрити у новому вікні">
-<!ENTITY  openTabInNewWindow.accesskey       "в">
-<!ENTITY  pinTab.label                       "Перетворити на програмну вкладку">
-<!ENTITY  pinTab.accesskey                   "п">
-<!ENTITY  unpinTab.label                     "Перетворити на звичайну вкладку">
-<!ENTITY  unpinTab.accesskey                 "н">
-<!ENTITY  bookmarkThisTab.label              "Закласти цю вкладку">
-<!ENTITY  bookmarkThisTab.accesskey          "З">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Пришпилити як цільову вкладку">
+<!ENTITY  pinAppTab.accesskey                "П">
+<!ENTITY  unpinAppTab.label                  "Відшпилити вкладку">
+<!ENTITY  unpinAppTab.accesskey              "В">
+<!ENTITY  moveToGroup.label                  "Перенести в Групу">
+<!ENTITY  moveToGroup.accesskey              "н">
+<!ENTITY  moveToNewGroup.label               "Нова Група">
+<!ENTITY  moveToNewWindow.label              "Перенести в Нове Вікно">
+<!ENTITY  moveToNewWindow.accesskey          "В">
 <!ENTITY  bookmarkAllTabs.label              "Закласти всі вкладки…">
 <!ENTITY  bookmarkAllTabs.accesskey          "к">
 <!ENTITY  undoCloseTab.label                 "Повернути закриту вкладку">
@@ -101,7 +103,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Підписатися на цю сторінку">
 <!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
 <!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
-<!ENTITY organizeBookmarks.label "Впорядкувати закладки…">
+<!ENTITY showAllBookmarks.label "Показати всі закладки…">
 <!ENTITY bookmarkAllCmd.label "Закласти всі вкладки…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати решту закладок">
 
@@ -131,9 +133,11 @@
 <!ENTITY bookmarksItem.title          "Закладки">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Домашня сторінка">
-<!ENTITY tabViewButton2.label         "Групи вкладок">
-<!ENTITY tabViewButton2.tooltip       "Впорядкуйте ваші вкладки">
+<!ENTITY appMenuButton.label          "Меню">
+<!ENTITY homeButton.label             "Домашня сторінка">
+
+<!ENTITY tabGroupsButton.label        "Групи вкладок">
+<!ENTITY tabGroupsButton.tooltip      "Впорядкуйте ваші вкладки">
 
 <!ENTITY bookmarksButton.label          "Закладки">
 <!ENTITY bookmarksButton.tooltip        "Показати ваші закладки">
@@ -170,6 +174,7 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Додатки">
 <!ENTITY addons.accesskey             "Д">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Консоль помилок">
 <!ENTITY errorConsoleCmd.accesskey    "м">
@@ -193,6 +198,12 @@
 <!ENTITY inspectStyleButton.label     "Стиль">
 <!ENTITY inspectStyleButton.accesskey "С">
 <!ENTITY inspectStylePanelTitle.label  "Стиль">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Об’єкт">
+<!ENTITY inspectObjectButton.accesskey   "О">
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
@@ -240,8 +251,8 @@
 
 <!ENTITY viewMenu.label         "Вигляд"> 
 <!ENTITY viewMenu.accesskey       "В"> 
-<!ENTITY showTabView2.label     "Групи вкладок…">
-<!ENTITY showTabView2.accesskey     "г">
+<!ENTITY viewTabGroups.label            "Групи вкладок">
+<!ENTITY viewTabGroups.accesskey        "Г">
 <!ENTITY viewToolbarsMenu.label       "Панелі інструментів"> 
 <!ENTITY viewToolbarsMenu.accesskey     "П"> 
 <!ENTITY viewSidebarMenu.label "Бічна панель">
@@ -256,16 +267,19 @@
 <!ENTITY historyUndoMenu.label "Недавно закриті вкладки">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Недавно закриті вікна">
+<!ENTITY historyRestoreLastSession.label "Відновити попередній сеанс">
 
 <!ENTITY historyHomeCmd.label "Домашня сторінка">
 <!ENTITY showAllHistoryCmd2.label "Показати всю історію">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Друкувати">
+<!ENTITY appMenuEdit.label "Правка">
 <!ENTITY appMenuCustomize.label "Вигляд">
 <!ENTITY appMenuToolbarLayout.label "Панель інструментів…">
 <!ENTITY appMenuSidebars.label "Бічні панелі">
-<!ENTITY appMenuHelp.label "Довідка">
+<!ENTITY appMenuFind.label "Знайти…">
+<!ENTITY appMenuUnsorted.label "Несортовані закладки">
+<!ENTITY appMenuGettingStarted.label "Перші кроки">
 
 <!ENTITY developerMenu.label "Розробка">
 
@@ -438,7 +452,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Вирізати">
 <!ENTITY copyButton.tooltip             "Копіювати">
 <!ENTITY pasteButton.tooltip            "Вставити">
+
 <!ENTITY fullScreenButton.tooltip       "Показати вікно на повний екран">
+
+<!ENTITY zoomOutButton.tooltip          "Збільшити">
+<!ENTITY zoomInButton.tooltip           "Зменшити">
+<!ENTITY zoomControls.label             "Масштабування">
 
 <!ENTITY quitApplicationCmdWin.label       "Вийти"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "й">
@@ -523,17 +542,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Вкладки з інших комп’ютерів">
 
-<!ENTITY syncBrand.shortName.label  "Синхронізація">
+<!ENTITY syncBrand.shortName.label    "Синхронізація">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "С">
 <!ENTITY syncSetup.label              "Налаштуйте синхронізацію…">
 <!ENTITY syncSetup.accesskey          "Н">
-<!ENTITY syncLogInItem.label          "З’єднатись">
-<!ENTITY syncLogInItem.accesskey      "З">
-<!ENTITY syncLogOutItem.label         "Від’єднатись">
-<!ENTITY syncLogOutItem.accesskey     "В">
 <!ENTITY syncSyncNowItem.label        "Синхронізувати зараз">
 <!ENTITY syncSyncNowItem.accesskey    "С">
+<!ENTITY syncToolbarButton.label      "Синхронізація">

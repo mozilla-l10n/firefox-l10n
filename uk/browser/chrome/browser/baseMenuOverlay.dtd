@@ -24,6 +24,9 @@
 <!ENTITY helpTroubleshootingInfo.label      "Вирішення проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey  "В">
 
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
 <!ENTITY updateCmd.label                "Перевірити наявність оновлень…">
 
 <!ENTITY preferencesCmdMac.label        "Налаштування…">
