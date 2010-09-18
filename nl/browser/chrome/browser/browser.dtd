@@ -132,7 +132,8 @@ can reach it easily. -->
 <!ENTITY throbberItem.title           "Activiteitsindicator">
 <!ENTITY bookmarksItem.title          "Bladwijzers">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
+<!ENTITY appMenuButton.label          "Menu">
 <!ENTITY  homeButton.label            "Startpagina">
 <!ENTITY tabViewButton2.label         "Tabbladgroepen">
 <!ENTITY tabViewButton2.tooltip       "Uw tabbladen groeperen">
