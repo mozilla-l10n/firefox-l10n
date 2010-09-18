@@ -14,8 +14,8 @@
 <!ENTITY server.label               "Shërbyes">
 <!ENTITY serverType.main.label      "Shërbyes &syncBrand.fullName.label;-u">
 <!ENTITY serverType.custom.label    "Përdor një shërbyes vetjak">
-<!ENTITY signIn.username.label      "Email / Emër Përdoruesi">
-<!ENTITY signIn.username.accesskey  "E">
+<!ENTITY signIn.account.label       "Email / Emër Përdoruesi">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Fjalëkalim">
 <!ENTITY signIn.password.accesskey  "F">
 <!ENTITY signIn.serverURL.label     "URL Shërbyesi">
@@ -52,8 +52,8 @@
 <!ENTITY button.syncKeyBackup.save.label      "Ruajeni…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "R">
 
-<!ENTITY page.syncKeyBackup.title     "Kyçi Juaj për Firefox Sync-un">
-<!ENTITY page.syncKeyBackup.descr     "Ky kyç i fshehtë përdoret për të koduar të dhënat tuaja vetjake. Nuk ngarkohet te shërbyesi dhe nuk mund të rimerret. Mos e humbni, as mos ua jepni të tjerëve.">
+besnik<!ENTITY page.syncKeyBackup.title     "Kyçi Juaj për Firefox Sync-un">
+besnik<!ENTITY page.syncKeyBackup.descr     "Ky kyç i fshehtë përdoret për të koduar të dhënat tuaja vetjake. Nuk ngarkohet te shërbyesi dhe nuk mund të rimerret. Mos e humbni, as mos ua jepni të tjerëve.">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Ju lutemi, Ripohoni Që Nuk Jeni Robot">
