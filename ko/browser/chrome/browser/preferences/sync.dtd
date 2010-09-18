@@ -16,7 +16,7 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "용량 보기">
 <!ENTITY changePassword.label         "암호 변경">
-<!ENTITY mySyncKey.label              "동기화 키"
+<!ENTITY mySyncKey.label              "동기화 암호">
 <!ENTITY resetSync.label              "동기화 재설정">
 <!ENTITY stopUsingAccount.label       "현재 계정 사용 중지">
 
