@@ -413,5 +413,5 @@
 <!ENTITY syncSetup.label "Configurazione di &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "y">
 <!ENTITY syncSyncNowItem.label "Sincronizza adesso">
-<!ENTITY syncSyncNowItem.accesskey "S">
+<!ENTITY syncSyncNowItem.accesskey "z">
 <!ENTITY syncToolbarButton.label "Sync">
