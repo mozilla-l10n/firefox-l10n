@@ -107,8 +107,8 @@
 <!ENTITY bookmarksItem.title "Segnalibri">
 <!ENTITY appMenuButton.label "Menu">
 <!ENTITY homeButton.label "Pagina iniziale">
-<!ENTITY tabViewButton2.label "Gruppi di schede">
-<!ENTITY tabViewButton2.tooltip "Raggruppa le schede">
+<!ENTITY tabGroupsButton.label "Gruppi di schede">
+<!ENTITY tabGroupsButton.tooltip "Raggruppa le schede">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksButton.tooltip "Visualizza i segnalibri">
 <!ENTITY bookmarksButton.accesskey "a">
@@ -199,8 +199,8 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY showTabView2.label "Gruppi di schede…">
-<!ENTITY showTabView2.accesskey "G">
+<!ENTITY viewTabGroups.label "Gruppi di schede">
+<!ENTITY viewTabGroups.accesskey "G">
 <!ENTITY viewToolbarsMenu.label "Barre degli strumenti">
 <!ENTITY viewToolbarsMenu.accesskey "B">
 <!ENTITY viewSidebarMenu.label "Barra laterale">
