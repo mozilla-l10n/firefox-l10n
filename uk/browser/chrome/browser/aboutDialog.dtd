@@ -1,11 +1,23 @@
 <!ENTITY aboutDialog.title          "Про &brandFullName;">
-<!ENTITY copyright                  "Учасники проекту">
-<!ENTITY copyright.accesskey        "У">
-<!ENTITY copyrightGNOME.accesskey   "У">
-<!ENTITY aboutLink                  "&lt; Про &brandFullName;">
-<!ENTITY aboutLink.accesskey        "П">
-<!ENTITY aboutVersion               "версія">
-<!ENTITY closeCmdGNOME.label        "Закрити">  
-<!ENTITY closeCmdGNOME.accesskey    "З">
-<!ENTITY licenseLinkText            "Інформація про ліцензії">
-<!ENTITY licenseLinkSuffix          ".">
+
+<!ENTITY community.start2           "&brandShortName; був розроблений в ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          " — ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "глобальній спільноті">
+<!ENTITY community.end2             ", котра гуртом намагається зробити інтернет кращим. Ми віримо в те, що інтернет має бути відкритим, громадським, доступним кожному без жодних обмежень.">
+
+<!ENTITY contribute.start           "Цікаво? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Долучайтесь!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Ліцензійна інформація">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Права кінцевого користувача">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Політика конфіденційності">
