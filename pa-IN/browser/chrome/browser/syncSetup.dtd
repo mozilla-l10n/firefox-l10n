@@ -2,20 +2,20 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY setup.pickSetupType.description "ਜੀ ਆਇਆਂ ਨੂੰ, ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਕਦੇ &syncBrand.fullName.label; ਨਹੀਂ ਵਰਤਿਆ ਤਾਂ ਤੁਹਾਨੂੰ ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਉਣਾ ਪਵੇਗਾ।">
+<!ENTITY button.createNewAccount.label "ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਓ">
+<!ENTITY button.haveAccount.label "ਮੇਰੇ ਕੋਲ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਹੈ">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
+<!ENTITY setup.choicePage.title.label     "ਕੀ ਤੁਸੀਂ &syncBrand.fullName.label; ਨੂੰ ਪਹਿਲਾਂ ਵਰਤਿਆ ਹੈ?">
 <!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.existing.label  "ਮੈਂ ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਉੱਤੇ ਪਹਿਲਾਂ ਹੀ &syncBrand.shortName.label; ਵਰਤ ਰਿਹਾ ਹਾਂ">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "ਸਰਵਰ">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; ਸਰਵਰ">
 <!ENTITY serverType.custom.label    "ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ">
-<!ENTITY signIn.username.label      "ਯੂਜ਼ਰ ਨਾਂ">
-<!ENTITY signIn.username.accesskey  "U">
+<!ENTITY signIn.account.label       "Email Address / User Name">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "ਪਾਸਵਰਡ">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.serverURL.label     "ਸਰਵਰ URL">
@@ -52,8 +52,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "ਸੰਭਾਲੋ…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!ENTITY page.syncKeyBackup.title     "ਤੁਹਾਡੀ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਕੁੰਜੀ">
-<!ENTITY page.syncKeyBackup.descr     "This secret key is used to encrypt your personal data. It is not uploaded to the server and cannot be recovered. Do not lose it or share with other people.">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ ਰੋਬੋਟ ਮਸ਼ੀਨ ਨਹੀਂ ਹੋ">
@@ -87,18 +85,18 @@
 <!ENTITY engine.prefs.label         "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY engine.prefs.accesskey     "S">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.main.label      "ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਡਾਟੇ ਨੂੰ ਮੇਰੇ &syncBrand.shortName.label; ਡਾਟੇ ਨਾਲ ਮਿਲਾਉ">
 <!ENTITY choice2.merge.recommended.label "ਸਿਫਾਰਸ਼ੀ:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.client.main.label     "ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਭ ਡਾਟੇ ਨੂੰ ਮੇਰੇ &syncBrand.shortName.label; ਡਾਟੇ ਨਾਲ ਬਦਲ ਦਿਉ">
+<!ENTITY choice2.server.main.label     "ਹੋਰ ਸਭ ਜੰਤਰਾਂ ਨੂੰ ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਡਾਟੇ ਨਾਲ ਬਦਲ ਦਿਉ">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "ਪੁਸ਼ਟੀ">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; ਹੁਣ ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਸਭ ਬਰਾਊਜ਼ਰ ਡਾਟੇ ਨੂੰ ਤੁਹਾਡੇ ਸਿੰਕ ਅਕਾਊਂਟ ਨਾਲ ਮਿਲਾਏਗਾ।">
+<!ENTITY confirm.client.label         "ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਭ &brandShortName; ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ, ਜਿਸ ਵਿੱਚ ਅੱਗੇ ਦਿੱਤਾ ਕੁਝ ਹੈ:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
 <!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
-<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
+<!ENTITY confirm.server.label         "ਅੱਗੇ ਦਿੱਤੇ ਜੰਤਰ ਉੱਤੇ ਤੁਹਾਡਾ ਲੋਕਲ ਡਾਟਾ ਲਿਖਿਆ ਜਾਵੇਗਾ:">
 <!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
 
 <!-- New & Existing Account: Setup Complete -->

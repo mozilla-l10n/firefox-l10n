@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "ਮੇਰਾ ਮੇਨ ਪੇਜ਼ ਵੇਖੋ">
 <!ENTITY startupBlankPage.label    "ਇੱਕ ਖਾਲੀ ਪੇਜ਼ ਵੇਖੋ">
 <!ENTITY startupLastSession.label  "ਆਖਰੀ ਸਮੇਂ ਦੇ ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਵੇਖੋ">
-<!ENTITY location.label            "ਮੇਨ ਪੇਜ਼:">
-<!ENTITY location.accesskey        "H">
+<!ENTITY homepage.label            "ਮੁੱਖ ਪੇਜ਼:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "ਮੇਰਾ ਮੌਜੂਦਾ ਪੇਜ਼ ਵਰਤੋਂ">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "ਮੌਜੂਦਾ ਪੇਜ਼ ਵਰਤੋਂ">
