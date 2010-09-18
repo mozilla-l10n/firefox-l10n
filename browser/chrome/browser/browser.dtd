@@ -8,8 +8,6 @@
 <!ENTITY reloadAllTabs.accesskey "t">
 <!ENTITY closeOtherTabs.label "Chiudi le altre schede">
 <!ENTITY closeOtherTabs.accesskey "a">
-<!ENTITY openTabInNewWindow.label "Apri in una nuova finestra">
-<!ENTITY openTabInNewWindow.accesskey "f">
 <!ENTITY pinAppTab.label "Blocca come Scheda applicazione">
 <!ENTITY pinAppTab.accesskey "h">
 <!ENTITY unpinAppTab.label "Sblocca scheda">
@@ -17,6 +15,8 @@
 <!ENTITY moveToGroup.label "Sposta nel gruppo">
 <!ENTITY moveToGroup.accesskey "S">
 <!ENTITY moveToNewGroup.label "Nuovo gruppo">
+<!ENTITY moveToNewWindow.label "Sposta in una nuova finestra">
+<!ENTITY moveToNewWindow.accesskey "f">
 <!ENTITY bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
 <!ENTITY bookmarkAllTabs.accesskey "T">
 <!ENTITY undoCloseTab.label "Riapri scheda chiusa">
