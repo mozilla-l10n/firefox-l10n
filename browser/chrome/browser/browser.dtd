@@ -49,8 +49,6 @@
 <!ENTITY  reloadAllTabs.accesskey  "a">
 <!ENTITY  closeOtherTabs.label     "Stäng alla andra flikar">
 <!ENTITY  closeOtherTabs.accesskey "ä">
-<!ENTITY  openTabInNewWindow.label    "Öppna i ett nytt fönster">
-<!ENTITY  openTabInNewWindow.accesskey "Ö">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -64,6 +62,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Flytta till grupp">
 <!ENTITY  moveToGroup.accesskey              "F">
 <!ENTITY  moveToNewGroup.label               "Ny grupp">
+<!ENTITY  moveToNewWindow.label              "Flytta till nytt fönster">
+<!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label       "Bokmärke för alla flikar…">
 <!ENTITY  bookmarkAllTabs.accesskey   "m">
 <!ENTITY  undoCloseTab.label          "Ångra Stäng flik">
