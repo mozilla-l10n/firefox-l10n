@@ -5,8 +5,7 @@
 <!ENTITY reload.label              "Laadi uuesti">
 <!ENTITY stop.label                "Peata">
 <!ENTITY go.label                  "Mine">
-<!ENTITY openLocation.label        "Ava asukoht">
-<!ENTITY star.label                "Pane see leht järjehoidjatesse">
+<!ENTITY star.label                "Tähista">
 
 <!ENTITY newtab.label              "Uus kaart">
 <!ENTITY closetab.label            "Sulge kaart">
@@ -20,21 +19,15 @@
 <!ENTITY noSuggestions.label       "(soovitusi ei leitud)">
 <!ENTITY addToDictionary.label     "Lisa sõnaraamatusse">
 
+<!ENTITY allPagesHeader.label      "Kõik lehed">
 <!ENTITY bookmarksHeader.label     "Järjehoidjad">
-<!ENTITY bookmarksManage.label     "Halda">
+<!ENTITY historyHeader.label       "Ajalugu">
+<!ENTITY desktopHeader.label       "Arvuti">
 
-<!ENTITY editBookmarkRemove.label  "Eemalda">
 <!ENTITY editBookmarkDone.label    "Valmis">
 <!ENTITY editBookmarkTags.label    "Lisa sildid siia">
 
-<!ENTITY helperApp.prompt          "Mida peaks tegema failiga">
-<!ENTITY helperApp.open            "Avama">
-<!ENTITY helperApp.save            "Salvestama">
-<!ENTITY helperApp.nothing         "Mitte midagi">
-
-<!ENTITY formHelper.previous       "Eelmine">
-<!ENTITY formHelper.next           "Järgmine">
-<!ENTITY formHelper.done           "Valmis">
+<!ENTITY selectHelper.done         "Valmis">
 
 <!ENTITY addonsHeader.label        "Lisad">
 <!ENTITY addonsLocal.label         "Paigaldatud lisad">
@@ -94,4 +87,18 @@
 <!ENTITY consoleErrColumn.label    "Veerg:">
 
 <!ENTITY contextOpenInNewTab.label "Ava link uuel kaardil">
+<!ENTITY contextSaveLink.label     "Salvesta link">
 <!ENTITY contextSaveImage.label    "Salvesta pilt">
+<!ENTITY contextShareLink.label    "Jaga linki">
+<!ENTITY contextShareImage.label   "Jaga pilti">
+<!ENTITY contextSaveVideo.label    "Salvesta video">
+<!ENTITY contextShareVideo.label   "Jaga videot">
+<!ENTITY contextEditBookmark.label "Muuda">
+<!ENTITY contextRemoveBookmark.label "Eemalda">
+
+<!ENTITY pageactions.saveas.pdf    "Salvesta PDFina">
+<!ENTITY pageactions.share.page    "Jaga lehte">
+<!ENTITY pageactions.password.forget "Unusta parool">
+<!ENTITY pageactions.reset         "Kustuta lehe eelistused">
+<!ENTITY pageactions.findInPage    "Leia lehelt">
+<!ENTITY pageactions.search.addNew "Lisa otsingumootor">
