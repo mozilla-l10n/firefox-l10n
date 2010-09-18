@@ -52,9 +52,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Enregistrer…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "s">
 
-<!ENTITY page.syncKeyBackup.title     "Votre clé de synchronisation Firefox">
-<!ENTITY page.syncKeyBackup.descr     "Cette clé secrète est utilisée pour chiffrer vos données personnelles. Elle n'est pas envoyée au serveur et ne peut pas être récupérée. Ne la perdez pas et ne la communiquez à personne.">
-
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Veuillez confirmer que vous n'êtes pas un robot">
 
