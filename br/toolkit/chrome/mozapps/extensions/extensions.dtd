@@ -7,9 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Klask hizivadennoù">
 <!ENTITY listEmpty.search.label               "Askouezh ebet bet kavet">
 <!ENTITY listEmpty.button.label               "Gouzout hiroc'h a-zivout an askouezhioù">
-<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
+<!ENTITY installAddonFromFile.label           "Staliañ askouezhioù diouzh ar restr...">
+<!ENTITY installAddonFromFile.accesskey       "i">
+<!ENTITY toolsMenu.tooltip                    "Binvioù evit an holl askouezhioù">
 
 <!ENTITY cmd.back.tooltip                     "Mont d'ar bajennad kent">
 <!ENTITY cmd.forward.tooltip                  "Mont d'ar bajennad war-lerc'h">
@@ -137,8 +137,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Rummañ dre an deiziad hizivadur">
 <!ENTITY sort.relevance.label                 "Kenglotadenn wellañ">
 <!ENTITY sort.relevance.tooltip               "Rummañ dre zereadelezh">
-<!ENTITY sort.price.label                     "Price">
-<!ENTITY sort.price.tooltip                   "Sort by price">
+<!ENTITY sort.price.label                     "Priziañ">
+<!ENTITY sort.price.tooltip                   "Rummañ dre ar prizadur">
 
 <!ENTITY search.filter2.label                 "Klask :">
 <!ENTITY search.filter2.installed.label       "Ma askouezhioù">

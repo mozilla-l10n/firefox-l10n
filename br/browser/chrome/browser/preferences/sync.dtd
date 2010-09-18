@@ -14,11 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Ardeiñ ar gont">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY viewQuota.label              "Gwelout ar feurbarzh">
 <!ENTITY changePassword.label         "Kemm ar ger-tremen">
 <!ENTITY mySyncKey.label              "Ma alc'hwez goubredañ">
 <!ENTITY resetSync.label              "Adderaouekaat ar goubredañ">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!ENTITY stopUsingAccount.label       "Arsaviñ arver ar gont-mañ">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Goubredañ ar merdeer">

@@ -3,10 +3,10 @@
 <!ENTITY community.start2           "Ergrafet eo &brandShortName; gant ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          ", ur ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "global community">
-<!ENTITY community.end2             " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY community.creditsLink      "gumuniezh vedel">
+<!ENTITY community.end2             " a labour a-gevred a-benn lakaat Internet da vezañ gwelloc'h. Lakaet hon eus en hor c'hredenn e tlefe Internet bezañ digor, foran, ha haezadus gant an holl dud hep strishadur ebet.">
 
 <!ENTITY contribute.start           "Ha dedennet oc'h ? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

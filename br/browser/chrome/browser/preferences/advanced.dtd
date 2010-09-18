@@ -51,14 +51,14 @@
 <!ENTITY useCacheAfter.label             "Me a egor evit ar grubuilh">
 <!ENTITY clearCacheNow.label             "Skarzhañ bremañ">
 <!ENTITY clearCacheNow.accesskey         "k">
-<!ENTITY smartSizeCache.label            "Let &brandShortName; manage the size of my cache">
+<!ENTITY smartSizeCache.label            "Leuskel &brandShortName; da ardeiñ ment ma c'hrubuilh">
 <!ENTITY smartSizeCache.accesskey        "L">
 
 <!ENTITY updateTab.label                 "Hizivaat">
 
 <!ENTITY autoCheck.label                 "Gwiriañ an hizivadurioù ent-emgefre :">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "b">
+<!ENTITY enableAppUpdate.accesskey       "e">
 <!ENTITY enableAddonsUpdate2.label       "Askouezhioù">
 <!ENTITY enableAddonsUpdate2.accesskey   "A">
 <!ENTITY enableSearchUpdate.label        "Kefluskerioù klask">
