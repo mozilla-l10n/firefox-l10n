@@ -62,6 +62,7 @@
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "북마크에 추가">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY showAllBookmarks.label "북마크 모두 보기…">
 <!ENTITY bookmarkAllCmd.label "모든 탭을 북마크에 추가…">
 <!ENTITY bookmarksToolbarChevron.tooltip "북마크 계속 보기">
 
@@ -89,6 +90,9 @@
 <!ENTITY searchItem.title "검색">
 <!ENTITY throbberItem.title "실행 색인기">
 <!ENTITY bookmarksItem.title "북마크">
+
+<!-- Toolbar items -->
+<!ENTITY appMenuButton.label  "메뉴">
 <!ENTITY homeButton.label "홈">
 <!ENTITY tabViewButton2.label         "탭 그룹">
 <!ENTITY tabViewButton2.tooltip       "탭 그룹으로 보기">
@@ -153,28 +157,32 @@
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--tabbrowsing -->
-<!ENTITY bookmarkAllTabs.label "전체 탭 북마크 하기…">
-<!ENTITY bookmarkAllTabs.accesskey "T">
-
-<!ENTITY  pinTab.label                       "앱 탭으로 만들기">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "일반 탭으로 만들기">
-<!ENTITY  unpinTab.accesskey                 "k">
-<!ENTITY  moveToGroup.label                  "그룹으로 이동">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "새 그룹">
-
-
-<!ENTITY bookmarkThisTab.label "현재 탭 북마크 하기">
-<!ENTITY bookmarkThisTab.accesskey "B">
-<!ENTITY closeTab.label  "탭 닫기">
-<!ENTITY closeTab.accesskey "c">
 <!ENTITY closeOtherTabs.accesskey "o">
 <!ENTITY closeOtherTabs.label "다른 탭 모두 닫기">
-
 <!ENTITY openTabInNewWindow.label     "새 창에 열기">
 <!ENTITY openTabInNewWindow.accesskey "W">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "앱 탭 지정">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "일반 탭으로">
+<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  moveToGroup.label                  "그룹 이동">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "새 그룹">
+<!ENTITY  bookmarkAllTabs.label              "모든 탭 북마크…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "닫은 탭 다시 열기">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "탭 닫기">
+<!ENTITY  closeTab.accesskey                 "c">
+
 <!ENTITY listAllTabs.label "탭 전체 목록">
+
 <!ENTITY reloadAllTabs.label "전체 탭 새로 고침">
 <!ENTITY reloadAllTabs.accesskey "A">
 <!ENTITY reloadTab.label "현재 탭 새로 고침">
@@ -318,22 +326,30 @@
 <!ENTITY pasteButton.tooltip "붙여넣기">
 <!ENTITY fullScreenButton.tooltip	"윈도우를 화면 전체에 표시합니다.">
 
+<!ENTITY zoomOutButton.tooltip          "축소">
+<!ENTITY zoomInButton.tooltip           "확대">
+<!ENTITY zoomControls.label             "크기 조정">
+
 <!ENTITY quitApplicationCmdWin.label "종료">
 <!ENTITY quitApplicationCmdWin.accesskey "x">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "종료">
 <!ENTITY quitApplicationCmd.accesskey "Q">
+
 <!ENTITY closeCmd.label "닫기">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
+
 <!ENTITY pageStyleMenu.label "문서 스타일">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "스타일 제거">
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "문서 지정 스타일">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
+
 <!ENTITY pageReportIcon.tooltip "이 웹 사이트에 대한 팝업창 설정 변경">
+
 <!ENTITY allowPopups.accesskey "p">
 <!ENTITY editPopupSettingsUnix.label "팝업창 차단 설정…">
 <!ENTITY editPopupSettings.label "팝업창 차단 설정…">
@@ -354,10 +370,10 @@
 <!ENTITY subscribeToPageMenupopup.label "현재  페이지 구독하기">
 <!ENTITY subscribeToPageMenuitem.label "현재 페이지 구독하기…">
 <!ENTITY addCurPagesCmd.label "모든 탭 북마크 추가…">
-<!ENTITY organizeBookmarks.label "북마크 관리…">
 
 <!ENTITY addons.label "부가 기능">
 <!ENTITY addons.accesskey "A">
+<!ENTITY addons.commandkey "A">
 
 <!ENTITY errorConsoleCmd.label "오류 정보">
 <!ENTITY errorConsoleCmd.accesskey "C">
@@ -388,10 +404,13 @@
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "최근에 닫은 탭">
 <!ENTITY historyUndoWindowMenu.label "최근에 닫은 창">
+<!ENTITY historyRestoreLastSession.label "이전 세션 복원">
+
 <!ENTITY historyHomeCmd.label "홈 페이지">
 <!ENTITY showAllHistoryCmd2.label "방문 기록 보기">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "편집">
 <!ENTITY appMenuCustomize.label "사용자 설정">
 <!ENTITY appMenuToolbarLayout.label "도구 모음 배치…">
 <!ENTITY appMenuSidebars.label "탐색창">
@@ -464,15 +483,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label  "동기화">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "Y">
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; 설정…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncLogInItem.label          "연결하기">
-<!ENTITY syncLogInItem.accesskey      "C">
-<!ENTITY syncLogOutItem.label         "연결끊기">
-<!ENTITY syncLogOutItem.accesskey     "D">
 <!ENTITY syncSyncNowItem.label        "동기화하기">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "동기화">

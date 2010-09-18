@@ -37,10 +37,12 @@
 <!ENTITY mediaSize "그림 크기">
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs2.accesskey "e">
+
 <!ENTITY feedTab "피드">
 <!ENTITY feedTab.accesskey "F">
 <!ENTITY feedSubscribe "구독하기">
 <!ENTITY feedSubscribe.accesskey "u">
+
 <!ENTITY permTab "이용 권한">
 <!ENTITY permTab.accesskey "P">
 <!ENTITY permUseDefault "기본 설정 이용">
@@ -55,12 +57,17 @@
 <!ENTITY permInstall "확장 기능 및 테마 설치">
 <!ENTITY permGeo	"위치 정보 공유">
 
+<!ENTITY  permIndexedDB              "오프라인 저장소 관리">
+<!ENTITY  permClearStorage           "저장소 삭제">
+<!ENTITY  permClearStorage.accesskey "C">
+
 <!ENTITY securityTab "보안">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "현재 페이지 보안 정보">
 <!ENTITY securityView.certView "인증서 보기">
 <!ENTITY securityView.accesskey "V">
 <!ENTITY securityView.unknown "알 수 없음">
+
 <!ENTITY securityView.identity.header "웹 사이트 정보">
 <!ENTITY securityView.identity.owner "소유자: ">
 <!ENTITY securityView.identity.domain "사이트 정보: ">
