@@ -88,9 +88,8 @@
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
 <!ENTITY  homeButton.label            "Hyrje">
-<!ENTITY tabViewButton2.label         "Grupe Skedash">
-<!ENTITY tabViewButton2.tooltip       "Gruponi Skedat Tuaja">
-
+<!ENTITY tabGroupsButton.label        "Grupe Skedash">
+<!ENTITY tabGroupsButton.tooltip      "Gruponi skedat tuaja">
 
 <!ENTITY bookmarksButton.label          "Faqerojtësa">
 <!ENTITY bookmarksButton.tooltip        "Shfaqni faqerojtësit tuaj">
@@ -167,6 +166,8 @@
 
 <!ENTITY viewMenu.label         "Shfaqje"> 
 <!ENTITY viewMenu.accesskey       "S"> 
+<!ENTITY viewTabGroups.label            "Grupe Skedash">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Panele"> 
 <!ENTITY viewToolbarsMenu.accesskey     "P"> 
 <!ENTITY viewSidebarMenu.label "Anështyllë">
@@ -463,15 +464,7 @@
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Stil">
-
 <!ENTITY  listAllTabs.label      "Paraqit krejt skedat">
-<!ENTITY  openTabInNewWindow.label           "Hape në Dritare të Re">
-<!ENTITY  openTabInNewWindow.accesskey       "D">
-
-
-<!ENTITY showTabView2.label     "Gruponi Skedat Tuaja…">
-<!ENTITY showTabView2.accesskey     "G">
-
 <!ENTITY  reloadTab.label                    "Ringarkoje Skedën">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Ringarko Krejt Skedat">
@@ -531,6 +524,9 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.accesskey                "F">
 <!ENTITY  unpinAppTab.label                  "Çfiksoje Skedën">
 <!ENTITY  unpinAppTab.accesskey              "ç">
+
+<!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
+<!ENTITY  moveToNewWindow.accesskey          "K">
 
 <!ENTITY showAllBookmarks.label "Shfaqni Krejt Faqerojtësit…">
 
