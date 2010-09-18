@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title                     "Tere tulemast &brandShortName;i">
-<!ENTITY firstrun.heading                   "Et sind järjele aidata, on allpool välja toodud mõned populaarsemad võimalused ja lisad, mis aitavad sul &brandShortName;ist maksimumi võtta.">
-<!ENTITY firstrun.recommended               "Soovitused:">
-<!ENTITY firstrun.weave.title               "Hangi Weave Sync">
-<!ENTITY firstrun.weave.description         "Jaga lehitsemise ajalugu, salvestatud paroole, järjehoidjaid ja kaarte oma arvuti ja mobiili vahel.">
-<!ENTITY firstrun.starter.title             "Hangi alustaja pakett">
-<!ENTITY firstrun.starter.description       "Paigalda need soovituslikud lisad, et parendada &brandShortName;i kasutamise kogemust">
-<!ENTITY firstrun.tour.title                "Vaata tutvustust">
-<!ENTITY firstrun.tour.description          "Vaata seda klippi, et teada saada, kuidas antud rakendust paremini kasutada">
-<!ENTITY firstrun.features                  "Veel lahedaid võimalusi">
+<!ENTITY firstrun.heading2                  "Tere tulemast &brandShortName;i">
+<!ENTITY firstrun.sync.title                "Hangi Firefox Sync">
+<!ENTITY firstrun.sync.description          "Jaga lehitsemise ajalugu, salvestatud paroole, järjehoidjaid ja kaarte oma arvuti ja mobiili vahel">
+<!ENTITY firstrun.addons.title              "Hangi lisasid">
+<!ENTITY firstrun.addons.description        "Paigalda lisasid, et parandada &brandShortName;i kasutamise kogemust">
+<!ENTITY firstrun.home.title                "Vaata tutvustust">
+<!ENTITY firstrun.home.description          "Puuduta, et minna oma kohandatud avalehele ja alusta veebilehitsemist">
+<!ENTITY firstrun.relNotes.label            "Vaata väljalaske teavet">
 <!ENTITY firstrun.faq                       "KKK">
 <!ENTITY firstrun.privacy                   "Privaatsusreeglid">
 <!ENTITY firstrun.follow                    "Jälgi meid:">
