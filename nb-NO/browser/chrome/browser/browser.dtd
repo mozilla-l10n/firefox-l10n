@@ -18,8 +18,6 @@
 <!ENTITY  reloadAllTabs.accesskey            "a">
 <!ENTITY  closeOtherTabs.label               "Lukk andre faner">
 <!ENTITY  closeOtherTabs.accesskey           "a">
-<!ENTITY  openTabInNewWindow.label           "Åpne i et nytt vindu">
-<!ENTITY  openTabInNewWindow.accesskey       "n">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -33,6 +31,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Flytt til gruppe">
 <!ENTITY  moveToGroup.accesskey              "F">
 <!ENTITY  moveToNewGroup.label               "Ny gruppe">
+<!ENTITY  moveToNewWindow.label              "Flytt til et nytt vindu">
+<!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner …">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  undoCloseTab.label                 "Angre lukking av fane">
@@ -134,9 +134,10 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label          "Meny">
-<!ENTITY  homeButton.label            "Startside">
-<!ENTITY tabViewButton2.label         "Fanegrupper">
-<!ENTITY tabViewButton2.tooltip       "Legg fanene dine i grupper">
+<!ENTITY homeButton.label             "Startside">
+
+<!ENTITY tabGroupsButton.label        "Fanegrupper">
+<!ENTITY tabGroupsButton.tooltip      "Grupper fanene dine">
 
 <!ENTITY bookmarksButton.label          "Bokmerker">
 <!ENTITY bookmarksButton.tooltip        "Viser bokmerkene dine">
@@ -250,8 +251,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Vis">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY showTabView2.label     "Grupper faner …">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY viewTabGroups.label            "Fanegrupper">
+<!ENTITY viewTabGroups.accesskey        "F">
 <!ENTITY viewToolbarsMenu.label       "Verktøylinjer">
 <!ENTITY viewToolbarsMenu.accesskey     "V">
 <!ENTITY viewSidebarMenu.label "Sidestolpe">
