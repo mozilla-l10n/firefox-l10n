@@ -39,8 +39,8 @@
 <!ENTITY view.availableUpdates.label          "Dostępne aktualizacje">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Aktualizuj teraz dodatki">
-<!ENTITY updates.updateAddonsNow.accesskey    "A">
+<!ENTITY updates.checkForUpdates.label        "Znajdź aktualizacje">
+<!ENTITY updates.checkForUpdates.accesskey    "a">
 <!ENTITY updates.viewUpdates.label            "Wyświetl ostatnie aktualizacje">
 <!ENTITY updates.viewUpdates.accesskey        "W">
 <!ENTITY updates.updateAddonsAutomatically.label     "Aktualizuj dodatki automatycznie">
