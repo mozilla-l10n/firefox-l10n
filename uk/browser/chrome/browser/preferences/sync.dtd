@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Обліковий запис &syncBrand.fullName.label;">
-<!ENTITY currentUser.label            "Поточний користувач:">
+<!ENTITY currentAccount.label         "Поточний запис:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Оновити">
@@ -14,30 +14,29 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Керувати обліковим записом">
 <!ENTITY manageAccount.accesskey      "К">
+<!ENTITY viewQuota.label              "Подивитись квоту">
 <!ENTITY changePassword.label         "Змінити пароль">
-<!ENTITY changePassphrase.label       "Змінити таємну фразу">
-<!ENTITY resetSync.label              "Скинути Sync">
-<!ENTITY differentAccount.label       "Використати інший обліковий запис">
+<!ENTITY mySyncKey.label              "Мій ключ сихронізації">
+<!ENTITY resetSync.label              "Скинути синхронізацію">
+<!ENTITY stopUsingAccount.label       "Перестати використовувати цей обліковий запис">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Синхронізація браузера">
 <!ENTITY syncComputerName.label       "Назва комп’ютера:">
 <!ENTITY syncComputerName.accesskey   "к">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; буде: ">
-<!ENTITY syncModeSwitchDesc.accesskey "б">
-<!ENTITY syncEverything.label         "Синхронізувати все">
-<!ENTITY customSync.label             "Використовувати мої налаштування">
-<!ENTITY syncEverythingDescription.label  "Ваші закладки, історія, паролі, налаштування та вкладки будуть синхронізуватися.">
-<!ENTITY syncItem.bookmarks.label     "Синхронізувати закладки">
-<!ENTITY syncItem.bookmarks.accesskey "з">
-<!ENTITY syncItem.tabs.label          "Синхронізувати вкладки">
-<!ENTITY syncItem.tabs.accesskey      "в">
-<!ENTITY syncItem.history.label       "Синхронізувати історію">
-<!ENTITY syncItem.history.accesskey   "і">
-<!ENTITY syncItem.passwords.label     "Синхронізувати паролі">
-<!ENTITY syncItem.passwords.accesskey "п">
-<!ENTITY syncItem.prefs.label         "Синхронізувати налаштування">
-<!ENTITY syncItem.prefs.accesskey     "н">
+
+<!ENTITY syncMy.label               "Синхронізувати мої">
+<!ENTITY engine.bookmarks.label     "Закладки">
+<!ENTITY engine.bookmarks.accesskey "З">
+<!ENTITY engine.tabs.label          "Вкладки">
+<!ENTITY engine.tabs.accesskey      "В">
+<!ENTITY engine.history.label       "Історію">
+<!ENTITY engine.history.accesskey   "І">
+<!ENTITY engine.passwords.label     "Паролі">
+<!ENTITY engine.passwords.accesskey "П">
+<!ENTITY engine.prefs.label         "Налаштування">
+<!ENTITY engine.prefs.accesskey     "Н">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Умови надання послуги">
