@@ -12,8 +12,8 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;s serverim">
 <!ENTITY serverType.custom.label    "Citam serverim">
-<!ENTITY signIn.username.label      "Lietotājvārds">
-<!ENTITY signIn.username.accesskey  "L">
+<!ENTITY signIn.account.label       "Epasta adrese vai lietotājvārds">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Parole">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.serverURL.label     "Servera adrese">
@@ -69,8 +69,6 @@
 
 <!ENTITY existingSyncKeyHelp.description "Jūs varat atrast savu sinhronizēšanas atslēgu citos savos datoros iestatījumu sadaļā Drošība izvēloties Saglabātās paroles. Ja arī tā nevarat atgūt pareizo sinhronizācijas atslēgu, jūs varat ievadīt jaunu atslēgu, bet tad visi sinhronizācijas serverī saglabātie dati tiks pazaudēti.">
 <!ENTITY lostSyncKey.label            "Man ir pazudusi mana sinhronizācijas atslēga">
-<!ENTITY page.syncKeyBackup.title     "Jūsu Firefox sinhronizācijas atslēga">
-<!ENTITY page.syncKeyBackup.descr     "Šī slepenā atslēga tiks izmantota, lai šifrētu jūsu datus. Tā netiek nosūtīta serverim un to nav iespējams atgūt. Nepazaudējiet to un nedodiet to citiem cilvēkiem.">
 
 <!-- New Account Page 4: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Lūdzu aplieciniet, ka neesat robots">
@@ -103,7 +101,7 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Sagatavošana pabeigta">
-<!ENTITY setup.optionsConfirmPage.title "Apstiptināt">
+<!ENTITY setup.optionsConfirmPage.title "Apstiprināt">
 <!ENTITY setup.optionsPage.title      "Sinhronizēšanas iestatījumi">
 <!ENTITY setup.pickSetupType.description "Esiet sveicināti! Ja līdz šim neesat izmantojuši &syncBrand.fullName.label;s iespēju, jums vajadzēs izveidot jaunu lietotāja kontu.">
 
