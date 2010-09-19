@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "Loc'hañ <span>&brandShortName;</span>">
+<!ENTITY abouthome.brandStart "Deraouiñ gant <span>&brandShortName;</span>">
 
 <!ENTITY abouthome.searchEngineButton.label "Klask">
 
