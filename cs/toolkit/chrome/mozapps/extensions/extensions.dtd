@@ -7,8 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label "Zkontrolovat aktualizace">
 <!ENTITY listEmpty.search.label "Nepodařilo se najít žádný odpovídající doplněk">
 <!ENTITY listEmpty.button.label "Zjistěte více informací o doplňcích">
-<!ENTITY installFromFile.label "Instalovat ze souboru…">
-<!ENTITY installFromFile.accesskey "I">
+<!ENTITY installAddonFromFile.label "Instalovat doplněk ze souboru…">
+<!ENTITY installAddonFromFile.accesskey "I">
+<!ENTITY toolsMenu.tooltip "Nástroje doplňků">
 
 <!ENTITY cmd.back.tooltip "Přejde jednu stránku zpět">
 <!ENTITY cmd.forward.tooltip "Přejde jednu stránku vpřed">
@@ -32,16 +33,12 @@
 <!ENTITY view.plugins.label "Zásuvné moduly">
 <!ENTITY view.recentUpdates.label "Nedávné aktualizace">
 <!ENTITY view.availableUpdates.label "Dostupné aktualizace">
-<!ENTITY view.utilites.preferences.tooltip "Možnosti všech doplňků">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Předvolby všech doplňků">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label "Aktualizovat doplňky">
-<!ENTITY updates.updateAddonsNow.accesskey "A">
+<!ENTITY updates.checkForUpdates.label "Zkontrolovat aktualizace">
+<!ENTITY updates.checkForUpdates.accesskey "k">
 <!ENTITY updates.viewUpdates.label "Zobrazit nedávné aktualizace">
 <!ENTITY updates.viewUpdates.accesskey "Z">
-<!ENTITY updates.backgroudUpdateCheck.label "Automaticky kontrolovat aktualizace">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "A">
 <!ENTITY updates.updateAddonsAutomatically.label "Automaticky aktualizace doplňky">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!ENTITY updates.resetUpdatesToAutomatic.label "Nastavit všechny doplňky na automatickou aktualizaci">
@@ -140,6 +137,8 @@
 <!ENTITY sort.dateUpdated.tooltip "Řadit dle aktualizace">
 <!ENTITY sort.relevance.label "Nejlepší shody">
 <!ENTITY sort.relevance.tooltip "Řadit dle nejlepší shody">
+<!ENTITY sort.price.label "Cena">
+<!ENTITY sort.price.tooltip "Řadit dle ceny">
 
 <!ENTITY search.filter2.label "Hledat:">
 <!ENTITY search.filter2.installed.label "Mé doplňky">

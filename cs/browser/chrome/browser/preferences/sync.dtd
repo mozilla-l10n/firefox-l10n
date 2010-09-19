@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Účet &syncBrand.fullName.label;">
-<!ENTITY currentUser.label "Aktuální uživatel:">
+<!ENTITY currentAccount.label "Aktuální účet:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label "Aktulizovat">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label "Správa účtu">
 <!ENTITY manageAccount.accesskey "S">
+<!ENTITY viewQuota.label "Zobrazit kvótu">
 <!ENTITY changePassword.label "Změnit heslo">
 <!ENTITY mySyncKey.label "Můj klíč">
 <!ENTITY resetSync.label "Změnit typ synchronizace">
-<!ENTITY differentAccount.label "Použít jiný účet">
+<!ENTITY stopUsingAccount.label "Přestat používat tento účet">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label "Synchronizace">

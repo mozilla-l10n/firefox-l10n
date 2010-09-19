@@ -14,8 +14,8 @@
 <!ENTITY server.label "Server">
 <!ENTITY serverType.main.label "Server &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label "Použít vlastní server">
-<!ENTITY signIn.username.label "Uživatelské jméno">
-<!ENTITY signIn.username.accesskey "U">
+<!ENTITY signIn.account.label "E-mailová adresa / uživatelské jméno">
+<!ENTITY signIn.account.accesskey "E">
 <!ENTITY signIn.password.label "Heslo">
 <!ENTITY signIn.password.accesskey "H">
 <!ENTITY signIn.serverURL.label "Adresa serveru">
@@ -51,9 +51,6 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "T">
 <!ENTITY button.syncKeyBackup.save.label "Uložit…">
 <!ENTITY button.syncKeyBackup.save.accesskey "U">
-
-<!ENTITY page.syncKeyBackup.title "Váš klíč pro Firefox Sync">
-<!ENTITY page.syncKeyBackup.descr "Tento tajný klíč se používá k šifrování vašich osobních dat. Není nahráván na server a není ho možno obnovit. Neztraťte ho ani ho nesvěřujte ostatním lidem.">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label "Potvrďte prosím, že nejste robot">
@@ -100,7 +97,6 @@
 <!ENTITY confirm.client.warning.label "Upozornění: Tímto krokem nahradíte všechna data aplikace &brandShortName; na tomto počítači!">
 <!ENTITY confirm.server.label "Na následujících zařízeních dojde k přepsání dat těmi lokálními">
 <!ENTITY confirm.server.warning.label "Upozornění: Vaše lokální data nahradí všechna data aplikace &brandShortName; na těchto zařízeních!">
-
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Nastavení dokončeno!">

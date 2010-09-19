@@ -18,8 +18,6 @@
 <!ENTITY reloadAllTabs.accesskey "b">
 <!ENTITY closeOtherTabs.label "Zavřít ostatní panely">
 <!ENTITY closeOtherTabs.accesskey "v">
-<!ENTITY openTabInNewWindow.label "Otevřít v novém okně">
-<!ENTITY openTabInNewWindow.accesskey "k">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -33,6 +31,8 @@ can reach it easily. -->
 <!ENTITY moveToGroup.label "Přesunout do skupiny">
 <!ENTITY moveToGroup.accesskey "s">
 <!ENTITY moveToNewGroup.label "Nová skupina">
+<!ENTITY moveToNewWindow.label "Přesunout do nového okna">
+<!ENTITY moveToNewWindow.accesskey "k">
 <!ENTITY bookmarkAllTabs.label "Přidat všechny panely do záložek…">
 <!ENTITY bookmarkAllTabs.accesskey "d">
 <!ENTITY undoCloseTab.label "Otevřít zavřený panel">
@@ -135,8 +135,9 @@ can reach it easily. -->
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label "Nabídka">
 <!ENTITY homeButton.label "Domů">
-<!ENTITY tabViewButton2.label "Skupiny panelů">
-<!ENTITY tabViewButton2.tooltip "Umožní seskupit panely">
+
+<!ENTITY tabGroupsButton.label "Skupiny panelů">
+<!ENTITY tabGroupsButton.tooltip "Umožní seskupit panely">
 
 <!ENTITY bookmarksButton.label "Záložky">
 <!ENTITY bookmarksButton.tooltip "Zobrazí vaše záložky">
@@ -250,8 +251,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label "Zobrazení">
 <!ENTITY viewMenu.accesskey "Z">
-<!ENTITY showTabView2.label "Seskupit panely…">
-<!ENTITY showTabView2.accesskey "S">
+<!ENTITY viewTabGroups.label "Skupiny panelů">
+<!ENTITY viewTabGroups.accesskey "S">
 <!ENTITY viewToolbarsMenu.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenu.accesskey "N">
 <!ENTITY viewSidebarMenu.label "Postranní lišta">
@@ -451,6 +452,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Vyjmout">
 <!ENTITY copyButton.tooltip "Kopírovat">
 <!ENTITY pasteButton.tooltip "Vložit">
+
 <!ENTITY fullScreenButton.tooltip "Zobrazí okno v režimu celé obrazovky">
 
 <!ENTITY zoomOutButton.tooltip "Oddálí">
@@ -542,15 +544,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
-<!ENTITY syncMenu.label "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey "y">
 <!ENTITY syncSetup.label "Nastavit &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "y">
-<!ENTITY syncLogInItem.label "Připojit">
-<!ENTITY syncLogInItem.accesskey "P">
-<!ENTITY syncLogOutItem.label "Odpojit">
-<!ENTITY syncLogOutItem.accesskey "O">
 <!ENTITY syncSyncNowItem.label "Synchronizovat">
 <!ENTITY syncSyncNowItem.accesskey "S">
+<!ENTITY syncToolbarButton.label "Sync">
