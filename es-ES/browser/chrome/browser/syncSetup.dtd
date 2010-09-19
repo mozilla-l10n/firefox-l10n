@@ -38,8 +38,6 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey "r">
-<!ENTITY page.syncKeyBackup.title "Su clave de Firefox Sync">
-<!ENTITY page.syncKeyBackup.descr "La clave secreta es usada para cifrar sus datos personales. No es subida al servidor y no puede ser recuperada. No la pierda o la comparta con otras personas.">
 <!ENTITY setup.captchaPage2.title.label "Por favor, confirma que no es un robot">
 <!ENTITY setup.existingAccount.title.label "Introduzca información de su cuenta">
 <!ENTITY resetPassword.label "Restablecer contraseña">

@@ -8,8 +8,6 @@
 <!ENTITY reloadAllTabs.accesskey "R">
 <!ENTITY closeOtherTabs.label "Cerrar las demás pestañas">
 <!ENTITY closeOtherTabs.accesskey "C">
-<!ENTITY openTabInNewWindow.label "Abrir en una ventana nueva">
-<!ENTITY openTabInNewWindow.accesskey "n">
 <!ENTITY pinAppTab.label "Fijar pestaña">
 <!ENTITY pinAppTab.accesskey "ñ">
 <!ENTITY unpinAppTab.label "Eliminar pestaña fija">
@@ -17,6 +15,8 @@
 <!ENTITY moveToGroup.label "Mover al grupo">
 <!ENTITY moveToGroup.accesskey "M">
 <!ENTITY moveToNewGroup.label "Nuevo grupo">
+<!ENTITY moveToNewWindow.label "Mover a una nueva ventana">
+<!ENTITY moveToNewWindow.accesskey "V">
 <!ENTITY bookmarkAllTabs.label "Añadir pestañas a marcadores…">
 <!ENTITY bookmarkAllTabs.accesskey "A">
 <!ENTITY undoCloseTab.label "Deshacer el cierre de la última pestaña">
@@ -107,8 +107,8 @@
 <!ENTITY bookmarksItem.title "Marcadores">
 <!ENTITY appMenuButton.label "Menú">
 <!ENTITY homeButton.label "Inicio">
-<!ENTITY tabViewButton2.label "Grupos de pestañas">
-<!ENTITY tabViewButton2.tooltip "Agrupar sus pestañas">
+<!ENTITY tabGroupsButton.label "Grupos de pestañas">
+<!ENTITY tabGroupsButton.tooltip "Agrupar pestañas">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
 <!ENTITY bookmarksButton.accesskey "c">
@@ -199,8 +199,8 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY showTabView2.label "Agrupar sus pestañas…">
-<!ENTITY showTabView2.accesskey "g">
+<!ENTITY viewTabGroups.label "Grupos de pestañas">
+<!ENTITY viewTabGroups.accesskey "g">
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY viewSidebarMenu.label "Panel lateral">
