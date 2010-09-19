@@ -82,9 +82,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Įrašyti…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "r">
 
-<!ENTITY page.syncKeyBackup.title     "Jūsų „Firefox“ sinchronizavimo raktas">
-<!ENTITY page.syncKeyBackup.descr     "Sinchronizavimo raktas yra naudojamas Jūsų asmeniniams duomenims užšifruoti. Jis nesiunčiamas į serverį ir negali būti atkurtas. Nepameskite ir neatskleiskite jo kitiems.">
-
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Prašom patvirtinti, kad nesate robotas">
 

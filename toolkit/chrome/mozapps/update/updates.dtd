@@ -95,8 +95,10 @@
 <!ENTITY  errorpatching.intro             "Dalinis atnaujinimas nepavyko. 
                                            Bus bandoma atnaujinti atsiuntus visą naujinimą.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Kažkodėl nepavyksta „&brandShortName;“ atnaujinti, naudojant šifruotą ryšį.
-                                           Patikrinti, ar turite naujausią „&brandShortName;“ laidą, galite adresu:">
+<!ENTITY  genericBackgroundError.label    "Programai „&brandShortName;“ nepavyko patikrinti, ar yra galimų programos naujinimų.
+                                           Prašome patikrinti, ar turite naujausią „&brandShortName;“ laidą, adresu:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Kažkodėl nepavyksta „&brandShortName;“ atnaujinti, naudojant šifruotą ryšį.
+                                           Prašome patikrinti, ar turite naujausią „&brandShortName;“ laidą, adresu:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Kažkas bando „&brandShortName;“ įsiūlyti nesaugų naujinimą.
                                            Susisiekite su savo tinklo administratoriais ir paprašykite jų pagalbos.">
 

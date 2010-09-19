@@ -49,8 +49,8 @@
 <!ENTITY  reloadAllTabs.accesskey            "v">
 <!ENTITY  closeOtherTabs.label               "Užverti kitas korteles">
 <!ENTITY  closeOtherTabs.accesskey           "k">
-<!ENTITY  openTabInNewWindow.label           "Atverti naujame lange">
-<!ENTITY  openTabInNewWindow.accesskey       "l">
+<!ENTITY  moveToNewWindow.label              "Perkelti į naują langą">
+<!ENTITY  moveToNewWindow.accesskey          "l">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -166,8 +166,9 @@ can reach it easily. -->
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Meniu">
 <!ENTITY homeButton.label             "Pradžios tinklalapis">
-<!ENTITY tabViewButton2.label         "Kortelių grupės">
-<!ENTITY tabViewButton2.tooltip       "Grupuoti korteles">
+
+<!ENTITY tabGroupsButton.label        "Kortelių grupės">
+<!ENTITY tabGroupsButton.tooltip      "Grupuoti korteles">
 
 <!ENTITY bookmarksButton.label          "Adresynas">
 <!ENTITY bookmarksButton.tooltip        "Rodyti tinklalapių adresyną">
@@ -281,8 +282,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label                   "Rodymas"> 
 <!ENTITY viewMenu.accesskey               "R"> 
-<!ENTITY showTabView2.label               "Grupuoti korteles…">
-<!ENTITY showTabView2.accesskey           "G">
+<!ENTITY viewTabGroups.label              "Kortelių grupės">
+<!ENTITY viewTabGroups.accesskey          "g">
 <!ENTITY viewToolbarsMenu.label           "Priemonių juostos"> 
 <!ENTITY viewToolbarsMenu.accesskey       "j"> 
 <!ENTITY viewSidebarMenu.label            "Parankinė">
