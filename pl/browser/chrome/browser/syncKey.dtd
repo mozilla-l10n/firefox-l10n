@@ -1,0 +1,15 @@
+<!ENTITY syncKey.page.title               "Twój klucz  &syncBrand.fullName.label;">
+<!ENTITY syncKey.page.description         "Klucz ten używany jest do odszyfrowania danych z konta &syncBrand.fullName.label;. Konieczne jest jego wprowadzenie w momencie konfigurowania konta &syncBrand.fullName.label; na każdym komputerze i urządzeniu.">
+<!ENTITY syncKey.keepItSecret.heading     "Zachowaj go w poufności!">
+<!ENTITY syncKey.keepItSecret.description "Twoje konto &syncBrand.fullName.label; jest zaszyfrowane, chroniąc twoją prywatność. Bez tego klucza odszyfrowanie twoich danych zajęłoby wiele lat. Jesteś jedyną osobą, która posiada ten klucz. Oznacza to, że tylko ty masz dostęp do danych na koncie &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe.heading       "Chroń go!">
+<!ENTITY syncKey.keepItSafe1.description  "Nie zgub tego klucza.">
+<!ENTITY syncKey.keepItSafe2.description  " Nie przechowujemy kopii twojego klucza (wtedy nie byłby poufny!) - ">
+<!ENTITY syncKey.keepItSafe3.description  "nie możemy więc pomóc ci go odzyskać">
+<!ENTITY syncKey.keepItSafe4.description  " w razie utraty. Tego klucza będzie należało używać przy każdym podłączeniu nowego komputera lub urządzenia do usługi &syncBrand.fullName.label;.">
+
+<!ENTITY syncKey.findOutMore1.label       "Więcej informacji o usłudze &syncBrand.fullName.label; i o ochronie prywatności można znaleźć na stronie ">
+<!ENTITY syncKey.findOutMore2.label       ".">
+<!ENTITY syncKey.footer1.label            "Warunki korzystania z usługi &syncBrand.fullName.label; dostępne są na stronie ">
+<!ENTITY syncKey.footer2.label            ". Polityka prywatności dostępna jest na stronie ">
+<!ENTITY syncKey.footer3.label            ".">
