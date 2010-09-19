@@ -141,6 +141,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Sortuj według daty aktualizacji">
 <!ENTITY sort.relevance.label                 "Najbardziej pasujące">
 <!ENTITY sort.relevance.tooltip               "Sortuj według istotności">
+<!ENTITY sort.price.label                     "Cena">
+<!ENTITY sort.price.tooltip                   "Sortuj według ceny">
 
 <!ENTITY search.filter2.label                 "Przeszukaj:">
 <!ENTITY search.filter2.installed.label       "moje dodatki">
