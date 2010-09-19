@@ -43,8 +43,6 @@
 <!ENTITY updates.updateAddonsNow.accesskey    "A">
 <!ENTITY updates.viewUpdates.label            "Wyświetl ostatnie aktualizacje">
 <!ENTITY updates.viewUpdates.accesskey        "W">
-<!ENTITY updates.backgroudUpdateCheck.label   "Sprawdzaj automatycznie dostępność aktualizacji">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "S">
 <!ENTITY updates.updateAddonsAutomatically.label     "Aktualizuj dodatki automatycznie">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Przestaw wszystkie dodatki na automatyczną aktualizację">
