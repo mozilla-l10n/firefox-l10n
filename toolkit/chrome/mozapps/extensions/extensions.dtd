@@ -7,13 +7,18 @@
 <!ENTITY progress.pause.tooltip               "Apturēt">
 <!ENTITY progress.cancel.tooltip              "Atcelt">
 
-<!ENTITY installFromFile.label                "Instalēt no faila…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label                "Instalēt no faila…">
+<!ENTITY installAddonFromFile.accesskey            "I">
 <!ENTITY addon.details.label                  "Vairāk">
 <!ENTITY addon.details.tooltip                "Rādīt vairāk informācijas par šo papildinājumu">
 
 <!ENTITY cmd.back.tooltip                     "Pāriet uz iepriekšējo lapu">
 <!ENTITY cmd.forward.tooltip                  "Pāriet uz nākamo lapu">
+<!ENTITY sort.price.label                     "Cena">
+<!ENTITY sort.price.tooltip                   "Kārtot pēc cenas">
+<!ENTITY toolsMenu.tooltip                    "Visu papildinājumu rīki">
+<!ENTITY updates.checkForUpdates.label        "Meklēt atjauninājumus">
+<!ENTITY updates.checkForUpdates.accesskey    "M">
 
 <!-- Command Bar items -->
 
@@ -92,11 +97,7 @@
 <!ENTITY updates.downloaded.label             "Jūsu papildinājumu atjauninājumi ir lejupielādēti.">
 <!ENTITY updates.restart.label                "Pārstartējiet, lai pabeigtu atjaunināšanu">
 <!ENTITY updates.noneFound.label              "Atjauninājumi nav atrasti">
-<!ENTITY updates.backgroudUpdateCheck.label   "Meklēt atjauninājumus automātiski">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "m">
 <!ENTITY updates.manualUpdatesFound.label     "Aplūkot pieejamos atjauninājumus">
-<!ENTITY updates.updateAddonsNow.label        "Atjaunināt papildinājumus">
-<!ENTITY updates.updateAddonsNow.accesskey    "U">
 <!ENTITY updates.viewUpdates.label            "Aplūkot nesenos atjauninājumus">
 <!ENTITY updates.viewUpdates.accesskey        "n">
 
@@ -135,8 +136,6 @@
 <!ENTITY sort.dateUpdated.tooltip             "Kārtot pēc atjaunināšanas datuma">
 <!ENTITY sort.relevance.label                 "Labākais rezultāts">
 <!ENTITY sort.relevance.tooltip               "Kārtot pēc atbilstības">
-<!ENTITY view.utilites.preferences.tooltip    "Visu papildinājumi iestatījumi">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Visu papildinājumi iestatījumi">
 
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Meklēšana">
