@@ -540,15 +540,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label  "Sync">
 
 <!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "Y">
 <!ENTITY syncSetup.label              "Skonfiguruj usługę &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncLogInItem.label          "Połącz">
-<!ENTITY syncLogInItem.accesskey      "P">
-<!ENTITY syncLogOutItem.label         "Rozłącz">
-<!ENTITY syncLogOutItem.accesskey     "R">
 <!ENTITY syncSyncNowItem.label        "Synchronizuj teraz">
 <!ENTITY syncSyncNowItem.accesskey    "S">
