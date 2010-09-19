@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "wyświetl stronę startową">
 <!ENTITY startupBlankPage.label    "wyświetl pustą stronę">
 <!ENTITY startupLastSession.label  "wyświetl okna i karty z poprzedniej sesji">
-<!ENTITY location.label            "Strona startowa:">
-<!ENTITY location.accesskey        "S">
+<!ENTITY homepage.label            "Strona startowa:">
+<!ENTITY homepage.accesskey        "S">
 
 <!ENTITY useCurrentPage.label      "Użyj bieżącej strony">
 <!ENTITY useCurrentPage.accesskey  "b">
