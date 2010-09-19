@@ -144,9 +144,10 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY homeButton.label "Strona startowa" >
-<!ENTITY tabViewButton2.label         "Grupy kart">
-<!ENTITY tabViewButton2.tooltip       "Grupuj karty">
+<!ENTITY homeButton.label             "Strona startowa" >
+
+<!ENTITY tabGroupsButton.label        "Grupy kart">
+<!ENTITY tabGroupsButton.tooltip      "Pogrupuj karty">
 
 <!ENTITY bookmarksButton.label          "Zakładki">
 <!ENTITY bookmarksButton.tooltip        "Wyświetl zakładki">
@@ -258,8 +259,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label "Widok" >
 <!ENTITY viewMenu.accesskey "W" >
-<!ENTITY showTabView2.label     "Grupuj karty…">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY viewTabGroups.label            "Grupy kart">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label "Paski narzędzi" >
 <!ENTITY viewToolbarsMenu.accesskey "P" >
 <!ENTITY viewSidebarMenu.label "Panel boczny" >
@@ -539,7 +540,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
 <!ENTITY syncSetup.label              "Skonfiguruj usługę &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Synchronizuj teraz">
