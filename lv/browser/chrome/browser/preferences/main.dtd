@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label "Parādīt manu mājas lapu">
 <!ENTITY startupBlankPage.label "Parādīt tukšu lapu">
 <!ENTITY startupLastSession.label "Parādīt manus logus un cilnes no iepriekšējās reizes">
-<!ENTITY location.label "Mājas lapa:">
-<!ENTITY location.accesskey "M">
+<!ENTITY homepage.label "Mājas lapa:">
+<!ENTITY homepage.accesskey "M">
 <!ENTITY useCurrentPage.label "Lietot pašreizējo lapu">
 <!ENTITY useCurrentPage.accesskey "L">
 <!ENTITY useMultiple.label "Lietot pašreizējās lapas">
