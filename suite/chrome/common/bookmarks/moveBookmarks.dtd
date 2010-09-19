@@ -12,8 +12,6 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
-   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -30,19 +28,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY tabHeader.label "Kortelės">
-<!ENTITY tabDisplay.label "Kortelių juosta">
-<!ENTITY autoHide.label "Nerodyti kortelių juostos, kai atverta tik viena kortelė">
-<!ENTITY autoHide.accesskey "N">
-<!ENTITY background.label "Atveriant saitą naujoje kortelėje, įkelti ją į pirmąjį planą">
-<!ENTITY background.accesskey "s">
-<!ENTITY warnOnClose.label "Įspėti prieš užveriant langą, kuriame yra atvertų kortelių">
-<!ENTITY warnOnClose.accesskey "ė">
-<!ENTITY relatedAfterCurrent.label "Susijusias korteles atverti greta esamos">
-<!ENTITY relatedAfterCurrent.accesskey "g">
-<!ENTITY loadGroup.label "Atveriant į adresyną įrašytą tinklalapių grupę:">
-<!ENTITY loadGroupAppend.label "Sukurti naujas korteles">
-<!ENTITY loadGroupAppend.accesskey "k">
-<!ENTITY loadGroupReplace.label "Pakeisti esamas">
-<!ENTITY loadGroupReplace.accesskey "P">
-<!ENTITY openTabs.label "Vietoj naujo naršyklės lango atverti kortelę">
+<!ENTITY window.title              "Parinkite aplanką">
+<!ENTITY window.style              "width: 36em; height: 18em;">
+<!ENTITY moveTo.label              "Perkelti į:">
+<!ENTITY newFolderButton.label     "Naujas aplankas">
+<!ENTITY newFolderButton.accesskey "N"> 
