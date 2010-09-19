@@ -63,8 +63,10 @@
 <!ENTITY  errorpatching.intro             "De gedeeltelijke update kon niet worden toegepast. 
                                            &brandShortName; zal het opnieuw proberen door een volledige update te downloaden.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Iets voorkomt dat &brandShortName; veilig wordt bijgewerkt.
-                                           Controleer of u de laatste versie van &brandShortName; heeft op:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; kan niet bepalen of er een update beschikbaar is.
+                                           Verzeker u ervan dat u de laatste versie van &brandShortName; heeft van:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Iets voorkomt dat  &brandShortName; veilig wordt bijgewerkt.
+                                           erzeker u ervan dat u de laatste versie van &brandShortName; heeft van:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Iets probeert &brandShortName; te verleiden om een onveile update
                                            te accepteren. Neem contact op met uw netwerkprovider en vraag hulp.">
 
