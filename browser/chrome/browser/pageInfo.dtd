@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Встановлювати розширення та теми">
 <!ENTITY  permGeo               "Дізнаватись місцезнаходження">
 
+<!ENTITY  permIndexedDB              "Втримувати позамережне сховище">
+<!ENTITY  permClearStorage           "Очистити сховище">
+<!ENTITY  permClearStorage.accesskey "ч">
+
 <!ENTITY  securityTab           "Безпека">
 <!ENTITY  securityTab.accesskey "з">
 <!ENTITY  securityHeader        "Інформація щодо безпеки цієї сторінки">
