@@ -18,8 +18,6 @@
 <!ENTITY  reloadAllTabs.accesskey         "T">
 <!ENTITY  closeOtherTabs.label   "Fechar Outros Separadores">
 <!ENTITY  closeOtherTabs.accesskey  "O">
-<!ENTITY  openTabInNewWindow.label "Abrir numa nova janela">
-<!ENTITY  openTabInNewWindow.accesskey "n">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -33,6 +31,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Mover para grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Novo grupo">
+<!ENTITY  moveToNewWindow.label              "Mover para nova janela">
+<!ENTITY  moveToNewWindow.accesskey          "j">
 <!ENTITY  bookmarkAllTabs.label       "Guardar separadores como marcadores...">
 <!ENTITY  bookmarkAllTabs.accesskey   "S">
 <!ENTITY  undoCloseTab.label          "Reabrir separador fechado">
@@ -135,8 +135,9 @@ can reach it easily. -->
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
 <!ENTITY homeButton.label             "Início">
-<!ENTITY tabViewButton2.label         "Conjuntos de separadores">
-<!ENTITY tabViewButton2.tooltip       "Abrir um separador de interface visual">
+
+<!ENTITY tabGroupsButton.label        "Grupos de separadores">
+<!ENTITY tabGroupsButton.tooltip      "Agrupar os seus separadores">
 
 <!ENTITY bookmarksButton.label        "Marcadores">
 <!ENTITY bookmarksButton.tooltip      "Mostrar os seus marcadores">
@@ -250,8 +251,8 @@ shortcut keys on Linux. -->
 
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY showTabView2.label     "Vista de separadores">
-<!ENTITY showTabView2.accesskey     "V">
+<!ENTITY viewTabGroups.label     "Grupos de separadores">
+<!ENTITY viewTabGroups.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label "Barras de ferramentas">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
