@@ -19,7 +19,7 @@
 <!ENTITY changePassword.label         "Zmień hasło">
 <!ENTITY mySyncKey.label              "Mój klucz Sync">
 <!ENTITY resetSync.label              "Resetuj synchronizację">
-<!ENTITY differentAccount.label       "Użyj innego konta">
+<!ENTITY stopUsingAccount.label       "Przestań używać to konto">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Synchronizacja przeglądarki">
