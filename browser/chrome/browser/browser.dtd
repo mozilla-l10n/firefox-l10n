@@ -34,8 +34,6 @@
 <!ENTITY closeTab.accesskey "C">
 <!ENTITY closeOtherTabs.accesskey "v">
 <!ENTITY closeOtherTabs.label "Aizvērt citas cilnes">
-<!ENTITY  openTabInNewWindow.label    "Atvērt jaunā logā">
-<!ENTITY  openTabInNewWindow.accesskey "l">
 <!ENTITY listAllTabs.label "Visu ciļņu saraksts">
 <!ENTITY reloadAllTabs.label "Pārlādēt visas cilnes">
 <!ENTITY reloadAllTabs.accesskey "A">
@@ -47,14 +45,14 @@
 <!ENTITY backForwardItem.title        "Atpakaļ/Uz priekšu">
 <!ENTITY developerMenu.label "Izstrādātājiem">
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY showTabView2.label     "Grupēt cilnes…">
-<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY  moveToGroup.label                  "Pārvietot uz grupu">
 <!ENTITY  moveToGroup.accesskey              "P">
 <!ENTITY  moveToNewGroup.label               "Jauna grupa">
 <!ENTITY inspectObjectButton.label       "Objekts">
 <!ENTITY inspectObjectButton.accesskey   "O">
 <!ENTITY historyRestoreLastSession.label "Atjaunot iepriekšējo sesiju">
+<!ENTITY tabGroupsButton.label        "Ciļņu grupas">
+<!ENTITY tabGroupsButton.tooltip      "Grupējiet savas cilnes">
 
 <!ENTITY appMenuEdit.label "Rediģēt">
 <!ENTITY appMenuFind.label "Meklēt…">
@@ -70,14 +68,16 @@
 <!ENTITY syncSetup.accesskey          "U">
 <!ENTITY syncSyncNowItem.label        "Sinhronizēt">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY tabViewButton2.label         "Cilņu grupas">
-<!ENTITY tabViewButton2.tooltip       "Grupējiet savas cilnes">
 
 <!ENTITY goOfflineCmd.label "Strādāt nesaistē">
 <!ENTITY goOfflineCmd.accesskey "R">
+<!ENTITY viewTabGroups.label            "Ciļņu grupas">
+<!ENTITY viewTabGroups.accesskey        "G">
 
 <!ENTITY menubarCmd.label "Izvēlne">
 <!ENTITY menubarCmd.accesskey "I">
+<!ENTITY  moveToNewWindow.label              "Pāriet uz jaunu logu">
+<!ENTITY  moveToNewWindow.accesskey          "P">
 
 <!ENTITY navbarCmd.label "Navigācijas rīkjosla">
 <!ENTITY navbarCmd.accesskey "N">

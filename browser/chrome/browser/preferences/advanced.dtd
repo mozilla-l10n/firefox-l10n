@@ -32,6 +32,9 @@
 <!ENTITY checkNow.label "Pārbaudīt tagad">
 <!ENTITY checkNow.accesskey "P">
 
+<!ENTITY smartSizeCache.label            "Ļaut &brandShortName; noteikt manas kešatmiņas izmēru">
+<!ENTITY smartSizeCache.accesskey        "t">
+
 <!ENTITY networkTab.label "Tīkls">
 
 <!ENTITY connection.label "Savienojums">
