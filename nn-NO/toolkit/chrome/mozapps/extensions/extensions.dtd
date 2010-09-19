@@ -7,8 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Sjå etter oppdateringar">
 <!ENTITY listEmpty.search.label               "Klarte ikkje å finne passande utvidingar">
 <!ENTITY listEmpty.button.label               "Les meir om utvidingar">
-<!ENTITY installFromFile.label                "Installer frå fil …">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "Installer utvidingar frå fil …">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidingane">
 
 <!ENTITY cmd.back.tooltip                     "Gå tilbake ei side">
 <!ENTITY cmd.forward.tooltip                  "Gå fram ei side">
@@ -32,16 +33,18 @@
 <!ENTITY view.plugins.label                   "Programtillegg">
 <!ENTITY view.recentUpdates.label             "Nyleg oppdatert">
 <!ENTITY view.availableUpdates.label          "Tilgjengelege oppdateringar">
-<!ENTITY view.utilites.preferences.tooltip    "Innstillingar for alle utvidingane">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Innstillingar for alle utvidingane">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Oppdater utvidingane no">
-<!ENTITY updates.updateAddonsNow.accesskey    "O">
+<!ENTITY updates.checkForUpdates.label        "Sjå etter oppdateringar no">
+<!ENTITY updates.checkForUpdates.accesskey    "S">
 <!ENTITY updates.viewUpdates.label            "Vis nyleg oppdaterte">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Søk etter oppdateringar automatisk">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "S">
+<!ENTITY updates.updateAddonsAutomatically.label     "Oppdater utvidingane automatisk">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "O">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Tilbakestill alle utvidingane til å oppdatere automatisk">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
+<!ENTITY updates.resetUpdatesToManual.label          "Tilbakestill alle utvidingane til å oppdatere manuelt">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "T">
 <!ENTITY updates.updating.label               "Oppdaterer utvidingane">
 <!ENTITY updates.installed.label              "Utvidingane er oppdaterte">
 <!ENTITY updates.downloaded.label             "Oppdateringar til utvidingane er lasta ned.">
@@ -98,6 +101,8 @@
 <!ENTITY detail.contributions.description     "Utviklaren av denne utvidinga ber om at du hjelper til med å støtte vidare utvikling ved å gje eit lite bidrag.">
 
 <!ENTITY detail.updateType                    "Automatiske oppdateringar">
+<!ENTITY detail.updateDefault.label           "Standard">
+<!ENTITY detail.updateDefault.tooltip         "Installer oppdateringar automatisk berre om det er standard">
 <!ENTITY detail.updateAutomatic.label         "på">
 <!ENTITY detail.updateAutomatic.tooltip       "Automatisk installer utvidingar">
 <!ENTITY detail.updateManual.label            "Av">
@@ -132,6 +137,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Sorter etter dato oppdatert">
 <!ENTITY sort.relevance.label                 "Beste treff">
 <!ENTITY sort.relevance.tooltip               "Sorter etter relevans">
+<!ENTITY sort.price.label                     "Pris">
+<!ENTITY sort.price.tooltip                   "Sorter etter pris">
 
 <!ENTITY search.filter2.label                 "Søk:">
 <!ENTITY search.filter2.installed.label       "Installerte utvidingar">

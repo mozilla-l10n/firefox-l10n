@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Vis startsida">
 <!ENTITY startupBlankPage.label    "Vis tom side">
 <!ENTITY startupLastSession.label  "Vis vindauge og faner som vart brukte sist">
-<!ENTITY location.label            "Adresse:">
-<!ENTITY location.accesskey        "A">
+<!ENTITY homepage.label            "Startside:">
+<!ENTITY homepage.accesskey        "a">
 <!ENTITY useCurrentPage.label      "Bruk open nettside">
 <!ENTITY useCurrentPage.accesskey  "B">
 <!ENTITY useMultiple.label         "Bruk opne nettsider">

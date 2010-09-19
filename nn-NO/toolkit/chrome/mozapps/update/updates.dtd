@@ -54,12 +54,15 @@
                                            
 <!ENTITY  errorManual.label               "Du kan oppdatere &brandShortName; manuelt ved å gå til denne lenkja, for å laste ned siste versjon:">
                                            
-<!ENTITY  errorpatching.intro             "Installering av den aukande oppdateringa feila. &brandShortName; vil prøve å laste ned ei fullstendige oppdatering.">
+<!ENTITY  errorpatching.intro             "Installering av den aukande oppdateringa feila. 
+                              &brandShortName; vil prøve å laste ned ei fullstendige oppdatering.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Noko hindra &brandShortName; frå å oppdatere trygt. 
-                                     Kontroller at du har den nyaste versjonen av &brandShortName; frå:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; klarer ikkje å avgjere om det finst ei tilgjengeleg oppdatering. Kontroller 
+                                           om du har den nyaste versjonen av &brandShortName; frå:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Noko hindrar &brandShortName; frå å oppdatere trygt. 
+                                           Kontroller at du har den nyaste versjonen av &brandShortName; frå:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Nokon prøver å lure &brandShortName; til å akseptere ei 
-                                     utrygg oppdatering. Kontakt nettverksansvarleg for å få hjelp.">
+                                           utrygg oppdatering. Kontakt nettverksansvarleg for å få hjelp.">
 
 <!ENTITY  finishedPage.title              "Oppdatering klar for innstallering">
 <!ENTITY  finishedPage.text               "Oppdateringa vert installert neste gong &brandShortName; startar. Du 
