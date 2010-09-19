@@ -52,9 +52,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Zapisz…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "Z">
 
-<!ENTITY page.syncKeyBackup.title     "Twój klucz Firefox Sync">
-<!ENTITY page.syncKeyBackup.descr     "Klucz ten jest używany do zaszyfrowania osobistych danych. Nie jest przesyłany na serwer i nie można go odzyskać. Nie zgub go i nie udostępniaj go innym.">
-
 <!-- New Account Page 4: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Potwierdź, że nie jesteś robotem">
 
