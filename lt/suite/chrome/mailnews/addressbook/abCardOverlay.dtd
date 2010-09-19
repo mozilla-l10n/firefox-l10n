@@ -120,9 +120,9 @@ Pažymėjus šią parinktį, tokie tinkle esantys intarpai šio adresato laišku
 <!ENTITY Birthday.label                 "Gimimo diena:">
 <!ENTITY Birthday.accesskey             "o">
 <!ENTITY In.label                       "g.">
-<!ENTITY Year.emptytext                 "metai">
+<!ENTITY Year.placeholder               "metai">
 <!ENTITY Or.value                       "arba">
-<!ENTITY Age.emptytext                  "amžius">
+<!ENTITY Age.placeholder                "amžius">
 <!ENTITY YearsOld.label                 "m.">
 
 <!ENTITY Work.tab                       "Darbovietė">
@@ -171,8 +171,8 @@ Pažymėjus šią parinktį, tokie tinkle esantys intarpai šio adresato laišku
 <!ENTITY PhotoFile.accesskey            "F">
 <!ENTITY BrowsePhoto.label              "Parinkti">
 <!ENTITY BrowsePhoto.accesskey          "P">
-<!ENTITY PhotoURL.label                 "Atvaizdas iš tinklo">
-<!ENTITY PhotoURL.accesskey             "t">
-<!ENTITY PhotoURL.emptytext             "Įveskite atvaizdo adresą">
+<!ENTITY PhotoURL.label                 "Atvaizdas iš saityno">
+<!ENTITY PhotoURL.accesskey             "s">
+<!ENTITY PhotoURL.placeholder           "Įveskite atvaizdo adresą saityne">
 <!ENTITY UpdatePhoto.label              "Atnaujinti">
 <!ENTITY UpdatePhoto.accesskey          "a">
