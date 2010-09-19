@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "и">
 <!ENTITY useSmoothScrolling.label        "Використовувати плавну прокрутку">
 <!ENTITY useSmoothScrolling.accesskey    "и">
+<!ENTITY allowHWAccel.label              "Використовувати апаратне прискорення якщо можливо">
+<!ENTITY allowHWAccel.accesskey          "а">
 <!ENTITY checkSpelling.label             "Перевіряти орфографію при наборі тексту">
 <!ENTITY checkSpelling.accesskey         "е">
 
@@ -49,6 +51,8 @@
 <!ENTITY useCacheAfter.label             "МБ на диску для кешу">
 <!ENTITY clearCacheNow.label             "Очистити зараз">
 <!ENTITY clearCacheNow.accesskey         "ч">
+<!ENTITY smartSizeCache.label            "Дозволити &brandShortName; керувати розміром мого кеша">
+<!ENTITY smartSizeCache.accesskey        "Д">
 
 <!ENTITY updateTab.label                 "Оновлення">
 
