@@ -56,6 +56,8 @@
 <!ENTITY useCacheAfter.label             "MB miejsca dla pamięci podręcznej">
 <!ENTITY clearCacheNow.label             "Wyczyść teraz">
 <!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY smartSizeCache.label            "Program &brandShortName; ma zarządzać rozmiarami pamięci podręcznej">
+<!ENTITY smartSizeCache.accesskey        "z">
 
 <!ENTITY updateTab.label                 "Aktualizacja">
 
