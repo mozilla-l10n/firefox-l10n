@@ -9,8 +9,8 @@
 <!ENTITY listEmpty.search.label               "Nie znaleziono pasujących dodatków">
 <!ENTITY listEmpty.button.label               "Więcej informacji o dodatkach">
 
-<!ENTITY installFromFile.label                "Zainstaluj z pliku…">
-<!ENTITY installFromFile.accesskey            "Z">
+<!ENTITY installAddonFromFile.label           "Zainstaluj dodatek z pliku…">
+<!ENTITY installAddonFromFile.accesskey       "Z">
 
 <!ENTITY toolsMenu.tooltip                    "Narzędzia dla wszystkich dodatków">
 
