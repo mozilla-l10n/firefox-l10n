@@ -90,6 +90,8 @@
 <!ENTITY useCacheAfter.label             "ՄԲ քեշի համար">
 <!ENTITY clearCacheNow.label             "Մաքրել հԻմա">
 <!ENTITY clearCacheNow.accesskey         "Մ">
+<!ENTITY smartSizeCache.label            "Let &brandShortName; manage the size of my cache">
+<!ENTITY smartSizeCache.accesskey        "L">
 
 <!ENTITY updateTab.label                 "Թարմացնել">
 
