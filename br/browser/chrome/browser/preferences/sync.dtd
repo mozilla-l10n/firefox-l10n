@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Kont &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Kont a-vremañ :">
+<!ENTITY currentAccount.label         "Kont vremanel :">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Hizivaat">

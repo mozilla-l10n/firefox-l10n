@@ -137,7 +137,7 @@
 <!ENTITY sort.dateUpdated.tooltip             "Rummañ dre an deiziad hizivadur">
 <!ENTITY sort.relevance.label                 "Kenglotadenn wellañ">
 <!ENTITY sort.relevance.tooltip               "Rummañ dre zereadelezh">
-<!ENTITY sort.price.label                     "Priziañ">
+<!ENTITY sort.price.label                     "Prizadur">
 <!ENTITY sort.price.tooltip                   "Rummañ dre ar prizadur">
 
 <!ENTITY search.filter2.label                 "Klask :">

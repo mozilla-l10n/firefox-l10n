@@ -52,9 +52,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Enrollañ…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "E">
 
-<!ENTITY page.syncKeyBackup.title     "Hoc'h alc'hwez goubredañ evit Firefox">
-<!ENTITY page.syncKeyBackup.descr     "A-benn enrinegañ ho roadennoù personel ez arverer an alc'hwez kuzh-mañ. Ne vo ket kaset d'an dafariad ha n'hallo ket bezañ adtapet. Na gollit ket ha na rannit ket hoc'h alc'hwez gant tud all.">
-
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Mar plij, kadarnait n'oc'h ket ur robot">
 

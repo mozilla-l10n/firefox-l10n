@@ -18,8 +18,6 @@
 <!ENTITY  reloadAllTabs.accesskey            "d">
 <!ENTITY  closeOtherTabs.label               "Serriñ an ivinelloù all">
 <!ENTITY  closeOtherTabs.accesskey           "S">
-<!ENTITY  openTabInNewWindow.label           "Digeriñ e-barzh ur prenestr nevez">
-<!ENTITY  openTabInNewWindow.accesskey       "i">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -33,6 +31,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Dilec'hiañ en ur strollad">
 <!ENTITY  moveToGroup.accesskey              "D">
 <!ENTITY  moveToNewGroup.label               "Strollad nevez">
+<!ENTITY  moveToNewWindow.label              "Dilec'hiañ en ur prenestr nevez">
+<!ENTITY  moveToNewWindow.accesskey          "D">
 <!ENTITY  bookmarkAllTabs.label              "Lakaat ur sined war an holl ivinelloù…">
 <!ENTITY  bookmarkAllTabs.accesskey          "k">
 <!ENTITY  undoCloseTab.label                 "Dizober Serriñ an ivinell">
@@ -134,9 +134,10 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Lañser">
-<!ENTITY  homeButton.label            "D'ar gêr">
-<!ENTITY tabViewButton2.label         "Strolladoù ivinelloù">
-<!ENTITY tabViewButton2.tooltip       "Strollañ hoc'h ivinelloù">
+<!ENTITY homeButton.label             "D'ar gêr">
+
+<!ENTITY tabGroupsButton.label        "Strolladoù ivinelloù">
+<!ENTITY tabGroupsButton.tooltip      "Strollañ hoc'h ivinelloù">
 
 <!ENTITY bookmarksButton.label          "Sinedoù">
 <!ENTITY bookmarksButton.tooltip        "Diskouez ho sinedoù">
@@ -250,8 +251,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Gwelout"> 
 <!ENTITY viewMenu.accesskey       "w"> 
-<!ENTITY showTabView2.label     "Strollañ hoc'h ivinelloù…">
-<!ENTITY showTabView2.accesskey     "S">
+<!ENTITY viewTabGroups.label            "Strolladoù ivinelloù">
+<!ENTITY viewTabGroups.accesskey        "S">
 <!ENTITY viewToolbarsMenu.label       "Barrennoù ostilhoù"> 
 <!ENTITY viewToolbarsMenu.accesskey     "B"> 
 <!ENTITY viewSidebarMenu.label "Barrenn gostez">
