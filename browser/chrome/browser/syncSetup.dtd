@@ -14,8 +14,8 @@
 <!ENTITY server.label               "Tenar">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-tenaren">
 <!ENTITY serverType.custom.label    "Bruk ein annan tenar">
-<!ENTITY signIn.username.label      "Brukarnamn">
-<!ENTITY signIn.username.accesskey  "B">
+<!ENTITY signIn.account.label       "E-postadresse/brukarnamn">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Passord">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.serverURL.label     "Tenar-URL">
@@ -51,10 +51,6 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
 <!ENTITY button.syncKeyBackup.save.label      "Lagre …">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
-
-<!ENTITY page.syncKeyBackup.title     "Firefox Sync-nøkkel">
-<!ENTITY page.syncKeyBackup.descr     "Denne hemmelege nøkkelen vert brukt for å kryptere dine personlige data. Han vert ikkje lasta opp til tenaren, og kan ikkje finnast att om du gløymer han. Ikke mist han eller del han med andre.
-">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Stadfest at du ikkje er ein robot">
