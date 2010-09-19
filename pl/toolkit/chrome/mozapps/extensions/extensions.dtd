@@ -12,6 +12,8 @@
 <!ENTITY installFromFile.label                "Zainstaluj z pliku…">
 <!ENTITY installFromFile.accesskey            "Z">
 
+<!ENTITY toolsMenu.tooltip                    "Narzędzia dla wszystkich dodatków">
+
 <!ENTITY cmd.back.tooltip                     "Przejdź o jedną stronę do przodu">
 <!ENTITY cmd.forward.tooltip                  "Przejdź o jedną stronę wstecz">
 
@@ -35,8 +37,6 @@
 <!ENTITY view.plugins.label                   "Wtyczki">
 <!ENTITY view.recentUpdates.label             "Ostatnie aktualizacje">
 <!ENTITY view.availableUpdates.label          "Dostępne aktualizacje">
-<!ENTITY view.utilites.preferences.tooltip    "Opcje dla wszystkich dodatków">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Preferencje dla wszystkich dodatków">
 
 <!-- addon updates -->
 <!ENTITY updates.updateAddonsNow.label        "Aktualizuj teraz dodatki">
