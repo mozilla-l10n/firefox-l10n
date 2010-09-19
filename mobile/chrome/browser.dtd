@@ -100,5 +100,5 @@
 <!ENTITY pageactions.share.page    "Jaga lehte">
 <!ENTITY pageactions.password.forget "Unusta parool">
 <!ENTITY pageactions.reset         "Kustuta lehe eelistused">
-<!ENTITY pageactions.findInPage    "Leia lehelt">
+<!ENTITY pageactions.findInPage    "Otsi lehelt">
 <!ENTITY pageactions.search.addNew "Lisa otsingumootor">
