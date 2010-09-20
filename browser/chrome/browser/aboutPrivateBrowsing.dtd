@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Inicia la navegació privada">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Per a aturar la navegació privada, seleccioneu &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, o tanqueu el &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "Per a iniciar la navegació privada, podeu també seleccionar &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "Per aturar la navegació privada, seleccioneu &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, o tanqueu el &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Per iniciar la navegació privada, també podeu seleccionar &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Encara que l'ordinador no tindrà cap registre del vostre historial de navegació, el vostre proveïdor d'Internet o el vostre patró sí que podrien conèixer les pàgines que visiteu.">
 <!ENTITY privatebrowsingpage.learnMore                 "Més informació">

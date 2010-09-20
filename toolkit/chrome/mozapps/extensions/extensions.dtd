@@ -50,6 +50,8 @@
 <!ENTITY updates.restart.label                "Reinicia ara per a completar la instal·lació">
 <!ENTITY updates.noneFound.label              "No s'ha trobat cap actualització">
 <!ENTITY updates.manualUpdatesFound.label     "Visualitza les actualitzacions disponibles">
+<!ENTITY updates.updateSelected.label         "Instal·la les actualitzacions">
+<!ENTITY updates.updateSelected.tooltip       "Instal·la les actualitzacions disponibles en aquesta llista">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Mostra més informació">
@@ -117,7 +119,7 @@
 <!ENTITY detail.showPreferencesUnix.tooltip       "Canvia les preferències del complement">
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Puntuació:">
+<!ENTITY rating2.label                         "Puntuació">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
@@ -152,6 +154,8 @@
 <!ENTITY addon.install.tooltip                "Instal·la el complement">
 <!ENTITY addon.updateNow.label                "Actualitza'l ara">
 <!ENTITY addon.updateNow.tooltip              "Instal·la l'actualització del complement">
+<!ENTITY addon.includeUpdate.label            "Inclou en l'actualització">
+<!ENTITY addon.updateAvailable.label          "Hi ha una actualització disponible">
 <!ENTITY addon.checkingForUpdates.label       "S'està comprovant si hi ha actualitzacions…">
 <!ENTITY addon.releaseNotes.label             "Notes de la versió:">
 <!ENTITY addon.loadingReleaseNotes.label      "S'està carregant…">

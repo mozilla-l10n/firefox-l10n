@@ -5,12 +5,9 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "Pàgina d'inici del &brandFullName;">
-<!ENTITY abouthome.brandLogo.title "Logotip del &brandFullName;">
 
 <!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
-
-<!ENTITY abouthome.searchEngineLogo.title "Logotip del motor de cerca">
 
 <!ENTITY abouthome.searchEngineButton.label "Cerca">
 
@@ -18,3 +15,13 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "Preferències">
 
 <!ENTITY abouthome.aboutMozilla "Quant a Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Gràcies per triar el Firefox! Per aconseguir el millor del vostre navegador, informeu-vos sobre les <a>darreres característiques</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "És fàcil personalitzar el vostre Firefox exactament tal i com voleu. <a>Teniu milers de complements d'on triar</a>.">
+

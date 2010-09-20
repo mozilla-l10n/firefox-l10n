@@ -20,10 +20,10 @@
 <!ENTITY  closeOtherTabs.accesskey           "l">
 <!ENTITY  openTabInNewWindow.label           "Obre en una finestra nova">
 <!ENTITY  openTabInNewWindow.accesskey       "f">
-<!ENTITY  pinTab.label                       "Converteix en pestanya d'aplicació">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Converteix en pestanya normal">
-<!ENTITY  unpinTab.accesskey                 "m">
+<!ENTITY  pinAppTab.label                    "Penja com a pestanya d'aplicació">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "Despenja la pestanya">
+<!ENTITY  unpinAppTab.accesskey              "D">
 <!ENTITY  moveToGroup.label                  "Mou al grup">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Grup nou">
@@ -125,6 +125,7 @@
 <!ENTITY bookmarksItem.title "Adreces d'interès">
 
 <!-- Toolbar items --> 
+<!ENTITY appMenuButton.label          "Menú">
 <!ENTITY homeButton.label "Inici">
 <!ENTITY tabViewButton2.label          "Grups de pestanyes">
 <!ENTITY tabViewButton2.tooltip        "Agrupa les vostres pestanyes">
@@ -257,11 +258,13 @@
 <!ENTITY historyUndoMenu.label "Pestanyes tancades recentment">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Finestres tancades recentment">
+<!ENTITY historyRestoreLastSession.label "Restaura la sessió anterior">
 
 <!ENTITY historyHomeCmd.label "Inici">
 <!ENTITY showAllHistoryCmd2.label "Mostra tot l'historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Edita">
 <!ENTITY appMenuCustomize.label "Personalitza">
 <!ENTITY appMenuToolbarLayout.label "Format de la barra d'eines…">
 <!ENTITY appMenuSidebars.label "Barres laterals">
@@ -438,6 +441,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyButton.tooltip "Copia">
 <!ENTITY pasteButton.tooltip "Enganxa">
 <!ENTITY fullScreenButton.tooltip       "Mostra la finestra en pantalla sencera">
+
+<!ENTITY zoomOutButton.tooltip          "Augmenta">
+<!ENTITY zoomInButton.tooltip           "Redueix">
+<!ENTITY zoomControls.label             "Controls del zoom">
+
 <!ENTITY showAllTabsCmd.label "Mostra totes les pestanyes">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
