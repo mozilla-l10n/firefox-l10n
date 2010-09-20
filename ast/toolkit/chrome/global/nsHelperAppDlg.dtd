@@ -38,5 +38,5 @@
 
 <!ENTITY chooseAppFilePickerTitle "Escoyer aplicación auxiliar">
 
-<!ENTITY badApp                 "L'aplicación qu'especificó (&quot;#1&quot;) nun s'alcontró.  Comprebe'l nome del ficheru o seleicione otra aplicación.">
+<!ENTITY badApp                 "L'aplicación qu'especificó (&quot;#1&quot;) nun s'alcontró. Compruebe'l nome del ficheru o seleicione otra aplicación.">
 <!ENTITY badApp.title           "Aplicación non alcontrada">

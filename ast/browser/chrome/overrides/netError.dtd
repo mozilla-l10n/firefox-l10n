@@ -2,18 +2,18 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Fallu cargando páxina">
-<!ENTITY retry.label "Retentar">
+<!ENTITY retry.label "Reintentar">
 
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nun se pue coneutar">
-<!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paez válidu, el restolador nun pudo afitar una conexón</p><ul><li>¿Pue ser que'l sitiu nun tea afayaízu de mou temporal?</li><li>¿Nun pue restolar per otros sitios? Comprebe la conexón de rede del equipu</li><li>¿Ta'l so equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paez válidu, el restolador nun pudo afitar una conexón</p><ul><li>¿Pue ser que'l sitiu nun tea afayaízu de mou temporal?</li><li>¿Nun pue restolar per otros sitios? compruebe la conexón de rede del equipu</li><li>¿Ta'l to equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Esti puertu ta restrinxíu por razones de seguridá">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Direición non alcontrada">
-<!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi quien a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Fexo un error al escribir el dominiu? (p. ex. <q><strong>ww</strong>.mozilla.org</q> n'arróu de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿De xuru esiste esti dominiu?  La so data de rexistru pudo haber caducao.</li><li>¿Nun ye quien a restolar per otros sitios? Comprebe la conexón de rede y la configuración del sirvidor DNS.</li><li>¿Ta'l so equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi quien a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Fexo un error al escribir el dominiu? (p. ex. <q><strong>ww</strong>.mozilla.org</q> n'arróu de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿De xuru esiste esti dominiu?  La so data de rexistru pue tar caducada.</li><li>¿Nun ye quien a restolar per otros sitios? Compruebe la conexón de rede y la configuración del sirvidor DNS.</li><li>¿Ta'l so equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nun s'alcontró el ficheru">
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Ye dable que l'elementu se tenga renomao, desaniciao o camudáu el so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru error al escribir la direición?</li><li>¿Tien privilexos d'accesu suficientes pal elementu solicitáu?</li></ul>">
@@ -23,13 +23,13 @@
 <!ENTITY generic.longDesc "<p>Anguaño nun hai información adicional disponible pa esti problema o error.</p>">
 
 <!ENTITY malformedURI.title "La direición nun ye válida">
-<!ENTITY malformedURI.longDesc "<p>La direición facilitada nun ta nún formatu reconocíu. Comprebe dables fallos na barra de direiciones y torne a tentalo.</p>">
+<!ENTITY malformedURI.longDesc "<p>La direición facilitada nun ta nún formatu reconocíu. Compruebe dables fallos na barra de direiciones y torne a tentalo.</p>">
 
 <!ENTITY netInterrupt.title "Torgóse la conexón">
-<!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse correcho, pero torgóse la conexón mentantu se taba tresfiriendo información. Por favor, torne a tentalo.</p><ul><li>¿Nun pue restolador per otros sitios? Comprebe la conexón de rede del equipu.</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse correcho, pero torgóse la conexón mentanto se taba tresfiriendo información. Por favor, torne a tentalo.</p><ul><li>¿Nun pue restolador per otros sitios? Compruebe la conexón de rede del equipu.</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
 
 <!ENTITY netOffline.title "Mou ensin conexón">
-<!ENTITY netOffline.longDesc "<p>El restolador ta agora en mou ensin conexón y nun pue coneutase al elementu solicitáu</p><ul><li>¿Ta l'equipu coneutáu a una rede activa? </li><li>Ponga'l restolador en mou con conexón y téntelo otra vuelta.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>El restolador ta agora en mou ensin conexón y nun pue coneutase al elementu solicitáu</p><ul><li>¿Ta l'equipu coneutáu a una rede activa? </li><li>Ponga'l restolador en mou con conexón ya inténtelo otra vuelta.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de conteníu">
 <!ENTITY contentEncodingError.longDesc "<p>La páxina que ta tentando de ver nun pue amosase porque usa una forma non válida o non almitía de compresión.</p><ul><li>Por favor, contaute colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul>">
@@ -43,16 +43,16 @@
 <!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse mientres se negociaba una conexón. Por favor, torne a intentalo.</p>">
 
 <!ENTITY netTimeout.title "La conexón caducó">
-<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun retrucó a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando el sirvidor alta demanda o un corte temporal? Torne a tentalo más sero.</li><li>¿Nun pue restolar per otros sitios? Comprebe la conexón de rede del equipu.</li><li>¿Ta'l so equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun retrucó a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando el sirvidor alta demanda o un corte temporal? Torne a tentalo más sero.</li><li>¿Nun pue restolar per otros sitios? Compruebe la conexón de rede del equipu.</li><li>¿Ta'l so equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
 
 <!ENTITY protocolNotFound.title "La direición nun ye entendible">
-<!ENTITY protocolNotFound.longDesc "<p>La direición especifica un protocolu (p.ex. <q>wxyz://</q>) que'l restolador nun reconoz, polo que'l restolador nun se pue coneutar al sitiu correchamente.</p><ul><li>¿Ta tentando acceder a un serviciu multimedia u otru serviciu que nun ye de testu? Comprebe los requisitos adicionales del sitiu.</li><li>Dalgunos protocolos puen necesitar software de terceros o complementos enantes de que'l restolador pueda reconocelos.</li></ul>">
+<!ENTITY protocolNotFound.longDesc "<p>La direición especifica un protocolu (p.ex. <q>wxyz://</q>) que'l restolador nun reconoz, polo que'l restolador nun se pue coneutar al sitiu correchamente.</p><ul><li>¿Ta tentando acceder a un serviciu multimedia u otru serviciu que nun ye de testu? Compruebe los requisitos adicionales del sitiu.</li><li>Dalgunos protocolos puen necesitar software de terceros o complementos enantes de que'l restolador pueda reconocelos.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "El sirvidor proxy ta refugando les conexones">
-<!ENTITY proxyConnectFailure.longDesc "<p>El restolador ta configuráu pa usar un sirvidor proxy, pero'l proxy refugó la conexón.</p><ul><li>¿Ye correuta la configuración del proxy del restolador? Comprebe la configuración y torne a tentalo.</li><li>¿Dexa'l serviciu proxy conexones dende esta rede?</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>El restolador ta configuráu pa usar un sirvidor proxy, pero'l proxy refugó la conexón.</p><ul><li>¿Ye correuta la configuración del proxy del restolador? Compruebe la configuración y torne a tentalo.</li><li>¿Dexa'l serviciu proxy conexones dende esta rede?</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Nun pue alcontrase'l sirvidor proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>El restolador ta configuráu pa usar un sirvidor proxy, pero nun se pudo alcontrar el sirvidor proxy.</p><ul><li>¿Ye correuta la configuración del proxy del restolador? Comprebe la configuración y torne a tentalo.</li><li>¿Ta l'ordenador coneutáu a una rede activa?</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>El restolador ta configuráu pa usar un sirvidor proxy, pero nun se pudo alcontrar el sirvidor proxy.</p><ul><li>¿Ye correuta la configuración del proxy del restolador? Compruebe la configuración y torne a tentalo.</li><li>¿Ta l'ordenador coneutáu a una rede activa?</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
 
 <!ENTITY redirectLoop.title "Bucle de redireición">
 <!ENTITY redirectLoop.longDesc "<p>El restolador detúvose tentando de recuperar el elementu solicitáu. El sitiu ta redirixendo la solicitú d'una forma qu'enxamás se va a completar.</p><ul><li>¿Tien desautivaes o bloquiaes les cookies requeríes por esti sitiu?</li><li><em>NOTA</em>: Si aceutar les cookies del sitiu nun igua'l problema, dablemente ye un problema de configuración del sirvidor y non del so equipu.</li></ul>">
@@ -72,7 +72,7 @@
 <!ENTITY sharedLongDesc "<ul>
   <li>El sitiu podría nun tar disponible temporalmente o enforma ocupáu. Torne a tentalo nun
   intre.</li>
-  <li>Si nun puede cargar denguna páxina, comprebe la conexón de rede del so
+  <li>Si nun puede cargar denguna páxina, compruebe la conexón de rede del so
   equipu.</li>
   <li>Si'l so equipu o rede tán protexíos por un tornafueos o proxy, asegúrese
   de que &brandShortName; tien permisu p'acceder a la Web.</li>

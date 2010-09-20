@@ -35,7 +35,7 @@
 <!ENTITY topInput.accesskey "u">
 <!ENTITY bottomInput.label "Inferior:">
 <!ENTITY bottomInput.accesskey "I">
-<!ENTITY leftInput.label "Esquierda:">
-<!ENTITY leftInput.accesskey "E">
+<!ENTITY leftInput.label "Izquierda:">
+<!ENTITY leftInput.accesskey "z">
 <!ENTITY rightInput.label "Drecha:">
 <!ENTITY rightInput.accesskey "D">

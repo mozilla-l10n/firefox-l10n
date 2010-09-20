@@ -33,14 +33,14 @@
 <!ENTITY marginTop.accesskey "S">
 <!ENTITY marginBottom.label  "Inferior:">
 <!ENTITY marginBottom.accesskey "I">
-<!ENTITY marginLeft.label    "Esquierda:">
-<!ENTITY marginLeft.accesskey "E">
+<!ENTITY marginLeft.label    "Izquierda:">
+<!ENTITY marginLeft.accesskey "z">
 <!ENTITY marginRight.label   "Drecha:">
 <!ENTITY marginRight.accesskey "D">
 
 <!ENTITY headerFooter.label  "Encabezaos y pies">
 
-<!ENTITY hfLeft.label        "Esquierda:">
+<!ENTITY hfLeft.label        "Izquierda:">
 <!ENTITY hfCenter.label      "Centru:">
 <!ENTITY hfRight.label       "Drecha:">
 <!ENTITY headerLeft.tip      "Encabezáu esquierdu">
