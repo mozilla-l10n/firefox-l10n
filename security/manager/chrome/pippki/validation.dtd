@@ -88,13 +88,13 @@
 <!ENTITY  validation.advanced.label               "Պարամետրեր">
 <!ENTITY  validation.advanced.accesskey           "Պ">
 
-<!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">
+<!ENTITY  validation.crl.autoupdate.title         "ԱՎՑ/CRL Ինքնաշխատ Թարմացման Նախընտրանքները">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Այս ԱՎՑ/CRL­ի համար միացնել ինքնաշխատ թարմացում">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Թարմացնել">
-<!ENTITY  validation.crl.autoupdate.time.label2   "Day(s) before Next Update date">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Նախքան հաջորդ թարմացուման ժամկետը ընկած է">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Թարմացնել բոլորը">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Օր(եր)">
-<!ENTITY  validation.crl.autoupdate.url.label     "CRL would be imported From:">
+<!ENTITY  validation.crl.autoupdate.url.label     "ԱՎՑ/CRL­ն կներմուծվեր այստեղից">
 <!ENTITY  crl.import.status.title                 "ԱՎՑ/CRL Ներմուծման կարգավիճակը">
 <!ENTITY  crl.import.success.message              "Արտոնաթղթերի Վավերազրկման Ցուցակը (ԱՎՑ/CRL) հաջողությամբ ներմուծվեց:">
 <!ENTITY  crl.issuer.label                        "ԱՎՑ/CRL­ն տրված է">
