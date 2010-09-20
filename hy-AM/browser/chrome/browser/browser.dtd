@@ -278,8 +278,8 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "Նախըտրանքներ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
-<!ENTITY clearRecentHistory.accesskey           "H">
+<!ENTITY clearRecentHistory.label               "Ջնջել Վերջին Պատմությունը...">
+<!ENTITY clearRecentHistory.accesskey           "Ջ">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Սկսել Գաղտնի Նավարկում">

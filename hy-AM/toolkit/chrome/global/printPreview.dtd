@@ -107,5 +107,5 @@
 
 <!ENTITY homearrow.tooltip    "Առաջին Էջը">
 <!ENTITY endarrow.tooltip     "Վերջին Էջը">
-<!ENTITY nextarrow.tooltip    "Next page">
-<!ENTITY previousarrow.tooltip "Previous page">
+<!ENTITY nextarrow.tooltip    "Հաջորդ Էջը">
+<!ENTITY previousarrow.tooltip "Նախորդ էջը">

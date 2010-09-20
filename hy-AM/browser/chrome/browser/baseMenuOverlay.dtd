@@ -60,8 +60,8 @@
 <!ENTITY helpReleaseNotes.label         "Թողարկման Նշումներ">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
-<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.label      "Դիագնոստիկական տեղեկություն">
+<!ENTITY helpTroubleshootingInfo.accesskey  "Դ">
 
 <!ENTITY helpFeedbackPage.label      "Submit Feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
