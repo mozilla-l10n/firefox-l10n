@@ -18,8 +18,6 @@
 <!ENTITY  reloadAllTabs.accesskey            "d">
 <!ENTITY  closeOtherTabs.label               "Lat att andre faner">
 <!ENTITY  closeOtherTabs.accesskey           "a">
-<!ENTITY  openTabInNewWindow.label           "Opne i eit nytt vindauge">
-<!ENTITY  openTabInNewWindow.accesskey       "e">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -33,6 +31,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Flytt til gruppe">
 <!ENTITY  moveToGroup.accesskey              "F">
 <!ENTITY  moveToNewGroup.label               "Ny gruppe">
+<!ENTITY  moveToNewWindow.label              "Flytt til nytt vindauge">
+<!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle fanene …">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  undoCloseTab.label                 "Angre attlating av fane">
@@ -134,9 +134,10 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Meny">
-<!ENTITY  homeButton.label            "Startside">
-<!ENTITY tabViewButton2.label         "Fanegrupper">
-<!ENTITY tabViewButton2.tooltip       "Legg fanene dine i grupper">
+<!ENTITY homeButton.label             "Startside">
+
+<!ENTITY tabGroupsButton.label        "Fanegrupper">
+<!ENTITY tabGroupsButton.tooltip      "Grupper fanene dine">
 
 <!ENTITY bookmarksButton.label          "Bokmerke">
 <!ENTITY bookmarksButton.tooltip        "Vis bokmerka dine">
@@ -250,8 +251,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Vis"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY showTabView2.label     "Grupper fanene dine …">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY viewTabGroups.label            "Fanegrupper">
+<!ENTITY viewTabGroups.accesskey        "F">
 <!ENTITY viewToolbarsMenu.label       "Verktøylinjer"> 
 <!ENTITY viewToolbarsMenu.accesskey     "V"> 
 <!ENTITY viewSidebarMenu.label "Sidestolpe">
