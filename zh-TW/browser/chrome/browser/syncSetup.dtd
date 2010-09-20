@@ -52,9 +52,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "儲存…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!ENTITY page.syncKeyBackup.title     "您的 Firefox 同步金鑰">
-<!ENTITY page.syncKeyBackup.descr     "這把金鑰是用來加密您的個人資料，這將不會被上傳到伺服器也無法被找回。請務必不要搞丟它，也不要把它分享給其他人。">
-
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "請確認您不是來亂的機器人">
 

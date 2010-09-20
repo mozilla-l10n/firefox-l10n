@@ -9,6 +9,7 @@
 <!ENTITY listEmpty.button.label               "取得更多有關附加元件的消息">
 <!ENTITY installAddonFromFile.label           "從檔案安裝附加元件…">
 <!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "所有附加元件的工具">
 
 <!ENTITY cmd.back.tooltip                     "回到上一頁">
 <!ENTITY cmd.forward.tooltip                  "到下一頁">
@@ -32,8 +33,6 @@
 <!ENTITY view.plugins.label                   "外掛程式">
 <!ENTITY view.recentUpdates.label             "最近的更新">
 <!ENTITY view.availableUpdates.label          "可用的更新">
-<!ENTITY view.utilites.preferences.tooltip    "所有附加元件的選項">
-<!ENTITY view.utilites.preferencesUnix.tooltip "所有附加元件的偏好設定">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "檢查更新">
