@@ -15,7 +15,7 @@
 <!ENTITY manageAccount.label          "Gestiona el compte">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY changePassword.label         "Canvia la contrasenya">
-<!ENTITY changePassphrase.label       "Canvia la frase secreta">
+<!ENTITY mySyncKey.label              "La meva clau de sincronització">
 <!ENTITY resetSync.label              "Reinicia la sincronització">
 <!ENTITY differentAccount.label       "Utilitza un compte diferent">
 
@@ -23,21 +23,18 @@
 <!ENTITY syncPrefsCaption.label       "Sincronització del navegador">
 <!ENTITY syncComputerName.label       "Nom de l'ordinador:">
 <!ENTITY syncComputerName.accesskey   "o">
-<!ENTITY syncModeSwitchDesc.label     "El &brandShortName;: ">
-<!ENTITY syncModeSwitchDesc.accesskey "l">
-<!ENTITY syncEverything.label         "ho sincronitzarà tot">
-<!ENTITY customSync.label             "utilitzarà els meus paràmetres personalitzats">
-<!ENTITY syncEverythingDescription.label  "Se sincronitzaran les vostres adreces d'interès, historial, contrasenyes, preferències i pestanyes.">
-<!ENTITY syncItem.bookmarks.label     "Sincronitza les adreces d'interès">
-<!ENTITY syncItem.bookmarks.accesskey "d">
-<!ENTITY syncItem.tabs.label          "Sincronitza les pestanyes">
-<!ENTITY syncItem.tabs.accesskey      "t">
-<!ENTITY syncItem.history.label       "Sincronitza l'historial">
-<!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Sincronitza les contrasenyes">
-<!ENTITY syncItem.passwords.accesskey "c">
-<!ENTITY syncItem.prefs.label         "Sincronitza les preferències">
-<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!ENTITY syncMy.label               "Sincronitza les meves">
+<!ENTITY engine.bookmarks.label     "adreces d'interès">
+<!ENTITY engine.bookmarks.accesskey "d">
+<!ENTITY engine.tabs.label          "Pestanyes">
+<!ENTITY engine.tabs.accesskey      "t">
+<!ENTITY engine.history.label       "Historial">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Contrasenyes">
+<!ENTITY engine.passwords.accesskey "y">
+<!ENTITY engine.prefs.label         "Preferències">
+<!ENTITY engine.prefs.accesskey     "s">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termes del servei">
