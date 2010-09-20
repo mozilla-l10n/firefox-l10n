@@ -135,8 +135,9 @@ can reach it easily. -->
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menú">
 <!ENTITY homeButton.label             "Inicio">
-<!ENTITY tabViewButton2.label         "Grupos de pestañas">
-<!ENTITY tabViewButton2.tooltip       "Agrupar pestañas">
+
+<!ENTITY tabGroupsButton.label        "Grupos de pestañas">
+<!ENTITY tabGroupsButton.tooltip      "Agrupar pestañas">
 
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
@@ -251,8 +252,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY showTabView2.label     "Agrupar pestañas…">
-<!ENTITY showTabView2.accesskey     "g">
+<!ENTITY viewTabGroups.label            "Grupos de pestañas">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "t">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
