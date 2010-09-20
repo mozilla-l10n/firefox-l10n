@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privee sneupe)">
 
 <!-- Tab context menu -->
-<!ENTITY newTab.label           		"Nij ljepblêd">
-<!ENTITY newTab.accesskey       		"N">
 <!ENTITY reloadTab.label        		"Ljepblêd op 'e nij lade">
 <!ENTITY reloadTab.accesskey       		"n">
 <!ENTITY reloadAllTabs.label    		"Alle ljepblêden op 'e nij lade">
@@ -22,8 +20,19 @@
 <!ENTITY closeOtherTabs.label   		"Slút oare ljepblêden">
 <!ENTITY openTabInNewWindow.label		"Iepenje yn in nij skerm">
 <!ENTITY openTabInNewWindow.accesskey	"s">
-<!ENTITY bookmarkThisTab.label        	"Blêdwizer meitsje fan dit ljepblêd">
-<!ENTITY bookmarkThisTab.accesskey    	"D">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY pinAppTab.label                "Pin as App-ljepblêd">
+<!ENTITY pinAppTab.accesskey            "P">
+<!ENTITY unpinAppTab.label              "Unpin ljepblêd">
+<!ENTITY unpinAppTab.accesskey          "b">
+<!ENTITY moveToGroup.label              "Ferpleats nei groep">
+<!ENTITY moveToGroup.accesskey          "F">
+<!ENTITY moveToNewGroup.label           "Nije groep">
 <!ENTITY bookmarkAllTabs.label       	"Blêdwizer meitsje fan alle ljepblêden">
 <!ENTITY bookmarkAllTabs.accesskey   	"B">
 <!ENTITY undoCloseTab.label          	"Ljepblêd slute ûngedien meitsje">
@@ -77,7 +86,7 @@
 <!ENTITY showAllTabsCmd.accesskey "T">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalisearje ">
-<!ENTITY fullScreenRestore.tooltip "Ferhelpe">
+<!ENTITY fullScreenRestore.tooltip "Maksimalisearje">
 <!ENTITY fullScreenClose.tooltip "Slute">
 <!ENTITY fullScreenAutohide.label "Ferstopje arkbalken">
 <!ENTITY fullScreenAutohide.accesskey "A">
@@ -94,7 +103,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Abonnearje op dizze side">
 <!ENTITY subscribeToPageMenuitem.label "Abonnearje op dizze side...">
 <!ENTITY addCurPagesCmd.label         "Blêdwizer foar alle ljepblêden meitsje...">
-<!ENTITY organizeBookmarks.label 	"Organisearje blêdwizers...">
+<!ENTITY showAllBookmarks.label 	  "Toan alle blêdwizers…">
 <!ENTITY bookmarkAllCmd.label 		  "Blêdwizer foar alle ljepblêden meitsje...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Toan mear blêdwizers">
 
@@ -117,18 +126,28 @@
 <!ENTITY printButton.label            "Ofdrukke">
 <!ENTITY printButton.tooltip          "Dizze side ôfdrukke">
 
+<!ENTITY backForwardItem.title        "Tebek/Foarút">
 <!ENTITY locationItem.title           "Lokaasje">
 <!ENTITY searchItem.title             "Sykje">
 <!ENTITY throbberItem.title           "Aktiviteitsyndikator">
 <!ENTITY bookmarksItem.title          "Blêdwizers">
 
 <!-- Toolbar items --> 
+<!ENTITY appMenuButton.label          "Menu">
 <!ENTITY  homeButton.label            "Begjinside">
+<!ENTITY tabViewButton2.label         "Ljepblêdgroepen">
+<!ENTITY tabViewButton2.tooltip       "Groepearje jo ljepblêden">
 
 <!ENTITY bookmarksButton.label          "Blêdwizers">
-<!ENTITY bookmarksButton.tooltip        "Jo blêdwizers sjen litte">
+<!ENTITY bookmarksButton.tooltip        "Jo blêdwizers toane">
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Blêdwizers">
+<!ENTITY bookmarksMenuButton.tooltip        "Jo blêdwizers toane">
+<!ENTITY viewBookmarksSidebar.label         "Toan yn sidebalke">
+<!ENTITY viewBookmarksToolbar.label         "Toan blêdwizers arkbalke">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -154,14 +173,36 @@
 <!ENTITY downloadsUnix.commandkey     "Y">
 <!ENTITY addons.label 	              "Tafoegings">
 <!ENTITY addons.accesskey             "E">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Flaterkonsole">
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY webConsoleCmd.label          "Webkonsole">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
 <!ENTITY inspectMenu.label            "Ynspeksje">
 <!ENTITY inspectMenu.accesskey        "Y">
 <!ENTITY inspectMenu.commandkey       "Y">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Ynspektearje">
+<!ENTITY inspectButton.accesskey      "Y">
+<!ENTITY inspectNextButton.label      "Folgjende">
+<!ENTITY inspectNextButton.accesskey  "F">
+<!ENTITY inspectPreviousButton.label  "Foarige">
+<!ENTITY inspectPreviousButton.accesskey "r">
+<!ENTITY inspectStyleButton.label     "Styl">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Styl">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Objekt">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label               "Bestân"> 
 <!ENTITY fileMenu.accesskey           "B">
@@ -209,6 +250,8 @@
 
 <!ENTITY viewMenu.label               "Byld"> 
 <!ENTITY viewMenu.accesskey           "L"> 
+<!ENTITY showTabView2.label     "Groepearje jo ljepblêden…">
+<!ENTITY showTabView2.accesskey     "G">
 <!ENTITY viewToolbarsMenu.label       "Arkbalken"> 
 <!ENTITY viewToolbarsMenu.accesskey   "A"> 
 <!ENTITY viewSidebarMenu.label        "Sidebalke">
@@ -223,16 +266,21 @@
 <!ENTITY historyUndoMenu.label "Koartlyn sluten ljepblêden">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Koartlyn sluten skermen">
+<!ENTITY historyRestoreLastSession.label "Werstel foargeande sesje">
 
 <!ENTITY historyHomeCmd.label "Begjinside">
 <!ENTITY showAllHistoryCmd2.label "Toan alle skiednis">
 <!ENTITY showAllHistoryCmd.commandkey "s">
 
-<!ENTITY appMenuPrintCmd.label "Ofdrukke">
+<!ENTITY appMenuEdit.label "Bewurkje">
 <!ENTITY appMenuCustomize.label "Oanpasse">
 <!ENTITY appMenuToolbarLayout.label "Arkbalke úterlik…">
 <!ENTITY appMenuSidebars.label "Sydbalken">
-<!ENTITY appMenuHelp.label "Help">
+<!ENTITY appMenuFind.label "Fyn…">
+<!ENTITY appMenuUnsorted.label "Net sortearre blêdwizers">
+<!ENTITY appMenuGettingStarted.label "Om te starten">
+
+<!ENTITY developerMenu.label "Untwikkeler">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gean nei in webside">
@@ -264,16 +312,16 @@
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!ENTITY openLinkCmdInTab.label       "Keppeling yn nij ljepblêd iepenje">
+<!ENTITY openLinkCmdInTab.accesskey   "l">
 <!ENTITY openLinkCmd.label            "Keppeling yn nij finster iepenje">
 <!ENTITY openLinkCmd.accesskey        "f">
 <!ENTITY openLinkCmdInCurrent.label     "Keppeling iepenje ">
 <!ENTITY openLinkCmdInCurrent.accesskey "K">
-<!ENTITY openLinkCmdInTab.label       "Keppeling yn nij ljepblêd iepenje">
-<!ENTITY openLinkCmdInTab.accesskey   "l">
-<!ENTITY openFrameCmd.label           "Dielfinster yn nij finster iepenje">
-<!ENTITY openFrameCmd.accesskey       "f">
 <!ENTITY openFrameCmdInTab.label      "Dielfinster yn nij ljepblêd iepenje">
 <!ENTITY openFrameCmdInTab.accesskey  "l">
+<!ENTITY openFrameCmd.label           "Dielfinster yn nij finster iepenje">
+<!ENTITY openFrameCmd.accesskey       "f">
 <!ENTITY showOnlyThisFrameCmd.label     "Allinnich dit dielfinster sjen litte">
 <!ENTITY showOnlyThisFrameCmd.accesskey "d">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -347,7 +395,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopiearje audiolokaasje">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey       "b">
 <!ENTITY copyEmailCmd.label           "E-mailadres kopiearje">
 <!ENTITY copyEmailCmd.accesskey       "m">
 <!ENTITY thisFrameMenu.label              "Dit dielfinster">
@@ -404,7 +451,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Knippe">
 <!ENTITY copyButton.tooltip             "Kopiearje">
 <!ENTITY pasteButton.tooltip            "Plakke">
+
 <!ENTITY fullScreenButton.tooltip       "Toan it finster yn folslein skerm">
+
+<!ENTITY zoomOutButton.tooltip          "Utzoome">
+<!ENTITY zoomInButton.tooltip           "Ynzoome">
+<!ENTITY zoomControls.label             "Zoomknoppen">
 
 <!ENTITY quitApplicationCmdWin.label       "Ofslute">
 <!ENTITY quitApplicationCmdWin.accesskey   "O">
@@ -451,7 +503,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "Wurdboeken tafoegje...">
+<!ENTITY spellAddDictionaries.label "Wurdboeken tafoegje…">
 <!ENTITY spellAddDictionaries.accesskey "W">
 
 <!ENTITY editBookmark.done.label                      "Bewarje">
@@ -462,7 +514,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.edit.label                     "Bewurkje...">
 <!ENTITY editBookmark.edit.accessKey                 "E">
 
-<!ENTITY identity.unverifiedsite2 "Dizze webstee jout gjin identiteitsynformaasje.">
+<!ENTITY identity.unverifiedsite2 "Dit webstee jout gjin identiteitsynformaasje.">
 <!ENTITY identity.connectedTo "Jo binne ferbûn mei">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -485,3 +537,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Browserljepblêden">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Ljepblêden fan oare kompjûters">
+
+<!ENTITY syncBrand.shortName.label    "Sync">
+
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; ynstelle…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "Sync no">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sync">
