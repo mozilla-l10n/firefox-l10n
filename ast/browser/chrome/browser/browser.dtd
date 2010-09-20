@@ -113,10 +113,10 @@
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Hestorial">
+<!ENTITY historyButton.label            "Historial">
 <!ENTITY historyButton.tooltip          "Amosar páxines que viste hai pocu.">
 <!ENTITY historySidebarCmd.accesskey    "s">
-<!ENTITY historySidebarCmd.commandKey   "h">
+<!ENTITY historySidebarCmd.commandKey   "a">
 
 <!ENTITY toolsMenu.label              "Ferramientes">
 <!ENTITY toolsMenu.accesskey          "F"> 
@@ -172,7 +172,7 @@
 <!ENTITY preferencesCmdUnix.label       "Preferencies">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Llimpiar l'hestorial reciente">
+<!ENTITY clearRecentHistoryCmd.label            "Llimpiar l'historial reciente">
 <!ENTITY clearRecentHistoryCmd.accesskey        "h">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
@@ -191,20 +191,20 @@
 <!ENTITY viewCustomizeToolbar.label       "Personalizar…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
-<!ENTITY historyMenu.label "Hestorial">
+<!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Llingüetes zarraes de recién">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanes zarraes de recién">
 
 <!ENTITY historyHomeCmd.label "Entamu">
-<!ENTITY showAllHistoryCmd2.label "Amosar tol hestorial">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY showAllHistoryCmd2.label "Amosar tol historial">
+<!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Guetar en marcadores ya hestorial">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Guetar en marcadores ya historial">
 <!ENTITY urlbar.bookmark.emptyText    "Guetar marcadores">
-<!ENTITY urlbar.history.emptyText     "Hestorial de gueta">
+<!ENTITY urlbar.history.emptyText     "Historial de gueta">
 <!ENTITY urlbar.none.emptyText        "Introduz una direición Web">
 <!ENTITY urlbar.accesskey             "d">
 

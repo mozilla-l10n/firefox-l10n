@@ -1,5 +1,5 @@
-<!ENTITY sanitizePrefs2.title          "Axustes pa la llimpieza d'hestorial">
-<!ENTITY sanitizeDialog2.title         "Llimpiar l'hestorial reciente">
+<!ENTITY sanitizePrefs2.title          "Axustes pa la llimpieza d'historial">
+<!ENTITY sanitizeDialog2.title         "Llimpiar l'historial reciente">
 
 <!ENTITY sanitizeItems.label          "Vaciar agora los siguientes elementos:">
 <!ENTITY clearDataSettings2.label     "Cuando zarre &brandShortName;, tendría de llimpiase automáticamente:">
@@ -26,17 +26,17 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detalles">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
-<!ENTITY historySection.label         "Hestorial">
+<!ENTITY historySection.label         "Historial">
 <!ENTITY dataSection.label            "Datos">
 
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Hestorial de navegación y descargues">
+<!ENTITY itemHistoryAndDownloads.label     "Historial de navegación y descargues">
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
-<!ENTITY itemBrowsingHistory.label         "Hestorial">
+<!ENTITY itemBrowsingHistory.label         "Historial">
 <!ENTITY itemBrowsingHistory.accesskey     "H">
-<!ENTITY itemFormSearchHistory.label       "Formularios guardaos y hestorial de guetes">
+<!ENTITY itemFormSearchHistory.label       "Formularios guardaos y historial de guetes">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Contraseñes guardaes">
 <!ENTITY itemPasswords.accesskey           "C">
@@ -46,7 +46,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Datos de sitios web ensin conexón">
 <!ENTITY itemOfflineApps.accesskey         "o">
-<!ENTITY itemDownloadHistory.label         "Hestorial de descargues">
+<!ENTITY itemDownloadHistory.label         "Historial de descargues">
 <!ENTITY itemDownloadHistory.accesskey     "d">
 <!ENTITY itemActiveLogins.label            "Sesiones actives">
 <!ENTITY itemActiveLogins.accesskey        "S">

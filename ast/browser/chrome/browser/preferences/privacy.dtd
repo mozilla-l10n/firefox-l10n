@@ -1,4 +1,4 @@
-<!ENTITY  history.label                 "Hestorial">
+<!ENTITY  history.label                 "Historial">
 
 <!ENTITY  locationBar.label             "Barra de direiciones">
 
@@ -33,28 +33,28 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; podría:">
 <!ENTITY  historyHeader.pre.accesskey      "p">
-<!ENTITY  historyHeader.remember.label     "Remembrar l'hestorial">
-<!ENTITY  historyHeader.dontremember.label "Nun remembrar hestorial">
-<!ENTITY  historyHeader.custom.label       "Usar una configuración personalizada pal hestorial">
+<!ENTITY  historyHeader.remember.label     "Remembrar l'historial">
+<!ENTITY  historyHeader.dontremember.label "Nun remembrar historial">
+<!ENTITY  historyHeader.custom.label       "Usar una configuración personalizada pal historial">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; remembrará'l to hestorial de navegación, descargues, formularios y guetes, y atroxará tamién cookies de los sitios Web que visites.">
+<!ENTITY  rememberDescription.label      "&brandShortName; remembrará'l to historial de navegación, descargues, formularios y guetes, y atroxará tamién cookies de los sitios Web que visites.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "También podrí­a ">
-<!ENTITY  rememberActions.clearHistory.label  "llimpiar el so hestorial reciente">
+<!ENTITY  rememberActions.clearHistory.label  "llimpiar el so historial reciente">
 <!ENTITY  rememberActions.middle.label        ", o ">
 <!ENTITY  rememberActions.removeCookies.label "desaniciar cookies de mou individual">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; usará la mesma configuración que navegación privao, y nun remembrará dengún datu del so hestorial mientres restole pela Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; usará la mesma configuración que navegación privao, y nun remembrará dengún datu del so historial mientres restole pela Web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "Tamién podría interesa-y ">
-<!ENTITY  dontrememberActions.clearHistory.label "llimpiar tol hestorial">
+<!ENTITY  dontrememberActions.clearHistory.label "llimpiar tol historial">
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingAutoStart.label "Abrir automáticamente &brandShortName; nuna sesión de navegación privao">
@@ -66,17 +66,17 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "Remembrar l'hestorial de gueta a lo menos">
+<!ENTITY  rememberHistory.pre.label      "Remembrar l'historial de gueta a lo menos">
 <!ENTITY  rememberHistory.pre.accesskey  "b">
 <!ENTITY  rememberHistory.post.label     "díes">
 
-<!ENTITY  rememberDownload.label         "Remembrar l'hestorial de descargues">
+<!ENTITY  rememberDownload.label         "Remembrar l'historial de descargues">
 <!ENTITY  rememberDownload.accesskey     "d">
 
-<!ENTITY  rememberSearchForm.label       "Remembrar l'hestorial de formularios y guetes">
+<!ENTITY  rememberSearchForm.label       "Remembrar l'historial de formularios y guetes">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Llimpiar l'hestorial cuando &brandShortName; se zarre">
+<!ENTITY  clearOnClose.label             "Llimpiar l'historial cuando &brandShortName; se zarre">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "Configuración…">

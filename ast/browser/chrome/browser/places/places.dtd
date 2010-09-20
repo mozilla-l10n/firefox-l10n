@@ -27,7 +27,7 @@
 <!ENTITY view.sortDescending.accesskey  "Z">
 <!ENTITY help.usingBookmarks.label      "Usar los marcadores">
 <!ENTITY help.usingBookmarks.accesskey  "m">
-<!ENTITY help.usingHistory.label        "Usar l'hestorial">
+<!ENTITY help.usingHistory.label        "Usar l'historial">
 <!ENTITY help.usingHistory.accesskey    "h">
 <!ENTITY help.advancedTips.label        "Conseyos y trucos avanzaos">
 <!ENTITY help.advancedTips.accesskey    "t">

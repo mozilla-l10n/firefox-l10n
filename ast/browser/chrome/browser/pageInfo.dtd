@@ -112,7 +112,7 @@
 <!ENTITY  securityView.identity.domain   "Sitiu web:">
 <!ENTITY  securityView.identity.verifier "Verificáu por:">
 
-<!ENTITY  securityView.privacy.header                   "Privacidá y hestorial">
+<!ENTITY  securityView.privacy.header                   "Privacidá ya historial">
 <!ENTITY  securityView.privacy.history                  "¿Tien visitao esti sitiu web enantes?">
 <!ENTITY  securityView.privacy.cookies                  "¿Esti sitiu ta atroxando información (cookies) nesti equipu?">
 <!ENTITY  securityView.privacy.viewCookies              "Adicar cookies">
