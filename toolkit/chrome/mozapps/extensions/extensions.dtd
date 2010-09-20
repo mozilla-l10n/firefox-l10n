@@ -93,8 +93,8 @@
   
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Ferzje">
-<!ENTITY detail.updated.label                 "Bywurke">
-<!ENTITY detail.creator.label                 "Untwikkelaar">
+<!ENTITY detail.lastupdated.label             "Lêsty bywurke">
+<!ENTITY detail.creator.label                 "Untwikkeler">
 <!ENTITY detail.homepage.label                "Thússide">
 <!ENTITY detail.numberOfDownloads.label       "Oantal kear ynladen">
 
@@ -140,7 +140,7 @@
 <!ENTITY sort.price.label                     "Priis">
 <!ENTITY sort.price.tooltip                   "Sortearje op priis">
 
-<!ENTITY search.filte2r.label                  "Sykje:">
+<!ENTITY search.filter2.label                  "Sykje:">
 <!ENTITY search.filter2.installed.label        "Myn Tafoegings">
 <!ENTITY search.filter2.installed.tooltip     "Toan ynstallearre tafoegings">
 <!ENTITY search.filter2.available.label        "Beskikbere Tafoegings">
