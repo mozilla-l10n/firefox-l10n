@@ -18,8 +18,6 @@
 <!ENTITY reloadAllTabs.accesskey   		"A">
 <!ENTITY closeOtherTabs.accesskey  		"S">
 <!ENTITY closeOtherTabs.label   		"Slút oare ljepblêden">
-<!ENTITY openTabInNewWindow.label		"Iepenje yn in nij skerm">
-<!ENTITY openTabInNewWindow.accesskey	"s">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -33,6 +31,8 @@ can reach it easily. -->
 <!ENTITY moveToGroup.label              "Ferpleats nei groep">
 <!ENTITY moveToGroup.accesskey          "F">
 <!ENTITY moveToNewGroup.label           "Nije groep">
+<!ENTITY moveToNewWindow.label          "Ferpleats nei nij finster">
+<!ENTITY moveToNewWindow.accesskey      "f">
 <!ENTITY bookmarkAllTabs.label       	"Blêdwizer meitsje fan alle ljepblêden">
 <!ENTITY bookmarkAllTabs.accesskey   	"B">
 <!ENTITY undoCloseTab.label          	"Ljepblêd slute ûngedien meitsje">
@@ -134,9 +134,10 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY  homeButton.label            "Begjinside">
-<!ENTITY tabViewButton2.label         "Ljepblêdgroepen">
-<!ENTITY tabViewButton2.tooltip       "Groepearje jo ljepblêden">
+<!ENTITY homeButton.label            "Begjinside">
+
+<!ENTITY tabGroupsButton.label        "Ljepblêdgroepen">
+<!ENTITY tabGroupsButton.tooltip      "Groepearje jo ljepblêden">
 
 <!ENTITY bookmarksButton.label          "Blêdwizers">
 <!ENTITY bookmarksButton.tooltip        "Jo blêdwizers toane">
@@ -249,9 +250,9 @@ can reach it easily. -->
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label               "Byld"> 
-<!ENTITY viewMenu.accesskey           "L"> 
-<!ENTITY showTabView2.label     "Groepearje jo ljepblêden…">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY viewMenu.accesskey           "B"> 
+<!ENTITY viewTabGroups.label          "Ljepblêdgroepen">
+<!ENTITY viewTabGroups.accesskey      "L">
 <!ENTITY viewToolbarsMenu.label       "Arkbalken"> 
 <!ENTITY viewToolbarsMenu.accesskey   "A"> 
 <!ENTITY viewSidebarMenu.label        "Sidebalke">

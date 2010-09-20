@@ -14,8 +14,8 @@
 <!ENTITY server.label               "Tsjinner">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-tsjinner">
 <!ENTITY serverType.custom.label    "Brûk in eigen tsjinner">
-<!ENTITY signIn.username.label      "Brûkersnamme">
-<!ENTITY signIn.username.accesskey  "B">
+<!ENTITY signIn.account.label       "E-mailadres / Brûkersnamme">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Wachtwurd">
 <!ENTITY signIn.password.accesskey  "W">
 <!ENTITY signIn.serverURL.label     "Tsjinner-URL">
