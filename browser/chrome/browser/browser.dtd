@@ -18,8 +18,6 @@
 <!ENTITY  reloadAllTabs.accesskey            "a">
 <!ENTITY  closeOtherTabs.label               "關閉其他分頁">
 <!ENTITY  closeOtherTabs.accesskey           "o">
-<!ENTITY  openTabInNewWindow.label           "用新視窗開啟">
-<!ENTITY  openTabInNewWindow.accesskey       "w">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -33,6 +31,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "移動到群組">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "新群組">
+<!ENTITY  moveToNewWindow.label              "移動到新視窗">
+<!ENTITY  moveToNewWindow.accesskey          "w">
 <!ENTITY  bookmarkAllTabs.label              "將所有分頁加入書籤…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "復原已關閉分頁">
@@ -134,9 +134,10 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "選單">
-<!ENTITY  homeButton.label            "首頁">
-<!ENTITY tabViewButton2.label         "分頁群組">
-<!ENTITY tabViewButton2.tooltip       "將您的分頁進行分組">
+<!ENTITY homeButton.label             "首頁">
+
+<!ENTITY tabGroupsButton.label        "分頁群組">
+<!ENTITY tabGroupsButton.tooltip      "對您的分頁進行分組">
 
 <!ENTITY bookmarksButton.label          "書籤">
 <!ENTITY bookmarksButton.tooltip        "顯示您的書籤">
@@ -250,8 +251,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "檢視"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY showTabView2.label     "分類您的分頁…">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY viewTabGroups.label            "分頁群組">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "工具列"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "側邊欄">
