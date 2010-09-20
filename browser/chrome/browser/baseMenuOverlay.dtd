@@ -24,8 +24,8 @@
 <!ENTITY helpTroubleshootingInfo.label      "Вирішення проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey  "В">
 
-<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpFeedbackPage.label      "Надіслати відгук…">
+<!ENTITY helpFeedbackPage.accesskey  "Н">
 
 <!ENTITY updateCmd.label                "Перевірити наявність оновлень…">
 
