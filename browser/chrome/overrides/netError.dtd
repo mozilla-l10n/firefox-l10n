@@ -54,10 +54,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Nedkopplat läge">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Avmarkera &#8221;Arbeta nedkopplad&#8221; i Arkiv-menyn och försök
-    igen.</li>
+  <li>Avmarkera &#8221;Arbeta nedkopplad&#8221; och försök igen.</li>
 </ul>
 ">
 
