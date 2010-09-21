@@ -37,13 +37,13 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY addons.windowTitle                   "Add-ons Manager">
+<!ENTITY addons.windowTitle                   "Հավելումների մենեջեր">
 <!ENTITY search.placeholder                   "Search all add-ons">
 <!ENTITY loading.label                        "Loading…">
 <!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
 <!ENTITY listEmpty.availableUpdates.label     "No updates found">
-<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
-<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+<!ENTITY listEmpty.recentUpdates.label        "Վերջին ժամանակներում դուք չեք թարմացրել որևէ հավելում">
+<!ENTITY listEmpty.findUpdates.label          "Ստուգվում է թարմացումները">
 <!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
 <!ENTITY listEmpty.button.label               "Learn more about add-ons">
 <!ENTITY installAddonFromFile.label           "Install Add-on From File…">
@@ -68,16 +68,16 @@
 <!ENTITY view.locales.label                   "Languages">
 <!ENTITY view.searchengines.label             "Search Engines">
 <!ENTITY view.features.label                  "Extensions">
-<!ENTITY view.appearance2.label               "Appearance">
+<!ENTITY view.appearance2.label               "Տեսքը">
 <!ENTITY view.plugins.label                   "Plugins">
-<!ENTITY view.recentUpdates.label             "Recent Updates">
-<!ENTITY view.availableUpdates.label          "Available Updates">
+<!ENTITY view.recentUpdates.label             "Վերջին Թարմացումները">
+<!ENTITY view.availableUpdates.label          "Առկա Թարմացումներ">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Check for Updates">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "View Recent Updates">
-<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.viewUpdates.label            "Տեսնել Վերջին Թարմացումները">
+<!ENTITY updates.viewUpdates.accesskey        "Տ">
 <!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
@@ -88,9 +88,9 @@
 <!ENTITY updates.installed.label              "Your add-ons have been updated.">
 <!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
 <!ENTITY updates.restart.label                "Restart now to complete installation">
-<!ENTITY updates.noneFound.label              "No updates found">
-<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
-<!ENTITY updates.updateSelected.label         "Install Updates">
+<!ENTITY updates.noneFound.label              "Թարմացում չի գտնվել">
+<!ENTITY updates.manualUpdatesFound.label     "Տեսնել Առկա Թարմացումները">
+<!ENTITY updates.updateSelected.label         "Տեղադրել Թարմացումներ">
 <!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
 
 <!-- addon actions -->
@@ -98,12 +98,12 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Find Updates">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "Options">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesWin.label             "Հատկանիշներ">
+<!ENTITY cmd.preferencesWin.accesskey         "Հ">
 <!ENTITY cmd.preferencesUnix.label            "Preferences">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "About">
-<!ENTITY cmd.about.accesskey                  "A">
+<!ENTITY cmd.about.label                      "Մասին">
+<!ENTITY cmd.about.accesskey                  "Մ">
 
 <!ENTITY cmd.enableAddon.label                "Enable">
 <!ENTITY cmd.enableAddon.accesskey            "E">
@@ -115,32 +115,32 @@
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.installAddon.label               "Install">
 <!ENTITY cmd.installAddon.accesskey           "I">
-<!ENTITY cmd.uninstallAddon.label             "Remove">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "Options">
+<!ENTITY cmd.uninstallAddon.label             "Հեռացնել">
+<!ENTITY cmd.uninstallAddon.accesskey         "Հ">
+<!ENTITY cmd.showPreferencesWin.label         "Հատկանիշներ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferences">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Change this add-on's preferences">
-<!ENTITY cmd.contribute.label                 "Contribute">
-<!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
+<!ENTITY cmd.contribute.label                 "Ներդրում">
+<!ENTITY cmd.contribute.accesskey             "Ն">
+<!ENTITY cmd.contribute.tooltip               "Օգնել այս հավելման զարգացմանը">
 
-<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
-<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
+<!ENTITY cmd.showReleaseNotes.label           "Ցուցադրել Թողարկման Նշումները">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Ցուցադրել այս թարմացման նշումները">
+<!ENTITY cmd.hideReleaseNotes.label           "Թաքցնել Թողարկման Նշումները">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
 
 <!-- detail view -->
-<!ENTITY detail.version.label                 "Version">
-<!ENTITY detail.lastupdated.label             "Last Updated">
-<!ENTITY detail.creator.label                 "Developer">
-<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.version.label                 "Տարբերակ">
+<!ENTITY detail.lastupdated.label             "Վերջին Թարմացումը">
+<!ENTITY detail.creator.label                 "Ստեղծող">
+<!ENTITY detail.homepage.label                "ՀԻմնական էջ">
 <!ENTITY detail.numberOfDownloads.label       "Downloads">
 
 <!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
 
-<!ENTITY detail.updateType                    "Automatic Updates">
-<!ENTITY detail.updateDefault.label           "Default">
+<!ENTITY detail.updateType                    "Ավտոմատ Թարմացումներ">
+<!ENTITY detail.updateDefault.label           "Հիմնական">
 <!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
 <!ENTITY detail.updateAutomatic.label         "On">
 <!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
@@ -152,9 +152,9 @@
 
 <!ENTITY detail.checkForUpdates.label         "Check for Updates">
 <!ENTITY detail.checkForUpdates.accesskey     "f">
-<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
-<!ENTITY detail.showPreferencesWin.label      "Options">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.checkForUpdates.tooltip       "Ստուգել այս հավելման թարմացումների առկայությունը">
+<!ENTITY detail.showPreferencesWin.label      "Հատկանիշներ">
+<!ENTITY detail.showPreferencesWin.accesskey  "Հ">
 <!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
 <!ENTITY detail.showPreferencesUnix.label     "Preferences">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
@@ -171,9 +171,9 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Name">
-<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.name.tooltip                    "Դասավորել ըստ անվան">
 <!ENTITY sort.dateUpdated.label               "Last Updated">
-<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
+<!ENTITY sort.dateUpdated.tooltip             "Դասավորել ըստ թարմացման ամսաթվերի">
 <!ENTITY sort.relevance.label                 "Best match">
 <!ENTITY sort.relevance.tooltip               "Sort by relevance">
 <!ENTITY sort.price.label                     "Price">
@@ -188,11 +188,11 @@
 <!ENTITY addon.homepage                       "Homepage">
 <!ENTITY addon.details.label                  "More">
 <!ENTITY addon.details.tooltip                "Show more details about this add-on">
-<!ENTITY addon.unknownDate                    "Unknown">
+<!ENTITY addon.unknownDate                    "Անհայտ">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(disabled)">
+<!ENTITY addon.disabled.postfix               "(անջատված)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
@@ -202,16 +202,16 @@
 <!ENTITY addon.undoAction.tooltip             "Undo this action">
 <!ENTITY addon.undoRemove.label               "Undo">
 <!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
-<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.restartNow.label               "Վերամեկնարկել հիմա">
 <!ENTITY addon.install.label                  "Install">
-<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.install.tooltip                "Տեղակայել այս հավելումը">
 <!ENTITY addon.updateNow.label                "Update Now">
 <!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
 <!ENTITY addon.includeUpdate.label            "Include in Update">
 <!ENTITY addon.updateAvailable.label          "An update is available">
-<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
+<!ENTITY addon.checkingForUpdates.label       "Ստուգվում է թարմացումները">
 <!ENTITY addon.releaseNotes.label             "Release Notes:">
 <!ENTITY addon.loadingReleaseNotes.label      "Loading…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
 
-<!ENTITY addon.createdBy.label                "By ">
+<!ENTITY addon.createdBy.label                " ՝">

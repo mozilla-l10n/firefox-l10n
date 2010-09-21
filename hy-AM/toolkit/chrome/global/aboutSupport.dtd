@@ -49,16 +49,16 @@
 <!ENTITY aboutSupport.extensionsTitle "Extensions">
 <!ENTITY aboutSupport.extensionName "Name">
 <!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionVersion "Տարբերակ">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Application Basics">
 <!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsVersion "Տարբերակ">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsUserAgent "Օգտագործողի զննարկիչը">
 
 <!ENTITY aboutSupport.show.label "Open Containing Folder">
 
