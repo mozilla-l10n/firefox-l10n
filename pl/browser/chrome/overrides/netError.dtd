@@ -51,9 +51,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Tryb offline">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Należy oddznaczyć opcję &quot;Pracuj w trybie offline&quot; w menu Plik i spróbować ponownie.</li>
+  <li>Należy oddznaczyć opcję &quot;Pracuj w trybie offline&quot; i spróbować ponownie.</li>
 </ul>
 ">
 
