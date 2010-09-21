@@ -153,7 +153,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Avbryt hämtningen av denna sida">
 <!ENTITY goEndCap.tooltip             "Gå till adressen i adressfältet">
-<!ENTITY feedButton.tooltip           "Prenumerera på den här sidan…">
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denna sida">
 
@@ -169,6 +168,9 @@ can reach it easily. -->
 
 <!ENTITY tabGroupsButton.label        "Flikgrupper">
 <!ENTITY tabGroupsButton.tooltip      "Gruppera dina flikar">
+
+<!ENTITY feedButton.label             "Prenumerera">
+<!ENTITY feedButton.tooltip           "Prenumerera på den här sidan…">
 
 <!ENTITY bookmarksButton.label          "Bokmärken">
 <!ENTITY bookmarksButton.tooltip        "Visa dina bokmärken">
