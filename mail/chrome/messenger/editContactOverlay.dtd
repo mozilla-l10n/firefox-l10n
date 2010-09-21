@@ -7,6 +7,9 @@
 <!ENTITY editContactEmail.label "电子邮件：">
 <!ENTITY editContactEmail.accesskey "E">
 
+<!ENTITY editContactAddressBook.label "通讯录：">
+<!ENTITY editContactAddressBook.accesskey "A">
+
 <!ENTITY editContactPanelCancel.label "取消">
 <!ENTITY editContactPanelCancel.accesskey "C">
 
