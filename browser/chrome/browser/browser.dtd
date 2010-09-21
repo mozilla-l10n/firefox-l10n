@@ -265,6 +265,7 @@
 <!ENTITY showAllHistoryCmd2.label "Gesamte Chronik anzeigen">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Bearbeiten">
 <!ENTITY appMenuCustomize.label "Anpassen">
 <!ENTITY appMenuToolbarLayout.label "Symbolleisten-Layout…">
 <!ENTITY appMenuSidebars.label "Sidebars">
