@@ -134,8 +134,9 @@ can reach it easily. -->
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "ਮੇਨੂ">
 <!ENTITY  homeButton.label            "ਘਰ">
-<!ENTITY tabViewButton2.label         "ਟੈਗ ਗਰੁੱਪ">
-<!ENTITY tabViewButton2.tooltip       "ਆਪਣੀ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਓ">
+
+<!ENTITY tabGroupsButton.label        "ਟੈਬ ਗਰੁੱਪ">
+<!ENTITY tabGroupsButton.tooltip      "ਆਪਣੀ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਓ">
 
 <!ENTITY bookmarksButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
@@ -252,8 +253,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "ਵੇਖੋ">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY showTabView2.label     "ਆਪਣੀਆਂ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਓ…">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY viewTabGroups.label            "ਟੈਬ ਗਰੁੱਪ">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "ਟੂਲਬਾਰ">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "ਸਾਈਡਬਾਰ">
