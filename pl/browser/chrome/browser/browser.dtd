@@ -132,7 +132,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip "Zatrzymaj wczytywanie bieżącej strony" >
 <!ENTITY goEndCap.tooltip "Przejdź do strony o podanym adresie" >
-<!ENTITY feedButton.tooltip           "Subskrybuj tę stronę…">
 <!ENTITY printButton.label "Drukuj" >
 <!ENTITY printButton.tooltip "Drukuj bieżącą stronę" >
 
@@ -148,6 +147,9 @@ can reach it easily. -->
 
 <!ENTITY tabGroupsButton.label        "Grupy kart">
 <!ENTITY tabGroupsButton.tooltip      "Pogrupuj karty">
+
+<!ENTITY feedButton.label             "Subskrybuj">
+<!ENTITY feedButton.tooltip           "Subskrybuj tę stronę…">
 
 <!ENTITY bookmarksButton.label          "Zakładki">
 <!ENTITY bookmarksButton.tooltip        "Wyświetl zakładki">
