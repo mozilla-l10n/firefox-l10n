@@ -265,6 +265,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Kürzlich geschlossene Tabs">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Kürzlich geschlossene Fenster">
+<!ENTITY historyRestoreLastSession.label "Vorherige Sitzung wiederherstellen">
 
 <!ENTITY historyHomeCmd.label "Startseite"> 
 <!ENTITY showAllHistoryCmd2.label "Gesamte Chronik anzeigen">
