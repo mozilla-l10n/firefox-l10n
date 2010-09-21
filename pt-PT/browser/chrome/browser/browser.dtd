@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Pára de carregar esta página">
 <!ENTITY goEndCap.tooltip             "Ir para o endereço da barra de localização">
-<!ENTITY feedButton.tooltip           "Subscrever esta página…">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 
@@ -138,6 +137,9 @@ can reach it easily. -->
 
 <!ENTITY tabGroupsButton.label        "Grupos de separadores">
 <!ENTITY tabGroupsButton.tooltip      "Agrupar os seus separadores">
+
+<!ENTITY feedButton.label             "Subscrever">
+<!ENTITY feedButton.tooltip           "Subscrever esta página…">
 
 <!ENTITY bookmarksButton.label        "Marcadores">
 <!ENTITY bookmarksButton.tooltip      "Mostrar os seus marcadores">
