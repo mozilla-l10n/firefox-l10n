@@ -54,8 +54,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Սկսել Գաղտնի Նավարկում">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Գաղտնի նավարկումը դադարեցնելու համար ընտրեք &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; կամ փակեք &brandShortName;ը:">
-<!ENTITY privatebrowsingpage.howToStart                "Գաղտնի նավարկում սկսելու համար դուք կարող էք ընտրել &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "To stop Private Browsing, select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Այս համակարգիչը չի հիշի ձեր նավարկման պատմությունը, սակայն ձեր ինտերնետ ծառայություն տրամադրողը կամ աշխատակիցը կարող է հետևել ձեր այցելած էջերին:">
 <!ENTITY privatebrowsingpage.learnMore                 "Իմանալ ավելին">
