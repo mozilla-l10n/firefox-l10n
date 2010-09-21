@@ -7,8 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
 <!ENTITY listEmpty.search.label               "ਕੋਈ ਵੀ ਰਲਦੀ ਐਡ-ਆਨ ਨਹੀਂ ਲੱਭੀ ਜਾ ਸਕੀ">
 <!ENTITY listEmpty.button.label               "ਐਡ-ਆਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
-<!ENTITY installFromFile.label                "ਫਾਇਲ ਤੋਂ ਇੰਸਟਾਲ ਕਰੋ…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "ਐਡ-ਆਨ ਫਾਇਲ ਤੋਂ ਇੰਸਟਾਲ ਕਰੋ…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "ਸਭ ਐਡ-ਆਨ ਲਈ ਟੂਲ">
 
 <!ENTITY cmd.back.tooltip                     "ਇੱਕ ਸਫ਼ਾ ਪਿੱਛੇ ਜਾਓ">
 <!ENTITY cmd.forward.tooltip                  "ਇੱਕ ਸਫ਼ਾ ਅੱਗੇ ਜਾਓ">
@@ -33,17 +34,19 @@
 <!ENTITY view.plugins.label                   "ਪਲੱਗਇਨ">
 <!ENTITY view.recentUpdates.label             "ਤਾਜ਼ਾ ਅੱਪਡੇਟ">
 <!ENTITY view.availableUpdates.label          "ਉਪਲੱਬਧ ਅੱਪਡੇਟ">
-<!ENTITY view.utilites.preferences.tooltip    "ਸਭ ਐਡ-ਆਨ ਲਈ ਚੋਣਾਂ ਵੇਖੋ">
-<!ENTITY view.utilites.preferencesUnix.tooltip "ਸਭ ਐਡ-ਆਨ ਲਈ ਪਸੰਦ ਵੇਖੋ">
 
 <!-- addon updates -->
-
-<!ENTITY updates.updateAddonsNow.label        "ਹੁਣ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕਰੋ">
-<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.checkForUpdates.label        "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "ਤਾਜ਼ਾ ਅੱਪਡੇਟ ਵੇਖੋ">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "ਅੱਪਡੇਟ ਲਈ ਆਟੋਮੈਟਿਕ ਹੀ ਚੈੱਕ ਕਰੋ">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
+<!ENTITY updates.updateAddonsAutomatically.label     "ਐਡ-ਆਨ ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "ਸਭ ਐਡ-ਆਨ ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "ਸਭ ਐਡ-ਆਨ ਖੁਦ ਅੱਪਡੇਟ ਕਰਨ ਕਰਨ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+
 <!ENTITY updates.updating.label               "ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ">
 <!ENTITY updates.installed.label              "ਤੁਹਾਡੀ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ।">
 <!ENTITY updates.downloaded.label             "ਤੁਹਾਡੇ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੇ ਜਾ ਚੁੱਕੇ ਹਨ।">
@@ -101,6 +104,8 @@
 <!ENTITY detail.contributions.description     "ਇਹ ਐਡ-ਆਨ ਦੇ ਡਿਵੈਲਪਰ ਨੇ ਤੁਹਾਨੂੰ ਪੁੱਛਿਆ ਹੈ ਕਿ ਤੁਸੀਂ ਛੋਟਾ ਜਿਹਾ ਯੋਗਦਾਨ ਦੇ ਕੇ ਇਸ ਦੀ ਡਿਵੈਲਪਮੈਂਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ 'ਚ ਮੱਦਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ।">
 
 <!ENTITY detail.updateType                    "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ">
+<!ENTITY detail.updateDefault.label           "ਡਿਫਾਲਟ">
+<!ENTITY detail.updateDefault.tooltip         "ਜੇ ਡਿਫਾਲਟ ਹੋਵੇ ਤਾਂ ਅੱਪਡੇਟ ਆਟੋਮੈਟਿਕ ਹੀ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY detail.updateAutomatic.label         "ਚਾਲੂ">
 <!ENTITY detail.updateAutomatic.tooltip       "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY detail.updateManual.label            "ਬੰਦ">

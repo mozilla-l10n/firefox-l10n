@@ -1,5 +1,6 @@
 <!ENTITY  brandShortName        "ਫਾਇਰਫਾਕਸ">
 <!ENTITY  brandFullName         "ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ">
 <!ENTITY  vendorShortName       "ਮੋਜ਼ੀਲਾ">
-<!-- LOCALIZATION NOTE (trademarkInfo): note that there is no space between licenseLinkText (and its trailing licenseLinkSuffix entity) and this entity, so if your locale needs a space between sentences, you need to put it at the start of this entity. -->
-<!ENTITY  trademarkInfo         " ਫਾਇਰਫਾਕਸ ਤੇ ਫਾਇਰਫਾਕਸ ਲੋਗੋ ਮੋਜ਼ੀਲਾ ਫਾਊਂਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ ਹਨ। ਇਹਨਾਂ ਵਿੱਚੋਂ ਕੁਝ ਨੂੰ ਚਾਰਲਟੋਨ ਕੰਪਨੀ ਵਲੋਂ ਲਾਈਸੈਂਸ ਦੇ ਅਧੀਨ ਵਰਤੇ ਜਾ ਰਹੇ ਹਨ।">
+<!ENTITY  trademarkInfo.part1   "ਫਾਇਰਫਾਕਸ ਤੇ ਫਾਇਰਫਾਕਸ ਲੋਗੋ ਮੋਜ਼ੀਲਾ ਫਾਊਂਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ ਹਨ।">
+<!ENTITY  trademarkInfo.part2   "ਇਹਨਾਂ ਵਿੱਚੋਂ ਕੁਝ ਨੂੰ ਚਾਰਲਟੋਨ ਕੰਪਨੀ ਵਲੋਂ ਲਾਈਸੈਂਸ ਦੇ ਅਧੀਨ ਵਰਤੇ ਜਾ ਰਹੇ ਹਨ।">
+
