@@ -5,12 +5,11 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; 开始页">
-<!ENTITY abouthome.brandLogo.title "&brandFullName; 标志">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> 开始">
-
-<!ENTITY abouthome.searchEngineLogo.title "搜索引擎标志">
 
 <!ENTITY abouthome.searchEngineButton.label "搜索">
 
@@ -18,3 +17,12 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "首选项">
 
 <!ENTITY abouthome.aboutMozilla "关于 Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "感谢您选择了 Firefox！为了更好的使用您的浏览器，了解更多有关 <a>最新功能</a>。">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "它很容易定制您的 Firefox 成为您想要的。<a>从成千上万的附加组件中选择</a>。">

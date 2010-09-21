@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "进入隐私浏览模式">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "要退出隐私浏览模式，您可以选择 &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, 或者关闭 &brandShortName;。">
-<!ENTITY privatebrowsingpage.howToStart                "要启动隐私浏览模式，您可以选择 &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;。">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "要停止隐私浏览，选择 &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;，或者关闭 &brandShortName;。">
+<!ENTITY privatebrowsingpage.howToStart2               "要启动隐私浏览，您也可以选择 &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "本机将不会记录您的浏览历史记录，但是您的因特网服务提供商或雇主还是可以追溯您访问过的页面。">
 <!ENTITY privatebrowsingpage.learnMore                 "更多信息">
