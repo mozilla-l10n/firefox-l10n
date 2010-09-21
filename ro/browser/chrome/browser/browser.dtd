@@ -17,14 +17,14 @@
 <!ENTITY  createNewGroup.label               "Create New Group">
 <!ENTITY  createNewGroup.accesskey           "C">
 <!ENTITY  namedGroups.label                  "Grupuri numite">
-<!ENTITY  reloadTab.label                    "Reîncarcă fila">
+<!ENTITY  reloadTab.label                    "Reload Tab">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Reîncarcă toate filele">
-<!ENTITY  reloadAllTabs.accesskey            "a">
-<!ENTITY  closeOtherTabs.label               "Închide celelalte file">
-<!ENTITY  closeOtherTabs.accesskey           "Î">
-<!ENTITY  openTabInNewWindow.label           "Deschide într-o fereastră nouă">
-<!ENTITY  openTabInNewWindow.accesskey       "D">
+<!ENTITY  reloadAllTabs.label                "Reload All Tabs">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  closeOtherTabs.label               "Close Other Tabs">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  openTabInNewWindow.label           "Open in a New Window">
+<!ENTITY  openTabInNewWindow.accesskey       "W">
 <!ENTITY  pinTab.label                       "Make into App Tab">
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Make into Normal Tab">
@@ -261,7 +261,7 @@
 <!ENTITY showAllHistoryCmd2.label "Arată tot istoricul">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Tipăreşte">
+<!ENTITY appMenuPrintCmd.label "Tipărește">
 <!ENTITY appMenuCustomize.label "Personalizare">
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label "Bare laterale">
