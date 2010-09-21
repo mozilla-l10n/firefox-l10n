@@ -312,7 +312,7 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd2.label "Ցույց տալ ամբողջ պատմությունը">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Edit">
+<!ENTITY appMenuEdit.label "Սրբագրում">
 <!ENTITY appMenuCustomize.label "Customize">
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label "Sidebars">

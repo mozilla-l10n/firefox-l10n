@@ -84,7 +84,7 @@
 
 <!ENTITY  details.link                    "Մանրամասներ">
 
-<!ENTITY  error.title                     "Update Failed">
+<!ENTITY  error.title                     "Թարմացումը Խափանվեց">
 
 <!ENTITY  error.label                     "Խնդիրներ առաջացան այս թարմացուման առկայությունը ստուգելիս, այն 
 	բեռնավորելիս կամ տեղադրելիս: &brandShortName;-ն անհնար է 

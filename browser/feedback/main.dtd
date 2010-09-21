@@ -39,7 +39,7 @@
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
-<!ENTITY testpilot.settings.label                   "Settings">
+<!ENTITY testpilot.settings.label                   "Հատկանիշներ">
 <!ENTITY testpilot.settings.dataSubmission.label    "Data Submission">
 <!ENTITY testpilot.settings.notifications.label     "Notifications">
 <!ENTITY testpilot.settings.notifyWhen.label        "Notify me when…">
@@ -53,7 +53,7 @@
 <!-- all studies window -->
 <!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Ավարտված հետաղոտություններ">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
 <!ENTITY testpilot.studiesWindow.settings.label         "Settings">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait...">
