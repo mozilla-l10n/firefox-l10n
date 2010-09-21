@@ -25,10 +25,11 @@
 <!ENTITY netInterrupt.longDesc "<p>De browser hat mei súkses ferbining makke, mar dizze wurde ûnderbrutsen tiidens it oerbringen fan ynformaasje. Probearje it op 'e nij.</p><ul><li>Kin jo gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Ha jo nog steeds problemen? Freegje jo netwurkbehearder of ynternetprovider foar assistinsje.</li></ul>">
 
 <!ENTITY netOffline.title "Netwurk sûnder ferbining">
-<!ENTITY netOffline.longDesc "<p>De browser is op it stuit sûnder ferbining en kin net ferbine mei de opfrege webstee.</p><ul><li>Is de komputer ferbûn mei in aktief netwurk?</li><li> Set jo browser yn de online modus om it noch in kear te besykjen.</li></ul>">  
+<!ENTITY netOffline.longDesc "<p>De browser wurket op dit stuit sûnder ferbining en kin net ferbine mei de opfrege webstee.</p><ul><li>Is de komputer ferbûn mei in aktief netwurk?</li><li> Set jo browser yn de online moadus om it nochris te besykjen.</li></ul>">  
+<!ENTITY netOffline.longDesc2 "<p>De browser wurket op dit stuit sûnder ferbining en kin net ferbine mei it frege ûnderdiel.</p><ul><li>Is de komputer ferbûn mei in aktief netwurk?</li><li>Set jo browser yn de online moadus om it nochris te besykjen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Ynhâld Kodearings Flater">
-<!ENTITY contentEncodingError.longDesc "<p>De side dy't jo probearje te besjen kin net toant wurde, want it brûkt in fout of net stipe foarm fan kompresje.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>De side dy't jo probearje te besjen kin net toant wurde, want it brûkt in flater of net stipe foarm fan kompresje.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Unfeilich bestânstype">
 <!ENTITY unsafeContentType.longDesc "

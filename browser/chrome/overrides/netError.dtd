@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Offline-moadus">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Finkje &quot;Offline werken&quot; yn it menu Bestân út en besykje it op 'e nij.</li>
+  <li>Finkje &quot;Sûnder ferbining wurkje&quot; út en besykje it op 'e nij.</li>
 </ul>
 ">
 
