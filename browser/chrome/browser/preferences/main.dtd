@@ -44,8 +44,8 @@
 <!ENTITY startupHomePage.label     "Ցույց տալ սկզբնական էջը">
 <!ENTITY startupBlankPage.label    "Ցույց տալ դատարկ էջ">
 <!ENTITY startupLastSession.label  "Ցուցադրել նախորդ պատուհանները և ներդիրները">
-<!ENTITY location.label            "Սկզբնական էջ`">
-<!ENTITY location.accesskey        "Ս">
+<!ENTITY homepage.label            "Home Page:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Օգտագործել ընթացիկ էջը">
 <!ENTITY useCurrentPage.accesskey  "Օ">
 <!ENTITY useMultiple.label         "Օգտագործել ընթացիկ էջերը">
