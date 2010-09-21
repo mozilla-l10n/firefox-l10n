@@ -38,7 +38,7 @@
 -->
 
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
-<!ENTITY  pageInfoWindow.dimensions  "宽度:100ch; 高度:30em;">
+<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "复制">
@@ -79,7 +79,7 @@
 
 <!ENTITY  linksTab              "链接">
 <!ENTITY  linksTab.accesskey    "L">
-<!ENTITY  linkNo                "无.">
+<!ENTITY  linkNo                "无。">
 <!ENTITY  linkName              "类别">
 <!ENTITY  linkAddress           "地址">
 <!ENTITY  linkType              "类型">

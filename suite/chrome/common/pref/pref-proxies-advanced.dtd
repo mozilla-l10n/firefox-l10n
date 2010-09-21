@@ -8,15 +8,12 @@
 <!ENTITY  ssl.accesskey               "L">
 <!ENTITY  ftp.label                   "FTP 代理：">
 <!ENTITY  ftp.accesskey               "F">
-<!ENTITY  gopher.label                "Gopher 代理：">
-<!ENTITY  gopher.accesskey            "G">
 <!ENTITY  reuseProxy.label            "为所有的协议使用HTTP代理服务器的设置">
 <!ENTITY  reuseProxy.accesskey        "U">
 <!ENTITY  port.label                  "端口:">
 <!ENTITY  HTTPPort.accesskey          "P">
 <!ENTITY  SSLPort.accesskey           "o">
 <!ENTITY  FTPPort.accesskey           "r">
-<!ENTITY  gopherPort.accesskey        "">
 
 <!ENTITY  socks.caption               "普通代理服务器">
 <!ENTITY  socks.description           "SOCKS代理是一种通用代理有时被用在企业或类似的环境中.">

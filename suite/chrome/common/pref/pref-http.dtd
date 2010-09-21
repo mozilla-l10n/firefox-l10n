@@ -17,3 +17,6 @@
 <!ENTITY prefEnablePipeliningProxy.accesskey "N">
 <!ENTITY prefPara                            "此类选项可以用来对HTTP连接的性能和兼容性进行微调。某些代理服务器要求使用HTTP/1.0连接.">
 <!ENTITY prefPipeWarning                     "警告:流水线技术是一种实验性的技术，用于提高网页加载速度，不幸的是，这种技术没有被所有的网站和代理服务器支持.">
+<!ENTITY prefUseragent.label                 "用户代理字符串">
+<!ENTITY prefFirefoxCompat.label             "宣传 Firefox 兼容性">
+<!ENTITY prefFirefoxCompat.accesskey         "F">

@@ -14,7 +14,7 @@
 <!ENTITY taskNavigator.tooltip  "浏览器">
 <!ENTITY taskComposer.tooltip  "编写器">
 
-<!ENTITY webDevelopment.label "Web开发">
+<!ENTITY webDevelopment.label "Web 开发">
 <!ENTITY webDevelopment.accesskey "W">
 
 <!ENTITY windowMenu.label "窗口">

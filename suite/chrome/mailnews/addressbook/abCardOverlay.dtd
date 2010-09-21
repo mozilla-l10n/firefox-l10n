@@ -113,9 +113,9 @@
 <!ENTITY Birthday.label                 "生日：">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "年">
+<!ENTITY Year.placeholder               "年">
 <!ENTITY Or.value                       "或者">
-<!ENTITY Age.emptytext                  "年纪">
+<!ENTITY Age.placeholder                "年龄">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "工作地址">
@@ -166,6 +166,6 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "网上">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "粘贴或者输入照片的网址">
+<!ENTITY PhotoURL.placeholder           "粘贴或者输入照片的网址">
 <!ENTITY UpdatePhoto.label              "下次更新日期之前">
 <!ENTITY UpdatePhoto.accesskey          "u">
