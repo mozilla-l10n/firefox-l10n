@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo desligado">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Desmarque a opção &quot;Trabalhar em modo desligado&quot; no menu Ficheiro, e tente novamente.</li>
 </ul>
