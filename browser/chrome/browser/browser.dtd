@@ -133,9 +133,10 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menü">
-<!ENTITY  homeButton.label            "Startseite">
-<!ENTITY tabViewButton2.label         "Tab-Gruppen">
-<!ENTITY tabViewButton2.tooltip       "Tabs gruppieren">
+<!ENTITY homeButton.label             "Startseite">
+
+<!ENTITY tabGroupsButton.label         "Tab-Gruppen">
+<!ENTITY tabGroupsButton.tooltip       "Tabs gruppieren">
 
 <!ENTITY bookmarksButton.label          "Lesezeichen">
 <!ENTITY bookmarksButton.tooltip        "Öffnet Ihre Lesezeichen-Liste">
@@ -249,8 +250,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Ansicht"> 
 <!ENTITY viewMenu.accesskey       "A"> 
-<!ENTITY showTabView2.label     "Tabs gruppieren…">
-<!ENTITY showTabView2.accesskey     "g">
+<!ENTITY viewTabGroups.label     "Tabs gruppieren…">
+<!ENTITY viewTabGroups.accesskey     "g">
 <!ENTITY viewToolbarsMenu.label       "Symbolleisten"> 
 <!ENTITY viewToolbarsMenu.accesskey     "y"> 
 <!ENTITY viewSidebarMenu.label "Sidebar">
