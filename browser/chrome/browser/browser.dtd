@@ -27,8 +27,6 @@
 <!ENTITY  moveToGroup.label                 "Verschieben in Gruppe">
 <!ENTITY  moveToGroup.accesskey             "V">
 <!ENTITY  moveToNewGroup.label              "Neue Gruppe">
-<!ENTITY  bookmarkThisTab.label       		"Lesezeichen für diesen Tab hinzufügen">
-<!ENTITY  bookmarkThisTab.accesskey   		"T">
 <!ENTITY  bookmarkAllTabs.label       		"Lesezeichen für alle Tabs hinzufügen…">
 <!ENTITY  bookmarkAllTabs.accesskey   		"L">
 <!ENTITY  undoCloseTab.label          		"Geschlossenen Tab wiederherstellen">
