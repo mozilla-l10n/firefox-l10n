@@ -144,7 +144,7 @@
 <!ENTITY search.scopeBookmarks.accesskey           "M">
 <!ENTITY search.scopeDownloads.label               "Descargues">
 <!ENTITY search.scopeDownloads.accesskey           "D">
-<!ENTITY search.scopeHistory.label                 "Hestorial">
+<!ENTITY search.scopeHistory.label                 "Historial">
 <!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "Amosar constructor de gueta">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "Soverar constructor de gueta">
