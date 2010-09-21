@@ -18,15 +18,21 @@
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  closeOtherTabs.label               "关闭其他标签页">
 <!ENTITY  closeOtherTabs.accesskey           "o">
-<!ENTITY  openTabInNewWindow.label           "在新窗口中打开">
-<!ENTITY  openTabInNewWindow.accesskey       "W">
-<!ENTITY  pinTab.label                       "制成应用程序标签页">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "制成普通标签页">
-<!ENTITY  unpinTab.accesskey                 "k">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "固定为应用程序标签页">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "取消固定标签页">
+<!ENTITY  unpinAppTab.accesskey              "b">
 <!ENTITY  moveToGroup.label                  "移至组">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "新建组">
+<!ENTITY  moveToNewWindow.label              "移动到新窗口">
+<!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "将全部标签页加为书签…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "恢复关闭的标签页">
@@ -97,7 +103,7 @@
 <!ENTITY subscribeToPageMenupopup.label "订阅此页">
 <!ENTITY subscribeToPageMenuitem.label "订阅此页…">
 <!ENTITY addCurPagesCmd.label "将所有标签页加入书签…">
-<!ENTITY organizeBookmarks.label "管理书签…">
+<!ENTITY showAllBookmarks.label "显示所有书签…">
 <!ENTITY bookmarkAllCmd.label "将全部标签页加为书签…">
 <!ENTITY bookmarksToolbarChevron.tooltip "显示更多书签">
 
@@ -127,9 +133,11 @@
 <!ENTITY bookmarksItem.title          "书签">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "主页">
-<!ENTITY tabViewButton2.label         "标签页组">
-<!ENTITY tabViewButton2.tooltip       "将您的标签页分组">
+<!ENTITY appMenuButton.label          "菜单">
+<!ENTITY homeButton.label             "主页">
+
+<!ENTITY tabGroupsButton.label        "标签页组">
+<!ENTITY tabGroupsButton.tooltip      "将您的标签页分组">
 
 <!ENTITY bookmarksButton.label          "书签">
 <!ENTITY bookmarksButton.tooltip        "显示您的书签">
@@ -243,8 +251,8 @@
 
 <!ENTITY viewMenu.label         "查看"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY showTabView2.label     "将您的标签页分组…">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY viewTabGroups.label            "标签页组">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "工具栏"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "侧栏">
@@ -259,11 +267,13 @@
 <!ENTITY historyUndoMenu.label "最近关闭的标签页">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "最近关闭窗口">
+<!ENTITY historyRestoreLastSession.label "恢复上一次会话">
 
 <!ENTITY historyHomeCmd.label "主页">
 <!ENTITY showAllHistoryCmd2.label "显示全部历史">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "编辑">
 <!ENTITY appMenuCustomize.label "定制">
 <!ENTITY appMenuToolbarLayout.label "工具栏布局…">
 <!ENTITY appMenuSidebars.label "侧边栏">
@@ -442,7 +452,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "剪切">
 <!ENTITY copyButton.tooltip             "复制">
 <!ENTITY pasteButton.tooltip            "粘贴">
+
 <!ENTITY fullScreenButton.tooltip       "全屏显示窗口">
+
+<!ENTITY zoomOutButton.tooltip          "缩小">
+<!ENTITY zoomInButton.tooltip           "放大">
+<!ENTITY zoomControls.label             "缩放控制">
 
 <!ENTITY quitApplicationCmdWin.label       "退出"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -476,7 +491,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "切换页面方向">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "切换文字方向">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
@@ -527,17 +542,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "来自其他计算机的标签页">
 
-<!ENTITY syncBrand.shortName.label  "同步">
+<!ENTITY syncBrand.shortName.label    "同步">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "Y">
 <!ENTITY syncSetup.label              "设置 &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncLogInItem.label          "连接">
-<!ENTITY syncLogInItem.accesskey      "C">
-<!ENTITY syncLogOutItem.label         "断开连接">
-<!ENTITY syncLogOutItem.accesskey     "D">
 <!ENTITY syncSyncNowItem.label        "立即同步">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "同步">

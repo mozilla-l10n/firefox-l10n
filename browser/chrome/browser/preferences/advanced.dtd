@@ -51,6 +51,8 @@
 <!ENTITY useCacheAfter.label             "MB 缓存空间">
 <!ENTITY clearCacheNow.label             "立即清除">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY smartSizeCache.label            "让 &brandShortName; 管理我的缓存大小">
+<!ENTITY smartSizeCache.accesskey        "L">
 
 <!ENTITY updateTab.label                 "更新">
 

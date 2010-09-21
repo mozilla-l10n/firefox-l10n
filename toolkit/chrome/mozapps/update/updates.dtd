@@ -53,8 +53,10 @@
                                            
 <!ENTITY  errorpatching.intro             "无法应用此局部更新。&brandShortName; 将下载完整的更新并重试。">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "某些东西阻碍了 &brandShortName; 安全的更新。
-                                           请检查确认您安装了最新的 &brandShortName;，它位于：">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; 无法确定是否有可用的更新。请
+                                           确保您从以下地址安装了最新版本的 &brandShortName; ：">
+<!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; 的安全更新受到阻碍。
+                                           请确认您已经从以下地址安装了最新版本的 &brandShortName; ：">
 <!ENTITY  errorCertAttrHasUpdate.label    "某事物正尝试欺骗 &brandShortName; 以接受不安全的更新。
                                            请联系您的网络供应商以寻求帮助。">
 

@@ -15,6 +15,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "配置文件夹">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "已启用的插件">
 <!ENTITY aboutSupport.appBasicsBuildConfig "构建选项">
+<!ENTITY aboutSupport.appBasicsUserAgent "用户代理">
 
 <!ENTITY aboutSupport.show.label "打开所在文件夹">
 
