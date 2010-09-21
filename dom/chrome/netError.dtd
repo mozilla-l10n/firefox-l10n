@@ -86,6 +86,14 @@ pendant le transfert d'informations. Veuillez réessayer.</p>
 </ul>
 ">
 
+<!ENTITY netOffline.longDesc2 "
+<p>Le navigateur est actuellement hors connexion et ne peut se connecter au site.</p>
+<ul>
+  <li>L'ordinateur est-il connecté au réseau ?</li>
+  <li>Passez en mode en ligne et réessayez.</li>
+</ul>
+">
+
 <!ENTITY contentEncodingError.title "Erreur d'encodage de contenu">
 <!ENTITY contentEncodingError.longDesc "
 <p>La page que vous essayez de voir ne peut être affichée car elle utilise un
