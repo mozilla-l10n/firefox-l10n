@@ -18,8 +18,6 @@
 <!ENTITY  reloadAllTabs.accesskey            "b">
 <!ENTITY  closeOtherTabs.label               "Zavrieť ostatné karty">
 <!ENTITY  closeOtherTabs.accesskey           "e">
-<!ENTITY  openTabInNewWindow.label           "Otvoriť v novom okne">
-<!ENTITY  openTabInNewWindow.accesskey       "k">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -33,6 +31,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Presunúť do skupiny">
 <!ENTITY  moveToGroup.accesskey              "P">
 <!ENTITY  moveToNewGroup.label               "Nová skupina">
+<!ENTITY  moveToNewWindow.label              "Presunúť do nového okna">
+<!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  undoCloseTab.label                 "Obnoviť zatvorenú kartu">
@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey          ".">
 <!ENTITY stopButton.tooltip             "Zastaviť načítavanie tejto stránky">
 <!ENTITY goEndCap.tooltip               "Prejsť na adresu zadanú v paneli s adresou">
-<!ENTITY feedButton.tooltip             "Prihlásiť sa k odberu kanála tejto stránky…">
 <!ENTITY printButton.label              "Tlačiť">
 <!ENTITY printButton.tooltip            "Tlačiť túto stránku">
 
@@ -134,9 +133,13 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label          "Ponuka">
-<!ENTITY homeButton.label "Domov">
-<!ENTITY tabViewButton2.label          "Skupiny kariet">
-<!ENTITY tabViewButton2.tooltip        "Zoskupte si svoje karty">
+<!ENTITY homeButton.label             "Domov">
+
+<!ENTITY tabGroupsButton.label        "Skupiny kariet">
+<!ENTITY tabGroupsButton.tooltip      "Zoskupte si svoje karty">
+
+<!ENTITY feedButton.label             "Odber">
+<!ENTITY feedButton.tooltip           "Prihlásiť sa k odberu kanála tejto stránky…">
 
 <!ENTITY bookmarksButton.label          "Záložky">
 <!ENTITY bookmarksButton.tooltip        "Zobraziť záložky">
@@ -250,8 +253,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label "Zobraziť">
 <!ENTITY viewMenu.accesskey "Z">
-<!ENTITY showTabView2.label     "Skupiny kariet">
-<!ENTITY showTabView2.accesskey     "S">
+<!ENTITY viewTabGroups.label            "Skupiny kariet">
+<!ENTITY viewTabGroups.accesskey        "S">
 <!ENTITY viewToolbarsMenu.label "Panely s nástrojmi">
 <!ENTITY viewToolbarsMenu.accesskey "P">
 <!ENTITY viewSidebarMenu.label "Bočný panel">
@@ -278,9 +281,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Bočné panely">
 <!ENTITY appMenuFind.label "Hľadať…">
 <!ENTITY appMenuUnsorted.label "Nezaradené záložky">
+<!ENTITY appMenuWebDeveloper.label "Webový vývojár">
 <!ENTITY appMenuGettingStarted.label "Začíname">
-<!ENTITY appMenuDeveloperTools.label "Vývojárske nástroje">
-<!ENTITY developerMenu.label "Vývojár">
+<!ENTITY appMenuSafeMode.label "Reštartovať a zakázať doplnky…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Prejsť na webovú stránku">

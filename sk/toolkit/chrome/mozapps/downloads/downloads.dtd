@@ -5,7 +5,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.height                    "300">
 
 <!ENTITY starting.label                   "Začína sa…">
-<!ENTITY scanning.label                   "Vyhľadávanie vírusov…">
+<!ENTITY scanning.label                   "Kontrola na prítomnosť vírusov…">
 
 <!ENTITY downloads.title                  "Správca preberania súborov">
 
