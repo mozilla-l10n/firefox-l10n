@@ -59,6 +59,8 @@
 
 <!ENTITY clearCacheNow.label             "Neteja-la ara">
 <!ENTITY clearCacheNow.accesskey         "j">
+<!ENTITY smartSizeCache.label            "Deixeu al &brandShortName; gestionar la mida de la memòria cau">
+<!ENTITY smartSizeCache.accesskey        "x">
 
 <!ENTITY updateTab.label                 "Actualització">
 

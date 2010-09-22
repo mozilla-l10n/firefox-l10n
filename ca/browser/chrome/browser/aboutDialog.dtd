@@ -1,11 +1,24 @@
 <!ENTITY aboutDialog.title "Quant al &brandFullName;">
-<!ENTITY copyright "Crèdits">
-<!ENTITY copyright.accesskey    "C">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY aboutLink "&lt; Quant al &brandFullName;">
-<!ENTITY aboutLink.accesskey    "Q">
-<!ENTITY aboutVersion "versió">
-<!ENTITY closeCmdGNOME.label        "Tanca">  
-<!ENTITY closeCmdGNOME.accesskey    "c">
-<!ENTITY licenseLinkText            "Informació de la llicència">
-<!ENTITY licenseLinkSuffix          ".">
+
+<!ENTITY community.start2           "El &brandShortName; està dissenyat per ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", una ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "comunitat global">
+<!ENTITY community.end2             " que treballa conjuntament per fer d'Internet un lloc millor. Creiem que Internet ha de ser obert, públic, i accessible per a tothom, sense cap mena de restricció.">
+
+<!ENTITY contribute.start           "Us sembla interessant? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Col·laboreu-hi!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Informació de la llicència">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Drets dels usuaris finals">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Política de privadesa">
+

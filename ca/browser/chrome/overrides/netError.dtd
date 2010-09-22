@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mode fora de línia">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Desactiveu «Treballa fora de línia» al menú Fitxer, i torneu-ho a provar.</li>
+  <li>Desactiveu «Treballa fora de línia», i llavors torneu-ho a provar.</li>
 </ul>
 ">
 

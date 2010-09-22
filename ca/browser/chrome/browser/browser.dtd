@@ -18,15 +18,15 @@
 <!ENTITY  reloadAllTabs.accesskey            "a">
 <!ENTITY  closeOtherTabs.label               "Tanca les altres pestanyes">
 <!ENTITY  closeOtherTabs.accesskey           "l">
-<!ENTITY  openTabInNewWindow.label           "Obre en una finestra nova">
-<!ENTITY  openTabInNewWindow.accesskey       "f">
-<!ENTITY  pinAppTab.label                    "Penja com a pestanya d'aplicació">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Despenja la pestanya">
+<!ENTITY  pinAppTab.label                    "Clava com a pestanya d'aplicació">
+<!ENTITY  pinAppTab.accesskey                "v">
+<!ENTITY  unpinAppTab.label                  "Desclava la pestanya">
 <!ENTITY  unpinAppTab.accesskey              "D">
 <!ENTITY  moveToGroup.label                  "Mou al grup">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Grup nou">
+<!ENTITY  moveToNewWindow.label              "Mou a una finestra nova">
+<!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Afegeix totes les pestanyes a les adreces d'interès…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Desfés el tancament de la pestanya">
@@ -127,8 +127,12 @@
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menú">
 <!ENTITY homeButton.label "Inici">
-<!ENTITY tabViewButton2.label          "Grups de pestanyes">
-<!ENTITY tabViewButton2.tooltip        "Agrupa les vostres pestanyes">
+
+<!ENTITY tabGroupsButton.label        "Grups de pestanyes">
+<!ENTITY tabGroupsButton.tooltip      "Agrupa les pestanyes">
+
+<!ENTITY feedButton.label             "Subscriu-m'hi">
+<!ENTITY feedButton.tooltip           "Subscriu-me a aquesta pàgina…">
 
 <!ENTITY bookmarksButton.label "Adreces d'interès">
 <!ENTITY bookmarksButton.tooltip "Mostra les vostres adreces d'interès">
@@ -242,8 +246,8 @@
 
 <!ENTITY viewMenu.label "Visualitza">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY showTabView2.label     "Agrupa les vostres pestanyes…">
-<!ENTITY showTabView2.accesskey     "g">
+<!ENTITY viewTabGroups.label            "Grups de pestanyes">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label "Barres d'eines">
 <!ENTITY viewToolbarsMenu.accesskey "a">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
@@ -270,9 +274,10 @@
 <!ENTITY appMenuSidebars.label "Barres laterals">
 <!ENTITY appMenuFind.label "Cerca…">
 <!ENTITY appMenuUnsorted.label "Adreces d'interès desordenades">
+<!ENTITY appMenuWebDeveloper.label "Desenvolupador web">
 <!ENTITY appMenuGettingStarted.label "Primers passos">
-
-<!ENTITY developerMenu.label "Desenvolupador">
+<!ENTITY appMenuSafeMode.label "Reinicia amb els complements inhabilitats…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder           "Vés a un lloc web">
@@ -535,16 +540,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "z">
 <!ENTITY syncSetup.label              "Configura el &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "z">
-<!ENTITY syncLogInItem.label          "Connecta">
-<!ENTITY syncLogInItem.accesskey      "C">
-<!ENTITY syncLogOutItem.label         "Desconnecta">
-<!ENTITY syncLogOutItem.accesskey     "D">
 <!ENTITY syncSyncNowItem.label        "Sincronitza ara">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sincronització">
 
