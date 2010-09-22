@@ -17,8 +17,8 @@
 <!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına…">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
-<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY helpSafeMode.label "Eklentileri devre dışı bırakıp başlat...">
+<!ENTITY helpSafeMode.accesskey "b">
 
 <!ENTITY helpReleaseNotes.label "Sürüm notları">
 <!ENTITY helpReleaseNotes.accesskey "r">

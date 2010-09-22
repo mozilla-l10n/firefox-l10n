@@ -52,8 +52,8 @@
 <!ENTITY useCacheAfter.label "MB veri tut">
 <!ENTITY clearCacheNow.label "Şimdi temizle">
 <!ENTITY clearCacheNow.accesskey "z">
-<!ENTITY smartSizeCache.label "Let &brandShortName; manage the size of my cache">
-<!ENTITY smartSizeCache.accesskey "L">
+<!ENTITY smartSizeCache.label "Önbellek boyutunu &brandShortName; idare etsin">
+<!ENTITY smartSizeCache.accesskey "d">
 
 <!ENTITY updateTab.label "Güncelleme">
 
