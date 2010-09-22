@@ -51,6 +51,8 @@
 <!ENTITY useCacheAfter.label             "מ״ב שטח דיסק עבור המטמון">
 <!ENTITY clearCacheNow.label             "מחק עכשיו">
 <!ENTITY clearCacheNow.accesskey         "מ">
+<!ENTITY smartSizeCache.label            "Let &brandShortName; manage the size of my cache">
+<!ENTITY smartSizeCache.accesskey        "L">
 
 <!ENTITY updateTab.label                 "עדכון">
 

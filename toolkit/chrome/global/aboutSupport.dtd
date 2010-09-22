@@ -15,7 +15,7 @@
 <!ENTITY aboutSupport.appBasicsName "שם">
 <!ENTITY aboutSupport.appBasicsVersion "גרסה">
 <!ENTITY aboutSupport.appBasicsProfileDir "תיקיית פרופיל">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "הפעל תוספים חיצוניים">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "תוספים חיצוניים פעילים">
 <!ENTITY aboutSupport.appBasicsBuildConfig "הגדרות בנייה">
 <!ENTITY aboutSupport.appBasicsUserAgent "סוכן משתמש">
 
@@ -30,7 +30,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "שם">
 <!ENTITY aboutSupport.modifiedPrefsValue "ערך">
 
-<!ENTITY aboutSupport.graphicsTitle "גרפיקות">
+<!ENTITY aboutSupport.graphicsTitle "גרפיקה">
 
 <!ENTITY aboutSupport.installationHistoryTitle "היסטוריית התקנות">
 <!ENTITY aboutSupport.updateHistoryTitle "היסטוריית עדכונים">

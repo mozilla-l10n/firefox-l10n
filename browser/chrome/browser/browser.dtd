@@ -18,15 +18,21 @@
 <!ENTITY  reloadAllTabs.accesskey            "ט">
 <!ENTITY  closeOtherTabs.label               "סגור לשוניות אחרות">
 <!ENTITY  closeOtherTabs.accesskey           "ס">
-<!ENTITY  openTabInNewWindow.label           "פתח בחלון חדש">
-<!ENTITY  openTabInNewWindow.accesskey       "פ">
-<!ENTITY  pinTab.label                       "הפוך ללשונית יישום">
-<!ENTITY  pinTab.accesskey                   "ה">
-<!ENTITY  unpinTab.label                     "הפוך ללשונית רגילה">
-<!ENTITY  unpinTab.accesskey                 "ה">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Pin as App Tab">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "Unpin Tab">
+<!ENTITY  unpinAppTab.accesskey              "b">
 <!ENTITY  moveToGroup.label                  "העבר לקבוצה">
 <!ENTITY  moveToGroup.accesskey              "ה">
 <!ENTITY  moveToNewGroup.label               "קבוצה חדשה">
+<!ENTITY  moveToNewWindow.label              "Move to New Window">
+<!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "צור סימנייה לכל הלשוניות...">
 <!ENTITY  bookmarkAllTabs.accesskey          "צ">
 <!ENTITY  undoCloseTab.label                 "בטל סגירת לשונית">
@@ -97,7 +103,7 @@
 <!ENTITY subscribeToPageMenupopup.label "הירשם לדף זה">
 <!ENTITY subscribeToPageMenuitem.label "הירשם לדף זה...">
 <!ENTITY addCurPagesCmd.label "הוסף סימנייה לכל הלשוניות...">
-<!ENTITY organizeBookmarks.label "ארגן סימניות…">
+<!ENTITY showAllBookmarks.label "הצג את כל הסימניות…">
 <!ENTITY bookmarkAllCmd.label "הוסף סימנייה לכל הלשוניות...">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצג סימניות נוספות">
 
@@ -127,9 +133,11 @@
 <!ENTITY bookmarksItem.title          "סימניות">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "דף הבית">
-<!ENTITY tabViewButton2.label         "קבוצות לשוניות">
-<!ENTITY tabViewButton2.tooltip       "קבץ את הלשוניות שלך">
+<!ENTITY appMenuButton.label          "Menu">
+<!ENTITY homeButton.label             "דף הבית">
+
+<!ENTITY tabGroupsButton.label        "Tab Groups">
+<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
 
 <!ENTITY bookmarksButton.label          "סימניות">
 <!ENTITY bookmarksButton.tooltip        "מציג את הסימניות שלך">
@@ -243,8 +251,8 @@
 
 <!ENTITY viewMenu.label         "תצוגה"> 
 <!ENTITY viewMenu.accesskey       "ת"> 
-<!ENTITY showTabView2.label     "קבץ את הלשוניות שלך…">
-<!ENTITY showTabView2.accesskey     "ק">
+<!ENTITY viewTabGroups.label            "Tab Groups">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "סרגלי כלים"> 
 <!ENTITY viewToolbarsMenu.accesskey     "ם"> 
 <!ENTITY viewSidebarMenu.label "סרגל צד">
@@ -259,11 +267,13 @@
 <!ENTITY historyUndoMenu.label "לשוניות שנסגרו לאחרונה">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "חלונות שנסגרו לאחרונה">
+<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
 
 <!ENTITY historyHomeCmd.label "בית">
 <!ENTITY showAllHistoryCmd2.label "הצג את כל ההיסטוריה">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Edit">
 <!ENTITY appMenuCustomize.label "התאמה אישית">
 <!ENTITY appMenuToolbarLayout.label "פריסת סרגל הכלים…">
 <!ENTITY appMenuSidebars.label "סרגלי צד">
@@ -442,7 +452,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "גזור">
 <!ENTITY copyButton.tooltip             "העתק">
 <!ENTITY pasteButton.tooltip            "הדבק">
+
 <!ENTITY fullScreenButton.tooltip       "מציג את החלון במסך מלא">
+
+<!ENTITY zoomOutButton.tooltip          "Zoom out">
+<!ENTITY zoomInButton.tooltip           "Zoom in">
+<!ENTITY zoomControls.label             "Zoom Controls">
 
 <!ENTITY quitApplicationCmdWin.label       "יציאה"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "צ">
@@ -527,17 +542,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "לשוניות ממחשבים אחרים">
 
-<!ENTITY syncBrand.shortName.label  "Sync">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "y">
 <!ENTITY syncSetup.label              "התקנת &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "s">
-<!ENTITY syncLogInItem.label          "התחברות">
-<!ENTITY syncLogInItem.accesskey      "ה">
-<!ENTITY syncLogOutItem.label         "התנתקות">
-<!ENTITY syncLogOutItem.accesskey     "ה">
 <!ENTITY syncSyncNowItem.label        "סנכרן כעת">
 <!ENTITY syncSyncNowItem.accesskey    "ס">
+<!ENTITY syncToolbarButton.label      "Sync">

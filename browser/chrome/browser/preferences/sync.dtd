@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "חשבון &syncBrand.fullName.label;">
-<!ENTITY currentUser.label            "משתמש נוכחי:">
+<!ENTITY currentAccount.label         "Current Account:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "עדכון">
@@ -14,30 +14,29 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ניהול חשבון">
 <!ENTITY manageAccount.accesskey      "נ">
+<!ENTITY viewQuota.label              "View Quota">
 <!ENTITY changePassword.label         "שינוי ססמה">
-<!ENTITY changePassphrase.label       "שינוי קוד סודי">
+<!ENTITY mySyncKey.label              "מפתח הסנכרון שלי">
 <!ENTITY resetSync.label              "איפוס Sync">
-<!ENTITY differentAccount.label       "השתמש בחשבון אחר">
+<!ENTITY stopUsingAccount.label       "Stop Using This Account">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browser Sync">
 <!ENTITY syncComputerName.label       "שם מחשב:">
 <!ENTITY syncComputerName.accesskey   "ש">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName;: ">
-<!ENTITY syncModeSwitchDesc.accesskey "b">
-<!ENTITY syncEverything.label         "יסנכרן הכל">
-<!ENTITY customSync.label             "ישתמש בהגדרות המותאמות אישית שלי">
-<!ENTITY syncEverythingDescription.label  "הסימניות, ההיסטוריה, הססמאות, ההעדפות והלשוניות שלך יסונכרנו.">
-<!ENTITY syncItem.bookmarks.label     "יסנכרן סימניות">
-<!ENTITY syncItem.bookmarks.accesskey "י">
-<!ENTITY syncItem.tabs.label          "יסנכרן לשוניות">
-<!ENTITY syncItem.tabs.accesskey      "י">
-<!ENTITY syncItem.history.label       "יסנכרן היסטוריה">
-<!ENTITY syncItem.history.accesskey   "י">
-<!ENTITY syncItem.passwords.label     "יסנכרן ססמאות">
-<!ENTITY syncItem.passwords.accesskey "י">
-<!ENTITY syncItem.prefs.label         "יסנכרן העדפות">
-<!ENTITY syncItem.prefs.accesskey     "י">
+
+<!ENTITY syncMy.label               "סנכרן">
+<!ENTITY engine.bookmarks.label     "סימניות">
+<!ENTITY engine.bookmarks.accesskey "ס">
+<!ENTITY engine.tabs.label          "לשוניות">
+<!ENTITY engine.tabs.accesskey      "ל">
+<!ENTITY engine.history.label       "היסטוריה">
+<!ENTITY engine.history.accesskey   "ה">
+<!ENTITY engine.passwords.label     "ססמאות">
+<!ENTITY engine.passwords.accesskey "ס">
+<!ENTITY engine.prefs.label         "העדפות">
+<!ENTITY engine.prefs.accesskey     "ה">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "לתנאי השירות">
