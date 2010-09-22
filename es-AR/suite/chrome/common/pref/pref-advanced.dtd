@@ -1,16 +1,16 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title        "Advanced">
+<!ENTITY pref.advanced.title        "Avanzadas">
 
-<!ENTITY prefEnableJava.caption     "Features that help interpret web pages">
+<!ENTITY prefEnableJava.caption     "Funcionalidad que ayuda a interpretar páginas web">
 
-<!ENTITY enbJavaCheck.label         "Enable Java">
+<!ENTITY enbJavaCheck.label         "Habilitar Java">
 <!ENTITY enbJavaCheck.accesskey     "J">
 
-<!ENTITY systemPref.caption         "System Preferences">
-<!ENTITY systemPrefCheck.label      "Use Preferences from System">
+<!ENTITY systemPref.caption         "Preferencias del sistema">
+<!ENTITY systemPrefCheck.label      "Usar las preferencias del sistema">
 <!ENTITY systemPrefCheck.accesskey  "U">
-<!ENTITY systemPref.desc            "With this option, &brandShortName; inherits preferences from the system. These system settings will override the &brandShortName; preferences.">
+<!ENTITY systemPref.desc            "Con esta opción, &brandShortName; hereda las preferencias del sistema. Las preferencias del sistema se usarán en lugar de las preferencias de &brandShortName;.">
 
-<!ENTITY prefCheckDefault.caption   "System Integration">
-<!ENTITY prefCheckDefaultClient.label "Check default application settings on startup">
-<!ENTITY prefCheckDefaultClient.accesskey "C">
+<!ENTITY prefCheckDefault.caption   "Integración con el sistema">
+<!ENTITY prefCheckDefaultClient.label "Verificar las opciones predeterminadas de la aplicación al iniciar">
+<!ENTITY prefCheckDefaultClient.accesskey "c">

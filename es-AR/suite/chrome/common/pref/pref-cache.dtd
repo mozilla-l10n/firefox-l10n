@@ -1,28 +1,28 @@
 <!-- extracted from content/pref-cache.xul -->
 
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
-<!ENTITY pref.cache.title                "Cache">
-<!ENTITY pref.cache.caption              "Set Cache Options">
-<!ENTITY cachePara                       "The cache keeps copies of frequently visited web pages on your hard disk. (Clicking Reload always shows you the latest version of a page.)">
-<!ENTITY diskCache.label                 "Size:">
-<!ENTITY diskCache.accesskey             "S">
+<!ENTITY pref.cache.title                "Caché">
+<!ENTITY pref.cache.caption              "Seleccionar opciones de caché">
+<!ENTITY cachePara                       "El caché guarda copias de los sitios que visita frecuentemente en su disco rígido (Recargar siempre muestra la última versión de una página). ">
+<!ENTITY diskCache.label                 "Tamaño:">
+<!ENTITY diskCache.accesskey             "T">
 <!ENTITY mbytes                          "MB">
-<!ENTITY diskCacheFolder.label           "Cache Folder Location:">
-<!ENTITY clearDiskCache.label            "Clear Cache">
-<!ENTITY clearDiskCache.accesskey        "C">
-<!ENTITY chooseDiskCacheFolder.label     "Choose Folder…">
-<!ENTITY chooseDiskCacheFolder.accesskey "F">
-<!ENTITY diskCacheFolderExplanation      "Cache files will be stored in a subfolder named &quot;Cache&quot; of the directory you specify. Restart &brandShortName; for changes to take effect.">
-<!ENTITY docCache                        "Compare the page in the cache to the page on the network:">
-<!ENTITY oncePsessionRadio.label         "Once per session">
-<!ENTITY oncePsessionRadio.accesskey     "O">
-<!ENTITY everyTimeRadio.label            "Every time I view the page">
-<!ENTITY everyTimeRadio.accesskey        "E">
-<!ENTITY neverRadio.label                "Never">
+<!ENTITY diskCacheFolder.label           "Ubicación de la carpeta caché:">
+<!ENTITY clearDiskCache.label            "Borrar caché">
+<!ENTITY clearDiskCache.accesskey        "c">
+<!ENTITY chooseDiskCacheFolder.label     "Seleccionar carpeta…">
+<!ENTITY chooseDiskCacheFolder.accesskey "S">
+<!ENTITY diskCacheFolderExplanation      "Los archivos del caché serán guardados en una subcarpeta llamada &quot;Cache&quot; del directorio que especifique. Reinicie &brandShortName; para que se apliquen los cambios.">
+<!ENTITY docCache                        "Comparar la página en el caché con la página en la red:">
+<!ENTITY oncePsessionRadio.label         "Una vez por sesión">
+<!ENTITY oncePsessionRadio.accesskey     "o">
+<!ENTITY everyTimeRadio.label            "Cada vez que miro una página">
+<!ENTITY everyTimeRadio.accesskey        "e">
+<!ENTITY neverRadio.label                "Nunca">
 <!ENTITY neverRadio.accesskey            "N">
-<!ENTITY autoRadio.label                 "When the page is out of date">
-<!ENTITY autoRadio.accesskey             "W">
+<!ENTITY autoRadio.label                 "Cuando la página esté vencida">
+<!ENTITY autoRadio.accesskey             "C">
 
-<!ENTITY prefetchTitle.label             "Link Prefetching">
-<!ENTITY enablePrefetch.label            "Prefetch web pages when idle, so that links in web pages designed for prefetching can load more quickly">
-<!ENTITY enablePrefetch.accesskey        "P">
+<!ENTITY prefetchTitle.label             "Carga previa de enlaces">
+<!ENTITY enablePrefetch.label            "Cargar previamente las páginas cuando esté desocupado, de esta manera los enlaces a páginas web diseñados para una carga previa pueden cargarse más rápidamente">
+<!ENTITY enablePrefetch.accesskey        "p">

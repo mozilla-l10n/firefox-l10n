@@ -1,26 +1,26 @@
 <!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
 
-<!ENTITY pref.appearance.title "Appearance">
+<!ENTITY pref.appearance.title "Apariencia">
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY onStartLegend.label                    "When &brandShortName; starts up, open">
-<!ENTITY navCheck.label                         "Browser">
-<!ENTITY navCheck.accesskey                     "B">
-<!ENTITY showToolsLegend.label                  "Show toolbars as">
-<!ENTITY picsNtextRadio.label                   "Pictures and text">
-<!ENTITY picsNtextRadio.accesskey               "P">
-<!ENTITY picsOnlyRadio.label                    "Pictures only">
+<!ENTITY onStartLegend.label                    "Cuando &brandShortName; se inicie, abrir">
+<!ENTITY navCheck.label                         "Navegador">
+<!ENTITY navCheck.accesskey                     "N">
+<!ENTITY showToolsLegend.label                  "Mostrar barras de herramientas como">
+<!ENTITY picsNtextRadio.label                   "Imágenes y texto">
+<!ENTITY picsNtextRadio.accesskey               "I">
+<!ENTITY picsOnlyRadio.label                    "Sólo imágenes">
 <!ENTITY picsOnlyRadio.accesskey                "o">
-<!ENTITY textonlyRadio.label                    "Text only">
+<!ENTITY textonlyRadio.label                    "Sólo texto">
 <!ENTITY textonlyRadio.accesskey                "x">
-<!ENTITY showHideTooltips.label                 "Show Tooltips">
-<!ENTITY showHideTooltips.accesskey             "T">
+<!ENTITY showHideTooltips.label                 "Mostrar ayudas">
+<!ENTITY showHideTooltips.accesskey             "t">
 
-<!ENTITY pref.locales.title                     "User Interface Language">
-<!ENTITY selectLocale.label                     "Select the language for text that appears in dialog boxes, menus, toolbars and button labels:">
+<!ENTITY pref.locales.title                     "Idioma de la interfaz de usuario">
+<!ENTITY selectLocale.label                     "Elija el idioma para el texto que aparece en las cajas de diálogos, menús, barras de herramientas y botones:">
 <!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY restartOnLangChange.label              "Language preferences will take effect when you restart &brandShortName;.">
+<!ENTITY restartOnLangChange.label              "Los cambios en las preferencias de idioma tendrán efecto cuando reinicie &brandShortName;.">
 

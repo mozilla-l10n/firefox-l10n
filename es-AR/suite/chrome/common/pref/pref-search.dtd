@@ -2,22 +2,22 @@
 
 <!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
 
-<!ENTITY pref.search.title                "Internet Search">
-<!ENTITY legendHeader                     "Default Search Engine">
-<!ENTITY defaultSearchEngine.label        "Search using:">
-<!ENTITY defaultSearchEngine.accesskey    "S">
+<!ENTITY pref.search.title                "Búsqueda en Internet">
+<!ENTITY legendHeader                     "Buscador predeterminado">
+<!ENTITY defaultSearchEngine.label        "Buscar usando:">
+<!ENTITY defaultSearchEngine.accesskey    "s">
 
-<!ENTITY openSidebarSearchPanel.label     "Open the Search tab in the Sidebar when a search is invoked">
-<!ENTITY openSidebarSearchPanel.accesskey "O">
+<!ENTITY openSidebarSearchPanel.label     "Abrir la pestaña de búsqueda en la barra lateral cuando se realiza una búsqueda">
+<!ENTITY openSidebarSearchPanel.accesskey "o">
 
-<!ENTITY openContextSearchTab.label       "Open a tab instead of a window for a context menu web search">
+<!ENTITY openContextSearchTab.label       "Abrir una pestaña en lugar de una ventana cuando se realiza una búsqueda con el menú contextual">
 <!ENTITY openContextSearchTab.accesskey   "t">
 
-<!ENTITY searchResults.label              "Search Results">
+<!ENTITY searchResults.label              "Resultados de búsqueda">
 
-<!ENTITY sidebarSearchTabPref.label       "Sidebar Search Tab Preference">
-<!ENTITY searchModeBasic.label            "Basic">
+<!ENTITY sidebarSearchTabPref.label       "Opciones de la pestaña de búsqueda en la barra lateral">
+<!ENTITY searchModeBasic.label            "Básica">
 <!ENTITY searchModeBasic.accesskey        "B">
-<!ENTITY searchModeAdvanced.label         "Advanced">
+<!ENTITY searchModeAdvanced.label         "Avanzada">
 <!ENTITY searchModeAdvanced.accesskey     "A">
 
