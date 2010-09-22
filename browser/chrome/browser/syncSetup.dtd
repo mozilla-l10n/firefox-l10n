@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label     "Generera">
 <!ENTITY syncKeyBackup.description "Din Sync-nyckel behövs för att använda &syncBrand.fullName.label; på din andra enheter. Du bör skapa en säkerhetskopia av nyckeln. Vi kan inte hjälpa dig att återskapa en borttappad Sync-nyckel.">
 
-<!ENTITY button.syncKeyBackup.email.label     "E-post…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut…">
 <!ENTITY button.syncKeyBackup.print.accesskey "u">
 <!ENTITY button.syncKeyBackup.save.label      "Spara…">
