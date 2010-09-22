@@ -40,7 +40,7 @@
 
 <!ENTITY contribute.start           "Sudominome? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Įsitraukike">
+<!ENTITY contribute.getInvolvedLink "Įsitraukite">
 <!ENTITY contribute.end             " į mūsų veiklą!">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
