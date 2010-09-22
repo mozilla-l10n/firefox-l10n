@@ -41,19 +41,19 @@
 <!ENTITY offlineStorage.label            "Stockage hors connexion">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label            "Utiliser jusqu'à">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "Mo d'espace disque pour le cache">
+<!ENTITY limitCacheSizeBefore.label      "Limiter le cache à">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB d'espace disque">
 <!ENTITY clearCacheNow.label             "Vider le cache maintenant">
 <!ENTITY clearCacheNow.accesskey         "V">
-<!ENTITY smartSizeCache.label            "Laisser &brandShortName; gérer la taille du cache.">
-<!ENTITY smartSizeCache.accesskey        "L">
+<!ENTITY overrideSmartCacheSize.label    "Modifier la gestion automatique du cache">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Mises à jour">
 
