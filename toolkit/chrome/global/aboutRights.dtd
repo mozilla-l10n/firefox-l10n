@@ -21,10 +21,10 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Niektoré funkcie programu &brandShortName;, ako napríklad Oznamovateľ zlyhania, poskytujú možnosť odoslať spatnú väzbu spoločnosti &vendorShortName;. Odoslaním spätnej väzby dávate spoločnosti &vendorShortName; povolenie ju použiť pri vylepšovaní jej produktov, zverejniť ju na jej webových stránkach a ďalej ju rozširovať.">
+<!ENTITY rights.intro-point2.5 "Niektoré funkcie programu &brandShortName;, ako napríklad Oznamovateľ zlyhania, poskytujú možnosť odoslať spätnú väzbu spoločnosti &vendorShortName;. Odoslaním spätnej väzby dávate spoločnosti &vendorShortName; povolenie ju použiť pri vylepšovaní jej produktov, zverejniť ju na jej webových stránkach a ďalej ju rozširovať.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "Informácie o tom, ako pužívame vaše súkromné údaje a spätnú väzbu odoslanú spoločnosti &vendorShortName; cez aplikáciu &brandShortName; nájdete v ">
+<!ENTITY rights2.intro-point3a "Informácie o tom, ako používame vaše súkromné údaje a spätnú väzbu odoslanú spoločnosti &vendorShortName; cez aplikáciu &brandShortName; nájdete v ">
 <!ENTITY rights2.intro-point3b "Zásadách ochrany súkromia pre &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
@@ -62,7 +62,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Služba Prehliadanie s geolokáciou: ">
-<!ENTITY rights.locationawarebrowsing-b "Je vždy voliteľná. Bez vášho povolenie je sú nikdy odoslané žiadne údaje. Ak chcete túto službu vypnúť, postupujte nasledovne:">
+<!ENTITY rights.locationawarebrowsing-b "Je vždy voliteľná. Bez vášho povolenia nie sú nikdy odoslané žiadne údaje. Ak chcete túto službu vypnúť, postupujte nasledovne:">
 <!ENTITY rights.locationawarebrowsing-term1a "Do panela s adresou zadajte ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Do filtra zadajte geo.enabled">

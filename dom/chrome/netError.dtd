@@ -26,6 +26,7 @@
 
 <!ENTITY netOffline.title "Chyba: Režim offline">
 <!ENTITY netOffline.longDesc "<p>Prehliadač je momentálne v režime offline a nemôže sa pripojiť na požadovaný server. Prepnite prehliadač do režimu online a skúste to znova.</p>">
+<!ENTITY netOffline.longDesc2 "<p>Prehliadač je momentálne v režime offline a nemôže sa pripojiť na požadovaný server.</p><ul><li>Je počítač pripojený k aktívnej sieti?</li><li>Prepnite prehliadač o režimu online a skúste to znova.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Chyba kódovania obsahu">
 <!ENTITY contentEncodingError.longDesc "<p>Stránka nemôže byť zobrazená, pretože používa neplatné, alebo nepodporované formátovanie.</p><ul><li>Prosím, kontaktujte majiteľov stránky a informujte ich o tomto probléme.</li></ul>">
