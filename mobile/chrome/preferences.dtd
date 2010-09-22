@@ -18,3 +18,11 @@
 <!ENTITY homepage.none                             	"Lege side">
 <!ENTITY homepage.default                          	"&brandShortName; begjin">
 <!ENTITY homepage.currentpage                      	"Brûk aktuele side">
+<!ENTITY sync.title                                	"Sync">
+<!ENTITY sync.username                             	"Brûkersnamme">
+<!ENTITY sync.password                             	"Wachtwurd">
+<!ENTITY sync.secretPhrase                        	"Geheim wurd">
+<!ENTITY sync.deviceName                          	"Appartaatnamme">
+<!ENTITY sync.connect                              	"Ferbyn">
+<!ENTITY sync.disconnect                           	"Ferbining slute">
+<!ENTITY sync.syncNow                              	"Syngronisearje no">

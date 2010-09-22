@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title                "Wolkom by &brandShortName;">
-<!ENTITY firstrun.heading              "Om jo op wei te helpen, hjir binne in pear fan de meast populêre kenmerken en tafoegings om jo te helpen it measte út &brandShortName; te krijen.">
-<!ENTITY firstrun.recommended          "Oanrikkemandearre:">
-<!ENTITY firstrun.weave.title          "Krij Weave Sync">
-<!ENTITY firstrun.weave.description    "Diel jo &brandShortName; skiednis, wachtwurden, blêdwizers &amp; ljepblêden tusken jo búro-PC &amp; mobyl">
-<!ENTITY firstrun.starter.title        "Krij de Startkolleksje">
-<!ENTITY firstrun.starter.description  "Ynstallearje dizze oanrikkemandeare tafoegings om jo &brandShortName; ûnderfining te ferbetterjen">
-<!ENTITY firstrun.tour.title           "Nim in rûntrip">
-<!ENTITY firstrun.tour.description     "Besjoch dizze klip om bekend te reitsjen mei hoe't it te brûken en coole kenmerken te ûntdekken">
-<!ENTITY firstrun.features             "Sjoch mear kenmerken">
+<!ENTITY firstrun.heading2             "Wolkom by &brandShortName;">
+<!ENTITY firstrun.sync.title           "Krij Firefox Sync">
+<!ENTITY firstrun.sync.description     "Diel jo &brandShortName; skiednis, wachtwurden, blêdwizers &amp; ljepblêden tusken jo búro-PC &amp; mobyl">
+<!ENTITY firstrun.addons.title         "Krij tafoegings">
+<!ENTITY firstrun.addons.description   "Ynstallearje tafoegings om jo &brandShortName; ûnderfining te ferbetterjen">
+<!ENTITY firstrun.home.title           "Oan de slach">
+<!ENTITY firstrun.home.description     "Tik om nei jo persoanlike begjinside te gean en start mei browsen op it ynternet">
+<!ENTITY firstrun.relNotes.label       "Toan de útjefte-opmerkingen">
 <!ENTITY firstrun.faq                  "FAQ">
 <!ENTITY firstrun.privacy              "Privacybelied">
 <!ENTITY firstrun.follow               "Folgje ús op:">
