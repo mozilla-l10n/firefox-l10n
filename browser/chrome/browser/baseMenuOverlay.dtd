@@ -14,6 +14,8 @@
 <!ENTITY helpForIEUsers.label "Per gli utenti di Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "x">
 <!ENTITY helpMac.commandkey "?">
+<!ENTITY helpSafeMode.label "Riavvia disattivando i componenti aggiuntivi">
+<!ENTITY helpSafeMode.accesskey "d">
 <!ENTITY helpReleaseNotes.label "Note di versione">
 <!ENTITY helpReleaseNotes.accesskey "v">
 <!ENTITY helpTroubleshootingInfo.label "Risoluzione dei problemi">
