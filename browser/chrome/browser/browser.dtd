@@ -97,7 +97,6 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Остановить загрузку страницы">
 <!ENTITY goEndCap.tooltip "Перейти по введённому адресу">
-<!ENTITY feedButton.tooltip "Подписаться на ленты новостей…">
 <!ENTITY printButton.label "Печать">
 <!ENTITY printButton.tooltip "Распечатать эту страницу">
 <!ENTITY backForwardItem.title "Назад/Вперёд">
@@ -109,6 +108,8 @@
 <!ENTITY homeButton.label "Домой">
 <!ENTITY tabGroupsButton.label "Группы вкладок">
 <!ENTITY tabGroupsButton.tooltip "Сгруппировать ваши вкладки">
+<!ENTITY feedButton.label "Подписаться">
+<!ENTITY feedButton.tooltip "Подписаться на ленты новостей…">
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksButton.tooltip "Показать ваши закладки">
 <!ENTITY bookmarksButton.accesskey "к">
@@ -223,8 +224,10 @@
 <!ENTITY appMenuSidebars.label "Боковые панели">
 <!ENTITY appMenuFind.label "Найти…">
 <!ENTITY appMenuUnsorted.label "Неподшитые закладки">
+<!ENTITY appMenuWebDeveloper.label "Веб-разработка">
 <!ENTITY appMenuGettingStarted.label "Начало работы">
-<!ENTITY developerMenu.label "Разработка">
+<!ENTITY appMenuSafeMode.label "Перезапустить с отключёнными дополнениями…">
+<!ENTITY appMenuSafeMode.accesskey "з">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Перейти на веб-сайт">
 <!ENTITY urlbar.accesskey "d">

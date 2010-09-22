@@ -4,9 +4,9 @@
 <!ENTITY zoomWindow.label "Изменить масштаб">
 <!ENTITY windowMenu.label "Окно">
 <!ENTITY helpMenu.label "Справка">
-<!ENTITY helpMenu.accesskey "С">
+<!ENTITY helpMenu.accesskey "п">
 <!ENTITY helpMenuWin.label "Справка">
-<!ENTITY helpMenuWin.accesskey "С">
+<!ENTITY helpMenuWin.accesskey "п">
 <!ENTITY aboutProduct.label "О &brandShortName;">
 <!ENTITY aboutProduct.accesskey "О">
 <!ENTITY productHelp.label "Справка &brandShortName;">
@@ -14,6 +14,8 @@
 <!ENTITY helpForIEUsers.label "Для пользователей Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "л">
 <!ENTITY helpMac.commandkey "?">
+<!ENTITY helpSafeMode.label "Перезапустить с отключёнными дополнениями…">
+<!ENTITY helpSafeMode.accesskey "з">
 <!ENTITY helpReleaseNotes.label "Примечания к выпуску">
 <!ENTITY helpReleaseNotes.accesskey "р">
 <!ENTITY helpTroubleshootingInfo.label "Информация для решения проблем">
