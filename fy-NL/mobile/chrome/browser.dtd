@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "Werlade">
 <!ENTITY stop.label            "Stop">
 <!ENTITY go.label              "Gean">
-<!ENTITY openLocation.label    "Iepenje lokaasje">
 <!ENTITY star.label            "Stjer">
 
 <!ENTITY newtab.label          "Nij ljepblêd">
@@ -20,21 +19,15 @@
 <!ENTITY noSuggestions.label   "(Gjin foarstellen)">
 <!ENTITY addToDictionary.label "Foech ta oan wurdlist">
 
+<!ENTITY allPagesHeader.label      "Alle sides">
 <!ENTITY bookmarksHeader.label     "Blêdwizers">
-<!ENTITY bookmarksManage.label     "Beheare">
+<!ENTITY historyHeader.label       "Skiednis">
+<!ENTITY desktopHeader.label       "Búro-PC">
 
-<!ENTITY editBookmarkRemove.label    "Fuortsmite">
 <!ENTITY editBookmarkDone.label    "Klear">
 <!ENTITY editBookmarkTags.label    "Foech hjir labels ta">
 
-<!ENTITY helperApp.prompt          "Wat wolle jo graach dwaan mei">
-<!ENTITY helperApp.open            "Iepenje">
-<!ENTITY helperApp.save            "Bewarje">
-<!ENTITY helperApp.nothing         "Neat">
-
-<!ENTITY formHelper.previous       "Foarige">
-<!ENTITY formHelper.next           "Folgjende">
-<!ENTITY formHelper.done           "Dien">
+<!ENTITY selectHelper.done         "Klear">
 
 <!ENTITY addonsHeader.label        "Tafoegings">
 <!ENTITY addonsLocal.label         "Jo Tafoegings">
@@ -94,4 +87,18 @@
 <!ENTITY consoleErrColumn.label    "Kolom:">
 
 <!ENTITY contextOpenInNewTab.label "Iepenje keppeling yn nij ljepblêd">
+<!ENTITY contextSaveLink.label     "Bearje keppeling">
 <!ENTITY contextSaveImage.label    "Bewarje ôfbylding">
+<!ENTITY contextShareLink.label       "Diel keppeling">
+<!ENTITY contextShareImage.label      "Diel ôfbylding">
+<!ENTITY contextSaveVideo.label       "Bewarje fideo">
+<!ENTITY contextShareVideo.label      "Diel fideo">
+<!ENTITY contextEditBookmark.label    "Bewurkje">
+<!ENTITY contextRemoveBookmark.label  "Fuortsmite">
+
+<!ENTITY pageactions.saveas.pdf      "Bewarje as PDF">
+<!ENTITY pageactions.share.page      "Diel side">
+<!ENTITY pageactions.password.forget "Ferjit wachtwurd">
+<!ENTITY pageactions.reset           "Wiskje websteefoarkarren">
+<!ENTITY pageactions.findInPage      "Fyn yn side">
+<!ENTITY pageactions.search.addNew   "Sykmasine tafoegje">
