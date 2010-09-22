@@ -283,6 +283,8 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Sıralanmamış yer imleri">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "İlk Adım">
+<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Bir siteye git">
