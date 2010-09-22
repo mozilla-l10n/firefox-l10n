@@ -56,8 +56,10 @@
                                            
 <!ENTITY  errorpatching.intro             "אין אפשרות ליישם את העדכון החלקי. &brandShortName; ינסה שוב על־ידי הורדת עדכון שלם.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "משהו מונע מ־&brandShortName; לעדכן בצורה מאובטחת.
-                                           אנא בדוק שיש לך את הגרסה המעודכנת של &brandShortName; ב־">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
+                                           make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
+                                           Please make sure that you have the latest version of &brandShortName; from:">
 <!ENTITY  errorCertAttrHasUpdate.label    "משהו מנסה להערים על &brandShortName; כדי שיתקבל
                                            עדכון המהווה סיכון בטיחותי. אנא צור קשר עם ספק הרשת שלך בבקשת עזרה.">
 

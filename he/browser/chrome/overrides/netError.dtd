@@ -48,10 +48,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>הסר את הסימון מ־&quot;עבוד לא־מקוון&quot; בתפריט קובץ, ונסה שוב.</li>
-</ul>">
+  <li>Uncheck &quot;Work Offline&quot;, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "

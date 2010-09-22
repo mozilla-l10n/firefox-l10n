@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "הצג את דף הבית שלי">
 <!ENTITY startupBlankPage.label    "הצג דף ריק">
 <!ENTITY startupLastSession.label  "הצג את החלונות והלשוניות שלי מהפעם האחרונה">
-<!ENTITY location.label            "דף בית:">
-<!ENTITY location.accesskey        "ב">
+<!ENTITY homepage.label            "Home Page:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "השתמש בדף הנוכחי">
 <!ENTITY useCurrentPage.accesskey  "ד">
 <!ENTITY useMultiple.label         "השתמש בדפים הנוכחיים">
