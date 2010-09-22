@@ -27,11 +27,11 @@
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ha a cuore la privacy dei suoi utenti">
-<!ENTITY setup.newSyncKeyPage.description.label "Per garantire la massima privacy, tutti i dati vengono cifrati prima della trasmissione. La chiave di sincronizzazione necessaria per decifrarli non viene caricata sul server.">
-<!ENTITY syncKeyEntry.label "Chiave di sincronizzazione">
+<!ENTITY setup.newSyncKeyPage.description.label "Per garantire la massima privacy, tutti i dati vengono cifrati prima della trasmissione. La Chiave Sync necessaria per decifrarli non viene caricata sul server.">
+<!ENTITY syncKeyEntry.label "Chiave Sync">
 <!ENTITY syncKeyEntry.accesskey "C">
 <!ENTITY syncKeyGenerate.label "Genera">
-<!ENTITY syncKeyBackup.description "La chiave di sincronizzazione è indispensabile per accedere a &syncBrand.fullName.label; da altri computer. Si consiglia di crearne una copia di sicurezza in quanto non è possibile recuperarla in caso di smarrimento.">
+<!ENTITY syncKeyBackup.description "La Chiave Sync è indispensabile per accedere a &syncBrand.fullName.label; da altri computer. Si consiglia di crearne una copia di sicurezza in quanto non è possibile recuperarla in caso di smarrimento.">
 <!ENTITY button.syncKeyBackup.email.label "E-mail…">
 <!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label "Stampa…">
@@ -42,10 +42,10 @@
 <!ENTITY setup.existingAccount.title.label "Inserire le informazioni dell'account">
 <!ENTITY resetPassword.label "Ripristina la password">
 <!ENTITY connecting.label "Connessione in corso…">
-<!ENTITY setup.existingSyncKeyPage.title "Inserire la chiave di sincronizzazione">
-<!ENTITY setup.existingSyncKeyPage.description "La chiave di sincronizzazione è stata generata automaticamente o inserita dall'utente quando è stato creato l'account per &syncBrand.fullName.label;. Non coincide con la password.">
-<!ENTITY existingSyncKeyHelp.description "È possibile recuperare la chiave di sincronizzazione salvata sul computer nella sezione Password salvate all'interno del pannello Sicurezza. Se non si è in grado di risalire alla chiave di sincronizzazione corretta è possibile reimpostarla, ma verranno persi tutti i dati salvati sul server.">
-<!ENTITY lostSyncKey.label "Ho perso la chiave di sincronizzazione">
+<!ENTITY setup.existingSyncKeyPage.title "Inserire la Chiave Sync">
+<!ENTITY setup.existingSyncKeyPage.description "La Chiave Sync è stata generata automaticamente o inserita dall'utente quando è stato creato l'account per &syncBrand.fullName.label;. Non coincide con la password.">
+<!ENTITY existingSyncKeyHelp.description "È possibile recuperare la Chiave Sync salvata sul computer nella sezione Password salvate all'interno del pannello Sicurezza. Se non si è in grado di risalire alla Chiave Sync corretta è possibile reimpostarla, ma verranno persi tutti i dati salvati sul server.">
+<!ENTITY lostSyncKey.label "Ho perso la Chiave Sync">
 <!ENTITY verifying.label "Verifica in corso…">
 <!ENTITY setup.optionsPage.title "Opzioni di sincronizzazione">
 <!ENTITY syncComputerName.label "Nome del computer:">
