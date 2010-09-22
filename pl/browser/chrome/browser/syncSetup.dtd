@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label     "Wygeneruj">
 <!ENTITY syncKeyBackup.description "Klucz Sync jest potrzebny, by skorzystać z usługi &syncBrand.fullName.label; na innych urządzeniach. Prosimy o utworzenie kopii zapasowej klucza. W razie jego utraty nie będziemy w stanie pomóc ci go odzyskać.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Wyślij e-mail…">
-<!ENTITY button.syncKeyBackup.email.accesskey "e">
 <!ENTITY button.syncKeyBackup.print.label     "Wydrukuj…">
 <!ENTITY button.syncKeyBackup.print.accesskey "d">
 <!ENTITY button.syncKeyBackup.save.label      "Zapisz…">
