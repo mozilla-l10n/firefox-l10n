@@ -314,8 +314,8 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Osorterade bokmärken">
 <!ENTITY appMenuWebDeveloper.label "Webbutvecklare">
 <!ENTITY appMenuGettingStarted.label "Kom igång">
-
-<!ENTITY developerMenu.label "Utvecklare">
+<!ENTITY appMenuSafeMode.label "Starta om utan tillägg…">
+<!ENTITY appMenuSafeMode.accesskey "S">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gå till en webbplats">
