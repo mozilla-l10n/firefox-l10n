@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label     "Oanmeitsje">
 <!ENTITY syncKeyBackup.description "Jo Sync-kaai is nedich om mei &syncBrand.fullName.label; tagong te krijen op oare masines. Meitsje asjobleaft in reservekopy. Wy kinne jo net helpe om jo Sync-kaai werom te heljen.">
 
-<!ENTITY button.syncKeyBackup.email.label     "E-mail…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "Ofdrukke…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "Bewarje…">
