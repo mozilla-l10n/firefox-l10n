@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc a estas direcciones:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Separar direcciones con comas">
+<!ENTITY ccAddressList.placeholder "Separar direcciones con comas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Cco a estas direcciones:">
 <!ENTITY bccAddress.accesskey "o">
-<!ENTITY bccAddressList.emptytext "Separar direcciones con comas">
+<!ENTITY bccAddressList.placeholder "Separar direcciones con comas">
 <!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmación cuando se guarden los mensajes">
 <!ENTITY saveMessageDlg.accesskey "M">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
