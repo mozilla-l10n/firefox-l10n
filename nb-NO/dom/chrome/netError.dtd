@@ -26,6 +26,7 @@
 
 <!ENTITY netOffline.title "Frakoblet tilstand">
 <!ENTITY netOffline.longDesc "<p>Nettleseren er i frakoblet modus, og kan ikke koble til tjeneren.</p><ul><li>Er datamaskinen koblet til en aktiv nettverkstilknytning?</li><li>Sett nettleseren i tilkoblet modus og prøv igjen.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Nettleseren er i frakoblet modus, og kan ikke koble til tjeneren.</p><ul><li>Er datamaskinen koblet til en aktiv nettverkstilknytning?</li><li>Sett nettleseren i tilkoblet modus og prøv igjen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Feil med tegnkoding">
 <!ENTITY contentEncodingError.longDesc "<p>Nettsiden du forsøker å åpne kan ikke vises fordi den bruker en ukjent eller ugyldig komprimeringsmetode.</p><ul><li>Kontakt den ansvarlige for nettstedet og informer dem om problemet.</li></ul>">

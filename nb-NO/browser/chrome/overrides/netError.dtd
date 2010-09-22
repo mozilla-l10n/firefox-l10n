@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Frakoblet modus">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Fjern avkryssingen fra &quot;Arbeid frakoblet&quot; i Fil-menyen, og prøv igjen.</li>
+  <li>Fjern avkryssingen fra &quot;Arbeid frakoblet&quot; og prøv igjen.</li>
 </ul>
 ">
 
