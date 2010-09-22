@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label "Pro uživatele Internet Exploreru">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
+<!ENTITY helpSafeMode.label "Restartovat se zakázanými doplňky…">
+<!ENTITY helpSafeMode.accesskey "R">
 
 <!ENTITY helpReleaseNotes.label "Poznámky k vydání">
 <!ENTITY helpReleaseNotes.accesskey "P">

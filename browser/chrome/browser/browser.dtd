@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Zastaví načítání stránky">
 <!ENTITY goEndCap.tooltip "Přejde na adresu v adresním řádku">
-<!ENTITY feedButton.tooltip "Přihlásí k odběru kanálů na této stránce…">
 <!ENTITY printButton.label "Tisk">
 <!ENTITY printButton.tooltip "Vytiskne tuto stránku">
 
@@ -138,6 +137,9 @@ can reach it easily. -->
 
 <!ENTITY tabGroupsButton.label "Skupiny panelů">
 <!ENTITY tabGroupsButton.tooltip "Umožní seskupit panely">
+
+<!ENTITY feedButton.label "Odebírat">
+<!ENTITY feedButton.tooltip "Přihlásí k odběru kanálu na této stránce…">
 
 <!ENTITY bookmarksButton.label "Záložky">
 <!ENTITY bookmarksButton.tooltip "Zobrazí vaše záložky">
@@ -279,9 +281,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Postranní lišty">
 <!ENTITY appMenuFind.label "Najít…">
 <!ENTITY appMenuUnsorted.label "Nezatříděné záložky">
+<!ENTITY appMenuWebDeveloper.label "Webový vývoj">
 <!ENTITY appMenuGettingStarted.label "Začínáme">
-
-<!ENTITY developerMenu.label "Vývojář">
+<!ENTITY appMenuSafeMode.label "Restartovat se zakázanými doplňky…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Přejít na web">
@@ -542,7 +545,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label "Panely z jiných počítačů">
 
-<!ENTITY syncBrand.shortName.label  "Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
 
 <!ENTITY syncSetup.label "Nastavit &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "y">
