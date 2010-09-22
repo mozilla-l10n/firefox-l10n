@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label "Para utilizadores do Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Reiniciar com os extras desactivados…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label "Notas de lançamento">
 <!ENTITY helpReleaseNotes.accesskey "N">
