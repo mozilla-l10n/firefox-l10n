@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Detener la carga de la página">
 <!ENTITY goEndCap.tooltip "Ir a la dirección de la barra de direcciones">
-<!ENTITY feedButton.tooltip           "Suscribirse a esta página…">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 
@@ -138,6 +137,9 @@ can reach it easily. -->
 
 <!ENTITY tabGroupsButton.label        "Grupos de pestañas">
 <!ENTITY tabGroupsButton.tooltip      "Agrupar pestañas">
+
+<!ENTITY feedButton.label             "Subscribirse">
+<!ENTITY feedButton.tooltip           "Subscribirse a esta página…">
 
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
@@ -280,9 +282,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY appMenuFind.label "Buscar…">
 <!ENTITY appMenuUnsorted.label "Marcadores sin ordenar">
+<!ENTITY appMenuWebDeveloper.label "Diseñador web">
 <!ENTITY appMenuGettingStarted.label "Primeros pasos">
-
-<!ENTITY developerMenu.label "Desarrolladores">
+<!ENTITY appMenuSafeMode.label "Reiniciar con los complementos deshabilitados…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ir a un sitio web">
