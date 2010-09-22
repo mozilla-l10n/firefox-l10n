@@ -39,7 +39,7 @@
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY addons.windowTitle                   "Հավելումների մենեջեր">
 <!ENTITY search.placeholder                   "Search all add-ons">
-<!ENTITY loading.label                        "Loading…">
+<!ENTITY loading.label                        "Բեռնում...">
 <!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
 <!ENTITY listEmpty.availableUpdates.label     "No updates found">
 <!ENTITY listEmpty.recentUpdates.label        "Վերջին ժամանակներում դուք չեք թարմացրել որևէ հավելում">
@@ -64,12 +64,12 @@
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Search">
-<!ENTITY view.discover.label                  "Get Add-ons">
+<!ENTITY view.discover.label                  "Ձեռք բերել հավելումներ">
 <!ENTITY view.locales.label                   "Languages">
-<!ENTITY view.searchengines.label             "Search Engines">
+<!ENTITY view.searchengines.label             "Փնտրամեքենաներ">
 <!ENTITY view.features.label                  "Extensions">
 <!ENTITY view.appearance2.label               "Տեսքը">
-<!ENTITY view.plugins.label                   "Plugins">
+<!ENTITY view.plugins.label                   "Պլագիններ">
 <!ENTITY view.recentUpdates.label             "Վերջին Թարմացումները">
 <!ENTITY view.availableUpdates.label          "Առկա Թարմացումներ">
 
@@ -135,7 +135,7 @@
 <!ENTITY detail.lastupdated.label             "Վերջին Թարմացումը">
 <!ENTITY detail.creator.label                 "Ստեղծող">
 <!ENTITY detail.homepage.label                "ՀԻմնական էջ">
-<!ENTITY detail.numberOfDownloads.label       "Downloads">
+<!ENTITY detail.numberOfDownloads.label       "Բեռնումներ">
 
 <!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
 
