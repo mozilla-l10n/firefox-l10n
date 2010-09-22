@@ -138,6 +138,9 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "ਟੈਬ ਗਰੁੱਪ">
 <!ENTITY tabGroupsButton.tooltip      "ਆਪਣੀ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਓ">
 
+<!ENTITY feedButton.label             "ਮੈਂਬਰ ਬਣੋ">
+<!ENTITY feedButton.tooltip           "ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ…">
+
 <!ENTITY bookmarksButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 <!ENTITY bookmarksButton.accesskey  "B">
@@ -282,9 +285,11 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "ਬਾਹੀ">
 <!ENTITY appMenuFind.label "ਖੋਜ…">
 <!ENTITY appMenuUnsorted.label "ਬਿਨ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ">
+<!ENTITY appMenuWebDeveloper.label "ਵੈੱਬ ਡਿਵੈਲਪਰ">
 <!ENTITY appMenuGettingStarted.label "ਸ਼ੁਰੂਆਤ">
+<!ENTITY appMenuSafeMode.label "ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ ਚਲਾਓ…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
-<!ENTITY developerMenu.label "ਡਿਵੈਲਪਰ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "ਵੈੱਬ ਸਾਈਟ ਉੱਤੇ ਜਾਓ">
@@ -564,4 +569,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncSyncNowItem.label        "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "ਸਿੰਕ ਕਰੋ">

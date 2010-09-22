@@ -60,8 +60,6 @@
 <!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
                                            Please make sure that you have the latest version of &brandShortName; from:">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "ਕੁਝ &brandShortName; ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਅੱਪਡੇਟ ਹੋਣ ਤੋਂ ਰੋਕ ਰਿਹਾ ਹੈ।
-                                           ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ ਤੁਹਾਡੇ ਕੋਲ &brandShortName; ਦਾ ਨਵਾਂ ਵਰਜਨ ਹੈ, ਇੱਥੋਂ:">
 <!ENTITY  errorCertAttrHasUpdate.label    "ਕੁਝ &brandShortName; ਨੂੰ ਅਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ
                                            ਹੈ। ਆਪਣੇ ਨੈੱਟਵਰਕ ਉਪਲੱਬਧ ਕਰਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰਕੇ ਮੱਦਦ ਲਈ ਪੁੱਛੋ।">
 

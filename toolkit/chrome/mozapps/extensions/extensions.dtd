@@ -139,6 +139,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "ਅੱਪਡੇਟ ਮਿਤੀ ਨਾਲ ਲੜੀਬੱਧ ਕਰੋ">
 <!ENTITY sort.relevance.label                 "ਸਭ ਵਧੀਆ ਮੇਲ">
 <!ENTITY sort.relevance.tooltip               "ਢੁੱਕਵੇਂ ਮੁਤਾਬਕ ਲੜੀਬੱਧ ਕਰੋ">
+<!ENTITY sort.price.label                     "ਮੁੱਲ">
+<!ENTITY sort.price.tooltip                   "ਮੁੱਲ ਮੁਤਾਬਕ ਲੜੀਬੱਧ">
 
 <!ENTITY search.filter2.label                 "ਖੋਜ:">
 <!ENTITY search.filter2.installed.label       "ਮੇਰੇ ਐਡ-ਆਨ">
