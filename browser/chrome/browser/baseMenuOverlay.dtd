@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "För Internet Explorer-användare">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Starta om utan tillägg…">
+<!ENTITY helpSafeMode.accesskey   "S">
 
 <!ENTITY helpReleaseNotes.label         "Versionsfakta">
 <!ENTITY helpReleaseNotes.accesskey     "V">
