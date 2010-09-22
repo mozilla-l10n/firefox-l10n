@@ -312,6 +312,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Sidofält">
 <!ENTITY appMenuFind.label "Sök…">
 <!ENTITY appMenuUnsorted.label "Osorterade bokmärken">
+<!ENTITY appMenuWebDeveloper.label "Webbutvecklare">
 <!ENTITY appMenuGettingStarted.label "Kom igång">
 
 <!ENTITY developerMenu.label "Utvecklare">
