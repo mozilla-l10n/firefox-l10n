@@ -32,8 +32,6 @@
 <!ENTITY syncKeyEntry.accesskey "c">
 <!ENTITY syncKeyGenerate.label "Generar">
 <!ENTITY syncKeyBackup.description "Su clave de Sync es necesaria para acceder a &syncBrand.fullName.label; en otros equpos. Por favor, cree una copia ahora. No podemos ayudarle a recuperar su clave de Sync.">
-<!ENTITY button.syncKeyBackup.email.label "Correo…">
-<!ENTITY button.syncKeyBackup.email.accesskey "e">
 <!ENTITY button.syncKeyBackup.print.label "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
