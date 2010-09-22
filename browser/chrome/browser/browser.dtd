@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stopp lasting av denne siden">
 <!ENTITY goEndCap.tooltip             "Gå til adressen i adresselinjen">
-<!ENTITY feedButton.tooltip           "Abonner på denne siden …">
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denne siden">
 
@@ -138,6 +137,9 @@ can reach it easily. -->
 
 <!ENTITY tabGroupsButton.label        "Fanegrupper">
 <!ENTITY tabGroupsButton.tooltip      "Grupper fanene dine">
+
+<!ENTITY feedButton.label             "Abonner">
+<!ENTITY feedButton.tooltip           "Abonner på denne siden …">
 
 <!ENTITY bookmarksButton.label          "Bokmerker">
 <!ENTITY bookmarksButton.tooltip        "Viser bokmerkene dine">
@@ -279,9 +281,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Sidestolper">
 <!ENTITY appMenuFind.label "Finn …">
 <!ENTITY appMenuUnsorted.label "Usorterte bokmerker">
+<!ENTITY appMenuWebDeveloper.label "Nettsideutvikler">
 <!ENTITY appMenuGettingStarted.label "Kom i gang">
-
-<!ENTITY developerMenu.label "Utvikling">
+<!ENTITY appMenuSafeMode.label "Start på nytt uten utvidelser …">
+<!ENTITY appMenuSafeMode.accesskey "S">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gå til et nettsted">
