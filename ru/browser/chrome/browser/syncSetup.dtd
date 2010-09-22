@@ -32,8 +32,6 @@
 <!ENTITY syncKeyEntry.accesskey "к">
 <!ENTITY syncKeyGenerate.label "Сгенерировать">
 <!ENTITY syncKeyBackup.description "Ваш ключ синхронизации требуется для получения доступа к &syncBrand.fullName.label; с других машин. Пожалуйста, создайте его резервную копию. Мы не можем помочь вам восстановить ваш ключ синхронизации.">
-<!ENTITY button.syncKeyBackup.email.label "Послать по почте…">
-<!ENTITY button.syncKeyBackup.email.accesskey "о">
 <!ENTITY button.syncKeyBackup.print.label "Распечатать…">
 <!ENTITY button.syncKeyBackup.print.accesskey "ч">
 <!ENTITY button.syncKeyBackup.save.label "Сохранить…">
