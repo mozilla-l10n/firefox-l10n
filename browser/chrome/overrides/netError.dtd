@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo sin conexión a la red">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Desmarque &quot;Trabajar sin conexión&quot; en el menú Archivo e intente nuevamente.</li>
+  <li>Desmarque &quot;Trabajar sin conexión&quot; e intente nuevamente.</li>
 </ul>
 ">
 
