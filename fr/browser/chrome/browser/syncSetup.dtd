@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label     "Générer">
 <!ENTITY syncKeyBackup.description "Votre clé de synchronisation est nécessaire pour accéder à &syncBrand.fullName.label; sur d'autres machines. Veuillez en faire une copie de sauvegarde. Nous ne pourrons pas vous aider à la récupérer.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Courriel…">
-<!ENTITY button.syncKeyBackup.email.accesskey "e">
 <!ENTITY button.syncKeyBackup.print.label     "Imprimer…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label      "Enregistrer…">
