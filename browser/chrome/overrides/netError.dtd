@@ -43,11 +43,9 @@ bulunduğundan emin olun. Bu işaret sola değil,
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Çevrim dışı tarama kipi">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Uncheck &quot;Work Offline&quot;, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Dosya menüsündeki &quot;Çevdimdışı çalış&quot; seçeneğinin önündeki işareti kaldırıp yeniden deneyin.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "<ul> 

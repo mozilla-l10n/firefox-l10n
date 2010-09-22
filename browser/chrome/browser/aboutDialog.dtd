@@ -1,23 +1,23 @@
 <!ENTITY aboutDialog.title "&brandFullName; hakkında">
 
-<!ENTITY community.start2 "&brandShortName; is designed by ">
+<!ENTITY community.start2 "&brandShortName;, ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 ", a ">
+<!ENTITY community.middle2 "tarafından tasarlanmıştır. &vendorShortName;, interneti daha iyiye taşımak için birlikte çalışan ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink "global community">
-<!ENTITY community.end2 " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY community.creditsLink "küresel bir topluluktur">
+<!ENTITY community.end2 ". Biz, internetin herkes tarafından hiçbir kısıtlama olmadan erişilebilen, açık ve kamusal olması gerektiğine inanıyoruz.">
 
-<!ENTITY contribute.start "Sound interesting? ">
+<!ENTITY contribute.start "İlginç değil mi?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY contribute.getInvolvedLink "Katkıda bulunun!">
 <!ENTITY contribute.end "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license "Licensing Information">
+<!ENTITY bottomLinks.license "İzin bilgisi">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights "End User Rights">
+<!ENTITY bottomLinks.rights "Son kullanıcı hakları">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy "gizlilik politikasını">
+<!ENTITY bottomLinks.privacy "Gizlilik politikası">

@@ -14,7 +14,7 @@
 <!ENTITY server.label "Sunucu">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; sunucusu">
 <!ENTITY serverType.custom.label "Özel sunucu kullan">
-<!ENTITY signIn.account.label "Email Address / User Name">
+<!ENTITY signIn.account.label "E-posta adresi / Kullanıcı adı">
 <!ENTITY signIn.account.accesskey "E">
 <!ENTITY signIn.password.label "Parola">
 <!ENTITY signIn.password.accesskey "P">
@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label "Üret">
 <!ENTITY syncKeyBackup.description "Sync anahtarınız diğer makinelerde &syncBrand.fullName.label; uygulamasına erişmek için gereklidir. Lütfen yedek kopyasını alın. Sync anahtarınızı kurtarmanıza yardım edemeyiz.">
 
-<!ENTITY button.syncKeyBackup.email.label "E-postala...">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label "Yazdır...">
 <!ENTITY button.syncKeyBackup.print.accesskey "z">
 <!ENTITY button.syncKeyBackup.save.label "Kaydet...">

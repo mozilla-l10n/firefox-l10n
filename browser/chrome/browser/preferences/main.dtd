@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label "Giriş sayfamı göster">
 <!ENTITY startupBlankPage.label "Boş bir sayfa göster">
 <!ENTITY startupLastSession.label "Son oturumdaki pencereleri ve sekmeleri göster">
-<!ENTITY homepage.label "Home Page:">
-<!ENTITY homepage.accesskey "P">
+<!ENTITY homepage.label "Giriş sayfası:">
+<!ENTITY homepage.accesskey "G">
 <!ENTITY useCurrentPage.label "Güncel sayfayı kullan">
 <!ENTITY useCurrentPage.accesskey "G">
 <!ENTITY useMultiple.label "Güncel sayfaları kullan">

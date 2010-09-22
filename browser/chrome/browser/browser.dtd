@@ -31,8 +31,8 @@ can reach it easily. -->
 <!ENTITY moveToGroup.label "Gruba taşı">
 <!ENTITY moveToGroup.accesskey "t">
 <!ENTITY moveToNewGroup.label "Yeni grup">
-<!ENTITY moveToNewWindow.label "Move to New Window">
-<!ENTITY moveToNewWindow.accesskey "W">
+<!ENTITY moveToNewWindow.label "Yeni pencereye taşı">
+<!ENTITY moveToNewWindow.accesskey "n">
 <!ENTITY bookmarkAllTabs.label "Tüm sekmeleri yer imlerine ekle...">
 <!ENTITY bookmarkAllTabs.accesskey "T">
 <!ENTITY undoCloseTab.label "Kapatılan sekmeyi aç">
@@ -132,11 +132,11 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title "Yer imleri">
 <!-- Toolbar items --> 
 
-<!ENTITY appMenuButton.label "Menu">
+<!ENTITY appMenuButton.label "Menü">
 <!ENTITY homeButton.label "Başlangıç">
 
 <!ENTITY tabGroupsButton.label "Sekme grupları">
-<!ENTITY tabGroupsButton.tooltip "Group your tabs">
+<!ENTITY tabGroupsButton.tooltip "Sekmelerinizi gruplandırın">
 
 <!ENTITY feedButton.label "Abone ol">
 <!ENTITY feedButton.tooltip "Bu sayfaya abone ol…">
@@ -253,8 +253,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label "Görünüm">
 <!ENTITY viewMenu.accesskey "m">
-<!ENTITY viewTabGroups.label "Tab Groups">
-<!ENTITY viewTabGroups.accesskey "G">
+<!ENTITY viewTabGroups.label "Sekme grupları">
+<!ENTITY viewTabGroups.accesskey "u">
 <!ENTITY viewToolbarsMenu.label "Araç çubukları">
 <!ENTITY viewToolbarsMenu.accesskey "A">
 <!ENTITY viewSidebarMenu.label "Kenar çubuğu">
@@ -281,10 +281,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Kenar çubukları">
 <!ENTITY appMenuFind.label "Bul...">
 <!ENTITY appMenuUnsorted.label "Sıralanmamış yer imleri">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuWebDeveloper.label "Web geliştirici">
 <!ENTITY appMenuGettingStarted.label "İlk Adım">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuSafeMode.label "Eklentileri devre dışı bırakıp başlat...">
+<!ENTITY appMenuSafeMode.accesskey "d">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Bir siteye git">
@@ -494,8 +494,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "d">
 
-<!ENTITY bidiSwitchPageDirectionItem.label "Switch Page Direction">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "D">
+<!ENTITY bidiSwitchPageDirectionItem.label "Sayfanın yönünü değiştir">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "d">
 <!ENTITY bidiSwitchTextDirectionItem.label "Metnin yönünü değiştir">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "M">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "x">
@@ -546,10 +546,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncTabsMenu.label "Diğer bilgisayarlardaki sekmeler">
 
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.shortName.label "Eşitleme">
 
 <!ENTITY syncSetup.label "&syncBrand.shortName.label; kurulumu...">
 <!ENTITY syncSetup.accesskey "k">
 <!ENTITY syncSyncNowItem.label "Şimdi eşitle">
 <!ENTITY syncSyncNowItem.accesskey "m">
-<!ENTITY syncToolbarButton.label "Sync">
+<!ENTITY syncToolbarButton.label "Eşitleme">
