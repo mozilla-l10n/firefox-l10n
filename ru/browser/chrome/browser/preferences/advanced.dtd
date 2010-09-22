@@ -28,13 +28,13 @@
 <!ENTITY connectionSettings.label "Настроить…">
 <!ENTITY connectionSettings.accesskey "с">
 <!ENTITY offlineStorage.label "Автономное хранилище">
-<!ENTITY useCacheBefore.label "Использовать до">
-<!ENTITY useCacheBefore.accesskey "п">
-<!ENTITY useCacheAfter.label "МБ на диске для кэша">
+<!ENTITY limitCacheSizeBefore.label "Ограничить размер кэша">
+<!ENTITY limitCacheSizeBefore.accesskey "р">
+<!ENTITY limitCacheSizeAfter.label "МБ дискового пространства">
 <!ENTITY clearCacheNow.label "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
-<!ENTITY smartSizeCache.label "Позволить &brandShortName; управлять размером моего кэша">
-<!ENTITY smartSizeCache.accesskey "з">
+<!ENTITY overrideSmartCacheSize.label "Отключить автоматическое управление кэшем">
+<!ENTITY overrideSmartCacheSize.accesskey "л">
 <!ENTITY updateTab.label "Обновления">
 <!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
 <!ENTITY enableAppUpdate.label "Браузера &brandShortName;">
