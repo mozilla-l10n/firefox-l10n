@@ -51,12 +51,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "ਆਫ਼-ਲਾਈਨ ਮੋਡ">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>ਫਾਇਲ ਮੇਨੂ ਵਿੱਚੋਂ &quot;ਆਫ਼ਲਾਈਨ ਕੰਮ ਕਰੋ&quot; ਤੋਂ ਚੋਣ ਹਟਾਓ ਅਤੇ ਫੇਰ ਟਰਾਈ ਕਰੋ।</li>
+  <li>&quot;ਆਫਲਾਈਨ ਕੰਮ ਕਰ&quot; ਚੋਣ ਹਟਾ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</li>
 </ul>
 ">
-
 <!ENTITY contentEncodingError.title "ਸਮਗੱਰੀ ਇੰਕੋਡਿੰਗ ਗਲਤੀ">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
