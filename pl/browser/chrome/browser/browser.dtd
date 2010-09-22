@@ -289,9 +289,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Panele boczne">
 <!ENTITY appMenuFind.label "Znajdź…">
 <!ENTITY appMenuUnsorted.label "Zakładki nieprzypisane">
+<!ENTITY appMenuWebDeveloper.label "Dla twórców witryn">
 <!ENTITY appMenuGettingStarted.label "Pierwsze kroki">
-
-<!ENTITY developerMenu.label "Dla programistów">
+<!ENTITY appMenuSafeMode.label       "Uruchom ponownie z wyłączonymi dodatkami…">
+<!ENTITY appMenuSafeMode.accesskey   "U">
 
 <!ENTITY openCmd.commandkey "l" >
 <!ENTITY urlbar.placeholder           "Przejdź do witryny WWW">

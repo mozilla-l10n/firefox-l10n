@@ -16,8 +16,9 @@
 <!ENTITY productHelp.accesskey    "P">
 <!ENTITY helpForIEUsers.label     "Dla użytkowników Internet Explorera">
 <!ENTITY helpForIEUsers.accesskey "I">
-
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Uruchom ponownie z wyłączonymi dodatkami…">
+<!ENTITY helpSafeMode.accesskey   "U">
 
 <!ENTITY helpReleaseNotes.accesskey     "I">
 <!ENTITY helpReleaseNotes.label         "Informacje o wydaniu">
