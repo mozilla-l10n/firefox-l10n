@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label     "Generar">
 <!ENTITY syncKeyBackup.description "Se requiere su clave de sincronización para acceder a &syncBrand.fullName.label; en otras máquinas. Debe crear una copia de seguridad. No podemos ayudarlo a recuperar su clave de sincronización.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Correo electrónico…">
-<!ENTITY button.syncKeyBackup.email.accesskey "e">
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label      "Guardar…">
