@@ -18,6 +18,7 @@
 <!ENTITY netInterrupt.longDesc "<p>El navegador se conectó correctamente, pero se interrumpió la conexión mientras se estaba transfiriendo información. Por favor, vuelva a intentarlo.</p><ul><li>¿No puede navegar por otros sitios? Compruebe la conexión de red del equipo.</li><li>¿Todavía con problemas? Consulte con su administrador de red o proveedor de Internet para obtener asistencia técnica.</li></ul>">
 <!ENTITY netOffline.title "Modo sin conexión">
 <!ENTITY netOffline.longDesc "<p>El navegador está ahora en modo sin conexión y no puede conectarse al elemento solicitado</p><ul><li>¿Está el equipo conectado a una red activa? </li><li>Ponga el navegador en modo con conexión y vuelva a intentarlo.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>El navegador está ahora en modo sin conexión y no puede conectarse al elemento solicitado</p><ul><li>¿Está el equipo conectado a una red activa? </li><li>Ponga el navegador en modo con conexión y vuelva a intentarlo.</li></ul>">
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<p>La página que está intentando ver no puede mostrarse porque usa una forma no válida o no admitida de compresión.</p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
