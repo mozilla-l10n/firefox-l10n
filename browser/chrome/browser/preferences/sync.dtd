@@ -1,40 +1,41 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey "S">
+<!ENTITY setupButton.label "&syncBrand.fullName.label; kurulumu">
+<!ENTITY setupButton.accesskey "k">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; tüm aygıtlarınızdan tarama geçmişinize, yer imlerinize, parolalarınıza ve açık sekmelerinize erişmenize olanak sağlar.">
 <!-- The page shown when logged in... -->
 
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; hesabı">
-<!ENTITY currentUser.label "Geçerli kullanıcı:">
+<!ENTITY currentAccount.label "Current Account:">
 <!-- Login error feedback -->
 
-<!ENTITY updatePass.label "Update">
-<!ENTITY resetPass.label "Reset">
+<!ENTITY updatePass.label "Güncelle">
+<!ENTITY resetPass.label "Sıfırla">
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label "Hesabı yönet">
 <!ENTITY manageAccount.accesskey "y">
-<!ENTITY changePassword.label "Change Password">
-<!ENTITY mySyncKey.label "My Sync Key">
+<!ENTITY viewQuota.label "View Quota">
+<!ENTITY changePassword.label "Parolayı değiştir">
+<!ENTITY mySyncKey.label "Eşitleme anahtarım">
 <!ENTITY resetSync.label "Sync'i sıfırla">
-<!ENTITY differentAccount.label "Farklı bir hesap kullan">
+<!ENTITY stopUsingAccount.label "Stop Using This Account">
 <!-- Sync Settings -->
 
 <!ENTITY syncPrefsCaption.label "Tarayıcı eşitleme">
 <!ENTITY syncComputerName.label "Bilgisayar adı:">
 <!ENTITY syncComputerName.accesskey "B">
 
-<!ENTITY syncMy.label "Sync My">
-<!ENTITY engine.bookmarks.label "Bookmarks">
+<!ENTITY syncMy.label "Eşitlenecekler:">
+<!ENTITY engine.bookmarks.label "Yer imleri">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label "Tabs">
-<!ENTITY engine.tabs.accesskey "T">
-<!ENTITY engine.history.label "History">
-<!ENTITY engine.history.accesskey "r">
-<!ENTITY engine.passwords.label "Passwords">
+<!ENTITY engine.tabs.label "Sekmeler">
+<!ENTITY engine.tabs.accesskey "S">
+<!ENTITY engine.history.label "Geçmiş">
+<!ENTITY engine.history.accesskey "G">
+<!ENTITY engine.passwords.label "Parolalar">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label "Preferences">
-<!ENTITY engine.prefs.accesskey "S">
+<!ENTITY engine.prefs.label "Tercihler">
+<!ENTITY engine.prefs.accesskey "T">
 <!-- Footer stuff -->
 
 

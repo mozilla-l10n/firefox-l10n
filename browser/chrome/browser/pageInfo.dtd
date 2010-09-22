@@ -99,9 +99,9 @@
 <!ENTITY permInstall "Eklenti veya tema kur">
 <!ENTITY permGeo "Konumu paylaş">
 
-<!ENTITY permIndexedDB "Maintain Offline Storage">
-<!ENTITY permClearStorage "Clear Storage">
-<!ENTITY permClearStorage.accesskey "C">
+<!ENTITY permIndexedDB "Çevrim dışı depolamayı yönet">
+<!ENTITY permClearStorage "Depolananları temizle">
+<!ENTITY permClearStorage.accesskey "t">
 
 <!ENTITY securityTab "Güvenlik">
 <!ENTITY securityTab.accesskey "G">

@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey "a">
 <!ENTITY useSmoothScrolling.label "Akıcı kaydırmayı kullan">
 <!ENTITY useSmoothScrolling.accesskey "c">
-<!ENTITY allowHWAccel.label "Mümkün olduğunda donanımsal hızlandırmayı kullan">
+<!ENTITY allowHWAccel.label "Mümkün olduğunda donanım ivmelenmesini kullan">
 <!ENTITY allowHWAccel.accesskey "d">
 <!ENTITY checkSpelling.label "Yazarken yazım denetimi gerçekleştir">
 <!ENTITY checkSpelling.accesskey "t">
@@ -52,6 +52,8 @@
 <!ENTITY useCacheAfter.label "MB veri tut">
 <!ENTITY clearCacheNow.label "Şimdi temizle">
 <!ENTITY clearCacheNow.accesskey "z">
+<!ENTITY smartSizeCache.label "Let &brandShortName; manage the size of my cache">
+<!ENTITY smartSizeCache.accesskey "L">
 
 <!ENTITY updateTab.label "Güncelleme">
 

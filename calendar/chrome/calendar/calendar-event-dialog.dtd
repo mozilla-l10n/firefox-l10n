@@ -135,7 +135,7 @@
 
 <!ENTITY event.menu.options.label "Seçenekler">
 <!ENTITY event.menu.options.accesskey "S">
-<!ENTITY event.menu.options.attachments.label "Web sayfas ekle...">
+<!ENTITY event.menu.options.attachments.label "Web sayfası ekle...">
 <!ENTITY event.menu.options.attachments.accesskey "W">
 <!ENTITY event.menu.options.attendees.label "Katılımcıları davet et…">
 <!ENTITY event.menu.options.attendees.accesskey "K">
