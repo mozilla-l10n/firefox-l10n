@@ -9,7 +9,7 @@
 <!ENTITY manageAccount.accesskey "a">
 <!ENTITY viewQuota.label "Visualizza quota">
 <!ENTITY changePassword.label "Cambia la password">
-<!ENTITY mySyncKey.label "Chiave di sincronizzazione">
+<!ENTITY mySyncKey.label "Chiave Sync">
 <!ENTITY resetSync.label "Ripristina la sincronizzazione">
 <!ENTITY stopUsingAccount.label "Non utilizzare più questo account">
 <!ENTITY syncPrefsCaption.label "Sincronizzazione del browser">
