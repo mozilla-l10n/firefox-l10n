@@ -281,9 +281,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Sydbalken">
 <!ENTITY appMenuFind.label "Fyn…">
 <!ENTITY appMenuUnsorted.label "Net sortearre blêdwizers">
+<!ENTITY appMenuWebDeveloper.label "Webûntwikkeler">
 <!ENTITY appMenuGettingStarted.label "Om te starten">
-
-<!ENTITY developerMenu.label "Untwikkeler">
+<!ENTITY appMenuSafeMode.label "Werstart mei tafoegings útskeakele…">
+<!ENTITY appMenuSafeMode.accesskey "W">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gean nei in webside">
