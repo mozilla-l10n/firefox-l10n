@@ -1,28 +1,28 @@
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
-<!ENTITY pref.mouseWheel.title           "Mouse Wheel">
-<!ENTITY mouseWheelPanel.label           "Specify mouse wheel behavior when used with this modifier key: ">
-<!ENTITY usingJustTheWheel.label         "No modifier key">
+<!ENTITY pref.mouseWheel.title           "Rueda del mouse">
+<!ENTITY mouseWheelPanel.label           "Especificar el comportamiento de la rueda del mouse cuando se usa con una tecla: ">
+<!ENTITY usingJustTheWheel.label         "Sin tecla de modificación">
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Vertical scrolling">
-<!ENTITY mousewheelHorizGroup.label      "Horizontal scrolling">
-<!ENTITY scroll.label                    "Scroll the document by ">
-<!ENTITY scroll.accesskey                "S">
+<!ENTITY mousewheelGroup.label           "Desplazamiento vertical">
+<!ENTITY mousewheelHorizGroup.label      "Desplazamiento horizontal">
+<!ENTITY scroll.label                    "Desplazar el documento por ">
+<!ENTITY scroll.accesskey                "s">
 <!ENTITY scrollHoriz.accesskey           "c">
-<!ENTITY scrollLines.label               "lines">
-<!ENTITY scrollChars.label               "characters">
-<!ENTITY useSystemDefault.label          "Use system default">
-<!ENTITY useSystemDefault.accesskey      "U">
+<!ENTITY scrollLines.label               "líneas">
+<!ENTITY scrollChars.label               "caracteres">
+<!ENTITY useSystemDefault.label          "Predeterminados del sistema">
+<!ENTITY useSystemDefault.accesskey      "P">
 <!ENTITY useSystemDefaultHoriz.accesskey "d">
-<!ENTITY scrollPgUpPgDn.label            "Scroll a page up or a page down">
+<!ENTITY scrollPgUpPgDn.label            "Desplazar una página arriba o abajo">
 <!ENTITY scrollPgUpPgDn.accesskey        "p">
-<!ENTITY scrollPgLtPgRt.label            "Scroll a page left or a page right">
+<!ENTITY scrollPgLtPgRt.label            "Desplazar una página a la izquierda o a la derecha">
 <!ENTITY scrollPgLtPgRt.accesskey        "r">
-<!ENTITY history.label                   "Move back and forward in the browsing history">
-<!ENTITY history.accesskey               "M">
+<!ENTITY history.label                   "Ir adelante o atrás en el historial de navegación">
+<!ENTITY history.accesskey               "I">
 <!ENTITY historyHoriz.accesskey          "b">
-<!ENTITY zoom.label                      "Zoom the page in or out">
-<!ENTITY zoom.accesskey                  "Z">
+<!ENTITY zoom.label                      "Acercar o alejar la página (zoom)">
+<!ENTITY zoom.accesskey                  "z">
 <!ENTITY zoomHoriz.accesskey             "e">

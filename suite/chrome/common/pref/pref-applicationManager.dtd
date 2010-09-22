@@ -1,4 +1,4 @@
-<!ENTITY appManager.title     "Application details">
+<!ENTITY appManager.title     "Detalles de la aplicación">
 <!ENTITY appManager.style     "width: 40ch; min-height: 20em;">
-<!ENTITY remove.label         "Remove">
-<!ENTITY remove.accesskey     "R">
+<!ENTITY remove.label         "Eliminar">
+<!ENTITY remove.accesskey     "r">

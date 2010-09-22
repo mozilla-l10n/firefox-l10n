@@ -24,7 +24,7 @@
 <!ENTITY closeCmd.label                 "Cerrar">  
 <!ENTITY closeCmd.key                   "W">  
 
-<!ENTITY printSetupCmd.label            "Page Setup…">
+<!ENTITY printSetupCmd.label            "Configuración de página…">
 <!ENTITY printSetupCmd.accesskey        "u">
 
 <!ENTITY redoCmd.label                  "Rehacer">  

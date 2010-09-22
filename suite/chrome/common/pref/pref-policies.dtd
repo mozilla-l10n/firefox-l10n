@@ -1,19 +1,19 @@
 
-<!ENTITY  pref.policies.title "Security Policies">
+<!ENTITY  pref.policies.title "Políticas de seguridad">
 
-<!ENTITY  zoneIntro.label     "&brandShortName; allows you to create policies that determine what access certain websites have to various functionality, including aspects of scripting and Java.">
+<!ENTITY  zoneIntro.label     "&brandShortName; le permite crear políticas que determinen qué tipo de acceso tendrán algunos sitios a distintas funcionalidades, incluyendo poder ejecutar código o usar Java.">
 
-<!ENTITY  policies.label      "Policies:">
-<!ENTITY  default.label       "Default Policy">
-<!ENTITY  allWebsites.label   "All Websites">
-<!ENTITY  trusted.label       "Trusted Sites">
-<!ENTITY  annoyances.label    "Common Annoyances">
-<!ENTITY  restricted.label    "Restricted Sites">
+<!ENTITY  policies.label      "Políticas:">
+<!ENTITY  default.label       "Política predeterminada">
+<!ENTITY  allWebsites.label   "Todos los sitios web">
+<!ENTITY  trusted.label       "Sitios confiables">
+<!ENTITY  annoyances.label    "Molestias comunes">
+<!ENTITY  restricted.label    "Sitios restringidos">
 
-<!ENTITY  addSite.label       "Add Site…">
-<!ENTITY  addSite.accesskey   "a">
-<!ENTITY  settings.label      "Settings for ">
-<!ENTITY  settings.accesskey  "s">
+<!ENTITY  addSite.label       "Agregar sitio…">
+<!ENTITY  addSite.accesskey   "A">
+<!ENTITY  settings.label      "Configuración para ">
+<!ENTITY  settings.accesskey  "C">
 
-<!ENTITY  description.label   "Policy Description:">
+<!ENTITY  description.label   "Descripción de la política:">
  

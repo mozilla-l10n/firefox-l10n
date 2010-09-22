@@ -1,10 +1,10 @@
-<!ENTITY zoomEnlargeCmd.label       "Larger">
-<!ENTITY zoomEnlargeCmd.accesskey   "L">
+<!ENTITY zoomEnlargeCmd.label       "Más grande">
+<!ENTITY zoomEnlargeCmd.accesskey   "g">
 <!ENTITY zoomEnlargeCmd.commandkey  "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY zoomReduceCmd.label        "Smaller">
-<!ENTITY zoomReduceCmd.accesskey    "S">
+<!ENTITY zoomReduceCmd.label        "Más chico">
+<!ENTITY zoomReduceCmd.accesskey    "c">
 <!ENTITY zoomReduceCmd.commandkey   "-">
 
 <!ENTITY zoomResetCmd.commandkey    "0">

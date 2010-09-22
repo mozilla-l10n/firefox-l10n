@@ -1,15 +1,22 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
-<!ENTITY pref.content.title                     "Content">
-<!ENTITY pref.content.description               "These settings influence how website and message content appears in &brandShortName;.">
-<!ENTITY siteIcons.label                        "Website icons">
-<!ENTITY useSiteIcons.label                     "Show website icons">
-<!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY useFavIcons.label                      "Aggressively look for website icons when the page does not define one">
-<!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY enableAutomaticImageResizing.label     "Resize large images to fit in the browser window">
+<!ENTITY pref.content.title                     "Contenido">
+<!ENTITY pref.content.description               "Estas opciones influyen en cómo se muestran las páginas y los mensajes en &brandShortName;.">
+<!ENTITY siteIcons.label                        "Íconos del sitio web">
+<!ENTITY useSiteIcons.label                     "Mostrar íconos del sitio web">
+<!ENTITY useSiteIcons.accesskey                 "s">
+<!ENTITY useFavIcons.label                      "Buscar íconos del sitio web más profundamente cuando la página no defina uno">
+<!ENTITY useFavIcons.accesskey                  "a">
+<!ENTITY tbIconsDescription.label               "Mostrar el ícono del sitio web en el menú de la barra de marcadores y barra de herramientas:">
+<!ENTITY tbIconsNever.label                     "No mostrar nunca los íconos para marcadores">
+<!ENTITY tbIconsNever.accesskey                 "N">
+<!ENTITY tbIconsCache.label                     "Únicamente cuando el sitio web fue visto recientemente">
+<!ENTITY tbIconsCache.accesskey                 "o">
+<!ENTITY tbIconsAlways.label                    "Siempre cargar los íconos del sitio web para marcadores">
+<!ENTITY tbIconsAlways.accesskey                "w">
+<!ENTITY enableAutomaticImageResizing.label     "Redimensionar las imágenes grandes para que quepan en la ventana del navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label                  "Use smooth scrolling">
+<!ENTITY useSmoothScroll.label                  "Usar desplazamiento suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
-<!ENTITY textZoomOnly.label                     "Zoom only text instead of full pages">
-<!ENTITY textZoomOnly.accesskey                 "Z">
+<!ENTITY textZoomOnly.label                     "Hacer zoom sólo en el texto en lugar de la página completa">
+<!ENTITY textZoomOnly.accesskey                 "z">
