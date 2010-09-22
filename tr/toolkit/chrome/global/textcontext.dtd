@@ -14,7 +14,7 @@
 <!ENTITY spellAddToDictionary.label "Sözlüğe ekle">
 <!ENTITY spellAddToDictionary.accesskey "S">
 <!ENTITY spellCheckEnable.label "İmla denetimi">
-<!ENTITY spellCheckEnable.accesskey "İ">
+<!ENTITY spellCheckEnable.accesskey "m">
 <!ENTITY spellNoSuggestions.label "(İmla önerisi yok)">
 <!ENTITY spellDictionaries.label "Diller">
 <!ENTITY spellDictionaries.accesskey "l">

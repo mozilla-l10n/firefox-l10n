@@ -1,15 +1,15 @@
-<!ENTITY networkPanel.requestURL "Request URL">
-<!ENTITY networkPanel.requestMethod "Request Method">
-<!ENTITY networkPanel.statusCode "Status Code">
+<!ENTITY networkPanel.requestURL "URL iste">
+<!ENTITY networkPanel.requestMethod "İstek yöntemi">
+<!ENTITY networkPanel.statusCode "Durum kodu">
 
-<!ENTITY networkPanel.requestHeaders "Request Headers">
-<!ENTITY networkPanel.requestCookie "Sent Cookie">
-<!ENTITY networkPanel.requestBody "Request Body">
-<!ENTITY networkPanel.requestFormData "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders "İstek üst bilgisi">
+<!ENTITY networkPanel.requestCookie "Gönderilen çerez">
+<!ENTITY networkPanel.requestBody "Gövde iste">
+<!ENTITY networkPanel.requestFormData "Gönderilen form verisi">
 
-<!ENTITY networkPanel.responseHeaders "Response Headers">
-<!ENTITY networkPanel.responseBody "Response Body">
-<!ENTITY networkPanel.responseBodyCached "Cached Data">
-<!ENTITY networkPanel.responseNoBody "No Response Body">
-<!ENTITY networkPanel.responseImage "Received Image">
-<!ENTITY networkPanel.responseImageCached "Cached Image">
+<!ENTITY networkPanel.responseHeaders "Yanıt üst bilgisi">
+<!ENTITY networkPanel.responseBody "Yanıt gövdesi">
+<!ENTITY networkPanel.responseBodyCached "Önbellekteki veri">
+<!ENTITY networkPanel.responseNoBody "Yanıt gövdesi yok">
+<!ENTITY networkPanel.responseImage "Alınan resim">
+<!ENTITY networkPanel.responseImageCached "Önbellekteki resim">

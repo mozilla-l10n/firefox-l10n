@@ -51,8 +51,10 @@
                                            
 <!ENTITY errorpatching.intro "Bazı güncellemeler uygulanamıyor. &brandShortName; şimdi dosyaları tekrar indirmeye çalışacak.">
 
-<!ENTITY errorCertAttrNoUpdate.label "Bir şey &brandShortName; uygulamasının güvenli güncelleme yapmasını engelliyor. 
-&brandShortName; uygulamasının en son sürümüne sahip olduğunuzda emin olun:">
+<!ENTITY genericBackgroundError.label "&brandShortName; is unable to determine if there is an update available. Please
+                                           make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY errorCertAttrNoUpdate2.label "Something is preventing &brandShortName; from updating securely.
+                                           Please make sure that you have the latest version of &brandShortName; from:">
 <!ENTITY errorCertAttrHasUpdate.label "Bir şey &brandShortName; uygulamasını güvensiz 
 bir bağlantıyı kabul ettirmeye çalışıyor. Hizmet sağlayıcınızla görüşün ve yardım alın.">
 
