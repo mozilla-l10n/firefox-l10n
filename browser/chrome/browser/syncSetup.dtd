@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label     "Gerar">
 <!ENTITY syncKeyBackup.description "A sua chave do Sync é necessária para aceder ao &syncBrand.fullName.label; noutras máquinas. Por favor crie uma cópia de seguança. Não o podemos ajudar a recuperar a sua chave do Sync.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Correio electrónico…">
-<!ENTITY button.syncKeyBackup.email.accesskey "e">
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "Guardar…">
