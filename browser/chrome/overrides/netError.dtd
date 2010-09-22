@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Dirbama atsijungus nuo tinklo">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Prašom prisijungti (pašalinti meniu „Failas“ elemento „Atsijungti nuo tinklo“ žymėjimą) ir bandyti vėl.</li>
+  <li>Pašalinkite žymėjimą nuo meniu elemento „Atsijungti nuo tinklo“ ir bandykite vėl.</li>
 </ul>
 ">
 

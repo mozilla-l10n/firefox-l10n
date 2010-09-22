@@ -34,12 +34,12 @@
 
 <!ENTITY networkPanel.requestHeaders              "Užklausos antraštės">
 <!ENTITY networkPanel.requestCookie               "Išsiųstas slapukas">
-<!-- <!ENTITY networkPanel.requestBody                 "Request Body"> -->
+<!ENTITY networkPanel.requestBody                 "Užklausos turinys">
 <!ENTITY networkPanel.requestFormData             "Išsiųsti formos duomenys">
 
-<!ENTITY networkPanel.responseHeaders             "Gautos antraštės">
-<!-- <!ENTITY networkPanel.responseBody                "Response Body"> -->
+<!ENTITY networkPanel.responseHeaders             "Gauto atsakymo antraštės">
+<!ENTITY networkPanel.responseBody                "Gauto atsakymo turinys">
 <!ENTITY networkPanel.responseBodyCached          "Duomenys podėlyje">
-<!-- <!ENTITY networkPanel.responseNoBody              "No Response Body"> -->
+<!ENTITY networkPanel.responseNoBody              "Atsakymas be turinio">
 <!ENTITY networkPanel.responseImage               "Gautas paveikslas">
 <!ENTITY networkPanel.responseImageCached         "Paveikslas podėlyje">
