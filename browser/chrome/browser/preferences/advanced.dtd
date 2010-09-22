@@ -28,13 +28,13 @@
 <!ENTITY connectionSettings.label "Configuración…">
 <!ENTITY connectionSettings.accesskey "o">
 <!ENTITY offlineStorage.label "Archivado de modo sin conexión">
-<!ENTITY useCacheBefore.label "Usar hasta">
-<!ENTITY useCacheBefore.accesskey "h">
-<!ENTITY useCacheAfter.label "MB de espacio para la caché">
+<!ENTITY limitCacheSizeBefore.label "Limitar el caché a">
+<!ENTITY limitCacheSizeBefore.accesskey "L">
+<!ENTITY limitCacheSizeAfter.label "MB de espacio">
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
-<!ENTITY smartSizeCache.label "Dejar a &brandShortName; que administre el tamaño de la caché">
-<!ENTITY smartSizeCache.accesskey "l">
+<!ENTITY overrideSmartCacheSize.label "Ignorar la administración automática de caché">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
 <!ENTITY updateTab.label "Actualizar">
 <!ENTITY autoCheck.label "Buscar automáticamente actualizaciones para:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
