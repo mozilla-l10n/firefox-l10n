@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Compte de &syncBrand.fullName.label;">
-<!ENTITY currentUser.label            "Usuari actual:">
+<!ENTITY currentAccount.label         "Compte actual:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Actualitza">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gestiona el compte">
 <!ENTITY manageAccount.accesskey      "a">
+<!ENTITY viewQuota.label              "Visualitza la quota">
 <!ENTITY changePassword.label         "Canvia la contrasenya">
 <!ENTITY mySyncKey.label              "La meva clau de sincronització">
 <!ENTITY resetSync.label              "Reinicia la sincronització">
-<!ENTITY differentAccount.label       "Utilitza un compte diferent">
+<!ENTITY stopUsingAccount.label       "Deixa d'utilitzar aquest compte">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sincronització del navegador">
