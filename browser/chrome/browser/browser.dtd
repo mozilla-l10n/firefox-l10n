@@ -285,6 +285,8 @@ can reach it easily. -->
 <!ENTITY appMenuFind.label "Rechercher dans la page…">
 <!ENTITY appMenuUnsorted.label "Marque-pages non classés">
 <!ENTITY appMenuGettingStarted.label "Pour commencer">
+<!ENTITY appMenuSafeMode.label "Redémarrer avec les modules désactivés…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY developerMenu.label "Développement Web">
 

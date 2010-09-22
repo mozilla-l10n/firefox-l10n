@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "Pour les utilisateurs d'Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Redémarrer avec les modules désactivés…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label         "Notes de version">
 <!ENTITY helpReleaseNotes.accesskey     "N">
