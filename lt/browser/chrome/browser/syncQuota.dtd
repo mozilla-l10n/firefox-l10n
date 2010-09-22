@@ -30,3 +30,5 @@
 
 <!ENTITY quota.dialogTitle.label    "Serverio kvota">
 <!ENTITY quota.retrievingInfo.label "Informacija apie kvotą atsiunčiama…">
+<!ENTITY quota.typeColumn.label     "Tipas">
+<!ENTITY quota.sizeColumn.label     "Dydis">

@@ -49,6 +49,8 @@
 <!ENTITY helpForIEUsers.label           "Informacija „Internet Explorer“ naudotojams">
 <!ENTITY helpForIEUsers.accesskey       "I">
 <!ENTITY helpMac.commandkey             "?">
+<!ENTITY helpSafeMode.label             "Perleisti programą, išjungus priedus…">
+<!ENTITY helpSafeMode.accesskey         "r">
 
 <!ENTITY helpReleaseNotes.label         "Laidos apžvalga">
 <!ENTITY helpReleaseNotes.accesskey     "L">
