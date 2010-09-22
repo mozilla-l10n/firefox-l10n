@@ -61,7 +61,7 @@
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
+<!ENTITY setup.newAccountDetailsPage.title.label "Հաշվեհամարի Մանրամասներ">
 <!ENTITY setup.confirmPassword.label  "Confirm Password">
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "Email Address">
