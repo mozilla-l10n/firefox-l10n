@@ -57,11 +57,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "curățați tot istoricul recent">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent.label "Navigare fără urme în mod permanent">
+<!ENTITY  privateBrowsingPermanent.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Remember my browsing history">
-<!ENTITY  rememberHistory.accesskey  "b">
+<!ENTITY  rememberHistory.label      "Memorează istoricul navigării mele">
+<!ENTITY  rememberHistory.accesskey  "M">
 
 <!ENTITY  rememberDownload.label         "Memorează istoricul descărcărilor">
 <!ENTITY  rememberDownload.accesskey     "d">
