@@ -136,21 +136,25 @@
 
 <!ENTITY calendar.list.header.label         "Agendas">
 
-<!ENTITY calendar.task.filter.title.label "Afficher">
-<!ENTITY calendar.task.filter.all.label "Tout">
-<!ENTITY calendar.task.filter.all.accesskey "T">
-<!ENTITY calendar.task.filter.today.label "Aujourd'hui">
-<!ENTITY calendar.task.filter.today.accesskey "A">
-<!ENTITY calendar.task.filter.next7days.label "Les sept prochains jours">
-<!ENTITY calendar.task.filter.next7days.accesskey "L">
-<!ENTITY calendar.task.filter.notstarted.label "Les tâches non commencées">
-<!ENTITY calendar.task.filter.notstarted.accesskey "e">
-<!ENTITY calendar.task.filter.overdue.label "Les tâches dont l'échéance est dépassée">
-<!ENTITY calendar.task.filter.overdue.accesskey "s">
-<!ENTITY calendar.task.filter.completed.label "Les tâches terminées">
-<!ENTITY calendar.task.filter.completed.accesskey "c">
-<!ENTITY calendar.task.filter.open.label "Tâches inachevées">
-<!ENTITY calendar.task.filter.open.accesskey "n">
+<!ENTITY calendar.task.filter.title.label           "Afficher">
+<!ENTITY calendar.task.filter.all.label             "Tout">
+<!ENTITY calendar.task.filter.all.accesskey         "T">
+<!ENTITY calendar.task.filter.today.label           "Aujourd'hui">
+<!ENTITY calendar.task.filter.today.accesskey       "A">
+<!ENTITY calendar.task.filter.next7days.label       "Les sept prochains jours">
+<!ENTITY calendar.task.filter.next7days.accesskey   "L">
+<!ENTITY calendar.task.filter.notstarted.label      "Les tâches non commencées">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "e">
+<!ENTITY calendar.task.filter.overdue.label         "Les tâches dont l'échéance est dépassée">
+<!ENTITY calendar.task.filter.overdue.accesskey     "s">
+<!ENTITY calendar.task.filter.completed.label       "Les tâches terminées">
+<!ENTITY calendar.task.filter.completed.accesskey   "c">
+<!ENTITY calendar.task.filter.open.label            "Les tâches inachevées">
+<!ENTITY calendar.task.filter.open.accesskey        "n">
+<!ENTITY calendar.task.filter.current.label         "Les tâches en cours">
+<!ENTITY calendar.task.filter.current.accesskey     "u">
+<!ENTITY calendar.task.filter.repeating.label       "Les tâches récurrentes">
+<!ENTITY calendar.task.filter.repeating.accesskey   "r">
 
 <!ENTITY calendar.task-details.title.label "titre">
 <!ENTITY calendar.task-details.organizer.label "émetteur">
