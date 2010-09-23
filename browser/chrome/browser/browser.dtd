@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "停止载入当前页">
 <!ENTITY goEndCap.tooltip             "转到地址栏中指向的地址">
-<!ENTITY feedButton.tooltip           "订阅此页…">
 <!ENTITY printButton.label            "打印">
 <!ENTITY printButton.tooltip          "打印当前页">
 
@@ -138,6 +137,9 @@ can reach it easily. -->
 
 <!ENTITY tabGroupsButton.label        "标签页组">
 <!ENTITY tabGroupsButton.tooltip      "将您的标签页分组">
+
+<!ENTITY feedButton.label             "订阅">
+<!ENTITY feedButton.tooltip           "订阅此页…">
 
 <!ENTITY bookmarksButton.label          "书签">
 <!ENTITY bookmarksButton.tooltip        "显示您的书签">
@@ -279,9 +281,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "侧边栏">
 <!ENTITY appMenuFind.label "查找…">
 <!ENTITY appMenuUnsorted.label "未分类书签">
+<!ENTITY appMenuWebDeveloper.label "Web 开发人员">
 <!ENTITY appMenuGettingStarted.label "新手上路">
-
-<!ENTITY developerMenu.label "开发者">
+<!ENTITY appMenuSafeMode.label "重新启动并禁用附加组件…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "转到一个网站">
