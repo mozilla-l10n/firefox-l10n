@@ -43,10 +43,10 @@
 <!ENTITY syncKeyEntry.label        "Váš Synchronizačný kľúč">
 <!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncKeyGenerate.label     "Vygenerovať">
+<!ENTITY syncKeyStrength.label     "Sila kľúča:">
+<!ENTITY syncKeyHelp.label         "Čo je sila kľúča?">
 <!ENTITY syncKeyBackup.description "Na prístup k službe &syncBrand.fullName.label; z iných zariadení je potrebný Synchronizačný kľúč. Preto si vytvorte jeho kópiu. Váš Synchronizačný kľúč nie je možné po strate obnoviť.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Odoslať e-mailom…">
-<!ENTITY button.syncKeyBackup.email.accesskey "O">
 <!ENTITY button.syncKeyBackup.print.label     "Vytlačiť…">
 <!ENTITY button.syncKeyBackup.print.accesskey "V">
 <!ENTITY button.syncKeyBackup.save.label      "Uložiť…">
