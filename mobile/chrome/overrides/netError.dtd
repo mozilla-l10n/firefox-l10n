@@ -34,13 +34,12 @@
 ">
 <!ENTITY netInterrupt.title "La conexión ha sido interrumpida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "Modo sin conexión">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>Pruebe de nuevo. &brandShortName; intentará abrir una conexión y recargar la página.</li>
 </ul>
 ">
-<!ENTITY netOffline.title "Modo sin conexión">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -124,9 +123,9 @@
 <!ENTITY securityOverride.linkText "O puede añadir una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>No debería añadir una excepción si se está usando una conexión a Internet en la que no se confía plenamente o si no solía ver una advertencia en este sitio.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
