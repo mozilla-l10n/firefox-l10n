@@ -45,9 +45,9 @@
 <!ENTITY setPassword.meter.loading "Memuat">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Kembalikan">
-<!ENTITY resetPassword.title  "Reset Sandi Utama">
-<!ENTITY resetPassword.text  "Jika Anda mereset sandi utama, semua sandi web dan email, data form, sertifikat pribadi, dan kunci pribadi akan hilang. Yakin akan mereset sandi utama?">
+<!ENTITY resetPasswordButtonLabel "Setel Ulang">
+<!ENTITY resetPassword.title  "Setel Ulang Sandi Utama">
+<!ENTITY resetPassword.text  "Jika Anda menyetel ulang sandi utama, semua sandi web dan email, data form, sertifikat pribadi, dan kunci pribadi akan hilang. Yakin akan menyetel ulang sandi utama?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Ketikkan Sandi Utama">
