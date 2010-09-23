@@ -2,8 +2,8 @@
 <!ENTITY Toolbar.tooltip    "Hovedverktøylinje">
 
 
-<!ENTITY multiline-expand.tooltip   "Bytt til multilinje innskriving (Ctrl+Opp)">
-<!ENTITY multiline-contract.tooltip "Bytt til enkeltlinje innskriving (Ctrl+Ned)">
+<!ENTITY multiline-expand.tooltip   "Bytt til multilinje innskriving (Ctrl+opp)">
+<!ENTITY multiline-contract.tooltip "Bytt til enkeltlinje innskriving (Ctrl+ned)">
 <!ENTITY multiline-send.tooltip     "Send denne teksten (Ctrl+Enter)">
 <!ENTITY server-nick.tooltip        "Bytt kallenavn eller sett borte-tilstand. Trykk Escape for å fokusere på inputtboksen.">
 
