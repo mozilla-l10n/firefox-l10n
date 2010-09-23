@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "n">
 <!ENTITY disableContextMenus.label      "Mematikan atau mengganti menu konteks">
 <!ENTITY disableContextMenus.accesskey  "k">
-<!ENTITY hideStatusBar.label            "Menyembunyikan bilah status">
-<!ENTITY hideStatusBar.accesskey        "s">
-<!ENTITY changeStatusBar.label          "Mengubah teks di bilah status">
-<!ENTITY changeStatusBar.accesskey      "t">

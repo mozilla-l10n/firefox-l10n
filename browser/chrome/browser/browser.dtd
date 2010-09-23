@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Bilah Alat Bookmark">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Nama Bookmark">
-<!ENTITY taskbarCmd.label "Bilah Status">
-<!ENTITY taskbarCmd.accesskey "a">
+<!ENTITY addonBarCmd.label "Bilah Pengaya">
+<!ENTITY addonBarCmd.accesskey "P">
 
 <!ENTITY pageSourceCmd.label "Kode Sumber Laman">
 <!ENTITY pageSourceCmd.accesskey "S">
@@ -133,7 +133,8 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY homeButton.label            "Beranda">
+<!ENTITY appMenuButton.tooltip        "Tampilkan menu &brandShortName;">
+<!ENTITY homeButton.label             "Beranda">
 
 <!ENTITY tabGroupsButton.label        "Kelompok Tab">
 <!ENTITY tabGroupsButton.tooltip      "Kelompokkan tab peramban">
@@ -141,10 +142,10 @@ can reach it easily. -->
 <!ENTITY feedButton.label             "Langganan">
 <!ENTITY feedButton.tooltip           "Berlangganan laman ini…">
 
-<!ENTITY bookmarksButton.label          "Bookmark">
-<!ENTITY bookmarksButton.tooltip        "Menampilkan bookmark Anda">
-<!ENTITY bookmarksButton.accesskey  "B">
-<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksButton.label        "Bookmark">
+<!ENTITY bookmarksButton.tooltip      "Menampilkan bookmark Anda">
+<!ENTITY bookmarksButton.accesskey    "B">
+<!ENTITY bookmarksCmd.commandkey      "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bookmark">
 <!ENTITY bookmarksMenuButton.tooltip        "Tampilkan bookmark Anda">
