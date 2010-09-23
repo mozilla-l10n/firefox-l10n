@@ -6,11 +6,11 @@
 <!ENTITY community.middle2          ", sebuah ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komunitas global">
-<!ENTITY community.end2             " yang bekerja sama untuk Internet yang lebih baik. Kami percaya bahwa Internet harus bersifat terbuka, untuk publik, dan dapat diakses oleh semura orang tanpa batasan.">
+<!ENTITY community.end2             " yang bekerja sama untuk Internet yang lebih baik. Kami percaya bahwa Internet harus bersifat terbuka, untuk publik, dan dapat diakses oleh semua orang tanpa batasan.">
 
 <!ENTITY contribute.start           "Tertarik? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Ikutan!">
+<!ENTITY contribute.getInvolvedLink "Ikutan Yuk!">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
