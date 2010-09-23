@@ -47,7 +47,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "e">
 <!ENTITY disableContextMenus.label      "Blockera eller ersätta snabbmenyer">
 <!ENTITY disableContextMenus.accesskey  "B">
-<!ENTITY hideStatusBar.label            "Dölja statusfältet">
-<!ENTITY hideStatusBar.accesskey        "D">
-<!ENTITY changeStatusBar.label          "Ändra texten i statusfältet">
-<!ENTITY changeStatusBar.accesskey      "Ä">

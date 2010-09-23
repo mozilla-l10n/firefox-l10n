@@ -101,8 +101,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Bokmärkesfältet">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bokmärkesfältsposter">
-<!ENTITY taskbarCmd.label "Statusfältet">
-<!ENTITY taskbarCmd.accesskey "a">
+<!ENTITY addonBarCmd.label "Tilläggsfältet">
+<!ENTITY addonBarCmd.accesskey "T">
 
 <!ENTITY pageSourceCmd.label "Källkod">
 <!ENTITY pageSourceCmd.accesskey "ä">
