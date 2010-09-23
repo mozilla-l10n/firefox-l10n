@@ -30,7 +30,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY startDescription.label            "Ši svetainė atvėrė iškylantįjį langą be Jūsų užklausos. „&brandShortName;“ gali to neleisti. Tokiu atveju galima parinkti nuostatą, kad naršyklė užblokuodama iškylantįjį langą rodytų įspėjamąjį ženkliuką būsenos juostoje.">
+<!ENTITY startDescriptionText.label        "Ši svetainė bandė be Jūsų leidimo atverti iškylantįjį langą. „&brandShortName;“ šį langą automatiškai užvėrė.">
 
 <!ENTITY endDescription.label              "Spustelėjus šį ženkliuka galima peržiūrėti sąrašą svetainių, kurių iškylančiuosius langus naršyklė užblokavo. Taip pat galima parinkti, kad ateity svetainės iškylantieji langai būtų atveriami.">
 

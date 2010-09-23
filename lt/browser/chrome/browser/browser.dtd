@@ -101,8 +101,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Adresyno juosta">
 <!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Adresyno juostos elementai">
-<!ENTITY taskbarCmd.label "Būsenos juosta">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Priedų juosta">
+<!ENTITY addonBarCmd.accesskey "P">
 
 <!ENTITY pageSourceCmd.label "Pirminis tekstas">
 <!ENTITY pageSourceCmd.accesskey "t">
@@ -164,6 +164,7 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Meniu">
+<!ENTITY appMenuButton.tooltip        "Atverti „&brandShortName;“ meniu">
 <!ENTITY homeButton.label             "Pradžios tinklalapis">
 
 <!ENTITY tabGroupsButton.label        "Kortelių grupės">
