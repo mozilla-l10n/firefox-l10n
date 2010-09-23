@@ -41,18 +41,18 @@
 <!ENTITY offlineStorage.label            "Armazenamento em modo Desligado">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Utilizar até">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB de espaço em disco para a cache">
+<!ENTITY limitCacheSizeBefore.label      "Limitar cache até">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB de espaço">
 <!ENTITY clearCacheNow.label             "Limpar Agora">
 <!ENTITY clearCacheNow.accesskey         "g">
-<!ENTITY smartSizeCache.label            "Deixar o &brandShortName; gerir o tamanho da minha cache">
-<!ENTITY smartSizeCache.accesskey        "x">
+<!ENTITY overrideSmartCacheSize.label    "Sobrepor a gestão automática da cache">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label                 "Actualizar">
 
@@ -60,7 +60,7 @@
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Extras">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableAddonsUpdate2.accesskey   "t">
 <!ENTITY enableSearchUpdate.label        "Motores de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 <!ENTITY whenUpdatesFound.label          "Quando forem encontradas actualizações para o &brandShortName;:">
