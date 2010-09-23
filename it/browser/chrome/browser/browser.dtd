@@ -50,8 +50,8 @@
 <!ENTITY personalbarCmd.label "Barra dei segnalibri">
 <!ENTITY personalbarCmd.accesskey "s">
 <!ENTITY bookmarksToolbarItem.label "Oggetti della barra dei segnalibri">
-<!ENTITY taskbarCmd.label "Barra di stato">
-<!ENTITY taskbarCmd.accesskey "o">
+<!ENTITY addonBarCmd.label "Barra dei componenti aggiuntivi">
+<!ENTITY addonBarCmd.accesskey "c">
 <!ENTITY pageSourceCmd.label "Sorgente pagina">
 <!ENTITY pageSourceCmd.accesskey "n">
 <!ENTITY pageSourceCmd.commandkey "U">
@@ -105,6 +105,7 @@
 <!ENTITY throbberItem.title "Indicatore attività">
 <!ENTITY bookmarksItem.title "Segnalibri">
 <!ENTITY appMenuButton.label "Menu">
+<!ENTITY appMenuButton.tooltip "Apri il menu &brandShortName;">
 <!ENTITY homeButton.label "Pagina iniziale">
 <!ENTITY tabGroupsButton.label "Gruppi di schede">
 <!ENTITY tabGroupsButton.tooltip "Raggruppa le schede">
