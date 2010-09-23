@@ -18,12 +18,12 @@
 <!ENTITY printrangeGroup.label "Mehuta ya kgatišo">
 <!ENTITY allpagesRadio.label "Matlakala ohle">
 <!ENTITY allpagesRadio.accesskey "o">
-<!ENTITY rangeRadio.label "Matlakala">
-<!ENTITY rangeRadio.accesskey "M">
-<!ENTITY frompageInput.label "go tšwa go">
-<!ENTITY frompageInput.accesskey "t">
-<!ENTITY topageInput.label "go ya go">
-<!ENTITY topageInput.accesskey "g">
+<!ENTITY rangeRadio.label  "Matlakala">
+<!ENTITY rangeRadio.accesskey  "M">
+<!ENTITY frompageInput.label  "go tšwa go">
+<!ENTITY frompageInput.accesskey  "t">
+<!ENTITY topageInput.label  "go ya go">
+<!ENTITY topageInput.accesskey  "g">
 <!ENTITY selectionRadio.label "Kgetho">
 <!ENTITY selectionRadio.accesskey "K">
 
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Gatiša diforeimi">
 <!ENTITY aslaidoutRadio.label "Bjalo ka ge e adilwe sekirining">
 <!ENTITY aslaidoutRadio.accesskey "l">
-<!ENTITY selectedframeRadio.label "Foreimi ye e kgethilwego">
-<!ENTITY selectedframeRadio.accesskey "m">
-<!ENTITY eachframesepRadio.label "Foreimi ye nngwe le ye nngwe ka go arogana">
-<!ENTITY eachframesepRadio.accesskey "F">
+<!ENTITY selectedframeRadio.label  "Foreimi ye e kgethilwego">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Foreimi ye nngwe le ye nngwe ka go arogana">
+<!ENTITY eachframesepRadio.accesskey  "F">

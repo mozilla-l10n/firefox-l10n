@@ -1,171 +1,178 @@
-<!ENTITY addons.windowTitle "Add-ons Manager">
-<!ENTITY search.placeholder "Search all add-ons">
-<!ENTITY loading.label "Loading…">
-<!ENTITY listEmpty.installed.label "You don't have any add-ons of this type installed">
-<!ENTITY listEmpty.availableUpdates.label "No updates found">
-<!ENTITY listEmpty.recentUpdates.label "You haven't recently updated any add-ons">
-<!ENTITY listEmpty.findUpdates.label "Check For Updates">
-<!ENTITY listEmpty.search.label "Could not find any matching add-ons">
-<!ENTITY listEmpty.button.label "Learn more about add-ons">
-<!ENTITY installFromFile.label "Install From File…">
-<!ENTITY installFromFile.accesskey "I">
+<!ENTITY addons.windowTitle                   "Add-ons Manager">
+<!ENTITY search.placeholder                   "Nyaka ditlaleletši tšohle">
+<!ENTITY loading.label                        "Go hlahlela…">
+<!ENTITY listEmpty.installed.label            "Ga o na ditlaleletši tša mohuta wo tšeo di loketšwego">
+<!ENTITY listEmpty.availableUpdates.label     "Ga go a hwetšwa dimpshafatšo">
+<!ENTITY listEmpty.recentUpdates.label        "Moragobjale ga se wa mpshafatša ditlaleletši dife goba dife">
+<!ENTITY listEmpty.findUpdates.label          "Lekola dimpshafatšo">
+<!ENTITY listEmpty.search.label               "Ga go a hwetšwa ditlaleletši tšeo di swanago">
+<!ENTITY listEmpty.button.label               "Ithute mo gontši ka ditlaleletši">
+<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
 
-<!ENTITY cmd.back.tooltip "Go back one page">
-<!ENTITY cmd.forward.tooltip "Go forward one page">
+<!ENTITY cmd.back.tooltip                     "Boela morago ka letlakala le tee">
+<!ENTITY cmd.forward.tooltip                  "E-ya pele ka letlakala le tee">
 <!-- global warnings -->
 
-<!ENTITY warning.safemode.label "All add-ons have been disabled by safe mode.">
-<!ENTITY warning.checkcompatibility.label "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
-<!ENTITY warning.checkcompatibility.enable.label "Enable">
+<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label   "Enable">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
-<!ENTITY warning.updatesecurity.label "Add-on update security checking is disabled. You may be compromised by updates.">
-<!ENTITY warning.updatesecurity.enable.label "Enable">
-<!ENTITY warning.updatesecurity.enable.tooltip "Enable add-on update security checking">
+<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label       "Enable">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 <!-- categories / views -->
 
-<!ENTITY view.search.label "Nyaka">
-<!ENTITY view.discover.label "Hwetša ditlaleletši">
-<!ENTITY view.locales.label "Maleme">
-<!ENTITY view.searchengines.label "Search Engines">
-<!ENTITY view.features.label "Dikoketšo">
-<!ENTITY view.appearance2.label "Ponagalo">
-<!ENTITY view.plugins.label "Ditsebišo-koketšo">
-<!ENTITY view.recentUpdates.label "Recent Updates">
-<!ENTITY view.availableUpdates.label "Available Updates">
-<!ENTITY view.utilites.preferences.tooltip "Options for all add-ons">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Preferences for all add-ons">
+<!ENTITY view.search.label                    "Nyaka">
+<!ENTITY view.discover.label                  "Hwetša ditlaleletši">
+<!ENTITY view.locales.label                   "Maleme">
+<!ENTITY view.searchengines.label             "Dientšene tša nyako">
+<!ENTITY view.features.label                  "Dikoketšo">
+<!ENTITY view.appearance2.label               "Ponagalo">
+<!ENTITY view.plugins.label                   "Ditsebišo-koketšo">
+<!ENTITY view.recentUpdates.label             "Dimpshafatšo tša moragobjale">
+<!ENTITY view.availableUpdates.label          "Dimpshafatšo tšeo di lego gona">
 <!-- addon updates -->
 
-<!ENTITY updates.updateAddonsNow.label "Update Add-ons Now">
-<!ENTITY updates.updateAddonsNow.accesskey "U">
-<!ENTITY updates.viewUpdates.label "View Recent Updates">
-<!ENTITY updates.viewUpdates.accesskey "V">
-<!ENTITY updates.backgroudUpdateCheck.label "Check for Updates Automatically">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
-<!ENTITY updates.updating.label "Updating add-ons">
-<!ENTITY updates.installed.label "Your add-ons have been updated.">
-<!ENTITY updates.downloaded.label "Your add-on updates have been downloaded.">
-<!ENTITY updates.restart.label "Restart now to complete installation">
-<!ENTITY updates.noneFound.label "No updates found">
-<!ENTITY updates.manualUpdatesFound.label "View Available Updates">
-<!ENTITY updates.updateSelected.label "Install Updates">
-<!ENTITY updates.updateSelected.tooltip "Install available updates in this list">
+<!ENTITY updates.checkForUpdates.label        "Check for Updates">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "Lebelela dimpshafatšo tša moragobjale">
+<!ENTITY updates.viewUpdates.accesskey        "b">
+<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "Go mpshafatša ditlaleletši">
+<!ENTITY updates.installed.label              "Ditlaleletši tša gago di mpshafaditšwe.">
+<!ENTITY updates.downloaded.label             "Dimpshafatšo tša gago tša ditlaleletši di laollotšwe.">
+<!ENTITY updates.restart.label                "Thoma gape gona bjale gore o fetše go lokela">
+<!ENTITY updates.noneFound.label              "Ga go a hwetšwa dikaonafatšo">
+<!ENTITY updates.manualUpdatesFound.label     "Lebelela dimpshafatšo tšeo di lego gona">
+<!ENTITY updates.updateSelected.label         "Install Updates">
+<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label "Show More Information">
-<!ENTITY cmd.showDetails.accesskey "S">
-<!ENTITY cmd.findUpdates.label "Find Updates">
-<!ENTITY cmd.findUpdates.accesskey "F">
-<!ENTITY cmd.preferencesWin.label "Options">
-<!ENTITY cmd.preferencesWin.accesskey "O">
-<!ENTITY cmd.preferencesUnix.label "Preferences">
-<!ENTITY cmd.preferencesUnix.accesskey "P">
-<!ENTITY cmd.about.label "About">
-<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.showDetails.label                "Laetša tshedimošo e oketšegilego">
+<!ENTITY cmd.showDetails.accesskey            "L">
+<!ENTITY cmd.findUpdates.label                "Hwetša dikaonafatšo">
+<!ENTITY cmd.findUpdates.accesskey            "H">
+<!ENTITY cmd.preferencesWin.label             "Dikgetho">
+<!ENTITY cmd.preferencesWin.accesskey         "o">
+<!ENTITY cmd.preferencesUnix.label            "Dikganyogo">
+<!ENTITY cmd.preferencesUnix.accesskey        "D">
+<!ENTITY cmd.about.label                      "Ka ga">
+<!ENTITY cmd.about.accesskey                  "a">
 
-<!ENTITY cmd.enableAddon.label "Kgonagatša">
-<!ENTITY cmd.enableAddon.accesskey "K">
-<!ENTITY cmd.disableAddon.label "Šitiša">
-<!ENTITY cmd.disableAddon.accesskey "t">
-<!ENTITY cmd.enableTheme.label "Wear Theme">
-<!ENTITY cmd.enableTheme.accesskey "W">
-<!ENTITY cmd.disableTheme.label "Stop Wearing Theme">
-<!ENTITY cmd.disableTheme.accesskey "W">
-<!ENTITY cmd.installAddon.label "Install">
-<!ENTITY cmd.installAddon.accesskey "I">
-<!ENTITY cmd.uninstallAddon.label "Remove">
-<!ENTITY cmd.uninstallAddon.accesskey "R">
-<!ENTITY cmd.showPreferencesWin.label "Dikgetho">
-<!ENTITY cmd.showPreferencesWin.tooltip "Change this add-on's options">
-<!ENTITY cmd.showPreferencesUnix.label "Preferences">
-<!ENTITY cmd.showPreferencesUnix.tooltip "Change this add-on's preferences">
-<!ENTITY cmd.contribute.label "Contribute">
-<!ENTITY cmd.contribute.accesskey "C">
-<!ENTITY cmd.contribute.tooltip "Contribute to the development of this add-on">
+<!ENTITY cmd.enableAddon.label                "Kgonagatša">
+<!ENTITY cmd.enableAddon.accesskey            "K">
+<!ENTITY cmd.disableAddon.label               "Šitiša">
+<!ENTITY cmd.disableAddon.accesskey           "t">
+<!ENTITY cmd.enableTheme.label                "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.installAddon.label               "Lokela">
+<!ENTITY cmd.installAddon.accesskey           "o">
+<!ENTITY cmd.uninstallAddon.label             "Tloša">
+<!ENTITY cmd.uninstallAddon.accesskey         "T">
+<!ENTITY cmd.showPreferencesWin.label         "Dikgetho">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Fetoša dikgetho tša setlaleletši se">
+<!ENTITY cmd.showPreferencesUnix.label        "Dikganyogo">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Fetoša dikganyogo tša setlaleletši se">
+<!ENTITY cmd.contribute.label                 "Tsenya letsogo">
+<!ENTITY cmd.contribute.accesskey             "s">
+<!ENTITY cmd.contribute.tooltip               "Tsenya letsogo go tšwetšopele ya setlaleletši se">
 
-<!ENTITY cmd.showReleaseNotes.label "Show Release Notes">
-<!ENTITY cmd.showReleaseNotes.tooltip "Show the release notes for this update">
-<!ENTITY cmd.hideReleaseNotes.label "Hide Release Notes">
-<!ENTITY cmd.hideReleaseNotes.tooltip "Hide the release notes for this update">
+<!ENTITY cmd.showReleaseNotes.label           "Laetša dintlha tša tokollo">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Laetša dintlha tša tokollo tša mpshafatšo ye">
+<!ENTITY cmd.hideReleaseNotes.label           "Fihla dintlha tša tokollo">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Fihla dintlha tša tokollo tša mpshafatšo ye">
 <!-- detail view -->
 
-<!ENTITY detail.version.label "Version">
-<!ENTITY detail.lastupdated.label "Last Updated">
-<!ENTITY detail.creator.label "Developer">
-<!ENTITY detail.homepage.label "Homepage">
-<!ENTITY detail.numberOfDownloads.label "Downloads">
+<!ENTITY detail.version.label                 "Kgatišo">
+<!ENTITY detail.lastupdated.label             "Mpshafaditšwe la mafelelo">
+<!ENTITY detail.creator.label                 "Motšweletši">
+<!ENTITY detail.homepage.label                "Letlakala la mathomo">
+<!ENTITY detail.numberOfDownloads.label       "Ditaollo">
 
-<!ENTITY detail.contributions.description "The developer of this add-on asks that you help support its continued development by making a small contribution.">
+<!ENTITY detail.contributions.description     "Motšweletši wa setlaleletši se o kgopela gore o thuše ka go thekga tšwetšopele yeo e tšwelago pele ka go tsenya letsogo ganyenyane.">
 
-<!ENTITY detail.updateType "Automatic Updates">
-<!ENTITY detail.updateAutomatic.label "On">
-<!ENTITY detail.updateAutomatic.tooltip "Automatically install updates">
-<!ENTITY detail.updateManual.label "Timile">
-<!ENTITY detail.updateManual.tooltip "Don't automatically install updates">
-<!ENTITY detail.home "Homepage">
-<!ENTITY detail.repository "Add-on Profile">
-<!ENTITY detail.size "Bogolo">
+<!ENTITY detail.updateType                    "Dimpshafatšo tša boitirišo">
+<!ENTITY detail.updateDefault.label           "Default">
+<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateAutomatic.label         "Thumašitšwe">
+<!ENTITY detail.updateAutomatic.tooltip       "Lokela dimpshafatšo ka boitirišo">
+<!ENTITY detail.updateManual.label            "Timile">
+<!ENTITY detail.updateManual.tooltip          "O se ke wa lokela dimpshafatšo ka boitirišo">
+<!ENTITY detail.home                          "Letlakala la mathomo">
+<!ENTITY detail.repository                    "Profaele ya setlaleletši">
+<!ENTITY detail.size                          "Bogolo">
 
-<!ENTITY detail.checkForUpdates.label "Check for Updates">
-<!ENTITY detail.checkForUpdates.accesskey "F">
-<!ENTITY detail.checkForUpdates.tooltip "Check for updates for this add-on">
-<!ENTITY detail.showPreferencesWin.label "Options">
-<!ENTITY detail.showPreferencesWin.accesskey "O">
-<!ENTITY detail.showPreferencesWin.tooltip "Change this add-on's options">
-<!ENTITY detail.showPreferencesUnix.label "Preferences">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip "Change this add-on's preferences">
+<!ENTITY detail.checkForUpdates.label         "Lekola dikaonafatšo">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.tooltip       "Lekola dimpshafatšo tša setlaleletši se">
+<!ENTITY detail.showPreferencesWin.label      "Dikgetho">
+<!ENTITY detail.showPreferencesWin.accesskey  "o">
+<!ENTITY detail.showPreferencesWin.tooltip    "Fetoša dikgetho tša setlaleletši se">
+<!ENTITY detail.showPreferencesUnix.label     "Dikganyogo">
+<!ENTITY detail.showPreferencesUnix.accesskey "D">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Fetoša dikganyogo tša setlaleletši se">
 <!-- ratings -->
 
 
-<!ENTITY rating2.label "Rating">
+<!ENTITY rating2.label                        "Tekanyetšo:">
 <!-- download/install progress -->
 
-<!ENTITY progress.pause.tooltip "Khutša">
-<!ENTITY progress.cancel.tooltip "Khansela">
+<!ENTITY progress.pause.tooltip               "Khutša">
+<!ENTITY progress.cancel.tooltip              "Khansela">
 <!-- list sorting -->
 
 
-<!ENTITY sort.name.label "Leina">
-<!ENTITY sort.name.tooltip "Sort by name">
-<!ENTITY sort.dateUpdated.label "Last Updated">
-<!ENTITY sort.dateUpdated.tooltip "Sort by date updated">
-<!ENTITY sort.relevance.label "Best match">
-<!ENTITY sort.relevance.tooltip "Sort by relevance">
+<!ENTITY sort.name.label                      "Leina">
+<!ENTITY sort.name.tooltip                    "Latelanya ka leina">
+<!ENTITY sort.dateUpdated.label               "Mpshafaditšwe la mafelelo">
+<!ENTITY sort.dateUpdated.tooltip             "Tatelanyo ya letšatšikgwedi e mpshafaditšwe">
+<!ENTITY sort.relevance.label                 "Tshwantšho e kaone-kaone">
+<!ENTITY sort.relevance.tooltip               "Latelanya ka go sepelelana">
+<!ENTITY sort.price.label                     "Price">
+<!ENTITY sort.price.tooltip                   "Sort by price">
 
-<!ENTITY search.filter2.label "Search:">
-<!ENTITY search.filter2.installed.label "My Add-ons">
-<!ENTITY search.filter2.installed.tooltip "Show installed add-ons">
-<!ENTITY search.filter2.available.label "Available Add-ons">
-<!ENTITY search.filter2.available.tooltip "Show add-ons available to install">
+<!ENTITY search.filter2.label                 "Nyaka:">
+<!ENTITY search.filter2.installed.label       "Ditlaleletši tša-ka">
+<!ENTITY search.filter2.installed.tooltip     "Laetša ditlaleletši tšeo di loketšwego">
+<!ENTITY search.filter2.available.label       "Ditlaleletši tšeo di lego gona">
+<!ENTITY search.filter2.available.tooltip     "Laetša ditlaleletši tšeo di lego gona gore di lokelwe">
 
-<!ENTITY addon.homepage "Homepage">
-<!ENTITY addon.details.label "Ntši">
-<!ENTITY addon.details.tooltip "Show more details about this add-on">
-<!ENTITY addon.unknownDate "Unknown">
+<!ENTITY addon.homepage                       "Letlakala la mathomo">
+<!ENTITY addon.details.label                  "Ntši">
+<!ENTITY addon.details.tooltip                "Laetša dintlha tše oketšegilego ka setlaleletši se">
+<!ENTITY addon.unknownDate                    "Sa tsebjego">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix "(disabled)">
+<!ENTITY addon.disabled.postfix               "(šitišitšwe)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix "Update">
-<!ENTITY addon.undoAction.label "Undo">
-<!ENTITY addon.undoAction.tooltip "Undo this action">
-<!ENTITY addon.undoRemove.label "Undo">
-<!ENTITY addon.undoRemove.tooltip "Keep this add-on installed">
-<!ENTITY addon.restartNow.label "Restart now">
-<!ENTITY addon.install.label "Install">
-<!ENTITY addon.install.tooltip "Install this add-on">
-<!ENTITY addon.updateNow.label "Mpshafatša gona bjale.">
-<!ENTITY addon.updateNow.tooltip "Install the update for this add-on">
-<!ENTITY addon.includeUpdate.label "Include in Update">
-<!ENTITY addon.updateAvailable.label "An update is available">
-<!ENTITY addon.checkingForUpdates.label "Checking for updates…">
-<!ENTITY addon.releaseNotes.label "Release Notes:">
-<!ENTITY addon.loadingReleaseNotes.label "Loading…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+<!ENTITY addon.update.postfix                 "Mpshafatšo">
+<!ENTITY addon.undoAction.label               "Dirolla">
+<!ENTITY addon.undoAction.tooltip             "Dirolla tiro ye">
+<!ENTITY addon.undoRemove.label               "Dirolla">
+<!ENTITY addon.undoRemove.tooltip             "Boloka setlaleletši se se loketšwe">
+<!ENTITY addon.restartNow.label               "Thoma ka leswa gona bjale">
+<!ENTITY addon.install.label                  "Lokela">
+<!ENTITY addon.install.tooltip                "Lokela setlaleletši se">
+<!ENTITY addon.updateNow.label                "Mpshafatša gona bjale">
+<!ENTITY addon.updateNow.tooltip              "Lokela mpshafatšo ya setlaleletši se">
+<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.checkingForUpdates.label       "Go lekola dimpshafatšo...">
+<!ENTITY addon.releaseNotes.label             "Dintlha tša tokollo:">
+<!ENTITY addon.loadingReleaseNotes.label      "Go hlahlela…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Tshwarelo, eupša go bile le phošo ya go hlahlela dintlha tša tokollo">
 
-<!ENTITY addon.createdBy.label "By ">
+<!ENTITY addon.createdBy.label                "Ka">
