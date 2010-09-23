@@ -12,7 +12,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; ta fáise pa ti baxo los términos de la ">
+<!ENTITY rights.intro-point1a "&brandShortName; faise pa ti baxo los términos de la ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Esto quier dicir que puedes usar, copiar y distribuyir &brandShortName; a otres persones. Tamién puedes camudar el códigu fonte de &brandShortName; tolo que te pete p'adautalu a les tos necesidaes. La Llicencia Pública de Mozilla date drechu a distribuyir les versiones camudaes.">
 
