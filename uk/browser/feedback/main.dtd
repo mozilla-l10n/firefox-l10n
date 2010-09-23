@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label                      "Випробувач">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Налаштування">
 <!ENTITY testpilot.settings.dataSubmission.label    "Відсилання даних">
 <!ENTITY testpilot.settings.notifications.label     "Сповіщення">

@@ -39,9 +39,16 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Автономний режим">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Зніміть пташку з пункту «Працювати Автономно» у меню Файл і спробуйте знову.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Зніміть пташку з пункту меню «Працювати Автономно» та спробуйте знову.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Помилка кодування вмісту">
 <!ENTITY contentEncodingError.longDesc "<p>Сторінка, котру ви намагаєтесь переглянути, не може бути відображена через те, що використовує неправильну чи невідому форму стискання даних.</p> 
