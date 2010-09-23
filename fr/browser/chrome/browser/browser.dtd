@@ -71,11 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Éléments de la barre personnelle">
 <!ENTITY addonBarCmd.label "Barre des modules">
-<!ENTITY taskbarCmd.accesskey "d">
-<!-- backout pour bug 574688 -->
-<!ENTITY taskbarCmd.label "Barre d'état">
-<!ENTITY taskbarCmd.accesskey "B">
-<!-- fin backout -->
+<!ENTITY addonBarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Code source de la page">
 <!ENTITY pageSourceCmd.accesskey "o">
