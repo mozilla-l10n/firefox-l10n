@@ -41,7 +41,7 @@
 <!ENTITY ButtonType.label "Jenis">
 <!ENTITY ButtonType.accesskey "J">
 <!ENTITY submit.value "Kirim">
-<!ENTITY reset.value "Reset">
+<!ENTITY reset.value "Ulangi">
 <!ENTITY button.value "Tombol">
 
 <!ENTITY ButtonName.label "Nama:">

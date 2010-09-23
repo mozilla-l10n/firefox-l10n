@@ -18,7 +18,7 @@
 <!ENTITY enableJunkLogging.accesskey "g">
 <!ENTITY openJunkLog.label "Tampilkan log">
 <!ENTITY openJunkLog.accesskey "l">
-<!ENTITY resetTrainingData.label "Reset Data Training">
+<!ENTITY resetTrainingData.label "Setel Ulang Data Training">
 <!ENTITY resetTrainingData.accesskey "D">
 
 <!-- Phishing Detector -->
