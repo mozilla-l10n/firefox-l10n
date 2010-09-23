@@ -47,10 +47,8 @@
 <!ENTITY raiseLowerWindows.accesskey    "σ">
 <!ENTITY disableContextMenus.label      "Απενεργοποίηση ή αντικατάσταση των μενού περιεχομένου">
 <!ENTITY disableContextMenus.accesskey  "π">
-<!ENTITY hideStatusBar.label            "Απόκρυψη της μπάρας κατάστασης">
-<!ENTITY hideStatusBar.accesskey        "ψ">
-<!ENTITY changeStatusBar.label          "Αλλαγή του κειμένου της μπάρας κατάστασης">
-<!ENTITY changeStatusBar.accesskey      "γ">
+
+
 
 
 

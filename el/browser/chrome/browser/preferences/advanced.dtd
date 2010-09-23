@@ -31,9 +31,6 @@
 <!ENTITY connectionSettings.accesskey    "θ">
 
 
-<!ENTITY useCacheBefore.label            "Χρήση μέχρι">
-<!ENTITY useCacheBefore.accesskey        "χ">
-<!ENTITY useCacheAfter.label             "MB χώρου για την λανθάνουσα μνήμη">
 
 <!ENTITY askMe.label                     "Ερώτηση για το τι θέλω να κάνω">
 <!ENTITY askMe.accesskey                 "κ">
@@ -117,5 +114,19 @@
 
 <!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης hardware όπου είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey          "h">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "Όριο cache σε">
+<!ENTITY limitCacheSizeBefore.accesskey  "ρ">
+<!ENTITY limitCacheSizeAfter.label       "MB χώρου">
+<!ENTITY clearCacheNow.label             "Εκκαθάριση τώρα">
+<!ENTITY clearCacheNow.accesskey         "θ">
+<!ENTITY overrideSmartCacheSize.label    "Παράκαμψη αυτόματης διαχείρισης cache">
+<!ENTITY overrideSmartCacheSize.accesskey "ψ">
 
 

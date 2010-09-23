@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Λογαριασμός &syncBrand.fullName.label;">
-<!ENTITY currentUser.label            "Τρέχων χρήστης:">
+
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Ενημέρωση">
@@ -17,7 +17,7 @@
 <!ENTITY changePassword.label         "Αλλαγή κωδικού">
 
 <!ENTITY resetSync.label              "Εκκαθάριση συγχρονισμού">
-<!ENTITY differentAccount.label       "Χρήση ενός διαφορετικού λογαριασμού">
+
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Συγχρονισμός περιηγητή">
@@ -48,4 +48,7 @@
 <!ENTITY mySyncKey.label              "Το κλειδί συγχρονισμού μου">
 <!ENTITY syncMy.label               "Συγχρονισμός σε">
 
+<!ENTITY currentAccount.label         "Τρέχων λογαριασμός:">
+<!ENTITY stopUsingAccount.label       "Διακοπή χρήσης αυτού του λογαριασμού">
+<!ENTITY viewQuota.label              "Προβολή ορίων">
 

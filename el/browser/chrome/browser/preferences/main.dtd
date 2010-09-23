@@ -7,8 +7,6 @@
 <!ENTITY startupLastSession.label  "Προβολή των παραθύρων και καρτελών που υπήρχαν την τελευταία φορά">
 
 
-<!ENTITY location.label            "Τοποθεσία:">
-<!ENTITY location.accesskey        "θ">
 <!ENTITY useCurrentPage.label      "Χρήση τρέχουσας σελίδας">
 <!ENTITY useCurrentPage.accesskey  "ρ">
 <!ENTITY useMultiple.label         "Χρήση τρεχουσών σελίδων">
@@ -33,6 +31,8 @@
 <!ENTITY alwaysAsk.label "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">
 <!ENTITY alwaysAsk.accesskey "α">
 
+<!ENTITY homepage.label            "Αρχική σελίδα:">
+<!ENTITY homepage.accesskey        "χ">
 
 
 <!ENTITY addonsMgr.label            "Πρόσθετα">
