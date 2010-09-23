@@ -1,4 +1,5 @@
-A browser/chrome/browser/inspector.properties
-A toolkit/chrome/global/headsUpDisplay.dtd
-A toolkit/chrome/global/headsUpDisplay.properties
+browser/chrome/browser/inspector.properties
+toolkit/chrome/global/headsUpDisplay.dtd
+toolkit/chrome/global/headsUpDisplay.properties
+toolkit/chrome/global/webConsole.dtd
 
