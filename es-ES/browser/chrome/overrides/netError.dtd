@@ -44,10 +44,11 @@
 <!ENTITY netInterrupt.title "La conexión ha sido interrumpida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "Modo sin conexión">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-<li>Desmaque &quot;Trabajar sin conexión&quot; y después pruebe de nuevo.</li>
-</ul>">
+  <li>Desmarque el elemento del menú &quot;Trabajar sin conexión&quot; y pruebe de nuevo</li>
+</ul>
+">
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "
 <ul>

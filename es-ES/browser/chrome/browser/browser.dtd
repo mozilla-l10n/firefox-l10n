@@ -50,8 +50,8 @@
 <!ENTITY personalbarCmd.label "Barra de herramientas de marcadores">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elementos de la barra de herramientas de marcadores">
-<!ENTITY taskbarCmd.label "Barra de estado">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Barra de complementos">
+<!ENTITY addonBarCmd.accesskey "B">
 <!ENTITY pageSourceCmd.label "Código fuente de la página">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -105,6 +105,7 @@
 <!ENTITY throbberItem.title "Progreso">
 <!ENTITY bookmarksItem.title "Marcadores">
 <!ENTITY appMenuButton.label "Menú">
+<!ENTITY appMenuButton.tooltip "Abrir el menú &brandShortName; ">
 <!ENTITY homeButton.label "Inicio">
 <!ENTITY tabGroupsButton.label "Grupos de pestañas">
 <!ENTITY tabGroupsButton.tooltip "Agrupar pestañas">
