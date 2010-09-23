@@ -47,16 +47,12 @@
 <!ENTITY netInterrupt.title "La conexión fue interrumpida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "<ul>
-  <li>Intentá nuevamente. &brandShortName; intentará abrir una conexión y recargar la página.</li>
+<!ENTITY netOffline.title "Modo sin conexión a la red">
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Intentá nuevamente. &brandShortName;  intentará abrir una conexión y recargar la página.</li>
 </ul>
 ">
-
-<!ENTITY netOffline.title "Modo sin conexión a la red">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<ul>
@@ -156,13 +152,15 @@ alguien tratando de hacerse pasar por el servidor.</li>
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sáquenme de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "<p>No deberías agregar una excepción si estás usando una conexión a Internet en la que no confiás por completo o si no estás acostumbrado a ver mensajes de advertencia de este servidor.</p>
+<!ENTITY securityOverride.warningContent "
+No deberías agregar una excepción si estás usando una conexión a Internet en la que no confiás por completo o si no estás acostumbrado a ver mensajes de advertencia de este servidor.
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
