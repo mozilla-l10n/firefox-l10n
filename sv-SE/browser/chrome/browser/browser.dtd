@@ -164,6 +164,7 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Meny">
+<!ENTITY appMenuButton.tooltip        "Öppna &brandShortName;-menyn">
 <!ENTITY homeButton.label             "Startsida">
 
 <!ENTITY tabGroupsButton.label        "Flikgrupper">
