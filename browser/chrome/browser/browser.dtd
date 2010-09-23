@@ -61,17 +61,17 @@ can reach it easily. -->
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Pracovat offline">
-<!ENTITY goOfflineCmd.accesskey "l">
+<!ENTITY goOfflineCmd.accesskey "o">
 
 <!ENTITY menubarCmd.label "Hlavní nabídka">
 <!ENTITY menubarCmd.accesskey "H">
 <!ENTITY navbarCmd.label "Lišta navigace">
-<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Lišta záložek">
-<!ENTITY personalbarCmd.accesskey "L">
+<!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Záložky nástrojové lišty">
-<!ENTITY taskbarCmd.label "Stavový řádek">
-<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY addonBarCmd.label "Lišta doplňků">
+<!ENTITY addonBarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "Z">
@@ -133,6 +133,7 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label "Nabídka">
+<!ENTITY appMenuButton.tooltip "Otevře nabídku aplikace &brandShortName;">
 <!ENTITY homeButton.label "Domů">
 
 <!ENTITY tabGroupsButton.label "Skupiny panelů">

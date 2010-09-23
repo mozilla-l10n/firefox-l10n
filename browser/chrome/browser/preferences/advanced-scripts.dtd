@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey "n">
 <!ENTITY disableContextMenus.label "Zakázat nebo nahradit místní nabídku">
 <!ENTITY disableContextMenus.accesskey "Z">
-<!ENTITY hideStatusBar.label "Skrýt stavový řádek">
-<!ENTITY hideStatusBar.accesskey "S">
-<!ENTITY changeStatusBar.label "Měnit text ve stavovém řádku">
-<!ENTITY changeStatusBar.accesskey "M">
