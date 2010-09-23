@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "Для користувачів Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "я">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Перезапуск з вимкненими додатками…">
+<!ENTITY helpSafeMode.accesskey   "П">
 
 <!ENTITY helpReleaseNotes.label         "Інформація про випуск">
 <!ENTITY helpReleaseNotes.accesskey     "ф">

@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Панель закладок">
 <!ENTITY personalbarCmd.accesskey "к">
 <!ENTITY bookmarksToolbarItem.label "Елементи панелі закладок">
-<!ENTITY taskbarCmd.label "Рядок стану">
-<!ENTITY taskbarCmd.accesskey "я">
+<!ENTITY addonBarCmd.label "Панель додатків">
+<!ENTITY addonBarCmd.accesskey "д">
 
 <!ENTITY pageSourceCmd.label "Початковий код сторінки">
 <!ENTITY pageSourceCmd.accesskey "а">
@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Зупинити завантаження поточної сторінки">
 <!ENTITY goEndCap.tooltip             "Перейти за адресою з панелі адреси">
-<!ENTITY feedButton.tooltip           "Підписатись на цю сторінку…">
 <!ENTITY printButton.label            "Друкувати">
 <!ENTITY printButton.tooltip          "Надрукувати поточну сторінку">
 
@@ -134,10 +133,14 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Меню">
+<!ENTITY appMenuButton.tooltip        "Відкрити меню &brandShortName;">
 <!ENTITY homeButton.label             "Домашня сторінка">
 
 <!ENTITY tabGroupsButton.label        "Групи вкладок">
 <!ENTITY tabGroupsButton.tooltip      "Впорядкуйте ваші вкладки">
+
+<!ENTITY feedButton.label             "Підписатись">
+<!ENTITY feedButton.tooltip           "Підписатись на цю сторінку…">
 
 <!ENTITY bookmarksButton.label          "Закладки">
 <!ENTITY bookmarksButton.tooltip        "Показати ваші закладки">
@@ -279,9 +282,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Бічні панелі">
 <!ENTITY appMenuFind.label "Знайти…">
 <!ENTITY appMenuUnsorted.label "Несортовані закладки">
+<!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Перші кроки">
-
-<!ENTITY developerMenu.label "Розробка">
+<!ENTITY appMenuSafeMode.label "Перезапуск з вимкненими додатками…">
+<!ENTITY appMenuSafeMode.accesskey "д">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Перейти на сайт">
