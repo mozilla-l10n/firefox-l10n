@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Berhenti memuat laman ini">
 <!ENTITY goEndCap.tooltip             "Pindah ke alamat di Bilah Lokasi">
-<!ENTITY feedButton.tooltip           "Berlangganan laman ini…">
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak laman ini">
 
@@ -138,6 +137,9 @@ can reach it easily. -->
 
 <!ENTITY tabGroupsButton.label        "Kelompok Tab">
 <!ENTITY tabGroupsButton.tooltip      "Kelompokkan tab peramban">
+
+<!ENTITY feedButton.label             "Langganan">
+<!ENTITY feedButton.tooltip           "Berlangganan laman ini…">
 
 <!ENTITY bookmarksButton.label          "Bookmark">
 <!ENTITY bookmarksButton.tooltip        "Menampilkan bookmark Anda">
@@ -279,9 +281,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Bilah Samping">
 <!ENTITY appMenuFind.label "Cari…">
 <!ENTITY appMenuUnsorted.label "Bookmark Belum Diurut">
+<!ENTITY appMenuWebDeveloper.label "Pengembang Web">
 <!ENTITY appMenuGettingStarted.label "Memulai">
-
-<!ENTITY developerMenu.label "Pengembang">
+<!ENTITY appMenuSafeMode.label "Mulai Ulang dengan Pengaya Dinonaktifkan…">
+<!ENTITY appMenuSafeMode.accesskey "n">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Kunjungi sebuah Situs Web">
