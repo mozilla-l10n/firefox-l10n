@@ -49,12 +49,12 @@
 <!ENTITY linkToolbarNever.accesskey "H">
 
 <!-- Toolbar buttons, menus, and menuitems -->
-<!ENTITY topButton.label "顶部">
+<!ENTITY topButton.label "根站点">
 <!ENTITY upButton.label "向上">
-<!ENTITY firstButton.label "第一">
-<!ENTITY prevButton.label "后退">
-<!ENTITY nextButton.label "前进">
-<!ENTITY lastButton.label "最后">
+<!ENTITY firstButton.label "首个">
+<!ENTITY prevButton.label "上一个">
+<!ENTITY nextButton.label "下一个">
+<!ENTITY lastButton.label "末个">
 
 <!ENTITY documentButton.label "文档">
 
@@ -69,9 +69,9 @@
 <!ENTITY moreButton.label "更多">
 
 <!ENTITY helpButton.label "帮助">
-<!ENTITY searchButton.label "查找">
+<!ENTITY searchButton.label "站内检索（仅支持 Sherlock，不支持 OpenSearch）">
 
-<!ENTITY authorButton.label "作者(s)">
+<!ENTITY authorButton.label "作者">
 <!ENTITY copyrightButton.label "版权">
 
 <!ENTITY bookmarkButton.label "书签">
