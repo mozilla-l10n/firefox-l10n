@@ -26,7 +26,7 @@
 
 <!ENTITY netOffline.title "Modo sin conexión a la red">
 <!ENTITY netOffline.longDesc "<p>El navegador está actualmente funcionando en el modo sin conexión a la red y no puede conectarse al ítem solicitado.</p><ul><li>¿Está la computadora conectada a una red activa?</li><li>Ponga el navegador en modo con conexión e intente nuevamente.</li></ul>">
-<!ENTITY netOffline.longDesc2 "<p>El navegador está actualmente funcionando en el modo sin conexión a la red y no puede conectarse al ítem solicitado.</p><ul><li>¿Está la computadora conectada a una red activa?</li><li>Ponga el navegador en modo con conexión e intente nuevamente.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>El navegador está actualmente funcionando en el modo sin conexión a la red y no puede conectarse al ítem solicitado.</p><ul><li>¿Está la computadora conectada a una red activa?</li><li>Ponga el navegador en modo con conexión e intente nuevamente.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<p>La página que está tratando de ver no puede ser mostrada porque usa una forma de compresión no válida o no soportada.</p><ul><li>Contacte a los dueños del sitio para informarles sobre este problema.</li></ul>">
