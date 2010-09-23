@@ -143,7 +143,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-html" nc:name="Crear mensajes de correo en HTML" nc:link="mail_help.xhtml#creating_html_mail_messages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-attach" nc:name="Usar adjuntos" nc:link="mail_help.xhtml#using_attachments"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Borrar mensajes" nc:link="mail_help.xhtml#deleting_messages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Usar libretas de direcciones" nc:link="mail_help.xhtml#using_address_books"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Usar libretas de direcciones" nc:link="mailnews_addressbooks.xhtml#using_address_books"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Organizar los mensajes" nc:link="mailnews_organizing.xhtml#organizing_your_messages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-junk" nc:name="Controlar el correo basura" nc:link="mailnews_organizing.xhtml#controlling_junk_mail"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Comenzar con los grupos de noticias" nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups"/> </rdf:li>
@@ -245,16 +245,16 @@
   <rdf:Description about="#mail-doc-address">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-add-about" nc:name="Acerca de las libretas de direcciones" nc:link="mail_help.xhtml#about_address_books"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-names" nc:name="Añadir entradas a las libretas de direcciones" nc:link="mail_help.xhtml#adding_entries_to_your_address_books"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-book" nc:name="Crear una libreta de direcciones nueva" nc:link="mail_help.xhtml#creating_a_new_address_book"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-card" nc:name="Crear una nueva tarjeta en una  libreta de direcciones" nc:link="mail_help.xhtml#creating_a_new_address_book_card"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-list" nc:name="Crear una lista de distribución" nc:link="mail_help.xhtml#creating_a_mailing_list"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-listedit" nc:name="Editar una lista de distribución" nc:link="mail_help.xhtml#editing_a_mailing_list"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_ab_search" nc:name="Buscar en las libretas de direcciones y directorios" nc:link="mail_help.xhtml#searching_address_books_and_directories"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-import" nc:name="Importar libretas de direcciones" nc:link="mail_help.xhtml#importing_address_books"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-export" nc:name="Exportar libretas de direcciones" nc:link="mail_help.xhtml#exporting_address_books"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-sync-LDAP-add" nc:name="Añadir y borrar directorios LDAP" nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-about" nc:name="Acerca de las libretas de direcciones" nc:link="mailnews_addressbooks.xhtml#about_address_books"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-names" nc:name="Añadir entradas a las libretas de direcciones" nc:link="mailnews_addressbooks.xhtml#adding_entries_to_your_address_books"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-book" nc:name="Crear una libreta de direcciones nueva" nc:link="mailnews_addressbooks.xhtml#creating_a_new_address_book"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-card" nc:name="Crear una nueva tarjeta en una  libreta de direcciones" nc:link="mailnews_addressbooks.xhtml#creating_a_new_address_book_card"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-list" nc:name="Crear una lista de distribución" nc:link="mailnews_addressbooks.xhtml#creating_a_mailing_list"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-listedit" nc:name="Editar una lista de distribución" nc:link="mailnews_addressbooks.xhtml#editing_a_mailing_list"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_ab_search" nc:name="Buscar en las libretas de direcciones y directorios" nc:link="mailnews_addressbooks.xhtml#searching_address_books_and_directories"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-import" nc:name="Importar libretas de direcciones" nc:link="mailnews_addressbooks.xhtml#importing_address_books"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-export" nc:name="Exportar libretas de direcciones" nc:link="mailnews_addressbooks.xhtml#exporting_address_books"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-sync-LDAP-add" nc:name="Añadir y borrar directorios LDAP" nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -263,7 +263,7 @@
 <rdf:Description about="#mail-doc-add-card">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-card-properties" nc:name="Ver o editar las propiedades de las tarjetas" nc:link="mail_help.xhtml#viewing_or_editing_card_properties"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-card-properties" nc:name="Ver o editar las propiedades de las tarjetas" nc:link="mailnews_addressbooks.xhtml#viewing_or_editing_card_properties"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -271,7 +271,7 @@
 <rdf:Description about="#mail_ab_search">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_advanced_ab_search" nc:name="Buscar entradas específicas" nc:link="mail_help.xhtml#searching_for_specific_entries"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_advanced_ab_search" nc:name="Buscar entradas específicas" nc:link="mailnews_addressbooks.xhtml#searching_for_specific_entries"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -279,7 +279,7 @@
 <rdf:Description about="#mail-doc-add-sync-LDAP-add">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-ldap-properties" nc:name="Configuración del servidor de directorio" nc:link="mail_help.xhtml#directory_server_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-ldap-properties" nc:name="Configuración del servidor de directorio" nc:link="mailnews_addressbooks.xhtml#directory_server_settings"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
