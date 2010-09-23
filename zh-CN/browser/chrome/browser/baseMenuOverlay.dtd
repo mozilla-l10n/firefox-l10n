@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "致 Internet Explorer 用户">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "重新启动并禁用附加组件…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label         "发行说明">
 <!ENTITY helpReleaseNotes.accesskey     "N">
