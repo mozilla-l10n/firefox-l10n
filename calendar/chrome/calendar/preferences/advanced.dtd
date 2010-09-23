@@ -42,7 +42,7 @@
   -->
 
 <!ENTITY pref.calendar.advanced.generalTab.label "Utama">
-<!ENTITY pref.calendar.advanced.passwordsTab.label "Kata Sandi">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "Sandi">
 <!ENTITY pref.calendar.advanced.updateTab.label "Pemutakhiran">
 <!ENTITY pref.calendar.advanced.encryptionTab.label "Enkripsi">
 
@@ -55,13 +55,13 @@
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "g">
 
 <!-- Passwords -->
-<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; dapat mengingat informasi kata sandi untuk semua kalender Anda agar Anda tidak perlu memasukkan informasi log-masuk secara berulang-ulang.">
-<!ENTITY pref.calendar.advanced.useMasterPassword.label "Gunakan Kata Sandi Utama untuk mengenkripsi kata sandi simpanan">
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; dapat mengingat informasi sandi untuk semua kalender Anda agar Anda tidak perlu memasukkan informasi log-masuk secara berulang-ulang.">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "Gunakan Sandi Utama untuk mengenkripsi sandi simpanan">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "u">
-<!ENTITY pref.calendar.advanced.masterPassword.intro "Jika diaktifkan, Kata Sandi Utama akan melindungi semua kata sandi Anda, tetapi Anda harus memasukkannya sekali setiap sesi.">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Ubah Kata Sandi Utama…">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Jika diaktifkan, Sandi Utama akan melindungi semua sandi Anda, tetapi Anda harus memasukkannya sekali setiap sesi.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Ubah Sandi Utama…">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "U">
-<!ENTITY pref.calendar.advanced.viewPasswords.label "Tampilkan Kata Sandi Simpanan…">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "Tampilkan Sandi Simpanan…">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "S">
 
 <!-- Update -->

@@ -121,8 +121,8 @@
 <!ENTITY  securityView.privacy.cookies                  "Apakah situs web ini menyimpan informasi (kuki) dalam komputer saya?">
 <!ENTITY  securityView.privacy.viewCookies              "Tampilkan Kuki">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Pernahkah kata sandi untuk situs web ini disimpan?">
-<!ENTITY  securityView.privacy.viewPasswords            "Kata Sandi Tersimpan">
+<!ENTITY  securityView.privacy.passwords                "Pernahkah sandi untuk situs web ini disimpan?">
+<!ENTITY  securityView.privacy.viewPasswords            "Sandi Tersimpan">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">
 
 <!ENTITY  securityView.technical.header                 "Detail Teknis">

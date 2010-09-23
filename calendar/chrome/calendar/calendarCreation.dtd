@@ -42,9 +42,9 @@
 <!ENTITY initialpage.network.label  "Di dalam Jaringan">
 
 <!ENTITY locationpage.description         "Menyediakan keterangan tentang apa yang dibutuhkan untuk mengakses kalender daring Anda" >
-<!ENTITY locationpage.login.description   "Tidak wajib: masukkan nama pengguna dan kata sandi" >
+<!ENTITY locationpage.login.description   "Tidak wajib: masukkan nama pengguna dan sandi" >
 <!ENTITY locationpage.username.label      "Nama Pengguna:" >
-<!ENTITY locationpage.password.label      "Kata Sandi:" >
+<!ENTITY locationpage.password.label      "Sandi:" >
 
 <!ENTITY custompage.shortdescription  "Atur kalender Anda" >
 <!ENTITY custompage.longdescription   "Anda dapat memberikan nama alias (nickname) pada kalender Anda dan mengganti warna penunjuk acara pada kalender ini." >

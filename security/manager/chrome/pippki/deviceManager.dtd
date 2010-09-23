@@ -49,7 +49,7 @@
 <!ENTITY devmgr.button.login.accesskey          "u">
 <!ENTITY devmgr.button.logout.label             "Log-Keluar">
 <!ENTITY devmgr.button.logout.accesskey         "o">
-<!ENTITY devmgr.button.changepw.label           "Ubah Kata Sandi">
+<!ENTITY devmgr.button.changepw.label           "Ubah Sandi">
 <!ENTITY devmgr.button.changepw.accesskey       "S">
 <!ENTITY devmgr.button.load.label               "Muat">
 <!ENTITY devmgr.button.load.accesskey           "M">
