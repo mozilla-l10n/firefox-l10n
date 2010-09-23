@@ -41,18 +41,18 @@
 <!ENTITY offlineStorage.label            "Nedkopplad lagring">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Använd upp till">
-<!ENTITY useCacheBefore.accesskey        "A">
-<!ENTITY useCacheAfter.label             "MB utrymme för cachen">
+<!ENTITY limitCacheSizeBefore.label      "Begränsa cacheutrymmet till">
+<!ENTITY limitCacheSizeBefore.accesskey  "B">
+<!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Rensa nu">
 <!ENTITY clearCacheNow.accesskey         "R">
-<!ENTITY smartSizeCache.label            "Låt &brandShortName; hantera storleken på cachen">
-<!ENTITY smartSizeCache.accesskey        "L">
+<!ENTITY overrideSmartCacheSize.label    "Åsidosätt automatisk cachehantering">
+<!ENTITY overrideSmartCacheSize.accesskey "Å">
 
 <!ENTITY updateTab.label                 "Uppdateringar">
 
