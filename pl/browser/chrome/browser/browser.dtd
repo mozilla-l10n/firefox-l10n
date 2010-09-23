@@ -143,6 +143,7 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.tooltip        "Otwórz menu programu &brandShortName;">
 <!ENTITY homeButton.label             "Strona startowa" >
 
 <!ENTITY tabGroupsButton.label        "Grupy kart">
