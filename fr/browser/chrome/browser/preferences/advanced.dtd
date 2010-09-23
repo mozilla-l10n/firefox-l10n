@@ -49,7 +49,7 @@
 
 <!ENTITY limitCacheSizeBefore.label      "Limiter le cache à">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB d'espace disque">
+<!ENTITY limitCacheSizeAfter.label       "Mo d'espace disque">
 <!ENTITY clearCacheNow.label             "Vider le cache maintenant">
 <!ENTITY clearCacheNow.accesskey         "V">
 <!ENTITY overrideSmartCacheSize.label    "Modifier la gestion automatique du cache">
