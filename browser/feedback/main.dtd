@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label                      "试飞员">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "设置">
 <!ENTITY testpilot.settings.dataSubmission.label    "数据提交">
 <!ENTITY testpilot.settings.notifications.label     "通知">

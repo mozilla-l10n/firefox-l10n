@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "书签工具栏">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "书签工具栏项">
-<!ENTITY taskbarCmd.label "状态栏">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "附加组件栏">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "页面源代码">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -133,6 +133,7 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "菜单">
+<!ENTITY appMenuButton.tooltip        "打开 &brandShortName; 菜单">
 <!ENTITY homeButton.label             "主页">
 
 <!ENTITY tabGroupsButton.label        "标签页组">

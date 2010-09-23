@@ -1,4 +1,4 @@
-<!ENTITY startDescription.label            "一个网站尝试未经您的允许打开弹出窗口。&brandShortName; 已经自动关闭了该弹出窗口。每当 &brandShortName;  阻止弹出窗口时，您将在状态栏中看见一个图标。">
+<!ENTITY startDescriptionText.label        "一个网站尝试未经您的允许打开弹出窗口。&brandShortName; 已经自动关闭了该弹出窗口。">
 
 <!ENTITY endDescription.label              "您可以单击此图标以查看 &brandShortName; 阻止了的站点并允许这些站点弹出窗口（如果这样才能让网站正常工作的话）。">
 

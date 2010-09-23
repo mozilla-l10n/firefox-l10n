@@ -41,18 +41,18 @@
 <!ENTITY offlineStorage.label            "脱机存储">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "使用至多">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB 缓存空间">
+<!ENTITY limitCacheSizeBefore.label      "缓存最大为">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB 磁盘空间">
 <!ENTITY clearCacheNow.label             "立即清除">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY smartSizeCache.label            "让 &brandShortName; 管理我的缓存大小">
-<!ENTITY smartSizeCache.accesskey        "L">
+<!ENTITY overrideSmartCacheSize.label    "无视自动缓存管理">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "更新">
 

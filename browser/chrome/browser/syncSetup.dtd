@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label     "生成">
 <!ENTITY syncKeyBackup.description "在其他机器访问 &syncBrand.fullName.label; 您的同步密钥是必须的。请创建一个备份副本。我们不能帮助您恢复您的同步密钥。">
 
-<!ENTITY button.syncKeyBackup.email.label     "电子邮件…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "打印…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "保存…">

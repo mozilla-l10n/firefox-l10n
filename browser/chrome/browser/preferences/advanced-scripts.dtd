@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "禁用或替换上下文菜单">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "隐藏状态栏">
-<!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "修改状态栏内容">
-<!ENTITY changeStatusBar.accesskey      "C">
