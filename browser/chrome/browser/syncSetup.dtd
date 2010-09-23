@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label     "Generer">
 <!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkrevd for å få tilgang til &syncBrand.fullName.label; på flere maskiner. Lag en sikkerhetskopi. Vi kan ikke hjelpe deg å finne tilbake tilbake en glemt Sync-nøkkel.">
 
-<!ENTITY button.syncKeyBackup.email.label     "E-post …">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
 <!ENTITY button.syncKeyBackup.save.label      "Lagre …">

@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Bokmerker">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elementer i bokmerkelinje">
-<!ENTITY taskbarCmd.label "Statuslinje">
-<!ENTITY taskbarCmd.accesskey "a">
+<!ENTITY addonBarCmd.label "Utvidelseslinje">
+<!ENTITY addonBarCmd.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Kildekode">
 <!ENTITY pageSourceCmd.accesskey "K">
@@ -133,6 +133,7 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label          "Meny">
+<!ENTITY appMenuButton.tooltip        "Åpne &brandShortName;-menyen">
 <!ENTITY homeButton.label             "Startside">
 
 <!ENTITY tabGroupsButton.label        "Fanegrupper">
@@ -545,7 +546,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Faner fra andre datamaskiner">
 
-<!ENTITY syncBrand.shortName.label  "Sync">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Konfigurer &syncBrand.shortName.label; …">
 <!ENTITY syncSetup.accesskey          "K">
