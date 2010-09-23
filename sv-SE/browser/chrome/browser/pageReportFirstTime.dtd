@@ -29,7 +29,7 @@
    - Hasse Wallanger <jasajudeju@telia.com>
   -->
 
-<!ENTITY startDescription.label            "En webbplats har försökt öppna ett fönster utan din tillåtelse. &brandShortName; har automatiskt stängt det fönstret.  När &brandShortName; i fortsättningen blockerar denna typ av fönster kommer du att se denna ikon i statusfältet.">
+<!ENTITY startDescriptionText.label        "En webbplats har försökt öppna ett fönster utan din tillåtelse. &brandShortName; har automatiskt stängt det fönstret.">
 
 <!ENTITY endDescription.label              "Du kan klicka på denna ikon för att se vilka sidor som &brandShortName; blockerade, och för att tillåta webbplatsen att i fortsättningen öppna fönster om det behövs för att den ska fungera på rätt sätt.">
 
