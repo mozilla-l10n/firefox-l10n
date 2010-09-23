@@ -26,7 +26,7 @@
 
 <!ENTITY netOffline.title "Modo desligado">
 <!ENTITY netOffline.longDesc "<p>O navegador está a operar no modo desligado e não pode ligar ao item requerido.</p><ul><li>O computador está ligado a uma rede activa?</li><li>Coloque o navegador no modo ligado e tente novamente.</li></ul>">
-<!ENTITY netOffline.longDesc2 "<p>O navegador está a funcionar no modo desligado e não pode ligar-se ao item pedido.</p><ul><li>O computador está ligado a uma rede?</li><li>Coloque o navegador no modo ligado e tente novamente.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>O navegador está a funcionar no modo desligado e não pode ligar-se ao item pedido.</p><ul><li>O computador está ligado a uma rede?</li><li>Coloque o navegador no modo ligado e tente novamente.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erro de Codificação de Conteúdo">
 <!ENTITY contentEncodingError.longDesc "<p>A página que está a tentar ver não pode ser mostrado porque utilisa uma forma de compressão inválida ou não suportada.</p><ul><li>Por favor contacte os donos do sítio web para os informar deste problemas.</li></ul>">
