@@ -46,16 +46,19 @@
 <!ENTITY offlineStorage.label            "Pamięć trybu offline">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Używaj maksymalnie">
-<!ENTITY useCacheBefore.accesskey        "m">
-<!ENTITY useCacheAfter.label             "MB miejsca dla pamięci podręcznej">
+<!ENTITY limitCacheSizeBefore.label      "Ogranicz pamięć podręczną do ">
+<!ENTITY limitCacheSizeBefore.accesskey  "z">
+<!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Wyczyść teraz">
 <!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY overrideSmartCacheSize.label    "Używaj ręcznego zarządzania pamięcią podręczną">
+<!ENTITY overrideSmartCacheSize.accesskey "m">
+
 <!ENTITY smartSizeCache.label            "Program &brandShortName; ma zarządzać rozmiarami pamięci podręcznej">
 <!ENTITY smartSizeCache.accesskey        "z">
 
