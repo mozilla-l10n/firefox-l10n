@@ -18,17 +18,17 @@
 <!ENTITY  addonExceptions.accesskey     "P">
 
 
-<!ENTITY  passwords.label               "Kata Sandi">
+<!ENTITY  passwords.label               "Sandi">
 
-<!ENTITY  rememberPasswords.label       "Ingat kata sandi untuk situs web">
+<!ENTITY  rememberPasswords.label       "Ingat sandi untuk situs web">
 <!ENTITY  rememberPasswords.accesskey   "I">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "c">
 
-<!ENTITY  useMasterPassword.label        "Gunakan kata sandi utama">
+<!ENTITY  useMasterPassword.label        "Gunakan sandi utama">
 <!ENTITY  useMasterPassword.accesskey    "m">
-<!ENTITY  changeMasterPassword.label     "Ubah Kata Sandi Utama…">
+<!ENTITY  changeMasterPassword.label     "Ubah Sandi Utama…">
 <!ENTITY  changeMasterPassword.accesskey "U">
 
-<!ENTITY  savedPasswords.label            "Kata Sandi Tersimpan…">
-<!ENTITY  savedPasswords.accesskey        "K">
+<!ENTITY  savedPasswords.label            "Sandi Tersimpan…">
+<!ENTITY  savedPasswords.accesskey        "S">

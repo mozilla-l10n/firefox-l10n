@@ -1,7 +1,7 @@
 <!ENTITY header.label     "Judul Singkat"> 
 <!ENTITY message.label    "Teks contoh di sini.">
 <!ENTITY editfield0.label "Nama Pengguna:"> 
-<!ENTITY editfield1.label "Kata Sandi:"> 
+<!ENTITY editfield1.label "Sandi:"> 
 <!ENTITY checkbox.label   "tandai">
 <!ENTITY copyCmd.label    "Salin">
 <!ENTITY copyCmd.accesskey "S">

@@ -1,6 +1,6 @@
 <!ENTITY itemJunk.label          "Junk">
 <!ENTITY itemPhishing.label      "Penipuan Email">
-<!ENTITY itemPasswords.label     "Kata Sandi">
+<!ENTITY itemPasswords.label     "Sandi">
 <!ENTITY itemAntiVirus.label     "Anti-Virus">
 <!ENTITY itemCookies.label       "Konten Web">
 
@@ -29,13 +29,13 @@
 <!ENTITY useDownloadedList.accesskey "u">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "&brandShortName; dapat menyimpan informasi kata sandi untuk semua akun Anda sehingga Anda tidak perlu mengetikkan ulang informasi log-masuk Anda berkali-kali.">
-<!ENTITY useMasterPassword.label        "Gunakan Kata Sandi Utama">
+<!ENTITY savedPasswords.intro           "&brandShortName; dapat menyimpan informasi sandi untuk semua akun Anda sehingga Anda tidak perlu mengetikkan ulang informasi log-masuk Anda berkali-kali.">
+<!ENTITY useMasterPassword.label        "Gunakan Sandi Utama">
 <!ENTITY useMasterPassword.accesskey    "m">
-<!ENTITY masterPassword.intro           "Jika diatur Kata Sandi Utama melindungi semua kata sandi Anda - tetapi Anda harus mengetikkannya sekali dalam satu sesi.">
-<!ENTITY changeMasterPassword.label     "Ubah Kata Sandi Utama…">
+<!ENTITY masterPassword.intro           "Jika diatur Sandi Utama melindungi semua sandi Anda - tetapi Anda harus mengetikkannya sekali dalam satu sesi.">
+<!ENTITY changeMasterPassword.label     "Ubah Sandi Utama…">
 <!ENTITY changeMasterPassword.accesskey "S">
-<!ENTITY savedPasswords.label           "Kata Sandi Tersimpan…">
+<!ENTITY savedPasswords.label           "Sandi Tersimpan…">
 <!ENTITY savedPasswords.accesskey       "a">
 
 <!-- Anti Virus -->

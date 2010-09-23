@@ -40,7 +40,7 @@
 <!ENTITY InputType.label "Jenis Field">
 <!ENTITY InputType.accesskey "i">
 <!ENTITY text.value "Teks">
-<!ENTITY password.value "Kata Sandi">
+<!ENTITY password.value "Sandi">
 <!ENTITY checkbox.value "Kotak Aktifkan/Matikan">
 <!ENTITY radio.value "Pilihan Radio">
 <!ENTITY submit.value "Tombol Kirim">

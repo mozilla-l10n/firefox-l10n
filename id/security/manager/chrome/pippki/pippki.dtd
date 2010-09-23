@@ -36,23 +36,23 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Values for changepassword.xul -->
-<!ENTITY setPassword.title  "Ubah Kata Sandi Utama">
+<!ENTITY setPassword.title  "Ubah Sandi Utama">
 <!ENTITY setPassword.tokenName.label "Perangkat Keamanan">
-<!ENTITY setPassword.oldPassword.label "Kata sandi lama:">
-<!ENTITY setPassword.newPassword.label "Kata sandi baru:">
-<!ENTITY setPassword.reenterPassword.label "Kata sandi baru (ulangi):">
-<!ENTITY setPassword.meter.label "Ukuran kualitas kata sandi">
+<!ENTITY setPassword.oldPassword.label "Sandi lama:">
+<!ENTITY setPassword.newPassword.label "Sandi baru:">
+<!ENTITY setPassword.reenterPassword.label "Sandi baru (ulangi):">
+<!ENTITY setPassword.meter.label "Ukuran kualitas sandi">
 <!ENTITY setPassword.meter.loading "Memuat">
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Kembalikan">
-<!ENTITY resetPassword.title  "Reset Kata Sandi Utama">
-<!ENTITY resetPassword.text  "Jika Anda mereset kata sandi utama, semua kata sandi web dan email, data form, sertifikat pribadi, dan kunci pribadi akan hilang. Yakin akan mereset kata sandi utama?">
+<!ENTITY resetPassword.title  "Reset Sandi Utama">
+<!ENTITY resetPassword.text  "Jika Anda mereset sandi utama, semua sandi web dan email, data form, sertifikat pribadi, dan kunci pribadi akan hilang. Yakin akan mereset sandi utama?">
 
 <!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "Ketikkan Kata Sandi Utama">
+<!ENTITY getPassword.title  "Ketikkan Sandi Utama">
 <!ENTITY getPassword.tokenName2.label "Perangkat Keamanan:">
-<!ENTITY getPassword.password.label "Kata Sandi:">
+<!ENTITY getPassword.password.label "Sandi:">
 
 <!-- These should be common -->
 <!ENTITY piperror.title "Kesalahan">
@@ -94,14 +94,14 @@
 <!ENTITY certPicker.info  "Sertifikat:">
 <!ENTITY certPicker.detailsLabel "Detail sertifikat yang dipilih:">
 
-<!ENTITY pkcs12.setpassword.title  "Masukkan Kata Sandi Cadangan Sertifikat">
-<!ENTITY pkcs12.setpassword.message  "Kata sandi cadangan sertifikat yang dimasukkan melindungi berkas cadangan yang akan dibuat. Anda harus memasukkan kata sandi untuk meneruskan membuat cadangan.">
-<!ENTITY pkcs12.setpassword.label1 "Kata sandi cadangan sertifikat:">
-<!ENTITY pkcs12.setpassword.label2 "Kata sandi cadangan sertifikat (ulangi):">
-<!ENTITY pkcs12.setpassword.reminder "Penting: Jika Anda lupa kata sandi cadangan sertifikat, Anda tidak akan dapat mengembalikan cadangan ini nantinya. Mohon disimpan di lokasi yang aman.">
+<!ENTITY pkcs12.setpassword.title  "Masukkan Sandi Cadangan Sertifikat">
+<!ENTITY pkcs12.setpassword.message  "Sandi cadangan sertifikat yang dimasukkan melindungi berkas cadangan yang akan dibuat. Anda harus memasukkan sandi untuk meneruskan membuat cadangan.">
+<!ENTITY pkcs12.setpassword.label1 "Sandi cadangan sertifikat:">
+<!ENTITY pkcs12.setpassword.label2 "Sandi cadangan sertifikat (ulangi):">
+<!ENTITY pkcs12.setpassword.reminder "Penting: Jika Anda lupa sandi cadangan sertifikat, Anda tidak akan dapat mengembalikan cadangan ini nantinya. Mohon disimpan di lokasi yang aman.">
 
-<!ENTITY pkcs12.getpassword.title  "Dialog Kata Sandi">
-<!ENTITY pkcs12.getpassword.message "Masukkan kata sandi yang digunakan untuk mengenkripsi cadangan sertifikat.">
+<!ENTITY pkcs12.getpassword.title  "Dialog Sandi">
+<!ENTITY pkcs12.getpassword.message "Masukkan sandi yang digunakan untuk mengenkripsi cadangan sertifikat.">
 
 <!ENTITY chooseToken.title  "Silakan pilih Dialog Token">
 <!ENTITY chooseToken.message1 "Silakan pilih token.">
@@ -123,7 +123,7 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Permintaan Penandatanganan Teks">
 <!ENTITY formSigning.cert "Penandatangan Sertifikat">
-<!ENTITY formSigning.confirmPassword "Untuk konfirmasi persetujuan Anda untuk menandatangani pesan teks dengan sertifikat pilihan Anda, silakan masukkan kata sandi utama:">
+<!ENTITY formSigning.confirmPassword "Untuk konfirmasi persetujuan Anda untuk menandatangani pesan teks dengan sertifikat pilihan Anda, silakan masukkan sandi utama:">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Autentikasi Token Terproteksi">

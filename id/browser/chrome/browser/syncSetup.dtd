@@ -61,7 +61,7 @@
 <!-- Existing Account Page 2: Sync Key -->
 <!ENTITY setup.existingSyncKeyPage.title "Masukkan Kunci Sinkronisasi Anda">
 <!ENTITY setup.existingSyncKeyPage.description "Kunci Sinkronisasi telah dibuat untuk Anda, atau Anda memasukkannya secara manual saat pertama kali mendaftar pada &syncBrand.fullName.label;. Kunci ini bukan sandi Anda.">
-<!ENTITY existingSyncKeyHelp.description "Anda dapat melihat Kunci Sinkronisasi Anda pada komputer lainnya dan memeriksa bagian Kata Sandi Tersimpan di pengaturan Keamanan. Jika Anda benar-benar tidak dapat mendapatkan Kunci Sinkronisasi Anda dengan benar, Anda dapat memilih untuk menyetel ulang kuncinya, tetapi Anda akan kehilangan semua data yang tersimpan di Server.">
+<!ENTITY existingSyncKeyHelp.description "Anda dapat melihat Kunci Sinkronisasi Anda pada komputer lainnya dan memeriksa bagian Sandi Tersimpan di pengaturan Keamanan. Jika Anda benar-benar tidak dapat mendapatkan Kunci Sinkronisasi Anda dengan benar, Anda dapat memilih untuk menyetel ulang kuncinya, tetapi Anda akan kehilangan semua data yang tersimpan di Server.">
 <!ENTITY lostSyncKey.label            "Saya kehilangan Kunci Sinkronisasi Saya">
 <!ENTITY verifying.label              "Memverifikasi…">
 

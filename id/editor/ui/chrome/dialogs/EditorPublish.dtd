@@ -90,9 +90,9 @@
 <!ENTITY username.label               "Nama pengguna:">
 <!ENTITY username.accesskey           "N">
 <!ENTITY username.tooltip             "Nama pengguna yang Anda gunakan untuk log-masuk ke ISP Anda atau layanan hosting web">
-<!ENTITY password.label               "Kata Sandi:">
-<!ENTITY password.accesskey           "K">
-<!ENTITY password.tooltip             "Kata sandi yang bersesuaian dengan nama pengguna Anda">
-<!ENTITY savePassword.label           "Simpan Kata Sandi">
+<!ENTITY password.label               "Sandi:">
+<!ENTITY password.accesskey           "d">
+<!ENTITY password.tooltip             "Sandi yang bersesuaian dengan nama pengguna Anda">
+<!ENTITY savePassword.label           "Simpan Sandi">
 <!ENTITY savePassword.accesskey       "S">
-<!ENTITY savePassword.tooltip         "Aktifkan pilihan ini untuk menyimpan kata sandi Anda secara aman dengan Pengelola Kata Sandi">
+<!ENTITY savePassword.tooltip         "Aktifkan pilihan ini untuk menyimpan sandi Anda secara aman dengan Pengelola Sandi">
