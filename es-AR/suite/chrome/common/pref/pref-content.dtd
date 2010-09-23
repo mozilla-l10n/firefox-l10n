@@ -7,13 +7,6 @@
 <!ENTITY useSiteIcons.accesskey                 "s">
 <!ENTITY useFavIcons.label                      "Buscar íconos del sitio web más profundamente cuando la página no defina uno">
 <!ENTITY useFavIcons.accesskey                  "a">
-<!ENTITY tbIconsDescription.label               "Mostrar el ícono del sitio web en el menú de la barra de marcadores y barra de herramientas:">
-<!ENTITY tbIconsNever.label                     "No mostrar nunca los íconos para marcadores">
-<!ENTITY tbIconsNever.accesskey                 "N">
-<!ENTITY tbIconsCache.label                     "Únicamente cuando el sitio web fue visto recientemente">
-<!ENTITY tbIconsCache.accesskey                 "o">
-<!ENTITY tbIconsAlways.label                    "Siempre cargar los íconos del sitio web para marcadores">
-<!ENTITY tbIconsAlways.accesskey                "w">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensionar las imágenes grandes para que quepan en la ventana del navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 <!ENTITY useSmoothScroll.label                  "Usar desplazamiento suave">
