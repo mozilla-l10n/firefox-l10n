@@ -47,11 +47,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "o">
 <!ENTITY disableContextMenus.label      "blokowanie lub zamianę menu kontekstowego">
 <!ENTITY disableContextMenus.accesskey  "m">
-<!ENTITY hideStatusBar.label            "ukrywanie paska stanu">
-<!ENTITY hideStatusBar.accesskey        "u">
-<!ENTITY changeStatusBar.label          "zmianę tekstu wyświetlanego na pasku stanu">
-<!ENTITY changeStatusBar.accesskey      "s">
-
-
-
-

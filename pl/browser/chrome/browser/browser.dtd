@@ -72,8 +72,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Pasek zakładek" >
 <!ENTITY personalbarCmd.accesskey "z" >
 <!ENTITY bookmarksToolbarItem.label "Elementy paska zakładek" >
-<!ENTITY taskbarCmd.label "Pasek stanu" >
-<!ENTITY taskbarCmd.accesskey "a" >
+<!ENTITY addonBarCmd.label "Pasek dodatków" >
+<!ENTITY addonBarCmd.accesskey "a" >
 
 <!ENTITY pageSourceCmd.label "Źródło strony" >
 <!ENTITY pageSourceCmd.accesskey "d" >
