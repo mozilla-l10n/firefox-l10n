@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Dipeakanyo di ka fetošwa go dirišwa thepo ya Ditirišo go dikganyogo tša &brandShortName;.">
-<!ENTITY settingsChangeOptions.label "Dipeakanyo di ka fetošwa go dirišwa thepo ya Ditirišo go dikgetho tša &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "Dipeakanyo di ka fetošwa go dirišwa thepo ya Ditirišo go dikganyogo tša &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Dipeakanyo di ka fetošwa go dirišwa thepo ya Ditirišo go dikgetho tša &brandShortName;.">

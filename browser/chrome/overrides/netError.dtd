@@ -45,9 +45,16 @@ gore &brandShortName; e dumeletšwe go tsena wepeng.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mokgwa wa go se be inthaneteng">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Swayolla &quot;Šoma o se inthaneteng&quot; go diteng tša Faele, gomme o leke gape.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Phošo ya phetošo ya dikagare">
 <!ENTITY contentEncodingError.longDesc "<ul> 

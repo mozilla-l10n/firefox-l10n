@@ -1,9 +1,9 @@
-<!ENTITY find.label "Nyaka:">
-<!ENTITY find.accesskey "N">
-<!ENTITY expand.label "Katološa">
-<!ENTITY expand.accesskey "K">
-<!ENTITY collapse.label "Phuhlamiša">
-<!ENTITY collapse.accesskey "P">
+<!ENTITY find.label                "Nyaka:">
+<!ENTITY find.accesskey            "N">
+<!ENTITY expand.label              "Katološa">
+<!ENTITY expand.accesskey          "K">
+<!ENTITY collapse.label            "Phuhlamiša">
+<!ENTITY collapse.accesskey        "P">
 <!ENTITY byDate.label "Ka letšatšikgwedi">
 <!ENTITY byDate.accesskey "l">
 <!ENTITY bySite.label "Ka saete">

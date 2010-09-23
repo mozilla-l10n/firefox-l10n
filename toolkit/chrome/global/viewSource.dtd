@@ -42,8 +42,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.accesskey "E">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label "Lebelela">
-<!ENTITY viewMenu.accesskey "b">
+<!ENTITY viewMenu.label           "Lebelela">
+<!ENTITY viewMenu.accesskey       "b">
 <!ENTITY reloadCmd.label "Hlahlela gape">
 <!ENTITY reloadCmd.accesskey "e">
 <!ENTITY reloadCmd.commandkey "r">
@@ -60,10 +60,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Tlwaelo">
 <!ENTITY menu_textReset.accesskey "T">
 
-<!ENTITY findOnCmd.label "Hwetša letlakaleng le…">
+<!ENTITY findOnCmd.label     "Hwetša letlakaleng le…">
 <!ENTITY findOnCmd.accesskey "H">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Hwetša gape">
+<!ENTITY findAgainCmd.label  "Hwetša gape">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">

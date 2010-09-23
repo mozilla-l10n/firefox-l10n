@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title "Fetola Lentšuphetišo la Motheo">
+<!ENTITY setPassword.title  "Fetola Lentšuphetišo la Motheo">
 <!ENTITY setPassword.tokenName.label "Setlabelo sa Tšhireletšo">
 <!ENTITY setPassword.oldPassword.label "Lentšuphetišo la bjale:">
 <!ENTITY setPassword.newPassword.label "Lentšuphetišo le leswa:">
@@ -46,11 +46,11 @@
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Go beakanyaleswa">
-<!ENTITY resetPassword.title "Beakanyaleswa Lentšuphetišo la Motheo">
-<!ENTITY resetPassword.text "Ge o beakanyaleswa lentšuphetišo la gago la motheo, mantšuphetišo a gago a web le e-poso ka moka ao o a bolokilego, sebopego sa tshedimošo, disetifikheiti tša gago, le dinotlelo tša sephiri di tla lebalwa. Naa o na le bonnete bja gore o nyaka go beakanyaleswa lentšuphetišo la motheo?">
+<!ENTITY resetPassword.title  "Beakanyaleswa Lentšuphetišo la Motheo">
+<!ENTITY resetPassword.text  "Ge o beakanyaleswa lentšuphetišo la gago la motheo, mantšuphetišo a gago a web le e-poso ka moka ao o a bolokilego, sebopego sa tshedimošo, disetifikheiti tša gago, le dinotlelo tša sephiri di tla lebalwa. Naa o na le bonnete bja gore o nyaka go beakanyaleswa lentšuphetišo la motheo?">
 <!-- Values for getpassword.xul -->
 
-<!ENTITY getPassword.title "Lokela Lentšuphetišo la Motheo">
+<!ENTITY getPassword.title  "Lokela Lentšuphetišo la Motheo">
 <!ENTITY getPassword.tokenName2.label "Security Device:">
 <!ENTITY getPassword.password.label "Lentšuphetišo:">
 <!-- These should be common -->
@@ -91,19 +91,19 @@
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Kgetha Setifikheiti">
-<!ENTITY certPicker.info "Setifikheiti:">
+<!ENTITY certPicker.info  "Setifikheiti:">
 <!ENTITY certPicker.detailsLabel "Dinyakwa tša setifikheiti se se kgethilwego:">
 
-<!ENTITY pkcs12.setpassword.title "Kgetha Lentšuphetišo la Thekgo ya Setifikheiti">
-<!ENTITY pkcs12.setpassword.message "Lentšuphetišo la thekgo ya setifikheiti leo o le beilego mo e šireletša thekgo ya faele yeo o lego kgauswi le go e hlama.  O swanetše go beakanya lentšuphetišo le go tšwela pele ka thekgo.">
+<!ENTITY pkcs12.setpassword.title  "Kgetha Lentšuphetišo la Thekgo ya Setifikheiti">
+<!ENTITY pkcs12.setpassword.message  "Lentšuphetišo la thekgo ya setifikheiti leo o le beilego mo e šireletša thekgo ya faele yeo o lego kgauswi le go e hlama.  O swanetše go beakanya lentšuphetišo le go tšwela pele ka thekgo.">
 <!ENTITY pkcs12.setpassword.label1 "Lentšuphetišo la thekgo ya setifikheiti:">
 <!ENTITY pkcs12.setpassword.label2 "Lentšuphetišo la thekgo ya setifikheiti (gape):">
 <!ENTITY pkcs12.setpassword.reminder "Ye bohlokwa: Ge o lebetše lentšuphetišo la gago la thekgo ya setifikheiti, o ka se kgone go bušetša thekgo ye ka morago.  Ka kgopelo e rekote lefelong le le bolokegilego.">
 
-<!ENTITY pkcs12.getpassword.title "Sekgoba sa go Tsenya Lentšuphetišo">
+<!ENTITY pkcs12.getpassword.title  "Sekgoba sa go Tsenya Lentšuphetišo">
 <!ENTITY pkcs12.getpassword.message "Ka kgopelo lokela lentšuphetišo leo le bego le šomišwa go enkriptha thekgo ye ya setifikheiti.">
 
-<!ENTITY chooseToken.title "Kgetha Sekgoba sa Sešupetšo">
+<!ENTITY chooseToken.title  "Kgetha Sekgoba sa Sešupetšo">
 <!ENTITY chooseToken.message1 "Ka kgopelo kgetha sešupetšo.">
 
 <!ENTITY escrowWarn.title "Khopi ya Senotlelo sa Enkripšene">

@@ -1,0 +1,4 @@
+<!ENTITY quota.dialogTitle.label    "Server Quota">
+<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
+<!ENTITY quota.typeColumn.label     "Mohuta">
+<!ENTITY quota.sizeColumn.label     "Bogolo">

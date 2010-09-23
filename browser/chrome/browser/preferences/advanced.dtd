@@ -1,107 +1,108 @@
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label "Kakaretšo">
+<!ENTITY generalTab.label                "Kakaretšo">
 
-<!ENTITY accessibility.label "Phihlelelo">
+<!ENTITY accessibility.label             "Phihlelelo">
 
-<!ENTITY useCursorNavigation.label "Ka mehla diriša dinotlelo tša khesa go sepela-sepela ka gare ga matlakala">
-<!ENTITY useCursorNavigation.accesskey "k">
-<!ENTITY searchStartTyping.label "Nyaka mongwalo ge ke thoma go tlanya">
-<!ENTITY searchStartTyping.accesskey "w">
-<!ENTITY blockAutoRefresh.label "Ntemoše ge diwepesaete di leka go laela gape goba go hlahlela gape letlakala">
-<!ENTITY blockAutoRefresh.accesskey "p">
+<!ENTITY useCursorNavigation.label       "Ka mehla diriša dinotlelo tša khesa go sepela-sepela ka gare ga matlakala">
+<!ENTITY useCursorNavigation.accesskey   "k">
+<!ENTITY searchStartTyping.label         "Nyaka mongwalo ge ke thoma go tlanya">
+<!ENTITY searchStartTyping.accesskey     "w">
+<!ENTITY blockAutoRefresh.label          "Ntemoše ge diwepesaete di leka go laela gape goba go hlahlela gape letlakala">
+<!ENTITY blockAutoRefresh.accesskey      "p">
 
-<!ENTITY browsing.label "Go praosa">
+<!ENTITY browsing.label                  "Go praosa">
 
-<!ENTITY useAutoScroll.label "Diriša sekorolo sa maitirišo">
-<!ENTITY useAutoScroll.accesskey "s">
-<!ENTITY useSmoothScrolling.label "Diriša sekorolo se boreledi">
-<!ENTITY useSmoothScrolling.accesskey "r">
-<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey "h">
-<!ENTITY checkSpelling.label "Lekola mopeleto wa ka ge ke dutše ke tlanya">
-<!ENTITY checkSpelling.accesskey "t">
+<!ENTITY useAutoScroll.label             "Diriša sekorolo sa maitirišo">
+<!ENTITY useAutoScroll.accesskey         "s">
+<!ENTITY useSmoothScrolling.label        "Diriša sekorolo se boreledi">
+<!ENTITY useSmoothScrolling.accesskey    "r">
+<!ENTITY allowHWAccel.label              "Diriša kgatelelo ya hatewere ge e le gona">
+<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY checkSpelling.label             "Lekola mopeleto wa ka ge ke dutše ke tlanya">
+<!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label "Ditirelwa tša tshepedišo">
+<!ENTITY systemDefaults.label            "Ditirelwa tša tshepedišo">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label "Ka mehla lekola go bona ge e ba &brandShortName; ke sephetli sa tirelwa ge o thoma">
-<!ENTITY alwaysCheckDefault.accesskey "m">
-<!ENTITY checkNow.label "Lekola gona bjale">
-<!ENTITY checkNow.accesskey "n">
-<!ENTITY submitCrashes.label "Submit crash reports">
-<!ENTITY submitCrashes.accesskey "S">
+<!ENTITY alwaysCheckDefault.label        "Ka mehla lekola go bona ge e ba &brandShortName; ke sephetli sa tirelwa ge o thoma">
+<!ENTITY alwaysCheckDefault.accesskey    "m">
+<!ENTITY checkNow.label                  "Lekola gona bjale">
+<!ENTITY checkNow.accesskey              "n">
+<!ENTITY submitCrashes.label             "Submit crash reports">
+<!ENTITY submitCrashes.accesskey         "S">
 
-<!ENTITY networkTab.label "Neteweke">
+<!ENTITY networkTab.label                "Neteweke">
 
-<!ENTITY connection.label "Kgokaganyo">
+<!ENTITY connection.label                "Kgokaganyo">
 
-<!ENTITY connectionDesc.label "Kopanya kamoo &brandShortName; e kgokaganyago le inthanete.">
-<!ENTITY connectionSettings.label "Dipeakanyo...">
-<!ENTITY connectionSettings.accesskey "e">
+<!ENTITY connectionDesc.label            "Kopanya kamoo &brandShortName; e kgokaganyago le inthanete.">
+<!ENTITY connectionSettings.label        "Dipeakanyo...">
+<!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label "Polokelo yeo e sego inthaneteng">
+<!ENTITY offlineStorage.label            "Polokelo yeo e sego inthaneteng">
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "Diriša go fihla go">
-<!ENTITY useCacheBefore.accesskey "D">
-<!ENTITY useCacheAfter.label "MB ya sekgoba sa polokelo">
-<!ENTITY clearCacheNow.label "Tloša gona bjale">
-<!ENTITY clearCacheNow.accesskey "T">
-<!ENTITY smartSizeCache.label "Let &brandShortName; manage the size of my cache.">
+<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY clearCacheNow.label             "Tloša gona bjale">
+<!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY updateTab.label "Kaonafatšo">
+<!ENTITY updateTab.label                 "Kaonafatšo">
 
-<!ENTITY autoCheck.label "Ka maitirišo lekola dikaonafatšo go:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "Add-ons">
-<!ENTITY enableAddonsUpdate2.accesskey "n">
-<!ENTITY enableSearchUpdate.label "Dientšene tša nyako">
-<!ENTITY enableSearchUpdate.accesskey "k">
-<!ENTITY whenUpdatesFound.label "Ge dikaonafatšo tša &brandShortName; di hweditšwe:">
-<!ENTITY askMe.label "Mpotšiše seo ke nyakago go se dira">
-<!ENTITY askMe.accesskey "p">
-<!ENTITY modeAutomatic.label "Ka maitirišo laolla le go lokela dikaonafatšo">
-<!ENTITY modeAutomatic.accesskey "l">
-<!ENTITY modeAutoAddonWarn.label "Ntemoše ge e ba se se tla šitiša ditlaleletši tša ka le ge e le dife ">
-<!ENTITY modeAutoAddonWarn.accesskey "N">
-<!ENTITY updateHistory.label "Laetša histori ya kaonafatšo">
-<!ENTITY updateHistory.accesskey "o">
+<!ENTITY autoCheck.label                 "Ka maitirišo lekola dikaonafatšo go:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate2.label       "Ditlaleletši">
+<!ENTITY enableAddonsUpdate2.accesskey   "e">
+<!ENTITY enableSearchUpdate.label        "Dientšene tša nyako">
+<!ENTITY enableSearchUpdate.accesskey    "k">
+<!ENTITY whenUpdatesFound.label          "Ge dikaonafatšo tša &brandShortName; di hweditšwe:">
+<!ENTITY askMe.label                     "Mpotšiše seo ke nyakago go se dira">
+<!ENTITY askMe.accesskey                 "p">
+<!ENTITY modeAutomatic.label             "Ka maitirišo laolla le go lokela dikaonafatšo">
+<!ENTITY modeAutomatic.accesskey         "l">
+<!ENTITY modeAutoAddonWarn.label         "Ntemoše ge e ba se se tla šitiša ditlaleletši tša ka le ge e le dife ">
+<!ENTITY modeAutoAddonWarn.accesskey     "N">
+<!ENTITY updateHistory.label             "Laetša histori ya kaonafatšo">
+<!ENTITY updateHistory.accesskey         "o">
 
-<!ENTITY offlineNotify.label "Mpotše ge wepesaete e kgopela go boloka tsebišo gore e e diriše e se inthaneteng">
-<!ENTITY offlineNotify.accesskey "M">
-<!ENTITY offlineNotifyExceptions.label "Maarogi...">
+<!ENTITY offlineNotify.label             "Mpotše ge wepesaete e kgopela go boloka tsebišo gore e e diriše e se inthaneteng">
+<!ENTITY offlineNotify.accesskey         "M">
+<!ENTITY offlineNotifyExceptions.label   "Maarogi...">
 <!ENTITY offlineNotifyExceptions.accesskey "a">
 
-<!ENTITY offlineAppsList.label "Diwepesaete tše latelago di bolokile tsebišo bakeng sa go e diriša e se inthaneteng:">
-<!ENTITY offlineAppsList.height "7em">
-<!ENTITY offlineAppsListRemove.label "Tloša...">
+<!ENTITY offlineAppsList.label           "Diwepesaete tše latelago di bolokile tsebišo bakeng sa go e diriša e se inthaneteng:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Tloša...">
 <!ENTITY offlineAppsListRemove.accesskey "T">
-<!ENTITY offlineAppRemove.confirm "Tloša tsebišo yeo e sego inthaneteng">
+<!ENTITY offlineAppRemove.confirm        "Tloša tsebišo yeo e sego inthaneteng">
 
-<!ENTITY encryptionTab.label "Go uta">
+<!ENTITY encryptionTab.label             "Go uta">
 
-<!ENTITY protocols.label "Diprotokole">
-<!ENTITY useSSL3.label "Diriša SSL 3.0">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "Diriša TLS 1.0">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "Ditifikeiti">
-<!ENTITY certSelection.description "Ge sebara e kgopela setifikeiti sa ka sa botho:">
-<!ENTITY certs.auto "Kgetha e tee ka maitirišo">
-<!ENTITY certs.auto.accesskey "t">
-<!ENTITY certs.ask "Mpotšiše nako le nako">
-<!ENTITY certs.ask.accesskey "i">
-<!ENTITY viewCerts.label "Lebelela ditifikeiti">
-<!ENTITY viewCerts.accesskey "d">
-<!ENTITY viewCRLs.label "Malokelelo a pitšo gape">
-<!ENTITY viewCRLs.accesskey "p">
-<!ENTITY verify2.label "Tiišetšo">
-<!ENTITY verify2.accesskey "T">
-<!ENTITY viewSecurityDevices.label "Ditlabelo tša tšhireletšo">
-<!ENTITY viewSecurityDevices.accesskey "l">
+<!ENTITY protocols.label                 "Diprotokole">
+<!ENTITY useSSL3.label                   "Diriša SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Diriša TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Ditifikeiti">
+<!ENTITY certSelection.description       "Ge sebara e kgopela setifikeiti sa ka sa botho:">
+<!ENTITY certs.auto                      "Kgetha e tee ka maitirišo">
+<!ENTITY certs.auto.accesskey            "t">
+<!ENTITY certs.ask                       "Mpotšiše nako le nako">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Lebelela ditifikeiti">
+<!ENTITY viewCerts.accesskey             "d">
+<!ENTITY viewCRLs.label                  "Malokelelo a pitšo gape">
+<!ENTITY viewCRLs.accesskey              "p">
+<!ENTITY verify2.label                   "Tiišetšo">
+<!ENTITY verify2.accesskey               "T">
+<!ENTITY viewSecurityDevices.label       "Ditlabelo tša tšhireletšo">
+<!ENTITY viewSecurityDevices.accesskey   "l">
