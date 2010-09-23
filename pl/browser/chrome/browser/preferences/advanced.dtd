@@ -59,9 +59,6 @@
 <!ENTITY overrideSmartCacheSize.label    "Używaj ręcznego zarządzania pamięcią podręczną">
 <!ENTITY overrideSmartCacheSize.accesskey "m">
 
-<!ENTITY smartSizeCache.label            "Program &brandShortName; ma zarządzać rozmiarami pamięci podręcznej">
-<!ENTITY smartSizeCache.accesskey        "z">
-
 <!ENTITY updateTab.label                 "Aktualizacja">
 
 <!ENTITY autoCheck.label                 "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
