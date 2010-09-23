@@ -37,9 +37,9 @@
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "Non in linea">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Togliere la spunta a &quot;Lavora non in linea&quot;, e riprovare.</li>
+  <li>Togliere la spunta alla voce di menu &quot;Lavora non in linea&quot;, e riprovare.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Errore di codifica del contenuto">
