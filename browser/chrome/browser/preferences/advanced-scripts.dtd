@@ -49,7 +49,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "e">
 <!ENTITY disableContextMenus.label      "Nerodyti ar keisti kontekstinį meniu">
 <!ENTITY disableContextMenus.accesskey  "N">
-<!ENTITY hideStatusBar.label            "Nerodyti būsenos juostos">
-<!ENTITY hideStatusBar.accesskey        "r">
-<!ENTITY changeStatusBar.label          "Keisti tekstą būsenos juostoje">
-<!ENTITY changeStatusBar.accesskey      "s">

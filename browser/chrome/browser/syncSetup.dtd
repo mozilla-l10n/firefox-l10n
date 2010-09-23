@@ -75,8 +75,6 @@
 <!ENTITY syncKeyGenerate.label     "Sugeneruoti">
 <!ENTITY syncKeyBackup.description "Sinchronizavimo rakto Jums prireiks, kai norėsite „&syncBrand.fullName.label;“ pasiekti iš kito kompiuterio. Pasirūpinkite, kad jo nepamestumėte. Pametus sinchronizavimo raktą, mes negalėsime Jums padėti jo atstatyti.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Nusiųsti el. paštu…">
-<!ENTITY button.syncKeyBackup.email.accesskey "e">
 <!ENTITY button.syncKeyBackup.print.label     "Spausdinti…">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
 <!ENTITY button.syncKeyBackup.save.label      "Įrašyti…">
