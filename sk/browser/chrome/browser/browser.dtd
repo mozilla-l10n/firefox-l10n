@@ -72,6 +72,8 @@ can reach it easily. -->
 <!ENTITY bookmarksToolbarItem.label "Položky panela záložiek">
 <!ENTITY taskbarCmd.label "Stavový riadok">
 <!ENTITY taskbarCmd.accesskey "r">
+<!ENTITY addonBarCmd.label "Panel doplnkov">
+<!ENTITY addonBarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "d">
@@ -133,6 +135,7 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label          "Ponuka">
+<!ENTITY appMenuButton.tooltip        "Ponuka prehliadača &brandShortName;">
 <!ENTITY homeButton.label             "Domov">
 
 <!ENTITY tabGroupsButton.label        "Skupiny kariet">
