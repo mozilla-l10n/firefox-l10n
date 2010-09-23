@@ -213,8 +213,8 @@ can reach it easily. -->
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "J">
 
-<!ENTITY editMenu.label         "Ubah"> 
-<!ENTITY editMenu.accesskey       "U"> 
+<!ENTITY editMenu.label         "Edit"> 
+<!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Batal">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "B"> 

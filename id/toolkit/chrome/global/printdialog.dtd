@@ -10,9 +10,9 @@
 <!ENTITY fileCheck.accesskey "B">
 <!ENTITY propertiesButton.label "Properti…">
 <!ENTITY propertiesButton.accesskey "P">
-<!ENTITY descText.label "Deskripsi Printer:">
-<!ENTITY printer.label "Printer">
-<!ENTITY printerInput.label "Nama Printer:">
+<!ENTITY descText.label "Deskripsi Pencetak:">
+<!ENTITY printer.label "Pencetak">
+<!ENTITY printerInput.label "Nama Pencetak:">
 <!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Jangkauan Cetak">
