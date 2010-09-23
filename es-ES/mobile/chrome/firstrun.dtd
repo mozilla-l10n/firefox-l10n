@@ -1,12 +1,12 @@
 <!ENTITY firstrun.title "Bienvenido a &brandShortName;">
 <!ENTITY firstrun.heading2 "Bienvenido a &brandShortName;">
-<!ENTITY firstrun.sync.title "Consiga Firefox Sync">
-<!ENTITY firstrun.sync.description "Comparta su historial, contraseñas, marcadores y pestañas de &brandShortName; entre equipos de escritorio y móviles.">
-<!ENTITY firstrun.addons.title "Conseguir complementos">
-<!ENTITY firstrun.addons.description "Instale complementos para mejorar su experiencia con &brandShortName;">
-<!ENTITY firstrun.home.title "Comenzar">
-<!ENTITY firstrun.home.description "Golpee para ir a su página de inicio personalizada y comenzar a navegar por la web">
-<!ENTITY firstrun.relNotes.label "Ver las notas de publicación">
+<!ENTITY firstrun.sync2.title "Sincronizar">
+<!ENTITY firstrun.sync2.description "Conéctese con su cuenta de Sync y comparta su historial, contraseñas, marcadores y pestañas entre su equipo de escritorio y móvil">
+<!ENTITY firstrun.addons2.title "Personalizar">
+<!ENTITY firstrun.addons2.description "Descubra e instale complementos para añadir nuevas funcionalidades a &brandShortName;">
+<!ENTITY firstrun.home2.title "Navegar">
+<!ENTITY firstrun.home2.description "Ignorar todo esto e ir a la página de inicio personalizada para empezar a navegar por la web">
+<!ENTITY firstrun.features "Vea más características">
 <!ENTITY firstrun.faq "PUF">
 <!ENTITY firstrun.privacy "Política de privacidad">
 <!ENTITY firstrun.follow "Síganos en:">
