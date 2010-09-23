@@ -53,9 +53,14 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mode luring">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Matikan &quot;Bekerja Luring&quot; pada menu Berkas lalu coba lagi.</li>
+  <li>Matikan &quot;Bekerja Luring&quot; lewat menu lalu coba lagi.</li>
 </ul>
 ">
 

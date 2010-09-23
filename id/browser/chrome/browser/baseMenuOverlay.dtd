@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "Untuk Pengguna Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "e">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Mulai Ulang dengan Pengaya Dinonaktifkan…">
+<!ENTITY helpSafeMode.accesskey   "n">
 
 <!ENTITY helpReleaseNotes.label         "Catatan Rilis">
 <!ENTITY helpReleaseNotes.accesskey     "C">

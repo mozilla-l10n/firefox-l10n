@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label     "Buat">
 <!ENTITY syncKeyBackup.description "Kunci Sinkronisasi Anda dibutuhkan untuk mengakses &syncBrand.fullName.label; di perangkat lainnya. Mohon buat cadangannya, kami tidak dapat membantu Anda memulihkan Kunci Sinkronisasi Anda.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Email…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "Cetak…">
 <!ENTITY button.syncKeyBackup.print.accesskey "C">
 <!ENTITY button.syncKeyBackup.save.label      "Simpan…">
