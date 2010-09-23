@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Barra de marcadores">
 <!ENTITY personalbarCmd.accesskey "M">
 <!ENTITY bookmarksToolbarItem.label "Itens da barra de marcadores">
-<!ENTITY taskbarCmd.label "Barra de estado">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Barra de extras">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Código fonte da página">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -133,6 +133,7 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.tooltip        "Abrir o menu do &brandShortName;">
 <!ENTITY homeButton.label             "Início">
 
 <!ENTITY tabGroupsButton.label        "Grupos de separadores">
