@@ -26,7 +26,8 @@
 
 <!ENTITY netOffline.title "Tryb offline">
 <!ENTITY netOffline.longDesc "<p>Przeglądarka pracuje w trybie offline i nie może pobrać żądanego elementu. </p><ul><li>Czy komputer podłączony jest do działającej sieci?</li><li>Należy przestawić przeglądarkę na tryb online i spróbować ponownie.</li></ul>">
-<!ENTITY netOffline.longDesc2 "<p>Przeglądarka pracuje w trybie offline i nie może pobrać żądanego elementu. </p><ul><li>Czy komputer podłączony jest do działającej sieci?</li><li>Należy przestawić przeglądarkę na tryb online i spróbować ponownie.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Przeglądarka pracuje w trybie offline i nie może pobrać żądanego elementu.</p><ul><li>Czy komputer podłączony jest do działającej sieci?</li><li>Należy przestawić przeglądarkę na tryb online i spróbować ponownie.</li></ul>">
+
 
 <!ENTITY contentEncodingError.title "Błąd kodowania zawartości">
 <!ENTITY contentEncodingError.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ używa nieprawidłowych lub nieobsługiwanych metod kompresji.</p><ul><li>Należy poinformować właścicieli witryny o tym problemie.</li></ul>">
