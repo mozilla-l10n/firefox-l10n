@@ -101,7 +101,7 @@
     <li>Ställ in webbläsaren på uppkopplat läge och försök igen.</li>
   </ul>">
 
-<!ENTITY netOffline.longDesc2 "<p>Webbläsaren befinner sig i nedkopplat läge och
+<!ENTITY netOffline.overrideLongDesc "<p>Webbläsaren befinner sig i nedkopplat läge och
   kan inte ansluta till den efterfrågade tjänsten.</p>
   <ul>
     <li>Är datorn ansluten till ett fungerande nätverk?</li>

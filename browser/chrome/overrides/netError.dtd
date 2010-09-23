@@ -54,9 +54,14 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Nedkopplat läge">
-<!ENTITY netOffline.longDesc2 "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Avmarkera &#8221;Arbeta nedkopplad&#8221; och försök igen.</li>
+  <li>Avmarkera menyposten &#8221;Arbeta nedkopplad&#8221; och försök igen.</li>
 </ul>
 ">
 
