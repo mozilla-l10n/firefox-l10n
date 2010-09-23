@@ -22,7 +22,7 @@
 <!ENTITY setup.tosAgree1.label "Acepto los">
 <!ENTITY setup.tosAgree1.accesskey "a">
 <!ENTITY setup.tosLink.label "Términos del Servicio">
-<!ENTITY setup.tosAgree2.label "y los">
+<!ENTITY setup.tosAgree2.label "y la">
 <!ENTITY setup.ppLink.label "Política de privacidad">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
@@ -48,7 +48,7 @@
 <!ENTITY setup.optionsPage.title "Opciones de Sync">
 <!ENTITY syncComputerName.label "Nombre del equipo:">
 <!ENTITY syncComputerName.accesskey "N">
-<!ENTITY syncMy.label "Sincronizar mis">
+<!ENTITY syncMy.label "Sincronizar">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label "Pestañas">

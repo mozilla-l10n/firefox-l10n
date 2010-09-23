@@ -15,7 +15,7 @@
 <!ENTITY syncPrefsCaption.label "Sincronizar navegador">
 <!ENTITY syncComputerName.label "Nombre del equipo:">
 <!ENTITY syncComputerName.accesskey "N">
-<!ENTITY syncMy.label "Sincronizar mis">
+<!ENTITY syncMy.label "Sincronizar">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label "Pestañas">
