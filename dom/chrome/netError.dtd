@@ -78,7 +78,7 @@ pendant le transfert d'informations. Veuillez réessayer.</p>
 ">
 
 <!ENTITY netOffline.title "Mode hors connexion">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.overrideLongDesc "
 <p>Le navigateur est actuellement hors connexion et ne peut se connecter au site.</p>
 <ul>
   <li>L'ordinateur est-il connecté au réseau ?</li>
