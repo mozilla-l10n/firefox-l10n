@@ -41,18 +41,18 @@
 <!ENTITY offlineStorage.label            "Позамережне сховище">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Використовувати до">
-<!ENTITY useCacheBefore.accesskey        "и">
-<!ENTITY useCacheAfter.label             "МБ на диску для кешу">
+<!ENTITY limitCacheSizeBefore.label      "Обмежити до">
+<!ENTITY limitCacheSizeBefore.accesskey  "О">
+<!ENTITY limitCacheSizeAfter.label       "МБ на диску">
 <!ENTITY clearCacheNow.label             "Очистити зараз">
 <!ENTITY clearCacheNow.accesskey         "ч">
-<!ENTITY smartSizeCache.label            "Дозволити &brandShortName; керувати розміром мого кеша">
-<!ENTITY smartSizeCache.accesskey        "Д">
+<!ENTITY overrideSmartCacheSize.label    "Переважити автоматичне керування кешем">
+<!ENTITY overrideSmartCacheSize.accesskey "О">
 
 <!ENTITY updateTab.label                 "Оновлення">
 

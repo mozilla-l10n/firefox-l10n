@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "і">
 <!ENTITY disableContextMenus.label      "Вимикати або замінювати контекстні меню">
 <!ENTITY disableContextMenus.accesskey  "В">
-<!ENTITY hideStatusBar.label            "Приховувати рядок стану">
-<!ENTITY hideStatusBar.accesskey        "П">
-<!ENTITY changeStatusBar.label          "Змінювати текст в рядку стану">
-<!ENTITY changeStatusBar.accesskey      "д">
