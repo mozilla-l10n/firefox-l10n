@@ -52,17 +52,12 @@
 <!ENTITY netInterrupt.title "Spojení bylo přerušeno">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "Režim offline">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>Zkusit znovu. &brandShortName; se pokusí otevřít spojení a obnovit stránku.</li>
 </ul>
 ">
-
-<!ENTITY netOffline.title "Režim offline">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Chyba kódování obsahu">
 <!ENTITY contentEncodingError.longDesc "
@@ -96,6 +91,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <ul>
   <li>Zkontrolujte nastavení proxy serveru, zda je správné.</li>
   <li>Kontaktujte svého síťového administrátora, zda je proxy server v provozu.</li>
+
 </ul>
 ">
 
@@ -174,13 +170,14 @@ za chvíli.</li>
 <!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">
 <!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-<!ENTITY securityOverride.warningText "
+
+<!ENTITY securityOverride.warningContent "
 <p>Není doporučováno přidávat výjimku, pokud nemůžete svému internetovému spojení plně důvěřovat a nebo pokud nejste u tohoto serveru zvyklí vídat podobná varování.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
