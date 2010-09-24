@@ -28,7 +28,7 @@
 <!ENTITY view.plugins.label "Plugin">
 <!ENTITY view.recentUpdates.label "Aggiornamenti recenti">
 <!ENTITY view.availableUpdates.label "Aggiornamenti disponibili">
-<!ENTITY updates.checkForUpdates.label "Cerca aggiornamenti">
+<!ENTITY updates.checkForUpdates.label "Controlla aggiornamenti">
 <!ENTITY updates.checkForUpdates.accesskey "C">
 <!ENTITY updates.viewUpdates.label "Visualizza aggiornamenti recenti">
 <!ENTITY updates.viewUpdates.accesskey "V">
@@ -48,7 +48,7 @@
 <!ENTITY updates.updateSelected.tooltip "Installa gli aggiornamenti disponibili in questo elenco">
 <!ENTITY cmd.showDetails.label "Visualizza ulteriori informazioni">
 <!ENTITY cmd.showDetails.accesskey "V">
-<!ENTITY cmd.findUpdates.label "Cerca aggiornamenti">
+<!ENTITY cmd.findUpdates.label "Controlla aggiornamenti">
 <!ENTITY cmd.findUpdates.accesskey "C">
 <!ENTITY cmd.preferencesWin.label "Opzioni">
 <!ENTITY cmd.preferencesWin.accesskey "O">
@@ -95,9 +95,9 @@
 <!ENTITY detail.home "Sito web">
 <!ENTITY detail.repository "Profilo del componente aggiuntivo">
 <!ENTITY detail.size "Dimensione">
-<!ENTITY detail.checkForUpdates.label "Cerca aggiornamenti">
+<!ENTITY detail.checkForUpdates.label "Controlla aggiornamenti">
 <!ENTITY detail.checkForUpdates.accesskey "e">
-<!ENTITY detail.checkForUpdates.tooltip "Cerca aggiornamenti per questo componente aggiuntivo">
+<!ENTITY detail.checkForUpdates.tooltip "Controlla aggiornamenti per questo componente aggiuntivo">
 <!ENTITY detail.showPreferencesWin.label "Opzioni">
 <!ENTITY detail.showPreferencesWin.accesskey "O">
 <!ENTITY detail.showPreferencesWin.tooltip "Modifica le opzioni di questo componente aggiuntivo">
