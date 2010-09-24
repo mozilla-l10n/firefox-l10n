@@ -28,8 +28,7 @@
 <!ENTITY fileNotFound.title "Fil ikke funnet">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Kontroller filnavnet etter forskjeller i store/små bokstaver eller andre
-    skrivefeil.</li>
+  <li>Kontroller filnavnet etter forskjeller i store/små bokstaver eller andre skrivefeil.</li>
   <li>Sjekk om filen er flyttet, har endret navn eller er slettet.</li>
 </ul>
 ">
@@ -53,17 +52,12 @@
 <!ENTITY netInterrupt.title "Tilkoblingen ble avbrutt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "Frakoblet modus">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>Prøv igjen. &brandShortName; vil forsøke åpne en tilkobling og laste inn siden på nytt.</li>
 </ul>
 ">
-
-<!ENTITY netOffline.title "Frakoblet modus">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Feil med tegnkoding">
 <!ENTITY contentEncodingError.longDesc "
@@ -88,8 +82,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY protocolNotFound.title "Klarte ikke å forstår adressen">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>Det er mulig du må installere annen programvare for å åpne denne
-    adressen.</li>
+  <li>Det er mulig du må installere annen programvare for å åpne denne adressen.</li>
 </ul>
 ">
 
@@ -177,14 +170,14 @@ midlertidig, og du kan prøve igjen senere.</li>
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herfra">
 <!ENTITY securityOverride.exceptionButtonLabel "Lag et unntak…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>Du bør ikke legge til en unntaksregel dersom du bruker en Internett-forbindelse som du ikke stoler på, eller dersom du ikke er vant med å se slike advarsler for denne tjeneren.</p>
+<!ENTITY securityOverride.warningContent "
+<p>Du bør ikke legge til en unntaksregel dersom du bruker en Internett-forbindelse som du ikke stoler fullstendig på, eller dersom du ikke er vant med å se slike advarsler for denne tjeneren.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

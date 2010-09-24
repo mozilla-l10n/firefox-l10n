@@ -1,12 +1,12 @@
 <!ENTITY firstrun.title                "Velkommen til &brandShortName;">
 <!ENTITY firstrun.heading2             "Velkommen til &brandShortName;">
-<!ENTITY firstrun.sync.title           "Last ned Firefox Sync">
-<!ENTITY firstrun.sync.description     "Del &brandShortName;-historikk, passord, bokmerker og faner mellom datamaskinen og mobilen">
-<!ENTITY firstrun.addons.title         "Last ned utvidelser">
-<!ENTITY firstrun.addons.description   "Installer utvidelser for å forbedre &brandShortName;-opplevelsen">
-<!ENTITY firstrun.home.title           "Kom i gang">
-<!ENTITY firstrun.home.description     "Trykk for å gå til din personlige startside og starte bruke nettet">
-<!ENTITY firstrun.relNotes.label       "Les versjonsnotatet">
+<!ENTITY firstrun.sync2.title          "Synkroniser">
+<!ENTITY firstrun.sync2.description    "Logg inn med din Sync-konto og del historikk, passord, bokmerker og faner mellom PC-en og mobilen">
+<!ENTITY firstrun.addons2.title        "Tilpass">
+<!ENTITY firstrun.addons2.description  "Oppdag og installer utvidelser for å legge til ny funksjonalitet i din &brandShortName;">
+<!ENTITY firstrun.home2.title          "Bruk nettet">
+<!ENTITY firstrun.home2.description    "Hopp over alt dette og gå til din personlige startside for å starte bruke nettet">
+<!ENTITY firstrun.features             "Se flere funksjoner">
 <!ENTITY firstrun.faq                  "FAQ">
 <!ENTITY firstrun.privacy              "Personvern">
 <!ENTITY firstrun.follow               "Følg oss på:">
