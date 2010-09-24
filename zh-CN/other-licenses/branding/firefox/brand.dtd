@@ -1,4 +1,5 @@
 <!ENTITY  brandShortName        "Firefox">
 <!ENTITY  brandFullName         "Mozilla Firefox">
 <!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  trademarkInfo         "Firefox 及 Firefox 图标均为 Mozilla 基金会持有的商标。另有部分商标属于 Charlton 公司。">
+<!ENTITY  trademarkInfo.part1   "Firefox 以及 Firefox 标志均为 Mozilla 基金会所有的商标。">
+<!ENTITY  trademarkInfo.part2   "部分商标商标授权来自 Charlton 公司。">
