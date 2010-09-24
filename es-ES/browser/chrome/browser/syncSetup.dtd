@@ -31,6 +31,8 @@
 <!ENTITY syncKeyEntry.label "Su clave de Sync">
 <!ENTITY syncKeyEntry.accesskey "c">
 <!ENTITY syncKeyGenerate.label "Generar">
+<!ENTITY syncKeyStrength.label "Fuerza:">
+<!ENTITY syncKeyHelp.label "¿Qué significa fuerte?">
 <!ENTITY syncKeyBackup.description "Su clave de Sync es necesaria para acceder a &syncBrand.fullName.label; en otros equpos. Por favor, cree una copia ahora. No podemos ayudarle a recuperar su clave de Sync.">
 <!ENTITY button.syncKeyBackup.print.label "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">

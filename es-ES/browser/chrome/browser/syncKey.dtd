@@ -1,7 +1,7 @@
 <!ENTITY syncKey.page.title "Su clave de &syncBrand.fullName.label;">
 <!ENTITY syncKey.page.description "Esta clave es usada para descifrar los datos de su cuenta de &syncBrand.fullName.label;. Necesitará introducirla cada vez que configure &syncBrand.fullName.label; en un nuevo equipo.">
 <!ENTITY syncKey.keepItSecret.heading "Manténgala secreta">
-<!ENTITY syncKey.keepItSecret.description "Su cuenta de Firefox Sync está cifrada para proteger su privacidad. Sin esta clave, podría tomar años para cualquiera el descifrar su información personal. Usted es la única persona que tiene la clave. Esto quiere decir que es el único que puede acceder a sus datos de Firefox Sync.">
+<!ENTITY syncKey.keepItSecret.description "Su cuenta de &syncBrand.fullName.label; está cifrada para proteger su privacidad. Sin esta clave, podría tomar años para cualquiera el descifrar su información personal. Usted es la única persona que tiene la clave. Esto quiere decir que es el único que puede acceder a sus datos de &syncBrand.fullName.label;.">
 <!ENTITY syncKey.keepItSafe.heading "Manténgala segura">
 <!ENTITY syncKey.keepItSafe1.description "No pierda esta clave.">
 <!ENTITY syncKey.keepItSafe2.description " No mantenemos una copia de su clave (¡lo cual significaría que no es un secreto!) por lo que ">
