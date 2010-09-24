@@ -10,7 +10,7 @@
 <!ENTITY viewQuota.label "Ver cuota">
 <!ENTITY changePassword.label "Cambiar contraseña">
 <!ENTITY mySyncKey.label "Mi clave de Sync">
-<!ENTITY resetSync.label "Restablecer sincronización">
+<!ENTITY resetSync.label "Restablecer Sync">
 <!ENTITY stopUsingAccount.label "Dejar de usar esta cuenta">
 <!ENTITY syncPrefsCaption.label "Sincronizar navegador">
 <!ENTITY syncComputerName.label "Nombre del equipo:">

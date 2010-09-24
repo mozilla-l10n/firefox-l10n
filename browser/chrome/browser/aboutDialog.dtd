@@ -10,3 +10,14 @@
 <!ENTITY bottomLinks.license "Información de licencia">
 <!ENTITY bottomLinks.rights "Derechos del usuario final">
 <!ENTITY bottomLinks.privacy "Política de privacidad">
+<!ENTITY update.checkingForUpdates "Comprobando actualizaciones…">
+<!ENTITY update.checkingAddonCompat "Comprobando compatibilidad de complementos…">
+<!ENTITY update.noUpdatesFound "&brandShortName; está actualizado">
+<!ENTITY update.adminDisabled "Actualizaciones desactivadas por su administrador">
+<!ENTITY update.failed.start "La actualización falló. ">
+<!ENTITY update.failed.linkText "Descargar la última versión">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Actualización disponible en ">
+<!ENTITY update.manual.end "">
+<!ENTITY update.downloading.start "Descargando actualización — ">
+<!ENTITY update.downloading.end "">
