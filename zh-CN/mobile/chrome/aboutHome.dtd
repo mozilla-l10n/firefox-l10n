@@ -2,7 +2,7 @@
 <!ENTITY aboutHome.recentTabs                   "上次打开的标签页">
 <!ENTITY aboutHome.remoteTabs                   "其他计算机上的标签页">
 <!ENTITY aboutHome.recommendedAddons2           "你的 &brandShortName; 附加组件">
-<!ENTITY aboutHome.aboutMozilla                 "关于 Mozilla">
+<!ENTITY aboutHome.giveFeedback                 "给出反馈意见">
 <!ENTITY aboutHome.openAllTabs                  "打开所有的标签">
 <!ENTITY aboutHome.noTabs                       "上次未打开任何标签页">
 <!ENTITY aboutHome.noAddons                     "无被推荐的附加组件">

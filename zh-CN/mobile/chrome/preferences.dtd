@@ -19,9 +19,9 @@
 <!ENTITY homepage.default                          "&brandShortName; 开始">
 <!ENTITY homepage.currentpage                      "使用当前页">
 <!ENTITY sync.title                                "Sync">
-<!ENTITY sync.username                             "用户名">
+<!ENTITY sync.account                              "用户名/电子邮件">
 <!ENTITY sync.password                             "密码">
-<!ENTITY sync.secretPhrase                         "密码短语">
+<!ENTITY sync.syncKey                              "同步密钥">
 <!ENTITY sync.deviceName                           "设备名">
 <!ENTITY sync.connect                              "连接">
 <!ENTITY sync.disconnect                           "断开连接">
