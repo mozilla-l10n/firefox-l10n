@@ -43,6 +43,8 @@
 <!ENTITY syncKeyEntry.label        "Ваш ключ синхронізації">
 <!ENTITY syncKeyEntry.accesskey    "К">
 <!ENTITY syncKeyGenerate.label     "Згенерувати">
+<!ENTITY syncKeyStrength.label     "Сила:">
+<!ENTITY syncKeyHelp.label         "Що означає сила?">
 <!ENTITY syncKeyBackup.description "Ваш ключ синхронізації необхідний для доступу до &syncBrand.fullName.label; з інших машин. Будь ласка створіть його резервну копію. Ми не зможемо допомогти вам відновити ваш ключ синхронізації.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Друк…">
