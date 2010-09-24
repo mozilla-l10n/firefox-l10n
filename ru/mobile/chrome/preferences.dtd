@@ -19,9 +19,9 @@
 <!ENTITY homepage.default "Запуск &brandShortName;">
 <!ENTITY homepage.currentpage "Использовать текущую страницу">
 <!ENTITY sync.title "Синхронизация">
-<!ENTITY sync.username "Имя пользователя">
+<!ENTITY sync.account "Имя пользователя/Адрес эл. почты">
 <!ENTITY sync.password "Пароль">
-<!ENTITY sync.secretPhrase "Секретная фраза">
+<!ENTITY sync.syncKey "Ключ синхронизации">
 <!ENTITY sync.deviceName "Имя устройства">
 <!ENTITY sync.connect "Соединиться">
 <!ENTITY sync.disconnect "Разъединиться">

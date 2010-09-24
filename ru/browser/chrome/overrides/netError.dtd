@@ -32,10 +32,10 @@
 <!ENTITY netInterrupt.title "Соединение было прервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "Автономный режим">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-   <li>Снимите галочку с пункта «Работать Автономно» и попробуйте снова.</li>
-</ul> ">
+    <li>Снимите галочку с пункта меню «Работать Автономно» и попробуйте снова.</li>
+</ul>">
 <!ENTITY contentEncodingError.title "Ошибка в типе содержимого">
 <!ENTITY contentEncodingError.longDesc "
 

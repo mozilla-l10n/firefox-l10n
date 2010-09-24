@@ -10,3 +10,14 @@
 <!ENTITY bottomLinks.license "Информация о лицензии">
 <!ENTITY bottomLinks.rights "Права конечного пользователя">
 <!ENTITY bottomLinks.privacy "Политика приватности">
+<!ENTITY update.checkingForUpdates "Проверка наличия обновлений…">
+<!ENTITY update.checkingAddonCompat "Проверка совместимости дополнений…">
+<!ENTITY update.noUpdatesFound "Установлена последняя версия &brandShortName;">
+<!ENTITY update.adminDisabled "Обновления отключены вашим системным администратором">
+<!ENTITY update.failed.start "Обновление не удалось. ">
+<!ENTITY update.failed.linkText "Загрузите последнюю версию">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Обновления доступны на ">
+<!ENTITY update.manual.end "">
+<!ENTITY update.downloading.start "Загрузка обновления — ">
+<!ENTITY update.downloading.end "">
