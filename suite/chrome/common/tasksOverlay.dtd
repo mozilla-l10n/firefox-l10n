@@ -15,6 +15,8 @@
 <!ENTITY windowMenu.accesskey "О">
 <!ENTITY tasksMenu.label "Инструменты">
 <!ENTITY tasksMenu.accesskey "И">
+<!ENTITY datamanCmd.label "Менеджер данных">
+<!ENTITY datamanCmd.accesskey "н">
 <!ENTITY passwordManagerCmd.label "Менеджер паролей">
 <!ENTITY passwordManagerCmd.accesskey "н">
 <!ENTITY passwordDisplayCmd.label "Управление сохранёнными паролями">
