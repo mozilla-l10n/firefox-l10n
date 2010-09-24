@@ -183,8 +183,8 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey    "м">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.label          "Веб-консоль">
+<!ENTITY webConsoleCmd.accesskey      "В">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Дослідити">

@@ -1,15 +1,15 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "URL запиту">
+<!ENTITY networkPanel.requestMethod               "Метод запиту">
+<!ENTITY networkPanel.statusCode                  "Статус">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Заголовки запиту">
+<!ENTITY networkPanel.requestCookie               "Надіслані куки">
+<!ENTITY networkPanel.requestBody                 "Тіло запиту">
+<!ENTITY networkPanel.requestFormData             "Надіслані дані форм">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "Заголовки відповіді">
+<!ENTITY networkPanel.responseBody                "Тіло відповіді">
+<!ENTITY networkPanel.responseBodyCached          "Кешовані дані">
+<!ENTITY networkPanel.responseNoBody              "Нема тіла відповіді">
+<!ENTITY networkPanel.responseImage               "Отримане зображення">
+<!ENTITY networkPanel.responseImageCached         "Кешоване зображення">
