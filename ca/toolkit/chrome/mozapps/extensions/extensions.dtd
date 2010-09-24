@@ -7,9 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Comprova si hi ha actualitzacions">
 <!ENTITY listEmpty.search.label               "No s'ha pogut trobar cap complement que hi coincideixi">
 <!ENTITY listEmpty.button.label               "Més informació dels complements">
-<!ENTITY installFromFile.label                "Instal·la d'un fitxer…">
-<!ENTITY installFromFile.accesskey            "I">
-
+<!ENTITY installAddonFromFile.label           "Instal·la el complement d'un fitxer…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Eines per a tots els complements">
 <!ENTITY cmd.back.tooltip                     "Vés enrere una pàgina">
 <!ENTITY cmd.forward.tooltip                  "Vés endavant una pàgina">
 
@@ -34,16 +34,20 @@
 <!ENTITY view.plugins.label                   "Connectors">
 <!ENTITY view.recentUpdates.label             "Actualitzacions recents">
 <!ENTITY view.availableUpdates.label          "Actualitzacions disponibles">
-<!ENTITY view.utilites.preferences.tooltip    "Opcions per a tots els complements">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Preferències per a tots els complements">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Actualitza els complements ara">
-<!ENTITY updates.updateAddonsNow.accesskey    "u">
+<!ENTITY updates.checkForUpdates.label        "Comprova si hi ha actualitzacions">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Visualitza les actualitzacions recents">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Comprova si hi ha actualitzacions automàticament">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
+<!ENTITY updates.updateAddonsAutomatically.label        "Actualitza els complements automàticament">
+<!ENTITY updates.updateAddonsAutomatically.accesskey    "a">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reinicia tots els complements perquè s'actualitzin automàticament">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Reinicia tots els complements perquè s'actualitzin manualment">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.viewUpdates.label            "Visualitza les actualitzacions recents">
+<!ENTITY updates.viewUpdates.accesskey        "V">
 <!ENTITY updates.updating.label               "S'estan actualitzant els complements">
 <!ENTITY updates.installed.label              "S'han actualitzat els vostres complements.">
 <!ENTITY updates.downloaded.label             "S'han baixat les actualitzacions dels vostres complements">
@@ -100,6 +104,8 @@
 <!ENTITY detail.contributions.description     "El desenvolupador del complement us demana que l'ajudeu a continuar amb el seu desenvolupament fent una donació.">
 
 <!ENTITY detail.updateType                    "Actualitzacions automàtiques">
+<!ENTITY detail.updateDefault.label           "Per defecte">
+<!ENTITY detail.updateDefault.tooltip         "Instal·la automàticament les actualització només si és el comportament per defecte">
 <!ENTITY detail.updateAutomatic.label     "Activades">
 <!ENTITY detail.updateAutomatic.tooltip   "Instal·la actualitzacions automàticament">
 <!ENTITY detail.updateManual.label            "Desactivades">
@@ -132,6 +138,9 @@
 <!ENTITY sort.dateUpdated.tooltip             "Ordena per la data d'actualització">
 <!ENTITY sort.relevance.label                 "Millor coincidència">
 <!ENTITY sort.relevance.tooltip               "Ordena per rellevància">
+
+<!ENTITY sort.price.label                     "Preu">
+<!ENTITY sort.price.tooltip                   "Ordena per preu">
 
 <!ENTITY search.filter2.label                  "Cerca:">
 <!ENTITY search.filter2.installed.label        "Els meus complements">
