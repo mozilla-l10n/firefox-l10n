@@ -23,6 +23,9 @@
 <!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "e"> 
 
+<!ENTITY datamanCmd.label "Databehandler">
+<!ENTITY datamanCmd.accesskey "D">
+
 <!ENTITY passwordManagerCmd.label "Passordbehandling">
 <!ENTITY passwordManagerCmd.accesskey "P">
 
