@@ -44,14 +44,14 @@
 <!ENTITY goOfflineCmd.label "Работать автономно">
 <!ENTITY goOfflineCmd.accesskey "а">
 <!ENTITY menubarCmd.label "Панель меню">
-<!ENTITY menubarCmd.accesskey "н">
+<!ENTITY menubarCmd.accesskey "е">
 <!ENTITY navbarCmd.label "Панель навигации">
-<!ENTITY navbarCmd.accesskey "П">
+<!ENTITY navbarCmd.accesskey "в">
 <!ENTITY personalbarCmd.label "Панель закладок">
 <!ENTITY personalbarCmd.accesskey "з">
 <!ENTITY bookmarksToolbarItem.label "Элементы панели закладок">
-<!ENTITY taskbarCmd.label "Строка состояния">
-<!ENTITY taskbarCmd.accesskey "т">
+<!ENTITY addonBarCmd.label "Панель дополнений">
+<!ENTITY addonBarCmd.accesskey "д">
 <!ENTITY pageSourceCmd.label "Исходный код страницы">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -105,6 +105,7 @@
 <!ENTITY throbberItem.title "Индикатор активности">
 <!ENTITY bookmarksItem.title "Закладки">
 <!ENTITY appMenuButton.label "Меню">
+<!ENTITY appMenuButton.tooltip "Открыть меню &brandShortName;">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY tabGroupsButton.label "Группы вкладок">
 <!ENTITY tabGroupsButton.tooltip "Сгруппировать ваши вкладки">
@@ -207,7 +208,7 @@
 <!ENTITY viewSidebarMenu.label "Боковая панель">
 <!ENTITY viewSidebarMenu.accesskey "Б">
 <!ENTITY viewCustomizeToolbar.label "Настроить…">
-<!ENTITY viewCustomizeToolbar.accesskey "Н">
+<!ENTITY viewCustomizeToolbar.accesskey "с">
 <!ENTITY viewTabsOnTop.label "Вкладки сверху">
 <!ENTITY viewTabsOnTop.accesskey "к">
 <!ENTITY historyMenu.label "Журнал">
@@ -372,9 +373,9 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "З">
 <!ENTITY pageStyleMenu.label "Стиль страницы">
-<!ENTITY pageStyleMenu.accesskey "С">
+<!ENTITY pageStyleMenu.accesskey "и">
 <!ENTITY pageStyleNoStyle.label "Без стиля">
-<!ENTITY pageStyleNoStyle.accesskey "Б">
+<!ENTITY pageStyleNoStyle.accesskey "е">
 <!ENTITY pageStylePersistentOnly.label "Основной стиль страницы">
 <!ENTITY pageStylePersistentOnly.accesskey "О">
 <!ENTITY pageReportIcon.tooltip "Изменить параметры блокировки всплывающих окон для этого сайта">

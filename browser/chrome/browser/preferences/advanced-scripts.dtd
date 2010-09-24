@@ -44,7 +44,3 @@
 <!ENTITY raiseLowerWindows.accesskey "д">
 <!ENTITY disableContextMenus.label "Отключать или заменять контекстные меню">
 <!ENTITY disableContextMenus.accesskey "к">
-<!ENTITY hideStatusBar.label "Скрывать строку состояния">
-<!ENTITY hideStatusBar.accesskey "с">
-<!ENTITY changeStatusBar.label "Изменять текст в строке состояния">
-<!ENTITY changeStatusBar.accesskey "т">
