@@ -40,16 +40,11 @@
 <!ENTITY netInterrupt.title "连接被中断">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "<ul>
+<!ENTITY netOffline.title "脱机模式">
+<!ENTITY netOffline.overrideLongDesc "<ul>
   <li>请重试。 &brandShortName; 将会尝试打开一个链接并重新载入页面。</li>
 </ul>
  ">
-
-<!ENTITY netOffline.title "脱机模式">
-<!ENTITY netOffline.longDesc "<ul><li>请将 文件 菜单中的 &quot;脱机工作&quot; 反选，然后再试。</li></ul>">
 
 <!ENTITY contentEncodingError.title "内容编码错误">
 <!ENTITY contentEncodingError.longDesc " <ul>   <li>请联系网站所有者并告知该问题。</li> </ul> ">
@@ -123,9 +118,12 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY securityOverride.getMeOutOfHereButton "立即离开！">
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText " <p>如果您使用的是一个您不完全信任的因特网连接，或者您不习惯看到此服务器的警告，您不应该添加一个例外。</p>  <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/> ">
+<!ENTITY securityOverride.warningContent "<p>如果您使用的是一个您不完全信任的因特网连接，或者您不习惯看到此服务器的警告，您不应该添加一个例外。</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
