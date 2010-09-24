@@ -43,6 +43,8 @@
 <!ENTITY syncKeyEntry.label        "Sync-nøkkel">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncKeyGenerate.label     "Generer">
+<!ENTITY syncKeyStrength.label     "Styrke:">
+<!ENTITY syncKeyHelp.label         "Hva betyr styrke?">
 <!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkrevd for å få tilgang til &syncBrand.fullName.label; på flere maskiner. Lag en sikkerhetskopi. Vi kan ikke hjelpe deg å finne tilbake tilbake en glemt Sync-nøkkel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
