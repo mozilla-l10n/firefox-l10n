@@ -2,7 +2,8 @@
 <!ENTITY aboutHome.recentTabs                   "Pestanyes de la darrera vegada">
 <!ENTITY aboutHome.remoteTabs                   "Pestanyes d'altres ordinadors">
 <!ENTITY aboutHome.recommendedAddons2           "Complements del &brandShortName;">
-<!ENTITY aboutHome.aboutMozilla                 "Quant a Mozilla">
+
+<!ENTITY aboutHome.giveFeedback                 "Doneu la vostra opinió">
 <!ENTITY aboutHome.openAllTabs                  "Obre-ho tot en pestanyes">
 <!ENTITY aboutHome.noTabs                       "Cap pestanya des de la darrera vegada">
 <!ENTITY aboutHome.noAddons                     "No hi ha cap complement recomanat">
