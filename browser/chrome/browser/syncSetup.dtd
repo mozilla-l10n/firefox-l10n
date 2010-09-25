@@ -38,15 +38,15 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਦੀ ਖਿਆਲ ਰੱਖਦਾ ਹੈ">
+<!ENTITY setup.newSyncKeyPage.description.label "ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਨੂੰ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ, ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਅੱਪਲੋਡ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਸਿੰਕ ਕੁੰਜੀ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਡੀ-ਕ੍ਰਿਪਟ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਹੈ, ਅੱਪਲੋਡ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।">
 <!ENTITY syncKeyEntry.label        "ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "ਬਣਾਓ">
+<!ENTITY syncKeyStrength.label     "ਤਾਕਤ:">
+<!ENTITY syncKeyHelp.label         "ਤਾਕਤ ਦਾ ਕੀ ਮਤਲਬ ਹੈ?">
 <!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
-<!ENTITY button.syncKeyBackup.email.label     "ਈਮੇਲ…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "ਸੰਭਾਲੋ…">
@@ -95,9 +95,9 @@
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; ਹੁਣ ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਸਭ ਬਰਾਊਜ਼ਰ ਡਾਟੇ ਨੂੰ ਤੁਹਾਡੇ ਸਿੰਕ ਅਕਾਊਂਟ ਨਾਲ ਮਿਲਾਏਗਾ।">
 <!ENTITY confirm.client.label         "ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਭ &brandShortName; ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ, ਜਿਸ ਵਿੱਚ ਅੱਗੇ ਦਿੱਤਾ ਕੁਝ ਹੈ:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
+<!ENTITY confirm.client.warning.label "ਸਾਵਧਾਨ: This will result in all &brandShortName; data on this computer being replaced!">
 <!ENTITY confirm.server.label         "ਅੱਗੇ ਦਿੱਤੇ ਜੰਤਰ ਉੱਤੇ ਤੁਹਾਡਾ ਲੋਕਲ ਡਾਟਾ ਲਿਖਿਆ ਜਾਵੇਗਾ:">
-<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
+<!ENTITY confirm.server.warning.label "ਸਾਵਧਾਨ: Your local data will replace all &brandShortName; data on these devices!">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "ਸੈਟਅੱਪ ਪੂਰਾ ਹੋਇਆ">

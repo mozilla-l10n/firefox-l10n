@@ -32,7 +32,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "ਨਵਾਂ ਗਰੁੱਪ">
 <!ENTITY  moveToNewWindow.label              "ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਭੇਜੋ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ…">
+<!ENTITY  bookmarkAllTabs.label              "...ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਸ ਲਵੋ">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -69,8 +69,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਆਈਟਮਾਂ">
-<!ENTITY taskbarCmd.label "ਹਾਲਤ-ਬਾਰ">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "ਐਡ-ਆਨ ਪੱਟੀ">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "ਪੇਜ਼ ਸਰੋਤ">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -100,10 +100,10 @@ can reach it easily. -->
 <!ENTITY bookmarkThisPageCmd.label "ਇਹ ਪੇਜ਼ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
-<!ENTITY subscribeToPageMenuitem.label "ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ...">
-<!ENTITY addCurPagesCmd.label "ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ...">
-<!ENTITY showAllBookmarks.label "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ…">
-<!ENTITY bookmarkAllCmd.label "ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ......">
+<!ENTITY subscribeToPageMenuitem.label "...ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
+<!ENTITY addCurPagesCmd.label "...ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
+<!ENTITY showAllBookmarks.label "...ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
+<!ENTITY bookmarkAllCmd.label "...ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
@@ -133,13 +133,14 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "ਮੇਨੂ">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; ਮੇਨੂ ਖੋਲ੍ਹੋ">
 <!ENTITY  homeButton.label            "ਘਰ">
 
 <!ENTITY tabGroupsButton.label        "ਟੈਬ ਗਰੁੱਪ">
 <!ENTITY tabGroupsButton.tooltip      "ਆਪਣੀ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਓ">
 
 <!ENTITY feedButton.label             "ਮੈਂਬਰ ਬਣੋ">
-<!ENTITY feedButton.tooltip           "ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ…">
+<!ENTITY feedButton.tooltip           "ਇਹ... ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 
 <!ENTITY bookmarksButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
@@ -243,7 +244,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmd.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-<!ENTITY clearRecentHistory.label               "ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ…">
+<!ENTITY clearRecentHistory.label               "...ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearRecentHistory.accesskey           "H">
 
 
@@ -283,7 +284,7 @@ can reach it easily. -->
 <!ENTITY appMenuCustomize.label "ਪਸੰਦੀਦਾ">
 <!ENTITY appMenuToolbarLayout.label "ਟੂਲਬਾਰ ਲੇਆਉਟ…">
 <!ENTITY appMenuSidebars.label "ਬਾਹੀ">
-<!ENTITY appMenuFind.label "ਖੋਜ…">
+<!ENTITY appMenuFind.label "...ਖੋਜ">
 <!ENTITY appMenuUnsorted.label "ਬਿਨ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ">
 <!ENTITY appMenuWebDeveloper.label "ਵੈੱਬ ਡਿਵੈਲਪਰ">
 <!ENTITY appMenuGettingStarted.label "ਸ਼ੁਰੂਆਤ">
@@ -517,7 +518,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ...">
+<!ENTITY spellAddDictionaries.label "...ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                      "ਮੁਕੰਮਲ">
@@ -525,7 +526,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 <!ENTITY editBookmark.undo.label                     "ਵਾਪਸ">
 <!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.edit.label                     "ਸੋਧ…">
+<!ENTITY editBookmark.edit.label                     "...ਸੋਧ">
 <!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "ਇਹ ਵੈੱਬ ਸਾਇਟ ਨੇ ਪਛਾਣ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦਿੱਤੀ ਹੈ।">

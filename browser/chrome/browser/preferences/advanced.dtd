@@ -40,20 +40,19 @@
 
 <!ENTITY offlineStorage.label            "ਆਫਲਾਇਨ ਸਟੋਰੇਜ਼">
 
-
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "ਕੈਸ਼ ਲਈ">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB ਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ">
+<!ENTITY limitCacheSizeBefore.label      "ਕੈਸ਼ ਲਿਮਟ ਰੱਖੋ, ਥਾਂ ਵਿੱਚੋਂ">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY smartSizeCache.label            "&brandShortName; ਨੂੰ ਮੇਰੀ ਕੈਸ਼ ਆਕਾਰ ਦਾ ਪਰਬੰਧ ਕਰਨ ਦਿਉ">
-<!ENTITY smartSizeCache.accesskey        "L">
+<!ENTITY overrideSmartCacheSize.label    "ਕੈਸ਼ ਪਰਬੰਧ ਆਟੋਮੈਟਿਕ ਅਣਡਿੱਠਾ ਕਰੋ">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "ਅੱਪਡੇਟ">
 

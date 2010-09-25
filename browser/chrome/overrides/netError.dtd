@@ -51,11 +51,17 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "ਆਫ਼-ਲਾਈਨ ਮੋਡ">
-<!ENTITY netOffline.longDesc2 "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>&quot;ਆਫਲਾਈਨ ਕੰਮ ਕਰ&quot; ਚੋਣ ਹਟਾ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</li>
+  <li>&quot;ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ&quot; ਮੇਨੂ ਆਈਟਮ ਚੋਣ ਹਟਾ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</li>
 </ul>
 ">
+
 <!ENTITY contentEncodingError.title "ਸਮਗੱਰੀ ਇੰਕੋਡਿੰਗ ਗਲਤੀ">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
