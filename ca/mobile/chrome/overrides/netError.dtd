@@ -55,14 +55,12 @@
 <!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
      to pickup this string change. Please update netOffline.longDesc too -->
 
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "Mode fora de línia">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>Torneu-ho a provar. El &brandShortName; intentarà obrir una connexió i tornar a carregar la pàgina.</li>
   </ul>
-  ">
-
-<!ENTITY netOffline.title "Mode fora de línia">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
+">
 
 <!ENTITY contentEncodingError.title "Error de codificació del contingut">
 <!ENTITY contentEncodingError.longDesc "
@@ -179,11 +177,11 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>No hauríeu d'afegir una excepció si esteu utilitzant una connexió d'Internet de la qual no en confieu completament, o si no esteu acostumat a veure un avís d'aquest servidor.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
 

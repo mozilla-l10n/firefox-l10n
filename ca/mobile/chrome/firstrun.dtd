@@ -1,13 +1,13 @@
 <!ENTITY firstrun.title                      "Us donem la benvinguda al &brandShortName;">
 <!ENTITY firstrun.heading2                      "Us donem la benvinguda al &brandShortName;">
-<!ENTITY firstrun.sync.title           "Aconseguiu el Firefox Sync">
-<!ENTITY firstrun.sync.description     "Compartiu l'historial, contrasenyes, adreces d'interès i les pestanyes del &brandShortName; entre el vostre ordinador i el vostre mòbil">
-<!ENTITY firstrun.addons.title         "Aconseguiu complements">
-<!ENTITY firstrun.addons.description   "Instal·leu complements per millorar l'experiència amb el vostre &brandShortName;">
-<!ENTITY firstrun.home.title           "Primers passos">
-<!ENTITY firstrun.home.description     "Feu un toc per anar a la vostra pàgina d'inici personalitzada i començar a navegar">
-<!ENTITY firstrun.relNotes.label       "Vegeu les notes de la versió">
+<!ENTITY firstrun.sync2.title           "Sincronització">
+<!ENTITY firstrun.sync2.description     "Inicieu una sessió amb el vostre compte del Sync i compartiu historial, contrasenyes, adreces d'interès i les pestanyes entre el vostre ordinador i el vostre mòbil">
+<!ENTITY firstrun.addons2.title         "Personalització">
+<!ENTITY firstrun.addons2.description   "Descobriu i instal·leu complements per afegir nova funcionalitat al vostre &brandShortName;">
+<!ENTITY firstrun.home2.title           "Navegació">
+<!ENTITY firstrun.home2.description     "Salteu-vos tot això i aneu a la vostra pàgina d'inici personalitzada i comenceu a navegar">
 
+<!ENTITY firstrun.features             "Més funcionalitats">
 <!ENTITY firstrun.faq                  "PMF">
 <!ENTITY firstrun.privacy              "Política de privadesa">
 <!ENTITY firstrun.follow               "Seguiu-nos a:">

@@ -19,9 +19,9 @@
 <!ENTITY homepage.default                          "Inici del &brandShortName;">
 <!ENTITY homepage.currentpage                      "Utilitza la pàgina actual">
 <!ENTITY sync.title                                "Sincronització">
-<!ENTITY sync.username                             "Nom d'usuari">
+<!ENTITY sync.account                              "Nom d'usuari / adreça electrònica">
 <!ENTITY sync.password                             "Contrasenya">
-<!ENTITY sync.secretPhrase                         "Frase secreta">
+<!ENTITY sync.syncKey                              "Clau de sincronització">
 <!ENTITY sync.deviceName                           "Nom del dispositiu">
 <!ENTITY sync.connect                              "Connecta">
 <!ENTITY sync.disconnect                           "Desconnecta">
