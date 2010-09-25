@@ -25,8 +25,8 @@
 <!ENTITY syncComputerName.label       "Nom de l'ordinador:">
 <!ENTITY syncComputerName.accesskey   "o">
 
-<!ENTITY syncMy.label               "Sincronitza les meves">
-<!ENTITY engine.bookmarks.label     "adreces d'interès">
+<!ENTITY syncMy.label               "Sincronitza:">
+<!ENTITY engine.bookmarks.label     "Adreces d'interès">
 <!ENTITY engine.bookmarks.accesskey "d">
 <!ENTITY engine.tabs.label          "Pestanyes">
 <!ENTITY engine.tabs.accesskey      "t">
