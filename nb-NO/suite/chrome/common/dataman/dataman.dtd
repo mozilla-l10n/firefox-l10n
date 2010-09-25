@@ -1,0 +1,159 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is KaiRo's data manager.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser <kairo@kairo.at>.
+   - Portions created by the Initial Developer are Copyright (C) 2010
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at> (original author)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY dataman.windowTitle "Databehandler">
+
+<!ENTITY selectAll.key "a">
+
+<!ENTITY domain.search.placeholder "Søk i domener">
+<!ENTITY domain.search.key "S">
+
+<!ENTITY domain.tree.domain.label "Domene">
+
+<!ENTITY domain.ctx.forgetdomain.label "Glem alt om dette domenet">
+<!ENTITY domain.ctx.forgetdomain.accesskey "G">
+<!ENTITY domain.ctx.forgetglobal.label "Glem alt om global data">
+<!ENTITY domain.ctx.forgetglobal.accesskey "e">
+
+<!ENTITY data.search.key "k">
+
+<!ENTITY tab.cookies.label "Infokapsler">
+<!ENTITY tab.permissions.label "Tillatelser">
+<!ENTITY tab.preferences.label "Innstillinger">
+<!ENTITY tab.passwords.label "Passord">
+<!ENTITY tab.formdata.label "Skjemadata">
+<!ENTITY tab.forget.label "Glem">
+
+<!-- cookies -->
+<!ENTITY cookies.description "Dette domenet har lagret følgende infokapsler på datamaskinen din:">
+
+<!ENTITY cookies.tree.host.label "Nettsted">
+<!ENTITY cookies.tree.name.label "Navn på infokapsel">
+<!ENTITY cookies.tree.expires.label "Utgår">
+
+<!ENTITY cookies.infobox.label "Informasjon om valgt infokapsel">
+
+<!ENTITY cookies.info.name.label "Navn:">
+<!ENTITY cookies.info.value.label "Innhold:">
+<!ENTITY cookies.info.host.label "Tjener:">
+<!ENTITY cookies.info.domain.label "Domene:">
+<!ENTITY cookies.info.path.label "Sti:">
+<!ENTITY cookies.info.sendtype.label "Send for:">
+<!ENTITY cookies.info.expires.label "Utgår:">
+
+<!ENTITY cookies.ctx.remove.label "Fjern">
+<!ENTITY cookies.ctx.remove.accesskey "F">
+<!ENTITY cookies.ctx.selectAll.label "Velg alle">
+<!ENTITY cookies.ctx.selectAll.accesskey "V">
+
+<!ENTITY cookies.button.remove.label "Fjern">
+<!ENTITY cookies.button.remove.accesskey "r">
+
+<!ENTITY cookies.blockOnRemove.label "Ved fjerning, blokker de opplistede nettstedene fra å sette noen infokapsler i fremtiden">
+<!ENTITY cookies.blockOnRemove.accesskey "f">
+
+<!-- permissions -->
+<!ENTITY perm.UseDefault "Bruk standard">
+<!ENTITY perm.AskAlways "Spør alltid">
+<!ENTITY perm.NeverSave "Aldri lagre">
+<!ENTITY perm.Allow "Tillat">
+<!ENTITY perm.AllowSession "Tillat for programøkten">
+<!ENTITY perm.Block "Blokker">
+
+<!-- preferences -->
+<!ENTITY prefs.description "Innholdsinnstillinger er en måte som &brandShortName; bruker for å lagre innstillinger som skriftstørrelse, spesifikt for et nettsted.">
+
+<!ENTITY prefs.tree.host.label "Nettsted">
+<!ENTITY prefs.tree.name.label "Innstillingnavn">
+<!ENTITY prefs.tree.value.label "Verdi">
+
+<!ENTITY prefs.ctx.remove.label "Fjern">
+<!ENTITY prefs.ctx.remove.accesskey "F">
+<!ENTITY prefs.ctx.selectAll.label "Merk alt">
+<!ENTITY prefs.ctx.selectAll.accesskey "M">
+
+<!ENTITY prefs.button.remove.label "Fjern">
+<!ENTITY prefs.button.remove.accesskey "F">
+
+<!-- passwords -->
+<!ENTITY pwd.description "Du har lagret følgende passord for dette domenet:">
+
+<!ENTITY pwd.tree.host.label "Nettsted">
+<!ENTITY pwd.tree.username.label "Brukernavn">
+<!ENTITY pwd.tree.password.label "Passord">
+
+<!ENTITY pwd.ctx.remove.label "Fjern">
+<!ENTITY pwd.ctx.remove.accesskey "F">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Kopier passord">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "K">
+<!ENTITY pwd.ctx.selectAll.label "Merk alt">
+<!ENTITY pwd.ctx.selectAll.accesskey "M">
+
+<!ENTITY pwd.button.remove.label "Fjern">
+<!ENTITY pwd.button.remove.accesskey "F">
+
+<!-- form data -->
+<!ENTITY fdata.search.placeholder "Søk feltdata">
+
+<!ENTITY fdata.tree.fieldname.label "Feltnavn">
+<!ENTITY fdata.tree.value.label "Innskrevet verdi">
+<!ENTITY fdata.tree.usecount.label "Antall brukstilfeller">
+<!ENTITY fdata.tree.firstused.label "Først brukt">
+<!ENTITY fdata.tree.lastused.label "Sist brukt">
+
+<!ENTITY fdata.ctx.remove.label "Fjern">
+<!ENTITY fdata.ctx.remove.accesskey "F">
+<!ENTITY fdata.ctx.selectAll.label "Merk alt">
+<!ENTITY fdata.ctx.selectAll.accesskey "M">
+
+<!ENTITY fdata.button.remove.label "Fjern">
+<!ENTITY fdata.button.remove.accesskey "F">
+
+<!-- forget -->
+<!ENTITY forget.cookies.label "Infokapsler">
+<!ENTITY forget.cookies.accesskey "I">
+<!ENTITY forget.permissions.label "Tillatelser">
+<!ENTITY forget.permissions.accesskey "T">
+<!ENTITY forget.preferences.label "Innholdsinnstillinger">
+<!ENTITY forget.preferences.accesskey "I">
+<!ENTITY forget.passwords.label "Passord">
+<!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.formdata.label "Skjemadata">
+<!ENTITY forget.formdata.accesskey "S">
+
+<!ENTITY forget.button.label "Glem disse data">
+<!ENTITY forget.button.accesskey "G">
