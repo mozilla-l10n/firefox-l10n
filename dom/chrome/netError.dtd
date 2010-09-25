@@ -46,6 +46,7 @@
 
 <!ENTITY netOffline.title "Mode fora de línia">
 <!ENTITY netOffline.longDesc "<p>El navegador opera en mode fora de línia i no pot connectar-se a l'element sol·licitat.</p><ul><li>Està l'ordinador connectat a una xarxa activa?</li><li>Poseu el navegador en mode en línia i torneu-ho a provar.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>El navegador opera en mode fora de línia i no pot connectar-se a l'element sol·licitat.</p><ul><li>Està l'ordinador connectat a una xarxa activa?</li><li>Poseu el navegador en mode en línia i torneu-ho a provar.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "El port s'ha restringit per motius de seguretat">
 <!ENTITY deniedPortAccess.longDesc "<p>L'adreça soŀlicitada especifica un port (e.g. <q>mozilla.org:80</q> per al 80 a mozilla.org) que normalment s'utilitza per a propòsits <em>diferents</em> de la navegació web. El navegador ha canceŀlat la soŀlicitud per a garantir la vostra protecció i seguretat.</p>">

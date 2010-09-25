@@ -1,6 +1,6 @@
-<!ENTITY startDescription.label "Una ubicació web ha intentat obrir una finestra emergent sense el vostre permís. &brandShortName; ha tancat automàticament la finestra emergent. Sempre que el &brandShortName; bloqui aquestes emergents, veureu una icona a la barra d'estat.  ">
+<!ENTITY startDescriptionText.label "Un lloc web ha intentat obrir una finestra emergent sense el vostre permís. &brandShortName; ha tancat automàticament la finestra emergent.">
 
-<!ENTITY endDescription.label "Podeu fer un clic a la icona per a veure quins llocs el &brandShortName; bloca i permetre a aquells llocs obrir emergents si els necessiten per a funcionar correctament. ">
+<!ENTITY endDescription.label "Podeu fer un clic a la icona per veure quins llocs el &brandShortName; bloca i permetre a aquells llocs obrir emergents si els necessiten per poder funcionar correctament. ">
 
 <!ENTITY caption.label "Quant al blocatge de finestres emergents">
 
