@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "M">
 <!ENTITY disableContextMenus.label      "Slå av eller erstatte kontekstmenyar">
 <!ENTITY disableContextMenus.accesskey  "a">
-<!ENTITY hideStatusBar.label            "Skjule statuslinja">
-<!ENTITY hideStatusBar.accesskey        "S">
-<!ENTITY changeStatusBar.label          "Endre teksten på statuslinja">
-<!ENTITY changeStatusBar.accesskey      "E">

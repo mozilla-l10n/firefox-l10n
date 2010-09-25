@@ -2,7 +2,7 @@
 <!ENTITY aboutHome.recentTabs                   "Faner frå førre gong">
 <!ENTITY aboutHome.remoteTabs                   "Faner frå ei anna datamaskin">
 <!ENTITY aboutHome.recommendedAddons2           "Utvidingar for &brandShortName;">
-<!ENTITY aboutHome.aboutMozilla                 "Om Mozilla">
+<!ENTITY aboutHome.giveFeedback                 "Gje tilbakemelding">
 <!ENTITY aboutHome.openAllTabs                  "Opne alle i faner">
 <!ENTITY aboutHome.noTabs                       "Ingen faner frå førre gong">
 <!ENTITY aboutHome.noAddons                     "Ingen tilrådde utvidingar">

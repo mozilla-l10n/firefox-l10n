@@ -43,10 +43,10 @@
 <!ENTITY syncKeyEntry.label        "Sync-nøkkel">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncKeyGenerate.label     "Generer">
+<!ENTITY syncKeyStrength.label     "Styrke:">
+<!ENTITY syncKeyHelp.label         "Kva tyder styrke?">
 <!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkrevd for å få tilgang til &syncBrand.fullName.label; på fleire maskiner. Lag ein tryggingskopi. Vi kan ikkje hjelpe deg med å finne tilbake tilbake ein gløymd Sync-nøkkel.">
 
-<!ENTITY button.syncKeyBackup.email.label     "E-post …">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
 <!ENTITY button.syncKeyBackup.save.label      "Lagre …">

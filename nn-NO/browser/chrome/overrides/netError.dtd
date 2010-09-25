@@ -48,9 +48,15 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Fråkopla modus">
-<!ENTITY netOffline.longDesc "<ul>
-  <li>Fjern avkryssinga frå &quot;Arbeid fråkopla&quot; i Fil-menyen, og prøv igjen.</li>
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "<ul>  
+  <li>Fjern avkryssinga frå &quot;Arbeid fråkopla&quot; og prøv igjen.</li>
 </ul>
+
 ">
 
 <!ENTITY contentEncodingError.title "Feilkoding av innhald">

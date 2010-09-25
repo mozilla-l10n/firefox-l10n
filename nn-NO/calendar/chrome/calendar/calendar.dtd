@@ -151,6 +151,10 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "u">
 <!ENTITY calendar.task.filter.open.label            "Uferdige oppgåver">
 <!ENTITY calendar.task.filter.open.accesskey        "U">
+<!ENTITY calendar.task.filter.current.label         "Noverande oppgåver">
+<!ENTITY calendar.task.filter.current.accesskey     "N">
+<!ENTITY calendar.task.filter.repeating.label       "Gjentakande oppgåver">
+<!ENTITY calendar.task.filter.repeating.accesskey   "G">
 
 <!ENTITY calendar.task-details.title.label           "tittel">
 <!ENTITY calendar.task-details.organizer.label       "frå">
