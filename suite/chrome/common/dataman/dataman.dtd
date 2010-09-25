@@ -1,0 +1,125 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is KaiRo's data manager.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser <kairo@kairo.at>.
+   - Portions created by the Initial Developer are Copyright (C) 2010
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at> (original author)
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY dataman.windowTitle "Administrador de datos">
+<!ENTITY selectAll.key "a">
+<!ENTITY domain.search.placeholder "Buscar dominios">
+<!ENTITY domain.search.key "f">
+<!ENTITY domain.tree.domain.label "Dominio">
+<!ENTITY domain.ctx.forgetdomain.label "Olvidarse de este dominio">
+<!ENTITY domain.ctx.forgetdomain.accesskey "O">
+<!ENTITY domain.ctx.forgetglobal.label "Olvidar datos globales">
+<!ENTITY domain.ctx.forgetglobal.accesskey "O">
+<!ENTITY data.search.key "k">
+<!ENTITY tab.cookies.label "Cookies">
+<!ENTITY tab.permissions.label "Permisos">
+<!ENTITY tab.preferences.label "Preferencias">
+<!ENTITY tab.passwords.label "Contraseñas">
+<!ENTITY tab.formdata.label "Datos de formularios">
+<!ENTITY tab.forget.label "Olvidar">
+<!ENTITY cookies.description "Este dominio ha guardado las siguientes cookies en su equipo:">
+<!ENTITY cookies.tree.host.label "Sitio web">
+<!ENTITY cookies.tree.name.label "Nombre de la cookie">
+<!ENTITY cookies.tree.expires.label "Caduca">
+<!ENTITY cookies.infobox.label "Información sobre la cookie seleccionada">
+<!ENTITY cookies.info.name.label "Nombre:">
+<!ENTITY cookies.info.value.label "Contenido:">
+<!ENTITY cookies.info.host.label "Servidor:">
+<!ENTITY cookies.info.domain.label "Dominio:">
+<!ENTITY cookies.info.path.label "Ruta:">
+<!ENTITY cookies.info.sendtype.label "Enviar para:">
+<!ENTITY cookies.info.expires.label "Caduca:">
+<!ENTITY cookies.ctx.remove.label "Eliminar">
+<!ENTITY cookies.ctx.remove.accesskey "m">
+<!ENTITY cookies.ctx.selectAll.label "Seleccionar todo">
+<!ENTITY cookies.ctx.selectAll.accesskey "S">
+<!ENTITY cookies.button.remove.label "Eliminar">
+<!ENTITY cookies.button.remove.accesskey "E">
+<!ENTITY cookies.blockOnRemove.label "Al eliminar, impedir a los sitios web listados enviar cookies en el futuro">
+<!ENTITY cookies.blockOnRemove.accesskey "A">
+<!ENTITY perm.UseDefault "Usar valores preterminados">
+<!ENTITY perm.AskAlways "Preguntar siempre">
+<!ENTITY perm.NeverSave "No guardar nunca">
+<!ENTITY perm.Allow "Permitir">
+<!ENTITY perm.AllowSession "Permitir durante la sesión">
+<!ENTITY perm.Block "Bloquear">
+<!ENTITY prefs.description "Las preferencias de contenido son una manera de que &brandShortName; guarde su configuración, como el tamaño de visualización, específicamente para un sitio web.">
+<!ENTITY prefs.tree.host.label "Sitio web">
+<!ENTITY prefs.tree.name.label "Nombre de la preferencia">
+<!ENTITY prefs.tree.value.label "Valor">
+<!ENTITY prefs.ctx.remove.label "Eliminar">
+<!ENTITY prefs.ctx.remove.accesskey "E">
+<!ENTITY prefs.ctx.selectAll.label "Seleccionar todo">
+<!ENTITY prefs.ctx.selectAll.accesskey "S">
+<!ENTITY prefs.button.remove.label "Eliminar">
+<!ENTITY prefs.button.remove.accesskey "E">
+<!ENTITY pwd.description "Tiene las siguientes contraseñas guardadas de este dominio:">
+<!ENTITY pwd.tree.host.label "Sitio web">
+<!ENTITY pwd.tree.username.label "Nombre de usuario">
+<!ENTITY pwd.tree.password.label "Contraseña">
+<!ENTITY pwd.ctx.remove.label "Eliminar">
+<!ENTITY pwd.ctx.remove.accesskey "E">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar contraseña">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
+<!ENTITY pwd.ctx.selectAll.label "Seleccionar todo">
+<!ENTITY pwd.ctx.selectAll.accesskey "S">
+<!ENTITY pwd.button.remove.label "Eliminar">
+<!ENTITY pwd.button.remove.accesskey "E">
+<!ENTITY fdata.search.placeholder "Buscar datos de campos">
+<!ENTITY fdata.tree.fieldname.label "Nombre del campo">
+<!ENTITY fdata.tree.value.label "Valor introducido">
+<!ENTITY fdata.tree.usecount.label "Contador de uso">
+<!ENTITY fdata.tree.firstused.label "Usado por primera vez">
+<!ENTITY fdata.tree.lastused.label "Usado por última vez">
+<!ENTITY fdata.ctx.remove.label "Eliminar">
+<!ENTITY fdata.ctx.remove.accesskey "E">
+<!ENTITY fdata.ctx.selectAll.label "Seleccionar todo">
+<!ENTITY fdata.ctx.selectAll.accesskey "S">
+<!ENTITY fdata.button.remove.label "Eliminar">
+<!ENTITY fdata.button.remove.accesskey "E">
+<!ENTITY forget.cookies.label "Cookies">
+<!ENTITY forget.cookies.accesskey "C">
+<!ENTITY forget.permissions.label "Permisos">
+<!ENTITY forget.permissions.accesskey "P">
+<!ENTITY forget.preferences.label "Preferencias de contenido">
+<!ENTITY forget.preferences.accesskey "e">
+<!ENTITY forget.passwords.label "Contraseñas">
+<!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.formdata.label "Datos de formularios">
+<!ENTITY forget.formdata.accesskey "D">
+<!ENTITY forget.button.label "Olvidar estos datos">
+<!ENTITY forget.button.accesskey "O">
