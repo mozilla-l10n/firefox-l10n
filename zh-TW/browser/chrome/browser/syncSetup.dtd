@@ -43,10 +43,10 @@
 <!ENTITY syncKeyEntry.label        "您的同步金鑰">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "產生">
+<!ENTITY syncKeyStrength.label     "安全程度:">
+<!ENTITY syncKeyHelp.label         "安全程度是什麼意思？">
 <!ENTITY syncKeyBackup.description "您需要同步金鑰以存取其他電腦上的 &syncBrand.fullName.label;。請記得做好備份，我們無法幫您找回同步金鑰。">
 
-<!ENTITY button.syncKeyBackup.email.label     "Email…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "列印…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "儲存…">

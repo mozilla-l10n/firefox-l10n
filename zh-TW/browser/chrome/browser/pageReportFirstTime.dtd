@@ -1,4 +1,4 @@
-<!ENTITY startDescription.label            "此網站試圖開啟彈出型視窗，很可能是廣告視窗；不過 &brandShortName; 幫您擋下來了。每當發生這種情形時，您會在 &brandShortName; 狀態列看到一個圖示。">
+<!ENTITY startDescriptionText.label        "有個網站在您未同意的情況下嘗試開啟一個彈出型視窗。&brandShortName; 自動地關掉了這個彈出型視窗。">
 
 <!ENTITY endDescription.label              "您可以點選此圖示以檢視 &brandShortName; 封鎖或是允許開新彈出型廣告視窗的網站，並變更其設定。">
 
