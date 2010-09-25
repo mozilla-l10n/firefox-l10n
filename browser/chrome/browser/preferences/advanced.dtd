@@ -60,7 +60,7 @@
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Eliminar…">
 <!ENTITY offlineAppsListRemove.accesskey "l">
-<!ENTITY offlineAppRemove.confirm "Eliminar contenido en modo desconectado">
+<!ENTITY offlineAppRemove.confirm "Eliminar contenido en modo sin conexión">
 <!ENTITY encryptionTab.label "Cifrado">
 <!ENTITY protocols.label "Protocolos">
 <!ENTITY useSSL3.label "Usar SSL 3.0">
