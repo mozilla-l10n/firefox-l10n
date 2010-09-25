@@ -43,6 +43,8 @@
 <!ENTITY syncKeyEntry.label        "Din Sync-nyckel">
 <!ENTITY syncKeyEntry.accesskey    "D">
 <!ENTITY syncKeyGenerate.label     "Generera">
+<!ENTITY syncKeyStrength.label     "Styrka:">
+<!ENTITY syncKeyHelp.label         "Vad är styrkan för något?">
 <!ENTITY syncKeyBackup.description "Din Sync-nyckel behövs för att använda &syncBrand.fullName.label; på din andra enheter. Du bör skapa en säkerhetskopia av nyckeln. Vi kan inte hjälpa dig att återskapa en borttappad Sync-nyckel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut…">
