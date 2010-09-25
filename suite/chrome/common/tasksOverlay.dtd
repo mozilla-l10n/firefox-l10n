@@ -24,6 +24,9 @@
 <!ENTITY tasksMenu.label "Outils">
 <!ENTITY tasksMenu.accesskey "O">
 
+<!ENTITY datamanCmd.label "Gestionnaire de données">
+<!ENTITY datamanCmd.accesskey "M">
+
 <!ENTITY passwordManagerCmd.label "Mots de passe">
 <!ENTITY passwordManagerCmd.accesskey "M">
 
