@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "停用或取代右鍵選單">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "隱藏狀態列">
-<!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "改變狀態列文字">
-<!ENTITY changeStatusBar.accesskey      "C">

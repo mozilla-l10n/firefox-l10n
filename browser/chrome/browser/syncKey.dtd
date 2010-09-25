@@ -6,7 +6,7 @@
 <!ENTITY syncKey.keepItSafe1.description  "別把這把金鑰搞丟了。">
 <!ENTITY syncKey.keepItSafe2.description  " 我們將不會多拷貝一份這把鑰匙（這樣就不安全了！），所以 ">
 <!ENTITY syncKey.keepItSafe3.description  "如果您搞丟的話，我們將無法幫您找回">
-<!ENTITY syncKey.keepItSafe4.description  "您必須要在使用 &syncBrand.fullName.label; 連結新電腦或裝置時使用這把鑰匙。">
+<!ENTITY syncKey.keepItSafe4.description  " 您必須要在使用 &syncBrand.fullName.label; 連結新電腦或裝置時使用這把鑰匙。">
 <!ENTITY syncKey.findOutMore1.label       "閱讀更多關於 &syncBrand.fullName.label; 以及您的隱私權的資訊於 ">
 <!ENTITY syncKey.findOutMore2.label       "。">
 <!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; 的服務條款位於 ">

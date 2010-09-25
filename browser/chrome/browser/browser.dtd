@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "書籤工具列">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "書籤工具列項目">
-<!ENTITY taskbarCmd.label "狀態列">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "附加元件列">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "頁面原始碼">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "停止載入此網頁">
 <!ENTITY goEndCap.tooltip             "按此瀏覽位址列中的網址">
-<!ENTITY feedButton.tooltip           "訂閱此頁面…">
 <!ENTITY printButton.label            "列印">
 <!ENTITY printButton.tooltip          "列印頁面">
 
@@ -134,10 +133,14 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "選單">
+<!ENTITY appMenuButton.tooltip        "開啟 &brandShortName; 選單">
 <!ENTITY homeButton.label             "首頁">
 
 <!ENTITY tabGroupsButton.label        "分頁群組">
 <!ENTITY tabGroupsButton.tooltip      "對您的分頁進行分組">
+
+<!ENTITY feedButton.label             "訂閱">
+<!ENTITY feedButton.tooltip           "訂閱此頁面…">
 
 <!ENTITY bookmarksButton.label          "書籤">
 <!ENTITY bookmarksButton.tooltip        "顯示您的書籤">
@@ -279,9 +282,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "側邊欄">
 <!ENTITY appMenuFind.label "尋找…">
 <!ENTITY appMenuUnsorted.label "未排序書籤">
+<!ENTITY appMenuWebDeveloper.label "網頁開發者">
 <!ENTITY appMenuGettingStarted.label "新手上路">
-
-<!ENTITY developerMenu.label "開發者">
+<!ENTITY appMenuSafeMode.label "重新啟動但停用附加元件…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "開啟網站">

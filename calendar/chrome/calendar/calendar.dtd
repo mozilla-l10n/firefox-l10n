@@ -58,7 +58,7 @@
 
 <!ENTITY calendar.today.button.label       "今天">
 <!ENTITY calendar.tomorrow.button.label       "明天">
-<!ENTITY calendar.soon.button.label           "馬上">
+<!ENTITY calendar.soon.button.label           "最近">
 
 <!ENTITY calendar.events.filter.all.label "所有事件">
 <!ENTITY calendar.events.filter.today.label "本日事件">
@@ -151,6 +151,10 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "C">
 <!ENTITY calendar.task.filter.open.label            "尚未完成的工作">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
+<!ENTITY calendar.task.filter.current.label         "目前的工作">
+<!ENTITY calendar.task.filter.current.accesskey     "u">
+<!ENTITY calendar.task.filter.repeating.label       "重複發生的工作">
+<!ENTITY calendar.task.filter.repeating.accesskey   "R">
 
 <!ENTITY calendar.task-details.title.label           "標題">
 <!ENTITY calendar.task-details.organizer.label       "從">

@@ -48,18 +48,9 @@
 <!ENTITY netInterrupt.title "資料傳輸中斷">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "<ul>
-  <li>再試一次。&brandShortName; 會試圖建立連線且重新載入頁面。</li>
-</ul>
-">
-
 <!ENTITY netOffline.title "離線模式">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>請於「檔案」功能表中取消選取 &quot;離線模式&quot; 後再試試。</li>
+<!ENTITY netOffline.overrideLongDesc "<ul>
+  <li>再試一次。&brandShortName; 會試圖建立連線且重新載入頁面。</li>
 </ul>
 ">
 
@@ -153,14 +144,13 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY securityOverride.getMeOutOfHereButton "帶我離開這裡！">
 <!ENTITY securityOverride.exceptionButtonLabel "新增例外網站…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>若您不想在連線到該伺服器時看到警告訊息，才需要加入該網站到例外網站清單中。但是若您直接與網際網路連線又不是完全信任該網站，您就不應該將該網站加入例外網站。</p>
+<!ENTITY securityOverride.warningContent "<p>您不應該在您不完全信任的網路連線，或是不曾看到關於此伺服器的警告的情況下增加例外。</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
