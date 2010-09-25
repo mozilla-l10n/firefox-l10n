@@ -1,0 +1,102 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Thunderbird Preferences System
+   -
+   - The Initial Developer of the Original Code is
+   - Scott MacGregor
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.calendar.advanced.generalTab.label "Основне поставке">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "Лозинке">
+<!ENTITY pref.calendar.advanced.updateTab.label "Обнављања">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Шифровање">
+
+<!-- General -->
+<!ENTITY pref.calendar.advanced.showConnections.label     "Поставке повезивања…">
+<!ENTITY pref.calendar.advanced.showConnections.accesskey "с">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Одредите како се &brandShortName; повезује на Интернет">
+<!ENTITY pref.calendar.advanced.configEdit.caption "Напредна подешавања">
+<!ENTITY pref.calendar.advanced.configEdit.button "Уредник подешавања…">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "g">
+
+<!-- Passwords -->
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; може запамтити лозинке за све ваше календаре, тако да их не морате изнова уносити.">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "Користи главну лозинку за шифрирање чуваних лозинки">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "К">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Главна лозинка штити све остале лозинке, али се мора унети једном по сесији.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Промени главну лозинку…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "з">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "Сачуване лозинке…">
+<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "ч">
+
+<!-- Update -->
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Самостално проверавај доступност унапређења за:">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Постављени додаци">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "љ">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Када је пронађено унапређење за &brandShortName;:">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Питај ме шта желим урадити">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "ш">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "Самостално прими и постави унапређење">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "п">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Упозори ме ако ће ово искључити било који додатак">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "з">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "Прикажи историјат унапређења…">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "ж">
+
+<!-- Encryption -->
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Протоколи">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Користи SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Користи TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Сертификати">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Када сервер затражи мој лични сертификат:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Пошаљи самостално">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "а">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Питај ме сваки пут">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "к">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Преглед сертификата">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "с">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Списак опозива">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "У">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Вредновање">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "т">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Безбедоносни уређаји">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "з">

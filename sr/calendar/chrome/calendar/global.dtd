@@ -1,0 +1,92 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY time.midnight "Поноћ" >
+<!ENTITY time.noon "Подне" >
+
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
+<!ENTITY day.1.Ddd "Нд" >
+<!ENTITY day.1.Ddd.accesskey "Н">
+<!ENTITY day.2.Ddd "Пн" >
+<!ENTITY day.2.Ddd.accesskey "П">
+<!ENTITY day.3.Ddd "Ут" >
+<!ENTITY day.3.Ddd.accesskey "У">
+<!ENTITY day.4.Ddd "Ср" >
+<!ENTITY day.4.Ddd.accesskey "С">
+<!ENTITY day.5.Ddd "Чт" >
+<!ENTITY day.5.Ddd.accesskey "Ч">
+<!ENTITY day.6.Ddd "Пт" >
+<!ENTITY day.6.Ddd.accesskey "т">
+<!ENTITY day.7.Ddd "Сб" >
+<!ENTITY day.7.Ddd.accesskey "С">
+
+<!ENTITY day.1.name "Недеља" >
+<!ENTITY day.2.name "Понедељак" >
+<!ENTITY day.3.name "Уторак" >
+<!ENTITY day.4.name "Среда" >
+<!ENTITY day.5.name "Четвртак" >
+<!ENTITY day.6.name "Петак" >
+<!ENTITY day.7.name "Субота" >
+
+<!-- Units -->
+<!ENTITY calendar.global.units.minute   "минут">
+<!ENTITY calendar.global.units.minutes  "минути">
+<!ENTITY calendar.global.units.hour     "час">
+<!ENTITY calendar.global.units.hours    "часова">
+<!ENTITY calendar.global.units.day      "дан">
+<!ENTITY calendar.global.units.days     "дани">
+
+<!ENTITY month.1.name "Јануар" >
+<!ENTITY month.2.name "Фебруар" >
+<!ENTITY month.3.name "Март" >
+<!ENTITY month.4.name "Април" >
+<!ENTITY month.5.name "Мај" >
+<!ENTITY month.6.name "Јун" >
+<!ENTITY month.7.name "Јул" >
+<!ENTITY month.8.name "Август" >
+<!ENTITY month.9.name "Септембар" >
+<!ENTITY month.10.name "Октобар" >
+<!ENTITY month.11.name "Новембар" >
+<!ENTITY month.12.name "Децембар" >
+
+<!ENTITY onemonthbackward.tooltip "Један месец уназад" >
+<!ENTITY onemonthforward.tooltip "Један месец унапред" >
+<!ENTITY showToday.tooltip "Иди на данашњи дан">
+<!ENTITY onedayforward.tooltip "Један дан унапред">
+<!ENTITY onedaybackward.tooltip "Један дан уназад">
+<!ENTITY showselectedday.tooltip "Прикажи догађаје за изабрани дан">
