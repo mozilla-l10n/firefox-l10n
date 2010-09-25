@@ -11,19 +11,19 @@
 <!ENTITY clearPrivateData.button "Effacer">
 <!ENTITY rememberPasswords.title "Enregistrer les mots de passe">
 
-<!ENTITY language.title "Langue">
-<!ENTITY language.auto "Détection automatique">
-<!ENTITY defaultBrowser.title "Navigateur par défaut">
-<!ENTITY defaultBrowser.description "Faire de &brandShortName; votre navigateur par défaut">
-<!ENTITY homepage.title "Page d'accueil">
-<!ENTITY homepage.none "Page vide">
-<!ENTITY homepage.default "Accueil de &brandShortName;">
-<!ENTITY homepage.currentpage "Page courante">
-<!ENTITY sync.title "Sync">
-<!ENTITY sync.username "Nom d'utilisateur">
-<!ENTITY sync.password "Mot de passe">
-<!ENTITY sync.secretPhrase "Phrase secrète">
-<!ENTITY sync.deviceName "Nom de l'appareil">
-<!ENTITY sync.connect "Se connecter">
-<!ENTITY sync.disconnect "Se déconnecter">
-<!ENTITY sync.syncNow "Synchroniser maintenant">
+<!ENTITY language.title                            "Langue">
+<!ENTITY language.auto                             "Détection automatique">
+<!ENTITY defaultBrowser.title                      "Navigateur par défaut">
+<!ENTITY defaultBrowser.description                "Faire de &brandShortName; votre navigateur par défaut">
+<!ENTITY homepage.title                            "Page d'accueil">
+<!ENTITY homepage.none                             "Page vide">
+<!ENTITY homepage.default                          "Accueil de &brandShortName;">
+<!ENTITY homepage.currentpage                      "Page courante">
+<!ENTITY sync.title                                "Sync">
+<!ENTITY sync.account                              "Nom d'utilisateur/adresse courriel">
+<!ENTITY sync.password                             "Mot de passe">
+<!ENTITY sync.syncKey                              "Clé de synchronisation">
+<!ENTITY sync.deviceName                           "Nom de l'appareil">
+<!ENTITY sync.connect                              "Se connecter">
+<!ENTITY sync.disconnect                           "Se déconnecter">
+<!ENTITY sync.syncNow                              "Synchroniser maintenant">
