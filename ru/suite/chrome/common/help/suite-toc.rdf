@@ -165,7 +165,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-html"    nc:name="Составление сообщений в формате HTML" nc:link="mail_help.xhtml#creating_html_mail_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-attach"  nc:name="Использование вложений" nc:link="mail_help.xhtml#using_attachments" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Удаление сообщений" nc:link="mail_help.xhtml#deleting_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Использование адресных книг" nc:link="mail_help.xhtml#using_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Использование адресных книг" nc:link="mailnews_addressbooks.xhtml#using_address_books" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Организация сообщений" nc:link="mailnews_organizing.xhtml#organizing_your_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-junk" nc:name="Анти-спам фильтр" nc:link="mailnews_organizing.xhtml#controlling_junk_mail" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Импорт из других почтовых программ" nc:link="mail_help.xhtml#importing_mail_from_other_programs" /> </rdf:li>
@@ -259,16 +259,16 @@
   <rdf:Description about="#mail-doc-address">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-add-about" nc:name="Об адресных книгах почтового клиента" nc:link="mail_help.xhtml#about_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-names" nc:name="Добавление записей в адресные книги" nc:link="mail_help.xhtml#adding_entries_to_your_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-book" nc:name="Создание новой адресной книги" nc:link="mail_help.xhtml#creating_a_new_address_book" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-card" nc:name="Создание новой записи в адресной книге" nc:link="mail_help.xhtml#creating_a_new_address_book_card" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-list" nc:name="Создание списка рассылки" nc:link="mail_help.xhtml#creating_a_mailing_list" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-listedit" nc:name="Изменение списка рассылки" nc:link="mail_help.xhtml#editing_a_mailing_list" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_ab_search" nc:name="Поиск в адресных книгах и службах каталогов" nc:link="mail_help.xhtml#searching_address_books_and_directories" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-import" nc:name="Импорт адресных книг" nc:link="mail_help.xhtml#importing_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-export" nc:name="Экспорт адресных книг" nc:link="mail_help.xhtml#exporting_address_books" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add-sync-LDAP-add" nc:name="Добавление и удаление каталогов LDAP" nc:link="mail_help.xhtml#adding_and_removing_ldap_directories" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-about" nc:name="Об адресных книгах почтового клиента" nc:link="mailnews_addressbooks.xhtml#about_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-names" nc:name="Добавление записей в адресные книги" nc:link="mailnews_addressbooks.xhtml#adding_entries_to_your_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-book" nc:name="Создание новой адресной книги" nc:link="mailnews_addressbooks.xhtml#creating_a_new_address_book" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-card" nc:name="Создание новой записи в адресной книге" nc:link="mailnews_addressbooks.xhtml#creating_a_new_address_book_card" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-list" nc:name="Создание списка рассылки" nc:link="mailnews_addressbooks.xhtml#creating_a_mailing_list" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-listedit" nc:name="Изменение списка рассылки" nc:link="mailnews_addressbooks.xhtml#editing_a_mailing_list" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_ab_search" nc:name="Поиск в адресных книгах и службах каталогов" nc:link="mailnews_addressbooks.xhtml#searching_address_books_and_directories" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-import" nc:name="Импорт адресных книг" nc:link="mailnews_addressbooks.xhtml#importing_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-export" nc:name="Экспорт адресных книг" nc:link="mailnews_addressbooks.xhtml#exporting_address_books" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add-sync-LDAP-add" nc:name="Добавление и удаление каталогов LDAP" nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -277,7 +277,7 @@
 <rdf:Description about="#mail-doc-add-card">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-card-properties" nc:name="Просмотр и изменение записей" nc:link="mail_help.xhtml#viewing_or_editing_card_properties" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-card-properties" nc:name="Просмотр и изменение записей" nc:link="mailnews_addressbooks.xhtml#viewing_or_editing_card_properties" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -285,7 +285,7 @@
 <rdf:Description about="#mail_ab_search">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_advanced_ab_search" nc:name="Поиск записей при помощи критериев" nc:link="mail_help.xhtml#searching_for_specific_entries" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_advanced_ab_search" nc:name="Поиск записей при помощи критериев" nc:link="mailnews_addressbooks.xhtml#searching_for_specific_entries" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -293,7 +293,7 @@
 <rdf:Description about="#mail-doc-add-sync-LDAP-add">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-ldap-properties" nc:name="Параметры сервера каталогов" nc:link="mail_help.xhtml#directory_server_settings" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-ldap-properties" nc:name="Параметры сервера каталогов" nc:link="mailnews_addressbooks.xhtml#directory_server_settings" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -386,6 +386,7 @@
         <rdf:li> <rdf:Description ID="mail-replying-news" nc:name="Участие в существующем обсуждении" nc:link="mailnews_newsgroups.xhtml#contributing_to_ongoing_discussions"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-monitoring" nc:name="Отслеживание обсуждений" nc:link="mailnews_newsgroups.xhtml#monitoring_threads"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-delete-news" nc:name="Удаление группы новостей" nc:link="mailnews_newsgroups.xhtml#removing_a_newsgroup"/> </rdf:li>
+
         <rdf:li> <rdf:Description ID="mail-add-newsserver" nc:name="Добавление учетной записи групп новостей" nc:link="mailnews_newsgroups.xhtml#adding_a_newsgroup_server"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
