@@ -16,8 +16,8 @@
 <!ENTITY  manualUpdate.desc               "Rekomendata sekureca kaj stabileca ĝisdatigo disponeblas, sed vi ne havas la sistemajn rajtojn por instali ĝin. Bonvolu kontakti vian sisteman administranton aŭ klopodu denove ekde konto kiu rajtas instali programojn en tiu ĉi komputilo.">
 <!ENTITY  manualUpdateGetMsg.label        "Vi povas ĉiam akiri la lastan version de &brandShortName; ĉe:">
 
-<!ENTITY  incompatibleCheck.title         "Kontrolado de kongrueco de kromprogramoj">
-<!ENTITY  incompatibleCheck.label         "Serĉado de novaj versioj de viaj kromprogramoj…">
+<!ENTITY  incompatibleCheck.title         "Kontrolado de kongrueco de aldonaĵoj">
+<!ENTITY  incompatibleCheck.label         "Serĉado de novaj versioj de viaj aldonaĵoj…">
 
 <!ENTITY  clickHere.label                 "Vidi plian informon pri ĉi tiu ĝisdatigo">
 
@@ -34,7 +34,7 @@ por daŭrigi la instaladon de ĉi tiu ĝisdatigo.">
 <!ENTITY  license.decline                 "Mi ne akceptas la kondiĉojn de la permesila interkonsento">
 <!ENTITY  license.decline.accesskey       "T">
 
-<!ENTITY  incompatibleList.title          "Nekongruaj kromprogramoj trovitaj">
+<!ENTITY  incompatibleList.title          "Nekongruaj aldonaĵoj trovitaj">
 
 <!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 <!ENTITY  downloading.intro               "Elŝutado de ĝisdatigo…">
