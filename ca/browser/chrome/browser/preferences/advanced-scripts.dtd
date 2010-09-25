@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Inhabilitar o reemplaçar menús contextuals">
 <!ENTITY disableContextMenus.accesskey  "I">
-<!ENTITY hideStatusBar.label            "Amagar la barra d'estat">
-<!ENTITY hideStatusBar.accesskey        "g">
-<!ENTITY changeStatusBar.label          "Canviar el text de la barra d'estat">
-<!ENTITY changeStatusBar.accesskey      "C">

@@ -64,8 +64,8 @@
 <!ENTITY personalbarCmd.label "Barra de les adreces d'interès">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elements de la barra de les adreces d'interès">
-<!ENTITY taskbarCmd.label "Barra d'estat">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Barra de complements">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Codi font de la pàgina">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -126,6 +126,7 @@
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menú">
+<!ENTITY appMenuButton.tooltip        "Obre el menú del &brandShortName;">
 <!ENTITY homeButton.label "Inici">
 
 <!ENTITY tabGroupsButton.label        "Grups de pestanyes">

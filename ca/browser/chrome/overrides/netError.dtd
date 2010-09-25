@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mode fora de línia">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Desactiveu «Treballa fora de línia», i llavors torneu-ho a provar.</li>
+  <li>Desactiveu l'element del menú «Treballa fora de línia», i llavors torneu-ho a provar.</li>
 </ul>
 ">
 
