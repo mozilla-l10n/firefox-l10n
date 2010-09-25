@@ -1,7 +1,7 @@
-<!ENTITY startDescription.label            "ਇੱਕ ਵੈਬ ਸਾਇਟ ਨੇ ਤੁਹਾਡੀ ਆਗਿਆ ਤੋਂ ਬਿਨਾਂ ਵਿੰਡੋ ਖੋਲਣ ਦੀ ਕੋਸ਼ਿਸ ਕੀਤੀ ਹੈ। &brandShortName; ਨੇ ਇਸ ਨੂੰ ਖੁਦ ਹੀ ਬੰਦ ਕਰ ਦਿੱਤਾ ਹੈ। ਜਦੋਂ &brandShortName; ਇਹਨਾਂ ਪੋਪਅੱਪ ਨੂੰ ਬੰਦ ਕਰੇਗਾ, ਹਾਲਤ ਬਾਰ ਉੱਤੇ ਤੁਸੀਂ ਆਈਕਾਨ ਵੇਖ ਸਕਦੇ ਹੋ।">
+<!ENTITY startDescriptionText.label        "ਵੈੱਬ ਸਾਇਟ ਨੇ ਤੁਹਾਡੀ ਆਗਿਆ ਤੋਂ ਬਿਨਾਂ ਪੋਪ-ਅੱਪ ਵਿੰਡੋ ਖੋਲਣ ਦੀ ਕੋਸ਼ਿਸ ਕੀਤੀ ਸੀ। &brandShortName; ਨੇ ਪੋਪਅੱਪ ਵਿੰਡੋ ਨੂੰ ਖੁਦ ਹੀ ਬੰਦ ਕਰ ਦਿੱਤਾ ਹੈ">
 
 <!ENTITY endDescription.label              "ਤੁਸੀਂ ਇਸ ਆਈਕਾਨ ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਵੇਖ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀ ਸਾਇਟਾਂ ਤੇ &brandShortName; ਨੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ ਅਤੇ ਜੇਕਰ ਠੀਕ ਤਰਾਂ ਕੰਮ ਕਰਨ ਲਈ ਲੋੜੀਦਾ ਹੋਵੇ ਤਾਂ ਤੁਸੀਂ ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ">
 
 <!ENTITY caption.label                     "ਪੋਪਅੱਪ ਬੰਦ ਕਰਨ ਬਾਰੇ">
 
-<!ENTITY done.label "ਸਮਾਪਤ">
+<!ENTITY done.label "ਮੁਕੰਮਲ">

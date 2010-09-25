@@ -49,7 +49,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "ਮੇਨੂ ਆਯੋਗ ਜਾਂ ਬਦਲੋ">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "ਹਾਲਤ ਬਾਰ ਓਹਲੇ">
-<!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "ਹਾਲਤ ਬਾਰ ਟੈਕਸਟ ਬਦਲੋ">
-<!ENTITY changeStatusBar.accesskey      "C">
