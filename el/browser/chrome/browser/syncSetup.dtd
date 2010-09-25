@@ -8,7 +8,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν;">
 <!ENTITY setup.choicePage.new.label       "Δεν έχω χρησιμοποιήσει το &syncBrand.shortName.label; ξανά">
-<!ENTITY setup.choicePage.existing.label  ""Χρησιμοποιώ ήδη το &syncBrand.shortName.label; σε άλλο υπολογιστή">
+<!ENTITY setup.choicePage.existing.label  "Χρησιμοποιώ ήδη το &syncBrand.shortName.label; σε άλλο υπολογιστή">
 
 
 <!-- New Account AND Existing Account -->
