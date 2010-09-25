@@ -154,6 +154,10 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "U">
 <!ENTITY calendar.task.filter.open.label            "Nieukończone zadania">
 <!ENTITY calendar.task.filter.open.accesskey        "k">
+<!ENTITY calendar.task.filter.current.label         "Bieżące zadania">
+<!ENTITY calendar.task.filter.current.accesskey     "B">
+<!ENTITY calendar.task.filter.repeating.label       "Powtarzające się zadania">
+<!ENTITY calendar.task.filter.repeating.accesskey   "P">
 
 <!ENTITY calendar.task-details.title.label           "Nazwa:">
 <!ENTITY calendar.task-details.organizer.label       "Od:">
