@@ -43,6 +43,8 @@
 <!ENTITY syncKeyEntry.label        "Twój klucz Sync">
 <!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncKeyGenerate.label     "Wygeneruj">
+<!ENTITY syncKeyStrength.label     "Moc klucza:">
+<!ENTITY syncKeyHelp.label         "Co oznacza moc klucza?">
 <!ENTITY syncKeyBackup.description "Klucz Sync jest potrzebny, by skorzystać z usługi &syncBrand.fullName.label; na innych urządzeniach. Prosimy o utworzenie kopii zapasowej klucza. W razie jego utraty nie będziemy w stanie pomóc ci go odzyskać.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Wydrukuj…">
