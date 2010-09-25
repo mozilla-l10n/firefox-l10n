@@ -166,8 +166,8 @@
 <!ENTITY downloads.accesskey          "E">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Kromprogramoj">
-<!ENTITY addons.accesskey             "K">
+<!ENTITY addons.label                 "Aldonaĵoj">
+<!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "Konzolo de eraroj">
 <!ENTITY errorConsoleCmd.accesskey    "E">

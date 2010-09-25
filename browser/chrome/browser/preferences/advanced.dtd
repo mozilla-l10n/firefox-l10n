@@ -55,7 +55,7 @@
 <!ENTITY autoCheck.label                 "Aŭtomate kontroli ĉu estas ĝisdatigoj por:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "M">
-<!ENTITY enableAddonsUpdate2.label       "Kromprogramoj">
+<!ENTITY enableAddonsUpdate2.label       "Aldonaĵoj">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Serĉiloj">
 <!ENTITY enableSearchUpdate.accesskey    "i">
@@ -64,7 +64,7 @@
 <!ENTITY askMe.accesskey                 "e">
 <!ENTITY modeAutomatic.label             "Aŭtomate elŝuti kaj instali la ĝisdatigon">
 <!ENTITY modeAutomatic.accesskey         "e">
-<!ENTITY modeAutoAddonWarn.label         "Averti se tio malaktivigos iun ajn el miaj kromprogramoj">
+<!ENTITY modeAutoAddonWarn.label         "Averti se tio malaktivigos iun ajn el miaj aldonaĵoj">
 <!ENTITY modeAutoAddonWarn.accesskey     "V">
 <!ENTITY updateHistory.label             "Montri la historion de ĝisdatigoj">
 <!ENTITY updateHistory.accesskey         "h">
