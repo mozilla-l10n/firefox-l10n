@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Bokmerke">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Element i bokmerkelinje">
-<!ENTITY taskbarCmd.label "Statuslinje">
-<!ENTITY taskbarCmd.accesskey "a">
+<!ENTITY addonBarCmd.label "Utvidingslinje">
+<!ENTITY addonBarCmd.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Kjeldekode">
 <!ENTITY pageSourceCmd.accesskey "K">
@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stopp lasting av denne sida">
 <!ENTITY goEndCap.tooltip             "Gå til adressa i adresselinja">
-<!ENTITY feedButton.tooltip           "Abonner på denne sida …">
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denne sida">
 
@@ -134,10 +133,14 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Meny">
+<!ENTITY appMenuButton.tooltip        "Opne &brandShortName;-menyen">
 <!ENTITY homeButton.label             "Startside">
 
 <!ENTITY tabGroupsButton.label        "Fanegrupper">
 <!ENTITY tabGroupsButton.tooltip      "Grupper fanene dine">
+
+<!ENTITY feedButton.label             "Abonner">
+<!ENTITY feedButton.tooltip           "Abonner på denne sida …">
 
 <!ENTITY bookmarksButton.label          "Bokmerke">
 <!ENTITY bookmarksButton.tooltip        "Vis bokmerka dine">
@@ -279,9 +282,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Sidestolpar">
 <!ENTITY appMenuFind.label "Finn …">
 <!ENTITY appMenuUnsorted.label "Usorterte bokmerke">
+<!ENTITY appMenuWebDeveloper.label "Nettsideutviklar">
 <!ENTITY appMenuGettingStarted.label "Kom i gang">
-
-<!ENTITY developerMenu.label "Utviklar">
+<!ENTITY appMenuSafeMode.label "Start på nytt utan utvidingar …">
+<!ENTITY appMenuSafeMode.accesskey "S">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gå til ein nettstad">

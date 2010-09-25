@@ -41,18 +41,18 @@
 <!ENTITY offlineStorage.label            "Fråkopla lager">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Bruk opptil">
-<!ENTITY useCacheBefore.accesskey        "B">
-<!ENTITY useCacheAfter.label             " MB diskplass for mellomlageret">
+<!ENTITY limitCacheSizeBefore.label      "Avgrens snøgglageret til">
+<!ENTITY limitCacheSizeBefore.accesskey  "A">
+<!ENTITY limitCacheSizeAfter.label       " MB diskplass">
 <!ENTITY clearCacheNow.label             "Tøm no">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY smartSizeCache.label            "La &brandShortName; kontrollere storleiken på snøgglageret">
-<!ENTITY smartSizeCache.accesskey        "L">
+<!ENTITY overrideSmartCacheSize.label    "Overstyr automatisk kontroll av snøgglager">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Oppdatering">
 
