@@ -2,7 +2,7 @@
 <!ENTITY aboutHome.recentTabs                   "Las pestañas de la última vez">
 <!ENTITY aboutHome.remoteTabs                   "Pestañas de las otras computadoras">
 <!ENTITY aboutHome.recommendedAddons2           "Complementos de &brandShortName;">
-<!ENTITY aboutHome.aboutMozilla                 "Acerca de Mozilla">
+<!ENTITY aboutHome.giveFeedback                 "Dar tu opinión">
 <!ENTITY aboutHome.openAllTabs                  "Abrir todos en pestañas">
 <!ENTITY aboutHome.noTabs                       "Sin pestañas de la última vez">
 <!ENTITY aboutHome.noAddons                     "Sin complementos recomendados">

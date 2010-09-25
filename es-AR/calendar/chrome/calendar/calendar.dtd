@@ -151,6 +151,10 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "C">
 <!ENTITY calendar.task.filter.open.label            "Tareas incompletas">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
+<!ENTITY calendar.task.filter.current.label         "Tareas actuales">
+<!ENTITY calendar.task.filter.current.accesskey     "u">
+<!ENTITY calendar.task.filter.repeating.label       "Tareas repetitivas">
+<!ENTITY calendar.task.filter.repeating.accesskey   "r">
 
 <!ENTITY calendar.task-details.title.label           "título">
 <!ENTITY calendar.task-details.organizer.label       "de">
