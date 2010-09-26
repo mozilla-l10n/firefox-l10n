@@ -30,13 +30,13 @@
 
 <!ENTITY firstrun.title                     "Sveiki! Čia „&brandShortName;“">
 <!ENTITY firstrun.heading2                  "Sveiki! Čia „&brandShortName;“">
-<!ENTITY firstrun.sync.title                "Parsisiųskite „Firefox Sync“">
-<!ENTITY firstrun.sync.description          "Sinchronizuokite „&brandShortName;“ naršymo žurnalą, įrašytus slaptažodžius, adresyną ir korteles su naršykle Jūsų kompiuteryje.">
-<!ENTITY firstrun.addons.title              "Parsisiųskite priedų">
-<!ENTITY firstrun.addons.description        "Parsisiųskite „&brandShortName;“ priedų ir mėgaukitės naujais potyriais">
-<!ENTITY firstrun.home.title                "Pradėkite naršymą">
-<!ENTITY firstrun.home.description          "Bakstelėkite, kad patektumėte į asmeninį pradžios tinklalapį, ir pradėkite naršyti">
-<!ENTITY firstrun.relNotes.label            "Susipažinkite su laidos apžvalga">
+<!ENTITY firstrun.sync2.title               "Sinchronizuokite">
+<!ENTITY firstrun.sync2.description         "Prisijungę prie savo „Sync“ paskyros, galėsite sinchronizuoti žurnalą, slaptažodžius, adresyną ir korteles kompiuteryje ir mobiliajame įrenginyje">
+<!ENTITY firstrun.addons2.title             "Individualizuokite">
+<!ENTITY firstrun.addons2.description       "Išsirinkdami ir įdiegdami norimus priedus, „&brandShortName;“ papildysite naujomis funkcijomis">
+<!ENTITY firstrun.home2.title               "Naršykite">
+<!ENTITY firstrun.home2.description         "Patekę į asmeninį pradžios tinklalapį, galėsite pradėti naršymą.">
+<!ENTITY firstrun.features                  "Sužinokite apie kitas programos savybės">
 <!ENTITY firstrun.faq                       "Klausimai ir atsakymai">
 <!ENTITY firstrun.privacy                   "Privatumo politika">
 <!ENTITY firstrun.follow                    "Sekite mus:">
