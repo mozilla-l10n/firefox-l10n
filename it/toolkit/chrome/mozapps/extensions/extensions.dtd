@@ -3,7 +3,7 @@
 <!ENTITY loading.label "Caricamento in corso…">
 <!ENTITY listEmpty.installed.label "Non risulta installato alcun componente aggiuntivo di questo tipo">
 <!ENTITY listEmpty.availableUpdates.label "Nessun aggiornamento disponibile">
-<!ENTITY listEmpty.recentUpdates.label "Non è stato installato alcun aggiornamento dei componenti aggiuntivi recentemente">
+<!ENTITY listEmpty.recentUpdates.label "Nessun componente aggiuntivo è stato aggiornato di recente">
 <!ENTITY listEmpty.findUpdates.label "Controlla aggiornamenti">
 <!ENTITY listEmpty.search.label "Non è stato trovato alcun componente aggiuntivo corrispondente">
 <!ENTITY listEmpty.button.label "Scopri altre informazioni sui componenti aggiuntivi">
