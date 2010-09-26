@@ -46,9 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "o">
 <!ENTITY disableContextMenus.label      "Zakázať alebo nahradiť kontextovú ponuku">
 <!ENTITY disableContextMenus.accesskey  "n">
-<!ENTITY hideStatusBar.label            "Skryť stavový riadok">
-<!ENTITY hideStatusBar.accesskey        "S">
-<!ENTITY changeStatusBar.label          "Zmeniť text v stavovom riadku">
-<!ENTITY changeStatusBar.accesskey      "Z">
-
-

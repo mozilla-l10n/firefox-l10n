@@ -70,8 +70,6 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Panel záložiek">
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Položky panela záložiek">
-<!ENTITY taskbarCmd.label "Stavový riadok">
-<!ENTITY taskbarCmd.accesskey "r">
 <!ENTITY addonBarCmd.label "Panel doplnkov">
 <!ENTITY addonBarCmd.accesskey "d">
 

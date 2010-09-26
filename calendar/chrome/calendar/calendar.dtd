@@ -151,6 +151,10 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "k">
 <!ENTITY calendar.task.filter.open.label            "Nedokončené úlohy">
 <!ENTITY calendar.task.filter.open.accesskey        "h">
+<!ENTITY calendar.task.filter.current.label         "Aktuálne úlohy">
+<!ENTITY calendar.task.filter.current.accesskey     "t">
+<!ENTITY calendar.task.filter.repeating.label       "Opakujúce sa úlohy">
+<!ENTITY calendar.task.filter.repeating.accesskey   "u">
 
 <!ENTITY calendar.task-details.title.label           "názov">
 <!ENTITY calendar.task-details.organizer.label       "od">
