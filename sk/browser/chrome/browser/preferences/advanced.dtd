@@ -51,7 +51,7 @@
 <!ENTITY limitCacheSizeAfter.label       "MB diskového priestoru">
 <!ENTITY clearCacheNow.label             "Vymazať teraz">
 <!ENTITY clearCacheNow.accesskey         "e">
-<!ENTITY overrideSmartCacheSize.label    "Použiť automatickú správu vyrovnávacej pamäte">
+<!ENTITY overrideSmartCacheSize.label    "Vlastné nastavenie vyrovnávacej pamäte">
 <!ENTITY overrideSmartCacheSize.accesskey "a">
 
 <!ENTITY updateTab.label                 "Aktualizácie">
