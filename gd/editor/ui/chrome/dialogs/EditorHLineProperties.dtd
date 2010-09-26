@@ -45,7 +45,7 @@
 <!ENTITY widthEditField.label "Leud:">
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY pixelsPopup.value "pixel">
-<!ENTITY alignmentBox.label "Taobhachadh">
+<!ENTITY alignmentBox.label "Co-thaobhachadh">
 <!ENTITY leftRadio.label "Clì">
 <!ENTITY leftRadio.accessKey "L">
 <!ENTITY centerRadio.label "Cuir sa mheadhan">

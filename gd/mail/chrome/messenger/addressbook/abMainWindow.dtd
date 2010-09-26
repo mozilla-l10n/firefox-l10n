@@ -93,7 +93,7 @@
 <!ENTITY firstLastCmd.accesskey                         "A"> 
 <!ENTITY lastFirstCmd.label                             "Sloinneadh, ainm">
 <!ENTITY lastFirstCmd.accesskey                         "l">
-<!ENTITY displayNameCmd.label                           "An t-ainm-taisbeanaidh">
+<!ENTITY displayNameCmd.label                           "Ainm-taisbeanaidh">
 <!ENTITY displayNameCmd.accesskey                       "d">
 <!ENTITY sortMenu.label                                 "Seòrsaich a-rèir">
 <!ENTITY sortMenu.accesskey                             "S">
