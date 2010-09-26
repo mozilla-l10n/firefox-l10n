@@ -56,7 +56,7 @@
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Oppdater hver">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "dager">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL vil bli importert fra:">
-<!ENTITY  crl.import.status.title                 "CRL Importstatus">
+<!ENTITY  crl.import.status.title                 "CRL importstatus">
 <!ENTITY  crl.import.success.message              "Listen over tilbakekalte sertifikater (CRL) er importert.">
 <!ENTITY  crl.issuer.label                        "CRL utstedt av:">
 <!ENTITY  crl.issuer.org.label                    "Organisasjon: ">
