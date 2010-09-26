@@ -55,7 +55,7 @@
 <!ENTITY            deleteButton.accesskey "E">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; garda información acerca da súa configuración, preferencias e outros elementos no perfil de usuario.">
+<!ENTITY            pmDescription.label    "&brandShortName; garda información sobre a súa configuración, preferencias e outros elementos no perfil de usuario.">
 
 <!ENTITY            offlineState.label    "Traballar sen conexión">
 <!ENTITY            offlineState.accesskey "T">

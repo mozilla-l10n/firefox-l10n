@@ -1,0 +1,9 @@
+<!ENTITY welcome.title                      "Benvido ao &brandShortName;">
+<!ENTITY intro.description                  "Sincronice móbil e computadora empregando o Weave Sync. Personalíceo con complementos. Navegue coa Awesome Bar e moito, moito, moito mais.">
+<!ENTITY weave.title                        "Get Up and Go">
+<!ENTITY weave.description                  "Obteña o Weave Sync para complementar o Firefox. Comparta marcadores, señas gardadas ou separadores entre o móbil e a computadora.">
+<!ENTITY weave.linkLabel                    "Obteña o complemento Weave Sync">
+<!ENTITY getPersonal.title                  "Personalíceo">
+<!ENTITY getPersonal.description            "Faga seu o &brandShortName;. Personalice o primeiro navegador que ofrece complementos para un dispositivo móbil.">
+<!ENTITY getPersonal.linkLabel              "Obteña complementos para o seu móbil">
+

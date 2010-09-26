@@ -11,11 +11,11 @@
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Bloquear">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "Permitir para esta sesión">
+<!ENTITY session.label                "Permitir nesta sesión">
 <!ENTITY session.accesskey            "s">
 <!ENTITY allow.label                  "Permitir">
 <!ENTITY allow.accesskey              "P">
-<!ENTITY windowClose.key              "W">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Pechar">
 <!ENTITY button.close.accesskey       "P">

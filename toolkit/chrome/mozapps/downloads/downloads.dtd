@@ -11,20 +11,20 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Reanudar">
+<!ENTITY cmd.resume.label                 "Retomar">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Cancelar">
 <!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.show.label                   "Abrir o cartafol correspondente">
-<!ENTITY cmd.show.accesskey               "n">
-<!ENTITY cmd.showMac.label                "Mostrar no localizador">
-<!ENTITY cmd.showMac.accesskey            "M">
+<!ENTITY cmd.show.label                   "Abrir o cartafol contedor">
+<!ENTITY cmd.show.accesskey               "f">
+<!ENTITY cmd.showMac.label                "Mostrar no Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Abrir">
 <!ENTITY cmd.open.accesskey               "A">
 <!ENTITY cmd.openWith.label               "Abrir con…">
 <!ENTITY cmd.openWith.accesskey           "o">
 <!ENTITY cmd.retry.label                  "Tentar de novo">
-<!ENTITY cmd.retry.accesskey              "T">
+<!ENTITY cmd.retry.accesskey              "r">
 <!ENTITY cmd.goToDownloadPage.label       "Ir á páxina de descargas">
 <!ENTITY cmd.goToDownloadPage.accesskey   "d">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar ligazón de descarga">
@@ -41,7 +41,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Pechar ao concluír as descargas">
+<!ENTITY closeWhenDone.label              "Pechar ao rematar as descargas">
 <!ENTITY closeWhenDone.tooltip            "Pecha a xanela de descargas cando estean descargados todos os ficheiros">
 
 <!ENTITY showFolder.label                 "Mostrar este cartafol">

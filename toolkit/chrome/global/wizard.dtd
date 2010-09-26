@@ -5,8 +5,8 @@
 <!ENTITY  button-finish-mac.label      "Feito">
 <!ENTITY  button-cancel-mac.label      "Cancelar">
 
-<!ENTITY  button-back-unix.label       "Retroceder">
-<!ENTITY  button-back-unix.accesskey   "R">
+<!ENTITY  button-back-unix.label       "Atrás">
+<!ENTITY  button-back-unix.accesskey   "t">
 <!ENTITY  button-next-unix.label       "Seguinte">
 <!ENTITY  button-next-unix.accesskey   "S">
 <!ENTITY  button-finish-unix.label     "Finalizar">

@@ -10,21 +10,23 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Axuda"> 
 <!ENTITY helpMenuWin.accesskey    "A">
-<!ENTITY aboutCmd.label           "Acerca de &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "c">
-<!ENTITY helpContents.label       "Índice da axuda">
-<!ENTITY helpContents.accesskey   "a">
-<!ENTITY helpContentsMac.label    "Axuda de &brandShortName;">
+<!ENTITY aboutProduct.label       "Sobre o &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "S">
+<!ENTITY productHelp.label        "Axuda do &brandShortName;">
+<!ENTITY productHelp.accesskey    "x">
 <!ENTITY helpForIEUsers.label     "Para usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
 
 <!ENTITY helpReleaseNotes.label         "Notas de lanzamento">
 <!ENTITY helpReleaseNotes.accesskey     "N">
+
+<!ENTITY helpTroubleshootingInfo.label      "Información para solucionar problemas">
+<!ENTITY helpTroubleshootingInfo.accesskey  "b">
+
+<!ENTITY helpFeedbackPage.label      "Enviar opinión…">
+<!ENTITY helpFeedbackPage.accesskey  "o">
+
 <!ENTITY updateCmd.label                "Buscar actualizacións…">
 
 <!ENTITY preferencesCmdMac.label        "Preferencias…">

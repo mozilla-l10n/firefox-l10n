@@ -6,4 +6,4 @@
 <!ENTITY color.label                "Cor:">
 <!ENTITY setDesktopBackground.title "Estabelecer como fondo de pantalla">
 <!ENTITY openDesktopPrefs.label     "Abrir as preferencias do escritorio">
-<!ENTITY closeWindow.key            "x">
+<!ENTITY closeWindow.key            "w">

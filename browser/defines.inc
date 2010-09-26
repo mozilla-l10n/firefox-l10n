@@ -4,6 +4,6 @@
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Iago Bragado</em:contributor> <em:contributor>Vanessa Vilaverde</em:contributor> <em:contributor>Bruno Ruival</em:contributor> <em:contributor>Óscar Senra</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Grupo de tradución ao galego dos aplicativos de Mozilla (http://galician.mozdev.org/)</em:contributor>
 
 #unfilter emptyLines

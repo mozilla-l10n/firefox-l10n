@@ -13,18 +13,17 @@
 <!ENTITY descText.label "Descrición da impresora:">
 <!ENTITY printer.label "Impresora">
 <!ENTITY printerInput.label "Nome da impresora:">
-<!ENTITY printerInput.accesskey "n">
+<!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Imprimir intervalo">
 <!ENTITY allpagesRadio.label "Todas as páxinas">
 <!ENTITY allpagesRadio.accesskey "T">
-
 <!ENTITY rangeRadio.label  "Páxinas">
 <!ENTITY rangeRadio.accesskey  "P">
 <!ENTITY frompageInput.label  "de">
 <!ENTITY frompageInput.accesskey  "d">
 <!ENTITY topageInput.label  "até">
-<!ENTITY topageInput.accesskey "a">
+<!ENTITY topageInput.accesskey  "a">
 <!ENTITY selectionRadio.label "Selección">
 <!ENTITY selectionRadio.accesskey "S">
 
@@ -34,7 +33,7 @@
 
 <!ENTITY printframeGroup.label "Imprimir marcos">
 <!ENTITY aslaidoutRadio.label "Como mostrado na pantalla">
-<!ENTITY aslaidoutRadio.accesskey "M">
+<!ENTITY aslaidoutRadio.accesskey "m">
 <!ENTITY selectedframeRadio.label  "O marco seleccionado">
 <!ENTITY selectedframeRadio.accesskey  "m">
 <!ENTITY eachframesepRadio.label  "Cada marco por separado">

@@ -2,8 +2,8 @@
 
 <!ENTITY enter.label "Introduza o enderezo da páxina web (URL) ou especifique o ficheiro local que desexa abrir:">  
 <!ENTITY chooseFile.label "Escoller ficheiro…">
-<!ENTITY newWindow.label "Nova xanela">
 <!ENTITY newTab.label "Novo separador">
+<!ENTITY newWindow.label "Nova xanela">
 <!ENTITY topTab.label "Separador actual">
 <!ENTITY caption.label "Abrir o enderezo web">
 <!ENTITY openWhere.label "Abrir en:">

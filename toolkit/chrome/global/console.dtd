@@ -41,7 +41,7 @@
 <!ENTITY errLine.label   "Liña:">
 <!ENTITY errColumn.label "Columna:">
 
-<!ENTITY all.label          "Todas">
+<!ENTITY all.label          "Todo">
 <!ENTITY all.accesskey      "T">
 <!ENTITY errors.label       "Erros">
 <!ENTITY errors.accesskey   "E">

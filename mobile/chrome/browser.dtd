@@ -2,7 +2,6 @@
 <!ENTITY forward.label         "Adiante">
 <!ENTITY reload.label          "Recargar">
 <!ENTITY stop.label            "Parar">
-<!ENTITY search.label          "Busca">
 <!ENTITY go.label              "Ir">
 <!ENTITY openLocation.label    "Abrir localización">
 <!ENTITY star.label            "Marcar">
@@ -21,10 +20,8 @@
 
 <!ENTITY bookmarksHeader.label     "Marcadores">
 <!ENTITY bookmarksManage.label     "Xestionar">
-<!ENTITY foldersHeader.label       "Cartafoles">
 
-<!ENTITY editBookmarkEdit.label    "Editar">
-<!ENTITY editBookmarkMove.label    "Mover">
+<!ENTITY editBookmarkRemove.label  "Eliminar">
 <!ENTITY editBookmarkDone.label    "Feito">
 <!ENTITY editBookmarkTags.label    "Engadir etiquetas aquí">
 
@@ -33,21 +30,20 @@
 <!ENTITY helperApp.save            "Gardar">
 <!ENTITY helperApp.nothing         "Nada">
 
-<!ENTITY findOnCmd.label     "Localizar nesta páxina…">
-<!ENTITY findOnCmd.accesskey "L">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Localizar de novo">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY formHelper.previous       "Previo">
+<!ENTITY formHelper.next           "Seguinte">
+<!ENTITY formHelper.done           "Feito">
+
 
 <!ENTITY addonsHeader.label        "Complementos">
 <!ENTITY addonsLocal.label         "Os seus complementos">
+<!ENTITY addonsUpdate.label        "Actualizar">
 <!ENTITY addonsRepo.label          "Obter complementos">
 <!ENTITY addonsRecommended.label   "Recomendados">
 <!ENTITY addonsSearch.label        "Buscar">
 <!ENTITY addonsSearch2.emptytext   "Buscar no catálogo">
 <!ENTITY addonsSearch.recommended  "Recomendados">
+
 
 <!ENTITY addonOptions.label        "Opcións">
 <!ENTITY addonEnable.label         "Activar">
@@ -58,12 +54,6 @@
 <!ENTITY addonShowPage.label       "Ir á páxina">
 
 <!ENTITY downloadsHeader.label     "Descargas">
-<!ENTITY downloadsSortDate.label   "Data">
-<!ENTITY downloadsSortSite.label   "Sitio">
-<!ENTITY downloadsSortName.label   "Nome">
-<!ENTITY downloadsSearch.label     "Buscar">
-<!ENTITY downloadsSearch2.emptytext "Buscar">
-
 <!ENTITY downloadShowPage.label    "Ir á páxina">
 <!ENTITY downloadShow2.label       "Localizar">
 <!ENTITY downloadOpen2.label       "Abrir">
@@ -71,15 +61,16 @@
 <!ENTITY downloadPause.label       "Pausar">
 <!ENTITY downloadResume.label      "Retomar">
 <!ENTITY downloadRetry.label       "Tentar de novo">
+<!ENTITY downloadRemove.label      "Eliminar">
+<!ENTITY downloadFailed.label      "Fallou">
 
 <!ENTITY noResults.label           "Sen resultados">
 <!ENTITY allBookmarks.label        "Ver todos os marcadores">
-
 <!ENTITY searchEngine.addSearch     "Engadir buscador:">
-
 <!ENTITY bookmarkPopup.label       "Páxina marcada">
 <!ENTITY bookmarkRemove.label      "Eliminar">
 <!ENTITY bookmarkEdit.label        "Editar">
+
 
 <!ENTITY identity.unverifiedsite2 "Este sitio web non fornece información de identidade.">
 <!-- Localization note (identity.runBy) : This string appears between a
@@ -116,4 +107,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY consoleErrLine.label      "Liña:">
 <!ENTITY consoleErrColumn.label    "Columna:">
 
-<!ENTITY selectListDone.label      "Feito">

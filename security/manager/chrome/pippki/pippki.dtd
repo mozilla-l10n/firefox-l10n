@@ -45,10 +45,9 @@
 <!ENTITY setPassword.meter.loading "Cargando">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Restabelecer
-">
+<!ENTITY resetPasswordButtonLabel "Restabelecer">
 <!ENTITY resetPassword.title  "Restabelecer o contrasinal principal">
-<!ENTITY resetPassword.text  "Se restabelece o contrasinal principal esqueceranse os contrasinais de web e correo electrónico, os datos dos formularios, os certificados persoais e as chaves privadas que estean almacenados.. Ten a certeza de querer restabelecelo?">
+<!ENTITY resetPassword.text  "Se restabelece o contrasinal principal esqueceranse os contrasinais de web e correo electrónico, os datos dos formularios, os certificados persoais e as chaves privadas que estean almacenados. Está seguro de que quere restabelecelo?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Introduza o contrasinal principal">
@@ -124,13 +123,13 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Petición de sinatura de texto">
 <!ENTITY formSigning.cert "Certificado de sinatura">
-<!ENTITY formSigning.confirmPassword "Para confirmar que quere asinar esta mensaxe de texto utilizando o certificado seleccionado, confírmeo introducindo o contrasinal principal:">
+<!ENTITY formSigning.confirmPassword "Para confirmar que quere asinar esta mensaxe de texto usando o certificado seleccionado, confírmeo introducindo o contrasinal principal:">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Autenticación protexida da chave electrónica">
 <!ENTITY protectedAuth.msg "Autentíquese coa chave electrónica. O método de autenticación depende do tipo da súa chave electrónica.">
 <!ENTITY protectedAuth.tokenName.label "Chave electrónica:">
 
-<!ENTITY certErrorDlg.title "Erro na conexión segura">
+<!ENTITY certErrorDlg.title "Fallou a conexión segura">
 <!ENTITY certErrorDlg.info1 "Isto pode ser un problema coa configuración do servidor ou alguén que está a tentar despersonalizalo.">
 <!ENTITY certErrorDlg.info2 "Se xa se conectou algunha vez correctamente con este servidor o erro pode ser temporal e poderá tentar de novo máis tarde.">

@@ -17,14 +17,18 @@
 <!ENTITY useAutoScroll.accesskey         "z">
 <!ENTITY useSmoothScrolling.label        "Utilizar desprazamento suave">
 <!ENTITY useSmoothScrolling.accesskey    "s">
+<!ENTITY allowHWAccel.label              "Usar a aceleración por hardware cando estea dispoñíbel">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Verificar a ortografía ao escribir">
 <!ENTITY checkSpelling.accesskey         "V">
 
 <!ENTITY systemDefaults.label            "Configuración predefinida">
 <!ENTITY alwaysCheckDefault.label        "Verificar sempre se &brandShortName; é o navegador predefinido ao comezar."><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "n">
-<!ENTITY checkNow.label                  "Verificar agora">
-<!ENTITY checkNow.accesskey              "f">
+<!ENTITY checkNow.label                  "Comprobar agora">
+<!ENTITY checkNow.accesskey              "C">
+<!ENTITY submitCrashes.label             "Enviar informes de erro">
+<!ENTITY submitCrashes.accesskey         "s">
 
 <!ENTITY networkTab.label                "Rede">
 
@@ -42,19 +46,19 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Utilizar até">
+<!ENTITY useCacheBefore.label            "Usar ata">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB de espazo na caché">
-<!ENTITY clearCacheNow.label             "Eliminar agora">
-<!ENTITY clearCacheNow.accesskey         "E">
+<!ENTITY clearCacheNow.label             "Limpar agora">
+<!ENTITY clearCacheNow.accesskey         "L">
 
 <!ENTITY updateTab.label                 "Actualizar">
 
 <!ENTITY autoCheck.label                 "Buscar automaticamente actualizacións para:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Complementos instalados">
-<!ENTITY enableAddonsUpdate.accesskey    "o">
+<!ENTITY enableAddonsUpdate2.label       "Complementos">
+<!ENTITY enableAddonsUpdate2.accesskey   "C">
 <!ENTITY enableSearchUpdate.label        "Buscadores">
 <!ENTITY enableSearchUpdate.accesskey    "B">
 <!ENTITY whenUpdatesFound.label          "Ao encontrar actualizacións para &brandShortName;:">
@@ -81,9 +85,9 @@
 <!ENTITY encryptionTab.label             "Cifrado">
 
 <!ENTITY protocols.label                 "Protocolos">
-<!ENTITY useSSL3.label                   "Utilizar SSL 3.0">
+<!ENTITY useSSL3.label                   "Usar SSL 3.0">
 <!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Utilizar TLS 1.0">
+<!ENTITY useTLS1.label                   "Usar TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certificados">
 <!ENTITY certSelection.description       "Cando un servidor solicita o meu certificado persoal:">

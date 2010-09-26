@@ -58,7 +58,7 @@
 <!ENTITY columnChooser.tooltip "Prema para seleccionar as columnas a mostrar"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "M">
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copiar">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Nome da copia">

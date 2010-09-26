@@ -13,9 +13,9 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; pode verificar se están dispoñíbeis versións
                                            compatíbeis destes complementos.">
 
-<!ENTITY  checking.wizard.title           "Buscando complementos compatíbeis.">
+<!ENTITY  checking.wizard.title           "Buscando complementos compatíbeis">
 <!ENTITY  checking.top.label              "Buscando actualizacións para os complementos incompatíbeis…">
-<!ENTITY  checking.status                 "Pode demorar uns minutos….">
+<!ENTITY  checking.status                 "Isto pode levarlle uns poucos minutos…">
 
 <!ENTITY  found.wizard.title               "Encontráronse complementos compatíbeis">
 <!ENTITY  found.top.label                 "Seleccione os complementos que desexa instalar:">
@@ -30,7 +30,7 @@
 <!ENTITY  noupdates.wizard.title          "Non se encontraron complementos compatíbeis">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; non conseguiu encontrar actualizacións para os
                                            complementos incompatíbeis.">
-<!ENTITY  noupdates.error.desc            "Houbo algúns problemas ao localizar actualizacións.">
+<!ENTITY  noupdates.error.desc            "Encontráronse algúns problemas ao tentar buscar actualizacións.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; buscará periodicamente e informarao
                                            cando localice actualizacións compatíbeis para estes complementos.">
 
@@ -46,18 +46,16 @@
                                            porque está desactivada a instalación de software para &brandShortName;.
                                            Contacte co administrador do sistema para obter axuda.">
 
-<!ENTITY  versioninfo.wizard.title        "Verificación da compatibilidade dos complementos">
-<!ENTITY  versioninfo.top.label           "Verificando a compatibilidade dos complementos con esta
+<!ENTITY  versioninfo.wizard.title        "Comprobando compatibilidade dos complementos">
+<!ENTITY  versioninfo.top.label           "Comprobando a compatibilidade dos complementos con esta
                                            versión de &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "Pode demorar uns minutos….">
+<!ENTITY  versioninfo.waiting             "Isto pode levarlle uns poucos minutos…">
 
 <!ENTITY  installerrors.wizard.title      "Problemas ao instalar as actualizacións">
 <!ENTITY  installerrors.intro.label       "&brandShortName; encontrou problemas ao actualizar
                                            algúns complementos.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Prema Concluír para continuar co inicio de &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Prema Concluído para continuar co inicio de &brandShortName;.">
+<!ENTITY  clickFinish.label               "Prema Finalizar para continuar co inicio de &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Prema Feito para continuar co inicio de &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permitir que &brandShortName; busque actualizacións.">
-<!ENTITY  details.label                   "Detalles…">
-<!ENTITY  details.accesskey               "D">

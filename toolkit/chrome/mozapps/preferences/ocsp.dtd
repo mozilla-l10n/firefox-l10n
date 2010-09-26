@@ -3,8 +3,8 @@
 <!ENTITY enableOCSP.accesskey         "U">
 <!ENTITY certOCSP2.label              "Validar un certificado se especifica un servidor OCSP">
 <!ENTITY certOCSP2.accesskey          "V">
-<!ENTITY proxyOCSP2.label             "Validar todos os certificados que utilicen o seguinte servidor OCSP:">
-<!ENTITY proxyOCSP2.accesskey         "c">
+<!ENTITY proxyOCSP2.label             "Validar todos os certificados que usen o seguinte servidor OCSP:">
+<!ENTITY proxyOCSP2.accesskey         "a">
 <!ENTITY serviceURL.label             "URL de servizo:">
 <!ENTITY serviceURL.accesskey         "s">
 <!ENTITY signingCA.label              "Asinante da resposta:">

@@ -42,8 +42,8 @@
 <!ENTITY  validation.crlnextupdate.label          "Próxima actualización">
 <!ENTITY  validation.crlautoupdateenabled.label   "Actualización automática">
 <!ENTITY  validation.crlautoupdatestatus.label    "Estado da actualización automática">
-<!ENTITY  validation.deletecrl.label              "Eliminar">
-<!ENTITY  validation.deletecrl.accesskey          "E">
+<!ENTITY  validation.deletecrl.label              "Borrar">
+<!ENTITY  validation.deletecrl.accesskey          "o">
 <!ENTITY  validation.updatecrl.label              "Actualizar">
 <!ENTITY  validation.updatecrl.accesskey          "A">
 <!ENTITY  validation.advanced.label               "Configuración">
@@ -57,7 +57,7 @@
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Día(s)">
 <!ENTITY  validation.crl.autoupdate.url.label     "A CRL impórtase de:">
 <!ENTITY  crl.import.status.title                 "Estado da importación da CRL">
-<!ENTITY  crl.import.success.message              "A lista de revogación de certificados (CRL) foi correctamente imporata.">
+<!ENTITY  crl.import.success.message              "A lista de revogación de certificados (CRL) foi correctamente importada.">
 <!ENTITY  crl.issuer.label                        "CRL emitida por:">
 <!ENTITY  crl.issuer.org.label                    "Organización: ">
 <!ENTITY  crl.issuer.orgunit.label                "Unidade: ">

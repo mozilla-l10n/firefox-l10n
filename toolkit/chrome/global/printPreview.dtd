@@ -37,8 +37,8 @@
 
 <!ENTITY print.label          "Imprimir…">
 <!ENTITY print.accesskey      "I">
-<!ENTITY pageSetup.label      "Configurar páxina…">
-<!ENTITY pageSetup.accesskey  "C">
+<!ENTITY pageSetup.label      "Configuración da páxina…">
+<!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Páxina:">
 <!ENTITY page.accesskey       "x">
 <!ENTITY of.label             "de">
@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "Primeira páxina">
 <!ENTITY endarrow.tooltip     "Última páxina">
-<!ENTITY rightarrow.tooltip   "Seguinte páxina">
-<!ENTITY leftarrow.tooltip    "Páxina anterior">
+<!ENTITY nextarrow.tooltip    "Seguinte páxina">
+<!ENTITY previousarrow.tooltip "Páxina anterior">

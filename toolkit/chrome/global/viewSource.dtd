@@ -11,9 +11,9 @@
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Gardar páxina como…">
-<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Configurar páxina…">
+<!ENTITY pageSetupCmd.label "Configuración da páxina…">
 <!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Previsualizar">
 <!ENTITY printPreviewCmd.accesskey "v">
@@ -68,8 +68,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY backCmd.label "Volver">
-<!ENTITY backCmd.accesskey "V">
+<!ENTITY backCmd.label "Atrás">
+<!ENTITY backCmd.accesskey "t">
 <!ENTITY forwardCmd.label "Seguinte">
 <!ENTITY forwardCmd.accesskey "S">
 <!ENTITY goBackCmd.commandKey "[">

@@ -87,17 +87,15 @@
 
 <!ENTITY certmgr.deletecert.title             "Eliminar certificado">
 <!ENTITY certmgr.deletecert.beforename        "Solicitou eliminar este certificado:">
-<!ENTITY certmgr.deletecert.aftername         "Ten a certeza de querer eliminar este certificado?">
+<!ENTITY certmgr.deletecert.aftername         "Está seguro de que quere borrar este certificado?">
 <!ENTITY certmgr.deleteusercert.title         "Eliminar o certificado">
 <!ENTITY certmgr.deleteusercert.beforename    "Solicitou eliminar o certificado:">
 <!ENTITY certmgr.deleteusercert.aftername     "Ao eliminar este certificado non poderá ler o correo cifrado con el.">
 
 <!ENTITY certmgr.certname                     "Nome do certificado">
 <!ENTITY certmgr.certserver                   "Servidor">
-<!ENTITY certmgr.typesofoverrides             "Excepcións">
 <!ENTITY certmgr.override_lifetime            "Duración">
 <!ENTITY certmgr.tokenname                    "Dispositivo de seguranza">
-<!ENTITY certmgr.purpose                      "Finalidades">
 <!ENTITY certmgr.issued                       "Emitido o">
 <!ENTITY certmgr.expires                      "Caduca o">
 <!ENTITY certmgr.email                        "Enderezo de correo electrónico">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "P">
 <!ENTITY certmgr.view2.label                  "Ver…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Editar…">
-<!ENTITY certmgr.edit2.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "Editar confianza…">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "Editar confianza AC">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Engadir">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Eliminar…">
 <!ENTITY certmgr.delete2.accesskey            "m">
+<!ENTITY certmgr.delete_builtin.label         "Borrar ou deixar de confiar…">
+<!ENTITY certmgr.delete_builtin.accesskey     "d">
 <!ENTITY certmgr.backup2.label                "Copia de seguranza…">
 <!ENTITY certmgr.backup2.accesskey            "C">
 <!ENTITY certmgr.backupall2.label             "Copia de seguranza de todo…">
@@ -139,7 +139,7 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
 <!ENTITY exceptionMgr.certlocation.url        "Localización:">
 <!ENTITY exceptionMgr.certlocation.download   "Obter certificado">
-<!ENTITY exceptionMgr.certlocation.accesskey  "O">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Estado do certificado">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Ver…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
