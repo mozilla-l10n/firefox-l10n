@@ -1,0 +1,158 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is KaiRo's data manager.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser <kairo@kairo.at>.
+   - Portions created by the Initial Developer are Copyright (C) 2010
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY dataman.windowTitle "Duomenų tvarkytuvė">
+
+<!ENTITY selectAll.key "a">
+
+<!ENTITY domain.search.placeholder "Ieškoti srities">
+<!ENTITY domain.search.key "f">
+
+<!ENTITY domain.tree.domain.label "Sritis">
+
+<!ENTITY domain.ctx.forgetdomain.label "Užmiršti apie šią sritį">
+<!ENTITY domain.ctx.forgetdomain.accesskey "U">
+<!ENTITY domain.ctx.forgetglobal.label "Užmiršti globalius duomenis">
+<!ENTITY domain.ctx.forgetglobal.accesskey "U">
+
+<!ENTITY data.search.key "k">
+
+<!ENTITY tab.cookies.label "Slapukai">
+<!ENTITY tab.permissions.label "Leidimai">
+<!ENTITY tab.preferences.label "Nuostatos">
+<!ENTITY tab.passwords.label "Slaptažodžiai">
+<!ENTITY tab.formdata.label "Formų duomenys">
+<!ENTITY tab.forget.label "Užmiršimas">
+
+<!-- cookies -->
+<!ENTITY cookies.description "Šioje vardų srityje esančios svetainės turi Jūsų kompiuteryje įrašiusios šiuos slapukus:">
+
+<!ENTITY cookies.tree.host.label "Svetainė">
+<!ENTITY cookies.tree.name.label "Slapuko vardas">
+<!ENTITY cookies.tree.expires.label "Galioja iki">
+
+<!ENTITY cookies.infobox.label "Pažymėto slapuko duomėnys">
+
+<!ENTITY cookies.info.name.label "Vardas:">
+<!ENTITY cookies.info.value.label "Turinys:">
+<!ENTITY cookies.info.host.label "Serveris:">
+<!ENTITY cookies.info.domain.label "Sritis:">
+<!ENTITY cookies.info.path.label "Kelias:">
+<!ENTITY cookies.info.sendtype.label "Serverio saugumas:">
+<!ENTITY cookies.info.expires.label "Galioja iki:">
+
+<!ENTITY cookies.ctx.remove.label "Pašalinti">
+<!ENTITY cookies.ctx.remove.accesskey "š">
+<!ENTITY cookies.ctx.selectAll.label "Pažymėti viską">
+<!ENTITY cookies.ctx.selectAll.accesskey "v">
+
+<!ENTITY cookies.button.remove.label "Pašalinti">
+<!ENTITY cookies.button.remove.accesskey "š">
+
+<!ENTITY cookies.blockOnRemove.label "Pašalinus slapukus, uždrausti juos įrašiusioms svetainėms įrašyti naujus slapukus">
+<!ENTITY cookies.blockOnRemove.accesskey "d">
+
+<!-- permissions -->
+<!ENTITY perm.UseDefault "Naudoti numatytąsias nuostatas">
+<!ENTITY perm.AskAlways "Visuomet klausti">
+<!ENTITY perm.NeverSave "Niekad neįrašyti">
+<!ENTITY perm.Allow "Leisti">
+<!ENTITY perm.AllowSession "Leisti šį seansą">
+<!ENTITY perm.Block "Neleisti">
+
+<!-- preferences -->
+<!ENTITY prefs.description "Turinio nuostatos įgalina „&brandShortName;“ įsiminti kai kuriuos atskirose svetainėse taikytinus parametrus (mastelį ir pan.)">
+<!ENTITY prefs.tree.host.label "Svetainė">
+<!ENTITY prefs.tree.name.label "Nuostata">
+<!ENTITY prefs.tree.value.label "Reikšmė">
+
+<!ENTITY prefs.ctx.remove.label "Pašalinti">
+<!ENTITY prefs.ctx.remove.accesskey "š">
+<!ENTITY prefs.ctx.selectAll.label "Pažymėti viską">
+<!ENTITY prefs.ctx.selectAll.accesskey "v">
+
+<!ENTITY prefs.button.remove.label "Pašalinti">
+<!ENTITY prefs.button.remove.accesskey "š">
+
+<!-- passwords -->
+<!ENTITY pwd.description "Kompiuteryje yra įrašyti šios srities svetainių šie slaptažodžiai:">
+
+<!ENTITY pwd.tree.host.label "Svetainė">
+<!ENTITY pwd.tree.username.label "Naudotojo vardas">
+<!ENTITY pwd.tree.password.label "Slaptažodis">
+
+<!ENTITY pwd.ctx.remove.label "Pašalinti">
+<!ENTITY pwd.ctx.remove.accesskey "š">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Kopijuoti slaptažodį">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "K">
+<!ENTITY pwd.ctx.selectAll.label "Pažymėti viską">
+<!ENTITY pwd.ctx.selectAll.accesskey "v">
+
+<!ENTITY pwd.button.remove.label "Pašalinti">
+<!ENTITY pwd.button.remove.accesskey "š">
+
+<!-- form data -->
+<!ENTITY fdata.search.placeholder "Ieškoti formos lauko reikšmės">
+
+<!ENTITY fdata.tree.fieldname.label "Lauko vardas">
+<!ENTITY fdata.tree.value.label "Reikšmė">
+<!ENTITY fdata.tree.usecount.label "Naudota kartų">
+<!ENTITY fdata.tree.firstused.label "Pirmąkart naudota">
+<!ENTITY fdata.tree.lastused.label "Paskutinįkart naudota">
+
+<!ENTITY fdata.ctx.remove.label "Pašalinti">
+<!ENTITY fdata.ctx.remove.accesskey "š">
+<!ENTITY fdata.ctx.selectAll.label "Pažymėti viską">
+<!ENTITY fdata.ctx.selectAll.accesskey "v">
+
+<!ENTITY fdata.button.remove.label "Pašalinti">
+<!ENTITY fdata.button.remove.accesskey "š">
+
+<!-- forget -->
+<!ENTITY forget.cookies.label "slapukus">
+<!ENTITY forget.cookies.accesskey "s">
+<!ENTITY forget.permissions.label "leidimus">
+<!ENTITY forget.permissions.accesskey "d">
+<!ENTITY forget.preferences.label "turinio nuostatas">
+<!ENTITY forget.preferences.accesskey "n">
+<!ENTITY forget.passwords.label "slaptažodžius">
+<!ENTITY forget.passwords.accesskey "o">
+<!ENTITY forget.formdata.label "formų duomenis">
+<!ENTITY forget.formdata.accesskey "m">
+
+<!ENTITY forget.button.label "Užmiršti šiuos duomenis">
+<!ENTITY forget.button.accesskey "U">
