@@ -16,9 +16,9 @@
 <!ENTITY view.discover.label                  "Get Add-ons">
 <!ENTITY view.locales.label                   "Languages">
 <!ENTITY view.searchengines.label             "Search Engines">
-<!ENTITY view.features.label                  "Extensions">
+<!ENTITY view.features.label                  "Etendoprogramoj">
 <!ENTITY view.appearance.label                "Themes">
-<!ENTITY view.plugins.label                   "Plugins">
+<!ENTITY view.plugins.label                   "Kromprogramoj">
 <!ENTITY view.recentUpdates.label             "Recent Updates">
 <!ENTITY view.availableUpdates.label          "Available Updates">
 
@@ -46,11 +46,11 @@
 <!ENTITY cmd.about.label                      "About">
 <!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAddon.label                "Enable">
-<!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "Disable">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.uninstallAddon.label             "Remove">
+<!ENTITY cmd.enableAddon.label                "Aktivigi">
+<!ENTITY cmd.enableAddon.accesskey            "A">
+<!ENTITY cmd.disableAddon.label               "Malaktivigi">
+<!ENTITY cmd.disableAddon.accesskey           "M">
+<!ENTITY cmd.uninstallAddon.label             "Malinstali">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferences.label            "Preferences">
 <!ENTITY cmd.showPreferences.tooltip          "Change this add-on's preferences">
@@ -64,11 +64,11 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
 
 <!-- detail view -->
-<!ENTITY detail.version.label                 "Version">
+<!ENTITY detail.version.label                 "Versio">
 <!ENTITY detail.updated.label                 "Updated">
 <!ENTITY detail.creator.label                 "Developer">
 <!ENTITY detail.homepage.label                "Homepage">
-<!ENTITY detail.numberOfDownloads.label       "Downloads">
+<!ENTITY detail.numberOfDownloads.label       "Elŝutoj">
 
 <!ENTITY detail.updateAutomatically.label     "Update automatically">
 <!ENTITY detail.updateAutomatically.accesskey "U">
@@ -102,7 +102,7 @@
 <!ENTITY search.filter.available.label        "Available add-ons">
 
 <!ENTITY addon.homepage                       "Homepage">
-<!ENTITY addon.details.label                  "More">
+<!ENTITY addon.details.label                  "Pli">
 <!ENTITY addon.details.tooltip                "Show more details about this add-on">
 <!ENTITY addon.unknownDate                    "Unknown">
 <!ENTITY addon.disabled.postfix               "(disabled)">
@@ -113,8 +113,8 @@
 <!ENTITY addon.undoUninstall.label            "Undo?">
 <!ENTITY addon.undoUninstall.tooltip          "Keep this add-on installed">
 <!ENTITY addon.restartNow.label               "Restart now">
-<!ENTITY addon.install.label                  "Install">
-<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.install.label                  "Instali">
+<!ENTITY addon.install.tooltip                "Instali ĉi tiun aldonaĵon">
 <!ENTITY addon.updateNow.label                "Update Now">
 <!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
 <!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
