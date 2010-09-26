@@ -150,6 +150,10 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "U">
 <!ENTITY calendar.task.filter.open.label            "Nebaigtus darbus">
 <!ENTITY calendar.task.filter.open.accesskey        "b">
+<!ENTITY calendar.task.filter.current.label         "Aktualius darbus">
+<!ENTITY calendar.task.filter.current.accesskey     "k">
+<!ENTITY calendar.task.filter.repeating.label       "Pasikartojančius darbus">
+<!ENTITY calendar.task.filter.repeating.accesskey   "P">
 
 <!ENTITY calendar.task-details.title.label           "pavadinimas">
 <!ENTITY calendar.task-details.organizer.label       "nuo">
