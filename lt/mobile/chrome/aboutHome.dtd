@@ -32,7 +32,7 @@
 <!ENTITY aboutHome.recentTabs                   "Pastarojo naršymo seanso kortelės">
 <!ENTITY aboutHome.remoteTabs                   "Kortelės, atvertos kituose kompiuteriuose">
 <!ENTITY aboutHome.recommendedAddons2           "Priedai „&brandShortName;“ naršyklei">
-<!ENTITY aboutHome.aboutMozilla                 "Apie „Mozillą“">
+<!ENTITY aboutHome.giveFeedback                 "Pateikti atsiliepimą">
 <!ENTITY aboutHome.openAllTabs                  "Atverti visas kortelėse">
 <!ENTITY aboutHome.noTabs                       "Nėra išsaugotų kortelių">
 <!ENTITY aboutHome.noAddons                     "Rekomenduojamų priedų nėra">

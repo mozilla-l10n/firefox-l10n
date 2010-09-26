@@ -48,20 +48,15 @@
 </ul>
 ">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
-<ul>
-  <li>Bandykite vėl. Naršyklė pabandys iš naujo užmegzti ryšį ir įkelti tinklalapį.</li>
-</ul>
-">
-
 <!ENTITY netInterrupt.title "Ryšys buvo nutrauktas">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Dirbama atsijungus nuo tinklo">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Bandykite vėl. „&brandShortName;“ pamėgins iš naujo užmegzti ryšį ir įkelti tinklalapį.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Kodavimo klaida">
 <!ENTITY contentEncodingError.longDesc "
@@ -168,14 +163,14 @@ bandykite prisijungti iš naujo.</li>
 <!ENTITY securityOverride.getMeOutOfHereButton "Išeiti">
 <!ENTITY securityOverride.exceptionButtonLabel "Sukurti išimtį…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>Išimties kurti neturėtumėte, jei naudojatės interneto ryšiu, kuriuo nepasitikite pilnai, arba jei anksčiau nematėte įspėjimo apie šį serverį.</p>
+<!ENTITY securityOverride.warningContent "
+<p>Išimties kurti neturėtumėte, jei naudojatės interneto ryšiu, kuriuo pilnai nepasitikite, arba jei anksčiau nematėte įspėjimo apie šį serverį.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
