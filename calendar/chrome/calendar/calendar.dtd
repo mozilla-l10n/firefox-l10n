@@ -152,6 +152,10 @@
 <!ENTITY calendar.task.filter.completed.accesskey  "b">
 <!ENTITY calendar.task.filter.open.label           "Offene Aufgaben">
 <!ENTITY calendar.task.filter.open.accesskey       "O">
+<!ENTITY calendar.task.filter.current.label        "Aktuelle Aufgaben">
+<!ENTITY calendar.task.filter.current.accesskey    "u">
+<!ENTITY calendar.task.filter.repeating.label      "Wiederkehrende Aufgaben">
+<!ENTITY calendar.task.filter.repeating.accesskey  "W">
 
 <!ENTITY calendar.task-details.title.label           "Titel">
 <!ENTITY calendar.task-details.organizer.label       "Organisator">
