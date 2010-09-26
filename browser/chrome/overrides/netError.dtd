@@ -92,11 +92,18 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Λειτουργία εργασίας χωρίς σύνδεση">
-<!ENTITY netOffline.longDesc "
+
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Αποεπιλέξτε &quot;το Εργασία χωρίς σύνδεση&quot; από το μενού Αρχείο, και προσπαθήστε ξανά.</li>
+  <li>Αποεπιλέξτε το &quot;Εργασία χωρίς σύνδεση&quot; από το μενού, και προσπαθήστε ξανά.</li>
 </ul>
 ">
+
 
 <!ENTITY netReset.title "Έγινε διακοπή της σύνδεσης με τη σελίδα">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
