@@ -55,6 +55,9 @@
 <!ENTITY tasksMenu.label                    "Priemonės">
 <!ENTITY tasksMenu.accesskey                "P"> 
 
+<!ENTITY datamanCmd.label                   "Duomenų tvarkytuvė">
+<!ENTITY datamanCmd.accesskey               "D">
+
 <!ENTITY passwordManagerCmd.label           "Slaptažodžių tvarkytuvė">
 <!ENTITY passwordManagerCmd.accesskey       "S">
 
