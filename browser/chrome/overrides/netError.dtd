@@ -49,9 +49,13 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "離線模式">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>請於「檔案」功能表中取消選取 &quot;離線模式&quot; 後再試試。</li>
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "<ul>
+ <li>取消選取選單中的「離線模式」，然後再試一次。</li>
 </ul>
 ">
 
