@@ -8,15 +8,15 @@
 
 <!ENTITY  size.label                              "Tamaño:">
 <!ENTITY  sizeProportional.accesskey              "m">
-<!ENTITY  sizeMonospace.accesskey                 "m">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "r">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "e">
+<!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "a">
+<!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monoespazado:">
 <!ENTITY  monospace.accesskey                     "M">
 
@@ -45,12 +45,13 @@
 <!ENTITY  font.langGroup.georgian                 "Xeorxiano">
 <!ENTITY  font.langGroup.gujarati                 "Guxarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.khmer                    "Camboxano">
 <!ENTITY  font.langGroup.malayalam                "Malaialam">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamaño mínimo do tipo de letra:">
 <!ENTITY minSize.accesskey                        "o">

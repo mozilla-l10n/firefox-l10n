@@ -8,7 +8,7 @@
 
 <!ENTITY     button.allow.label             "Permitir">
 <!ENTITY     button.allow.accesskey         "P">
-<!ENTITY     button.session.label           "Permitir para esta sesión">
+<!ENTITY     button.session.label           "Permitir nesta sesión">
 <!ENTITY     button.session.accesskey       "s">
 <!ENTITY     button.deny.label              "Negar">
 <!ENTITY     button.deny.accesskey          "N">

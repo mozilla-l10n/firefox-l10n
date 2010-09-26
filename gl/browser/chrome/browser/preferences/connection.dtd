@@ -1,23 +1,23 @@
+
 <!ENTITY  connectionsDialog.title       "Configuración da conexión">
-<!ENTITY  window.width                  "39em">
-<!ENTITY  window.macWidth               "41em">
-<!ENTITY  proxyTitle.label              "Configurar proxys para acceder á Internet">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "Configurar proxy para acceder á Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sen proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Utilizar a configuración proxy do sistema">
+<!ENTITY  systemTypeRadio.label         "Usar a configuración do proxy do sistema">
 <!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  WPADTypeRadio.label           "Detectar automaticamente a configuración proxy para esta rede">
-<!ENTITY  WPADTypeRadio.accesskey       "D">
-<!ENTITY  manualTypeRadio.label         "Configuración proxy manual:">
+<!ENTITY  WPADTypeRadio.label           "Detectar automaticamente a configuración do proxy para esta rede">
+<!ENTITY  WPADTypeRadio.accesskey       "y">
+<!ENTITY  manualTypeRadio.label         "Configuración manual do proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "URL da configuración proxy automática:">
+<!ENTITY  autoTypeRadio.label           "URL da configuración automática do proxy:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
 <!ENTITY  reload.label                  "Recargar">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "Proxy FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Proxy Gopher:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "Proxy HTTP:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Proxy SSL:">
@@ -32,11 +32,9 @@
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Sen proxy para:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Utilizar este proxy para todos os protocolos">
-<!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  shareproxy.label              "Usar este servidor proxy para todos os protocolos">
+<!ENTITY  shareproxy.accesskey          "s">

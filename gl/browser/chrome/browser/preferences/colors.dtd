@@ -10,7 +10,7 @@
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Fondo:">
 <!ENTITY  backgroundColor.accesskey       "F">
-<!ENTITY  useSystemColors.label           "Utilizar as cores do sistema">
+<!ENTITY  useSystemColors.label           "Usar as cores do sistema">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Subliñar as ligazóns">

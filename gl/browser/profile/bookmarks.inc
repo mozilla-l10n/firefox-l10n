@@ -7,12 +7,8 @@
 #define bookmarks_title Marcadores
 #define bookmarks_heading Marcadores
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Obter complementos de marcadores
-
-#define bookmarks_toolbarfolder Carpeta de Marcadores
-#define bookmarks_toolbarfolder_description Engadir marcadores a esta carpeta para vela na Barra de Ferramentas 
+#define bookmarks_toolbarfolder Cartafol da barra de marcadores
+#define bookmarks_toolbarfolder_description Engadir marcadores a este cartafol para velos na Barra de marcadores
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
@@ -34,14 +30,14 @@
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
-#define firefox_customize Configurar o Firefox
+#define firefox_customize Personalice Firefox
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
-#define firefox_community Colabore
+#define firefox_community Involúcrese
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about Sobre nós
 
 #unfilter emptyLines

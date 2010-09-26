@@ -48,13 +48,13 @@
 <!ENTITY resetToolbars.label          "Restabelecer as barras de ferramentas e controis">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY deleteBookmarks.label         "Eliminar todos os marcadores excepto para as copias de seguranza">
-<!ENTITY deleteBookmarks.accesskey     "E">
+<!ENTITY deleteBookmarks.label        "Borrar todos os marcadores excepto para as copias de seguranza">
+<!ENTITY deleteBookmarks.accesskey    "B">
 
 <!ENTITY resetUserPrefs.label         "Restabelecer todas as preferencias do usuario para os valores predefinidos de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
-<!ENTITY restoreSearch.label          "Restaurar os motores de busca predefinidos">
+<!ENTITY restoreSearch.label          "Restaurar os buscadores predefinidos">
 <!ENTITY restoreSearch.accesskey      "b">
 
 <!ENTITY changeAndRestartButton.label "Facer modificacións e reiniciar">

@@ -1,0 +1,17 @@
+<!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
+<!ENTITY tabs.otherComputers.label               "Os separadores doutros equipos">
+
+<!ENTITY tabs.searchText.label                   "Escriba aquí para buscar separadores…">
+
+<!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
+     Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
+<!ENTITY tabs.context.openTab.label                   "Abrir este separador">
+<!ENTITY tabs.context.openTab.accesskey               "o">
+<!ENTITY tabs.context.openMultipleTabs.label          "Abrir os separadores seleccionados">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "o">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Marcar este separador…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "M">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Marcar os separadores seleccionados…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "M">
+<!ENTITY tabs.context.refreshList.label               "Actualizar lista">
+<!ENTITY tabs.context.refreshList.accesskey           "r">

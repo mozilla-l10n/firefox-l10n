@@ -49,8 +49,8 @@
 <!ENTITY devmgr.button.login.accesskey          "E">
 <!ENTITY devmgr.button.logout.label             "Saír">
 <!ENTITY devmgr.button.logout.accesskey         "S">
-<!ENTITY devmgr.button.changepw.label           "Mudar o contrasinal">
-<!ENTITY devmgr.button.changepw.accesskey       "a">
+<!ENTITY devmgr.button.changepw.label           "Cambiar o contrasinal">
+<!ENTITY devmgr.button.changepw.accesskey       "b">
 <!ENTITY devmgr.button.load.label               "Cargar">
 <!ENTITY devmgr.button.load.accesskey           "C">
 <!ENTITY devmgr.button.unload.label             "Descargar">

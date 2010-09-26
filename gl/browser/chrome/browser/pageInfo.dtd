@@ -74,10 +74,10 @@
 <!ENTITY  mediaCount            "Contar">
 <!ENTITY  mediaDimension        "Dimensións:">
 <!ENTITY  mediaLongdesc         "Descrición longa:">
-<!ENTITY  mediaBlockImage.accesskey "D">
+<!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Gardar como…">
 <!ENTITY  mediaSaveAs.accesskey "G">
-<!ENTITY  mediaSaveAs2.accesskey "a">
+<!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Previsualización multimedia:">
 
 <!ENTITY  feedTab               "Fontes">
@@ -87,7 +87,8 @@
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Utilizar predefinido">
+<!ENTITY  permUseDefault        "Usar predefinido">
+<!ENTITY  permAskAlways         "Preguntar sempre">
 <!ENTITY  permAllow             "Permitir">
 <!ENTITY  permAllowSession      "Permitir nesta sesión">
 <!ENTITY  permBlock             "Bloquear">
@@ -96,9 +97,7 @@
 <!ENTITY  permPopup             "Abrir xanelas emerxentes">
 <!ENTITY  permCookie            "Estabelecer cookies">
 <!ENTITY  permInstall           "Instalar extensións ou temas">
-<!ENTITY  permAskAlways         "Preguntar sempre">
 <!ENTITY  permGeo               "Compartir localización">
-
 
 <!ENTITY  securityTab           "Seguranza">
 <!ENTITY  securityTab.accesskey "e">
@@ -114,12 +113,12 @@
 <!ENTITY  securityView.identity.verifier "Verificado por: ">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade e historial">
-<!ENTITY  securityView.privacy.history                  "Xa visitei hoxe este sitio web?">
-<!ENTITY  securityView.privacy.cookies                  "Almacena este sitio web información (cookies) no computador?">
+<!ENTITY  securityView.privacy.history                  "Visitei este sitio web anteriormente?">
+<!ENTITY  securityView.privacy.cookies                  "Este sitio web está almacenando información (cookies) no seu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "c">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Gardei algún contrasinal para este sitio web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver contrasinais gardados">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "g">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "V">
 
 <!ENTITY  securityView.technical.header                 "Detalles técnicos">

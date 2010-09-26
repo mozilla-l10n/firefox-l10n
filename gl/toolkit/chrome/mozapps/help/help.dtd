@@ -1,11 +1,11 @@
-<!ENTITY printCmd.commandkey            "p'">
+<!ENTITY printCmd.commandkey            "p">
 
 <!ENTITY findOnCmd.commandkey           "F">
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "Retroceder">
-<!ENTITY backButton.accesskey           "R">
+<!ENTITY backButton.label               "Atrás">
+<!ENTITY backButton.accesskey           "t">
 <!ENTITY backButton.tooltip             "Retroceder unha páxina">
 <!ENTITY forwardButton.label            "Reenviar">
 <!ENTITY forwardButton.accesskey        "e">

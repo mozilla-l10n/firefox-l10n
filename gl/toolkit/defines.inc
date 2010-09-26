@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Galician (Galiza)
+#define MOZ_LANG_TITLE Galego (España)

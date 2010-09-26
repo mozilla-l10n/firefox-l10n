@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "C">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; permítelle acceder ao seu historial, os marcadores, os contrasinais e os separadores abertos a través de todos os seus dispositivos.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Conta do &syncBrand.fullName.label;">
+<!ENTITY currentUser.label            "Usuario actual:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Actualizar">
+<!ENTITY resetPass.label              "Restabelecer">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Xestionar conta">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY changePassword.label         "Cambiar o contrasinal">
+<!ENTITY changePassphrase.label       "Cambiar a frase secreta">
+<!ENTITY resetSync.label              "Restabelecer sincronización">
+<!ENTITY differentAccount.label       "Usar unha conta diferente">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Sincronizar o navegador">
+<!ENTITY syncComputerName.label       "Nome do computador:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; poderá: ">
+<!ENTITY syncModeSwitchDesc.accesskey "p">
+<!ENTITY syncEverything.label         "Sincronizar todo">
+<!ENTITY customSync.label             "Usar a miña configuración personalizada">
+<!ENTITY syncEverythingDescription.label  "Sincronizaranse os seus marcadores, o historial, os contrasinais, as preferencias e os separadores.">
+<!ENTITY syncItem.bookmarks.label     "Sincronizar os marcadores">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sincronizar os separadores">
+<!ENTITY syncItem.tabs.accesskey      "S">
+<!ENTITY syncItem.history.label       "Sincronizar o historial">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sincronizar os contrasinais">
+<!ENTITY syncItem.passwords.accesskey "S">
+<!ENTITY syncItem.prefs.label         "Sincronizar as preferencias">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Termos do servizo">
+<!ENTITY prefs.ppLink.label         "Política de privacidade">

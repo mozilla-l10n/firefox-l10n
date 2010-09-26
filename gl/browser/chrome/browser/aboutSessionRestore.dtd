@@ -1,8 +1,9 @@
 <!ENTITY restorepage.tabtitle       "Restaurar sesión">
-<!ENTITY restorepage.errorTitle     "Vaia, isto é un pouco vergonzante">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.problemDesc      "A sesión anterior do &brandShortName; finalizou abruptamente. Vostede pode restaurar os separadores e as xanelas que estaban abertas naquel momento. En caso de que non queira restauralas, entón inicie unha nova sesión.">
+
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Vaia, sentímolo.">
+<!ENTITY restorepage.problemDesc    "A sesión anterior do &brandShortName; finalizou abruptamente. Vostede pode restaurar os separadores e as xanelas que estaban abertas naquel momento. En caso de que non queira restauralas, entón inicie unha nova sesión.">
 <!ENTITY restorepage.tryThis        "Pode probar:">
 <!ENTITY restorepage.restoreSome    "Elimine un ou máis separadores que poidan estar causando o problema">
 <!ENTITY restorepage.startNew       "Comezando unha nova sesión de navegación">

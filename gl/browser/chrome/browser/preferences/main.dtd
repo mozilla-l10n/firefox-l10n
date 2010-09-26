@@ -7,9 +7,9 @@
 <!ENTITY startupLastSession.label  "Mostrar as xanelas e os separadores da última vez">
 <!ENTITY location.label            "Páxina de inicio:">
 <!ENTITY location.accesskey        "P">
-<!ENTITY useCurrentPage.label      "Utilizar a páxina actual">
-<!ENTITY useCurrentPage.accesskey  "U">
-<!ENTITY useMultiple.label         "Utilizar as páxinas actuais">
+<!ENTITY useCurrentPage.label      "Usar a páxina actual">
+<!ENTITY useCurrentPage.accesskey  "c">
+<!ENTITY useMultiple.label         "Usar as páxinas actuais">
 <!ENTITY useBookmark.label         "Utilizar marcador">
 <!ENTITY useBookmark.accesskey     "m">
 <!ENTITY restoreDefault.label      "Restaurar os predefinidos">

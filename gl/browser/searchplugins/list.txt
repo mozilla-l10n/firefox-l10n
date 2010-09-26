@@ -1,7 +1,6 @@
-amazondotcom
-answers
+amazon-en-GB
 creativecommons
-eBay
+eBay-es
 google
-wikipedia
-yahoo
+wikipedia-gl
+yahoo-es

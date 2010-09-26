@@ -36,12 +36,12 @@
 
 <!ENTITY noMigrationSources.label       "Non se encontraron programas que conteñan marcadores, historiais ou contrasinais.">
 
-<!ENTITY importSource.title             "Importación da configuración e dos datos">
+<!ENTITY importSource.title             "Importar configuración e datos">
 <!ENTITY importItems.title              "Elementos para importar">
 <!ENTITY importItems.label              "Escolla os elementos que quere importar:">
 
 <!ENTITY migrating.title                "Importando…">
-<!ENTITY migrating.label                "Están a se importar os seguintes elementos…">
+<!ENTITY migrating.label                "Estanse a importar os seguintes elementos…">
 
 <!ENTITY selectProfile.title            "Seleccionar perfil">
 <!ENTITY selectProfile.label            "Os seguintes perfís están dispoñíbeis para seren importados desde:">

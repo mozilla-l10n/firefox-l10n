@@ -9,11 +9,11 @@ identidade, onde se utilizan páxinas fraudulentas e os correos electrónicos pa
 <!ENTITY safeb.palm.message.p2.linkText "como protexe &brandShortName;">
 <!ENTITY safeb.palm.message.p2.end "da suplantación de identidade.">
 
-<!ENTITY safeb.palm.accept.label "Saír de aquí">
+<!ENTITY safeb.palm.accept.label "Sáqueme de aquí!">
 <!ENTITY safeb.palm.accept.statustext "Navegar á páxina de inicio">
 <!ENTITY safeb.palm.decline.label "Ignorar este aviso">
 <!ENTITY safeb.palm.decline.statustext "Pechar aviso" >
-<!ENTITY safeb.palm.notforgery.label2 "Non é unha falisificación web…">
+<!ENTITY safeb.palm.notforgery.label2 "Non é unha falsificación…">
 <!ENTITY safeb.palm.reportPage.label "Por que se bloqueou este sitio?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Sitio considerado de ataque">
@@ -25,7 +25,7 @@ preferencias de seguranza actuais.">
 instalar 
 programas que rouban información privada, que utilizan o computador para atacar a terceiros ou que danan o sistema.</p><p>Algúns deles distribúen de forma intencionada software pernicioso, mais moitos comproméntense sen o permiso ou coñecemento dos/as propietarios/as.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Sitio considerado como falsificación web">
+<!ENTITY safeb.blocked.phishingPage.title "Web denunciada como falsificación!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "O sitio web en  <span id='phishing_sitename'/> consta como falsificación web e foi bloqueado segundo as preferencias de seguranza actuais.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>As falsificacións web están deseñadas para facerse pasar por sitios de confianza 

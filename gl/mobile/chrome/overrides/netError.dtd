@@ -51,6 +51,15 @@
 <!ENTITY netInterrupt.title "Interrompeuse a conexión">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
+<ul>
+  <li>Ténteo de novo. &brandShortName; intentara abrir a conexión e recargar a páxina.</li>
+</ul>
+">
+
 <!ENTITY netOffline.title "Modo sen conexión">
 <!ENTITY netOffline.longDesc "
 <ul>

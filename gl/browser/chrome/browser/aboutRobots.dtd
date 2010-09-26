@@ -6,11 +6,11 @@
      but well-known robots in movies and books. Be creative with translations! -->
 
 <!-- Nonsense line from the movie "The Day The Earth Stood Still". No translation needed. -->
-<!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!">
+<!ENTITY robots.pagetitle  "Benvidos, humanos!">
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
-<!ENTITY robots.errorTitleText "Benvidos humanos">
+<!ENTITY robots.errorTitleText "Benvidos humanos!">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
-<!ENTITY robots.errorShortDescText "Viñemos en paz e traemos boa vontade">
+<!ENTITY robots.errorShortDescText "Vimos a visitarvos en son de paz e con boa vontade!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
 <!ENTITY robots.errorLongDesc1 "Os robots nin poden mancar os seres humanos nin ficar quietos se ven que corren perigo.">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->

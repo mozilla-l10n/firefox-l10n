@@ -1,4 +1,4 @@
-<!ENTITY loadError.label "Erro ao cargar a páxina">
+<!ENTITY loadError.label "Produciuse un erro ao cargar a páxina">
 <!ENTITY retry.label "Tentar de novo">
 
 <!-- Specific error messages -->
@@ -14,19 +14,19 @@ consegue navegar por outros sitios? Verifique a conexión de rede do computador.
 exploración web (por exemplo, <q>mozilla.org:80</q> para o porto 80 
 de mozilla.org) O explorador cancelou o seu pedido para súa protección e seguranza.</p>">
 
-<!ENTITY dnsNotFound.title "Enderezo non encontrado">
+<!ENTITY dnsNotFound.title "Non se encontrou o enderezo">
 <!ENTITY dnsNotFound.longDesc "<p>O navegador non conseguiu localizar o servidor do enderezo fornecido.</p><ul><li>Introduciu correctamente o dominio? (i.e. <q><strong>ww</strong>.mozilla.org</q> en vez de <q><strong>www</strong>.mozilla.org</q>)</li><li>Ten a certeza de existir este nome de dominio? O seu rexistro pode ter caducado.</li><li>Non consegue navegar por outros sitios? Verifique a conexión de rede e a configuración do servidor DNS.</li><li>Están o computador ou a rede protexidos por un firewall ou por proxy? Unha configuración incorrecta pode interferir na exploración web.</li></ul>">
 
-<!ENTITY fileNotFound.title "Ficheiro non encontrado">
+<!ENTITY fileNotFound.title "Non se encontrou o ficheiro">
 <!ENTITY fileNotFound.longDesc "<ul><li>É posíbel que o elemento fose renomeado, eliminado ou movido?</li><li>Hai algún erro ortográfico, de maiúsculas ou tipográfico no enderezo?</li><li>Ten os permisos necesarios para acceder ao elemento solicitado?</li></ul>">
 
-<!ENTITY generic.title "Non é posíbel concluír a solicitude">
+<!ENTITY generic.title "Non é posíbel rematar a solicitude">
 <!ENTITY generic.longDesc "<p>Non hai información adicional dispoñíbel neste momento acerca deste problema ou erro.</p>">
 
-<!ENTITY malformedURI.title "Enderezo non válido">
+<!ENTITY malformedURI.title "Enderezo incorrecto">
 <!ENTITY malformedURI.longDesc "<p>Non se recoñece o formato do enderezo fornecido. Busque erros na barra de localización e tente de novo.</p>">
 
-<!ENTITY netInterrupt.title "Transferencia de datos interrompida.">
+<!ENTITY netInterrupt.title "Interrompeuse a transferencia de datos">
 <!ENTITY netInterrupt.longDesc "<p>O navegador conectouse con éxito, mais a conexión interrompeuse durante a tranferencia de información. Tente de novo.</p><ul><li>Non consegue navegar por outros sitios? Verifique a conexión de rede do computador.</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sen conexión">
@@ -36,13 +36,9 @@ de mozilla.org) O explorador cancelou o seu pedido para súa protección e segur
 <!ENTITY contentEncodingError.longDesc "<p>Non é posíbel mostrar a páxina a que está a tentar acceder porque utiliza un formulario de compresión non compatíbel.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de ficheiro inseguro">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Contacte cos propietarios do sitio web para informalos deste problema.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
-<!ENTITY netReset.title "Conexión interrompida">
+<!ENTITY netReset.title "Interrompeuse a conexión">
 <!ENTITY netReset.longDesc "<p>Interrompeuse a ligazón de rede durante a negociación da conexión. Tente de novo.</p>">
 
 <!ENTITY netTimeout.title "Tempo de espera da rede">
@@ -54,11 +50,11 @@ de mozilla.org) O explorador cancelou o seu pedido para súa protección e segur
 <!ENTITY proxyConnectFailure.title "O servidor proxy rexeitou a conexión">
 <!ENTITY proxyConnectFailure.longDesc "<p>O navegador está configurado para utilizar un servidor proxy mais o proxy rexeitou unha conexión.</p><ul><li>É correcta a configuración proxy do navegador? Verifique a configuración e tente de novo.</li><li>Permite o servizo proxy conexións con esta rede?</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "Non se encontrou o proxy">
+<!ENTITY proxyResolveFailure.title "Non se encontrou o servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<p>O navegador está configurado para utilizar un servidor proxy mais non foi posíbel 
 encontralo.</p><ul><li>É correcta a configuración proxy do navegador? Verifique a configuración e tente de novo.</li><li>O computador está conectado a unha rede activa?</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
 
-<!ENTITY redirectLoop.title "Redireccionar lazo">
+<!ENTITY redirectLoop.title "Bucle de redirección">
 <!ENTITY redirectLoop.longDesc "<p>O navegador deixou de tentar recuperar o elemento solicitado. O sitio está a redireccionar 
 o pedido dunha forma que nunca concluirá.</p><ul><li>Desactivou ou bloqueou cookies necesarias para este 
 sitio?</li><li><em>NOTA</em>: Se aceptando as cookies do sitio non soluciona o problema, é probábel que se deba a un 
@@ -67,10 +63,10 @@ erro da configuración do servidor e non do computador.</li></ul>">
 <!ENTITY unknownSocketType.title "Resposta incorrecta">
 <!ENTITY unknownSocketType.longDesc "<p>O sitio respondeu de maneira inesperada á solicitude da rede e o navegador non pode continuar.</p>">
 
-<!ENTITY nssFailure2.title "Erro de conexión segura">
+<!ENTITY nssFailure2.title "Fallou a conexión segura">
 <!ENTITY nssFailure2.longDesc "<p>Non é posíbel mostrar a páxina a que está a tentar acceder porque non foi posíbel verificar a autenticidade dos datos recibidos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
-<!ENTITY nssBadCert.title "Erro de conexión segura">
+<!ENTITY nssBadCert.title "Fallou a conexión segura">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Pode ser debido a un problema da configuración do servidor ou pode ser que alguén estea a tentar facerse pasar polo 
 servidor.</li>
@@ -78,20 +74,14 @@ servidor.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Sitio considerado de ataque">
-<!ENTITY malwareBlocked.longDesc "<p>Os sitios de ataque tentan instalar 
-programas para roubar información privada, utilizar o seu computador para atacar outros ou danar o seu sistema.</p>
-<p>Os propietarios de sitios web que crean que foron identificados por 
-erro como sitio de ataque poden <a 
-href='http://www.stopbadware.org/home/reviewinfo' >solicitar unha revisión</a>.</p>">
+<!ENTITY malwareBlocked.title "Sitio sospeitoso de ser atacante!">
+<!ENTITY malwareBlocked.longDesc "<p>Os sitios atacantes tentan instalar  programas para roubarlle información privada, utilizar o seu computador para atacar a outros ou danar o seu sistema.</p> <p>Os propietarios de sitios web que crean que foron identificados por erro como sitio atacante poden <a  href='http://www.stopbadware.org/home/reviewinfo' >solicitar unha revisión</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Sitio considerado como falsificación web">
-<!ENTITY phishingBlocked.longDesc "
-<p>A introdución de información persoal nesta páxina pode resultar en usurpación de 
-identidade ou outro tipo de acción fraudulenta.</p>
-<p>Este tipo de falsificación web utilízase nos casos coñecidos como phishing, nos cales 
-se utilizan correos electrónicos e páxinas web fraudulentas para imitar fontes en que o 
-usuario eventualmente confía.</p>">
+<!ENTITY phishingBlocked.title "Web sospeitosa de ser unha falsificación!">
+<!ENTITY phishingBlocked.longDesc " <p>Se introduce información persoal nesta páxina pode resultar na usurpación da súa identidade ou outro tipo de acción fraudulenta.</p> <p>Este tipo de falsificación web utilízase nos casos coñecidos como phishing, nos cales utilízanse correos electrónicos e páxinas web fraudulentas para imitar fontes nas que o usuario pode confiar.</p> ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado pola política de seguranza de contidos">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegador impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
