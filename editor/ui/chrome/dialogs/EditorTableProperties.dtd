@@ -58,7 +58,7 @@
 <!ENTITY tablePadding.accessKey           "P">
 <!ENTITY tablePxBetwCells.label           "pixel eadar na ceallan">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixel eadar iomall na cealla 's an t-susbaint">
-<!ENTITY tableAlignment.label             "Taobhachadh a' chlàir:">
+<!ENTITY tableAlignment.label             "Co-thaobhachadh a' chlàir:">
 <!ENTITY tableAlignment.accessKey         "T">
 <!ENTITY tableCaption.label               "Ceann-sgrìobhadh:">
 <!ENTITY tableCaption.accessKey           "N">
@@ -78,7 +78,7 @@
 <!ENTITY cellSelectPrevious.label         "Air ais">
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY applyBeforeChange.label          "Theid na h-atharrachaidhean làithreach a chur an sas mus dèid an taghadh atharrachadh.">
-<!ENTITY cellContentAlignment.label       "Taobhachadh na susbainte">
+<!ENTITY cellContentAlignment.label       "Co-thaobhachadh na susbainte">
 <!ENTITY cellHorizontal.label             "Còmhnard:">
 <!ENTITY cellHorizontal.accessKey         "Z">
 <!ENTITY cellVertical.label               "Dìreach:">

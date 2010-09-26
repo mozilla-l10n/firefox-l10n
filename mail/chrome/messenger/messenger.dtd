@@ -29,8 +29,8 @@
 <!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Faigh teachdaireachdan ùra">
 <!ENTITY getNewMsgForCmd.accesskey "F">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "A h-uile cunntas">
-<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "De gach cunntais">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "A' chunntais làithrich">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "c">
 <!ENTITY getNextNMsgCmd.label "Faigh 500 teachdaireachd naidheachd eile">
@@ -44,7 +44,7 @@
 <!ENTITY renameFolder.label "Cuir ainm ùr air pasgan…">
 <!ENTITY renameFolder.accesskey "r">
 <!ENTITY renameFolder.key "VK_F2">
-<!ENTITY compactFolders.label "Dùmhlaich pasgain">
+<!ENTITY compactFolders.label "Dùmhlaich na pasgain">
 <!ENTITY compactFolders.accesskey    "D">
 <!ENTITY emptyTrashCmd.label "Falamhaich an sgudal">
 <!ENTITY emptyTrashCmd.accesskey    "F">

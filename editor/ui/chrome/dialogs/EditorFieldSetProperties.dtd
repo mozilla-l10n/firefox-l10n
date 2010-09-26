@@ -41,7 +41,7 @@
 
 <!ENTITY EditLegendText.label "Deasaich am mìneachadh:">
 <!ENTITY EditLegendText.accesskey "D">
-<!ENTITY LegendAlign.label "Taobhaich am mìneachadh:">
+<!ENTITY LegendAlign.label "Co-thaobhaich am mìneachadh:">
 <!ENTITY LegendAlign.accesskey "a">
 <!ENTITY AlignDefault.label "Bunaiteach">
 <!ENTITY AlignLeft.label "Clì">

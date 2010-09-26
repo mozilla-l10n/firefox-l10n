@@ -305,17 +305,17 @@
 <!ENTITY advancedPropertiesCmd.accesskey "R">
 
 <!-- Align menu items -->
-<!ENTITY alignMenu.label "Taobhaich">
+<!ENTITY alignMenu.label "Co-thaobhaich">
 <!ENTITY alignMenu.accesskey "a">
 <!ENTITY alignLeft.label "Clì">
 <!ENTITY alignLeft.accesskey "l">
-<!ENTITY alignLeft.tooltip "Taobhaich ris an làimh chlì">
+<!ENTITY alignLeft.tooltip "Co-thaobhaich ris an làimh chlì">
 <!ENTITY alignCenter.label "Cuir sa mheadhan">
 <!ENTITY alignCenter.accesskey "C">
-<!ENTITY alignCenter.tooltip "Taobhaich sa mheadhan">
+<!ENTITY alignCenter.tooltip "Co-thaobhaich sa mheadhan">
 <!ENTITY alignRight.label "Deis">
 <!ENTITY alignRight.accesskey "D">
-<!ENTITY alignRight.tooltip "Taobhaich ris an làimh dheis">
+<!ENTITY alignRight.tooltip "Co-thaobhaich ris an làimh dheis">
 <!ENTITY alignJustify.label "Blocaich">
 <!ENTITY alignJustify.accesskey "B">
 <!ENTITY alignJustify.tooltip "Co-thaobhaich ann am bloc">
@@ -445,12 +445,12 @@
 <!ENTITY numberListToolbarCmd.tooltip "Cleachd no thoir air falbh liosta àireamhaichte">
 <!ENTITY outdentToolbarCmd.tooltip "Eagaich a-mach teacsa (gluais gun chlì)">
 <!ENTITY indentToolbarCmd.tooltip "Eagaich a-steach teacsa (gluais gun deis)">
-<!ENTITY AlignPopupButton.tooltip "Tagh taobhachadh teacsa">
+<!ENTITY AlignPopupButton.tooltip "Tagh co-thaobhachadh an teacsa">
 <!ENTITY InsertPopupButton.tooltip "Cuir a-steach ceangal, acair, dealbh, loidhne chòmhnard no clàr">
-<!ENTITY alignLeftButton.tooltip "Taobhaich an teacsa a-rèir an oire chlì">
-<!ENTITY alignCenterButton.tooltip "Taobhaich an teacsa sa mheadhan">
-<!ENTITY alignRightButton.tooltip "Taobhaich an teacsa a-rèir an oire deis">
-<!ENTITY alignjustifyButton.tooltip "Taobhaich an teacsa a-rèir nan oirean deis is clì">
+<!ENTITY alignLeftButton.tooltip "Co-thaobhaich an teacsa a-rèir na h-oire chlì">
+<!ENTITY alignCenterButton.tooltip "Co-thaobhaich an teacsa sa mheadhan">
+<!ENTITY alignRightButton.tooltip "Co-thaobhaich an teacsa a-rèir na h-oire dheis">
+<!ENTITY alignjustifyButton.tooltip "Co-thaobhaich an teacsa a-rèir nan oirean deis is clì">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Àbhaisteach">

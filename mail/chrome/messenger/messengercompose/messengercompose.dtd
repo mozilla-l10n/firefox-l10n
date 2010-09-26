@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Sgrìobh: (gun chuspair)">
+<!ENTITY msgComposeWindow.title "A' sgrìobhadh: (gun chuspair)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Faidhle"> 
