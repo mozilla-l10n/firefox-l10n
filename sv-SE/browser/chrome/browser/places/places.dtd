@@ -83,7 +83,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
 
 <!ENTITY col.name.label          "Namn">
-<!ENTITY col.tags.label          "Taggar">
+<!ENTITY col.tags.label          "Etiketter">
 <!ENTITY col.url.label           "Adress">
 <!ENTITY col.lastvisit.label     "Besökt">
 <!ENTITY col.visitcount.label    "Antal besök">
