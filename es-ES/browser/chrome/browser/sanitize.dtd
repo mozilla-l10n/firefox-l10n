@@ -35,7 +35,7 @@
 <!ENTITY itemActiveLogins.label "Sesiones activas">
 <!ENTITY itemActiveLogins.accesskey "S">
 <!ENTITY itemSitePreferences.label "Preferencias del sitio">
-<!ENTITY itemSitePreferences.accesskey "S">
+<!ENTITY itemSitePreferences.accesskey "r">
 <!ENTITY sanitizeEverythingUndoWarning "Esta acción no puede ser deshecha.">
 <!ENTITY dialog.width "28em">
 <!ENTITY column.width "14em">
