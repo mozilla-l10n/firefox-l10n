@@ -52,9 +52,14 @@
 <!ENTITY netInterrupt.longDesc                 "&sharedLongDesc;">
 
 <!ENTITY netOffline.title                      "Võrguta režiim">
-<!ENTITY netOffline.longDesc                   "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc           "
 <ul>
-  <li>Lülita &quot;Tööta võrguta&quot; Fail menüüst välja, ning proovi siis uuesti.</li>
+  <li>Lülita &quot;Tööta võrguta&quot; menüüst välja, ning proovi siis uuesti.</li>
 </ul>
 ">
 
@@ -169,10 +174,10 @@ ja sa võid hiljem uuesti proovida.</li>
 <!ENTITY securityOverride.getMeOutOfHereButton "Aita mind siit välja!">
 <!ENTITY securityOverride.exceptionButtonLabel "Lisa erand...">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent       "
 <p>Erandit ei tohiks lisada, kui sa kasutad internetiühendust, mida sa täielikult ei usalda, või kui sa pole harjunud nägema hoiatusi sellelt serverilt.</p>

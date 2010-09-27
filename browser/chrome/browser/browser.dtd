@@ -69,8 +69,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label                    "Järjehoidjariba">
 <!ENTITY personalbarCmd.accesskey                "J">
 <!ENTITY bookmarksToolbarItem.label              "Järjehoidjariba elemendid">
-<!ENTITY taskbarCmd.label                        "Olekuriba">
-<!ENTITY taskbarCmd.accesskey                    "O">
+<!ENTITY addonBarCmd.label                       "Lisade riba">
+<!ENTITY addonBarCmd.accesskey                   "L">
 
 <!ENTITY pageSourceCmd.label                     "Veebilehe lähtekood">
 <!ENTITY pageSourceCmd.accesskey                 "l">
@@ -121,7 +121,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey                   ".">
 <!ENTITY stopButton.tooltip                      "Peata selle lehe laadimine">
 <!ENTITY goEndCap.tooltip                        "Mine aadressiribal olevale aadressile">
-<!ENTITY feedButton.tooltip                      "Telli selle lehe uudisvoog…">
 <!ENTITY printButton.label                       "Prindi">
 <!ENTITY printButton.tooltip                     "Prindi see leht">
 
@@ -132,11 +131,15 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title                     "Järjehoidjad">
 
 <!-- Toolbar items -->
-<!ENTITY appMenuButton.label                     "Menüü"> 
+<!ENTITY appMenuButton.label                     "Menüü">
+<!ENTITY appMenuButton.tooltip                   "Ava &brandShortName;i menüü">
 <!ENTITY homeButton.label                        "Kodu">
 
 <!ENTITY tabGroupsButton.label                   "Kaardigrupid">
 <!ENTITY tabGroupsButton.tooltip                 "Grupeeri oma kaardid">
+
+<!ENTITY feedButton.label                        "Telli">
+<!ENTITY feedButton.tooltip                      "Telli selle lehe uudisvoog…">
 
 <!ENTITY bookmarksButton.label                   "Järjehoidjad">
 <!ENTITY bookmarksButton.tooltip                 "Vaata oma järjehoidjaid">
@@ -280,9 +283,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label                   "Külgribad">
 <!ENTITY appMenuFind.label                       "Leia…">
 <!ENTITY appMenuUnsorted.label                   "Sorteerimata järjehoidjad">
+<!ENTITY appMenuWebDeveloper.label               "Veebiarendajale">
 <!ENTITY appMenuGettingStarted.label             "Alustamisjuhend">
-
-<!ENTITY developerMenu.label                     "Arendajale">
+<!ENTITY appMenuSafeMode.label                   "Taaskäivita koos lisade keelamisega…">
+<!ENTITY appMenuSafeMode.accesskey               "T">
 
 <!ENTITY openCmd.commandkey                      "l">
 <!ENTITY urlbar.placeholder                      "Mine veebilehele">

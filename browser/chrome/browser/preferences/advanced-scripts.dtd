@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey   "k">
 <!ENTITY disableContextMenus.label     "keelata või asendada kontekstimenüüsid">
 <!ENTITY disableContextMenus.accesskey "e">
-<!ENTITY hideStatusBar.label           "varjata olekuriba">
-<!ENTITY hideStatusBar.accesskey       "v">
-<!ENTITY changeStatusBar.label         "muuta olekuriba teksti">
-<!ENTITY changeStatusBar.accesskey     "m">
