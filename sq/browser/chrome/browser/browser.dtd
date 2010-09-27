@@ -37,8 +37,9 @@
 <!ENTITY personalbarCmd.label "Panel Faqerojtësish">
 <!ENTITY personalbarCmd.accesskey "F">
 <!ENTITY bookmarksToolbarItem.label "Objekte Paneli Faqerojtësish">
-<!ENTITY taskbarCmd.label "Shtyllë Gjendjeje">
-<!ENTITY taskbarCmd.accesskey "G">
+
+<!ENTITY addonBarCmd.label "Shtyllë Shtesash">
+<!ENTITY addonBarCmd.accesskey "S">
 
 <!ENTITY pageSourceCmd.label "Burim Faqeje">
 <!ENTITY pageSourceCmd.accesskey "B">
@@ -90,6 +91,10 @@
 <!ENTITY  homeButton.label            "Hyrje">
 <!ENTITY tabGroupsButton.label        "Grupe Skedash">
 <!ENTITY tabGroupsButton.tooltip      "Gruponi skedat tuaja">
+
+<!ENTITY feedButton.label             "Pajtohuni">
+<!ENTITY feedButton.tooltip           "Pajtohuni te kjo faqe…">
+
 
 <!ENTITY bookmarksButton.label          "Faqerojtësa">
 <!ENTITY bookmarksButton.tooltip        "Shfaqni faqerojtësit tuaj">
@@ -178,8 +183,6 @@
 <!ENTITY historyMenu.accesskey "H">
 <!ENTITY historyUndoMenu.label "Skeda të Mbyllyra së Fundmi">
 <!ENTITY historyHomeCmd.label "Hyrje">
-
-<!ENTITY developerMenu.label "Zhvillues">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Shko te një Site Web">
@@ -434,12 +437,6 @@
 <!ENTITY videoFullScreen.label       "Sa Krejt Ekrani">
 <!ENTITY videoFullScreen.accesskey   "K">
 
-
-<!ENTITY appMenuCustomize.label "Përshtateni">
-<!ENTITY appMenuToolbarLayout.label "Skemë Paneli…">
-<!ENTITY appMenuSidebars.label "Anështylla">
-
-
 <!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
 <!ENTITY  bookmarkAllTabs.accesskey          "K">
 
@@ -501,9 +498,16 @@
 <!ENTITY  moveToGroup.accesskey              "K">
 <!ENTITY  moveToNewGroup.label               "Grup i Ri">
 
-<!ENTITY appMenuFind.label "Gjej…">
-<!ENTITY appMenuGettingStarted.label "Si Tapos;ia Fillohet">
+<!ENTITY appMenuEdit.label "Përpunojeni">
+<!ENTITY appMenuCustomize.label "Përshtateni">
+<!ENTITY appMenuToolbarLayout.label "Skemë Paneli…">
+<!ENTITY appMenuSidebars.label "Anështylla">
+<!ENTITY appMenuFind.label "Gjeni…">
 <!ENTITY appMenuUnsorted.label "Faqerojtës të Parenditur">
+<!ENTITY appMenuWebDeveloper.label "Zhvillues Web">
+<!ENTITY appMenuGettingStarted.label "Si Tapos;ia Fillohet">
+<!ENTITY appMenuSafeMode.label "Rinise me Shtesa të Çaktivizuara…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
@@ -512,7 +516,7 @@
 <!ENTITY inspectObjectButton.label       "Objekt">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
-<!ENTITY appMenuEdit.label "Përpunojeni">
+
 <!ENTITY historyRestoreLastSession.label "Rikthe Sesionin e Mëparshëm">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
