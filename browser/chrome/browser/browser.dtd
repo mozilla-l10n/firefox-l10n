@@ -568,7 +568,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addons.commandkey            "A">
 <!ENTITY showAllBookmarks.label "Προβολή όλων των σελιδοδεικτών…">
 
-<!ENTITY  pinAppTab.label                    "Ορισμός ως πρώτη καρτέλα">
+<!ENTITY  pinAppTab.label                    "Ορισμός ως πρωτεύουσα καρτέλα">
 <!ENTITY  pinAppTab.accesskey                "π">
 <!ENTITY  unpinAppTab.label                  "Ορισμός ως κανονική καρτέλα">
 <!ENTITY  unpinAppTab.accesskey              "κ">

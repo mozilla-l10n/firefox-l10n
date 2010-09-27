@@ -59,8 +59,8 @@
 <!ENTITY productHelp.accesskey    "Β">
 
 
-<!ENTITY helpSafeMode.label       "Επανεκκίνηση χωρίς ενεργά πρόσθετα…">
-<!ENTITY helpSafeMode.accesskey   "μ">
+<!ENTITY helpSafeMode.label       "Επανεκκίνηση σε ασφαλή λειτουργία…">
+<!ENTITY helpSafeMode.accesskey   "φ">
 
 
 

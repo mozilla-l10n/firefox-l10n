@@ -33,8 +33,7 @@
 
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Ενημέρωση προσθέτων τώρα">
-<!ENTITY updates.updateAddonsNow.accesskey    "η">
+
 
 <!ENTITY updates.updating.label               "Γίνεται ενημέρωση προσθέτων">
 <!ENTITY updates.installed.label              "Τα πρόσθετα σας ενημερώθηκαν.">
@@ -42,8 +41,7 @@
 <!ENTITY updates.restart.label                "Επανεκκίνηση για να ολοκληρωθεί η εγκατάσταση">
 <!ENTITY updates.noneFound.label              "Δεν βρέθηκαν ενημερώσεις">
 
-<!ENTITY updates.backgroudUpdateCheck.label   "Αυτόματος έλεγχος για ενημερώσεις">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "χ">
+
 <!ENTITY updates.manualUpdatesFound.label     "Εμφάνιση διαθέσιμων ενημερώσεων">
 <!ENTITY updates.viewUpdates.label            "Εμφάνιση πρόσφατων ενημερώσεων">
 <!ENTITY updates.viewUpdates.accesskey        "φ">
@@ -131,8 +129,6 @@
 <!ENTITY addon.details.label                  "Περισσότερα">
 <!ENTITY addon.details.tooltip                "Προβολή περισσότερων πληροφοριών για αυτό το πρόσθετο">
 
-<!ENTITY installFromFile.label                "Εγκατάσταση από αρχείο…">
-<!ENTITY installFromFile.accesskey            "γ">
 
 <!ENTITY search.filter2.label                 "Αναζήτηση:">
 <!ENTITY search.filter2.installed.label       "Τα πρόσθετα μου">
@@ -164,9 +160,8 @@
 
 <!ENTITY sort.relevance.label                 "Καλύτερο ταίριασμα">
 <!ENTITY sort.relevance.tooltip               "Ταξινόμηση βάσει συνάφειας">
-<!ENTITY view.utilites.preferences.tooltip    "Επιλογές για όλα τα πρόσθετα">
 
-<!ENTITY view.utilites.preferencesUnix.tooltip "Προτιμήσεις για όλα τα πρόσθετα">
+
 
 <!ENTITY addon.undoAction.label               "Αναίρεση">
 <!ENTITY addon.undoAction.tooltip             "Αναίρεση αυτής της ενέργειας">
@@ -211,4 +206,25 @@
 <!ENTITY warning.updatesecurity.enable.label       "Ενεργοποίηση">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Ενεργοποίηση ελέγχου ασφαλείας ενημερώσεων προσθέτων">
 
+
+<!ENTITY detail.updateDefault.label           "Προεπιλογή">
+<!ENTITY detail.updateDefault.tooltip         "Αυτόματη εγκατάσταση ενημερώσεων μόνο αν αυτό έχει ορισθεί ως προεπιλογή">
+
+<!ENTITY installAddonFromFile.label           "Εγκατάσταση πρόσθετου από αρχείο…">
+<!ENTITY installAddonFromFile.accesskey       "γ">
+
+<!ENTITY sort.price.label                     "Τιμή">
+<!ENTITY sort.price.tooltip                   "Ταξινόμηση κατά τιμή">
+
+<!ENTITY toolsMenu.tooltip                    "Εργαλεία για όλα τα πρόσθετα">
+
+<!ENTITY updates.checkForUpdates.label        "Έλεγχος για ενημερώσεις">
+<!ENTITY updates.checkForUpdates.accesskey    "χ">
+
+<!ENTITY updates.updateAddonsAutomatically.label     "Αυτόματη ενημέρωση προσθέτων">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "Α">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Ρύθμιση όλων των προσθέτων σε αυτόματη ενημέρωση">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "Ρ">
+<!ENTITY updates.resetUpdatesToManual.label          "Ρύθμιση όλων των προσθέτων σε χειροκίνητη ενημέρωση">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "χ">
 
