@@ -42,7 +42,7 @@
 <!ENTITY directoryHostname.accesskey "o">
 <!ENTITY directoryBaseDN.label "বেস DN (B):">
 <!ENTITY directoryBaseDN.accesskey "b">
-<!ENTITY findButton.label "খুঁজুন (F)">
+<!ENTITY findButton.label "অনুসন্ধান (F)">
 <!ENTITY findButton.accesskey "f">
 <!ENTITY directorySecure.label "নিরাপদ সংযোগ (SSL) ব্যবহার করা হবে (U)">
 <!ENTITY directorySecure.accesskey "U">
@@ -61,7 +61,7 @@
 <!ENTITY scopeOneLevel.accesskey "L">
 <!ENTITY scopeSubtree.label "সাব-ট্রি (S)">
 <!ENTITY scopeSubtree.accesskey "S">
-<!ENTITY return.label "সর্বোচ্চ গ্রহন করা হবে (r)">
+<!ENTITY return.label "সর্বোচ্চ গ্রহণ করা হবে (r)">
 <!ENTITY return.accesskey "r">
 <!ENTITY results.label "টি ফলাফল">
 <!ENTITY offlineText.label "আপনি এই ডিরেক্টরির একটি স্থানীয় কপি ডাউনলোড করতে পারেন, যাতে অফলাইন থাকা অবস্থায়ও এটি ব্যবহার করতে পারেন।">

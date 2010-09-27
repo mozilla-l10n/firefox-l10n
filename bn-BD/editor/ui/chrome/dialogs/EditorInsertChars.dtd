@@ -47,6 +47,6 @@
 <!ENTITY accentLower.label "ঝোঁক চিহ্ন - ছোট হাতের অক্ষরে">
 <!ENTITY otherUpper.label "অন্যান্য বড় হাতের অক্ষর">
 <!ENTITY otherLower.label "অন্যান্য ছোট হাতের অক্ষর">
-<!ENTITY commonSymbols.label "সাধারন প্রতীক">
+<!ENTITY commonSymbols.label "সাধারণ প্রতীক">
 <!ENTITY insertButton.label "প্রবেশ">
 <!ENTITY closeButton.label "বন্ধ">

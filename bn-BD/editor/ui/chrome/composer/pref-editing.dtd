@@ -9,7 +9,7 @@
 <!ENTITY customColors.label "স্বনির্বাচিত রং ব্যবহার করুন (c):">
 <!ENTITY customColors.accesskey "c">
 
-<!ENTITY normalText.label "সাধারন পাঠ্য (N)">
+<!ENTITY normalText.label "সাধারণ পাঠ্য (N)">
 <!ENTITY normalText.accesskey "N">
 <!ENTITY linkText.label "পাঠ্য সংযুক্ত করা হবে (L)">
 <!ENTITY linkText.accesskey "L">

@@ -58,10 +58,10 @@
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY fileRevert.label "পূর্বের অবস্থায় যান (v)">
 <!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "সংরক্ষন করুন (S)">
+<!ENTITY saveCmd.label "সংরক্ষণ করুন (S)">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "এভাবে সংরক্ষন করুন... (A)">
+<!ENTITY saveAsCmd.label "এভাবে সংরক্ষণ করুন... (A)">
 <!ENTITY saveAsCmd.accesskey "A">
 
 <!ENTITY publishCmd.label "প্রকাশ করুন (b)">
@@ -71,7 +71,7 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY exportToTextCmd.label "পাঠ্যে এক্সপোর্ট করুন... (T)">
 <!ENTITY exportToTextCmd.accesskey "T">
-<!ENTITY saveAsChangeEncodingCmd.label "অক্ষরের এনকোডিং সংরক্ষন এবং পরিবর্তন করুন (E)">
+<!ENTITY saveAsChangeEncodingCmd.label "অক্ষরের এনকোডিং সংরক্ষণ এবং পরিবর্তন করুন (E)">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 <!ENTITY previewCmd.label "পৃষ্ঠা ব্রাউজ করুন (w)">
 <!ENTITY previewCmd.accesskey "w">
@@ -98,6 +98,7 @@
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "উদ্ধৃতি হিসেবে প্রতিলেপন (Q)">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "অনুসন্ধান এবং প্রতিস্থাপন... (F)">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "F">
@@ -202,7 +203,7 @@
 <!ENTITY size-x-smallCmd.accesskey "m">
 <!ENTITY size-smallCmd.label "ছোট (s)">
 <!ENTITY size-smallCmd.accesskey "s">
-<!ENTITY size-mediumCmd.label "মাঝারী (d)">
+<!ENTITY size-mediumCmd.label "মাঝারি (d)">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "বড় (l)">
 <!ENTITY size-largeCmd.accesskey "l">
@@ -298,7 +299,7 @@
 
 <!ENTITY ParagraphSelect.tooltip "একটি অনুচ্ছেদ বিন্যাস বেছে নিন">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "বডি টেক্সট (T)">
+<!ENTITY bodyTextCmd.label "মূল অংশের পাঠ্য (T)">
 <!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "উচ্চ পর্যায়ের বৈশিষ্ট্য (v)">
@@ -410,7 +411,7 @@
 <!ENTITY newToolbarCmd.tooltip "একটি নতুন রচনাকারক পৃষ্ঠা তৈরি করুন">
 <!ENTITY openToolbarCmd.label "খুলুন">
 <!ENTITY openToolbarCmd.tooltip "একটি স্থানীয় ফাইল খুলুন">
-<!ENTITY saveToolbarCmd.tooltip "একটি স্থানীয় অবস্থানে ফাইল সংরক্ষন করুন">
+<!ENTITY saveToolbarCmd.tooltip "একটি স্থানীয় অবস্থানে ফাইল সংরক্ষণ করুন">
 <!ENTITY publishToolbarCmd.tooltip "একটি দূরবর্তী অবস্থানে ফাইল আপলোড করুন">
 <!ENTITY previewToolbarCmd.label "ব্রাউজ">
 <!ENTITY previewToolbarCmd.tooltip "এই পৃষ্ঠাটি ব্রাউজারে লোড করুন">
@@ -453,8 +454,8 @@
 <!ENTITY alignjustifyButton.tooltip "পাঠ্যকে ডান এবং বামের মার্জিনের সাথে সাজানো হবে">
 <!-- Display Mode toolbar and View menu items -->
 
-<!ENTITY NormalModeTab.label "সাধারন">
-<!ENTITY NormalMode.label "সাধারন সম্পাদন মোড (N)">
+<!ENTITY NormalModeTab.label "সাধারণ">
+<!ENTITY NormalMode.label "সাধারণ সম্পাদন মোড (N)">
 <!ENTITY NormalMode.accesskey "n">
 <!ENTITY NormalMode.tooltip "সারণির সীমানা এবং নামসহ নোঙ্গর দেখানো হবে">
 <!ENTITY AllTagsMode.label "HTML ট্যাগ (a)">
@@ -466,7 +467,7 @@
 <!ENTITY SourceMode.label "সোর্স">
 <!ENTITY HTMLSourceMode.accesskey "h">
 <!ENTITY HTMLSourceMode.tooltip "HTML সোর্স সম্পাদনা করুন">
-<!ENTITY PreviewMode.label "পূর্বদর্শন (P)">
+<!ENTITY PreviewMode.label "প্রাকদর্শন (P)">
 <!ENTITY PreviewMode.accesskey "p">
 <!ENTITY PreviewMode.tooltip "WYSIWYG হিসেবে দেখানো হবে (ব্রাউজারের মত)">
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'

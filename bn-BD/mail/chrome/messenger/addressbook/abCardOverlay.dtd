@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label "ফনেটিক:">
 <!ENTITY DisplayName.label "প্রদর্শন (D):">
 <!ENTITY DisplayName.accesskey "D">
+<!ENTITY preferDisplayName.label "Always prefer display name over message header">
+<!ENTITY preferDisplayName.accesskey "y">
 <!ENTITY NickName.label "ডাকনাম (N):">
 <!ENTITY NickName.accesskey "N">
 
@@ -71,7 +73,7 @@
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "অতিরিক্ত ই-মেইল (i):">
 <!ENTITY SecondEmail.accesskey "i">
-<!ENTITY PreferMailFormat.label "যে বিন্যাসে বার্তা গ্রহণ করতে পছন্দ করবে (v):">
+<!ENTITY PreferMailFormat.label "পছন্দসই বার্তার বিন্যাস (v):">
 <!ENTITY PreferMailFormat.accesskey "v">
 <!ENTITY PlainText.label "সরল লেখা">
 <!ENTITY HTML.label "HTML">
@@ -117,9 +119,9 @@
 <!ENTITY Birthday.label "জন্মদিন (B):">
 <!ENTITY Birthday.accesskey "B">
 <!ENTITY In.label "">
-<!ENTITY Year.emptytext "বছর">
+<!ENTITY Year.placeholder "Year">
 <!ENTITY Or.value "বা">
-<!ENTITY Age.emptytext "বয়স">
+<!ENTITY Age.placeholder "Age">
 <!ENTITY YearsOld.label "">
 
 <!ENTITY Work.tab "অফিস">
@@ -158,18 +160,18 @@
 <!ENTITY Notes.label "নোট (N):">
 <!ENTITY Notes.accesskey "N">
 
-<!ENTITY Photo.tab "Photo">
+<!ENTITY Photo.tab "ছবি">
 <!ENTITY Photo.accesskey "o">
-<!ENTITY PhotoDesc.label "Pick one of the following:">
-<!ENTITY GenericPhoto.label "Generic Photo">
+<!ENTITY PhotoDesc.label "নিচের যেকোনো একটি বেছে নিন:">
+<!ENTITY GenericPhoto.label "সাধারণ ছবি (G)">
 <!ENTITY GenericPhoto.accesskey "G">
-<!ENTITY DefaultPhoto.label "Default">
-<!ENTITY PhotoFile.label "On this Computer">
+<!ENTITY DefaultPhoto.label "ডিফল্ট">
+<!ENTITY PhotoFile.label "এই কম্পিউটারে (n)">
 <!ENTITY PhotoFile.accesskey "n">
-<!ENTITY BrowsePhoto.label "Browse">
+<!ENTITY BrowsePhoto.label "ব্রাউজ (r)">
 <!ENTITY BrowsePhoto.accesskey "r">
-<!ENTITY PhotoURL.label "On the Web">
+<!ENTITY PhotoURL.label "ওয়েবে (b)">
 <!ENTITY PhotoURL.accesskey "b">
-<!ENTITY PhotoURL.emptytext "Paste or type the web address of a photo">
-<!ENTITY UpdatePhoto.label "Update">
+<!ENTITY PhotoURL.placeholder "Paste or type the web address of a photo">
+<!ENTITY UpdatePhoto.label "হালনাগাদ (U)">
 <!ENTITY UpdatePhoto.accesskey "u">

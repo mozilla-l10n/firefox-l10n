@@ -12,14 +12,14 @@
 <!ENTITY dn.accesskey "D">
 <!ENTITY remove.label "সরিয়ে ফেলুন (R)">
 <!ENTITY remove.accesskey "R">
-<!ENTITY edit.label "কীওয়ার্ড সম্পাদনা… (T)">
+<!ENTITY edit.label "কীওয়ার্ড সম্পাদনা… (t)">
 <!ENTITY edit.accesskey "t">
 
-<!ENTITY addEngine.label "আরও ইনজিন অনুসন্ধান... (A)">
+<!ENTITY addEngine.label "আরও ইনজিন অনুসন্ধান... (a)">
 <!ENTITY addEngine.accesskey "A">
 
 <!ENTITY enableSuggest.label "অনুসন্ধানে পরামর্শ দেয়া হবে (S)">
 <!ENTITY enableSuggest.accesskey "S">
 
-<!ENTITY restoreDefaults.label "ডিফল্ট মান পুনরায় স্থাপন (E)">
+<!ENTITY restoreDefaults.label "ডিফল্ট মান পুনরায় স্থাপন (e)">
 <!ENTITY restoreDefaults.accesskey "e">

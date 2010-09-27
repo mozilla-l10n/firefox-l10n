@@ -8,5 +8,5 @@
 <!ENTITY checkOnStartup.label "&brandShortName; শুরু করার সময় প্রতিবার এই পরীক্ষা করা হবে (A)">
 <!ENTITY checkOnStartup.accesskey "A">
 
-<!ENTITY searchIntegration.label "বার্তা খুঁজতে searchIntegration.engineName;-কে অনুমোদন দেয়া হবে (s)">
+<!ENTITY searchIntegration.label "বার্তা খুঁজতে searchIntegration.engineName; কে অনুমোদন দেয়া হবে (s)">
 <!ENTITY searchIntegration.accesskey "S">

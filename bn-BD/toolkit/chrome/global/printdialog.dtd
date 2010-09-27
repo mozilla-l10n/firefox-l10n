@@ -8,7 +8,7 @@
 
 <!ENTITY fileCheck.label "ফাইলে মুদ্রণ (F)">
 <!ENTITY fileCheck.accesskey "F">
-<!ENTITY propertiesButton.label "বৈশিষ্ট্যাবলী... (o)">
+<!ENTITY propertiesButton.label "বৈশিষ্ট্যাবলী… (o)">
 <!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "মুদ্রণযন্ত্রের বিবরণ:">
 <!ENTITY printer.label "মুদ্রণযন্ত্র">
@@ -28,10 +28,10 @@
 <!ENTITY selectionRadio.accesskey "S">
 
 <!ENTITY copies.label "কপি">
-<!ENTITY numCopies.label "কপি সংখ্যা: (c)">
+<!ENTITY numCopies.label "কপির সংখ্যা: (c)">
 <!ENTITY numCopies.accesskey "c">
 
-<!ENTITY printframeGroup.label "ফ্রেম মুদ্রণ করা হবে">
+<!ENTITY printframeGroup.label "মুদ্রণের ফ্রেম">
 <!ENTITY aslaidoutRadio.label "পর্দার বিন্যাস অনুযায়ী (u)">
 <!ENTITY aslaidoutRadio.accesskey "u">
 <!ENTITY selectedframeRadio.label "নির্বাচিত ফ্রেম (m)">

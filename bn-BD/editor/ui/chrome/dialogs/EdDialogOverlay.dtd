@@ -44,7 +44,7 @@
 <!ENTITY chooseFileLinkButton.accessKey "o">
 <!ENTITY makeUrlRelative.label "URL পৃষ্ঠার অবস্থানের সাথে সম্পর্কযুক্ত (R)">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "আপেক্ষিক এবং প্রকৃত URL এর মধ্যে পরিবর্তন করুন। এটি পরিবর্তন করতে আপনাকে অবশ্যই প্রথমে পৃষ্ঠাটি সংরক্ষন করতে হবে।">
+<!ENTITY makeUrlRelative.tooltip "আপেক্ষিক এবং প্রকৃত URL এর মধ্যে পরিবর্তন করুন। এটি পরিবর্তন করতে আপনাকে অবশ্যই প্রথমে পৃষ্ঠাটি সংরক্ষণ করতে হবে।">
 <!-- Shared by Link and Image dialogs -->
 
 <!ENTITY LinkURLEditField.label "পপআপ তালিকা থেকে, একটি ওয়েবপেজে অবস্থান, একটি স্থানীয় ফাইল প্রবেশ করুন বা একটি নামসহ নোঙ্গর বা শিরোনাম নির্বাচন করুন:">

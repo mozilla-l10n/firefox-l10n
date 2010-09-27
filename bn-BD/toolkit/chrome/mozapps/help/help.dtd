@@ -6,10 +6,10 @@
 
 <!ENTITY backButton.label "পূর্ববর্তী (B)">
 <!ENTITY backButton.accesskey "B">
-<!ENTITY backButton.tooltip "আগের পৃষ্ঠায় যান">
+<!ENTITY backButton.tooltip "পূর্ববর্তী পৃষ্ঠায় যান">
 <!ENTITY forwardButton.label "পরবর্তী (F)">
 <!ENTITY forwardButton.accesskey "F">
-<!ENTITY forwardButton.tooltip "পরের পৃষ্ঠায় যান">
+<!ENTITY forwardButton.tooltip "পরবর্তী পৃষ্ঠায় যান">
 <!ENTITY copyCmd.label "অনুলিপি (C)">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
@@ -17,7 +17,7 @@
 <!ENTITY goBackCmd.commandkey "[">
 <!ENTITY goForwardCmd.commandkey "]">
 <!ENTITY homeButton.label "হোম">
-<!ENTITY homeButton.tooltip "সহায়িকার শুরুর পৃষ্ঠায় যান">
+<!ENTITY homeButton.tooltip "সহায়তার প্রথম পৃষ্ঠায় যান">
 <!ENTITY printButton.label "মুদ্রণ">
 <!ENTITY printButton.tooltip "এই পৃষ্ঠা মুদ্রণ">
 <!ENTITY closeWindow.commandkey "W">
@@ -36,17 +36,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 
 <!ENTITY helpSearch.commandkey "k">
 
-<!ENTITY zLevel.label "সবসময় উপরে থাকবে">
+<!ENTITY zLevel.label "সর্বদা উপরে থাকবে (T)">
 <!ENTITY zLevel.accesskey "T">
 
-<!ENTITY fullZoomReduceBtn.label "আরও ছোট আকার (O)">
+<!ENTITY fullZoomReduceBtn.label "ছোট আকারে প্রদর্শন (O)">
 <!ENTITY fullZoomReduceBtn.accesskey "O">
-<!ENTITY fullZoomEnlargeBtn.label "আরও বড় আকার (I)">
+<!ENTITY fullZoomEnlargeBtn.label "বড় আকারে প্রদর্শন (I)">
 <!ENTITY fullZoomEnlargeBtn.accesskey "I">

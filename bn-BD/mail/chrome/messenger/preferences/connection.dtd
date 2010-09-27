@@ -1,5 +1,5 @@
 <!ENTITY connectionsDialog.title "সংযোগ সেটিং">
-<!ENTITY window.width "৩৭এম">
+<!ENTITY window.width "37em">
 
 <!ENTITY proxyTitle.label "ইন্টারনেট ব্যবহারের জন্য প্রক্সি কনফিগার করা হবে">
 <!ENTITY noProxyTypeRadio.label "প্রক্সি অনুপস্থিত (y)">

@@ -55,7 +55,7 @@
 <!ENTITY noAltText.label "বিকল্প পাঠ্য ব্যবহার করা হবে না (D)">
 <!ENTITY noAltText.accessKey "D">
 
-<!ENTITY previewBox.label "ছবির পূর্বদর্শন">
+<!ENTITY previewBox.label "ছবির প্রাকদর্শন">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 

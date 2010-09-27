@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label "আপনার নতুন ফোল্ডারকে যা রাখার অনুমোদন দেয়া হবে:">
 <!ENTITY foldersOnly.label "শুধুমাত্র ফোল্ডার">
 <!ENTITY messagesOnly.label "শুধুমাত্র বার্তা">
+<!ENTITY accept.label "ফোল্ডার তৈরি করা হবে (r)">
+<!ENTITY accept.accesskey "r">

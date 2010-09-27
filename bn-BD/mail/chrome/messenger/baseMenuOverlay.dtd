@@ -7,15 +7,17 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY releaseCmd.label "রিলিজ নোট (R)">
 <!ENTITY releaseCmd.accesskey "R">
-<!ENTITY whatsNewCmd.label "What's New">
+<!ENTITY whatsNewCmd.label "নতুন কি আছে (W)">
 <!ENTITY whatsNewCmd.accesskey "W">
+<!ENTITY featureConfiguratorCmd.label "মাইগ্রেশন এসিস্ট্যান্ট (M)">
+<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "সহায়তার বিষয়বস্তু (H)">
 <!ENTITY openHelp.accesskey "H">
-<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelp.commandkey "VKF1 (_F)">
 <!ENTITY openHelpMac.label "&brandShortName; সহায়তা">
 <!ENTITY openHelpMac2.commandkey "?">
-<!ENTITY openHelpMac2.modifiers "এক্সেল">
+<!ENTITY openHelpMac2.modifiers "একসেল">
 
-<!ENTITY updateCmd.label "হালনাগাদের জন্য পরীক্ষা... (o)">
-<!ENTITY aboutCmd.label "&brandFullName; সম্পর্কিত (A)">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY updateCmd.label "হালনাগাদের জন্য পরীক্ষা…">
+<!ENTITY aboutMenuCmd.label "&brandShortName; পরিচিতি (A)">
+<!ENTITY aboutMenuCmd.accesskey "A">

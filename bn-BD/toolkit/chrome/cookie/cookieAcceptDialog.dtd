@@ -3,7 +3,7 @@
 <!ENTITY props.domain.label "হোস্ট:">
 <!ENTITY props.path.label "পাথ:">
 <!ENTITY props.secure.label "প্রাপক:">
-<!ENTITY props.expires.label "মেয়াদোত্তীর্ন:">
+<!ENTITY props.expires.label "মেয়াদোত্তীর্ণ:">
 <!ENTITY props.policy.label "নীতি:">
 
 <!ENTITY button.allow.label "অনুমোদন (A)">

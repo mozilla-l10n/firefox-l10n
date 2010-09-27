@@ -45,13 +45,13 @@
 <!ENTITY all.accesskey "A">
 <!ENTITY errors.label "ত্রুটি (E)">
 <!ENTITY errors.accesskey "E">
-<!ENTITY warnings.label "সতর্কবার্তা (W)">
+<!ENTITY warnings.label "সতর্কীকরণ (W)">
 <!ENTITY warnings.accesskey "W">
 <!ENTITY messages.label "বার্তা (M)">
 <!ENTITY messages.accesskey "M">
 <!ENTITY clear.label "মুছে ফেলা (C)">
 <!ENTITY clear.accesskey "C">
-<!ENTITY codeEval.label "কোড (o):">
+<!ENTITY codeEval.label "কোড: (o)">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label "মান নির্ণয় (v)">
 <!ENTITY evaluate.accesskey "v">

@@ -18,14 +18,14 @@
 <!ENTITY configEditDesc.label "উচ্চ পর্যায়ের কনফিগারেশন">
 <!ENTITY configEdit.label "কনফিগারেশন সম্পাদক... (g)">
 <!ENTITY configEdit.accesskey "G">
-<!ENTITY returnReceiptsInfo.label "&brandShortName; কিভাবে প্রাপ্তি জ্ঞাপন নিয়ন্ত্রণ করবে তা নির্ধারন করুন">
+<!ENTITY returnReceiptsInfo.label "&brandShortName; কিভাবে প্রাপ্তি জ্ঞাপন নিয়ন্ত্রণ করবে তা নির্ধারণ করা হবে">
 <!ENTITY showReturnReceipts.label "প্রাপ্তি জ্ঞাপন... (R)">
 <!ENTITY showReturnReceipts.accesskey "R">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption "পড়া হচ্ছে">
 <!ENTITY display.caption "প্রদর্শন">
-<!ENTITY showCondensedAddresses.label "আমার ঠিকানা বইয়ে বিদ্যমান ব্যক্তিদের শুধুমাত্র প্রদর্শিত নাম দেখানো হবে (S)">
+<!ENTITY showCondensedAddresses.label "ঠিকানা বইয়ে বিদ্যমান ব্যক্তিদের শুধুমাত্র প্রদর্শিত নাম দেখানো হবে (S)">
 <!ENTITY showCondensedAddresses.accesskey "S">
 
 <!ENTITY autoMarkAsRead.label 'স্বয়ংক্রিয়ভাবে বার্তাসমূহকে "পঠিত" হিসেবে চিহ্নিত করা হবে (A)'>
@@ -39,23 +39,23 @@
 <!ENTITY markAsReadDelay.accesskey "d">
 <!ENTITY secondsLabel.label "সেকেন্ড পর">
 <!ENTITY openMsgIn.label "বার্তা খোলা হবে:">
-<!ENTITY openMsgInNewTab.label "A new tab">
+<!ENTITY openMsgInNewTab.label "নতুন ট্যাব (t)">
 <!ENTITY openMsgInNewTab.accesskey "t">
 <!ENTITY reuseExpRadio0.label "নতুন বার্তা উইন্ডোতে (n)">
 <!ENTITY reuseExpRadio0.accesskey "n">
 <!ENTITY reuseExpRadio1.label "বিদ্যমান বার্তা উইন্ডোতো (e)">
 <!ENTITY reuseExpRadio1.accesskey "e">
-<!ENTITY closeMsgWindowOnDelete.label "মুছে ফেললে বার্তা উইন্ডো বন্ধ করা হবে (C)">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label "Close message window on move or delete">
 <!ENTITY closeMsgWindowOnDelete.accesskey "C">
 <!-- Update -->
 
-<!ENTITY autoCheck.label "স্বয়ংক্রিয়ভাবে আপডেট পরীক্ষা করা হবে:">
+<!ENTITY autoCheck.label "স্বয়ংক্রিয়ভাবে হালনাগাদ পরীক্ষা করা হবে:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "ইনস্টলকৃত অ্যাড-অন (A)">
 <!ENTITY enableAddonsUpdate.accesskey "A">
-<!ENTITY whenUpdatesFound.label "যখন &brandShortName; এর আপডেট পাওয়া যাবে,">
-<!ENTITY modeAskMe.label "কি করতে চাই জিজ্ঞাস করা হবে (m)">
+<!ENTITY whenUpdatesFound.label "যখন &brandShortName; এর হালনাগাদ পাওয়া যাবে,">
+<!ENTITY modeAskMe.label "কি করতে চাই জিজ্ঞেস করা হবে (m)">
 <!ENTITY modeAskMe.accesskey "m">
 <!ENTITY modeAutomatic.label "স্বয়ংক্রিয়ভাবে ডাউনলোড এবং ইনস্টল করা হবে (d)">
 <!ENTITY modeAutomatic.accesskey "d">
@@ -92,10 +92,10 @@
 <!ENTITY clearCacheNow.accesskey "C">
 <!-- Certificates -->
 
-<!ENTITY certSelection.description "When a server requests my personal certificate:">
-<!ENTITY certs.auto "Select one automatically">
+<!ENTITY certSelection.description "যখন সার্ভার আমার ব্যক্তিগত সার্টিফিকেট চায়:">
+<!ENTITY certs.auto "স্বয়ংক্রিয় ভাবে নির্বাচন করা হবে">
 <!ENTITY certs.auto.accesskey "m">
-<!ENTITY certs.ask "Ask me every time">
+<!ENTITY certs.ask "প্রতিবার জিজ্ঞেস করা হবে">
 <!ENTITY certs.ask.accesskey "A">
 
 <!ENTITY viewCertificates.label "সার্টিফিকেট প্রদর্শন (C)">

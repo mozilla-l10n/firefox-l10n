@@ -9,10 +9,10 @@
 <!ENTITY cutCmd.label "কাটা (t)">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "অনুলিপি করা (C)">
+<!ENTITY copyCmd.label "অনুলিপি (C)">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "প্রতিলেপন করা (P)">
+<!ENTITY pasteCmd.label "প্রতিলেপন (P)">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "মুছে ফেলা (D)">

@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR মজিলা.অর্গ
+#define MOZ_LANGPACK_CREATOR মোজিলা.অর্গ
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 

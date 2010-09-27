@@ -1,19 +1,19 @@
-<!ENTITY  typeColumn.label            "বিষয়বস্তুর ধরন (T)">
-<!ENTITY  typeColumn.accesskey        "T">
+<!ENTITY typeColumn.label "বিষয়বস্তুর ধরন (T)">
+<!ENTITY typeColumn.accesskey "T">
 
-<!ENTITY  actionColumn2.label         "কাজ (A)">
-<!ENTITY  actionColumn2.accesskey     "A">
+<!ENTITY actionColumn2.label "কাজ (A)">
+<!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY  focusSearch1.key            "f">
-<!ENTITY  focusSearch2.key            "k">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
 
-<!ENTITY  filter.emptytext            "অনুসন্ধান (S)">
+<!ENTITY filter.placeholder "Search">
 
-<!ENTITY saveTo.label                 "এখানে ফাইল সংরক্ষণ করা হবে (S)">
-<!ENTITY saveTo.accesskey             "S">
-<!ENTITY alwaysAsk.label              "ফাইল কোথায় সংরক্ষণ করতে হবে, আমাকে জিজ্ঞাস করা হবে (A)">
-<!ENTITY alwaysAsk.accesskey          "A">
-<!ENTITY chooseFolderWin.label        "ব্রাউজ... (B)">
-<!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "নির্বাচন... (C)">
-<!ENTITY chooseFolderMac.accesskey    "C">
+<!ENTITY saveTo.label "এখানে ফাইল সংরক্ষণ করা হবে (S)">
+<!ENTITY saveTo.accesskey "S">
+<!ENTITY alwaysAsk.label "ফাইল সংরক্ষণের স্থান জিজ্ঞেস করা হবে (A)">
+<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY chooseFolderWin.label "ব্রাউজ… (B)">
+<!ENTITY chooseFolderWin.accesskey "B">
+<!ENTITY chooseFolderMac.label "নির্বাচন… (C)">
+<!ENTITY chooseFolderMac.accesskey "C">

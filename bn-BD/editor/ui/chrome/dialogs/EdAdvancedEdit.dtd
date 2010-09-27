@@ -37,14 +37,14 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY WindowTitle.label "উচ্চ পর্যায়ের বৈশিষ্ট্য সম্পাদক">
-<!ENTITY AttName.label "Attribute: ">
-<!ENTITY AttValue.label "Value: ">
-<!ENTITY PropertyName.label "Property: ">
-<!ENTITY currentattributesfor.label "বর্তমান attributes:">
-<!ENTITY tree.attributeHeader.label "Attribute">
-<!ENTITY tree.propertyHeader.label "Property">
-<!ENTITY tree.valueHeader.label "Value">
-<!ENTITY tabHTML.label "HTML Attributes">
+<!ENTITY AttName.label "বৈশিষ্ট্য: ">
+<!ENTITY AttValue.label "মান: ">
+<!ENTITY PropertyName.label "বৈশিষ্ট্য: ">
+<!ENTITY currentattributesfor.label "বর্তমান বৈশিষ্ট্য:">
+<!ENTITY tree.attributeHeader.label "বৈশিষ্ট্য">
+<!ENTITY tree.propertyHeader.label "বৈশিষ্ট্য">
+<!ENTITY tree.valueHeader.label "মান">
+<!ENTITY tabHTML.label "HTML বৈশিষ্ট্য">
 <!ENTITY tabCSS.label "ইনলাইন শৈলী">
 <!ENTITY tabJSE.label "জাভাস্ক্রিপ্ট ইভেন্ট">
 

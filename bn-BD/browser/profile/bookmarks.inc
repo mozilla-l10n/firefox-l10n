@@ -13,15 +13,6 @@
 #define bookmarks_heading বুকমার্ক
 
 
-# LOCALIZATION NOTE (bookmarks_addons):
-
-
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-
-
-#define bookmarks_addons বুকমার্কের অ্যাড-অন সংগ্রহ
-
-
 #define bookmarks_toolbarfolder বুকমার্ক টুলবারের ফোল্ডার
 
 
@@ -58,7 +49,7 @@
 # Firefox links folder name
 
 
-#define firefox_heading মজিলা ফায়ারফক্স
+#define firefox_heading মোজিলা ফায়ারফক্স
 
 
 # LOCALIZATION NOTE (firefox_help):
@@ -91,7 +82,7 @@
 # LOCALIZATION NOTE (firefox_about):
 
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 
 
 #define firefox_about আমাদের পরিচিতি

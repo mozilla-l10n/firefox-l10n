@@ -44,7 +44,7 @@
 <!ENTITY checkbox.value "চেক বাক্স">
 <!ENTITY radio.value "রেডিও বোতাম">
 <!ENTITY submit.value "জমা দেয়ার বোতাম">
-<!ENTITY reset.value "রিসেট বোতাম">
+<!ENTITY reset.value "পুনঃনির্ধারণ বোতাম">
 <!ENTITY file.value "ফাইল">
 <!ENTITY hidden.value "লুকানো">
 <!ENTITY image.value "ছবি">

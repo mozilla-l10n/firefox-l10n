@@ -1,5 +1,5 @@
 <!ENTITY messengerStartPage.label "&brandShortName; প্রারম্ভিক পৃষ্ঠা">
-<!ENTITY enableStartPage.label "যখন &brandShortName; চালু করা হয়, বার্তা এলাকায় প্রারম্ভিক পৃষ্ঠাটি প্রদর্শন করা হবে (W)">
+<!ENTITY enableStartPage.label "&brandShortName; চালু করা হলে, বার্তা এলাকায় প্রারম্ভিক পৃষ্ঠাটি প্রদর্শিত হয় (W)">
 <!ENTITY enableStartPage.accesskey "W">
 <!ENTITY location.label "অবস্থান:">
 <!ENTITY location1.accesskey "o">

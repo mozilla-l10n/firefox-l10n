@@ -34,12 +34,12 @@
 <!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (n)">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY viewMenu.label "ভিউ (V)">
+<!ENTITY viewMenu.label "প্রদর্শন (V)">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "টুলবার (T)">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY showTaskbarCmd.label "স্ট্যাটাস বার (S)">
-<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY showTaskbarCmd.accesskey "s">
 
 <!ENTITY proxy.label "প্রক্সি কনফিগারেশন… (C)">
 <!ENTITY proxy.accesskey "C">
@@ -55,5 +55,5 @@
 <!ENTITY quitApplicationCmdUnix.label "প্রস্থান (Q)">
 <!ENTITY quitApplicationCmdUnix.accesskey "q">
 
-<!ENTITY quitApplicationCmdMac.label "brandShortName থেকে প্রস্থান (Q);">
-<!ENTITY quitApplicationCmdMac.accesskey "b">
+<!ENTITY quitApplicationCmdMac.label "&brandShortName; থেকে প্রস্থান (Q)">
+<!ENTITY quitApplicationCmdMac.accesskey "q">

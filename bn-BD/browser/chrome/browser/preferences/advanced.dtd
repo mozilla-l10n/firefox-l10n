@@ -2,9 +2,9 @@
 
 <!ENTITY generalTab.label "সাধারণ">
 
-<!ENTITY accessibility.label "স্বচ্ছন্দ্তা">
+<!ENTITY accessibility.label "স্বচ্ছন্দতা">
 
-<!ENTITY useCursorNavigation.label "বিভিন্ন পৃষ্ঠার মধ্যে চলাচলের জন্য সর্বদা কার্সার-কি ব্যবহার করা হবে (C)">
+<!ENTITY useCursorNavigation.label "বিভিন্ন পৃষ্ঠার মধ্যে চলাচলের জন্য সর্বদা কার্সার-কী ব্যবহার করা হবে (C)">
 <!ENTITY useCursorNavigation.accesskey "c">
 <!ENTITY searchStartTyping.label "টাইপ আরম্ভ করলে তৎক্ষণাৎ অনুসন্ধান শুরু করা হবে (X)">
 <!ENTITY searchStartTyping.accesskey "x">
@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey "a">
 <!ENTITY useSmoothScrolling.label "স্মুথ-স্ক্রলিং ব্যবহার করা হবে (M)">
 <!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "টাইপ করার সময় বানান পরীক্ষা করা হবে (T)">
 <!ENTITY checkSpelling.accesskey "t">
 
@@ -26,6 +28,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "w">
 <!ENTITY checkNow.label "এই মূহুর্তে পরীক্ষা করা হবে (N)">
 <!ENTITY checkNow.accesskey "N">
+<!ENTITY submitCrashes.label "ক্র্যাশ রিপোর্ট জমা দিন">
+<!ENTITY submitCrashes.accesskey "S">
 
 <!ENTITY networkTab.label "নেটওয়ার্ক">
 
@@ -37,31 +41,33 @@
 
 <!ENTITY offlineStorage.label "অফলাইন সংরক্ষণ">
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "ক্যাশের জন্য (U)">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "মেগাবাইট পর্যন্ত স্থান ব্যবহৃত হবে">
+<!ENTITY limitCacheSizeBefore.label "Limit cache to">
+<!ENTITY limitCacheSizeBefore.accesskey "L">
+<!ENTITY limitCacheSizeAfter.label "MB of space">
 <!ENTITY clearCacheNow.label "ক্যাশ পরিষ্কার করা হবে (C)">
 <!ENTITY clearCacheNow.accesskey "C">
+<!ENTITY overrideSmartCacheSize.label "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label "হালনাগাদ">
 
-<!ENTITY autoCheck.label "নিম্নলিখিত আইটেমগুলোর জন্য স্বয়ংক্রিয়ভাবে আপডেট পরীক্ষা করা হবে:">
+<!ENTITY autoCheck.label "নিম্নলিখিত আইটেমগুলোর জন্য স্বয়ংক্রিয়ভাবে হালনাগাদ পরীক্ষা করা হবে:">
 <!ENTITY enableAppUpdate.label "&brandShortName; (F)">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "Add-ons">
+<!ENTITY enableAddonsUpdate2.label "অ্যাডঅন (n)">
 <!ENTITY enableAddonsUpdate2.accesskey "n">
 <!ENTITY enableSearchUpdate.label "অনুসন্ধান ইনজিন (H)">
 <!ENTITY enableSearchUpdate.accesskey "h">
-<!ENTITY whenUpdatesFound.label "&brandShortName;-এর আপডেট পাওয়া গেলে:">
-<!ENTITY askMe.label "পরবর্তী পদক্ষেপ সম্বন্ধে জিজ্ঞাসা করা হবে (K)">
+<!ENTITY whenUpdatesFound.label "&brandShortName;-এর হালনাগাদ পাওয়া গেলে:">
+<!ENTITY askMe.label "পরবর্তী পদক্ষেপ সম্বন্ধে জিজ্ঞেস করা হবে (K)">
 <!ENTITY askMe.accesskey "k">
-<!ENTITY modeAutomatic.label "স্বয়ংক্রিয়ভাবে আপডেট ডাউনলোড করে ইনস্টল করা হবে (D)">
+<!ENTITY modeAutomatic.label "স্বয়ংক্রিয়ভাবে হালনাগাদ ডাউনলোড করে ইনস্টল করা হবে (D)">
 <!ENTITY modeAutomatic.accesskey "d">
 <!ENTITY modeAutoAddonWarn.label "কোন এ্যাড-অন নিষ্ক্রিয় হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে (W)">
 <!ENTITY modeAutoAddonWarn.accesskey "W">
@@ -90,7 +96,7 @@
 <!ENTITY certSelection.description "কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করলে:">
 <!ENTITY certs.auto "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে (L)">
 <!ENTITY certs.auto.accesskey "l">
-<!ENTITY certs.ask "প্রতিবার জিজ্ঞাসা করা হবে (I)">
+<!ENTITY certs.ask "প্রতিবার জিজ্ঞেস করা হবে (I)">
 <!ENTITY certs.ask.accesskey "i">
 <!ENTITY viewCerts.label "সার্টিফিকেট প্রদর্শন (S)">
 <!ENTITY viewCerts.accesskey "s">
