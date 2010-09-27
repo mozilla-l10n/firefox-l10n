@@ -28,6 +28,7 @@ muidu kasutatakse <em>muul</em> otstarbel kui veebilehitsemine. Veebilehitseja k
 
 <!ENTITY netOffline.title "Võrguta režiim">
 <!ENTITY netOffline.longDesc "<p>Veebilehitseja on võrguta režiimis ega saa soovitud aadressiga ühenduda.</p><ul><li>Kas arvuti võrguühendus on aktiivne?</li><li>Lülita veebilehitseja võrgurežiimi ja proovi uuesti.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Veebilehitseja on võrguta režiimis ega saa soovitud aadressiga ühenduda.</p><ul><li>Kas arvuti võrguühendus on aktiivne?</li><li>Lülita veebilehitseja võrgurežiimi ja proovi uuesti.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Sisu kodeeringu viga">
 <!ENTITY contentEncodingError.longDesc "<p>Lehte, mida soovid vaadata, ei saa näidata, kuna see kasutab vigast või mittetoetatud pakkimise vormingut.</p><ul><li>Palun võta ühendust veebilehe omanikuga, et informeerida teda antud probleemist.</li></ul>">

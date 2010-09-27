@@ -40,18 +40,18 @@
 
 <!ENTITY offlineStorage.label              "Kettakasutus võrguta">
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label              "Vahemäluks kasutatakse kuni">
-<!ENTITY useCacheBefore.accesskey          "u">
-<!ENTITY useCacheAfter.label               "MiB-i kettaruumi">
+<!ENTITY limitCacheSizeBefore.label        "Vahemälu kasutus piiratakse">
+<!ENTITY limitCacheSizeBefore.accesskey    "V">
+<!ENTITY limitCacheSizeAfter.label         "MiB kettaruumile">
 <!ENTITY clearCacheNow.label               "Tühjenda">
 <!ENTITY clearCacheNow.accesskey           "T">
-<!ENTITY smartSizeCache.label              "Vahemälu suuruse haldamisega tegeleb &brandShortName;">
-<!ENTITY smartSizeCache.accesskey          "V">
+<!ENTITY overrideSmartCacheSize.label      "Keelatakse automaatne vahemälu haldamine">
+<!ENTITY overrideSmartCacheSize.accesskey  "K">
 
 <!ENTITY updateTab.label                   "Uuendamine">
 
