@@ -98,9 +98,13 @@
 <!ENTITY  viewDetails.tooltip             "Προβολή λεπτομερειών για αυτή την ενημέρωση">
 
 <!ENTITY  error.title                     "Αποτυχία ενημέρωσης">
-<!ENTITY  errorCertAttrNoUpdate.label     "Κάτι εμποδίζει την ασφαλή ενημέρωση του &brandShortName;.
-                                           Παρακαλώ ελέγξτε ότι έχετε την πιο πρόσφατη έκδοση του &brandShortName;:">
+>
+
+<!ENTITY  errorCertAttrNoUpdate2.label    "Κάτι εμποδίζει την ασφαλή ενημέρωση του &brandShortName;.
+                                           Παρακαλώ ελέγξτε ότι έχετε την πιο πρόσφατη έκδοση του &brandShortName; από:">
+
 <!ENTITY  errorCertAttrHasUpdate.label    "Κάτι προσπαθεί να ξεγελάσει τον &brandShortName; ώστε να δεχθεί μια μη ασφαλή ενημέρωση. Παρακαλώ επικοινωνήστε με τον πάροχο σας για βοήθεια.">
 
+<!ENTITY  genericBackgroundError.label    "Ο &brandShortName; δεν μπόρεσε να εντοπίσει το αν υπάρχει διαθέσιμη ενημέρωση. Παρακαλώ βεβαιωθείτε ότι έχετε εγκατεστημένη την πιο πρόσφατη έκδοση του &brandShortName; από:">
 
 
