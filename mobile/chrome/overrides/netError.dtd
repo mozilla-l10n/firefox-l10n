@@ -52,17 +52,12 @@
 <!ENTITY netInterrupt.title "A ligação foi interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "Modo desligado">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>Tente novamente. O &brandShortName; vai tentar abrir uma ligação e recarregar a página.</li>
 </ul>
 ">
-
-<!ENTITY netOffline.title "Modo desligado">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Erro de codificação de conteúdo">
 <!ENTITY contentEncodingError.longDesc "
@@ -183,6 +178,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY securityOverride.warningText "
 <p>Não deve adicionar uma excepção se estiver a utilizar uma ligação à internet em que não confia ou se não estiver habituado a ver avisos deste servidor.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
