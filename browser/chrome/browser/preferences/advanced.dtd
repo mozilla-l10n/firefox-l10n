@@ -32,9 +32,6 @@
 <!ENTITY checkNow.label "Pārbaudīt tagad">
 <!ENTITY checkNow.accesskey "P">
 
-<!ENTITY smartSizeCache.label            "Ļaut &brandShortName; noteikt manas kešatmiņas izmēru">
-<!ENTITY smartSizeCache.accesskey        "t">
-
 <!ENTITY networkTab.label "Tīkls">
 
 <!ENTITY connection.label "Savienojums">
@@ -51,9 +48,6 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "Izmantot līdz pat">
-<!ENTITY useCacheBefore.accesskey "I">
-<!ENTITY useCacheAfter.label "MB no pieejamās kešatmiņas">
 <!ENTITY clearCacheNow.label "Iztīrīt">
 <!ENTITY clearCacheNow.accesskey "I">
 
@@ -110,3 +104,16 @@
 <!ENTITY verify2.accesskey "V">
 <!ENTITY viewSecurityDevices.label "Drošības ierīces">
 <!ENTITY viewSecurityDevices.accesskey "d">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "Ierobežot kešatmiņu līdz ">
+<!ENTITY limitCacheSizeBefore.accesskey  "k">
+<!ENTITY limitCacheSizeAfter.label       "MB">
+
+<!ENTITY overrideSmartCacheSize.label    "Ignorēt automātisko kešatmņas pārvaldību">
+<!ENTITY overrideSmartCacheSize.accesskey "O">

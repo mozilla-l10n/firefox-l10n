@@ -20,6 +20,9 @@
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 
+<!ENTITY helpSafeMode.label       "Pārstartēt ar deaktivizētiem papildinājumiem…">
+<!ENTITY helpSafeMode.accesskey   "R">
+
 <!ENTITY helpFeedbackPage.label      "Nosūtīt atsauksmi…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
