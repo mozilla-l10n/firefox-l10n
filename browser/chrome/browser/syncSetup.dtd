@@ -62,7 +62,7 @@
 
 <!-- Existing Account Page 2: Sync Key -->
 <!ENTITY setup.existingSyncKeyPage.title "Ingrese su clave de sincronización">
-<!ENTITY setup.existingSyncKeyPage.description "La clave de sincronización fue generada o ingreso una propia al ingresar por primera vez a &syncBrand.fullName.label;. No es la misma que la contraseña.">
+<!ENTITY setup.existingSyncKeyPage.description "La clave de sincronización fue generada o ingresó una propia al ingresar por primera vez a &syncBrand.fullName.label;. No es la misma que la contraseña.">
 <!ENTITY existingSyncKeyHelp.description "Puede encontrar su clave de sincronización guardada yendo a otra computadora y mirando en las contraseñas guardadas en Seguridad. Si aún no puede obtener la clave de sincronización correcta, puede reiniciarla, pero perderá todos los datos guardados en el servidor.">
 <!ENTITY lostSyncKey.label            "Perdí mi clave de sincronización">
 <!ENTITY verifying.label              "Verificando…">
