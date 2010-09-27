@@ -1,4 +1,4 @@
-<!ENTITY itemFormatting.label "বিন্যাসন">
+<!ENTITY itemFormatting.label "বিন্যাস">
 <!ENTITY itemTags.label "ট্যাগ">
 
 <!ENTITY style.label "শৈলী (y):">
@@ -17,7 +17,7 @@
 <!ENTITY displayWidth.label "সরল টেক্সট বার্তা">
 <!ENTITY displayText.label "উদ্ধৃতি চিহ্ন যুক্ত সরল টেক্সট বার্তা প্রদর্শনে:">
 <!ENTITY colors.label "রং">
-<!ENTITY overrideColors.label "বার্তা প্রদর্শনে সময়, নিম্নের রং ব্যবহার করা হবে:">
+<!ENTITY overrideColors.label "বার্তা প্রদর্শনের সময় নিম্নের রং ব্যবহার করা হবে:">
 <!ENTITY textColor.label "টেক্সটের রং (T):">
 <!ENTITY textColor.accesskey "T">
 <!ENTITY backgroundColor.label "পটভূমির রং (B):">
@@ -37,10 +37,10 @@
 <!ENTITY removeTagButton.accesskey "D">
 <!-- Fonts -->
 
-<!ENTITY fontsAndColors.label "Fonts">
-<!ENTITY defaultFont.label "Default font:">
+<!ENTITY fontsAndColors.label "ফন্ট">
+<!ENTITY defaultFont.label "ডিফল্ট ফন্ট (D):">
 <!ENTITY defaultFont.accesskey "D">
-<!ENTITY defaultSize.label "Size:">
+<!ENTITY defaultSize.label "আকার ‌(S):">
 <!ENTITY defaultSize.accesskey "S">
 <!ENTITY fontOptions.accesskey "F">
 <!ENTITY fontOptions.label "ফন্ট... (F)">

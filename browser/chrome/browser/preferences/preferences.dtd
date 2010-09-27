@@ -7,10 +7,13 @@
 <!ENTITY prefWinMinSize.styleMac "width: 50em; min-height: 45em;">
 <!ENTITY prefWinMinSize.styleGNOME "width: 50em; min-height: 45em;">
 
-<!ENTITY paneGeneral.title "General">
+<!ENTITY paneGeneral.title "সাধারণ">
 <!ENTITY paneTabs.title "ট্যাব">
 <!ENTITY paneContent.title "বিষয়বস্তু">
 <!ENTITY paneApplications.title "অ্যাপ্লিকেশন">
-<!ENTITY panePrivacy.title "গোপনতা">
+<!ENTITY panePrivacy.title "গোপনীয়তা">
 <!ENTITY paneSecurity.title "নিরাপত্তা">
 <!ENTITY paneAdvanced.title "উচ্চপর্যায়ের বৈশিষ্ট্য">
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+
+<!ENTITY paneSync.title "Sync">

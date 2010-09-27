@@ -6,7 +6,7 @@
 <!ENTITY status.signed "ডিজিটালভাবে স্বাক্ষরিত:">
 <!ENTITY status.encrypted "এনক্রিপ্টকৃত:">
 <!ENTITY status.certificates "সার্টিফিকেট:">
-<!ENTITY view.label "ভিউ (V)">
+<!ENTITY view.label "প্রদর্শন (V)">
 <!ENTITY view.accesskey "V">
 <!ENTITY tree.recipient "প্রাপক">
 <!ENTITY tree.status "অবস্থা">

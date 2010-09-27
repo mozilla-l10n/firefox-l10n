@@ -1,12 +1,16 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "একাউন্ট সেটিং">
+<!ENTITY accountManagerTitle.label "অ্যাকাউন্ট সেটিংসমূহ">
 
-<!ENTITY addAccountButton.label "একাউন্ট যোগ... (A)">
-<!ENTITY addAccountButton.accesskey "A">
-<!ENTITY setDefaultButton.label "ডিফল্ট নির্ধারণ (f)">
-<!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY removeButton.label "একাউন্ট অপসারণ (R)">
+<!ENTITY accountActionsButton.label "অ্যাকাউন্টের কাজসমূহ (A)">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "মেইল অ্যাকাউন্ট যোগ… (A)">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "অন্যান্য অ্যাকাউন্ট যোগ… (O)">
+<!ENTITY addOtherAccountButton.accesskey "O">
+<!ENTITY setDefaultButton.label "ডিফল্ট হিসেবে নির্ধারণ (D)">
+<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY removeButton.label "অ্যাকাউন্ট অপসারণ (R)">
 <!ENTITY removeButton.accesskey "R">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

@@ -41,7 +41,7 @@
 
 <!ENTITY EditLabelText.label "পাঠ্য সম্পাদনা (T):">
 <!ENTITY EditLabelText.accesskey "T">
-<!ENTITY LabelFor.label "নিয়ন্ত্রনের জন্য (F):">
+<!ENTITY LabelFor.label "নিয়ন্ত্রণের জন্য (F):">
 <!ENTITY LabelFor.accesskey "F">
 <!ENTITY AccessKey.label "প্রবেশ কী (K):">
 <!ENTITY AccessKey.accesskey "K">

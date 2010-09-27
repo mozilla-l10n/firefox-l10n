@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "অপ্রয়োজনীয় মেইল সেটিং">
-<!ENTITY trainingWarning.label "যদি সক্রিয় থাকে, বার্তাসমূহ অপ্রয়োজনীয় নাকি না চিহ্নিত করতে, আপনাকে অবশ্যই প্রথমত &brandShortName; কে প্রশিক্ষণ দিতে হবে, যাতে অপ্রয়োজনীয় মেইলের টুলবার বোতাম ব্যবহার করে অপ্রয়োজনীয় মেইল সনাক্ত করা যায়। আপনাকে অপ্রয়োজনীয় এবং প্রয়োজনীয় উভয় ধরনের বার্তাই সনাক্ত করতে হবে।">
-<!ENTITY level.label "এই একাউন্টটির জন্য উপযুক্ত অপ্রয়োজনীয় কন্ট্রোল সক্রিয় করা হবে (E)">
+<!ENTITY junkSettings.label "অপ্রয়োজনীয় মেইল সেটিংসমূহ">
+<!ENTITY trainingWarning.label "যদি সক্রিয় থাকে, বার্তাসমূহ অপ্রয়োজনীয় নাকি তা চিহ্নিত করতে, আপনাকে অবশ্যই প্রথমত &brandShortName; কে প্রশিক্ষণ দিতে হবে, যাতে অপ্রয়োজনীয় মেইলের টুলবার বোতাম ব্যবহার করে অপ্রয়োজনীয় মেইল সনাক্ত করা যায়। আপনাকে অপ্রয়োজনীয় এবং প্রয়োজনীয় উভয় ধরনের বার্তাই সনাক্ত করতে হবে।">
+<!ENTITY level.label "এই অ্যাকাউন্টটির জন্য উপযুক্ত অপ্রয়োজনীয় কন্ট্রোল সক্রিয় করা হবে (E)">
 <!ENTITY level.accesskey "E">
 
-<!ENTITY move.label "যেখানে নতুন অপ্রয়োজনীয় বার্তা সরানো হবে (M):">
+<!ENTITY move.label "যেখানে নতুন অপ্রয়োজনীয় বার্তা সরানো হবে: (M)">
 <!ENTITY move.accesskey "M">
 <!ENTITY junkFolderOn.label "যার &quot;Junk&quot; ফোল্ডার:">
 <!ENTITY junkFolderOn.accesskey "J">
-<!ENTITY otherFolder.label "অন্যান্য (O):">
+<!ENTITY otherFolder.label "অন্যান্য: (O)">
 <!ENTITY otherFolder.accesskey "O">
 <!ENTITY purge1.label "স্বয়ংক্রিয়ভাবে অপ্রয়োজনীয় মেইল মুছে ফেলা হবে, অপেক্ষাকৃত পুরনো (u)">
 <!ENTITY purge1.accesskey "u">
-<!ENTITY purge2.label "দিনের">
+<!ENTITY purge2.label "দিন">
 
-<!ENTITY whitelist.label "প্রেরক যার অভ্যন্তরে থাকলে, মেইল অপ্রয়োজনীয় হিসেবে চিহ্নিত করা হবে না (D):">
+<!ENTITY whitelist.label "প্রেরক যে মেইলে থাকলে, মেইল অপ্রয়োজনীয় হিসেবে চিহ্নিত করা হবে না: (D)">
 <!ENTITY whitelist.accesskey "D">
 
-<!ENTITY ispHeaders.label "যার দ্বারা নির্ধারিত অপ্রয়োজনীয় মেইল শীর্ষচরণে বিশ্বাস করা হবে (T):">
+<!ENTITY ispHeaders.label "যার দ্বারা নির্ধারিত অপ্রয়োজনীয় মেইল শীর্ষচরণে বিশ্বাস করা হবে: (T)">
 <!ENTITY ispHeaders.accesskey "T">

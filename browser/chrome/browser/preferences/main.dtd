@@ -1,12 +1,12 @@
-<!ENTITY startup.label "প্রারম্ভ">
+<!ENTITY startup.label "আরম্ভ">
 
 <!ENTITY startupPage.label "&brandShortName; আরম্ভের সময় (S):">
 <!ENTITY startupPage.accesskey "s">
-<!ENTITY startupHomePage.label "হোম পেজ প্রদর্শন করা হবে">
+<!ENTITY startupHomePage.label "প্রধান পাতা প্রদর্শন করা হবে">
 <!ENTITY startupBlankPage.label "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
 <!ENTITY startupLastSession.label "সর্বশেষ উইন্ডো ও ট্যাব প্রদর্শন করা হবে">
-<!ENTITY location.label "হোম পেজ (H):">
-<!ENTITY location.accesskey "H">
+<!ENTITY homepage.label "Home Page:">
+<!ENTITY homepage.accesskey "P">
 <!ENTITY useCurrentPage.label "বর্তমান পৃষ্ঠা প্রয়োগ করা হবে (C)">
 <!ENTITY useCurrentPage.accesskey "C">
 <!ENTITY useMultiple.label "বর্তমান পৃষ্ঠাগুলি প্রয়োগ করা হবে">
@@ -21,13 +21,13 @@
 <!ENTITY showWhenDownloading.accesskey "D">
 <!ENTITY closeWhenDone.label "সব ডাউনলোড সম্পন্ন হলে উইন্ডোটি বন্ধ করা হবে (W)">
 <!ENTITY closeWhenDone.accesskey "w">
-<!ENTITY saveTo.label "ফাইল সংরক্ষনের স্থান (V)">
+<!ENTITY saveTo.label "ফাইল সংরক্ষণের স্থান (V)">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label "ব্রাউজ... (O)">
 <!ENTITY chooseFolderWin.accesskey "o">
 <!ENTITY chooseFolderMac.label "নির্বাচন... (e)">
 <!ENTITY chooseFolderMac.accesskey "e">
-<!ENTITY alwaysAsk.label "ফাইল সংরক্ষণের স্থান সবসময় জিজ্ঞাসা করা হবে (A)">
+<!ENTITY alwaysAsk.label "ফাইল সংরক্ষণের স্থান সবসময় জিজ্ঞেস করা হবে (A)">
 <!ENTITY alwaysAsk.accesskey "A">
 
 <!ENTITY addonsMgr.label "অ্যাড-অন">

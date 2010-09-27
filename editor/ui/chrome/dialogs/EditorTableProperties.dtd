@@ -85,7 +85,7 @@
 <!ENTITY cellVertical.accessKey "V">
 <!ENTITY cellStyle.label "ঘরের শৈলী (C):">
 <!ENTITY cellStyle.accessKey "C">
-<!ENTITY cellNormal.label "সাধারন">
+<!ENTITY cellNormal.label "সাধারণ">
 <!ENTITY cellHeader.label "শীর্ষচরণ">
 <!ENTITY cellTextWrap.label "পাঠ্য মোড়ানো (T):">
 <!ENTITY cellTextWrap.accessKey "T">
@@ -96,7 +96,7 @@
 <!ENTITY cellAlignBottom.label "নিচে">
 <!ENTITY cellAlignJustify.label "উভয়প্রান্তিক">
 <!ENTITY cellInheritColor.label "(বিষয়বস্তু ভেদ করে সারণির রং দেখানো হবে)">
-<!ENTITY cellUseCheckboxHelp.label "সব নির্বাচিত ঘরে, কোন বৈশিষ্ট্য প্রয়োগ করা হবে তা নির্ধারন করার জন্য চেক বাক্স ব্যবহার করুন">
+<!ENTITY cellUseCheckboxHelp.label "সব নির্বাচিত ঘরে, কোন বৈশিষ্ট্য প্রয়োগ করা হবে তা নির্ধারণ করার জন্য চেক বাক্স ব্যবহার করুন">
 <!-- Used in both Table and Cell panels  -->
 
 <!ENTITY size.label "আকার">

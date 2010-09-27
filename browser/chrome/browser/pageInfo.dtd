@@ -88,7 +88,7 @@
 <!ENTITY permTab "অনুমোদন (P)">
 <!ENTITY permTab.accesskey "P">
 <!ENTITY permUseDefault "ডিফল্ট ব্যবহার করা হবে">
-<!ENTITY permAskAlways "সবসময় জিজ্ঞাসা করা হবে">
+<!ENTITY permAskAlways "সবসময় জিজ্ঞেস করা হবে">
 <!ENTITY permAllow "অনুমোদন করা হবে">
 <!ENTITY permAllowSession "এই সেশনের জন্য অনুমোদন করা হবে">
 <!ENTITY permBlock "প্রতিরোধ করা হবে">
@@ -97,7 +97,11 @@
 <!ENTITY permPopup "পপ-আপ উইন্ডো খোলা">
 <!ENTITY permCookie "কুকি নির্ধারণ">
 <!ENTITY permInstall "এক্সটেনশন বা থীম ইনস্টলেশন">
-<!ENTITY permGeo "Share Location">
+<!ENTITY permGeo "শেয়ার অবস্থান">
+
+<!ENTITY permIndexedDB "Maintain Offline Storage">
+<!ENTITY permClearStorage "Clear Storage">
+<!ENTITY permClearStorage.accesskey "C">
 
 <!ENTITY securityTab "নিরাপত্তা (S)">
 <!ENTITY securityTab.accesskey "S">
@@ -112,7 +116,7 @@
 <!ENTITY securityView.identity.domain "ওয়েবসাইট: ">
 <!ENTITY securityView.identity.verifier "যাচাইকারী: ">
 
-<!ENTITY securityView.privacy.header "গোপনতা ও ইতিহাস">
+<!ENTITY securityView.privacy.header "গোপণীয়তা ও ইতিহাস">
 <!ENTITY securityView.privacy.history "আগে কোন সময় এই ওয়েবসাইট আমি পরিদর্শন করেছি কি?">
 <!ENTITY securityView.privacy.cookies "এই ওয়েবসাইট কি আমার কম্পিউটারে তথ্য (কুকি) সংরক্ষণ করছে?">
 <!ENTITY securityView.privacy.viewCookies "কুকি পরিদর্শন (K)">

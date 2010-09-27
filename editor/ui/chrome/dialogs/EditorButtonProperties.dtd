@@ -41,7 +41,7 @@
 <!ENTITY ButtonType.label "ধরণ (T)">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "জমা">
-<!ENTITY reset.value "রিসেট">
+<!ENTITY reset.value "পুনঃনির্ধারণ">
 <!ENTITY button.value "বোতাম">
 
 <!ENTITY ButtonName.label "নাম (N):">

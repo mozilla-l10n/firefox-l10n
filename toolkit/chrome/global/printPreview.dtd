@@ -35,14 +35,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label "মুদ্রণ... (P)">
+<!ENTITY print.label "মুদ্রণ… (P)">
 <!ENTITY print.accesskey "P">
-<!ENTITY pageSetup.label "পৃষ্ঠার বিন্যাস... (u)">
+<!ENTITY pageSetup.label "পৃষ্ঠার সেটআপ… (u)">
 <!ENTITY pageSetup.accesskey "u">
-<!ENTITY page.label "পৃষ্ঠা (a):">
+<!ENTITY page.label "পৃষ্ঠা: (a)">
 <!ENTITY page.accesskey "a">
 <!ENTITY of.label "সর্বমোট">
-<!ENTITY scale.label "মাপ (S):">
+<!ENTITY scale.label "আকার পরিবর্তন: (S)">
 <!ENTITY scale.accesskey "S">
 <!ENTITY portrait.label "লম্বালম্বি (o)">
 <!ENTITY portrait.accesskey "o">
@@ -62,11 +62,11 @@
 <!ENTITY p150.label "150&#037;">
 <!ENTITY p175.label "175&#037;">
 <!ENTITY p200.label "200&#037;">
-<!ENTITY Custom.label "স্বনির্ধারিত...">
-<!ENTITY ShrinkToFit.label "সংকোচন করে মাপসই করা হবে">
-<!ENTITY customPrompt.title "স্বনির্ধারিত মাপ...">
+<!ENTITY Custom.label "স্বনির্ধারিত…">
+<!ENTITY ShrinkToFit.label "মানানসই করার জন্য সংকোচন করা হবে">
+<!ENTITY customPrompt.title "স্বনির্ধারিত আকার পরিবর্তন…">
 
 <!ENTITY homearrow.tooltip "প্রথম পৃষ্ঠা">
-<!ENTITY endarrow.tooltip "সর্বশেষ পৃষ্ঠা">
-<!ENTITY rightarrow.tooltip "পরবর্তী পৃষ্ঠা">
-<!ENTITY leftarrow.tooltip "পূর্ববর্তী পৃষ্ঠা">
+<!ENTITY endarrow.tooltip "শেষ পৃষ্ঠা">
+<!ENTITY nextarrow.tooltip "Next page">
+<!ENTITY previousarrow.tooltip "Previous page">

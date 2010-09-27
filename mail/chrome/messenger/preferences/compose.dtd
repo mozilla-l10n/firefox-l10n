@@ -18,7 +18,7 @@
 <!ENTITY fontColor.accesskey "T">
 <!ENTITY bgColor.label "পটভূমির রং (B):">
 <!ENTITY bgColor.accesskey "B">
-<!ENTITY restoreHTMLDefaults.label "ডিফল্ট মানে ফিরানো  হবে (R)">
+<!ENTITY restoreHTMLDefaults.label "ডিফল্ট মান পুনঃনির্ধারণ (R)">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
 
 <!ENTITY spellCheck.label "প্রেরণের পূর্বে বানান পরীক্ষা করা হবে (C)">
@@ -37,7 +37,7 @@
 
 <!ENTITY emailCollectionPicker.label "যেখানে স্বয়ংক্রিয়ভাবে বহিঃর্গামী ই-মেইল ঠিকানা যোগ করা হবে:">
 <!ENTITY emailCollectionPicker.accesskey "A">
-<!ENTITY addressingTitle.label "ঠিকানা স্বয়ংক্রিয়-সম্পূর্নকরণ">
+<!ENTITY addressingTitle.label "ঠিকানা স্বয়ংক্রিয়-সম্পূর্ণকরণ">
 <!ENTITY autocompleteText.label "বার্তার ঠিকানা দেয়ার সময়, যেখানে মিল খোঁজা হবে:">
 <!ENTITY addressingEnable.label "স্থানীয় ঠিকানা বই (L)">
 <!ENTITY addressingEnable.accesskey "L">

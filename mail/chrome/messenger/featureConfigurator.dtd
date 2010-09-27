@@ -1,0 +1,89 @@
+<!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the Migration Assistant page. It should match featureConfiguratorCmd.label in baseMenuOverlay.dtd -->
+<!ENTITY featureConfigurator.title "মাইগ্রেশন এসিস্ট্যান্ট">
+<!-- LOCALIZATION NOTE (featureConfigurator.heading1): Heading for the page -->
+
+<!ENTITY featureConfigurator.heading1 "নতুন &brandShortName; বৈশিষ্ট্যসমূহ সম্পর্কে জানা">
+<!-- LOCALIZATION NOTE (featureConfigurator.para.1): The tone of this paragraph is important: we tried for a tone that promotes the new features (which we believe are good and worth users learning about), but also emphasizing that we think it's important to preserve user choice. -->
+
+<!ENTITY featureConfigurator.para.1 "&brandShortName; এর এই নতুন সংস্করণটিতে জোরালো কিছু নতুন বৈশিষ্ট্য অন্তর্ভূক্ত করা হয়েছে যার জন্য আমরা গর্বিত, এবং সম্ভবত বেশীরভাগ মানুষ এটা পছন্দ করবে। মানুষের রুচি ও প্রয়োজন বিভিন্ন রকমের, তাই আমরা &brandShortName; কে কন্ট্রোল ও স্বনির্ধারণ করা সহজতর করেছি।">
+<!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
+
+<!ENTITY featureConfigurator.para.2 "এই নতুন সেটিংসমূহ কনফিগার করতে এই পৃষ্ঠাটি ব্যবহার করুন। আপনি সর্বদাই সহায়তা মেনু থেকে মাইগ্রেশন এসিস্ট্যান্টের কাছে ফিরে যেতে পারেন।">
+
+<!ENTITY featureConfigurator.toolbar.heading "নতুন বার্তা টুলবার">
+<!ENTITY featureConfigurator.toolbar.new "বার্তার বোতাম টুলবার">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "আপনার সব বার্তা বোতামসহ একটি পরিস্কার টুলবার আপনার হাতের কাছে।">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+
+<!ENTITY featureConfigurator.toolbar.original "আপনার আদি টুলবার বোতাম রাখুন">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "নতুন বার্তার বোতাম ছাড়াও যেকোনো স্বনির্ধারিত টুলবার বোতাম রাখতে পারেন।">
+
+<!ENTITY featureConfigurator.toolbarBenefits.para "বার্তা অ্যাকশন, যেমন জবাব এবং ফরওয়ার্ড, টুলবার থেকে সরিয়ে বার্তা শীর্ষচরণে নেয়া হয়েছে। এটি বার্তার সাথে অ্যাকশন বোতামকে সরাসরি যুক্ত করে, ফলে টুলবারে বেশি গুরুত্বপূর্ণ টেক্সটবক্স এবং অ্যাড-অনের জন্যও স্থান পাওয়া যায়।">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
+
+<!ENTITY featureConfigurator.addOn.installing "ইনস্টল করা হচ্ছে…">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
+
+<!ENTITY featureConfigurator.addOn.installed "ইনস্টল করা হয়েছে">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
+
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "এই এক্সটেনশনটি ইতিমধ্যেই ইনস্টল করা হয়েছে।">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.heading): The heading for the Compact Header page. -->
+
+<!ENTITY featureConfigurator.collapsedHeaders.heading "কমপ্যাক্ট শীর্ষচরণ">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.weak): The paragraph to display if the user hadn't previously used the collapsed headers feature. -->
+
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "কমপ্যাক্ট বার্তা পাঠক প্রদর্শনী এর নিজস্ব এক্সটেনশনে সরানো হয়েছে যেখানে এটি এখন অনেক বেশী দৃষ্টি আকর্ষণ ও অপশন পাচ্ছে।">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
+
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "আমরা লক্ষ্য করেছি যে আপনি কমপ্যাক্ট বার্তা পাঠক শীর্ষচরণ ব্যবহার করছিলেন।  এই ফাংশনটি এর নিজস্ব এক্সটেনশনে সরানো হয়েছে এবং আপনি যদি এটি ব্যবহার করতে চান তবে আমরা আপনাকে এটা এখানে ইনস্টল করার পরামর্শ দিচ্ছি।">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
+
+<!ENTITY featureConfigurator.collapsedHeaders.install "কমপ্যাক্ট শীর্ষচরণ ইনস্টল…">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.heading): The heading for the Folder Columns page. -->
+
+<!ENTITY featureConfigurator.folderColumns.heading "উন্নত ফোল্ডার কলাম ">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
+
+<!ENTITY featureConfigurator.folderColumns.para.weak "অতিরিক্ত ফোল্ডার কলাম এক্সটেনশন প্রারম্ভিকভাবে উন্নত পছন্দসমূহকে প্রতিস্থাপন করে।  যথার্থ সংখ্যক বার্তার ট্যাব রাখতে এবং প্রতিটি ফোল্ডার দ্বারা ব্যবহৃত ডিস্কের জায়গা দেখতে আপনি এই এক্সটেনশনটি ইনস্টল করতে চাইতে পারেন।">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
+
+<!ENTITY featureConfigurator.folderColumns.para.strong "আমরা লক্ষ্য করেছি যে আপনি উন্নত ফোল্ডার কলাম ব্যবহার করছিলেন।  এই বৈশিষ্ট্যটি এর নিজস্ব এক্সটেনশনে সরানো হয়েছে, এবং আমরা আপনাকে পরামর্শ দিচ্ছি আপনি এখানে এটা ইনস্টল করুন।">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
+
+<!ENTITY featureConfigurator.folderColumns.install "অতিরিক্ত কলাম ইনস্টল…">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
+
+<!ENTITY featureConfigurator.autoSync.heading "ডিস্কের জায়গা">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
+
+<!ENTITY featureConfigurator.autoSync.para "&brandShortName; এর নতুন সংস্করণটি নতুন এবং অপেক্ষাকৃত ভালো অনুসন্ধানের বৈশিষ্ট্যাবলী সম্বলিত।  এই নতুন অনুসন্ধানের অভিজ্ঞতা পেতে হলে আপনাকে আপনার ইমেইল বার্তাসমূহ সমকালীন করতে হবে। ">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
+
+<!ENTITY featureConfigurator.autoSync.on "সমকালীন">
+<!ENTITY featureConfigurator.autoSync.on.explanation "এর ফলে আপনি দ্রুত বার্তা লোড করতে পারবেন এবং অনুসন্ধানের পর অপেক্ষাকৃত ভালো ফলাফল পাবেন।">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
+
+<!ENTITY featureConfigurator.autoSync.off "সমকালীন করা হবে না">
+<!ENTITY featureConfigurator.autoSync.off.explanation "এর ফলে বার্তা লোড করার সময় ধীর হবে এবং অসম্পূর্ণ অনুসন্ধান ফলাফল প্রদর্শিত হবে।">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
+
+<!ENTITY featureConfigurator.autoSync.some "প্রতিটি অ্যাকাউন্ট সমকালীন">
+<!ENTITY featureConfigurator.autoSync.some.explanation "প্রতিটি অ্যাকাউন্ট ও ফোল্ডার অনুযায়ী স্বনির্ধারিতভাবে সমকালীন করা হবে।">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
+
+<!ENTITY featureConfigurator.diskSpace.currentSize "বর্তমানে আপনার ব্যবহৃত সর্বমোট ইমেইল:">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.freeSpace): The label for the current amount of free space available on your hard disk. -->
+
+<!ENTITY featureConfigurator.diskSpace.freeSpace "ফাঁকা জায়গা:">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
+
+<!ENTITY featureConfigurator.diskSpace.requireSpace "প্রয়োজনীয়:">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
+
+<!ENTITY featureConfigurator.diskSpace.warning "আপনার এখানে যথেষ্ট পরিমাণ জায়গা নেই!">
+
+
+<!ENTITY featureConfigurator.previousButton "পূর্ববর্তী ">
+<!ENTITY featureConfigurator.nextButton "পরবর্তী">
+<!ENTITY featureConfigurator.closeButton "বন্ধ">

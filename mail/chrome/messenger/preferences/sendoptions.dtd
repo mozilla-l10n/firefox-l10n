@@ -1,7 +1,7 @@
 <!ENTITY dialog.title "প্রেরণের অপশন">
 <!ENTITY sendMail.title "টেক্সট বিন্যাস">
 <!ENTITY sendMaildesc.label "HTML ফরম্যাটে বার্তা পাঠানোর সময় যদি HTML বার্তা গ্রহনে অক্ষম এমন তালিকাভুক্ত কোন প্রাপক   থাকে:">
-<!ENTITY askMe.label "আমাকে জিজ্ঞাস করা হবে (k)">
+<!ENTITY askMe.label "আমাকে জিজ্ঞেস করা হবে (k)">
 <!ENTITY askMe.accesskey "k">
 <!ENTITY convertPlain.label "বার্তাকে সরল টেক্সটে রূপান্তর করা হবে (C)">
 <!ENTITY convertPlain.accesskey "C">
@@ -20,9 +20,9 @@
 <!ENTITY AddHtmlDomain.accesskey "A">
 <!ENTITY AddPlainText.label "যোগ... (A)">
 <!ENTITY AddPlainText.accesskey "A">
-<!ENTITY DeleteHtmlDomain.label "মুছে ফেলুন (D)">
+<!ENTITY DeleteHtmlDomain.label "মুছে ফেলা হবে (D)">
 <!ENTITY DeleteHtmlDomain.accesskey "D">
-<!ENTITY DeletePlainText.label "মুছে ফেলুন (D)">
+<!ENTITY DeletePlainText.label "মুছে ফেলা হবে (D)">
 <!ENTITY DeletePlainText.accesskey "D">
 
 <!ENTITY add.htmltitle "HTML ডোমেইন নাম যোগ করা হবে">

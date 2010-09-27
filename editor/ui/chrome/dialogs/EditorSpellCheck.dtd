@@ -65,7 +65,7 @@
 <!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "বন্ধ করুন (C)">
 <!ENTITY closeButton.accessKey "C">
-<!ENTITY sendButton.label "প্রেরন করুন (S)">
+<!ENTITY sendButton.label "প্রেরণ করুন (S)">
 <!ENTITY sendButton.accessKey "S">
 <!ENTITY languagePopup.label "ভাষা (L):">
 <!ENTITY languagePopup.accessKey "L">

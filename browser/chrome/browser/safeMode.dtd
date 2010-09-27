@@ -45,13 +45,13 @@
 <!ENTITY disableAddons.label "সব অ্যাড-অন নিষ্ক্রিয় করা হবে (D)">
 <!ENTITY disableAddons.accesskey "D">
 
-<!ENTITY resetToolbars.label "টুলবার ও কন্ট্রোল রিসেট (R)">
+<!ENTITY resetToolbars.label "টুলবার ও কন্ট্রোল পুনঃনির্ধারণ (R)">
 <!ENTITY resetToolbars.accesskey "R">
 
-<!ENTITY deleteBookmarks.label "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.label "ব্যাকআপে রাখা বুকমার্ক ছাড়া সব বুকমার্ক মুছে ফেলুন (b)">
 <!ENTITY deleteBookmarks.accesskey "b">
 
-<!ENTITY resetUserPrefs.label "ব্যবহারকারীর পছন্দসমূহ &brandShortName; এর ডিফল্ট মানে রিসেট (P)">
+<!ENTITY resetUserPrefs.label "ব্যবহারকারীর পছন্দসমূহ &brandShortName; এর ডিফল্ট মানে পুনঃনির্ধারণ (P)">
 <!ENTITY resetUserPrefs.accesskey "p">
 
 <!ENTITY restoreSearch.label "ডিফল্ট অনুসন্ধান ইনজিন পুনঃস্থাপন (S)">

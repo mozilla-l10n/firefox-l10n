@@ -36,13 +36,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY validation.crlmanager.label "CRLs ব্যবস্থাপনা">
-<!ENTITY validation.crlmanager.description "সার্টিফিকেট প্রত্যাহারের এই তালিকাগুলো (CRL) আপনার সার্টিফিকেট ডেটাবেসে সংরক্ষণ করা হয়েছে:">
+<!ENTITY validation.crlmanager.description "সার্টিফিকেট প্রত্যাহারের এই তালিকাগুলো (CRL) আপনার সার্টিফিকেট ডাটাবেসে সংরক্ষণ করা হয়েছে:">
 <!ENTITY validation.crlname.label "নাম">
 <!ENTITY validation.crllastupdate.label "সর্বশেষ আপডেট">
 <!ENTITY validation.crlnextupdate.label "পরবর্তী আপডেট">
 <!ENTITY validation.crlautoupdateenabled.label "স্বয়ংক্রিয় আপডেট">
 <!ENTITY validation.crlautoupdatestatus.label "স্বয়ংক্রিয় আপডেটের অবস্থা">
-<!ENTITY validation.deletecrl.label "অপসারণ (D)">
+<!ENTITY validation.deletecrl.label "মুছে ফেলা হবে (D)">
 <!ENTITY validation.deletecrl.accesskey "D">
 <!ENTITY validation.updatecrl.label "আপডেট (U)">
 <!ENTITY validation.updatecrl.accesskey "U">

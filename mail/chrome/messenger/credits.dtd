@@ -1,6 +1,5 @@
 <!ENTITY credit.title "&brandFullName; কৃতিত্ব">
 <!ENTITY brandMotto "থান্ডারবার্ড প্রস্তুত!">
-<!ENTITY credit.leads "প্রধান প্রকৌশলী">
 <!ENTITY credit.thanks "বিশেষ ধন্যবাদ">
 <!-- localization credits look like this: -->
 <!--
@@ -10,8 +9,5 @@
 
 <!ENTITY credit.translation "<h3>অনুবাদকবৃন্দ</h3><ul><li>সামিয়া নিয়ামতউল্লাহ</li><li>ইসরাত জাহান</li><li>মু: রেজওয়ান শহীদ</li><li>মো: নাছিমুল আমিন</li></ul>">
 
-<!ENTITY credit.theme "থীম ডিজাইন">
-<!ENTITY credit.qa "গুনগত মান নিশ্চিতকরণ">
-<!ENTITY credit.build "তৈরী এবং প্রকাশ">
 <!ENTITY credit.memory "স্মৃতিতে">
-<!ENTITY credit.poweredByGecko "Gecko&trade; দ্বারা চালিত">
+<!ENTITY credit.poweredByGecko "Gecko&trade; এর পৃষ্ঠপোষকতায়">

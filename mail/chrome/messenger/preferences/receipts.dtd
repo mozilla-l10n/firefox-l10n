@@ -17,6 +17,6 @@
 <!ENTITY outsideDomain.accesskey "t">
 <!ENTITY otherCases.label "অন্য সকল ক্ষেত্রে (a):">
 <!ENTITY otherCases.accesskey "a">
-<!ENTITY askMe.label "আমাকে জিজ্ঞাস করা হবে">
+<!ENTITY askMe.label "আমাকে জিজ্ঞেস করা হবে">
 <!ENTITY alwaysSend.label "সর্বদা পাঠানো হবে">
 <!ENTITY neverSend.label "কখনও পাঠানো হবে না">

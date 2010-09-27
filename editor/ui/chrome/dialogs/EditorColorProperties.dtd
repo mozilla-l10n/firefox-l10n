@@ -45,7 +45,7 @@
 <!ENTITY customColorsRadio.accessKey "C">
 <!ENTITY customColorsRadio.tooltip "এই রঙের সেটিং পাঠকের ব্রাউজারের সেটিং উপেক্ষা করে">
 
-<!ENTITY normalText.label "সাধারন পাঠ্য (N)">
+<!ENTITY normalText.label "সাধারণ পাঠ্য (N)">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "লিংক পাঠ্য (L)">
 <!ENTITY linkText.accessKey "L">

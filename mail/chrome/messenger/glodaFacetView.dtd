@@ -1,8 +1,16 @@
 <!-- LOCALIZATION NOTE (glodaFacetView.filters.label): Label at the top of the
      faceting sidebar.  Serves as a header both for the checkboxes under it as
      well for labeled facets with multiple options. -->
-<!ENTITY glodaFacetView.filters.label "Filter by:">
+<!ENTITY glodaFacetView.filters.label "ফিল্টার">
+<!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
+     the search results take a long time to appear. -->
 
-<!-- LOCALIZATION NOTE (glodaFacetView.showMore.label): Label at the bottom
+<!ENTITY glodaFacetView.loading.label "অনুসন্ধান করা হচ্ছে&#8230;">
+<!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
+     there are no results that match the search query. -->
+
+<!ENTITY glodaFacetView.empty.label "আপনার অনুসন্ধানের সাথে কোনো বার্তার মিল পাওয়া যায়নি">
+<!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
-<!ENTITY glodaFacetView.showMore.label "Show more hits">
+
+<!ENTITY glodaFacetView.pageMore.label "আরও &#187;">

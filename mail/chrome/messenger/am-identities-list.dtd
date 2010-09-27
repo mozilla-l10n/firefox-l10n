@@ -1,7 +1,7 @@
-<!ENTITY identitiesListDesc.label "বহুবিধ পরিচয়ের সমর্থন">
-<!ENTITY identitiesListAdd.label "যোগ করুন... (A)">
+<!ENTITY identitiesListDesc.label "একাধিক পরিচয়ের সমর্থন">
+<!ENTITY identitiesListAdd.label "যোগ… (A)">
 <!ENTITY identitiesListAdd.accesskey "A">
-<!ENTITY identitiesListEdit.label "সম্পাদনা... (E)">
+<!ENTITY identitiesListEdit.label "সম্পাদনা… (E)">
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "মুছে ফেলুন (D)">
 <!ENTITY identitiesListDelete.accesskey "D">

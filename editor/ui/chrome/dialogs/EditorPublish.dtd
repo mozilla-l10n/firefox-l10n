@@ -93,6 +93,6 @@
 <!ENTITY password.label "পাসওয়ার্ড (w):">
 <!ENTITY password.accesskey "w">
 <!ENTITY password.tooltip "আপনার ব্যবহারকারী নামের সাথে সংশ্লিষ্ট পাসওয়ার্ড">
-<!ENTITY savePassword.label "পাসওয়ার্ড সংরক্ষন করুন (S)">
+<!ENTITY savePassword.label "পাসওয়ার্ড সংরক্ষণ করুন (S)">
 <!ENTITY savePassword.accesskey "S">
-<!ENTITY savePassword.tooltip "পাসওয়ার্ড ব্যবস্থাপক ব্যবহার করে আপনার পাসওয়ার্ড নিরাপদভাবে সংরক্ষন করতে এটি নির্বাচন করুন">
+<!ENTITY savePassword.tooltip "পাসওয়ার্ড ব্যবস্থাপক ব্যবহার করে আপনার পাসওয়ার্ড নিরাপদভাবে সংরক্ষণ করতে এটি নির্বাচন করুন">

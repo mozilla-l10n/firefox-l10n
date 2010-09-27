@@ -57,33 +57,57 @@
 
 <!ENTITY editMessageDescription.label "এটি একটি খসড়া বার্তা">
 <!ENTITY editMessageButton.label "সম্পাদনা...">
-<!ENTITY archiveButton.label "আর্কাইভ">
+<!ENTITY hdrArchiveButton.label "আর্কাইভ">
+<!ENTITY hdrArchiveButton.tooltip "এই বার্তাটি আর্কাইভ করা হবে">
 <!ENTITY hdrReplyButton.label "উত্তর">
+<!ENTITY hdrReplyButton.tooltip "বার্তাটির উত্তর পাঠানো হবে">
 <!ENTITY hdrReplyAllButton.label "সবাই কে উত্তর দেয়া হবে">
+<!ENTITY hdrReplyAllButton.tooltip "প্রেরক এবং সব প্রাপককে উত্তর পাঠানো হবে">
 <!ENTITY hdrReplyListButton.label "উত্তর প্রেরণের ঠিকানা">
+<!ENTITY hdrReplyListButton.tooltip "মেইলিং লিস্টে উত্তর দেয়া হবে">
 <!ENTITY hdrForwardButton.label "ফরওয়ার্ড">
+<!ENTITY hdrForwardButton.tooltip "বার্তাটি ফরওয়ার্ড করা হবে">
 <!ENTITY hdrJunkButton.label "অপ্রয়োজনীয়">
-<!ENTITY trashButton.tooltiptext "মুছে ফেলা">
+<!ENTITY hdrJunkButton.tooltip "হাবি জাবি হিসেবে বার্তাটি চিহ্নিত করা হবে">
+<!ENTITY hdrTrashButton.label "মুছে ফেলা">
+<!ENTITY hdrTrashButton.tooltip "বার্তাটি মুছে ফেলা হবে">
+
+<!ENTITY hdrViewToolbarShowFull.label "আইকন এবং টেক্সট প্রদর্শন (a)">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "শুধু আইকন প্রদর্শন (I)">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowText.label "শুধু টেক্সট প্রদর্শন (T)">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "প্রেরককে সবসময় উত্তর দেখানো হবে (R)">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton.label "অন্যান্য ক্রিয়া">
-<!ENTITY otherActionsOpenInNewWindow.label "open in new window">
+<!ENTITY otherActionsOpenConversation.label "কথোপকথনে খুলুন (c)">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow.label "নতুন উইন্ডোতে খুলুন (w)">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "w">
-<!ENTITY otherActionsOpenInNewTab.label "open in new tab">
+<!ENTITY otherActionsOpenInNewTab.label "নতুন ট্যাবে খুলুন (t)">
 <!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY saveAsMenuItem.label "নতুনভাবে সংরক্ষন... (s)">
+<!ENTITY markAsReadMenuItem.label "পঠিত হিসেবে চিহ্নিত করা হবে (r)">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "অপঠিত হিসেবে চিহ্নিত করুন (r)">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
+<!ENTITY saveAsMenuItem.label "নতুনভাবে সংরক্ষণ... (s)">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "সোর্স দেখা... (v)">
 <!ENTITY viewSourceMenuItem.accesskey "v">
-<!ENTITY otherActionsPrint.label "print…">
+<!ENTITY otherActionsPrint.label "মুদ্রণ… (p)">
 <!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label "খুলুন (O)">
 <!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "নতুনভাবে সংরক্ষন... (A)">
+<!ENTITY saveAsAttachmentCmd.label "নতুনভাবে সংরক্ষণ... (A)">
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
 <!ENTITY detachAttachmentCmd.label "আলাদা করা…">
 <!ENTITY deleteAttachmentCmd.label "মুছে ফেলা">
-<!ENTITY saveAllAttachmentsCmd.label "সব সংরক্ষন... (S)">
+<!ENTITY openAllAttachmentsCmd.label "Open All…">
+<!ENTITY openAllAttachmentsCmd.accesskey "O">
+<!ENTITY saveAllAttachmentsCmd.label "সব সংরক্ষণ... (S)">
 <!ENTITY saveAllAttachmentsCmd.accesskey "S">
 <!ENTITY detachAllAttachmentsCmd.label "সব আলাদা করা... (D)">
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">

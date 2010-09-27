@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY all.label "সকল শীর্ষচরণ ডাউনলোড করা হবে (D)">
+<!ENTITY all.label "সব শীর্ষচরণ ডাউনলোড (D)">
 <!ENTITY all.accesskey "D">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
@@ -49,5 +49,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label "শীর্ষচরণ (h)">
 <!ENTITY headers.accesskey "h">
-<!ENTITY mark.label "অবশিষ্ট শীর্ষচরণ পঠন হিসেবে চিহ্নিত করা হবে (M)">
+<!ENTITY mark.label "অবশিষ্ট শীর্ষচরণ পঠিত হিসেবে চিহ্নিত করা হবে (M)">
 <!ENTITY mark.accesskey "M">

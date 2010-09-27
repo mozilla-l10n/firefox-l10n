@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewListTitle.label "বার্তার ভিউ স্বনির্ধারিত করা হবে">
+<!ENTITY mailViewListTitle.label "বার্তার প্রদর্শন স্বনির্ধারিত করা হবে">
 <!ENTITY viewName.label "নাম দেখানো হবে">
 

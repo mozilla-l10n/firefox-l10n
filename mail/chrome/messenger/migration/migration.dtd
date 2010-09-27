@@ -1,12 +1,12 @@
 
 <!ENTITY migrationWizard.title "ইমপোর্ট উইজার্ড">
 
-<!ENTITY importFromWin.label "যে স্থান থেকে অপশন, একাউন্ট সেটিং, ঠিকানা বই, পরিশোধক এবং অন্যান্য তথ্য ইমপোর্ট করা হবে:">
-<!ENTITY importFromNonWin.label "যে স্থান থেকে পছন্দসমূহ, একাউন্ট সেটিং, ঠিকানা বই, পরিশোধক, এবং অন্যান্য তথ্য ইমপোর্ট করা হবে:">
+<!ENTITY importFromWin.label "যে স্থান থেকে অপশন, অ্যাকাউন্ট সেটিং, ঠিকানা বই, পরিশোধক এবং অন্যান্য তথ্য ইমপোর্ট করা হবে:">
+<!ENTITY importFromNonWin.label "যে স্থান থেকে পছন্দসমূহ, অ্যাকাউন্ট সেটিং, ঠিকানা বই, পরিশোধক, এবং অন্যান্য তথ্য ইমপোর্ট করা হবে:">
 
 <!ENTITY importFromNothing.label "কোনো কিছু ইমপোর্ট করা হবে না (D)">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey2.label "নেটস্কেপ 6, 7, মজিলা 1.x বা SeaMonkey (S)">
+<!ENTITY importFromSeamonkey2.label "নেটস্কেপ 6, 7, মোজিলা 1.x বা সিমাংকি (S)">
 <!ENTITY importFromSeamonkey2.accesskey "s">
 <!ENTITY importFromNetscape4.label "নেটস্কেপ 4.x (4)">
 <!ENTITY importFromNetscape4.accesskey "4">

@@ -1,176 +1,178 @@
-<!ENTITY addons.title "অ্যাড-অন">
-<!-- Default window size for the addon manager in pixels -->
+<!ENTITY addons.windowTitle "Add-ons Manager">
+<!ENTITY search.placeholder "Search all add-ons">
+<!ENTITY loading.label "Loading…">
+<!ENTITY listEmpty.installed.label "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.availableUpdates.label "No updates found">
+<!ENTITY listEmpty.recentUpdates.label "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.findUpdates.label "Check For Updates">
+<!ENTITY listEmpty.search.label "Could not find any matching add-ons">
+<!ENTITY listEmpty.button.label "Learn more about add-ons">
+<!ENTITY installAddonFromFile.label "Install Add-on From File…">
+<!ENTITY installAddonFromFile.accesskey "I">
+<!ENTITY toolsMenu.tooltip "Tools for all add-ons">
 
-<!ENTITY em.width "520">
-<!ENTITY em.height "380">
+<!ENTITY cmd.back.tooltip "Go back one page">
+<!ENTITY cmd.forward.tooltip "Go forward one page">
+<!-- global warnings -->
 
-<!ENTITY cmd.info.commandKey "i">
-<!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
-<!-- View labels -->
+<!ENTITY warning.safemode.label "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label "Enable">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label "Enable">
+<!ENTITY warning.updatesecurity.enable.tooltip "Enable add-on update security checking">
+<!-- categories / views -->
 
-<!ENTITY search.label "অ্যাড-অন গ্রহন করুন">
-<!ENTITY extensions.label "এক্সটেনশন">
-<!ENTITY themes.label "থীম">
-<!ENTITY locales.label "ভাষা">
-<!ENTITY plugins.label "প্লাগইন">
-<!ENTITY update.label "আপডেট">
-<!ENTITY install.label "ইনস্টলেশন">
-<!-- Command Bar items -->
+<!ENTITY view.search.label "Search">
+<!ENTITY view.discover.label "Get Add-ons">
+<!ENTITY view.locales.label "Languages">
+<!ENTITY view.searchengines.label "Search Engines">
+<!ENTITY view.features.label "Extensions">
+<!ENTITY view.appearance2.label "Appearance">
+<!ENTITY view.plugins.label "Plugins">
+<!ENTITY view.recentUpdates.label "Recent Updates">
+<!ENTITY view.availableUpdates.label "Available Updates">
+<!-- addon updates -->
 
-<!ENTITY cmd.checkUpdatesAll.label "আপডেট অনুসন্ধান (F)">
-<!ENTITY cmd.checkUpdatesAll.accesskey "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "অ্যাড-অনের আপডেট অনুসন্ধান করা হবে">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "থীমের আপডেট অনুসন্ধান করা হবে">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Finds Updates to your Plugins">
-<!ENTITY cmd.installLocalFile.label "ইনস্টল... (n)">
-<!ENTITY cmd.installLocalFile.accesskey "n">
-<!ENTITY cmd.installFileAddon.tooltip "অ্যাড-অন ইনস্টল">
-<!ENTITY cmd.installFileTheme.tooltip "থীম ইনস্টল">
-<!ENTITY cmd.installUpdatesAll2.label "Install Updates">
-<!ENTITY cmd.installUpdatesAll2.accesskey "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip "Install the selected updates">
-<!ENTITY cmd.restartApp2.label "&brandShortName; পুনরায় চালু করা হবে (R)">
-<!ENTITY cmd.restartApp2.accesskey "R">
-<!ENTITY cmd.restartApp2.tooltip "পরিবর্তন কার্যকর করতে &brandShortName; পুনরায় আরম্ভ করা হবে">
-<!ENTITY cmd.skip.label "এড়িয়ে যাওয়া হবে (k)">
-<!ENTITY cmd.skip.accesskey "k">
-<!ENTITY cmd.skip.tooltip "এই আপডেটগুলি এড়িয়ে যাওয়া হবে">
-<!ENTITY cmd.continue.label "চালিয়ে যাওয়া হবে (C)">
-<!ENTITY cmd.continue.accesskey "C">
-<!ENTITY cmd.continue.tooltip "&brandShortName; লোড করা চালিয়ে যাওয়া হবে">
+<!ENTITY updates.checkForUpdates.label "Check for Updates">
+<!ENTITY updates.checkForUpdates.accesskey "C">
+<!ENTITY updates.viewUpdates.label "View Recent Updates">
+<!ENTITY updates.viewUpdates.accesskey "V">
+<!ENTITY updates.updateAddonsAutomatically.label "Update Add-ons Automatically">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Reset All Add-ons to Update Automatically">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
+<!ENTITY updates.resetUpdatesToManual.label "Reset All Add-ons to Update Manually">
+<!ENTITY updates.resetUpdatesToManual.accesskey "R">
+<!ENTITY updates.updating.label "Updating add-ons">
+<!ENTITY updates.installed.label "Your add-ons have been updated.">
+<!ENTITY updates.downloaded.label "Your add-on updates have been downloaded.">
+<!ENTITY updates.restart.label "Restart now to complete installation">
+<!ENTITY updates.noneFound.label "No updates found">
+<!ENTITY updates.manualUpdatesFound.label "View Available Updates">
+<!ENTITY updates.updateSelected.label "Install Updates">
+<!ENTITY updates.updateSelected.tooltip "Install available updates in this list">
+<!-- addon actions -->
 
-<!ENTITY cmd.enableAll.label "সব সক্রিয় করা হবে (A)">
-<!ENTITY cmd.enableAll.accesskey "a">
-<!ENTITY cmd.enableAll.tooltip "প্রদর্শিত সব অ্যাড-অন সক্রিয় করা হবে">
-<!ENTITY cmd.disableAll.label "সব নিষ্ক্রিয় করা হবে (s)">
-<!ENTITY cmd.disableAll.accesskey "s">
-<!ENTITY cmd.disableAll.tooltip "প্রদর্শিত সব অ্যাড-অন নিষ্ক্রিয় করা হবে">
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-
-<!ENTITY cmd.useTheme.label "থীম ব্যবহার করা হবে (T)">
-<!ENTITY cmd.useTheme.accesskey "T">
-<!ENTITY cmd.useTheme.tooltip "&brandShortName; এর থীম পরিবর্তন করা হবে">
-<!ENTITY cmd.options.label "অপশন (O)">
-<!ENTITY cmd.options.accesskey "O">
-<!ENTITY cmd.options.tooltip "নির্বাচিত এক্সটেনশনের জন্য অপশন নির্ধারণ করুন">
-<!ENTITY cmd.optionsUnix.label "পছন্দসমূহ (r)">
-<!ENTITY cmd.optionsUnix.accesskey "R">
-<!ENTITY cmd.optionsUnix.tooltip "নির্বাচিত এক্সটেনশনের জন্য পছন্দসমূহ সম্পাদনা করুন">
-<!ENTITY cmd.enable.label "সক্রিয় (E)">
-<!ENTITY cmd.enable.accesskey "E">
-<!ENTITY cmd.enable.tooltip "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন সক্রিয় করা হবে">
-<!ENTITY cmd.disable.label "নিষ্ক্রিয় (D)">
-<!ENTITY cmd.disable.accesskey "D">
-<!ENTITY cmd.disable.tooltip "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন নিষ্ক্রিয় করা হবে">
-<!ENTITY cmd.uninstall.label "আনইনস্টল (U)">
-<!ENTITY cmd.uninstall2.accesskey "U">
-<!ENTITY cmd.uninstall2.tooltip "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন আনইনস্টল করা হবে">
-<!ENTITY cmd.cancelUninstall.label "আনইনস্টল বাতিল (C)">
-<!ENTITY cmd.cancelUninstall.accesskey "C">
-<!ENTITY cmd.cancelUninstall.tooltip "এই অ্যাড-অনের আনইনস্টল বাতিল করা হবে">
-<!ENTITY cmd.cancelInstall.label "ইনস্টলেশন বাতিল (C)">
-<!ENTITY cmd.cancelInstall.accesskey "C">
-<!ENTITY cmd.cancelInstall.tooltip "এই অ্যাড-অনের ইনস্টলেশন বাতিল করা হবে">
-<!ENTITY cmd.cancelUpgrade.label "আপগ্রেড বাতিল (C)">
-<!ENTITY cmd.cancelUpgrade.accesskey "C">
-<!ENTITY cmd.cancelUpgrade.tooltip "এই অ্যাড-অনের আপগ্রেড বাতিল করা হবে">
-<!ENTITY cmd.installUpdate.label "আপডেট ইনস্টল (I)">
-<!ENTITY cmd.installUpdate.accesskey "I">
-<!ENTITY cmd.installUpdate.tooltip "এই অ্যাড-অনের আপডেট ইনস্টল করা হবে">
-<!ENTITY cmd.showUpdateInfo.label "তথ্য প্রদর্শন (S)">
-<!ENTITY cmd.showUpdateInfo.accesskey "S">
-<!ENTITY cmd.showUpdateInfo.tooltip "এই আপডেটগুলি সম্পর্কে আরও তথ্য দেখানো হবে">
-<!ENTITY cmd.hideUpdateInfo.label "তথ্য আড়াল করা (H)">
-<!ENTITY cmd.hideUpdateInfo.accesskey "H">
-<!ENTITY cmd.hideUpdateInfo.tooltip "এই আপডেটগুলির বিস্তারিত তথ্য আড়াল করা হবে">
-<!ENTITY cmd.installSearchResult.label "&brandShortName; এ যোগ…(A)">
-<!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY cmd.installSearchResult.tooltip "এই অ্যাড-অন ডাউনলোড ও ইনস্টল করা হবে">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "বাতিল (C)">
-<!ENTITY cancel.accesskey "C">
-<!ENTITY cancelInstall.label "বাতিল (C)">
-<!ENTITY cancelInstall.accesskey "C">
-<!ENTITY cancelUpgrade.label "বাতিল (C)">
-<!ENTITY cancelUpgrade.accesskey "C">
-<!-- Only displayed in the selected Add-on's context menu -->
-
-<!ENTITY cmd.homepage.label "হোম পেজে যান ( H)">
-<!ENTITY cmd.homepage.accesskey "H">
-<!ENTITY cmd.about2.label "এই অ্যাড-অনের পরিচিতি (A)">
+<!ENTITY cmd.showDetails.label "Show More Information">
+<!ENTITY cmd.showDetails.accesskey "S">
+<!ENTITY cmd.findUpdates.label "Find Updates">
+<!ENTITY cmd.findUpdates.accesskey "F">
+<!ENTITY cmd.preferencesWin.label "Options">
+<!ENTITY cmd.preferencesWin.accesskey "O">
+<!ENTITY cmd.preferencesUnix.label "Preferences">
+<!ENTITY cmd.preferencesUnix.accesskey "P">
+<!ENTITY cmd.about.label "About">
 <!ENTITY cmd.about.accesskey "A">
-<!ENTITY cmd.checkUpdate.label "আপডেট অনুসন্ধান (F)">
-<!ENTITY cmd.checkUpdate.accesskey "F">
 
-<!ENTITY cmd.includeUpdate.label "আপডেট অন্তর্ভুক্তকরণ (n)">
-<!ENTITY cmd.includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.label "এই আপডেট অন্তর্ভুক্ত করা হবে (n)">
-<!ENTITY includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.tooltip "আপডেট ইনস্টল করার সময় এই অ্যাড-অন অন্তর্ভুক্ত করা হবে">
-<!-- Status Messsages -->
+<!ENTITY cmd.enableAddon.label "Enable">
+<!ENTITY cmd.enableAddon.accesskey "E">
+<!ENTITY cmd.disableAddon.label "Disable">
+<!ENTITY cmd.disableAddon.accesskey "D">
+<!ENTITY cmd.enableTheme.label "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey "W">
+<!ENTITY cmd.disableTheme.label "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey "W">
+<!ENTITY cmd.installAddon.label "Install">
+<!ENTITY cmd.installAddon.accesskey "I">
+<!ENTITY cmd.uninstallAddon.label "Remove">
+<!ENTITY cmd.uninstallAddon.accesskey "R">
+<!ENTITY cmd.showPreferencesWin.label "Options">
+<!ENTITY cmd.showPreferencesWin.tooltip "Change this add-on's options">
+<!ENTITY cmd.showPreferencesUnix.label "Preferences">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Change this add-on's preferences">
+<!ENTITY cmd.contribute.label "Contribute">
+<!ENTITY cmd.contribute.accesskey "C">
+<!ENTITY cmd.contribute.tooltip "Contribute to the development of this add-on">
 
-<!ENTITY insecureUpdate.label "নিরাপদ আপডেট প্রদান করা হয় না।">
-<!ENTITY needsDependencies.label "অতিরিক্ত আইটেম আবশ্যক।">
-<!ENTITY blocklisted.label "আপনার নিরাপত্তার জন্য নিষ্ক্রিয় করা হয়েছে।">
-<!ENTITY softBlocklisted.label "স্থায়ীত্ব বা নিরাপত্তার সমস্যা করার সম্ভবনা আছে।">
-<!ENTITY outdated.label "A newer, safer version is available.">
-<!ENTITY toBeDisabled.label "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন নিষ্ক্রিয় করা হবে।">
-<!ENTITY toBeEnabled.label "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন সক্রিয় করা হবে।">
-<!ENTITY toBeInstalled.label "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন ইনস্টল করা হবে।">
-<!ENTITY toBeUninstalled.label "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন আনইনস্টল করা হবে।">
-<!ENTITY toBeUpdated.label "&brandShortName; পুনরায় আরম্ভ করা হলে এই অ্যাড-অন হালনাগাদ করা হবে।">
+<!ENTITY cmd.showReleaseNotes.label "Show Release Notes">
+<!ENTITY cmd.showReleaseNotes.tooltip "Show the release notes for this update">
+<!ENTITY cmd.hideReleaseNotes.label "Hide Release Notes">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Hide the release notes for this update">
+<!-- detail view -->
 
-<!ENTITY getExtensions.label "এক্সটেনশন গ্রহন করা হবে">
-<!ENTITY getThemes.label "থীম গ্রহন করা হবে">
-<!ENTITY getPlugins.label "প্লাগইন গ্রহন করা হবে">
+<!ENTITY detail.version.label "Version">
+<!ENTITY detail.lastupdated.label "Last Updated">
+<!ENTITY detail.creator.label "Developer">
+<!ENTITY detail.homepage.label "Homepage">
+<!ENTITY detail.numberOfDownloads.label "Downloads">
 
-<!ENTITY searchAddons.label "সব অ্যাড-অন অনুসন্ধান">
-<!ENTITY browseAddons.label "সব অ্যাড-অন ব্রাউজ">
-<!ENTITY searchFailed.label "&brandShortName; অ্যাড-অন গ্রহন করতে পারেনি">
-<!ENTITY recommendedHeader.label "প্রস্তাবিত">
-<!ENTITY recommendedThrobber.label "প্রস্তাবিত অ্যাড-অন গ্রহন করা হচ্ছে">
-<!ENTITY searchThrobber.label "অ্যাড-অন অনুসন্ধান করা হচ্ছে">
-<!ENTITY resetSearch.label "ফলাফল মুছে ফেলা হবে">
-<!ENTITY noSearchResults.label "প্রাপ্ত ফলাফলগুলি ইতোমধ্যে ইনস্টল করা আছে অথবা অনুপযুক্ত।">
-<!ENTITY noRecommendedResults.label "প্রস্তাবিত সবগুলো ইতোমধ্যে ইনস্টল করা আছে অথবা অনুপযুক্ত।">
-<!ENTITY emptySearch.label "কোনো অ্যাড-অন মিলেনি">
-<!ENTITY emptySearch.button "ঠিক আছে">
-<!ENTITY cancelSearch.button "বাতিল">
-<!ENTITY searchFailed.button "ঠিক আছে">
-<!ENTITY searchResultHomepage.value "আরও জানুন">
-<!ENTITY searchBox.label "সব অ্যাড-অন অনুসন্ধান">
-<!ENTITY recommendedResults.label "সব প্রস্তাবিত অ্যাড-অন দেখুন">
-<!ENTITY searchResultConnecting.label "সংযোগ স্থাপন করা হচ্ছে…">
-<!ENTITY searchResultInstalling.label "ইনস্টল করা হচ্ছে…">
-<!ENTITY searchResultFailed.label "ইনস্টল করতে ব্যর্থ">
-<!ENTITY searchResultInstalled.label "ইনস্টল সমাপ্ত হয়েছে">
-<!ENTITY addonTypeExtension.label "এক্সটেনশন">
-<!ENTITY addonTypeTheme.label "থীম">
-<!ENTITY missingThumbnail.label "কোনো প্রিভিউ নেই">
+<!ENTITY detail.contributions.description "The developer of this add-on asks that you help support its continued development by making a small contribution.">
 
-<!ENTITY previewNoThemeSelected.label "কোনো থীম নির্বাচন করা হয়নি">
-<!ENTITY previewNoPreviewImage.label "এই থীমের কোনো প্রিভিউ নেই">
-<!ENTITY moreInfo.label "আরও তথ্য">
-<!ENTITY infoNoAddonSelected.label "কোনো আপডেট নির্বাচন করা হয়নি">
-<!ENTITY infoNoUpdateInfo.label "এই আপডেটের মধ্যে কোনো নতুন তথ্য নেই">
-<!ENTITY infoUpdateInfoError.label "এই আপডেটের তথ্য লোড করতে ত্রুটি হয়েছে">
+<!ENTITY detail.updateType "Automatic Updates">
+<!ENTITY detail.updateDefault.label "Default">
+<!ENTITY detail.updateDefault.tooltip "Automatically install updates only if that's the default">
+<!ENTITY detail.updateAutomatic.label "On">
+<!ENTITY detail.updateAutomatic.tooltip "Automatically install updates">
+<!ENTITY detail.updateManual.label "Off">
+<!ENTITY detail.updateManual.tooltip "Don't automatically install updates">
+<!ENTITY detail.home "Homepage">
+<!ENTITY detail.repository "Add-on Profile">
+<!ENTITY detail.size "Size">
 
-<!ENTITY updateSuccess.label "সাফল্যের সাথে আপডেট সম্পন্ন হয়েছে।">
-<!ENTITY installSuccess.label "সাফল্যের সাথে ইনস্টল সম্পন্ন হয়েছে।">
-<!ENTITY installSuccessRestart.label "ইনস্টলেশন সমাপ্ত করার জন্য রিস্টার্ট করুন।">
-<!ENTITY updateSuccessRestart.label "আপডেট সমাপ্ত করার জন্য রিস্টার্ট করুন।">
-<!ENTITY installWaiting.label "অপেক্ষা করা হচ্ছে...">
-<!ENTITY installIncompatibleUpdate.label "উপযুক্ততা পরীক্ষা করা হচ্ছে...">
-<!ENTITY installFinishing.label "ইনস্টল করা হচ্ছে...">
-<!ENTITY installFailure.label "ইনস্টল করতে ব্যর্থ।">
+<!ENTITY detail.checkForUpdates.label "Check for Updates">
+<!ENTITY detail.checkForUpdates.accesskey "F">
+<!ENTITY detail.checkForUpdates.tooltip "Check for updates for this add-on">
+<!ENTITY detail.showPreferencesWin.label "Options">
+<!ENTITY detail.showPreferencesWin.accesskey "O">
+<!ENTITY detail.showPreferencesWin.tooltip "Change this add-on's options">
+<!ENTITY detail.showPreferencesUnix.label "Preferences">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip "Change this add-on's preferences">
+<!-- ratings -->
 
-<!ENTITY progressStatus.label "আপডেটের উপস্থিতি পরীক্ষা করা হচ্ছে">
 
-<!ENTITY eula.title "ব্যবহারকারী লাইসেন্স চুক্তি (EULA)">
-<!ENTITY eula.width "560px">
-<!ENTITY eula.height "400px">
-<!ENTITY eula.accept "সম্মতি জ্ঞাপন করে ইনস্টল করুন…">
+<!ENTITY rating2.label "Rating">
+<!-- download/install progress -->
 
-<!ENTITY blocklist.blocked.label "প্রতিরোধ করা হয়েছে">
-<!ENTITY blocklist.checkbox.label "নিষ্ক্রিয়">
+<!ENTITY progress.pause.tooltip "Pause">
+<!ENTITY progress.cancel.tooltip "Cancel">
+<!-- list sorting -->
+
+
+<!ENTITY sort.name.label "Name">
+<!ENTITY sort.name.tooltip "Sort by name">
+<!ENTITY sort.dateUpdated.label "Last Updated">
+<!ENTITY sort.dateUpdated.tooltip "Sort by date updated">
+<!ENTITY sort.relevance.label "Best match">
+<!ENTITY sort.relevance.tooltip "Sort by relevance">
+<!ENTITY sort.price.label "Price">
+<!ENTITY sort.price.tooltip "Sort by price">
+
+<!ENTITY search.filter2.label "Search:">
+<!ENTITY search.filter2.installed.label "My Add-ons">
+<!ENTITY search.filter2.installed.tooltip "Show installed add-ons">
+<!ENTITY search.filter2.available.label "Available Add-ons">
+<!ENTITY search.filter2.available.tooltip "Show add-ons available to install">
+
+<!ENTITY addon.homepage "Homepage">
+<!ENTITY addon.details.label "More">
+<!ENTITY addon.details.tooltip "Show more details about this add-on">
+<!ENTITY addon.unknownDate "Unknown">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix "(disabled)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix "Update">
+<!ENTITY addon.undoAction.label "Undo">
+<!ENTITY addon.undoAction.tooltip "Undo this action">
+<!ENTITY addon.undoRemove.label "Undo">
+<!ENTITY addon.undoRemove.tooltip "Keep this add-on installed">
+<!ENTITY addon.restartNow.label "Restart now">
+<!ENTITY addon.install.label "Install">
+<!ENTITY addon.install.tooltip "Install this add-on">
+<!ENTITY addon.updateNow.label "Update Now">
+<!ENTITY addon.updateNow.tooltip "Install the update for this add-on">
+<!ENTITY addon.includeUpdate.label "Include in Update">
+<!ENTITY addon.updateAvailable.label "An update is available">
+<!ENTITY addon.checkingForUpdates.label "Checking for updates…">
+<!ENTITY addon.releaseNotes.label "Release Notes:">
+<!ENTITY addon.loadingReleaseNotes.label "Loading…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+
+<!ENTITY addon.createdBy.label "By ">

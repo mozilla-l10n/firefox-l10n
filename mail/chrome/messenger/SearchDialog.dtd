@@ -3,7 +3,7 @@
 <!ENTITY searchHeading.accesskey "h">
 <!ENTITY searchSubfolders.label "সাবফোল্ডারে খোঁজা হবে (e)">
 <!ENTITY searchSubfolders.accesskey "e">
-<!ENTITY searchOnServer.label "Run search on server">
+<!ENTITY searchOnServer.label "সার্ভারে অনুসন্ধান করা হবে (u)">
 <!ENTITY searchOnServer.accesskey "u">
 <!ENTITY resetButton.label "পরিষ্কার (C)">
 <!ENTITY resetButton.accesskey "C">
@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label "ফাইল (i)">
 <!ENTITY fileButton.accesskey "i">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "বার্তার ফোল্ডার খোলা হবে (r)">
-<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY openInFolder.label "ফোল্ডারে খোলা হবে (r)">
+<!ENTITY openInFolder.accesskey "r">
 <!ENTITY saveAsVFButton.label "অনুসন্ধান ফোল্ডার হিসেবে সংরক্ষণ (v)">
 <!ENTITY saveAsVFButton.accesskey "v">
 <!-- for ABSearchDialog.xul -->
@@ -40,7 +40,7 @@
 <!ENTITY dateColumn.label "তারিখ">
 <!ENTITY priorityColumn.label "অগ্রাধিকার">
 <!ENTITY tagsColumn.label "ট্যাগ">
-<!ENTITY accountColumn.label "একাউন্ট">
+<!ENTITY accountColumn.label "অ্যাকাউন্ট">
 <!ENTITY statusColumn.label "অবস্থা">
 <!ENTITY sizeColumn.label "আকার">
 <!ENTITY junkStatusColumn.label "অপ্রয়োজনীয়তার অবস্থা">
@@ -61,7 +61,7 @@
 <!ENTITY dateColumn.tooltip "তারিখ অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY priorityColumn.tooltip "অগ্রাধিকার অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY tagsColumn.tooltip "ট্যাগ অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY accountColumn.tooltip "একাউন্ট অনুসারে সাজাতে ক্লিক করুন">
+<!ENTITY accountColumn.tooltip "অ্যাকাউন্ট অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY statusColumn.tooltip "অবস্থা অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY sizeColumn.tooltip "আকার অনুসারে সাজাতে ক্লিক করুন">
 <!ENTITY junkStatusColumn.tooltip "অপ্রয়োজনীয়তার অবস্থা অনুসারে সাজাতে ক্লিক করুন">

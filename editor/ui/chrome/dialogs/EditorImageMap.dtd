@@ -66,7 +66,7 @@
 <!ENTITY propsCmd.accesskey "h">
 <!-- View menu -->
 
-<!ENTITY mapviewMenu.label "ভিউ (V)">
+<!ENTITY mapviewMenu.label "প্রদর্শন (V)">
 <!ENTITY mapviewMenu.accesskey "v">
 <!ENTITY showhideTbarCmd.label "টুলবার লুকানো (T)">
 <!ENTITY showhideTbarCmd.accesskey "t">

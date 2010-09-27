@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "পোর্ট (P):">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "নাম এবং পাসওয়ার্ড ব্যবহার করা হবে (U)">
-<!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "ব্যবহারকারীর নাম (m):">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "নিরাপদ প্রমাণীকরণ ব্যবহার করা হবে (i)">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "সংযোগ নিরাপত্তা (n):">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "কোনটি না">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP সার্ভার">
 <!ENTITY serverPortDefault.label "ডিফল্ট:">
+<!ENTITY authMethod.label "প্রমানীকরণ মেথড (i):">
+<!ENTITY authMethod.accesskey "i">

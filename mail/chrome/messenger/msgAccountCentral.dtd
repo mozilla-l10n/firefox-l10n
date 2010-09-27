@@ -1,14 +1,14 @@
 <!ENTITY emailSectionHdr.label "ইমেইল">
 <!ENTITY readMsgsLink.label "পঠিত বার্তা">
-<!ENTITY composeMsgLink.label "একটি নতুন বার্তা লেখা হবে">
+<!ENTITY composeMsgLink.label "নতুন বার্তা লিখন">
 
 <!ENTITY newsSectionHdr.label "নিউজগ্রুপ">
-<!ENTITY subscribeNewsLink.label "একটি নিউজগ্রুপ সাবস্ক্রিপশন ব্যবস্থাপনা করা হবে">
+<!ENTITY subscribeNewsLink.label "নিউজগ্রুপ সাবস্ক্রিপশন ব্যবস্থাপনা">
 
-<!ENTITY accountsSectionHdr.label "একাউন্ট">
-<!ENTITY subscribeImapFolders.label "ফোল্ডার সাবস্ক্রিপশন ব্যবস্থাপনা করা হবে">
-<!ENTITY settingsLink.label "এই একাউন্টের সেটিং দেখুন">
-<!ENTITY newAcctLink.label "একটি নতুন অ্যাকাউন্ট তৈরি করা হবে">
+<!ENTITY accountsSectionHdr.label "অ্যাকাউন্ট">
+<!ENTITY subscribeImapFolders.label "ফোল্ডার সাবস্ক্রিপশন ব্যবস্থাপনা">
+<!ENTITY settingsLink.label "অ্যাকাউন্টের সেটিং">
+<!ENTITY newAcctLink.label "নতুন অ্যাকাউন্ট তৈরি">
 
 <!ENTITY advFeaturesSectionHdr.label "উচ্চ পর্যায়ের বৈশিষ্ট্য">
 <!ENTITY searchMsgsLink.label "বার্তা অনুসন্ধান">

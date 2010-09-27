@@ -10,13 +10,13 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "ঠিকানা বইয়ের পরিচিতি... (C)">
+<!ENTITY newContact.label "ঠিকানা বইয়ের পরিচিতি… (C)">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "সংযুক্ত করা হবে (t)">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "ফাইল… (F)">
 <!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "ওয়েব পেজ... (W)">
+<!ENTITY attachPageCmd.label "ওয়েব পেজ… (W)">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "ব্যক্তিগত কার্ড (vCard) (P)">
@@ -29,7 +29,7 @@
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "নতুনভাবে সংরক্ষণ (A)">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsFileCmd.label "ফাইল... (F)">
+<!ENTITY saveAsFileCmd.label "ফাইল… (F)">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "খসড়া (D)">
 <!ENTITY saveAsDraftCmd.accesskey "D">
@@ -41,9 +41,9 @@
 <!ENTITY sendLaterCmd.label "পরে পাঠানো হবে (L)">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "পৃষ্ঠার সেটআপ... (u)">
+<!ENTITY printSetupCmd.label "পৃষ্ঠার সেটআপ… (u)">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "মুদ্রণ... (P)">
+<!ENTITY printCmd.label "মুদ্রণ… (P)">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
 <!-- Edit Menu -->
@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "পুনরায় মোড়ানো (w)">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -74,7 +75,7 @@
 <!ENTITY selectAllCmd.label "সব নির্বাচন করা হবে (A)">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "খোঁজা এবং প্রতিস্থাপন... (F)">
+<!ENTITY findCmd.label "অনুসন্ধান এবং প্রতিস্থাপন… (F)">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findAgainCmd.label "পুনরায় খোঁজা হবে (g)">
@@ -87,17 +88,17 @@
 <!ENTITY findPrevCmd.accesskey "v">
 <!-- View Menu -->
 
-<!ENTITY viewMenu.label "ভিউ (V)">
+<!ENTITY viewMenu.label "প্রদর্শন (V)">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "টুলবার (T)">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY showCompositionToolbarCmd.label "মেইল রচনা টুলবার (o)">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
-<!ENTITY showFormattingBarCmd.label "বিন্যাসন বার (F)">
+<!ENTITY showFormattingBarCmd.label "বিন্যাস বার (F)">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "অবস্থা বার (S)">
 <!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY customizeToolbar.label "স্বনির্বাচন... (C)">
+<!ENTITY customizeToolbar.label "স্বনির্বাচন… (C)">
 <!ENTITY customizeToolbar.accesskey "C">
 
 <!ENTITY addressSidebar.label "পরিচিতির পার্শ্ববার (o)">
@@ -110,7 +111,7 @@
 
 <!ENTITY optionsMenu.label "অপশন (p)">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd2.label "বানান পরীক্ষণ... (h)">
+<!ENTITY checkSpellingCmd2.label "বানান পরীক্ষণ… (h)">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "h">
@@ -148,7 +149,7 @@
 <!ENTITY normalPriorityCmd.accesskey "n">
 <!ENTITY highPriorityCmd.label "বেশী (i)">
 <!ENTITY highPriorityCmd.accesskey "i">
-<!ENTITY highestPriorityCmd.label "সর্বাচেয়ে বেশী (H)">
+<!ENTITY highestPriorityCmd.label "সবচেয়ে বেশী (H)">
 <!ENTITY highestPriorityCmd.accesskey "H">
 <!ENTITY fileCarbonCopyCmd.label "এখানে একটি কপি পাঠান (d)">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
@@ -163,10 +164,10 @@
 <!ENTITY addressBookCmd.label "ঠিকানা বই (A)">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "একাউন্ট সেটিং... (c)">
+<!ENTITY accountManagerCmd.label "অ্যাকাউন্ট সেটিং… (c)">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "অপশন... (O)">
+<!ENTITY preferencesCmd.label "অপশন… (O)">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (n)">
 <!ENTITY preferencesCmdUnix.accesskey "n">
@@ -251,13 +252,15 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "মুছে ফেলুন (D)">
 <!ENTITY delete.accesskey "D">
-<!ENTITY renameAttachment.label "নতুনভাবে নামকরণ... (R)">
+<!ENTITY removeAttachment.label "সংযুক্তি সরিয়ে ফেলা হবে (m)">
+<!ENTITY removeAttachment.accesskey "M">
+<!ENTITY renameAttachment.label "নতুনভাবে নামকরণ… (R)">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "সব নির্বাচন (A)">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "ফাইল সংযুক্ত করুন... (F)">
+<!ENTITY attachFile.label "ফাইল সংযুক্ত করুন… (F)">
 <!ENTITY attachFile.accesskey "F">
-<!ENTITY attachPage.label "ওয়েব পেজ সংযুক্ত করুন... (W)">
+<!ENTITY attachPage.label "ওয়েব পেজ সংযুক্ত করুন… (W)">
 <!ENTITY attachPage.accesskey "W">
 <!-- Title for the address picker panel -->
 

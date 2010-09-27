@@ -11,7 +11,7 @@
 <!ENTITY importFromPhoenix.accesskey "P">
 <!ENTITY importFromNothing.label "কিছুই ইমপোর্ট করা হবে না (D)">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey.label "নেটস্কেপ 6, 7 বা মজিলা ১.x (N)">
+<!ENTITY importFromSeamonkey.label "নেটস্কেপ 6, 7 বা মোজিলা ১.x (N)">
 <!ENTITY importFromSeamonkey.accesskey "N">
 <!ENTITY importFromNetscape4.label "নেটস্কেপ 4.x">
 <!ENTITY importFromNetscape4.accesskey "4">

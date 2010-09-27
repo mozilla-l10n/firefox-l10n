@@ -13,15 +13,13 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
-<!ENTITY dnsNotFound.longDesc "
-<ul> 
-  <li>ঠিকানা টাইপ করার সময় ভুলত্রুটি হয়েছে কিনা পরীক্ষা করুন, যেমন 
-    <strong>www</strong>.example.com এর পরিবর্তে 
-    <strong>ww</strong>.example.com</li> 
-  <li>কোন পৃষ্ঠাই লোড করা সম্ভব না হলে কম্পিউটারের নেটওয়ার্কের সংযোগ পরীক্ষা করুন।</li> 
-  <li>আপনার কম্পিউটার বা নেটওয়ার্ক যদি কোনো ফায়ারওয়াল অথবা প্রক্সি দিয়ে সুরক্ষিত থাকে, &brandShortName; কে ওয়েবে সংযোগ করার অনুমতি প্রদান করা হয়েছে কিনা তা পরীক্ষা করুন।</li> 
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>ঠিকানা টাইপ করার সময় ভুলত্রুটি হয়েছে কিনা পরীক্ষা করুন, যেমন 
+<strong>www</strong>.example.com এর পরিবর্তে 
+<strong>ww</strong>.example.com</li> 
+<li>কোন পৃষ্ঠাই লোড করা সম্ভব না হলে কম্পিউটারের নেটওয়ার্কের সংযোগ পরীক্ষা করুন।</li> 
+<li>আপনার কম্পিউটার বা নেটওয়ার্ক যদি কোনো ফায়ারওয়াল অথবা প্রক্সি দিয়ে সুরক্ষিত থাকে, &brandShortName; কে ওয়েবে সংযোগ করার অনুমতি প্রদান করা হয়েছে কিনা তা পরীক্ষা করুন।</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -37,17 +35,24 @@
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>ওয়েব ঠিকানা সাধারণত এভাবে লেখা হয় - 
 <strong>http://www.example.com/</strong></li> 
-<li>আপনি ফরওয়ার্ড স্ল্যাশ (<strong>/</strong>) ব্যবহার
-করেছেন কিনা তা পরীক্ষা করুন।</li>
+<li>আপনি ফরওয়ার্ড স্ল্যাশ (<strong>/</strong>) ব্যবহার 
+করেছেন কিনা তা পরীক্ষা করুন।</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "সংযোগ বিঘ্নিত হয়েছে">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "অফলাইন মোড">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>ফাইল মেনুর &quot;অফলাইন অবস্থা&quot; থেকে টিক চিহ্ন উঠিয়ে দিয়ে আবার চেষ্টা করুন।</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "বিষয়বস্তুর এনকোডিং-এ ত্রুটি">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -59,7 +64,7 @@
 <li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েবসাইট নির্মাতাদের অবগত করুন।</li> 
 </ul>">
 
-<!ENTITY netReset.title "সংযোগ রিসেট করা হয়েছে">
+<!ENTITY netReset.title "সংযোগ পুনঃনির্ধারণ করা হয়েছে">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "সংযোগের সময়সীমা উত্তীর্ণ হয়েছে">
@@ -110,7 +115,7 @@
 <!ENTITY sharedLongDesc "<ul> 
 <li>সাইটটি সম্ভবত সাময়িকভাবে অকার্যকর বা অত্যন্ত ব্যস্ত। কিছুক্ষন পর আবার চেষ্টা করুন।</li> 
 <li>কোন পৃষ্ঠাই লোড করা সম্ভব না হলে আপনার কম্পিউটারের নেটওয়ার্ক সংযোগ পরীক্ষা করুন।</li> 
-<li>আপনার কম্পিউটার বা নেটওয়ার্ক যদি কোনো ফায়ারওয়াল অথবা প্রক্সি দিয়ে সুরক্ষিত থাকে,
+<li>আপনার কম্পিউটার বা নেটওয়ার্ক যদি কোনো ফায়ারওয়াল অথবা প্রক্সি দিয়ে সুরক্ষিত থাকে, 
 &brandShortName; কে ওয়েবে সংযোগ করার অনুমতি প্রদান করা হয়েছে কিনা তা পরীক্ষা করুন।</li> 
 </ul>">
 
@@ -122,16 +127,21 @@
 <!ENTITY phishingBlocked.longDesc "<p>এই পৃষ্ঠায় ব্যক্তিগত তথ্য দিয়ে থাকলে আপনি পরিচয় প্রতারণা বা অন্যান্য প্রতারণার শিকার হতে পারেন।</p> 
 <p>এসব ওয়েব জালিয়াতি ফিশিং নামে পরিচিত। জাল ওয়েবসাইটগুলো, পরিচিত ও বিশ্বাসযোগ্য সাইট ও ইমেইল নকল করে আপনার কাছ থেকে  ব্যক্তিগত ও অর্থ সংক্রান্ত তথ্য বের করে নেয়।</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
 <!ENTITY securityOverride.linkText "অথবা আপনি একটি ব্যতিক্রম যোগ করতে পারেন…">
 <!ENTITY securityOverride.getMeOutOfHereButton "আমাকে এখান থেকে উদ্ধার করো!">
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningText "<p>একটি সম্পূর্ণ বিশ্বাসযোগ্য ইন্টারনেট সংযোগ ব্যবহার না করলে অথবা এই সার্ভার থেকে কোনো ধরনের সতর্কবার্তা সাধারণত প্রদর্শিত না হলে, আপনার ব্যতিক্রম যোগ করা উচিৎ নয়।</p> 
- 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<!ENTITY securityOverride.warningContent "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
