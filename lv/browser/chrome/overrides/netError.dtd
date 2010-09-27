@@ -46,8 +46,8 @@ ka &brandShortName; ir atļauts piekļūt tīmeklim.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Nesaistes režīms">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Izņemiet ķeksīti pie &quot;Strādāt nesaistē&quot; un mēģiniet vēlreiz.</li> 
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Izņemiet ķeksīti pie izvēlnes &quot;Strādāt nesaistē&quot; un mēģiniet vēlreiz.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Satura kodējuma kļūda">

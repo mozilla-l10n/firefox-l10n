@@ -55,7 +55,7 @@
 
 <!ENTITY netOffline.longDesc "<p>Pārlūks darbojas nesaistes režīmā un nevar pieslēgties pieprasītajai vietai.</p><ul><li>Vai dators ir pieslēgts aktīvam tīkla savienojumam?</li><li>Pārslēdziet pārlūku uz tiešsaistes režīmu un mēģiniet vēlreiz.</li></ul>">
 
-<!ENTITY netOffline.longDesc2 "<p>Pārlūks darbojas nesaistes režīmā un nevar pieslēgties pieprasītajai vietai.</p><ul><li>Vai dators ir pieslēgts aktīvam tīkla savienojumam?</li><li>Pārslēdziet pārlūku uz tiešsaistes režīmu un mēģiniet vēlreiz.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Pārlūks darbojas nesaistes režīmā un nevar pieslēgties pieprasītajai vietai.</p><ul><li>Vai dators ir pieslēgts aktīvam tīkla savienojumam?</li><li>Pārslēdziet pārlūku uz tiešsaistes režīmu un mēģiniet vēlreiz.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Satura kodējuma kļūda">
 

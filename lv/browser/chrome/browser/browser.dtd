@@ -43,7 +43,6 @@
 <!ENTITY undoCloseTab.accesskey "U">
 
 <!ENTITY backForwardItem.title        "Atpakaļ/Uz priekšu">
-<!ENTITY developerMenu.label "Izstrādātājiem">
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY  moveToGroup.label                  "Pārvietot uz grupu">
 <!ENTITY  moveToGroup.accesskey              "P">
@@ -84,8 +83,6 @@
 <!ENTITY personalbarCmd.label "Grāmatzīmju rīkjosla">
 <!ENTITY personalbarCmd.accesskey "G">
 <!ENTITY bookmarksToolbarItem.label "Grāmatzīmju rīkjoslas elementi">
-<!ENTITY taskbarCmd.label "Statusa josla">
-<!ENTITY taskbarCmd.accesskey "S">
 
 <!ENTITY pageSourceCmd.label "Lapas pirmkods">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -107,6 +104,14 @@
 
 <!ENTITY closeWindow.label "Aizvērt logu">
 <!ENTITY closeWindow.accesskey "g">
+
+<!ENTITY addonBarCmd.label "Papildinājumu josla">
+<!ENTITY addonBarCmd.accesskey "j">
+<!ENTITY appMenuWebDeveloper.label "Izstrādātājiem">
+<!ENTITY appMenuButton.tooltip        "Atvērt &brandShortName; izvēlni">
+<!ENTITY appMenuSafeMode.label "Pārstartēt ar deaktivizētiem papildinājumiem…">
+<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY feedButton.label             "Pierakstīties">
 
 <!ENTITY bookmarksMenu.label "Grāmatzīmes">
 <!ENTITY bookmarksMenu.accesskey "G">

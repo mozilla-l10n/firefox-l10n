@@ -20,12 +20,13 @@
 <!ENTITY signIn.serverURL.accesskey "S">
 <!ENTITY server.label               "Serveris">
 
-<!ENTITY button.syncKeyBackup.email.label     "Epastā…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "Izdrukā…">
 <!ENTITY button.syncKeyBackup.print.accesskey "I">
 <!ENTITY button.syncKeyBackup.save.label      "Saglabāt…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
+
+<!ENTITY syncKeyStrength.label     "Spēks:">
+<!ENTITY syncKeyHelp.label         "Ko nozīmē šis spēks?">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.confirmPassword.label  "Apstipriniet paroli">
