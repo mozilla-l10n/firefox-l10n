@@ -47,8 +47,6 @@
 <!ENTITY importCmd.accesskey "И">
 <!ENTITY exportCmd.label "Экспорт…">
 <!ENTITY exportCmd.accesskey "Э">
-<!ENTITY allowOnlineCheck.label "Проверять присутствие в сети (AOL)">
-<!ENTITY allowOnlineCheck.accesskey "П">
 <!ENTITY newContactButton.label "Создать контакт">
 <!ENTITY newContactButton.accesskey "к">
 <!ENTITY newlistButton.label "Создать список">
