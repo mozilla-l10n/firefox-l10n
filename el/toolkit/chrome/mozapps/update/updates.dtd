@@ -98,7 +98,6 @@
 <!ENTITY  viewDetails.tooltip             "Προβολή λεπτομερειών για αυτή την ενημέρωση">
 
 <!ENTITY  error.title                     "Αποτυχία ενημέρωσης">
->
 
 <!ENTITY  errorCertAttrNoUpdate2.label    "Κάτι εμποδίζει την ασφαλή ενημέρωση του &brandShortName;.
                                            Παρακαλώ ελέγξτε ότι έχετε την πιο πρόσφατη έκδοση του &brandShortName; από:">
