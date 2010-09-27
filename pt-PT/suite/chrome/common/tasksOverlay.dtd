@@ -23,6 +23,9 @@
 <!ENTITY tasksMenu.label "Ferramentas">
 <!ENTITY tasksMenu.accesskey "r"> 
 
+<!ENTITY datamanCmd.label "Gestor de dados">
+<!ENTITY datamanCmd.accesskey "a">
+
 <!ENTITY passwordManagerCmd.label "Gestor de senhas">
 <!ENTITY passwordManagerCmd.accesskey "G">
 
