@@ -1,7 +1,7 @@
 <!ENTITY pane.title "প্রাপ্তিজ্ঞাপন">
-<!ENTITY useGlobalPrefs.label "এই একাউন্টটির জন্য আমার গ্লোবাল প্রাপ্তিজ্ঞাপন পছন্দসমূহ ব্যবহার করা হবে (U)">
+<!ENTITY useGlobalPrefs.label "এই অ্যাকাউন্টটির জন্য আমার গ্লোবাল প্রাপ্তিজ্ঞাপন পছন্দসমূহ ব্যবহার করা হবে (U)">
 <!ENTITY useGlobalPrefs.accesskey "U">
-<!ENTITY useCustomPrefs.label "এই একাউন্টটির জন্য প্রাপ্তিজ্ঞাপন স্বনির্বাচন করা হবে (C)">
+<!ENTITY useCustomPrefs.label "এই অ্যাকাউন্টটির জন্য প্রাপ্তিজ্ঞাপন স্বনির্ধারণ করা হবে (C)">
 <!ENTITY useCustomPrefs.accesskey "C">
 <!ENTITY requestReceipt.label "যখন বার্তা পাঠাবেন, সর্বদা প্রাপ্তিজ্ঞাপন অনুরোধ করা হবে (W)">
 <!ENTITY requestReceipt.accesskey "W">
@@ -16,12 +16,12 @@
 <!ENTITY returnSome.accesskey "e">
 <!ENTITY never.label "কখনও প্রাপ্তিজ্ঞাপন পাঠানো হবে না (N)">
 <!ENTITY never.accesskey "N">
-<!ENTITY notInToCc.label "যদি আমাকে বার্তার প্রাপক বা Cc তে যোগ না করা হয় (T):">
+<!ENTITY notInToCc.label "যদি আমাকে বার্তার প্রাপক বা Cc তে যোগ না করা হয়: (T)">
 <!ENTITY notInToCc.accesskey "T">
-<!ENTITY outsideDomain.label "যদি প্রেরক আমার ডোমেইন বহিঃর্ভূত থাকে (s):">
+<!ENTITY outsideDomain.label "যদি প্রেরক আমার ডোমেইনের বাইরে থাকে: (s)">
 <!ENTITY outsideDomain.accesskey "s">
-<!ENTITY otherCases.label "অন্য সকল ক্ষেত্রে (o):">
+<!ENTITY otherCases.label "অন্য সকল ক্ষেত্রে: (o)">
 <!ENTITY otherCases.accesskey "o">
-<!ENTITY askMe.label "আমাকে জিজ্ঞাস করা হবে">
+<!ENTITY askMe.label "আমাকে জিজ্ঞেস করা হবে">
 <!ENTITY alwaysSend.label "সর্বদা পাঠানো হবে">
 <!ENTITY neverSend.label "কখনও পাঠানো হবে না">

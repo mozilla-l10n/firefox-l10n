@@ -45,6 +45,6 @@
 <!ENTITY authorInput.accessKey "A">
 <!ENTITY descriptionInput.label "বিবরন (D):">
 <!ENTITY descriptionInput.accessKey "D">
-<!ENTITY locationNewPage.label "[নতুন পাতা, এখনও সংরক্ষন করা হয়নি]">
+<!ENTITY locationNewPage.label "[নতুন পাতা, এখনও সংরক্ষণ করা হয়নি]">
 <!ENTITY EditHEADSource1.label "উচ্চ পর্যায়ের ব্যবহারকারী:">
-<!ENTITY EditHEADSource2.label "&lt;head&gt; এলাকার অন্যান্য বিষয়বস্তু সম্পাদনা করতে, ভিউ মেনু বা সম্পাদনা মোড টুলবারে &quot;HTML সোর্স&quot; ব্যবহার করুন।">
+<!ENTITY EditHEADSource2.label "&lt;head&gt; এলাকার অন্যান্য বিষয়বস্তু সম্পাদনা করতে, প্রদর্শন মেনু বা সম্পাদনা মোড টুলবারে &quot;HTML সোর্স&quot; ব্যবহার করুন।">

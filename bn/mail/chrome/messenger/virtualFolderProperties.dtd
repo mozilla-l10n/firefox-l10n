@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "অনলাইনে অনুসন্ধান করা হবে (IMAP এবং খবর ফোল্ডারের সর্বশেষ ফলাফল দেয়, কিন্তু ফোল্ডারটি খোলার সময় বেড়ে যায়) (S)">
 <!ENTITY searchOnline.accesskey "S">
+<!ENTITY newFolderButton.label "Create">
+<!ENTITY newFolderButton.accesskey "r">
+<!ENTITY editFolderButton.label "Update">
+<!ENTITY editFolderButton.accesskey "U">

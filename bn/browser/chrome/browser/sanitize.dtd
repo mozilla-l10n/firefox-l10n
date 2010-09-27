@@ -19,19 +19,19 @@ that require it.  -->
 <!ENTITY clearTimeDuration.suffix "">
 <!ENTITY clearTimeDuration.dateColumn "পরিদর্শনের তারিখ">
 <!ENTITY clearTimeDuration.nameColumn "নাম">
-
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-<!ENTITY detailsProgressiveDisclosure.label "বিবরণ (E)">
+
+<!ENTITY detailsProgressiveDisclosure.label "বিবরণ (e)">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label "ইতিহাস">
 <!ENTITY dataSection.label "তথ্য">
-
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
+
 <!ENTITY itemHistoryAndDownloads.label "ব্রাউজিং ও ডাউনলোড ইতিহাস (B)">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemBrowsingHistory.label "ব্রাউজিং ইতিহাস (B)">
@@ -42,7 +42,7 @@ that require it.  -->
 <!ENTITY itemPasswords.accesskey "P">
 <!ENTITY itemCookies.label "কুকি (C)">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemCache.label "ক্যাশ (A)">
+<!ENTITY itemCache.label "ক্যাশ (a)">
 <!ENTITY itemCache.accesskey "A">
 <!ENTITY itemOfflineApps.label "অফলাইন ওয়েবসাইটের তথ্য (O)">
 <!ENTITY itemOfflineApps.accesskey "O">
@@ -58,5 +58,5 @@ that require it.  -->
 
 <!ENTITY sanitizeEverythingUndoWarning "এই পরিবর্তনটি অপরিবর্তনীয়!">
 
-<!ENTITY dialog.width "32em">
-<!ENTITY column.width "14em">
+<!ENTITY dialog.width "36em">
+<!ENTITY column.width "20em">

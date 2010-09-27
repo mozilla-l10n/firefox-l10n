@@ -46,5 +46,5 @@
 <!ENTITY add.accessKey "A">
 <!ENTITY moveUp.label "উপরে স্থানান্তর (U)">
 <!ENTITY moveUp.accessKey "U">
-<!ENTITY moveDown.label "নীচে স্থানান্তর ( D)">
+<!ENTITY moveDown.label "নীচে স্থানান্তর (D)">
 <!ENTITY moveDown.accessKey "D">

@@ -1,6 +1,6 @@
 <!ENTITY window.title "পরিশোধক নিয়মাবলী">
 
-<!ENTITY filterName.label "পরিশোধকরে নাম (i):">
+<!ENTITY filterName.label "পরিশোধকের নাম: (i)">
 <!ENTITY filterName.accesskey "i">
 
 <!ENTITY junk.label "অপ্রয়োজনীয়">
@@ -12,14 +12,14 @@
 <!ENTITY highPriorityCmd.label "বেশী">
 <!ENTITY highestPriorityCmd.label "সবচেয়ে বেশী">
 
-<!ENTITY contextDesc.label "পরিশোধক প্রয়োগ করা হবে যখন(w):">
+<!ENTITY contextDesc.label "পরিশোধক প্রয়োগ করা হবে যখন: (w)">
 <!ENTITY contextDesc.accesskey "w">
 <!ENTITY contextIncoming.label "মেইল পরীক্ষা করা হচ্ছে">
 <!ENTITY contextManual.label "স্বচালিত">
 <!ENTITY contextBoth.label "মেইল পরীক্ষা করা হচ্ছে বা স্বচালিত">
-<!ENTITY contextPostPlugin.label "Checking Mail (after classification)">
-<!ENTITY contextPostPluginBoth.label "Checking Mail (after classification) or Manually Run">
-<!ENTITY filterActionDesc.label "এই কাজগুলো করা হবে (P):">
+<!ENTITY contextPostPlugin.label "মেইল পরীক্ষা করা হচ্ছে (শ্রেণীবিভাগের পর)">
+<!ENTITY contextPostPluginBoth.label "মেইল পরীক্ষা করা হচ্ছে (শ্রেণীবিভাগের পর) অথবা স্বনির্ধারিতভাবে চালানো হবে">
+<!ENTITY filterActionDesc.label "এই কাজগুলো করা হবে: (P)">
 <!ENTITY filterActionDesc.accesskey "P">
 <!-- New Style Filter Rule Actions -->
 

@@ -1,3 +1,4 @@
 <!ENTITY window.title "বার্তার সারসংক্ষেপ">
 <!ENTITY selectedmessages.label "নির্বাচিত বার্তা">
 <!ENTITY archive.label "আর্কাইভ">
+<!ENTITY delete.label "মুছে ফেলা">

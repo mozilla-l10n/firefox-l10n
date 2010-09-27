@@ -1,7 +1,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "ছোট করা">
 <!ENTITY bringAllToFront.label "সব সামনে আনা হবে">
-<!ENTITY zoomWindow.label "বড় করা">
+<!ENTITY zoomWindow.label "বড় আকারে প্রদর্শন">
 <!ENTITY windowMenu.label "উইন্ডো">
 
 <!ENTITY helpMenu.label "সহায়তা (H)">
@@ -10,22 +10,26 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "সহায়তা (H)">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY aboutCmd.label "&brandFullName; পরিচিতি (A)">
-<!ENTITY aboutCmd.accesskey "A">
-<!ENTITY productHelp.label "&brandShortName; Help">
+<!ENTITY aboutProduct.label "About &brandShortName;">
+<!ENTITY aboutProduct.accesskey "A">
+<!ENTITY productHelp.label "&brandShortName; সহায়তা (H)">
 <!ENTITY productHelp.accesskey "H">
-<!ENTITY helpForIEUsers.label "Internet Explorer ব্যবহারকারীদের জন্য (I)">
+<!ENTITY helpForIEUsers.label "ইন্টারনেট এক্সপ্লোরার ব্যবহারকারীদের জন্য (I)">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey "?">
+<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey "R">
 
 <!ENTITY helpReleaseNotes.label "রিলিজ নোট (N)">
 <!ENTITY helpReleaseNotes.accesskey "N">
 
-<!ENTITY helpTroubleshooting.label "Troubleshooting Information…">
-<!ENTITY helpTroubleshooting.accesskey "T">
+<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey "T">
 
-<!ENTITY updateCmd.label "আপডেট পরীক্ষা করা হবে... (O)">
+<!ENTITY helpFeedbackPage.label "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey "S">
+
+<!ENTITY updateCmd.label "হালনাগাদ পরীক্ষা করা হবে... (O)">
 
 <!ENTITY preferencesCmdMac.label "পছন্দসমূহ...">
 <!ENTITY preferencesCmdMac.commandkey ",">

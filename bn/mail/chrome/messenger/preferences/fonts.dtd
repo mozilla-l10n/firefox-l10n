@@ -1,12 +1,12 @@
-<!ENTITY fontsAndEncodingsDialog.title "ফন্ট &amp; এনকোডিং">
-<!ENTITY window.width "৩৯এম">
-<!ENTITY window.macWidth "৪৩এম">
-<!ENTITY window.unixWidth "৪১এম">
+<!ENTITY fontsAndEncodingsDialog.title "ফন্ট ও এনকোডিং">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
 
 <!ENTITY language.label "যার জন্য ফন্ট (t):">
 <!ENTITY language.accesskey "t">
 
-<!ENTITY size.label "Size:">
+<!ENTITY size.label "আকার:">
 <!ENTITY proportionalSize.accesskey "e">
 <!ENTITY sizeMono.accesskey "i">
 
@@ -58,8 +58,8 @@
 <!ENTITY useDefaultFontSansSerif.label "সান্স-সেরিফ">
 <!-- fonts in message -->
 
-<!ENTITY fontControl.label "Font Control">
-<!ENTITY useFixedWidthForPlainText.label "Use fixed width font for plain text messages">
+<!ENTITY fontControl.label "ফন্ট নিয়ন্ত্রণ">
+<!ENTITY useFixedWidthForPlainText.label "সরল টেক্সট বার্তার জন্য নির্ধারিত প্রস্থের ফন্ট ব্যবহার করুন">
 <!ENTITY fixedWidth.accesskey "x">
 <!ENTITY useDocumentFonts.label "অন্যান্য ফন্ট ব্যবহার করতে বার্তাসমূহকে অনুমোদন দেয়া হবে (o)">
 <!ENTITY useDocumentFonts.accesskey "o">

@@ -3,7 +3,7 @@
 <!ENTITY dialog.title "সফটওয়্যার ইনস্টলেশন">
 <!ENTITY dialog.style "width: 45em">
 <!ENTITY warningPrimary.label "শুধুমাত্র বিশ্বস্ত নির্মাতার কাছ থেকে অ্যাড-অন ইন্সটল করুন।">
-<!ENTITY warningSecondary.label "অনিষ্টকারী সফটওয়্যার আপনার কম্পিউটারের ক্ষয়ক্ষতি ও আপনার গোপনীয়তা লঙ্ঘন করতে পারে।">
+<!ENTITY warningSecondary.label "অনিষ্টকারী সফটওয়্যার আপনার কম্পিউটারের ক্ষয়ক্ষতি অথবা আপনার গোপনীয়তা লঙ্ঘন করতে পারে।">
 
 <!ENTITY from.label "উৎস:">
 

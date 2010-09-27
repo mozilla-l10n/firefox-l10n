@@ -1,13 +1,13 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "নিরাপত্তা সেটিং">
-<!ENTITY serverSettings.label "সার্ভার সেটিং">
+<!ENTITY securitySettings.label "নিরাপত্তা সেটিংসমূহ">
+<!ENTITY serverSettings.label "সার্ভার সেটিংস ">
 <!ENTITY serverType.label "সার্ভারের ধরন:">
-<!ENTITY serverName.label "সার্ভারের নাম (S):">
+<!ENTITY serverName.label "সার্ভারের নাম: (S)">
 <!ENTITY serverName.accesskey "S">
-<!ENTITY userName.label "ব্যবহারকারীর নাম (N):">
+<!ENTITY userName.label "ব্যবহারকারীর নাম: (N)">
 <!ENTITY userName.accesskey "N">
-<!ENTITY port.label "পোর্ট (P):">
+<!ENTITY port.label "পোর্ট: (P)">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "ডিফল্ট:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
@@ -15,22 +15,22 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "নতুন বার্তার জন্য পরীক্ষা করা হবে, প্রতি (y):">
+<!ENTITY biffStart.label "নতুন বার্তার জন্য পরীক্ষা করা হবে, প্রতি: (y)">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "মিনিটে">
-<!ENTITY connectionSecurity.label "সংযোগ নিরাপত্তা (u):">
+<!ENTITY connectionSecurity.label "সংযোগ নিরাপত্তা: (u)">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "কোনটি না">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, যদি থাকে">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "নিরাপদ প্রমাণীকরণ ব্যবহার করা হবে (i)">
-<!ENTITY useSecAuth.accesskey "i">
-<!ENTITY leaveOnServer.label "বার্তাসমূহ সার্ভারে রেখে দিবে (g)">
+<!ENTITY authMethod.label "প্রমাণীকরণ প্রক্রিয়া: (i)">
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY leaveOnServer.label "বার্তাসমূহ সার্ভারে রেখে দেয়া হবে (g)">
 <!ENTITY leaveOnServer.accesskey "g">
-<!ENTITY headersOnly.label "শুধুমাত্র শীর্ষচরণ আনা হবে (F)">
-<!ENTITY headersOnly.accesskey "f">
-<!ENTITY deleteByAgeFromServer.label "সর্বোচ্চ যে সময়ের জন্য, (o):">
+<!ENTITY headersOnly.label "শুধুমাত্র শীর্ষচরণ আনা হবে (e)">
+<!ENTITY headersOnly.accesskey "e">
+<!ENTITY deleteByAgeFromServer.label "সর্বোচ্চ যে সময়ের জন্য, (o)">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "দিন">
 <!ENTITY deleteOnServer2.label "আমি এগুলো মুছে না ফেলা পর্যন্ত (d)">
@@ -39,7 +39,7 @@
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "আপনার লগইন নাম">
 <!ENTITY deleteMessagePrefix.label "যখন আমি কোনো বার্তা মুছে ফেলি:">
-<!ENTITY modelMoveToTrash.label "এটাকে এই ফোল্ডারে সরানো হবে (o):">
+<!ENTITY modelMoveToTrash.label "এটাকে এই ফোল্ডারে সরানো হবে: (o)">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label 'এটাকে শুধুমাত্র "মুছে ফেলা হয়েছে" হিসেবে চিহ্নিত করা হবে (k)'>
 <!ENTITY modelMarkDeleted.accesskey "k">
@@ -56,7 +56,7 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart.label "অপেক্ষাকৃত বেশী ডাউনলোড করার পূর্বে আমাকে জিজ্ঞাস করা হবে (m)">
+<!ENTITY maxMessagesStart.label "অপেক্ষাকৃত বেশী ডাউনলোড করার পূর্বে আমাকে জিজ্ঞেস করা হবে (m)">
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "বার্তা">
@@ -64,15 +64,15 @@
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc ফাইল:">
 <!ENTITY localPath.label "স্থানীয় ডিরেক্টরি:">
-<!ENTITY abbreviate.label "যেভাবে মেইল ফোল্ডার প্যানে নিউজগ্রুপ নাম দেখান হবে:">
-<!ENTITY abbreviateOn.label "সম্পূর্ণ নাম (উদাহরনস্বরূপ, 'netscape.public.mozilla.mail-news')">
-<!ENTITY abbreviateOff.label "নামের সংক্ষিপ্তরূপ (উদাহরনস্বরুপ, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "উচ্চ পর্যায়ের... (v)">
+<!ENTITY abbreviate.label "যেভাবে মেইল ফোল্ডার প্যানে নিউজগ্রুপ নাম প্রদর্শন করা হবে:">
+<!ENTITY abbreviateOn.label "সম্পূর্ণ নাম (উদাহরণস্বরূপ, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "নামের সংক্ষিপ্তরূপ (উদাহরণস্বরূপ, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "উচ্চ পর্যায়ের… (v)">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "ডিফল্ট অক্ষর এনকোডিং:">
-<!ENTITY localFolderPicker.label "স্থানীয় ডিরেক্টরি নির্বাচন করা হবে">
-<!ENTITY browseFolder.label "ব্রাউজ... (B)">
+<!ENTITY localFolderPicker.label "স্থানীয় ডিরেক্টরি নির্বাচন">
+<!ENTITY browseFolder.label "ব্রাউজ… (B)">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "newsrc ফাইল নির্বাচন করা হবে">
-<!ENTITY browseNewsrc.label "ব্রাউজ... (e)">
+<!ENTITY newsrcPicker.label "newsrc ফাইল নির্বাচন">
+<!ENTITY browseNewsrc.label "ব্রাউজ… (e)">
 <!ENTITY browseNewsrc.accesskey "e">

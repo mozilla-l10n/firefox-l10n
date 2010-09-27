@@ -1,16 +1,10 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "নিরাপত্তা (e)">
-<!ENTITY securityMenu.accesskey "e">
-
 <!ENTITY menu_securityEncryptRequire.label "এই বার্তাটি এনক্রিপ্ট করা হবে (E)">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-<!ENTITY menu_securityNoEncryption.label "এই বার্তাটি এনক্রিপ্ট করা হবে না (N)">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
-
-<!ENTITY menu_securitySign.label "এই বার্তাটি ডিজিটালভাবে স্বাক্ষর করা হবে (S)">
-<!ENTITY menu_securitySign.accesskey "S">
+<!ENTITY menu_securitySign.label "এই বার্তাটি ডিজিটালভাবে স্বাক্ষর করা হবে (M)">
+<!ENTITY menu_securitySign.accesskey "M">
 
 <!ENTITY menu_securityStatus.label "নিরাপত্তা তথ্য দেখা হবে (I)">
 <!ENTITY menu_securityStatus.accesskey "I">

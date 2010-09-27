@@ -45,9 +45,9 @@
 <!ENTITY setPassword.meter.loading "লোড করা হচ্ছে">
 <!-- Values for resetpassword.xul -->
 
-<!ENTITY resetPasswordButtonLabel "রিসেট">
-<!ENTITY resetPassword.title "মাস্টার পাসওয়ার্ড রিসেট করুন">
-<!ENTITY resetPassword.text "মাস্টার পাসওয়ার্ড রিসেট করা হলে আপনার দ্বারা সংরক্ষিত সমস্ত ওয়েব ও ইমেইল পাসওয়ার্ড, ফর্মের তথ্য, ব্যক্তিগত সার্টিফিকেট ও কী মুছে যাবে। আপনি কি নিশ্চিতরূপে মাস্টার পাসওয়ার্ড রিসেট করতে ইচ্ছুক?">
+<!ENTITY resetPasswordButtonLabel "পুনঃনির্ধারণ">
+<!ENTITY resetPassword.title "মাস্টার পাসওয়ার্ড পুনঃনির্ধারণ করুন">
+<!ENTITY resetPassword.text "মাস্টার পাসওয়ার্ড পুনঃনির্ধারণ করা হলে আপনার দ্বারা সংরক্ষিত সমস্ত ওয়েব ও ইমেইল পাসওয়ার্ড, ফর্মের তথ্য, ব্যক্তিগত সার্টিফিকেট ও কী মুছে যাবে। আপনি কি নিশ্চিতরূপে মাস্টার পাসওয়ার্ড পুনঃনির্ধারণ করতে ইচ্ছুক?">
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "মাস্টার পাসওয়ার্ড লিখুন">
@@ -63,7 +63,7 @@
 <!ENTITY pref.security.general.rHeader "সাধারণ নিরাপত্তা ব্যবস্থার সেটিং">
 <!ENTITY pref.security.general.header "সাধারণ নিরাপত্তা ব্যবস্থার সেটিং">
 <!ENTITY pref.security.general.level.title "নিরাপত্তার মাত্রা">
-<!ENTITY pref.security.general.paranoid.label "অবিশ্বাসী মানসিকতার জন্য প্রযোজ্য নিরাপত্তা বৈশিষ্ট্য স্থাপন করুন">
+<!ENTITY pref.security.general.paranoid.label "প্যাটানয়েড নিরাপত্তা সেটিং ব্যবহার করুন">
 <!ENTITY pref.security.general.certificates.title "সার্টিফিকেট">
 <!ENTITY pref.security.general.manageCert.label "সার্টিফিকেটের ব্যবস্থাপনা">
 <!-- Downloading a cert -->
@@ -108,16 +108,16 @@
 
 <!ENTITY escrowWarn.title "এনক্রিপশন কীর প্রতিলিপি">
 <!ENTITY escrowWarn.message1 "গুরুত্বপূর্ণ: উল্লিখিত সার্টিফিকেট কর্তৃপক্ষের দ্বারা আপনার ব্যবহৃত এনক্রিপশন কী-র ব্যাকআপ নির্মাণের অনুরোধ করা হয়েছে।">
-<!ENTITY escrowWarn.benefit1 "এই ব্যবস্থার সাহায্যে আপনার ব্যবহৃত ব্যক্তিগত এনক্রিপশন কী হাতছাড়া হয়ে গেলে আপনি এই সার্টিফিকেট কর্তৃপক্ষের (CA) থেকে সেটির প্রতিলিপি পাবেন।">
-<!ENTITY escrowWarn.message2 "আপনার ব্যাক্তিগত কীটি সার্টিফিকেট কর্তৃপক্ষের (CA) দ্বারা সংরক্ষিত হবে। ফলে এটি ব্যবহার করে আপনার অনুমতি বিনা এনক্রিপ্ট করা ব্যক্তিগত ইমেইল ও নথিপত্র অন্যায্যভাবে পাঠ করা হতে পারে।">
-<!ENTITY examineCert.label "সার্টিফিকেট প্রদর্শন করুন (V)">
+<!ENTITY escrowWarn.benefit1 "এই ব্যবস্থার সাহায্যে আপনার ব্যবহৃত এনক্রিপশন প্রাইভেট কী হাতছাড়া হয়ে গেলে আপনি এই সার্টিফিকেট কর্তৃপক্ষের (CA) থেকে সেটির প্রতিলিপি পাবেন।">
+<!ENTITY escrowWarn.message2 "আপনার প্রাইভেট কীটি সার্টিফিকেট কর্তৃপক্ষের (CA) দ্বারা সংরক্ষিত হবে। ফলে এটি ব্যবহার করে আপনার অনুমতি বিনা এনক্রিপ্ট করা ব্যক্তিগত ইমেইল ও নথিপত্র অন্যায্যভাবে পাঠ করা হতে পারে।">
+<!ENTITY examineCert.label "সার্টিফিকেট দেখুন (V)">
 <!ENTITY examineCert.accesskey "V">
 
-<!ENTITY serverCrlNextupdate.message "সহয়াতার জন্য অনুগ্রহ করে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন">
+<!ENTITY serverCrlNextupdate.message "সহায়তার জন্য অনুগ্রহ করে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন">
 <!-- Strings for the CreateCertInfo dialog  -->
 
-<!ENTITY createCertInfo.title "ব্যক্তিগত কী নির্মাণ করা হচ্ছে">
-<!ENTITY createCertInfo.msg1 "কী নির্মাণ করা হচ্ছে... এই কাজে কিছু সময় ব্যয় হবে....">
+<!ENTITY createCertInfo.title "প্রাইভেট কী তৈরি করা হচ্ছে">
+<!ENTITY createCertInfo.msg1 "কী তৈরি করা হচ্ছে... এই কাজে কিছুটা সময় লাগতে পারে....">
 <!ENTITY createCertInfo.msg2 "অনুগ্রহ করে অপেক্ষা করুন...">
 <!-- Form Signing confirmation prompt -->
 

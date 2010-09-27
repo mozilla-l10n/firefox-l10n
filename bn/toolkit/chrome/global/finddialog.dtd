@@ -1,11 +1,11 @@
 <!-- extracted from finddialog.xul -->
 
 <!ENTITY findDialog.title "বর্তমান পৃষ্ঠায় অনুসন্ধান">
-<!ENTITY findField.label "যা অনুসন্ধান করা হবে (n):">
+<!ENTITY findField.label "যা অনুসন্ধান করা হবে: (n)">
 <!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "অক্ষর ছাঁদ মেলানো (c)">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
-<!ENTITY wrapCheckbox.label "মোড়ানো (w)">
+<!ENTITY wrapCheckbox.label "মোড়ানো (W)">
 <!ENTITY wrapCheckbox.accesskey "W">
 <!ENTITY findButton.label "পরবর্তী অনুসন্ধান (F)">
 <!ENTITY findButton.accesskey "F">

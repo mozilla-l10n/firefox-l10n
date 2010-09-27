@@ -56,7 +56,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label "পরিশোধক (F)">
 <!ENTITY importFilters.accesskey "F">
 
-<!ENTITY window.width "৪০এম">
+<!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 
 <!ENTITY importTitle.label "&brandShortName; ইমপোর্ট উইজার্ড">

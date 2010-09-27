@@ -14,7 +14,7 @@
 
 <!ENTITY button-back-win.label "&lt; পূর্ববর্তী (B)">
 <!ENTITY button-back-win.accesskey "B">
-<!ENTITY button-next-win.label "পরবর্তী (N) &gt;">
+<!ENTITY button-next-win.label "পরবর্তী &gt; (N)">
 <!ENTITY button-next-win.accesskey "N">
 <!ENTITY button-finish-win.label "সমাপ্ত">
 <!ENTITY button-cancel-win.label "বাতিল">

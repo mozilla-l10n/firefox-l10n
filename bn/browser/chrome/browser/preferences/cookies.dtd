@@ -3,6 +3,7 @@
 <!ENTITY cookiesonsystem.label "নিম্নলিখিত কুকিগুলি আপনার কম্পিউটারে সংরক্ষিত আছে:">
 <!ENTITY cookiename.label "কুকির নাম">
 <!ENTITY cookiedomain.label "সাইট">
+<!ENTITY button.removecookies.label "Remove Cookies">
 <!ENTITY button.removecookie.label "কুকি অপসারণ (R)">
 <!ENTITY button.removecookie.accesskey "R">
 <!ENTITY button.removeallcookies.label "সব কুকি অপসারণ (A)">
