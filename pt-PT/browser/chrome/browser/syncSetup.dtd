@@ -41,7 +41,7 @@
 <!ENTITY setup.newSyncKeyPage.title.label "O &brandShortName; preocupa-se com a sua privacidade">
 <!ENTITY setup.newSyncKeyPage.description.label "Para assegurar total privacidade, todos os seus dados são cifrados antes de serem carregados. A chave do Sync que é necessária para decifrar os seus dados não é carregada.">
 <!ENTITY syncKeyEntry.label        "A sua chave do Sync">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY syncKeyEntry.accesskey    "h">
 <!ENTITY syncKeyGenerate.label     "Gerar">
 <!ENTITY syncKeyStrength.label     "Força:">
 <!ENTITY syncKeyHelp.label         "O que significa a força?">
