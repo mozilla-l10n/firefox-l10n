@@ -66,7 +66,7 @@
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "ਸੋਧ">
 <!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "ਤਬਦੀਲ">
+<!ENTITY toggle.label "ਬਦਲੋ">
 <!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "ਮੁੜ-ਸੈੱਟ">
 <!ENTITY reset.accesskey "R">

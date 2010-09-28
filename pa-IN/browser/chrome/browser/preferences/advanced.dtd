@@ -38,7 +38,7 @@
 <!ENTITY connectionSettings.label        "ਸੈਟਿੰਗ...">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "ਆਫਲਾਇਨ ਸਟੋਰੇਜ਼">
+<!ENTITY offlineStorage.label            "ਆਫਲਾਈਨ ਸਟੋਰੇਜ਼">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -73,16 +73,16 @@
 <!ENTITY updateHistory.label             "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY offlineNotify.label             "ਮੈਨੂੰ ਦੱਸੋ ਜਦੋਂ ਕਿ ਇੱਕ ਵੈੱਬਸਾਇਟ ਆਫਲਾਇਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸਟੋਰ ਕਰਨ ਲਈ ਪੁੱਛੋ">
+<!ENTITY offlineNotify.label             "ਮੈਨੂੰ ਦੱਸੋ ਜਦੋਂ ਕਿ ਇੱਕ ਵੈੱਬਸਾਇਟ ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸਟੋਰ ਕਰਨ ਲਈ ਪੁੱਛੋ">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "ਛੋਟ…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਇਟਾਂ ਨੇ ਆਫਲਾਇਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਇੰਸਟਾਲ ਕੀਤਾ ਹੈ:">
+<!ENTITY offlineAppsList.label           "ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਇਟਾਂ ਨੇ ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਇੰਸਟਾਲ ਕੀਤਾ ਹੈ:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ਹਟਾਓ…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "ਆਫਲਾਇਨ ਡਾਟਾ ਹਟਾਓ">
+<!ENTITY offlineAppRemove.confirm        "ਆਫਲਾਈਨ ਡਾਟਾ ਹਟਾਓ">
 
 <!ENTITY encryptionTab.label             "ਇੰਕ੍ਰਿਪਸ਼ਨ">
 
