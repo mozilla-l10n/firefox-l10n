@@ -47,8 +47,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exportar…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY allowOnlineCheck.label "Comprobar presencia en línea (AOL)">
-<!ENTITY allowOnlineCheck.accesskey "C">
 <!ENTITY newContactButton.label "Nuevo contacto">
 <!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "Nueva lista">

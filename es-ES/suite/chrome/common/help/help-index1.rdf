@@ -36,7 +36,7 @@
      <rdf:li>
        <rdf:Description ID="attaching_files_to_messages"
          nc:name="adjuntar archivos a los mensajes"
-         nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+         nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="helper_applications"
@@ -66,7 +66,7 @@
      <rdf:li>
        <rdf:Description ID="return_receipts:using"
          nc:name="usar acuses de recibo"
-         nc:link="mail_help.xhtml#confirming_that_your_message_was_opened"/>
+         nc:link="mailnews_using_mail.xhtml#confirming_that_your_message_was_opened"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -764,7 +764,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_messages"
          nc:name="dirigir mensajes"
-         nc:link="mail_help.xhtml#addressing_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#addressing_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_preferences"
@@ -779,7 +779,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:attaching_files"
          nc:name="adjuntar archivos"
-         nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+         nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:changing_account_settings"
@@ -789,12 +789,12 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Compose_window"
          nc:name="ventana de redacci&#243;n"
-         nc:link="mail_help.xhtml#using_the_message_composition_window"/>
+         nc:link="mailnews_using_mail.xhtml#using_the_message_composition_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:composing_messages"
          nc:name="redactar mensajes"
-         nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages"/>
+         nc:link="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copies_and_folder_settings"
@@ -819,7 +819,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_HTML_mail_messages"
          nc:name="crear mensajes de correo HTML"
-         nc:link="mail_help.xhtml#creating_html_mail_messages"/>
+         nc:link="mailnews_using_mail.xhtml#creating_html_mail_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:disk_space_and_storage_settings"
@@ -834,7 +834,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:forwarding_messages"
          nc:name="re-enviar mensajes"
-         nc:link="mail_help.xhtml#forwarding_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#forwarding_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:general_preferences"
@@ -844,22 +844,22 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:getting_new_messages"
          nc:name="recibir nuevos mensajes"
-         nc:link="mail_help.xhtml#getting_new_messages"/>
+         nc:link="mailnews_using_mail.xhtml#getting_new_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_recipients"
          nc:name="destinatarios de correo HTML"
-         nc:link="mail_help.xhtml#specifying_recipients_for_html_messages"/>
+         nc:link="mailnews_using_mail.xhtml#specifying_recipients_for_html_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_sending_options"
          nc:name="opciones de env&#237;o de correo HTML"
-         nc:link="mail_help.xhtml#choosing_html_mail_sending_options"/>
+         nc:link="mailnews_using_mail.xhtml#choosing_html_mail_sending_options"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_Message_Source"
          nc:name="c&#243;digo fuente de mensaje HTML"
-         nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages"/>
+         nc:link="mailnews_using_mail.xhtml#viewing_the_message_source_for_html_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:identity_settings"
@@ -869,7 +869,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:mail_window_layout"
          nc:name="disposici&#243;n de la ventana de correo"
-         nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/>
+         nc:link="mailnews_using_mail.xhtml#choosing_how_you_view_the_mail_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:message_searching"
@@ -899,32 +899,32 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:replying_to_messages"
          nc:name="responder a mensajes"
-         nc:link="mail_help.xhtml#replying_to_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#replying_to_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_and_printing_messages"
          nc:name="guardar e imprimir mensajes"
-         nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_attachments"
          nc:name="guardar adjuntos"
-         nc:link="mail_help.xhtml#saving_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#saving_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_messages_drafts"
          nc:name="guardar borradores de mensajes"
-         nc:link="mail_help.xhtml#saving_and_editing_a_message_draft"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_message_draft"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_messages"
          nc:name="enviar mensajes"
-         nc:link="mail_help.xhtml#sending_messages"/>
+         nc:link="mailnews_using_mail.xhtml#sending_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_options"
          nc:name="opciones de env&#237;o"
-         nc:link="mail_help.xhtml#selecting_message_sending_options"/>
+         nc:link="mailnews_using_mail.xhtml#selecting_message_sending_options"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:SMTP_settings"
@@ -934,7 +934,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sorting_and_threading_messages"
          nc:name="ordenar mensajes y conversaciones"
-         nc:link="mail_help.xhtml#sorting_and_threading_messages"/>
+         nc:link="mailnews_using_mail.xhtml#sorting_and_threading_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_address_books"
@@ -944,17 +944,17 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_attachments"
          nc:name="usar adjuntos"
-         nc:link="mail_help.xhtml#using_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#using_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_HTML_in_messages"
          nc:name="usar HTML en los mensajes"
-         nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+         nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:viewing_attachments"
          nc:name="ver adjuntos"
-         nc:link="mail_help.xhtml#viewing_and_opening_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#viewing_and_opening_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
@@ -1023,7 +1023,7 @@
      <rdf:li>
        <rdf:Description ID="email_addresses:in_mail_messages"
          nc:name="direcciones de correo electr&#243;nico en mensajes"
-         nc:link="mail_help.xhtml#addressing_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#addressing_a_message"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1092,7 +1092,7 @@
      <rdf:li>
        <rdf:Description ID="save:messages"
          nc:name="guardar e imprimir mensajes"
-         nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1126,7 +1126,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="HTML:editing_in_mail_messages"
          nc:name="editar HTML en los mensajes de correo"
-         nc:link="mail_help.xhtml#editing_or_inserting_html_elements"/>
+         nc:link="mailnews_using_mail.xhtml#editing_or_inserting_html_elements"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="HTML:using_in_Composer"
@@ -1136,7 +1136,7 @@
      <rdf:li>
        <rdf:Description ID="HTML:using_in_mail_messages"
          nc:name="usar HTML en los mensajes de correo"
-         nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+         nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
