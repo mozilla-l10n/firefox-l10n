@@ -40,7 +40,7 @@
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "Ο &brandShortName; φροντίζει για το απόρρητο σας">
-<!ENTITY setup.newSyncKeyPage.description.label "Για να προστατευτεί πλήρως το απόρρητο σας, όλα τα δεδομένα σας κρυπτογραφούνται πριν τη μεταφορά τους. Το κλειδί Sync που είναι απαράιτητο για την αποκρυπτογράφηση τους δεν μεταφέρεται.">
+<!ENTITY setup.newSyncKeyPage.description.label "Για να προστατευτεί πλήρως το απόρρητο σας, όλα τα δεδομένα σας κρυπτογραφούνται πριν τη μεταφορά τους. Το κλειδί Sync που είναι απαραίτητο για την αποκρυπτογράφηση τους θα το έχετε μόνο εσείς.">
 <!ENTITY syncKeyEntry.label        "Το κλειδί Sync σας">
 <!ENTITY syncKeyEntry.accesskey    "Κ">
 <!ENTITY syncKeyGenerate.label     "Δημιουργία">
@@ -73,7 +73,7 @@
 <!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
 <!ENTITY syncComputerName.accesskey   "γ">
 
-<!ENTITY syncMy.label               "Sync σε">
+<!ENTITY syncMy.label               "Συγχρονισμός σε">
 <!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">
 <!ENTITY engine.bookmarks.accesskey "λ">
 <!ENTITY engine.tabs.label          "Καρτέλες">
