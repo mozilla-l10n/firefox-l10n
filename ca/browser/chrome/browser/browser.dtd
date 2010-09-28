@@ -307,8 +307,9 @@
   
  -->
 <!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmd.label "Obre l'enllaç en una finestra nova">
 <!ENTITY openLinkCmd.accesskey "f">
