@@ -1,7 +1,10 @@
+
 <!ENTITY migrationWizard.title "Волшебник за увоз">
+
 <!ENTITY importFrom.label "Увези опции, обележувачи, историја, лозинки и други податоци од:">
 <!ENTITY importFromUnix.label "Увези преференции, обележувачи, историја, лозинки и други податоци од:">
 <!ENTITY importFromBookmarks.label "Увези обележувачи од:">
+
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird или Phoenix">
@@ -32,12 +35,17 @@
 <!ENTITY importFromHTMLFile.accesskey "О">
 
 <!ENTITY noMigrationSources.label "Не може да се пронајдат програми кои содржат обележувачи, историја или лозинки.">
+
 <!ENTITY importSource.title "Увезување на поставки и податоци">
 <!ENTITY importItems.title "Што ќе се увезе?">
 <!ENTITY importItems.label "Изберете што да се увезе:">
+
 <!ENTITY migrating.title "Увезување…">
 <!ENTITY migrating.label "Следниве елементи моментално се увезуваат…">
+
 <!ENTITY selectProfile.title "Избор на профил">
 <!ENTITY selectProfile.label "Увоз може да се направи од следниве профили:">
+
 <!ENTITY done.title "Увозот заврши">
 <!ENTITY done.label "Следниве елементи беа успешно увезени:">
+

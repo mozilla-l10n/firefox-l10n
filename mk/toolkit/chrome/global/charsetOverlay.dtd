@@ -1,3 +1,4 @@
+<!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label "Кодна страница">
 <!ENTITY charsetMenu.accesskey "К">
 <!ENTITY charsetMenuAutodet.label "Авто-откривање">
@@ -16,5 +17,5 @@
 <!ENTITY charsetMenuMore5.accesskey "л">
 <!ENTITY charsetMenuUnicode.label "Уникод">
 <!ENTITY charsetMenuUnicode.accesskey "У">
-<!ENTITY charsetCustomize.label "Прилагоди го списокот…">
-<!ENTITY charsetCustomize.accesskey "л">
+<!ENTITY charsetCustomize.label "Customize List…">
+<!ENTITY charsetCustomize.accesskey "c">

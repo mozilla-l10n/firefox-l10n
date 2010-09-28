@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,10 +34,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY errorConsole.title "Конзола за грешки">
+
 <!ENTITY errFile.label "Датотека со код:">
 <!ENTITY errLine.label "Линија:">
 <!ENTITY errColumn.label "Колона:">
+
 <!ENTITY all.label "Сè">
 <!ENTITY all.accesskey "С">
 <!ENTITY errors.label "Грешки">
@@ -53,11 +55,12 @@
 <!ENTITY codeEval.accesskey "о">
 <!ENTITY evaluate.label "Процени">
 <!ENTITY evaluate.accesskey "ц">
+
 <!ENTITY copyCmd.label "Копирај">
 <!ENTITY copyCmd.accesskey "К">
 <!ENTITY copyCmd.commandkey "C">
 <!ENTITY sortFirst.label "Подредување од прво кон последно">
-<!ENTITY sortFirst.accesskey "п">
+<!ENTITY sortFirst.accesskey "П">
 <!ENTITY sortLast.label "Подредување од последно кон прво">
 <!ENTITY sortLast.accesskey "л">
 <!ENTITY closeCmd.commandkey "w">

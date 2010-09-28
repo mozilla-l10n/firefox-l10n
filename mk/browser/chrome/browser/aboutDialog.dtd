@@ -1,13 +1,23 @@
 <!ENTITY aboutDialog.title "За &brandFullName;">
-<!ENTITY copyright "Заслуги">
-<!ENTITY copyright.accesskey "с">
-<!ENTITY copyrightGNOME.accesskey   "л">
-<!ENTITY aboutLink "&lt; За &brandFullName;">
-<!ENTITY aboutLink.accesskey "З">
-<!ENTITY aboutVersion "верзија">
-<!ENTITY closeCmdGNOME.label        "Затвори">  
-<!ENTITY closeCmdGNOME.accesskey    "т">
-<!ENTITY copyrightInfo1 "©1998-2008 Придонесувачи. Сите права задржани. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "информации за лиценцирањето">
-<!ENTITY copyrightInfo2             ").">
+
+<!ENTITY community.start2 "&brandShortName; е дизајниран од ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink "глобална заедница">
+<!ENTITY community.end2 " која работи заедно да го направи интернетот подобар. Веруваме дека сертификат  интернетот треба да биде отворен, јавен и достапен за секого без ограничувања.">
+
+<!ENTITY contribute.start "Звучи интересно?">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Вклучете се!">
+<!ENTITY contribute.end "">
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+
+<!ENTITY bottomLinks.license "Информации за лиценцирањето">
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+
+<!ENTITY bottomLinks.rights "Права на корисникот">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+
+<!ENTITY bottomLinks.privacy "Политика за приватност">

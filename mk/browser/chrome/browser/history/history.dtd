@@ -11,7 +11,7 @@
 <!ENTITY view.label "Преглед">
 <!ENTITY view.accesskey "е">
 <!ENTITY byMostVisited.label "По најголем број на посети">
-<!ENTITY byMostVisited.accesskey "п">
+<!ENTITY byMostVisited.accesskey "П">
 <!ENTITY byLastVisited.label "По последна посета">
 <!ENTITY byLastVisited.accesskey "о">
 <!ENTITY byDayAndSite.label "По датум и мрежно место">
@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "ј">
 <!ENTITY openInNewWindow.label "Отвори во нов прозорец">
 <!ENTITY openInNewWindow.accesskey "ц">
-<!ENTITY bookmarkLink.label "Обележи ја оваа врска…">
-<!ENTITY bookmarkLink.accesskey "б">
 <!ENTITY copyLink.label "Копирај ја локацијата на врската">
 <!ENTITY copyLink.accesskey "К">

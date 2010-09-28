@@ -10,6 +10,7 @@
 <!ENTITY selectAllCmd.accesskey "е">
 <!ENTITY deleteCmd.label "Избриши">
 <!ENTITY deleteCmd.accesskey "з">
+
 <!ENTITY spellAddToDictionary.label "Додај во речник">
 <!ENTITY spellAddToDictionary.accesskey "о">
 <!ENTITY spellCheckEnable.label "Провери правопис">

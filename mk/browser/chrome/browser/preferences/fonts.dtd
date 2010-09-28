@@ -2,19 +2,24 @@
 <!ENTITY window.width "39em">
 <!ENTITY window.macWidth "43em">
 <!ENTITY window.unixWidth "41em">
+
 <!ENTITY language.label "Фонтови за:">
 <!ENTITY language.accesskey "Ф">
+
 <!ENTITY size.label "Гол.:">
 <!ENTITY sizeProportional.accesskey "Г">
 <!ENTITY sizeMonospace.accesskey "л">
+
 <!ENTITY proportional.label "Пропорционален:">
 <!ENTITY proportional.accesskey "П">
+
 <!ENTITY serif.label "Сериф:">
 <!ENTITY serif.accesskey "С">
 <!ENTITY sans-serif.label "Санс-сериф:">
 <!ENTITY sans-serif.accesskey "н">
 <!ENTITY monospace.label "Моноспејс:">
 <!ENTITY monospace.accesskey "М">
+
 <!ENTITY font.langGroup.latin1 "Западна азбука">
 <!ENTITY font.langGroup.latin2 "Централно европска азбука">
 <!ENTITY font.langGroup.japanese "Јапонска азбука">
@@ -42,17 +47,23 @@
 <!ENTITY font.langGroup.gurmukhi "Гурмукхи азбука">
 <!ENTITY font.langGroup.khmer "Кмер азбука">
 <!ENTITY font.langGroup.malayalam "Малајаламска азбука">
-<!ENTITY font.langGroup.oriya  "Орија">
+<!ENTITY font.langGroup.oriya "Орија">
 <!ENTITY font.langGroup.telugu "Телугу">
 <!ENTITY font.langGroup.kannada "Каннада">
 <!ENTITY font.langGroup.sinhala "Синхала">
+<!ENTITY font.langGroup.tibetan "Тибетски">
+<!-- Minimum font size -->
 <!ENTITY minSize.label "Мин. гол.:">
 <!ENTITY minSize.accesskey "и">
 <!ENTITY minSize.none "Нема">
+<!-- default font type -->
+
 <!ENTITY useDefaultFontSerif.label "Сериф">
 <!ENTITY useDefaultFontSansSerif.label "Санс сериф">
+
 <!ENTITY allowPagesToUse.label "Дозволи страниците да користат свои фонтови">
 <!ENTITY allowPagesToUse.accesskey "а">
+
 <!ENTITY languages.customize.Charset.grouplabel "Кодна страница">
 <!ENTITY languages.customize.DefaultCharset.label "Основна:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "О">

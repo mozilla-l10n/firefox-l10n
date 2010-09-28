@@ -1,3 +1,5 @@
+<!-- extracted from finddialog.xul -->
+
 <!ENTITY findDialog.title "Пронаоѓање во оваа страница">
 <!ENTITY findField.label "Најди:">
 <!ENTITY findField.accesskey "Н">
