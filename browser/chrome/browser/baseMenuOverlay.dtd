@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "למשתמשי Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "מ">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label         "הערות שחרור">
 <!ENTITY helpReleaseNotes.accesskey     "ה">

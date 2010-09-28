@@ -24,15 +24,15 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Pin as App Tab">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Unpin Tab">
-<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  pinAppTab.label                    "הצמד כלשונית יישום">
+<!ENTITY  pinAppTab.accesskey                "ה">
+<!ENTITY  unpinAppTab.label                  "בטל הצמדה של לשונית">
+<!ENTITY  unpinAppTab.accesskey              "ב">
 <!ENTITY  moveToGroup.label                  "העבר לקבוצה">
 <!ENTITY  moveToGroup.accesskey              "ה">
 <!ENTITY  moveToNewGroup.label               "קבוצה חדשה">
-<!ENTITY  moveToNewWindow.label              "Move to New Window">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.label              "העבר לחלון חדש">
+<!ENTITY  moveToNewWindow.accesskey          "ה">
 <!ENTITY  bookmarkAllTabs.label              "צור סימנייה לכל הלשוניות...">
 <!ENTITY  bookmarkAllTabs.accesskey          "צ">
 <!ENTITY  undoCloseTab.label                 "בטל סגירת לשונית">
@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "סרגל כלים סימניות">
 <!ENTITY personalbarCmd.accesskey "ס">
 <!ENTITY bookmarksToolbarItem.label "פריטי סרגל כלים סימניות">
-<!ENTITY taskbarCmd.label "שורת מצב">
-<!ENTITY taskbarCmd.accesskey "ש">
+<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "מקור הדף">
 <!ENTITY pageSourceCmd.accesskey "ר">
@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "הפסק לטעון דף זה">
 <!ENTITY goEndCap.tooltip             "עבור לכתובת שבסרגל המיקום">
-<!ENTITY feedButton.tooltip           "הירשם לדף זה…">
 <!ENTITY printButton.label            "הדפסה">
 <!ENTITY printButton.tooltip          "הדפס דף זה">
 
@@ -133,11 +132,15 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "סימניות">
 
 <!-- Toolbar items --> 
-<!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.label          "תפריט">
+<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
 <!ENTITY homeButton.label             "דף הבית">
 
-<!ENTITY tabGroupsButton.label        "Tab Groups">
-<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+<!ENTITY tabGroupsButton.label        "קבוצות לשוניות">
+<!ENTITY tabGroupsButton.tooltip      "קבץ את הלשוניות שלך">
+
+<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.tooltip           "הירשם לדף זה…">
 
 <!ENTITY bookmarksButton.label          "סימניות">
 <!ENTITY bookmarksButton.tooltip        "מציג את הסימניות שלך">
@@ -251,8 +254,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "תצוגה"> 
 <!ENTITY viewMenu.accesskey       "ת"> 
-<!ENTITY viewTabGroups.label            "Tab Groups">
-<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabGroups.label            "קבוצות לשוניות">
+<!ENTITY viewTabGroups.accesskey        "ק">
 <!ENTITY viewToolbarsMenu.label       "סרגלי כלים"> 
 <!ENTITY viewToolbarsMenu.accesskey     "ם"> 
 <!ENTITY viewSidebarMenu.label "סרגל צד">
@@ -267,21 +270,22 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "לשוניות שנסגרו לאחרונה">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "חלונות שנסגרו לאחרונה">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.label "שחזר הפעלה קודמת">
 
 <!ENTITY historyHomeCmd.label "בית">
 <!ENTITY showAllHistoryCmd2.label "הצג את כל ההיסטוריה">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Edit">
+<!ENTITY appMenuEdit.label "עריכה">
 <!ENTITY appMenuCustomize.label "התאמה אישית">
 <!ENTITY appMenuToolbarLayout.label "פריסת סרגל הכלים…">
 <!ENTITY appMenuSidebars.label "סרגלי צד">
 <!ENTITY appMenuFind.label "מצא…">
 <!ENTITY appMenuUnsorted.label "סימניות לא ממויינות">
+<!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "התחל כאן">
-
-<!ENTITY developerMenu.label "מפתח">
+<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "עבור לאתר">
@@ -295,9 +299,9 @@ can reach it easily. -->
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -306,12 +310,11 @@ can reach it easily. -->
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "פתח קישור בלשונית חדשה">
 <!ENTITY openLinkCmdInTab.accesskey   "ל">
@@ -455,9 +458,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "מציג את החלון במסך מלא">
 
-<!ENTITY zoomOutButton.tooltip          "Zoom out">
-<!ENTITY zoomInButton.tooltip           "Zoom in">
-<!ENTITY zoomControls.label             "Zoom Controls">
+<!ENTITY zoomOutButton.tooltip          "התרחק">
+<!ENTITY zoomInButton.tooltip           "התקרבות">
+<!ENTITY zoomControls.label             "הגדרות מרחק מתצוגה">
 
 <!ENTITY quitApplicationCmdWin.label       "יציאה"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "צ">

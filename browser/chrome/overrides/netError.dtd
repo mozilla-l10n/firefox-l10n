@@ -48,9 +48,14 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
-<!ENTITY netOffline.longDesc2 "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Uncheck &quot;Work Offline&quot;, then try again.</li>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
 </ul>
 ">
 

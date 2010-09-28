@@ -1,2 +1,4 @@
-<!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
+<!ENTITY quota.dialogTitle.label    "מיכסת השרת">
+<!ENTITY quota.retrievingInfo.label "מאחזר מידע על המיכסה...">
+<!ENTITY quota.typeColumn.label     "Type">
+<!ENTITY quota.sizeColumn.label     "Size">

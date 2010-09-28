@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "חשבון &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Current Account:">
+<!ENTITY currentAccount.label         "חשבון נוכחי:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "עדכון">
@@ -14,11 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ניהול חשבון">
 <!ENTITY manageAccount.accesskey      "נ">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY viewQuota.label              "הצג מיכסה">
 <!ENTITY changePassword.label         "שינוי ססמה">
 <!ENTITY mySyncKey.label              "מפתח הסנכרון שלי">
 <!ENTITY resetSync.label              "איפוס Sync">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!ENTITY stopUsingAccount.label       "הפסק להשתמש בחשבון זה">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browser Sync">
