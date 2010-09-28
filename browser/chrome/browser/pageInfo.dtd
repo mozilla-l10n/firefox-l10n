@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Instali etendoprogramojn aŭ temojn">
 <!ENTITY  permGeo               "Diskonigi lokon">
 
+<!ENTITY  permIndexedDB              "Maintain Offline Storage">
+<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permClearStorage.accesskey "C">
+
 <!ENTITY  securityTab           "Sekureco">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Sekureca informo de tiu ĉi paĝo">
@@ -113,7 +117,7 @@
 <!ENTITY  securityView.identity.verifier "Kontrolita de:">
 
 <!ENTITY  securityView.privacy.header                   "Privateco kaj historio">
-<!ENTITY  securityView.privacy.history                  "Ĉu mi vizitis tiun retejon antaŭ ol hodiaŭ?">
+<!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
 <!ENTITY  securityView.privacy.cookies                  "Ĉu tiu ĉi retejo konservas datumon (kuketojn) en mia komputilo?">
 <!ENTITY  securityView.privacy.viewCookies              "Vidi kuketojn">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
