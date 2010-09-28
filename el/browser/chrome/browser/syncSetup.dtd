@@ -23,7 +23,7 @@
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Λεπτομέρεις λογαρισμού">
+<!ENTITY setup.newAccountDetailsPage.title.label "Λεπτομέρειες λογαριασμού">
 <!ENTITY setup.confirmPassword.label  "Επιβεβαίωση κωδικού">
 <!ENTITY setup.confirmPassword.accesskey  "β">
 <!ENTITY setup.emailAddress.label     "Διεύθυνση Email">
