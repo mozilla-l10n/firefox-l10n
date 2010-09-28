@@ -18,7 +18,7 @@
 <!ENTITY  addEngine.label           "Amestar más motores de gueta…">
 <!ENTITY  addEngine.accesskey       "a">
 
-<!ENTITY  enableSuggest.label       "Amosar suxerencies a gueta">
+<!ENTITY  enableSuggest.label       "Amosar suxerencies de gueta">
 <!ENTITY  enableSuggest.accesskey   "s">
 
 <!ENTITY  restoreDefaults.label     "Editar pallabra clave…">
