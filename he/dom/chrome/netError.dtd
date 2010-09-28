@@ -26,7 +26,7 @@
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
 <!ENTITY netOffline.longDesc "<p>הדפדפן עובד במצב לא־מקוון  ואינו יכול להתחבר לפריט המבוקש. העבר את הדפדפן למצב מקוון לפני שתנסה שוב.</p><ul><li>האם המחשב מחובר לרשת פעילה?</li><li>העבר את הדפדפן למצב מקוון ונסה שוב.</li></ul>">
-<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "<p>לא ניתן להציג את הדף שאתה מנסה לראות מכיוון שהוא משתמש בסוג דחיסה לא חוקי או לא ידוע.</p><ul><li> אנא צור  קשר עם בעלי האתר בכדי ליידע אותם אודות בעיה זו.</li></ul>">

@@ -14,8 +14,8 @@
 <!ENTITY server.label               "שרת">
 <!ENTITY serverType.main.label      "שרת &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "השתמש בשרת מותאם אישית">
-<!ENTITY signIn.account.label       "Email Address / User Name">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY signIn.account.label       "כתובת דוא״ל / שם משתמש">
+<!ENTITY signIn.account.accesskey   "כ">
 <!ENTITY signIn.password.label      "ססמה">
 <!ENTITY signIn.password.accesskey  "ס">
 <!ENTITY signIn.serverURL.label     "כתובת שרת">
@@ -43,10 +43,10 @@
 <!ENTITY syncKeyEntry.label        "מפתח הסנכרון שלך">
 <!ENTITY syncKeyEntry.accesskey    "מ">
 <!ENTITY syncKeyGenerate.label     "צור">
+<!ENTITY syncKeyStrength.label     "Strength:">
+<!ENTITY syncKeyHelp.label         "What does the strength mean?">
 <!ENTITY syncKeyBackup.description "מפתח הסנכרון שלך דרוש כדי לגשת אל &syncBrand.fullName.label; במחשבים אחרים. אנא צור עותק גיבוי. לא נוכל לסייע לך לשחזר את מפתח הסנכרון שלך.">
 
-<!ENTITY button.syncKeyBackup.email.label     "דוא״ל…">
-<!ENTITY button.syncKeyBackup.email.accesskey "ד">
 <!ENTITY button.syncKeyBackup.print.label     "הדפסה...">
 <!ENTITY button.syncKeyBackup.print.accesskey "ה">
 <!ENTITY button.syncKeyBackup.save.label      "שמירה…">

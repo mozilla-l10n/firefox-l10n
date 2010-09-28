@@ -7,9 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "בדוק אם ישנם עדכונים">
 <!ENTITY listEmpty.search.label               "לא ניתן למצוא תוספת תואמת">
 <!ENTITY listEmpty.button.label               "למד עוד אודות תוספות">
-<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
+<!ENTITY installAddonFromFile.label           "התקנת תוספת מקובץ…">
+<!ENTITY installAddonFromFile.accesskey       "ה">
+<!ENTITY toolsMenu.tooltip                    "כלים עבור כל התוספות">
 
 <!ENTITY cmd.back.tooltip                     "חזור דף אחד אחורה">
 <!ENTITY cmd.forward.tooltip                  "התקדם דף אחד קדימה">
@@ -35,24 +35,24 @@
 <!ENTITY view.availableUpdates.label          "עדכונים זמינים">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Check for Updates">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.checkForUpdates.label        "בדוק עדכונים">
+<!ENTITY updates.checkForUpdates.accesskey    "ב">
 <!ENTITY updates.viewUpdates.label            "הצג עדכונים אחרונים">
 <!ENTITY updates.viewUpdates.accesskey        "ה">
-<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updateAddonsAutomatically.label     "עדכון תוספות אוטומטי">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "ע">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "אפס את כל התוספות לעדכון אוטומטי">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "א">
+<!ENTITY updates.resetUpdatesToManual.label          "אפס את כל התוספות לעדכון ידני">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "א">
 <!ENTITY updates.updating.label               "מעדכן תוספות">
 <!ENTITY updates.installed.label              "התוספות שלך עודכנו.">
 <!ENTITY updates.downloaded.label             "עדכוני התוספות שלך הורדו.">
 <!ENTITY updates.restart.label                "הפעל מחדש כעת להשלמת ההתקנה">
 <!ENTITY updates.noneFound.label              "לא נמצאו עדכונים">
 <!ENTITY updates.manualUpdatesFound.label     "הצג עדכונים זמינים">
-<!ENTITY updates.updateSelected.label         "Install Updates">
-<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
+<!ENTITY updates.updateSelected.label         "התקן עדכונים">
+<!ENTITY updates.updateSelected.tooltip       "התקן את העדכונים הזמינים ברשימה זו">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "הצג מידע נוסף">
@@ -101,8 +101,8 @@
 <!ENTITY detail.contributions.description     "המפתח של תוספת זו מבקש את עזרתך בהמשך הפיתוח על ידי מתן תרומה צנועה.">
 
 <!ENTITY detail.updateType                    "עדכונים אוטומטיים">
-<!ENTITY detail.updateDefault.label           "Default">
-<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateDefault.label           "ברירת מחדל">
+<!ENTITY detail.updateDefault.tooltip         "התקן עדכונים באופן אוטומטי רק אם זה ברירת המחדל">
 <!ENTITY detail.updateAutomatic.label         "פעיל">
 <!ENTITY detail.updateAutomatic.tooltip       "התקן עדכונים אוטומטית">
 <!ENTITY detail.updateManual.label            "כבוי">
@@ -111,19 +111,19 @@
 <!ENTITY detail.repository                    "פרופיל התוספת">
 <!ENTITY detail.size                          "גודל ">
 
-<!ENTITY detail.checkForUpdates.label         "Check for Updates">
-<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.label         "בדוק עדכונים">
+<!ENTITY detail.checkForUpdates.accesskey     "ב">
 <!ENTITY detail.checkForUpdates.tooltip       "בדוק אם ישנם עדכונים לתוספת זו">
 <!ENTITY detail.showPreferencesWin.label      "אפשרויות">
 <!ENTITY detail.showPreferencesWin.accesskey  "א">
-<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
+<!ENTITY detail.showPreferencesWin.tooltip    "שנה את האפשרויות של תוספת זו">
 <!ENTITY detail.showPreferencesUnix.label     "העדפות">
 <!ENTITY detail.showPreferencesUnix.accesskey "ה">
 <!ENTITY detail.showPreferencesUnix.tooltip   "שנה את ההעדפות של תוספת זו">
 
 
 <!-- ratings -->
-<!ENTITY rating2.label                        "Rating">
+<!ENTITY rating2.label                        "דירוג">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "השהה">
@@ -137,8 +137,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "מיין לפי תאריך עדכון">
 <!ENTITY sort.relevance.label                 "ההתאמה הטובה ביותר">
 <!ENTITY sort.relevance.tooltip               "מיין לפי רלוונטיות">
-<!ENTITY sort.price.label                     "Price">
-<!ENTITY sort.price.tooltip                   "Sort by price">
+<!ENTITY sort.price.label                     "מחיר">
+<!ENTITY sort.price.tooltip                   "מיין לפי מחיר">
 
 <!ENTITY search.filter2.label                 "חפש:">
 <!ENTITY search.filter2.installed.label       "התוספות שלי">
@@ -168,8 +168,8 @@
 <!ENTITY addon.install.tooltip                "התקן תוספת זו">
 <!ENTITY addon.updateNow.label                "עדכן כעת">
 <!ENTITY addon.updateNow.tooltip              "התקנת העדכון לתוספת זו">
-<!ENTITY addon.includeUpdate.label            "Include in Update">
-<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.includeUpdate.label            "כלול בעידכון">
+<!ENTITY addon.updateAvailable.label          "עידכון זמין">
 <!ENTITY addon.checkingForUpdates.label       "בודק אם ישנם עדכונים חדשים…">
 <!ENTITY addon.releaseNotes.label             "הערות שחרור:">
 <!ENTITY addon.loadingReleaseNotes.label      "בטעינה…">

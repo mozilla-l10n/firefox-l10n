@@ -99,9 +99,9 @@
 <!ENTITY  permInstall           "התקנת הרחבות או ערכות נושא">
 <!ENTITY  permGeo               "שיתוף מיקום">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
-<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permIndexedDB              "תחזוקת אחסון לא מקוון">
+<!ENTITY  permClearStorage           "מחק אחסון">
+<!ENTITY  permClearStorage.accesskey "מ">
 
 <!ENTITY  securityTab           "אבטחה">
 <!ENTITY  securityTab.accesskey "א">
