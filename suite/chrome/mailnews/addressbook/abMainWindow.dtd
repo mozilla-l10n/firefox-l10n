@@ -103,8 +103,6 @@
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksportuoti…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY allowOnlineCheck.label                         "Tikrinti, ar prisijungęs prie AOL">
-<!ENTITY allowOnlineCheck.accesskey                     "T">
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label                         "Naujas adresatas">

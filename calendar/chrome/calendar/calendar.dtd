@@ -150,6 +150,12 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "U">
 <!ENTITY calendar.task.filter.open.label            "Nebaigtus darbus">
 <!ENTITY calendar.task.filter.open.accesskey        "b">
+
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "Aktualius darbus">
 <!ENTITY calendar.task.filter.current.accesskey     "k">
 <!ENTITY calendar.task.filter.repeating.label       "Pasikartojančius darbus">
