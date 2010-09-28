@@ -51,12 +51,12 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Փակ նավարկում)">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Reload Tab">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Reload All Tabs">
-<!ENTITY  reloadAllTabs.accesskey            "A">
-<!ENTITY  closeOtherTabs.label               "Close Other Tabs">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  reloadTab.label                    "Թարմացնել էջը">
+<!ENTITY  reloadTab.accesskey                "Թ">
+<!ENTITY  reloadAllTabs.label                "Թարմացնել բոլոր էջերը">
+<!ENTITY  reloadAllTabs.accesskey            "Թ">
+<!ENTITY  closeOtherTabs.label               "Փակել մյուս էջերը">
+<!ENTITY  closeOtherTabs.accesskey           "Փ">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -72,14 +72,14 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "New Group">
 <!ENTITY  moveToNewWindow.label              "Move to New Window">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "Undo Close Tab">
-<!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "Close Tab">
-<!ENTITY  closeTab.accesskey                 "C">
+<!ENTITY  bookmarkAllTabs.label              "Էջանշել բոլոր էջերը">
+<!ENTITY  bookmarkAllTabs.accesskey          "Է">
+<!ENTITY  undoCloseTab.label                 "Վերականգնել փակված էջը">
+<!ENTITY  undoCloseTab.accesskey             "Վ">
+<!ENTITY  closeTab.label                     "Փակել էջը">
+<!ENTITY  closeTab.accesskey                 "Փ">
 
-<!ENTITY  listAllTabs.label      "List all tabs">
+<!ENTITY  listAllTabs.label      "Ցուցադրել բոլոր էջերը">
 
 <!ENTITY tabCmd.label "Նոր Ներդիր">
 <!ENTITY tabCmd.accesskey "T">
@@ -109,8 +109,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Էջանիշերի Վահանակ">
 <!ENTITY personalbarCmd.accesskey "Է">
 <!ENTITY bookmarksToolbarItem.label "Էջանիշերի Վահանակի Իրեր">
-<!ENTITY taskbarCmd.label "Կարգավիճակի Տող">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Դիտել Էջի Կոդը">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -161,7 +161,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ընդհատել Էջի բեռնավորումը">
 <!ENTITY goEndCap.tooltip             "Գնալ Հասցեի Տողում նշված հասցեով">
-<!ENTITY feedButton.tooltip           "Բաժանորդագրվել այս էջին...">
 <!ENTITY printButton.label            "Տպել">
 <!ENTITY printButton.tooltip          "Տպել տվյալ էջը">
 
@@ -173,18 +172,22 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
 <!ENTITY homeButton.label             "Տուն">
 
 <!ENTITY tabGroupsButton.label        "Tab Groups">
 <!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+
+<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.tooltip           "Բաժանորդագրվել այս էջին...">
 
 <!ENTITY bookmarksButton.label          "Էջանիշներ">
 <!ENTITY bookmarksButton.tooltip        "Ցույց տալ ձեր էջանիշները">
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Bookmarks">
-<!ENTITY bookmarksMenuButton.tooltip        "Display your bookmarks">
+<!ENTITY bookmarksMenuButton.label          "Էջանիշեր">
+<!ENTITY bookmarksMenuButton.tooltip        "Ցույց տալ ձեր էջանիշները">
 <!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
 <!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
 
@@ -230,10 +233,10 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspect">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Next">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "Previous">
-<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectNextButton.label      "Հաջորդ">
+<!ENTITY inspectNextButton.accesskey  "Հ">
+<!ENTITY inspectPreviousButton.label  "Նախորդ">
+<!ENTITY inspectPreviousButton.accesskey "Ն">
 <!ENTITY inspectStyleButton.label     "Style">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Style">
@@ -241,8 +244,8 @@ can reach it easily. -->
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Object">
-<!ENTITY inspectObjectButton.accesskey   "O">
+<!ENTITY inspectObjectButton.label       "Օբյեկտ">
+<!ENTITY inspectObjectButton.accesskey   "Օ">
 
 <!ENTITY fileMenu.label         "Ֆայլ"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -306,7 +309,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Վերջին փակված ներդիրները">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Վերջին փակված պատուհանները">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.label "Վերականգնել նախորդ սեսիան">
 
 <!ENTITY historyHomeCmd.label "Տուն">
 <!ENTITY showAllHistoryCmd2.label "Ցույց տալ ամբողջ պատմությունը">
@@ -317,10 +320,11 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Find…">
-<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
-<!ENTITY appMenuGettingStarted.label "Getting Started">
-
-<!ENTITY developerMenu.label "Developer">
+<!ENTITY appMenuUnsorted.label "Չկարգավորված Էջանիշեր">
+<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuGettingStarted.label "Աշխատանքի Սկիզբ">
+<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Go to a Web Site">
@@ -453,8 +457,8 @@ can reach it easily. -->
 <!ENTITY mediaShowControls.accesskey "Ց">
 <!ENTITY mediaHideControls.label     "Թաքցնել ղեկավարիչները">
 <!ENTITY mediaHideControls.accesskey "Թ">
-<!ENTITY videoFullScreen.label       "Full Screen">
-<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.label       "Լիաէկրան ռեժիմ">
+<!ENTITY videoFullScreen.accesskey   "Լ">
 
 
 <!-- LOCALIZATION NOTE :

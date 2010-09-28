@@ -50,13 +50,13 @@
 <!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Server">
+<!ENTITY server.label               "Սպասարկչ">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
 <!ENTITY serverType.custom.label    "Use a custom server">
 <!ENTITY signIn.account.label       "Email Address / User Name">
 <!ENTITY signIn.account.accesskey   "E">
-<!ENTITY signIn.password.label      "Password">
-<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.password.label      "Գաղտնաբառը">
+<!ENTITY signIn.password.accesskey  "Գ">
 <!ENTITY signIn.serverURL.label     "Server URL">
 <!ENTITY signIn.serverURL.accesskey "L">
 
@@ -64,15 +64,15 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Հաշվեհամարի Մանրամասներ">
 <!ENTITY setup.confirmPassword.label  "Confirm Password">
 <!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
-<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.emailAddress.label     "էլ­-Փոստի հասցեն">
+<!ENTITY setup.emailAddress.accesskey "է">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "I agree to the">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "Terms of Service">
 <!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
+<!ENTITY setup.ppLink.label         "Գաղտնիության Դրույթները">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "a">
 
@@ -82,12 +82,12 @@
 <!ENTITY syncKeyEntry.label        "Your Sync Key">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Generate">
+<!ENTITY syncKeyStrength.label     "Strength:">
+<!ENTITY syncKeyHelp.label         "What does the strength mean?">
 <!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Email…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.print.label     "Տպել…">
+<!ENTITY button.syncKeyBackup.print.accesskey "Տ">
 <!ENTITY button.syncKeyBackup.save.label      "Save…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
@@ -96,8 +96,8 @@
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Enter Account Information">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY connecting.label             "Connecting…">
+<!ENTITY resetPassword.label          "Վերանշել գաղտնաբառը">
+<!ENTITY connecting.label             "Կապի հաստատում…">
 
 <!-- Existing Account Page 2: Sync Key -->
 <!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
@@ -112,16 +112,16 @@
 <!ENTITY syncComputerName.accesskey   "C">
 
 <!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.bookmarks.label     "Էջանիշեր">
+<!ENTITY engine.bookmarks.accesskey "Է">
+<!ENTITY engine.tabs.label          "Ներդիրներ">
+<!ENTITY engine.tabs.accesskey      "Ն">
+<!ENTITY engine.history.label       "Մատյան">
+<!ENTITY engine.history.accesskey   "Մ">
+<!ENTITY engine.passwords.label     "Գաղտնաբառեր">
+<!ENTITY engine.passwords.accesskey "Գ">
+<!ENTITY engine.prefs.label         "Նախընտրանքներ">
+<!ENTITY engine.prefs.accesskey     "Ն">
 
 <!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "Recommended:">
@@ -129,7 +129,7 @@
 <!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
+<!ENTITY setup.optionsConfirmPage.title "Հաստատել">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
 <!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">

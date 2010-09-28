@@ -37,7 +37,7 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "Ախտորոշիչ տեղեկատվություն">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
@@ -46,34 +46,34 @@
   about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
+<!ENTITY aboutSupport.extensionsTitle "Ընդլայնում">
+<!ENTITY aboutSupport.extensionName "Անուն">
+<!ENTITY aboutSupport.extensionEnabled "Միացված է">
 <!ENTITY aboutSupport.extensionVersion "Տարբերակ">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
+<!ENTITY aboutSupport.appBasicsTitle "Տեղեկություն հավելվածի մասին">
+<!ENTITY aboutSupport.appBasicsName "Անուն">
 <!ENTITY aboutSupport.appBasicsVersion "Տարբերակ">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
+<!ENTITY aboutSupport.appBasicsProfileDir "Պրոֆիլի պահոց">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Հավաքման ձևաչափ">
 <!ENTITY aboutSupport.appBasicsUserAgent "Օգտագործողի զննարկիչը">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "Բացել նրա պահոցը">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Ցույց տալ Finder -ում">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Փոփոխված նախընտրանքներ">
+<!ENTITY aboutSupport.modifiedPrefsName "Անուն">
+<!ENTITY aboutSupport.modifiedPrefsValue "Արժեքը">
 
 <!ENTITY aboutSupport.graphicsTitle "Graphics">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.installationHistoryTitle "Տեղակայման մատյան">
+<!ENTITY aboutSupport.updateHistoryTitle "Թարմացումների մատյան">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "Պատճենել  հիշողության մեջ">

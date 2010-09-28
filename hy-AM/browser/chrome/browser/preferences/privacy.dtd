@@ -96,11 +96,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "մաքրել ողջ ընթացիկ պատմությունը">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent.label "Մշտապես գաղտնի նավարկման կարգավիճակ">
+<!ENTITY  privateBrowsingPermanent.accesskey "Մ">
 
-<!ENTITY  rememberHistory.label      "Remember my browsing history">
-<!ENTITY  rememberHistory.accesskey  "b">
+<!ENTITY  rememberHistory.label      "Հիշել այցելած էջերը">
+<!ENTITY  rememberHistory.accesskey  "Հ">
 
 <!ENTITY  rememberDownload.label         "Հիշել բեռնումների պատմությունը">
 <!ENTITY  rememberDownload.accesskey     "Հ">

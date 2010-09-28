@@ -43,19 +43,19 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
+<!ENTITY abouthome.pageTitle "&brandFullName; Մեկնարկային Էջ">
 
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
 
-<!ENTITY abouthome.searchEngineButton.label "Search">
+<!ENTITY abouthome.searchEngineButton.label "Որոնում">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Advanced Search">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferences">
+<!ENTITY abouthome.searchEngineLinks.advanced "Ընդլայնված Որոնում">
+<!ENTITY abouthome.searchEngineLinks.preferences "Նախըտրանքներ">
 
-<!ENTITY abouthome.aboutMozilla "About Mozilla">
+<!ENTITY abouthome.aboutMozilla "Մոզիլլայի մասին">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
