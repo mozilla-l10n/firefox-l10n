@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "L">
 <!ENTITY disableContextMenus.label      "Malaktivigi aŭ anstataŭigi menuojn de kunteksto">
 <!ENTITY disableContextMenus.accesskey  "M">
-<!ENTITY hideStatusBar.label            "Kaŝi la statan strion">
-<!ENTITY hideStatusBar.accesskey        "K">
-<!ENTITY changeStatusBar.label          "Ŝanĝi tekston en la stata strio">
-<!ENTITY changeStatusBar.accesskey      "Ŝ">

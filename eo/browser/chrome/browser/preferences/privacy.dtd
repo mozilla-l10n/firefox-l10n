@@ -12,10 +12,10 @@
 
 
 <!ENTITY  acceptCookies.label           "Akcepti kuketojn el retejoj">
-<!ENTITY  acceptCookies.accesskey       "e">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.label        "Akcepti nerektajn kuketojn">
-<!ENTITY  acceptThirdParty.accesskey    "e">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
 <!ENTITY  keepUntil.label               "Konservi ĝis:">
 <!ENTITY  keepUntil.accesskey           "K">

@@ -41,9 +41,16 @@ retperanto, certiĝu ke
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Malkonektita reĝimo">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Malaktivigu &quot;Labori malkonektite&quot; en la menuo Dosiero kaj klopodu denove.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Eraro de enkodigo de enhavo">
 <!ENTITY contentEncodingError.longDesc "<ul> 

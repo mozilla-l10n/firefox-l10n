@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Uzi glatan ŝovadon">
 <!ENTITY useSmoothScrolling.accesskey    "g">
+<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontroli literumadon dum tajpado">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -39,16 +41,18 @@
 <!ENTITY offlineStorage.label            "Deponejo por malkonektitaĵoj">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Uzi ĝis">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MO da spaco por la staplo">
+<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB of space">
 <!ENTITY clearCacheNow.label             "Forviŝi nun">
 <!ENTITY clearCacheNow.accesskey         "F">
+<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Ĝisdatigi">
 

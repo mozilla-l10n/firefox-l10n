@@ -47,15 +47,23 @@ do ĝi elŝutas nun la tutan ĝisdatigan pakon.">
 
 <!ENTITY  details.link                    "Detaloj">
 
+<!ENTITY  error.title                     "Update Failed">
+
 <!ENTITY  error.label                     "Estis problemoj dum la kontrolado, elŝutado aŭ instalado de tiu ĉi 
 ĝisdatigo. &brandShortName; ne povis esti ĝisdatigita ĉar:">
                                            
 <!ENTITY  errorManual.label               "Vi povas ĝisdatigi &brandShortName; mem. Vizitu tiun ĉi ligilon 
 kaj elŝutu la lastan version:">
                                            
-<!ENTITY  errorpatching.title             "Ĝisdatigo malsukcesa">
 <!ENTITY  errorpatching.intro             "La parta ĝisdatigo ne povis esti aplikita. 
 &brandShortName; klopodos denove per elŝutado de kompleta ĝisdatigo.">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
+                                           make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
+                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
+                                           insecure update. Please contact your network provider and seek help.">
 
 <!ENTITY  finishedPage.title              "Preta instali ĝisdatigon">
 <!ENTITY  finishedPage.text               "La ĝisdatigo estos instalita kiam &brandShortName; startos denove. Vi 
