@@ -17,14 +17,14 @@
 <!ENTITY jobTitleInput.label "Име на работата:">
 <!ENTITY jobTitleInput.accesskey "р">
 
-<!ENTITY colorGroup.label "Боја:">
-<!ENTITY grayRadio.label "Сиви нијанси">
-<!ENTITY grayRadio.accesskey "в">
-<!ENTITY colorRadio.label "Боја">
-<!ENTITY colorRadio.accesskey "Б">
+<!ENTITY colorGroup.label "Color:">
+<!ENTITY grayRadio.label "Grayscale">
+<!ENTITY grayRadio.accesskey "G">
+<!ENTITY colorRadio.label "Color">
+<!ENTITY colorRadio.accesskey "C">
 
-<!ENTITY colorspaceInput.label "Систем на бои:">
-<!ENTITY colorspaceInput.accesskey "С">
+<!ENTITY colorspaceInput.label "Colorspace:">
+<!ENTITY colorspaceInput.accesskey "s">
 
 <!ENTITY fontsGroup.label "Фонтови:">
 <!ENTITY downloadFonts.label "Пренеси ги фонтовите на печатачот">

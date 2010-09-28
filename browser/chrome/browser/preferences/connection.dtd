@@ -1,9 +1,11 @@
+
 <!ENTITY connectionsDialog.title "Поставки за врската">
 <!ENTITY window.width "37em">
 <!ENTITY window.macWidth "39em">
+
 <!ENTITY proxyTitle.label "Конфигурирање на посредник за пристап на Интернет">
-<!ENTITY noProxyTypeRadio.label        "Без посредник">
-<!ENTITY noProxyTypeRadio.accesskey    "Б">
+<!ENTITY noProxyTypeRadio.label "Без посредник">
+<!ENTITY noProxyTypeRadio.accesskey "Б">
 <!ENTITY systemTypeRadio.label "Користи ги системските поставки за посредник">
 <!ENTITY systemTypeRadio.accesskey "и">
 <!ENTITY WPADTypeRadio.label "Авто-откривање на поставки за посредник за оваа мрежа">
@@ -16,8 +18,6 @@
 <!ENTITY reload.accesskey "е">
 <!ENTITY ftp.label "FTP поср.:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher поср.:">
-<!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "HTTP поср.:">
 <!ENTITY http.accesskey "H">
 <!ENTITY ssl.label "SSL поср.:">
@@ -32,7 +32,6 @@
 <!ENTITY HTTPport.accesskey "П">
 <!ENTITY SSLport.accesskey "о">
 <!ENTITY FTPport.accesskey "р">
-<!ENTITY gopherPort.accesskey "т">
 <!ENTITY SOCKSport.accesskey "а">
 <!ENTITY noproxy.label "Без поср. за:">
 <!ENTITY noproxy.accesskey "е">

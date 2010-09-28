@@ -19,7 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Terry Hayes <thayes@netscape.com> 
+   -   Terry Hayes <thayes@netscape.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Values for changepassword.xul -->
+
 <!ENTITY setPassword.title "Менување на главната лозинка">
 <!ENTITY setPassword.tokenName.label "Безбедносен уред">
 <!ENTITY setPassword.oldPassword.label "Актуелна лозинка:">
@@ -43,22 +43,22 @@
 <!ENTITY setPassword.reenterPassword.label "Нова лозинка (повторно):">
 <!ENTITY setPassword.meter.label "Мерач на квалитетот на лозинките">
 <!ENTITY setPassword.meter.loading "Вчитувам">
-
 <!-- Values for resetpassword.xul -->
+
 <!ENTITY resetPasswordButtonLabel "Ресетирај">
 <!ENTITY resetPassword.title "Ресетирање на главната лозинка">
 <!ENTITY resetPassword.text "Ако ја ресетирате главната лозинка сите Ваши снимени лозикни, податоци за обрасци, сертификати и приватни клучеви ќе бидат загубени. Сигурно сакате да ја ресетирате главната лозинка?">
-
 <!-- Values for getpassword.xul -->
+
 <!ENTITY getPassword.title "Внесување на главна лозинка">
 <!ENTITY getPassword.tokenName2.label "Безбедносен уред:">
 <!ENTITY getPassword.password.label "Лозинка:">
-
 <!-- These should be common -->
+
 <!ENTITY piperror.title "Грешка">
 <!ENTITY pipalert.title "Грешка - опоравување не е можно">
-
 <!-- Prefs panel strings -->
+
 <!ENTITY pref.security.general.lHeader "Безбедност">
 <!ENTITY pref.security.general.rHeader "Поставки за општа безбедност">
 <!ENTITY pref.security.general.header "Поставки за општа безбедност">
@@ -66,8 +66,8 @@
 <!ENTITY pref.security.general.paranoid.label "Користи параноични безбедносни поставки">
 <!ENTITY pref.security.general.certificates.title "Сертификати">
 <!ENTITY pref.security.general.manageCert.label "Уреди ги сертификатите">
-
 <!-- Downloading a cert -->
+
 <!ENTITY downloadCert.title "Преземање на сертификат">
 <!ENTITY downloadCert.message1 "Од вас е побарано да му верувате на нов авторитет за сертификати (CA).">
 <!ENTITY downloadCert.trustSSL "Верувај му на овој CA во идентифукувањето на мрежни места.">
@@ -78,18 +78,18 @@
 <!ENTITY downloadCert.viewPolicy.label "Политика">
 <!ENTITY downloadCert.viewCert.text "Испитај го CA сертификатот">
 <!ENTITY downloadCert.viewPolicy.text "Испитај ги CA политиките и процедурите">
+<!-- Certificate Exists in database -->
 
-    <!-- Certificate Exists in database -->
 <!ENTITY caCertExists.title "Сертификатот постои">
 <!ENTITY caCertExists.message "Сертификатот веќе постои.">
-
 <!-- Strings for the SSL client auth ask dialog -->
+
 <!ENTITY clientAuthAsk.title "Барање за идентификација на корисникот">
 <!ENTITY clientAuthAsk.message1 "Ова место побара од вас да се идентификувате со сертификат:">
 <!ENTITY clientAuthAsk.message2 "Изберете сертификат кој ќе служи како идентификација:">
 <!ENTITY clientAuthAsk.message3 "Детали за избраниот сертификат:">
-
 <!-- Strings for the cert picker dialog -->
+
 <!ENTITY certPicker.title "Избор на сертификат">
 <!ENTITY certPicker.info "Сертификат:">
 <!ENTITY certPicker.detailsLabel "Детали за избраниот сертификат:">
@@ -105,6 +105,7 @@
 
 <!ENTITY chooseToken.title "Дијалог за избор на секвенца">
 <!ENTITY chooseToken.message1 "Избери секвенца.">
+
 <!ENTITY escrowWarn.title "Копија на клучот за енкрипција">
 <!ENTITY escrowWarn.message1 "Важно: Овој авторитет за сертификати побара од вас да направите резервна копија на Вашиот клуч за енркипција.">
 <!ENTITY escrowWarn.benefit1 "Користа е во тоа што ако го изгубите приватниот клуч за енкрипција, можете да побарате негова копија од авторитетот за сертификати.">
@@ -113,17 +114,16 @@
 <!ENTITY examineCert.accesskey "П">
 
 <!ENTITY serverCrlNextupdate.message "Побарајте помош од системскиот администратор">
-
 <!-- Strings for the CreateCertInfo dialog  -->
+
 <!ENTITY createCertInfo.title "Генерирање на приватен клуч">
 <!ENTITY createCertInfo.msg1 "Генерирањето на клуч е во тек… Ова може да потрае неколку минути…">
 <!ENTITY createCertInfo.msg2 "Почекај…">
-
 <!-- Form Signing confirmation prompt -->
+
 <!ENTITY formSigning.title "Барање за потпишување на текст">
 <!ENTITY formSigning.cert "Сертификат за потпишување">
 <!ENTITY formSigning.confirmPassword "За да потврдите дека се согласувате да ја потпишете оваа текстуална порака со избраниот сертификат, внесете ја главната лозинка:">
-
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Проверка со зашитетен белег">

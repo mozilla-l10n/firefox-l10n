@@ -1,4 +1,5 @@
 <!ENTITY window.width "30em">
+
 <!ENTITY languages.customize.Header "Јазици">
 <!ENTITY languages.customize.prefLangDescript "Страниците на Интернет понекогаш се на повеќе јазици. Изберете јазици за прикажување на страниците, по Ваш посакуван редослед.">
 <!ENTITY languages.customize.active.label "Јазици подредени по преференција:">
@@ -11,3 +12,4 @@
 <!ENTITY languages.customize.selectLanguage.label "Дополнителни јазици…">
 <!ENTITY languages.customize.addButton.label "Додај">
 <!ENTITY languages.customize.addButton.accesskey "а">
+

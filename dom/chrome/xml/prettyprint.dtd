@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Vincent Béron <vberon@hermes.usherb.ca>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,4 +33,5 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY xml.nostylesheet "Се чини дека оваа XML датотека нема информации за стилот кои се однесуваат на неа. Стеблото на документот е прикажано подолу.">

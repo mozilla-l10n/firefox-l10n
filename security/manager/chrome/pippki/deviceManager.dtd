@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Ian McGreer <mcgreer@netscape.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,12 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY devmgr.title "Менаџер на уреди">
+
 <!ENTITY devmgr.devlist.label "Безбедносни модули и уреди">
 <!ENTITY devmgr.details.title "Детали">
 <!ENTITY devmgr.details.title2 "Вредност">
 <!ENTITY devmgr.status.label "Статус">
 <!ENTITY devmgr.version.label "Верзија">
+
 <!ENTITY devmgr.button.changeslotname.label "Смени го името на слотот">
 <!ENTITY devmgr.button.changeslotname.accesskey "С">
 <!ENTITY devmgr.button.login.label "Пријави се">
@@ -54,6 +56,7 @@
 <!ENTITY devmgr.button.unload.label "Испразни">
 <!ENTITY devmgr.button.unload.accesskey "И">
 <!ENTITY devmgr.button.fips.accesskey "F">
+
 <!ENTITY loaddevice.info "Внеси информации за модулот што сакате да го додадете.">
 <!ENTITY loaddevice.modname "Име на модулот:">
 <!ENTITY loaddevice.modname.accesskey "м">
@@ -62,4 +65,5 @@
 <!ENTITY loaddevice.filename.accesskey "д">
 <!ENTITY loaddevice.browse "Разгледај…">
 <!ENTITY loaddevice.browse.accesskey "Р">
+
 <!ENTITY loaddevice.title "Вчитување на PKCS#11 уредот">

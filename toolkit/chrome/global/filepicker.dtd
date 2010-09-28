@@ -9,7 +9,9 @@
 <!ENTITY lastModified.label "Последна промена">
 <!ENTITY showHiddenFiles.label "Прикажи ги скриените датотеки и директориуми">
 <!ENTITY showHiddenFiles.accesskey "с">
+
 <!ENTITY noPermissionError.label "Немате дозвола да го видите овој директориум.">
+
 <!ENTITY folderUp.tooltiptext "Оди едно ниво нагоре">
 <!ENTITY folderHome.tooltiptext "Оди дома">
 <!ENTITY folderNew.tooltiptext "Креира нов директориум">

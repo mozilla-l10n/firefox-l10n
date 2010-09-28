@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,13 +34,14 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY advancedJSDialog.title "Напредни поставки за JavaScript">
 <!ENTITY window.width "37em">
+
 <!ENTITY allowScripts.label "Дозволи скриптите да:">
 
-<!ENTITY moveResizeWindows.label        "Преместуваат или менуваат постоечки прозорци">
-<!ENTITY moveResizeWindows.accesskey    "П">
-
+<!ENTITY moveResizeWindows.label "Преместуваат или менуваат постоечки прозорци">
+<!ENTITY moveResizeWindows.accesskey "П">
 <!ENTITY raiseLowerWindows.label "Креваат или спуштаат прозорци">
 <!ENTITY raiseLowerWindows.accesskey "р">
 <!ENTITY disableContextMenus.label "Оневозможуваат или заменуваат контекстни менија">

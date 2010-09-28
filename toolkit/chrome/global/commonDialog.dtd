@@ -2,8 +2,7 @@
 <!ENTITY message.label "Овде напишете некој пробен текст.">
 <!ENTITY editfield0.label "Корисничко име:">
 <!ENTITY editfield1.label "Лозинка:">
-<!ENTITY editfield2.label "Потврдете ја лозинката:">
-<!ENTITY checkbox.label "провери">
+<!ENTITY checkbox.label "check">
 <!ENTITY copyCmd.label "Копирај">
 <!ENTITY copyCmd.accesskey "К">
 <!ENTITY selectAllCmd.label "Избери сè">

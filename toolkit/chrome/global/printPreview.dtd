@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -  Samir Gehani <sgehani@netscape.com> (Original Author)
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,6 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY print.label "Печати…">
 <!ENTITY print.accesskey "П">
 <!ENTITY pageSetup.label "Поставување на страницата…">
@@ -63,9 +63,10 @@
 <!ENTITY p175.label "175&#037;">
 <!ENTITY p200.label "200&#037;">
 <!ENTITY Custom.label "Сопствено…">
-<!ENTITY ShrinkToFit.label "Собери во прозорец">
+<!ENTITY ShrinkToFit.label "На цел лист">
 <!ENTITY customPrompt.title "Сопствена големина…">
+
 <!ENTITY homearrow.tooltip "Прва страница">
 <!ENTITY endarrow.tooltip "Последна страница">
-<!ENTITY rightarrow.tooltip "Следна страница">
-<!ENTITY leftarrow.tooltip "Претходна страница">
+<!ENTITY nextarrow.tooltip "Следна страница">
+<!ENTITY previousarrow.tooltip "Претходна страница">

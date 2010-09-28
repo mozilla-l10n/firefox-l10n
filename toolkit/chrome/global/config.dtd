@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,19 +33,31 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY window.title "about:config">
-<!ENTITY aboutWarningTitle.label "Ова може да ја поништи Вашата гаранција!">
+<!-- about:config warning page -->
+<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+
+<!ENTITY aboutWarningTitle.label "This might void your warranty!">
 <!ENTITY aboutWarningText.label "Менувањето на основните вредности на овие напредни поставки можат да бидат штетни за стабилноста, безбедноста и перформансите на оваа програма. Продолжете само ако знаете што правите.">
 <!ENTITY aboutWarningButton.label "Ќе внимавам! Ветувам!">
 <!ENTITY aboutWarningCheckbox.label "Прикажи го ова предупредување и следниот пат">
+
 <!ENTITY filterPrefs.label "Филтер:">
 <!ENTITY filterPrefs.accesskey "и">
+<!ENTITY focusFilter.key "f">
+<!-- Columns -->
+
 <!ENTITY prefColumn.label "Име на преференција">
 <!ENTITY lockColumn.label "Статус">
 <!ENTITY typeColumn.label "Тип">
 <!ENTITY valueColumn.label "Вредност">
+<!-- Tooltips -->
+
 <!ENTITY prefColumnHeader.tooltip "Кликнете за да подредите">
 <!ENTITY columnChooser.tooltip "Кликнете за да изберете колони за приказ">
+<!-- Context Menu -->
+
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Копирај">
 <!ENTITY copyPref.accesskey "К">
@@ -68,4 +79,3 @@
 <!ENTITY integer.accesskey "р">
 <!ENTITY boolean.label "Да или не вредност">
 <!ENTITY boolean.accesskey "в">
-<!ENTITY focusFilter.key "f">

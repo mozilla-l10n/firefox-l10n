@@ -1,4 +1,5 @@
 <!ENTITY brandShortName "Firefox">
 <!ENTITY brandFullName "Mozilla Firefox">
 <!ENTITY vendorShortName "Mozilla">
-<!ENTITY  logoCopyright  "Firefox и логоата Firefox се заштитени марки на Mozilla Foundation. Сите права се задржани.">
+<!ENTITY trademarkInfo.part1 "Firefox и логоата Firefox се заштитени марки на Mozilla Foundation.">
+<!ENTITY trademarkInfo.part2 "Некои од логоата се користат со дозвола од The Charlton Company.">

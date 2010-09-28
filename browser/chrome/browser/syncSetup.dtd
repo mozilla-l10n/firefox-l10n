@@ -1,0 +1,104 @@
+<!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; поставување">
+<!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description "Добредојдовте, ако до сега не сте го користиле &syncBrand.fullName.label;, прво треба да креирате нова сметка.">
+<!ENTITY button.createNewAccount.label "Креирај нова сметка">
+<!ENTITY button.haveAccount.label "Имам сметка на &syncBrand.fullName.label;">
+
+<!ENTITY setup.choicePage.title.label "Дали до сега сте го користеле &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label "До сега не сум го користел &syncBrand.fullName.label;.">
+<!ENTITY setup.choicePage.existing.label "Веќе го користам &syncBrand.fullName.label; на друг компјутер.">
+<!-- New Account AND Existing Account -->
+
+<!ENTITY server.label "Сервер">
+<!ENTITY serverType.main.label "&syncBrand.fullName.label; сервер">
+<!ENTITY serverType.custom.label "Користи сопствен сервер">
+<!ENTITY signIn.account.label "Адреса за е-пошта / Корисничко име">
+<!ENTITY signIn.account.accesskey "е">
+<!ENTITY signIn.password.label "Лозинка">
+<!ENTITY signIn.password.accesskey "Л">
+<!ENTITY signIn.serverURL.label "URL на сервер">
+<!ENTITY signIn.serverURL.accesskey "L">
+<!-- New Account Page 1: Basic Account Info -->
+
+<!ENTITY setup.newAccountDetailsPage.title.label "Детали за сметката">
+<!ENTITY setup.confirmPassword.label "Потврди ја лозинката">
+<!ENTITY setup.confirmPassword.accesskey "о">
+<!ENTITY setup.emailAddress.label "Адреса за е-пошта">
+<!ENTITY setup.emailAddress.accesskey "е">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label "Се согласувам со">
+<!ENTITY setup.tosAgree1.accesskey "а">
+<!ENTITY setup.tosLink.label "Услови за употреба">
+<!ENTITY setup.tosAgree2.label "и ">
+<!ENTITY setup.ppLink.label "политика за приватност">
+<!ENTITY setup.tosAgree3.label "">
+<!ENTITY setup.tosAgree2.accesskey "">
+<!-- New Account Page 2: Sync Key -->
+
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; се грижи за Вашата приватност">
+<!ENTITY setup.newSyncKeyPage.description.label "За да се осигура Вашата целосна приватност, сите податоци се шифрираат пред да бидат испратени. Клучот за Sync кој е неопходен за дешифрирање на Вашите податоци не се испраќа до серверот.">
+<!ENTITY syncKeyEntry.label "Вашиот клуч Sync">
+<!ENTITY syncKeyEntry.accesskey "к">
+<!ENTITY syncKeyGenerate.label "Генерирај">
+<!ENTITY syncKeyBackup.description "Вашиот клуч за Sync е потребен за да се пристапи до &syncBrand.fullName.label; на другите машини. Ве молиме креирајте резрвна копија. Не можеме да Ви помогнеме да го добиете назад.">
+
+<!ENTITY button.syncKeyBackup.email.label "Е-пошта…">
+<!ENTITY button.syncKeyBackup.email.accesskey "Е">
+<!ENTITY button.syncKeyBackup.print.label "Печати…">
+<!ENTITY button.syncKeyBackup.print.accesskey "П">
+<!ENTITY button.syncKeyBackup.save.label "Сними…">
+<!ENTITY button.syncKeyBackup.save.accesskey "С">
+<!-- New Account Page 3: Captcha -->
+
+<!ENTITY setup.captchaPage2.title.label "Потврдете дека не сте робот">
+<!-- Existing Account Page 1: Login -->
+
+<!ENTITY setup.existingAccount.title.label "Внесете информации за сметката">
+<!ENTITY resetPassword.label "Рестирај лозинка">
+<!ENTITY connecting.label "Се поврзува…">
+<!-- Existing Account Page 2: Sync Key -->
+
+<!ENTITY setup.existingSyncKeyPage.title "Внесете го Вашиот Sync клуч">
+<!ENTITY setup.existingSyncKeyPage.description "Клучот за Sync бил генериран или Вие сте го внесле, кога прв пат сте се пријавиле во &syncBrand.fullName.label;. Тој не е ист како Вашата лозинка.">
+<!ENTITY existingSyncKeyHelp.description "Можете да го најдете вашиот снимен клуч за Sync со проверка на снимените лозинки во „Безбедност“ на Вашиот друг компјутер. Ако пак не можете да го најдете точниот клуч, може да го ресетирате, но ќе ги изгубите податоците снимени на серверот.">
+<!ENTITY lostSyncKey.label "Го загубив мојот Sync клуч">
+<!ENTITY verifying.label "Проверувам…">
+<!-- Sync Options -->
+
+<!ENTITY setup.optionsPage.title "Опции за Sync">
+<!ENTITY syncComputerName.label "Име на компјутер:">
+<!ENTITY syncComputerName.accesskey "к">
+
+<!ENTITY syncMy.label "Синхронизирај ги моите">
+<!ENTITY engine.bookmarks.label "Обележувачи">
+<!ENTITY engine.bookmarks.accesskey "б">
+<!ENTITY engine.tabs.label "Јазичиња">
+<!ENTITY engine.tabs.accesskey "Ј">
+<!ENTITY engine.history.label "Историја">
+<!ENTITY engine.history.accesskey "р">
+<!ENTITY engine.passwords.label "Лозинки">
+<!ENTITY engine.passwords.accesskey "Л">
+<!ENTITY engine.prefs.label "Преференции">
+<!ENTITY engine.prefs.accesskey "ф">
+
+<!ENTITY choice2.merge.main.label "Спој ги податоците од овој компјутер со податоците од &syncBrand.shortName.label;.">
+<!ENTITY choice2.merge.recommended.label "Препорачани:">
+<!ENTITY choice2.client.main.label "Замени ги сите податоци на овој компјутер со податоците од &syncBrand.shortName.label;.">
+<!ENTITY choice2.server.main.label "Замени ги податоците на сите други уреди со податоците од овој компјутер">
+<!-- Confirm Merge Options -->
+
+<!ENTITY setup.optionsConfirmPage.title "Потврди">
+<!ENTITY confirm.merge.label "&syncBrand.fullName.label; сега ќе ги спои сите податоци од овој компјутер со Вашата Sync.">
+<!ENTITY confirm.client.label "Сите &brandShortName; податоци ќе бидат избришани, вклучувајќи ги и следните:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; потоа ќе ги копира Вашите податоци од &syncBrand.fullName.label; на овој компјутер.">
+<!ENTITY confirm.client.warning.label "ПРЕДУПРЕДУВАЊе: Ова ќе резултира со заменување на сите податоци на &brandShortName; на овој компјутер!">
+<!ENTITY confirm.server.label "Следниве уреди ќе бидат пребришани со Вашите локални податоци:">
+<!ENTITY confirm.server.warning.label "ПРЕДУПРЕДУВАЊЕ: Вашите локални податоци ќе ги заменета сите податоци на &brandShortName;  на овие уреди.">
+<!-- New & Existing Account: Setup Complete -->
+
+<!ENTITY setup.successPage.title "Инсталирањето е завшено">
+<!ENTITY changeOptions.label "Можете да ги смените овие преференции преку опциите за Sync подолу.">
+<!ENTITY continueUsing.label "Можете да продолжите со користењето на &brandShortName;.">
