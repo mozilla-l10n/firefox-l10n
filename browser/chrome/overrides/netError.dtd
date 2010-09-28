@@ -85,10 +85,16 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Օֆֆլայն ռեժիմ">
-<!ENTITY netOffline.longDesc "<ul>
-  <li>Անջատեք &quot;Օֆֆլայն ռեժիմը&quot; ֆայլ մենյուից, ապա կրկնեք նորից:</li>
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
 </ul>
-   ">
+">
 
 <!ENTITY contentEncodingError.title "Բովանդակության Կոդավորման Սխալ">
 <!ENTITY contentEncodingError.longDesc "<ul>

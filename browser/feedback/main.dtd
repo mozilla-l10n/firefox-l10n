@@ -38,7 +38,6 @@
 
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY testpilot.brand.label                      "Test Pilot">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Հատկանիշներ">
 <!ENTITY testpilot.settings.dataSubmission.label    "Data Submission">
 <!ENTITY testpilot.settings.notifications.label     "Notifications">
@@ -55,14 +54,14 @@
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Ավարտված հետաղոտություններ">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
-<!ENTITY testpilot.studiesWindow.settings.label         "Settings">
+<!ENTITY testpilot.studiesWindow.settings.label         "Հատկանիշներ">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait...">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
 
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip            "Close">
+<!ENTITY testpilot.notification.close.tooltip            "Փակել">
 
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Turn On User Studies">

@@ -48,5 +48,5 @@
 <!ENTITY blocklist.accept.label      "Վերսկսել &brandShortName; -ը">
 <!ENTITY blocklist.accept.accesskey  "r">
 
-<!ENTITY blocklist.blocked.label     "Blocked">
-<!ENTITY blocklist.checkbox.label    "Disable">
+<!ENTITY blocklist.blocked.label     "Արգելված է">
+<!ENTITY blocklist.checkbox.label    "Անջատել">

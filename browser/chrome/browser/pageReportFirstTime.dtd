@@ -37,7 +37,7 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY startDescription.label            "Վեբ հանգույցը փորձեց առանձ Ձեր համաձայնության ինքնաելից պատուհան բացել: &brandShortName;-ը փակեց ինքնաելիցը: Ամեն անգամ երբ &brandShortName;-ը կարգելի ինքնաելիցները, դուք կտեղեկացվեք կարգավիճակի վահանակում մանրանկարի միջոցով:">
+<!ENTITY startDescriptionText.label        "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
 
 <!ENTITY endDescription.label              "Կարող եք կտացնել այս մանրանկարին տեսնելու համար թե &brandShortName;-ը որ հանգույցներն է արգելափակել և այդ հանգույցներին թույլ տալ ինքնաելից պատուհաններ բացելու եթե դա անհրաժեշտ է հանգույցի անխափան աշխատանքի համար:">
 

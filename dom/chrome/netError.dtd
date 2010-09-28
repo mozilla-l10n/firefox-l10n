@@ -66,7 +66,7 @@
 
 <!ENTITY netOffline.title "Առանձ Կապի Եղանակ">
 <!ENTITY netOffline.longDesc "<p>Զննիչն աշխատում է առանձ կապի </p><ul><li>Արդյոք այս համակարգիչը մի՞ացած է ցանցին:</li><li>Միացրեք զննիչի կապը և կրկին փորձեք:</li></ul>">
-<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Բովանդակության Կոդավորման Սխալ">
 <!ENTITY contentEncodingError.longDesc "<p>Էջը, որը դուք փորձում էք դիտել, չի կարող ցուցադրվել, քանի որ այն օգտագործում է սխալ կամ չսպասարկվող խտացման ձև:</p><ul><li>Խնդրեմ կապնվեք կայքի ադմինիստրատորին և տեղյակ պահեք այս պռոբլեմի մասին:</li></ul>">

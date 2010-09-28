@@ -47,14 +47,14 @@
 <!ENTITY currentAccount.label         "Current Account:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "Թարմացնել">
+<!ENTITY resetPass.label              "Բերել Նախնականի">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Manage Account">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassword.label         "Փոխել Գաղտնաբառը">
 <!ENTITY mySyncKey.label              "My Sync Key">
 <!ENTITY resetSync.label              "Reset Sync">
 <!ENTITY stopUsingAccount.label       "Stop Using This Account">
@@ -65,18 +65,18 @@
 <!ENTITY syncComputerName.accesskey   "C">
 
 <!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.bookmarks.label     "Էջանիշեր">
+<!ENTITY engine.bookmarks.accesskey "Է">
+<!ENTITY engine.tabs.label          "Ներդիրներ">
+<!ENTITY engine.tabs.accesskey      "Ն">
+<!ENTITY engine.history.label       "Մատյան">
+<!ENTITY engine.history.accesskey   "Մ">
+<!ENTITY engine.passwords.label     "Գաղտնաբառեր">
+<!ENTITY engine.passwords.accesskey "Գ">
+<!ENTITY engine.prefs.label         "Նախըտրանքներ">
+<!ENTITY engine.prefs.accesskey     "Ն">
 
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.ppLink.label         "Գաղտնիության Դրույթները">

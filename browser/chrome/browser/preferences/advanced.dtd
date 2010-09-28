@@ -80,18 +80,18 @@
 <!ENTITY offlineStorage.label            "Օֆլայն պահոց">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Օգտագործել մինչև">
-<!ENTITY useCacheBefore.accesskey        "Օ">
-<!ENTITY useCacheAfter.label             "ՄԲ քեշի համար">
+<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB of space">
 <!ENTITY clearCacheNow.label             "Մաքրել հԻմա">
 <!ENTITY clearCacheNow.accesskey         "Մ">
-<!ENTITY smartSizeCache.label            "Let &brandShortName; manage the size of my cache">
-<!ENTITY smartSizeCache.accesskey        "L">
+<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Թարմացնել">
 
