@@ -242,7 +242,7 @@
 <!ENTITY search.accesskey "ζ">
 <!ENTITY search.label "Αναζήτηση στο διαδίκτυο">
 <!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
+
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY searchItem.title "Αναζήτηση">
 <!ENTITY selectAllCmd.accesskey "λ">
@@ -579,6 +579,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCmd.label "Εργαλειοθήκη προσθέτου">
 <!ENTITY addonBarCmd.accesskey "θ">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY appMenuButton.tooltip        "Άνοιγμα μενού &brandShortName;">
 <!ENTITY appMenuSafeMode.label "Επανεκκίνηση με ανενεργά τα πρόσθετα…">
