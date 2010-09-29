@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label "За корисниците на Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
+<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey "R">
 
 <!ENTITY helpReleaseNotes.label "Белешки кон изданието">
 <!ENTITY helpReleaseNotes.accesskey "Б">

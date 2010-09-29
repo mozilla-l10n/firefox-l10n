@@ -1,4 +1,4 @@
-<!ENTITY startDescription.label "Мрежното место проба да отвори скокачки прозорец без Ваша дозвола. &brandShortName; автоматски го затвори скокачкиот прозорец.  Секој пат кога &brandShortName; ќе блокира ваков прозорец ќе видите икона во статусната лента.">
+<!ENTITY startDescriptionText.label "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
 
 <!ENTITY endDescription.label "Кликнете на оваа икона за да видите кои места биле блокирани од &brandShortName; и за да дозволите тие да отвораат скокачки прозорци ако тоа е потребно за нивната работа.">
 

@@ -43,10 +43,10 @@
 <!ENTITY syncKeyEntry.label "Вашиот клуч Sync">
 <!ENTITY syncKeyEntry.accesskey "к">
 <!ENTITY syncKeyGenerate.label "Генерирај">
+<!ENTITY syncKeyStrength.label "Strength:">
+<!ENTITY syncKeyHelp.label "What does the strength mean?">
 <!ENTITY syncKeyBackup.description "Вашиот клуч за Sync е потребен за да се пристапи до &syncBrand.fullName.label; на другите машини. Ве молиме креирајте резрвна копија. Не можеме да Ви помогнеме да го добиете назад.">
 
-<!ENTITY button.syncKeyBackup.email.label "Е-пошта…">
-<!ENTITY button.syncKeyBackup.email.accesskey "Е">
 <!ENTITY button.syncKeyBackup.print.label "Печати…">
 <!ENTITY button.syncKeyBackup.print.accesskey "П">
 <!ENTITY button.syncKeyBackup.save.label "Сними…">

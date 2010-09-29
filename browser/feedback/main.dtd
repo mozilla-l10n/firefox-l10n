@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label "Test Pilot">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label "Поставки">
 <!ENTITY testpilot.settings.dataSubmission.label "Испраќање на податоци">
 <!ENTITY testpilot.settings.notifications.label "Известувања">
