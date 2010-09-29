@@ -57,10 +57,10 @@
 <!ENTITY  dontrememberActions.clearHistory.label "alle huidige geskiedenis skrap">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY  privateBrowsingPermanent.label "Permanente privateblaai-modus">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.label      "Onthou my blaaiergeskiedenis">
 <!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Onthou aflaaigeskiedenis">

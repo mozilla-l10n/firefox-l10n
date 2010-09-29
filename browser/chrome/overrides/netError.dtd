@@ -45,9 +45,16 @@ beskerm word, maak seker dat &brandShortName; toegelaat word om toegang tot die 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Aflynmodus">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Ontmerk &quot;Werk aflyn&quot; in die Lêer-kieslys, en probeer weer.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Inhoudenkoderingfout">
 <!ENTITY contentEncodingError.longDesc "<ul> 

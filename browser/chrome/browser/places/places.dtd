@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organiseer">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.tooltip      "Organiseer jou boekmerke">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Sluit">
@@ -14,7 +14,7 @@
 <!ENTITY edit.accesskey                 "e">
 <!ENTITY views.label                    "Aansigte">
 <!ENTITY views.accesskey                "A">
-<!ENTITY views.tooltip                  "Change your view">
+<!ENTITY views.tooltip                  "Wysig jou aansig">
 <!ENTITY view.columns.label             "Wys kolomme">
 <!ENTITY view.columns.accesskey         "W">
 <!ENTITY view.sort.label                "Rangskik">
@@ -109,7 +109,7 @@
 
 <!ENTITY maintenance.label      "Invoer en rugsteun">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip    "Voer jou boekmerke in en rugsteun dit">
 
 <!ENTITY backCmd.label       "Terug">
 <!ENTITY backButton.tooltip  "Gaan terug">

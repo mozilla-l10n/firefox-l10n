@@ -8,14 +8,14 @@
      brandShortName must be in a <span/>
 -->
 
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span>-begin">
 
 <!ENTITY abouthome.searchEngineButton.label "Soek">
 
 <!ENTITY abouthome.searchEngineLinks.advanced "Gevorderde soektog">
 <!ENTITY abouthome.searchEngineLinks.preferences "Voorkeure">
 
-<!ENTITY abouthome.aboutMozilla "About Mozilla">
+<!ENTITY abouthome.aboutMozilla "Aangaande Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
