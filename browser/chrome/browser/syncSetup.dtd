@@ -15,15 +15,15 @@
 <!ENTITY signIn.serverURL.label "URL сервера">
 <!ENTITY signIn.serverURL.accesskey "е">
 <!ENTITY setup.newAccountDetailsPage.title.label "Данные учётной записи">
-<!ENTITY setup.confirmPassword.label "Подтверждение пароля">
+<!ENTITY setup.confirmPassword.label "Подтвердите пароль">
 <!ENTITY setup.confirmPassword.accesskey "д">
-<!ENTITY setup.emailAddress.label "Адрес электронной почты">
+<!ENTITY setup.emailAddress.label "Адрес эл. почты">
 <!ENTITY setup.emailAddress.accesskey "с">
-<!ENTITY setup.tosAgree1.label "Я соглашаюсь с">
-<!ENTITY setup.tosAgree1.accesskey "г">
-<!ENTITY setup.tosLink.label "Условиями использования службы">
+<!ENTITY setup.tosAgree1.label "Я принял">
+<!ENTITY setup.tosAgree1.accesskey "р">
+<!ENTITY setup.tosLink.label "Условия службы">
 <!ENTITY setup.tosAgree2.label "и">
-<!ENTITY setup.ppLink.label "Политикой приватности">
+<!ENTITY setup.ppLink.label "Политику приватности">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; заботится о вашей приватности">
@@ -39,10 +39,10 @@
 <!ENTITY button.syncKeyBackup.save.label "Сохранить…">
 <!ENTITY button.syncKeyBackup.save.accesskey "х">
 <!ENTITY setup.captchaPage2.title.label "Пожалуйста, подтвердите, что вы не робот">
-<!ENTITY setup.existingAccount.title.label "Введите информацию о вашей учётной записи">
+<!ENTITY setup.existingAccount.title.label "Введите данные вашей учётной записи">
 <!ENTITY resetPassword.label "Сбросить пароль">
 <!ENTITY connecting.label "Соединяюсь…">
-<!ENTITY setup.existingSyncKeyPage.title "Пожалуйста, введите свой ключ синхронизации">
+<!ENTITY setup.existingSyncKeyPage.title "Введите свой ключ синхронизации">
 <!ENTITY setup.existingSyncKeyPage.description "Ключ синхронизации был для вас сгенерирован, или вы ввели свой собственный ключ, когда в первый раз подключились к &syncBrand.fullName.label;. Это не то же самое, что ваш пароль.">
 <!ENTITY existingSyncKeyHelp.description "Вы можете найти ваш сохранённый ключ синхронизации, перейдя на другой ваш компьютер, открыв вкладку «Защита» и нажав на кнопку «Сохранённые пароли». Если вы всё же не смогли найти верный ключ синхронизации, вы можете сбросить его, но при этом вы потеряете все данные, сохранённые на сервере.">
 <!ENTITY lostSyncKey.label "Я потерял мой ключ синхронизации">
