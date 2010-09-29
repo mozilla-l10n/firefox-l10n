@@ -99,9 +99,9 @@
 <!ENTITY  permInstall           "Instali etendoprogramojn aŭ temojn">
 <!ENTITY  permGeo               "Diskonigi lokon">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
-<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permIndexedDB              "Konservi memoro por malkonektitaĵoj">
+<!ENTITY  permClearStorage           "Malplenigi memoron">
+<!ENTITY  permClearStorage.accesskey "M">
 
 <!ENTITY  securityTab           "Sekureco">
 <!ENTITY  securityTab.accesskey "S">
