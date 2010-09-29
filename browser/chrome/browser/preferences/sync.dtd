@@ -26,5 +26,5 @@
 <!ENTITY engine.passwords.accesskey "р">
 <!ENTITY engine.prefs.label "Настройки">
 <!ENTITY engine.prefs.accesskey "о">
-<!ENTITY prefs.tosLink.label "Условия использования службы">
+<!ENTITY prefs.tosLink.label "Условия службы">
 <!ENTITY prefs.ppLink.label "Политика приватности">
