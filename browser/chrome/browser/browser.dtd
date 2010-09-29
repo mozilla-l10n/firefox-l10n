@@ -33,7 +33,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "New Group">
 <!ENTITY  moveToNewWindow.label              "Move to New Window">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
+<!ENTITY  bookmarkAllTabs.label              "Aldoni paĝosignon por ĉiuj folioj…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Undo Close Tab">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -139,7 +139,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "Tab Groups">
 <!ENTITY tabGroupsButton.tooltip      "Group your tabs">
 
-<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.label             "Aboni">
 <!ENTITY feedButton.tooltip           "Aboni ĉi tiun paĝon…">
 
 <!ENTITY bookmarksButton.label          "Paĝosignoj">
@@ -147,8 +147,8 @@ can reach it easily. -->
 <!ENTITY bookmarksButton.accesskey  "M">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Bookmarks">
-<!ENTITY bookmarksMenuButton.tooltip        "Display your bookmarks">
+<!ENTITY bookmarksMenuButton.label          "Paĝosignoj">
+<!ENTITY bookmarksMenuButton.tooltip        "Montri viajn paĝosignojn">
 <!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
 <!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
 
@@ -194,9 +194,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspect">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Next">
+<!ENTITY inspectNextButton.label      "Antaŭen">
 <!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "Previous">
+<!ENTITY inspectPreviousButton.label  "Malantaŭen">
 <!ENTITY inspectPreviousButton.accesskey "P">
 <!ENTITY inspectStyleButton.label     "Style">
 <!ENTITY inspectStyleButton.accesskey "S">
@@ -205,7 +205,7 @@ can reach it easily. -->
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Object">
+<!ENTITY inspectObjectButton.label       "Objekto">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label         "Dosiero"> 
@@ -276,12 +276,12 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd2.label "Montri tutan historion">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Edit">
+<!ENTITY appMenuEdit.label "Modifi">
 <!ENTITY appMenuCustomize.label "Customize">
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Find…">
-<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuUnsorted.label "Neordigitaj paĝosignoj">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Getting Started">
 <!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
@@ -407,7 +407,7 @@ can reach it easily. -->
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "Play">
 <!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "Pause">
+<!ENTITY mediaPause.label            "Paŭzigi">
 <!ENTITY mediaPause.accesskey        "P">
 <!ENTITY mediaMute.label             "Mute">
 <!ENTITY mediaMute.accesskey         "M">
@@ -417,7 +417,7 @@ can reach it easily. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Hide Controls">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "Full Screen">
+<!ENTITY videoFullScreen.label       "Plenekrane">
 <!ENTITY videoFullScreen.accesskey   "F">
 
 

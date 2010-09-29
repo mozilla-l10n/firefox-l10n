@@ -7,34 +7,34 @@
   about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionsTitle "Etendoprogramoj">
+<!ENTITY aboutSupport.extensionName "Nomo">
+<!ENTITY aboutSupport.extensionEnabled "Aktiva">
+<!ENTITY aboutSupport.extensionVersion "Versio">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsName "Nomo">
+<!ENTITY aboutSupport.appBasicsVersion "Versio">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "Malfermi entenantan dosierujon">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "Montri en dosierserĉilo">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
+<!ENTITY aboutSupport.modifiedPrefsName "Nomo">
+<!ENTITY aboutSupport.modifiedPrefsValue "Valoro">
 
 <!ENTITY aboutSupport.graphicsTitle "Graphics">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.updateHistoryTitle "Ĝisdatigi historion">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">

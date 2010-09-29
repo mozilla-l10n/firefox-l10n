@@ -11,12 +11,12 @@
 <!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Server">
+<!ENTITY server.label               "Servilo">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
 <!ENTITY serverType.custom.label    "Use a custom server">
 <!ENTITY signIn.account.label       "Email Address / User Name">
 <!ENTITY signIn.account.accesskey   "E">
-<!ENTITY signIn.password.label      "Password">
+<!ENTITY signIn.password.label      "Pasvorto">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.serverURL.label     "Server URL">
 <!ENTITY signIn.serverURL.accesskey "L">
@@ -25,7 +25,7 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
 <!ENTITY setup.confirmPassword.label  "Confirm Password">
 <!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
+<!ENTITY setup.emailAddress.label     "Retpoŝta Adreso">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -33,7 +33,7 @@
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "Terms of Service">
 <!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
+<!ENTITY setup.ppLink.label         "Politiko pri privateco">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
@@ -47,7 +47,7 @@
 <!ENTITY syncKeyHelp.label         "What does the strength mean?">
 <!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
+<!ENTITY button.syncKeyBackup.print.label     "Presi…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "Save…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
@@ -73,15 +73,15 @@
 <!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY engine.bookmarks.label     "Paĝosignoj">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.label          "Folioj">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "Historio">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.label     "Pasvortoj">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.label         "Preferoj">
 <!ENTITY engine.prefs.accesskey     "S">
 
 <!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
@@ -90,7 +90,7 @@
 <!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
+<!ENTITY setup.optionsConfirmPage.title "Konfirmi">
 <!ENTITY confirm.merge.label    "You have chosen to merge your data on this computer with the data on your other devices running &syncBrand.fullName.label;.">
 <!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">

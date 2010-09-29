@@ -22,7 +22,7 @@
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
 
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip            "Close">
+<!ENTITY testpilot.notification.close.tooltip            "Fermi">
 
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Turn On User Studies">
