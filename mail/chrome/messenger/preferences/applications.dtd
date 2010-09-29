@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.emptytext        "Sykje:">
+<!ENTITY  filter.placeholder        "Sykje:">
 
 <!ENTITY saveTo.label                 "Bewarje bestannen yn">
 <!ENTITY saveTo.accesskey             "w">

@@ -105,6 +105,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
 <!ENTITY detachAttachmentCmd.label "Untkeppelje…">
 <!ENTITY deleteAttachmentCmd.label "Fuortsmite">
+<!ENTITY openAllAttachmentsCmd.label    "Iepenje alle…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "p">
 <!ENTITY saveAllAttachmentsCmd.label "Alles bewarje…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "s">
 <!ENTITY detachAllAttachmentsCmd.label "Alles ûntkeppelje…">

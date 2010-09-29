@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "E-mailaccount ynstelle">
 <!ENTITY name.label                		 "Jo namme">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "Foarnamme Efternamme">
+<!ENTITY name.placeholder                "Foarnamme Achternamme">
 <!ENTITY name.text                       "Jo namme, as toant oan oaren">
 <!ENTITY email.label                     "E-mailadres:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email@foarbyld.nl">
+<!ENTITY email.placeholder               "e-mail@foarbyld.nl">
 <!ENTITY password.label                  "Wachtwurd:">
 <!ENTITY password.accesskey              "W">
-<!ENTITY password.emptytext              "Wachtwurd">
+<!ENTITY password.placeholder            "Wachtwurd">
 <!ENTITY password.text                   "Opsjoneel, sil allinnich brûkt wurde om de brûkersnamme te falidearjen">
 
 <!ENTITY accountInformation.label        "Accountynformaasje">
