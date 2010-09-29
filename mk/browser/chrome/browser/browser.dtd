@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Алатник со обележувачи">
 <!ENTITY personalbarCmd.accesskey "б">
 <!ENTITY bookmarksToolbarItem.label "Ставки во алатникот со обележувачи">
-<!ENTITY taskbarCmd.label "Статусна лента">
-<!ENTITY taskbarCmd.accesskey "т">
+<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Изворен код">
 <!ENTITY pageSourceCmd.accesskey "о">
@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Го запира вчитувањето на страницата">
 <!ENTITY goEndCap.tooltip "Ја отвора адресата во локациската лента">
-<!ENTITY feedButton.tooltip "Претплати се на страната…">
 <!ENTITY printButton.label "Печати">
 <!ENTITY printButton.tooltip "Ја печати оваа страница">
 
@@ -134,10 +133,14 @@ can reach it easily. -->
 <!-- Toolbar items --> 
 
 <!ENTITY appMenuButton.label "Мени">
+<!ENTITY appMenuButton.tooltip "Open &brandShortName; menu">
 <!ENTITY homeButton.label "Дома">
 
 <!ENTITY tabGroupsButton.label "Групи со јазичиња">
 <!ENTITY tabGroupsButton.tooltip "Групирај ги јазичињата">
+
+<!ENTITY feedButton.label "Subscribe">
+<!ENTITY feedButton.tooltip "Претплати се на страната…">
 
 <!ENTITY bookmarksButton.label "Обележувачи">
 <!ENTITY bookmarksButton.tooltip "Приказ на обележувачи">
@@ -279,9 +282,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Странични ленти">
 <!ENTITY appMenuFind.label "Пронајди…">
 <!ENTITY appMenuUnsorted.label "Неподредени обележувачи">
+<!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Да почнеме!">
-
-<!ENTITY developerMenu.label "Развивач">
+<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Оди на мрежно место">
@@ -294,9 +298,9 @@ can reach it easily. -->
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -305,13 +309,12 @@ can reach it easily. -->
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 
 <!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY tabView.commandkey "e">
 
 <!ENTITY openLinkCmdInTab.label "Отвори ја врската во ново јазиче">
 <!ENTITY openLinkCmdInTab.accesskey "ј">

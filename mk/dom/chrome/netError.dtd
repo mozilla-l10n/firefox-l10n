@@ -26,6 +26,7 @@
 
 <!ENTITY netOffline.title "Локален режим">
 <!ENTITY netOffline.longDesc "<p>Прелистувачот работи локално и не може да се поврзе со бараниот предмет.</p><ul><li>Дали компјутерот е поврзан на активна мрежа?</li><li>Исклучете го локалниот режим и обидете се повторно.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Грешка во кодирањето на содржината">
 <!ENTITY contentEncodingError.longDesc "<p>Страницата која сакате да ја видите не може да биде прикажана бидејќи користи неправилна или неподдржана форма на компресија.</p><ul><li>Контактирајте со сопствениците на страницата за да ги информирате за овој проблем.</li></ul>">

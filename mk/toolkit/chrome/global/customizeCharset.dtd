@@ -37,7 +37,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label "Customize Character Encoding">
+<!ENTITY title.label "Поставување на кодната страница">
 <!ENTITY current.label "Активни кодни страници:">
 <!ENTITY remove.label "Отстрани">
 <!ENTITY remove.accessKey "р">

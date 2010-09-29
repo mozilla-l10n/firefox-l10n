@@ -44,9 +44,16 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Локален режим">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Исклучете го &quot;Работи локално&quot; во менито Датотека, и обидете се повторно.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Грешка во кодната страница на содржината">
 <!ENTITY contentEncodingError.longDesc "<ul> 

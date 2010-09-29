@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey "р">
 <!ENTITY disableContextMenus.label "Оневозможуваат или заменуваат контекстни менија">
 <!ENTITY disableContextMenus.accesskey "н">
-<!ENTITY hideStatusBar.label "Кријат статусна лента">
-<!ENTITY hideStatusBar.accesskey "р">
-<!ENTITY changeStatusBar.label "Менуваат текст во статусната лента">
-<!ENTITY changeStatusBar.accesskey "М">
