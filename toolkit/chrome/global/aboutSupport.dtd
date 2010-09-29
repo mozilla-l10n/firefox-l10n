@@ -30,7 +30,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Име">
 <!ENTITY aboutSupport.modifiedPrefsValue "Вредност">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Графика">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Историја на инсталации">
 <!ENTITY aboutSupport.updateHistoryTitle "Историја на надградби">
