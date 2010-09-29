@@ -2,12 +2,12 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Wolkcom, as jo noait earder &syncBrand.fullName.label; brûkt hawwe, moatte jo in account oanmeitsje.">
+<!ENTITY setup.pickSetupType.description "Wolkom, as jo noait earder &syncBrand.fullName.label; brûkt hawwe, moatte jo in account oanmeitsje.">
 <!ENTITY button.createNewAccount.label "Meitsje in nij account oan">
 <!ENTITY button.haveAccount.label "Ik haw in &syncBrand.fullName.label;-account">
 
 <!ENTITY setup.choicePage.title.label     "Hawwe jo &syncBrand.fullName.label; earder brûkt?">
-<!ENTITY setup.choicePage.new.label       "Ik haw &syncBrand.shortName.label; net earderbrûkt">
+<!ENTITY setup.choicePage.new.label       "Ik haw &syncBrand.shortName.label; net earder brûkt">
 <!ENTITY setup.choicePage.existing.label  "Ik brûk &syncBrand.shortName.label; al op in oare kompjûter">
 
 <!-- New Account AND Existing Account -->
