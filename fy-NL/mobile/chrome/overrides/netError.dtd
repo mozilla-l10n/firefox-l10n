@@ -52,17 +52,12 @@
 <!ENTITY netInterrupt.title "De ferbining waard ferbrutsen">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "Offline-moadus">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Probearje opnij. &brandShortName; sil probearje om in ferbining te iepenjen en de side opnij te laden.</li>
+  <li>Finkje it menu-item &quot;Sûnder ferbining wurkje&quot; út en besykje it op 'e nij.</li>
 </ul>
 ">
-
-<!ENTITY netOffline.title "Offline-moadus">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Ynhâld Kodearings Flater">
 <!ENTITY contentEncodingError.longDesc "
@@ -177,9 +172,9 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>Jo soene net in útsûndering tafoegje moatte as jo in ynternet ferbining hawwe dy't jo net folslein fertrouwe, of as it net normaal is dat jo in warskôging sjogge foar dizze tsjinner.</p>
+<!ENTITY securityOverride.warningContent "
+<p>Jo kinne better gjin útsûndering tafoegje as jo in ynternetferbining hawwe dy't jo net folslein fertrouwe, of as it net normaal is dat jo in warskôging sjogge foar dizze tsjinner.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
