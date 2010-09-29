@@ -8,7 +8,7 @@
 
 <!ENTITY size.label "Izmērs:">
 <!ENTITY sizeProportional.accesskey "z">
-<!ENTITY sizeMonospace.accesskey "e">
+<!ENTITY sizeMonospace.accesskey "r">
 
 <!ENTITY proportional.label "Proporcionāls:">
 <!ENTITY proportional.accesskey "P">

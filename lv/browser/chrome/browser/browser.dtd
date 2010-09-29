@@ -297,9 +297,9 @@
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY bookmarksButton.accesskey  "G">
 <!ENTITY bookmarksCmd.commandkey "g">
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY openLinkCmd.label "Atvērt saiti jaunā logā">
