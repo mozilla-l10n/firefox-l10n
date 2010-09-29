@@ -1,12 +1,12 @@
 <!ENTITY firstrun.title "&brandShortName; uygulamasına hoş geldiniz">
 <!ENTITY firstrun.heading2 "&brandShortName; uygulamasına hoş geldiniz">
-<!ENTITY firstrun.sync.title "Firefox Sync'i edinin">
-<!ENTITY firstrun.sync.description "Share your &brandShortName; history, passwords, bookmarks &amp; tabs between your desktop &amp; mobile">
-<!ENTITY firstrun.addons.title "Eklenti edin">
-<!ENTITY firstrun.addons.description "&brandShortName; kullanımınızı zenginleştirmek için eklentiler kurun">
-<!ENTITY firstrun.home.title "Başlangıç">
-<!ENTITY firstrun.home.description "Tap to go to your personalized Start page and start browsing the Web">
-<!ENTITY firstrun.relNotes.label "See the Release Notes">
+<!ENTITY firstrun.sync2.title "Sync Up">
+<!ENTITY firstrun.sync2.description "Login with your Sync account info and share your history, passwords, bookmarks &amp; tabs between your desktop and mobile">
+<!ENTITY firstrun.addons2.title "Özelleştir">
+<!ENTITY firstrun.addons2.description "Discover and install add-ons to add new functionality to your &brandShortName;">
+<!ENTITY firstrun.home2.title "Browse">
+<!ENTITY firstrun.home2.description "Skip all this and go to your personalized Start page to start browsing the web">
+<!ENTITY firstrun.features "See More Features">
 <!ENTITY firstrun.faq "S.S.S">
 <!ENTITY firstrun.privacy "Gizlilik Anlaşması">
 <!ENTITY firstrun.follow "Follow us on:">

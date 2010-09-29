@@ -100,8 +100,6 @@
 <!ENTITY importCmd.accesskey "t">
 <!ENTITY exportCmd.label "Dışa aktar…">
 <!ENTITY exportCmd.accesskey "a">
-<!ENTITY allowOnlineCheck.label "Çevrim içi durumunu denetle (AOL)">
-<!ENTITY allowOnlineCheck.accesskey "Ç">
 <!-- Toolbar and Popup items -->  
 
 <!ENTITY newContactButton.label "Yeni adres">

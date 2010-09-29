@@ -19,7 +19,7 @@
 <!ENTITY noSuggestions.label "(Öneri yok)">
 <!ENTITY addToDictionary.label "Sözlüğe ekle">
 
-<!ENTITY allPagesHeader.label "All Pages">
+<!ENTITY allPagesHeader.label "Tüm sayfalar">
 <!ENTITY bookmarksHeader.label "Yer imleri">
 <!ENTITY historyHeader.label "Geçmiş">
 <!ENTITY desktopHeader.label "Masaüstü">
@@ -87,18 +87,18 @@
 <!ENTITY consoleErrColumn.label "Sütun:">
 
 <!ENTITY contextOpenInNewTab.label "Bağlantıyı yeni sekmede aç">
-<!ENTITY contextSaveLink.label "Save Link">
+<!ENTITY contextSaveLink.label "Bağlantıyı kaydet">
 <!ENTITY contextSaveImage.label "Resmi kaydet">
-<!ENTITY contextShareLink.label "Bağlantıyı Paylaş">
-<!ENTITY contextShareImage.label "Resmi Paylaş">
-<!ENTITY contextSaveVideo.label "Video kaydı">
-<!ENTITY contextShareVideo.label "Share Video">
+<!ENTITY contextShareLink.label "Bağlantıyı paylaş">
+<!ENTITY contextShareImage.label "Resmi paylaş">
+<!ENTITY contextSaveVideo.label "Videoyu kaydet">
+<!ENTITY contextShareVideo.label "Videoyu paylaş">
 <!ENTITY contextEditBookmark.label "Düzenle">
 <!ENTITY contextRemoveBookmark.label "Kaldır">
 
-<!ENTITY pageactions.saveas.pdf "PDF Olarak Kaydet">
-<!ENTITY pageactions.share.page "Sayfayı Paylaş">
-<!ENTITY pageactions.password.forget "Şifreyi Sil">
-<!ENTITY pageactions.reset "Site Tercihlerini Temizle">
+<!ENTITY pageactions.saveas.pdf "PDF olarak kaydet">
+<!ENTITY pageactions.share.page "Sayfayı paylaş">
+<!ENTITY pageactions.password.forget "Parolayı unut">
+<!ENTITY pageactions.reset "Site tercihlerini temizle">
 <!ENTITY pageactions.findInPage "Sayfada bul">
 <!ENTITY pageactions.search.addNew "Arama motoru ekleme">
