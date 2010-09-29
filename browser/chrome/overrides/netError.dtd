@@ -43,9 +43,16 @@ bulunduğundan emin olun. Bu işaret sola değil,
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Çevrim dışı tarama kipi">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Dosya menüsündeki &quot;Çevdimdışı çalış&quot; seçeneğinin önündeki işareti kaldırıp yeniden deneyin.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "<ul> 

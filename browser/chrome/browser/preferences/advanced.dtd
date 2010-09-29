@@ -41,19 +41,19 @@
 
 <!ENTITY offlineStorage.label "Çevrim dışı depolama">
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "Önbellekte en fazla">
-<!ENTITY useCacheBefore.accesskey "e">
-<!ENTITY useCacheAfter.label "MB veri tut">
+<!ENTITY limitCacheSizeBefore.label "Limit cache to">
+<!ENTITY limitCacheSizeBefore.accesskey "L">
+<!ENTITY limitCacheSizeAfter.label "MB of space">
 <!ENTITY clearCacheNow.label "Şimdi temizle">
 <!ENTITY clearCacheNow.accesskey "z">
-<!ENTITY smartSizeCache.label "Önbellek boyutunu &brandShortName; idare etsin">
-<!ENTITY smartSizeCache.accesskey "d">
+<!ENTITY overrideSmartCacheSize.label "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label "Güncelleme">
 

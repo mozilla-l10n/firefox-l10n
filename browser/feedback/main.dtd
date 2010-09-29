@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label "Test Pilotu">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label "Ayarlar">
 <!ENTITY testpilot.settings.dataSubmission.label "Veri gönderimi">
 <!ENTITY testpilot.settings.notifications.label "Uyarılar">

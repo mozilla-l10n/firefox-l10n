@@ -19,9 +19,9 @@
 <!ENTITY homepage.default "&brandShortName; Start">
 <!ENTITY homepage.currentpage "Use Current Page">
 <!ENTITY sync.title "Sync">
-<!ENTITY sync.username "Kullanıcı ismi">
+<!ENTITY sync.account "Username/Email">
 <!ENTITY sync.password "Parola">
-<!ENTITY sync.secretPhrase "Gizli Tümcecik">
+<!ENTITY sync.syncKey "Sync Key">
 <!ENTITY sync.deviceName "Aygıt Adı">
 <!ENTITY sync.connect "Bağlan">
 <!ENTITY sync.disconnect "Bağlantıyı Kes">

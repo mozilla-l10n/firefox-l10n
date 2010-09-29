@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey "r">
 <!ENTITY disableContextMenus.label "İçerik menüsünü etkisizleştirmesine veya değiştirmesine">
 <!ENTITY disableContextMenus.accesskey "e">
-<!ENTITY hideStatusBar.label "Durum çubuğunu gizlemesine">
-<!ENTITY hideStatusBar.accesskey "D">
-<!ENTITY changeStatusBar.label "Durum çubuğu metnini değiştirmesine">
-<!ENTITY changeStatusBar.accesskey "u">

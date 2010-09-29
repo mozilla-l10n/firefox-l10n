@@ -1,4 +1,4 @@
-<!ENTITY startDescription.label "Bir sayfa size sormadan pencere açmaya çalıştı, ancak &brandShortName; bunu engelledi. &brandShortName; bu gibi açılır pencereleri her engellediğinde durum çubuğunda bir uyarı simgesi göreceksiniz.">
+<!ENTITY startDescriptionText.label "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
 
 <!ENTITY endDescription.label "Bu simgeye tıklayarak hangi sayfanın istem dışı açılan penceresinin &brandShortName; tarafından engellendiğini görebilirsiniz. İsterseniz bu pencereye izin verebilir ve açılır pencerelerin engellenmesiyle ilgili diğer ayarları da yapabilirsiniz.">
 

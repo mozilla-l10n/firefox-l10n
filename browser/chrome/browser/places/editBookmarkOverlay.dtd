@@ -10,7 +10,7 @@
 <!ENTITY editBookmarkOverlay.folder.label "Dizin:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Tüm yer imi dizinlerini gösterir">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Gizler">
-<!ENTITY editBookmarkOverlay.tags.label "Etiketler">
+<!ENTITY editBookmarkOverlay.tags.label "Etiketler:">
 <!ENTITY editBookmarkOverlay.tags.accesskey "t">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "Etiketleri virgülle ayırın">
 <!ENTITY editBookmarkOverlay.description.label "Tanım:">
