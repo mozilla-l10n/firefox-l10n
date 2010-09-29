@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Wys my tuisblad">
 <!ENTITY startupBlankPage.label    "Wys 'n leë bladsy">
 <!ENTITY startupLastSession.label  "Wys die vensters en oortjies van laas keer">
-<!ENTITY location.label            "Tuisblad:">
-<!ENTITY location.accesskey        "T">
+<!ENTITY homepage.label            "Home Page:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Gebruik huidige bladsy">
 <!ENTITY useCurrentPage.accesskey  "G">
 <!ENTITY useMultiple.label         "Gebruik huidige bladsye">

@@ -1,28 +1,29 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "Stel op &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY weaveDesc.label            "Met &syncBrand.fullName.label; kan jy jou geskiedenis, boekmerke, wagwoorde en oop oortjies in al jou toestelle bekyk.">
 <!-- The page shown when logged in... -->
 
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentUser.label            "Current User:">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-rekening">
+<!ENTITY currentAccount.label         "Current Account:">
 <!-- Login error feedback -->
 
 <!ENTITY updatePass.label             "Bywerk">
 <!ENTITY resetPass.label              "Teruglaai">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY manageAccount.label          "Bestuur rekening">
+<!ENTITY manageAccount.accesskey      "r">
+<!ENTITY viewQuota.label              "View Quota">
 <!ENTITY changePassword.label         "Verander wagwoord">
 <!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY differentAccount.label       "Use a Different Account">
+<!ENTITY resetSync.label              "Laai Sync terug">
+<!ENTITY stopUsingAccount.label       "Stop Using This Account">
 <!-- Sync Settings -->
 
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncPrefsCaption.label       "Blaaiersinkronisering">
+<!ENTITY syncComputerName.label       "Rekenaarnaam:">
+<!ENTITY syncComputerName.accesskey   "R">
 
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
@@ -38,5 +39,5 @@
 <!-- Footer stuff -->
 
 
-<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.tosLink.label        "Diensbepalings">
 <!ENTITY prefs.ppLink.label         "Privaatheidbeleid">

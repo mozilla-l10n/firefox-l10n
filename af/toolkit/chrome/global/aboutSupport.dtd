@@ -11,7 +11,7 @@ probleem probeer oplos. Indien u soek vir antwoorde op algemene vrae oor
 <!ENTITY aboutSupport.extensionVersion "Weergawe">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsTitle "Basiese toepassingdetails">
 <!ENTITY aboutSupport.appBasicsName "Naam">
 <!ENTITY aboutSupport.appBasicsVersion "Weergawe">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profielgids">
@@ -30,7 +30,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Naam">
 <!ENTITY aboutSupport.modifiedPrefsValue "Waarde">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Grafika">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Installasiegeskiedenis">
 <!ENTITY aboutSupport.updateHistoryTitle "Opdateringgeskiedenis">
