@@ -1,7 +1,7 @@
-<!ENTITY startDescriptionText.label        "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
+<!ENTITY startDescriptionText.label        "Retejo klopodis malfermi ŝprucfenestron sen via permeso. &brandShortName; aŭtomate fermis la ŝprucfenestron.">
 
 <!ENTITY endDescription.label              "Vi povas alklaki tiun ĉi bildsimbolon por vidi kiujn retejojn &brandShortName; blokis kaj por permesi al tiuj retejoj malfermi ŝprucfenestrojn se ili estas postulataj por korekta funkciado de retejo.">
 
-<!ENTITY caption.label                     "About Pop-up Blocking">
+<!ENTITY caption.label                     "Pri blokado de ŝprucfenestroj">
 
 <!ENTITY done.label "Preta">
