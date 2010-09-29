@@ -26,7 +26,7 @@
 <!ENTITY view.sortDescending.label      "Ordigado laŭ Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Serĉi en paĝosignoj…">
+<!ENTITY cmd.findInBookmarks.label      "Serĉi en legosignoj…">
 <!ENTITY cmd.findInBookmarks.accesskey  "S">
 <!ENTITY cmd.findCurrent.label          "Serĉi en la nuna kolekto…">
 <!ENTITY cmd.findCurrent.accesskey      "e">
@@ -43,7 +43,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Elekti dosieron…">
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
-<!ENTITY cmd.bookmarkLink.label         "Paĝosigno por tiu ĉi paĝo…">
+<!ENTITY cmd.bookmarkLink.label         "Legosigno por tiu ĉi paĝo…">
 <!ENTITY cmd.bookmarkLink.accesskey     "P">
 <!ENTITY cmd.delete.label               "Forviŝi tiun ĉi paĝon">
 <!ENTITY cmd.delete.accesskey           "D">
@@ -66,7 +66,7 @@
 <!ENTITY cmd.sortby_name.accesskey          "O">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Nova paĝosigno…">
+<!ENTITY cmd.new_bookmark.label            "Nova legosigno…">
 <!ENTITY cmd.new_bookmark.accesskey        "N">
 <!ENTITY cmd.new_folder.label              "Nova dosierujo…">
 <!ENTITY cmd.new_folder.accesskey          "n">
@@ -74,7 +74,7 @@
 <!ENTITY cmd.new_separator.label           "Nova apartigilo">
 <!ENTITY cmd.new_separator.accesskey       "N">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Reŝargi aktivan paĝosignon">
+<!ENTITY cmd.reloadLivebookmark.label      "Reŝargi aktivan legosignon">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 <!ENTITY cmd.reloadMicrosummary.label      "Reŝargi aktivan titolon">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "R">
@@ -96,7 +96,7 @@
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.scopeFolder.label                  "Elektitaj dosierujo">
 <!ENTITY search.scopeFolder.accesskey              "d">
-<!ENTITY search.scopeBookmarks.label               "Paĝosignoj">
+<!ENTITY search.scopeBookmarks.label               "Legosignoj">
 <!ENTITY search.scopeBookmarks.accesskey           "p">
 <!ENTITY search.scopeDownloads.label               "Elŝutoj">
 <!ENTITY search.scopeDownloads.accesskey           "E">

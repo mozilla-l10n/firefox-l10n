@@ -73,7 +73,7 @@
 <!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Paĝosignoj">
+<!ENTITY engine.bookmarks.label     "Legosignoj">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Folioj">
 <!ENTITY engine.tabs.accesskey      "T">

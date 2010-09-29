@@ -33,7 +33,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "New Group">
 <!ENTITY  moveToNewWindow.label              "Move to New Window">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Aldoni paĝosignon por ĉiuj folioj…">
+<!ENTITY  bookmarkAllTabs.label              "Aldoni legosignon por ĉiuj folioj…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Undo Close Tab">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -67,9 +67,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Ilaro de navigado">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Ilaro de paĝosignoj">
+<!ENTITY personalbarCmd.label "Ilaro de legosignoj">
 <!ENTITY personalbarCmd.accesskey "P">
-<!ENTITY bookmarksToolbarItem.label "Elementoj de ilaro de paĝosignoj">
+<!ENTITY bookmarksToolbarItem.label "Elementoj de ilaro de legosignoj">
 <!ENTITY addonBarCmd.label "Add-on Bar">
 <!ENTITY addonBarCmd.accesskey "B">
 
@@ -96,16 +96,16 @@ can reach it easily. -->
 <!ENTITY closeWindow.label "Fermi fenestron">
 <!ENTITY closeWindow.accesskey "f">
 
-<!ENTITY bookmarksMenu.label "Paĝosignoj">
+<!ENTITY bookmarksMenu.label "Legosignoj">
 <!ENTITY bookmarksMenu.accesskey "P">
-<!ENTITY bookmarkThisPageCmd.label "Aldoni paĝosignon por tiu ĉi paĝo">
+<!ENTITY bookmarkThisPageCmd.label "Aldoni legosignon por tiu ĉi paĝo">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
 <!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
-<!ENTITY addCurPagesCmd.label "Aldoni paĝosignon por ĉiuj folioj…">
+<!ENTITY addCurPagesCmd.label "Aldoni legosignon por ĉiuj folioj…">
 <!ENTITY showAllBookmarks.label "Show All Bookmarks…">
-<!ENTITY bookmarkAllCmd.label "Aldoni paĝosignon por ĉiuj folioj…">
-<!ENTITY bookmarksToolbarChevron.tooltip "Montri pliajn paĝosignojn">
+<!ENTITY bookmarkAllCmd.label "Aldoni legosignon por ĉiuj folioj…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Montri pliajn legosignojn">
 
 <!ENTITY backCmd.label                "Malantaŭen">
 <!ENTITY backCmd.accesskey            "M">
@@ -129,7 +129,7 @@ can reach it easily. -->
 <!ENTITY locationItem.title           "Retadreso">
 <!ENTITY searchItem.title             "Serĉi">
 <!ENTITY throbberItem.title           "Indikilo de aktiveco">
-<!ENTITY bookmarksItem.title          "Paĝosignoj">
+<!ENTITY bookmarksItem.title          "Legosignoj">
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
@@ -142,13 +142,13 @@ can reach it easily. -->
 <!ENTITY feedButton.label             "Aboni">
 <!ENTITY feedButton.tooltip           "Aboni ĉi tiun paĝon…">
 
-<!ENTITY bookmarksButton.label          "Paĝosignoj">
-<!ENTITY bookmarksButton.tooltip        "Montri viajn paĝosignojn">
+<!ENTITY bookmarksButton.label          "Legosignoj">
+<!ENTITY bookmarksButton.tooltip        "Montri viajn legosignojn">
 <!ENTITY bookmarksButton.accesskey  "M">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Paĝosignoj">
-<!ENTITY bookmarksMenuButton.tooltip        "Montri viajn paĝosignojn">
+<!ENTITY bookmarksMenuButton.label          "Legosignoj">
+<!ENTITY bookmarksMenuButton.tooltip        "Montri viajn legosignojn">
 <!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
 <!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
 
@@ -281,7 +281,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Find…">
-<!ENTITY appMenuUnsorted.label "Neordigitaj paĝosignoj">
+<!ENTITY appMenuUnsorted.label "Neordigitaj legosignoj">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Getting Started">
 <!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
@@ -356,11 +356,11 @@ can reach it easily. -->
 <!ENTITY viewBGImageCmd.accesskey     "i">
 <!ENTITY setDesktopBackgroundCmd.label      "Difini kiel skribotablan fonan bildon…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "D">
-<!ENTITY bookmarkPageCmd2.label       "Aldoni paĝosignon por tiu ĉi paĝo">
+<!ENTITY bookmarkPageCmd2.label       "Aldoni legosignon por tiu ĉi paĝo">
 <!ENTITY bookmarkPageCmd2.accesskey   "p">
-<!ENTITY bookmarkThisLinkCmd.label      "Aldoni paĝosignon por tiu ĉi ligilo">
+<!ENTITY bookmarkThisLinkCmd.label      "Aldoni legosignon por tiu ĉi ligilo">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Aldoni paĝosignon por tiu ĉi kadro">
+<!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "k">
 <!ENTITY sendPageCmd.label            "Sendi ligilon…">
 <!ENTITY sendPageCmd.accesskey        "e">

@@ -5,9 +5,9 @@
 <!ENTITY  locbar.pre.label              "Dum uzado de la retadresa strio, sugesti el:">
 <!ENTITY  locbar.pre.accessKey          "r">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Historio kaj paĝosignoj">
+<!ENTITY  locbar.both.label             "Historio kaj legosignoj">
 <!ENTITY  locbar.history.label          "Historio">
-<!ENTITY  locbar.bookmarks.label        "Paĝosignoj">
+<!ENTITY  locbar.bookmarks.label        "Legosignoj">
 <!ENTITY  locbar.nothing.label          "Nenio">
 
 
