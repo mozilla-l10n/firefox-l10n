@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Online sykje (Jout up-to-date resultaten foar IMAP- en nijsmappen, mar it duorret langer om de map te iepenjen)">
 <!ENTITY searchOnline.accesskey "O">
+<!ENTITY newFolderButton.label       "Meitsje">
+<!ENTITY newFolderButton.accesskey   "M">
+<!ENTITY editFolderButton.label      "Bywurkje">
+<!ENTITY editFolderButton.accesskey  "B">
