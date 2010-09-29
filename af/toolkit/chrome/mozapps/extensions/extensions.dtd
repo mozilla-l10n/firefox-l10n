@@ -170,7 +170,7 @@
 <!ENTITY addon.updateNow.tooltip              "Installeer die bywerking vir hierdie byvoeging">
 <!ENTITY addon.includeUpdate.label            "Include in Update">
 <!ENTITY addon.updateAvailable.label          "An update is available">
-<!ENTITY addon.checkingForUpdates.label       "Kontroleer vir bywerkings...">
+<!ENTITY addon.checkingForUpdates.label       "Kontroleer vir bywerkings…">
 <!ENTITY addon.releaseNotes.label             "Vrystellingaantekeninge:">
 <!ENTITY addon.loadingReleaseNotes.label      "Laai tans…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Jammer, kon nie die vrystellingsaantekeninge laai nie.">
