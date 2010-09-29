@@ -1,6 +1,6 @@
 <!ENTITY addons.windowTitle                   "Add-ons Manager">
 <!ENTITY search.placeholder                   "Search all add-ons">
-<!ENTITY loading.label                        "Loading…">
+<!ENTITY loading.label                        "Ŝargado…">
 <!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
 <!ENTITY listEmpty.availableUpdates.label     "No updates found">
 <!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
@@ -17,17 +17,17 @@
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
 <!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
-<!ENTITY warning.checkcompatibility.enable.label   "Enable">
+<!ENTITY warning.checkcompatibility.enable.label   "Aktivigi">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
 <!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
-<!ENTITY warning.updatesecurity.enable.label       "Enable">
+<!ENTITY warning.updatesecurity.enable.label       "Aktivigi">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Search">
+<!ENTITY view.search.label                    "Serĉi">
 <!ENTITY view.discover.label                  "Get Add-ons">
-<!ENTITY view.locales.label                   "Languages">
-<!ENTITY view.searchengines.label             "Search Engines">
+<!ENTITY view.locales.label                   "Lingvoj">
+<!ENTITY view.searchengines.label             "Serĉiloj">
 <!ENTITY view.features.label                  "Etendoprogramoj">
 <!ENTITY view.appearance2.label               "Appearance">
 <!ENTITY view.plugins.label                   "Kromprogramoj">
@@ -35,7 +35,7 @@
 <!ENTITY view.availableUpdates.label          "Available Updates">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Check for Updates">
+<!ENTITY updates.checkForUpdates.label        "Check for updates">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "View Recent Updates">
 <!ENTITY updates.viewUpdates.accesskey        "V">
@@ -59,9 +59,9 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Find updates">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "Options">
+<!ENTITY cmd.preferencesWin.label             "Opcioj">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "Preferences">
+<!ENTITY cmd.preferencesUnix.label            "Preferoj">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "About">
 <!ENTITY cmd.about.accesskey                  "A">
@@ -74,13 +74,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
 <!ENTITY cmd.disableTheme.accesskey           "W">
-<!ENTITY cmd.installAddon.label               "Install">
+<!ENTITY cmd.installAddon.label               "Instali">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Malinstali">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "Options">
+<!ENTITY cmd.showPreferencesWin.label         "Opcioj">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
-<!ENTITY cmd.showPreferencesUnix.label        "Preferences">
+<!ENTITY cmd.showPreferencesUnix.label        "Preferoj">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Change this add-on's preferences">
 <!ENTITY cmd.contribute.label                 "Contribute">
 <!ENTITY cmd.contribute.accesskey             "C">
@@ -101,7 +101,7 @@
 <!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
 
 <!ENTITY detail.updateType                    "Automatic Updates">
-<!ENTITY detail.updateDefault.label           "Default">
+<!ENTITY detail.updateDefault.label           "Ĉefa">
 <!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
 <!ENTITY detail.updateAutomatic.label         "On">
 <!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
@@ -109,15 +109,15 @@
 <!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
 <!ENTITY detail.home                          "Homepage">
 <!ENTITY detail.repository                    "Add-on Profile">
-<!ENTITY detail.size                          "Size">
+<!ENTITY detail.size                          "Grando">
 
 <!ENTITY detail.checkForUpdates.label         "Check for updates">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
-<!ENTITY detail.showPreferencesWin.label      "Options">
+<!ENTITY detail.showPreferencesWin.label      "Opcioj">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
-<!ENTITY detail.showPreferencesUnix.label     "Preferences">
+<!ENTITY detail.showPreferencesUnix.label     "Preferoj">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Change this add-on's preferences">
 
@@ -126,12 +126,12 @@
 <!ENTITY rating2.label                        "Rating">
 
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Pause">
-<!ENTITY progress.cancel.tooltip              "Cancel">
+<!ENTITY progress.pause.tooltip               "Paŭzigi">
+<!ENTITY progress.cancel.tooltip              "Nuligi">
 
 
 <!-- list sorting -->
-<!ENTITY sort.name.label                      "Name">
+<!ENTITY sort.name.label                      "Nomo">
 <!ENTITY sort.name.tooltip                    "Sort by name">
 <!ENTITY sort.dateUpdated.label               "Last Updated">
 <!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
@@ -140,7 +140,7 @@
 <!ENTITY sort.price.label                     "Price">
 <!ENTITY sort.price.tooltip                   "Sort by price">
 
-<!ENTITY search.filter2.label                 "Search:">
+<!ENTITY search.filter2.label                 "Serĉi">
 <!ENTITY search.filter2.installed.label       "My Add-ons">
 <!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
 <!ENTITY search.filter2.available.label       "Available Add-ons">
@@ -149,7 +149,7 @@
 <!ENTITY addon.homepage                       "Homepage">
 <!ENTITY addon.details.label                  "Pli">
 <!ENTITY addon.details.tooltip                "Show more details about this add-on">
-<!ENTITY addon.unknownDate                    "Unknown">
+<!ENTITY addon.unknownDate                    "Nekonata">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -158,10 +158,10 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "Update">
-<!ENTITY addon.undoAction.label               "Undo">
+<!ENTITY addon.update.postfix                 "Ĝisdatigi">
+<!ENTITY addon.undoAction.label               "Malfari">
 <!ENTITY addon.undoAction.tooltip             "Undo this action">
-<!ENTITY addon.undoRemove.label               "Undo">
+<!ENTITY addon.undoRemove.label               "Malfari">
 <!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
 <!ENTITY addon.restartNow.label               "Restart now">
 <!ENTITY addon.install.label                  "Instali">
@@ -172,7 +172,7 @@
 <!ENTITY addon.updateAvailable.label          "An update is available">
 <!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
 <!ENTITY addon.releaseNotes.label             "Release Notes:">
-<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
+<!ENTITY addon.loadingReleaseNotes.label      "Ŝargado…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
 
 <!ENTITY addon.createdBy.label                "By ">

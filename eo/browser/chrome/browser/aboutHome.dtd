@@ -11,10 +11,10 @@
 -->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
 
-<!ENTITY abouthome.searchEngineButton.label "Search">
+<!ENTITY abouthome.searchEngineButton.label "Serĉi">
 
 <!ENTITY abouthome.searchEngineLinks.advanced "Advanced Search">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferences">
+<!ENTITY abouthome.searchEngineLinks.preferences "Preferoj">
 
 <!ENTITY abouthome.aboutMozilla "About Mozilla">
 

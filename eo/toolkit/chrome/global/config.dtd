@@ -50,7 +50,7 @@
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nomo de prefero">
 <!ENTITY lockColumn.label "Stato">
-<!ENTITY typeColumn.label "Type">
+<!ENTITY typeColumn.label "Tipo">
 <!ENTITY valueColumn.label "Valoro">
 
 <!-- Tooltips -->
