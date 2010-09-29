@@ -315,8 +315,9 @@ can reach it easily. -->
   
  -->
 <!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmd.label "Abrir enlace en nueva ventana">
 <!ENTITY openLinkCmd.accesskey "v">
