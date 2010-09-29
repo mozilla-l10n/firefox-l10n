@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "l">
 <!ENTITY disableContextMenus.label      "Kontekstmenu's út te setten of te ferfangen">
 <!ENTITY disableContextMenus.accesskey  "K">
-<!ENTITY hideStatusBar.label            "De steatbalke te ferbergjen">
-<!ENTITY hideStatusBar.accesskey        "D">
-<!ENTITY changeStatusBar.label          "Steatbalketekst te feroarjen">
-<!ENTITY changeStatusBar.accesskey      "S">

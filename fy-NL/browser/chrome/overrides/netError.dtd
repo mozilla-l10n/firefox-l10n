@@ -53,9 +53,14 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Offline-moadus">
-<!ENTITY netOffline.longDesc2 "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Finkje &quot;Sûnder ferbining wurkje&quot; út en besykje it op 'e nij.</li>
+  <li>Finkje it menu-item &quot;Sûnder ferbining wurkje&quot; út en besykje it op 'e nij.</li>
 </ul>
 ">
 
