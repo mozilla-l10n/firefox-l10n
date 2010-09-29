@@ -12,11 +12,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privata retesplorado)">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Reload Tab">
+<!ENTITY  reloadTab.label                    "Reŝargi folion">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Reload All Tabs">
+<!ENTITY  reloadAllTabs.label                "Reŝargi ĉiujn foliojn">
 <!ENTITY  reloadAllTabs.accesskey            "A">
-<!ENTITY  closeOtherTabs.label               "Close Other Tabs">
+<!ENTITY  closeOtherTabs.label               "Fermi aliajn foliojn">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
@@ -24,23 +24,23 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Pin as App Tab">
+<!ENTITY  pinAppTab.label                    "Kejli kiel programa folio">
 <!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Unpin Tab">
+<!ENTITY  unpinAppTab.label                  "Malkejli folion">
 <!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  moveToGroup.label                  "Move to Group">
+<!ENTITY  moveToGroup.label                  "Movi al grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "New Group">
-<!ENTITY  moveToNewWindow.label              "Move to New Window">
+<!ENTITY  moveToNewGroup.label               "Nova grupo">
+<!ENTITY  moveToNewWindow.label              "Movi al nova fenestro">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Aldoni legosignon por ĉiuj folioj…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "Undo Close Tab">
+<!ENTITY  undoCloseTab.label                 "Malfari fermadon de folio">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Fermi folion">
 <!ENTITY  closeTab.accesskey                 "c">
 
-<!ENTITY  listAllTabs.label      "List all tabs">
+<!ENTITY  listAllTabs.label      "Listigi ĉiujn foliojn">
 
 <!ENTITY tabCmd.label "Nova folio">
 <!ENTITY tabCmd.accesskey "F">
@@ -109,11 +109,11 @@ can reach it easily. -->
 
 <!ENTITY backCmd.label                "Malantaŭen">
 <!ENTITY backCmd.accesskey            "M">
-<!ENTITY backButton.tooltip           "Go back one page">
+<!ENTITY backButton.tooltip           "Unu paĝo malantauen">
 <!ENTITY forwardCmd.label             "Antaŭen">
 <!ENTITY forwardCmd.accesskey         "A">
-<!ENTITY forwardButton.tooltip        "Go forward one page">
-<!ENTITY backForwardMenu.tooltip      "Recent pages">
+<!ENTITY forwardButton.tooltip        "Unu paĝo antaŭen">
+<!ENTITY backForwardMenu.tooltip      "Ĵusaj paĝoj">
 <!ENTITY reloadCmd.label              "Reŝargi">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Reŝargi nunan paĝon">
@@ -132,12 +132,12 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Legosignoj">
 
 <!-- Toolbar items --> 
-<!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY appMenuButton.label          "Menuo">
+<!ENTITY appMenuButton.tooltip        "Malfermi la menuon de &brandShortName;">
 <!ENTITY homeButton.label             "Eka paĝo">
 
-<!ENTITY tabGroupsButton.label        "Tab Groups">
-<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+<!ENTITY tabGroupsButton.label        "Grupoj de folioj">
+<!ENTITY tabGroupsButton.tooltip      "Grupigi viajn foliojn">
 
 <!ENTITY feedButton.label             "Aboni">
 <!ENTITY feedButton.tooltip           "Aboni ĉi tiun paĝon…">
@@ -149,8 +149,8 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Legosignoj">
 <!ENTITY bookmarksMenuButton.tooltip        "Montri viajn legosignojn">
-<!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
-<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
+<!ENTITY viewBookmarksSidebar.label         "Montri en la flanka strio">
+<!ENTITY viewBookmarksToolbar.label         "Vidi la ilaron de legosignoj">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -183,24 +183,24 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey    "E">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.label          "TTTa konzolo">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Inspect">
+<!ENTITY inspectMenu.label            "Inspekti">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspect">
+<!ENTITY inspectButton.label          "Inspekti">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "Antaŭen">
 <!ENTITY inspectNextButton.accesskey  "N">
 <!ENTITY inspectPreviousButton.label  "Malantaŭen">
 <!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectStyleButton.label     "Stilo">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Style">
+<!ENTITY inspectStylePanelTitle.label  "Stilo">
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
@@ -242,7 +242,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "Preferoj">
 <!ENTITY preferencesCmdUnix.accesskey     "j"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.label               "Forigi ĵusan historion…">
 <!ENTITY clearRecentHistory.accesskey           "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
@@ -254,7 +254,7 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Vidi"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "Tab Groups">
+<!ENTITY viewTabGroups.label            "Grupoj de folioj">
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Ilaraj strioj"> 
 <!ENTITY viewToolbarsMenu.accesskey     "I"> 
@@ -262,15 +262,15 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.accesskey "n">
 <!ENTITY viewCustomizeToolbar.label       "Persone agordi…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY viewTabsOnTop.label            "Tabs on Top">
-<!ENTITY viewTabsOnTop.accesskey        "T">
+<!ENTITY viewTabsOnTop.label            "Malfonaj folioj">
+<!ENTITY viewTabsOnTop.accesskey        "M">
 
 <!ENTITY historyMenu.label "Historio">
 <!ENTITY historyMenu.accesskey "h">
 <!ENTITY historyUndoMenu.label "Antaŭ ne longe fermitaj folioj">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Antaŭ ne longe fermitaj folioj">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.label "Restaŭri antaŭan seancon">
 
 <!ENTITY historyHomeCmd.label "Eka paĝo">
 <!ENTITY showAllHistoryCmd2.label "Montri tutan historion">
@@ -279,8 +279,8 @@ can reach it easily. -->
 <!ENTITY appMenuEdit.label "Modifi">
 <!ENTITY appMenuCustomize.label "Customize">
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
-<!ENTITY appMenuSidebars.label "Sidebars">
-<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuSidebars.label "Flankaj strioj">
+<!ENTITY appMenuFind.label "Serĉi…">
 <!ENTITY appMenuUnsorted.label "Neordigitaj legosignoj">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Getting Started">
@@ -288,9 +288,9 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Go to a Web Site">
+<!ENTITY urlbar.placeholder           "Iri al retejo">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+<!ENTITY urlbar.switchToTab.label     "Iri al folio:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -405,17 +405,17 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "i">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label             "Play">
+<!ENTITY mediaPlay.label             "Ludi">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Paŭzigi">
 <!ENTITY mediaPause.accesskey        "P">
-<!ENTITY mediaMute.label             "Mute">
+<!ENTITY mediaMute.label             "Silentigi">
 <!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "Unmute">
+<!ENTITY mediaUnmute.label           "Malsilentigi">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaShowControls.label     "Show Controls">
+<!ENTITY mediaShowControls.label     "Montri regilojn">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Hide Controls">
+<!ENTITY mediaHideControls.label     "Kaŝi regilojn">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Plenekrane">
 <!ENTITY videoFullScreen.accesskey   "F">
@@ -458,9 +458,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Montri la fenestron plenekrane">
 
-<!ENTITY zoomOutButton.tooltip          "Zoom out">
-<!ENTITY zoomInButton.tooltip           "Zoom in">
-<!ENTITY zoomControls.label             "Zoom Controls">
+<!ENTITY zoomOutButton.tooltip          "Malproksimiĝi">
+<!ENTITY zoomInButton.tooltip           "Alproksimiĝi">
+<!ENTITY zoomControls.label             "Zomaj regiloj">
 
 <!ENTITY quitApplicationCmdWin.label       "Eliri"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "l">
@@ -543,12 +543,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Browser tabs">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
+<!ENTITY syncTabsMenu.label     "Folioj el aliaj komputiloj">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Aktŭaligi">
 
 <!ENTITY syncSetup.label              "Set Up &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncSyncNowItem.label        "Sync Now">
+<!ENTITY syncSyncNowItem.label        "Aktŭaligi nun">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "Aktŭaligi">
