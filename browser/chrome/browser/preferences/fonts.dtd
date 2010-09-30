@@ -47,11 +47,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukia">
 <!ENTITY  font.langGroup.khmer                    "Ĥmera">
 <!ENTITY  font.langGroup.malayalam                "Malayalama">
-<!ENTITY  font.langGroup.oriya                    "Orijo">
+<!ENTITY  font.langGroup.oriya                    "Orijaa">
 <!ENTITY  font.langGroup.telugu                   "Telugua">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
-<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!ENTITY  font.langGroup.tibetan                  "Tibeta">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimuma tipara grandeco:">
 <!ENTITY minSize.accesskey                        "i">
