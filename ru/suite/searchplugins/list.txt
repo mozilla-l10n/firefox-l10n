@@ -1,3 +1,4 @@
 creativecommons
 google
 wikipedia-ru
+yahoo
