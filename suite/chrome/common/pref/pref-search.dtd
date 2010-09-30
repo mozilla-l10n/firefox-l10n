@@ -2,13 +2,8 @@
 <!ENTITY legendHeader "Buscador predeterminado">
 <!ENTITY defaultSearchEngine.label "Buscar usando:">
 <!ENTITY defaultSearchEngine.accesskey "S">
+<!ENTITY searchResults.label "Resultados de la búsqueda">
+<!ENTITY openInTab.label "Abrir pestañas nuevas para los resultados de búsquedas en el panel lateral">
+<!ENTITY openInTab.accesskey "A">
 <!ENTITY openSidebarSearchPanel.label "Abrir la pestaña Búsqueda en el panel lateral cuando se realiza una búsqueda">
 <!ENTITY openSidebarSearchPanel.accesskey "e">
-<!ENTITY openContextSearchTab.label "Abrir una pestaña en lugar de una ventana al hacer búsquedas web mediante el menú contextual">
-<!ENTITY openContextSearchTab.accesskey "p">
-<!ENTITY searchResults.label "Resultados de la búsqueda">
-<!ENTITY sidebarSearchTabPref.label "Preferencias del panel lateral de búsqueda">
-<!ENTITY searchModeBasic.label "Básicas">
-<!ENTITY searchModeBasic.accesskey "B">
-<!ENTITY searchModeAdvanced.label "Avanzadas">
-<!ENTITY searchModeAdvanced.accesskey "A">
