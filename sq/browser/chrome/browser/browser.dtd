@@ -88,7 +88,9 @@
                               
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.tooltip        "Hap menunë e &brandShortName;-it">
 <!ENTITY  homeButton.label            "Hyrje">
+
 <!ENTITY tabGroupsButton.label        "Grupe Skedash">
 <!ENTITY tabGroupsButton.tooltip      "Gruponi skedat tuaja">
 
@@ -212,8 +214,8 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmd.label            "Hape Lidhjen në Dritare të Re">
 <!ENTITY openLinkCmd.accesskey        "D">
