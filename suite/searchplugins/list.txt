@@ -1,4 +1,4 @@
-google-de
-google-at
-google-ch
-dmoz
+creativecommons
+google
+wikipedia-de
+yahoo

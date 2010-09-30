@@ -100,8 +100,6 @@
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exportieren…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY allowOnlineCheck.label                         "Online-Präsenz überprüfen (AOL)">
-<!ENTITY allowOnlineCheck.accesskey                     "O">
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label                         "Neuer Kontakt">
