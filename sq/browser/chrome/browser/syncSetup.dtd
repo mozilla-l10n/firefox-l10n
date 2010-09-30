@@ -43,10 +43,11 @@
 <!ENTITY syncKeyEntry.label        "Kyçi Juaj për Sync-un">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Prodhoje">
+<!ENTITY syncKeyStrength.label     "Fortësi:">
+<!ENTITY syncKeyHelp.label         "Çfarë do të thotë fortësi?">
 <!ENTITY syncKeyBackup.description "Kyçi Juaj për Sync-un nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutem, bëjini një kopje kopjeruajtjeje. Nuk ju ndihmojmë dot për të rigjetur Kyçin tuaj për Sync-un.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Email…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
+
 <!ENTITY button.syncKeyBackup.print.label     "Shtypeni…">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
 <!ENTITY button.syncKeyBackup.save.label      "Ruajeni…">
@@ -94,9 +95,9 @@
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label;-u tani do të përziejë krejt të dhënat e shfletuesit prej këtij kompjuteri me të dhënat e llogarisë tuaj Sync.">
 <!ENTITY confirm.client.label         "Krejt të dhënat &brandShortName; në këtë kompjuter do të fshihen, përfshi sa vijon:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName;-i mandej do të kopjojë të dhënat tuaja &syncBrand.fullName.label; në këtë kompjuter.">
-<!ENTITY confirm.client.warning.label "KUJDES: This will result in all &brandShortName; data on this computer being replaced!">
-<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
-<!ENTITY confirm.server.warning.label "KUJDES: Your local data will replace all &brandShortName; data on these devices!">
+<!ENTITY confirm.client.warning.label "KUJDES: Kjo do të bëjë që krejt të dhënat e &brandShortName;-it në këtë kompjuter të zëvendësohen!">
+<!ENTITY confirm.server.label         "Të dhënat tuaja në pajisjet vijuese do të mbishkruhen me të dhënat tuaja vendore:">
+<!ENTITY confirm.server.warning.label "KUJDES: Të dhënat tuaja do të zëvendësojnë krejt të dhënat e &brandShortName;-it në këto pajisje!">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Rregullim i Plotësuar">
