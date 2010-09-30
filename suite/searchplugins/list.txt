@@ -1,7 +1,3 @@
-google-ru
-priceru
-rambler
-slovari.yandex.ru
+google
 wikipedia-ru
-yandex
-
+yandex-ru
