@@ -1,9 +1,9 @@
-<!ENTITY loadError.label "Page Load Error">
+<!ENTITY loadError.label "Eraro dum ŝargado de paĝo">
 <!ENTITY retry.label "Klopodi denove">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Failed to Connect">
+<!ENTITY connectionFailure.title "Malsukcesa konektado">
 <!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Port Restricted for Security Reasons">
