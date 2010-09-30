@@ -26,6 +26,7 @@
 
 <!ENTITY netOffline.title "Offline-Modus">
 <!ENTITY netOffline.longDesc "<p>Die Anwendung arbeitet im Offline-Modus und kann daher keine Verbindung aufbauen.</p><ul><li>Ist der Computer mit einem aktiven Netzwerk verbunden?</li><li>Schalten Sie die Anwendung bitte in den Online-Modus und versuchen Sie es dann nochmals.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Der Browser arbeitet im Offline-Modus und kann keine Verbindung mit dem gewünschten Eintrag herstellen.</p><ul><li>Ist der Computer mit einem aktiven Netzwerk verbunden?</li><li>Setzen Sie den Browser in den Online-Modus und versuchen Sie es nochmals.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Fehlerhafte Kodierung der Inhalte">
 <!ENTITY contentEncodingError.longDesc "<p>Die aufgerufene Seite kann nicht angezeigt werden, da sie eine ungültige oder nicht unterstützte Form der Kompression verwendet.</p><ul><li>Bitte kontaktieren Sie die Website-Betreiber, um sie über dieses Problem zu informieren.</li></ul>">
