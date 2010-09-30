@@ -1,9 +1,9 @@
-<!ENTITY find.label "Ceeci:">
-<!ENTITY find.accesskey "C">
-<!ENTITY expand.label "Daaru">
-<!ENTITY expand.accesskey "D">
-<!ENTITY collapse.label "Kunkuni">
-<!ENTITY collapse.accesskey "K">
+<!ENTITY find.label                "Ceeci:">
+<!ENTITY find.accesskey            "C">
+<!ENTITY expand.label              "Daaru">
+<!ENTITY expand.accesskey          "D">
+<!ENTITY collapse.label            "Kunkuni">
+<!ENTITY collapse.accesskey        "K">
 <!ENTITY byDate.label "Han bande">
 <!ENTITY byDate.accesskey "H">
 <!ENTITY bySite.label "Nungu bande">

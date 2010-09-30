@@ -35,18 +35,14 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "Jinehere JavaScript Kayandiyaney">
-<!ENTITY window.width "37em">
+<!ENTITY advancedJSDialog.title         "JavaScript kayandiyan jinekoyantey">
+<!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label "Šigira-dumey noo fondo doo:">
+<!ENTITY allowScripts.label             "Šigira-dumey noo fondo doo:">
 
-<!ENTITY moveResizeWindows.label "Zanfuney bere wala alkadar barmay">
-<!ENTITY moveResizeWindows.accesskey "Z">
-<!ENTITY raiseLowerWindows.label "Zanfuney jer wala yee ganda">
-<!ENTITY raiseLowerWindows.accesskey "j">
-<!ENTITY disableContextMenus.label "Gundekuna šilbayboŋey kayandi wala barmay">
-<!ENTITY disableContextMenus.accesskey "k">
-<!ENTITY hideStatusBar.label "Assariya žeeroo tugu">
-<!ENTITY hideStatusBar.accesskey "A">
-<!ENTITY changeStatusBar.label "Assariya žeeri kalimaɲaa kuru barmay">
-<!ENTITY changeStatusBar.accesskey "A">
+<!ENTITY moveResizeWindows.label        "Zanfuney bere wala alkadar barmay">
+<!ENTITY moveResizeWindows.accesskey    "Z">
+<!ENTITY raiseLowerWindows.label        "Zanfuney jer wala yee ganda">
+<!ENTITY raiseLowerWindows.accesskey    "j">
+<!ENTITY disableContextMenus.label      "Gundekuna šilbayboŋey kayandi wala barmay">
+<!ENTITY disableContextMenus.accesskey  "k">

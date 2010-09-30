@@ -25,7 +25,8 @@
 <!ENTITY netInterrupt.longDesc "<p>Ceecikaa ciya boryo, amma ciyaroo kay waatoo kaŋ alhabarey goo ma berandi.  Taare wa ceeci koyne.</p><ul><li>War n'ka ši hin ka tataaru nungu tanayaŋ naaru? War ordinateroo ciyaroo koroši koyne.</li><li>Šenday goo hala sohõ? Wa war sankaa juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
 
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
-<!ENTITY netOffline.longDesc "<p>Ceecikaa ga goy bila nda ciyari nd'a ši hin ka hayiize wirantaa cee.</p><ul><li>War ordinateroo ga dobu sankay goyante ga?</li><li>War ceecikaa dam ciyari alhaali ra, de ma ceeci koyne.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
 <!ENTITY contentEncodingError.longDesc "<p>Moɲoo kaŋ war ga wiri k'a guna ši hin ka diyandi zama a mma goy nda kankamandiyan dabari laala wala kaŋ ši nda gaakašinay.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li></ul>">
@@ -65,17 +66,16 @@
 <li>Nda war na feršikaa woo cee ka boori, firka ga hin ka tee waati foo wane, nda war ga hin ka ceeci koyne nd'a too kayna.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.title "Zanba nungu šikkari!">
+<!ENTITY malwareBlocked.longDesc "<p>Zanba nungey ka porogaramyaŋ sinji kaŋ ga sutura alhabar zay, i ga war ordinateroo ka boro waaniyaŋ tooɲe, wal'i ma war dabariɲaŋoo hasara.</p> 
+<p>Tataaru nungu koyey ga tammahã kaŋ ngi nungoo bayrandi ka tee zanba nungoo dereyan ra <a href='http://www.stopbadware.org/home/reviewinfo' >koroši alhabar hãa</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.title "Zanba tataaru šikkari!">
+<!ENTITY phishingBlocked.longDesc '<p>War alhabar suturante damyan moɲoo woo ra ga hin ka too war boŋtammaasaa ma zaytarandi, wal&apos;a ma zanbantey faaba.</p> 
+<p>Zanba tataaru dumey wey ga bangay zanbarey ra kaŋ š&apos;i ga ne haamari ("phishing"), kaŋ ra tataaru moɲey nda batagawey ga war ašsil moo naanayantey ženti.</p>'>
+
+<!ENTITY cspFrameAncestorBlocked.title "Gagayandi gundekuna saajaw alhukum ra">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Tataaruhugu-ceecikaa na moɲoo woo ganji a ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukum foo ši yadda a ga.</p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

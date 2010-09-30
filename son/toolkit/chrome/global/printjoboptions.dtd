@@ -8,7 +8,7 @@
 <!ENTITY plexInput.label "Cerebande-heenandi yaayi:">
 <!ENTITY plexInput.accesskey "y">
 
-<!ENTITY resolutionInput.label "Bii sahã/Hennari: ">
+<!ENTITY resolutionInput.label "Bii sahã/Hennari:">
 <!ENTITY resolutionInput.accesskey "B">
 
 <!ENTITY cmdInput.label "Kar juwal">
@@ -27,7 +27,7 @@
 <!ENTITY colorspaceInput.accesskey "f">
 
 <!ENTITY fontsGroup.label "Šigira:">
-<!ENTITY downloadFonts.label "Šigirawey zumandi kar maršinoo doo ">
+<!ENTITY downloadFonts.label "Šigirawey zumandi kar maršinoo doo">
 <!ENTITY downloadFonts.accesskey "z">
 
 <!ENTITY edgeMarginInput.label "Farru kaddasoo jesoo nda moo-ceraa game">

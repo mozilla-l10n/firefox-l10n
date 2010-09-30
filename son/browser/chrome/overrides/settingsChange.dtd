@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Kayandiyaney ga hin ka barmay nda Porogaram nor loku &brandShortName; ibaayey ra.">
-<!ENTITY settingsChangeOptions.label "Kayandiyaney ga hin ka barmay nda Porogaram nor loku &brandShortName; suubarey ra.">
+<!ENTITY  settingsChangePreferences.label  "Kayandiyaney ga hin ka barmay nda Porogaram nor loku &brandShortName; ibaayey ra.">
+<!ENTITY  settingsChangeOptions.label      "Kayandiyaney ga hin ka barmay nda Porogaram nor loku &brandShortName; suubarey ra.">

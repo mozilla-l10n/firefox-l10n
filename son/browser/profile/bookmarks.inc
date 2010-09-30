@@ -9,13 +9,6 @@
 #define bookmarks_heading Doo-šilbawey
 
 
-# LOCALIZATION NOTE (bookmarks_addons):
-
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-
-#define bookmarks_addons Doo-šilbay tontoniyaŋ zaa 
-
-
 #define bookmarks_toolbarfolder Doo-šilbay goyjinay žeeri foolo
 
 
@@ -70,7 +63,7 @@
 
 # LOCALIZATION NOTE (firefox_about):
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 
 #define firefox_about Mozilla ga
 

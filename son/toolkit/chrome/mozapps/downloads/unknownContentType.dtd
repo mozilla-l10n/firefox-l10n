@@ -37,25 +37,25 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "War suuba ka feera">
-<!ENTITY from.label "hun doo:">
-<!ENTITY actionQuestion.label "Cin no &brandShortName; ga hima ga tee? ">
+<!ENTITY  intro.label                 "War suuba ka feera">
+<!ENTITY  from.label                  "hun doo:">
+<!ENTITY  actionQuestion.label        "Cin no &brandShortName; ga hima ga tee?">
 
-<!ENTITY openWith.label "Feeri nda">
-<!ENTITY openWith.accesskey "F">
-<!ENTITY other.label "Affoo tana...">
+<!ENTITY  openWith.label              "Feeri nda">
+<!ENTITY  openWith.accesskey          "F">
+<!ENTITY  other.label                 "Affoo tana...">
 
-<!ENTITY saveFile.label "Tuku gaabu">
-<!ENTITY saveFile.accesskey "T">
+<!ENTITY  saveFile.label              "Tuku gaabu">
+<!ENTITY  saveFile.accesskey          "T">
 
-<!ENTITY rememberChoice.label "Woo tee bonše tuku dumey wey se sohõ banda ga.">
-<!ENTITY rememberChoice.accesskey "b">
+<!ENTITY  rememberChoice.label        "Woo tee bonše tuku dumey wey se sohõ banda ga.">
+<!ENTITY  rememberChoice.accesskey    "b">
 
-<!ENTITY whichIsA.label "kaŋ ti:">
+<!ENTITY  whichIsA.label              "kaŋ ti:">
 
-<!ENTITY chooseHandlerMac.label "Suuba...">
-<!ENTITY chooseHandlerMac.accesskey "S">
-<!ENTITY chooseHandler.label "Naaru...">
-<!ENTITY chooseHandler.accesskey "N">
+<!ENTITY  chooseHandlerMac.label      "Suuba...">
+<!ENTITY  chooseHandlerMac.accesskey  "S">
+<!ENTITY  chooseHandler.label         "Naaru...">
+<!ENTITY  chooseHandler.accesskey     "N">
 
-<!ENTITY unknownPromptText.label "War baa ka tukoo woo gaabu?">
+<!ENTITY  unknownPromptText.label     "War baa ka tukoo woo gaabu?">

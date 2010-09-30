@@ -37,88 +37,92 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY pageInfoWindow.width "600">
-<!ENTITY pageInfoWindow.height "500">
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
 
-<!ENTITY copy.key "C">
-<!ENTITY copy.label "Berandi">
-<!ENTITY copy.accesskey "B">
-<!ENTITY selectall.key "A">
-<!ENTITY selectall.label "Kul suuba">
-<!ENTITY selectall.accesskey "K">
-<!ENTITY closeWindow.key "w">
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Berandi">
+<!ENTITY  copy.accesskey        "B">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Kul suuba">
+<!ENTITY  selectall.accesskey   "K">
+<!ENTITY  closeWindow.key       "w">
 
-<!ENTITY generalTab "Kulhaya">
-<!ENTITY generalTab.accesskey "G">
-<!ENTITY generalURL "Aderesu (URL):">
-<!ENTITY generalType "Dumi:">
-<!ENTITY generalMode "Williyan alhaali: ">
-<!ENTITY generalSize "Adadu:">
-<!ENTITY generalReferrer "Fellandi URL (doo):">
-<!ENTITY generalSource "Tugudoo aššil:">
-<!ENTITY generalModified "Barmayante:">
-<!ENTITY generalEncoding "Harfu-hawyan:">
-<!ENTITY generalMetaName "Maa">
-<!ENTITY generalMetaContent "Gundekuna">
-<!ENTITY generalSecurityDetails "Šilbayhayey">
-<!ENTITY generalSecurityDetails.accesskey "D">
+<!ENTITY  generalTab            "Kulhaya">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "Aderesu (URL):">
+<!ENTITY  generalType           "Dumi:">
+<!ENTITY  generalMode           "Williyan alhaali:">
+<!ENTITY  generalSize           "Adadu:">
+<!ENTITY  generalReferrer       "Fellandi URL (doo):">
+<!ENTITY  generalSource         "Tugudoo aššil:">
+<!ENTITY  generalModified       "Barmayante:">
+<!ENTITY  generalEncoding       "Harfu-hawyan:">
+<!ENTITY  generalMetaName       "Maa">
+<!ENTITY  generalMetaContent    "Gundekuna">
+<!ENTITY  generalSecurityDetails   "Šilbayhayey">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY mediaTab "Alhabar goyjinay">
-<!ENTITY mediaTab.accesskey "M">
-<!ENTITY mediaLocation "Gorodoo:">
-<!ENTITY mediaText "Kalimaɲaa kuru kondante:">
-<!ENTITY mediaAltHeader "Kalimaɲaa kuru bere-berante:">
-<!ENTITY mediaAddress "Aderesu">
-<!ENTITY mediaType "Dumi">
-<!ENTITY mediaSize "Adadu">
-<!ENTITY mediaCount "Hinna">
-<!ENTITY mediaDimension "Alkadarey:">
-<!ENTITY mediaLongdesc "Šilbayyan kuku:">
-<!ENTITY mediaBlockImage.accesskey "B">
-<!ENTITY mediaSaveAs "Gaabu sanda...">
-<!ENTITY mediaSaveAs.accesskey "A">
-<!ENTITY mediaSaveAs2.accesskey "e">
-<!ENTITY mediaPreview "Alhabar goyjinay moo-fur:">
+<!ENTITY  mediaTab              "Alhabar goyjinay">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Gorodoo:">
+<!ENTITY  mediaText             "Kalimaɲaa kuru kondante:">
+<!ENTITY  mediaAltHeader        "Kalimaɲaa kuru bere-berante:">
+<!ENTITY  mediaAddress          "Aderesu">
+<!ENTITY  mediaType             "Dumi">
+<!ENTITY  mediaSize             "Adadu">
+<!ENTITY  mediaCount            "Hinna">
+<!ENTITY  mediaDimension        "Alkadarey:">
+<!ENTITY  mediaLongdesc         "Šilbayyan kuku:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Gaabu sanda...">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Alhabar goyjinay moo-fur:">
 
-<!ENTITY feedTab "Alhabar damyaney">
-<!ENTITY feedTab.accesskey "F">
-<!ENTITY feedSubscribe "Boŋ-maa hantum">
-<!ENTITY feedSubscribe.accesskey "u">
+<!ENTITY  feedTab               "Alhabar damyaney">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Boŋ-maa hantum">
+<!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY permTab "Duɲeyaney">
-<!ENTITY permTab.accesskey "P">
-<!ENTITY permUseDefault "Tilasu goyandi">
-<!ENTITY permAskAlways "Hãa waati kul">
-<!ENTITY permAllow "Noo fondo">
-<!ENTITY permAllowSession "Noo fondo goywaati se">
-<!ENTITY permBlock "Gagay">
-<!ENTITY permissionsFor "Duɲeyan woo se:">
-<!ENTITY permImage "Biyey zumandi">
-<!ENTITY permPopup "Biiboŋ bata zanfuney feeri">
-<!ENTITY permCookie "Aleewawey kayandi">
-<!ENTITY permInstall "Dobuyaney wala furarey sinji">
-<!ENTITY permGeo "Gorodoo žemna">
+<!ENTITY  permTab               "Duɲeyaney">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Tilasu goyandi">
+<!ENTITY  permAskAlways         "Hãa waati kul">
+<!ENTITY  permAllow             "Noo fondo">
+<!ENTITY  permAllowSession      "Noo fondo goywaati se">
+<!ENTITY  permBlock             "Gagay">
+<!ENTITY  permissionsFor        "Duɲeyan woo se:">
+<!ENTITY  permImage             "Biyey zumandi">
+<!ENTITY  permPopup             "Biiboŋ bata zanfuney feeri">
+<!ENTITY  permCookie            "Aleewawey kayandi">
+<!ENTITY  permInstall           "Dobuyaney wala furarey sinji">
+<!ENTITY  permGeo               "Gorodoo žemna">
 
-<!ENTITY securityTab "Saajaw">
-<!ENTITY securityTab.accesskey "S">
-<!ENTITY securityHeader "Saajaw alhabar moɲoo woo se">
-<!ENTITY securityView.certView "Tabatiyan-tiira guna">
-<!ENTITY securityView.accesskey "V">
-<!ENTITY securityView.unknown "Šibayante">
+<!ENTITY  permIndexedDB              "Maintain Offline Storage">
+<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permClearStorage.accesskey "C">
+
+<!ENTITY  securityTab           "Saajaw">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Saajaw alhabar moɲoo woo se">
+<!ENTITY  securityView.certView "Tabatiyan-tiira guna">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Šibayante">
 
 
-<!ENTITY securityView.identity.header "Tataaru nungu boŋtaamansa">
-<!ENTITY securityView.identity.owner "Koy:">
-<!ENTITY securityView.identity.domain "Tataaru nungu:">
-<!ENTITY securityView.identity.verifier "Kaŋ n'a koroši:">
+<!ENTITY  securityView.identity.header   "Tataaru nungu boŋtaamansa">
+<!ENTITY  securityView.identity.owner    "Koy:">
+<!ENTITY  securityView.identity.domain   "Tataaru nungu:">
+<!ENTITY  securityView.identity.verifier "Kaŋ n'a koroši:">
 
-<!ENTITY securityView.privacy.header "Sutura jejebu &amp; taariki">
-<!ENTITY securityView.privacy.history "Ya n'ka bay ka tataaru nungoo woo dira ka ben hõ?">
-<!ENTITY securityView.privacy.cookies "Tataaru nungoo ga alhabar (aleewayaŋ) jiši ay ordinateroo ga?">
-<!ENTITY securityView.privacy.viewCookies "Aleewawey guna">
-<!ENTITY securityView.privacy.viewCookies.accessKey "k">
-<!ENTITY securityView.privacy.passwords "Ya n'ka šennikufal kulyaŋ gaabu tataaru nungoo se?">
-<!ENTITY securityView.privacy.viewPasswords "Šennikufal gaabunte guna">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "w">
+<!ENTITY  securityView.privacy.header                   "Sutura jejebu &amp; taariki">
+<!ENTITY  securityView.privacy.history                  "Ay na ka tataaru nungoo woo naaru hõ se jine?">
+<!ENTITY  securityView.privacy.cookies                  "Tataaru nungoo ga alhabar (aleewayaŋ) jiši ay ordinateroo ga?">
+<!ENTITY  securityView.privacy.viewCookies              "Aleewawey guna">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Ya n'ka šennikufal kulyaŋ gaabu tataaru nungoo se?">
+<!ENTITY  securityView.privacy.viewPasswords            "Šennikufal gaabunte guna">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
-<!ENTITY securityView.technical.header "Goywaanay šilbayhayey">
+<!ENTITY  securityView.technical.header                 "Goywaanay šilbayhayey">

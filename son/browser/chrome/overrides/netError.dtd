@@ -29,7 +29,7 @@ ciyari.</li>
 </ul>">
 
 
-<!ENTITY generic.title "Hãaroo ši hin ka too nga mee.">
+<!ENTITY generic.title "Jalla!">
 <!ENTITY generic.longDesc "Haya foo kaŋ ši nda fahami se, <p>&brandShortName; ši hin ka moɲoo woo zumandi.</p>">
 
 <!ENTITY malformedURI.title "Aderesoo woo ši boori">
@@ -44,23 +44,26 @@ ciyari.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Taamansa kaa ne &quot;Goy bila nda ciyari&quot; tukušilbayboŋoo ra, de war m'a tee koyne.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> 
+</ul>">
 
 <!ENTITY unsafeContentType.title "Tuku dumi kaŋ ši nda naanay">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Ciyaroo willi lasaloo ga">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -115,35 +118,33 @@ waati-waati haya, adiši war ga ceeci taaga nd'a too kayna.</li>
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>Nungoo ši duwandi waati foo, wala a goo goy warga ra. A ceeci koyne 
- nd'a too kayna.</li> 
+nd'a too kayna.</li> 
 <li>Nda war mana hin ka moɲey zumandi, guna wala war ordinateroo sanka 
 ga ciya.</li> 
 <li>Nda nuneceta wala tokore ga war ordinateroo wala sankaa jejebu, w'alhakiika kaŋ 
 goo &brandShortName; nda fondo ka huru tataaroo ra.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.title "Zanba nungu šikkari!">
+<!ENTITY malwareBlocked.longDesc "<p>Zanba nungey ka porogaramyaŋ sinji kaŋ ga sutura alhabar zay, i ga war ordinateroo ka boro waaniyaŋ tooɲe, wal'i ma war dabariɲaŋoo hasara.</p> 
+<p>Tataaru nungu koyey ga tammahã kaŋ ngi nungoo bayrandi ka tee zanba nungoo dereyan ra <a href='http://www.stopbadware.org/home/reviewinfo' >koroši alhabar hãa</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.title "Zanba tataaru šikkari!">
+<!ENTITY phishingBlocked.longDesc '<p>War alhabar suturante damyan moɲoo woo ra ga hin ka too war boŋtaamansaa ma zaytarandi, wal&apos;a ma darga faaba.</p> 
+<p>Darga tataaru dumey wey ga bangay zanbarey ra kaŋ š&apos;i ga ne haamari ("phishing"), kaŋ ra tataaru moɲey nda batagawey ga war ašsil moo naanayantey ženti.</p>'>
+
+<!ENTITY cspFrameAncestorBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
 
 <!ENTITY securityOverride.linkText "Wala war ga hin ka hasaraw foo tonton...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ay kaataray ne!">
 <!ENTITY securityOverride.exceptionButtonLabel "Hasaraw tonton...">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningText "<p>War ga hima ka hasaraw foo tonton nda war ga goy nda Interneti ciyari kaŋ war ši naanay ya nda cimi, wala nda war mana doona ka dii yaamar war ordinateroo se.</p> 
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo se.</p>  
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

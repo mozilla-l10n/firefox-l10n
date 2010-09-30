@@ -18,12 +18,12 @@
 <!ENTITY printrangeGroup.label "Kar gande">
 <!ENTITY allpagesRadio.label "Moɲey kul">
 <!ENTITY allpagesRadio.accesskey "k">
-<!ENTITY rangeRadio.label "Moɲey">
-<!ENTITY rangeRadio.accesskey "M">
-<!ENTITY frompageInput.label "hun">
-<!ENTITY frompageInput.accesskey "h">
-<!ENTITY topageInput.label "doo">
-<!ENTITY topageInput.accesskey "d">
+<!ENTITY rangeRadio.label  "Moɲey">
+<!ENTITY rangeRadio.accesskey  "M">
+<!ENTITY frompageInput.label  "hun">
+<!ENTITY frompageInput.accesskey  "h">
+<!ENTITY topageInput.label  "doo">
+<!ENTITY topageInput.accesskey  "d">
 <!ENTITY selectionRadio.label "Suubari">
 <!ENTITY selectionRadio.accesskey "S">
 
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Kar kungawey">
 <!ENTITY aslaidoutRadio.label "Taka kaŋ nda a ga fatta dijoo ra">
 <!ENTITY aslaidoutRadio.accesskey "f">
-<!ENTITY selectedframeRadio.label "Kunga suubante">
-<!ENTITY selectedframeRadio.accesskey "s">
-<!ENTITY eachframesepRadio.label "Kunga foo kul ga faya">
-<!ENTITY eachframesepRadio.accesskey "f">
+<!ENTITY selectedframeRadio.label  "Kunga suubante">
+<!ENTITY selectedframeRadio.accesskey  "s">
+<!ENTITY eachframesepRadio.label  "Kunga foo kul ga faya">
+<!ENTITY eachframesepRadio.accesskey  "f">
