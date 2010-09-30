@@ -5,9 +5,5 @@
 <!ENTITY raiseLowerWindows.accesskey    "U">
 <!ENTITY disableContextMenus.label      "Çaktivizojnë ose zëvendësojnë menu konteksti">
 <!ENTITY disableContextMenus.accesskey  "Ç">
-<!ENTITY hideStatusBar.label            "Fshehin shtyllë gjendjeje">
-<!ENTITY hideStatusBar.accesskey        "F">
-<!ENTITY changeStatusBar.label          "Ndryshojnë tekst shtylle gjendjeje">
-<!ENTITY changeStatusBar.accesskey      "d">
 <!ENTITY moveResizeWindows.label        "Lëzivin ose ripërmasojnë dritare ekzistuese">
 <!ENTITY moveResizeWindows.accesskey    "L">
