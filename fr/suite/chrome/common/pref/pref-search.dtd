@@ -2,21 +2,14 @@
 
 <!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
 
-<!ENTITY pref.search.title "Recherche sur Internet">
-<!ENTITY legendHeader "Moteur de recherche par défaut">
-<!ENTITY defaultSearchEngine.label "Rechercher en utilisant :">
-<!ENTITY defaultSearchEngine.accesskey "R">
+<!ENTITY pref.search.title                "Recherche sur Internet">
+<!ENTITY legendHeader                     "Moteur de recherche par défaut">
+<!ENTITY defaultSearchEngine.label        "Rechercher en utilisant :">
+<!ENTITY defaultSearchEngine.accesskey    "R">
 
-<!ENTITY openSidebarSearchPanel.label "Ouvrir le panneau « Rechercher » de la barre latérale quand les résultats sont disponibles">
+<!ENTITY searchResults.label              "Résultats de recherche">
+
+<!ENTITY openInTab.label                  "Ouvrir de nouveaux onglets pour les résultats de recherche de la barre latérale">
+<!ENTITY openInTab.accesskey              "n">
+<!ENTITY openSidebarSearchPanel.label     "Ouvrir l'onglet Recherche de la barre latérale lors d'une nouvelle recherche">
 <!ENTITY openSidebarSearchPanel.accesskey "O">
-
-<!ENTITY openContextSearchTab.label "Ouvrir un onglet plutôt qu'une fenêtre pour une recherche Web depuis le menu contextuel">
-<!ENTITY openContextSearchTab.accesskey "u">
-
-<!ENTITY searchResults.label "Résultats de recherche">
-
-<!ENTITY sidebarSearchTabPref.label "Panneau « Rechercher » de la barre latérale">
-<!ENTITY searchModeBasic.label "Basique">
-<!ENTITY searchModeBasic.accesskey "B">
-<!ENTITY searchModeAdvanced.label "Avancé">
-<!ENTITY searchModeAdvanced.accesskey "v">
