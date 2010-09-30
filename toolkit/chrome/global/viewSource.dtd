@@ -70,7 +70,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "з">
-<!ENTITY forwardCmd.label "Forward">
-<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY forwardCmd.label "Напред">
+<!ENTITY forwardCmd.accesskey "п">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">

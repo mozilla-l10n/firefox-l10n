@@ -1,14 +1,14 @@
 <!ENTITY networkPanel.requestURL "Request URL">
-<!ENTITY networkPanel.requestMethod "Request Method">
-<!ENTITY networkPanel.statusCode "Status Code">
+<!ENTITY networkPanel.requestMethod "Метод на барањето">
+<!ENTITY networkPanel.statusCode "Код на статусот">
 
-<!ENTITY networkPanel.requestHeaders "Request Headers">
+<!ENTITY networkPanel.requestHeaders "Заглавја на барањето">
 <!ENTITY networkPanel.requestCookie "Sent Cookie">
-<!ENTITY networkPanel.requestBody "Request Body">
+<!ENTITY networkPanel.requestBody "Тело на барањето">
 <!ENTITY networkPanel.requestFormData "Sent Form Data">
 
-<!ENTITY networkPanel.responseHeaders "Response Headers">
-<!ENTITY networkPanel.responseBody "Response Body">
+<!ENTITY networkPanel.responseHeaders "Заглавја на одговорот">
+<!ENTITY networkPanel.responseBody "Тело на одговорот">
 <!ENTITY networkPanel.responseBodyCached "Cached Data">
 <!ENTITY networkPanel.responseNoBody "No Response Body">
 <!ENTITY networkPanel.responseImage "Received Image">

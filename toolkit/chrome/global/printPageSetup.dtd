@@ -41,7 +41,7 @@
 <!ENTITY headerFooter.label "Заглавја и подножја">
 
 <!ENTITY hfLeft.label "Лево:">
-<!ENTITY hfCenter.label "Center:">
+<!ENTITY hfCenter.label "Централно">
 <!ENTITY hfRight.label "Десно:">
 <!ENTITY headerLeft.tip "Лево заглавје">
 <!ENTITY headerCenter.tip "Center header">
