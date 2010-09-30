@@ -1,0 +1,43 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; kayandi goy se">
+<!ENTITY setupButton.accesskey      "k">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ga naŋ war ma dii war taarikoo, doo-šilbawey, šennikufaley nda nor lokey feeri war goyjinawey kul ga.">
+<!-- The page shown when logged in... -->
+
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; kontu">
+<!ENTITY currentAccount.label         "Current Account:">
+<!-- Login error feedback -->
+
+<!ENTITY updatePass.label             "Taagandiri">
+<!ENTITY resetPass.label              "Yeeti">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "Kontu juwal">
+<!ENTITY manageAccount.accesskey      "K">
+<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY changePassword.label         "Šennikufal barmay">
+<!ENTITY mySyncKey.label              "My Sync Key">
+<!ENTITY resetSync.label              "Yeetiyan hangante">
+<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!-- Sync Settings -->
+
+<!ENTITY syncPrefsCaption.label       "Tataaruhugu-ceecikaw hangante">
+<!ENTITY syncComputerName.label       "Ordinater maa:">
+<!ENTITY syncComputerName.accesskey   "O">
+
+<!ENTITY syncMy.label               "Sync My">
+<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.accesskey     "S">
+<!-- Footer stuff -->
+
+
+<!ENTITY prefs.tosLink.label        "Goy kalima-izey">
+<!ENTITY prefs.ppLink.label         "Sutura laada">

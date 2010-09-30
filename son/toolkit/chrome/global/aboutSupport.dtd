@@ -1,0 +1,37 @@
+<!ENTITY aboutSupport.pageTitle "Karkahattayan alhabar">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "  Moɲoo woo goo nda goyandi alhabar kaŋ ga hin ka bara nda nafaw waati kaŋ war ga 
+ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney se &brandShortName; ga, ir <a id='supportLink'>support web site</a> guna.">
+
+<!ENTITY aboutSupport.extensionsTitle "Dobuyaney">
+<!ENTITY aboutSupport.extensionName "Maa">
+<!ENTITY aboutSupport.extensionEnabled "Tunante">
+<!ENTITY aboutSupport.extensionVersion "Dumi">
+<!ENTITY aboutSupport.extensionId "Boŋ-šilbay">
+
+<!ENTITY aboutSupport.appBasicsTitle "Porogaram šintin hayey">
+<!ENTITY aboutSupport.appBasicsName "Maa">
+<!ENTITY aboutSupport.appBasicsVersion "Dumi">
+<!ENTITY aboutSupport.appBasicsProfileDir "Fooloɲaa alhal">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Sukari tunantey">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Cinari hanseyanoo">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+
+<!ENTITY aboutSupport.show.label "Foolo feeri kaŋ goo nda">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+
+<!ENTITY aboutSupport.showMac.label "Cebe ceecikoy ra">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Ibaayi barmayantey">
+<!ENTITY aboutSupport.modifiedPrefsName "Maa">
+<!ENTITY aboutSupport.modifiedPrefsValue "Hinna">
+
+<!ENTITY aboutSupport.graphicsTitle "Bii takarey">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Taariki sinjiyan">
+<!ENTITY aboutSupport.updateHistoryTitle "Taariki taagandi">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Ikul berandi deeji-walhaa ga">
