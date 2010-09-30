@@ -69,8 +69,9 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Lesezeichen-Symbolleiste">
 <!ENTITY personalbarCmd.accesskey "L">
 <!ENTITY bookmarksToolbarItem.label "Lesezeichen-Symbole">
-<!ENTITY taskbarCmd.label "Statusleiste">
-<!ENTITY taskbarCmd.accesskey "t">
+<!ENTITY addonBarCmd.label "Add-on-Leiste">
+<!ENTITY addonBarCmd.accesskey "A">
+
 
 <!ENTITY pageSourceCmd.label "Seitenquelltext anzeigen">
 <!ENTITY pageSourceCmd.accesskey "a">
