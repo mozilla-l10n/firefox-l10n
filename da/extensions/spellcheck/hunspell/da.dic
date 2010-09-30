@@ -1,4 +1,4 @@
-153502 # (c) Stavekontrolden.dk
+153538 # (c) Stavekontrolden.dk
 65-billet/46,70,976
 68-generation/70,73,7,976
 A
@@ -10940,6 +10940,7 @@ bespare/6,143,148
 besparelse/70,73,7,976
 besparelsesforslag/70,252,10,976
 besparing/70,73,7,976,939,947
+Bespin/55
 bespise/140,143,148
 bespisning/70,73,7,976
 bespotte/6,143,148
@@ -14395,6 +14396,7 @@ Bonnik/55
 Bonno/55
 Bonny/55
 bonsai/193,70,976,941,947
+Bonsai/55
 bonus/46,70,976,941,947
 bonusordning/70,73,7,976
 boogie-woogie/70,73,7,976
@@ -16455,6 +16457,7 @@ bugte/6,143,148
 bugtet/70,1062
 bugtning/70,73,7,976
 Bugtved/699,55
+Bugzilla/55
 buh
 buhe/6,143,148
 Buhl/55
@@ -18308,6 +18311,7 @@ Camillas/55
 Camille/55
 Camillia/55
 Camillo/55
+Camino/55
 Camitta/55
 Camlin/55
 Camma/55
@@ -19097,6 +19101,7 @@ Chathrine/55
 chatol/70,9,976
 Chatrine/55
 chatte/6,143,148
+ChatZilla/55
 Chaudhry/55
 chauffør/70,73,7,976
 chausse/70,976
@@ -19925,6 +19930,7 @@ Comore/55
 Comorerne/55
 comorisk/917,976
 complet/70,73,7,976
+Composer/55
 computer/20,7,70,976,941,947
 computerbaseret/70,1062
 computergrafik/193,70,976
@@ -31462,6 +31468,7 @@ Feng/55
 Fenge/55
 Fenja/55
 fenne/70,73,7,976
+Fennec/55
 fennikel/70,976
 fennikelknold/20,7,70,976
 fennikels/976
@@ -32343,6 +32350,7 @@ fireetages'/976
 fireetageses/976
 fireetages's/976
 firefarvet/70,1062
+Firefox/55
 Firefox/55,466
 firehjulede/976
 firehjuledere/976
@@ -33566,6 +33574,7 @@ flittige/6,143,148
 flittighed/193,70,976
 flittiglise/70,73,7,976
 Flo/55
+Flock/55
 flod/193,70,976
 flod/70,254,976,941,947
 flod/70,73,7,976
@@ -42960,6 +42969,7 @@ gebyr/70,10,73,976
 gebyrfri/70,962,366
 gebærde/6,143,148
 gebærde/70,73,7,976
+Gecko/55
 ged/70,73,7,976,940,947
 Gedbæk/699,55
 Geddal/699,55
@@ -61370,6 +61380,7 @@ javansk
 javanske/976
 javanskes/976
 javansks/976
+JavaScript/55
 javascript/55,941,947
 Javed/55
 javel
@@ -75690,6 +75701,7 @@ lighedsprincip/70,9,976
 light
 lighter/20,7,70,976
 lightergas/46,70,976
+Lightning/55
 lighus/10,70,20,976
 ligkapel/70,9,976
 ligkiste/70,73,7,976
@@ -86630,6 +86642,7 @@ mozambiquernes
 mozambiquers/976
 mozambiquisk/917,976
 Mozart/55
+Mozilla/55
 Mozilla/55,466
 MozillaDanmark/55
 mozzarellaost/20,7,70,976
@@ -89213,6 +89226,7 @@ Necati/55
 Necip/55
 Neck/55
 Necklas/55
+Necko/55
 Necla/55
 Necmeddin/55
 Necmettin/55
@@ -90058,6 +90072,7 @@ Nethaya/55
 Nethe/55
 nethed/193,70,976
 netop
+Netscape/55
 Netscape/55,466
 netstrømper/70,976
 netstrømperne/976
@@ -91070,6 +91085,8 @@ NPK-gødning/70,73,7,976
 NPO-redegørelse/193,70,976
 nr./976
 nr/976,1111
+NSPR/55
+NSS/55
 nu
 nu/194,70,976
 nuance/70,73,7,976,941,947
@@ -102419,6 +102436,7 @@ Priska/55
 priskomité/70,73,7,976
 priskrig/20,7,70,976
 priskurant/70,73,7,976
+Prism/55
 prismatisk/917,976
 prisme/70,10,73,976,941,947
 prismæssig/207,70,366,976
@@ -107717,6 +107735,7 @@ rhesusabe/70,73,7,976
 rhesusnegativ/70,962,366
 rhesuspositiv/70,962,366
 Rhina/55
+Rhino/55
 rhinsk/976
 rhinske/976
 rhinskes
@@ -112911,6 +112930,7 @@ sdr.
 sdr/1111
 se
 Sead/55
+SeaMonkey/55
 Seamus/55
 Sean/55
 seance/70,73,7,976
@@ -120761,6 +120781,7 @@ snottet
 snottet/70,1062
 snottets
 Snovdrup/699,55
+Snowl/55
 snu/976
 snub
 snubbe
@@ -121704,6 +121725,7 @@ Sonebjerg/699,55
 Soner/55
 sonet/46,70,976
 Song/55
+Songbird/55
 Songül/55
 Sonia/55
 Sonilla/55
@@ -122524,6 +122546,7 @@ spidder
 spiddes
 spiddet
 spiddets
+SpiderMonkey/55
 spidning/70,73,7,976
 spids/70,73,7,976,941,947
 spids/70,962,366
@@ -127753,6 +127776,7 @@ sumpbæver/20,7,70,976
 sumpet/70,1062
 Sun/55
 Suna/55
+Sunbird/55
 sund/10,70,20,976
 sund/70,962,366
 Sundbjerg/699,55
@@ -131277,6 +131301,7 @@ Tama/55
 Tamana/55
 Tamar/55
 Tamara/55
+Tamarin/55
 tamarinde/70,73,7,976
 tamarisk/70,73,7,976
 Tamas/55
@@ -132965,6 +132990,7 @@ Thu/55
 Thue/55
 thuja/70,73,7,976
 Thulla/55
+Thunderbird/55
 Thune/55
 Thuong/55
 Thure/55
@@ -134770,6 +134796,7 @@ Tinamaria/55
 Tind/699,55
 Tindbæk/699,55
 tinde/70,73,7,976
+Tinderbox/55
 tinding/70,73,7,976,940,947
 Tindingebanke/699,55
 tindingeben/70,252,10,976
@@ -140146,6 +140173,7 @@ ubevæbnet/70,1062
 ubevægelig/207,70,366,976
 ubevægelighed/193,70,976
 ubillig/207,70,366,976
+Ubiquity/55
 Ubjerg/699,55
 ublandet/70,1062
 ubleget/70,1062
@@ -147143,6 +147171,7 @@ Venia/55
 veninde/70,73,7,976
 Venja/55
 Venke/55
+Venkman/55
 venlig/207,70,366,976
 venlighed/70,73,7,976
 venligsindede/976
@@ -150617,6 +150646,7 @@ wc-kumme/70,73,7,976
 wc-papir/70,10,73,976
 wc-rens/190,976
 wc-sæde/70,10,73,976
+Weave/55
 web/70,976,941,947
 webadresse/70,73,7,976
 webben/976
@@ -150879,6 +150909,7 @@ Xandra/55
 Xania/55
 Xara/55
 Xavier/55
+XBL/55
 XBM
 Xela/55
 Xemina/55
@@ -150906,12 +150937,17 @@ XLST
 XML/466
 xml/466
 xml-fil/70,73,7,976
+XPCOM/55
+XPConnect/55
+XPInstall/55
 xsl
 xst
 x-stråle/70,73,7,976
 Xthin/55
 Xuan/55
 Xudeyfe/55
+XUL/55
+XULRunner/55
 Xun/55
 xylofon/70,73,7,976
 xylofonist/70,73,7,976,941,947
