@@ -48,7 +48,7 @@ retperanto, certiĝu ke
 -->
 <!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+  <li>Malŝalti la menueron &quot;Labori malkonektite&quot; kaj klopodu denove.</li>
 </ul>
 ">
 
@@ -124,8 +124,8 @@ la eraro povas esti tempa kaj vi povos klopodi denove poste.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Tajpado de persona informo en tiu ĉi paĝo povas okazigi ŝtelon de identeco aŭ aliajn trompojn.</p> 
 <p>Tiuj tipo de retfalsaĵoj estas uzataj en trompoj konataj kiel &quot;phishing&quot;-aj atakoj, kie malhonestaj retpaĝoj kaj retmesaĝoj estas uzataj por imit retpaĝojn aŭ organizojn je kiuj vi eble fidas.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokita de la sekureca politiko pri enahvo">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ne permesis al tiu ĉi paĝo ŝargiĝi ĉi tiel ĉar la paĝo havas sekurecan politikon pri enhavo kiu malperesas tion.</p>">
 
 <!ENTITY securityOverride.linkText "Aŭ vi povas aldoni escepton…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Mi volas foriri de ĉi tie!">
@@ -137,7 +137,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>Vi ne devus aldoni escepton se vi uzas interretan konekton kiun vi ne fidas tute, aŭ se vi ne kutimas vidi averton por tiu ĉi retejo.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
