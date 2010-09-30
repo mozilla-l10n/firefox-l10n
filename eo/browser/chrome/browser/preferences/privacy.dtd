@@ -57,10 +57,10 @@
 <!ENTITY  dontrememberActions.clearHistory.label "forviŝi la tutan aktualan historion">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY  privateBrowsingPermanent.label "Konstanta reĝimo de privata retesplorado">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.label      "Memori mian retesploran historion">
 <!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Memori mian elŝutan historion">
