@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Etegeka ziyiza ku kyusirwa nga okozesa pulogulamu tabu mu &brandShortName;`s ebyegalwa.">
-<!ENTITY settingsChangeOptions.label "Etageka ziyiza ku kyusirwa nga okozesa pulogulamu tabu mu &brandShortName;`s ebilondwamu.">
+<!ENTITY  settingsChangePreferences.label  "Etegeka ziyiza ku kyusirwa nga okozesa pulogulamu awaddirira mu &brandShortName;`s ebyegalwa.">
+<!ENTITY  settingsChangeOptions.label      "Etageka ziyiza ku kyusirwa nga okozesa pulogulamu awaddirira mu &brandShortName;`s ebilondwamu.">

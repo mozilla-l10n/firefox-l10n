@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Eteegeka ziyiza kukyusirwa mu &brandShortName; Ebyetegibwa.">
-<!ENTITY settingsChangeOptions.label "Eteegeka ziyiza kukyusirwa mu &brandShortName; Ebiwerendwa.">
+<!ENTITY  settingsChangePreferences.label  "Eteegeka ziyiza kukyusirwa mu &brandShortName; Ebyetegibwa.">
+<!ENTITY  settingsChangeOptions.label      "Eteegeka ziyiza kukyusirwa mu &brandShortName; Ebiwerendwa.">

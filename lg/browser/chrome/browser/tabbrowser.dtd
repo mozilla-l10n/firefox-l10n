@@ -1,21 +1,2 @@
-<!ENTITY untitledTab "(Tekuli mutwe)">
-<!ENTITY newTab.label "Wamuko omupya">
-<!ENTITY newTab.accesskey "W">
-<!ENTITY closeTab.label "Ggalawo wamuko">
-<!ENTITY closeTab.accesskey "G">
-<!ENTITY closeOtherTabs.accesskey "o">
-<!ENTITY closeOtherTabs.label "Ggalawo obudirisa obullala">
-<!ENTITY reloadAllTabs.label "Ddamu otike Wamiko Zonna">
-<!ENTITY reloadAllTabs.accesskey "W">
-<!ENTITY reloadTab.label "Ddamu otikke wamiko">
-<!ENTITY reloadTab.accesskey "D">
-<!ENTITY openTabInNewWindow.label "Ggulirawo mu Diriisa Epya">
-<!ENTITY openTabInNewWindow.accesskey "D">
-<!ENTITY listAllTabs.label "Menya wamiko zonna">
-<!ENTITY bookmarkAllTabs.label "Lamba awaddirira zonna wamiko…">
-<!ENTITY bookmarkAllTabs.accesskey "w">
-<!ENTITY bookmarkThisTab.label "Lamba wamiko eno">
-<!ENTITY bookmarkThisTab.accesskey "L">
-<!ENTITY undoCloseTab.label "Jjulula okugalawo wamiko eno">
-<!ENTITY undoCloseTab.accesskey "J">
-<!ENTITY newTabButton.tooltip "Gulawo awadiriira ewapya">
+<!ENTITY  closeTab.label         "Close Tab">
+<!ENTITY  newTabButton.tooltip        "Ggulawo awaddirira awapya">

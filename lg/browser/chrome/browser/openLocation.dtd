@@ -1,10 +1,10 @@
 <!-- extracted from content/openLocation.xul -->
 
 <!ENTITY enter.label "Yingiza endagiriro y'ekyapa (URL), oba yawulawo failo gyewandiyagade okugulawo:">
-<!ENTITY chooseFile.label "Londako failo…">
-<!ENTITY newWindow.label "Eddirisa empya">
-<!ENTITY newTab.label "Taabu empya">
-<!ENTITY topTab.label "Omukuttu oguliwo">
-<!ENTITY caption.label "Gulawo endagiriro y'ekyapa">
-<!ENTITY openWhere.label "Gulirawo mu:">
-<!ENTITY openBtn.label "Gulawo">
+<!ENTITY chooseFile.label "Londako Fayiro…">
+<!ENTITY newTab.label "Awaddirira Awapya">
+<!ENTITY newWindow.label "Eddirisa Empya">
+<!ENTITY topTab.label "Awaddirira Awaliwo">
+<!ENTITY caption.label "Ggulawo Omutimbangano mu Kifo">
+<!ENTITY openWhere.label "Ggulirawo mu:">
+<!ENTITY openBtn.label "Ggulawo">

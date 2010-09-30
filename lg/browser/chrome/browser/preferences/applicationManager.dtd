@@ -1,4 +1,4 @@
-<!ENTITY appManager.title "Ebikwata ku kussa mu nkola mu bujjuvu">
-<!ENTITY appManager.style "obugazi: 30em; mu-buwavu: 20em;">
-<!ENTITY remove.label "Jjawo">
-<!ENTITY remove.accesskey "J">
+<!ENTITY appManager.title     "Ebikwata ku enkozesesa">
+<!ENTITY appManager.style     "obugazi: 30em; mu-buwavu: 20em;">
+<!ENTITY remove.label         "Jjawo">
+<!ENTITY remove.accesskey     "J">

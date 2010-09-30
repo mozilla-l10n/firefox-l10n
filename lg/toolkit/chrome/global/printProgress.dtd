@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Okufulumya">
-<!ENTITY title "Omutwe:">
+<!ENTITY title    "Omutwe:">
 <!ENTITY progress "Okweyongerayo:">
 <!ENTITY preparing "Okutegeka…">
 <!ENTITY printComplete "Okufulumya kuwedde.">

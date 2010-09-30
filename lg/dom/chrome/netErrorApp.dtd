@@ -3,5 +3,5 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Oba osobola okwongera ko ekisuffu…">
-<!ENTITY securityOverride.warningText "<p>Tonyina kugatta ekyawufu bwoba okozesa omukutu gwensiyonna eyotolina m`obwesige ddala oba bwoba tokira kulaba okulabula kwa kompyuta efugga zinazo eno.</p> 
+<!ENTITY securityOverride.warningContent "<p>Tonyina kugatta ekyawufu bwoba okozesa omukutu gwensiyonna eyotolina m`obwesige ddala oba bwoba tokira kulaba okulabula kwa kompyuta efugga zinazo eno.</p> 
 <p>Bwoba okyayagala kugatta ekyawufu kyekibanja kino, wenyogerenyo mubumanyibwo bwokwebika ebigeddedwawo.</p>">

@@ -1,12 +1,12 @@
-<!ENTITY dialog.title "Akabawo Kebikozesebwa">
-<!ENTITY dialog.style "obugazi: 635px; obuwanvu: 400px;">
-<!ENTITY instructions.description "Osobola okugata oba okujjako ekintu nga okozeesa akabawo ke bikozesebwa.">
-<!ENTITY show.label "Langa:">
-<!ENTITY iconsAndText.label "Akokoni ne Kiwandiko">
-<!ENTITY icons.label "Kakoni">
-<!ENTITY text.label "Ekigambo">
-<!ENTITY useSmallIcons.label "Kozesa kakoni obutini">
-<!ENTITY restoreDefaultSet.label "Nddamu Ekiberawo eteegeke">
-<!ENTITY addNewToolbar.label "Ggatta akabawo ke ebikozesa Akapya">
-<!ENTITY saveChanges.label "Kikoleddwa">
-<!ENTITY undoChanges.label "Nddemabega kubikyusirwa">
+<!ENTITY dialog.title             "Manyiza Akabawo Kebikozesebwa">
+<!ENTITY dialog.style             "width: 86ch; height: 36em;">
+<!ENTITY instructions.description "Osobola okugata oba okujjako ekintu nga osikka ku oba kuva ku kabawo ke bikozesebwa.">
+<!ENTITY show.label               "Laga:">
+<!ENTITY iconsAndText.label       "Akakoni ne Kiwandiiko">
+<!ENTITY icons.label              "Kakoni">
+<!ENTITY text.label               "Ekiwandiiko">
+<!ENTITY useSmallIcons.label      "Kozesa Obukoni Obutini">
+<!ENTITY restoreDefaultSet.label  "Nddamu Otegeke Ekyekalalira">
+<!ENTITY addNewToolbar.label      "Ggatta Akabawo ke ebikozesa Akapya">
+<!ENTITY saveChanges.label        "Kikoleddwa">
+<!ENTITY undoChanges.label        "Ndde mabega Kubikyusirwa">

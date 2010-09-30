@@ -1,12 +1,12 @@
 
-<!ENTITY history.title "Ebyayita Ebijja">
-<!ENTITY history.intro "Ebijja bino ebidilila bitekedwamu:">
-<!ENTITY closebutton.label "Ggalawo">
+<!ENTITY  history.title             "Ebyayita Ebijja">
+<!ENTITY  history.intro             "Ebijja bino ebidilila bitekedwamu:">
+<!ENTITY  closebutton.label         "Ggalawo">
                                      
-<!ENTITY noupdates.label "Ttewanabawo ebijja ebitekedwamu kati">
+<!ENTITY  noupdates.label           "Ttewanabawo ebijja ebitekedwamu kati">
 
-<!ENTITY name.header "Wayo Erinya elipya">
-<!ENTITY date.header "Tekamu Enakku zo mwezi">
-<!ENTITY type.header "Engeri">
-<!ENTITY state.header "Ebela">
+<!ENTITY  name.header               "Wayo Erinya elipya">
+<!ENTITY  date.header               "Tekamu Enakku zo mwezi">
+<!ENTITY  type.header               "Engeri">
+<!ENTITY  state.header              "Ebela">
 

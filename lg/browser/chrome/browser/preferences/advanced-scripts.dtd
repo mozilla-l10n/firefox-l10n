@@ -35,18 +35,14 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "Etegeka za JavaScript ezzewangulu">
-<!ENTITY window.width "37em">
+<!ENTITY advancedJSDialog.title         "Entegeka za JavaScript kisukkulumu">
+<!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label "Tekako sikripta ekozesebwe:">
+<!ENTITY allowScripts.label             "Kkiriza scripts ku:">
 
-<!ENTITY moveResizeWindows.label "Sseetula oba funza amadirisa agaliwo">
-<!ENTITY moveResizeWindows.accesskey "S">
-<!ENTITY raiseLowerWindows.label "Leeta kungulu oba ssa ewasi amadirisa">
-<!ENTITY raiseLowerWindows.accesskey "L">
-<!ENTITY disableContextMenus.label "Jjamu oba leetamu kusizira ku menu">
-<!ENTITY disableContextMenus.accesskey "J">
-<!ENTITY hideStatusBar.label "Kweka buloka y'ebiriwo">
-<!ENTITY hideStatusBar.accesskey "K">
-<!ENTITY changeStatusBar.label "Kyuusa ebugambo ku buloka y'ebiriwo">
-<!ENTITY changeStatusBar.accesskey "K">
+<!ENTITY moveResizeWindows.label        "Sseetula oba funza amaddirisa agaliwo">
+<!ENTITY moveResizeWindows.accesskey    "S">
+<!ENTITY raiseLowerWindows.label        "Leeta kungulu oba ssa ewasi amaddirisa">
+<!ENTITY raiseLowerWindows.accesskey    "L">
+<!ENTITY disableContextMenus.label      "Jjamu oba leetamu kusizira ku biriwo">
+<!ENTITY disableContextMenus.accesskey  "J">

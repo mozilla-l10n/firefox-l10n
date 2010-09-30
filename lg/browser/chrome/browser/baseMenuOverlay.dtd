@@ -1,41 +1,45 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Funza">
-<!ENTITY bringAllToFront.label "Leeta byonna mumaso">
-<!ENTITY zoomWindow.label "Gezzamu">
-<!ENTITY windowMenu.label "Eddirisa">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Funza">
+<!ENTITY bringAllToFront.label    "Leeta Bbyonna Mumaso">
+<!ENTITY zoomWindow.label         "Gezzamu">
+<!ENTITY windowMenu.label         "Eddirisa">
 
-<!ENTITY helpMenu.label "Obuyambi">
-<!ENTITY helpMenu.accesskey "O">
+<!ENTITY helpMenu.label           "Obuyambi">
+<!ENTITY helpMenu.accesskey       "O">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Obuyambi">
-<!ENTITY helpMenuWin.accesskey "O">
-<!ENTITY aboutCmd.label "Ebikwata ku &brandFullName;">
-<!ENTITY aboutCmd.accesskey "E">
-<!ENTITY productHelp.label "&brandShortName; Help">
-<!ENTITY productHelp.accesskey "H">
-<!ENTITY helpForIEUsers.label "Lwa Abakozzesa Ekkubo eriggula Omukutu gwensiyonna">
+<!ENTITY helpMenuWin.label        "Obuyambi">
+<!ENTITY helpMenuWin.accesskey    "O">
+<!ENTITY aboutProduct.label       "About &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "&brandShortName; Help">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY helpForIEUsers.label     "Lwa Abakozzesa Ekkubo eriggula Omukutu gwensiyonna">
 <!ENTITY helpForIEUsers.accesskey "A">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY helpMac.commandkey "?">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label "Ta Ebiwandiiko">
-<!ENTITY helpReleaseNotes.accesskey "E">
+<!ENTITY helpReleaseNotes.label         "Ta Ebiwandiiko">
+<!ENTITY helpReleaseNotes.accesskey     "E">
 
-<!ENTITY helpTroubleshooting.label "Troubleshooting Information…">
-<!ENTITY helpTroubleshooting.accesskey "T">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY updateCmd.label "Kebera ku nkyukakyuka…">
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY preferencesCmdMac.label "Ebyokwelobozaamu…">
-<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY updateCmd.label                "Kebera ku Nkyukakyuka…">
 
-<!ENTITY servicesMenuMac.label "Enkola">
+<!ENTITY preferencesCmdMac.label        "Ebyokwelobozaamu…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY hideThisAppCmdMac.label "Kweeka &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY servicesMenuMac.label          "Enkola">
 
-<!ENTITY hideOtherAppsCmdMac.label "Kweeka Ebilala">
+<!ENTITY hideThisAppCmdMac.label        "Kweeka &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Kweeka Ebilala">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label "Lagga Byona">
+<!ENTITY showAllAppsCmdMac.label        "Laga Byonna">

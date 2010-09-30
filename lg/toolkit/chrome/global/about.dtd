@@ -1,19 +1,27 @@
-<!ENTITY about.version "ekyika">
+<!ENTITY about.version                "ekyika">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
-<!ENTITY about.copy.beforeLink "Koppa wandikee&copy; kuva 1998-2009">
-<!ENTITY about.copy.linkTitle "abebazibwa">
-<!ENTITY about.copy.afterLink "ku Murimu gwa Mozilla.">
+<!ENTITY about.credits.beforeLink     "See a list of ">
+<!ENTITY about.credits.linkTitle      "abebazibwa">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " to the Mozilla Project.">
+<!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
-<!ENTITY about.license.beforeLink "Soma">
-<!ENTITY about.license.linkTitle "amawulire anga kirizirwa">
-<!ENTITY about.license.afterLink "kurwa pulodakiti eno.">
+<!ENTITY about.license.beforeTheLink  "Read the ">
+<!ENTITY about.license.linkTitle      "amawulire anga kirizirwa">
+<!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.license.afterTheLink   " for this product.">
+<!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
-<!ENTITY about.relnotes.beforeLink "Soma">
-<!ENTITY about.relnotes.linkTitle "ebiwandiiko bite">
-<!ENTITY about.relnotes.afterLink "kurwa ekyika kino.">
+<!ENTITY about.relnotes.beforeTheLink "Read the ">
+<!ENTITY about.relnotes.linkTitle     "ebiwandiiko bite">
+<!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.relnotes.afterTheLink  " for this version.">
+<!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
-<!ENTITY about.buildconfig.beforeLink "Laba">
-<!ENTITY about.buildconfig.linkTitle "jjenga etekateka">
-<!ENTITY about.buildconfig.afterLink "kozesa kurwa ekyika kino.">
+<!ENTITY about.buildconfig.beforeTheLink "See the ">
+<!ENTITY about.buildconfig.linkTitle     "jjenga etekateka">
+<!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink  " used for this version.">
 
-<!ENTITY about.buildIdentifier "Jjenga nnakkalazi: ">
+<!ENTITY about.buildIdentifier        "Jjenga nnakkalazi: ">

@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label "Weterereze ennyukuta enkusike">
-<!ENTITY current.label "Ebibinja by'Ennyukuta enkusike ebikozesebwa:">
-<!ENTITY remove.label "Jjamu">
-<!ENTITY remove.accessKey "J">
-<!ENTITY additional.label "Ebibinja by'Ennyukuta enkusike ebiriwo:">
-<!ENTITY add.label "Ggatta">
-<!ENTITY add.accessKey "G">
-<!ENTITY moveUp.label "Dda Waggulu">
-<!ENTITY moveUp.accessKey "W">
-<!ENTITY moveDown.label "Dda Wansi">
+<!ENTITY title.label        "Weterereze Ennyukuta Enkusike">
+<!ENTITY current.label      "Ennyukuta Enkusike Ezikozeserwa:">
+<!ENTITY remove.label       "Jjamu">
+<!ENTITY remove.accessKey   "J">
+<!ENTITY additional.label   "Ennyukuta Enkusike Ezziriwo:">
+<!ENTITY add.label          "Ggatta">
+<!ENTITY add.accessKey      "G">
+<!ENTITY moveUp.label       "Dda Waggulu">
+<!ENTITY moveUp.accessKey   "W">
+<!ENTITY moveDown.label     "Dda Wansi">
 <!ENTITY moveDown.accessKey "W">

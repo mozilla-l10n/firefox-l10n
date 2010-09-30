@@ -1,208 +1,121 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title "Etterekero">
-<!ENTITY places.library.width "700">
+<!ENTITY places.library.title  "Etterekero le biwandiiko">
+<!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label "Tegeka">
-<!ENTITY organize.accesskey "T">
+<!ENTITY organize.label        "Tegeka">
+<!ENTITY organize.accesskey    "T">
+<!ENTITY organize.tooltip      "Organize your bookmarks">
 
-<!ENTITY file.accesskey "F">
-<!ENTITY file.close.label "Galawo">
-<!ENTITY file.close.accesskey "G">
-<!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Longosa">
-<!ENTITY edit.accesskey "L">
-<!ENTITY views.label "Laba bino">
-<!ENTITY views.accesskey "L">
-<!ENTITY view.toolbar.label "Akabawo kebikozesebwa">
-<!ENTITY view.toolbar.accesskey "k">
-<!ENTITY view.columns.label "Laga ebikuubo ebikirira">
-<!ENTITY view.columns.accesskey "e">
-<!ENTITY view.sort.label "Londamu">
-<!ENTITY view.sort.accesskey "L">
-<!ENTITY view.unsorted.label "Ebitalondedwamu">
-<!ENTITY view.unsorted.accesskey "E">
-<!ENTITY view.sortAscending.label "A > Z Engoberera yokulondamu">
-<!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Z > A Engoberera yokulondamu">
-<!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "Ng'okozesa Obulambe bwe kitabo">
-<!ENTITY help.usingBookmarks.accesskey "O">
-<!ENTITY help.usingHistory.label "Okukozesa ebyaffayo">
-<!ENTITY help.usingHistory.accesskey "k">
-<!ENTITY help.advancedTips.label "Obubagulizossukka &amp; nobu'kodyo obwekyika ekyawagula">
-<!ENTITY help.advancedTips.accesskey "O">
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "Ggalawo">
+<!ENTITY file.close.accesskey           "G">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Longoosa">
+<!ENTITY edit.accesskey                 "L">
+<!ENTITY views.label                    "Ebilabidwa">
+<!ENTITY views.accesskey                "E">
+<!ENTITY views.tooltip                  "Change your view">
+<!ENTITY view.columns.label             "Laga ebikuubo ebikkirira">
+<!ENTITY view.columns.accesskey         "e">
+<!ENTITY view.sort.label                "Londamu">
+<!ENTITY view.sort.accesskey            "L">
+<!ENTITY view.unsorted.label            "Ebitalondedwamu">
+<!ENTITY view.unsorted.accesskey        "E">
+<!ENTITY view.sortAscending.label       "A > Z Engoberera y`Okulondamu">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A Engoberera y`Okulondamu">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label "Nonya mu Bulambe…">
-<!ENTITY cmd.findInBookmarks.accesskey "N">
-<!ENTITY cmd.findCurrent.label "Bisanga mu Byakakuŋanyizibwa…">
-<!ENTITY cmd.findCurrent.accesskey "i">
+<!ENTITY cmd.findInBookmarks.label      "Noonya mu Bulambe…">
+<!ENTITY cmd.findInBookmarks.accesskey  "N">
+<!ENTITY cmd.findCurrent.label          "Zuula mu Byakakuŋanyizibwa…">
+<!ENTITY cmd.findCurrent.accesskey      "u">
 
-<!ENTITY cmd.exportHTML.label "Fulumya HTML…">
-<!ENTITY cmd.exportHTML.accesskey "F">
-<!ENTITY cmd.importHTML.label "Leeta okuva awalala HTML…">
-<!ENTITY cmd.importHTML.accesskey "L">
+<!ENTITY cmd.exportHTML.label           "Fulumya HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "F">
+<!ENTITY cmd.importHTML.label           "Leeta okuva awalala HTML…">
+<!ENTITY cmd.importHTML.accesskey       "L">
 
-<!ENTITY cmd.backup.label "Tereka awekusifu…">
-<!ENTITY cmd.backup.accesskey "T">
-<!ENTITY cmd.restore2.label "Zz'obujja">
-<!ENTITY cmd.restore2.accesskey "Z">
-<!ENTITY cmd.restoreFromFile.label "Londako fayiro…">
-<!ENTITY cmd.restoreFromFile.accesskey "L">
+<!ENTITY cmd.backup.label               "Tereka awekusifu…">
+<!ENTITY cmd.backup.accesskey           "T">
+<!ENTITY cmd.restore2.label             "Zz'obujja">
+<!ENTITY cmd.restore2.accesskey         "Z">
+<!ENTITY cmd.restoreFromFile.label      "Londako Fayiro…">
+<!ENTITY cmd.restoreFromFile.accesskey  "L">
 
-<!ENTITY cmd.select_all.label "Londa byonna">
-<!ENTITY cmd.select_all.accesskey "b">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label "Sala">
-<!ENTITY cmd.edit_cut.accesskey "l">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "Koppa">
-<!ENTITY cmd.edit_copy.accesskey "K">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Koppolola">
-<!ENTITY cmd.edit_paste.accesskey "K">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Sangula">
-<!ENTITY cmd.edit_delete.accesskey "S">
-<!ENTITY cmd.edit_undo.label "Ddayo emabega">
-<!ENTITY cmd.edit_undo.accesskey "D">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Ddamu">
-<!ENTITY cmd.edit_redo.accesskey "D">
-<!ENTITY cmd.edit_redo.key "y">
-
-<!ENTITY cmd.bookmarkLink.label "Lamba Omukko Gunno…">
-<!ENTITY cmd.bookmarkLink.accesskey "L">
-<!ENTITY cmd.delete.label "Sangulawo Olutimbe lunno">
-<!ENTITY cmd.delete.accesskey "S">
-<!ENTITY cmd.deleteDomainData.label "Werabire Ebikwata Ku Muko Gunno">
+<!ENTITY cmd.bookmarkLink.label         "Lamba Omuko Gunno…">
+<!ENTITY cmd.bookmarkLink.accesskey     "L">
+<!ENTITY cmd.delete.label               "Sangula Omuko Gunno">
+<!ENTITY cmd.delete.accesskey           "S">
+<!ENTITY cmd.deleteDomainData.label     "Werabire Ebikwata ku Muko Gunno">
 <!ENTITY cmd.deleteDomainData.accesskey "W">
 
-<!ENTITY cmd.open.label "Ggulawo">
-<!ENTITY cmd.open.accesskey "G">
-<!ENTITY cmd.open_window.label "Gulirawo mu ddirisa Epya">
-<!ENTITY cmd.open_window.accesskey "E">
-<!ENTITY cmd.open_tab.label "Ggulirawo a waddirira awApya">
-<!ENTITY cmd.open_tab.accesskey "A">
-<!ENTITY cmd.open_all_in_tabs.label "Ggulirawo byona mu buddirira">
-<!ENTITY cmd.open_all_in_tabs.accesskey "G">
+<!ENTITY cmd.open.label                  "Ggulawo">
+<!ENTITY cmd.open.accesskey              "G">
+<!ENTITY cmd.open_window.label           "Gulirawo mu Ddirisa Epya">
+<!ENTITY cmd.open_window.accesskey       "E">
+<!ENTITY cmd.open_tab.label              "Ggulirawo mu Waddirira Awapya">
+<!ENTITY cmd.open_tab.accesskey          "a">
+<!ENTITY cmd.open_all_in_tabs.label      "Ggulirawo Byonna mu Awaddirira">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "G">
 
-<!ENTITY cmd.properties.label "Ebikikwatako">
-<!ENTITY cmd.properties.accesskey "a">
+<!ENTITY cmd.properties.label      "Ebikikwatako">
+<!ENTITY cmd.properties.accesskey  "a">
 
-<!ENTITY cmd.show_info.key "i">
+<!ENTITY cmd.sortby_name.label              "Tegeka ng'Osinziira ku Linnya">
+<!ENTITY cmd.sortby_name.accesskey          "T">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.rename.label "Kiwe erinnya eddala">
-<!ENTITY cmd.rename.accesskey "K">
+<!ENTITY cmd.new_bookmark.label            "Akapya Akalambe…">
+<!ENTITY cmd.new_bookmark.accesskey        "A">
+<!ENTITY cmd.new_folder.label              "Etterekero Epya…">
+<!ENTITY cmd.new_folder.accesskey          "t">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "Akaawula Akapya">
+<!ENTITY cmd.new_separator.accesskey       "A">
 
-<!ENTITY cmd.sortby_name.label "Tegeka ng'osinziira ku Linnya">
-<!ENTITY cmd.sortby_name.accesskey "T">
-<!ENTITY cmd.context_sortby_name.accesskey "r">
+<!ENTITY cmd.reloadLivebookmark.label      "Ddamu Otikke akalambe Kolaba">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "D">
+<!ENTITY cmd.reloadMicrosummary.label      "Ddamu otikke Omutwe Oguliwo">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "D">
 
-<!ENTITY cmd.new_bookmark.label "Akapya akalambe…">
-<!ENTITY cmd.new_bookmark.accesskey "a">
-<!ENTITY cmd.new_livemark.label "Akalambe akabuliwo akapya…">
-<!ENTITY cmd.new_livemark.accesskey "a">
-<!ENTITY cmd.new_folder.label "Etterekero epya…">
-<!ENTITY cmd.new_folder.accesskey "t">
-<!ENTITY cmd.context_new_folder.accesskey "F">
-<!ENTITY cmd.new_separator.label "Akaawula Akapya">
-<!ENTITY cmd.new_separator.accesskey "A">
+<!ENTITY cmd.moveBookmarks.label                  "Tambula…">
+<!ENTITY cmd.moveBookmarks.accesskey              "T">
 
-<!ENTITY cmd.reloadLivebookmark.label "Ddamu otikke akalambe kolaba">
-<!ENTITY cmd.reloadLivebookmark.accesskey "D">
-<!ENTITY cmd.reloadMicrosummary.label "Ddamu otikke Omutwe Oguliwo">
-<!ENTITY cmd.reloadMicrosummary.accesskey "D">
+<!ENTITY col.name.label          "Erinnya">
+<!ENTITY col.tags.label          "Taaga">
+<!ENTITY col.url.label           "Location">
+<!ENTITY col.lastvisit.label     "Ennaku z'omwezi Kw'Okeberedde">
+<!ENTITY col.visitcount.label    "Okukyala bw'Enkebera">
+<!ENTITY col.keyword.label       "Ekigambo ekikulu">
+<!ENTITY col.description.label   "Ennyinyonnyola">
+<!ENTITY col.dateadded.label     "Kigattiddwako">
+<!ENTITY col.lastmodified.label  "Kyasemba Kutereezebwa">
 
-<!ENTITY cmd.groupby_site.label "Sengeka okusinziira ku Kibinja kyolaba ku lutimbe">
-<!ENTITY cmd.groupby_site.accesskey "K">
-<!ENTITY cmd.groupby_page.label "Sengeka okusinziira ku Muko oguteredwawo awo">
-<!ENTITY cmd.groupby_page.accesskey "M">
-<!ENTITY cmd.groupby_feed.label "Binjiwaza okusinziira ku muyungiro">
-<!ENTITY cmd.groupby_feed.accesskey "k">
-<!ENTITY cmd.groupby_post.label "Binjiwaza okusinziira ku Mpeereza">
-<!ENTITY cmd.groupby_post.accesskey "M">
+<!ENTITY search.label                              "Noonya:">
+<!ENTITY search.accesskey                          "N">
+<!ENTITY search.scopeFolder.label                  "Etterekero Elilondedwa">
+<!ENTITY search.scopeFolder.accesskey              "E">
+<!ENTITY search.scopeBookmarks.label               "Obulambe">
+<!ENTITY search.scopeBookmarks.accesskey           "l">
+<!ENTITY search.scopeDownloads.label               "Ebiwannulwa">
+<!ENTITY search.scopeDownloads.accesskey           "E">
+<!ENTITY search.scopeHistory.label                 "Ebyafayo">
+<!ENTITY search.scopeHistory.accesskey             "E">
+<!ENTITY saveSearch.label                          "Terekako">
+<!ENTITY saveSearch.accesskey                      "T">
 
-<!ENTITY cmd.moveBookmarks.label "Tambula…">
-<!ENTITY cmd.moveBookmarks.accesskey "T">
+<!ENTITY cmd.find.key  "f">
 
-<!ENTITY col.name.label "Erinnya">
-<!ENTITY col.tags.label "Obubonero">
-<!ENTITY col.url.label "Ekifo">
-<!ENTITY col.lastvisit.label "Ennaku z'omwezi Kw'Okeberedde">
-<!ENTITY col.visitcount.label "Okukyala bw'Enkebera">
-<!ENTITY col.keyword.label "Ekigamboekikulu">
-<!ENTITY col.description.label "Ennyinyonnyola">
-<!ENTITY col.dateadded.label "Kigattiddwako">
-<!ENTITY col.lastmodified.label "Kyasemba Kutereezebwa">
+<!ENTITY maintenance.label      "Yingiza era Oterekeko">
+<!ENTITY maintenance.accesskey  "Y">
+<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
 
-<!ENTITY search.label "Noonya:">
-<!ENTITY search.accesskey "N">
-<!ENTITY search.scopeFolder.label "Etterekero Elilondedwa">
-<!ENTITY search.scopeFolder.accesskey "E">
-<!ENTITY search.scopeBookmarks.label "Obulambe">
-<!ENTITY search.scopeBookmarks.accesskey "l">
-<!ENTITY search.scopeDownloads.label "Wannula">
-<!ENTITY search.scopeDownloads.accesskey "W">
-<!ENTITY search.scopeHistory.label "Ebyaffayo">
-<!ENTITY search.scopeHistory.accesskey "E">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Laga akazimba akanonnya">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Kweeka akayamba okunoonya">
-<!ENTITY saveSearch.label "Terekako">
-<!ENTITY saveSearch.accesskey "T">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Noonya bulambe bwokka">
-<!ENTITY advancedSearch.match.label "Kwataganya ">
-<!ENTITY advancedSearch.all.label "byonna">
-<!ENTITY advancedSearch.any.label "kyonna">
-<!ENTITY advancedSearch.rules.label " ku mateeka gano:">
-<!ENTITY advancedSearch.subj_keyword.label "Omuli ebigambo">
-<!ENTITY advancedSearch.subj_visited.label "Okukyalirwa">
-<!ENTITY advancedSearch.subj_location.label "Ekifo">
-<!ENTITY advancedSearch.location_startswith.label "etandika ne">
-<!ENTITY advancedSearch.location_is.label "a-, e-">
-<!ENTITY advancedSearch.location_onsite.label "eri ku kibanja">
-<!ENTITY advancedSearch.time_is.label "ku">
-<!ENTITY advancedSearch.time_before.label "nga tonnaba">
-<!ENTITY advancedSearch.time_after.label "oluvannyuma">
-<!ENTITY advancedSearch.time_inlast.label "mu bisembyeyo">
-<!ENTITY advancedSearch.last_days.label "ennaku">
-<!ENTITY advancedSearch.last_weeks.label "ssabbiiti">
-<!ENTITY advancedSearch.last_months.label "emyezi">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Binjawaza okusinziira ku: ">
-<!ENTITY advancedSearch.groupby_host.label "nyinimu">
-<!ENTITY advancedSearch.groupby_domain.label "kitundu">
-<!ENTITY advancedSearch.groupby_folder.label "etterekero lya fayiro">
-<!ENTITY advancedSearch.sortby.label "Sengejja okusinziira ku: ">
-<!ENTITY advancedSearch.sortby_title.label "omutwe">
-<!ENTITY advancedSearch.sortby_date.label "ennaku z'omwezi">
-<!ENTITY advancedSearch.sortby_visit.label "omuwendo gw'enkyala">
-<!ENTITY advancedSearch.sortby_url.label "eggulawo emikutu gyoba oyagala">
-<!ENTITY advancedSearch.sortby_asc.label "ng'odda waggulu">
-<!ENTITY advancedSearch.sortby_desc.label "ng'odda wansi">
-<!ENTITY advancedSearch.max.label "Ebivuddemu ebyenkomeredde: ">
+<!ENTITY backCmd.label       "Emabega">
+<!ENTITY backButton.tooltip  "Ddayo">
 
-<!ENTITY cmd.find.key "f">
-
-<!ENTITY feed.subscribe.label "Okuliisa">
-<!ENTITY feed.subscribe.tooltip "Weyungeko">
-
-<!ENTITY view.detailsMacOSX.label "Olukalala">
-<!ENTITY view.details.label "Mu bulambulukufu">
-<!ENTITY view.details.accesskey "M">
-
-<!ENTITY view.addons.label "Funa ebirabisibwa nga byongeddwako">
-
-<!ENTITY maintenance.label "Yingiza era Oterekeko">
-<!ENTITY maintenance.accesskey "Y">
-
-<!ENTITY backCmd.label "Emabega">
-<!ENTITY backButton.tooltip "Ddayo">
-
-<!ENTITY forwardCmd.label "Mumasso">
-<!ENTITY forwardButton.tooltip "Weyongereyo mu maaso">
+<!ENTITY forwardCmd.label       "Mumasso">
+<!ENTITY forwardButton.tooltip  "Weyongereyo mu maaso">
 
 <!ENTITY detailsPane.more.label "Ebisingawo">
 <!ENTITY detailsPane.more.accesskey "E">

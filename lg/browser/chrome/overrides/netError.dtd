@@ -45,9 +45,16 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Toli ku lutimbe">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Tekirondedwa &quot;Kola emirimu nga toli kulutimbe&quot; Ku bintu ebiri munteresi nate oddemu ogezeeko.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Content Encoding Error">
 <!ENTITY contentEncodingError.longDesc "
@@ -136,16 +143,21 @@ eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osob
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
 <!ENTITY securityOverride.linkText "Oba oyinza okugattako ekyensuso…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Nzijja wano!">
 <!ENTITY securityOverride.exceptionButtonLabel "Gatako ebyensuso…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningText "<p>Tolina kugattako ekyawufu singa oba okozessa obuyunzi bw'akatimba kotekakasizza ddala oba nga tomanyidde kulaba kulabula kwa kalimagezi eno enfuzi.</p> 
- 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<!ENTITY securityOverride.warningContent "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">

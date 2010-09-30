@@ -1,25 +1,25 @@
-<!ENTITY editBookmarkOverlay.name.label "Erinya:">
-<!ENTITY editBookmarkOverlay.name.accesskey "E">
-<!ENTITY editBookmarkOverlay.location.label "Ekifo:">
-<!ENTITY editBookmarkOverlay.location.accesskey "E">
-<!ENTITY editBookmarkOverlay.feedLocation.label "Teka mu Kifo:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey "T">
-<!ENTITY editBookmarkOverlay.siteLocation.label "Ekibanja we kisangibwa:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey "E">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Emitwe egiriwo kaakano">
-<!ENTITY editBookmarkOverlay.folder.label "Eterekelo lya fayilo:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Laga obulambe bwona obwamabasa">
-<!ENTITY editBookmarkOverlay.expanderUp.tooltip "Kweeka">
-<!ENTITY editBookmarkOverlay.tags.label "Taaga:">
-<!ENTITY editBookmarkOverlay.tags.accesskey "T">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "Yawula taaga n'obuwunzika">
-<!ENTITY editBookmarkOverlay.description.label "Okunyonyola:">
-<!ENTITY editBookmarkOverlay.description.accesskey "O">
-<!ENTITY editBookmarkOverlay.keyword.label "Ekigambo ekikulu:">
-<!ENTITY editBookmarkOverlay.keyword.accesskey "E">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip "Laga taaga zona">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label "Saako tn'akalambe kekitabo kye mu mabali">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "n">
-<!ENTITY editBookmarkOverlay.choose.label "Londako…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label "Etterekero Epya">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "t">
+<!ENTITY editBookmarkOverlay.name.label                      "Erinnya:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "E">
+<!ENTITY editBookmarkOverlay.location.label                  "Ekifo:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "E">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Teka mu Kifo:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "T">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Ekifo kye Ekibanja:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "E">
+<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Emitwe Egiriwo kaakano">
+<!ENTITY editBookmarkOverlay.folder.label                    "Eterekelo lya fayiro:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Laga obulambe bwona obwamabasa">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Kweeka">
+<!ENTITY editBookmarkOverlay.tags.label                      "Taaga:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Yawula taaga n'obuwunzika">
+<!ENTITY editBookmarkOverlay.description.label               "Okunyonyola:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "O">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Ekigambo ekikulu:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "E">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Laga taaga zonna">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Tikka akalambe kano mu mabali">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "a">
+<!ENTITY editBookmarkOverlay.choose.label                    "Londako…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Etterekero lya fayiro Epya">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "t">
