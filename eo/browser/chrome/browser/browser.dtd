@@ -24,9 +24,9 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Kejli kiel programa folio">
+<!ENTITY  pinAppTab.label                    "Alpingli kiel programa folio">
 <!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Malkejli folion">
+<!ENTITY  unpinAppTab.label                  "Depingli folion">
 <!ENTITY  unpinAppTab.accesskey              "b">
 <!ENTITY  moveToGroup.label                  "Movi al grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
@@ -270,7 +270,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Antaŭ ne longe fermitaj folioj">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Antaŭ ne longe fermitaj folioj">
-<!ENTITY historyRestoreLastSession.label "Restaŭri antaŭan seancon">
+<!ENTITY historyRestoreLastSession.label "Daŭrigi antaŭan seancon">
 
 <!ENTITY historyHomeCmd.label "Eka paĝo">
 <!ENTITY showAllHistoryCmd2.label "Montri tutan historion">
@@ -545,10 +545,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Folioj el aliaj komputiloj">
 
-<!ENTITY syncBrand.shortName.label    "Aktŭaligi">
+<!ENTITY syncBrand.shortName.label    "Aktualigi">
 
 <!ENTITY syncSetup.label              "Set Up &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncSyncNowItem.label        "Aktŭaligi nun">
+<!ENTITY syncSyncNowItem.label        "Aktualigi nun">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncToolbarButton.label      "Aktŭaligi">
+<!ENTITY syncToolbarButton.label      "Aktualigi">
