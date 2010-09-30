@@ -51,9 +51,14 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mënyrë i Palidhur">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Çshënoni &quot;Punoni i Palidhur&quot; te menu kartelash, mandej riprovoni.</li>
+  <li>Hiqini shenjën zërit &quot;Punoni i Palidhur&quot; të menusë, mandej riprovoni.</li>
 </ul>
 ">
 
