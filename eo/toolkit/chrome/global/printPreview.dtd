@@ -63,10 +63,10 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Persone agordite…">
-<!ENTITY ShrinkToFit.label    "Shrink To Fit">
-<!ENTITY customPrompt.title   "Custom Scale…">
+<!ENTITY ShrinkToFit.label    "Etigi por adapti">
+<!ENTITY customPrompt.title   "Persone agordita skalado …">
 
 <!ENTITY homearrow.tooltip    "Unua paĝo">
 <!ENTITY endarrow.tooltip     "Lasta paĝo">
-<!ENTITY nextarrow.tooltip    "Next page">
-<!ENTITY previousarrow.tooltip "Previous page">
+<!ENTITY nextarrow.tooltip    "Venonta page">
+<!ENTITY previousarrow.tooltip "Antaŭa page">

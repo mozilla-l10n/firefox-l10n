@@ -9,5 +9,5 @@
 <!ENTITY blocklist.accept.label      "Restartigi &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "R">
 
-<!ENTITY blocklist.blocked.label     "Blocked">
+<!ENTITY blocklist.blocked.label     "Blokita">
 <!ENTITY blocklist.checkbox.label    "Malaktivigi">
