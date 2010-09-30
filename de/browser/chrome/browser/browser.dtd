@@ -283,6 +283,9 @@ can reach it easily. -->
 
 <!ENTITY developerMenu.label "Entwickler">
 
+<!ENTITY appMenuSafeMode.label "Mit deaktivierten Add-ons neu starten…">
+<!ENTITY appMenuSafeMode.accesskey "d">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Website öffnen">
 <!ENTITY urlbar.accesskey             "s">
