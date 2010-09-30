@@ -11,19 +11,19 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Communicator.
+   - The Original Code is SeaMonkey search panel.
    -
    - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Mozilla Foundation.
+   - Portions created by the Initial Developer are Copyright (C) 2010
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Robert John Churchill <rjc@netscape.com>
+   -   Robert Kaiser <kairo@kairo.at>
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -36,15 +36,5 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label      "Pesquisar">
-<!ENTITY allengines.label         "Todos os motores">
-<!ENTITY within.label             "entre">
-<!ENTITY using.label              "usando">
-<!ENTITY choose.label             "Escolha motores de pesquisa e depois clique em Pesquisar">
-<!ENTITY results.label            "Resultados da pesquisa">
-<!ENTITY engine.column.label      "Motores de pesquisa">
-<!ENTITY customize.menuitem.label   "Editar categorias …">
-<!ENTITY next.button.label        "Seguinte">
-<!ENTITY previous.button.label    "Anterior">
-<!ENTITY next.button.tooltip      "Mostrar os resultados seguintes">
-<!ENTITY previous.button.tooltip  "Mostrar os resultados anteriores">
+<!ENTITY search.placeholder       "Escreva o texto a pesquisar">
 
