@@ -1,25 +1,38 @@
-<!ENTITY pluginWizard.title "Gwasanaeth Canfod Ategyn">
-<!ENTITY pluginWizard.firstPage.title "Croeso i &pluginWizard.title;">
+<!ENTITY pluginWizard.title                                  "Gwasanaeth Canfod Ategion">
+<!ENTITY pluginWizard.firstPage.title                        "Croeso i &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "Mae &brandShortName; yn chwilio am ategynnau sydd ar gael...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "Mae &brandShortName; yn chwilio am ategion sydd ar gael...">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "Ategynnau ar Gael">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Mae'r ategynnau canlynol ar gael:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Cliciwch Nesaf i osod yr ategynnau">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Bydd rhai ategynnau angen gwybodaeth ychwanegol gennych wrth eu gosod.">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Ategion ar Gael">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Mae'r ategion canlynol ar gael:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Cliciwch Nesaf i osod yr Ategion">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Bydd rhai ategion angen gwybodaeth ychwanegol gennych wrth eu gosod.">
 
-<!ENTITY pluginWizard.licensePage.title "Trwyddedau Ategyn">
-<!ENTITY pluginWizard.licensePage.accept.label "Cytuno.">
-<!ENTITY pluginWizard.licensePage.deny.label "Anghytuno (ni fydd yr ategyn yn cael ei osod).">
+<!ENTITY pluginWizard.licensePage.title                      "Trwyddedau Ategyn">
+<!ENTITY pluginWizard.licensePage.accept.label               "Cytuno.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Anghytuno (ni fydd yr ategyn yn cael ei osod).">
 
-<!ENTITY pluginWizard.installPluginsPage.title "Gosod Ategynnau">
-<!ENTITY pluginWizard.installPluginsPage.description.label "Mae &brandShortName; yn gosod ategynnau…">
+<!ENTITY pluginWizard.installPluginsPage.title               "Gosod Ategion">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "Mae &brandShortName; yn gosod ategion…">
 
-<!ENTITY pluginWizard.finalPage.description.label "Mae &brandShortName; wedi cwblhau gosod yr ategynnau coll:">
+<!ENTITY pluginWizard.finalPage.description.label            "Mae &brandShortName; wedi cwblhau gosod yr ategion coll:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Rhagor am Ategynnau neu ganfod ategynnau gyda llaw.">
-<!ENTITY pluginWizard.finalPage.restart.label "Mae &brandShortName; angen ei ailgychwyn i'r ategyn(nau) weithio.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Rhagor am Ategion neu ganfod ategynnau gyda llaw.">
+<!ENTITY pluginWizard.finalPage.restart.label                "Mae &brandShortName; angen ei ailgychwyn i'r ategyn(ion) weithio.">
   
-<!ENTITY missingPlugin.label "Cliciwch yma i lwytho ategyn i lawr.">
-<!ENTITY disabledPlugin.label "Mae’r ategyn ar gyfer y cynnwys wedi ei anablu. Cliciwch yma i reoli eich ategynnau.">
-<!ENTITY blockedPlugin.label "Mae'r ategyn wedi ei rwystro er eich diogelwch.">
+<!ENTITY missingPlugin.label                                 "Cliciwch yma i lwytho ategyn i lawr.">
+<!ENTITY disabledPlugin.label                                "Mae’r ategyn ar gyfer y cynnwys wedi ei anablu. Cliciwch yma i reoli eich ategynnau.">
+<!ENTITY blockedPlugin.label                                 "Mae'r ategyn wedi ei rwystro er eich diogelwch.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Ail lwytho'r dudalen">
+<!ENTITY reloadPlugin.post                                   " i geisio eto.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Anfon adroddiad chwalu">
+<!ENTITY report.submitting                                   "Anfon adroddiad...">
+<!ENTITY report.submitted                                    "Adroddiad chwalu wedi mynd.">
+<!ENTITY report.disabled                                     "Adrodd ar chwalu wedi ei anablu.">
+<!ENTITY report.failed                                       "Cyflwyno wedi methu.">
+<!ENTITY report.unavailable                                  "Dim adroddiad ar gael.">

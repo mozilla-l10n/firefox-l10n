@@ -1,8 +1,9 @@
-<!ENTITY mozilla.title "Llyfr Mozilla, 11:9">
+<!ENTITY mozilla.title
+'Cywydd i'r Llwynog'>
 
-<!ENTITY mozilla.quote "<span style='font-size: 2em'>Ennill llam</span> dros hun Mamon - yn <em><a href='http://www.mozilla.org/about/mozilla-manifesto.html'>addo</a></em><br/>
-Pob rhyddid i'w wyrion<br/>
-<em>Llid</em> yn hydoddi mewn <span style='font-size: 1.5em'>Llon</span><br/>
-A'n <em>trem</em> ar lif y <em><a href='http://wiki.mozilla.org/About:mozilla'>straeon</a></em>">
+<!ENTITY mozilla.quote
+'<span style='font-size: 2em'>Llym ei ruthr <em>llammwr eithin</em>,<br/> 
+Llewpart â <em>dart</em> yn ei <em>dîn</em></span>'>
 
-<!ENTITY mozilla.from "o <strong>Lyfr Mozilla,</strong> 11:9<br/><small>(10fed Argraffiad)</small>">
+<!ENTITY mozilla.from
+'Cywydd i'r Llwynog<br/>(Dafydd ap Gwilym, 14eg ganrif)'>

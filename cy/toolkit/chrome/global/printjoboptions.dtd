@@ -9,7 +9,7 @@
 <!ENTITY plexInput.accesskey "p">
 
 <!ENTITY resolutionInput.label "Cydraniad/Ansawdd:">
-<!ENTITY resolutionInput.accesskey "c">
+<!ENTITY resolutionInput.accesskey "C">
 
 <!ENTITY cmdInput.label "Gorchymyn Argraffu:">
 <!ENTITY cmdInput.accesskey "g">

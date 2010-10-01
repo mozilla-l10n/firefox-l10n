@@ -1,8 +1,7 @@
-amazon-en-GB
+amazondotcom
+answers
 creativecommons
-eBay-en-GB
+eBay
 google
-palasprint
-termiadur
-wikipedia-cy
-yahoo-en-GB
+wikipedia
+yahoo

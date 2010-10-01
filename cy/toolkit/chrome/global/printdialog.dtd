@@ -18,12 +18,12 @@
 <!ENTITY printrangeGroup.label "Amrediad Argraffu">
 <!ENTITY allpagesRadio.label "Pob Tudalen">
 <!ENTITY allpagesRadio.accesskey "P">
-<!ENTITY rangeRadio.label "Tudalennau">
-<!ENTITY rangeRadio.accesskey "T">
-<!ENTITY frompageInput.label "oddi wrth">
-<!ENTITY frompageInput.accesskey "o">
-<!ENTITY topageInput.label "at">
-<!ENTITY topageInput.accesskey "a">
+<!ENTITY rangeRadio.label  "Tudalennau">
+<!ENTITY rangeRadio.accesskey  "T">
+<!ENTITY frompageInput.label  "oddi wrth">
+<!ENTITY frompageInput.accesskey  "o">
+<!ENTITY topageInput.label  "at">
+<!ENTITY topageInput.accesskey  "a">
 <!ENTITY selectionRadio.label "Dewis">
 <!ENTITY selectionRadio.accesskey "D">
 
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Argraffu Fframiau">
 <!ENTITY aslaidoutRadio.label "Yn ôl gosodiad ar y sgrîn">
 <!ENTITY aslaidoutRadio.accesskey "g">
-<!ENTITY selectedframeRadio.label "Y ffrâm dewis">
-<!ENTITY selectedframeRadio.accesskey "f">
-<!ENTITY eachframesepRadio.label "Pob ffrâm ar wahân">
-<!ENTITY eachframesepRadio.accesskey "P">
+<!ENTITY selectedframeRadio.label  "Y ffrâm dewis">
+<!ENTITY selectedframeRadio.accesskey  "f">
+<!ENTITY eachframesepRadio.label  "Pob ffrâm ar wahân">
+<!ENTITY eachframesepRadio.accesskey  "P">

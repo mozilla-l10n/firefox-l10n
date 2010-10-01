@@ -1,0 +1,37 @@
+<!ENTITY aboutSupport.pageTitle " Gwybodaeth am Ddatrys Problemau">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "   Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a  allai  fod yn ddefnyddiol pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynau\n
+cyffredin am a brandShortName;, edrychwch ar ein <a id='supportLink'>gwefan cefnogi.</a>.  ">
+
+<!ENTITY aboutSupport.extensionsTitle "Estyniadau">
+<!ENTITY aboutSupport.extensionName "Enw">
+<!ENTITY aboutSupport.extensionEnabled "Galluogwyd">
+<!ENTITY aboutSupport.extensionVersion "Fersiwn">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Sylfaeni Rhaglen">
+<!ENTITY aboutSupport.appBasicsName "Enw">
+<!ENTITY aboutSupport.appBasicsVersion "Fersiwn">
+<!ENTITY aboutSupport.appBasicsProfileDir "Cyfeiriadur Proffil">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Ategion Galluogwyd">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Ffurfweddiad Adeiladu">
+<!ENTITY aboutSupport.appBasicsUserAgent "Asiant Defnyddiwr">
+
+<!ENTITY aboutSupport.show.label "Agor Ffolder Cynnwys">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Dangos yn Finder">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Dewisiadau Newidiwyd">
+<!ENTITY aboutSupport.modifiedPrefsName "Enw">
+<!ENTITY aboutSupport.modifiedPrefsValue "Gwerth">
+
+<!ENTITY aboutSupport.graphicsTitle "Graffigau">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Hanes Gosod">
+<!ENTITY aboutSupport.updateHistoryTitle "Hanes Diweddaru">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Copïo popeth i'r clipfwrdd">

@@ -1,10 +1,10 @@
-<!ENTITY typeColumn.label "Math o Gynnwys ">
-<!ENTITY typeColumn.accesskey "M">
+<!ENTITY  typeColumn.label        "Math o Gynnwys ">
+<!ENTITY  typeColumn.accesskey    "M">
 
-<!ENTITY actionColumn2.label "Gweithred">
-<!ENTITY actionColumn2.accesskey "G">
+<!ENTITY  actionColumn2.label     "Gweithred">
+<!ENTITY  actionColumn2.accesskey "G">
 
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY filter.emptytext "Chwilio">
+<!ENTITY  filter.emptytext        "Chwilio">

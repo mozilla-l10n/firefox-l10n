@@ -37,88 +37,92 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY pageInfoWindow.width "600">
-<!ENTITY pageInfoWindow.height "500">
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
 
-<!ENTITY copy.key "C">
-<!ENTITY copy.label "Copïo">
-<!ENTITY copy.accesskey "C">
-<!ENTITY selectall.key "a">
-<!ENTITY selectall.label "Dewis y Cyfan">
-<!ENTITY selectall.accesskey "D">
-<!ENTITY closeWindow.key "w">
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Copïo">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "a">
+<!ENTITY  selectall.label       "Dewis y Cyfan">
+<!ENTITY  selectall.accesskey   "D">
+<!ENTITY  closeWindow.key       "w">
 
-<!ENTITY generalTab "Cyffredinol">
-<!ENTITY generalTab.accesskey "y">
-<!ENTITY generalURL "Cyfeiriad:">
-<!ENTITY generalType "Math:">
-<!ENTITY generalMode "Modd Llunio:">
-<!ENTITY generalSize "Maint:">
-<!ENTITY generalReferrer "URL cyfeirio:">
-<!ENTITY generalSource "Ystorfa Ffynhonnell:">
-<!ENTITY generalModified "Newidiwyd:">
-<!ENTITY generalEncoding "Amgodio:">
-<!ENTITY generalMetaName "Enw">
-<!ENTITY generalMetaContent "Cynnwys">
-<!ENTITY generalSecurityDetails "Manylion">
-<!ENTITY generalSecurityDetails.accesskey "M">
+<!ENTITY  generalTab            "Cyffredinol">
+<!ENTITY  generalTab.accesskey  "y">
+<!ENTITY  generalURL            "Cyfeiriad:">
+<!ENTITY  generalType           "Math:">
+<!ENTITY  generalMode           "Modd Llunio:">
+<!ENTITY  generalSize           "Maint:">
+<!ENTITY  generalReferrer       "URL cyfeirio:">
+<!ENTITY  generalSource         "Ystorfa Ffynhonnell:">
+<!ENTITY  generalModified       "Newidiwyd:">
+<!ENTITY  generalEncoding       "Amgodio:">
+<!ENTITY  generalMetaName       "Enw">
+<!ENTITY  generalMetaContent    "Cynnwys">
+<!ENTITY  generalSecurityDetails   "Manylion">
+<!ENTITY  generalSecurityDetails.accesskey "M">
 
-<!ENTITY mediaTab "Cyfrwng">
-<!ENTITY mediaTab.accesskey "y">
-<!ENTITY mediaLocation "Lleoliad:">
-<!ENTITY mediaText "Testun Cysylltiedig:">
-<!ENTITY mediaAltHeader "Testun Arall">
-<!ENTITY mediaAddress "Cyfeiriad">
-<!ENTITY mediaType "Math">
-<!ENTITY mediaSize "Maint">
-<!ENTITY mediaCount "Cyfrif">
-<!ENTITY mediaDimension "Maint:">
-<!ENTITY mediaLongdesc "Disgrifiad Hir:">
-<!ENTITY mediaBlockImage.accesskey "B">
-<!ENTITY mediaSaveAs "Cadw Fel...">
-<!ENTITY mediaSaveAs.accesskey "F">
-<!ENTITY mediaSaveAs2.accesskey "y">
-<!ENTITY mediaPreview "Rhagolwg Cyfrwng:">
+<!ENTITY  mediaTab              "Cyfrwng">
+<!ENTITY  mediaTab.accesskey    "y">
+<!ENTITY  mediaLocation         "Lleoliad:">
+<!ENTITY  mediaText             "Testun Cysylltiedig:">
+<!ENTITY  mediaAltHeader        "Testun Arall">
+<!ENTITY  mediaAddress          "Cyfeiriad">
+<!ENTITY  mediaType             "Math">
+<!ENTITY  mediaSize             "Maint">
+<!ENTITY  mediaCount            "Cyfrif">
+<!ENTITY  mediaDimension        "Maint:">
+<!ENTITY  mediaLongdesc         "Disgrifiad Hir:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Cadw Fel...">
+<!ENTITY  mediaSaveAs.accesskey "F">
+<!ENTITY  mediaSaveAs2.accesskey "y">
+<!ENTITY  mediaPreview          "Rhagolwg Cyfrwng:">
 
-<!ENTITY feedTab "Llif">
-<!ENTITY feedTab.accesskey "L">
-<!ENTITY feedSubscribe "Tanysgrifo">
-<!ENTITY feedSubscribe.accesskey "T">
+<!ENTITY  feedTab               "Llif">
+<!ENTITY  feedTab.accesskey     "L">
+<!ENTITY  feedSubscribe         "Tanysgrifo">
+<!ENTITY  feedSubscribe.accesskey "T">
 
-<!ENTITY permTab "Caniatâd">
-<!ENTITY permTab.accesskey "C">
-<!ENTITY permUseDefault "Defnyddio'r Rhagosodedig">
-<!ENTITY permAllow "Caniatáu">
-<!ENTITY permAllowSession "Caniatáu ar gyfer y Sesiwn">
-<!ENTITY permBlock "Rhwystro">
-<!ENTITY permissionsFor "Caniatâd ar gyfer:">
-<!ENTITY permImage "Llwytho Delweddau">
-<!ENTITY permPopup "Agor Llamlenni">
-<!ENTITY permCookie "Gosod Cwcis">
-<!ENTITY permInstall "Gosod Estyniadau neu Themâu">
-
-<!ENTITY securityTab "Diogelwch">
-<!ENTITY securityTab.accesskey "D">
-<!ENTITY securityHeader "Gwybodaeth diogelwch ar gyfer y dudalen hon">
-<!ENTITY securityView.certView "Darllen y Dystysgrif">
-<!ENTITY securityView.accesskey "D">
-<!ENTITY securityView.unknown "Anhysbys">
-
-
-<!ENTITY securityView.identity.header "Enw Gwefan">
-<!ENTITY securityView.identity.owner "Perchennog:">
-<!ENTITY securityView.identity.domain "Gwefan:">
-<!ENTITY securityView.identity.verifier "Dilyswyd gan:">
-
-<!ENTITY securityView.privacy.header "Preifatrwydd a Hanes">
-<!ENTITY securityView.privacy.history "A ydw i wedi ymweld â'r wefan hon cyn heddiw?">
-<!ENTITY securityView.privacy.cookies "A yw'r wefan yma'n cadw gwybodaeth (cwcis) ar fy nghyfrifiadur?">
-<!ENTITY securityView.privacy.viewCookies "Gweld y Cwcis">
-<!ENTITY securityView.privacy.viewCookies.accessKey "w">
-<!ENTITY securityView.privacy.passwords "Ydw i wedi cadw unrhyw gyfrineiriau ar gyfer y wefan yma?">
-<!ENTITY securityView.privacy.viewPasswords "Gweld ar y Cyfrineiriau wedi eu Cadw">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "w">
-
-<!ENTITY securityView.technical.header "Manylion Technegol">
+<!ENTITY  permTab               "Caniatâd">
+<!ENTITY  permTab.accesskey     "C">
+<!ENTITY  permUseDefault        "Defnyddio'r Rhagosodedig">
 <!ENTITY  permAskAlways         "Gofyn bob tro">
+<!ENTITY  permAllow             "Caniatáu">
+<!ENTITY  permAllowSession      "Caniatáu ar gyfer y Sesiwn">
+<!ENTITY  permBlock             "Rhwystro">
+<!ENTITY  permissionsFor        "Caniatâd ar gyfer:">
+<!ENTITY  permImage             "Llwytho Delweddau">
+<!ENTITY  permPopup             "Agor Llamlenni">
+<!ENTITY  permCookie            "Gosod Cwcis">
+<!ENTITY  permInstall           "Gosod Estyniadau neu Themâu">
 <!ENTITY  permGeo               "Rhannu Lleoliad">
+
+<!ENTITY  permIndexedDB              "Cynnal Storfa All-lein">
+<!ENTITY  permClearStorage           "Clirio'r Storfa">
+<!ENTITY  permClearStorage.accesskey "C">
+
+<!ENTITY  securityTab           "Diogelwch">
+<!ENTITY  securityTab.accesskey "D">
+<!ENTITY  securityHeader        "Gwybodaeth diogelwch ar gyfer y dudalen hon">
+<!ENTITY  securityView.certView "Darllen y Dystysgrif">
+<!ENTITY  securityView.accesskey "D">
+<!ENTITY  securityView.unknown   "Anhysbys">
+
+
+<!ENTITY  securityView.identity.header   "Enw Gwefan">
+<!ENTITY  securityView.identity.owner    "Perchennog:">
+<!ENTITY  securityView.identity.domain   "Gwefan:">
+<!ENTITY  securityView.identity.verifier "Gwirio gan:">
+
+<!ENTITY  securityView.privacy.header                   "Preifatrwydd a Hanes">
+<!ENTITY  securityView.privacy.history                  "A ydw i wedi ymweld â'r wefan hon cyn heddiw?">
+<!ENTITY  securityView.privacy.cookies                  "A yw'r wefan yma'n cadw gwybodaeth (cwcis) ar fy nghyfrifiadur?">
+<!ENTITY  securityView.privacy.viewCookies              "Gweld y Cwcis">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "w">
+<!ENTITY  securityView.privacy.passwords                "Ydw i wedi cadw unrhyw gyfrineiriau ar gyfer y wefan yma?">
+<!ENTITY  securityView.privacy.viewPasswords            "Gweld ar y Cyfrineiriau wedi eu Cadw">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Manylion Technegol">

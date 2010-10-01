@@ -1,6 +1,6 @@
 <!-- extracted from content/viewSource.xul -->
-<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -12,23 +12,23 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Cadw tudalen Fel...">
 <!ENTITY savePageCmd.accesskey "F">
-<!ENTITY savePageCmd.commandkey "C">
+<!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Gosodiad Tudalen...">
-<!ENTITY pageSetupCmd.accesskey "t">
+<!ENTITY pageSetupCmd.accesskey "T">
 <!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
 <!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Argraffu...">
 <!ENTITY printCmd.accesskey "A">
-<!ENTITY printCmd.commandkey "A">
+<!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Cau">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -42,12 +42,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.accesskey "M">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label "Golwg">
-<!ENTITY viewMenu.accesskey "G">
+<!ENTITY viewMenu.label           "Golwg">
+<!ENTITY viewMenu.accesskey       "G">
 <!ENTITY reloadCmd.label "Ail-lwytho">
 <!ENTITY reloadCmd.accesskey "A">
-<!ENTITY reloadCmd.commandkey "A">
-<!ENTITY menu_wrapLongLines.title "Amlapio Llinellau Hir">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Amlapio Llinellau Hir"> 
 <!ENTITY menu_wrapLongLines.accesskey "L">
 <!ENTITY menu_highlightSyntax.label "Amlygu Cystrawen">
 <!ENTITY menu_highlightSyntax.accesskey "C">
@@ -60,12 +60,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Arferol">
 <!ENTITY menu_textReset.accesskey "A">
 
-<!ENTITY findOnCmd.label "Canfod yn y Dudalen...">
+<!ENTITY findOnCmd.label     "Canfod yn y Dudalen...">
 <!ENTITY findOnCmd.accesskey "C">
-<!ENTITY findOnCmd.commandkey "c">
-<!ENTITY findAgainCmd.label "Canfod Eto">
-<!ENTITY findAgainCmd.accesskey "e">
-<!ENTITY findAgainCmd.commandkey "E">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Canfod Eto">
+<!ENTITY findAgainCmd.accesskey "E">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "Nôl">

@@ -1,0 +1,15 @@
+<!ENTITY networkPanel.requestURL                  "URL sy'n gofyn">
+<!ENTITY networkPanel.requestMethod               "Dull Gofyn">
+<!ENTITY networkPanel.statusCode                  "Cod Statws">
+
+<!ENTITY networkPanel.requestHeaders              "Pennyn Gofyn">
+<!ENTITY networkPanel.requestCookie               "Cwci wedi ei anfon">
+<!ENTITY networkPanel.requestBody                 "Corff sy'n gofyn">
+<!ENTITY networkPanel.requestFormData             "Data Ffurflen Anfonwyd">
+
+<!ENTITY networkPanel.responseHeaders             "Pennyn Ymateb">
+<!ENTITY networkPanel.responseBody                "Corff Ymateb">
+<!ENTITY networkPanel.responseBodyCached          "Data Cadwyd">
+<!ENTITY networkPanel.responseNoBody              "Corff Dim Ymateb">
+<!ENTITY networkPanel.responseImage               "Delwedd Derbyniwyd">
+<!ENTITY networkPanel.responseImageCached         "Delwedd Cadwyd">

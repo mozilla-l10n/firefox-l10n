@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Rheolwr Dyfeisiadau">
+<!ENTITY devmgr.title                           "Rheolwr Dyfeisiadau">
 
-<!ENTITY devmgr.devlist.label "Modiwlau a Dyfeisiadau Diogelwch">
-<!ENTITY devmgr.details.title "Manylion">
-<!ENTITY devmgr.details.title2 "Gwerth">
-<!ENTITY devmgr.status.label "Statws">
-<!ENTITY devmgr.version.label "Fersiwn">
+<!ENTITY devmgr.devlist.label                   "Modiwlau a Dyfeisiadau Diogelwch">
+<!ENTITY devmgr.details.title                   "Manylion">
+<!ENTITY devmgr.details.title2                  "Gwerth">
+<!ENTITY devmgr.status.label                    "Statws">
+<!ENTITY devmgr.version.label                   "Fersiwn">
 
-<!ENTITY devmgr.button.changeslotname.label "Newid Enw Slot">
-<!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label "Mewngofnodi">
-<!ENTITY devmgr.button.login.accesskey "m">
-<!ENTITY devmgr.button.logout.label "Allgofnodi">
-<!ENTITY devmgr.button.logout.accesskey "A">
-<!ENTITY devmgr.button.changepw.label "Newid Cyfrinair">
-<!ENTITY devmgr.button.changepw.accesskey "N">
-<!ENTITY devmgr.button.load.label "Llwytho">
-<!ENTITY devmgr.button.load.accesskey "L">
-<!ENTITY devmgr.button.unload.label "Dadlwytho">
-<!ENTITY devmgr.button.unload.accesskey "D">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.changeslotname.label     "Newid Enw Slot">
+<!ENTITY devmgr.button.changeslotname.accesskey "N">
+<!ENTITY devmgr.button.login.label              "Mewngofnodi">
+<!ENTITY devmgr.button.login.accesskey          "M">
+<!ENTITY devmgr.button.logout.label             "Allgofnodi">
+<!ENTITY devmgr.button.logout.accesskey         "A">
+<!ENTITY devmgr.button.changepw.label           "Newid Cyfrinair">
+<!ENTITY devmgr.button.changepw.accesskey       "N">
+<!ENTITY devmgr.button.load.label               "Llwytho">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "Dadlwytho">
+<!ENTITY devmgr.button.unload.accesskey         "D">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info "Rhoi gwybodaeth am y modiwl rydych eisiau ei ychwanegu">
-<!ENTITY loaddevice.modname "Enw Modiwl">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "Modiwl newydd PKCS#11">
-<!ENTITY loaddevice.filename "Enw ffeil modiwl:">
-<!ENTITY loaddevice.filename.accesskey "E">
-<!ENTITY loaddevice.browse "Pori...">
-<!ENTITY loaddevice.browse.accesskey "P">
+<!ENTITY loaddevice.info                        "Rhoi gwybodaeth am y modiwl rydych eisiau ei ychwanegu">
+<!ENTITY loaddevice.modname                     "Enw Modiwl">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "Modiwl newydd PKCS#11">
+<!ENTITY loaddevice.filename                    "Enw ffeil modiwl:">
+<!ENTITY loaddevice.filename.accesskey          "E">
+<!ENTITY loaddevice.browse                      "Pori...">
+<!ENTITY loaddevice.browse.accesskey            "P">
 
-<!ENTITY loaddevice.title "Llwytho Dyfais PKCS#11">
+<!ENTITY loaddevice.title                       "Llwytho Dyfais PKCS#11">
