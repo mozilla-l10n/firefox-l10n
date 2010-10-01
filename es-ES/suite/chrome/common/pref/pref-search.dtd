@@ -3,7 +3,7 @@
 <!ENTITY defaultSearchEngine.label "Buscar usando:">
 <!ENTITY defaultSearchEngine.accesskey "S">
 <!ENTITY searchResults.label "Resultados de la búsqueda">
-<!ENTITY openInTab.label "Abrir pestañas nuevas para los resultados de búsquedas en el panel lateral">
+<!ENTITY openInTab.label "Abrir pestañas nuevas con los resultados de búsquedas en el panel lateral">
 <!ENTITY openInTab.accesskey "A">
 <!ENTITY openSidebarSearchPanel.label "Abrir la pestaña Búsqueda en el panel lateral cuando se realiza una búsqueda">
 <!ENTITY openSidebarSearchPanel.accesskey "e">
