@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "Evit arveriaded Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Adloc'hañ gant an askouezhioù diweredekaet…">
+<!ENTITY helpSafeMode.accesskey   "r">
 
 <!ENTITY helpReleaseNotes.label         "Notennoù an handelv">
 <!ENTITY helpReleaseNotes.accesskey     "N">

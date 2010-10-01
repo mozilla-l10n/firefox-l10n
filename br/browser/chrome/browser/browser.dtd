@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Barrenn ostilhoù ar sinedoù">
 <!ENTITY personalbarCmd.accesskey "s">
 <!ENTITY bookmarksToolbarItem.label "Ergorennoù barrenn ostilhoù ar sinedoù">
-<!ENTITY taskbarCmd.label "Barrenn stad">
-<!ENTITY taskbarCmd.accesskey "s">
+<!ENTITY addonBarCmd.label "Barrenn an askouezhioù">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Tarzh ar bajennad">
 <!ENTITY pageSourceCmd.accesskey "b">
@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Paouez kargañ ar bajennad-mañ">
 <!ENTITY goEndCap.tooltip             "Mont d'ar chomlec'h er varrenn lec'hiañ">
-<!ENTITY feedButton.tooltip           "En em enrollañ d'ar bajenn-mañ…">
 <!ENTITY printButton.label            "Moullañ">
 <!ENTITY printButton.tooltip          "Moullañ ar bajennad-mañ">
 
@@ -134,10 +133,14 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Lañser">
+<!ENTITY appMenuButton.tooltip        "Digeriñ lañser &brandShortName;">
 <!ENTITY homeButton.label             "D'ar gêr">
 
 <!ENTITY tabGroupsButton.label        "Strolladoù ivinelloù">
 <!ENTITY tabGroupsButton.tooltip      "Strollañ hoc'h ivinelloù">
+
+<!ENTITY feedButton.label             "Koumanantiñ">
+<!ENTITY feedButton.tooltip           "En em enrollañ d'ar bajenn-mañ…">
 
 <!ENTITY bookmarksButton.label          "Sinedoù">
 <!ENTITY bookmarksButton.tooltip        "Diskouez ho sinedoù">
@@ -279,9 +282,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Barrenoù gostez">
 <!ENTITY appMenuFind.label "Klask…">
 <!ENTITY appMenuUnsorted.label "Sinedoù dirummet">
+<!ENTITY appMenuWebDeveloper.label "Diorrenour web">
 <!ENTITY appMenuGettingStarted.label "Deraouiñ">
-
-<!ENTITY developerMenu.label "Diorrenour">
+<!ENTITY appMenuSafeMode.label "Adloc'hañ gant an askouezhioù diweredekaet…">
+<!ENTITY appMenuSafeMode.accesskey "r">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Mont d'ul lec'hienn">
@@ -295,9 +299,9 @@ can reach it easily. -->
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -306,12 +310,11 @@ can reach it easily. -->
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Digeriñ an ere e-barzh un ivinell nevez">
 <!ENTITY openLinkCmdInTab.accesskey   "i">

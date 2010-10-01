@@ -43,10 +43,10 @@
 <!ENTITY syncKeyEntry.label        "Hoc'h alc'hwez goubredañ">
 <!ENTITY syncKeyEntry.accesskey    "H">
 <!ENTITY syncKeyGenerate.label     "Genel">
+<!ENTITY syncKeyStrength.label     "Kreñvded :">
+<!ENTITY syncKeyHelp.label         "Petra a dalv ar greñvded ?">
 <!ENTITY syncKeyBackup.description "Ezhomm ez eus hoc'h alc'hwez enrinegañ a-benn tizhout &syncBrand.fullName.label; war urzhiataerioù all. Mar plij, savit un eilad gwarediñ. N'hallimp ket reiñ skoazell deoc'h a-benn adtapout hoc'h alc'hwez goubredañ.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Postel...">
-<!ENTITY button.syncKeyBackup.email.accesskey "e">
 <!ENTITY button.syncKeyBackup.print.label     "Moullañ…">
 <!ENTITY button.syncKeyBackup.print.accesskey "M">
 <!ENTITY button.syncKeyBackup.save.label      "Enrollañ…">

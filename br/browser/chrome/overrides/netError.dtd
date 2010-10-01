@@ -29,7 +29,15 @@
 <!ENTITY netInterrupt.longDesc "<p>Kennasket mat e oa ar merdeer met troc'het eo bet ar c'hennask e-pad ma oa o treuzkas stlenno&ugrave;. Klaskit en-dro, mar plij.</p><ul><li>N'oc'h ket evit merdei&ntilde; war lec'hienno&ugrave; all ? Gwiriit kennask roueded hoc'h urzhiataer.</li><li>Trubuilho&ugrave; c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
 
 <!ENTITY netOffline.title "Mod ezlinenn">
-<!ENTITY netOffline.longDesc " <p>Ema&ntilde; ar merdeer o labourat gant e vod ezlinenn ha n'hall ket kennaska&ntilde; ouzh an ergorenn bet goulennet.</p><ul><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Lakaat ar merdeer war e vod enlinenn ha klask en-dro.</li></ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "<ul>
+  <li>Digevaskañ elfenn al lañser &quot;Labourat ezlinenn&quot; ha neuze klask en-dro.</li>
+</ul>
+ ">
 
 <!ENTITY contentEncodingError.title "Fazi enrinega&ntilde; an endalc'had">
 <!ENTITY contentEncodingError.longDesc "<p>Ar bajennad emaoc'h o klask gwelout n'hall ket beza&ntilde; diskouezet rak ur doare koazha&ntilde; anskor pe didalvoudek zo arveret ganti.</p><ul><li>Kit e darempred gant perc'hennerion al lec'hienn evit kas kelo&ugrave; dezho a-zivout ar gudenn-ma&ntilde;.</li></ul>">

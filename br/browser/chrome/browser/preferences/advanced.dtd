@@ -41,18 +41,18 @@
 <!ENTITY offlineStorage.label            "Kadaviñ ezlinenn">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Arverañ betek">
-<!ENTITY useCacheBefore.accesskey        "r">
-<!ENTITY useCacheAfter.label             "Me a egor evit ar grubuilh">
+<!ENTITY limitCacheSizeBefore.label      "Bevennañ ar grubuilh da">
+<!ENTITY limitCacheSizeBefore.accesskey  "l">
+<!ENTITY limitCacheSizeAfter.label       "Me egor">
 <!ENTITY clearCacheNow.label             "Skarzhañ bremañ">
 <!ENTITY clearCacheNow.accesskey         "k">
-<!ENTITY smartSizeCache.label            "Leuskel &brandShortName; da ardeiñ ment ma c'hrubuilh">
-<!ENTITY smartSizeCache.accesskey        "L">
+<!ENTITY overrideSmartCacheSize.label    "Tremen dreist ardeiñ emgefreek ar grubuilh">
+<!ENTITY overrideSmartCacheSize.accesskey "T">
 
 <!ENTITY updateTab.label                 "Hizivaat">
 

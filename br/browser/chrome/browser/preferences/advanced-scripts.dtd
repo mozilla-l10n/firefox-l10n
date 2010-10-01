@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Diweredekaat pe amsaviñ lañserioù kemperzhel">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "Kuzhat ar varrenn stad">
-<!ENTITY hideStatusBar.accesskey        "h">
-<!ENTITY changeStatusBar.label          "Kemmañ testenn ar varrenn stad">
-<!ENTITY changeStatusBar.accesskey      "t">
