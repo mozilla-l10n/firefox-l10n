@@ -43,7 +43,7 @@ parsererror {
 
 /* set LTR for url and file paths and align them to the right - Bug 289934  */
 
-#source, #path, #url, #feedurl, #downloadFolder, #urltext, #statusbar-display {
+#source, #path, #url, #feedurl, #downloadFolder, #urltext {
   direction: ltr !important;
   text-align: right !important;
 }
@@ -60,11 +60,6 @@ parsererror {
 *********************/
 
 
-#statusbar-display {
-  direction: ltr !important;
-  text-align: right !important;
-  }
-
 /* Set Folder Pane on the left side of window */
 
 #mailContentWrapper {
@@ -76,19 +71,4 @@ parsererror {
 #searchBox {
   direction: rtl !important;
 }
-
-/* Set Statusbar to LTR */
-
-#statusText {
-  direction: ltr !important;
-  text-align: right !important;
-}
-
-/********************
-**  Extensions  **
-*********************/
-
-#adblockPreferencesWindow
-{direction: ltr !important }
-
 
