@@ -7,17 +7,9 @@
 <!ENTITY defaultSearchEngine.label        "Søk med">
 <!ENTITY defaultSearchEngine.accesskey    "S">
 
-<!ENTITY openSidebarSearchPanel.label     "Åpne søkefanen i sidestolpen når søkeresultater er tilgjengelige">
-<!ENTITY openSidebarSearchPanel.accesskey "Å">
-
-<!ENTITY openContextSearchTab.label       "Åpne en fane istedenfor et nytt vindu for nettsøk fra kontekstmenyen">
-<!ENTITY openContextSearchTab.accesskey   "n">
-
 <!ENTITY searchResults.label              "Søkeresultater">
 
-<!ENTITY sidebarSearchTabPref.label       "Visningsvalg for sidestolpen">
-<!ENTITY searchModeBasic.label            "Vanlig">
-<!ENTITY searchModeBasic.accesskey        "V">
-<!ENTITY searchModeAdvanced.label         "Avansert">
-<!ENTITY searchModeAdvanced.accesskey     "A">
-
+<!ENTITY openInTab.label                  "Åpne en ny fane for søkeresultater i sidestolpen">
+<!ENTITY openInTab.accesskey              "Å">
+<!ENTITY openSidebarSearchPanel.label     "Åpne søkefanen i sidestolpen når et søk gjøres">
+<!ENTITY openSidebarSearchPanel.accesskey "n">
