@@ -45,7 +45,7 @@
 <!ENTITY syncKeyGenerate.label     "ਬਣਾਓ">
 <!ENTITY syncKeyStrength.label     "ਤਾਕਤ:">
 <!ENTITY syncKeyHelp.label         "ਤਾਕਤ ਦਾ ਕੀ ਮਤਲਬ ਹੈ?">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyBackup.description "ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ ਹੋਰ ਮਸ਼ੀਨਾਂ ਉੱਤੇ &syncBrand.fullName.label; ਵਰਤਣ ਲਈ ਲੋੜੀਦੀ ਹੈ। ਬੈਕਅੱਪ ਕਾਪੀ ਬਣਾ ਲਵੋ ਜੀ। ਅਸੀਂ ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਤੁਹਾਡੀ ਮੱਦਦ ਨਹੀਂ ਕਰ ਸਕਾਂਗੇ।">
 
 <!ENTITY button.syncKeyBackup.print.label     "ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -63,8 +63,8 @@
 
 <!-- Existing Account Page 2: Sync Key -->
 <!ENTITY setup.existingSyncKeyPage.title "ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਦਿਓ ਜੀ">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
+<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. ਇਹ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਵਰਗੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।">
+<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, ਪਰ ਸਰਵਰ ਉੱਤੇ ਸਟੋਰ ਕੀਤਾ ਤੁਹਾਡਾ ਡਾਟਾ ਖਤਮ ਹੋ ਜਾਵੇਗਾ।">
 <!ENTITY lostSyncKey.label            "ਮੈਂ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਗੁਆ ਦਿੱਤੀ ਹੈ">
 <!ENTITY verifying.label              "ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
 
@@ -94,10 +94,10 @@
 <!ENTITY setup.optionsConfirmPage.title "ਪੁਸ਼ਟੀ">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; ਹੁਣ ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਸਭ ਬਰਾਊਜ਼ਰ ਡਾਟੇ ਨੂੰ ਤੁਹਾਡੇ ਸਿੰਕ ਅਕਾਊਂਟ ਨਾਲ ਮਿਲਾਏਗਾ।">
 <!ENTITY confirm.client.label         "ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਭ &brandShortName; ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ, ਜਿਸ ਵਿੱਚ ਅੱਗੇ ਦਿੱਤਾ ਕੁਝ ਹੈ:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client.warning.label "ਸਾਵਧਾਨ: This will result in all &brandShortName; data on this computer being replaced!">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; ਫੇਰ ਤੁਹਾਡੇ &syncBrand.fullName.label; ਡਾਟੇ ਨੂੰ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਕਾਪੀ ਕਰੇਗਾ।">
+<!ENTITY confirm.client.warning.label "ਸਾਵਧਾਨ: ਇਸ ਨਾਲ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਭ &brandShortName; ਡਾਟਾ ਬਦਲਿਆ ਜਾਵੇਗਾ!">
 <!ENTITY confirm.server.label         "ਅੱਗੇ ਦਿੱਤੇ ਜੰਤਰ ਉੱਤੇ ਤੁਹਾਡਾ ਲੋਕਲ ਡਾਟਾ ਲਿਖਿਆ ਜਾਵੇਗਾ:">
-<!ENTITY confirm.server.warning.label "ਸਾਵਧਾਨ: Your local data will replace all &brandShortName; data on these devices!">
+<!ENTITY confirm.server.warning.label "ਸਾਵਧਾਨ: ਤੁਹਾਡਾ ਲੋਕਲ ਡਾਟਾ ਇਹ ਜੰਤਰਾਂ ਉੱਤੇ ਸਭ l &brandShortName; ਡਾਟੇ ਨੂੰ ਬਦਲ ਦੇਵੇਗਾ!">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "ਸੈਟਅੱਪ ਪੂਰਾ ਹੋਇਆ">
