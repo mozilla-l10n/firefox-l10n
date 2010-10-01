@@ -152,6 +152,16 @@
 <!ENTITY calendar.task.filter.open.label            "Net foltôge taken">
 <!ENTITY calendar.task.filter.open.accesskey        "N">
 
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Aktuele taken">
+<!ENTITY calendar.task.filter.current.accesskey     "u">
+<!ENTITY calendar.task.filter.repeating.label       "Werheljende taken">
+<!ENTITY calendar.task.filter.repeating.accesskey   "W">
+
 <!ENTITY calendar.task-details.title.label           "titel:">
 <!ENTITY calendar.task-details.organizer.label       "fan:">
 <!ENTITY calendar.task-details.priority.label        "prioriteit:">
