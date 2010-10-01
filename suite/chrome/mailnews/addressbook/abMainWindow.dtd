@@ -100,8 +100,6 @@
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksporter …">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY allowOnlineCheck.label                         "Sjekk om tilkoblet (AOL)">
-<!ENTITY allowOnlineCheck.accesskey                     "S">
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label                         "Ny kontakt">  
