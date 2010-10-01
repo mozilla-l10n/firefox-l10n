@@ -35,9 +35,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Gall hyn ddiddymu eich gwarant!">
 <!ENTITY aboutWarningText.label "Gall newid y gosodiadau uwch wneud niwed i sefydlogrwydd a pherfformiad y rhaglen. Dylech barhau dim ond os ydych yn gwybod beth rydych yn ei wneud.">
 <!ENTITY aboutWarningButton.label "Bydda i'n ofalus, rwy'n addo!">
@@ -46,18 +46,18 @@
 <!ENTITY filterPrefs.label "Hidl:">
 <!ENTITY filterPrefs.accesskey "H">
 <!ENTITY focusFilter.key "h">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Enw'r Dewis">
 <!ENTITY lockColumn.label "Statws">
 <!ENTITY typeColumn.label "Math">
 <!ENTITY valueColumn.label "Gwerth">
+
 <!-- Tooltips -->
+<!ENTITY prefColumnHeader.tooltip "Clicio i'w trefnu"> 
+<!ENTITY columnChooser.tooltip "Cliciwch i ddewis colofnau i'w dangos"> 
 
-<!ENTITY prefColumnHeader.tooltip "Clicio i'w trefnu">
-<!ENTITY columnChooser.tooltip "Cliciwch i ddewis colofnau i'w dangos">
 <!-- Context Menu -->
-
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copïo">
 <!ENTITY copyPref.accesskey "C">
@@ -68,7 +68,7 @@
 <!ENTITY modify.label "Newid">
 <!ENTITY modify.accesskey "N">
 <!ENTITY toggle.label "Newid">
-<!ENTITY toggle.accesskey "E">
+<!ENTITY toggle.accesskey "e">
 <!ENTITY reset.label "Ailosod">
 <!ENTITY reset.accesskey "A">
 <!ENTITY new.label "Newydd">

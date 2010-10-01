@@ -35,38 +35,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label "Argraffu...">
-<!ENTITY print.accesskey "A">
-<!ENTITY pageSetup.label "Gosodiad Tudalen">
-<!ENTITY pageSetup.accesskey "g">
-<!ENTITY page.label "Tudalen:">
-<!ENTITY page.accesskey "t">
-<!ENTITY of.label "o">
-<!ENTITY scale.label "Graddfa:">
-<!ENTITY scale.accesskey "R">
-<!ENTITY portrait.label "Portread">
-<!ENTITY portrait.accesskey "p">
-<!ENTITY landscape.label "Tirlun">
-<!ENTITY landscape.accesskey "T">
-<!ENTITY close.label "Cau">
-<!ENTITY close.accesskey "C">
-<!ENTITY p30.label "30&#037;">
-<!ENTITY p40.label "40&#037;">
-<!ENTITY p50.label "50&#037;">
-<!ENTITY p60.label "60&#037;">
-<!ENTITY p70.label "70&#037;">
-<!ENTITY p80.label "80&#037;">
-<!ENTITY p90.label "90&#037;">
-<!ENTITY p100.label "100&#037;">
-<!ENTITY p125.label "125&#037;">
-<!ENTITY p150.label "150&#037;">
-<!ENTITY p175.label "175&#037;">
-<!ENTITY p200.label "200&#037;">
-<!ENTITY Custom.label "Addasu...">
-<!ENTITY ShrinkToFit.label "Lleihau i'r Maint">
-<!ENTITY customPrompt.title "Graddfa Addasu...">
+<!ENTITY print.label          "Argraffu...">
+<!ENTITY print.accesskey      "A">
+<!ENTITY pageSetup.label      "Gosodiad Tudalen">
+<!ENTITY pageSetup.accesskey  "G">
+<!ENTITY page.label           "Tudalen:">
+<!ENTITY page.accesskey       "T">
+<!ENTITY of.label             "o">
+<!ENTITY scale.label          "Graddfa:">
+<!ENTITY scale.accesskey      "r">
+<!ENTITY portrait.label       "Portread">
+<!ENTITY portrait.accesskey   "P">
+<!ENTITY landscape.label      "Tirlun">
+<!ENTITY landscape.accesskey  "T">
+<!ENTITY close.label          "Cau">
+<!ENTITY close.accesskey      "C">
+<!ENTITY p30.label            "30&#037;">
+<!ENTITY p40.label            "40&#037;">
+<!ENTITY p50.label            "50&#037;">
+<!ENTITY p60.label            "60&#037;">
+<!ENTITY p70.label            "70&#037;">
+<!ENTITY p80.label            "80&#037;">
+<!ENTITY p90.label            "90&#037;">
+<!ENTITY p100.label           "100&#037;">
+<!ENTITY p125.label           "125&#037;">
+<!ENTITY p150.label           "150&#037;">
+<!ENTITY p175.label           "175&#037;">
+<!ENTITY p200.label           "200&#037;">
+<!ENTITY Custom.label         "Addasu...">
+<!ENTITY ShrinkToFit.label    "Lleihau i'r Maint">
+<!ENTITY customPrompt.title   "Graddfa Addasu...">
 
-<!ENTITY homearrow.tooltip "Tudalen gyntaf">
-<!ENTITY endarrow.tooltip "Tudalen olaf">
-<!ENTITY rightarrow.tooltip "Tudalen nesaf">
-<!ENTITY leftarrow.tooltip "Tudalen flaenorol">
+<!ENTITY homearrow.tooltip    "Tudalen gyntaf">
+<!ENTITY endarrow.tooltip     "Tudalen olaf">
+<!ENTITY nextarrow.tooltip    "Tudalen nesaf">
+<!ENTITY previousarrow.tooltip "Tudalen blaenorol">

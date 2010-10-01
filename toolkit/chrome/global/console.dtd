@@ -37,32 +37,32 @@
 
 <!ENTITY errorConsole.title "Consol Gwall">
 
-<!ENTITY errFile.label "Ffeil Cod Gwreiddiol:">
-<!ENTITY errLine.label "Llinell:">
+<!ENTITY errFile.label   "Ffeil Cod Gwreiddiol:">
+<!ENTITY errLine.label   "Llinell:">
 <!ENTITY errColumn.label "Colofn:">
 
-<!ENTITY all.label "Pob Neges">
-<!ENTITY all.accesskey "P">
-<!ENTITY errors.label "Gwallau">
-<!ENTITY errors.accesskey "G">
-<!ENTITY warnings.label "Rhybuddion">
+<!ENTITY all.label          "Pob Neges">
+<!ENTITY all.accesskey      "P">
+<!ENTITY errors.label       "Gwallau">
+<!ENTITY errors.accesskey   "G">
+<!ENTITY warnings.label     "Rhybuddion">
 <!ENTITY warnings.accesskey "R">
-<!ENTITY messages.label "Negeseuon">
+<!ENTITY messages.label     "Negeseuon">
 <!ENTITY messages.accesskey "N">
-<!ENTITY clear.label "Clirio">
-<!ENTITY clear.accesskey "C">
-<!ENTITY codeEval.label "Cod:">
+<!ENTITY clear.label        "Clirio">
+<!ENTITY clear.accesskey    "C">
+<!ENTITY codeEval.label     "Cod:">
 <!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label "Gwerthuso">
-<!ENTITY evaluate.accesskey "g">
+<!ENTITY evaluate.label     "Gwerthuso">
+<!ENTITY evaluate.accesskey "G">
 
-<!ENTITY copyCmd.label "Copïo">
-<!ENTITY copyCmd.accesskey "O">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "Yn ôl trefn Cyntaf i Olaf">
+<!ENTITY copyCmd.label       "Copïo">  
+<!ENTITY copyCmd.accesskey   "o"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "Yn ôl trefn Cyntaf i Olaf">
 <!ENTITY sortFirst.accesskey "y">
-<!ENTITY sortLast.label "Yn ôl trefn Olaf i Cyntaf">
-<!ENTITY sortLast.accesskey "o">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY sortLast.label      "Yn ôl trefn Olaf i Cyntaf">
+<!ENTITY sortLast.accesskey  "O">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Dewiswch Broffil Defnyddiwr">
+<!ENTITY            windowtitle.label      "&brandShortName; - Dewiswch Broffil Defnyddiwr">
 
-<!ENTITY profilename.label "Enw Proffil:">
+<!ENTITY            profilename.label      "Enw Proffil:">
 
-<!ENTITY start.label "Cychwyn &brandShortName;">
-<!ENTITY exit.label "Gadael">
+<!ENTITY            start.label            "Cychwyn &brandShortName;">
+<!ENTITY            exit.label             "Gadael">
 
-<!ENTITY availprofiles.label "Proffiliau sydd ar Gael">
+<!ENTITY            availprofiles.label    "Proffiliau sydd ar Gael">
 
-<!ENTITY newButton.label "Creu Proffil...">
-<!ENTITY newButton.accesskey "C">
-<!ENTITY renameButton.label "Ailenwi Profil...">
-<!ENTITY renameButton.accesskey "A">
-<!ENTITY deleteButton.label "Dileu Proffil...">
-<!ENTITY deleteButton.accesskey "D">
+<!ENTITY            newButton.label        "Creu Proffil...">
+<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            renameButton.label     "Ailenwi Profil...">
+<!ENTITY            renameButton.accesskey "A">
+<!ENTITY            deleteButton.label     "Dileu Proffil...">
+<!ENTITY            deleteButton.accesskey "D">
+
 <!-- manager entities -->
+<!ENTITY            pmDescription.label    "Mae &brandShortName; yn storio gwybodaeth am eich gosodiadau, dewisiadau ac eitemau defnyddiwr arall yn eich proffil defnyddiwr.">
 
-<!ENTITY pmDescription.label "Mae &brandShortName; yn storio gwybodaeth am eich gosodiadau, dewisiadau ac eitemau defnyddiwr arall yn eich proffil defnyddiwr.">
+<!ENTITY            offlineState.label    "Gweithio All-lein">
+<!ENTITY            offlineState.accesskey "G">
 
-<!ENTITY offlineState.label "Gweithio All-lein">
-<!ENTITY offlineState.accesskey "g">
-
-<!ENTITY autoSelect.label "Peidiwch gofyn wrth gychwyn">
-<!ENTITY autoSelect.accesskey "g">
+<!ENTITY            autoSelect.label       "Peidiwch gofyn wrth gychwyn">
+<!ENTITY            autoSelect.accesskey   "g">

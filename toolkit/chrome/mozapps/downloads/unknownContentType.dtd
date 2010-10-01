@@ -37,25 +37,25 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "Rydych wedi dewis agor">
-<!ENTITY from.label "oddi wrth:">
-<!ENTITY actionQuestion.label "Beth ddylai &brandShortName; wneud gyda'r ffeil?">
+<!ENTITY  intro.label                 "Rydych wedi dewis agor">
+<!ENTITY  from.label                  "oddi wrth:">
+<!ENTITY  actionQuestion.label        "Beth ddylai &brandShortName; wneud gyda'r ffeil?">
 
-<!ENTITY openWith.label "Agor gyda">
-<!ENTITY openWith.accesskey "a">
-<!ENTITY other.label "Arall...">
+<!ENTITY  openWith.label              "Agor gyda">
+<!ENTITY  openWith.accesskey          "a">
+<!ENTITY  other.label                 "Arall...">
 
-<!ENTITY saveFile.label "Cadw Ffeil">
-<!ENTITY saveFile.accesskey "c">
+<!ENTITY  saveFile.label              "Cadw Ffeil">
+<!ENTITY  saveFile.accesskey          "C">
 
-<!ENTITY rememberChoice.label "Gwneud hyn yn awtomatig ar gyfer ffeiliau o'r math yma o hyn ymlaen.">
-<!ENTITY rememberChoice.accesskey "a">
+<!ENTITY  rememberChoice.label        "Gwneud hyn yn awtomatig ar gyfer ffeiliau o'r math yma o hyn ymlaen.">
+<!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY whichIsA.label "sydd yn:">
+<!ENTITY  whichIsA.label              "sydd yn:">
 
-<!ENTITY chooseHandlerMac.label "Dewis">
-<!ENTITY chooseHandlerMac.accesskey "D">
-<!ENTITY chooseHandler.label "Pori...">
-<!ENTITY chooseHandler.accesskey "P">
+<!ENTITY  chooseHandlerMac.label      "Dewis">
+<!ENTITY  chooseHandlerMac.accesskey  "D">
+<!ENTITY  chooseHandler.label         "Pori...">
+<!ENTITY  chooseHandler.accesskey     "P">
 
-<!ENTITY unknownPromptText.label "Hoffech chi gadw'r ffeil?">
+<!ENTITY  unknownPromptText.label     "Hoffech chi gadw'r ffeil?">

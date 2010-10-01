@@ -3,11 +3,11 @@
 
 <!ENTITY loadError.label "Anhawster llwytho tudalen">
 <!ENTITY retry.label "Ceisiwch eto">
+
 <!-- Specific error messages -->
 
-
 <!ENTITY connectionFailure.title "Methu cysylltu">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "<p>Er bod y safle i'w weld yn ddilys, nid oedd y porwr yn gallu creu cysylltiad.</p><ul><li>Efallai nad yw'r safle ar gael dros dro? Ceisiwch eto.</li><li>Methu pori safleoedd eraill?  Gwiriwch gysylltiad y cyfrifiadur â'r rhwydwaith.</li><li>A yw eich cyfrifiadur a'r rhwydwaith wedi eu hamddiffyn gan fur cadarn neu ddirprwy? Mae gosodiadau anghywir yn gallu ymyrryd â phori'r we.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Mae'r cyfeiriad wedi ei gyfyngu">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -39,12 +39,19 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Cafodd y cysylltiad ei darfu">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "<p>Mae'r porwr wedi cysylltu'n llwyddiannus, ond cafodd y cysylltiad ei darfu wrth drosglwyddo gwybodaeth.  Ceisiwch eto.</p><ul><li>Methu pori safleoedd eraill?  Gwiriwch gysylltiad y cyfrifiadur â'r rhwydwaith.</li><li>Yn dal i gael trwbl? Cysylltwch â'ch gweinyddwr rhwydwaith neu ddarparwr Rhyngrwyd am gymorth.</li></ul>">
 
 <!ENTITY netOffline.title "Modd all-lein">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Dad-diciwch &quot;Gweithio All-lein&quot; yn newislen Ffeil, a cheisio eto.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Gwall Amgodio Cynnwys">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -57,10 +64,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Cafodd y cysylltiad ei ailosod">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "<p>Cafodd y cysylltiad rhwydwaith ei dorri wrth negydu cysylltu. Ceisiwch eto.</p>">
 
 <!ENTITY netTimeout.title "Mae cyfnod y cyswllt wedi dod i ben">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "<p>Nid yw'r wefan wedi ymateb i gais am gyswllt ac mae'r porwr wedi peidio aros am ateb.</p><ul><li>Gall fod y gweinydd yn profi galw uchel neu ataliad dros dro? Ceisiwch eto.</li><li>A ydych yn methu pori i safleoedd eraill? Gwiriwch gysylltiad rhwydwaith y cyfrifiadur.</li><li>A yw eich cyfrifiadur wedi ei ddiogelu gan fur cadarn neu ddirprwy? Gall osodiadau anghywir effeithio ar bori'r we.</li><li>Dal yn cael problemau? Cysylltwch â'ch gweinyddwr rhwydwaith neu ddarparwr rhyngrwyd am gymorth.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Heb ddeall y cyfeiriad">
 <!ENTITY protocolNotFound.longDesc "<ul> 
@@ -123,16 +130,19 @@ gwnewch yn siŵr fod gan &brandShortName;  hawl i fynediad i'r we.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Gall gyflwyno gwybodaeth bersonol ar y dudalen hon arwain at ddwyn hunaniaeth neu dwyll arall.</p> 
 <p>Mae'r math yma o dwyll ar y we yn cael eu defnyddio ar gyfer ymosodiad pysgota neu phishing attacks, lle mae tudalennau gwe neu e-byst twyllodrus yn cael eu defnyddio i efelychu ffynonellau rydych yn ymddiried ynddynt.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
+
 <!ENTITY securityOverride.linkText "Neu mae modd ychwanegu eithriad...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Allan o fan hyn!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ychwanegu Eithriad...">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
 
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer a gweld rhybudd ar y gweinydd hwn.</p> 
- 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer a gweld rhybudd ar y gweinydd hwn.</p> \n
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
