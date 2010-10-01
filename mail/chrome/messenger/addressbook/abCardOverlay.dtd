@@ -161,7 +161,7 @@
 <!ENTITY PhotoDesc.label                "從下列選一個:">
 <!ENTITY GenericPhoto.label             "一般相片">
 <!ENTITY GenericPhoto.accesskey         "G">
-<!ENTITY DefaultPhoto.label             " 預設">
+<!ENTITY DefaultPhoto.label             "預設">
 <!ENTITY PhotoFile.label                "從這台電腦裡">
 <!ENTITY PhotoFile.accesskey            "n">
 <!ENTITY BrowsePhoto.label              "瀏覽">

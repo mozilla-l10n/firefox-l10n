@@ -15,7 +15,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "您要求 &brandShortName; 和 <b>#1</b> 建立安全連線，但是我們無法確認目前的連線是安全的。">
 <!ENTITY certerror.introPara2 "一般來說，當您建立安全連線時，網站會提供身分識別以證明您連到了正確的地方。但此網站的身分無法被驗證。">
 
-<!ENTITY certerror.whatShouldIDo.heading "一般來說，當您建立安全連線時，網站會提供身分識別以證明您連到了正確的地方。但此網站的身分無法被驗證。">
+<!ENTITY certerror.whatShouldIDo.heading "我該怎麼辦？">
 <!ENTITY certerror.whatShouldIDo.content "若您平常不會遇到這個問題，此錯誤訊息代表有人正試著假冒該網站，您不該繼續瀏覽。">
 <!ENTITY certerror.getMeOutOfHere.label "帶我離開這裡！">
 
