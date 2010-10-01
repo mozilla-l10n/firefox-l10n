@@ -311,13 +311,12 @@ can reach it easily. -->
   system setting to use emacs emulation, and we should respect it. Focus-Search-Box
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
-
-  Do *not* tamper with these values without talking to ben@mozilla.org
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Link in neuem Tab öffnen">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
