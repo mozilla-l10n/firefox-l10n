@@ -3,11 +3,11 @@
 <!ENTITY focusWhenStarting.label "Hacer parpadear el administrador de descargas si ya está abierto; si no:">
 <!ENTITY focusWhenStarting.accesskey "H">
 <!ENTITY openDM.label "Abrir el administrador de descargas">
-<!ENTITY openDM.accesskey "m">
+<!ENTITY openDM.accesskey "a">
 <!ENTITY openProgressDialog.label "Abrir un diálogo de progreso">
-<!ENTITY openProgressDialog.accesskey "O">
+<!ENTITY openProgressDialog.accesskey "d">
 <!ENTITY doNothing.label "No abrir nada">
-<!ENTITY doNothing.accesskey "D">
+<!ENTITY doNothing.accesskey "N">
 <!ENTITY downloadLocation.label "Cuando se guarde un archivo:">
 <!ENTITY saveTo.label "Guardar archivos en">
 <!ENTITY saveTo.accesskey "G">
@@ -17,7 +17,7 @@
 <!ENTITY alwaysAsk.accesskey "P">
 <!ENTITY downloadHistory.label "Descargar historial">
 <!ENTITY removeEntries.label "Eliminar entradas del historial">
-<!ENTITY removeEntries.accesskey "n">
+<!ENTITY removeEntries.accesskey "m">
 <!ENTITY whenCompleted.label "Cuando se hayan completado">
 <!ENTITY whenQuittingApp.label "Al salir de &brandShortName;">
 <!ENTITY neverRemove.label "Nunca">
@@ -25,7 +25,7 @@
 <!ENTITY playSound.label "Reproducir un sonido">
 <!ENTITY playSound.accesskey "R">
 <!ENTITY showAlert.label "Mostrar una alerta">
-<!ENTITY showAlert.accesskey "a">
+<!ENTITY showAlert.accesskey "u">
 <!ENTITY browse.label "Examinar…">
 <!ENTITY browse.accesskey "x">
 <!ENTITY preview.label "Escuchar">
