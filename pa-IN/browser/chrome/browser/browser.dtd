@@ -100,7 +100,7 @@ can reach it easily. -->
 <!ENTITY bookmarkThisPageCmd.label "ਇਹ ਪੇਜ਼ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
-<!ENTITY subscribeToPageMenuitem.label "...ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
+<!ENTITY subscribeToPageMenuitem.label "... ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY addCurPagesCmd.label "...ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
 <!ENTITY showAllBookmarks.label "...ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 <!ENTITY bookmarkAllCmd.label "...ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ">
@@ -123,7 +123,7 @@ can reach it easily. -->
 <!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਬਾਰ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ ਉੱਤੇ ਜਾਓ">
 <!ENTITY printButton.label            "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printButton.tooltip          "ਇਹ ਪੇਜ਼ ਪਰਿੰਟ ਕਰੋ">
-<!ENTITY feedButton.tooltip           "…ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
+<!ENTITY feedButton.tooltip           "…ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 
 <!ENTITY backForwardItem.title        "ਪਿੱਛੇ/ਅੱਗੇ">
 <!ENTITY locationItem.title           "ਟਿਕਾਣਾ">
@@ -140,7 +140,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.tooltip      "ਆਪਣੀ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਓ">
 
 <!ENTITY feedButton.label             "ਮੈਂਬਰ ਬਣੋ">
-<!ENTITY feedButton.tooltip           "ਇਹ... ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
+<!ENTITY feedButton.tooltip           "... ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 
 <!ENTITY bookmarksButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">

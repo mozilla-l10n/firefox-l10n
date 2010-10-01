@@ -66,9 +66,9 @@
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "ਨਵਾਂ ਬੁੱਕਮਾਰਕ…">
+<!ENTITY cmd.new_bookmark.label            "... ਨਵਾਂ ਬੁੱਕਮਾਰਕ">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "ਨਵਾਂ ਫੋਲਡਰ…">
+<!ENTITY cmd.new_folder.label              "... ਨਵਾਂ ਫੋਲਡਰ">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "ਨਵਾਂ ਵੱਖਰੇਵਾਂ">
