@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "F">
 <!ENTITY disableContextMenus.label      "Das Kontextmenü deaktivieren oder ersetzen">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "Statusleiste ausblenden">
-<!ENTITY hideStatusBar.accesskey        "S">
-<!ENTITY changeStatusBar.label          "Statusleistentext ändern">
-<!ENTITY changeStatusBar.accesskey      "a">
