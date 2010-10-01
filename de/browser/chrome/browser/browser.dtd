@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Laden dieser Seite stoppen">
 <!ENTITY goEndCap.tooltip             "In der Adressleiste eingegebene Adresse laden">
-<!ENTITY feedButton.tooltip           "Diese Seite abonnieren…">
 <!ENTITY printButton.label            "Drucken">
 <!ENTITY printButton.tooltip          "Diese Seite drucken">
 
@@ -138,6 +137,9 @@ can reach it easily. -->
 
 <!ENTITY tabGroupsButton.label         "Tab-Gruppen">
 <!ENTITY tabGroupsButton.tooltip       "Tabs gruppieren">
+
+<!ENTITY feedButton.label             "Abonnieren">
+<!ENTITY feedButton.tooltip           "Diese Seite abonnieren…">
 
 <!ENTITY bookmarksButton.label          "Lesezeichen">
 <!ENTITY bookmarksButton.tooltip        "Öffnet Ihre Lesezeichen-Liste">
@@ -279,9 +281,8 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Suchen…">
 <!ENTITY appMenuUnsorted.label "Unsortierte Lesezeichen">
+<!ENTITY appMenuWebDeveloper.label "Web-Entwickler">
 <!ENTITY appMenuGettingStarted.label "Erste Schritte">
-
-<!ENTITY developerMenu.label "Entwickler">
 
 <!ENTITY appMenuSafeMode.label "Mit deaktivierten Add-ons neu starten…">
 <!ENTITY appMenuSafeMode.accesskey "d">
