@@ -18,10 +18,21 @@ window {
 
 window,prefwindow,dialog,wizard,page,menu { direction: rtl; }
 
-/* Remove window resizer until we find how to change it's direction to "bottomleft" */
+/*
+   chrome://browser/skin/pageInfo.css uses italic font style for the disabled textboxes.
+   Because Persian italic fonts are busted on some platforms (such as Vista), opt for not
+   using them.
+   We do this globally because any other similar code would result in imperfect rendering.
+*/
 
-resizer[dir="bottomright"] {
-  display: none;
+textbox[disabled] {
+  font-style: normal !important;
+}
+
+/* Make the XML error page RTL (bug 417489) */
+
+parsererror {
+  direction: rtl;
 }
 
 
@@ -29,18 +40,12 @@ resizer[dir="bottomright"] {
 **  Firefox  **
 *********************/
 
+
 /* set LTR for url and file paths and align them to the right - Bug 289934  */
 
-#link-url-text, #source, #path, #url, #feedurl, #downloadFolder, #urltext, #statusbar-display {
+#source, #path, #url, #feedurl, #downloadFolder, #urltext {
   direction: ltr !important;
   text-align: right !important;
-}
-
-/* set LTR for startpage, user agent and part of JavaScript console  */
-
-#browserStartupHomepage, #userAgent, #ConsoleBox, #ToolbarEval
-{
-  direction: ltr !important;
 }
 
 /* set LTR for login and password dialogs  */
@@ -50,17 +55,10 @@ resizer[dir="bottomright"] {
 	direction: ltr !important;
 }
 
-
 /********************
 **  Thunderbird  **
 *********************/
 
-/*
-#statusbar-display {
-  direction: ltr !important;
-  text-align: right !important;
-  }
-*/
 
 /* Set Folder Pane on the left side of window */
 
@@ -73,22 +71,4 @@ resizer[dir="bottomright"] {
 #searchBox {
   direction: rtl !important;
 }
-
-/* Set Statusbar to LTR */
-
-/*
-#statusText {
-  direction: ltr !important;
-  text-align: right !important;
-}*/
-
-
-
-/********************
-**  Extensions  **
-*********************/
-
-#adblockPreferencesWindow
-{direction: ltr !important }
-
 
