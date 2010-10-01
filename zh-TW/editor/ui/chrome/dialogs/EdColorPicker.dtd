@@ -42,7 +42,7 @@
 <!ENTITY setColor2.label "輸入 HTML 格式顏色字串">
 <!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "（如:「#0000ff」或是「blue」）:">
-<!ENTITY default.label " 預設">
+<!ENTITY default.label "預設">
 <!ENTITY default.accessKey "D">
 <!ENTITY palette.label "調色盤:">
 <!ENTITY standardPalette.label "標準">
