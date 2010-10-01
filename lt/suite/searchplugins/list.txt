@@ -1,4 +1,4 @@
 google
 wikipedia-lt
-dmoz
-jeeves
+creativecommons
+yahoo

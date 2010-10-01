@@ -11,21 +11,20 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Communicator.
+   - The Original Code is SeaMonkey search panel.
    -
    - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Mozilla Foundation.
+   - Portions created by the Initial Developer are Copyright (C) 2010
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Robert John Churchill <rjc@netscape.com>
-	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
-	-   Rimas Kudelis <rq@akl.lt>
+   -   Robert Kaiser <kairo@kairo.at>
+   -   Rimas Kudelis <rq@akl.lt> 
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -38,14 +37,4 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label      "Ieškoti">
-<!ENTITY allengines.label         "Visos ieškyklės">
-<!ENTITY within.label             "Kur:">
-<!ENTITY using.label              "Naudojant">
-<!ENTITY choose.label             "Pasirinkite ieškyklę ir spustelėkite „Ieškoti“">
-<!ENTITY results.label            "Paieškos rezultatai">
-<!ENTITY engine.column.label      "ieškyklės">
-<!ENTITY customize.menuitem.label   "Sudaryti ieškyklių grupes…">
-<!ENTITY next.button.label        "Tolesni">
-<!ENTITY previous.button.label    "Ankstesni">
-<!ENTITY next.button.tooltip      "Rodyti kitus radinius">
-<!ENTITY previous.button.tooltip  "Rodyti ankstesnius radinius">
+<!ENTITY search.placeholder       "Įveskite ieškotiną tekstą">

@@ -37,16 +37,9 @@
 <!ENTITY defaultSearchEngine.label        "Numatytoji ieškyklė">
 <!ENTITY defaultSearchEngine.accesskey    "N">
 
-<!ENTITY openSidebarSearchPanel.label     "Jeigu radinių yra, atverti parankinės paieškos kortelę">
-<!ENTITY openSidebarSearchPanel.accesskey "r">
-
-<!ENTITY openContextSearchTab.label       "Saityno paieškos iš kontekstinio meniu rezultatus rodyti naujoje kortelėje, o ne lange">
-<!ENTITY openContextSearchTab.accesskey   "k">
-
 <!ENTITY searchResults.label              "Paieškos rezultatai">
 
-<!ENTITY sidebarSearchTabPref.label       "Parankinės paieškos kortelė">
-<!ENTITY searchModeBasic.label            "Ieškoti su viena ieškykle">
-<!ENTITY searchModeBasic.accesskey        "v">
-<!ENTITY searchModeAdvanced.label         "Ieškoti su ieškyklių grupe">
-<!ENTITY searchModeAdvanced.accesskey     "g">
+<!ENTITY openInTab.label                  "Parankinės paieškos rezultatus rodyti naujoje kortelėje">
+<!ENTITY openInTab.accesskey              "k">
+<!ENTITY openSidebarSearchPanel.label     "Vykdant paiešką, paieškos kortelę atverti parankinėje">
+<!ENTITY openSidebarSearchPanel.accesskey "r">
