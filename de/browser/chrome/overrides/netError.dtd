@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Fehler: Offline-Modus">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Wählen Sie &quot;Offline arbeiten&quot; im Datei-Menü ab, versuchen Sie es dann nochmals.</li>
+  <li>Wählen Sie &quot;Offline arbeiten&quot; ab, und versuchen Sie es dann nochmals.</li>
 </ul>
 ">
 
