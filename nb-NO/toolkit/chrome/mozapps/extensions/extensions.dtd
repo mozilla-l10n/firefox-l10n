@@ -91,6 +91,16 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Skjul versjonsnotat">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Skjuler versjonsnotatet for denne versjonen">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Hva er utvidelser?">
+<!ENTITY discover.description                 "Utvidelser er programmer som lar deg tilpasse Firefox med
+  ekstra funksjonalitet eller annen stil. Prøv en sidestolpe som sparer deg tid, værvarsling, eller et tema som får Firefox
+  til å se ut akkurat som din.">
+<!ENTITY discover.footer                      "Når du er koblet til nettet vil dette vinduet
+  inneholde noen av de beste og mest populære utvidelsene som du kan prøve ut.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versjon">
 <!ENTITY detail.lastupdated.label             "Sist oppdatert">
