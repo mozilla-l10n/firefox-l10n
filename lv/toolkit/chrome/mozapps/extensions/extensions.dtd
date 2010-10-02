@@ -137,6 +137,14 @@
 <!ENTITY sort.relevance.label                 "Labākais rezultāts">
 <!ENTITY sort.relevance.tooltip               "Kārtot pēc atbilstības">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Kas ir papildinājumi?">
+<!ENTITY discover.description                 "Papildinājumi ir mazas programmiņas, kas ļauj jums papildināt Firefox 
+ar papildus funkcionalitāti vai stilu. Izmēģiniet laiku ietaupošo sānu joslu, laika ziņu programmiņu vai pielāgotu Firefox izskatu, lai padarītu savu Firefox unikālu.">
+<!ENTITY discover.footer                      "Kad esat savienoti ar internetu, šajā logā būs redzami populārākie un labākie papildinājumi, kas pieejami jūsu izmēģināšanai.">
+
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Meklēšana">
 <!ENTITY view.discover.label                  "Iegūt papildinājumus">
