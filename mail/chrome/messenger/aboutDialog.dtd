@@ -1,10 +1,6 @@
 <!ENTITY aboutDialog.title      "Rreth &brandShortName;-it">
 <!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText          "&#169;1998-2010 Pjesëmarrësit. Tërë të Drejtat të Ruajtura. Mozilla Thunderbird-i dhe 
-                                 logot e Thunderbird-it janë shenja tregtare të Fondacionit Mozilla.  Tërë të Drejtat 
-                                 të Ruajtura.">
 <!ENTITY cmdCloseMac.commandKey "w">
-
 <!ENTITY aboutButton.label      "&lt; Mbrapsht">
 <!ENTITY aboutButton.accesskey  "M">
 <!ENTITY aboutMenu.label        "Rreth">

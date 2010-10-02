@@ -28,6 +28,8 @@
 <!ENTITY PhoneticField2.label           "Fonetike:">
 <!ENTITY DisplayName.label              "Shfaqje:">
 <!ENTITY DisplayName.accesskey          "j">
+<!ENTITY preferDisplayName.label        "Parapëlqe përherë emër paraqitje në vend të titullit të mesazhit">
+<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Nofkë:">
 <!ENTITY NickName.accesskey             "N">
 
@@ -77,9 +79,11 @@
 <!ENTITY HomeWebPage.accesskey          "a">
 <!ENTITY Birthday.label                 "Datëlindje:">
 <!ENTITY Birthday.accesskey             "D">
-<!ENTITY Year.emptytext                 "Vit">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder                 "Vit">
 <!ENTITY Or.value                       "ose">
-<!ENTITY Age.emptytext                  "Moshë">
+<!ENTITY Age.placeholder                  "Moshë">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Punë">
 <!ENTITY Work.accesskey                 "P">
@@ -116,8 +120,6 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Shënime:">
 <!ENTITY Notes.accesskey                "h">
-<!ENTITY In.label                       "">
-<!ENTITY YearsOld.label                 "">
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "f">
 <!ENTITY PhotoDesc.label                "Zgjidhni një nga vijueset:">
@@ -130,6 +132,6 @@
 <!ENTITY BrowsePhoto.accesskey          "h">
 <!ENTITY PhotoURL.label                 "Në Web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "Hidhni ose shtypeni dorazi vendndodhjen web të një fotoje">
+<!ENTITY PhotoURL.placeholder             "Hidhni ose shtypeni dorazi vendndodhjen web të një fotoje">
 <!ENTITY UpdatePhoto.label              "Përditësojeni">
 <!ENTITY UpdatePhoto.accesskey          "d">
