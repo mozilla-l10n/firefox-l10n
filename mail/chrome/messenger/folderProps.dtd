@@ -20,7 +20,7 @@
 <!ENTITY retentionKeepUnreadHidden.label "Fshiji përherë mesazhet e lexuara (anashkalon rregullimet kohore)">
 
 <!ENTITY folderSynchronizationTab.label          "Njëkohësim">
-<!ENTITY folderCheckForNewMessages.label         "Kontrollo këtë dosje për mesazhe të rinj">
+<!ENTITY folderCheckForNewMessages2.label         "Kur merren mesazhe të rinj për këtë llogari, kontrolloje përherë këtë dosje">
 <!ENTITY folderCheckForNewMessages.accesskey     "K">
 
 <!ENTITY offlineFolder.check.label               "Përzgjidheni këtë dosje për përdorim të palidhur">
@@ -47,9 +47,11 @@
 <!ENTITY folderQuotaUsage.label                  "Përdorim:">
 <!ENTITY folderQuotaStatus.label                 "Gjendje:">
 
-<!ENTITY folderRebuildSummaryFile.label          "Riformo Treguesin">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Riformo Përmbledhje Kartele"> 
+<!ENTITY folderRebuildSummaryFile2.label         "Riparoje Dosjen">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Ndonjëherë kartela e treguesit të dosjes (.msf) dëmtohet dhe mesazhet mund të duken sikur mungojnë, ose mesazhe të fshirë të vazhdojnë të duken; riparimi i dosjes mund ta ndreqë këtë punë.">
+
+<!ENTITY folderRebuildSummaryFileTip2.label      "Riformo Treguesin për Përmbledhje Kartele">
 <!ENTITY retentionDeleteMsg.label "Fshi mesazhet më të vjetër se">
 <!ENTITY retentionDeleteMsg.accesskey "F">
 <!ENTITY folderProps.location.label              "Vend:">
@@ -59,4 +61,6 @@
 
 <!ENTITY retentionCleanupImap.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, si kopjet vendore, ashtu edhe origjinalet në shërbyesin e largët.">
 <!ENTITY retentionCleanupPop.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, përfshi origjinalet në shërbyesin e largët.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Përfshiji mesazhet e kësaj dosjeje në përfundime Kërkimi Global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "P">
 
