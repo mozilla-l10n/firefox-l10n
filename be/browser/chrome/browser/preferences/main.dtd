@@ -4,8 +4,8 @@
 <!ENTITY startupHomePage.label "Паказаць маю хатнюю старонку">
 <!ENTITY startupBlankPage.label "Паказаць пустую старонку">
 <!ENTITY startupLastSession.label "Паказаць мае вокны і ўстаўкі, якія ў мяне былі апошнім разам">
-<!ENTITY location.label "Хатняя старонка:">
-<!ENTITY location.accesskey "Х">
+<!ENTITY homepage.label "Хатняя старонка:">
+<!ENTITY homepage.accesskey "Х">
 <!ENTITY useCurrentPage.label "Ужыць гэтачасовую старонку">
 <!ENTITY useCurrentPage.accesskey "г">
 <!ENTITY useMultiple.label "Ужыць гэтачасовыя старонкі">

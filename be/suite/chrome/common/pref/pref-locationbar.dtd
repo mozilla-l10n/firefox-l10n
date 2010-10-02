@@ -16,7 +16,7 @@
 <!ENTITY autoCompleteMatchWordsFirst "Усюды, але пераважна ў межах словаў">
 <!ENTITY autoCompleteMatchWords "Толькі ў межах словаў">
 <!ENTITY autoCompleteMatchStart "Толькі ў пачатку месцазнаходжання або загалоўка">
-<!ENTITY searchEngine.label "Машыны пошуку ў Інтэрнет">
+<!ENTITY searchEngine.label "Машыны пошуку ў Інтэрнэт">
 <!ENTITY showSearchEngine.label "Паказаць змоўчную машыну пошуку">
 <!ENTITY showSearchEngine.accesskey "м">
 <!ENTITY unknownLocations.label "Невядомыя месцазнаходжанні">

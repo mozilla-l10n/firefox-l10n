@@ -15,6 +15,8 @@
 <!ENTITY windowMenu.accesskey "А">
 <!ENTITY tasksMenu.label "Прылады">
 <!ENTITY tasksMenu.accesskey "л">
+<!ENTITY datamanCmd.label "Кіраўнік здаткаў">
+<!ENTITY datamanCmd.accesskey "т">
 <!ENTITY passwordManagerCmd.label "Кіраўнік пароляў">
 <!ENTITY passwordManagerCmd.accesskey "п">
 <!ENTITY passwordDisplayCmd.label "Кіраваць захаванымі паролямі">

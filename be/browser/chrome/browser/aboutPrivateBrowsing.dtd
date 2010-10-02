@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Пачаць адасобленае азіранне">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "а">
-<!ENTITY privatebrowsingpage.howToStop "Каб спыніць адасобленае азіранне, выберыце &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; ці закрыйце  &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart "Каб пачаць адасобленае азіранне, вы можаце таксама выбраць &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2 "Каб спыніць адасобленае азіранне, выберыце &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; абе закрыйце &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2 "Каб пачаць адасобленае азіранне, вы можаце таксама выбраць &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 <!ENTITY privatebrowsingpage.moreInfo "Хоць ваш кампутар не будзе мець запісу вашай гісторыя азірання, аднак ваш дастаўшчык паслугаў інтэрнэту або ваш наймальнік можа, тым не менш, дагэтуль адсочваць старонкі, якія вы наведваеце.">
 <!ENTITY privatebrowsingpage.learnMore "Падрабязней">

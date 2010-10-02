@@ -2,13 +2,8 @@
 <!ENTITY legendHeader "Змоўчная машына пошуку">
 <!ENTITY defaultSearchEngine.label "Пошук з дапамогай:">
 <!ENTITY defaultSearchEngine.accesskey "д">
-<!ENTITY openSidebarSearchPanel.label "Адчыняць устаўку пошуку на Палічцы, калі вынікі пошуку даступны">
-<!ENTITY openSidebarSearchPanel.accesskey "ч">
-<!ENTITY openContextSearchTab.label "Адчыняць устаўку замест вакна для сеціўнага пошуку з кантэкстнага меню">
-<!ENTITY openContextSearchTab.accesskey "у">
 <!ENTITY searchResults.label "Вынікі пошуку">
-<!ENTITY sidebarSearchTabPref.label "Перавагі ўстаўкі пошуку Палічкі">
-<!ENTITY searchModeBasic.label "Базавыя">
-<!ENTITY searchModeBasic.accesskey "Б">
-<!ENTITY searchModeAdvanced.label "Пашыраныя">
-<!ENTITY searchModeAdvanced.accesskey "П">
+<!ENTITY openInTab.label "Адчыняць новыя ўстаўкі для вынікаў пошуку на бакавой палічцы">
+<!ENTITY openInTab.accesskey "н">
+<!ENTITY openSidebarSearchPanel.label "Адчыняць устаўку пошуку на бакавой палічцы, калі вынікі пошуку даступны">
+<!ENTITY openSidebarSearchPanel.accesskey "ч">

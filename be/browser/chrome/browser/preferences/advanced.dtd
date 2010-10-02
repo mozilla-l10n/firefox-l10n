@@ -28,11 +28,13 @@
 <!ENTITY connectionSettings.label "Наладжванні…">
 <!ENTITY connectionSettings.accesskey "л">
 <!ENTITY offlineStorage.label "Пазасеткавае захаванне">
-<!ENTITY useCacheBefore.label "Ужываць да">
-<!ENTITY useCacheBefore.accesskey "У">
-<!ENTITY useCacheAfter.label "МБ прасторы для запасніку">
+<!ENTITY limitCacheSizeBefore.label "Абмежаваць запаснік">
+<!ENTITY limitCacheSizeBefore.accesskey "м">
+<!ENTITY limitCacheSizeAfter.label "МБ прасторы">
 <!ENTITY clearCacheNow.label "Ачысціць зараз">
 <!ENTITY clearCacheNow.accesskey "ч">
+<!ENTITY overrideSmartCacheSize.label "Перахапіць кіраванне запаснікам">
+<!ENTITY overrideSmartCacheSize.accesskey "З">
 <!ENTITY updateTab.label "Абнаўленне">
 <!ENTITY autoCheck.label "Самастойна правяраць, ці існуюць абнаўленні да:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
