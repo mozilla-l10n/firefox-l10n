@@ -90,6 +90,13 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Fshihi Shënimet e Versioni">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Fshihini shënimet e versionit për këtë përditësim">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Çfarë janë Shtesat?">
+<!ENTITY discover.description                 "Shtesat janë zbatime që ju lejojnë të personalizoni Firefox-in përmes funksionesh shtesë ose stili tjetër. Provoni një anështyllë që ju kursen kohë, një njoftues moti, ose një pamje sipas një teme të caktuar, që ta bëni Firefox-in si ta doni.">
+<!ENTITY discover.footer                      "Kur jeni i lidhur në Internet, ky kuadrat do të paraqesë disa nga shtesat më të mira dhe më popullore që të mund t&apos;i provoni.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Përditësuar Së Fundmi">
