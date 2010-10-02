@@ -8,7 +8,7 @@
 <!ENTITY junkMail.intro "Nastavite svoje privzete nastavitve za neželeno pošto. Za račun tipične nastavitve za neželeno pošto se lahko priredi v nastavitvah računa.">
 <!ENTITY manualMark.label "Ko označim sporočila kot neželena:">
 <!ENTITY manualMark.accesskey "L">
-<!ENTITY manualMarkModeMove.label "Jih prestavi v mapo &quot;Neželeno&quot;">
+<!ENTITY manualMarkModeMove.label "Prestavi jih v mapo &quot;Neželeno&quot;">
 <!ENTITY manualMarkModeMove.accesskey "ž">
 <!ENTITY manualMarkModeDelete.label "Jih zbriši">
 <!ENTITY manualMarkModeDelete.accesskey "B">
@@ -33,9 +33,9 @@
 <!ENTITY useMasterPassword.label        "Uporabi glavno geslo">
 <!ENTITY useMasterPassword.accesskey    "U">
 <!ENTITY masterPassword.intro           "Glavno geslo varuje vsa vaša gesla, vendar ga morate vnesti vsaj enkrat na sejo.">
-<!ENTITY changeMasterPassword.label     "Nastavi glavno geslo…">
+<!ENTITY changeMasterPassword.label     "Nastavi glavno geslo …">
 <!ENTITY changeMasterPassword.accesskey "G">
-<!ENTITY savedPasswords.label           "Shranjena gesla…">
+<!ENTITY savedPasswords.label           "Shranjena gesla …">
 <!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
@@ -54,6 +54,6 @@
 <!ENTITY askEachTime.label              "Vsakokrat me vprašaj">
 <!ENTITY cookieExceptions.label         "Izjeme…">
 <!ENTITY cookieExceptions.accesskey     "I">
-<!ENTITY showCookies.label              "Pokaži piškotke…">
+<!ENTITY showCookies.label              "Pokaži piškotke …">
 <!ENTITY showCookies.accesskey          "K">
 

@@ -48,10 +48,10 @@
 <!ENTITY newBlankPageCmd.label "Stran za Composer">
 <!ENTITY newBlankPageCmd.accesskey "C" >
 <!ENTITY newMenu.label "Novo">
-<!ENTITY openFileCmd.label "Odpri datoteko…">
+<!ENTITY openFileCmd.label "Odpri datoteko …">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Odpri spletno mesto…">
+<!ENTITY openRemoteCmd.label "Odpri spletno mesto …">
 <!ENTITY openRemoteCmd.accesskey "s">
 <!ENTITY openRemoteCmd.key "s">
 <!ENTITY fileRecentMenu.label "Nedavne strani">
@@ -61,25 +61,25 @@
 <!ENTITY saveCmd.label "Shrani">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Shrani kot…">
+<!ENTITY saveAsCmd.label "Shrani kot …">
 <!ENTITY saveAsCmd.accesskey "k">
 
 <!ENTITY publishCmd.label "Objavi">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Objavi kot…">
+<!ENTITY publishAsCmd.label "Objavi kot …">
 <!ENTITY publishAsCmd.accesskey "j">
-<!ENTITY exportToTextCmd.label "Izvozi v besedilo…">
+<!ENTITY exportToTextCmd.label "Izvozi v besedilo …">
 <!ENTITY exportToTextCmd.accesskey "I">
 <!ENTITY saveAsChangeEncodingCmd.label "Shrani in spremeni nabor znakov">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "h">
 <!ENTITY previewCmd.label "Brskaj po strani">
 <!ENTITY previewCmd.accesskey "B">
-<!ENTITY sendPageCmd.label "Pošlji stran…">
+<!ENTITY sendPageCmd.label "Pošlji stran …">
 <!ENTITY sendPageCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Priprava strani…">
+<!ENTITY printSetupCmd.label "Priprava strani …">
 <!ENTITY printSetupCmd.accesskey "r">
-<!ENTITY printCmd.label "Natisni…">
+<!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.key "N">
 <!ENTITY closeCmd.label "Zapri">
@@ -94,12 +94,12 @@
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Prilepi kot">
 <!ENTITY pasteAs.accesskey "k">
-<!ENTITY publishSettings.label "Objavi nastavitve strani…">
+<!ENTITY publishSettings.label "Objavi nastavitve strani …">
 <!ENTITY publishSettings.accesskey "O">
 <!ENTITY pasteAsQuotationCmd.label "Prilepi kot citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "r">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Išči in zamenjaj…">
+<!ENTITY findCmd.label "Išči in zamenjaj …">
 <!ENTITY findCmd.accesskey "I">
 <!ENTITY findCmd.key "I">
 <!ENTITY findCmd.key2 "VK_F19">
@@ -122,20 +122,20 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Vstavi">
 <!ENTITY insertMenu.accesskey "V">
-<!ENTITY insertLinkCmd.label "Poveži…">
+<!ENTITY insertLinkCmd.label "Poveži …">
 <!ENTITY insertLinkCmd.accesskey "P ">
 <!ENTITY insertLinkCmd.key "P ">
-<!ENTITY insertAnchorCmd.label "Sidro z imenom…">
+<!ENTITY insertAnchorCmd.label "Sidro z imenom …">
 <!ENTITY insertAnchorCmd.accesskey "S">
-<!ENTITY insertImageCmd.label "Slika…">
+<!ENTITY insertImageCmd.label "Slika …">
 <!ENTITY insertImageCmd.accesskey "l">
 <!ENTITY insertHLineCmd.label "Vodoravna črta">
 <!ENTITY insertHLineCmd.accesskey "V">
-<!ENTITY insertTableCmd.label "Tabela…">
+<!ENTITY insertTableCmd.label "Tabela …">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "Znaki in simboli…">
+<!ENTITY insertCharsCmd.label "Znaki in simboli …">
 <!ENTITY insertCharsCmd.accesskey "Z">
 <!ENTITY insertBreakAllCmd.label "Prelomi pod sliko/slikami">
 <!ENTITY insertBreakAllCmd.accesskey "r">
@@ -146,7 +146,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "P">
 <!ENTITY spellCheckAddToDictionary.label "Dodaj v slovar">
 <!ENTITY spellCheckAddToDictionary.accesskey "D">
-<!ENTITY createLinkCmd.label "Vstavi povezavo…">
+<!ENTITY createLinkCmd.label "Vstavi povezavo …">
 <!ENTITY createLinkCmd.accesskey "V">
 <!ENTITY editLinkCmd.label "Uredi povezavo v novem Composerju">
 <!ENTITY editLinkCmd.accesskey "U">
@@ -248,9 +248,9 @@
 <!ENTITY styleVar.label "Spremenljivo">
 <!ENTITY styleVar.accesskey "r">
 
-<!ENTITY formatFontColor.label "Barva besedila…">
+<!ENTITY formatFontColor.label "Barva besedila …">
 <!ENTITY formatFontColor.accesskey "i">
-<!ENTITY tableOrCellColor.label "Barva ozadja tabele ali celice…">
+<!ENTITY tableOrCellColor.label "Barva ozadja tabele ali celice …">
 <!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "D">
@@ -335,9 +335,9 @@
 <!ENTITY grid.label "Nameščam mrežo">
 <!ENTITY grid.accesskey "a">
 
-<!ENTITY pageProperties.label "Naslov strani in lastnosti…">
+<!ENTITY pageProperties.label "Naslov strani in lastnosti …">
 <!ENTITY pageProperties.accesskey "N">
-<!ENTITY colorsAndBackground.label "Barve strani in ozadja…">
+<!ENTITY colorsAndBackground.label "Barve strani in ozadja …">
 <!ENTITY colorsAndBackground.accesskey "B">
 
 <!-- Table Menu -->
@@ -400,7 +400,7 @@
 <!ENTITY tableSplitCell.accesskey "D">
 <!ENTITY convertToTable.label "Ustvari tabelo iz izbire">
 <!ENTITY convertToTable.accesskey "U">
-<!ENTITY tableProperties.label "Nastavitve tabele…">
+<!ENTITY tableProperties.label "Nastavitve tabele …">
 <!ENTITY tableProperties.accesskey "N">
 
 <!-- Toolbar-only items -->

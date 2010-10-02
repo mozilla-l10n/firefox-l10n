@@ -32,8 +32,8 @@
 <!ENTITY setPriority.label "Nastavi prioriteto na">
 <!ENTITY addTag.label "Označi sporočilo">
 <!ENTITY setJunkScore.label "Nastavi stanje Neželeno na">
-<!ENTITY deleteMessage.label "Zbriši sporočilo">
-<!ENTITY deleteFromPOP.label "Zbriši s strežnika POP3">
+<!ENTITY deleteMessage.label "Izbriši sporočilo">
+<!ENTITY deleteFromPOP.label "Izbriši s strežnika POP3">
 <!ENTITY fetchFromPOP.label "Prenesi s POP strežnika">
 <!ENTITY ignoreThread.label "Prezri nit">
 <!ENTITY ignoreSubthread.label "Prezri podnit">

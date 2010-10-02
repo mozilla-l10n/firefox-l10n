@@ -14,7 +14,7 @@
 <!ENTITY filterHeader.label "Omogočeni filtri se samodejno zaženejo po spodnjem vrstnem redu.">
 <!ENTITY filtersForPrefix.label "Filtri za:">
 <!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Dnevnik za filtre">
+<!ENTITY viewLogButton.label "Dnevnik filtrov">
 <!ENTITY viewLogButton.accesskey "D">
 <!ENTITY runFilters.label "Zaženi zdaj">
 <!ENTITY runFilters.accesskey "Z">
@@ -26,4 +26,4 @@
 <!ENTITY choosethisnewsserver.label "izberi ta strežnik za novice">
 <!ENTITY helpButton.label "Pomoč">
 <!ENTITY helpButton.accesskey "č">
-<!ENTITY closeCmd.key "Z"> 
+<!ENTITY closeCmd.key "W"> 

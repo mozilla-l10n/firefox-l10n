@@ -71,11 +71,11 @@
 <!ENTITY connectionsInfo.caption       "Povezava">
 <!ENTITY offlineInfo.caption           "Brez povezave">
 <!ENTITY offlineInfo.label             "Uredi nastavitve za stanje brez povezave">
-<!ENTITY showOffline.label             "Brez povezave…">
+<!ENTITY showOffline.label             "Brez povezave …">
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "Prostor na disku">
-<!ENTITY offlineCompact.label "Stisni imenike,  kadar bo to prihranilo več kot">
+<!ENTITY offlineCompact.label "Strni mape, kadar to prihrani več kot">
 <!ENTITY offlineCompact.accesskey "a">
 <!ENTITY kb.label "kB">
 

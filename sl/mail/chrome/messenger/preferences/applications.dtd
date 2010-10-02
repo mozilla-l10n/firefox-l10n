@@ -13,7 +13,7 @@
 <!ENTITY saveTo.accesskey             "v">
 <!ENTITY alwaysAsk.label              "Vsakokrat me vprašaj, kam shraniti posamezno datoteko">
 <!ENTITY alwaysAsk.accesskey          "k">
-<!ENTITY chooseFolderWin.label        "Brskaj…">
+<!ENTITY chooseFolderWin.label        "Prebrskaj …">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Izberi…">
+<!ENTITY chooseFolderMac.label        "Izberi …">
 <!ENTITY chooseFolderMac.accesskey    "z">

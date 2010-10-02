@@ -78,7 +78,7 @@
 <!ENTITY imagemapBox.label "Zemljevid slik">
 <!ENTITY removeImageMapButton.label "Odstrani">
 <!ENTITY removeImageMapButton.accessKey "O">
-<!ENTITY editImageMapButton.label "Urejaj…">
+<!ENTITY editImageMapButton.label "Urejaj …">
 <!ENTITY editImageMapButton.tooltip "Ustvari v tej sliki vroče točke za klikanje">
 
 <!-- These are the options for image alignment -->

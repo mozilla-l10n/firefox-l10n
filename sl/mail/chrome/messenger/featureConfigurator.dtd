@@ -10,18 +10,18 @@
 <!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
 <!ENTITY featureConfigurator.para.2 "To stran uporabite za nastavljanje teh novih možnosti. V meniju Pomoč se vedno lahko vrnete nazaj do čarovnika za prehod.">
 
- <!ENTITY featureConfigurator.toolbar.heading "Nova orodna vrstica za sporočila ">
- <!ENTITY featureConfigurator.toolbar.new "Orodna vrstica z gumbi za sporočila ">
- <!ENTITY featureConfigurator.toolbar.new.status.explanation "Orodna vrstica,vam je vedno pri roki, brez nepotrebne navlake, z vsemi gumbi, ki jih za sporočila potrebujete.">
+<!ENTITY featureConfigurator.toolbar.heading "Nova orodna vrstica za sporočila">
+<!ENTITY featureConfigurator.toolbar.new "Orodna vrstica z gumbi za sporočila">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Orodna vrstica vam je vedno na razpolago, brez nepotrebne navlake, z vsemi gumbi, ki jih za sporočila potrebujete.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
 <!ENTITY featureConfigurator.toolbar.original "Pusti gumbe v orodni vrstici, kot so">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Prilagojene gumbe v orodni vrstici obdrži poleg novih.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Sporočilo dejavnosti v zvezi s sporočili, kot odgovor sta na primer odgovor ali posredovanje sporočila, se je preselilo iz orodne vrstice v glavo samega sporočila.  Tako so ti gumbi neposredno vezani na sporočilo, v orodni vrstici pa je več prostora za bogatejše polje za iskanje in pa za razširitve.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Sporočilo dejavnosti v zvezi s sporočili, kot odgovor sta na primer odgovor ali posredovanje sporočila, se je preselilo iz orodne vrstice v glavo samega sporočila. Tako so ti gumbi neposredno vezani na sporočilo, v orodni vrstici pa je več prostora za bogatejše polje za iskanje in pa za razširitve.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
-<!ENTITY featureConfigurator.addOn.installing "Nameščam…">
+<!ENTITY featureConfigurator.addOn.installing "Nameščanje …">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
 <!ENTITY featureConfigurator.addOn.installed "Nameščeno">
@@ -30,34 +30,34 @@
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Ta razširitev je že nameščena.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.heading): The heading for the Compact Header page. -->
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Zgoščena glava">
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Strnjena glava">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.weak): The paragraph to display if the user hadn't previously used the collapsed headers feature. -->
-<!ENTITY featureConfigurator.collapsedHeaders.para.weak "Bralec kompaktnih sporočil smo prestavili med razširitve, kjer uživa sedaj veliko več pozornosti in možnosti.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "Bralec strnjenih sporočil smo prestavili med razširitve, kjer uživa sedaj veliko več pozornosti in možnosti.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
-<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Opazili smo, da uporabljate zgoščeno glavo za branje sporočil.  To funkcijo smo spremenili v razširitev in če jo želite še naprej uporabljati, vam priporočamo, da si jo namestite.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Opazili smo, da uporabljate strnjeno glavo za branje sporočil. To funkcijo smo spremenili v razširitev in če jo želite še naprej uporabljati, vam priporočamo, da si jo namestite.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
-<!ENTITY featureConfigurator.collapsedHeaders.install "namesti zgoščeno glavo…">
+<!ENTITY featureConfigurator.collapsedHeaders.install "Namesti strnjeno glavo …">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.heading): The heading for the Folder Columns page. -->
 <!ENTITY featureConfigurator.folderColumns.heading "Napredni stolpci za mape">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.weak "Namesto napredne možnosti, ki je bila na voljo doslej, se lahko odslej uporablja Razširitev Dodatni stolpci za mape.  Če želite zadržati nadzor nad točnim število sporočil in prostora na disku za vsako mapo, vam bo ta razširitev prišla prav.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "Namesto napredne možnosti, ki je bila na voljo doslej, se lahko odslej uporablja razširitev Dodatni stolpci za mape. Če želite zadržati nadzor nad točnim številom sporočil in prostora na disku za vsako mapo, vam bo ta razširitev prišla prav.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.strong "Opazili smo, da uporabljate Napredne stolpci za mape  To funkcijo smo spremenili v razširitev in če jo želite še naprej uporabljati, vam priporočamo, da si jo namestite.">
+<!ENTITY featureConfigurator.folderColumns.para.strong "Opazili smo, da uporabljate Napredne stolpci za mape. To funkcijo smo spremenili v razširitev in če jo želite še naprej uporabljati, vam priporočamo, da si jo namestite.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
-<!ENTITY featureConfigurator.folderColumns.install "Namesti  Dodatne stolpce…">
+<!ENTITY featureConfigurator.folderColumns.install "Namesti Dodatne stolpce …">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
 <!ENTITY featureConfigurator.autoSync.heading "Prostor na disku">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
-<!ENTITY featureConfigurator.autoSync.para " Ta nova različica &brandShortName; vam nudi nove, izboljšane možnosti za iskanje.  Da si novo iskanje lahko ogledate, boste morali sinhronizirati e-poštna sporočila.">
+<!ENTITY featureConfigurator.autoSync.para " Ta nova različica &brandShortName; vam nudi nove, izboljšane možnosti za iskanje. Da si novo iskanje lahko ogledate, boste morali sinhronizirati e-poštna sporočila.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
 <!ENTITY featureConfigurator.autoSync.on "Sinhroniziraj">
@@ -65,17 +65,17 @@
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
 <!ENTITY featureConfigurator.autoSync.off "Ne sinhroniziraj">
-<!ENTITY featureConfigurator.autoSync.off.explanation "To bo pomenilo počasnejše nalaganje sporočil  in nepopolnerezultate iskanja.">
+<!ENTITY featureConfigurator.autoSync.off.explanation "To bo pomenilo počasnejše nalaganje sporočil in nepopolne rezultate iskanja.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
- <!ENTITY featureConfigurator.autoSync.some "Sinhronizacija ločeno po računih">
+<!ENTITY featureConfigurator.autoSync.some "Sinhronizacija ločeno po računih">
 <!ENTITY featureConfigurator.autoSync.some.explanation "Prilagodite svoje nastavitve za sinhronizacijo ločeno po računih in mapah.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
- <!ENTITY featureConfigurator.diskSpace.currentSize "Vaša trenutna skupna poraba za E-pošto: ">
+<!ENTITY featureConfigurator.diskSpace.currentSize "Vaša trenutna skupna poraba za E-pošto:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.freeSpace): The label for the current amount of free space available on your hard disk. -->
-<!ENTITY featureConfigurator.diskSpace.freeSpace "Prost prostor na disk:">
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Na razpolago:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
 <!ENTITY featureConfigurator.diskSpace.requireSpace "Potrebno:">

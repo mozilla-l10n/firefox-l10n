@@ -84,7 +84,7 @@
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Vaš odhodni (SMTP) strežnik, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;,  je enak vašemu dohodnemu strežniku, za dostop se bo uporabljalo vaše vhodno uporabniško ime. Odhodne strežnike lahko spremenite v nastavitvah računa.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, je enak vašemu dohodnemu strežniku, za dostop se bo uporabljalo vaše vhodno uporabniško ime. Odhodne strežnike lahko spremenite v nastavitvah računa.">
 
 <!-- Entities for Account name page -->
 
@@ -107,5 +107,5 @@
 <!ENTITY deferStorageDesc.label "Zbrišite kljuko v tem polju, če želite pošto za ta račun shranjevati v svojem lastnem imeniku. Tako bo ta račun prikazan kot račun na najvišji ravni. Drugače bo del računa Lokalne mape Globalno Vhodni predal">
 <!ENTITY deferStorage.label "Uporabljajo globalni vhodni predal (pošto shranjuj v lokalne mape)">
 <!ENTITY deferStorage.accesskey "o">
-<!ENTITY clickFinish.label "Kliknite Dokončaj, da shranite nastavitve in čarovnika za račun zaprete.">
-<!ENTITY clickFinish.labelMac "Kliknite Končano, da shranite te nastavitve in zaprete čarovnika za račun.">
+<!ENTITY clickFinish.label "S klikom na Dokončaj shranite nastavitve in zaprite čarovnika za račun.">
+<!ENTITY clickFinish.labelMac "S klikom na Končano shranite te nastavitve in zaprite čarovnika za račun.">
