@@ -11,11 +11,11 @@
 <!ENTITY digitalSign.certificate.button "Izberi…">
 <!ENTITY digitalSign.certificate.accesskey "I">
 <!ENTITY digitalSign.certificate_clear.button "Pobriši">
-<!ENTITY digitalSign.certificate_clear.accesskey "z">
-<!ENTITY encryption.certificate.button "Izberi…">
+<!ENTITY digitalSign.certificate_clear.accesskey "b">
+<!ENTITY encryption.certificate.button "Izberi …">
 <!ENTITY encryption.certificate.accesskey "n">
 <!ENTITY encryption.certificate_clear.button "Pobriši">
-<!ENTITY encryption.certificate_clear.accesskey "s">
+<!ENTITY encryption.certificate_clear.accesskey "š">
 <!ENTITY signingGroupTitle.label "Digitalno podpisovanje">
 <!ENTITY signMessage.label "Digitalno podpiši sporočila (privzeto)">
 <!ENTITY signMessage.accesskey "D">

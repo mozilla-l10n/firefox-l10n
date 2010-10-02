@@ -50,6 +50,6 @@
 <!ENTITY server.accesskey             "N">
 <!ENTITY subscribedHeader.label       "Naroči se">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Messages"> -->
+<!ENTITY messagesHeader.label         "Sporočila"> -->
 <!ENTITY namefield.label              "Pokaži elemente, ki vsebujejo:">
 <!ENTITY namefield.accesskey          "O">

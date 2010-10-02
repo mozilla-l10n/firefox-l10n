@@ -4,5 +4,5 @@
 <!ENTITY addKeywordButton.accesskey       "N">
 <!ENTITY editKeywordButton.label          "Uredi">
 <!ENTITY editKeywordButton.accesskey      "U">
-<!ENTITY removeKeywordButton.label        "Zbriši">
+<!ENTITY removeKeywordButton.label        "Izbriši">
 <!ENTITY removeKeywordButton.accesskey    "D">

@@ -6,7 +6,7 @@
 <!ENTITY subscribeNewsLink.label      "Naroči se na novičarske skupine"> 
 
 <!ENTITY accountsSectionHdr.label     "Računi"> 
-<!ENTITY subscribeImapFolders.label   "Naroči se na imenike">
+<!ENTITY subscribeImapFolders.label   "Obdelaj naročnine na mape">
 <!ENTITY settingsLink.label           "Pokaži nastavitve za ta račun"> 
 <!ENTITY newAcctLink.label            "Ustvari nov račun"> 
 

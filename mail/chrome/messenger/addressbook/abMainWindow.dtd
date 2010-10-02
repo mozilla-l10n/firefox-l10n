@@ -4,15 +4,15 @@
 <!ENTITY fileMenu.label                                 "Datoteka">
 <!ENTITY fileMenu.accesskey                             "D">
 <!ENTITY newMenu.label                                  "Novo">
-<!ENTITY newMenu.accesskey                              "I">
-<!ENTITY newContact.label                               "Vizitka z naslovom…">
+<!ENTITY newMenu.accesskey                              "N">
+<!ENTITY newContact.label                               "Stik iz adresarja …">
 <!ENTITY newContact.accesskey                           "z">
 <!ENTITY newContact.key                                 "I">
-<!ENTITY newListCmd.label                               "Poštni seznam…">
+<!ENTITY newListCmd.label                               "Poštni seznam …">
 <!ENTITY newListCmd.accesskey                           "m">
 <!ENTITY newAddressBookCmd.label                        "Adresar…">
 <!ENTITY newAddressBookCmd.accesskey                    "A">
-<!ENTITY newLDAPDirectoryCmd.label                      "Imenik LDAP…">
+<!ENTITY newLDAPDirectoryCmd.label                      "Imenik LDAP …">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Sporočilo">
 <!ENTITY newMessageCmd.key                              "M">
@@ -21,19 +21,19 @@
 <!ENTITY osxAddressBook.label                           "Uporabi Mac OS X Adresar">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Zapri">
-<!ENTITY closeCmd.key                                   "L">
-<!ENTITY closeCmd.accesskey                             "u">
+<!ENTITY closeCmd.key                                   "X">
+<!ENTITY closeCmd.accesskey                             "H">
 <!ENTITY printSetupCmd.label                            "Nastavitve strani…">
-<!ENTITY printSetupCmd.accesskey                        "o">
+<!ENTITY printSetupCmd.accesskey                        "N">
 <!ENTITY printPreviewContactCmd.label                   "Predogled tiskanja za stik">
-<!ENTITY printPreviewContactCmd.accesskey               "p">
+<!ENTITY printPreviewContactCmd.accesskey               "T">
 <!ENTITY printPreviewAddressBook.label                  "Predogled tiskanja adresarja">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
+<!ENTITY printPreviewAddressBook.accesskey              "T">
 <!ENTITY printContactCmd.label                          "Natisni stik…">
-<!ENTITY printContactCmd.accesskey                      "S">
-<!ENTITY printContactCmd.key                            "t">
-<!ENTITY printAddressBook.label                         "Natisni adresar…">
-<!ENTITY printAddressBook.accesskey                     "N">
+<!ENTITY printContactCmd.accesskey                      "T">
+<!ENTITY printContactCmd.key                            "P">
+<!ENTITY printAddressBook.label                         "Natisni adresar …">
+<!ENTITY printAddressBook.accesskey                     "T">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Uredi">
@@ -53,14 +53,14 @@
 <!ENTITY pasteCmd.label                                 "Prilepi">
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "r">
-<!ENTITY deleteCmd.label                                "Zbriši">
-<!ENTITY deleteCmd.accesskey                            "p">
-<!ENTITY deleteAbCmd.label                              "Zbriši adresar">
-<!ENTITY deleteContactCmd.label                         "Zbriši stik">
-<!ENTITY deleteContactsCmd.label                        "Zbriši stike">
-<!ENTITY deleteListCmd.label                            "Zbriši seznam">
-<!ENTITY deleteListsCmd.label                           "Zbriši sezname">
-<!ENTITY deleteItemsCmd.label                           "Zbriši postavke">
+<!ENTITY deleteCmd.label                                "Izbriši">
+<!ENTITY deleteCmd.accesskey                            "B">
+<!ENTITY deleteAbCmd.label                              "Izbriši adresar">
+<!ENTITY deleteContactCmd.label                         "Izbriši stik">
+<!ENTITY deleteContactsCmd.label                        "Izbriši stike">
+<!ENTITY deleteListCmd.label                            "Izbriši seznam">
+<!ENTITY deleteListsCmd.label                           "Izbriši sezname">
+<!ENTITY deleteItemsCmd.label                           "Izbriši postavke">
 <!ENTITY selectAllCmd.label                             "Izberi vse">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "I">
@@ -70,7 +70,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Lastnosti…">
+<!ENTITY propertiesCmd.label                            "Lastnosti …">
 <!ENTITY propertiesCmd.accesskey                        "L">
 <!ENTITY propertiesCmd.key                              "L">
 
@@ -104,13 +104,13 @@
 <!ENTITY messengerCmd.label                             "Pošta in novičarske skupine">
 <!ENTITY messengerCmd.accesskey                         "s">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Išči po naslovih…">
+<!ENTITY searchAddressesCmd.label                       "Išči v naslovih …">
 <!ENTITY searchAddressesCmd.accesskey                   "N">
-<!ENTITY importCmd.label                                "Uvozi…">
+<!ENTITY importCmd.label                                "Uvozi …">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Izvozi…">
+<!ENTITY exportCmd.label                                "Izvozi …">
 <!ENTITY exportCmd.accesskey                            "i">
-<!ENTITY preferencesCmd.label                           "Možnosti…">
+<!ENTITY preferencesCmd.label                           "Možnosti …">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey                   "o">
@@ -126,7 +126,7 @@
 <!ENTITY newmsgButton.accesskey                         "L">
 <!ENTITY newIM.label                                    "Hitro sporočilo">
 <!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton2.label                            "Zbriši">
+<!ENTITY deleteButton2.label                            "Izbriši">
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
@@ -135,7 +135,7 @@
 <!ENTITY editButton2.tooltip                            "Uredi izbrani predmet">
 <!ENTITY newmsgButton.tooltip                           "Pošlji poštno sporočilo">
 <!ENTITY newIM.tooltip                                  "Pošlji neposredno sporočilo ali internetni klepet">
-<!ENTITY deleteButton2.tooltip                           "Zbriši izbrano postavko">
+<!ENTITY deleteButton2.tooltip                          "Izbriši izbrano postavko">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Adresarji">

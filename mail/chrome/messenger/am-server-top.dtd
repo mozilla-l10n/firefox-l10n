@@ -46,7 +46,7 @@
 <!ENTITY modelDeleteImmediately.label "Odstrani ga takoj">
 <!ENTITY modelDeleteImmediately.accesskey "B">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Počisti (&quot;zbriši&quot;) Prejeto ob izhodu">
+<!ENTITY expungeOnExit.label "Počisti (&quot;izbriši&quot;) Prejeto ob izhodu">
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Ob izhodu izprazni koš">
 <!ENTITY emptyTrashOnExit.accesskey "X">
@@ -71,8 +71,8 @@
 <!ENTITY advancedButton.accesskey "p">
 <!ENTITY serverDefaultCharset.label "Privzeti nabor znakov:">
 <!ENTITY localFolderPicker.label "Izberi lokalni imenik">
-<!ENTITY browseFolder.label "Brskaj…">
+<!ENTITY browseFolder.label "Prebrskaj…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Izberi datoteko newsrc">
-<!ENTITY browseNewsrc.label "Brskaj…">
+<!ENTITY browseNewsrc.label "Prebrskaj…">
 <!ENTITY browseNewsrc.accesskey "j">

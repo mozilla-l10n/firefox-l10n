@@ -1,7 +1,7 @@
 <!ENTITY offlineDialog.title "Nastavitve za stanje brez povezave">
 
 <!ENTITY textStartUp "Ob zagonu:">
-<!ENTITY radioRememberPrevState.label "Pomni prejšnje stanje povezave">
+<!ENTITY radioRememberPrevState.label "Zapomni si prejšnje stanje povezave">
 <!ENTITY radioRememberPrevState.accesskey "P">
 <!ENTITY radioAskMe.label "Ob zagonu me vprašaj za stanje povezave">
 <!ENTITY radioAskMe.accesskey "o">

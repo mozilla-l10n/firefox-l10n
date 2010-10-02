@@ -43,8 +43,8 @@
 
 <!ENTITY subjectField2.label "zadeva ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
+<!ENTITY ccField2.label "cc">
+<!ENTITY bccField2.label "bcc">
 <!ENTITY newsgroupsField2.label "novičarske skupine ">
 <!ENTITY followupToField2.label "nadaljnje delo-za ">
 <!ENTITY tagsHdr2.label "oznake ">
@@ -56,21 +56,21 @@
 <!ENTITY originalWebsite2.label "spletna stran ">
 
 <!ENTITY editMessageDescription.label "To je osnutek sporočila">
-<!ENTITY editMessageButton.label "Urejaj…">
-<!ENTITY hdrArchiveButton.label "arhiv">
+<!ENTITY editMessageButton.label "Urejaj …">
+<!ENTITY hdrArchiveButton.label "arhiviraj">
 <!ENTITY hdrArchiveButton.tooltip "arhiviraj to sporočilo">
 <!ENTITY hdrReplyButton.label "odgovori">
 <!ENTITY hdrReplyButton.tooltip "odgovori na to sporočilo">
 <!ENTITY hdrReplyAllButton.label "odgovori vsem">
 <!ENTITY hdrReplyAllButton.tooltip "odgovori pošiljatelju in vsem prejemnikom">
-<!ENTITY hdrReplyListButton.label "seznam za odgovore">
-<!ENTITY hdrReplyListButton.tooltip "odgovori na poštni seznam">
+ <!ENTITY hdrReplyListButton.label "odgovori po seznamu">
+<!ENTITY hdrReplyListButton.tooltip "odgovori po poštnem seznamu">
 <!ENTITY hdrForwardButton.label "posreduj">
 <!ENTITY hdrForwardButton.tooltip "posreduj to sporočilo">
 <!ENTITY hdrJunkButton.label "neželeno">
 <!ENTITY hdrJunkButton.tooltip "označi to sporočilo kot neželeno">
-<!ENTITY hdrTrashButton.label "zbriši">
-<!ENTITY hdrTrashButton.tooltip "Zbriši to sporočilo">
+<!ENTITY hdrTrashButton.label "izbriši">
+<!ENTITY hdrTrashButton.tooltip "izbriši to sporočilo">
 
 <!ENTITY hdrViewToolbarShowFull.label "Pokaži ikone in besedilo">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
@@ -83,33 +83,33 @@
 
 <!ENTITY otherActionsButton.label "drugi ukrepi">
 <!ENTITY otherActionsOpenConversation.label "odpri kot pogovor">
-<!ENTITY otherActionsOpenConversation.accesskey "u">
+<!ENTITY otherActionsOpenConversation.accesskey "o">
 <!ENTITY otherActionsOpenInNewWindow.label "odpri v novem oknu">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "o">
 <!ENTITY otherActionsOpenInNewTab.label "odpri v novem zavihku">
-<!ENTITY otherActionsOpenInNewTab.accesskey "n">
+<!ENTITY otherActionsOpenInNewTab.accesskey "o">
 <!ENTITY markAsReadMenuItem.label "označi kot prebrano">
-<!ENTITY markAsReadMenuItem.accesskey "b">
+<!ENTITY markAsReadMenuItem.accesskey "p">
 <!ENTITY markAsUnreadMenuItem.label "označi kot neprebrano">
-<!ENTITY markAsUnreadMenuItem.accesskey "b">
+<!ENTITY markAsUnreadMenuItem.accesskey "n">
 <!ENTITY saveAsMenuItem.label "shrani kot…">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "pokaži izvor">
-<!ENTITY viewSourceMenuItem.accesskey "p">
-<!ENTITY otherActionsPrint.label "natisni…">
-<!ENTITY otherActionsPrint.accesskey "V">
+<!ENTITY viewSourceMenuItem.accesskey "i">
+<!ENTITY otherActionsPrint.label "natisni …">
+<!ENTITY otherActionsPrint.accesskey "T">
 
 <!ENTITY openAttachmentCmd.label    "Odpri">
 <!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Shrani kot…">
+<!ENTITY saveAsAttachmentCmd.label    "Shrani kot …">
 <!ENTITY saveAsAttachmentCmd.accesskey    "N">
 <!ENTITY detachAttachmentCmd.label    "Odpni…">
 <!ENTITY deleteAttachmentCmd.label    "Zbriši">
-<!ENTITY saveAllAttachmentsCmd.label    "Shrani vse…">
+<!ENTITY saveAllAttachmentsCmd.label    "Shrani vse …">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "b">
-<!ENTITY detachAllAttachmentsCmd.label    "Odpni vse…">
+<!ENTITY detachAllAttachmentsCmd.label    "Odpni vse …">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
-<!ENTITY deleteAllAttachmentsCmd.label    "Zbriši vse…">
+<!ENTITY deleteAllAttachmentsCmd.label    "Zbriši vse …">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label        "Kopiraj mesto povezave">

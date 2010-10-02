@@ -57,17 +57,17 @@
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dni">
 <!ENTITY message.label "sporočil">
-<!ENTITY retentionCleanup.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila.">
-<!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila, lokalna in sporočila na oddaljenem strežniku.">
-<!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila, vključno z originali na oddaljenem strežniku.">
-<!ENTITY retentionDeleteMsg.label "Zbriši sporočila starejša kot">
+<!ENTITY retentionCleanup.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila.">
+<!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, lokalna in sporočila na oddaljenem strežniku.">
+<!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, vključno z originali na oddaljenem strežniku.">
+<!ENTITY retentionDeleteMsg.label "Izbriši sporočila starejša kot">
 <!ENTITY retentionDeleteMsg.accesskey "B">
-<!ENTITY retentionKeepAll.label "Ne zbriši nobenih sporočil">
+<!ENTITY retentionKeepAll.label "Ne izbriši nobenih sporočil">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepRecent.label "Zbriši vse, razen najnovejših">
+<!ENTITY retentionKeepRecent.label "Izbriši vse, razen najnovejših">
 <!ENTITY retentionKeepRecent.accesskey "s">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Vedno zbriši prebrana sporočila (razveljavi nastavitve o starosti)">
+<!ENTITY retentionKeepUnreadHidden.label "Vedno izbriši prebrana sporočila (razveljavi nastavitve o starosti)">
 <!ENTITY retentionApplyToFlagged.label "Vedno ohrani označena sporočila">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
@@ -91,7 +91,7 @@
 <!ENTITY folderProps.location.accesskey          "m">
 
 <!ENTITY folderSharingTab.label                  "Skupna raba">
-<!ENTITY privileges.button.label                 "Privilegiji…">
+<!ENTITY privileges.button.label                 "Privilegiji …">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Imate naslednja dovoljenja:">
 <!ENTITY folderType.label                        "Vrsta mape:">

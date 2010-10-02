@@ -15,7 +15,7 @@
 <!ENTITY nntpDownloadMsg.label "Sporočila večja kot">
 <!ENTITY nntpDownloadMsg.accesskey "s">
 <!ENTITY retentionCleanup.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila.">
-<!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila, lokalna in sporočila na oddaljenem strežniku.">
+<!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila, lokalno in na oddaljenem strežniku.">
 <!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če trajno zbrišete stara sporočila, vključno z originali na oddaljenem strežniku.">
 <!ENTITY retentionKeepMsg.label "Zbriši sporočila starejša kot">
 <!ENTITY retentionKeepMsg.accesskey "n">
@@ -31,7 +31,7 @@
 <!ENTITY nntpRemoveMsgBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Izberi novičarske skupine za delo brez povezave…">
 <!ENTITY offlineSelectNntp.accesskey "b">
-<!ENTITY offlineImapAdvancedOffline.label "Napredno…">
+<!ENTITY offlineImapAdvancedOffline.label "Napredno …">
 <!ENTITY offlineImapAdvancedOffline.accesskey "p">
 <!ENTITY syncGroupTitle.label "Sinhronizacija sporočil">
 <!ENTITY diskspaceGroupTitle.label "Prostor na disku">

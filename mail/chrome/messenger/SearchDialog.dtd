@@ -6,7 +6,7 @@
 <!ENTITY searchOnServer.label        "Sproži iskanje na strežniku">
 <!ENTITY searchOnServer.accesskey    "o">
 <!ENTITY resetButton.label           "Pobriši">
-<!ENTITY resetButton.accesskey       "z">
+<!ENTITY resetButton.accesskey       "b">
 <!ENTITY openButton.label            "Odpri">
 <!ENTITY openButton.accesskey        "o">
 <!ENTITY deleteButton.label          "Zbriši">
@@ -17,7 +17,7 @@
 <!ENTITY fileHereMenu.accesskey      "D">
 <!ENTITY fileButton.label            "Datoteka">
 <!ENTITY fileButton.accesskey        "L">
-<!ENTITY closeCmd.key                "L"> 
+<!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Odpri v mapi">
 <!ENTITY openInFolder.accesskey      "b">
 <!ENTITY saveAsVFButton.label        "Shrani kot iskalno mapo">

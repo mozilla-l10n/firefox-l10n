@@ -1,21 +1,22 @@
 <!ENTITY messengerWindow.title "Pošta in novičarske skupine">
+<!ENTITY messengerWindow.title "Pošta in novičarske skupine">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "Mapa…">
+<!ENTITY newFolderCmd.label "Mapa …">
 <!ENTITY newFolderCmd.accesskey "M">
 <!ENTITY closeTabCmd.label "Zapri zavihek">
 <!ENTITY closeTabCmd.accesskey "z">
 <!ENTITY closeOtherTabsCmd.label "Zapri druge zavihke">
 <!ENTITY closeOtherTabsCmd.accesskey "Z">
-<!ENTITY newVirtualFolderCmd.label "Shranjeno iskanje…">
+<!ENTITY newVirtualFolderCmd.label "Shranjeno iskanje …">
 <!ENTITY newVirtualFolderCmd.accesskey "h">
-<!ENTITY newOtherAccountsCmd.label "Drugi računi…">
+<!ENTITY newOtherAccountsCmd.label "Drugi računi …">
 <!ENTITY newOtherAccountsCmd.accesskey "D">
-<!ENTITY newEmailAccountCmd.label "Poštni račun…">
+<!ENTITY newEmailAccountCmd.label "Poštni račun …">
 <!ENTITY newEmailAccountCmd.accesskey "R">
-<!ENTITY openMessageFileCmd.label "Odpri shranjeno sporočilo…">
+<!ENTITY openMessageFileCmd.label "Odpri shranjeno sporočilo …">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Priponke">
 <!ENTITY openAttachmentCmd.accesskey "K">
@@ -26,7 +27,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Predloga">
 <!ENTITY saveAsTemplateCmd.accesskey "P">
-<!ENTITY getNewMsgCmd.key "n">
+<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Prejmi nova sporočila za">
 <!ENTITY getNewMsgForCmd.accesskey "r">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Vse račune">
@@ -37,14 +38,14 @@
 <!ENTITY getNextNMsgCmd.accesskey "n">
 <!ENTITY sendUnsentCmd.label "Pošlji neposlana sporočila">
 <!ENTITY sendUnsentCmd.accesskey "p">
-<!ENTITY subscribeCmd.label "Naroči se…">
+<!ENTITY subscribeCmd.label "Naroči se …">
 <!ENTITY subscribeCmd.accesskey "i">
-<!ENTITY deleteFolder.label "Zbriši mapo">
+<!ENTITY deleteFolder.label "Izbriši mapo">
 <!ENTITY deleteFolder.accesskey "b">
-<!ENTITY renameFolder.label "Preimenuj mapo…">
+<!ENTITY renameFolder.label "Preimenuj mapo …">
 <!ENTITY renameFolder.accesskey "P">
 <!ENTITY renameFolder.key "VK_F2">
-<!ENTITY compactFolders.label "Zgosti mape">
+<!ENTITY compactFolders.label "Strni mape">
 <!ENTITY compactFolders.accesskey    "g">
 <!ENTITY emptyTrashCmd.label "Izprazni koš">
 <!ENTITY emptyTrashCmd.accesskey    "n">
@@ -52,36 +53,36 @@
 <!ENTITY offlineMenu.accesskey "B">
 <!ENTITY offlineGoOfflineCmd.label "Delaj brez povezave">
 <!ENTITY offlineGoOfflineCmd.accesskey "B">
-<!ENTITY synchronizeOfflineCmd.label "Prenesi/sinhroniziraj zdaj…">
+<!ENTITY synchronizeOfflineCmd.label "Prenesi/sinhroniziraj zdaj …">
 <!ENTITY synchronizeOfflineCmd.accesskey "z">
-<!ENTITY settingsOfflineCmd.label "Nastavitve za nepovezan način…">
+<!ENTITY settingsOfflineCmd.label "Nastavitve za nepovezan način …">
 <!ENTITY settingsOfflineCmd.accesskey "n">
 <!ENTITY downloadSelectedCmd.label "Prenesi izbrana sporočila">
 <!ENTITY downloadSelectedCmd.accesskey "s">
 <!ENTITY downloadStarredCmd.label "Prejmi sporočila z zvezdico">
 <!ENTITY downloadStarredCmd.accesskey "z">
-<!ENTITY printCmd.label "Natisni…">
-<!ENTITY printCmd.accesskey "T">
-<!ENTITY printCmd.key "T">
+<!ENTITY printCmd.label "Natisni …">
+<!ENTITY printCmd.accesskey "t">
+<!ENTITY printCmd.key "P">
 <!ENTITY printPreviewCmd.label "Predogled tiskanja">
 <!ENTITY printPreviewCmd.accesskey "p">
-<!ENTITY printSetupCmd.label "Nastavitve strani…">
+<!ENTITY printSetupCmd.label "Nastavitve strani …">
 <!ENTITY printSetupCmd.accesskey "N">
 
 <!-- Edit Menu -->
-<!ENTITY deleteMsgCmd.label "Zbriši sporočilo">
+<!ENTITY deleteMsgCmd.label "Izbriši sporočilo">
 <!ENTITY deleteMsgCmd.accesskey "B">
 <!ENTITY undeleteMsgCmd.label "Obnovi zbrisano sporočilo">
 <!ENTITY undeleteMsgCmd.accesskey "O">
 <!ENTITY cancelNewsMsgCmd.label "Prekliči sporočilo">
 <!ENTITY cancelNewsMsgCmd.accesskey "P">
-<!ENTITY deleteMsgsCmd.label "Zbriši izbrana sporočila">
+<!ENTITY deleteMsgsCmd.label "Izbriši izbrana sporočila">
 <!ENTITY deleteMsgsCmd.accesskey "B">
 <!ENTITY undeleteMsgsCmd.label "Obnovi izbrana sporočila">
 <!ENTITY undeleteMsgsCmd.accesskey "i">
 <!ENTITY cancelNewsMsgsCmd.label "Prekliči izbrana sporočila">
 <!ENTITY cancelNewsMsgsCmd.accesskey "Q">
-<!ENTITY deleteFolderCmd.label "Zbriši mapo">
+<!ENTITY deleteFolderCmd.label "Izbriši mapo">
 <!ENTITY deleteFolderCmd.accesskey "M">
 <!ENTITY unsubscribeNewsgroupCmd.label "Odjavi naročnino">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "o">
@@ -96,12 +97,12 @@
 <!ENTITY selectFlaggedCmd.accesskey "z">
 <!ENTITY menuFavoriteFolder.label "Priljubljena mapa">
 <!ENTITY menuFavoriteFolder.accesskey "l">
-<!ENTITY folderPropsCmd.label "Lastnosti…">
-<!ENTITY folderPropsFolderCmd.label "Lastnosti mape…">
-<!ENTITY folderPropsNewsgroupCmd.label "Lastnosti novičarske skupine…">
+<!ENTITY folderPropsCmd.label "Lastnosti …">
+<!ENTITY folderPropsFolderCmd.label "Lastnosti mape …">
+<!ENTITY folderPropsNewsgroupCmd.label "Lastnosti novičarske skupine …">
 <!ENTITY folderPropsCmd.accesskey "S">
-<!ENTITY undoDeleteMsgCmd.label "Razveljavi brisanje sporočila">
-<!ENTITY redoDeleteMsgCmd.label "Uveljavi brisanje sporočila">
+<!ENTITY undoDeleteMsgCmd.label "Razveljavi izbris sporočila">
+<!ENTITY redoDeleteMsgCmd.label "Uveljavi izbris sporočila">
 <!ENTITY undoMoveMsgCmd.label "Razveljavi premik sporočila">
 <!ENTITY redoMoveMsgCmd.label "Uveljavi premik sporočila">
 <!ENTITY undoCopyMsgCmd.label "Razveljavi kopiranje sporočila">
@@ -116,7 +117,7 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Orodna vrstica za pošto">
 <!ENTITY showMessengerToolbarCmd.accesskey "O">
-<!ENTITY customizeToolbar.label "Prilagodi…">
+<!ENTITY customizeToolbar.label "Prilagodi …">
 <!ENTITY customizeToolbar.accesskey "P">
 
 <!ENTITY messagePaneLayoutStyle.label "Postavitev">
@@ -144,7 +145,7 @@
 <!ENTITY recentFolders.accesskey "O">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label "Razvrsti po pojmu">
+<!ENTITY sortMenu.label "Razvrsti po">
 <!ENTITY sortMenu.accesskey "R">
 <!ENTITY sortByDateCmd.label "Datum">
 <!ENTITY sortByDateCmd.accesskey "D">
@@ -166,7 +167,7 @@
 <!ENTITY sortByJunkStatusCmd.accesskey "ž">
 <!ENTITY sortBySubjectCmd.label "Zadeva">
 <!ENTITY sortBySubjectCmd.accesskey "Z">
-<!ENTITY sortByFromCmd.label "Od koga">
+<!ENTITY sortByFromCmd.label "Od">
 <!ENTITY sortByFromCmd.accesskey "k">
 <!ENTITY sortByRecipientCmd.label "Prejemnik">
 <!ENTITY sortByRecipientCmd.accesskey "m">
@@ -215,7 +216,7 @@
 <!ENTITY bodyMenu.accesskey "B">
 <!ENTITY bodyAllowHTML.label "Izvorni HTML">
 <!ENTITY bodyAllowHTML.accesskey "I">
-<!ENTITY bodySanitized.label "Poenostavljeni HTML">
+<!ENTITY bodySanitized.label "Enostaven HTML">
 <!ENTITY bodySanitized.accesskey "P">
 <!ENTITY bodyAsPlaintext.label "Golo besedilo">
 <!ENTITY bodyAsPlaintext.accesskey "G">
@@ -261,24 +262,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageSourceCmd.label "Izvor besedila">
 <!ENTITY pageSourceCmd.accesskey "I">
-<!ENTITY pageSourceCmd.key "o">
+<!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Poišči">
 <!ENTITY findMenu.accesskey "P">
-<!ENTITY findCmd.label "Poišči v tem sporočilu…">
+<!ENTITY findCmd.label "Poišči v tem sporočilu …">
 <!ENTITY findCmd.accesskey "V">
-<!ENTITY findCmd.key "D">
+<!ENTITY findCmd.key "F">
 <!ENTITY findAgainCmd.label "Ponovno poišči">
 <!ENTITY findAgainCmd.accesskey "p">
-<!ENTITY findAgainCmd.key "p">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "v">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Išči po sporočilih…">
+<!ENTITY searchMailCmd.label "Poišči po sporočilih …">
 <!ENTITY searchMailCmd.accesskey "s">
-<!ENTITY searchMailCmd.key "I">
-<!ENTITY searchAddressesCmd.label "Išči po naslovih…">
+<!ENTITY searchMailCmd.key "G">
+<!ENTITY searchAddressesCmd.label "Poišči po naslovih …">
 <!ENTITY searchAddressesCmd.accesskey "N">
 
 <!-- Go Menu -->
@@ -328,20 +329,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Odgovori">
 <!ENTITY replyMsgCmd.accesskey "G">
-<!ENTITY replyMsgCmd.key  "b">
+<!ENTITY replyMsgCmd.key  "R">
 <!ENTITY replySenderCmd.label "Odgovori samo pošiljatelju">
 <!ENTITY replySenderCmd.accesskey "P">
 <!ENTITY replyNewsgroupCmd.label "Odgovori novičarski skupini">
 <!ENTITY replyNewsgroupCmd.accesskey  "n">
 <!ENTITY replyToAllMsgCmd.label "Odgovori vsem">
 <!ENTITY replyToAllMsgCmd.accesskey  "V">
-<!ENTITY replyToAllMsgCmd.key  "b">
+<!ENTITY replyToAllMsgCmd.key  "R">
 <!ENTITY replyToListMsgCmd.label "Odgovori po seznamu">
 <!ENTITY replyToListMsgCmd.accesskey  "m">
 <!ENTITY replyToListMsgCmd.key  "s">
 <!ENTITY forwardMsgCmd.label "Posreduj">
 <!ENTITY forwardMsgCmd.accesskey "P">
-<!ENTITY forwardMsgCmd.key  "s">
+<!ENTITY forwardMsgCmd.key  "L">
 <!ENTITY forwardAsMenu.label "Posreduj kot">
 <!ENTITY forwardAsMenu.accesskey "k">
 <!ENTITY forwardAsInline.label "Notranji (Inline) slog">
@@ -350,8 +351,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsAttachmentCmd.accesskey "K">
 <!ENTITY editMsgAsNewCmd.label "Uredi sporočilo kot novo">
 <!ENTITY editMsgAsNewCmd.accesskey "U">
-<!ENTITY editMsgAsNewCmd.key "U">
-<!ENTITY createFilter.label "Ustvari filter iz sporočila…">
+<!ENTITY editMsgAsNewCmd.key "N">
+<!ENTITY createFilter.label "Ustvari filter iz sporočila …">
 <!ENTITY createFilter.accesskey "t">
 <!ENTITY moveMsgToMenu.label "Prestavi v">
 <!ENTITY moveMsgToMenu.accesskey "V">
@@ -397,7 +398,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markThreadAsReadCmd.label "Nit kot prebrano">
 <!ENTITY markThreadAsReadCmd.accesskey "N">
 <!ENTITY markThreadAsReadCmd.key "N">
-<!ENTITY markReadByDateCmd.label "Kot prebrano na datum…">
+<!ENTITY markReadByDateCmd.label "Kot prebrano na datum …">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "D">
 <!ENTITY markAllReadCmd.label "Vse prebrano">
@@ -408,7 +409,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markStarredCmd.key "z">
 <!ENTITY markAsJunkCmd.label "Kot neželeno">
 <!ENTITY markAsJunkCmd.accesskey "ž">
-<!ENTITY markAsJunkCmd.key "'ž">
+<!ENTITY markAsJunkCmd.key "ž">
 <!ENTITY markAsNotJunkCmd.label "Ne kot neželeno">
 <!ENTITY markAsNotJunkCmd.accesskey "k">
 <!ENTITY markAsNotJunkCmd.key "k">
@@ -447,7 +448,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY savedFiles.label "Shranjene datoteke">
 <!ENTITY savedFiles.accesskey "d">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Filtri sporočil…">
+<!ENTITY filtersCmd.label "Filtri sporočil …">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Poženi filtre v mapi">
 <!ENTITY filtersApply.accesskey "M">
@@ -457,13 +458,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY runJunkControls.label "Poženi nadzor za neželeno pošto v mapi">
 <!ENTITY runJunkControls.accesskey "z">
-<!ENTITY deleteJunk.label "Zbriši v mapi pošto, označeno kot neželeno">
+<!ENTITY deleteJunk.label "Izbriši v mapi pošto, Ki je označena kot neželena">
 <!ENTITY deleteJunk.accesskey "B">
-<!ENTITY importCmd.label "Uvozi…">
+<!ENTITY importCmd.label "Uvozi …">
 <!ENTITY importCmd.accesskey "u">
 <!ENTITY errorConsoleCmd.label "Konzola JavaScript">
 <!ENTITY errorConsoleCmd.accesskey "j">
-<!ENTITY accountManagerCmd.label "Nastavitve računa…">
+<!ENTITY accountManagerCmd.label "Nastavitve računa …">
 <!ENTITY accountManagerCmd.accesskey "R">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
@@ -482,7 +483,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Prejšnje">
 <!ENTITY backButton1.label "Nazaj">
 <!ENTITY goForwardButton1.label "Posreduj">
-<!ENTITY deleteButton.label "Zbriši">
+<!ENTITY deleteButton.label "Izbriši">
 <!ENTITY undeleteButton.label "Obnovi">
 <!ENTITY markButton.label "Označi">
 <!ENTITY printButton.label "Natisni">
@@ -503,7 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Dobi nova sporočila">
 <!ENTITY getAllNewMsgCmd.label "Prenesi vsa nova sporočila">
 <!ENTITY getAllNewMsgCmd.accesskey "o">
-<!ENTITY getAllNewMsgCmd.key "n">
+<!ENTITY getAllNewMsgCmd.key "T">
 <!ENTITY newMsgButton.tooltip "Ustvari novo sporočilo">
 <!ENTITY replyButton.tooltip "Odgovori na sporočilo">
 <!ENTITY replyAllButton.tooltip "Odgovori pošiljatelju in vsem prejemnikom">
@@ -515,7 +516,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.tooltip "Pojdi na prejšnje neprebrano sporočilo">
 <!ENTITY goForwardButton.tooltip "Pojdi na naslednje sporočilo">
 <!ENTITY goBackButton.tooltip "Pojdi na prejšnje sporočilo">
-<!ENTITY deleteButton.tooltip "Zbriši izbrano sporočilo ali mapo">
+<!ENTITY deleteButton.tooltip "Izbriši izbrano sporočilo ali mapo">
 <!ENTITY undeleteButton.tooltip "Obnovi izbrano sporočilo">
 <!ENTITY markButton.tooltip "Označi sporočila">
 <!ENTITY printButton.tooltip "Natisni to sporočilo">
@@ -527,7 +528,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.tooltip "Odstrani zbrisana sporočila iz izbrane mape">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Nova oznaka…">
+<!ENTITY addNewTag.label "Nova oznaka …">
 <!ENTITY addNewTag.accesskey "N">
 
 <!-- Folder Pane -->
@@ -541,7 +542,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Odpri v novem zavihku">
 <!ENTITY folderContextOpenNewTab.accesskey "N">
-<!ENTITY folderContextNew.label "Nova podmapa…">
+<!ENTITY folderContextNew.label "Nova podmapa …">
 <!ENTITY folderContextNew.accesskey "P">
 <!ENTITY folderContextRename.label "Preimenuj">
 <!ENTITY folderContextRename.accesskey "R">
@@ -561,15 +562,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "n">
 <!ENTITY folderContextMarkMailFolderRead.label "Označi mapo za prebrano">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "m">
-<!ENTITY folderContextSubscribe.label "Naroči se…">
+<!ENTITY folderContextSubscribe.label "Naroči se …">
 <!ENTITY folderContextSubscribe.accesskey "č">
-<!ENTITY folderContextSearchMessages.label "Poišči…">
+<!ENTITY folderContextSearchMessages.label "Poišči …">
 <!ENTITY folderContextSearchMessages.accesskey "i">
-<!ENTITY folderContextProperties.label "Lastnosti…">
+<!ENTITY folderContextProperties.label "Lastnosti …">
 <!ENTITY folderContextProperties.accesskey "L">
 <!ENTITY folderContextFavoriteFolder.label "Priljubljena mapa">
 <!ENTITY folderContextFavoriteFolder.accesskey "l">
-<!ENTITY folderContextSettings.label "Nastavitve…">
+<!ENTITY folderContextSettings.label "Nastavitve …">
 <!ENTITY folderContextSettings.accesskey "s">
 
 <!-- Search Bar -->
@@ -577,16 +578,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "I">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Išči po sporočilih…">
+<!ENTITY glodaSearchBar.emptyText "Išči po sporočilih …">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Zadeva">
 <!ENTITY searchFromMenu.label "Od">
 <!ENTITY searchSubjectOrFromMenu.label "Zadeva ali Od">
-<!ENTITY searchRecipient.label "Komu ali Kopija">
+<!ENTITY searchRecipient.label "Za ali Kopija">
 <!ENTITY searchSubjectOrRecipientMenu.label "Zadeva, Za ali Kp">
 <!ENTITY searchMessageBody.label "Celotno sporočilo">
-<!ENTITY saveAsVirtualFolderMenu.label "Shrani iskanje kot mapo…">
+<!ENTITY saveAsVirtualFolderMenu.label "Shrani iskanje kot mapo …">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Nit">
@@ -638,7 +639,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "R">
 <!ENTITY contextOpenConversation.label "Odpri sporočilo kot pogovor">
 <!ENTITY contextOpenConversation.accesskey "o">
-<!ENTITY contextEditAsNew.label "Uredi kot novo…">
+<!ENTITY contextEditAsNew.label "Uredi kot novo …">
 <!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Arhiviraj">
 <!ENTITY contextArchive.accesskey "d">
@@ -660,9 +661,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "e">
 <!ENTITY contextCopyMsgMenu.label "Kopiraj v">
 <!ENTITY contextCopyMsgMenu.accesskey "z">
-<!ENTITY contextSaveAs.label "Shrani kot…">
+<!ENTITY contextSaveAs.label "Shrani kot …">
 <!ENTITY contextSaveAs.accesskey "k">
-<!ENTITY contextPrint.label "Natisni…">
+<!ENTITY contextPrint.label "Natisni …">
 <!ENTITY contextPrint.accesskey "t">
 <!ENTITY contextPrintPreview.label "Predogled tiskanja">
 <!ENTITY contextPrintPreview.accesskey "p">
@@ -681,7 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    folder(s).  The sub-menu items indicate whether we want to apply it to just
    a folder or also its children.
   -->
-<!ENTITY columnPicker.applyTo.label "Uporabi stolpce za…">
+<!ENTITY columnPicker.applyTo.label "Uporabi stolpce za …">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -690,7 +691,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    that the user selects using the same widget as the move to/copy to
    mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolder.label "Mapo…">
+<!ENTITY columnPicker.applyToFolder.label "Mapo …">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -699,7 +700,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    of its descendents.  The user selects the folder using the same widget as the
    move to/copy to mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolderAndChildren.label "Mapo in njene potomce…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Mapo in njene potomce …">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
    This is used in the folder selection widget for the
    "columnPicker.applyToFolder.label" and
@@ -719,9 +720,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPlay.accesskey "P">
 <!ENTITY contextPause.label "Premor">
 <!ENTITY contextPause.accesskey "P">
-<!ENTITY contextMute.label "Nemo">
+<!ENTITY contextMute.label "Brez zvoka">
 <!ENTITY contextMute.accesskey "M">
-<!ENTITY contextUnmute.label "Glasno">
+<!ENTITY contextUnmute.label "Z zvokom">
 <!ENTITY contextUnmute.accesskey "s">
 
 <!-- Junk Bar -->
@@ -730,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Da zaščiti vaše zasebnost, je &brandShortName; v tem sporočilu preprečil prikaz spletno vsebino.">
+<!ENTITY remoteContentMessage2.label "Da zaščiti vaše zasebnost, je &brandShortName; v tem sporočilu preprečil prikaz spletne vsebine.">
 <!ENTITY loadRemoteContentButton3.label "Pokaži spletno vsebino">
 
 <!-- Phishing Bar -->
@@ -748,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is actually the key used for the global message search box; we have
      not changed 
      -->
-<!ENTITY quickSearchCmd.key "k">
+<!ENTITY quickSearchCmd.key "F">
 <!-- LOCALIZATION NOTE (searchAllMessages.label.base):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate
@@ -758,26 +759,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Išči po vseh sporočilih… #1">
+<!ENTITY searchAllMessages.label.base "Išči po vseh sporočilih … #1">
 <!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+F&gt;">
 <!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;F&gt;">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Dodaj v adresar…">
+<!ENTITY AddToAddressBook.label "Dodaj v adresar …">
 <!ENTITY AddToAddressBook.accesskey "A">
 <!ENTITY AddDirectlyToAddressBook.label "Dodaj v adresar">
 <!ENTITY AddDirectlyToAddressBook.accesskey "a">
-<!ENTITY EditContact.label "Uredi stik…">
+<!ENTITY EditContact.label "Uredi stik …">
 <!ENTITY EditContact.accesskey "U">
 <!ENTITY ViewContact.label "Pokaži stik">
 <!ENTITY ViewContact.accesskey "P">
@@ -791,15 +792,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyNewsgroupName.accesskey "č">
 <!ENTITY CopyNewsgroupURL.label "Kopiraj URL novičarske skupine">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Ustvari filter iz…">
+<!ENTITY CreateFilterFrom.label "Ustvari filter iz …">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Prijavi e-poštno prevaro">
 <!ENTITY reportPhishingURL.accesskey "Z">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Shrani povezavo kot…">
+<!ENTITY saveLinkAsCmd.label "Shrani povezavo kot …">
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "Shrani sliko kot…">
+<!ENTITY saveImageAsCmd.label "Shrani sliko kot …">
 <!ENTITY saveImageAsCmd.accesskey "p">
 <!ENTITY cutCmd.label "Izreži">
 <!ENTITY cutCmd.accesskey "ž">
@@ -834,7 +835,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "Povečaj">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Nastavitve…">
+<!ENTITY preferencesCmdMac.label        "Nastavitve …">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Storitve">

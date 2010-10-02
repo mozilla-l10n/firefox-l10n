@@ -36,8 +36,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
    
-<!ENTITY renameFolderDialog.title          "Preimenovanje imenika">
-<!ENTITY rename.label                      "Vnesite novo ime za imenik:">
+<!ENTITY renameFolderDialog.title          "Preimenovanje mape">
+<!ENTITY rename.label                      "Vnesite novo ime za svojo mapo:">
 <!ENTITY rename.accesskey                  "e">
 <!ENTITY accept.label                      "Preimenuj">
 <!ENTITY accept.accesskey                  "D">
