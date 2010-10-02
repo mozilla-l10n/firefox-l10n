@@ -228,3 +228,12 @@
 <!ENTITY updates.resetUpdatesToManual.label          "Ρύθμιση όλων των προσθέτων σε χειροκίνητη ενημέρωση">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "χ">
 
+
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Τι είναι τα πρόσθετα;">
+<!ENTITY discover.description                 "Τα πρόσθετα είναι μικρές εφαρμογές που σας επιτρέπουν να προσθέτετε στον Firefox διάφορες λειτουργίες ή να αλλάζετε την εμφάνιση του. Δοκιμάστε μια ευκολότερη πλευρική στήλη, μια ειδοποίηση καιρού, ή ένα διαφορετικό θέμα για να κάνετε τον Firefox να ταιριάζει στο γούστο σας.">
+<!ENTITY discover.footer                      "Όταν είστε συνδεδεμένοι στο διαδίκτυο, αυτό το ταμπλό θα σας παρουσιάζει μερικά από τα καλύτερα και τα πιο δημοφιλή πρόσθετα για να τα δοκιμάσετε.">
+
+
