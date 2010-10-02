@@ -36,28 +36,28 @@
 <!ENTITY featureConfigurator.collapsedHeaders.para.weak "Mënyra si lexues mesazhesh të tkurrur është kaluar te vetë zgjerimi përkatës, ku tani ka më tepër vëmendje dhe mundësira.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
-<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Vumë re se keni përdorur mënyrën si lexues mesazhesh të tkurrur.  Ky funksion është kaluar te vetë zgjerimi përkatës dhe këshillojmë ta instaloni këtu nëse dëshironi të vazhdoni përdorimin e tij.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Vumë re se keni përdorur mënyrën si lexues mesazhesh të tkurrur.  Ky funksion është kaluar si zgjerim më vete dhe këshillojmë ta instaloni këtu nëse dëshironi të vazhdoni përdorimin e tij.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
 <!ENTITY featureConfigurator.collapsedHeaders.install "Instaloni Tituj të Tkurrur…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.heading): The heading for the Folder Columns page. -->
-<!ENTITY featureConfigurator.folderColumns.heading "Advanced Folder Columns">
+<!ENTITY featureConfigurator.folderColumns.heading "Shtylla të Përparuara Dosjesh">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.weak "The Extra Folder Columns extension replaces what was initially an advanced preference.  To keep tabs on the exact count of messages and disk space each folder is using you'll want to install this extension.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "Zgjerimi Shtylla Ekstra Dosjesh zëvendëson atë çka fillimisht qe një parapëlqim i përparuar.  Për të pasur skeda me numërim të saktë të mesazheve, dhe se sa hapësirë disku përdor secila dosje, do të duhej të instalonit këtë zgjerim.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.strong "We noticed that you were using the Advanced Folder columns.  This feature has moved into its own extension, and we recommend you install here.">
+<!ENTITY featureConfigurator.folderColumns.para.strong "Vumë re se keni përdorur shtylla të Përparuara Dosjesh.  Kjo veçori është kaluar si zgjerim më vete dhe këshillojmë ta instaloni këtu.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
-<!ENTITY featureConfigurator.folderColumns.install "Install Extra Columns…">
+<!ENTITY featureConfigurator.folderColumns.install "Instaloni Shtylla Ekstra…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
-<!ENTITY featureConfigurator.autoSync.heading "Disk space">
+<!ENTITY featureConfigurator.autoSync.heading "Hapësirë disku">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
-<!ENTITY featureConfigurator.autoSync.para "This new version of &brandShortName; comes with a new and better search functionality.  To experience this new search you'll need to synchronize your email messages.">
+<!ENTITY featureConfigurator.autoSync.para "Ky version i &brandShortName;-it mbërrin me një funksion të ri e më të mirë kërkimesh.  Për ta provuar këtë kërkim të ri, lypset të njëkohësoni mesazhet tuaj email.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
 <!ENTITY featureConfigurator.autoSync.on "Synchronize">
