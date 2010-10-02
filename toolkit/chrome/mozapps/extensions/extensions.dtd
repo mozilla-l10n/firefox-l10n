@@ -91,6 +91,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Dölj versionsfakta">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Döljer versionsfakta för den här uppdateringen">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Vad är tillägg?">
+<!ENTITY discover.description                 "Tillägg är program som gör att du kan anpassa Firefox med
+  extra funktionalitet eller utseende. Prova ett tidsbesparande sidofält, en väderrapportör eller ett annat utseende till Firefox.">
+<!ENTITY discover.footer                      "När du är ansluten till internet kommer den här panelen att visa
+  några av de bästa och mest populära tilläggen som du kan prova.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Senast uppdaterad">
