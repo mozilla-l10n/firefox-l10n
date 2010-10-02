@@ -79,6 +79,9 @@
 <!ENTITY cmd.showReleaseNotes.tooltip "Visualizza le note di versione per questo aggiornamento">
 <!ENTITY cmd.hideReleaseNotes.label "Nascondi note di versione">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Nascondi le note di versione per questo aggiornamento">
+<!ENTITY discover.title "Che cosa sono i componenti aggiuntivi?">
+<!ENTITY discover.description "I componenti aggiuntivi sono applicazioni che permettono di personalizzare Firefox aggiungendo nuove caratteristiche o modificandone l'aspetto. Rendi Firefox unico aggiungendo una nuova barra laterale per risparmiare tempo, visualizza le notifiche del meteo direttamente nel browser o cambiane l'aspetto con un nuovo tema.">
+<!ENTITY discover.footer "Quando si è connessi a Internet in questo pannello vengono visualizzati alcuni dei componenti aggiuntivi più popolari e più interessanti.">
 <!ENTITY detail.version.label "Versione">
 <!ENTITY detail.lastupdated.label "Ultimo aggiornamento">
 <!ENTITY detail.creator.label "Sviluppatore">
