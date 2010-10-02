@@ -1,20 +1,20 @@
 <!ENTITY prefsHeader.label                         "Opcje">
-<!ENTITY about.title                               "O &brandShortName;">
+<!ENTITY about.title                               "O programie &brandShortName;">
 <!ENTITY about.button                              "Idź do strony">
-<!ENTITY about.description                         "Uzyskaj pomoc i dowiedz się o produkcie">
 <!ENTITY content.title                             "Treść">
-<!ENTITY showImages.title                          "Pokazuj obrazki">
+<!ENTITY showImages.title                          "Wyświetlaj obrazki">
 <!ENTITY enableJavaScript.title                    "Włącz JavaScript">
-<!ENTITY enableJavaScript.description              "Większość interaktywnych stron używa JavaScriptu">
 <!ENTITY enablePlugins.title                       "Włącz wtyczki">
-<!ENTITY enablePlugins.description                 "Wtyczki są używane do wyświetlania specjalnych elementów takich jak wideo">
 <!ENTITY privacy.title                             "Prywatność i bezpieczeństwo">
-<!ENTITY allowCookies.title                        "Zachowuj ciasteczka">
-<!ENTITY allowCookies.description                  "Strony używają ciasteczek do identyfikacji i zapamiętywania ustawień użytkownika">
-<!ENTITY clearPrivateData.title                  "Wyczyść historię przeglądania">
-<!ENTITY clearPrivateData.button                 "Wyczyść">
-<!ENTITY clearPrivateData.description            "Dane na temat historii pozwalają, aby &brandShortName; podpowiadał adresy">
-<!ENTITY rememberPasswords.title                   "Zachowuj hasła">
+<!ENTITY allowCookies.title                        "Akceptuj ciasteczka">
+<!ENTITY clearPrivateData2.title                   "Wyczyść dane prywatne">
+<!ENTITY clearPrivateData.button                   "Wyczyść">
+<!ENTITY rememberPasswords.title                   "Pamiętaj hasła">
 <!ENTITY language.title                            "Język">
-<!ENTITY language.description                      "Wybierz preferowany język dla programu &brandShortName;">
-<!ENTITY language.auto                             "Wykryj automatycznie">
+<!ENTITY language.auto                             "Automatycznie">
+<!ENTITY defaultBrowser.title                      "Domyślna przeglądarka">
+<!ENTITY defaultBrowser.description                "Ustaw program &brandShortName; jako domyślną przeglądarkę">
+<!ENTITY homepage.title                            "Strona startowa">
+<!ENTITY homepage.none                             "Bez nazwy">
+<!ENTITY homepage.default                          "&brandShortName; Start">
+<!ENTITY homepage.currentpage                      "Użyj aktualnej strony">

@@ -1,45 +1,34 @@
+<!ENTITY urlbar.emptytext      "Podaj szukaną frazę lub adres">
+
 <!ENTITY back.label            "Wstecz">
 <!ENTITY forward.label         "Do przodu">
 <!ENTITY reload.label          "Odśwież">
 <!ENTITY stop.label            "Zatrzymaj">
-<!ENTITY search.label          "Znajdź">
 <!ENTITY go.label              "Przejdź">
 <!ENTITY openLocation.label    "Otwórz lokację">
 <!ENTITY star.label            "Gwiazdka">
-
 <!ENTITY newtab.label          "Nowa karta">
 <!ENTITY closetab.label        "Zamknij kartę">
-
 <!ENTITY cut.label             "Wytnij">
 <!ENTITY copy.label            "Skopiuj">
-<!ENTITY copylink.label        "Kopiuj adres odnośnika">
+<!ENTITY copylink.label        "Skopiuj adres odnośnika">
 <!ENTITY paste.label           "Wklej">
 <!ENTITY delete.label          "Usuń">
 <!ENTITY selectAll.label       "Zaznacz wszystko">
 <!ENTITY noSuggestions.label   "(Brak podpowiedzi)">
 <!ENTITY addToDictionary.label "Dodaj do słownika">
-
 <!ENTITY bookmarksHeader.label     "Zakładki">
 <!ENTITY bookmarksManage.label     "Zarządzaj">
-
 <!ENTITY editBookmarkRemove.label  "Usuń">
 <!ENTITY editBookmarkDone.label    "Gotowe">
 <!ENTITY editBookmarkTags.label    "Dodaj etykiety">
-
-<!ENTITY helperApp.prompt          "Co mam z tym zrobić">
+<!ENTITY helperApp.prompt          "Wybierz, co zrobić z tym plikiem">
 <!ENTITY helperApp.open            "Otwórz">
 <!ENTITY helperApp.save            "Zapisz">
 <!ENTITY helperApp.nothing         "Nic">
-
-
-<!ENTITY findOnCmd.label     "Znajdź na tej stronie…">
-<!ENTITY findOnCmd.accesskey "Z">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Znajdź następne">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY formHelper.previous       "Poprzedni">
+<!ENTITY formHelper.next           "Następny">
+<!ENTITY formHelper.done           "Gotowe">
 <!ENTITY addonsHeader.label        "Dodatki">
 <!ENTITY addonsLocal.label         "Twoje dodatki">
 <!ENTITY addonsUpdate.label        "Aktualizacja">
@@ -48,8 +37,6 @@
 <!ENTITY addonsSearch.label        "Szukaj">
 <!ENTITY addonsSearch2.emptytext   "Przeszukaj katalog">
 <!ENTITY addonsSearch.recommended  "Polecane">
-
-
 <!ENTITY addonOptions.label        "Opcje">
 <!ENTITY addonEnable.label         "Włącz">
 <!ENTITY addonDisable.label        "Wyłącz">
@@ -57,7 +44,6 @@
 <!ENTITY addonUninstall.label      "Odinstaluj">
 <!ENTITY addonCancel.label         "Anuluj">
 <!ENTITY addonShowPage.label       "Idź do strony">
-
 <!ENTITY downloadsHeader.label     "Pobieranie plików">
 <!ENTITY downloadShowPage.label    "Idź do strony">
 <!ENTITY downloadShow2.label       "Znajdź">
@@ -67,18 +53,14 @@
 <!ENTITY downloadResume.label      "Kontynuuj">
 <!ENTITY downloadRetry.label       "Pobierz ponownie">
 <!ENTITY downloadRemove.label      "Usuń">
-<!ENTITY downloadFailed.label      "Nieudany">
-
+<!ENTITY downloadFailed.label      "Pobieranie nie powiodło się">
 <!ENTITY noResults.label           "Brak wyników">
 <!ENTITY allBookmarks.label        "Pokaż wszystkie zakładki">
-
-<!ENTITY searchEngine.addSearch    "Dodaj wyszukiwarkę:">
-
-<!ENTITY bookmarkPopup.label       "Zakładka dodana do strony">
+<!ENTITY bookmarkPopup.label       "Zakładka dodana">
 <!ENTITY bookmarkRemove.label      "Usuń">
 <!ENTITY bookmarkEdit.label        "Edytuj">
 
-<!ENTITY identity.unverifiedsite2 "Ta witryna nie dostarcza informacji o swej tożsamości.">
+<!ENTITY identity.unverifiedsite2 "Ta witryna nie dostarcza informacji o swojej tożsamości.">
 <!ENTITY identity.connectedTo2 "Połączono z">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -91,7 +73,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "prowadzoną przez">
+<!ENTITY identity.runBy2 "Stronę prowadzi">
 
 <!ENTITY consoleHeader.label       "Konsola błędów">
 <!ENTITY consoleAll.label          "Wszystkie">
@@ -105,4 +87,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY consoleErrLine.label      "Linia:">
 <!ENTITY consoleErrColumn.label    "Kolumna:">
 
-<!ENTITY selectListDone.label      "Gotowe">
+<!ENTITY contextOpenInNewTab.label "Otwórz odnośnik w nowej karcie">
+<!ENTITY contextSaveImage.label    "Zapisz obrazek">
+

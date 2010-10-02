@@ -1,10 +1,13 @@
-<!ENTITY welcome.title                      "Witaj w &brandShortName;">
-<!ENTITY overview.description               "Zsynchronizuj swój PC i komórkę przez Weave. Dostosuj korzystając z dodatków. Łatwo otwieraj strony korzystając z inteligentnego paska adresu i wiele więcej.">
-<!ENTITY nextSteps.title                    "Następne kroki">
-<!ENTITY sync.title                         "Włącz i ruszaj">
-<!ENTITY sync.description                   "Pobierz Weave aby usprawnić swojego &brandShortName;. Współdziel ustawienia, zakłądki, historię i inne między PC a komórką.">
-<!ENTITY sync.link                          "Pobierz dodatek Weave">
-<!ENTITY getPersonal.title                  "Spersonalizuj">
-<!ENTITY getPersonal.description            "Dopasuj &brandShortName; do siebie. Dostosuj pierwszą przeglądarkę z dodatkami na komórkę.">
-<!ENTITY getPersonal.link                   "Pobierz dodatki dla swojej komórki.">
-<!ENTITY skip.link                          "Pomiń to i otwórz stronę.">
+<!ENTITY firstrun.title                "Witaj w &brandShortName;">
+<!ENTITY firstrun.heading              "Aby pomóc Ci rozpocząć, poniżej zamieścilismy kilka najpopularniejszych funkcji i dodatków, które pozwolą Ci w pełni wykorzystać program &brandShortName;.">
+<!ENTITY firstrun.recommended          "Polecane:">
+<!ENTITY firstrun.weave.title          "Pobierz Weave Sync">
+<!ENTITY firstrun.weave.description    "Współdziel historię, hasła, zakładki i karty programu &brandShortName; między komputerem i urządzeniem mobilnym">
+<!ENTITY firstrun.starter.title        "Pobierz kolekcję startową dodatków">
+<!ENTITY firstrun.starter.description  "Zainstaluj polecane dodatki, aby rozszerzyć możliwości programu &brandShortName;">
+<!ENTITY firstrun.tour.title           "Pierwsze kroki">
+<!ENTITY firstrun.tour.description     "Obejrzyj ten klip, aby poznać funkcje i możliwości tego programu">
+<!ENTITY firstrun.features             "Pokaż więcej funkcji">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Polityka prywatności">
+<!ENTITY firstrun.follow               "Śledź nas na:">

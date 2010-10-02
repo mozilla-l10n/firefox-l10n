@@ -51,13 +51,14 @@
 
 <!ENTITY netInterrupt.title "Przerwano przesyłanie danych">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY netOffline.title "Tryb offline">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Odznacz &quot;Pracuj offline&quot; w menu Plik i ponów próbę.</li>
+  <li>Spróbuj ponownie. &brandShortName; powtórzy próbę otwarcia połączenia i przeładuje stronę.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Tryb offline">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Błąd kodowania zawartości">
 <!ENTITY contentEncodingError.longDesc "
@@ -157,6 +158,10 @@
 <p>Wprowadzanie jakichkolwiek informacji osobistych na tej stronie może skutkować kradzieżą tożsamości lub inną malwersacją.</p>
 <p>Tego rodzaju fałszerstwa określa się mianem phishingu. Atak ten polega na utworzeniu przez przestępców podrobionej strony lub wiadomości udającej źródło godne zaufania.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Przeglądarka uniemożliwiła tej stronie wczytanie treści w ten sposób, ponieważ strona posiada politykę bezpieczeństwa treści, która na to nie pozwala.</p>">
+
 
 <!ENTITY securityOverride.linkText "Lub dodaj wyjątek…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Zabierz mnie stąd!">

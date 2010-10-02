@@ -9,7 +9,7 @@
 
 # LOCALIZATION NOTE (bookmarks_title):
 # title for the folder that will contains the default bookmarks
-#define bookmarks_title Mobilne
+#define bookmarks_title Mozilla Firefox
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun
@@ -17,11 +17,11 @@
 
 # LOCALIZATION NOTE (bookmarks_about):
 # link title for about:fennec
-#define bookmarks_about Firefox: O produkcie
+#define bookmarks_aboutBrowser Firefox: O przeglądarce
 
 # LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Synchronizuj używając Weave
+# link title for https://www.mozilla.com/en-US/mobile/sync
+#define bookmarks_sync Firefox: Synchronizuj używając Weave Sync
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
@@ -29,7 +29,11 @@
 
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
-#define bookmarks_support Firefox: Wsparcie
+#define bookmarks_support Firefox: Pomoc
+
+# LOCALIZATION NOTE (bookmarks_aboutHome):
+# link title for about:home
+#define bookmarks_aboutHome Firefox Start
 
 #unfilter emptyLines
 
