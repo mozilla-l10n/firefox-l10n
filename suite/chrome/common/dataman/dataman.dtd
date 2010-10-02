@@ -1,0 +1,125 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is KaiRo's data manager.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser <kairo@kairo.at>.
+   - Portions created by the Initial Developer are Copyright (C) 2010
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at> (original author)
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY dataman.windowTitle "Кіраўнік здаткаў">
+<!ENTITY selectAll.key "a">
+<!ENTITY domain.search.placeholder "Пошук даменаў">
+<!ENTITY domain.search.key "f">
+<!ENTITY domain.tree.domain.label "Дамен">
+<!ENTITY domain.ctx.forgetdomain.label "Забыць пра гэты дамен">
+<!ENTITY domain.ctx.forgetdomain.accesskey "З">
+<!ENTITY domain.ctx.forgetglobal.label "Забыць агульныя здаткі">
+<!ENTITY domain.ctx.forgetglobal.accesskey "З">
+<!ENTITY data.search.key "k">
+<!ENTITY tab.cookies.label "Біркі">
+<!ENTITY tab.permissions.label "Дазволы">
+<!ENTITY tab.preferences.label "Перавагі">
+<!ENTITY tab.passwords.label "Паролі">
+<!ENTITY tab.formdata.label "Здаткі формаў">
+<!ENTITY tab.forget.label "Забыць">
+<!ENTITY cookies.description "Гэты дамен захаваў наступныя звесткі на вашым кампутары:">
+<!ENTITY cookies.tree.host.label "Пляцоўка Сеціва">
+<!ENTITY cookies.tree.name.label "Назва біркі">
+<!ENTITY cookies.tree.expires.label "Высільваецца">
+<!ENTITY cookies.infobox.label "Звесткі аб вылучанай бірцы">
+<!ENTITY cookies.info.name.label "Назва:">
+<!ENTITY cookies.info.value.label "Змесціва:">
+<!ENTITY cookies.info.host.label "Трымальнік:">
+<!ENTITY cookies.info.domain.label "Дамен:">
+<!ENTITY cookies.info.path.label "Шлях:">
+<!ENTITY cookies.info.sendtype.label "Дасылаецца праз:">
+<!ENTITY cookies.info.expires.label "Высільваецца:">
+<!ENTITY cookies.ctx.remove.label "Выдаліць">
+<!ENTITY cookies.ctx.remove.accesskey "д">
+<!ENTITY cookies.ctx.selectAll.label "Вылучыць усё">
+<!ENTITY cookies.ctx.selectAll.accesskey "у">
+<!ENTITY cookies.button.remove.label "Выдаліць">
+<!ENTITY cookies.button.remove.accesskey "д">
+<!ENTITY cookies.blockOnRemove.label "Пасля выдалення забараніць пералічаным сеціўныя пляцоўкам усталёўваць біркі ізноў">
+<!ENTITY cookies.blockOnRemove.accesskey "П">
+<!ENTITY perm.UseDefault "Ужываць змоўчныя">
+<!ENTITY perm.AskAlways "Заўсёды пытаць">
+<!ENTITY perm.NeverSave "Ніколі не захоўваць">
+<!ENTITY perm.Allow "Дазволіць">
+<!ENTITY perm.AllowSession "Дазволіць на час сэсіі">
+<!ENTITY perm.Block "Блакаваць">
+<!ENTITY prefs.description "Перавагі змесціва ўжываюцца &brandShortName; для захавання яго наладжванняў, такіх як узровень павялічэння, асабліва для сеціўных пляцовак.">
+<!ENTITY prefs.tree.host.label "Пляцоўка Сеціва">
+<!ENTITY prefs.tree.name.label "Назва перавагі">
+<!ENTITY prefs.tree.value.label "Значэнне">
+<!ENTITY prefs.ctx.remove.label "Выдаліць">
+<!ENTITY prefs.ctx.remove.accesskey "д">
+<!ENTITY prefs.ctx.selectAll.label "Вылучыць усё">
+<!ENTITY prefs.ctx.selectAll.accesskey "у">
+<!ENTITY prefs.button.remove.label "Выдаліць">
+<!ENTITY prefs.button.remove.accesskey "д">
+<!ENTITY pwd.description "Вы маеце наступныя паролі, захаваныя для гэтага дамену:">
+<!ENTITY pwd.tree.host.label "Пляцоўка Сеціва">
+<!ENTITY pwd.tree.username.label "Імя карыстальніка">
+<!ENTITY pwd.tree.password.label "Пароль">
+<!ENTITY pwd.ctx.remove.label "Выдаліць">
+<!ENTITY pwd.ctx.remove.accesskey "д">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Скапіяваць пароль">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "к">
+<!ENTITY pwd.ctx.selectAll.label "Вылучыць усё">
+<!ENTITY pwd.ctx.selectAll.accesskey "у">
+<!ENTITY pwd.button.remove.label "Выдаліць">
+<!ENTITY pwd.button.remove.accesskey "д">
+<!ENTITY fdata.search.placeholder "Шукаць здаткі поля">
+<!ENTITY fdata.tree.fieldname.label "Назва поля">
+<!ENTITY fdata.tree.value.label "Уведзенае значэнне">
+<!ENTITY fdata.tree.usecount.label "Колькасць ужыванняў">
+<!ENTITY fdata.tree.firstused.label "Першае ўжыванне">
+<!ENTITY fdata.tree.lastused.label "Апошняе ўжыванне">
+<!ENTITY fdata.ctx.remove.label "Выдаліць">
+<!ENTITY fdata.ctx.remove.accesskey "д">
+<!ENTITY fdata.ctx.selectAll.label "Вылучыць усё">
+<!ENTITY fdata.ctx.selectAll.accesskey "у">
+<!ENTITY fdata.button.remove.label "Выдаліць">
+<!ENTITY fdata.button.remove.accesskey "д">
+<!ENTITY forget.cookies.label "Біркі">
+<!ENTITY forget.cookies.accesskey "Б">
+<!ENTITY forget.permissions.label "Дазволы">
+<!ENTITY forget.permissions.accesskey "Д">
+<!ENTITY forget.preferences.label "Перавагі змесціва">
+<!ENTITY forget.preferences.accesskey "з">
+<!ENTITY forget.passwords.label "Паролі">
+<!ENTITY forget.passwords.accesskey "П">
+<!ENTITY forget.formdata.label "Здаткі формаў">
+<!ENTITY forget.formdata.accesskey "ф">
+<!ENTITY forget.button.label "Забыць гэтыя здаткі">
+<!ENTITY forget.button.accesskey "З">

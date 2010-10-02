@@ -2,15 +2,16 @@
 <!ENTITY setupButton.accesskey "У">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; дазваляе вам мець доступ да вашых гісторыі, закладак, пароляў і адкрытых уставак на ўсіх вашых збудовах.">
 <!ENTITY accountGroupboxCaption.label "Рахунак &syncBrand.fullName.label;">
-<!ENTITY currentUser.label "Цяперашні карыстальнік:">
+<!ENTITY currentAccount.label "Цяперашні рахунак:">
 <!ENTITY updatePass.label "Абнавіць">
 <!ENTITY resetPass.label "Скінуць">
 <!ENTITY manageAccount.label "Кіраваць рахункам">
 <!ENTITY manageAccount.accesskey "р">
+<!ENTITY viewQuota.label "Прагледзець абмежаванне">
 <!ENTITY changePassword.label "Змяніць пароль">
 <!ENTITY mySyncKey.label "Мой ключ Sync">
 <!ENTITY resetSync.label "Узнавіць сінхранізацыю">
-<!ENTITY differentAccount.label "Скарыстацца іншых рахункам">
+<!ENTITY stopUsingAccount.label "Перастаць карыстацца гэтым рахункам">
 <!ENTITY syncPrefsCaption.label "Сінхранізацыя азіральніка">
 <!ENTITY syncComputerName.label "Назва кампутара:">
 <!ENTITY syncComputerName.accesskey "к">

@@ -1,12 +1,12 @@
 <!ENTITY firstrun.title "Калі ласка да &brandShortName;">
 <!ENTITY firstrun.heading2 "Калі ласка да &brandShortName;">
-<!ENTITY firstrun.sync.title "Атрымаць Firefox Sync">
-<!ENTITY firstrun.sync.description "Падзеляць гісторыю, паролі, закладкі і ўстаўкі &brandShortName; паміж кампутарам і мабільнікам">
-<!ENTITY firstrun.addons.title "Атрымаць дадаткі">
-<!ENTITY firstrun.addons.description "Усталяваць дадаткі, каб удасканаліць функцыянальнасць &brandShortName;">
-<!ENTITY firstrun.home.title "Пачаць">
-<!ENTITY firstrun.home.description "Грукніце, каб перайсці на вашу асабістую пачатковую старонку і пачаць азіраць Сеціва">
-<!ENTITY firstrun.relNotes.label "Пабачыць завагі пра выданне">
+<!ENTITY firstrun.sync2.title "Сінхранізацыя">
+<!ENTITY firstrun.sync2.description "Увайдзіце ў ваш рахунак Sync і падзяляйце вашу гісторыю, паролі, закладкі і ўстаўкі паміж працоўным сталом і мабільнікам">
+<!ENTITY firstrun.addons2.title "Уладкаваць">
+<!ENTITY firstrun.addons2.description "Пазнаёмцеся з дадаткамі і ўсталюйце іх, каб дадць новую функцыянальнасць у ваш &brandShortName;">
+<!ENTITY firstrun.home2.title "Агляд">
+<!ENTITY firstrun.home2.description "Прапусціць усё гэта і перайсці на вашу асабістую Пачатковую старонку, каб пачаць азіраць Сеціва">
+<!ENTITY firstrun.features "Падрабязней">
 <!ENTITY firstrun.faq "Пытанні і адказы">
 <!ENTITY firstrun.privacy "Палітыка адасаблення">
 <!ENTITY firstrun.follow "Сачыць за намі:">

@@ -1,4 +1,5 @@
 <!ENTITY brandShortName "Firefox">
 <!ENTITY brandFullName "Mozilla Firefox">
 <!ENTITY vendorShortName "Mozilla">
-<!ENTITY trademarkInfo " Firefox і эмблема Firefox – гандлёвыя маркі Mozilla Foundation. Асобныя гандлёвыя маркі ўжываюцца пад ліцэнзіяй ад The Charlton Company.">
+<!ENTITY trademarkInfo.part1 "Firefox and the Firefox logos are trademarks of the Mozilla Foundation.">
+<!ENTITY trademarkInfo.part2 "Асобныя гандлёвыя маркі ўжываюцца пад ліцэнзіяй ад The Charlton Company.">

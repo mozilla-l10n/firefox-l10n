@@ -14,6 +14,8 @@
 <!ENTITY helpForIEUsers.label "Для карыстальнікаў Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
+<!ENTITY helpSafeMode.label "Перазапусціць з забароненымі дадаткамі…">
+<!ENTITY helpSafeMode.accesskey "з">
 <!ENTITY helpReleaseNotes.label "Заўвагі пра выданне">
 <!ENTITY helpReleaseNotes.accesskey "З">
 <!ENTITY helpTroubleshootingInfo.label "Звесткі для вырашэнне праблемаў">

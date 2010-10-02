@@ -45,8 +45,10 @@
                                            гэтую спасылку і загрузіце апошнюю версію:">
 <!ENTITY errorpatching.intro "Частковае абнаўленне не выканана. 
                                            &brandShortName; паспрабуе зрабіць яго зноў, загрузіўшы абнаўленне цалкам.">
-<!ENTITY errorCertAttrNoUpdate.label "Нейкая перашкодзіла бяспечанму абнаўленню &brandShortName;.
-                                           Праверце, калі ласка, наўянасць апошняй версіі &brandShortName; на:">
+<!ENTITY genericBackgroundError.label "&brandShortName; не здольны вызначыць, ці існуюць даступныя абнаўленні. Упэўніцеся,
+                                           калі ласка, што вы маеце апошнюю версію &brandShortName; з:">
+<!ENTITY errorCertAttrNoUpdate2.label "Штосьці замінае &brandShortName; бяспечна абнавіцца.
+                                           Упэўніцеся, ласка, што вы маеце апошнюю версію &brandShortName; з:">
 <!ENTITY errorCertAttrHasUpdate.label "Штосьці спрабуе ашукаць &brandShortName;, каб было атрымана
                                            небяспечнае абнаўленне. Паведамце, калі ласка, пра гэта дастаўшчыку сеткавых паслугаў і папрасіце дапамогі.">
 <!ENTITY finishedPage.title "Абнаўленне гатова для ўсталявання">

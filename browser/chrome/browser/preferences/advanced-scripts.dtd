@@ -44,7 +44,3 @@
 <!ENTITY raiseLowerWindows.accesskey "У">
 <!ENTITY disableContextMenus.label "Забараняць ці змяняць кантэкстнае меню">
 <!ENTITY disableContextMenus.accesskey "З">
-<!ENTITY hideStatusBar.label "Хаваць паліцу статусу">
-<!ENTITY hideStatusBar.accesskey "Х">
-<!ENTITY changeStatusBar.label "Змяняць тэкст на паліцы статусу">
-<!ENTITY changeStatusBar.accesskey "т">
