@@ -11,7 +11,10 @@
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!ENTITY imap.label                      "IMAP">
+<!ENTITY imap.description                "IMAP - Hapni, nga kompjutera të ndryshëm, dosje dhe mesazhe">
 <!ENTITY pop.label                       "POP">
+<!ENTITY pop.description                 "POP - Shkarkoni krejt mesazhet në këtë kompjuter, dosjet janë vetëm vendore">
+<!ENTITY recommended-appendix.label      "(e këshillueshme)">
 <!ENTITY smtp.label                      "SMTP">
 
 <!ENTITY cancel.label                    "Anuloje">
@@ -61,7 +64,7 @@
 <!ENTITY continue.label                  "Vazhdo">
 <!ENTITY continue.accesskey              "V">
 
-<!ENTITY email.emptytext                 "email@shembull.com">
+<!ENTITY email.placeholder               "email@shembull.com">
 <!ENTITY email.label                     "Vendndodhje email:">
 <!ENTITY email.accesskey                 "d">
 <!ENTITY incoming.label                  "Marrës:">
@@ -69,14 +72,14 @@
 
 <!ENTITY name.label                      "Emri juaj:">
 <!ENTITY name.accesskey                  "e">
-<!ENTITY name.emptytext                  "Emër Mbiemër">
+<!ENTITY name.placeholder                "Emër Mbiemër">
 <!ENTITY name.text                       "Emri juaj, si do të shihet nga të tjerët">
 <!ENTITY manualSetup.label               "Rregullim Dorazi…">
 <!ENTITY manualSetup.accesskey           "R">
 
 <!ENTITY password.label                  "Fjalëkalim:">
 <!ENTITY password.accesskey              "F">
-<!ENTITY password.emptytext              "Fjalëkalim">
+<!ENTITY password.placeholder            "Fjalëkalim">
 <!ENTITY password.text                   "Opsional, do të përdoret vetëm për vleftësimin e emrit të përdoruesit">
 <!ENTITY startOver.label                 "Nisja nga e para">
 <!ENTITY startOver.accesskey             "N">
