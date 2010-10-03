@@ -94,6 +94,14 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Sembunyikan Catatan Rilis">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sembunyikan catatan rilis versi baru ini">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Apa itu Pengaya?">
+<!ENTITY discover.description                 "Pengaya adalah aplikasi dapat Anda tambahkan pada Firefox untuk menambahkan fungsionalitas
+          atau tampilan ekstra yang berbeda. Coba gunakan bilah samping hemat waktu, pemberi kabar cuaca, atau tema yang sama sekali berbeda
+          untuk Firefox Anda".>
+<!ENTITY discover.footer                      "Jika Anda tersambung ke Internet, panel ini akan menampilkan pengaya unggulan dan populer yang dapat Anda coba.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versi">
