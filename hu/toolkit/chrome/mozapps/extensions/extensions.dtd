@@ -7,11 +7,21 @@
 <!ENTITY listEmpty.findUpdates.label          "Frissítések keresése">
 <!ENTITY listEmpty.search.label               "Nem található ilyen kiegészítő">
 <!ENTITY listEmpty.button.label               "További tudnivalók a kiegészítőkről">
-<!ENTITY installFromFile.label                "Telepítés fájlból...">
-<!ENTITY installFromFile.accesskey            "T">
+<!ENTITY installAddonFromFile.label           "Kiegészítő telepítése fájlból...">
+<!ENTITY installAddonFromFile.accesskey       "f">
+<!ENTITY toolsMenu.tooltip                    "Eszközök minden kiegészítőhöz">
 
 <!ENTITY cmd.back.tooltip                     "Ugrás az előző oldalra">
 <!ENTITY cmd.forward.tooltip                  "Ugrás a következő oldalra">
+
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Minden kiegészítő tiltva van a csökkentett mód miatt.">
+<!ENTITY warning.checkcompatibility.label          "A kiegészítők kompatibilitásának vizsgálata tiltva van. Előfordulhat, hogy nem kompatibilis kiegészítői vannak.">
+<!ENTITY warning.checkcompatibility.enable.label   "Engedélyezés">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Kiegészítők kompatibilitási ellenőrzésének engedélyezése">
+<!ENTITY warning.updatesecurity.label              "A kiegészítők biztonsági vizsgálata tiltva van. A frissítések biztonsági kockázatot hordoznak.">
+<!ENTITY warning.updatesecurity.enable.label       "Engedélyezés">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Kiegészítők frissítésekor a biztonsági ellenőrzés engedélyezése">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Keresés">
@@ -23,22 +33,26 @@
 <!ENTITY view.plugins.label                   "Bővítmények">
 <!ENTITY view.recentUpdates.label             "Legutóbbi frissítések">
 <!ENTITY view.availableUpdates.label          "Elérhető frissítések">
-<!ENTITY view.utilites.preferences.tooltip    "Kiegészítők beállítása">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Kiegészítők beállítása">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Kiegészítők frissítése most">
-<!ENTITY updates.updateAddonsNow.accesskey    "K">
+<!ENTITY updates.checkForUpdates.label        "Frissítések keresése">
+<!ENTITY updates.checkForUpdates.accesskey    "F">
 <!ENTITY updates.viewUpdates.label            "A legutóbbi frissítések megtekintése">
 <!ENTITY updates.viewUpdates.accesskey        "A">
-<!ENTITY updates.backgroudUpdateCheck.label   "Frissítések automatikus keresése">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "F">
+<!ENTITY updates.updateAddonsAutomatically.label     "Kiegészítők automatikus frissítése">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "K">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Minden kiegészítő automatikus frissítése">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "M">
+<!ENTITY updates.resetUpdatesToManual.label          "Minden kiegészítő kézi frissítése">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "k">
 <!ENTITY updates.updating.label               "Kiegészítők frissítése">
 <!ENTITY updates.installed.label              "A kiegészítői frissítve lettek.">
 <!ENTITY updates.downloaded.label             "A kiegészítőfrissítések letöltődtek.">
 <!ENTITY updates.restart.label                "A telepítés befejezéséhez újra kell indítani">
 <!ENTITY updates.noneFound.label              "Nem találhatók frissítések">
 <!ENTITY updates.manualUpdatesFound.label     "Az elérhető frissítések megtekintése">
+<!ENTITY updates.updateSelected.label         "Frissítések telepítése">
+<!ENTITY updates.updateSelected.tooltip       "A listán szereplő frissítések telepítése">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "További adatok megjelenítése">
@@ -56,6 +70,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "Letiltás">
 <!ENTITY cmd.disableAddon.accesskey           "L">
+<!ENTITY cmd.enableTheme.label                "Téma alkalmazása">
+<!ENTITY cmd.enableTheme.accesskey            "T">
+<!ENTITY cmd.disableTheme.label               "Téma levétele">
+<!ENTITY cmd.disableTheme.accesskey           "l">
 <!ENTITY cmd.installAddon.label               "Telepítés">
 <!ENTITY cmd.installAddon.accesskey           "T">
 <!ENTITY cmd.uninstallAddon.label             "Eltávolítás">
@@ -73,6 +91,13 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Kiadási megjegyzések elrejtése">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "A frissítés kiadási megjegyzéseinek elrejtése">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Mik azok a kiegészítők?">
+<!ENTITY discover.description                 "A kiegészítők olyan alkalmazások, amelyekkel személyre szabható a Firefox akár többletfunkciókkal, akár eltérő kinézettel. Próbáljon ki egy oldalsávot, amellyel gyorsabb a munka, nézze meg, milyen az időjárás, vagy öltöztesse a Firefoxot olyan ruhába, amilyen tetszik.">
+<!ENTITY discover.footer                      "Ha csatlakozva van az internetre, ezen a panelen megjelennek a legjobb és legnépszerűbb kiegészítők, amelyeket kipróbálhat.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Verzió">
 <!ENTITY detail.lastupdated.label             "Utoljára frissítve">
@@ -83,6 +108,8 @@
 <!ENTITY detail.contributions.description     "A kiegészítő fejlesztője azt kéri, hogy egy csekély összeggel támogassa a további fejlesztést.">
 
 <!ENTITY detail.updateType                    "Automatikus frissítések">
+<!ENTITY detail.updateDefault.label           "Alapértelmezett">
+<!ENTITY detail.updateDefault.tooltip         "Frissítések automatikus telepítése csak akkor, ha ez az alapbeállítás">
 <!ENTITY detail.updateAutomatic.label         "Be">
 <!ENTITY detail.updateAutomatic.tooltip       "Frissítések automatikus telepítése">
 <!ENTITY detail.updateManual.label            "Ki">
@@ -91,7 +118,7 @@
 <!ENTITY detail.repository                    "Kiegészítő profilja">
 <!ENTITY detail.size                          "Méret">
 
-<!ENTITY detail.checkForUpdates.label         "Frissítés keresése">
+<!ENTITY detail.checkForUpdates.label         "Frissítések keresése">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "Frissítések keresése ehhez a kiegészítőhöz">
 <!ENTITY detail.showPreferencesWin.label      "Beállítások">
@@ -103,7 +130,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Értékelés:">
+<!ENTITY rating2.label                        "Értékelés">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Szünet">
@@ -117,6 +144,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Rendezés a frissítés ideje szerint">
 <!ENTITY sort.relevance.label                 "Legjobb egyezés">
 <!ENTITY sort.relevance.tooltip               "Rendezés fontosság szerint">
+<!ENTITY sort.price.label                     "Ár">
+<!ENTITY sort.price.tooltip                   "Rendezés ár szerint">
 
 <!ENTITY search.filter2.label                 "Keresés:">
 <!ENTITY search.filter2.installed.label       "Saját kiegészítők">
@@ -128,8 +157,14 @@
 <!ENTITY addon.details.label                  "Tovább">
 <!ENTITY addon.details.tooltip                "További részletek errők a kiegészítőről">
 <!ENTITY addon.unknownDate                    "Ismeretlen">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(letiltva)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix                 "Frissítés">
 <!ENTITY addon.undoAction.label               "Visszavonás">
 <!ENTITY addon.undoAction.tooltip             "A művelet visszavonása">
@@ -140,6 +175,8 @@
 <!ENTITY addon.install.tooltip                "Ennek a kiegészítőnek a telepítése">
 <!ENTITY addon.updateNow.label                "Frissítés">
 <!ENTITY addon.updateNow.tooltip              "A frissítés telepítése ehhez a kiegészítőhöz">
+<!ENTITY addon.includeUpdate.label            "Belevétel a frissítésbe">
+<!ENTITY addon.updateAvailable.label          "Frissítés áll rendelkezésre">
 <!ENTITY addon.checkingForUpdates.label       "Frissítések keresése...">
 <!ENTITY addon.releaseNotes.label             "Kiadási megjegyzések:">
 <!ENTITY addon.loadingReleaseNotes.label      "Betöltés...">

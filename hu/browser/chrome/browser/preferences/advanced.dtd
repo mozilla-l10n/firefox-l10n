@@ -41,16 +41,18 @@
 <!ENTITY offlineStorage.label            "Kapcsolat nélküli tár">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Legfeljebb">
-<!ENTITY useCacheBefore.accesskey        "L">
-<!ENTITY useCacheAfter.label             "MB hely a gyorsítótárnak">
+<!ENTITY limitCacheSizeBefore.label      "Gyorsítótár korlátozása">
+<!ENTITY limitCacheSizeBefore.accesskey  "G">
+<!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Törlés most">
 <!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY overrideSmartCacheSize.label    "Az automatikus gyorsítótár-kezelés felülbírálása">
+<!ENTITY overrideSmartCacheSize.accesskey "a">
 
 <!ENTITY updateTab.label                 "Frissítés">
 

@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Beállítások">
 <!ENTITY testpilot.settings.dataSubmission.label    "Adatbeküldés">
 <!ENTITY testpilot.settings.notifications.label     "Értesítések">

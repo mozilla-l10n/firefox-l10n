@@ -1,12 +1,12 @@
 <!ENTITY firstrun.title                "Üdvözli a &brandShortName;!">
 <!ENTITY firstrun.heading2             "Üdvözli a &brandShortName;!">
-<!ENTITY firstrun.sync.title           "A Firefox Sync letöltése">
-<!ENTITY firstrun.sync.description     "A &brandShortName; előzményeit, jelszavait, könyvjelzőit és lapjait megoszthatja az asztali gépe és a mobilja között.">
-<!ENTITY firstrun.addons.title         "Kiegészítők letöltése">
-<!ENTITY firstrun.addons.description   "Telepítsen kiegészítőket a &brandShortName; bővítése céljából">
-<!ENTITY firstrun.home.title           "Kezdő lépések">
-<!ENTITY firstrun.home.description     "Koppintson a saját kezdőlapjára ugráshoz, és a webböngészés elkezdéséhez">
-<!ENTITY firstrun.relNotes.label       "Kiadási megjegyzések megjelenítése">
+<!ENTITY firstrun.sync2.title          "Szinkronizálás">
+<!ENTITY firstrun.sync2.description    "Jelentkezzen be a Sync-fiókjába, hogy megoszthassa a böngészési előzményeit, jelszavait, könyvjelzőit és lapjait az asztali gépe és a mobilja között.">
+<!ENTITY firstrun.addons2.title        "Testreszabás">
+<!ENTITY firstrun.addons2.description  "Fedezzen fel és telepítsen kiegészítőket, amelyek kibővítik a &brandShortName; tudását.">
+<!ENTITY firstrun.home2.title          "Megtekintés">
+<!ENTITY firstrun.home2.description    "Ezek kihagyása, és ugrás a saját kezdőlapra a webböngészés elkezdéséhez">
+<!ENTITY firstrun.features             "A további funkciókról">
 <!ENTITY firstrun.faq                  "GYIK">
 <!ENTITY firstrun.privacy              "Adatvédelmi irányelvek">
 <!ENTITY firstrun.follow               "További infó:">

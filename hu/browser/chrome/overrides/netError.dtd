@@ -53,9 +53,15 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Kapcsolat nélküli mód">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>A Fájl menüben kapcsolja ki a „Kapcsolat nélküli munkát”, majd próbálja újra.</li> </ul>
+  <li>Kapcsolja ki a „Kapcsolat nélküli munka” menüelemet, majd próbálja újra.</li>
+</ul>
 ">
 
 <!ENTITY contentEncodingError.title "Tartalomkódolási hiba">

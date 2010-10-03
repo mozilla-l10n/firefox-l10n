@@ -2,23 +2,27 @@
 
 <!-- First page of the wizard -->
 
+<!ENTITY setup.pickSetupType.description "Üdvözöljük! Ha még nem használta a &syncBrand.fullName.label;et, akkor létre kell hoznia egy fiókot.">
+<!ENTITY button.createNewAccount.label "Új fiók létrehozása">
+<!ENTITY button.haveAccount.label "Már van &syncBrand.fullName.label;-fiókom">
+
 <!ENTITY setup.choicePage.title.label     "Használta már a &syncBrand.fullName.label; kiegészítőt?">
 <!ENTITY setup.choicePage.new.label       "Még nem használtam a &syncBrand.shortName.label; kiegészítőt">
 <!ENTITY setup.choicePage.existing.label  "Már használom a &syncBrand.shortName.label; kiegészítőt egy másik számítógépen">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Kapcsolódás">
+<!ENTITY server.label               "Kiszolgáló">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-kiszolgáló">
 <!ENTITY serverType.custom.label    "Egyéni kiszolgáló használata">
-<!ENTITY signIn.username.label      "Felhasználónév">
-<!ENTITY signIn.username.accesskey  "F">
+<!ENTITY signIn.account.label       "E-mail cím / Feéhasználónév">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Jelszó">
 <!ENTITY signIn.password.accesskey  "J">
 <!ENTITY signIn.serverURL.label     "Kiszolgáló URL-je">
 <!ENTITY signIn.serverURL.accesskey "K">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountPage.title.label  "&syncBrand.shortName.label;-fiók létrehozása">
+<!ENTITY setup.newAccountDetailsPage.title.label "Fiók adatai">
 <!ENTITY setup.confirmPassword.label  "Jelszó megerősítése">
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "E-mail cím">
@@ -33,60 +37,61 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label       "Írja be a titkosító kifejezést">
-<!ENTITY passphraseDesc.label         "Írjon be egy titkosító kifejezést. Ez titkosítja az összes adatát, hogy csak Ön férhessen hozzá. Ez nem tárolódik a kiszolgálón, úgyhogy ne veszítse el!">
-<!ENTITY passphraseDesc2.label        "A titkosító kifejezés legalább 12 karakter hosszú legyen, és ne egyezzen meg a jelszóval.">
-<!ENTITY passphraseEntry.label        "Titkosító kifejezés">
-<!ENTITY passphraseEntry.accesskey    "T">
-<!ENTITY passphraseConfirm.label      "Megerősítés">
-<!ENTITY passphraseConfirm.accesskey  "m">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "A &brandShortName; ügyel adatai védelmére">
+<!ENTITY setup.newSyncKeyPage.description.label "A tökéletes adatvédelem érdekében minden adata titkosítva lesz feltöltés előtt. Az adatok visszafejtéséhez szükséges Sync-kulcs nem lesz feltöltve.">
+<!ENTITY syncKeyEntry.label        "Sync-kulcs">
+<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY syncKeyGenerate.label     "Létrehozás">
+<!ENTITY syncKeyStrength.label     "Erősség:">
+<!ENTITY syncKeyHelp.label         "Mit jelent az erősség?">
+<!ENTITY syncKeyBackup.description "A Sync-kulcs kelleni fog, ha más gépekről akarja elérni a &syncBrand.fullName.label; szolgáltatást. Készítsen biztonsági másolatot. Nem tudunk segíteni, ha elveszti a Sync-kulcsát.">
 
-<!-- New Account Page 3: Sync Type Options -->
-<!ENTITY setup.newAccountPrefs2.title.label "A böngészőszinkronizálás beállításai">
-<!ENTITY syncComputerName.label       "Számítógép neve:">
-<!ENTITY syncComputerName.accesskey   "S">
-<!ENTITY syncModeSwitchDesc.label     "A &brandShortName;: ">
-<!ENTITY syncModeSwitchDesc.accesskey "A">
-<!ENTITY syncEverything.label         "Mindent szinkronizál">
-<!ENTITY customSync.label             "Az egyéni beállításokat használja">
-<!ENTITY syncEverythingDescription.label  "A könyvjelzők, előzmények, jelszavak, beállítások és lapok lesznek szinkronizálva.">
-<!ENTITY syncItem.bookmarks.label     "Könyvjelzők szinkronizálása">
-<!ENTITY syncItem.bookmarks.accesskey "K">
-<!ENTITY syncItem.tabs.label          "Lapok szinkronizálása">
-<!ENTITY syncItem.tabs.accesskey      "L">
-<!ENTITY syncItem.history.label       "Előzmények szinkronizálása">
-<!ENTITY syncItem.history.accesskey   "E">
-<!ENTITY syncItem.passwords.label     "Jelszavak szinkronizálása">
-<!ENTITY syncItem.passwords.accesskey "J">
-<!ENTITY syncItem.prefs.label         "Beállítások szinkronizálása">
-<!ENTITY syncItem.prefs.accesskey     "B">
+<!ENTITY button.syncKeyBackup.print.label     "Nyomtatás...">
+<!ENTITY button.syncKeyBackup.print.accesskey "N">
+<!ENTITY button.syncKeyBackup.save.label      "Mentés...">
+<!ENTITY button.syncKeyBackup.save.accesskey  "M">
 
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage.title.label     "Bizonyítsa be, hogy Ön nem egy robot! ;)">
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Bizonyítsa be, hogy Ön nem egy robot!">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Fiókadatok beírása">
 <!ENTITY resetPassword.label          "Jelszó törlése">
 <!ENTITY connecting.label             "Kapcsolódás...">
 
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY passphraseGroupbox.label     "Írja be a titkosító kifejezést">
-<!ENTITY passphraseDesc3.label        "Írjon be a titkosító kifejezést. Ez ugyanaz a titkosító kifejezés legyen, amelyet az adatok titkosítására használt.">
-<!ENTITY passphraseHelp.label         "A titkosító kifejezés legalább 12 karakter hosszú és nem ugyanaz, mint a jelszó. A mentett titkosító kifejezést megtalálja a másik számítógépén a Biztonság párbeszédpanelen a Mentett jelszavak alatt. Ha nem tudja megszerezni a helyes titkosító kifejezést, akkor alaphelyzetbe is állíthatja, de akkor minden kiszolgálón tárolt adatot elveszt.">
-<!ENTITY changePassphrase.label       "Titkosító kifejezés megváltoztatása">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Adja meg a Sync-kulcsát">
+<!ENTITY setup.existingSyncKeyPage.description "A Sync-kulcs akkor jött létre, vagy akkor adta meg, amikor először iratkozott fel a &syncBrand.fullName.label; szolgáltatásra. Ez nem ugyanaz, mint a jelszó.">
+<!ENTITY existingSyncKeyHelp.description "A mentett Sync-kulcsot megtalálja a másik számítógépén a Biztonság párbeszédpanelen a Mentett jelszavak alatt. Ha nem tudja megszerezni a helyes Sync-kulcsot, akkor alaphelyzetbe is állíthatja, de akkor minden kiszolgálón tárolt adatot elveszt.">
+<!ENTITY lostSyncKey.label            "Elvesztettem a Sync-kulcsomat">
 <!ENTITY verifying.label              "Ellenőrzés...">
 
-<!-- New & Existing Account: Merge Options -->
-<!ENTITY setup.mergeChoicePage.title.label "Hogyan szeretne kezdeni?">
-<!ENTITY choice.merge.main.label      "A számítógép adatainak összefésülése a &syncBrand.shortName.label; adataival">
-<!ENTITY choice.merge.recommend.label "A Mozilla minden felhasználónak ezt a lehetőséget javasolja.">
-<!ENTITY choice.client.main.label     "Minden adat felülírása ezen a számítógépen a &syncBrand.fullName.label; adataival">
-<!ENTITY choice.server.main.label     "Minden más eszköz adatának a helyi adatokra cseréje">
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Szinkronizálási beállítások">
+<!ENTITY syncComputerName.label       "Számítógép neve:">
+<!ENTITY syncComputerName.accesskey   "S">
 
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY confirm.caption.label        "Erősítse meg a választását">
-<!ENTITY confirm.merge.label          "Azt választotta, hogy összefésüli az ezen a számítógépen található adatokat a &syncBrand.fullName.label; kiegészítőt futtató többi eszköze adataival.">
+<!ENTITY syncMy.label               "Szinkronizálandó">
+<!ENTITY engine.bookmarks.label     "Könyvjelzők">
+<!ENTITY engine.bookmarks.accesskey "K">
+<!ENTITY engine.tabs.label          "Lapok">
+<!ENTITY engine.tabs.accesskey      "L">
+<!ENTITY engine.history.label       "Előzmények">
+<!ENTITY engine.history.accesskey   "E">
+<!ENTITY engine.passwords.label     "Jelszavak">
+<!ENTITY engine.passwords.accesskey "J">
+<!ENTITY engine.prefs.label         "Beállítások">
+<!ENTITY engine.prefs.accesskey     "B">
+
+<!ENTITY choice2.merge.main.label      "A számítógép adatainak összefésülése a &syncBrand.shortName.label; adataival">
+<!ENTITY choice2.merge.recommended.label "Ajánlott:">
+<!ENTITY choice2.client.main.label     "Minden adat felülírása ezen a számítógépen a &syncBrand.shortName.label; adataival">
+<!ENTITY choice2.server.main.label     "Minden más eszköz adatának a helyi adatokra cseréje">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Megerősítés">
+<!ENTITY confirm.merge.label    "A &syncBrand.fullName.label; most összefésüli ennek a számítógépnek a böngészőadatait a Sync-fiók adataival.">
 <!ENTITY confirm.client.label         "Minden &brandShortName;-adat törlődni fog ezen a számítógépen, beleértve a következőket:">
 <!ENTITY confirm.client.moreinfo.label "A &brandShortName; ezután rámásolja a &syncBrand.fullName.label;-adatokat erre a számítógépre.">
 <!ENTITY confirm.client.warning.label "FIGYELEM: Ez azt jelenti, hogy ezen a számítógépen minden &brandShortName;-adat felül lesz írva!">
@@ -94,6 +99,6 @@
 <!ENTITY confirm.server.warning.label "FIGYELEM: A helyi adatok minden &brandShortName;-adatot felül fognak írni ezeken az eszközökön!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "A beállítás kész!">
-<!ENTITY setup.successPage.desc.label    "Gratulálunk! A &brandShortName; be van állítva az adatok automatikus szinkronizálására. Ne felejtse el telepíteni minden eszközére a &syncBrand.fullName.label; kiegészítőt.
-Folytathatja a &brandShortName; használatát.">
+<!ENTITY setup.successPage.title "A beállítás kész">
+<!ENTITY changeOptions.label "Megváltoztathatja ezt a beállítást a Szinkronizálás beállítása lehetőséget választva.">
+<!ENTITY continueUsing.label "Folytathatja a &brandShortName; használatát.">

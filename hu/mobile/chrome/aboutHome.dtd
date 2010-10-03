@@ -2,7 +2,7 @@
 <!ENTITY aboutHome.recentTabs                   "A legutóbbi lapok megjelenítése">
 <!ENTITY aboutHome.remoteTabs                   "Lapok más számítógépről">
 <!ENTITY aboutHome.recommendedAddons2           "Kiegészítők a &brandShortName;hoz">
-<!ENTITY aboutHome.aboutMozilla                 "A Mozilláról">
+<!ENTITY aboutHome.giveFeedback                 "Visszajelzés">
 <!ENTITY aboutHome.openAllTabs                  "Mindegyik megnyitása külön lapon">
 <!ENTITY aboutHome.noTabs                       "Ne legyenek legutóbbi lapok">
 <!ENTITY aboutHome.noAddons                     "Ne legyenek ajánlott kiegészítők">
