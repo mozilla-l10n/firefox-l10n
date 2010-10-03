@@ -156,7 +156,7 @@
 <!ENTITY sortByReceivedCmd.label "Recepció">
 <!ENTITY sortByReceivedCmd.accesskey "R">
 <!ENTITY sortByStarCmd.label "Destacat">
-<!ENTITY sortByStarCmd.accesskey "y">
+<!ENTITY sortByStarCmd.accesskey "s">
 <!ENTITY sortByAttachmentsCmd.label "Adjuncions">
 <!ENTITY sortByAttachmentsCmd.accesskey "j">
 <!ENTITY sortByPriorityCmd.label "Prioritat">
@@ -406,7 +406,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAllReadCmd.accesskey "g">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Destacat">
-<!ENTITY markStarredCmd.accesskey "y">
+<!ENTITY markStarredCmd.accesskey "s">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Com a correu brossa">
 <!ENTITY markAsJunkCmd.accesskey "b">

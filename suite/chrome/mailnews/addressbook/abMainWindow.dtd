@@ -102,8 +102,6 @@
 <!ENTITY importCmd.accesskey 				"I">
 <!ENTITY exportCmd.label 					"Exporta…">
 <!ENTITY exportCmd.accesskey 				"E">
-<!ENTITY allowOnlineCheck.label             "Activa la presència en línia (AOL)">
-<!ENTITY allowOnlineCheck.accesskey         "A">
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label 						"Crea un contacte">
@@ -119,6 +117,7 @@
 <!ENTITY newimButton.label                              "Missatgeria instantània">  
 <!ENTITY newimButton.accesskey                          "M">  
 <!ENTITY searchNameAndEmail.placeholder                   "Cerca el nom i l'adreça de correu">
+<!ENTITY searchBox.title                                "Cerca">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Barra d'eines de la llibreta d'adreces">

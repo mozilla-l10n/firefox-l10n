@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc aquestes adreces de correu:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Separeu les adreces amb comes">
+<!ENTITY ccAddressList.placeholder "Separeu les adreces amb comes">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Cco una altra adreça:">
-<!ENTITY bccAddress.accesskey "C">
-<!ENTITY bccAddressList.emptytext "Separeu les adreces amb comes">
+<!ENTITY bccAddress.label "Cco aquestes adreces de correu:">
+<!ENTITY bccAddress.accesskey "o">
+<!ENTITY bccAddressList.placeholder "Separeu les adreces amb comes">
 <!ENTITY saveMessageDlg.label "Mostra un diàleg de confirmació quan els missatges s'hagin desat">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

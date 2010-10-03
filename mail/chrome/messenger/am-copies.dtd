@@ -11,8 +11,8 @@
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Separeu les adreces amb comes">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc aquestes adreces de correu:">
-<!ENTITY bccAddress.accesskey "t">
+<!ENTITY bccAddress.label "Cco aquestes adreces de correu:">
+<!ENTITY bccAddress.accesskey "o">
 <!ENTITY bccAddressList.placeholder "Separeu les adreces amb comes">
 <!ENTITY saveMessageDlg.label "Mostra un diàleg de confirmació quan els missatges s'hagin desat">
 <!ENTITY saveMessageDlg.accesskey "s">

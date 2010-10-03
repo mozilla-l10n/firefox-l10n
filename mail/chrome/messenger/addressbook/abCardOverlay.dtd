@@ -67,7 +67,7 @@
 <!ENTITY DisplayName.label "Nom a mostrar:">
 <!ENTITY DisplayName.accesskey "m">
 <!ENTITY preferDisplayName.label        "Sempre prefereix mostrar el nom damunt de la capçalera del missatge">
-<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY preferDisplayName.accesskey    "d">
 <!ENTITY NickName.label "Sobrenom:">
 <!ENTITY NickName.accesskey "S">
 
