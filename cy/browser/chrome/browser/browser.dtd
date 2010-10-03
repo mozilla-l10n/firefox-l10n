@@ -411,7 +411,7 @@ can reach it easily. -->
 <!ENTITY mediaPause.accesskey        "O">
 <!ENTITY mediaMute.label             "Tewi">
 <!ENTITY mediaMute.accesskey         "T">
-<!ENTITY mediaUnmute.label           "Dad Dewi">
+<!ENTITY mediaUnmute.label           "Dad-Dewi">
 <!ENTITY mediaUnmute.accesskey       "d">
 <!ENTITY mediaShowControls.label     "Dangos Rheolydd">
 <!ENTITY mediaShowControls.accesskey "R">
