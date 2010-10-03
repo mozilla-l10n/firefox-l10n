@@ -51,14 +51,13 @@
 
 <!ENTITY netInterrupt.title "Przerwano przesyłanie danych">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-<!ENTITY netOffline2.longDesc "
+
+<!ENTITY netOffline.title "Tryb offline">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>Spróbuj ponownie. &brandShortName; powtórzy próbę otwarcia połączenia i przeładuje stronę.</li>
 </ul>
 ">
-
-<!ENTITY netOffline.title "Tryb offline">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Błąd kodowania zawartości">
 <!ENTITY contentEncodingError.longDesc "
@@ -172,9 +171,10 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>Nie powinno się dodawać wyjątku jeśli używasz połączenia internetowego, któremu nie możesz w pełni zaufać lub jeśli zazwyczaj nie pokazuje się to ostrzeżenie na tym serwerze.</p>
+<!ENTITY securityOverride.warningContent "
+<p>>Nie powinno się dodawać wyjątku jeśli używasz połączenia internetowego, któremu nie możesz w pełni zaufać lub jeśli zazwyczaj nie pokazuje się to ostrzeżenie na tym serwerze.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
