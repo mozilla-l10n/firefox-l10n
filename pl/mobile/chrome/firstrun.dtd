@@ -1,12 +1,11 @@
-<!ENTITY firstrun.title                "Witaj w &brandShortName;">
-<!ENTITY firstrun.heading              "Aby pomóc Ci rozpocząć, poniżej zamieścilismy kilka najpopularniejszych funkcji i dodatków, które pozwolą Ci w pełni wykorzystać program &brandShortName;.">
-<!ENTITY firstrun.recommended          "Polecane:">
-<!ENTITY firstrun.weave.title          "Pobierz Weave Sync">
-<!ENTITY firstrun.weave.description    "Współdziel historię, hasła, zakładki i karty programu &brandShortName; między komputerem i urządzeniem mobilnym">
-<!ENTITY firstrun.starter.title        "Pobierz kolekcję startową dodatków">
-<!ENTITY firstrun.starter.description  "Zainstaluj polecane dodatki, aby rozszerzyć możliwości programu &brandShortName;">
-<!ENTITY firstrun.tour.title           "Pierwsze kroki">
-<!ENTITY firstrun.tour.description     "Obejrzyj ten klip, aby poznać funkcje i możliwości tego programu">
+<!ENTITY firstrun.title                "&brandShortName; &ndash; Witamy">
+<!ENTITY firstrun.heading2             "&brandShortName; &ndash; Witamy">
+<!ENTITY firstrun.sync2.title          "Synchronizuj">
+<!ENTITY firstrun.sync2.description    "Zaloguj się do swojego konta Sync i współdziel swoją historię, hasła, zakładki i karty między komputerem a komórką.">
+<!ENTITY firstrun.addons2.title        "Dostosuj">
+<!ENTITY firstrun.addons2.description  "Odkryj i zainstaluj dodatki które poszerzają funkcjonalność programu &brandShortName;">
+<!ENTITY firstrun.home2.title          "Przeglądaj">
+<!ENTITY firstrun.home2.description    "Pomiń to wszystko i zacznij przeglądanie od swojej strony startowej"> 
 <!ENTITY firstrun.features             "Pokaż więcej funkcji">
 <!ENTITY firstrun.faq                  "FAQ">
 <!ENTITY firstrun.privacy              "Polityka prywatności">

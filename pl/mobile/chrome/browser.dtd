@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "Odśwież">
 <!ENTITY stop.label            "Zatrzymaj">
 <!ENTITY go.label              "Przejdź">
-<!ENTITY openLocation.label    "Otwórz lokację">
 <!ENTITY star.label            "Gwiazdka">
 <!ENTITY newtab.label          "Nowa karta">
 <!ENTITY closetab.label        "Zamknij kartę">
@@ -17,18 +16,17 @@
 <!ENTITY selectAll.label       "Zaznacz wszystko">
 <!ENTITY noSuggestions.label   "(Brak podpowiedzi)">
 <!ENTITY addToDictionary.label "Dodaj do słownika">
+
+<!ENTITY allPagesHeader.label      "Wszystkie strony">
 <!ENTITY bookmarksHeader.label     "Zakładki">
-<!ENTITY bookmarksManage.label     "Zarządzaj">
-<!ENTITY editBookmarkRemove.label  "Usuń">
+<!ENTITY historyHeader.label       "Historia">
+<!ENTITY desktopHeader.label       "Pulpit">
+
 <!ENTITY editBookmarkDone.label    "Gotowe">
 <!ENTITY editBookmarkTags.label    "Dodaj etykiety">
-<!ENTITY helperApp.prompt          "Wybierz, co zrobić z tym plikiem">
-<!ENTITY helperApp.open            "Otwórz">
-<!ENTITY helperApp.save            "Zapisz">
-<!ENTITY helperApp.nothing         "Nic">
-<!ENTITY formHelper.previous       "Poprzedni">
-<!ENTITY formHelper.next           "Następny">
-<!ENTITY formHelper.done           "Gotowe">
+
+<!ENTITY selectHelper.done         "Gotowe">
+
 <!ENTITY addonsHeader.label        "Dodatki">
 <!ENTITY addonsLocal.label         "Twoje dodatki">
 <!ENTITY addonsUpdate.label        "Aktualizacja">
@@ -87,6 +85,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY consoleErrLine.label      "Linia:">
 <!ENTITY consoleErrColumn.label    "Kolumna:">
 
-<!ENTITY contextOpenInNewTab.label "Otwórz odnośnik w nowej karcie">
-<!ENTITY contextSaveImage.label    "Zapisz obrazek">
+<!ENTITY contextOpenInNewTab.label    "Otwórz odnośnik w nowej karcie">
+<!ENTITY contextSaveLink.label        "Zapisz odnośnik">
+<!ENTITY contextSaveImage.label       "Zapisz obrazek">
+<!ENTITY contextShareLink.label       "Podziel się odnośnikiem">
+<!ENTITY contextShareImage.label      "Podziel się obrazkiem">
+<!ENTITY contextSaveVideo.label       "Zapisz wideo">
+<!ENTITY contextShareVideo.label      "Podziel się wideo">
+<!ENTITY contextEditBookmark.label    "Edytuj">
+<!ENTITY contextRemoveBookmark.label  "Usuń">
+
+<!ENTITY pageactions.saveas.pdf      "Zapisz jako PDF">
+<!ENTITY pageactions.share.page      "Podziel się stroną">
+<!ENTITY pageactions.password.forget "Zapomnij hasło">
+<!ENTITY pageactions.reset           "Wyczyść preferencje witryny">
+<!ENTITY pageactions.findInPage      "Znajdź na stronie">
+<!ENTITY pageactions.search.addNew   "Dodaj silnik wyszukiwania">
 

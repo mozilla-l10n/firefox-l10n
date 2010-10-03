@@ -2,7 +2,7 @@
 <!ENTITY aboutHome.recentTabs                   "Twoje karty z poprzedniej sesji">
 <!ENTITY aboutHome.remoteTabs                   "Karty z innych komputerów">
 <!ENTITY aboutHome.recommendedAddons2           "Dodatki z programu &brandShortName;">
-<!ENTITY aboutHome.aboutMozilla                 "O Mozilli">
+<!ENTITY aboutHome.giveFeedback                 "Wyraź opinię">
 <!ENTITY aboutHome.openAllTabs                  "Otwórz wszystkie w kartach">
 <!ENTITY aboutHome.noTabs                       "Brak kart z poprzedniej sesji">
 <!ENTITY aboutHome.noAddons                     "Brak polecanych dodatków">
