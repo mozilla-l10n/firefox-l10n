@@ -41,3 +41,7 @@
 <!ENTITY unreadColumn.label "Per llegir">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Mida">
+<!ENTITY folderLocationToolbarItem.title "Ubicació de la carpeta">
+<!ENTITY mailViewsToolbarItem.title "Vistes del correu">
+<!ENTITY searchToolbarItem.title "Cerca">
+<!ENTITY searchSubjectOrAddress.placeholder "Cerca l'assumpte o l'adreça">

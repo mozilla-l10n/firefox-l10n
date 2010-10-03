@@ -169,9 +169,6 @@
 <!ENTITY showSearchToolbarCmd.label             "Barra de cerca">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
 
-<!ENTITY showLocationToolbarCmd.label "Barra d'ubicació">
-<!ENTITY showLocationToolbarCmd.accesskey "u">
-
 <!ENTITY messagePaneLayoutStyle.label "Format">
 <!ENTITY messagePaneLayoutStyle.accesskey "F">
 <!ENTITY messagePaneClassic.label "Aspecte clàssic">
@@ -199,7 +196,7 @@
 <!ENTITY sortByPriorityCmd.label "Prioritat">
 <!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortByFlagCmd.label "Destacat">
-<!ENTITY sortByFlagCmd.accesskey "y">
+<!ENTITY sortByFlagCmd.accesskey "s">
 <!ENTITY sortBySizeCmd.label "Mida">
 <!ENTITY sortBySizeCmd.accesskey "M">
 <!ENTITY sortByStatusCmd.label "Estat">
@@ -421,7 +418,7 @@
 <!ENTITY markAllReadCmd.accesskey "g">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markFlaggedCmd.label "Destacat">
-<!ENTITY markFlaggedCmd.accesskey "y">
+<!ENTITY markFlaggedCmd.accesskey "s">
 <!ENTITY markFlaggedCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Com a correu brossa">
 <!ENTITY markAsJunkCmd.accesskey "b">
@@ -487,11 +484,12 @@
 <!ENTITY stopButton.label "Atura">
 <!ENTITY junkButton.label "Correu brossa">
 <!ENTITY notJunkButton.label "És correu legítim">
+<!ENTITY searchButton.title "Cerca avançada">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY menuBar.tooltip "Barra del menú">
 <!ENTITY mailToolbar.tooltip "Barra del correu">
-<!ENTITY locationToolbar.tooltip "Barra d'ubicació">
+<!ENTITY searchToolbar.tooltip "Barra de cerca">
 <!ENTITY advancedButton.tooltip "Cerca avançada de missatges">
 <!ENTITY getMsgButton.tooltip "Recupera els missatges nous">
 <!ENTITY newMsgButton.tooltip "Crea un nou missatge">
@@ -586,9 +584,11 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Cerca l'assumpte o l'adreça">
+
 <!ENTITY advancedButton.label "Avançat…">
 <!ENTITY advancedButton.accesskey "A">
+<!ENTITY searchButton.label "Cerca missatges…">
+<!ENTITY searchButton.accesskey "C">
 
 <!ENTITY all.label "Tot">
 <!ENTITY all.accesskey "T">

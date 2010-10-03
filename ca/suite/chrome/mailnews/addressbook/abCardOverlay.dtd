@@ -146,9 +146,9 @@ de contingut incrustat en els missatges HTML d'aquest contacte.">
 <!ENTITY Birthday.label                 "Aniversari:">
 <!ENTITY Birthday.accesskey             "v">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Any">
+<!ENTITY Year.placeholder                 "Any">
 <!ENTITY Or.value                       "o">
-<!ENTITY Age.emptytext                  "Edat">
+<!ENTITY Age.placeholder                  "Edat">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Custom1.label "Personalitzat 1:">
@@ -174,7 +174,7 @@ de contingut incrustat en els missatges HTML d'aquest contacte.">
 <!ENTITY BrowsePhoto.accesskey          "N">
 <!ENTITY PhotoURL.label                 "Una del web">
 <!ENTITY PhotoURL.accesskey             "w">
-<!ENTITY PhotoURL.emptytext             "Enganxeu o escriviu l'adreça web d'una fotografia">
+<!ENTITY PhotoURL.placeholder             "Enganxeu o escriviu l'adreça web d'una fotografia">
 <!ENTITY UpdatePhoto.label              "Actualitza">
 <!ENTITY UpdatePhoto.accesskey          "A">
 

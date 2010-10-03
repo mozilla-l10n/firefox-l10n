@@ -50,7 +50,7 @@
 <!ENTITY directorySecure.label "Utilitza una connexió segura (SSL)">
 <!ENTITY directorySecure.accesskey "U">
 <!ENTITY directoryLogin.label "DN d'enllaç">
-<!ENTITY directoryLogin.accesskey "i">
+<!ENTITY directoryLogin.accesskey "D">
 <!ENTITY General.tab "General">
 <!ENTITY Offline.tab "Fora de línia">
 <!ENTITY Advanced.tab "Avançat">
