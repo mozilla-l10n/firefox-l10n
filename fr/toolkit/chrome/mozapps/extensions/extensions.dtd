@@ -90,6 +90,16 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Masquer les notes de version">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Masquer les notes de version pour cette mise à jour">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Que sont les modules complémentaires ?">
+<!ENTITY discover.description                 "Les modules complémentaires sont des applications permettant de personnaliser Firefox
+  avec des fonctionnalités ou des styles supplémentaires. Gagnez du temps avec un panneau latéral, surveillez la météo ou changez l'apparence de Firefox
+  à votre guise.">
+<!ENTITY discover.footer                      "Lorsque votre connexion Internet sera active, ce panneau vous permettra de découvrir
+  certain des meilleurs modules complémentaires ainsi que les plus populaires.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Dernière mise à jour">
