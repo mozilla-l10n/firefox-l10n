@@ -25,7 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Die Verbindung wurde erfolgreich aufgebaut, aber während der Datenübertragung unterbrochen.  Bitte versuchen Sie es nochmals.</p><ul><li>Können Sie auch andere Websites nicht aufrufen? Überprüfen Sie die Netzwerkverbindung des Computers.</li><li>Treten auch weiterhin Probleme auf? Kontaktieren Sie Ihren Netzwerkadministrator oder Internetprovider zur Unterstützung.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-Modus">
-<!ENTITY netOffline.longDesc2 "<p>Die Anwendung arbeitet im Offline-Modus und kann daher keine Verbindung aufbauen.</p><ul><li>Ist der Computer mit einem aktiven Netzwerk verbunden?</li><li>Schalten Sie die Anwendung bitte in den Online-Modus und versuchen Sie es dann nochmals.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>Die Anwendung arbeitet im Offline-Modus und kann daher keine Verbindung aufbauen.</p><ul><li>Ist der Computer mit einem aktiven Netzwerk verbunden?</li><li>Schalten Sie die Anwendung bitte in den Online-Modus und versuchen Sie es dann nochmals.</li></ul>">
 <!ENTITY netOffline.overrideLongDesc "<p>Der Browser arbeitet im Offline-Modus und kann keine Verbindung mit dem gewünschten Eintrag herstellen.</p><ul><li>Ist der Computer mit einem aktiven Netzwerk verbunden?</li><li>Setzen Sie den Browser in den Online-Modus und versuchen Sie es nochmals.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Fehlerhafte Kodierung der Inhalte">
