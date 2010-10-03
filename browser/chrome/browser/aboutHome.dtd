@@ -5,12 +5,11 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; kezdőoldal">
-<!ENTITY abouthome.brandLogo.title "&brandFullName; logó">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> kezdőoldal">
-
-<!ENTITY abouthome.searchEngineLogo.title "Keresőszolgáltatás logója">
 
 <!ENTITY abouthome.searchEngineButton.label "Keresés">
 
@@ -18,3 +17,12 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "Beállítások">
 
 <!ENTITY abouthome.aboutMozilla "A Mozilláról">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Köszönjük, hogy a Firefoxot választotta! A böngésző képességeinek lehető legjobb kihasználása érdekében ismerje meg az <a>újdonságokat</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "A Firefox tetszés szerint testreszabható. <a>Válogasson a több ezer kiegészítő közül</a>.">

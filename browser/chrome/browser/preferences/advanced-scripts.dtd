@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "A">
 <!ENTITY disableContextMenus.label      "Előugró menük letiltása vagy cseréje">
 <!ENTITY disableContextMenus.accesskey  "E">
-<!ENTITY hideStatusBar.label            "Állapotsor elrejtése">
-<!ENTITY hideStatusBar.accesskey        "s">
-<!ENTITY changeStatusBar.label          "Állapotsor szövegének megváltoztatása">
-<!ENTITY changeStatusBar.accesskey      "z">

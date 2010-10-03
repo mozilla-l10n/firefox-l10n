@@ -7,6 +7,9 @@
 <!ENTITY editContactEmail.label "E-mail:">
 <!ENTITY editContactEmail.accesskey "E">
 
+<!ENTITY editContactAddressBook.label "Címjegyzék:">
+<!ENTITY editContactAddressBook.accesskey "C">
+
 <!ENTITY editContactPanelCancel.label "Mégse">
 <!ENTITY editContactPanelCancel.accesskey "M">
 

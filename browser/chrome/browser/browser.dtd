@@ -18,15 +18,21 @@
 <!ENTITY reloadAllTabs.accesskey            "s">
 <!ENTITY  closeOtherTabs.label               "Többi lap bezárása">
 <!ENTITY closeOtherTabs.accesskey           "T">
-<!ENTITY  openTabInNewWindow.label           "Megnyitás új ablakban">
-<!ENTITY openTabInNewWindow.accesskey       "a">
-<!ENTITY  pinTab.label                       "Legyen alkalmazáslap">
-<!ENTITY pinTab.accesskey                   "L">
-<!ENTITY  unpinTab.label                     "Legyen normál lap">
-<!ENTITY unpinTab.accesskey                 "n">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Rögzítés alkalmazáslapként">
+<!ENTITY pinAppTab.accesskey                "R">
+<!ENTITY  unpinAppTab.label                  "Lap feloldása">
+<!ENTITY unpinAppTab.accesskey              "L">
 <!ENTITY  moveToGroup.label                  "Áthelyezés csoportba">
 <!ENTITY moveToGroup.accesskey              "c">
 <!ENTITY  moveToNewGroup.label               "Új csoport">
+<!ENTITY  moveToNewWindow.label              "Áthelyezés új ablakba">
+<!ENTITY moveToNewWindow.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label              "Minden lap egy könyvjelzőbe...">
 <!ENTITY bookmarkAllTabs.accesskey          "M">
 <!ENTITY  undoCloseTab.label                 "Lapbezárás visszavonása">
@@ -64,8 +70,8 @@
 <!ENTITY personalbarCmd.label "Könyvjelző eszköztár">
 <!ENTITY personalbarCmd.accesskey "K">
 <!ENTITY bookmarksToolbarItem.label "Könyvjelző eszköztár elemei">
-<!ENTITY taskbarCmd.label "Állapotsor">
-<!ENTITY taskbarCmd.accesskey "a">
+<!ENTITY addonBarCmd.label "Kiegészítősáv">
+<!ENTITY addonBarCmd.accesskey "K">
 
 <!ENTITY pageSourceCmd.label "Oldal forrása">
 <!ENTITY pageSourceCmd.accesskey "r">
@@ -116,7 +122,6 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Oldal letöltésének megszakítása">
 <!ENTITY goEndCap.tooltip             "Ugrás a címmezőben levő címre">
-<!ENTITY feedButton.tooltip           "Feliratkozás erre az oldalra...">
 <!ENTITY printButton.label            "Nyomtatás">
 <!ENTITY printButton.tooltip          "Oldal kinyomtatása">
 
@@ -127,9 +132,15 @@
 <!ENTITY bookmarksItem.title          "Könyvjelzők">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Kezdőlap">
-<!ENTITY tabViewButton2.label         "Lapcsoportok">
-<!ENTITY tabViewButton2.tooltip       "Lapok csoportosítása">
+<!ENTITY appMenuButton.label          "Menü">
+<!ENTITY appMenuButton.tooltip        "A &brandShortName; menü megnyitása">
+<!ENTITY homeButton.label             "Kezdőlap">
+
+<!ENTITY tabGroupsButton.label        "Lapcsoportok">
+<!ENTITY tabGroupsButton.tooltip      "Lapok csoportosítása">
+
+<!ENTITY feedButton.label             "Feliratkozás">
+<!ENTITY feedButton.tooltip           "Feliratkozás erre az oldalra...">
 
 <!ENTITY bookmarksButton.label          "Könyvjelzők">
 <!ENTITY bookmarksButton.tooltip        "Könyvjelzők megjelenítése">
@@ -243,8 +254,8 @@
 
 <!ENTITY viewMenu.label         "Nézet"> 
 <!ENTITY viewMenu.accesskey       "N"> 
-<!ENTITY showTabView2.label     "Lapok csoportosítása...">
-<!ENTITY showTabView2.accesskey     "L">
+<!ENTITY viewTabGroups.label            "Lapcsoportok">
+<!ENTITY viewTabGroups.accesskey        "L">
 <!ENTITY viewToolbarsMenu.label       "Eszköztárak"> 
 <!ENTITY viewToolbarsMenu.accesskey     "E"> 
 <!ENTITY viewSidebarMenu.label "Oldalsáv">
@@ -259,19 +270,22 @@
 <!ENTITY historyUndoMenu.label "Nemrég bezárt lapok">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nemrég bezárt ablakok">
+<!ENTITY historyRestoreLastSession.label "Előző munkamenet helyreállítása">
 
 <!ENTITY historyHomeCmd.label "Kezdőlap">
 <!ENTITY showAllHistoryCmd2.label "Minden előzmény megjelenítése">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Szerkesztés">
 <!ENTITY appMenuCustomize.label "Testreszabás">
 <!ENTITY appMenuToolbarLayout.label "Eszköztár elrendezése...">
 <!ENTITY appMenuSidebars.label "Oldalsávok">
 <!ENTITY appMenuFind.label "Keresés...">
 <!ENTITY appMenuUnsorted.label "Nem rendezett könyvjelzők">
+<!ENTITY appMenuWebDeveloper.label "Webfejlesztő">
 <!ENTITY appMenuGettingStarted.label "Kezdő lépések">
-
-<!ENTITY developerMenu.label "Fejlesztő">
+<!ENTITY appMenuSafeMode.label "Újraindítás letiltott kiegészítőkkel...">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ugrás egy webhelyre">
@@ -285,9 +299,9 @@
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -296,12 +310,11 @@
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Megnyitás új lapon">
 <!ENTITY openLinkCmdInTab.accesskey   "l">
@@ -442,7 +455,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Kivágás">
 <!ENTITY copyButton.tooltip             "Másolás">
 <!ENTITY pasteButton.tooltip            "Beillesztés">
+
 <!ENTITY fullScreenButton.tooltip       "Ablak megjelenítése teljes képernyős üzemmódban">
+
+<!ENTITY zoomOutButton.tooltip          "Kicsinyítés">
+<!ENTITY zoomInButton.tooltip           "Nagyítás">
+<!ENTITY zoomControls.label             "Nagyítás">
 
 <!ENTITY quitApplicationCmdWin.label       "Kilépés"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "K">
@@ -527,17 +545,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Lapok más számítógépekről">
 
-<!ENTITY syncBrand.shortName.label  "Sync">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "Y">
 <!ENTITY syncSetup.label              "A &syncBrand.shortName.label; beállítása...">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncLogInItem.label          "Kapcsolódás">
-<!ENTITY syncLogInItem.accesskey      "K">
-<!ENTITY syncLogOutItem.label         "Leválás">
-<!ENTITY syncLogOutItem.accesskey     "L">
 <!ENTITY syncSyncNowItem.label        "Szinkronizálás">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sync">

@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Kezdőlap megjelenítése">
 <!ENTITY startupBlankPage.label    "Üres oldal megjelenítése">
 <!ENTITY startupLastSession.label  "A legutóbbi ablakok és lapok megjelenítése">
-<!ENTITY location.label            "Kezdőlap:">
-<!ENTITY location.accesskey        "K">
+<!ENTITY homepage.label            "Kezdőlap:">
+<!ENTITY homepage.accesskey        "K">
 <!ENTITY useCurrentPage.label      "Aktuális oldal használata">
 <!ENTITY useCurrentPage.accesskey  "o">
 <!ENTITY useMultiple.label         "Aktuális oldalak használata">

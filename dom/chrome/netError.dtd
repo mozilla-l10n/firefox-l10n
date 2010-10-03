@@ -26,6 +26,7 @@
 
 <!ENTITY netOffline.title "Kapcsolat nélküli mód">
 <!ENTITY netOffline.longDesc "<p>A böngésző kapcsolat nélküli módban van, ezért nem tud csatlakozni a kért elemhez.</p><ul><li>Csatlakoztatva van a számítógép a hálózathoz?</li><li>Lépjen ki a kapcsolat nélküli üzemmódból, és próbálja meg újra.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>A böngésző kapcsolat nélküli módban van, ezért nem tud csatlakozni a kért elemhez.</p><ul><li>Csatlakoztatva van a számítógép a hálózathoz?</li><li>Lépjen ki a kapcsolat nélküli üzemmódból, és próbálja meg újra.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Tartalomkódolási hiba">
 <!ENTITY contentEncodingError.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert érvénytelen vagy nem támogatott tömörítési formátumot használ.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">

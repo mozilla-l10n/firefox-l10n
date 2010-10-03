@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Kiterjesztés vagy téma telepítése">
 <!ENTITY  permGeo               "Földrajzi hely adatainak megosztása">
 
+<!ENTITY  permIndexedDB              "Kapcsolat nélküli tár karbantartása">
+<!ENTITY  permClearStorage           "Tár törlése">
+<!ENTITY permClearStorage.accesskey "T">
+
 <!ENTITY  securityTab           "Biztonság">
 <!ENTITY securityTab.accesskey "B">
 <!ENTITY  securityHeader        "Biztonsági információ erről az oldalról">

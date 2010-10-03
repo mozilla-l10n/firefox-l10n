@@ -1,5 +1,5 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
+  %brandDTD;
 
 <!ENTITY loadError.label "Probléma az oldal betöltése közben">
 <!ENTITY retry.label "Próbálja újra">
@@ -52,17 +52,12 @@
 <!ENTITY netInterrupt.title "A kapcsolat megszakadt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "Kapcsolat nélküli mód">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>Próbálja újra. A &brandShortName; megpróbál kapcsolatot nyitni, és újra letölteni az oldalt.</li>
 </ul>
 ">
-
-<!ENTITY netOffline.title "Kapcsolat nélküli mód">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Tartalomkódolási hiba">
 <!ENTITY contentEncodingError.longDesc "
@@ -100,7 +95,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Nem található a proxykiszolgáló">
+<!ENTITY proxyResolveFailure.title " Nem található a proxykiszolgáló">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li>
@@ -172,14 +167,13 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY securityOverride.getMeOutOfHereButton "Oldal elhagyása">
 <!ENTITY securityOverride.exceptionButtonLabel "Kivétel hozzáadása...">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>Ne adjon hozzá kivételt, ha nem teljesen megbízható internetkapcsolatot használ, vagy ha nem szokta látni ezt a figyelmeztetést ennél a kiszolgálónál.</p>
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

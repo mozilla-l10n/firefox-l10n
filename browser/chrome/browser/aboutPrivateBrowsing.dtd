@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Privát böngészés indítása">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "A privát böngészés leállításához válassza az &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; menüparancsot, vagy zárja be a &brandShortName;ot.">
-<!ENTITY privatebrowsingpage.howToStart                "A privát böngészés indításához választhatja az &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; menüparancsot is.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "A privát böngészés leállításához válassza az &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; menüparancsot, vagy zárja be a &brandShortName;ot.">
+<!ENTITY privatebrowsingpage.howToStart2               "A privát böngészés indításához választhatja az &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; menüparancsot is.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Bár ezen a számítógépen nem lesznek tárolva a böngészési előzmények, az internetszolgáltatója vagy a munkáltatója ettől függetlenül is ellenőrizheti, hogy milyen oldalakat látogat meg.">
 <!ENTITY privatebrowsingpage.learnMore                 "További információ">
