@@ -36,7 +36,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "f">
 <!ENTITY reuseExpRadio1.label          "Una finestra ja oberta">
 <!ENTITY reuseExpRadio1.accesskey      "j">
-<!ENTITY closeMsgWindowOnDelete.label  "Tanca la finestra de missatges quan es suprimeixi">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Tanca la finestra de missatges quan es suprimeixi o es mogui">
 <!ENTITY closeMsgWindowOnDelete.accesskey "T">
 
 

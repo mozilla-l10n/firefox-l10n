@@ -180,18 +180,22 @@ en <a href='http://www.stopbadware.org/home/reviewinfo' >demanar que es revisin<
 rònica (phishing), amb què webs i adreces electròniques fraudulentes s'utilitzen per a 
 imitar fonts en què podeu confiar-hi.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bloquejada segons les normes de seguretat del contingut">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>El &brandShortName; ha evitat que aquesta pàgina es carregués d'aquesta forma perquè la pàgina conté unes normes de seguretat del contingut que ho impedeixen.</p>">
+
 <!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'ací!">
 <!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to thunderbird. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>No hauríeu d'afegir una excepció si esteu utilitzant una connexió d'Internet de la qual no en confieu completament, o si no esteu acostumat a veure un avís d'aquest servidor.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
