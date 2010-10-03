@@ -37,6 +37,8 @@
 <!ENTITY pasteCmd.label "Coller">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "o">
+<!ENTITY pasteGoCmd.label "Coller et aller">
+<!ENTITY pasteGoCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Supprimer">
 <!ENTITY deleteCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
