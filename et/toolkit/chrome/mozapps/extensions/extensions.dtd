@@ -91,6 +91,16 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Peida väljalasketeade">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Peida selle uuenduse väljalasketeade">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Mis on lisad?">
+<!ENTITY discover.description                 "Lisad on rakendused, mis lubavad Firefoxi lisafunktsionaalsuse või stiilidega
+                                               personaliseerida. Proovi aegasäästvat külgriba, ilmateadustajat või temaatilist välimust, et muuta Firefox
+                                               enda omaks.">
+<!ENTITY discover.footer                      "Internetiühenduse olemasolul kuvatakse sellel paneelil järgi proovimiseks valik parimaid ja
+                                               populaarsemaid lisasid.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versioon">
 <!ENTITY detail.lastupdated.label             "Viimati uuendatud">
