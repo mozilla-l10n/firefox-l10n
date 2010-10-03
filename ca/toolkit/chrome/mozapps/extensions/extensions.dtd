@@ -94,6 +94,14 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Amaga les notes de la versió">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Amaga les notes de la versió d'aquesta actualització">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Què són els complements?">
+<!ENTITY discover.description                 "Els complements són aplicacions que us permeten personalitzar el Firefox amb una funcionalitat o estil addicional. Proveu una barra lateral per estalviar temps, un notificador meteorològic o un tema perquè el Firefox sembli més personal.">
+<!ENTITY discover.footer                      "Quan estigueu connectat a Internet, des d'aquesta subfinestra es mostraran alguns dels millors i més populars complements que podeu provar.">
+
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versió">
 <!ENTITY detail.lastupdated.label             "Darrera actualització">
