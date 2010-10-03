@@ -1,9 +1,9 @@
 <!ENTITY offlineGoOfflineCmd.label "Работать автономно">
 <!ENTITY offlineGoOfflineCmd.accesskey "б">
 <!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "Ф">
+<!ENTITY fileMenu.accesskey "а">
 <!ENTITY newMenu.label "Создать">
-<!ENTITY newMenu.accesskey "С">
+<!ENTITY newMenu.accesskey "з">
 <!ENTITY newBlankPageCmd.label "Страницу Компоновщика">
 <!ENTITY newBlankPageCmd.accesskey "т">
 <!ENTITY newBlankPageCmd.key "n">
@@ -13,56 +13,56 @@
 <!ENTITY newPageFromDraftCmd.accesskey "ч">
 <!ENTITY newNavigatorCmd.label "Окно браузера">
 <!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "О">
+<!ENTITY newNavigatorCmd.accesskey "к">
 <!ENTITY editMenu.label "Правка">
-<!ENTITY editMenu.accesskey "П">
+<!ENTITY editMenu.accesskey "р">
 <!ENTITY undoCmd.label "Отменить">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "О">
+<!ENTITY undoCmd.accesskey "т">
 <!ENTITY redoCmd.label "Повторить">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
+<!ENTITY redoCmd.accesskey "в">
 <!ENTITY cutCmd.label "Вырезать">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "В">
+<!ENTITY cutCmd.accesskey "ы">
 <!ENTITY copyCmd.label "Копировать">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "К">
+<!ENTITY copyCmd.accesskey "п">
 <!ENTITY pasteCmd.label "Вставить">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "с">
 <!ENTITY pasteGoCmd.label "Вставить и перейти">
-<!ENTITY pasteGoCmd.accesskey "с">
+<!ENTITY pasteGoCmd.accesskey "а">
 <!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteCmd.accesskey "У">
+<!ENTITY deleteCmd.accesskey "д">
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ы">
+<!ENTITY selectAllCmd.accesskey "е">
 <!ENTITY preferencesCmd.label "Настройки…">
 <!ENTITY preferencesCmd.key "E">
-<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY preferencesCmd.accesskey "о">
 <!ENTITY findTypeTextCmd.label "Поиск текста по мере набора">
 <!ENTITY findTypeTextCmd.accesskey "и">
 <!ENTITY findTypeLinksCmd.label "Поиск ссылок по мере набора">
 <!ENTITY findTypeLinksCmd.accesskey "л">
 <!ENTITY viewMenu.label "Вид">
-<!ENTITY viewMenu.accesskey "В">
+<!ENTITY viewMenu.accesskey "д">
 <!ENTITY viewToolbarsMenu.label "Показать/скрыть">
-<!ENTITY viewToolbarsMenu.accesskey "П">
+<!ENTITY viewToolbarsMenu.accesskey "к">
 <!ENTITY showTaskbarCmd.label "Строка состояния">
-<!ENTITY showTaskbarCmd.accesskey "С">
+<!ENTITY showTaskbarCmd.accesskey "т">
 <!ENTITY helpMenu.label "Справка">
-<!ENTITY helpMenu.accesskey "С">
+<!ENTITY helpMenu.accesskey "р">
 <!ENTITY helpTroubleshootingInfo.label "Информация для решения проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey "ф">
 <!ENTITY releaseCmd.label "Примечания к выпуску">
-<!ENTITY releaseCmd.accesskey "р">
+<!ENTITY releaseCmd.accesskey "м">
 <!ENTITY updateCmd.label "Проверить наличие обновлений…">
 <!ENTITY updateCmd.accesskey "в">
 <!ENTITY aboutCmd.label "О &brandShortName;">
 <!ENTITY aboutCmd.accesskey "О">
 <!ENTITY aboutCommPluginsCmd.label "Плагины">
-<!ENTITY aboutCommPluginsCmd.accesskey "П">
+<!ENTITY aboutCommPluginsCmd.accesskey "л">
 <!ENTITY direct.label "В сети (без прокси)">
 <!ENTITY direct.accesskey "б">
 <!ENTITY manual.label "В сети (прокси настроено вручную)">
@@ -74,9 +74,9 @@
 <!ENTITY system.label "В сети (системные настройки прокси)">
 <!ENTITY system.accesskey "т">
 <!ENTITY proxy.label "Конфигурация прокси-соединения…">
-<!ENTITY proxy.accesskey "К">
+<!ENTITY proxy.accesskey "н">
 <!ENTITY bidiSwitchTextDirectionItem.label "Переключить направление текста на странице">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "т">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "ю">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 <!ENTITY customizeToolbarContext.label "Настроить…">
 <!ENTITY customizeToolbarContext.accesskey "р">
