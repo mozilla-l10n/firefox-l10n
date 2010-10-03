@@ -25,7 +25,7 @@
 <!ENTITY playSound.label "Reproducir un sonido">
 <!ENTITY playSound.accesskey "R">
 <!ENTITY showAlert.label "Mostrar una alerta">
-<!ENTITY showAlert.accesskey "u">
+<!ENTITY showAlert.accesskey "o">
 <!ENTITY browse.label "Examinar…">
 <!ENTITY browse.accesskey "x">
 <!ENTITY preview.label "Escuchar">

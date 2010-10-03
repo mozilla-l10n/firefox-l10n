@@ -7,7 +7,7 @@
 <!ENTITY newWindowGroupCurrent.accesskey "L">
 <!ENTITY externalGroupCurrent.accesskey "a">
 <!ENTITY openTab.label "Una pestaña nueva en la ventana actual">
-<!ENTITY newWindowGroupTab.accesskey "U">
+<!ENTITY newWindowGroupTab.accesskey "t">
 <!ENTITY externalGroupTab.accesskey "n">
 <!ENTITY openWindow.label "Una ventana nueva">
 <!ENTITY newWindowGroupWindow.accesskey "v">
