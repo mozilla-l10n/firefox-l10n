@@ -93,6 +93,12 @@
 <!ENTITY cmd.hideReleaseNotes.label           "ਰੀਲਿਜ਼ ਨੋਟਿਸ ਓਹਲੇ">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ਇਹ ਅੱਪਡੇਟ ਲਈ ਰੀਲਿਜ਼ ਨੋਟਿਸ ਓਹਲੇ ਕਰੋ">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "ਐਡ-ਆਨ ਕੀ ਹੈ??">
+<!ENTITY discover.description                 "ਐਡ-ਆਨ ਐਪਲੀਕੇਸ਼ਨ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਫਾਇਰਫਾਕਸ ਨੂੰ ਆਪਣੀ ਲੋੜ ਮੁਤਾਬਕ ਬਦਲਣ ਦਿੰਦੀਆਂ ਹਨ, ਜਿਸ ਨਾਲ ਹੋਰ ਸਹੂਲਤਾਂ ਜਾਂ ਸਟਾਇਲ ਮਿਲ ਸਕੇ। ਸਮਾਂ-ਬੱਚਤ (time-saving) ਬਾਹੀ, ਮੌਸਮ ਸੂਚਨਾ, ਜਾਂ ਆਪਣੇ ਵਰਗੀ ਫਾਇਰਫਾਕਸ ਥੀਮ ਦਿੱਖ ਵਰਤ ਕੇ ਵੇਖੋ।">
+<!ENTITY discover.footer                      "ਜਦੋਂ ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕੁਨੈਕਟ ਹੋਵੋਗੇ ਤਾਂ ਇਹ ਥਾਂ ਵੀ ਕੁਝ ਬਹੁਤ ਵਧੀਆ ਤੇ ਹਰਮਨ ਪਿਆਰੇ ਐਡ-ਆਨ ਵੇਖਾਏ ਜਾਣਗੇ, ਜਿੰਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਵਰਤਣਾ ਚਾਹੋਗੇ।">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "ਵਰਜਨ">
