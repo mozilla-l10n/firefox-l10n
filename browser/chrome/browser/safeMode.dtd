@@ -39,7 +39,7 @@
 <!ENTITY safeModeDialog.title         "Modd Diogel &brandShortName;">
 <!ENTITY window.width                 "50em">
 
-<!ENTITY safeModeDescription.label    "Mae &brandShortName; yn rhedeg yn y Modd Diogel, sy'n anablu dros dro eich gosodiadau personol, themâu ac estyniadau temporarily disables your custom settings, themes, and extensions.">
+<!ENTITY safeModeDescription.label    "Mae &brandShortName; yn rhedeg yn y Modd Diogel, sy'n anablu dros dro eich gosodiadau personol, themâu ac estyniadau.">
 <!ENTITY safeModeDescription2.label   "Mae modd gwneud rhai neu'r holl newidiadau'n rhai parhaol:">
 
 <!ENTITY disableAddons.label          "Atal pob ychwanegyn">
