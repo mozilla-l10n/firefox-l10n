@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Cerca en línia (dóna resultats actualitzats de les carpetes d'IMAP i dels grups de discussió, però triga més temps a l'hora d'obrir la carpeta)">
 <!ENTITY searchOnline.accesskey "i">
+<!ENTITY newFolderButton.label       "Crea">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Actualitza">
+<!ENTITY editFolderButton.accesskey  "A">

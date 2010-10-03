@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "Configuració del compte de correu">
 <!ENTITY name.label                      "El vostre nom:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "Nom i cognoms">
+<!ENTITY name.placeholder                  "Nom i cognoms">
 <!ENTITY name.text                       "El vostre nom, com voleu que es vegi">
 <!ENTITY email.label                     "Adreça electrònica:">
 <!ENTITY email.accesskey                 "A">
-<!ENTITY email.emptytext                 "email@exemple.com">
+<!ENTITY email.placeholder                 "email@exemple.com">
 <!ENTITY password.label                  "Contrasenya:">
 <!ENTITY password.accesskey              "C">
-<!ENTITY password.emptytext              "Contrasenya">
+<!ENTITY password.placeholder              "Contrasenya">
 <!ENTITY password.text                   "Opcional, només es farà servir per a validar el vostre usuari">
 
 <!ENTITY accountInformation.label        "Informació del compte">
