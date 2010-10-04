@@ -15,7 +15,7 @@
 
 <!ENTITY found.wizard.title "Пронајдени се компатибилни додатоци">
 <!ENTITY found.top.label "Изберете ги додатоците кои сакате да ги инсталирате:">
-<!ENTITY found.disabledXPinstall.label "Овие надградби не можат да бидат инсталирани бидејќи инсталацијата на софтвер моментално е оневозможена. Подолу ожете да ја смените оваа поставка.">
+<!ENTITY found.disabledXPinstall.label "Овие надградби не можат да бидат инсталирани бидејќи инсталацијата на софтвер моментално е оневозможена. Подолу можете да ја смените оваа поставка.">
 <!ENTITY found.enableXPInstall.label "Дозволи мрежните места да инсталираат софтвер">
 <!ENTITY found.enableXPInstall.accesskey "а">
 
@@ -24,7 +24,7 @@
 
 <!ENTITY noupdates.wizard.title "Не се пронајдени компатибилни додатоци">
 <!ENTITY noupdates.intro.desc "&brandShortName; не успеа да најде надградби за некомпатибилните додатоци.">
-<!ENTITY noupdates.error.desc "Имаше проблеми во брањето на надградби.">
+<!ENTITY noupdates.error.desc "Се појавија грешки при барањето на надградби.">
 <!ENTITY noupdates.checkEnabled.desc "&brandShortName; периодично ќе проверува и ќе Ве информира кога ќе се појават компатибилни надградби за овие додатоци.">
 
 <!ENTITY finished.wizard.title "Инсталирани компатибилни додатоци">
