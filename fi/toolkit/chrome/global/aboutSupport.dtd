@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Profiilikansio">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Käytössä olevat liitännäiset">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Koostamisasetukset">
+<!ENTITY aboutSupport.appBasicsUserAgent "Selaintunniste">
 
 <!ENTITY aboutSupport.show.label "Avaa kansio">
 

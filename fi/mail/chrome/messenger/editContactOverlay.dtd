@@ -7,6 +7,9 @@
 <!ENTITY editContactEmail.label "Sähköposti:">
 <!ENTITY editContactEmail.accesskey "S">
 
+<!ENTITY editContactAddressBook.label "Osoitekirja:">
+<!ENTITY editContactAddressBook.accesskey "O">
+
 <!ENTITY editContactPanelCancel.label "Peruuta">
 <!ENTITY editContactPanelCancel.accesskey "P">
 

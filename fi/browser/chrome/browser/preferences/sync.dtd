@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; -tili">
-<!ENTITY currentUser.label            "Käyttäjätunnus:">
+<!ENTITY currentAccount.label         "Tili:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Päivitä">
@@ -14,30 +14,29 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Hallinnoi tiliä">
 <!ENTITY manageAccount.accesskey      "H">
+<!ENTITY viewQuota.label              "Näytä tilavaraus">
 <!ENTITY changePassword.label         "Vaihda salasana">
-<!ENTITY changePassphrase.label       "Vaihda salainen lause">
+<!ENTITY mySyncKey.label              "Synkronointiavaimesi">
 <!ENTITY resetSync.label              "Aloita synkronointi alusta">
-<!ENTITY differentAccount.label       "Käytä toista tiliä">
+<!ENTITY stopUsingAccount.label       "Lopeta tämän tilin käyttäminen">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Selaimen synkronointi">
 <!ENTITY syncComputerName.label       "Laitteen nimi:">
 <!ENTITY syncComputerName.accesskey   "L">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; synkronoi: ">
-<!ENTITY syncModeSwitchDesc.accesskey "s">
-<!ENTITY syncEverything.label         "Kaikki tiedot">
-<!ENTITY customSync.label             "Valitut tiedot">
-<!ENTITY syncEverythingDescription.label  "Kirjanmerkit, sivuhistoria, salasanat, asetukset ja avoimet välilehdet synkronoidaan.">
-<!ENTITY syncItem.bookmarks.label     "Synkronoi kirjanmerkit">
-<!ENTITY syncItem.bookmarks.accesskey "k">
-<!ENTITY syncItem.tabs.label          "Synkronoi välilehdet">
-<!ENTITY syncItem.tabs.accesskey      "v">
-<!ENTITY syncItem.history.label       "Synkronoi sivuhistoria">
-<!ENTITY syncItem.history.accesskey   "h">
-<!ENTITY syncItem.passwords.label     "Synkronoi salasanat">
-<!ENTITY syncItem.passwords.accesskey "n">
-<!ENTITY syncItem.prefs.label         "Synkronoi asetukset">
-<!ENTITY syncItem.prefs.accesskey     "a">
+
+<!ENTITY syncMy.label               "Synkronoi">
+<!ENTITY engine.bookmarks.label     "Kirjanmerkit">
+<!ENTITY engine.bookmarks.accesskey "K">
+<!ENTITY engine.tabs.label          "Välilehdet">
+<!ENTITY engine.tabs.accesskey      "V">
+<!ENTITY engine.history.label       "Sivuhistoria">
+<!ENTITY engine.history.accesskey   "S">
+<!ENTITY engine.passwords.label     "Salasanat">
+<!ENTITY engine.passwords.accesskey "a">
+<!ENTITY engine.prefs.label         "Asetukset">
+<!ENTITY engine.prefs.accesskey     "e">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Käyttöehdot">

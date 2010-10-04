@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Oikeus asentaa laajennuksia tai teemoja">
 <!ENTITY  permGeo               "Kerro sijainti">
 
+<!ENTITY  permIndexedDB              "Pidä verkkoyhteydettömän tilan tietovarastoa">
+<!ENTITY  permClearStorage           "Tyhjennä tietovarasto">
+<!ENTITY  permClearStorage.accesskey "T">
+
 <!ENTITY  securityTab           "Turvallisuus">
 <!ENTITY  securityTab.accesskey "T">
 <!ENTITY  securityHeader        "Sivun tietoturvatiedot">

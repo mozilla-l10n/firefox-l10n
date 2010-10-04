@@ -51,6 +51,8 @@
 <!ENTITY useCacheAfter.label             "Mt:a levytilaa väliaikaistiedostoille">
 <!ENTITY clearCacheNow.label             "Tyhjennä heti">
 <!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY smartSizeCache.label            "Anna &brandShortName;in hallita väliaikaistiedostojen käyttämää levytilaa">
+<!ENTITY smartSizeCache.accesskey        "A">
 
 <!ENTITY updateTab.label                 "Päivitys">
 

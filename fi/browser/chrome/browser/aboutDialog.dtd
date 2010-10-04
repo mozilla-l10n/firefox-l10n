@@ -1,11 +1,23 @@
 <!ENTITY aboutDialog.title          "Tietoja &brandFullName;ista">
-<!ENTITY copyright                  "Tekijät">
-<!ENTITY copyright.accesskey        "T">
-<!ENTITY copyrightGNOME.accesskey   "T">
-<!ENTITY aboutLink                  "&lt; Ohjelmatiedot">
-<!ENTITY aboutLink.accesskey        "O">
-<!ENTITY aboutVersion               "versio">
-<!ENTITY closeCmdGNOME.label        "Sulje">  
-<!ENTITY closeCmdGNOME.accesskey    "S">
-<!ENTITY licenseLinkText            "Lisenssitiedot">
-<!ENTITY licenseLinkSuffix          ".">
+
+<!ENTITY community.start2           "&brandShortName;in on kehittänyt">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          "; ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "kansainvälinen yhteisö">
+<!ENTITY community.end2             ", joka pyrkii kehittämään Internettiä. Uskomme, että Internetin tulisi olla avoin, julkinen ja kaikkien käytettävissä rajoituksitta.">
+
+<!ENTITY contribute.start           "Kuulostaako hyvältä? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Liity joukkoon!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Lisenssitiedot">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Loppukäyttäjän oikeudet">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Tietosuojakäytäntö">
