@@ -72,8 +72,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Bladwijzerwerkbalk">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bladwijzerwerkbalkitems">
-<!ENTITY taskbarCmd.label "Statusbalk">
-<!ENTITY taskbarCmd.accesskey "b">
+<!ENTITY addonBarCmd.label "Add-onbalk">
+<!ENTITY addonBarCmd.accesskey "b">
 
 <!ENTITY pageSourceCmd.label "Paginabron">
 <!ENTITY pageSourceCmd.accesskey "r">

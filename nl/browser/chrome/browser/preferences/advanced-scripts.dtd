@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "V">
 <!ENTITY disableContextMenus.label      "Contextmenu’s uit te schakelen of te vervangen">
 <!ENTITY disableContextMenus.accesskey  "C">
-<!ENTITY hideStatusBar.label            "De statusbalk te verbergen">
-<!ENTITY hideStatusBar.accesskey        "D">
-<!ENTITY changeStatusBar.label          "Statusbalktekst te wijzigen">
-<!ENTITY changeStatusBar.accesskey      "S">
