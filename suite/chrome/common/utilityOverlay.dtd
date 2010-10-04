@@ -31,6 +31,8 @@
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteGoCmd.label "Pegar y visitar">
+<!ENTITY pasteGoCmd.accesskey "v">
 <!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
