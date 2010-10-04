@@ -72,9 +72,6 @@
 <!ENTITY syncComputerName.label       "Computernaam:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY page.syncKeyBackup.title     "Uw Firefox Syncsleutel">
-<!ENTITY page.syncKeyBackup.descr     "Deze geheime sleutel wordt gebruikt om al uw persoonlijke gegevens te versleutelen. Het wordt niet geüpload naar de server. Verlies of deel het niet met andere mensen.">
-
 <!-- New & Existing Account: Confirm Merge Options -->
 <!ENTITY syncMy.label               "Synchroniseer mijn">
 <!ENTITY engine.bookmarks.label     "Bladwijzers">
