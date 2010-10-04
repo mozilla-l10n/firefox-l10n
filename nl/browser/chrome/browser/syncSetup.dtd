@@ -43,6 +43,8 @@
 <!ENTITY syncKeyEntry.label        "Uw Syncsleutel">
 <!ENTITY syncKeyEntry.accesskey    "s">
 <!ENTITY syncKeyGenerate.label     "Genereren">
+<!ENTITY syncKeyStrength.label     "Sterkte:">
+<!ENTITY syncKeyHelp.label         "Wat betekent sterkte?">
 <!ENTITY syncKeyBackup.description "Uw Syncsleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw Syncsleutel niet herstellen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Afdrukken…">
