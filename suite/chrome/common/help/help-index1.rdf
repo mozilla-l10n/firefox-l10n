@@ -21,12 +21,12 @@
      <rdf:li>
        <rdf:Description ID="address_books"
          nc:name="adresáre"
-         nc:link="mail_help.xhtml#about_address_books"/>
+         nc:link="mailnews_addressbooks.xhtml#about_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="attaching_files_to_messages"
          nc:name="pripojenie súborov k správe"
-         nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+         nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -66,37 +66,37 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="address_books:adding_entries"
          nc:name="vloženie položiek do adresára"
-         nc:link="mail_help.xhtml#adding_entries_to_your_address_books"/>
+         nc:link="mailnews_addressbooks.xhtml#adding_entries_to_your_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:creating"
          nc:name="vytvorenie nového adresára"
-         nc:link="mail_help.xhtml#creating_a_new_address_book"/>
+         nc:link="mailnews_addressbooks.xhtml#creating_a_new_address_book"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:creating_mailing_lists"
          nc:name="vytvorenie mailing-listu"
-         nc:link="mail_help.xhtml#creating_a_mailing_list"/>
+         nc:link="mailnews_addressbooks.xhtml#creating_a_mailing_list"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:exporting"
          nc:name="exportovanie adresárov"
-         nc:link="mail_help.xhtml#exporting_address_books"/>
+         nc:link="mailnews_addressbooks.xhtml#exporting_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:importing"
          nc:name="importovanie adresárov"
-         nc:link="mail_help.xhtml#importing_address_books"/>
+         nc:link="mailnews_addressbooks.xhtml#importing_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:LDAP_directories"
          nc:name="priečinky LDAP"
-         nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+         nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:searching"
          nc:name="vyhľadávanie v adresári"
-         nc:link="mail_help.xhtml#searching_address_books_and_directories"/>
+         nc:link="mailnews_addressbooks.xhtml#searching_address_books_and_directories"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -239,11 +239,6 @@
          nc:link="nav_help.xhtml#plugins_and_downloads"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="plugins_panel"
-         nc:name="panel zásuvné moduly"
-         nc:link="customize_help.xhtml#the_plugins_panel"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="browser:full_screen_mode"
          nc:name="Režim Na celú obrazovku"
          nc:link="nav_help.xhtml#full_screen_mode"/>
@@ -282,6 +277,16 @@
        <rdf:Description ID="browser:start_page"
          nc:name="úvodná stránka"
          nc:link="customize_help.xhtml#specifying_a_starting_page"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:session_restore"
+         nc:name="obnovenie relácií"
+         nc:link="customize_help.xhtml#session_restore"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:crash_recovery"
+         nc:name="obnovenie po zlyhaní"
+         nc:link="customize_help.xhtml#session_restore"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="browser:start_up_components"
@@ -376,6 +381,11 @@
        <rdf:Description ID="Certificates:selecting_for_client_authentication"
          nc:name="Výber pre autentifikáciu klienta"
          nc:link="certs_prefs_help.xhtml#client_certificate_selection"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="Certificates:server"
+         nc:name="identita servera"
+         nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Certificates:using"
@@ -664,12 +674,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="email_addresses:address_books_and"
          nc:name="pridanie e-mailovej adresy do adresára"
-         nc:link="mail_help.xhtml#adding_entries_to_your_address_books"/>
+         nc:link="mailnews_addressbooks.xhtml#adding_entries_to_your_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="email_addresses:in_mail_messages"
          nc:name="e-mailová adresa v správe"
-         nc:link="mail_help.xhtml#addressing_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#addressing_a_message"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -802,7 +812,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="HTML:editing_in_mail_messages"
          nc:name="úprava HTML v e-mailových správach"
-         nc:link="mail_help.xhtml#editing_or_inserting_html_elements"/>
+         nc:link="mailnews_using_mail.xhtml#editing_or_inserting_html_elements"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="HTML:using_in_Composer"
@@ -812,7 +822,7 @@
      <rdf:li>
        <rdf:Description ID="HTML:using_in_mail_messages"
          nc:name="používanie HTML v poštových správach"
-         nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+         nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -886,7 +896,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="import:address_book"
          nc:name="import adresárov"
-         nc:link="mail_help.xhtml#importing_address_books"/>
+         nc:link="mailnews_addressbooks.xhtml#importing_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="import:bookmark_list"
@@ -1010,7 +1020,7 @@
      <rdf:li>
        <rdf:Description ID="LDAP"
          nc:name="LDAP"
-         nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+         nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="lock_icon"
@@ -1040,12 +1050,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="LDAP:adding_to_address_book"
          nc:name="pridanie priečinkov do adresára"
-         nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+         nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="LDAP:directory_server_settings"
          nc:name="nastavenie priečinkov servera"
-         nc:link="mail_help.xhtml#directory_server_settings"/>
+         nc:link="mailnews_addressbooks.xhtml#directory_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="LDAP:global_settings"
@@ -1100,7 +1110,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_messages"
          nc:name="adresovanie správ"
-         nc:link="mail_help.xhtml#addressing_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#addressing_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_preferences"
@@ -1115,7 +1125,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:attaching_files"
          nc:name="pripojenie súborov"
-         nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+         nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:changing_account_settings"
@@ -1130,12 +1140,12 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Compose_window"
          nc:name="Okno písania správy"
-         nc:link="mail_help.xhtml#using_the_message_composition_window"/>
+         nc:link="mailnews_using_mail.xhtml#using_the_message_composition_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:composing_messages"
          nc:name="písanie správ"
-         nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages"/>
+         nc:link="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copies_and_folder_settings"
@@ -1160,7 +1170,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_HTML_mail_messages"
          nc:name="vytvorenie e-mailových správ v kóde HTML"
-         nc:link="mail_help.xhtml#creating_html_mail_messages"/>
+         nc:link="mailnews_using_mail.xhtml#creating_html_mail_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:disk_space_and_storage_settings"
@@ -1175,7 +1185,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:forwarding_messages"
          nc:name="preposielanie správ"
-         nc:link="mail_help.xhtml#forwarding_a_message"/>
+        nc:link="mailnews_using_mail.xhtml#forwarding_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:general_preferences"
@@ -1185,22 +1195,22 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:getting_new_messages"
          nc:name="získanie nových správ"
-         nc:link="mail_help.xhtml#getting_new_messages"/>
+         nc:link="mailnews_using_mail.xhtml#getting_new_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_recipients"
          nc:name="príjemcovia správ HTML"
-         nc:link="mail_help.xhtml#specifying_recipients_for_html_messages"/>
+         nc:link="mailnews_using_mail.xhtml#specifying_recipients_for_html_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_sending_options"
          nc:name="možnosti odoslania správy v HTML"
-         nc:link="mail_help.xhtml#choosing_html_mail_sending_options"/>
+         nc:link="mailnews_using_mail.xhtml#choosing_html_mail_sending_options"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_Message_Source"
          nc:name="zdrojový kód správy v HTML"
-         nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages"/>
+         nc:link="mailnews_using_mail.xhtml#viewing_the_message_source_for_html_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:identity_settings"
@@ -1210,7 +1220,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:mail_window_layout"
          nc:name="rozloženie okna pošty"
-         nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/>
+         nc:link="mailnews_using_mail.xhtml#choosing_how_you_view_the_mail_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:message_searching"
@@ -1240,32 +1250,32 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:replying_to_messages"
          nc:name="odpovedanie na správy"
-         nc:link="mail_help.xhtml#replying_to_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#replying_to_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_and_printing_messages"
          nc:name="ukladanie a vytlačenie správ"
-         nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_attachments"
          nc:name="uloženie príloh"
-         nc:link="mail_help.xhtml#saving_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#saving_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_messages_drafts"
          nc:name="uloženie rozpísaných správ"
-         nc:link="mail_help.xhtml#saving_and_editing_a_message_draft"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_message_draft"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_messages"
          nc:name="odoslanie správ"
-         nc:link="mail_help.xhtml#sending_messages"/>
+         nc:link="mailnews_using_mail.xhtml#sending_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_options"
          nc:name="nastavenie odosielania"
-         nc:link="mail_help.xhtml#selecting_message_sending_options"/>
+         nc:link="mailnews_using_mail.xhtml#selecting_message_sending_options"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:SMTP_settings"
@@ -1275,27 +1285,27 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sorting_and_threading_messages"
          nc:name="usporiadanie a triedenie správ"
-         nc:link="mail_help.xhtml#sorting_and_threading_messages"/>
+         nc:link="mailnews_using_mail.xhtml#sorting_and_threading_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_address_books"
          nc:name="používanie adresára"
-         nc:link="mail_help.xhtml#using_address_books"/>
+         nc:link="mailnews_addressbooks.xhtml#using_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_attachments"
          nc:name="používanie príloh"
-         nc:link="mail_help.xhtml#using_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#using_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_HTML_in_messages"
          nc:name="používanie kódu HTML v správach"
-         nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+         nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:viewing_attachments"
          nc:name="zobrazenie príloh"
-         nc:link="mail_help.xhtml#viewing_and_opening_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#viewing_and_opening_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
@@ -1415,6 +1425,11 @@
        <rdf:Description ID="plugins"
          nc:name="zásuvné moduly"
          nc:link="nav_help.xhtml#plugins_and_downloads"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="plugins_panel"
+         nc:name="panel zásuvné moduly"
+         nc:link="customize_help.xhtml#the_plugins_panel"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="POP"
@@ -1788,7 +1803,7 @@
      </rdf:li><rdf:li>
        <rdf:Description ID="return_receipts:using"
          nc:name="používanie potvrdení o prečítaní"
-         nc:link="mail_help.xhtml#confirming_that_your_message_was_opened"/>
+         nc:link="mailnews_using_mail.xhtml#confirming_that_your_message_was_opened"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1865,7 +1880,7 @@
      <rdf:li>
        <rdf:Description ID="save:messages"
          nc:name="uloženie a vytlačenie správy"
-         nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>

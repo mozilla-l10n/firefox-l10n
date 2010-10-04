@@ -23,6 +23,9 @@
 <!ENTITY tasksMenu.label "Nástroje">
 <!ENTITY tasksMenu.accesskey "N">
 
+<!ENTITY datamanCmd.label "Správca údajov">
+<!ENTITY datamanCmd.accesskey "a">
+
 <!ENTITY passwordManagerCmd.label "Správca hesiel">
 <!ENTITY passwordManagerCmd.accesskey "h">
 
