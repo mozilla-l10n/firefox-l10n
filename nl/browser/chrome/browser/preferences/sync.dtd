@@ -18,6 +18,7 @@
 <!ENTITY mySyncKey.label              "Mijn Syncsleutel">
 <!ENTITY resetSync.label              "Synchronisatie herinitialiseren">
 <!ENTITY differentAccount.label       "Een andere account gebruiken">
+<!ENTITY stopUsingAccount.label       "Gebruik van deze account stoppen">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browsersynchronisatie">
