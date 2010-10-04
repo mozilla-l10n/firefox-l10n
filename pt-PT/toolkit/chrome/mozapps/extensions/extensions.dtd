@@ -91,6 +91,16 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas de lançamento">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Oculta as notas de lançamento para esta actualização">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "O que são extras?">
+<!ENTITY discover.description2                "Extras são aplicações que lhe permitem personalizar o &brandShortName; com
+  funcionalidades ou estilos extra. Experimente uma barra lateral que poupa tempo, um notificador sobre o tempo ou um tema para tornar o &brandShortName;
+  só seu.">
+<!ENTITY discover.footer                      "Quando estiver ligado à internet este painel irá mostrar
+  alguns dos melhores e mais populares extra para que os possa experimentar.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versão">
 <!ENTITY detail.lastupdated.label             "Última actualização">
