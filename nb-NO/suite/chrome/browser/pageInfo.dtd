@@ -65,7 +65,7 @@
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "Skjemaer">
-<!ENTITY  formsTab.accesskey    "F">
+<!ENTITY  formsTab.accesskey    "S">
 <!ENTITY  formAction            "Skjemahandling">
 <!ENTITY  formMethod            "Metode">
 <!ENTITY  formName              "Navn">

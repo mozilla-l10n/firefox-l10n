@@ -36,6 +36,8 @@
 <!ENTITY pasteCmd.label						"Lim inn">  
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"L"> 
+<!ENTITY pasteGoCmd.label					"Lim inn og åpne">
+<!ENTITY pasteGoCmd.accesskey				"n">
 <!ENTITY deleteCmd.label					"Slett">  
 <!ENTITY deleteCmd.accesskey				"t"> 
 <!ENTITY selectAllCmd.label					"Merk alt">  
