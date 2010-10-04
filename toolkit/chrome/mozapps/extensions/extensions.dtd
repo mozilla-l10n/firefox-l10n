@@ -90,6 +90,16 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "De uitgaveopmerkingen van deze update tonen">
 <!ENTITY cmd.hideReleaseNotes.label           "Uitgaveopmerkingen verbergen">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "De uitgaveopmerkingen van deze update verbergen">
+
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Wat zijn Add-ons?">
+<!ENTITY discover.description                 "Add-ons zijn applicaties waarmee u Firefox met
+  extra functionaliteit of stijl persoonlijk kunt maken. Probeer een tijdbesparende zijbalk, een weernotificatie of een thema om Firefox
+  uw eigen te maken.">
+<!ENTITY discover.footer                      "Wanneer u verbonden bent met het internet toont deze venster u een aantal
+  van de beste en meest populaire add-ons die u uit kunt proberen.">
   
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versie">
