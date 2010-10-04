@@ -45,8 +45,6 @@
 <!ENTITY syncKeyGenerate.label     "Genereren">
 <!ENTITY syncKeyBackup.description "Uw Syncsleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw Syncsleutel niet herstellen.">
 
-<!ENTITY button.syncKeyBackup.email.label     "E-mail…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "Afdrukken…">
 <!ENTITY button.syncKeyBackup.print.accesskey "A">
 <!ENTITY button.syncKeyBackup.save.label      "Opslaan…">
