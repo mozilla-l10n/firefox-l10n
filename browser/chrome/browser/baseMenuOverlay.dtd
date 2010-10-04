@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "Voor Internet Explorer-gebruikers">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Herstart met Add-ons uitgeschakeld…">
+<!ENTITY helpSafeMode.accesskey   "r">
 
 <!ENTITY helpReleaseNotes.label         "Uitgaveopmerkingen">
 <!ENTITY helpReleaseNotes.accesskey     "U">
