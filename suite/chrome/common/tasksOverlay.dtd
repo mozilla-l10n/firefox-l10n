@@ -23,6 +23,9 @@
 <!ENTITY tasksMenu.label "Herramientas">
 <!ENTITY tasksMenu.accesskey "t"> 
 
+<!ENTITY datamanCmd.label "Administrador de datos">
+<!ENTITY datamanCmd.accesskey "d">
+
 <!ENTITY passwordManagerCmd.label "Administrador de contraseñas">
 <!ENTITY passwordManagerCmd.accesskey "A">
 
