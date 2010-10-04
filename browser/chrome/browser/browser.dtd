@@ -284,11 +284,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Zijbalken">
 <!ENTITY appMenuFind.label "Zoeken…">
 <!ENTITY appMenuUnsorted.label "Ongesorteerde bladwijzers">
+<!ENTITY appMenuWebDeveloper.label "Webontwikkelaar">
 <!ENTITY appMenuGettingStarted.label "Aan de slag">
 <!ENTITY appMenuSafeMode.label "Herstart met Add-ons uitgeschakeld…">
 <!ENTITY appMenuSafeMode.accesskey "r">
-
-<!ENTITY developerMenu.label "Ontwikkelaar">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Naar een website gaan">
