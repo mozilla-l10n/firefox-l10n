@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Capçaleres de la resposta">
 <!ENTITY networkPanel.responseBody                "Cos de la resposta">
 <!ENTITY networkPanel.responseBodyCached          "Dades en la cau">
+<!ENTITY networkPanel.responseBodyUnknownType     "Tipus de contingut desconegut">
 <!ENTITY networkPanel.responseNoBody              "No hi ha cap cos de la resposta">
 <!ENTITY networkPanel.responseImage               "Imatge rebuda">
 <!ENTITY networkPanel.responseImageCached         "Imatge en la cau">
