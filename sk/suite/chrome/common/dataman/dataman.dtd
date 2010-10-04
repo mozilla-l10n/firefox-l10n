@@ -1,0 +1,159 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is KaiRo's data manager.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser <kairo@kairo.at>.
+   - Portions created by the Initial Developer are Copyright (C) 2010
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at> (original author)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY dataman.windowTitle "Správca údajov">
+
+<!ENTITY selectAll.key "a">
+
+<!ENTITY domain.search.placeholder "Hľadať v doménach">
+<!ENTITY domain.search.key "f">
+
+<!ENTITY domain.tree.domain.label "Doména">
+
+<!ENTITY domain.ctx.forgetdomain.label "Zabudnúť na túto doménu">
+<!ENTITY domain.ctx.forgetdomain.accesskey "Z">
+<!ENTITY domain.ctx.forgetglobal.label "Zabudnúť na všetky údaje">
+<!ENTITY domain.ctx.forgetglobal.accesskey "Z">
+
+<!ENTITY data.search.key "k">
+
+<!ENTITY tab.cookies.label "Cookies">
+<!ENTITY tab.permissions.label "Povolenia">
+<!ENTITY tab.preferences.label "Nastavenia">
+<!ENTITY tab.passwords.label "Heslá">
+<!ENTITY tab.formdata.label "Údaje formulárov">
+<!ENTITY tab.forget.label "Zabudnúť">
+
+<!-- cookies -->
+<!ENTITY cookies.description "Z tejto domény sú vo vašom počítači uložené nasledovné súbory cookies:">
+
+<!ENTITY cookies.tree.host.label "Webová stránka">
+<!ENTITY cookies.tree.name.label "Názov cookie">
+<!ENTITY cookies.tree.expires.label "Platnosť vyprší">
+
+<!ENTITY cookies.infobox.label "Informácie o zvolenom súbore cookie">
+
+<!ENTITY cookies.info.name.label "Názov:">
+<!ENTITY cookies.info.value.label "Obsah:">
+<!ENTITY cookies.info.host.label "Server:">
+<!ENTITY cookies.info.domain.label "Doména:">
+<!ENTITY cookies.info.path.label "Cesta:">
+<!ENTITY cookies.info.sendtype.label "Odoslané pre:">
+<!ENTITY cookies.info.expires.label "Vyprší:">
+
+<!ENTITY cookies.ctx.remove.label "Odstrániť">
+<!ENTITY cookies.ctx.remove.accesskey "d">
+<!ENTITY cookies.ctx.selectAll.label "Vybrať všetko">
+<!ENTITY cookies.ctx.selectAll.accesskey "a">
+
+<!ENTITY cookies.button.remove.label "Odstrániť">
+<!ENTITY cookies.button.remove.accesskey "d">
+
+<!ENTITY cookies.blockOnRemove.label "Pri odstraňovaní zablokovať danej stránke možnosť nastavovania cookies v budúcnosti">
+<!ENTITY cookies.blockOnRemove.accesskey "P">
+
+<!-- permissions -->
+<!ENTITY perm.UseDefault "Použiť predvolené">
+<!ENTITY perm.AskAlways "Vždy sa opýtať">
+<!ENTITY perm.NeverSave "Nikdy neukladať">
+<!ENTITY perm.Allow "Povoliť">
+<!ENTITY perm.AllowSession "Povoliť pre reláciu">
+<!ENTITY perm.Block "Blokovať">
+
+<!-- preferences -->
+<!ENTITY prefs.description "Nastavenia obsahu je spôsob, akým &brandShortName; ukladá nastavenia ako úroveň priblíženia stránky osobitne pre každú stránku.">
+
+<!ENTITY prefs.tree.host.label "Webová stránka">
+<!ENTITY prefs.tree.name.label "Názov predvoľby">
+<!ENTITY prefs.tree.value.label "Hodnota">
+
+<!ENTITY prefs.ctx.remove.label "Odstrániť">
+<!ENTITY prefs.ctx.remove.accesskey "d">
+<!ENTITY prefs.ctx.selectAll.label "Vybrať všetko">
+<!ENTITY prefs.ctx.selectAll.accesskey "a">
+
+<!ENTITY prefs.button.remove.label "Odstrániť">
+<!ENTITY prefs.button.remove.accesskey "d">
+
+<!-- passwords -->
+<!ENTITY pwd.description "Pre túto doménu máte uložené nasledovné heslá:">
+
+<!ENTITY pwd.tree.host.label "Webová stránka">
+<!ENTITY pwd.tree.username.label "Používateľské meno">
+<!ENTITY pwd.tree.password.label "Heslo">
+
+<!ENTITY pwd.ctx.remove.label "Odstrániť">
+<!ENTITY pwd.ctx.remove.accesskey "d">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Kopírovať heslo">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "K">
+<!ENTITY pwd.ctx.selectAll.label "Vybrať všetko">
+<!ENTITY pwd.ctx.selectAll.accesskey "a">
+
+<!ENTITY pwd.button.remove.label "Odstrániť">
+<!ENTITY pwd.button.remove.accesskey "d">
+
+<!-- form data -->
+<!ENTITY fdata.search.placeholder "Hľadať v poliach formulárov">
+
+<!ENTITY fdata.tree.fieldname.label "Názov poľa">
+<!ENTITY fdata.tree.value.label "Zadaná hodnota">
+<!ENTITY fdata.tree.usecount.label "Počet použití">
+<!ENTITY fdata.tree.firstused.label "Prvýkrát použité">
+<!ENTITY fdata.tree.lastused.label "Naposledy použité">
+
+<!ENTITY fdata.ctx.remove.label "Odstrániť">
+<!ENTITY fdata.ctx.remove.accesskey "d">
+<!ENTITY fdata.ctx.selectAll.label "Vybrať všetko">
+<!ENTITY fdata.ctx.selectAll.accesskey "a">
+
+<!ENTITY fdata.button.remove.label "Odstrániť">
+<!ENTITY fdata.button.remove.accesskey "d">
+
+<!-- forget -->
+<!ENTITY forget.cookies.label "Cookies">
+<!ENTITY forget.cookies.accesskey "C">
+<!ENTITY forget.permissions.label "Povolenia">
+<!ENTITY forget.permissions.accesskey "P">
+<!ENTITY forget.preferences.label "Nastavenia pre obsah">
+<!ENTITY forget.preferences.accesskey "N">
+<!ENTITY forget.passwords.label "Heslá">
+<!ENTITY forget.passwords.accesskey "H">
+<!ENTITY forget.formdata.label "Údaje formulárov">
+<!ENTITY forget.formdata.accesskey "d">
+
+<!ENTITY forget.button.label "Zabudnúť na tieto údaje">
+<!ENTITY forget.button.accesskey "Z">
