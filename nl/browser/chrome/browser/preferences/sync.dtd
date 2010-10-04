@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-account">
-<!ENTITY currentUser.label            "Huidige gebruiker:">
+<!ENTITY currentAccount.label         "Huidige account:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Bijwerken">
