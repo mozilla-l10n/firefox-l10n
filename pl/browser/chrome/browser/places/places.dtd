@@ -46,10 +46,10 @@
 <!ENTITY cmd.bookmarkLink.label         "Dodaj zakładkę do tej strony…">
 <!ENTITY cmd.bookmarkLink.accesskey     "D">
 
-<!ENTITY cmd.delete.label               "Usuń stronę">
-<!ENTITY cmd.delete.accesskey           "n">
-<!ENTITY cmd.deleteDomainData.label     "Usuń całą domenę">
-<!ENTITY cmd.deleteDomainData.accesskey "c">
+<!ENTITY cmd.delete.label               "Usuń tę stronę">
+<!ENTITY cmd.delete.accesskey           "s">
+<!ENTITY cmd.deleteDomainData.label     "Usuń całą witrynę">
+<!ENTITY cmd.deleteDomainData.accesskey "w">
 
 <!ENTITY cmd.open.label   "Otwórz">
 <!ENTITY cmd.open.accesskey   "O">
