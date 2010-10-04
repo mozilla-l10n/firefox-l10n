@@ -85,7 +85,7 @@
 
 <!ENTITY choice2.merge.main.label      "Fusiona les dades d'aquest ordinador amb les meves dades del &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomanat:">
-<!ENTITY choice2.client.main.label     "Reemplaça totes les dades d'aquest ordinador amb les meves dades del &syncBrand.fullName.label;">
+<!ENTITY choice2.client.main.label     "Reemplaça totes les dades d'aquest ordinador amb les meves dades del &syncBrand.shortName.label;">
 <!ENTITY choice2.server.main.label     "Reemplaça tots els altres dispositius amb les meves dades locals">
 
 <!-- Confirm Merge Options -->
