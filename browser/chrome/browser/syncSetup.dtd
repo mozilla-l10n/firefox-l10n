@@ -14,8 +14,8 @@
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-server">
 <!ENTITY serverType.custom.label    "Een aangepaste server gebruiken">
-<!ENTITY signIn.username.label      "Gebruikersnaam">
-<!ENTITY signIn.username.accesskey  "G">
+<!ENTITY signIn.account.label       "E-mailadres / Gebruikersnaam">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Wachtwoord">
 <!ENTITY signIn.password.accesskey  "W">
 <!ENTITY signIn.serverURL.label     "Server-URL">
