@@ -359,7 +359,7 @@ can reach it easily. -->
 <!ENTITY viewImageInfoCmd.label       "Pokaż informacje o obrazku">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Pokaż wideo">
-<!ENTITY viewVideoCmd.accesskey       "P">
+<!ENTITY viewVideoCmd.accesskey       "k">
 <!ENTITY viewBGImageCmd.label "Pokaż obrazek tła" >
 <!ENTITY viewBGImageCmd.accesskey "t" >
 <!ENTITY setDesktopBackgroundCmd.label "Ustaw jako tapetę…" >
@@ -387,9 +387,9 @@ can reach it easily. -->
 <!ENTITY saveImageCmd.label "Zapisz obrazek jako…" >
 <!ENTITY saveImageCmd.accesskey "Z" >
 <!ENTITY saveVideoCmd.label           "Zapisz wideo jako…">
-<!ENTITY saveVideoCmd.accesskey       "Z">
+<!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Zapisz dźwięk jako…">
-<!ENTITY saveAudioCmd.accesskey       "Z">
+<!ENTITY saveAudioCmd.accesskey       "s">
 <!ENTITY sendImageCmd.label "Wyślij obrazek…" >
 <!ENTITY sendImageCmd.accesskey "o" >
 <!ENTITY sendVideoCmd.label           "Wyślij wideo…">
@@ -403,9 +403,9 @@ can reach it easily. -->
 <!ENTITY copyImageContentsCmd.label	"Kopiuj obrazek">
 <!ENTITY copyImageContentsCmd.accesskey	"r">
 <!ENTITY copyVideoURLCmd.label        "Kopiuj adres wideo">
-<!ENTITY copyVideoURLCmd.accesskey    "d">
+<!ENTITY copyVideoURLCmd.accesskey    "u">
 <!ENTITY copyAudioURLCmd.label        "Kopiuj adres dźwięku">
-<!ENTITY copyAudioURLCmd.accesskey    "d">
+<!ENTITY copyAudioURLCmd.accesskey    "u">
 <!ENTITY copyEmailCmd.label "Kopiuj adres e-mail" >
 <!ENTITY copyEmailCmd.accesskey "e" >
 <!ENTITY thisFrameMenu.label "Ramka" >
@@ -413,7 +413,7 @@ can reach it easily. -->
 
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "Odtwórz">
-<!ENTITY mediaPlay.accesskey         "O">
+<!ENTITY mediaPlay.accesskey         "z">
 <!ENTITY mediaPause.label            "Wstrzymaj">
 <!ENTITY mediaPause.accesskey        "W">
 <!ENTITY mediaMute.label             "Wycisz">
