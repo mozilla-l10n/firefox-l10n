@@ -41,18 +41,18 @@
 <!ENTITY offlineStorage.label            "Offlineopslag">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Tot">
-<!ENTITY useCacheBefore.accesskey        "o">
-<!ENTITY useCacheAfter.label             "MB ruimte gebruiken voor de buffer">
+<!ENTITY limitCacheSizeBefore.label      "Maximaal">
+<!ENTITY limitCacheSizeBefore.accesskey  "l">
+<!ENTITY limitCacheSizeAfter.label       "MB ruimte gebruiken voor de buffer">
 <!ENTITY clearCacheNow.label             "Nu wissen">
 <!ENTITY clearCacheNow.accesskey         "w">
-<!ENTITY smartSizeCache.label            "Laat &brandShortName; de grootte van mijn buffer beheren">
-<!ENTITY smartSizeCache.accesskey        "L">
+<!ENTITY overrideSmartCacheSize.label    "Negeer automatische bufferbeheer">
+<!ENTITY overrideSmartCacheSize.accesskey "n">
 
 <!ENTITY updateTab.label                 "Update">
 
