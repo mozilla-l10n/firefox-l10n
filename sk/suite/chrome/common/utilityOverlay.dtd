@@ -36,6 +36,8 @@
 <!ENTITY pasteCmd.label "Prilepiť">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
+<!ENTITY pasteGoCmd.label					"Prilepiť a prejsť">
+<!ENTITY pasteGoCmd.accesskey				"r">
 <!ENTITY deleteCmd.label "Odstrániť">
 <!ENTITY deleteCmd.accesskey "O">
 <!ENTITY selectAllCmd.label "Vybrať všetko">
