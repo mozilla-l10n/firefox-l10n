@@ -371,7 +371,7 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj zakładkę do ramki">
 <!ENTITY bookmarkThisFrameCmd.accesskey "D">
 <!ENTITY sendPageCmd.label "Wyślij odnośnik…" >
-<!ENTITY sendPageCmd.accesskey "W" >
+<!ENTITY sendPageCmd.accesskey "n" >
 <!ENTITY savePageCmd.label "Zapisz stronę jako…" >
 <!ENTITY savePageCmd.accesskey "p" >
 <!ENTITY savePageCmd.accesskey2 "s" >
