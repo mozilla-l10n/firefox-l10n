@@ -1,2 +1,5 @@
 <!ENTITY quota.dialogTitle.label    "Server Quota">
 <!ENTITY quota.retrievingInfo.label "Quota informatie ontvangen…">
+<!ENTITY quota.typeColumn.label     "Type">
+<!ENTITY quota.sizeColumn.label     "Grootte">
+
