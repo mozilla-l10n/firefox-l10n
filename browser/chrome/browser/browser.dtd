@@ -141,6 +141,9 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "Tabbladgroepen">
 <!ENTITY tabGroupsButton.tooltip      "Uw tabbladen groeperen">
 
+<!ENTITY feedButton.label             "Abonneren">
+<!ENTITY feedButton.tooltip           "Abonneren op deze pagina…">
+
 <!ENTITY bookmarksButton.label          "Bladwijzers">
 <!ENTITY bookmarksButton.tooltip        "Uw bladwijzers weergeven">
 <!ENTITY bookmarksButton.accesskey  "B">
