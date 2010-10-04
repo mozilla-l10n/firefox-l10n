@@ -136,6 +136,7 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.tooltip        "Open &brandShortName;menu">
 <!ENTITY homeButton.label             "Startpagina">
 
 <!ENTITY tabGroupsButton.label        "Tabbladgroepen">
