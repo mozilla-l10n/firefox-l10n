@@ -36,6 +36,8 @@
 <!ENTITY pasteCmd.label "Colar">
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "o">
+<!ENTITY pasteGoCmd.label					"Colar &amp; Ir">
+<!ENTITY pasteGoCmd.accesskey				"I">
 <!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Seleccionar tudo">
