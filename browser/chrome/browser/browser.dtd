@@ -18,17 +18,21 @@
 <!ENTITY  reloadAllTabs.accesskey            "ä">
 <!ENTITY  closeOtherTabs.label               "Sulje muut välilehdet">
 <!ENTITY  closeOtherTabs.accesskey           "m">
-<!ENTITY  openTabInNewWindow.label           "Avaa uuteen ikkunaan">
-<!ENTITY  openTabInNewWindow.accesskey       "A">
-<!ENTITY  pinTab.label                       "Sovelluksen välilehdeksi">
-<!ENTITY  pinTab.accesskey                   "o">
-<!ENTITY  unpinTab.label                     "Normaaliksi välilehdeksi">
-<!ENTITY  unpinTab.accesskey                 "N">
-<!ENTITY  moveToGroup.label                  "Siirry ryhmään">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Kiinnitä ohjelmalehti">
+<!ENTITY  pinAppTab.accesskey                "K">
+<!ENTITY  unpinAppTab.label                  "Irrota välilehti">
+<!ENTITY  unpinAppTab.accesskey              "I">
+<!ENTITY  moveToGroup.label                  "Siirrä ryhmään">
 <!ENTITY  moveToGroup.accesskey              "S">
 <!ENTITY  moveToNewGroup.label               "Uusi ryhmä">
-<!ENTITY  bookmarkThisTab.label              "Lisää välilehti kirjanmerkkeihin">
-<!ENTITY  bookmarkThisTab.accesskey          "L">
+<!ENTITY  moveToNewWindow.label              "Siirrä uuteen ikkunaan">
+<!ENTITY  moveToNewWindow.accesskey          "S">
 <!ENTITY  bookmarkAllTabs.label              "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY  bookmarkAllTabs.accesskey          "i">
 <!ENTITY  undoCloseTab.label                 "Kumoa Sulje välilehti">
@@ -99,7 +103,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Tilaa sivu">
 <!ENTITY subscribeToPageMenuitem.label "Tilaa sivu…">
 <!ENTITY addCurPagesCmd.label "Lisää välilehdet kirjanmerkkeihin…">
-<!ENTITY organizeBookmarks.label "Järjestele kirjanmerkkejä…">
+<!ENTITY showAllBookmarks.label "Näytä kaikki kirjanmerkit…">
 <!ENTITY bookmarkAllCmd.label "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Näytä lisää kirjanmerkkejä">
 
@@ -129,9 +133,11 @@
 <!ENTITY bookmarksItem.title           "Kirjanmerkit">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label             "Aloitussivu">
-<!ENTITY tabViewButton2.label         "Välilehtiryhmät">
-<!ENTITY tabViewButton2.tooltip       "Ryhmittele välilehtesi">
+<!ENTITY appMenuButton.label          "Valikko">
+<!ENTITY homeButton.label             "Aloitussivu">
+
+<!ENTITY tabGroupsButton.label        "Välilehtiryhmät">
+<!ENTITY tabGroupsButton.tooltip      "Ryhmittele välilehtesi">
 
 <!ENTITY bookmarksButton.label           "Kirjanmerkit">
 <!ENTITY bookmarksButton.tooltip         "Näytä kirjanmerkit">
@@ -168,6 +174,7 @@
 <!ENTITY downloadsUnix.commandkey      "y">
 <!ENTITY addons.label                 "Lisäosat">
 <!ENTITY addons.accesskey             "o">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label    "Virhekonsoli">
 <!ENTITY errorConsoleCmd.accesskey  "V">
@@ -177,12 +184,12 @@
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Tutki">
+<!ENTITY inspectMenu.label            "Sivun tutkija">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Tutki">
+<!ENTITY inspectButton.label          "Sivun tutkija">
 <!ENTITY inspectButton.accesskey      "T">
 <!ENTITY inspectNextButton.label      "Seuraava">
 <!ENTITY inspectNextButton.accesskey  "S">
@@ -244,8 +251,8 @@
 
 <!ENTITY viewMenu.label          "Näytä">
 <!ENTITY viewMenu.accesskey        "N">
-<!ENTITY showTabView2.label     "Ryhmittele välilehtesi…">
-<!ENTITY showTabView2.accesskey     "R">
+<!ENTITY viewTabGroups.label            "Välilehtiryhmät">
+<!ENTITY viewTabGroups.accesskey        "V">
 <!ENTITY viewToolbarsMenu.label        "Työkalupalkit">
 <!ENTITY viewToolbarsMenu.accesskey      "T">
 <!ENTITY viewSidebarMenu.label  "Sivupaneeli">
@@ -260,11 +267,13 @@
 <!ENTITY historyUndoMenu.label "Suljetut välilehdet">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Suljetut ikkunat">
+<!ENTITY historyRestoreLastSession.label "Palauta edellinen istunto">
 
 <!ENTITY historyHomeCmd.label "Aloitussivu">
 <!ENTITY showAllHistoryCmd2.label "Näytä sivuhistoria">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Muokkaa">
 <!ENTITY appMenuCustomize.label "Muokkaa">
 <!ENTITY appMenuToolbarLayout.label "Työkalupalkin asettelu…">
 <!ENTITY appMenuSidebars.label "Sivupaneeli">
@@ -272,7 +281,7 @@
 <!ENTITY appMenuUnsorted.label "Järjestelemättä olevat kirjanmerkit">
 <!ENTITY appMenuGettingStarted.label "Alkuun pääseminen">
 
-<!ENTITY developerMenu.label "Kehitystyö">
+<!ENTITY developerMenu.label "Kehitystyökalut">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Siirry verkkosivulle">
@@ -443,7 +452,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip               "Leikkaa">
 <!ENTITY copyButton.tooltip              "Kopioi">
 <!ENTITY pasteButton.tooltip             "Liitä">
+
 <!ENTITY fullScreenButton.tooltip       "Suurenna ikkunan koko ruudun kokoiseksi">
+
+<!ENTITY zoomOutButton.tooltip          "Loitonna">
+<!ENTITY zoomInButton.tooltip           "Lähennä">
+<!ENTITY zoomControls.label             "Suurennussäädöt">
 
 <!ENTITY quitApplicationCmdWin.label        "Lopeta">
 <!ENTITY quitApplicationCmdWin.accesskey    "L">
@@ -528,17 +542,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Välilehdet muissa laitteissa">
 
-<!ENTITY syncBrand.shortName.label  "Sync">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "c">
-<!ENTITY syncSetup.label              "Määritä &syncBrand.shortName.label;…in asetukset">
+<!ENTITY syncSetup.label              "Määritä &syncBrand.shortName.label;in asetukset…">
 <!ENTITY syncSetup.accesskey          "M">
-<!ENTITY syncLogInItem.label          "Yhdistä">
-<!ENTITY syncLogInItem.accesskey      "Y">
-<!ENTITY syncLogOutItem.label         "Katkaise yhteys">
-<!ENTITY syncLogOutItem.accesskey     "K">
 <!ENTITY syncSyncNowItem.label        "Synkronoi">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Synkronoi">

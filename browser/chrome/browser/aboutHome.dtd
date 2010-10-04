@@ -5,12 +5,11 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName;in aloitussivu">
-<!ENTITY abouthome.brandLogo.title "&brandFullName;in logo">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;in</span> aloitussivu">
-
-<!ENTITY abouthome.searchEngineLogo.title "Hakukoneen logo">
 
 <!ENTITY abouthome.searchEngineButton.label "Etsi">
 
@@ -18,3 +17,12 @@
 <!ENTITY abouthome.searchEngineLinks.preferences "Asetukset">
 
 <!ENTITY abouthome.aboutMozilla "Tietoja Mozillasta">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Kiitos, että valitsit Firefoxin! Saadaksesi kaiken irti selaimestasi, lue Firefoxin <a>uusista ominaisuuksista</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox on helppo mukauttaa oman maun mukaiseksi. <a>Valitse tuhansista lisäosista</a>.">

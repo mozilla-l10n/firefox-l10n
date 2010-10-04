@@ -63,8 +63,10 @@
 <!ENTITY  errorpatching.intro              "Korjauspäivitys ei toiminut. 
                                             &brandShortName; lataa päivitetyn ohjelmaversion ja yrittää uudestaan.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Jokin estää &brandShortName;ia päivittämistä itseään turvallisesti.
-                                           Tarkista, että asennettuna on &brandShortName;in viimeisin versio osoitteesta:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ei kykene tarkistamaan, onko uudempaa versiota saatavilla.
+                                           Tarkista, että käytät &brandShortName;in uusinta versiota osoitteesta:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Jokin estää &brandShortName;ia päivittämistä itseään turvallisesti.
+                                           Tarkista, että käytät &brandShortName;in uusinta versiota osoitteesta:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Jokin yrittää huijata &brandShortName;ia hyväksymään päivityksen, joka ei ole
                                            turvallinen. Pyydä apua Internet-palveluntarjoajaltasi.">
 

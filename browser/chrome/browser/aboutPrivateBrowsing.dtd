@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Siirry yksityinen selaus -tilaan">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "S">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Palaa normaaliin selaustilaan poistamalla valinta kohdasta &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, tai sulkemalla &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "Siirry yksityinen selaus -tilaan valitsemalla &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "Palaa normaaliin selaustilaan valitsemalla &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; tai sulje &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Siirry yksityinen selaus -tilaan valitsemalla &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Vaikka tälle tietokoneelle ei jää jälkiä selatuista sivuista, Internet-palveluntarjoajasi tai esimerkiksi työnantajasi voi edelleen seurata, millä sivuilla on käyty.">
 <!ENTITY privatebrowsingpage.learnMore                 "Lue lisää">
