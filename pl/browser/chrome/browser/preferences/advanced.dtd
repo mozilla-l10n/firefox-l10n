@@ -6,10 +6,10 @@
 
 <!ENTITY useCursorNavigation.label       "Zawsze używaj klawiszy kursora do nawigacji po stronach">
 <!ENTITY useCursorNavigation.accesskey   "g">
-<!ENTITY searchStartTyping.label         "Rozpocznij wyszukiwanie podczas wpisywania tekstu">
+<!ENTITY searchStartTyping.label         "Rozpoczynaj wyszukiwanie podczas wpisywania tekstu">
 <!ENTITY searchStartTyping.accesskey     "r">
 
-<!ENTITY blockAutoRefresh.label          "Ostrzeż, jeśli witryny próbują przekierować lub odświeżyć stronę">
+<!ENTITY blockAutoRefresh.label          "Ostrzegaj, jeśli witryny próbują przekierować lub odświeżyć stronę">
 <!ENTITY blockAutoRefresh.accesskey      "w">
 
 <!ENTITY browsing.label                  "Przeglądanie">
@@ -80,7 +80,7 @@
 <!ENTITY updateHistory.accesskey         "h">
 
 <!-- FIXME (offlineNotify.label) skrócić -->
-<!ENTITY offlineNotify.label             "Powiadom, kiedy witryna poprosi o możliwość przechowywania danych dla trybu offline">
+<!ENTITY offlineNotify.label             "Powiadamiaj, kiedy witryna poprosi o możliwość przechowywania danych dla trybu offline">
 <!ENTITY offlineNotify.accesskey         "o">
 <!ENTITY offlineNotifyExceptions.label   "Wyjątki…">
 <!ENTITY offlineNotifyExceptions.accesskey "W">

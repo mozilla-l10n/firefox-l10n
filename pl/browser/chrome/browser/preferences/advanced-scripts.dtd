@@ -39,7 +39,7 @@
 <!ENTITY advancedJSDialog.title         "Zaawansowane ustawienia JavaScriptu">
 <!ENTITY window.width                   "45em">
 
-<!ENTITY allowScripts.label		"Zezwól skryptom na:">
+<!ENTITY allowScripts.label		"Zezwalaj skryptom na:">
 
 <!ENTITY moveResizeWindows.label        "przenoszenie i zmianę rozmiaru istniejących okien">
 <!ENTITY moveResizeWindows.accesskey    "p">

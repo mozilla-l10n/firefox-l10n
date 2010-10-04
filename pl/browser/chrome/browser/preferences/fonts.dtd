@@ -62,8 +62,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Szeryfowa">
 <!ENTITY  useDefaultFontSansSerif.label           "Bezszeryfowa">
 
-<!ENTITY  allowPagesToUse.label                   "Pozwól stronom stosować inne czcionki niż ustawione tutaj">
-
+<!ENTITY  allowPagesToUse.label                   "Pozwalaj stronom stosować inne czcionki niż ustawione tutaj">
 <!ENTITY  allowPagesToUse.accesskey               "i">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Zestaw znaków">

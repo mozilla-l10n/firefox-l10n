@@ -2,7 +2,7 @@
 <!ENTITY window.width                     "43em">
 <!ENTITY  window.macWidth                 "46em">
 
-<!ENTITY  allowPagesToUse.label           "Pozwól stronom stosować inne kolory niż ustawione tutaj">
+<!ENTITY  allowPagesToUse.label           "Pozwalaj stronom stosować inne kolory niż ustawione tutaj">
 <!ENTITY  allowPagesToUse.accesskey       "i">
 
 <!ENTITY  color                           "Tekst i tło">
@@ -10,7 +10,7 @@
 <!ENTITY  textColor.accesskey             "e">
 <!ENTITY  backgroundColor.label           "Tło:">
 <!ENTITY  backgroundColor.accesskey       "T">
-<!ENTITY  useSystemColors.label           "Użyj kolorów systemowych">
+<!ENTITY  useSystemColors.label           "Używaj kolorów systemowych">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Podkreślaj odnośniki">
