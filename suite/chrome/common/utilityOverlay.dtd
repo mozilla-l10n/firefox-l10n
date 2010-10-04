@@ -69,6 +69,8 @@
 <!ENTITY pasteCmd.label                             "Įdėti">  
 <!ENTITY pasteCmd.key                               "V">  
 <!ENTITY pasteCmd.accesskey                         "d"> 
+<!ENTITY pasteGoCmd.label                           "Įdėti ir atverti">
+<!ENTITY pasteGoCmd.accesskey                       "ė">
 <!ENTITY deleteCmd.label                            "Pašalinti">  
 <!ENTITY deleteCmd.accesskey                        "š"> 
 <!ENTITY selectAllCmd.label                         "Pažymėti viską">  
