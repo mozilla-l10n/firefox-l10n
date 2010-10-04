@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Mijn startpagina tonen">
 <!ENTITY startupBlankPage.label    "Een lege pagina tonen">
 <!ENTITY startupLastSession.label  "Mijn vensters en tabbladen van de vorige keer tonen">
-<!ENTITY location.label            "Startpagina:">
-<!ENTITY location.accesskey        "p">
+<!ENTITY homepage.label            "Startpagina:">
+<!ENTITY homepage.accesskey        "p">
 <!ENTITY useCurrentPage.label      "Huidige pagina gebruiken">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Huidige pagina’s gebruiken">
