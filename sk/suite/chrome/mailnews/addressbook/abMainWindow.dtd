@@ -100,8 +100,6 @@
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Export…">
 <!ENTITY exportCmd.accesskey                            "x">
-<!ENTITY allowOnlineCheck.label                         "Kontrolovať prítomnosť online (AOL)">
-<!ENTITY allowOnlineCheck.accesskey                     "K">
 
 <!-- Toolbar and Popup items -->
 <!ENTITY newContactButton.label                         "Nový kontakt">

@@ -1,12 +1,12 @@
 <!ENTITY firstrun.title                "Víta vás &brandShortName;">
 <!ENTITY firstrun.heading2             "Víta vás &brandShortName;">
-<!ENTITY firstrun.sync.title           "Získať doplnok Firefox Sync">
-<!ENTITY firstrun.sync.description     "Zdieľajte históriu prehliadania &brandShortName;u, záložky, uložené heslá a karty medzi svojim počítačom a mobilným zariadením">
-<!ENTITY firstrun.addons.title         "Získať doplnky">
-<!ENTITY firstrun.addons.description   "Nainštalujte si doplnky a vylepšite si zážitok z prehliadača &brandShortName;">
-<!ENTITY firstrun.home.title           "Začnite">
-<!ENTITY firstrun.home.description     "Prejdite na vašu osobnú štartovaciu stránku a začnite prehliadať web.">
-<!ENTITY firstrun.relNotes.label       "Pozrite si poznámky k vydaniu">
+<!ENTITY firstrun.sync2.title          "Synchronizácia">
+<!ENTITY firstrun.sync2.description    "Prihláste sa k svojmu účtu služby Sync a zdieľajte svoju históriu prehliadania, heslá, záložky a karty medzi svojim počítačom a mobilným zariadením">
+<!ENTITY firstrun.addons2.title        "Prispôsobenie">
+<!ENTITY firstrun.addons2.description  "Objavte a nainštalujte si doplnky, ktoré pridajú nové funkcie prehliadaču &brandShortName;">
+<!ENTITY firstrun.home2.title          "Prehliadanie">
+<!ENTITY firstrun.home2.description    "Preskočte toto a prejdite na personalizovanú úvodnú stránku, kde môžete začať v prehliadaní webu">
+<!ENTITY firstrun.features             "Pozrite si ďalšie funkcie">
 <!ENTITY firstrun.faq                  "Často kladené otázky">
 <!ENTITY firstrun.privacy              "Zásady ochrany súkromia">
 <!ENTITY firstrun.follow               "Sledujte nás:">
