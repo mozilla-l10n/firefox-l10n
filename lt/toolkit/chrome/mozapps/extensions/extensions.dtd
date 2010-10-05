@@ -122,10 +122,10 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Nerodyti šio naujinimo laidos apžvalgos">
 
 <!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+<!-- LOCALIZATION NOTE (discover.title,discover.description2,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Kas yra priedai?">
-<!ENTITY discover.description                 "Priedai – nedidelės programos, kurių pagalba galite priderinti naršyklę savo poreikiams, jai suteikdami papildomų funkcijų ar pakeisdami išvaizdą. Individualizuokite „Firefox“, išbandydami laiką taupantį parankinės modulį, orų pranešiklį ar Jums patinkantį grafinį apvalkalą.">
+<!ENTITY discover.description2                "Priedai – nedidelės programos, kurių pagalba galite priderinti naršyklę savo poreikiams, jai suteikdami papildomų funkcijų ar pakeisdami išvaizdą. Individualizuokite „&brandShortName;“, išbandydami laiką taupantį parankinės modulį, orų pranešiklį ar Jums patinkantį grafinį apvalkalą.">
 <!ENTITY discover.footer                      "Kai prisijungsite prie interneto, šioje srityje pamatysite keletą geriausių ir populiariausių priedų.">
 
 <!-- detail view -->
