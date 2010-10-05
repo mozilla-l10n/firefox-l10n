@@ -114,6 +114,8 @@
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Dölj mediakontroller">
 <!ENTITY mediaHideControls.accesskey  "a">
+<!ENTITY videoFullScreen.label        "Helskärm">
+<!ENTITY videoFullScreen.accesskey    "H">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Byt sidriktning">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">

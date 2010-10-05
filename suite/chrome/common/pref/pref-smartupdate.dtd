@@ -20,3 +20,13 @@
 <!ENTITY extensionsWeekly.accesskey           "k">
 <!ENTITY addonManagerButton.label             "Tilläggshanteraren">
 <!ENTITY addonManagerButton.accesskey         "ä">
+
+<!ENTITY whenUpdatesFound.label               "När uppdateringar till &brandShortName; är tillgängliga">
+<!ENTITY askMe.label                          "Fråga mig vad jag vill göra">
+<!ENTITY askMe.accesskey                      "F">
+<!ENTITY modeAutomatic.label                  "Hämta och installera uppdateringen automatiskt">
+<!ENTITY modeAutomatic.accesskey              "a">
+<!ENTITY modeAutoAddonWarn.label              "Varna mig om detta kommer att stänga av något av mina tillägg">
+<!ENTITY modeAutoAddonWarn.accesskey          "a">
+<!ENTITY updateHistory.label                  "Visa tidigare uppdateringar">
+<!ENTITY updateHistory.accesskey              "u">

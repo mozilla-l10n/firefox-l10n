@@ -11,7 +11,7 @@
 <!ENTITY     button.removeallcookies.label  "Ta bort alla kakor">
 <!ENTITY     button.removeallcookies.accesskey "a">
 
-<!ENTITY     search.emptytext               "Sök kakor">
+<!ENTITY     search.placeholder             "Sök kakor">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">

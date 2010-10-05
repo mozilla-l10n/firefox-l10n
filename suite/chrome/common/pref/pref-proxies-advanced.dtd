@@ -8,15 +8,12 @@
 <!ENTITY  ssl.accesskey               "L">
 <!ENTITY  ftp.label                   "FTP-proxy:">
 <!ENTITY  ftp.accesskey               "F">
-<!ENTITY  gopher.label                "Gopher-proxy:">
-<!ENTITY  gopher.accesskey            "G">
 <!ENTITY  reuseProxy.label            "Använd inställningarna för HTTP-proxyn för alla protokoll">
 <!ENTITY  reuseProxy.accesskey        "A">
 <!ENTITY  port.label                  "Port:">
 <!ENTITY  HTTPPort.accesskey          "P">
 <!ENTITY  SSLPort.accesskey           "o">
 <!ENTITY  FTPPort.accesskey           "r">
-<!ENTITY  gopherPort.accesskey        "">
 
 <!ENTITY  socks.caption               "Generisk proxy">
 <!ENTITY  socks.description           "En SOCKS-proxy är en generisk proxy som ibland används i vissa organisationer.">

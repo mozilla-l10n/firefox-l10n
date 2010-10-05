@@ -1,14 +1,11 @@
 
-<!ENTITY navigatorCmd.label					"Webbläsare">  
+<!ENTITY navigatorCmd.label		"Webbläsare">  
 <!ENTITY navigatorCmd.accesskey             "W">
 <!ENTITY navigatorCmd.commandkey            "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label					"Composer">
 <!ENTITY editorCmd.accesskey				"c">
 <!ENTITY editorCmd.commandkey				"4">
-
-<!ENTITY javaConsoleCmd.label					"Java-konsol">
-<!ENTITY javaConsoleCmd.accesskey				"J">
 
 <!ENTITY errorConsoleCmd.label                                  "Felkonsol">
 <!ENTITY errorConsoleCmd.accesskey				"F">
@@ -23,8 +20,11 @@
 <!ENTITY windowMenu.label "Fönster">
 <!ENTITY windowMenu.accesskey "F">
 
-<!ENTITY tasksMenu.label				"Verktyg">
-<!ENTITY tasksMenu.accesskey                           "t">
+<!ENTITY tasksMenu.label			"Verktyg">
+<!ENTITY tasksMenu.accesskey                    "t">
+
+<!ENTITY datamanCmd.label "Data Manager">
+<!ENTITY datamanCmd.accesskey "M">
 
 <!ENTITY passwordManagerCmd.label "Lösenordshanteraren">
 <!ENTITY passwordManagerCmd.accesskey "L">

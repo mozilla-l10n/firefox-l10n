@@ -11,6 +11,7 @@
 <!ENTITY applications.label "Hjälpprogram">
 <!ENTITY locationBar.label "Adressfält">
 <!ENTITY tabWindows.label "Flikar">
+<!ENTITY links.label "Länkar">
 <!ENTITY offline.label "Nedkopplat läge">
 <!ENTITY security.label "Integritet och säkerhet">
 <!ENTITY cookies.label "Kakor">

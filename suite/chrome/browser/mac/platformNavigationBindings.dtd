@@ -3,6 +3,3 @@
 <!ENTITY goForwardCmd.keyCode "VK_RIGHT">
 <!ENTITY goBackCmd.commandKey "Ö">
 <!ENTITY goForwardCmd.commandKey "Ä">
-
-<!ENTITY addCurPageCmd.commandkey "d">
-

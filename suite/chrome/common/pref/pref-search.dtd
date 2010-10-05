@@ -6,17 +6,10 @@
 <!ENTITY  defaultSearchEngine.label       "Sök med:">
 <!ENTITY  defaultSearchEngine.accesskey   "k">
 
+<!ENTITY openInTab.label                  "Öppna nya flikar för sökresultatet i sidofältet">
+<!ENTITY openInTab.accesskey              "n">
 <!ENTITY  openSidebarSearchPanel.label    "Öppna sökfliken i sidofältet när sökresultat finns tillgängliga">
-<!ENTITY  openSidebarSearchPanel.accesskey "n">
-
-<!ENTITY openContextSearchTab.label       "Öppna en flik istället för ett fönster vid sökning från snabbvalsmenyn">
-<!ENTITY openContextSearchTab.accesskey   "p">
+<!ENTITY  openSidebarSearchPanel.accesskey "s">
 
 <!ENTITY  searchResults.label             "Sökresultat">
-
-<!ENTITY  sidebarSearchTabPref.label      "Inställning av sidofältets sökflik">
-<!ENTITY  searchModeBasic.label           "Enkel">
-<!ENTITY  searchModeBasic.accesskey       "e">
-<!ENTITY  searchModeAdvanced.label        "Avancerad">
-<!ENTITY  searchModeAdvanced.accesskey    "c">
 

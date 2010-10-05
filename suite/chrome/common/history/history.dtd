@@ -3,7 +3,7 @@
 <!ENTITY historyWindowTitle.label   "Historik">
 <!ENTITY searchBar.tooltip              "Söklist">
 
-<!ENTITY search.emptytext               "Sök historik">
+<!ENTITY search.placeholder             "Sök historik">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Visa">
 

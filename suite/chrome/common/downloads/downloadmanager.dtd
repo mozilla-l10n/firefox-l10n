@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip                 "Menyrad">
 <!ENTITY searchBar.tooltip               "Sökrad">
 
-<!ENTITY search.emptytext                "Sök hämtningar">
+<!ENTITY search.placeholder              "Sök hämtningar">
 <!ENTITY search.label                    "Sök hämtningar">
 <!ENTITY search.accesskey                "S">
 <!ENTITY search.key                      "f">
