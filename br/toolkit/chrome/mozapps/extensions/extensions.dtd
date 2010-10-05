@@ -91,6 +91,16 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Kuzhat an notennoù handelv">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Kuzhat an notennoù handelv evit an hizivadur-mañ">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Petra eo an askouezhioù ?">
+<!ENTITY discover.description                 "Arloadoù a ro tro deoc'h da bersonelaat Firefox gant keweriusterioù
+  pe stiloù ouzhpenn eo an askouezhioù. Prouadit un difazier, un arload evit an hinad 
+  pe un neuz dre zodenn a-benn lakaat Firefox da vezañ ho hini.">
+<!ENTITY discover.footer                      "Pa viot kennasket ouzh internet e tiskouezo ar penel-mañ un darn eus
+  an askouezhioù gwellañ ha brudetañ da brouadiñ.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Handelv">
 <!ENTITY detail.lastupdated.label             "Hizivadur diwezhañ">

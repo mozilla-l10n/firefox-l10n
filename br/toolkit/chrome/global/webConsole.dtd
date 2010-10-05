@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Talbennoù ar respont">
 <!ENTITY networkPanel.responseBody                "Korf ar respont">
 <!ENTITY networkPanel.responseBodyCached          "Roadennoù lakaet er grubuilh">
+<!ENTITY networkPanel.responseBodyUnknownType     "Rizh an endalc'had dianav">
 <!ENTITY networkPanel.responseNoBody              "Korf ar respont ebet">
 <!ENTITY networkPanel.responseImage               "Skeudenn degemeret">
 <!ENTITY networkPanel.responseImageCached         "Skeudenn lakaet er grubuilh">
