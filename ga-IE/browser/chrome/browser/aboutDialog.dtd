@@ -1,11 +1,56 @@
 <!ENTITY aboutDialog.title "Maidir le &brandFullName;">
-<!ENTITY copyright "Admhálacha">
-<!ENTITY copyright.accesskey "C">
-<!ENTITY copyrightGNOME.accesskey "r">
-<!ENTITY aboutLink "&lt; Maidir le &brandFullName;">
-<!ENTITY aboutLink.accesskey "W">
-<!ENTITY aboutVersion "leagan">
-<!ENTITY closeCmdGNOME.label "Dún">
-<!ENTITY closeCmdGNOME.accesskey "D">
-<!ENTITY licenseLinkText "Ceadúnú">
-<!ENTITY licenseLinkSuffix ".">
+
+<!ENTITY community.start2 "Bhí &brandShortName; cruthaithe ag ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink "comhphobal domhanda">
+<!ENTITY community.end2 " atá ag cur le chéile chun feabhas a chur ar an Idirlíon.  Creidimid gur chóir don Idirlíon a bheith oscailte, poiblí, agus ar fáil do chách gan srian ar bith.">
+
+<!ENTITY contribute.start "Suimiúil? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Bí linn!">
+<!ENTITY contribute.end "">
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+
+<!ENTITY bottomLinks.license "Maidir leis an gCeadúnas">
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+
+<!ENTITY bottomLinks.rights "Cearta an Úsáideora">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+
+<!ENTITY bottomLinks.privacy "Polasaí Príobháideachta">
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.checkingForUpdates "Nuashonruithe á lorg…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Comhoiriúnacht na mBreiseán á Seiceáil…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound "Tá &brandShortName; cothrom le dáta">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled "Tá nuashonruithe bogearra díchumasaithe ag riarthóir do chórais">
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.failed.start "Theip ar an nuashonrú. ">
+<!ENTITY update.failed.linkText "Íosluchtaigh an leagan is déanaí">
+<!ENTITY update.failed.end "">
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.manual.start "Nuashonruithe ar fáil ó ">
+<!ENTITY update.manual.end "">
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+
+<!ENTITY update.downloading.start "Nuashonrú á íosluchtú — ">
+<!ENTITY update.downloading.end "">

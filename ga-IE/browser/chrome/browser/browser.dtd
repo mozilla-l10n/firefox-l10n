@@ -18,17 +18,21 @@
 <!ENTITY reloadAllTabs.accesskey "G">
 <!ENTITY closeOtherTabs.label "Dún Cluaisíní Eile">
 <!ENTITY closeOtherTabs.accesskey "E">
-<!ENTITY openTabInNewWindow.label "Oscail i bhFuinneog Nua">
-<!ENTITY openTabInNewWindow.accesskey "F">
-<!ENTITY pinTab.label "Déan Feidhmchluaisín As">
-<!ENTITY pinTab.accesskey "F">
-<!ENTITY unpinTab.label "Déan Gnáthchluaisín As">
-<!ENTITY unpinTab.accesskey "G">
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+
+<!ENTITY pinAppTab.label "Déan Feidhmchluaisín As">
+<!ENTITY pinAppTab.accesskey "F">
+<!ENTITY unpinAppTab.label "Déan Gnáthchluaisín As">
+<!ENTITY unpinAppTab.accesskey "G">
 <!ENTITY moveToGroup.label "Bog go Grúpa">
 <!ENTITY moveToGroup.accesskey "B">
 <!ENTITY moveToNewGroup.label "Grúpa Nua">
-<!ENTITY bookmarkThisTab.label "Cruthaigh Leabharmharc don Chluaisín Seo">
-<!ENTITY bookmarkThisTab.accesskey "b">
+<!ENTITY moveToNewWindow.label "Bog go Fuinneog Nua">
+<!ENTITY moveToNewWindow.accesskey "N">
 <!ENTITY bookmarkAllTabs.label "Leabharmharcáil Gach Cluaisín…">
 <!ENTITY bookmarkAllTabs.accesskey "C">
 <!ENTITY undoCloseTab.label "Cealaigh Dúnadh an Chluaisín">
@@ -66,8 +70,8 @@
 <!ENTITY personalbarCmd.label "Barra Leabharmharc">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Rudaí ar an Bharra Leabharmharc">
-<!ENTITY taskbarCmd.label "Barra Stádais">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Barra na mBreiseán">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Foinse an Leathanaigh">
 <!ENTITY pageSourceCmd.accesskey "F">
@@ -99,7 +103,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Liostáil leis an Leathanach Seo">
 <!ENTITY subscribeToPageMenuitem.label "Liostáil leis an Leathanach Seo…">
 <!ENTITY addCurPagesCmd.label "Leabharmharcáil Gach Cluaisín…">
-<!ENTITY organizeBookmarks.label "Eagraigh Leabharmharcanna…">
+<!ENTITY showAllBookmarks.label "Taispeáin Gach Leabharmharc…">
 <!ENTITY bookmarkAllCmd.label "Leabharmharcáil Gach Cluaisín…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh leabharmharcanna">
 
@@ -118,7 +122,6 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Éirigh as an leathanach seo a luchtú">
 <!ENTITY goEndCap.tooltip "Téigh go dtí an seoladh atá sa Bharra Suímh">
-<!ENTITY feedButton.tooltip "Liostáil leis an leathanach seo…">
 <!ENTITY printButton.label "Priontáil">
 <!ENTITY printButton.tooltip "Priontáil an leathanach seo">
 
@@ -129,9 +132,15 @@
 <!ENTITY bookmarksItem.title "Leabharmharcanna">
 <!-- Toolbar items --> 
 
+<!ENTITY appMenuButton.label "Roghchlár">
+<!ENTITY appMenuButton.tooltip "Oscail roghchlár &brandShortName;">
 <!ENTITY homeButton.label "Baile">
-<!ENTITY tabViewButton2.label "Grúpaí Cluaisíní">
-<!ENTITY tabViewButton2.tooltip "Grúpáil Do Chluaisíní">
+
+<!ENTITY tabGroupsButton.label "Grúpaí Cluaisíní">
+<!ENTITY tabGroupsButton.tooltip "Grúpáil do chuid cluaisíní">
+
+<!ENTITY feedButton.label "Liostáil">
+<!ENTITY feedButton.tooltip "Liostáil leis an leathanach seo…">
 
 <!ENTITY bookmarksButton.label "Leabharmharcanna">
 <!ENTITY bookmarksButton.tooltip "Taispeáin do leabharmharcanna">
@@ -168,6 +177,7 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Breiseáin">
 <!ENTITY addons.accesskey "B">
+<!ENTITY addons.commandkey "A">
 
 <!ENTITY errorConsoleCmd.label "Consól Earráide">
 <!ENTITY errorConsoleCmd.accesskey "E">
@@ -244,8 +254,8 @@
 
 <!ENTITY viewMenu.label "Amharc">
 <!ENTITY viewMenu.accesskey "A">
-<!ENTITY showTabView2.label "Grúpáil Do Chluaisíní…">
-<!ENTITY showTabView2.accesskey "G">
+<!ENTITY viewTabGroups.label "Grúpaí Cluaisíní">
+<!ENTITY viewTabGroups.accesskey "G">
 <!ENTITY viewToolbarsMenu.label "Barraí Uirlisí">
 <!ENTITY viewToolbarsMenu.accesskey "U">
 <!ENTITY viewSidebarMenu.label "Barra Taoibh">
@@ -260,19 +270,22 @@
 <!ENTITY historyUndoMenu.label "Cluaisíní a Dúnadh Le Déanaí">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Fuinneoga a Dúnadh Le Déanaí">
+<!ENTITY historyRestoreLastSession.label "Athchóirigh an Seisiún Roimhe Seo">
 
 <!ENTITY historyHomeCmd.label "Baile">
 <!ENTITY showAllHistoryCmd2.label "Taispeáin an Stair Iomlán">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Eagar">
 <!ENTITY appMenuCustomize.label "Saincheap">
 <!ENTITY appMenuToolbarLayout.label "Leagan Amach an Bharra Uirlisí…">
 <!ENTITY appMenuSidebars.label "Barraí Taoibh">
 <!ENTITY appMenuFind.label "Aimsigh…">
 <!ENTITY appMenuUnsorted.label "Leabharmharcanna Gan Sórtáil">
+<!ENTITY appMenuWebDeveloper.label "Forbróir Gréasáin">
 <!ENTITY appMenuGettingStarted.label "Tús Maith">
-
-<!ENTITY developerMenu.label "Forbróir">
+<!ENTITY appMenuSafeMode.label "Atosaigh gan aon bhreiseáin…">
+<!ENTITY appMenuSafeMode.accesskey "A">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Téigh go Suíomh Gréasáin">
@@ -285,9 +298,9 @@
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -296,13 +309,12 @@
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 
 <!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY tabView.commandkey "e">
 
 <!ENTITY openLinkCmdInTab.label "Oscail an Nasc i gCluaisín Nua">
 <!ENTITY openLinkCmdInTab.accesskey "C">
@@ -444,7 +456,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Gearr">
 <!ENTITY copyButton.tooltip "Cóipeáil">
 <!ENTITY pasteButton.tooltip "Greamaigh">
+
 <!ENTITY fullScreenButton.tooltip "Taispeáin an fhuinneog sa scáileán iomlán">
+
+<!ENTITY zoomOutButton.tooltip "Súmáil amach">
+<!ENTITY zoomInButton.tooltip "Súmáil isteach">
+<!ENTITY zoomControls.label "Rialtáin Súmála">
 
 <!ENTITY quitApplicationCmdWin.label "Scoir">
 <!ENTITY quitApplicationCmdWin.accesskey "S">
@@ -478,7 +495,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label "Athraigh Treo an Leathanaigh">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "L">
 <!ENTITY bidiSwitchTextDirectionItem.label "Athraigh Treo an Téacs">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "T">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
@@ -531,15 +548,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label "Sync">
 
-<!ENTITY syncMenu.label "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey "Y">
 <!ENTITY syncSetup.label "Socraigh &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "Y">
-<!ENTITY syncLogInItem.label "Ceangail">
-<!ENTITY syncLogInItem.accesskey "C">
-<!ENTITY syncLogOutItem.label "Dícheangail">
-<!ENTITY syncLogOutItem.accesskey "D">
 <!ENTITY syncSyncNowItem.label "Sioncrónaigh Anois">
 <!ENTITY syncSyncNowItem.accesskey "S">
+<!ENTITY syncToolbarButton.label "Sync">

@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label "D'úsáideoirí Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
+<!ENTITY helpSafeMode.label "Atosaigh gan aon bhreiseáin…">
+<!ENTITY helpSafeMode.accesskey "A">
 
 <!ENTITY helpReleaseNotes.label "Nótaí Eisiúna">
 <!ENTITY helpReleaseNotes.accesskey "N">

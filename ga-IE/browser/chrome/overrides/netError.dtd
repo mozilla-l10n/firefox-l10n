@@ -30,7 +30,14 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mód as líne">
-<!ENTITY netOffline.longDesc '<ul> <li>Díroghnaigh &quot;Oibrigh As Líne&quot; sa roghchlár "Comhad", agus ansin bain triail eile as.</li></ul>'>
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Díroghnaigh &quot;Oibrigh As Líne&quot;, agus ansin bain triail eile as.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> </ul>">

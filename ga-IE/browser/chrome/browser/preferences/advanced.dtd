@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey "a">
 <!ENTITY useSmoothScrolling.label "Úsáid mínscrollú">
 <!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY allowHWAccel.label "Úsáid luasghéarú crua-earraí más féidir">
+<!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "Litriú beo">
 <!ENTITY checkSpelling.accesskey "b">
 
@@ -39,17 +41,19 @@
 
 <!ENTITY offlineStorage.label "Stóras As Líne">
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "Úsáid suas le">
-<!ENTITY useCacheBefore.accesskey "s">
-<!ENTITY useCacheAfter.label "MB spás don taisce">
+<!ENTITY limitCacheSizeBefore.label "Cuir teorainn leis an taisce">
+<!ENTITY limitCacheSizeBefore.accesskey "l">
+<!ENTITY limitCacheSizeAfter.label "MB">
 <!ENTITY clearCacheNow.label "Bánaigh Anois">
 <!ENTITY clearCacheNow.accesskey "B">
+<!ENTITY overrideSmartCacheSize.label "Sáraigh bainistíocht uathoibríoch na taisce">
+<!ENTITY overrideSmartCacheSize.accesskey "S">
 
 <!ENTITY updateTab.label "Nuashonrú">
 
