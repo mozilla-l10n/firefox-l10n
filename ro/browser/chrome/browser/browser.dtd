@@ -12,10 +12,10 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigare fără urme)">
 
 <!-- Tab context menu -->
-<!ENTITY  moveTabTo.label                    "Move This Tab To…">
-<!ENTITY  moveTabTo.accesskey                "M">
-<!ENTITY  createNewGroup.label               "Create New Group">
-<!ENTITY  createNewGroup.accesskey           "C">
+
+
+
+
 <!ENTITY  namedGroups.label                  "Grupuri numite">
 <!ENTITY  reloadTab.label                    "Reîncarcă fila">
 <!ENTITY  reloadTab.accesskey                "R">
@@ -133,7 +133,7 @@
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Acasă">
 <!ENTITY tabViewButton2.label         "Grupuri de file">
-<!ENTITY tabViewButton2.tooltip       "Group Your Tabs">
+
 
 <!ENTITY bookmarksButton.label          "Semne de carte">
 <!ENTITY bookmarksButton.tooltip        "Afișează semnele dumneavoastră de carte">
@@ -175,8 +175,8 @@
 <!ENTITY errorConsoleCmd.accesskey    "e">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
+
+
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspectează">
@@ -184,14 +184,14 @@
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspect">
-<!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Next">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "Previous">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "Style">
-<!ENTITY inspectStyleButton.accesskey "S">
+
+
+
+
+
+
+
+
 <!ENTITY inspectStylePanelTitle.label  "Stil">
 
 <!ENTITY fileMenu.label         "Fișier"> 
@@ -521,7 +521,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Filele navigatorului">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
+
 
 <!ENTITY syncBrand.shortName.label  "Sincronizare">
 
@@ -531,9 +531,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncMenu.accesskey           "y">
 <!ENTITY syncSetup.label              "Setați &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "S">
-<!ENTITY syncLogInItem.label          "Connect">
-<!ENTITY syncLogInItem.accesskey      "C">
-<!ENTITY syncLogOutItem.label         "Disconnect">
-<!ENTITY syncLogOutItem.accesskey     "D">
+
+
+
+
 <!ENTITY syncSyncNowItem.label        "Sincronizează acum">
 <!ENTITY syncSyncNowItem.accesskey    "S">
