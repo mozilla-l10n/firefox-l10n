@@ -14,7 +14,7 @@
 <!ENTITY server.label               "Pêşkêşkar">
 <!ENTITY serverType.main.label      "pêşkêşkara &syncBrand.fullName.label;ê">
 <!ENTITY serverType.custom.label    "Pêşkêşkareke takekesî bi kar bîne">
-<!ENTITY signIn.account.label       "Navnîşana Epeyamê / Navê Bikarhêner">
+<!ENTITY signIn.account.label       "Email Address / User Name">
 <!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Şîfre">
 <!ENTITY signIn.password.accesskey  "Ş">
