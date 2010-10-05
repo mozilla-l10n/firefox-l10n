@@ -95,9 +95,9 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Wat zijn Add-ons?">
-<!ENTITY discover.description2                "Add-ons zijn toepassingen waarmee u &brandShortName; met
-  extra functionaliteit of stijl persoonlijk kunt maken. Probeer een tijdbesparende zijbalk, een weernotificatie of een thema om &brandShortName;
-  uw eigen te maken.">
+<!ENTITY discover.description2                "Add-ons zijn toepassingen waarmee u &brandShortName; kunt
+  personaliseren met extra functionaliteit of stijl. Probeer een tijdsbesparende zijbalk, een weerbericht of een thema om &brandShortName;
+  aan uw wensen aan te passen.">
 <!ENTITY discover.footer                      "Wanneer u verbonden bent met het internet toont deze venster u een aantal
   van de beste en meest populaire add-ons die u uit kunt proberen.">
   
