@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label "Taispeáin mo leathanach baile">
 <!ENTITY startupBlankPage.label "Taispeáin leathanach folamh">
 <!ENTITY startupLastSession.label "Taispeáin mo chuid fuinneog agus cluaisíní ón seisiún roimhe seo">
-<!ENTITY location.label "Leathanach Baile:">
-<!ENTITY location.accesskey "h">
+<!ENTITY homepage.label "Leathanach Baile:">
+<!ENTITY homepage.accesskey "B">
 <!ENTITY useCurrentPage.label "Úsáid an Leathanach Reatha">
 <!ENTITY useCurrentPage.accesskey "R">
 <!ENTITY useMultiple.label "Úsáid na Leathanaigh Reatha">

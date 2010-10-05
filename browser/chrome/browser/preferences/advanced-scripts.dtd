@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey "r">
 <!ENTITY disableContextMenus.label "Roghchláir chomhthéacs a dhíchumasú nó a ionadú">
 <!ENTITY disableContextMenus.accesskey "d">
-<!ENTITY hideStatusBar.label "An barra stádais a fholú">
-<!ENTITY hideStatusBar.accesskey "h">
-<!ENTITY changeStatusBar.label "Téacs an bharra stádais a athrú">
-<!ENTITY changeStatusBar.accesskey "c">

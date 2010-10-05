@@ -26,6 +26,7 @@
 
 <!ENTITY netOffline.title "Mód As Líne">
 <!ENTITY netOffline.longDesc "<p>Tá an brabhsálaí sa mhód as líne agus ní féidir ceangal leis an mhír iarrtha.</p><ul><li>An bhfuil an ríomhaire ceangailte le líonra gníomhach?</li><li>Cuir an brabhsálaí sa mhód ar líne agus triail arís é.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Tá an brabhsálaí sa mhód as líne agus ní féidir ceangal leis an mhír iarrtha.</p><ul><li>An bhfuil an ríomhaire ceangailte le líonra gníomhach?</li><li>Cuir an brabhsálaí sa mhód ar líne agus triail arís é.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
 <!ENTITY contentEncodingError.longDesc "<p>An leathanach atá tú ag iarraidh a amharc, ní féidir é a thaispeáint, agus comhbhrú ann nach bhfuil bailí nó nach bhfuil tacaíocht leis.</p><ul><li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li></ul>">

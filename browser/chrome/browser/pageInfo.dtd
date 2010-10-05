@@ -99,6 +99,10 @@
 <!ENTITY permInstall "Suiteáil Eisínteachtaí nó Téamaí">
 <!ENTITY permGeo "Ceadaigh">
 
+<!ENTITY permIndexedDB "Coinnigh Stóras As Líne">
+<!ENTITY permClearStorage "Glan an Stóras">
+<!ENTITY permClearStorage.accesskey "G">
+
 <!ENTITY securityTab "Slándáil">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "Eolas slándála maidir leis an leathanach seo">
