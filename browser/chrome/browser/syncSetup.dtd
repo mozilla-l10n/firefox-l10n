@@ -2,9 +2,9 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY setup.pickSetupType.description "Bi xêr hatî, eger te berê qet &syncBrand.fullName.label; bi kar neanîbe, divê hesabekî nû biafirînî.">
+<!ENTITY button.createNewAccount.label "Hesabekî nû biafirîne">
+<!ENTITY button.haveAccount.label "Hesabê min ê &syncBrand.fullName.label; heye">
 
 <!ENTITY setup.choicePage.title.label     "Te berê &syncBrand.fullName.label; bi kar anî?">
 <!ENTITY setup.choicePage.new.label       "Min &syncBrand.shortName.label; berê bi kar neanî">
@@ -14,15 +14,15 @@
 <!ENTITY server.label               "Pêşkêşkar">
 <!ENTITY serverType.main.label      "pêşkêşkara &syncBrand.fullName.label;ê">
 <!ENTITY serverType.custom.label    "Pêşkêşkareke takekesî bi kar bîne">
-<!ENTITY signIn.username.label      "Navê bikarhêner">
-<!ENTITY signIn.username.accesskey  "N">
+<!ENTITY signIn.account.label       "Email Address / User Name">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Şîfre">
 <!ENTITY signIn.password.accesskey  "Ş">
 <!ENTITY signIn.serverURL.label     "URL'a pêşkêşkarê">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
+<!ENTITY setup.newAccountDetailsPage.title.label "Kitekitên hesabî">
 <!ENTITY setup.confirmPassword.label  "Şîfreyê pesend bike">
 <!ENTITY setup.confirmPassword.accesskey  "Ş">
 <!ENTITY setup.emailAddress.label     "Navnîşana EPeyamê">
@@ -38,25 +38,22 @@
 <!ENTITY setup.tosAgree2.accesskey  "û">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; li ber nepeniya te dikeve">
+<!ENTITY setup.newSyncKeyPage.description.label "Ji bo garantîkirina hemû nepeniya te, hemû daneyên te ji bo barkirinê hatin şîfrekirin. Kilîka ji bo vekirina şîfreya daneyên te nehat barkirin.">
 <!ENTITY syncKeyEntry.label        "Your Sync Key">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyGenerate.label     "Hilberîne">
+<!ENTITY syncKeyStrength.label     "Strength:">
+<!ENTITY syncKeyHelp.label         "What does the strength mean?">
+<!ENTITY syncKeyBackup.description "Li ser makîneyên din ji bo têketina &syncBrand.fullName.label;ê dê kilîla te ya Syncê pêwîst be. Tika ye kopiyekê hilîne. Ji bo şûndevegerandina Kilîla Syncê em nikarin alîkariya te bikin.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Email…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "Çapkirin…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
-
-<!ENTITY page.syncKeyBackup.title     "Your Firefox Sync Key">
-<!ENTITY page.syncKeyBackup.descr     "This secret key is used to encrypt your personal data. It is not uploaded to the server and cannot be recovered. Do not lose it or share with other people.">
+<!ENTITY button.syncKeyBackup.save.label      "Tomar bike…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "T">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "Tika ye baweriyê bidî ku tu ne robot î">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Agahiya hesabê têkeve">
@@ -64,14 +61,14 @@
 <!ENTITY connecting.label             "Tê girêdan…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
+<!ENTITY setup.existingSyncKeyPage.title "Tika ye kilîla Syncê binivîse">
+<!ENTITY setup.existingSyncKeyPage.description "Kilîka Syncê ji bo te hatiye hilberîn, an jî dema cara pêşî ketiyî &syncBrand.fullName.label;ê te nivîsandiye, Divê ev ne wekî şîfreya te be.">
+<!ENTITY existingSyncKeyHelp.description "Ji bo ku kilîla xwe ya Syncê bibînî dikarî herî ser kompîterên xwe yên din û di bin pêşeka Ewlekariyê de li Şîfeeyên Tomarbûyî binêrî. Eger hê jî nikaribî kilîla xwe ya Syncê bibînî, dikarî wê vesaz bikî, lê bi vê yekê  hemû daneyên te yên li ser pêşkêşkarê dê winda bibin.">
+<!ENTITY lostSyncKey.label            "Min kilîla xwe ya Syncê winda kir">
 <!ENTITY verifying.label              "Tê piştrastkirin…">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
+<!ENTITY setup.optionsPage.title      "Vebijêrkên Syncê">
 <!ENTITY syncComputerName.label       "Navê komputerê:">
 <!ENTITY syncComputerName.accesskey   "N">
 
@@ -87,14 +84,14 @@
 <!ENTITY engine.prefs.label         "Vebijêrk">
 <!ENTITY engine.prefs.accesskey     "V">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.merge.main.label      "Taneyên vê kompîterê û yên &syncBrand.shortName.label;ê têkel bike">
+<!ENTITY choice2.merge.recommended.label "Pêşniyarbûyî:">
+<!ENTITY choice2.client.main.label     "Hemû daneyên li ser vê kompîterê bi daneyên min ên &syncBrand.shortName.label;ê re veguhêze">
+<!ENTITY choice2.server.main.label     "Hemû cîhazên din bi daneyên vê kompîterê re biguherîne">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Pesendkirin">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; dê niha daneyên gerokê yên van kompîteran hemû li hesabê te yê Syncê biafirîne.">
 <!ENTITY confirm.client.label         "Hemû daneyên &brandShortName;ê yên li ser vê komputerê dê bên jêbirin, ev jî di nav de:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; dê piştre daneyên te yên &syncBrand.fullName.label;ê li ser vê komputerê kopî bike.">
 <!ENTITY confirm.client.warning.label "HIŞYARÎ: Ev dê hemû encamên daneyên &brandShortName;ê yên li ser vê komputerê veguhezîne!">
@@ -102,6 +99,6 @@
 <!ENTITY confirm.server.warning.label "HIŞYARÎ: Daneyên te yên herêmî dê bi daneyên &brandShortName;ê yên li ser vê cîhazê re bên guheztin!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "Sazkirin bi dawî hat">
+<!ENTITY changeOptions.label "Dikarî bi Vebijêrkên Syncê vê taybetiyê biguherînî.">
+<!ENTITY continueUsing.label "Pêkan e ku dikaribî niha &brandShortName;ê bi kar bînî.">

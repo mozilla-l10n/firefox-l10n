@@ -51,7 +51,16 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Moda negirêdayî">
-<!ENTITY netOffline.longDesc "netOffline tê vê derê.">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
 <!ENTITY contentEncodingError.longDesc "Dibe ku di vê malperê de naveroka ne ewle di virê de heye.">

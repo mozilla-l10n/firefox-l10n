@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Hesabê &syncBrand.fullName.label;ê">
-<!ENTITY currentUser.label            "Bikarhênerê Niha:">
+<!ENTITY currentAccount.label         "Current Account:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Rojanekirin">
@@ -14,17 +14,18 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Rêveberiya Hebasî">
 <!ENTITY manageAccount.accesskey      "a">
+<!ENTITY viewQuota.label              "View Quota">
 <!ENTITY changePassword.label         "Şîfreyê biguherîne">
-<!ENTITY mySyncKey.label              "My Sync Key">
+<!ENTITY mySyncKey.label              "Kilîla min a Syncê">
 <!ENTITY resetSync.label              "Syncê Reset Bike">
-<!ENTITY differentAccount.label       "Hesabekî Cuda Bi Kar Bîne">
+<!ENTITY stopUsingAccount.label       "Stop Using This Account">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Synca Gerokê">
 <!ENTITY syncComputerName.label       "Navê Kompîterê:">
 <!ENTITY syncComputerName.accesskey   "N">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Sync bike">
 <!ENTITY engine.bookmarks.label     "Bijare">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "Hilpekîn">

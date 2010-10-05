@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Malpera min nîşan bide">
 <!ENTITY startupBlankPage.label    "Rûpeleke vala nîşan bide">
 <!ENTITY startupLastSession.label  "Pace û hilpekînên dawî nîşan bide">
-<!ENTITY location.label            "Malper:">
-<!ENTITY location.accesskey        "M">
+<!ENTITY homepage.label            "Home Page:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Rûpela derbasdar bi kar bîne">
 <!ENTITY useCurrentPage.accesskey  "d">
 <!ENTITY useMultiple.label         "Rûpelên Derbasdar Bi Kar Bîne">

@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "Ji bo bikarhênerên Internet Explorerê...">
 <!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label         "Têbiniyên Guhertoyê">
 <!ENTITY helpReleaseNotes.accesskey     "r">
