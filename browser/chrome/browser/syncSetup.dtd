@@ -10,19 +10,19 @@
 <!ENTITY connectTo.label            "Conectare la">
 <!ENTITY serverType.main.label      "Server &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "Folosește un server personalizat">
-<!ENTITY signIn.username.label      "User Name">
-<!ENTITY signIn.username.accesskey  "U">
-<!ENTITY signIn.password.label      "Password">
-<!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Server URL">
-<!ENTITY signIn.serverURL.accesskey "L">
+
+
+
+
+
+
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountPage.title.label  "Creați-vă un cont &syncBrand.shortName.label;">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
-<!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
-<!ENTITY setup.emailAddress.accesskey "E">
+
+
+
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Sunt de acord cu">
@@ -39,15 +39,15 @@
 <!ENTITY passphraseDesc2.label        "Trebuie să aibă minim 12 caractere lungime și nu poate fi aceeași cu parola contului.">
 <!ENTITY passphraseEntry.label        "Fraza secretă">
 <!ENTITY passphraseEntry.accesskey    "s">
-<!ENTITY passphraseConfirm.label      "Confirm">
-<!ENTITY passphraseConfirm.accesskey  "m">
+
+
 
 <!-- New Account Page 3: Sync Type Options -->
 <!ENTITY setup.newAccountPrefs2.title.label "Preferințe de sincronizare a navigatorului">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "C">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
+
+
+
+
 <!ENTITY syncEverything.label         "sincroniza totul">
 <!ENTITY customSync.label             "folosi setările mele personalizate">
 <!ENTITY syncEverythingDescription.label  "Se vor sincroniza semnele de carte, istoricul, parolele, preferințele și filele.">
@@ -73,7 +73,7 @@
 <!-- Existing Account Page 2: Passphrase -->
 <!ENTITY passphraseGroupbox.label     "Introduceți fraza secretă">
 <!ENTITY passphraseDesc3.label        "Vă rugăm să introduceți fraza secretă. Aceasta trebuie să fie aceeași pe care ați setat-o când s-au criptat datele.">
-<!ENTITY passphraseHelp.label         "Your secret phrase is at least 12 characters long and is not your password. You can find your saved secret phrase by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
+
 <!ENTITY changePassphrase.label       "Schimbă fraza secretă">
 <!ENTITY verifying.label              "Se verifică…">
 

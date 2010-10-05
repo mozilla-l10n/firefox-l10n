@@ -3,8 +3,8 @@
 <!ENTITY loading.label                        "Încărcare...">
 <!ENTITY listEmpty.installed.label            "Nu aveți vreun supliment de acest tip instalat">
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
-<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
-<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+
+
 <!ENTITY listEmpty.search.label               "Nu s-a putut găsi vreun supliment potrivit">
 <!ENTITY listEmpty.button.label               "Află mai multe despre suplimente">
 
@@ -18,22 +18,22 @@
 <!ENTITY view.features.label                  "Extensii">
 <!ENTITY view.appearance.label                "Teme">
 <!ENTITY view.plugins.label                   "Module">
-<!ENTITY view.recentUpdates.label             "Recent Updates">
+
 <!ENTITY view.availableUpdates.label          "Actualizări disponibile">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Update Add-ons Now">
-<!ENTITY updates.updateAddonsNow.accesskey    "U">
-<!ENTITY updates.viewUpdates.label            "View Recent Updates">
-<!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Check for Updates Automatically">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
+
+
+
+
+
+
 <!ENTITY updates.updating.label               "Se actualizează suplimentele">
 <!ENTITY updates.installed.label              "Suplimentele dumneavoastră au fost actualizate.">
 <!ENTITY updates.downloaded.label             "S-au descărcat actualizările pentru suplimentele dumneavoastră.">
 <!ENTITY updates.restart.label                "Reporniți acum pentru a finaliza instalarea">
 <!ENTITY updates.noneFound.label              "Nicio actualizare găsită">
-<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
+
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Arată mai multe informații">
@@ -57,10 +57,10 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuie la dezvoltarea acestui supliment">
 
-<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
-<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
+
+
+
+
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versiune">
@@ -121,11 +121,11 @@
 <!ENTITY addon.restartNow.tooltip             "Reporniți acum pentru a finaliza instalarea">
 <!ENTITY addon.install.label                  "Instalează">
 <!ENTITY addon.install.tooltip                "Instalați acest supliment">
-<!ENTITY addon.updateNow.label                "Update Now">
-<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
+
+
 <!ENTITY addon.checkingForUpdates.label       "Se caută actualizări…">
-<!ENTITY addon.releaseNotes.label             "Release Notes:">
+
 <!ENTITY addon.loadingReleaseNotes.label      "Încărcare...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+
 
 <!ENTITY addon.createdBy.label                "De către ">
