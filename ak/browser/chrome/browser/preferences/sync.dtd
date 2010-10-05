@@ -1,0 +1,43 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Hyehyɛ &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "H">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ma wo ho kwan ma wo nya-kwan kɔ wo abakɔsɛm, mbukmaak, ehintasɛmfua ne ntab a wɔebuei wɔn wɔ wo mfidie nyinara so.">
+<!-- The page shown when logged in... -->
+
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; akawnt">
+<!ENTITY currentAccount.label         "Current Account:">
+<!-- Login error feedback -->
+
+<!ENTITY updatePass.label             "Ntoso">
+<!ENTITY resetPass.label              "Hyehyɛ-bio">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "Hwɛ akawnt so">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY changePassword.label         "Sesa ehintasɛmfua">
+<!ENTITY mySyncKey.label              "My Sync Key">
+<!ENTITY resetSync.label              "San-hyehyɛɛ Sync">
+<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!-- Sync Settings -->
+
+<!ENTITY syncPrefsCaption.label       "Brawsa Sync">
+<!ENTITY syncComputerName.label       "Kɔmputa Din:">
+<!ENTITY syncComputerName.accesskey   "m">
+
+<!ENTITY syncMy.label               "Sync My">
+<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.accesskey     "S">
+<!-- Footer stuff -->
+
+
+<!ENTITY prefs.tosLink.label        "Ɛfene a yɛde som wo">
+<!ENTITY prefs.ppLink.label         "Siesɛm mbra">
