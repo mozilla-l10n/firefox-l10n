@@ -49,5 +49,3 @@
 <!ENTITY  clickFinish.label               "Apăsați „Încheiere” pentru a continua pornirea &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Clicați Gata (Done) pentru a continua pornirea &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permite &brandShortName; să verifice dacă există actualizări.">
-<!ENTITY  details.label                   "Detalii...">
-<!ENTITY  details.accesskey               "D">

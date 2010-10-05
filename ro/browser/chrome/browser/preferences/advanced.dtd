@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Folosește derularea lină">
 <!ENTITY useSmoothScrolling.accesskey    "l">
+
+
 <!ENTITY checkSpelling.label             "Verfică ortografia în timp ce tastez">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -39,16 +41,18 @@
 <!ENTITY offlineStorage.label            "Stocare offline">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Folosește până la">
-<!ENTITY useCacheBefore.accesskey        "p">
-<!ENTITY useCacheAfter.label             "MO de spațiu pentru cache">
+
+
+
 <!ENTITY clearCacheNow.label             "Curăță acum">
 <!ENTITY clearCacheNow.accesskey         "C">
+
+
 
 <!ENTITY updateTab.label                 "Actualizare">
 

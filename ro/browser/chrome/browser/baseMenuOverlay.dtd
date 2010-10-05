@@ -11,18 +11,23 @@
 <!ENTITY helpMenuWin.label        "Ajutor"> 
 <!ENTITY helpMenuWin.accesskey    "A">
 <!ENTITY aboutProduct.label       "Despre &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "F">
+<!ENTITY aboutProduct.accesskey   "D">
 <!ENTITY productHelp.label        "Manual &brandShortName;">
 <!ENTITY productHelp.accesskey    "M">
 <!ENTITY helpForIEUsers.label     "Pentru utilizatorii Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY helpMac.commandkey       "?">
 
+
+
 <!ENTITY helpReleaseNotes.label         "Note asupra ediției">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informații de depanare">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
+
+
+
 
 <!ENTITY updateCmd.label                "Caută actualizări...">
 
