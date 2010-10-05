@@ -80,7 +80,7 @@
 <!ENTITY cmd.hideReleaseNotes.label "Ocultar notas de la versión">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Ocultar las notas de la versión de esta actualización">
 <!ENTITY discover.title "¿Qué son los complementos?">
-<!ENTITY discover.description "Los complementos son aplicaciones que le permiten personalizar &brandShortName; con funcionalidades o estilos adicionales. Pruebe un panel lateral que le ahorrará tiempo, un indicador del tiempo meteorológico o un tema gráfico para hacer &brandShortName; verdaderamente suyo.">
+<!ENTITY discover.description2 "Los complementos son aplicaciones que le permiten personalizar &brandShortName; con funcionalidades o estilos adicionales. Pruebe un panel lateral que le ahorrará tiempo, un indicador del tiempo meteorológico o un tema gráfico para hacer &brandShortName; verdaderamente suyo.">
 <!ENTITY discover.footer "Cuando esté conectado a Internet, este panel incluirá algunos de los mejores y más populares complementos para que los pruebe.">
 <!ENTITY detail.version.label "Versión">
 <!ENTITY detail.lastupdated.label "Última actualización">
