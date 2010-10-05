@@ -1,0 +1,17 @@
+<!ENTITY linksHeader.label "Hantering av länkar">
+<!ENTITY newWindow.label "Länkar som öppnar nya fönster">
+<!ENTITY newWindowDescription.label "Öppna länkar som vill öppna nya fönster i">
+<!ENTITY external.label "Länkar från andra program">
+<!ENTITY externalDescription.label "Öppna länkar som kommer från andra program i">
+
+<!ENTITY openCurrent.label "Aktuell flik/fönster">
+<!ENTITY newWindowGroupCurrent.accesskey "A">
+<!ENTITY externalGroupCurrent.accesskey "u">
+
+<!ENTITY openTab.label "En ny flik i aktuellt fönster">
+<!ENTITY newWindowGroupTab.accesskey "f">
+<!ENTITY externalGroupTab.accesskey "n">
+
+<!ENTITY openWindow.label "Ett nytt fönster">
+<!ENTITY newWindowGroupWindow.accesskey "E">
+<!ENTITY externalGroupWindow.accesskey "t">

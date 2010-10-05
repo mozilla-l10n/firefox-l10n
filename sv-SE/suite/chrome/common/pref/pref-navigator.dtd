@@ -26,13 +26,6 @@
 <!ENTITY  useDefault.label          "Återställ">
 <!ENTITY  useDefault.accesskey      "Å">
 
-<!ENTITY  toolbarIntro.label        "Välj vilka knappar som ska visas i verktygsfälten.">
-
-<!ENTITY  navToolbarIntro.label     "Navigationsfält">
-<!ENTITY  goButton.label            "Gå">
-<!ENTITY  goButton.accesskey        "G">
-<!ENTITY  searchButton.label        "Sök">
-<!ENTITY  searchButton.accesskey    "ö">
 <!ENTITY defaultBrowserGroup.label      "Förvald webbläsare">
 <!ENTITY defaultBrowserButton.label     "Gör till förvald webbläsare">
 <!ENTITY defaultBrowserButton.accesskey "w">

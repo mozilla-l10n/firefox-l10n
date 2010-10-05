@@ -17,3 +17,6 @@
 <!ENTITY prefEnablePipeliningProxy.accesskey "i">
 <!ENTITY prefPara                            "HTTP-anslutningar kan finjusteras med dessa inställningar för att förbättra antingen prestanda eller kompatibilitet. Till exempel fungerar inte en del proxyservrar utan HTTP/1.0 (se dokumentationen för mer information).">
 <!ENTITY prefPipeWarning                     "VARNING: Pipelining är en experimentell funktion, utvecklad för att öka hastigheten vid inläsning av webbsidor, som dessvärre har bristfälligt stöd i en del webb- och proxyservrar.">
+<!ENTITY prefUseragent.label                 "Användaragentsträng">
+<!ENTITY prefFirefoxCompat.label             "Uppträd som Firefox-kompatibel">
+<!ENTITY prefFirefoxCompat.accesskey         "F">

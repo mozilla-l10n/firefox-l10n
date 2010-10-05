@@ -19,3 +19,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Länkar enbart">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "ä">
 
+<!ENTITY findAsYouTypeFindbarEnable.label "Visa verktygsraden för sökningar när &quot;Hitta medan du skriver&quot; används">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "S">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Notera: &quot;Hitta medan du skriver&quot; utan att visa verktygsraden för sökningar klarar inte av internationella bokstäver.">

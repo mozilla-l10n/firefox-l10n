@@ -155,6 +155,7 @@
 <!ENTITY  bookmarksButton.tooltip     "Lista över bokmärken">
 <!ENTITY  homeButton.label            "Startsida">
 <!ENTITY  bookmarksToolbarItem.label  "Bokmärken i verktygsfältet">
+<!ENTITY bookmarksToolbarChevron.tooltip "Visa fler bokmärken">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Dokument: Klart">

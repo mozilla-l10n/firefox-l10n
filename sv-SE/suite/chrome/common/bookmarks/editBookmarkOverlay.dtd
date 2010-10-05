@@ -1,0 +1,25 @@
+<!ENTITY editBookmarkOverlay.name.label                      "Namn:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
+<!ENTITY editBookmarkOverlay.location.label                  "Adress:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "A">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Kanalens Adress:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "K">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Webbplatsens adress:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "W">
+<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Aktiva rubriker">
+<!ENTITY editBookmarkOverlay.folder.label                    "Mapp:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Visa alla bokmärksmappar">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Dölj">
+<!ENTITY editBookmarkOverlay.tags.label                      "Taggar:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separera taggarna med komman">
+<!ENTITY editBookmarkOverlay.description.label               "Beskrivning:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "B">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Sökord:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "S">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Visa alla taggar">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Ladda detta bokmärke i sidopanelen">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "L">
+<!ENTITY editBookmarkOverlay.choose.label                    "Välj…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Ny mapp">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "y">

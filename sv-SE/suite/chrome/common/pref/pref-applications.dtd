@@ -7,4 +7,4 @@
 <!ENTITY actionColumn2.label     "Åtgärd">
 <!ENTITY actionColumn2.accesskey "Å">
 
-<!ENTITY search.emptytext        "Sök innehåll och åtgärder">
+<!ENTITY search.placeholder      "Sök innehåll och åtgärder">
