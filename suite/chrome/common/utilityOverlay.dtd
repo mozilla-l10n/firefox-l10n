@@ -36,6 +36,8 @@
 <!ENTITY pasteCmd.label						"Einfügen">  
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"E"> 
+<!ENTITY pasteGoCmd.label					"Einfügen &amp; aufrufen">
+<!ENTITY pasteGoCmd.accesskey				"n">
 <!ENTITY deleteCmd.label					"Löschen">  
 <!ENTITY deleteCmd.accesskey				"L"> 
 <!ENTITY selectAllCmd.label					"Alles auswählen">  
