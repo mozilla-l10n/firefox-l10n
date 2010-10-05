@@ -95,7 +95,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Wat binne Add-ons?">
-<!ENTITY discover.description                 "Add-ons binne applikaasjes dy't jo Firefox personalisearje litte mei
+<!ENTITY discover.description2                "Add-ons binne applikaasjes dy't jo &brandShortName; personalisearje litte mei
   ekstra funksjonaliteit of styl. Probearje in tiidbesparjende sidebalke, in waartsjinst, of in tema om Firefox
   jo eigen te meitsjen.">
 <!ENTITY discover.footer                      "As jo ferbûn binne mei it ynternet, sil dit paniel in pear
