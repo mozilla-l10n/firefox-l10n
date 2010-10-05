@@ -43,8 +43,8 @@
 <!ENTITY aboutWarningButton.label "Me ka ntam sɛ mɛto me bo!">
 <!ENTITY aboutWarningCheckbox.label "Kyerɛ saa kɔkɛbɔ yi abere a edi so">
 
-<!ENTITY filterPrefs.label "sɔneɛ">
-<!ENTITY filterPrefs.accesskey "s">
+<!ENTITY filterPrefs.label "Sɔne:">
+<!ENTITY filterPrefs.accesskey "S">
 <!ENTITY focusFilter.key "f">
 <!-- Columns -->
 

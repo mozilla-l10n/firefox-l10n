@@ -1,41 +1,45 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Yɛ-ketewa">
-<!ENTITY bringAllToFront.label "Fa No Nyinara Bra Enim">
-<!ENTITY zoomWindow.label "Zuum">
-<!ENTITY windowMenu.label "Tokuro">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Yɛ-ketewa">
+<!ENTITY bringAllToFront.label    "Fa No Nyinara Bra Enim">
+<!ENTITY zoomWindow.label         "Zuum">
+<!ENTITY windowMenu.label         "Tokuro">
 
-<!ENTITY helpMenu.label "Mboa">
-<!ENTITY helpMenu.accesskey "M">
+<!ENTITY helpMenu.label           "Mboa">
+<!ENTITY helpMenu.accesskey       "M">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Mboa">
-<!ENTITY helpMenuWin.accesskey "M">
-<!ENTITY aboutCmd.label "Fa &brandFullName;">
-<!ENTITY aboutCmd.accesskey "F">
-<!ENTITY productHelp.label "&brandShortName; Help">
-<!ENTITY productHelp.accesskey "H">
-<!ENTITY helpForIEUsers.label "Ma Internet Explorer Adehye">
+<!ENTITY helpMenuWin.label        "Mboa">
+<!ENTITY helpMenuWin.accesskey    "M">
+<!ENTITY aboutProduct.label       "Fa &brandFullName; ho">
+<!ENTITY aboutProduct.accesskey   "F">
+<!ENTITY productHelp.label        "&brandShortName; Mboa">
+<!ENTITY productHelp.accesskey    "b">
+<!ENTITY helpForIEUsers.label     "Ma Internet Explorer Adehye">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY helpMac.commandkey "?">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label "Ngyae-mu nkrataa">
-<!ENTITY helpReleaseNotes.accesskey "k">
+<!ENTITY helpReleaseNotes.label         "Ngyae-mu nkrataa">
+<!ENTITY helpReleaseNotes.accesskey     "k">
 
-<!ENTITY helpTroubleshooting.label "Troubleshooting Information…">
-<!ENTITY helpTroubleshooting.accesskey "T">
+<!ENTITY helpTroubleshootingInfo.label      "Hawyi ho infɔmehyɛn">
+<!ENTITY helpTroubleshootingInfo.accesskey  "H">
 
-<!ENTITY updateCmd.label "Hwehwɛ Ntoso…">
+<!ENTITY helpFeedbackPage.label      "Sabmet wo fiidbak…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY preferencesCmdMac.label "Nhyehyɛe…">
-<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY updateCmd.label                "Hwehwɛ Ntoso…">
 
-<!ENTITY servicesMenuMac.label "Asom">
+<!ENTITY preferencesCmdMac.label        "Nhyehyɛe…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY hideThisAppCmdMac.label "Fa &brandShortName; Suma">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY servicesMenuMac.label          "Asom">
 
-<!ENTITY hideOtherAppsCmdMac.label "Suma Nkaa No">
+<!ENTITY hideThisAppCmdMac.label        "Fa &brandShortName; Suma">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Suma Nkaa No">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label "Kyerɛ No Nyinara">
+<!ENTITY showAllAppsCmdMac.label        "Kyerɛ No Nyinara">

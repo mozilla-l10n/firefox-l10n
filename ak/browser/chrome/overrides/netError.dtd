@@ -45,23 +45,26 @@ sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb ne so.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Ɔflaen tebea">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Yi ahyɛnsew firi &quot;Di Dwuma Ɔflaen&quot; wɔ Fael menu no mu,  na san sɔ hwɛ.</li> 
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Mu-asɛm Ndanee Mfomso">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li> 
 </ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
-
-<!ENTITY unsafeContentType.title "Unsafe File Type">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.title "Fael bɔbea a onni bambɔ">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Wɔhyɛɛ kɔnɛkhyɛn no ase bio">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -102,13 +105,13 @@ sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb no so.</li>
 <li>Etumi ba no sɛ asɛm yi resi efiri sɛ wɔayɛ nhyehyɛe a wɔnntae nnyɛ wɔ sɛɛva no so.</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "Kɔnɛkhyɛn a wɔabɔ ho ban no annkɔ yie">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Firefox nntumi nnkyerɛ krataafa wo pɛ sɛ wo hwɛ no efiri sɛ wonntumi nnkyerɛ data a nsa aka no ne papayɛ.</li> 
 <li>Yɛsrɛ wo sɛ hu wɔn a wɛbsaet no yɛ wɔn de na ka haw yi kyerɛ wɔn. Wo pɛ so a, fa kɔmand a wo hu no wɔ mboa menu no mu bɔ Firefox amande fa saet a ɔnnyɛ edwuma yi.</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "Kɔnɛkhyɛn a wɔabɔ ho ban no annkɔ yie">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Etumi ba no sɛ ɔhaw bi wɔ nhyehyɛe a wɔayɛ no wɔ sɛɛva no so, anaaso etumi ba no sɛ 
 obi pɛ sɛ ɔyɛ ne ho te sɛ ɔno ne sɛɛva no.</li> 
@@ -124,28 +127,27 @@ yɛ biribi ɛto betwa a ɛrennkyɛ koraa, anaaso wo pɛ a san sɔ hwɛ ekyiri yi
  sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb no so.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.title "Saet yi betumi ahaw adwen papaapa!">
+<!ENTITY malwareBlocked.longDesc "<p>Saet a wɔhaw adwen bɔ mbɔden sɛ wɔbɛinstɔl mprogram de ewia wo infɔmehyɛn, anaaso wɔde wo kɔmputa no bɛhaw afoforo wɔn adwen, anaaso wɔbɛhaw wo kɔmputa.</p> 
+<p>Sɛ wɛbsaet bi yɛ wo de na wo gye di sɛ obi afom sɛ wɔaka sɛ wo wɛbsaet no haw adwen a, <a href='http://www.stopbadware.org/home/reviewinfo' >bisa sɛ wɔnhwɛ wo asɛm nka mma wo</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.title "Ayɛ sɛ wɛb ndaadaa!">
+<!ENTITY phishingBlocked.longDesc "<p>Wo rekyerɛw wo ho nsɛm wɔ krataafa yi so betumi ama obi ewia wo su, anaaso ewia wo sika anaaso biribi foforo.</p> 
+<p>Yɛfrɛ wɛb ndaadaa te sɛ yinom sɛ Intanɛt sakawa, a binom nam emel ne wɛb nkrataafa so de yɛ wɔn ho sɛ obia a wobetumi de wo were ahyɛ wɔn mu.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Kɔntɛnt Sikuriti Mbra esi no kwan">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; sii krataafa yi kwan sɛ ɔbeloode wɔ kwan yi so efiri sɛ krataafa no wɔ sikuriti mbra bi a ɔmma biribi te sɛ yi ho kwan.</p>">
 
 <!ENTITY securityOverride.linkText "Anaaso wobetumi eyi wɛbsaet yi efiri mu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ma me nyew mfiri ha oo!">
 <!ENTITY securityOverride.exceptionButtonLabel "Yi Firi Mu…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningText "<p>Enni sɛ wo yi wɛbsaet bi firi mu sɛ wo nngye wo Intanɛt kɔnɛkhyɛn no nndi papa anaaso wonntaa nnhu kɔkɔbɔ mma sɛɛva yi a.</p> 
-_
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<!ENTITY securityOverride.warningContent "<p>Enni sɛ wo de ɛksɛphyɛn beka ho sɛ wo de Intanɛt kɔnɛkhyɛn a wo nngye di redi dwuma anaaso sɛ wo nntaa nnhu kɔkɔbɔ mma sɛɛva yi a.</p> 
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

@@ -9,13 +9,6 @@
 #define bookmarks_heading Mbukmaak
 
 
-# LOCALIZATION NOTE (bookmarks_addons):
-
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-
-#define bookmarks_addons Gye bukmaak nka-ho
-
-
 #define bookmarks_toolbarfolder Mbukmaak tuulbaa folda
 
 
@@ -70,7 +63,7 @@
 
 # LOCALIZATION NOTE (firefox_about):
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 
 #define firefox_about Nea ɛfa yɛn ho
 

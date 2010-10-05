@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label "kɔstɔmaeze akyerɛwde ndanee">
-<!ENTITY current.label "akyerɛwde ndanee a wosi-so">
-<!ENTITY remove.label "Yi">
-<!ENTITY remove.accessKey "Y">
-<!ENTITY additional.label "akyerɛwde ndanee a wɔda-hɔ">
-<!ENTITY add.label "fabata">
-<!ENTITY add.accessKey "f">
-<!ENTITY moveUp.label "soa-kɔ soro">
-<!ENTITY moveUp.accessKey "s">
-<!ENTITY moveDown.label "soa-kɔ fam">
+<!ENTITY title.label        "Kɔstɔmaeze akyerɛwde ndanee">
+<!ENTITY current.label      "Akyerɛwde ndanee a wosi-so:">
+<!ENTITY remove.label       "Yi">
+<!ENTITY remove.accessKey   "Y">
+<!ENTITY additional.label   "Akyerɛwde ndanee a wɔda-hɔ:">
+<!ENTITY add.label          "fabata">
+<!ENTITY add.accessKey      "f">
+<!ENTITY moveUp.label       "soa-kɔ soro">
+<!ENTITY moveUp.accessKey   "s">
+<!ENTITY moveDown.label     "soa-kɔ fam">
 <!ENTITY moveDown.accessKey "f">

@@ -10,7 +10,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Adrɛs a wo bisae no kyerɛɛ pɔɔt pɔtee (mfatoho: <q>mozilla.org:80</q> ma pɔɔt 80 wɔ mozilla.org) bi a wɔde yɛ <em>biribi foforo fi</em> wɛb brawsen. Brawsa no etwa ebisae no mu de abɔ wo ara wo ho ban.</p>">
 
 <!ENTITY dnsNotFound.title "Ennhu Biae No">
-<!ENTITY dnsNotFound.longDesc "<p>Brawsa no enntumi enndua adrɛs a womae ne so annkɔ host sɛɛva no hɔ.</p><ul><li>Wo yɛɛ mfomso wɔ bere a wo rekyerɛw domen no anaa? (mfatoho: wokyerɛɛw<q><strong>ww</strong>.mozilla.org</q> wɔ bere a ɛwɔ sɛ wo kyerɛw <q><strong>www</strong>.mozilla.org</q>)</li><li>Wo gye di sɛ domen no te ase anaa Etumi ba no sɛ domen no ewu.</li><li>Wo tumi kɔ wɛbsaet afoforo? Hwɛ wo nɛtwɛk kɔnɛkhyɛn ne wo DNS sɛɛva nhyehyɛe mu.</li><li>Ogyaban anaaso prɔksi bɔ wo kɔmputa ne ho ban anaa? Nhyehɛe bɔne tumi haw wo brawsen wɔ wɛb no so.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Brawsa no enntumi enndua adrɛs a womae ne so annkɔ host sɛɛva no hɔ.</p><ul><li>Wo yɛɛ mfomso wɔ bere a wo rekyerɛw domen no anaa? (mfatoho: wo kyerɛɛw<q><strong>www</strong>.mozilla.org</q> wɔ bere a ɛwɔ sɛ wo kyerɛw <q><strong>www</strong>.mozilla.org</q>)</li><li>Wo gye di sɛ domen no te ase anaa Etumi ba no sɛ domen no ewu.</li><li>Wo tumi kɔ wɛbsaet afoforo? Hwɛ wo nɛtwɛk kɔnɛkhyɛn ne wo DNS sɛɛva nhyehyɛe mu.</li><li>Ogyaban anaaso prɔksi bɔ wo kɔmputa ne ho ban anaa? Nhyehɛe bɔne tumi haw wo brawsen wɔ wɛb no so.</li></ul>">
 
 <!ENTITY fileNotFound.title "Ennhu Fael No">
 <!ENTITY fileNotFound.longDesc "<ul><li>Etumi ba no sɛ ade a wo rehwehwɛ no wɔato no din foforo, woeyi efiri hɔ koraa anaaso wɔde kɔ beebi foforo</li><li>Mfomso bi wɔ adrɛs ne nkyerɛwee no mu anaa?</li><li>Wo wɔ tumi sɛ wo bɛhwɛ ade yi anaa?</li></ul>">
@@ -25,12 +25,13 @@
 <!ENTITY netInterrupt.longDesc "<p>Brawsa no akɔnɛkt konimdimu, naaso twaa kɔnɛkhyɛn no twae wɔ bere a wɔresoma infɔmehyɛn kɔ. Yɛsrɛ wo sɛ san sɔ hwɛ.</p><ul><li>Wo nntumi kɔ wɛbsaet afoforo? Hwɛ wo kɔmputa nɛtwɛk kɔnɛkhyɛn no mu.</li><li>Wo da so rebrɛ anaa? Bisa wo nɛtwɛk admin anaaso wɔn a wɔma wo Intanɛt ma wɔmboa wo.</li></ul>">
 
 <!ENTITY netOffline.title "Ɔflaen Tebea">
-<!ENTITY netOffline.longDesc "<p>Brawsa no reyɛ edwuma wɔ offlaen tebea mu nti ɔrenntumi mmfa wo ebisade no mma wo.</p><ul><li>Wo kɔmputa no ka nɛtwɛk a esi so anaa?</li><li>Fa wo brawsa no kɔ onlaen tebea mu na san sɔ hwɛ.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "Mu-asɛm Ndanee Mfomso">
 <!ENTITY contentEncodingError.longDesc "<p>Wo renntumi nnhu krataafa a wo pɛ sɛ wo hwɛ no osiandɛ ɔmmfa kɔmprɛhyɛn papa anaaso kɔmprɛhɛn soronko bi a Firefox nnte ase.</p><ul><li>Yɛsrɛ wo bisa wɔn a wɛbsaet no yɛ wɔn de ma wɔ wɔnhwɛ ho asɛm nka.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.title "Fael bɔbea yi nni bambɔ">
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li> 
 </ul>">
@@ -56,26 +57,25 @@
 <!ENTITY unknownSocketType.title "Mbuae A Ɛnnyɛ Nokware">
 <!ENTITY unknownSocketType.longDesc "<p>Site no gyee nɛtwɛk mbisae ne so wɔ kwan a Firefox eni nnda so, nti brawsa no renntumi nntoa so.</p>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "Kɔnɛkhyɛn a wɔabɔ ho ban no annkɔ yie">
 <!ENTITY nssFailure2.longDesc "<p>Firefox renntumi nnkyerɛ krataafa a wopɛ sɛ wo hwɛ no efiri sɛ Firefox nntumi nnhu sɛ data a ne nsa aka no di mu a.</p><ul><li>Yɛsrɛ wo sɛ ka asɛm yi kyerɛ wɔn a wɛbsaet no yɛ wɔn de.</li></ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "Kɔnɛkhyɛn a wɔabɔ ho ban no annkɔ yie">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Etumi ba no sɛ nhyehyɛe a wɔayɛ no wɔ sɛɛva no so nndi mu, anaaso etumi ba no sɛ obi pɛ sɛ ɔdaadaa obiara sɛ ɔno ne sɛɛva no.</li> 
 <li>Sɛ wo akɔnɛkt akɔ sɛɛva yi so da a, etumi ba no sɛ mfomso yi bɛkɔ a ɛrennkyɛr, nti wo betumi asan asɔ ahwɛ.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.title "Saet yi betumi ahaw adwen papaapa!">
+<!ENTITY malwareBlocked.longDesc "<p>Saet a wɔhaw adwen bɔ mbɔden sɛ wɔbɛinstɔl mprogram de ewia wo infɔmehyɛn, anaaso wɔde wo kɔmputa no bɛhaw afoforo wɔn adwen, anaaso wɔbɛhaw wo kɔmputa.</p> 
+<p>Sɛ wɛbsaet bi yɛ wo de na wo gye di sɛ obi afom sɛ wɔaka sɛ wo wɛbsaet no haw adwen a, <a href='http://www.stopbadware.org/home/reviewinfo' >bisa sɛ wɔnhwɛ wo asɛm nka mma wo</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.title "Ayɛ sɛ wɛb ndaadaa!">
+<!ENTITY phishingBlocked.longDesc "<p>Wo rekyerɛw wo ho nsɛm wɔ krataafa yi so betumi ama obi ewia wo su, anaaso ewia wo sika anaaso biribi foforo.</p> 
+<p>Yɛfrɛ wɛb ndaadaa te sɛ yinom sɛ Intanɛt sakawa, a binom nam emel ne wɛb nkrataafa so de yɛ wɔn ho sɛ obia a wobetumi de wo were ahyɛ wɔn mu.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Kɔntɛnt Sikuriti mbra esiw no kwan">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brawsa no sii krataafa yi kwan sɛ obebue wɔ kwan yi so efiri sɛ krataafa no wɔ kɔntɛnt sikuriti mbra ɔmma ho kwan.</p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

@@ -8,8 +8,8 @@
 <!ENTITY plexInput.label "Plex tebea mu:">
 <!ENTITY plexInput.accesskey "b">
 
-<!ENTITY resolutionInput.label "Enimanoɔden/Kwaliti:">
-<!ENTITY resolutionInput.accesskey "e">
+<!ENTITY resolutionInput.label "Enimanoɔden/Ndimu:">
+<!ENTITY resolutionInput.accesskey "a">
 
 <!ENTITY cmdInput.label "Prent Nhyɛ:">
 <!ENTITY cmdInput.accesskey "h">

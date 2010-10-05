@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Wobetumi de aplekehyɛn tab a ɛwɔ &brandShortName; apɛdeɛ no mu asesa nhyehyɛe.">
-<!ENTITY settingsChangeOptions.label "Wobetumi de aplekehyɛn tab a ɛwɔ &brandShortName; nɔphyɛn no mu asesa nhyehyɛe.">
+<!ENTITY  settingsChangePreferences.label  "Wobetumi de aplekehyɛn tab a ɛwɔ &brandShortName; apɛdeɛ no mu asesa nhyehyɛe.">
+<!ENTITY  settingsChangeOptions.label      "Wobetumi de aplekehyɛn tab a ɛwɔ &brandShortName; nɔphyɛn no mu asesa nhyehyɛe.">

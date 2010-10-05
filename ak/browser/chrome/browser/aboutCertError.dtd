@@ -5,7 +5,7 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle "kɔnɛkhyɛn a yɛnngye nndi">
+<!ENTITY certerror.pagetitle  "kɔnɛkhyɛn a yɛnngye nndi">
 <!ENTITY certerror.longpagetitle "Yɛnngyi kɔnɛkhyɛn yi ndi">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
@@ -26,9 +26,10 @@ rebɔ mbɔden sɛ ɔbɛbɔ saet no foforo adaada wo enti ɛntoa so.">
 <!ENTITY certerror.expert.heading "Me te nsusanso no ase">
 <!ENTITY certerror.expert.content "Sɛ wo te nea ɛrekɔ so n'ase a,
 wobetumi aka akyerɛ &brandShortName; sɛ ɔnhyɛ ase ngye saet yi ndi.
-<b>Sɛ wo gye saet yi di a,saa mfomso yi betumi akyerɛ sɛ obi de ne nsa reka wo kɔnɛkhyɛn no.</b>">
+<b>Sɛ wo gye saet yi di a,saa mfomso yi betumi akyerɛ sɛ obi de 
+ne nsa reka wo kɔnɛkhyɛn no.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ɛnfa ngyegye nka ho akosi sɛ 
 wo nim sɛ asɛm pa bi wɔhɔ enti a saet yi nni ahyɛnsode a yɛgye-di.">
-<!ENTITY certerror.addException.label "Fa ngyegye ka ho...">
+<!ENTITY certerror.addException.label "Fa ngyegye ka ho…">
 
 <!ENTITY certerror.technical.heading "Nhunumu a wɔyɛ tɛknikal">

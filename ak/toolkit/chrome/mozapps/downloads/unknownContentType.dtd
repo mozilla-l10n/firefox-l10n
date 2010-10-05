@@ -37,25 +37,25 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "Wo apaw sɛ wo bebue">
-<!ENTITY from.label "efiri:">
-<!ENTITY actionQuestion.label "&brandShortName; mfa fael yi nyɛ dɛn?">
+<!ENTITY  intro.label                 "Wo apaw sɛ wo bebue">
+<!ENTITY  from.label                  "efiri:">
+<!ENTITY  actionQuestion.label        "&brandShortName; mfa fael yi nyɛ dɛn?">
 
-<!ENTITY openWith.label "Fa bue">
-<!ENTITY openWith.accesskey "a">
-<!ENTITY other.label "Foforo…">
+<!ENTITY  openWith.label              "Fa bue">
+<!ENTITY  openWith.accesskey          "a">
+<!ENTITY  other.label                 "Foforo…">
 
-<!ENTITY saveFile.label "Sie Fael">
-<!ENTITY saveFile.accesskey "S">
+<!ENTITY  saveFile.label              "Sie Fael">
+<!ENTITY  saveFile.accesskey          "S">
 
-<!ENTITY rememberChoice.label "Yɛ dɛm ara otomatikmu ma mfael te sɛ yi firi seiseiara rekɔ.">
-<!ENTITY rememberChoice.accesskey "o">
+<!ENTITY  rememberChoice.label        "Yɛ dɛm ara otomatikmu ma mfael te sɛ yi firi seiseiara rekɔ.">
+<!ENTITY  rememberChoice.accesskey    "o">
 
-<!ENTITY whichIsA.label "a ɛyɛ:">
+<!ENTITY  whichIsA.label              "a ɛyɛ:">
 
-<!ENTITY chooseHandlerMac.label "Paw…">
-<!ENTITY chooseHandlerMac.accesskey "P">
-<!ENTITY chooseHandler.label "Brawse…">
-<!ENTITY chooseHandler.accesskey "B">
+<!ENTITY  chooseHandlerMac.label      "Paw…">
+<!ENTITY  chooseHandlerMac.accesskey  "P">
+<!ENTITY  chooseHandler.label         "Brawse…">
+<!ENTITY  chooseHandler.accesskey     "B">
 
-<!ENTITY unknownPromptText.label "Wo pɛ sɛ wo sie fael yi?">
+<!ENTITY  unknownPromptText.label     "Wo pɛ sɛ wo sie fael yi?">

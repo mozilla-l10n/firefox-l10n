@@ -1,31 +1,31 @@
-<!ENTITY printCmd.commandkey "P">
+<!ENTITY printCmd.commandkey            "P">
 
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label "ekyiri">
-<!ENTITY backButton.accesskey "e">
-<!ENTITY backButton.tooltip "Kɔ ekyi kratafa baako">
-<!ENTITY forwardButton.label "enim">
-<!ENTITY forwardButton.accesskey "n">
-<!ENTITY forwardButton.tooltip "Kɔ enim kratafa baako">
-<!ENTITY copyCmd.label "Sɛso">
-<!ENTITY copyCmd.accesskey "S">
-<!ENTITY selectAllCmd.label "Paw bibiara">
-<!ENTITY selectAllCmd.accesskey "b">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "Fie">
-<!ENTITY homeButton.tooltip "Kɔ mboa ahyɛase kratafa">
-<!ENTITY printButton.label "prente">
-<!ENTITY printButton.tooltip "Prente saa kratafa yi">
-<!ENTITY closeWindow.commandkey "W">
+<!ENTITY backButton.label               "ekyiri">
+<!ENTITY backButton.accesskey           "e">
+<!ENTITY backButton.tooltip             "Kɔ ekyi kratafa baako">
+<!ENTITY forwardButton.label            "enim">
+<!ENTITY forwardButton.accesskey        "n">
+<!ENTITY forwardButton.tooltip          "Kɔ enim kratafa baako">
+<!ENTITY copyCmd.label                  "Sɛso">
+<!ENTITY copyCmd.accesskey              "S">
+<!ENTITY selectAllCmd.label             "Paw bibiara">
+<!ENTITY selectAllCmd.accesskey         "b">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Fie">
+<!ENTITY homeButton.tooltip             "Kɔ mboa ahyɛase kratafa">
+<!ENTITY printButton.label              "prente">
+<!ENTITY printButton.tooltip            "Prente saa kratafa yi">
+<!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext "Hwehwɛ">
-<!ENTITY searchHeader.label "ahwehwɛfarebae">
-<!ENTITY toctab.label "Emu nsɛm">
-<!ENTITY toctab.accesskey "C">
+<!ENTITY search.emptytext               "Hwehwɛ">
+<!ENTITY searchHeader.label             "Ahwehwɛ-farebae">
+<!ENTITY toctab.label                   "Mu-nsɛm">
+<!ENTITY toctab.accesskey               "s">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -33,21 +33,21 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey "k">
+<!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label "Bere biara ɛda soro">
-<!ENTITY zLevel.accesskey "s">
+<!ENTITY zLevel.label                   "Bere biara ɛda soro">
+<!ENTITY zLevel.accesskey               "s">
 
-<!ENTITY fullZoomReduceBtn.label "zuume ba abɔnten">
-<!ENTITY fullZoomReduceBtn.accesskey "a">
-<!ENTITY fullZoomEnlargeBtn.label "zuume hyɛ mu">
-<!ENTITY fullZoomEnlargeBtn.accesskey "h">
+<!ENTITY fullZoomReduceBtn.label        "zuume ba abɔnten">
+<!ENTITY fullZoomReduceBtn.accesskey    "a">
+<!ENTITY fullZoomEnlargeBtn.label       "zuume hyɛ mu">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "h">

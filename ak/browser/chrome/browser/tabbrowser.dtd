@@ -1,21 +1,2 @@
-<!ENTITY untitledTab "(Nni ti-asɛm)">
-<!ENTITY newTab.label "Tab Foforo">
-<!ENTITY newTab.accesskey "T">
-<!ENTITY closeTab.label "To Tab No Mu">
-<!ENTITY closeTab.accesskey "o">
-<!ENTITY closeOtherTabs.accesskey "W">
-<!ENTITY closeOtherTabs.label "To Ntab A Wɔaka No Mu">
-<!ENTITY reloadAllTabs.label "San Lood Ntab No Nyinara">
-<!ENTITY reloadAllTabs.accesskey "a">
-<!ENTITY reloadTab.label "San Lood Tab Yi">
-<!ENTITY reloadTab.accesskey "S">
-<!ENTITY openTabInNewWindow.label "Bue wɔ Tokuro Foforo Mu">
-<!ENTITY openTabInNewWindow.accesskey "T">
-<!ENTITY listAllTabs.label "Kyerɛ ntab nyinara">
-<!ENTITY bookmarkAllTabs.label "Bukmak Ntab Nyinara…">
-<!ENTITY bookmarkAllTabs.accesskey "N">
-<!ENTITY bookmarkThisTab.label "Bukmak Tab Yi">
-<!ENTITY bookmarkThisTab.accesskey "B">
-<!ENTITY undoCloseTab.label "Nnyɛ Tab Nto Mu">
-<!ENTITY undoCloseTab.accesskey "N">
-<!ENTITY newTabButton.tooltip "Bue tab foforo">
+<!ENTITY  closeTab.label         "To tab no mu">
+<!ENTITY  newTabButton.tooltip        "Bue tab foforo">

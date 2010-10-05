@@ -18,12 +18,12 @@
 <!ENTITY printrangeGroup.label "Print Range">
 <!ENTITY allpagesRadio.label "Krataafa nyinara">
 <!ENTITY allpagesRadio.accesskey "a">
-<!ENTITY rangeRadio.label "Nkrataafa">
-<!ENTITY rangeRadio.accesskey "r">
-<!ENTITY frompageInput.label "firi">
-<!ENTITY frompageInput.accesskey "i">
-<!ENTITY topageInput.label "kɔ">
-<!ENTITY topageInput.accesskey "k">
+<!ENTITY rangeRadio.label  "Nkrataafa">
+<!ENTITY rangeRadio.accesskey  "r">
+<!ENTITY frompageInput.label  "firi">
+<!ENTITY frompageInput.accesskey  "i">
+<!ENTITY topageInput.label  "kɔ">
+<!ENTITY topageInput.accesskey  "k">
 <!ENTITY selectionRadio.label "Mpawee">
 <!ENTITY selectionRadio.accesskey "p">
 
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Prent Mfrem">
 <!ENTITY aslaidoutRadio.label "Te sɛ wɔada no edi wɔ skreen no so">
 <!ENTITY aslaidoutRadio.accesskey "d">
-<!ENTITY selectedframeRadio.label "Frem a wɔapaw">
-<!ENTITY selectedframeRadio.accesskey "m">
-<!ENTITY eachframesepRadio.label "Frem biara soronko">
-<!ENTITY eachframesepRadio.accesskey "e">
+<!ENTITY selectedframeRadio.label  "Frem a wɔapaw">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Frem biara soronko">
+<!ENTITY eachframesepRadio.accesskey  "e">

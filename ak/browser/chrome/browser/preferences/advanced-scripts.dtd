@@ -35,18 +35,14 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "JavaSkript nhyehyɛe akɔenim">
-<!ENTITY window.width "37em">
+<!ENTITY advancedJSDialog.title         "JavaSkript nhyehyɛe akɔenim">
+<!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label "Ma askript akwan sɛ:">
+<!ENTITY allowScripts.label             "Ma askript akwan sɛ:">
 
-<!ENTITY moveResizeWindows.label "Soa-kɔ anaa san susu tokuro a ɛte ase">
-<!ENTITY moveResizeWindows.accesskey "S">
-<!ENTITY raiseLowerWindows.label "Maso anaa si atokuro bi fam">
-<!ENTITY raiseLowerWindows.accesskey "M">
-<!ENTITY disableContextMenus.label "Dum anaa fa biribi hyɛ kɔntɛkst menu anan">
-<!ENTITY disableContextMenus.accesskey "D">
-<!ENTITY hideStatusBar.label "Suma tebea baa no">
-<!ENTITY hideStatusBar.accesskey "S">
-<!ENTITY changeStatusBar.label "Sesa tebea baa tɛkste">
-<!ENTITY changeStatusBar.accesskey "S">
+<!ENTITY moveResizeWindows.label        "Soa-kɔ anaa san susu tokuro a ɛte ase">
+<!ENTITY moveResizeWindows.accesskey    "S">
+<!ENTITY raiseLowerWindows.label        "Maso anaa si atokuro bi fam">
+<!ENTITY raiseLowerWindows.accesskey    "M">
+<!ENTITY disableContextMenus.label      "Dum anaa fa biribi hyɛ kɔntɛkst menu anan">
+<!ENTITY disableContextMenus.accesskey  "D">

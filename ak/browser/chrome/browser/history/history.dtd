@@ -1,9 +1,9 @@
-<!ENTITY find.label "Hwehwɛ:">
-<!ENTITY find.accesskey "H">
-<!ENTITY expand.label "Trɛw mu">
-<!ENTITY expand.accesskey "T">
-<!ENTITY collapse.label "Sɛe">
-<!ENTITY collapse.accesskey "S">
+<!ENTITY find.label                "Hwehwɛ:">
+<!ENTITY find.accesskey            "H">
+<!ENTITY expand.label              "Trɛw mu">
+<!ENTITY expand.accesskey          "T">
+<!ENTITY collapse.label            "Sɛe">
+<!ENTITY collapse.accesskey        "S">
 <!ENTITY byDate.label "Fa Afeda">
 <!ENTITY byDate.accesskey "d">
 <!ENTITY bySite.label "Fa Saet">
