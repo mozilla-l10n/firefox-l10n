@@ -91,6 +91,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "隱藏新鮮事">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "隱藏此次更新的新鮮事">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "什麼是附加元件？">
+<!ENTITY discover.description2                "附加元件就是可以讓您透過一些新增的功能或樣式來個人化您的 &brandShortName; 的應用程式。
+  試試看可以讓您節省時間的側邊欄、天氣預報、或是裝個特別的佈景主題讓 &brandShortName; 變成您想要的樣子。">
+<!ENTITY discover.footer                      "當您連上網路之後，這個窗格將會顯示
+  一些最棒和最多人使用的附加元件讓您試試。">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "版本">
 <!ENTITY detail.lastupdated.label             "最近更新時間">
