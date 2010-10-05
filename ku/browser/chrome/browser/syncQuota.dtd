@@ -1,4 +1,4 @@
-<!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
+<!ENTITY quota.dialogTitle.label    "Kotaya Pêşkêşkar">
+<!ENTITY quota.retrievingInfo.label "Şûndeanîna agahiyên kotayê…">
 <!ENTITY quota.typeColumn.label     "Type">
 <!ENTITY quota.sizeColumn.label     "Size">
