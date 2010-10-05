@@ -7,9 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Ji bo Rojanekirinan Kontrol Bike">
 <!ENTITY listEmpty.search.label               "Tu add-oneke ku li vê tê nehat dîtin">
 <!ENTITY listEmpty.button.label               "Derbarê add-onan de zêdetir agahiyan bistîne">
-<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
+<!ENTITY installAddonFromFile.label           "Add-onê ji pelî saz bike…">
+<!ENTITY installAddonFromFile.accesskey       "i">
+<!ENTITY toolsMenu.tooltip                    "Amûrên ji bo hemû add-onan">
 
 <!ENTITY cmd.back.tooltip                     "Rûpelek paşve">
 <!ENTITY cmd.forward.tooltip                  "Rûpelek pêşve">
@@ -35,8 +35,8 @@
 <!ENTITY view.availableUpdates.label          "Rojankirinên Amade">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Check for Updates">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.checkForUpdates.label        "Li rojanekirinan bigere">
+<!ENTITY updates.checkForUpdates.accesskey    "L">
 <!ENTITY updates.viewUpdates.label            "Rojanekirinên Nêz Nîşan Bide">
 <!ENTITY updates.viewUpdates.accesskey        "R">
 <!ENTITY updates.updateAddonsAutomatically.label     "Add-onan xweber rojane bike">
@@ -74,8 +74,8 @@
 <!ENTITY cmd.enableTheme.accesskey            "w">
 <!ENTITY cmd.disableTheme.label               "Lixwekirina dirbê rawestîne">
 <!ENTITY cmd.disableTheme.accesskey           "w">
-<!ENTITY cmd.installAddon.label               "Install">
-<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.installAddon.label               "Sazkirin">
+<!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Rake">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Vebijêrk">
@@ -103,7 +103,7 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Guherto">
-<!ENTITY detail.lastupdated.label             "Last Updated">
+<!ENTITY detail.lastupdated.label             "Rojanekirina dawî">
 <!ENTITY detail.creator.label                 "Pêşdebir">
 <!ENTITY detail.homepage.label                "Serûpel">
 <!ENTITY detail.numberOfDownloads.label       "Daxistin">
@@ -111,13 +111,13 @@
 <!ENTITY detail.contributions.description     "Pêşdebira vê add-onê daxwaza alîkariya piştgiriyê ji te dike da ku piştgirî bidome.">
 
 <!ENTITY detail.updateType                    "Rojanekirinên Xweber">
-<!ENTITY detail.updateDefault.label           "Default">
+<!ENTITY detail.updateDefault.label           "Standard">
 <!ENTITY detail.updateDefault.tooltip         "Eger tenê ev standard be, rojanekirinan xweber saz bike">
-<!ENTITY detail.updateAutomatic.label         "On">
+<!ENTITY detail.updateAutomatic.label         "Çalak">
 <!ENTITY detail.updateAutomatic.tooltip       "Rojanekirinan xweber saz bike">
-<!ENTITY detail.updateManual.label            "Off">
+<!ENTITY detail.updateManual.label            "Neçalak">
 <!ENTITY detail.updateManual.tooltip          "Rojanekirinan xweber saz neke">
-<!ENTITY detail.home                          "Homepage">
+<!ENTITY detail.home                          "Serûpel">
 <!ENTITY detail.repository                    "Profîla Add-onê">
 <!ENTITY detail.size                          "Mezinahî">
 
@@ -126,7 +126,7 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Ji bo vê add-onê rojanekirinan kontrol bike">
 <!ENTITY detail.showPreferencesWin.label      "Vebijêrk">
 <!ENTITY detail.showPreferencesWin.accesskey  "V">
-<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
+<!ENTITY detail.showPreferencesWin.tooltip    "Vebijêrkên vê add-onê biguherîne">
 <!ENTITY detail.showPreferencesUnix.label     "Vebijêrk">
 <!ENTITY detail.showPreferencesUnix.accesskey "V">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Vebijêrkên vê add-onê biguherîne">
@@ -143,11 +143,11 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nav">
 <!ENTITY sort.name.tooltip                    "Li gorî navan rêz bike">
-<!ENTITY sort.dateUpdated.label               "Rojanekirina Dawî">
+<!ENTITY sort.dateUpdated.label               "Rojanekirina dawî">
 <!ENTITY sort.dateUpdated.tooltip             "Li gorî dema rojanekirinê rêz bike">
 <!ENTITY sort.relevance.label                 "Hevgirtinên Çêtirîn">
 <!ENTITY sort.relevance.tooltip               "Li gorî têkiliyê rêz bike">
-<!ENTITY sort.price.label                     "Price">
+<!ENTITY sort.price.label                     "Buha">
 <!ENTITY sort.price.tooltip                   "Sort by price">
 
 <!ENTITY search.filter2.label                 "Lêgerîn:">
@@ -170,7 +170,7 @@
      necessary -->
 <!ENTITY addon.update.postfix                 "Rojanekirin">
 <!ENTITY addon.undoAction.label               "Şûnde bîne">
-<!ENTITY addon.undoAction.tooltip             "Undo this action">
+<!ENTITY addon.undoAction.tooltip             "Vê çalakiyê vegerîne">
 <!ENTITY addon.undoRemove.label               "Şûnde bîne">
 <!ENTITY addon.undoRemove.tooltip             "Vê add-onê sazkirî bihêle">
 <!ENTITY addon.restartNow.label               "Niha ji nû ve bide destpêkirin">

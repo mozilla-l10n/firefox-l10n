@@ -1,12 +1,12 @@
 <!ENTITY aboutDialog.title          "Derbarê  &brandFullName;'ê de">
 
-<!ENTITY community.start2           "&brandShortName; is designed by ">
+<!ENTITY community.start2           "Yê dîzayna &brandShortName;ê kiriye ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "global community">
-<!ENTITY community.end2             " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY community.creditsLink      "komeke gerdûyî ye">
+<!ENTITY community.end2             " û bi hev re ji bo ku înternet çêtir bibe dixebitin. Em wisa bawer dikin ku divê înternet ji bo her kesî bêyî tu sînorkirinan vekirî, cemawerî û gihîştbar be.">
 
 <!ENTITY contribute.start           "Bala te li dengan e? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

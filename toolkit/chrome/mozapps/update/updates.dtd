@@ -59,8 +59,8 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nikare tê derxe ka rojanekirinek heye an na. Tika ye
                                            lê binêre ka &brandShortName;a te guhertoya dawî ya vê ye an na:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Hin tişt rojanekirina ewle ya &brandShortName;ê asteng dikin.
+                                           Tika ye lê binêre ka &brandShortName; guhertoya dawî ye û ji virê ye:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Hin tişt dixwazin bi rojanekirinên ne ewle &brandShortName;ê
                                            bixapînin. Ji kerema xwe re bi pêşkêşkara torê re bikeve têkiliyê alîkariyê bixwaze.">
 
