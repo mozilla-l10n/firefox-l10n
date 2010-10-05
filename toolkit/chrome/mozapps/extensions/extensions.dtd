@@ -95,8 +95,8 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "¿Qué son los complementos?">
-<!ENTITY discover.description                 "Los complementos son aplicaciones que permiten personalizar Firefox con
-  funcionalidad extra o estilo. Pruebe una barra lateral que ahorre tiempo, un notificador de clima o una apariencia con tema para que Firefox
+<!ENTITY discover.description2                "Los complementos son aplicaciones que permiten personalizar &brandShortName; con
+  funcionalidad extra o estilo. Pruebe una barra lateral que ahorre tiempo, un notificador de clima o una apariencia con tema para que &brandShortName;
   sea suyo.">
 <!ENTITY discover.footer                      "Cuando se conecte a internet, esta vista mostrará
   algunos de los mejores y más populares complementos para que pruebe.">

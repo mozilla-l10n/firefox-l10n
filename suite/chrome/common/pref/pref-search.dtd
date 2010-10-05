@@ -7,17 +7,10 @@
 <!ENTITY defaultSearchEngine.label        "Buscar usando:">
 <!ENTITY defaultSearchEngine.accesskey    "s">
 
-<!ENTITY openSidebarSearchPanel.label     "Abrir la pestaña de búsqueda en la barra lateral cuando se realiza una búsqueda">
-<!ENTITY openSidebarSearchPanel.accesskey "o">
-
-<!ENTITY openContextSearchTab.label       "Abrir una pestaña en lugar de una ventana cuando se realiza una búsqueda con el menú contextual">
-<!ENTITY openContextSearchTab.accesskey   "t">
-
 <!ENTITY searchResults.label              "Resultados de búsqueda">
 
-<!ENTITY sidebarSearchTabPref.label       "Opciones de la pestaña de búsqueda en la barra lateral">
-<!ENTITY searchModeBasic.label            "Básica">
-<!ENTITY searchModeBasic.accesskey        "B">
-<!ENTITY searchModeAdvanced.label         "Avanzada">
-<!ENTITY searchModeAdvanced.accesskey     "A">
+<!ENTITY openInTab.label                  "Abrir nuevas pestañas para los resultados de búsqueda en la barra lateral">
+<!ENTITY openInTab.accesskey              "n">
+<!ENTITY openSidebarSearchPanel.label     "Abrir la pestaña de búsqueda en la barra lateral cuando se invoque una búsqueda">
+<!ENTITY openSidebarSearchPanel.accesskey "o">
 
