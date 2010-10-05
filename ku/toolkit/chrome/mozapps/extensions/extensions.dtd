@@ -148,7 +148,7 @@
 <!ENTITY sort.relevance.label                 "Hevgirtinên Çêtirîn">
 <!ENTITY sort.relevance.tooltip               "Li gorî têkiliyê rêz bike">
 <!ENTITY sort.price.label                     "Buha">
-<!ENTITY sort.price.tooltip                   "Sort by price">
+<!ENTITY sort.price.tooltip                   "Li gorî buhayî rêz bike">
 
 <!ENTITY search.filter2.label                 "Lêgerîn:">
 <!ENTITY search.filter2.installed.label       "Add*onên Min">
