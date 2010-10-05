@@ -26,6 +26,7 @@
 
 <!ENTITY netOffline.title  "Yhteydettömässä tilassa">
 <!ENTITY netOffline.longDesc "<p>Selain on verkkoyhteydettömässä tilassa eikä voi muodostaa yhteyttä pyydettyyn kohteeseen.</p><ul><li>Onko tietokoneen verkkoyhteys toiminnassa?</li><li>Aseta selain yhteystilaan ja yritä uudelleen.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Selain on verkkoyhteydettömässä tilassa eikä voi muodostaa yhteyttä pyydettyyn kohteeseen.</p><ul><li>Onko tietokoneen verkkoyhteys toiminnassa?</li><li>Aseta selain yhteystilaan ja yritä uudelleen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Sisällön koodausvirhe">
 <!ENTITY contentEncodingError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska se on pakattu virheellisesti tai muodossa, joka ei ole tuettu.</p><ul><li>Ilmoitathan sivuston omistajalle tästä ongelmasta.</li></ul>">

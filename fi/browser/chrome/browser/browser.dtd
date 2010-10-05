@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label  "Kirjanmerkkipalkki">
 <!ENTITY personalbarCmd.accesskey  "K">
 <!ENTITY bookmarksToolbarItem.label  "Kirjanmerkkipalkin linkit">
-<!ENTITY taskbarCmd.label  "Tilarivi">
-<!ENTITY taskbarCmd.accesskey  "r">
+<!ENTITY addonBarCmd.label "Lisäosapalkki">
+<!ENTITY addonBarCmd.accesskey "L">
 
 <!ENTITY pageSourceCmd.label  "Sivun lähdekoodi">
 <!ENTITY pageSourceCmd.accesskey  "n">
@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey         ".">
 <!ENTITY stopButton.tooltip            "Lopeta sivun lataus">
 <!ENTITY goEndCap.tooltip             "Siirry osoitepalkissa olevaan osoitteeseen">
-<!ENTITY feedButton.tooltip           "Tilaa tämä sivu…">
 <!ENTITY printButton.label             "Tulosta">
 <!ENTITY printButton.tooltip           "Tulosta sivu">
 
@@ -134,10 +133,14 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Valikko">
+<!ENTITY appMenuButton.tooltip        "Avaa &brandShortName;in ohjelmavalikko">
 <!ENTITY homeButton.label             "Aloitussivu">
 
 <!ENTITY tabGroupsButton.label        "Välilehtiryhmät">
 <!ENTITY tabGroupsButton.tooltip      "Ryhmittele välilehtesi">
+
+<!ENTITY feedButton.label             "Tilaa">
+<!ENTITY feedButton.tooltip           "Tilaa tämä sivu…">
 
 <!ENTITY bookmarksButton.label           "Kirjanmerkit">
 <!ENTITY bookmarksButton.tooltip         "Näytä kirjanmerkit">
@@ -279,9 +282,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Sivupaneeli">
 <!ENTITY appMenuFind.label "Etsi…">
 <!ENTITY appMenuUnsorted.label "Järjestelemättä olevat kirjanmerkit">
+<!ENTITY appMenuWebDeveloper.label "WWW-Kehitystyökalut">
 <!ENTITY appMenuGettingStarted.label "Alkuun pääseminen">
-
-<!ENTITY developerMenu.label "Kehitystyökalut">
+<!ENTITY appMenuSafeMode.label "Käynnistä uudelleen lisäosat pois päältä…">
+<!ENTITY appMenuSafeMode.accesskey "K">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Siirry verkkosivulle">
@@ -295,9 +299,9 @@ can reach it easily. -->
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -306,12 +310,11 @@ can reach it easily. -->
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label        "Avaa uuteen välilehteen">
 <!ENTITY openLinkCmdInTab.accesskey    "v">

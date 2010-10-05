@@ -53,9 +53,14 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Yhteydettömässä tilassa">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Poista Tiedosto-valikosta valinta kohdasta &quot;Työskentele yhteydettömässä tilassa&quot; ja yritä uudestaan.</li>
+  <li>Poista valinta kohdasta &quot;Työskentele yhteydettömässä tilassa&quot; ja yritä uudestaan.</li>
 </ul>
 ">
 

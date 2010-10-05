@@ -43,10 +43,10 @@
 <!ENTITY syncKeyEntry.label        "Synkronointiavaimesi">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncKeyGenerate.label     "Luo">
+<!ENTITY syncKeyStrength.label     "Vahvuus:">
+<!ENTITY syncKeyHelp.label         "Mitä vahvuus tarkoittaa?">
 <!ENTITY syncKeyBackup.description "Tarvitset synkronointiavaintasi kun haluat liittää toisia laitteita &syncBrand.fullName.label; -tiliisi. Otathan siis avaimesta varmuuskopion. Emme voi auttaa sinua palauttamaan hävinnyttä synkronointiavainta.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Lähetä sähköposti…">
-<!ENTITY button.syncKeyBackup.email.accesskey "L">
 <!ENTITY button.syncKeyBackup.print.label     "Tulosta…">
 <!ENTITY button.syncKeyBackup.print.accesskey "T">
 <!ENTITY button.syncKeyBackup.save.label      "Tallenna…">
