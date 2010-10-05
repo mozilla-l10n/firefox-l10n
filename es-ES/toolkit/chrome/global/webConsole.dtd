@@ -8,7 +8,6 @@
 <!ENTITY networkPanel.responseHeaders "Cabeceras de la respuesta">
 <!ENTITY networkPanel.responseBody "Cuerpo de la respuesta">
 <!ENTITY networkPanel.responseBodyCached "Datos cacheados">
-<!ENTITY networkPanel.responseBodyUnknownType "Tipo de contenido desconocido">
 <!ENTITY networkPanel.responseNoBody "La respuesta no tiene cuerpo">
 <!ENTITY networkPanel.responseImage "Imagen recibida">
 <!ENTITY networkPanel.responseImageCached "Imagen cacheada">
