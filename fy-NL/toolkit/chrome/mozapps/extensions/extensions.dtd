@@ -39,7 +39,7 @@
 <!ENTITY updates.checkForUpdates.accesskey    "K">
 <!ENTITY updates.viewUpdates.label            "Toan resinte fernijings">
 <!ENTITY updates.viewUpdates.accesskey        "T">
-<!ENTITY updates.updateAddonsAutomatically.label     "Fernij Tafoeh=gings automatysk">
+<!ENTITY updates.updateAddonsAutomatically.label     "Fernij Tafoegings automatysk">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "a">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Stel automatysk fernije yn foar alle Tafoegings">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "S">
