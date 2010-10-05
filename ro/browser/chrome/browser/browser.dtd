@@ -25,18 +25,18 @@
 <!ENTITY  closeOtherTabs.accesskey           "Î">
 <!ENTITY  openTabInNewWindow.label           "Deschide într-o fereastră nouă">
 <!ENTITY  openTabInNewWindow.accesskey       "D">
-<!ENTITY  pinTab.label                       "Make into App Tab">
+<!ENTITY  pinTab.label                       "Transformă într-o filă de aplicație">
 <!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Make into Normal Tab">
-<!ENTITY  unpinTab.accesskey                 "k">
-<!ENTITY  bookmarkThisTab.label              "Bookmark This Tab">
-<!ENTITY  bookmarkThisTab.accesskey          "B">
-<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "Undo Close Tab">
-<!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "Close Tab">
-<!ENTITY  closeTab.accesskey                 "C">
+<!ENTITY  unpinTab.label                     "Transformă în filă normală">
+<!ENTITY  unpinTab.accesskey                 "T">
+<!ENTITY  bookmarkThisTab.label              "Pune un semn la această filă">
+<!ENTITY  bookmarkThisTab.accesskey          "P">
+<!ENTITY  bookmarkAllTabs.label              "Pune semne de carte la toate filele...">
+<!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  undoCloseTab.label                 "Anulează închiderea filei">
+<!ENTITY  undoCloseTab.accesskey             "u">
+<!ENTITY  closeTab.label                     "Închide fila">
+<!ENTITY  closeTab.accesskey                 "c">
 
 <!ENTITY  listAllTabs.label      "Listă cu toate filele">
 
@@ -132,7 +132,7 @@
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Acasă">
-<!ENTITY tabViewButton2.label         "Tab Groups">
+<!ENTITY tabViewButton2.label         "Grupuri de file">
 <!ENTITY tabViewButton2.tooltip       "Group Your Tabs">
 
 <!ENTITY bookmarksButton.label          "Semne de carte">
@@ -143,7 +143,7 @@
 <!ENTITY bookmarksMenuButton.label          "Semne de carte">
 <!ENTITY bookmarksMenuButton.tooltip        "Afișează semnele dumneavoastră de carte">
 <!ENTITY viewBookmarksSidebar.label         "Arată în bara laterală">
-<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
+<!ENTITY viewBookmarksToolbar.label         "Arată bara cu semne de carte">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -179,7 +179,7 @@
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Inspect">
+<!ENTITY inspectMenu.label            "Inspectează">
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
 
@@ -228,8 +228,8 @@
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
-<!ENTITY clearRecentHistory.accesskey           "H">
+<!ENTITY clearRecentHistory.label               "Curăță istoricul recent…">
+<!ENTITY clearRecentHistory.accesskey           "C">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Începe navigarea fără urme">
@@ -248,8 +248,8 @@
 <!ENTITY viewSidebarMenu.accesskey "l">
 <!ENTITY viewCustomizeToolbar.label       "Personalizează..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY viewTabsOnTop.label            "Tabs on Top">
-<!ENTITY viewTabsOnTop.accesskey        "T">
+<!ENTITY viewTabsOnTop.label            "Filele deasupra">
+<!ENTITY viewTabsOnTop.accesskey        "F">
 
 <!ENTITY historyMenu.label "Istoric">
 <!ENTITY historyMenu.accesskey "I">
@@ -263,7 +263,7 @@
 
 <!ENTITY appMenuPrintCmd.label "Tipăreşte">
 <!ENTITY appMenuCustomize.label "Personalizare">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appMenuToolbarLayout.label "Aranjamentul barei de unelte…">
 <!ENTITY appMenuSidebars.label "Bare laterale">
 <!ENTITY appMenuHelp.label "Ajutor">
 
@@ -303,8 +303,8 @@
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Deschide legătura în fereastră nouă">
 <!ENTITY openLinkCmd.accesskey        "D">
-<!ENTITY openLinkCmdInCurrent.label     "Open Link">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openLinkCmdInCurrent.label     "Deschide legătura">
+<!ENTITY openLinkCmdInCurrent.accesskey "D">
 <!ENTITY openFrameCmdInTab.label      "Deschide cadrul în filă nouă">
 <!ENTITY openFrameCmdInTab.accesskey  "f">
 <!ENTITY openFrameCmd.label           "Deschide cadrul în fereastră nouă">
@@ -400,8 +400,8 @@
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Ascunde controalele">
 <!ENTITY mediaHideControls.accesskey "c">
-<!ENTITY videoFullScreen.label       "Full Screen">
-<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.label       "Pe tot ecranul">
+<!ENTITY videoFullScreen.accesskey   "P">
 
 
 <!-- LOCALIZATION NOTE :
