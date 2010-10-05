@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "N">
 <!ENTITY disableContextMenus.label      "Poistaa tai muuttaa ponnahdusvalikkoja">
 <!ENTITY disableContextMenus.accesskey  "P">
-<!ENTITY hideStatusBar.label            "Piilottaa tilarivin">
-<!ENTITY hideStatusBar.accesskey        "o">
-<!ENTITY changeStatusBar.label          "Muuttaa tilarivin tekstiä">
-<!ENTITY changeStatusBar.accesskey      "M">

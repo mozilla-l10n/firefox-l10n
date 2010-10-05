@@ -91,6 +91,16 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Piilota julkaisutiedot">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Piilota tämän päivityksen julkaisutiedot">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Mitä lisäosat ovat?">
+<!ENTITY discover.description2                "Lisäosat ovat ohjelmia, joiden avulla voit lisätä &brandShortName;iin 
+  kaipaamiasi toimintoja tai muuttaa ohjelman ulkonäköä. Kokeile vaikka aikaa säästävää sivupaneelia, säätilan kertovaa lisäosaa tai tuoretta 
+  ulkonäköä muuttavaa teemaa ja tee &brandShortName;ista omasi.">
+<!ENTITY discover.footer                      "Kun verkkoyhteys on muodostettu voit kokeilla tällä paneelilla esiteltäviä suosituimpia
+  ja parhaimpia lisäosia.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versio">
 <!ENTITY detail.lastupdated.label             "Päivitetty viimeksi">

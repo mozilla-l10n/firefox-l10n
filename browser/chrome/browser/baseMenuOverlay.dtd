@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label      "Internet Explorerin käyttäjille">
 <!ENTITY helpForIEUsers.accesskey  "E">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Käynnistä uudelleen lisäosat pois päältä…">
+<!ENTITY helpSafeMode.accesskey   "K">
 
 <!ENTITY helpReleaseNotes.label          "Julkaisutiedot">
 <!ENTITY helpReleaseNotes.accesskey      "J">

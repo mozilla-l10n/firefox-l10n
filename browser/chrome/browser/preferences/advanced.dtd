@@ -41,18 +41,18 @@
 <!ENTITY offlineStorage.label            "Yhteydetöntä tilaa varten tallennetut tiedot">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Käytä enintään">
-<!ENTITY useCacheBefore.accesskey        "K">
-<!ENTITY useCacheAfter.label             "Mt:a levytilaa väliaikaistiedostoille">
+<!ENTITY limitCacheSizeBefore.label      "Rajoita väliaikaistiedostojen viemä tila">
+<!ENTITY limitCacheSizeBefore.accesskey  "R">
+<!ENTITY limitCacheSizeAfter.label       "Mt:uun">
 <!ENTITY clearCacheNow.label             "Tyhjennä heti">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY smartSizeCache.label            "Anna &brandShortName;in hallita väliaikaistiedostojen käyttämää levytilaa">
-<!ENTITY smartSizeCache.accesskey        "A">
+<!ENTITY overrideSmartCacheSize.label    "Ohita automaattinen väliaikatiedostojen hallinta">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Päivitys">
 
