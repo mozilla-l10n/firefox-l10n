@@ -17,8 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Şemitandina nerm bikar bîne">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.label              "Dema ku lezkara reqalavê amade bibe wê bi kar bîne">
+<!ENTITY allowHWAccel.accesskey          "D">
 <!ENTITY checkSpelling.label             "Nivîsandina min wekî ku ez dinivîsim kontrol bike">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -41,17 +41,18 @@
 <!ENTITY offlineStorage.label            "Depoya Negirêdayî">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Ji dîskê heya">
-<!ENTITY useCacheBefore.accesskey        "J">
-<!ENTITY useCacheAfter.label             "MB'î ji bo pêşbîrê bi kar bîne">
+<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB of space">
 <!ENTITY clearCacheNow.label             "Niha Paqij Bike">
 <!ENTITY clearCacheNow.accesskey         "N">
-<!ENTITY smartSizeCache.label            "Let &brandShortName; manage the size of my cache.">
+<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Rojane Bike">
 

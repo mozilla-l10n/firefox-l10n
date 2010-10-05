@@ -1,15 +1,16 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "URLa xwestî">
+<!ENTITY networkPanel.requestMethod               "Rçbaza Xwestî">
+<!ENTITY networkPanel.statusCode                  "Koda Rewşê">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Sernavên Xwestî">
+<!ENTITY networkPanel.requestCookie               "Çerezên Şandî">
+<!ENTITY networkPanel.requestBody                 "Qurmê Xwestî">
+<!ENTITY networkPanel.requestFormData             "Daneyên Forman ên Şandî">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "Sernavên Bersivîn">
+<!ENTITY networkPanel.responseBody                "Qurmê Bersivîn">
+<!ENTITY networkPanel.responseBodyCached          "Daneya Standî">
+<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
+<!ENTITY networkPanel.responseNoBody              "Qurmê Bersivîn tune ye">
+<!ENTITY networkPanel.responseImage               "Wêneyê Standî">
+<!ENTITY networkPanel.responseImageCached         "Wêneyê di bîrê de">

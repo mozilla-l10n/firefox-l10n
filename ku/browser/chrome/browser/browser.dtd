@@ -18,21 +18,21 @@
 <!ENTITY  reloadAllTabs.accesskey            "H">
 <!ENTITY  closeOtherTabs.label               "Hilpekînên din bigire">
 <!ENTITY  closeOtherTabs.accesskey           "d">
-<!ENTITY  openTabInNewWindow.label           "Di paceyeke nû de veke">
-<!ENTITY  openTabInNewWindow.accesskey       "p">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Pin as App Tab">
+<!ENTITY  pinAppTab.label                    "Pina wekî App Tabê">
 <!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Unpin Tab">
-<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  unpinAppTab.label                  "Pina hilpekînê veke">
+<!ENTITY  unpinAppTab.accesskey              "P">
 <!ENTITY  moveToGroup.label                  "Biguhêze komê">
 <!ENTITY  moveToGroup.accesskey              "m">
 <!ENTITY  moveToNewGroup.label               "Koma nû">
+<!ENTITY  moveToNewWindow.label              "Move to New Window">
+<!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Hemû hilpekînan têxe bijareyan…">
 <!ENTITY  bookmarkAllTabs.accesskey          "m">
 <!ENTITY  undoCloseTab.label                 "Hilpekîna hat girtin şûnde bîne">
@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Darikê Amûran a Bijareyan">
 <!ENTITY personalbarCmd.accesskey "a">
 <!ENTITY bookmarksToolbarItem.label "Nîşaneyên Bijareyan">
-<!ENTITY taskbarCmd.label "Darikê Rewşê">
-<!ENTITY taskbarCmd.accesskey "r">
+<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Çavkaniya Rûpelê">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY subscribeToPageMenuitem.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY addCurPagesCmd.label "Hemû Hilpekînan Têxe Bijareyan...">
-<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
+<!ENTITY showAllBookmarks.label "Hemû bijareyan nîşan bide…">
 <!ENTITY bookmarkAllCmd.label "Hemû Hilpekînan Têxe Bijareyan...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zêdetir bijare nîşan bide">
 
@@ -122,7 +122,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        "de heye.">
 <!ENTITY stopButton.tooltip           "Barkirina rûpelê bide sekinandin">
 <!ENTITY goEndCap.tooltip             "Here navnîşana di Darikê Cihî de">
-<!ENTITY feedButton.tooltip           "Bibe abone ji bo vê rûpelê...">
 <!ENTITY printButton.label            "Çap bike">
 <!ENTITY printButton.tooltip          "Vê rûpelê çap bike">
 
@@ -133,9 +132,15 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Bijare">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Serûpel">
-<!ENTITY tabViewButton2.label         "Komên hilpekînan">
-<!ENTITY tabViewButton2.tooltip       "Hilpekînên xwe kom bike">
+<!ENTITY appMenuButton.label          "Pêşek">
+<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY homeButton.label             "Serûpel">
+
+<!ENTITY tabGroupsButton.label        "Tab Groups">
+<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+
+<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.tooltip           "Bibe abone ji bo vê rûpelê...">
 
 <!ENTITY bookmarksButton.label          "Bijare">
 <!ENTITY bookmarksButton.tooltip        "Bijareyên xwe bibîne">
@@ -249,8 +254,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Nîşan bide"> 
 <!ENTITY viewMenu.accesskey       "b"> 
-<!ENTITY showTabView2.label     "Hilpekînên xwe kom bike…">
-<!ENTITY showTabView2.accesskey     "H">
+<!ENTITY viewTabGroups.label            "Tab Groups">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Darikê Amûran"> 
 <!ENTITY viewToolbarsMenu.accesskey     "a"> 
 <!ENTITY viewSidebarMenu.label "Darikê Quncikê">
@@ -277,9 +282,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Darikên kêlekê">
 <!ENTITY appMenuFind.label "Lêgerîn…">
 <!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Getting Started">
-
-<!ENTITY developerMenu.label "Pêşdebir">
+<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Here Malperekê">
@@ -293,9 +299,9 @@ can reach it easily. -->
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -304,12 +310,11 @@ can reach it easily. -->
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 <!ENTITY searchFocus.commandkey       "K">
-<!ENTITY searchFocus.commandkey2      "a">
 <!ENTITY searchFocusUnix.commandkey   "J">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Girêdanê Di Hilpekîneke Nû De Veke">
 <!ENTITY openLinkCmdInTab.accesskey   "H">
@@ -450,7 +455,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Jê bike">
 <!ENTITY copyButton.tooltip             "Kopîkirin">
 <!ENTITY pasteButton.tooltip            "Pêve bike">
+
 <!ENTITY fullScreenButton.tooltip       "Paceyê dîmender tijî nîşan bide">
+
+<!ENTITY zoomOutButton.tooltip          "Biçûk bike">
+<!ENTITY zoomInButton.tooltip           "Mezin bike">
+<!ENTITY zoomControls.label             "Kontrola zoomê">
 
 <!ENTITY quitApplicationCmdWin.label       "Derkeve"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "k">
@@ -535,17 +545,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Hilpekînên ji komputerên din">
 
-<!ENTITY syncBrand.shortName.label  "Sync">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "y">
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label;ê saz bike…">
 <!ENTITY syncSetup.accesskey          "s">
-<!ENTITY syncLogInItem.label          "Girêbide">
-<!ENTITY syncLogInItem.accesskey      "G">
-<!ENTITY syncLogOutItem.label         "Girêdanê Qut Bike">
-<!ENTITY syncLogOutItem.accesskey     "d">
 <!ENTITY syncSyncNowItem.label        "Niha senkronîze bike">
 <!ENTITY syncSyncNowItem.accesskey    "s">
+<!ENTITY syncToolbarButton.label      "Sync">

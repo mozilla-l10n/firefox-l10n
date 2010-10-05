@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "K">
 <!ENTITY disableContextMenus.label      "Bêbandorkirin an jî lisernivîsandina menuya naverokê">
 <!ENTITY disableContextMenus.accesskey  "e">
-<!ENTITY hideStatusBar.label            "Veşartina darikê rewşê">
-<!ENTITY hideStatusBar.accesskey        "V">
-<!ENTITY changeStatusBar.label          "Guherandina deqa darikê rewşê">
-<!ENTITY changeStatusBar.accesskey      "u">
