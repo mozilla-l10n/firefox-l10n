@@ -132,6 +132,7 @@ can reach it easily. -->
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Bókamerki">
 <!ENTITY bookmarksMenuButton.tooltip "Birta bókamerkin þín">
+<!ENTITY bookmarksMenuButton.unsorted.label "Óröðuð bókamerki">
 <!ENTITY viewBookmarksSidebar.label "Sýna í hliðslá">
 <!ENTITY viewBookmarksToolbar.label "Skoða bókamerkjaslá">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
