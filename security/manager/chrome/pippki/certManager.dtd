@@ -103,7 +103,7 @@
 
 <!ENTITY certmgr.close.label                  "ਬੰਦ ਕਰੋ">
 <!ENTITY certmgr.close.accesskey              "C">
-<!ENTITY certmgr.view2.label                   "ਵੇਖੋ…">
+<!ENTITY certmgr.view2.label                   "…ਵੇਖੋ">
 <!ENTITY certmgr.view2.accesskey               "V">
 <!ENTITY certmgr.edit3.label                  "ਭਰੋਸਾ ਸੋਧ…">
 <!ENTITY certmgr.edit3.accesskey              "E">
@@ -111,17 +111,17 @@
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "ਸ਼ਾਮਲ">
 <!ENTITY certmgr.add.accesskey                "A">
-<!ENTITY certmgr.export.label                 "ਐਕਸਪੋਰਟ…">
+<!ENTITY certmgr.export.label                 "…ਐਕਸਪੋਰਟ">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                 "ਹਟਾਓ…">
+<!ENTITY certmgr.delete2.label                 "…ਹਟਾਓ">
 <!ENTITY certmgr.delete2.accesskey             "D">
 <!ENTITY certmgr.delete_builtin.label         "ਹਟਾਓ ਜਾਂ ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
-<!ENTITY certmgr.backup2.label                 "ਬੈਕਅੱਪ…">
+<!ENTITY certmgr.backup2.label                 "…ਬੈਕਅੱਪ">
 <!ENTITY certmgr.backup2.accesskey             "B">
-<!ENTITY certmgr.backupall2.label              "ਸਭ ਬੈਕਅੱਪ…">
+<!ENTITY certmgr.backupall2.label              "…ਸਭ ਬੈਕਅੱਪ">
 <!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label                "ਇੰਪੋਰਟ…">
+<!ENTITY certmgr.restore2.label                "…ਇੰਪੋਰਟ">
 <!ENTITY certmgr.restore2.accesskey            "m">
 <!ENTITY certmgr.details.label                "ਸਰਟੀਫਿਕੇਟ ਖੇਤਰ">
 <!ENTITY certmgr.details.accesskey            "F">

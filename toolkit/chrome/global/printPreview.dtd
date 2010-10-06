@@ -35,9 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label          "ਪਰਿੰਟ...">
+<!ENTITY print.label          "…ਪਰਿੰਟ">
 <!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "ਪੇਜ਼ ਸੈੱਟਅੱਪ...">
+<!ENTITY pageSetup.label      "…ਪੇਜ਼ ਸੈੱਟਅੱਪ">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "ਪੇਜ਼:">
 <!ENTITY page.accesskey       "a">

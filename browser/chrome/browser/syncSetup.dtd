@@ -7,7 +7,7 @@
 <!ENTITY button.haveAccount.label "ਮੇਰੇ ਕੋਲ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਹੈ">
 
 <!ENTITY setup.choicePage.title.label     "ਕੀ ਤੁਸੀਂ &syncBrand.fullName.label; ਨੂੰ ਪਹਿਲਾਂ ਵਰਤਿਆ ਹੈ?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
+<!ENTITY setup.choicePage.new.label       "ਮੈਂ &syncBrand.shortName.label; ਨੂੰ ਪਹਿਲਾਂ ਕਦੇ ਨਹੀਂ ਵਰਤਿਆ">
 <!ENTITY setup.choicePage.existing.label  "ਮੈਂ ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਉੱਤੇ ਪਹਿਲਾਂ ਹੀ &syncBrand.shortName.label; ਵਰਤ ਰਿਹਾ ਹਾਂ">
 
 <!-- New Account AND Existing Account -->
@@ -63,8 +63,8 @@
 
 <!-- Existing Account Page 2: Sync Key -->
 <!ENTITY setup.existingSyncKeyPage.title "ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਦਿਓ ਜੀ">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. ਇਹ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਵਰਗੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, ਪਰ ਸਰਵਰ ਉੱਤੇ ਸਟੋਰ ਕੀਤਾ ਤੁਹਾਡਾ ਡਾਟਾ ਖਤਮ ਹੋ ਜਾਵੇਗਾ।">
+<!ENTITY setup.existingSyncKeyPage.description "ਸਿੰਕ ਕੁੰਜੀ ਤੁਹਾਡੇ ਲਈ ਤਿਆਰ ਕੀਤੀ ਗਈ ਸੀ ਜਾਂ ਤੁਸੀਂ ਆਪਣੀ ਬਣਾਈ ਸੀ, ਜਦੋਂ &syncBrand.fullName.label; ਲਈ ਸਾਇਨ ਇਨ ਕੀਤਾ ਸੀ। ਇਹ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਵਰਗੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।">
+<!ENTITY existingSyncKeyHelp.description "ਤੁਸੀਂ ਆਪਣੀ ਸੰਭਾਲੀ ਸਿੰਕ ਕੁੰਜੀ ਨੂੰ ਆਪਣੇ ਹੋਰ ਕੰਪਿਊਟਰ ਉੱਤੇ ਜਾ ਕੇ ਸੁਰੱਖਿਆ ਵਿੱਚ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਰਾਹੀਂ ਲੱਭ ਸਕਦੇ ਹੋ। ਜੇ ਤੁਹਾਨੂੰ ਹਾਲੇ ਵੀ ਠੀਕ ਸਿੰਕ ਕੁੰਜੀ ਨਹੀਂ ਮਿਲੀ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਸਰਵਰ ਉੱਤੇ ਸਟੋਰ ਕੀਤਾ ਤੁਹਾਡਾ ਡਾਟਾ ਖਤਮ ਹੋ ਜਾਵੇਗਾ।">
 <!ENTITY lostSyncKey.label            "ਮੈਂ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਗੁਆ ਦਿੱਤੀ ਹੈ">
 <!ENTITY verifying.label              "ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
 

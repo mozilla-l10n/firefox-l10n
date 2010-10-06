@@ -55,10 +55,10 @@
 <!ENTITY  errorpatching.intro             "ਅਧੂਰੇ ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। 
                                             &brandShortName; ਪੂਰੇ ਅੱਪਡੇਟ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰੇਗਾ।">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ਜਾਣਨ ਲਈ ਅਸਮਰੱਥ ਹੈ ਕਿ ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ। ਯਕੀਨੀ ਬਣਾਉ ਕਿ ਤੁਹਾਡੇ ਕੋਲ 
+                                           &brandShortName; ਦਾ ਸਭ ਤੋਂ ਨਵਾਂ ਵਰਜਨ ਹੈ ਤੇ ਉਹ ਇੱਥੋਂ ਲਿਆ ਹੈ:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "ਕੁਝ &brandShortName; ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਰੋਕ ਰਿਹਾ ਹੈ। 
+                                           ਯਕੀਨੀ ਬਣਾਉ ਕਿ ਤੁਹਾਡੇ ਕੋਲ &brandShortName; ਦਾ ਨਵਾਂ ਵਰਜਨ ਹੈ ਤੇ ਉਹ ਇੱਥੋਂ ਲਿਆ ਗਿਆ ਹੈ:">
 
 <!ENTITY  errorCertAttrHasUpdate.label    "ਕੁਝ &brandShortName; ਨੂੰ ਅਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ
                                            ਹੈ। ਆਪਣੇ ਨੈੱਟਵਰਕ ਉਪਲੱਬਧ ਕਰਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰਕੇ ਮੱਦਦ ਲਈ ਪੁੱਛੋ।">

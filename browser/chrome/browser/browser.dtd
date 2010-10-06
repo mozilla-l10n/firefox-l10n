@@ -370,14 +370,14 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
 
-<!ENTITY sendPageCmd.label            "...ਲਿੰਕ ਭੇਜੋ">
+<!ENTITY sendPageCmd.label            "…ਲਿੰਕ ਭੇਜੋ">
 <!ENTITY sendPageCmd.accesskey        "e">
-<!ENTITY savePageCmd.label            "...ਪੇਜ਼ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY savePageCmd.label            "…ਪੇਜ਼ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "...ਫਰੇਮ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY saveFrameCmd.label           "…ਫਰੇਮ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "…ਫਰੇਮ ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printFrameCmd.accesskey      "P">

@@ -26,10 +26,10 @@
 <!ENTITY helpTroubleshootingInfo.label      "ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "...ਸੁਝਾਅ ਭੇਜੋ">
+<!ENTITY helpFeedbackPage.label      "…ਸੁਝਾਅ ਭੇਜੋ">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY updateCmd.label                "...ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
+<!ENTITY updateCmd.label                "…ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
 
 <!ENTITY preferencesCmdMac.label        "ਮੇਰੀ ਪਸੰਦ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
