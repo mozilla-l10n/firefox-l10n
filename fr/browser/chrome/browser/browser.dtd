@@ -148,6 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Marque-pages">
 <!ENTITY bookmarksMenuButton.tooltip        "Afficher les marque-pages">
+<!ENTITY bookmarksMenuButton.unsorted.label "Marque-pages non triés">
 <!ENTITY viewBookmarksSidebar.label         "Afficher le panneau des marque-pages">
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
 
