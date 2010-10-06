@@ -13,6 +13,8 @@
 
 <!ENTITY  manualUpdate.title              "Niewystarczające uprawnienia do aktualizacji">
 <!ENTITY  manualUpdate.desc               "Została udostępniona ważna aktualizacja programu, jednak użytkownik nie posiada wystarczających uprawnień do jej zainstalowania. Należy skontaktować się z administratorem systemu lub spróbować dokonać aktualizacji z konta posiadającego przypisane uprawnienia do instalacji oprogramowania na tym komputerze.">
+<!ENTITY  manualUpdate.space.desc         "Dostępna jest zalecana aktualizacja bezpieczeństwa i stabilności, ale nie ma
+                                           odpowiedniej ilości miejsca na dysku, by ją zainstalować.">
 <!ENTITY  manualUpdateGetMsg.label        "Najnowszą wersję programu &brandShortName; zawsze można pobrać ze strony:">
 
 <!ENTITY  incompatibleCheck.title         "Sprawdzanie kompatybilności dodatków">
