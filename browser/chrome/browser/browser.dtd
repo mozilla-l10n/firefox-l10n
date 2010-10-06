@@ -268,7 +268,7 @@
 <!ENTITY tabCmd.label "Νέα καρτέλα">
 
 
-
+<!ENTITY bookmarksMenuButton.unsorted.label "Αταξινόμητοι σελιδοδείκτες">
 
 <!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
