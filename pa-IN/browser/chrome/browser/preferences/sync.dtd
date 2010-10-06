@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; ਸੈਟਅੱਪ">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਭ ਜੰਤਰਾਂ ਉੱਤੇ ਤੁਹਾਡਾ ਅਤੀਤ, ਬੁੱਕਮਾਕ, ਪਾਸਵਰਡ ਤੇ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਵਰਤਣ ਦਿੰਦਾ ਹੈ।">
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ਅਕਾਊਂਟ">
