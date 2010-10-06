@@ -44,17 +44,12 @@
 
 <!ENTITY  details.link                    "Detalii">
 
-
-
 <!ENTITY  error.label                     "Au apărut probleme la verificarea, descărcarea sau instalarea acestei actualizări. &brandShortName; nu a putut fi actualizat deoarece:">
                                            
 <!ENTITY  errorManual.label               "Puteți actualiza  &brandShortName; manual vizitând această legătură și descărcând ultima versiune:">
                                            
+<!ENTITY  errorpatching.title             "Actualizarea a eșuat">
 <!ENTITY  errorpatching.intro             "Actualizarea parțială nu a putut fi aplicată. &brandShortName; va încerca din nou, de data aceasta descărcând o actualizare completă.">
-
-
-
-
 
 <!ENTITY  finishedPage.title              "Actualizarea este gata de instalare">
 <!ENTITY  finishedPage.text               "Actualizarea va fi instalată la următoarea pornire a &brandShortName;. Puteți 

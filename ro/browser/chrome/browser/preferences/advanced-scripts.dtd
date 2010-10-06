@@ -46,3 +46,7 @@
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "dezactiveze sau să înlocuiască meniuri contextuale">
 <!ENTITY disableContextMenus.accesskey  "d">
+<!ENTITY hideStatusBar.label            "ascundă bara de stare">
+<!ENTITY hideStatusBar.accesskey        "a">
+<!ENTITY changeStatusBar.label          "schimbe textul din bara de stare">
+<!ENTITY changeStatusBar.accesskey      "c">

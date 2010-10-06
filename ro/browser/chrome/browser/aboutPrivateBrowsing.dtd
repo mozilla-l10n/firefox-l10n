@@ -15,10 +15,8 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Pornire navigare fără urme">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-
-
+<!ENTITY privatebrowsingpage.howToStop                 "Pentru a opri navigarea fără urme, alegeți &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; sau închideți &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart                "Pentru a începe navigarea fără urme, puteți selecta &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Cu toate că acest calculator nu va reține istoricul navigării, furnizorul de internet sau angajatorul ar putea totuși să urmărească paginile pe care le vizitați.">
 <!ENTITY privatebrowsingpage.learnMore                 "Află mai multe">

@@ -16,7 +16,6 @@
 
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurație de construcție">
 
-
 <!ENTITY aboutSupport.show.label "Deschide dosarul conținător">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -29,6 +28,8 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsValue "Valoare">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafică">
+<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
+<!ENTITY aboutSupport.graphicsDirect2DEnabled "Direct2D activat">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Istoricul instalării">
 <!ENTITY aboutSupport.updateHistoryTitle "Istoricul actualizărilor">
