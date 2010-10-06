@@ -18,6 +18,8 @@
                                            tarvittavia oikeuksia sen asentamiseen. Ota yhteys järjestelmäsi ylläpitäjään
                                            tai yritä uudelleen käyttäjätilillä, jolla on oikeus asentaa ohjelmia
                                            tietokoneellesi.">
+<!ENTITY  manualUpdate.space.desc         "Suositeltu turvallisuus- ja vakauspäivitys on saatavilla, mutta sen asentamiseen
+                                           ei löydy riittävästi vapaata tilaa.">
 <!ENTITY  manualUpdateGetMsg.label        "Uusin versio &brandShortName;ista on aina saatavilla osoitteesta:">
 
 <!ENTITY  incompatibleCheck.title         "Tarkistetaan lisäosien yhteensopivuutta">
