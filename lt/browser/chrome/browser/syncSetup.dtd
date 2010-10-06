@@ -116,7 +116,7 @@
 
 <!ENTITY choice2.merge.main.label        "Sulieti kompiuteryje laikomus duomenis su „&syncBrand.shortName.label;“ duomenimis">
 <!ENTITY choice2.merge.recommended.label "Rekomenduojama:">
-<!ENTITY choice2.client.main.label       "Pakeisti šiame kompiuteryje turimus duomenis „&syncBrand.fullName.label;“ duomenimis">
+<!ENTITY choice2.client.main.label       "Pakeisti šiame kompiuteryje turimus duomenis „&syncBrand.shortName.label;“ duomenimis">
 <!ENTITY choice2.server.main.label       "Pakeisti kituose įrenginiuose laikomus duomenis esančiais šiame kompiuteryje">
 
 <!-- Confirm Merge Options -->
