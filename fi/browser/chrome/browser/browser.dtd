@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Kirjanmerkit">
 <!ENTITY bookmarksMenuButton.tooltip        "Näytä kirjanmerkit">
+<!ENTITY bookmarksMenuButton.unsorted.label "Järjestelemättömät kirjanmerkit">
 <!ENTITY viewBookmarksSidebar.label         "Avaa sivupalkkiin">
 <!ENTITY viewBookmarksToolbar.label         "Näytä kirjanmerkkipalkki">
 
