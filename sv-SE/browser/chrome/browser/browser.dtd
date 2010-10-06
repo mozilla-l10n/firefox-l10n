@@ -180,6 +180,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Bokmärken">
 <!ENTITY bookmarksMenuButton.tooltip        "Visar dina bokmärken">
+<!ENTITY bookmarksMenuButton.unsorted.label "Osorterade bokmärken">
 <!ENTITY viewBookmarksSidebar.label         "Visa i sidofältet">
 <!ENTITY viewBookmarksToolbar.label         "Visa Bokmärkesfältet">
 
