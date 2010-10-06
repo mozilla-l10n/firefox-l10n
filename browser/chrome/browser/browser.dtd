@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Blêdwizers">
 <!ENTITY bookmarksMenuButton.tooltip        "Jo blêdwizers toane">
+<!ENTITY bookmarksMenuButton.unsorted.label "Net sortearre blêdwizers">
 <!ENTITY viewBookmarksSidebar.label         "Toan yn sidebalke">
 <!ENTITY viewBookmarksToolbar.label         "Toan blêdwizers arkbalke">
 
