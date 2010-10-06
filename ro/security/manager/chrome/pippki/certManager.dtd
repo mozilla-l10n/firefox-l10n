@@ -105,8 +105,6 @@
 <!ENTITY certmgr.close.accesskey              "c">
 <!ENTITY certmgr.view2.label                  "Vizualizează">
 <!ENTITY certmgr.view2.accesskey              "V">
-
-
 <!ENTITY certmgr.editca.label                 "Editează acreditare AC">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Adaugă">
@@ -115,8 +113,6 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Șterge…">
 <!ENTITY certmgr.delete2.accesskey            "g">
-
-
 <!ENTITY certmgr.backup2.label                "Salvează">
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Salvează tot">

@@ -5,7 +5,6 @@
 <!ENTITY organize.label        "Organizare">
 <!ENTITY organize.accesskey    "O">
 
-
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Închide">
 <!ENTITY file.close.accesskey           "c">
@@ -14,7 +13,6 @@
 <!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Vederi">
 <!ENTITY views.accesskey                "V">
-
 <!ENTITY view.columns.label             "Arată coloane">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Sortează">
@@ -109,7 +107,6 @@
 
 <!ENTITY maintenance.label      "Import și export">
 <!ENTITY maintenance.accesskey  "I">
-
 
 <!ENTITY backCmd.label       "Înapoi">
 <!ENTITY backButton.tooltip  "Mergi înapoi">

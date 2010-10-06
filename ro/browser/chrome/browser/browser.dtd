@@ -24,15 +24,6 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
-
-
-
-
-
-
-
-
 <!ENTITY  bookmarkAllTabs.label              "Pune semne de carte la toate filele...">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Anulează închiderea filei">
@@ -71,8 +62,6 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elemente pe bara pentru semne de carte">
 
-
-
 <!ENTITY pageSourceCmd.label "Sursă pagină">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -103,7 +92,6 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Abonare la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină...">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele...">
-
 <!ENTITY bookmarkAllCmd.label "Semne de carte la toate filele...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
@@ -132,12 +120,7 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Semne de carte">
 
 <!-- Toolbar items --> 
-
-
 <!ENTITY homeButton.label             "Acasă">
-
-
-
 
 
 <!ENTITY feedButton.tooltip           "Abonare la această pagină...">
@@ -183,8 +166,6 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey    "e">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-
-
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspectează">
@@ -192,21 +173,11 @@ can reach it easily. -->
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-
-
-
-
-
-
-
-
 <!ENTITY inspectStylePanelTitle.label  "Stil">
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-
-
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -254,8 +225,6 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Vizualizare"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-
-
 <!ENTITY viewToolbarsMenu.label       "Bare de unelte"> 
 <!ENTITY viewToolbarsMenu.accesskey     "B"> 
 <!ENTITY viewSidebarMenu.label "Bară laterală">
@@ -271,21 +240,13 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ferestre închise recent">
 
-
 <!ENTITY historyHomeCmd.label "Acasă">
 <!ENTITY showAllHistoryCmd2.label "Arată tot istoricul">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-
 <!ENTITY appMenuCustomize.label "Personalizare">
 <!ENTITY appMenuToolbarLayout.label "Aranjamentul barei de unelte…">
 <!ENTITY appMenuSidebars.label "Bare laterale">
-
-
-
-
-
-
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Du-te la saitul web">
@@ -459,9 +420,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullScreenButton.tooltip       "Arată fereastra pe întreg ecranul">
 
 
-
-
-
 <!ENTITY quitApplicationCmdWin.label       "Ieșire"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "e">
 <!ENTITY goBackCmd.commandKey "[">
@@ -544,11 +502,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 
-
 <!ENTITY syncBrand.shortName.label    "Sincronizare">
 
 <!ENTITY syncSetup.label              "Setați &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "S">
 <!ENTITY syncSyncNowItem.label        "Sincronizează acum">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-

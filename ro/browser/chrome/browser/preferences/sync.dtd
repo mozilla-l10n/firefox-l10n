@@ -6,7 +6,6 @@
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Cont &syncBrand.fullName.label;">
 
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Actualizează">
 <!ENTITY resetPass.label              "Resetează">
@@ -14,27 +13,13 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gestionează contul">
 <!ENTITY manageAccount.accesskey      "a">
-
 <!ENTITY changePassword.label         "Schimbare parolă">
-
 <!ENTITY resetSync.label              "Resetează sincronizarea">
-
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sincronizare cu navigatorul">
 <!ENTITY syncComputerName.label       "Nume calculator:">
 <!ENTITY syncComputerName.accesskey   "c">
-
-
-
-
-
-
-
-
-
-
-
 
 
 

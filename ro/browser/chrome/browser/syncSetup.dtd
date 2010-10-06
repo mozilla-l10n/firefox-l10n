@@ -3,30 +3,15 @@
 <!-- First page of the wizard -->
 
 
-
-
-
 <!ENTITY setup.choicePage.title.label     "Ați mai folosit &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "N-am mai folosit niciodată &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label  "Folosesc deja &syncBrand.shortName.label; pe alt calculator">
 
 <!-- New Account AND Existing Account -->
-
 <!ENTITY serverType.main.label      "Server &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "Folosește un server personalizat">
 
-
-
-
-
-
-
 <!-- New Account Page 1: Basic Account Info -->
-
-
-
-
-
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Sunt de acord cu">
@@ -40,20 +25,7 @@
 <!-- New Account Page 2: Sync Key -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- New Account Page 3: Captcha -->
-
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Introduceți informațiile despre cont">
@@ -61,36 +33,13 @@
 <!ENTITY connecting.label             "Conectare…">
 
 <!-- Existing Account Page 2: Sync Key -->
-
-
-
-
 <!ENTITY verifying.label              "Se verifică…">
 
 <!-- Sync Options -->
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Confirm Merge Options -->
-
 <!ENTITY confirm.merge.label    "Ați ales să combinați datele de pe acest calculator cu datele de pe alte dispozitive care rulează &syncBrand.fullName.label;.">
 <!ENTITY confirm.client.label         "Toate datele &brandShortName; de pe acest calculator vor fi șterse, inclusiv următoarele:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; va copia apoi datele din &syncBrand.fullName.label; pe acest calculator.">
@@ -99,6 +48,3 @@
 <!ENTITY confirm.server.warning.label "AVERTISMENT: Datele dumneavoastră locale din &brandShortName; vor înlocui datele de pe aceste dispozitive!">
 
 <!-- New & Existing Account: Setup Complete -->
-
-
-

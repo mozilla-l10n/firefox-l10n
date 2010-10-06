@@ -17,8 +17,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Folosește derularea lină">
 <!ENTITY useSmoothScrolling.accesskey    "l">
-
-
 <!ENTITY checkSpelling.label             "Verfică ortografia în timp ce tastez">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -46,13 +44,8 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
-
-
 <!ENTITY clearCacheNow.label             "Curăță acum">
 <!ENTITY clearCacheNow.accesskey         "C">
-
-
 
 <!ENTITY updateTab.label                 "Actualizare">
 
