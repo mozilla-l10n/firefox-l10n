@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Bokmerker">
 <!ENTITY bookmarksMenuButton.tooltip        "Vis mine bokmerker">
+<!ENTITY bookmarksMenuButton.unsorted.label "Usorterte bokmerker">
 <!ENTITY viewBookmarksSidebar.label         "Vis i sidestolpen">
 <!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
 
