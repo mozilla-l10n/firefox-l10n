@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Lesezeichen">
 <!ENTITY bookmarksMenuButton.tooltip        "Lesezeichen anzeigen">
+<!ENTITY bookmarksMenuButton.unsorted.label "Unsortierte Lesezeichen">
 <!ENTITY viewBookmarksSidebar.label         "In der Sidebar anzeigen">
 <!ENTITY viewBookmarksToolbar.label         "Lesezeichen-Symbolleiste anzeigen">
 
