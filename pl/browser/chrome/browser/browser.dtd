@@ -159,6 +159,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Zakładki">
 <!ENTITY bookmarksMenuButton.tooltip        "Wyświetl zakładki">
+<!ENTITY bookmarksMenuButton.unsorted.label "Zakładki nieprzypisane">
 <!ENTITY viewBookmarksSidebar.label         "Wyświetl w panelu bocznym">
 <!ENTITY viewBookmarksToolbar.label         "Wyświetl pasek zakładek">
 
