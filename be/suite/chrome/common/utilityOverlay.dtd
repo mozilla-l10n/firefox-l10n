@@ -31,6 +31,8 @@
 <!ENTITY pasteCmd.label "Уставіць">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "у">
+<!ENTITY pasteGoCmd.label "Уставіць і пайсці">
+<!ENTITY pasteGoCmd.accesskey "п">
 <!ENTITY deleteCmd.label "Выдаліць">
 <!ENTITY deleteCmd.accesskey "д">
 <!ENTITY selectAllCmd.label "Вылучыць усё">

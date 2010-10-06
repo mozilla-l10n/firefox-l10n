@@ -117,6 +117,7 @@
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Закладкі">
 <!ENTITY bookmarksMenuButton.tooltip "Паказаць вашы закладкі">
+<!ENTITY bookmarksMenuButton.unsorted.label "Неразмеркаваныя закладкі">
 <!ENTITY viewBookmarksSidebar.label "Паказаць на палічцы">
 <!ENTITY viewBookmarksToolbar.label "Паказаць прыладапаліцу закладак">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
