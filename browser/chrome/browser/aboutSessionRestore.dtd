@@ -11,8 +11,6 @@
 <!ENTITY restorepage.tryagainButton "Restaurează">
 <!ENTITY restorepage.restore.access "R">
 
-
-
 <!ENTITY restorepage.restoreHeader  "Restaurează">
 <!ENTITY restorepage.listHeader     "Ferestre și file">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
