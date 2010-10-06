@@ -180,6 +180,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Adresynas">
 <!ENTITY bookmarksMenuButton.tooltip        "Rodyti tinklalapių adresyną">
+<!ENTITY bookmarksMenuButton.unsorted.label "Nerūšiuoti adresai">
 <!ENTITY viewBookmarksSidebar.label         "Rodyti parankinėje">
 <!ENTITY viewBookmarksToolbar.label         "Rodyti adresyno juostą">
 
