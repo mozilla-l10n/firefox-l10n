@@ -28,6 +28,7 @@
 <!ENTITY openLinkCmdInCurrent.label     "Atvērt saiti">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
 
+<!ENTITY bookmarksMenuButton.unsorted.label "Nešķirotās grāmatzīmes">
 <!ENTITY bookmarkAllTabs.label "Saglabāt visas cilnes grāmatzīmēs...">
 <!ENTITY bookmarkAllTabs.accesskey "T">
 <!ENTITY closeTab.label "Aizvērt cilni">
