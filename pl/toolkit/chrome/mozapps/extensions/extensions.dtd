@@ -99,8 +99,8 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Czym są dodatki?">
-<!ENTITY discover.description                 "Dodatki to programy, które pozwalają dostosować Firefoksa do upodobań użytkownika dzięki nowej funkcjonalności lub innemu wyglądowi.
- Wypróbuj pasek boczny oszczędzający czas, powiadomienia o pogodzie albo nowy motyw graficzny Twojej przeglądarki.">
+<!ENTITY discover.description2                "Dodatki to programy, które pozwalają dostosować program &brandShortName; do upodobań użytkownika dzięki nowej funkcjonalności lub innemu wyglądowi.
+ Wypróbuj pasek boczny oszczędzający czas, powiadomienia o pogodzie albo nowy motyw graficzny.">
 <!ENTITY discover.footer                      "Kiedy dostępne jest połączenie z Internetem, ten panel będzie
  wyświetlał najnowsze i najpopularniejsze dodatki, które warto wypróbować.">
 
