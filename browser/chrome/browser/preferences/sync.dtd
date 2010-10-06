@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Cont &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Current Account:">
+
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Actualizează">
@@ -14,28 +14,28 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gestionează contul">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "View Quota">
+
 <!ENTITY changePassword.label         "Schimbare parolă">
-<!ENTITY mySyncKey.label              "My Sync Key">
+
 <!ENTITY resetSync.label              "Resetează sincronizarea">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sincronizare cu navigatorul">
 <!ENTITY syncComputerName.label       "Nume calculator:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "s">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- Footer stuff -->
