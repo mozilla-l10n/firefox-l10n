@@ -150,6 +150,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Bladwijzers">
 <!ENTITY bookmarksMenuButton.tooltip        "Uw bladwijzers weergeven">
+<!ENTITY bookmarksMenuButton.unsorted.label "Ongesorteerde bladwijzers">
 <!ENTITY viewBookmarksSidebar.label         "In zijbalk tonen">
 <!ENTITY viewBookmarksToolbar.label         "Bladwijzerwerkbalk bekijken">
 
