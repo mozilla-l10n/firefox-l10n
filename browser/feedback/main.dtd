@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label "Test Pilot">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label "Stillingar">
 <!ENTITY testpilot.settings.dataSubmission.label "Gagnasendingar">
 <!ENTITY testpilot.settings.notifications.label "Tilkynningar">

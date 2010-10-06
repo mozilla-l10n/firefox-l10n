@@ -1,12 +1,47 @@
 <!ENTITY aboutDialog.title "Um &brandFullName;">
-<!ENTITY copyright "Þakkir">
-<!ENTITY copyright.accesskey "Þ">
-<!ENTITY copyrightGNOME.accesskey "r">
-<!ENTITY aboutLink "&lt; Um &brandFullName;">
-<!ENTITY aboutLink.accesskey "U">
-<!ENTITY aboutVersion "útgáfa">
-<!ENTITY closeCmdGNOME.label "Loka">
-  
-<!ENTITY closeCmdGNOME.accesskey "L">
-<!ENTITY licenseLinkText "Leyfisupplýsingar">
-<!ENTITY licenseLinkSuffix ".">
+<!ENTITY community.start2 "&brandShortName; er hannað af ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink "alheimssamfélag">
+<!ENTITY community.end2 " sem vinnur að því að gera Netið betra. Við trúum á það að Netið ætti að vera frjáls, opið, og aðgengilegt öllum án takmarkana.">
+<!ENTITY contribute.start "Hljómar þetta vel? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Taktu þátt!">
+<!ENTITY contribute.end "">
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license "Leyfisupplýsingar">
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights "Notendaréttindi">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy "Meðferð persónuupplýsinga">
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates "Athuga með uppfærslur…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Athuga samhæfni viðbótar…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound "&brandShortName; er uppfært">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled "Uppfærslur hafa verið gerðar óvirkar af kerfistjóra">
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start "Uppfærsla mistókst. ">
+<!ENTITY update.failed.linkText "Niðurhala nýjustu útgáfu">
+<!ENTITY update.failed.end "">
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start "Uppfærslur eru fáanlegar frá ">
+<!ENTITY update.manual.end "">
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start "Niðurhala uppfærslu — ">
+<!ENTITY update.downloading.end "">

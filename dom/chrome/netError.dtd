@@ -18,6 +18,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Vafrinn gat tengst, en tenging var rofin meðan verið var að senda upplýsingar.  Reyndu aftur.</p><ul><li>Geturðu ekki tengst við önnur svæði?  Athugaðu netstillingar tölvu.</li><li>Ennþá vandamál? Hafðu samband við kerfisstjóra eða netaðila fyrir hjálp.</li></ul>">
 <!ENTITY netOffline.title "Ónettengdur hamur">
 <!ENTITY netOffline.longDesc "<p>Vafrinn er í ónettengdum ham og getur ekki náð í umbeðinn hlut.</p><ul><li>Er tölvan tengd við virkt net?</li><li>Settu vafra í tengdan ham og reyndu aftur.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Vafrinn er í ónettengdum ham og getur ekki náð í umbeðinn hlut.</p><ul><li>Er tölvan tengd við virkt net?</li><li>Settu vafra í nettengdan ham og reyndu aftur.</li></ul>">
 <!ENTITY contentEncodingError.title "Kóðunarvilla">
 <!ENTITY contentEncodingError.longDesc "<p>Ekki er hægt að sýna síðuna sem þú ert að reyna að skoða því hún notar ógilda eða óstudda þjöppun.</p><ul><li>Hafðu samband við vefstjóra vefsvæðisins og láttu hann vita af þessu vandamáli.</li></ul>">
 <!ENTITY unsafeContentType.title "Óörugg skráartegund">

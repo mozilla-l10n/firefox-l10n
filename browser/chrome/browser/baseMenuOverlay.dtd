@@ -19,6 +19,8 @@
 <!ENTITY helpForIEUsers.label "Fyrir notendur Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
+<!ENTITY helpSafeMode.label "Endurræsa með viðbætur óvirkar…">
+<!ENTITY helpSafeMode.accesskey "r">
 <!ENTITY helpReleaseNotes.label "Útgáfuupplýsingar">
 <!ENTITY helpReleaseNotes.accesskey "g">
 <!ENTITY helpTroubleshootingInfo.label "Upplýsingar fyrir úrræðaleit">

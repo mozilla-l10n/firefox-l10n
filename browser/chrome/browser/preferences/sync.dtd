@@ -4,17 +4,18 @@
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; gerir þér kleift að fá aðgang að ferli, bókamerkjum, lykilorðum og opnum flipum frá öllum þínum tölvum og tækjum.">
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; aðgangur">
-<!ENTITY currentUser.label "Núverandi notandi:">
+<!ENTITY currentAccount.label "Núverandi aðgangur:">
 <!-- Login error feedback -->
 <!ENTITY updatePass.label "Uppfæra">
 <!ENTITY resetPass.label "Frumstilla">
 <!-- Manage Account -->
 <!ENTITY manageAccount.label "Sýsla með aðgang">
 <!ENTITY manageAccount.accesskey "a">
+<!ENTITY viewQuota.label "Skoða kvóta">
 <!ENTITY changePassword.label "Breyta lykilorði">
 <!ENTITY mySyncKey.label "Sync lykillinn minn">
 <!ENTITY resetSync.label "Endurstilla Sync">
-<!ENTITY differentAccount.label "Nota annan aðgang">
+<!ENTITY stopUsingAccount.label "Hætta að nota þennan aðgang">
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label "Samstilla vafra">
 <!ENTITY syncComputerName.label "Tölvuheiti:">

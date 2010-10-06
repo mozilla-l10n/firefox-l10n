@@ -32,16 +32,18 @@
 <!ENTITY connectionSettings.accesskey "t">
 <!ENTITY offlineStorage.label "Ónettengd geymsla">
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label "Nota að hámarki">
-<!ENTITY useCacheBefore.accesskey "N">
-<!ENTITY useCacheAfter.label "MB af plássi fyrir flýtiminni">
+<!ENTITY limitCacheSizeBefore.label "Takmarka skyndiminni við">
+<!ENTITY limitCacheSizeBefore.accesskey "T">
+<!ENTITY limitCacheSizeAfter.label "MB af plássi">
 <!ENTITY clearCacheNow.label "Hreinsa núna">
 <!ENTITY clearCacheNow.accesskey "H">
+<!ENTITY overrideSmartCacheSize.label "Hunsa sjálfvirka umsýslu skyndiminnis">
+<!ENTITY overrideSmartCacheSize.accesskey "H">
 <!ENTITY updateTab.label "Uppfærslur">
 <!ENTITY autoCheck.label "Athuga sjálfvirkt uppfærslur fyrir:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
