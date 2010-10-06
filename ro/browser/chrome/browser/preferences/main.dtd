@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Arată pagina mea de start">
 <!ENTITY startupBlankPage.label    "Arată o pagină goală">
 <!ENTITY startupLastSession.label  "Arată ferestrele și filele de ultima dată">
-
-
+<!ENTITY homepage.label            "Home Page:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Folosește pagina curentă">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Folosește paginile curente">
