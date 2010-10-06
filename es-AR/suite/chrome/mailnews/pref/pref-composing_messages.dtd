@@ -36,43 +36,43 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.composing.messages.title        "Composition">
+<!ENTITY pref.composing.messages.title        "Redacción">
 <!ENTITY generalComposing.label               "General">
-<!ENTITY forwardMsg.label                     "Forward messages:">
+<!ENTITY forwardMsg.label                     "Reenviar mensajes:">
 <!ENTITY inline.label                         "Inline">
 <!ENTITY inline.accesskey                     "n">
-<!ENTITY asAttachment.label                   "As Attachment">
-<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY asAttachment.label                   "Como adjunto">
+<!ENTITY asAttachment.accesskey               "a">
 
-<!ENTITY replyQuoteInline.label               "Quote attachments viewed inline in replies">
-<!ENTITY replyQuoteInline.accesskey           "Q">
-<!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
-<!ENTITY warnOnSendAccelKey.accesskey         "k">
+<!ENTITY replyQuoteInline.label               "Los adjuntos citados se ven dentro del documento en las respuestas">
+<!ENTITY replyQuoteInline.accesskey           "L">
+<!ENTITY warnOnSendAccelKey.label             "Confirmar cuando se usan atajos de teclados para enviar mensajes">
+<!ENTITY warnOnSendAccelKey.accesskey         "s">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->
-<!ENTITY autoSave.label                       "Automatically save the message every">
+<!ENTITY autoSave.label                       "Guardar el mensaje automáticamente cada">
 <!ENTITY autoSave.accesskey                   "u">
-<!ENTITY autoSaveEnd.label                    "minutes">
+<!ENTITY autoSaveEnd.label                    "minutos">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Wrap plain text messages at">
-<!ENTITY wrapOutMsg.accesskey                 "W">
-<!ENTITY char.label                           "characters">
+<!ENTITY wrapOutMsg.label                     "Cortar mensajes de texto simple a los">
+<!ENTITY wrapOutMsg.accesskey                 "C">
+<!ENTITY char.label                           "caracteres">
 
-<!ENTITY spellingHeader.label                 "Spelling">
-<!ENTITY spellCheck.label                     "Check spelling before sending">
-<!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Check spelling as you type">
+<!ENTITY spellingHeader.label                 "Ortografía">
+<!ENTITY spellCheck.label                     "Verificar ortografía antes de enviar">
+<!ENTITY spellCheck.accesskey                 "o">
+<!ENTITY spellCheckInline.label               "Verificar ortografía al tipear">
 <!ENTITY spellCheckInline.accesskey           "e">
-<!ENTITY languagePopup.label                  "Language:">
-<!ENTITY languagePopup.accessKey              "g">
-<!ENTITY moreDictionaries.label               "Download more dictionaries…">
+<!ENTITY languagePopup.label                  "Idioma:">
+<!ENTITY languagePopup.accessKey              "I">
+<!ENTITY moreDictionaries.label               "Descargar más diccionarios…">
 
-<!ENTITY defaultMessagesHeader.label          "Defaults for HTML Messages">
-<!ENTITY font.label                           "Font:">
-<!ENTITY font.accesskey                       "F">
-<!ENTITY size.label                           "Size:">
-<!ENTITY size.accesskey                       "S">
-<!ENTITY fontColor.label                      "Text:">
+<!ENTITY defaultMessagesHeader.label          "Predeterminados para mensajes HTML">
+<!ENTITY font.label                           "Tipografía:">
+<!ENTITY font.accesskey                       "r">
+<!ENTITY size.label                           "Tamaño:">
+<!ENTITY size.accesskey                       "m">
+<!ENTITY fontColor.label                      "Texto:">
 <!ENTITY fontColor.accesskey                  "T">
-<!ENTITY bgColor.label                        "Background:">
-<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY bgColor.label                        "Fondo:">
+<!ENTITY bgColor.accesskey                    "F">

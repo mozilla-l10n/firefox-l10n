@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY chooseAddressBook.label                "Add to: ">
-<!ENTITY chooseAddressBook.accesskey            "t">
+<!ENTITY chooseAddressBook.label                "Agregar a: ">
+<!ENTITY chooseAddressBook.accesskey            "g">

@@ -45,9 +45,9 @@
 -->
 
 <!ENTITY download.label     "Descargar">
-<!ENTITY download.accesskey "o">
+<!ENTITY download.accesskey "s">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "encabezados">
-<!ENTITY headers.accesskey  "h">
+<!ENTITY headers.accesskey  "e">
 <!ENTITY mark.label         "Marcar los encabezados restantes como leídos">
 <!ENTITY mark.accesskey     "M">

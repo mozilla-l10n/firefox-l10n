@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Junk Settings">
-<!ENTITY trainingWarning.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages.">
-<!ENTITY level.label "Enable adaptive junk mail controls for this account">
-<!ENTITY level.accesskey "E">
+<!ENTITY junkSettings.label "Opciones de correo basura">
+<!ENTITY trainingWarning.label "Si se habilita, primero debe entrenar el &brandShortName; para identificar el correo basura usando el botón Basura para marcar los mensajes. Necesita identificar tanto los mensajes que sean basura como los que no lo sean.">
+<!ENTITY level.label "Habilitar controles adaptivos de basura para esta cuenta">
+<!ENTITY level.accesskey "e">
 
-<!ENTITY move.label "Move new junk messages to:">
+<!ENTITY move.label "Mover nuevos mensajes basura a:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
-<!ENTITY junkFolderOn.accesskey "J">
-<!ENTITY otherFolder.label "Other:">
-<!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "Automatically delete junk mail older than">
-<!ENTITY purge1.accesskey "u">
-<!ENTITY purge2.label "days">
+<!ENTITY junkFolderOn.label "Carpeta &quot;Basura&quot; en:">
+<!ENTITY junkFolderOn.accesskey "u">
+<!ENTITY otherFolder.label "Otro:">
+<!ENTITY otherFolder.accesskey "r">
+<!ENTITY purge1.label "Automáticamente borrar correo basura de más de">
+<!ENTITY purge1.accesskey "A">
+<!ENTITY purge2.label "días">
 
-<!ENTITY whitelist.label "Do not mark mail as junk if the sender is in: ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelist.label "No marcar el correo como basura si el remitente está en: ">
+<!ENTITY whitelist.accesskey "N">
 
-<!ENTITY ispHeaders.label "Trust junk mail headers set by: ">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeaders.label "Confiar en los encabezados de basura de: ">
+<!ENTITY ispHeaders.accesskey "C">

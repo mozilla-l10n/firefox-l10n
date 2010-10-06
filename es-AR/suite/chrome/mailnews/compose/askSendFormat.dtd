@@ -1,16 +1,16 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
-<!ENTITY windowTitle.label "HTML Mail Question">
+<!ENTITY windowTitle.label "Pregunta: Correo HTML">
 
-<!ENTITY recipient.label "Some of the recipients are not listed as being able to receive HTML mail.">
+<!ENTITY recipient.label "Algunos de los destinatarios no están listados como capaces de recibir correo HTML.">
 
-<!ENTITY question.label "Would you like to convert the message to plain text or send it in HTML anyway?">
+<!ENTITY question.label "¿Quiere convertir el mensaje a texto sin formato o enviarlo en HTML de todas formas?">
 
-<!ENTITY plainTextAndHtml.label "Send in Plain Text and HTML">
+<!ENTITY plainTextAndHtml.label "Enviar como texto sin formato y HTML">
 <!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.label "Send in Plain Text Only">
-<!ENTITY plainTextOnly.accesskey "P">
-<!ENTITY htmlOnly.label "Send in HTML Only">
+<!ENTITY plainTextOnly.label "Enviar solamente como texto sin formato">
+<!ENTITY plainTextOnly.accesskey "E">
+<!ENTITY htmlOnly.label "Enviar solamente en HTML">
 <!ENTITY htmlOnly.accesskey "H">
 
-<!ENTITY send.label "Send">
-<!ENTITY send.accesskey "S">
+<!ENTITY send.label "Enviar">
+<!ENTITY send.accesskey "E">

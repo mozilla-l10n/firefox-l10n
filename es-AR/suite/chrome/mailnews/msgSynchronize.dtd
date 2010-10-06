@@ -1,19 +1,19 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "Download and Sync Messages">
-<!ENTITY MsgSelect.label "Items for Offline Use">
-<!ENTITY MsgSyncDesc.label "If you have already selected mail folders or newsgroups for offline use, you can download and/or sync them now. Otherwise, use the &quot;Select&quot; button to choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSyncDirections.label "Download and/or sync the following:">
-<!ENTITY syncTypeMail.label "Mail messages">
+<!ENTITY MsgSynchronize.label "Descargar y sincronizar mensajes">
+<!ENTITY MsgSelect.label "Elementos para usar sin conexión">
+<!ENTITY MsgSyncDesc.label "Si ya ha seleccionado las carpetas de correo o grupos de noticias para usar sin conexión, puede descargarlas y/o sincronizarlas ahora. Si no, utilice el botón &quot;Seleccionar&quot; para elegir las carpetas de correo y noticias que quiera utilizar sin conexión.">
+<!ENTITY MsgSyncDirections.label "Descargar y/o sincronizar lo siguiente:">
+<!ENTITY syncTypeMail.label "Mensajes de correo">
 <!ENTITY syncTypeMail.accesskey "M">
-<!ENTITY syncTypeNews.label "Newsgroup messages">
-<!ENTITY syncTypeNews.accesskey "N">
-<!ENTITY sendMessage.label "Send Unsent messages">
-<!ENTITY sendMessage.accesskey "S">
-<!ENTITY workOffline.label "Work offline once download and/or sync is complete">
-<!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "Select…">
-<!ENTITY selectButton.accesskey "E">
-<!ENTITY MsgSelectDesc.label "Choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSelectInd.label "Download">
-<!ENTITY MsgSelectItems.label "Folders and Newsgroups">
+<!ENTITY syncTypeNews.label "Mensajes de grupos de noticias">
+<!ENTITY syncTypeNews.accesskey "n">
+<!ENTITY sendMessage.label "Enviar mensajes pendientes">
+<!ENTITY sendMessage.accesskey "s">
+<!ENTITY workOffline.label "Trabajar sin conexión al completar la descarga y/o sincronización">
+<!ENTITY workOffline.accesskey "T">
+<!ENTITY selectButton.label "Seleccionar…">
+<!ENTITY selectButton.accesskey "e">
+<!ENTITY MsgSelectDesc.label "Seleccionar las carpetas de correo y noticias para usar sin conexión.">
+<!ENTITY MsgSelectInd.label "Descargar">
+<!ENTITY MsgSelectItems.label "Carpetas y grupos de noticias">
