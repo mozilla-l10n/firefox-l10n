@@ -45,7 +45,3 @@
 <!ENTITY raiseLowerWindows.accesskey "k">
 <!ENTITY disableContextMenus.label "Slökkva á eða koma með nýjar smellivalmyndir">
 <!ENTITY disableContextMenus.accesskey "S">
-<!ENTITY hideStatusBar.label "Fela stöðuslá">
-<!ENTITY hideStatusBar.accesskey "ð">
-<!ENTITY changeStatusBar.label "Breyta texta á stöðuslá">
-<!ENTITY changeStatusBar.accesskey "B">

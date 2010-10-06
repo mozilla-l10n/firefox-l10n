@@ -11,8 +11,8 @@
 <!ENTITY server.label "Netþjónn">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; netþjónn">
 <!ENTITY serverType.custom.label "Nota sérsniðinn netþjón">
-<!ENTITY signIn.username.label "Notandanafn">
-<!ENTITY signIn.username.accesskey "N">
+<!ENTITY signIn.account.label "Tölvupóstfang / Notandanafn">
+<!ENTITY signIn.account.accesskey "T">
 <!ENTITY signIn.password.label "Lykilorð">
 <!ENTITY signIn.password.accesskey "L">
 <!ENTITY signIn.serverURL.label "Slóð þjóns">
@@ -38,15 +38,13 @@
 <!ENTITY syncKeyEntry.label "Sync lykillinn þinn">
 <!ENTITY syncKeyEntry.accesskey "k">
 <!ENTITY syncKeyGenerate.label "Búa til">
+<!ENTITY syncKeyStrength.label "Styrkur:">
+<!ENTITY syncKeyHelp.label "Hvað þýðir styrkur?">
 <!ENTITY syncKeyBackup.description "Þú þarft að hafa Sync lykilinn þinn til að fá aðgang að &syncBrand.fullName.label; á öðrum tölvum. Vinsamlega búðu til afrit af lyklinum. Við getum ekki hjálpað þér að endurheimta Sync lykilinn þinn.">
-<!ENTITY button.syncKeyBackup.email.label "Tölvupóstfang…">
-<!ENTITY button.syncKeyBackup.email.accesskey "T">
 <!ENTITY button.syncKeyBackup.print.label "Prenta…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label "Vista…">
 <!ENTITY button.syncKeyBackup.save.accesskey "s">
-<!ENTITY page.syncKeyBackup.title "Firefox Sync lykillinn þinn">
-<!ENTITY page.syncKeyBackup.descr "Þessi leynilykill er notaður til að dulkóða persónuleg gögn. Hann er ekki sendur yfir á netþjóninn og ekki er hægt að endurheimta hann. Ekki týna honum eða deila honum með öðrum.">
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label "Staðfestu að þú sért ekki vélmenni">
 <!-- Existing Account Page 1: Login -->

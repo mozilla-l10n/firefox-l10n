@@ -1,5 +1,5 @@
 <!ENTITY brandShortName "Firefox">
 <!ENTITY brandFullName "Mozilla Firefox">
 <!ENTITY vendorShortName "Mozilla">
-<!-- LOCALIZATION NOTE (trademarkInfo): note that there is no space between licenseLinkText (and its trailing licenseLinkSuffix entity) and this entity, so if your locale needs a space between sentences, you need to put it at the start of this entity. -->
-<!ENTITY trademarkInfo " Firefox og Firefox fyrirtækismerkið eru vörumerki Mozilla stofnunarinnar. Sum vörumerki eru notuð með leyfi frá Charlton fyrirtækinu.">
+<!ENTITY trademarkInfo.part1 "Firefox og Firefox táknmyndirnar eru vörumerki Mozilla stofnunarinnar.">
+<!ENTITY trademarkInfo.part2 "Sum vörumerkjanna eru notaðar með leyfi frá Charlton fyrirtækinu.">

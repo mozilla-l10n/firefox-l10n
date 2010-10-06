@@ -7,8 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label "Athuga með uppfærslur">
 <!ENTITY listEmpty.search.label "Fann ekki viðbætur sem pössuðu">
 <!ENTITY listEmpty.button.label "Fræðast meira um viðbætur">
-<!ENTITY installFromFile.label "Setja inn frá skrá…">
-<!ENTITY installFromFile.accesskey "i">
+<!ENTITY installAddonFromFile.label "Setja inn viðbót frá skrá…">
+<!ENTITY installAddonFromFile.accesskey "i">
+<!ENTITY toolsMenu.tooltip "Verkfæri fyrir allar viðbætur">
 <!ENTITY cmd.back.tooltip "Til baka um eina síðu">
 <!ENTITY cmd.forward.tooltip "Áfram um eina síðu">
 <!-- global warnings -->
@@ -29,15 +30,17 @@
 <!ENTITY view.plugins.label "Tengiforrit">
 <!ENTITY view.recentUpdates.label "Nýlegar uppfærslur">
 <!ENTITY view.availableUpdates.label "Fáanlegar uppfærslur">
-<!ENTITY view.utilites.preferences.tooltip "Valkostir fyrir allar viðbætur">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Valkostir fyrir allar viðbætur">
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label "Uppfæra viðbætur núna">
-<!ENTITY updates.updateAddonsNow.accesskey "U">
+<!ENTITY updates.checkForUpdates.label "Leita að uppfærslum">
+<!ENTITY updates.checkForUpdates.accesskey "L">
 <!ENTITY updates.viewUpdates.label "Skoða nýlegar uppfærslur">
 <!ENTITY updates.viewUpdates.accesskey "S">
-<!ENTITY updates.backgroudUpdateCheck.label "Leita sjálfkrafa að uppfærslum">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "L">
+<!ENTITY updates.updateAddonsAutomatically.label "Uppfæra viðbætur sjálfvirkt">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "a">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Endurstilla allar viðbætur á sjálfvirka uppfærslu">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "r">
+<!ENTITY updates.resetUpdatesToManual.label "Endurstilla allar viðbætur á handvirka uppfærslu">
+<!ENTITY updates.resetUpdatesToManual.accesskey "r">
 <!ENTITY updates.updating.label "Uppfæri viðbætur">
 <!ENTITY updates.installed.label "Búið er að uppfæra viðbætur.">
 <!ENTITY updates.downloaded.label "Búið er að niðurhala viðbótum.">
@@ -80,6 +83,15 @@
 <!ENTITY cmd.showReleaseNotes.tooltip "Sýna útgáfuupplýsingar fyrir þessa uppfærslu">
 <!ENTITY cmd.hideReleaseNotes.label "Fela útgáfuupplýsingar">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Fela útgáfuupplýsingar fyrir þessa uppfærslu">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title "Hvað eru viðbætur?">
+<!ENTITY discover.description2 "Viðbætur eru forrit sem gera þér kleyft að sérsníða &brandShortName; með
+  fleiri eiginleikum eða stílum. Prófaðu flýtihliðarslá, veðuráminningu, eða þema til að gera &brandShortName;
+  að þínum.">
+<!ENTITY discover.footer "Þegar þú ert tengdur við netið, mun þessi gluggi birta
+  bestu og vinsælustu viðbætur fyrir þig að prófa.">
 <!-- detail view -->
 <!ENTITY detail.version.label "Útgáfa">
 <!ENTITY detail.lastupdated.label "Síðast uppfært">
@@ -88,6 +100,8 @@
 <!ENTITY detail.numberOfDownloads.label "Niðurhal">
 <!ENTITY detail.contributions.description "Höfundur þessarar viðbótar biður þig um að styðja við áframhaldandi þróun með því að styrkja viðkomandi með smá upphæð.">
 <!ENTITY detail.updateType "Sjálfvirkar uppfærslur">
+<!ENTITY detail.updateDefault.label "Sjálfgefið">
+<!ENTITY detail.updateDefault.tooltip "Setja sjálfvirkt inn uppfærslur aðeins ef það er ekki sjálfgefið">
 <!ENTITY detail.updateAutomatic.label "Virkt">
 <!ENTITY detail.updateAutomatic.tooltip "Setja sjálfvirkt inn uppfærslur">
 <!ENTITY detail.updateManual.label "Óvirkt">
@@ -116,6 +130,8 @@
 <!ENTITY sort.dateUpdated.tooltip "Raða eftir uppsetningardagsetningu">
 <!ENTITY sort.relevance.label "Passar best við">
 <!ENTITY sort.relevance.tooltip "Raða eftir mikilvægi">
+<!ENTITY sort.price.label "Verð">
+<!ENTITY sort.price.tooltip "Raða eftir verði">
 <!ENTITY search.filter2.label "Leita:">
 <!ENTITY search.filter2.installed.label "Mínar viðbætur">
 <!ENTITY search.filter2.installed.tooltip "Sýna uppsettar viðbætur">

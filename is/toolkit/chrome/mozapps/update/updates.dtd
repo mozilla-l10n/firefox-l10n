@@ -49,8 +49,10 @@
                                            
 <!ENTITY errorpatching.intro "Ekki var hægt að setja inn bótar uppfærslu. 
                                            &brandShortName; mun reyna að ná í heildaruppfærslu.">
-<!ENTITY errorCertAttrNoUpdate.label "Eitthvað er að koma í veg fyrir að &brandShortName; geti uppfært á öruggan hátt.
-                                           Athugaðu hvort þú ert með nýjustu útgáfu af &brandShortName; hér:">
+<!ENTITY genericBackgroundError.label "&brandShortName; fann ekki út hvort ný uppfærsla er tiltæk. Gakktu
+                                           úr skugga um að þú sért með nýjustu útgáfu af &brandShortName; frá:">
+<!ENTITY errorCertAttrNoUpdate2.label "Eitthvað kemur í veg fyrir að &brandShortName; geti uppfært sig örugglega.
+                                           Gakktu úr skugga um að þú sért með nýjustu útáfu af &brandShortName; frá:">
 <!ENTITY errorCertAttrHasUpdate.label "Einhver er að reyna að plata &brandShortName; í að taka á móti
                                            uppfærslu sem er óörugg. Hafðu samband við þjónustuaðila netkerfis og fáðu hjálp.">
 <!ENTITY finishedPage.title "Uppfærsla tilbúin fyrir uppsetningu">
