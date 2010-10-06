@@ -13,9 +13,9 @@
 <!ENTITY aboutSupport.appBasicsName "Nume">
 <!ENTITY aboutSupport.appBasicsVersion "Versiune">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorul de profile">
-
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurație de construcție">
-
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
 <!ENTITY aboutSupport.show.label "Deschide dosarul conținător">
 
