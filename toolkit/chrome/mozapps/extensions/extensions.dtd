@@ -133,7 +133,7 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 
 
 <!-- ratings -->
-<!ENTITY rating.label	     		          "Bewertung:">
+<!ENTITY rating2.label	     		          "Bewertung">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pause">
@@ -178,6 +178,8 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 <!ENTITY addon.install.tooltip                "Dieses Add-on installieren">
 <!ENTITY addon.updateNow.label                "Jetzt aktualisieren">
 <!ENTITY addon.updateNow.tooltip              "Das Update für dieses Add-on installieren">
+<!ENTITY addon.includeUpdate.label            "In Update einschließen">
+<!ENTITY addon.updateAvailable.label          "Ein Update ist verfügbar">
 <!ENTITY addon.checkingForUpdates.label       "Auf Updates prüfen…">
 <!ENTITY addon.releaseNotes.label             "Versionshinweise:">
 <!ENTITY addon.loadingReleaseNotes.label      "Wird geladen…">
