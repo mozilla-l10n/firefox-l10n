@@ -14,7 +14,7 @@
 <!ENTITY cmd.back.tooltip                     "Eine Seite zurück">
 <!ENTITY cmd.forward.tooltip                  "Eine Seite vor">
 
-<!-- global warnings -->Alle Add-ons wurden durch den SafeMode deaktiviert
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Alle Add-ons wurden durch den SafeMode deaktiviert.">
 <!ENTITY warning.checkcompatibility.label          "Die Addon-Kompatibilitäts-Prüfung ist deaktiviert. Sie könnten inkompatible Add-ons haben.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktivieren">
@@ -35,7 +35,7 @@
 <!ENTITY view.availableUpdates.label          "Verfügbare Updates">
 
 <!-- addon updates -->
-!ENTITY updates.checkForUpdates.label         "Auf Updates überprüfen">
+<!ENTITY updates.checkForUpdates.label         "Auf Updates überprüfen">
 <!ENTITY updates.checkForUpdates.accesskey    "A">
 <!ENTITY updates.viewUpdates.label            "Kürzlich durchgeführte Updates anzeigen">
 <!ENTITY updates.viewUpdates.accesskey        "K">
@@ -148,7 +148,7 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 <!ENTITY sort.relevance.label                 "Bester Treffer">
 <!ENTITY sort.relevance.tooltip               "Nach Relevanz sortieren">
 <!ENTITY sort.price.label                     "Preis">
-<!ENTITY sort.price.tooltip                   "Nach Preis sortieren>
+<!ENTITY sort.price.tooltip                   "Nach Preis sortieren">
 
 <!ENTITY search.filter2.label                 "Suchen:">
 <!ENTITY search.filter2.installed.label       "Meine Add-ons">
