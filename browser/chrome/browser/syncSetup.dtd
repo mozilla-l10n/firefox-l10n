@@ -1,107 +1,104 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
-
+<!ENTITY accountSetupTitle.label "Настройване на &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.pickSetupType.description "Добре дошли! Ако никога преди не сте ползвали &syncBrand.fullName.label;, ще е нужно да създадете нов акаунт.">
+<!ENTITY button.createNewAccount.label "Създаване на нов акаунт">
+<!ENTITY button.haveAccount.label "Имам акаунт за &syncBrand.fullName.label;">
 
+<!ENTITY setup.choicePage.title.label "Някога преди ползвали ли сте &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label "Никога преди не съм ползвал &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label "Вече използвам &syncBrand.shortName.label; на друг компютър">
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Сървър">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom.label    "Use a custom server">
-<!ENTITY signIn.username.label      "User Name">
-<!ENTITY signIn.username.accesskey  "U">
-<!ENTITY signIn.password.label      "Парола">
-<!ENTITY signIn.password.accesskey  "П">
-<!ENTITY signIn.serverURL.label     "Server URL">
-<!ENTITY signIn.serverURL.accesskey "L">
 
+<!ENTITY server.label "Сървър">
+<!ENTITY serverType.main.label "Сървър за &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label "Използване на друг сървър">
+<!ENTITY signIn.account.label "Мейл адрес / потребителско име">
+<!ENTITY signIn.account.accesskey "М">
+<!ENTITY signIn.password.label "Парола">
+<!ENTITY signIn.password.accesskey "П">
+<!ENTITY signIn.serverURL.label "Адрес на сървъра">
+<!ENTITY signIn.serverURL.accesskey "А">
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
-<!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Ел.адрес">
-<!ENTITY setup.emailAddress.accesskey "Е">
+
+<!ENTITY setup.newAccountDetailsPage.title.label "Подробности за акаунта">
+<!ENTITY setup.confirmPassword.label "Потвърждаване на парола">
+<!ENTITY setup.confirmPassword.accesskey "П">
+<!ENTITY setup.emailAddress.label "Мейл адрес">
+<!ENTITY setup.emailAddress.accesskey "М">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
-<!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Политика за лични данни">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "a">
-
+<!ENTITY setup.tosAgree1.label "Съгласен съм с ">
+<!ENTITY setup.tosAgree1.accesskey "С">
+<!ENTITY setup.tosLink.label "Условията на услугата">
+<!ENTITY setup.tosAgree2.label " и ">
+<!ENTITY setup.ppLink.label "Политиката за лични данни">
+<!ENTITY setup.tosAgree3.label "">
+<!ENTITY setup.tosAgree2.accesskey "">
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Email…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
-<!ENTITY button.syncKeyBackup.print.label     "Отпечатване…">
-<!ENTITY button.syncKeyBackup.print.accesskey "О">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; се грижи за вашите лични данни">
+<!ENTITY setup.newSyncKeyPage.description.label "За подсигуряване на вашата пълна поверителност, всички ваши данни се шифроват преди да се качат. Ключът за Sync, който е необходим за разшифроване на вашите данни, не се качва.">
+<!ENTITY syncKeyEntry.label "Вашият ключ за Sync">
+<!ENTITY syncKeyEntry.accesskey "к">
+<!ENTITY syncKeyGenerate.label "Генериране">
+<!ENTITY syncKeyStrength.label "Сила:">
+<!ENTITY syncKeyHelp.label "Какво означава тази сила?">
+<!ENTITY syncKeyBackup.description "Вашият ключ за Sync е необходим за достъп до &syncBrand.fullName.label; на други машини. Моля направете резервно копие сега. Ние не можем да ви помогнем при възстановяване на вашия ключ за Sync.">
 
-<!ENTITY page.syncKeyBackup.title     "Your Firefox Sync Key">
-<!ENTITY page.syncKeyBackup.descr     "This secret key is used to encrypt your personal data. It is not uploaded to the server and cannot be recovered. Do not lose it or share with other people.">
-
+<!ENTITY button.syncKeyBackup.print.label "Отпечатване…">
+<!ENTITY button.syncKeyBackup.print.accesskey "п">
+<!ENTITY button.syncKeyBackup.save.label "Запис…">
+<!ENTITY button.syncKeyBackup.save.accesskey "З">
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
 
+<!ENTITY setup.captchaPage2.title.label "Моля потвърдете, че не сте робот">
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
-<!ENTITY resetPassword.label          "Нулиране на парола">
-<!ENTITY connecting.label             "Свързване…">
 
+<!ENTITY setup.existingAccount.title.label "Въведете информация за акаунта">
+<!ENTITY resetPassword.label "Нулиране на парола">
+<!ENTITY connecting.label "Свързване…">
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
-<!ENTITY verifying.label              "Verifying…">
 
+<!ENTITY setup.existingSyncKeyPage.title "Моля въведете вашия ключ за Sync">
+<!ENTITY setup.existingSyncKeyPage.description "За вас е бил генериран ключ за Sync, или вие сте въвели собствен ключ, когато за първи път сте влезли в &syncBrand.fullName.label;. Това не е същото като вашата парола.">
+<!ENTITY existingSyncKeyHelp.description "Може да намерите запазения ключ за Sync чрез отиване на друг ваш компютър и проверка на запазените пароли под Сигурност. Ако все още не може да извлечете правилен ключ за Sync, може да я анулирате, но ще загубите всички данни, съхранявани на сървъра.">
+<!ENTITY lostSyncKey.label "Загубих си ключа за Sync">
+<!ENTITY verifying.label "Проверяване…">
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "C">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Отметки">
+<!ENTITY setup.optionsPage.title "Настройки на Sync">
+<!ENTITY syncComputerName.label "Име на компютър:">
+<!ENTITY syncComputerName.accesskey "И">
+
+<!ENTITY syncMy.label "Sync за моите">
+<!ENTITY engine.bookmarks.label "Отметки">
 <!ENTITY engine.bookmarks.accesskey "О">
-<!ENTITY engine.tabs.label          "Подпрозорци">
-<!ENTITY engine.tabs.accesskey      "П">
-<!ENTITY engine.history.label       "История">
-<!ENTITY engine.history.accesskey   "И">
-<!ENTITY engine.passwords.label     "Пароли">
+<!ENTITY engine.tabs.label "Подпрозорци">
+<!ENTITY engine.tabs.accesskey "П">
+<!ENTITY engine.history.label "История">
+<!ENTITY engine.history.accesskey "И">
+<!ENTITY engine.passwords.label "Пароли">
 <!ENTITY engine.passwords.accesskey "П">
-<!ENTITY engine.prefs.label         "Настройки">
-<!ENTITY engine.prefs.accesskey     "Н">
+<!ENTITY engine.prefs.label "Настройки">
+<!ENTITY engine.prefs.accesskey "Н">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
-
+<!ENTITY choice2.merge.main.label "Сливане на данните на този компютър с данните на &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Препоръчвано:">
+<!ENTITY choice2.client.main.label "Заменяне на всички данни в този компютър с данните от моя &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label "Замяна на данните във всички останали компютри с данните от този компютър">
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Потвърждение">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
-<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
-<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
 
+<!ENTITY setup.optionsConfirmPage.title "Потвърждение">
+<!ENTITY confirm.merge.label "&syncBrand.fullName.label; сега ще влее всички данни от този компютър във вашия акаунт за Sync.">
+<!ENTITY confirm.client.label "Всички данни на &brandShortName; в този компютър ще бъдат изтрити, включително следните:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; след това ще копира вашите данни на &syncBrand.fullName.label; в този компютър.">
+<!ENTITY confirm.client.warning.label "ВНИМАНИЕ: Това ще предизвика замяна на всички данни на този компютър с тези от &brandShortName;">
+<!ENTITY confirm.server.label "Данните в следните устройства ще бъдат заменени:">
+<!ENTITY confirm.server.warning.label "ВНИМАНИЕ: Вашите локални данни ще заменят данните на &brandShortName; във всички тези устройства!">
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+
+<!ENTITY setup.successPage.title "Настройкаа е завършена">
+<!ENTITY changeOptions.label "Може да промените тези настройки чрез избиране на Настройки на Sync по-долу.">
+<!ENTITY continueUsing.label "Сега може да продължите с използването на &brandShortName;.">

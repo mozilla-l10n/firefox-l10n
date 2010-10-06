@@ -1,32 +1,31 @@
-<!ENTITY testpilot.brand.label                      "Test Pilot">
-<!-- browser window: menu and status bar -->
-<!ENTITY testpilot.settings.label                   "Настройки">
-<!ENTITY testpilot.settings.dataSubmission.label    "Data Submission">
-<!ENTITY testpilot.settings.notifications.label     "Notifications">
-<!ENTITY testpilot.settings.notifyWhen.label        "Notify me when…">
-<!ENTITY testpilot.settings.readyToSubmit.label     "A study is ready to submit">
-<!ENTITY testpilot.settings.newStudy.label          "There's a new study">
-<!ENTITY testpilot.settings.hasNewResults.label     "A study has new results">
-<!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatically submit my data (don't ask me)">
-<!ENTITY testpilot.allYourStudies.label             "All Your User Studies…">
-<!ENTITY testpilot.about.label                      "Относно Test Pilot">
-
+<!ENTITY testpilot.brand.label "Летец-изпитател">
+<!ENTITY testpilot.settings.label "Настройки">
+<!ENTITY testpilot.settings.dataSubmission.label "Изпращане на данни">
+<!ENTITY testpilot.settings.notifications.label "Уведомления">
+<!ENTITY testpilot.settings.notifyWhen.label "Уведоми ме, когато…">
+<!ENTITY testpilot.settings.readyToSubmit.label "Има готова анкета за изпращане">
+<!ENTITY testpilot.settings.newStudy.label "Има нова анкета">
+<!ENTITY testpilot.settings.hasNewResults.label "Анкета има нови резултати">
+<!ENTITY testpilot.settings.alwaysSubmitData.label "Автоматично изпращане на моите данни (без питане)">
+<!ENTITY testpilot.allYourStudies.label "Всички ваши потребителски анкети…">
+<!ENTITY testpilot.about.label "Относно Test Pilot">
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
-<!ENTITY testpilot.studiesWindow.settings.label         "Настройки">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait…">
 
+<!ENTITY testpilot.studiesWindow.title "Вашите анкети като летец-изпитател">
+<!ENTITY testpilot.studiesWindow.currentStudies.label "Текущи анкети">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label "Завършени анкети">
+<!ENTITY testpilot.studiesWindow.studyFindings.label "Резултати от анкетите">
+<!ENTITY testpilot.studiesWindow.settings.label "Настройки">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Зареждане, моля изчакайте…">
 <!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
 
+<!ENTITY testpilot.rawDataWindow.title "Летец-изпитател: сурови данни">
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip            "Затваряне">
 
+<!ENTITY testpilot.notification.close.tooltip "Затваряне">
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Turn On User Studies">
-<!ENTITY testpilot.feedbackbutton.label                "Feedback">
-<!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because…">
-<!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because…">
+
+<!ENTITY testpilot.enable.label "Активиране на потребителските анкети">
+<!ENTITY testpilot.feedbackbutton.label "Обратна връзка">
+<!ENTITY testpilot.happy.label "Firefox ме прави щастлив(а), защото…">
+<!ENTITY testpilot.sad.label "Firefox ме прави нещастен(-на), защото…">

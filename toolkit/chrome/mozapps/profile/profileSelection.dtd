@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Избор на потребителски профил">
+<!ENTITY windowtitle.label "&brandShortName; - Избор на потребителски профил">
 
-<!ENTITY            profilename.label      "Име на профил:">
+<!ENTITY profilename.label "Име на профил:">
 
-<!ENTITY            start.label            "Стартиране на &brandShortName;">
-<!ENTITY            exit.label             "Изход">
+<!ENTITY start.label "Стартиране на &brandShortName;">
+<!ENTITY exit.label "Изход">
 
-<!ENTITY            availprofiles.label    "Налични профили">
+<!ENTITY availprofiles.label "Налични профили">
 
-<!ENTITY            newButton.label        "Създаване на профил…">
-<!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Преименуване на профил…">
-<!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Изтриване на профил…">
-<!ENTITY            deleteButton.accesskey "D">
-
+<!ENTITY newButton.label "Създаване на профил…">
+<!ENTITY newButton.accesskey "C">
+<!ENTITY renameButton.label "Преименуване на профил…">
+<!ENTITY renameButton.accesskey "R">
+<!ENTITY deleteButton.label "Изтриване на профил…">
+<!ENTITY deleteButton.accesskey "D">
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; съхранява информацията за вашите настройки, предпочитания и други неща от вашия профил.">
 
-<!ENTITY            offlineState.label    "Работа извън мрежата">
-<!ENTITY            offlineState.accesskey "o">
+<!ENTITY pmDescription.label "&brandShortName; съхранява информацията за вашите настройки, предпочитания и други неща от вашия профил.">
 
-<!ENTITY            autoSelect.label       "Не питай при стартиране">
-<!ENTITY            autoSelect.accesskey   "s">
+<!ENTITY offlineState.label "Работа извън мрежата">
+<!ENTITY offlineState.accesskey "o">
+
+<!ENTITY autoSelect.label "Не питай при стартиране">
+<!ENTITY autoSelect.accesskey "s">

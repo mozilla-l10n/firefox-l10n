@@ -1,21 +1,21 @@
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label             "Кодиране на знаците">
-<!ENTITY charsetMenu.accesskey         "C">
-<!ENTITY charsetMenuAutodet.label      "Автоматично">
-<!ENTITY charsetMenuAutodet.accesskey  "A">
-<!ENTITY charsetMenuMore.label         "Още">
-<!ENTITY charsetMenuMore.accesskey     "M">
-<!ENTITY charsetMenuMore1.label        "Западна Европа">
-<!ENTITY charsetMenuMore1.accesskey    "W">
-<!ENTITY charsetMenuMore2.label        "Източна Европа">
-<!ENTITY charsetMenuMore2.accesskey    "E">
-<!ENTITY charsetMenuMore3.label        "Източна Азия">
-<!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "ЮИ и ЮЗ Азия">
-<!ENTITY charsetMenuMore4.accesskey    "S">
-<!ENTITY charsetMenuMore5.label        "Близък Изток">
-<!ENTITY charsetMenuMore5.accesskey    "M">
-<!ENTITY charsetMenuUnicode.label      "Уникод">
-<!ENTITY charsetMenuUnicode.accesskey  "U">
-<!ENTITY charsetCustomize.label        "Настройване на списъка…">
-<!ENTITY charsetCustomize.accesskey    "C">
+<!ENTITY charsetMenu.label "Кодиране на знаците">
+<!ENTITY charsetMenu.accesskey "C">
+<!ENTITY charsetMenuAutodet.label "Автоматично">
+<!ENTITY charsetMenuAutodet.accesskey "a">
+<!ENTITY charsetMenuMore.label "Още">
+<!ENTITY charsetMenuMore.accesskey "m">
+<!ENTITY charsetMenuMore1.label "Западна Европа">
+<!ENTITY charsetMenuMore1.accesskey "w">
+<!ENTITY charsetMenuMore2.label "Източна Европа">
+<!ENTITY charsetMenuMore2.accesskey "E">
+<!ENTITY charsetMenuMore3.label "Източна Азия">
+<!ENTITY charsetMenuMore3.accesskey "A">
+<!ENTITY charsetMenuMore4.label "ЮИ и ЮЗ Азия">
+<!ENTITY charsetMenuMore4.accesskey "S">
+<!ENTITY charsetMenuMore5.label "Близък Изток">
+<!ENTITY charsetMenuMore5.accesskey "M">
+<!ENTITY charsetMenuUnicode.label "Уникод">
+<!ENTITY charsetMenuUnicode.accesskey "U">
+<!ENTITY charsetCustomize.label "Настройване на списъка…">
+<!ENTITY charsetCustomize.accesskey "c">

@@ -3,8 +3,8 @@
 
 <!ENTITY loadError.label "Проблем при зареждане на страница">
 <!ENTITY retry.label "Нов опит">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Не може да бъде установена връзка">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -41,9 +41,16 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Режим на работа извън мрежата">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Махнете отметката на „Работа извън мрежата“ в менюто „Файл“ и опитайте пак.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Грешка в кодирането на съдържанието">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -124,15 +131,13 @@
 <!ENTITY securityOverride.linkText "Или може да добавите изключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Махам се от тук!">
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
-
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>Не трябва да добавяте изключение, ако не се доверявате на вашата свързаност с Интернет или ако не сте свикнали да виждате такове предупреждение за точно този сървър.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
