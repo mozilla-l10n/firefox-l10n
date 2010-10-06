@@ -12,12 +12,12 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação Privada)">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label        "Recarregar Separador">
+<!ENTITY  reloadTab.label        "Recarregar separador">
 <!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  reloadAllTabs.label    "Recarregar Todos os Separadores">
-<!ENTITY  reloadAllTabs.accesskey         "T">
-<!ENTITY  closeOtherTabs.label   "Fechar Outros Separadores">
-<!ENTITY  closeOtherTabs.accesskey  "O">
+<!ENTITY  reloadAllTabs.label    "Recarregar todos os separadores">
+<!ENTITY  reloadAllTabs.accesskey         "t">
+<!ENTITY  closeOtherTabs.label   "Fechar outros separadores">
+<!ENTITY  closeOtherTabs.accesskey  "o">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
