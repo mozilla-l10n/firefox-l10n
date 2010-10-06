@@ -1,6 +1,5 @@
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
 
-
 <!ENTITY tabs.searchText.label                   "Tastați aici pentru a găsi file…">
 
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
@@ -13,5 +12,3 @@
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "P">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "Pune semn de carte la filele selectate…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "P">
-
-

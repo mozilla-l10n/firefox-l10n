@@ -3,13 +3,8 @@
 <!ENTITY loading.label                        "Încărcare...">
 <!ENTITY listEmpty.installed.label            "Nu aveți vreun supliment de acest tip instalat">
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
-
-
 <!ENTITY listEmpty.search.label               "Nu s-a putut găsi vreun supliment potrivit">
 <!ENTITY listEmpty.button.label               "Află mai multe despre suplimente">
-
-
-
 
 <!ENTITY cmd.back.tooltip                     "Mergi cu o pagină în urmă">
 <!ENTITY cmd.forward.tooltip                  "Mergi cu o pagină înainte">
@@ -31,14 +26,9 @@
 <!ENTITY view.features.label                  "Extensii">
 <!ENTITY view.appearance2.label               "Aspect">
 <!ENTITY view.plugins.label                   "Module">
-
 <!ENTITY view.availableUpdates.label          "Actualizări disponibile">
 
 <!-- addon updates -->
-
-
-
-
 <!ENTITY updates.updateAddonsAutomatically.label     "Actualizează suplimentele automat">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Resetează toate suplimentele la actualizare automată">
@@ -50,7 +40,6 @@
 <!ENTITY updates.downloaded.label             "S-au descărcat actualizările pentru suplimentele dumneavoastră.">
 <!ENTITY updates.restart.label                "Reporniți acum pentru a finaliza instalarea">
 <!ENTITY updates.noneFound.label              "Nicio actualizare găsită">
-
 <!ENTITY updates.updateSelected.label         "Instalează actualizările">
 <!ENTITY updates.updateSelected.tooltip       "Instalează actualizările disponibile în această listă">
 
@@ -87,16 +76,10 @@
 <!ENTITY cmd.contribute.tooltip               "Contribuie la dezvoltarea acestui supliment">
 
 
-
-
-
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Ce sunt suplimentele?">
-
-
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versiune">
@@ -106,7 +89,6 @@
 <!ENTITY detail.numberOfDownloads.label       "Descărcări">
 
 
-
 <!ENTITY detail.updateType                    "Actualizări automate">
 <!ENTITY detail.updateDefault.label           "Standard">
 <!ENTITY detail.updateDefault.tooltip         "Instalează automat actualizări doar dacă aceasta e setarea implicită">
@@ -114,23 +96,12 @@
 <!ENTITY detail.updateAutomatic.tooltip       "Instalează actualizări automat">
 <!ENTITY detail.updateManual.label            "Dezactivată">
 
-
-
-
-
 <!ENTITY detail.checkForUpdates.label         "Caută actualizări">
 <!ENTITY detail.checkForUpdates.accesskey     "C">
 <!ENTITY detail.checkForUpdates.tooltip       "Verifică dacă există actualizări pentru acest supliment">
 
 
-
-
-
-
-
-
 <!-- ratings -->
-
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pauză">
@@ -144,18 +115,7 @@
 <!ENTITY sort.dateUpdated.tooltip             "Sortare după data actualizării">
 
 
-
-
-
-
-
-
-
-
-
 <!ENTITY addon.homepage                       "Pagina suplimentului">
-
-
 <!ENTITY addon.unknownDate                    "Necunoscut">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
@@ -166,20 +126,10 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Actualizează">
-
-
-
-
 <!ENTITY addon.restartNow.label               "Reporniți acum">
 <!ENTITY addon.install.label                  "Instalează">
 <!ENTITY addon.install.tooltip                "Instalați acest supliment">
-
-
-
-
 <!ENTITY addon.checkingForUpdates.label       "Se caută actualizări…">
-
 <!ENTITY addon.loadingReleaseNotes.label      "Încărcare...">
-
 
 <!ENTITY addon.createdBy.label                "De către ">

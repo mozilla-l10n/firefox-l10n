@@ -35,7 +35,6 @@
      menu (Windows).
 -->
 
-
 <!ENTITY contentEncodingError.title "Eroare în codarea conținutului">
 <!ENTITY contentEncodingError.longDesc "<ul>
   <li>Vă rugăm să contactați proprietarii saitului pentru a-i informa despre această problemă.</li>
@@ -100,7 +99,6 @@ temporară și puteți încerca din nou mai târziu.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocat de politica de securitate asupra conținutului">
 
-
 <!ENTITY securityOverride.linkText "Sau puteți adăuga o excepție…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Du-mă de aici!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adaugă excepție…">
@@ -109,5 +107,4 @@ temporară și puteți încerca din nou mai târziu.</li>
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
-
 

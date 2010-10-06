@@ -18,15 +18,11 @@
 <!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY helpMac.commandkey       "?">
 
-
-
 <!ENTITY helpReleaseNotes.label         "Note asupra ediției">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informații de depanare">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
-
-
 
 
 <!ENTITY updateCmd.label                "Caută actualizări...">
