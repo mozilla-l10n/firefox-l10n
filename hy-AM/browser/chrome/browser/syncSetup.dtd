@@ -37,79 +37,79 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Տեղակայում">
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY setup.pickSetupType.description "Եթե դուք նախկինում չեք օգտագործել &syncBrand.fullName.label; ապա դուք պետք է ստեղծեք նոր հաշիվ:">
+<!ENTITY button.createNewAccount.label "Ստեղծել նոր հաշիվ">
+<!ENTITY button.haveAccount.label "Ես ունեմ &syncBrand.fullName.label; հաշիվ">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "Դուք նախկինում օգտագործե՞լ եք &syncBrand.fullName.label;">
+<!ENTITY setup.choicePage.new.label       "Ես նախկինում երբեք չեմ օգտագործել &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "Ես օգտագործում եմ &syncBrand.shortName.label; մեկ այլ համակարգչում:">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Սպասարկչ">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom.label    "Use a custom server">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Սպասարկիչ">
+<!ENTITY serverType.custom.label    "Օգտագործել անհատական սպասարկիչ">
 <!ENTITY signIn.account.label       "Email Address / User Name">
 <!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Գաղտնաբառը">
 <!ENTITY signIn.password.accesskey  "Գ">
-<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY signIn.serverURL.label     "Սերվերի URL">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Հաշվեհամարի Մանրամասներ">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
-<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.confirmPassword.label  "Հաստատել գաղտնաբառը">
+<!ENTITY setup.confirmPassword.accesskey  "Հ">
 <!ENTITY setup.emailAddress.label     "էլ­-Փոստի հասցեն">
 <!ENTITY setup.emailAddress.accesskey "է">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
-<!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
+<!ENTITY setup.tosAgree1.label      "Ես համաձայն եմ">
+<!ENTITY setup.tosAgree1.accesskey  "Ե">
+<!ENTITY setup.tosLink.label        "Ծառայության պայմաններին">
+<!ENTITY setup.tosAgree2.label      "և">
 <!ENTITY setup.ppLink.label         "Գաղտնիության Դրույթները">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "a">
+<!ENTITY setup.tosAgree2.accesskey  "և">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName;-ը հոգում է ձեր գաղտնիության մասին">
+<!ENTITY setup.newSyncKeyPage.description.label "Ձեր բացարձակ գաղտնիության ապահովման համար տվյալները գաղտնագրվեւմ են ուղարկվելուց առաջ: Sync բանալին որը անհրաժեշտ է տվյալների ապակոդավորման համար բեռնված չէ:">
+<!ENTITY syncKeyEntry.label        "Ձեր Sync բանալին">
+<!ENTITY syncKeyEntry.accesskey    "S">
+<!ENTITY syncKeyGenerate.label     "Առաջացնել">
 <!ENTITY syncKeyStrength.label     "Strength:">
 <!ENTITY syncKeyHelp.label         "What does the strength mean?">
 <!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Տպել…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Տ">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+<!ENTITY button.syncKeyBackup.save.label      "Պահպանել…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "Պ">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "Խնդրեմ հաստատեք որ դուք Ռոբոտ չեք">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
+<!ENTITY setup.existingAccount.title.label "Մուտքագրել հաշվի տվյալները">
 <!ENTITY resetPassword.label          "Վերանշել գաղտնաբառը">
 <!ENTITY connecting.label             "Կապի հաստատում…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
+<!ENTITY setup.existingSyncKeyPage.title "Խնդրեմ մուտքագրեք ձեր Sync բանալին">
 <!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
 <!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
-<!ENTITY verifying.label              "Verifying…">
+<!ENTITY lostSyncKey.label            "Ես կորցրել եմ իմ Sync բանալին">
+<!ENTITY verifying.label              "Ստուգում…">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY setup.optionsPage.title      "Sync պարամետրեր">
+<!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
+<!ENTITY syncComputerName.accesskey   "Հ">
 
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Էջանիշեր">
@@ -123,19 +123,19 @@
 <!ENTITY engine.prefs.label         "Նախընտրանքներ">
 <!ENTITY engine.prefs.accesskey     "Ն">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.main.label      "Միացնել այս համակարգչի տվյալները &syncBrand.shortName.label;-ի տվյալներին">
+<!ENTITY choice2.merge.recommended.label "Խորհուրդ է տրվում՝">
+<!ENTITY choice2.client.main.label     "Փոխարինել այս համակարգչի ողջ տվյալները &syncBrand.shortName.label;-ի տվյալներով">
 <!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Հաստատել">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
-<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
-<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
+<!ENTITY confirm.client.label         "&brandShortName; -ի ողջ տվյալները կջնջվեն այս համակարգչից, այդ թվում նաև հետևյալը՝">
+<!ENTITY confirm.client.moreinfo.label "Հետո &brandShortName;-ը կկրկնակի ձեր &syncBrand.fullName.label; տվյալները այս համակարգչում:">
+<!ENTITY confirm.client.warning.label "ԶԳՈՒՇԱՑՈՒՄ՝ Սա կհանգեցնի այս համակարգչում &brandShortName;-ի ողջ տվյալների փոխարինման!">
+<!ENTITY confirm.server.label         "Հետևյալ սարքերը կփոխարինվեն ձեր տեղական տվյալներով՝">
+<!ENTITY confirm.server.warning.label "ԶԳՈՒՇԱՑՈՒՄ՝ Ձեր տեղական տվյալները կփոխարինեն այս սարքերում &brandShortName;-ի ողջ տվյալներին:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Setup Complete">
