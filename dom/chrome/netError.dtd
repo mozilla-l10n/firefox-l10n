@@ -26,6 +26,7 @@
 
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc "<p>Navigatorul operează în mod offline și nu poate deschide o conexiune către adresa cerută.</p><ul><li>Este calculatorul conectat la o rețea activă?</li><li>Puneți navigatorul în mod „Online” și încercați din nou.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Eroare de codare a conținutului">
 <!ENTITY contentEncodingError.longDesc "<p>Pagina pe care încercați să o vizualizați nu poate fi afișată pentru că folosește o formă de compresie invalidă sau nesuportată.</p><ul><li>Vă rugăm să contactați proprietarii saitului pentru a-i informa despre această problemă.</li></ul>">
@@ -74,6 +75,7 @@
 <p>Aceste tipuri de falsuri web sunt folosite în păcăleli numite și „phishing”, în care pagini și adrese de email sunt folosite pentru a imita unele în care aveți încredere.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocat de politica de securitate asupra conținutului">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

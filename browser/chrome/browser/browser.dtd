@@ -24,6 +24,15 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Pin as App Tab">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "Unpin Tab">
+<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  moveToGroup.label                  "Move to Group">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "New Group">
+<!ENTITY  moveToNewWindow.label              "Move to New Window">
+<!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Pune semne de carte la toate filele...">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Anulează închiderea filei">
@@ -61,6 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Bară pentru semne de carte">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elemente pe bara pentru semne de carte">
+<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Sursă pagină">
 <!ENTITY pageSourceCmd.accesskey "u">
@@ -92,6 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Abonare la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină...">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele...">
+<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
 <!ENTITY bookmarkAllCmd.label "Semne de carte la toate filele...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
@@ -120,9 +132,14 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Semne de carte">
 
 <!-- Toolbar items --> 
+<!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
 <!ENTITY homeButton.label             "Acasă">
 
+<!ENTITY tabGroupsButton.label        "Tab Groups">
+<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
 
+<!ENTITY feedButton.label             "Subscribe">
 <!ENTITY feedButton.tooltip           "Abonare la această pagină...">
 
 <!ENTITY bookmarksButton.label          "Semne de carte">
@@ -166,6 +183,8 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey    "e">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspectează">
@@ -173,11 +192,21 @@ can reach it easily. -->
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Inspect">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Next">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Previous">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Stil">
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Object">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -225,6 +254,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Vizualizare"> 
 <!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewTabGroups.label            "Tab Groups">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Bare de unelte"> 
 <!ENTITY viewToolbarsMenu.accesskey     "B"> 
 <!ENTITY viewSidebarMenu.label "Bară laterală">
@@ -239,14 +270,22 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "File închise recent">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ferestre închise recent">
+<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
 
 <!ENTITY historyHomeCmd.label "Acasă">
 <!ENTITY showAllHistoryCmd2.label "Arată tot istoricul">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Edit">
 <!ENTITY appMenuCustomize.label "Personalizare">
 <!ENTITY appMenuToolbarLayout.label "Aranjamentul barei de unelte…">
 <!ENTITY appMenuSidebars.label "Bare laterale">
+<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuGettingStarted.label "Getting Started">
+<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Du-te la saitul web">
@@ -419,6 +458,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Arată fereastra pe întreg ecranul">
 
+<!ENTITY zoomOutButton.tooltip          "Zoom out">
+<!ENTITY zoomInButton.tooltip           "Zoom in">
+<!ENTITY zoomControls.label             "Zoom Controls">
 
 <!ENTITY quitApplicationCmdWin.label       "Ieșire"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "e">
@@ -501,6 +543,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Filele navigatorului">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
 
 <!ENTITY syncBrand.shortName.label    "Sincronizare">
 
@@ -508,3 +551,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "S">
 <!ENTITY syncSyncNowItem.label        "Sincronizează acum">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sync">
