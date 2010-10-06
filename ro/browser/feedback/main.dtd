@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label                      "Pilot de încercare">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Setări">
 <!ENTITY testpilot.settings.dataSubmission.label    "Trimitere de date">
 <!ENTITY testpilot.settings.notifications.label     "Notificări">

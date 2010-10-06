@@ -12,25 +12,27 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigare fără urme)">
 
 <!-- Tab context menu -->
-
-
-
-
-<!ENTITY  namedGroups.label                  "Grupuri numite">
 <!ENTITY  reloadTab.label                    "Reîncarcă fila">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Reîncarcă toate filele">
 <!ENTITY  reloadAllTabs.accesskey            "a">
 <!ENTITY  closeOtherTabs.label               "Închide celelalte file">
 <!ENTITY  closeOtherTabs.accesskey           "Î">
-<!ENTITY  openTabInNewWindow.label           "Deschide într-o fereastră nouă">
-<!ENTITY  openTabInNewWindow.accesskey       "D">
-<!ENTITY  pinTab.label                       "Transformă într-o filă de aplicație">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Transformă în filă normală">
-<!ENTITY  unpinTab.accesskey                 "T">
-<!ENTITY  bookmarkThisTab.label              "Pune un semn la această filă">
-<!ENTITY  bookmarkThisTab.accesskey          "P">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Pin as App Tab">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "Unpin Tab">
+<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  moveToGroup.label                  "Move to Group">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "New Group">
+<!ENTITY  moveToNewWindow.label              "Move to New Window">
+<!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Pune semne de carte la toate filele...">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Anulează închiderea filei">
@@ -68,8 +70,8 @@
 <!ENTITY personalbarCmd.label "Bară pentru semne de carte">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elemente pe bara pentru semne de carte">
-<!ENTITY taskbarCmd.label "Bară de stare">
-<!ENTITY taskbarCmd.accesskey "s">
+<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Sursă pagină">
 <!ENTITY pageSourceCmd.accesskey "u">
@@ -101,7 +103,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Abonare la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină...">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele...">
-<!ENTITY organizeBookmarks.label "Organizează semnele de carte…">
+<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
 <!ENTITY bookmarkAllCmd.label "Semne de carte la toate filele...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
@@ -120,7 +122,6 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Oprește încărcarea acestei pagini">
 <!ENTITY goEndCap.tooltip             "Mergi la adresa din bara adresei">
-<!ENTITY feedButton.tooltip           "Abonare la această pagină...">
 <!ENTITY printButton.label            "Tipărește">
 <!ENTITY printButton.tooltip          "Tipărește această pagină">
 
@@ -131,9 +132,15 @@
 <!ENTITY bookmarksItem.title          "Semne de carte">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Acasă">
-<!ENTITY tabViewButton2.label         "Grupuri de file">
+<!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY homeButton.label             "Acasă">
 
+<!ENTITY tabGroupsButton.label        "Tab Groups">
+<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+
+<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.tooltip           "Abonare la această pagină...">
 
 <!ENTITY bookmarksButton.label          "Semne de carte">
 <!ENTITY bookmarksButton.tooltip        "Afișează semnele dumneavoastră de carte">
@@ -170,13 +177,14 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Suplimente">
 <!ENTITY addons.accesskey             "S">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey    "e">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-
-
+<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspectează">
@@ -184,15 +192,21 @@
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-
-
-
-
-
-
-
-
+<!ENTITY inspectButton.label          "Inspect">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Next">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Previous">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Stil">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Object">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -240,8 +254,8 @@
 
 <!ENTITY viewMenu.label         "Vizualizare"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY showTabView2.label     "Grupați filele…">
-<!ENTITY showTabView2.accesskey     "G">
+<!ENTITY viewTabGroups.label            "Tab Groups">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Bare de unelte"> 
 <!ENTITY viewToolbarsMenu.accesskey     "B"> 
 <!ENTITY viewSidebarMenu.label "Bară laterală">
@@ -256,18 +270,22 @@
 <!ENTITY historyUndoMenu.label "File închise recent">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ferestre închise recent">
+<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
 
 <!ENTITY historyHomeCmd.label "Acasă">
 <!ENTITY showAllHistoryCmd2.label "Arată tot istoricul">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Tipăreşte">
+<!ENTITY appMenuEdit.label "Edit">
 <!ENTITY appMenuCustomize.label "Personalizare">
 <!ENTITY appMenuToolbarLayout.label "Aranjamentul barei de unelte…">
 <!ENTITY appMenuSidebars.label "Bare laterale">
-<!ENTITY appMenuHelp.label "Ajutor">
-
-<!ENTITY developerMenu.label "Dezvoltator">
+<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuGettingStarted.label "Getting Started">
+<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Du-te la saitul web">
@@ -281,9 +299,9 @@
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -292,12 +310,11 @@
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Deschide legătura în filă nouă">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
@@ -438,7 +455,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Taie">
 <!ENTITY copyButton.tooltip             "Copiază">
 <!ENTITY pasteButton.tooltip            "Lipește">
+
 <!ENTITY fullScreenButton.tooltip       "Arată fereastra pe întreg ecranul">
+
+<!ENTITY zoomOutButton.tooltip          "Zoom out">
+<!ENTITY zoomInButton.tooltip           "Zoom in">
+<!ENTITY zoomControls.label             "Zoom Controls">
 
 <!ENTITY quitApplicationCmdWin.label       "Ieșire"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "e">
@@ -521,19 +543,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Filele navigatorului">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
 
+<!ENTITY syncBrand.shortName.label    "Sincronizare">
 
-<!ENTITY syncBrand.shortName.label  "Sincronizare">
-
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "y">
 <!ENTITY syncSetup.label              "Setați &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "S">
-
-
-
-
 <!ENTITY syncSyncNowItem.label        "Sincronizează acum">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sync">
