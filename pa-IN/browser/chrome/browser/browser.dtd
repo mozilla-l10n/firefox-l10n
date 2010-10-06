@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksMenuButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
+<!ENTITY bookmarksMenuButton.unsorted.label "ਨਾ-ਲੜੀਬੱਧ ਹੋਏ ਬੁੱਕਮਾਰਕ">
 <!ENTITY viewBookmarksSidebar.label         "ਬਾਹੀ 'ਚ ਵੇਖੋ">
 <!ENTITY viewBookmarksToolbar.label         "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ">
 
