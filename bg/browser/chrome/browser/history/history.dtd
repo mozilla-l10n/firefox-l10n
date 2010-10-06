@@ -1,26 +1,26 @@
-<!ENTITY find.label                "Търсене:">
-<!ENTITY find.accesskey            "S">
-<!ENTITY expand.label              "Разгъване">
-<!ENTITY expand.accesskey          "E">
-<!ENTITY collapse.label            "Сгъване">
-<!ENTITY collapse.accesskey        "C">
+<!ENTITY find.label "Търсене:">
+<!ENTITY find.accesskey "Т">
+<!ENTITY expand.label "Разгъване">
+<!ENTITY expand.accesskey "Р">
+<!ENTITY collapse.label "Сгъване">
+<!ENTITY collapse.accesskey "С">
 <!ENTITY byDate.label "Дата">
-<!ENTITY byDate.accesskey "D">
+<!ENTITY byDate.accesskey "Д">
 <!ENTITY bySite.label "Сайт">
-<!ENTITY bySite.accesskey "S">
+<!ENTITY bySite.accesskey "С">
 <!ENTITY view.label "Преглед по">
-<!ENTITY view.accesskey "w">
+<!ENTITY view.accesskey "П">
 <!ENTITY byMostVisited.label "Най-посещавани">
-<!ENTITY byMostVisited.accesskey "-">
+<!ENTITY byMostVisited.accesskey "Н">
 <!ENTITY byLastVisited.label "Последно посещение">
-<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byLastVisited.accesskey "П">
 <!ENTITY byDayAndSite.label "Дата и сайт">
-<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY byDayAndSite.accesskey "Д">
 <!ENTITY openLinkInWindow.label "Отваряне">
-<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openLinkInWindow.accesskey "О">
 <!ENTITY openInNewTab.label "Отваряне в нов подпрозорец">
-<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewTab.accesskey "д">
 <!ENTITY openInNewWindow.label "Отваряне в нов прозорец">
-<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY openInNewWindow.accesskey "п">
 <!ENTITY copyLink.label "Копиране адреса на връзката">
-<!ENTITY copyLink.accesskey "C">
+<!ENTITY copyLink.accesskey "К">

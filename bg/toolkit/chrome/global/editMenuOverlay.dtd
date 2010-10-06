@@ -1,31 +1,31 @@
-<!ENTITY editMenu.label            "Редактиране">
-<!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label             "Отмяна">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "U">
-<!ENTITY redoCmd.label             "Повторение">
-<!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "R">
-<!ENTITY cutCmd.label              "Изрязване">
-<!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "Копиране">
-<!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "Поставяне">
-<!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "Изтриване">
-<!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "Маркиране на всичко">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "A">
-<!ENTITY findCmd.label             "Търсене">
-<!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "F">
-<!ENTITY findAgainCmd.label        "Търсене отново">
-<!ENTITY findAgainCmd.key          "G">
-<!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "Търсене предишен">
+<!ENTITY editMenu.label "Редактиране">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Отмяна">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "Повторение">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "Изрязване">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Копиране">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Поставяне">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "Изтриване">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY selectAllCmd.label "Маркиране на всичко">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY findCmd.label "Търсене">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "Търсене отново">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findPreviousCmd.label "Търсене предишен">
 <!ENTITY findPreviousCmd.accesskey "v">

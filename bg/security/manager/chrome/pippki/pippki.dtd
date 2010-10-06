@@ -34,31 +34,31 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Values for changepassword.xul -->
-<!ENTITY setPassword.title  "Смяна на главната парола">
+
+<!ENTITY setPassword.title "Смяна на главната парола">
 <!ENTITY setPassword.tokenName.label "Устройство по безопасността">
 <!ENTITY setPassword.oldPassword.label "Текуща парола:">
 <!ENTITY setPassword.newPassword.label "Нова парола:">
 <!ENTITY setPassword.reenterPassword.label "Нова парола (отново):">
 <!ENTITY setPassword.meter.label "Качество на паролата">
 <!ENTITY setPassword.meter.loading "Зареждане">
-
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Нулиране">
-<!ENTITY resetPassword.title  "Нулиране на главната парола">
-<!ENTITY resetPassword.text  "Ако нулирате главната парола, всичките съхранени пароли за сайтове и е-поща, данни за формуляри, лични сертификати и персонални ключове ще бъдат загубени. Сигурни ли сте, че искате да нулирате главната парола?">
 
+<!ENTITY resetPasswordButtonLabel "Нулиране">
+<!ENTITY resetPassword.title "Нулиране на главната парола">
+<!ENTITY resetPassword.text "Ако нулирате главната парола, всичките съхранени пароли за сайтове и е-поща, данни за формуляри, лични сертификати и персонални ключове ще бъдат загубени. Сигурни ли сте, че искате да нулирате главната парола?">
 <!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "Въведете главна парола">
+
+<!ENTITY getPassword.title "Въведете главна парола">
 <!ENTITY getPassword.tokenName2.label "Устройство по безопасността:">
 <!ENTITY getPassword.password.label "Парола:">
-
 <!-- These should be common -->
+
 <!ENTITY piperror.title "Грешка">
 <!ENTITY pipalert.title "Грешка - невъзможно възстановявне">
-
 <!-- Prefs panel strings -->
+
 <!ENTITY pref.security.general.lHeader "Защита">
 <!ENTITY pref.security.general.rHeader "Настройки за обща безопасност">
 <!ENTITY pref.security.general.header "Настройки за обща безопасност">
@@ -66,8 +66,8 @@
 <!ENTITY pref.security.general.paranoid.label "Използване на параноични защитни настройки">
 <!ENTITY pref.security.general.certificates.title "Сертификати">
 <!ENTITY pref.security.general.manageCert.label "Управление на сертификати">
-
 <!-- Downloading a cert -->
+
 <!ENTITY downloadCert.title "Изтегляне на сертификат">
 <!ENTITY downloadCert.message1 "Постъпи заявка за доверяване към нов сертификатен удостоверител (СА).">
 <!ENTITY downloadCert.trustSSL "При идентификацията на уеб сайтове се доверявай на този СА.">
@@ -78,32 +78,32 @@
 <!ENTITY downloadCert.viewPolicy.label "Политика">
 <!ENTITY downloadCert.viewCert.text "Изследване на сертификат на CA">
 <!ENTITY downloadCert.viewPolicy.text "Изследване на политиката и процедурите на СА">
-
 <!-- Certificate Exists in database -->
+
 <!ENTITY caCertExists.title "Сертификатът съществува">
 <!ENTITY caCertExists.message "Сертификатът вече съществува.">
-
 <!-- Strings for the SSL client auth ask dialog -->
+
 <!ENTITY clientAuthAsk.title "Заявка за идентификация на потребител">
 <!ENTITY clientAuthAsk.message1 "Този сайт изисква да се идентифицирате със сертификат:">
 <!ENTITY clientAuthAsk.message2 "Избор на сертификат, който да се представя при идентификация:">
 <!ENTITY clientAuthAsk.message3 "Подробности за избрания сертификат:">
-
 <!-- Strings for the cert picker dialog -->
+
 <!ENTITY certPicker.title "Избор на сертификат">
-<!ENTITY certPicker.info  "Сертификат:">
+<!ENTITY certPicker.info "Сертификат:">
 <!ENTITY certPicker.detailsLabel "Подробности за избрания сертификат:">
 
-<!ENTITY pkcs12.setpassword.title  "Избор на парола за резервно копие на сертификат">
-<!ENTITY pkcs12.setpassword.message  "Паролата за резервно копие на сертификат защитава файла с резервно копие, който създавате. Трябва да поставите паролата, за да продължи създаването на резервно копие.">
+<!ENTITY pkcs12.setpassword.title "Избор на парола за резервно копие на сертификат">
+<!ENTITY pkcs12.setpassword.message "Паролата за резервно копие на сертификат защитава файла с резервно копие, който създавате. Трябва да поставите паролата, за да продължи създаването на резервно копие.">
 <!ENTITY pkcs12.setpassword.label1 "Парола за резервно копие на сертификат:">
 <!ENTITY pkcs12.setpassword.label2 "Парола за резервно копие на сертификат (отново):">
 <!ENTITY pkcs12.setpassword.reminder "Важно: Ако забравите паролата за резервно копие на сертификат, няма да можете да възстановите от това резервно копие по-късно. Моля, запишете си я на безопасно място.">
 
-<!ENTITY pkcs12.getpassword.title  "Въвеждане на парола">
+<!ENTITY pkcs12.getpassword.title "Въвеждане на парола">
 <!ENTITY pkcs12.getpassword.message "Моля, въведете паролата, която е използвана при шифроването на този сертификат.">
 
-<!ENTITY chooseToken.title  "Избор на токен">
+<!ENTITY chooseToken.title "Избор на токен">
 <!ENTITY chooseToken.message1 "Моля, изберете токен.">
 
 <!ENTITY escrowWarn.title "Копиране на шифроващия ключ">
@@ -114,18 +114,18 @@
 <!ENTITY examineCert.accesskey "V">
 
 <!ENTITY serverCrlNextupdate.message "Моля, обърнете се към системния администратор за помощ">
-
 <!-- Strings for the CreateCertInfo dialog  -->
+
 <!ENTITY createCertInfo.title "Генериране на личен ключ">
 <!ENTITY createCertInfo.msg1 "Тече генериране на ключ… Това може да отнеме няколко минути…">
 <!ENTITY createCertInfo.msg2 "Моля, изчакайте…">
-
 <!-- Form Signing confirmation prompt -->
+
 <!ENTITY formSigning.title "Текстова заявка за подписване">
 <!ENTITY formSigning.cert "Подписване на сертификат">
 <!ENTITY formSigning.confirmPassword "Ако сте съгласни да подпишете този текст чрез избрания сертификат, моля потвърдете с въвеждане на главната парола:">
-
 <!-- Strings for protectedAuth dialog -->
+
 <!ENTITY protectedAuth.title "Защитена удостоверяваща токена">
 <!ENTITY protectedAuth.msg "Моля, удостоверете токената. Начинът на удостоверяване зависи от токената.">
 <!ENTITY protectedAuth.tokenName.label "Токена:">

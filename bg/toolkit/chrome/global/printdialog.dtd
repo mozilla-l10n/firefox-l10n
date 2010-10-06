@@ -18,12 +18,12 @@
 <!ENTITY printrangeGroup.label "Отпечатване">
 <!ENTITY allpagesRadio.label "Всички страници">
 <!ENTITY allpagesRadio.accesskey "A">
-<!ENTITY rangeRadio.label  "Страници">
-<!ENTITY rangeRadio.accesskey  "P">
-<!ENTITY frompageInput.label  "от">
-<!ENTITY frompageInput.accesskey  "r">
-<!ENTITY topageInput.label  "към">
-<!ENTITY topageInput.accesskey  "t">
+<!ENTITY rangeRadio.label "Страници">
+<!ENTITY rangeRadio.accesskey "P">
+<!ENTITY frompageInput.label "от">
+<!ENTITY frompageInput.accesskey "r">
+<!ENTITY topageInput.label "към">
+<!ENTITY topageInput.accesskey "t">
 <!ENTITY selectionRadio.label "Маркирания текст">
 <!ENTITY selectionRadio.accesskey "S">
 
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Отпечатване на рамките">
 <!ENTITY aslaidoutRadio.label "Както се виждат на екрана">
 <!ENTITY aslaidoutRadio.accesskey "u">
-<!ENTITY selectedframeRadio.label  "Маркираната рамка">
-<!ENTITY selectedframeRadio.accesskey  "m">
-<!ENTITY eachframesepRadio.label  "Всяка рамка поотделно">
-<!ENTITY eachframesepRadio.accesskey  "E">
+<!ENTITY selectedframeRadio.label "Маркираната рамка">
+<!ENTITY selectedframeRadio.accesskey "m">
+<!ENTITY eachframesepRadio.label "Всяка рамка поотделно">
+<!ENTITY eachframesepRadio.accesskey "E">

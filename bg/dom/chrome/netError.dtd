@@ -1,7 +1,7 @@
 <!ENTITY loadError.label "Грешка при зареждане на страница">
 <!ENTITY retry.label "Нов опит">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Грешка при свързване">
 <!ENTITY connectionFailure.longDesc "<p>Въпреки че сайтът изглежда валиден, браузърът не можа да установи връзка.</p><ul><li>Дали не е временно недостъпен? Опитайте отново по-късно.</li><li>Не можете да разглеждате и други сайтове? Проверете дали компютърът ви е свързан с мрежата.</li><li>Намира ли се компютърът зад защитна стена (firewall) или прокси? Неправилните настройки могат да попречат на сърфирането.</li></ul>">
@@ -25,7 +25,8 @@
 <!ENTITY netInterrupt.longDesc "<p>Браузърът се свърза успешно, но връзката беше прекъсната докато данните се прехвърляха. Моля, опитайте отново.</p><ul><li>Не може да разглеждате и други сайтове? Проверете връзката на компютъра с мрежата.</li><li>Ако все още има проблем, обърнете се за помощ към мрежовия си администратор или Интернет доставчика.</li></ul>">
 
 <!ENTITY netOffline.title "Режим „Работа извън мрежата“">
-<!ENTITY netOffline.longDesc "<p>Браузърът е настроен да работи в този режим и затова не може да се свърже.</p><ul><li>Работи ли мрежата към която е свързан компютърът?</li><li>Включете режим „Работа в мрежата“ и опитайте отново.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Грешка при кодиране на съдържание">
 <!ENTITY contentEncodingError.longDesc "<p>Страницата не може да бъде показана, защото използва невалидно или неподдържано компресиране.</p><ul><li>Моля, свържете се със собственика на сайта и го информирайте за този проблем.</li></ul>">
@@ -75,9 +76,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Блокирано от политика за сигурност на страницата">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Браузърът попречи на страницата да се зареди по този начин, защото на страницата има политика за сигурност, която го забранява.</p>">
-
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
+
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
