@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip        "Mostrar oa seus marcadores">
+<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores desorganizados">
 <!ENTITY viewBookmarksSidebar.label         "Mostrar na barra lateral">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de ferramentas dos marcadores">
 
