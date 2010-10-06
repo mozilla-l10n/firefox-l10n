@@ -35,21 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title        "Subscribe">
-<!ENTITY subscribeButton.label        "Subscribe">
+<!ENTITY subscribeDialog.title        "Suscribirse">
+<!ENTITY subscribeButton.label        "Suscribirse">
 <!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "Unsubscribe">
-<!ENTITY unsubscribeButton.accesskey  "U">
-<!ENTITY newGroupsTab.label           "New Groups">
+<!ENTITY unsubscribeButton.label      "Desuscribirse">
+<!ENTITY unsubscribeButton.accesskey  "u">
+<!ENTITY newGroupsTab.label           "Nuevos grupos">
 <!ENTITY newGroupsTab.accesskey       "N">
-<!ENTITY refreshButton.label          "Refresh">
+<!ENTITY refreshButton.label          "Recargar">
 <!ENTITY refreshButton.accesskey      "R">
-<!ENTITY stopButton.label             "Stop">
-<!ENTITY stopButton.accesskey         "T">
-<!ENTITY server.label                 "Account:">
-<!ENTITY server.accesskey             "A">
-<!ENTITY subscribedHeader.label       "Subscribe">
+<!ENTITY stopButton.label             "Detener">
+<!ENTITY stopButton.accesskey         "t">
+<!ENTITY server.label                 "Cuenta:">
+<!ENTITY server.accesskey             "a">
+<!ENTITY subscribedHeader.label       "Suscribirse">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Show items that contain:">
-<!ENTITY namefield.accesskey          "O">
+<!ENTITY messagesHeader.label         "Mensajes"> -->
+<!ENTITY namefield.label              "Mostrar los elementos que contengan:">
+<!ENTITY namefield.accesskey          "o">

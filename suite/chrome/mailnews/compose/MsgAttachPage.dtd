@@ -33,8 +33,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY caption.label "Attach Web Page">
-<!ENTITY enter.label "Enter the web location (URL), or specify the local file you would like to attach:">
-<!ENTITY enter.accesskey "E">
-<!ENTITY chooseFile.label "Choose File…">
-<!ENTITY chooseFile.accesskey "C">
+<!ENTITY caption.label "Adjuntar página web">
+<!ENTITY enter.label "Ingrese la dirección web (URL) o especifique el archivo local que desee adjuntar:">
+<!ENTITY enter.accesskey "e">
+<!ENTITY chooseFile.label "Seleccionar archivo…">
+<!ENTITY chooseFile.accesskey "c">

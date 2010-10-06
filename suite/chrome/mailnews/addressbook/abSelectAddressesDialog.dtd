@@ -36,28 +36,28 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY selectAddressWindow.title           "Select Addresses">
+<!ENTITY selectAddressWindow.title           "Seleccionar direcciones">
 
 <!-- Buttons -->
-<!ENTITY toButton.label                      "To->"> 
-<!ENTITY toButton.accesskey                  "T"> 
+<!ENTITY toButton.label                      "A->"> 
+<!ENTITY toButton.accesskey                  "A"> 
 <!ENTITY ccButton.label                      "Cc->"> 
 <!ENTITY ccButton.accesskey                  "C"> 
-<!ENTITY bccButton.label                     "Bcc->">  
-<!ENTITY bccButton.accesskey                 "B">  
-<!ENTITY newButton.label                     "New…"> 
+<!ENTITY bccButton.label                     "Cco->">  
+<!ENTITY bccButton.accesskey                 "C">  
+<!ENTITY newButton.label                     "Nueva…"> 
 <!ENTITY newButton.accesskey                 "N"> 
-<!ENTITY editButton.label                    "Edit…"> 
+<!ENTITY editButton.label                    "Editar…"> 
 <!ENTITY editButton.accesskey                "E">
-<!ENTITY removeButton.label                  "Remove"> 
-<!ENTITY removeButton.accesskey              "R"> 
-<!ENTITY lookIn.label                        "Look in:"> 
-<!ENTITY lookIn.accesskey                    "L"> 
-<!ENTITY for.label                           "for:"> 
-<!ENTITY for.accesskey                       "f"> 
-<!ENTITY addressMessageTo.label              "Address message to:"> 
+<!ENTITY removeButton.label                  "Eliminar"> 
+<!ENTITY removeButton.accesskey              "r"> 
+<!ENTITY lookIn.label                        "Buscar en:"> 
+<!ENTITY lookIn.accesskey                    "B"> 
+<!ENTITY for.label                           "para:"> 
+<!ENTITY for.accesskey                       "p"> 
+<!ENTITY addressMessageTo.label              "Redactar mensaje a:"> 
 
 <!-- Tooltips items -->  
-<!ENTITY addressPickerNewButton.tooltip      "Create a new address book card"> 
-<!ENTITY addressPickerEditButton.tooltip     "Edit the selected card"> 
+<!ENTITY addressPickerNewButton.tooltip      "Crear una nueva tarjeta de direcciones"> 
+<!ENTITY addressPickerEditButton.tooltip     "Editar la tarjeta seleccionada"> 
 

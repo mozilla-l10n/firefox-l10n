@@ -37,15 +37,15 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.character.encoding.title   "Character Encoding">
-<!ENTITY messageDisplay.caption          "Message Display">
-<!ENTITY viewDefaultCharset.label        "Default Character Encoding:">
-<!ENTITY viewDefaultCharset.accesskey    "D">
+<!ENTITY pref.character.encoding.title   "Codificación de caracteres">
+<!ENTITY messageDisplay.caption          "Vista de Mensajes">
+<!ENTITY viewDefaultCharset.label        "Codificación predeterminada:">
+<!ENTITY viewDefaultCharset.accesskey    "d">
 
-<!ENTITY composingMessages.caption       "Composing Messages">
-<!ENTITY useMIME.label                   "For messages that contain 8-bit characters, use 'quoted printable' MIME encoding. Leave unchecked to send the messages as is.">
-<!ENTITY useMIME.accesskey               "F">
-<!ENTITY sendDefaultCharset.label        "Default Character Encoding:">
+<!ENTITY composingMessages.caption       "Redactar mensajes">
+<!ENTITY useMIME.label                   "Para mensajes que contienen caracteres de 8 bits, use la codificación MIME 'quoted printable'. Deje sin tildar para enviar el mensaje como está ahora.">
+<!ENTITY useMIME.accesskey               "f">
+<!ENTITY sendDefaultCharset.label        "Codificación predeterminada:">
 <!ENTITY sendDefaultCharset.accesskey    "C">
-<!ENTITY replyInDefaultCharset2.label    "When possible, use this default character encoding in replies. (When unchecked, only new messages use this default.)">
-<!ENTITY replyInDefaultCharset2.accesskey "W">
+<!ENTITY replyInDefaultCharset2.label    "Cuando sea posible, usar la codificación de caraceres predeterminada en las respuestas (cuando no está tildada, sólo los mensajes nuevos usan esta opción).">
+<!ENTITY replyInDefaultCharset2.accesskey "C">

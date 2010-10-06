@@ -35,21 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY fieldMapImport.title "Import Address Book">
+<!ENTITY fieldMapImport.title "Importar libreta de direcciones">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.recordNumber "Imported data for Record: ">
-<!ENTITY fieldMapImport.next.label "Next">
-<!ENTITY fieldMapImport.next.accesskey "N">
-<!ENTITY fieldMapImport.previous.label "Previous">
-<!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "Use Move Up and Move Down to match the address book fields on the left to the correct data for import on the right. Uncheck items you do not want to import.">
-<!ENTITY fieldMapImport.up.label "Move Up">
-<!ENTITY fieldMapImport.up.accesskey "U">
-<!ENTITY fieldMapImport.down.label "Move Down">
-<!ENTITY fieldMapImport.down.accesskey "D">
-<!ENTITY fieldMapImport.fieldListTitle "Address Book fields">
-<!ENTITY fieldMapImport.dataTitle "Record data to import">
-<!ENTITY fieldMapImport.skipFirstRecord.label "First record contains field names">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
+<!ENTITY fieldMapImport.recordNumber "Registro:">
+<!ENTITY fieldMapImport.next.label "Siguiente">
+<!ENTITY fieldMapImport.next.accesskey "n">
+<!ENTITY fieldMapImport.previous.label "Anterior">
+<!ENTITY fieldMapImport.previous.accesskey "A">
+<!ENTITY fieldMapImport.text "Use subir y bajar para elegir el orden los campos de la libreta de direcciones de la izquierda para importar en la parte derecha. Desmarque los elementos que no quiera importar.">
+<!ENTITY fieldMapImport.up.label "Subir">
+<!ENTITY fieldMapImport.up.accesskey "S">
+<!ENTITY fieldMapImport.down.label "Bajar">
+<!ENTITY fieldMapImport.down.accesskey "B">
+<!ENTITY fieldMapImport.fieldListTitle "Campos de la libreta de direcciones">
+<!ENTITY fieldMapImport.dataTitle "Registros de datos a importar:">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Primer registro contiene nombres de campo">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "N">
 
 

@@ -37,9 +37,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY junkLog.title "Junk Mail Log">
-<!ENTITY junkLogInfo.label "Log of junk mail control activity.">
-<!ENTITY clearLog.label "Clear Log">
-<!ENTITY clearLog.accesskey "C">
-<!ENTITY closeLog.label "Close">
-<!ENTITY closeLog.accesskey "o">
+<!ENTITY junkLog.title "Registro del correo basura">
+<!ENTITY junkLogInfo.label "Control de actividad del registro del correo basura.">
+<!ENTITY clearLog.label "Limpiar el registro">
+<!ENTITY clearLog.accesskey "L">
+<!ENTITY closeLog.label "Cerrar">
+<!ENTITY closeLog.accesskey "C">
