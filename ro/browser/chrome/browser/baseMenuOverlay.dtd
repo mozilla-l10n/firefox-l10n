@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "Pentru utilizatorii Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label         "Note asupra ediției">
 <!ENTITY helpReleaseNotes.accesskey     "N">
@@ -24,6 +26,8 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informații de depanare">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
 
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY updateCmd.label                "Caută actualizări...">
 
