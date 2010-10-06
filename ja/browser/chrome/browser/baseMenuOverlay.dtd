@@ -17,12 +17,17 @@
 <!ENTITY helpForIEUsers.label		"Internet Explorer ユーザのために">
 <!ENTITY helpForIEUsers.accesskey	"I">
 <!ENTITY helpMac.commandkey		"?">
+<!ENTITY helpSafeMode.label		"アドオンを無効にして再起動...">
+<!ENTITY helpSafeMode.accesskey		"R">
 
 <!ENTITY helpReleaseNotes.label		"リリースノート">
 <!ENTITY helpReleaseNotes.accesskey	"N">
 
 <!ENTITY helpTroubleshootingInfo.label	"トラブルシューティング情報...">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
+
+<!ENTITY helpFeedbackPage.label		"フィードバックを送信...">
+<!ENTITY helpFeedbackPage.accesskey	"S">
 
 <!ENTITY updateCmd.label		"ソフトウェアの更新を確認...">
 
