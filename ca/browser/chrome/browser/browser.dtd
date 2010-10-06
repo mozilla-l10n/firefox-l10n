@@ -142,6 +142,7 @@
 
 <!ENTITY bookmarksMenuButton.label          "Adreces d'interès">
 <!ENTITY bookmarksMenuButton.tooltip        "Mostra les vostres adreces d'interès">
+<!ENTITY bookmarksMenuButton.unsorted.label "Adreces d'interès desordenades">
 <!ENTITY viewBookmarksSidebar.label         "Mostra en la barra lateral">
 <!ENTITY viewBookmarksToolbar.label         "Visualitza la barra de les adreces d'interès">
 
