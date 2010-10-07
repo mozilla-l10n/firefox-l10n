@@ -50,13 +50,14 @@
 <!ENTITY otherActionsOpenInNewTab.accesskey "s">
 <!ENTITY otherActionsPrint.label "shtype…">
 <!ENTITY otherActionsPrint.accesskey "y">
-<!ENTITY otherActionsShowConversation.label "shfaqe në bashkëbisedim">
-<!ENTITY otherActionsShowConversation.accesskey "b">
+<!ENTITY otherActionsOpenConversation.label "hape në bashkëbisedim">
+<!ENTITY otherActionsOpenConversation.accesskey "b">
 <!ENTITY markAsReadMenuItem.label "shënoje si të lexuar">
 <!ENTITY markAsReadMenuItem.accesskey "l">
 <!ENTITY markAsUnreadMenuItem.label "shënoje si të palexuar">
 <!ENTITY markAsUnreadMenuItem.accesskey "p">
-
+<!ENTITY openAllAttachmentsCmd.label    "Hapini Krejt…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "H">
 <!ENTITY hdrViewToolbarShowFull.label "Shfaq Ikona dhe Tekst">
 <!ENTITY hdrViewToolbarShowFull.accesskey "d">
 <!ENTITY hdrViewToolbarShowIcons.label "Shfaq Vetëm Ikona">
