@@ -18,6 +18,8 @@
                                            du har inte de systemrättigheter som krävs för att installera den. Kontakta
                                            systemadministratören eller försök igen från ett konto som har rättighet att
                                            installera programvara på den här datorn.">
+<!ENTITY  manualUpdate.space.desc         "En rekommenderad säkerhets- och stabilitetsuppdatering är tillgänglig, men
+                                           du har inte tillräckligt med utrymme för att installera den.">
 <!ENTITY  manualUpdateGetMsg.label        "Du kan alltid hämta den senaste versionen av &brandShortName; från:">
 
 <!ENTITY  incompatibleCheck.title         "Kontrollerar tilläggens kompatibilitet">
