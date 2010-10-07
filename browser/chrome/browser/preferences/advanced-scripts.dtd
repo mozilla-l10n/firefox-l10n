@@ -13,7 +13,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "우클릭메뉴 사용을 막거나 바꾸기">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "상태 표시줄 숨기기">
-<!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "상태 표시줄 텍스트 바꾸기">
-<!ENTITY changeStatusBar.accesskey      "C">

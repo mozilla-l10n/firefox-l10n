@@ -37,8 +37,9 @@
 <!ENTITY personalbarCmd.label "북마크 모음">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "북마크 모음 항목">
-<!ENTITY taskbarCmd.label "상태 표시줄">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "부가 기능 모음">
+<!ENTITY addonBarCmd.accesskey "B">
+
 <!ENTITY pageSourceCmd.label "소스 보기">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -81,7 +82,8 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "이 페이지 읽기 중지">
 <!ENTITY goEndCap.tooltip "주소 표시줄에 주소를 입력하십시오.">
-<!ENTITY feedButton.tooltip		"구독하기…">
+<!ENTITY feedButton.label "구독하기">
+<!ENTITY feedButton.tooltip		"페이지 구독하기…">
 <!ENTITY printButton.label "인쇄">
 <!ENTITY printButton.tooltip "현재 페이지 인쇄">
 
@@ -93,6 +95,7 @@
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label  "메뉴">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; 메뉴 열기">
 <!ENTITY homeButton.label "홈">
 
 <!ENTITY tabGroupsButton.label         "탭 그룹">
@@ -104,7 +107,8 @@
 <!ENTITY bookmarksCmd.commandkey	"b">
 
 <!ENTITY bookmarksMenuButton.label          "북마크">
-<!ENTITY bookmarksMenuButton.tooltip        "북마크에 표시">
+<!ENTITY bookmarksMenuButton.tooltip        "북마크 표시">
+<!ENTITY bookmarksMenuButton.unsorted.label "통합 북마크">
 <!ENTITY viewBookmarksSidebar.label         "탐색창에 표시">
 <!ENTITY viewBookmarksToolbar.label         "도구 모음에 표시">
 
@@ -220,8 +224,10 @@ can reach it easily. -->
 <!ENTITY urlbar.switchToTab.label "탭 전환:">
 
 <!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY tabView.commandkey           "e">
+
 <!ENTITY openLinkCmd.label "새 창에 링크 열기">
 <!ENTITY openLinkCmd.accesskey "W">
 <!ENTITY openLinkCmdInCurrent.label     "링크 열기">
@@ -418,9 +424,11 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "탐색창">
 <!ENTITY appMenuFind.label "찾기…">
 <!ENTITY appMenuUnsorted.label "통합 북마크">
+<!ENTITY appMenuWebDeveloper.label "개발자 도구">
 <!ENTITY appMenuGettingStarted.label "시작하기">
+<!ENTITY appMenuSafeMode.label "부가 기능 정지 후 다시 시작…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
-<!ENTITY developerMenu.label "개발자 도구">
 <!ENTITY savePageCmd.accesskey2 "P">
 <!ENTITY quitApplicationCmdMac.label "&brandShortName; 종료">
 <!ENTITY quitApplicationCmdMac.key "Q">
