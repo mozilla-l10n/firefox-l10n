@@ -46,5 +46,3 @@
 <!ENTITY  clickFinish.label               "Klicken Sie auf Fertig stellen, um &brandShortName; zu starten.">
 <!ENTITY  clickFinish.labelMac            "Klicken Sie auf Fertig stellen, um &brandShortName; zu starten.">
 <!ENTITY  enableChecking.label            "&brandShortName; erlauben, auf Updates zu überprüfen.">
-<!ENTITY  details.label                   "Details…">
-<!ENTITY  details.accesskey               "D">
