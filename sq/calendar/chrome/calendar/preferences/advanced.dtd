@@ -1,0 +1,102 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Thunderbird Preferences System
+   -
+   - The Initial Developer of the Original Code is
+   - Scott MacGregor
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.calendar.advanced.generalTab.label "Të përgjithshme">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "Fjalëkalime">
+<!ENTITY pref.calendar.advanced.updateTab.label "Përditësim">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Kodim">
+
+<!-- General -->
+<!ENTITY pref.calendar.advanced.showConnections.label     "Rregullime Lidhjeje…">
+<!ENTITY pref.calendar.advanced.showConnections.accesskey "r">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Përcaktoni se si &brandShortName;-i lidhet në Internet">
+<!ENTITY pref.calendar.advanced.configEdit.caption "Formësim i Mëtejshëm">
+<!ENTITY pref.calendar.advanced.configEdit.button "Përpunues Formësimesh…">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "F">
+
+<!-- Passwords -->
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName;-i mund të mbajë mend të dhëna fjalëkalimesh për tërë kalendarët tuaj, që kështu të mos keni nevojë të rifusni të dhënat tuaja për hyrje.">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "Përdor një Fjalëkalim të Përgjithshëm për të koduar fjalëkalimet e depozituar">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "P">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Po qe caktuar, Fjalëkalimi i Përgjithshëm mbron tërë fjalëkalimet tuaj, por duhet ta jepni një herë për sesion.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Ndërroni Fjalëkalimin e Përgjithshëm…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "N">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "Shihni Fjalëkalimet e Ruajtur…">
+<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "S">
+
+<!-- Update -->
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Kontrollo vetvetiu për përditësime te:">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Shtesa të Instaluara">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "s">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Kur gjenden përditësime për &brandShortName;-in:">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Pyetmë se çfarë dëshiroj të bëj">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "p">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "Shkarkoje dhe instaloje përditësimin vetvetiu">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "v">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Sinjalizomë nëse kështu do të çaktivizohej ndonjë nga shtesat e mia">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "z">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "Shfaq Historik Përditësimesh…">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "H">
+
+<!-- Encryption -->
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Protokolle">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Përdor SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Përdor TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Dëshmi">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Kur një shërbyes kërkon dëshminë time personale:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Përzgjidh vetvetiu një të tillë">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "p">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Pyetmë çdo herë">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "ç">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Shihni Dëshmitë">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "d">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Lista Shfuqizimesh">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "L">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Vleftësim">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Pajisje Sigurie">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "j">
