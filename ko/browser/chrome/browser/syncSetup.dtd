@@ -43,10 +43,10 @@
 <!ENTITY syncKeyEntry.label        "동기화 암호">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "생성하기">
+<!ENTITY syncKeyStrength.label     "강도:">
+<!ENTITY syncKeyHelp.label         "암호 강도의 의미는 무엇입니까?">
 <!ENTITY syncKeyBackup.description "동기화 암호는 다른 기기에서 &syncBrand.fullName.label; 접속 시 필요합니다. 백업본을 만드시기 바랍니다. 동기화 암호는 복구할 수 없습니다.">
 
-<!ENTITY button.syncKeyBackup.email.label     "메일…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "인쇄…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "저장…">

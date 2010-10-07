@@ -91,6 +91,13 @@
 <!ENTITY cmd.hideReleaseNotes.label           "제품 소개 숨기기">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "현재 업데이트 시 제품 소개 숨기기">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "부가 기능 소개">
+<!ENTITY discover.description2                "부가 기능은 &brandShortName;를 여러분의 취향에 따라 맞춤 기능을 만들어 주는 애플리케이션 혹은 테마입니다. 메일 혹은 날씨 알림, 원하는 스타일 등 다양한 기능을 제공합니다.">
+<!ENTITY discover.footer                      "인터넷에 연결할 때 최신 추천 부가 기능을 소개해 드립니다.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "버전">
 <!ENTITY detail.lastupdated.label             "최종 수정일">
