@@ -21,6 +21,8 @@ un varēsiet turpināt atjauninājuma instalēšanu.">
 <!ENTITY license.decline "Es nepiekrītu licences līguma noteikumiem">
 <!ENTITY license.decline.accesskey "T">
 
+<!ENTITY  manualUpdate.space.desc         "Ir pieejams ieteicams drošības un stabilitātes atjauninājums, taču jums nav pietiekami daudz brīvās vietas, lai to uzinstalētu.">
+
 <!ENTITY  downloadPage.title              "Lejupielādē &brandShortName;">
 
 <!ENTITY downloading.intro "Lejupielādē atjauninājumu...">
