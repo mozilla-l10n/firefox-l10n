@@ -95,8 +95,8 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Kva er utvidingar?">
-<!ENTITY discover.description                 "Utvidingar er programm som lèt deg tilpasse Firefox med 
- ekstra funksjonalitet eller stil. Prøv ein sidestolpe som sparer deg tid, vêrvarsling, eller eit tema som får Firefox  til å sjå ut akkurat som din eigen.">
+<!ENTITY discover.description2                "Utvidingar er program som lèt deg tilpasse &brandShortName; med 
+  ekstra funksjonalitet eller annan stil. Prøv ein sidestolpe som sparer deg tid, vêrvarsling, eller eit tema som får &brandShortName; til å sjå ut som din eigen.">
 <!ENTITY discover.footer                      "Når du er kopla til nettet vil dette vindauget 
   innehalde nokre av dei beste og mest populære utvidingane som du kan prøve ut.">
 
