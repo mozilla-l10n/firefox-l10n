@@ -63,9 +63,7 @@
 <!ENTITY  errorpatching.intro             "Das inkrementelle Update für &brandShortName; konnte nicht installiert werden.
                                            Es wird nun für einen neuen Versuch das komplette Update-Paket heruntergeladen.">
 
-
- 
-
+<!ENTITY  genericBackgroundError.label    "Es konnte nicht festgestellt werden, ob ein Update zur Verfügung steht. Bitte stellen Sie sicher, dass Sie die letzte Version von &brandShortName; haben, von:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Etwas hindert &brandShortName; daran, sicher zu aktualisieren.
 										  Bitte stellen Sie sicher, dass Sie die letzte Version von &brandShortName; haben, von:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Etwas versucht &brandShortName; dazu zu bringen, ein unsicheres Update zu akzeptieren. Bitte kontaktieren Sie Ihren Netzwerk-Provider, und fragen Sie um Hilfe.">
