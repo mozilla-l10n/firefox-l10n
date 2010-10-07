@@ -18,6 +18,8 @@
                                            hawwe net de systeemrjochten dy't nedich binne om it te ynstallearjen. Nim asjobleaft kontakt op mei jo
                                            systeembehearder, of besykje it nochris mei in account dy't wol de rjochten hat om
                                            programma's te ynstallearjen op dizze kompjûter.">
+<!ENTITY  manualUpdate.space.desc         "In oanrikkemandearre feilichheids- en stabileitsfernijing is beskikber, mar jo
+                                           hawwe net genôch skiifromte om it te ynstallearjen.">
 <!ENTITY  manualUpdateGetMsg.label        "Jo kinne altyd de lêste ferzje fan &brandShortName; krije fanôf:">
 
 <!ENTITY  incompatibleCheck.title         "Kontrolearret tafoegings kompatibiliteit">
