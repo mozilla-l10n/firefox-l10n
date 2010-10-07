@@ -9,6 +9,7 @@
 <!ENTITY noupdatesautodisabled.intro "Non sono disponibili nuovi aggiornamenti. Ricontrollare in un secondo momento o attivare il controllo automatico degli aggiornamenti di &brandShortName;.">
 <!ENTITY manualUpdate.title "Impossibile aggiornare">
 <!ENTITY manualUpdate.desc "È disponibile un aggiornamento di sicurezza e stabilità ma non si possiedono i permessi richiesti per l'installazione. Contattare l'amministratore di sistema o riprovare utilizzando un account dotato dei permessi necessari per installare software sul computer in uso.">
+<!ENTITY manualUpdate.space.desc "È disponibile un aggiornamento di sicurezza e stabilità ma non si dispone di spazio sufficiente per l'installazione.">
 <!ENTITY manualUpdateGetMsg.label "L'ultima versione di &brandShortName; è sempre disponibile su:">
 <!ENTITY incompatibleCheck.title "Verifica compatibilità componenti aggiuntivi">
 <!ENTITY incompatibleCheck.label "Ricerca in corso di nuove versioni dei componenti aggiuntivi…">
