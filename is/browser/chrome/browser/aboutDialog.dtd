@@ -2,11 +2,11 @@
 <!ENTITY community.start2 "&brandShortName; er hannað af ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 ", ">
+<!ENTITY community.middle2 ", sem er">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink "alheimssamfélag">
-<!ENTITY community.end2 " sem vinnur að því að gera Netið betra. Við trúum á það að Netið ætti að vera frjáls, opið, og aðgengilegt öllum án takmarkana.">
-<!ENTITY contribute.start "Hljómar þetta vel? ">
+<!ENTITY community.creditsLink "samfélag">
+<!ENTITY community.end2 " sem vinnur að því að gera Internetið betra. Okkar trú er að Internetið ætti að vera frjálst, opið, og aðgengilegt öllum án takmarkana.">
+<!ENTITY contribute.start "Hljómar vel? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Taktu þátt!">
 <!ENTITY contribute.end "">
@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Athuga samhæfni viðbótar…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound "&brandShortName; er uppfært">
+<!ENTITY update.noUpdatesFound "&brandShortName; er í nýjustu útgáfu">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled "Uppfærslur hafa verið gerðar óvirkar af kerfistjóra">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):

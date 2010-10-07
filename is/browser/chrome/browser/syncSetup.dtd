@@ -10,7 +10,7 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label "Netþjónn">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; netþjónn">
-<!ENTITY serverType.custom.label "Nota sérsniðinn netþjón">
+<!ENTITY serverType.custom.label "Nota sérsniðin netþjón">
 <!ENTITY signIn.account.label "Tölvupóstfang / Notandanafn">
 <!ENTITY signIn.account.accesskey "T">
 <!ENTITY signIn.password.label "Lykilorð">
@@ -18,7 +18,7 @@
 <!ENTITY signIn.serverURL.label "Slóð þjóns">
 <!ENTITY signIn.serverURL.accesskey "l">
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Upplýsingar aðgangs">
+<!ENTITY setup.newAccountDetailsPage.title.label "Aðgangsupplýsingar">
 <!ENTITY setup.confirmPassword.label "Staðfestu lykilorðið">
 <!ENTITY setup.confirmPassword.accesskey "S">
 <!ENTITY setup.emailAddress.label "Tölvupóstfang">
@@ -33,8 +33,8 @@
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; er umhugað um þína friðhelgi">
-<!ENTITY setup.newSyncKeyPage.description.label "Til að passa upp á friðhelgi þína, eru öll gögn dulkóðuð áður en þau eru send. Sync lykillinn sem er nauðsynlegur til að afkóða gögnin er ekki sendur.">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; er umhugað um friðhelgi þína">
+<!ENTITY setup.newSyncKeyPage.description.label "Til að passa upp á friðhelgi þína, eru öll gögn dulkóðuð áður en þau eru send. Hinsvegar er Sync lykillinn sem er nauðsynlegur til að afkóða gögnin er ekki sendur.">
 <!ENTITY syncKeyEntry.label "Sync lykillinn þinn">
 <!ENTITY syncKeyEntry.accesskey "k">
 <!ENTITY syncKeyGenerate.label "Búa til">
@@ -61,7 +61,7 @@
 <!ENTITY setup.optionsPage.title "Sync stillingar">
 <!ENTITY syncComputerName.label "Tölvuheiti:">
 <!ENTITY syncComputerName.accesskey "T">
-<!ENTITY syncMy.label "Samkeyra við">
+<!ENTITY syncMy.label "Samstilla">
 <!ENTITY engine.bookmarks.label "Bókamerki">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label "Flipar">

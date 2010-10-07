@@ -10,8 +10,6 @@
 <!ENTITY installAddonFromFile.label "Setja inn viðbót frá skrá…">
 <!ENTITY installAddonFromFile.accesskey "i">
 <!ENTITY toolsMenu.tooltip "Verkfæri fyrir allar viðbætur">
-<!ENTITY cmd.back.tooltip "Til baka um eina síðu">
-<!ENTITY cmd.forward.tooltip "Áfram um eina síðu">
 <!-- global warnings -->
 <!ENTITY warning.safemode.label "Allar viðbætur hafa verið gerðar óvirkar vegna öryggishams.">
 <!ENTITY warning.checkcompatibility.label "Samhæfnisathugun viðbóta er óvirk. Hugsanlegt er að þú sért með ósamhæfðar viðbætur.">
