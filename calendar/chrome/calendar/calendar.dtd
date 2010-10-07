@@ -346,3 +346,14 @@
 <!ENTITY calendar.error.code "Kod gabimi:">
 <!ENTITY calendar.error.description "Përshkrim:">
 <!ENTITY calendar.error.title "Ndodhi një gabim">
+
+
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Punët e Tanishme">
+<!ENTITY calendar.task.filter.current.accesskey     "P">
+<!ENTITY calendar.task.filter.repeating.label       "Punë që Përsëriten">
+<!ENTITY calendar.task.filter.repeating.accesskey   "R">
