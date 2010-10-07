@@ -14,6 +14,8 @@
                                            ekki með nægjanlegt réttindi til að geta sett hana inn. Hafðu samband við
                                            kerfisstjóra, eða reyndu aftur frá öðrum reikningi sem hefur réttindi til að
                                            setja inn hugbúnað á þessari tölvu.">
+<!ENTITY manualUpdate.space.desc "Tiltæk er öryggis og stöðugleikauppfærsla, en þú ert
+                                           ekki með nóg laust pláss til að setja hana inn.">
 <!ENTITY manualUpdateGetMsg.label "Þú getur alltaf nálgast nýjustu útgáfu af &brandShortName; á:">
 <!ENTITY incompatibleCheck.title "Athuga samhæfni viðbótar">
 <!ENTITY incompatibleCheck.label "Leita að uppfærðum viðbótum…">

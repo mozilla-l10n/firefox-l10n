@@ -164,7 +164,7 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey "g">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY webConsoleCmd.label "Vefgluggi">
-<!ENTITY webConsoleCmd.accesskey "V">
+<!ENTITY webConsoleCmd.accesskey "e">
 <!ENTITY webConsoleCmd.commandkey "k">
 <!ENTITY inspectMenu.label "Skoða">
 <!ENTITY inspectMenu.accesskey "S">

@@ -17,7 +17,7 @@
 <!ENTITY resetSync.label "Endurstilla Sync">
 <!ENTITY stopUsingAccount.label "Hætta að nota þennan aðgang">
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label "Samstilla vafra">
+<!ENTITY syncPrefsCaption.label "Samstilling">
 <!ENTITY syncComputerName.label "Tölvuheiti:">
 <!ENTITY syncComputerName.accesskey "T">
 <!ENTITY syncMy.label "Samkeyra við">
