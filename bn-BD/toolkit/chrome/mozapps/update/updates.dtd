@@ -18,6 +18,8 @@
 ডাউনলোড করার প্রয়োজনীয় অনুমতি আপনার নেই। অনুগ্রহ 
 করে আপনার সিস্টেম প্রশাসকের সাথে যোগাযোগ করুন অথবা এই কম্পিউটারে 
 সফটওয়্যার ইনস্টলের অনুমতি রয়েছে এমন একটি অ্যাকাউন্ট থেকে পুনরায় চেষ্টা করুন।">
+<!ENTITY manualUpdate.space.desc "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
 <!ENTITY manualUpdateGetMsg.label "আপনি সর্বদা &brandShortName; এর সর্বশেষ সংস্করণ পাবেন এখানে:">
 
 <!ENTITY incompatibleCheck.title "অ্যাড-অনের উপযুক্ততা পরীক্ষা করা হচ্ছে">
@@ -63,12 +65,12 @@
 <!ENTITY errorpatching.intro "আংশিক হালনাগাদ প্রয়োগ করা যায়নি। 
 &brandShortName; সম্পূর্ণ হালনাগাদ ডাউনলোড করে আবার চেষ্টা করবে।">
 
-<!ENTITY genericBackgroundError.label "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY errorCertAttrNoUpdate2.label "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY errorCertAttrHasUpdate.label "Something is trying to trick &brandShortName; into accepting an
-                                           insecure update. Please contact your network provider and seek help.">
+<!ENTITY genericBackgroundError.label "&brandShortName; is unable to determine if there is an update available. Please 
+make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY errorCertAttrNoUpdate2.label "Something is preventing &brandShortName; from updating securely. 
+Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY errorCertAttrHasUpdate.label "Something is trying to trick &brandShortName; into accepting an 
+insecure update. Please contact your network provider and seek help.">
 
 <!ENTITY finishedPage.title "হালনাগাদ ইনস্টল করার জন্য প্রস্তুত">
 <!ENTITY finishedPage.text "এই হালনাগাদটি &brandShortName; পরবর্তীতে চালু হওয়ার সময় ইনস্টল করা হবে। আপনি &brandShortName; 
