@@ -13,6 +13,8 @@
 
 <!ENTITY  manualUpdate.title              "No es pot actualitzar">
 <!ENTITY  manualUpdate.desc               "Hi ha una actualització de seguretat i estabilitat recomanada disponible, però no teniu els permisos necessaris per a instaŀlar-la. Contacteu amb el vostre administrador de sistemes o torneu a provar-ho des d'un compte que tingui permisos per a instaŀlar programari en aquest ordinador.">
+
+<!ENTITY  manualUpdate.space.desc         "Hi ha una actualització de seguretat i estabilitat recomanada disponible, però no teniu espai suficient per instal·lar-la.">
 <!ENTITY  manualUpdateGetMsg.label        "Sempre podeu aconseguir la darrera versió del &brandShortName; a:">
 
 
