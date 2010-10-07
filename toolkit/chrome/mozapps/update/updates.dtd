@@ -22,7 +22,7 @@
 
 <!ENTITY  downloading.intro               "Po shkarkohet përditësimi…">
 <!ENTITY  connecting.label                "Po bëhet lidhja te shërbyesi i përditësimeve…">
-<!ENTITY  verificationFailedText.label    "&brandShortName;-i  nuk qe i zoti të vërtetonte  pacënueshmërinë 
+<!ENTITY  verificationFailedText.label    "&brandShortName;-i  nuk qe i zoti të vërtetonte pacënueshmërinë 
                                            e përditësimit shtues që shkarkoi, ndaj tani po shkarkon paketën e plotë të përditësimit.">
 
 <!ENTITY  details.link                    "Hollësi">
@@ -61,6 +61,8 @@
 
 <!ENTITY  manualUpdate.title              "I pazoti për Përditësim">
 <!ENTITY  manualUpdate.desc               "Mund të kihet një përditësim sigurie dhe qëndrueshmërie, por nuk keni lejet e domosdoshme në sistem për instalimin. Ju lutem, lidhuni me përgjegjësin e sistemit, ose riprovoni prej një llogarie e cila ka leje për instalim programesh në këtë kompjuter.">
+<!ENTITY  manualUpdate.space.desc         "Mund të kihet një përditësim sigurie dhe qëndrueshmërie, por nuk keni hapësirë të mjaftueshme për instalimin e tij.">
+
 <!ENTITY  manualUpdateGetMsg.label        "Mund të merrni, kur të doni, versionin më të fundit të &brandShortName;-it nga:">
 <!ENTITY  downloadPage.title              "Po shkarkohet &brandShortName;">
 
