@@ -18,6 +18,8 @@
                                            du har ikke tilgangsrettighetene som er nødvendig for å installere den. Kontakt
                                            systemansvarlig eller forsøk igjen fra en brukerkonto som har tilgang til
                                            å installere programvare på denne datamaskinen.">
+<!ENTITY  manualUpdate.space.desc         "En anbefalt sikkerhets- og stabilitetsoppdatering er tilgjengelig, men
+                                           du har ikke nok ledig diskplass til å installere den.">
 <!ENTITY  manualUpdateGetMsg.label        "Du kan også laste ned den nyeste versjonen av &brandShortName; fra:">
 
 <!ENTITY  incompatibleCheck.title         "Kontrollerer utvidelseskompatibilitet">
