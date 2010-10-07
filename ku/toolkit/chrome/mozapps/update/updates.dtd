@@ -18,6 +18,8 @@
                                            not have the system permissions required to install it. Please contact your
                                            system administrator, or try again from an account that has permission to
                                            install software on this computer.">
+<!ENTITY  manualUpdate.space.desc         "Rojanekirineke pêşniyarbûyî ya hevgirtinê heye, lê ji bo sazkirina wê têra xwe
+                                           ciyê vala tune ye.">
 <!ENTITY  manualUpdateGetMsg.label        "Tu her dem dikarî guhertoya dawîn a &brandShortName;ê bistînî li:">
 
 <!ENTITY  incompatibleCheck.title         "Hevgirtina Add-onê Kontrol Dike">
@@ -49,7 +51,7 @@
 
 <!ENTITY  details.link                    "Kitekit">
 
-<!ENTITY  error.title                     "Update Failed">
+<!ENTITY  error.title                     "Rojanekirin têk çû">
 
 <!ENTITY  error.label                     "Pirsgirêk derketin ber daxistin an jî sazkirina vê rojanekirinê. &brandShortName; ji ber vê sedemê nehat rojanekirin:">
                                            

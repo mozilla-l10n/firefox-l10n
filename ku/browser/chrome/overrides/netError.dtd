@@ -56,11 +56,10 @@
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+<!ENTITY netOffline.overrideLongDesc "<ul>
+  <li>Nîşana parçeya menuya &quot;Work Offline&quot;ê rake, piştre dîsa biceribîne.</li>
 </ul>
-">
+   ">
 
 <!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
 <!ENTITY contentEncodingError.longDesc "Dibe ku di vê malperê de naveroka ne ewle di virê de heye.">
@@ -75,7 +74,10 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "protocolNotFound sernav">
-<!ENTITY protocolNotFound.longDesc "protocolNotFound tê vê derê.">
+<!ENTITY protocolNotFound.longDesc "<ul>
+  <li>Dibe ku ji bo vekirina vê navnîşanê pêwîst be ku tu nermalaveke din saz bikî.</li>
+</ul>
+   ">
 
 <!ENTITY proxyConnectFailure.title "Pêşkêşkara proksiyê girêdanan red dike">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Rastbûna mîhengên proksiyê kontrol bike.</li> <li>Ji bo  ka servîsa proxyê dixebite an na, bi rêvebira xwe ya torê re têkeve têkiliyê.</li> </ul>">
@@ -84,10 +86,19 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Mîhengên proksiyê kontrol bike ka bêpirsgirêkên an na.</li> <li>kontrol bike ka di komputera te de girêdaneke xebatê ya torê heye an na.</li> <li>Heke komputer an jî tora te ji hêla firewall an jî proksiyekê ve tê parastin hîn bibe ka ji bo &brandShortName; têkeve Webê destûr heye an na.</li> </ul>">
 
 <!ENTITY redirectLoop.title "redirectLoop sernav">
-<!ENTITY redirectLoop.longDesc "redirectLoop tê vê derê.">
+<!ENTITY redirectLoop.longDesc "<ul>
+  <li>Dibe ku ev pirsgirêk bibe sedema neçalakirin an jî redkirina erêkirina
+  çerezan.</li>
+</ul>
+       ">
 
 <!ENTITY unknownSocketType.title "Çewtî! Soket nayê zanîn">
-<!ENTITY unknownSocketType.longDesc "unknownSocketType tê vê derê.">
+<!ENTITY unknownSocketType.longDesc "<ul>
+  <li>Teqez bike ka Gerînendetiya Ewlekariyê ya Takeksî ya pergalê sazkirî ye
+   an na.</li>
+  <li>Dibe ku ev ji vesazkirina nestandard a pêşkêşkarê be.</li>
+</ul>
+         ">
 
 <!ENTITY nssFailure2.title "Girêdana Ewle Têk Çû">
 <!ENTITY nssFailure2.longDesc "

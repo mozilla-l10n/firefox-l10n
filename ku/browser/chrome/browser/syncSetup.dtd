@@ -40,11 +40,11 @@
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; li ber nepeniya te dikeve">
 <!ENTITY setup.newSyncKeyPage.description.label "Ji bo garantîkirina hemû nepeniya te, hemû daneyên te ji bo barkirinê hatin şîfrekirin. Kilîka ji bo vekirina şîfreya daneyên te nehat barkirin.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
+<!ENTITY syncKeyEntry.label        "Kilîla te ya Syncê">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Hilberîne">
-<!ENTITY syncKeyStrength.label     "Strength:">
-<!ENTITY syncKeyHelp.label         "What does the strength mean?">
+<!ENTITY syncKeyStrength.label     "Zexmî:">
+<!ENTITY syncKeyHelp.label         "Wateya zexmiyê çi ye?">
 <!ENTITY syncKeyBackup.description "Li ser makîneyên din ji bo têketina &syncBrand.fullName.label;ê dê kilîla te ya Syncê pêwîst be. Tika ye kopiyekê hilîne. Ji bo şûndevegerandina Kilîla Syncê em nikarin alîkariya te bikin.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Çapkirin…">
@@ -72,7 +72,7 @@
 <!ENTITY syncComputerName.label       "Navê komputerê:">
 <!ENTITY syncComputerName.accesskey   "N">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Sync">
 <!ENTITY engine.bookmarks.label     "Bijare">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "Hilpekîn">

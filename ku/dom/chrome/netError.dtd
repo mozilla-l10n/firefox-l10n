@@ -58,7 +58,7 @@
  <li>Gelo komputer bi toreke çalak ve girêdayî ye?</li>
  <li>Gerokê têxe moda girêdayî û dîsa biceribîne.</li>
 </ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Ji ber ku di moda negirêdayî de yî girêdan çênabe.</p><ul><li>Gelo komputer bi toreke çalak ve girêdayî ye?</li><li>Gerokê têxe moda girêdayî û dîsa biceribîne.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
 <!ENTITY contentEncodingError.longDesc "<p>Ji ber ku malpera ku tu dikî vekî formeke jidandinê a nederbasdar an bêdestek bi kar tînî, malper nayê nîşandan.</p><ul><li>Ji kerema xwe re ji bo ragihandina vê pirsgirêkê bi xwediyê malperê re têkeve têkiliyê.</li></ul>">

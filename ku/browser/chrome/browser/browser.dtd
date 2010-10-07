@@ -31,8 +31,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Biguhêze komê">
 <!ENTITY  moveToGroup.accesskey              "m">
 <!ENTITY  moveToNewGroup.label               "Koma nû">
-<!ENTITY  moveToNewWindow.label              "Move to New Window">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.label              "Biguheze pencereyeke din">
+<!ENTITY  moveToNewWindow.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "Hemû hilpekînan têxe bijareyan…">
 <!ENTITY  bookmarkAllTabs.accesskey          "m">
 <!ENTITY  undoCloseTab.label                 "Hilpekîna hat girtin şûnde bîne">
@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Darikê Amûran a Bijareyan">
 <!ENTITY personalbarCmd.accesskey "a">
 <!ENTITY bookmarksToolbarItem.label "Nîşaneyên Bijareyan">
-<!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Darikê Add-onan">
+<!ENTITY addonBarCmd.accesskey "D">
 
 <!ENTITY pageSourceCmd.label "Çavkaniya Rûpelê">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -133,13 +133,13 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Pêşek">
-<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY appMenuButton.tooltip        "Pêşeka &brandShortName;ê veke">
 <!ENTITY homeButton.label             "Serûpel">
 
-<!ENTITY tabGroupsButton.label        "Tab Groups">
-<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+<!ENTITY tabGroupsButton.label        "Komên hilpekînan">
+<!ENTITY tabGroupsButton.tooltip      "Hilpekînan li koman dabeş bike">
 
-<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.label             "Bibe abone">
 <!ENTITY feedButton.tooltip           "Bibe abone ji bo vê rûpelê...">
 
 <!ENTITY bookmarksButton.label          "Bijare">
@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Bijare">
 <!ENTITY bookmarksMenuButton.tooltip        "Bijareyên xwe bibîne">
+<!ENTITY bookmarksMenuButton.unsorted.label "Bijareyên nehatî rêzkirin">
 <!ENTITY viewBookmarksSidebar.label         "Di Darikê Kêlekê de Nîşan Bide">
 <!ENTITY viewBookmarksToolbar.label         "Di Darikê Bijareyan de Nîşan Bide">
 
@@ -254,8 +255,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Nîşan bide"> 
 <!ENTITY viewMenu.accesskey       "b"> 
-<!ENTITY viewTabGroups.label            "Tab Groups">
-<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabGroups.label            "Komên hilpekînan">
+<!ENTITY viewTabGroups.accesskey        "K">
 <!ENTITY viewToolbarsMenu.label       "Darikê Amûran"> 
 <!ENTITY viewToolbarsMenu.accesskey     "a"> 
 <!ENTITY viewSidebarMenu.label "Darikê Quncikê">
@@ -281,11 +282,11 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Bicîbûna Darikê Amûran…">
 <!ENTITY appMenuSidebars.label "Darikên kêlekê">
 <!ENTITY appMenuFind.label "Lêgerîn…">
-<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
-<!ENTITY appMenuGettingStarted.label "Getting Started">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuUnsorted.label "Bijareyên tomarnebûyî">
+<!ENTITY appMenuWebDeveloper.label "Pêşdebirên Webê">
+<!ENTITY appMenuGettingStarted.label "Destpêkirin">
+<!ENTITY appMenuSafeMode.label "Dîsdestpêkirina bi Add-onan hate neçalakirin…">
+<!ENTITY appMenuSafeMode.accesskey "r">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Here Malperekê">
