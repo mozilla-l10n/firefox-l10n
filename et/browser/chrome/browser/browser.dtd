@@ -148,6 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label               "Järjehoidjad">
 <!ENTITY bookmarksMenuButton.tooltip             "Kuva oma järjehoidjaid">
+<!ENTITY bookmarksMenuButton.unsorted.label      "Sorteerimata järjehoidjad">
 <!ENTITY viewBookmarksSidebar.label              "Kuva külgribal">
 <!ENTITY viewBookmarksToolbar.label              "Kuva järjehoidjariba">
 
