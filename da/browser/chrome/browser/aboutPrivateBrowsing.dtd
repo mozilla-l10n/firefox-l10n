@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Start Privat browsing">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "For at afslutte Privat browsing, vælg &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller luk &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "For at state Privat browsing kan du også vælge &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "For at afslutte Privat browsing, vælg &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller luk &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "For at state Privat browsing kan du også vælge &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Selvom denne computer ikke vil gemme informationer om hvor du har været, så vil din internetudbyder eller arbejdsgiver stadig kunne følge hvilke sider du besøger.">
 <!ENTITY privatebrowsingpage.learnMore                 "Lær mere">

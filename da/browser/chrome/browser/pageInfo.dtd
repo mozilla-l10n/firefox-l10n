@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Installere udvidelser eller temaer">
 <!ENTITY  permGeo               "Dele placering">
 
+<!ENTITY  permIndexedDB              "Administrer Offline-lager">
+<!ENTITY  permClearStorage           "Ryd lager">
+<!ENTITY  permClearStorage.accesskey "R">
+
 <!ENTITY  securityTab           "Sikkerhed">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Sikkerhedsoplysninger for denne side">
