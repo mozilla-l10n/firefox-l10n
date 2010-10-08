@@ -11,6 +11,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "ਸਭ ਐਡ-ਆਨ ਲਈ ਟੂਲ">
 
+<!ENTITY cmd.back.tooltip                     "ਇੱਕ ਪੇਜ਼ ਪਿੱਛੇ ਜਾਓ">
+<!ENTITY cmd.forward.tooltip                  "ਇੱਕ ਪੇਜ਼ ਅੱਗੇ ਜਾਓ">
+
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "ਸੁਰਖਿਅਤ ਮੋਡ 'ਚ ਸਭ ਐਡ-ਆਨ ਬੰਦ ਕਰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ।">
 <!ENTITY warning.checkcompatibility.label          "ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।">
