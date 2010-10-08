@@ -14,8 +14,8 @@
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
 <!ENTITY serverType.custom.label    "Brug en anden server">
-<!ENTITY signIn.username.label      "Brugernavn">
-<!ENTITY signIn.username.accesskey  "B">
+<!ENTITY signIn.account.label       "Emailadresse / brugernavn">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Adgangskode">
 <!ENTITY signIn.password.accesskey  "A">
 <!ENTITY signIn.serverURL.label     "Server URL">
@@ -43,19 +43,16 @@
 <!ENTITY syncKeyEntry.label        "Din Sync nøgle">
 <!ENTITY syncKeyEntry.accesskey    "n">
 <!ENTITY syncKeyGenerate.label     "Opret">
+<!ENTITY syncKeyStrength.label     "Styrke:">
+<!ENTITY syncKeyHelp.label         "Hvad betyder denne styrke?">
 <!ENTITY syncKeyBackup.description "Din Sync nøgle påkræves for at tilgå &syncBrand.fullName.label; på andre maskiner. Lav venligst en sikkerhedskopi. Vi kan ikke hjælpe med at genskabe din Sync nøgle.">
 
-<!ENTITY button.syncKeyBackup.email.label     "Email…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
 <!ENTITY button.syncKeyBackup.print.label     "Print…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "Gem…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 
-<!ENTITY page.syncKeyBackup.title     "Din Firefox Sync nøgle">
-<!ENTITY page.syncKeyBackup.descr     "Denne hemmelige nøgle bruges til at kryptere dine private oplysninger. Den bliver ikke sendt til serveren, og kan ikke genskabes. Lad den ikke blive væk, og del den ikke med andre.">
-
-<!-- New Account Page 4: Captcha -->
+<!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bekræft venligst at di ikke er en robot">
 
 <!-- Existing Account Page 1: Login -->

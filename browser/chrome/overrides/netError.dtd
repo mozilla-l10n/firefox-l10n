@@ -51,9 +51,14 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Afmarker &quot;Arbejd offline&quot; i 'Filer' menupunktet, og forsøg igen.</li>
+  <li>Afmarker menupunket &quot;Work Offline&quot;, og forsøg igen.</li>
 </ul>
 ">
 
