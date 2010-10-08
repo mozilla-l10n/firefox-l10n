@@ -48,14 +48,12 @@
 <!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
 to pickup this string change. Please update netOffline.longDesc too -->
 
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "오프라인 모드">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
    <li>다시 시도하십시오. &brandShortName;가 이 페이지를 다시 연결해 가져옵니다 .</li>
 </ul>
 ">
-
-<!ENTITY netOffline.title "오프라인 모드">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "콘텐츠 인코딩 오류">
 <!ENTITY contentEncodingError.longDesc "
@@ -172,10 +170,9 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>사용자가 완전히 신뢰할 수 없는 인터넷 연결을 사용하는 중이거나 이 서버에서 예전에 이러한 경고를 본 적이 없는 경우에는 예외로 추가해서는 안 됩니다.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;' /> 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;' />
 ">
-

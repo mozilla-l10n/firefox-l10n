@@ -18,3 +18,11 @@
 <!ENTITY homepage.none                             "빈 페이지">
 <!ENTITY homepage.default                          "&brandShortName; 시작">
 <!ENTITY homepage.currentpage                      "현재 페이지 사용">
+<!ENTITY sync.title                                "공기화">
+<!ENTITY sync.account                              "사용자명/이메일">
+<!ENTITY sync.password                             "암호">
+<!ENTITY sync.syncKey                              "동기화 암호">
+<!ENTITY sync.deviceName                           "기기명">
+<!ENTITY sync.connect                              "연결하기">
+<!ENTITY sync.disconnect                           "연결 끊기">
+<!ENTITY sync.syncNow                              "동기화">

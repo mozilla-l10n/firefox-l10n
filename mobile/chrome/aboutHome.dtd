@@ -1,8 +1,8 @@
 <!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>시작</span>">
-<!ENTITY aboutHome.recentTabs                   "최근 탭">
+<!ENTITY aboutHome.recentTabs                   "최근 사용 탭">
 <!ENTITY aboutHome.remoteTabs                   "다른 컴퓨터로 부터 탭 가져오기">
-<!ENTITY aboutHome.recommendedAddons2           "&brandShortName;를 위한  확장 기능">
-<!ENTITY aboutHome.aboutMozilla                 "Mozilla 소개">
+<!ENTITY aboutHome.recommendedAddons2           "&brandShortName;를 위한 부가 기능">
+<!ENTITY aboutHome.giveFeedback                 "의견 보내기">
 <!ENTITY aboutHome.openAllTabs                  "모든 탭 열기 ">
 <!ENTITY aboutHome.noTabs                       "마지막 종료 시 탭 없음">
 <!ENTITY aboutHome.noAddons                     "추천 부가 기능 없음">

@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "새로 고침">
 <!ENTITY stop.label            "중지">
 <!ENTITY go.label              "이동">
-<!ENTITY openLocation.label    "주소 열기">
 <!ENTITY star.label            "북마크에 추가">
 
 <!ENTITY newtab.label          "새 탭 열기">
@@ -20,21 +19,15 @@
 <!ENTITY noSuggestions.label   "(No suggestions)">
 <!ENTITY addToDictionary.label "사전 추가">
 
+<!ENTITY allPagesHeader.label      "모든 페이지">
 <!ENTITY bookmarksHeader.label     "북마크">
-<!ENTITY bookmarksManage.label     "관리">
+<!ENTITY historyHeader.label       "방문 기록">
+<!ENTITY desktopHeader.label       "데스크톱">
 
 <!ENTITY editBookmarkDone.label    "완료">
-<!ENTITY editBookmarkRemove.label  "삭제">
 <!ENTITY editBookmarkTags.label    "태그 추가">
 
-<!ENTITY helperApp.prompt          "추가 기능 지원 :">
-<!ENTITY helperApp.open            "열기">
-<!ENTITY helperApp.save            "저장">
-<!ENTITY helperApp.nothing         "없음">
-
-<!ENTITY formHelper.previous       "이전">
-<!ENTITY formHelper.next           "다음">
-<!ENTITY formHelper.done           "완료">
+<!ENTITY selectHelper.done         "완료">
 
 <!ENTITY addonsHeader.label        "부가 기능">
 <!ENTITY addonsLocal.label         "설치된 부가 기능 ">
@@ -95,4 +88,17 @@
 
 <!ENTITY contextOpenInNewTab.label "새 탭에 링크 열기">
 <!ENTITY contextSaveImage.label    "그림 저장">
+<!ENTITY contextSaveLink.label        "링크 저장">
+<!ENTITY contextShareLink.label       "링크 공유">
+<!ENTITY contextShareImage.label      "그림 공유">
+<!ENTITY contextSaveVideo.label       "동영상 저장">
+<!ENTITY contextShareVideo.label      "동영상 공유">
+<!ENTITY contextEditBookmark.label    "편집">
+<!ENTITY contextRemoveBookmark.label  "삭제">
 
+<!ENTITY pageactions.saveas.pdf      "PDF로 저장">
+<!ENTITY pageactions.share.page      "페이지 공유">
+<!ENTITY pageactions.password.forget "암호 찾기">
+<!ENTITY pageactions.reset           "사이트 설정 제거">
+<!ENTITY pageactions.findInPage      "찾기">
+<!ENTITY pageactions.search.addNew   "검색 엔진 추가">
