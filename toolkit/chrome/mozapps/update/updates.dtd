@@ -17,6 +17,8 @@
 <!ENTITY  manualUpdate.desc               "Saadaval on soovitatav turvalisuse ja stabiilsuse uuendus, aga sul puuduvad
                                            süsteemsed õigused selle paigaldamiseks. Palun võta ühendust oma süsteemiadministraatoriga
                                            või proovi uuesti kasutajakontoga, millel on õigused sellesse arvutisse tarkvara paigaldada.">
+<!ENTITY  manualUpdate.space.desc         "Soovituslik turvalisuse ja stabiilsuse uuendus on saadaval, kuid puudub vaba kettaruum
+                                           selle paigaldamiseks.">
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName;i uusima versiooni saad alati järgnevalt aadressilt:">
 
 <!ENTITY incompatibleCheck.title         "Kontrollitakse ühilduvust lisadega">
