@@ -91,6 +91,16 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas de la versión">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ocultar las notas de la versión para esta actualización">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Qué son los complementos?">
+<!ENTITY discover.description2                "Los complementos son aplicaciones que permiten personalizar &brandShortName; con
+  funcionalidad extra o estilo. Pruebe una barra lateral que ahorre tiempo, una notificador de clima o un tema visual para que &brandShortName;
+  sea suyo.">
+<!ENTITY discover.footer                      "Cuando se conecte a Internet, esta vista mostrara
+  algunos de los mejores y más populares complementos para que pruebe.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versión">
 <!ENTITY detail.lastupdated.label             "Última actualización">
