@@ -18,6 +18,8 @@
                                            men du har ikke de påkrævede systemrettigheder til at installere den. Kontakt venligst din 
                                            systemadministrator, eller forsøg igen fra en konto, som har rettigheder til at 
                                            installere software på denne computer.">
+<!ENTITY  manualUpdate.space.desc         "En anbefalet sikkerheds- og stabilitetsopdatering er tilgængelig,
+                                           men du har ikke nok plads til at installere den.">
 <!ENTITY  manualUpdateGetMsg.label        "Du kan altid finde den seneste version af &brandShortName; hos:">
 
 <!ENTITY  incompatibleCheck.title         "Tjekker kompatibilitet med tilføjelser">
@@ -63,8 +65,10 @@
 <!ENTITY  errorpatching.intro             "Den delvise opdatering kunne ikke anvendes. 
                                            &brandShortName; vil forsøge igen ved at hente en komplet opdatering.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Noget forhindrer &brandShortName; i at opdatere på sikker vis.
-                                           Tjek venligst at du har den seneste version af &brandShortName; her:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; kan ikke fastslå om der er en opdatering tilgængelig.
+                                           Tjek venligst at du har den seneste version af &brandShortName; fra:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Noget forhindrer &brandShortName; i at opdatere på sikker vis.
+                                           Tjek venligst at du har den seneste version af &brandShortName; fra:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Noget forsøger at lokke &brandShortName; til at acceptere en usikker opdatering.
                                            Kontakt venligst din netudbyder og søg assistance.">
 

@@ -7,8 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Tjek for opdateringer">
 <!ENTITY listEmpty.search.label               "Ingen matchende tilføjelser">
 <!ENTITY listEmpty.button.label               "Lær mere om tilføjelser">
-<!ENTITY installFromFile.label                "Installer fra fil…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "Installer tilføjelse fra fil…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Indstillinger for alle tilføjelser">
 
 <!ENTITY cmd.back.tooltip                     "Gå en side tilbage">
 <!ENTITY cmd.forward.tooltip                  "Gå en side frem">
@@ -32,22 +33,26 @@
 <!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Nylige opdateringer">
 <!ENTITY view.availableUpdates.label          "Tilgænglige opdateringer">
-<!ENTITY view.utilites.preferences.tooltip    "Indstillinger for alle tilføjelser">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Præferencer for alle tilføjelser">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Opdater tilføjelser nu">
-<!ENTITY updates.updateAddonsNow.accesskey    "O">
+<!ENTITY updates.checkForUpdates.label        "Tjek for opdateringer">
+<!ENTITY updates.checkForUpdates.accesskey    "T">
 <!ENTITY updates.viewUpdates.label            "Vis nylige opdateringer">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.backgroudUpdateCheck.label   "Tjek for opdateringer automatisk">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "T">
+<!ENTITY updates.updateAddonsAutomatically.label     "Opdater tilføjelser automatisk">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "a">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Nulstil alle tilføjelser til automatisk opdatering">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "N">
+<!ENTITY updates.resetUpdatesToManual.label          "Nulstil alle tilføjelser til manuel opdaterin">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "N">
 <!ENTITY updates.updating.label               "Opdaterer tilføjelser">
 <!ENTITY updates.installed.label              "Dine tilføjelser er blevet opdateret.">
 <!ENTITY updates.downloaded.label             "Dine opdateringer til tilføjelser er blevet hentet.">
 <!ENTITY updates.restart.label                "Genstart nu for at færdiggøre installationen">
 <!ENTITY updates.noneFound.label              "Ingen opdateringer blev fundet">
 <!ENTITY updates.manualUpdatesFound.label     "Vis tilgænglige opdateringer">
+<!ENTITY updates.updateSelected.label         "Installer opdateringer">
+<!ENTITY updates.updateSelected.tooltip       "Installer tilgængelige opdateringer i denne oversigt">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Vis flere detaljer">
@@ -86,6 +91,16 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Skjul udgivelsesnoter">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Skjul udgivelsesnoterne for denne opdatering">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Hvad er tilføjelser?">
+<!ENTITY discover.description2                "Tilføjelser er små applikationer som du kan bruge til at tilpasse &brandShortName; med 
+  ekstra funktioner eller andet udseende. Prøv en tidsbesparende sidebjælke, bliv gjort opmærksom på vejret, eller prøv et nyt look og gør 
+  dermed  &brandShortName; til din helt egen.">
+<!ENTITY discover.footer                      "Når du er tilkoblet til nettet vil denne oversigt
+  vise nogle af de bedste og mest populære tilføjelser, som du kan prøve af.">
+  
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Senest opdateret">
@@ -96,6 +111,8 @@
 <!ENTITY detail.contributions.description     "Udvikleren af denne tilføjelse forespøger om du vil hjælpe dens videre udvikling ved at bidrage med en lille donation.">
 
 <!ENTITY detail.updateType                    "Automatisk opdatering">
+<!ENTITY detail.updateDefault.label           "Standard">
+<!ENTITY detail.updateDefault.tooltip         "Installer kun opdateringer automatisk hvis det er standardindstillingen">
 <!ENTITY detail.updateAutomatic.label         "Til">
 <!ENTITY detail.updateAutomatic.tooltip       "Installer opdateringer automatisk">
 <!ENTITY detail.updateManual.label            "Fra">
@@ -116,7 +133,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Vurdering:">
+<!ENTITY rating2.label                        "Vurdering">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pause">
@@ -130,6 +147,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Sorter efter seneste opdateringsdato">
 <!ENTITY sort.relevance.label                 "Bedste match">
 <!ENTITY sort.relevance.tooltip               "Sorter efter relevans">
+<!ENTITY sort.price.label                     "Pris">
+<!ENTITY sort.price.tooltip                   "Sorter efter pris">
 
 <!ENTITY search.filter2.label                 "Søg:">
 <!ENTITY search.filter2.installed.label       "Mine tilføjelser">
@@ -141,8 +160,14 @@
 <!ENTITY addon.details.label                  "Mere">
 <!ENTITY addon.details.tooltip                "Vis flere detajler om denne tilføjelse">
 <!ENTITY addon.unknownDate                    "ukendt">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(deaktiveret)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix                 "Opdatering">
 <!ENTITY addon.undoAction.label               "Fortryd">
 <!ENTITY addon.undoAction.tooltip             "Fortryd denne handling">
@@ -153,6 +178,8 @@
 <!ENTITY addon.install.tooltip                "Installer denne tilføjelse">
 <!ENTITY addon.updateNow.label                "Opdater nu">
 <!ENTITY addon.updateNow.tooltip              "Installer opdateringen til denne tilføjelse">
+<!ENTITY addon.includeUpdate.label            "Inkluder i opdatering">
+<!ENTITY addon.updateAvailable.label          "En opdatering er tilgængelig">
 <!ENTITY addon.checkingForUpdates.label       "Søger efter opdateringer…">
 <!ENTITY addon.releaseNotes.label             "Udgivelsesnoter:">
 <!ENTITY addon.loadingReleaseNotes.label      "Henter…">
