@@ -18,6 +18,8 @@
                                            tiene los permisos de sistema requeridos para instalarla. Contacte a su
                                            administrador del sistema o intente nuevamente con una cuenta que tenga permiso para
                                            instalar software en esta computadora.">
+<!ENTITY  manualUpdate.space.desc         "Está disponible una actualización de seguridad y estabilidad recomendada, pero
+                                           no tiene espacio suficiente para instalarla.">
 <!ENTITY  manualUpdateGetMsg.label        "Siempre puede obtener la última versión de &brandShortName; en:">
 
 <!ENTITY  incompatibleCheck.title         "Verificando compatibilidad de complementos">

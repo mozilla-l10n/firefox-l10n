@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip        "Mostrar sus marcadores">
+<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores desordenados">
 <!ENTITY viewBookmarksSidebar.label         "Mostrar en barra lateral">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
 
@@ -361,6 +362,7 @@ can reach it easily. -->
 <!ENTITY setDesktopBackgroundCmd.accesskey "s">
 <!ENTITY bookmarkPageCmd2.label       "Marcar esta página">
 <!ENTITY bookmarkPageCmd2.accesskey   "M">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Marcar este enlace">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Marcar este marco…">
