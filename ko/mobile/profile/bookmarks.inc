@@ -19,10 +19,6 @@
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox 소개
 
-# LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_sync Firefox: Weave 이용한 데이터 동기화
-
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
 #define bookmarks_addons Firefox: 부가 기능
