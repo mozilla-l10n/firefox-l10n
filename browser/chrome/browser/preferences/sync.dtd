@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Konto">
-<!ENTITY currentUser.label            "Nuværende bruger:">
+<!ENTITY currentAccount.label         "Nuværende konto:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Opdater">
@@ -14,10 +14,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Håndter konto">
 <!ENTITY manageAccount.accesskey      "H">
+<!ENTITY viewQuota.label              "Vis kvota">
 <!ENTITY changePassword.label         "Ændr adgangskode">
 <!ENTITY mySyncKey.label              "Min Sync nøgle">
 <!ENTITY resetSync.label              "Nulstil Sync">
-<!ENTITY differentAccount.label       "Brug en anden konto">
+<!ENTITY stopUsingAccount.label       "Afslut brug af denne konto">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browser Sync">

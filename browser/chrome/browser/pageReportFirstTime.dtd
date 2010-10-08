@@ -1,4 +1,4 @@
-<!ENTITY startDescription.label            "Et websted har forsøgt at åbne et pop op-vindue uden din tilladelse. &brandShortName; har automatisk lukket pop op-vinduet.  Når &brandShortName; blokerer disse pop op-vinduer, vil du se et ikon i statuslinjen. ">
+<!ENTITY startDescriptionText.label        "Et websted har forsøgt at åbne et pop op-vindue uden din tilladelse. &brandShortName; har automatisk lukket pop op-vinduet.">
 
 <!ENTITY endDescription.label              "Du kan klikke på dette ikon for at se hvilke websteder &brandShortName; blokerede og tillade disse websteder at åbne pop op-vinduer hvis det er påkrævet for at webstedet fungerer korrekt.">
 
