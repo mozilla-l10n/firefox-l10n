@@ -127,7 +127,7 @@
 <!ENTITY addon.details.label "Подробнее">
 <!ENTITY addon.details.tooltip "Подробнее об этом дополнении">
 <!ENTITY addon.unknownDate "Неизвестно">
-<!ENTITY addon.disabled.postfix "(отключён)">
+<!ENTITY addon.disabled.postfix "(отключёно)">
 <!ENTITY addon.update.postfix "обновление">
 <!ENTITY addon.undoAction.label "Отменить">
 <!ENTITY addon.undoAction.tooltip "Отменить это действие">
