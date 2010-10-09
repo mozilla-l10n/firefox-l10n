@@ -9,7 +9,7 @@
 <!ENTITY backButton.tooltip "Оди една страница назад">
 <!ENTITY forwardButton.label "Напред">
 <!ENTITY forwardButton.accesskey "а">
-<!ENTITY forwardButton.tooltip "Go forward one page">
+<!ENTITY forwardButton.tooltip "Оди една страница напред">
 <!ENTITY copyCmd.label "Копирај">
 <!ENTITY copyCmd.accesskey "К">
 <!ENTITY selectAllCmd.label "Избери сè">

@@ -2,7 +2,7 @@
 
 <!ENTITY dialog.title "Инсталација на софтвер">
 <!ENTITY dialog.style "width: 45em">
-<!ENTITY warningPrimary.label "Install add-ons only from authors whom you trust.">
+<!ENTITY warningPrimary.label "Инсталирај додатоци само од доверливи автори.">
 <!ENTITY warningSecondary.label "Злобниот софтвер може да го оштети Вашиот компјутер и да ја наруши Вашата приватност.">
 
 <!ENTITY from.label "од:">
