@@ -19,7 +19,7 @@
 <!ENTITY homepage.default                          "&brandShortName; 首頁">
 <!ENTITY homepage.currentpage                      "使用目前頁面">
 <!ENTITY sync.title                                "Sync">
-<!ENTITY sync.account                              "使用者名稱/電子郵件地址">
+<!ENTITY sync.account2                             "帳號名稱">
 <!ENTITY sync.password                             "密碼">
 <!ENTITY sync.syncKey                              "同步金鑰">
 <!ENTITY sync.deviceName                           "裝置名稱">

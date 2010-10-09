@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "書籤">
 <!ENTITY bookmarksMenuButton.tooltip        "顯示您的書籤">
+<!ENTITY bookmarksMenuButton.unsorted.label "未排序書籤">
 <!ENTITY viewBookmarksSidebar.label         "在側邊欄中顯示">
 <!ENTITY viewBookmarksToolbar.label         "檢視書籤工具列">
 
