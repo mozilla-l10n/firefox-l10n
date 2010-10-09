@@ -36,8 +36,10 @@
 <!ENTITY pasteCmd.label "Vložit">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "l">
+<!ENTITY pasteGoCmd.label "Vložit a jít">
+<!ENTITY pasteGoCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
