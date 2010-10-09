@@ -19,7 +19,7 @@
 <!ENTITY homepage.default "&brandShortName; start">
 <!ENTITY homepage.currentpage "Aktuální stránka">
 <!ENTITY sync.title "Sync">
-<!ENTITY sync.account "Uživatelské jméno/e-mail">
+<!ENTITY sync.account2 "Název účtu">
 <!ENTITY sync.password "Heslo">
 <!ENTITY sync.syncKey "Klíč">
 <!ENTITY sync.deviceName "Název zařízení">
