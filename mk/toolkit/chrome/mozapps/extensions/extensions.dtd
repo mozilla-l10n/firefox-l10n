@@ -1,129 +1,129 @@
-<!ENTITY addons.windowTitle "Add-ons Manager">
-<!ENTITY search.placeholder "Search all add-ons">
-<!ENTITY loading.label "Loading…">
-<!ENTITY listEmpty.installed.label "You don't have any add-ons of this type installed">
-<!ENTITY listEmpty.availableUpdates.label "No updates found">
-<!ENTITY listEmpty.recentUpdates.label "You haven't recently updated any add-ons">
-<!ENTITY listEmpty.findUpdates.label "Check For Updates">
-<!ENTITY listEmpty.search.label "Could not find any matching add-ons">
-<!ENTITY listEmpty.button.label "Learn more about add-ons">
-<!ENTITY installAddonFromFile.label "Install Add-on From File…">
-<!ENTITY installAddonFromFile.accesskey "I">
-<!ENTITY toolsMenu.tooltip "Tools for all add-ons">
+<!ENTITY addons.windowTitle "Менаџер за додатоци">
+<!ENTITY search.placeholder "Пребарај ги сите додатоци">
+<!ENTITY loading.label "Се вчитува…">
+<!ENTITY listEmpty.installed.label "Немате инсталирано додатоци од овој тип">
+<!ENTITY listEmpty.availableUpdates.label "Не се пронајдени надградби">
+<!ENTITY listEmpty.recentUpdates.label "Немате неодамнешно ажурирање на додатоците ">
+<!ENTITY listEmpty.findUpdates.label "Провери за надградби">
+<!ENTITY listEmpty.search.label "Не се пронајдени соодветни додатоци">
+<!ENTITY listEmpty.button.label "Научи повеќе за додатоците">
+<!ENTITY installAddonFromFile.label "Инсталирај додаток од датотека…">
+<!ENTITY installAddonFromFile.accesskey "И">
+<!ENTITY toolsMenu.tooltip "Алатки за сите додатоци">
 
 <!ENTITY cmd.back.tooltip "Оди една страница назад">
-<!ENTITY cmd.forward.tooltip "Go forward one page">
+<!ENTITY cmd.forward.tooltip "Оди една страница напред">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label "Сите додатоци се оневозможени од безбедниот режим.">
 <!ENTITY warning.checkcompatibility.label "Проверката за компатибилност на додатоците е оневозможена. Можеби имате некомпатибилни додатоци.">
-<!ENTITY warning.checkcompatibility.enable.label "Enable">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.checkcompatibility.enable.label "Овозможи">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Овозможи проверување на компатибилноста на додатоците">
 <!ENTITY warning.updatesecurity.label "Проверката за безбедност при надградба на додатоци е оневозможена. Надградбите може да Ви наштетат.">
-<!ENTITY warning.updatesecurity.enable.label "Enable">
-<!ENTITY warning.updatesecurity.enable.tooltip "Enable add-on update security checking">
+<!ENTITY warning.updatesecurity.enable.label "Овозможи">
+<!ENTITY warning.updatesecurity.enable.tooltip "Овозможи проверување на безбедноста при надоградба на додаток">
 <!-- categories / views -->
 
-<!ENTITY view.search.label "Search">
+<!ENTITY view.search.label "Барај…">
 <!ENTITY view.discover.label "Земи додатоци">
 <!ENTITY view.locales.label "Јазици">
-<!ENTITY view.searchengines.label "Search Engines">
+<!ENTITY view.searchengines.label "Сервиси за пребарување">
 <!ENTITY view.features.label "Проширувања">
 <!ENTITY view.appearance2.label "Изглед">
 <!ENTITY view.plugins.label "Приклучоци">
-<!ENTITY view.recentUpdates.label "Recent Updates">
-<!ENTITY view.availableUpdates.label "Available Updates">
+<!ENTITY view.recentUpdates.label "Скорешни надоградби">
+<!ENTITY view.availableUpdates.label "Достапни надоградби">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label "Check for Updates">
+<!ENTITY updates.checkForUpdates.label "Провери за надградби">
 <!ENTITY updates.checkForUpdates.accesskey "C">
-<!ENTITY updates.viewUpdates.label "View Recent Updates">
+<!ENTITY updates.viewUpdates.label "Прегледај неодамнешни надоградби">
 <!ENTITY updates.viewUpdates.accesskey "V">
-<!ENTITY updates.updateAddonsAutomatically.label "Update Add-ons Automatically">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!ENTITY updates.resetUpdatesToAutomatic.label "Reset All Add-ons to Update Automatically">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
-<!ENTITY updates.resetUpdatesToManual.label "Reset All Add-ons to Update Manually">
-<!ENTITY updates.resetUpdatesToManual.accesskey "R">
-<!ENTITY updates.updating.label "Updating add-ons">
-<!ENTITY updates.installed.label "Your add-ons have been updated.">
-<!ENTITY updates.downloaded.label "Your add-on updates have been downloaded.">
+<!ENTITY updates.updateAddonsAutomatically.label "Автоматски надоградувај ги додатоците">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "А">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Ресетирај ги сите додатоци да се надоградуваат автоматски">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "Р">
+<!ENTITY updates.resetUpdatesToManual.label "Ресетирај ги сите додатоци да се надоградуваат рачно">
+<!ENTITY updates.resetUpdatesToManual.accesskey "Р">
+<!ENTITY updates.updating.label "Надоградување на додатоци">
+<!ENTITY updates.installed.label "Вашиот додаток е надограден">
+<!ENTITY updates.downloaded.label "Вашите надградби за додатоци се преземени">
 <!ENTITY updates.restart.label "Restart now to complete installation">
 <!ENTITY updates.noneFound.label "No updates found">
-<!ENTITY updates.manualUpdatesFound.label "View Available Updates">
+<!ENTITY updates.manualUpdatesFound.label "Прегледај достапни надоградби">
 <!ENTITY updates.updateSelected.label "Install Updates">
-<!ENTITY updates.updateSelected.tooltip "Install available updates in this list">
+<!ENTITY updates.updateSelected.tooltip "Инсталирај ги достапните надградби од оваа листа">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label "Show More Information">
 <!ENTITY cmd.showDetails.accesskey "S">
 <!ENTITY cmd.findUpdates.label "Најди надградби">
 <!ENTITY cmd.findUpdates.accesskey "Н">
-<!ENTITY cmd.preferencesWin.label "Options">
-<!ENTITY cmd.preferencesWin.accesskey "O">
-<!ENTITY cmd.preferencesUnix.label "Preferences">
-<!ENTITY cmd.preferencesUnix.accesskey "P">
-<!ENTITY cmd.about.label "About">
-<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.preferencesWin.label "Опции">
+<!ENTITY cmd.preferencesWin.accesskey "О">
+<!ENTITY cmd.preferencesUnix.label "Преференции">
+<!ENTITY cmd.preferencesUnix.accesskey "р">
+<!ENTITY cmd.about.label "За">
+<!ENTITY cmd.about.accesskey "а">
 
 <!ENTITY cmd.enableAddon.label "Овозможи">
 <!ENTITY cmd.enableAddon.accesskey "О">
 <!ENTITY cmd.disableAddon.label "Оневозможи">
 <!ENTITY cmd.disableAddon.accesskey "н">
-<!ENTITY cmd.enableTheme.label "Wear Theme">
-<!ENTITY cmd.enableTheme.accesskey "W">
-<!ENTITY cmd.disableTheme.label "Stop Wearing Theme">
-<!ENTITY cmd.disableTheme.accesskey "W">
+<!ENTITY cmd.enableTheme.label "Користи тема">
+<!ENTITY cmd.enableTheme.accesskey "т">
+<!ENTITY cmd.disableTheme.label "Престани да користиш тема">
+<!ENTITY cmd.disableTheme.accesskey "т">
 <!ENTITY cmd.installAddon.label "Инсталирај">
 <!ENTITY cmd.installAddon.accesskey "И">
 <!ENTITY cmd.uninstallAddon.label "Отстрани">
 <!ENTITY cmd.uninstallAddon.accesskey "р">
-<!ENTITY cmd.showPreferencesWin.label "Options">
-<!ENTITY cmd.showPreferencesWin.tooltip "Change this add-on's options">
-<!ENTITY cmd.showPreferencesUnix.label "Preferences">
-<!ENTITY cmd.showPreferencesUnix.tooltip "Change this add-on's preferences">
-<!ENTITY cmd.contribute.label "Contribute">
-<!ENTITY cmd.contribute.accesskey "C">
-<!ENTITY cmd.contribute.tooltip "Contribute to the development of this add-on">
+<!ENTITY cmd.showPreferencesWin.label "Опции">
+<!ENTITY cmd.showPreferencesWin.tooltip "Промени ги опциите на овој додаток">
+<!ENTITY cmd.showPreferencesUnix.label "Преференции">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Промениги преференциите на овој додаток">
+<!ENTITY cmd.contribute.label "Придонеси">
+<!ENTITY cmd.contribute.accesskey "П">
+<!ENTITY cmd.contribute.tooltip "Придонеси за развојот на овој додаток">
 
-<!ENTITY cmd.showReleaseNotes.label "Show Release Notes">
-<!ENTITY cmd.showReleaseNotes.tooltip "Show the release notes for this update">
-<!ENTITY cmd.hideReleaseNotes.label "Hide Release Notes">
-<!ENTITY cmd.hideReleaseNotes.tooltip "Hide the release notes for this update">
+<!ENTITY cmd.showReleaseNotes.label "Прикажи ги белешките за изданието">
+<!ENTITY cmd.showReleaseNotes.tooltip "Прикажи ги белешките за оваа надоградба">
+<!ENTITY cmd.hideReleaseNotes.label "Скриј ги белешките за верзијата">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Скриј ги белешките за оваа надоградба">
 <!-- detail view -->
 
 <!ENTITY detail.version.label "Верзија">
-<!ENTITY detail.lastupdated.label "Last Updated">
-<!ENTITY detail.creator.label "Developer">
+<!ENTITY detail.lastupdated.label "Последно ажурирање">
+<!ENTITY detail.creator.label "Развивач">
 <!ENTITY detail.homepage.label "Homepage">
 <!ENTITY detail.numberOfDownloads.label "Преземања">
 
-<!ENTITY detail.contributions.description "The developer of this add-on asks that you help support its continued development by making a small contribution.">
+<!ENTITY detail.contributions.description "Развивачот на овој додаток Ве моли да го поддржите неговиот постојан развој со мала донација.">
 
-<!ENTITY detail.updateType "Automatic Updates">
+<!ENTITY detail.updateType "Автоматски надоградби">
 <!ENTITY detail.updateDefault.label "Default">
 <!ENTITY detail.updateDefault.tooltip "Automatically install updates only if that's the default">
-<!ENTITY detail.updateAutomatic.label "On">
-<!ENTITY detail.updateAutomatic.tooltip "Automatically install updates">
+<!ENTITY detail.updateAutomatic.label "Вклучен">
+<!ENTITY detail.updateAutomatic.tooltip "Автоматски инсталирај надградби">
 <!ENTITY detail.updateManual.label "Исклучен">
-<!ENTITY detail.updateManual.tooltip "Don't automatically install updates">
+<!ENTITY detail.updateManual.tooltip "Не инсталирај автоматски надградби">
 <!ENTITY detail.home "Homepage">
-<!ENTITY detail.repository "Add-on Profile">
+<!ENTITY detail.repository "Профил на додатокот">
 <!ENTITY detail.size "Големина">
 
-<!ENTITY detail.checkForUpdates.label "Check for Updates">
+<!ENTITY detail.checkForUpdates.label "Провери за надградби">
 <!ENTITY detail.checkForUpdates.accesskey "F">
-<!ENTITY detail.checkForUpdates.tooltip "Check for updates for this add-on">
+<!ENTITY detail.checkForUpdates.tooltip "Провери за надградби на овој додаток">
 <!ENTITY detail.showPreferencesWin.label "Options">
 <!ENTITY detail.showPreferencesWin.accesskey "O">
-<!ENTITY detail.showPreferencesWin.tooltip "Change this add-on's options">
+<!ENTITY detail.showPreferencesWin.tooltip "Промени ги опциите на овој доддаток">
 <!ENTITY detail.showPreferencesUnix.label "Preferences">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip "Change this add-on's preferences">
+<!ENTITY detail.showPreferencesUnix.tooltip "Промениги преференциите на овој додаток">
 <!-- ratings -->
 
 
-<!ENTITY rating2.label "Rating">
+<!ENTITY rating2.label "Рејтинг">
 <!-- download/install progress -->
 
 <!ENTITY progress.pause.tooltip "Паузирај">
@@ -132,24 +132,24 @@
 
 
 <!ENTITY sort.name.label "Име">
-<!ENTITY sort.name.tooltip "Sort by name">
-<!ENTITY sort.dateUpdated.label "Last Updated">
-<!ENTITY sort.dateUpdated.tooltip "Sort by date updated">
+<!ENTITY sort.name.tooltip "Подреди по име">
+<!ENTITY sort.dateUpdated.label "Последно ажурирање">
+<!ENTITY sort.dateUpdated.tooltip "Подреди по дата на надградба">
 <!ENTITY sort.relevance.label "Best match">
-<!ENTITY sort.relevance.tooltip "Sort by relevance">
-<!ENTITY sort.price.label "Price">
-<!ENTITY sort.price.tooltip "Sort by price">
+<!ENTITY sort.relevance.tooltip "Подреди по важност">
+<!ENTITY sort.price.label "Цена">
+<!ENTITY sort.price.tooltip "Подреди по цена">
 
 <!ENTITY search.filter2.label "Search:">
-<!ENTITY search.filter2.installed.label "My Add-ons">
-<!ENTITY search.filter2.installed.tooltip "Show installed add-ons">
-<!ENTITY search.filter2.available.label "Available Add-ons">
-<!ENTITY search.filter2.available.tooltip "Show add-ons available to install">
+<!ENTITY search.filter2.installed.label "Моите додатоци">
+<!ENTITY search.filter2.installed.tooltip "Прикажи ги инсталираните додатоци">
+<!ENTITY search.filter2.available.label "Достапни додатоци">
+<!ENTITY search.filter2.available.tooltip "Прикажи додатоци достапни за инсталација">
 
 <!ENTITY addon.homepage "Homepage">
 <!ENTITY addon.details.label "Повеќе">
-<!ENTITY addon.details.tooltip "Show more details about this add-on">
-<!ENTITY addon.unknownDate "Unknown">
+<!ENTITY addon.details.tooltip "Прикажи повеќе опции за овој додаток">
+<!ENTITY addon.unknownDate "Непознат">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -158,21 +158,21 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix "Update">
-<!ENTITY addon.undoAction.label "Undo">
+<!ENTITY addon.update.postfix "Надградби">
+<!ENTITY addon.undoAction.label "Врати">
 <!ENTITY addon.undoAction.tooltip "Undo this action">
-<!ENTITY addon.undoRemove.label "Undo">
-<!ENTITY addon.undoRemove.tooltip "Keep this add-on installed">
-<!ENTITY addon.restartNow.label "Restart now">
+<!ENTITY addon.undoRemove.label "Врати">
+<!ENTITY addon.undoRemove.tooltip "Задржи ги овие додатоци инсталирани">
+<!ENTITY addon.restartNow.label "Рестартирај сега">
 <!ENTITY addon.install.label "Install">
-<!ENTITY addon.install.tooltip "Install this add-on">
-<!ENTITY addon.updateNow.label "Update Now">
-<!ENTITY addon.updateNow.tooltip "Install the update for this add-on">
-<!ENTITY addon.includeUpdate.label "Include in Update">
-<!ENTITY addon.updateAvailable.label "An update is available">
+<!ENTITY addon.install.tooltip "Инсталирај го овој додаток">
+<!ENTITY addon.updateNow.label "Ажурирај сега">
+<!ENTITY addon.updateNow.tooltip "Инсталирај надградба за овој додаток">
+<!ENTITY addon.includeUpdate.label "Вклучи ја надградбата">
+<!ENTITY addon.updateAvailable.label "Достапна е надградба">
 <!ENTITY addon.checkingForUpdates.label "Checking for updates…">
-<!ENTITY addon.releaseNotes.label "Release Notes:">
-<!ENTITY addon.loadingReleaseNotes.label "Loading…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+<!ENTITY addon.releaseNotes.label "Белешки кон изданието:">
+<!ENTITY addon.loadingReleaseNotes.label "Се вчитува…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Извинете, но имаше грешка при вчитувањето на белешките за изданието.">
 
-<!ENTITY addon.createdBy.label "By ">
+<!ENTITY addon.createdBy.label "Од">

@@ -24,17 +24,17 @@
 
 <!ENTITY license.instructions "Ако се согласувате со условите на овој договор, кликнете „Се согласувам“ за да продолжите со надградбата.">
 
-<!ENTITY license.titleText "Software License Agreement">
+<!ENTITY license.titleText "Лиценцен договор за софтверот">
 <!ENTITY license.introText "Услови за користење на овој софтвер.">
-<!ENTITY license.instructionText "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
-<!ENTITY license.accept "I accept the terms of the License Agreement">
+<!ENTITY license.instructionText "Прочитајте го следниов лиценцен договор. Користете го лизгачот за да го видите целиот договор.">
+<!ENTITY license.accept "Ги прифаќам условите на лиценцниот договор">
 <!ENTITY license.accept.accesskey "ќ">
-<!ENTITY license.decline "I do NOT accept the terms of the License Agreement">
+<!ENTITY license.decline "НЕ ги прифаќам условите на лиценцниот договор">
 <!ENTITY license.decline.accesskey "Н">
 
 <!ENTITY incompatibleList.title "Пронајдени се некомпатибилни додатоци">
 
-<!ENTITY downloadPage.title "Downloading &brandShortName;">
+<!ENTITY downloadPage.title "Продолжува со вчитување на &brandShortName;">
 <!ENTITY downloading.intro "Надградбата се презема…">
 <!ENTITY connecting.label "Се поврзувам со серверот за надградби…">
 <!ENTITY verificationFailedText.label "&brandShortName; не можеше да го утврди интегритетот на инкременталната надградба која ја презема, па затоа сега го презема целиот пакет со надградби.">
@@ -51,12 +51,12 @@
                                            
 <!ENTITY errorpatching.intro "Парцијалната надградба не може да се примени. &brandShortName; ќе се обиде повторно со преземање на комплетната надградба.">
 
-<!ENTITY genericBackgroundError.label "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY errorCertAttrNoUpdate2.label "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY errorCertAttrHasUpdate.label "Something is trying to trick &brandShortName; into accepting an
-                                           insecure update. Please contact your network provider and seek help.">
+<!ENTITY genericBackgroundError.label "&brandShortName; не може да утврди дали има достапна надградба.Проверете 
+дали ја имате најновата верзија на &brandShortName; од:">
+<!ENTITY errorCertAttrNoUpdate2.label "Нешто го спречува &brandShortName; безбедно да се надгради. 
+Проверете дали ја имате најновата верзија на &brandShortName; од:">
+<!ENTITY errorCertAttrHasUpdate.label "Нешто се обидува да го измами &brandShortName; со цел да прифати 
+небезбедна надградба. За помош контактирајте со Вашиот провајдер.">
 
 <!ENTITY finishedPage.title "Надградбата е спремна за инсталирање">
 <!ENTITY finishedPage.text "Надградбата ќе се инсталира при следното стартување на &brandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
