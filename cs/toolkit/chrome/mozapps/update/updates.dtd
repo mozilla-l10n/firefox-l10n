@@ -18,6 +18,8 @@
 
 
 
+<!ENTITY manualUpdate.space.desc "Doporučovaná bezpečnostní a výkonnostní aktualizace je dostupná, ale nemáte na disku dostatek potřebného místa k její aktualiaci.">
+
 <!ENTITY manualUpdateGetMsg.label "Nejnovější verze aplikace &brandShortName; je vždy dostupná na:">
 
 <!ENTITY incompatibleCheck.title "Kontrola kompatibility doplňků">
