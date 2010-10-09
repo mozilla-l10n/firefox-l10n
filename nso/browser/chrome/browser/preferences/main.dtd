@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Laetša letlakala la ka la gae">
 <!ENTITY startupBlankPage.label    "Laetša letlakala le se nago selo">
 <!ENTITY startupLastSession.label  "Laetša mafasetere le dithepo tša ka tša nakong e fetilego">
-<!ENTITY homepage.label            "Home Page:">
-<!ENTITY homepage.accesskey        "P">
+<!ENTITY homepage.label            "Letlakala la gae:">
+<!ENTITY homepage.accesskey        "L">
 <!ENTITY useCurrentPage.label      "Diriša letlakala la bjale">
 <!ENTITY useCurrentPage.accesskey  "l">
 <!ENTITY useMultiple.label         "Diriša matlakala a bjale">

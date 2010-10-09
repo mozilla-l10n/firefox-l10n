@@ -1,11 +1,11 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
+<!ENTITY setupButton.label          "Beakanya &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "B">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; e go dumelela go tsena historing ya gago, dipukutshwayong, mantšuphetišong le go bula dithepo go kgabaganya didirišwa tša gago ka moka.">
 <!-- The page shown when logged in... -->
 
 <!ENTITY accountGroupboxCaption.label "Akhaonto ya &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Current Account:">
+<!ENTITY currentAccount.label         "Akhaonto ya gona bjale:">
 <!-- Login error feedback -->
 
 <!ENTITY updatePass.label             "Mpshafatšo">
@@ -14,28 +14,28 @@
 
 <!ENTITY manageAccount.label          "Laola akhaonto">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY viewQuota.label              "Lebelela khuota">
 <!ENTITY changePassword.label         "Fetoša lentšuphetišo">
 <!ENTITY mySyncKey.label              "Fetoša mobolelwana wa sephiri">
 <!ENTITY resetSync.label              "Beakanya nyalantšho ka leswa">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!ENTITY stopUsingAccount.label       "Emiša go diriša akhaonto ye">
 <!-- Sync Settings -->
 
 <!ENTITY syncPrefsCaption.label       "Nyalantšho ya praosara">
 <!ENTITY syncComputerName.label       "Leina la khomphutha:">
 <!ENTITY syncComputerName.accesskey   "k">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY syncMy.label               "Nyalantšha yaka">
+<!ENTITY engine.bookmarks.label     "Dipukutshwayo">
+<!ENTITY engine.bookmarks.accesskey "s">
 <!ENTITY engine.tabs.label          "Dipukutshwayo, histori, mantšuphetišo, dikganyogo, le dithepo tša gago di tla nyalantšhwa.">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.history.label       "Histori">
+<!ENTITY engine.history.accesskey   "i">
+<!ENTITY engine.passwords.label     "Mantšuphetišo">
+<!ENTITY engine.passwords.accesskey "p">
+<!ENTITY engine.prefs.label         "Dikganyogo">
+<!ENTITY engine.prefs.accesskey     "k">
 <!-- Footer stuff -->
 
 

@@ -50,11 +50,9 @@ gore &brandShortName; e dumeletšwe go tsena wepeng.</li>
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Swayolla &quot;Work Offline&quot; go lelokelelo la diteng, gomme o leke gape.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Phošo ya phetošo ya dikagare">
 <!ENTITY contentEncodingError.longDesc "<ul> 

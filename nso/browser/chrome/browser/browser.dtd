@@ -31,8 +31,8 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Šuthišetša sehlopheng">
 <!ENTITY  moveToGroup.accesskey              "u">
 <!ENTITY  moveToNewGroup.label               "Sehlopha se seswa">
-<!ENTITY  moveToNewWindow.label              "Move to New Window">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.label              "Šuthela go lefasetere le leswa">
+<!ENTITY  moveToNewWindow.accesskey          "w">
 <!ENTITY  bookmarkAllTabs.label              "Pukuswaya dithepo tšohle…">
 <!ENTITY  bookmarkAllTabs.accesskey          "h">
 <!ENTITY  undoCloseTab.label                 "Dirolla go tswalelwa ga thepo">
@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Thulupaa ya dipukutshwayo">
 <!ENTITY personalbarCmd.accesskey "T">
 <!ENTITY bookmarksToolbarItem.label "Diaetheme tša thulupaa ya dipukutshwayo">
-<!ENTITY taskbarCmd.label "Para ya boemo">
-<!ENTITY taskbarCmd.accesskey "P">
+<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Mothopo wa letlakala">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Ingwadiše letlakaleng le">
 <!ENTITY subscribeToPageMenuitem.label "Ingwadiše letlakaleng le">
 <!ENTITY addCurPagesCmd.label "Pukuswaya dithepo tšohle…">
-<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
+<!ENTITY showAllBookmarks.label "Laetša dipukutshwayo tšohle...">
 <!ENTITY bookmarkAllCmd.label "Pukuswaya dithepo tšohle…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bontšha dipukutshwayo tše oketšegilego">
 
@@ -132,11 +132,12 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Dipukutshwayo">
 <!-- Toolbar items --> 
 
-<!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.label          "Lelokelelo">
+<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
 <!ENTITY homeButton.label             "Gae">
 
 <!ENTITY tabGroupsButton.label        "Dihlopha tša thepo">
-<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+<!ENTITY tabGroupsButton.tooltip      "Hlopha dithepo tša gago">
 
 <!ENTITY feedButton.label             "Ngwadiša">
 <!ENTITY feedButton.tooltip           "Ingwadiše letlakaleng le...">
@@ -148,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Dipukutshwayo">
 <!ENTITY bookmarksMenuButton.tooltip        "Bontšha dipukutshwayo tša gago">
+<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
 <!ENTITY viewBookmarksSidebar.label         "Laetša go para ya ka thoko">
 <!ENTITY viewBookmarksToolbar.label         "Lebelela thulupaa ya dipukutshwayo">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -253,8 +255,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Lebelela">
 <!ENTITY viewMenu.accesskey       "L">
-<!ENTITY viewTabGroups.label            "Tab Groups">
-<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabGroups.label            "Dihlopha tša thepo">
+<!ENTITY viewTabGroups.accesskey        "D">
 <!ENTITY viewToolbarsMenu.label       "Dithulupaa">
 <!ENTITY viewToolbarsMenu.accesskey     "D">
 <!ENTITY viewSidebarMenu.label "Para ya ka thoko">
@@ -269,7 +271,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Dithepo tšeo di tswaletšwego morago bjale">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Mafasetere ao a tswaletšwego morago bjale">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.label "Bušetša sešene e fetilego">
 
 <!ENTITY historyHomeCmd.label "Gae">
 <!ENTITY showAllHistoryCmd2.label "Bontšha histori yohle">
@@ -280,11 +282,11 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Tlhamego ya thulupaa">
 <!ENTITY appMenuSidebars.label "Dipara tša ka thoko">
 <!ENTITY appMenuFind.label "Hwetša...">
-<!ENTITY appMenuUnsorted.label "Dipukutshwayo tše sa latelantšwago">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuWebDeveloper.label "Motšweletši wa wepe">
 <!ENTITY appMenuGettingStarted.label "Kamoo o ka thomago">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuSafeMode.label "Thoma ka leswa o šitišitše ditlaleletši...">
+<!ENTITY appMenuSafeMode.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Eya wepesaeteng">
@@ -297,9 +299,9 @@ can reach it easily. -->
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -308,13 +310,12 @@ can reach it easily. -->
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Bula lomaganyo go thepo e mpsha">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
@@ -459,9 +460,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Bontšha lefasetere sekirining seo se feleletšego">
 
-<!ENTITY zoomOutButton.tooltip          "Zoom out">
-<!ENTITY zoomInButton.tooltip           "Zoom in">
-<!ENTITY zoomControls.label             "Zoom Controls">
+<!ENTITY zoomOutButton.tooltip          "Godišetša ntle">
+<!ENTITY zoomInButton.tooltip           "Godišetša ka gare">
+<!ENTITY zoomControls.label             "Ditaolo tša kgodišo">
 
 <!ENTITY quitApplicationCmdWin.label       "Etšwa">
 <!ENTITY quitApplicationCmdWin.accesskey   "t">
@@ -494,8 +495,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "L">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Switch Page Direction">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Switšha moo letlakala le lebilego">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "e">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Switšha tšhupetšo ya sengwalwa">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
@@ -546,10 +547,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncTabsMenu.label     "Dithepo tše tšwago dikhomphutheng tše dingwe">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Nyalantšha">
 
 <!ENTITY syncSetup.label              "Beakanya &syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Nyalantšha gona bjale">
 <!ENTITY syncSyncNowItem.accesskey    "a">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "Nyalantšha">

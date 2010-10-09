@@ -1,15 +1,15 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "Kgopela URL">
+<!ENTITY networkPanel.requestMethod               "Mokgwa wa go kgopela">
+<!ENTITY networkPanel.statusCode                  "Khoutu ya boemo">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Kgopela hlogwana ya godimo">
+<!ENTITY networkPanel.requestCookie               "Khukhi e rometšwego">
+<!ENTITY networkPanel.requestBody                 "Kgopela mmele">
+<!ENTITY networkPanel.requestFormData             "Tsebišo e rometšwego ya foromo">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "Hlogwana ya godimo ya karabelo">
+<!ENTITY networkPanel.responseBody                "Mmele wa karabelo">
+<!ENTITY networkPanel.responseBodyCached          "Tsebišo e bolokilwego">
+<!ENTITY networkPanel.responseNoBody              "Ga go na mmele wa karabelo">
+<!ENTITY networkPanel.responseImage               "Seswantšho se amogetšwego">
+<!ENTITY networkPanel.responseImageCached         "Seswantšho se bolokilwego">

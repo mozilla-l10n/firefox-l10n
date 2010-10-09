@@ -28,8 +28,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "m">
 <!ENTITY checkNow.label                  "Lekola gona bjale">
 <!ENTITY checkNow.accesskey              "n">
-<!ENTITY submitCrashes.label             "Submit crash reports">
-<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitCrashes.label             "Romela dipego tša go pšhatlega">
+<!ENTITY submitCrashes.accesskey         "m">
 
 <!ENTITY networkTab.label                "Neteweke">
 
@@ -47,13 +47,13 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
+<!ENTITY limitCacheSizeBefore.label      "Lekanyetša polokelo-tsebišo go">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY limitCacheSizeAfter.label       "MB ya sekgoba">
 <!ENTITY clearCacheNow.label             "Tloša gona bjale">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.label    "Beela ka thoko taolo ya polokelo-tsebišo yeo e itirišago">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label                 "Kaonafatšo">
 
