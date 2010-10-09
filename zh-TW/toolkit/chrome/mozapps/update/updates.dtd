@@ -13,6 +13,8 @@
 
 <!ENTITY  manualUpdate.title              "無法更新">
 <!ENTITY  manualUpdate.desc               "找到一個新的安全與穩定性更新，但您沒有安裝更新所需的系統權限。請聯絡您的系統管理員，或是從具有安裝軟體權限的系統帳號再試一次。">
+<!ENTITY  manualUpdate.space.desc         "已有可用的安全性和穩定性更新，但
+                                           您沒有足夠的空間可安裝。">
 <!ENTITY  manualUpdateGetMsg.label        "您可以至此處取得最新的 &brandShortName;:">
 
 <!ENTITY  incompatibleCheck.title         "檢查附加元件相容性">

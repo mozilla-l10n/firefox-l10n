@@ -56,6 +56,7 @@
 <!ENTITY downloadResume.label      "繼續">
 <!ENTITY downloadRetry.label       "重試">
 <!ENTITY downloadRemove.label      "移除">
+<!ENTITY downloadDelete.label      "刪除">
 <!ENTITY downloadFailed.label      "下載失敗">
 
 <!ENTITY noResults.label           "沒有結果">
