@@ -1,4 +1,4 @@
 google
 seznam
-jyxo
-wikipedia-cs
+heureka-cz
+wikipedia-cz
