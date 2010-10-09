@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label "Záložky">
 <!ENTITY bookmarksMenuButton.tooltip "Zobrazí záložky">
+<!ENTITY bookmarksMenuButton.unsorted.label "Nesetříděné záložky">
 <!ENTITY viewBookmarksSidebar.label "Zobrazit v postranní liště">
 <!ENTITY viewBookmarksToolbar.label "Zobrazit lištu záložek">
 
