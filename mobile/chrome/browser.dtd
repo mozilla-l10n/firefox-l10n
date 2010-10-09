@@ -46,6 +46,7 @@
 <!ENTITY downloadResume.label "Continuar">
 <!ENTITY downloadRetry.label "Reintentar">
 <!ENTITY downloadRemove.label "Eliminar">
+<!ENTITY downloadDelete.label "Eliminar">
 <!ENTITY downloadFailed.label "Fallido">
 <!ENTITY noResults.label "Sin resultados">
 <!ENTITY allBookmarks.label "Todos los marcadores">
