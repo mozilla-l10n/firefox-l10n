@@ -18,6 +18,8 @@ go lekola ga dikaonafatšo ga maitirišo ga &brandShortName;.">
 na ditumelelo tša tshepedišo tšeo di nyakegago bakeng sa go e lokela. Hle ikgokaganye le 
 molaodi wa tshepedišo ya gago, goba o leke gape go tšwa go akhaonto yeo e nago le tumelelo ya go 
 lokela lenaneotirišo la khomphutha khomphutheng ye.">
+<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
 <!ENTITY  manualUpdateGetMsg.label        "Ka mehla o ka hwetša kgatišo ya morago bjale ya &brandShortName; go:">
 
 <!ENTITY  incompatibleCheck.title         "Go lekola tshwanelano ya setlaleletši">

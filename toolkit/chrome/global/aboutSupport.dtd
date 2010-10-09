@@ -1,40 +1,38 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "Tshedimošo ya go rarolla mathata">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "Letlakala le le na le tshedimošo ya setegniki yeo e ka bago le mohola ge 
+o leka go rarolla bothata. Ge e ba o nyaka dikarabo tša dipotšišo tše tlwaelegilego 
+ka ga &brandShortName;, lebelela wepesaete ya rena ya  <a id='supportLink'> ya thekgo</a>.">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionsTitle "Dikoketšo">
+<!ENTITY aboutSupport.extensionName "Leina">
+<!ENTITY aboutSupport.extensionEnabled "Kgontšha">
+<!ENTITY aboutSupport.extensionVersion "Tokollo">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsTitle "Metheo ya tirišo">
+<!ENTITY aboutSupport.appBasicsName "Leina">
+<!ENTITY aboutSupport.appBasicsVersion "Tokollo">
+<!ENTITY aboutSupport.appBasicsProfileDir "Tšhupetšo ya profaele">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Ditsebišo-koketšo tšeo di kgontšhitšwego">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Peakanyo ya go aga">
+<!ENTITY aboutSupport.appBasicsUserAgent "Moemedi wa modiriši">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "Bula foltara ya go swara">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "Laetša go sehwetši">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Dikganyogo tše fetošitšwego">
+<!ENTITY aboutSupport.modifiedPrefsName "Leina">
 <!ENTITY aboutSupport.modifiedPrefsValue "Boleng">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Diswantšho">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
+<!ENTITY aboutSupport.installationHistoryTitle "Histori ya go lokela">
 <!ENTITY aboutSupport.updateHistoryTitle "Mpshafatša histori">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "Kopiša tšohle go lenaneo-polokelo">

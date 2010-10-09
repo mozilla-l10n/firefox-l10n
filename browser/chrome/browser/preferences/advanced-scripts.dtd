@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "I">
 <!ENTITY disableContextMenus.label      "Šitiša goba o tšee legato la diteng tša dikagare">
 <!ENTITY disableContextMenus.accesskey  "i">
-<!ENTITY hideStatusBar.label            "Fihla para ya boemo">
-<!ENTITY hideStatusBar.accesskey        "F">
-<!ENTITY changeStatusBar.label          "Fetoša sengwalwa sa para ya boemo">
-<!ENTITY changeStatusBar.accesskey      "e">

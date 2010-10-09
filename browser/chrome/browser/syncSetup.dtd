@@ -43,6 +43,8 @@
 <!ENTITY syncKeyEntry.label        "Your Sync Key">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Generate">
+<!ENTITY syncKeyStrength.label     "Strength:">
+<!ENTITY syncKeyHelp.label         "What does the strength mean?">
 <!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Gatiša…">
@@ -70,7 +72,7 @@
 <!ENTITY syncComputerName.label       "Leina la khomphutha:">
 <!ENTITY syncComputerName.accesskey   "k">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Nyalantšha yaka">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Dipukutshwayo, histori, mantšuphetišo, dikganyogo, le dithepo tša gago di tla nyalantšhwa.">
