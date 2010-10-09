@@ -34,7 +34,7 @@ can reach it easily. -->
 <!ENTITY bookmarkAllTabs.label "Setja flipa í bókamerki…">
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY undoCloseTab.label "Afturkalla loka flipa">
-<!ENTITY undoCloseTab.accesskey "A">
+<!ENTITY undoCloseTab.accesskey "u">
 <!ENTITY closeTab.label "Loka flipa">
 <!ENTITY closeTab.accesskey "L">
 <!ENTITY listAllTabs.label "Sýna alla flipa">

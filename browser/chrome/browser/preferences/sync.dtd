@@ -20,7 +20,7 @@
 <!ENTITY syncPrefsCaption.label "Samstilling">
 <!ENTITY syncComputerName.label "Tölvuheiti:">
 <!ENTITY syncComputerName.accesskey "T">
-<!ENTITY syncMy.label "Samkeyra við">
+<!ENTITY syncMy.label "Samstilla">
 <!ENTITY engine.bookmarks.label "Bókamerki">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label "Flipar">
