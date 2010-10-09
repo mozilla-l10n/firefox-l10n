@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Semne de carte">
 <!ENTITY bookmarksMenuButton.tooltip        "Afișează semnele dumneavoastră de carte">
+<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
 <!ENTITY viewBookmarksSidebar.label         "Arată în bara laterală">
 <!ENTITY viewBookmarksToolbar.label         "Arată bara cu semne de carte">
 
