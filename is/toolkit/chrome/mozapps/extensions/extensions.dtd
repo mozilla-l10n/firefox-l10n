@@ -165,4 +165,4 @@
 <!ENTITY addon.releaseNotes.label "Útgáfuupplýsingar:">
 <!ENTITY addon.loadingReleaseNotes.label "Hleður…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Því miður kom upp villa við að sýna útgáfuupplýsingar.">
-<!ENTITY addon.createdBy.label "Eftir ">
+<!ENTITY addon.createdBy.label "Frá ">
