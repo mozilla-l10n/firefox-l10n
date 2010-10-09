@@ -19,7 +19,7 @@
 <!ENTITY homepage.default "&brandShortName;: У пачатку">
 <!ENTITY homepage.currentpage "Цяперашняя старонка">
 <!ENTITY sync.title "Сінхранізацыя">
-<!ENTITY sync.account "Імя карыстальніка/Э-пошта">
+<!ENTITY sync.account2 "Назва рахунку">
 <!ENTITY sync.password "Пароль">
 <!ENTITY sync.syncKey "Ключ Sync">
 <!ENTITY sync.deviceName "Назва збудовы">

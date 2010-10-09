@@ -46,6 +46,7 @@
 <!ENTITY downloadResume.label "Працягнуць">
 <!ENTITY downloadRetry.label "Паўтарыць">
 <!ENTITY downloadRemove.label "Прыняць">
+<!ENTITY downloadDelete.label "Выдаліць">
 <!ENTITY downloadFailed.label "Няўдача">
 <!ENTITY noResults.label "Няма вынікаў">
 <!ENTITY allBookmarks.label "Прагледзець усе закладкі">
