@@ -6,7 +6,7 @@
 <!ENTITY leaveIt.accesskey             "L">
 <!ENTITY moveToSent.label              "Prestavi v mojo mapo &quot;Poslano&quot;">
 <!ENTITY moveToSent.accesskey          "s">
-<!ENTITY requestMDN.label              "Kadar dobim zahtevo za povratnico:">
+<!ENTITY requestMDN.label              "Kadar pride zahteva za povratnico:">
 <!ENTITY never.label                   "Povratnic ne pošiljam nikoli">
 <!ENTITY never.accesskey               "o">
 <!ENTITY returnSome.label              "Dovoljujem povratnico za nekatera sporočila">

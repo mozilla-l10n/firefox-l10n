@@ -74,5 +74,5 @@
 <!ENTITY insecureServer.tooltip.details  "Kliknite na krog za podrobnosti.">
 
 <!ENTITY insecureUnencrypted.description "Svojo e-pošto in overovljanje pa pošiljate nešifrirano, tako da vaše geslo (in vaše sporočilo) zlahka berejo tudi drugi. &brandShortName; vam bo dovolil priti do vaše pošte, vendar pa bi se morali obrniti na svojega ponudnika e-pošte, kar se nastavitve strežnika z varno povezavo tiče.">
-<!ENTITY insecureSelfSigned.description  "Strežnik uporablja potrdilo, ki mu ne moremo zaupati, tako da ne moremo biti prepričani, da nekdo prometa med &brandShortName; in strežnikom ne prestreza. &brandShortName; vam bo dovolil priti do vaše pošte, vendar pa bi se res morali obrniti na svojega ponudnika e-pošte glede nastavitve strežnika z zaupanja vrednim potrdilom.">
+<!ENTITY insecureSelfSigned.description  "Strežnik uporablja potrdilo, ki mu ni zaupati, tako da ni gotovo, da nekdo prometa med &brandShortName; in strežnikom ne prestreza. &brandShortName; vam bo dovolil priti do vaše pošte, vendar pa bi se res morali obrniti na svojega ponudnika e-pošte glede nastavitve strežnika z zaupanja vrednim potrdilom.">
 <!ENTITY secureServer.description        "Čestitamo! Ta strežnik je varen.">

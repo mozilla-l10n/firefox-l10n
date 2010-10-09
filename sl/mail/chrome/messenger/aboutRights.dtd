@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Vse ustrezne politike zasebnosti za ta izdelek morajo biti navedene tukaj.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; nudi tudi dodatne storitve, kot je na primer skrb za posodobitev razširitev; ne moremo pa vam zagotoviti, da so 100&#37; točne ali brez napak. Več podrobnosti o tem, vključno s podatki o tem, kako lahko te storitve deaktivirate, lahko najdete v ">
+<!ENTITY rights.intro-point4a "&brandShortName; nudi tudi dodatne storitve, kot je na primer skrb za posodobitev razširitev; ni pa mogoče zagotoviti, da so 100&#37; točne ali brez napak. Več podrobnosti o tem, vključno s podatki o tem, kako lahko te storitve deaktivirate, lahko najdete v ">
 <!ENTITY rights.intro-point4b "pogojih storitve">
 <!ENTITY rights.intro-point4c ".">
 

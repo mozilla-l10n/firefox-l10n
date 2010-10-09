@@ -61,14 +61,14 @@
 <!ENTITY contentEncodingError.title "Napaka pri kodiranju vsebine">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Obrnite se prosim na lastnike spletišča s tem problemom.</li>
+  <li>Obrnite se na lastnike spletišča s tem problemom.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Nevarna vrsta datoteke">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Obrnite se prosim na lastnike spletišča s tem problemom.</li>
+  <li>Obrnite se na lastnike spletišča s tem problemom.</li>
 </ul>
 ">
 
@@ -125,7 +125,7 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Obrnite se prosim na lastnike spletišča s tem problemom.</li>
+  <li>Obrnite se na lastnike spletišča s tem problemom.</li>
 </ul>
 ">
 
