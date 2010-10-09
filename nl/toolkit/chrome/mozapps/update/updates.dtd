@@ -18,6 +18,8 @@
                                            niet de benodigde systeemrechten om deze te installeren. Neem contact op met uw
                                            systeembeheerder of probeer het nogmaals met een account die de rechten
                                            heeft om software op deze computer te installeren.">
+<!ENTITY  manualUpdate.space.desc         "Er is een aanbevolen beveiligings- en stabiliteitsupdate beschikbaar, maar u hebt
+                                           niet genoeg ruimte om deze te installeren.">
 <!ENTITY  manualUpdateGetMsg.label        "U kunt de laatste versie van &brandShortName; altijd verkrijgen op:">
 
 <!ENTITY  incompatibleCheck.title         "Add-oncompatibiliteit controleren">
