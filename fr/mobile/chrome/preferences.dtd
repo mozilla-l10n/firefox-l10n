@@ -20,7 +20,7 @@
 <!ENTITY homepage.default                          "Accueil de &brandShortName;">
 <!ENTITY homepage.currentpage                      "Page courante">
 <!ENTITY sync.title                                "Sync">
-<!ENTITY sync.account                              "Nom d'utilisateur/adresse courriel">
+<!ENTITY sync.account2                             "Compte">
 <!ENTITY sync.password                             "Mot de passe">
 <!ENTITY sync.syncKey                              "Clé de synchronisation">
 <!ENTITY sync.deviceName                           "Nom de l'appareil">
