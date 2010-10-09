@@ -6,7 +6,7 @@
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Nastavite svoje privzete nastavitve za neželeno pošto. Za račun tipične nastavitve za neželeno pošto se lahko priredi v nastavitvah računa.">
-<!ENTITY manualMark.label "Ko označim sporočila kot neželena:">
+<!ENTITY manualMark.label "Ko se označi sporočila kot neželena:">
 <!ENTITY manualMark.accesskey "L">
 <!ENTITY manualMarkModeMove.label "Prestavi jih v mapo &quot;Neželeno&quot;">
 <!ENTITY manualMarkModeMove.accesskey "ž">
