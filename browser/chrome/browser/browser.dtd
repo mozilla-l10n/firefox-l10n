@@ -33,7 +33,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label         "Kelompok Tab Baru">
 <!ENTITY  moveToNewWindow.label        "Pindahkan ke Jendela Baru">
 <!ENTITY  moveToNewWindow.accesskey    "J">
-<!ENTITY  bookmarkAllTabs.label        "Buat Bookmark Semua Tab…">
+<!ENTITY  bookmarkAllTabs.label        "Markahi Semua Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey    "S">
 <!ENTITY  undoCloseTab.label           "Batalkan Menutup Tab">
 <!ENTITY  undoCloseTab.accesskey       "B">
@@ -67,9 +67,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Bilah Alat Navigasi">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Bilah Alat Bookmark">
+<!ENTITY personalbarCmd.label "Bilah Alat Markah">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Nama Bookmark">
+<!ENTITY bookmarksToolbarItem.label "Nama Markah">
 <!ENTITY addonBarCmd.label "Bilah Pengaya">
 <!ENTITY addonBarCmd.accesskey "P">
 
@@ -96,16 +96,16 @@ can reach it easily. -->
 <!ENTITY closeWindow.label "Tutup Jendela">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Bookmark">
+<!ENTITY bookmarksMenu.label "Markah">
 <!ENTITY bookmarksMenu.accesskey "m">
-<!ENTITY bookmarkThisPageCmd.label "Buat Bookmark Laman ini">
+<!ENTITY bookmarkThisPageCmd.label "Markahi Laman ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Berlangganan Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Berlangganan Laman Ini…">
-<!ENTITY addCurPagesCmd.label "Buat Bookmark Semua Tab…">
-<!ENTITY showAllBookmarks.label "Tampilkan Semua Bookmark…">
-<!ENTITY bookmarkAllCmd.label "Buat Bookmark Semua Tab…">
-<!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan bookmark lainnya">
+<!ENTITY addCurPagesCmd.label "Markahi Semua Tab…">
+<!ENTITY showAllBookmarks.label "Tampilkan Semua Markah…">
+<!ENTITY bookmarkAllCmd.label "Markahi Semua Tab…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan markah lainnya">
 
 <!ENTITY backCmd.label                "Mundur">
 <!ENTITY backCmd.accesskey            "d">
@@ -129,7 +129,7 @@ can reach it easily. -->
 <!ENTITY locationItem.title           "Lokasi">
 <!ENTITY searchItem.title             "Cari">
 <!ENTITY throbberItem.title           "Indikator Aktivitas">
-<!ENTITY bookmarksItem.title          "Bookmark">
+<!ENTITY bookmarksItem.title          "Markah">
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
@@ -142,15 +142,15 @@ can reach it easily. -->
 <!ENTITY feedButton.label             "Langganan">
 <!ENTITY feedButton.tooltip           "Berlangganan laman ini…">
 
-<!ENTITY bookmarksButton.label        "Bookmark">
-<!ENTITY bookmarksButton.tooltip      "Menampilkan bookmark Anda">
-<!ENTITY bookmarksButton.accesskey    "B">
+<!ENTITY bookmarksButton.label        "Markah">
+<!ENTITY bookmarksButton.tooltip      "Menampilkan markah Anda">
+<!ENTITY bookmarksButton.accesskey    "m">
 <!ENTITY bookmarksCmd.commandkey      "b">
 
-<!ENTITY bookmarksMenuButton.label          "Bookmark">
-<!ENTITY bookmarksMenuButton.tooltip        "Tampilkan bookmark Anda">
+<!ENTITY bookmarksMenuButton.label          "Markah">
+<!ENTITY bookmarksMenuButton.tooltip        "Tampilkan markah Anda">
 <!ENTITY viewBookmarksSidebar.label         "Tampilkan di Bilah Samping">
-<!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Bookmark">
+<!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Markah">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -281,7 +281,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Tata Letak Bilah Alat…">
 <!ENTITY appMenuSidebars.label "Bilah Samping">
 <!ENTITY appMenuFind.label "Cari…">
-<!ENTITY appMenuUnsorted.label "Bookmark Belum Diurut">
+<!ENTITY appMenuUnsorted.label "Markah Belum Diurut">
 <!ENTITY appMenuWebDeveloper.label "Pengembang Web">
 <!ENTITY appMenuGettingStarted.label "Memulai">
 <!ENTITY appMenuSafeMode.label "Mulai Ulang dengan Pengaya Dinonaktifkan…">
@@ -358,12 +358,12 @@ can reach it easily. -->
 <!ENTITY viewBGImageCmd.accesskey     "L">
 <!ENTITY setDesktopBackgroundCmd.label      "Jadikan sebagai Latar Belakang Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "d">
-<!ENTITY bookmarkPageCmd2.label       "Buat Bookmark untuk Laman Ini">
-<!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "Buat Bookmark untuk Tautan Ini">
+<!ENTITY bookmarkPageCmd2.label       "Markahi Laman Ini">
+<!ENTITY bookmarkPageCmd2.accesskey   "M">
+<!ENTITY bookmarkThisLinkCmd.label      "Markahi Tautan Ini">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "t">
-<!ENTITY bookmarkThisFrameCmd.label      "Buat Bookmark untuk Bingkai Ini">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY bookmarkThisFrameCmd.label      "Markahi Bingkai Ini">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY sendPageCmd.label            "Kirim Tautan…">
 <!ENTITY sendPageCmd.accesskey        "n">
 <!ENTITY savePageCmd.label            "Simpan Laman dengan Nama…">

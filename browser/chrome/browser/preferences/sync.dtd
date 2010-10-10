@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Setel &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; memudahkan Anda untuk mengakses data riwayat, bookmark, sandi, dan tab di semua perangkat Anda.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; memudahkan Anda untuk mengakses data riwayat, markah, sandi, dan tab di semua perangkat Anda.">
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Akun &syncBrand.fullName.label;">
@@ -26,8 +26,8 @@
 <!ENTITY syncComputerName.accesskey   "k">
 
 <!ENTITY syncMy.label               "Sinkronisasikan">
-<!ENTITY engine.bookmarks.label     "Bookmark">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.bookmarks.label     "Markah">
+<!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Riwayat">

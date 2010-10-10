@@ -4,11 +4,11 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Daftar Bookmark
-#define bookmarks_heading Daftar Bookmark
+#define bookmarks_title Daftar Markah
+#define bookmarks_heading Daftar Markah
 
-#define bookmarks_toolbarfolder Folder Toolbar Bookmark
-#define bookmarks_toolbarfolder_description Tambahkan bookmark pada folder ini agar bisa tampil di Toolbar Bookmark
+#define bookmarks_toolbarfolder Folder Bilah Alat Markah
+#define bookmarks_toolbarfolder_description Tambahkan markah pada folder ini agar bisa tampil di Bilah Alat Markah
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/

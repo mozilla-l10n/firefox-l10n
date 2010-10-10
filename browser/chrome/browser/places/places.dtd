@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Kelola">
 <!ENTITY organize.accesskey    "K">
-<!ENTITY organize.tooltip      "Kelola bookmark Anda">
+<!ENTITY organize.tooltip      "Kelola markah Anda">
 
 <!ENTITY file.accesskey                 "B">
 <!ENTITY file.close.label               "Tutup">
@@ -26,7 +26,7 @@
 <!ENTITY view.sortDescending.label      "Urutan Z ke A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Cari di Daftar Bookmark…">
+<!ENTITY cmd.findInBookmarks.label      "Cari di Daftar Markah…">
 <!ENTITY cmd.findInBookmarks.accesskey  "C">
 <!ENTITY cmd.findCurrent.label          "Cari di Kelompok Ini…">
 <!ENTITY cmd.findCurrent.accesskey      "K">
@@ -43,8 +43,8 @@
 <!ENTITY cmd.restoreFromFile.label      "Pilih Berkas…">
 <!ENTITY cmd.restoreFromFile.accesskey  "B">
 
-<!ENTITY cmd.bookmarkLink.label         "Buat Bookmark Laman ini…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
+<!ENTITY cmd.bookmarkLink.label         "Markahi Laman ini…">
+<!ENTITY cmd.bookmarkLink.accesskey     "M">
 <!ENTITY cmd.delete.label               "Hapus Laman Ini">
 <!ENTITY cmd.delete.accesskey           "H">
 <!ENTITY cmd.deleteDomainData.label     "Lupakan Situs Ini">
@@ -66,17 +66,17 @@
 <!ENTITY cmd.sortby_name.accesskey          "N">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Bookmark Baru…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_bookmark.label            "Markah Baru…">
+<!ENTITY cmd.new_bookmark.accesskey        "M">
 <!ENTITY cmd.new_folder.label              "Folder Baru…">
 <!ENTITY cmd.new_folder.accesskey          "F">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Garis Pemisah Baru">
 <!ENTITY cmd.new_separator.accesskey       "G">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Muat Ulang Bookmark Hidup">
+<!ENTITY cmd.reloadLivebookmark.label      "Muat Ulang Markah Hidup">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "H">
-<!ENTITY cmd.reloadMicrosummary.label      "Muat Ulang Bookmark Hidup">
+<!ENTITY cmd.reloadMicrosummary.label      "Muat Ulang Markah Hidup">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "H">
 
 <!ENTITY cmd.moveBookmarks.label                  "Pindah…">
@@ -96,7 +96,7 @@
 <!ENTITY search.accesskey                          "C">
 <!ENTITY search.scopeFolder.label                  "Folder Terpilih">
 <!ENTITY search.scopeFolder.accesskey              "T">
-<!ENTITY search.scopeBookmarks.label               "Bookmark">
+<!ENTITY search.scopeBookmarks.label               "Markah">
 <!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "Unduhan">
 <!ENTITY search.scopeDownloads.accesskey           "U">
@@ -109,7 +109,7 @@
 
 <!ENTITY maintenance.label      "Impor dan Cadangan">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Impor dan cadangkan bookmark Anda‚">
+<!ENTITY maintenance.tooltip    "Impor dan cadangkan markah Anda‚">
 
 <!ENTITY backCmd.label       "Mundur">
 <!ENTITY backButton.tooltip  "Mundur">
