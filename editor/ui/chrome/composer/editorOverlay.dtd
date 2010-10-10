@@ -352,7 +352,7 @@
 <!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "Insérer un tableau">
 <!ENTITY tableInsertMenu2.accesskey "I">
-<!ENTITY tableDeleteMenu2.label "Effacer le tableau">
+<!ENTITY tableDeleteMenu2.label "Supprimer le tableau">
 <!ENTITY tableDeleteMenu2.accesskey "E">
 
 <!-- Insert SubMenu -->

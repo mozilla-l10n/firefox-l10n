@@ -55,8 +55,8 @@
 <!ENTITY downloadPause.label "Pause">
 <!ENTITY downloadResume.label "Reprendre">
 <!ENTITY downloadRetry.label "Réessayer">
-<!ENTITY downloadRemove.label "Supprimer">
-<!ENTITY downloadDelete.label "Effacer">
+<!ENTITY downloadRemove.label "Retirer de la liste">
+<!ENTITY downloadDelete.label "Supprimer">
 <!ENTITY downloadFailed.label "Échec">
 
 <!ENTITY noResults.label "Pas de résultat">
