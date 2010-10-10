@@ -28,8 +28,18 @@
 <!ENTITY netInterrupt.title "قُوطِع الاتصال">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "وضع بدون اتصال">
-<!ENTITY netOffline.longDesc "<ul> <li>أزِل اختيار &quot;اعمل بدون اتصال&quot; من قائمة ملف وحاول مجددًا.</li> </ul>">
+<!ENTITY netOffline.title "وضع بلا اتصال">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>ألغِ تأشير العنصر &quot;اعمل بلا اتصال&quot; ثم حاول مجددًا.</li>
+</ul>
+">
+
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
@@ -72,6 +82,9 @@
 <!ENTITY phishingBlocked.title "خداع وِب مُشتبه به">
 <!ENTITY phishingBlocked.longDesc "<p>قد ينتج عن إدخال بيانات في هذه الصفحة سرقة الهوية أو أي احتيال آخر.</p> <p>تستخدم طرق التزوير هذه في خدع تعرف بهجمات التزوير، و فيها تستخدم صفحات و رسائل مزوّرة لتقليد مصادر تثق بها.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "محجوب من قِبَل سياسة أمن المحتوى">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة ا للصفحة سياسة أمن محتوى تمنع ذلك.</p>">
+
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
 <!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
@@ -81,8 +94,14 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningText "<p>يجب ألا تضيف استثناءً إذا كنت تستخدم اتصال إنترنت لا تثق به تمامًا أو إذا لم تعتد على رؤية تحذير من هذا الخادوم.</p>
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<!ENTITY securityOverride.warningContent "
+<p>لا ينبغي أن تضيف استثناءً إذا كنت تستخدم اتصال إنترنت لا تثق به كليًا أو إذا كانت غير معتاد على رؤية تحذير من هذا الخادوم.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
