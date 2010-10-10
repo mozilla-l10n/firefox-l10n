@@ -61,10 +61,10 @@
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
+<!ENTITY syncComputerName.accesskey   "Հ">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Իմ Sync">
 <!ENTITY engine.bookmarks.label     "Էջանիշեր">
 <!ENTITY engine.bookmarks.accesskey "Է">
 <!ENTITY engine.tabs.label          "Ներդիրներ">
@@ -78,5 +78,5 @@
 
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.tosLink.label        "Ծառայության պայմաններին">
 <!ENTITY prefs.ppLink.label         "Գաղտնիության Դրույթները">
