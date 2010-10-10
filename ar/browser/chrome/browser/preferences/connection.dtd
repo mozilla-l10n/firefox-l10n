@@ -18,8 +18,6 @@
 <!ENTITY reload.accesskey "ع">
 <!ENTITY ftp.label "وسيط FTP:">
 <!ENTITY ftp.accesskey "و">
-<!ENTITY gopher.label "وسيط غوفر:">
-<!ENTITY gopher.accesskey "غ">
 <!ENTITY http.label "وسيط HTTP:">
 <!ENTITY http.accesskey "س">
 <!ENTITY ssl.label "وسيط SSL:">
@@ -34,8 +32,6 @@
 <!ENTITY HTTPport.accesskey "م">
 <!ENTITY SSLport.accesskey "ن">
 <!ENTITY FTPport.accesskey "ف">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "ذ">
 <!ENTITY noproxy.label "لا وسيط لـ:">
 <!ENTITY noproxy.accesskey "ل">

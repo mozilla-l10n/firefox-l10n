@@ -40,15 +40,8 @@
 <!ENTITY  privateBrowsingPermanent.label "نمط التصفح الخاص دائم">
 <!ENTITY  privateBrowsingPermanent.accesskey "ئ">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "تذكّر تأريخ التصفح لمدةRemember my browsing history for at least">
-<!ENTITY  rememberHistory.pre.accesskey  "د">
-<!ENTITY  rememberHistory.post.label     "يومًا/أيام على الأقل">
+<!ENTITY  rememberHistory.label      "تذكّر تأريخ تصفحي">
+<!ENTITY  rememberHistory.accesskey  "ص">
 
 <!ENTITY  rememberDownload.label         "تذكّر تأريخ التنزيلات">
 <!ENTITY  rememberDownload.accesskey     "ز">
