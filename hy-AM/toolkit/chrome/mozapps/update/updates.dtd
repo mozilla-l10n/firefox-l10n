@@ -52,6 +52,8 @@
 
 <!ENTITY  manualUpdate.title              "Չի ստացվում թարմացնել">
 <!ENTITY  manualUpdate.desc               "Անվտանգության և կայունության ցանկալի թարմացումները հասանելի են, սակայն ձեր օպերացիոն համակարգում տեղադրելու համար դուք չունեք համապատասխան թույլտվություն: Կապնվեք ձեր համակարգի ադմինիստրատորին կամ փորձեք կրկին մեկ այլ օգտագործողի հաշվից, որը համակարգում ունի ծրագրեր տեղադրելու իրավունք:">
+<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
 <!ENTITY  manualUpdateGetMsg.label        "Դուք միշտ կարող էք ձեռք բերել &brandShortName; -ի վերջին տարբերակը այստեղից`">
 
 <!ENTITY  incompatibleCheck.title         "Ստուվում է հավելումների համատեղելիությունը">
