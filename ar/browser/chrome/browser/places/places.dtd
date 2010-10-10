@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "نظّم">
 <!ENTITY organize.accesskey "ظ">
+<!ENTITY organize.tooltip      "نظّم علاماتك">
 
 <!ENTITY file.accesskey "م">
 <!ENTITY file.close.label "أغلق">
@@ -11,10 +12,9 @@
 <!ENTITY cmd.close.key "w">
 <!ENTITY edit.label "حرّر">
 <!ENTITY edit.accesskey "ح">
-<!ENTITY views.label "المشاهد">
+<!ENTITY views.label "المظاهر">
 <!ENTITY views.accesskey "ش">
-<!ENTITY view.toolbar.label "شريط الأدوات">
-<!ENTITY view.toolbar.accesskey "ش">
+<!ENTITY views.tooltip                  "غيّر المظهر">
 <!ENTITY view.columns.label "أظهر الأعمدة">
 <!ENTITY view.columns.accesskey "ع">
 <!ENTITY view.sort.label "رتّب">
@@ -43,27 +43,6 @@
 <!ENTITY cmd.restoreFromFile.label "اختر ملفا…">
 <!ENTITY cmd.restoreFromFile.accesskey "خ">
 
-<!ENTITY cmd.select_all.label "اختر الكل">
-<!ENTITY cmd.select_all.accesskey "ك">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label "قص">
-<!ENTITY cmd.edit_cut.accesskey "ق">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "انسخ">
-<!ENTITY cmd.edit_copy.accesskey "ن">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "ألصق">
-<!ENTITY cmd.edit_paste.accesskey "ل">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "احذف">
-<!ENTITY cmd.edit_delete.accesskey "ذ">
-<!ENTITY cmd.edit_undo.label "تراجع">
-<!ENTITY cmd.edit_undo.accesskey "ر">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "أعِد">
-<!ENTITY cmd.edit_redo.accesskey "ع">
-<!ENTITY cmd.edit_redo.key "y">
 
 <!ENTITY cmd.bookmarkLink.label         "علّم هذه الصفحة…">
 <!ENTITY cmd.bookmarkLink.accesskey     "ل">
@@ -84,8 +63,6 @@
 <!ENTITY cmd.properties.label "الخصائص">
 <!ENTITY cmd.properties.accesskey "خ">
 
-<!ENTITY cmd.rename.label "غيّر الاسم">
-<!ENTITY cmd.rename.accesskey "س">
 
 <!ENTITY cmd.sortby_name.label "رتب بالاسم">
 <!ENTITY cmd.sortby_name.accesskey "س">
@@ -93,8 +70,6 @@
 
 <!ENTITY cmd.new_bookmark.label "علامة جديدة…">
 <!ENTITY cmd.new_bookmark.accesskey "ع">
-<!ENTITY cmd.new_livemark.label "علامة حيّة جديدة…">
-<!ENTITY cmd.new_livemark.accesskey "ح">
 <!ENTITY cmd.new_folder.label "مجلد جديد…">
 <!ENTITY cmd.new_folder.accesskey "ج">
 <!ENTITY cmd.context_new_folder.accesskey "م">
@@ -134,11 +109,9 @@
 
 <!ENTITY cmd.find.key "f">
 
-<!ENTITY feed.subscribe.label "تلقيمة">
-<!ENTITY feed.subscribe.tooltip "اشترِك">
-
-<!ENTITY maintenance.label "التصدير والحفظ الاحتياطي">
+<!ENTITY maintenance.label "الاستيراد والحفظ الاحتياطي">
 <!ENTITY maintenance.accesskey "ص">
+<!ENTITY maintenance.tooltip    "استورد علاماتك واحفظ نسخًا احتياطية منها">
 
 <!ENTITY backCmd.label "للخلف">
 <!ENTITY backButton.tooltip "اذهب للخلف">
