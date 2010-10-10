@@ -24,7 +24,7 @@
 <!ENTITY pasteCmd.label		"Coller">
 <!ENTITY pasteCmd.key			"V">
 <!ENTITY pasteCmd.accesskey		"o">
-<!ENTITY deleteCmd.label		"Effacer">
+<!ENTITY deleteCmd.label		"Supprimer">
 <!ENTITY deleteCmd.accesskey		"E">
 <!ENTITY selectAllCmd.label		"Tout sélectionner">
 <!ENTITY selectAllCmd.key		"A">
