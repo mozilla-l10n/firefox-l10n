@@ -1,0 +1,104 @@
+<!ENTITY accountSetupTitle.label    "إعداد &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "مرحبًا بك. إذا لم تكن قد استخدمت &syncBrand.fullName.label; من قبل، ستحتاج إلى إنشاء حساب جديد.">
+<!ENTITY button.createNewAccount.label "أنشئ حسابًا جديدًا">
+<!ENTITY button.haveAccount.label "لديّ حساب &syncBrand.fullName.label;">
+
+<!ENTITY setup.choicePage.title.label     "هل استخدمت &syncBrand.fullName.label; من قبل؟">
+<!ENTITY setup.choicePage.new.label       "لم أستخدم &syncBrand.shortName.label; من قبل">
+<!ENTITY setup.choicePage.existing.label  "أستخدم &syncBrand.shortName.label; حاليًا على حاسوب آخر">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "الخادوم">
+<!ENTITY serverType.main.label      "خادوم &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "استخدم خادومًا مخصصًاr">
+<!ENTITY signIn.account.label       "البريد الإلكتروني / اسم المستخدم">
+<!ENTITY signIn.account.accesskey   "د">
+<!ENTITY signIn.password.label      "كلمة السر">
+<!ENTITY signIn.password.accesskey  "ر">
+<!ENTITY signIn.serverURL.label     "عنوان الخادوم">
+<!ENTITY signIn.serverURL.accesskey "خ">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "تفاصيل الحساب">
+<!ENTITY setup.confirmPassword.label  "أكّد كلمة السر">
+<!ENTITY setup.confirmPassword.accesskey  "س">
+<!ENTITY setup.emailAddress.label     "البريد الإلكتروني">
+<!ENTITY setup.emailAddress.accesskey "ت">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "أوافق على">
+<!ENTITY setup.tosAgree1.accesskey  "ق">
+<!ENTITY setup.tosLink.label        "بنود الخدمة">
+<!ENTITY setup.tosAgree2.label      "وعلى">
+<!ENTITY setup.ppLink.label         "سياسة الخصوصية">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; تهمّه خصوصيتك">
+<!ENTITY setup.newSyncKeyPage.description.label "لتأكيد حصولك على الخصوصية التامة، تُعمّى جميع بياناتك قبل رفعها. مفتاح فك المزامنة الضروري لفك التعمية لا يُرفع بدوره.">
+<!ENTITY syncKeyEntry.label        "مفتاح المزامنة الخاص بك">
+<!ENTITY syncKeyEntry.accesskey    "ز">
+<!ENTITY syncKeyGenerate.label     "ولّد">
+<!ENTITY syncKeyStrength.label     "القوة:">
+<!ENTITY syncKeyHelp.label         "ماذا تعني هذه القوة؟">
+<!ENTITY syncKeyBackup.description "مفتاح المزامنة ضروري للدخول إلى &syncBrand.fullName.label; على الأجهزة الأخرى. رجاءً احتفظ بنسخة احتياطية منه. لا يمكننا مساعدتك على استعادته في حال ضاع أو نسيته.">
+
+<!ENTITY button.syncKeyBackup.print.label     "اطبع…">
+<!ENTITY button.syncKeyBackup.print.accesskey "ط">
+<!ENTITY button.syncKeyBackup.save.label      "احفظ…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "ظ">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "رجاءً أكّد لنا أنك لست روبوتًا">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "أدخِل معلومات الحساب">
+<!ENTITY resetPassword.label          "صفّر كلمة السر">
+<!ENTITY connecting.label             "يتصل…">
+
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "رجاءً أدخل مفتاح المزامنة">
+<!ENTITY setup.existingSyncKeyPage.description "مفتاح المزامنة وُلّد من أجلك أو اخترته بنفسك عند إنشاءك لحسابك في &syncBrand.fullName.label;. إنه ليس نفس كلمة السر.">
+<!ENTITY existingSyncKeyHelp.description "يمكنك إيجاد مفتاح المزامنة المحفوظ من خلال الذهاب إلى حاسوبك الآخر والتماس كلمات السر المحفوظة في قسم الأمن. إن لم تستطع الحصول على مفتاح المزامنة الصحبح رغم هذا، يمكنك أن تختاره تغييره، ولكنك ستخسر كل البيانات المحفوظة على الخادوم.">
+<!ENTITY lostSyncKey.label            "فقدتُ مفتاح المزامنة الخاص بي">
+<!ENTITY verifying.label              "يتحقق…">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "خيارات المزامنة">
+<!ENTITY syncComputerName.label       "اسم الحاسوب:">
+<!ENTITY syncComputerName.accesskey   "ح">
+
+<!ENTITY syncMy.label               "زامِن">
+<!ENTITY engine.bookmarks.label     "علاماتي">
+<!ENTITY engine.bookmarks.accesskey "م">
+<!ENTITY engine.tabs.label          "ألسنتي">
+<!ENTITY engine.tabs.accesskey      "ت">
+<!ENTITY engine.history.label       "تأريخي">
+<!ENTITY engine.history.accesskey   "خ">
+<!ENTITY engine.passwords.label     "كلمات السر">
+<!ENTITY engine.passwords.accesskey "ر">
+<!ENTITY engine.prefs.label         "تفضيلاتي">
+<!ENTITY engine.prefs.accesskey     "ض">
+
+<!ENTITY choice2.merge.main.label      "ادمج بيانات هذا الحاسوب ببياناتي في &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "مُزكّى:">
+<!ENTITY choice2.client.main.label     "استبدل بيانات هذا الحاسوب ببياناتي في &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "استبدل بيانات الأجهزة الأخرى ببيانات هذا الحاسوب">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "تأكيد">
+<!ENTITY confirm.merge.label    "سوف يدمج &syncBrand.fullName.label; الآن بيانات تصفح هذا الحاسوب في حساب تزامُن الخاص بك.">
+<!ENTITY confirm.client.label         "سوف تُحذف جميع بيانات &brandShortName; من هذا الحاسوب متضمنة التالي:">
+<!ENTITY confirm.client.moreinfo.label "ثم سينسخ &brandShortName; بياناتك في &syncBrand.fullName.label; إلى هذا الحاسوب.">
+<!ENTITY confirm.client.warning.label "تحذير: النتيجة أن جميع بيانات &brandShortName; في هذا الحاسوب سوف تُستبدل!">
+<!ENTITY confirm.server.label         "سوف تُستبدل بيانات الأجهزة التالية ببياناتك المحلية:">
+<!ENTITY confirm.server.warning.label "تحذير: سوف تستبدل بياناتك المحلية جميع بيانات &brandShortName; في هذه الأجهزة!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "اكتمل الإعداد">
+<!ENTITY changeOptions.label "يمكنك تغيير هذا التفضيل من خلال اختيار خيارات المزامنة أدناه.">
+<!ENTITY continueUsing.label "يمكنك الآن متابعة استخدام &brandShortName;.">

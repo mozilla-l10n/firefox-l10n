@@ -7,10 +7,6 @@
 #define bookmarks_title العلامات
 #define bookmarks_heading العلامات
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons احصل على إضافات العلامات
-
 #define bookmarks_toolbarfolder مجلّد شريط العلامات
 #define bookmarks_toolbarfolder_description أضِف هنا العلامات التي تريد ظهورها في شريط العلامات
 
