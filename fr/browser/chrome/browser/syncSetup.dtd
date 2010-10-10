@@ -73,7 +73,7 @@
 <!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy.label               "Synchroniser">
-<!ENTITY engine.bookmarks.label     "les marque-pagess">
+<!ENTITY engine.bookmarks.label     "les marque-pages">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "les onglets">
 <!ENTITY engine.tabs.accesskey      "o">
