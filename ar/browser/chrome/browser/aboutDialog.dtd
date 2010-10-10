@@ -1,13 +1,56 @@
-<!ENTITY aboutDialog.title "عنْ &brandFullName;">
-<!ENTITY copyright "المساهمون">
-<!ENTITY copyright.accesskey "م">
-<!ENTITY copyrightGNOME.accesskey "ق">
-<!ENTITY aboutLink "&lt; عنْ &brandFullName;">
-<!ENTITY aboutLink.accesskey "ع">
-<!ENTITY aboutVersion "الإصدارة">
-<!ENTITY closeCmdGNOME.label "أغلق">
-<!ENTITY closeCmdGNOME.accesskey "ل">
-<!ENTITY copyrightInfo1             "جميع الحقوق محفوظة. المساهمون &#169;1998-2009. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "معلومات الترخيص">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY aboutDialog.title          "عن &brandFullName;">
+
+<!ENTITY community.start2           "&brandShortName; مُطوَّر من قِبل ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          "، وهي عبارة عن ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "مجتمع عمومي">
+<!ENTITY community.end2             " يعمل يدًا بيد لتحسين الإنترنت. نحن نؤمن أن الإنترنت يجب أن يكون عامًا ومفتوحًا أمام الجميع من دون أي قيود.">
+
+<!ENTITY contribute.start           "هل يثير ذلك اهتمامك؟ ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "شارِك معنا!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "معلومات الترخيص">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "حقوق المستخدم">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "سياسة الخصوصية">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "يلتمس التحديثات…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "يتحقق من توافقية الإضافات…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; مُحدَّث">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "مدير النظام عطّل التحديثات">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "فشل التحديث. ">
+<!ENTITY update.failed.linkText     "نزّل آخر نسخة">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "التحديثات متاحة في ">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "ينزل التحديث — ">
+<!ENTITY update.downloading.end     "">
