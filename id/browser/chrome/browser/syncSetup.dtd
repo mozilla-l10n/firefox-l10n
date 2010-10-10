@@ -73,8 +73,8 @@
 <!ENTITY syncComputerName.accesskey   "k">
 
 <!ENTITY syncMy.label               "Sinkronisasikan">
-<!ENTITY engine.bookmarks.label     "Bookmark">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.bookmarks.label     "Markah">
+<!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Riwayat">
@@ -101,4 +101,4 @@
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Penyetelah Selesai">
 <!ENTITY changeOptions.label "Anda dapat mengubah pengaturan ini dengan memilihnya di bawah ini.">
-<!ENTITY continueUsing.label "Anda dapat melanjutkan menggunakan  &brandShortName;.">
+<!ENTITY continueUsing.label "Anda dapat melanjutkan menggunakan &brandShortName;.">

@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Setel ulang bilah alat dan kontrol">
 <!ENTITY resetToolbars.accesskey      "k">
 
-<!ENTITY deleteBookmarks.label        "Hapus semua bookmark kecuali untuk cadangan">
-<!ENTITY deleteBookmarks.accesskey    "b">
+<!ENTITY deleteBookmarks.label        "Hapus semua markah kecuali untuk cadangan">
+<!ENTITY deleteBookmarks.accesskey    "h">
 
 <!ENTITY resetUserPrefs.label         "Setel ulang semua pengaturan pengguna menjadi default &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">

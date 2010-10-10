@@ -63,7 +63,7 @@
 <!ENTITY otherDirList.tooltip         "Pilih atau masukkan nama subdirektori daring tempat berkas akan diterbitkan">
 <!ENTITY pageTitle.label              "Judul Laman:">
 <!ENTITY pageTitle.accesskey          "J">
-<!ENTITY pageTitle.tooltip            "Masukkan sebuah judul untuk mengidentifikasikan laman pada jendela dan bookmark">
+<!ENTITY pageTitle.tooltip            "Masukkan sebuah judul untuk mengidentifikasikan laman pada jendela dan markah">
 <!ENTITY pageTitleExample.label       "contoh: &quot;Laman Webku&quot;">
 <!ENTITY filename.label               "Nama berkas:">
 <!ENTITY filename.accesskey           "N">

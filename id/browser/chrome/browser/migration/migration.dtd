@@ -1,9 +1,9 @@
 
 <!ENTITY migrationWizard.title          "Penuntun Impor">
 
-<!ENTITY importFrom.label               "Impor Pengaturan, Bookmark, Riwayat, Sandi, dan data lainnya dari:">
-<!ENTITY importFromUnix.label           "Impor Pengaturan, Bookmark, Riwayat, Sandi, dan data lainnya dari:">
-<!ENTITY importFromBookmarks.label      "Impor Bookmark dari:">
+<!ENTITY importFrom.label               "Impor Pengaturan, Markah (Bookmark), Riwayat, Sandi, dan data lainnya dari:">
+<!ENTITY importFromUnix.label           "Impor Pengaturan, Markah (Bookmark), Riwayat, Sandi, dan data lainnya dari:">
+<!ENTITY importFromBookmarks.label      "Impor Markah dari:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -34,7 +34,7 @@
 <!ENTITY importFromHTMLFile.label       "Dari Berkas HTML">
 <!ENTITY importFromHTMLFile.accesskey   "B">
 
-<!ENTITY noMigrationSources.label       "Tidak ada program yang berisi bookmark, riwayat atau sandi yang bisa ditemukan.">
+<!ENTITY noMigrationSources.label       "Tidak ada program yang berisi markah, riwayat atau sandi yang bisa ditemukan.">
 
 <!ENTITY importSource.title             "Impor Pengaturan dan Data">
 <!ENTITY importItems.title              "Pilih yang akan diimpor">
