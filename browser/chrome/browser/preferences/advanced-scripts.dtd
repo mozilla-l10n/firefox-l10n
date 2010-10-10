@@ -46,7 +46,4 @@
 <!ENTITY raiseLowerWindows.accesskey "ف">
 <!ENTITY disableContextMenus.label "تعطيل أو استبدال قوائم السياق">
 <!ENTITY disableContextMenus.accesskey "ع">
-<!ENTITY hideStatusBar.label "إخفاء شريط الحالة">
-<!ENTITY hideStatusBar.accesskey "خ">
-<!ENTITY changeStatusBar.label "تغيير نص شريط الحالة ">
-<!ENTITY changeStatusBar.accesskey "غ">
+

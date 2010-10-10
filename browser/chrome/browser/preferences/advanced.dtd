@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey "ف">
 <!ENTITY useSmoothScrolling.label "استخدم اللّف السلس:">
 <!ENTITY useSmoothScrolling.accesskey "ف">
+<!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
+<!ENTITY allowHWAccel.accesskey          "ع">
 <!ENTITY checkSpelling.label "دقق الإملاء أثناء الكتابة">
 <!ENTITY checkSpelling.accesskey "ك">
 
@@ -26,6 +28,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "د">
 <!ENTITY checkNow.label "تحقق الآن">
 <!ENTITY checkNow.accesskey "ن">
+<!ENTITY submitCrashes.label             "أرسِل بلاغًا بالانهيار">
+<!ENTITY submitCrashes.accesskey         "غ">
 
 <!ENTITY networkTab.label "الشبكة">
 
@@ -43,11 +47,13 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "استعمل حتى">
-<!ENTITY useCacheBefore.accesskey "ح">
-<!ENTITY useCacheAfter.label "م.بايت من المساحة للذّاكرة المخبّأة">
+<!ENTITY useCacheSizeBefore.label "استعمل حتى">
+<!ENTITY useCacheSizeBefore.accesskey "ح">
+<!ENTITY useCacheSizeAfter.label "م.بايت من المساحة للذّاكرة الخبيئة">
 <!ENTITY clearCacheNow.label "امسح الآن">
 <!ENTITY clearCacheNow.accesskey "م">
+<!ENTITY overrideSmartCacheSize.label    "تجاهل الإدارة الآلية للذاكرة الخبيئة">
+<!ENTITY overrideSmartCacheSize.accesskey "ذ">
 
 <!ENTITY updateTab.label "حدِّث">
 

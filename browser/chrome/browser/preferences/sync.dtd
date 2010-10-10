@@ -1,0 +1,43 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "إعداد &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "د">
+<!ENTITY weaveDesc.label            "يسمح لك &syncBrand.fullName.label; بالوصول إلى علاماتك وتأريخك وكلمات السر والألسنة النفتوحة في جميع أجهزتك.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "حساب &syncBrand.fullName.label;">
+<!ENTITY currentAccount.label         "الحساب الحالي:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "حدِّث">
+<!ENTITY resetPass.label              "صفّر">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "أدِر الحساب">
+<!ENTITY manageAccount.accesskey      "س">
+<!ENTITY viewQuota.label              "اعرض الحصة">
+<!ENTITY changePassword.label         "غيّر كلمة السر">
+<!ENTITY mySyncKey.label              "مفتاحي للتزامُن">
+<!ENTITY resetSync.label              "صفّر التزامن">
+<!ENTITY stopUsingAccount.label       "كفّ عن استخدام هذا الحساب">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "تزامُن المتصفح">
+<!ENTITY syncComputerName.label       "اسم الحاسوب:">
+<!ENTITY syncComputerName.accesskey   "ح">
+
+<!ENTITY syncMy.label               "زامِن">
+<!ENTITY engine.bookmarks.label     "علاماتي">
+<!ENTITY engine.bookmarks.accesskey "م">
+<!ENTITY engine.tabs.label          "ألسنتي">
+<!ENTITY engine.tabs.accesskey      "ت">
+<!ENTITY engine.history.label       "تأريخي">
+<!ENTITY engine.history.accesskey   "خ">
+<!ENTITY engine.passwords.label     "كلمات السر">
+<!ENTITY engine.passwords.accesskey "ر">
+<!ENTITY engine.prefs.label         "تفضيلاتي">
+<!ENTITY engine.prefs.accesskey     "ض">
+
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "بنود الخدمة">
+<!ENTITY prefs.ppLink.label         "سياسة الخصوصية">
