@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Markah">
 <!ENTITY bookmarksMenuButton.tooltip        "Tampilkan markah Anda">
+<!ENTITY bookmarksMenuButton.unsorted.label "Markah Belum Diurut">
 <!ENTITY viewBookmarksSidebar.label         "Tampilkan di Bilah Samping">
 <!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Markah">
 
