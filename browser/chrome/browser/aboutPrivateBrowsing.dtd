@@ -14,8 +14,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "ابدأ التصفح الخاص">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "خ">
 
-<!ENTITY privatebrowsingpage.howToStop                 "لإيقاف التصفح الخاص، اختر &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;، أو أغلق &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "لبدء التصفح الخاص، يمكنك أيضًا اختيار &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "لإيقاف التصفح الخاص، اختر &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; أو أغلق &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "لبدء التصفح الخاص، اختر &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "رغم أن هذا الحاسوب لن يملك سجلًا لتصفحك الماضي، لا زال مزود خدمة الإنترنت يستطيع تتبع الصفحات التي زرتَها.">
 <!ENTITY privatebrowsingpage.learnMore                 "اعرف المزيد">
