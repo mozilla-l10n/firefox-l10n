@@ -97,7 +97,11 @@
 <!ENTITY permPopup "فتح نوافذ منبثقة">
 <!ENTITY permCookie "ضبط الكعكات">
 <!ENTITY permInstall "تثبيت امتدادات وسمات">
-<!ENTITY  permGeo               "تشارَك الموقع">
+<!ENTITY  permGeo               "تشارَك المكان">
+
+<!ENTITY  permIndexedDB              "اسمح بالتخزين بلا اتصال">
+<!ENTITY  permClearStorage           "امسح المخزون">
+<!ENTITY  permClearStorage.accesskey "ح">
 
 <!ENTITY securityTab "السريّة">
 <!ENTITY securityTab.accesskey "س">
