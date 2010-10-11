@@ -1,0 +1,15 @@
+<!ENTITY networkPanel.requestURL                  "موقع الطلب">
+<!ENTITY networkPanel.requestMethod               "طريقة الطلب">
+<!ENTITY networkPanel.statusCode                  "رمز الحالة">
+
+<!ENTITY networkPanel.requestHeaders              "ترويسات الطلب">
+<!ENTITY networkPanel.requestCookie               "كعكات الطلب">
+<!ENTITY networkPanel.requestBody                 "صلب موضوع الطلب">
+<!ENTITY networkPanel.requestFormData             "بيانات نموذج الطلب">
+
+<!ENTITY networkPanel.responseHeaders             "ترويسات الرد">
+<!ENTITY networkPanel.responseBody                "صلب موضوع الرد">
+<!ENTITY networkPanel.responseBodyCached          "البيانات الخبيئة">
+<!ENTITY networkPanel.responseNoBody              "لا صلب موضوع في الرد">
+<!ENTITY networkPanel.responseImage               "الصورة المستقبَلة">
+<!ENTITY networkPanel.responseImageCached         "الصورة الخبيئة">
