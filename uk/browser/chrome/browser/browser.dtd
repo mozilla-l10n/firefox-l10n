@@ -381,7 +381,7 @@ can reach it easily. -->
 <!ENTITY saveImageCmd.accesskey       "б">
 <!ENTITY saveVideoCmd.label           "Зберегти відео як…">
 <!ENTITY saveVideoCmd.accesskey       "в">
-<!ENTITY saveAudioCmd.label           "Зберезгти аудіо як…">
+<!ENTITY saveAudioCmd.label           "Зберегти аудіо як…">
 <!ENTITY saveAudioCmd.accesskey       "а">
 <!ENTITY sendImageCmd.label           "Відіслати зображення…">
 <!ENTITY sendImageCmd.accesskey       "ж">
