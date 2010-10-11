@@ -7,11 +7,21 @@
 <!ENTITY listEmpty.findUpdates.label          "Verificar atualizações">
 <!ENTITY listEmpty.search.label               "Nenhum complemento encontrado.">
 <!ENTITY listEmpty.button.label               "Saiba mais sobre complementos">
-<!ENTITY installFromFile.label                "Instalar do arquivo…">
-<!ENTITY installFromFile.accesskey            "I">
+<!ENTITY installAddonFromFile.label           "Instalar complemento de um arquivo…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Ferramentas para todos os complementos">
 
 <!ENTITY cmd.back.tooltip                     "Página anterior">
 <!ENTITY cmd.forward.tooltip                  "Próxima página">
+
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "As extensões e temas foram desativadas pelo modo de segurança.">
+<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label   "Enable">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label       "Enable">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Pesquisar">
@@ -19,30 +29,34 @@
 <!ENTITY view.locales.label                   "Idiomas">
 <!ENTITY view.searchengines.label             "Mecanismos de pesquisa">
 <!ENTITY view.features.label                  "Extensões">
-<!ENTITY view.appearance.label                "Temas">
+<!ENTITY view.appearance2.label               "Aparência">
 <!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Atualizações recentes">
 <!ENTITY view.availableUpdates.label          "Atualizações disponíveis">
-<!ENTITY view.utilites.preferences.tooltip    "Opções para todos os complementos">
-<!ENTITY view.utilites.preferencesUnix.tooltip "Preferências para todos os complementos">
 
 <!-- addon updates -->
-<!ENTITY updates.updateAddonsNow.label        "Atualizar complementos agora">
-<!ENTITY updates.updateAddonsNow.accesskey    "A">
+<!ENTITY updates.checkForUpdates.label        "Verificar atualizações">
+<!ENTITY updates.checkForUpdates.accesskey    "V">
 <!ENTITY updates.viewUpdates.label            "Exibir atualizações recentes">
 <!ENTITY updates.viewUpdates.accesskey        "E">
-<!ENTITY updates.backgroudUpdateCheck.label   "Verificar atualizações automaticamente">
-<!ENTITY updates.backgroudUpdateCheck.accesskey "V">
+<!ENTITY updates.updateAddonsAutomatically.label     "Atualizar complementos automaticamente">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Fazer com que todos os complementos atualizem automaticamente">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "F">
+<!ENTITY updates.resetUpdatesToManual.label          "Fazer com que todos os complementos atualizem manualmente">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "F">
 <!ENTITY updates.updating.label               "Atualizando complementos">
 <!ENTITY updates.installed.label              "Your add-ons have been updated.">
 <!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
 <!ENTITY updates.restart.label                "Reinicie agora para concluir a instalação">
 <!ENTITY updates.noneFound.label              "Nenhuma atualização encontrada">
 <!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
+<!ENTITY updates.updateSelected.label         "Instalar atualizações">
+<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Exibir mais informações">
-<!ENTITY cmd.showDetails.accesskey            "x">
+<!ENTITY cmd.showDetails.accesskey            "E">
 <!ENTITY cmd.findUpdates.label                "Localizar atualizações">
 <!ENTITY cmd.findUpdates.accesskey            "L">
 <!ENTITY cmd.preferencesWin.label             "Opções">
@@ -56,6 +70,12 @@
 <!ENTITY cmd.enableAddon.accesskey            "t">
 <!ENTITY cmd.disableAddon.label               "Desativar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Aplicar tema">
+<!ENTITY cmd.enableTheme.accesskey            "A">
+<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.installAddon.label               "Instalar">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Excluir">
 <!ENTITY cmd.uninstallAddon.accesskey         "x">
 <!ENTITY cmd.showPreferencesWin.label         "Opções">
@@ -71,16 +91,36 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas da versão">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ocultar as notas da versão para esta atualização">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "O que são complementos?">
+<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
+  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
+  your own.">
+<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
+  some of the best and most popular add-ons for you to try out.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versão">
-<!ENTITY detail.updated.label                 "Updated">
+<!ENTITY detail.lastupdated.label             "Última atualização">
 <!ENTITY detail.creator.label                 "Developer">
 <!ENTITY detail.homepage.label                "Homepage">
 <!ENTITY detail.numberOfDownloads.label       "Downloads">
 
-<!ENTITY detail.updateAutomatically.label     "Atualizar automaticamente">
-<!ENTITY detail.updateAutomatically.accesskey "A">
-<!ENTITY detail.updateAutomatically.tooltip   "Atualizar este complemento sempre que houver uma atualização">
+<!ENTITY detail.contributions.description     "O autor deste complemento pede o seu apoio para o desenvolvimento de novas versões através de uma pequena contribuição.">
+
+<!ENTITY detail.updateType                    "Atualização automática">
+<!ENTITY detail.updateDefault.label           "Padrão">
+<!ENTITY detail.updateDefault.tooltip         "Instalar atualizações automaticamente apenas se isto for o padrão">
+<!ENTITY detail.updateAutomatic.label         "Ativada">
+<!ENTITY detail.updateAutomatic.tooltip       "Instalar atualizações automaticamente">
+<!ENTITY detail.updateManual.label            "Desativada">
+<!ENTITY detail.updateManual.tooltip          "Não instalar atualizações automaticamente">
+<!ENTITY detail.home                          "Site">
+<!ENTITY detail.repository                    "Add-on Profile">
+<!ENTITY detail.size                          "Tamanho">
+
 <!ENTITY detail.checkForUpdates.label         "Verificar atualização">
 <!ENTITY detail.checkForUpdates.accesskey     "V">
 <!ENTITY detail.checkForUpdates.tooltip       "Verificar se este complemento possui atualização">
@@ -93,7 +133,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Avaliação:">
+<!ENTITY rating2.label                        "Classificação">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
@@ -107,6 +147,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Ordenar pela data de atualização">
 <!ENTITY sort.relevance.label                 "Relevância">
 <!ENTITY sort.relevance.tooltip               "Atualizar pela relevância">
+<!ENTITY sort.price.label                     "Preço">
+<!ENTITY sort.price.tooltip                   "Ordenar pelo preço">
 
 <!ENTITY search.filter2.label                 "Pesquisar:">
 <!ENTITY search.filter2.installed.label       "Meus complementos">
@@ -118,21 +160,29 @@
 <!ENTITY addon.details.label                  "Mais">
 <!ENTITY addon.details.tooltip                "Exibir mais detalhes sobre este complemento">
 <!ENTITY addon.unknownDate                    "Desconhecido">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(desativado)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix                 "Atualização do">
-<!ENTITY addon.undo.label                     "Desfazer?">
-<!ENTITY addon.undo.tooltip                   "Desfazer esta ação">
-<!ENTITY addon.undoUninstall.label            "Desfazer?">
-<!ENTITY addon.undoUninstall.tooltip          "Manter este complemento instalado">
+<!ENTITY addon.undoAction.label               "Desfazer">
+<!ENTITY addon.undoAction.tooltip             "Desfazer esta ação">
+<!ENTITY addon.undoRemove.label               "Desfazer">
+<!ENTITY addon.undoRemove.tooltip             "Manter este complemento instalado">
 <!ENTITY addon.restartNow.label               "Reiniciar agora">
 <!ENTITY addon.install.label                  "Instalar">
 <!ENTITY addon.install.tooltip                "Instalar este complemento">
 <!ENTITY addon.updateNow.label                "Atualizar agora">
 <!ENTITY addon.updateNow.tooltip              "Instalar a atualização deste complemento">
+<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.updateAvailable.label          "Uma atualização está disponível">
 <!ENTITY addon.checkingForUpdates.label       "Verificando atualização…">
 <!ENTITY addon.releaseNotes.label             "Notas da versão:">
 <!ENTITY addon.loadingReleaseNotes.label      "Carregando…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Desculpe, houve um erro ao carregar as notas da versão.">
 
 <!ENTITY addon.createdBy.label                "Criação: ">

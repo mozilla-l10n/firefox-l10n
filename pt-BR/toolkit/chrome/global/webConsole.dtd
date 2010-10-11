@@ -1,15 +1,15 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "URL do pedido">
+<!ENTITY networkPanel.requestMethod               "Método do pedido">
+<!ENTITY networkPanel.statusCode                  "Código do status">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
+<!ENTITY networkPanel.requestHeaders              "Cabeçalhos do pedido">
 <!ENTITY networkPanel.requestCookie               "Cookies enviados">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestBody                 "Conteúdo do pedido">
+<!ENTITY networkPanel.requestFormData             "Dados de formulário enviados">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
+<!ENTITY networkPanel.responseHeaders             "Cabeçalhos da resposta">
+<!ENTITY networkPanel.responseBody                "Conteúdo da resposta">
+<!ENTITY networkPanel.responseBodyCached          "Dados do cache">
+<!ENTITY networkPanel.responseNoBody              "Resposta sem conteúdo">
+<!ENTITY networkPanel.responseImage               "Imagem recebida">
 <!ENTITY networkPanel.responseImageCached         "Imagem do cache">
