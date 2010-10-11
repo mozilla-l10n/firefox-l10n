@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname "اسم الشّهادة">
 <!ENTITY certmgr.certserver "الخادوم">
-<!ENTITY certmgr.typesofoverrides "الاستثناءات">
 <!ENTITY certmgr.override_lifetime "الصلاحية">
 <!ENTITY certmgr.tokenname "جهاز الأمن">
-<!ENTITY certmgr.purpose "الأغراض">
 <!ENTITY certmgr.issued "مُصْدَرة في">
 <!ENTITY certmgr.expires "تنتهي صلاحيّتها في">
 <!ENTITY certmgr.email "عنوان البريد الإلكتروني">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey "غ">
 <!ENTITY certmgr.view2.label "اعرض…">
 <!ENTITY certmgr.view2.accesskey "ع">
-<!ENTITY certmgr.edit2.label "حرّر…">
-<!ENTITY certmgr.edit2.accesskey "ح">
+<!ENTITY certmgr.edit3.label                  "حرّر الثقة…">
+<!ENTITY certmgr.edit3.accesskey              "ح">
 <!ENTITY certmgr.editca.label "حرِّر ثقة سلطة الشّهادات">
 <!ENTITY certmgr.editca.accesskey "ث">
 <!ENTITY certmgr.add.label "أضِف">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey "ص">
 <!ENTITY certmgr.delete2.label "احذف…">
 <!ENTITY certmgr.delete2.accesskey "ح">
+<!ENTITY certmgr.delete_builtin.label         "احذف أو لا تثق…">
+<!ENTITY certmgr.delete_builtin.accesskey     "ذ">
 <!ENTITY certmgr.backup2.label "احفظ احتياطيا…">
 <!ENTITY certmgr.backup2.accesskey "ط">
 <!ENTITY certmgr.backupall2.label "احفظ الكل احتياطيا…">
