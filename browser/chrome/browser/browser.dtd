@@ -18,17 +18,21 @@
 <!ENTITY  reloadAllTabs.accesskey            "t">
 <!ENTITY  closeOtherTabs.label               "Fechar as outras abas">
 <!ENTITY  closeOtherTabs.accesskey           "o">
-<!ENTITY  openTabInNewWindow.label           "Abrir em nova janela">
-<!ENTITY  openTabInNewWindow.accesskey       "A">
-<!ENTITY  pinTab.label                       "Converter em aba de aplicativo">
-<!ENTITY  pinTab.accesskey                   "v">
-<!ENTITY  unpinTab.label                     "Converter em aba normal">
-<!ENTITY  unpinTab.accesskey                 "v">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Afixar como aba de aplicativo">
+<!ENTITY  pinAppTab.accesskey                "A">
+<!ENTITY  unpinAppTab.label                  "Desafixar aba">
+<!ENTITY  unpinAppTab.accesskey              "D">
 <!ENTITY  moveToGroup.label                  "Mover para o grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Novo grupo">
-<!ENTITY  bookmarkThisTab.label              "Adicionar aba aos favoritos">
-<!ENTITY  bookmarkThisTab.accesskey          "d">
+<!ENTITY  moveToNewWindow.label              "Mover para nova janela">
+<!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Adicionar todas as abas…">
 <!ENTITY  bookmarkAllTabs.accesskey          "c">
 <!ENTITY  undoCloseTab.label                 "Reabrir aba">
@@ -59,15 +63,15 @@
 <!ENTITY goOfflineCmd.label "Modo offline">
 <!ENTITY goOfflineCmd.accesskey "M">
 
-<!ENTITY menubarCmd.label "Menus">
-<!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Navegação">
-<!ENTITY navbarCmd.accesskey "n">
-<!ENTITY personalbarCmd.label "Favoritos">
-<!ENTITY personalbarCmd.accesskey "v">
+<!ENTITY menubarCmd.label "Barra de menus">
+<!ENTITY menubarCmd.accesskey "m">
+<!ENTITY navbarCmd.label "Barra de navegação">
+<!ENTITY navbarCmd.accesskey "B">
+<!ENTITY personalbarCmd.label "Barra dos favoritos">
+<!ENTITY personalbarCmd.accesskey "r">
 <!ENTITY bookmarksToolbarItem.label "Barra dos favoritos">
-<!ENTITY taskbarCmd.label "Barra de status">
-<!ENTITY taskbarCmd.accesskey "s">
+<!ENTITY addonBarCmd.label "Barra de extensões">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Código-fonte">
 <!ENTITY pageSourceCmd.accesskey "f">
@@ -99,7 +103,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Inscrever RSS">
 <!ENTITY subscribeToPageMenuitem.label "Inscrever RSS…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
-<!ENTITY organizeBookmarks.label "Organizar favoritos…">
+<!ENTITY showAllBookmarks.label "Exibir todos os favoritos">
 <!ENTITY bookmarkAllCmd.label "Adicionar todas as abas…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Exibir mais favoritos">
 
@@ -118,7 +122,6 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Interromper o carregamento">
 <!ENTITY goEndCap.tooltip             "Abrir a página">
-<!ENTITY feedButton.tooltip           "Inscrever RSS">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir a página">
 
@@ -129,9 +132,15 @@
 <!ENTITY bookmarksItem.title          "Barra dos favoritos">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Página inicial">
-<!ENTITY tabViewButton2.label         "Grupos de abas">
-<!ENTITY tabViewButton2.tooltip       "Agrupar abas">
+<!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY homeButton.label             "Página inicial">
+
+<!ENTITY tabGroupsButton.label        "Grupos de abas">
+<!ENTITY tabGroupsButton.tooltip      "Agrupar abas">
+
+<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.tooltip           "Inscrever RSS">
 
 <!ENTITY bookmarksButton.label          "Favoritos">
 <!ENTITY bookmarksButton.tooltip        "Exibir o painel com os favoritos">
@@ -140,8 +149,9 @@
 
 <!ENTITY bookmarksMenuButton.label          "Favoritos">
 <!ENTITY bookmarksMenuButton.tooltip        "Exibir os favoritos">
+<!ENTITY bookmarksMenuButton.unsorted.label "Não organizados">
 <!ENTITY viewBookmarksSidebar.label         "Exibir painel">
-<!ENTITY viewBookmarksToolbar.label         "Exibir barra dos favoritos">
+<!ENTITY viewBookmarksToolbar.label         "Barra dos favoritos">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -168,6 +178,7 @@
 <!ENTITY downloadsUnix.commandkey     "Y">
 <!ENTITY addons.label                 "Complementos">
 <!ENTITY addons.accesskey             "C">
+<!ENTITY addons.commandkey            "a">
 
 <!ENTITY errorConsoleCmd.label        "Console de erros">
 <!ENTITY errorConsoleCmd.accesskey    "s">
@@ -244,8 +255,8 @@
 
 <!ENTITY viewMenu.label         "Exibir"> 
 <!ENTITY viewMenu.accesskey       "x"> 
-<!ENTITY showTabView2.label     "Agrupar abas…">
-<!ENTITY showTabView2.accesskey     "u">
+<!ENTITY viewTabGroups.label            "Grupos de abas">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Barras de ferramentas"> 
 <!ENTITY viewToolbarsMenu.accesskey     "B"> 
 <!ENTITY viewSidebarMenu.label "Painel">
@@ -260,19 +271,22 @@
 <!ENTITY historyUndoMenu.label "Reabrir aba">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Reabrir janela">
+<!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
 
 <!ENTITY historyHomeCmd.label "Página inicial">
 <!ENTITY showAllHistoryCmd2.label "Exibir todo o histórico">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
+<!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuToolbarLayout.label "Barras de ferramentas…">
+<!ENTITY appMenuToolbarLayout.label "Personalizar barras…">
 <!ENTITY appMenuSidebars.label "Painel">
 <!ENTITY appMenuFind.label "Localizar…">
 <!ENTITY appMenuUnsorted.label "Não organizados">
+<!ENTITY appMenuWebDeveloper.label "Desenvolvedor web">
 <!ENTITY appMenuGettingStarted.label "Primeiros passos">
-
-<!ENTITY developerMenu.label "Desenvolvimento">
+<!ENTITY appMenuSafeMode.label "Reiniciar com extensões e temas desativados…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "L">
 <!ENTITY urlbar.placeholder           "Abrir uma página web">
@@ -286,9 +300,9 @@
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -297,12 +311,11 @@
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 <!ENTITY searchFocus.commandkey       "K">
-<!ENTITY searchFocus.commandkey2      "E">
 <!ENTITY searchFocusUnix.commandkey   "J">
+
+<!ENTITY tabView.commandkey           "E">
 
 <!ENTITY openLinkCmdInTab.label       "Abrir em nova aba">
 <!ENTITY openLinkCmdInTab.accesskey   "b">
@@ -443,7 +456,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Recortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Colar">
+
 <!ENTITY fullScreenButton.tooltip       "Exibir esta janela no modo tela inteira">
+
+<!ENTITY zoomOutButton.tooltip          "Diminuir zoom">
+<!ENTITY zoomInButton.tooltip           "Aumentar zoom">
+<!ENTITY zoomControls.label             "Controles do zoom">
 
 <!ENTITY quitApplicationCmdWin.label       "Sair"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
@@ -528,17 +546,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Abas de outros computadores">
 
-<!ENTITY syncBrand.shortName.label  "Sync">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "y">
 <!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "f">
-<!ENTITY syncLogInItem.label          "Conectar">
-<!ENTITY syncLogInItem.accesskey      "C">
-<!ENTITY syncLogOutItem.label         "Desconectar">
-<!ENTITY syncLogOutItem.accesskey     "D">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sync">
