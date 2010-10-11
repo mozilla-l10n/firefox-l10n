@@ -1,4 +1,5 @@
 <!ENTITY brandShortName "فَيَرفُكس">
 <!ENTITY brandFullName "موزيلا فَيَرفُكس">
 <!ENTITY vendorShortName "موزيلا">
-<!ENTITY  logoCopyright         "فَيَرفُكس وشعارات فَيَرفُكس هي علامات تجارية لمؤسسة موزيلا. جميع الحقوق محفوظة.">
+<!ENTITY  trademarkInfo.part1   "فَيَرفُكس وشعارات فَيَرفُكس هي علامات تجارية لمؤسسة موزيلا.">
+<!ENTITY  trademarkInfo.part2   "بعض العلامات التجارية مستخدمة بترخيص من قِبَل شركة شارلتون.">
