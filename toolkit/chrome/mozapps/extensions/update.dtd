@@ -46,5 +46,4 @@
 <!ENTITY clickFinish.label "اضغط أنهِ لمواصلة تشغيل &brandShortName;.">
 <!ENTITY clickFinish.labelMac "انقر تمّ لمتابعة بدء &brandShortName;.">
 <!ENTITY enableChecking.label "اسمح ل&brandShortName; بالبحث عن تحديثات.">
-<!ENTITY details.label "التفاصيل…">
-<!ENTITY details.accesskey "ت">
+

@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "أعِد تشغيل &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "ع">
+
+<!ENTITY blocklist.blocked.label     "محجوبة">
+<!ENTITY blocklist.checkbox.label    "عطّل">
