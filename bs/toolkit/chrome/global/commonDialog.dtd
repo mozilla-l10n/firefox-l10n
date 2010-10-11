@@ -2,7 +2,6 @@
 <!ENTITY message.label    "Ovdje ide tekst za primjer.">
 <!ENTITY editfield0.label "Korisničko ime:"> 
 <!ENTITY editfield1.label "Lozinka:"> 
-<!ENTITY editfield2.label "Potvrdi lozinku:"> 
 <!ENTITY checkbox.label   "označeno">
 <!ENTITY copyCmd.label    "Kopiraj">
 <!ENTITY copyCmd.accesskey "K">

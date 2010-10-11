@@ -7,10 +7,6 @@
 #define bookmarks_title Zabilješke
 #define bookmarks_heading Zabilješke
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Dobavi add-one za zabilješke
-
 #define bookmarks_toolbarfolder Direktorij alatne trake zabilješki
 #define bookmarks_toolbarfolder_description Dodajte zabilješke u ovaj direktorij da biste ih vidjeli u alatnoj traci zabilješki
 
@@ -41,7 +37,7 @@
 #define firefox_community Uključite se
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about O nama
 
 #unfilter emptyLines

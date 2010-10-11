@@ -58,7 +58,7 @@
 <!ENTITY  generalSource         "Izvor cachea:">
 <!ENTITY  generalModified       "Izmijenjeno:">
 <!ENTITY  generalEncoding       "Kodiranje:">
-<!ENTITY  generalMetaName       "Ime">
+<!ENTITY  generalMetaName       "Naziv">
 <!ENTITY  generalMetaContent    "Sadržaj">
 <!ENTITY  generalSecurityDetails   "Detalji">
 <!ENTITY  generalSecurityDetails.accesskey "D">
@@ -98,6 +98,10 @@
 <!ENTITY  permCookie            "Postavi kolačiće">
 <!ENTITY  permInstall           "Instaliraj ekstenzije ili teme">
 <!ENTITY  permGeo               "Podijeli lokaciju">
+
+<!ENTITY  permIndexedDB              "Maintain Offline Storage">
+<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Sigurnost">
 <!ENTITY  securityTab.accesskey "S">

@@ -63,7 +63,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Pronađi na ovoj stranici…">
 <!ENTITY findOnCmd.accesskey "P">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Pronađi opet">
+<!ENTITY findAgainCmd.label  "Pronađi ponovo">
 <!ENTITY findAgainCmd.accesskey "P">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">

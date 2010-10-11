@@ -3,12 +3,13 @@
 <!ENTITY     cookiesonsystem.label          "Sljedeći kolačići su smješteni na vašem računaru:">
 <!ENTITY     cookiename.label               "Ime kolačića">
 <!ENTITY     cookiedomain.label             "Stranica"> 
+<!ENTITY     button.removecookies.label     "Remove Cookies">
 <!ENTITY     button.removecookie.label      "Ukloni kolačić">
 <!ENTITY     button.removecookie.accesskey  "U">
 <!ENTITY     button.removeallcookies.label  "Ukloni sve kolačiće">
 <!ENTITY     button.removeallcookies.accesskey "a">
 
-<!ENTITY     props.name.label               "Ime:">
+<!ENTITY     props.name.label               "Naziv:">
 <!ENTITY     props.value.label              "Sadržaj:">
 <!ENTITY     props.domain.label             "Host računar:">
 <!ENTITY     props.path.label               "Putanja:">

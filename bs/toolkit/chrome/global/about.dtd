@@ -1,19 +1,27 @@
 <!ENTITY about.version                "verzija">
 
-<!ENTITY about.copy.beforeLink        "Sva prava pridržana &copy; 1998-2010">
-<!ENTITY about.copy.linkTitle         "saradnici">
-<!ENTITY about.copy.afterLink         "Mozilla projekta.">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "See a list of ">
+<!ENTITY about.credits.linkTitle      "contributors">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " to the Mozilla Project.">
 
-<!ENTITY about.license.beforeLink     "Pročitajte">
+<!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.license.beforeTheLink  "Read the ">
 <!ENTITY about.license.linkTitle      "podatke o licenciranju">
-<!ENTITY about.license.afterLink      "za ovaj proizvod.">
+<!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.license.afterTheLink   " for this product.">
 
-<!ENTITY about.relnotes.beforeLink    "Pročitajte">
+<!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.relnotes.beforeTheLink "Read the ">
 <!ENTITY about.relnotes.linkTitle     "bilješke o izdanju">
-<!ENTITY about.relnotes.afterLink     "za ovu verziju.">
+<!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.relnotes.afterTheLink  " for this version.">
 
-<!ENTITY about.buildconfig.beforeLink "Pogledajte">
-<!ENTITY about.buildconfig.linkTitle  "build konfiguraciju">
-<!ENTITY about.buildconfig.afterLink  "korištenu za ovu verziju.">
+<!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.buildconfig.beforeTheLink "See the ">
+<!ENTITY about.buildconfig.linkTitle     "build konfiguraciju">
+<!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink  " used for this version.">
 
 <!ENTITY about.buildIdentifier        "Build identifikator: ">

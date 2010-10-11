@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Bosanski
+#define MOZ_LANG_TITLE Engleski (SAD)

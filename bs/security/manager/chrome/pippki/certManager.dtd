@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "Naziv certifikata">
 <!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.typesofoverrides             "Izuzeci">
 <!ENTITY certmgr.override_lifetime            "Životni vijek">
 <!ENTITY certmgr.tokenname                    "Sigurnosni uređaj">
-<!ENTITY certmgr.purpose                      "Svrhe">
 <!ENTITY certmgr.issued                       "Izdato">
 <!ENTITY certmgr.expires                      "Ističe">
 <!ENTITY certmgr.email                        "E-mail adresa">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "Z">
 <!ENTITY certmgr.view2.label                  "Pogledaj…">
 <!ENTITY certmgr.view2.accesskey              "P">
-<!ENTITY certmgr.edit2.label                  "Uredi…">
-<!ENTITY certmgr.edit2.accesskey              "e">
+<!ENTITY certmgr.edit3.label                  "Edit Trust…">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "Uređivanje pouzdanosti CA">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Dodaj">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "I">
 <!ENTITY certmgr.delete2.label                "Obriši…">
 <!ENTITY certmgr.delete2.accesskey            "O">
+<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "Sigurnosna kopija…">
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Sigurnosna kopija svega…">

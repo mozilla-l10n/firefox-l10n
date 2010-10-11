@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Onemogućivanje ili zamjenu kontekstnih menija">
 <!ENTITY disableContextMenus.accesskey  "O">
-<!ENTITY hideStatusBar.label            "Sakrivanje statusne trake">
-<!ENTITY hideStatusBar.accesskey        "S">
-<!ENTITY changeStatusBar.label          "Promjena teksta u statusnoj traci">
-<!ENTITY changeStatusBar.accesskey      "c">

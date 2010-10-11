@@ -1,5 +1,5 @@
-<!ENTITY editBookmarkOverlay.name.label                      "Ime:">
-<!ENTITY editBookmarkOverlay.name.accesskey                  "I">
+<!ENTITY editBookmarkOverlay.name.label                      "Naziv:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Lokacija:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Lokacija feeda:">

@@ -1,4 +1,4 @@
-<!ENTITY     props.name.label               "Ime:">
+<!ENTITY     props.name.label               "Naziv:">
 <!ENTITY     props.value.label              "Sadržaj:">
 <!ENTITY     props.domain.label             "Host računar:">
 <!ENTITY     props.path.label               "Putanja:">
