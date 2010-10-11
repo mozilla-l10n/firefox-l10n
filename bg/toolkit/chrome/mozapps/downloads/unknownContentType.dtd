@@ -42,20 +42,20 @@
 <!ENTITY actionQuestion.label "Какво да направи &brandShortName; с този файл?">
 
 <!ENTITY openWith.label "Отваряне с">
-<!ENTITY openWith.accesskey "o">
+<!ENTITY openWith.accesskey "О">
 <!ENTITY other.label "Друго…">
 
 <!ENTITY saveFile.label "Запис на файл">
 <!ENTITY saveFile.accesskey "З">
 
 <!ENTITY rememberChoice.label "Запомняне на операцията за този тип файлове.">
-<!ENTITY rememberChoice.accesskey "a">
+<!ENTITY rememberChoice.accesskey "З">
 
 <!ENTITY whichIsA.label "който е:">
 
 <!ENTITY chooseHandlerMac.label "Избиране…">
-<!ENTITY chooseHandlerMac.accesskey "C">
+<!ENTITY chooseHandlerMac.accesskey "И">
 <!ENTITY chooseHandler.label "Разглеждане…">
-<!ENTITY chooseHandler.accesskey "B">
+<!ENTITY chooseHandler.accesskey "Р">
 
 <!ENTITY unknownPromptText.label "Да бъде ли записан този файл?">

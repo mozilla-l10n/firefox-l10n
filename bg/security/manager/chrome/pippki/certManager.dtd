@@ -53,9 +53,9 @@
 <!ENTITY certmgr.orphans "Във файла имате сертификати, които не попадат в никоя от следните категории:">
 
 <!ENTITY certmgr.detail.general_tab.title "Общи">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.general_tab.accesskey "О">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Подробности">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "П">
 
 <!ENTITY certmgr.pending.label "Проверяване на сертификат…">
 <!ENTITY certmgr.subjectinfo.label "Издаден на">
@@ -102,35 +102,35 @@
 <!ENTITY certmgr.serial "Сериен номер">
 
 <!ENTITY certmgr.close.label "Затваряне">
-<!ENTITY certmgr.close.accesskey "C">
+<!ENTITY certmgr.close.accesskey "З">
 <!ENTITY certmgr.view2.label "Подробности">
-<!ENTITY certmgr.view2.accesskey "V">
-<!ENTITY certmgr.edit3.label "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey "E">
+<!ENTITY certmgr.view2.accesskey "П">
+<!ENTITY certmgr.edit3.label "Редактиране на доверието…">
+<!ENTITY certmgr.edit3.accesskey "Р">
 <!ENTITY certmgr.editca.label "Редактиране на доверие в CA">
 <!ENTITY certmgr.editca.accesskey "C">
 <!ENTITY certmgr.add.label "Добавяне">
-<!ENTITY certmgr.add.accesskey "A">
+<!ENTITY certmgr.add.accesskey "Д">
 <!ENTITY certmgr.export.label "Изнасяне…">
-<!ENTITY certmgr.export.accesskey "x">
+<!ENTITY certmgr.export.accesskey "И">
 <!ENTITY certmgr.delete2.label "Изтриване…">
-<!ENTITY certmgr.delete2.accesskey "D">
-<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey "D">
+<!ENTITY certmgr.delete2.accesskey "т">
+<!ENTITY certmgr.delete_builtin.label "Изтриване или недоверяване повече…">
+<!ENTITY certmgr.delete_builtin.accesskey "д">
 <!ENTITY certmgr.backup2.label "Резервно копие…">
-<!ENTITY certmgr.backup2.accesskey "B">
+<!ENTITY certmgr.backup2.accesskey "Р">
 <!ENTITY certmgr.backupall2.label "Резервно копие на всичко…">
-<!ENTITY certmgr.backupall2.accesskey "k">
+<!ENTITY certmgr.backupall2.accesskey "в">
 <!ENTITY certmgr.restore2.label "Внасяне…">
-<!ENTITY certmgr.restore2.accesskey "m">
+<!ENTITY certmgr.restore2.accesskey "В">
 <!ENTITY certmgr.details.label "Полета на сертификата">
-<!ENTITY certmgr.details.accesskey "F">
+<!ENTITY certmgr.details.accesskey "П">
 <!ENTITY certmgr.fields.label "Стойност на поле">
-<!ENTITY certmgr.fields.accesskey "V">
+<!ENTITY certmgr.fields.accesskey "С">
 <!ENTITY certmgr.hierarchy.label "Йерархия на сертификата">
-<!ENTITY certmgr.hierarchy.accesskey "C">
+<!ENTITY certmgr.hierarchy.accesskey "Й">
 <!ENTITY certmgr.addException.label "Добавяне на изключение…">
-<!ENTITY certmgr.addException.accesskey "x">
+<!ENTITY certmgr.addException.accesskey "к">
 
 <!ENTITY exceptionMgr.title "Добавяне на изключение по безопасността">
 <!ENTITY exceptionMgr.exceptionButton "Потвърждаване на изключение по безопасността">
@@ -144,4 +144,4 @@
 <!ENTITY exceptionMgr.certstatus.viewCert "Преглед…">
 <!ENTITY exceptionMgr.certstatus.accesskey "П">
 <!ENTITY exceptionMgr.permanent.label "Запомняне за постоянно на това изключение">
-<!ENTITY exceptionMgr.permanent.accesskey "P">
+<!ENTITY exceptionMgr.permanent.accesskey "З">

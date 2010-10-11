@@ -48,17 +48,17 @@
 <!ENTITY availprofiles.label "Налични профили">
 
 <!ENTITY newButton.label "Създаване на профил…">
-<!ENTITY newButton.accesskey "C">
+<!ENTITY newButton.accesskey "С">
 <!ENTITY renameButton.label "Преименуване на профил…">
-<!ENTITY renameButton.accesskey "R">
+<!ENTITY renameButton.accesskey "П">
 <!ENTITY deleteButton.label "Изтриване на профил…">
-<!ENTITY deleteButton.accesskey "D">
+<!ENTITY deleteButton.accesskey "т">
 <!-- manager entities -->
 
 <!ENTITY pmDescription.label "&brandShortName; съхранява информацията за вашите настройки, предпочитания и други неща от вашия профил.">
 
 <!ENTITY offlineState.label "Работа извън мрежата">
-<!ENTITY offlineState.accesskey "o">
+<!ENTITY offlineState.accesskey "м">
 
 <!ENTITY autoSelect.label "Не питай при стартиране">
-<!ENTITY autoSelect.accesskey "s">
+<!ENTITY autoSelect.accesskey "п">

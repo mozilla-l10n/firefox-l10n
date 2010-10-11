@@ -1,20 +1,20 @@
 <!ENTITY cutCmd.label "Изрязване">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "И">
 <!ENTITY copyCmd.label "Копиране">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "К">
 <!ENTITY pasteCmd.label "Поставяне">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "П">
 <!ENTITY undoCmd.label "Отмяна">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.accesskey "О">
 <!ENTITY selectAllCmd.label "Маркиране на всичко">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "в">
 <!ENTITY deleteCmd.label "Изтриване">
-<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY deleteCmd.accesskey "т">
 
 <!ENTITY spellAddToDictionary.label "Добавяне към речник">
-<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellAddToDictionary.accesskey "р">
 <!ENTITY spellCheckEnable.label "Проверка на правописа">
-<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellCheckEnable.accesskey "П">
 <!ENTITY spellNoSuggestions.label "(Няма предложения за правопис)">
 <!ENTITY spellDictionaries.label "Езици">
-<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellDictionaries.accesskey "Е">

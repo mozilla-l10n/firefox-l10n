@@ -1,15 +1,15 @@
-<!ENTITY networkPanel.requestURL "Request URL">
-<!ENTITY networkPanel.requestMethod "Request Method">
-<!ENTITY networkPanel.statusCode "Status Code">
+<!ENTITY networkPanel.requestURL "Адрес на заявката">
+<!ENTITY networkPanel.requestMethod "Метод на заявката">
+<!ENTITY networkPanel.statusCode "Код на състоянието">
 
-<!ENTITY networkPanel.requestHeaders "Request Headers">
-<!ENTITY networkPanel.requestCookie "Sent Cookie">
-<!ENTITY networkPanel.requestBody "Request Body">
-<!ENTITY networkPanel.requestFormData "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders "Заглавки на заявката">
+<!ENTITY networkPanel.requestCookie "Изпратени бисквитки">
+<!ENTITY networkPanel.requestBody "Тяло на заявката">
+<!ENTITY networkPanel.requestFormData "Изпратени данни от формуляр">
 
-<!ENTITY networkPanel.responseHeaders "Response Headers">
-<!ENTITY networkPanel.responseBody "Response Body">
-<!ENTITY networkPanel.responseBodyCached "Кеширана информация">
-<!ENTITY networkPanel.responseNoBody "No Response Body">
-<!ENTITY networkPanel.responseImage "Received Image">
-<!ENTITY networkPanel.responseImageCached "Cached Image">
+<!ENTITY networkPanel.responseHeaders "Заглавки на отговора">
+<!ENTITY networkPanel.responseBody "Тяло на отговора">
+<!ENTITY networkPanel.responseBodyCached "Кеширани данни">
+<!ENTITY networkPanel.responseNoBody "Няма тяло на отговора">
+<!ENTITY networkPanel.responseImage "Получени изображения">
+<!ENTITY networkPanel.responseImageCached "Кеширани изображения">

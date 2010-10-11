@@ -22,6 +22,6 @@
 <!ENTITY about.buildconfig.beforeTheLink "Вижте ">
 <!ENTITY about.buildconfig.linkTitle "настройките на компилирането">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.buildconfig.afterTheLink " използвано за тази версия.">
+<!ENTITY about.buildconfig.afterTheLink ", използвани за тази версия.">
 
 <!ENTITY about.buildIdentifier "Идентификатор на компилирането:">

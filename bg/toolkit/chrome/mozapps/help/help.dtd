@@ -5,15 +5,15 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backButton.label "Назад">
-<!ENTITY backButton.accesskey "B">
+<!ENTITY backButton.accesskey "з">
 <!ENTITY backButton.tooltip "Една страница назад">
 <!ENTITY forwardButton.label "Напред">
-<!ENTITY forwardButton.accesskey "F">
+<!ENTITY forwardButton.accesskey "п">
 <!ENTITY forwardButton.tooltip "Една страница напред">
 <!ENTITY copyCmd.label "Копиране">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "К">
 <!ENTITY selectAllCmd.label "Избиране на всичко">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.accesskey "в">
 <!ENTITY goBackCmd.commandkey "[">
 <!ENTITY goForwardCmd.commandkey "]">
 <!ENTITY homeButton.label "Начало">
@@ -25,7 +25,7 @@
 <!ENTITY search.emptytext "Търсене">
 <!ENTITY searchHeader.label "Резултати от търсенето">
 <!ENTITY toctab.label "Съдържание">
-<!ENTITY toctab.accesskey "C">
+<!ENTITY toctab.accesskey "С">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -45,9 +45,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY helpSearch.commandkey "k">
 
 <!ENTITY zLevel.label "Винаги отгоре">
-<!ENTITY zLevel.accesskey "T">
+<!ENTITY zLevel.accesskey "г">
 
 <!ENTITY fullZoomReduceBtn.label "Увеличаване">
-<!ENTITY fullZoomReduceBtn.accesskey "O">
+<!ENTITY fullZoomReduceBtn.accesskey "У">
 <!ENTITY fullZoomEnlargeBtn.label "Намаляване">
-<!ENTITY fullZoomEnlargeBtn.accesskey "I">
+<!ENTITY fullZoomEnlargeBtn.accesskey "Н">

@@ -64,11 +64,11 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.accesskey "Р">
 
 <!ENTITY menubarCmd.label "Лента с менютата">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY navbarCmd.label "Лента за навигация">
-<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY navbarCmd.accesskey "н">
 <!ENTITY personalbarCmd.label "Лента с отметки">
-<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY personalbarCmd.accesskey "о">
 <!ENTITY bookmarksToolbarItem.label "Елементи на лентата с отметките">
 <!ENTITY addonBarCmd.label "Лента на добавките">
 <!ENTITY addonBarCmd.accesskey "д">
@@ -149,7 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label "Отметки">
 <!ENTITY bookmarksMenuButton.tooltip "Показване на отметките">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
+<!ENTITY bookmarksMenuButton.unsorted.label "Несортирани отметки">
 <!ENTITY viewBookmarksSidebar.label "Показване в страничната лента">
 <!ENTITY viewBookmarksToolbar.label "Показване на лентата с отметки">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command

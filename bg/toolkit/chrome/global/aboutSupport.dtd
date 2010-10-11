@@ -9,15 +9,15 @@
 <!ENTITY aboutSupport.extensionName "Име">
 <!ENTITY aboutSupport.extensionEnabled "Активирано">
 <!ENTITY aboutSupport.extensionVersion "Версия">
-<!ENTITY aboutSupport.extensionId "ИД">
+<!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsTitle "Основни за приложението">
 <!ENTITY aboutSupport.appBasicsName "Име">
 <!ENTITY aboutSupport.appBasicsVersion "Версия">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
+<!ENTITY aboutSupport.appBasicsProfileDir "Директория на профила">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Активирани приставки">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Настройки на компилирането">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsUserAgent "Потребителски агент">
 
 <!ENTITY aboutSupport.show.label "Отваряне на съдържащата папка">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -30,7 +30,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Име">
 <!ENTITY aboutSupport.modifiedPrefsValue "Стойност">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Изчертаване">
 
 <!ENTITY aboutSupport.installationHistoryTitle "История на инсталирането">
 <!ENTITY aboutSupport.updateHistoryTitle "История на обновяванията">
