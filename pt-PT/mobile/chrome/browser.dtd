@@ -56,6 +56,7 @@
 <!ENTITY downloadResume.label      "Resumir">
 <!ENTITY downloadRetry.label       "Tentar novamente">
 <!ENTITY downloadRemove.label      "Eliminar">
+<!ENTITY downloadDelete.label      "Eliminar">
 <!ENTITY downloadFailed.label      "Falhou">
 
 <!ENTITY noResults.label           "Sem resultados">
