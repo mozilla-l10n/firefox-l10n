@@ -14,6 +14,7 @@
 
 <!ENTITY manualUpdate.title "Обновяването не успя">
 <!ENTITY manualUpdate.desc "Налично е обновяване по безопасността и стабилността, но нямате нужните системни права, за да го инсталирате. Моля, свържете се със системния администратор или опитайте от друг акаунт, който има права за инсталиране на софтуер.">
+<!ENTITY manualUpdate.space.desc "Налично е препоръчвано обновяване за безопасност и стабилност, но нямате достатъчно свободно място, за да бъде инсталирано.">
 <!ENTITY manualUpdateGetMsg.label "Винаги може да изтеглите последната версия на &brandShortName; от:">
 
 <!ENTITY incompatibleCheck.title "Проверяване на съвместимостта на добавките">
@@ -31,9 +32,9 @@
 <!ENTITY license.introText "Условия за ползването на този софтуер.">
 <!ENTITY license.instructionText "Моля, прочетете следното лицензно споразумение. Използвайте лентата за превъртане, за да видите останалата част от споразумението.">
 <!ENTITY license.accept "Приемам условията на лицензното споразумение">
-<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.accept.accesskey "П">
 <!ENTITY license.decline "НЕ приемам условията на лицензното споразумение">
-<!ENTITY license.decline.accesskey "T">
+<!ENTITY license.decline.accesskey "Н">
 
 <!ENTITY incompatibleList.title "Има несъвместими добавки">
 
@@ -60,10 +61,9 @@
 
 <!ENTITY genericBackgroundError.label "&brandShortName; is unable to determine if there is an update available. Please
                                            make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY errorCertAttrNoUpdate2.label "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY errorCertAttrHasUpdate.label "Something is trying to trick &brandShortName; into accepting an 
-insecure update. Please contact your network provider and seek help.">
+<!ENTITY errorCertAttrNoUpdate2.label "Нещо пречи на безопасното обновяване на &brandShortName;.
+Моля, проверете дали използвате последната версия на &brandShortName; от:">
+<!ENTITY errorCertAttrHasUpdate.label "Нещо се опитва да измами &brandShortName; да приеме небезопасно обновяване. Моля, свържете се с вашия доставчик на Интернет и потърсете помощ.">
 
 <!ENTITY finishedPage.title "Обновяването е готово за инсталиране">
 <!ENTITY finishedPage.text "Обновяването ще бъде инсталирано при следващото пускане на &brandShortName;. Можете сега да рестартирате &brandShortName; или да продължите да работите и да рестартирате по-късно.">
@@ -74,7 +74,7 @@ insecure update. Please contact your network provider and seek help.">
 <!ENTITY finishedBackground.more "Обновяването ще бъде инсталирано при следващото пускане на &brandShortName;. Можете сега да рестартирате &brandShortName; или да продължите да работите и да рестартирате по-късно.">
 
 <!ENTITY installed.title "Обновяването е инсталирано">
-<!ENTITY installed.intro "Обновяването беше инсталирано успешно.">
+<!ENTITY installed.intro "Обновяването е инсталирано успешно.">
 <!ENTITY whatsnew.label "Прочетете повече за новите неща…">
 
 <!ENTITY update.details.label "Подробности">

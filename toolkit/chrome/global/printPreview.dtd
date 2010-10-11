@@ -36,20 +36,20 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY print.label "Отпечатване…">
-<!ENTITY print.accesskey "P">
+<!ENTITY print.accesskey "п">
 <!ENTITY pageSetup.label "Настройки на отпечатването…">
-<!ENTITY pageSetup.accesskey "u">
+<!ENTITY pageSetup.accesskey "Н">
 <!ENTITY page.label "Страница:">
-<!ENTITY page.accesskey "a">
+<!ENTITY page.accesskey "С">
 <!ENTITY of.label "от">
 <!ENTITY scale.label "Мащаб:">
-<!ENTITY scale.accesskey "S">
+<!ENTITY scale.accesskey "М">
 <!ENTITY portrait.label "Портрет">
-<!ENTITY portrait.accesskey "o">
+<!ENTITY portrait.accesskey "П">
 <!ENTITY landscape.label "Пейзаж">
-<!ENTITY landscape.accesskey "L">
+<!ENTITY landscape.accesskey "ж">
 <!ENTITY close.label "Затваряне">
-<!ENTITY close.accesskey "C">
+<!ENTITY close.accesskey "З">
 <!ENTITY p30.label "30&#037;">
 <!ENTITY p40.label "40&#037;">
 <!ENTITY p50.label "50&#037;">

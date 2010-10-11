@@ -12,10 +12,10 @@
 
 <!ENTITY profileCreationIntro.text "Ако създадете няколко профила, можете да ги разграничите с отделни имена. Използвайте името, дадено тук, или използвайте някое ваше.">
 <!ENTITY profilePrompt.label "Въведете ново име на профил:">
-<!ENTITY profilePrompt.accesskey "E">
+<!ENTITY profilePrompt.accesskey "В">
 <!ENTITY profileDirectoryExplanation.text "Вашите потребителски настройки и лични данни ще бъдат записани в:">
 <!ENTITY profileDefaultName "Текущ потребител">
 <!ENTITY button.choosefolder.label "Избиране на папка…">
-<!ENTITY button.choosefolder.accesskey "C">
+<!ENTITY button.choosefolder.accesskey "б">
 <!ENTITY button.usedefault.label "Използване на подразбиращата се папка">
-<!ENTITY button.usedefault.accesskey "U">
+<!ENTITY button.usedefault.accesskey "п">

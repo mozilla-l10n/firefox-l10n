@@ -8,7 +8,7 @@
      See UI mockup at bug 480169 -->
 
 <!ENTITY clearTimeDuration.label "Времеви обхват за изчистване">
-<!ENTITY clearTimeDuration.accesskey "T">
+<!ENTITY clearTimeDuration.accesskey "В">
 <!ENTITY clearTimeDuration.lastHour "Последен час">
 <!ENTITY clearTimeDuration.last2Hours "Последни два часа">
 <!ENTITY clearTimeDuration.last4Hours "Последни четири часа">
@@ -24,7 +24,7 @@ that require it.  -->
      480169 -->
 
 <!ENTITY detailsProgressiveDisclosure.label "Подробности">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.accesskey "П">
 
 <!ENTITY historySection.label "История">
 <!ENTITY dataSection.label "Данни">
@@ -33,25 +33,25 @@ that require it.  -->
      have the same accesskey. -->
 
 <!ENTITY itemHistoryAndDownloads.label "История на браузването и изтеглянията">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemHistoryAndDownloads.accesskey "б">
 <!ENTITY itemBrowsingHistory.label "История на браузването">
-<!ENTITY itemBrowsingHistory.accesskey "B">
+<!ENTITY itemBrowsingHistory.accesskey "И">
 <!ENTITY itemFormSearchHistory.label "История на формулярите и търсенията">
-<!ENTITY itemFormSearchHistory.accesskey "F">
-<!ENTITY itemPasswords.label "Пароли">
-<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemFormSearchHistory.accesskey "ф">
+<!ENTITY itemPasswords.label "Запомнени пароли">
+<!ENTITY itemPasswords.accesskey "п">
 <!ENTITY itemCookies.label "Бисквитки">
-<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCookies.accesskey "Б">
 <!ENTITY itemCache.label "Кеш">
-<!ENTITY itemCache.accesskey "A">
-<!ENTITY itemOfflineApps.label "Данни за сайтове">
-<!ENTITY itemOfflineApps.accesskey "O">
+<!ENTITY itemCache.accesskey "К">
+<!ENTITY itemOfflineApps.label "Данни за сайтове без мрежа">
+<!ENTITY itemOfflineApps.accesskey "м">
 <!ENTITY itemDownloadHistory.label "История на изтеглянията">
-<!ENTITY itemDownloadHistory.accesskey "D">
+<!ENTITY itemDownloadHistory.accesskey "т">
 <!ENTITY itemActiveLogins.label "Влизания в сайтове">
-<!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemActiveLogins.accesskey "В">
 <!ENTITY itemSitePreferences.label "Предпочитания за сайтове">
-<!ENTITY itemSitePreferences.accesskey "S">
+<!ENTITY itemSitePreferences.accesskey "с">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->

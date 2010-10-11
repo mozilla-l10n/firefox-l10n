@@ -44,17 +44,17 @@
 <!ENTITY devmgr.version.label "Версия">
 
 <!ENTITY devmgr.button.changeslotname.label "Промяна на име на слот">
-<!ENTITY devmgr.button.changeslotname.accesskey "C">
+<!ENTITY devmgr.button.changeslotname.accesskey "П">
 <!ENTITY devmgr.button.login.label "Влизане">
-<!ENTITY devmgr.button.login.accesskey "n">
+<!ENTITY devmgr.button.login.accesskey "В">
 <!ENTITY devmgr.button.logout.label "Излизане">
-<!ENTITY devmgr.button.logout.accesskey "O">
+<!ENTITY devmgr.button.logout.accesskey "И">
 <!ENTITY devmgr.button.changepw.label "Промяна на парола">
-<!ENTITY devmgr.button.changepw.accesskey "P">
+<!ENTITY devmgr.button.changepw.accesskey "П">
 <!ENTITY devmgr.button.load.label "Зареждане">
-<!ENTITY devmgr.button.load.accesskey "L">
+<!ENTITY devmgr.button.load.accesskey "З">
 <!ENTITY devmgr.button.unload.label "Освобождаване">
-<!ENTITY devmgr.button.unload.accesskey "U">
+<!ENTITY devmgr.button.unload.accesskey "О">
 <!ENTITY devmgr.button.fips.accesskey "F">
 
 <!ENTITY loaddevice.info "Въведете информация за модула, който добавяте.">
@@ -62,8 +62,8 @@
 <!ENTITY loaddevice.modname.accesskey "M">
 <!ENTITY loaddevice.modname.default "Нов модул на PKCS#11">
 <!ENTITY loaddevice.filename "Име на файл на модул:">
-<!ENTITY loaddevice.filename.accesskey "f">
+<!ENTITY loaddevice.filename.accesskey "ф">
 <!ENTITY loaddevice.browse "Разглеждане…">
-<!ENTITY loaddevice.browse.accesskey "B">
+<!ENTITY loaddevice.browse.accesskey "Р">
 
 <!ENTITY loaddevice.title "Зареждане на устройство на PKCS#11">

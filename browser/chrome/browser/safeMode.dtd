@@ -43,19 +43,19 @@
 <!ENTITY safeModeDescription2.label "Можете да запазите някои или всички от следните промени за постоянно:">
 
 <!ENTITY disableAddons.label "Изключване на всички добавки">
-<!ENTITY disableAddons.accesskey "D">
+<!ENTITY disableAddons.accesskey "д">
 
 <!ENTITY resetToolbars.label "Връщане към стандартните ленти с инструменти и контроли">
-<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY resetToolbars.accesskey "В">
 
 <!ENTITY deleteBookmarks.label "Изтриване на всички отметки с изключение на предварително запазените">
-<!ENTITY deleteBookmarks.accesskey "b">
+<!ENTITY deleteBookmarks.accesskey "т">
 
 <!ENTITY resetUserPrefs.label "Връщане към стандартните настройки на &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey "p">
+<!ENTITY resetUserPrefs.accesskey "н">
 
 <!ENTITY restoreSearch.label "Възстановяване на подразбиращите се търсачки">
-<!ENTITY restoreSearch.accesskey "s">
+<!ENTITY restoreSearch.accesskey "т">
 
 <!ENTITY changeAndRestartButton.label "Извършване на промените и рестартиране">
 <!ENTITY continueButton.label "Продължаване в надежден режим">

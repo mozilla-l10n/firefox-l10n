@@ -111,7 +111,7 @@
 <!ENTITY escrowWarn.benefit1 "Ползата е, че ако загубите достъпа до вашия личен шифроващ ключ, можете да поискате копие от този сертификатен удостоверител.">
 <!ENTITY escrowWarn.message2 "Все пак вашият личен шифроващ ключ ще бъде съхранен от сертификатора и може да бъде използван за четене на вашите шифровани писма или документи без ваше позволение.">
 <!ENTITY examineCert.label "Показване на сертификат">
-<!ENTITY examineCert.accesskey "V">
+<!ENTITY examineCert.accesskey "П">
 
 <!ENTITY serverCrlNextupdate.message "Моля, обърнете се към системния администратор за помощ">
 <!-- Strings for the CreateCertInfo dialog  -->

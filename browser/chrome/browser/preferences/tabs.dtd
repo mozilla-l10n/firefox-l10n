@@ -8,7 +8,7 @@
 <!ENTITY warnOpenManyTabs.accesskey "о">
 
 <!ENTITY showTabBar.label "Лентата с подпрозорци винаги да е показана">
-<!ENTITY showTabBar.accesskey "b">
+<!ENTITY showTabBar.accesskey "Л">
 
 <!ENTITY switchToNewTabs.label "Превключване към новоотворен подпрозорец">
 <!ENTITY switchToNewTabs.accesskey "н">

@@ -4,8 +4,8 @@
 <!ENTITY offline.description "Трябва да възстановите връзката, за да видите дали има 
 обновявания на добавките. Иначе няма да бъдат съвместими 
 с тази версия.">
-<!ENTITY offline.toggleOffline.label "Работа в мрежата.">
-<!ENTITY offline.toggleOffline.accesskey "G">
+<!ENTITY offline.toggleOffline.label "Работа в мрежа.">
+<!ENTITY offline.toggleOffline.accesskey "м">
 
 <!ENTITY mismatch.win.title "Несъвместими добавки">
 <!ENTITY mismatch.top.label "Следните добавки не са съвместими с тази версия на 
@@ -22,7 +22,7 @@
 <!ENTITY found.disabledXPinstall.label "Тези обновявания не могат да бъдат инсталирани, защото в момента 
 инсталирането на софтуер е изключено. По-долу можете да промените това.">
 <!ENTITY found.enableXPInstall.label "Разрешаване на сайтове да инсталират софтуер">
-<!ENTITY found.enableXPInstall.accesskey "A">
+<!ENTITY found.enableXPInstall.accesskey "Р">
 
 <!ENTITY installing.wizard.title "Инсталиране на съвместими добавки">
 <!ENTITY installing.top.label "Изтегляне и инсталиране обновяванията на добавките…">
