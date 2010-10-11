@@ -47,9 +47,9 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-<!ENTITY useCacheSizeBefore.label "استعمل حتى">
-<!ENTITY useCacheSizeBefore.accesskey "ح">
-<!ENTITY useCacheSizeAfter.label "م.بايت من المساحة للذّاكرة الخبيئة">
+<!ENTITY limitCacheSizeBefore.label "استعمل حتى">
+<!ENTITY limitCacheSizeBefore.accesskey "ح">
+<!ENTITY limitCacheSizeAfter.label "م.بايت من المساحة للذّاكرة الخبيئة">
 <!ENTITY clearCacheNow.label "امسح الآن">
 <!ENTITY clearCacheNow.accesskey "م">
 <!ENTITY overrideSmartCacheSize.label    "تجاهل الإدارة الآلية للذاكرة الخبيئة">

@@ -26,6 +26,7 @@
 
 <!ENTITY netOffline.title "وضع بدون اتصال">
 <!ENTITY netOffline.longDesc "<p>يعمل المتصفح بدون اتصال ولا يستطيع الاتصال بالعنصر المطلوب.</p><ul><li>هل الحاسوب متصل بشبكة تعمل؟</li><li>ضع المتصفح في وضع الاتصال وأعد المحاولة.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>يعمل المتصفح في نمط اللا اتصال ولا يستطيع الاتصال بالعنصر المطلوب.</p><ul><li>هل الحاسوب متصل بشبكة نشطة؟</li><li>ضع المتصفح في نمط الاتصال ثم حاول مجددًا.</li></ul>">
 
 <!ENTITY contentEncodingError.title "ترميز محتوى خاطئ">
 <!ENTITY contentEncodingError.longDesc "<p>الصفحة التي تحاول فتحها لا يمكن عرضها لأنها تستخدم صيغة ضغط غير سليمة أو غير مدعومة.</p><ul><li>الرجاء الاتصال أصحاب الموقع لإخبارهم بهذه المشكلة. </li></ul>">
@@ -68,6 +69,9 @@
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
+
+<!ENTITY cspFrameAncestorBlocked.title "محجوبة من قِبَل سياسة أمن المحتوى">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>منع المتصفح هذه الصفحة من التحميل بهذه الطريقة لأنها تملك سياسة أمن للمحتوى لا تسمح بذلك.</p>">
 
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
