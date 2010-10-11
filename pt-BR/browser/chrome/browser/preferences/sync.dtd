@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Conta do &syncBrand.fullName.label;">
-<!ENTITY currentUser.label            "Usuário atual:">
+<!ENTITY currentAccount.label         "Conta atual:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Update">
@@ -14,31 +14,30 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gerenciar conta">
 <!ENTITY manageAccount.accesskey      "G">
+<!ENTITY viewQuota.label              "Exibir cota">
 <!ENTITY changePassword.label         "Modificar senha">
-<!ENTITY changePassphrase.label       "Modificar frase secreta">
-<!ENTITY resetSync.label              "Reiniciar o Sync">
-<!ENTITY differentAccount.label       "Usar outra conta">
+<!ENTITY mySyncKey.label              "Modificar chave do Sync">
+<!ENTITY resetSync.label              "Reconfigurar Sync">
+<!ENTITY stopUsingAccount.label       "Sair desta conta">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browser Sync">
 <!ENTITY syncComputerName.label       "Nome do computador:">
 <!ENTITY syncComputerName.accesskey   "N">
-<!ENTITY syncModeSwitchDesc.label     "O &brandShortName; irá:">
-<!ENTITY syncModeSwitchDesc.accesskey "O">
-<!ENTITY syncEverything.label         "Sincronizar tudo">
-<!ENTITY customSync.label             "Usar minhas configurações">
-<!ENTITY syncEverythingDescription.label  "Serão sincronizados favoritos, histórico, senhas, preferências e abas.">
-<!ENTITY syncItem.bookmarks.label     "Sincronizar favoritos">
-<!ENTITY syncItem.bookmarks.accesskey "f">
-<!ENTITY syncItem.tabs.label          "Sincronizar abas">
-<!ENTITY syncItem.tabs.accesskey      "c">
-<!ENTITY syncItem.history.label       "Sincronizar histórico">
-<!ENTITY syncItem.history.accesskey   "h">
-<!ENTITY syncItem.passwords.label     "Sincronizar senhas">
-<!ENTITY syncItem.passwords.accesskey "S">
-<!ENTITY syncItem.prefs.label         "Sincronizar preferências">
-<!ENTITY syncItem.prefs.accesskey     "r">
+
+<!ENTITY syncMy.label               "Sincronizar meus:">
+<!ENTITY engine.bookmarks.label     "Favoritos">
+<!ENTITY engine.bookmarks.accesskey "F">
+<!ENTITY engine.tabs.label          "Abas">
+<!ENTITY engine.tabs.accesskey      "A">
+<!ENTITY engine.history.label       "Histórico">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Senhas">
+<!ENTITY engine.passwords.accesskey "S">
+<!ENTITY engine.prefs.label         "Preferências">
+<!ENTITY engine.prefs.accesskey     "P">
+
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Termos de Serviço">
+<!ENTITY prefs.tosLink.label        "Termos de serviço">
 <!ENTITY prefs.ppLink.label         "Política de privacidade">
