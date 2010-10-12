@@ -1,4 +1,4 @@
 google
-seznam
+seznam-cz
 heureka-cz
 wikipedia-cz
