@@ -5,6 +5,10 @@
 <!ENTITY aboutPage.rights.label "Conozca sus derechos">
 <!ENTITY aboutPage.relNotes.label "Notas de publicación">
 <!ENTITY aboutPage.credits.label "Créditos">
+<!ENTITY aboutPage.checkForUpdates.button "Comprobar actualizaciones">
+<!ENTITY aboutPage.checkForUpdates.checking "Buscando actualizaciones…">
+<!ENTITY aboutPage.checkForUpdates.none "No hay actualizaciones">
+<!ENTITY aboutPage.checkForUpdates.found "Actualización disponible">
 <!ENTITY aboutPage.copyrightInfo1 "©1998-2009 Colaboradores. Todos los derechos reservados. (">
 <!ENTITY aboutPage.licenseLink "Información sobre la licencia">
 <!ENTITY aboutPage.copyrightInfo2 ").">

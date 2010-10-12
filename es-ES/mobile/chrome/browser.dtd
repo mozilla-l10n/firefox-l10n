@@ -42,7 +42,7 @@
 <!ENTITY downloadShow2.label "Buscar">
 <!ENTITY downloadOpen2.label "Abrir">
 <!ENTITY downloadCancel.label "Cancelar">
-<!ENTITY downloadPause.label "Pausa">
+<!ENTITY downloadPause.label "Pausar">
 <!ENTITY downloadResume.label "Continuar">
 <!ENTITY downloadRetry.label "Reintentar">
 <!ENTITY downloadRemove.label "Eliminar">
@@ -74,6 +74,8 @@
 <!ENTITY contextShareImage.label "Compartir imagen">
 <!ENTITY contextSaveVideo.label "Guardar vídeo">
 <!ENTITY contextShareVideo.label "Compartir vídeo">
+<!ENTITY contextPlayMedia.label "Reproducir">
+<!ENTITY contextPauseMedia.label "Pausar">
 <!ENTITY contextEditBookmark.label "Editar">
 <!ENTITY contextRemoveBookmark.label "Eliminar">
 <!ENTITY pageactions.saveas.pdf "Guardar como PDF">
