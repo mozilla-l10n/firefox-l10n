@@ -20,15 +20,5 @@
   --> 
 
 <!ENTITY search.button.label "Cerca">
-<!ENTITY allengines.label "Tots els motors de cerca">
-<!ENTITY within.label "dins">
-<!ENTITY using.label "utilitzant">
-<!ENTITY choose.label "Trieu els motors de cerca i feu clic a Cerca">
-<!ENTITY results.label "Resultats de la cerca">
-<!ENTITY engine.column.label "Motors de cerca">
-<!ENTITY customize.menuitem.label "Edita les categories...">
-<!ENTITY next.button.label "Següent">
-<!ENTITY previous.button.label "Anterior">
-<!ENTITY next.button.tooltip "Mostra els resultats de la cerca següent">
-<!ENTITY previous.button.tooltip "Mostra els resultats de la cerca anterior">
+<!ENTITY search.placeholder       "Introduïu el text de la cerca">
 

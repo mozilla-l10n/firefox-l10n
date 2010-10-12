@@ -21,8 +21,11 @@
 <!ENTITY windowMenu.label "Finestra">
 <!ENTITY windowMenu.accesskey "N">
 
-<!ENTITY tasksMenu.label "Tasques">
-<!ENTITY tasksMenu.accesskey "t">
+<!ENTITY tasksMenu.label "Eines">
+<!ENTITY tasksMenu.accesskey "n">
+
+<!ENTITY datamanCmd.label "Gestor de dades">
+<!ENTITY datamanCmd.accesskey "G">
 
 <!ENTITY passwordManagerCmd.label "Gestor de contrasenyes">
 <!ENTITY passwordManagerCmd.accesskey "c">
