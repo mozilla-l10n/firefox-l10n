@@ -1,3 +1,4 @@
-google-SE
-dmoz
-jeeves
+creativecommons
+google
+wikipedia
+yahoo

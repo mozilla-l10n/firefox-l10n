@@ -104,8 +104,6 @@
 <!ENTITY importCmd.accesskey                            "I"> 
 <!ENTITY exportCmd.label                                "Exportera…">  
 <!ENTITY exportCmd.accesskey                            "x"> 
-<!ENTITY allowOnlineCheck.label                         "Sök online-status (AOL)">
-<!ENTITY allowOnlineCheck.accesskey                     "ö">
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label                         "Ny kontakt">
@@ -120,7 +118,8 @@
 <!ENTITY deleteItemButton.accesskey                     "b">
 <!ENTITY newimButton.label                              "Snabbmeddelande">  
 <!ENTITY newimButton.accesskey                          "S">  
-<!ENTITY searchNameAndEmail.emptytext                   "Sök namn och e-post">
+<!ENTITY searchNameAndEmail.placeholder                 "Sök namn och e-post">
+<!ENTITY searchBox.title                                "Sök">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Verktygsfält för adressboken">

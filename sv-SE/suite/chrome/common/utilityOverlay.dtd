@@ -36,6 +36,8 @@
 <!ENTITY pasteCmd.label						"Klistra in">  
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"l">
+<!ENTITY pasteGoCmd.label "Klistra in &amp; gå">
+<!ENTITY pasteGoCmd.accesskey "G">
 <!ENTITY deleteCmd.label					"Ta bort">  
 <!ENTITY deleteCmd.accesskey				"T">
 <!ENTITY selectAllCmd.label					"Markera allt">
