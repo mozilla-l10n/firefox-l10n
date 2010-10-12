@@ -37,3 +37,7 @@
 #filter substitution
 
 pref("general.useragent.locale", "@AB_CD@");
+
+#workaround for bug 443588
+pref("network.standard-url.encode-query-utf8", true);
+
