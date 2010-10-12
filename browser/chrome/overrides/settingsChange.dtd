@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "يمكن تغيير الإعدادات من لسان التطبيقات في تفضيلات &brandShortName;'s.">
-<!ENTITY settingsChangeOptions.label "يمكن تغيير الإعدادات من لسان التطبيقات في خيارات &brandShortName;'s.">
+<!ENTITY settingsChangePreferences.label "يمكن تغيير الإعدادات من لسان التطبيقات في تفضيلات &brandShortName;.">
+<!ENTITY settingsChangeOptions.label "يمكن تغيير الإعدادات من لسان التطبيقات في خيارات &brandShortName;.">
