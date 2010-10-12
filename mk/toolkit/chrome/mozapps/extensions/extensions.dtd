@@ -39,14 +39,14 @@
 <!ENTITY updates.checkForUpdates.accesskey "П">
 <!ENTITY updates.viewUpdates.label "Прегледај неодамнешни надградби">
 <!ENTITY updates.viewUpdates.accesskey "V">
-<!ENTITY updates.updateAddonsAutomatically.label "Автоматски надоградувај ги додатоците">
+<!ENTITY updates.updateAddonsAutomatically.label "Автоматски надградувај ги додатоците">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "А">
-<!ENTITY updates.resetUpdatesToAutomatic.label "Ресетирај ги сите додатоци да се надоградуваат автоматски">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey "Р">
-<!ENTITY updates.resetUpdatesToManual.label "Ресетирај ги сите додатоци да се надоградуваат рачно">
-<!ENTITY updates.resetUpdatesToManual.accesskey "Р">
-<!ENTITY updates.updating.label "Надоградување на додатоци">
-<!ENTITY updates.installed.label "Вашиот додаток е надограден">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Постави сите додатоци да се надградуваат автоматски">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "П">
+<!ENTITY updates.resetUpdatesToManual.label "Постави сите додатоци да се надградуваат рачно">
+<!ENTITY updates.resetUpdatesToManual.accesskey "П">
+<!ENTITY updates.updating.label "Надградување на додатоци">
+<!ENTITY updates.installed.label "Вашиот додаток е надграден">
 <!ENTITY updates.downloaded.label "Вашите надградби за додатоци се преземени">
 <!ENTITY updates.restart.label "Рестартирајте за да заврши инсталацијата.">
 <!ENTITY updates.noneFound.label "Не се пронајдени надградби">
