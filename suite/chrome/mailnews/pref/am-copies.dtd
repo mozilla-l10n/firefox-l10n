@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "p">
 <!ENTITY fccReplyFollowsParent.label "Lägg svarsmeddelande i samma mapp som besvarat meddelande">
 <!ENTITY fccReplyFollowsParent.accesskey "s">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc till dessa adresser:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.placeholder "Separera adresser med komman">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc till dessa adresser:">
 <!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.placeholder "Separera adresser med komman">
 <!ENTITY saveMessageDlg.label "Visa varskoendetext när meddelanden sparas">
 <!ENTITY saveMessageDlg.accesskey "V">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

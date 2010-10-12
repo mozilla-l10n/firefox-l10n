@@ -1,4 +1,3 @@
-
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Sök efter meddelanden i:">
 <!ENTITY searchHeading.accesskey     "e">
@@ -8,8 +7,6 @@
 <!ENTITY searchLocalSystem.accesskey "l">
 <!ENTITY resetButton.label           "Rensa">
 <!ENTITY resetButton.accesskey       "R">
-<!ENTITY helpButton.label            "Hjälp">
-<!ENTITY helpButton.accesskey        "H">
 <!ENTITY openButton.label            "Öppna">
 <!ENTITY openButton.accesskey        "Ö">
 <!ENTITY deleteButton.label          "Ta bort">

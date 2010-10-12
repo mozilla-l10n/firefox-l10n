@@ -41,3 +41,7 @@
 <!ENTITY unreadColumn.label "Olästa"> 
 <!ENTITY totalColumn.label "Totalt">
 <!ENTITY folderSizeColumn.label "Storlek"> 
+<!ENTITY folderLocationToolbarItem.title "Mappens plats">
+<!ENTITY mailViewsToolbarItem.title "E-postvy">
+<!ENTITY searchToolbarItem.title "Sök">
+<!ENTITY searchSubjectOrAddress.placeholder "Sök ämne eller adress">

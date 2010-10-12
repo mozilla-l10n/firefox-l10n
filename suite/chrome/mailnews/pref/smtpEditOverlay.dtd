@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "B">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Använd namn och lösenord">
-<!ENTITY alwaysUseUsername.accesskey "ä">
 <!ENTITY userName.label "Användarnamn:">
 <!ENTITY userName.accesskey "v">
-<!ENTITY useSecAuth.label "Använd säker autentisering">
-<!ENTITY useSecAuth.accesskey "a">
 <!ENTITY connectionSecurity.label "Anslutningssäkerhet:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Ingen">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server för utgående e-post (SMTP)">
 <!ENTITY serverPortDefault.label "Förvald:">
+<!ENTITY authMethod.label "Autentiseringsmetod:">
+<!ENTITY authMethod.accesskey "i">

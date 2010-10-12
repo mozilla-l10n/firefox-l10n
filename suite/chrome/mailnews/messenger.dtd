@@ -167,9 +167,6 @@
 <!ENTITY showSearchToolbarCmd.label		"Sökfält">
 <!ENTITY showSearchToolbarCmd.accesskey	"S">
 
-<!ENTITY showLocationToolbarCmd.label		"Mappmeny">
-<!ENTITY showLocationToolbarCmd.accesskey	"M">
-
 <!ENTITY messagePaneLayoutStyle.label "Layout">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
 <!ENTITY messagePaneClassic.label "Klassisk vy">
@@ -492,11 +489,13 @@
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY junkButton.label "Skräppost">
 <!ENTITY notJunkButton.label "Ej skräppost">
+<!ENTITY searchButton.title "Avancerad sökning">
+
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Menyrad">
 <!ENTITY mailToolbar.tooltip "Verktyg för e-post">
-<!ENTITY locationToolbar.tooltip "Navigationsfält">
+<!ENTITY searchToolbar.tooltip "Sökfält">
 <!ENTITY advancedButton.tooltip "Avancerad meddelandesökning">
 <!ENTITY getMsgButton.tooltip "Hämta nya meddelanden">
 <!ENTITY newMsgButton.tooltip "Skapa ett nytt meddelande">
@@ -593,9 +592,10 @@
 <!-- SearchBar -->
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Ämne eller adress innehåller:">
 <!ENTITY advancedButton.label "Avancerat…">
 <!ENTITY advancedButton.accesskey "c">
+<!ENTITY searchButton.label "Sök meddelanden…">
+<!ENTITY searchButton.accesskey "S">
 
 <!ENTITY all.label "Alla">
 <!ENTITY all.accesskey "A">
@@ -613,3 +613,7 @@
 <!ENTITY phishingBarMessage.label "&brandShortName; tror att detta meddelande kan vara nätfiske (försök till e-postbedrägeri).">
 <!ENTITY removePhishingBarButton.label "Ej nätfiske">
 
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Avsändaren av detta meddelande har bett att få ett kvitto när du läser det. Vill du meddela avsändaren?">
+<!ENTITY mdnBarIgnoreButton.label "Avvisa begäran">
+<!ENTITY mdnBarSendButton.label "Skicka kvitto">

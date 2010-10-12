@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Sök direktansluten (ger uppdaterade resultat för IMAP- och gruppmappar men det tar längre tid att öppna mappen)">
 <!ENTITY searchOnline.accesskey "S">
+<!ENTITY newFolderButton.label         "Skapa">
+<!ENTITY newFolderButton.accesskey     "p">
+<!ENTITY editFolderButton.label        "Uppdatera">
+<!ENTITY editFolderButton.accesskey    "U">
