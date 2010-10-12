@@ -7,13 +7,6 @@
 <!ENTITY useSiteIcons.accesskey                 "s">
 <!ENTITY useFavIcons.label                      "Cerca de forma agressiva si hi ha icones del lloc web si la pàgina no en defineix cap">
 <!ENTITY useFavIcons.accesskey                  "a">
-<!ENTITY tbIconsDescription.label               "Mostra les icones dels llocs web al menú de les adreces d'interès i a la barra d'eines:">
-<!ENTITY tbIconsNever.label                     "Mai mostris icones a les adreces d'interès">
-<!ENTITY tbIconsNever.accesskey                 "M">
-<!ENTITY tbIconsCache.label                     "Només en els llocs web que s'hagin carregat recentment">
-<!ENTITY tbIconsCache.accesskey                 "o">
-<!ENTITY tbIconsAlways.label                    "Sempre carrega les icones dels llocs web">
-<!ENTITY tbIconsAlways.accesskey                "S">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensiona les imatges grans per tal que s'encabeixin a la finestra del navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 <!ENTITY useSmoothScroll.label                  "Utilitza el desplaçament suau">

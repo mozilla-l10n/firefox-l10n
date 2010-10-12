@@ -19,8 +19,6 @@
 <!ENTITY alwaysAsk.accesskey            "a">
 
 <!ENTITY downloadRetention.label        "Mantén les baixades">
-<!ENTITY removeDownloads.label          "Suprimeix les baixades">
-<!ENTITY removeDownloads.accesskey      "S">
 <!ENTITY whenCompleted.label            "Quan s'hagin baixat">
 <!ENTITY whenQuittingApp.label          "Quan surti del &brandShortName;">
 <!ENTITY neverRemove.label              "Mai">

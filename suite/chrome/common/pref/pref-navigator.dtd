@@ -26,14 +26,6 @@
 <!ENTITY useDefault.label "Valor per defecte">
 <!ENTITY useDefault.accesskey "V">
 
-<!ENTITY toolbarIntro.label "Seleccioneu els botons que voleu veure a les barres d'eines">
-
-<!ENTITY  navToolbarIntro.label     "Barra de navegació">
-<!ENTITY goButton.label "Vés">
-<!ENTITY  goButton.accesskey        "s">
-<!ENTITY searchButton.label "Cerca">
-<!ENTITY  searchButton.accesskey    "r">
-
 <!ENTITY defaultBrowserGroup.label      "Navegador per defecte">
 <!ENTITY defaultBrowserButton.label     "Defineix com a navegador per defecte">
 <!ENTITY defaultBrowserButton.accesskey "D">

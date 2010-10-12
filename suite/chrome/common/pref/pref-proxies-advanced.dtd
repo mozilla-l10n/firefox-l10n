@@ -4,8 +4,6 @@
 <!ENTITY protocols.description "Normalment el mateix servidor intermediari pot gestionar tots els protocols que es llisten aquí.">
 <!ENTITY ftp.label "Servidor intermediari d'FTP:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Servidor intermediari de Gopher:">
-<!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "Servidor intermediari d'HTTP:">
 <!ENTITY http.accesskey "T">
 <!ENTITY reuseProxy.label "Utilitza els paràmetres del servidor intermediari d'HTTP per a tots els protocols">
@@ -26,6 +24,5 @@
 <!ENTITY HTTPPort.accesskey "P">
 <!ENTITY SSLPort.accesskey "o">
 <!ENTITY FTPPort.accesskey "r">
-<!ENTITY  gopherPort.accesskey        "">
 <!-- No accesskey for gopher (':' doesn't go well) -->
 <!ENTITY SOCKSport.accesskey "t">
