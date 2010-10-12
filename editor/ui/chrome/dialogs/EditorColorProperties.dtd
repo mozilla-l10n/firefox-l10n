@@ -52,7 +52,7 @@
 <!ENTITY activeLinkText.label "Actieve koppeling">
 <!ENTITY activeLinkText.accessKey "c">
 <!ENTITY visitedLinkText.label "Bezochte koppeling">
-<!ENTITY visitedLinkText.accessKey "B">
+<!ENTITY visitedLinkText.accessKey "z">
 <!ENTITY background.label "Achtergrond:">
 <!ENTITY background.accessKey "h">
 <!ENTITY colon.character ":">

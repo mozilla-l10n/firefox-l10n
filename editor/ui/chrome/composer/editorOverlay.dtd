@@ -46,7 +46,7 @@
 <!ENTITY fileMenu.label "Bestand">
 <!ENTITY fileMenu.accesskey "B">
 <!ENTITY newBlankPageCmd.label "Composer-pagina">
-<!ENTITY newBlankPageCmd.accesskey "C">
+<!ENTITY newBlankPageCmd.accesskey "p">
 <!ENTITY newMenu.label "Nieuw">
 <!ENTITY openFileCmd.label "Bestand openen…">
 <!ENTITY openFileCmd.accesskey "o">
