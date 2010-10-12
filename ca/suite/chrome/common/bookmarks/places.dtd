@@ -1,20 +1,11 @@
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Biblioteca">
-<!ENTITY places.library.width  "700">
-<!ENTITY places.library.height "500">
-<!ENTITY organize.label          "Organitza">
-<!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organitza les vostres adreces d'interès">
+<!ENTITY bookmarksManager.title         "Gestor d'adreces d'interès">
+<!ENTITY bookmarksManager.width         "700">
+<!ENTITY bookmarksManager.height        "500">
 
 <!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Tanca">
 <!ENTITY file.close.accesskey "c">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Edita">
-<!ENTITY edit.accesskey "E">
-<!ENTITY views.label "Visualitzacions">
-<!ENTITY views.accesskey "V">
-<!ENTITY views.tooltip                  "Canvia la vostra visualització">
 <!ENTITY view.columns.label "Mostra les columnes">
 <!ENTITY view.columns.accesskey "s">
 <!ENTITY view.sort.label                "Ordena">
@@ -60,7 +51,6 @@
 <!ENTITY cmd.properties.accesskey "i">
 <!ENTITY cmd.sortby_name.label "Ordena per nom">
 <!ENTITY cmd.sortby_name.accesskey "O">
-<!ENTITY cmd.context_sortby_name.accesskey "r">
 <!ENTITY cmd.new_bookmark.label "Afegeix una adreça d'interès…">
 <!ENTITY cmd.new_bookmark.accesskey "d">
 <!ENTITY cmd.new_folder.label "Crea una carpeta…">
@@ -74,7 +64,8 @@
 <!ENTITY cmd.reloadMicrosummary.accesskey "R">
 <!ENTITY cmd.moveBookmarks.label "Mou…">
 <!ENTITY cmd.moveBookmarks.accesskey "M">
-<!ENTITY col.name.label "Nom">
+
+<!ENTITY col.title.label "Nom">
 <!ENTITY col.tags.label "Etiquetes">
 <!ENTITY col.url.label "Ubicació">
 <!ENTITY col.lastvisit.label "Data de visita">
@@ -89,28 +80,21 @@
 <!ENTITY search.scopeFolder.accesskey              "p">
 <!ENTITY search.scopeBookmarks.label               "Adreces d'interès">
 <!ENTITY search.scopeBookmarks.accesskey           "A">
-<!ENTITY search.scopeDownloads.label               "Baixades">
-<!ENTITY search.scopeDownloads.accesskey           "d">
-<!ENTITY search.scopeHistory.label                 "Historial">
-<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY saveSearch.label "Desa">
 <!ENTITY saveSearch.accesskey "s">
 
 <!ENTITY cmd.find.key "f">
 
-<!ENTITY maintenance.label   "Importació i còpia de seguretat">
-<!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importa i fa una còpia de seguretat de les vostres adreces d'interès">
-
-<!ENTITY backCmd.label   "Enrere">
 <!ENTITY backButton.tooltip  "Vés enrere">
 
-<!ENTITY forwardCmd.label   "Endavant">
 <!ENTITY forwardButton.tooltip  "Vés endavant">
 
 <!ENTITY detailsPane.more.label         "Més">
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label         "Menys">
 <!ENTITY detailsPane.less.accesskey "y">
-<!ENTITY detailsPane.noPreviewAvailable.label         "Previsualització">
 <!ENTITY detailsPane.selectAnItemText.description         "Seleccioneu un element per a visualitzar-ne i editar-ne les propietats">
+
+<!ENTITY editBookmark.done.label "Fet">
+<!ENTITY editBookmark.cancel.label "Cancel·la">
+<!ENTITY editBookmark.removeBookmark.accessKey "R">
