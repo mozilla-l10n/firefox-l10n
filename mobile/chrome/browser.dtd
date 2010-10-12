@@ -94,6 +94,8 @@
 <!ENTITY contextShareImage.label      "Compartir imagen">
 <!ENTITY contextSaveVideo.label       "Guardar video">
 <!ENTITY contextShareVideo.label      "Compartir video">
+<!ENTITY contextPlayMedia.label       "Reproducir">
+<!ENTITY contextPauseMedia.label      "Pausa">
 <!ENTITY contextEditBookmark.label    "Editar">
 <!ENTITY contextRemoveBookmark.label  "Eliminar">
 
