@@ -323,7 +323,7 @@
 <!ENTITY thisFrameMenu.accesskey "m">
 <!ENTITY mediaPlay.label "Reproducir">
 <!ENTITY mediaPlay.accesskey "P">
-<!ENTITY mediaPause.label "Pausa">
+<!ENTITY mediaPause.label "Pausar">
 <!ENTITY mediaPause.accesskey "P">
 <!ENTITY mediaMute.label "Silenciar">
 <!ENTITY mediaMute.accesskey "S">
