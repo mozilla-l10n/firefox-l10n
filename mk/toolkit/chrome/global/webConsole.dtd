@@ -1,15 +1,15 @@
-<!ENTITY networkPanel.requestURL "Request URL">
+<!ENTITY networkPanel.requestURL "URL на барањето">
 <!ENTITY networkPanel.requestMethod "Метод на барањето">
 <!ENTITY networkPanel.statusCode "Код на статусот">
 
 <!ENTITY networkPanel.requestHeaders "Заглавја на барањето">
-<!ENTITY networkPanel.requestCookie "Sent Cookie">
+<!ENTITY networkPanel.requestCookie "Испратено колаче">
 <!ENTITY networkPanel.requestBody "Тело на барањето">
-<!ENTITY networkPanel.requestFormData "Sent Form Data">
+<!ENTITY networkPanel.requestFormData "Испратени податоци од формулар">
 
 <!ENTITY networkPanel.responseHeaders "Заглавја на одговорот">
 <!ENTITY networkPanel.responseBody "Тело на одговорот">
-<!ENTITY networkPanel.responseBodyCached "Cached Data">
-<!ENTITY networkPanel.responseNoBody "No Response Body">
-<!ENTITY networkPanel.responseImage "Received Image">
-<!ENTITY networkPanel.responseImageCached "Cached Image">
+<!ENTITY networkPanel.responseBodyCached "Складирани податоци">
+<!ENTITY networkPanel.responseNoBody "Одговорот нема содржина">
+<!ENTITY networkPanel.responseImage "Примена слика">
+<!ENTITY networkPanel.responseImageCached "Складирана слика">

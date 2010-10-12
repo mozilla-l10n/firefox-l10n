@@ -21,14 +21,14 @@
 
 <!ENTITY optionsGroup.label "Опции">
 
-<!ENTITY printBG.label "Print Background (colors &amp; images)">
-<!ENTITY printBG.accesskey "B">
+<!ENTITY printBG.label "Печати ја позадината (бои и слики)">
+<!ENTITY printBG.accesskey "П">
 
 <!ENTITY advanced.tab "Маргини и заглавје/подножје">
 
 <!ENTITY marginGroup.label "Маргини (#1)">
 <!ENTITY marginUnits.inches "инчи">
-<!ENTITY marginUnits.metric "millimeters">
+<!ENTITY marginUnits.metric "милиметри">
 <!ENTITY marginTop.label "Врв:">
 <!ENTITY marginTop.accesskey "В">
 <!ENTITY marginBottom.label "Дно:">
@@ -44,10 +44,10 @@
 <!ENTITY hfCenter.label "Централно">
 <!ENTITY hfRight.label "Десно:">
 <!ENTITY headerLeft.tip "Лево заглавје">
-<!ENTITY headerCenter.tip "Center header">
+<!ENTITY headerCenter.tip "Централно заглавје">
 <!ENTITY headerRight.tip "Десно заглавје">
 <!ENTITY footerLeft.tip "Лево подножје">
-<!ENTITY footerCenter.tip "Center footer">
+<!ENTITY footerCenter.tip "Централно подножје">
 <!ENTITY footerRight.tip "Десно подножје">
 
 <!ENTITY hfTitle "Наслов">

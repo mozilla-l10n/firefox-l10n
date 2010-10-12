@@ -15,9 +15,9 @@
 <!ENTITY aboutSupport.appBasicsName "Име">
 <!ENTITY aboutSupport.appBasicsVersion "Верзија">
 <!ENTITY aboutSupport.appBasicsProfileDir "Директориум на профилот">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурација на build-от">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Овозможени приклучоци">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурација на изданието">
+<!ENTITY aboutSupport.appBasicsUserAgent "Кориснички агент">
 
 <!ENTITY aboutSupport.show.label "Отвори ја папката од профилот">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
