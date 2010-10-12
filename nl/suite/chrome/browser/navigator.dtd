@@ -122,7 +122,7 @@
 <!ENTITY manBookmarksCmd.accesskey "b">
 <!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Abonneren op deze pagina">
-<!ENTITY feedsMenu.accesskey "A">
+<!ENTITY feedsMenu.accesskey "o">
 <!ENTITY emptyItem.label "(Leeg)">
 
 <!ENTITY menuBar.tooltip                  "Menubalk">

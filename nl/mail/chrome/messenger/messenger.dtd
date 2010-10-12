@@ -42,7 +42,7 @@
 <!ENTITY deleteFolder.label "Map verwijderen">
 <!ENTITY deleteFolder.accesskey "r">
 <!ENTITY renameFolder.label "Mapnaam wijzigen…">
-<!ENTITY renameFolder.accesskey "M">
+<!ENTITY renameFolder.accesskey "w">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Mappen comprimeren">
 <!ENTITY compactFolders.accesskey "c">

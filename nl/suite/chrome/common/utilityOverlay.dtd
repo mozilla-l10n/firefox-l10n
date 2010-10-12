@@ -8,8 +8,8 @@
 <!ENTITY fileMenu.accesskey                     "B">
 <!ENTITY newMenu.label                          "Nieuw">
 <!ENTITY newMenu.accesskey                      "N">
-<!ENTITY newBlankPageCmd.label                  "Webpagina in Composer">
-<!ENTITY newBlankPageCmd.accesskey              "C">
+<!ENTITY newBlankPageCmd.label                  "Composer-pagina">
+<!ENTITY newBlankPageCmd.accesskey              "p">
 <!ENTITY newBlankPageCmd.key                    "n">
 <!ENTITY newPageFromTemplateCmd.label           "Webpagina op basis van sjabloon">
 <!ENTITY newPageFromTemplateCmd.accesskey       "s">
@@ -17,7 +17,7 @@
 <!ENTITY newPageFromDraftCmd.accesskey          "k">
 <!ENTITY newNavigatorCmd.label                  "Browservenster">
 <!ENTITY newNavigatorCmd.key                    "N">
-<!ENTITY newNavigatorCmd.accesskey              "B">
+<!ENTITY newNavigatorCmd.accesskey              "v">
 
 <!ENTITY editMenu.label                         "Bewerken">
 <!ENTITY editMenu.accesskey                     "w">

@@ -48,7 +48,7 @@
 <!ENTITY col.url.label                  "Locatie">
 <!ENTITY col.url.accesskey              "L">
 <!ENTITY col.lastvisit.label            "Laatst bezocht">
-<!ENTITY col.lastvisit.accesskey        "v">
+<!ENTITY col.lastvisit.accesskey        "e">
 <!ENTITY col.visitcount.label           "Bezoekteller">
 <!ENTITY col.visitcount.accesskey       "B">
 

@@ -88,7 +88,7 @@
 <!ENTITY menuitem.newbookmarkfolder.label           "Instellen als nieuwe bladwijzermap">
 <!ENTITY menuitem.newbookmarkfolder.accesskey       "b">
 <!ENTITY menuitem.newinternetsearchfolder.label     "Instellen als nieuwe internetzoekmap">
-<!ENTITY menuitem.newinternetsearchfolder.accesskey "i">
+<!ENTITY menuitem.newinternetsearchfolder.accesskey "z">
 <!ENTITY menuitem.personaltoolbarfolder.label       "Instellen als persoonlijkewerkbalkmap">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey   "p">
 
