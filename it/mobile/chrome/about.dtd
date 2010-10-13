@@ -5,6 +5,10 @@
 <!ENTITY aboutPage.rights.label "I tuoi diritti">
 <!ENTITY aboutPage.relNotes.label "Note di versione">
 <!ENTITY aboutPage.credits.label "Riconoscimenti">
+<!ENTITY aboutPage.checkForUpdates.button "Cerca aggiornamenti">
+<!ENTITY aboutPage.checkForUpdates.checking "Ricerca aggiornamenti…">
+<!ENTITY aboutPage.checkForUpdates.none "Nessun aggiornamento disponibile">
+<!ENTITY aboutPage.checkForUpdates.found "Aggiornamento disponibile">
 <!ENTITY aboutPage.copyrightInfo1 "©1998-2010 dei collaboratori. Tutti i diritti riservati. (">
 <!ENTITY aboutPage.licenseLink "Informazioni sulla licenza">
 <!ENTITY aboutPage.copyrightInfo2 ").">
