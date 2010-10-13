@@ -46,6 +46,7 @@
 <!ENTITY downloadResume.label "Возобновить">
 <!ENTITY downloadRetry.label "Повторить">
 <!ENTITY downloadRemove.label "Удалить">
+<!ENTITY downloadDelete.label "Удалить">
 <!ENTITY downloadFailed.label "Неудача">
 <!ENTITY noResults.label "Нет результатов">
 <!ENTITY allBookmarks.label "Показать все закладки">
@@ -73,6 +74,8 @@
 <!ENTITY contextShareImage.label "Поделиться изображением">
 <!ENTITY contextSaveVideo.label "Сохранить видео">
 <!ENTITY contextShareVideo.label "Поделиться видео">
+<!ENTITY contextPlayMedia.label "Воспроизвести">
+<!ENTITY contextPauseMedia.label "Приостановить">
 <!ENTITY contextEditBookmark.label "Изменить">
 <!ENTITY contextRemoveBookmark.label "Удалить">
 <!ENTITY pageactions.saveas.pdf "Сохранить как PDF">
