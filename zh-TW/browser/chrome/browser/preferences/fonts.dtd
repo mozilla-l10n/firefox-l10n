@@ -43,10 +43,10 @@
 <!ENTITY  font.langGroup.canadian                 "加拿大統一音節字">
 <!ENTITY  font.langGroup.ethiopic                 "衣索比亞語">
 <!ENTITY  font.langGroup.georgian                 "喬治亞語">
-<!ENTITY  font.langGroup.gujarati                 "古吉拉特語">
+<!ENTITY  font.langGroup.gujarati                 "古吉拉特語 (西印度)">
 <!ENTITY  font.langGroup.gurmukhi                 "古魯穆奇字">
 <!ENTITY  font.langGroup.khmer                    "高棉語">
-<!ENTITY  font.langGroup.malayalam                "馬拉亞拉姆語">
+<!ENTITY  font.langGroup.malayalam                "馬拉亞拉姆語 (西南印度)">
 <!ENTITY  font.langGroup.oriya                    "奧里亞語">
 <!ENTITY  font.langGroup.telugu                   "德拉威語">
 <!ENTITY  font.langGroup.kannada                  "康納達語">

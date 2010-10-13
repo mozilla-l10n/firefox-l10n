@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "設定">
 <!ENTITY testpilot.settings.dataSubmission.label    "送交資料">
 <!ENTITY testpilot.settings.notifications.label     "通知">
