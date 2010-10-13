@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Response Headers">
 <!ENTITY networkPanel.responseBody                "Response Body">
 <!ENTITY networkPanel.responseBodyCached          "Datos en caché">
+<!ENTITY networkPanel.responseBodyUnknownType     "Tipo de contenido desconocido">
 <!ENTITY networkPanel.responseNoBody              "No Response Body">
 <!ENTITY networkPanel.responseImage               "Imagen recibida">
 <!ENTITY networkPanel.responseImageCached         "Imagen en caché">
