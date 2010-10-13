@@ -72,7 +72,7 @@
 <!ENTITY syncComputerName.label       "Computer Name:">
 <!ENTITY syncComputerName.accesskey   "C">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Synchronise My">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Tabs">
