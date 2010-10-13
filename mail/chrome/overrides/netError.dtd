@@ -55,7 +55,7 @@
 <!ENTITY netOffline.title "Modo sin conexión a la red">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Desmarque &quot;Trabajar sin conexión&quot; en el menú Archivo e intente nuevamente.</li>
+  <li>Ponga &brandShortName; en modo con conexión e intente nuevamente.</li>
 </ul>
 ">
 

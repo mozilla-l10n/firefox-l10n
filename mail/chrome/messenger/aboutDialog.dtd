@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title "Acerca de &brandShortName;">
+<!ENTITY aboutDialog.title "Acerca de &brandFullName;">
 <!ENTITY aboutButton.label      "&lt; Atrás">
 <!ENTITY aboutButton.accesskey  "t">
 <!ENTITY aboutVersion "versión">

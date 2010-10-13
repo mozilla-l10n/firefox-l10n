@@ -39,7 +39,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; usa servicios de información de sitios web (&quot;Services&quot;), como por ejemplo el servicio SafeBrowsing, que está disponible para su uso junto a la versión binaria de &brandShortName; como se describe debajo. Si no quiere usar los servicios o los términos que están debajo son inaceptables, puede desactivar el servicio SafeBrowsing. Debe abrir las preferencias de la aplicación, elija la sección ">
 <!ENTITY rights.webservices-b "Seguridad">
-<!ENTITY rights.webservices-c ", y deseleccionar las opciones para &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.webservices-c ", seguido de ">
 <!ENTITY rights.webservices-d "Instalación de software">
 <!ENTITY rights.webservices-e " y desmarcar las opciones para  &quot;Buscar automáticamente actualizaciones para&quot;.">
 
