@@ -5,6 +5,11 @@
 <!ENTITY aboutPage.rights.label                 "Conheça os seus direitos">
 <!ENTITY aboutPage.relNotes.label               "Notas de lançamento">
 <!ENTITY aboutPage.credits.label                "Créditos">
+<!ENTITY aboutPage.checkForUpdates.button       "Procurar actualizações">
+<!ENTITY aboutPage.checkForUpdates.checking     "A procurar actualizações…">
+<!ENTITY aboutPage.checkForUpdates.none         "Nenhuma actualização disponível">
+<!ENTITY aboutPage.checkForUpdates.found        "Actualização disponível">
+
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
