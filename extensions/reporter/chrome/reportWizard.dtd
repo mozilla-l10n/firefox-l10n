@@ -1,19 +1,20 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title                         "തകരാറുള്ള വെബ് സൈറ്റ് റിപ്പോറ്‍ട്ട് ചെയ്യുക">
+<!ENTITY reportWizard.title                         "ഫയര്‍ഫോക്സില്‍ ശരിയാകാത്ത വെബ് സൈറ്റുകളെപ്പറ്റി അറിയിക്കുക">
 
 <!ENTITY privacyNotice.label                        "സ്വകാര്യ പോളിസി">
-<!ENTITY reportWizardPrivacy.description            "&brandShortName;-ല്‍ ശരിയായി പ്റവറ്‍ത്തിക്കാത്ത വെബ് സൈറ്റുകളെപ്പറ്റി ഇവാഞ്ചലിസം സംഘത്തെ അറിയിക്കുന്നതിനായോ &brandShortName;  അടച്ചു പൂട്ടുന്നതിനായോ ഈ സംവിധാനം നിങ്ങളെ സഹായിക്കുന്നു.  &brandShortName; ഉപയോഗിക്കുന്നവരുടെ അനുഭവങ്ങളും പ്റശ്നങ്ങളും ഞങ്ങളെ അറിയിക്കുന്നതിനുള്ള ഏറ്റവും ഉത്തമ മാറ്‍ഗ്ഗമാകുന്നു ഇത്.  നിങ്ങള്‍ തരുന്ന അഭിപ്റായങ്ങളും നിറ്‍ദ്ദേശങ്ങളും ഞങ്ങള്‍ എങ്ങനെ പ്റയോജനപ്പെടുത്തുന്നു എന്നറിയുന്നതിനായി ഇത് വായിക്കുക.">
+<!ENTITY reportWizardPrivacy.description            "&brandShortName;-ല്‍ ശരിയായി പ്രവര്‍ത്തിക്കാത്ത വെബ് സൈറ്റുകളെപ്പറ്റി ഇവാഞ്ചലിസം സംഘത്തെ അറിയിക്കുന്നതിനായോ &brandShortName;  അടച്ചു പൂട്ടുന്നതിനായോ ഈ സംവിധാനം നിങ്ങളെ സഹായിക്കുന്നു.  &brandShortName; ഉപയോഗിക്കുന്നവരുടെ അനുഭവങ്ങളും പ്രശ്നങ്ങളും ഞങ്ങളെ അറിയിക്കുന്നതിനുള്ള ഏറ്റവും ഉത്തമ മാര്‍ഗ്ഗമാകുന്നു ഇത്.  നിങ്ങള്‍ തരുന്ന അഭിപ്രായങ്ങളും നിര്‍ദ്ദേശങ്ങളും ഞങ്ങള്‍ എങ്ങനെ പ്റയോജനപ്പെടുത്തുന്നു എന്നറിയുന്നതിനായി ഇത് വായിക്കുക.">
 <!ENTITY reportWizardMustAgree.description          "മുമ്പോട്ട് തുടരുന്നതിന് മുമ്പ് മുകളില്‍ പറഞ്ഞിരിക്കുന്ന സ്വകാര്യ പോളിസി സമ്മതിക്കേണ്ടതുണ്ട്.">
 
 <!ENTITY dontShowPrivacyStatement.label             "മുകളില്‍ പറഞ്ഞിരിക്കുന്ന സ്വകാര്യ പോളിസിയോട് ഞാന്‍ യോജിക്കുന്നു.">
 <!ENTITY dontShowPrivacyStatement.accesskey         "I">
 
-<!ENTITY reportForm.label                           "റിപ്പോറ്‍ട്ട് പൂരിപ്പിക്കുക">
+<!ENTITY reportForm.label                           "റിപ്പോര്‍ട്ട് പൂരിപ്പിക്കുക">
 
-<!ENTITY reportForm.description                     "നിങ്ങള്‍ നേരിട്ട പ്റശ്നത്തെപ്പറ്റി കുറച്ച് വിവരിക്കുക:">
+<!ENTITY reportForm.description                     "നിങ്ങള്‍ നേരിട്ട പ്രശ്നത്തെപ്പറ്റി കുറച്ച് വിവരിക്കുക:">
 <!ENTITY reportForm.url.title                       "വെബ് സൈറ്റിനുള്ള URL:">
+<!ENTITY reportForm.url.accesskey                   "U">
 
-<!ENTITY reportForm.behind_login.title              "വെബ് സൈറ്റ് പാസ്‌വേറ്‍ഡ് ഉപയോഗിച്ച് സൂരക്ഷിതമാക്കിയിരിക്കുന്നു"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.title              "വെബ് സൈറ്റ് പാസ്‌വേര്‍ഡ് ഉപയോഗിച്ച് സൂരക്ഷിതമാക്കിയിരിക്കുന്നു"><!-- No ":" at the end -->
 <!ENTITY reportForm.behind_login.accesskey          "P">
 
 <!ENTITY reportForm.problem_type.title              "ഏത് തരത്തിലുള്ള പ്റശ്നം:">
@@ -22,19 +23,21 @@
 <!ENTITY reportForm.problem_type.chooseOne.title    "ഒരെണ്ണം തിരഞ്ഞെടുക്കുക...">
 
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
-<!ENTITY reportForm.problem_type.item1.title        "ബ്റൌസറിന് പിന്തുണ ലഭ്യമല്ല">
+<!ENTITY reportForm.problem_type.item1.title        "ബ്രൌസറിനു് പിന്തുണ ലഭ്യമല്ല">
 <!ENTITY reportForm.problem_type.item2.title        "ലോഗിന്‍ ചെയ്യുവാന്‍ സാധ്യമല്ല">
 <!ENTITY reportForm.problem_type.item3.title        "പ്ളഗ്ഗിന്‍ ലഭ്യമല്ല">
 <!ENTITY reportForm.problem_type.item4.title        "മറ്റ് ഉള്ളടക്കം ലഭ്യമല്ല">
-<!ENTITY reportForm.problem_type.item5.title        "പ്റവറ്‍ത്തന രീതിയില്‍ പിശക്">
+<!ENTITY reportForm.problem_type.item5.title        "പ്രവര്‍ത്തന രീതിയില്‍ പിശക്">
 <!ENTITY reportForm.problem_type.item6.title        "കാഴ്ചയില്‍ പിശക്">
-<!ENTITY reportForm.problem_type.item7.title        "മറ്റ് പ്റശ്നം">
+<!ENTITY reportForm.problem_type.item7.title        "മറ്റു് പ്രശ്നം">
+<!ENTITY reportForm.problem_type.item8.title        "ഡിസ്സബിളിറ്റ് ആക്സസ്സ്">
+<!ENTITY reportForm.problem_type.item9.title        "പ്രിന്റ് ചെയ്ത ഔട്ട്പുട്ട് തെറ്റാണു്">
 
-<!ENTITY reportForm.describe.title                  "പ്റശ്നം വിവരിക്കുക:">
+<!ENTITY reportForm.describe.title                  "പ്രശ്നം വിവരിക്കുക:">
 <!ENTITY reportForm.describe.accesskey              "D">
 
 <!ENTITY reportForm.platform.title                  "പ്ളാറ്റ് ഫോം:">
-<!ENTITY reportForm.product.title                   "പ്റൊഡക്ട്:">
+<!ENTITY reportForm.product.title                   "പ്രൊഡക്ട്:">
 <!ENTITY reportForm.gecko.title                     "Gecko:">
 <!ENTITY reportForm.useragent.title                 "Useragent:">
 <!ENTITY reportForm.language.title                  "ഭാഷ:">
@@ -49,7 +52,7 @@
 <!ENTITY reportResults.showDetail.title             "വിശദാംശങ്ങള്‍ കാണിക്കുക">
 <!ENTITY reportResults.showDetail.accesskey         "S">
 
-<!ENTITY sendReport.label                           "റിപ്പോറ്‍ട്ട് അയയ്ക്കുന്നു">
-<!ENTITY sendReport.description                     "സറ്‍വറിലേക്ക് റിപ്പോറ്‍ട്ട് അയയ്ക്കുന്നു...">
+<!ENTITY sendReport.label                           "റിപ്പോര്‍ട്ട് അയയ്ക്കുന്നു">
+<!ENTITY sendReport.description                     "സര്‍വറിലേക്കു് റിപ്പോര്‍ട്ട് അയയ്ക്കുന്നു...">
 
-<!ENTITY finish.label                               "റിപ്പോറ്‍ട്ട് അയച്ചിരിക്കുന്നു">
+<!ENTITY finish.label                               "റിപ്പോര്‍ട്ട് അയച്ചിരിക്കുന്നു">

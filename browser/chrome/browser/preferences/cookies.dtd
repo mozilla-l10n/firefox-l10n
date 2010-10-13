@@ -2,7 +2,7 @@
 <!ENTITY cookiesonsystem.label "താഴെപ്പറയുന്ന കുക്കികള്‍ നിങ്ങളുടെ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചിരിക്കുന്നു ">
 <!ENTITY cookiename.label "കൂക്കിയുടെ പേര്‌">
 <!ENTITY cookiedomain.label "സൈറ്റ്‌">
-<!ENTITY button.removecookie.label "കൂക്കി‍ നീക്കം ചെയ്യുക  ">
+<!ENTITY button.removecookie.label "കൂക്കി നീക്കം ചെയ്യുക  ">
 <!ENTITY button.removecookie.accesskey "R">
 <!ENTITY button.removeallcookies.label "എല്ലാ കുക്കികളും നീക്കം ചെയ്യുക ">
 <!ENTITY button.removeallcookies.accesskey "A">

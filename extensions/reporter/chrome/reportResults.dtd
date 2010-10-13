@@ -1,13 +1,14 @@
 <!ENTITY reportSite                  "സൈറ്റ്">
-<!ENTITY reportProblemType           "ഏത് തരത്തിലുള്ള പ്റശ്നം">
+<!ENTITY reportProblemType           "ഏത് തരത്തിലുള്ള പ്രശ്നം">
 <!ENTITY reportDecsription           "വിവരണം">
 <!ENTITY reportPlatform              "പ്ളാറ്റ് ഫോം">
-<!ENTITY reportProduct               "പ്റൊഡക്ട്">
+<!ENTITY reportProduct               "പ്രൊഡക്ട്">
 <!ENTITY reportoscpu                 "OS">
 <!ENTITY reportGecko                 "Gecko">
 <!ENTITY reportBuildConfig           "Build Config">
 <!ENTITY reportUseragent             "Useragent">
 <!ENTITY reportLanguage              "ഭാഷ">
+<!ENTITY reportCharset               "അക്ഷരക്കൂട്ടം">
 <!ENTITY reportEmail                 "ഈമെയില്‍">
 <!ENTITY error                       "പിഴവിന്റെ വിശദാംശങ്ങള്‍">
 <!ENTITY faultCode                   "കോഡ്">

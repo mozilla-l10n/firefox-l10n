@@ -12,10 +12,10 @@
 <!ENTITY copyCmd.label "പകര്‍ത്തുക ">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "പതിക്കുക">
+<!ENTITY pasteCmd.label "ഒട്ടിക്കുക">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY deleteCmd.label "മായിക്കുക">
+<!ENTITY deleteCmd.label "വെട്ടിനീക്കുക">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "എല്ലാം തെരഞ്ഞെടുക്കുക">
 <!ENTITY selectAllCmd.key "A">
@@ -27,5 +27,5 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findPreviousCmd.label "മുന്‍പത്തേത്‌ കണ്ടെത്തുക ">
+<!ENTITY findPreviousCmd.label "മുമ്പുള്ളതു് കണ്ടെത്തുക">
 <!ENTITY findPreviousCmd.accesskey "v">
