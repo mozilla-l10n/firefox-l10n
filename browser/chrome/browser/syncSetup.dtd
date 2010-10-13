@@ -1,4 +1,4 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; 安裝">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; 設定">
 
 <!-- First page of the wizard -->
 
@@ -14,7 +14,7 @@
 <!ENTITY server.label               "伺服器">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; 伺服器">
 <!ENTITY serverType.custom.label    "使用自訂的伺服器">
-<!ENTITY signIn.account.label       "Email 地址 / 使用者名稱">
+<!ENTITY signIn.account.label       "電子郵件地址／使用者名稱">
 <!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "密碼">
 <!ENTITY signIn.password.accesskey  "P">
@@ -86,7 +86,7 @@
 
 <!ENTITY choice2.merge.main.label      "將這台電腦的資料與您的 &syncBrand.shortName.label; 資料合併">
 <!ENTITY choice2.merge.recommended.label "建議的:">
-<!ENTITY choice2.client.main.label     "使用您 &syncBrand.fullName.label; 上的資料取代這台電腦所有的資料">
+<!ENTITY choice2.client.main.label     "使用您 &syncBrand.shortName.label; 上的資料取代這台電腦所有的資料">
 <!ENTITY choice2.server.main.label     "使用本地資料取代您其他裝置上的資料">
 
 <!-- Confirm Merge Options -->
@@ -99,6 +99,6 @@
 <!ENTITY confirm.server.warning.label "警告：本地端資料將取代這些裝置上的所有 &brandShortName; 資料！">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "完成安裝">
+<!ENTITY setup.successPage.title "完成設定">
 <!ENTITY changeOptions.label "您可以在以下的同步選項修改這個設定。">
 <!ENTITY continueUsing.label "您現在可以繼續使用 &brandShortName;。">

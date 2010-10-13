@@ -4,12 +4,12 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; 開始頁面">
+<!ENTITY abouthome.pageTitle "&brandFullName; 開始頁">
 
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> 開始">
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
 
 <!ENTITY abouthome.searchEngineButton.label "搜尋">
 

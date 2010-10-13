@@ -88,7 +88,7 @@
 
 <!-- Entities for Account name page -->
 
-<!ENTITY accnameTitle.label "帳號名稱:">
+<!ENTITY accnameTitle.label "帳號名稱">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "請輸入這個帳號的顯示名稱。 (如「學校帳號」、「免費帳號」等等)">
 <!ENTITY accnameLabel.label "帳號名稱:">

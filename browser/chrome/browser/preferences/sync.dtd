@@ -1,5 +1,5 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "安裝 &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "設定 &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; 可以讓您存取多個裝置的歷史資訊、書籤、密碼、開啟分頁。">
 
