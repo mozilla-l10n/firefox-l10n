@@ -1,0 +1,8 @@
+<!ENTITY welcome.title                      "Mirë se vini te &brandShortName;-u">
+<!ENTITY intro.description                  "Njëkohësoni PC-në tuaj dhe celularin përmes Weave Sync. Personalizojeni me shtesa. Shfletoni me Shtyllën e Papërmbajtshme dhe mjaft, mjaft, mjaft të tjera.">
+<!ENTITY weave.title                        "Ngrihuni e Shkoni">
+<!ENTITY weave.description                  "Merrni Weave Sync t&apos;ju ndihmojë të nënshtroni Firefox-in tuaj. Shkëmbeni mes PC-së dhe celularit tuaj historik shfletimesh, faqerojtësa, fjalëkalime të ruajtur dhe skeda.">
+<!ENTITY weave.linkLabel                    "Merreni shtesën Weave Sync">
+<!ENTITY getPersonal.title                  "Bëhuni i Dallueshëm">
+<!ENTITY getPersonal.description            "Bëjeni &brandShortName;-un si e doni. Personalizoni shfletuesin që ofron i pari shtesa për celular.">
+<!ENTITY getPersonal.linkLabel              "Merrni shtesa për celularin tuaj">

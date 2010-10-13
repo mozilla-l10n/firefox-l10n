@@ -1,0 +1,94 @@
+<!ENTITY back.label            "Mbrapsht">
+<!ENTITY forward.label         "Para">
+<!ENTITY reload.label          "Ringarkoje">
+<!ENTITY stop.label            "Ndale">
+<!ENTITY go.label              "Shko">
+<!ENTITY openLocation.label    "Hap vend">
+<!ENTITY star.label            "Yll">
+
+<!ENTITY newtab.label          "Skedë e Re">
+<!ENTITY closetab.label        "Mbylle Skedën">
+
+<!ENTITY cut.label             "Prije">
+<!ENTITY copy.label            "Kopjoje">
+<!ENTITY copylink.label        "Kopjo Vend Lidhjeje">
+<!ENTITY paste.label           "Ngjite">
+<!ENTITY delete.label          "Fshije">
+<!ENTITY selectAll.label       "Përzgjidhe Krejt">
+<!ENTITY noSuggestions.label   "(pa këshilla)">
+<!ENTITY addToDictionary.label "Shtoje në Fjalor">
+
+<!ENTITY bookmarksHeader.label     "Faqerojtësa">
+<!ENTITY bookmarksManage.label     "Administroni">
+
+<!ENTITY editBookmarkRemove.label  "Hiqe">
+<!ENTITY editBookmarkDone.label    "U bë">
+<!ENTITY editBookmarkTags.label    "Shtoni etiketa këtu">
+
+<!ENTITY helperApp.prompt          "Ç'do të doni të bënit me">
+<!ENTITY helperApp.open            "Hape">
+<!ENTITY helperApp.save            "Ruaje">
+<!ENTITY helperApp.nothing         "Asgjë">
+
+<!ENTITY formHelper.previous       "I mëparshëm">
+<!ENTITY formHelper.next           "Pasuesi">
+<!ENTITY formHelper.done           "U bë">
+
+<!ENTITY addonsHeader.label        "Shtesa">
+<!ENTITY addonsLocal.label         "Shtesat Tuaja">
+<!ENTITY addonsUpdate.label        "Përditësim">
+<!ENTITY addonsRepo.label          "Merrni Shtesa">
+<!ENTITY addonsRecommended.label   "E këshilluar">
+<!ENTITY addonsSearch.label        "Kërko">
+<!ENTITY addonsSearch2.emptytext   "Kërko në Katalog">
+<!ENTITY addonsSearch.recommended  "E këshilluar">
+
+<!ENTITY addonOptions.label        "Mundësi">
+<!ENTITY addonEnable.label         "Aktivizoje">
+<!ENTITY addonDisable.label        "Çaktivizoje">
+<!ENTITY addonInstall2.label       "Shtohe te &brandShortName;-i">
+<!ENTITY addonUninstall.label      "Çinstaloje">
+<!ENTITY addonCancel.label         "Anuloje">
+<!ENTITY addonShowPage.label       "Shko te Faqja">
+
+<!ENTITY downloadsHeader.label     "Shkarkime">
+
+<!ENTITY downloadShowPage.label    "Shko te Faqja">
+<!ENTITY downloadShow2.label       "Gjej">
+<!ENTITY downloadOpen2.label       "Hape">
+<!ENTITY downloadCancel.label      "Anuloje">
+<!ENTITY downloadPause.label       "Pushoje">
+<!ENTITY downloadResume.label      "Rimerre">
+<!ENTITY downloadRetry.label       "Riprovo">
+<!ENTITY downloadRemove.label      "Hiqe">
+<!ENTITY downloadFailed.label      "Dështoi">
+
+<!ENTITY noResults.label           "Pa përfundime">
+<!ENTITY allBookmarks.label        "Shihini tërë faqerojtësit">
+
+<!ENTITY searchEngine.addSearch    "Shtoni Kërkim:">
+
+<!ENTITY bookmarkPopup.label       "Faqja u Faqeruajt">
+<!ENTITY bookmarkRemove.label      "Hiqe">
+<!ENTITY bookmarkEdit.label        "Përpunojeni">
+
+<!ENTITY identity.unverifiedsite2 "Ky &quot;site&quot; web nuk furnizon të dhëna identiti.">
+<!ENTITY identity.connectedTo2 "I lidhur te">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "xhiruar nga">
+
+<!ENTITY consoleHeader.label       "Konsol Gabimesh">
+<!ENTITY consoleAll.label          "Krejt">
+<!ENTITY consoleErrors.label       "Gabime">
+<!ENTITY consoleWarnings.label     "Sinjalizime">
+<!ENTITY consoleMessages.label     "Mesazhe">
+<!ENTITY consoleCodeEval.label     "Kod:">
+<!ENTITY consoleClear.label        "Pastroje">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Kartela Burim:">
+<!ENTITY consoleErrLine.label      "Rresht:">
+<!ENTITY consoleErrColumn.label    "Shtyllë:">

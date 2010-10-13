@@ -1,0 +1,14 @@
+<!ENTITY prefsHeader.label                         "Parapëlqime">
+<!ENTITY about.title                               "Rreth &brandShortName;-ut">
+<!ENTITY about.button                              "Shko te Faqja">
+<!ENTITY content.title                             "Lëndë">
+<!ENTITY showImages.title                          "Shfaqi figurat">
+<!ENTITY enableJavaScript.title                    "Aktivizo JavaScript-in">
+<!ENTITY enablePlugins.title                       "Aktivizo Shtojcat">
+<!ENTITY privacy.title                             "Vetësi &amp; Siguri">
+<!ENTITY allowCookies.title                        "Lejo &quot;cookies&quot;">
+<!ENTITY clearPrivateData2.title                   "Pastro të dhëna vetjake">
+<!ENTITY clearPrivateData.button                   "Pastroji">
+<!ENTITY rememberPasswords.title                   "Mba mend fjalëkalimet">
+<!ENTITY language.title                            "Gjuhë">
+<!ENTITY language.auto                             "Vetëzbuloji">
