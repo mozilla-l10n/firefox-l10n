@@ -3,27 +3,28 @@
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਫੇਲ੍ਹ">
+<!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
+
+
 <!ENTITY deniedPortAccess.title "ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਪੋਰਟ ਪਾਬੰਦੀ">
  <!ENTITY deniedPortAccess.longDesc "<p>ਦਿੱਤੇ ਐਡਰੈੱਸ ਨੇ ਇੱਕ ਪੋਰਟ ਦਿੱਤੀ ਹੈ,(ਜਿਵੇਂ ਕਿ <q>mozilla.org:80</q> mozilla.org ਲਈ 809) ਜੋ ਕਿ ਆਮ ਕਰਕੇ ਵਰਤੀ ਜਾਦੀ ਹੈ, <em>ਹੋਰ</em> ਵੈਬ ਝਲਕੀ ਤੋਂ ਬਿਨਾਂ। ਬਰਾਊਜਰ ਨੇ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਬੇਨਤੀ ਨੂੰ ਰੱਦ ਕਰ ਦਿੱਤਾ ਹੈ।</p>">
  
  
-<!ENTITY malformedURI.title "ਗਲਤ ਐਡਰੈੱਸ ਗਲਤੀ">
-<!ENTITY malformedURI.longDesc "ਐਡਰੈੱਸ (URL) ਇੱਕ ਠੀਕ ਫਾਰਮੈਟ ਵਿੱਚ ਨਹੀਂ ਅਤੇ ਪੜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ। ਇੱਕ ਸਹੀ ਐਡਰੈੱਸ &quot;http://&quot; ਨਾਲ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ, ਫਿਰ ਇੱਕ ਐਡਰੈੱਸ ਹੁੰਦਾ ਹੈ, (ਜਿਵੇਂ ਕਿ www.netscape.com), ਤਦ ਭਾਗ ਲਈ ਇੱਕ ਮਾਰਗ ਹੁੰਦਾ ਹੈ (ਜਾਂ ਸਿਰਫ &quot;/&quot;)। ਇਸ ਸਮੱਸਿਆ ਦਾ ਇੱਕ ਆਮ ਕਾਰਨ  ਸਲੇਸ (/) ਦਾ ਬਜਾਏ ਬੈਕਸਲੇਸ (\) ਦੇਣਾ ਹੋ ਸਕਦਾ ਹੈ।">
+<!ENTITY malformedURI.title "ਗਲਤ ਐਡਰੈੱਸ">
+<!ENTITY malformedURI.longDesc "<p>ਦਿੱਤੇ ਐਡਰੈੱਸ ਦਾ ਫਾਰਮੈਟ ਪਛਾਣਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ। ਗਲਤੀਆਂ ਲਈ ਟਿਕਾਣਾ ਪੱਟੀ ਨੂੰ ਚੈੱਕ ਕਰੋ ਤੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</p>">
 
-<!ENTITY fileNotFound.title "ਫਾਇਲ ਨਾ ਲੱਭਣ ਦੀ ਗਲਤੀ">
-<!ENTITY fileNotFound.longDesc "ਐਡਰੈੱਸ  (URL) ਰਾਹੀਂ ਦਿੱਤੀ ਫਾਇਲ ਲੱਭੀ ਨਹੀਂ ਜਾ ਸਕਦੀ ਹੈ। ਜਾਂਚ ਕਰੋ ਕਿ ਫਾਇਲ ਮੌਜੂਦ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਨੂੰ ਵੇਖਣ ਲਈ ਲੋੜੀਦੇ ਅਧਿਕਾਰ ਹਨ।">
+<!ENTITY fileNotFound.title "ਫਾਇਲ ਨਹੀਂ ਲੱਭੀ">
+<!ENTITY fileNotFound.longDesc "<ul><li>Could the item have been renamed, removed, or relocated?</li><li>Is there a spelling, capitalization, or other typographical error in the address?</li><li>Do you have sufficient access permissions to the requested item?</li></ul>">
 
 <!ENTITY generic.title "ਮੰਗ ਪੂਰੀ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ">
 <!ENTITY generic.longDesc "<p>ਇਸ ਸਮੱਸਿਆ ਜਾਂ ਗਲਤੀ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਇਸ ਸਮੇਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।</p>">
 
-<!ENTITY dnsNotFound.title "ਐਡਰੈੱਸ ਨਾ ਲੱਭਣ ਦੀ ਗਲਤੀ">
+<!ENTITY dnsNotFound.title "ਐਡਰੈੱਸ ਨਹੀਂ ਲੱਭਿਆ">
 <!ENTITY dnsNotFound.longDesc "ਐਡਰੈੱਸ (URL) ਇੱਕ ਪਛਾਣੀ ਸਾਇਟ ਨੂੰ ਨਹੀਂ ਵੇਖਾਉਦਾ ਹੈ ਅਤੇ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਇਹ ਐਡਰੈੱਸ ਵਿੱਚ ਗਲਤ ਸ਼ਬਦ-ਜੋੜ ਹੋਣ ਕਰਕੇ ਜਾਂ ਸਿਰਫ ਸਾਇਟ ਮੌਜੂਦ ਨਾ ਹੋਣ ਕਰਕੇ ਹੋ ਸਕਦਾ ਹੈ। ਜੇਕਰ ਇਹ ਯਕੀਨੀ ਹੈ ਕਿ ਐਡਰੈੱਸ ਠੀਕ ਹੈ ਜਾਂ ਜੇਕਰ ਇਹ ਸਮੱਸਿਆ ਕਈ ਸਾਇਟਾਂ ਨਾਲ ਹੈ ਤਾਂ ਇਹ ਤੁਹਾਡੀ ਪ੍ਰਕਾਸੀ ਸੇਵਾਂ (ਜੇਕਰ ਤੁਸੀਂ ਇਸਤੇਮਾਲ ਕਰ ਰਹੇ ਹੋ) ਜਾਂ ਡਾਇਰੈਕਟਰੀ ਨਾਂ ਸੇਵਾ ਖੋਜ ਨਾਲ ਸਮੱਸਿਆ ਕਰਕੇ ਹੈ। ਇਸ ਹਾਲਾਤ ਵਿੱਚ ਤੁਸੀਂ ਸਿਸਟਮ ਦਸਤਾਵੇਜ਼, ਪ੍ਰਬੰਧਕ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਉਪਲੱਬਧ ਕਰਤਾ (ISP) ਤੋਂ ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।">
 
 <!ENTITY protocolNotFound.title "ਅਣਜਾਣਾ ਪਰੋਟੋਕਾਲ ਗਲਤੀ">
 <!ENTITY protocolNotFound.longDesc "ਐਡਰੈੱਸ (URL) ਇੱਕ ਪਰੋਟੋਕਾਲ ਰਾਹੀਂ ਆਰੰਭ ਹੁੰਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਇਹ ਝਲਕਾਰ ਪਛਾਣ ਨਹੀਂ ਸਕਦਾ ਹੈ। ਪਰੋਟੋਕਾਲ ਐਡਰੈੱਸ ਦਾ ਅਗਲਾ ਭਾਗ ਹੁੰਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ http: ਜਾਂ ftp:, ਜੋ ਕਿ ਬਰਾਊਜਰ ਨੂੰ ਦੱਸਦਾ ਹੈ ਕਿ ਸਾਇਟ ਨਾਲ ਕਿਵੇਂ ਜੁੜਨਾ ਹੈ। ਇਸ ਸਮੇਂ, ਪਰੋਟੋਕਾਲ ਅਣਜਾਣਾ ਹੋਣ ਕਰਕੇ ਲੋਡਿੰਗ ਜਾਰੀ ਨਹੀਂ ਰਹਿ ਸਕਦੀ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਐਡਰੈੱਸ ਠੀਕ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰੋ।">
-
-<!ENTITY connectionFailure.title "ਕੁਨੈਕਸ਼ਨ ਅਸਫਲਤਾ ਗਲਤੀ">
-<!ENTITY connectionFailure.longDesc "ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਦਿੱਤੀ ਸਾਇਟ ਨਾਲ ਜੁੜਨ ਵਿੱਚ ਅਸਫਲ, ਭਾਵੇਂ ਕਿ ਇਹ ਮੌਜੂਦ ਹੈ। ਇਹ ਇਸਕਰਕੇ ਹੈ ਕਿਉਂਕਿ ਸਾਇਟ ਨੇ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਤੋਂ ਕੁਨੈਕਸ਼ਨ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਇਨਕਾਰੀ ਹੈ, ਸਰਵਿਸ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ, ਜਾਂ ਸਾਇਟ ਉਸ ਸੇਵਾ ਜਾਂ ਪੋਰਟ ਨਾਲ ਕੁਨੈਕਸ਼ਨ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ, ਜਿਸ ਰਾਹੀਂ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਜੁੜਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਰਿਹਾ ਹੈ।">
 
 <!ENTITY netTimeout.title "ਨੈੱਟ ਸਮਾਂ-ਅੰਤਰਾਲ ਸਮਾਪਤੀ ਗਲਤੀ">
 <!ENTITY netTimeout.longDesc "ਖਾਸ ਸਾਇਟ ਨਾਲ ਜੁੜਨ ਸਮੇਂ ਬਰਾਊਜਰ ਲਈ ਸਮਾਂ-ਅੰਤਰਾਲ ਸਮਾਪਤ ਹੋ ਗਿਆ ਹੈ। ਸਾਇਟ ਤੇ ਲੋਡ ਜਿਆਦਾ ਹੋਣ ਕਰਕੇ ਇਹ ਹੌਲੀ ਹੋ ਗਈ ਹੈ ਜਾਂ ਨੈੱਟਵਰਕ ਸਮੱਸਿਆ ਇਸ ਤੋਂ ਸਮੇਂ ਸਿਰ ਡਾਟਾ ਉਪਲੱਬਧ ਹੋਣ ਨਹੀਂ ਦੇ ਰਹੀ ਹੈ। ਜੇਕਰ ਸਾਇਟ ਰੁਝੀ ਹੋਈ ਹੈ ਤਾਂ ਮੁੜ ਬੇਨਤੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਕੁਝ ਪਲ਼ ਉਡੀਕ ਕਰੋ।">
@@ -51,7 +52,7 @@
  
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਗਲਤੀ">
 <!ENTITY netOffline.longDesc "ਬਰਾਊਜ਼ਰ ਇਸ ਸਮੇਂ ਆਫਲਾਈਨ ਹੈ ਅਤੇ ਲੋੜੀਦੀ ਸਾਇਟ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਆਨਲਾਈਨ ਮੋਡ ਵਿੱਚ ਤਬਦੀਲ ਕਰੋ।">
-<!ENTITY netOffline.overrideLongDesc "ਬਰਾਊਜ਼ਰ ਆਪਣੇ ਆਫਲਾਈਨ ਮੋਡ 'ਚ ਚੱਲ ਰਿਹਾ ਹੈ ਤੇ ਦਿੱਤੀ ਆਈਟਮ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।</p><ul><li>ਕੀ ਕੰਪਿਊਟਰ ਚਾਲੂ ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਹੈ?</li><li>ਬਰਾਊਜ਼ਰ ਨੂੰ ਆਨਲਾਈਨ ਮੋਡ 'ਚ ਰੱਖ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>ਬਰਾਊਜ਼ਰ ਆਪਣੇ ਆਫਲਾਈਨ ਮੋਡ 'ਚ ਚੱਲ ਰਿਹਾ ਹੈ ਤੇ ਦਿੱਤੀ ਆਈਟਮ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।</p><ul><li>ਕੀ ਕੰਪਿਊਟਰ ਚਾਲੂ ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਹੈ?</li><li>ਬਰਾਊਜ਼ਰ ਨੂੰ ਆਨਲਾਈਨ ਮੋਡ 'ਚ ਰੱਖ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ">
 <!ENTITY proxyConnectFailure.longDesc "<p>ਬਰਾਊਜ਼ਰ ਨੂੰ ਪਰਾਕਸੀ ਸਰਵਰ ਵਰਤਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਪਰ ਪਰਾਕਸੀ ਸਰਵਰ ਨੇ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ ਹੈ।</p><ul><li>ਕੀ ਬਰਾਊਜ਼ਰ ਦੀ ਪਰਾਕਸੀ ਸੰਰਚਨਾ ਠੀਕ ਹੈ? ਸੈਟਿੰਗ ਚੈੱਕ ਕਰਕੇ ਮੁੜ-ਟਰਾਈ ਕਰੋ ਜੀ।</li><li>ਕੀ ਪਰਾਕਸੀ ਸਰਵਿਸ ਇਸ ਨੈੱਟਵਰਕ ਤੋਂ ਕੁਨੈਕਸ਼ਨ ਮਨਜ਼ੂਰ ਕਰਦੀ ਹੈ?</li><li>ਹਾਲੇ ਵੀ ਸਮੱਸਿਆ ਹੈ? ਮੱਦਦ ਲਈ ਆਪਣੇ ਨੈੱਟਵਰਕ ਐਡਮਿਨਸਟੇਟਰ ਜਾਂ ਇੰਟਰਨੈੱਟ ਪਰੋਵਾਇਡਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
