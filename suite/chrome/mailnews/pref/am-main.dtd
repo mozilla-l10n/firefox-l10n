@@ -15,9 +15,9 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Texto da assinatura:">
 <!ENTITY signatureText.accesskey "x">
-<!ENTITY signatureHtml.label "Usar HTML (ex:, &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "Usar HTML">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Anexar assinatura de um ficheiro (texto, HTML, ou imagem):">
+<!ENTITY signatureFile.label "Anexar assinatura a partir de um ficheiro:">
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY choose.label "Escolher...">
 <!ENTITY choose.accesskey "c">
