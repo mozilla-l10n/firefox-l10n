@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Nagłówki odpowiedzi">
 <!ENTITY networkPanel.responseBody                "Zawartość odpowiedzi">
 <!ENTITY networkPanel.responseBodyCached          "Dane z pamięci podręcznej">
+<!ENTITY networkPanel.responseBodyUnknownType     "Nieznany typ zawartości">
 <!ENTITY networkPanel.responseNoBody              "Brak zawartości odpowiedzi">
 <!ENTITY networkPanel.responseImage               "Odebrany obrazek">
 <!ENTITY networkPanel.responseImageCached         "Obrazek z pamięci podręcznej">
