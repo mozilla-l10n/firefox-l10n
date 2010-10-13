@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "ਜਵਾਬ ਹੈੱਡਰ">
 <!ENTITY networkPanel.responseBody                "ਜਵਾਬ ਮੁੱਖ ਭਾਗ">
 <!ENTITY networkPanel.responseBodyCached          "ਕੈਸ਼ ਕੀਤਾ ਡਾਟਾ">
+<!ENTITY networkPanel.responseBodyUnknownType     "ਅਣਜਾਣ ਸਮੱਗਰੀ ਕਿਸਮ">
 <!ENTITY networkPanel.responseNoBody              "ਕੋਈ ਜਵਾਬ ਮੁੱਖ ਭਾਗ ਨਹੀਂ">
 <!ENTITY networkPanel.responseImage               "ਮਿਲਿਆ ਚਿੱਤਰ">
 <!ENTITY networkPanel.responseImageCached         "ਕੈਸ਼ ਕੀਤਾ ਚਿੱਤਰ">
