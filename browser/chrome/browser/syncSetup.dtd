@@ -63,7 +63,7 @@
 <!ENTITY engine.prefs.accesskey "z">
 <!ENTITY choice2.merge.main.label "unisci i dati di questo computer con quelli di &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Consigliato:">
-<!ENTITY choice2.client.main.label "Sostituisci tutti i dati presenti su questo computer con quelli di &syncBrand.fullName.label;">
+<!ENTITY choice2.client.main.label "Sostituisci tutti i dati presenti su questo computer con quelli di &syncBrand.shortName.label;">
 <!ENTITY choice2.server.main.label "Sostituisci i dati di tutti gli altri dispositivi con i dati del computer in uso">
 <!ENTITY setup.optionsConfirmPage.title "Conferma">
 <!ENTITY confirm.merge.label "Si è deciso di unire i dati di questo computer con i dati degli altri dispositivi connessi a &syncBrand.fullName.label;.">
