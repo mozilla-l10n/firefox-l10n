@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Vastausotsakkeet">
 <!ENTITY networkPanel.responseBody                "Vastausrunko">
 <!ENTITY networkPanel.responseBodyCached          "Data välimuistissa">
+<!ENTITY networkPanel.responseBodyUnknownType     "Tuntematon sisältötyyppi">
 <!ENTITY networkPanel.responseNoBody              "Ei vastausrunkoa">
 <!ENTITY networkPanel.responseImage               "Vastaanotettu kuva">
 <!ENTITY networkPanel.responseImageCached         "Kuva välimuistissa">
