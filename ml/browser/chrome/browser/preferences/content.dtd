@@ -16,9 +16,9 @@
 <!ENTITY defaultFont.label "ഡിഫോള്‍ട്ട്‌ ഫോണ്ട്‌:">
 <!ENTITY defaultFont.accesskey "D">
 <!ENTITY defaultSize.label "വലിപ്പം :">
-<!ENTITY defaultSize.accesskey "i">
+<!ENTITY  defaultSize.accesskey       "S">
 <!ENTITY advancedFonts.label "സങ്കീര്‍ണ്ണമായവ...">
-<!ENTITY advancedFonts.accesskey "d">
+<!ENTITY  advancedFonts.accesskey     "A">
 <!ENTITY colors.label "കളറുകള്‍">
 <!ENTITY colors.accesskey "C">
 <!-- ENTITY feeds.label "ഫീഡുകള്‍" -->
@@ -35,3 +35,8 @@
 <!-- ENTITY configureFileTypes.label "ചില തരം ഫയലുകള്‍ &brandShortName; എങ്ങനെ കൈകാര്യം ചെയ്യണം എന്നുള്ളത്‌ കോണ്‍ഫിഗര്‍ ചെയ്യുക." -->
 <!-- ENTITY manage.label "കൈകാര്യം ചെയ്യുക" -->
 <!-- ENTITY manage.accesskey "M" -->
+
+<!ENTITY languages.label              "ഭാഷകള്‍">
+<!ENTITY chooseLanguage.label         "താളുകള്‍ക്കുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക">
+<!ENTITY chooseButton.label           "തെരഞ്ഞെടുക്കുക…">
+<!ENTITY chooseButton.accesskey       "o">

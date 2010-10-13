@@ -1,5 +1,7 @@
 <!-- ENTITY reporterMenu.title                         "തകറ്‍ന്ന വെബ് സൈറ്റ് രേഖപ്പെടുത്തുക" -->
 <!-- ENTITY reporterToolBarButton.title                "സൈറ്റ് രേഖപ്പെടുത്തുക" -->
 <!-- ENTITY reporterMenu.tooltip                       "തകറ്‍ന്ന വെബ് സൈറ്റ് രേഖപ്പെടുത്തുക" -->
+
+<!ENTITY reporterMenu2.title                        "ഫയര്‍ഫോക്സില്‍ ശരിയാകാത്ത വെബ് സൈറ്റുകളെപ്പറ്റി അറിയിക്കുക…">
 <!ENTITY reporterMenu.accesskey                     "R">
 

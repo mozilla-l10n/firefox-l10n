@@ -5,6 +5,10 @@
 <!ENTITY openWith.label "തുറക്കേണ്ട പ്റയോഗം">
 <!ENTITY openWith.accesskey "o">
 <!ENTITY other.label "Other...">
+
+<!ENTITY  saveFile.label              "Save File">
+<!ENTITY  saveFile.accesskey          "s">
+
 <!-- ENTITY save.label "ഡിസ്ക്കിലേക്ക്‌ സൂക്ഷിക്കുക" -->
 <!-- ENTITY save.accesskey "s" -->
 <!ENTITY rememberChoice.label "ഈ തരത്തില്‍ പെട്ട ഫയലുകള്‍ക്ക്‌ ഇനി മുതല്‍ തനിയെ ഇങ്ങനെ ചെയ്യുക">

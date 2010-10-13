@@ -44,11 +44,13 @@
 <!ENTITY disableAddons.accesskey "D">
 <!ENTITY resetToolbars.label "ഉപകരണപ്പട്ടകളും, കണ്‍ട്രോളുകളും റീസെറ്റ്‌ ചെയ്യുക">
 <!ENTITY resetToolbars.accesskey "R">
-<!ENTITY resetBookmarks.label "&brandShortName;-ന്റെ ഡിഫോള്‍ട്ടിലേക്ക്‌ അടയാളങ്ങള്‍ റീസെറ്റ്‌ ചെയ്യുക ">
-<!ENTITY resetBookmarks.accesskey "b">
+<!-- ENTITY resetBookmarks.label "&brandShortName;-ന്റെ ഡിഫോള്‍ട്ടിലേക്ക്‌ അടയാളങ്ങള്‍ റീസെറ്റ്‌ ചെയ്യുക " -->
+<!-- ENTITY resetBookmarks.accesskey "b" -->
 <!ENTITY resetUserPrefs.label "&brandShortName;-ന്റെ ഡിഫോള്‍ട്ടിലേക്ക്‌ എല്ലാ യുസര്‍ മുന്‍ഗണനകളും റീസെറ്റ്‌ ചെയ്യുക">
 <!ENTITY resetUserPrefs.accesskey "p">
 <!ENTITY restoreSearch.label "ഡിഫോള്‍ട്ട്‌ സെര്‍ച്ച്‌ എഞ്ചിനുകള്‍ പുനസ്ഥാപിക്കുക ">
 <!ENTITY restoreSearch.accesskey "s">
 <!ENTITY changeAndRestartButton.label "മാറ്റങ്ങള്‍ വരുത്തി റീസ്റ്റാര്‍ട്ട്‌ ചെയ്യുക">
 <!ENTITY continueButton.label "സേഫ്‌ മോഡില്‍ തുടരുക ">
+<!ENTITY deleteBookmarks.label        "ബാക്കപ്പുകളൊഴികെ ബാക്കിയെല്ലാ അടയാളക്കുറിപ്പുകളും വെട്ടി നീക്കുക">
+<!ENTITY deleteBookmarks.accesskey    "b">

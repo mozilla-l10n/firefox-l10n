@@ -1,36 +1,22 @@
-<!ENTITY brandMotto       "Rediscover the Web">
-<!-- ENTITY credit.leads     "Engineering Leads" -->
-<!-- ENTITY credit.core      "Core Development Posse" -->
-<!-- ENTITY credit.gecko     "Gecko Layout Engine" -->
-<!ENTITY credit.thanks    "Special Thanks To">
+<!ENTITY brandMotto       "വെബ് സംബന്ധിച്ചുള്ള കൂടുതല്‍ വിവരങ്ങള്‍">
+<!ENTITY credit.thanks    "പ്രത്യേക നന്ദി">
 
-<!ENTITY credit.thanks2      "Many thanks to our">
-<!-- ENTITY credit.prethanks    "" -->
-<!-- ENTITY credit.friends      "Friends" -->
-<!-- ENTITY credit.and          "&amp;" -->
-<!-- ENTITY credit.contributors "Contributors" -->
-<!-- ENTITY credit.postthanks   "" -->
+<!ENTITY credit.contributors2 "വളരെ നന്ദി">
+<!ENTITY credit.thanks2       "സഹായിച്ച ഏവര്‍ക്കും">
+
 
 <!-- localization credits look like this: -->
-<!--
-<!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
--->
-<!ENTITY credit.translation "">
 
-<!-- ENTITY credit.visuals     "Visual Design Coordinator" -->
-<!-- ENTITY credit.theme       "Theme Design" -->
-<!-- ENTITY credit.brand       "Brand Identity" -->
-<!-- ENTITY credit.web         "Web Design" -->
-<!-- ENTITY credit.update      "Mozilla Update" -->
-<!-- ENTITY credit.qalead      "Quality Assurance Lead" -->
-<!-- ENTITY credit.qa          "Quality Assurance" -->
-<!-- ENTITY credit.build       "Build and Release" -->
-<!-- ENTITY credit.infra       "Infrastructure Support" -->
-<!-- ENTITY credit.support     "Support Resources" -->
-<!-- ENTITY credit.manage      "Project Management" -->
-<!-- ENTITY credit.marketleads "Marketing Leads" -->
-<!-- ENTITY credit.market      "Marketing" -->
-<!-- ENTITY credit.creators    "Created By" -->
-<!ENTITY credit.memory      "In Fond Memory Of">
-<!-- ENTITY credit.poweredByGecko "Powered by Gecko&trade;" -->
+<!ENTITY credit.translation
+ "<h3>പരിഭാഷകര്‍</h3>
+  <ul>
+   <li>Ani Peter (അനി പീറ്റര്‍) &lt;apeter@redhat.com&gt;</li>
+   <li>Joyce K Babu (ജോയ്സി കെ ബാബു) &lt;joycekbabu@gmail.com&gt;</li>
+   <li>Anoop P(അനൂപ് പി) &lt;anoop.ind@gmail.com&gt;</li>
+   <li>Harivishnu V N (ഹരിവിഷ്ണു വി എന്‍) &lt;harivishnu@gmail.com&gt;</li>
+   <li>Ashik S (ആഷിക് എസ്) &lt;aashiks@gmail.com&gt;</li>
+
+  </ul>">
+
+<!ENTITY credit.memory      "ഓര്‍മ്മയ്ക്കായി">
+<!ENTITY credit.poweredByGeckoReg "പ്രകാശനം ചെയ്തിരിക്കുന്നതു് Gecko&reg;">
