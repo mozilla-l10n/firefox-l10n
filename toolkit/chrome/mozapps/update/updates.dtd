@@ -75,7 +75,7 @@
 
 <!ENTITY  incompatibleList.title          "Գտնվել են անհամատեղելի հավելումներ">
 
-<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
+<!ENTITY  downloadPage.title              "&brandShortName;-ը բեռնվում է">
 <!ENTITY  downloading.intro               "Բեռնավորում է թարմացումը…">
 <!ENTITY  connecting.label                "Միանում եմ թարմացման սպասարկչին…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; չկարողացավ հավաստել բեռնավորված ըստ աճման թարմացման 

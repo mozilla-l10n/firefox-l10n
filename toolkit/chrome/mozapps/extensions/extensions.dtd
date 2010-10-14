@@ -38,7 +38,7 @@
 
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY addons.windowTitle                   "Հավելումների մենեջեր">
-<!ENTITY search.placeholder                   "Search all add-ons">
+<!ENTITY search.placeholder                   "Փնտրել բոլոր հավելումներում">
 <!ENTITY loading.label                        "Բեռնում...">
 <!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
 <!ENTITY listEmpty.availableUpdates.label     "Թարմացում չի գտնվել">
