@@ -17,9 +17,9 @@
 <ul>
   <li>Veuillez vérifier la syntaxe de l'adresse
     (saisie de <strong>ww</strong>.exemple.com au lieu de
-    <strong>www</strong>.exemple.com par exemple) ;</li>
+    <strong>www</strong>.exemple.com par exemple)&#x00A0;;</li>
   <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion
-    au réseau de votre ordinateur ;</li>
+    au réseau de votre ordinateur&#x00A0;;</li>
   <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy,
     assurez-vous que &brandShortName; a l'autorisation d'accéder au Web.</li>
 </ul>
@@ -28,7 +28,7 @@
 <!ENTITY fileNotFound.title "Fichier introuvable">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Vérifiez la syntaxe du nom de fichier (dont le respect des minuscules/majuscules) ;</li>
+  <li>Vérifiez la syntaxe du nom de fichier (dont le respect des minuscules/majuscules)&#x00A0;;</li>
   <li>Vérifiez si le fichier n'a pas été déplacé, renommé ou supprimé.</li>
 </ul>
 ">
@@ -42,7 +42,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>La syntaxe des adresses Web est généralement
-    <strong>http://www.exemple.com/</strong> ;</li>
+    <strong>http://www.exemple.com/</strong>&#x00A0;;</li>
   <li>Assurez-vous de bien utiliser des barres obliques (c.à.d.
     <strong>/</strong>).</li>
 </ul>
@@ -88,7 +88,7 @@
 <!ENTITY proxyConnectFailure.title "La connexion a été refusée par le serveur proxy">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Vérifiez que les paramètres du proxy sont corrects ;</li>
+  <li>Vérifiez que les paramètres du proxy sont corrects&#x00A0;;</li>
   <li>Contactez votre administrateur réseau pour vous assurer que le serveur proxy
     fonctionne.</li>
 </ul>
@@ -140,9 +140,9 @@ Vous pouvez également utiliser la commande dans le menu d'aide pour signaler un
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Le site est peut-être temporairement indisponible ou surchargé. Réessayez plus
-    tard ;</li>
+    tard&#x00A0;;</li>
   <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion
-    au réseau de votre ordinateur ;</li>
+    au réseau de votre ordinateur&#x00A0;;</li>
   <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy,
     assurez-vous que &brandShortName; est autorisé à accéder au Web.</li>
 </ul>
