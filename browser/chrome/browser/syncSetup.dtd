@@ -7,8 +7,8 @@
 <!ENTITY button.haveAccount.label "Tá cuntas &syncBrand.fullName.label; agam">
 
 <!ENTITY setup.choicePage.title.label "Ar bhain tú úsáid as &syncBrand.fullName.label; riamh?">
-<!ENTITY setup.choicePage.new.label "Níor bhain mé úsáid as &syncBrand.fullName.label; riamh">
-<!ENTITY setup.choicePage.existing.label "Tá mé ag baint úsáide as &syncBrand.fullName.label; ar ríomhaire eile">
+<!ENTITY setup.choicePage.new.label "Níor bhain mé úsáid as &syncBrand.shortName.label; riamh">
+<!ENTITY setup.choicePage.existing.label "Tá mé ag baint úsáide as &syncBrand.shortName.label; ar ríomhaire eile">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label "Freastalaí">
@@ -63,7 +63,7 @@
 
 <!ENTITY setup.existingSyncKeyPage.title "Cuir isteach d'Eochair Sync">
 <!ENTITY setup.existingSyncKeyPage.description "Cruthaíodh an Eochair Sync ar do shon, nó chuir tú do cheann féin isteach, nuair a chláraigh tú le &syncBrand.fullName.label;. Ní hionann é agus d'fhocal faire.">
-<!ENTITY existingSyncKeyHelp.description "Is féidir d'Eochair Sync a fháil ar ais ar do ríomhaire eile, sna Focail Fhaire Shábháilte faoi 'Slándáil'. Mura bhfuil tú in ann an Eochair a aimsiú fós, is féidir leat í a athshocrú, ach caillfidh tú aon sonraí atá ar an bhfreastalaí.">
+<!ENTITY existingSyncKeyHelp.description "Is féidir d'Eochair Sync a fháil ar ais ar do ríomhaire eile, sna Focail Fhaire Shábháilte faoi “Slándáil”. Mura bhfuil tú in ann an Eochair a aimsiú fós, is féidir leat í a athshocrú, ach caillfidh tú aon sonraí atá ar an bhfreastalaí.">
 <!ENTITY lostSyncKey.label "Chaill mé m'Eochair Sync">
 <!ENTITY verifying.label "Á Dheimhniú…">
 <!-- Sync Options -->
