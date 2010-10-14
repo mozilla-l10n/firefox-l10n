@@ -516,10 +516,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                 "Sobib">
 <!ENTITY editBookmark.cancel.label               "Loobu">
 <!ENTITY editBookmark.removeBookmark.accessKey   "E">
-<!ENTITY editBookmark.undo.label                 "Võta tagasi">
-<!ENTITY editBookmark.undo.accessKey             "V">
-<!ENTITY editBookmark.edit.label                 "Redigeeri...">
-<!ENTITY editBookmark.edit.accessKey             "R">
 
 <!ENTITY identity.unverifiedsite2                "Sellel leheküljel puudub identifitseeriv info.">
 <!ENTITY identity.connectedTo                    "Sa oled ühendatud aadressiga">
