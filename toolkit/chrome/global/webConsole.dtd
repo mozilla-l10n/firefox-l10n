@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Header Balasan">
 <!ENTITY networkPanel.responseBody                "Isi Balasan">
 <!ENTITY networkPanel.responseBodyCached          "Data dalam Tembolok">
+<!ENTITY networkPanel.responseBodyUnknownType     "Jenis Konten Tidak Dikenal">
 <!ENTITY networkPanel.responseNoBody              "Tidak Ada Isi Balasan">
 <!ENTITY networkPanel.responseImage               "Gambar Diterima">
 <!ENTITY networkPanel.responseImageCached         "Gambar dalam Tembolok">

@@ -515,10 +515,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Selesai">
 <!ENTITY editBookmark.cancel.label                   "Batal">
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
-<!ENTITY editBookmark.undo.label                     "Batal">
-<!ENTITY editBookmark.undo.accessKey                 "B">
-<!ENTITY editBookmark.edit.label                     "Ubah…">
-<!ENTITY editBookmark.edit.accessKey                 "U">
 
 <!ENTITY identity.unverifiedsite2 "Situs web ini tidak menyediakan informasi identitas.">
 <!ENTITY identity.connectedTo "Anda tersambung ke">
