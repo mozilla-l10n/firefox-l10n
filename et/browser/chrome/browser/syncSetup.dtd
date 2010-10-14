@@ -86,7 +86,7 @@
 
 <!ENTITY choice2.merge.main.label           "Ühenda selle arvuti andmed &syncBrand.shortName.label;i andmetega">
 <!ENTITY choice2.merge.recommended.label    "Soovitatud:">
-<!ENTITY choice2.client.main.label          "Asenda kõik selle arvuti andmed &syncBrand.fullName.label;i andmetega">
+<!ENTITY choice2.client.main.label          "Asenda kõik selle arvuti andmed &syncBrand.shortName.label;i andmetega">
 <!ENTITY choice2.server.main.label          "Asenda teiste seadmete andmed selle arvuti andmetega">
 
 <!-- Confirm Merge Options -->
