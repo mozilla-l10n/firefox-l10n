@@ -7,20 +7,20 @@
 <!ENTITY listEmpty.findUpdates.label "Lorg Nuashonruithe">
 <!ENTITY listEmpty.search.label "Níor aimsíodh aon bhreiseáin chomhoiriúnacha">
 <!ENTITY listEmpty.button.label "Tuilleadh eolais faoi bhreiseáin">
-<!ENTITY installAddonFromFile.label "Install Add-on From File…">
-<!ENTITY installAddonFromFile.accesskey "I">
+<!ENTITY installAddonFromFile.label "Suiteáil Breiseán Ó Chomhad…">
+<!ENTITY installAddonFromFile.accesskey "S">
 <!ENTITY toolsMenu.tooltip "Tools for all add-ons">
 
 <!ENTITY cmd.back.tooltip "Leathanach amháin siar">
 <!ENTITY cmd.forward.tooltip "Leathanach amháin ar aghaidh">
 <!-- global warnings -->
 
-<!ENTITY warning.safemode.label "All add-ons have been disabled by safe mode.">
-<!ENTITY warning.checkcompatibility.label "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
-<!ENTITY warning.checkcompatibility.enable.label "Enable">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.safemode.label "Tá gach Breiseán díchumasaithe sa Mhód Sábháilteachta.">
+<!ENTITY warning.checkcompatibility.label "Tá seiceáil chomhoiriúnacht na mBreiseán díchumasaithe. D'fhéadfadh Breiseáin neamh-chomhoiriúnacha a bheith agat.">
+<!ENTITY warning.checkcompatibility.enable.label "Cumasaigh">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Cumasaigh seiceáil chomhoiriúnacht na mbreiseán">
 <!ENTITY warning.updatesecurity.label "Add-on update security checking is disabled. You may be compromised by updates.">
-<!ENTITY warning.updatesecurity.enable.label "Enable">
+<!ENTITY warning.updatesecurity.enable.label "Cumasaigh">
 <!ENTITY warning.updatesecurity.enable.tooltip "Enable add-on update security checking">
 <!-- categories / views -->
 
@@ -29,18 +29,18 @@
 <!ENTITY view.locales.label "Teangacha">
 <!ENTITY view.searchengines.label "Innill Chuardaigh">
 <!ENTITY view.features.label "Eisínteachtaí">
-<!ENTITY view.appearance2.label "Appearance">
+<!ENTITY view.appearance2.label "Cuma">
 <!ENTITY view.plugins.label "Forlíontáin">
 <!ENTITY view.recentUpdates.label "Nuashonruithe Le Déanaí">
 <!ENTITY view.availableUpdates.label "Nuashonruithe Ar Fáil">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label "Check for Updates">
-<!ENTITY updates.checkForUpdates.accesskey "C">
+<!ENTITY updates.checkForUpdates.label "Lorg Nuashonruithe">
+<!ENTITY updates.checkForUpdates.accesskey "L">
 <!ENTITY updates.viewUpdates.label "Féach ar Nuashonruithe Le Déanaí">
 <!ENTITY updates.viewUpdates.accesskey "F">
-<!ENTITY updates.updateAddonsAutomatically.label "Update Add-ons Automatically">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.updateAddonsAutomatically.label "Nuashonraigh Breiseáin go hUathoibríoch">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "B">
 <!ENTITY updates.resetUpdatesToAutomatic.label "Reset All Add-ons to Update Automatically">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
 <!ENTITY updates.resetUpdatesToManual.label "Reset All Add-ons to Update Manually">
@@ -51,18 +51,18 @@
 <!ENTITY updates.restart.label "Atosaigh anois chun an tsuiteáil a chur i gcrích">
 <!ENTITY updates.noneFound.label "Ní bhfuarthas nuashonruithe">
 <!ENTITY updates.manualUpdatesFound.label "Féach ar Nuashonruithe Ar Fáil">
-<!ENTITY updates.updateSelected.label "Install Updates">
-<!ENTITY updates.updateSelected.tooltip "Install available updates in this list">
+<!ENTITY updates.updateSelected.label "Suiteáil Nuashonruithe">
+<!ENTITY updates.updateSelected.tooltip "Suiteáil na nuashonruithe atá ar fáil sa liosta seo">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label "Show More Information">
-<!ENTITY cmd.showDetails.accesskey "S">
-<!ENTITY cmd.findUpdates.label "Find Updates">
-<!ENTITY cmd.findUpdates.accesskey "F">
-<!ENTITY cmd.preferencesWin.label "Options">
-<!ENTITY cmd.preferencesWin.accesskey "O">
-<!ENTITY cmd.preferencesUnix.label "Preferences">
-<!ENTITY cmd.preferencesUnix.accesskey "P">
+<!ENTITY cmd.showDetails.label "Taispeáin Tuilleadh Eolais">
+<!ENTITY cmd.showDetails.accesskey "T">
+<!ENTITY cmd.findUpdates.label "Aimsigh Nuashonruithe">
+<!ENTITY cmd.findUpdates.accesskey "A">
+<!ENTITY cmd.preferencesWin.label "Roghanna">
+<!ENTITY cmd.preferencesWin.accesskey "R">
+<!ENTITY cmd.preferencesUnix.label "Sainroghanna">
+<!ENTITY cmd.preferencesUnix.accesskey "S">
 <!ENTITY cmd.about.label "Maidir Leis">
 <!ENTITY cmd.about.accesskey "M">
 
@@ -79,9 +79,9 @@
 <!ENTITY cmd.uninstallAddon.label "Bain">
 <!ENTITY cmd.uninstallAddon.accesskey "B">
 <!ENTITY cmd.showPreferencesWin.label "Roghanna">
-<!ENTITY cmd.showPreferencesWin.tooltip "Change this add-on's options">
+<!ENTITY cmd.showPreferencesWin.tooltip "Athraigh roghanna an bhreiseáin seo">
 <!ENTITY cmd.showPreferencesUnix.label "Sainroghanna">
-<!ENTITY cmd.showPreferencesUnix.tooltip "Change this add-on's preferences">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Athraigh sainroghanna an bhreiseáin seo">
 <!ENTITY cmd.contribute.label "Glac Páirt">
 <!ENTITY cmd.contribute.accesskey "c">
 <!ENTITY cmd.contribute.tooltip "Glac páirt i bhforbairt an bhreiseáin seo">
@@ -94,42 +94,42 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!ENTITY discover.title "What are Add-ons?">
+<!ENTITY discover.title "Cad is Breiseán ann?">
 <!ENTITY discover.description2 "Add-ons are applications that let you personalize &brandShortName; with
   extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
   your own.">
-<!ENTITY discover.footer "When you're connected to the internet, this pane will feature
-  some of the best and most popular add-ons for you to try out.">
+<!ENTITY discover.footer "Nuair a bhíonn tú ceangailte leis an Idirlíon, taispeántar cuid de 
+na breiseáin is fearr agus is mó éilimh orthu sa phána seo.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label "Leagan">
-<!ENTITY detail.lastupdated.label "Last Updated">
+<!ENTITY detail.lastupdated.label "Nuashonraithe">
 <!ENTITY detail.creator.label "Forbróir">
 <!ENTITY detail.homepage.label "Leathanach Baile">
 <!ENTITY detail.numberOfDownloads.label "Íosluchtú">
 
 <!ENTITY detail.contributions.description "The developer of this add-on asks that you help support its continued development by making a small contribution.">
 
-<!ENTITY detail.updateType "Automatic Updates">
+<!ENTITY detail.updateType "Nuashonruithe Uathoibríocha">
 <!ENTITY detail.updateDefault.label "Réamhshocrú">
-<!ENTITY detail.updateDefault.tooltip "Automatically install updates only if that's the default">
+<!ENTITY detail.updateDefault.tooltip "Suiteáil nuashonruithe go huathoibríoch más é sin an réamhshocrú">
 <!ENTITY detail.updateAutomatic.label "Ann">
-<!ENTITY detail.updateAutomatic.tooltip "Automatically install updates">
+<!ENTITY detail.updateAutomatic.tooltip "Suiteáil nuashonruithe go huathoibríoch">
 <!ENTITY detail.updateManual.label "As">
-<!ENTITY detail.updateManual.tooltip "Don't automatically install updates">
-<!ENTITY detail.home "Homepage">
+<!ENTITY detail.updateManual.tooltip "Ná suiteáil nuashonruithe go huathoibríoch">
+<!ENTITY detail.home "Leathanach Baile">
 <!ENTITY detail.repository "Add-on Profile">
 <!ENTITY detail.size "Méid">
 
-<!ENTITY detail.checkForUpdates.label "Check for Updates">
-<!ENTITY detail.checkForUpdates.accesskey "F">
+<!ENTITY detail.checkForUpdates.label "Lorg Nuashonruithe">
+<!ENTITY detail.checkForUpdates.accesskey "L">
 <!ENTITY detail.checkForUpdates.tooltip "Lorg nuashonruithe le haghaidh an bhreiseáin seo">
-<!ENTITY detail.showPreferencesWin.label "Options">
-<!ENTITY detail.showPreferencesWin.accesskey "O">
-<!ENTITY detail.showPreferencesWin.tooltip "Change this add-on's options">
-<!ENTITY detail.showPreferencesUnix.label "Preferences">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip "Change this add-on's preferences">
+<!ENTITY detail.showPreferencesWin.label "Roghanna">
+<!ENTITY detail.showPreferencesWin.accesskey "R">
+<!ENTITY detail.showPreferencesWin.tooltip "Athraigh roghanna an bhreiseáin seo">
+<!ENTITY detail.showPreferencesUnix.label "Sainroghanna">
+<!ENTITY detail.showPreferencesUnix.accesskey "S">
+<!ENTITY detail.showPreferencesUnix.tooltip "Athraigh sainroghanna an bhreiseáin seo">
 <!-- ratings -->
 
 
@@ -143,12 +143,12 @@
 
 <!ENTITY sort.name.label "Ainm">
 <!ENTITY sort.name.tooltip "Sórtáil de réir ainm">
-<!ENTITY sort.dateUpdated.label "Last Updated">
+<!ENTITY sort.dateUpdated.label "Nuashonruithe">
 <!ENTITY sort.dateUpdated.tooltip "Sórtáil de réir dáta nuashonraithe">
-<!ENTITY sort.relevance.label "Best match">
-<!ENTITY sort.relevance.tooltip "Sort by relevance">
-<!ENTITY sort.price.label "Price">
-<!ENTITY sort.price.tooltip "Sort by price">
+<!ENTITY sort.relevance.label "Is comhoiriúnaí">
+<!ENTITY sort.relevance.tooltip "Sórtáil de réir ábharthachta">
+<!ENTITY sort.price.label "Praghas">
+<!ENTITY sort.price.tooltip "Sórtáil de réir praghais">
 
 <!ENTITY search.filter2.label "Cuardaigh:">
 <!ENTITY search.filter2.installed.label "Mo Chuid Bhreiseán">
@@ -169,17 +169,17 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix "Nuashonrú">
-<!ENTITY addon.undoAction.label "Undo">
+<!ENTITY addon.undoAction.label "Cealaigh">
 <!ENTITY addon.undoAction.tooltip "Cealaigh an gníomh seo">
-<!ENTITY addon.undoRemove.label "Undo">
+<!ENTITY addon.undoRemove.label "Cealaigh">
 <!ENTITY addon.undoRemove.tooltip "Coinnigh an breiseán seo suiteáilte">
 <!ENTITY addon.restartNow.label "Atosaigh anois">
 <!ENTITY addon.install.label "Suiteáil">
 <!ENTITY addon.install.tooltip "Suiteáil an breiseán seo">
 <!ENTITY addon.updateNow.label "Nuashonraigh Anois">
 <!ENTITY addon.updateNow.tooltip "Suiteáil an nuashonrú don bhreiseán seo">
-<!ENTITY addon.includeUpdate.label "Include in Update">
-<!ENTITY addon.updateAvailable.label "An update is available">
+<!ENTITY addon.includeUpdate.label "Cuir san áireamh sa nuashonrú">
+<!ENTITY addon.updateAvailable.label "Tá nuashonrú ar fáil">
 <!ENTITY addon.checkingForUpdates.label "Nuashonruithe á lorg…">
 <!ENTITY addon.releaseNotes.label "Nótaí Eisiúna:">
 <!ENTITY addon.loadingReleaseNotes.label "Á Luchtú…">

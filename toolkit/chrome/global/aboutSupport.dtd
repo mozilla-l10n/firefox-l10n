@@ -15,7 +15,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Comhadlann Phróifíle">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Forlíontáin Chumasaithe">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cumraíocht Tógála">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsUserAgent "Gníomhaire Úsáideora">
 
 <!ENTITY aboutSupport.show.label "Oscail an Fillteán ina bhfuil sé">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
