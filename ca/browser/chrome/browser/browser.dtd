@@ -508,10 +508,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                      "Fet">
 <!ENTITY editBookmark.cancel.label                   "Canceŀla">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
-<!ENTITY editBookmark.undo.label                     "Desfés">
-<!ENTITY editBookmark.undo.accessKey                 "D">
-<!ENTITY editBookmark.edit.label                     "Edita…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "El lloc web no proporciona cap informació d'identitat.">
 <!ENTITY identity.connectedTo "Esteu connectat a">
