@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label "Leabharmharcanna">
 <!ENTITY bookmarksMenuButton.tooltip "Taispeáin do leabharmharcanna">
+<!ENTITY bookmarksMenuButton.unsorted.label "Leabharmharcanna Gan Sórtáil">
 <!ENTITY viewBookmarksSidebar.label "Taispeáin sa Bharra Taoibh">
 <!ENTITY viewBookmarksToolbar.label "Féach ar Bharra Leabharmharc">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -218,7 +219,7 @@ can reach it easily. -->
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Cealaigh">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "C">
+<!ENTITY undoCmd.accesskey "l">
 <!ENTITY redoCmd.label "Athfheidhmigh">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "f">
@@ -514,10 +515,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label "Déanta">
 <!ENTITY editBookmark.cancel.label "Cealaigh">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
-<!ENTITY editBookmark.undo.label "Cealaigh">
-<!ENTITY editBookmark.undo.accessKey "C">
-<!ENTITY editBookmark.edit.label "Eagar…">
-<!ENTITY editBookmark.edit.accessKey "E">
 
 <!ENTITY identity.unverifiedsite2 "Ní sholáthraíonn an suíomh seo faisnéis maidir lena aitheantas.">
 <!ENTITY identity.connectedTo "Tá tú ceangailte le">
