@@ -518,10 +518,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                      "Listo">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
-<!ENTITY editBookmark.undo.label                     "Deshacer">
-<!ENTITY editBookmark.undo.accessKey                 "D">
-<!ENTITY editBookmark.edit.label                     "Editar…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "Este sitio web no provee información de identidad.">
 <!ENTITY identity.connectedTo "Está conectado a">
