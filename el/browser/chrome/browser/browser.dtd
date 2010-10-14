@@ -284,10 +284,6 @@
 
 <!ENTITY editBookmark.cancel.label                   "Ακύρωση">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ρ">
-<!ENTITY editBookmark.undo.label                     "Αναίρεση">
-<!ENTITY editBookmark.undo.accessKey                 "ν">
-<!ENTITY editBookmark.edit.label                     "Επεξεργασία…">
-<!ENTITY editBookmark.edit.accessKey                 "Ε">
 
 
 <!ENTITY identity.connectedTo "Έχετε συνδεθεί σε">
