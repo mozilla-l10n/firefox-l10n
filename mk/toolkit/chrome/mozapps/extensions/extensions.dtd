@@ -38,13 +38,13 @@
 <!ENTITY updates.checkForUpdates.label "Провери за надградби">
 <!ENTITY updates.checkForUpdates.accesskey "П">
 <!ENTITY updates.viewUpdates.label "Прегледај неодамнешни надградби">
-<!ENTITY updates.viewUpdates.accesskey "V">
+<!ENTITY updates.viewUpdates.accesskey "н">
 <!ENTITY updates.updateAddonsAutomatically.label "Автоматски надградувај ги додатоците">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "А">
 <!ENTITY updates.resetUpdatesToAutomatic.label "Постави сите додатоци да се надградуваат автоматски">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey "П">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "с">
 <!ENTITY updates.resetUpdatesToManual.label "Постави сите додатоци да се надградуваат рачно">
-<!ENTITY updates.resetUpdatesToManual.accesskey "П">
+<!ENTITY updates.resetUpdatesToManual.accesskey "с">
 <!ENTITY updates.updating.label "Надградување на додатоци">
 <!ENTITY updates.installed.label "Вашиот додаток е надграден">
 <!ENTITY updates.downloaded.label "Вашите надградби за додатоци се преземени">
