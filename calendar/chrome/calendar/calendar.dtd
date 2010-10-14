@@ -148,6 +148,16 @@
 <!ENTITY calendar.task.filter.open.label            "Tugas yang Tidak Selesai">
 <!ENTITY calendar.task.filter.open.accesskey        "i">
 
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Tugas Saat Ini">
+<!ENTITY calendar.task.filter.current.accesskey     "u">
+<!ENTITY calendar.task.filter.repeating.label       "Tugas Berulang">
+<!ENTITY calendar.task.filter.repeating.accesskey   "B">
+
 <!ENTITY calendar.task-details.title.label           "Judul:">
 <!ENTITY calendar.task-details.organizer.label       "Dari:">
 <!ENTITY calendar.task-details.priority.label        "Prioritas:">
