@@ -518,10 +518,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label "Dokončit">
 <!ENTITY editBookmark.cancel.label "Zrušit">
 <!ENTITY editBookmark.removeBookmark.accessKey "S">
-<!ENTITY editBookmark.undo.label "Zpět">
-<!ENTITY editBookmark.undo.accessKey "Z">
-<!ENTITY editBookmark.edit.label "Upravit…">
-<!ENTITY editBookmark.edit.accessKey "U">
 
 <!ENTITY identity.unverifiedsite2 "Tato stránka neposkytuje informace o své identitě.">
 <!ENTITY identity.connectedTo "Jste připojeni k serveru">
