@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Vastuse päised">
 <!ENTITY networkPanel.responseBody                "Vastuse sisu">
 <!ENTITY networkPanel.responseBodyCached          "Puhverdatud andmed">
+<!ENTITY networkPanel.responseBodyUnknownType     "Tundmatu sisu tüüp">
 <!ENTITY networkPanel.responseNoBody              "Vastuse sisu puudub">
 <!ENTITY networkPanel.responseImage               "Vastuvõetud pildid">
 <!ENTITY networkPanel.responseImageCached         "Puhverdatud pildid">
