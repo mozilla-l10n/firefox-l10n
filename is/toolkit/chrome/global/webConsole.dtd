@@ -8,6 +8,7 @@
 <!ENTITY networkPanel.responseHeaders "Svarhausar">
 <!ENTITY networkPanel.responseBody "Svar">
 <!ENTITY networkPanel.responseBodyCached "Gögn í flýtiminni">
+<!ENTITY networkPanel.responseBodyUnknownType "Óþekkt tegund">
 <!ENTITY networkPanel.responseNoBody "Ekkert svar">
 <!ENTITY networkPanel.responseImage "Móttekin mynd">
 <!ENTITY networkPanel.responseImageCached "Mynd í flýtiminni">
