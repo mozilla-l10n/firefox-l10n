@@ -471,10 +471,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label "Gatavs">
 <!ENTITY editBookmark.cancel.label "Atcelt">
 <!ENTITY editBookmark.removeBookmark.accessKey "Z">
-<!ENTITY editBookmark.undo.label "Atsaukt">
-<!ENTITY editBookmark.undo.accessKey "U">
-<!ENTITY editBookmark.edit.label "Rediģēt...">
-<!ENTITY editBookmark.edit.accessKey "E">
 
 <!ENTITY identity.unverifiedsite2 "Šī mājas lapa neatbalsta identitātes informāciju.">
 <!ENTITY identity.connectedTo "Jūs esat pieslēdzies">

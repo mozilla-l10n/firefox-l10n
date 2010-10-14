@@ -13,3 +13,4 @@
 <!ENTITY networkPanel.responseNoBody              "Atbildes galvenās daļas nav">
 <!ENTITY networkPanel.responseImage               "Saņemtie attēli">
 <!ENTITY networkPanel.responseImageCached         "Attēli kešatmiņā">
+<!ENTITY networkPanel.responseBodyUnknownType     "Nezināms satura tips">
