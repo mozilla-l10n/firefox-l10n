@@ -121,12 +121,12 @@
    ">
 
 <!ENTITY proxyConnectFailure.title "Պռոքսի սերվերը մերժում է ընդունել կապը">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
+<!ENTITY proxyConnectFailure.longDesc "<ul>
+  <li>Ստուգեք պրոքսի կարգավորումները նրանց ստույգության մեջ համոզվելու համար:</li>
+  <li>Կապվեք ձեր ցանցի ադմինիստրատորի հետ համոզվելու համար, որ պրոքսի սպասարկիչը աշխատում է:</li>
 </ul>
+         
+
 ">
 
 <!ENTITY proxyResolveFailure.title "Չի ստացվում գտնել պռոքսի սերվեր:">
@@ -152,22 +152,15 @@
          ">
 
 <!ENTITY nssFailure2.title "Չհաջողվեց կատարել Պաշտպանված Միացում">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc "<ul>
+  <li>Ձեր փնտրվող  էջը հնարավոր չէ ցույց տալ,քանի որ ստացված տեղեկությունների վավերականությունը չի հաստատվել:</li>
+  <li>Այս խնդրի մասին տեղեկացնելու համար, խնդրում ենք, կապվեք վեբ կայքի սեփականատերերի հետ:Այլ տարբերակ է` օգնող մենյուում գտնվող հրամանից օգտվելը այս ջարդված կայքի մասին տեղեկացնելու համար:</ul> ">
 
 <!ENTITY nssBadCert.title "Չհաջողվեց կատարել Պաշտպանված Միացում">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
-</ul>
-">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+  <li>Այս խնդիրը կարող է կապված լինել սպասարկիչի կոնֆիգուրացիայի հետ, կամ հնարավոր է, որ որևէ մեկը փորձում է որպես սպասարկիչ հանդես գալ:</li>
+  <li>Եթե դուք միացել եք այս սպասարկիչին հաջողությամբ անցյալում,սխալը կարող է ժամանակավոր բնույթ կրել, և դուք կարող եք կրկին փորձել ավելի ուշ:</li>
+</ul>">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -182,13 +175,11 @@ be temporary, and you can try again later.</li>
 <p>Վեբ կայքի սեփականատերերը, ովքեր կարծում են որ իրենց կայքը սխալմամբ հայտարարվել է որպես հարձակվող կայք, կարող են <a href='http://www.stopbadware.org/home/reviewinfo' >պահանջել վերանայում</a>:</p>">
 
 <!ENTITY phishingBlocked.title "Այս կայքը կասկածվում է խաբեբայության մեջ!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.longDesc "<p>Այս էջում որևէ անձնական տեղեկատվություն մուտքագրելը կարող է հանգել անձնական տվյալների գողության կամ այլ կեղծիքի:</p>
+<p>Այս կարգի վեբ կեղծիքները օգտագործվում են խաբեությունների մեջ,որոնք հայտնի են որպես ֆիշինգ հարձակումներ,որոնց ժամանակ կեղծ վեբ էջեր կամ էլեկտրոնային փոստեր են օգտագործվում նմանակելու համար այնպիսի աղբյուրներ, որոնց դուք կարող եք վստահել:</p>   ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Արգելափակվել է Կոնտենտի Անվտանգության Քաղաքականության կողմից">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;­­-ը խոչնդոտեց այս էջի բեռնավորումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է նման բեռնավորումը</p>">
 
 <!ENTITY securityOverride.linkText "Կամ դուք կարող էք ավելացնել բացառություն…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Դուրս բեր ինձ այստեղից!">
