@@ -94,6 +94,8 @@
 <!ENTITY contextShareImage.label      "分享圖片">
 <!ENTITY contextSaveVideo.label       "儲存視訊檔案">
 <!ENTITY contextShareVideo.label      "分享影片">
+<!ENTITY contextPlayMedia.label       "播放">
+<!ENTITY contextPauseMedia.label      "暫停">
 <!ENTITY contextEditBookmark.label    "編輯">
 <!ENTITY contextRemoveBookmark.label  "移除">
 
