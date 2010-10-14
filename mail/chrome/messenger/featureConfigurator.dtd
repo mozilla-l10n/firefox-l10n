@@ -54,7 +54,7 @@
 <!ENTITY featureConfigurator.folderColumns.install "Pasang Pengaya Kolom Ekstra…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
-<!ENTITY featureConfigurator.autoSync.heading "Ruang Disk &amp; Sinkronisasi">
+<!ENTITY featureConfigurator.autoSync.heading "Ruang Disk">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
 <!ENTITY featureConfigurator.autoSync.para "Versi baru &brandShortName; ini tersedia dengan fitur pencarian yang baru dan lebih baik. Untuk menggunakannya, Anda harus menyinkronisasikan pesan email Anda.">
