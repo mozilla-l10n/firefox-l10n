@@ -18,6 +18,8 @@ mukiseera ekigere ebizza obugya ebipya.">
  lukusa lweetagisa kubitekamu. Bambi tuukirira akulira ebyuuma 
  oba ddamu ogezeeko nga okozeesa 
  akaawunta erina olukusa okubiteekako.">
+<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
 <!ENTITY  manualUpdateGetMsg.label        "Osobola bulijjo okufuna ebikka bya &brandShortName; ku:">
 
 <!ENTITY  incompatibleCheck.title         "Kebera enkwanagana y'ebyokozesa">
