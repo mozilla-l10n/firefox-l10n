@@ -10,7 +10,7 @@ baseMenuOverlay.dtd -->
 <!ENTITY featureConfigurator.para.1 "Cette nouvelle version de &brandShortName; inclut des nouvelles fonctionnalités dont nous sommes fiers, et nous pensons que vous les aimerez aussi. Les goûts et les besoins varient, aussi nous vous avons facilité le contrôle et la personnalisation de &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para.2 "Utilisez cette page pour configurer ces nouvelles fonctionnalités. Vous pouvez toujours revenir à l'assistant à la migration depuis le menu «&nbsp;Aide&nbsp;».">
+<!ENTITY featureConfigurator.para.2 "Utilisez cette page pour configurer ces nouvelles fonctionnalités. Vous pouvez toujours revenir à l'assistant à la migration depuis le menu «&#x00A0;Aide&#x00A0;».">
 
 <!ENTITY featureConfigurator.toolbar.heading "Barre d'outils de nouveau message">
 <!ENTITY featureConfigurator.toolbar.new "Barre d'outils des boutons de message">
@@ -35,10 +35,10 @@ baseMenuOverlay.dtd -->
 <!ENTITY featureConfigurator.collapsedHeaders.heading "En-tête compact">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.weak): The paragraph to display if the user hadn't previously used the collapsed headers feature. -->
-<!ENTITY featureConfigurator.collapsedHeaders.para.weak "La vue «&nbsp;En-tête compact&nbsp;» a été déplacée dans sa propre extension où elle a à présent plus d'attention et d'options.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "La vue «&#x00A0;En-tête compact&#x00A0;» a été déplacée dans sa propre extension où elle a à présent plus d'attention et d'options.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
-<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Nous avons remarqué que vous utilisiez la vue «&nbsp;En-tête compact&nbsp;». Cette fonction a été déplacée dans sa propre extension et nous vous recommandons de l'installer ici si vous voulez continuer à l'utiliser.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Nous avons remarqué que vous utilisiez la vue «&#x00A0;En-tête compact&#x00A0;». Cette fonction a été déplacée dans sa propre extension et nous vous recommandons de l'installer ici si vous voulez continuer à l'utiliser.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
 <!ENTITY featureConfigurator.collapsedHeaders.install "Installer Compact Header…">
@@ -74,16 +74,16 @@ baseMenuOverlay.dtd -->
 <!ENTITY featureConfigurator.autoSync.some.explanation "Personnalisation de vos besoins de synchronisation par compte et par dossier.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
-<!ENTITY featureConfigurator.diskSpace.currentSize "Espace disque total utilisé&nbsp;:">
+<!ENTITY featureConfigurator.diskSpace.currentSize "Espace disque total utilisé&#x00A0;:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.freeSpace): The label for the current amount of free space available on your hard disk. -->
-<!ENTITY featureConfigurator.diskSpace.freeSpace "Espace disque libre&nbsp;:">
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Espace disque libre&#x00A0;:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
-<!ENTITY featureConfigurator.diskSpace.requireSpace "Espace nécessaire&nbsp;:">
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Espace nécessaire&#x00A0;:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
-<!ENTITY featureConfigurator.diskSpace.warning "Espace disque disponible faible&nbsp;!">
+<!ENTITY featureConfigurator.diskSpace.warning "Espace disque disponible faible&#x00A0;!">
 
 <!ENTITY featureConfigurator.previousButton "Précédent">
 <!ENTITY featureConfigurator.nextButton "Suivant">
