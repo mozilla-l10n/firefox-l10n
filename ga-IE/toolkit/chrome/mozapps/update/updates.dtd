@@ -13,6 +13,8 @@
 
 <!ENTITY manualUpdate.title "Ní féidir nuashonrú">
 <!ENTITY manualUpdate.desc "Tá nuashonrú molta slándála agus cobhsaíochta ar fáil, ach níl cead agat é a shuiteáil. Téigh i dteagmháil le riarthóir do chórais, nó déan iarracht eile ó chuntas le cead suiteála bogearraí ar an ríomhaire seo.">
+<!ENTITY manualUpdate.space.desc "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
 <!ENTITY manualUpdateGetMsg.label "Tá an leagan is déanaí de &brandShortName; ar fáil i gcónaí ó:">
 
 <!ENTITY incompatibleCheck.title "Comhoiriúnacht na mBreiseán á Seiceáil">
