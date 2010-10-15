@@ -92,7 +92,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Zaustavi učitavanje stranice">
 <!ENTITY goEndCap.tooltip             "Idi na adresu iz lokacijske trake">
-<!ENTITY feedButton.tooltip           "Predbilježi se na ovu stranicu…">
+<!ENTITY feedButton.tooltip           "Pretplati se na ovu stranicu…">
 <!ENTITY printButton.label            "Ispis">
 <!ENTITY printButton.tooltip          "Ispiši ovu stranicu">
 
@@ -450,3 +450,119 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Kliknite za otvaranje prozora preuzimanja">
 
 <!ENTITY allTabs.filter.emptyText "Kartice pretraživanja">
+
+
+
+
+<!ENTITY tabsToolbar.label "Kartice preglednika">
+
+<!ENTITY addonBarCmd.label "Traka dodataka">
+<!ENTITY addonBarCmd.accesskey "d">
+
+<!ENTITY addons.commandkey            "a">
+
+<!ENTITY appMenuButton.label          "Izbornik">
+<!ENTITY appMenuButton.tooltip        "Otvori &brandShortName; izbornik">
+
+<!ENTITY appMenuEdit.label "Uredi">
+<!ENTITY appMenuCustomize.label "Prilagodi">
+<!ENTITY appMenuToolbarLayout.label "Raspored alatne trake…">
+<!ENTITY appMenuSidebars.label "Bočne trake">
+<!ENTITY appMenuFind.label "Traži…">
+<!ENTITY appMenuUnsorted.label "Neorganizirane zabilješke">
+<!ENTITY appMenuWebDeveloper.label "Web razvijatelj">
+<!ENTITY appMenuGettingStarted.label "Upoznavanje">
+<!ENTITY appMenuSafeMode.label "Ponovno pokreni s isključenim dodacima…">
+<!ENTITY appMenuSafeMode.accesskey "R">
+
+<!ENTITY backForwardItem.title        "Natrag/Naprijed">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  bookmarkAllTabs.label              "Zabilješi sve kartice…">
+<!ENTITY bookmarksMenuButton.label          "Zabilješke">
+<!ENTITY bookmarksMenuButton.tooltip        "Prikazuje sve zabilješke">
+<!ENTITY bookmarksMenuButton.unsorted.label "Neorganizirane zabilješke">
+<!ENTITY clearRecentHistory.accesskey           "v">
+<!ENTITY clearRecentHistory.label               "Obriši nedavnu povijest…">
+
+<!ENTITY  closeOtherTabs.label               "Zatvori ostale kartice">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  closeTab.label                     "Zatvori karticu">
+<!ENTITY  closeTab.accesskey                 "c">
+
+<!ENTITY feedButton.label             "Pretplata">
+
+<!ENTITY historyRestoreLastSession.label "Vrati prijašnju sesiju">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Ispitaj">
+<!ENTITY inspectButton.accesskey      "I">
+
+<!ENTITY inspectMenu.label            "Ispitivanje">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY inspectPreviousButton.label  "Prethodno">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectNextButton.label      "Iduće">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Stil">
+<!ENTITY inspectObjectButton.label       "Objekt">
+<!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY  listAllTabs.label      "Popis svih tabova">
+<!ENTITY  moveToGroup.accesskey              "m">
+<!ENTITY  moveToGroup.label                  "Premjesti u grupu">
+<!ENTITY  moveToNewGroup.label               "Nova grupa">
+<!ENTITY  moveToNewWindow.accesskey          "z">
+<!ENTITY  moveToNewWindow.label              "Premjesti u novi prozor">
+<!ENTITY  pinAppTab.label                    "Zakači kao App karticu">
+<!ENTITY  pinAppTab.accesskey                "k">
+<!ENTITY  unpinAppTab.label                  "Otkači karticu">
+<!ENTITY  unpinAppTab.accesskey              "O">
+<!ENTITY  reloadAllTabs.label                "Osvježi sve kartice">
+<!ENTITY  reloadAllTabs.accesskey            "v">
+<!ENTITY  reloadTab.label                    "Osvježi karticu">
+<!ENTITY  reloadTab.accesskey                "v">
+<!ENTITY openLinkCmdInCurrent.label     "Otvori poveznicu">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY  undoCloseTab.label                 "Poništi zatvaranje kartice">
+<!ENTITY  undoCloseTab.accesskey             "P">
+
+
+<!ENTITY showAllBookmarks.label "Prikaži sve zabilješke…">
+
+<!ENTITY syncTabsMenu.label     "Kartice s ostalih računala">
+
+<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncSetup.label              "Podesi &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "Sinkroniziraj sada">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sinkroniziraj">
+
+<!ENTITY tabGroupsButton.label        "Grupe kartica">
+<!ENTITY tabGroupsButton.tooltip      "Grupirajte kartice">
+
+<!ENTITY tabView.commandkey           "e">
+<!ENTITY viewTabGroups.label            "Grupe kartica">
+<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabsOnTop.label            "Kartice na vrhu">
+<!ENTITY viewTabsOnTop.accesskey        "t">
+
+<!ENTITY webConsoleCmd.label          "Web konzola">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY zoomOutButton.tooltip          "Uvećaj">
+<!ENTITY zoomInButton.tooltip           "Umanji">
+<!ENTITY zoomControls.label             "Zumiranje">
+
+<!ENTITY urlbar.placeholder           "Idi na web stranicu">
+<!ENTITY urlbar.switchToTab.label     "Prebaci na karticu:">
+
+<!ENTITY videoFullScreen.label       "Cijeli zaslon">
+<!ENTITY videoFullScreen.accesskey   "C">
+
+<!ENTITY viewBookmarksSidebar.label         "Prikaži na bočnoj traci">
+<!ENTITY viewBookmarksToolbar.label         "Prikaži traku zabilješki">

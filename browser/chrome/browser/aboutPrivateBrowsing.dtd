@@ -20,3 +20,6 @@
 
 <!ENTITY privatebrowsingpage.moreInfo                  "I dok ovo računalo neće imati zapise o vašem pretraživanju, vaš pružatelj internet usluga ili poslodavac još uvijek mogu pratiti stranice koje posječujete.">
 <!ENTITY privatebrowsingpage.learnMore                 "Saznaj više">
+
+<!ENTITY privatebrowsingpage.howToStop2                "Za prekidanje Privatnog pretraživanje, odaberite &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, ili zatvorite &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Za početak Privatnog pretraživanja, možete odabrati &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">

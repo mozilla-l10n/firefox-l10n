@@ -43,3 +43,12 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Prikaži sve">
+
+<!ENTITY aboutProduct.accesskey   "O">
+<!ENTITY aboutProduct.label       "O &brandShortName;">
+<!ENTITY helpFeedbackPage.accesskey  "e">
+<!ENTITY helpFeedbackPage.label      "Pošalji povratne informacije…">
+<!ENTITY helpSafeMode.accesskey   "v">
+<!ENTITY helpSafeMode.label       "Ponovno pokreni s isključenim dodacima…">
+<!ENTITY helpTroubleshootingInfo.accesskey  "R">
+<!ENTITY helpTroubleshootingInfo.label      "Rješavanje problema">
