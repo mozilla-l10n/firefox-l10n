@@ -3,55 +3,54 @@
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
 <!ENTITY  pref.fonts.title                        "字体">
 
-<!ENTITY  language.label                          "字体，对：">
+<!ENTITY  language.label                          "针对 (t)：">
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  typefaces.label                         "字型">
-<!ENTITY  sizes.label                             "大小（象素）">
+<!ENTITY  sizes.label                             "大小（像素）">
 
-<!ENTITY  proportional.label                      "比例数：">
+<!ENTITY  proportional.label                      "比例字体：">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "加线：">
+<!ENTITY  serif.label                             "衬线字体：">
 <!ENTITY  serif.accesskey                         "s">
-<!ENTITY  sans-serif.label                        "灯芯体：">
+<!ENTITY  sans-serif.label                        "无衬线字体：">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "等宽字型：      ">
+<!ENTITY  monospace.label                         "等宽字体：">
 <!ENTITY  monospace.accesskey                     "m">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
-<!ENTITY  fantasy.label                           "华丽：">
+<!ENTITY  fantasy.label                           "梦幻： ">
 <!ENTITY  fantasy.accesskey                       "f">
-<!ENTITY  cursive.label                           "草写体：">
+<!ENTITY  cursive.label                           "手写体：">
 <!ENTITY  cursive.accesskey                       "c">
 
-<!ENTITY  font.langGroup.latin1                   "西方字体">
-<!ENTITY  font.langGroup.latin2                   "中欧字体">
-<!ENTITY  font.langGroup.japanese                 "日本语">
-<!ENTITY  font.langGroup.trad-chinese             "繁体字（台湾）">
-<!ENTITY  font.langGroup.simpl-chinese            "简体字">
-<!ENTITY  font.langGroup.trad-chinese-hk          "繁体字（香港）">
-<!ENTITY  font.langGroup.korean                   "Korean字体">
-<!ENTITY  font.langGroup.cyrillic                 "Cyrillic字体">
-<!ENTITY  font.langGroup.baltic                   "波罗的海字体">
-<!ENTITY  font.langGroup.el                       "希腊字体">
-<!ENTITY  font.langGroup.turkish                  "土耳其字体">
-<!ENTITY  font.langGroup.unicode                  "其他字体">
-<!ENTITY  font.langGroup.user-def                 "用户设定">
-<!ENTITY  font.langGroup.thai                     "太泰国字体">
-<!ENTITY  font.langGroup.hebrew                   "希伯来字体">
-<!ENTITY  font.langGroup.arabic                   "阿拉伯字体">
-<!ENTITY  font.langGroup.devanagari               "梵文字体">
-<!ENTITY  font.langGroup.tamil                    "泰米尔字体">
-<!ENTITY  font.langGroup.armenian                 "亚美尼亚字体">
-<!ENTITY  font.langGroup.bengali                  "孟加拉字体">
-<!ENTITY  font.langGroup.canadian                 "加拿大标准音节">
-<!ENTITY  font.langGroup.ethiopic                 "埃塞俄比亚字体
-">
-<!ENTITY  font.langGroup.georgian                 "格鲁吉亚字体">
-<!ENTITY  font.langGroup.gujarati                 "古吉拉特字体">
-<!ENTITY  font.langGroup.gurmukhi                 "果鲁穆奇字体">
+<!ENTITY  font.langGroup.latin1                   "西欧">
+<!ENTITY  font.langGroup.latin2                   "中欧">
+<!ENTITY  font.langGroup.japanese                 "日文">
+<!ENTITY  font.langGroup.trad-chinese             "正体中文（台澎金马）">
+<!ENTITY  font.langGroup.simpl-chinese            "简体中文">
+<!ENTITY  font.langGroup.trad-chinese-hk          "繁体中文（香港澳门）">
+<!ENTITY  font.langGroup.korean                   "谚文（朝鲜语）">
+<!ENTITY  font.langGroup.cyrillic                 "西里尔文">
+<!ENTITY  font.langGroup.baltic                   "衍生拉丁字母（波罗的语族）">
+<!ENTITY  font.langGroup.el                       "希腊文">
+<!ENTITY  font.langGroup.turkish                  "拉丁土耳其文">
+<!ENTITY  font.langGroup.unicode                  "其他 Unicode 区块">
+<!ENTITY  font.langGroup.user-def                 "私人使用区（PUA）">
+<!ENTITY  font.langGroup.thai                     "泰文">
+<!ENTITY  font.langGroup.hebrew                   "希伯来文">
+<!ENTITY  font.langGroup.arabic                   "阿拉伯文">
+<!ENTITY  font.langGroup.devanagari               "天城文（印地语、现代梵语）">
+<!ENTITY  font.langGroup.tamil                    "泰米尔文">
+<!ENTITY  font.langGroup.armenian                 "亚美尼亚字母">
+<!ENTITY  font.langGroup.bengali                  "孟加拉文">
+<!ENTITY  font.langGroup.canadian                 "统一加拿大土著文字">
+<!ENTITY  font.langGroup.ethiopic                 "吉兹字母（埃塞俄比亚诸语）">
+<!ENTITY  font.langGroup.georgian                 "格鲁吉亚字母">
+<!ENTITY  font.langGroup.gujarati                 "古吉拉特文">
+<!ENTITY  font.langGroup.gurmukhi                 "古木基文">
 <!ENTITY  font.langGroup.khmer                    "高绵文">
-<!ENTITY  font.langGroup.malayalam                "马拉亚拉姆字体">
+<!ENTITY  font.langGroup.malayalam                "马拉雅拉姆文">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "最小字体大小：">
 <!ENTITY minSize.accesskey                        "z">

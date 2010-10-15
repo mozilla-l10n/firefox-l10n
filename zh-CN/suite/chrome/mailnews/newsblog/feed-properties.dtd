@@ -12,7 +12,7 @@
 <!ENTITY quickMode.label          "显示文章概述而不载入全部网页。">
 <!ENTITY quickMode.accesskey      "h">
 
-<!ENTITY copyLinkCmd.label        "复制连接地址">
+<!ENTITY copyLinkCmd.label        "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY pasteLinkCmd.label       "粘贴">

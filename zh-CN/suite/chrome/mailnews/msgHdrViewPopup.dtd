@@ -44,7 +44,7 @@
 <!ENTITY CopyEmailAddress.accesskey        "C">
 <!ENTITY CreateFilterFrom.label            "创建过滤器，从…">
 <!ENTITY CreateFilterFrom.accesskey        "F">
-<!ENTITY copyLinkCmd.label                 "复制连接地址">
+<!ENTITY copyLinkCmd.label                 "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "复制 消息-ID">
 <!ENTITY OpenMessageForMsgId.label         "打开消息 ID 为">

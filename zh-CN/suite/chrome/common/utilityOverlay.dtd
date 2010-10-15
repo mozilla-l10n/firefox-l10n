@@ -36,6 +36,8 @@
 <!ENTITY pasteCmd.label						"粘贴">  
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY pasteGoCmd.label					"粘贴并转到">
+<!ENTITY pasteGoCmd.accesskey				"G">
 <!ENTITY deleteCmd.label					"删除">  
 <!ENTITY deleteCmd.accesskey				"d"> 
 <!ENTITY selectAllCmd.label					"选择全部">  

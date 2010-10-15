@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "浏览器标签">
+<!ENTITY tabCmd.label "浏览器标签页 (T)">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "打开网站地址…">
@@ -43,13 +43,13 @@
 <!ENTITY viewMenu.label "查看">
 <!ENTITY viewMenu.accesskey "v">
 
-<!ENTITY toolbarsCmd.label "显示/隐藏">
+<!ENTITY toolbarsCmd.label "显示／隐藏 (w)">
 <!ENTITY toolbarsCmd.accesskey "w">
 <!ENTITY navbarCmd.label "导航工具栏">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "个人工具栏">
 <!ENTITY personalbarCmd.accesskey "p">
-<!ENTITY tabbarCmd.label "标签栏">
+<!ENTITY tabbarCmd.label "标签页栏 (T)">
 <!ENTITY tabbarCmd.accesskey "T">
 <!ENTITY taskbarCmd.label "状态栏">
 <!ENTITY taskbarCmd.accesskey "S">
@@ -64,7 +64,7 @@
 <!ENTITY useStyleSheetPersistentOnly.accesskey "d">
 <!ENTITY pageSourceCmd.label "页面源代码">
 <!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "l">
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "页面信息">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -97,7 +97,7 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findPrevCmd.commandkey2 "VK_F3">
 
-<!ENTITY searchInternetCmd.label "搜索Web">
+<!ENTITY searchInternetCmd.label "搜索互联网 (S)">
 <!ENTITY searchInternetCmd.accesskey "S">
 <!ENTITY searchInternet.commandKey "s">
 
