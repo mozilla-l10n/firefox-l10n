@@ -515,10 +515,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Klaar">
 <!ENTITY editBookmark.cancel.label                   "Annuleren">
 <!ENTITY editBookmark.removeBookmark.accessKey       "v">
-<!ENTITY editBookmark.undo.label                     "Ongedaan maken">
-<!ENTITY editBookmark.undo.accessKey                 "O">
-<!ENTITY editBookmark.edit.label                     "Bewerken…">
-<!ENTITY editBookmark.edit.accessKey                 "B">
 
 <!ENTITY identity.unverifiedsite2 "Deze website verstrekt geen identiteitsinformatie.">
 <!ENTITY identity.connectedTo "U bent verbonden met">
