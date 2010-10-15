@@ -33,14 +33,20 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label  "Eingabe der Passphrase">
-<!ENTITY passphraseDesc.label         "Bitte geben Sie eine Passphrase ein. Diese wird zur Verschlüsselung Ihrer Daten verwendet und nicht auf dem Server gespeichert. Nur Sie haben die Passphrase mit der die Daten wieder hergestellt werden können, also vergessen bzw. verlieren Sie sie nicht!">
-<!ENTITY passphraseDesc2.label        "Es sind mindestens 12 Zeichen erforderlich, das Account-Passwort darf nicht verwendet werden.">
-<!ENTITY passphraseEntry.label        "Passphrase">
-<!ENTITY passphraseEntry.accesskey    "P">
-<!ENTITY passphraseConfirm.label      "Bestätigen">
-<!ENTITY passphraseConfirm.accesskey  "B">
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; nimmt Ihre Privatsphäre ernst">
+<!ENTITY setup.newSyncKeyPage.description.label "Um den kompletten Schutz Ihrer Daten zu gewährleisten, werden alle Daten verschlüsselt, bevor Sie hochgeladen werden. Der Schlüssel, um Ihre Daten zu entschlüsseln, wird nicht hochgeladen.">
+<!ENTITY syncKeyEntry.label        "Ihr Sync-Schlüssel">
+<!ENTITY syncKeyEntry.accesskey    "S">
+<!ENTITY syncKeyGenerate.label     "Generieren">
+<!ENTITY syncKeyStrength.label     "Stärke:">
+<!ENTITY syncKeyHelp.label         "Was bedeutet die Stärke?">
+<!ENTITY syncKeyBackup.description "Sie benötigen den Sync-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Sync-Schlüssel wieder zu erlangen.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Drucken…">
+<!ENTITY button.syncKeyBackup.print.accesskey "D">
+<!ENTITY button.syncKeyBackup.save.label      "Speichern…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Sync Type Options -->
 <!ENTITY setup.newAccountPrefs2.title.label "Browser-Sync-Einstellungen">
@@ -75,6 +81,12 @@
 <!ENTITY passphraseDesc3.label        "Bitte geben Sie die Passphrase ein. Dies muss die selbe Passphrase sein, die Sie zur Verschlüsselung der Daten verwendet haben.">
 <!ENTITY passphraseHelp.label         "Ihre Passphrase muss mindestens 12 Zeichen lang sein und unterscheidet sich von Ihrem Passwort. Wenn Sie Ihre Passphrase nicht mehr wissen, können Sie auf einem bereits eingerichteten Computer unter Einstellungen/Sicherheit die gespeicherte Passwörter anzeigen lassen. Wenn Sie damit keinen Erfolg haben können Sie die Passphrase zurücksetzen, allerdings verlieren Sie dann alle Ihre auf dem Server gespeicherten Daten.">
 <!ENTITY changePassphrase.label       "Passphrase ändern">
+
+
+<!ENTITY setup.existingSyncKeyPage.title "Bitte geben Sie Ihren Sync-Schlüssel ein">
+<!ENTITY setup.existingSyncKeyPage.description "Bei Ihrer ersten Anmeldung für &syncBrand.fullName.label; wurde Ihr Sync-Schlüssel für Sie generiert oder Sie haben einen eigenen Schlüssel gewählt. Der Sync-Schlüssel ist nicht identisch mit dem Passwort.">
+<!ENTITY existingSyncKeyHelp.description "Wenn Sie Ihren Sync-Schlüssel nicht mehr wissen, können Sie auf einem bereits eingerichteten Computer unter Einstellungen/Sicherheit die gespeicherte Passwörter anzeigen lassen. Wenn Sie damit keinen Erfolg haben können Sie den Sync-Schlüssel zurücksetzen, allerdings verlieren Sie dann alle Ihre auf dem Server gespeicherten Daten.">
+<!ENTITY lostSyncKey.label            "Ich habe meinen Sync-Schlüssel verloren">
 <!ENTITY verifying.label              "Überprüfen…">
 
 <!-- New & Existing Account: Merge Options -->
