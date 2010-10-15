@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "סרגל כלים סימניות">
 <!ENTITY personalbarCmd.accesskey "ס">
 <!ENTITY bookmarksToolbarItem.label "פריטי סרגל כלים סימניות">
-<!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "שורת ההרחבות">
+<!ENTITY addonBarCmd.accesskey "ש">
 
 <!ENTITY pageSourceCmd.label "מקור הדף">
 <!ENTITY pageSourceCmd.accesskey "ר">
@@ -133,7 +133,7 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "תפריט">
-<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY appMenuButton.tooltip        "פתח את התפריט של &brandShortName;">
 <!ENTITY homeButton.label             "דף הבית">
 
 <!ENTITY tabGroupsButton.label        "קבוצות לשוניות">
@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "סימניות">
 <!ENTITY bookmarksMenuButton.tooltip        "הצגת הסימניות שלך">
+<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
 <!ENTITY viewBookmarksSidebar.label         "הצג בסרגל הצד">
 <!ENTITY viewBookmarksToolbar.label         "הצג סרגל סימניות">
 
@@ -284,8 +285,8 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "סימניות לא ממויינות">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "התחל כאן">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuSafeMode.label "אתחל עם תוספות מנוטרלות…">
+<!ENTITY appMenuSafeMode.accesskey "א">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "עבור לאתר">
@@ -513,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "סיום">
 <!ENTITY editBookmark.cancel.label                   "ביטול">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ה">
-<!ENTITY editBookmark.undo.label                     "ביטול">
-<!ENTITY editBookmark.undo.accessKey                 "ב">
-<!ENTITY editBookmark.edit.label                     "ערוך…">
-<!ENTITY editBookmark.edit.accessKey                 "ע">
 
 <!ENTITY identity.unverifiedsite2 "אתר זה לא מספק מידע זיהוי">
 <!ENTITY identity.connectedTo "אתה מחובר לאתר ">
