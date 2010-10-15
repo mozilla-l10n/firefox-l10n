@@ -15,9 +15,9 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Tekst van de ondertekening:">
 <!ENTITY signatureText.accesskey "T">
-<!ENTITY signatureHtml.label "HTML gebruiken (bv. &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "HTML gebruiken">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Ondertekening uit een bestand gebruiken (tekst, HTML of afbeelding):">
+<!ENTITY signatureFile.label "Ondertekening uit een bestand gebruiken:">
 <!ENTITY signatureFile.accesskey "b">
 <!ENTITY choose.label "Kiezen…">
 <!ENTITY choose.accesskey "K">
@@ -28,7 +28,7 @@
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY manageIdentities.label "Identiteiten beheren…">
-<!ENTITY manageIdentities.accesskey "h">
+<!ENTITY manageIdentities.accesskey "I">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Uitgaande server (SMTP):">

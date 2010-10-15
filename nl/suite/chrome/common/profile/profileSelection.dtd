@@ -48,5 +48,5 @@
 <!ENTITY            availableProfiles.label "Beschikbare profielen">
 
 <!ENTITY            introStart.label         "Uw gebruikersprofiel bevat uw opgeslagen berichten, instellingen en andere persoonlijke informatie. Kies uw profiel in de lijst en klik op &start.label; om uw sessie te starten.">
-<!ENTITY            introSwitch.label        "Als u wilt overschakelen naar een ander profiel dat opgeslagen berichten, instellingen en andere persoonlijke informatie bevat, kies dan het profiel in de lijst en klik op &start.label; om dat profiel te gaan gebruiken.">
+<!ENTITY            introSwitch.label        "Als u wilt overschakelen naar een ander profiel dat opgeslagen berichten, instellingen en andere persoonlijke informatie bevat, kies dan het profiel in de lijst en klik op &select.label; om dat profiel te gaan gebruiken.">
 <!ENTITY            profileManagerText.label "&brandShortName; slaat informatie over uw instellingen, voorkeuren, bladwijzers, opgeslagen berichten en andere gebruikersitems op in uw gebruikersprofiel.">
