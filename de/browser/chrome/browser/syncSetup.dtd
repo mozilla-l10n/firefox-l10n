@@ -14,8 +14,8 @@
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-Server">
 <!ENTITY serverType.custom.label    "Eigenen Server verwenden">
-<!ENTITY signIn.username.label      "Benutzername">
-<!ENTITY signIn.username.accesskey  "B">
+<!ENTITY signIn.account.label       "E-Mail-Addresse / Benutzername">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Passwort">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.serverURL.label     "Server-URL">
@@ -99,6 +99,6 @@
 <!ENTITY confirm.server.warning.label "WARNUNG: Ihre lokalen Daten werden alle &brandShortName;-Daten auf diesen Geräten überschreiben!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.label   "Setup abgeschlossen!">
+<!ENTITY setup.successPage.title.title   "Setup abgeschlossen!">
 <!ENTITY changeOptions.label "Sie können diese Einstellung ändern, indem Sie die Sync-Einstellungen unten auswählen.">
 <!ENTITY continueUsing.label "Sie können &brandShortName; nun verwenden.">
