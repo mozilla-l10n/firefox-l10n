@@ -91,6 +91,13 @@
 <!ENTITY cmd.hideReleaseNotes.label           "隐藏发行说明">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "隐藏此更新的发行说明">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "什么是附加组件？">
+<!ENTITY discover.description2                "附加组件是一些可以让您使用更多功能或样式来个性化 &brandShortName; 的应用程序。您可以试试快捷省时的侧边栏、天气通知或一个主题，将 &brandShortName; 变成独一无二的。">
+<!ENTITY discover.footer                      "当您连接到因特网，此面板将列出一些最好最流行的附加组件供您试用。">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "版本">
 <!ENTITY detail.lastupdated.label             "最后更新">

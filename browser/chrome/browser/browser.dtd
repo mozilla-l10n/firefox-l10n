@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "书签">
 <!ENTITY bookmarksMenuButton.tooltip        "显示您的书签">
+<!ENTITY bookmarksMenuButton.unsorted.label "未分类书签">
 <!ENTITY viewBookmarksSidebar.label         "显示在侧边栏">
 <!ENTITY viewBookmarksToolbar.label         "查看书签工具栏">
 
@@ -513,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "完成">
 <!ENTITY editBookmark.cancel.label                   "取消">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "撤消">
-<!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.edit.label                     "编辑…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "此站点不支持标识信息。">
 <!ENTITY identity.connectedTo "您已连接至">

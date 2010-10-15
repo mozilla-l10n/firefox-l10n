@@ -6,7 +6,7 @@
 <!ENTITY button.createNewAccount.label "创建一个新帐户">
 <!ENTITY button.haveAccount.label "我有一个 &syncBrand.fullName.label; 帐户">
 
-<!ENTITY setup.choicePage.title.label     "您以前是否使用过 &syncBrand.shortName.label;？">
+<!ENTITY setup.choicePage.title.label     "您以前是否使用过 &syncBrand.fullName.label;？">
 <!ENTITY setup.choicePage.new.label       "我以前从未使用过 &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label  "我已经在另一台计算机上使用 &syncBrand.shortName.label;">
 
