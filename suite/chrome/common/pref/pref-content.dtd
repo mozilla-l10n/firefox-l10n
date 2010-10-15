@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
 <!ENTITY pref.content.title                     "内容">
-<!ENTITY pref.content.description               "这些设置会影响网站和消息内容在 &brandShorName; 上的显示。">
+<!ENTITY pref.content.description               "这些设置会影响网站和消息内容在 &brandShortName; 上的显示。">
 <!ENTITY siteIcons.label                        "网站图标">
 <!ENTITY useSiteIcons.label                     "显示网站图标">
 <!ENTITY useSiteIcons.accesskey                 "S">
