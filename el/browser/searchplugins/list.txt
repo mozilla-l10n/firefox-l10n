@@ -1,7 +1,6 @@
 google
 amazon-en-GB
+bing
 eBay-en-GB
 yahoo
-creativecommons
-answers
 wikipedia-el
