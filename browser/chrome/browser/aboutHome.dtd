@@ -1,0 +1,29 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName; ಆರಂಭಿಕ ಪುಟ">
+
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> ಆರಂಭ">
+
+<!ENTITY abouthome.searchEngineButton.label "ಹುಡುಕು">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "ಸುಧಾರಿತ ಹುಡುಕಾಟ">
+<!ENTITY abouthome.searchEngineLinks.preferences "ಆದ್ಯತೆಗಳು">
+
+<!ENTITY abouthome.aboutMozilla "ಮೋಝಿಲ್ಲಾದ ಬಗ್ಗೆ">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "ಫೈರ್ಫಾಕ್ಸನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು! To get the most out of your browser ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕದಿಂದ ಹೆಚ್ಚಿನ ಉಪಯೋಗ ಪಡೆದುಕೊಳ್ಳಲು, <a>ಇತ್ತೀಚಿನ ಸವಲತ್ತುಗಳ</a>ನ್ನು ನೋಡಿ.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "ನಿಮಗೆ ಹೇಗೆ ಬೇಕೊ ಹಾಗು ಫೈರ್ಫಾಕ್ಸನ್ನು ಬದಲಾಯಿಸಿಕೊಳ್ಳುವುದು ಸುಲಭ. <a>ಸಾವಿರಾರು ಆಡ್‌-ಆನ್‌ಗಳಿಂದ ನಿಮಗೆ ಬೇಕಾಗಿದ್ದನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ</a>.">
+
