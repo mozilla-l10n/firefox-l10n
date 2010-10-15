@@ -402,10 +402,6 @@
 <!ENTITY editBookmark.done.label "Fatto">
 <!ENTITY editBookmark.cancel.label "Annulla">
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
-<!ENTITY editBookmark.undo.label "Ripristina">
-<!ENTITY editBookmark.undo.accessKey "R">
-<!ENTITY editBookmark.edit.label "Modifica…">
-<!ENTITY editBookmark.edit.accessKey "M">
 <!ENTITY identity.unverifiedsite2 "Questo sito web non fornisce informazioni relative all'identità.">
 <!ENTITY identity.connectedTo "Si è connessi con">
 <!ENTITY identity.runBy "Questo sito è gestito da">
