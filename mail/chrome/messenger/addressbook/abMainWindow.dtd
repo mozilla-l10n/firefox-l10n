@@ -93,7 +93,7 @@
 <!ENTITY firstLastCmd.accesskey                         "f"> 
 <!ENTITY lastFirstCmd.label                             "姓氏，名字">
 <!ENTITY lastFirstCmd.accesskey                         "l">
-<!ENTITY displayNameCmd.label                           "显示姓名">
+<!ENTITY displayNameCmd.label                           "显示名称">
 <!ENTITY displayNameCmd.accesskey                       "d">
 <!ENTITY sortMenu.label                                 "排序">
 <!ENTITY sortMenu.accesskey                             "S">
