@@ -5,6 +5,11 @@
 <!ENTITY aboutPage.rights.label                 "了解您的权利">
 <!ENTITY aboutPage.relNotes.label               "发行说明">
 <!ENTITY aboutPage.credits.label                "贡献者">
+<!ENTITY aboutPage.checkForUpdates.button       "检查更新">
+<!ENTITY aboutPage.checkForUpdates.checking     "查找更新…">
+<!ENTITY aboutPage.checkForUpdates.none         "没有可用的更新">
+<!ENTITY aboutPage.checkForUpdates.found        "有可用更新">
+
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
