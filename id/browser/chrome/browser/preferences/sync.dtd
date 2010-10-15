@@ -21,11 +21,11 @@
 <!ENTITY stopUsingAccount.label       "Hentikan Menggunakan Akun Ini">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Sinkronisasikan Peramban">
+<!ENTITY syncPrefsCaption.label       "Sinkronkan Peramban">
 <!ENTITY syncComputerName.label       "Nama Komputer:">
 <!ENTITY syncComputerName.accesskey   "k">
 
-<!ENTITY syncMy.label               "Sinkronisasikan">
+<!ENTITY syncMy.label               "Sinkronkan">
 <!ENTITY engine.bookmarks.label     "Markah">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label          "Tab">

@@ -548,6 +548,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncSetup.label              "Setel &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "l">
-<!ENTITY syncSyncNowItem.label        "Sinkronisasikan Sekarang">
+<!ENTITY syncSyncNowItem.label        "Sinkronkan Sekarang">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncToolbarButton.label      "Sinkronisasikan">
+<!ENTITY syncToolbarButton.label      "Sinkronkan">
