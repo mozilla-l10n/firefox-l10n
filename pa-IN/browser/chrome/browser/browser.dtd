@@ -526,10 +526,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                      "ਮੁਕੰਮਲ">
 <!ENTITY editBookmark.cancel.label                   "ਰੱਦ ਕਰੋ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "ਵਾਪਸ">
-<!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.edit.label                     "...ਸੋਧ">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "ਇਹ ਵੈੱਬ ਸਾਇਟ ਨੇ ਪਛਾਣ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦਿੱਤੀ ਹੈ।">
 <!ENTITY identity.connectedTo "ਤੁਸੀਂ ਕੁਨੈਕਟ ਹੋ">
