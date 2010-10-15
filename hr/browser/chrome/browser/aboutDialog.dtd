@@ -11,3 +11,27 @@
 <!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Informacije o licenci">
 <!ENTITY copyrightInfo2             ").">
+<!ENTITY bottomLinks.license        "Informacije o licenciranju">
+<!ENTITY bottomLinks.privacy        "Politika privatnosti">
+<!ENTITY bottomLinks.rights         "Prava krajnjeg korisnika">
+
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.start2           "&brandShortName; je dizajnirala ">
+<!ENTITY community.middle2          "">
+<!ENTITY community.creditsLink      "globalna zajednica">
+<!ENTITY community.end2             " koja zajedno radi na unaprjeđenju Interneta. Mi vjerujemo kako bi Internet trebao biti otvoren, javan i dostupan svima, bez ograničenja.">
+<!ENTITY contribute.start           "Zvuči vam zanimljivo? ">
+<!ENTITY contribute.getInvolvedLink "Uključite se!">
+<!ENTITY contribute.end             "">
+
+<!ENTITY update.adminDisabled       "Updates disabled by your system administrator">
+<!ENTITY update.checkingAddonCompat "Provjera kompatibilnosti dodataka…">
+<!ENTITY update.checkingForUpdates  "Provjera dopuna…">
+<!ENTITY update.downloading.start   "Preuzimanje dopune — ">
+<!ENTITY update.downloading.end     "">
+<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.linkText     "Preuzmite najnoviju inačicu">
+<!ENTITY update.failed.start        "Ažuriranje nije uspjelo. ">
+<!ENTITY update.manual.start        "Dopune su dostupne na ">
+<!ENTITY update.manual.end          "">
+<!ENTITY update.noUpdatesFound      "&brandShortName; je ažuriran">
