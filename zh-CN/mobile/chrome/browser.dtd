@@ -56,6 +56,7 @@
 <!ENTITY downloadResume.label      "恢复">
 <!ENTITY downloadRetry.label       "重试">
 <!ENTITY downloadRemove.label      "移除">
+<!ENTITY downloadDelete.label      "删除">
 <!ENTITY downloadFailed.label      "已失败">
 
 <!ENTITY noResults.label           "没有结果">
@@ -93,6 +94,8 @@
 <!ENTITY contextShareImage.label      "分享图片">
 <!ENTITY contextSaveVideo.label       "保存视频">
 <!ENTITY contextShareVideo.label      "分享视频">
+<!ENTITY contextPlayMedia.label       "播放">
+<!ENTITY contextPauseMedia.label      "暂停">
 <!ENTITY contextEditBookmark.label    "编辑">
 <!ENTITY contextRemoveBookmark.label  "删除">
 
