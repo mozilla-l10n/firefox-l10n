@@ -23,6 +23,9 @@
 <!ENTITY tasksMenu.label "工具">
 <!ENTITY tasksMenu.accesskey "T"> 
 
+<!ENTITY datamanCmd.label "数据管理器">
+<!ENTITY datamanCmd.accesskey "M">
+
 <!ENTITY passwordManagerCmd.label "密码管理器">
 <!ENTITY passwordManagerCmd.accesskey "P">
 

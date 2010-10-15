@@ -79,7 +79,7 @@
 <!ENTITY copyCmd.accesskey            "C">
 <!ENTITY selectAllCmd.label           "选择全部">
 <!ENTITY selectAllCmd.accesskey       "A">
-<!ENTITY copyLinkCmd.label            "复制连接地址">
+<!ENTITY copyLinkCmd.label            "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey        "L">
 <!ENTITY copyImageCmd.label           "复制图像">
 <!ENTITY copyImageCmd.accesskey       "y">
