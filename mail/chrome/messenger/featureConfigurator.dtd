@@ -57,14 +57,14 @@
 <!ENTITY featureConfigurator.autoSync.heading "Ruang Disk">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
-<!ENTITY featureConfigurator.autoSync.para "Versi baru &brandShortName; ini tersedia dengan fitur pencarian yang baru dan lebih baik. Untuk menggunakannya, Anda harus menyinkronisasikan pesan email Anda.">
+<!ENTITY featureConfigurator.autoSync.para "Versi baru &brandShortName; ini tersedia dengan fitur pencarian yang baru dan lebih baik. Untuk menggunakannya, Anda harus menyinkronkan pesan email Anda.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
-<!ENTITY featureConfigurator.autoSync.on "Sinkronisasikan">
+<!ENTITY featureConfigurator.autoSync.on "Sinkronkan">
 <!ENTITY featureConfigurator.autoSync.on.explanation "Anda dapat lebih cepat membuka pesan dan mendapatkan hasil pencarian yang lebih baik.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
-<!ENTITY featureConfigurator.autoSync.off "Jangan Sinkronisasikan">
+<!ENTITY featureConfigurator.autoSync.off "Jangan Sinkronkan">
 <!ENTITY featureConfigurator.autoSync.off.explanation "Pesan lebih lambat dibuka dan pencarian pesan yang tidak menyeluruh.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
