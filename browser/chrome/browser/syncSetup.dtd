@@ -99,6 +99,6 @@
 <!ENTITY confirm.server.warning.label "WARNUNG: Ihre lokalen Daten werden alle &brandShortName;-Daten auf diesen Geräten überschreiben!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title.title   "Setup abgeschlossen!">
+<!ENTITY setup.successPage.title   "Setup abgeschlossen!">
 <!ENTITY changeOptions.label "Sie können diese Einstellung ändern, indem Sie die Sync-Einstellungen unten auswählen.">
 <!ENTITY continueUsing.label "Sie können &brandShortName; nun verwenden.">
