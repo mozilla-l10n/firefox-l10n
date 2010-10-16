@@ -2,7 +2,7 @@
 <!ENTITY aboutHome.recentTabs                   "Kaardid eelmisest korrast">
 <!ENTITY aboutHome.remoteTabs                   "Kaardid sinu teistest arvutitest">
 <!ENTITY aboutHome.recommendedAddons2           "Lisad sinu &brandShortName;ile">
-<!ENTITY aboutHome.aboutMozilla                 "Mozillast">
+<!ENTITY aboutHome.giveFeedback                 "Anna tagasisidet">
 <!ENTITY aboutHome.openAllTabs                  "Ava kõik kaartidel">
 <!ENTITY aboutHome.noTabs                       "Kaarte eelmisest korrast pole">
 <!ENTITY aboutHome.noAddons                     "Lisade soovitusi pole">
