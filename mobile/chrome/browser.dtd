@@ -87,7 +87,8 @@
 <!ENTITY downloadPause.label              "Pauzė">
 <!ENTITY downloadResume.label             "Tęsti">
 <!ENTITY downloadRetry.label              "Iš naujo">
-<!ENTITY downloadRemove.label             "Pašalinti">
+<!ENTITY downloadRemove.label             "Pašalinti iš sąrašo">
+<!ENTITY downloadDelete.label             "Pašalinti failą">
 <!ENTITY downloadFailed.label             "Nepavyko">
 
 <!ENTITY noResults.label                  "Rezultatų nėra">
@@ -125,6 +126,9 @@
 <!ENTITY contextShareImage.label          "Dalintis paveikslu">
 <!ENTITY contextSaveVideo.label           "Įrašyti vaizdą">
 <!ENTITY contextShareVideo.label          "Dalintis vaizdu">
+<!ENTITY contextPlayMedia.label           "Groti">
+<!ENTITY contextPauseMedia.label          "Pristabdyti">
+<!ENTITY contextFullScreen.label          "Visas ekranas">
 <!ENTITY contextEditBookmark.label        "Taisyti">
 <!ENTITY contextRemoveBookmark.label      "Pašalinti">
 

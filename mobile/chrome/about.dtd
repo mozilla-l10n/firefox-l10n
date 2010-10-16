@@ -35,6 +35,10 @@
 <!ENTITY aboutPage.rights.label                 "Žinokite savo teises">
 <!ENTITY aboutPage.relNotes.label               "Laidos apžvalga">
 <!ENTITY aboutPage.credits.label                "Padėkos">
+<!ENTITY aboutPage.checkForUpdates.button       "Tikrinti, ar yra naujinimų">
+<!ENTITY aboutPage.checkForUpdates.checking     "Tikrinama, ar yra naujinimų…">
+<!ENTITY aboutPage.checkForUpdates.none         "Išleistų naujinimų nėra">
+<!ENTITY aboutPage.checkForUpdates.found        "Yra išleistas naujinimas">
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.

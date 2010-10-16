@@ -49,7 +49,7 @@
 <!ENTITY homepage.default                              "„&brandShortName;“ numatytasis">
 <!ENTITY homepage.currentpage                          "Naudoti šiuo metu atvertą tinklalapį">
 <!ENTITY sync.title                                    "„Sync“">
-<!ENTITY sync.account                                  "Naudotojo vardas arba el. paštas">
+<!ENTITY sync.account2                                 "Paskyros vardas">
 <!ENTITY sync.password                                 "Slaptažodis">
 <!ENTITY sync.syncKey                                  "Sinchronizavimo raktas">
 <!ENTITY sync.deviceName                               "Įrenginio vardas">
