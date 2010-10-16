@@ -5,6 +5,11 @@
 <!ENTITY aboutPage.rights.label                 "Знайте ваші права">
 <!ENTITY aboutPage.relNotes.label               "Інформація про випуск">
 <!ENTITY aboutPage.credits.label                "Учасники проекту">
+<!ENTITY aboutPage.checkForUpdates.button       "Перевірити оновлення">
+<!ENTITY aboutPage.checkForUpdates.checking     "Пошук оновлень…">
+<!ENTITY aboutPage.checkForUpdates.none         "Оновлень не знайдено">
+<!ENTITY aboutPage.checkForUpdates.found        "Доступне оновлення">
+
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
