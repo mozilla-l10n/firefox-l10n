@@ -35,7 +35,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "„&syncBrand.fullName.label;“ paskyra">
-<!ENTITY currentAccount.label         "Aktyvi paskyra:">
+<!ENTITY currentAccount.label         "Naudojama paskyra:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Atnaujinti">
