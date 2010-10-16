@@ -73,8 +73,8 @@
 <!ENTITY phishingBlocked.longDesc '<p>Vnos vaših zasebnih podatkov na to stran se lahko konča s krajo identitete ali drugo zlorabo.</p> 
 <p>Tovrstne spletne prevare se uporabljajo v postopkih, znanih kot "phishing", v katerih zlonamerne spletne strani in elektronska pošta poskušajo oponašati vire, ki jim običajno zaupate.</p>'>
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokirano zaradi varnostnega predpisa glede vsebine">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ker ima stran varnostni predpis glede vsebine, je brskalnik strani preprečil, da bi se na tak način naložila.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
