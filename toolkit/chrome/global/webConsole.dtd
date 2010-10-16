@@ -40,6 +40,7 @@
 <!ENTITY networkPanel.responseHeaders             "Gauto atsakymo antraštės">
 <!ENTITY networkPanel.responseBody                "Gauto atsakymo turinys">
 <!ENTITY networkPanel.responseBodyCached          "Duomenys podėlyje">
+<!ENTITY networkPanel.responseBodyUnknownType     "Nežinomo tipo duomenys">
 <!ENTITY networkPanel.responseNoBody              "Atsakymas be turinio">
 <!ENTITY networkPanel.responseImage               "Gautas paveikslas">
 <!ENTITY networkPanel.responseImageCached         "Paveikslas podėlyje">

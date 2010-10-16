@@ -50,6 +50,8 @@
                                            neturite jam įdiegti reikiamų teisių. Susisiekite su šio kompiuterio
 														 administratoriumi, arba bandykite naujinti vėl, prisijungę prie sistemos
 														 kaip naudotojas, kuriam leidžiama diegti programinę įrangą.">
+<!ENTITY  manualUpdate.space.desc         "Yra išleistas rekomenduojamas saugumo ir stabilumo naujinimas, tačiau jam
+                                           įdiegti į šį kompiuterį trūksta laisvos vietos.">
 <!ENTITY  manualUpdateGetMsg.label        "Paskiausią „&brandShortName;“ laidą visuomet galite parsisiųsti iš:">
 
 <!ENTITY  incompatibleCheck.title         "Tikrinamas priedų suderinamumas">
