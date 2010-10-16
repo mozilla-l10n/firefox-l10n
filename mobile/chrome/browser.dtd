@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "Оновити">
 <!ENTITY stop.label            "Зупинити">
 <!ENTITY go.label              "Перейти">
-<!ENTITY openLocation.label    "Відкрити адресу">
 <!ENTITY star.label            "Star">
 
 <!ENTITY newtab.label          "Нова вкладка">
@@ -20,21 +19,15 @@
 <!ENTITY noSuggestions.label   "(нема підказок)">
 <!ENTITY addToDictionary.label "Додати в словник">
 
+<!ENTITY allPagesHeader.label      "Всі сторінки">
 <!ENTITY bookmarksHeader.label     "Закладки">
-<!ENTITY bookmarksManage.label     "Редагувати">
+<!ENTITY historyHeader.label       "Історія">
+<!ENTITY desktopHeader.label       "Настільний ПК">
 
-<!ENTITY editBookmarkRemove.label  "Вилучити">
 <!ENTITY editBookmarkDone.label    "Гаразд">
 <!ENTITY editBookmarkTags.label    "Додавайте мітки сюди">
 
-<!ENTITY helperApp.prompt          "Щоб ви хотіли зробити з">
-<!ENTITY helperApp.open            "Відкрити">
-<!ENTITY helperApp.save            "Зберегти">
-<!ENTITY helperApp.nothing         "Нічого">
-
-<!ENTITY formHelper.previous       "Попереднє">
-<!ENTITY formHelper.next           "Далі">
-<!ENTITY formHelper.done           "Гаразд">
+<!ENTITY selectHelper.done         "Готово">
 
 <!ENTITY addonsHeader.label        "Додатки">
 <!ENTITY addonsLocal.label         "Ваші додатки">
@@ -63,6 +56,7 @@
 <!ENTITY downloadResume.label      "Продовжити">
 <!ENTITY downloadRetry.label       "Спробувати знову">
 <!ENTITY downloadRemove.label      "Вилучити">
+<!ENTITY downloadDelete.label      "Видалити">
 <!ENTITY downloadFailed.label      "Помилка">
 
 <!ENTITY noResults.label           "Нема збігів">
@@ -93,5 +87,22 @@
 <!ENTITY consoleErrLine.label      "Рядок:">
 <!ENTITY consoleErrColumn.label    "Символ:">
 
-<!ENTITY contextOpenInNewTab.label "Відкрити посилання у новій вкладці">
-<!ENTITY contextSaveImage.label    "Зберегти зображення">
+<!ENTITY contextOpenInNewTab.label    "Відкрити посилання у новій вкладці">
+<!ENTITY contextSaveLink.label        "Зберегти посилання">
+<!ENTITY contextSaveImage.label       "Зберегти зображення">
+<!ENTITY contextShareLink.label       "Поділитись посиланням">
+<!ENTITY contextShareImage.label      "Поділитись зображенням">
+<!ENTITY contextSaveVideo.label       "Зберегти відео">
+<!ENTITY contextShareVideo.label      "Поділитись відеом">
+<!ENTITY contextPlayMedia.label       "Грати">
+<!ENTITY contextPauseMedia.label      "Пауза">
+<!ENTITY contextFullScreen.label      "Повний екран">
+<!ENTITY contextEditBookmark.label    "Редагувати">
+<!ENTITY contextRemoveBookmark.label  "Вилучити">
+
+<!ENTITY pageactions.saveas.pdf      "Зберегти як PDF">
+<!ENTITY pageactions.share.page      "Поділитись сторінкою">
+<!ENTITY pageactions.password.forget "Забути пароль">
+<!ENTITY pageactions.reset           "Вичитисти налаштування сайта">
+<!ENTITY pageactions.findInPage      "Знайти на сторінці">
+<!ENTITY pageactions.search.addNew   "Додати пошуковик">
