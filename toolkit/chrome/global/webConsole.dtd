@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Tituj Përgjigjeje">
 <!ENTITY networkPanel.responseBody                "Përmbajtja e Përgjigjes">
 <!ENTITY networkPanel.responseBodyCached          "Të dhëna të Ruajtura në Fshehtinë">
+<!ENTITY networkPanel.responseBodyUnknownType     "Lloj i Panjohur Lënde">
 <!ENTITY networkPanel.responseNoBody              "Pa Lëndë Përgjigjeje">
 <!ENTITY networkPanel.responseImage               "Pamje e Marrë">
 <!ENTITY networkPanel.responseImageCached         "Pamje e Ruajtur në Fshehtinë">
