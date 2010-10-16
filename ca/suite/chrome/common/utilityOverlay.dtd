@@ -36,6 +36,8 @@
 <!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Enganxa">
 <!ENTITY pasteCmd.key "V">
+<!ENTITY pasteGoCmd.label                                       "Enganxa-ho i vés-hi">
+<!ENTITY pasteGoCmd.accesskey                           "G">
 <!ENTITY pasteCmd.accesskey "x">
 <!ENTITY deleteCmd.label "Suprimeix">
 <!ENTITY deleteCmd.accesskey "u">
@@ -60,6 +62,8 @@
 <!ENTITY helpMenu.label "Ajuda">
 <!ENTITY helpMenu.accesskey "j">
 
+<!ENTITY helpTroubleshootingInfo.label      "Informació per a la resolució de problemes">
+<!ENTITY helpTroubleshootingInfo.accesskey  "r">
 <!ENTITY releaseCmd.label "Notes de la versió">
 <!ENTITY releaseCmd.accesskey "v">
 <!ENTITY updateCmd.label                        "Comprova si hi ha actualitzacions…">

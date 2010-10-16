@@ -1,3 +1,5 @@
 google
-dmoz
-jeeves
+huubs
+diec2
+wikipedia-ca
+llibres
