@@ -18,7 +18,9 @@
 <!ENTITY alwaysAsk.label                "Demana'm sempre on desar els fitxers">
 <!ENTITY alwaysAsk.accesskey            "a">
 
-<!ENTITY downloadRetention.label        "Mantén les baixades">
+<!ENTITY downloadHistory.label          "Historial de baixades">
+<!ENTITY removeEntries.label            "Suprimeix les entrades de baixades">
+<!ENTITY removeEntries.accesskey        "r">
 <!ENTITY whenCompleted.label            "Quan s'hagin baixat">
 <!ENTITY whenQuittingApp.label          "Quan surti del &brandShortName;">
 <!ENTITY neverRemove.label              "Mai">

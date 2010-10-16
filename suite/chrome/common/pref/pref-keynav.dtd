@@ -18,4 +18,6 @@
 <!ENTITY findAsYouTypeAutoText.accesskey "Q">
 <!ENTITY findAsYouTypeAutoLinks.label "Només els enllaços">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "N">
-
+<!ENTITY findAsYouTypeFindbarEnable.label "Mostra la barra de cerca mentre la cerca mentre escriviu és activa">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "s">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: la cerca mentre escriviu sense mostra la barra de cerca no permet l'entrada de text amb caràcters no ASCII.">
