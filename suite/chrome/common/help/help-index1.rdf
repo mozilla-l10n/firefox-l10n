@@ -749,7 +749,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="security:checking_before_sending_message"
          nc:name="проверка безопасности сообщений перед его отправкой"
-	 nc:link="mail_sec_help.xhtml#message_security_compose_window"/>
+	 nc:link="mailnews_security.xhtml#message_security_compose_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="security:checking_for_a_web_page"
@@ -759,7 +759,7 @@
      <rdf:li>
        <rdf:Description ID="security:checking_for_received_messages"
          nc:name="проверка безопасности полученных сообщений"
-	 nc:link="mail_sec_help.xhtml#reading_signed_and_encrypted_messages"/>
+	 nc:link="mailnews_security.xhtml#reading_signed_and_encrypted_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="security:preferences"
@@ -1600,7 +1600,7 @@
           <rdf:li>
        <rdf:Description ID="signing_email_messages"
          nc:name="подписывание почтовых сообщений"
-	 nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+	 nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
      </rdf:li>
           <rdf:li>
        <rdf:Description ID="search"
@@ -2337,7 +2337,7 @@
      <rdf:li>
        <rdf:Description ID="encryption"
          nc:name="шифрование"
-	 nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+	 nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -2347,12 +2347,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="encryption:about"
          nc:name="о шифровании и цифровой подписи"
-     nc:link="mail_sec_help.xhtml#about_digital_signatures_and_encryption"/>
+     nc:link="mailnews_security.xhtml#about_digital_signatures_and_encryption"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="encryption:of_email_messages"
          nc:name="шифрование почтовых сообщений"
-	 nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+	 nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="encryption:of_stored_sensitive_information"
@@ -2362,7 +2362,7 @@
      <rdf:li>
        <rdf:Description ID="encryption:settings_for_email"
          nc:name="настройка параметров шифрования"
-	 nc:link="mail_sec_help.xhtml#configuring_security_settings"/>
+	 nc:link="mailnews_security.xhtml#configuring_security_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="encryption:status_of_web_page"
