@@ -9,7 +9,7 @@
 
 # LOCALIZATION NOTE (bookmarks_title):
 # title for the folder that will contains the default bookmarks
-#define bookmarks_title Mobile
+#define bookmarks_title Seluler
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun
@@ -19,10 +19,6 @@
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: Tentang peramban Anda
 
-# LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Sinkronisasi dengan Weave
-
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
 #define bookmarks_addons Firefox: Ubahsuai dengan pengaya
@@ -30,5 +26,9 @@
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
 #define bookmarks_support Firefox: Layanan Dukungan
+
+# LOCALIZATION NOTE (bookmarks_aboutHome):
+# link title for about:home
+#define bookmarks_aboutHome Memulai Firefox
 
 #unfilter emptyLines

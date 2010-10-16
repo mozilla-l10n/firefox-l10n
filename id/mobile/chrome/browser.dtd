@@ -1,10 +1,11 @@
+<!ENTITY urlbar.emptytext      "Ketik Yang Dicari atau Alamat">
+
 <!ENTITY back.label            "Kembali">
 <!ENTITY forward.label         "Maju">
 <!ENTITY reload.label          "Muat Ulang">
 <!ENTITY stop.label            "Stop">
 <!ENTITY go.label              "Buka">
-<!ENTITY openLocation.label    "Buka lokasi">
-<!ENTITY star.label            "Bookmark">
+<!ENTITY star.label            "Markah">
 
 <!ENTITY newtab.label          "Tab Baru">
 <!ENTITY closetab.label        "Tutup Tab">
@@ -18,21 +19,15 @@
 <!ENTITY noSuggestions.label   "(tidak ada saran)">
 <!ENTITY addToDictionary.label "Tambah ke kamus">
 
-<!ENTITY bookmarksHeader.label     "Daftar Bookmark">
-<!ENTITY bookmarksManage.label     "Kelola">
+<!ENTITY allPagesHeader.label      "Semua Laman">
+<!ENTITY bookmarksHeader.label     "Markah">
+<!ENTITY historyHeader.label       "Riwayat">
+<!ENTITY desktopHeader.label       "Desktop">
 
-<!ENTITY editBookmarkRemove.label  "Hapus">
 <!ENTITY editBookmarkDone.label    "Selesai">
 <!ENTITY editBookmarkTags.label    "Tambah tag di sini">
 
-<!ENTITY formHelper.previous       "Sebelumnya">
-<!ENTITY formHelper.next           "Lanjut">
-<!ENTITY formHelper.done           "Selesai">
-
-<!ENTITY helperApp.prompt          "Apa yang ingin Anda lakukan?">
-<!ENTITY helperApp.open            "Buka">
-<!ENTITY helperApp.save            "Simpan">
-<!ENTITY helperApp.nothing         "Tidak ada">
+<!ENTITY selectHelper.done         "Selesai">
 
 <!ENTITY addonsHeader.label        "Pengaya">
 <!ENTITY addonsLocal.label         "Pengaya Anda">
@@ -61,14 +56,13 @@
 <!ENTITY downloadResume.label      "Lanjutkan">
 <!ENTITY downloadRetry.label       "Coba Lagi">
 <!ENTITY downloadRemove.label      "Hapus">
+<!ENTITY downloadDelete.label      "Hapus">
 <!ENTITY downloadFailed.label      "Gagal">
 
 <!ENTITY noResults.label           "Tidak ada hasil">
-<!ENTITY allBookmarks.label        "Tampilkan semua bookmark">
+<!ENTITY allBookmarks.label        "Tampilkan semua markah">
 
-<!ENTITY searchEngine.addSearch    "Tambah Mesin Pencarian:">
-
-<!ENTITY bookmarkPopup.label       "Bookmark laman ini dibuat">
+<!ENTITY bookmarkPopup.label       "Laman ini dimarkahi">
 <!ENTITY bookmarkRemove.label      "Hapus">
 <!ENTITY bookmarkEdit.label        "Sunting">
 
@@ -83,7 +77,26 @@
 <!ENTITY consoleMessages.label     "Pesan">
 <!ENTITY consoleCodeEval.label     "Kode:">
 <!ENTITY consoleClear.label        "Bersihkan">
-<!ENTITY consoleEvaluate.label     "Evaluaasi">
+<!ENTITY consoleEvaluate.label     "Evaluasi">
 <!ENTITY consoleErrFile.label      "Berkas Sumber:">
 <!ENTITY consoleErrLine.label      "Baris:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
+
+<!ENTITY contextOpenInNewTab.label    "Buka Tautan di Tab Baru">
+<!ENTITY contextSaveLink.label        "Simpan Tautan">
+<!ENTITY contextSaveImage.label       "Simpan Gambar">
+<!ENTITY contextShareLink.label       "Bagi Tautan">
+<!ENTITY contextShareImage.label      "Bagi Gambar">
+<!ENTITY contextSaveVideo.label       "Simpan Video">
+<!ENTITY contextShareVideo.label      "Bagi Video">
+<!ENTITY contextPlayMedia.label       "Putar">
+<!ENTITY contextPauseMedia.label      "Tunda">
+<!ENTITY contextEditBookmark.label    "Edit">
+<!ENTITY contextRemoveBookmark.label  "Hapus">
+
+<!ENTITY pageactions.saveas.pdf      "Simpan sebagai PDF">
+<!ENTITY pageactions.share.page      "Bagi Laman">
+<!ENTITY pageactions.password.forget "Lupa Sandi">
+<!ENTITY pageactions.reset           "Hapus Pengaturan Situs">
+<!ENTITY pageactions.findInPage      "Temukan di Laman">
+<!ENTITY pageactions.search.addNew   "Tambah Mesin Pencari">

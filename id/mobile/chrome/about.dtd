@@ -5,6 +5,11 @@
 <!ENTITY aboutPage.rights.label                 "Ketahui Hak Anda">
 <!ENTITY aboutPage.relNotes.label               "Catatan Rilis">
 <!ENTITY aboutPage.credits.label                "Kredit">
+<!ENTITY aboutPage.checkForUpdates.button       "Periksa Versi Baru">
+<!ENTITY aboutPage.checkForUpdates.checking     "Mencari versi baru…">
+<!ENTITY aboutPage.checkForUpdates.none         "Tidak ada versi baru tersedia">
+<!ENTITY aboutPage.checkForUpdates.found        "Versi baru tersedia">
+
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
