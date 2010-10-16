@@ -158,6 +158,7 @@
 <!ENTITY bookmarksButton.tooltip "Llista d'adreces d'interès">
 <!ENTITY homeButton.label "Inici">
 <!ENTITY  bookmarksToolbarItem.label  "Elements de la barra d'adreces d'interès">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Document: fet">
