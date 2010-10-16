@@ -56,6 +56,7 @@
 <!ENTITY downloadResume.label      "Jätka">
 <!ENTITY downloadRetry.label       "Proovi uuesti">
 <!ENTITY downloadRemove.label      "Eemalda">
+<!ENTITY downloadDelete.label      "Kustuta">
 <!ENTITY downloadFailed.label      "Ebaõnnestus">
 
 <!ENTITY noResults.label           "Tulemused puuduvad">
@@ -93,6 +94,8 @@
 <!ENTITY contextShareImage.label   "Jaga pilti">
 <!ENTITY contextSaveVideo.label    "Salvesta video">
 <!ENTITY contextShareVideo.label   "Jaga videot">
+<!ENTITY contextPlayMedia.label    "Esita">
+<!ENTITY contextPauseMedia.label   "Paus">
 <!ENTITY contextEditBookmark.label "Muuda">
 <!ENTITY contextRemoveBookmark.label "Eemalda">
 

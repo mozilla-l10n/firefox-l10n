@@ -5,6 +5,10 @@
 <!ENTITY aboutPage.rights.label                 "Tea oma õigusi">
 <!ENTITY aboutPage.relNotes.label               "Väljalaskest">
 <!ENTITY aboutPage.credits.label                "Autorid">
+<!ENTITY aboutPage.checkForUpdates.button       "Kontrolli uuendusi">
+<!ENTITY aboutPage.checkForUpdates.checking     "Uuenduste kontrollimine…">
+<!ENTITY aboutPage.checkForUpdates.none         "Uuendusi pole">
+<!ENTITY aboutPage.checkForUpdates.found        "Uuendus on saadaval">
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.

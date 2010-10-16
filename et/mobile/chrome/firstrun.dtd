@@ -1,12 +1,12 @@
 <!ENTITY firstrun.title                     "Tere tulemast &brandShortName;i">
 <!ENTITY firstrun.heading2                  "Tere tulemast &brandShortName;i">
-<!ENTITY firstrun.sync.title                "Hangi Firefox Sync">
-<!ENTITY firstrun.sync.description          "Jaga lehitsemise ajalugu, salvestatud paroole, järjehoidjaid ja kaarte oma arvuti ja mobiili vahel">
-<!ENTITY firstrun.addons.title              "Hangi lisasid">
-<!ENTITY firstrun.addons.description        "Paigalda lisasid, et parandada &brandShortName;i kasutamise kogemust">
-<!ENTITY firstrun.home.title                "Vaata tutvustust">
-<!ENTITY firstrun.home.description          "Puuduta, et minna oma kohandatud avalehele ja alusta veebilehitsemist">
-<!ENTITY firstrun.relNotes.label            "Vaata väljalaske teavet">
+<!ENTITY firstrun.sync2.title               "Süngi">
+<!ENTITY firstrun.sync2.description         "Logi sisse Synci kontosse ja jaga lehitsemise ajalugu, salvestatud paroole, järjehoidjaid ning kaarte oma arvuti ja mobiili vahel">
+<!ENTITY firstrun.addons2.title             "Kohanda">
+<!ENTITY firstrun.addons2.description       "Avasta ja paigalda lisasid, et lisada &brandShortName;ile lisafunktsionaalsust">
+<!ENTITY firstrun.home2.title               "Lehitse">
+<!ENTITY firstrun.home2.description         "Jäta see kõik vahele ja mine oma kohandatud avalehele, et alustada veebilehitsemist">
+<!ENTITY firstrun.features                  "Vaata, mis on veel uut">
 <!ENTITY firstrun.faq                       "KKK">
 <!ENTITY firstrun.privacy                   "Privaatsusreeglid">
 <!ENTITY firstrun.follow                    "Jälgi meid:">
