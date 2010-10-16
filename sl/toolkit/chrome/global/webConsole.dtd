@@ -1,15 +1,16 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "Zahteva za URL">
+<!ENTITY networkPanel.requestMethod               "Zahteva za metodo">
+<!ENTITY networkPanel.statusCode                  "Koda statusa">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Zahteva za glave">
+<!ENTITY networkPanel.requestCookie               "Poslan piškotek">
+<!ENTITY networkPanel.requestBody                 "Zahteva za vsebino">
+<!ENTITY networkPanel.requestFormData             "Poslani podatki obrazca ">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "Glave odgovora">
+<!ENTITY networkPanel.responseBody                "Vsebina odgovora">
+<!ENTITY networkPanel.responseBodyCached          "Podatki v predpomnilniku">
+<!ENTITY networkPanel.responseBodyUnknownType     "Neznana vrsta vsebine">
+<!ENTITY networkPanel.responseNoBody              "Odgovor brez vsebine ">
+<!ENTITY networkPanel.responseImage               "Slika prejeta ">
+<!ENTITY networkPanel.responseImageCached         "Slika v predpomnilniku">
