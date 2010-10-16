@@ -1,0 +1,97 @@
+<!ENTITY urlbar.emptytext      "Введіть запит чи адресу">
+
+<!ENTITY back.label            "Назад">
+<!ENTITY forward.label         "Вперед">
+<!ENTITY reload.label          "Оновити">
+<!ENTITY stop.label            "Зупинити">
+<!ENTITY go.label              "Перейти">
+<!ENTITY openLocation.label    "Відкрити адресу">
+<!ENTITY star.label            "Star">
+
+<!ENTITY newtab.label          "Нова вкладка">
+<!ENTITY closetab.label        "Закрити вкладку">
+
+<!ENTITY cut.label             "Вирізати">
+<!ENTITY copy.label            "Копіювати">
+<!ENTITY copylink.label        "Копіювати посилання">
+<!ENTITY paste.label           "Вставити">
+<!ENTITY delete.label          "Стерти">
+<!ENTITY selectAll.label       "Вибрати усі">
+<!ENTITY noSuggestions.label   "(нема підказок)">
+<!ENTITY addToDictionary.label "Додати в словник">
+
+<!ENTITY bookmarksHeader.label     "Закладки">
+<!ENTITY bookmarksManage.label     "Редагувати">
+
+<!ENTITY editBookmarkRemove.label  "Вилучити">
+<!ENTITY editBookmarkDone.label    "Гаразд">
+<!ENTITY editBookmarkTags.label    "Додавайте мітки сюди">
+
+<!ENTITY helperApp.prompt          "Щоб ви хотіли зробити з">
+<!ENTITY helperApp.open            "Відкрити">
+<!ENTITY helperApp.save            "Зберегти">
+<!ENTITY helperApp.nothing         "Нічого">
+
+<!ENTITY formHelper.previous       "Попереднє">
+<!ENTITY formHelper.next           "Далі">
+<!ENTITY formHelper.done           "Гаразд">
+
+<!ENTITY addonsHeader.label        "Додатки">
+<!ENTITY addonsLocal.label         "Ваші додатки">
+<!ENTITY addonsUpdate.label        "Оновити">
+<!ENTITY addonsRepo.label          "Додати ще">
+<!ENTITY addonsRecommended.label   "Рекомендоване">
+<!ENTITY addonsSearch.label        "Пошук">
+<!ENTITY addonsSearch2.emptytext   "Шукати у каталозі">
+<!ENTITY addonsSearch.recommended  "Рекомендовано">
+
+<!ENTITY addonOptions.label        "Налаштування">
+<!ENTITY addonEnable.label         "Увімкнути">
+<!ENTITY addonDisable.label        "Вимкнути">
+<!ENTITY addonInstall2.label       "Додати до &brandShortName;">
+<!ENTITY addonUninstall.label      "Вилучити">
+<!ENTITY addonCancel.label         "Скасувати">
+<!ENTITY addonShowPage.label       "До сторінки">
+
+<!ENTITY downloadsHeader.label     "Завантаження">
+
+<!ENTITY downloadShowPage.label    "До сторінки">
+<!ENTITY downloadShow2.label       "Знайти">
+<!ENTITY downloadOpen2.label       "Відкрити">
+<!ENTITY downloadCancel.label      "Скасувати">
+<!ENTITY downloadPause.label       "Пауза">
+<!ENTITY downloadResume.label      "Продовжити">
+<!ENTITY downloadRetry.label       "Спробувати знову">
+<!ENTITY downloadRemove.label      "Вилучити">
+<!ENTITY downloadFailed.label      "Помилка">
+
+<!ENTITY noResults.label           "Нема збігів">
+<!ENTITY allBookmarks.label        "Показати всі закладки">
+
+<!ENTITY bookmarkPopup.label       "Сторінку закладено">
+<!ENTITY bookmarkRemove.label      "Вилучити">
+<!ENTITY bookmarkEdit.label        "Редагувати">
+
+<!ENTITY identity.unverifiedsite2 "Цей сайт не надає інформації для перевірки справжності.">
+<!ENTITY identity.connectedTo2 "Під’єднано до">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "що належить">
+
+<!ENTITY consoleHeader.label       "Консоль помилок">
+<!ENTITY consoleAll.label          "Все">
+<!ENTITY consoleErrors.label       "Помилки">
+<!ENTITY consoleWarnings.label     "Попередження">
+<!ENTITY consoleMessages.label     "Повідомлення">
+<!ENTITY consoleCodeEval.label     "Код:">
+<!ENTITY consoleClear.label        "Очистити">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Джерело:">
+<!ENTITY consoleErrLine.label      "Рядок:">
+<!ENTITY consoleErrColumn.label    "Символ:">
+
+<!ENTITY contextOpenInNewTab.label "Відкрити посилання у новій вкладці">
+<!ENTITY contextSaveImage.label    "Зберегти зображення">

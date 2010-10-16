@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "Про &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "ЧаП">
+<!ENTITY aboutPage.support.label                "Підтримка">
+<!ENTITY aboutPage.privacyPolicy.label          "Угода конфіденційності">
+<!ENTITY aboutPage.rights.label                 "Знайте ваші права">
+<!ENTITY aboutPage.relNotes.label               "Інформація про випуск">
+<!ENTITY aboutPage.credits.label                "Учасники проекту">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "© 1998-2009 Учасники. Всі права захищені. (">
+<!ENTITY aboutPage.licenseLink                  "Інформація про ліцензії">
+<!ENTITY aboutPage.copyrightInfo2               ").">

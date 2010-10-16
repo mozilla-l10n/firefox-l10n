@@ -1,0 +1,13 @@
+<!ENTITY firstrun.title                "Ласкаво просимо до &brandShortName;">
+<!ENTITY firstrun.heading              "Для початку, ось кілька популярних функцій та додатків, котрі допоможуть вам отримати якнайбільше від &brandShortName;.">
+<!ENTITY firstrun.recommended          "Рекомендовано:">
+<!ENTITY firstrun.weave.title          "Встановити Weave Sync">
+<!ENTITY firstrun.weave.description    "Зробіть вашу історію, вкладки, паролі та закладки &brandShortName; спільними між вашим комп’ютером та мобілкою.">
+<!ENTITY firstrun.starter.title        "Встановити Початкову Збірку">
+<!ENTITY firstrun.starter.description  "Встановіть ці рекомендовані додатки для зручнішої роботи з &brandShortName;">
+<!ENTITY firstrun.tour.title           "Відеотур">
+<!ENTITY firstrun.tour.description     "Перегляньте цей кліп щоб призвичаїтись до програми та дізнатись про її чудові можливості">
+<!ENTITY firstrun.features             "Подивитись решту функцій">
+<!ENTITY firstrun.faq                  "ЧаПи">
+<!ENTITY firstrun.privacy              "Конфіденційність">
+<!ENTITY firstrun.follow               "Слідуйте за нами:">

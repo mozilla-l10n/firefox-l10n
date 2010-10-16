@@ -1,0 +1,20 @@
+<!ENTITY prefsHeader.label                         "Налаштування">
+<!ENTITY about.title                               "Про &brandShortName;">
+<!ENTITY about.button                              "До сторінки">
+<!ENTITY content.title                             "Вміст">
+<!ENTITY showImages.title                          "Показувати малюнки">
+<!ENTITY enableJavaScript.title                    "Дозволити JavaScript">
+<!ENTITY enablePlugins.title                       "Дозволити модулі">
+<!ENTITY privacy.title                             "Приватність та безпека">
+<!ENTITY allowCookies.title                        "Дозволити куки">
+<!ENTITY clearPrivateData2.title                   "Вичистити приватні дані">
+<!ENTITY clearPrivateData.button                   "Вичистити">
+<!ENTITY rememberPasswords.title                   "Пам’ятати паролі">
+<!ENTITY language.title                            "Мова">
+<!ENTITY language.auto                             "Автовизначення">
+<!ENTITY defaultBrowser.title                      "Типовий браузер">
+<!ENTITY defaultBrowser.description                "Зробити &brandShortName; вашим типовим браузером">
+<!ENTITY homepage.title                            "Початкова сторінка">
+<!ENTITY homepage.none                             "Пуста сторінка">
+<!ENTITY homepage.default                          "Початкова сторінка &brandShortName;">
+<!ENTITY homepage.currentpage                      "Використовувати поточну сторінку">
