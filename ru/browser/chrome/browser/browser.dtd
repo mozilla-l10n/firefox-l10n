@@ -402,10 +402,6 @@
 <!ENTITY editBookmark.done.label "Готово">
 <!ENTITY editBookmark.cancel.label "Отмена">
 <!ENTITY editBookmark.removeBookmark.accessKey "д">
-<!ENTITY editBookmark.undo.label "Отменить">
-<!ENTITY editBookmark.undo.accessKey "т">
-<!ENTITY editBookmark.edit.label "Изменить…">
-<!ENTITY editBookmark.edit.accessKey "м">
 <!ENTITY identity.unverifiedsite2 "Информация о подлинности этого веб-сайта отсутствует.">
 <!ENTITY identity.connectedTo "Вы соединены с">
 <!ENTITY identity.runBy "который управляется">

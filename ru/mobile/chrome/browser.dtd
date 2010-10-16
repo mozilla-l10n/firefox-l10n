@@ -76,6 +76,7 @@
 <!ENTITY contextShareVideo.label "Поделиться видео">
 <!ENTITY contextPlayMedia.label "Воспроизвести">
 <!ENTITY contextPauseMedia.label "Приостановить">
+<!ENTITY contextFullScreen.label "Полный экран">
 <!ENTITY contextEditBookmark.label "Изменить">
 <!ENTITY contextRemoveBookmark.label "Удалить">
 <!ENTITY pageactions.saveas.pdf "Сохранить как PDF">

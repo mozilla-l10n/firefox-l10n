@@ -511,7 +511,7 @@
 <!ENTITY advancedButton.label "Дополнительно…">
 <!ENTITY advancedButton.accesskey "Д">
 <!ENTITY searchButton.label "Поиск сообщений…">
-<!ENTITY searchButton.accesskey "ш">
+<!ENTITY searchButton.accesskey "и">
 <!ENTITY all.label "Все сообщения">
 <!ENTITY all.accesskey "В">
 <!ENTITY junkBarMessage.label "&brandShortName; считает, что это сообщение является спамом.">
