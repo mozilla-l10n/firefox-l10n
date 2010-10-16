@@ -24,14 +24,14 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Пришпилити як цільову вкладку">
+<!ENTITY  pinAppTab.label                    "Прикріпити як цільову вкладку">
 <!ENTITY  pinAppTab.accesskey                "П">
-<!ENTITY  unpinAppTab.label                  "Відшпилити вкладку">
+<!ENTITY  unpinAppTab.label                  "Відкріпити вкладку">
 <!ENTITY  unpinAppTab.accesskey              "В">
-<!ENTITY  moveToGroup.label                  "Перенести в Групу">
+<!ENTITY  moveToGroup.label                  "Перенести в групу">
 <!ENTITY  moveToGroup.accesskey              "н">
-<!ENTITY  moveToNewGroup.label               "Нова Група">
-<!ENTITY  moveToNewWindow.label              "Перенести в Нове Вікно">
+<!ENTITY  moveToNewGroup.label               "Нова група">
+<!ENTITY  moveToNewWindow.label              "Перенести в нове вікно">
 <!ENTITY  moveToNewWindow.accesskey          "В">
 <!ENTITY  bookmarkAllTabs.label              "Закласти всі вкладки…">
 <!ENTITY  bookmarkAllTabs.accesskey          "к">
