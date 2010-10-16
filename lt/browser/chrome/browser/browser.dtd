@@ -543,10 +543,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Įrašyti">
 <!ENTITY editBookmark.cancel.label                   "Atsisakyti">
 <!ENTITY editBookmark.removeBookmark.accessKey       "š">
-<!ENTITY editBookmark.undo.label                     "Atšaukti">
-<!ENTITY editBookmark.undo.accessKey                 "A">
-<!ENTITY editBookmark.edit.label                     "Taisyti…">
-<!ENTITY editBookmark.edit.accessKey                 "T">
 
 <!ENTITY identity.unverifiedsite2 "Ši svetainė nepateikia duomenų apie savo tapatumą.">
 <!ENTITY identity.connectedTo "Jūs prisijungėte prie svetainės">
