@@ -33,7 +33,7 @@
 <!ENTITY useMasterPassword.label        "Master-Passwort verwenden">
 <!ENTITY useMasterPassword.accesskey    "M">
 <!ENTITY masterPassword.intro           "Ein Master-Passwort schützt alle gespeicherten Passwörter, Sie müssen es aber einmal pro Sitzung eingeben.">
-<!ENTITY changeMasterPassword.label     "Master-Password ändern…">
+<!ENTITY changeMasterPassword.label     "Master-Passwort ändern…">
 <!ENTITY changeMasterPassword.accesskey "a">
 <!ENTITY savedPasswords.label           "Gespeicherte Passwörter…">
 <!ENTITY savedPasswords.accesskey       "G">
