@@ -6,23 +6,11 @@
 <!ENTITY background.accesskey "s">
 <!ENTITY warnOnClose.label "Avisa'm en tancar una finestra amb moltes pestanyes">
 <!ENTITY warnOnClose.accesskey "n">
+<!ENTITY relatedAfterCurrent.label "Obre pestanyes relacionades després de la pestanya activa">
+<!ENTITY relatedAfterCurrent.accesskey "O">
 <!ENTITY loadGroup.label "En obrir un grup d'adreces d'interès">
 <!ENTITY loadGroupAppend.label "Afegeix pestanyes">
 <!ENTITY loadGroupAppend.accesskey "A">
 <!ENTITY loadGroupReplace.label "Substitueix les pestanyes existents">
 <!ENTITY loadGroupReplace.accesskey "x">
 <!ENTITY openTabs.label "Obre pestanyes en comptes de finestres per a">
-
-<!ENTITY newWindow.label "Comportament en obrir enllaços">
-<!ENTITY newWindowDescription.label "Obrir enllaços vol dir obrir-los en una nova finestra en">
-<!ENTITY external.label "Enllaços d'altres aplicacions">
-<!ENTITY externalDescription.label "Obre els enllaços d'altres aplicacions en">
-<!ENTITY openCurrent.label "La pestanya/finestra actual">
-<!ENTITY newWindowGroupCurrent.accesskey "c">
-<!ENTITY externalGroupCurrent.accesskey "u">
-<!ENTITY openTab.label "Una nova pestanya en la finestra actual">
-<!ENTITY newWindowGroupTab.accesskey "n">
-<!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "Una nova finestra">
-<!ENTITY newWindowGroupWindow.accesskey "f">
-<!ENTITY externalGroupWindow.accesskey "o">

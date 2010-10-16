@@ -11,6 +11,7 @@
 <!ENTITY applications.label "Aplicacions ajudants">
 <!ENTITY locationBar.label "Barra d'ubicació">
 <!ENTITY tabWindows.label "Navegació amb pestanyes">
+<!ENTITY links.label "Comportament dels enllaços">
 <!ENTITY offline.label "Fora de línia">
 <!ENTITY security.label "Privadesa i seguretat">
 <!ENTITY cookies.label "Galetes">

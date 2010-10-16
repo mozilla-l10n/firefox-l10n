@@ -9,15 +9,8 @@
 
 <!ENTITY  openSidebarSearchPanel.label    "Obre la pestanya de cerca de la barra lateral quan els resultats estiguin disponibles">
 <!ENTITY openSidebarSearchPanel.accesskey "O">
-
-<!ENTITY openContextSearchTab.label       "Obre una pestanya en comptes d'una finestra per a les cerques web del menú contextual">
-<!ENTITY openContextSearchTab.accesskey   "t">
-
 <!ENTITY searchResults.label "Resultats de la cerca">
 
-<!ENTITY sidebarSearchTabPref.label "Preferència de la pestanya de cerca de la barra lateral">
-<!ENTITY searchModeBasic.label "Bàsic">
-<!ENTITY searchModeBasic.accesskey "b">
-<!ENTITY searchModeAdvanced.label "Avançat">
-<!ENTITY searchModeAdvanced.accesskey "a">
+<!ENTITY openInTab.label                  "Obre noves pestanyes per als resultats de la barra lateral de cerca">
+<!ENTITY openInTab.accesskey              "n">
 
