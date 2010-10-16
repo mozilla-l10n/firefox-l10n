@@ -38,17 +38,12 @@
 <!ENTITY netInterrupt.title "З’єднання перервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "Автономний режим">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>Спробуйте ще раз. &brandShortName; спробує відкрити з’єднання та перезавантажити сторінку.</li>
 </ul>
 ">
-
-<!ENTITY netOffline.title "Автономний режим">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Помилка кодування вмісту">
 <!ENTITY contentEncodingError.longDesc "<p>Сторінка, котру ви намагаєтесь переглянути, не може бути відображена через те, що використовує неправильну чи невідому форму стискання даних.</p> 
@@ -128,12 +123,14 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY securityOverride.getMeOutOfHereButton "Заберіть мене звідси">
 <!ENTITY securityOverride.exceptionButtonLabel "Зробити виняток">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "<p>Ви не повинні робити виняток якщо використовуєте з’єднання котрому не повністю довіряєте, або якщо ви вперше бачите попередження про цей сервер.</p> 
- 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<!ENTITY securityOverride.warningContent "
+<p>Ви не повинні робити виняток якщо використовуєте з’єднання котрому не повністю довіряєте, або якщо ви не звикли бачити попередження для цього сервера.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
