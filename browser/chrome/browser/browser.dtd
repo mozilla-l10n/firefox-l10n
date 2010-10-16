@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Закладки">
 <!ENTITY bookmarksMenuButton.tooltip        "Показати ваші закладки">
+<!ENTITY bookmarksMenuButton.unsorted.label "Несортовані закладки">
 <!ENTITY viewBookmarksSidebar.label         "Показати в бічній панелі">
 <!ENTITY viewBookmarksToolbar.label         "Показати панель закладок">
 
@@ -513,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Готово">
 <!ENTITY editBookmark.cancel.label                   "Скасувати">
 <!ENTITY editBookmark.removeBookmark.accessKey       "П">
-<!ENTITY editBookmark.undo.label                     "Повернути">
-<!ENTITY editBookmark.undo.accessKey                 "о">
-<!ENTITY editBookmark.edit.label                     "Редагувати…">
-<!ENTITY editBookmark.edit.accessKey                 "Р">
 
 <!ENTITY identity.unverifiedsite2 "Цей сайт не надає інформації про себе.">
 <!ENTITY identity.connectedTo "Ви під’єднані до">
