@@ -56,6 +56,7 @@
 <!ENTITY downloadResume.label      "Fortsett">
 <!ENTITY downloadRetry.label       "Prøv igjen">
 <!ENTITY downloadRemove.label      "Fjern">
+<!ENTITY downloadDelete.label      "Slett">
 <!ENTITY downloadFailed.label      "Feilet">
 
 <!ENTITY noResults.label           "Ingen resultater">
@@ -93,6 +94,9 @@
 <!ENTITY contextShareImage.label      "Del bilde">
 <!ENTITY contextSaveVideo.label       "Lagre video">
 <!ENTITY contextShareVideo.label      "Del video">
+<!ENTITY contextPlayMedia.label       "Spill av">
+<!ENTITY contextPauseMedia.label      "Pause">
+<!ENTITY contextFullScreen.label      "Fullskjerm">
 <!ENTITY contextEditBookmark.label    "Rediger">
 <!ENTITY contextRemoveBookmark.label  "Slett">
 

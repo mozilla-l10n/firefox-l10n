@@ -19,7 +19,7 @@
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Bruk aktiv side">
 <!ENTITY sync.title                                "Sync">
-<!ENTITY sync.account                              "Brukernavn/e-post">
+<!ENTITY sync.account2                             "Kontonavn">
 <!ENTITY sync.password                             "Passord">
 <!ENTITY sync.syncKey                              "Sync-nøkkel">
 <!ENTITY sync.deviceName                           "Enhetsnavn">
