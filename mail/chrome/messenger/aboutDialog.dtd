@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title      "Rreth &brandShortName;-it">
+<!ENTITY aboutDialog.title      "Rreth &brandFullName;-it">
 <!ENTITY aboutVersion           "version">
 <!ENTITY cmdCloseMac.commandKey "w">
 <!ENTITY aboutButton.label      "&lt; Mbrapsht">
