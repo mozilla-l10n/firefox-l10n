@@ -69,9 +69,9 @@ can reach it easily. -->
 <!ENTITY  unpinAppTab.accesskey              "b">
 <!ENTITY  moveToGroup.label                  "Move to Group">
 <!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "New Group">
-<!ENTITY  moveToNewWindow.label              "Move to New Window">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewGroup.label               "Նոր խումբ">
+<!ENTITY  moveToNewWindow.label              "Անցնել նոր էջի">
+<!ENTITY  moveToNewWindow.accesskey          "Ա">
 <!ENTITY  bookmarkAllTabs.label              "Էջանշել բոլոր էջերը">
 <!ENTITY  bookmarkAllTabs.accesskey          "Է">
 <!ENTITY  undoCloseTab.label                 "Վերականգնել փակված էջը">
@@ -175,8 +175,8 @@ can reach it easily. -->
 <!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
 <!ENTITY homeButton.label             "Տուն">
 
-<!ENTITY tabGroupsButton.label        "Tab Groups">
-<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+<!ENTITY tabGroupsButton.label        "Էջանիշի խմբեր">
+<!ENTITY tabGroupsButton.tooltip      "Խմբավորեք Ձեր էջերը">
 
 <!ENTITY feedButton.label             "Subscribe">
 <!ENTITY feedButton.tooltip           "Բաժանորդագրվել այս էջին...">
@@ -188,7 +188,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Էջանիշեր">
 <!ENTITY bookmarksMenuButton.tooltip        "Ցույց տալ ձեր էջանիշները">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
+<!ENTITY bookmarksMenuButton.unsorted.label "Չկարգավորված Էջանիշեր">
 <!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
 <!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
 
@@ -320,7 +320,7 @@ can reach it easily. -->
 <!ENTITY appMenuCustomize.label "Customize">
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label "Sidebars">
-<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuFind.label "Գտնել…">
 <!ENTITY appMenuUnsorted.label "Չկարգավորված Էջանիշեր">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Աշխատանքի Սկիզբ">
@@ -498,9 +498,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Ցուցադրել պատուհանը որջ էկրանով">
 
-<!ENTITY zoomOutButton.tooltip          "Zoom out">
+<!ENTITY zoomOutButton.tooltip          "Մանրացնել">
 <!ENTITY zoomInButton.tooltip           "Zoom in">
-<!ENTITY zoomControls.label             "Zoom Controls">
+<!ENTITY zoomControls.label             "Խոշորացման ղեկավարում">
 
 <!ENTITY quitApplicationCmdWin.label       "Ավարտել"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -553,10 +553,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Կատարված է">
 <!ENTITY editBookmark.cancel.label                   "Չեղարկել">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Ետ տալ">
-<!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.edit.label                     "Խմբագրել...">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "Այս վեբ կայքը չի տրամադրում ին նույնացման ինֆորմացիան:">
 <!ENTITY identity.connectedTo "Դուք կապնվել էք">

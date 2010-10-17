@@ -172,7 +172,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating2.label                        "Rating">
+<!ENTITY rating2.label                        "Վարկանիշ">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Ընդմիջել">
@@ -186,18 +186,18 @@
 <!ENTITY sort.dateUpdated.tooltip             "Դասավորել ըստ թարմացման ամսաթվերի">
 <!ENTITY sort.relevance.label                 "Առավել համընկնող">
 <!ENTITY sort.relevance.tooltip               "Sort by relevance">
-<!ENTITY sort.price.label                     "Price">
-<!ENTITY sort.price.tooltip                   "Sort by price">
+<!ENTITY sort.price.label                     "Գին">
+<!ENTITY sort.price.tooltip                   "Դասավորել ըստ գնի">
 
 <!ENTITY search.filter2.label                 "Փնտրել.">
-<!ENTITY search.filter2.installed.label       "My Add-ons">
-<!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
-<!ENTITY search.filter2.available.label       "Available Add-ons">
-<!ENTITY search.filter2.available.tooltip     "Show add-ons available to install">
+<!ENTITY search.filter2.installed.label       "Իմ հավելումները">
+<!ENTITY search.filter2.installed.tooltip     "Ցուցադրել տեղադրված հավելումները">
+<!ENTITY search.filter2.available.label       "Առկա հավելումներ">
+<!ENTITY search.filter2.available.tooltip     "Ցուցադրել տեղադրման համար առկա հավելումները">
 
 <!ENTITY addon.homepage                       "Հիմնական էջ">
 <!ENTITY addon.details.label                  "Ավելին">
-<!ENTITY addon.details.tooltip                "Show more details about this add-on">
+<!ENTITY addon.details.tooltip                "Ցուցադրել ավելի շատ տեղեկություն այս հավելման մասին">
 <!ENTITY addon.unknownDate                    "Անհայտ">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
@@ -220,7 +220,7 @@
 <!ENTITY addon.includeUpdate.label            "Include in Update">
 <!ENTITY addon.updateAvailable.label          "An update is available">
 <!ENTITY addon.checkingForUpdates.label       "Ստուգվում է թարմացումները">
-<!ENTITY addon.releaseNotes.label             "Release Notes:">
+<!ENTITY addon.releaseNotes.label             "Թողարկման նշումներ՝">
 <!ENTITY addon.loadingReleaseNotes.label      "Բեռնում...">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
 
