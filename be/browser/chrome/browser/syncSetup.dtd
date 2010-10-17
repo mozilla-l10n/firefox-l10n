@@ -1,5 +1,5 @@
 <!ENTITY accountSetupTitle.label "Наладка &syncBrand.fullName.label;">
-<!ENTITY setup.pickSetupType.description "Сардэчна запрашаем! Калі вы не ўжывалі &syncBrand.fullName.label раней, вы мусіце стварыць новы рахунак.">
+<!ENTITY setup.pickSetupType.description "Сардэчна запрашаем! Калі вы не ўжывалі &syncBrand.fullName.label; раней, вы мусіце стварыць новы рахунак.">
 <!ENTITY button.createNewAccount.label "Стварыць новы рахунак">
 <!ENTITY button.haveAccount.label "Я маю рахунак &syncBrand.fullName.label;">
 <!ENTITY setup.choicePage.title.label "Ужывалі &syncBrand.fullName.label; раней?">

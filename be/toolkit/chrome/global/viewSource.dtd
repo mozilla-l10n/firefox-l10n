@@ -1,5 +1,5 @@
-<!ENTITY mainWindow.title "&brandShortName;">
-<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!ENTITY mainWindow.title "&brandFullName;">
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Зыходнік:">
 <!ENTITY fileMenu.label "Файл">

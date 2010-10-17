@@ -1,5 +1,5 @@
-<!ENTITY mainWindow.title "&brandShortName;">
-<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!ENTITY mainWindow.title "&brandFullName;">
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Адасобленае азіранне)">
 <!ENTITY reloadTab.label "Абнавіць устаўку">
