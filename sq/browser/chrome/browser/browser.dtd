@@ -360,12 +360,10 @@
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Dil nga Mënyra Tërë Ekrani">
 <!ENTITY fullScreenExit.accesskey "T">
-<!ENTITY editBookmark.undo.label                     "Zhbëje">
-<!ENTITY editBookmark.undo.accessKey                 "Z">
 <!ENTITY editBookmark.cancel.label                   "Anuloje">
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
-<!ENTITY editBookmark.edit.label                     "Përpunoni…">
-<!ENTITY editBookmark.edit.accessKey                 "P">
+
+
 <!ENTITY backForwardMenu.tooltip      "Faqe së fundmi">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
