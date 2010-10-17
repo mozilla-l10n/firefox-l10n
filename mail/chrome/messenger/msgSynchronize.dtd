@@ -12,7 +12,7 @@
 <!ENTITY sendMessage.accesskey "š">
 <!ENTITY workOffline.label "Delaj v nepovezanem načinu, ko se prenos ali sinhronizacija konča">
 <!ENTITY workOffline.accesskey "L">
-<!ENTITY selectButton.label "Izberi …">
+<!ENTITY selectButton.label "Izberi…">
 <!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Izberite mape za pošto in novičarske skupine za rabo v načinu brez povezave.">
 <!ENTITY MsgSelectInd.label "Prenesi">

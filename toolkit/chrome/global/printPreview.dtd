@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip "Prva stran">
 <!ENTITY endarrow.tooltip "Zadnja stran">
-<!ENTITY nextarrow.tooltip "Naslednja stran">
-<!ENTITY previousarrow.tooltip "Prejšnja stran">
+<!ENTITY rightarrow.tooltip "Naslednja stran">
+<!ENTITY leftarrow.tooltip "Prejšnja stran">

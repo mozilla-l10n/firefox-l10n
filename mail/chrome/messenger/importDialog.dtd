@@ -76,7 +76,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY select.label             "ali izberite vrsto podatkov, ki jih želite uvoziti:">
 
 <!ENTITY title.label              "Naslov">
-<!ENTITY processing.label         "Uvažanje …">
+<!ENTITY processing.label         "Uvažanje…">
 
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ima en e-poštni naslov za vsako vizitko, medtem ko ima &brandShortName; dva (domači ni službeni).">
 <!ENTITY FieldDiscInputText2.label  "Izberite kategorijo v katero želite shraniti uvožene e-poštne naslove:">

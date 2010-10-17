@@ -91,7 +91,7 @@
 <!ENTITY folderProps.location.accesskey          "m">
 
 <!ENTITY folderSharingTab.label                  "Skupna raba">
-<!ENTITY privileges.button.label                 "Privilegiji …">
+<!ENTITY privileges.button.label                 "Privilegiji…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Imate naslednja dovoljenja:">
 <!ENTITY folderType.label                        "Vrsta mape:">

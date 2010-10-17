@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Uporabi splošne nastavitve strežnika LDAP za ta račun">
 <!ENTITY useGlobal.accesskey       "U">
-<!ENTITY editDirectories.label     "Uredi imenike …">
+<!ENTITY editDirectories.label     "Uredi imenike…">
 <!ENTITY editDirectories.accesskey "U">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Uporabi drug strežnik LDAP:">

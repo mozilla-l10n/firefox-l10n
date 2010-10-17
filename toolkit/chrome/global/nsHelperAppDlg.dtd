@@ -1,0 +1,42 @@
+<!ENTITY caption.label "Odpiranje #1">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "Datoteka &quot;#3&quot; je vrste #2 (#1), a #4 ne ve, kako naj ravna s takšnim tipom datoteke. Nahaja se na:">
+<!ENTITY intro.noDesc.label "Datoteka &quot;#3&quot; je vrste #2, a #4 ne ve, kako naj ravna s takšnim tipom datoteke. Nahaja se na:">
+
+<!ENTITY intro.attachment.label "Spletna stran predlaga, da se &quot;#3&quot; uporablja kot priloga. Je vrste #2 (#1) in se nahaja na:">
+<!ENTITY intro.attachment.noDesc.label "Spletna stran predlaga, da se &quot;#3&quot; uporablja kot priloga. Je vrste #2 in se nahaja na:">
+
+<!ENTITY intro.sniffed.label "Datoteka &quot;#3&quot; je vrste #2 (#1), a #4 ne ve, kako naj ravna s takšnim tipom datoteke. Nahaja se na:">
+<!ENTITY intro.sniffed.noDesc.label "Datoteka &quot;#3&quot; je vrste #2, a #4 ne ve, kako naj ravna s takšnim tipom datoteke. Nahaja se na:">
+
+<!ENTITY prompt.label "Kaj naj #1 stori s to datoteko?">
+
+<!ENTITY alwaysHandle.label "Ob ravnanju z datotekami te vrste vedno izvedi naslednje dejanje">
+<!ENTITY alwaysHandle.accesskey "A">
+
+<!ENTITY saveToDisk.label "Shrani datoteko na disk">
+<!ENTITY saveToDisk.accesskey "S">
+
+<!ENTITY useSystemDefault.label "Odpri datoteko s privzetim programom (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Odpri s privzetim programom">
+<!ENTITY useSystemDefault.accesskey "O">
+
+<!ENTITY openUsing.label "Odpri s programom">
+<!ENTITY openUsing.accesskey "s">
+
+<!ENTITY chooseApp.label "Izberite ...">
+<!ENTITY chooseApp.accesskey "I">
+
+<!ENTITY chooseAppFilePickerTitle "Izbiranje pomožnega programa">
+
+<!ENTITY badApp "Navedenega programa (&quot;#1&quot;) ni mogoče najti. Preverite ime datoteke, ali pa izberite drug program.">
+<!ENTITY badApp.title "Programa ni mogoče najti">

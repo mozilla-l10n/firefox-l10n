@@ -49,3 +49,5 @@ in vas opozoril, ko bodo na voljo.">
 <!ENTITY clickFinish.label "Kliknite gumb Dokončaj, če želite, da &brandShortName; nadaljuje z zagonom.">
 <!ENTITY clickFinish.labelMac "Kliknite gumb Dokončaj za nadaljevanje zagona &brandShortName;a.">
 <!ENTITY enableChecking.label "Dovoli &brandShortName;u, da preverja za posodobitve.">
+<!ENTITY details.label "Podrobnosti ...">
+<!ENTITY details.accesskey "P">

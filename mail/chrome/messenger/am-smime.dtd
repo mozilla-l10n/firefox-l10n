@@ -12,7 +12,7 @@
 <!ENTITY digitalSign.certificate.accesskey "I">
 <!ENTITY digitalSign.certificate_clear.button "Pobriši">
 <!ENTITY digitalSign.certificate_clear.accesskey "b">
-<!ENTITY encryption.certificate.button "Izberi …">
+<!ENTITY encryption.certificate.button "Izberi…">
 <!ENTITY encryption.certificate.accesskey "n">
 <!ENTITY encryption.certificate_clear.button "Pobriši">
 <!ENTITY encryption.certificate_clear.accesskey "š">
