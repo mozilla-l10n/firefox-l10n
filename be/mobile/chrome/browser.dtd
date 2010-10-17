@@ -74,6 +74,9 @@
 <!ENTITY contextShareImage.label "Падзяліцца малюнкам">
 <!ENTITY contextSaveVideo.label "Захаваць відэя">
 <!ENTITY contextShareVideo.label "Падзяліцца відэя">
+<!ENTITY contextPlayMedia.label "Граць">
+<!ENTITY contextPauseMedia.label "Прыпыніць">
+<!ENTITY contextFullScreen.label "Увесь экран">
 <!ENTITY contextEditBookmark.label "Правіць">
 <!ENTITY contextRemoveBookmark.label "Выдаліць">
 <!ENTITY pageactions.saveas.pdf "Захаваць як PDF">

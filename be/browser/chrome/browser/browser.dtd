@@ -402,10 +402,6 @@
 <!ENTITY editBookmark.done.label "Гатова">
 <!ENTITY editBookmark.cancel.label "Скасаваць">
 <!ENTITY editBookmark.removeBookmark.accessKey "д">
-<!ENTITY editBookmark.undo.label "Вярнуць">
-<!ENTITY editBookmark.undo.accessKey "В">
-<!ENTITY editBookmark.edit.label "Правіць…">
-<!ENTITY editBookmark.edit.accessKey "П">
 <!ENTITY identity.unverifiedsite2 "Гэтая пляцоўка сеціва не мае звестак пра адмету.">
 <!ENTITY identity.connectedTo "Вы з злучаны з">
 <!ENTITY identity.runBy "які падтрымліваецца">
