@@ -112,7 +112,7 @@
 <!ENTITY showTaskBoxCmd.label                   "Ülesannete nimekiri">
 <!ENTITY showTaskBoxCmd.accesskey               "Ü">
 
-<!ENTITY calendar.fullscreen.label              "Täisekraani režiim">
+<!ENTITY calendar.fullscreen.label              "Täisekraanirežiim">
 <!ENTITY calendar.fullscreen.accesskey          "i">
 
 <!ENTITY calendar.addons.label                  "Lisad">

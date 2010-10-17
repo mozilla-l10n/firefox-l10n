@@ -78,7 +78,7 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label                       "Veebilehe info">
 <!ENTITY pageInfoCmd.accesskey                   "i">
 <!ENTITY pageInfoCmd.commandkey                  "i">
-<!ENTITY fullScreenCmd.label                     "Täisekraani režiim">
+<!ENTITY fullScreenCmd.label                     "Täisekraanirežiim">
 <!ENTITY fullScreenCmd.accesskey                 "r">
 <!ENTITY fullScreenCmd.macCommandKey             "f">
 <!ENTITY showAllTabsCmd.label                    "Kuva kõiki kaarte">
@@ -89,7 +89,7 @@ can reach it easily. -->
 <!ENTITY fullScreenClose.tooltip                 "Sulge">
 <!ENTITY fullScreenAutohide.label                "Peida tööriistaribad">
 <!ENTITY fullScreenAutohide.accesskey            "P">
-<!ENTITY fullScreenExit.label                    "Välju täisekraani režiimist">
+<!ENTITY fullScreenExit.label                    "Välju täisekraanirežiimist">
 <!ENTITY fullScreenExit.accesskey                "V">
 
 <!ENTITY closeWindow.label                       "Sulge aken">
@@ -459,7 +459,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyButton.tooltip                      "Kopeeri">
 <!ENTITY pasteButton.tooltip                     "Aseta">
 
-<!ENTITY fullScreenButton.tooltip                "Kuva akent täisekraani režiimis">
+<!ENTITY fullScreenButton.tooltip                "Kuva akent täisekraanirežiimis">
 
 <!ENTITY zoomOutButton.tooltip                   "Vähenda">
 <!ENTITY zoomInButton.tooltip                    "Suurenda">

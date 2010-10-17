@@ -96,6 +96,7 @@
 <!ENTITY contextShareVideo.label   "Jaga videot">
 <!ENTITY contextPlayMedia.label    "Esita">
 <!ENTITY contextPauseMedia.label   "Paus">
+<!ENTITY contextFullScreen.label   "Täisekraanirežiim">
 <!ENTITY contextEditBookmark.label "Muuda">
 <!ENTITY contextRemoveBookmark.label "Eemalda">
 
