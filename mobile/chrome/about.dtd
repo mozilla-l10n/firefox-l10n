@@ -5,6 +5,10 @@
 <!ENTITY aboutPage.rights.label "Вашы правы…">
 <!ENTITY aboutPage.relNotes.label "Заўвагі пра выданне">
 <!ENTITY aboutPage.credits.label "Удзельнікі">
+<!ENTITY aboutPage.checkForUpdates.button "Праверка існавання абнаўленняў">
+<!ENTITY aboutPage.checkForUpdates.checking "Пошук абнаўленняў…">
+<!ENTITY aboutPage.checkForUpdates.none "Няма даступных абнаўленняў">
+<!ENTITY aboutPage.checkForUpdates.found "Даступна абнаўленне">
 <!ENTITY aboutPage.copyrightInfo1 "©1998-2009 Укладчыкі. Усе правы засцярожаны. (">
 <!ENTITY aboutPage.licenseLink "Звесткі пра ліцэнзію">
 <!ENTITY aboutPage.copyrightInfo2 ").">
