@@ -10,7 +10,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ndihmë"> 
 <!ENTITY helpMenuWin.accesskey    "N">
-<!ENTITY aboutProduct.label       "Rreth &brandFullName;-it">
+<!ENTITY aboutProduct.label       "Rreth &brandShortName;-it">
 <!ENTITY aboutProduct.accesskey   "R">
 <!ENTITY helpForIEUsers.label     "Për Përdorues të Internet Explorer-it">
 <!ENTITY helpForIEUsers.accesskey "I">

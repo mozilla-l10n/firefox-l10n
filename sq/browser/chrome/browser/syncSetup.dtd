@@ -87,7 +87,7 @@
 
 <!ENTITY choice2.merge.main.label      "Përzieni të dhënat e këtij kompjuteri me të dhënat e mia nga &syncBrand.shortName.label;-u">
 <!ENTITY choice2.merge.recommended.label "E këshilluar:">
-<!ENTITY choice2.client.main.label     "Zëvendëso krejt të dhënat në këtë kompjuter me të dhënat e mia nga &syncBrand.fullName.label;">
+<!ENTITY choice2.client.main.label     "Zëvendëso krejt të dhënat në këtë kompjuter me të dhënat e mia nga &syncBrand.shortName.label;">
 <!ENTITY choice2.server.main.label     "Zëvendëso te krejt pajisjet e tjera me dhënat nga ky kompjuter">
 
 <!-- Confirm Merge Options -->
