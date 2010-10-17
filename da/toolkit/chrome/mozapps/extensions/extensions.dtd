@@ -43,7 +43,7 @@
 <!ENTITY updates.updateAddonsAutomatically.accesskey "a">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Nulstil alle tilføjelser til automatisk opdatering">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "N">
-<!ENTITY updates.resetUpdatesToManual.label          "Nulstil alle tilføjelser til manuel opdaterin">
+<!ENTITY updates.resetUpdatesToManual.label          "Nulstil alle tilføjelser til manuel opdatering">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "N">
 <!ENTITY updates.updating.label               "Opdaterer tilføjelser">
 <!ENTITY updates.installed.label              "Dine tilføjelser er blevet opdateret.">
@@ -98,7 +98,7 @@
 <!ENTITY discover.description2                "Tilføjelser er små applikationer som du kan bruge til at tilpasse &brandShortName; med 
   ekstra funktioner eller andet udseende. Prøv en tidsbesparende sidebjælke, bliv gjort opmærksom på vejret, eller prøv et nyt look og gør 
   dermed  &brandShortName; til din helt egen.">
-<!ENTITY discover.footer                      "Når du er tilkoblet til nettet vil denne oversigt
+<!ENTITY discover.footer                      "Når du er koblet til nettet vil denne oversigt
   vise nogle af de bedste og mest populære tilføjelser, som du kan prøve af.">
   
 <!-- detail view -->
@@ -106,7 +106,7 @@
 <!ENTITY detail.lastupdated.label             "Senest opdateret">
 <!ENTITY detail.creator.label                 "Udvikler">
 <!ENTITY detail.homepage.label                "Hjemmeside">
-<!ENTITY detail.numberOfDownloads.label       "Antal gange hentet">
+<!ENTITY detail.numberOfDownloads.label       "Antal hentninger">
 
 <!ENTITY detail.contributions.description     "Udvikleren af denne tilføjelse forespøger om du vil hjælpe dens videre udvikling ved at bidrage med en lille donation.">
 

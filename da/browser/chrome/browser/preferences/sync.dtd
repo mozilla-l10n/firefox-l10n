@@ -16,12 +16,12 @@
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY viewQuota.label              "Vis kvota">
 <!ENTITY changePassword.label         "Ændr adgangskode">
-<!ENTITY mySyncKey.label              "Min Sync nøgle">
+<!ENTITY mySyncKey.label              "Min Sync-nøgle">
 <!ENTITY resetSync.label              "Nulstil Sync">
 <!ENTITY stopUsingAccount.label       "Afslut brug af denne konto">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncPrefsCaption.label       "Synkroniseringsindstillinger">
 <!ENTITY syncComputerName.label       "Computernavn:">
 <!ENTITY syncComputerName.accesskey   "c">
 

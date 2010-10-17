@@ -127,7 +127,7 @@
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Dette kan være et problem med serverens konfiguration eller det kan betyde at nogen forsøger at give sig ud for at være serveren.</li>
-<li>Hvis du har kunne tilgå serveren tidligere kan dette problem være midlertidligt og du anbefales at prøve igen senere.</li>
+<li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidligt og du anbefales at prøve igen senere.</li>
 </ul>
 ">
 
@@ -151,7 +151,7 @@
 <p>Disse typer webforfalskninger bruges i svindelsager kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkeret grundet indholdssikkerhedshedspolitik">
+<!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet indholdssikkerhedshedspolitik">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik der forbyder dette.</p>">
 
 <!ENTITY securityOverride.linkText "Eller du kan tilføje en undtagelse…">

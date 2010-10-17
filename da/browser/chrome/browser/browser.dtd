@@ -133,7 +133,7 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Åbn &brandShortName; menu">
+<!ENTITY appMenuButton.tooltip        "Åbn &brandShortName;-menuen">
 <!ENTITY homeButton.label             "Hjem">
 
 <!ENTITY tabGroupsButton.label        "Fanebladsgrupper">
@@ -273,7 +273,7 @@ can reach it easily. -->
 <!ENTITY historyUndoWindowMenu.label "Nyligt lukkede vinduer">
 <!ENTITY historyRestoreLastSession.label "Genskab forrige session">
 
-<!ENTITY historyHomeCmd.label "Hjem">
+<!ENTITY historyHomeCmd.label "Home">
 <!ENTITY showAllHistoryCmd2.label "Vis historik">
 <!ENTITY showAllHistoryCmd.commandkey "V">
 
@@ -349,7 +349,7 @@ can reach it easily. -->
 <!ENTITY reloadImageCmd.accesskey     "G">
 <!ENTITY viewImageCmd.label           "Vis billede">
 <!ENTITY viewImageCmd.accesskey       "V">
-<!ENTITY viewImageInfoCmd.label       "Vis billededetaljer">
+<!ENTITY viewImageInfoCmd.label       "Vis billededoplysninger">
 <!ENTITY viewImageInfoCmd.accesskey   "i">
 <!ENTITY viewVideoCmd.label           "Vis video">
 <!ENTITY viewVideoCmd.accesskey       "V">
@@ -400,7 +400,7 @@ can reach it easily. -->
 <!ENTITY copyVideoURLCmd.accesskey    "a">
 <!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
 <!ENTITY copyAudioURLCmd.accesskey    "a"> 
-<!ENTITY copyEmailCmd.label           "Kopier emailadresse">
+<!ENTITY copyEmailCmd.label           "Kopier mailadresse">
 <!ENTITY copyEmailCmd.accesskey       "a">
 <!ENTITY thisFrameMenu.label              "Denne ramme">
 <!ENTITY thisFrameMenu.accesskey          "r">
@@ -461,7 +461,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY zoomOutButton.tooltip          "Zoom ud">
 <!ENTITY zoomInButton.tooltip           "Zoom ind">
-<!ENTITY zoomControls.label             "Zoom styring">
+<!ENTITY zoomControls.label             "Zoom-knapper">
 
 <!ENTITY quitApplicationCmdWin.label       "Afslut"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "A">

@@ -11,7 +11,7 @@
 <!ENTITY  blockAttackSites.label     "Bloker websteder, der er mistænkt for at sprede skadelige programmer">
 <!ENTITY  blockAttackSites.accesskey "s">
 
-<!ENTITY  blockWebForgeries.label     "Bloker websteder, der er mistænkt for at udføre netsvindel">
+<!ENTITY  blockWebForgeries.label     "Bloker websteder, der er mistænkt for at medvirke til netsvindel">
 <!ENTITY  blockWebForgeries.accesskey "n">
 
 <!ENTITY  addonExceptions.label         "Undtagelser…">

@@ -16,7 +16,7 @@
 <!ENTITY aboutSupport.appBasicsTitle "Applikationsinfo">
 <!ENTITY aboutSupport.appBasicsName "Navn">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profilbibliotek">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profilmappe">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktive plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfiguration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">

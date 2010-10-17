@@ -9,5 +9,5 @@
 <!ENTITY blocklist.accept.label      "Genstart &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "G">
 
-<!ENTITY blocklist.blocked.label     "Blokkeret">
+<!ENTITY blocklist.blocked.label     "Blokeret">
 <!ENTITY blocklist.checkbox.label    "Deaktvér">

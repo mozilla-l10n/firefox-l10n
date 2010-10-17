@@ -3,7 +3,7 @@
 <!ENTITY history.intro             "Følgende opdateringer er blevet installeret:">
 <!ENTITY closebutton.label         "Luk">
                                      
-<!ENTITY noupdates.label           "Der er ikke installeret nogle opdateringer endnu">
+<!ENTITY noupdates.label           "Ingen opdateringer installeret endnu">
 
 <!ENTITY name.header               "Navn på opdatering">
 <!ENTITY date.header               "Installationsdato">
