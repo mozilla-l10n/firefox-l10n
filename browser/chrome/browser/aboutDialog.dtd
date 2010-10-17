@@ -25,9 +25,9 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Tjekker for opdateringer…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Tjekker kompatibilitet for tilføjelse…">
+<!ENTITY update.checkingAddonCompat "Tjekker kompatibilitet med tilføjelser…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; er ajour med opdateringer">
+<!ENTITY update.noUpdatesFound      "Der er ingen opdateirnger til &brandShortName; i øjeblikket">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Opdateringer er deaktiveret af din systemadministrator">
 

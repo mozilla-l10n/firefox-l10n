@@ -66,8 +66,8 @@
 <!ENTITY  rememberDownload.label         "Husk filhentningshistorik">
 <!ENTITY  rememberDownload.accesskey     "H">
 
-<!ENTITY  rememberSearchForm.label       "Husk søge- og formularhistorik">
-<!ENTITY  rememberSearchForm.accesskey   "s">
+<!ENTITY  rememberSearchForm.label       "Husk formular- og søgehistorik">
+<!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Ryd historik når &brandShortName; lukkes">
 <!ENTITY  clearOnClose.accesskey         "R">

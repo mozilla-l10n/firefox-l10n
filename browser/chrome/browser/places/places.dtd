@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Arkiv">
+<!ENTITY places.library.title  "Bogmæker og historik">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organiser">
@@ -12,7 +12,7 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY edit.label                     "Rediger">
 <!ENTITY edit.accesskey                 "e">
-<!ENTITY views.label                    "Visninger">
+<!ENTITY views.label                    "Visning">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Ændr din visning">
 <!ENTITY view.columns.label             "Vis kolonner">
@@ -84,7 +84,7 @@
 
 <!ENTITY col.name.label          "Navn">
 <!ENTITY col.tags.label          "Mærkater">
-<!ENTITY col.url.label           "Placering">
+<!ENTITY col.url.label           "Adresse">
 <!ENTITY col.lastvisit.label     "Senest besøgt">
 <!ENTITY col.visitcount.label    "Besøg">
 <!ENTITY col.keyword.label       "Stikord">

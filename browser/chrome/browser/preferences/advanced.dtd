@@ -51,8 +51,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Ryd nu">
 <!ENTITY clearCacheNow.accesskey         "R">
-<!ENTITY overrideSmartCacheSize.label    "Overstyr automatisk cachehåndtering">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.label    "Deaktiver automatisk cachehåndtering">
+<!ENTITY overrideSmartCacheSize.accesskey "D">
 
 <!ENTITY updateTab.label                 "Opdateringer">
 
