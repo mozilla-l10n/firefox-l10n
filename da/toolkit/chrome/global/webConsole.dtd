@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Svarhoved">
 <!ENTITY networkPanel.responseBody                "Svarindhold">
 <!ENTITY networkPanel.responseBodyCached          "Cached data">
+<!ENTITY networkPanel.responseBodyUnknownType     "Ukendt indholdstype">
 <!ENTITY networkPanel.responseNoBody              "Intet svarindhold">
 <!ENTITY networkPanel.responseImage               "Modtaget billede">
 <!ENTITY networkPanel.responseImageCached         "Cached billede">

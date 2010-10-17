@@ -514,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Færdig">
 <!ENTITY editBookmark.cancel.label                   "Annuller">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
-<!ENTITY editBookmark.undo.label                     "Fortryd">
-<!ENTITY editBookmark.undo.accessKey                 "o">
-<!ENTITY editBookmark.edit.label                     "Rediger…">
-<!ENTITY editBookmark.edit.accessKey                 "R">
 
 <!ENTITY identity.unverifiedsite2 "Dette websted leverer ingen information om dets identitet.">
 <!ENTITY identity.connectedTo "Du er forbundet til">
