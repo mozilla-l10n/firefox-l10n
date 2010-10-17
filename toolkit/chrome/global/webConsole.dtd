@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Responshoder">
 <!ENTITY networkPanel.responseBody                "Responskropp">
 <!ENTITY networkPanel.responseBodyCached          "Mellomlagret data">
+<!ENTITY networkPanel.responseBodyUnknownType     "Ukjent innholdstype">
 <!ENTITY networkPanel.responseNoBody              "Ingen responskropp">
 <!ENTITY networkPanel.responseImage               "Mottatt bilde">
 <!ENTITY networkPanel.responseImageCached         "Mellomlagret bilde">
