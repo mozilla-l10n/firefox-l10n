@@ -31,7 +31,7 @@
 <!ENTITY nntpRemoveMsgBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Izberi novičarske skupine za delo brez povezave…">
 <!ENTITY offlineSelectNntp.accesskey "b">
-<!ENTITY offlineImapAdvancedOffline.label "Napredno …">
+<!ENTITY offlineImapAdvancedOffline.label "Napredno…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "p">
 <!ENTITY syncGroupTitle.label "Sinhronizacija sporočil">
 <!ENTITY diskspaceGroupTitle.label "Prostor na disku">

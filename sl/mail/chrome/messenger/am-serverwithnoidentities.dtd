@@ -7,5 +7,5 @@
 <!ENTITY emptyTrashOnExit.accesskey "X">
 <!ENTITY localPath.label "Lokalni imenik:">
 <!ENTITY localFolderPicker.label "Izberi lokalno mapo">
-<!ENTITY browseFolder.label "Prebrskaj …">
+<!ENTITY browseFolder.label "Prebrskaj…">
 <!ENTITY browseFolder.accesskey "B">

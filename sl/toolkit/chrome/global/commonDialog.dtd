@@ -2,6 +2,7 @@
 <!ENTITY message.label "Sem sodi vzorčno besedilo.">
 <!ENTITY editfield0.label "Uporabniško ime:">
 <!ENTITY editfield1.label "Geslo:">
+<!ENTITY editfield2.label "Potrditev gesla:">
 <!ENTITY checkbox.label "označi">
 <!ENTITY copyCmd.label "Kopiraj">
 <!ENTITY copyCmd.accesskey "K">

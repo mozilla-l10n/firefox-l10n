@@ -8,6 +8,3 @@
 
 <!ENTITY blocklist.accept.label      "Ponovno zaženi &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "P">
-
-<!ENTITY blocklist.blocked.label     "Blocked">
-<!ENTITY blocklist.checkbox.label    "Disable">
