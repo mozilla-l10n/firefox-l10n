@@ -96,6 +96,7 @@
 <!ENTITY contextShareVideo.label      "Diel fideo">
 <!ENTITY contextPlayMedia.label       "Spylje">
 <!ENTITY contextPauseMedia.label      "Pauze">
+<!ENTITY contextFullScreen.label      "Folslein skerm">
 <!ENTITY contextEditBookmark.label    "Bewurkje">
 <!ENTITY contextRemoveBookmark.label  "Fuortsmite">
 
