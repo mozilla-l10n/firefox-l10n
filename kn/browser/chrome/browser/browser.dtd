@@ -36,9 +36,6 @@
 <!ENTITY personalbarCmd.label "ಬುಕ್‍ಮಾರ್ಕುಗಳ  ಉಪಕರಣ ಪಟ್ಟಿ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ಬುಕ್‍ಮಾರ್ಕುಗಳ  ಉಪಕರಣ ಪಟ್ಟಿ ಯ ಅಂಶಗಳು">
-<!ENTITY taskbarCmd.label "ಸ್ಥಿತಿ ಪಟ್ಟಿಕೆ">
-<!ENTITY taskbarCmd.accesskey "B">
-
 <!ENTITY pageSourceCmd.label "ಪುಟದ  ಮೂಲ">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -90,10 +87,6 @@
 
 <!ENTITY bookmarksButton.label          "ಬುಕ್‍ಮಾರ್ಕುಗಳು">
 <!ENTITY bookmarksButton.tooltip        "ನಿಮ್ಮ ಬುಕ್‍ಮಾರ್ಕುಗಳನ್ನು ತೋರಿಸು ">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
-
 <!ENTITY historyButton.label            "ಇತಿಹಾಸ">
 <!ENTITY historyButton.tooltip          "ನೀವು ಇತ್ತೀಚೆಗೆ ನೋಡಿದ ಪುಟವನ್ನು ತೋರಿಸು">
 <!ENTITY historySidebarCmd.accesskey    "s">
@@ -112,7 +105,7 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "ಆಡ್-ಆನ್‍ಗಳು">
-<!ENTITY addons.tooltip               "ಅನುಸ್ಥಾಪಿಸಲಾದ ಆಡ್-ಆನ್‍ಗಳನ್ನು  ತೋರಿಸು ಹಾಗು ನಿರ್ವಹಿಸು">
+
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "ದೋಷ ಕನ್ಸೋಲ್">
@@ -197,7 +190,6 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "ಹೊಸ  ವಿಂಡೋದಲ್ಲಿ ಕೊಂಡಿಯನ್ನುತೆರೆ">
@@ -253,11 +245,10 @@
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ಚಿತ್ರವನ್ನು ಕಾಪಿ ಮಾಡು">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY blockImageCmd.accesskey       "g">
-<!ENTITY metadataCmd.label            "ಗುಣಲಕ್ಷಣಗಳು">
-<!ENTITY metadataCmd.accesskey        "P">
-<!ENTITY copyEmailCmd.label           "ಈ ಮೇಲ್ ವಿಳಾಸವನ್ನು ಕಾಪಿ ಮಾಡು">
+
 <!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY copyEmailCmd.label           "Copy Email Address">
+
 <!ENTITY thisFrameMenu.label              "ಈ ಚೌಕಟ್ಟು">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
@@ -327,18 +318,11 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY bookmarkThisPageCmd.label "ಈ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು">
 <!ENTITY closeWindow.accesskey "d">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
-<!ENTITY copyLinkTextCmd.label        "ಕೊಂಡಿಯ ಪಠ್ಯವನ್ನು ಕಾಪಿ ಮಾಡು">
 <!ENTITY sendImageCmd.label           "ಚಿತ್ರವನ್ನು ಕಳುಹಿಸು…">
 <!ENTITY downloadMonitor2.tooltip "ಡೌನ್‌ಲೋಡ್‌ಗಳ ವಿಂಡೊವನ್ನು ತೆರೆಯಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ಕಿಸಿ">
 <!ENTITY editBookmark.cancel.label                   "ರದ್ದುಗೊಳಿಸು">
 <!ENTITY editBookmark.done.label                     "ಆಯಿತು">
-<!ENTITY editBookmark.edit.accessKey                 "E">
-<!ENTITY editBookmark.edit.label                     "ಸಂಪಾದನೆ…">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.removeBookmark.label           "ಬುಕ್‌ಮಾರ್ಕನ್ನು ತೆಗೆದು ಹಾಕು">
-<!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.undo.label                     "ಮತ್ತೊಮ್ಮೆ ಮಾಡು">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenAutohide.label "ಉಪಕರಣಪಟ್ಟಿಗಳನ್ನು ಅಡಗಿಸು">
@@ -364,19 +348,15 @@
 <!ENTITY identity.moreInfoLinkText "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ…">
 <!ENTITY identity.runBy "ಇದನ್ನು ನಡೆಸುತ್ತಿರುವವರು">
 <!ENTITY identity.unverifiedsite2 "ಈ ಜಾಲತಾಣವು ತನ್ನು ಗುರುತು ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಿಲ್ಲ.">
-<!ENTITY organizeBookmarks.label "ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ವ್ಯವಸ್ಥಿತಗೊಳಿಸು…">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY printFrameCmd.label          "ಫ್ರೇಮ್ ಅನ್ನು ಮುದ್ರಿಸು…">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY showAllHistoryCmd2.label "ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
-<!ENTITY urlbar.emptyText             "ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಹಾಗು ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
 <!ENTITY fullZoom.accesskey             "Z">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ಆಡಿಯೋ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyVideoURLCmd.label        "ವೀಡಿಯೋ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
-<!ENTITY ctrlTab.search.emptyText "ಹುಡುಕು ಟ್ಯಾಬ್‌ಗಳು">
-<!ENTITY mainWindowPrivateBrowsing.titlemodifier "&mainWindow.titlemodifier; (ಖಾಸಗಿ ವೀಕ್ಷಣೆ)">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "ನಿಯಂತ್ರಣಗಳನ್ನು ಅಡಗಿಸು">
 <!ENTITY mediaMute.accesskey         "M">
@@ -389,8 +369,6 @@
 <!ENTITY mediaShowControls.label     "ನಿಯಂತ್ರಣಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaUnmute.label           "ಮೂಕವಾಗಿಸಬೇಡ">
-<!ENTITY privateBrowsingCmd.label            "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
-<!ENTITY privateBrowsingCmd.accesskey        "B">
 <!ENTITY reloadImageCmd.label         "ಚಿತ್ರವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY saveAudioCmd.label           "ಆಡಿಯೋ ಅನ್ನು ಹೀಗೆ ಉಳಿಸು…">
@@ -403,8 +381,177 @@
 <!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY viewVideoCmd.label           "ವೀಡಿಯೋ ಅನ್ನು ನೋಡಿ">
 <!ENTITY viewVideoCmd.accesskey       "I">
-
-<!ENTITY clearRecentHistoryCmd.label            "ಇತಿಹಾಸವನ್ನು ತೆರವುಗೊಳಿಸು">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
-
 <!-- new bookmarks and history -->
+
+<!ENTITY addonBarCmd.label "ಆಡ್-ಆನ್ ಪಟ್ಟಿಕೆ">
+<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addons.commandkey            "A">
+
+<!ENTITY allTabs.filter.emptyText "ಹುಡುಕು ಹಾಳೆಗಳು">
+
+<!ENTITY appMenuButton.label          "ಮೆನು">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; ಅನ್ನು ತೆರೆ">
+
+<!ENTITY appMenuEdit.label "ಸಂಪಾದನೆ">
+<!ENTITY appMenuCustomize.label "ಇಚ್ಛೆಗೆ ಅನುಸಾರವಾಗಿ ಬದಲಾಯಿಸು">
+<!ENTITY appMenuToolbarLayout.label "ಉಪಕರಣಪಟ್ಟಿ ವಿನ್ಯಾಸ…">
+<!ENTITY appMenuSidebars.label "ಬದಿಪಟ್ಟಿಕೆಗಳು">
+<!ENTITY appMenuFind.label "ಹುಡುಕು…">
+<!ENTITY appMenuUnsorted.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
+<!ENTITY appMenuWebDeveloper.label "ಜಾಲ ವಿಕಸನಾಗಾರರು">
+<!ENTITY appMenuGettingStarted.label "ಆರಂಭಿಸುವಿಕೆ">
+<!ENTITY appMenuSafeMode.label "ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ ಆರಂಭಿಸು…">
+<!ENTITY appMenuSafeMode.accesskey "R">
+
+<!ENTITY backForwardItem.title        "ಹಿಂದಕ್ಕೆ/ಮುಂದಕ್ಕೆ">
+
+<!ENTITY  bookmarkAllTabs.label              "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY bookmarksMenuButton.label          "ಬುಕ್‌ಮಾರ್ಕುಗಳು">
+<!ENTITY bookmarksMenuButton.tooltip        "ನಿಮ್ಮ ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ತೋರಿಸಿ">
+<!ENTITY bookmarksMenuButton.unsorted.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
+<!ENTITY bookmarksToolbarChevron.tooltip "ಇನ್ನಷ್ಟು ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ತೋರಿಸು">
+
+<!ENTITY clearRecentHistory.label               "ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…">
+<!ENTITY clearRecentHistory.accesskey           "H">
+
+<!ENTITY  closeOtherTabs.label               "ಇತರೆ ಹಾಳೆಗಳನ್ನು ಮುಚ್ಚು">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+
+<!ENTITY  closeTab.label                     "ಹಾಳೆಯನ್ನು ಮುಚ್ಚು">
+<!ENTITY  closeTab.accesskey                 "c">
+
+<!ENTITY feedButton.label             "ಚಂದಾದಾರನಾಗಿಸು">
+<!ENTITY feedButton.tooltip           "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರರಾಗಿ…">
+
+<!ENTITY fullScreenButton.tooltip       "ವಿಂಡೊವನ್ನು ಸಂಪೂರ್ಣ ತೆರೆಯಲ್ಲಿ ತೋರಿಸು">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+
+<!ENTITY historyRestoreLastSession.label "ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
+<!ENTITY historyUndoWindowMenu.label "ಇತ್ತೀಚಿಗೆ ಮುಚ್ಚಲಾದ ವಿಂಡೋಗಳು">
+
+<!ENTITY inspectButton.label          "ಪರಿಶೀಲಿಸು">
+<!ENTITY inspectButton.accesskey      "I">
+
+<!ENTITY inspectMenu.label            "ಪರಿಶೀಲಿಸು">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY inspectNextButton.label      "ಮುಂದಿನ">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "ಹಿಂದಿನ">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStylePanelTitle.label  "ಶೈಲಿ">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "ವಸ್ತು">
+<!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+
+<!ENTITY inspectStyleButton.label     "ಶೈಲಿ">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "ಶೈಲಿ">
+
+<!ENTITY  listAllTabs.label      "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು">
+
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ಖಾಸಗಿ ವೀಕ್ಷಣೆ)">
+
+<!ENTITY menubarCmd.label "ಮೆನು ಪಟ್ಟಿಕೆ">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY  moveToGroup.label                  "ಗುಂಪಿಗೆ ಜರುಗಿಸು">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "ಹೊಸ ಗುಂಪು">
+<!ENTITY  moveToNewWindow.label              "ಹೊಸ ವಿಂಡೊಗೆ ಜರುಗಿಸು">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY newTabButton.tooltip           "ಹೊಸ ಹಾಳೆಯನ್ನು ತೆರೆ">
+<!ENTITY openLinkCmdInCurrent.label     "ಕೊಂಡಿಯನ್ನು ತೆರೆ">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "App ಹಾಳೆಯಾಗಿ ಚುಚ್ಚಿಡು">
+<!ENTITY  pinAppTab.accesskey                "P">
+
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣೆಯನ್ನು ಆರಂಭಿಸು">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
+
+<!ENTITY privateBrowsingCmd.stop.label          "ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣೆಯನ್ನು ನಿಲ್ಲಿಸು">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
+
+<!ENTITY  reloadTab.label                    "ಹಾಳೆಯನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+
+<!ENTITY showAllBookmarks.label "ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ತೋರಿಸು…">
+<!ENTITY showAllTabsCmd.label "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY showAllTabsCmd.accesskey "A">
+
+<!ENTITY syncBrand.shortName.label    "ಮೇಳೈಸು">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸಿ…">
+<!ENTITY syncSetup.accesskey          "Y">
+
+<!ENTITY syncSyncNowItem.label        "ಈಗಲೆ ಮೇಳೈಸು">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "ಇತರೆ ಗಣಕಗಳಿಂದ ಹಾಳೆಗಳು">
+<!ENTITY syncToolbarButton.label      "ಮೇಳೈಸು">
+
+<!ENTITY tabGroupsButton.label        "ಹಾಳೆ ಗುಂಪುಗಳು">
+<!ENTITY tabGroupsButton.tooltip      "ನಿಮ್ಮ ಹಾಳೆಗಳನ್ನು ಗುಂಪುಗೂಡಿಸಿ">
+
+<!ENTITY tabView.commandkey           "e">
+
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "ಜಾಲವೀಕ್ಷಣಾ ಹಾಳೆಗಳು">
+
+<!ENTITY  undoCloseTab.label                 "ಹಾಳೆ ಮುಚ್ಚುವಿಕೆಯನ್ನು ರದ್ದುಗೊಳಿಸು">
+<!ENTITY  undoCloseTab.accesskey             "U">
+
+<!ENTITY  unpinAppTab.label                  "ಹಾಳೆ ಚುಚ್ಚಿದ್ದನ್ನು ತೆಗೆದುಹಾಕು">
+<!ENTITY  unpinAppTab.accesskey              "b">
+
+<!ENTITY urlbar.placeholder           "ಜಾಲ ತಾಣಕ್ಕೆ ತೆರಳು">
+<!ENTITY urlbar.switchToTab.label     "ಹಾಳೆಗೆ ಬದಲಾಯಿಸು:">
+
+<!ENTITY videoFullScreen.label       "ಪೂರ್ಣ ತೆರೆ">
+<!ENTITY videoFullScreen.accesskey   "F">
+
+<!ENTITY viewBookmarksSidebar.label         "ಬದಿಪಟ್ಟಿಕೆಯಲ್ಲಿ ನೋಡು">
+<!ENTITY viewBookmarksToolbar.label         "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನೋಡು">
+
+<!ENTITY viewImageInfoCmd.label       "ಚಿತ್ರದ ಮಾಹಿತಿಯನ್ನು ನೋಡು">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+
+<!ENTITY viewTabGroups.label            "ಹಾಳೆ ಗುಂಪುಗಳು">
+<!ENTITY viewTabGroups.accesskey        "G">
+
+<!ENTITY viewTabsOnTop.label            "ಮೇಲಿರುವ ಹಾಳೆಗಳು">
+<!ENTITY viewTabsOnTop.accesskey        "T">
+
+<!ENTITY webConsoleCmd.label          "ಜಾಲ ಕನ್ಸೋಲ್">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY zoomOutButton.tooltip          "ಕುಗ್ಗಿಸು">
+<!ENTITY zoomInButton.tooltip           "ಹಿಗ್ಗಿಸು">
+<!ENTITY zoomControls.label             "ಗಾತ್ರಬದಲಾವಣೆ ನಿಯಂತ್ರಣಗಳು">
