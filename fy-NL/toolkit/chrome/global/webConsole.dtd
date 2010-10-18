@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Beantwurde koppen">
 <!ENTITY networkPanel.responseBody                "Beantwurde kearn">
 <!ENTITY networkPanel.responseBodyCached          "Buffere data">
+<!ENTITY networkPanel.responseBodyUnknownType     "Unbekend ynhâldtype">
 <!ENTITY networkPanel.responseNoBody              "Gjin antwurdkearn">
 <!ENTITY networkPanel.responseImage               "Untfangen ôfbylding">
 <!ENTITY networkPanel.responseImageCached         "Buffere ôfbylding">
