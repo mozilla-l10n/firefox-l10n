@@ -1,5 +1,5 @@
-<!ENTITY aboutDialog.title "Om &brandShortName;">
-<!ENTITY aboutButton.label      "&lt; Om &brandShortName;">
+<!ENTITY aboutDialog.title "Om &brandFullName;">
+<!ENTITY aboutButton.label      "&lt; Tilbage">
 <!ENTITY aboutButton.accesskey  "T">
 <!ENTITY aboutVersion           "version">
 <!ENTITY aboutMenu.label        "Om">
