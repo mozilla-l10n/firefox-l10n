@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Zoeken">
+<!ENTITY  filter.placeholder          "Zoeken">
 
 <!ENTITY saveTo.label                 "Bestanden opslaan in">
 <!ENTITY saveTo.accesskey             "o">
