@@ -44,9 +44,9 @@
 <!ENTITY object.del.label "Elimina">
 <!ENTITY object.del.hint "Elimina l'oggetto corrente, rimuovendone tutte le preferenze">
 <!ENTITY object.del.accesskey "E">
-<!ENTITY object.reset.label "Reimposta">
+<!ENTITY object.reset.label "Azzera">
 <!ENTITY object.reset.hint "Riporta le preferenze di questo oggetto allo stato predefinito">
-<!ENTITY object.reset.accesskey "f">
+<!ENTITY object.reset.accesskey "z">
 <!ENTITY dialog.apply "Applica">
 <!ENTITY network "Rete">
 <!ENTITY channel "Canale">
