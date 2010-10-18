@@ -734,7 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY loadRemoteContentButton3.label "Vis billeder">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "&brandShortName; mener, at denne meddelelse måske er mailsvindel.">
+<!ENTITY phishingBarMessage2.label "Denne meddelelse er måske er mailsvindel.">
 <!ENTITY removePhishingBarButton1.label "Ikke-svindel">
 <!ENTITY reportPhishingError1.label "Denne meddelelse ser ikke ud til at være mailsvindel.">
 
