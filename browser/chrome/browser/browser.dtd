@@ -514,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Temam">
 <!ENTITY editBookmark.cancel.label                   "Betal">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Şûnde Bîne">
-<!ENTITY editBookmark.undo.accessKey                 "Ş">
-<!ENTITY editBookmark.edit.label                     "Serast bike…">
-<!ENTITY editBookmark.edit.accessKey                 "e">
 
 <!ENTITY identity.unverifiedsite2 "Di vê malperê de agahiyên nasnameyê nîn in.">
 <!ENTITY identity.connectedTo "Bi vê ve hatî girêdan">

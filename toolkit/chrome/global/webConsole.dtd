@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Sernavên Bersivîn">
 <!ENTITY networkPanel.responseBody                "Qurmê Bersivîn">
 <!ENTITY networkPanel.responseBodyCached          "Daneya Standî">
+<!ENTITY networkPanel.responseBodyUnknownType     "Cureyê naverokê yê nayê naskirin">
 <!ENTITY networkPanel.responseNoBody              "Qurmê Bersivîn tune ye">
 <!ENTITY networkPanel.responseImage               "Wêneyê Standî">
 <!ENTITY networkPanel.responseImageCached         "Wêneyê di bîrê de">
