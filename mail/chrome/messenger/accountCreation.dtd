@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "E-mailaccountset-up">
 <!ENTITY name.label                      "Uw naam:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "Voornaam achternaam">
+<!ENTITY name.placeholder                "Voornaam achternaam">
 <!ENTITY name.text                       "Uw naam, zoals getoond aan anderen">
 <!ENTITY email.label                     "E-mailadres:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Wachtwoord:">
 <!ENTITY password.accesskey              "W">
-<!ENTITY password.emptytext              "Wachtwoord">
+<!ENTITY password.placeholder            "Wachtwoord">
 <!ENTITY password.text                   "Optioneel, wordt alleen gebruikt om de gebruikersnaam te valideren">
   
 <!ENTITY accountInformation.label        "Accountinformatie">
