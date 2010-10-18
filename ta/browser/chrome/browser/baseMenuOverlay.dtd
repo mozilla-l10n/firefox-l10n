@@ -10,39 +10,39 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "உதவி"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutCmd.label           "&brandFullName; பற்றி">
-<!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "உதவி உள்ளடக்கம்">
-<!ENTITY helpContents.accesskey   "H">
-<!ENTITY helpContentsMac.label    "&brandShortName; உதவி">
+
 <!ENTITY helpForIEUsers.label     "Internet Explorer பயனர்களுக்கு">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
 
 <!ENTITY helpReleaseNotes.label         "வெளியீட்டு அறிக்கை">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY updateCmd.label                "மேம்படுத்தலுக்கு சரிபார்க்கவும்…">
-<!ENTITY updateCmd.accesskey            "o">
 
 <!ENTITY preferencesCmdMac.label        "முன்னுரிமைகள்…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "சேவைகள்">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName;ஐ மறை">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "மற்றவற்றை மறை">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "அனைத்தையும் காட்டு">
+
+<!ENTITY aboutProduct.label       "&brandShortName; பற்றி">
+<!ENTITY aboutProduct.accesskey   "A">
+
+<!ENTITY helpFeedbackPage.label      "கருத்துக்களை சமர்ப்பிக்கவும்…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "கூடுதல் இணைப்புகள் செயல்நீக்கத்துடன் மறுதுவக்கவும்…">
+<!ENTITY helpSafeMode.accesskey   "R">
+
+<!ENTITY helpTroubleshootingInfo.label      "பிழைத்திருத்தல் தகவல்">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
