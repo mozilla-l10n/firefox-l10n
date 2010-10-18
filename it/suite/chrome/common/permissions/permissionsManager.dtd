@@ -1,9 +1,9 @@
 <!ENTITY windowtitle.label "Siti web accettati">
 <!ENTITY treehead.sitename.label "Sito">
 <!ENTITY treehead.status.label "Stato">
-<!ENTITY remove.label "Elimina sito">
-<!ENTITY remove.accesskey "E">
-<!ENTITY removeall.label "Elimina tutti i siti">
+<!ENTITY remove.label "Rimuovi sito">
+<!ENTITY remove.accesskey "R">
+<!ENTITY removeall.label "Rimuovi tutti i siti">
 <!ENTITY removeall.accesskey "t">
 <!ENTITY address.label "Indirizzo del sito web:">
 <!ENTITY address.accesskey "d">

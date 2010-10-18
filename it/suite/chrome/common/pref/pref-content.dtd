@@ -5,13 +5,6 @@
 <!ENTITY useSiteIcons.accesskey "M">
 <!ENTITY useFavIcons.label "Cerca accuratamente l'icona del sito web quando la pagina non ne definisce una">
 <!ENTITY useFavIcons.accesskey "C">
-<!ENTITY tbIconsDescription.label "Mostra le icone dei siti web nei segnalibri e nella barra degli strumenti:">
-<!ENTITY tbIconsNever.label "Non mostrare mai le icone nei segnalibri">
-<!ENTITY tbIconsNever.accesskey "N">
-<!ENTITY tbIconsCache.label "Solo quando il sito web è stato visitato di recente">
-<!ENTITY tbIconsCache.accesskey "S">
-<!ENTITY tbIconsAlways.label "Carica sempre le icone dei siti web nei segnalibri">
-<!ENTITY tbIconsAlways.accesskey "a">
 <!ENTITY enableAutomaticImageResizing.label "Ridimensiona immagini grandi per mostrarle nella finestra del browser">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 <!ENTITY useSmoothScroll.label "Utilizza lo scorrimento continuo">

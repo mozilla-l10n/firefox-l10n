@@ -12,6 +12,6 @@
 <!ENTITY searchMsgsLink.label "Cerca messaggi">
 <!ENTITY filtersLink.label "Gestione filtri per i messaggi">
 <!ENTITY junkSettings.label "Impostazioni posta spam">
-<!ENTITY offlineLink.label "Impostazioni fuori linea">
+<!ENTITY offlineLink.label "Impostazioni non in linea">
 <!ENTITY feedsSectionHdr.label "Feed">
 <!ENTITY subscribeFeeds.label "Gestisci le sottoscrizioni">

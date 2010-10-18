@@ -47,8 +47,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Esporta…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY allowOnlineCheck.label "Controlla presenza online (AOL)">
-<!ENTITY allowOnlineCheck.accesskey "o">
 <!ENTITY newContactButton.label "Nuovo contatto">
 <!ENTITY newContactButton.accesskey "c">
 <!ENTITY newlistButton.label "Nuova lista">
@@ -62,6 +60,7 @@
 <!ENTITY newimButton.label "Messaggio istantaneo">
 <!ENTITY newimButton.accesskey "M">
 <!ENTITY searchNameAndEmail.placeholder "Cerca per nome e e-mail">
+<!ENTITY searchBox.title "Cerca">
 <!ENTITY addressbookToolbar.tooltip "Barra della Rubrica">
 <!ENTITY newContactButton.tooltip "Crea un nuovo contatto in rubrica">
 <!ENTITY newlistButton.tooltip "Crea una nuova lista">

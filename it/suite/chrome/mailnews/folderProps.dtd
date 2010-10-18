@@ -44,9 +44,12 @@
 <!ENTITY folderCharsetTab.accesskey "e">
 <!ENTITY folderCharsetOverride.label "Applica le impostazioni predefinite a tutti i messaggi nella cartella (le impostazioni di codifica caratteri e la rilevazione automatica del singolo messaggio verranno ignorate)">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "Ricostruisci l'indice">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Ricostruisci l'indice">
+<!ENTITY folderRebuildSummaryFileTip2.label "Ricostruisci l'indice">
+<!ENTITY folderRebuildSummaryFile2.label "Ripara cartella">
+<!ENTITY folderRebuildSummaryFile2.accesskey "R">
+<!ENTITY folderRebuildSummaryFile.explanation "Talvolta il file indice (.msf) della cartella può rovinarsi e i messaggi possono risultare mancanti o continuano ad essere visibili anche se cancellati. Riparando la cartella si può risolvere il problema.">
+<!ENTITY folderIncludeInGlobalSearch.label "Includi i messaggi di questa cartella nei risultati della ricerca globale">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "b">
 <!ENTITY retention.label "Politica di conservazione">
 <!ENTITY retentionUseAccount.label "Utilizza le impostazioni dell'account">
 <!ENTITY retentionUseAccount.accesskey "U">
@@ -65,8 +68,8 @@
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre i messaggi segnati">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY folderSynchronizationTab.label "Sincronizzazione">
-<!ENTITY folderCheckForNewMessages.label "Controlla l'arrivo di nuovi messaggi in questa cartella">
-<!ENTITY folderCheckForNewMessages.accesskey "C">
+<!ENTITY folderCheckForNewMessages2.label "Quando si ricevono nuovi messaggi per questo account, verificare sempre questa cartella">
+<!ENTITY folderCheckForNewMessages2.accesskey "v">
 <!ENTITY offlineFolder.check.label "Seleziona questa cartella per l'uso non in linea">
 <!ENTITY offlineFolder.check.accesskey "S">
 <!ENTITY offlineFolder.button.label "Scarica ora">

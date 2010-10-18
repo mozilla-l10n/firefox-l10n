@@ -1,5 +1,5 @@
 <!--null-->
-<!ENTITY pageInfoWindow.dimensions "width: 100ch; height: 30em;">
+<!ENTITY pageInfoWindow.dimensions "width: 100ch; height: 38em;">
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Copia">
 <!ENTITY copy.accesskey "C">
@@ -89,10 +89,10 @@
 <!ENTITY securityView.identity.verifier "Verificata da:">
 <!ENTITY securityView.privacy.header "Privacy e cronologia">
 <!ENTITY securityView.privacy.history "Ha già visitato oggi questo sito web?">
-<!ENTITY securityView.privacy.cookies "Questo sito web sta memorizzando informazioni (cookie) sul computer?">
+<!ENTITY securityView.privacy.cookies "Questo sito sta memorizzando informazioni (cookie) sul mio computer?">
 <!ENTITY securityView.privacy.viewCookies "Mostra cookie">
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">
-<!ENTITY securityView.privacy.passwords "Esistono password memorizzate per questo sito web?">
+<!ENTITY securityView.privacy.passwords "Esistono password memorizzate per questo sito?">
 <!ENTITY securityView.privacy.viewPasswords "Mostra password">
 <!ENTITY securityView.privacy.viewPasswords.accessKey "w">
 <!ENTITY securityView.technical.header "Dettagli tecnici">

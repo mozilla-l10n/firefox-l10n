@@ -133,7 +133,7 @@
 <!ENTITY delete.accesskey "E">
 <!ENTITY renameAttachment.label "Rinomina">
 <!ENTITY renameAttachment.accesskey "R">
-<!ENTITY selectAll.label "Seleziona tutto">
+<!ENTITY selectAll.label "Seleziona tutti">
 <!ENTITY selectAll.accesskey "S">
 <!ENTITY attachFile.label "Allega file…">
 <!ENTITY attachFile.accesskey "f">

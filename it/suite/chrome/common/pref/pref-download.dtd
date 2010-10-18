@@ -15,9 +15,9 @@
 <!ENTITY chooseDownloadFolder.accesskey "c">
 <!ENTITY alwaysAsk.label "Chiedi sempre dove salvare i file">
 <!ENTITY alwaysAsk.accesskey "h">
-<!ENTITY downloadRetention.label "Memorizzazione download">
-<!ENTITY removeDownloads.label "Rimuovi download">
-<!ENTITY removeDownloads.accesskey "u">
+<!ENTITY downloadHistory.label "Cronologia dei download">
+<!ENTITY removeEntries.label "Rimuovi i download fatti">
+<!ENTITY removeEntries.accesskey "R">
 <!ENTITY whenCompleted.label "Quando sono terminati">
 <!ENTITY whenQuittingApp.label "Alla chiusura di &brandShortName;">
 <!ENTITY neverRemove.label "Mai">

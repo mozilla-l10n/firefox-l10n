@@ -10,7 +10,8 @@
 <!ENTITY applications.label "Applicazioni esterne">
 <!ENTITY locationBar.label "Barra degli indirizzi">
 <!ENTITY tabWindows.label "Schede di navigazione">
-<!ENTITY offline.label "Fuori linea">
+<!ENTITY links.label "Comportamento link">
+<!ENTITY offline.label "Non in linea">
 <!ENTITY security.label "Privacy e Sicurezza">
 <!ENTITY cookies.label "Cookie">
 <!ENTITY images.label "Immagini">

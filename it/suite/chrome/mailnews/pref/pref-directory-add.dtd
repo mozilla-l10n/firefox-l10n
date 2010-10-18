@@ -13,7 +13,7 @@
 <!ENTITY directoryLogin.label "DN associato:">
 <!ENTITY directoryLogin.accesskey "D">
 <!ENTITY General.tab "Generale">
-<!ENTITY Offline.tab "Fuori linea">
+<!ENTITY Offline.tab "Non in linea">
 <!ENTITY Advanced.tab "Avanzate">
 <!ENTITY portNumber.label "Numero porta:">
 <!ENTITY portNumber.accesskey "p">
@@ -28,7 +28,7 @@
 <!ENTITY return.label "Non visualizzare più di">
 <!ENTITY return.accesskey "N">
 <!ENTITY results.label "risultati">
-<!ENTITY offlineText.label "È possibile scaricare una copia locale di questa directory, in modo da renderla disponibile per lavorarci fuori linea.">
+<!ENTITY offlineText.label "È possibile scaricare una copia locale di questa directory, in modo da renderla disponibile per lavorarci non in linea.">
 <!ENTITY saslMechanism.label "Metodo di accesso:">
 <!ENTITY saslMechanism.accesskey "M">
 <!ENTITY saslOff.label "Semplice">

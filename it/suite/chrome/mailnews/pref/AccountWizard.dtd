@@ -9,7 +9,7 @@
 <!ENTITY accountTypeNews.label "Account gruppi di discussione">
 <!ENTITY accountTypeNews.accesskey "d">
 <!ENTITY identityTitle.label "Identità">
-<!ENTITY identityDesc.label "Ogni account ha una identità, che è l'informazione che ti identifica agli altri quando ricevono i tuoi messaggi.">
+<!ENTITY identityDesc.label "Ogni account ha una identità che è l'informazione che permette a chi riceve i tuoi messaggi di identificarti.">
 <!ENTITY fullnameDesc.label "Inserire il nome che apparirà nel campo &quot;Da:&quot; dei propri messaggi in uscita">
 <!ENTITY fullnameExample.label "(ad esempio, &quot;Mario Rossi&quot;).">
 <!ENTITY fullnameLabel.label "Nome:">

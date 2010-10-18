@@ -6,7 +6,7 @@
 <!ENTITY trusted.label "Siti sicuri">
 <!ENTITY annoyances.label "Problemi ricorrenti">
 <!ENTITY restricted.label "Siti con restrizioni">
-<!ENTITY addSite.label "Aggiungi sito…">
+<!ENTITY addSite.label "Aggiungi sito web…">
 <!ENTITY addSite.accesskey "A">
 <!ENTITY settings.label "Impostazioni per">
 <!ENTITY settings.accesskey "I">

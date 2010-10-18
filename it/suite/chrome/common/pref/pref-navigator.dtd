@@ -22,12 +22,6 @@
 <!ENTITY browseFile.accesskey "S">
 <!ENTITY useDefault.label "Ripristina valori predefiniti">
 <!ENTITY useDefault.accesskey "R">
-<!ENTITY toolbarIntro.label "Seleziona i pulsanti da visualizzare nelle barre degli strumenti:">
-<!ENTITY navToolbarIntro.label "Barra degli strumenti di navigazione">
-<!ENTITY goButton.label "Vai">
-<!ENTITY goButton.accesskey "V">
-<!ENTITY searchButton.label "Cerca">
-<!ENTITY searchButton.accesskey "C">
 <!ENTITY defaultBrowserGroup.label "Browser predefinito">
 <!ENTITY defaultBrowserButton.label "Imposta come browser predefinito">
 <!ENTITY defaultBrowserButton.accesskey "d">
