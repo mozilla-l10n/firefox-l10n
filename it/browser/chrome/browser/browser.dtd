@@ -5,7 +5,7 @@
 <!ENTITY reloadTab.label "Ricarica scheda">
 <!ENTITY reloadTab.accesskey "R">
 <!ENTITY reloadAllTabs.label "Ricarica tutte le schede">
-<!ENTITY reloadAllTabs.accesskey "t">
+<!ENTITY reloadAllTabs.accesskey "u">
 <!ENTITY closeOtherTabs.label "Chiudi le altre schede">
 <!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY pinAppTab.label "Blocca come Scheda applicazione">
@@ -13,7 +13,7 @@
 <!ENTITY unpinAppTab.label "Sblocca scheda">
 <!ENTITY unpinAppTab.accesskey "h">
 <!ENTITY moveToGroup.label "Sposta nel gruppo">
-<!ENTITY moveToGroup.accesskey "S">
+<!ENTITY moveToGroup.accesskey "o">
 <!ENTITY moveToNewGroup.label "Nuovo gruppo">
 <!ENTITY moveToNewWindow.label "Sposta in una nuova finestra">
 <!ENTITY moveToNewWindow.accesskey "f">
