@@ -19,7 +19,7 @@
 <!ENTITY homepage.default                          "&brandShortName; 시작">
 <!ENTITY homepage.currentpage                      "현재 페이지 사용">
 <!ENTITY sync.title                                "공기화">
-<!ENTITY sync.account                              "사용자명/이메일">
+<!ENTITY sync.account2                             "사용자명">
 <!ENTITY sync.password                             "암호">
 <!ENTITY sync.syncKey                              "동기화 암호">
 <!ENTITY sync.deviceName                           "기기명">

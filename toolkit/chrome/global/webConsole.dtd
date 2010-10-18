@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "응답 헤더">
 <!ENTITY networkPanel.responseBody                "응답 전문">
 <!ENTITY networkPanel.responseBodyCached          "캐시 데이터">
+<!ENTITY networkPanel.responseBodyUnknownType     "콘텐츠 형식 없음">
 <!ENTITY networkPanel.responseNoBody              "응답 내용이 없음">
 <!ENTITY networkPanel.responseImage               "응답 이미지">
 <!ENTITY networkPanel.responseImageCached         "캐쉬된 이미지">
