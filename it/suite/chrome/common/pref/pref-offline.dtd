@@ -1,6 +1,0 @@
-<!ENTITY window.title "Fuori linea">
-<!ENTITY boxHeader "Fuori linea">
-<!ENTITY rHeader "Fuori linea">
-<!ENTITY textStart "All'avvio di &brandShortName;:">
-<!ENTITY radioAskMode "Chiedi se si desidera la modalità in linea o fuori linea">
-<!ENTITY radioUsePrev "Utilizza lo stato in linea/fuori linea precedente">

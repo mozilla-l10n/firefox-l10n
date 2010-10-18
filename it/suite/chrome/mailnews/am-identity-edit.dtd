@@ -1,7 +1,0 @@
-<!ENTITY identityDialog.style "width: 77ch;">
-<!ENTITY identityTitle.label "Impostazioni identità">
-<!ENTITY identityListDesc.label "Configura le impostazioni per questa identità:">
-
-<!ENTITY settingsTab.label "Impostazioni">
-<!ENTITY copiesFoldersTab.label "Cartelle e copie">
-<!ENTITY addressingTab.label "Composizione ed indirizzi">
