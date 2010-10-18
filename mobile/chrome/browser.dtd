@@ -96,6 +96,7 @@
 <!ENTITY contextShareVideo.label      "分享视频">
 <!ENTITY contextPlayMedia.label       "播放">
 <!ENTITY contextPauseMedia.label      "暂停">
+<!ENTITY contextFullScreen.label      "全屏">
 <!ENTITY contextEditBookmark.label    "编辑">
 <!ENTITY contextRemoveBookmark.label  "删除">
 
