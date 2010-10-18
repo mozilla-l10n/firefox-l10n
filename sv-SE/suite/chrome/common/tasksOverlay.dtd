@@ -41,6 +41,7 @@
 
 <!ENTITY addonsManagerCmd.label "Tilläggshanteraren">
 <!ENTITY addonsManagerCmd.accesskey "ä">
+<!ENTITY addonsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Byt användarprofil…">
 <!ENTITY switchProfileCmd.accesskey "y">
