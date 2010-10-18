@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Responshovud">
 <!ENTITY networkPanel.responseBody                "Responskropp">
 <!ENTITY networkPanel.responseBodyCached          "Mellomlagra data">
+<!ENTITY networkPanel.responseBodyUnknownType     "Ukjend innhaldstype">
 <!ENTITY networkPanel.responseNoBody              "Ingen responskropp">
 <!ENTITY networkPanel.responseImage               "Mottatt bilete">
 <!ENTITY networkPanel.responseImageCached         "Mellomlagra bilete">

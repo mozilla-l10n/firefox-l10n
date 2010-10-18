@@ -5,7 +5,7 @@
 <!ENTITY reload.label          "Oppdater">
 <!ENTITY stop.label            "Stopp">
 <!ENTITY go.label              "Gå">
-<!ENTITY star.label            "Stjerne">
+<!ENTITY star.label            "Legg til bokmerke">
 
 <!ENTITY newtab.label          "Ny fane">
 <!ENTITY closetab.label        "Lat att fane">
@@ -56,6 +56,7 @@
 <!ENTITY downloadResume.label      "Hald fram">
 <!ENTITY downloadRetry.label       "Prøv igjen">
 <!ENTITY downloadRemove.label      "Fjern">
+<!ENTITY downloadDelete.label      "Slett">
 <!ENTITY downloadFailed.label      "Mislykkka">
 
 <!ENTITY noResults.label           "Ingen resultat">
@@ -93,6 +94,9 @@
 <!ENTITY contextShareImage.label      "Del bilete">
 <!ENTITY contextSaveVideo.label       "Lagre video">
 <!ENTITY contextShareVideo.label      "Del video">
+<!ENTITY contextPlayMedia.label       "Spel av">
+<!ENTITY contextPauseMedia.label      "Pause">
+<!ENTITY contextFullScreen.label      "Fullskjerm">
 <!ENTITY contextEditBookmark.label    "Endre">
 <!ENTITY contextRemoveBookmark.label  "Slett">
 
