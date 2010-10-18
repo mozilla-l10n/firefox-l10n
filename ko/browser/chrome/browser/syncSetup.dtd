@@ -90,7 +90,7 @@
 
 <!ENTITY choice2.merge.main.label      "PC 자료와 &syncBrand.shortName.label; 사이 병합하기">
 <!ENTITY choice2.merge.recommended.label "추천 항목:">
-<!ENTITY choice2.client.main.label     "&syncBrand.fullName.label; 자료로 PC 자료 모두 바꾸기">
+<!ENTITY choice2.client.main.label     "&syncBrand.shortName.label; 자료로 PC 자료 모두 바꾸기">
 <!ENTITY choice2.server.main.label     "PC 자료를 다른 기기로 모두 바꾸기">
 
 <!-- Confirm Merge Options -->

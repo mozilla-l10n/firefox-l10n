@@ -460,10 +460,6 @@ can reach it easily. -->
 <!ENTITY editBookmark.done.label "완료">
 <!ENTITY editBookmark.cancel.label "취소">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
-<!ENTITY editBookmark.undo.label "되돌리기">
-<!ENTITY editBookmark.undo.accessKey "U">
-<!ENTITY editBookmark.edit.label "편집…">
-<!ENTITY editBookmark.edit.accessKey "E">
 
 <!ENTITY identity.unverifiedsite2 "이 웹 사이트는 신원 정보를 제공하지 않습니다.">
 <!ENTITY identity.connectedTo "접속 사이트:">
