@@ -18,6 +18,8 @@
                                      du har ikkje tilgangsrettane som er nødvendig for å installere henne. Kontakt
                                      systemansvarleg eller prøv på nytt frå ein brukarkonto som har tilgang til
                                      å installere programvare på denne datamaskina.">
+<!ENTITY  manualUpdate.space.desc         "Ei tilrådd tryggings- og stabilitetsoppdatering er tilgjengeleg, men 
+                                     du har ikkje nok ledig diskplass til å installere henne.">
 <!ENTITY  manualUpdateGetMsg.label        "Du kan òg laste ned den nyaste versjonen av &brandShortName; frå:">
 
 <!ENTITY  incompatibleCheck.title         "Kontrollerer utvidingskompatibilitet">

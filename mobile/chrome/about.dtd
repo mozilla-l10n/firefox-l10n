@@ -5,6 +5,11 @@
 <!ENTITY aboutPage.rights.label                 "Kjenn rettane dine">
 <!ENTITY aboutPage.relNotes.label               "Versjonsnotat">
 <!ENTITY aboutPage.credits.label                "Medverkande">
+<!ENTITY aboutPage.checkForUpdates.button       "Sjå etter oppdateringar">
+<!ENTITY aboutPage.checkForUpdates.checking     "Ser etter oppdateringar …">
+<!ENTITY aboutPage.checkForUpdates.none         "Ingen oppdateringar er tilgjengelege">
+<!ENTITY aboutPage.checkForUpdates.found        "Oppdatering er tilgjengeleg">
+
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
