@@ -55,7 +55,8 @@
 <!ENTITY downloadPause.label       "Posa en pausa">
 <!ENTITY downloadResume.label      "Reprèn">
 <!ENTITY downloadRetry.label       "Reintenta">
-<!ENTITY downloadRemove.label      "Suprimeix">
+<!ENTITY downloadRemove.label      "Treu">
+<!ENTITY downloadDelete.label      "Suprimeix">
 <!ENTITY downloadFailed.label      "Ha fallat">
 
 <!ENTITY noResults.label           "Cap resultat">
@@ -96,6 +97,9 @@
 <!ENTITY contextShareImage.label      "Comparteix la imatge">
 <!ENTITY contextSaveVideo.label       "Desa el vídeo">
 <!ENTITY contextShareVideo.label      "Comparteix el vídeo">
+<!ENTITY contextPlayMedia.label       "Reprodueix">
+<!ENTITY contextPauseMedia.label      "Pausa">
+<!ENTITY contextFullScreen.label      "Pantalla completa">
 <!ENTITY contextEditBookmark.label    "Edita">
 <!ENTITY contextRemoveBookmark.label  "Suprimeix">
 
