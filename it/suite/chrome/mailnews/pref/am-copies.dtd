@@ -4,8 +4,12 @@
 <!ENTITY fccMailFolder.accesskey "M">
 <!ENTITY fccReplyFollowsParent.label "Poni risposte nella cartella del messaggio a cui si risponde">
 <!ENTITY fccReplyFollowsParent.accesskey "P">
+<!ENTITY ccAddress.label "CC a questi indirizzi:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Separa gli indirizzi con le virgole">
 <!ENTITY bccAddress.label "BCC a questi indirizzi:">
 <!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.emptytext "Separa gli indirizzi con le virgole">
 <!ENTITY saveMessageDlg.label "Mostra finestra di conferma per l'avvenuto salvataggio dei messaggi">
 <!ENTITY saveMessageDlg.accesskey "c">
 <!ENTITY sentFolderOn.label "Cartella &quot;Inviati&quot; in:">

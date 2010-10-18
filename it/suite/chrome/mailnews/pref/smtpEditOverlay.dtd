@@ -16,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server SMTP">
 <!ENTITY serverPortDefault.label "Predefinito:">
+<!ENTITY authMethod.label "Metodo di autenticazione:">
+<!ENTITY authMethod.accesskey "z">

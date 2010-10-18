@@ -1,7 +1,7 @@
 <!ENTITY popupWindowRejectCmd.label "Respingi pop-up di questo sito">
-<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label "Consenti pop-up di questo sito">
-<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.accesskey "o">
 <!ENTITY openLinkCmd.label "Apri in nuova finestra">
 <!ENTITY openLinkCmd.accesskey "A">
 <!ENTITY openLinkCmdInTab.label "Apri in nuova scheda">
@@ -80,11 +80,11 @@
 <!ENTITY copyLinkCmd.label "Copia indirizzo collegamento">
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyImageCmd.label "Copia immagine">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageCmd.accesskey "I">
 <!ENTITY copyVideoURLCmd.label "Copia indirizzo video">
-<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyVideoURLCmd.accesskey "L">
 <!ENTITY copyAudioURLCmd.label "Copia indirizzo audio">
-<!ENTITY copyAudioURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.accesskey "L">
 <!ENTITY metadataCmd.label "Proprietà">
 <!ENTITY metadataCmd.accesskey "e">
 <!ENTITY copyEmailCmd.label "Copia indirizzo e-mail">
@@ -113,6 +113,8 @@
 <!ENTITY mediaShowControls.accesskey "a">
 <!ENTITY mediaHideControls.label "Nascondi controlli multimediali">
 <!ENTITY mediaHideControls.accesskey "a">
+<!ENTITY videoFullScreen.label "A tutto schermo">
+<!ENTITY videoFullScreen.accesskey "A">
 <!ENTITY search.accesskey "w">
 <!ENTITY bidiSwitchPageDirectionItem.label "Cambia direzione pagina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "d">

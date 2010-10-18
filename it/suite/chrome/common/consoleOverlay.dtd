@@ -7,10 +7,10 @@
 <!ENTITY toolbarMode.label "Modalità">
 <!ENTITY toolbarMode.accesskey "M">
 <!ENTITY toolbarEval.label "Elemento JavaScript">
-<!ENTITY toolbarEval.accesskey "v">
-<!ENTITY all.accesskey "u">
+<!ENTITY toolbarEval.accesskey "J">
+<!ENTITY all.accesskey "T">
 <!ENTITY errors.accesskey "r">
-<!ENTITY warnings.accesskey "v">
-<!ENTITY messages.accesskey "M">
-<!ENTITY clear.accesskey "l">
+<!ENTITY warnings.accesskey "A">
+<!ENTITY messages.accesskey "e">
+<!ENTITY clear.accesskey "C">
 <!ENTITY evaluate.accesskey "u">
