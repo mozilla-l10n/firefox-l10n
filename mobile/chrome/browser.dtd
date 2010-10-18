@@ -91,6 +91,7 @@
 <!ENTITY contextShareVideo.label      "Bagi Video">
 <!ENTITY contextPlayMedia.label       "Putar">
 <!ENTITY contextPauseMedia.label      "Tunda">
+<!ENTITY contextFullScreen.label      "Layar Penuh">
 <!ENTITY contextEditBookmark.label    "Edit">
 <!ENTITY contextRemoveBookmark.label  "Hapus">
 
