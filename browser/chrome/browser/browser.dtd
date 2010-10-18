@@ -102,7 +102,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Áfram">
 <!ENTITY forwardCmd.accesskey "f">
 <!ENTITY forwardButton.tooltip "Áfram um eina síðu">
-<!ENTITY backForwardMenu.tooltip "Nýlegar síður">
 <!ENTITY reloadCmd.label "Endurnýja">
 <!ENTITY reloadCmd.accesskey "r">
 <!ENTITY reloadButton.tooltip "Endurnýja síðu">
@@ -499,10 +498,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label "Ljúka">
 <!ENTITY editBookmark.cancel.label "Hætta við">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
-<!ENTITY editBookmark.undo.label "Afturkalla">
-<!ENTITY editBookmark.undo.accessKey "u">
-<!ENTITY editBookmark.edit.label "Breyta…">
-<!ENTITY editBookmark.edit.accessKey "e">
 <!ENTITY identity.unverifiedsite2 "Þetta vefsvæði hefur ekki sent upplýsingar um eiganda.">
 <!ENTITY identity.connectedTo "Þú ert tengdur við">
 <!-- Localization note (identity.runBy) : This string appears between a
