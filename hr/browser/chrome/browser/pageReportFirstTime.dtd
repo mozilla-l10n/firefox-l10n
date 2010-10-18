@@ -1,3 +1,5 @@
+<!ENTITY startDescriptionText.label        "Web stranica je pokušala otvoriti skočni prozor bez vašeg dopuštenja. &brandShortName; je automatski zatvorio skočni prozor.">
+
 <!ENTITY startDescription.label            "Web stranica je pokušala otvoriti skočni prozor bez vašeg dopuštenja. &brandShortName; je automatski zatvorio skočni prozor.  Kadgod &brandShortName; blokira ove skočne prozore, vidjet ćete ikonu u statusnoj traci.">
 
 <!ENTITY endDescription.label              "Na tu ikonu možete kliknuti da biste vidjeti koje je stranice &brandShortName; blokirao i eventualno dopustili tim stranicama da otvaraju skočne prozore, ukoliko su oni potrebni za ispravan rad stranice.">
