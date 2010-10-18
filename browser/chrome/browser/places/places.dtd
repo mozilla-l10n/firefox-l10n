@@ -14,7 +14,7 @@
 <!ENTITY views.accesskey "V">
 <!ENTITY views.tooltip "Modifica il tipo di visualizzazione">
 <!ENTITY view.columns.label "Mostra colonne">
-<!ENTITY view.columns.accesskey "n">
+<!ENTITY view.columns.accesskey "M">
 <!ENTITY view.sort.label "Ordina">
 <!ENTITY view.sort.accesskey "o">
 <!ENTITY view.unsorted.label "Non ordinate">
@@ -30,9 +30,9 @@
 <!ENTITY cmd.exportHTML.label "Esporta HTML…">
 <!ENTITY cmd.exportHTML.accesskey "E">
 <!ENTITY cmd.importHTML.label "Importa HTML…">
-<!ENTITY cmd.importHTML.accesskey "o">
+<!ENTITY cmd.importHTML.accesskey "I">
 <!ENTITY cmd.backup.label "Salva…">
-<!ENTITY cmd.backup.accesskey "v">
+<!ENTITY cmd.backup.accesskey "S">
 <!ENTITY cmd.restore2.label "Ripristina">
 <!ENTITY cmd.restore2.accesskey "R">
 <!ENTITY cmd.restoreFromFile.label "Seleziona file…">
@@ -101,6 +101,6 @@
 <!ENTITY detailsPane.more.label "Altri dati">
 <!ENTITY detailsPane.more.accesskey "d">
 <!ENTITY detailsPane.less.label "Meno dati">
-<!ENTITY detailsPane.less.accesskey "M">
+<!ENTITY detailsPane.less.accesskey "d">
 <!ENTITY detailsPane.noPreviewAvailable.label "Anteprima">
 <!ENTITY detailsPane.selectAnItemText.description "Selezionare un elemento per visualizzarne e modificarne le proprietà">
