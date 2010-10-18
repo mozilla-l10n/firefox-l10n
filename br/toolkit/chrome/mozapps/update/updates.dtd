@@ -13,6 +13,8 @@
 
 <!ENTITY  manualUpdate.title              "N'eo ket c'hallus da hizivaat">
 <!ENTITY  manualUpdate.desc               "Un hizivadur erbedet zo hegerz, met n'hoc'h eus ket an aotreoù da staliañ anezhañ. Klaskit en-dro gant un arveriad aotreet pe kit e darempred gant hoc'h ardoer">
+<!ENTITY  manualUpdate.space.desc         "Un hizivadenn erbedet a-fet diogelroez ha stabilded zo hegerz, koulskoude n'hoc'h eus
+                                           ket plas a-walc'h a-benn he staliañ.">
 <!ENTITY  manualUpdateGetMsg.label        "Gallout a rit kavout an handelv diwezhañ evit &brandShortName; war :">
 
 <!ENTITY  incompatibleCheck.title         "O wiriañ keverlec'hded an askouezh">

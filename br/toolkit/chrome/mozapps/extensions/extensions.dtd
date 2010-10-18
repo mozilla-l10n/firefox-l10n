@@ -95,9 +95,9 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Petra eo an askouezhioù ?">
-<!ENTITY discover.description                 "Arloadoù a ro tro deoc'h da bersonelaat Firefox gant keweriusterioù
-  pe stiloù ouzhpenn eo an askouezhioù. Prouadit un difazier, un arload evit an hinad 
-  pe un neuz dre zodenn a-benn lakaat Firefox da vezañ ho hini.">
+<!ENTITY discover.description2                "Arloadoù a ro tro deoc'h da bersonelaat &brandShortName; gant keweriusterioù
+  pe stiloù ouzhpenn eo an askouezhioù. Amprouadit ur varren-gostez pe un arload evit an hinad, pe un neuz da lakaat &brandShortName;
+  da vezañ evel ma plijo deoc'h.">
 <!ENTITY discover.footer                      "Pa viot kennasket ouzh internet e tiskouezo ar penel-mañ un darn eus
   an askouezhioù gwellañ ha brudetañ da brouadiñ.">
 

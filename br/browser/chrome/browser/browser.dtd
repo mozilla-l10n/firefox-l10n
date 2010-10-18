@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Sinedoù">
 <!ENTITY bookmarksMenuButton.tooltip        "Skrammañ ho sinedoù">
+<!ENTITY bookmarksMenuButton.unsorted.label "Sinedoù dirummet">
 <!ENTITY viewBookmarksSidebar.label         "Diskouez er varrenn gostez">
 <!ENTITY viewBookmarksToolbar.label         "Gwelout barrenn ostilhoù ar sinedoù">
 
@@ -513,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Graet">
 <!ENTITY editBookmark.cancel.label                   "Dilezel">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Dizober">
-<!ENTITY editBookmark.undo.accessKey                 "z">
-<!ENTITY editBookmark.edit.label                     "Embann…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "Ne bourchas ket al lec'hienn-mañ stlennoù a-fet pivelezh.">
 <!ENTITY identity.connectedTo "Kennasket oc'h ouzh">
