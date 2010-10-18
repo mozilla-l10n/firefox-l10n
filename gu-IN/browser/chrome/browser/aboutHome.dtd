@@ -1,0 +1,28 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName; શરૂઆત પાનું">
+
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> શરૂ કરો">
+
+<!ENTITY abouthome.searchEngineButton.label "શોધો">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "ઉન્નત શોધ">
+<!ENTITY abouthome.searchEngineLinks.preferences "પસંદગીઓ">
+
+<!ENTITY abouthome.aboutMozilla "Mozilla વિશે">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox પસંદ કરવા માટે તમારો આભાર! મોટાભાગે તમારે બ્રાઉઝરને મેળવવા માટે <a>તાજેતરનાં લક્ષણો</a> વિશે વધારે શીખો.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "જે રીતે તમે ઇચ્છો છો તે રીતે જ તમારા Firefox ને વૈવિધ્યપૂર્ણ બનાવવાનું સરળ છે . <a>ઍડ-ઑનનાં હજારોમાંથી પસંદ કરો</a>.">
