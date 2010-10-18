@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizacija">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Organizirajte svoje zabilješke">
 
 <!ENTITY file.accesskey                 "D">
 <!ENTITY file.close.label               "Zatvori">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                 "U">
 <!ENTITY views.label                    "Pogledi">
 <!ENTITY views.accesskey                "P">
+<!ENTITY views.tooltip                  "Promijenite prikaz">
 <!ENTITY view.toolbar.label             "Alatna traka">
 <!ENTITY view.toolbar.accesskey         "A">
 <!ENTITY view.columns.label             "Prikaži stupce">
@@ -197,6 +199,7 @@
 
 <!ENTITY maintenance.label      "Unos i sigurnosne kopije">
 <!ENTITY maintenance.accesskey  "U">
+<!ENTITY maintenance.tooltip    "Unesite ili izvezite svoje zabilješke">
 
 <!ENTITY backCmd.label       "Natrag">
 <!ENTITY backButton.tooltip  "Idi natrag">
