@@ -55,7 +55,7 @@
 <!ENTITY warn.leavingsecure.accesskey "U">
 <!ENTITY warn.viewmixed "Visualizzare una pagina con parti sicure miste a parti non sicure">
 <!ENTITY warn.viewmixed.accesskey "V">
-<!ENTITY certselect.description "Decidere come &brandShortName; selezionerà un certificato di sicurezza quando un sito web lo richieda:">
+<!ENTITY certselect.description "Decidere come &brandShortName; selezionerà un certificato di sicurezza da offrire quando un sito lo richieda:">
 <!ENTITY certselect.auto "Seleziona automaticamente">
 <!ENTITY certselect.auto.accesskey "S">
 <!ENTITY certselect.ask "Chiedi ogni volta">

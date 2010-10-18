@@ -11,7 +11,7 @@
 <!ENTITY rights.intro-point3a "L'informativa sulla privacy di &vendorShortName; è disponibile ">
 <!ENTITY rights.intro-point3b "a questo indirizzo">
 <!ENTITY rights.intro-point3c ".">
-<!ENTITY rights.intro-point4a "&brandShortName; offre alcuni servizi opzionali, come ad esempio il servizio di aggiornamento dei componenti aggiuntivi, anche se non è possibile garantire l'accuratezza e l'affidabilità di tali servizi al 100&#037;. Ulteriori dettagli, comprese indicazioni per disattivarli, sono disponibili ">
+<!ENTITY rights.intro-point4a "&brandShortName; offre alcuni servizi opzionali, come ad esempio il servizio di aggiornamento dei componenti aggiuntivi, di cui non è però possibile garantire l'accuratezza e la correttezza al 100&#037;. Ulteriori dettagli, comprese indicazioni per disattivarli, sono disponibili ">
 <!ENTITY rights.intro-point4b "nei termini di utilizzo">
 <!ENTITY rights.intro-point4c ".">
 <!ENTITY rights.webservices-header "Servizi web di &brandFullName;">

@@ -1,4 +1,4 @@
-<!ENTITY offlineGoOfflineCmd.label "Lavora fuori linea">
+<!ENTITY offlineGoOfflineCmd.label "Lavora non in linea">
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
@@ -31,6 +31,8 @@
 <!ENTITY pasteCmd.label "Incolla">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "I">
+<!ENTITY pasteGoCmd.label "Incolla e vai">
+<!ENTITY pasteGoCmd.accesskey "v">
 <!ENTITY deleteCmd.label "Elimina">
 <!ENTITY deleteCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Seleziona tutto">
@@ -51,6 +53,8 @@
 <!ENTITY showTaskbarCmd.accesskey "s">
 <!ENTITY helpMenu.label "Guida">
 <!ENTITY helpMenu.accesskey "G">
+<!ENTITY helpTroubleshootingInfo.label "Informazioni per la risoluzione dei problemi">
+<!ENTITY helpTroubleshootingInfo.accesskey "z">
 <!ENTITY releaseCmd.label "Note di versione">
 <!ENTITY releaseCmd.accesskey "N">
 <!ENTITY updateCmd.label "Controlla gli aggiornamenti…">

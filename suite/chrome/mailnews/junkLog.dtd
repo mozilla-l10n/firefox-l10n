@@ -37,8 +37,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY junkLog.title "Registro attività posta indesiderata">
-<!ENTITY junkLogInfo.label "Registro attività dell'attività di controllo della posta indesiderata.">
+<!ENTITY junkLog.title "Registro attività posta spam">
+<!ENTITY junkLogInfo.label "Registro attività del controllo della posta spam.">
 <!ENTITY clearLog.label "Pulisci registro attività">
 <!ENTITY clearLog.accesskey "P">
 <!ENTITY closeLog.label "Chiudi">

@@ -129,10 +129,11 @@
 <!ENTITY bookmarksButton.tooltip "Lista segnalibri">
 <!ENTITY homeButton.label "Home">
 <!ENTITY bookmarksToolbarItem.label "Elementi barra dei segnalibri">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mostra altri segnalibri">
 <!ENTITY statusText.label "Completato">
 <!ENTITY historyCmd.label "Cronologia">
 <!ENTITY historyCmd.accesskey "C">
 <!ENTITY history.commandKey "h">
-<!ENTITY popupIcon.tooltiptext "Sblocca pop-up per questo sito">
+<!ENTITY popupIcon.tooltiptext "Sblocca pop-up da questo sito">
 <!ENTITY bidiSwitchPageDirectionItem.label "Cambia direzione pagina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "d">

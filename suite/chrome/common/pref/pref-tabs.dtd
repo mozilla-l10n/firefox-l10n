@@ -6,22 +6,11 @@
 <!ENTITY background.accesskey "P">
 <!ENTITY warnOnClose.label "Avvisa alla chiusura di una finestra con più schede">
 <!ENTITY warnOnClose.accesskey "s">
+<!ENTITY relatedAfterCurrent.label "Apri le schede simili dopo quella corrente">
+<!ENTITY relatedAfterCurrent.accesskey "A">
 <!ENTITY loadGroup.label "All'apertura di un gruppo di segnalibri">
 <!ENTITY loadGroupAppend.label "Aggiungi le schede">
 <!ENTITY loadGroupAppend.accesskey "A">
 <!ENTITY loadGroupReplace.label "Sostituisci le schede aperte">
 <!ENTITY loadGroupReplace.accesskey "o">
 <!ENTITY openTabs.label "Apri una scheda al posto di una finestra con">
-<!ENTITY newWindow.label "Comportamento apertura collegamento">
-<!ENTITY newWindowDescription.label "Apri collegamenti destinati ad aprire una nuova finestra in">
-<!ENTITY external.label "Collegamenti da altre applicazioni">
-<!ENTITY externalDescription.label "Apri collegamenti passati da altre applicazioni in">
-<!ENTITY openCurrent.label "La scheda/finestra corrente">
-<!ENTITY newWindowGroupCurrent.accesskey "c">
-<!ENTITY externalGroupCurrent.accesskey "r">
-<!ENTITY openTab.label "Una nuova scheda nella finestra corrente">
-<!ENTITY newWindowGroupTab.accesskey "v">
-<!ENTITY externalGroupTab.accesskey "h">
-<!ENTITY openWindow.label "Una nuova finestra">
-<!ENTITY newWindowGroupWindow.accesskey "f">
-<!ENTITY externalGroupWindow.accesskey "u">

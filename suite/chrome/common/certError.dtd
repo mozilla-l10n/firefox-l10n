@@ -6,8 +6,8 @@
 <!ENTITY certerror.whatShouldIDo.content "Se ti connetti di solito a questo sito senza problemi, questo errore potrebbe indicare che qualcuno sta provando a sostituirsi al sito, e non dovresti proseguire.">
 <!ENTITY certerror.getMeOutOfHere.label "Mi suona male, portami piuttosto alla mia home">
 <!ENTITY certerror.expert.heading "Ho capito i rischi">
-<!ENTITY certerror.expert.content "Se capisci cosa succede, puoi dire a &brandShortName; di cominciare a credere all'identificazione di questo sito.
+<!ENTITY certerror.expert.content "Se capisci cosa succede, puoi dire a &brandShortName; di ritenere affidabile l'identificazione di questo sito.
 <b>Anche se ti fidi di questo sito, questo errore potrebbe indicare che qualcuno sta cercando di manipolare la tua connessione.</b>">
-<!ENTITY certerror.expert.contentPara2 "Non aggiungere una eccezione a meno di non avere un buon motivo per cui questo sito non sta usando una identificazione verificata.">
+<!ENTITY certerror.expert.contentPara2 "Non aggiungere un'eccezione a meno di non avere un buon motivo per cui questo sito non sta usando una identificazione affidabile.">
 <!ENTITY certerror.addException.label "Aggiungi eccezione…">
 <!ENTITY certerror.technical.heading "Dettagli tecnici">

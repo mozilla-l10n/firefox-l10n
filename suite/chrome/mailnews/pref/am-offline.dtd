@@ -28,7 +28,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "o">
 <!ENTITY nntpRemoveMsgBody.label "Cancella il corpo del messaggio per messaggi più vecchi di">
 <!ENTITY nntpRemoveMsgBody.accesskey "r">
-<!ENTITY offlineSelectNntp.label "Seleziona gruppi di discussione per l'uso fuori linea…">
+<!ENTITY offlineSelectNntp.label "Seleziona gruppi di discussione per l'uso non in linea…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avanzate…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

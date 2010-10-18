@@ -10,7 +10,7 @@
 <!ENTITY view.sortBy.accesskey "O">
 <!ENTITY view.groupBy.label "Raggruppa per">
 <!ENTITY view.groupBy.accesskey "R">
-<!ENTITY view.unsorted.label "Nessuno">
+<!ENTITY view.unsorted.label "nessun ordine">
 <!ENTITY view.unsorted.accesskey "N">
 <!ENTITY view.sortAscending.label "Ordine alfabetico">
 <!ENTITY view.sortAscending.accesskey "O">
@@ -20,8 +20,8 @@
 <!ENTITY view.groupNone.accesskey "N">
 <!ENTITY view.groupDay.label "Giorno">
 <!ENTITY view.groupDay.accesskey "G">
-<!ENTITY view.groupSite.label "Sito">
-<!ENTITY view.groupSite.accesskey "S">
+<!ENTITY view.groupSite.label "Sito web">
+<!ENTITY view.groupSite.accesskey "W">
 <!ENTITY view.groupDayAndSite.label "Giorno e sito">
 <!ENTITY view.groupDayAndSite.accesskey "e">
 <!ENTITY cmd.open.label "Apri">

@@ -1,6 +1,6 @@
-<!ENTITY popupWindowRejectCmd.label "Respingi pop-up di questo sito">
+<!ENTITY popupWindowRejectCmd.label "Respingi pop-up da questo sito">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
-<!ENTITY popupWindowAllowCmd.label "Consenti pop-up di questo sito">
+<!ENTITY popupWindowAllowCmd.label "Consenti pop-up da questo sito">
 <!ENTITY popupWindowAllowCmd.accesskey "o">
 <!ENTITY openLinkCmd.label "Apri in nuova finestra">
 <!ENTITY openLinkCmd.accesskey "A">
@@ -80,11 +80,11 @@
 <!ENTITY copyLinkCmd.label "Copia indirizzo collegamento">
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyImageCmd.label "Copia immagine">
-<!ENTITY copyImageCmd.accesskey "I">
+<!ENTITY copyImageCmd.accesskey "m">
 <!ENTITY copyVideoURLCmd.label "Copia indirizzo video">
-<!ENTITY copyVideoURLCmd.accesskey "L">
+<!ENTITY copyVideoURLCmd.accesskey "v">
 <!ENTITY copyAudioURLCmd.label "Copia indirizzo audio">
-<!ENTITY copyAudioURLCmd.accesskey "L">
+<!ENTITY copyAudioURLCmd.accesskey "u">
 <!ENTITY metadataCmd.label "Proprietà">
 <!ENTITY metadataCmd.accesskey "e">
 <!ENTITY copyEmailCmd.label "Copia indirizzo e-mail">

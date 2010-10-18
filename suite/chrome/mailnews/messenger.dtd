@@ -52,11 +52,11 @@
 <!ENTITY compactFolders.accesskey "o">
 <!ENTITY emptyTrashCmd.label "Svuota cestino">
 <!ENTITY emptyTrashCmd.accesskey "u">
-<!ENTITY offlineMenu.label "Fuori linea">
+<!ENTITY offlineMenu.label "Non in linea">
 <!ENTITY offlineMenu.accesskey "F">
 <!ENTITY synchronizeOfflineCmd.label "Sincronizza…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Impostazioni fuori linea…">
+<!ENTITY settingsOfflineCmd.label "Impostazioni non in linea…">
 <!ENTITY settingsOfflineCmd.accesskey "I">
 <!ENTITY downloadSelectedCmd.label "Scarica i messaggi selezionati">
 <!ENTITY downloadSelectedCmd.accesskey "z">
@@ -112,8 +112,6 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "m">
 <!ENTITY showSearchToolbarCmd.label "Barra di ricerca">
 <!ENTITY showSearchToolbarCmd.accesskey "c">
-<!ENTITY showLocationToolbarCmd.label "Barra degli indirizzi">
-<!ENTITY showLocationToolbarCmd.accesskey "d">
 <!ENTITY messagePaneLayoutStyle.label "Struttura">
 <!ENTITY messagePaneLayoutStyle.accesskey "S">
 <!ENTITY messagePaneClassic.label "Visualizzazione classica">
@@ -392,7 +390,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "u">
 <!ENTITY runJunkControls.label "Avvia controlli spam nella cartella">
 <!ENTITY runJunkControls.accesskey "v">
-<!ENTITY deleteJunk.label "Elimina posta indesiderata nella cartella">
+<!ENTITY deleteJunk.label "Elimina posta spam nella cartella">
 <!ENTITY deleteJunk.accesskey "E">
 <!ENTITY importCmd.label "Importa…">
 <!ENTITY importCmd.accesskey "I">
@@ -419,9 +417,10 @@
 <!ENTITY stopButton.label "Interrompi">
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Non è spam">
+<!ENTITY searchButton.title "Ricerca avanzata">
 <!ENTITY menuBar.tooltip "Barra dei menu">
 <!ENTITY mailToolbar.tooltip "Barra strumenti dei messaggi">
-<!ENTITY locationToolbar.tooltip "Barra degli indirizzi">
+<!ENTITY searchToolbar.tooltip "Barra di ricerca">
 <!ENTITY advancedButton.tooltip "Ricerca avanzata">
 <!ENTITY getMsgButton.tooltip "Scarica nuovi messaggi">
 <!ENTITY newMsgButton.tooltip "Crea un nuovo messaggio">
@@ -488,7 +487,7 @@
 <!ENTITY folderContextCompact.accesskey "o">
 <!ENTITY folderContextEmptyTrash.label "Svuota cestino">
 <!ENTITY folderContextEmptyTrash.accesskey "u">
-<!ENTITY folderContextEmptyJunk.label "Svuota posta indesiderata">
+<!ENTITY folderContextEmptyJunk.label "Svuota posta spam">
 <!ENTITY folderContextEmptyJunk.accesskey "d">
 <!ENTITY folderContextSendUnsentMessages.label "Spedisci messaggi da inviare…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
@@ -509,9 +508,10 @@
 <!ENTITY folderContextSettings.label "Impostazioni…">
 <!ENTITY folderContextSettings.accesskey "z">
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Cerca per oggetto o indirizzo">
 <!ENTITY advancedButton.label "Avanzata…">
 <!ENTITY advancedButton.accesskey "z">
+<!ENTITY searchButton.label "Cerca nei messaggi…">
+<!ENTITY searchButton.accesskey "C">
 <!ENTITY all.label "Tutti">
 <!ENTITY all.accesskey "T">
 <!ENTITY junkBarMessage.label "&brandShortName; ritiene che questo messaggio sia spam.">
@@ -521,3 +521,6 @@
 <!ENTITY loadRemoteContentButton.label "Mostra contenuto remoto">
 <!ENTITY phishingBarMessage.label "&brandShortName; crede che questo messaggio possa essere una e-mail fraudolenta.">
 <!ENTITY removePhishingBarButton.label "Non fraudolenta">
+<!ENTITY mdnBarMessage.label "Il mittente ha richiesto di essere avvisato quando leggi questo messaggio. Invio notifica al mittente?">
+<!ENTITY mdnBarIgnoreButton.label "Ignora richiesta">
+<!ENTITY mdnBarSendButton.label "Invia ricevuta">

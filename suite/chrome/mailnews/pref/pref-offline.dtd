@@ -1,20 +1,20 @@
 <!ENTITY pref.network.title "Rete e spazio su disco">
-<!ENTITY pref.offline.caption "Fuori linea">
+<!ENTITY pref.offline.caption "Non in linea">
 <!ENTITY textStartUp "All'avvio:">
 <!ENTITY textStartUp.accesskey "A">
 <!ENTITY menuitemRememberPrevState "Ricorda lo stato di linea precedente">
 <!ENTITY menuitemAskMe "Chiedimi lo stato della linea">
 <!ENTITY menuitemAlwaysOnline "Avvia sempre in linea">
-<!ENTITY menuitemAlwaysOffline "Avvia sempre fuori linea">
+<!ENTITY menuitemAlwaysOffline "Avvia sempre non in linea">
 <!ENTITY menuitemAutomatic "Riconosci automaticamente (se disponibile)">
-<!ENTITY textGoingOnline "Inviare i messaggi non inviati quando si va fuori linea?">
+<!ENTITY textGoingOnline "Inviare i messaggi non inviati quando si va non in linea?">
 <!ENTITY radioAutoSend "Sì">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend "No">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent "Chiedi">
 <!ENTITY radioAskUnsent.accesskey "C">
-<!ENTITY textGoingOffline "Scaricare i messaggi per l'uso fuori linea quando si va fuori linea?">
+<!ENTITY textGoingOffline "Scaricare i messaggi per l'uso non in linea quando si va non in linea?">
 <!ENTITY radioAutoDownload "Sì">
 <!ENTITY radioAutoDownload.accesskey "ì">
 <!ENTITY radioNotDownload "No">
