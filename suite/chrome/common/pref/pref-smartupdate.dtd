@@ -18,3 +18,12 @@
 <!ENTITY extensionsWeekly.accesskey "t">
 <!ENTITY addonManagerButton.label "Gestione componenti">
 <!ENTITY addonManagerButton.accesskey "m">
+<!ENTITY whenUpdatesFound.label "Quando sono disponibili aggiornamenti per &brandShortName;">
+<!ENTITY askMe.label "Chiedimi cosa fare">
+<!ENTITY askMe.accesskey "h">
+<!ENTITY modeAutomatic.label "Scarica e installa automaticamente l'aggiornamento">
+<!ENTITY modeAutomatic.accesskey "c">
+<!ENTITY modeAutoAddonWarn.label "Avvisami se ciò disattiva uno dei miei componenti aggiuntivi">
+<!ENTITY modeAutoAddonWarn.accesskey "v">
+<!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
+<!ENTITY updateHistory.accesskey "c">

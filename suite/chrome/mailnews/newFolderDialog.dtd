@@ -44,3 +44,5 @@
 <!ENTITY folderRestriction2.label "Consenti alla nuova cartella di contenere:">
 <!ENTITY foldersOnly.label "Solo cartelle">
 <!ENTITY messagesOnly.label "Solo messaggi">
+<!ENTITY accept.label "Crea cartella">
+<!ENTITY accept.accesskey "r">

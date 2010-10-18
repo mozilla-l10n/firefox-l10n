@@ -21,7 +21,7 @@
 <!ENTITY col.actionStop.accesskey "A">
 <!ENTITY col.actionStop.tooltip "Annulla/Elimina">
 <!ENTITY col.progress.label "Avanzamento">
-<!ENTITY col.progress.accesskey "P">
+<!ENTITY col.progress.accesskey "z">
 <!ENTITY col.progress.tooltip "Avanzamento">
 <!ENTITY col.timeremaining.label "Tempo rimasto">
 <!ENTITY col.timeremaining.accesskey "e">

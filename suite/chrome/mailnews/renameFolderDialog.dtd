@@ -1,3 +1,5 @@
 <!ENTITY renameFolderDialog.title "Rinomina cartella">
 <!ENTITY rename.label "Inserire un nome per la cartella:">
 <!ENTITY rename.accesskey "I">
+<!ENTITY accept.label "Rinomina">
+<!ENTITY accept.accesskey "R">

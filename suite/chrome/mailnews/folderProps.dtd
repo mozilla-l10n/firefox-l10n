@@ -46,7 +46,7 @@
 <!ENTITY folderCharsetOverride.accesskey "A">
 <!ENTITY folderRebuildSummaryFile.label "Ricostruisci l'indice">
 <!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Ricostruisci il file sommario">
+<!ENTITY folderRebuildSummaryFileTip.label "Ricostruisci l'indice">
 <!ENTITY retention.label "Politica di conservazione">
 <!ENTITY retentionUseAccount.label "Utilizza le impostazioni dell'account">
 <!ENTITY retentionUseAccount.accesskey "U">
