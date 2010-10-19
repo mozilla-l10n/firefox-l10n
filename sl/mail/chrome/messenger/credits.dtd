@@ -8,6 +8,6 @@
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
   [h3]Translators[/h3][ul][li]Name Here[/ul][/li]
 -->
-<!ENTITY credit.translation  "<h3>Prevedli:</h3><ul><li>Vito Smolej</li></ul><ul><li>Aleš Rom</li></ul><ul><li>Aleš Košir</li></ul><ul><li>Primož Cankar</li></ul>">
+<!ENTITY credit.translation  "<h3>Prevedli:</h3><ul><li>Vito Smolej</li><li>Aleš Rom</li><li>Aleš Košir</li><li>Primož Cankar</li></ul>">
 <!ENTITY credit.memory "V spomin na">
 <!ENTITY credit.poweredByGecko "Uporablja Gecko&trade;">
