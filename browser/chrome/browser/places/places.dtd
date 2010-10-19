@@ -25,12 +25,7 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A କ୍ରମରେ ସଜାଡନ୍ତୁ">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "ଚିହ୍ନିତ ସ୍ଥାନ ବ୍ୟବହାର କରି">
-<!ENTITY help.usingBookmarks.accesskey  "B">
-<!ENTITY help.usingHistory.label        "ଇତିହାସକୁ ବ୍ୟବହାର କରି">
-<!ENTITY help.usingHistory.accesskey    "i">
-<!ENTITY help.advancedTips.label        "ପ୍ରାକ ସୂଚନା &amp; କୌଶଳ">
-<!ENTITY help.advancedTips.accesskey    "T">
+
 
 <!ENTITY cmd.findInBookmarks.label      "ଚିହ୍ନିତ ସ୍ଥାନମାନଙ୍କରେ ଖୋଜନ୍ତୁ…">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
@@ -54,22 +49,6 @@
 <!ENTITY cmd.select_all.key "a">
 
 <!ENTITY cmd.edit_cut.label         "କାଟନ୍ତୁ">
-<!ENTITY cmd.edit_cut.accesskey     "t">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "ନକଲ କରନ୍ତୁ">
-<!ENTITY cmd.edit_copy.accesskey    "C">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "ଲଗାନ୍ତୁ">
-<!ENTITY cmd.edit_paste.accesskey   "P">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "ଲିଭାନ୍ତୁ">
-<!ENTITY cmd.edit_delete.accesskey  "D">
-<!ENTITY cmd.edit_undo.label        "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
-<!ENTITY cmd.edit_undo.accesskey    "U">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "ପୁଣି କରନ୍ତୁ">
-<!ENTITY cmd.edit_redo.accesskey    "R">
-<!ENTITY cmd.edit_redo.key          "y">
 <!ENTITY cmd.delete.label               "ଏହି ପୃଷ୍ଠାକୁ ଅପସାରଣ କରନ୍ତୁ">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "ଏହି ସାଇଟ ବିଷୟରେ ଭୁଲିଯାଆନ୍ତୁ">
@@ -143,64 +122,25 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ଇତିହାସ">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "ସନ୍ଧାନ ନିର୍ମାତାକୁ ଦର୍ଶାନ୍ତୁ">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "ସନ୍ଧାନ ନିର୍ମାତାକୁ ଲୁଚାନ୍ତୁ">
+
+
 <!ENTITY saveSearch.label                          "ସଂରକ୍ଷଣ କରନ୍ତୁ">
 <!ENTITY saveSearch.accesskey                      "S">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "କେବଳ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ">
-<!ENTITY advancedSearch.match.label                "ମେଳ ">
-<!ENTITY advancedSearch.all.label                  "ସମସ୍ତ">
-<!ENTITY advancedSearch.any.label                  "କୌଣସି">
-<!ENTITY advancedSearch.rules.label                " ନିମ୍ନଲିଖିତ ନିୟମାବଳୀର:">
-<!ENTITY advancedSearch.subj_keyword.label         "ପାଠ୍ୟ ଧାରଣ କରିଥାଏ">
-<!ENTITY advancedSearch.subj_visited.label         "ପରିଦର୍ଶିତ">
-<!ENTITY advancedSearch.subj_location.label        "ସ୍ଥାନ">
-<!ENTITY advancedSearch.location_startswith.label  "ସହିତ ଆରମ୍ଭ ହୋଇଥାଏ">
-<!ENTITY advancedSearch.location_is.label          "ଅଛି">
-<!ENTITY advancedSearch.location_onsite.label      "ସାଇଟ ଉପରେ ଅଛି">
-<!ENTITY advancedSearch.time_is.label              "ଉପରେ">
-<!ENTITY advancedSearch.time_before.label          "ପୂର୍ବରୁ">
-<!ENTITY advancedSearch.time_after.label           "ପରେ">
-<!ENTITY advancedSearch.time_inlast.label          "ଶେଷରେ">
-<!ENTITY advancedSearch.last_days.label            "ଦିନ">
-<!ENTITY advancedSearch.last_weeks.label           "ସପ୍ତାହ">
-<!ENTITY advancedSearch.last_months.label          "ମାସ">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "ଦ୍ୱାରା ସମୂହ: ">
-<!ENTITY advancedSearch.groupby_host.label         "ହୋଷ୍ଟ">
-<!ENTITY advancedSearch.groupby_domain.label       "ପରିସର">
-<!ENTITY advancedSearch.groupby_folder.label       "ଫୋଲଡର">
-<!ENTITY advancedSearch.sortby.label               "କ୍ରମରେ ସଜାଡନ୍ତୁ: ">
-<!ENTITY advancedSearch.sortby_title.label         "ଶୀର୍ଷକ">
-<!ENTITY advancedSearch.sortby_date.label          "ତାରିଖ">
-<!ENTITY advancedSearch.sortby_visit.label         "ପରିଦର୍ଶନ ସଂଖ୍ଯା">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "ସାନରୁ ବଡ କ୍ରମେ">
-<!ENTITY advancedSearch.sortby_desc.label          "ବଡରୁ ସାନ କ୍ରମେ">
-<!ENTITY advancedSearch.max.label                  "ସର୍ବାଧିକ ଫଳାଫଳ: ">
+
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY feed.subscribe.label    "ପୁରଣ କରନ୍ତୁ">
-<!ENTITY feed.subscribe.tooltip  "କିଣନ୍ତୁ">
 
-<!ENTITY view.detailsMacOSX.label  "ତାଲିକା">
-<!ENTITY view.details.label        "ବିସ୍ତୃତ ବିବରଣୀ">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "ଦୃଶ୍ୟର ଏଡ଼-ଅନଗୁଡ଼ିକୁ ଆଣନ୍ତୁ">
 
 <!ENTITY maintenance.label      "ଆମଦାନୀ ଏବଂ ନକଲ ସଂରକ୍ଷଣ">
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "ପଛକୁ">
-<!ENTITY backCmd.accesskey   "B">
+
 <!ENTITY backButton.tooltip  "ପଛକୁ ଯାଆନ୍ତୁ">
 
 <!ENTITY forwardCmd.label       "ଆଗକୁ">
-<!ENTITY forwardCmd.accesskey   "F">
+
 <!ENTITY forwardButton.tooltip  "ଆଗକୁ ବଢନ୍ତୁ">
 
 <!ENTITY detailsPane.more.label "ଅଧିକ">
@@ -209,3 +149,10 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "ପ୍ରାକଦର୍ଶନ">
 <!ENTITY detailsPane.selectAnItemText.description "ଗୁଣଧର୍ମ ଦେଖିବାକୁ ଏବଂ ସମ୍ପାଦନ କରିବାକୁ ଗୋଟିଏ ବସ୍ତୁ ଚୟନ କରନ୍ତୁ">
+<!ENTITY cmd.bookmarkLink.label         "ଏହି ପୃଷ୍ଠାକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
+
+<!ENTITY maintenance.tooltip    "ଆପଣଙ୍କର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଆମଦାନୀ କରନ୍ତୁ ଏବଂ ନକଲ ସଂରକ୍ଷଣ କରନ୍ତୁ">
+<!ENTITY organize.tooltip      "ଆପଣଙ୍କର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଆୟୋଜନ କରନ୍ତୁ">
+<!ENTITY views.tooltip                  "ଆପଣଙ୍କର ଦୃଷ୍ଟିକୋଣକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
+

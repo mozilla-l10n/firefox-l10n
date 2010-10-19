@@ -5,8 +5,7 @@
 <!ENTITY startupHomePage.label     "ମୋର ମୂଳ ପୃଷ୍ଠା ଦର୍ଶାନ୍ତୁ">
 <!ENTITY startupBlankPage.label    "ଗୋଟିଏ ଖାଲି ପୃଷ୍ଠା ଦର୍ଶାନ୍ତୁ">
 <!ENTITY startupLastSession.label  "ଗତ ଥରରୁ ମୋର ୱିଣ୍ଡୋ ଏବଂ ଟ୍ୟାବଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
-<!ENTITY location.label            "ମୂଳ ପୃଷ୍ଠା:">
-<!ENTITY location.accesskey        "H">
+
 <!ENTITY useCurrentPage.label      "ପ୍ରଚଳିତ ପୃଷ୍ଠା ବ୍ୟବହାର କରନ୍ତୁ">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "ପ୍ରଚଳିତ ପୃଷ୍ଠାଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ">
@@ -35,3 +34,6 @@
 <!ENTITY manageAddonsDescUnix2.label   "ଆପଣଙ୍କ ଏଡ଼-ଅନଗୁଡ଼ିକ ପାଇଁ ପସନ୍ଦଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 <!ENTITY manageAddons.label            "ଏଡ଼-ଅନଗୁଡ଼ିକୁ ପରିଚାଳନ କରନ୍ତୁ…">
 <!ENTITY manageAddons.accesskey        "M">
+<!ENTITY homepage.accesskey        "P">
+<!ENTITY homepage.label            "ମୂଳ ପୃଷ୍ଠା:">
+

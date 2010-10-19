@@ -7,22 +7,11 @@
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
 
-<!ENTITY  rememberHistory.pre.label      "ମୋର ପୁରୁଣା ତଥ୍ୟକୁ ଅତି କମରେ">
-<!ENTITY  rememberHistory.pre.accesskey  "b">
-<!ENTITY  rememberHistory.post.label     "ଦିନ ପାଇଁ ମନେ ରଖନ୍ତୁ">
-
-<!ENTITY  rememberDownload.label         "ଆହରଣ ପୁରୁଣା ତଥ୍ୟକୁ ମନେ ରଖନ୍ତୁ">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory.label      "ମୋର ବ୍ରାଉଜର ପୁରୁଣା ତଥ୍ୟକୁ ମନେରଖନ୍ତୁ">
+<!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "ସନ୍ଧାନ ଏବଂ ଫର୍ମ ପୁରୁମା ତଥ୍ୟକୁ ମନେ ରଖନ୍ତୁ">
 <!ENTITY  rememberSearchForm.accesskey   "f">
-
-<!ENTITY  rememberDaysBefore.label      "ମୋର ପୁରୁଣା ତଥ୍ୟକୁ ଅତି କମରେ">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      "ଦିନ ପାଇଁ ମନେ ରଖନ୍ତୁ">
-
-<!ENTITY  rememberForms.label           "ମୁଁ ଫର୍ମ ଏବଂ ସନ୍ଧାନ ପଟିରେ କଣ ଭରଣ କରିଛି ତାହା ମନେ ରଖନ୍ତୁ">
-<!ENTITY  rememberForms.accesskey       "f">
 
 <!ENTITY  rememberActions.pre.label           "ଆପଣ ନିଜର">
 <!ENTITY  rememberActions.clearHistory.label  "ସାମ୍ପ୍ରତିକ ପୁରୁଣା ତଥ୍ୟକୁ ସଫା କରିବା ପାଇଁ ଇଚ୍ଛା କରିପାରିନ୍ତି">
@@ -53,11 +42,12 @@
 <!ENTITY  clearOnCloseSettings.label     "ବିନ୍ୟାସ…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  privateBrowsingPermanent.label "ସ୍ଥାୟୀ ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ଧାରା">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY  privateBrowsingAutoStart.label "ସ୍ୱୟଂଚାଳିତ ଭାବରେ &brandShortName;କୁ ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ଅଧିବେଶନରେ ଆରମ୍ଭ କରନ୍ତୁ">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
 <!ENTITY  locationBar.label             "ଅବସ୍ଥାନ ପଟି">
-<!ENTITY  cookies.label                 "କୁକିଗୁଡ଼ିକ">
+
 
 <!ENTITY  acceptCookies.label           "ସାଇଟରୁ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣକରନ୍ତୁ">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -69,7 +59,7 @@
 <!ENTITY  keepUntil.accesskey           "K">
 
 <!ENTITY  expire.label                  "ରୁହନ୍ତୁ">
-<!ENTITY  close.label                   "&brandShortNameକୁ ମୁଁ ବନ୍ଦକରେ;">
+<!ENTITY  close.label                   "&brandShortName; କୁ ମୁଁ ବନ୍ଦକରିଥାଏ">
 <!ENTITY  askEachTime.label             "ପ୍ରତିଥର ମୋତେ ପଚାରନ୍ତୁ">
 
 <!ENTITY  cookieExceptions.label        "ବ୍ୟତିକ୍ରମ…">
@@ -86,14 +76,5 @@
 <!ENTITY  locbar.bookmarks.label        "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY  locbar.nothing.label          "କିଛି ନୁହଁ">
 
-<!ENTITY  privateData.label             "ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ">
-
-<!ENTITY  alwaysClear.label              "ମୁଁ &brandShortNameକୁ ବନ୍ଦକରିବା ସମୟରେ ସବୁବେଳେ ମୋର ବ୍ୟକ୍ତିଗତ ତଥ୍ୟକୁ ସଫାକରିଦିଅନ୍ତୁ;">
-<!ENTITY  alwaysClear.accesskey          "w">
-
-<!ENTITY  clearDataSettings.label        "ବିନ୍ୟାସ…">
-<!ENTITY  clearDataSettings.accesskey    "t">
 
 
-<!ENTITY  clearDataNow.label             "ବର୍ତ୍ତମାନ ସଫାକରନ୍ତୁ">
-<!ENTITY  clearDataNow.accesskey         "N">

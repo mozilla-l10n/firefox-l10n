@@ -46,7 +46,5 @@
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "ପ୍ରସଙ୍ଗ ତାଲିକାକୁ ନିଷ୍କ୍ରିୟ କିମ୍ବା ସ୍ଥାନାନ୍ତର କରନ୍ତୁ">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "ଅବସ୍ଥିତି ପଟିକୁ ଲୁଚାଇଦିଅନ୍ତୁ">
-<!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "ଅବସ୍ଥିତି ପଟି ପାଠ୍ୟକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
-<!ENTITY changeStatusBar.accesskey      "C">
+
+
