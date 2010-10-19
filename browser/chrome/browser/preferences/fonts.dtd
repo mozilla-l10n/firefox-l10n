@@ -49,6 +49,7 @@
 <!ENTITY  font.langGroup.telugu                   "તેલુગુ">
 <!ENTITY  font.langGroup.kannada                  "કન્નડ">
 <!ENTITY  font.langGroup.sinhala                  "સિંહાલા">
+<!ENTITY  font.langGroup.tibetan                  "ટિબેટન">
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label "ન્યૂનતમ ફોન્ટ માપ:">
