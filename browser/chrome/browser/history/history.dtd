@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "ಹೊಸ ವಿಂಡೊವಿನಲ್ಲಿ ತೆಗೆ">
 <!ENTITY openInNewWindow.accesskey "W">
-<!ENTITY bookmarkLink.label "ಈ ಕೊಂಡಿಯನ್ನು ಬುಕ್‍ಮಾರ್ಕ್‍ ಮಾಡು...">
-<!ENTITY bookmarkLink.accesskey "B">
 <!ENTITY copyLink.label "ಕೊಂಡಿ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
 <!ENTITY copyLink.accesskey "C">

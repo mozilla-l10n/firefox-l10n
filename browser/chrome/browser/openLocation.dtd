@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "ಕಡತವನ್ನು ಆರಿಸಿ...">
 <!ENTITY newWindow.label "ಹೊಸ ವಿಂಡೋ">
 <!ENTITY newTab.label "ಹೊಸ ಹಾಳೆ">
-<!ENTITY topWindow.label "ಪ್ರಸಕ್ತ ವಿಂಡೋ">
 <!ENTITY caption.label "ಜಾಲ ತಾಣದ ವಿಳಾಸವನ್ನು ತೆರೆ">
 <!ENTITY openWhere.label "ಇದರಲ್ಲಿ ತೆರೆ:">
 <!ENTITY openBtn.label "ತೆರೆ">
+<!ENTITY topTab.label "ಪ್ರಸಕ್ತ ವಿಂಡೋ">
