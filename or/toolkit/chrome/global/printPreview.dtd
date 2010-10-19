@@ -68,5 +68,7 @@
 
 <!ENTITY homearrow.tooltip    "ପ୍ରଥମ ପୃଷ୍ଠା">
 <!ENTITY endarrow.tooltip     "ଶେଷ ପୃଷ୍ଠା">
-<!ENTITY rightarrow.tooltip   "ପରବର୍ତ୍ତି ପୃଷ୍ଠା">
-<!ENTITY leftarrow.tooltip    "ପୂର୍ବ ପୃଷ୍ଠା">
+<!ENTITY nextarrow.tooltip    "ପରବର୍ତ୍ତୀ ପୃଷ୍ଠା">
+<!ENTITY previousarrow.tooltip "ପୂର୍ବବର୍ତ୍ତୀ ପୃଷ୍ଠା">
+
+

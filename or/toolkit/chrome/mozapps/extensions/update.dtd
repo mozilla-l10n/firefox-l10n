@@ -53,5 +53,4 @@
 <!ENTITY  clickFinish.label               "&brandShortName;କୁ ଆରମ୍ଭ କରିବା ପାଇଁ ସମାପ୍ତ କରନ୍ତୁକୁ କ୍ଲିକ କରନ୍ତୁ।">
 <!ENTITY  clickFinish.labelMac            "&brandShortName;କୁ ଆରମ୍ଭ କରିବା ପାଇଁ ସମାପ୍ତ କ୍ଲିକ କରନ୍ତୁ।">
 <!ENTITY  enableChecking.label            "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଯାଞ୍ଚ କରିବା ପାଇଁ &brandShortName;କୁ ଅନୁମତି ଦିଅନ୍ତୁ।">
-<!ENTITY  details.label                   "ବିବରଣୀ…">
-<!ENTITY  details.accesskey               "D">
+
