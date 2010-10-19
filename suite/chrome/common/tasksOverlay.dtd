@@ -42,6 +42,7 @@
 
 <!ENTITY addonsManagerCmd.label "Modules complémentaires">
 <!ENTITY addonsManagerCmd.accesskey "e">
+<!ENTITY addonsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Changer de profil…">
 <!ENTITY switchProfileCmd.accesskey "h">
