@@ -5,8 +5,9 @@
 <!ENTITY startupHomePage.label     "મારું ઘર પાનું બતાવો">
 <!ENTITY startupBlankPage.label    "કોરું પાનું બતાવો">
 <!ENTITY startupLastSession.label  "છેલ્લા સમયની મારી વિન્ડો અને ટેબો બતાવો">
-<!ENTITY location.label            "સ્થાન:">
-<!ENTITY location.accesskey        "H">
+<!ENTITY homepage.accesskey        "P">
+<!ENTITY homepage.label            "ઘર પાનું:">
+
 <!ENTITY useCurrentPage.label      "વર્તમાન પાનું વાપરો">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "વર્તમાન પાનાંઓ વાપરો">
