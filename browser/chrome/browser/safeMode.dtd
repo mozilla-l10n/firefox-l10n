@@ -56,3 +56,5 @@
 
 <!ENTITY changeAndRestartButton.label "ફેરફારો કરો અને પુનઃશરૂ કરો">
 <!ENTITY continueButton.label         "સુરક્ષિત સ્થિતિમાં ચાલુ રાખો">
+<!ENTITY deleteBookmarks.accesskey    "b">
+<!ENTITY deleteBookmarks.label        "બેકઅપોને બાદ કરતા બધા બુકમાર્કોને કાઢી નાંખો">
