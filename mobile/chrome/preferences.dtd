@@ -1,20 +1,20 @@
 <!ENTITY prefsHeader.label                         "التفضيلات">
 <!ENTITY about.title                               "عن &brandShortName;">
 <!ENTITY about.button                              "اذهب إلى صفحة">
-<!ENTITY about.description                         "احصل على المساعدة ومعلومات المنتج">
 <!ENTITY content.title                             "المحتوى">
 <!ENTITY showImages.title                          "أظهِر الصور">
 <!ENTITY enableJavaScript.title                    "فعّل جافاسكربت">
-<!ENTITY enableJavaScript.description              "معظم المواقع التفاعلية تستخدم جافاسكربت">
 <!ENTITY enablePlugins.title                       "فعّل الملحقات">
-<!ENTITY enablePlugins.description                 "تُستخدم الملحقات من أجل المحتويات الخاصة كالفيديو">
 <!ENTITY privacy.title                             "الخصوصية والسرية">
 <!ENTITY allowCookies.title                        "اسمح بالكعكات">
-<!ENTITY allowCookies.description                  "تستخدم المواقع الكعكات لتتعرف عليك وتتذكر إعداداتك">
-<!ENTITY clearPrivateData.title                    "امسح تأريخ التصفح">
+<!ENTITY clearPrivateData2.title                  "امسح البيانات الخاصة">
 <!ENTITY clearPrivateData.button                   "امسح">
-<!ENTITY clearPrivateData.description              "يساعد التأريخ &brandShortName; على تقديم اقتراحات لأسماء مواقع الوب التي تقصدها">
 <!ENTITY rememberPasswords.title                   "تذكّر كلمات السر">
 <!ENTITY language.title                            "اللغة">
-<!ENTITY language.description                      "اختر لغتك المفضلة في &brandShortName;">
 <!ENTITY language.auto                             "اكتشاف تلقائي">
+<!ENTITY defaultBrowser.title                      "المتصفح المبدئي">
+<!ENTITY defaultBrowser.description                "اجعل &brandShortName; متصفحك المبدئي">
+<!ENTITY homepage.title                            "صفحة البداية">
+<!ENTITY homepage.none                             "صفحة فارغة">
+<!ENTITY homepage.default                          "بداية &brandShortName;">
+<!ENTITY homepage.currentpage                      "استخدِم الصفحة الحالية">

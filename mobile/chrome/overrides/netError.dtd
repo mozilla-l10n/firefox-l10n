@@ -52,12 +52,17 @@
 <!ENTITY netInterrupt.title "قوطع الاتصال">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "نمط اللا اتصال">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>ألغِ تأشير &quot;اعمل بدون اتصال&quot; في قائمة ملف، ثم حاول مجددًا.</li>
+  <li>جرّب ثانية. سوف يحاول &brandShortName; أن يتصل من جديد ويعيد تحميل الصفحة.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "نمط اللا اتصال">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "
@@ -158,6 +163,9 @@
 <p>قد يؤدي إدخالك لمعلومات شخصية في هذه الصفحة إلى سرقة هويتك أو وقوعك ضحية لحِيَل أخرى.</p>
 <p>هذه النوعية من تزويرات الوب معروفة باسم حِيَل الإنترنت، والتي تحاول فيها صفحات الوب المخادعة أو رسائل البريد تقليد مصادر قد تثق بها.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "معطّل من قِبَل سياسة أمن المحتوى">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>يمنع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأنّ لهذه الصفحة سياسة أمن المحتوى تمنع ذلك.</p>">
 
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">

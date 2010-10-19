@@ -1,10 +1,13 @@
-<!ENTITY welcome.title                      "أهلًا بك في &brandShortName;">
-<!ENTITY overview.description               "زامِن حاسوبك وهاتفك النقال مع ويف. خصّصه باستخدام الإضافات، وأبحِر في الإنترنت مستخدمًا الشريط الرائع، وتمتع بالمزيد والمزيد من الخصائص الأخرى.">
-<!ENTITY nextSteps.title                    "الخطوات التالية">
-<!ENTITY sync.title                         "انهض وانطلق">
-<!ENTITY sync.description                   "استخدم ويف لمساعدتك في اختراق عالم &brandShortName;. تشارَكْ تفضيلاتك وعلاماتك وتاريخ تصفحك وأمورًا أخرى بين حاسوبك وهاتفك النقال.">
-<!ENTITY sync.link                          "احصل على إضافة ويف">
-<!ENTITY getPersonal.title                  "احصل على متصفحك الشخصي">
-<!ENTITY getPersonal.description            "اجعل &brandShortName; متصفحك الخاص. خصّص أول متصفح على وجه الأرض يسمح بالإضافات في الهاتف النقال.">
-<!ENTITY getPersonal.link                   "احصل على الإضافات من أجل هاتفك النقال.">
-<!ENTITY skip.link                          "تجاوز كل هذا وأبحِر في الوب.">
+<!ENTITY firstrun.title                "أهلًا بك في &brandShortName;">
+<!ENTITY firstrun.heading              "لمساعدتك على البدء، إليك بعضًا من أشهر المزايا والإضافات التي ستساعدك على الحصول على أفضل ما في &brandShortName;.">
+<!ENTITY firstrun.recommended          "المزكّاة:">
+<!ENTITY firstrun.weave.title          "احصل على Weave Sync">
+<!ENTITY firstrun.weave.description    "تشارَك تأريخ &brandShortName; وكلمات سرّه وعلاماته وألسنته بين جهازك وجوّالك">
+<!ENTITY firstrun.starter.title        "احصل على مجموعة Starter Kit">
+<!ENTITY firstrun.starter.description  "ثبّت هذه الإضافات المزكّاة لزيادة خبرتك ب‍ &brandShortName;">
+<!ENTITY firstrun.tour.title           "قُم بجولة">
+<!ENTITY firstrun.tour.description     "شاهد هذا المقطع لتتعلم كيف تتجوّل في الأرجاء وتعثر على المزايا اللطيفة">
+<!ENTITY firstrun.features             "شاهِد المزيد من المزايا">
+<!ENTITY firstrun.faq                  "الأسئلة الأكثر شيوعًا">
+<!ENTITY firstrun.privacy              "سياسة الخصوصية">
+<!ENTITY firstrun.follow               "تابعنا على:">
