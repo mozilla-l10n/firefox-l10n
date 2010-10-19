@@ -12,3 +12,5 @@
 
 <!ENTITY switchToNewTabs.label        "જ્યારે હું નવી ટેબમાં, ત્યારે તેમાં તરત જ બદલાઈ જાવ">
 <!ENTITY switchToNewTabs.accesskey    "s">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY showTabsInTaskbar.label          "Windows કાર્યપટ્ટીમાં ટૅબ પૂર્વદર્શનનો બતાવો">
