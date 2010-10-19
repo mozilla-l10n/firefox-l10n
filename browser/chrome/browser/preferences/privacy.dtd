@@ -51,8 +51,8 @@
 
 <!ENTITY  locationBar.label             "સ્થાન પટ્ટી">
 
-<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; ને ખાનગી બ્રાઉઝીંગ સત્રમાં આપોઆપ શરૂ કરો">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; તમે બ્રાઉઝ કરતાં જે વેબ સાઉટોની મુલાકાત લો તેમાંથી, ડાઉનલોડ, ફોર્મ અને શોધ ઈતિહાસ, અને કુકીઓને યાદ રાખશે.">
 
@@ -71,12 +71,13 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "મારો બ્રાઉઝીંગ ઈતિહાસ ઓછામાં ઓછા">
-<!ENTITY  rememberHistory.pre.accesskey  "b">
-<!ENTITY  rememberHistory.post.label     "દિવસો માટે યાદ રાખો">
 
 <!ENTITY  rememberDownload.label         "ડાઉનલોડ ઇતિહાસ યાદ રાખો">
 <!ENTITY  rememberDownload.accesskey     "d">
 
 <!ENTITY  rememberSearchForm.label       "શોધ અને ફોર્મ ઈતિહાસ યાદ રાખો">
 <!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent.label "કાયમી ખાનગી બ્રાઉઝીંગ સ્થિતિ">
+<!ENTITY  rememberHistory.accesskey  "b">
+<!ENTITY  rememberHistory.label      "મારા બ્રાઉઝીંગ ઇતિહાસને યાદ રાખો">
