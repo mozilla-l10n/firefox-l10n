@@ -144,7 +144,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Framåt">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Gå framåt en sida">
-<!ENTITY backForwardMenu.tooltip      "Tidigare sidor">
 <!ENTITY reloadCmd.label              "Uppdatera">
 <!ENTITY reloadCmd.accesskey          "U">
 <!ENTITY reloadButton.tooltip         "Uppdatera sidan">
