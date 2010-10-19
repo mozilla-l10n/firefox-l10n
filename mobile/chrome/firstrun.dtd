@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title                "أهلًا بك في &brandShortName;">
-<!ENTITY firstrun.heading              "لمساعدتك على البدء، إليك بعضًا من أشهر المزايا والإضافات التي ستساعدك على الحصول على أفضل ما في &brandShortName;.">
-<!ENTITY firstrun.recommended          "المزكّاة:">
-<!ENTITY firstrun.weave.title          "احصل على Weave Sync">
-<!ENTITY firstrun.weave.description    "تشارَك تأريخ &brandShortName; وكلمات سرّه وعلاماته وألسنته بين جهازك وجوّالك">
-<!ENTITY firstrun.starter.title        "احصل على مجموعة Starter Kit">
-<!ENTITY firstrun.starter.description  "ثبّت هذه الإضافات المزكّاة لزيادة خبرتك ب‍ &brandShortName;">
-<!ENTITY firstrun.tour.title           "قُم بجولة">
-<!ENTITY firstrun.tour.description     "شاهد هذا المقطع لتتعلم كيف تتجوّل في الأرجاء وتعثر على المزايا اللطيفة">
+<!ENTITY firstrun.heading2             "أهلًا بك في &brandShortName;">
+<!ENTITY firstrun.sync2.title          "زامِن">
+<!ENTITY firstrun.sync2.description    "لُج مستخدمًا معلومات حسابك في تزامُن وتشارَك التأريخ وكلمات السر والعلامات والألسنة بين حاسوبك وجوالك">
+<!ENTITY firstrun.addons2.title        "خصّص">
+<!ENTITY firstrun.addons2.description  "اكتشف الإضافات وثبّتها لإضافة المزيد من الوظائف إلى &brandShortName;">
+<!ENTITY firstrun.home2.title          "تصفح">
+<!ENTITY firstrun.home2.description    "تجاوز كل هذا وانطلق إلى صفحة البداية المخصصة لتبدأ تصفح الوب">
 <!ENTITY firstrun.features             "شاهِد المزيد من المزايا">
-<!ENTITY firstrun.faq                  "الأسئلة الأكثر شيوعًا">
+<!ENTITY firstrun.faq                  "الأسئلة الأكثر تكرارًا">
 <!ENTITY firstrun.privacy              "سياسة الخصوصية">
 <!ENTITY firstrun.follow               "تابعنا على:">

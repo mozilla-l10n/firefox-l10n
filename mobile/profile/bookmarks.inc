@@ -19,10 +19,6 @@
 # link title for about:fennec
 #define bookmarks_aboutBrowser فَيَرفُكس: عن متصفحك
 
-# LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_sync فَيَرفُكس: زامِن باستخدام Weave Sync
-
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
 #define bookmarks_addons فَيَرفُكس: خصّص من خلال الإضافات
