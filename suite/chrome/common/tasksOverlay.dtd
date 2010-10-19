@@ -27,6 +27,7 @@
 <!ENTITY downloadManagerCmd.accesskey "G">
 <!ENTITY downloadManagerCmd.commandkey "j">
 <!ENTITY addonsManagerCmd.label "Componenti aggiuntivi">
-<!ENTITY addonsManagerCmd.accesskey "A">
+<!ENTITY addonsManagerCmd.accesskey "a">
+<!ENTITY addonsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Passa al profilo…">
 <!ENTITY switchProfileCmd.accesskey "P">
