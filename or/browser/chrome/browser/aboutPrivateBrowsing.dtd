@@ -17,9 +17,9 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ଆରମ୍ଭ କରନ୍ତୁ">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗକୁ ବନ୍ଦ କରିବା ପାଇଁ, &toolsMenu.label;କୁ ବାଛନ୍ତୁ &gt; &privateBrowsingCmd.stop.label;, କିମ୍ବା &brandShortName;କୁ ବନ୍ଦକରନ୍ତୁ।">
-<!ENTITY privatebrowsingpage.howToStart                "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗକୁ ଆରମ୍ଭ କରିବା ପାଇଁ, ଆପଣ &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;କୁ ମଧ୍ଯ ବାଛିପାରିବେ।">
+<!ENTITY privatebrowsingpage.howToStop2                "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗକୁ ବନ୍ଦ କରିବା ପାଇଁ, &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; କୁ ବାଛନ୍ତୁ, କିମ୍ବା &brandShortName; କୁ ବନ୍ଦ କରନ୍ତୁ।">
 
+<!ENTITY privatebrowsingpage.howToStart2               "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗକୁ ଆରମ୍ଭ କରିବା ପାଇଁ, ଆପଣ  &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;କୁ ମଧ୍ଯ ବାଛିପାରିବେ।">
 <!ENTITY privatebrowsingpage.moreInfo                  "ଏହି କମ୍ପୁଟରେ ଆପଣଙ୍କର ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟର କୌଣସି ବିବରଣୀ ନଥିଲେ ମଧ୍ଯ, ଆପଣଙ୍କର ସର୍ଭିସ
 ପ୍ରଦାନକାରୀ କିମ୍ବା ନିଯୁକ୍ତିଦାତା ଆପଣ ପରିଦର୍ଶନ କରିଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକୁ ଅନୁସରଣ କରିପାରିବେ।">
 <!ENTITY privatebrowsingpage.learnMore                 "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">

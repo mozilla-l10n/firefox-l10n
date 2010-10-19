@@ -42,9 +42,6 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "ପର୍ଯ୍ୟନ୍ତ ବ୍ୟବହାର କରନ୍ତୁ">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "ସ୍ୱଳ୍ପକାଳ ସଞ୍ଚୟ ବ୍ୟବସ୍ଥା ପାଇଁ ସ୍ଥାନ MB ରେ">
 <!ENTITY clearCacheNow.label             "ବର୍ତ୍ତମାନ ସଫାକରନ୍ତୁ">
 <!ENTITY clearCacheNow.accesskey         "C">
 
@@ -53,8 +50,7 @@
 <!ENTITY autoCheck.label                 "ଅଦ୍ୟତନ ପାଇଁ ସ୍ୱୟଂଯାଞ୍ଚ କରନ୍ତୁ:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;କୁ">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "ସ୍ଥାପିତ ଏଡ-ଅନଗୁଡ଼ିକ">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
+
 <!ENTITY enableSearchUpdate.label        "ଖୋଜା ଯନ୍ତ୍ର">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!ENTITY whenUpdatesFound.label          "&brandShortName;ର ଅଦ୍ୟତନ ମିଳିଗଲାପରେ:">
@@ -99,3 +95,16 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "ସୁରକ୍ଷା ଉପକରଣଗୁଡ଼ିକ">
 <!ENTITY viewSecurityDevices.accesskey   "y">
+<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.label              "ଉପଲବ୍ଧ ହେଲେ ହାର୍ଡୱେର ତ୍ୱରଣକୁ ବ୍ୟବହାର କରନ୍ତୁ">
+<!ENTITY enableAddonsUpdate2.label       "ଏଡ-ଅନଗୁଡ଼ିକ">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY limitCacheSizeBefore.label      "କ୍ୟାଶେକୁ ସିମୀତ କରିଥାଏ">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB ସ୍ଥାନ">
+<!ENTITY overrideSmartCacheSize.label    "ସ୍ୱୟଂଚାଲିତ କ୍ୟାଶେ ପରିଚାଳନାକୁ ନବଲିଖନ କରନ୍ତୁ">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY submitCrashes.label             "ନଷ୍ଟ ବିବରଣୀଗୁଡ଼ିକୁ ଦାଖଲ କରନ୍ତୁ">
+<!ENTITY submitCrashes.accesskey         "S">
+
+

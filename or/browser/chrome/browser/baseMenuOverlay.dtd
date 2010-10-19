@@ -10,29 +10,13 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ସହାୟତା"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutCmd.label           "&brandFullName;ବିଷୟରେ">
-<!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "ସହାୟତା ବିଷୟବସ୍ତୁଗୁଡ଼ିକ">
-<!ENTITY helpContents.accesskey   "H">
-<!ENTITY helpContentsMac.label    "&brandShortName; ସହାୟତା">
 <!ENTITY helpForIEUsers.label     "ଇଣ୍ଟରନେଟ ଏକ୍ସପ୍ଲରର୍ ଚାଳକମାନଙ୍କ ପାଇଁ">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY helpReleaseNotes.label         "ପ୍ରକାଶନ ଟିପ୍ପଣୀ">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY updateCmd.label                "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ…">
-<!ENTITY updateCmd.accesskey            "o">
+
 <!ENTITY preferencesCmdMac.label        "ପସନ୍ଦ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
@@ -46,4 +30,16 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "ସମସ୍ତଙ୍କୁ ଦର୍ଶାନ୍ତୁ">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY aboutProduct.label       "&brandShortName; ବିଷୟରେ">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.label       "ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ…">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.label      "ତ୍ରୁଟିନିବାରଣ ସୂଚନା">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY productHelp.label        "&brandShortName; ସହାୟତା">
+
+<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpFeedbackPage.label      "ମତାମତ ଦାଖଲ କରନ୍ତୁ…">
 

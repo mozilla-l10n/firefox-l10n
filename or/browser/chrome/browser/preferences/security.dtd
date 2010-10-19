@@ -34,10 +34,3 @@
 <!ENTITY  savedPasswords.label            "ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତ…">
 <!ENTITY  savedPasswords.accesskey        "P">
 
-
-<!ENTITY  warnings.label                "ଚେତାବନୀ ସୂଚନାଗୁଡ଼ିକ">
-
-<!ENTITY  chooseWarnings.label          "ୱେବ ବ୍ରାଉଜିଙ୍ଗ କରିବା ସମୟରେ ଆପଣ କେଉଁ ସତର୍କ ସୂଚନା ଦେଖିବାକୁ ଚାହୁଁଛନ୍ତି ତାହା ଚୟନ କରନ୍ତୁ">
-
-<!ENTITY  warningSettings.label         "ବିନ୍ୟାସ…">
-<!ENTITY  warningSettings.accesskey     "S">

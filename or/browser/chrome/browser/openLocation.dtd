@@ -4,7 +4,8 @@
 <!ENTITY chooseFile.label "ଫାଇଲ ବାଛନ୍ତୁ…">
 <!ENTITY newWindow.label "ନୂତନ ୱିଣ୍ଡୋ">
 <!ENTITY newTab.label "ନୂତନ ଟ୍ୟାବ">
-<!ENTITY topWindow.label "ସାମ୍ପ୍ରତିକ ୱିଣ୍ଡୋ">
 <!ENTITY caption.label "ୱେବ ସ୍ଥାନ ଖୋଲନ୍ତୁ">
 <!ENTITY openWhere.label "ରେ ଖୋଲନ୍ତୁ:">
 <!ENTITY openBtn.label "ଖୋଲନ୍ତୁ">
+<!ENTITY topTab.label "ପ୍ରଚଳିତ ଟ୍ୟାବ">
+

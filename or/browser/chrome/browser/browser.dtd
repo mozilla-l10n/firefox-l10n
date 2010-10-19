@@ -38,8 +38,7 @@
 <!ENTITY personalbarCmd.label "ସାଧନପଟିକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ସାଧନପଟି ବସ୍ତୁଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
-<!ENTITY taskbarCmd.label "ଅବସ୍ଥିତି ପଟି">
-<!ENTITY taskbarCmd.accesskey "B">
+
 
 <!ENTITY pageSourceCmd.label "ପୃଷ୍ଠା ଉତ୍ସ">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -68,7 +67,7 @@
 <!ENTITY subscribeToPageMenupopup.label "ଏହି ପୃଷ୍ଠାକୁ କିଣନ୍ତୁ">
 <!ENTITY subscribeToPageMenuitem.label "ଏହି ପୃଷ୍ଠାକୁ କିଣନ୍ତୁ…">
 <!ENTITY addCurPagesCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
-<!ENTITY organizeBookmarks.label "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ରଚନା କରନ୍ତୁ…">
+
 <!ENTITY bookmarkAllCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
 <!ENTITY bookmarksToolbarChevron.tooltip "ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ">
 
@@ -114,12 +113,12 @@
 <!ENTITY search.label                 "ୱେବ ସନ୍ଧାନ">
 <!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "ଆହରଣଗୁଡ଼ିକ">
-<!ENTITY downloads.tooltip            "ଚାଲୁଥିବା ଆହରଣଗୁଡ଼ିକର ଉନ୍ନତିକୁ ପ୍ରଦର୍ଶନ କରନ୍ତୁDisplay the progress of ongoing downloads">
+<!ENTITY downloads.tooltip            "ଚାଲୁଥିବା ଆହରଣଗୁଡ଼ିକର ଉନ୍ନତିକୁ ପ୍ରଦର୍ଶନ କରନ୍ତୁ">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "ଏଡ଼-ଅନଗୁଡ଼ିକୁ">
-<!ENTITY addons.tooltip               "ସ୍ଥାପିତ ଏଡ଼-ଅନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
+
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "ତ୍ରୁଟି କୋନସଲ">
@@ -159,9 +158,6 @@
 <!ENTITY preferencesCmd.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "ପସନ୍ଦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
-
-<!ENTITY clearRecentHistoryCmd.label            "Clear Recent Historyନିକଟର ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗକୁ ଆରମ୍ଭ କରନ୍ତୁ">
@@ -213,7 +209,7 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
+
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "ସଂଯୋଗକୁ ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ">
@@ -287,8 +283,6 @@
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "ସଂଯୋଗ ଅବସ୍ଥାନ ନକଲ କରନ୍ତୁ">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkTextCmd.label        "ସଂଯୋଗ ପାଠ୍ୟ ନକଲ କରନ୍ତୁ">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
 <!ENTITY copyImageCmd.label           "ପ୍ରତିଛବି ଅବସ୍ଥିତି ନକଲ କରନ୍ତୁ">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ପ୍ରତିଛବି ନକଲ କରନ୍ତୁ">
@@ -297,9 +291,9 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ଧ୍ୱନୀ ସ୍ଥାନକୁ ନକଲ କରନ୍ତୁ">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "B">
-<!ENTITY metadataCmd.label            "ଗୁଣଧର୍ମ">
-<!ENTITY metadataCmd.accesskey        "P">
+
+
+
 <!ENTITY copyEmailCmd.label           "ଇମେଲ ଠିକଣାକୁ ନକଲ କରନ୍ତୁ">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ଏହି ଫ୍ରେମ">
@@ -405,10 +399,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "ସମାପ୍ତ">
 <!ENTITY editBookmark.cancel.label                   "ବାତିଲ କରନ୍ତୁ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
-<!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.edit.label                     "ସମ୍ପାଦନ କରନ୍ତୁ…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "ଏହି ୱେବ ସାଇଟ ପରିଚୟ ସୂଚନା ପ୍ରଦାନ କରିନଥାଏ।">
 <!ENTITY identity.connectedTo "ଆପଣ ସଂଯୁକ୍ତ ଅଛନ୍ତି">
@@ -429,20 +419,125 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 
 <!ENTITY downloadMonitor2.tooltip "ଆହରଣ ୱିଣ୍ଡୋକୁ ଖୋଲିବା ପାଇଁ ଦବାନ୍ତୁ">
 
-<!ENTITY ctrlTab.search.emptyText "ଟ୍ୟାବଗୁଡ଼ିକୁ ସନ୍ଧାନ କରନ୍ତୁ">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
-<!ENTITY urlbar.emptyText             "ଚିହ୍ନିତ ସ୍ଥାନ ଏବଂ ପୁରୁଣା ତଥ୍ୟ ସନ୍ଧାନ କରନ୍ତୁ">
 
 <!ENTITY historyUndoWindowMenu.label "ସାମ୍ପ୍ରତିକ ବନ୍ଦ ହୋଇଥିବା ୱିଣ୍ଡୋଗୁଡ଼ିକ">
 <!ENTITY newTabButton.tooltip           "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ">
-<!ENTITY urlbar.bookmark.emptyText    "ତିହ୍ନିତ ସ୍ଥାନକୁ ଖୋଜନ୍ତୁ">
-<!ENTITY urlbar.bookmarkhistory.emptyText "ତିହ୍ନିତ ସ୍ଥାନ ଏବଂ ପୁରୁଣାତଥ୍ୟକୁ ଖୋଜନ୍ତୁ">
-<!ENTITY urlbar.history.emptyText     "ପୁରୁଣାତଥ୍ୟକୁ ଖୋଜନ୍ତୁ">
-<!ENTITY urlbar.none.emptyText        "ଗୋଟିଏ ୱେବ ଠିକଣା ଲେଖନ୍ତୁ">
+
+<!ENTITY addonBarCmd.label "ଏଡ-ଅନ ପଟି">
+<!ENTITY addonBarCmd.accesskey "B">
+
+<!ENTITY addons.commandkey            "A">
+<!ENTITY allTabs.filter.emptyText "ଟ୍ୟାବଗୁଡ଼ିକୁ ସନ୍ଧାନ କରନ୍ତୁ">
+<!ENTITY appMenuButton.label          "ତାଲିକା">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; ତାଲିକାକୁ ଖୋଲନ୍ତୁ">
+
+<!ENTITY appMenuEdit.label "ସମ୍ପାଦନ କରନ୍ତୁ">
+<!ENTITY appMenuCustomize.label "ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ">
+<!ENTITY appMenuToolbarLayout.label "ସାଧନପଟି ବିନ୍ୟାସ…">
+<!ENTITY appMenuSidebars.label "ପାର୍ଶ୍ୱପଟିଗୁଡ଼ିକ">
+<!ENTITY appMenuFind.label "ଖୋଜନ୍ତୁ…">
+<!ENTITY appMenuUnsorted.label "ଅସଜ୍ଜିତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
+<!ENTITY appMenuWebDeveloper.label "ୱେବ ବିକାଶକାରୀ">
+<!ENTITY appMenuGettingStarted.label "ଆରମ୍ଭ କରୁଅଛି">
+<!ENTITY appMenuSafeMode.label "ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ…">
+<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY backForwardItem.title        "ପଛକୁ/ଆଗକୁ">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  bookmarkAllTabs.label              "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksMenuButton.label          "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
+<!ENTITY bookmarksMenuButton.tooltip        "ଆପଣଙ୍କର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
+<!ENTITY bookmarksMenuButton.unsorted.label "ଅସଜ୍ଜିତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+<!ENTITY clearRecentHistory.accesskey           "H">
+<!ENTITY clearRecentHistory.label               "ନିକଟର ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ…">
+<!ENTITY  closeOtherTabs.label               "ଅନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦ କରନ୍ତୁ">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  closeTab.label                     "ଟ୍ୟାବକୁ ବନ୍ଦ କରନ୍ତୁ">
+<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY feedButton.label             "ସଦସ୍ୟତା ଗ୍ରହଣ କରନ୍ତୁ">
+<!ENTITY feedButton.tooltip           "ଏହି ପୃଷ୍ଠାର ସଦସ୍ୟତା ଗ୍ରହଣ କରନ୍ତୁ…">
+<!ENTITY fullScreenButton.tooltip       "ୱିଣ୍ଡୋକୁ ସମ୍ପୂର୍ଣ୍ଣ ପରଦାରେ ଦର୍ଶାନ୍ତୁ">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY historyRestoreLastSession.label "ପୂର୍ବବର୍ତ୍ତୀ ଅଧିବେଶନକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
+<!ENTITY inspectMenu.label            "ଯାଞ୍ଚ କରନ୍ତୁ">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "ଯାଞ୍ଚ କରନ୍ତୁ">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "ପରବର୍ତ୍ତି">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "ପୂର୍ବବର୍ତ୍ତୀ">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "ଶୈଳୀ">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "ଶୈଳୀ">
+<!ENTITY inspectObjectButton.label       "ବସ୍ତୁ">
+<!ENTITY inspectObjectButton.accesskey   "O">
+<!ENTITY  listAllTabs.label      "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.label "ତାଲିକା ପଟି">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToGroup.label                  "ଶ୍ରେଣୀ ମଧ୍ଯକୁ ଯାଆନ୍ତୁ">
+<!ENTITY  moveToNewGroup.label               "ନୂତନ ଶ୍ରେଣୀ">
+<!ENTITY  moveToNewWindow.label              "ନୂତନ ୱିଣ୍ଡୋକୁ ଯାଆନ୍ତୁ">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY openLinkCmdInCurrent.label     "ସଂଯୋଗକୁ ଖୋଲନ୍ତୁ">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  pinAppTab.label                    "ପ୍ରୟୋଗ ଟ୍ୟାବ ଭାବରେ ଲଗାନ୍ତୁ">
+<!ENTITY  reloadTab.label                    "ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ ">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+
+<!ENTITY showAllBookmarks.label "ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ…">
+<!ENTITY showAllTabsCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼କୁ ଦର୍ଶାନ୍ତୁ">
+<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY syncTabsMenu.label     "ଅନ୍ୟ କମ୍ପୁଟରଗୁଡ଼ିକରୁ ଟ୍ୟାବଗୁଡ଼ିକ">
+
+<!ENTITY syncBrand.shortName.label    "ସନ୍ତୁଳନ କରନ୍ତୁ">
+
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "ସନ୍ତୁଳନ କରନ୍ତୁ">
+<!ENTITY tabGroupsButton.label        "ଟ୍ୟାବ ଶ୍ରେଣୀମାନ">
+<!ENTITY tabGroupsButton.tooltip      "ଆପଣଙ୍କର ଟ୍ୟାବଗୁଡ଼ିକୁ ଶ୍ରେଣୀଭୁକ୍ତ କରନ୍ତୁ">
+<!ENTITY tabView.commandkey           "e">
+<!ENTITY tabsToolbar.label "ବ୍ରାଉଜର ଟ୍ୟାବଗୁଡ଼ିକ">
+<!ENTITY  undoCloseTab.label                 "ଟ୍ୟାବ ବନ୍ଦ କରନ୍ତୁକୁ ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  unpinAppTab.label                  "ଟ୍ୟାବକୁ ପିନମୁକ୍ତ କରନ୍ତୁ">
+<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY urlbar.placeholder           "ଗୋଟିଏ ୱେବ ସାଇଟକୁ ଯାଆନ୍ତୁ">
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY videoFullScreen.label       "ସମ୍ପୂର୍ଣ୍ଣ ପରଦା">
+<!ENTITY videoFullScreen.accesskey   "F">
+
+<!ENTITY viewBookmarksSidebar.label         "ପାର୍ଶ୍ୱପଟିରେ ଦର୍ଶାନ୍ତୁ">
+<!ENTITY viewBookmarksToolbar.label         "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକର ସାଧନପଟିକୁ ଦେଖନ୍ତୁ">
+<!ENTITY viewImageInfoCmd.label       "ପ୍ରତିଛବି ସୂଚନାକୁ ଦେଖନ୍ତୁ">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewTabGroups.label            "ଟ୍ୟାବ ଶ୍ରେଣୀ">
+<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabsOnTop.label            "ଉପରେ ଟ୍ୟାବଗୁଡ଼ିକ">
+<!ENTITY viewTabsOnTop.accesskey        "T">
+<!ENTITY webConsoleCmd.label          "ୱେବ କୋନସୋଲ">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY zoomOutButton.tooltip          "ଛୋଟ କରିବା">
+<!ENTITY zoomInButton.tooltip           "ବଡ଼ କରିବା">
+<!ENTITY zoomControls.label             "ଜୁମ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ">
+<!ENTITY urlbar.switchToTab.label     "ଟ୍ୟାବକୁ ସ୍ଥାନାନ୍ତରିତ କରନ୍ତୁ:">
+

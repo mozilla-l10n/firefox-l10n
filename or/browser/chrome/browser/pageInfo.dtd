@@ -123,3 +123,8 @@
 
 <!ENTITY  permAskAlways         "ସର୍ବଦା ପଚାରନ୍ତୁ">
 <!ENTITY  permGeo               "ଅବସ୍ଥାନ ସହଭାଗ କରନ୍ତୁ">
+<!ENTITY  permIndexedDB              "ଅଫଲାଇନ ସଂରକ୍ଷଣକୁ ପରିଚାଳନା କରନ୍ତୁ">
+<!ENTITY  permClearStorage           "ସଂରକ୍ଷଣ ସ୍ଥାନକୁ ସଫାକରନ୍ତୁ">
+<!ENTITY  permClearStorage.accesskey "C">
+
+
