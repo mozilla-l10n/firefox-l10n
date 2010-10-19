@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Vooruit">
 <!ENTITY forwardCmd.accesskey         "V">
 <!ENTITY forwardButton.tooltip        "Een pagina vooruit gaan">
-<!ENTITY backForwardMenu.tooltip      "Recente pagina’s">
 <!ENTITY reloadCmd.label              "Vernieuwen">
 <!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY reloadButton.tooltip         "Huidige pagina vernieuwen">
