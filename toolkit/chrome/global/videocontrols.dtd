@@ -1,7 +1,7 @@
 <!ENTITY playButton.playLabel "Chwarae">
 <!ENTITY playButton.pauseLabel "Oedi">
 <!ENTITY muteButton.muteLabel "Tewi">
-<!ENTITY muteButton.unmuteLabel "Dad Dewi">
+<!ENTITY muteButton.unmuteLabel "Dad-Dewi">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
