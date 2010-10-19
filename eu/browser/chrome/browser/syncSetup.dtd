@@ -1,0 +1,104 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; konfigurazioa">
+<!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description "Ongi etorri, ez baduzu &syncBrand.fullName.label; aurretik erabili, kontu berria sortu beharko duzu.">
+<!ENTITY button.createNewAccount.label "Sortu kontu berria">
+<!ENTITY button.haveAccount.label "Badaukat &syncBrand.fullName.label; kontua">
+
+<!ENTITY setup.choicePage.title.label     "&syncBrand.fullName.label; aurretik erabili duzu?">
+<!ENTITY setup.choicePage.new.label       "Ez dut inoiz &syncBrand.shortName.label; erabili">
+<!ENTITY setup.choicePage.existing.label  "Dagoeneko &syncBrand.shortName.label; erabiltzen ari naiz beste konputagailu batean">
+<!-- New Account AND Existing Account -->
+
+<!ENTITY server.label               "Zerbitzaria">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; zerbitzaria">
+<!ENTITY serverType.custom.label    "Erabili zerbitzari pertsonalizatua">
+<!ENTITY signIn.account.label       "Helbide elektronikoa / Erabiltzaile-izena">
+<!ENTITY signIn.account.accesskey   "H">
+<!ENTITY signIn.password.label      "Pasahitza">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.serverURL.label     "Zerbitzariaren URLa">
+<!ENTITY signIn.serverURL.accesskey "L">
+<!-- New Account Page 1: Basic Account Info -->
+
+<!ENTITY setup.newAccountDetailsPage.title.label "Kontuaren xehetasunak">
+<!ENTITY setup.confirmPassword.label  "Berretsi pasahitza">
+<!ENTITY setup.confirmPassword.accesskey  "B">
+<!ENTITY setup.emailAddress.label     "Helbide elektronikoa">
+<!ENTITY setup.emailAddress.accesskey "H">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Onartzen ditut">
+<!ENTITY setup.tosAgree1.accesskey  "O">
+<!ENTITY setup.tosLink.label        "zerbitzuaren baldintzak">
+<!ENTITY setup.tosAgree2.label      "eta">
+<!ENTITY setup.ppLink.label         "pribatutasun politika">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+<!-- New Account Page 2: Sync Key -->
+
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName;(r)i zure pribatutasunak axola dio">
+<!ENTITY setup.newSyncKeyPage.description.label "Erabateko pribatutasuna ziurtatzeko, igo aurretik zure datu guztiak zifratu egiten dira. Zure datuak deszifratzeko beharrezkoa den Sync gakoa ez da igotzen.">
+<!ENTITY syncKeyEntry.label        "Zure Sync gakoa">
+<!ENTITY syncKeyEntry.accesskey    "g">
+<!ENTITY syncKeyGenerate.label     "Sortu">
+<!ENTITY syncKeyStrength.label     "Indarra:">
+<!ENTITY syncKeyHelp.label         "Ze esan nahi du indarrak?">
+<!ENTITY syncKeyBackup.description "Beharrezkoa da zure Sync gakoa beste makinatan &syncBrand.fullName.label; atzitzeko. Egizu babeskopia. Ezin dizugu lagundu zure Sync gakoa berreskuratzen.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Inprimatu…">
+<!ENTITY button.syncKeyBackup.print.accesskey "p">
+<!ENTITY button.syncKeyBackup.save.label      "Gorde…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "G">
+<!-- New Account Page 3: Captcha -->
+
+<!ENTITY setup.captchaPage2.title.label     "Berretsi ez zarela robota">
+<!-- Existing Account Page 1: Login -->
+
+<!ENTITY setup.existingAccount.title.label "Sartu kontuaren informazioa">
+<!ENTITY resetPassword.label          "Berrezarri pasahitza">
+<!ENTITY connecting.label             "Konektatzen…">
+<!-- Existing Account Page 2: Sync Key -->
+
+<!ENTITY setup.existingSyncKeyPage.title "Sartu zure Sync gakoa">
+<!ENTITY setup.existingSyncKeyPage.description "Sync gakoa zuretzako sortu zen edo zure propioa sartu zenuen lehenengoz &syncBrand.fullName.label; zerbitzuan izen ematean. Ez da zure pasahitzaren berdina.">
+<!ENTITY existingSyncKeyHelp.description "Sync gakoa zure beste ordenagailuan topa dezakezu, 'Segurtasuna' fitxan 'Gordetako pasahitzak' atalean. Oraindik ere ezin baduzu Sync gako zuzena eskuratu, berrezartzea aukera dezakezu baina zerbitzarian gordetako datuak galduko dituzu.">
+<!ENTITY lostSyncKey.label            "Nire Sync gakoa galdu dut">
+<!ENTITY verifying.label              "Egiaztatzen…">
+<!-- Sync Options -->
+
+<!ENTITY setup.optionsPage.title      "Sync aukerak">
+<!ENTITY syncComputerName.label       "Ordenagailuaren izena:">
+<!ENTITY syncComputerName.accesskey   "O">
+
+<!ENTITY syncMy.label               "Sinkronizatu nire">
+<!ENTITY engine.bookmarks.label     "Laster-markak">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "Fitxak">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Historia">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Pasahitzak">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "Hobespenak">
+<!ENTITY engine.prefs.accesskey     "H">
+
+<!ENTITY choice2.merge.main.label      "Batu ordenagailu honetako datuak nire &syncBrand.shortName.label; datuekin">
+<!ENTITY choice2.merge.recommended.label "Gomendatua:">
+<!ENTITY choice2.client.main.label     "Ordeztu ordenagailu honetako datu guztiak nire &syncBrand.shortName.label; datuekin">
+<!ENTITY choice2.server.main.label     "Ordeztu beste gailu guztiak ordenagailu honetako datuekin">
+<!-- Confirm Merge Options -->
+
+<!ENTITY setup.optionsConfirmPage.title "Berretsi">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label;(e)k ordenagailu honetako nabigatzailearen datu guztiak batuko ditu orain zure Sync kontuarekin.">
+<!ENTITY confirm.client.label         "Ordenagailu honetako &brandShortName;(r)en datu guztiak ezabatu egingo dira, ondorengoak barne:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName;(e)k orduan zure &syncBrand.fullName.label; datuak ordenagailu honetara kopiatuko ditu.">
+<!ENTITY confirm.client.warning.label "ABISUA: Honen eraginez ordenagailu honetako &brandShortName;(r)en datu guztiak ordeztuko dira!">
+<!ENTITY confirm.server.label         "Ondorengo gailuak gainidatziko dira zure datu lokalekin:">
+<!ENTITY confirm.server.warning.label "ABISUA: Zure datu lokalek &brandShortName;(r)en datu guztiak ordeztuko dituzte gailu horietan!">
+<!-- New & Existing Account: Setup Complete -->
+
+<!ENTITY setup.successPage.title "Konfigurazioa osatuta">
+<!ENTITY changeOptions.label "Hobespen hau alda dezakezu azpiko 'Sync aukerak' hautatuz.">
+<!ENTITY continueUsing.label "&brandShortName; erabiltzen jarrai dezakezu orain.">

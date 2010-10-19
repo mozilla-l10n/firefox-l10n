@@ -62,17 +62,17 @@
 <!ENTITY copyPref.label "Kopiatu">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Kopiatu izena">
-<!ENTITY copyName.accesskey "N">
+<!ENTITY copyName.accesskey "n">
 <!ENTITY copyValue.label "Kopiatu balioa">
-<!ENTITY copyValue.accesskey "B">
+<!ENTITY copyValue.accesskey "b">
 <!ENTITY modify.label "Aldatu">
 <!ENTITY modify.accesskey "A">
 <!ENTITY toggle.label "Txandakatu">
 <!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "Berrezarri">
-<!ENTITY reset.accesskey "R">
+<!ENTITY reset.accesskey "r">
 <!ENTITY new.label "Berria">
-<!ENTITY new.accesskey "b">
+<!ENTITY new.accesskey "B">
 <!ENTITY string.label "Katea">
 <!ENTITY string.accesskey "K">
 <!ENTITY integer.label "Osoko zenbakia">

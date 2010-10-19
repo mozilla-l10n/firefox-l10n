@@ -1,16 +1,19 @@
 
-<!ENTITY prefWindow.titleWin "Aukerak">
-<!ENTITY prefWindow.titleGNOME "&brandShortName; Hobespenak">
+<!ENTITY  prefWindow.titleWin     "Aukerak">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Hobespenak">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
-<!ENTITY prefWin.styleWin2 "width: 42em; min-height: 39em;">
-<!ENTITY prefWin.styleMac2 "width: 47em; min-height: 40em;">
-<!ENTITY prefWin.styleGNOME2 "width: 42em; min-height: 39.5em;">
+<!ENTITY  prefWinMinSize.styleWin2      "width: 42em; min-height: 37.5em;">
+<!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
+<!ENTITY  prefWinMinSize.styleGNOME     "width: 47em; min-height: 40.5em;">
 
-<!ENTITY paneMain.title "Nagusia">
-<!ENTITY paneTabs.title "Fitxak">
-<!ENTITY paneContent.title "Edukia">
-<!ENTITY paneApplications.title "Aplikazioak">
-<!ENTITY panePrivacy.title "Pribatutasuna">
-<!ENTITY paneSecurity.title "Segurtasuna">
-<!ENTITY paneAdvanced.title "Aurreratua">
+<!ENTITY  paneGeneral.title       "Orokorra">
+<!ENTITY  paneTabs.title          "Fitxak">
+<!ENTITY  paneContent.title       "Edukia">
+<!ENTITY  paneApplications.title  "Aplikazioak">
+<!ENTITY  panePrivacy.title       "Pribatutasuna">
+<!ENTITY  paneSecurity.title      "Segurtasuna">
+<!ENTITY  paneAdvanced.title      "Aurreratua">
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+
+<!ENTITY  paneSync.title          "Sync">

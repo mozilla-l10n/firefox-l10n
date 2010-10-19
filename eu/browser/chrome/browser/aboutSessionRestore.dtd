@@ -1,18 +1,19 @@
-<!ENTITY restorepage.tabtitle "Berreskuratu saioa">
-<!ENTITY restorepage.pagetitle "Zure saioa berreskuratu nahi duzu?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "Zure aurreko &brandShortName; saioa espero gabe itxi zen. Barkamenak eskatzen dizkizugu eragozpenengatik. Aurreko saioko fitxak eta leihoak berreskura ditzakezu edo, hauek ez badira luzaroan behar, saio berria hasi.">
-<!ENTITY restorepage.remedies "&brandShortName; ezuztean ixten bada:">
-<!ENTITY restorepage.dueToChrome "Saiatu azken aldian gehituriko gehigarriak gehigarri kudeatzailean ezgaitzen.">
-<!ENTITY restorepage.dueToContent "Saiatu zure saioa berreskuratzen arazoa sortzen ari direla uste duzun web orririk gabe:">
+<!ENTITY restorepage.tabtitle       "Berreskuratu saioa">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.restoreButton "Leheneratu aurrekoa saioa">
+<!ENTITY restorepage.errorTitle     "Tira, hau pixka bat lotsagarria da.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; arazoak izaten ari da zure leihoak eta fitxak berreskuratzean. Hau berriki irekitako web orri baten ondorio izan ohi da.">
+<!ENTITY restorepage.tryThis        "Ondorengoa egiten saia zaitezke:">
+<!ENTITY restorepage.restoreSome    "Arazoaren sorburua dela uste duzun edozein fitxa ezabatzen">
+<!ENTITY restorepage.startNew       "Nabigatze-saio berria abiatzen">
+
+<!ENTITY restorepage.tryagainButton "Berreskuratu">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton "Hasi saio berria">
-<!ENTITY restorepage.cancel.access "S">
+<!ENTITY restorepage.cancelButton   "Hasi saio berria">
+<!ENTITY restorepage.cancel.access  "S">
 
-<!ENTITY restorepage.restoreHeader "Leheneratu">
-<!ENTITY restorepage.listHeader "Leihoak eta fitxak">
+<!ENTITY restorepage.restoreHeader  "Berreskuratu">
+<!ENTITY restorepage.listHeader     "Leihoak eta fitxak">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel "Leihoa&#37; S">
+<!ENTITY restorepage.windowLabel    "&#37;S leihoa">

@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label "Pertsonalizatu karaktere kodeketa">
-<!ENTITY current.label "Karaktere kodeketa aktiboak:">
-<!ENTITY remove.label "Kendu">
-<!ENTITY remove.accessKey "K">
-<!ENTITY additional.label "Karaktere kodeketa erabilgarriak:">
-<!ENTITY add.label "Gehitu">
-<!ENTITY add.accessKey "G">
-<!ENTITY moveUp.label "Mugitu gora">
-<!ENTITY moveUp.accessKey "O">
-<!ENTITY moveDown.label "Mugitu behera">
-<!ENTITY moveDown.accessKey "B">
+<!ENTITY title.label        "Pertsonalizatu karaktere-kodeketa">
+<!ENTITY current.label      "Karaktere-kodeketa aktiboak:">
+<!ENTITY remove.label       "Kendu">
+<!ENTITY remove.accessKey   "K">
+<!ENTITY additional.label   "Karaktere-kodeketa erabilgarriak:">
+<!ENTITY add.label          "Gehitu">
+<!ENTITY add.accessKey      "G">
+<!ENTITY moveUp.label       "Mugitu gora">
+<!ENTITY moveUp.accessKey   "o">
+<!ENTITY moveDown.label     "Mugitu behera">
+<!ENTITY moveDown.accessKey "b">

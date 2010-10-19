@@ -1,0 +1,38 @@
+<!ENTITY aboutSupport.pageTitle "Arazoak konpontzeko informazioa">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "  Orri honek arazo bat konpontzeko erabilgarria izan daitekeen informazio 
+teknikoa du. &brandShortName;(r)i buruzko ohiko galderen erantzunen bila 
+bazabiltza, bisitatu gure <a id='supportLink'>laguntzaren webgunea</a>.">
+
+<!ENTITY aboutSupport.extensionsTitle "Hedapenak">
+<!ENTITY aboutSupport.extensionName "Izena">
+<!ENTITY aboutSupport.extensionEnabled "Gaituta">
+<!ENTITY aboutSupport.extensionVersion "Bertsioa">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Aplikazioaren oinarrizko konfigurazioa">
+<!ENTITY aboutSupport.appBasicsName "Izena">
+<!ENTITY aboutSupport.appBasicsVersion "Bertsioa">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profilaren direktorioa">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Gaitutako plugin-ak">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Eraikitze-konfigurazioa">
+<!ENTITY aboutSupport.appBasicsUserAgent "Erabiltzaile-agentea">
+
+<!ENTITY aboutSupport.show.label "Ireki karpeta">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+
+<!ENTITY aboutSupport.showMac.label "Erakutsi Finder-en">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Aldatutako hobespenak">
+<!ENTITY aboutSupport.modifiedPrefsName "Izena">
+<!ENTITY aboutSupport.modifiedPrefsValue "Balioa">
+
+<!ENTITY aboutSupport.graphicsTitle "Grafikoak">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Instalazioaren historia">
+<!ENTITY aboutSupport.updateHistoryTitle "Eguneraketen historia">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Kopiatu guztia arbelean">

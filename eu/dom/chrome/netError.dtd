@@ -25,7 +25,8 @@
 <!ENTITY netInterrupt.longDesc "<p>Nabigatzaileak konexioa ondo sortu du, baina datuak jasotzen ari zela transferentzia eten egin da.  Mesedez, saiatu berriro.</p><ul><li>Gauza bera gertatzen zaizu beste guneekin? Begiratu zure ordenagailuaren sareko konexioa.</li><li>Arazoak oraindik? Jarri harremanetan zure sarearen kudeatzailearekin edo Internet hornitzailearekin.</li></ul>">
 
 <!ENTITY netOffline.title "Lineaz-kanpo">
-<!ENTITY netOffline.longDesc "<p>Nabigatzailea lineaz-kanpo dago eta ezin du eskatutako gunearekin konektatu.</p><ul><li>Ordenagailua sare batera konektatua dago?</li><li>Jarri nabigatzailea linean eta saiatu berriro.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>Nabigatzailea lineaz kanpo dago eta ezin du eskatutako elementuarekin konektatu.</p><ul><li>Ordenagailua sare aktibo batera konektatua dago?</li><li>Jarri nabigatzailea linean eta saiatu berriro.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Nabigatzailea lineaz kanpo dago eta ezin du eskatutako elementuarekin konektatu.</p><ul><li>Ordenagailua sare aktibo batera konektatua dago?</li><li>Jarri nabigatzailea linean eta saiatu berriro.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Edukien kodeketaren errorea">
 <!ENTITY contentEncodingError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da ikusi baliogabeko edo onartzen ez den konpresio mota bat erabiltzen baitu.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
@@ -67,6 +68,9 @@
 
 <!ENTITY phishingBlocked.title "Ustezko web iruzurra!">
 <!ENTITY phishingBlocked.longDesc "<p>Orri honetan informazio pertsonala sartzeak nortasun lapurreta edo beste iruzurren batean erortzea ekar lezake.</p> <p>Webeko iruzur mota hau phishing eraso bezala ezagutzen da eta orri nahiz e-posta faltsuak erabiltzen dira konfiantzazko gune baten aurrean zaudela sinestarazteko.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Edukien segurtasun-politikak blokeatuta">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Nabigatzaileak orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

@@ -1,25 +1,38 @@
-<!ENTITY pluginWizard.title "Pluginak bilatzeko zerbitzua">
-<!ENTITY pluginWizard.firstPage.title "Ongi etorri &pluginWizard.title;(e)ra">
+<!ENTITY pluginWizard.title                                  "Pluginak bilatzeko zerbitzua">
+<!ENTITY pluginWizard.firstPage.title                        "Ongi etorri &pluginWizard.title;(e)ra">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; erabilgarri dauden pluginak bilatzen ari da...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; erabilgarri dauden pluginak bilatzen ari da...">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "Plugin erabilgarrien deskargak">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Plugin erabilgarrien deskargak">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Ondorengo plugin-ak daude erabilgarri:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Egizu klik Hurrengoan plugin hauek instalatzeko.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Plugin batzuk informazio gehigarria eska dezakete instalatzerakoan.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Plugin batzuk informazio gehigarria eska dezakete instalatzerakoan.">
 
-<!ENTITY pluginWizard.licensePage.title "Pluginen lizentziak">
-<!ENTITY pluginWizard.licensePage.accept.label "Ados nago.">
-<!ENTITY pluginWizard.licensePage.deny.label "Ez nago ados (plugin-a ez da instalatuko).">
+<!ENTITY pluginWizard.licensePage.title                      "Pluginen lizentziak">
+<!ENTITY pluginWizard.licensePage.accept.label               "Ados nago.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Ez nago ados (plugin-a ez da instalatuko).">
 
-<!ENTITY pluginWizard.installPluginsPage.title "Plugin-ak Instalatzen">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; plugin-ak instalatzen ari da...">
+<!ENTITY pluginWizard.installPluginsPage.title               "Plugin-ak Instalatzen">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; plugin-ak instalatzen ari da...">
 
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName;(e)k falta ziren plugin-ak instalatzen bukatu du:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName;(e)k falta ziren plugin-ak instalatzen bukatu du:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Plugin-ei buruz gehiago ikasi edo falta diren plugin-ak eskuz topatu.">
-<!ENTITY pluginWizard.finalPage.restart.label "Instalatutako plugin-ek &brandShortName; berrabiaraztea behar dute.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Plugin-ei buruz gehiago ikasi edo falta diren plugin-ak eskuz topatu.">
+<!ENTITY pluginWizard.finalPage.restart.label                "Instalatutako plugin-ek &brandShortName; berrabiaraztea behar dute.">
   
-<!ENTITY missingPlugin.label "Egizu klik hemen plugin-a deskargatzeko.">
-<!ENTITY disabledPlugin.label "Eduki honetarako plugin-a ezgaitua izan da.Klikatu hemen plugin-ak kudatzeko.">
-<!ENTITY blockedPlugin.label "Plugin hau zu babesteko blokeatua izan da.">
+<!ENTITY missingPlugin.label                                 "Egizu klik hemen plugin-a deskargatzeko.">
+<!ENTITY disabledPlugin.label                                "Eduki honetarako plugin-a ezgaitua izan da.Klikatu hemen plugin-ak kudatzeko.">
+<!ENTITY blockedPlugin.label                                 "Plugin hau zu babesteko blokeatua izan da.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Birkargatu orria">
+<!ENTITY reloadPlugin.post                                   " berriro saiatzeko.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Bidali hutsegite-txostena">
+<!ENTITY report.submitting                                   "Txostena bidaltzen…">
+<!ENTITY report.submitted                                    "Hutsegite-txostena bidali da.">
+<!ENTITY report.disabled                                     "Hutsegiteen berriematea ezgaitua.">
+<!ENTITY report.failed                                       "Bidalketak huts egin du.">
+<!ENTITY report.unavailable                                  "Ez dago txostenik eskura.">

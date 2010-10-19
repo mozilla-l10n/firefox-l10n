@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Aukeratu erabiltzailearen profila">
+<!ENTITY            windowtitle.label      "&brandShortName; - Aukeratu erabiltzailearen profila">
 
-<!ENTITY profilename.label "Profilaren izena:">
+<!ENTITY            profilename.label      "Profilaren izena:">
 
-<!ENTITY start.label "Abiarazi &brandShortName;">
-<!ENTITY exit.label "Irten">
+<!ENTITY            start.label            "Abiarazi &brandShortName;">
+<!ENTITY            exit.label             "Irten">
 
-<!ENTITY availprofiles.label "Profil erabilgarriak">
+<!ENTITY            availprofiles.label    "Profil erabilgarriak">
 
-<!ENTITY newButton.label "Sortu profila...">
-<!ENTITY newButton.accesskey "S">
-<!ENTITY renameButton.label "Aldatu profilaren izena...">
-<!ENTITY renameButton.accesskey "R">
-<!ENTITY deleteButton.label "Ezabatu profila...">
-<!ENTITY deleteButton.accesskey "P">
+<!ENTITY            newButton.label        "Sortu profila...">
+<!ENTITY            newButton.accesskey    "S">
+<!ENTITY            renameButton.label     "Aldatu profilaren izena...">
+<!ENTITY            renameButton.accesskey "r">
+<!ENTITY            deleteButton.label     "Ezabatu profila...">
+<!ENTITY            deleteButton.accesskey "p">
 <!-- manager entities -->
 
-<!ENTITY pmDescription.label "&brandShortName;(e)k zure ezarpen, hobespen eta erabiltzaileari buruzko informazioa gordetzen du profil pertsonalean.">
+<!ENTITY            pmDescription.label    "&brandShortName;(e)k zure ezarpen, hobespen eta erabiltzaileari buruzko informazioa gordetzen du profil pertsonalean.">
 
-<!ENTITY offlineState.label "Lan egin lineaz kanpo">
-<!ENTITY offlineState.accesskey "o">
+<!ENTITY            offlineState.label    "Lan egin lineaz kanpo">
+<!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY autoSelect.label "Ez galdetu hasieran">
-<!ENTITY autoSelect.accesskey "s">
+<!ENTITY            autoSelect.label       "Ez galdetu hasieran">
+<!ENTITY            autoSelect.accesskey   "s">

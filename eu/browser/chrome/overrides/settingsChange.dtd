@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Ezarpenak &brandShortName;-ren hobespenetako aplikazioak fitxan aldatu daitezke.">
-<!ENTITY settingsChangeOptions.label "Ezarpenak &brandShortName;-ren aukeretako aplikazioak fitxan aldatu daitezke.">
+<!ENTITY  settingsChangePreferences.label  "Ezarpenak &brandShortName;-ren hobespenetako aplikazioak fitxan aldatu daitezke.">
+<!ENTITY  settingsChangeOptions.label      "Ezarpenak &brandShortName;-ren aukeretako aplikazioak fitxan aldatu daitezke.">

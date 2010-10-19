@@ -3,4 +3,4 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Edo salbuespen bat gehi dezakezu…">
-<!ENTITY securityOverride.warningText "Ez zenuke salbuespenik gehitu behar guztiz fidatzen zaren internet konexio batetan ez bazaude edo zerbitzariaren errore-mezuak ikusteko erabiltzen ez baduzu.</p> <p>Hala ere salbuespen bat gehitu nahi baduzu, zifratze-ezarpen aurreratuan ezar dezakezu.</p>">
+<!ENTITY securityOverride.warningContent "<p>Ez zenuke salbuespenik gehitu behar ez bazaude guztiz fidatzen zaren Internet konexio batean edo ez baduzu zerbitzariaren errore-mezuak ikusteko erabiltzen.</p> <p>Hala ere salbuespen bat gehitu nahi baduzu, zifratze-ezarpen aurreratuetan ezar dezakezu.</p>">

@@ -1,55 +1,76 @@
-<!ENTITY history.label "Historia">
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
+<!ENTITY  history.label                 "Historia">
 
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
+<!ENTITY  locationBar.label             "Helbide-barra">
 
-<!ENTITY rememberDaysBefore.label "Mantendu nire historia gutxienez">
-<!ENTITY rememberDaysBefore.accesskey "h">
-<!ENTITY rememberDaysAfter2.label "egun">
-
-<!ENTITY rememberForms.label "Gogoratu inprimaki eta bilaketa-barran idatzitakoa">
-<!ENTITY rememberForms.accesskey "i">
-
-<!ENTITY rememberDownloads.label "Gogoratu deskargatutakoa">
-<!ENTITY rememberDownloads.accesskey "d">
+<!ENTITY  locbar.pre.label              "Helbide-barra erabiltzean, gomendatu:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Historia eta laster-markak">
+<!ENTITY  locbar.history.label          "Historia">
+<!ENTITY  locbar.bookmarks.label        "Laster-markak">
+<!ENTITY  locbar.nothing.label          "Ezer ez">
 
 
-<!ENTITY cookies.label "Cookie-ak">
+<!ENTITY  acceptCookies.label           "Onartu guneetako cookie-ak">
+<!ENTITY  acceptCookies.accesskey       "O">
 
-<!ENTITY acceptCookies.label "Onartu guneetako cookie-ak">
-<!ENTITY acceptCookies.accesskey "c">
+<!ENTITY  acceptThirdParty.label        "Onartu hirugarrenen cookie-ak">
+<!ENTITY  acceptThirdParty.accesskey    "n">
 
-<!ENTITY acceptThirdParty.label "Onartu hirugarrenen cookie-ak">
-<!ENTITY acceptThirdParty.accesskey "h">
+<!ENTITY  keepUntil.label               "Mantentze-epea:">
+<!ENTITY  keepUntil.accesskey           "M">
 
-<!ENTITY keepUntil.label "Mantentze epea:">
-<!ENTITY keepUntil.accesskey "M">
+<!ENTITY  expire.label                  "iraungi arte">
+<!ENTITY  close.label                   "&brandShortName; itxi arte">
+<!ENTITY  askEachTime.label             "galdetu niri beti">
 
-<!ENTITY expire.label "iraungi arte">
-<!ENTITY close.label "&brandShortName; ixten dudanean">
-<!ENTITY askEachTime.label "galdetu niri beti">
+<!ENTITY  cookieExceptions.label        "Salbuespenak…">
+<!ENTITY  cookieExceptions.accesskey    "S">
 
-<!ENTITY cookieExceptions.label "Salbuespenak...">
-<!ENTITY cookieExceptions.accesskey "S">
-
-<!ENTITY showCookies.label "Erakutsi cookie-ak...">
-<!ENTITY showCookies.accesskey "R">
+<!ENTITY  showCookies.label             "Erakutsi cookie-ak…">
+<!ENTITY  showCookies.accesskey         "r">
 
 
-<!ENTITY privateData.label "Datu pribatuak">
+<!ENTITY  historyHeader.pre.label          "&brandShortName;(e)k:">
+<!ENTITY  historyHeader.pre.accesskey      "k">
+<!ENTITY  historyHeader.remember.label     "Historia gogoratuko du">
+<!ENTITY  historyHeader.dontremember.label "Ez du historia gogoratuko inoiz">
+<!ENTITY  historyHeader.custom.label       "Ezarpen pertsonalizatuak erabiliko ditu historiarako">
+<!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY alwaysClear.label "Garbitu beti nire datu pribatuak &brandShortName; ixterakoan">
-<!ENTITY alwaysClear.accesskey "t">
+<!ENTITY  rememberDescription.label      "&brandShortName;(e)k zure nabigatze-, deskarga- eta bilaketa-historia gogoratuko du eta bisitatzen dituzun webguneen cookie-ak gordeko ditu.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY askBeforeClear.label "Galdetu niri datu pribatuak garbitu aurretik">
-<!ENTITY askBeforeClear.accesskey "G">
+<!ENTITY  rememberActions.pre.label           "Agian ">
+<!ENTITY  rememberActions.clearHistory.label  "zure azkenaldiko historia garbitu">
+<!ENTITY  rememberActions.middle.label        " nahi duzu, edo ">
+<!ENTITY  rememberActions.removeCookies.label "cookie-ak banan-banan ezabatu">
+<!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY clearDataSettings.label "Ezarpenak...">
-<!ENTITY clearDataSettings.accesskey "e">
+<!ENTITY  dontrememberDescription.label  "&brandShortName;(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY clearDataNow.label "Garbitu orain...">
-<!ENTITY clearDataNow.label2 "Garbitu orain">
-<!ENTITY clearDataNow.accesskey "O">
+<!ENTITY  dontrememberActions.pre.label          "Agian ">
+<!ENTITY  dontrememberActions.clearHistory.label "uneko historia osoa garbitu">
+<!ENTITY  dontrememberActions.post.label         " nahi duzu.">
+
+<!ENTITY  privateBrowsingPermanent.label "Nabigatze pribatuko modu iraunkorra">
+<!ENTITY  privateBrowsingPermanent.accesskey "r">
+
+<!ENTITY  rememberHistory.label      "Gogoratu nabigatze-historia">
+<!ENTITY  rememberHistory.accesskey  "r">
+
+<!ENTITY  rememberDownload.label         "Gogoratu deskarga-historia">
+<!ENTITY  rememberDownload.accesskey     "d">
+
+<!ENTITY  rememberSearchForm.label       "Gogoratu bilaketa- eta inprimaki-historia">
+<!ENTITY  rememberSearchForm.accesskey   "n">
+
+<!ENTITY  clearOnClose.label             "Garbitu historia &brandShortName; ixtean">
+<!ENTITY  clearOnClose.accesskey         "x">
+
+<!ENTITY  clearOnCloseSettings.label     "Ezarpenak…">
+<!ENTITY  clearOnCloseSettings.accesskey "r">

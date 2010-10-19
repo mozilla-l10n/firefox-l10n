@@ -5,7 +5,7 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle "Konexio ez fidagarria">
+<!ENTITY certerror.pagetitle  "Konexio ez fidagarria">
 <!ENTITY certerror.longpagetitle "Konexio hau ez da fidagarria">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
