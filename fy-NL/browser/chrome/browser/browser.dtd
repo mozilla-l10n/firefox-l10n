@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Foarút">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Gean ien side foarút">
-<!ENTITY backForwardMenu.tooltip      "Resinte sides">
 <!ENTITY reloadCmd.label              "Op 'e nij lade">
 <!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY reloadButton.tooltip         "Dizze side op 'e nij lade">
