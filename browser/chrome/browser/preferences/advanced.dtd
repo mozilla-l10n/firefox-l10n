@@ -19,6 +19,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY checkSpelling.label             "Provjeri pravopis pri pisanju">
 <!ENTITY checkSpelling.accesskey         "p">
+<!ENTITY allowHWAccel.label              "Koristi hardversku akceleraciju kad je moguće">
+<!ENTITY allowHWAccel.accesskey          "h">
 
 <!ENTITY systemDefaults.label            "Zadane postavke sustava">
 <!ENTITY alwaysCheckDefault.label        "Pri pokretanju uvijek provjeri je li &brandShortName; zadani preglednik"><!--XXX-->
@@ -37,6 +39,20 @@
 <!ENTITY offlineStorage.label            "Izvanmrežna pohrana">
 
 <!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "Ograniči priručnu memoriju na">
+<!ENTITY limitCacheSizeBefore.accesskey  "p">
+<!ENTITY limitCacheSizeAfter.label       "MB prostora">
+<!ENTITY clearCacheNow.label             "Očisti sada">
+<!ENTITY clearCacheNow.accesskey         "O">
+<!ENTITY overrideSmartCacheSize.label    "Premosti automatsko upravljanje priručnom memorijom">
+<!ENTITY overrideSmartCacheSize.accesskey "a">
+
+<!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
@@ -47,6 +63,9 @@
 <!ENTITY useCacheAfter.label             "MB prostora za privremenu memoriju">
 <!ENTITY clearCacheNow.label             "Očisti sada">
 <!ENTITY clearCacheNow.accesskey         "č">
+
+<!ENTITY submitCrashes.label             "Pošalji izvještaje o rušenju">
+<!ENTITY submitCrashes.accesskey         "i">
 
 <!ENTITY updateTab.label                 "Nadogradnje">
 

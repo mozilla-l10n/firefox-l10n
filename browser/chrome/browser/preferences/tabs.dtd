@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        "Kad otvorim poveznicu u novoj kartici, odmah prijeđi na nju">
 <!ENTITY switchToNewTabs.accesskey    "p">
+
+<!ENTITY showTabsInTaskbar.label          "Prikaži pretpregled kartica u Windows traci zadataka">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
