@@ -4,8 +4,10 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 <!ENTITY privatebrowsingpage.description               "व्यक्तिगत संचारन अंतर्गत, &brandShortName; कुठल्याही प्रकारचे ब्राऊजर इतिहास, शोध इतिहास, डाऊनलोड इतिहास, वेब फॉर्म इतिहास, कुकीज, किंवा तात्पुर्ते महाजाळ फाइल संग्रहीत करत नाही.  तरी, तुम्ही डाऊनलोड केलेले फाइल व चिन्हाकृत केलेले ओळखचिन्ह संग्रहीत केले जातिल.">
 
+<!--
 <!ENTITY privatebrowsingpage.howToStop                 "व्यक्तिगत संचारन थांबविण्याकरीता, &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; निवडा, किंवा &brandShortName; बंद करा.">
 <!ENTITY privatebrowsingpage.howToStart                "व्यक्तिगत संचारन सुरू करण्याकरीता, तुम्ही &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; निवडू शकता.">
+-->
 
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; वर्तमानक्षणी व्यक्तिगत संचारन पद्धतीत नाही.">
 <!ENTITY privatebrowsingpage.learnMore                 "आणखी शिका">
@@ -17,3 +19,7 @@
 <!ENTITY privatebrowsingpage.title                 "व्यक्तिगत संचारन">
 <!ENTITY privatebrowsingpage.title.normal          "तुम्हाला व्यक्तिगत संचारन सुरू करायचे?">
 
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "व्यक्तिगत ब्राउजिंग थांबवण्यासाठी, &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; नीवडा, किंवा &brandShortName; बंद करा.">
+<!ENTITY privatebrowsingpage.howToStart2               "व्यक्तिगत ब्राउजिंग सुरू करण्यासाठी, तुम्ही &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; देखिल नीवडू शकता.">
