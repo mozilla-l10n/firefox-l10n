@@ -36,26 +36,26 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "&brandShortName; modu segurua">
-<!ENTITY window.width "37em">
+<!ENTITY safeModeDialog.title         "&brandShortName; modu segurua">
+<!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; momentu honetan modu seguruan dago. Modu honetan zure ezarpenak, gaiak eta gehiagarriak desgaituta daude.">
-<!ENTITY safeModeDescription2.label "Ondorengo ekintzetatik batzuk betirako ezar ditzakezu:">
+<!ENTITY safeModeDescription.label    "&brandShortName; momentu honetan modu seguruan dago. Modu honetan zure ezarpenak, gaiak eta gehiagarriak desgaituta daude.">
+<!ENTITY safeModeDescription2.label   "Ondorengo ekintzetatik batzuk betirako ezar ditzakezu:">
 
-<!ENTITY disableAddons.label "Ezgaitu gehigarri guztiak">
-<!ENTITY disableAddons.accesskey "Z">
+<!ENTITY disableAddons.label          "Ezgaitu gehigarri guztiak">
+<!ENTITY disableAddons.accesskey      "z">
 
-<!ENTITY resetToolbars.label "Garbitu tresna-barra eta kontrolak">
-<!ENTITY resetToolbars.accesskey "G">
+<!ENTITY resetToolbars.label          "Garbitu tresna-barra eta kontrolak">
+<!ENTITY resetToolbars.accesskey      "G">
 
-<!ENTITY resetBookmarks.label "Garbitu laster-markak eta berrezarri &brandShortName;(e)k lehenetsitakoak">
-<!ENTITY resetBookmarks.accesskey "l">
+<!ENTITY deleteBookmarks.label        "Ezabatu laster-marka guztiak babeskopienak ezik">
+<!ENTITY deleteBookmarks.accesskey    "s">
 
-<!ENTITY resetUserPrefs.label "Garbitu ezarpen guztiak eta berrezarri &brandShortName;(e)k lehenetsitakoak">
-<!ENTITY resetUserPrefs.accesskey "e">
+<!ENTITY resetUserPrefs.label         "Garbitu ezarpen guztiak eta berrezarri &brandShortName;(e)k lehenetsitakoak">
+<!ENTITY resetUserPrefs.accesskey     "e">
 
-<!ENTITY restoreSearch.label "Berrezarri lehenetsitako bilaketa-motorrak">
-<!ENTITY restoreSearch.accesskey "s">
+<!ENTITY restoreSearch.label          "Berrezarri lehenetsitako bilaketa-motorrak">
+<!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "Aldaketak egin eta berrabiarazi">
-<!ENTITY continueButton.label "Jarraitu modu seguruan">
+<!ENTITY continueButton.label         "Jarraitu modu seguruan">

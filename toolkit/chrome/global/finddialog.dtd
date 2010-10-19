@@ -4,7 +4,7 @@
 <!ENTITY findField.label "Bilatu testu hau:">
 <!ENTITY findField.accesskey "t">
 <!ENTITY caseSensitiveCheckbox.label "Maiuskula/minuskula">
-<!ENTITY caseSensitiveCheckbox.accesskey "m">
+<!ENTITY caseSensitiveCheckbox.accesskey "M">
 <!ENTITY wrapCheckbox.label "Itzulbiratu">
 <!ENTITY wrapCheckbox.accesskey "I">
 <!ENTITY findButton.label "Bilatu hurrengoa">

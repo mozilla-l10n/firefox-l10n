@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Inprimatzen">
-<!ENTITY title "Izenburua:">
+<!ENTITY title    "Izenburua:">
 <!ENTITY progress "Aurrerapena:">
 <!ENTITY preparing "Prestatzen...">
 <!ENTITY printComplete "Inprimaketa burutu da.">

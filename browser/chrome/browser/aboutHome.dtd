@@ -1,0 +1,27 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+<!-- These strings are used in the about:home page -->
+
+
+<!ENTITY abouthome.pageTitle "&brandFullName; hasiera-orria">
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
+
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> hasiera">
+
+<!ENTITY abouthome.searchEngineButton.label "Bilaketa">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Bilaketa aurreratua">
+<!ENTITY abouthome.searchEngineLinks.preferences "Hobespenak">
+
+<!ENTITY abouthome.aboutMozilla "Mozillari buruz">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+
+<!ENTITY abouthome.defaultSnippet1.v1 "Eskerrik asko Firefox aukeratzeagatik! Nabigatzaileari zuku gehiena ateratzeko, ikus ezazu <a>azken ezaugarri</a>ek dakartena.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Oso erraza da Firefox nahi duzun modura pertsonalizatzea. <a>Egizu milaka gehigarriren arteko aukera</a>.">

@@ -35,18 +35,14 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "JavaScript ezarpen aurreratuak">
-<!ENTITY window.width "37em">
+<!ENTITY advancedJSDialog.title         "JavaScript ezarpen aurreratuak">
+<!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label "Baimendu script-ei:">
+<!ENTITY allowScripts.label             "Baimendu script-ei:">
 
-<!ENTITY moveResizeWindows.label "Leihoak mugitu edo tamainaz aldatzea">
-<!ENTITY moveResizeWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label "Leihoak goratu edo beheratzea">
-<!ENTITY raiseLowerWindows.accesskey "G">
-<!ENTITY disableContextMenus.label "Testuinguru-menuak desgaitu edo ordezkatzea">
-<!ENTITY disableContextMenus.accesskey "D">
-<!ENTITY hideStatusBar.label "Egoera-barra ezkutatzea">
-<!ENTITY hideStatusBar.accesskey "E">
-<!ENTITY changeStatusBar.label "Egoera-barraren testua aldatzea">
-<!ENTITY changeStatusBar.accesskey "A">
+<!ENTITY moveResizeWindows.label        "Leihoak mugitu edo tamainaz aldatzea">
+<!ENTITY moveResizeWindows.accesskey    "m">
+<!ENTITY raiseLowerWindows.label        "Leihoak goratu edo beheratzea">
+<!ENTITY raiseLowerWindows.accesskey    "g">
+<!ENTITY disableContextMenus.label      "Testuinguru-menuak desgaitu edo ordezkatzea">
+<!ENTITY disableContextMenus.accesskey  "d">

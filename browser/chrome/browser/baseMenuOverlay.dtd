@@ -1,48 +1,45 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Txikitu">
-<!ENTITY bringAllToFront.label "Ekarri dena aurrera">
-<!ENTITY zoomWindow.label "Zoom-a">
-<!ENTITY windowMenu.label "Leihoa">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Txikitu">
+<!ENTITY bringAllToFront.label    "Ekarri dena aurrera">
+<!ENTITY zoomWindow.label         "Zooma">
+<!ENTITY windowMenu.label         "Leihoa">
 
-<!ENTITY helpMenu.label "Laguntza">
-<!ENTITY helpMenu.accesskey "L">
+<!ENTITY helpMenu.label           "Laguntza">
+<!ENTITY helpMenu.accesskey       "L">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Laguntza">
-<!ENTITY helpMenuWin.accesskey "L">
-<!ENTITY aboutCmd.label "&brandFullName;(r)i buruz">
-<!ENTITY aboutCmd.accesskey "B">
-<!ENTITY helpContents.label "Laguntza edukiak">
-<!ENTITY helpContents.accesskey "L">
-<!ENTITY helpContentsMac.label "&brandShortName; laguntza">
-<!ENTITY helpForIEUsers.label "Internet explorer erabiltzaileentzat">
+<!ENTITY helpMenuWin.label        "Laguntza">
+<!ENTITY helpMenuWin.accesskey    "L">
+<!ENTITY aboutProduct.label       "&brandFullName;(r)i buruz">
+<!ENTITY aboutProduct.accesskey   "b">
+<!ENTITY productHelp.label        "&brandShortName;(r)en laguntza">
+<!ENTITY productHelp.accesskey    "l">
+<!ENTITY helpForIEUsers.label     "Internet Explorer erabiltzaileentzat">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey "VK_HELP">
-<!ENTITY openHelpMac.modifiers "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers "accel">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Berrabiarazi gehigarriak desgaituta…">
+<!ENTITY helpSafeMode.accesskey   "B">
 
-<!ENTITY helpReleaseNotes.label "Bertsio oharrak">
-<!ENTITY helpReleaseNotes.accesskey "R">
-<!ENTITY updateCmd.label "Eguneraketa bila arakatu...">
-<!ENTITY updateCmd.accesskey "b">
+<!ENTITY helpReleaseNotes.label         "Bertsio-oharrak">
+<!ENTITY helpReleaseNotes.accesskey     "r">
 
-<!ENTITY preferencesCmdMac.label "Hobespenak...">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY helpTroubleshootingInfo.label      "Arazoak konpontzeko informazioa…">
+<!ENTITY helpTroubleshootingInfo.accesskey  "A">
 
-<!ENTITY servicesMenuMac.label "Zerbitzuak">
+<!ENTITY helpFeedbackPage.label      "Bidali iritzia…">
+<!ENTITY helpFeedbackPage.accesskey  "B">
 
-<!ENTITY hideThisAppCmdMac.label "Ezkutatu &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY updateCmd.label                "Bilatu eguneraketak…">
 
-<!ENTITY hideOtherAppsCmdMac.label "Ezkutatu besteak">
+<!ENTITY preferencesCmdMac.label        "Hobespenak…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "Zerbitzuak">
+
+<!ENTITY hideThisAppCmdMac.label        "Ezkutatu &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Ezkutatu besteak">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label "Ikusi denak">
+<!ENTITY showAllAppsCmdMac.label        "Erakutsi denak">

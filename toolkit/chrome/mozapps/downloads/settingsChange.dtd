@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Ezarpenak &brandShortName;(e)n hobespenetan alda daitezke.">
-<!ENTITY settingsChangeOptions.label "Ezarpenak &brandShortName;(e)n aukeretan alda daitezke.">
+<!ENTITY  settingsChangePreferences.label  "Ezarpenak &brandShortName;(e)n hobespenetan alda daitezke.">
+<!ENTITY  settingsChangeOptions.label      "Ezarpenak &brandShortName;(e)n aukeretan alda daitezke.">
