@@ -48,10 +48,11 @@
      menu (Windows).
 -->
 <!ENTITY netOffline.overrideLongDesc "
+
 <ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+  <li>Dad-diciwch eitem dewislen &quot;Work Offline&quot;, ac yna ceisio eto.</li>
 </ul>
-">
+   ">
 
 <!ENTITY contentEncodingError.title "Gwall Amgodio Cynnwys">
 <!ENTITY contentEncodingError.longDesc "<ul> 

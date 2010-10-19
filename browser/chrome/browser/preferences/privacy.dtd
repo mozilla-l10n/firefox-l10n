@@ -35,7 +35,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "B">
 <!ENTITY  historyHeader.remember.label     "Cofio hanes">
 <!ENTITY  historyHeader.dontremember.label "Peidio cofio hanes">
-<!ENTITY  historyHeader.custom.label       "Defnyddio gosodiadau addasu ar gyfer hanes">
+<!ENTITY  historyHeader.custom.label       "Defnyddio gosodiadau cyfaddasu ar gyfer hanes">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "Bydd &brandShortName; yn cofio eich hanes pori, llwytho, ffurflenni a chwilio ac yn cadw eich cwcis rhag Gwefannau byddwch yn ymweld â nhw.">

@@ -91,6 +91,16 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Cuddio'r Nodiadau Ryddhau">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Cuddio nodiadau ryddhau'r diweddariad yma">
 
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Beth yw Ychwanegion?">
+<!ENTITY discover.description2                "Mae Ychwanegion yn raglenni sy'n caniatau i chi bersenoleiddio &brandShortName;
+  gyda swyddogaethau neu steil ychwanegol.Defnyddiwch bar ochr, hysbys tywydd, neu thema
+  ich gwneud yn gysurys gyda &brandShortName;.">
+<!ENTITY discover.footer                      "Pan fyddwch wedi cysylltu â'r rhyngrwyd, bydd y paen yn
+  cynnwys rhai o'r ychwanegion gorau a mwyaf poblogaidd i chi eu dewis.">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Fersiwn">
 <!ENTITY detail.lastupdated.label             "Diweddarwyd Diwethaf">
@@ -170,7 +180,7 @@
 <!ENTITY addon.updateNow.tooltip              "Gosod diweddariad yr ategyn yma">
 <!ENTITY addon.includeUpdate.label            "Cynnwys yn y Diweddariad">
 <!ENTITY addon.updateAvailable.label          "Mae diweddariad ar gael">
-<!ENTITY addon.checkingForUpdates.label       "Gwirio am ddiweddariadau">
+<!ENTITY addon.checkingForUpdates.label       "Gwirio am ddiweddariadau...">
 <!ENTITY addon.releaseNotes.label             "Nodiadau Ryddhau:">
 <!ENTITY addon.loadingReleaseNotes.label      "Llwytho...">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ymddiheuriadau, bu gwall wrth lwytho'r nodiadau ryddhau.">

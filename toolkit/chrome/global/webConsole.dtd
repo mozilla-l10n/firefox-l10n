@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Pennyn Ymateb">
 <!ENTITY networkPanel.responseBody                "Corff Ymateb">
 <!ENTITY networkPanel.responseBodyCached          "Data Cadwyd">
+<!ENTITY networkPanel.responseBodyUnknownType     "Cynnwys o Fath Anyhysbys">
 <!ENTITY networkPanel.responseNoBody              "Corff Dim Ymateb">
 <!ENTITY networkPanel.responseImage               "Delwedd Derbyniwyd">
 <!ENTITY networkPanel.responseImageCached         "Delwedd Cadwyd">

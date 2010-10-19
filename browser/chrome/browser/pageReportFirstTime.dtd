@@ -1,4 +1,4 @@
-<!ENTITY startDescriptionText.label        "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
+<!ENTITY startDescriptionText.label        "Mae gwefan wedi ceisio agor llamlen heb eich caniatâd. Mae &brandShortName; wedi cau'r ffenestr yn awtomatig.">
 
 <!ENTITY endDescription.label              "Gallwch glicio ar yr eicon i weld pa wefan mae &brandShortName; wedi eu rhwystro a chaniatáu i'r gwefannau hynny sydd angen agor llamlenni iddynt weithio'n iawn.">
 
