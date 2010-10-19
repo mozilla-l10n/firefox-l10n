@@ -31,7 +31,7 @@ Puoi scaricare le versioni notturne di SeaMonkey dal sito FTP di mozilla.org
 
 Per le versioni più recenti, visita
 
-  http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/latest-trunk/
+  http://www.seamonkey-project.org/dev/nightly
 
 Tieni presente che le versioni notturne sono usate dagli sviluppatori di
 mozilla.org per eseguire test e possono essere difettose. Se stai cercando una
@@ -56,7 +56,7 @@ si trovano all'URL precedente insieme agli eseguibili stessi.
    - Sono necessarie le seguenti versioni di librerie (o compatibili):
      glibc 2.3.2, X.org 1.x, GTK 2.x, fontconfig, pango 1.10, libstdc++ 6.
      Le installazioni Red Hat Enterprise Linux 5, Fedora Core 6, ubuntu 6.10
-     ("Edgy"), Debian "Lenny" (testing), e openSUSE 10.2 (o successivi)
+     ("Edgy"), Debian "Lenny" (testing), e openSUSE 10.2 (o successive)
      dovrebbero funzionare.
    - Processore di classe Intel Pentium (consigliato a 500 MHz o più veloce)
    - 128 MB RAM
@@ -69,7 +69,7 @@ si trovano all'URL precedente insieme agli eseguibili stessi.
 
 ==========================================================================
 
-Le istruzioni di installazione fanno riferimento alla shell bash shell. Se
+Le istruzioni di installazione fanno riferimento alla shell bash. Se
 non utilizzi bash, devi modificare i comandi di conseguenza.
 
 Installa in una cartella pulita (nuova).
@@ -116,7 +116,7 @@ Istruzioni d'installazione
   eseguire questa procedura:
 
   1. Fai clic sul pulsante menu principale di GNOME, apri il menu Panello, e
-     poi apri il sotto menu Aggiungi al Panello e scegli Lanchiatore.
+     poi apri il sotto menu Aggiungi al Panello e scegli Lanciatore.
 
   2. Fai clic col tasto destr sull'icona di SeaMonkey sul Panello e inserisci
      il comando seguente:

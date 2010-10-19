@@ -31,7 +31,7 @@ Puoi scaricare le versioni notturne di SeaMonkey dal sito FTP di mozilla.org
 
 Per le versioni più recenti, visita
 
-  http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/latest-trunk/
+  http://www.seamonkey-project.org/dev/nightly
 
 Tieni presente che le versioni notturne sono usate dagli sviluppatori di
 mozilla.org per eseguire test e possono essere difettose. Se stai cercando una
@@ -67,7 +67,7 @@ si trovano all'URL precedente insieme agli eseguibili stessi.
 
 Si consiglia caldamente di uscire da tutti i programmi prima di avviare
 l'installazione. Inoltre, sarebbe meglio disattivare temporaneamene il
-antivirus.
+software antivirus.
 
 Installa in una cartella pulita (nuova).
 Installare sopra una versione precedente potrebbe causare problemi.
@@ -113,7 +113,7 @@ i privilegi di Amministratore.
       file compresso.
 
       Nota: Questo passo presume che hai già installata una versione recente
-      di WinZip (ouno strumento zip paragonabile), e che sai come usarlo.
+      di WinZip (o uno strumento zip equivalente), e che sai come usarlo.
       Se così non fosse, puoi scaricare WinZip e avere informazioni su di esso
       presso www.winzip.com.
 
