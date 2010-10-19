@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "ଦୃଶ୍ୟଗୁଡିକ">
 <!ENTITY views.accesskey                "V">
-<!ENTITY view.toolbar.label             "ସାଧନପଟି">
-<!ENTITY view.toolbar.accesskey         "o">
 <!ENTITY view.columns.label             "ସ୍ତମ୍ଭଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "ସଜାଡନ୍ତୁ">
@@ -44,11 +42,6 @@
 <!ENTITY cmd.restoreFromFile.label      "ଫାଇଲ ଚୟନକରନ୍ତୁ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.select_all.label "ସମସ୍ତଙ୍କୁ ବାଛନ୍ତୁ">
-<!ENTITY cmd.select_all.accesskey "A">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "କାଟନ୍ତୁ">
 <!ENTITY cmd.delete.label               "ଏହି ପୃଷ୍ଠାକୁ ଅପସାରଣ କରନ୍ତୁ">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "ଏହି ସାଇଟ ବିଷୟରେ ଭୁଲିଯାଆନ୍ତୁ">
@@ -66,10 +59,7 @@
 <!ENTITY cmd.properties.label      "ଗୁଣଧର୍ମ">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.show_info.key  "i">
 
-<!ENTITY cmd.rename.label      "ନାମ ବଦଳାନ୍ତୁ">
-<!ENTITY cmd.rename.accesskey  "R">
 
 <!ENTITY cmd.sortby_name.label              "ନାମ କ୍ରମାନୁସାରେ ସଜାଡନ୍ତୁ">
 <!ENTITY cmd.sortby_name.accesskey          "S">
@@ -77,8 +67,7 @@
 
 <!ENTITY cmd.new_bookmark.label            "ନୂତନ ଚିହ୍ନିତସ୍ଥାନ…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_livemark.label            "ନୂତନ ଜୀବନ୍ତ ଚିହ୍ନିତ ସ୍ଥାନ…">
-<!ENTITY cmd.new_livemark.accesskey        "L">
+
 <!ENTITY cmd.new_folder.label              "ନୂତନ ଫୋଲଡର…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
@@ -90,14 +79,9 @@
 <!ENTITY cmd.reloadMicrosummary.label      "ଜୀବନ୍ତ ଶୀର୍ଷକକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
-<!ENTITY cmd.groupby_site.label      "ସାଇଟ ଅନୁସାରେ ଶ୍ରେଣୀ">
-<!ENTITY cmd.groupby_site.accesskey  "S">
-<!ENTITY cmd.groupby_page.label      "ପୃଷ୍ଠା ଅନୁସାରେ ଶ୍ରେଣୀ">
-<!ENTITY cmd.groupby_page.accesskey  "P">
-<!ENTITY cmd.groupby_feed.label      "ଅଭିଦାନ ଅନୁସାରେ ଶ୍ରେଣୀ">
-<!ENTITY cmd.groupby_feed.accesskey  "S">
-<!ENTITY cmd.groupby_post.label      "ସ୍ଥାନ ଅନୁସାରେ ଶ୍ରେଣୀ">
-<!ENTITY cmd.groupby_post.accesskey  "P">
+
+
+
 
 <!ENTITY cmd.moveBookmarks.label                  "ଗତି କରନ୍ତୁ…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
