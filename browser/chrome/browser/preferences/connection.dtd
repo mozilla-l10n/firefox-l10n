@@ -18,15 +18,15 @@
 <!ENTITY reload.accesskey "e">
 <!ENTITY ftp.label "FTP પ્રોક્સી:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher પ્રોક્સી:">
-<!ENTITY gopher.accesskey "G">
+
+
 <!ENTITY http.label "HTTP પ્રોક્સી:">
 <!ENTITY http.accesskey "x">
 <!ENTITY ssl.label "SSL પ્રોક્સી:">
 <!ENTITY ssl.accesskey "L">
 <!ENTITY socks.label "SOCKS યજમાન:">
 <!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "SOCKS v૪">
+<!ENTITY socks4.label "SOCKS v4">
 <!ENTITY socks4.accesskey "K">
 <!ENTITY socks5.label "SOCKS v૫">
 <!ENTITY socks5.accesskey "v">
@@ -35,7 +35,7 @@
 <!ENTITY SSLport.accesskey "o">
 <!ENTITY FTPport.accesskey "r">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "">
+
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "કોઇ પ્રોક્સી નહી:">
 <!ENTITY noproxy.accesskey "n">
