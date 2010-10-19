@@ -99,8 +99,8 @@
 <!ENTITY forwardCmd.label "Avanti">
 <!ENTITY forwardButton.tooltip "Vai avanti">
 <!ENTITY detailsPane.more.label "Altri dati">
-<!ENTITY detailsPane.more.accesskey "d">
+<!ENTITY detailsPane.more.accesskey "a">
 <!ENTITY detailsPane.less.label "Meno dati">
-<!ENTITY detailsPane.less.accesskey "d">
+<!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.noPreviewAvailable.label "Anteprima">
 <!ENTITY detailsPane.selectAnItemText.description "Selezionare un elemento per visualizzarne e modificarne le proprietà">
