@@ -28,5 +28,6 @@
 <!ENTITY downloadManagerCmd.commandkey "j">
 <!ENTITY addonsManagerCmd.label "Менеджер дополнений">
 <!ENTITY addonsManagerCmd.accesskey "д">
+<!ENTITY addonsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Выбрать другой профиль…">
 <!ENTITY switchProfileCmd.accesskey "ы">
