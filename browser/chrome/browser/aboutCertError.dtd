@@ -12,7 +12,7 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "ଆପଣ ସୁରକ୍ଷିତ ଭାବରେ ସଂଯୋଗ କରିବା ପାଇଁ; &brandShortNameକୁ
+<!ENTITY certerror.introPara1 "ଆପଣ ସୁରକ୍ଷିତ ଭାବରେ ସଂଯୋଗ କରିବା ପାଇଁ &brandShortName; କୁ
 ଅନୁରୋଧ କରିଥିଲେ <b>#1</b>, କିନ୍ତୁ ଆମେ ନିଶ୍ଚିତ କରିପାରିବୁ ନାହିଁ ଯେ ଆପଣଙ୍କ ସଂଯୋଗ ସୁରକ୍ଷିତ ଅଛି।">
 <!ENTITY certerror.introPara2 "ସାଧାରଣତଃ, ଯେତେବେଳେ ଆପଣ ସୁରକ୍ଷିତ ଭାବରେ ସଂଯୋଗ କରିବାକୁ ଚାହାନ୍ତି,
 ସେତେବେଳେ ଆପଣ ସଠିକ ସ୍ଥାନକୁ ଯାଉଚନ୍ତି ବୋଲି ପ୍ରମାଣ କରିବା ପାଇଁ ସାଇଟଗୁଡ଼ିକ ବିଶ୍ୱସ୍ତ ପରିଚୟ ଉପସ୍ଥାପନ କରିଥାନ୍ତି।
@@ -26,7 +26,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expert.heading "I ବିପଦକୁ ବୁଝନ୍ତୁ">
 <!ENTITY certerror.expert.content "ଯଦି ଆପଣ ବୁଝିପାରିବେ ଏହା କଣ ପାଇଁ ହେଉଛି, ତେବେ ଆପଣ
-ଏହି ସାଇଟର ପରିଚୟକୁ ବିଶ୍ୱାସ କରିବା ଆରମ୍ଭ କରିବାକୁ ; &brandShortNameଙ୍କୁ କହିପାରିବେ।
+ଏହି ସାଇଟର ପରିଚୟକୁ ବିଶ୍ୱାସ କରିବା ଆରମ୍ଭ କରିବାକୁ  &brandShortName; ଙ୍କୁ କହିପାରିବେ।
 <b>ଯଦିଚ ଆପଣ ଏହି ସାଇଟକୁ ବିଶ୍ୱାସ କରନ୍ତି, ତଥାପି ଏହି ତ୍ରୁଟିର ମାନେ ହେଉଛି କେହିଜଣେ
 ଆପଣଙ୍କ ସଂଯୋଗକୁ ଗୁପ୍ତରେ ବ୍ୟବହାର କରୁଅଛି।</b>">
 <!ENTITY certerror.expert.contentPara2 "କୌଣସି ବ୍ୟତିକ୍ରମ ଯୋଗ କରନ୍ତୁ ନାହିଁ ଯଦି ଆପଣଙ୍କ ପାଖରେ ଯଥେଷ୍ଟ କାରଣ ନାହିଁ ଯେ
