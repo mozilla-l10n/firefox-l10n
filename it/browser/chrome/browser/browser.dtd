@@ -88,7 +88,6 @@
 <!ENTITY forwardCmd.label "Avanti">
 <!ENTITY forwardCmd.accesskey "A">
 <!ENTITY forwardButton.tooltip "Vai avanti di una pagina">
-<!ENTITY backForwardMenu.tooltip "Pagine recenti">
 <!ENTITY reloadCmd.label "Ricarica">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "Ricarica la pagina corrente">
