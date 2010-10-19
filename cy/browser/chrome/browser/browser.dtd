@@ -28,9 +28,9 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.accesskey                "P">
 <!ENTITY  unpinAppTab.label                  "Dadbinio Tab">
 <!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  moveToGroup.label                  "Symud i Grwp">
+<!ENTITY  moveToGroup.label                  "Symud i Grŵp">
 <!ENTITY  moveToGroup.accesskey              "S">
-<!ENTITY  moveToNewGroup.label               "Grwp Newydd">
+<!ENTITY  moveToNewGroup.label               "Grŵp Newydd">
 <!ENTITY  moveToNewWindow.label              "Symud i Ffenestr Newydd">
 <!ENTITY  moveToNewWindow.accesskey          "F">
 <!ENTITY  bookmarkAllTabs.label              "Nod Tudalen i Bob Tab...">
@@ -136,8 +136,8 @@ can reach it easily. -->
 <!ENTITY appMenuButton.tooltip        "Agor dewislen &brandShortName;">
 <!ENTITY homeButton.label             "Cartref">
 
-<!ENTITY tabGroupsButton.label        "Grwpiau Tab">
-<!ENTITY tabGroupsButton.tooltip      "Grwpio eich Tabiau">
+<!ENTITY tabGroupsButton.label        "Grŵpiau Tab">
+<!ENTITY tabGroupsButton.tooltip      "Grŵpio eich Tabiau">
 
 <!ENTITY feedButton.label             "Tanysgrifio">
 <!ENTITY feedButton.tooltip           "Tanysgrifio i'r dudalen hon ...">
@@ -255,7 +255,7 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Golwg"> 
 <!ENTITY viewMenu.accesskey       "o"> 
-<!ENTITY viewTabGroups.label            "Grwpiau Tab">
+<!ENTITY viewTabGroups.label            "Grŵpiau Tab">
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Barrau Offer"> 
 <!ENTITY viewToolbarsMenu.accesskey     "B"> 
