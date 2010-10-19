@@ -8,3 +8,8 @@
 <!ENTITY  paneContent.title       "સમાવિષ્ટ">
 <!ENTITY  paneSecurity.title      "સુરક્ષા">
 <!ENTITY  paneTabs.title          "ટેબો">
+<!ENTITY  paneGeneral.title       "સામાન્ય">
+<!ENTITY  paneSync.title          "સુમેળ">
+<!ENTITY  prefWinMinSize.styleGNOME     "પહોળાઇ: 45.5em; ન્યૂત્તમ-ઊંચાઇ: 40.5em;">
+<!ENTITY  prefWinMinSize.styleMac       "પહોળાઇ: 47em; ન્યૂત્તમ-ઊંચાઇ: 40em;">
+<!ENTITY  prefWinMinSize.styleWin2      "પહોળાઇ: 42em; ન્યૂત્તમ-ઊંચાઇ: 37.5em;">
