@@ -20,13 +20,6 @@
 <!ENTITY  savedPasswords.label            "સંગ્રહાયેલ પાસવર્ડો...">
 <!ENTITY  savedPasswords.accesskey        "P">
 
-<!ENTITY  warnings.label                "ચેતવણી સંદેશાઓ">
-
-<!ENTITY  chooseWarnings.label          "વેબ બ્રાઉઝ કરતી વખતે કયા ચેતવણી સંદેશાઓ તમે જોવા માંગો છો તે પસંદ કરો">
-
-<!ENTITY  warningSettings.label         "સુયોજનો...">
-<!ENTITY  warningSettings.accesskey     "S">
-
 <!ENTITY  blockAttackSites.label     "અહેવાલિત હુમલા સાઈટોને અટકાવો">
 <!ENTITY  blockAttackSites.accesskey "k">
 
