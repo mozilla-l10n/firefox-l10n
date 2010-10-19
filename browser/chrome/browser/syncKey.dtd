@@ -1,14 +1,14 @@
-<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
-<!ENTITY syncKey.page.description         "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
-<!ENTITY syncKey.keepItSecret.heading     "Keep it secret">
-<!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
-<!ENTITY syncKey.keepItSafe.heading       "Keep it safe">
-<!ENTITY syncKey.keepItSafe1.description  "Do not lose this key.">
-<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
-<!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
+<!ENTITY syncKey.page.title               "તમારી &syncBrand.fullName.label; કી">
+<!ENTITY syncKey.page.description         "આ કી તમારા &syncBrand.fullName.label; ખાતામાં ડિકોડ કરવા માટે વાપરેલ છે . તમારે દરેક વખતે કીને દાખલ કરવાની જરૂર પડશે તમે નવાં કમ્પ્યૂટર અથવા ઉપકરણ પર &syncBrand.fullName.label; ને રૂપરેખાંકિત કરો.">
+<!ENTITY syncKey.keepItSecret.heading     "તેને ખાનગી રાખો">
+<!ENTITY syncKey.keepItSecret.description "તમારુ &syncBrand.fullName.label; ખાતુ તમારા ખાનગીપણાને સુરક્ષિત રાખવા માટે એનક્રિપ્ટ થયેલ છે. આ કી વગર, તે તમારી વ્યક્તિગત જાણકારીને ડિકોડ કરવા કોઇપણ માટે વર્ષો લગાડી શકે છે. તમે એવા એક માણસ છો કે જે આ કીને પકડી રાખે છે. આનો મતલબ એ કે તમે એ ફક્ત એક છો જે તમારી &syncBrand.fullName.label; માહિતીને વાપરી શકે છે.">
+<!ENTITY syncKey.keepItSafe.heading       "તેને સલામત રાખો">
+<!ENTITY syncKey.keepItSafe1.description  "આ કીને ગુમાવો નહિં.">
+<!ENTITY syncKey.keepItSafe2.description  " અમે તમારી કીની નકલ રાખતા નથી (કે જે તેને ખાનગી રાખી રહ્યુ નથી!) તેથી ">
+<!ENTITY syncKey.keepItSafe3.description  "અમે તેને પુન:પ્રાપ્ત કરવા માટે મદદ કરી શકતા નથી">
+<!ENTITY syncKey.keepItSafe4.description  " જો તે ખોવાઇ જાય તો. તમે કોઇપણ સમયે આ કીને વાપરવાની જરૂર પડશે તમે &syncBrand.fullName.label; માટે નવા કમ્પ્યૂટર અથવા ઉપકરણને જોડાવો.">
+<!ENTITY syncKey.findOutMore1.label       "તેની પર &syncBrand.fullName.label;વિશે અને તમારા ખાનગીપણા વિશે શોધો">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
-<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; સેવાની મર્યાદાઓ આની પર ઉપલબ્ધ છે">
+<!ENTITY syncKey.footer2.label            ". ખાનગી પોલિસી આની પર ઉપલબ્ધ છે ">
 <!ENTITY syncKey.footer3.label            ".">
