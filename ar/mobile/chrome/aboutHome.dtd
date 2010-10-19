@@ -1,0 +1,8 @@
+<!ENTITY aboutHome.header                       "<span id='header-suffix'>بداية </span><span>&brandShortName; </span>">
+<!ENTITY aboutHome.recentTabs                   "ألسنتك من المرة السابقة">
+<!ENTITY aboutHome.remoteTabs                   "ألسنة من الأجهزة الأخرى">
+<!ENTITY aboutHome.recommendedAddons2           "إضافات ل‍ &brandShortName;">
+<!ENTITY aboutHome.aboutMozilla                 "عن موزيلا">
+<!ENTITY aboutHome.openAllTabs                  "افتح الكل في ألسنة">
+<!ENTITY aboutHome.noTabs                       "لا يوجد ألسنة من المرة السابقة">
+<!ENTITY aboutHome.noAddons                     "لا يوجد إضافات مزكّاة">
