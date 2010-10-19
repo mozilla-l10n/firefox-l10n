@@ -1,4 +1,3 @@
-bing
 eBay-it
 google
 hoepli
