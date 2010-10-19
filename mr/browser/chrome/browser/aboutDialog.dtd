@@ -1,4 +1,5 @@
 <!ENTITY aboutDialog.title " &brandFullName;च्या संबधी">
+<!--
 <!ENTITY copyright "श्रेय">
 <!ENTITY aboutLink "&lt; &brandFullName;च्या संबधी">
 <!ENTITY aboutVersion "आवृत्ती">
@@ -11,3 +12,27 @@
 <!ENTITY licenseLink                "परवाना:विषयी">
 <!ENTITY licenseLinkText            "परवाना माहिती">
 <!ENTITY copyrightInfo2             ").">
+-->
+
+<!ENTITY community.start2           "&brandShortName; ची रचना ">
+<!ENTITY community.mozillaLink      "&vendorShortName; द्वारे निर्मीत आहे">
+<!ENTITY community.middle2          ", एक ">
+<!ENTITY community.creditsLink      "जागतिक समाज">
+<!ENTITY community.end2             " जे इंटरनेट अधिक चांगले करण्यासाठी एकत्रपणे कार्य करते. इंटरनेट प्रत्येकजणाला खुले, जाहीर व कोणत्याही प्रतिबंधविना सहज वापरता येण्याजोगी असावे असा आमचा विश्वास आहे.">
+<!ENTITY contribute.start           "मनोरंजक वाटते? ">
+<!ENTITY contribute.getInvolvedLink "भाग घ्या!">
+<!ENTITY contribute.end             "">
+<!ENTITY bottomLinks.license        "परवाना माहिती">
+<!ENTITY bottomLinks.rights         "वापरकर्त्याचे अधिकार">
+<!ENTITY bottomLinks.privacy        "गोपणीयता धोरण">
+<!ENTITY update.checkingForUpdates  "सुधारणांकरीता तपासणी करत आहे…">
+<!ENTITY update.checkingAddonCompat "ॲडऑन सहत्वताकरीता तपासणी करत आहे…">
+<!ENTITY update.noUpdatesFound      "&brandShortName; अप टू डेट आहे">
+<!ENTITY update.adminDisabled       "सुधारणा प्रणाली प्रशासकाद्वारे बंद केले आहे">
+<!ENTITY update.failed.start        "सुधारणा अपयशी. ">
+<!ENTITY update.failed.linkText     "नुकतीच आवृत्ती डाऊनलोड करा">
+<!ENTITY update.failed.end          "">
+<!ENTITY update.manual.start        "सुधारणा येथे उपलब्ध आहे ">
+<!ENTITY update.manual.end          "">
+<!ENTITY update.downloading.start   "सुधारणा डाउनलोड करत आहे — ">
+<!ENTITY update.downloading.end     "">
