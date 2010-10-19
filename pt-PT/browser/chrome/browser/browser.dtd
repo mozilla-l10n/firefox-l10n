@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Avançar">
 <!ENTITY forwardCmd.accesskey "A">
 <!ENTITY forwardButton.tooltip "Avançar uma página">
-<!ENTITY backForwardMenu.tooltip "Páginas recentes">
 <!ENTITY reloadCmd.label "Recarregar">
 <!ENTITY reloadCmd.accesskey "C">
 <!ENTITY reloadButton.tooltip "Recarrega a página actual">
