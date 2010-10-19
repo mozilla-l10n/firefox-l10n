@@ -5,6 +5,8 @@
 <!ENTITY startupHomePage.label     "Prikaži moju početnu stranicu">
 <!ENTITY startupBlankPage.label    "Prikaži praznu stranicu">
 <!ENTITY startupLastSession.label  "Prikaži prozore i kartice od prošlog puta">
+<!ENTITY homepage.label            "Početna stranica:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY location.label            "Početna stranica:">
 <!ENTITY location.accesskey        "s">
 <!ENTITY useCurrentPage.label      "Koristi trenutnu stranicu">

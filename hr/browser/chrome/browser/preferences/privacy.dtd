@@ -44,6 +44,12 @@
 <!ENTITY  rememberActions.removeCookies.label "ukloniti osobne kolačiće">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  privateBrowsingPermanent.label "Trajni privatni način pretraživanja">
+<!ENTITY  privateBrowsingPermanent.accesskey "T">
+
+<!ENTITY  rememberHistory.label      "Zapamti povijest pretraživanja">
+<!ENTITY  rememberHistory.accesskey  "p">
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; će koristiti iste postavke kao i za privatno pretraživanje, te neće pamtiti povijest pretraživanja.">
 
 <!ENTITY  dontrememberActions.pre.label          "Možda ćete željeti ">
