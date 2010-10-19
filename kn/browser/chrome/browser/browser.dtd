@@ -64,7 +64,6 @@
 <!ENTITY forwardCmd.label             "ಮುಂದಕ್ಕೆ">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು">
-<!ENTITY backForwardMenu.tooltip      "ಇತ್ತೀಚಿನ ಪುಟಗಳು">
 <!ENTITY reloadCmd.label              "ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "ಪ್ರಸಕ್ತ ಪುಟವನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‍ ಮಾಡು">
