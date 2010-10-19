@@ -38,9 +38,9 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "કેશ માટે">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB જેટલી જગ્યા વાપરો">
+
+
+
 
 <!ENTITY offlineAppsList.label           "નીચેની વેબસાઈટોએ ઓફલાઈન વપરાશ માટે માહિતી સ્થાપિત કરેલ છે:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -101,3 +101,14 @@
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "અપવાદો…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.label              "હાર્ડવેર વેગને વાપરો જ્યારે ઉપલબ્ધ હોય">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableAddonsUpdate2.label       "ઍડ-ઑન">
+<!ENTITY limitCacheSizeAfter.label       "MB જેટલી જગ્યા">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeBefore.label      "તેની માટે મર્યાદિત કેશ">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.label    "આપોઆપ કેશ સંચાલન પર ફરીથી લખો">
+<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitCrashes.label             "ભંગાણ અહેવાલોને ઉમેરો">
