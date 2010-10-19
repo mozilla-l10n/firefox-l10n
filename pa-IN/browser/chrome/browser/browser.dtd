@@ -112,7 +112,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "ਅੱਗੇ">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ਇੱਕ ਪੇਜ਼ ਅੱਗੇ ਜਾਓ">
-<!ENTITY backForwardMenu.tooltip      "ਤਾਜ਼ਾ ਪੇਜ਼">
 <!ENTITY reloadCmd.label              "ਮੁੜ ਲੋਡ">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "ਮੌਜੂਦਾ ਪੇਜ਼ ਮੁੜ ਲੋਡ ਕਰੋ">
