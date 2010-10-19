@@ -46,7 +46,7 @@
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "સંદર્ભ મેનુઓ નિષ્ક્રિય કરો અથવા બદલો">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "પરિસ્થિતિદર્શક પટ્ટી છુપાવો">
-<!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "પરિસ્થિતિદર્શક પટ્ટી લખાણ બદલો">
-<!ENTITY changeStatusBar.accesskey      "C">
+
+
+
+
