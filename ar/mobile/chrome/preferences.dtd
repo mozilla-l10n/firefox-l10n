@@ -18,3 +18,11 @@
 <!ENTITY homepage.none                             "صفحة فارغة">
 <!ENTITY homepage.default                          "بداية &brandShortName;">
 <!ENTITY homepage.currentpage                      "استخدِم الصفحة الحالية">
+<!ENTITY sync.title                                "تزامُن">
+<!ENTITY sync.account2                             "اسم الحساب">
+<!ENTITY sync.password                             "كلمة السر">
+<!ENTITY sync.syncKey                              "مفتاح المزامنة">
+<!ENTITY sync.deviceName                           "اسم الجهاز">
+<!ENTITY sync.connect                              "اتصل">
+<!ENTITY sync.disconnect                           "اقطع الاتصال">
+<!ENTITY sync.syncNow                              "زامِن الآن">

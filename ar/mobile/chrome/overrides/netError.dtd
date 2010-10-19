@@ -52,17 +52,13 @@
 <!ENTITY netInterrupt.title "قوطع الاتصال">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
-<ul>
-  <li>جرّب ثانية. سوف يحاول &brandShortName; أن يتصل من جديد ويعيد تحميل الصفحة.</li>
-</ul>
-">
 
 <!ENTITY netOffline.title "نمط اللا اتصال">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>حاول مجددًا. سيجرب &brandShortName; فتح اتصال وإعادة تحميل الصفحة.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "
@@ -176,9 +172,9 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent  "
 <p>لا ينبغي عليك إضافة استثناء إن كنت تستخدم اتصال إنترنت لا تثق به تمامًا أو كنت غير معتاد على رؤية إنذار من هذا الخادوم.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

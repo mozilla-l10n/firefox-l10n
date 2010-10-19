@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "للأمام">
 <!ENTITY forwardCmd.accesskey "م">
 <!ENTITY forwardButton.tooltip "اذهب للأمام صفحة واحدة">
-<!ENTITY backForwardMenu.tooltip "صفحات حديثة">
 <!ENTITY reloadCmd.label "أعِد التحميل">
 <!ENTITY reloadCmd.accesskey "ع">
 <!ENTITY reloadButton.tooltip "أعِد تحميل الصفحة الحاليّة">
@@ -518,10 +517,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label "تمّ">
 <!ENTITY editBookmark.cancel.label "ألغِ">
 <!ENTITY editBookmark.removeBookmark.accessKey "ح">
-<!ENTITY editBookmark.undo.label "تراجع">
-<!ENTITY editBookmark.undo.accessKey "ر">
-<!ENTITY editBookmark.edit.label "حرّر…">
-<!ENTITY editBookmark.edit.accessKey "ح">
 
 <!ENTITY identity.unverifiedsite2 "لا يوفّر هذا الموقع معلومات الهويّة.">
 <!ENTITY identity.connectedTo "تتصل ب‍">
