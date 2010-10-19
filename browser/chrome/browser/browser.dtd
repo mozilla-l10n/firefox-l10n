@@ -88,7 +88,6 @@
 <!ENTITY forwardCmd.label "Siguiente">
 <!ENTITY forwardCmd.accesskey "g">
 <!ENTITY forwardButton.tooltip "Ir a la página siguiente">
-<!ENTITY backForwardMenu.tooltip "Páginas recientes">
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "a">
 <!ENTITY reloadButton.tooltip "Recargar esta página">

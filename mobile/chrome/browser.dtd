@@ -76,6 +76,7 @@
 <!ENTITY contextShareVideo.label "Compartir vídeo">
 <!ENTITY contextPlayMedia.label "Reproducir">
 <!ENTITY contextPauseMedia.label "Pausar">
+<!ENTITY contextFullScreen.label "Pantalla completa">
 <!ENTITY contextEditBookmark.label "Editar">
 <!ENTITY contextRemoveBookmark.label "Eliminar">
 <!ENTITY pageactions.saveas.pdf "Guardar como PDF">
