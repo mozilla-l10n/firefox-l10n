@@ -124,3 +124,6 @@
 
 <!ENTITY  generalSecurityDetails   "વિગતો">
 <!ENTITY  generalSecurityDetails.accesskey "D">
+<!ENTITY  permClearStorage           "સંગ્રહ સાફ કરો">
+<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permIndexedDB              "ઓફલાઇન સંગ્રહને સંચાલિત કરો">
