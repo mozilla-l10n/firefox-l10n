@@ -119,3 +119,12 @@
 <!ENTITY  securityView.technical.header                 "ತಾಂತ್ರಿಕ ವಿವರಗಳು">
 <!ENTITY  generalSecurityDetails   "ವಿವರಗಳು">
 <!ENTITY  generalSecurityDetails.accesskey "D">
+
+<!ENTITY  permAskAlways         "ಯಾವಾಗಲೂ ಕೇಳು">
+<!ENTITY  permClearStorage           "ಶೇಖರಣೆಯನ್ನು ಅಳಿಸು">
+<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permGeo               "ಸ್ಥಳವನ್ನು ಹಂಚಿಕೊ">
+<!ENTITY  permIndexedDB              "ಆಫ್‌ಲೈನ್ ಶೇಖರಣೆಯನ್ನು ನೋಡಿಕೊ">
+
+
+
