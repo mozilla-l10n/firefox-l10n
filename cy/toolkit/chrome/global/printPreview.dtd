@@ -62,9 +62,9 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Addasu...">
+<!ENTITY Custom.label         "Cyfaddasu...">
 <!ENTITY ShrinkToFit.label    "Lleihau i'r Maint">
-<!ENTITY customPrompt.title   "Graddfa Addasu...">
+<!ENTITY customPrompt.title   "Graddfa Cyfaddasu...">
 
 <!ENTITY homearrow.tooltip    "Tudalen gyntaf">
 <!ENTITY endarrow.tooltip     "Tudalen olaf">

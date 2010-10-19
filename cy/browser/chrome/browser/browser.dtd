@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Nodau Tudalen">
 <!ENTITY bookmarksMenuButton.tooltip        "Dangos eich nodau tudalen">
+<!ENTITY bookmarksMenuButton.unsorted.label "Nodau Tudalen Didrefn">
 <!ENTITY viewBookmarksSidebar.label         "Dangos yn y Bar Ochr">
 <!ENTITY viewBookmarksToolbar.label         "Gweld Bar Offer Nodau Tudalen">
 
@@ -260,8 +261,8 @@ can reach it easily. -->
 <!ENTITY viewToolbarsMenu.accesskey     "B"> 
 <!ENTITY viewSidebarMenu.label "Y Cwpwrdd Cornel">
 <!ENTITY viewSidebarMenu.accesskey "Y">
-<!ENTITY viewCustomizeToolbar.label       "Addasu..."> 
-<!ENTITY viewCustomizeToolbar.accesskey     "A">
+<!ENTITY viewCustomizeToolbar.label       "Cyfaddasu..."> 
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY viewTabsOnTop.label            "Tabiau ar y Brig">
 <!ENTITY viewTabsOnTop.accesskey        "T">
 
@@ -277,14 +278,14 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Golygu">
-<!ENTITY appMenuCustomize.label "Addasu">
+<!ENTITY appMenuCustomize.label "Cyfaddasu">
 <!ENTITY appMenuToolbarLayout.label "Cynllun Bar Offer...">
 <!ENTITY appMenuSidebars.label "Barau Ochr">
 <!ENTITY appMenuFind.label "Canfod...">
 <!ENTITY appMenuUnsorted.label "Nodau Tudalen heb eu Trefnu">
 <!ENTITY appMenuWebDeveloper.label "Datblygwr Gwe">
 <!ENTITY appMenuGettingStarted.label "Cychwyn Arni">
-<!ENTITY appMenuSafeMode.label "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi">
+<!ENTITY appMenuSafeMode.label "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi...">
 <!ENTITY appMenuSafeMode.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "L">
@@ -354,8 +355,8 @@ can reach it easily. -->
 <!ENTITY viewVideoCmd.accesskey       "F">
 <!ENTITY viewBGImageCmd.label         "Edrych ar Ddelwedd Gefndir">
 <!ENTITY viewBGImageCmd.accesskey     "G">
-<!ENTITY setDesktopBackgroundCmd.label      "Gosod fel Cefndir Bwrff Gwaith">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "G">
+<!ENTITY setDesktopBackgroundCmd.label      "Gosod fel Cefndir Bwrdd Gwaith">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Gosod Nod Tudalen i'r Dudalen">
 <!ENTITY bookmarkPageCmd2.accesskey   "d">
 <!ENTITY bookmarkThisLinkCmd.label      "Gosod Nod Tudalen i'r Cysylltiad">
@@ -513,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Gorffen">
 <!ENTITY editBookmark.cancel.label                   "Diddymu">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Dadwneud">
-<!ENTITY editBookmark.undo.accessKey                 "D">
-<!ENTITY editBookmark.edit.label                     "Golygu...">
-<!ENTITY editBookmark.edit.accessKey                 "G">
 
 <!ENTITY identity.unverifiedsite2 "Nid yw'r wefan yn darparu gwybodaeth hunaniaeth.">
 <!ENTITY identity.connectedTo "Rydych wedi cysylltu â">

@@ -30,7 +30,7 @@
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
-#define firefox_customize Addasu Firefox
+#define firefox_customize Cyfaddasu Firefox
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/

@@ -13,7 +13,7 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Gweinydd">
 <!ENTITY serverType.main.label      "Gweinydd &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "defnyddio gweinydd arall">
+<!ENTITY serverType.custom.label    "Defnyddio gweinydd cyfaddas">
 <!ENTITY signIn.account.label       "Cyfeiriad E-bost / Enw Defnyddiwr ">
 <!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Cyfrinair">

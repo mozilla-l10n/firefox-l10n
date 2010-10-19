@@ -9,8 +9,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "Llwytho i Lawr">
 
-<!ENTITY cmd.pause.label                  "Saib">
-<!ENTITY cmd.pause.accesskey              "S">
+<!ENTITY cmd.pause.label                  "Oedi">
+<!ENTITY cmd.pause.accesskey              "O">
 <!ENTITY cmd.resume.label                 "Ailgychwyn">
 <!ENTITY cmd.resume.accesskey             "A">
 <!ENTITY cmd.cancel.label                 "Diddymu">

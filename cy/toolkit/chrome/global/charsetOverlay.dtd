@@ -17,5 +17,5 @@
 <!ENTITY charsetMenuMore5.accesskey    "C">
 <!ENTITY charsetMenuUnicode.label      "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey  "U">
-<!ENTITY charsetCustomize.label        "Addasu'r Rhestr">
-<!ENTITY charsetCustomize.accesskey    "a">
+<!ENTITY charsetCustomize.label        "Cyfaddasu'r Rhestr">
+<!ENTITY charsetCustomize.accesskey    "C">

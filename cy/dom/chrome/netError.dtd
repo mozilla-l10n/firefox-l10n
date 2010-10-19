@@ -26,7 +26,7 @@
 
 <!ENTITY netOffline.title "Modd All-lein">
 <!ENTITY netOffline.longDesc "<p>Mae'r porwr yn gweithredu yn ei fodd all-lein ac nid oes modd cysylltu â'r eitem hon.</p><ul><li>A yw'r cyfrifiadur wedi ei gysylltu i rwydwaith sy'n fyw?</li><li>Rhowch y porwr ym modd ar-lein a cheisio eto.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Mae'r porwr yn gweithredu yn ei fodd all-lein ac nid oes modd cysylltu â'r eitem hon.</p><ul><li>A yw'r cyfrifiadur wedi ei gysylltu i rwydwaith sy'n fyw?</li><li>Rhowch y porwr ym modd ar-lein a cheisio eto.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gwall Amgodio Cynnwys">
 <!ENTITY contentEncodingError.longDesc "<p>Nid oes modd dangos y dudalen hon am ei bod yn defnyddio ffurf o gywasgiad sy'n anhysbys neu sydd ddim yn cael ei gynnal o .</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">

@@ -37,7 +37,7 @@
 
 <!ENTITY errorConsole.title "Consol Gwall">
 
-<!ENTITY errFile.label   "Ffeil Cod Gwreiddiol:">
+<!ENTITY errFile.label   "Ffeil Ffynhonnell:">
 <!ENTITY errLine.label   "Llinell:">
 <!ENTITY errColumn.label "Colofn:">
 
