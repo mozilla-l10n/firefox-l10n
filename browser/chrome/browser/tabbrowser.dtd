@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(தலைப்பிடப்படாத)">
-<!ENTITY  newTab.label           "புதிய தத்தல்">
-<!ENTITY  newTab.accesskey       "N">
 <!ENTITY  closeTab.label         "தத்தலை மூடவும்">
-<!ENTITY  closeTab.accesskey         "c">
-<!ENTITY  closeOtherTabs.accesskey  "o">
-<!ENTITY  closeOtherTabs.label   "மற்ற தத்தல்களை மூடவும்">
-<!ENTITY  reloadAllTabs.label    "அனைத்து தத்தல்களையும்">
-<!ENTITY  reloadAllTabs.accesskey         "A">
-<!ENTITY  reloadTab.label        "தத்தலை மேலேற்று">
-<!ENTITY  reloadTab.accesskey         "r">
-<!ENTITY  listAllTabs.label      "அனைத்து தத்தல்களையும் பட்டியலிடு">
-<!ENTITY  bookmarkAllTabs.label       "அனைத்து தத்தல்களையும் குறிப்பிடு…">
-<!ENTITY  bookmarkAllTabs.accesskey   "T">
-<!ENTITY  bookmarkThisTab.label       "இந்த தத்தலை குறிப்பிடு">
-<!ENTITY  bookmarkThisTab.accesskey   "B">
-<!ENTITY  undoCloseTab.label          "மறைந்த தத்தல்களை மூடவும்">
-<!ENTITY  undoCloseTab.accesskey      "U">
 <!ENTITY  newTabButton.tooltip        "ஒரு புதிய தத்தலை திற">
-<!ENTITY  openTabInNewWindow.label    "புதிய சாளரத்தில் திற">
-<!ENTITY  openTabInNewWindow.accesskey "W">

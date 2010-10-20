@@ -10,10 +10,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "உதவி"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-
+<!ENTITY productHelp.label        "&brandShortName; உதவி">
+<!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Internet Explorer பயனர்களுக்கு">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->

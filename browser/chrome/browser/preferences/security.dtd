@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "சேமிக்கப்பட்ட கடவுச்சொற்கள்…">
 <!ENTITY  savedPasswords.accesskey        "P">
-
-
-<!ENTITY  warnings.label                "எச்சரிக்கை செய்திகள்">
-
-<!ENTITY  chooseWarnings.label          "இணையத்தில் உலாவும் போது எந்த எச்சரிக்கை செய்திகள் வர வேண்டும் என தேர்ந்தெடு">
-
-<!ENTITY  warningSettings.label         "அமைவுகள்…">
-<!ENTITY  warningSettings.accesskey     "S">

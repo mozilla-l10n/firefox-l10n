@@ -14,19 +14,6 @@
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-<!ENTITY  rememberDaysBefore.label      "குறைந்தது என் வரலாற்றை வைத்திரு">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      "நாட்கள்">
-
-<!ENTITY  rememberForms.label           "நான் படிவங்களில் மற்றும் தேடும் பட்டையில் உள்ளிடும்போது நினைவுப்படுத்து">
-<!ENTITY  rememberForms.accesskey       "f">
-
-<!ENTITY  rememberDownloads.label       "நான் பதிவிறக்கியதை நினைவுப்படுத்து">
-<!ENTITY  rememberDownloads.accesskey   "d">
-
-
-<!ENTITY  cookies.label                 "குக்கீகள்">
-
 <!ENTITY  acceptCookies.label           "தளங்களிலிருந்து குக்கீகளை ஏற்கவும்">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -45,18 +32,6 @@
 
 <!ENTITY  showCookies.label             "குக்கீகளை காட்டு…">
 <!ENTITY  showCookies.accesskey         "S">
-
-
-<!ENTITY  privateData.label             "தனிப்பட்ட தரவு">
-
-<!ENTITY  alwaysClear.label              "நான் &brandShortName;ஐ மூடும் போது தனிப்பட்ட தரவை எப்போதும் துடை">
-<!ENTITY  alwaysClear.accesskey          "w">
-
-<!ENTITY  clearDataSettings.label        "அமைவுகள்…">
-<!ENTITY  clearDataSettings.accesskey    "t">
-
-<!ENTITY  clearDataNow.label             "இப்போது துடை…">
-<!ENTITY  clearDataNow.accesskey         "N">
 
 <!ENTITY  clearOnClose.label             "&brandShortName; மூடும் போது வரலாற்றை துடை">
 <!ENTITY  clearOnClose.accesskey         "w">
@@ -80,9 +55,6 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  locationBar.label             "இடப் பட்டை">
-
-<!ENTITY  privateBrowsingAutoStart.label "தானாக &brandShortName;ஐ ஒரு தனிப்பட்ட உலாவும் அமர்வில் துவக்கவும்">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
