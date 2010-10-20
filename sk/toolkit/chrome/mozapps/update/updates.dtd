@@ -15,9 +15,11 @@
 
 <!ENTITY  manualUpdate.title              "Aktualizácia zlyhala">
 <!ENTITY  manualUpdate.desc               "K dispozícii je odporúčaná bezpečnostná a stabilizačná aktualizácia, avšak
-                                           nemáte dostatočné oprávnenia na jej inštaláciu. Prosím, kontaktujte
+                                           na jej inštaláciu nemáte dostatočné oprávnenia. Prosím, kontaktujte
                                            správcu systému alebo ju skúste nainštalovať z používateľského konta,
                                            ktoré umožňuje inštaláciu softvéru v tomto počítači.">
+<!ENTITY  manualUpdate.space.desc         "K dispozícii je odporúčaná bezpečnostná a stabilizačná aktualizácia, avšak
+                                           na jej inštaláciu nemáte dostatočné množstvo voľného miesta na disku.">
 <!ENTITY  manualUpdateGetMsg.label        "Najnovšiu verziu programu &brandShortName; nájdete na adrese:">
 
 <!ENTITY  incompatibleCheck.title         "Kontrola kompatibility doplnkov">

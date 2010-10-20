@@ -5,6 +5,10 @@
 <!ENTITY aboutPage.rights.label                 "Spoznajte svoje práva">
 <!ENTITY aboutPage.relNotes.label               "Poznámky k vydaniu">
 <!ENTITY aboutPage.credits.label                "Tvorcovia">
+<!ENTITY aboutPage.checkForUpdates.button       "Vyhľadať aktualizácie">
+<!ENTITY aboutPage.checkForUpdates.checking     "Vyhľadávajú sa aktualizácie…">
+<!ENTITY aboutPage.checkForUpdates.none         "Nie sú dostupné žiadne aktualizácie">
+<!ENTITY aboutPage.checkForUpdates.found        "Aktualizácia je dostupná">
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.

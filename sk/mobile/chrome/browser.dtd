@@ -55,7 +55,8 @@
 <!ENTITY downloadPause.label       "Pozastaviť">
 <!ENTITY downloadResume.label      "Pokračovať">
 <!ENTITY downloadRetry.label       "Znova">
-<!ENTITY downloadRemove.label      "Odstrániť">
+<!ENTITY downloadRemove.label      "Vymazať">
+<!ENTITY downloadDelete.label      "Odstrániť">
 <!ENTITY downloadFailed.label      "Neúspešné">
 
 <!ENTITY noResults.label           "Žiadne výsledky">
@@ -93,6 +94,9 @@
 <!ENTITY contextShareImage.label      "Zdieľať obrázok">
 <!ENTITY contextSaveVideo.label       "Uložiť video">
 <!ENTITY contextShareVideo.label      "Zdieľať video">
+<!ENTITY contextPlayMedia.label       "Prehrať">
+<!ENTITY contextPauseMedia.label      "Pozastaviť">
+<!ENTITY contextFullScreen.label      "Na celú obrazovku">
 <!ENTITY contextEditBookmark.label    "Upraviť">
 <!ENTITY contextRemoveBookmark.label  "Odstrániť">
 
