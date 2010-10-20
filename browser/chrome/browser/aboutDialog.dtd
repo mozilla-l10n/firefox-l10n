@@ -1,13 +1,56 @@
 <!ENTITY aboutDialog.title          "Davart &brandFullName;">
-<!ENTITY copyright                  "Engraziaments">
-<!ENTITY copyright.accesskey        "E">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY aboutLink                  "&lt; Davart &brandFullName;">
-<!ENTITY aboutLink.accesskey        "D">
-<!ENTITY aboutVersion               "Versiun">
-<!ENTITY closeCmdGNOME.label        "Close">  
-<!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 contribuents. Tut ils dretgs resalvads. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Infurmaziuns davart la licenza">
-<!ENTITY copyrightInfo2             ").">
+
+<!ENTITY community.start2           "&brandShortName; vegn sviluppà da ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", ina ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "communitad globala">
+<!ENTITY community.end2             " che lavura communablamain per far megler l'internet. Nus essan da l'avis che l'internet duess esser avert, public ed accesibel a mintgin senza restricziuns.">
+
+<!ENTITY contribute.start           "Interessescha quai tai? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Ta participescha!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Infurmaziuns davart la licenza">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Dretgs da l'utilisader">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Directivas per la protecziun da datas">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "Tschertga actualisaziuns disponiblas…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Controllar la cumpatibilitad dals supplements…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; è actual">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "La funcziun d'actualisar è deactivada da tes administratur da sistem">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "L'actualisaziun n'è betg reussida. ">
+<!ENTITY update.failed.linkText     "Telechargiar la versiun actuala">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "Actualisaziuns disponiblas sin ">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "L'actualisaziun vegn telechargiada — ">
+<!ENTITY update.downloading.end     "">
