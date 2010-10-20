@@ -23,7 +23,6 @@
 <!ENTITY openInNewWindow.label "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ">
 <!ENTITY openInNewWindow.accesskey "W">
 
-<!ENTITY bookmarkLink.label "ଏହି ସଂଯୋଗକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
-<!ENTITY bookmarkLink.accesskey "B">
+
 <!ENTITY copyLink.label "ସଂଯୋଗ ସ୍ଥାନକୁ ନକଲ କରନ୍ତୁ">
 <!ENTITY copyLink.accesskey "C">

@@ -23,3 +23,14 @@
 <!ENTITY missingPlugin.label                                 "ପ୍ଲଗଇନ ଆହରଣ କରିବା ପାଇଁ ଏଠାରେ କ୍ଲିକ କରନ୍ତୁ।">
 <!ENTITY disabledPlugin.label                                "ଏହି ସୂଚୀ ପାଇଁ ପ୍ଲଗଇନକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ଆପଣଙ୍କର ପ୍ଲଗଇନଗୁଡ଼ିକୁ ପରିଚାଳନା କରିବା ପାଇଁ ଏଠାରେ କ୍ଲିକ କରନ୍ତୁ।">
 <!ENTITY blockedPlugin.label                                 "ଏହି ପ୍ଲଗଇନକୁ ଆପଣଙ୍କର ସୁରକ୍ଷା ପାଇଁ ଅଟକାଯାଇଛି।">
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "ପୁଣିଥରେ ଚେଷ୍ଟା କରିବା ପାଇଁ">
+<!ENTITY reloadPlugin.post                                   " ଏହି ପୃଷ୍ଠାକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ।">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "ନଷ୍ଟ ବିବରଣୀ ପଠାନ୍ତୁ">
+<!ENTITY report.submitting                                   "ବିବରଣୀ ପଠାଯାଉଛି…">
+<!ENTITY report.submitted                                    "ନଷ୍ଟ ବିବରଣୀକୁ ପଠାଯାଇଛି।">
+<!ENTITY report.disabled                                     "ନଷ୍ଟ ବିବରଣୀ ଦାଖଲକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।">
+<!ENTITY report.failed                                       "ଦାଖଲ ବିଫଳ ହୋଇଛି।">
+<!ENTITY report.unavailable                                  "କୌଣସି ବିବରଣୀ ଉପଲବ୍ଧ ନାହିଁ।">
+

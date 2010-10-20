@@ -48,10 +48,10 @@
 <!ENTITY resetToolbars.label          " ସାଧନପଟି ଏବଂ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକୁ ପୁନର୍ବିନ୍ୟାସ କରନ୍ତୁ">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "ଚିହ୍ନିତ ସ୍ଥାନକୁ &brandShortNameରେ ପୁନର୍ବିନ୍ୟାସ କରନ୍ତୁ; ପୂର୍ବନିର୍ଦ୍ଧାରିତ">
-<!ENTITY resetBookmarks.accesskey     "b">
 
-<!ENTITY resetUserPrefs.label         "ସମସ୍ତ ଚାଳକ ପସନ୍ଦଗୁଡ଼ିକୁ &brandShortNameରେ ପୁନର୍ବିନ୍ୟାସ କରନ୍ତୁ; ପୂର୍ବନିର୍ଦ୍ଧାରିତ">
+
+
+<!ENTITY resetUserPrefs.label         "ସମସ୍ତ ଚାଳକ ପସନ୍ଦଗୁଡ଼ିକୁ &brandShortName; ରେ ପୁନର୍ବିନ୍ୟାସ କରନ୍ତୁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
 <!ENTITY restoreSearch.label          "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଖୋଜା ଯନ୍ତ୍ରକୁ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ">
@@ -59,3 +59,7 @@
 
 <!ENTITY changeAndRestartButton.label "ପରିବର୍ତ୍ତନ କରନ୍ତୁ ଏବଂ ପୁନଃ ଚାଳନ କରନ୍ତୁ">
 <!ENTITY continueButton.label         "ସୁରକ୍ଷିତ ଧାରାରେ ଆଗାନ୍ତୁ">
+
+<!ENTITY deleteBookmarks.label        "ନକଲ ସଂରକ୍ଷଣ ବ୍ୟତୀତ ଅନ୍ୟ ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଅପସାରଣ କରନ୍ତୁ">
+<!ENTITY deleteBookmarks.accesskey    "b">
+

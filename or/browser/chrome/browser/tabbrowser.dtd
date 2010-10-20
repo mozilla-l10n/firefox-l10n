@@ -1,21 +1,9 @@
-<!ENTITY  untitledTab            "(ଶୀର୍ଷକ ବିହୀନ)">
-<!ENTITY  newTab.label           "ନୂତନ ଟ୍ୟାବ">
-<!ENTITY  newTab.accesskey       "N">
+
 <!ENTITY  closeTab.label         "ଟ୍ୟାବ ବନ୍ଦକରନ୍ତୁ">
-<!ENTITY  closeTab.accesskey         "c">
-<!ENTITY  closeOtherTabs.accesskey  "o">
-<!ENTITY  closeOtherTabs.label   "ଅନ୍ୟ ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ">
-<!ENTITY  reloadAllTabs.label    "ସମସ୍ତ ଟ୍ୟାବକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
-<!ENTITY  reloadAllTabs.accesskey         "A">
-<!ENTITY  reloadTab.label        "ଟ୍ୟାବକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
-<!ENTITY  reloadTab.accesskey         "r">
-<!ENTITY  listAllTabs.label      "ସମସ୍ତ ଟ୍ୟାବକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ">
-<!ENTITY  bookmarkAllTabs.label       "ସମସ୍ତ ଟ୍ୟାବକୁ ବୁକମାର୍କ କରନ୍ତୁ…">
-<!ENTITY  bookmarkAllTabs.accesskey   "T">
-<!ENTITY  bookmarkThisTab.label       "ଏହି ଟ୍ୟାବକୁ ବୁକମାର୍କ କରନ୍ତୁ">
-<!ENTITY  bookmarkThisTab.accesskey   "B">
-<!ENTITY  undoCloseTab.label          "ଟ୍ୟାବ ବନ୍ଦକରନ୍ତୁ ପଦକ୍ଷେପକୁ ବାତିଲ କରନ୍ତୁ">
-<!ENTITY  undoCloseTab.accesskey      "U">
+
+
+
+
+
 <!ENTITY  newTabButton.tooltip        "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ">
-<!ENTITY  openTabInNewWindow.label    "ଗୋଟିଏ ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ">
-<!ENTITY  openTabInNewWindow.accesskey "W">
+
