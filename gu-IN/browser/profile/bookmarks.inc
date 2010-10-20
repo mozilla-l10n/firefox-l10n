@@ -7,9 +7,7 @@
 #define bookmarks_title Bookmarks
 #define bookmarks_heading Bookmarks
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://gu-IN.add-ons.mozilla.com/gu-IN/firefox/bookmarks/
-#define bookmarks_addons Get Bookmark Add-ons
+
 
 #define bookmarks_toolbarfolder Bookmarks Toolbar Folder
 #define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
