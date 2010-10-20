@@ -185,3 +185,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Vabandame, väljalasketeate laadimisel esines viga.">
 
 <!ENTITY addon.createdBy.label                "Looja: ">
+
+<!ENTITY eula.title                           "Lõppkasutaja litsentsileping">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Nõustu ja paigalda…">
