@@ -186,3 +186,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, mar der wie in flater mei it laden fan de útjefte-opmerkings.">
 
 <!ENTITY addon.createdBy.label                "Troch ">
+
+<!ENTITY eula.title                           "Einbrûkers-lisinsjeoerienkomsnt">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Akseptearje en ynstallearje…">
