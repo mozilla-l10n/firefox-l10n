@@ -74,7 +74,6 @@
 <!ENTITY forwardCmd.label             "முன்னால்">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ஒரு பக்கம் முன்னால் செல்">
-<!ENTITY backForwardMenu.tooltip      "சமீபத்திய பக்கங்கள்">
 <!ENTITY reloadCmd.label              "மீளேற்று">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "நடப்பு பக்கத்தை மீளேற்று">
@@ -204,7 +203,6 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "புதிய சாளரத்தில் இணைப்பைத் திற">

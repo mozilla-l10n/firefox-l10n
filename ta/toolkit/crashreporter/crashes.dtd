@@ -4,4 +4,5 @@
 <!ENTITY noReports.label            "எந்த அழித்தல் அறிக்கையும் சமர்ப்பிக்கப்படவில்லை.">
 <!ENTITY noConfig.label             "இந்த பயன்பாடு அழித்தல் அறிக்கைகளை காட்ட கட்டமைக்கப்படவில்லை. முன்னுரிமைகள் <code>breakpad.reportURL</code> அமைக்கப்பட வேண்டும்.">
 <!ENTITY clearReports.label         "அறிக்கையை நீக்கு">
+<!ENTITY clearAllReports.label      "அனைத்து அறிக்கைகளையும் நீக்கு">
 

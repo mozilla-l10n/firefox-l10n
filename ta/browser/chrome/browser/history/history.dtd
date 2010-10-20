@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "புதிய சாளரத்தில் திற">
 <!ENTITY openInNewWindow.accesskey "W">
-<!ENTITY bookmarkLink.label "இந்த இணைப்பை புத்தகக் குறியிடு...">
-<!ENTITY bookmarkLink.accesskey "B">
 <!ENTITY copyLink.label "இணைப்பை இந்த இடத்திற்கு நகலெடு">
 <!ENTITY copyLink.accesskey "C">

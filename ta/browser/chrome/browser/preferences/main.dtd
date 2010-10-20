@@ -5,8 +5,6 @@
 <!ENTITY startupHomePage.label "என்னுடைய முதன்னமை பக்கத்தைக் காட்டு">
 <!ENTITY startupBlankPage.label "ஒரு வெற்று பக்கத்தைக் காட்டு">
 <!ENTITY startupLastSession.label "கடைசி நேரத்திலிருந்து என் சாளரங்களை மற்றும் தத்தல்களை காட்டு">
-<!ENTITY location.label "முதன்மை பக்கம்:">
-<!ENTITY location.accesskey "H">
 <!ENTITY useCurrentPage.label "நடப்பு பக்கத்தை பயன்படுத்து">
 <!ENTITY useCurrentPage.accesskey "C">
 <!ENTITY useMultiple.label "நடப்பு பக்கங்களை பயன்படுத்து">
