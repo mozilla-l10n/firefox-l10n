@@ -48,7 +48,3 @@
 <!ENTITY raiseLowerWindows.accesskey "R">
 <!ENTITY disableContextMenus.label "கருத்து மெனுக்களை செயல்நீக்கு அல்லது மாற்று">
 <!ENTITY disableContextMenus.accesskey "D">
-<!ENTITY hideStatusBar.label "நிலைப்பட்டையை மறை">
-<!ENTITY hideStatusBar.accesskey "H">
-<!ENTITY changeStatusBar.label "நிலைப்பட்டை உரையை மாற்று">
-<!ENTITY changeStatusBar.accesskey "C">
