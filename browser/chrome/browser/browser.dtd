@@ -363,8 +363,6 @@
 <!ENTITY editBookmark.cancel.label                   "Anuloje">
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
 
-
-<!ENTITY backForwardMenu.tooltip      "Faqe së fundmi">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey2   "">

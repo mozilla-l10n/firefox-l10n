@@ -181,3 +181,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Na ndjeni, por pati një gabim gjatë ngarkimit të shënimeve të versionit.">
 
 <!ENTITY addon.createdBy.label                "Nga ">
+
+<!ENTITY eula.title                           "Marrëveshje Lejeje Përdoruesi të Thjeshtë (EULA)">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Pranoje dhe Instaloje…">
