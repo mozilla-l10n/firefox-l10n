@@ -40,7 +40,7 @@
 <!ENTITY  font.langGroup.tamil                    "ਤਾਮਿਲ">
 <!ENTITY  font.langGroup.armenian                 "ਅਰਮਨੀਅਨ">
 <!ENTITY  font.langGroup.bengali                  "ਬੰਗਾਲੀ">
-<!ENTITY  font.langGroup.canadian                 "ਕੈਨੇਡੀਅਨ"><!-- FIXME -->
+<!ENTITY  font.langGroup.canadian                 "ਕੈਨੇਡੀਅਨ">
 <!ENTITY  font.langGroup.ethiopic                 "ਇਥੋਪੀਆਈ">
 <!ENTITY  font.langGroup.georgian                 "ਜਾਰਜੀਆਈ">
 <!ENTITY  font.langGroup.gujarati                 "ਗੁਜਰਾਤੀ">

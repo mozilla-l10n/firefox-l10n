@@ -24,7 +24,7 @@
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "ਸਿਸਟਮ ਡਿਫਾਲਟ">
-<!ENTITY alwaysCheckDefault.label        "ਸਟਾਰਟ ਕਰਨ ਸਮੇਂ ਹਮੇਸ਼ਾਂ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ  &brandShortName; ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਹੈ"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "ਸਟਾਰਟ ਕਰਨ ਸਮੇਂ ਹਮੇਸ਼ਾਂ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ  &brandShortName; ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਹੈ">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "ਹੁਣੇ ਚੈੱਕ ਕਰੋ">
 <!ENTITY checkNow.accesskey              "N">

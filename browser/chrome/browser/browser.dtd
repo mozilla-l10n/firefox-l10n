@@ -185,7 +185,7 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 
-<!ENTITY webConsoleCmd.label          "ਵੈੱਬ ਕਸਨੋਲ">
+<!ENTITY webConsoleCmd.label          "ਵੈੱਬ ਕਨਸੋਲ">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
