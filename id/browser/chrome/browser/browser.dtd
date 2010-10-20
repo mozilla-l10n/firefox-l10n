@@ -25,7 +25,7 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinAppTab.label                    "Jadikan Tab Permanen">
-<!ENTITY  pinAppTab.accesskey                "l">
+<!ENTITY  pinAppTab.accesskey                "j">
 <!ENTITY  unpinAppTab.label                  "Hapus dari Tab Permanen">
 <!ENTITY  unpinAppTab.accesskey              "p">
 <!ENTITY  moveToGroup.label            "Pindahkan ke Kelompok Tab">
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Maju">
 <!ENTITY forwardCmd.accesskey         "j">
 <!ENTITY forwardButton.tooltip        "Maju satu laman">
-<!ENTITY backForwardMenu.tooltip      "Laman-laman terakhir">
 <!ENTITY reloadCmd.label              "Muat ulang">
 <!ENTITY reloadCmd.accesskey          "u">
 <!ENTITY reloadButton.tooltip         "Muat ulang laman ini">
