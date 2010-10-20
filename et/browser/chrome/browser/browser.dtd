@@ -112,7 +112,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label                        "Edasi">
 <!ENTITY forwardCmd.accesskey                    "E">
 <!ENTITY forwardButton.tooltip                   "Edasi üks lehekülg">
-<!ENTITY backForwardMenu.tooltip                 "Hiljutised lehed">
 <!ENTITY reloadCmd.label                         "Laadi uuesti">
 <!ENTITY reloadCmd.accesskey                     "L">
 <!ENTITY reloadButton.tooltip                    "Laadi uuesti">
