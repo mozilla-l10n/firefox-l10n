@@ -39,8 +39,12 @@
 <!ENTITY personalbarCmd.label "ఇష్టాంశముల సాధనములపట్టీ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ఇష్టాంశముల సాధనములపట్టీ అంశములు">
-<!ENTITY taskbarCmd.label "స్థితిపట్టీ">
-<!ENTITY taskbarCmd.accesskey "B">
+
+
+<!ENTITY appMenuButton.label          "మెనూ">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; మెనూ తెరువుము">
+<!ENTITY appMenuCustomize.label "మలచుము">
+<!ENTITY appMenuEdit.label "సరిచేయి">
 
 <!ENTITY pageSourceCmd.label "పేజీ మూలం">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -126,7 +130,7 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "యాడ్-ఆన్స్">
-<!ENTITY addons.tooltip               "సంస్థాపించిన యాడ్-ఆన్స్ ను చూపుము మరియు నిర్వహించుము">
+
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "తప్పుల తెర">
@@ -166,8 +170,8 @@
 <!ENTITY preferencesCmdUnix.label       "అభీష్టాలు">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "ఇటీవలి చరిత్రను చెరిపివేయి">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+
+
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "గోప్య  వీక్షణం ప్రారంభించు">
@@ -223,7 +227,7 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
+
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "లింకుని కొత్త విండోనందు తెరువుము">
@@ -311,7 +315,7 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ధ్వని స్థానాన్ని నకలు తీయుము">
 <!ENTITY copyAudioURLCmd.accesskey    "o"> 
-<!ENTITY blockImageCmd.accesskey       "g">
+
 
 <!ENTITY copyEmailCmd.label           "ఈమెయిల్ చిరునామాను నకలు తీయుము">
 <!ENTITY copyEmailCmd.accesskey       "E">
@@ -381,7 +385,7 @@
 <!ENTITY editBookmark.done.label                     "అయినది">
 <!ENTITY printFrameCmd.label          "చట్రమును ముద్రించు…">
 
-<!ENTITY backForwardMenu.tooltip      "ఇటీవలి పేజీలు">
+
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 
 <!ENTITY fullZoomResetCmd.label         "తిరిగివుంచు">
@@ -392,7 +396,7 @@
 
 <!ENTITY editBookmark.cancel.label                   "రద్దుచేయి">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY editBookmark.edit.label                     "సరిచేయి…">
+
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY bookmarkThisLinkCmd.label      "ఈ లింకును ఇష్టాంశము చేయి">
 <!ENTITY identity.moreInfoLinkText "ఎక్కువ సమాచారం…">
@@ -400,24 +404,24 @@
 
 <!ENTITY errorConsoleCmd.commandkey   "j">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY editBookmark.edit.accessKey                 "E">
+
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY editBookmark.undo.accessKey                 "U">
+
 <!ENTITY identity.runBy "ఏదైతే దీనిద్వారా నడుస్తుందో">
 <!ENTITY fullScreenExit.label "పూర్తితెర రీతిని నిష్క్రమించుము">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-<!ENTITY organizeBookmarks.label "ఇష్టాంశములను నిర్వహించు…">
+
 <!ENTITY fullZoomReduceCmd.label        "జూమ్ తగ్గించు">
 <!ENTITY fullScreenExit.accesskey "F">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
+
 <!ENTITY bookmarkThisFrameCmd.label      "ఈ చట్రమును ఇష్టాంశము చేయుము">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY editBookmark.undo.label                     "మళ్ళీచేయి">
+
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY identity.unverifiedsite2 "ఈ వెబ్ సైట్ గుర్తింపు సమాచారాన్ని అందించుటలేదు.">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
@@ -427,14 +431,111 @@
 <!ENTITY showAllHistoryCmd2.label "చరిత్ర మొత్తం చూపుము">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 
-<!ENTITY urlbar.bookmarkhistory.emptyText "ఇష్టాంశములు మరియు  చరిత్రని శోధించు">
-<!ENTITY urlbar.bookmark.emptyText    "ఇష్టాంశములలోశోధన">
-<!ENTITY urlbar.history.emptyText     "చరిత్రలో శోధన">
-<!ENTITY urlbar.none.emptyText        "వెబ్ చిరునామాను ప్రవేశపెట్టు">
+
+
+
+
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY copyLinkTextCmd.label        "లింకు పాఠ్యమును నకలుతీయుము">
+
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY allTabs.filter.emptyText "టాబ్లలో శోధన">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageInfoCmd.label       "చిత్రము సమాచారాన్ని దర్శించుము">
+<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "యాడ్-ఆన్ పట్టీ">
+<!ENTITY addons.commandkey            "A">
+<!ENTITY appMenuFind.label "కనుగొను…">
+<!ENTITY appMenuGettingStarted.label "ప్రారంభమునకు సిద్దమౌతోంది">
+<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuSafeMode.label "యాడ్-ఆన్స్ అచేతనపరచి పునఃప్రారంభించుము…">
+<!ENTITY appMenuSidebars.label "పక్కపట్టీలు">
+<!ENTITY appMenuToolbarLayout.label "సాధనపట్టీ నమూనా…">
+<!ENTITY appMenuUnsorted.label "క్రమపరచని యిష్టాంశములు">
+<!ENTITY appMenuWebDeveloper.label "వెబ్ అభివృద్దికారి">
+<!ENTITY backForwardItem.title        "వెనుకకు/ముందుకు">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  bookmarkAllTabs.label              "అన్ని టాబ్‌లను యిష్టాంశము చేయి…">
+<!ENTITY bookmarksMenuButton.label          "ఇంష్టాంశములు">
+<!ENTITY bookmarksMenuButton.tooltip        "మీ యిష్టాంశములను ప్రదర్శించుము">
+<!ENTITY bookmarksMenuButton.unsorted.label "క్రమపరచని యిష్టాంశములు">
+<!ENTITY clearRecentHistory.accesskey           "H">
+<!ENTITY clearRecentHistory.label               "ఇటీవలి చరిత్రము శుభ్రపరచుము…">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  closeOtherTabs.label               "ఇతర టాబ్‌లను మూసివేయి">
+<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.label                     "టాబ్ మూసివేయి">
+<!ENTITY feedButton.label             "సబ్‌స్క్రైబ్">
+<!ENTITY historyRestoreLastSession.label "మునుపటి సెషన్‌ను తిరిగివుంచుము">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectButton.label          "విచారించు">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY inspectMenu.label            "విచారించు">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectNextButton.label      "తరువాతి">
+<!ENTITY inspectObjectButton.accesskey   "O">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "ఆబ్జక్ట్">
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectPreviousButton.label  "మునుపటి">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStyleButton.label     "శైలి">
+<!ENTITY inspectStylePanelTitle.label  "శైలి">
+<!ENTITY  listAllTabs.label      "అన్ని టాబ్‌ల జాబితా">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToGroup.label                  "సమూహమునకు కదుపుము">
+<!ENTITY  moveToNewGroup.label               "కొత్త సమూహం">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.label              "కొత్త విండోకు కదుపుము">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openLinkCmdInCurrent.label     "లింకును తెరువుము">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "App టాబ్‌గా గుచ్చుము">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  reloadAllTabs.label                "అన్ని టాబ్‌లను తిరిగిలోడ్ చేయి">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadTab.label                    "టాబ్ తిరిగిలోడ్ చేయి">
+<!ENTITY showAllBookmarks.label "అన్ని యిష్టాంశములను చూపుము…">
+<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; అమర్చుము…">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncSyncNowItem.label        "ఇప్పుడు సింక్ అవుము">
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "ఇతర కంప్యూటర్లనుండి టాబ్‌లు">
+
+<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY tabGroupsButton.label        "టాబ్ సమూహములు">
+<!ENTITY tabGroupsButton.tooltip      "మీ టాబ్‌లను సమూహపరచుము">
+<!ENTITY tabView.commandkey           "e">
+<!ENTITY tabsToolbar.label "బ్రౌజర్ టాబ్‌లు">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  undoCloseTab.label                 "మూసినటాబ్ తిరిగివుంచు">
+<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  unpinAppTab.label                  "గుచ్చినటాబ్ తీయుము">
+<!ENTITY urlbar.placeholder           "వెబ్‌సైట్‌కు వెళ్ళుము">
+<!ENTITY urlbar.switchToTab.label     "టాబ్‌నకు మారుము:">
+<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.label       "పూర్తితెర">
+<!ENTITY viewBookmarksSidebar.label         "పక్క పట్టీనందు చూపుము">
+<!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశముల సాధనపట్టీను దర్శించుము">
+<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabGroups.label            "టాబ్ సమూహాలు">
+<!ENTITY viewTabsOnTop.accesskey        "T">
+<!ENTITY viewTabsOnTop.label            "టాబ్‌లు పైన">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "వెబ్ కన్సోల్">
+<!ENTITY zoomControls.label             "జూమ్ నియంత్రికలు">
+<!ENTITY zoomInButton.tooltip           "జూమ్ పెంచు">
+<!ENTITY zoomOutButton.tooltip          "జూమ్ తగ్గించు">
