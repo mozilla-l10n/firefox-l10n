@@ -49,11 +49,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "ઓફલાઈન સ્થિતિ">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>ફાઈલ મેનુમાં &quot;ઓફલાઈન કામ કરો&quot; ની ચકાસણી દૂર કરો, પછી ફરીથી પ્રયત્ન કરો.</li>
-</ul>
-">
+
 
 <!ENTITY contentEncodingError.title "સમાવિષ્ટ સંગ્રહપદ્ધતિ ભૂલ">
 <!ENTITY contentEncodingError.longDesc "
@@ -138,8 +134,6 @@
 ">
 
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ એડ-ઓન">
-<!ENTITY securityOverride.warningText "
-<p>તમારે અપવાદ ઉમેરવો જોઈએ નહિં જો તમે ઈન્ટરનેટ જોડાણ વાપરી રહ્યા હોય કે જે સંપૂર્ણપણે વિશ્વાસુ ના હોય, અથવા જો તમે આ સર્વર માટે ચેતવણી જોવા માટેના આદતી ના હોય.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
@@ -160,3 +154,13 @@
   <li>વેબસાઈટ માલિકોને આ સમસ્યાની જાણ કરવા માટે મહેરબાની કરીને તેમનો સંપર્ક કરો.</li>
 </ul>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;એ આ રીતે લોડ કરવાથી આ પાનાંને અટકાવેલ છે કારણ કે  પાનાં પાસે સમાવિષ્ટ સુરક્ષા પોલિસી છે કે જે તેને પરવાનગી આપતુ નથી.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "સમાવિષ્ટ સુરક્ષા પોલિસી દ્દારા બ્લોક થયેલ છે">
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>&quot;Work Offline&quot; મેનુ વસ્તુને ચકાસો નહિં, પછી ફરીથી પ્રયત્ન કરો.</li>
+</ul>
+">
+<!ENTITY securityOverride.warningContent "
+<p>તમારે અપવાદને ઉમેરવુ જોઇએ નહિં જો તમે ઇન્ટરનેટ જોડાણને વાપરી રહ્યા હોય જે તમારે સંપૂર્ણપણે વિશ્ર્વાસ રાખવો નહિં  અથવા જો તમે આ સર્વર માટે ચેતવણી જોવા માટે વાપરેલ ન હોય તો.</p>
