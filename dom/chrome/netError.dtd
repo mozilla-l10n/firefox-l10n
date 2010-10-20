@@ -3,8 +3,8 @@
 <!-- Specific error messages -->
 <!ENTITY generic.title "અરજી પૂર્ણ કરી શકતા નથી">
 <!ENTITY generic.longDesc "પાનુ લાવી શકાયુ નહિ કારણ કે કદાચ તે અસ્તિત્વ ધરાવતુ નથી અથવા સ્થાન ખોટુ છે. <br/> ચકાસો કે સરનામુ (URL) યોગ્ય છે અને બરાબર રીતે બંધારણ થયેલુ છે.">
-<!ENTITY malformedURI.title "અયોગ્ય સરનામાની ભૂલ">
-<!ENTITY malformedURI.longDesc "સરનામુ યોગ્ય બંધારણમાં નથી અને વાંચી શકાય તેમ નથી. પ્રણાલીગત સરનામુ &quot;http://&quot; થી ચાલુ થાય છે, અને સરનામા (ઉ.દા. www.netscape.com) દ્વારા અને પથના ભાગો (કે માત્ર &quot;/&quot;)દ્વારા અનુસરાય છે. સામાન્ય ભૂલ એ છસ કે (//) ની જગ્યાએ (\) વાપરે છે">
+<!ENTITY malformedURI.title "અયોગ્ય સરનામું">
+<!ENTITY malformedURI.longDesc "<p>પૂરુ પાડેલ સરનામું ઓળખી શકાય તેવા બંધારણમાં નથી. મહેરબાની કરીને ભૂલો માટે સ્થાન પટ્ટીને ચકાસો અને ફરીથી પ્રયત્ન કરો.</p>">
 <!ENTITY fileNotFound.title "ફાઇલ મળતી નથી દર્શાવતી ભૂલ">
 <!ENTITY fileNotFound.longDesc "સરનામા દ્વારા સ્પષ્ટ થતી ફાઇલ મળી શકી નહિ. તપાસો કે ફાઇલ અસ્તિત્વ ધરાવે છે અને તમારી પાસે જોવાની પૂરતી પરવાનગી છે.">
 <!ENTITY dnsNotFound.title "સરનામુ મળતુ નથી દર્શાવતી ભૂલ">
@@ -78,3 +78,7 @@
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>આ રીતે લોડ કરવાથી બ્રાઉઝરે આ પાનાંને અટકાવેલ છે કારણ કે પાનાં પાસે સમાવિષ્ટ સુરક્ષા પોલિસી છે કે જે તેને પરવાનગી આપતુ નથી.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "સમાવિષ્ટ સુરક્ષા પોલિસી દ્દારા બ્લોક થયેલ છે">
+<!ENTITY netOffline.overrideLongDesc "<p>બ્રાઉઝર તેની ઓફલાઇન સ્થિતિમાં ચાલી રહ્યુ છે અને સૂચિત વસ્તુ માટે જોડાઇ શકતા નથી.</p><ul><li>શું કમ્પ્યૂટર સક્રિય નેટવર્ક સાથે જોડાવા માંગે છે?</li><li>ઓનલાઇન સ્થિતિમાં બ્રાઉઝરને સ્થિત કરો અને ફરીથી પ્રયત્ન કરો.</li></ul>">
