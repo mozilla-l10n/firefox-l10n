@@ -22,7 +22,9 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "नव्या विंडोमध्ये उघडा">
 <!ENTITY openInNewWindow.accesskey "W">
+<!--
 <!ENTITY bookmarkLink.label "ह्या लिंकवर खुण करा">
 <!ENTITY bookmarkLink.accesskey "B">
+-->
 <!ENTITY copyLink.label "लिंकची प्रत बनवा">
 <!ENTITY copyLink.accesskey "C">
