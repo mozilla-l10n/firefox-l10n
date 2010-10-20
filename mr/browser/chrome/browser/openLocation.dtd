@@ -4,7 +4,8 @@
 <!ENTITY chooseFile.label "फाइल निवडा...">
 <!ENTITY newWindow.label "नविन दृश्यचौकट ">
 <!ENTITY newTab.label "नविन टॅब">
-<!ENTITY topWindow.label "सद्यस्थितीतील दृश्यचौकट">
+<!-- <!ENTITY topWindow.label "सद्यस्थितीतील दृश्यचौकट"> -->
 <!ENTITY caption.label "वेब स्थळ उघडा">
 <!ENTITY openWhere.label "च्या मध्ये उघडा:">
 <!ENTITY openBtn.label "उघडा">
+<!ENTITY topTab.label "सद्याचे टॅब">

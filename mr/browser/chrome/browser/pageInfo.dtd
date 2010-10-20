@@ -81,3 +81,7 @@
 
 <!ENTITY  permAskAlways         "नेहमी विचारा">
 <!ENTITY  permGeo               "ठिकाण सहभागीय करा">
+
+<!ENTITY  permIndexedDB              "ऑफलाइन स्टोरेज जपवा">
+<!ENTITY  permClearStorage           "स्टोरेज नष्ट करा">
+<!ENTITY  permClearStorage.accesskey "C">
