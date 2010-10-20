@@ -15,7 +15,7 @@
 <!ENTITY malformedURI.longDesc "<p>ਦਿੱਤੇ ਐਡਰੈੱਸ ਦਾ ਫਾਰਮੈਟ ਪਛਾਣਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ। ਗਲਤੀਆਂ ਲਈ ਟਿਕਾਣਾ ਪੱਟੀ ਨੂੰ ਚੈੱਕ ਕਰੋ ਤੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</p>">
 
 <!ENTITY fileNotFound.title "ਫਾਇਲ ਨਹੀਂ ਲੱਭੀ">
-<!ENTITY fileNotFound.longDesc "<ul><li>Could the item have been renamed, removed, or relocated?</li><li>Is there a spelling, capitalization, or other typographical error in the address?</li><li>Do you have sufficient access permissions to the requested item?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>ਆਈਟਮ ਦਾ ਨਾਂ ਬਦਲਿਆ ਗਿਆ ਹੋ ਸਕਦਾ ਹੈ, ਹਟਾਇਆ ਗਿਆ ਹੋ ਸਕਦਾ ਹੈ ਜਾਂ ਹੋਰ ਥਾਂ ਭੇਜੀ ਗਈ ਹੋ ਸਕਦੀ ਹੈ?</li><li>ਕੋਈ ਸ਼ਬਦ ਗਲਤ ਲਿਖੇ ਗਏ ਹਨ, ਅੱਖਰ ਵੱਡੇ ਛੋਟੋ ਹੋ ਗਏ ਹਨ ਜਾਂ ਐਡਰੈੱਸ ਵਿੱਚ ਕੋਈ ਅੱਖਰ ਦੀ ਗਲਤੀ ਹੈ??</li><li>ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਮੰਗੀ ਗਈ ਆਈਟਮ ਦੀ ਵਰਤੋਂ ਲਈ ਢੁੱਕਵੇਂ ਅਧਿਕਾਰ ਹਨ?</li></ul>">
 
 <!ENTITY generic.title "ਮੰਗ ਪੂਰੀ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ">
 <!ENTITY generic.longDesc "<p>ਇਸ ਸਮੱਸਿਆ ਜਾਂ ਗਲਤੀ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਇਸ ਸਮੇਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।</p>">

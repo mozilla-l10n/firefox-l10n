@@ -179,3 +179,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "ਅਫਸੋਸ, ਪਰ ਰੀਲਿਜ਼ ਨੋਟਿਸ ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ।">
 
 <!ENTITY addon.createdBy.label                "ਵਲੋਂ ">
+
+<!ENTITY eula.title                           "ਅੰੰਤ ਯੂਜ਼ਰ ਲਾਈਸੈਂਸ ਇਕਰਾਰਨਾਮਾ">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "…ਮਨਜ਼ੂਰ ਤੇ ਇੰਸਟਾਲ">
