@@ -183,3 +183,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "المعذرة، ولكن حصل خطأ أثناء تحميل ملاحظات الإصدار.">
 
 <!ENTITY addon.createdBy.label                "طوّرها ">
+
+<!ENTITY eula.title                           "اتفاقية ترخيص المستخدم">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "أوافق وأثبّت…">
