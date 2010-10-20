@@ -10,22 +10,26 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Agid"> 
 <!ENTITY helpMenuWin.accesskey    "A">
-<!ENTITY aboutCmd.label           "Davart &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "D">
+<!ENTITY aboutProduct.label       "Davart &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "D">
 <!ENTITY productHelp.label        "Agid da &brandShortName;">
 <!ENTITY productHelp.accesskey    "d">
 <!ENTITY helpForIEUsers.label     "Per utilisaders da l'Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "P">
-<!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY helpMac.commandkey   "?">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Reaviar e deactivar supplements…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label         "Remartgas davart la versiun">
 <!ENTITY helpReleaseNotes.accesskey     "R">
 
-<!ENTITY helpTroubleshooting.label      "Infurmaziuns per schliar problems…">
-<!ENTITY helpTroubleshooting.accesskey  "p">
+<!ENTITY helpTroubleshootingInfo.label      "Infurmaziuns per schliar problems">
+<!ENTITY helpTroubleshootingInfo.accesskey  "p">
 
-<!ENTITY updateCmd.label                "&brandShortName; actualisar…">
+<!ENTITY helpFeedbackPage.label      "Trametter resun…">
+<!ENTITY helpFeedbackPage.accesskey  "s">
+
+<!ENTITY updateCmd.label                "Tschertgar actualisaziuns…">
 
 <!ENTITY preferencesCmdMac.label        "Preferenzas…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
