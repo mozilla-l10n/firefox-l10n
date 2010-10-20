@@ -53,7 +53,7 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Manage Account">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY viewQuota.label              "Դիտել քվոտան">
 <!ENTITY changePassword.label         "Փոխել Գաղտնաբառը">
 <!ENTITY mySyncKey.label              "My Sync Key">
 <!ENTITY resetSync.label              "Reset Sync">

@@ -90,11 +90,10 @@
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+<!ENTITY netOffline.overrideLongDesc "<ul>
+  <li>Ապանշեք &quot;Աշխատել Offline&quot; մենյուն, և փորձեք նորից.</li>
 </ul>
-">
+   ">
 
 <!ENTITY contentEncodingError.title "Բովանդակության Կոդավորման Սխալ">
 <!ENTITY contentEncodingError.longDesc "<ul>
@@ -193,9 +192,7 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<!ENTITY securityOverride.warningContent "<p>Դուք չպետք է ավելացնեք բացառություն, եթե դուք օգտվում եք մի ինտերնետ կապից, որին լիարժեք չեք վստահում, կամ եթե դուք սովոր չեք հետևել նախազգուշացմանը այս սպասարկիչի համար:</p> 
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

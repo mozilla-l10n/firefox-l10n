@@ -56,7 +56,7 @@
 <!ENTITY aboutSupport.appBasicsName "Անուն">
 <!ENTITY aboutSupport.appBasicsVersion "Տարբերակ">
 <!ENTITY aboutSupport.appBasicsProfileDir "Պրոֆիլի պահոց">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Միացված պլագիններ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Հավաքման ձևաչափ">
 <!ENTITY aboutSupport.appBasicsUserAgent "Օգտագործողի զննարկիչը">
 
@@ -71,7 +71,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Անուն">
 <!ENTITY aboutSupport.modifiedPrefsValue "Արժեքը">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Գրաֆիկա">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Տեղակայման մատյան">
 <!ENTITY aboutSupport.updateHistoryTitle "Թարմացումների մատյան">

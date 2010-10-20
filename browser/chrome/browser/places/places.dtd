@@ -53,7 +53,7 @@
 <!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Տեսք">
 <!ENTITY views.accesskey                "Տ">
-<!ENTITY views.tooltip                  "Change your view">
+<!ENTITY views.tooltip                  "Փոխել դիտելու ձևը">
 <!ENTITY view.columns.label             "Ցուցադրել սյուները">
 <!ENTITY view.columns.accesskey         "Ց">
 <!ENTITY view.sort.label                "Դասավորում">

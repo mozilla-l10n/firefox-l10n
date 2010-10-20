@@ -37,19 +37,19 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "Պահանջվող URL">
+<!ENTITY networkPanel.requestMethod               "Հարցուման մեթոդ">
+<!ENTITY networkPanel.statusCode                  "Կարգավիճակի Կոդ">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Հարցման գլխամաս">
+<!ENTITY networkPanel.requestCookie               "Ուղարկված քուուկի">
+<!ENTITY networkPanel.requestBody                 "Հարցման մարմին">
+<!ENTITY networkPanel.requestFormData             "Ուղարկված ձևի տվյալները">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
+<!ENTITY networkPanel.responseHeaders             "Արձագանքման գլխամաս">
+<!ENTITY networkPanel.responseBody                "Արձագանքման մարմին">
+<!ENTITY networkPanel.responseBodyCached          "Պահված տվյալներ">
+<!ENTITY networkPanel.responseBodyUnknownType     "Բովանդակության անհայտ տիպ">
+<!ENTITY networkPanel.responseNoBody              "Չկա արձագանքման մարմին">
 <!ENTITY networkPanel.responseImage               "Ստացված Նկարը">
 <!ENTITY networkPanel.responseImageCached         "Պահված Նկար">
