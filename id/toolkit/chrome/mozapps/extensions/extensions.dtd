@@ -179,3 +179,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, galat terjadi ketika memuat catatan rilis.">
 
 <!ENTITY addon.createdBy.label                "Oleh ">
+
+<!ENTITY eula.title                           "Perjanjian Lisensi Pengguna Akhir">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Terima dan Pasang…">
