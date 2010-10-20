@@ -185,3 +185,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Det uppstod tyvärr ett fel vid hämtningen av versionsfakta.">
 
 <!ENTITY addon.createdBy.label                "Av ">
+
+<!ENTITY eula.title                       "Licensavtal för slutanvändare">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "Acceptera och installera…">
