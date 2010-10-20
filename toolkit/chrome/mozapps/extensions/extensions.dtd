@@ -190,3 +190,8 @@ ar papildus funkcionalitāti vai stilu. Izmēģiniet laiku ietaupošo sānu josl
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "L">
 <!ENTITY updates.resetUpdatesToManual.label          "Likt visiem papildinājumiem atjaunināties manuāli">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "M">
+
+<!ENTITY eula.title                           "Produkta lietošanas nosacījumi">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Pieņemt un instalēt…">
