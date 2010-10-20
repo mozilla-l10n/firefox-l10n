@@ -46,5 +46,4 @@
 <!ENTITY clickFinish.label "முடிவு என்பதை சொடுக்கி &brandShortName;ஐ துவக்குவதை தொடரவும்.">
 <!ENTITY clickFinish.labelMac "முடிந்தது என்பதை சொடுக்கி &brandShortName;ஐ துவக்குவதை தொடரவும்.">
 <!ENTITY enableChecking.label "&brandShortName; ஐ மேம்படுத்தலை சரிபார்க்க அனுமதிக்கவும்.">
-<!ENTITY details.label "தகவல்கள்...">
-<!ENTITY details.accesskey "D">
+
