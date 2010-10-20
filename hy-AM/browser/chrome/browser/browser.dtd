@@ -152,7 +152,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Հաջորդ">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Գնալ Հաջորդ Էջ">
-<!ENTITY backForwardMenu.tooltip      "Վերջին Էջերը">
 <!ENTITY reloadCmd.label              "Վերբեռնել">
 <!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY reloadButton.tooltip         "Վերաբեռնավորել Տվյալ Էջը">
@@ -178,7 +177,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "Էջանիշի խմբեր">
 <!ENTITY tabGroupsButton.tooltip      "Խմբավորեք Ձեր էջերը">
 
-<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.label             "Բաժանորդագրվել">
 <!ENTITY feedButton.tooltip           "Բաժանորդագրվել այս էջին...">
 
 <!ENTITY bookmarksButton.label          "Էջանիշներ">
@@ -189,7 +188,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenuButton.label          "Էջանիշեր">
 <!ENTITY bookmarksMenuButton.tooltip        "Ցույց տալ ձեր էջանիշները">
 <!ENTITY bookmarksMenuButton.unsorted.label "Չկարգավորված Էջանիշեր">
-<!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
+<!ENTITY viewBookmarksSidebar.label         "Ցույց տալ Կողային վահանակում">
 <!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -238,9 +237,9 @@ can reach it easily. -->
 <!ENTITY inspectNextButton.accesskey  "Հ">
 <!ENTITY inspectPreviousButton.label  "Նախորդ">
 <!ENTITY inspectPreviousButton.accesskey "Ն">
-<!ENTITY inspectStyleButton.label     "Style">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Style">
+<!ENTITY inspectStyleButton.label     "Ոճը">
+<!ENTITY inspectStyleButton.accesskey "Ո">
+<!ENTITY inspectStylePanelTitle.label  "Ոճը">
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
@@ -294,8 +293,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Տեսք"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "Tab Groups">
-<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabGroups.label            "Էջանիշի խմբեր">
+<!ENTITY viewTabGroups.accesskey        "Է">
 <!ENTITY viewToolbarsMenu.label       "Վահանակներ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "Կողային վահանակ">
@@ -317,7 +316,7 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Սրբագրում">
-<!ENTITY appMenuCustomize.label "Customize">
+<!ENTITY appMenuCustomize.label "Կազմաձևել">
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Գտնել…">
@@ -328,7 +327,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Go to a Web Site">
+<!ENTITY urlbar.placeholder           "Անցնել Վեբ կայքի">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Switch to tab:">
 

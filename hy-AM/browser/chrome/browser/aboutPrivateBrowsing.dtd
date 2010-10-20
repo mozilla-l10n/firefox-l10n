@@ -56,8 +56,8 @@
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop2                "To stop Private Browsing, select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2                "Գաղտնի նավարկությունը դադարեցնելու համար, ընտրեք &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, կամ պակեք &brandShortName;-ը:">
+<!ENTITY privatebrowsingpage.howToStart2               "Գաղտնի նավարկություն սկսելու համար դուք նաև կարող էք նշել &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;:">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Այս համակարգիչը չի հիշի ձեր նավարկման պատմությունը, սակայն ձեր ինտերնետ ծառայություն տրամադրողը կամ աշխատակիցը կարող է հետևել ձեր այցելած էջերին:">
 <!ENTITY privatebrowsingpage.learnMore                 "Իմանալ ավելին">

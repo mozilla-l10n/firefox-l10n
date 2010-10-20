@@ -66,7 +66,7 @@
 
 <!ENTITY netOffline.title "Առանձ Կապի Եղանակ">
 <!ENTITY netOffline.longDesc "<p>Զննիչն աշխատում է առանձ կապի </p><ul><li>Արդյոք այս համակարգիչը մի՞ացած է ցանցին:</li><li>Միացրեք զննիչի կապը և կրկին փորձեք:</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Զննիչն աշխատում է առանձ կապի </p><ul><li>Արդյոք այս համակարգիչը մի՞ացած է ցանցին:</li><li>Միացրեք զննիչի կապը և կրկին փորձեք:</li></ul>">
 
 <!ENTITY contentEncodingError.title "Բովանդակության Կոդավորման Սխալ">
 <!ENTITY contentEncodingError.longDesc "<p>Էջը, որը դուք փորձում էք դիտել, չի կարող ցուցադրվել, քանի որ այն օգտագործում է սխալ կամ չսպասարկվող խտացման ձև:</p><ul><li>Խնդրեմ կապնվեք կայքի ադմինիստրատորին և տեղյակ պահեք այս պռոբլեմի մասին:</li></ul>">
@@ -113,13 +113,11 @@
 <p>Վեբ կայքի սեփականատերերը, ովքեր կարծում են որ իրենց կայքը սխալմամբ հայտարարվել է որպես հարձակվող կայք, կարող են <a href='http://www.stopbadware.org/home/reviewinfo' >պահանջել վերանայում</a>:</p>">
 
 <!ENTITY phishingBlocked.title "Այս կայքը կասկածվում է խաբեբայության մեջ!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.longDesc "<p>Այս էջում որևէ անձնական տեղեկատվություն մուտքագրելը կարող է հանգել անձնական տվյալների գողության կամ այլ կեղծիքի:</p>
+<p>Այս կարգի վեբ կեղծիքները օգտագործվում են խաբեությունների մեջ,որոնք հայտնի են որպես ֆիշինգ հարձակումներ,որոնց ժամանակ կեղծ վեբ էջեր կամ էլեկտրոնային փոստեր են օգտագործվում նմանակելու համար այնպիսի աղբյուրներ, որոնց դուք կարող եք վստահել:</p>   ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Արգելափակվել է Կոնտենտի Անվտանգության Քաղաքականության կողմից">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Դիտարկիչը կանխել է այս էջի բացումը, քանզի էջը պարունակում է անվտանգության քաղաքականությունը մերժող բովանդակություն։</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
