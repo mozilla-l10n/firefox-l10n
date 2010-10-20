@@ -34,9 +34,10 @@
 <!ENTITY personalbarCmd.label "ओळखचिन्हांचा  ठूलबार">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "साधनपट्टीतील घटकांना ओळखचिन्ह लावा">
+<!--
 <!ENTITY taskbarCmd.label "स्थिती पट्टी">
 <!ENTITY taskbarCmd.accesskey "B">
-
+-->
 <!ENTITY pageSourceCmd.label "पानाचे उगमस्थान">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -87,10 +88,11 @@
 
 <!ENTITY bookmarksButton.label "">
 <!ENTITY bookmarksButton.tooltip "आपले ओळखचिन्ह दर्शवा">
+<!--
 <!ENTITY bookmarksSidebarCmd.accesskey "B">
 <!ENTITY bookmarksSidebarCmd.commandkey "b">
 <!ENTITY bookmarksSidebarWinCmd.commandkey "i">
-
+-->
 <!ENTITY historyButton.label "मागोवा">
 <!ENTITY historyButton.tooltip "तुम्ही नुकतेच पाहिलेले पाने दर्शवा">
 <!ENTITY historySidebarCmd.accesskey "s">
@@ -178,7 +180,7 @@
  -->
 
 <!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
+<!-- <!ENTITY searchFocus.commandkey2 "e"> -->
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY openLinkCmd.label "दुवा नविन दृश्यचौकटी मधे  उघडा  ">
@@ -234,9 +236,11 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "चित्राची प्रत बनवा">
 <!ENTITY copyImageContentsCmd.accesskey "y">
+<!--
 <!ENTITY blockImageCmd.accesskey "g">
 <!ENTITY metadataCmd.label "गुणधर्म">
 <!ENTITY metadataCmd.accesskey "P">
+-->
 <!ENTITY copyEmailCmd.label "इ-मेल पत्त्याची प्रत बनवा">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "हि फ्रेम">
@@ -312,13 +316,18 @@
 <!ENTITY addCurPagesCmd.label "सर्व टॅब्सला ओळखचिन्ह लावा...">
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY errorConsoleCmd.label        "त्रूटी कंसोल">
+
+<!--
 <!ENTITY addons.tooltip               "प्रतिष्ठापीत  ऍडऑन दर्शवा व नियंत्रीत करा">
+-->
+
 <!ENTITY quitApplicationCmdMac.label    "बाहेर पडा">
 
 <!ENTITY historyMenu.label "इतिहास">
 
-<!--July 24-->
+<!--
 <!ENTITY backForwardMenu.tooltip      "अलिकडील पाने">
+-->
 <!ENTITY bookmarkPageCmd2.label       "या पानास ओळखचिन्ह लावा">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisFrameCmd.label      "या पटलास ओळखचिन्ह लावा">
@@ -328,16 +337,18 @@
 <!ENTITY bookmarkThisPageCmd.label "या पानास ओळखचिन्ह लावा">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY closeWindow.accesskey "d">
+<!--
 <!ENTITY copyLinkTextCmd.label        "लिंक पाठ्य प्रतिकृत करा">
 <!ENTITY copyLinkTextCmd.accesskey    "x">
+-->
 <!ENTITY downloadMonitor2.tooltip "डाऊनलोड चौकट उघडण्याकरीता क्लिक करा">
-<!ENTITY urlbar.emptyText             "ओळखचिन्ह व इतिहास">
+<!-- <!ENTITY urlbar.emptyText             "ओळखचिन्ह व इतिहास"> -->
 
 <!ENTITY showAllHistoryCmd2.label "सर्व इतिहास दर्शवा">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY printFrameCmd.label          "पटलची छपाई करा...">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY organizeBookmarks.label "ओळखचिन्ह नियोजीत करा...">
+<!-- <!ENTITY organizeBookmarks.label "ओळखचिन्ह नियोजीत करा..."> -->
 <!ENTITY identity.unverifiedsite2 "हे संकेत स्थळ ओळखविषयक माहिती पुरवित नाही.">
 <!ENTITY identity.connectedTo "तुम्ही याच्यासह जुळलेले आहात">
 <!ENTITY identity.runBy "जे यासह चालविले जाते">
@@ -367,16 +378,18 @@
 <!ENTITY editBookmark.cancel.label                   "रद्द करा">
 
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!--
 <!ENTITY editBookmark.undo.label                     "पुन्हा करा">
 <!ENTITY editBookmark.undo.accessKey                 "U">
 <!ENTITY editBookmark.edit.label                     "संपादन...">
 <!ENTITY editBookmark.edit.accessKey                 "E">
+-->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-
+<!--
 <!ENTITY clearRecentHistoryCmd.label            "अलिकडील इतिहास नष्ट करा">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
-
+-->
 
 <!ENTITY reloadImageCmd.label         "प्रतिमा पुन्ह दाखल करा">
 <!ENTITY reloadImageCmd.accesskey     "R">
@@ -406,7 +419,7 @@
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "नियंत्रण लपवा">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY ctrlTab.search.emptyText "टॅब शोधा">
+<!-- <!ENTITY ctrlTab.search.emptyText "टॅब शोधा"> -->
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "व्यक्तिगत संचारन सुरू करा">
@@ -417,14 +430,17 @@
 
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(व्यक्तिगत संचारन)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!--
 <!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+-->
 
 <!ENTITY bookmarksToolbarChevron.tooltip "आणखी ओळचिन्ह दर्शवा">
-
+<!--
 <!ENTITY urlbar.bookmarkhistory.emptyText "ओळखचिन्ह व इतिहास शोधा">
 <!ENTITY urlbar.bookmark.emptyText    "ओळखचिन्ह शोधा">
 <!ENTITY urlbar.history.emptyText     "इतिहास शोधा">
 <!ENTITY urlbar.none.emptyText        "वेब पत्ता टाइप करा">
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o"> 
+-->
 <!ENTITY historyUndoWindowMenu.label "अलिकडील बंद खिडकी">
 <!ENTITY newTabButton.tooltip           "नवीन टॅब उघडा">
