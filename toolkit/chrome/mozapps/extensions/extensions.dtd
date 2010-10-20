@@ -92,11 +92,11 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Skryť poznámky k vydaniu tejto aktualizácie">
 
 <!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+<!-- LOCALIZATION NOTE (discover.title,discover.description2,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Čo sú doplnky?">
-<!ENTITY discover.description                 "Doplnky sú malé aplikácie, ktoré umožňujú prispôsobiť si Firefox pomocou
-  nových funkcií alebo štýlov. Vyskúšajte bočný panel prinášajúci úsporu času, upozorňovanie na predpoveď počasia alebo nový vzhľad, ktorý urobí váš Firefox
+<!ENTITY discover.description2                "Doplnky sú malé aplikácie, ktoré umožňujú prispôsobiť si &brandShortName; pomocou
+  nových funkcií alebo štýlov. Vyskúšajte bočný panel prinášajúci úsporu času, upozorňovanie na predpoveď počasia alebo nový vzhľad, ktorý urobí váš &brandShortName;
   jedinečným.">
 <!ENTITY discover.footer                      "Ak je prehliadač pripojený k internetu, na tomto paneli
   sa zobrazujú najzaujímavejšie a najpopulárnejšie doplnky, ktoré stoja za vyskúšanie.">

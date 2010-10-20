@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Hlavičky odpovede">
 <!ENTITY networkPanel.responseBody                "Telo odpovede">
 <!ENTITY networkPanel.responseBodyCached          "Údaje vo vyrovnávacej pamäti">
+<!ENTITY networkPanel.responseBodyUnknownType     "Neznámy typ obsahu">
 <!ENTITY networkPanel.responseNoBody              "Žiadne telo odpovede">
 <!ENTITY networkPanel.responseImage               "Prijatý obrázok">
 <!ENTITY networkPanel.responseImageCached         "Obrázok vo vyrovnávacej pamäti">

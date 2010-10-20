@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Záložky">
 <!ENTITY bookmarksMenuButton.tooltip        "Zobraziť záložky">
+<!ENTITY bookmarksMenuButton.unsorted.label "Nezaradené záložky">
 <!ENTITY viewBookmarksSidebar.label         "Zobraziť v bočnom paneli">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
 
@@ -513,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Hotovo">
 <!ENTITY editBookmark.cancel.label                   "Zrušiť">
 <!ENTITY editBookmark.removeBookmark.accessKey       "O">
-<!ENTITY editBookmark.undo.label                     "Späť">
-<!ENTITY editBookmark.undo.accessKey                 "S">
-<!ENTITY editBookmark.edit.label                     "Upraviť…">
-<!ENTITY editBookmark.edit.accessKey                 "U">
 
 <!ENTITY identity.unverifiedsite2 "Táto webová stránka neposkytuje informácie o svojej identite.">
 <!ENTITY identity.connectedTo "Pripojené k stránke">
