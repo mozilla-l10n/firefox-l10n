@@ -444,3 +444,108 @@
 -->
 <!ENTITY historyUndoWindowMenu.label "अलिकडील बंद खिडकी">
 <!ENTITY newTabButton.tooltip           "नवीन टॅब उघडा">
+
+<!ENTITY  reloadTab.label                    "टॅब पुनःलोड करा">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "सर्व टॅब्स् पुनःलोड करा">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  closeOtherTabs.label               "इतर टॅब्स् बंद करा">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  pinAppTab.label                    "ॲप टॅब म्हणून पिन करा">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "टॅब पिन अशक्य करा">
+<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  moveToGroup.label                  "गटाकडे हलवा">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "नवीन गट">
+<!ENTITY  moveToNewWindow.label              "नवीन पटलावर हलवा">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  bookmarkAllTabs.label              "सर्व टॅब्स्ना ओळखचिन्ह लावा…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "टॅब बंद करा पूर्ववत् करा">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "टॅब बंद करा">
+<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  listAllTabs.label      "सर्व टॅब्स्ची सूची">
+<!ENTITY menubarCmd.label "मेन्यू पट्टी">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY addonBarCmd.label "ॲड-ऑन पट्टी">
+<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "सर्व टॅब्स् दाखवा">
+<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY showAllBookmarks.label "सर्व ओळखचिन्हे दाखवा…">
+<!ENTITY backForwardItem.title        "मागे/पुढे">
+<!ENTITY appMenuButton.label          "मेन्यू">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; मेन्यू उघडा">
+<!ENTITY tabGroupsButton.label        "गटांना टॅबमध्ये लावा">
+<!ENTITY tabGroupsButton.tooltip      "टॅब्स्ला गटामध्ये लावा">
+<!ENTITY feedButton.label             "सभासद व्हा">
+<!ENTITY feedButton.tooltip           "या पानावर सभासद व्हा…">
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksMenuButton.label          "ओळखचिन्हे">
+<!ENTITY bookmarksMenuButton.tooltip        "तुमचे ओळखचिन्हे दाखवा">
+<!ENTITY bookmarksMenuButton.unsorted.label "विनाक्रम ओळखचिन्हे">
+<!ENTITY viewBookmarksSidebar.label         "बाजूच्यापट्टीमध्ये दाखवा">
+<!ENTITY viewBookmarksToolbar.label         "ओळखचिन्हे साधनपट्टी दृष्य">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+<!ENTITY addons.commandkey            "A">
+<!ENTITY webConsoleCmd.label          "वेब कंसोल">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY inspectMenu.label            "तपास">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "तपास">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "पुढे">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "मागील">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "शैली">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "शैली">
+<!ENTITY inspectObjectButton.label       "ऑबजेक्ट">
+<!ENTITY inspectObjectButton.accesskey   "O">
+<!ENTITY clearRecentHistory.label               "ताजा इतिहास नष्ट करा…">
+<!ENTITY clearRecentHistory.accesskey           "H">
+<!ENTITY viewTabGroups.label            "गटांना टॅबमध्ये लावा">
+<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabsOnTop.label            "टॅब्स् वर हलवा">
+<!ENTITY viewTabsOnTop.accesskey        "T">
+<!ENTITY historyRestoreLastSession.label "मागील सत्र पूर्वस्थितीत आणा">
+<!ENTITY appMenuEdit.label "संपादीत करा">
+<!ENTITY appMenuCustomize.label "स्वपसंती">
+<!ENTITY appMenuToolbarLayout.label "साधनपट्टीची मांडणी…">
+<!ENTITY appMenuSidebars.label "बाजूच्यापट्ट्या">
+<!ENTITY appMenuFind.label "शोधा…">
+<!ENTITY appMenuUnsorted.label "विनाक्रम ओळखचिन्हे">
+<!ENTITY appMenuWebDeveloper.label "वेब डेव्हलपर">
+<!ENTITY appMenuGettingStarted.label "सुरवात">
+<!ENTITY appMenuSafeMode.label "बंद ॲडऑन्स् सह पुनःसुरू करा…">
+<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY urlbar.placeholder           "कोणत्याही संकेत स्थळावर जा">
+<!ENTITY urlbar.switchToTab.label     "टॅबचा वापर करा:">
+<!ENTITY tabView.commandkey           "e">
+<!ENTITY openLinkCmdInCurrent.label     "दुवा उघडा">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY viewImageInfoCmd.label       "प्रतिमा माहितीचे दृष्य">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY videoFullScreen.label       "पडदाभर">
+<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY fullScreenButton.tooltip       "पटलला पडदाभर असे दाखवा">
+<!ENTITY zoomOutButton.tooltip          "छोटे करा">
+<!ENTITY zoomInButton.tooltip           "मोठे करा">
+<!ENTITY zoomControls.label             "लहान/मोठे करा नियंत्रणे">
+<!ENTITY allTabs.filter.emptyText "टॅब्स् शोधा">
+<!ENTITY tabsToolbar.label "ब्राउजर टॅब्स्">
+<!ENTITY syncTabsMenu.label     "इतर संगणकपासूनचे टॅब्स्">
+<!ENTITY syncBrand.shortName.label    "ताळमेळ">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; मांडणी…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "आत्ता ताळमेळ करा">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "ताळमेळ">
