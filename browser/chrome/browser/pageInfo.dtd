@@ -125,4 +125,4 @@
 <!ENTITY  securityView.privacy.viewPasswords           "Vaata salvestatud paroole">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey "s">
 
-<!ENTITY  securityView.technical.header                "Tehnilised detailid">
+<!ENTITY  securityView.technical.header                "Tehnilised üksikasjad">
