@@ -129,7 +129,6 @@
 <!ENTITY forwardCmd.label "Uz priekšu">
 <!ENTITY forwardCmd.accesskey "P">
 <!ENTITY forwardButton.tooltip "Paiet vienu lapu uz priekšu">
-<!ENTITY backForwardMenu.tooltip "Nesenās lapas">
 <!ENTITY reloadCmd.label "Pārlādēt">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "Pārlādēt pašreizējo lapu">
