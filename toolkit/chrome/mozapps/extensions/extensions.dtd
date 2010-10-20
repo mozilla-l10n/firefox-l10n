@@ -166,3 +166,7 @@
 <!ENTITY addon.loadingReleaseNotes.label "Hleður…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Því miður kom upp villa við að sýna útgáfuupplýsingar.">
 <!ENTITY addon.createdBy.label "Frá ">
+<!ENTITY eula.title "Leyfisskilmálar notanda">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Samþykkja og setja inn…">
