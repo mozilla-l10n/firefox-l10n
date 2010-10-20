@@ -3,7 +3,7 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "ಅಂತರ್ಜಾಲವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಪ್ರಾಕ್ಸಿಗಳನ್ನು ಸಂರಚಿಸು">
+<!ENTITY  proxyTitle.label              "ಅಂತರಜಾಲವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಪ್ರಾಕ್ಸಿಗಳನ್ನು ಸಂರಚಿಸು">
 <!ENTITY  WPADTypeRadio.label           "ಈ ಜಾಲಬಂಧಕ್ಕೆ  ಪ್ರಾಕ್ಸಿ ಸಂಯೋಜನೆಗಳನ್ನು ನೀನಾಗಿಯೆ ಹುಡುಕು">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "ಹಸ್ತಮುಖೇನ ಪ್ರಾಕ್ಸಿ ಸಂರಚನೆ:">
@@ -14,8 +14,6 @@
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP ಪ್ರಾಕ್ಸಿ:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "ಗೋಫೆರ್ ಪ್ರಾಕ್ಸಿ:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP ಪ್ರಾಕ್ಸಿ:">
 <!ENTITY  http.accesskey                "y">
 <!ENTITY  ssl.label                     "SSL ಪ್ರಾಕ್ಸಿ:">
@@ -31,7 +29,6 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ಇದಕ್ಕೆ ಪ್ರಾಕ್ಸಿ ಇಲ್ಲ:">
 <!ENTITY  noproxy.accesskey             "n">

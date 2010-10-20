@@ -37,19 +37,12 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "ಇಲ್ಲಿಯವರೆಗೆ ಬಳಸು">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "ಕ್ಯಾಶೆಯಲ್ಲಿನ  MB ಸ್ಥಳಾವಕಾಶ ">
-
-
 <!ENTITY updateTab.label                 "ಅಪ್ಡೇಟ್‍">
 
 <!ENTITY autoCheck.label                 "ಇಲ್ಲಿಗೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್ಡೇಟುಗಳಿವೆಯೆ ಎಂದು ಹುಡುಕು:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "ಅನುಸ್ಥಾಪಿಸಲಾದ ಆಡ್‍-ಆನ್‍ಗಳು">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
-<!ENTITY enableSearchUpdate.label        "ಹುಡುಕು ಯಂತ್ರ">
+<!ENTITY enableSearchUpdate.label        "ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!ENTITY whenUpdatesFound.label          "&brandShortName; ಗಳಿಗೆ ಅಪ್ಡೇಟುಗಳು ಕಂಡುಬಂದಾಗ:">
 <!ENTITY askMe.label                     "ಏನು ಮಾಡಬೇಕೆಂದು ನನ್ನ ಅನುಮತಿ ಕೇಳು">
@@ -104,3 +97,26 @@
 <!ENTITY verify2.label                   "ಮಾನ್ಯಗೊಳಿಕೆ">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY offlineStorage.label            "ಆಫ್‌ಲೈನ್ ಶೇಖರಣೆ">
+
+<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY checkSpelling.label             "ನಾನು ಟೈಪ್ ಮಾಡಿದಂತೆಲ್ಲಾ ಕಾಗುಣಿತವನ್ನು ಪರಿಶೀಲಿಸು">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableSearchUpdate.label        "ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "ಕ್ಯಾಶೆಯನ್ನು ಇದಕ್ಕೆ ಮಿತಿಗೊಳಿಸು">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB ಯಷ್ಟು ಸ್ಥಳ">
+<!ENTITY overrideSmartCacheSize.label    "ಸ್ವಯಂಚಾಲಿತ ಕ್ಯಾಶೆ ನಿರ್ವಹಣೆಯನ್ನು ಅತಿಕ್ರಮಿಸು">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY submitCrashes.label             "ಕುಸಿತ ವರದಿಗಳನ್ನು ಸಲ್ಲಿಸಿ">
+<!ENTITY submitCrashes.accesskey         "S">
+
+<!ENTITY allowHWAccel.label              "ಲಭ್ಯವಿದ್ದಾಗ ಯಂತ್ರಾಂಶ ವೇಗವರ್ಧನೆಯನ್ನು ಬಳಸು">
+<!ENTITY allowHWAccel.accesskey          "h">
+

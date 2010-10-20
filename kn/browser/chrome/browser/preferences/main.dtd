@@ -5,9 +5,9 @@
 <!ENTITY startupHomePage.label     "ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರಿಸು">
 <!ENTITY startupBlankPage.label    "ಒಂದು ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು">
 <!ENTITY startupLastSession.label  "ಹಿಂದಿನ ಬಾರಿಯ ನನ್ನ ವಿಂಡೋಗಳನ್ನು ಹಾಗು ಹಾಳೆಗಳನ್ನು ತೋರಿಸು">
-<!ENTITY location.label            "ನೆಲೆ ಪುಟ:">
-<!ENTITY location.accesskey        "H">
 <!ENTITY useCurrentPage.label      "ಪ್ರಸ್ತುತ ಪುಟವನ್ನು ಬಳಸು">
+<!ENTITY homepage.label            "ನೆಲೆ ಪುಟ:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "ಪ್ರಸ್ತುತ ಪುಟಗಳನ್ನು ಬಳಸು ">
 <!ENTITY useBookmark.label         "ಬುಕ್‍ಮಾರ್ಕುಗಳನ್ನು ಬಳಸು ">
