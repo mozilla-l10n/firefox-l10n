@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Ymlaen">
 <!ENTITY forwardCmd.accesskey         "Y">
 <!ENTITY forwardButton.tooltip        "Ymlaen un tudalen">
-<!ENTITY backForwardMenu.tooltip      "Tudalennau diweddar">
 <!ENTITY reloadCmd.label              "Ail-lwytho">
 <!ENTITY reloadCmd.accesskey          "A">
 <!ENTITY reloadButton.tooltip         "Ail-lwytho'r dudalen gyfredol">
