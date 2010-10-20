@@ -70,3 +70,5 @@
 
 <!ENTITY  rememberSearchForm.label       "ಹುಡುಕು ಹಾಗು ಫಾರ್ಮ್ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
 <!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  dontrememberActions.post.label         ".">
+
