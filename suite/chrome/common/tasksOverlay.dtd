@@ -41,6 +41,7 @@
 
 <!ENTITY addonsManagerCmd.label "Administrador de complementos">
 <!ENTITY addonsManagerCmd.accesskey "A">
+<!ENTITY addonsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Cambiar de perfil…">
 <!ENTITY switchProfileCmd.accesskey "C">
