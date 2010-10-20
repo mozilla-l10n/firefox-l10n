@@ -19,6 +19,9 @@
 <!ENTITY  rememberActions.removeCookies.label "ବ୍ୟକ୍ତିଗତ କୁକିଗୁଡ଼ିକୁ କାଢି ପାରନ୍ତି">
 <!ENTITY  rememberActions.post.label          ".">
 <!ENTITY  rememberDescription.label      "&brandShortName; ଆପଣଙ୍କର ବ୍ରାଉଜିଙ୍ଗ, ଆହରଣ, ଫର୍ମ ଏବଂ ସନ୍ଧାନ ପୁରୁଣା ତଥ୍ୟକୁ କୁ ମନେ ରଖିବ, ଏବଂ ଆପଣ ପରିଦର୍ଶନ କରିଥିବା ୱେବ ସାଇଟଗୁଡ଼ିକର କୁକିଗୁଡ଼ିକୁ ରଖିବ।">
+<!ENTITY  rememberDownload.label         "ଆହରଣ ପୁରୁଣା ତଥ୍ୟକୁ ମନେରଖନ୍ତୁ">
+<!ENTITY  rememberDownload.accesskey     "d">
+
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପରି ସମାନ ସଂରଚନାକୁ ବ୍ୟବହାର କରିବ, ଏବଂ ଆପଣ ବ୍ରାଉଜ କରୁଥିବା ସମୟରେ କୌଣସି ପୁରୁଣା ତଥ୍ୟକୁ ମନେ ରଖିବ ନାହିଁ।">
 
@@ -28,8 +31,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ସଫା କରିବା ପାଇଁ ଇଚ୍ଛା କରିପାରନ୍ତି">
 <!ENTITY  dontrememberActions.post.label         "।">
 
-<!ENTITY  rememberDownloads.label       "ମୁଁ ଯାହା ଆହରଣ କରିଛି ତାକୁ ମନେରଖନ୍ତୁ">
-<!ENTITY  rememberDownloads.accesskey   "d">
+
 <!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "ପୁରୁଣା ତଥ୍ୟକୁ ମନେ ରଖନ୍ତୁ">
