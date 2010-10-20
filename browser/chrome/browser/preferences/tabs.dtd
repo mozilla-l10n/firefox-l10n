@@ -12,3 +12,7 @@
 
 <!ENTITY newWindowsAsTabs.label       "ಬದಲಿಗೆ ಹೊಸ ವಿಂಡೋಗಳನ್ನು ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
+
+<!ENTITY showTabsInTaskbar.label          "ಹಾಳೆಗಳ ಮುನ್ನೋಟವನ್ನು ವಿಂಡೋಸ್ ಕಾರ್ಯಪಟ್ಟಿಕೆಯಲ್ಲಿ ತೋರಿಸು">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
+

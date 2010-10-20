@@ -33,15 +33,6 @@
 <!ENTITY  changeMasterPassword.label     "ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸು...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-
-
-<!ENTITY  warnings.label                "ಎಚ್ಚರಿಕಾ ಸಂದೇಶಗಳು">
-
-<!ENTITY  chooseWarnings.label          "ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವ ಎಚ್ಚರಿಕಾ ಸಂದೇಶಗಳು ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕು ಎಂದು ಆರಿಸಿ">
-
-<!ENTITY  warningSettings.label         "ಸಂಯೋಜನೆಗಳು...">
-<!ENTITY  warningSettings.accesskey     "S">
-
 <!ENTITY  savedPasswords.label            "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು…">
 <!ENTITY  savedPasswords.accesskey        "P">
 
