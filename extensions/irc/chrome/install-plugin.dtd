@@ -1,4 +1,4 @@
-!ENTITY windowtitle                    "Installera tillägg…">
+<!ENTITY windowtitle                    "Installera tillägg…">
 
 <!ENTITY name.label                     "Namn:">
 <!ENTITY name.accesskey                 "N">
