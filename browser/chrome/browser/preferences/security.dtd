@@ -27,10 +27,6 @@
 <!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "मुख्य गुप्तशब्द बदलवा...">
 <!ENTITY  changeMasterPassword.accesskey "M">
-<!ENTITY  warnings.label                "सावधानतेचे संदेश">
-<!ENTITY  chooseWarnings.label          "कुठले सावधानतेचे संदेश तुम्हाला संचार करतेवेळी पाहिचे आहे ते निवडा">
-<!ENTITY  warningSettings.label         "रचना...">
-<!ENTITY  warningSettings.accesskey     "S">
 
 <!ENTITY  savedPasswords.label            "संचयीत गुप्तशब्द…">
 <!ENTITY  savedPasswords.accesskey        "P">
