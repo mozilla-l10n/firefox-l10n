@@ -45,7 +45,7 @@
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "প্রাসঙ্গিক মেনু নিষ্ক্রিয় অথবা প্রতিস্থাপন করতে">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "স্ট্যাটাস বার লুকিয়ে ফেলতে">
-<!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "স্ট্যাটাস বারের উপর লেখা তথ্য পরিবর্তন করতে">
-<!ENTITY changeStatusBar.accesskey      "C">
+<!-- ENTITY hideStatusBar.label            "স্ট্যাটাস বার লুকিয়ে ফেলতে" -->
+<!-- ENTITY hideStatusBar.accesskey        "H" -->
+<!-- ENTITY changeStatusBar.label          "স্ট্যাটাস বারের উপর লেখা তথ্য পরিবর্তন করতে" -->
+<!-- ENTITY changeStatusBar.accesskey      "C" -->

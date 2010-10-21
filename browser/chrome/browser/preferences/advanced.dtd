@@ -41,9 +41,9 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "ক্যাশের জন্য">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB অবধি স্থান পূরণ করা হবে">
+<!-- ENTITY useCacheBefore.label            "ক্যাশের জন্য" -->
+<!-- ENTITY useCacheBefore.accesskey        "U" -->
+<!-- ENTITY useCacheAfter.label             "MB অবধি স্থান পূরণ করা হবে" -->
 
 
 <!ENTITY updateTab.label                 "আপডেট">
@@ -51,8 +51,8 @@
 <!ENTITY autoCheck.label                 "নিম্নলিখিত সামগ্রীর জন্য স্বয়ংক্রিয়রূপে আপডেট পরীক্ষা করা হবে:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "ইনস্টল করা অতিরিক্ত সামগ্রী">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!-- ENTITY enableAddonsUpdate.label        "ইনস্টল করা অতিরিক্ত সামগ্রী" -->
+<!-- ENTITY enableAddonsUpdate.accesskey    "n" -->
 <!ENTITY enableSearchUpdate.label        "অনুসন্ধান ব্যবস্থা">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!ENTITY whenUpdatesFound.label          "&brandShortName;-র আপডেট সনাক্ত করা হলে:">
@@ -64,8 +64,10 @@
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!ENTITY updateHistory.label             "আপডেট কর্ম সংক্রান্ত পূর্ববর্তী তথ্য প্রদর্শন">
 <!ENTITY updateHistory.accesskey         "p">
-
-
+<!ENTITY allowHWAccel.label              "হার্ডওয়্যার গতিবৃদ্ধির ব্যবস্থা উপলব্ধ থাকলে তা ব্যবহার করা হবে">
+<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY enableAddonsUpdate2.label       "অতিরিক্ত সামগ্রী">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY encryptionTab.label             "এনক্রিপশন">
 
 <!ENTITY protocols.label                 "প্রোটোকল">
@@ -95,9 +97,25 @@
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "এই মুহূর্তে পরীক্ষা করা হবে">
 <!ENTITY checkNow.accesskey              "N">
+<!ENTITY submitCrashes.label             "বিপর্যয়ের রিপোর্ট দায়ের করা হবে">
+<!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY offlineStorage.label            "অফ-লাইন অবস্থায় সংরক্ষণ">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "ক্যাশের মান">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "মেগাবাইট অবধি সীমিত করা হবে">
+
 <!ENTITY clearCacheNow.label             "এই মুহূর্তে মুছে ফেলা হবে">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY overrideSmartCacheSize.label    "স্বয়ংক্রিয় ক্যাশে পরিচালন ব্যবস্থা উপেক্ষা করা হবে">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+
 <!ENTITY offlineNotify.label             "অফ-লাইন অবস্থায় ব্যবহারের জন্য কোনো ওয়েব-সাইট দ্বারা তথ্য সংরক্ষণের প্রচেষ্টা করা হলে আমাকে সূচিত করা হবে">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "ব্যতিক্রম…">
