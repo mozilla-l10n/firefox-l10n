@@ -8,3 +8,5 @@
 
 <!ENTITY blocklist.accept.label      "&brandShortName;ஐ மறுதுவக்கவும்">
 <!ENTITY blocklist.accept.accesskey  "R">
+<!ENTITY blocklist.blocked.label     "தடுக்கப்பட்டுள்ளது">
+<!ENTITY blocklist.checkbox.label    "செயல்நீக்கு">
