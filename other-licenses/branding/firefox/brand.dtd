@@ -1,4 +1,6 @@
 <!ENTITY  brandShortName        "Firefox">
 <!ENTITY  brandFullName         "Mozilla Firefox">
 <!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  logoCopyright         "Firefox અને Firefox લોગો એ Mozilla ફાઉન્ડેશનના ટ્રેડમાર્ક છે. બધા નિયમો આરક્ષિત છે.">
+<!ENTITY  trademarkInfo.part1   "Firefox and the Firefox logos are trademarks of the Mozilla Foundation.">
+<!ENTITY  trademarkInfo.part2   "Some of the trademarks used under license from The Charlton Company.">
+
