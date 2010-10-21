@@ -43,19 +43,19 @@
 
 <!ENTITY updateHistory.label             "अद्ययावत इतिहास दर्शवा">
 
-<!ENTITY useCacheBefore.label            "तोपर्यंतच वापरा जोपर्यंत">
+<!-- <!ENTITY useCacheBefore.label            "तोपर्यंतच वापरा जोपर्यंत"> -->
 <!ENTITY connectionDesc.label            "&brandShortName; ची इंटरनेटशी जुळणीकरता संरचना करा ">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY useCacheBefore.accesskey        "U">
+<!-- <!ENTITY useCacheBefore.accesskey        "U"> -->
 <!ENTITY updateHistory.accesskey         "p">
 <!ENTITY connection.label                "जोडणी">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY certs.auto                      "आपोआप निवडा">
 
 <!ENTITY connectionSettings.accesskey    "e">
-<!ENTITY enableAddonsUpdate.label        "ऍडऑन प्रतिष्ठापीत केले">
+<!-- <!ENTITY enableAddonsUpdate.label        "ऍडऑन प्रतिष्ठापीत केले"> -->
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!-- <!ENTITY enableAddonsUpdate.accesskey    "n"> -->
 <!ENTITY encryptionTab.label             "कुटलिपी">
 <!ENTITY checkSpelling.label             "शब्दलेखन परस्पर लिहीतेवेळी तपासा">
 <!ENTITY askMe.accesskey                 "k">
@@ -67,7 +67,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY modeAutoAddonWarn.label         "कुठलेही ऍडऑन अकार्यन्वीत होत असल्यास मला सचेत करा">
 <!ENTITY connectionSettings.label        "संरचना...">
-<!ENTITY useCacheAfter.label             "कॅशकरता MB जागा">
+<!-- <!ENTITY useCacheAfter.label             "कॅशकरता MB जागा"> -->
 <!ENTITY viewCerts.label                 "प्रमाणपत्रे पहा">
 <!ENTITY askMe.label                     "मला काय करायचे हे विचारा">
 <!ENTITY useAutoScroll.label             "स्व वर खालीचा वापर करा">
@@ -95,3 +95,15 @@
 <!ENTITY certSelection.description       "जेव्हा सर्वर व्यक्तिगत प्रमाणपत्र करीता विनंती करतो:">
 <!ENTITY verify2.label                   "तपासणी">
 <!ENTITY verify2.accesskey               "V">
+
+<!ENTITY allowHWAccel.label              "उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा">
+<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY submitCrashes.label             "क्रॅश अहवाल सादर करा ">
+<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY limitCacheSizeBefore.label      "कॅशे याप्रमाणे मर्यादीत करा">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB मध्ये जागा">
+<!ENTITY overrideSmartCacheSize.label    "स्वयं कॅशे व्यवस्थापन खोडून पुनः लिहा">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY enableAddonsUpdate2.label       "ॲडऑन्स्">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">

@@ -5,8 +5,10 @@
 <!ENTITY startupHomePage.label     "माझे मुख्य पान दर्शवा">
 <!ENTITY startupBlankPage.label    "रिक्त पान दर्शवा">
 <!ENTITY startupLastSession.label  "शेवटच्या वेळे पासुन माझ्या चौकटी व टॅब दर्शवा">
+<!-- 
 <!ENTITY location.label            "मुख्य पान:">
 <!ENTITY location.accesskey        "H">
+-->
 <!ENTITY useCurrentPage.label      "सद्याचे पान वापरा">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "सद्याचे पान वापरा">
@@ -41,3 +43,6 @@
 <!ENTITY manageAddonsDescUnix2.label   "ऍड-ऑन करीता प्राधान्यक्रम बदलवा">
 <!ENTITY manageAddons.label            "ऍड-ऑन नियंत्रीत करा…">
 <!ENTITY manageAddons.accesskey        "M">
+
+<!ENTITY homepage.label            "Home Page:">
+<!ENTITY homepage.accesskey        "P">
