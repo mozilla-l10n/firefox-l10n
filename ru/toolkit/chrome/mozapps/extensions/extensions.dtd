@@ -145,3 +145,7 @@
 <!ENTITY addon.loadingReleaseNotes.label "Загрузка…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Простите, но при загрузке примечаний к выпуску произошла ошибка.">
 <!ENTITY addon.createdBy.label "От ">
+<!ENTITY eula.title "Лицензионное соглашение с конечным пользователем">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Принять и установить…">
