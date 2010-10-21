@@ -65,7 +65,7 @@
 <!ENTITY certmgr.deleteusercert.aftername "એકવાર પ્રમાણપત્ર દુર કર્યા પછી તમે એની સાથે એનક્રિપ્ટ કરેલો પત્ર વાંચી નહિ શકો.">
 <!ENTITY certmgr.certname "પ્રમાણપત્રનુ નામ">
 <!ENTITY certmgr.tokenname "સુરક્ષા સાધન">
-<!ENTITY certmgr.purpose "હેતુઓ">
+
 <!ENTITY certmgr.issued "ના રોજ પ્રમાણિત થયેલ">
 <!ENTITY certmgr.expires "ના રોજ સમાપ્ત થયેલ">
 <!ENTITY certmgr.email "ઇ-મેઇલ સરનામુ">
@@ -97,10 +97,10 @@
 <!ENTITY exceptionMgr.certstatus.caption      "પ્રમાણપત્ર પરિસ્થિતિ">
 <!ENTITY certmgr.orphans                      "તમારી પાસે ફાઈલ પર પ્રમાણપત્રો છે કે જેઓ અન્ય વર્ગોમાંના કોઈમાં પણ બંધબેસતા નથી:">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.typesofoverrides             "અપવાદો">
+
 <!ENTITY exceptionMgr.certlocation.download   "પ્રમાણપત્ર મેળવો">
 <!ENTITY certmgr.view2.label                   "જુઓ...">
-<!ENTITY certmgr.edit2.label                   "ફેરફાર…">
+
 <!ENTITY certmgr.export.label                 "નિકાસ…">
 <!ENTITY certmgr.addException.accesskey       "x">
 <!ENTITY certmgr.pending.label                "વર્તમાનમાં પ્રમાણપત્રની ખાતરી કરી રહ્યા છીએ...">
@@ -115,10 +115,14 @@
 <!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
 <!ENTITY certmgr.override_lifetime            "આજીવન">
-<!ENTITY certmgr.edit2.accesskey              "E">
+
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.delete2.accesskey            "D">
 <!ENTITY exceptionMgr.permanent.label         "આ અપવદને કાયમી રીતે સંગ્રહો">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.certserver                   "સર્વર">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.delete_builtin.label         "કાઢી નાંખો અથવા વિશ્ર્વાસ ન કરો…">
+<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "વિશ્ર્વાસમાં ફેરફાર કરો…">
