@@ -27,7 +27,7 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "বড় থেকে ছোট">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "বুকমার্কের ব্যবহার">
+<!-- ENTITY help.usingBookmarks.label      "বুকমার্কের ব্যবহার" -->
 <!-- ENTITY help.usingBookmarks.accesskey  "B" -->
 <!-- ENTITY help.usingHistory.label        "পূর্ববর্তী তথ্যের ব্যবহার" -->
 <!-- ENTITY help.usingHistory.accesskey    "i" -->
@@ -144,9 +144,10 @@
 <!ENTITY search.scopeFolder.accesskey              "F">
 <!ENTITY search.scopeBookmarks.label               "বুকমার্ক">
 <!ENTITY search.scopeBookmarks.accesskey           "k">
+<!ENTITY search.scopeDownloads.label               "ডাউনলোড">
 <!-- ENTITY search.scopeAll.label                     "সকল বুকমার্ক" -->
 <!-- ENTITY search.scopeAll.accesskey                 "A" -->
-<!ENTITY search.scopeMenu.label                    "বুকমার্ক মেনু">
+<!-- ENTITY search.scopeMenu.label                    "বুকমার্ক মেনু" -->
 <!-- ENTITY search.scopeMenu.accesskey                "M" -->
 <!-- ENTITY search.scopeToolbar.label                 "বুকমার্ক টুল-বার" -->
 <!-- ENTITY search.scopeToolbar.accesskey             "T" -->

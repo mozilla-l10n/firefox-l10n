@@ -60,6 +60,7 @@
 <!ENTITY  font.langGroup.telugu                   "তেলুগু">
 <!ENTITY  font.langGroup.kannada                  "কন্নড়">
 <!ENTITY  font.langGroup.sinhala                  "সিংহালা">
+<!ENTITY  font.langGroup.tibetan                  "তিব্বতি">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "ফন্টের সর্বনিম্ন মাপ:">
 <!ENTITY minSize.accesskey                        "o">

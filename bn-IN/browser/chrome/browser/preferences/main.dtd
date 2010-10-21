@@ -5,8 +5,10 @@
 <!ENTITY startupHomePage.label     "চিহ্নিত হোম পেজ প্রদর্শন করা হবে">
 <!ENTITY startupBlankPage.label    "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
 <!ENTITY startupLastSession.label  "সর্বশেষ ব্যবহারের সময় উপস্থিত উইন্ডো ও ট্যাব প্রদর্শন করা হবে">
-<!ENTITY location.label            "হোম পেজ:">
-<!ENTITY location.accesskey        "H">
+<!ENTITY homepage.label            "হোম পেজ:">
+<!ENTITY homepage.accesskey        "P">
+<!-- ENTITY location.label            "হোম পেজ:" -->
+<!-- ENTITY location.accesskey        "H" -->
 <!ENTITY useCurrentPage.label      "বর্তমান পৃষ্ঠা প্রয়োগ করা হবে">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "বর্তমান পৃষ্ঠাগুলি প্রয়োগ করা হবে">
