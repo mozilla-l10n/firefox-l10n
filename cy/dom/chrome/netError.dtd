@@ -13,7 +13,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>Nid yw'r porwr yn gallu canfod y gweinydd gwestai ar gyfer y cyfeiriad yma.</p><ul><li>A wnaethoch gamgymeriad wrth deipio'r cyfeiriad? (e.e. <q><strong>ww</strong>.mozilla.org</q> yn lle <q><strong>www</strong>.mozilla.org</q>)</li><li>Ydych chi'n siŵr fod yr enw parth yn bodoli?  Efallai bod ei gofrestriad wedi dod i ben.</li><li>Ydych chi'n methu pori i wefannau eraill?  Gwiriwch eich cysylltiad rhwydwaith a gweinydd DNS.</li><li>A yw eich cyfrifiadur wedi ei amddiffyn gyda mur cadarn a dirprwy? Gall gosodiadau anghywir ymyrryd â phori'r We.</li></ul>">
 
 <!ENTITY fileNotFound.title "Heb Ganfod Ffeil">
-<!ENTITY fileNotFound.longDesc "<ul><li>Efallai bod yr eitem wedi cael ei hailenwi, ei thynnu neu ei symud?</li><li>Oes yna wall sillafu, llythrennu neu wall teipio arall yn y cyfeiriad?</li><li>A oes gennych hawl digonol i gael mynediad at yr eitem hon?</li>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Efallai bod yr eitem wedi cael ei hailenwi, ei thynnu neu ei symud?</li><li>Oes yna wall sillafu, llythrennu neu wall teipio arall yn y cyfeiriad?</li><li>A oes gennych hawl digonol i gael mynediad at yr eitem hon?</li></ul>">
 
 <!ENTITY generic.title "Methu Cyflawni'r Cais">
 <!ENTITY generic.longDesc "<p>Nid oes gwybodaeth ar gael am y gwall neu broblem yma ar hyn o bryd.</p>">
