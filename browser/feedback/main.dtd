@@ -1,0 +1,31 @@
+<!ENTITY testpilot.brand.label                      "ಪರೀಕ್ಷಾರ್ಥ ಪೈಲಟ್">
+<!ENTITY testpilot.settings.label                   "ಸಿದ್ಧತೆಗಳು">
+<!ENTITY testpilot.settings.dataSubmission.label    "ದತ್ತಾಂಶ ಸಲ್ಲಿಸುವಿಕೆ">
+<!ENTITY testpilot.settings.notifications.label     "ಸೂಚನೆಗಳು">
+<!ENTITY testpilot.settings.notifyWhen.label        "ಈ ಸಂದರ್ಭದಲ್ಲಿ ನನಗೆ ಸೂಚಿಸು…">
+<!ENTITY testpilot.settings.readyToSubmit.label     "ಅಧ್ಯಯನವು ಸಲ್ಲಿಸಲು ಸಿದ್ಧಗೊಂಡಿದೆ">
+<!ENTITY testpilot.settings.newStudy.label          "ಒಂದು ಹೊಸ ಅಧ್ಯಯನವು ಇದೆ">
+<!ENTITY testpilot.settings.hasNewResults.label     "ಅಧ್ಯಯನವು ಹೊಸ ಫಲಿತಾಂಶಗಳನ್ನು ಹೊಂದಿದೆ">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನನ್ನ ದತ್ತಾಂಶವನ್ನು ಸಲ್ಲಿಸು (ನನ್ನನ್ನು ಕೇಳ ಬೇಡ)">
+<!ENTITY testpilot.allYourStudies.label             "ನಿಮ್ಮ ಎಲ್ಲಾ ಅಧ್ಯಯನಗಳು…">
+<!ENTITY testpilot.about.label                      "ಪರೀಕ್ಷಾರ್ಥ ಪೈಲಟ್ ಬಗ್ಗೆ">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "ನಿಮ್ಮ ಪರೀಕ್ಷಾರ್ಥ ಪೈಲಟ್ ಅಧ್ಯಯನಗಳು">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "ಪ್ರಸಕ್ತ ಅಧ್ಯಯನಗಳು">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "ಪೂರ್ಣಗೊಂಡ ಅಧ್ಯಯನಗಳು">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "ಅಧ್ಯಯನದಿಂದ ಕಂಡು ಬಂದ ಅಂಶಗಳು">
+<!ENTITY testpilot.studiesWindow.settings.label         "ಸಿದ್ಧತೆಗಳು">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ, ದಯವಿಟ್ಟು ಕಾಯಿರಿ…">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "ಪರೀಕ್ಷಾರ್ಥ ಪೈಲಟ್: ಕಚ್ಛಾ ದತ್ತಾಂಶ">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip            "Close">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                        "Turn On User Studies">
+<!ENTITY testpilot.feedbackbutton.label                "Feedback">
+<!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because…">
+<!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because…">
