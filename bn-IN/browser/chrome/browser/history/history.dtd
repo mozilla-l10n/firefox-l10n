@@ -22,7 +22,7 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "নতুন উইন্ডোর মধ্যে খুলুন">
 <!ENTITY openInNewWindow.accesskey "W">
-<!ENTITY bookmarkLink.label "চিহ্নিত লিঙ্ক বুকমার্ক করুন...">
-<!ENTITY bookmarkLink.accesskey "B">
+<!-- ENTITY bookmarkLink.label "চিহ্নিত লিঙ্ক বুকমার্ক করুন..." -->
+<!-- ENTITY bookmarkLink.accesskey "B" -->
 <!ENTITY copyLink.label "লিঙ্ক দ্বারা চিহ্নিত অবস্থান কপি করুন">
 <!ENTITY copyLink.accesskey "C">
