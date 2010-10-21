@@ -50,11 +50,6 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "ಆಫ್‍ಲೈನ್‍ ಕ್ರಮ">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>ಕಡತದ ಪರಿವಿಡಿಯಲ್ಲಿ  &quot;ಆಫ್‍ಲೈನಿನಲ್ಲಿ ಕೆಲಸಮಾಡು&quot; ನಲ್ಲಿ ಗುರುತು ಹಾಕಿದ್ದನ್ನು ತೆಗೆದು ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.</li>
-</ul>
-">
 
 <!ENTITY netReset.title "ಸಂಪರ್ಕವು ಮರಳಿ ಹೊಂದಿಸಲ್ಪಟ್ಟಿತು">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -152,8 +147,7 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>ನೀವು ಸಂಪೂರ್ಣವಾಗಿ ನಂಬದಿರುವ ಒಂದು ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕವನ್ನು ಬಳಸುತ್ತಿದ್ದಲ್ಲಿ ಅಥವಾ ಈ ಪರಿಚಾರಕದಿಂದ ಈ ಹಿಂದೆ ಯಾವುದೆ ಎಚ್ಚರಿಕಾ ಸಂದೇಶವು ಕಂಡು ಬಂದಿರದೆ ಇದ್ದಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ನೀವು ಒಂದು ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಬಾರದು.</p>
+
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
@@ -166,3 +160,29 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 </ul>
 ">
 <!ENTITY contentEncodingError.title "ವಿಷಯದ ಎನ್ಕೋಡಿಂಗ್‌ ದೋಷ">
+
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p> ಈ ಪುಟವನ್ನು ಈ ರೀತಿಯಲ್ಲಿ ಲೋಡ್ ಮಾಡುವುದಂತೆ  &brandShortName; ತಡೆದಿದೆ ಏಕೆಂದರೆ ಈ ಪುಟದಲ್ಲಿನ ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮವು ಇದಕ್ಕೆ ಅನುಮತಿ ನೀಡುವುದಿಲ್ಲ.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮದಿಂದ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ">
+
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>ಕಡತದ ಮೆನುವಿನಲ್ಲಿ  &quot;ಆಫ್‍ಲೈನಿನಲ್ಲಿ ಕೆಲಸಮಾಡು&quot; ನಲ್ಲಿ ಗುರುತು ಹಾಕಿದ್ದನ್ನು ತೆಗೆದು ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.</li>
+</ul>
+">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "
+<p>ನೀವು ಸಂಪೂರ್ಣವಾಗಿ ನಂಬದಿರುವ ಒಂದು ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕವನ್ನು ಬಳಸುತ್ತಿದ್ದಲ್ಲಿ ಅಥವಾ ಈ ಪರಿಚಾರಕದಿಂದ ಈ ಹಿಂದೆ ಯಾವುದೆ ಎಚ್ಚರಿಕಾ ಸಂದೇಶವು ಕಂಡು ಬಂದಿರದೆ ಇದ್ದಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ನೀವು ಒಂದು ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಬಾರದು.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
