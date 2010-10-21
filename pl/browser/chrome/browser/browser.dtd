@@ -123,7 +123,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Do przodu" >
 <!ENTITY forwardCmd.accesskey "P" >
 <!ENTITY forwardButton.tooltip "Przejdź do następnej strony" >
-<!ENTITY backForwardMenu.tooltip      "Ostatnio przeglądane strony">
 <!ENTITY reloadCmd.label "Odśwież" >
 <!ENTITY reloadCmd.accesskey "O" >
 <!ENTITY reloadButton.tooltip "Odśwież bieżącą stronę" >
