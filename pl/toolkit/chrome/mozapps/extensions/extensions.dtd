@@ -187,3 +187,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Przepraszamy, podczas pobierania informacji o wydaniu wystąpił błąd.">
 
 <!ENTITY addon.createdBy.label                "Autor: ">
+
+<!ENTITY eula.title                           "Umowa licencyjna użytkownika">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Zaakceptuj i zainstaluj…">
