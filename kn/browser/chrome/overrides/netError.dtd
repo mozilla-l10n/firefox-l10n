@@ -141,18 +141,6 @@
 <!ENTITY securityOverride.linkText "ಅಥವ ನೀವು ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಬಹದು…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ನನಗೆ ಇಲ್ಲಿಂದ ಹೊರಗೆ ಕೊಂಡೊಯ್ಯಿ!">
 <!ENTITY securityOverride.exceptionButtonLabel "ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸು…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
-
-
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
-
 <!ENTITY unsafeContentType.title "ಅಸುರಕ್ಷಿತ ಕಡತದ ಬಗೆ">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
