@@ -23,7 +23,7 @@
 <!ENTITY bottomLinks.privacy        "Directivas per la protecziun da datas">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Tschertga actualisaziuns disponiblas…">
+<!ENTITY update.checkingForUpdates  "Tschertgar actualisaziuns disponiblas…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Controllar la cumpatibilitad dals supplements…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
