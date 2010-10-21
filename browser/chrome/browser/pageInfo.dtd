@@ -40,8 +40,8 @@
 <!-- ENTITY  title                 "পেজ সম্পর্কিত তথ্য" -->
 <!-- ENTITY  description           "বর্তমান পেজ সম্পর্কিত তথ্য" -->
 
-<!ENTITY  pageInfoWindow.width  "৪২৫">
-<!ENTITY  pageInfoWindow.height "৪৭০">
+<!ENTITY  pageInfoWindow.width  "৬০০">
+<!ENTITY  pageInfoWindow.height "৫০০">
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "কপি করুন">
@@ -139,6 +139,14 @@
 <!-- ENTITY  generalSecurityMore   "অতিরিক্ত" -->
 <!-- ENTITY  generalSecurityMore.accesskey "o" -->
 
+
+
+<!ENTITY  permAskAlways         "সর্বদা জিজ্ঞাসা করা হবে">
+<!ENTITY  permGeo               "অবস্থানের তথ্য প্রকাশ করা হবে">
+
+<!ENTITY  permIndexedDB              "অফ-লাইন সংগ্রহস্থল রক্ষণাবেক্ষণ করা হবে">
+<!ENTITY  permClearStorage           "সংগ্রহস্থলের তথ্য মুছে পরিশ্রুত করুন">
+<!ENTITY  permClearStorage.accesskey "C">
 <!ENTITY  permAllow             "অনুমোদন করুন">
 <!ENTITY  permAllowSession      "সেশানের জন্য অনুমোদন করুন">
 <!ENTITY  permBlock             "প্রতিরোধ করুন">
