@@ -12,7 +12,9 @@
 <!ENTITY raiseLowerWindows.accesskey "R">
 <!ENTITY disableContextMenus.label "स्थितीजन्य मेनु अकार्यान्वीत करा किंवा बदला">
 <!ENTITY disableContextMenus.accesskey "D">
+<!-- 
 <!ENTITY hideStatusBar.label "स्थितीदर्शक लपवा">
 <!ENTITY hideStatusBar.accesskey "H">
 <!ENTITY changeStatusBar.label "स्थितीदर्शक वरील मजकूर बदला">
 <!ENTITY changeStatusBar.accesskey "C">
+-->

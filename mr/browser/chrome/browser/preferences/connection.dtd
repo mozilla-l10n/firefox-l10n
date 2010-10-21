@@ -12,8 +12,8 @@
 <!ENTITY reload.accesskey "e">
 <!ENTITY ftp.label "एफ् टी पी (FTP) प्रतिनिधी:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "गोफर प्रतिनिधी:">
-<!ENTITY gopher.accesskey "G">
+<!-- <!ENTITY gopher.label "गोफर प्रतिनिधी:">
+<!ENTITY gopher.accesskey "G"> -->
 <!ENTITY http.label "एच् टी टी पी(HTTP) प्रतिनिधी:">
 <!ENTITY http.accesskey "y">
 <!ENTITY ssl.label "एस् एस् एल्(SSL) प्रतिनिधी:">
@@ -29,7 +29,7 @@
 <!ENTITY SSLport.accesskey "o">
 <!ENTITY FTPport.accesskey "r">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "">
+<!-- <!ENTITY gopherPort.accesskey ""> -->
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "यासाठी प्रतिनिधी नाही:">
 <!ENTITY noproxy.accesskey "n">
