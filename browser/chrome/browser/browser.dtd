@@ -105,7 +105,6 @@
 <!ENTITY forwardCmd.label "Endavant">
 <!ENTITY forwardCmd.accesskey "t">
 <!ENTITY forwardButton.tooltip "Vés una pàgina endavant">
-<!ENTITY backForwardMenu.tooltip      "Pàgines recents">
 <!ENTITY reloadCmd.label "Actualitza">
 <!ENTITY reloadCmd.accesskey "z">
 <!ENTITY reloadButton.tooltip "Actualitza la pàgina actual">
