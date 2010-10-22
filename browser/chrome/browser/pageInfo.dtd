@@ -125,3 +125,6 @@
 
 <!ENTITY  permAskAlways         "எப்போதும் கேள்">
 <!ENTITY  permGeo               "இடத்தைப் பகிர்">
+<!ENTITY  permClearStorage           "சேமிப்பகத்தை துடை">
+<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permIndexedDB              "ஆஃப்லைன் சேமிப்பகத்தை பராமரிக்கவும்">

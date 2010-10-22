@@ -102,14 +102,14 @@
 <!ENTITY saveSearch.accesskey                      "S">
 
 <!ENTITY cmd.find.key  "f">
-
+<!ENTITY forwardCmd.label       "முன்னால்">
+<!ENTITY maintenance.tooltip    "உங்கள் புத்தகக்குறிகளை ஏற்றி பிரதியெடுக்கவும்">
 <!ENTITY maintenance.label      "இறக்குமதி மற்றும் பின்சேமிப்பு">
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "பின்னால்">
 <!ENTITY backButton.tooltip  "பின்னால் செல்">
 
-<!ENTITY forwardCmd.accesskey   "F">
 <!ENTITY forwardButton.tooltip  "முன்னால் செல்">
 
 <!ENTITY detailsPane.more.label "அதிகப்படியாக">
@@ -118,3 +118,8 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "முன்பார்வை">
 <!ENTITY detailsPane.selectAnItemText.description "ஒரு உருப்படியை அதன் தன்மைகளை பார்க்க மற்றும் திருத்த தேர்ந்தெடுக்கவும்">
+<!ENTITY cmd.bookmarkLink.label         "இந்தப் பக்கத்தைப் புத்தகக்குறியிடு…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
+
+<!ENTITY organize.tooltip      "உங்கள் புத்தகக்குறிகளை ஒழுங்குப்படுத்து">
+<!ENTITY views.tooltip                  "உங்கள் பார்வையை மாற்றவும்">
