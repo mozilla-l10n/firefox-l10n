@@ -56,5 +56,5 @@
 <!ENTITY  clickFinish.label               "&brandShortName; আরম্ভের জন্য সমাপ্তি ক্লিক করুন।">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; আরম্ভের জন্য Done ক্লিক করুন।">
 <!ENTITY  enableChecking.label            "&brandShortName; দ্বারা আপডেট পরীক্ষণের অনুমতি প্রদান করা হবে।">
-<!ENTITY  details.label                   "বিবিরণ...">
-<!ENTITY  details.accesskey               "D">
+<!-- ENTITY  details.label                   "বিবরণ..." -->
+<!-- ENTITY  details.accesskey               "D" -->

@@ -24,16 +24,16 @@
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
 <!ENTITY about.buildconfig.afterTheLink  " দেখুন।">
 
-<!--
-<!ENTITY about.copy.beforeLink        "স্বত্বাধিকার &copy; ১৯৯৮-২০০৮" >
-<!ENTITY about.copy.afterLink         "Mozilla প্রজেক্টে" >
-<!ENTITY about.copy.linkTitle         "অংশগ্রহণকারীদের।">
-<!ENTITY about.license.beforeLink     "এই উৎপাদনের" >
-<!ENTITY about.license.afterLink      "পড়ুন।" >
-<!ENTITY about.relnotes.beforeLink    "বর্তমান সংস্করণের">
-<!ENTITY about.relnotes.afterLink     "পড়ুন।">
-<!ENTITY about.buildconfig.beforeLink "এই সংস্করণে ব্যবহৃত">
-<!ENTITY about.buildconfig.afterLink  "দেখুন।" >
--->
+
+<!-- ENTITY about.copy.beforeLink        "স্বত্বাধিকার &copy; ১৯৯৮-২০০৮"  -->
+<!-- ENTITY about.copy.afterLink         "Mozilla প্রজেক্টে"  -->
+<!-- ENTITY about.copy.linkTitle         "অংশগ্রহণকারীদের।" -->
+<!-- ENTITY about.license.beforeLink     "এই উৎপাদনের"  -->
+<!-- ENTITY about.license.afterLink      "পড়ুন।"  -->
+<!-- ENTITY about.relnotes.beforeLink    "বর্তমান সংস্করণের" -->
+<!-- ENTITY about.relnotes.afterLink     "পড়ুন।" -->
+<!-- ENTITY about.buildconfig.beforeLink "এই সংস্করণে ব্যবহৃত" -->
+<!-- ENTITY about.buildconfig.afterLink  "দেখুন।"  -->
+
 
 
