@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader.label           "Бета-тест">
+
+<!ENTITY feedback.communicate.title     "Поговоріть з нами!">
+<!ENTITY feedback.feedback.title        "Надіслати відгук">
+<!ENTITY feedback.feedback.good         "Добрий">
+<!ENTITY feedback.feedback.bad          "Поганий">
+
+<!ENTITY feedback.information.title     "Детальніше">
+<!ENTITY feedback.about.title           "Про цю бету">
+<!ENTITY feedback.about.button          "До сторінки">
+
+<!ENTITY feedback.tools.title           "Інструменти">
+<!ENTITY feedback.forceCompat.title     "Примусова сумісність додатків">
+<!ENTITY feedback.errorConsole.title    "Увімкнути консоль помилок">
