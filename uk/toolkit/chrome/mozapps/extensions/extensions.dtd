@@ -183,3 +183,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Шкода, але під час завантаження приміток сталася помилка.">
 
 <!ENTITY addon.createdBy.label                "Від ">
+
+<!ENTITY eula.title                           "Ліцензійна угода з кінцевим користувачем">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Прийняти та встановити…">
