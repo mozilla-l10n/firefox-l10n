@@ -1,6 +1,6 @@
 <!ENTITY  updateWizard.title              "সফ্টওয়্যার আপডেট ব্যবস্থা">
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
+<!-- ENTITY  window.width                    "36em" -->
+<!-- ENTITY  window.macWidth                 "39em" -->
 
 <!ENTITY  checking.title                  "আপডেট পরীক্ষা করা হয়েছে">
 <!-- ENTITY  checking.label                  "&brandShortName;-র দ্বারা বর্তমানে উপলব্ধ আপডেট পরীক্ষা করা হচ্ছে..." -->
@@ -29,6 +29,7 @@
 
 <!-- ENTITY  listIncompatible.label          "তালিকা প্রদর্শন" -->
 <!-- ENTITY  listIncompatible.accesskey      "L" -->
+<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 
 <!ENTITY  noupdatesautodisabled.intro     "কোনো আপডেট উপলব্ধ নেই। অনুগ্রহ করে পরে কোনো সময় পরীক্ষা করুন অথবা 
                                            &brandShortName;-র স্বয়ংক্রিয় আপডেট পরীক্ষণ ব্যবস্থা সক্রিয় করুন।">
@@ -51,7 +52,7 @@
 <!ENTITY  license.decline                 "চুক্তিপত্রের শর্তে আমি সম্মত নই">
 <!ENTITY  license.decline.accesskey       "T">
 
-<!ENTITY  downloading.title               "আপডেট ডাউনলোড প্রণালী">
+<!-- ENTITY  downloading.title               "আপডেট ডাউনলোড প্রণালী" -->
 <!ENTITY  downloading.intro               "আপডেট ডাউনলোড করা হচ্ছে...">
 <!ENTITY  connecting.label                "আপডেট সার্ভারের সাথে সংযোগ করা হচ্ছে...">
 <!ENTITY  verificationFailedText.label    "&brandShortName;-র দ্বারা ডাউনলোড করার ক্রমবর্ধমান 
@@ -66,13 +67,22 @@
 
 <!ENTITY  error.label                     "চিহ্নিত আপডেট অনুসন্ধান, ডাউনলোড অথবা ইনস্টল করতে সমস্যা 
                                            উৎপন্ন হয়েছে। উল্লিখিত কারণের জন্য &brandShortName;  আপডেট করা যায়নি:">
+
+<!ENTITY  error.title                     "আপডেট করতে ব্যর্থ">
                                            
 <!ENTITY  errorManual.label               "উল্লিখিত লিঙ্ক থেকে আপনি সর্বশেষ উপলব্ধ সংস্করণ ডাউনলোড করে নিজে &brandShortName; 
                                            ইনস্টল করতে পারবেন:">
                                            
-<!ENTITY  errorpatching.title             "আপডেট কর্ম ব্যর্থ">
+<!-- ENTITY  errorpatching.title             "আপডেট কর্ম ব্যর্থ" -->
 <!ENTITY  errorpatching.intro             "আংশিক আপডেট প্রয়োগ করা যায়নি। 
                                            সম্পূর্ণ আপডেট ডাউনলোড করে &brandShortName;-র দ্বারা পুনরায় প্রচেষ্টা করা হবে।">
+
+<!ENTITY  genericBackgroundError.label    "আপডেট উপস্থিত রয়েছে কি না তা &brandShortName; দ্বারা নির্ধারণ করা সম্ভব হয়নি। অনুগ্রহ করে
+                                           নিশ্চিত করুন যে নিম্নলিখিত স্থান থেকে প্রাপ্ত &brandShortName;-র সাম্প্রতিকতম সংস্করণ ব্যবহার করা হচ্ছে:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "কোনো কারণবসত, &brandShortName; নিরাপদভাবে আপডেট করা হচ্ছে না।
+                                           অনুগ্রহ করে নিশ্চিত করুন যে নিম্নলিখিত স্থান থেকে প্রাপ্ত &brandShortName;-র সাম্প্রতিকতম সংস্করণ ব্যবহার করা হচ্ছে:">
+<!ENTITY  errorCertAttrHasUpdate.label    "কোনো কারণবসত &brandShortName;-কে ছল করে একটি অসুরক্ষিত আপডেট গ্রহণ করার
+                                            অনুরোধ করা হচ্ছে। অনুগ্রহ করে নেটওয়ার্ক উপলব্ধকারীর সাথে যোগাযোগ করে সাহায্য প্রাপ্ত করুন।">
 
 <!-- ENTITY  finished.title                  "আপডেট ডাউনলোড সমাপ্ত" -->
 <!-- ENTITY  finished.text                  "সাফল্যের সাথে আপডেট ডাউনলোড করে পরীক্ষা করা হয়েছে। আপডেট ইনস্টল করার জন্য 
@@ -100,7 +110,7 @@
 <!ENTITY  finishedBackground.more         "&brandShortName; পরবর্তীবার আরম্ভ করা হলে চিহ্নিত আপডেটটি ইনস্টল করা হবে। এখন
                                            &brandShortName; পুনরায় আরম্ভ করুন অথবা বর্তমান কর্ম অবিঘ্নিত রাখতে হলে পরে কোনো সময় পুনরারম্ভ করুন।">
 
-<!ENTITY  finishedBackgroundPage.text     "&brandShortName;-র নিরাপত্তা ও স্থায়ীত্ব সংক্রান্ত আপডেটটি ডাউনলোড has been
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName;-র নিরাপত্তা ও স্থায়ীত্ব সংক্রান্ত আপডেটটি ডাউনলোড
                                            করা হয়েছে এবং ইনস্টল করার জন্য প্রস্তুত।">
 <!ENTITY  finishedPage.text               "&brandShortName; পরবর্তীবার আরম্ভ করা হলে চিহ্নিত আপডেটটি ইনস্টল করা হবে। এখন &brandShortName; পুনরায় আরম্ভ করুন 
                                            অথবা বর্তমান কর্ম অবিঘ্নিত রাখতে হলে পরে কোনো সময় পুনরারম্ভ করুন।">
@@ -116,4 +126,9 @@
                                            করার জন্য পর্যাপ্ত অনুমতি আপনার নেই। অনুগ্রহ করে আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ 
                                            করুন অথবা বর্তমান কম্পিউটারে সফ্টওয়্যার ইনস্টল করার জন্য পর্যাপ্ত 
                                            অনুমতিপ্রাপ্ত অ্যাকাউন্ট প্রয়োগ করে পুনরায় প্রচেষ্টা করুন।">
+<!ENTITY  manualUpdate.space.desc         "নিরাপত্তা ও স্থায়ীত্ব বৃদ্ধির জন্য প্রস্তাবিত একটি আপডেট উপস্থিত থাকলেও, এটি ইনস্টল 
+                                           করার জন্য পর্যাপ্ত স্থান উপস্থিত নেই।">
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName;-র সাম্প্রতিকতম সংস্করণ নিম্নলিখিত স্থানে সর্বদা উপলব্ধ রয়েছে:">
+<!ENTITY  pluginupdatesfound.title        "প্লাগ-ইনের আপডেট পাওয়া গিয়েছে">
+<!ENTITY  pluginupdatesfound.label        "এক অথবা একাধিক প্লাগ-ইনের নতুন সংস্করণ উপস্থিত রয়েছে।.">
+<!ENTITY  pluginupdateslink.label         "প্লাগ-ইন আপডেট করার প্রণালী দেখুন।">
