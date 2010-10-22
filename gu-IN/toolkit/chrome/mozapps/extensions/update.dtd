@@ -46,5 +46,4 @@
 <!ENTITY  clickFinish.label               "&brandShortName; શરૂ કરવાનું ચાલુ કરવા માટે સમાપ્ત ક્લિક કરો.">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; શરૂ કરવાનું ચાલુ રાખવા માટે પૂર્ણ ક્લિક કરો.">
 <!ENTITY  enableChecking.label            "&brandShortName; ને સુધારાઓ માટે ચકાસવા માટે પરવાનગી આપો.">
-<!ENTITY  details.label                   "વિગતો...">
-<!ENTITY  details.accesskey               "D">
+
