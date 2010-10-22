@@ -42,6 +42,7 @@
 
 <!ENTITY addonsManagerCmd.label "Gestor de complements">
 <!ENTITY addonsManagerCmd.accesskey "G">
+<!ENTITY addonsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Commuta el perfil…">
 <!ENTITY switchProfileCmd.accesskey "p">
