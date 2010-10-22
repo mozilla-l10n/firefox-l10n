@@ -184,3 +184,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, er treedt een fout op bij het laden van de uitgaveopmerking.">
 
 <!ENTITY addon.createdBy.label                "Door ">
+
+<!ENTITY eula.title                           "Eindgebruikerslicentieovereenkomst">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Accepteren en installeren…">
