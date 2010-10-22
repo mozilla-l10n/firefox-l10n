@@ -97,10 +97,8 @@
 
 <!ENTITY certmgr.certname "சான்றிதழ் பெயர்">
 <!ENTITY certmgr.certserver                   "சேவையகம்">
-<!ENTITY certmgr.typesofoverrides "விதிவிலக்குகள்">
 <!ENTITY certmgr.override_lifetime            "வாழ்நாள் முழுவதும்">
 <!ENTITY certmgr.tokenname "பாதுகாப்பு சாதனம்">
-<!ENTITY certmgr.purpose "காரணங்கள்">
 <!ENTITY certmgr.issued "வழங்கிய நாள்">
 <!ENTITY certmgr.expires "காலாவதியாகும் நாள்">
 <!ENTITY certmgr.email "மின்னஞ்சல் முகவரி">
@@ -110,8 +108,8 @@
 <!ENTITY certmgr.close.accesskey "C">
 <!ENTITY certmgr.view2.label "பார்...">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label "திருத்து...">
-<!ENTITY certmgr.edit2.accesskey              "E">
+<!ENTITY certmgr.edit3.label "திருத்து...">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label "CA நம்பகத்தை திருத்து">
 <!ENTITY certmgr.editca.accesskey "d">
 <!ENTITY certmgr.add.label "கூட்டு">
