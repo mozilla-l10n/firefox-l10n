@@ -179,3 +179,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ho sentim, però s'ha produït un error mentre en carregar les notes de la versió.">
 
 <!ENTITY addon.createdBy.label                "Per">
+
+<!ENTITY eula.title                           "Acord de llicència d'usuari final">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Accepta'l i instal·la'l…">
