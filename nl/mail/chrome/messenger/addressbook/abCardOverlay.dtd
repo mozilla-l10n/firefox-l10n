@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Fonetisch:">
 <!ENTITY DisplayName.label              "Weergave:">
 <!ENTITY DisplayName.accesskey          "a">
+<!ENTITY preferDisplayName.label        "Verkies altijd weergavenaam boven berichtkop">
+<!ENTITY preferDisplayName.accesskey    "i">
 <!ENTITY NickName.label                 "Bijnaam:">
 <!ENTITY NickName.accesskey             "B">
 
