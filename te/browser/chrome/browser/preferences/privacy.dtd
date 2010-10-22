@@ -5,8 +5,12 @@
 <!ENTITY  dontrememberActions.pre.label          " ">
 <!ENTITY  dontrememberActions.clearHistory.label "మీ ప్రస్తుత చరిత్రని కూడా  తొలగించదలుచుకోవచ్చు">
 <!ENTITY  dontrememberActions.post.label         ".">
-<!ENTITY  privateBrowsingAutoStart.label " &brandShortName; ని  ఎల్లప్పుడు గోప్య వీక్షణంలోనే మొదలుపెట్టుము ">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent.label "శాశ్వతమైన గోప్యతా అన్వేషణ రీతి">
+<!ENTITY  rememberHistory.accesskey  "b">
+<!ENTITY  rememberHistory.label      "నా అన్వేషణ చరిత్రను గుర్తుంచుకొనుము">
+
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "You ">
 <!ENTITY  rememberActions.clearHistory.label  " మీ ఇటీవలి చరిత్రను తొలగించదలుచకోవచ్చు">
@@ -19,9 +23,9 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      " నా వీక్షణ చరిత్రని ">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "గుర్తుపెట్టుకోవలసిన  కనీస దినములు">
+
+
+
 
 
 

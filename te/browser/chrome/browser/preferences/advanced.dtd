@@ -30,16 +30,6 @@
 <!ENTITY connectionSettings.accesskey    "e">
 
 
-<!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
-  line in preferences as follows:
-
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
--->
-<!ENTITY useCacheBefore.label            "వరకు వుపయోగించు">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "క్యాచీ కొరకు MB స్పేస్">
-
 
 <!ENTITY updateTab.label                 "నవీకరణ">
 
@@ -104,3 +94,19 @@
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY offlineAppsList.height          "7em">
+<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.label              "అందుబాటులో వున్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ వుపయోగించుము">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "క్యాచీను యింతకు పరిమితం చేయుము">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB జాగాకు">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.label    "స్వయంచాలక క్యాచీ నిర్వహణను వోవర్‌రైడ్ చేయుము">
+<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitCrashes.label             "క్రాష్ నివేదికలను అప్పగించుము">

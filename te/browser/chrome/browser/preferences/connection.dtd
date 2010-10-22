@@ -13,8 +13,8 @@
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP ప్రోక్సీ:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Gopher ప్రోక్సీ:">
-<!ENTITY  gopher.accesskey              "G">
+
+
 <!ENTITY  http.label                    "HTTP ప్రోక్సీ:">
 <!ENTITY  http.accesskey                "y">
 <!ENTITY  ssl.label                     "SSL ప్రోక్సీ:">
@@ -30,7 +30,7 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
+
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ఏ ప్రోక్సీ లేదు:">
 <!ENTITY  noproxy.accesskey             "n">
