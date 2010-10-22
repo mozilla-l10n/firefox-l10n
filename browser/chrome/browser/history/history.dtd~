@@ -1,0 +1,28 @@
+<!ENTITY find.label                "অনুসন্ধান:">
+<!ENTITY find.accesskey            "S">
+<!ENTITY expand.label              "প্রসারণ">
+<!ENTITY expand.accesskey          "E">
+<!ENTITY collapse.label            "সঙ্কুচন">
+<!ENTITY collapse.accesskey        "C">
+<!ENTITY byDate.label "তারিখ অনুযায়ী">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "সাইট অনুযায়ী">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "প্রদর্শন">
+<!ENTITY view.accesskey "w">
+<!ENTITY byMostVisited.label "সর্বাধিক প্রদর্শন অনুযায়ী">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "সর্বশেষ প্রদর্শন অনুযায়ী">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "তারিখ ও সাইট অনুযায়ী">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "খুলুন">
+<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openInNewTab.label "নতুন ট্যাবে খুলুন">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "নতুন উইন্ডোর মধ্যে খুলুন">
+<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY bookmarkLink.label "চিহ্নিত লিঙ্ক বুকমার্ক করুন...">
+<!ENTITY bookmarkLink.accesskey "B">
+<!ENTITY copyLink.label "লিঙ্ক দ্বারা চিহ্নিত অবস্থান কপি করুন">
+<!ENTITY copyLink.accesskey "C">
