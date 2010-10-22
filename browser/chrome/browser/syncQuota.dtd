@@ -1,4 +1,4 @@
-<!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
-<!ENTITY quota.typeColumn.label     "Type">
-<!ENTITY quota.sizeColumn.label     "Size">
+<!ENTITY quota.dialogTitle.label    "ସର୍ଭର ଭାଗ">
+<!ENTITY quota.retrievingInfo.label "ଭାଗ ସୂଚନା କାଢ଼ୁଅଛି…">
+<!ENTITY quota.typeColumn.label     "ପ୍ରକାର">
+<!ENTITY quota.sizeColumn.label     "ଆକାର">
