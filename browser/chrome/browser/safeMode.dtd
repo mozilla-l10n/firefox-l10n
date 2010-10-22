@@ -10,8 +10,10 @@
 <!ENTITY resetToolbars.label "साधनपट्टी आणि नियंत्रके पुन्हा स्थापित करा">
 <!ENTITY resetToolbars.accesskey "R">
 
+<!--
 <!ENTITY resetBookmarks.label "ओळखचिन्हे यांना &brandShortName; च्या मूळ स्वरूपात पुन्हा स्थापित करा">
 <!ENTITY resetBookmarks.accesskey "b">
+-->
 
 <!ENTITY resetUserPrefs.label "सर्व वापरकर्त्यांच्या आवडीनिवडी &brandShortName; च्या मूळ स्वरूपात पुन्हा स्थापित करा.">
 <!ENTITY resetUserPrefs.accesskey "p">
@@ -23,3 +25,5 @@
 <!ENTITY restoreSearch.label          "मुलभूत शोध इंजीन पूर्वस्थितीत आणा">
 <!ENTITY restoreSearch.accesskey      "s">
 <!ENTITY disableAddons.label          "सर्व ऍड-ऑन अकार्यान्वीत करा">
+<!ENTITY deleteBookmarks.label        "बॅकअप्स् वगळता सर्व ओळखचिन्हे नष्ट करा">
+<!ENTITY deleteBookmarks.accesskey    "b">
