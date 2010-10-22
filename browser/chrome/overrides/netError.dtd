@@ -53,9 +53,19 @@
 
 
 <!ENTITY netOffline.title "অফলাইন মোড">
-<!ENTITY netOffline.longDesc "
+<!-- ENTITY netOffline.longDesc "
 <ul>
   <li>ফাইল মেনুর মধ্যে &quot;অফলাইন অবস্থায় কর্ম&quot; ক্লিক করে পুনরায় চেষ্টা করুন।</li>
+</ul>
+" -->
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>মেনুর মধ্যে &quot;অফলাইন অবস্থায় কর্ম&quot; শীর্ষক মানের পাশে ঠিক চিহ্নটি সরিয়ে নিন, এবং পুনরায় প্রচেষ্টা করুন।</li>
 </ul>
 ">
 
@@ -149,12 +159,23 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
+<!-- ENTITY securityOverride.warningText "
 <p>সম্পূর্ণ বিশ্বাসযোগ্য ইন্টারনেট সংযোগ ব্যবহার না করা হলে অথবা এই সার্ভার থেকে কোনো ধরনের সতর্কবার্তা সাধারণত না প্রদর্শিত হলে, ব্যতিক্রম যোগ না করা বাঞ্ছনীয়।</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
+" -->
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "
+<p>সম্পূর্ণ বিশ্বাসযোগ্য ইন্টারনেট সংযোগ ব্যবহার না করা হলে অথবা এই সার্ভার থেকে কোনো ধরনের সতর্কবার্তা সাধারণত না প্রদর্শিত হলে, ব্যতিক্রম যোগ না করা বাঞ্ছনীয়।</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "তথ্য সুরক্ষার নীতির কারণে প্রতিরোধ করা হয়েছে">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>এই পৃষ্ঠার মধ্যে উপস্থিত তথ্য সুরক্ষার নীতির কারণে &brandShortName; দ্বারা এই পৃষ্ঠাটি এই পদ্ধতিতে লোড করতে প্রতিরোধ করা হয়েছে।</p>">
 
 <!ENTITY nssFailure2.title "নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ">
 <!ENTITY nssFailure2.longDesc "
