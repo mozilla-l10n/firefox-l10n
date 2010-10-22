@@ -14,6 +14,7 @@
 <!ENTITY safeb.palm.decline.statustext "सावधानता बंद करा" >
 
 <!ENTITY safeb.palm.notforgery.label2 "हे वेब बनावटीपण नाही…">
+<!--
 <!ENTITY safeb.palm.report.label "हे स्थळ का रोखले गेले?">
 <!ENTITY safeb.blocked.malware.title "प्रहार स्थळ कळवले गेले!">
 <!ENTITY safeb.blocked.malware.shortDesc " <span id='malware_sitename'/> वरील स्थळास प्रहार स्थळ म्हणून घोषीत केले गेले आहे व सुरक्षा कारणास्तव रोखले गेले आहे.">
@@ -21,7 +22,7 @@
 <!ENTITY safeb.blocked.phishing.title "वेब बनावटीपण कळवले गेले!">
 <!ENTITY safeb.blocked.phishing.shortDesc "<span id='phishing_sitename'/> वरील स्थळास बनवाटी स्थळ म्हणून घोषीत केले गेले आहे व सुरक्षा कारणास्तव रोखले गेले आहे.">
 <!ENTITY safeb.blocked.phishing.longDesc "<p>वेब बनावटीपणाचे उद्देश आपली व्यक्तिगत किंवा वित्तीय माहिती आपल्या ओळखीतले व्यक्ति असे दर्शवून प्राप्त करणे असते.</p><p>अशा पानावर कुठलिही माहिती प्रविष्ट केल्यास आपली ओळख सदोषीत किंवा बनावटी ठरू शकते.</p>">
-
+-->
 <!ENTITY safeb.palm.reportPage.label "हे पृष्ठ का रोखले गेले?">
 <!ENTITY safeb.blocked.malwarePage.title "प्रहार पृष्ठ कळवले गेले!">
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> येथील या प्रहार पृष्ठाला बनवाटी पृष्ठ म्हणून घोषीत केले गेले आहे व तुमच्या सुरक्षा पसंती नुरूप रोखले गेले आहे.">
