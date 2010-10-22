@@ -15,3 +15,5 @@
 <!ENTITY  paneSecurity.title      "రక్షణ">
 <!ENTITY  paneAdvanced.title      "అధునాతన">
 <!ENTITY  paneApplications.title  "అనువర్తనాలు">
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "సింక్">

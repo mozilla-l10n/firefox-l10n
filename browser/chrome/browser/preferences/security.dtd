@@ -10,43 +10,23 @@
 -->
 <!ENTITY  blockAttackSites.label     "నమోదయిన దాడి చేసే సైటులను తెరవవద్దు">
 <!ENTITY  blockAttackSites.accesskey "k">
-
 <!ENTITY  blockWebForgeries.label     "నమోదయిన  మోసపు సైటులను తెరవవద్దు">
 <!ENTITY  blockWebForgeries.accesskey "B">
-
-
-
 <!-- LOCALIZATION NOTE (askThirdParty.label):
   The entities askThirdParty.label and askThirdPartyAfter.label appear on a
   single line in preferences as follows:
-
   &askThirdParty.label  [ menulist of phishing list providers ]   &askThirdPartyAfter.label;
 -->
-
 <!ENTITY  addonExceptions.label         "ఎక్సెప్షన్లు...">
 <!ENTITY  addonExceptions.accesskey     "E">
-
-
 <!ENTITY  passwords.label               "సంకేతపదాలు">
-
 <!ENTITY  rememberPasswords.label       "సైటుల కొరకు సంకేతపదాలను గుర్తుంచుకో">
 <!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "ఎక్సెప్షన్లు...">
 <!ENTITY  passwordExceptions.accesskey  "x">
-
 <!ENTITY  useMasterPassword.label        "ముఖ్య సంకేతపదమును వుపయోగించండి">
 <!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "ముఖ్య సంకేతపదమును మార్చండి...">
 <!ENTITY  changeMasterPassword.accesskey "M">
-
-
-
-<!ENTITY  warnings.label                "హెచ్చరించు సందేశాలు">
-
-<!ENTITY  chooseWarnings.label          "వెబ్‌ను అన్వేషించునపుడు ఎటువంటి హెచ్చరించు సందేశాలు కావాలో  ఎంచుకొనుము">
-
-<!ENTITY  warningSettings.label         "అమరికలు...">
-<!ENTITY  warningSettings.accesskey     "S">
-
 <!ENTITY  savedPasswords.label            "భద్రపరచిన సంకేతపదాలు…">
 <!ENTITY  savedPasswords.accesskey        "P">

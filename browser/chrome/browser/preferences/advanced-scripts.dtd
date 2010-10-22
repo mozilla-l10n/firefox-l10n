@@ -46,7 +46,7 @@
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "కాంటెక్స్ట్  మెనూలను అచేతనం లేదా పునఃస్థాపన చేయి">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "స్థితిపట్టీను మరుగుపరచు">
-<!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "స్థితిపట్టీ పాఠ్యమును మార్చు">
-<!ENTITY changeStatusBar.accesskey      "C">
+
+
+
+

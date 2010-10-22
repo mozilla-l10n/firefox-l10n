@@ -121,3 +121,7 @@
 <!ENTITY  permissionsFor        "దీనికొరకు అనుమతులు:">
 <!ENTITY  permAskAlways         "ఎల్లప్పుడు అడుగుము">
 <!ENTITY  permGeo               "స్థానాన్ని పంచుకొనుము">
+
+<!ENTITY  permIndexedDB              "ఆఫ్‌లైన్ నిల్వను నిర్వహించు">
+<!ENTITY  permClearStorage           "నిల్వను శుభ్రపరచు">
+<!ENTITY  permClearStorage.accesskey "C">
