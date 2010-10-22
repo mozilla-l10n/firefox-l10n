@@ -48,8 +48,11 @@
 <!ENTITY resetToolbars.label          "টুলবার ও নিয়ন্ত্রণব্যবস্থা পুনর্নির্ধারণ">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "&brandShortName;-র ডিফল্ট মান অনুযায়ী বুকমার্ক পুনর্নির্ধারণ">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!-- ENTITY resetBookmarks.label         "&brandShortName;-র ডিফল্ট মান অনুযায়ী বুকমার্ক পুনর্নির্ধারণ" -->
+<!-- ENTITY resetBookmarks.accesskey     "b" -->
+
+<!ENTITY deleteBookmarks.label        "ব্যাক-আপ ব্যতীত অন্যান্য সকল বুকমার্ক মুছে ফেলুন">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "&brandShortName;-র ডিফল্ট মান অনুযায়ী ব্যবহারকারীদের পছন্দ পুনর্নির্ধারণ">
 <!ENTITY resetUserPrefs.accesskey     "p">
