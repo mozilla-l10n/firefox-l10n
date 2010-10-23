@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Fremad">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Gå en side fremad">
-<!ENTITY backForwardMenu.tooltip      "Seneste sider">
 <!ENTITY reloadCmd.label              "Genindlæs">
 <!ENTITY reloadCmd.accesskey          "G">
 <!ENTITY reloadButton.tooltip         "Genindlæs nuværende side">
