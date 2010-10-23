@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "Vernieuwen">
 <!ENTITY stop.label            "Stoppen">
 <!ENTITY go.label              "Ga">
-<!ENTITY openLocation.label    "Locatie openen">
 <!ENTITY star.label            "Ster">
 
 <!ENTITY newtab.label          "Nieuw tabblad">
@@ -20,7 +19,10 @@
 <!ENTITY noSuggestions.label   "(Geen suggesties)">
 <!ENTITY addToDictionary.label "Toevoegen aan woordenboek">
 
+<!ENTITY allPagesHeader.label      "Alle pagina's">
 <!ENTITY bookmarksHeader.label     "Bladwijzers">
+<!ENTITY historyHeader.label       "Geschiedenis">
+<!ENTITY desktopHeader.label       "Desktop">
 <!ENTITY bookmarksManage.label     "Beheren">
 
 <!ENTITY editBookmarkRemove.label  "Verwijderen">
