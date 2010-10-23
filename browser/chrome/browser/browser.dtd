@@ -65,7 +65,7 @@
 <!ENTITY closeWindow.label "Dùin an uinneag">
 <!ENTITY closeWindow.accesskey "n">
 
-<!ENTITY bookmarksMenu.label "Comharraidhean-lìn">
+<!ENTITY bookmarksMenu.label "Comharran-lìn">
 <!ENTITY bookmarksMenu.accesskey "C">
 <!ENTITY bookmarkThisPageCmd.label "Cruthaich comharra-lìn dhan duilleag seo">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -74,7 +74,7 @@
 <!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY organizeBookmarks.label "Cuir air dòigh comharraidhean-lìn…">
 <!ENTITY bookmarkAllCmd.label "Dèan comharra-lìn de gach taba…">
-<!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharraidhean-lìn">
+<!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
 
 <!ENTITY backCmd.label                "Air ais">
 <!ENTITY backCmd.accesskey            "i">
@@ -98,13 +98,13 @@
 <!ENTITY locationItem.title           "Àite">
 <!ENTITY searchItem.title             "Lorg">
 <!ENTITY throbberItem.title           "Tosgair gnìomhachd">
-<!ENTITY bookmarksItem.title          "Comharraidhean-lìn">
+<!ENTITY bookmarksItem.title          "Comharran-lìn">
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "Dhachaigh">
 
-<!ENTITY bookmarksButton.label          "Comharraidhean-lìn">
-<!ENTITY bookmarksButton.tooltip        "Seall na comharraidhean-lìn agad">
+<!ENTITY bookmarksButton.label          "Comharran-lìn">
+<!ENTITY bookmarksButton.tooltip        "Seall na comharran-lìn agad">
 <!ENTITY bookmarksButton.accesskey  "C">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -203,7 +203,7 @@
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Lorg anns na comharraidhean-lìn is san eachdraidh">
-<!ENTITY urlbar.bookmark.emptyText    "Lorg anns na comharraidhean-lìn">
+<!ENTITY urlbar.bookmark.emptyText    "Lorg sna comharran-lìn">
 <!ENTITY urlbar.history.emptyText     "Eachdraidh nan lorg">
 <!ENTITY urlbar.none.emptyText        "Cuir a-steach seòladh-lìn">
 <!ENTITY urlbar.accesskey             "d">

@@ -14,8 +14,8 @@
 <!ENTITY reportForm.url.title                       "URL na làraich-lìn:">
 <!ENTITY reportForm.url.accesskey                   "U">
 
-<!ENTITY reportForm.behind_login.title              "Tha an làrach-lìn 'ga dhìon le facal-faire"><!-- No ":" at the end -->
-<!ENTITY reportForm.behind_login.accesskey          "f">
+<!ENTITY reportForm.behind_login.title              "Tha an làrach-lìn 'ga dhìon le facal-faire:"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "T">
 
 <!ENTITY reportForm.problem_type.title              "Seòrsa an duilgheadais:">
 <!ENTITY reportForm.problem_type.accesskey          "d">

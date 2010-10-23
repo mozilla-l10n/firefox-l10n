@@ -25,7 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Rinn am brabhsair ceangal gu soirbheachail ach bhris an ceangal fhad 's a chaidh fiosrachadh a chur a-null 's a-nall. Feuch ris a-rithist.</p><ul><li>An ruig thu làraichean eile leis a' bhrabhsair agad? Cuir sùil air ceangal a' choimpiutair agad ris an lìonra.</li><li>Duilgheadasan agad fhathast? Bruidhinn ri rianaire an lìonraidh agad no ri solaraiche a' cheangail-lìn agad airson cobhair.</li></ul>">
 
 <!ENTITY netOffline.title "Modh far loidhne">
-<!ENTITY netOffline.longDesc "<p>Tha am brabhsair agad anns a' mhodh far loidhne 's chan urrainn dha ceangal ris an rud a dh'iarr thu.</p><ul><li>A bheil an coimpiutair seo co-cheangailte ri lìonra beò?</li><li>Tòisich am modh air loidhne agus feuch ris a-rithist.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>Tha am brabhsair agad sa mhodh far loidhne 's chan urrainn dha ceangal ris an rud a dh'iarr thu.</p><ul><li>A bheil an coimpiutair seo co-cheangailte ri lìonra beò?</li><li>Tòisich am modh air loidhne agus feuch ris a-rithist.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Mearachd le còdachadh na susbaint">
 <!ENTITY contentEncodingError.longDesc "<p>Cha ghabh an duilleag a tha thu airson faicinn a shealltainn a chionn 's gu bheil e a' cleachdadh co-bhrùthachadh mì-dhligheach no feadhainn nach eil taic ann dha.</p><ul><li>Leig fios gu muinntir na làraich mun duilgheadas seo.</li></ul>">
@@ -48,8 +48,8 @@
 <!ENTITY proxyResolveFailure.title "Cha deach frithealaiche progsaidh a lorg">
 <!ENTITY proxyResolveFailure.longDesc "<p>Tha am brabhsair air a rèiteachadh gus frithealaiche progsaidh a chleachdadh ach cha deachd progsaidh a lorg.</p><ul><li>A bheil rèiteachadh progsaidh a' bhrabhsair ceart? Cuir sùil air na roghainnean is feuch ris a-rithist.</li><li>A bheil an coimpiutair co-cheangailte ri lìonra beò?</li><li>Duilgheadasan agad fhathast? Leig fios gu rianaire an lìonraidh agad no gun fhrithealaiche-lìn agad airson cuideachadh.</li></ul>">
 
-<!ENTITY redirectLoop.title "Lùb ath-threòrachaidh">
-<!ENTITY redirectLoop.longDesc "<p>Sguir am brabhsair dhen a bhith a' feuchainn an rud a dh'iarr thu fhaighinn. Tha an làrach ag ath-threòrachadh an iarrtais air dòigh nach dèid a choileanadh gu bràth.</p><ul><li>An do chuir neo-chomasach briosgaidean o chionn ghoirid a dh'fheumas an làrach seo no an do chuir thu casg orra?</li><li><em>AIRE</em>: Mura dèid a' chùis a rèiteachadh 's tu a' gabhail ri briosgaidean na làraich seo, tha coltas gur e adhbhar rèiteachadh an fhrithealaiche a tha ag adhbharachadh seo 's chan e an coimpiutair agad.</li></ul>">
+<!ENTITY redirectLoop.title "Lùb ath-stiùiridh">
+<!ENTITY redirectLoop.longDesc "<p>Sguir am brabhsair dhen a bhith a' feuchainn an rud a dh'iarr thu fhaighinn. Tha an làrach ag ath-stiùireadh an iarrtais air dòigh nach dèid a choileanadh gu bràth.</p><ul><li>An do chuir neo-chomasach briosgaidean o chionn ghoirid a dh'fheumas an làrach seo no an do chuir thu casg orra?</li><li><em>AIRE</em>: Mura dèid a' chùis a rèiteachadh 's tu a' gabhail ri briosgaidean na làraich seo, tha coltas gur e adhbhar rèiteachadh an fhrithealaiche a tha ag adhbharachadh seo 's chan e an coimpiutair agad.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Freagairt mhì-cheart">
 <!ENTITY unknownSocketType.longDesc "<p>Fhreagair an làrach ri iarrtas an lìonraidh air dòigh ris nach robh dùil 's chan urrainn dhan bhrabhsair leantainn air adhart.</p>">

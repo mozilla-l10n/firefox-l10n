@@ -27,8 +27,8 @@
 <!ENTITY cmd.installLocalFile.accesskey   "S">
 <!ENTITY cmd.installFileAddon.tooltip     "Stàlaich tuilleadan">
 <!ENTITY cmd.installFileTheme.tooltip     "Stàlaich ùrlar">
-<!ENTITY cmd.installUpdatesAll2.label     "Stàlaich ùrachaidhean">
-<!ENTITY cmd.installUpdatesAll2.accesskey "S">
+<!ENTITY cmd.installUpdatesAll2.label     "Stàlaich na h-ùrachaidhean">
+<!ENTITY cmd.installUpdatesAll2.accesskey "i">
 <!ENTITY cmd.installUpdatesAll2.tooltip   "Stàlaich na h-ùrachaidhean a thagh thu">
 <!ENTITY cmd.restartApp2.label            "Ath-thòisich &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "A">

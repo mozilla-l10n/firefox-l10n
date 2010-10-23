@@ -24,8 +24,8 @@
 <!ENTITY migrating.title                "Ag ion-phortadh…">
 <!ENTITY migrating.label                "Tha na rudan a leanas 'gan ion-phortadh an-dràsta…">
 
-<!ENTITY selectProfile.title            "Tagh clàr-aithne">
-<!ENTITY selectProfile.label            "'S urrainn dhut ion-phortadh o na clàir-aithne a leanas:">
+<!ENTITY selectProfile.title            "Tagh pròifil">
+<!ENTITY selectProfile.label            "'S urrainn dhut ion-phortadh o na pròifilean a leanas:">
 
 <!ENTITY done.title                     "Ion-phortadh deiseil">
 <!ENTITY done.label                     "Chaidh na rudan a leanas ion-phortadh gu soirbheachail:">

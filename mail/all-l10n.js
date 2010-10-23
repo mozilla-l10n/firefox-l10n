@@ -36,5 +36,5 @@
 
 #filter substitution
 
-pref("general.useragent.locale", "@AB_CD@");
-pref("spellchecker.dictionary", "@AB_CD@");
+pref("general.useragent.locale", "gd");
+pref("spellchecker.dictionary", "gd");

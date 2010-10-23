@@ -32,7 +32,7 @@
 <!ENTITY help.advancedTips.label        "Gliocasan ┐ gleusan adhartach">
 <!ENTITY help.advancedTips.accesskey    "t">
 
-<!ENTITY cmd.findInBookmarks.label      "Lorg anns na comharraidhean-lìn…">
+<!ENTITY cmd.findInBookmarks.label      "Lorg sna comharran-lìn…">
 <!ENTITY cmd.findInBookmarks.accesskey  "L">
 <!ENTITY cmd.findCurrent.label          "Lorg sa chruinneachadh làithreach…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
@@ -140,8 +140,8 @@
 <!ENTITY search.accesskey                          "g">
 <!ENTITY search.scopeFolder.label                  "Am pasgan a chaidh a thaghadh">
 <!ENTITY search.scopeFolder.accesskey              "p">
-<!ENTITY search.scopeBookmarks.label               "Comharraidhean-lìn">
-<!ENTITY search.scopeBookmarks.accesskey           "m">
+<!ENTITY search.scopeBookmarks.label               "Comharran-lìn">
+<!ENTITY search.scopeBookmarks.accesskey           "C">
 <!ENTITY search.scopeDownloads.label               "Luchdaidhean a-nuas">
 <!ENTITY search.scopeDownloads.accesskey           "u">
 <!ENTITY search.scopeHistory.label                 "Eachdraidh">
@@ -152,7 +152,7 @@
 <!ENTITY saveSearch.accesskey                      "S">
 <!ENTITY moreCriteria.label                        "+">
 <!ENTITY advancedSearch.onlybookmarked.label       "Lorg anns na comharraidhean-lìn a-mhàin">
-<!ENTITY advancedSearch.match.label                "Maids ">
+<!ENTITY advancedSearch.match.label                "Seisich ">
 <!ENTITY advancedSearch.all.label                  "gach fear">
 <!ENTITY advancedSearch.any.label                  "fear sam bith">
 <!ENTITY advancedSearch.rules.label                " de na riaghailtean a leanas:">

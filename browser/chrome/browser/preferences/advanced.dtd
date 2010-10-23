@@ -9,12 +9,12 @@
 <!ENTITY searchStartTyping.label         "Lorg teacs cho luath 's a thòisicheas mi air taidhpeadh">
 <!ENTITY searchStartTyping.accesskey     "t">
 <!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh.">
-<!ENTITY blockAutoRefresh.accesskey      "d">
+<!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "A' brabhsadh">
 
-<!ENTITY useAutoScroll.label             "Cleachd sgròladh leis fhèin">
-<!ENTITY useAutoScroll.accesskey         "f">
+<!ENTITY useAutoScroll.label             "Cleachd sgròladh fèin-obrachail">
+<!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Cleachd sgròladh caoin">
 <!ENTITY useSmoothScrolling.accesskey    "c">
 <!ENTITY checkSpelling.label             "Ceartachadh litreachaidh beò">
