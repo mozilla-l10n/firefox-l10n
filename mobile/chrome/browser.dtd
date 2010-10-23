@@ -97,7 +97,9 @@
 
 <!ENTITY contextOpenInNewTab.label    "Koppeling openen in nieuw tabblad">
 <!ENTITY contextSaveLink.label        "Koppeling opslaan">
-<!ENTITY contextSaveImage.label    "Afbeelding opslaan">
+<!ENTITY contextSaveImage.label       "Afbeelding opslaan">
+<!ENTITY contextShareLink.label       "Koppeling delen">
+<!ENTITY contextShareImage.label      "Afbeelding delen">
 
 <!ENTITY pageactions.saveas.pdf      "Opslaan als PDF">
 <!ENTITY pageactions.share.page      "Pagina delen">
