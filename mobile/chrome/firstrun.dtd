@@ -1,12 +1,11 @@
 <!ENTITY firstrun.title                "Welkom bij &brandShortName;">
 <!ENTITY firstrun.heading              "Om u op weg te helpen volgen hier een aantal van de meest populaire functies en add-ons, zodat u het meeste uit &brandShortName; kunt halen.">
-<!ENTITY firstrun.recommended          "Aanbevolen:">
-<!ENTITY firstrun.weave.title          "Firefox Sync verkrijgen">
-<!ENTITY firstrun.weave.description    "Deel uw navigatiegeschiedenis, wachtwoorden, bladwijzers en tabbladen van &brandShortName; op uw desktop en mobiel met elkaar">
-<!ENTITY firstrun.starter.title        "De Starter Kit Collection verkrijgen">
-<!ENTITY firstrun.starter.description  "Installeer deze aanbevolen add-ons om uw &brandShortName;-ervaring te verbeteren">
-<!ENTITY firstrun.tour.title           "Neem een rondleiding">
-<!ENTITY firstrun.tour.description     "Bekijk deze clip om handige functies te ontdekken en hiermee vertrouwd te raken">
+<!ENTITY firstrun.sync2.title          "Sync Up">
+<!ENTITY firstrun.sync2.description    "Login met uw Sync-account info en deel uw navigatiegeschiedenis, wachtwoorden, bladwijzers &amp; tabbladen tussen uw desktop en mobiel">
+<!ENTITY firstrun.addons2.title        "Aanpassen">
+<!ENTITY firstrun.addons2.description  "Ontdek en installeer add-ons om nieuwe functionaliteit aan &brandShortName; toe te voegen">
+<!ENTITY firstrun.home2.title          "Bladeren">
+<!ENTITY firstrun.home2.description    "Sla alles over en ga naar uw persoonlijke startpagina om te surfen op het internet">
 <!ENTITY firstrun.features             "Meer functies bekijken">
 <!ENTITY firstrun.faq                  "FAQ">
 <!ENTITY firstrun.privacy              "Privacybeleid">
