@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "War-lerc'h">
 <!ENTITY forwardCmd.accesskey         "W">
 <!ENTITY forwardButton.tooltip        "Mont d'ar bajennad war-lerc'h">
-<!ENTITY backForwardMenu.tooltip      "Pajennoù nevesañ">
 <!ENTITY reloadCmd.label              "Adkargañ">
 <!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY reloadButton.tooltip         "Adkargañ ar bajennad vremanel">

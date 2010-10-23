@@ -186,3 +186,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Digarezit, degouezhet ez eus bet un fazi en ur bellgargañ an notennoù handelv.">
 
 <!ENTITY addon.createdBy.label                "Gant ">
+
+<!ENTITY eula.title                           "Asant al lañvaz gant an arveriad diwezhel">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Asantiñ ha Staliañ…">
