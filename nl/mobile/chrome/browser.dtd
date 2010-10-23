@@ -103,6 +103,8 @@
 <!ENTITY contextShareImage.label      "Afbeelding delen">
 <!ENTITY contextSaveVideo.label       "Video opslaan">
 <!ENTITY contextShareVideo.label      "Video delen">
+<!ENTITY contextPlayMedia.label       "Afspelen">
+<!ENTITY contextPauseMedia.label      "Pauzeren">
 
 <!ENTITY pageactions.saveas.pdf      "Opslaan als PDF">
 <!ENTITY pageactions.share.page      "Pagina delen">
