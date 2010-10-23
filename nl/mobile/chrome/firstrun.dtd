@@ -1,5 +1,5 @@
 <!ENTITY firstrun.title                "Welkom bij &brandShortName;">
-<!ENTITY firstrun.heading              "Om u op weg te helpen volgen hier een aantal van de meest populaire functies en add-ons, zodat u het meeste uit &brandShortName; kunt halen.">
+<!ENTITY firstrun.heading2             "Welkom bij &brandShortName;">
 <!ENTITY firstrun.sync2.title          "Sync Up">
 <!ENTITY firstrun.sync2.description    "Login met uw Sync-account info en deel uw navigatiegeschiedenis, wachtwoorden, bladwijzers &amp; tabbladen tussen uw desktop en mobiel">
 <!ENTITY firstrun.addons2.title        "Aanpassen">
