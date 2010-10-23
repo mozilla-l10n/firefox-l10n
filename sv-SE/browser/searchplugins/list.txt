@@ -1,5 +1,5 @@
 allaannonser-sv-SE
-creativecommons
+bing
 google
 prisjakt-sv-SE
 tyda-sv-SE
