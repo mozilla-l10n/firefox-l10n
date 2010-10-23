@@ -105,6 +105,7 @@
 <!ENTITY contextShareVideo.label      "Video delen">
 <!ENTITY contextPlayMedia.label       "Afspelen">
 <!ENTITY contextPauseMedia.label      "Pauzeren">
+<!ENTITY contextFullScreen.label      "Volledig scherm">
 
 <!ENTITY pageactions.saveas.pdf      "Opslaan als PDF">
 <!ENTITY pageactions.share.page      "Pagina delen">
