@@ -186,3 +186,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Omlouváme se, ale při nahrávání poznámek k vydání nastala chyba.">
 
 <!ENTITY addon.createdBy.label "Od ">
+
+<!ENTITY eula.title "Licenční smlouva s koncovým uživatelem">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Přijmout a instalovat…">
