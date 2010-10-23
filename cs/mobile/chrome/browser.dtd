@@ -96,6 +96,7 @@
 <!ENTITY contextShareVideo.label "Sdílet video">
 <!ENTITY contextPlayMedia.label "Přehrát">
 <!ENTITY contextPauseMedia.label "Pozastavit">
+<!ENTITY contextFullScreen.label "Celá obrazovka">
 <!ENTITY contextEditBookmark.label "Upravit">
 <!ENTITY contextRemoveBookmark.label "Odebrat">
 
