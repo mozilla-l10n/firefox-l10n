@@ -23,9 +23,7 @@
 <!ENTITY bookmarksHeader.label     "Bladwijzers">
 <!ENTITY historyHeader.label       "Geschiedenis">
 <!ENTITY desktopHeader.label       "Desktop">
-<!ENTITY bookmarksManage.label     "Beheren">
 
-<!ENTITY editBookmarkRemove.label  "Verwijderen">
 <!ENTITY editBookmarkDone.label    "Klaar">
 <!ENTITY editBookmarkTags.label    "Labels hier toevoegen">
 
@@ -106,6 +104,8 @@
 <!ENTITY contextPlayMedia.label       "Afspelen">
 <!ENTITY contextPauseMedia.label      "Pauzeren">
 <!ENTITY contextFullScreen.label      "Volledig scherm">
+<!ENTITY contextEditBookmark.label    "Bewerken">
+<!ENTITY contextRemoveBookmark.label  "Verwijderen">
 
 <!ENTITY pageactions.saveas.pdf      "Opslaan als PDF">
 <!ENTITY pageactions.share.page      "Pagina delen">
