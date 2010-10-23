@@ -98,3 +98,10 @@
 <!ENTITY contextOpenInNewTab.label    "Koppeling openen in nieuw tabblad">
 <!ENTITY contextSaveLink.label        "Koppeling opslaan">
 <!ENTITY contextSaveImage.label    "Afbeelding opslaan">
+
+<!ENTITY pageactions.saveas.pdf      "Opslaan als PDF">
+<!ENTITY pageactions.share.page      "Pagina delen">
+<!ENTITY pageactions.password.forget "Wachtwoord vergeten">
+<!ENTITY pageactions.reset           "Websitevoorkeuren wissen">
+<!ENTITY pageactions.findInPage      "Zoeken op pagina">
+<!ENTITY pageactions.search.addNew   "Zoekmachine toevoegen">
