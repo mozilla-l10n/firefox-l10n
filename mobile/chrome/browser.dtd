@@ -93,5 +93,6 @@
 <!ENTITY consoleErrLine.label      "Regel:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
 
-<!ENTITY contextOpenInNewTab.label "Koppeling openen in nieuw tabblad">
+<!ENTITY contextOpenInNewTab.label    "Koppeling openen in nieuw tabblad">
+<!ENTITY contextSaveLink.label        "Koppeling opslaan">
 <!ENTITY contextSaveImage.label    "Afbeelding opslaan">
