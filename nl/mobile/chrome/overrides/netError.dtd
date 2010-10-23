@@ -52,17 +52,12 @@
 <!ENTITY netInterrupt.title "De verbinding werd onderbroken">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "Offlinemodus">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>Probeer het opnieuw. &brandShortName; zal proberen een verbinding te openen en de pagina opnieuw laden.</li>
 </ul>
 ">
-
-<!ENTITY netOffline.title "Offlinemodus">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Inhoudcoderingsfout">
 <!ENTITY contentEncodingError.longDesc "
@@ -174,14 +169,14 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY securityOverride.getMeOutOfHereButton "Haal me hier vandaan!">
 <!ENTITY securityOverride.exceptionButtonLabel "Uitzondering toevoegen…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>U kunt beter geen uitzondering toevoegen als u een internetverbinding gebruikt die u niet volledig vertrouwt, of als u normaal gesproken geen waarschuwing krijgt voor deze server.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
