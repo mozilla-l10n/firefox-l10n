@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "Cha chum &brandShortName; eachdraidh an t-seisein seo 'na chuimhne.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "Chan eil &brandShortName; ann am modh brabhsaidh phrìobhaidich an-dràsta.">
 
-<!ENTITY privatebrowsingpage.description               "Cha chum &brandShortName; eachdraidh a' bhrabhsair, eachdraidh nan lorg, eachdraidh luchdaidh, eachdraidh fhoirmean-lìn, briosgaidean no faidhlichean-lìn sealach na chuimhne nuair a bhios tu ann am modh brabhsaidh phrìobhaidich. Ge-tà, thèid faidhlichean a luchdaicheas tu a-nuas agus comharraidhean-lìn a nì thu a chumail.">
+<!ENTITY privatebrowsingpage.description               "Cha chum &brandShortName; eachdraidh a' bhrabhsair, eachdraidh nan lorg, eachdraidh luchdaidh, eachdraidh fhoirmean-lìn, briosgaidean no faidhlichean-lìn sealach na chuimhne nuair a bhios tu ann am modh brabhsaidh phrìobhaidich. Ge-tà, thèid faidhlichean a luchdaicheas tu a-nuas agus comharran-lìn a nì thu a chumail.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->

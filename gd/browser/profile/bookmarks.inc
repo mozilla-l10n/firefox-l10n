@@ -4,15 +4,15 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Comharraidhean-lìn
-#define bookmarks_heading Comharraidhean-lìn
+#define bookmarks_title Comharran-lìn
+#define bookmarks_heading Comharran-lìn
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
 #define bookmarks_addons Faigh tuilleadain nan comharra-lìn
 
 #define bookmarks_toolbarfolder Pasgan do bhàr nan comharra-lìn
-#define bookmarks_toolbarfolder_description Cuir comharraidhean-lìn sa phasgan seo gus am faicinn air bàr nan comharra-lìn
+#define bookmarks_toolbarfolder_description Cuir comharran-lìn sa phasgan seo gus am faicinn air bàr nan comharra-lìn
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/

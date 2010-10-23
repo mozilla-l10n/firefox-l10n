@@ -40,7 +40,7 @@
 
 <!ENTITY            windowtitle.label      "&brandShortName; - Tagh pròifil cleachdaiche">
 
-<!ENTITY            profilename.label      "Ainm cunntais">
+<!ENTITY            profilename.label      "Ainm na pròifile:">
 
 <!ENTITY            start.label            "Thòisich &brandShortName;">
 <!ENTITY            exit.label             "Fàg an-seo">

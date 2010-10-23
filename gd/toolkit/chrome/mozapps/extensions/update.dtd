@@ -44,7 +44,7 @@
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Briog air Crìochnaich gus leantainn ort le &brandShortName; a thòiseachadh.">
-<!ENTITY  clickFinish.labelMac            "Briog air &quot;Dèanta&quot; gus leantainn ort le &brandShortName; a thòiseachadh.">
+<!ENTITY  clickFinish.labelMac            "Briog air Dèanta gus leantainn ort le &brandShortName; a thòiseachadh.">
 <!ENTITY  enableChecking.label            "Leig le &brandShortName; ùrachaidhean a lorg.">
 <!ENTITY  details.label                   "Mion-fhiosrachadh…">
 <!ENTITY  details.accesskey               "M">

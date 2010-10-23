@@ -47,7 +47,7 @@
 <!ENTITY viewMenu.accesskey "S">
 <!ENTITY compositionToolbarCmd.label "Bàr-inneil sgrìobhaidh">
 <!ENTITY compositionToolbarCmd.accesskey "B">
-<!ENTITY formattingToolbarCmd.label "Bàr-inneil fòrmataidh">
+<!ENTITY formattingToolbarCmd.label "Am bàr-inneil fòrmataidh">
 <!ENTITY formattingToolbarCmd.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Bàr-inneil a' mhodh-deasachaidh">
 <!ENTITY editmodeToolbarCmd.accesskey "e">

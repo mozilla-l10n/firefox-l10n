@@ -63,7 +63,7 @@
 <!ENTITY otherDirList.tooltip         "Tagh no cuir a-steach ainm an fho-eòlaire chèin far an dèid na faidhlichean fhoillseachadh">
 <!ENTITY pageTitle.label              "Tiotal na duilleige:">
 <!ENTITY pageTitle.accesskey          "T">
-<!ENTITY pageTitle.tooltip            "Cuir a-steach tiotal air a dh'aithnichear an duilleag san uinneag agus sna comharraidhean-lìn">
+<!ENTITY pageTitle.tooltip            "Cuir a-steach tiotal air a dh'aithnichear an duilleag san uinneag agus sna comharran-lìn">
 <!ENTITY pageTitleExample.label       "m.e.: &quot;An duilleag-lìn agamsa&quot;">
 <!ENTITY filename.label               "Ainm an fhaidhle:">
 <!ENTITY filename.accesskey           "f">

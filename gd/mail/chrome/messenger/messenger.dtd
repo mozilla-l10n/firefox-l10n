@@ -730,7 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Cuir &brandShortName; bacadh air susbaint chèin san teachdaireachd seo gus do phrìobhaideachd a dhìon.">
+<!ENTITY remoteContentMessage2.label "Chuir &brandShortName; bacadh air susbaint chèin san teachdaireachd seo gus do phrìobhaideachd a dhìon.">
 <!ENTITY loadRemoteContentButton3.label "Seall an t-susbaint chèin">
 
 <!-- Phishing Bar -->
