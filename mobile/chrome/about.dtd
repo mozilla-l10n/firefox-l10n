@@ -5,6 +5,10 @@
 <!ENTITY aboutPage.rights.label                 "Ken uw rechten">
 <!ENTITY aboutPage.relNotes.label               "Uitgaveopmerkingen">
 <!ENTITY aboutPage.credits.label                "Credits">
+<!ENTITY aboutPage.checkForUpdates.button       "Controleren op updates">
+<!ENTITY aboutPage.checkForUpdates.checking     "Updates zoeken…">
+<!ENTITY aboutPage.checkForUpdates.none         "Geen updates beschikbaar">
+<!ENTITY aboutPage.checkForUpdates.found        "Update beschikbaar">
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
