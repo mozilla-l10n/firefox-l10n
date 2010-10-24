@@ -65,7 +65,7 @@
 <!ENTITY  finishedPage.text               "La mise à jour sera installée au prochain démarrage de &brandShortName;. Vous pouvez
                                            redémarrer &brandShortName; maintenant, ou continuer votre travail et redémarrer plus tard.">
 
-<!ENTITY  finishedBackgroundPage.text     "Une mise à jour de sécurité de de stabilité pour &brandShortName; a été
+<!ENTITY  finishedBackgroundPage.text     "Une mise à jour de sécurité et de stabilité pour &brandShortName; a été
                                            téléchargée et est prête à être installée.">
 
 <!ENTITY  finishedBackground.name         "Mise à jour :">
