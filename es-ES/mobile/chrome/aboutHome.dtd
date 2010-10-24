@@ -1,7 +1,7 @@
 <!ENTITY aboutHome.header "<span id='header-suffix'>Inicio de</span> <span>&brandShortName;</span>">
-<!ENTITY aboutHome.recentTabs "Sus pestañas de la última navegación">
-<!ENTITY aboutHome.remoteTabs "Pestañas de tus otros equipos">
-<!ENTITY aboutHome.recommendedAddons2 "Complementos para su &brandShortName;">
+<!ENTITY aboutHome.recentTabs "Pestañas de su última sesión">
+<!ENTITY aboutHome.remoteTabs "Pestañas de sus otros equipos">
+<!ENTITY aboutHome.recommendedAddons2 "Complementos para &brandShortName;">
 <!ENTITY aboutHome.giveFeedback "Opinar">
 <!ENTITY aboutHome.openAllTabs "Abrir todo en pestañas">
 <!ENTITY aboutHome.noTabs "No hay pestañas de la última vez">

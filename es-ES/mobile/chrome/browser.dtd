@@ -1,4 +1,4 @@
-<!ENTITY urlbar.emptytext "Introducir búsqueda o dirección">
+<!ENTITY urlbar.emptytext "Búsqueda o dirección">
 <!ENTITY back.label "Anterior">
 <!ENTITY forward.label "Siguiente">
 <!ENTITY reload.label "Recargar">
