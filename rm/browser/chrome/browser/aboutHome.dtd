@@ -1,0 +1,28 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "Pagina da partenza da &brandFullName;">
+
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
+
+<!ENTITY abouthome.searchEngineButton.label "Tschertgar">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Tschertga avanzada">
+<!ENTITY abouthome.searchEngineLinks.preferences "Preferenzas">
+
+<!ENTITY abouthome.aboutMozilla "Davart Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Grazia per tscherner Firefox! Guarda las <a>novas funcziunalitads</a> per pudair utilisar optimalmain tes navigatur.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Igl è simpel da persunalisar Firefox. <a>Tscherna in da millis supplements</a>.">
