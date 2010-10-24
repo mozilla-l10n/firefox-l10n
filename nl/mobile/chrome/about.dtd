@@ -10,6 +10,7 @@
 <!ENTITY aboutPage.checkForUpdates.none         "Geen updates beschikbaar">
 <!ENTITY aboutPage.checkForUpdates.found        "Update beschikbaar">
 
+
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->

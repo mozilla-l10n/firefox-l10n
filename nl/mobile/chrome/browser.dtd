@@ -19,7 +19,7 @@
 <!ENTITY noSuggestions.label   "(Geen suggesties)">
 <!ENTITY addToDictionary.label "Toevoegen aan woordenboek">
 
-<!ENTITY allPagesHeader.label      "Alle pagina's">
+<!ENTITY allPagesHeader.label      "Alle pagina’s">
 <!ENTITY bookmarksHeader.label     "Bladwijzers">
 <!ENTITY historyHeader.label       "Geschiedenis">
 <!ENTITY desktopHeader.label       "Desktop">

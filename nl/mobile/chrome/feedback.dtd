@@ -1,4 +1,4 @@
-<!ENTITY feedbackHeader.label           "Bètatester gereedschappen">
+<!ENTITY feedbackHeader.label           "Hulpmiddelen voor bètatesters">
 
 <!ENTITY feedback.communicate.title     "Communiceer met ons!">
 <!ENTITY feedback.feedback.title        "Feedback geven">
@@ -6,9 +6,9 @@
 <!ENTITY feedback.feedback.bad          "Slecht">
 
 <!ENTITY feedback.information.title     "Meer informatie">
-<!ENTITY feedback.about.title           "Over deze bèta ">
+<!ENTITY feedback.about.title           "Over deze bèta">
 <!ENTITY feedback.about.button          "Naar pagina gaan">
 
-<!ENTITY feedback.tools.title           "Gereedschappen">
+<!ENTITY feedback.tools.title           "Hulpmiddelen">
 <!ENTITY feedback.forceCompat.title     "Add-oncompatibiliteit forceren">
-<!ENTITY feedback.errorConsole.title    "Foutconsole inschakelen">
+<!ENTITY feedback.errorConsole.title    "De foutconsole inschakelen">
