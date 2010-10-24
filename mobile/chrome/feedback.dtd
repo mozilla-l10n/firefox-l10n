@@ -7,5 +7,5 @@
 <!ENTITY feedback.about.title "Acerca de esta Beta">
 <!ENTITY feedback.about.button "Ir a la página">
 <!ENTITY feedback.tools.title "Herramientas">
-<!ENTITY feedback.forceCompat.title "Forzar la compatibilidad de extensiones">
+<!ENTITY feedback.forceCompat.title "Forzar la comp. de ext.">
 <!ENTITY feedback.errorConsole.title "Activar la Consola de errores">
