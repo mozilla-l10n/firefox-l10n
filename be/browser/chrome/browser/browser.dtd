@@ -88,7 +88,6 @@
 <!ENTITY forwardCmd.label "Наперад">
 <!ENTITY forwardCmd.accesskey "п">
 <!ENTITY forwardButton.tooltip "Наступная старонка">
-<!ENTITY backForwardMenu.tooltip "Нядаўнія старонкі">
 <!ENTITY reloadCmd.label "Абнавіць">
 <!ENTITY reloadCmd.accesskey "в">
 <!ENTITY reloadButton.tooltip "Абнавіць гэтую старонку">

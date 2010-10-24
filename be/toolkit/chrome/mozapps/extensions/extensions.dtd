@@ -148,3 +148,7 @@
 <!ENTITY addon.loadingReleaseNotes.label "Загрузка…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Прабачце, здарылася памылка падчас загрузкі заўвагаў пра выданне.">
 <!ENTITY addon.createdBy.label "By ">
+<!ENTITY eula.title "Ліцэнзійнае Пагадненне канчатковага карыстальніка">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Пагадзіцца і ўсталяваць…">
