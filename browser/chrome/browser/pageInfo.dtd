@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Intallar extensiuns u designs">
 <!ENTITY  permGeo               "Trametter location">
 
+<!ENTITY  permIndexedDB              "Mantegnair ina memoria offline">
+<!ENTITY  permClearStorage           "Stizzar memoria">
+<!ENTITY  permClearStorage.accesskey "z">
+
 <!ENTITY  securityTab           "Segirezza">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Infurmaziuns da segirezza per questa pagina">
