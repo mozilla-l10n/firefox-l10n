@@ -39,13 +39,13 @@
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; denkt aan uw privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "Om uw totale privacy te waarborgen worden al uw gegevens versleuteld voordat het wordt geüpload. De Syncsleutel welke nodig is om uw gegevens te ontcijferen wordt niet geüpload.">
-<!ENTITY syncKeyEntry.label        "Uw Syncsleutel">
+<!ENTITY setup.newSyncKeyPage.description.label "Om uw totale privacy te waarborgen worden al uw gegevens versleuteld voordat het wordt geüpload. De Sync-sleutel welke nodig is om uw gegevens te ontcijferen wordt niet geüpload.">
+<!ENTITY syncKeyEntry.label        "Uw Sync-sleutel">
 <!ENTITY syncKeyEntry.accesskey    "s">
 <!ENTITY syncKeyGenerate.label     "Genereren">
 <!ENTITY syncKeyStrength.label     "Sterkte:">
 <!ENTITY syncKeyHelp.label         "Wat betekent sterkte?">
-<!ENTITY syncKeyBackup.description "Uw Syncsleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw Syncsleutel niet herstellen.">
+<!ENTITY syncKeyBackup.description "Uw Sync-sleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw Sync-sleutel niet herstellen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Afdrukken…">
 <!ENTITY button.syncKeyBackup.print.accesskey "A">
@@ -61,10 +61,10 @@
 <!ENTITY connecting.label             "Verbinden…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Voer uw Syncsleutel in">
-<!ENTITY setup.existingSyncKeyPage.description "De Syncsleutel is gegenereerd voor u of u heeft er een ingevoerd tijdens de eerste set-up van &syncBrand.fullName.label;. Het is niet hetzelfde als uw wachtwoord.">
-<!ENTITY existingSyncKeyHelp.description "U kunt uw opgeslagen Syncsleutel vinden door naar uw andere computer te gaan en de Opgeslagen wachtwoorden onder Beveiliging te controleren. Als u de juiste Syncsleutel nog steeds niet kunt vinden, kunt u deze opnieuw instellen, maar u zult alle opgeslagen gegevens op de server verliezen.">
-<!ENTITY lostSyncKey.label            "Ik ben mijn Syncsleutel kwijt">
+<!ENTITY setup.existingSyncKeyPage.title "Voer uw Sync-sleutel in">
+<!ENTITY setup.existingSyncKeyPage.description "De Sync-sleutel is gegenereerd voor u of u heeft er een ingevoerd tijdens de eerste set-up van &syncBrand.fullName.label;. Het is niet hetzelfde als uw wachtwoord.">
+<!ENTITY existingSyncKeyHelp.description "U kunt uw opgeslagen Sync-sleutel vinden door naar uw andere computer te gaan en de Opgeslagen wachtwoorden onder Beveiliging te controleren. Als u de juiste Sync-sleutel nog steeds niet kunt vinden, kunt u deze opnieuw instellen, maar u zult alle opgeslagen gegevens op de server verliezen.">
+<!ENTITY lostSyncKey.label            "Ik ben mijn Sync-sleutel kwijt">
 <!ENTITY verifying.label              "Verifiëren…">
 
 <!-- Sync Options -->

@@ -16,7 +16,7 @@
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Quota bekijken">
 <!ENTITY changePassword.label         "Wachtwoord wijzigen">
-<!ENTITY mySyncKey.label              "Mijn Syncsleutel">
+<!ENTITY mySyncKey.label              "Mijn Sync-sleutel">
 <!ENTITY resetSync.label              "Synchronisatie herinitialiseren">
 <!ENTITY stopUsingAccount.label       "Gebruik van deze account stoppen">
 
