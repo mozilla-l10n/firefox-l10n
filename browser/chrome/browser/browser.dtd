@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Frem">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Gå frem en side">
-<!ENTITY backForwardMenu.tooltip      "Nylig brukte sider">
 <!ENTITY reloadCmd.label              "Oppdater">
 <!ENTITY reloadCmd.accesskey          "O">
 <!ENTITY reloadButton.tooltip         "Vis nyeste innhold i aktiv side">
@@ -514,10 +513,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Ferdig">
 <!ENTITY editBookmark.cancel.label                   "Avbryt">
 <!ENTITY editBookmark.removeBookmark.accessKey       "S">
-<!ENTITY editBookmark.undo.label                     "Angre">
-<!ENTITY editBookmark.undo.accessKey                 "A">
-<!ENTITY editBookmark.edit.label                     "Rediger …">
-<!ENTITY editBookmark.edit.accessKey                 "R">
 
 <!ENTITY identity.unverifiedsite2 "Dette nettstedet har ingen identitetsinformasjon.">
 <!ENTITY identity.connectedTo "Du er tilkoblet">
