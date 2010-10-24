@@ -21,7 +21,7 @@
 <!ENTITY sync.title                                "Sync">
 <!ENTITY sync.account2                             "Accountnaam">
 <!ENTITY sync.password                             "Wachtwoord">
-<!ENTITY sync.syncKey                              "Syncsleutel">
+<!ENTITY sync.syncKey                              "Sync-sleutel">
 <!ENTITY sync.deviceName                           "Apparaatnaam">
 <!ENTITY sync.connect                              "Verbinden">
 <!ENTITY sync.disconnect                           "Verbinding verbreken">
