@@ -134,6 +134,10 @@
 <!ENTITY calendar.task.filter.completed.accesskey "A">
 <!ENTITY calendar.task.filter.open.label "Attività non completate">
 <!ENTITY calendar.task.filter.open.accesskey "m">
+<!ENTITY calendar.task.filter.current.label "Attività correnti">
+<!ENTITY calendar.task.filter.current.accesskey "c">
+<!ENTITY calendar.task.filter.repeating.label "Attività ripetute">
+<!ENTITY calendar.task.filter.repeating.accesskey "r">
 <!ENTITY calendar.task-details.title.label "titolo">
 <!ENTITY calendar.task-details.organizer.label "da">
 <!ENTITY calendar.task-details.priority.label "priorità">
