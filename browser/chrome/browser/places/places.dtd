@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Administrar">
 <!ENTITY organize.accesskey    "A">
+<!ENTITY organize.tooltip      "Administrar tes segnapaginas">
 
 <!ENTITY file.accesskey                 "D">
 <!ENTITY file.close.label               "Serrar">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                 "M">
 <!ENTITY views.label                    "Vistas">
 <!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "Midar la vista">
 <!ENTITY view.columns.label             "Mussar las colonnas">
 <!ENTITY view.columns.accesskey         "M">
 <!ENTITY view.sort.label                "Zavrar">
@@ -24,17 +26,17 @@
 <!ENTITY view.sortDescending.label      "Descendent ">
 <!ENTITY view.sortDescending.accesskey  "D">
 
-<!ENTITY cmd.findInBookmarks.label      "Tschertgar en ils segnapaginas...">
+<!ENTITY cmd.findInBookmarks.label      "Tschertgar en ils segnapaginas…">
 <!ENTITY cmd.findInBookmarks.accesskey  "s">
-<!ENTITY cmd.findCurrent.label          "Tschertgar en la selecziun actuala...">
+<!ENTITY cmd.findCurrent.label          "Tschertgar en la selecziun actuala…">
 <!ENTITY cmd.findCurrent.accesskey      "T">
 
-<!ENTITY cmd.exportHTML.label           "Exportar HTML...">
+<!ENTITY cmd.exportHTML.label           "Exportar HTML…">
 <!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Importar HTML...">
+<!ENTITY cmd.importHTML.label           "Importar HTML…">
 <!ENTITY cmd.importHTML.accesskey       "I">
 
-<!ENTITY cmd.backup.label               "Copia da segirezza...">
+<!ENTITY cmd.backup.label               "Copia da segirezza…">
 <!ENTITY cmd.backup.accesskey           "C">
 <!ENTITY cmd.restore2.label             "Restituir">
 <!ENTITY cmd.restore2.accesskey         "R">
@@ -64,11 +66,9 @@
 <!ENTITY cmd.sortby_name.accesskey          "Z">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Nov segnapagina...">
+<!ENTITY cmd.new_bookmark.label            "Nov segnapagina…">
 <!ENTITY cmd.new_bookmark.accesskey        "N">
-<!ENTITY cmd.new_livemark.label            "Nov segnapagina dinamic...">
-<!ENTITY cmd.new_livemark.accesskey        "d">
-<!ENTITY cmd.new_folder.label              "Nov ordinatur...">
+<!ENTITY cmd.new_folder.label              "Nov ordinatur…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "O">
 <!ENTITY cmd.new_separator.label           "Nova lingia da separaziun">
@@ -79,7 +79,7 @@
 <!ENTITY cmd.reloadMicrosummary.label      "Rechargiar il titel live">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "t">
 
-<!ENTITY cmd.moveBookmarks.label                  "Spustar...">
+<!ENTITY cmd.moveBookmarks.label                  "Spustar…">
 <!ENTITY cmd.moveBookmarks.accesskey              "S">
 
 <!ENTITY col.name.label          "Num">
@@ -109,6 +109,7 @@
 
 <!ENTITY maintenance.label      "Importar e far ina copia da segirezza">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Importar e far ina copia da segirezza da tes segnapaginas">
 
 <!ENTITY backCmd.label       "Enavos">
 <!ENTITY backButton.tooltip  "A la pagina precedenta">
