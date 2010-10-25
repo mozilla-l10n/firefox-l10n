@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        "Avrir ils tabs davantvart">
 <!ENTITY switchToNewTabs.accesskey    "s">
+
+<!ENTITY showTabsInTaskbar.label          "Mussar previstas dals tabs en la taskbar da Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "k">

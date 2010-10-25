@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Mussar la pagina da partenza">
 <!ENTITY startupBlankPage.label    "Mussar ina pagina vida">
 <!ENTITY startupLastSession.label  "Mussar las fanestras ed ils tabs da l'ultima sesida">
-<!ENTITY location.label            "Pagina da partenza:">
-<!ENTITY location.accesskey        "P">
+<!ENTITY homepage.label            "Pagina da partenza:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Utilisar la pagina actuala">
 <!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Utilisar las paginas actualas">

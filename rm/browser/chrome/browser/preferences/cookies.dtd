@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "Ils suandants cookies èn arcunads sin tes computer:">
 <!ENTITY     cookiename.label               "Num dal cookie">
 <!ENTITY     cookiedomain.label             "Website"> 
+<!ENTITY     button.removecookies.label     "Stizzar ils cookies">
 <!ENTITY     button.removecookie.label      "Stizzar il cookie">
 <!ENTITY     button.removecookie.accesskey  "c">
 <!ENTITY     button.removeallcookies.label  "Stizzar tut ils cookies">

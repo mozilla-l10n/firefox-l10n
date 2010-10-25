@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Pleds-clav memorisads...">
 <!ENTITY  savedPasswords.accesskey        "P">
-
-
-<!ENTITY  warnings.label                "Messadis d'avertiment">
-
-<!ENTITY  chooseWarnings.label          "Definir da tge che ti vuls vegnir avertì navigond en l'internet">
-
-<!ENTITY  warningSettings.label         "Preferenzas...">
-<!ENTITY  warningSettings.accesskey     "e">

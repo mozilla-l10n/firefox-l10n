@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Activar la defilada cuntinuanta">
 <!ENTITY useSmoothScrolling.accesskey    "A">
+<!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'accelleraziun entras hardware da grafica">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Controllar l'ortografia durant l'endataziun">
 <!ENTITY checkSpelling.accesskey         "r">
 
@@ -39,16 +41,18 @@
 <!ENTITY offlineStorage.label            "Memoria offline">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "I vegn utilisada ina capacitad da memorisar da fin">
-<!ENTITY useCacheBefore.accesskey        "u">
-<!ENTITY useCacheAfter.label             "MB sco cache">
+<!ENTITY limitCacheSizeBefore.label      "Limitar il cache fin a">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB capacitad">
 <!ENTITY clearCacheNow.label             "Svidar ussa">
 <!ENTITY clearCacheNow.accesskey         "S">
+<!ENTITY overrideSmartCacheSize.label    "Surscriver l'administraziun automatica dal cache">
+<!ENTITY overrideSmartCacheSize.accesskey "c">
 
 <!ENTITY updateTab.label                 "Actualisaziun">
 
