@@ -7,7 +7,7 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="address_books"
          nc:name="adressböcker"
-         nc:link="mail_help.xhtml#about_address_books"/>
+         nc:link="mailnews_getting_started.xhtml#about_address_books"/>
      </rdf:li>
       <rdf:li>
        <rdf:Description ID="Customizing"
@@ -17,12 +17,12 @@
      <rdf:li>
        <rdf:Description ID="Working_Offline"
          nc:name="Arbeta i nedkopplat läge"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_getting_started.xhtml#working_offline"/>
      </rdf:li>     
      <rdf:li>
        <rdf:Description ID="Filing_messages"
          nc:name="Arkivera meddelanden"
-         nc:link="mail_help.xhtml#filing_messages_in_folders"/>
+         nc:link="mailnews_getting_started.xhtml#filing_messages_in_folders"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Venkman"
@@ -37,37 +37,37 @@
      <rdf:Seq>    <rdf:li>
        <rdf:Description ID="address_books:exporting"
          nc:name="exportera adressböcker"
-         nc:link="mail_help.xhtml#exporting_address_books"/>
+         nc:link="mailnews_getting_started.xhtml#exporting_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:importing"
          nc:name="importera adressböcker"
-         nc:link="mail_help.xhtml#importing_address_books"/>
+         nc:link="mailnews_getting_started.xhtml#importing_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:LDAP_directories"
          nc:name="LDAP-kataloger"
-         nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+         nc:link="mailnews_getting_started.xhtml#adding_and_removing_ldap_directories"/>
      </rdf:li>
       <rdf:li>
       <rdf:Description ID="address_books:adding_entries"
          nc:name="lägga till adressboksposter"
-         nc:link="mail_help.xhtml#adding_entries_to_your_address_books"/>
+         nc:link="mailnews_getting_started.xhtml#adding_entries_to_your_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:creating"
          nc:name="skapa en ny adressbok"
-         nc:link="mail_help.xhtml#creating_a_new_address_book"/>
+         nc:link="mailnews_getting_started.xhtml#creating_a_new_address_book"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:creating_mailing_lists"
          nc:name="skapa en sändlista"
-         nc:link="mail_help.xhtml#creating_a_mailing_list"/>
+         nc:link="mailnews_getting_started.xhtml#creating_a_mailing_list"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:searching"
          nc:name="söka i adressboken"
-         nc:link="mail_help.xhtml#searching_address_books_and_directories"/>
+         nc:link="mailnews_getting_started.xhtml#searching_address_books_and_directories"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -77,7 +77,7 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="attaching_files_to_messages"
          nc:name="bifoga filer till meddelanden"
-         nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+         nc:link="mailnews_getting_started.xhtml#attaching_a_file_or_web_page"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="images"
@@ -366,7 +366,7 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="Newsgroups"
          nc:name="diskussionsgrupper"
-         nc:link="mail_help.xhtml#getting_started_with_newsgroups"/>
+         nc:link="mailnews_getting_started.xhtml#getting_started_with_newsgroups"/>
      </rdf:li>     <rdf:li>
        <rdf:Description ID="DOM_Inspector"
          nc:name="DOM Inspector"
@@ -380,12 +380,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Newsgroups:getting_started"
          nc:name="komma igång med diskussionsgrupper"
-         nc:link="mail_help.xhtml#getting_started_with_newsgroups"/>
+         nc:link="mailnews_getting_started.xhtml#getting_started_with_newsgroups"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Newsgroups:server_settings"
          nc:name="serverinställningar för diskussionsgrupper"
-         nc:link="mail_help.xhtml#server_settings"/>
+         nc:link="mailnews_getting_started.xhtml#server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -400,7 +400,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups"
          nc:name="E-post och Grupper"
-         nc:link="mail_help.xhtml"/>
+         nc:link="mailnews_getting_started.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="email_addresses"
@@ -409,7 +409,7 @@
      <rdf:li>
        <rdf:Description ID="Tags"
          nc:name="Etiketter"
-         nc:link="mail_help.xhtml#tagging_messages"/>
+         nc:link="mailnews_getting_started.xhtml#tagging_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="popup_windows"
@@ -424,12 +424,12 @@
      <rdf:Seq>    <rdf:li>
        <rdf:Description ID="email_addresses:in_mail_messages"
          nc:name="e-postadress i meddelanden"
-         nc:link="mail_help.xhtml#addressing_a_message"/>
+         nc:link="mailnews_getting_started.xhtml#addressing_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="email_addresses:address_books_and"
          nc:name="lägga till e-postadresser i adressböcker"
-         nc:link="mail_help.xhtml#adding_entries_to_your_address_books"/>
+         nc:link="mailnews_getting_started.xhtml#adding_entries_to_your_address_books"/>
      </rdf:li> </rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -439,7 +439,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Tags:general_preferences"
          nc:name="inställningar för etiketter"
-         nc:link="mail_help.xhtml#tags"/>
+         nc:link="mailnews_getting_started.xhtml#tags"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -538,7 +538,7 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="HTML:using_in_mail_messages"
          nc:name="använda HTML i e-postmeddelanden"
-         nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+         nc:link="mailnews_getting_started.xhtml#using_html_in_your_messages"/>
      </rdf:li>     <rdf:li>
        <rdf:Description ID="HTML:using_in_Composer"
          nc:name="infoga HTML i Composer"
@@ -547,7 +547,7 @@
 	<rdf:li>
        <rdf:Description ID="HTML:editing_in_mail_messages"
          nc:name="redigera HTML i e-postmeddelanden"
-         nc:link="mail_help.xhtml#editing_or_inserting_html_elements"/>
+         nc:link="mailnews_getting_started.xhtml#editing_or_inserting_html_elements"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -582,7 +582,7 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="IMAP"
          nc:name="IMAP"
-         nc:link="mail_help.xhtml#about_internet_message_access_protocol"/>
+         nc:link="mailnews_getting_started.xhtml#about_internet_message_access_protocol"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="import"
@@ -615,17 +615,17 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="IMAP:advanced_mail_settings"
          nc:name="avancerade IMAP-inställningar"
-         nc:link="mail_help.xhtml#advanced_imap_server_settings"/>
+         nc:link="mailnews_getting_started.xhtml#advanced_imap_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="IMAP:server_settings"
          nc:name="IMAP-serverinställningar"
-         nc:link="mail_help.xhtml#imap_server_settings"/>
+         nc:link="mailnews_getting_started.xhtml#imap_server_settings"/>
      </rdf:li>	
      <rdf:li>
        <rdf:Description ID="IMAP:about"
          nc:name="om IMAP"
-         nc:link="mail_help.xhtml#about_internet_message_access_protocol"/>
+         nc:link="mailnews_getting_started.xhtml#about_internet_message_access_protocol"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -635,7 +635,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="import:address_book"
          nc:name="importera adressböcker"
-         nc:link="mail_help.xhtml#importing_address_books"/>
+         nc:link="mailnews_getting_started.xhtml#importing_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="import:bookmark_list"
@@ -655,7 +655,7 @@
      <rdf:li>
        <rdf:Description ID="import:mail"
          nc:name="importera e-post eller inställningar från andra program"
-         nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
+         nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -670,7 +670,7 @@
      <rdf:li>
        <rdf:Description ID="settings:signed_and_encrypted mail"
          nc:name="inställningar för signerad och krypterad e-post"
-         nc:link="mail_help.xhtml#security"/>
+         nc:link="mailnews_getting_started.xhtml#security"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="settings:SSL"
@@ -895,7 +895,7 @@
      <rdf:li>
        <rdf:Description ID="Account_Settings"
          nc:name="Kontoinställningar"
-         nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
+         nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/>
      </rdf:li>
 	<rdf:li>
        <rdf:Description ID="copy web pages"
@@ -1046,7 +1046,7 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="LDAP"
          nc:name="LDAP"
-         nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+         nc:link="mailnews_getting_started.xhtml#adding_and_removing_ldap_directories"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="lock_icon"
@@ -1081,17 +1081,17 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="LDAP:global_settings"
          nc:name="LDAP-inställningar"
-         nc:link="mail_help.xhtml#addressing_preferences"/>
+         nc:link="mailnews_getting_started.xhtml#addressing_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="LDAP:adding_to_address_book"
          nc:name="lägga till kataloger i adressbok"
-         nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+         nc:link="mailnews_getting_started.xhtml#adding_and_removing_ldap_directories"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="LDAP:directory_server_settings"
          nc:name="inställningar för katalogserver"
-         nc:link="mail_help.xhtml#directory_server_settings"/>
+         nc:link="mailnews_getting_started.xhtml#directory_server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1111,12 +1111,12 @@
      <rdf:li>
        <rdf:Description ID="adding:newsgroup_account"
          nc:name="lägga till ett nytt diskussionsgruppkonto"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding:mail_account"
          nc:name="skapa ett nytt e-postkonto"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1176,7 +1176,7 @@
      <rdf:li>
        <rdf:Description ID="return_receipts"
          nc:name="mottagningskvitton"
-         nc:link="mail_help.xhtml#return_receipts"/>
+         nc:link="mailnews_getting_started.xhtml#return_receipts"/>
      </rdf:li>     
      <rdf:li>
        <rdf:Description ID="mouse_wheel"
@@ -1191,212 +1191,212 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_messages"
          nc:name="adressera meddelanden"
-         nc:link="mail_help.xhtml#addressing_a_message"/>
+         nc:link="mailnews_getting_started.xhtml#addressing_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_preferences"
          nc:name="adresseringsinställningar"
-         nc:link="mail_help.xhtml#addressing_preferences"/>
+         nc:link="mailnews_getting_started.xhtml#addressing_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:general_preferences"
          nc:name="allmänna e-postinställningar"
-         nc:link="mail_help.xhtml#mail_and_newsgroup_preferences"/>
+         nc:link="mailnews_getting_started.xhtml#mail_and_newsgroup_preferences"/>
      </rdf:li>
       <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_options"
          nc:name="alternativ för att skicka"
-         nc:link="mail_help.xhtml#selecting_message_sending_options"/>
+         nc:link="mailnews_getting_started.xhtml#selecting_message_sending_options"/>
      </rdf:li>
     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_sending_options"
          nc:name="alternativ för att skicka HTML-meddelanden"
-         nc:link="mail_help.xhtml#choosing_html_mail_sending_options"/>
+         nc:link="mailnews_getting_started.xhtml#choosing_html_mail_sending_options"/>
      </rdf:li>
       <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_address_books"
          nc:name="använda adressböcker"
-         nc:link="mail_help.xhtml#using_address_books"/>
+         nc:link="mailnews_getting_started.xhtml#using_address_books"/>
      </rdf:li>
     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_HTML_in_messages"
          nc:name="använda HTML i meddelanden"
-         nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+         nc:link="mailnews_getting_started.xhtml#using_html_in_your_messages"/>
      </rdf:li>
     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
          nc:name="arbeta i nedkopplat läge"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_getting_started.xhtml#working_offline"/>
      </rdf:li>     
     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:filing_messages"
          nc:name="arkivera meddelanden"
-         nc:link="mail_help.xhtml#filing_messages_in_folders"/>
+         nc:link="mailnews_getting_started.xhtml#filing_messages_in_folders"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:address_autocompletion"
          nc:name="automatisk adresskomplettering"
-         nc:link="mail_help.xhtml#address_autocompletion"/>
+         nc:link="mailnews_getting_started.xhtml#address_autocompletion"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Advanced_IMAP_settings"
          nc:name="Avancerade IMAP-inställningar"
-         nc:link="mail_help.xhtml#advanced_imap_server_settings"/>
+         nc:link="mailnews_getting_started.xhtml#advanced_imap_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:replying_to_messages"
          nc:name="besvara meddelanden"
-         nc:link="mail_help.xhtml#replying_to_a_message"/>
+         nc:link="mailnews_getting_started.xhtml#replying_to_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:attaching_files"
          nc:name="bifoga filer"
-         nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+         nc:link="mailnews_getting_started.xhtml#attaching_a_file_or_web_page"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:renaming_folders"
          nc:name="byta namn på mappar"
-         nc:link="mail_help.xhtml#renaming_a_folder"/>
+         nc:link="mailnews_getting_started.xhtml#renaming_a_folder"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Disk_Space_settings"
          nc:name="Diskutrymmesinställningar"
-         nc:link="mail_help.xhtml#offline_and_disk_space"/>
+         nc:link="mailnews_getting_started.xhtml#offline_and_disk_space"/>
      </rdf:li>
     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:mail_window_layout"
          nc:name="e-postklientfönsterlayout"
-         nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/>
+         nc:link="mailnews_getting_started.xhtml#choosing_how_you_view_the_mail_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_attachments"
          nc:name="hantera bilagor"
-         nc:link="mail_help.xhtml#using_attachments"/>
+         nc:link="mailnews_getting_started.xhtml#using_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_Message_Source"
          nc:name="HTML-meddelandens kod"
-         nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages"/>
+         nc:link="mailnews_getting_started.xhtml#viewing_the_message_source_for_html_messages"/>
      </rdf:li>
     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:getting_new_messages"
          nc:name="hämta nya meddelanden"
-         nc:link="mail_help.xhtml#getting_new_messages"/>
+         nc:link="mailnews_getting_started.xhtml#getting_new_messages"/>
      </rdf:li>
       <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:identity_settings"
          nc:name="identitetsinställningar"
-         nc:link="mail_help.xhtml#account_settings"/>
+         nc:link="mailnews_getting_started.xhtml#account_settings"/>
      </rdf:li>
        <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copies_and_folder_settings"
          nc:name="inställningar för kopior och mappar"
-         nc:link="mail_help.xhtml#copies_and_folders"/>
+         nc:link="mailnews_getting_started.xhtml#copies_and_folders"/>
      </rdf:li>
 	<rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Account_Setup_Wizard"
          nc:name="Kontoguiden"
-         nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/>
+         nc:link="mailnews_getting_started.xhtml#using_the_mail_account_setup_wizard"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copying_folders"
          nc:name="kopiera mappar"
-         nc:link="mail_help.xhtml#moving_or_copying_a_folder"/>
+         nc:link="mailnews_getting_started.xhtml#moving_or_copying_a_folder"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:adding_accounts"
          nc:name="lägga till konton"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_recipients"
          nc:name="mottagare av HTML-meddelanden"
-         nc:link="mail_help.xhtml#specifying_recipients_for_html_messages"/>
+         nc:link="mailnews_getting_started.xhtml#specifying_recipients_for_html_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sorting_and_threading_messages"
          nc:name="ordna och gruppera meddelanden"
-         nc:link="mail_help.xhtml#sorting_and_threading_messages"/>
+         nc:link="mailnews_getting_started.xhtml#sorting_and_threading_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:POP_settings"
          nc:name="POP-inställningar"
-         nc:link="mail_help.xhtml#pop_server_settings"/>
+         nc:link="mailnews_getting_started.xhtml#pop_server_settings"/>
      </rdf:li>
     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_filters"
          nc:name="skapa filter"
-         nc:link="mail_help.xhtml#creating_message_filters"/>
+         nc:link="mailnews_getting_started.xhtml#creating_message_filters"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_HTML_mail_messages"
          nc:name="skapa HTML-meddelanden"
-         nc:link="mail_help.xhtml#creating_html_mail_messages"/>
+         nc:link="mailnews_getting_started.xhtml#creating_html_mail_messages"/>
      </rdf:li>
     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_folders"
          nc:name="skapa mappar"
-         nc:link="mail_help.xhtml#creating_a_folder"/>
+         nc:link="mailnews_getting_started.xhtml#creating_a_folder"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_messages"
          nc:name="skicka meddelanden"
-         nc:link="mail_help.xhtml#sending_messages"/>
+         nc:link="mailnews_getting_started.xhtml#sending_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:composing_messages"
          nc:name="skriva meddelanden"
-         nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages"/>
+         nc:link="mailnews_getting_started.xhtml#composing_mail_and_newsgroup_messages"/>
      </rdf:li>
     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Compose_window"
          nc:name="Skrivfönster"
-         nc:link="mail_help.xhtml#using_the_message_composition_window"/>
+         nc:link="mailnews_getting_started.xhtml#using_the_message_composition_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:SMTP_settings"
          nc:name="SMTP-inställningar"
-         nc:link="mail_help.xhtml#outgoing_server"/>
+         nc:link="mailnews_getting_started.xhtml#outgoing_server"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_attachments"
          nc:name="spara bilagor"
-         nc:link="mail_help.xhtml#saving_attachments"/>
+         nc:link="mailnews_getting_started.xhtml#saving_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_and_printing_messages"
          nc:name="spara och skriva ut meddelanden"
-         nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+         nc:link="mailnews_getting_started.xhtml#saving_and_printing_messages"/>
      </rdf:li>
     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_messages_drafts"
          nc:name="spara utkast till meddelande"
-         nc:link="mail_help.xhtml#saving_and_editing_a_message_draft"/>
+         nc:link="mailnews_getting_started.xhtml#saving_and_editing_a_message_draft"/>
      </rdf:li>
        <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:message_searching"
          nc:name="söka i meddelanden"
-         nc:link="mail_help.xhtml#searching_through_messages"/>
+         nc:link="mailnews_getting_started.xhtml#searching_through_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Character_Encoding"
          nc:name="Teckenkodning"
-         nc:link="mail_help.xhtml#character_encoding"/>
+         nc:link="mailnews_getting_started.xhtml#character_encoding"/>
      </rdf:li>
       <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:forwarding_messages"
          nc:name="vidarebefordra meddelanden"
-         nc:link="mail_help.xhtml#forwarding_a_message"/>
+         nc:link="mailnews_getting_started.xhtml#forwarding_a_message"/>
      </rdf:li>
       <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:viewing_attachments"
          nc:name="visa bilagor"
-         nc:link="mail_help.xhtml#viewing_and_opening_attachments"/>
+         nc:link="mailnews_getting_started.xhtml#viewing_and_opening_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:changing_account_settings"
          nc:name="ändra kontoinställningar"
-         nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
+         nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1406,12 +1406,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="return_receipts:using"
          nc:name="använda mottagningskvitton"
-         nc:link="mail_help.xhtml#confirming_that_your_message_was_opened"/>
+         nc:link="mailnews_getting_started.xhtml#confirming_that_your_message_was_opened"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="return_receipts:general_preferences"
          nc:name="inställningar för mottagningskvitton"
-         nc:link="mail_help.xhtml#return_receipts_preferences"/>
+         nc:link="mailnews_getting_started.xhtml#return_receipts_preferences"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1435,7 +1435,7 @@
      <rdf:li>
        <rdf:Description ID="phishing"
          nc:name="nätfiske"
-         nc:link="mail_help.xhtml#phishing_detection"/>
+         nc:link="mailnews_getting_started.xhtml#phishing_detection"/>
      </rdf:li>
 </rdf:Seq>
    </nc:subheadings>
@@ -1446,12 +1446,12 @@
      <rdf:Seq>    <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
          nc:name="E-post och Grupper i nedkopplat läge"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_getting_started.xhtml#working_offline"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline:general_preferences"
          nc:name="inställningar för nedkopplat läge"
-         nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/>
+         nc:link="mailnews_getting_started.xhtml#offline_and_disk_space_preferences"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1472,7 +1472,7 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="POP"
          nc:name="POP"
-         nc:link="mail_help.xhtml#about_post_office_protocol"/>
+         nc:link="mailnews_getting_started.xhtml#about_post_office_protocol"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="popups"
@@ -1513,7 +1513,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="POP:server_settings"
          nc:name="POP-serverinställningar"
-         nc:link="mail_help.xhtml#pop_server_settings"/>
+         nc:link="mailnews_getting_started.xhtml#pop_server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1660,7 +1660,7 @@
  <rdf:li>
        <rdf:Description ID="mail"
          nc:name="säkerhetsinställningar för e-post"
-         nc:link="mail_help.xhtml#security"/>
+         nc:link="mailnews_getting_started.xhtml#security"/>
      </rdf:li>
 <rdf:li>
        <rdf:Description ID="backing_up_certificates"
@@ -1737,12 +1737,12 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="SMTP:server_settings"
          nc:name="inställningar för SMTP-server"
-         nc:link="mail_help.xhtml#outgoing_server"/>
+         nc:link="mailnews_getting_started.xhtml#outgoing_server"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="SMTP:choosing_a_different"
          nc:name="välja en annan SMTP-server"
-         nc:link="mail_help.xhtml#account_settings"/>
+         nc:link="mailnews_getting_started.xhtml#account_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1752,7 +1752,7 @@
      <rdf:Seq>     <rdf:li>
        <rdf:Description ID="save:messages"
          nc:name="spara och skriva ut meddelanden"
-         nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+         nc:link="mailnews_getting_started.xhtml#saving_and_printing_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="save:web_pages"

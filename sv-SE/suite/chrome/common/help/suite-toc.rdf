@@ -12,7 +12,7 @@
         <rdf:li> <rdf:Description ID="help-help" nc:name="Använda Hjälp-fönstret" nc:link="help_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="ieusers"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav" nc:name="Surfa på webben" nc:link="nav_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail" nc:name="Använda e-postklienten" nc:link="mail_help.xhtml" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail" nc:name="Använda e-postklienten" nc:link="mailnews_getting_started.xhtml" /> </rdf:li>
         <rdf:li> <rdf:Description ID="comp" nc:name="Skapa webbsidor"  nc:link="composer_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust" nc:name="Anpassa &brandShortName;"  nc:link="customize_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="using-priv-help" nc:name="Integritetsvärnande funktioner" nc:link="privacy_help.xhtml"/> </rdf:li>
@@ -146,7 +146,7 @@
 <rdf:Description about="#mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc"	nc:name="Komma igång med E-post" nc:link="mail_help.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc"	nc:name="Komma igång med E-post" nc:link="mailnews_getting_started.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-read" nc:name="Läsa meddelanden" nc:link="mail_help.xhtml#reading_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send" nc:name="Skicka meddelanden" nc:link="mail_help.xhtml#sending_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-html" nc:name="Skapa HTML-meddelanden" nc:link="mail_help.xhtml#creating_html_mail_messages" /> </rdf:li>
@@ -155,7 +155,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Använda adressböcker" nc:link="mail_help.xhtml#using_address_books" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Organisera dina meddelanden" nc:link="mail_help.xhtml#organizing_your_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-junk" nc:name="Ha kontroll över skräppost" nc:link="mail_help.xhtml#controlling_junk_mail" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Importera e-post från andra program" nc:link="mail_help.xhtml#importing_mail_from_other_programs" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Importera e-post från andra program" nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Komma igång med Grupper" nc:link="mail_help.xhtml#getting_started_with_newsgroups" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Arbeta i nedkopplat läge" nc:link="mail_help.xhtml#working_offline" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Signera och kryptera meddelanden" nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages" /> </rdf:li>
@@ -169,9 +169,9 @@
  <rdf:Description about="#mail-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-setup" nc:name="Använda kontouppläggningsguiden"  nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add" nc:name="Lägga upp ytterligare konton"  nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-change" nc:name="Ändra inställningarna för ett konto"  nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-setup" nc:name="Använda kontouppläggningsguiden"  nc:link="mailnews_getting_started.xhtml#using_the_mail_account_setup_wizard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add" nc:name="Lägga upp ytterligare konton"  nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-change" nc:name="Ändra inställningarna för ett konto"  nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
