@@ -11,146 +11,149 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "स्वीकारा व प्रतिष्ठापीत करा…">
-<!ENTITY addons.windowTitle                   "Add-ons Manager">
-<!ENTITY search.placeholder                   "Search all add-ons">
-<!ENTITY loading.label                        "Loading…">
-<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
-<!ENTITY listEmpty.availableUpdates.label     "No updates found">
-<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
-<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
-<!ENTITY listEmpty.button.label               "Learn more about add-ons">
-<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
+<!ENTITY addons.windowTitle                   "ॲडऑन्स् व्यवस्थापक">
+<!ENTITY search.placeholder                   "सर्व ॲडऑन्स् शोधा">
+<!ENTITY loading.label                        "लोड करत आहे…">
+<!ENTITY listEmpty.installed.label            "या प्रकारचे ॲडऑन्स् प्रतिष्ठापीत नाही">
+<!ENTITY listEmpty.availableUpdates.label     "सुधारणा आढळले नाही">
+<!ENTITY listEmpty.recentUpdates.label        "तुम्ही नुकतेच कोणतेही ॲडऑन्स् सुधारीत केले नाही">
+<!ENTITY listEmpty.findUpdates.label          "सुधारणांकरीता तपासणी करा">
+<!ENTITY listEmpty.button.label               "ॲडऑन्स् विषयी अधिक शिका">
+<!ENTITY installAddonFromFile.label           "फाइलपासून ॲडऑन प्रतिष्ठापीत करा…">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
-<!ENTITY cmd.back.tooltip                     "Go back one page">
-<!ENTITY cmd.forward.tooltip                  "Go forward one page">
-<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
-<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
-<!ENTITY warning.checkcompatibility.enable.label   "Enable">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
-<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
-<!ENTITY warning.updatesecurity.enable.label       "Enable">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
-<!ENTITY view.discover.label                  "Get Add-ons">
-<!ENTITY view.searchengines.label             "Search Engines">
-<!ENTITY view.features.label                  "Extensions">
-<!ENTITY view.appearance2.label               "Appearance">
-<!ENTITY view.recentUpdates.label             "Recent Updates">
-<!ENTITY view.availableUpdates.label          "Available Updates">
-<!ENTITY updates.checkForUpdates.label        "Check for Updates">
+<!ENTITY toolsMenu.tooltip                    "सर्व ॲडऑन्स् करीता साधने">
+<!ENTITY cmd.back.tooltip                     "एक पान मागे जा">
+<!ENTITY cmd.forward.tooltip                  "एक पान पुढे जा">
+<!ENTITY warning.safemode.label                    "सेफ मोडद्वारे सर्व ॲडऑन्स् बंद केले आहे.">
+<!ENTITY warning.checkcompatibility.label          "ॲडऑन सहत्वता तपासणी बंद केली आहे. तुमच्याकडे असहत्व ॲडऑन्स् असू शकतात.">
+<!ENTITY warning.checkcompatibility.enable.label   "सुरू करा">
+<!ENTITY warning.checkcompatibility.enable.tooltip "ॲडऑन सहत्वता तपासणी सुरू करा">
+<!ENTITY warning.updatesecurity.label              "ॲडऑन सुधारणा सुरक्षा तपासणी बंद केले आहे. सुधारणा करतेवेळी सतर्क रहा.">
+<!ENTITY warning.updatesecurity.enable.label       "सुरू करा">
+<!ENTITY warning.updatesecurity.enable.tooltip     "ॲडऑन सुधारणा सुरक्षा तपासणी सुरू करा">
+<!ENTITY view.discover.label                  "ॲडऑन्स् प्राप्त करा">
+<!ENTITY view.searchengines.label             "सर्च इंजिन्स्">
+<!ENTITY view.features.label                  "एक्सटेंशन्स्">
+<!ENTITY view.appearance2.label               "रूप">
+<!ENTITY view.recentUpdates.label             "नुकतीच सुधारणा">
+<!ENTITY view.availableUpdates.label          "उपलब्ध सुधारणा">
+<!ENTITY updates.checkForUpdates.label        "सुधारणांकरीता तपासणी करा">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "View Recent Updates">
+<!ENTITY updates.viewUpdates.label            "नुकत्याच सुधारणांचे दृष्य">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
+<!ENTITY updates.updateAddonsAutomatically.label     "ॲडऑन्स् स्वयं सुधारीत करा">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "स्वयं सुधारणा करण्यासाठी सर्व ॲडऑन्स् मूळस्थितीत आणा">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
+<!ENTITY updates.resetUpdatesToManual.label          "सुधारणा स्वहस्ते करण्यासाठी सर्व ॲडऑन्स् मूळस्थितीत आणा">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
-<!ENTITY updates.updating.label               "Updating add-ons">
-<!ENTITY updates.installed.label              "Your add-ons have been updated.">
-<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
-<!ENTITY updates.restart.label                "Restart now to complete installation">
-<!ENTITY updates.noneFound.label              "No updates found">
-<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
-<!ENTITY updates.updateSelected.label         "Install Updates">
-<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
-<!ENTITY cmd.showDetails.label                "Show More Information">
+<!ENTITY updates.updating.label               "ॲडऑन्स् सुधारीत करत आहे">
+<!ENTITY updates.installed.label              "तुमचे ॲडऑन्स् सुधारीत केले.">
+<!ENTITY updates.downloaded.label             "तुमचे ॲडऑन सुधारणा डाउनलोड केले आहे.">
+<!ENTITY updates.restart.label                "प्रतिष्ठापन पूर्ण करण्यासाठी आत्ता पुनःचालू करा">
+<!ENTITY updates.noneFound.label              "सुधारणा आढळले नाही">
+<!ENTITY updates.manualUpdatesFound.label     "उपलब्ध सुधारणांचे दृष्य">
+<!ENTITY updates.updateSelected.label         "सुधारणा प्रतिष्ठापीत करा">
+<!ENTITY updates.updateSelected.tooltip       "या सूचीतील उपलब्ध सुधारणा प्रतिष्ठापीत करा">
+<!ENTITY cmd.showDetails.label                "अधिक माहिती दाखवा">
 <!ENTITY cmd.showDetails.accesskey            "S">
-<!ENTITY cmd.findUpdates.label                "Find Updates">
+<!ENTITY cmd.findUpdates.label                "सुधारणा शोधा">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "Options">
+<!ENTITY cmd.preferencesWin.label             "पर्याय">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "Preferences">
+<!ENTITY cmd.preferencesUnix.label            "पसंती">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "About">
-<!ENTITY cmd.enableAddon.label                "Enable">
+<!ENTITY cmd.about.label                      "विषयी">
+<!ENTITY cmd.enableAddon.label                "सुरू करा">
 <!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "Disable">
+<!ENTITY cmd.disableAddon.label               "बंद करा">
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "Wear Theme">
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
 <!ENTITY cmd.disableTheme.accesskey           "W">
-<!ENTITY cmd.installAddon.label               "Install">
+<!ENTITY cmd.installAddon.label               "प्रतिष्ठापीत करा">
 <!ENTITY cmd.installAddon.accesskey           "I">
-<!ENTITY cmd.uninstallAddon.label             "Remove">
+<!ENTITY cmd.uninstallAddon.label             "काढून टाका">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "Options">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
-<!ENTITY cmd.showPreferencesUnix.label        "Preferences">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Change this add-on's preferences">
-<!ENTITY cmd.contribute.label                 "Contribute">
+<!ENTITY cmd.showPreferencesWin.label         "पर्याय">
+<!ENTITY cmd.showPreferencesWin.tooltip       "या ॲडऑनचे पर्याय बदला">
+<!ENTITY cmd.showPreferencesUnix.label        "पसंती">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "या ॲडऑनची पसंती बदला">
+<!ENTITY cmd.contribute.label                 "योगदान करा">
 <!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
-<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
-<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
-<!ENTITY discover.title                       "What are Add-ons?">
-<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
-  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
-  your own.">
-<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
-  some of the best and most popular add-ons for you to try out.">
-<!ENTITY detail.version.label                 "Version">
-<!ENTITY detail.lastupdated.label             "Last Updated">
-<!ENTITY detail.creator.label                 "Developer">
-<!ENTITY detail.homepage.label                "Homepage">
-<!ENTITY detail.numberOfDownloads.label       "Downloads">
-<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
-<!ENTITY detail.updateType                    "Automatic Updates">
-<!ENTITY detail.updateDefault.label           "Default">
-<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
-<!ENTITY detail.updateAutomatic.label         "On">
-<!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
-<!ENTITY detail.updateManual.label            "Off">
-<!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
-<!ENTITY detail.home                          "Homepage">
-<!ENTITY detail.repository                    "Add-on Profile">
-<!ENTITY detail.size                          "Size">
-<!ENTITY detail.checkForUpdates.label         "Check for Updates">
+<!ENTITY cmd.contribute.tooltip               "या ॲडऑनच्या विकासकरीता योगदान करा">
+<!ENTITY cmd.showReleaseNotes.label           "प्रकाशन टिपा दाखवा">
+<!ENTITY cmd.showReleaseNotes.tooltip         "या सुधारणाकरीता प्रकाशन टिपा दाखवा">
+<!ENTITY cmd.hideReleaseNotes.label           "प्रकाशन टिपा लपवा">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "या सुधारणाकरीता प्रकाशन टिपा लपवा">
+<!ENTITY discover.title                       "ॲडऑन्स् काय असतात?">
+<!ENTITY discover.description2                "ॲडऑन्स् ते ॲप्लिकेशन्स् असतात जे &brandShortName; ला अगाऊ कार्यक्षमता किंवा शैलीसह पसंतीचे करण्यासाठी सुविधा पुरवतात. &brandShortName; ला पसंतीचे करण्यासाठी टाइम-सेव्हिंग बाजूचीपट्टी, हवामान सूचक, किंवा दृष्य कल्पना या ॲडऑन्स्चा वापर करून पहा.">
+<!ENTITY discover.footer                      "इंटरनेटशी जोडणी केल्यावर, ही पट्टी काहिक सर्वोत्तम व सर्वात जास्त चर्चीत असलेले ॲडऑन्स् वापरून पाहण्याची सुविधा पुरवते.">
+<!ENTITY detail.version.label                 "आवृत्ती">
+<!ENTITY detail.lastupdated.label             "शेवटच्यावेळी सुधारीत केलेले">
+<!ENTITY detail.creator.label                 "डेव्हलपर">
+<!ENTITY detail.homepage.label                "मुख्यपृष्ठ">
+<!ENTITY detail.numberOfDownloads.label       "डाउनलोडस्">
+<!ENTITY detail.contributions.description     "छोटेसे योगदान करून या ॲडऑनच्या डेव्हलपरने ॲडऑनच्या विकाससाठी मदत पुरवण्याची विनंती केली आहे.">
+<!ENTITY detail.updateType                    "स्वयं सुधारणा">
+<!ENTITY detail.updateDefault.label           "पूर्वनिर्धारीत">
+<!ENTITY detail.updateDefault.tooltip         "पूर्वनिर्धारीत असल्यावरच सुधारणा स्वयं प्रतिष्ठापीत करा">
+<!ENTITY detail.updateAutomatic.label         "सुरू करा">
+<!ENTITY detail.updateAutomatic.tooltip       "स्वयं सुधारणा प्रतिष्ठापीत करा">
+<!ENTITY detail.updateManual.label            "बंद करा">
+<!ENTITY detail.updateManual.tooltip          "स्वयं सुधारणा प्रतिष्ठापीत करू नका">
+<!ENTITY detail.home                          "मुख्यपृष्ठ">
+<!ENTITY detail.repository                    "ॲडऑन प्रोफाइल">
+<!ENTITY detail.size                          "आकार">
+<!ENTITY detail.checkForUpdates.label         "सुधारणांकरीता तपासणी करा">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
-<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
-<!ENTITY detail.showPreferencesWin.label      "Options">
+<!ENTITY detail.checkForUpdates.tooltip       "या ॲडऑनकरीता सुधारणांकरीता तपासणी करा">
+<!ENTITY detail.showPreferencesWin.label      "पर्याय">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
-<!ENTITY detail.showPreferencesUnix.label     "Preferences">
+<!ENTITY detail.showPreferencesWin.tooltip    "या ॲडऑनचे पर्याय बदला">
+<!ENTITY detail.showPreferencesUnix.label     "पसंती">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Change this add-on's preferences">
-<!ENTITY rating2.label                        "Rating">
-<!ENTITY progress.pause.tooltip               "Pause">
-<!ENTITY progress.cancel.tooltip              "Cancel">
-<!ENTITY sort.name.label                      "Name">
-<!ENTITY sort.name.tooltip                    "Sort by name">
-<!ENTITY sort.dateUpdated.label               "Last Updated">
-<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
-<!ENTITY sort.relevance.label                 "Best match">
+<!ENTITY detail.showPreferencesUnix.tooltip   "या ॲडऑनची पसंती बदलवा">
+<!ENTITY rating2.label                        "गुणवत्ताश्रेणी">
+<!ENTITY progress.pause.tooltip               "स्तब्ध">
+<!ENTITY progress.cancel.tooltip              "रद्द करा">
+<!ENTITY sort.name.label                      "नाव">
+<!ENTITY sort.name.tooltip                    "नावानुरूप क्रमवारीत लावा">
+<!ENTITY sort.dateUpdated.label               "शेवटच्यावेळी सुधारीत केलेले">
+<!ENTITY sort.dateUpdated.tooltip             "सुधारीत दिनांक प्रमाणे क्रमवारीत लावा">
+<!ENTITY sort.relevance.label                 "सर्वोत्तम जुळवणी">
 <!ENTITY sort.relevance.tooltip               "Sort by relevance">
 <!ENTITY sort.price.label                     "Price">
 <!ENTITY sort.price.tooltip                   "Sort by price">
-<!ENTITY search.filter2.label                 "Search:">
-<!ENTITY search.filter2.installed.label       "My Add-ons">
-<!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
-<!ENTITY search.filter2.available.label       "Available Add-ons">
-<!ENTITY search.filter2.available.tooltip     "Show add-ons available to install">
-<!ENTITY addon.homepage                       "Homepage">
-<!ENTITY addon.details.label                  "More">
-<!ENTITY addon.details.tooltip                "Show more details about this add-on">
-<!ENTITY addon.unknownDate                    "Unknown">
-<!ENTITY addon.disabled.postfix               "(disabled)">
-<!ENTITY addon.update.postfix                 "Update">
-<!ENTITY addon.undoAction.label               "Undo">
-<!ENTITY addon.undoAction.tooltip             "Undo this action">
-<!ENTITY addon.undoRemove.label               "Undo">
-<!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
-<!ENTITY addon.restartNow.label               "Restart now">
-<!ENTITY addon.install.tooltip                "Install this add-on">
-<!ENTITY addon.updateNow.label                "Update Now">
-<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
-<!ENTITY addon.updateAvailable.label          "An update is available">
-<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
-<!ENTITY addon.releaseNotes.label             "Release Notes:">
-<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
-<!ENTITY addon.createdBy.label                "By ">
+<!ENTITY search.filter2.label                 "शोधा:">
+<!ENTITY search.filter2.installed.label       "माझे ॲडऑन्स्">
+<!ENTITY search.filter2.installed.tooltip     "प्रतिष्ठापीत ॲडऑन्स् दाखवा">
+<!ENTITY search.filter2.available.label       "उपलब्ध ॲडऑन्स्">
+<!ENTITY search.filter2.available.tooltip     "प्रतिष्ठापनकरीता उपलब्ध ॲडऑन्स् दाखवा">
+<!ENTITY addon.homepage                       "मुख्यपृष्ठ">
+<!ENTITY addon.details.label                  "अधिक">
+<!ENTITY addon.details.tooltip                "या ॲडऑनविषयी  अधिक माहिती दाखवा">
+<!ENTITY addon.unknownDate                    "अपरिचीत">
+<!ENTITY addon.disabled.postfix               "(बंद)">
+<!ENTITY addon.update.postfix                 "सुधारणा">
+<!ENTITY addon.undoAction.label               "पूर्ववत् करा">
+<!ENTITY addon.undoAction.tooltip             "या कृतीला पूर्ववत् करा">
+<!ENTITY addon.undoRemove.label               "पूर्ववत् करा">
+<!ENTITY addon.undoRemove.tooltip             "हे ॲडऑन प्रतिष्ठापीत असू द्या">
+<!ENTITY addon.restartNow.label               "आत्ता पुन्हा सुरू करा">
+<!ENTITY addon.install.tooltip                "हे ॲडऑन प्रतिष्ठापीत करा">
+<!ENTITY addon.updateNow.label                "आत्ता सुधारीत करा">
+<!ENTITY addon.updateNow.tooltip              "या ॲडऑनकरीता सुधारणा प्रतिष्ठापीत करा">
+<!ENTITY addon.updateAvailable.label          "सुधारणा उपलब्ध आहे">
+<!ENTITY addon.checkingForUpdates.label       "सुधारणांकरीता तपासणी करत आहे…">
+<!ENTITY addon.releaseNotes.label             "प्रकाशन टिपा:">
+<!ENTITY addon.loadingReleaseNotes.label      "लोड करत आहे…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "माफ करा, परंतु प्रकाशन टिपा लोड करतेवेळी त्रुटी आढळली.">
+<!ENTITY addon.createdBy.label                "द्वारे निर्मीत ">
+<!ENTITY listEmpty.search.label               "कोणतेही जुळणारे ॲडऑन्स् आढळले नाही">
+<!ENTITY view.search.label                    "शोधा">
+<!ENTITY view.locales.label                   "भाषा">
+<!ENTITY view.plugins.label                   "प्लगइन्स्">
+<!ENTITY addon.install.label                  "प्रतिष्ठापन">
+<!ENTITY addon.includeUpdate.label            "सुधारणामध्ये समाविष्ट करा">
