@@ -185,3 +185,7 @@
 
 <!ENTITY addon.createdBy.label                "ଏହାଙ୍କ ଦ୍ୱାରା ">
 
+<!ENTITY eula.title                           "ଚାଳକ ଅନୁମତିପତ୍ର ରାଜିନାମା">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "ଗ୍ରହଣ କରନ୍ତୁ ଏବଂ ସ୍ଥାପନ କରନ୍ତୁ…">
