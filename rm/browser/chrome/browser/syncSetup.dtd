@@ -1,0 +1,104 @@
+<!ENTITY accountSetupTitle.label    "Installaziun da &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "Bainvegni! Sche ti n'has anc mai utilisà &syncBrand.fullName.label; stos ti crear in nov conto.">
+<!ENTITY button.createNewAccount.label "Crear in nov conto">
+<!ENTITY button.haveAccount.label "Jau hai in conto da &syncBrand.fullName.label;">
+
+<!ENTITY setup.choicePage.title.label     "Has ti gia utilisà &syncBrand.fullName.label; pli baud?">
+<!ENTITY setup.choicePage.new.label       "Jau n'hai anc mai utilisà &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "Jau utilisesch gia &syncBrand.shortName.label; sin in auter computer">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Server">
+<!ENTITY serverType.main.label      "Server da &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Utilisar in server persunal">
+<!ENTITY signIn.account.label       "Adressa dad e-mail / Num d'utilisader">
+<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY signIn.password.label      "Pled-clav">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.serverURL.label     "URL dal server">
+<!ENTITY signIn.serverURL.accesskey "L">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Detagls dal conto">
+<!ENTITY setup.confirmPassword.label  "Confermar il pled-clav">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "Adressa dad e-mail">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Jau sun d'accord cun il">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "contract da licenza">
+<!ENTITY setup.tosAgree2.label      "ed las">
+<!ENTITY setup.ppLink.label         "directivas per la protecziun da datas">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; prenda serius la protecziun da datas">
+<!ENTITY setup.newSyncKeyPage.description.label "Per garantir la protecziun da datas vegnan tias datas criptadas avant ch'ellas vegnan chargiadas sin il server. La clav per decriptar las datas na vegn betg chargiada sin il server.">
+<!ENTITY syncKeyEntry.label        "Tia clav da Sync">
+<!ENTITY syncKeyEntry.accesskey    "c">
+<!ENTITY syncKeyGenerate.label     "Generar">
+<!ENTITY syncKeyStrength.label     "Qualitad:">
+<!ENTITY syncKeyHelp.label         "Tge munta qualitad?">
+<!ENTITY syncKeyBackup.description "Tia clav da Sync vegn utilisada per acceder &syncBrand.fullName.label; sin autras maschinas. Fa ina copia da segirezza. Nus na pudain betg reconstruir tia clav da Sync.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Stampar…">
+<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.save.label      "Memorisar…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "s">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Conferma che ti n'es betg in roboter">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Endatar infurmaziuns dal conto">
+<!ENTITY resetPassword.label          "Redefinir il pled-clav">
+<!ENTITY connecting.label             "Connectar…">
+
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Endatescha tia clav da Sync">
+<!ENTITY setup.existingSyncKeyPage.description "La clav da Sync è vegnida generada u endatada da tai cura che ti has creà tes conto da &syncBrand.fullName.label;. Ella na corrispunda betg a tes pled-clav.">
+<!ENTITY existingSyncKeyHelp.description "Eventualmain pos ti chattar tia clav da Sync sche ti guardas ils pleds-clav sin in auter computer che utilisescha il medem conto da Sync. Sche ti na la chattas dentant betg, pos ti laschar restituir tes conto. Lura vegnan dentant tut las datas da tes conto sin il server stizzadas.">
+<!ENTITY lostSyncKey.label            "Jau hai pers mia clav da Sync">
+<!ENTITY verifying.label              "Verifitgar…">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Opziuns da Sync">
+<!ENTITY syncComputerName.label       "Num dal computer:">
+<!ENTITY syncComputerName.accesskey   "c">
+
+<!ENTITY syncMy.label               "Sincronisar">
+<!ENTITY engine.bookmarks.label     "mes segnapaginas">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "mes tabs">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "mia cronologia">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "mes pled-clav">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "mias preferenzass">
+<!ENTITY engine.prefs.accesskey     "S">
+
+<!ENTITY choice2.merge.main.label      "Cumbinar las datas da quest computer cun quellas da &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Recumandà:">
+<!ENTITY choice2.client.main.label     "Remplazzar tut las datas sin quest computer cun quellas da &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Remplazzar las datas sin tut ils auters apparats cun las datas da quest computer">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Confermar">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; vegn ussa a cumbinar las datas da quest computer cun questas da tes conto da Sync.">
+<!ENTITY confirm.client.label         "Tut las datas da &brandShortName; sin quest computer vegnan stizzadas, inclusivamain suandantas:">
+<!ENTITY confirm.client.moreinfo.label "Lura vegn &brandShortName; copiar tias datas da &syncBrand.fullName.label; sin quest computer.">
+<!ENTITY confirm.client.warning.label "ATTENZIUN: Quai chaschuna che tut las datas da &brandShortName; sin quest computer vegnan rempazzadas!">
+<!ENTITY confirm.server.label         "Las datas sin suandants apparats vegnan surscrittas cun las datas localas:">
+<!ENTITY confirm.server.warning.label "ATTENZIUN: Tias datas localas vegnan a remplazzar tut las datas da &brandShortName; sin quests apparats!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Terminà l'installaziun">
+<!ENTITY changeOptions.label "Ti pos midar questa configuraziun sche ti tschernas survartlas opziun da Sync.">
+<!ENTITY continueUsing.label "Ussa pos ti cuntinuar dad utilisar &brandShortName;.">
