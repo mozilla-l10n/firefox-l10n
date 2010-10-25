@@ -135,9 +135,7 @@
 
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ એડ-ઓન">
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
+
 <!ENTITY securityOverride.getMeOutOfHereButton "મને અંહિથી બહાર લઈ જાવ">
 
 <!ENTITY nssBadCert.longDesc2 "
@@ -162,5 +160,11 @@
   <li>&quot;Work Offline&quot; મેનુ વસ્તુને ચકાસો નહિં, પછી ફરીથી પ્રયત્ન કરો.</li>
 </ul>
 ">
+
+
 <!ENTITY securityOverride.warningContent "
 <p>તમારે અપવાદને ઉમેરવુ જોઇએ નહિં જો તમે ઇન્ટરનેટ જોડાણને વાપરી રહ્યા હોય જે તમારે સંપૂર્ણપણે વિશ્ર્વાસ રાખવો નહિં  અથવા જો તમે આ સર્વર માટે ચેતવણી જોવા માટે વાપરેલ ન હોય તો.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
