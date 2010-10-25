@@ -12,7 +12,7 @@
         <rdf:li> <rdf:Description ID="help-help" nc:name="Использование окна справки" nc:link="help_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="ieusers" nc:name="Для пользователей Internet Explorer" nc:link="forieusers.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav" nc:name="Работа с веб-сайтами" nc:link="nav_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail" nc:name="Работа с клиентом почты и новостей" nc:link="mail_help.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail" nc:name="Работа с клиентом почты и новостей" nc:link="mailnews_getting_started.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp" nc:name="Создание веб-страниц"  nc:link="composer_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust" nc:name="Настройка &brandShortName;"  nc:link="customize_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="using-priv-help" nc:name="Использование функций обеспечения приватности" nc:link="privacy_help.xhtml"/> </rdf:li>
@@ -159,7 +159,7 @@
 <rdf:Description about="#mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc" nc:name="Начало работы с почтовым клиентом" nc:link="mail_help.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc" nc:name="Начало работы с почтовым клиентом" nc:link="mailnews_getting_started.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-read"    nc:name="Чтение сообщений" nc:link="mailnews_using_mail.xhtml#reading_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send"    nc:name="Отправка сообщений" nc:link="mailnews_using_mail.xhtml#sending_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-html"    nc:name="Составление сообщений в формате HTML" nc:link="mailnews_using_mail.xhtml#creating_html_mail_messages" /> </rdf:li>
@@ -168,7 +168,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Использование адресных книг" nc:link="mailnews_addressbooks.xhtml#using_address_books" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Организация сообщений" nc:link="mailnews_organizing.xhtml#organizing_your_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-junk" nc:name="Анти-спам фильтр" nc:link="mailnews_organizing.xhtml#controlling_junk_mail" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Импорт из других почтовых программ" nc:link="mail_help.xhtml#importing_mail_from_other_programs" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Импорт из других почтовых программ" nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Начало работы с группами новостей" nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Автономная работа" nc:link="mailnews_offline.xhtml#working_offline" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Подписывание и шифрование сообщений" nc:link="mailnews_security.xhtml#signing_and_encrypting_messages" /> </rdf:li>
@@ -182,9 +182,9 @@
  <rdf:Description about="#mail-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc-setup" nc:name="Использование Мастера учетных записей"  nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-add" nc:name="Создание дополнительных учетных записей"  nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-change" nc:name="Изменение параметров учетной записи"  nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-setup" nc:name="Использование Мастера учетных записей"  nc:link="mailnews_getting_started.xhtml#using_the_mail_account_setup_wizard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-add" nc:name="Создание дополнительных учетных записей"  nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-change" nc:name="Изменение параметров учетной записи"  nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -371,8 +371,8 @@
 <rdf:Description about="#mail-importing-other">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-importing-mail-messages" nc:name="Импорт почтовых сообщений" nc:link="mail_help.xhtml#importing_mail_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-importing-mail-settings" nc:name="Импорт настроек почты" nc:link="mail_help.xhtml#importing_mail_settings" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-importing-mail-messages" nc:name="Импорт почтовых сообщений" nc:link="mailnews_getting_started.xhtml#importing_mail_messages" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-importing-mail-settings" nc:name="Импорт настроек почты" nc:link="mailnews_getting_started.xhtml#importing_mail_settings" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -490,7 +490,7 @@
         <rdf:li> <rdf:Description ID="mail_prefs_messages" nc:name="Составление сообщений" nc:link="mailnews_preferences.xhtml#composition"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_prefs_formatting" nc:name="Формат исходящих сообщений" nc:link="mailnews_preferences.xhtml#send_format"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Адресация" nc:link="mailnews_preferences.xhtml#addressing_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-prefs-labels" nc:name="Метки" nc:link="mail_help.xhtml#labels"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-labels" nc:name="Метки" nc:link="mailnews_getting_started.xhtml#labels"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Уведомления о доставке" nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_prefs_character_encoding" nc:name="Кодировка" nc:link="mailnews_preferences.xhtml#character_encoding"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Автономная работа и дисковое пространство" nc:link="mailnews_preferences.xhtml#offline_and_disk_space_preferences"/> </rdf:li>
