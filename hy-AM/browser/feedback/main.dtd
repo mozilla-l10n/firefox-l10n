@@ -37,34 +37,34 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!ENTITY testpilot.brand.label                      "Փորձարար">
 <!ENTITY testpilot.settings.label                   "Հատկանիշներ">
-<!ENTITY testpilot.settings.dataSubmission.label    "Data Submission">
-<!ENTITY testpilot.settings.notifications.label     "Notifications">
-<!ENTITY testpilot.settings.notifyWhen.label        "Notify me when…">
-<!ENTITY testpilot.settings.readyToSubmit.label     "A study is ready to submit">
-<!ENTITY testpilot.settings.newStudy.label          "There's a new study">
-<!ENTITY testpilot.settings.hasNewResults.label     "A study has new results">
+<!ENTITY testpilot.settings.dataSubmission.label    "Տվյալների ուղարկում">
+<!ENTITY testpilot.settings.notifications.label     "Տեղեկացումներ">
+<!ENTITY testpilot.settings.notifyWhen.label        "Տեղեկացնել ինձ երբ…">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Ուսումնասիրությունը պատրաստ է ուղարկման">
+<!ENTITY testpilot.settings.newStudy.label          "Կա նոր ուսումնասիրություն">
+<!ENTITY testpilot.settings.hasNewResults.label     "Կա ուսումնասիրության նոր արդյունք">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatically submit my data (don't ask me)">
-<!ENTITY testpilot.allYourStudies.label             "All Your User Studies…">
-<!ENTITY testpilot.about.label                      "About Test Pilot">
+<!ENTITY testpilot.allYourStudies.label             "Ձեր բոլոր ուսումնասիրությունները…">
+<!ENTITY testpilot.about.label                      "Փորձարարի մասին">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
+<!ENTITY testpilot.studiesWindow.title                  "Ձեր փորձարարական ուսումնասիրությունները">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Ընթացիկ ուսումնասիրություններ">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Ավարտված հետաղոտություններ">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
 <!ENTITY testpilot.studiesWindow.settings.label         "Հատկանիշներ">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait...">
 
 <!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
+<!ENTITY testpilot.rawDataWindow.title                  "Փորձարկող՝ չմշակված տվյալներ">
 
 <!-- notification -->
 <!ENTITY testpilot.notification.close.tooltip            "Փակել">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Turn On User Studies">
-<!ENTITY testpilot.feedbackbutton.label                "Feedback">
+<!ENTITY testpilot.enable.label                        "Միացնել օգտագործողի ուսումնասիրությունները">
+<!ENTITY testpilot.feedbackbutton.label                "Հետադարձ կապ">
 <!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because...">
 <!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because...">

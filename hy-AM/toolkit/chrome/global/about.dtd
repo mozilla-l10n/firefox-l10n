@@ -49,7 +49,7 @@
 <!ENTITY about.license.beforeTheLink  "Կարդացեք` ">
 <!ENTITY about.license.linkTitle      "տեղեկություն լիցենզիայի մասին">
 <!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.license.afterTheLink   "հետևյալ արտադրանքի համար">
+<!ENTITY about.license.afterTheLink   " հետևյալ արտադրանքի համար:">
 
 <!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 <!ENTITY about.relnotes.beforeTheLink "Կարդացեք` ">

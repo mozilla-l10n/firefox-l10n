@@ -144,8 +144,8 @@
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Դիտել...">
 <!ENTITY certmgr.view2.accesskey              "Դ">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "Խմբագրել վստահությունը">
+<!ENTITY certmgr.edit3.accesskey              "Խ">
 <!ENTITY certmgr.editca.label                 "Խմբագրել CA Վստահությունը">
 <!ENTITY certmgr.editca.accesskey             "C">
 <!ENTITY certmgr.add.label                    "Ավելացնել">
@@ -154,8 +154,8 @@
 <!ENTITY certmgr.export.accesskey             "Ա">
 <!ENTITY certmgr.delete2.label                "Ջնջում...">
 <!ENTITY certmgr.delete2.accesskey            "Ջ">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.delete_builtin.label         "Ջնջել կամ Չվստահել">
+<!ENTITY certmgr.delete_builtin.accesskey     "Ջ">
 <!ENTITY certmgr.backup2.label                "Վերականգնում...">
 <!ENTITY certmgr.backup2.accesskey            "Վ">
 <!ENTITY certmgr.backupall2.label             "Վերականգնում Ամենը...">
