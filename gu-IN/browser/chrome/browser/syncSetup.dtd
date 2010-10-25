@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "સ્વાગત છે, જો તમે કદી &syncBrand.fullName.label ને ન વાપરેલ હોય તો; પહેલાં, તમે નવા ખાતાને બનાવવાની જરૂર પડશે.">
+<!ENTITY setup.pickSetupType.description "સ્વાગત છે, જો તમે કદી &syncBrand.fullName.label; ને ન વાપરેલ હોય તો પહેલાં, તમે નવા ખાતાને બનાવવાની જરૂર પડશે.">
 <!ENTITY button.createNewAccount.label "નવા ખાતાને બનાવો">
 <!ENTITY button.haveAccount.label "મારી પાસે &syncBrand.fullName.label; ખાતુ છે">
 
