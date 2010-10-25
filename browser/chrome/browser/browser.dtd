@@ -369,9 +369,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "કે જે આના દ્વારા ચલાવવામાં આવે છે">
 
 
-<!ENTITY backForwardMenu.tooltip      "છેલ્લા પાનાંઓ">
-
-
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
