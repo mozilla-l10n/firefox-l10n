@@ -138,6 +138,6 @@
 <!ENTITY confirm.server.warning.label "ԶԳՈՒՇԱՑՈՒՄ՝ Ձեր տեղական տվյալները կփոխարինեն այս սարքերում &brandShortName;-ի ողջ տվյալներին:">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
+<!ENTITY setup.successPage.title "Տեղադրումը ավարտված է">
 <!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
 <!ENTITY continueUsing.label "You may now continue using &brandShortName;.">

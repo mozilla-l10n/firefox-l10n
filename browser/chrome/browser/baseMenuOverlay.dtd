@@ -56,8 +56,8 @@
 <!ENTITY helpForIEUsers.label     "Internet Explorer Օգտագործողների համար">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.label       "Վերագործարկել հավելումներն անջատված…">
+<!ENTITY helpSafeMode.accesskey   "Վ">
 
 <!ENTITY helpReleaseNotes.label         "Թողարկման Նշումներ">
 <!ENTITY helpReleaseNotes.accesskey     "N">

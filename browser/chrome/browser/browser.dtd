@@ -323,8 +323,8 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Չկարգավորված Էջանիշեր">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Աշխատանքի Սկիզբ">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuSafeMode.label "Վերագործարկել հավելումներն անջատված…">
+<!ENTITY appMenuSafeMode.accesskey "Վ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Անցնել Վեբ կայքի">
