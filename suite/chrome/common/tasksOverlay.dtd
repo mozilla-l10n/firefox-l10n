@@ -41,6 +41,7 @@
 
 <!ENTITY addonsManagerCmd.label "Gestor de extras">
 <!ENTITY addonsManagerCmd.accesskey "x">
+<!ENTITY addonsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Trocar perfil…">
 <!ENTITY switchProfileCmd.accesskey "o">
