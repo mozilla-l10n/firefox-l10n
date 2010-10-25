@@ -586,9 +586,10 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Onderwerp of adres zoeken">
 <!ENTITY advancedButton.label "Geavanceerd…">
 <!ENTITY advancedButton.accesskey "a">
+<!ENTITY searchButton.label "Zoeken in berichten…">
+<!ENTITY searchButton.accesskey "Z">
 
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
@@ -605,3 +606,9 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "&brandShortName; denkt dat dit bericht misschien een e-mailscam is.">
 <!ENTITY removePhishingBarButton.label "Geen scam">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "De afzender van dit bericht heeft verzocht om een bevestiging te ontvangen als u dit bericht leest. Wilt u de afzender een leesbevestiging sturen?">
+<!ENTITY mdnBarIgnoreButton.label "Verzoek negeren">
+<!ENTITY mdnBarSendButton.label "Leesbevestiging versturen">
+
