@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey                 "M">
 <!ENTITY views.label                    "Vistas">
 <!ENTITY views.accesskey                "V">
-<!ENTITY view.toolbar.label             "Trav d'utensils">
-<!ENTITY view.toolbar.accesskey         "t">
 <!ENTITY view.columns.label             "Mussar las colonnas">
 <!ENTITY view.columns.accesskey         "M">
 <!ENTITY view.sort.label                "Zavrar">
@@ -25,12 +23,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Descendent ">
 <!ENTITY view.sortDescending.accesskey  "D">
-<!ENTITY help.usingBookmarks.label      "Utilisar ils segnapaginas">
-<!ENTITY help.usingBookmarks.accesskey  "l">
-<!ENTITY help.usingHistory.label        "Utilisar la cronologia">
-<!ENTITY help.usingHistory.accesskey    "c">
-<!ENTITY help.advancedTips.label        "Ulteriurs tips &amp; trics">
-<!ENTITY help.advancedTips.accesskey    "t">
 
 <!ENTITY cmd.findInBookmarks.label      "Tschertgar en ils segnapaginas...">
 <!ENTITY cmd.findInBookmarks.accesskey  "s">
@@ -48,28 +40,6 @@
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Tscherner ina datoteca">
 <!ENTITY cmd.restoreFromFile.accesskey  "d">
-
-<!ENTITY cmd.select_all.label "Marcar tut">
-<!ENTITY cmd.select_all.accesskey "M">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Tagliar ora">
-<!ENTITY cmd.edit_cut.accesskey     "T">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Copiar">
-<!ENTITY cmd.edit_copy.accesskey    "C">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Encollar">
-<!ENTITY cmd.edit_paste.accesskey   "E">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Stizzar">
-<!ENTITY cmd.edit_delete.accesskey  "t">
-<!ENTITY cmd.edit_undo.label        "Revocar">
-<!ENTITY cmd.edit_undo.accesskey    "R">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Restituir">
-<!ENTITY cmd.edit_redo.accesskey    "R">
-<!ENTITY cmd.edit_redo.key          "y">
 
 <!ENTITY cmd.bookmarkLink.label         "Agiuntar in segnapagina per questa pagina…">
 <!ENTITY cmd.bookmarkLink.accesskey     "A">
@@ -90,11 +60,6 @@
 <!ENTITY cmd.properties.label      "Caracteristicas">
 <!ENTITY cmd.properties.accesskey  "C">
 
-<!ENTITY cmd.show_info.key  "i">
-
-<!ENTITY cmd.rename.label      "Renumnar...">
-<!ENTITY cmd.rename.accesskey  "u">
-
 <!ENTITY cmd.sortby_name.label              "Zavrar tenor num">
 <!ENTITY cmd.sortby_name.accesskey          "Z">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
@@ -113,15 +78,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "d">
 <!ENTITY cmd.reloadMicrosummary.label      "Rechargiar il titel live">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "t">
-
-<!ENTITY cmd.groupby_site.label      "Gruppar tenor website">
-<!ENTITY cmd.groupby_site.accesskey  "w">
-<!ENTITY cmd.groupby_page.label      "Gruppar tenor website">
-<!ENTITY cmd.groupby_page.accesskey  "G">
-<!ENTITY cmd.groupby_feed.label      "Gruppar tenor abunament">
-<!ENTITY cmd.groupby_feed.accesskey  "a">
-<!ENTITY cmd.groupby_post.label      "Gruppar tenor posta">
-<!ENTITY cmd.groupby_post.accesskey  "p">
 
 <!ENTITY cmd.moveBookmarks.label                  "Spustar...">
 <!ENTITY cmd.moveBookmarks.accesskey              "S">
@@ -146,54 +102,10 @@
 <!ENTITY search.scopeDownloads.accesskey           "T">
 <!ENTITY search.scopeHistory.label                 "Cronologia">
 <!ENTITY search.scopeHistory.accesskey             "C">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Mussar l'utensil per tschertgar">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Zuppentar l'utensil per tschertgar">
 <!ENTITY saveSearch.label                          "Memorisar">
 <!ENTITY saveSearch.accesskey                      "s">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Tschertgar mo en ils segnapaginas">
-<!ENTITY advancedSearch.match.label                "Correspunda">
-<!ENTITY advancedSearch.all.label                  "a tuts">
-<!ENTITY advancedSearch.any.label                  "ad almain in">
-<!ENTITY advancedSearch.rules.label                "dals suandants criteris:">
-<!ENTITY advancedSearch.subj_keyword.label         "Cuntegna il text">
-<!ENTITY advancedSearch.subj_visited.label         "Visità">
-<!ENTITY advancedSearch.subj_location.label        "Adressa">
-<!ENTITY advancedSearch.location_startswith.label  "Cumenza cun">
-<!ENTITY advancedSearch.location_is.label          "è">
-<!ENTITY advancedSearch.location_onsite.label      "è sin la website">
-<!ENTITY advancedSearch.time_is.label              "ils">
-<!ENTITY advancedSearch.time_before.label          "avant">
-<!ENTITY advancedSearch.time_after.label           "suenter">
-<!ENTITY advancedSearch.time_inlast.label          "ils ultims / las ultimas">
-<!ENTITY advancedSearch.last_days.label            "dis">
-<!ENTITY advancedSearch.last_weeks.label           "emnas">
-<!ENTITY advancedSearch.last_months.label          "mais">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Gruppar tenor: ">
-<!ENTITY advancedSearch.groupby_host.label         "Host">
-<!ENTITY advancedSearch.groupby_domain.label       "Domena">
-<!ENTITY advancedSearch.groupby_folder.label       "Ordinatur">
-<!ENTITY advancedSearch.sortby.label               "Zavrar tenor: ">
-<!ENTITY advancedSearch.sortby_title.label         "Titel">
-<!ENTITY advancedSearch.sortby_date.label          "Data">
-<!ENTITY advancedSearch.sortby_visit.label         "Visità il pli savens">
-<!ENTITY advancedSearch.sortby_url.label           "Adressa">
-<!ENTITY advancedSearch.sortby_asc.label           "Ascendent ">
-<!ENTITY advancedSearch.sortby_desc.label          "Descendent ">
-<!ENTITY advancedSearch.max.label                  "Resultats maximals: ">
 
 <!ENTITY cmd.find.key  "s">
-
-<!ENTITY feed.subscribe.label    "Feed">
-<!ENTITY feed.subscribe.tooltip  "Abunar">
-
-<!ENTITY view.detailsMacOSX.label  "Far ina glista">
-<!ENTITY view.details.label        "Detagls">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "Telechargiar supplements da vista">
 
 <!ENTITY maintenance.label      "Importar e far ina copia da segirezza">
 <!ENTITY maintenance.accesskey  "I">
