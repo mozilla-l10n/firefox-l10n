@@ -1,4 +1,5 @@
 google
+bing
 bolcom-fy-NL
 marktplaats-fy-NL
 vandale-fy-NL
