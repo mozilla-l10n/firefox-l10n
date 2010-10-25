@@ -2,8 +2,8 @@
 
 <!ENTITY  pref.history.caption              "Navigatiegeschiedenis">
 <!ENTITY  historyPages.label                "Geschiedenis is een lijst van eerder bezochte pagina’s.">
-<!ENTITY  expireDaysMin1.label              "Bezochte pagina’s altijd minstens">
-<!ENTITY  expireDaysMin1.accesskey          "a">
+<!ENTITY  enableHistory.label               "Geschiedenis inschakelen">
+<!ENTITY  enableHistory.accesskey           "i">
 <!ENTITY  clearHistory.label                "Geschiedenis wissen">
 <!ENTITY  clearHistory.accesskey            "G">
 

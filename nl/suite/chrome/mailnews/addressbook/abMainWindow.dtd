@@ -100,8 +100,6 @@
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exporteren…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY allowOnlineCheck.label                         "Onlineaanwezigheid controleren (AOL)">
-<!ENTITY allowOnlineCheck.accesskey                     "c">
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label                         "Nieuw contact">
@@ -117,6 +115,7 @@
 <!ENTITY newimButton.label                              "Instant-bericht">
 <!ENTITY newimButton.accesskey                          "I">
 <!ENTITY searchNameAndEmail.placeholder                 "Naam en e-mail doorzoeken">
+<!ENTITY searchBox.title                                "Zoeken">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adresboekwerkbalk">

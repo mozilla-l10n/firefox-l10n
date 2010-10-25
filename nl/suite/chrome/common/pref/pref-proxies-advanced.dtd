@@ -8,15 +8,12 @@
 <!ENTITY ssl.accesskey                "L">
 <!ENTITY ftp.label                    "FTP-proxy:">
 <!ENTITY ftp.accesskey                "F">
-<!ENTITY gopher.label                 "Gopher-proxy:">
-<!ENTITY gopher.accesskey             "G">
 <!ENTITY reuseProxy.label             "HTTP-proxyserver gebruiken voor alle protocollen">
 <!ENTITY reuseProxy.accesskey         "u">
 <!ENTITY port.label                   "Poort:">
 <!ENTITY HTTPPort.accesskey           "P">
 <!ENTITY SSLPort.accesskey            "o">
 <!ENTITY FTPPort.accesskey            "r">
-<!ENTITY  gopherPort.accesskey        "">
 
 <!ENTITY socks.caption                "Algemene proxy">
 <!ENTITY socks.description            "Een SOCKS-proxy is een algemene proxy die soms wordt gebruikt in zakelijke of vergelijkbare omgevingen.">

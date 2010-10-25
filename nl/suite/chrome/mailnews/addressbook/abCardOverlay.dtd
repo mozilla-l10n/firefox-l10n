@@ -117,9 +117,9 @@ van dit contact wordt opgehaald.">
 <!ENTITY Birthday.label                 "Verjaardag:">
 <!ENTITY Birthday.accesskey             "e">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Jaar">
+<!ENTITY Year.placeholder               "Jaar">
 <!ENTITY Or.value                       "of">
-<!ENTITY Age.emptytext                  "Leeftijd">
+<!ENTITY Age.placeholder                "Leeftijd">
 <!ENTITY YearsOld.label                 "jaar">
 
 <!ENTITY Work.tab                       "Werk">
@@ -170,6 +170,6 @@ van dit contact wordt opgehaald.">
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Op het internet">
 <!ENTITY PhotoURL.accesskey             "i">
-<!ENTITY PhotoURL.emptytext             "Plak of typ het internetadres van een foto">
+<!ENTITY PhotoURL.placeholder           "Plak of typ het internetadres van een foto">
 <!ENTITY UpdatePhoto.label              "Bijwerken">
 <!ENTITY UpdatePhoto.accesskey          "B">

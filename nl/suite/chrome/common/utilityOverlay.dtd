@@ -36,6 +36,8 @@
 <!ENTITY pasteCmd.label                         "Plakken">
 <!ENTITY pasteCmd.key                           "V">
 <!ENTITY pasteCmd.accesskey                     "P">
+<!ENTITY pasteGoCmd.label						 "Plakken &amp; gaan">
+<!ENTITY pasteGoCmd.accesskey					 "g">
 <!ENTITY deleteCmd.label                        "Verwijderen">
 <!ENTITY deleteCmd.accesskey                    "V">
 <!ENTITY selectAllCmd.label                     "Alles selecteren">
@@ -59,6 +61,8 @@
 <!ENTITY helpMenu.label                         "Help">
 <!ENTITY helpMenu.accesskey                     "H">   
 
+<!ENTITY helpTroubleshootingInfo.label       	 "Probleemoplossing">
+<!ENTITY helpTroubleshootingInfo.accesskey  	 "o">
 <!ENTITY releaseCmd.label                       "Uitgaveopmerkingen">
 <!ENTITY releaseCmd.accesskey                   "U">
 <!ENTITY updateCmd.label                        "Controleren op updates…">

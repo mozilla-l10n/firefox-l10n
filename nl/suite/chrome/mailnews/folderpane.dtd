@@ -38,3 +38,7 @@
 <!ENTITY unreadColumn.label "Ongelezen">
 <!ENTITY totalColumn.label "Totaal">
 <!ENTITY folderSizeColumn.label "Grootte">
+<!ENTITY folderLocationToolbarItem.title "Maplocatie">
+<!ENTITY mailViewsToolbarItem.title "Berichtenweergaven">
+<!ENTITY searchToolbarItem.title "Zoeken">
+<!ENTITY searchSubjectOrAddress.placeholder "Zoek op onderwerp of geadresseerde">

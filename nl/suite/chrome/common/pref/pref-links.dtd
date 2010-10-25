@@ -1,0 +1,17 @@
+<!ENTITY linksHeader.label "Werking van koppelingen">
+<!ENTITY newWindow.label "Openen van koppelingen">
+<!ENTITY newWindowDescription.label "Koppelingen die in een nieuw venster zouden openen, openen in">
+<!ENTITY external.label "Koppelingen uit andere programma's">
+<!ENTITY externalDescription.label "Koppelingen die geopend worden vanuit andere programma's openen in">
+
+<!ENTITY openCurrent.label "Het huidige tabblad/venster">
+<!ENTITY newWindowGroupCurrent.accesskey "h">
+<!ENTITY externalGroupCurrent.accesskey "u">
+
+<!ENTITY openTab.label "Een nieuw tabblad in het huidige venster">
+<!ENTITY newWindowGroupTab.accesskey "t">
+<!ENTITY externalGroupTab.accesskey "a">
+
+<!ENTITY openWindow.label "Een nieuw venster">
+<!ENTITY newWindowGroupWindow.accesskey "n">
+<!ENTITY externalGroupWindow.accesskey "v">
