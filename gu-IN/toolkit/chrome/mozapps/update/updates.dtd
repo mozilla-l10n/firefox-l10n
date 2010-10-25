@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "સોફ્ટવેર સુધારો">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
+<!-- ENTITY  window.width                    "36em" -->
+<!-- ENTITY  window.macWidth                 "39em" -->
 
 <!ENTITY  checking.title                  "સુધારાઓ માટે ચકાસી રહ્યા છીએ">
 
@@ -28,13 +28,13 @@
 <!ENTITY  errorManual.label               "તમે આ કડી પર ક્લિક કરીને અને તાજેતરની આવૃત્તિ ડાઉનલોડ કરીને &brandShortName; ને સુધારી શકો છો:">
 
 <!ENTITY  installed.title                 "સુધારો સ્થાપિત થઈ ગયો">
-<!ENTITY  errorpatching.title             "સુધારો નિષ્ફળ">
+<!-- ENTITY  errorpatching.title             "સુધારો નિષ્ફળ" -->
 <!ENTITY  update.installedOn.label        "પર સ્થાપિત થયેલ:">
 <!ENTITY  connecting.label                "સુધારા સર્વર સાથે જોડાઈ રહ્યા છીએ...">
 
 
 
-<!ENTITY  downloading.title               "સુધારો ડાઉનલોડ કરી રહ્યા છીએ">
+<!-- ENTITY  downloading.title               "સુધારો ડાઉનલોડ કરી રહ્યા છીએ" -->
 <!ENTITY  finishedBackground.name         "સુધારો:">
 <!ENTITY  update.details.label            "વિગતો">
 <!ENTITY  update.status.label             "પરિસ્થિતિ:">
@@ -59,3 +59,14 @@
 <!ENTITY  manualUpdate.title              "સુધારો કરવામાં અસમર્થ">
 <!ENTITY  manualUpdate.desc               "આગ્રહણીય સુરક્ષા અને સુગમતા સુધારો ઉપલબ્ધ છે, પરંતુ તમારી પાસે તેને સ્થાપિત કરવા માટે સિસ્ટમ પરવાનગીઓ નથી. મહેરબાની કરીને તમારા સિસ્ટમ સંચાલકનો સંપર્ક કરો અથવા એવા ખાતામાંથી ફરીથી પ્રયાસ કરો કે જેને આ કમ્પ્યૂટર પર સોફ્ટવેર સ્થાપિત કરવાની પરવાનગી હોય.">
 <!ENTITY  manualUpdateGetMsg.label        "તમે અહીંથી &brandShortName; ની તાજેતરની આવૃત્તિ હંમેશા પ્રાપ્ત કરી શકો છો:">
+<!ENTITY  downloadPage.title              "&brandShortName; ને ડાઉનલોડ કરી રહ્યા છે">
+<!ENTITY  error.title                     "સુધારો નિષ્ફળ">
+<!ENTITY  errorCertAttrHasUpdate.label    "અસુરક્ષિત સુધારાને સ્વીકારીને &brandShortName; સાથે છેતરપિંડી કરવા કોઇક પ્રયત્ન કરી રહ્યુ છે. મહેરબાની કરીને તમારા નેટવર્ક પોષણકર્તાનો સંપર્ક કરો અને મદદ માટે પ્રયત્ન કરો.">
+<!ENTITY  errorCertAttrNoUpdate2.label    "કોઇક સુરક્ષિત રીતે સુધારવાથી &brandShortName; ને અટકાવી રહ્યુ છે.
+                                           મહેરબાની કરીને ખાતરી કરો કે તમારી પાસે &brandShortName; ની તાજેતરની આવૃત્તિ છે:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ને નક્કી કરવાનું અસમર્થ જો ત્યાં સુધારો ઉપલબ્ધ હોય તો. મહેરબાની કરીને ચકાસો કે તમારી પાસે &brandShortName; ની તાજેતરની આવૃત્તિ છે:">
+
+<!ENTITY  manualUpdate.space.desc         "અગ્રહણીય સુરક્ષા અને સ્થિરતા સુધારા ઉપલબ્ધ છે, પરંતુ તેને સ્થાપિત કરવા માટે તમારી પાસે પૂરતી જગ્યા નથી.">
+<!ENTITY  pluginupdatesfound.label        "તમારા પ્લગઇનોની એક અથવા વધારે નવામાં નવી આવૃત્તિઓ મળી હતી.">
+<!ENTITY  pluginupdatesfound.title        "પ્લગઇનો માટે સુધારાઓ મળ્યા">
+<!ENTITY  pluginupdateslink.label         "જુઓ કેવી રીતે તમારા પ્લગઇનોને સુધારવા.">
