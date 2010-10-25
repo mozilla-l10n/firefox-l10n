@@ -56,18 +56,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "stizzar l'entira cronologia pli nova">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Aviar automaticamain &brandShortName; en il modus privat">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  privateBrowsingPermanent.label "Navigar permanentamain en il modus privat">
+<!ENTITY  privateBrowsingPermanent.accesskey "p">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Memorisar mia cronologia da navigaziun almain">
-<!ENTITY  rememberHistory.pre.accesskey  "M">
-<!ENTITY  rememberHistory.post.label     "dis">
+<!ENTITY  rememberHistory.label      "Memorisar mia cronologia da navigar">
+<!ENTITY  rememberHistory.accesskey  "c">
 
 <!ENTITY  rememberDownload.label         "Memorisar la cronologia da telechargiadas">
 <!ENTITY  rememberDownload.accesskey     "d">

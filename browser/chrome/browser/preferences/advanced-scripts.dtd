@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "f">
 <!ENTITY disableContextMenus.label      "Deactivar u remplazzar il menu contextual">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "Zuppentar la trav da status">
-<!ENTITY hideStatusBar.accesskey        "s">
-<!ENTITY changeStatusBar.label          "Midar il text da la trav da status">
-<!ENTITY changeStatusBar.accesskey      "a">
