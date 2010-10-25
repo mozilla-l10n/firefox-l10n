@@ -12,7 +12,8 @@
 <!ENTITY useBookmark.accesskey "B">
 <!ENTITY restoreDefault.label "முன்னிருப்பு மாற்று">
 <!ENTITY restoreDefault.accesskey "R">
-
+<!ENTITY homepage.label            "முகப்பு பக்கம்:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY downloads.label "பதிவிறக்கங்கள்">
 
 <!ENTITY showWhenDownloading.label "பதிவிறக்கங்கள் சாளரத்தை ஒரு கோப்பினை பதிவிறக்கும் போது காட்டு">
