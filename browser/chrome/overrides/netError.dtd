@@ -149,7 +149,7 @@
 ">
 <!ENTITY contentEncodingError.title "ವಿಷಯದ ಎನ್ಕೋಡಿಂಗ್‌ ದೋಷ">
 
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p> ಈ ಪುಟವನ್ನು ಈ ರೀತಿಯಲ್ಲಿ ಲೋಡ್ ಮಾಡುವುದಂತೆ  &brandShortName; ತಡೆದಿದೆ ಏಕೆಂದರೆ ಈ ಪುಟದಲ್ಲಿನ ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮವು ಇದಕ್ಕೆ ಅನುಮತಿ ನೀಡುವುದಿಲ್ಲ.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p> ಈ ಪುಟವನ್ನು ಈ ರೀತಿಯಲ್ಲಿ ಲೋಡ್ ಮಾಡುದಂತೆ  &brandShortName; ತಡೆದಿದೆ ಏಕೆಂದರೆ ಈ ಪುಟದಲ್ಲಿನ ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮವು ಇದಕ್ಕೆ ಅನುಮತಿ ನೀಡುವುದಿಲ್ಲ.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮದಿಂದ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ">
 
 <!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
