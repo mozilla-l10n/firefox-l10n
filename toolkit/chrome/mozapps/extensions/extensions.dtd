@@ -186,3 +186,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Desculpe, mas houve um erro ao carregar as notas de lançamento.">
 
 <!ENTITY addon.createdBy.label                "Por ">
+
+<!ENTITY eula.title                           "Acordo de licença de utilizador final">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Aceitar e instalar…">
