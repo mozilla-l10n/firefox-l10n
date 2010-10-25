@@ -145,3 +145,7 @@
 <!ENTITY addon.loadingReleaseNotes.label "Cargando…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Lo sentimos, pero ha sucedido un error al cargar las notas de versión.">
 <!ENTITY addon.createdBy.label "Por ">
+<!ENTITY eula.title "Acuerdo de licencia de usuario final">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Aceptar e instalar…">
