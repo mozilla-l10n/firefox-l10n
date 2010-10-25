@@ -68,9 +68,9 @@
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "बंद करा">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "Wear Theme">
+<!ENTITY cmd.enableTheme.label                "दृष्य कल्पना लागू करा">
 <!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.label               "दृष्य कल्पना लागू करू नका">
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.installAddon.label               "प्रतिष्ठापीत करा">
 <!ENTITY cmd.installAddon.accesskey           "I">
@@ -123,9 +123,9 @@
 <!ENTITY sort.dateUpdated.label               "शेवटच्यावेळी सुधारीत केलेले">
 <!ENTITY sort.dateUpdated.tooltip             "सुधारीत दिनांक प्रमाणे क्रमवारीत लावा">
 <!ENTITY sort.relevance.label                 "सर्वोत्तम जुळवणी">
-<!ENTITY sort.relevance.tooltip               "Sort by relevance">
-<!ENTITY sort.price.label                     "Price">
-<!ENTITY sort.price.tooltip                   "Sort by price">
+<!ENTITY sort.relevance.tooltip               "समर्पकता प्रमाणे क्रमवारीत लावा">
+<!ENTITY sort.price.label                     "किंमत">
+<!ENTITY sort.price.tooltip                   "किंमत प्रमाणे क्रमवारीत लावा">
 <!ENTITY search.filter2.label                 "शोधा:">
 <!ENTITY search.filter2.installed.label       "माझे ॲडऑन्स्">
 <!ENTITY search.filter2.installed.tooltip     "प्रतिष्ठापीत ॲडऑन्स् दाखवा">
