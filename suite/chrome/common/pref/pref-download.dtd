@@ -18,9 +18,9 @@
 <!ENTITY alwaysAsk.label                "Altijd vragen waar bestanden moeten worden opgeslagen">
 <!ENTITY alwaysAsk.accesskey            "A">
 
-<!ENTITY downloadRetention.label        "Bewaartermijn">
-<!ENTITY removeDownloads.label          "Downloads uit lijst verwijderen">
-<!ENTITY removeDownloads.accesskey      "r">
+<!ENTITY downloadHistory.label          "Downloadgeschiedenis">
+<!ENTITY removeEntries.label            "Gedownloade items verwijderen">
+<!ENTITY removeEntries.accesskey        "v	">
 <!ENTITY whenCompleted.label            "Als ze zijn voltooid">
 <!ENTITY whenQuittingApp.label          "Bij het afsluiten van &brandShortName;">
 <!ENTITY neverRemove.label              "Nooit">

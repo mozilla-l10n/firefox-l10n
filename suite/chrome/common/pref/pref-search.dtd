@@ -7,16 +7,9 @@
 <!ENTITY defaultSearchEngine.label        "Zoeken met:">
 <!ENTITY defaultSearchEngine.accesskey    "Z">
 
-<!ENTITY openSidebarSearchPanel.label     "Het tabblad Zoeken openen in de zijbalk bij het aanroepen van een zoekopdracht">
-<!ENTITY openSidebarSearchPanel.accesskey "o">
-
-<!ENTITY openContextSearchTab.label       "Een tabblad openen in plaats van een venster voor een contextmenu-zoekopdracht">
-<!ENTITY openContextSearchTab.accesskey   "t">
-
 <!ENTITY searchResults.label              "Zoekresultaten">
 
-<!ENTITY sidebarSearchTabPref.label       "Zijbalk-zoektabbladvoorkeur">
-<!ENTITY searchModeBasic.label            "Eenvoudig">
-<!ENTITY searchModeBasic.accesskey        "E">
-<!ENTITY searchModeAdvanced.label         "Geavanceerd">
-<!ENTITY searchModeAdvanced.accesskey     "G">
+<!ENTITY openInTab.label                  "Zoekresultaten openen in een nieuw tabblad">
+<!ENTITY openInTab.accesskey              "n">
+<!ENTITY openSidebarSearchPanel.label     "Het tabblad Zoeken openen in de zijbalk bij het aanroepen van een zoekopdracht">
+<!ENTITY openSidebarSearchPanel.accesskey "o">

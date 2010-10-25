@@ -1,0 +1,159 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is KaiRo's data manager.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser <kairo@kairo.at>.
+   - Portions created by the Initial Developer are Copyright (C) 2010
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at> (original author)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY dataman.windowTitle "Gegevensbeheerder">
+
+<!ENTITY selectAll.key "a">
+
+<!ENTITY domain.search.placeholder "Doorzoek domeinen">
+<!ENTITY domain.search.key "z">
+
+<!ENTITY domain.tree.domain.label "Domein">
+
+<!ENTITY domain.ctx.forgetdomain.label "Alle opgeslagen gegevens van dit domein wissen">
+<!ENTITY domain.ctx.forgetdomain.accesskey "w">
+<!ENTITY domain.ctx.forgetglobal.label "Alle opgeslagen gegevens wissen">
+<!ENTITY domain.ctx.forgetglobal.accesskey "A">
+
+<!ENTITY data.search.key "k">
+
+<!ENTITY tab.cookies.label "Cookies">
+<!ENTITY tab.permissions.label "Toestemmingen">
+<!ENTITY tab.preferences.label "Voorkeuren">
+<!ENTITY tab.passwords.label "Wachtwoorden">
+<!ENTITY tab.formdata.label "Formuliergegevens">
+<!ENTITY tab.forget.label "Wissen">
+
+<!-- cookies -->
+<!ENTITY cookies.description "Dit domein heeft de volgende cookies opgeslagen:">
+
+<!ENTITY cookies.tree.host.label "Website">
+<!ENTITY cookies.tree.name.label "Cookienaam">
+<!ENTITY cookies.tree.expires.label "Verloopt">
+
+<!ENTITY cookies.infobox.label "Informatie over het geselecteerde cookie">
+
+<!ENTITY cookies.info.name.label "Naam:">
+<!ENTITY cookies.info.value.label "Inhoud:">
+<!ENTITY cookies.info.host.label "Host:">
+<!ENTITY cookies.info.domain.label "Domein:">
+<!ENTITY cookies.info.path.label "Pad:">
+<!ENTITY cookies.info.sendtype.label "Verzenden bij:">
+<!ENTITY cookies.info.expires.label "Verloopt:">
+
+<!ENTITY cookies.ctx.remove.label "Verwijderen">
+<!ENTITY cookies.ctx.remove.accesskey "V">
+<!ENTITY cookies.ctx.selectAll.label "Alles selecteren">
+<!ENTITY cookies.ctx.selectAll.accesskey "A">
+
+<!ENTITY cookies.button.remove.label "Verwijderen">
+<!ENTITY cookies.button.remove.accesskey "V">
+
+<!ENTITY cookies.blockOnRemove.label "Websites waarvan cookies zijn verwijderd niet toestaan nieuwe cookies op te slaan">
+<!ENTITY cookies.blockOnRemove.accesskey "W">
+
+<!-- permissions -->
+<!ENTITY perm.UseDefault "Standaard gebruiken">
+<!ENTITY perm.AskAlways "Altijd vragen">
+<!ENTITY perm.NeverSave "Nooit opslaan">
+<!ENTITY perm.Allow "Toestaan">
+<!ENTITY perm.AllowSession "Toestaan voor de duur van deze sessie">
+<!ENTITY perm.Block "Blokkeren">
+
+<!-- preferences -->
+<!ENTITY prefs.description "Inhoudsvoorkeuren zijn een manier voor &brandShortName; om de instellingen voor een specifieke website op te slaan.">
+
+<!ENTITY prefs.tree.host.label "Website">
+<!ENTITY prefs.tree.name.label "Instelling">
+<!ENTITY prefs.tree.value.label "Waarde">
+
+<!ENTITY prefs.ctx.remove.label "Verwijderen">
+<!ENTITY prefs.ctx.remove.accesskey "V">
+<!ENTITY prefs.ctx.selectAll.label "Alles selecteren">
+<!ENTITY prefs.ctx.selectAll.accesskey "A">
+
+<!ENTITY prefs.button.remove.label "Verwijderen">
+<!ENTITY prefs.button.remove.accesskey "V">
+
+<!-- passwords -->
+<!ENTITY pwd.description "Voor dit domein zijn de volgende wachtwoorden opgeslagen:">
+
+<!ENTITY pwd.tree.host.label "Website">
+<!ENTITY pwd.tree.username.label "Gebruikersnaam">
+<!ENTITY pwd.tree.password.label "Wachtwoord">
+
+<!ENTITY pwd.ctx.remove.label "Verwijderen">
+<!ENTITY pwd.ctx.remove.accesskey "V">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Wachtwoord kopiëren">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "k">
+<!ENTITY pwd.ctx.selectAll.label "Alles selecteren">
+<!ENTITY pwd.ctx.selectAll.accesskey "A">
+
+<!ENTITY pwd.button.remove.label "Verwijderen">
+<!ENTITY pwd.button.remove.accesskey "V">
+
+<!-- form data -->
+<!ENTITY fdata.search.placeholder "Doorzoek opgeslagen gegevens">
+
+<!ENTITY fdata.tree.fieldname.label "Veldnaam">
+<!ENTITY fdata.tree.value.label "Opgeslagen waarde">
+<!ENTITY fdata.tree.usecount.label "Aantal malen gebruikt">
+<!ENTITY fdata.tree.firstused.label "Eerste gebruik">
+<!ENTITY fdata.tree.lastused.label "Laatste gebruik">
+
+<!ENTITY fdata.ctx.remove.label "Verwijderen">
+<!ENTITY fdata.ctx.remove.accesskey "V">
+<!ENTITY fdata.ctx.selectAll.label "Alles selecteren">
+<!ENTITY fdata.ctx.selectAll.accesskey "A">
+
+<!ENTITY fdata.button.remove.label "Verwijderen">
+<!ENTITY fdata.button.remove.accesskey "V">
+
+<!-- forget -->
+<!ENTITY forget.cookies.label "Cookies">
+<!ENTITY forget.cookies.accesskey "C">
+<!ENTITY forget.permissions.label "Toestemmingen">
+<!ENTITY forget.permissions.accesskey "T">
+<!ENTITY forget.preferences.label "Inhoudsvoorkeuren">
+<!ENTITY forget.preferences.accesskey "I">
+<!ENTITY forget.passwords.label "Wachtwoorden">
+<!ENTITY forget.passwords.accesskey "W">
+<!ENTITY forget.formdata.label "Formuliergegevens">
+<!ENTITY forget.formdata.accesskey "F">
+
+<!ENTITY forget.button.label "Deze gegevens wissen">
+<!ENTITY forget.button.accesskey "D">

@@ -5,15 +5,8 @@
 <!ENTITY siteIcons.label                        "Websitepictogrammen">
 <!ENTITY useSiteIcons.label                     "Websitepictogrammen tonen">
 <!ENTITY useSiteIcons.accesskey                 "W">
-<!ENTITY useFavIcons.label                      "Agressief zoeken naar websitepictogrammen als de pagina er geen een definieert">
+<!ENTITY useFavIcons.label                      "Actief zoeken naar websitepictogrammen als de pagina er niet een definieert">
 <!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY tbIconsDescription.label               "Websitepictogrammen in bladwijzermenu en werkbalk weergeven:">
-<!ENTITY tbIconsNever.label                     "Nooit pictogrammen voor bladwijzers tonen">
-<!ENTITY tbIconsNever.accesskey                 "N">
-<!ENTITY tbIconsCache.label                     "Alleen wanneer de website onlangs is geladen">
-<!ENTITY tbIconsCache.accesskey                 "e">
-<!ENTITY tbIconsAlways.label                    "Websitepictogrammen voor bladwijzers altijd laden">
-<!ENTITY tbIconsAlways.accesskey                "b">
 <!ENTITY enableAutomaticImageResizing.label     "Formaat van grote afbeeldingen aanpassen aan browservenster">
 <!ENTITY enableAutomaticImageResizing.accesskey "r">
 <!ENTITY useSmoothScroll.label                  "Vloeiend scrollen gebruiken">

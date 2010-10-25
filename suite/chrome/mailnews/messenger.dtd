@@ -22,6 +22,7 @@
  Contributor(s):
     Karsten Düsterloh <mnyromyr@tprac.de>
     Jeremy Morton <bugzilla@game-point.net>
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -158,13 +159,8 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label          "E-mailwerkbalk">
 <!ENTITY showMessengerToolbarCmd.accesskey      "E">
-
-<!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label "Zoekbalk">
 <!ENTITY showSearchToolbarCmd.accesskey "Z">
-
-<!ENTITY showLocationToolbarCmd.label "Locatiewerkbalk">
-<!ENTITY showLocationToolbarCmd.accesskey "L">
 
 <!ENTITY messagePaneLayoutStyle.label "Vormgeving">
 <!ENTITY messagePaneLayoutStyle.accesskey "V">
@@ -489,11 +485,12 @@
 <!ENTITY stopButton.label "Stoppen">
 <!ENTITY junkButton.label "Ongewenst">
 <!ENTITY notJunkButton.label "Niet ongewenst">
+<!ENTITY searchButton.title "Uitgebreid zoeken">
 
 <!--Tooltips-->
 <!ENTITY menuBar.tooltip "Menubalk">
 <!ENTITY mailToolbar.tooltip "E-mailwerkbalk">
-<!ENTITY locationToolbar.tooltip "Locatiewerkbalk">
+<!ENTITY searchToolbar.tooltip "Zoekbalk">
 <!ENTITY advancedButton.tooltip "Uitgebreid berichten zoeken">
 <!ENTITY getMsgButton.tooltip "Nieuwe berichten ophalen">
 <!ENTITY newMsgButton.tooltip "Een nieuw bericht aanmaken">

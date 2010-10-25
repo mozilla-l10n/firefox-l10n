@@ -36,14 +36,5 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label      "Zoeken">
-<!ENTITY allengines.label         "Alle zoekmachines">
-<!ENTITY within.label             "binnen">
-<!ENTITY using.label              "met">
-<!ENTITY choose.label             "Kies zoekmachines en klik op Zoeken">
-<!ENTITY results.label            "Zoekresultaten">
-<!ENTITY engine.column.label      "Zoekmachines">
-<!ENTITY customize.menuitem.label "Categorieën bewerken…">
-<!ENTITY next.button.label        "Volgende">
-<!ENTITY previous.button.label    "Vorige">
-<!ENTITY next.button.tooltip      "Volgende zoekresultaten tonen">
-<!ENTITY previous.button.tooltip  "Vorige zoekresultaten tonen">
+<!ENTITY search.placeholder       "Voer zoekterm in">
+

@@ -26,14 +26,6 @@
 <!ENTITY useDefault.label               "Standaard herstellen">
 <!ENTITY useDefault.accesskey           "S">
 
-<!ENTITY toolbarIntro.label             "Selecteer de knoppen die u in de werkbalken wilt zien:">
-
-<!ENTITY navToolbarIntro.label          "Navigatiewerkbalk">
-<!ENTITY goButton.label                 "Ga">
-<!ENTITY goButton.accesskey             "G">
-<!ENTITY searchButton.label             "Zoeken">
-<!ENTITY searchButton.accesskey         "Z">
-
 <!ENTITY defaultBrowserGroup.label      "Standaardbrowser">
 <!ENTITY defaultBrowserButton.label     "Standaardbrowser instellen">
 <!ENTITY defaultBrowserButton.accesskey "d">

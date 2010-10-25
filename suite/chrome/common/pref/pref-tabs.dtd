@@ -6,23 +6,11 @@
 <!ENTITY background.accesskey "s">
 <!ENTITY warnOnClose.label "Mij waarschuwen bij het sluiten van een venster met meerdere tabbladen">
 <!ENTITY warnOnClose.accesskey "n">
+<!ENTITY relatedAfterCurrent.label "Gerelateerde tabbladen openen na het huidige tabblad">
+<!ENTITY relatedAfterCurrent.accesskey "O">
 <!ENTITY loadGroup.label "Bij het openen van een bladwijzergroep">
 <!ENTITY loadGroupAppend.label "Tabbladen toevoegen">
 <!ENTITY loadGroupAppend.accesskey "a">
 <!ENTITY loadGroupReplace.label "Bestaande tabbladen vervangen">
 <!ENTITY loadGroupReplace.accesskey "r">
 <!ENTITY openTabs.label "Tabbladen in plaats van vensters openen voor">
-
-<!ENTITY newWindow.label "Openen van koppelingen">
-<!ENTITY newWindowDescription.label "Koppelingen die een nieuw venster zouden openen, openen in">
-<!ENTITY external.label "Koppelingen van andere toepassingen">
-<!ENTITY externalDescription.label "Koppelingen vanuit andere toepassingen openen in">
-<!ENTITY openCurrent.label "Het huidige tabblad/venster">
-<!ENTITY newWindowGroupCurrent.accesskey "u">
-<!ENTITY externalGroupCurrent.accesskey "d">
-<!ENTITY openTab.label "Een nieuw tabblad in het huidige venster">
-<!ENTITY newWindowGroupTab.accesskey "t">
-<!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "Een nieuw venster">
-<!ENTITY newWindowGroupWindow.accesskey "w">
-<!ENTITY externalGroupWindow.accesskey "v">

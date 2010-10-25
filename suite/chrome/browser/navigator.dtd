@@ -158,6 +158,8 @@
 <!ENTITY  bookmarksButton.tooltip     "Bladwijzerlijst">
 <!ENTITY  homeButton.label            "Beginpagina">
 <!ENTITY  bookmarksToolbarItem.label  "Bladwijzerwerkbalkitems">
+<!ENTITY  bookmarksToolbarChevron.tooltip "Toon meer bladwijzers">
+
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Klaar">

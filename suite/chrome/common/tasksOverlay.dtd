@@ -23,6 +23,9 @@
 <!ENTITY tasksMenu.label              "Gereedschappen">
 <!ENTITY tasksMenu.accesskey          "G">
 
+<!ENTITY datamanCmd.label 				"Gegevensbeheerder">
+<!ENTITY datamanCmd.accesskey 			"b">
+
 <!ENTITY passwordManagerCmd.label "Wachtwoordenbeheerder">
 <!ENTITY passwordManagerCmd.accesskey "W">
 
@@ -38,6 +41,7 @@
 
 <!ENTITY addonsManagerCmd.label "Add-onbeheerder">
 <!ENTITY addonsManagerCmd.accesskey "A">
+<!ENTITY addonsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Ander profiel kiezen…">
 <!ENTITY switchProfileCmd.accesskey "n">
