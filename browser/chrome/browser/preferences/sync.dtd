@@ -1,0 +1,43 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Endrizzar &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "Cun &syncBrand.fullName.label; has ti access a tia cronologia, tes segnapaginas, tes pleds-clav ed ils tabs che ti has avert sin tut tes apparats.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Conto da &syncBrand.fullName.label;">
+<!ENTITY currentAccount.label         "Conto actual:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Actualisar">
+<!ENTITY resetPass.label              "Redefinir">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Administrar il conto">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY viewQuota.label              "Guardar la quota">
+<!ENTITY changePassword.label         "Midar il pled-clav">
+<!ENTITY mySyncKey.label              "Mia clav da Sync">
+<!ENTITY resetSync.label              "Redefinir Sync">
+<!ENTITY stopUsingAccount.label       "Chalar dad utilisar quest conto">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Sincronisaziun dal navigatur">
+<!ENTITY syncComputerName.label       "Num dal computer:">
+<!ENTITY syncComputerName.accesskey   "c">
+
+<!ENTITY syncMy.label               "Sincronisar">
+<!ENTITY engine.bookmarks.label     "mes segnapaginas">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "mes tabs">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "mia cronologia">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "mes pleds-clav">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "mias preferenzas">
+<!ENTITY engine.prefs.accesskey     "S">
+
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Contract da licenza">
+<!ENTITY prefs.ppLink.label         "Directivas per la protecziun da datas">
