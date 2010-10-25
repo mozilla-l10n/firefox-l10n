@@ -94,3 +94,19 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "பாதுகாப்பு சாதனங்கள்">
 <!ENTITY viewSecurityDevices.accesskey   "y">
+
+<!ENTITY allowHWAccel.label              "கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்">
+<!ENTITY allowHWAccel.accesskey          "h">
+
+<!ENTITY enableAddonsUpdate2.label       "கூடுதல் இணைப்புகள்">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+
+<!ENTITY limitCacheSizeBefore.label      "இடையக வரம்பு">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB இடம்">
+
+<!ENTITY overrideSmartCacheSize.label    "தானியக்க இடையக மேலாண்மையை மேலெழுது">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+
+<!ENTITY submitCrashes.label             "க்ராஷ் அறிக்கைகளை சமர்ப்பி">
+<!ENTITY submitCrashes.accesskey         "S">

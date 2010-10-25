@@ -51,6 +51,7 @@
 <!ENTITY  font.langGroup.telugu                   "தெலுங்கு">
 <!ENTITY  font.langGroup.kannada                  "கன்னடம்">
 <!ENTITY  font.langGroup.sinhala                  "சிங்களம்">
+<!ENTITY  font.langGroup.tibetan                  "திபேத்தியன்">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "குறைந்தபட்ச எழுத்துருவின் அளவு:">
 <!ENTITY minSize.accesskey                        "o">

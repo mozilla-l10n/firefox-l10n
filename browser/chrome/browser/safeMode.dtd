@@ -51,11 +51,11 @@
 <!ENTITY resetToolbars.label "கருவிப்பட்டை மற்றும் கட்டுப்பாடுகளை மறுஅமைவு செய்யவும்">
 <!ENTITY resetToolbars.accesskey "R">
 
-<!ENTITY resetBookmarks.label "&brandShortName;இன் முன்னிருப்புக்கு புத்தகக்குறிகளை மறுஅமை">
-<!ENTITY resetBookmarks.accesskey "b">
-
 <!ENTITY resetUserPrefs.label "&brandShortName;இன் முன்னிருப்புக்கு அனைத்து பயனர் முன்னுரிமைகளை மறுஅமை">
 <!ENTITY resetUserPrefs.accesskey "p">
+
+<!ENTITY deleteBookmarks.label        "பிரதியிடுதல்களுக்கு தவிர அனைத்து புத்தகக்குறிகளையும் அழி">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY restoreSearch.label "முன்னிருப்பு தேடும் பொறிகளை மறுஅமைக்கவும்">
 <!ENTITY restoreSearch.accesskey "s">

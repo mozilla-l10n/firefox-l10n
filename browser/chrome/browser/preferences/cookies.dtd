@@ -4,6 +4,7 @@
 <!ENTITY     cookiename.label               "குக்கீ பெயர்">
 <!ENTITY     cookiedomain.label             "தளம்"> 
 <!ENTITY     button.removecookie.label      "குக்கீயை நீக்கு">
+<!ENTITY     button.removecookies.label     "குக்கீகளை நீக்கு">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "அனைத்து குக்கீகளையும் நீக்கு">
 <!ENTITY     button.removeallcookies.accesskey "A">
