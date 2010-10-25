@@ -205,3 +205,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Atsiprašome, bet įkeliant laidos apžvalgą, įvyko klaida.">
 
 <!ENTITY addon.createdBy.label                "priedą kūrė ">
+
+<!ENTITY eula.title                           "Licencijos sutartis">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Sutikti su licencija ir įdiegti priedą…">

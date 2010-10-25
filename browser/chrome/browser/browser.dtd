@@ -144,7 +144,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Pirmyn">
 <!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Vienu tinklalapiu pirmyn">
-<!ENTITY backForwardMenu.tooltip      "Vėliausiai lankyti tinklalapiai">
 <!ENTITY reloadCmd.label              "Atsiųsti iš naujo">
 <!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY reloadButton.tooltip         "Šį tinklalapį atsiųsti iš naujo">
