@@ -73,6 +73,7 @@
 
 <!ENTITY addonsManagerCmd.label             "Priedų tvarkytuvė">
 <!ENTITY addonsManagerCmd.accesskey         "P">
+<!ENTITY addonsManagerCmd.commandkey        "a">
 
 <!ENTITY switchProfileCmd.label             "Pakeisti profilį…">
 <!ENTITY switchProfileCmd.accesskey         "e">
