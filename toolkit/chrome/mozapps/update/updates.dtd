@@ -39,7 +39,6 @@
 <!ENTITY  incompatibleList.title          "ଅସଂଗତ ଏଡ଼-ଅନଗୁଡ଼ିକ ମିଳିଲା">
 <!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 
-<!ENTITY  downloading.title               "ଅଦ୍ୟତନ ଆହରଣ କରୁଅଛି">
 <!ENTITY  downloading.intro               "ଅଦ୍ୟତନ ଆହରଣ କରୁଅଛି…">
 <!ENTITY  connecting.label                "ଅଦ୍ୟତନ ସର୍ଭର ସହିତ ସଂଯୋଗ ସ୍ଥାପନ କରୁଅଛି…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ଆହରଣ କରିଥିବା କ୍ରମବର୍ଦ୍ଧିଷ୍ଣୁ ଅଦ୍ୟତନର 
@@ -54,8 +53,7 @@
 <!ENTITY  error.label                     "ଏହି ଅଦ୍ୟତନକୁ ଆହରଣ, କିମ୍ବା ସ୍ଥାପନ କରିବା ପାଇଁ ଅନୁସନ୍ଧାନ କରିବାରେ ସମସ୍ୟା ଦେଖାଦେଇଛି। &brandShortName; କୁ ଅଦ୍ୟତନ କରାଯାଇପାରିଲା ନାହିଁ, କାରଣ:">
                                            
 <!ENTITY  errorManual.label               "ଏହି ସଂଯୋଗକୁ ପରିଦର୍ଶନ କରି ଏବଂ ନୂତନତମ ସଂସ୍କରଣକୁ ଆହରଣ କରି ଆପଣ &brandShortName; କୁ ହସ୍ତକୃତ ଭାବରେ ଅଦ୍ୟତନ କରିପାରିବେ:">
-                                           
-<!ENTITY  errorpatching.title             "ଅଦ୍ୟତନ ବିଫଳ ହେଲା">
+
 <!ENTITY  errorpatching.intro             "ଆଂଶିକ ଅଦ୍ୟତନକୁ ପ୍ରୟୋଗ କରିହେଲାନାହିଁ। 
                                            &brandShortName; ଗୋଟିଏ ସମ୍ପୂର୍ଣ୍ଣ ଅଦ୍ୟତନକୁ ଆହରଣ କରି ପୁଣିଥରେ ଚେଷ୍ଟାକରିବ।">
 
