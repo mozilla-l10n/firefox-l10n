@@ -37,9 +37,9 @@
 <!ENTITY offlineStorage.label            "ഓഫ്‌ലൈന്‍ സംഭരണം">
 
 <!-- ENTITY cache.label "കാഷ് " -->
-<!ENTITY useCacheBefore.label "ഇതുവരെ ഉപയോഗിക്കുക">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "കാഷിനു വേണ്ടിയുള്ള സ്ഥലം MB-യില്‍ ">
+<!-- ENTITY useCacheBefore.label "ഇതുവരെ ഉപയോഗിക്കുക" -->
+<!-- ENTITY useCacheBefore.accesskey "U" -->
+<!-- ENTITY useCacheAfter.label "കാഷിനു വേണ്ടിയുള്ള സ്ഥലം MB-യില്‍ " -->
 <!ENTITY clearCacheNow.label             "ഉടന്‍ വെടിപ്പാക്കുക">
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY updateTab.label "പരിഷ്കരിക്കുക">

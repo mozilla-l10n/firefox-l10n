@@ -20,8 +20,8 @@
 <!ENTITY reload.accesskey "e">
 <!ENTITY ftp.label "FTP പ്രോക്‌സി ">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "ഗോഫര്‍ പ്രോക്സി :">
-<!ENTITY gopher.accesskey "G">
+<!-- ENTITY gopher.label "ഗോഫര്‍ പ്രോക്സി :" -->
+<!-- ENTITY gopher.accesskey "G" -->
 <!ENTITY http.label "HTTP പ്രോക്‌സി ">
 <!ENTITY  http.accesskey                "x">
 <!ENTITY ssl.label "SSL പ്രോക്സി:">
@@ -36,7 +36,7 @@
 <!ENTITY HTTPport.accesskey "P">
 <!ENTITY SSLport.accesskey "o">
 <!ENTITY FTPport.accesskey "r">
-<!ENTITY gopherPort.accesskey "">
+<!-- ENTITY gopherPort.accesskey "" -->
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "ഇതിനു് പ്രോക്‌സി ഇല്ല:">
 <!ENTITY noproxy.accesskey "n">

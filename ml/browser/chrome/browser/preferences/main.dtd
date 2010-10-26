@@ -4,8 +4,8 @@
 <!ENTITY startupHomePage.label "എന്റെ പ്രധാന താള്‍ കാണിക്കുക">
 <!ENTITY startupBlankPage.label "ഒരു ശൂന്യമായ താള്‍ കാണിക്കുക ">
 <!ENTITY startupLastSession.label "എന്റെ കഴിഞ്ഞ തവണത്തെ ജാലകങ്ങളും റ്റാബുകളും കാണിക്കുക ">
-<!ENTITY location.label "പ്രധാന താള്‍">
-<!ENTITY location.accesskey "H">
+<!-- ENTITY location.label "പ്രധാന താള്‍" -->
+<!-- ENTITY location.accesskey "H" -->
 <!ENTITY useCurrentPage.label "ഇപ്പോഴത്തെ താള്‍ ഉപയോഗിക്കുക ">
 <!ENTITY useCurrentPage.accesskey "C">
 <!ENTITY useMultiple.label "ഇപ്പോഴത്തെ താളുകള്‍ ഉപയോഗിക്കുക">

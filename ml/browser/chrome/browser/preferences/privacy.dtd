@@ -70,8 +70,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "എല്ലാ ഹിസ്റ്ററിയും മായ്ക്കുക">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; ഒരു സ്വകാര്യ തിരയല്‍ (ബ്രൗസിങ്) സെഷനില്‍ സ്വയം തുടങ്ങുക.">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!-- ENTITY  privateBrowsingAutoStart.label "&brandShortName; ഒരു സ്വകാര്യ തിരയല്‍ (ബ്രൗസിങ്) സെഷനില്‍ സ്വയം തുടങ്ങുക." -->
+<!-- ENTITY  privateBrowsingAutoStart.accesskey "A" -->
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
@@ -79,9 +79,9 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "എന്റെ തിരയല്‍ (ബ്രൗസിങ്) ഹിസ്റ്ററി ചുരുങ്ങിയതും ഇത്രയും കാലത്തേക്ക് ഓര്‍ക്കുക :">
-<!ENTITY  rememberHistory.pre.accesskey  "b">
-<!ENTITY  rememberHistory.post.label     "ദിവസങ്ങള്‍">
+<!-- ENTITY  rememberHistory.pre.label      "എന്റെ തിരയല്‍ (ബ്രൗസിങ്) ഹിസ്റ്ററി ചുരുങ്ങിയതും ഇത്രയും കാലത്തേക്ക് ഓര്‍ക്കുക :" -->
+<!-- ENTITY  rememberHistory.pre.accesskey  "b" -->
+<!-- ENTITY  rememberHistory.post.label     "ദിവസങ്ങള്‍" -->
 
 <!ENTITY  rememberDownload.label         "ഡൗണ്‍ളോഡ് ഹിസ്റ്ററി ഓര്‍ക്കുക">
 <!ENTITY  rememberDownload.accesskey     "d">

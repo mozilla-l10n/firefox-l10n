@@ -27,8 +27,8 @@
 <!ENTITY personalbarCmd.label "അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാറിലുള്ള വസ്തുക്കള്‍">
-<!ENTITY taskbarCmd.label "സ്റ്റേറ്റസ് ബാര്‍">
-<!ENTITY taskbarCmd.accesskey "B">
+<!-- ENTITY taskbarCmd.label "സ്റ്റേറ്റസ് ബാര്‍" -->
+<!-- ENTITY taskbarCmd.accesskey "B" -->
 <!ENTITY pageSourceCmd.label "താളിന്റെ സ്രോതസ്സ്‌">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -102,7 +102,7 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "ആഡ്‌-ഓണുകള്‍">
-<!ENTITY addons.tooltip "ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്ന ആഡ്‌ഓണുകള്‍ കാണിക്കുകയും ക്രമീകരിക്കുകയും ചെയ്യുക">
+<!-- ENTITY addons.tooltip "ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്ന ആഡ്‌ഓണുകള്‍ കാണിക്കുകയും ക്രമീകരിക്കുകയും ചെയ്യുക" -->
 <!ENTITY addons.accesskey "A">
 <!-- ENTITY javaConsoleCmd.label "ജാവാ കണ്‍സോള്‍" -->
 <!-- ENTITY javaConsoleCmd.accesskey "J" -->
@@ -174,7 +174,7 @@
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
+<!-- ENTITY searchFocus.commandkey2 "e" -->
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY openLinkCmd.label "കണ്ണി പുതിയ ജാലകത്തില്‍ തുറക്കുക">
 <!ENTITY openLinkCmd.accesskey "W">
@@ -311,7 +311,7 @@
 <!-- ENTITY location.status.bookmarked "സ്റ്റാര്‍ (ഓണ്‍)" -->
 <!-- ENTITY location.status.bookmark.tooltip "ഈ പേജിലേക്ക്‌ ഒരു അടയാളം ചേര്‍ക്കുക" -->
 <!ENTITY allTabs.filter.emptyText "തെരച്ചിലിനുള്ള റ്റാബുകള്‍">
-<!ENTITY backForwardMenu.tooltip      "അടുത്തിടെ തുറന്ന താളുകള്‍">
+<!-- ENTITY backForwardMenu.tooltip      "അടുത്തിടെ തുറന്ന താളുകള്‍" -->
 <!ENTITY bookmarkPageCmd2.label       "ഈ താള്‍ അടയാളപ്പെടുത്തുക">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisFrameCmd.label      "ഈ ഫ്രെയിം അടയാളപ്പെടുത്തുക">
@@ -325,24 +325,24 @@
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY bookmarksToolbarChevron.tooltip "കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക">
-<!ENTITY clearRecentHistoryCmd.label   "ഇതുവരെയുള്ള നാള്‍വഴി വെടിപ്പാക്കുക">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+<!-- ENTITY clearRecentHistoryCmd.label   "ഇതുവരെയുള്ള നാള്‍വഴി വെടിപ്പാക്കുക" -->
+<!-- ENTITY clearRecentHistoryCmd.accesskey        "H" -->
 <!ENTITY closeWindow.accesskey "d">
 <!ENTITY copyVideoURLCmd.label        "വീഡിയോ സ്ഥാനം പകര്‍ത്തുക">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ഓഡിയോ സ്ഥാനം പകര്‍ത്തുക">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "B">
-<!ENTITY copyLinkTextCmd.label        "കണ്ണി പകര്‍ത്തുക">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
+<!-- ENTITY blockImageCmd.accesskey      "B" -->
+<!-- ENTITY copyLinkTextCmd.label        "കണ്ണി പകര്‍ത്തുക" -->
+<!-- ENTITY copyLinkTextCmd.accesskey    "x" -->
 <!ENTITY downloadMonitor2.tooltip "ഡൌണ്‍ലോടുകളുടെ ജാലകം തുറക്കുന്നതിനായി ക്ലിക്ക് ചെയ്യുക">
 <!ENTITY editBookmark.done.label                     "പൂര്‍ത്തിയായി">
 <!ENTITY editBookmark.cancel.label                   "റദ്ദാക്കുക">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "ആവര്‍ത്തിക്കുക">
-<!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.edit.label                     "മാറ്റം വരുത്തുക…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
+<!-- ENTITY editBookmark.undo.label                     "ആവര്‍ത്തിക്കുക" -->
+<!-- ENTITY editBookmark.undo.accessKey                 "U" -->
+<!-- ENTITY editBookmark.edit.label                     "മാറ്റം വരുത്തുക…" -->
+<!-- ENTITY editBookmark.edit.accessKey                 "E" -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 <!ENTITY feedButton.tooltip           "ഈ താളില്‍ അംഗമാകുക…">
 <!ENTITY fullScreenAutohide.label "ടൂള്‍ബാറുകള്‍ അദൃശ്യമാക്കുക">
@@ -393,7 +393,7 @@
 <!ENTITY menubarCmd.label "മെനു ബാര്‍">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY newTabButton.tooltip           "പുതിയ ഒരു റ്റാബ് തുറക്കുക">
-<!ENTITY organizeBookmarks.label "അടയാളക്കുറിപ്പുകള്‍ ക്രമീകരിക്കുക…">
+<!-- ENTITY organizeBookmarks.label "അടയാളക്കുറിപ്പുകള്‍ ക്രമീകരിക്കുക…" -->
 <!ENTITY printFrameCmd.label          "ഫ്രെയിം പ്രിന്റ് ചെയ്യുക…">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY privateBrowsingCmd.start.label         "സ്വകാര്യ ബ്രൌസിങ് ആരംഭിക്കുക">
@@ -415,10 +415,10 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY showAllTabsCmd.label "എല്ലാ റ്റാബുകളും കാണിക്കുക">
 <!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY urlbar.bookmarkhistory.emptyText "അടയാളക്കുറിപ്പുകളിലും നാള്‍വഴിയിലും തെരയുക">
-<!ENTITY urlbar.bookmark.emptyText    "അടയാളക്കുറിപ്പുകളില്‍ തെരയുക">
-<!ENTITY urlbar.history.emptyText     "നാള്‍വഴിയില്‍ തെരയുക">
-<!ENTITY urlbar.none.emptyText        "ഒരു വെബ് വിലാസം ടൈപ്പ് ചെയ്യുക">
+<!-- ENTITY urlbar.bookmarkhistory.emptyText "അടയാളക്കുറിപ്പുകളിലും നാള്‍വഴിയിലും തെരയുക" -->
+<!-- ENTITY urlbar.bookmark.emptyText    "അടയാളക്കുറിപ്പുകളില്‍ തെരയുക" -->
+<!-- ENTITY urlbar.history.emptyText     "നാള്‍വഴിയില്‍ തെരയുക" -->
+<!-- ENTITY urlbar.none.emptyText        "ഒരു വെബ് വിലാസം ടൈപ്പ് ചെയ്യുക" -->
 <!ENTITY viewImageInfoCmd.label       "ഇമേജ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ കാണുക">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "വീഡിയോ കാണുക">
