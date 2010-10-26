@@ -183,3 +183,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Съжаляваме, но зареждането на бележките по изданието беше неуспешно.">
 
 <!ENTITY addon.createdBy.label "От ">
+
+<!ENTITY eula.title "Лицензно споразумение за крайни потребители">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Приемане и инсталиране…">
