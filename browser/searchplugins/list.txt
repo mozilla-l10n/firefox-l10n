@@ -1,7 +1,6 @@
 amazon-en-GB
-answers
+bing
 chambers-en-GB
-creativecommons
 eBay-en-GB
 google
 wikipedia
