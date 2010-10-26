@@ -31,10 +31,10 @@
 <!ENTITY cmd.findCurrent.label          "Encontrar na colecção actual...">
 <!ENTITY cmd.findCurrent.accesskey      "c">
 
-<!ENTITY cmd.exportHTML.label      "Exportar HTML...">
-<!ENTITY cmd.exportHTML.accesskey  "E">
-<!ENTITY cmd.importHTML.label      "Importar HTML...">
-<!ENTITY cmd.importHTML.accesskey  "t">
+<!ENTITY cmd.exportHTML.label           "Exportar HTML...">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "Importar HTML...">
+<!ENTITY cmd.importHTML.accesskey       "t">
 
 <!ENTITY cmd.backup.label               "Cópia de segurança...">
 <!ENTITY cmd.backup.accesskey           "C">
@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Procurar:">
 <!ENTITY search.accesskey                          "P">
+
+<!ENTITY search.in.label                           "Procurar em:">
 <!ENTITY search.scopeFolder.label                  "Pasta escolhida">
 <!ENTITY search.scopeFolder.accesskey              "P">
 <!ENTITY search.scopeBookmarks.label               "Marcadores">
@@ -107,7 +109,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label   "Importar e Fazer cópia de segurança">
+<!ENTITY maintenance.label      "Importar e Fazer cópia de segurança">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importar e fazer cópia de segurança dos marcadores">
 
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "s">
 <!ENTITY detailsPane.noPreviewAvailable.label "Pré-visualizar">
 <!ENTITY detailsPane.selectAnItemText.description "Escolher um item para ver e editar as suas propriedades">
+
+<!ENTITY find.label               "Procurar:">
+<!ENTITY find.accesskey           "P">
+<!ENTITY view.label               "Ver">
+<!ENTITY view.accesskey           "v">
+<!ENTITY byDate.label             "Por data">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "Por sítio">
+<!ENTITY bySite.accesskey         "s">
+<!ENTITY byMostVisited.label      "Por mais visitado">
+<!ENTITY byMostVisited.accesskey  "v">
+<!ENTITY byLastVisited.label      "Por última visita">
+<!ENTITY byLastVisited.accesskey  "l">
+<!ENTITY byDayAndSite.label       "Por data e sítio">
+<!ENTITY byDayAndSite.accesskey   "t"
