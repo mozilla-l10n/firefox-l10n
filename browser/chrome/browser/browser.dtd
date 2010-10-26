@@ -236,7 +236,7 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "ചിത്രം പകര്‍ത്തുക">
 <!ENTITY copyImageContentsCmd.accesskey "y">
-<!ENTITY blockImageCmd.accesskey "g">
+<!-- ENTITY blockImageCmd.accesskey "g" -->
 <!-- ENTITY metadataCmd.label "ഗുണവിശേഷതകള്‍" -->
 <!-- ENTITY metadataCmd.accesskey "P" -->
 <!ENTITY copyEmailCmd.label "ഇ-മെയില്‍ വിലാസം പകര്‍ത്തുക">
@@ -423,3 +423,49 @@
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "വീഡിയോ കാണുക">
 <!ENTITY viewVideoCmd.accesskey       "I">
+
+<!ENTITY addonBarCmd.label "ആഡ്-ഓണ്‍ ബാര്‍">
+<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addons.commandkey            "A">
+<!ENTITY appMenuButton.label          "മെനു">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; മെനു തുറക്കുക">
+<!ENTITY appMenuEdit.label "ചിട്ടപ്പെടുത്തുക">
+<!ENTITY appMenuCustomize.label "യഥേഷ്ടം സജ്ജമാക്കുക">
+<!ENTITY appMenuFind.label "കണ്ടുപിടിയ്ക്കുക…">
+<!ENTITY appMenuGettingStarted.label "തുടക്കം">
+<!ENTITY appMenuSafeMode.label "ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കുക…">
+<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuToolbarLayout.label "ടൂള്‍ബാര്‍ ശൈലി…">
+<!ENTITY appMenuSidebars.label "സൈഡ്ബാറുകള്‍">
+<!ENTITY appMenuUnsorted.label "ക്രമത്തിലല്ലാത്ത അടയാളക്കുറിപ്പുകള്‍">
+<!ENTITY appMenuWebDeveloper.label "വെബ് ഡവലപ്പര്‍">
+<!ENTITY backForwardItem.title        "പുറകോട്ട്/മുമ്പോട്ട്">
+<!ENTITY  bookmarkAllTabs.label              "എല്ലാ റ്റാബുകളും അടാളപ്പെടുത്തുക…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY bookmarksMenuButton.label          "അടയാളക്കുറിപ്പുകള്‍">
+<!ENTITY bookmarksMenuButton.tooltip        "നിങ്ങളുടെ അടയാളക്കുറിപ്പുകള്‍ കാണിയ്ക്കുക">
+<!ENTITY bookmarksMenuButton.unsorted.label "ക്രമത്തിലാക്കത്ത അടയാളക്കുറിപ്പുകള്‍">
+
+<!ENTITY clearRecentHistory.label               "ഏറ്റവും പുതിയ നാള്‍വഴി വെടിപ്പാക്കുക…">
+<!ENTITY clearRecentHistory.accesskey           "H">
+<!ENTITY  closeOtherTabs.label               "മറ്റ് റ്റാബുകള്‍ അടയ്ക്കുക">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  closeTab.label                     "റ്റാബ് അടയ്ക്കുക">
+<!ENTITY  closeTab.accesskey                 "c">
+
+<!ENTITY feedButton.label             "അംഗമാകുക">
+<!ENTITY historyRestoreLastSession.label "മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectButton.label          "പരിശോധിയ്ക്കുക">
+<!ENTITY inspectMenu.label            "പരിശോധന">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY inspectNextButton.label      "അടുത്തതു്">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectObjectButton.label       "വസ്തു">
+<!ENTITY inspectObjectButton.accesskey   "O">
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectPreviousButton.label  "മുമ്പുള്ളതു്">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "ശൈലി">
+<!ENTITY inspectStyleButton.accesskey "S">
