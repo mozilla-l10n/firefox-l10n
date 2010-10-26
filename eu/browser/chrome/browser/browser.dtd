@@ -27,7 +27,7 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.label                    "Ainguratu aplikazio-fitxa gisa">
 <!ENTITY  pinAppTab.accesskey                "A">
 <!ENTITY  unpinAppTab.label                  "Desainguratu fitxa">
-<!ENTITY  unpinAppTab.accesskey              "D">
+<!ENTITY  unpinAppTab.accesskey              "a">
 <!ENTITY  moveToGroup.label                  "Eraman taldera">
 <!ENTITY  moveToGroup.accesskey              "E">
 <!ENTITY  moveToNewGroup.label               "Talde berria">
@@ -255,7 +255,7 @@ can reach it easily. -->
 <!ENTITY viewMenu.label         "Ikusi">
 <!ENTITY viewMenu.accesskey       "I">
 <!ENTITY viewTabGroups.label            "Fitxen taldeak">
-<!ENTITY viewTabGroups.accesskey        "t">
+<!ENTITY viewTabGroups.accesskey        "F">
 <!ENTITY viewToolbarsMenu.label       "Tresna-barrak">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Alboko barra">

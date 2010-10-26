@@ -18,7 +18,7 @@
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Berrabiarazi gehigarriak desgaituta…">
-<!ENTITY helpSafeMode.accesskey   "B">
+<!ENTITY helpSafeMode.accesskey   "r">
 
 <!ENTITY helpReleaseNotes.label         "Bertsio-oharrak">
 <!ENTITY helpReleaseNotes.accesskey     "r">
@@ -27,7 +27,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "A">
 
 <!ENTITY helpFeedbackPage.label      "Bidali iritzia…">
-<!ENTITY helpFeedbackPage.accesskey  "B">
+<!ENTITY helpFeedbackPage.accesskey  "d">
 
 <!ENTITY updateCmd.label                "Bilatu eguneraketak…">
 

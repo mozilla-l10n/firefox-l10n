@@ -5,10 +5,10 @@
 <!ENTITY syncKey.keepItSafe.heading       "Mantendu seguru">
 <!ENTITY syncKey.keepItSafe1.description  "Ez galdu gako hau.">
 <!ENTITY syncKey.keepItSafe2.description  " Ez dugu zure gakoaren kopiarik mantentzen (ez litzateke sekretuan mantentzea!) beraz galdu baduzu,">
-<!ENTITY syncKey.keepItSafe3.description  "ezin dizugu lagundu berreskuratzen">
-<!ENTITY syncKey.keepItSafe4.description  " . Ordenagailu edo gailu berri bat &syncBrand.fullName.label;(e)ra konektatzen duzun aldiro gako hau erabili beharko duzu.">
-<!ENTITY syncKey.findOutMore1.label       "Jakizu gehiago &syncBrand.fullName.label;(r)i eta zure pribatutasunari buruz">
-<!ENTITY syncKey.findOutMore2.label       "helbidean.">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; zerbitzuaren baldintzak">
-<!ENTITY syncKey.footer2.label            "helbidean eskura daitezke. Pribatutasun-politika">
-<!ENTITY syncKey.footer3.label            "helbidean eskura daiteke.">
+<!ENTITY syncKey.keepItSafe3.description  " ezin dizugu lagundu berreskuratzen.">
+<!ENTITY syncKey.keepItSafe4.description  " Ordenagailu edo gailu berri bat &syncBrand.fullName.label;(e)ra konektatzen duzun aldiro gako hau erabili beharko duzu.">
+<!ENTITY syncKey.findOutMore1.label       "Jakizu gehiago &syncBrand.fullName.label;(r)i eta zure pribatutasunari buruz ">
+<!ENTITY syncKey.findOutMore2.label       " helbidean.">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; zerbitzuaren baldintzak ">
+<!ENTITY syncKey.footer2.label            " helbidean eskura daitezke. Pribatutasun-politika ">
+<!ENTITY syncKey.footer3.label            " helbidean eskura daiteke.">
