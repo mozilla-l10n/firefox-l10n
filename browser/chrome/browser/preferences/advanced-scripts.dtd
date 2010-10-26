@@ -44,7 +44,7 @@
 <!ENTITY raiseLowerWindows.accesskey "R">
 <!ENTITY disableContextMenus.label "കണ്ടെക്സ്റ്റ്‌ മെനു നിര്‍വീര്യമാക്കുകയൊ മാറ്റുകയോ ചെയ്യുക ">
 <!ENTITY disableContextMenus.accesskey "D">
-<!ENTITY hideStatusBar.label "സ്ഥിതിവിവരപ്പട്ട ഒളിപ്പിക്കുക">
-<!ENTITY hideStatusBar.accesskey "H">
-<!ENTITY changeStatusBar.label "സ്ഥിതിവിവര പട്ടയിലെ ടെക്സ്റ്റ്‌ മാറ്റുക">
-<!ENTITY changeStatusBar.accesskey "C">
+<!-- ENTITY hideStatusBar.label "സ്ഥിതിവിവരപ്പട്ട ഒളിപ്പിക്കുക" -->
+<!-- ENTITY hideStatusBar.accesskey "H" -->
+<!-- ENTITY changeStatusBar.label "സ്ഥിതിവിവര പട്ടയിലെ ടെക്സ്റ്റ്‌ മാറ്റുക" -->
+<!-- ENTITY changeStatusBar.accesskey "C" -->

@@ -15,8 +15,8 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "സ്വകാര്യ ബ്രൗസിങ് ആരംങിക്കുക">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "സ്വകാര്യ ബ്രൗസിങ് നിര്‍ത്തുന്നതിനായി,  &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; എന്നതു് തെരഞ്ഞെടുക്കുക, അല്ലെങ്കില്‍ &brandShortName; അടയ്ക്കുക.">
-<!ENTITY privatebrowsingpage.howToStart                "Tസ്വകാര്യ ബ്രൗസിങ്  തുടങ്ങുന്നതിനായി,  &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; എന്നതു് തെരഞ്ഞെടുക്കുക.">
+<!-- ENTITY privatebrowsingpage.howToStop                 "സ്വകാര്യ ബ്രൗസിങ് നിര്‍ത്തുന്നതിനായി,  &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; എന്നതു് തെരഞ്ഞെടുക്കുക, അല്ലെങ്കില്‍ &brandShortName; അടയ്ക്കുക." -->
+<!-- ENTITY privatebrowsingpage.howToStart                "Tസ്വകാര്യ ബ്രൗസിങ്  തുടങ്ങുന്നതിനായി,  &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; എന്നതു് തെരഞ്ഞെടുക്കുക." -->
 
 <!ENTITY privatebrowsingpage.moreInfo                  "നിങ്ങള്‍ ബ്രൌസ് ചെയ്യുന്ന വെബ്സൈറ്റുകളുടെ വിവരങ്ങള്‍ ഈ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിക്കുന്നില്ല എങ്കിലും, നിങ്ങളുടെ സ്ഥാപത്തിനോ അല്ലെങ്കില്‍ ഇന്റര്‍നെറ്റ് പ്രൊവൈഡറിനോ ഈ വിവരങ്ങള്‍ ലഭ്യമാക്കാം.">
 <!ENTITY privatebrowsingpage.learnMore                 "കൂടുതല്‍ അറിയുക">

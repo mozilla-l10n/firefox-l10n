@@ -91,10 +91,10 @@
 <!ENTITY certmgr.deleteusercert.aftername "ഈ സര്‍ട്ടിഫിക്കറ്റ് നിങ്ങള്‍ നീക്കം ചെയ്തു്‌ കഴിഞ്ഞാല്‍ നിങ്ങള്‍ക്കു്‌ ഇതുപയോഗിച്ച് എന്‍ക്രിപ്ട് ചെയ്തിരിക്കുന്ന മെയിലുകള്‍ വായിക്കുവാന്‍ കഴിയുകയില്ല.">
 <!ENTITY certmgr.certname "സര്‍ട്ടിഫിക്കറ്റിന്റെ പേര്‌ ">
 <!ENTITY certmgr.certserver "സര്‍വര്‍ ">
-<!ENTITY certmgr.typesofoverrides "വിവേചനങ്ങള്‍">
+<!-- ENTITY certmgr.typesofoverrides "വിവേചനങ്ങള്‍" -->
 <!ENTITY certmgr.override_lifetime "ജീവിത കാലാവധി">
 <!ENTITY certmgr.tokenname "സുരക്ഷ ഉപകരണങ്ങള്‍ ">
-<!ENTITY certmgr.purpose "ഉദ്ദേശങ്ങള്‍ ">
+<!-- ENTITY certmgr.purpose "ഉദ്ദേശങ്ങള്‍ " -->
 <!ENTITY certmgr.issued "Issued On">
 <!ENTITY certmgr.expires "കാലാവധി കഴിയുന്നത്‌ ">
 <!ENTITY certmgr.email "ഇമെയില്‍ വിലാസം ">
@@ -103,8 +103,8 @@
 <!ENTITY certmgr.close.accesskey "C">
 <!ENTITY certmgr.view2.label "കാണുക ">
 <!ENTITY certmgr.view2.accesskey "V">
-<!ENTITY certmgr.edit2.label "ചിട്ടപ്പെടുത്തുക…">
-<!ENTITY certmgr.edit2.accesskey "E">
+<!-- ENTITY certmgr.edit2.label "ചിട്ടപ്പെടുത്തുക…" -->
+<!-- ENTITY certmgr.edit2.accesskey "E" -->
 <!ENTITY certmgr.editca.label "Edit CA Trust">
 <!ENTITY certmgr.editca.accesskey "d">
 <!ENTITY certmgr.add.label "ചേര്‍ക്കുക ">

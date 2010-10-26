@@ -34,9 +34,9 @@
 <!ENTITY  savedPasswords.accesskey        "P">
 
 
-<!ENTITY  warnings.label                "മുന്നറിയിപ്പു് സന്ദേശങ്ങള്‍">
+<!-- ENTITY  warnings.label                "മുന്നറിയിപ്പു് സന്ദേശങ്ങള്‍" -->
 
-<!ENTITY  chooseWarnings.label          "ബ്രൌസ് ചെയ്യുമ്പോള്‍ നിങ്ങള്‍ക്കു് ലഭ്യമാകേണ്ട മുന്നറിയിപ്പു് സന്ദേശങ്ങള്‍ തെരഞ്ഞെടുക്കുക">
+<!-- ENTITY  chooseWarnings.label          "ബ്രൌസ് ചെയ്യുമ്പോള്‍ നിങ്ങള്‍ക്കു് ലഭ്യമാകേണ്ട മുന്നറിയിപ്പു് സന്ദേശങ്ങള്‍ തെരഞ്ഞെടുക്കുക" -->
 
-<!ENTITY  warningSettings.label         "സജ്ജീകരണങ്ങള്‍…">
-<!ENTITY  warningSettings.accesskey     "S">
+<!-- ENTITY  warningSettings.label         "സജ്ജീകരണങ്ങള്‍…" -->
+<!-- ENTITY  warningSettings.accesskey     "S" -->

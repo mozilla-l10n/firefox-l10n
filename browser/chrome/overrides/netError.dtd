@@ -56,7 +56,7 @@
 </ul>
 ">
 
-<!ENTITY netOffline.longDesc "<ul> <li>ഫയല്‍ മെനുവില്‍ വര്‍ക്ക്‌ ഓഫ്ലൈന്‍ അണ്‍ചെക്ക്‌ ചെയ്ത ശേഷം വീണ്ടും ശ്രമിക്കുക</li></ul>">
+<!-- ENTITY netOffline.longDesc "<ul> <li>ഫയല്‍ മെനുവില്‍ വര്‍ക്ക്‌ ഓഫ്ലൈന്‍ അണ്‍ചെക്ക്‌ ചെയ്ത ശേഷം വീണ്ടും ശ്രമിക്കുക</li></ul>" -->
 <!ENTITY netReset.title "കണക്ഷന്‍ റീസെറ്റ്‌ ചെയ്യപ്പെട്ടിരിക്കുന്നു ">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 <!ENTITY netTimeout.title "കണക്ഷന്റെ സമയം കഴിഞ്ഞിരിക്കുന്നു">
@@ -131,9 +131,9 @@
 <!ENTITY securityOverride.exceptionButtonLabel "എക്സെപ്ഷന്‍ ചേര്‍ക്കുക…">
 
 
-<!ENTITY securityOverride.warningText "
+<!-- ENTITY securityOverride.warningText "
 <p>പൂര്‍ണ്ണമായി സുരക്ഷിതമല്ലാത്ത ഒരു ഇന്റര്‍നെറ്റ് കണക്ഷന്‍ ഉപയോഗിക്കുകയോ അല്ലെങ്കില്‍ ഈ സര്‍വറിനു് ഇതിനു് മുമ്പു് ഇത്തരം മുന്നറയിപ്പുകള്‍ ലഭ്യമായിട്ടില്ല എങ്കില്‍, നിങ്ങള്‍ ഇതിനൊരു എക്സെപ്ഷന്‍ ചേര്‍ക്കുവാന്‍ പാടില്ല.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
+" -->
