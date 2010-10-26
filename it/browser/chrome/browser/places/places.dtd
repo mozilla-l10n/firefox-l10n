@@ -79,7 +79,8 @@
 <!ENTITY col.dateadded.label "Data inserimento">
 <!ENTITY col.lastmodified.label "Ultima modifica">
 <!ENTITY search.label "Cerca:">
-<!ENTITY search.accesskey "R">
+<!ENTITY search.accesskey "r">
+<!ENTITY search.in.label "Cerca in:">
 <!ENTITY search.scopeFolder.label "Cartella selezionata">
 <!ENTITY search.scopeFolder.accesskey "a">
 <!ENTITY search.scopeBookmarks.label "Segnalibri">
@@ -104,3 +105,17 @@
 <!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.noPreviewAvailable.label "Anteprima">
 <!ENTITY detailsPane.selectAnItemText.description "Selezionare un elemento per visualizzarne e modificarne le proprietà">
+<!ENTITY find.label "Cerca:">
+<!ENTITY find.accesskey "r">
+<!ENTITY view.label "z">
+<!ENTITY view.accesskey "Visualizza">
+<!ENTITY byDate.label "Data">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Sito">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY byMostVisited.label "Più visitati">
+<!ENTITY byMostVisited.accesskey "P">
+<!ENTITY byLastVisited.label "Ultima visita">
+<!ENTITY byLastVisited.accesskey "U">
+<!ENTITY byDayAndSite.label "Data e sito">
+<!ENTITY byDayAndSite.accesskey "t">
