@@ -105,8 +105,8 @@
 <!ENTITY detailsPane.less.accesskey "ш">
 <!ENTITY detailsPane.noPreviewAvailable.label "Предпросмотр">
 <!ENTITY detailsPane.selectAnItemText.description "Выберите элемент для просмотра и редактирования его свойств">
-<!ENTITY find.label "Поиск:">
-<!ENTITY find.accesskey "к">
+<!ENTITY find.label "Найти:">
+<!ENTITY find.accesskey "й">
 <!ENTITY view.label "Вид">
 <!ENTITY view.accesskey "и">
 <!ENTITY byDate.label "По дате">
