@@ -59,7 +59,7 @@
 <!-- ENTITY cmd.options.tooltip              "নির্বাচিত অতিরিক্ত সামগ্রীর বিকল্প নির্ধারণ করুন" -->
 <!-- ENTITY cmd.optionsUnix.label            "পছন্দ" -->
 <!-- ENTITY cmd.optionsUnix.accesskey        "r" -->
-<!-- ENTITY cmd.optionsUnix.tooltip          "নির্বাচিত অতিরিক্ত সামগ্রী সংক্রান্ত পছন্দ  নির্ধারণ করুন" --->
+<!-- ENTITY cmd.optionsUnix.tooltip          "নির্বাচিত অতিরিক্ত সামগ্রী সংক্রান্ত পছন্দ  নির্ধারণ করুন" -->
 <!-- ENTITY cmd.enable.label                 "সক্রিয় করুন" -->
 <!-- ENTITY cmd.enable.accesskey             "E" -->
 <!-- ENTITY cmd.enable.tooltip               "&brandShortName; পুনরায় আরম্ভ করা হলে চিহ্নিত অতিরিক্ত সামগ্রী সক্রিয় করা হবে" -->
