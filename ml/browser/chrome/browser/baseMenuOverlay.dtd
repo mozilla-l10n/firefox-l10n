@@ -43,3 +43,15 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!-- ENTITY hideOtherAppsCmdMac.modifiers "അക്സെല്‍,alt" -->
 <!ENTITY showAllAppsCmdMac.label "എല്ലാം കാണിക്കുക">
+
+<!ENTITY aboutProduct.label       "&brandShortName; സംബന്ധിച്ചു്">
+<!ENTITY aboutProduct.accesskey   "A">
+
+<!ENTITY helpFeedbackPage.label      "അഭിപ്രായം രേഖപ്പെടുത്തുക…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
+<!ENTITY helpSafeMode.label       "ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ…">
+<!ENTITY helpSafeMode.accesskey   "R">
+
+<!ENTITY helpTroubleshootingInfo.label      "ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരങ്ങള്‍">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
