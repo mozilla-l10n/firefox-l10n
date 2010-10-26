@@ -1,6 +1,6 @@
 <!ENTITY startup.label "Начална страница">
 
-<!ENTITY startupPage.label "При стартиране на &brandShortName;:">
+<!ENTITY startupPage.label "Когато &brandShortName; стартира:">
 <!ENTITY startupPage.accesskey "с">
 <!ENTITY startupHomePage.label "Показване на началната страница">
 <!ENTITY startupBlankPage.label "Показване на празна страница">

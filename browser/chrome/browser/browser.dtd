@@ -28,9 +28,9 @@ can reach it easily. -->
 <!ENTITY pinAppTab.accesskey "P">
 <!ENTITY unpinAppTab.label "Unpin Tab">
 <!ENTITY unpinAppTab.accesskey "b">
-<!ENTITY moveToGroup.label "Move to Group">
-<!ENTITY moveToGroup.accesskey "M">
-<!ENTITY moveToNewGroup.label "New Group">
+<!ENTITY moveToGroup.label "Преместване в група">
+<!ENTITY moveToGroup.accesskey "П">
+<!ENTITY moveToNewGroup.label "Нова група">
 <!ENTITY moveToNewWindow.label "Преместване в нов прозорец">
 <!ENTITY moveToNewWindow.accesskey "н">
 <!ENTITY bookmarkAllTabs.label "Отмятане на всеки подпрозорец…">
@@ -282,7 +282,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Оформяне на лентата…">
 <!ENTITY appMenuSidebars.label "Странична лента">
 <!ENTITY appMenuFind.label "Търсене…">
-<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuUnsorted.label "Неподредени отметки">
 <!ENTITY appMenuWebDeveloper.label "Уеб разработчик">
 <!ENTITY appMenuGettingStarted.label "Начални насоки на Firefox">
 <!ENTITY appMenuSafeMode.label "Рестартиране с деактивирани добавки…">
