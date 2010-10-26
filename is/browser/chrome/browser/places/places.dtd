@@ -81,6 +81,7 @@
 <!ENTITY col.lastmodified.label "Síðast breytt">
 <!ENTITY search.label "Leita:">
 <!ENTITY search.accesskey "L">
+<!ENTITY search.in.label "Leita í:">
 <!ENTITY search.scopeFolder.label "Valin mappa">
 <!ENTITY search.scopeFolder.accesskey "V">
 <!ENTITY search.scopeBookmarks.label "Bókamerki">
@@ -105,3 +106,17 @@
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.noPreviewAvailable.label "Forskoða">
 <!ENTITY detailsPane.selectAnItemText.description "Veldu hlut til að skoða og breyta">
+<!ENTITY find.label "Leita:">
+<!ENTITY find.accesskey "L">
+<!ENTITY view.label "Skoða">
+<!ENTITY view.accesskey "S">
+<!ENTITY byDate.label "Eftir dagsetningu">
+<!ENTITY byDate.accesskey "d">
+<!ENTITY bySite.label "Eftir vefsvæði">
+<!ENTITY bySite.accesskey "v">
+<!ENTITY byMostVisited.label "Eftir flestum heimsóknum">
+<!ENTITY byMostVisited.accesskey "h">
+<!ENTITY byLastVisited.label "Eftir síðast skoðað">
+<!ENTITY byLastVisited.accesskey "a">
+<!ENTITY byDayAndSite.label "Eftir dagsetningu og vefsvæði">
+<!ENTITY byDayAndSite.accesskey "t">
