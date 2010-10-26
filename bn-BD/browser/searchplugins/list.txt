@@ -1,7 +1,4 @@
-answers
-cellbazaar
-clickbd
-creativecommons
+bing
 google
 wikipedia-bn
 yahoo
