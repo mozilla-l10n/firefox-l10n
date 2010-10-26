@@ -24,3 +24,20 @@
 
 <!ENTITY disabledPlugin.label                                "এই বিষয়বস্তুর সাথে ব্যবহারযোগ্য প্লাগ-ইন নিষ্ক্রিয় করা হয়েছে। প্লাগ-ইন পরিচালনার জন্য এইখানে ক্লিক করুন।">
 <!ENTITY blockedPlugin.label                                 "আপনার নিরাপত্তার জন্য এই প্লাগ-ইন প্রতিরোধ করা হয়েছে।">
+
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "পুনরায় প্রচেষ্টা করার জন্য">
+<!ENTITY reloadPlugin.post                                   "  পৃষ্ঠা পুনরায় লোড করুন।">
+
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "বিপর্যয়ের রিপোর্ট পাঠান">
+<!ENTITY report.submitting                                   "রিপোর্ট পাঠানো হচ্ছে…">
+<!ENTITY report.submitted                                    "বিপর্যের রিপোর্ট পাঠানো হয়েছে।">
+<!ENTITY report.disabled                                     "বিপর্যয়ের রিপোর্ট সংগ্রহের ব্যবস্থা নিষ্ক্রিয় করা হয়েছে।">
+<!ENTITY report.failed                                       "দায়ের করতে ব্যর্থ।">
+<!ENTITY report.unavailable                                  "কোনো রিপোর্ট উপলব্ধ নয়।">
+
+
