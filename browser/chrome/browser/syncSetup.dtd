@@ -33,7 +33,7 @@
 <!ENTITY setup.tosAgree1.accesskey  "O">
 <!ENTITY setup.tosLink.label        "zerbitzuaren baldintzak">
 <!ENTITY setup.tosAgree2.label      "eta">
-<!ENTITY setup.ppLink.label         "pribatutasun politika">
+<!ENTITY setup.ppLink.label         "pribatutasun-politika">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
@@ -41,7 +41,7 @@
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName;(r)i zure pribatutasunak axola dio">
 <!ENTITY setup.newSyncKeyPage.description.label "Erabateko pribatutasuna ziurtatzeko, igo aurretik zure datu guztiak zifratu egiten dira. Zure datuak deszifratzeko beharrezkoa den Sync gakoa ez da igotzen.">
 <!ENTITY syncKeyEntry.label        "Zure Sync gakoa">
-<!ENTITY syncKeyEntry.accesskey    "g">
+<!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncKeyGenerate.label     "Sortu">
 <!ENTITY syncKeyStrength.label     "Indarra:">
 <!ENTITY syncKeyHelp.label         "Ze esan nahi du indarrak?">
@@ -82,7 +82,7 @@
 <!ENTITY engine.passwords.label     "Pasahitzak">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Hobespenak">
-<!ENTITY engine.prefs.accesskey     "H">
+<!ENTITY engine.prefs.accesskey     "o">
 
 <!ENTITY choice2.merge.main.label      "Batu ordenagailu honetako datuak nire &syncBrand.shortName.label; datuekin">
 <!ENTITY choice2.merge.recommended.label "Gomendatua:">

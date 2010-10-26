@@ -185,4 +185,4 @@ gehigarri on eta ezagunenetako batzuk agertuko dira proba ditzazun.">
 <!ENTITY addon.loadingReleaseNotes.label      "Kargatzen…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Errorea gertatu da bertsio-oharrak kargatzean.">
 
-<!ENTITY addon.createdBy.label                "Egilea:">
+<!ENTITY addon.createdBy.label                "Egilea: ">
