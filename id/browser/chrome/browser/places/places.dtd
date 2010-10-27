@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Cari:">
 <!ENTITY search.accesskey                          "C">
+
+<!ENTITY search.in.label                           "Cari di:">
 <!ENTITY search.scopeFolder.label                  "Folder Terpilih">
 <!ENTITY search.scopeFolder.accesskey              "T">
 <!ENTITY search.scopeBookmarks.label               "Markah">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "Pratinjau">
 <!ENTITY detailsPane.selectAnItemText.description "Pilih item untuk ditampilkan dan diubah propertinya">
+
+<!ENTITY find.label               "Cari:">
+<!ENTITY find.accesskey           "C">
+<!ENTITY view.label               "Tampilkan">
+<!ENTITY view.accesskey           "l">
+<!ENTITY byDate.label             "Berdasarkan Tanggal">
+<!ENTITY byDate.accesskey         "T">
+<!ENTITY bySite.label             "Berdasarkan Situs">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "Berdasarkan Jumlah Kunjungan">
+<!ENTITY byMostVisited.accesskey  "J">
+<!ENTITY byLastVisited.label      "Berdasarkan Kunjungan Terakhir">
+<!ENTITY byLastVisited.accesskey  "K">
+<!ENTITY byDayAndSite.label       "Berdasarkan Tanggal dan Situs">
+<!ENTITY byDayAndSite.accesskey   "d">
