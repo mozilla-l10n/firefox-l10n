@@ -85,6 +85,8 @@
 <!ENTITY col.lastmodified.label "Darrera modificació">
 <!ENTITY search.label "Cerca:">
 <!ENTITY search.accesskey "r">
+
+<!ENTITY search.in.label                           "Cerca a:">
 <!ENTITY search.scopeFolder.label                  "Carpeta seleccionada">
 <!ENTITY search.scopeFolder.accesskey              "p">
 <!ENTITY search.scopeBookmarks.label               "Adreces d'interès">
