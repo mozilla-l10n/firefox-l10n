@@ -1,7 +1,7 @@
 <!ENTITY pluginWizard.title "പ്ലഗ്ഗിന്‍ കണ്ടെത്തല്‍ സര്‍വ്വീസ്‌">
 
 <!ENTITY pluginWizard.firstPage.title "&pluginWizard.title; - ലേക്ക്‌ സ്വാഗതം">
-<!ENTITY pluginWizard.checkingForPlugins.description.label "ലഭ്യമായ പ്ളഗ്ഗിനുകള്‍ക്കായി  brandShortName; ഇപ്പോള്‍ പരിശോധിക്കുന്നു (&b)...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "ലഭ്യമായ പ്ലഗ്ഗിനുകള്‍ക്കായി  &brandShortName; ഇപ്പോള്‍ പരിശോധിക്കുന്നു...">
 
 <!ENTITY pluginWizard.availablePluginsPage.title "ലഭ്യമായ പ്ലഗ്ഗിന്‍ ഡൌണ്‍ലോഡുകള്‍">
 
