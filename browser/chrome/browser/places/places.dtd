@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                      "Buscar:">
 <!ENTITY search.accesskey                  "S">
+
+<!ENTITY search.in.label                           "Buscar en:">
 <!ENTITY search.scopeFolder.label                  "Carpeta seleccionada">
 <!ENTITY search.scopeFolder.accesskey              "d">
 <!ENTITY search.scopeBookmarks.label               "Marcadores">
@@ -123,4 +125,19 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label         "Vista previa">
 <!ENTITY detailsPane.selectAnItemText.description     "Seleccione un ítem para mostrar y editar sus propiedades">
+
+<!ENTITY find.label "Buscar:">
+<!ENTITY find.accesskey "s">
+<!ENTITY view.label "Ver">
+<!ENTITY view.accesskey "r">
+<!ENTITY byDate.label "Por fecha">
+<!ENTITY byDate.accesskey "f">
+<!ENTITY bySite.label "Por sitio">
+<!ENTITY bySite.accesskey "s">
+<!ENTITY byMostVisited.label "Por más visitado">
+<!ENTITY byMostVisited.accesskey "v">
+<!ENTITY byLastVisited.label "Por último visitado">
+<!ENTITY byLastVisited.accesskey "l">
+<!ENTITY byDayAndSite.label "Por fecha y sitio">
+<!ENTITY byDayAndSite.accesskey "t">
 
