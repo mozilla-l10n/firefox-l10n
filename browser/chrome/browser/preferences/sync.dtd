@@ -1,43 +1,43 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; প্রস্তুত করুন">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label;-র সাহায্যে সর্বধরনের ডিভাইসের মধ্যে আপনার পূর্ববর্তী তথ্য, বুকমার্ক, পাসওয়ার্ড ও প্রদর্শিত ট্যাবগুলি ব্যবহার করা যাবে।">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentAccount.label         "Current Account:">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; অ্যাকাউন্ট">
+<!ENTITY currentAccount.label         "বর্তমান অ্যাকাউন্ট:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "আপডেট করুন">
+<!ENTITY resetPass.label              "পুনরায় নির্ধারণ করুন">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.label          "অ্যাকাউন্ট পরিচালনা">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!ENTITY viewQuota.label              "বরাদ্দ মান দেখুন">
+<!ENTITY changePassword.label         "পাসওয়ার্ড পরিবর্তন করুন">
+<!ENTITY mySyncKey.label              "আমার সিংক-কি">
+<!ENTITY resetSync.label              "সিংক পুনরায় নির্ধারণ করুন">
+<!ENTITY stopUsingAccount.label       "এই অ্যাকাউন্টের ব্যবহার বন্ধ করুন">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncPrefsCaption.label       "ব্রাউজার সুসংগতি">
+<!ENTITY syncComputerName.label       "কম্পিউটারের নাম:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "সুসংগত করা হবে">
+<!ENTITY engine.bookmarks.label     "বুকমার্ক">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.label          "ট্যাব">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "পূর্ববর্তী তথ্য">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.label     "পাসওয়ার্ড">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.label         "পছন্দ">
 <!ENTITY engine.prefs.accesskey     "S">
 
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "পরিসেবার নিয়মাবলী">
+<!ENTITY prefs.ppLink.label         "গোপনীয়তা সংক্রান্ত নীতি">
