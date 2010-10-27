@@ -93,8 +93,10 @@
 <!ENTITY col.dateadded.label   "Dodano">
 <!ENTITY col.lastmodified.label   "Ostatnia modyfikacja">
 
-<!ENTITY search.label   "Przeszukaj:">
-<!ENTITY search.accesskey   "s">
+<!ENTITY search.label   "Szukaj:">
+<!ENTITY search.accesskey   "S">
+
+<!ENTITY search.in.label                           "Przeszukaj:">
 <!ENTITY search.scopeFolder.label                  "Wybrany folder">
 <!ENTITY search.scopeFolder.accesskey              "W">
 <!ENTITY search.scopeBookmarks.label               "Zakładki">
@@ -124,3 +126,18 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label  "Podgląd">
 <!ENTITY detailsPane.selectAnItemText.description  "Zaznacz element, by wyświetlić i edytować jego właściwości">
+
+<!ENTITY find.label               "Znajdź:">
+<!ENTITY find.accesskey           "n">
+<!ENTITY view.label               "Widok">
+<!ENTITY view.accesskey           "k">
+<!ENTITY byDate.label             "Według daty" >
+<!ENTITY byDate.accesskey         "d" >
+<!ENTITY bySite.label             "Według witryny" >
+<!ENTITY bySite.accesskey         "w" >
+<!ENTITY byMostVisited.label      "Według liczby wizyt" >
+<!ENTITY byMostVisited.accesskey  "l" >
+<!ENTITY byLastVisited.label      "Według ostatniej wizyty" >
+<!ENTITY byLastVisited.accesskey  "o" >
+<!ENTITY byDayAndSite.label       "Według daty i witryny" >
+<!ENTITY byDayAndSite.accesskey   "t" >
