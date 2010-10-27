@@ -1,40 +1,40 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "সমস্যাসমাধান সংক্রান্ত তথ্য">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
+   সমস্যা সমাধানের প্রচেষ্টাকালে ব্যবহারযোগ্য কিছু গুরুত্বপূর্ণ প্রযুক্তিগত তথ্য এই পৃষ্ঠার 
+   মধ্যে উপলব্ধ করা হয়েছে। &brandShortName; সম্পর্কে সাধারণ কিছু প্রশ্নের উত্তর  
+   খোঁজার জন্য আমাদের <a id='supportLink'>সহায়তার ওয়েব-সাইট</a> দেখুন।
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionsTitle "এক্সটেনশন">
+<!ENTITY aboutSupport.extensionName "নাম">
+<!ENTITY aboutSupport.extensionEnabled "সক্রিয়">
+<!ENTITY aboutSupport.extensionVersion "সংস্করণ">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsTitle "অ্যাপ্লিকেশনের মৌলিক তথ্য">
+<!ENTITY aboutSupport.appBasicsName "নাম">
+<!ENTITY aboutSupport.appBasicsVersion "সংস্করণ">
+<!ENTITY aboutSupport.appBasicsProfileDir "প্রোফাইল ডিরেক্টরি">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "সক্রিয় প্লাগ-ইন">
+<!ENTITY aboutSupport.appBasicsBuildConfig "বিল্ডের কনফিগারেশন">
+<!ENTITY aboutSupport.appBasicsUserAgent "ইউজার এজেন্ট">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "ধারণকারী ফোল্ডার খুলুন">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "Finder-র মধ্যে প্রদর্শন করা হবে">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
+<!ENTITY aboutSupport.modifiedPrefsTitle "পরিবর্তিত পছন্দ">
+<!ENTITY aboutSupport.modifiedPrefsName "নাম">
+<!ENTITY aboutSupport.modifiedPrefsValue "মান">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "গ্রাফিক্স">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.installationHistoryTitle "ইনস্টলেশনের পূর্ববর্তী তথ্য">
+<!ENTITY aboutSupport.updateHistoryTitle "আপডেট সংক্রান্ত পূর্ববর্তী তথ্য">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "ক্লিপ-বোর্ডের মধ্যে সমস্ত তথ্য কপি করুন">
