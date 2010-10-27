@@ -6,3 +6,4 @@ baidu
 baiduzhidao
 paipai
 wikipedia-zh-CN
+bing
