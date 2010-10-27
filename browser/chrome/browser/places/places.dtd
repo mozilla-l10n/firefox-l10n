@@ -86,6 +86,7 @@
 <!ENTITY col.dateadded.label     "ಸೇರ್ಪಡಿಸಲಾದ">
 <!ENTITY col.lastmodified.label  "ಕೊನೆಯ  ಬಾರಿಗೆ ಮಾರ್ಪಡಿಸಲಾದ">
 
+<!ENTITY search.in.label                           "ಇಲ್ಲಿ ಹುಡುಕು:">
 <!ENTITY search.label                              "ಹುಡುಕು:">
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.scopeFolder.label                  "ಆರಿಸಲಾದ ಕಡತಕೋಶ">
@@ -127,3 +128,18 @@
 <!ENTITY search.scopeBookmarks.label               "ಬುಕ್‌ಮಾರ್ಕುಗಳು">
 <!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY views.tooltip                  "ನಿಮ್ಮ ನೋಟವನ್ನು ಬದಲಾಯಿಸಿಕೊಳ್ಳಿ">
+
+<!ENTITY find.label               "ಹುಡುಕು:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "ನೋಟ">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "ದಿನಾಂಕದ ಆಧಾರದಲ್ಲಿ">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "ತಾಣದ ಆಧಾರದಲ್ಲಿ">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "ಹೆಚ್ಚು ಬಾರಿ ಭೇಟಿಯ ಆಧಾರದಲ್ಲಿ">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "ಕೊನೆಯ ಬಾರಿ ಭೇಟಿಯ ಆಧಾರದಲ್ಲಿ">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "ದಿನಾಂಕ ಹಾಗು ತಾಣದ ಆಧಾರದಲ್ಲಿ">
+<!ENTITY byDayAndSite.accesskey   "t">
