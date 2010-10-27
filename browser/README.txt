@@ -1,4 +1,4 @@
-For information about installing, running and configuring Firefox 
-including a list of known issues and troubleshooting information, 
-refer to: http://getfirefox.com/releases/
+Pentru informații despre instalarea, rularea și configurarea Firefox,
+inclusiv o listă de probleme cunoscute și informații de depanare,
+a se vedea: http://getfirefox.com/releases/
 
