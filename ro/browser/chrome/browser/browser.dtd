@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Înainte">
 <!ENTITY forwardCmd.accesskey         "n">
 <!ENTITY forwardButton.tooltip        "Mergi cu o pagină înainte">
-<!ENTITY backForwardMenu.tooltip      "Pagini recente">
 <!ENTITY reloadCmd.label              "Reîncarcă">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Reîncarcă pagina curentă">
@@ -149,7 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Semne de carte">
 <!ENTITY bookmarksMenuButton.tooltip        "Afișează semnele dumneavoastră de carte">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
+<!ENTITY bookmarksMenuButton.unsorted.label "Semne de carte nesortate">
 <!ENTITY viewBookmarksSidebar.label         "Arată în bara laterală">
 <!ENTITY viewBookmarksToolbar.label         "Arată bara cu semne de carte">
 
@@ -514,10 +513,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Gata">
 <!ENTITY editBookmark.cancel.label                   "Renunță">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Anulează">
-<!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.edit.label                     "Editare…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "Acest sait nu furnizează informații despre identitatea sa.">
 <!ENTITY identity.connectedTo "Sunteți conectat la">

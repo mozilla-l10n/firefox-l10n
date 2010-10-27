@@ -49,7 +49,7 @@
 
 <!ENTITY button.syncKeyBackup.print.label     "Print…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
+<!ENTITY button.syncKeyBackup.save.label      "Salvează…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
@@ -90,7 +90,7 @@
 <!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
+<!ENTITY setup.optionsConfirmPage.title "Confirmare">
 <!ENTITY confirm.merge.label    "Ați ales să combinați datele de pe acest calculator cu datele de pe alte dispozitive care rulează &syncBrand.fullName.label;.">
 <!ENTITY confirm.client.label         "Toate datele &brandShortName; de pe acest calculator vor fi șterse, inclusiv următoarele:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; va copia apoi datele din &syncBrand.fullName.label; pe acest calculator.">
