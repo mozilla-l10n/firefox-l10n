@@ -376,7 +376,7 @@
 <!ENTITY pageStyleMenu.accesskey "a">
 <!ENTITY pageStyleNoStyle.label "Nessuno stile">
 <!ENTITY pageStyleNoStyle.accesskey "N">
-<!ENTITY pageStylePersistentOnly.label "Stile di pagina base">
+<!ENTITY pageStylePersistentOnly.label "Stile pagina di base">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 <!ENTITY pageReportIcon.tooltip "Cambia le impostazioni del blocco finestre pop-up per questo sito">
 <!ENTITY allowPopups.accesskey "P">

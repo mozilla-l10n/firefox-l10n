@@ -15,13 +15,13 @@
 <!ENTITY views.tooltip "Modifica il tipo di visualizzazione">
 <!ENTITY view.columns.label "Mostra colonne">
 <!ENTITY view.columns.accesskey "M">
-<!ENTITY view.sort.label "Ordina">
-<!ENTITY view.sort.accesskey "o">
-<!ENTITY view.unsorted.label "Non ordinate">
+<!ENTITY view.sort.label "Ordina per">
+<!ENTITY view.sort.accesskey "O">
+<!ENTITY view.unsorted.label "Nessun ordinamento">
 <!ENTITY view.unsorted.accesskey "d">
-<!ENTITY view.sortAscending.label "Ordina A > Z">
+<!ENTITY view.sortAscending.label "A > Z">
 <!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Ordina Z > A">
+<!ENTITY view.sortDescending.label "Z > A">
 <!ENTITY view.sortDescending.accesskey "Z">
 <!ENTITY cmd.findInBookmarks.label "Trova nei segnalibri:">
 <!ENTITY cmd.findInBookmarks.accesskey "T">
