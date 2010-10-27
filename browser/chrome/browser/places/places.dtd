@@ -140,6 +140,8 @@
 <!-- ENTITY search.collection.accesskey               "C" -->
 <!-- ENTITY search.allBookmarks.label                 "সকল বুকমার্ক" -->
 <!-- ENTITY search.allBookmarks.accesskey             "A" -->
+
+<!ENTITY search.in.label                           "অনুসন্ধানের স্থান:">
 <!ENTITY search.scopeFolder.label                  "নির্বাচিত ফোল্ডার">
 <!ENTITY search.scopeFolder.accesskey              "F">
 <!ENTITY search.scopeBookmarks.label               "বুকমার্ক">
@@ -218,7 +220,7 @@
 
 <!ENTITY detailsPane.more.label "অধিক">
 <!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "Less">
+<!ENTITY detailsPane.less.label "আড়াল">
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "পূর্ববরূপ প্রদর্শন">
 <!ENTITY detailsPane.selectAnItemText.description "কোনো বস্তু প্রদর্শন করার জন্য ও সেটির বৈশিষ্ট্য পরিবর্তের উদ্দেশ্যে নির্বাচন করুন">
@@ -227,3 +229,18 @@
 <!ENTITY cmd.delete.label               "বর্তমান পৃষ্ঠা মুছে ফেলুন">
 <!ENTITY cmd.deleteDomainData.label     "এই সাইট সম্বন্ধে তথ্য সংরক্ষণ করা হবে না">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
+
+<!ENTITY find.label               "অনুসন্ধান:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "প্রদর্শন">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "তারিখ অনুযায়ী">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "সাইট অনুযায়ী">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "সর্বাধিক পরিদর্শন অনুযায়ী">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "সর্বশেষ পরিদর্শন অনুযায়ী">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "তারিখ ও সাইট অনুযায়ী">
+<!ENTITY byDayAndSite.accesskey   "t">
