@@ -123,3 +123,19 @@
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "Aizmirst par šo lapu">
 <!ENTITY cmd.deleteDomainData.accesskey "A">
+
+<!ENTITY byDate.label "Pēc datuma">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Pēc vietnes">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY byDayAndSite.label "Pēc datuma un vietnes">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY byMostVisited.label "Pēc visbiežākā apmeklējuma">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "Pēc pēdējā apmeklējuma">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY find.label "Meklēt:">
+<!ENTITY find.accesskey "M">
+<!ENTITY view.label "Skats">
+<!ENTITY view.accesskey "t">
+<!ENTITY search.in.label                           "Meklēt iekš:">
