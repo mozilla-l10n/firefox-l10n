@@ -59,6 +59,21 @@
 <!ENTITY cmd.properties.label      "ଗୁଣଧର୍ମ">
 <!ENTITY cmd.properties.accesskey  "i">
 
+<!ENTITY search.in.label                           "ଏଥିରେ ସନ୍ଧାନ କରନ୍ତୁ:">
+<!ENTITY find.label               "ସନ୍ଧାନ କରନ୍ତୁ:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "ଦୃଶ୍ୟ">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "ତାରିଖ ଦ୍ୱାରା">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "ସାଇଟ ଦ୍ୱାରା">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "ଅଧିକାଂଶ ସମୟରେ ପରିଦର୍ଶିତ ଅନୁସାରେ">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "ଶେଷଥର ପରିଦର୍ଶିତ ଅନୁସାରେ">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "ତାରିଖ ଏବଂ ସାଇଟ ଦ୍ୱାରା">
+<!ENTITY byDayAndSite.accesskey   "t">
 
 
 <!ENTITY cmd.sortby_name.label              "ନାମ କ୍ରମାନୁସାରେ ସଜାଡନ୍ତୁ">
