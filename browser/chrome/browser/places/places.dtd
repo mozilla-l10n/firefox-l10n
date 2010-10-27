@@ -123,3 +123,18 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "ਝਲਕ">
 <!ENTITY detailsPane.selectAnItemText.description "ਕਿਸੇ ਆਈਟਮ ਨੂੰ ਵੇਖਣ ਤੇ ਉਸਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸੋਣ ਲਈ ਚੁਣੋ">
+
+<!ENTITY find.label               "ਖੋਜ:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "ਵੇਖੋ">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "ਮਿਤੀ">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "ਸਾਈਟ">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "ਸਭ ਤੋਂ ਵੱਧ ਵਾਰ ਖੋਲ੍ਹੀਆਂ">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "ਤਾਜ਼ਾ ਖੋਲ੍ਹੀਆਂ">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "ਮਿਤੀ ਤੇ ਸਮੇਂ">
+<!ENTITY byDayAndSite.accesskey   "t">
