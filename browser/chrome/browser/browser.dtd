@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Előre">
 <!ENTITY forwardCmd.accesskey         "E">
 <!ENTITY forwardButton.tooltip        "Ugrás a következő oldalra">
-<!ENTITY backForwardMenu.tooltip      "Legutóbbi oldalak">
 <!ENTITY reloadCmd.label              "Frissítés">
 <!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY reloadButton.tooltip         "Aktuális oldal újratöltése">
@@ -149,6 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Könyvjelzők">
 <!ENTITY bookmarksMenuButton.tooltip        "Könyvjelzők megjelenítése">
+<!ENTITY bookmarksMenuButton.unsorted.label "Nem rendezett könyvjelzők">
 <!ENTITY viewBookmarksSidebar.label         "Megjelenítés az oldalsávon">
 <!ENTITY viewBookmarksToolbar.label         "Könyvjelző eszköztár megjelenítése">
 
@@ -513,10 +513,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Kész">
 <!ENTITY editBookmark.cancel.label                   "Mégse">
 <!ENTITY editBookmark.removeBookmark.accessKey       "e">
-<!ENTITY editBookmark.undo.label                     "Visszavonás">
-<!ENTITY editBookmark.undo.accessKey                 "V">
-<!ENTITY editBookmark.edit.label                     "Szerkesztés...">
-<!ENTITY editBookmark.edit.accessKey                 "Z">
 
 <!ENTITY identity.unverifiedsite2 "Ez a webhely nem szolgáltat magáról azonosító információkat.">
 <!ENTITY identity.connectedTo "A következőhöz csatlakozott:">

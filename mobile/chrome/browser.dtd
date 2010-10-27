@@ -56,6 +56,7 @@
 <!ENTITY downloadResume.label      "Folytatás">
 <!ENTITY downloadRetry.label       "Újra">
 <!ENTITY downloadRemove.label      "Eltávolítás">
+<!ENTITY downloadDelete.label      "Törlés">
 <!ENTITY downloadFailed.label      "Sikertelen">
 
 <!ENTITY noResults.label           "Nincs eredmény">
@@ -93,6 +94,9 @@
 <!ENTITY contextShareImage.label      "Kép megosztása">
 <!ENTITY contextSaveVideo.label       "Videó mentése">
 <!ENTITY contextShareVideo.label      "Videó megosztása">
+<!ENTITY contextPlayMedia.label       "Lejátszás">
+<!ENTITY contextPauseMedia.label      "Szünet">
+<!ENTITY contextFullScreen.label      "Teljes képernyős üzemmód">
 <!ENTITY contextEditBookmark.label    "Szerkesztés">
 <!ENTITY contextRemoveBookmark.label  "Eltávolítás">
 
