@@ -5,10 +5,15 @@
 <!ENTITY aboutPage.rights.label                 "Az Ön jogai">
 <!ENTITY aboutPage.relNotes.label               "Verzióinformáció">
 <!ENTITY aboutPage.credits.label                "Közreműködők">
+<!ENTITY aboutPage.checkForUpdates.button       "Frissítések keresése">
+<!ENTITY aboutPage.checkForUpdates.checking     "Frissítések keresése...">
+<!ENTITY aboutPage.checkForUpdates.none         "Nem találhatók frissítések">
+<!ENTITY aboutPage.checkForUpdates.found        "Frissítés érhető el">
+
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 A közreműködők. Minden jog fenntartva. (">
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 A közreműködők. Minden jog fenntartva.(">
 <!ENTITY aboutPage.licenseLink                  "Licencinformációk">
 <!ENTITY aboutPage.copyrightInfo2               ").">

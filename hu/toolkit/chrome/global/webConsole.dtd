@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Válasz fejléce">
 <!ENTITY networkPanel.responseBody                "Válasz törzse">
 <!ENTITY networkPanel.responseBodyCached          "Gyorsítótárazott adatok">
+<!ENTITY networkPanel.responseBodyUnknownType     "Ismeretlen tartalomtípus">
 <!ENTITY networkPanel.responseNoBody              "Nincs választörzs">
 <!ENTITY networkPanel.responseImage               "Kapott kép">
 <!ENTITY networkPanel.responseImageCached         "Gyorsítótárazott kép">
