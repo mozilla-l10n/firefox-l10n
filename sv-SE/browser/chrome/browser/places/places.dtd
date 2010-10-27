@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Sök:">
 <!ENTITY search.accesskey                          "S">
+
+<!ENTITY search.in.label                           "Sök i:">
 <!ENTITY search.scopeFolder.label                  "Markerad mapp">
 <!ENTITY search.scopeFolder.accesskey              "M">
 <!ENTITY search.scopeBookmarks.label               "Bokmärken">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey                "M">
 <!ENTITY detailsPane.noPreviewAvailable.label      "Förhandsgranskning">
 <!ENTITY detailsPane.selectAnItemText.description  "Markera en post för att visa och redigera dess egenskaper">
+
+<!ENTITY find.label               "Sök:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "Visa">
+<!ENTITY view.accesskey           "V">
+<!ENTITY byDate.label             "Efter datum">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "Efter plats">
+<!ENTITY bySite.accesskey         "s">
+<!ENTITY byMostVisited.label      "Efter mest besökta">
+<!ENTITY byMostVisited.accesskey  "m">
+<!ENTITY byLastVisited.label      "Efter senast besökta">
+<!ENTITY byLastVisited.accesskey  "b">
+<!ENTITY byDayAndSite.label       "Efter datum och plats">
+<!ENTITY byDayAndSite.accesskey   "t">
