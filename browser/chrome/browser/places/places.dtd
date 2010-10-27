@@ -114,3 +114,18 @@
 <!ENTITY detailsPane.less.accesskey "y">
 <!ENTITY detailsPane.noPreviewAvailable.label         "Previsualització">
 <!ENTITY detailsPane.selectAnItemText.description         "Seleccioneu un element per a visualitzar-ne i editar-ne les propietats">
+
+<!ENTITY find.label               "Cerca:">
+<!ENTITY find.accesskey           "r">
+<!ENTITY view.label               "Visualitza">
+<!ENTITY view.accesskey           "V">
+<!ENTITY byDate.label             "Per data">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "Per lloc">
+<!ENTITY bySite.accesskey         "l">
+<!ENTITY byMostVisited.label      "Per més visitat">
+<!ENTITY byMostVisited.accesskey  "i">
+<!ENTITY byLastVisited.label      "Per darrera visita">
+<!ENTITY byLastVisited.accesskey  "a">
+<!ENTITY byDayAndSite.label       "Per data i lloc">
+<!ENTITY byDayAndSite.accesskey   "t">
