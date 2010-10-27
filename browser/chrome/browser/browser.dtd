@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "前进">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "转到下一页">
-<!ENTITY backForwardMenu.tooltip      "最近访问的页面">
 <!ENTITY reloadCmd.label              "重新载入">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "重新载入当前页面">

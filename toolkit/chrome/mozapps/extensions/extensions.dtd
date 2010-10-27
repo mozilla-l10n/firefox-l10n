@@ -183,3 +183,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "抱歉，载入该发行说明时发生了一个错误。">
 
 <!ENTITY addon.createdBy.label                "由 ">
+
+<!ENTITY eula.title                           "用户协议">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "接受并安装…">
