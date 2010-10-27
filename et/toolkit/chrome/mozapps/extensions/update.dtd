@@ -43,6 +43,6 @@
 <!ENTITY installerrors.intro.label       "&brandShortName;il oli probleeme mõne lisa uuendamisel.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY clickFinish.label               "Klõpsa Lõpeta, et jätkata &brandShortName;i käivitamist.">
-<!ENTITY clickFinish.labelMac            "Klõpsa Lõpeta, et jätkata &brandShortName;i käivitamist.">
+<!ENTITY clickFinish.label               "&brandShortName;i käivitamise jätkamiseks klõpsa Lõpeta.">
+<!ENTITY clickFinish.labelMac            "&brandShortName;i käivitamise jätkamiseks klõpsa Lõpeta.">
 <!ENTITY enableChecking.label            "Luba &brandShortName;il kontrollida uuendusi.">

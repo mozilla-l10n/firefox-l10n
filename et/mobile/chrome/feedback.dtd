@@ -1,4 +1,4 @@
-<!ENTITY feedbackHeader.label           "Beta testija tööriistad">
+<!ENTITY feedbackHeader.label           "Beetatestija tööriistad">
 
 <!ENTITY feedback.communicate.title     "Suhtle meiega!">
 <!ENTITY feedback.feedback.title        "Anna tagasisidet">
@@ -6,9 +6,9 @@
 <!ENTITY feedback.feedback.bad          "Halb">
 
 <!ENTITY feedback.information.title     "Rohkem teavet">
-<!ENTITY feedback.about.title           "Sellest betast">
+<!ENTITY feedback.about.title           "Sellest beetast">
 <!ENTITY feedback.about.button          "Mine lehele">
 
 <!ENTITY feedback.tools.title           "Tööriistad">
-<!ENTITY feedback.forceCompat.title     "Lisade ühilduma sundimine">
+<!ENTITY feedback.forceCompat.title     "Ühilduvuse eiramine">
 <!ENTITY feedback.errorConsole.title    "Vigade konsooli lubamine">
