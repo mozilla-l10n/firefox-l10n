@@ -1,6 +1,6 @@
 <!ENTITY aboutDialog.title          "Despre &brandFullName;">
 
-<!ENTITY community.start2           "&brandShortName; is designed by ">
+<!ENTITY community.start2           "&brandShortName; este proiectat de ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
@@ -8,9 +8,9 @@
 <!ENTITY community.creditsLink      "global community">
 <!ENTITY community.end2             " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
 
-<!ENTITY contribute.start           "Sound interesting? ">
+<!ENTITY contribute.start           "Sună interesant? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY contribute.getInvolvedLink "Implicați-vă!">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
@@ -20,14 +20,14 @@
 <!ENTITY bottomLinks.rights         "End User Rights">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Privacy Policy">
+<!ENTITY bottomLinks.privacy        "Politică de confidențialitate">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Checking for updates…">
+<!ENTITY update.checkingForUpdates  "Se caută actualizări…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; is up to date">
+<!ENTITY update.noUpdatesFound      "&brandShortName; este actualizat">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Updates disabled by your system administrator">
 
@@ -36,15 +36,15 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Update failed. ">
-<!ENTITY update.failed.linkText     "Download the latest version">
+<!ENTITY update.failed.start        "Actualizare eşuată. ">
+<!ENTITY update.failed.linkText     "Descărcați cea mai recentă versiune">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Updates available at ">
+<!ENTITY update.manual.start        "Actualizări disponibile la ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
