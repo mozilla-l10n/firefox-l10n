@@ -85,3 +85,9 @@
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>ବ୍ରାଉଜର ଏହି ପୃଷ୍ଠାକୁ ଏହି ଉପାୟରେ ଧାରଣ କରିବାରୁ ବାରଣ ହୋଇଛି କାରଣ ସେହି ପୃଷ୍ଠାରେ ଏମିତି କିଛି ବିଷୟବସ୍ତୁ ଅଛି ଯାହାକି ଧାରଣ କରିବା ପାଇଁ ଅନୁମତି ଦେଇନଥାଏ।</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା ନିତୀ ଦ୍ୱାରା ଅଟକ ରଖାଯାଇଛି">
+<!ENTITY netOffline.overrideLongDesc "<p>ବ୍ରାଉଜର ଅଫଲାଇନ ଧାରାରେ ଚାଲିଛି ଏବଂ ଅନୁରୋଧ ଅନୁସାରେ ସଂଯୋଗ କରିପାରିବ ନାହିଁ।</p><ul><li>କମ୍ପୁଟରଟି କୌଣସି ସକ୍ରିୟ ନେଟୱର୍କ ସହିତ ସଂଯୁକ୍ତ ଅଛି କି?</li><li>ବ୍ରାଉଜରକୁ ଅନଲାଇନ ଧାରାରେ ରଖନ୍ତୁ ଏବଂ ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।</li></ul>">
+
+

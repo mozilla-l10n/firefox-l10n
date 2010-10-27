@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "ପ୍ରମାଣପତ୍ର ନାମ">
 <!ENTITY certmgr.certserver                   "ସର୍ଭର">
-<!ENTITY certmgr.typesofoverrides             "ବ୍ୟତିକ୍ରମଗୁଡ଼ିକ">
 <!ENTITY certmgr.override_lifetime            "ଆଜୀବନ">
 <!ENTITY certmgr.tokenname                    "ସୁରକ୍ଷା ଯନ୍ତ୍ର">
-<!ENTITY certmgr.purpose                      "ଉଦ୍ଦେଶ୍ୟ">
 <!ENTITY certmgr.issued                       "ରେ ଦିଆଯାଇଛି">
 <!ENTITY certmgr.expires                      "ରେ ଅବଧି ସମାପ୍ତି ହେବ">
 <!ENTITY certmgr.email                        "ଇ-ମେଲ ଠିକଣା">
@@ -107,8 +105,6 @@
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "ଦେଖନ୍ତୁ…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "ସମ୍ପାଦନ କରନ୍ତୁ…">
-<!ENTITY certmgr.edit2.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "CA ବିଶ୍ୱାସକୁ ସମ୍ପାଦନ କରନ୍ତୁ ">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "ଯୋଗ କରନ୍ତୁ">
@@ -145,3 +141,9 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "ଏହି ବ୍ୟତିକ୍ରମକୁ ସ୍ଥାୟୀରୂପେ ସଂରକ୍ଷଣ କରନ୍ତୁ">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
+
+<!ENTITY certmgr.delete_builtin.label         "ଅପସାରଣ କରନ୍ତୁ କିମ୍ବା  ଅବିଶ୍ୱାସ କରନ୍ତୁ…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.edit3.label                  "ବିଶ୍ୱାସକୁ ସମ୍ପାଦନ କରନ୍ତୁ…">
+<!ENTITY certmgr.edit3.accesskey              "E">
+
