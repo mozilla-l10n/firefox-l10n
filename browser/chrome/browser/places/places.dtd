@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                             "Otsing:">
 <!ENTITY search.accesskey                         "O">
+
+<!ENTITY search.in.label                          "Asukoht:">
 <!ENTITY search.scopeFolder.label                 "Valitud kaust">
 <!ENTITY search.scopeFolder.accesskey             "V">
 <!ENTITY search.scopeBookmarks.label              "Järjehoidjad">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey               "e">
 <!ENTITY detailsPane.noPreviewAvailable.label     "Eelvaade">
 <!ENTITY detailsPane.selectAnItemText.description "Vali element, et vaadata ja muuta selle omadusi">
+
+<!ENTITY find.label                               "Otsi:">
+<!ENTITY find.accesskey                           "O">
+<!ENTITY view.label                               "Näita">
+<!ENTITY view.accesskey                           "N">
+<!ENTITY byDate.label                             "Kuupäeva järgi">
+<!ENTITY byDate.accesskey                         "K">
+<!ENTITY bySite.label                             "Suuruse järgi">
+<!ENTITY bySite.accesskey                         "S">
+<!ENTITY byMostVisited.label                      "Külastuste arvu järgi">
+<!ENTITY byMostVisited.accesskey                  "u">
+<!ENTITY byLastVisited.label                      "Viimase külastuse järgi">
+<!ENTITY byLastVisited.accesskey                  "V">
+<!ENTITY byDayAndSite.label                       "Kuupäeva ja veebilehe järgi">
+<!ENTITY byDayAndSite.accesskey                   "e">
