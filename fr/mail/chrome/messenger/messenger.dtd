@@ -13,7 +13,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "v">
 <!ENTITY newOtherAccountsCmd.label "Autres comptes…">
 <!ENTITY newOtherAccountsCmd.accesskey "m">
-<!ENTITY newEmailAccountCmd.label "Comptes courrier…">
+<!ENTITY newEmailAccountCmd.label "Compte courrier…">
 <!ENTITY newEmailAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
