@@ -103,6 +103,8 @@
 <!ENTITY certmgr.expires "காலாவதியாகும் நாள்">
 <!ENTITY certmgr.email "மின்னஞ்சல் முகவரி">
 <!ENTITY certmgr.serial "வரிசை எண்">
+<!ENTITY certmgr.delete_builtin.label         "அழி அல்லது நம்பாதே…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 
 <!ENTITY certmgr.close.label "மூடு">
 <!ENTITY certmgr.close.accesskey "C">
