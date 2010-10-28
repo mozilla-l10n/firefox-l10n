@@ -94,6 +94,8 @@
 
 <!ENTITY search.label "Rechercher :">
 <!ENTITY search.accesskey "R">
+
+<!ENTITY search.in.label                           "Rechercher dans :">
 <!ENTITY search.scopeFolder.label "Dossier sélectionné">
 <!ENTITY search.scopeFolder.accesskey "D">
 <!ENTITY search.scopeBookmarks.label "Marque-pages">
@@ -123,3 +125,18 @@
 
 <!ENTITY detailsPane.noPreviewAvailable.label "Aperçu">
 <!ENTITY detailsPane.selectAnItemText.description "Sélectionner un élément pour afficher et modifier ses propriétés">
+
+<!ENTITY find.label               "Chercher :">
+<!ENTITY find.accesskey           "r">
+<!ENTITY view.label               "Trier">
+<!ENTITY view.accesskey           "T">
+<!ENTITY byDate.label             "par date">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "par site">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "par nombre de visites">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "par date de dernière visite">
+<!ENTITY byLastVisited.accesskey  "r">
+<!ENTITY byDayAndSite.label       "par date et par site">
+<!ENTITY byDayAndSite.accesskey   "t">
