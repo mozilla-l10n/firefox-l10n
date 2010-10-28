@@ -2,7 +2,7 @@
 <!ENTITY printWindow.title "ਪਰਿੰਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"> 
 <!ENTITY title    "ਟਾਇਟਲ:"> 
 <!ENTITY progress "ਤਰੱਕੀ:">
-<!ENTITY preparing "ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...">
+<!ENTITY preparing "…ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY printComplete "ਪਰਿੰਟ ਪੂਰਾ ਹੋ ਗਿਆ।">
 
 <!ENTITY dialogCancel.label "ਰੱਦ ਕਰੋ"> 

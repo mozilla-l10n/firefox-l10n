@@ -8,7 +8,7 @@
 
 <!ENTITY fileCheck.label "ਫਾਇਲ ਵਿੱਚ ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY fileCheck.accesskey "F">
-<!ENTITY propertiesButton.label "ਵਿਸ਼ੇਸ਼ਤਾ…">
+<!ENTITY propertiesButton.label "…ਵਿਸ਼ੇਸ਼ਤਾ">
 <!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "ਪਰਿੰਟਰ ਵੇਰਵਾ:">
 <!ENTITY printer.label "ਪਰਿੰਟਰ">
