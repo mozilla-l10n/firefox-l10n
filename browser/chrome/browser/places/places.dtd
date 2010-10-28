@@ -123,3 +123,18 @@
 
 <!ENTITY organize.tooltip      "உங்கள் புத்தகக்குறிகளை ஒழுங்குப்படுத்து">
 <!ENTITY views.tooltip                  "உங்கள் பார்வையை மாற்றவும்">
+
+<!ENTITY find.label               "தேடு:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "பார்வை">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "தேதியின் படி">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "தளத்தின் படி">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "அதிகம் பார்க்கப்பட்டது படி">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "கடைசியாக பார்த்தது படி">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "தேதி மற்றும் தளத்தின் படி">
+<!ENTITY byDayAndSite.accesskey   "t">
