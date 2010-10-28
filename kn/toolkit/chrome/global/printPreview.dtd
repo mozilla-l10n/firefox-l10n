@@ -68,5 +68,6 @@
 
 <!ENTITY homearrow.tooltip    "ಮೊದಲ ಪುಟ">
 <!ENTITY endarrow.tooltip     "ಕೊನೆಯ ಪುಟ">
-<!ENTITY rightarrow.tooltip   "ಮುಂದಿನ ಪುಟ">
-<!ENTITY leftarrow.tooltip    "ಹಿಂದಿನ ಪುಟ">
+<!ENTITY nextarrow.tooltip    "ಮುಂದಿನ ಪುಟ">
+<!ENTITY previousarrow.tooltip "ಹಿಂದಿನ ಪುಟ">
+

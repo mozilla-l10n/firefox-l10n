@@ -26,3 +26,17 @@
 <!ENTITY bottomInput.label "ಕೆಳಗೆ:">
 <!ENTITY leftInput.label "ಎಡ:">
 <!ENTITY rightInput.label "ಬಲ:">
+
+<!ENTITY bottomInput.accesskey "B">
+<!ENTITY cmdInput.accesskey "o">
+<!ENTITY colorRadio.accesskey "C">
+<!ENTITY colorspaceInput.accesskey "s">
+<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY grayRadio.accesskey "G">
+<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY leftInput.accesskey "L">
+<!ENTITY paperInput.accesskey "P">
+<!ENTITY plexInput.accesskey "m">
+<!ENTITY resolutionInput.accesskey "e">
+<!ENTITY rightInput.accesskey "R">
+<!ENTITY topInput.accesskey "T">
