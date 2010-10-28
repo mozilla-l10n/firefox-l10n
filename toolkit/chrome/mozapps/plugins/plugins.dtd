@@ -24,3 +24,16 @@
 <!ENTITY missingPlugin.label                                 "இங்கு சொடுக்கி கூடுதல் இணைப்புகளை பதிவிறக்கும் செய்யவும்.">
 <!ENTITY disabledPlugin.label                                "இந்த உள்ளடக்கத்தின் கூடுதல் இணைப்பு செயல்நீக்கப்பட்டுள்ளது. இங்கு சொடுக்கி உங்கள் கூடுதல் இணைப்புகளை மேலாண்மை செய்யவும்.">
 <!ENTITY blockedPlugin.label                                 "உங்கள் பாதுகாப்புக்காக இந்த கூடுதல் இணைப்பு தடுக்கப்பட்டுள்ளது.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "மீண்டும் முயற்சிக்க இந்தப்">
+<!ENTITY reloadPlugin.post                                   " பக்கத்தை மீளேற்று.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "க்ராஷ் அறிக்கையை அனுப்பு">
+<!ENTITY report.submitting                                   "அறிக்கையை அனுப்புகிறது…">
+<!ENTITY report.submitted                                    "க்ராஷ் அறிக்கை அனுப்பப்பட்டது.">
+<!ENTITY report.disabled                                     "க்ராஷ் அறிக்கையிடுதல் செயல்நீக்கப்பட்டது.">
+<!ENTITY report.failed                                       "சமர்ப்பித்தல் தோல்வியுற்றது.">
+<!ENTITY report.unavailable                                  "அறிக்கை எதுவும் இல்லை.">
