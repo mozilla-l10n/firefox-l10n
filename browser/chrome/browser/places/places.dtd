@@ -100,7 +100,7 @@
 <!ENTITY search.scopeHistory.accesskey             "A">
 <!ENTITY saveSearch.label                          "சேமி">
 <!ENTITY saveSearch.accesskey                      "S">
-
+<!ENTITY search.in.label                           "இதில் தேடு:">
 <!ENTITY cmd.find.key  "f">
 <!ENTITY forwardCmd.label       "முன்னால்">
 <!ENTITY maintenance.tooltip    "உங்கள் புத்தகக்குறிகளை ஏற்றி பிரதியெடுக்கவும்">
