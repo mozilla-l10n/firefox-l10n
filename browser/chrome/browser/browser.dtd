@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Pêş">
 <!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Rûpelek here pêş">
-<!ENTITY backForwardMenu.tooltip      "Rûpelên Dawî">
 <!ENTITY reloadCmd.label              "Ji NûVe Bar Bike">
 <!ENTITY reloadCmd.accesskey          "N">
 <!ENTITY reloadButton.tooltip         "Rûpela derbasdar nû bike">
@@ -283,7 +282,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Darikên kêlekê">
 <!ENTITY appMenuFind.label "Lêgerîn…">
 <!ENTITY appMenuUnsorted.label "Bijareyên tomarnebûyî">
-<!ENTITY appMenuWebDeveloper.label "Pêşdebirên Webê">
+<!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Destpêkirin">
 <!ENTITY appMenuSafeMode.label "Dîsdestpêkirina bi Add-onan hate neçalakirin…">
 <!ENTITY appMenuSafeMode.accesskey "r">
