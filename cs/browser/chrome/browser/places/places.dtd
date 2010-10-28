@@ -94,8 +94,10 @@
 
 <!ENTITY search.label "Hledat:">
 <!ENTITY search.accesskey "H">
-<!ENTITY search.scopeFolder.label "Zvolená složka">
-<!ENTITY search.scopeFolder.accesskey "v">
+
+<!ENTITY search.in.label "Hledat v:">
+<!ENTITY search.scopeFolder.label "Vybraná složka">
+<!ENTITY search.scopeFolder.accesskey "V">
 <!ENTITY search.scopeBookmarks.label "Záložky">
 <!ENTITY search.scopeBookmarks.accesskey "Z">
 <!ENTITY search.scopeDownloads.label "Stažené soubory">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.noPreviewAvailable.label "Náhled">
 <!ENTITY detailsPane.selectAnItemText.description "Vybrat položku do pohledu a upravit její vlastnosti">
+
+<!ENTITY find.label "Hledat:">
+<!ENTITY find.accesskey "H">
+<!ENTITY view.label "Zobrazit">
+<!ENTITY view.accesskey "Z">
+<!ENTITY byDate.label "Podle data">
+<!ENTITY byDate.accesskey "d">
+<!ENTITY bySite.label "Podle názvu stránky">
+<!ENTITY bySite.accesskey "s">
+<!ENTITY byMostVisited.label "Podle počtu návštěv">
+<!ENTITY byMostVisited.accesskey "n">
+<!ENTITY byLastVisited.label "Podle poslední návštěvy">
+<!ENTITY byLastVisited.accesskey "P">
+<!ENTITY byDayAndSite.label "Podle data a serveru">
+<!ENTITY byDayAndSite.accesskey "a">
