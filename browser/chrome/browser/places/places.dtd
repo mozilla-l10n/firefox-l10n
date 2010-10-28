@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "ਖੋਜ:">
 <!ENTITY search.accesskey                          "S">
+
+<!ENTITY search.in.label                           "ਇਸ ਵਿੱਚ ਖੋਜ:">
 <!ENTITY search.scopeFolder.label                  "ਚੁਣਿਆ ਫੋਲਡਰ">
 <!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeBookmarks.label               "ਬੁੱਕਮਾਰਕ">

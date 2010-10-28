@@ -10,14 +10,14 @@
 
 <!ENTITY fileMenu.label "ਫਾਇਲ">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "...ਪੇਜ਼ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY savePageCmd.label "…ਪੇਜ਼ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "ਪੇਜ਼ ਸੈੱਟਅੱਪ...">
+<!ENTITY pageSetupCmd.label "…ਪੇਜ਼ ਸੈੱਟਅੱਪ">
 <!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ਪਰਿੰਟ ਝਲਕ">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "...ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY printCmd.label "…ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "ਬੰਦ ਕਰੋ">
@@ -38,7 +38,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "...ਲਾਈਨ ਉੱਤੇ ਜਾਓ">
+<!ENTITY goToLineCmd.label "…ਲਾਈਨ ਉੱਤੇ ਜਾਓ">
 <!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
