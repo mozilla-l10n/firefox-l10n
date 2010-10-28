@@ -123,3 +123,18 @@
 <!ENTITY detailsPane.less.accesskey "D">
 <!ENTITY detailsPane.noPreviewAvailable.label "Prevista">
 <!ENTITY detailsPane.selectAnItemText.description "Tscherna in'endataziun per vesair e modifitgar sias caracteristicas">
+
+<!ENTITY find.label               "Tschertgar:">
+<!ENTITY find.accesskey           "s">
+<!ENTITY view.label               "Vista">
+<!ENTITY view.accesskey           "V">
+<!ENTITY byDate.label             "Tenor data">
+<!ENTITY byDate.accesskey         "a">
+<!ENTITY bySite.label             "Tenor website">
+<!ENTITY bySite.accesskey         "w">
+<!ENTITY byMostVisited.label      "Tenor las pli bleras visitas">
+<!ENTITY byMostVisited.accesskey  "T">
+<!ENTITY byLastVisited.label      "Tenor la davosa visita">
+<!ENTITY byLastVisited.accesskey  "v">
+<!ENTITY byDayAndSite.label       "Tenor data e website">
+<!ENTITY byDayAndSite.accesskey   "d">
