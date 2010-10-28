@@ -29,7 +29,16 @@
 <!ENTITY netInterrupt.longDesc "<p>La connexiun è reussida, ella è dentant interrutta durant la transmissiun da datas. Emprova per plaschair anc ina giada.</p><ul><li>Na pos ti era betg chargiar autras websites? Controllescha la configuraziun da la connexiun a la rait da tes computer.</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
 
 <!ENTITY netOffline.title "Modus offline">
-<!ENTITY netOffline.longDesc "<p>L'applicaziun è en il modus offline e na po perquai betg stabilir ina connexiun.</p><ul><li>È il computer collià cun ina rait activa?</li><li>Mida per plaschair l'applicaziun en il modus online ed emprova lura anc ina giada.</li></ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Deactivescha l'element &quot;Lavurar offline&quot; dal menu ed emprova danovamain.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Cuntegns cun codaziun nunvalida">
 <!ENTITY contentEncodingError.longDesc "<p>La pagina dumandada na po betg vegnir mussada, perquai ch'ella utilisescha ina furma da cumpressiun nunvalida u betg cumpatibla.</p><ul><li>Contactescha per plaschair l'administratur da la website per infurmar el davart quest problem.</li></ul>">
@@ -83,17 +92,21 @@
 <!ENTITY phishingBlocked.longDesc "<p>Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.</p> 
 <p>Questas furmas da falsificaziun en il web vegnan utilisadas per emprovas d'engion ch'ins numna &quot;attatgas da phishing&quot;. Criminals cun l'intenziun d'engianar emprovan uschia d'imitar paginas d'internet u e-mails che inspiran confidenza.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bloccà da las directivas per la segirtad dal cuntegn">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedì questa pagina da chargiar a tala maniera perquai che la pagina cuntegna directivas per la segirtad dal cuntegn (content security policy) che impedeschan quai.</p>">
+
 <!ENTITY securityOverride.linkText "Ti pos era agiuntar ina regla d'excepziun…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Bandunar questa pagina!">
 <!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "<p>Ti na duessas betg agiuntar in'excepziun, sche ti na ta fidas betg absolutamain da la segirezza da la connexiun actuala u sche ti n'has fin ussa betg retschavì in avertiment per quest server.</p>
+<!ENTITY securityOverride.warningContent "
+<p>Ti na duessas betg agiuntar in'excepziun, sche ti na ta fidas betg absolutamain da la segirezza da la connexiun actuala u sche ti n'has fin ussa betg retschavì in avertiment per quest server.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
