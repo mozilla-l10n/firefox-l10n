@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Kiegészítő kompatibilitásának ellenőrzése...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "A &brandShortName naprakész">
+<!ENTITY update.noUpdatesFound      "A &brandShortName; naprakész">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "A frissítéseket a rendszergazda letiltotta">
 
