@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Lêgerîn:">
 <!ENTITY search.accesskey                          "L">
+
+<!ENTITY search.in.label                           "Di vê de bigere:">
 <!ENTITY search.scopeFolder.label                  "Peldanka Hilbijartî">
 <!ENTITY search.scopeFolder.accesskey              "P">
 <!ENTITY search.scopeBookmarks.label               "Bijare">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "K">
 <!ENTITY detailsPane.noPreviewAvailable.label "Pêşdîtin">
 <!ENTITY detailsPane.selectAnItemText.description "Ji bo nîşandan û serrastkirina taybetmendiyan yekê hilbijêre">
+
+<!ENTITY find.label               "Lêgerîn:">
+<!ENTITY find.accesskey           "g">
+<!ENTITY view.label               "Bibîne">
+<!ENTITY view.accesskey           "B">
+<!ENTITY byDate.label             "Dîrok">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "Malper">
+<!ENTITY bySite.accesskey         "M">
+<!ENTITY byMostVisited.label      "Yên Herî Zêde Vebûne">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "Yên di dawiyê de vebûne">
+<!ENTITY byLastVisited.accesskey  "Y">
+<!ENTITY byDayAndSite.label       "Li gorî dîrok û malperê">
+<!ENTITY byDayAndSite.accesskey   "L">

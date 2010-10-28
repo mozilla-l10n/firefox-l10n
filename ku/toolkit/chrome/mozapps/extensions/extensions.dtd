@@ -186,3 +186,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Bibore, di barkirina têbiniyên weşanê de çewtiyek derket.">
 
 <!ENTITY addon.createdBy.label                "Ji hêla ">
+
+<!ENTITY eula.title                           "Peymana Lîsansa Bikarhênerê/a Dawî">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Bipejirîne û Saz Bike…">
