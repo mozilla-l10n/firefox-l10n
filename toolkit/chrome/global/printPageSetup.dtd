@@ -7,8 +7,19 @@
 <!ENTITY formatGroup.label   "ಫಾರ್ಮಾಟ್">
 
 <!ENTITY orientation.label   "ನಿಲುವು(ಓರಿಯಂಟೇಶನ್):">
-<!ENTITY portrait            "ಭಾವಚಿತ್ರ">
-<!ENTITY landscape           "ಪ್ರಕೃತಿಚಿತ್ರ">
+<!ENTITY portrait.label      "ಉದ್ದಚಿತ್ರ">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "ಅಡ್ಡಚಿತ್ರ">
+<!ENTITY landscape.accesskey "L">
+
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.accesskey "R">
+<!ENTITY printBG.accesskey   "B">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY shrinkToFit.accesskey "W">
+
 
 <!ENTITY scale.label         "ಅಳತೆ:">
 <!ENTITY scalePercent        "&#037;">

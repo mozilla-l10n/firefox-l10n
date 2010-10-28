@@ -27,3 +27,15 @@
 <!ENTITY selectedframeRadio.label  "ಆರಿಸಲಾದ ಚೌಕಟ್ಟು">
 <!ENTITY eachframesepRadio.label  "ಪ್ರತಿ ಚೌಕಟ್ಟನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ">
 
+<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY eachframesepRadio.accesskey  "E">
+<!ENTITY fileCheck.accesskey "F">
+<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY numCopies.accesskey "c">
+<!ENTITY printerInput.accesskey "N">
+<!ENTITY propertiesButton.accesskey "o">
+<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY selectionRadio.accesskey "S">
+<!ENTITY topageInput.accesskey  "t">
