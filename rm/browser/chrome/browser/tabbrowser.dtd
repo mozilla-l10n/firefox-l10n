@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(Senza num)">
-<!ENTITY  newTab.label           "Nov tab">
-<!ENTITY  newTab.accesskey       "N">
 <!ENTITY  closeTab.label         "Serrar il tab">
-<!ENTITY  closeTab.accesskey         "S">
-<!ENTITY  closeOtherTabs.accesskey  "a">
-<!ENTITY  closeOtherTabs.label   "Serrar ils auters tabs">
-<!ENTITY  reloadAllTabs.label    "Chargiar danovamain tut ils tabs">
-<!ENTITY  reloadAllTabs.accesskey         "t">
-<!ENTITY  reloadTab.label        "Chargiar danovamain il tab">
-<!ENTITY  reloadTab.accesskey         "l">
-<!ENTITY  openTabInNewWindow.label    "Avrir en ina nova fanestra">
-<!ENTITY  openTabInNewWindow.accesskey "e">
-<!ENTITY  listAllTabs.label      "Far ina glista cun tut ils tabs">
-<!ENTITY  bookmarkAllTabs.label       "Agiuntar segnapaginas per tut ils tabs...">
-<!ENTITY  bookmarkAllTabs.accesskey   "l">
-<!ENTITY  bookmarkThisTab.label       "Agiuntar in segnapagina per quest tab">
-<!ENTITY  bookmarkThisTab.accesskey   "t">
-<!ENTITY  undoCloseTab.label          "Restituir il tab serrà">
-<!ENTITY  undoCloseTab.accesskey      "R">
 <!ENTITY  newTabButton.tooltip        "Avrir in nov tab">

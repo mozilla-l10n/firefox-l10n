@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Tschertgar:">
 <!ENTITY search.accesskey                          "s">
+
+<!ENTITY search.in.label                           "Tschertgar en:">
 <!ENTITY search.scopeFolder.label                  "Ordinatur tschernì">
 <!ENTITY search.scopeFolder.accesskey              "O">
 <!ENTITY search.scopeBookmarks.label               "Segnapaginas">
