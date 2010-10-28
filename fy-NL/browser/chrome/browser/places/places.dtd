@@ -123,3 +123,18 @@
 <!ENTITY detailsPane.less.accesskey 			"e">
 <!ENTITY detailsPane.noPreviewAvailable.label   "Foarbyld">
 <!ENTITY detailsPane.selectAnItemText.description	"Selektearje in item om te besjen en de eigenskippen te bewurkjen">
+
+<!ENTITY find.label               "Sykje:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "Byld">
+<!ENTITY view.accesskey           "B">
+<!ENTITY byDate.label             "Op datum">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "Op webstee">
+<!ENTITY bySite.accesskey         "w">
+<!ENTITY byMostVisited.label      "Op meast besocht">
+<!ENTITY byMostVisited.accesskey  "m">
+<!ENTITY byLastVisited.label      "Op lêst besocht">
+<!ENTITY byLastVisited.accesskey  "l">
+<!ENTITY byDayAndSite.label       "Op datum en webstee">
+<!ENTITY byDayAndSite.accesskey   "e">
