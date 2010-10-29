@@ -78,7 +78,7 @@
 <!ENTITY deleteMsgsCmd.label "Selektearre berjochten fuortsmite">
 <!ENTITY deleteMsgsCmd.accesskey "b">
 <!ENTITY undeleteMsgsCmd.label "Fuortsmite selektearre berjochten ûngedien meitsje">
-<!ENTITY undeleteMsgsCmd.accesskey "V">
+<!ENTITY undeleteMsgsCmd.accesskey "F">
 <!ENTITY cancelNewsMsgsCmd.label "Selektearre berjochten annulearje">
 <!ENTITY cancelNewsMsgsCmd.accesskey "a">
 <!ENTITY deleteFolderCmd.label "Map fuortsmite">
@@ -395,7 +395,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.accesskey "z">
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Petear as lêzen">
-<!ENTITY markThreadAsReadCmd.accesskey "K">
+<!ENTITY markThreadAsReadCmd.accesskey "P">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "As lêzen op datum…">
 <!ENTITY markReadByDateCmd.accesskey "d">
@@ -417,8 +417,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Berjocht iepenje">
 <!ENTITY openMessageWindowCmd.accesskey "i">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Iepenje yn Petear">
-<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.label "Iepenje yn petear">
+<!ENTITY openConversationCmd.accesskey "p">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Iepen feedberjocht">
 <!ENTITY openFeedMessage.accesskey "I">

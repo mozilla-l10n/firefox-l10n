@@ -41,7 +41,7 @@
 <!ENTITY Company.label "Organisaasje">
 <!ENTITY Company.accesskey "O">
 <!ENTITY _PhoneticName.label "Fonetyske namme">
-<!ENTITY _PhoneticName.accesskey "c">
+<!ENTITY _PhoneticName.accesskey "F">
 <!ENTITY NickName.label "Bynamme">
 <!ENTITY NickName.accesskey "B">
 <!ENTITY SecondEmail.label "Alternative e-mail">
@@ -55,7 +55,7 @@
 <!ENTITY PagerNumber.label "Piper">
 <!ENTITY PagerNumber.accesskey "r">
 <!ENTITY FaxNumber.label "Faks">
-<!ENTITY FaxNumber.accesskey "x">
+<!ENTITY FaxNumber.accesskey "k">
 <!ENTITY HomePhone.label "Telefoan thús">
 <!ENTITY HomePhone.accesskey "f">
 <!ENTITY WorkPhone.label "Telefoan wurk">
