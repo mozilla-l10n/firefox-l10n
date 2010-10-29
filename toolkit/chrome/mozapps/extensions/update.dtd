@@ -51,6 +51,4 @@
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "&brandShortName; ಆರಂಭಗೊಳ್ಳಲು  'ಪೂರ್ಣಗೊಳಿಸು'ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.">
 <!ENTITY  enableChecking.label            "&brandShortName; ನವೀಕರಣಗಳಿಗಾಗಿ ಹುಡುಕಲು ಅನುಮತಿಸು.">
-<!ENTITY  details.label                   "ವಿವರಗಳು...">
-<!ENTITY  details.accesskey               "D">
 <!ENTITY  clickFinish.labelMac            "&brandShortName;ಅನ್ನು ಆರಂಭಿಸುವುದನ್ನು ಮುಂದುವರೆಸಲು ಆಯಿತು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ .">
