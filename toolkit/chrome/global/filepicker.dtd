@@ -1,7 +1,7 @@
 <!ENTITY lookInMenuList.label "Sjen yn:">
-<!ENTITY lookInMenuList.accesskey "K">
+<!ENTITY lookInMenuList.accesskey "S">
 <!ENTITY textInput.label "Bestânsnamme:">
-<!ENTITY textInput.accesskey "N">
+<!ENTITY textInput.accesskey "n">
 <!ENTITY filterMenuList.label "Bestannen fan type:">
 <!ENTITY filterMenuList.accesskey "B">
 <!ENTITY name.label "Namme">
@@ -10,7 +10,7 @@
 <!ENTITY showHiddenFiles.label "Ferstoppe bestannen en mappen sjen litte">
 <!ENTITY showHiddenFiles.accesskey "F">
 
-<!ENTITY noPermissionError.label "Jo ha net de benedige permisjes om dizze map te besjen.">
+<!ENTITY noPermissionError.label "Jo ha net de nedige permisjes om dizze map te besjen.">
 
 <!ENTITY folderUp.tooltiptext "Gean in nivo omheech">
 <!ENTITY folderHome.tooltiptext "Nei startmap gean">
