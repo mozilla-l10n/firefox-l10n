@@ -292,7 +292,7 @@
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "前进">
 <!ENTITY nextMenu.accesskey "N">
-<!ENTITY nextMsgCmd.label "错误信息">
+<!ENTITY nextMsgCmd.label "消息">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "未读消息">
@@ -305,7 +305,7 @@
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "后退">
 <!ENTITY prevMenu.accesskey "P">
-<!ENTITY prevMsgCmd.label "错误信息">
+<!ENTITY prevMsgCmd.label "消息">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "未读消息">
@@ -323,11 +323,11 @@
 <!ENTITY startPageCmd.accesskey "S">
 
 <!-- Message Menu -->
-<!ENTITY msgMenu.label "错误信息">
+<!ENTITY msgMenu.label "消息">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "新建消息">
 <!ENTITY newMsgCmd.accesskey "N">
-<!ENTITY newNewMsgCmd.label "错误信息">
+<!ENTITY newNewMsgCmd.label "消息">
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "回复">
 <!ENTITY replyMsgCmd.accesskey "R">

@@ -1,6 +1,6 @@
 
 <!ENTITY  newMessageCmd.key               "M">
-<!ENTITY  newMessageCmd.label             "错误信息">
+<!ENTITY  newMessageCmd.label             "消息">
 <!ENTITY  newMessageCmd.accesskey         "m">
  
 <!ENTITY  newContactCmd.label             "联系...">

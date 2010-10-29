@@ -11,7 +11,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "错误信息">  
+<!ENTITY newMessage.label "消息">  
 <!ENTITY newMessage.accesskey "M">  
 <!ENTITY saveCmd.label "保存">
 <!ENTITY saveCmd.key "S">
