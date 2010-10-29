@@ -40,5 +40,5 @@
 <!ENTITY clickFinish.label " &brandShortName; തുടരുന്നതിനായി  പൂര്‍ത്തിയായി എന്നത് ക്ലിക്ക് ചെയ്യുക.">
 <!ENTITY  clickFinish.labelMac            " &brandShortName; തുടരുന്നതിനായി  പൂര്‍ത്തിയായി എന്നതു് ക്ലിക്ക് ചെയ്യുക.">
 <!ENTITY enableChecking.label "പരിഷ്കരണങ്ങള്‍ക്കായി തെരയുവാന്‍ &brandShortName;നെ അനുവദിക്കുക ">
-<!ENTITY details.label "വിവരങ്ങള്‍ ">
-<!ENTITY details.accesskey "D">
+<!-- ENTITY details.label "വിവരങ്ങള്‍ " -->
+<!-- ENTITY details.accesskey "D" -->
