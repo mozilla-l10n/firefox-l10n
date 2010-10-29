@@ -102,7 +102,7 @@
 <!ENTITY calendar.prevweek.accesskey            "a" >
 <!ENTITY calendar.nextmonth.label      			"Folgjende moanne" >
 <!ENTITY calendar.prevmonth.label      			"Foarige moanne" >
-<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.nextmonth.accesskey           "l" >
 <!ENTITY calendar.prevmonth.accesskey           "a" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Ien dei foarút" >
