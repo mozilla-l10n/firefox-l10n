@@ -64,22 +64,21 @@
 <!ENTITY  updateCheck.label               "&brandShortName; ನ ಹೊಸ ಆವೃತ್ತಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ…">
 <!ENTITY  viewDetails.tooltip             "ಈ ಅಪ್‌ಡೇಟ್‌ಗಾಗಿನ ವಿವರಗಳನ್ನು ನೋಡು">
 
-<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
-<!ENTITY  error.title                     "Update Failed">
-<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an insecure update. Please contact your network provider and seek help.">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely. Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do not have the system permissions required to install it. Please contact your system administrator, or try again from an account that has permission to install software on this computer.">
+<!ENTITY  downloadPage.title              "&brandShortName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ">
+<!ENTITY  error.title                     "ಅಪ್‌ಡೇಟ್ ವಿಫಲಗೊಂಡಿದೆ">
+<!ENTITY  errorCertAttrHasUpdate.label    "ಒಂದು ಸುರಕ್ಷಿತವಲ್ಲದ ಅಪ್‌ಡೇಟ್ ಅನ್ನು ಅಂಗೀಕರಿಸುವಂತೆ  &brandShortName; ಅನ್ನು ವಂಚಿಸಲು ಏನೊ ಪ್ರಯತ್ನಿಸುತ್ತಿದೆ. ದಯವಿಟ್ಟು ನೆರವಿಗಾಗಿ ನಿಮಗೆ ಜಾಲಬಂಧ ಸೇವೆಯನ್ನು ಒದಗಿಸಿದವರನ್ನು ಸಂಪರ್ಕಿಸಿ.">
+<!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; ಅನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಅಪ್‌ಡೇಟ್ ಮಾಡದಂತೆ ಏನೊ ತಡೆಯುತ್ತಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮಲ್ಲಿ ಇಲ್ಲಿಂದ ಪಡೆಯಲಾದ &brandShortName; ಒಂದು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿ ಇದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ:">
+<!ENTITY  genericBackgroundError.label    "ಅಪ್‌ಡೇಟ್ ಲಭ್ಯವಿದೆಯೆ ಎಂದು ಪತ್ತೆ ಮಾಡಲು &brandShortName; ನಿಂದ ಸಾಧ್ಯವಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮಲ್ಲಿ ಇಲ್ಲಿಂದ ಪಡೆಯಲಾದ &brandShortName; ಒಂದು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿ ಇದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ:">
+<!ENTITY  manualUpdate.desc               "ಸಲಹೆ ಮಾಡಲಾಗುವ ಒಂದು ಸುರಕ್ಷತಾ ಅಪ್‌ಡೇಟ್ ಲಭ್ಯವಿದೆ, ಆದರೆ ಅದನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಅಗತ್ಯವಿರುವ ವ್ಯವಸ್ಥೆಯ ಅನುಮತಿಗಳು ನಿಮ್ಮಲ್ಲಿ ಇಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ, ಅಥವ ಈ ಗಣಕದಲ್ಲಿ ತಂತ್ರಾಂಶವನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಅನುಮತಿ ಇರುವ ಬೇರೊಂದು ಖಾತೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.">
 
-<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
+<!ENTITY  manualUpdate.space.desc         "ಸಲಹೆ ಮಾಡಲಾಗುವ ಒಂದು ಸುರಕ್ಷತಾ ಅಪ್‌ಡೇಟ್ ಲಭ್ಯವಿದೆ, ಆದರೆ ಅದನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಅಗತ್ಯವಿರುವ ಸ್ಥಳವು ನಿಮ್ಮಲ್ಲಿ ಇಲ್ಲ.">
 
-<!ENTITY  manualUpdate.title              "Unable to Update">
+<!ENTITY  manualUpdate.title              "ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
-<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
-<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
-<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
-<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
+<!ENTITY  manualUpdateGetMsg.label        "ನೀವು ಯಾವಾಗಲೂ ಇಲ್ಲಿಂದ &brandShortName; ನ ಒಂದು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಪಡೆದುಕೊಳ್ಳಬಹುದು:">
+<!ENTITY  pluginupdatesfound.label        "ನಿಮ್ಮಲ್ಲಿರುವ ಒಂದು ಅಥವ ಹೆಚ್ಚಿನ ಪ್ಲಗ್‌ಇನ್‌ಗಳ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯು ಕಂಡುಬಂದಿದೆ.">
+<!ENTITY  pluginupdatesfound.title        "ಪ್ಲಗ್‌ಇನ್‌ಗಳಿಗಾಗಿ ಅಪ್‌ಡೇಟ್‌ಗಳು ಕಂಡುಬಂದಿವೆ">
+<!ENTITY  pluginupdateslink.label         "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಹೇಗೆ ನವೀಕರಿಸುವುದು ಎನ್ನುವುದನ್ನು ನೋಡಿ.">
 
 
 
