@@ -139,7 +139,7 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Tsjinner">
 <!ENTITY exceptionMgr.certlocation.url        "Lokaasje:">
 <!ENTITY exceptionMgr.certlocation.download   "Krij Sertifikaat">
-<!ENTITY exceptionMgr.certlocation.accesskey  "K">
+<!ENTITY exceptionMgr.certlocation.accesskey  "T">
 <!ENTITY exceptionMgr.certstatus.caption      "Sertifikaat Steat">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Toan…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "T">
