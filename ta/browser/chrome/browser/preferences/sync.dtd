@@ -1,43 +1,43 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "&syncBrand.fullName.label;-ஐ அமை">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; உங்கள் வரலாறுர புத்தகக்குறிகள், கடவுச்சொற்கள் மற்றும் உங்கள் அனைத்து சாதனத்திலும் திறந்த தத்தல்களை அணுக வைக்கிறது.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentAccount.label         "Current Account:">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; கணக்கு">
+<!ENTITY currentAccount.label         "நடப்பு கணக்கு:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "புதுப்பி">
+<!ENTITY resetPass.label              "மறுஅமை">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.label          "கணக்கை நிர்வகி">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!ENTITY viewQuota.label              "ஒதுக்கீடை பார்">
+<!ENTITY changePassword.label         "கடவுச்சொல்லை மாற்று">
+<!ENTITY mySyncKey.label              "எனது ஒத்திசை விசை">
+<!ENTITY resetSync.label              "ஒத்திசைவை மறுஅமை">
+<!ENTITY stopUsingAccount.label       "இந்தக் கணக்கைப் பயன்படுத்துவதை நிறுத்து">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncPrefsCaption.label       "உலாவி ஒத்திசைவு">
+<!ENTITY syncComputerName.label       "கணினி பெயர்:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "என்னுடையதை ஒத்திசை">
+<!ENTITY engine.bookmarks.label     "புத்தகக்குறிகள்">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.label          "தத்தல்கள்">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "வரலாறு">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.label     "கடவுச்சொற்கள்">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.label         "விருப்பங்கள்">
 <!ENTITY engine.prefs.accesskey     "S">
 
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "சேவைகளின் விதிமுறைகள்">
+<!ENTITY prefs.ppLink.label         "தனிப்பட்ட கொள்கை">
