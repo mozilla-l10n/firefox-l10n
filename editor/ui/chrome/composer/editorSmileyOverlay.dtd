@@ -55,7 +55,7 @@
 <!ENTITY smiley5Cmd.accesskey "L">
 <!ENTITY smiley5Cmd.tooltip "Foegje in laitsjend gesicht yn">
 <!ENTITY smiley6Cmd.label "Reade holle">
-<!ENTITY smiley6Cmd.accesskey "B">
+<!ENTITY smiley6Cmd.accesskey "R">
 <!ENTITY smiley6Cmd.tooltip "Foegje in reade holle yn">
 <!ENTITY smiley7Cmd.label "Twifel">
 <!ENTITY smiley7Cmd.accesskey "T">
@@ -85,6 +85,6 @@
 <!ENTITY smiley15Cmd.accesskey "r">
 <!ENTITY smiley15Cmd.tooltip "Foegje in gûljend gesicht yn">
 <!ENTITY smiley16Cmd.label "Ik sis neat">
-<!ENTITY smiley16Cmd.accesskey "p">
+<!ENTITY smiley16Cmd.accesskey "I">
 <!ENTITY smiley16Cmd.tooltip "Foegje in gesicht dat neat seit yn">
 <!ENTITY SmileButton.tooltip "Foegje in smiley yn">

@@ -381,9 +381,9 @@
 <!ENTITY tableAllCells.label "Alle sellen">
 <!ENTITY tableAllCells.accesskey "A">
 <!ENTITY tableCellBefore.label "Sel dêrfoar">
-<!ENTITY tableCellBefore.accesskey "S">
+<!ENTITY tableCellBefore.accesskey "f">
 <!ENTITY tableCellAfter.label "Sel dêrefter">
-<!ENTITY tableCellAfter.accesskey "a">
+<!ENTITY tableCellAfter.accesskey "e">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Fuortsmite">
 <!ENTITY tableDeleteMenu.accesskey "F">

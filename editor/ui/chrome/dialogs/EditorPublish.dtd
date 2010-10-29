@@ -58,7 +58,7 @@
 <!ENTITY publishImgCheckbox.accesskey "o">
 <!ENTITY publishImgCheckbox.tooltip   "Ofbyldings en oare bestannen dy't dizze side nei ferwiist publisearje">
 <!ENTITY sameLocationRadio.label      "Deselde lokaasje as de side brûke">
-<!ENTITY sameLocationRadio.accesskey  "z">
+<!ENTITY sameLocationRadio.accesskey  "s">
 <!ENTITY sameLocationRadio.tooltip    "Bestannen publisearje op deselde lokaasje as de side">
 <!ENTITY useSubdirRadio.label         "Dizze websteesubmap brûke:">
 <!ENTITY useSubdirRadio.accesskey     "s">
@@ -91,11 +91,11 @@
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "It HTTP://-adres fan jo haadmap (sûnder bestânsnamme)">
 <!ENTITY username.label               "Brûkersnamme:">
-<!ENTITY username.accesskey           "G">
+<!ENTITY username.accesskey           "B">
 <!ENTITY username.tooltip             "De brûkersnamme om yn te loggen by jo ISP- of webhostingservice">
 <!ENTITY password.label               "Wachtwurd:">
 <!ENTITY password.accesskey           "W">
 <!ENTITY password.tooltip             "It wachtwurd dat by jo brûkersnamme heart">
 <!ENTITY savePassword.label           "Wachtwurd bewarje">
-<!ENTITY savePassword.accesskey       "s">
+<!ENTITY savePassword.accesskey       "b">
 <!ENTITY savePassword.tooltip         "Selektearje dit om jo wachtwurd feilich te bewarjen mei de wachtwurdbehearder">
