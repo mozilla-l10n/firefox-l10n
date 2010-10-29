@@ -4,12 +4,8 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Bookmarks
-#define bookmarks_heading Bookmarks
-
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Telechargiar supplements da segnapaginas
+#define bookmarks_title Segnapaginas
+#define bookmarks_heading Segnapaginas
 
 #define bookmarks_toolbarfolder Ordinatur da la trav da simbols per segnapaginas
 #define bookmarks_toolbarfolder_description Agiuntescha segnapaginas a quest ordinatur per vesair els en la trav da simbols per segnapaginas
