@@ -1,4 +1,4 @@
-<!ENTITY newMessageCmd.label             "错误信息">
+<!ENTITY newMessageCmd.label             "消息">
 <!ENTITY newMessageCmd.accesskey         "M">
 <!ENTITY newMessageCmd.key               "M">
 

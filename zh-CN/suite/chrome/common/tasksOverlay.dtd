@@ -41,6 +41,7 @@
 
 <!ENTITY addonsManagerCmd.label "管理附加组件">
 <!ENTITY addonsManagerCmd.accesskey "A">
+<!ENTITY addonsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "切换配置文件…">
 <!ENTITY switchProfileCmd.accesskey "h">
