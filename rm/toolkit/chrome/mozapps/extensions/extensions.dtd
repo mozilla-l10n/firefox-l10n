@@ -1,176 +1,193 @@
-<!ENTITY addons.title                     "Supplements">
+<!ENTITY addons.windowTitle                   "Administraziun dals supplements">
+<!ENTITY search.placeholder                   "Tschertgar en tut ils supplements">
+<!ENTITY loading.label                        "Chargiar…">
+<!ENTITY listEmpty.installed.label            "Da quest tip has ti anc installà nagins supplements">
+<!ENTITY listEmpty.availableUpdates.label     "Chattà naginas actualisaziuns">
+<!ENTITY listEmpty.recentUpdates.label        "L'ultim temps has ti actualisà nagins supplements">
+<!ENTITY listEmpty.findUpdates.label          "Tschertgar actualisaziuns">
+<!ENTITY listEmpty.search.label               "Betg pussaivel da chattar supplements correspundents">
+<!ENTITY listEmpty.button.label               "Emprenda dapli davart supplements">
+<!ENTITY installAddonFromFile.label           "Installar in supplement d'ina datoteca…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Utensils per tut ils supplements">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "520">
-<!ENTITY em.height                        "380">
+<!ENTITY cmd.back.tooltip                     "Ir anavos ina pagina">
+<!ENTITY cmd.forward.tooltip                  "Ir anavant ina pagina">
 
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Tut ils supplements èn vegnids deactivads dal modus segirà.">
+<!ENTITY warning.checkcompatibility.label          "Il test da cumpatibilitad per supplements è deactivà. I po esser che supplements incumpatibels èn installads.">
+<!ENTITY warning.checkcompatibility.enable.label   "Activar">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Activar il test da cumpatibilitad dals supplements">
+<!ENTITY warning.updatesecurity.label              "Il test da segirezza per l'actualisaziun da supplements è deactivà. Actualisaziuns pon donnegiar tes computer.">
+<!ENTITY warning.updatesecurity.enable.label       "Activar">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Activar il test da segirezza per l'actualisaziun da supplements">
 
-<!-- View labels -->
-<!ENTITY search.label                     "Telechargiar supplements">
-<!ENTITY extensions.label                 "Extensiuns">
-<!ENTITY themes.label                     "Designs">
-<!ENTITY locales.label                    "Linguas">
-<!ENTITY plugins.label                    "Plug-ins">
-<!ENTITY update.label                     "Actualisaziuns">
-<!ENTITY install.label                    "Installaziun">
+<!-- categories / views -->
+<!ENTITY view.search.label                    "Tschertgar">
+<!ENTITY view.discover.label                  "Catalog">
+<!ENTITY view.locales.label                   "Linguas">
+<!ENTITY view.searchengines.label             "Maschinas da tschertgar">
+<!ENTITY view.features.label                  "Extensiuns">
+<!ENTITY view.appearance2.label               "Cumparsa">
+<!ENTITY view.plugins.label                   "Plug-ins">
+<!ENTITY view.recentUpdates.label             "Ultimas actualisaziuns">
+<!ENTITY view.availableUpdates.label          "Actualisaziuns disponiblas">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Actualisar">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "u">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Tschertgar actualisaziuns per supplements">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Tschertgar actualisaziuns per designs">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Tschertgar actualisaziuns per tes plug-ins">
-<!ENTITY cmd.installLocalFile.label       "Installar...">
-<!ENTITY cmd.installLocalFile.accesskey   "I">
-<!ENTITY cmd.installFileAddon.tooltip     "Installar il supplement">
-<!ENTITY cmd.installFileTheme.tooltip     "Installar il design">
-<!ENTITY cmd.installUpdatesAll2.label      "Installar las actualisaziuns">
-<!ENTITY cmd.installUpdatesAll2.accesskey  "u">
-<!ENTITY cmd.installUpdatesAll2.tooltip    "Installar las actualisaziuns tschernidas">
-<!ENTITY cmd.restartApp2.label            "Reaviar &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey        "R">
-<!ENTITY cmd.restartApp2.tooltip          "Reaviar &brandShortName; per surpigliar las midadas.">
-<!ENTITY cmd.skip.label                   "Sursiglir">
-<!ENTITY cmd.skip.accesskey               "S">
-<!ENTITY cmd.skip.tooltip                 "Sursiglir questas actualisaziuns">
-<!ENTITY cmd.continue.label               "Cuntinuar">
-<!ENTITY cmd.continue.accesskey           "C">
-<!ENTITY cmd.continue.tooltip             "Telechargiar enavant &brandShortName;">
+<!-- addon updates -->
+<!ENTITY updates.checkForUpdates.label        "Tschertgar actualisaziuns">
+<!ENTITY updates.checkForUpdates.accesskey    "T">
+<!ENTITY updates.viewUpdates.label            "Mussar las ultimas actualisaziuns">
+<!ENTITY updates.viewUpdates.accesskey        "a">
+<!ENTITY updates.updateAddonsAutomatically.label     "Actualisar automaticamain ils supplements">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Midar tut ils supplements sin l'actualisaziun automatica">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Midar tut ils supplements sin l'actualisaziun manuala">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "Ils supplements vegnan actualisads">
+<!ENTITY updates.installed.label              "Tes supplements èn vegnids actualisads.">
+<!ENTITY updates.downloaded.label             "Tias actualisaziuns dals supplements èn vegnidas telechargiadas.">
+<!ENTITY updates.restart.label                "Reaviar ussa per terminar l'installaziun">
+<!ENTITY updates.noneFound.label              "Chattà naginas actualisaziuns">
+<!ENTITY updates.manualUpdatesFound.label     "Mussar las actualisaziuns disponiblas">
+<!ENTITY updates.updateSelected.label         "Installar las actualisaziuns">
+<!ENTITY updates.updateSelected.tooltip       "Installar las actualisaziuns disponiblas en questa glista">
 
-<!ENTITY cmd.enableAll.label              "Activar tuts">
-<!ENTITY cmd.enableAll.accesskey          "A">
-<!ENTITY cmd.enableAll.tooltip            "Activar tut ils supplements mussads">
-<!ENTITY cmd.disableAll.label             "Deactivar tuts">
-<!ENTITY cmd.disableAll.accesskey         "D">
-<!ENTITY cmd.disableAll.tooltip           "Deactivar tut ils supplements mussads">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Mussar dapli infurmaziuns">
+<!ENTITY cmd.showDetails.accesskey            "M">
+<!ENTITY cmd.findUpdates.label                "Tschertgar actualisaziuns">
+<!ENTITY cmd.findUpdates.accesskey            "T">
+<!ENTITY cmd.preferencesWin.label             "Preferenzas">
+<!ENTITY cmd.preferencesWin.accesskey         "P">
+<!ENTITY cmd.preferencesUnix.label            "Preferenzas">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.about.label                      "Davart">
+<!ENTITY cmd.about.accesskey                  "A">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "Utilisar il design">
-<!ENTITY cmd.useTheme.accesskey           "t">
-<!ENTITY cmd.useTheme.tooltip             "Mida il design da &brandShortName;.">
-<!ENTITY cmd.options.label                "Preferenzas">
-<!ENTITY cmd.options.accesskey            "P">
-<!ENTITY cmd.options.tooltip              "Modifitgar las preferenzas da l'extensiun tschernida">
-<!ENTITY cmd.optionsUnix.label            "Preferenzas">
-<!ENTITY cmd.optionsUnix.accesskey        "P">
-<!ENTITY cmd.optionsUnix.tooltip          "Modifitgar las preferenzas da l'extensiun tschernida">
-<!ENTITY cmd.enable.label                 "Activar">
-<!ENTITY cmd.enable.accesskey             "A">
-<!ENTITY cmd.enable.tooltip               "Activar quest supplement, sche &brandShortName; vegn reavià">
-<!ENTITY cmd.disable.label                "Deactivar">
-<!ENTITY cmd.disable.accesskey            "a">
-<!ENTITY cmd.disable.tooltip              "Deactivar quest supplement, sche &brandShortName; vegn reavià">
-<!ENTITY cmd.uninstall.label              "Deinstallar">
-<!ENTITY cmd.uninstall2.accesskey         "D">
-<!ENTITY cmd.uninstall2.tooltip           "Deinstallar quest supplement, sche &brandShortName; vegn reavià">
-<!ENTITY cmd.cancelUninstall.label        "Interrumper la deinstallaziun">
-<!ENTITY cmd.cancelUninstall.accesskey    "I">
-<!ENTITY cmd.cancelUninstall.tooltip      "Interrumper la deinstallaziun da quest supplement">
-<!ENTITY cmd.cancelInstall.label          "Interrumper la deinstallaziun">
-<!ENTITY cmd.cancelInstall.accesskey      "r">
-<!ENTITY cmd.cancelInstall.tooltip        "Interrumper l'installaziun da quest supplement">
-<!ENTITY cmd.cancelUpgrade.label          "Interrumper l'actualisaziun">
-<!ENTITY cmd.cancelUpgrade.accesskey      "p">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Interrumper l'actualisaziun da quest supplement">
-<!ENTITY cmd.installUpdate.label          "Installar l'actualisaziun">
-<!ENTITY cmd.installUpdate.accesskey      "u">
-<!ENTITY cmd.installUpdate.tooltip        "Installar in'actualisaziun per quest supplement">
-<!ENTITY cmd.showUpdateInfo.label         "Mussar infurmaziuns">
-<!ENTITY cmd.showUpdateInfo.accesskey     "n">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Mussar ulteriuras infurmaziuns davart questa actualisaziun">
-<!ENTITY cmd.hideUpdateInfo.label         "Zuppentar infurmaziuns">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "z">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Zuppentar infurmaziuns davart questas actualisaziuns">
-<!ENTITY cmd.installSearchResult.label     "Agiuntar a &brandShortName;...">
-<!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY cmd.installSearchResult.tooltip   "Telechargiar ed installar quest supplement">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "Interrumper">
-<!ENTITY cancel.accesskey                 "I">
-<!ENTITY cancelInstall.label              "Interrumper">
-<!ENTITY cancelInstall.accesskey          "I">
-<!ENTITY cancelUpgrade.label              "Interrumper">
-<!ENTITY cancelUpgrade.accesskey          "I">
+<!ENTITY cmd.enableAddon.label                "Activar">
+<!ENTITY cmd.enableAddon.accesskey            "A">
+<!ENTITY cmd.disableAddon.label               "Deactivar">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Montar il theme">
+<!ENTITY cmd.enableTheme.accesskey            "M">
+<!ENTITY cmd.disableTheme.label               "Demontar il theme">
+<!ENTITY cmd.disableTheme.accesskey           "D">
+<!ENTITY cmd.installAddon.label               "Installar">
+<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.uninstallAddon.label             "Allontanar">
+<!ENTITY cmd.uninstallAddon.accesskey         "A">
+<!ENTITY cmd.showPreferencesWin.label         "Preferenzas">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Midar las preferenzas da quest supplement">
+<!ENTITY cmd.showPreferencesUnix.label        "Preferenzas">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Midar las preferenzas da quest supplement">
+<!ENTITY cmd.contribute.label                 "Contribuir">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Contribuir al sviluppar da quest supplement">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Visitar la homepage">
-<!ENTITY cmd.homepage.accesskey           "h">
-<!ENTITY cmd.about2.label                 "Davart quest supplement">
-<!ENTITY cmd.about.accesskey              "D">
-<!ENTITY cmd.checkUpdate.label            "Actualisar">
-<!ENTITY cmd.checkUpdate.accesskey        "A">
+<!ENTITY cmd.showReleaseNotes.label           "Mussar las notizias da publicaziun">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Mussar las notizias da publicaziun per questa actualisaziun">
+<!ENTITY cmd.hideReleaseNotes.label           "Zuppentar las notizias da publicaziun">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Zuppentar las notizias da publicaziun per questa actualisaziun">
 
-<!ENTITY cmd.includeUpdate.label          "Includer l'actualisaziun">
-<!ENTITY cmd.includeUpdate.accesskey      "d">
-<!ENTITY includeUpdate.label              "Includer questa actualisaziun">
-<!ENTITY includeUpdate.accesskey          "d">
-<!ENTITY includeUpdate.tooltip            "Includer quest supplement,  sche actualisaziuns vegnan installadas">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Tge èn supplements?">
+<!ENTITY discover.description2                "Supplements èn applicaziuns che ta laschan persunalisar &brandShortName; cun
+  funcziunalitads u designs spezials. Emprova ina trav laterala che ta spargna temp, in supplement d'infurmaziuns davart l'aura u
+  ina autra cumparsa per che &brandShortName; saja tes navigatur persunal.">
+<!ENTITY discover.footer                      "Sche ti has ina connexiun cun l'internet mussa questa pagina ina survista dals
+  megliers e pli desarads supplements che ti pudessas empruvar.">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Na porscha naginas actualisaziuns segiras.">
-<!ENTITY needsDependencies.label          "Pretenda ulteriurs supplements.">
-<!ENTITY blocklisted.label                "Deactivà per motivs da segirezza.">
-<!ENTITY softBlocklisted.label            "Ins sa che quai chaschuna problems da segirezza u da stabilitad.">
-<!ENTITY outdated.label                   "Ina versiun pli nova e pli segira è disponibla.">
-<!ENTITY toBeDisabled.label               "Quest supplement vegn deactivà, sche &brandShortName; vegn reavià.">
-<!ENTITY toBeEnabled.label                "Quest supplement vegn activà, sche &brandShortName; vegn reavià.">
-<!ENTITY toBeInstalled.label              "Quest supplement vegn installà, sche &brandShortName; vegn reavià.">
-<!ENTITY toBeUninstalled.label            "Quest supplement vegn deinstallà, sche &brandShortName; vegn reavià.">
-<!ENTITY toBeUpdated.label                "Quest supplement vegn actualisà, sche &brandShortName; vegn reavià.">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Versiun">
+<!ENTITY detail.lastupdated.label             "Ultima actualisaziun">
+<!ENTITY detail.creator.label                 "Sviluppader">
+<!ENTITY detail.homepage.label                "Website">
+<!ENTITY detail.numberOfDownloads.label       "Telechargiadas">
 
-<!ENTITY getExtensions.label              "Telechargiar extensiuns">
-<!ENTITY getThemes.label                  "Telechargiar designs">
-<!ENTITY getPlugins.label                 "Telechargiar plug-ins">
+<!ENTITY detail.contributions.description     "Il svilppader da quest supplement ta dumonda da sustegnair il svilup dal supplement cun in pitschen sustegn finanzial.">
 
-<!ENTITY searchAddons.label               "Tschertgar en tut ils supplements">
-<!ENTITY browseAddons.label               "Vesair tut ils supplements">
-<!ENTITY searchFailed.label               "Impussibel d'obtegnair supplements">
-<!ENTITY recommendedHeader.label          "Recumandà">
-<!ENTITY recommendedThrobber.label        "Obtegnair ils supplements recumandads">
-<!ENTITY searchThrobber.label             "Tschertgar supplements">
-<!ENTITY resetSearch.label                "Stizzar ils resultats">
-<!ENTITY noSearchResults.label            "Tut ils resultats èn gia installads u betg cumpatibels.">
-<!ENTITY noRecommendedResults.label       "Tut las recumandaziuns èn gia installadas u betg cumpatiblas.">
-<!ENTITY emptySearch.label                "Nagins supplements correspundents.">
-<!ENTITY emptySearch.button               "OK">
-<!ENTITY cancelSearch.button              "Interrumper">
-<!ENTITY searchFailed.button              "OK">
-<!ENTITY searchResultHomepage.value       "Dapli infurmaziuns">
-<!ENTITY searchBox.label                  "Tschertgar en tut ils supplements">
-<!ENTITY recommendedResults.label         "Vesair tut ils supplements recumandads">
-<!ENTITY searchResultConnecting.label     "Connectar...">
-<!ENTITY searchResultInstalling.label     "Installar...">
-<!ENTITY searchResultFailed.label         "L'installaziun n'è betg reussida">
-<!ENTITY searchResultInstalled.label      "L'installaziun è terminada">
-<!ENTITY addonTypeExtension.label         "Extensiun">
-<!ENTITY addonTypeTheme.label             "Design">
-<!ENTITY missingThumbnail.label           "Nagina prevista">
+<!ENTITY detail.updateType                    "Actualisaziuns automaticas">
+<!ENTITY detail.updateDefault.label           "Standard">
+<!ENTITY detail.updateDefault.tooltip         "Be installar automaticamain las actualisaziun sche quai è il standard">
+<!ENTITY detail.updateAutomatic.label         "Activà">
+<!ENTITY detail.updateAutomatic.tooltip       "Installar automaticamain las actualisaziuns">
+<!ENTITY detail.updateManual.label            "Deactivà">
+<!ENTITY detail.updateManual.tooltip          "Betg installar automaticamain las actualisaziuns">
+<!ENTITY detail.home                          "Website">
+<!ENTITY detail.repository                    "Profil dal supplement">
+<!ENTITY detail.size                          "Grondezza">
 
-<!ENTITY previewNoThemeSelected.label     "Betg tschernì in design">
-<!ENTITY previewNoPreviewImage.label      "Quest design n'ha nagina prevista">
-<!ENTITY moreInfo.label                   "Ulteriuras infurmaziuns">
-<!ENTITY infoNoAddonSelected.label        "Nagina actualisaziun n'è vegnida tschernida">
-<!ENTITY infoNoUpdateInfo.label           "I na dat naginas ulteriuras infurmaziuns davart questa actualisaziun">
-<!ENTITY infoUpdateInfoError.label        "Errur cun telechargiar l'infurmaziun davart questa actualisaziun">
+<!ENTITY detail.checkForUpdates.label         "Tschertgar actualisaziuns">
+<!ENTITY detail.checkForUpdates.accesskey     "T">
+<!ENTITY detail.checkForUpdates.tooltip       "Tschertgar actualisaziuns da quest supplement">
+<!ENTITY detail.showPreferencesWin.label      "Preferenzas">
+<!ENTITY detail.showPreferencesWin.accesskey  "P">
+<!ENTITY detail.showPreferencesWin.tooltip    "Midar las preferenzas da quest supplement">
+<!ENTITY detail.showPreferencesUnix.label     "Preferenzas">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Midar las preferenzas da quest supplement">
 
-<!ENTITY updateSuccess.label              "L'actualisaziun è terminada cun success">
-<!ENTITY installSuccess.label             "L'installaziun è terminada cun success">
-<!ENTITY installSuccessRestart.label      "Reaviar per terminar l'installaziun.">
-<!ENTITY updateSuccessRestart.label       "Reaviar per terminar l'actualisaziun">
-<!ENTITY installWaiting.label             "Spetgar...">
-<!ENTITY installIncompatibleUpdate.label  "Controllar la cumpatibilitad...">
-<!ENTITY installFinishing.label           "Installar...">
-<!ENTITY installFailure.label             "L'installaziun n'è betg reussida">
 
-<!ENTITY progressStatus.label             "Tschertga actualisaziuns disponiblas">
+<!-- ratings -->
+<!ENTITY rating2.label                        "Valitaziun">
+
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Pausa">
+<!ENTITY progress.cancel.tooltip              "Interrumper">
+
+
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Num">
+<!ENTITY sort.name.tooltip                    "Zavrar tenor num">
+<!ENTITY sort.dateUpdated.label               "Ultima actualisaziun">
+<!ENTITY sort.dateUpdated.tooltip             "Zavrar tenor l'ultima actualisaziun">
+<!ENTITY sort.relevance.label                 "Relevanza">
+<!ENTITY sort.relevance.tooltip               "Zavrar tenor la pli auta relevanza">
+<!ENTITY sort.price.label                     "Pretsch">
+<!ENTITY sort.price.tooltip                   "Zavrar tenor il pretsch">
+
+<!ENTITY search.filter2.label                 "Tschertgar:">
+<!ENTITY search.filter2.installed.label       "Supplements installads">
+<!ENTITY search.filter2.installed.tooltip     "Mussar ils supplements installads">
+<!ENTITY search.filter2.available.label       "Supplements disponibels">
+<!ENTITY search.filter2.available.tooltip     "Mussar ils supplements disponibels per installar">
+
+<!ENTITY addon.homepage                       "Website">
+<!ENTITY addon.details.label                  "Dapli">
+<!ENTITY addon.details.tooltip                "Mussar dapli detagls davart quest supplement">
+<!ENTITY addon.unknownDate                    "Nunenconuschent">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(deactivà)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "(actualisaziun)">
+<!ENTITY addon.undoAction.label               "Revocar">
+<!ENTITY addon.undoAction.tooltip             "Revocar questa acziun">
+<!ENTITY addon.undoRemove.label               "Revocar">
+<!ENTITY addon.undoRemove.tooltip             "Laschar installà quest supplement">
+<!ENTITY addon.restartNow.label               "Reaviar ussa">
+<!ENTITY addon.install.label                  "Installar">
+<!ENTITY addon.install.tooltip                "Installar quest supplement">
+<!ENTITY addon.updateNow.label                "Actualisar ussa">
+<!ENTITY addon.updateNow.tooltip              "Installar l'actualisaziun per quest supplement">
+<!ENTITY addon.includeUpdate.label            "Includer en l'actualisaziun">
+<!ENTITY addon.updateAvailable.label          "Ina actualisaziun è disponibla">
+<!ENTITY addon.checkingForUpdates.label       "Tschertgar actualisaziuns…">
+<!ENTITY addon.releaseNotes.label             "Notizias da publicaziun:">
+<!ENTITY addon.loadingReleaseNotes.label      "Chargiar…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Igl è capità ina errur cun chargiar las notizias da publicaziun.">
+
+<!ENTITY addon.createdBy.label                "Da ">
 
 <!ENTITY eula.title                       "Contract da licenza da l'utilisader">
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Acceptar ed installar...">
-
-<!ENTITY blocklist.blocked.label          "Bloccà">
-<!ENTITY blocklist.checkbox.label         "Deactivar">
