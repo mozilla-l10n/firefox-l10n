@@ -112,7 +112,7 @@
 <!ENTITY  event.menu.edit.undo.label                      "Ungedien meitsje">
 <!ENTITY  event.menu.edit.undo.accesskey                  "U">
 <!ENTITY  event.menu.edit.redo.label                      "Op 'e nij útfiere">
-<!ENTITY  event.menu.edit.redo.accesskey                  "u">
+<!ENTITY  event.menu.edit.redo.accesskey                  "O">
 <!ENTITY  event.menu.edit.cut.label                       "Knippe">
 <!ENTITY  event.menu.edit.cut.accesskey                   "n">
 <!ENTITY  event.menu.edit.copy.label                      "Kopiearje">
@@ -217,7 +217,7 @@
 <!ENTITY event.description.label                          "Beskriuwing:" >
 <!ENTITY event.description.accesskey                      "w">
 <!ENTITY event.attachments.label                          "Bylagen:" >
-<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.accesskey                      "B" >
 <!ENTITY event.attachments.popup.remove.label             "Fuortsmite" >
 <!ENTITY event.attachments.popup.remove.accesskey         "F" >
 <!ENTITY event.attachments.popup.open.label               "Iepenje" >
