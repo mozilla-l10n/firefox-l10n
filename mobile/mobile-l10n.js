@@ -36,4 +36,4 @@
 
 #filter substitution
 
-pref("general.useragent.locale", "gd");
+pref("general.useragent.locale", "@AB_CD@");

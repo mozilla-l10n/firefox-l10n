@@ -9,7 +9,7 @@
 <!ENTITY closeTabCmd.accesskey "D">
 <!ENTITY closeOtherTabsCmd.label "Dùin na tabaichean eile">
 <!ENTITY closeOtherTabsCmd.accesskey "l">
-<!ENTITY newVirtualFolderCmd.label "Lorg sàbhalaichte…">
+<!ENTITY newVirtualFolderCmd.label "Lorg a chaidh a shàbhaladh…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Cunntasan eile…">
 <!ENTITY newOtherAccountsCmd.accesskey "C">
@@ -444,7 +444,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "a">
 <!ENTITY activitymanager.label "Manaidsear gnìomhachd">
 <!ENTITY activitymanager.accesskey "M">
-<!ENTITY savedFiles.label "Faidhlichean sàbhalaichte">
+<!ENTITY savedFiles.label "Faidhlichean a chaidh a shàbhaladh">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Criathragan theachdaireachdan…">
