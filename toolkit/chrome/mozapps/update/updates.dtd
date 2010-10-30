@@ -40,7 +40,7 @@ por daŭrigi la instaladon de ĉi tiu ĝisdatigo.">
 
 <!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 <!ENTITY  downloading.intro               "Elŝutado de ĝisdatigo…">
-<!ENTITY  connecting.label                "Connecting to the update server…">
+<!ENTITY  connecting.label                "Konektado al la ĝisdatiga servilo…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ne povis kontroli la sanon de la 
 poioma ĝisdatigo kiun ĝi elŝutis kaj 
 do ĝi elŝutas nun la tutan ĝisdatigan pakon.">
@@ -49,7 +49,7 @@ do ĝi elŝutas nun la tutan ĝisdatigan pakon.">
 
 <!ENTITY  details.link                    "Detaloj">
 
-<!ENTITY  error.title                     "Update Failed">
+<!ENTITY  error.title                     "Ĝisdatigo malsukcesa">
 
 <!ENTITY  error.label                     "Estis problemoj dum la kontrolado, elŝutado aŭ instalado de tiu ĉi 
 ĝisdatigo. &brandShortName; ne povis esti ĝisdatigita ĉar:">

@@ -3,7 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "La jenaj kuketoj estas konservitaj en via komputilo:">
 <!ENTITY     cookiename.label               "Nomo de kuketo">
 <!ENTITY     cookiedomain.label             "Retejo"> 
-<!ENTITY     button.removecookies.label     "Remove Cookies">
+<!ENTITY     button.removecookies.label     "Forigi kuketojn">
 <!ENTITY     button.removecookie.label      "Forigi kuketon">
 <!ENTITY     button.removecookie.accesskey  "F">
 <!ENTITY     button.removeallcookies.label  "Forigi ĉiujn kuketojn">

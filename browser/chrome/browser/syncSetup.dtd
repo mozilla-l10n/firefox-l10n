@@ -69,7 +69,7 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.label       "Nomo de komputilo:">
 <!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sync My">
