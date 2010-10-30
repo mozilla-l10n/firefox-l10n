@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Serĉi:">
 <!ENTITY search.accesskey                          "S">
+
+<!ENTITY search.in.label                           "Serĉi en:">
 <!ENTITY search.scopeFolder.label                  "Elektitaj dosierujo">
 <!ENTITY search.scopeFolder.accesskey              "d">
 <!ENTITY search.scopeBookmarks.label               "Legosignoj">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "m">
 <!ENTITY detailsPane.noPreviewAvailable.label "Antaŭvidi">
 <!ENTITY detailsPane.selectAnItemText.description "Elekti elementon por vidi kaj modifi ĝiajn atributojn">
+
+<!ENTITY find.label               "Serĉi:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "Vidi">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "Laŭ dato">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "Laŭ retejo">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "Laŭ vizitoj">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "Laŭ dato de vizito">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "Laŭ dato kaj retejo">
+<!ENTITY byDayAndSite.accesskey   "t">

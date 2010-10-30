@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Antaŭen">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Unu paĝo antaŭen">
-<!ENTITY backForwardMenu.tooltip      "Ĵusaj paĝoj">
 <!ENTITY reloadCmd.label              "Reŝargi">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Reŝargi nunan paĝon">
