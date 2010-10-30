@@ -186,3 +186,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Pardonon, okazis eraro dum la ŝargado de la liveraj notoj.">
 
 <!ENTITY addon.createdBy.label                "De ">
+
+<!ENTITY eula.title                           "End-User License Agreement">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Akcepti kaj instali…">
