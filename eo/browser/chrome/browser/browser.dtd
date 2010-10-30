@@ -149,7 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Legosignoj">
 <!ENTITY bookmarksMenuButton.tooltip        "Montri viajn legosignojn">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
+<!ENTITY bookmarksMenuButton.unsorted.label "Neordigitaj legosignoj">
 <!ENTITY viewBookmarksSidebar.label         "Montri en la flanka strio">
 <!ENTITY viewBookmarksToolbar.label         "Vidi la ilaron de legosignoj">
 
@@ -169,7 +169,7 @@ can reach it easily. -->
 
 <!ENTITY keywordfield.label           "Aldoni kategorian vorton por tiu ĉi serĉado…">
 <!ENTITY keywordfield.accesskey       "K">
-<!ENTITY search.label                 "Web Search">
+<!ENTITY search.label                 "TTTa serĉado">
 <!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "Elŝutoj">
 <!ENTITY downloads.tooltip            "Montri la progreson de la aktivaj elŝutoj">
@@ -285,7 +285,7 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Neordigitaj legosignoj">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Getting Started">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.label "Rekomenci kun aldonaĵoj malaktivigitaj…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">

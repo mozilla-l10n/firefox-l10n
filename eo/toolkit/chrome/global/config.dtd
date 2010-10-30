@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title "about:config">
+<!ENTITY window.title "pri:agordo">
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->

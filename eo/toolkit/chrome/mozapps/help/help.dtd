@@ -6,10 +6,10 @@
 
 <!ENTITY backButton.label               "Malantaŭen">
 <!ENTITY backButton.accesskey           "B">
-<!ENTITY backButton.tooltip             "Go back one page">
+<!ENTITY backButton.tooltip             "Iri malantaŭen unu paĝo">
 <!ENTITY forwardButton.label            "Antaŭen">
 <!ENTITY forwardButton.accesskey        "A">
-<!ENTITY forwardButton.tooltip          "Go forward one page">
+<!ENTITY forwardButton.tooltip          "Iri antaŭen unu paĝo">
 <!ENTITY copyCmd.label                  "Kopii">
 <!ENTITY copyCmd.accesskey              "K">
 <!ENTITY selectAllCmd.label             "Elekti Ĉion">
