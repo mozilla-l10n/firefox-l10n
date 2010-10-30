@@ -14,6 +14,8 @@
 
 <!ENTITY  manualUpdate.title              "Ne eblas ĝisdatigi">
 <!ENTITY  manualUpdate.desc               "Rekomendata sekureca kaj stabileca ĝisdatigo disponeblas, sed vi ne havas la sistemajn rajtojn por instali ĝin. Bonvolu kontakti vian sisteman administranton aŭ klopodu denove ekde konto kiu rajtas instali programojn en tiu ĉi komputilo.">
+<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
 <!ENTITY  manualUpdateGetMsg.label        "Vi povas ĉiam akiri la lastan version de &brandShortName; ĉe:">
 
 <!ENTITY  incompatibleCheck.title         "Kontrolado de kongrueco de aldonaĵoj">

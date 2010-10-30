@@ -149,6 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Legosignoj">
 <!ENTITY bookmarksMenuButton.tooltip        "Montri viajn legosignojn">
+<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
 <!ENTITY viewBookmarksSidebar.label         "Montri en la flanka strio">
 <!ENTITY viewBookmarksToolbar.label         "Vidi la ilaron de legosignoj">
 
@@ -513,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Preta">
 <!ENTITY editBookmark.cancel.label                   "Nuligi">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
-<!ENTITY editBookmark.undo.label                     "Malfari">
-<!ENTITY editBookmark.undo.accessKey                 "M">
-<!ENTITY editBookmark.edit.label                     "Redakti…">
-<!ENTITY editBookmark.edit.accessKey                 "R">
 
 <!ENTITY identity.unverifiedsite2 "Tiu ĉi retejo ne provizis identecan informon.">
 <!ENTITY identity.connectedTo "Vi estas konektita al">
