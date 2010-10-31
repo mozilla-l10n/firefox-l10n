@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label              "Seuraava">
 <!ENTITY forwardCmd.accesskey          "S">
 <!ENTITY forwardButton.tooltip         "Siirry sivu eteenpäin">
-<!ENTITY backForwardMenu.tooltip      "Viime aikoina avattuja sivuja">
 <!ENTITY reloadCmd.label               "Päivitä">
 <!ENTITY reloadCmd.accesskey           "ä">
 <!ENTITY reloadButton.tooltip          "Päivitä avoin sivu">
@@ -514,10 +513,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Valmis">
 <!ENTITY editBookmark.cancel.label                   "Peruuta">
 <!ENTITY editBookmark.removeBookmark.accessKey       "P">
-<!ENTITY editBookmark.undo.label                     "Kumoa">
-<!ENTITY editBookmark.undo.accessKey                 "K">
-<!ENTITY editBookmark.edit.label                     "Muokkaa…">
-<!ENTITY editBookmark.edit.accessKey                 "M">
 
 <!ENTITY identity.unverifiedsite2 "Tähän verkkosivustoon ei liity identiteettitietoja.">
 <!ENTITY identity.connectedTo "Yhteys muodostettu verkkosivustoon">

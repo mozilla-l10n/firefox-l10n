@@ -186,3 +186,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Tapahtui virhe ladatessa julkaisutietoja. Pahoittelemme..">
 
 <!ENTITY addon.createdBy.label                "Tekijänä ">
+
+<!ENTITY eula.title                           "Loppukäyttäjän lisenssi">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Hyväksy ja asenna…">
