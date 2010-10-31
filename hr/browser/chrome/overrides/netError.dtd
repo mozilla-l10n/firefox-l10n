@@ -41,6 +41,17 @@
   <li>Odznačite &quot;Izvanmrežni rad&quot; u Datoteka izborniku i pokušajte ponovo.</li>
 </ul>">
 
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Isključite opciju &quot;Izvanmrežni rad&quot; i pokušajte ponovno.</li>
+</ul>
+">
+
 <!ENTITY contentEncodingError.title "Greška kodiranja sadržaja">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -122,6 +133,9 @@ može biti privremena, pa možete pokušati ponovno kasnije.</li>
 <p>Ovakve se vrste web krivotvorina koriste u prijevarama poznatim kao lažno predstavljanje, u kojima se koriste stranice i adrese e-pošte vrlo sličnima izvorima kojima vjerujete.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blokirala sigurnosna politika sadržaja">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je sprječio učitavanje stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje..</p>">
+
 <!ENTITY securityOverride.linkText "Ili možete dodati iznimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Izvuci me odavdje!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj iznimku…">
@@ -136,4 +150,16 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "
+<p>Ako koristite Internet vezu kojoj ne vjerujete u potpunosti ili ako niste navikli na upozorenja na ovom serveru, tada ne biste trebali dodati iznimku.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
