@@ -10,10 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY nothingAvailable.label "(Nem elérhető)">
-
-<!ENTITY browserCmd.label "Új böngészőablak">
-<!ENTITY browserCmd.accesskey "N">
 <!ENTITY tabCmd.label "Böngészőlap">
 <!ENTITY tabCmd.accesskey "L">
 <!ENTITY tabCmd.commandkey "t">
@@ -29,10 +25,6 @@
 <!ENTITY editPageCmd.label "Oldal szerkesztése">
 <!ENTITY editPageCmd.accesskey "L">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY editFrameCmd.label "Keret szerkesztése">
-<!ENTITY editFrameCmd.accesskey "r">
-<!ENTITY editFrameSetCmd.label "Keretbeállítások szerkesztése">
-<!ENTITY editFrameSetCmd.accesskey "t">
 
 <!ENTITY uploadFile.label "Fájl feltöltése...">
 <!ENTITY uploadFile.accesskey "F">
@@ -77,7 +69,6 @@
 <!ENTITY fullScreenCmd.accesskey "n">
 <!ENTITY translateMenu.label "Oldal fordítása">
 <!ENTITY translateMenu.accesskey "F">
-<!ENTITY translate.commandKey "t">
 
 <!ENTITY closeOtherTabs.label "Többi böngészőlap bezárása">
 <!ENTITY closeOtherTabs.accesskey "B">
@@ -88,37 +79,10 @@
 <!ENTITY restoreButton.tooltip "Visszaállítás">
 <!-- I'd like all this to move to an overlay or something -->
 
-<!ENTITY bidiMenu.label "Bidi beállítások">
-<!ENTITY directionBidiMenu.label "Alapértelmezett irány">
-<!ENTITY directionRTLBidiCmd.label "Jobbról balra">
-<!ENTITY directionLTRBidiCmd.label "Balról jobbra">
-<!ENTITY texttypeBidiMenu.label "Szöveg típusa">
-<!ENTITY charsettexttypeBidiCmd.label "A karakterkészlettől függően">
-<!ENTITY logicaltexttypeBidiCmd.label "Logikusan">
-<!ENTITY visualtexttypeBidiCmd.label "Vizuálisan">
-<!ENTITY numeralBidiMenu.label "Számok ábrázolása">
-<!ENTITY regularcontextnumeralBidiCmd.label "Értelemszerűen">
-<!ENTITY hindicontextnumeralBidiCmd.label "Hindi számok az RTL Dokumentumokban">
-<!ENTITY arabicnumeralBidiCmd.label "Arab">
-<!ENTITY hindinumeralBidiCmd.label "Hindi">
-<!ENTITY controlstextmodeBidiMenu.label "Szövegmód a vezérlésben">
-<!ENTITY logicalcontrolstextmodeBidiCmd.label "Logikusan">
-<!ENTITY visiualcontrolstextmodeBidiCmd.label "Vizuálisan">
-<!ENTITY containercontrolstextmodeBidiCmd.label "Ahogy a tartalmazó dokumentum">
-<!ENTITY charactersetBidiMenu.label "Karakterkészlet">
-<!ENTITY doccharactersetBidiCmd.label "A dokumentum által megadott karakterkészlet használata">
-<!ENTITY defaultcharactersetBidiCmd.label "Az alapértelmezés szerinti karakterkészlet használata, felülírva a dokumentum által megadottat">
-
-<!ENTITY webContentMenu.label "Nyelvek és webtartalom">
-<!ENTITY webContentMenu.accesskey "n">
-<!ENTITY downloadMore.label "Továbbiak letöltése">
-<!ENTITY downloadMore.accesskey "O">
 <!ENTITY applyTheme.label "Téma alkalmazása">
 <!ENTITY applyTheme.accesskey "T">
 <!ENTITY getNewThemesCmd.label "Új témák letöltése">
 <!ENTITY getNewThemesCmd.accesskey "J">
-<!ENTITY searchMenu.label "Keresés">
-<!ENTITY searchMenu.accesskey "E">
 <!ENTITY findOnCmd.label "Keresés ezen az oldalon...">
 <!ENTITY findOnCmd.accesskey "o">
 <!ENTITY findOnCmd.commandkey "f">
@@ -159,13 +123,6 @@
 <!ENTITY feedsMenu.accesskey "F">
 <!ENTITY emptyItem.label "(Üres)">
 
-<!ENTITY helpMenuCmd.label "Súgó">
-<!ENTITY helpMenuCmd.accesskey "s">
-<!ENTITY helpContentsCmd.label "Tartalom">
-<!ENTITY softwareUpdatesCmd.label "Szoftverfrissítések">
-<!ENTITY technicalSupportCmd.label "Technikai támogatás">
-<!ENTITY releaseNotesCmd.label "Verzióinformáció">
-
 <!ENTITY menuBar.tooltip "Menüsor">
 <!ENTITY personalToolbar.tooltip "Személyes eszköztár">
 <!ENTITY navigationToolbar.tooltip "Böngésző eszköztár">
@@ -193,7 +150,6 @@
 <!ENTITY locationBar.title "Hely">
 
 <!ENTITY proxyIcon.tooltip "Az ikon áthúzásával hivatkozást hozhat létre erre az oldalra">
-<!ENTITY internetKeyword.tooltip "Visszatér az előzőleg mutatott oldallal vagy a kiválasztott kulcsszóval">
 <!-- Toolbar items --> 
 
 <!ENTITY bookmarksButton.label "Könyvjelzők">

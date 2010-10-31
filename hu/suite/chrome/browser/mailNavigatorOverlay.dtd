@@ -2,8 +2,8 @@
 <!ENTITY newMessageCmd.accesskey "Ü">
 <!ENTITY newMessageCmd.key "M">
 
-<!ENTITY newCardCmd.label "Névjegykártya...">
-<!ENTITY newCardCmd.accesskey "N">
+<!ENTITY newContactCmd.label "Névjegykártya...">
+<!ENTITY newContactCmd.accesskey "N">
 
 <!ENTITY sendPage.label "Oldal küldése...">
 <!ENTITY sendPage.accesskey "O">
