@@ -1,0 +1,134 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "Estä tämän sivuston ponnahdusikkunat">
+<!ENTITY popupWindowRejectCmd.accesskey "E">
+<!ENTITY popupWindowAllowCmd.label      "Salli tämän sivuston ponnahdusikkunat">
+<!ENTITY popupWindowAllowCmd.accesskey  "S">
+<!ENTITY openLinkCmd.label            "Avaa uuteen ikkunaan">
+<!ENTITY openLinkCmd.accesskey        "i">
+<!ENTITY openLinkCmdInTab.label       "Avaa uuteen välilehteen">
+<!ENTITY openLinkCmdInTab.accesskey   "v">
+<!ENTITY openLinkInWindowCmd.label    "Avaa">
+<!ENTITY openLinkInWindowCmd.accesskey "A">
+<!ENTITY openFrameCmd.label           "Avaa kehys uuteen ikkunaan">
+<!ENTITY openFrameCmd.accesskey       "i">
+<!ENTITY openFrameCmdInTab.label      "Avaa kehys uuteen välilehteen">
+<!ENTITY openFrameCmdInTab.accesskey  "v">
+<!ENTITY showOnlyThisFrameCmd.label     "Näytä vain tämä kehys">
+<!ENTITY showOnlyThisFrameCmd.accesskey "N">
+<!ENTITY goBackCmd.label              "Edellinen">
+<!ENTITY goBackCmd.accesskey          "E">
+<!ENTITY goForwardCmd.label           "Seuraava">
+<!ENTITY goForwardCmd.accesskey       "S">
+<!ENTITY goUpCmd.label                "Ylös">
+<!ENTITY goUpCmd.accesskey            "ö">
+<!ENTITY reloadCmd.label              "Päivitä">
+<!ENTITY reloadCmd.accesskey          "ä">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "Pysäytä">
+<!ENTITY stopCmd.accesskey            "y">
+<!ENTITY reloadFrameCmd.label         "Päivitä kehys">
+<!ENTITY reloadFrameCmd.accesskey     "ä">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Näytä valinnan lähdekoodi">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Näytä MathML-lähdekoodi">
+<!ENTITY viewPartialSourceCmd.accesskey "k">
+<!ENTITY viewPageSourceCmd.label      "Näytä sivun lähdekoodi">
+<!ENTITY viewPageSourceCmd.accesskey  "k">
+<!ENTITY viewFrameSourceCmd.label     "Näytä kehyksen lähdekoodi">
+<!ENTITY viewFrameSourceCmd.accesskey "k">
+<!ENTITY viewPageInfoCmd.label        "Näytä sivun tiedot">
+<!ENTITY viewPageInfoCmd.accesskey    "o">
+<!ENTITY viewFrameInfoCmd.label       "Näytä kehyksen tiedot">
+<!ENTITY viewFrameInfoCmd.accesskey   "o">
+<!ENTITY fitImageCmd.label            "Pienennä kuva ikkunan kokoiseksi">
+<!ENTITY fitImageCmd.accesskey        "P">
+<!ENTITY reloadImageCmd.label         "Lataa kuva uudelleen">
+<!ENTITY reloadImageCmd.accesskey     "u">
+<!ENTITY viewImageCmd.label           "Näytä kuva">
+<!ENTITY viewImageCmd.accesskey       "N">
+<!ENTITY viewVideoCmd.label           "Näytä video">
+<!ENTITY viewVideoCmd.accesskey       "N">
+<!ENTITY viewBGImageCmd.label         "Näytä taustakuva">
+<!ENTITY viewBGImageCmd.accesskey     "N">
+<!ENTITY setWallpaperCmd.label        "Aseta työpöydän taustakuvaksi">
+<!ENTITY setWallpaperCmd.accesskey    "A">
+<!ENTITY bookmarkPageCmd.label        "Lisää sivu kirjanmerkkeihin">
+<!ENTITY bookmarkPageCmd.accesskey    "L">
+<!ENTITY bookmarkLinkCmd.label        "Lisää kohde kirjanmerkkeihin">
+<!ENTITY bookmarkLinkCmd.accesskey    "s">
+<!ENTITY bookmarkFrameCmd.label       "Lisää kehyssivu kirjanmerkkeihin">
+<!ENTITY bookmarkFrameCmd.accesskey   "L">
+<!ENTITY savePageAsCmd.label          "Tallenna sivu nimellä…">
+<!ENTITY savePageCmd.label            "Tallenna sivu">
+<!ENTITY savePageCmd.accesskey        "T">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameAsCmd.label         "Tallenna kehyssivu nimellä…">
+<!ENTITY saveFrameCmd.label           "Tallenna kehyssivu">
+<!ENTITY saveFrameCmd.accesskey       "T">
+<!ENTITY saveLinkAsCmd.label          "Tallenna kohde levylle…">
+<!ENTITY saveLinkCmd.label            "Tallenna kohde">
+<!ENTITY saveLinkCmd.accesskey        "T">
+<!ENTITY saveImageAsCmd.label         "Tallenna kuva nimellä…">
+<!ENTITY saveImageCmd.label           "Tallenna kuva">
+<!ENTITY saveImageCmd.accesskey       "T">
+<!ENTITY saveVideoCmd.label           "Tallenna video nimellä…">
+<!ENTITY saveVideoCmd.accesskey       "T">
+<!ENTITY saveAudioCmd.label           "Tallenna ääni nimellä…">
+<!ENTITY saveAudioCmd.accesskey       "T">
+<!ENTITY copyCmd.label                "Kopioi">
+<!ENTITY copyCmd.accesskey            "K">
+<!ENTITY selectAllCmd.label           "Valitse kaikki">
+<!ENTITY selectAllCmd.accesskey       "V">
+<!ENTITY copyLinkCmd.label            "Kopioi linkin osoite">
+<!ENTITY copyLinkCmd.accesskey        "K">
+<!ENTITY copyImageCmd.label           "Kopioi kuva">
+<!ENTITY copyImageCmd.accesskey       "K">
+<!ENTITY copyVideoURLCmd.label        "Kopioi videon osoite">
+<!ENTITY copyVideoURLCmd.accesskey    "K">
+<!ENTITY copyAudioURLCmd.label        "Kopioi äänen osoite">
+<!ENTITY copyAudioURLCmd.accesskey    "K">
+<!ENTITY metadataCmd.label            "Ominaisuudet">
+<!ENTITY metadataCmd.accesskey        "m">
+<!ENTITY copyEmailCmd.label           "Kopioi sähköpostiosoite">
+<!ENTITY copyEmailCmd.accesskey       "s">
+<!ENTITY pasteCmd.label               "Liitä">
+<!ENTITY pasteCmd.accesskey           "i">
+<!ENTITY cutCmd.label                 "Leikkaa">
+<!ENTITY cutCmd.accesskey             "L">
+<!ENTITY deleteCmd.label              "Poista">
+<!ENTITY deleteCmd.accesskey          "o">
+<!ENTITY undoCmd.label                "Kumoa">
+<!ENTITY undoCmd.accesskey            "m">
+<!ENTITY redoCmd.label                "Tee uudelleen">
+<!ENTITY redoCmd.accesskey            "T">
+<!ENTITY thisFrameMenu.label          "Tämä kehys">
+<!ENTITY thisFrameMenu.accesskey      "y">
+<!ENTITY mediaPlay.label              "Toista">
+<!ENTITY mediaPlay.accesskey          "T">
+<!ENTITY mediaPause.label             "Pysäytä">
+<!ENTITY mediaPause.accesskey         "P">
+<!ENTITY mediaMute.label              "Vaimenna">
+<!ENTITY mediaMute.accesskey          "m">
+<!ENTITY mediaUnmute.label            "Poista vaimennus">
+<!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaShowControls.label      "Näytä mediaohjaimet">
+<!ENTITY mediaShowControls.accesskey  "a">
+<!ENTITY mediaHideControls.label      "Piilota mediaohjaimet">
+<!ENTITY mediaHideControls.accesskey  "a">
+<!ENTITY videoFullScreen.label        "Kokoruututila">
+<!ENTITY videoFullScreen.accesskey    "K">
+<!ENTITY search.accesskey             "W">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Vaihda sivun suuntaa">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "V">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Vaihda tekstin suuntaa">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "V">
+<!ENTITY spellAddToDictionary.label     "Lisää sanastoon">
+<!ENTITY spellAddToDictionary.accesskey "s">
+<!ENTITY spellIgnoreWord.label          "Ohita sana">
+<!ENTITY spellIgnoreWord.accesskey      "h">
+<!ENTITY spellCheckEnable.label         "Oikolue">
+<!ENTITY spellCheckEnable.accesskey     "u">
+<!ENTITY spellNoSuggestions.label       "(ei ehdotuksia)">
+<!ENTITY spellDictionaries.label        "Kielet">
+<!ENTITY spellDictionaries.accesskey    "e">
+<!ENTITY spellAddDictionaries.label     "Hae lisää sanakirjoja…">
+<!ENTITY spellAddDictionaries.accesskey "H">

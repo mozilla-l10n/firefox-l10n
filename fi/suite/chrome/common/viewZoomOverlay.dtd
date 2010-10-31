@@ -1,0 +1,14 @@
+<!ENTITY zoomEnlargeCmd.label       "Suurenna">
+<!ENTITY zoomEnlargeCmd.accesskey   "S">
+<!ENTITY zoomEnlargeCmd.commandkey  "+">
+<!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY zoomReduceCmd.label        "Pienennä">
+<!ENTITY zoomReduceCmd.accesskey    "P">
+<!ENTITY zoomReduceCmd.commandkey   "-">
+
+<!ENTITY zoomResetCmd.commandkey    "0">
+
+<!-- see zoomOtherLabel in viewZoomOverlay.properties -->
+<!ENTITY zoomMenu.accesskey         "S">
+<!ENTITY zoomOtherCmd.accesskey     "M">

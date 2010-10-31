@@ -1,0 +1,32 @@
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+<!ENTITY pref.smartUpdate.title               "Ohjelmistoasennukset">
+<!ENTITY smartTitle.label                     "Asennusoikeudet">
+<!ENTITY enableSU.label                       "Salli sivustojen asentaa laajennuksia ja päivityksiä">
+<!ENTITY enableSU.accesskey                   "S">
+<!ENTITY allowedSites.label                   "Sallitut sivustot">
+<!ENTITY allowedSites.accesskey               "a">
+
+<!ENTITY verifyUpdates.caption                "Päivitykset">
+<!ENTITY autoUpdates.label                    "Hae päivityksiä säännöllisin väliajoin:">
+<!ENTITY appUpdates.label                     "&brandShortName;hin">
+<!ENTITY appUpdates.accesskey                 "h">
+<!ENTITY daily.label                          "kerran päivässä">
+<!ENTITY appDaily.accesskey                   "p">
+<!ENTITY weekly.label                         "kerran viikossa">
+<!ENTITY appWeekly.accesskey                  "v">
+<!ENTITY extensionsUpdates.label              "Lisäosiin">
+<!ENTITY extensionsUpdates.accesskey          "L">
+<!ENTITY extensionsDaily.accesskey            "ä">
+<!ENTITY extensionsWeekly.accesskey           "i">
+<!ENTITY addonManagerButton.label             "Tarkastele lisäosia">
+<!ENTITY addonManagerButton.accesskey         "T">
+
+<!ENTITY whenUpdatesFound.label               "Kun &brandShortName;hin on saatavilla päivitys">
+<!ENTITY askMe.label                          "Kysy, mitä tehdään">
+<!ENTITY askMe.accesskey                      "K">
+<!ENTITY modeAutomatic.label                  "Lataa ja asenna päivitys automaattisesti">
+<!ENTITY modeAutomatic.accesskey              "u">
+<!ENTITY modeAutoAddonWarn.label              "Varoita, jos päivitys poistaa käytöstä lisäosia">
+<!ENTITY modeAutoAddonWarn.accesskey          "r">
+<!ENTITY updateHistory.label                  "Näytä päivityshistoria">
+<!ENTITY updateHistory.accesskey              "N">

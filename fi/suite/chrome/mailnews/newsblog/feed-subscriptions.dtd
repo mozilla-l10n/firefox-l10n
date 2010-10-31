@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label "Syötetilaukset">
+<!ENTITY subscriptionDesc.label "Huom. Syötteen kansion muuttaminen tai poistaminen ei vaikuta ennen sitä ladattuihin artikkeleihin.">
+<!ENTITY feedTitle.label "Otsikko:">
+<!ENTITY location.label  "Osoite:">
+
+<!ENTITY button.addFeed.label       "Lisää">
+<!ENTITY button.addFeed.accesskey   "L">
+<!ENTITY button.editFeed.label      "Muokkaa">
+<!ENTITY button.editFeed.accesskey  "M">
+<!ENTITY button.removeFeed.label "Poista">
+<!ENTITY button.removeFeed.accesskey   "P">
+<!ENTITY button.importOPML.label "Tuo">
+<!ENTITY button.importOPML.accesskey   "T">
+<!ENTITY button.exportOPML.label "Vie">
+<!ENTITY button.exportOPML.accesskey   "V">
+
+<!ENTITY cmd.close.commandKey             "w">

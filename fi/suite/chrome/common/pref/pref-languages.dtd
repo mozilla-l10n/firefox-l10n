@@ -1,0 +1,32 @@
+<!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
+
+<!ENTITY languages.customize.prefLangDescript           "Sivuista on joskus saatavilla useammankielisiä versioita. Järjestä kielet niin, että ensimmäisenä on mieluiten lukemasi kieli.">
+<!ENTITY languages.customize.title                      "Kielet">
+<!ENTITY langtitle.label                                "Verkkosivujen kielet">
+<!ENTITY languages.customize.prefAddLangDescript        "Valitse listaan lisättävät kielet. Lisää useita kieliä pitämällä Ctrl pohjassa, kun valitset kieliä.">
+<!ENTITY languages.customize.addButton.label            "Lisää…">
+<!ENTITY languages.customize.addButton.accesskey        "L">
+<!ENTITY languages.customize.deleteButton.label         "Poista">
+<!ENTITY languages.customize.deleteButton.accesskey     "P">
+<!ENTITY languages.customize.add.title.label            "Lisää kieliä listaan">
+<!ENTITY languages.customize.available.label            "Kielet:">
+<!ENTITY languages.customize.active.label               "Kielet mieluisuusjärjestyksessä:">
+<!ENTITY languages.customize.active.accesskey           "K">
+<!ENTITY languages.customize.others.label               "Muu:">
+<!ENTITY languages.customize.others.accesskey           "M">
+<!ENTITY languages.customize.Charset.grouplabel         "Oletusmerkistökoodaus">
+<!ENTITY languages.customize.DefaultCharset.label       "Merkistökoodaus:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "M">
+<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
+<!ENTITY languages.customize.others.examples            "esim. en-bz, ar-jo">
+<!ENTITY languages.customize.moveUp.label               "Siirrä ylös">
+<!ENTITY languages.customize.moveUp.accesskey           "y">
+<!ENTITY languages.customize.moveDown.label             "Siirrä alas">
+<!ENTITY languages.customize.moveDown.accesskey         "a">
+
+<!ENTITY spelling.label                                 "Oikeinkirjoituksen tarkastus">
+<!ENTITY checkSpelling.label                            "Oikolue käyttäjän kirjoitukset:">
+<!ENTITY checkSpelling.accesskey                        "O">
+<!ENTITY dontCheckSpelling.label                        "Ei koskaan">
+<!ENTITY multilineCheckSpelling.label                   "Monirivisissä tekstiruuduissa">
+<!ENTITY alwaysCheckSpelling.label                      "Kaikissa tekstiruuduissa">

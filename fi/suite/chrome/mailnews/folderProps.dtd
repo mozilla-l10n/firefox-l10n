@@ -1,0 +1,102 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label           "Ominaisuudet">
+
+<!ENTITY generalInfo.label                       "Yleiset tiedot">
+<!ENTITY folderCharsetTab.label                  "Oletusmerkistökoodaus:">
+<!ENTITY folderCharsetTab.accesskey              "e">
+<!ENTITY folderCharsetOverride.label             "Käytä oletusarvoa kansion kaikkiin viesteihin (viestikohtaiset merkistökoodausasetukset ja automaattinen tunnistus ohitetaan)">
+<!ENTITY folderCharsetOverride.accesskey         "a">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Kokoa yhteenvetotiedoston indeksi uudelleen">
+<!ENTITY folderRebuildSummaryFile2.label         "Korjaa kansio">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "K">
+<!ENTITY folderRebuildSummaryFile.explanation    "Joskus kansion indeksitiedosto (.msf) vaurioituu, minkä seurauksena saattaan näyttää siltä, että viestejä on kadonnut, tai että jo poistetut viestit ovat vielä olemassa; kansion korjaaminen voi korjata nämä asiat.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Sisällytä tässä kansiossa olevat viestit yleisen haun tuloksiin">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "S">
+
+<!ENTITY retention.label "Viestien säilytyskäytäntö">
+<!ENTITY retentionUseAccount.label "Käytä tilini asetuksia">
+<!ENTITY retentionUseAccount.accesskey "u">
+<!ENTITY daysOld.label "päivää vanhoja">
+<!ENTITY message.label "viestiä">
+<!ENTITY retentionCleanup.label "Säilytä viestit:">
+<!ENTITY retentionCleanupImap.label "Kiintolevytilaa voidaan vapauttaa poistamalla vanhat viestit lopullisesti sekä omalta koneelta, että palvelimelta.">
+<!ENTITY retentionCleanupPop.label "Kiintolevytilaa voidaan vapauttaa poistamalla vanhat viestit lopullisesti.">
+<!ENTITY retentionDeleteMsg.label "Poista viestit, jotka ovat yli">
+<!ENTITY retentionDeleteMsg.accesskey "P">
+<!ENTITY retentionKeepAll.label "Älä poista mitään viestejä">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepRecent.label "Poista kaikki paitsi uusimmat">
+<!ENTITY retentionKeepRecent.accesskey "P">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Poista luetut viestit aina (korvaa ikäasetukset)">
+<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista tähdellä merkittyjä viestejä">
+<!ENTITY retentionApplyToFlagged.accesskey "Ä">
+
+<!ENTITY folderSynchronizationTab.label          "Synkronointi">
+<!ENTITY folderCheckForNewMessages2.label        "Tarkasta tämä kansio aina kun tämän tilin uusia viestejä noudetaan">
+<!ENTITY folderCheckForNewMessages2.accesskey    "T">
+
+<!ENTITY offlineFolder.check.label               "Kansio on käytettävänä yhteydettömässä tilassa">
+<!ENTITY offlineFolder.check.accesskey           "s">
+<!ENTITY offlineFolder.button.label              "Nouda heti">
+<!ENTITY offlineFolder.button.accesskey          "d">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Keskusteluryhmä on käytettävissä yhteydettömässä tilassa">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY offlineNewsgroup.button.label           "Nouda heti">
+<!ENTITY offlineNewsgroup.button.accesskey       "d">
+
+<!ENTITY folderProps.name.label                  "Nimi:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Osoite:">
+<!ENTITY folderProps.location.accesskey          "O">
+
+<!ENTITY folderSharingTab.label                  "Yhteiskäyttö">
+<!ENTITY privileges.button.label                 "Oikeudet…">
+<!ENTITY privileges.button.accesskey             "O">
+<!ENTITY permissionsDesc.label                   "Sinulla on seuraavat oikeudet:">
+<!ENTITY folderType.label                        "Kansion tyyppi:">
+
+<!ENTITY folderQuotaTab.label                    "Kiintiö">
+<!ENTITY folderQuotaRoot.label                   "Kiintiön juuri:">
+<!ENTITY folderQuotaUsage.label                  "Käytössä:">
+<!ENTITY folderQuotaStatus.label                 "Tila:">

@@ -1,0 +1,20 @@
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Lähtevän postin (SMTP) palvelinasetukset">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Lähtevälle postille voidaan määrittää useita palvelimia (SMTP), mutta tätä ei suositella kuin kokeneille käyttäjille. Usean SMTP-palvelimen määrittäminen voi aiheuttaa virheitä viestejä lähetettäessä.">
+
+<!ENTITY smtpListAdd.label  "Lisää…">
+<!ENTITY smtpListAdd.accesskey  "L">
+<!ENTITY smtpListEdit.label "Muokkaa…">
+<!ENTITY smtpListEdit.accesskey "M">
+<!ENTITY smtpListDelete.label "Poista">
+<!ENTITY smtpListDelete.accesskey "P">
+<!ENTITY smtpListSetDefault.label "Aseta oletukseksi">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "Kuvaus: ">
+<!ENTITY serverName.label "Palvelimen osoite: ">
+<!ENTITY serverPort.label "Portti: ">
+<!ENTITY userName.label   "Käyttäjätunnus: ">
+<!ENTITY connectionSecurity.label "Yhteyden suojaus: ">
+<!ENTITY authMethod.label   "Todennusmenetelmä: ">

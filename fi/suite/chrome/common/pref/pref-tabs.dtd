@@ -1,0 +1,16 @@
+<!ENTITY tabHeader.label "Välilehdet">
+<!ENTITY tabDisplay.label "Välilehtien asetukset">
+<!ENTITY autoHide.label "Piilota välilehtipalkki, kun auki on vain yksi välilehti">
+<!ENTITY autoHide.accesskey "P">
+<!ENTITY background.label "Valitse linkistä avattu välilehti">
+<!ENTITY background.accesskey "V">
+<!ENTITY warnOnClose.label "Varoita, kun yritän sulkea ikkunan, jossa on useita välilehtiä">
+<!ENTITY warnOnClose.accesskey "a">
+<!ENTITY relatedAfterCurrent.label "Avaa linkistä avatut välilehdet nykyisen välilehden viereen">
+<!ENTITY relatedAfterCurrent.accesskey "l">
+<!ENTITY loadGroup.label "Kirjanmerkkiryhmää avattaessa">
+<!ENTITY loadGroupAppend.label "Käytä uusia välilehtiä">
+<!ENTITY loadGroupAppend.accesskey "ä">
+<!ENTITY loadGroupReplace.label "Käytä vanhoja välilehtiä">
+<!ENTITY loadGroupReplace.accesskey "y">
+<!ENTITY openTabs.label "Avaa välilehti ikkunan sijaan">

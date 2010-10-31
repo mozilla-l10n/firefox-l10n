@@ -1,0 +1,136 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title                        "Osoitekirja">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newContact.label                               "Yhteyshenkilö…">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey                           "Y">
+<!ENTITY newListCmd.label                               "Postituslista…">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey                           "P">  
+<!ENTITY newAddressBookCmd.label                        "Osoitekirja…"> 
+<!ENTITY newAddressBookCmd.accesskey                    "O">  
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP-hakemisto…">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
+<!ENTITY newIM.label                                    "Pikaviesti">
+<!ENTITY printContactViewCmd.label                      "Tulosta yhteystiedot…">
+<!ENTITY printContactViewCmd.accesskey                  "o">
+<!ENTITY printPreviewContactViewCmd.label               "Esikatsele yhteystietoja">
+<!ENTITY printPreviewContactViewCmd.accesskey           "k">
+<!ENTITY printContactViewCmd.key                        "P">
+<!ENTITY printAddressBook.label                         "Tulosta osoitekirja…"> 
+<!ENTITY printAddressBook.accesskey                     "t"> 
+<!ENTITY printPreviewAddressBook.label                  "Esikatsele osoitekirjaa"> 
+<!ENTITY printPreviewAddressBook.accesskey              "a">
+<!ENTITY printSetupCmd.label                            "Sivun asetukset…">
+<!ENTITY printSetupCmd.accesskey                        "e">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label                              "Poista osoitekirja">  
+<!ENTITY deleteContactCmd.label                         "Poista yhteyshenkilö">
+<!ENTITY deleteContactsCmd.label                        "Poista valitut yhteyshenkilöt">
+<!ENTITY deleteListCmd.label                            "Poista lista">
+<!ENTITY deleteListsCmd.label                           "Poista valitut listat">
+<!ENTITY deleteItemsCmd.label                           "Poista valitut merkinnät">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Vaihda etu- ja sukunimien paikkaa">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "V">  
+<!ENTITY propertiesCmd.label                            "Ominaisuudet…">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY propertiesCmd.accesskey                        "O">  
+<!ENTITY propertiesCmd.key                              "i">  
+
+<!-- View Menu -->
+<!ENTITY showAbToolbarCmd.label                         "Osoitekirjapalkki"> 
+<!ENTITY showAbToolbarCmd.accesskey                     "O">  
+
+<!ENTITY showCardPane.label                             "Korttien yhteenvetoruutu">
+<!ENTITY showCardPane.accesskey                         "K">
+  
+<!ENTITY menu_ShowNameAs.label                          "Näytä nimet muodossa"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY firstLastCmd.label                             "Etunimi ensin">  
+<!ENTITY firstLastCmd.accesskey                         "E"> 
+<!ENTITY lastFirstCmd.label                             "Sukunimi ensin">  
+<!ENTITY lastFirstCmd.accesskey                         "S"> 
+<!ENTITY displayNameCmd.label                           "Kokonimi">  
+<!ENTITY displayNameCmd.accesskey                       "K"> 
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label                                "Tuo…">
+<!ENTITY importCmd.accesskey                            "T">
+<!ENTITY exportCmd.label                                "Vie…">
+<!ENTITY exportCmd.accesskey                            "V">
+
+<!-- Toolbar and Popup items -->  
+<!ENTITY newContactButton.label                         "Uusi yhteyshenkilö">
+<!ENTITY newContactButton.accesskey                     "y">
+<!ENTITY newlistButton.label                            "Uusi lista">  
+<!ENTITY newlistButton.accesskey                        "l">  
+<!ENTITY editItemButton.label                           "Ominaisuudet">
+<!ENTITY editItemButton.accesskey                       "m">
+<!ENTITY newmsgButton.label                             "Kirjoita">  
+<!ENTITY newmsgButton.accesskey                         "K">  
+<!ENTITY deleteItemButton.label                         "Poista">
+<!ENTITY deleteItemButton.accesskey                     "P">
+<!ENTITY newimButton.label                              "Pikaviesti">  
+<!ENTITY newimButton.accesskey                          "P">  
+<!ENTITY searchNameAndEmail.placeholder                 "Etsi nimestä ja sähköpostiosoitteesta">
+<!ENTITY searchBox.title                                "Etsi">
+
+<!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip                     "Osoitekirjapalkki">
+<!ENTITY newContactButton.tooltip                       "Luo osoitekirjaan uusi yhteyshenkilö">
+<!ENTITY newlistButton.tooltip                          "Luo uusi lista"> 
+<!ENTITY editItemButton.tooltip                         "Muokkaa valittua merkintää">
+<!ENTITY newmsgButton.tooltip                           "Lähetä sähköpostiviesti"> 
+<!ENTITY newIM.tooltip                                  "Lähetä pikaviesti"> 
+<!ENTITY deleteItemButton.tooltip                       "Poista valittu merkintä">
+<!ENTITY throbber.tooltip                               "Siirry &vendorShortName;n kotisivulle">
+<!ENTITY advancedButton.tooltip                         "Edistynyt osoitehaku">
+
+<!-- Status Bar -->  
+<!ENTITY statusText.label                               "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "true">

@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
+<!ENTITY pref.advanced.title        "Lisäasetukset">
+
+<!ENTITY prefEnableJava.caption     "Ominaisuuksia, jotka auttavat verkkosivujen tulkinnassa">
+
+<!ENTITY enbJavaCheck.label         "Salli Java-sovelmat">
+<!ENTITY enbJavaCheck.accesskey     "S">
+
+<!ENTITY systemPref.caption         "Järjestelmän asetukset">
+<!ENTITY systemPrefCheck.label      "Käytä järjestelmästä peräisin olevia asetuksia">
+<!ENTITY systemPrefCheck.accesskey  "K">
+<!ENTITY systemPref.desc            "Jos valitset tämän, &brandShortName; perii asetuksensa järjestelmältä. Nämä järjestelmäasetukset ohittavat &brandShortName;n asetukset.">
+
+<!ENTITY prefCheckDefault.caption   "Järjestelmäintegraatio">
+<!ENTITY prefCheckDefaultClient.label "Tarkista oletussovellusten asetukset käynnistettäessä">
+<!ENTITY prefCheckDefaultClient.accesskey "T">

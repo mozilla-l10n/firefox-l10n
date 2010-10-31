@@ -1,0 +1,15 @@
+<!-- extracted from content/pref-search.xul -->
+
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+<!ENTITY pref.search.title                "Verkkohaut">
+<!ENTITY legendHeader                     "Oletushakukone">
+<!ENTITY defaultSearchEngine.label        "Hakukone:">
+<!ENTITY defaultSearchEngine.accesskey    "a">
+
+<!ENTITY searchResults.label              "Haun tulokset">
+
+<!ENTITY openInTab.label                  "Avaa uusi välilehti sivupaneelista tehdyn haun tuloksille">
+<!ENTITY openInTab.accesskey              "v">
+<!ENTITY openSidebarSearchPanel.label     "Avaa sivupaneelin Haku-välilehti hakua tehtäessä">
+<!ENTITY openSidebarSearchPanel.accesskey "s">

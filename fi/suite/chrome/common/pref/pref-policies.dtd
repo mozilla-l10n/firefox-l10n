@@ -1,0 +1,19 @@
+
+<!ENTITY  pref.policies.title "Turvallisuuskäytännöt">
+
+<!ENTITY  zoneIntro.label     "Voit tehdä käytäntöjä, jotka määräävät, millä sivustoilla on lupa käyttää tiettyjä toimintoja, mukaanlukien komentosarjat sekä Java.">
+
+<!ENTITY  policies.label      "Käytännöt:">
+<!ENTITY  default.label       "Oletuskäytäntö">
+<!ENTITY  allWebsites.label   "Kaikki verkkosivustot">
+<!ENTITY  trusted.label       "Luotettavat sivustot">
+<!ENTITY  annoyances.label    "Häirikkösivustot">
+<!ENTITY  restricted.label    "Epäluotettavat sivustot">
+
+<!ENTITY  addSite.label       "Lisää sivusto…">
+<!ENTITY  addSite.accesskey   "L">
+<!ENTITY  settings.label      "Asetukset sivustolle ">
+<!ENTITY  settings.accesskey  "A">
+
+<!ENTITY  description.label   "Käytännön kuvaus:">
+ 

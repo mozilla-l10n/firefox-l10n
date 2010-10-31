@@ -1,0 +1,47 @@
+<!-- extracted from tasksOverlay.xul -->
+<!ENTITY navigatorCmd.label "Selain">
+<!ENTITY navigatorCmd.accesskey "S">
+<!ENTITY navigatorCmd.commandkey "1">
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label					"Composer">
+<!ENTITY editorCmd.accesskey				"C">
+<!ENTITY editorCmd.commandkey				"4">
+
+<!ENTITY errorConsoleCmd.label                                  "Virhekonsoli">
+<!ENTITY errorConsoleCmd.accesskey				"V">
+<!ENTITY errorConsoleCmd.commandkey				"j">
+
+<!ENTITY taskNavigator.tooltip  "Selain">
+<!ENTITY taskComposer.tooltip  "Composer">
+
+<!ENTITY webDevelopment.label "Verkkosivustojen kehittäjille">
+<!ENTITY webDevelopment.accesskey "r">
+
+<!ENTITY windowMenu.label "Ikkuna">
+<!ENTITY windowMenu.accesskey "I">
+
+<!ENTITY tasksMenu.label "Työkalut">
+<!ENTITY tasksMenu.accesskey "y"> 
+
+<!ENTITY datamanCmd.label "Tietojen hallinta">
+<!ENTITY datamanCmd.accesskey "T">
+
+<!ENTITY passwordManagerCmd.label "Salasanat">
+<!ENTITY passwordManagerCmd.accesskey "S">
+
+<!ENTITY passwordDisplayCmd.label "Salasanojen hallinta">
+<!ENTITY passwordDisplayCmd.accesskey "S">
+
+<!ENTITY passwordExpireCmd.label "Kirjaudu ulos">
+<!ENTITY passwordExpireCmd.accesskey "K">
+
+<!ENTITY downloadManagerCmd.label "Lataukset">
+<!ENTITY downloadManagerCmd.accesskey "L">
+<!ENTITY downloadManagerCmd.commandkey "j">
+
+<!ENTITY addonsManagerCmd.label "Lisäosat">
+<!ENTITY addonsManagerCmd.accesskey "i">
+<!ENTITY addonsManagerCmd.commandkey "a">
+
+<!ENTITY switchProfileCmd.label "Vaihda profiilia…">
+<!ENTITY switchProfileCmd.accesskey "a">

@@ -1,0 +1,26 @@
+<!ENTITY newMessageCmd.label             "Viesti">
+<!ENTITY newMessageCmd.accesskey         "V">
+<!ENTITY newMessageCmd.key               "M">
+
+<!ENTITY newContactCmd.label             "Yhteyshenkilö…">
+<!ENTITY newContactCmd.accesskey         "Y">
+
+<!ENTITY sendPage.label                  "Lähetä sivu…">
+<!ENTITY sendPage.accesskey              "h">
+
+<!ENTITY contextSendThisPage.label       "Lähetä sivu…">
+<!ENTITY contextSendThisPage.accesskey   "h">
+<!ENTITY contextSendThisLink.label       "Lähetä linkki…">
+<!ENTITY contextSendThisLink.accesskey   "ä">
+<!ENTITY contextSendImage.label          "Lähetä kuva…">
+<!ENTITY contextSendImage.accesskey      "h">
+<!ENTITY contextSendVideo.label          "Lähetä video…">
+<!ENTITY contextSendVideo.accesskey      "h">
+<!ENTITY contextSendAudio.label          "Lähetä ääni…">
+<!ENTITY contextSendAudio.accesskey      "h">
+<!ENTITY contextSendFrame.label          "Lähetä kehys…">
+<!ENTITY contextSendFrame.accesskey      "h">
+
+<!ENTITY sendLinkCmd.label               "Lähetä linkki…"> 
+<!ENTITY sendLinkCmd.accesskey           "ä">
+

@@ -1,0 +1,32 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Etsi kohteesta:">
+<!ENTITY searchHeading.accesskey     "E">
+<!ENTITY searchSubfolders.label      "Etsi alikansioista">
+<!ENTITY searchSubfolders.accesskey  "l">
+<!ENTITY searchLocalSystem.label     "Etsi paikallisesta järjestelmästä">
+<!ENTITY searchLocalSystem.accesskey "p">
+<!ENTITY resetButton.label           "Tyhjennä">
+<!ENTITY resetButton.accesskey       "T">
+<!ENTITY openButton.label            "Avaa">
+<!ENTITY openButton.accesskey        "A">
+<!ENTITY deleteButton.label          "Poista">
+<!ENTITY deleteButton.accesskey      "o">
+<!ENTITY searchDialogTitle.label     "Etsi viesteistä">
+<!ENTITY results.label               "Tulokset">
+<!ENTITY fileHereMenu.label          "Siirrä tänne">
+<!ENTITY fileHereMenu.accesskey      "S">
+<!ENTITY fileButton.label            "Siirrä">
+<!ENTITY fileButton.accesskey        "S">
+<!ENTITY goToFolderButton.label      "Avaa viestikansio">
+<!ENTITY goToFolderButton.accesskey  "v">
+<!ENTITY saveAsVFButton.label      "Tallenna hakukansiona">
+<!ENTITY saveAsVFButton.accesskey  "e">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Etsi kohteesta:">
+<!ENTITY abSearchHeading.accesskey   "E">
+<!ENTITY propertiesButton.label      "Ominaisuudet">
+<!ENTITY propertiesButton.accesskey  "m">
+<!ENTITY composeButton.label         "Kirjoita">
+<!ENTITY composeButton.accesskey     "K">
+<!ENTITY abSearchDialogTitle.label   "Etsi osoitekirjasta">

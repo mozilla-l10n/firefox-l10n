@@ -1,0 +1,134 @@
+==========================================================================
+
+= = = = = = = = = = =  SeaMonkeyn Lueminut-tiedosto  = = = = = = = = = = =
+
+==========================================================================
+
+SeaMonkey on sen mukana tulleen lisenssisopimuksen ehtojen alainen.
+
+Tässä Lueminut-tiedostossa on tiedot järjestelmävaatimuksista sekä
+Linux-version asennusohjeet.
+
+Lisätietoja SeaMonkeystä saat osoitteesta http://www.seamonkey.org/
+Jos haluat lähettää virheraportteja tai muuta palautetta, katso
+http://www.seamonkey-project.org/dev/get-involved ja tutustu Bugzillaan
+osoitteessa https://bugzilla.mozilla.org, mistä löydät tunnetut virheet, 
+virheraporttien kirjoitusohjeet yms. Voit myös saada ohjeita Bugzillan
+käyttöön IRC-kanavalta #mozillazine palvelimella irc.mozilla.org.
+
+
+==========================================================================
+
+                          SeaMonkeyn hankkiminen
+
+==========================================================================
+
+Voit ladata SeaMonkeyn yöllisen koosteen mozilla.orgin FTP-sivustolta
+osoitteessa
+
+  http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/
+
+Jos haluat aivan viimeisimmän koosteen, katso
+
+  http://www.seamonkey-project.org/dev/nightly
+
+Muista, että yölliset koosteet, joita SeaMonkeyn kehittäjät käyttävät
+testaamiseen, saattavat olla epävakaita. Jos etsit viimeistellympää
+versiota SeaMonkeystä, SeaMonkey-projekti julkaisee säännöllisesti
+julkaisukoosteita, jollaisen voit ladata osoitteesta
+
+  http://www.seamonkey-project.org/releases/
+
+Muista lukea SeaMonkeyn julkaisutiedoista tiedot tunnetuista käyttöön ja
+asennukseen liittyvistä ongelmista. Julkaisutiedot löytyvät edellämainitusta
+osoitteesta itse julkaisujen kanssa.
+
+
+==========================================================================
+
+                          Järjestelmävaatimukset
+
+==========================================================================
+
+* Linux
+
+   - Seuraavat (tai yhteensopivat) kirjastot vaaditaan:
+     glibc 2.3.2, X.org 1.x, GTK 2.x, fontconfig, pango 1.10, libstdc++ 6.
+   - SeaMonkeyn pitäisi toimia ainakin seuraavissa jakeluversioissa:
+     Red Hat Enterprise Linux 5, Fedora Core 6, ubuntu 6.10 ("Edgy"),
+     Debian "Lenny" (testaus) sekä openSUSE 10.2 (tai uudempi).
+   - Intel Pentium -luokan suoritin (500 MHz tai nopeampi suositeltu)
+   - 128 Mt keskusmuistia
+   - 50 Mt vapaata kiintolevytilaa
+
+
+==========================================================================
+
+                              Asennusohjeet
+
+==========================================================================
+
+Huomaa, että asennusohjeissa käytetään bash-shelliä. Jos et käytä bashia,
+muuta komentoja sen mukaan.
+
+Asenna tyhjään (uuteen) kansioon. Ongelmia voi seurata, jos asennat
+aiemmin julkaistun koosteen päälle.
+
+Huom. Näissä ohjeissa ei kerrota, kuinka SeaMonkey käännetään.
+Lisätiedot SeaMonkeyn kääntämisestä mozilla.orgin lähdekoodista
+saat osoitteesta
+
+  http://developer.mozilla.org/en/docs/Build_Documentation
+
+
+Asennusohjeet
+---------------------
+
+  Huom. Asennusohjelmaa ei ole saatavilla, mutta saman lopputuloksen saat
+  aikaan, jos purat .tar.bz2-tiedoston oletushakemistoon
+  (yleensä /usr/local/seamonkey).
+
+  Tee näin asentaaksesi SeaMonkeyn .tar.bz2-tiedostosta:
+
+  1. Luo hakemisto, jonka nimi on "seamonkey" (mkdir seamonkey) ja siirry
+     tuohon hakemistoon (cd seamonkey).
+
+  2. Napsauta linkkiä tiedostoon (seamonkey*.tar.bz2) sivustolla, jolta
+     olet lataamassa  SeaMonkeytä, ladataksesi sen seamonkey-hakemistoon.
+
+  3. Siirry seamonkey-hakemistoon (cd seamonkey) ja pura tiedosto
+     seuraavalla komennolla:
+
+       tar jxvf sea*.tar.bz2
+
+     Tämä luo hakemiston "seamonkey" seamonkey-hakemistoon.
+
+  4. Siirry seamonkey-hakemistoon (cd seamonkey).
+
+  5. Suorita SeaMonkey seuraavalla käynnistyskomentosarjalla:
+
+    ./seamonkey
+
+
+  Tee näin lisätäksesi SeaMonkeylle kuvakkeen GNOME-paneeliin:
+
+  1. Napsauta GNOME:n Valikko-painiketta, avaa Paneeli-valikko, avaa
+     Lisää paneeliin -alavalikko ja valitse Muun sovelluksen käynnistin.
+
+  2. Napsauta paneelissa olevaa SeaMonkeyn kuvaketta hiiren
+     oikealla painikkeella ja kirjoita seuraava komento:
+
+       hakemiston_nimi./seamonkey
+
+     missä hakemiston_nimi on sen kansion nimi, mihin latasit SeaMonkeyn.
+     Esim. SeaMonkeyn oletushakemiston nimi on /usr/local/seamonkey.
+
+  3. Kirjoita kuvakkeelle nimi ja kuvaus, jos haluat.
+
+  4. Napsauta kuvakepainiketta ja kirjoita kuvakkeen sijainniksi seuraava:
+
+       directory_name/chrome/icons/default/default.png
+
+     missä hakemiston_nimi on sen kansion nimi, mihin asensit SeaMonkeyn.
+     Esim. oletuskansio on
+     /usr/local/seamonkey/chrome/icons/default/default.png.

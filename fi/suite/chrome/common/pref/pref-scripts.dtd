@@ -1,0 +1,24 @@
+<!-- extracted from content/pref-scripts.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
+<!ENTITY pref.scripts.title              "Komentosarjat ja liitännäiset">
+
+<!ENTITY navigator.label                 "Selaimessa">
+<!ENTITY navigator.accesskey             "S">
+
+<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
+<!ENTITY enableJavaScript.label          "Ota JavaScript käyttöön">
+<!ENTITY allowScripts.label              "Komentosarjat voivat:">
+<!ENTITY allowScripts.accesskey          "K">
+<!ENTITY allowWindowMoveResize.label     "Siirtää ikkunoita tai muuttaa niiden kokoa">
+<!ENTITY allowWindowFlip.label           "Nostaa tai laskea ikkunoita">
+<!ENTITY allowWindowStatusChange.label   "Muuttaa tilarivin tekstiä">
+<!ENTITY allowWindowImageSrcChange.label "Vaihtaa kuvia">
+<!ENTITY allowContextmenuDisable.label   "Poistaa tai muuttaa ponnahdusvalikkoja">
+<!ENTITY allowHideStatusBar.label        "Piilottaa tilarivin">
+
+<!ENTITY enablePlugin.label              "Ota liitännäiset käyttöön">
+
+<!ENTITY whenPluginsRequired.label       "Kun uusia liitännäisiä tarvitaan">
+<!ENTITY displayNotification.label       "Näytä ilmoitus sivun yläreunassa">
+<!ENTITY displayNotification.accesskey   "N">
