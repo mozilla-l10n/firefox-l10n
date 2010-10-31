@@ -45,7 +45,7 @@
 <!ENTITY  adminDisabled.wizard.title      "Nun se puen guetar anovamientos">
 <!ENTITY  adminDisabled.warning.label     "Nun ye dable guetar anovamientos de los complementos incompatibles
                                            porque la instalación de software en &brandShortName; foi desactivada.
-                                           Por favor, contaute col alministrador del sistema pa obtener aida.">
+                                           Por favor, contaute col alministrador del sistema pa obtener ayuda.">
 
 <!ENTITY  versioninfo.wizard.title        "Comprobando compatibilidá de complementos">
 <!ENTITY  versioninfo.top.label           "Comprobando la compatiblidá de los sos complementos con esta

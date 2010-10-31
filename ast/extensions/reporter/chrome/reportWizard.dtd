@@ -2,7 +2,7 @@
 <!ENTITY reportWizard.title                         "Informar d'un sitiu web incompatible">
 
 <!ENTITY privacyNotice.label                        "Política de Privacidá">
-<!ENTITY reportWizardPrivacy.description            "Esta ferramienta permítete informar al equipu d'Evanxelismu ('evangelism team') sobre los sitios web que nun furrulen correcho en &brandShortName;, o qu'espulsen a &brandShortName;. D'esta miente puedes aidanos a asegurar la meyor esperiencia dable a los usuarios de &brandShortName;. Por favor, tómate un entrín pa lleer lo siguiente y asina deprender cómo usamos la información que vamos recoyer si escueyes participar.">
+<!ENTITY reportWizardPrivacy.description            "Esta ferramienta permítete informar al equipu d'Evanxelismu ('evangelism team') sobre los sitios web que nun furrulen correcho en &brandShortName;, o qu'espulsen a &brandShortName;. D'esta miente puedes ayudanos a asegurar la meyor esperiencia dable a los usuarios de &brandShortName;. Por favor, tómate un entrín pa lleer lo siguiente y asina deprender cómo usamos la información que vamos recoyer si escueyes participar.">
 <!ENTITY reportWizardMustAgree.description          "Pa siguir, tienes d'aceutar la política de privacidá anterior.">
 
 <!ENTITY dontShowPrivacyStatement.label             "Lleí y aceuto la política de privacidá anterior.">
