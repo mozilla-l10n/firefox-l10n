@@ -1,0 +1,15 @@
+<!ENTITY windowtitle.label              "Poikkeukset">
+<!ENTITY treehead.sitename.label        "Sivusto">
+<!ENTITY treehead.status.label          "Tila">
+<!ENTITY remove.label                   "Poista sivusto">
+<!ENTITY remove.accesskey               "o">
+<!ENTITY removeall.label                "Poista kaikki sivustot">
+<!ENTITY removeall.accesskey            "k">
+<!ENTITY address.label                  "Sivuston osoite:">
+<!ENTITY address.accesskey              "i">
+<!ENTITY block.label                    "Estä">
+<!ENTITY block.accesskey                "E">
+<!ENTITY session.label                  "Salli istunnon ajaksi">
+<!ENTITY session.accesskey              "a">
+<!ENTITY allow.label                    "Salli">
+<!ENTITY allow.accesskey                "S">

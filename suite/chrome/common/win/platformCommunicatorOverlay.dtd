@@ -1,0 +1,37 @@
+<!-- win -->
+<!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
+                         You may want to translate the Cmd.key and accesskey --> 
+
+<!ENTITY closeCmd.label                 "Sulje">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "S">
+
+<!ENTITY quitApplicationCmd.label       "Lopeta"> 
+<!ENTITY quitApplicationCmd.key         "Q"> 
+<!ENTITY quitApplicationCmd.accesskey   "p">
+
+<!ENTITY redoCmd.label                  "Tee uudelleen">  
+<!ENTITY redoCmd.key                    "Y">  
+<!ENTITY redoCmd.accesskey              "T">
+
+<!ENTITY findTypeTextCmd.key            "/">
+<!ENTITY findTypeLinksCmd.key           "'">
+
+<!ENTITY accel.emacs_conflict           "accel">
+
+<!-- Help viewer -->
+<!ENTITY openHelpCmd.label              "Ohjeen aiheet">
+<!ENTITY openHelpCmd.accesskey          "O">
+<!ENTITY openHelpCmd.key                "VK_F1">
+<!ENTITY helpForIEUsers.label           "Internet Explorerin käyttäjille">
+<!ENTITY helpForIEUsers.accesskey       "I">
+<!-- LOCALIZATION NOTE some localizations need to change the
+                       "Help" menu label on Windows -->
+<!ENTITY helpMenu.label                 "Ohje"> 
+<!ENTITY helpMenu.accesskey             "O">
+
+<!-- Key labels, for mousewheel prefs -->
+<!ENTITY ctrlKey.label                  "Ctrl">
+<!ENTITY altKey.label                   "Alt">
+<!ENTITY shiftKey.label                 "Vaihto">
+

@@ -1,0 +1,10 @@
+<!ENTITY defaultClient.title  "Oletusohjelma">
+<!ENTITY defaultClient.intro  "Käytä seuraavia &brandShortName;n osia oletusohjelmina:">
+
+<!ENTITY browser.label "Selain">
+<!ENTITY email.label "Sähköposti">
+<!ENTITY newsgroups.label "Keskusteluryhmät">
+<!ENTITY feeds.label "Syötteet">
+
+<!ENTITY checkOnStartup.label "Tee tämä tarkistus aina, kun &brandShortName; käynnistetään">
+<!ENTITY checkOnStartup.accesskey "a">

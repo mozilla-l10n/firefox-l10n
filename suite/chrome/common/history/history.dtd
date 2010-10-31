@@ -1,0 +1,53 @@
+<!-- history.xul, history-panel.xul, placesOverlay.xul -->
+
+<!ENTITY historyWindowTitle.label       "Sivuhistoria">
+<!ENTITY menuBar.tooltip                "Valikkopalkki">
+<!ENTITY searchBar.tooltip              "Hakupalkki">
+
+<!ENTITY search.placeholder             "Etsi">
+<!ENTITY search.key                     "f">
+<!ENTITY view.label                     "Näytä">
+
+<!ENTITY view.columns.label             "Sarakkeet">
+<!ENTITY view.columns.accesskey         "S">
+<!ENTITY view.sortBy.label              "Lajitteluperuste">
+<!ENTITY view.sortBy.accesskey          "L">
+<!ENTITY view.groupBy.label             "Ryhmitysperuste">
+<!ENTITY view.groupBy.accesskey         "R">
+
+<!ENTITY view.unsorted.label            "Ei lajiteltu">
+<!ENTITY view.unsorted.accesskey        "E">
+<!ENTITY view.sortAscending.label       "A > Z lajittelu">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A lajittelu">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY view.groupNone.label           "Ei mitään">
+<!ENTITY view.groupNone.accesskey       "E">
+<!ENTITY view.groupDay.label            "Päivä">
+<!ENTITY view.groupDay.accesskey        "P">
+<!ENTITY view.groupSite.label           "Sivusto">
+<!ENTITY view.groupSite.accesskey       "S">
+<!ENTITY view.groupDayAndSite.label     "Päivä ja sivusto">
+<!ENTITY view.groupDayAndSite.accesskey "ä">
+
+<!ENTITY cmd.open.label                 "Avaa">
+<!ENTITY cmd.open.accesskey             "A">
+<!ENTITY cmd.open_window.label          "Avaa uuteen ikkunaan">
+<!ENTITY cmd.open_window.accesskey      "i">
+<!ENTITY cmd.open_tab.label             "Avaa uuteen välilehteen">
+<!ENTITY cmd.open_tab.accesskey         "v">
+
+<!ENTITY bookmarkLinkCmd.label          "Lisää kohde kirjanmerkkeihin…">
+<!ENTITY bookmarkLinkCmd.accesskey      "L">
+<!ENTITY bookmarkLinksCmd.label         "Lisää kohteet kirjanmerkkeihin">
+<!ENTITY bookmarkLinksCmd.accesskey     "L">
+
+<!ENTITY col.title.label                "Otsikko">
+<!ENTITY col.title.accesskey            "O">
+<!ENTITY col.url.label                  "Osoite">
+<!ENTITY col.url.accesskey              "s">
+<!ENTITY col.lastvisit.label            "Viimeisin käynti">
+<!ENTITY col.lastvisit.accesskey        "V">
+<!ENTITY col.visitcount.label           "Käyntikertoja">
+<!ENTITY col.visitcount.accesskey       "K">

@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Lisää kuva viestin liitteeksi">
+<!ENTITY attachImageSource.accesskey     "L">
+
+<!ENTITY attachLinkSource.label          "Lisää tämän linkin lähde viestin liitteeksi">
+<!ENTITY attachLinkSource.accesskey      "i">

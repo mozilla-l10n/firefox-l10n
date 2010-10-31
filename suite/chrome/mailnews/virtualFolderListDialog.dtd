@@ -1,0 +1,6 @@
+<!ENTITY server.label "Tili: ">
+<!ENTITY server.accesskey "T">
+<!ENTITY virtualFolderListTitle.title        "Valitse kansio(t)">
+<!ENTITY virtualFolderDesc.label       "Valitse kansiot, joista haetaan:">
+
+

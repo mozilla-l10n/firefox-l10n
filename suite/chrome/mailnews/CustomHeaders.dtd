@@ -1,0 +1,7 @@
+<!ENTITY window.title "Muokkaa välitystietoja">
+<!ENTITY addButton.label "Lisää">
+<!ENTITY addButton.accesskey "L">
+<!ENTITY removeButton.label "Poista">
+<!ENTITY removeButton.accesskey "o">
+<!ENTITY newMsgHeader.label "Uusi välitystieto:">
+<!ENTITY newMsgHeader.accesskey "U">

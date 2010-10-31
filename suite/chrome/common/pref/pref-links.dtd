@@ -1,0 +1,17 @@
+<!ENTITY linksHeader.label "Linkkien avautuminen">
+<!ENTITY newWindow.label "Linkkien avautuminen">
+<!ENTITY newWindowDescription.label "Avaa uuteen ikkunaan avautuvaksi tarkoitetut linkit">
+<!ENTITY external.label "Muiden sovellusten avaamat linkit">
+<!ENTITY externalDescription.label "Avaa muiden sovellusten avaamat linkit">
+
+<!ENTITY openCurrent.label "Nykyiseen välilehteen tai ikkunaan">
+<!ENTITY newWindowGroupCurrent.accesskey "N">
+<!ENTITY externalGroupCurrent.accesskey "y">
+
+<!ENTITY openTab.label "Uuteen välilehteen nykyisessä ikkunassa">
+<!ENTITY newWindowGroupTab.accesskey "v">
+<!ENTITY externalGroupTab.accesskey "ä">
+
+<!ENTITY openWindow.label "Uuteen ikkunaan">
+<!ENTITY newWindowGroupWindow.accesskey "i">
+<!ENTITY externalGroupWindow.accesskey "k">

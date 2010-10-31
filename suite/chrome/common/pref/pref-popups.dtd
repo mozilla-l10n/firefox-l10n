@@ -1,0 +1,33 @@
+<!ENTITY pref.popups.title              "Ponnahdusikkunat">
+
+<!ENTITY pref.popups.caption            "Ponnahdusikkunat">
+
+<!ENTITY popupBlock.label               "Estä ponnahdusikkunat">
+<!ENTITY popupBlock.accesskey           "E">
+
+<!ENTITY popupExceptions.label          "Sallitut sivustot…">
+<!ENTITY popupExceptions.accesskey      "S">
+
+<!ENTITY whenBlock.description          "Kun ponnahdusikkuna on estetty:">
+<!ENTITY playSound.label                "Anna äänimerkki:">
+<!ENTITY playSound.accesskey            "n">
+<!ENTITY systemSound.label              "Tietokoneen piipperin kautta">
+<!ENTITY systemSound.accesskey          "T">
+<!ENTITY customSound.label              "Oma äänitiedosto">
+<!ENTITY customSound.accesskey          "O">
+
+<!ENTITY selectSound.label              "Selaa…">
+<!ENTITY selectSound.accesskey          "a">
+<!ENTITY previewSound.label             "Esikuuntele">
+<!ENTITY previewSound.accesskey         "k">
+<!ENTITY selectSound.title              "Valitse ponnahdusikkunan estoääni">
+<!ENTITY selectSound.filter             "Äänet">
+
+<!ENTITY displayIcon.label              "Näytä kuvake selaimen tilarivillä">
+<!ENTITY displayIcon.accesskey          "ä">
+
+<!ENTITY displayNotification.label      "Näytä ilmoitus sivun yläreunassa">
+<!ENTITY displayNotification.accesskey  "i">
+
+<!ENTITY popupNote.description          "Huom. Kaikkien ponnahdusikkunoiden estäminen saattaa estää joidenkin sivustojen, esim. verkkopankkien ja -kauppojen tärkeät toiminnallisuudet. Valitse Ohje, jos haluat lisätietoja siitä kuinka sallia tiettyjen sivustojen ponnahdusikkunat. Estetyt sivustot saattavat silti käyttää muita keinoja ponnahdusikkunoiden avaamiseksi.">
+

@@ -1,0 +1,118 @@
+<!--
+   -
+   - ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is The JavaScript Debugger.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Ginda, <rginda@netscape.com>, original author
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY MainWindow.title "JavaScript-virheidenetsijä">
+
+<!-- floating views -->
+<!ENTITY ViewFloat.tooltip      "Kiinnitä tai irroita näkymä napsauttamalla tästä">
+<!ENTITY ViewGrippy.tooltip     "Siirrä näkymää vetämällä otsikkoriviä">
+<!ENTITY ViewClose.tooltip      "Sulje näkymä napsauttamalla tästä">
+
+<!-- help menu -->
+<!ENTITY Help.commands     "Komentojen ohjeet">
+<!ENTITY Help.about        "Tietoja Venkmanista">
+
+<!-- toolips -->
+<!ENTITY DebugBar.tooltip "Virheidenetsintäpalkki">
+<!ENTITY MenuBar.tooltip  "Valikkopalkki">
+
+<!-- breakpoint view -->
+<!ENTITY Break.label        "Taukopisteet">
+<!ENTITY BreakCol0.label    "Nimi">
+<!ENTITY BreakCol1.label    "Rivi/PC">
+
+<!-- locals view -->
+<!ENTITY Locals.label       "Paikalliset muuttujat">
+<!ENTITY LocalsCol0.header  "Nimi">
+<!ENTITY LocalsCol1.header  "Tyyppi">
+<!ENTITY LocalsCol2.header  "Arvo">
+<!ENTITY LocalsCol3.header  "Liput">
+
+<!-- session view -->
+<!ENTITY Session.label      "Vuorovaikutteinen istunto">
+
+<!-- script view -->
+<!ENTITY Scripts.label         "Ladatut istunnot">
+<!ENTITY ScriptsSearch.label   "Etsi">
+<!ENTITY ScriptsSearch.tooltip "Tyhjennä haku napsauttamalla tästä">
+<!ENTITY ScriptsCol0.header    "Nimi">
+<!ENTITY ScriptsCol1.header    "Rivi">
+<!ENTITY ScriptsCol2.header    "Pituus">
+
+<!-- source view -->
+<!ENTITY Source.label       "Lähdekoodi">
+<!ENTITY SourceHeader.tip   "Lähdepalkki">
+<!ENTITY SourceCol0.display "Margin">
+<!ENTITY SourceCol1.display "Rivinumero">
+
+<!-- stack view -->
+<!ENTITY Stack.label        "Kutsupino">
+<!ENTITY StackCol0.header   "Nimi">
+<!ENTITY StackCol1.header   "Osoite">
+
+<!-- watch view -->
+<!ENTITY Watch.label        "Watches">
+<!ENTITY WatchCol0.header   "Nimi">
+<!ENTITY WatchCol1.header   "Tyyppi">
+<!ENTITY WatchCol2.header   "Arvo">
+<!ENTITY WatchCol3.header   "Liput">
+
+<!-- window view -->
+<!ENTITY Windows.label      "Avoimet ikkunat">
+<!ENTITY WindowsCol0.label  "Tiedosto">
+
+<!-- breakpoint properties window -->
+<!ENTITY BPProps.URL.label          "Osoite">
+<!ENTITY BPProps.Line.label         "Rivi">
+<!ENTITY BPProps.PC.label           "PC">
+<!ENTITY BPProps.FunctionName.label "Funktio">
+<!ENTITY BPProps.TriggerCount.label "Liipaisumäärä">
+<!ENTITY BPProps.OneTime.label      "Tyhjennä taukopiste ensimmäisen liipaisun jälkeen">
+<!ENTITY BPProps.Then.label         "Sitten …">
+<!ENTITY BPProps.ConditionalCheck.label      "Liipaisun jälkeen suorita…">
+<!ENTITY BPProps.NeverStopRadio.label        "Jatka tuloksesta huolimatta">
+<!ENTITY BPProps.AlwaysStopRadio.label       "Pysäytä tuloksesta huolimatta">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Pysäytä, jos tulos on tosi">
+<!ENTITY BPProps.EarlyReturnRadio.label  "Early return from caller with result">
+<!ENTITY BPProps.PassExceptionsCheck.label   "Pass exceptions to caller">
+<!ENTITY BPProps.LogResultCheck.label        "Log result">
+<!ENTITY BPProps.Apply.label  "Apply">
+<!ENTITY BPProps.Revert.label "Revert">
+<!ENTITY BPProps.Close.label  "Close">
+

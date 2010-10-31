@@ -1,0 +1,25 @@
+<!ENTITY pref.images.title              "Kuvat">
+
+<!ENTITY imageBlocking.label            "Kuvien hyväksymiskäytäntö">
+
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY imageDetails                   "Voit määrittää, miten &brandShortName; menettelee kuvien suhteen.">
+
+<!ENTITY accAllImagesRadio.label        "Lataa kaikki kuvat">
+<!ENTITY accAllImagesRadio.accesskey    "a">
+<!ENTITY accOrgImagesRadio.label        "Lataa vain samalta palvelimelta peräisin olevat kuvat">
+<!ENTITY accOrgImagesRadio.accesskey    "L">
+<!ENTITY disableImages.label            "Älä lataa kuvia">
+<!ENTITY disableImages.accesskey        "Ä">
+<!ENTITY viewImages.label               "Poikkeukset">
+<!ENTITY viewImages.accesskey           "P">
+<!ENTITY animLoopingTitle.label         "Toista animoidut kuvat">
+<!ENTITY animLoopAsSpecified.label      "Niin monta kertaa kuin kuva määrittää">
+<!ENTITY animLoopAsSpecified.accesskey  "N">
+<!ENTITY animLoopOnce.label             "Yhden kerran">
+<!ENTITY animLoopOnce.accesskey         "Y">
+<!ENTITY animLoopNever.label            "Älä toista">
+<!ENTITY animLoopNever.accesskey        "t">

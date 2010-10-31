@@ -1,0 +1,8 @@
+
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Viesti">
+<!ENTITY  newMessageCmd.accesskey         "V">
+ 
+<!ENTITY  newContactCmd.label             "Yhteyshenkilö…">
+<!ENTITY  newContactCmd.accesskey         "Y">
+ 

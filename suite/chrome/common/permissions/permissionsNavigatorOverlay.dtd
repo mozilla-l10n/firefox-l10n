@@ -1,0 +1,42 @@
+<!-- the following is for the task menu overlay -->
+
+<!ENTITY cookieMessageTitle.label "Evästeiden asetusluvat muuttuneet">
+<!ENTITY cookieDisplayCookiesCmd.label "Evästeiden hallinta">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "h">
+<!ENTITY cookieAllowCookiesCmd.label "Salli tämän sivuston evästeet">
+<!ENTITY cookieAllowCookiesCmd.accesskey "S">
+<!ENTITY cookieAllowCookiesMsg.label "Tältä sivustolta peräisin olevat evästeet sallitaan aina.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Salli tämän sivuston evästeet istunnon ajaksi">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "a">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Tältä sivustolta peräisin olevat evästeet sallitaan vain nykyisen istunnon ajaksi.">
+<!ENTITY cookieCookiesDefaultCmd.label "Käytä oletusasetuksia">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "K">
+<!ENTITY cookieCookiesDefaultMsg.label "Tältä sivustolta peräisin oleviin evästeisiin sovelletaan oletusasetuksia.">
+<!ENTITY cookieBlockCookiesCmd.label "Estä tämän sivuston evästeet">
+<!ENTITY cookieBlockCookiesCmd.accesskey "E">
+<!ENTITY cookieBlockCookiesMsg.label "Tältä sivustolta peräisin olevia evästeitä ei sallita.">
+
+<!ENTITY cookieImageMessageTitle.label "Kuvien latausluvat muuttuneet">
+<!ENTITY cookieDisplayImagesCmd.label "Poikkeukset">
+<!ENTITY cookieDisplayImagesCmd.accesskey "P">
+<!ENTITY cookieAllowImagesCmd.label "Salli tämän sivuston kuvat">
+<!ENTITY cookieAllowImagesCmd.accesskey "S">
+<!ENTITY cookieAllowImagesMsg.label "Tältä sivustolta peräisin olevat kuvat ladataan aina.">
+<!ENTITY cookieImagesDefaultCmd.label "Käytä oletusasetuksia">
+<!ENTITY cookieImagesDefaultCmd.accesskey "K">
+<!ENTITY cookieImagesDefaultMsg.label "Tältä sivustolta peräisin oleviin kuviin sovelletaan oletusasetuksia.">
+<!ENTITY cookieBlockImagesCmd.label "Estä tämän sivuston kuvat">
+<!ENTITY cookieBlockImagesCmd.accesskey "E">
+<!ENTITY cookieBlockImagesMsg.label "Tältä sivustolta peräisin olevia kuvia ei ladata.">
+
+<!ENTITY cookieAllowPopupsCmd.label "Salli tämän sivuston ponnahdusikkunat">
+<!ENTITY cookieAllowPopupsCmd.accesskey "S">
+<!ENTITY cookieManagePopups.label "Sallitut sivustot">
+<!ENTITY cookieManagePopups.accesskey "a">
+
+<!ENTITY cookieCookieManager.label "Evästeet">
+<!ENTITY cookieCookieManager.accesskey "E">
+<!ENTITY cookieImageManager.label "Kuvat">
+<!ENTITY cookieImageManager.accesskey "u">
+<!ENTITY cookiePopupManager.label "Ponnahdusikkunat">
+<!ENTITY cookiePopupManager.accesskey "P">

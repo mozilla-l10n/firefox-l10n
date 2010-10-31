@@ -1,0 +1,170 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Kirjoita: (ei aihetta)">
+
+<!ENTITY fromAddr.label "Lähettäjä:">
+<!ENTITY fromAddr.accesskey "ä">
+<!ENTITY subject.label  "Aihe:">
+<!ENTITY subject.accesskey "A">
+<!ENTITY attachments.label "Liitteet:">
+<!ENTITY attachments.accesskey "e">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY newMessage.label "Viesti">  
+<!ENTITY newMessage.accesskey "V">  
+<!ENTITY saveCmd.label "Tallenna">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "T">
+<!ENTITY saveAsCmd.label "Tallenna nimellä">
+<!ENTITY saveAsCmd.accesskey "n">
+<!ENTITY saveAsFileCmd.label "Tiedostona…">
+<!ENTITY saveAsFileCmd.accesskey "T">
+<!ENTITY saveAsDraftCmd.label "Luonnoksena">
+<!ENTITY saveAsDraftCmd.accesskey "L">
+<!ENTITY saveAsTemplateCmd.label "Mallipohjana">
+<!ENTITY saveAsTemplateCmd.accesskey "M">
+<!ENTITY attachMenu.label "Lisää liite">
+<!ENTITY attachMenu.accesskey "L">
+<!ENTITY attachFileCmd.label "Tiedosto(ja)…">
+<!ENTITY attachFileCmd.accesskey "T">
+<!ENTITY attachPageCmd.label "Verkkosivu…">
+<!ENTITY attachPageCmd.accesskey "V">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Käyntikortti (vCard)">
+<!ENTITY attachVCardCmd.accesskey "K">
+<!ENTITY sendNowCmd.label "Lähetä nyt">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "ä">
+<!ENTITY sendLaterCmd.label "Lähetä myöhemmin">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "m">
+<!ENTITY printSetupCmd.label "Sivun asetukset…">
+<!ENTITY printSetupCmd.accesskey "e">
+<!ENTITY printCmd.label "Tulosta…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "o">
+
+<!-- Edit menu items -->
+<!ENTITY editRewrapCmd.label "Rivitä uudelleen">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey  "R">
+<!ENTITY findCmd.label "Etsi ja korvaa…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "E">
+<!ENTITY findAgainCmd.label "Etsi seuraava">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "s">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Etsi edellinen">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "d">
+<!ENTITY accountManagerCmd.label "Tilien asetukset…">
+<!ENTITY accountManagerCmd.accesskey "u">
+
+<!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "Postipalkki">
+<!ENTITY showComposeToolbarCmd.accesskey "P">
+<!ENTITY showFormatToolbarCmd.label "Muotoilupalkki">
+<!ENTITY showFormatToolbarCmd.accesskey "M">
+
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "Muotoilu">
+<!ENTITY formatMenu.accesskey "M">
+
+<!-- Options menu items -->
+<!ENTITY optionsMenu.label "Valinnat">
+<!ENTITY optionsMenu.accesskey "V">
+
+<!ENTITY quoteCmd.label "Lainaa viestiä">
+<!ENTITY quoteCmd.accesskey "L">
+<!ENTITY selectAddressCmd.label "Valitse osoitteet…">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "a">
+
+<!ENTITY checkSpellingCmd2.label "Oikolue…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "u">
+<!ENTITY enableInlineSpellChecker.label "Oikolue kirjoitettaessa">
+<!ENTITY enableInlineSpellChecker.accesskey "s">
+
+<!ENTITY priorityMenu.label "Tärkeysaste">
+<!ENTITY priorityMenu.accesskey "T">
+<!ENTITY lowestPriorityCmd.label "Matalin">
+<!ENTITY lowestPriorityCmd.accesskey "M">
+<!ENTITY lowPriorityCmd.label "Matala">
+<!ENTITY lowPriorityCmd.accesskey "a">
+<!ENTITY normalPriorityCmd.label "Normaali">
+<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY highPriorityCmd.label "Korkea">
+<!ENTITY highPriorityCmd.accesskey "o">
+<!ENTITY highestPriorityCmd.label "Korkein">
+<!ENTITY highestPriorityCmd.accesskey "K">
+
+<!ENTITY returnReceiptMenu.label "Vastaanottokuittaus">
+<!ENTITY returnReceiptMenu.accesskey "V">
+<!ENTITY outputFormatMenu.label "Muotoilu">
+<!ENTITY outputFormatMenu.accesskey  "u">
+<!ENTITY autoFormatCmd.label "Tunnista automaattisesti">
+<!ENTITY autoFormatCmd.accesskey "T">
+<!ENTITY plainTextFormatCmd.label "Vain tavallinen teksti">
+<!ENTITY plainTextFormatCmd.accesskey "V">
+<!ENTITY htmlFormatCmd.label "Vain muotoiltu teksti (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "m">
+<!ENTITY bothFormatCmd.label "Tavallinen ja muotoiltu teksti (HTML)">
+<!ENTITY bothFormatCmd.accesskey "a">
+
+<!ENTITY fileCarbonCopyCmd.label "Lähetä kopio kohteeseen">
+<!ENTITY fileCarbonCopyCmd.accesskey "L">
+<!ENTITY fileHereMenu.label "Siirrä tänne">
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!-- Toolbar items -->
+<!ENTITY sendButton.label "Lähetä">
+<!ENTITY addressButton.label "Osoite">
+<!ENTITY attachButton.label "Lisää liite">
+<!ENTITY spellingButton.label "Oikolue">
+<!ENTITY saveButton.label "Tallenna">
+<!ENTITY stopButton.label "Pysäytä">
+
+<!--tooltips-->
+<!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+<!ENTITY addressBar.tooltip "Osoitepalkki">
+<!ENTITY formatToolbar.tooltip "Muotoilupalkki">
+<!ENTITY sendButton.tooltip "Lähetä tämä viesti nyt"> 
+<!ENTITY sendlaterButton.tooltip "Lähetä tämä viesti myöhemmin"> 
+<!ENTITY addressButton.tooltip "Valitse vastaanottaja osoitekirjasta"> 
+<!ENTITY attachButton.tooltip "Lisää liitetiedosto tähän viestiin"> 
+<!ENTITY saveButton.tooltip "Tallenna tämä viesti"> 
+<!ENTITY stopButton.tooltip "Keskeytä lataus"> 
+
+<!-- context menu items -->
+<!ENTITY spellCheckNoSuggestions.label "(Ei ehdotuksia)">
+<!ENTITY spellCheckIgnoreWord.label "Ohita sana">
+<!ENTITY spellCheckIgnoreWord.accesskey "O">
+<!ENTITY spellCheckAddToDictionary.label "Lisää sanastoon">
+<!ENTITY spellCheckAddToDictionary.accesskey "s">
+<!ENTITY undo.label "Kumoa">
+<!ENTITY undo.accesskey "m">
+<!ENTITY cut.label "Leikkaa">
+<!ENTITY cut.accesskey "L">
+<!ENTITY copy.label "Kopioi">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Liitä">
+<!ENTITY paste.accesskey "i">
+<!ENTITY pasteQuote.label "Liitä lainauksena">
+<!ENTITY pasteQuote.accesskey "t">
+
+<!ENTITY openAttachment.label "Avaa">
+<!ENTITY openAttachment.accesskey "A">
+<!ENTITY delete.label "Poista">
+<!ENTITY delete.accesskey "o">
+<!ENTITY renameAttachment.label "Nimeä uudelleen…">
+<!ENTITY renameAttachment.accesskey "N">
+<!ENTITY selectAll.label "Valitse kaikki">
+<!ENTITY selectAll.accesskey "V">
+<!ENTITY attachFile.label "Lisää liitetiedosto(ja)…">
+<!ENTITY attachFile.accesskey "L">
+<!ENTITY attachPage.label "Lisää verkkosivu liitetiedostoksi">
+<!ENTITY attachPage.accesskey "L">

@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Noudetaan varmenteita">
+<!ENTITY info.message "Etsitään vastaanottajien varmenteita hakemistosta. Tämä saattaa viedä muutaman minuutin.">
+<!ENTITY stop.label "Lopeta etsiminen">

@@ -1,0 +1,26 @@
+<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
+<!ENTITY pref.appearance.title "Ulkoasu">
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY onStartLegend.label                    "Kun &brandShortName; käynnistyy, avaa">
+<!ENTITY navCheck.label                         "Selain">
+<!ENTITY navCheck.accesskey                     "S">
+<!ENTITY showToolsLegend.label                  "Näytä työkalupalkeissa">
+<!ENTITY picsNtextRadio.label                   "Kuvakkeet ja teksti">
+<!ENTITY picsNtextRadio.accesskey               "K">
+<!ENTITY picsOnlyRadio.label                    "Kuvakkeet">
+<!ENTITY picsOnlyRadio.accesskey                "u">
+<!ENTITY textonlyRadio.label                    "Teksti">
+<!ENTITY textonlyRadio.accesskey                "T">
+<!ENTITY showHideTooltips.label                 "Näytä työkaluvihjeet">
+<!ENTITY showHideTooltips.accesskey             "N">
+
+<!ENTITY pref.locales.title                     "Ohjelman kieli">
+<!ENTITY selectLocale.label                     "Valitse ohjelman kieli:">
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLangChange.label              "Kieli vaihtuu, kun käynnistät &brandShortName;n uudelleen.">
+

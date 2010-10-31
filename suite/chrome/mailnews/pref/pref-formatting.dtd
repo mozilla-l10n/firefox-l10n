@@ -1,0 +1,73 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.formatting.title        "Lähetysmuoto">
+<!ENTITY sendMaildesc.label           "Lähetettäessä muotoiltua (HTML) viestiä yhdelle tai useammalle vastaanottajalle, joiden yhteystiedoissa lukee, että he eivät pysty vastaanottamaan viestejä HTML-muodossa:">
+<!ENTITY askMe.label                  "Kysy, mitä tehdään">
+<!ENTITY askMe.accesskey              "K">
+<!ENTITY convertPlain.label           "Muunna viesti pelkäksi tekstiksi">
+<!ENTITY convertPlain.accesskey       "M">
+<!ENTITY sendHTML.label               "Lähetä viesti HTML:nä joka tapauksessa">
+<!ENTITY sendHTML.accesskey           "L">
+<!ENTITY sendBoth.label               "Lähetä viesti sekä pelkkä teksti- että HTML-muodossa">
+<!ENTITY sendBoth.accesskey           "ä">
+<!ENTITY override.label               "Voit korvata tämän asetuksen yksittäisten viestien kohdalla Valinnat-valikosta, kun kirjoitat viestiä.">
+
+<!-- Html and Plain Text Domains  -->
+<!ENTITY domain.title                 "HTML- ja pelkkä teksti -verkkoalueet">
+<!ENTITY domaindesc.label             "Viesti lähetetään automaattisesti oikeassa muodossa niihin osoitteisiin, jotka kuuluvat johonkin alla olevista verkkoalueista.">
+<!ENTITY HTMLdomaintitle.label        "HTML-verkkoalueet">
+<!ENTITY HTMLdomaintitle.accesskey    "T">
+<!ENTITY PlainTexttitle.label         "Pelkkä teksti -verkkoalueet">
+<!ENTITY PlainTexttitle.accesskey     "P">
+<!ENTITY AddButton.label              "Lisää…">
+<!ENTITY AddHtmlDomain.accesskey      "i">
+<!ENTITY AddPlainText.accesskey       "s">
+<!ENTITY DeleteButton.label           "Poista">
+<!ENTITY DeleteHtmlDomain.accesskey   "P">
+<!ENTITY DeletePlainText.accesskey    "o">
+
+<!-- Add Domain Name -->
+<!ENTITY add.htmltitle                "Lisää HTML-verkkoalue">
+<!ENTITY add.htmldomain               "HTML-verkkoalue:">
+<!ENTITY add.plaintexttitle           "Lisää pelkkä teksti -verkkoalue">
+<!ENTITY add.plaintextdomain          "Pelkkä teksti -verkkoalue:">
+
+<!ENTITY domainnameError.title        "Virheellinen verkkoalueen nimi">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY invalidEntryError.label      "Verkkoalueen nimi @string@ on virheellinen. Oikeanmuotoisissa verkkoalueiden nimissä on vähintään yksi piste ja sen molemmilla puolilla on alfanumeerisia merkkejä.">

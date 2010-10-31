@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
+<!ENTITY pref.applications.title "Apuohjelmat">
+
+<!ENTITY typeColumn.label        "Sisältötyyppi">
+<!ENTITY typeColumn.accesskey    "S">
+
+<!ENTITY actionColumn2.label     "Toiminto">
+<!ENTITY actionColumn2.accesskey "T">
+
+<!ENTITY search.placeholder      "Etsi">

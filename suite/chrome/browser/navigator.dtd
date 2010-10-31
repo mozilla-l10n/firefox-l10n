@@ -1,0 +1,173 @@
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY tabCmd.label "Välilehti">
+<!ENTITY tabCmd.accesskey "ä">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Avaa sijainti…">
+<!ENTITY openCmd.accesskey "A">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Avaa tiedosto…">
+<!ENTITY openFileCmd.accesskey "d">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY recentTabs.label "Suljetut välilehdet">
+<!ENTITY recentTabs.accesskey "j">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Suljetut ikkunat">
+<!ENTITY recentWindows.accesskey "n">
+<!ENTITY recentWindows.commandkey "y">
+<!ENTITY editPageCmd.label "Muokkaa sivua">
+<!ENTITY editPageCmd.accesskey "v">
+<!ENTITY editPageCmd.commandkey "e">
+
+<!ENTITY uploadFile.label "Lähetä tiedosto…">
+<!ENTITY uploadFile.accesskey "L">
+
+<!ENTITY printSetupCmd.label "Sivun asetukset…">
+<!ENTITY printSetupCmd.accesskey "e">
+<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
+<!ENTITY printPreviewCmd.accesskey "k">
+<!ENTITY printCmd.label "Tulosta…">
+<!ENTITY printCmd.accesskey "o">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY viewMenu.label "Näytä">
+<!ENTITY viewMenu.accesskey "N">
+
+<!ENTITY toolbarsCmd.label "Työkalupalkit">
+<!ENTITY toolbarsCmd.accesskey "T">
+<!ENTITY navbarCmd.label "Navigointipalkki">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "Kirjanmerkkipalkki">
+<!ENTITY personalbarCmd.accesskey "K">
+<!ENTITY tabbarCmd.label "Välilehtipalkki">
+<!ENTITY tabbarCmd.accesskey "V">
+<!ENTITY taskbarCmd.label "Tilarivi">
+<!ENTITY taskbarCmd.accesskey "T">
+<!ENTITY componentbarCmd.label "Komponenttipalkki">
+<!ENTITY componentbarCmd.accesskey "o">
+
+<!ENTITY useStyleSheetMenu.label "Sivun tyylit">
+<!ENTITY useStyleSheetMenu.accesskey "v">
+<!ENTITY useStyleSheetNone.label "Ei tyylimäärittelyjä">
+<!ENTITY useStyleSheetNone.accesskey "E">
+<!ENTITY useStyleSheetPersistentOnly.label "Oletustyyli">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "O">
+<!ENTITY pageSourceCmd.label "Sivun lähdekoodi">
+<!ENTITY pageSourceCmd.accesskey "n">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Sivun tiedot">
+<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Kokoruututila">
+<!ENTITY fullScreenCmd.accesskey "K">
+<!ENTITY translateMenu.label "Käännä sivu">
+<!ENTITY translateMenu.accesskey "K">
+
+<!ENTITY closeOtherTabs.label "Sulje muut välilehdet">
+<!ENTITY closeOtherTabs.accesskey "m">
+<!ENTITY closeWindow.label "Sulje ikkuna">
+<!ENTITY closeWindow.accesskey "i">
+
+<!ENTITY minimizeButton.tooltip       "Pienennä">
+<!ENTITY restoreButton.tooltip        "Palauta">
+
+<!ENTITY applyTheme.label	"Käytä teemaa"> 
+<!ENTITY applyTheme.accesskey	"e"> 
+<!ENTITY getNewThemesCmd.label "Hae uusia teemoja">
+<!ENTITY getNewThemesCmd.accesskey "H">
+<!ENTITY findOnCmd.label "Etsi tältä sivulta…">
+<!ENTITY findOnCmd.accesskey "E">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Etsi seuraava">
+<!ENTITY findAgainCmd.accesskey "s">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Etsi edellinen">
+<!ENTITY findPrevCmd.accesskey "d">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!ENTITY searchInternetCmd.label "Verkkohaku">
+<!ENTITY searchInternetCmd.accesskey "V">
+<!ENTITY searchInternet.commandKey "s">
+
+<!ENTITY clearPrivateDataCmd.label "Poista yksityistietoja…">
+<!ENTITY clearPrivateDataCmd.accesskey "o">
+
+<!ENTITY goMenu.label "Sivuhistoria">
+<!ENTITY goMenu.accesskey "S">
+<!ENTITY goHomeCmd.label "Aloitussivu">
+<!ENTITY goHomeCmd.accesskey "A">
+
+<!ENTITY bookmarksMenu.label "Kirjanmerkit">
+<!ENTITY bookmarksMenu.accesskey "K">
+<!ENTITY addCurPageCmd.label "Lisää sivu kirjanmerkkeihin">
+<!ENTITY addCurPageCmd.accesskey "L">
+<!ENTITY addCurPageAsCmd.label "Tallenna kirjanmerkki…">
+<!ENTITY addCurPageAsCmd.accesskey "T">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Lisää välilehdet kirjanmerkkeihin…">
+<!ENTITY addCurTabsAsCmd.accesskey "v">
+<!ENTITY manBookmarksCmd.label "Järjestele kirjanmerkkejä…">
+<!ENTITY manBookmarksCmd.accesskey "ä">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Tilaa sivu">
+<!ENTITY feedsMenu.accesskey "i">
+<!ENTITY emptyItem.label "(tyhjä)">
+
+<!ENTITY menuBar.tooltip                  "Valikkopalkki">
+<!ENTITY personalToolbar.tooltip          "Kirjanmerkkipalkki">
+<!ENTITY navigationToolbar.tooltip        "Navigointipalkki">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label             "Edellinen">
+<!ENTITY backButton.tooltip           "Siirry sivu taaksepäin">
+<!ENTITY forwardButton.label          "Seuraava">
+<!ENTITY forwardButton.tooltip        "Siirry sivu eteenpäin">
+<!ENTITY reloadButton.label           "Päivitä">
+<!ENTITY reloadButton.tooltip         "Päivitä avoin sivu">
+<!ENTITY stopButton.label             "Pysäytä">
+<!ENTITY stopButton.tooltip           "Lopeta sivun lataus">
+<!ENTITY searchButton.label           "Hae">
+<!ENTITY searchButton.tooltip         "Kirjoita hakusana kenttään ja paina Hae">
+<!ENTITY goButton.label               "Siirry">
+<!ENTITY goButton.tooltip             "Kirjoita osoite kenttään ja paina Siirry">
+<!ENTITY printButton.label            "Tulosta">
+<!ENTITY printButton.tooltip          "Tulosta sivu">
+
+<!ENTITY throbber.tooltip             "Siirry &vendorShortName;n kotisivulle">
+
+<!ENTITY locationBar.tooltip          "Kirjoita osoite, hakusana tai pikakomento">
+<!ENTITY locationBar.accesskey        "O">
+<!ENTITY locationBar.title            "Osoite">
+
+<!ENTITY proxyIcon.tooltip            "Vedä ja pudota tämä kuvake luodaksesi linkin tähän sivuun">
+
+<!-- Toolbar items --> 
+<!ENTITY  bookmarksButton.label       "Kirjanmerkit">
+<!ENTITY  bookmarksButton.tooltip     "Kirjanmerkkilista">
+<!ENTITY  homeButton.label            "Aloitussivu">
+<!ENTITY  bookmarksToolbarItem.label  "Kirjanmerkkipalkin kirjanmerkit">
+<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+
+<!-- Statusbar -->
+<!ENTITY  statusText.label            "Valmis">
+
+<!ENTITY historyCmd.label           "Näytä sivuhistoria">  
+<!ENTITY historyCmd.accesskey       "N">
+<!ENTITY history.commandKey         "h">
+
+<!ENTITY popupIcon.tooltiptext      "Älä enää estä tämän sivuston ponnahdusikkunoita">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Vaihda sivun suuntaa">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "V">

@@ -1,0 +1,38 @@
+<!ENTITY pref.cookies.title             "Evästeet">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label             "Evästeiden hyväksymiskäytäntö">
+
+<!ENTITY accAllCookiesRadio.label       "Salli kaikki evästeet">
+<!ENTITY accAllCookiesRadio.accesskey   "a">
+
+<!ENTITY accOrgCookiesRadio.label       "Salli vain samalta palvelimelta peräisin olevat evästeet">
+<!ENTITY accOrgCookiesRadio.accesskey   "S">
+
+<!ENTITY disableCookies.label           "Estä kaikki evästeet">
+<!ENTITY disableCookies.accesskey       "E">
+
+<!ENTITY cookieRetentionPolicy.label    "Evästeiden säilyttämiskäytäntö">
+
+<!ENTITY acceptNormally.label           "Säilytä evästeet normaalisti">
+<!ENTITY acceptNormally.accesskey       "ä">
+
+<!ENTITY acceptForSession.label         "Säilytä evästeitä vain yhden istunnon ajan">
+<!ENTITY acceptForSession.accesskey     "i">
+
+<!ENTITY acceptforNDays.label           "Säilytä evästeitä">
+<!ENTITY acceptforNDays.accesskey       "l">
+<!ENTITY days.label                     "päivää">
+
+<!ENTITY warnAboutCookies.label         "Kysy joka evästeestä erikseen">
+<!ENTITY warnAboutCookies.accesskey     "K">
+<!ENTITY forCurrentSession.label        "paitsi istuntoevästeistä">
+<!ENTITY forCurrentSession.accesskey    "p">
+
+<!ENTITY manageCookies.label            "Evästeiden ja sivustojen hallinta">
+<!ENTITY manageCookiesDescription.label "Voit tarkastella asetettuja evästeitä ja asettaa sivustokohtaiset käytännöt evästeiden sallimiselle ja estämiselle. Sivustokohtaiset asetukset korvaavat yllä olevat.">
+
+<!ENTITY viewCookies.label              "Evästeiden hallinta">
+<!ENTITY viewCookies.accesskey          "v">
+

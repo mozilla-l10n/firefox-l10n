@@ -1,0 +1,15 @@
+<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
+
+<!ENTITY pref.content.title                     "Sisältö">
+<!ENTITY pref.content.description               "Nämä asetukset vaikuttavat verkkosivujen ja sähköpostiviestien ulkoasuun.">
+<!ENTITY siteIcons.label                        "Sivustojen kuvakkeet">
+<!ENTITY useSiteIcons.label                     "Näytä sivustojen kuvakkeet">
+<!ENTITY useSiteIcons.accesskey                 "N">
+<!ENTITY useFavIcons.label                      "Etsi sivuston kuvaketta kaikista mahdollisista paikoista, jos sellaista ei ole määritetty">
+<!ENTITY useFavIcons.accesskey                  "E">
+<!ENTITY enableAutomaticImageResizing.label     "Skaalaa suuret kuvat mahtumaan selainikkunaan">
+<!ENTITY enableAutomaticImageResizing.accesskey "S">
+<!ENTITY useSmoothScroll.label                  "Vieritä sivua portaattomasti">
+<!ENTITY useSmoothScroll.accesskey              "V">
+<!ENTITY textZoomOnly.label                     "Muuta vain tekstin kokoa">
+<!ENTITY textZoomOnly.accesskey                 "M">

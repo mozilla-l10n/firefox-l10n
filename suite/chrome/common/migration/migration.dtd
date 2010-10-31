@@ -1,0 +1,26 @@
+<!ENTITY migrationWizard.title           "Profiilin tuonti">
+
+<!ENTITY importAllFrom.label             "Tuo kaikki tiedot ohjelmasta:">
+<!ENTITY importBookmarksFrom.label       "Tuo kirjanmerkit ohjelmasta:">
+
+<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 tai Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey   "S">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
+<!ENTITY importFromFile.label            "Tiedosto">
+<!ENTITY importFromFile.accesskey        "i">
+<!ENTITY importFromNothing.label         "Älä tuo mitään">
+<!ENTITY importFromNothing.accesskey     "l">
+
+<!ENTITY importSource.title              "Tuo asetukset ja tiedot ohjelmasta">
+<!ENTITY importItems.title               "Tuotavat tiedot">
+<!ENTITY importItems.label               "Valitse tuotavat tiedot:">
+
+<!ENTITY selectProfile.title             "Valitse profiili">
+<!ENTITY selectProfile.label             "Seuraavat profiilit voidaan tuoda ohjelmista:">
+
+<!ENTITY migrating.title                 "Tuodaan…">
+<!ENTITY migrating.label                 "Seuraavia tietoja tuodaan…">
+
+<!ENTITY done.title                      "Tuonti valmis">
+<!ENTITY done.label                      "Seuraavat tiedot tuotiin:">
