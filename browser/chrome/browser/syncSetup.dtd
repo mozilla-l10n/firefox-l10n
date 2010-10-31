@@ -79,7 +79,7 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "mia cronologia">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "mes pled-clav">
+<!ENTITY engine.passwords.label     "mes pleds-clav">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "mias preferenzass">
 <!ENTITY engine.prefs.accesskey     "S">
