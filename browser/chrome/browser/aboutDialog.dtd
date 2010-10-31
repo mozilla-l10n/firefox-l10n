@@ -5,7 +5,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "globaalse kommuuni ">
+<!ENTITY community.creditsLink      "üleilmse kogukonna ">
 <!ENTITY community.end2             " poolt, et teha internet paremaks. Me usume, et internet peaks olema avatud, avalik ja ilma igasuguste piiranguteta ligipääsetav kõigile.">
 
 <!ENTITY contribute.start           "Kõlab huvitavalt? ">
@@ -20,7 +20,7 @@
 <!ENTITY bottomLinks.rights         "Kasutaja õigustest">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Privaatsuse reeglid">
+<!ENTITY bottomLinks.privacy        "Privaatsusreeglid">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Uuenduste olemasolu kontrollimine…">

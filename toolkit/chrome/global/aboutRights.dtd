@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction            "ltr">
 <!ENTITY rights.pagetitle                   "about:rights">
 <!ENTITY rights.intro-header                "Sinu õigustest">
-<!ENTITY rights.intro                       "&brandFullName; on vaba ja avatud koodiga tarkvara, mille on loonud kommuun, mis moodustub tuhandetest inimestest üle maailma. On mõned asjad, mida sa peaksid teadma:">
+<!ENTITY rights.intro                       "&brandFullName; on vaba ja avatud koodiga tarkvara, mille on loonud kogukond, mis moodustub tuhandetest inimestest üle maailma. On mõned asjad, mida sa peaksid teadma:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3c               ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded      "Kõik selle tootega seonduvad privaatsuse reeglid peaks olema ära toodud siin.">
+<!ENTITY rights.intro-point3-unbranded      "Kõik selle tootega seonduvad privaatsusreeglid peaks olema ära toodud siin.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a              "&brandShortName; pakub ka lisanduvaid veebipõhiseid infoteenuseid; siiski ei garanteeri me, et need on 100&#37; täpsed või veavabad. Rohkem teavet, sealhulgas nende teenuste keelamise kohta, võib leida ">
