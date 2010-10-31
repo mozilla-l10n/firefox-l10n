@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "Päivitä">
 <!ENTITY stop.label            "Pysäytä">
 <!ENTITY go.label              "Siirry">
-<!ENTITY openLocation.label    "Avaa osoite">
 <!ENTITY star.label            "Merkitse tähdellä">
 
 <!ENTITY newtab.label          "Uusi välilehti">
@@ -20,21 +19,15 @@
 <!ENTITY noSuggestions.label   "(Ei ehdotuksia)">
 <!ENTITY addToDictionary.label "Lisää sanastoon">
 
+<!ENTITY allPagesHeader.label      "Kaikki sivut">
 <!ENTITY bookmarksHeader.label     "Kirjanmerkit">
-<!ENTITY bookmarksManage.label     "Järjestele">
+<!ENTITY historyHeader.label       "Sivuhistoria">
+<!ENTITY desktopHeader.label       "Työpöytä">
 
-<!ENTITY editBookmarkRemove.label  "Poista">
 <!ENTITY editBookmarkDone.label    "Valmis">
 <!ENTITY editBookmarkTags.label    "Lisää avainsanoja">
 
-<!ENTITY helperApp.prompt          "Mitä kohteelle tehdään">
-<!ENTITY helperApp.open            "Avaa">
-<!ENTITY helperApp.save            "Tallenna">
-<!ENTITY helperApp.nothing         "Ei mitään">
-
-<!ENTITY formHelper.previous       "Edellinen">
-<!ENTITY formHelper.next           "Seuraava">
-<!ENTITY formHelper.done           "Valmis">
+<!ENTITY selectHelper.done         "Valmis">
 
 <!ENTITY addonsHeader.label        "Lisäosat">
 <!ENTITY addonsLocal.label         "Lisäosasi">
@@ -63,6 +56,7 @@
 <!ENTITY downloadResume.label      "Jatka">
 <!ENTITY downloadRetry.label       "Yritä uudelleen">
 <!ENTITY downloadRemove.label      "Poista">
+<!ENTITY downloadDelete.label      "Poista tiedosto">
 <!ENTITY downloadFailed.label      "Epäonnistui">
 
 <!ENTITY noResults.label           "Ei osumia">
@@ -93,5 +87,22 @@
 <!ENTITY consoleErrLine.label      "Rivi:">
 <!ENTITY consoleErrColumn.label    "Sarake:">
 
-<!ENTITY contextOpenInNewTab.label "Avaa linkki välilehteen">
-<!ENTITY contextSaveImage.label    "Tallenna kuva">
+<!ENTITY contextOpenInNewTab.label    "Avaa linkki välilehteen">
+<!ENTITY contextSaveLink.label        "Tallenna linkki">
+<!ENTITY contextSaveImage.label       "Tallenna kuva">
+<!ENTITY contextShareLink.label       "Jaa linkki">
+<!ENTITY contextShareImage.label      "Jaa kuva">
+<!ENTITY contextSaveVideo.label       "Tallenna video">
+<!ENTITY contextShareVideo.label      "Jaa video">
+<!ENTITY contextPlayMedia.label       "Toista">
+<!ENTITY contextPauseMedia.label      "Pysäytä">
+<!ENTITY contextFullScreen.label      "Kokoruutu">
+<!ENTITY contextEditBookmark.label    "Muokkaa">
+<!ENTITY contextRemoveBookmark.label  "Poista">
+
+<!ENTITY pageactions.saveas.pdf      "Tallenna PDF-tiedostona">
+<!ENTITY pageactions.share.page      "Jaa sivu">
+<!ENTITY pageactions.password.forget "Unohda salasana">
+<!ENTITY pageactions.reset           "Unohda sivun asetukset">
+<!ENTITY pageactions.findInPage      "Etsi sivulta">
+<!ENTITY pageactions.search.addNew   "Lisää hakukone">

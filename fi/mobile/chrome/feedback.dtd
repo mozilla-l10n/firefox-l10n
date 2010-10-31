@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader.label           "Betatestaajan työkalut">
+
+<!ENTITY feedback.communicate.title     "Kommunikoi kanssamme!">
+<!ENTITY feedback.feedback.title        "Anna palautetta">
+<!ENTITY feedback.feedback.good         "Hyvää">
+<!ENTITY feedback.feedback.bad          "Huonoa">
+
+<!ENTITY feedback.information.title     "Lisätietoja">
+<!ENTITY feedback.about.title           "Tietoja tästä betajulkaisusta">
+<!ENTITY feedback.about.button          "Siirry sivulle">
+
+<!ENTITY feedback.tools.title           "Työkalut">
+<!ENTITY feedback.forceCompat.title     "Pakota lisäosat yhteensopiviksi">
+<!ENTITY feedback.errorConsole.title    "Ota virhekonsoli käyttöön">

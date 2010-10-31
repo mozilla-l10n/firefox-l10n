@@ -15,13 +15,9 @@
 # link title for about:firstrun
 #define bookmarks_welcome Firefox: Tervetuloa
 
-# LOCALIZATION NOTE (bookmarks_about):
+# LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: Tietoja selaimestasi
-
-# LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_sync Firefox: Synkronoi Weave Syncillä
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
