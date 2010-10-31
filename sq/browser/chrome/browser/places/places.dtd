@@ -114,3 +114,17 @@
 <!ENTITY organize.tooltip      "Organizoni faqerojtësit tuaj">
 <!ENTITY views.tooltip                  "Ndërroni shfaqjen">
 
+<!ENTITY find.label               "Kërko:">
+<!ENTITY find.accesskey           "K">
+<!ENTITY view.label               "Shihni">
+<!ENTITY view.accesskey           "i">
+<!ENTITY byDate.label             "Sipas Datash">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "Sipas &quot;Site&quot;-esh">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "Sipas Më të Vizituarve">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "Sipas Vizituar Së Fundmi">
+<!ENTITY byLastVisited.accesskey  "F">
+<!ENTITY byDayAndSite.label       "Sipas Datash dhe &quot;Site&quot;-esh">
+<!ENTITY byDayAndSite.accesskey   "t">
