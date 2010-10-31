@@ -30,7 +30,7 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
-#define firefox_help Aida y Tutoriales
+#define firefox_help Ayuda y Tutoriales
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/

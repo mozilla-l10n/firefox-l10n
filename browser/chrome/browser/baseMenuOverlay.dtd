@@ -4,15 +4,15 @@
 <!ENTITY zoomWindow.label         "Tamañu">
 <!ENTITY windowMenu.label         "Ventana">
 
-<!ENTITY helpMenu.label           "Aida"> 
+<!ENTITY helpMenu.label           "Ayuda"> 
 <!ENTITY helpMenu.accesskey       "A"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Aida"> 
+<!ENTITY helpMenuWin.label        "Ayuda"> 
 <!ENTITY helpMenuWin.accesskey    "A">
 <!ENTITY aboutCmd.label           "Tocante a &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "T">
-<!ENTITY productHelp.label        "Aida de &brandShortName;">
+<!ENTITY productHelp.label        "Ayuda de &brandShortName;">
 <!ENTITY productHelp.accesskey    "A">
 <!ENTITY helpForIEUsers.label     "Pa usuarios d'Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">

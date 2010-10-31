@@ -113,7 +113,7 @@
 <!ENTITY examineCert.label "Ver certificáu">
 <!ENTITY examineCert.accesskey "V">
 
-<!ENTITY serverCrlNextupdate.message "Por favor, pida aida al alministrador del sistema">
+<!ENTITY serverCrlNextupdate.message "Por favor, pida ayuda al alministrador del sistema">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Xenerando una clave privada">
