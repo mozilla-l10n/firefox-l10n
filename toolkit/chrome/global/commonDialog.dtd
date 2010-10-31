@@ -2,7 +2,6 @@
 <!ENTITY message.label    "Qua cumpara in text d'exempel.">
 <!ENTITY editfield0.label "Num d'utilisader:"> 
 <!ENTITY editfield1.label "Pled-clav:"> 
-<!ENTITY editfield2.label "Confermar il pled-clav:"> 
 <!ENTITY checkbox.label   "controllar">
 <!ENTITY copyCmd.label    "Copiar">
 <!ENTITY copyCmd.accesskey "C">
