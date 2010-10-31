@@ -1,16 +1,16 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "Adresa cererii">
+<!ENTITY networkPanel.requestMethod               "Metoda cererii">
+<!ENTITY networkPanel.statusCode                  "Cod de stare">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Antetele cererii">
+<!ENTITY networkPanel.requestCookie               "Cookie trimis">
+<!ENTITY networkPanel.requestBody                 "Conținutul cererii">
+<!ENTITY networkPanel.requestFormData             "Date trimise de formular">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "Antetele răspunsului">
+<!ENTITY networkPanel.responseBody                "Conținutul răspunsului">
+<!ENTITY networkPanel.responseBodyCached          "Date în cache">
+<!ENTITY networkPanel.responseBodyUnknownType     "Tip necunoscut de conținut">
+<!ENTITY networkPanel.responseNoBody              "Răspuns fără conținut">
+<!ENTITY networkPanel.responseImage               "Imagine primită">
+<!ENTITY networkPanel.responseImageCached         "Imagine în cache">
