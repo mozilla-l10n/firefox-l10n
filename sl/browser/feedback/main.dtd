@@ -1,32 +1,32 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
-<!ENTITY testpilot.settings.label                   "Settings">
-<!ENTITY testpilot.settings.dataSubmission.label    "Data Submission">
-<!ENTITY testpilot.settings.notifications.label     "Notifications">
-<!ENTITY testpilot.settings.notifyWhen.label        "Notify me when…">
-<!ENTITY testpilot.settings.readyToSubmit.label     "A study is ready to submit">
-<!ENTITY testpilot.settings.newStudy.label          "There's a new study">
-<!ENTITY testpilot.settings.hasNewResults.label     "A study has new results">
-<!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatically submit my data (don't ask me)">
-<!ENTITY testpilot.allYourStudies.label             "All Your User Studies…">
-<!ENTITY testpilot.about.label                      "About Test Pilot">
+<!ENTITY testpilot.settings.label                   "Nastavitve">
+<!ENTITY testpilot.settings.dataSubmission.label    "Poslani podatki">
+<!ENTITY testpilot.settings.notifications.label     "Obvestila">
+<!ENTITY testpilot.settings.notifyWhen.label        "Obvesti me ko…">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Je raziskava pripravljena za pošiljanje">
+<!ENTITY testpilot.settings.newStudy.label          "Je na voljo nova raziskava">
+<!ENTITY testpilot.settings.hasNewResults.label     "Ima raziskava nove rezultate">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Samodejno pošiljaj moje podatke (ne sprašuj)">
+<!ENTITY testpilot.allYourStudies.label             "Vse vaše raziskave uporabnikov…">
+<!ENTITY testpilot.about.label                      "O Test Pilotu">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
-<!ENTITY testpilot.studiesWindow.settings.label         "Settings">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait…">
+<!ENTITY testpilot.studiesWindow.title                  "Vaše raziskave za Test Pilot">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Trenutne razsikave">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Končane razsikave">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Ugotovitve razsikav">
+<!ENTITY testpilot.studiesWindow.settings.label         "Nastavitve">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Nalaganje…">
 
 <!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
+<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: neobdelani podatki">
 
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip            "Close">
+<!ENTITY testpilot.notification.close.tooltip            "Zapri">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Turn On User Studies">
-<!ENTITY testpilot.feedbackbutton.label                "Feedback">
-<!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because…">
-<!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because…">
+<!ENTITY testpilot.enable.label                        "Vključi raziskave uporabnikov">
+<!ENTITY testpilot.feedbackbutton.label                "Sporoči">
+<!ENTITY testpilot.happy.label        "Firefox me je osrečil, ker…">
+<!ENTITY testpilot.sad.label          "Firefox me je razočaral, ker…">

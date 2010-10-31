@@ -1,8 +1,5 @@
 <!ENTITY updateWizard.title "Posodobitev programske opreme">
 
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "42em">
-
 <!ENTITY  checking.title                  "Iskanje posodobitev">
 <!ENTITY  updateCheck.label               "Iskanje novih različic programa &brandShortName; ...">
 
@@ -21,6 +18,8 @@
                                            potrebnih dovoljenj, da bi jo namestili. Obrnite se na skrbnika vašega
                                            sistema ali ponovno poskusite z računom, ki ima dovoljenja za nameščanje
                                            programske opreme na ta računalnik.">
+<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
 <!ENTITY  manualUpdateGetMsg.label        "Najnovejšo različico programa &brandShortName; lahko vedno najdete na:">
 
 <!ENTITY  incompatibleCheck.title         "Preverjanje združljivosti dodatkov">
@@ -43,7 +42,7 @@
 
 <!ENTITY  incompatibleList.title          "Najdeni nezdružljivi dodatki">
 
-<!ENTITY downloading.title "Prenos posodobitve">
+<!ENTITY  downloadPage.title              "Prenašanje &brandShortName;">
 <!ENTITY downloading.intro "Prenašanje posodobitev ...">
 <!ENTITY connecting.label "Povezujem se na strežnik za posodobitve...">
 <!ENTITY verificationFailedText.label "Ker ni bilo mogoče preveriti neokrnjenosti posodobitve po stopnjah, se zdaj prenaša celoten posodobitveni paket.">
@@ -52,12 +51,20 @@
 
 <!ENTITY details.link "Podrobnosti">
 
+<!ENTITY  error.title                     "Posodobitev ni uspela">
+
 <!ENTITY error.label "Pri iskanju, prenosu ali namestitvi te posodobitve je prišlo do napak zaradi:">
 
 <!ENTITY errorManual.label "Program lahko posodobite ročno, če obiščete naslednjo povezavo in prenesete najnovejšo različico:">
 
-<!ENTITY errorpatching.title "Posodobitev neuspešna">
 <!ENTITY errorpatching.intro "Delne posodobitve ne morem namestiti. Prenesena bo celotna posodobitev.">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
+                                           make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
+                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Nekdo želi prelisičiti &brandShortName;, da bi sprejel
+                                           nevarno posodobitev. Za pomoč se obrnite na skrbnika vašega omrežja.">
 
 <!ENTITY  finishedPage.title              "Posodobitev je na voljo">
 <!ENTITY  finishedPage.text               "Posodobitev bo nameščena, ko boste naslednjič zagnali &brandShortName;. To lahko 

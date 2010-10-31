@@ -26,6 +26,7 @@
 
 <!ENTITY netOffline.title "Brez povezave">
 <!ENTITY netOffline.longDesc "<p>Brskalnik trenutno deluje v načinu brez povezave in se zato ne more povezati na zahtevano stran.</p><ul><li>Je računalnik povezan v aktivno mrežo?</li><li>Nastavite način brskalnika v delo s povezavo in poskusite ponovno.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Napaka pri šifriranju vsebine">
 <!ENTITY contentEncodingError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker uporablja neveljavno ali nepodprto obliko kompresije.</p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul>">
@@ -73,8 +74,8 @@
 <!ENTITY phishingBlocked.longDesc '<p>Vnos vaših zasebnih podatkov na to stran se lahko konča s krajo identitete ali drugo zlorabo.</p> 
 <p>Tovrstne spletne prevare se uporabljajo v postopkih, znanih kot "phishing", v katerih zlonamerne spletne strani in elektronska pošta poskušajo oponašati vire, ki jim običajno zaupate.</p>'>
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokirano zaradi varnostnega predpisa glede vsebine">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ker ima stran varnostni predpis glede vsebine, je brskalnik strani preprečil, da bi se na tak način naložila.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brskalnik je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

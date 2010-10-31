@@ -10,6 +10,8 @@
 
 <!ENTITY restorepage.tryagainButton "Obnovi">
 <!ENTITY restorepage.restore.access "O">
+<!ENTITY restorepage.cancelButton   "Start New Session">
+<!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "Obnovi">
 <!ENTITY restorepage.listHeader     "Okna in zavihke">

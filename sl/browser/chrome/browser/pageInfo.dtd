@@ -99,6 +99,10 @@
 <!ENTITY permInstall "Namesti razširitve in teme">
 <!ENTITY  permGeo               "Objavi položaj">
 
+<!ENTITY  permIndexedDB              "Maintain Offline Storage">
+<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permClearStorage.accesskey "C">
+
 <!ENTITY securityTab "Varnost">
 <!ENTITY securityTab.accesskey "A">
 <!ENTITY securityHeader "Varnostne informacije o tej strani">

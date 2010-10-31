@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label "prikaži mojo domačo stran">
 <!ENTITY startupBlankPage.label "prikaži prazno stran">
 <!ENTITY startupLastSession.label "prikaži nazadnje odprta okna in zavihke">
-<!ENTITY location.label "Domača stran:">
-<!ENTITY location.accesskey "D">
+<!ENTITY homepage.label "Domača stran:">
+<!ENTITY homepage.accesskey "D">
 <!ENTITY useCurrentPage.label "Uporabi trenutno stran">
 <!ENTITY useCurrentPage.accesskey "T">
 <!ENTITY useMultiple.label "Uporabi trenutne strani">
