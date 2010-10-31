@@ -27,6 +27,8 @@
 <!ENTITY netOffline.title "Izvanmreženi način rada">
 <!ENTITY netOffline.longDesc "<p>Pretraživač je u izvanmreženom načinu rada i ne može se spojiti na zatraženu adresu.</p><ul><li>Je li računalo spojeno na aktivnu mrežu?</li><li>Isključite izvanmreženi način rada i pokušajte ponovo.</li></ul>">
 
+<!ENTITY netOffline.overrideLongDesc "<p>Preglednik funkcionira u izvanmrežnom načinu rada i ne može se spojiti na zatraženu stavku.</p><ul><li>Je li računalo spojeno na aktivnu mrežu?</li><li>Postavite preglednik u mrežni način rada i pokušajte ponovno.</li></ul>">
+
 <!ENTITY contentEncodingError.title "Greška dekodiranja sadržaja">
 <!ENTITY contentEncodingError.longDesc "<p>Stranica koju pokušavate vidjeti ne može biti prikazana jer koristi neispravni ili nepodržani oblik sažimanja.</p><ul><li>Molim, kontaktiraje vlasnika stranice i obavijestite ga o ovom problemu.</li></ul>">
 
@@ -73,6 +75,9 @@
 <p>Zloćudne stranice pokušavaju instalirati programe kako bi ukrali vaše privatne informacije, iskoristili vaše računalo za napad na druga računala ili oštetili vaš sustav.</p>
 <p>Vlasnici web stranice koji vjeruju da su njihove stranice greškom proglašene zloćudnima, mogu <a href='http://www.stopbadware.org/home/reviewinfo' >zatražiti preispitanje</a> takve odluke.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blokirala sigurnosna politika sadržaja">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Preglednik je zaustavio učitavanje ove stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
 
 <!ENTITY phishingBlocked.title "Moguća web krivotvorina!">
 <!ENTITY phishingBlocked.longDesc "

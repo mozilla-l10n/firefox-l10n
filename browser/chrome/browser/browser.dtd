@@ -235,7 +235,7 @@
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "Otvori poveznicu u novom prozoru">
-<!ENTITY openLinkCmd.accesskey        "l">
+<!ENTITY openLinkCmd.accesskey        "n">
 <!ENTITY openLinkCmdInTab.label       "Otvori poveznicu u novoj kartici">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openFrameCmd.label           "Otvori okvir u novom prozoru">
@@ -535,7 +535,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncTabsMenu.label     "Kartice s ostalih računala">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
-<!ENTITY syncSetup.label              "Podesi &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.label              "Podešavanje &syncBrand.shortName.label;a…">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Sinkroniziraj sada">
 <!ENTITY syncSyncNowItem.accesskey    "S">
