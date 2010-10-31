@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Etsi:">
 <!ENTITY search.accesskey                          "E">
+
+<!ENTITY search.in.label                           "Etsi:">
 <!ENTITY search.scopeFolder.label                  "Valitusta kansiosta">
 <!ENTITY search.scopeFolder.accesskey              "V">
 <!ENTITY search.scopeBookmarks.label               "Kirjanmerkeistä">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "V">
 <!ENTITY detailsPane.noPreviewAvailable.label "Esikatselu">
 <!ENTITY detailsPane.selectAnItemText.description "Valitse kohde, jonka ominaisuuksia muokataan tai näytetään">
+
+<!ENTITY find.label               "Etsi:">
+<!ENTITY find.accesskey           "E">
+<!ENTITY view.label               "Näytä">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "Päivämäärän mukaan">
+<!ENTITY byDate.accesskey         "P">
+<!ENTITY bySite.label             "Sivuston mukaan">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "Vierailukertojen mukaan">
+<!ENTITY byMostVisited.accesskey  "k">
+<!ENTITY byLastVisited.label      "Vierailuajan mukaan">
+<!ENTITY byLastVisited.accesskey  "a">
+<!ENTITY byDayAndSite.label       "Päivämäärän ja sivuston mukaan">
+<!ENTITY byDayAndSite.accesskey   "j">
