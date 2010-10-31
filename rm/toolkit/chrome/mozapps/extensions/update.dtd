@@ -10,8 +10,8 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; po controllar, sche versiuns cumpatiblas da quests supplements èn disponiblas.">
 
 <!ENTITY  checking.wizard.title           "Tschertgar supplements cumpatibels">
-<!ENTITY  checking.top.label              "&brandShortName; tschertga uss actualisaziuns dals supplements incumpatibels...">
-<!ENTITY  checking.status                 "Quai po durar in pèr minutas...">
+<!ENTITY  checking.top.label              "Tschertgar actualisaziuns dals supplements incumpatibels…">
+<!ENTITY  checking.status                 "Quai po durar in pèr minutas…">
 
 <!ENTITY  found.wizard.title               "Actualisaziuns cumpatiblas per supplements èn disponiblas">
 <!ENTITY  found.top.label                 "Tscherna las actualisaziuns che duain vegnir installadas:">
@@ -20,7 +20,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "w">
 
 <!ENTITY  installing.wizard.title         "Actualisaziuns vegnan installadas">
-<!ENTITY  installing.top.label            "Actualisaziuns vegnan telechargiadas ed installadas...">
+<!ENTITY  installing.top.label            "Actualisaziuns vegnan telechargiadas ed installadas…">
 
 <!ENTITY  noupdates.wizard.title          "Impussibel da chattar actualisaziuns cumpatiblas">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; n'ha betg pudì chattar actualisaziuns per supplements incumpatibels.">
@@ -37,7 +37,7 @@
 
 <!ENTITY  versioninfo.wizard.title        "Controllescha la cumpatibilitad dals supplements">
 <!ENTITY  versioninfo.top.label           "Controllescha la cumpatibilitad dals supplements installads cun questa versiun da &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "Quai po durar in pèr minutas...">
+<!ENTITY  versioninfo.waiting             "Quai po durar in pèr minutas…">
 
 <!ENTITY  installerrors.wizard.title      "Problems cun installar las actualisaziuns">
 <!ENTITY  installerrors.intro.label       "&brandShortName; ha constatà problems durant l'actualisaziun. Per quest motiv èsi stà impussibel d'actualisar tut ils supplements.">
@@ -46,5 +46,3 @@
 <!ENTITY  clickFinish.label               "Clicca sin Terminar per aviar &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Clicca sin Terminar per aviar &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permetter a &brandShortName; da tschertgar actualisaziuns.">
-<!ENTITY  details.label                   "Detagls...">
-<!ENTITY  details.accesskey               "D">

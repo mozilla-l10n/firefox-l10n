@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Actualisaziun da la software">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "43em">
-
 <!ENTITY  checking.title                  "Tschertgar actualisaziuns disponiblas">
 <!ENTITY  updateCheck.label               "Tschertgar novas versiuns da &brandShortName;…">
 
@@ -41,20 +38,21 @@
 
 <!ENTITY  incompatibleList.title          "Chattà supplements incumpatibels">
 
-<!ENTITY  downloading.title               "Telechargiar l'actualisaziun">
-<!ENTITY  downloading.intro               "L'actualisaziun vegn telechargiada...">
-<!ENTITY  connecting.label                "Colliar cun il server d'actualisaziuns...">
+<!ENTITY  downloadPage.title              "Telechargiar &brandShortName;">
+<!ENTITY  downloading.intro               "L'actualisaziun vegn telechargiada…">
+<!ENTITY  connecting.label                "Colliar cun il server d'actualisaziuns…">
 <!ENTITY  verificationFailedText.label    "I n'è betg stà pussaivel da garantir l'integritad da l'actualisaziun incrementala ch'è vegnida telechargiada. Per quest motiv vegn ussa telechargià l'entir pachet d'actualisaziun.">
 
 <!ENTITY  viewDetails.tooltip             "Vesair detagls da questa actualisaziun">
 
 <!ENTITY  details.link                    "Detagls">
 
+<!ENTITY  error.title                     "Errur cun l'actualisaziun">
+
 <!ENTITY  error.label                     "Problems cun tschertgar, telechargiar u installar actualisaziuns. Impussibel d'actualisar &brandShortName; per il suandant motiv:">
                                            
 <!ENTITY  errorManual.label               "Ti pos era actualisar manualmain &brandShortName;. Visita per quest intent la suandanta colliaziun e telechargia la versiun actuala:">
                                            
-<!ENTITY  errorpatching.title             "L'actualisaziun n'è betg reussida">
 <!ENTITY  errorpatching.intro             "Impussibel d'installar l'actualisaziun incrementala per &brandShortName;. I vegn uss empruvà da telechargiar il pachet d'actualisaziun cumplet.">
 
 <!ENTITY  finishedPage.title              "L'actualisaziun è pronta per l'installaziun">
@@ -70,7 +68,7 @@
 
 <!ENTITY  installed.title                 "L'actualisaziun è installada">
 <!ENTITY  installed.intro                 "L'actualisaziun è vegnida installada cun success.">
-<!ENTITY  whatsnew.label                  "Legia dapli davart las novitads...">
+<!ENTITY  whatsnew.label                  "Legia dapli davart las novitads…">
 
 <!ENTITY  update.details.label            "Detagls">
 <!ENTITY  update.installedOn.label        "Installà ils:">
