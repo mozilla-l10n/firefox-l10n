@@ -3,5 +3,5 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Dodate lahko tudi izjemo…">
-<!ENTITY securityOverride.warningText "<p>Če internetni povezavi ne zaupate popolnoma ali niste navajeni na varnostna opozorila za ta strežnik, ne dodajajte izjeme.</p> 
+<!ENTITY securityOverride.warningContent "<p>Če internetni povezavi ne zaupate popolnoma ali niste navajeni na varnostna opozorila za ta strežnik, ne dodajajte izjeme.</p> 
 <p>Če še vedno želite dodati izjemo za to stran, lahko to storite v naprednih nastavitvah šifriranja.</p>">

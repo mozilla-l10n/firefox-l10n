@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey "D">
 <!ENTITY disableContextMenus.label "onemogočijo ali zamenjajo vsebinske menije">
 <!ENTITY disableContextMenus.accesskey "O">
-<!ENTITY hideStatusBar.label "skrijejo vrstico stanja">
-<!ENTITY hideStatusBar.accesskey "S">
-<!ENTITY changeStatusBar.label "spremenijo besedilo vrstice stanja">
-<!ENTITY changeStatusBar.accesskey "B">

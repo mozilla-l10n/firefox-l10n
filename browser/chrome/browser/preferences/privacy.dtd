@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "Morda želite ">
 <!ENTITY  rememberActions.clearHistory.label  "počistiti nedavno zgodovino">
-<!ENTITY  rememberActions.middle.label        "ali ">
+<!ENTITY  rememberActions.middle.label        " ali ">
 <!ENTITY  rememberActions.removeCookies.label "odstraniti posamezne piškote">
 <!ENTITY  rememberActions.post.label          ".">
 
@@ -57,14 +57,14 @@
 <!ENTITY  dontrememberActions.clearHistory.label "počistiti vso trenutno zgodovino">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent.label "Stalno zasebno brskanje">
+<!ENTITY  privateBrowsingPermanent.accesskey "S">
 
-<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.label      "Shranjuj zgodoivino brskanja">
 <!ENTITY  rememberHistory.accesskey  "b">
 
-<!ENTITY  rememberDownload.label         "Remember download history">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberDownload.label         "Shranjuj zgodovino prenosov">
+<!ENTITY  rememberDownload.accesskey     "p">
 
 <!ENTITY  rememberSearchForm.label       "Shranjuj zgodovino iskanja in obrazcev">
 <!ENTITY  rememberSearchForm.accesskey   "i">
