@@ -50,7 +50,10 @@
 <!ENTITY organize.tooltip      "Οργάνωση των σελιδοδεικτών σας">
 <!ENTITY views.tooltip                  "Αλλαγή προβολής">
 
-<!ENTITY search.scopeFolder.label                  "Επιλεγμένος φάκελος">
+<!ENTITY search.in.label                           "Αναζήτηση σε:">
+
+
+<!ENTITY search.scopeFolder.label                  "Επιλεγμένο φάκελο">
 <!ENTITY search.scopeFolder.accesskey              "φ">
 
 
