@@ -149,8 +149,8 @@
 <!ENTITY certmgr.addException.accesskey       "m">
 
 <!ENTITY exceptionMgr.title                   "Saugumo išimties pritaikymas">
-<!ENTITY exceptionMgr.exceptionButton         "Patvirtinti saugumo išimtį">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "P">
+<!ENTITY exceptionMgr.exceptionButton.label   "Patvirtinti saugumo išimtį">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "P">
 <!ENTITY exceptionMgr.supplementalWarning     "Patikimi bankai, parduotuvės ir kitos viešos svetainės neprašytų šito daryti.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Serveris">
 <!ENTITY exceptionMgr.certlocation.url        "Adresas:">
