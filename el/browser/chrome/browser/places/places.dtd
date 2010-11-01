@@ -186,5 +186,20 @@
 <!ENTITY cmd.bookmarkLink.accesskey     "δ">
 
 
+<!ENTITY find.label               "Αναζήτηση:">
+<!ENTITY find.accesskey           "ζ">
+<!ENTITY view.label               "Προβολή">
+<!ENTITY view.accesskey           "β">
+<!ENTITY byDate.label             "Κατά ημερομηνία">
+<!ENTITY byDate.accesskey         "η">
+<!ENTITY bySite.label             "Κατά σελίδα">
+<!ENTITY bySite.accesskey         "σ">
+<!ENTITY byMostVisited.label      "Κατά συχνότητα">
+<!ENTITY byMostVisited.accesskey  "ψ">
+<!ENTITY byLastVisited.label      "Κατά τελευταία επίσκεψη">
+<!ENTITY byLastVisited.accesskey  "τ">
+<!ENTITY byDayAndSite.label       "Κατά ημερομηνία και σελίδα">
+<!ENTITY byDayAndSite.accesskey   "μ">
+
 
 

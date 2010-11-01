@@ -22,8 +22,6 @@
 <!ENTITY certmgr.addException.accesskey       "θ">
 
 <!ENTITY exceptionMgr.title                   "Προσθήκη εξαίρεσης ασφαλείας">
-<!ENTITY exceptionMgr.exceptionButton         "Επιβεβαίωση εξαίρεσης ασφαλείας">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "β">
 <!ENTITY exceptionMgr.supplementalWarning     "Οι νόμιμες τράπεζες, καταστήματα, και άλλες δημόσιες σελίδες δεν θα σας ζητήσουν να το κάνετε.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Εξυπηρετητής">
 <!ENTITY exceptionMgr.certlocation.url        "Τοποθεσία:">
@@ -122,5 +120,7 @@
 <!ENTITY certmgr.edit3.accesskey              "Ε">
 
 
+<!ENTITY exceptionMgr.exceptionButton.label   "Επιβεβαίωση εξαίρεσης ασφαλείας">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "β">
 
 
