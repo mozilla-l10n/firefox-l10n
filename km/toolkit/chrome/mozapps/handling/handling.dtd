@@ -1,0 +1,5 @@
+<!ENTITY window.emWidth "26em">
+<!ENTITY window.emHeight "26em">
+<!ENTITY ChooseApp.description "ជ្រើស​កម្មវិធី">
+<!ENTITY ChooseApp.label "ជ្រើស...">
+<!ENTITY ChooseApp.accessKey "C">

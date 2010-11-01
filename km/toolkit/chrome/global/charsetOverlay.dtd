@@ -1,0 +1,21 @@
+<!-- extracted from charsetOverlay.xul -->
+<!ENTITY charsetMenu.label "សំណុំ​តួ​អក្សរ">
+<!ENTITY charsetMenu.accesskey "C">
+<!ENTITY charsetMenuAutodet.label "រក​ឃើញ​​ស្វ័យ​ប្រវត្តិ">
+<!ENTITY charsetMenuAutodet.accesskey "a">
+<!ENTITY charsetMenuMore.label "សំណុំ​តួអក្សរ​ច្រើន​ទៀត">
+<!ENTITY charsetMenuMore.accesskey "m">
+<!ENTITY charsetMenuMore1.label "អឺរ៉ុប​ខាង​លិច">
+<!ENTITY charsetMenuMore1.accesskey "w">
+<!ENTITY charsetMenuMore2.label "អឺរ៉ុប​ខាងកើត">
+<!ENTITY charsetMenuMore2.accesskey "E">
+<!ENTITY charsetMenuMore3.label "អាស៊ី​ខាង​កើត">
+<!ENTITY charsetMenuMore3.accesskey "A">
+<!ENTITY charsetMenuMore4.label "អាស៊ី​អាគ្នេយ៍ &amp; អាស៊ី​និរតី">
+<!ENTITY charsetMenuMore4.accesskey "S">
+<!ENTITY charsetMenuMore5.label "មជ្ឈិម​បូព៌ា">
+<!ENTITY charsetMenuMore5.accesskey "M">
+<!ENTITY charsetMenuUnicode.label "យូនីកូដ">
+<!ENTITY charsetMenuUnicode.accesskey "U">
+<!ENTITY charsetCustomize.label "ប្ដូរ​តាម​បំណង​បញ្ជី…">
+<!ENTITY charsetCustomize.accesskey "c">

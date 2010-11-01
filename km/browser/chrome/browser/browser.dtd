@@ -1,0 +1,451 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --><!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --><!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+ 
+
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ការ​មើល​ឯកជន)">
+
+<!ENTITY tabCmd.label "​ផ្ទាំង​ថ្មី">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "បើក​ទីតាំង...">
+<!ENTITY openLocationCmd.accesskey "L">
+<!ENTITY openFileCmd.label "បើក​ឯកសារ...">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "ការ​រៀបចំ​ទំព័រ...">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "មើល​មុន​បោះពុម្ព">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "បោះពុម្ព…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "​ p">
+<!ENTITY import.label "នាំចូល...">
+<!ENTITY import.accesskey "I">
+
+<!ENTITY goOfflineCmd.label "ធ្វើការ​នៅ​ក្រៅ​បណ្ដាញ">
+<!ENTITY goOfflineCmd.accesskey "w">
+
+<!ENTITY menubarCmd.label "របារ​ម៉ឺនុយ">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "របារ​ឧបករណ៍​រុករក​">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "របារ​ឧបករណ៍​ចំណាំ">
+<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "ធាតុ​របារ​ឧបករណ៍​​ចំណាំ">
+<!ENTITY taskbarCmd.label "របារ​ស្ថានភាព">
+<!ENTITY taskbarCmd.accesskey "B">
+
+<!ENTITY pageSourceCmd.label "កូដ​របស់ទំព័រ">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "ព័ត៌មាន​ទំព័រ">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "ពេញ​អេក្រង់">
+<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "បង្ហាញ​ផ្ទាំង​ទាំងអស់">
+<!ENTITY showAllTabsCmd.accesskey "A">
+
+<!ENTITY fullScreenMinimize.tooltip "បង្រួម​អប្បបរមា">
+<!ENTITY fullScreenRestore.tooltip "ស្ដារ">
+<!ENTITY fullScreenClose.tooltip "បិទ">
+<!ENTITY fullScreenAutohide.label "លាក់​របារ​ឧបករណ៍">
+<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenExit.label "បិទ​របៀប​អេក្រង់​ពេញ">
+<!ENTITY fullScreenExit.accesskey "F">
+
+<!ENTITY closeWindow.label "បិទ​បង្អួច">
+<!ENTITY closeWindow.accesskey "d">
+
+<!ENTITY bookmarksMenu.label "ចំណាំ">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarkThisPageCmd.label "ចំណាំ​ទំព័រ​នេះ">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "ជាវ​ជា​ប្រចាំ​ទៅ​ទំព័រ​នេះ">
+<!ENTITY subscribeToPageMenuitem.label "ជាវ​ជា​ប្រចាំ​ទំព័រ​នេះ…">
+<!ENTITY addCurPagesCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
+<!ENTITY organizeBookmarks.label "រៀបចំ​ចំណាំ…">
+<!ENTITY bookmarkAllCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
+<!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​បន្ថែម">
+
+<!ENTITY backCmd.label "ថយ​ក្រោយ">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY backButton.tooltip "ថយក្រោយ​មួយ​ទំព័រ">
+<!ENTITY forwardCmd.label "ទៅ​មុខ">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY forwardButton.tooltip "ទៅមុខ​មួយ​ទំព័រ">
+<!ENTITY backForwardMenu.tooltip "ទំព័រ​បច្ចុប្បន្ន">
+<!ENTITY reloadCmd.label "ផ្ទុក​ឡើងវិញ">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadButton.tooltip "ផ្ទុក​ទំព័រ​បច្ចុប្បន្ន​ឡើងវិញ">
+<!ENTITY stopCmd.label "បញ្ឈប់">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY stopButton.tooltip "បញ្ឈប់​ការ​​ផ្ទុក​ទំព័រ​នេះ">
+<!ENTITY goEndCap.tooltip "ទៅ​កាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង">
+<!ENTITY feedButton.tooltip "ជាវ​ប្រចាំ​ទំព័រ​នេះ...">
+<!ENTITY printButton.label "បោះពុម្ព">
+<!ENTITY printButton.tooltip "បោះ​ពុម្ពទំព័រ​នេះ">
+
+<!ENTITY locationItem.title "ទីតាំង">
+<!ENTITY searchItem.title "ស្វែងរក">
+<!ENTITY throbberItem.title "អ្នក​ចង្អុល​បង្ហាញ​សកម្មភាព">
+<!ENTITY bookmarksItem.title "ចំណាំ">
+<!-- Toolbar items -->
+ 
+<!ENTITY homeButton.label "ផ្ទះ">
+
+<!ENTITY bookmarksButton.label "ចំណាំ">
+<!ENTITY bookmarksButton.tooltip "បង្ហាញ​ចំណាំ​របស់​អ្នក">
+<!ENTITY bookmarksButton.accesskey "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label "ប្រវត្តិ">
+<!ENTITY historyButton.tooltip "បង្ហាញ​ទំព័រ​ដែល​​អ្នកបាន​មើល​ថ្មីៗ">
+<!ENTITY historySidebarCmd.accesskey "s">
+<!ENTITY historySidebarCmd.commandKey "h">
+
+<!ENTITY toolsMenu.label "ឧបករណ៍">
+<!ENTITY toolsMenu.accesskey "T">
+
+<!ENTITY keywordfield.label "បន្ថែម​ពាក្យ​គន្លឹះ​សម្រាប់​ការ​ស្វែងរក​នេះ...">
+<!ENTITY keywordfield.accesskey "K">
+<!ENTITY search.label "ស្វែងរក​ទំព័រ​បណ្តាញ">
+<!ENTITY search.accesskey "S">
+<!ENTITY downloads.label "ទាញ​យក">
+<!ENTITY downloads.tooltip "បង្ហាញ​វឌ្ឍនភាព​នៃ​ការ​ទាញយក">
+<!ENTITY downloads.accesskey "D">
+<!ENTITY downloads.commandkey "j">
+<!ENTITY downloadsUnix.commandkey "y">
+<!ENTITY addons.label "ផ្នែកបន្ថែម ">
+<!ENTITY addons.tooltip "បង្ហាញ និង​គ្រប់គ្រង​កម្មវិធី​បន្ថែម​ដែល​បាន​ដំឡើង">
+<!ENTITY addons.accesskey "A">
+
+<!ENTITY errorConsoleCmd.label "កុងសូល​កំហុស">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "j">
+
+<!ENTITY fileMenu.label "ឯកសារ">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newNavigatorCmd.label "បង្អួច​​ថ្មី">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "N">
+
+<!ENTITY editMenu.label "កែសម្រួល">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "មិនធ្វើវិញ">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "ន">
+<!ENTITY redoCmd.label "ធ្វើ​វិញ">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY cutCmd.label "កាត់">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "ចម្លង">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "បិទភ្ជាប់">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY deleteCmd.label "លុប">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY selectAllCmd.label "ជ្រើស​ទាំងអស់">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY preferencesCmd.label "ជម្រើស...">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "ចំណង់​ចំណូល​ចិត្ត">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+
+<!ENTITY clearRecentHistoryCmd.label "ជម្រះ​ប្រវត្តិ​ថ្មីៗ">
+<!ENTITY clearRecentHistoryCmd.accesskey "H">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+
+<!ENTITY privateBrowsingCmd.start.label "ចាប់ផ្ដើម​ការ​រក​មើល​ឯកជន">
+<!ENTITY privateBrowsingCmd.start.accesskey "P">
+<!ENTITY privateBrowsingCmd.stop.label "បញ្ឈប់​ការ​មើល​ឯកជន">
+<!ENTITY privateBrowsingCmd.stop.accesskey "P">
+<!ENTITY privateBrowsingCmd.commandkey "P">
+
+<!ENTITY viewMenu.label "មើល">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewToolbarsMenu.label "របារឧបករណ៍">
+<!ENTITY viewToolbarsMenu.accesskey "ប">
+<!ENTITY viewSidebarMenu.label "របារ​ចំហៀង">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label "ប្ដូរ​តាម​បំណង...">
+<!ENTITY viewCustomizeToolbar.accesskey "C">
+
+<!ENTITY historyMenu.label "ប្រវត្តិ">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "ផ្ទាំង​ដែល​បិទ​ថ្មីៗ">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "បង្អួច​ដែល​បាន​បិទ​ថ្មីៗ">
+
+<!ENTITY historyHomeCmd.label "ផ្ទះ">
+<!ENTITY showAllHistoryCmd2.label "បង្ហាញ​ប្រវត្តិ​ទាំងអស់">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY urlbar.bookmarkhistory.emptyText "ស្វែងរក​ចំណាំ និង​ប្រវត្តិ">
+<!ENTITY urlbar.bookmark.emptyText "ស្វែងរក​ចំណាំ">
+<!ENTITY urlbar.history.emptyText "ស្វែងរក​ប្រវត្តិ">
+<!ENTITY urlbar.none.emptyText "វាយ​អាសយដ្ឋាន​តំបន់​បណ្ដាញ">
+<!ENTITY urlbar.accesskey "d">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+
+<!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
+<!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY openLinkCmd.label "បើក​តំណ​ក្នុង​បង្អួចថ្មី">
+<!ENTITY openLinkCmd.accesskey "W">
+<!ENTITY openLinkCmdInTab.label "បើក​តំណ​ក្នុង​ផ្ទាំង​ថ្មី">
+<!ENTITY openLinkCmdInTab.accesskey "T">
+<!ENTITY openFrameCmd.label "បើក​ស៊ុម​ក្នុង​បង្អួច​ថ្មី">
+<!ENTITY openFrameCmd.accesskey "W">
+<!ENTITY openFrameCmdInTab.label "បើក​ស៊ុម​ក្នុង​ផ្ទាំង​ថ្មី">
+<!ENTITY openFrameCmdInTab.accesskey "T">
+<!ENTITY showOnlyThisFrameCmd.label "បង្ហាញ​តែ​ស៊ុម​នេះ">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadFrameCmd.label "ផ្ទុក​ស៊ុម​ឡើងវិញ">
+<!ENTITY reloadFrameCmd.accesskey "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "មើល​កូដ​ជម្រើស">
+<!ENTITY viewPartialSourceForMathMLCmd.label "មើល​កូដ MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label "មើល​កូដ​​ទំព័រ">
+<!ENTITY viewPageSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.label "មើល​កូដ​ស៊ុម">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label "មើល​ព័ត៌មាន​ទំព័រ">
+<!ENTITY viewPageInfoCmd.accesskey "I">
+<!ENTITY viewFrameInfoCmd.label "មើល​ព័ត៌មាន​របស់​ស៊ុម">
+<!ENTITY viewFrameInfoCmd.accesskey "I">
+<!ENTITY reloadImageCmd.label "ផ្ទុក​រូបភាព​ឡើង​វិញ">
+<!ENTITY reloadImageCmd.accesskey "R">
+<!ENTITY viewImageCmd.label "មើល​រូបភាព">
+<!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewImageInfoCmd.label "មើល​ព័ត៌មាន​របស់​រូបភាព">
+<!ENTITY viewImageInfoCmd.accesskey "f">
+<!ENTITY viewVideoCmd.label "មើល​វីដេអូ">
+<!ENTITY viewVideoCmd.accesskey "I">
+<!ENTITY viewBGImageCmd.label "មើល​រូបភាព​ផ្ទៃ​ខាងក្រោយ">
+<!ENTITY viewBGImageCmd.accesskey "w">
+<!ENTITY setDesktopBackgroundCmd.label "កំណត់​ជា​ផ្ទៃ​ខាងក្រោយ​ផ្ទៃតុ…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "S">
+<!ENTITY bookmarkPageCmd2.label "ចំណាំ​ទំព័រ​នេះ">
+<!ENTITY bookmarkPageCmd2.accesskey "m">
+<!ENTITY bookmarkThisLinkCmd.label "ចំណាំ​តំណ​នេះ">
+<!ENTITY bookmarkThisLinkCmd.accesskey "L">
+<!ENTITY bookmarkThisFrameCmd.label "ចំណាំ​ស៊ុម​នេះ">
+<!ENTITY bookmarkThisFrameCmd.accesskey "m">
+<!ENTITY sendPageCmd.label "ផ្ញើ​តំណ...">
+<!ENTITY sendPageCmd.accesskey "e">
+<!ENTITY savePageCmd.label "រក្សា​ទុក​ទំព័រ​ជា...">
+<!ENTITY savePageCmd.accesskey "A">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2 "P">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameCmd.label "រក្សា​ទុក​ស៊ុម​ជា...">
+<!ENTITY saveFrameCmd.accesskey "F">
+<!ENTITY printFrameCmd.label "បោះពុម្ព​ស៊ុម...">
+<!ENTITY printFrameCmd.accesskey "P">
+<!ENTITY saveLinkCmd.label "រក្សាទុក​តំណ​ជា... ">
+<!ENTITY saveLinkCmd.accesskey "k">
+<!ENTITY sendLinkCmd.label "ផ្ញើ​តំណ...">
+<!ENTITY sendLinkCmd.accesskey "d">
+<!ENTITY saveImageCmd.label "រក្សាទុក​រូបភាព​ជា...">
+<!ENTITY saveImageCmd.accesskey "v">
+<!ENTITY saveVideoCmd.label "រក្សា​ទុក​វីដេអូ​ជា...">
+<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "រក្សា​ទុក​អូឌីយ៉ូ​ជា...">
+<!ENTITY saveAudioCmd.accesskey "v">
+<!ENTITY sendImageCmd.label "ផ្ញើ​រូបភាព...…">
+<!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY sendVideoCmd.label "ផ្ញើ​វីដេអូ...">
+<!ENTITY sendVideoCmd.accesskey "n">
+<!ENTITY sendAudioCmd.label "ផ្ញើ​អូឌីយ៉ូ...">
+<!ENTITY sendAudioCmd.accesskey "n">
+<!ENTITY copyLinkCmd.label "ចម្លង​ទីតាំង​តំណ">
+<!ENTITY copyLinkCmd.accesskey "a">
+<!ENTITY copyLinkTextCmd.label "ចម្លង​អត្ថបទ​តំណ">
+<!ENTITY copyLinkTextCmd.accesskey "x">
+<!ENTITY copyImageCmd.label "ចម្លង​ទីតាំង​រូបភាព">
+<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageContentsCmd.label "ចម្លង​រូបភាព">
+<!ENTITY copyImageContentsCmd.accesskey "y">
+<!ENTITY copyVideoURLCmd.label "ចម្លង​ទីតាំង​វីដេអូ">
+<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.label "ចម្លង​ទីតាំង​អូឌីយ៉ូ">
+<!ENTITY copyAudioURLCmd.accesskey "o">
+<!ENTITY blockImageCmd.accesskey "B">
+<!ENTITY copyEmailCmd.label "ចម្លងអាសយដ្ឋាន​អ៊ីមែល">
+<!ENTITY copyEmailCmd.accesskey "ច">
+<!ENTITY thisFrameMenu.label "ស៊ុម​នេះ">
+<!ENTITY thisFrameMenu.accesskey "h">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label "ចាក់">
+<!ENTITY mediaPlay.accesskey "P">
+<!ENTITY mediaPause.label "ផ្អាក">
+<!ENTITY mediaPause.accesskey "P">
+<!ENTITY mediaMute.label "ស្ងាត់">
+<!ENTITY mediaMute.accesskey "M">
+<!ENTITY mediaUnmute.label "ឮ">
+<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaShowControls.label "បង្ហាញ​វត្ថុ​បញ្ជា">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label "លាក់​វត្ថុ​បញ្ជា">
+<!ENTITY mediaHideControls.accesskey "C">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+
+<!ENTITY fullZoomEnlargeCmd.label "​ពង្រីក">
+<!ENTITY fullZoomEnlargeCmd.accesskey "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards --><!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label "​បង្រួម">
+<!ENTITY fullZoomReduceCmd.accesskey "O">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+
+<!ENTITY fullZoomResetCmd.label "កំណត់​ឡើង​វិញ">
+<!ENTITY fullZoomResetCmd.accesskey "R">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+
+<!ENTITY fullZoomToggleCmd.label "ពង្រីក​តែ​អត្ថបទ​ប៉ុណ្ណោះ ">
+<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoom.label "ពង្រីក">
+<!ENTITY fullZoom.accesskey "Z">
+
+<!ENTITY newTabButton.tooltip "បើក​ផ្ទាំង​ថ្មី​មួយ">
+<!ENTITY newWindowButton.tooltip "បើក​បង្អួច​ថ្មី​មួយ">
+<!ENTITY sidebarCloseButton.tooltip "បិទ​របារ​ចំហៀង">
+
+<!ENTITY cutButton.tooltip "កាត់">
+<!ENTITY copyButton.tooltip "ចម្លង">
+<!ENTITY pasteButton.tooltip "បិទភ្ជាប់">
+<!ENTITY fullScreenButton.tooltip "បង្ហាញ​បង្អួច​ឲ្យ​ពេញ​អេក្រង់">
+
+<!ENTITY quitApplicationCmdWin.label "ចេញ">
+<!ENTITY quitApplicationCmdWin.accesskey "x">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label "ចេញ">
+<!ENTITY quitApplicationCmd.accesskey "Q">
+<!ENTITY quitApplicationCmdMac.label "បិទ &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key "Q">
+
+<!ENTITY closeCmd.label "បិទ">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
+
+<!ENTITY pageStyleMenu.label "រចនាប័ទ្ម​ទំព័រ">
+<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleNoStyle.label "គ្មាន​រចនាប័ទ្ម">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "រចនាប័ទ្ម​ទំព័រ​មូលដ្ឋាន">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
+
+<!ENTITY pageReportIcon.tooltip "ផ្លាស់ប្ដូរ​ការ​កំណត់​ទប់ស្កាត់​លេចឡើង​សម្រាប់​តំបន់​បណ្ដាញ​នេះ">
+
+<!ENTITY allowPopups.accesskey "​ p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "កែ​សម្រួល​ចំណូល​ចិត្ត​កម្មវិធី​ទប់ស្កាត់​ការ​លេចឡើង...">
+<!ENTITY editPopupSettings.label "កែ​សម្រួល​ជម្រើស​កម្មវិធី​ទប់ស្កាត់​ការ​លេចឡើង...">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label "ផ្លាស់ប្តូរ​ទិស​ទំព័រ">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchTextDirectionItem.label "ផ្លាស់ប្តូរ​ទិស​អត្ថបទ ">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!ENTITY findOnCmd.label "រក​ក្នុង​ទំព័រ​នេះ...">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "រក​ម្តង​ទៀត">
+<!ENTITY findAgainCmd.accesskey "ង">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "បន្ថែម​វចនានុក្រម...">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
+<!ENTITY editBookmark.done.label "ធ្វើ​រួច">
+<!ENTITY editBookmark.cancel.label "បោះបង់">
+<!ENTITY editBookmark.removeBookmark.accessKey "R">
+<!ENTITY editBookmark.undo.label "មិនធ្វើវិញ">
+<!ENTITY editBookmark.undo.accessKey "ន">
+<!ENTITY editBookmark.edit.label "កែសម្រួល...">
+<!ENTITY editBookmark.edit.accessKey "E">
+
+<!ENTITY identity.unverifiedsite2 "តំបន់​បណ្ដាញ​នេះ​មិន​ផ្គត់ផ្គង​ព័ត៌មាន​អត្តសញ្ញាណ ។">
+<!ENTITY identity.connectedTo "អ្នក​បាន​តភ្ជាប់​ទៅ">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "ដែល​រត់​ដោយ">
+
+<!ENTITY identity.moreInfoLinkText "ព័ត៌មាន​បន្ថែម...">
+
+<!ENTITY downloadMonitor2.tooltip "ចុច​ដើម្បី​បើក​បង្អួច​ទាញយក">
+
+<!ENTITY allTabs.filter.emptyText "ផ្ទាំង​ស្វែងរក">

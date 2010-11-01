@@ -1,0 +1,22 @@
+<!ENTITY privatebrowsingpage.title "ការ​រក​មើល​ឯកជន">
+<!ENTITY privatebrowsingpage.title.normal "តើ​អ្នក​ចង់​ចាប់ផ្ដើម​ការ​រកមើល​ឯកជន?">
+
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; មិន​ចង់ចាំ​ប្រវត្តិ​ណា​មួយ​សម្រាប់​សម័យ​នេះ​ទេ ។">
+<!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; មិន​ស្ថិត​នៅ​ក្នុង​របៀប រក​មើល​ឯកជន ទេ​ឥឡូវ​នេះ ។">
+
+<!ENTITY privatebrowsingpage.description "ក្នុង​សម័យ​រក​មើល​ឯកជន, &brandShortName; មិន​រក្សា​ទុក​ប្រវត្តិ​កម្មវិធី​រុករក​ទេ ស្វែងរក​ប្រវត្តិ ប្រវត្តិ​ទាញយក ប្រវត្តិ​សំណុំ​បែបបទ​បណ្ដាញ ខូគីឬ​ឯកសារ​អ៊ីនធឺណិត​បណ្ដោះ​អាសន្ន ។  ទោះ​យ៉ាងណា ឯកសារ​ដែល​អ្នក​ទាញយក និង​ចំណាំ​ដែល​អ្នក​បាន​ធ្វើ នឹង​ត្រូវ​បាន​រក្សា​ទុក ។">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed --><!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "You may want to start by also ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "ជម្រះ​ប្រវត្តិ​បច្ចុប្បន្ន​របស់​អ្នក">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "ចាប់ផ្ដើម​ការ​រក​មើល​ឯកជន">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+
+<!ENTITY privatebrowsingpage.howToStop "ដើម្បី​បញ្ឈប់​ការ​រក​មើល​ឯកជន ជ្រើស &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, ឬ​បិទ &brandShortName; ។">
+<!ENTITY privatebrowsingpage.howToStart "ដើម្បី​ចាប់ផ្ដើម​ការ​រក​មើល​ឯកជន អ្នក​អាច​ជ្រើស &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; ផង​ដែរ ។">
+
+<!ENTITY privatebrowsingpage.moreInfo "ខណៈ​ពេល​កុំព្យូទ័រ​នេះ​មិន​មាន​កំណត់​ត្រា​នៃ​ប្រវត្តិ​រក​មើល​របស់​អ្នក អ្នក​ផ្គត់ផ្គង​សេវា​អ៊ីនធឺណិត ឬ​និយោជក​របស់​អ្នក នៅ​តែ​អាច​តាមដាន​ទំព័រ​ដែល​អ្នក​ទស្សនា ។">
+<!ENTITY privatebrowsingpage.learnMore "រៀន​បន្ថែម">

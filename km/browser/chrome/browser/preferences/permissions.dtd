@@ -1,0 +1,22 @@
+<!ENTITY window.title "លើកលែង">
+<!ENTITY window.width "42.48em">
+
+<!ENTITY treehead.sitename.label "តំបន់​បណ្តាញ">
+<!ENTITY treehead.status.label "ស្ថានភាព">
+<!ENTITY removepermission.label "យក​តំបន់បណ្ដាញចេញ">
+<!ENTITY removepermission.accesskey "R">
+<!ENTITY removeallpermissions.label "យក​តំបន់បណ្ដាញ​ទាំងអស់​ចេញ">
+<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY address.label "អាសយដ្ឋាន​របស់​តំបន់​បណ្ដាញ ៖">
+<!ENTITY address.accesskey "d">
+<!ENTITY block.label "ទប់ស្កាត់">
+<!ENTITY block.accesskey "B">
+<!ENTITY session.label "អនុញ្ញាត​សម្រាប់​សម័យ ">
+<!ENTITY session.accesskey "S">
+<!ENTITY allow.label "អនុញ្ញាត">
+<!ENTITY allow.accesskey "A">
+<!ENTITY windowClose.key "w">
+
+<!ENTITY button.close.label "បិទ">
+<!ENTITY button.close.accesskey "C">
+

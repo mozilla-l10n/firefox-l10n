@@ -1,0 +1,65 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle "អំពី:សិទ្ធិ">
+<!ENTITY rights.intro-header "អំពី​សិទ្ធិ​របស់​អ្នក">
+<!ENTITY rights.intro "&brandFullName; គឺ​ជា​កម្មវិធី​ប្រភព​កូដ​ចំហ​ ហើយ​ប្រើ​ដោយសេរី ដែល​បានស្ថាបនា​ដោយ​សហគមន៍​ដែលមនុស្ស​​ជុំវិញ​ពិភពលោក ។ មាន​​រឿង​មួយ​ចំនួន​ដែល​អ្នកគួរ​តែ​ដឹង ៖">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; អ្នក​អាច​ប្រើបាន​នៅ​ក្រោម​លក្ខខណ្ឌ​របស់">
+<!ENTITY rights.intro-point1b "អាជ្ញាប័ណ្ណ​សាធារណៈ​របស់ Mozilla">
+<!ENTITY rights.intro-point1c ". នេះ​មាន​ន័យ​ថា​អ្នក​ប្រើបាន​ ចម្លង​ និង​ចែកចាយ &brandShortName; ដល់​អ្នក​ផ្សេង ។  អ្នក​ក៏​ស្វាគមន៍​ឲ្យ​កែប្រែ​កូដ​ប្រភព​របស់ &brandShortName; ព្រោះ​ថា​អ្នក​ចង់​បំពេញ​តាម​តម្រូវការ​របស់​អ្នក ។ អាជ្ញាប័ណ្ណ​សាធារណៈ​របស់ Mozilla ក៏ផ្ដល់​សិទ្ធិ​ឲ្យ​អ្នក​ចែកចាយ​កំណែ​ដែលបានកែប្រែ​របស់​អ្នក ។">
+
+<!ENTITY rights.intro-point2a "Mozilla មិន​ផ្ដល់​សិទ្ធិ​ណា​មួយ​ទៅ​ឲ្យ​អ្នក​ចំពោះ​ផ្លាក​សញ្ញា ឬ​រូប​សញ្ញា Mozilla និង Firefox ទេ ។ ព័ត៌មាន​បន្ថែម​អំពី ផ្លាក​សញ្ញា អាច​រក​ឃើញ​នៅ ">
+<!ENTITY rights.intro-point2b "នៅ​ទីនេះ">
+<!ENTITY rights.intro-point2c ".">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights.intro-point3a "រកឃើញ​​គោនយោបាយ​ភាព​ឯកជន​សម្រាប់​​ផលិតផល​របស់ &vendorShortName;">
+<!ENTITY rights.intro-point3b "នៅ​ទីនេះ">
+<!ENTITY rights.intro-point3c ".">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "គោនយោបាយ​ឯកជន​ដែលអាច​​អនុវត្ត​បាន​សម្រាប់​ផលិតផល​នេះ​គួរ​ត្រូវ​បានរាយ​នៅ​ទីនេះ ។">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights.intro-point4a "&brandShortName; ផ្ដល់​នូវ​សេវា​ព័ត៌មាន​តំបន់បណ្ដាញ​ស្រេច​ចិត្ត ដូច​ជា​សេវា SafeBrowsing ទោះ​យ៉ាងណា យើង​មិន​អាច​ធានា​ថា ពួក​វា​ត្រឹមត្រូវ 100&#37; ឬ​គ្មាន​កំហុស​ទេ ។ លម្អិត​បន្ថែម​អំពី​ការ​រួម​បញ្ចូល​ព័ត៌មាន​អំពី​របៀប​បិទ​សេវា អាច​រក​ឃើញ​ក្នុង ">
+<!ENTITY rights.intro-point4b "ពាក្យ​សេវា">
+<!ENTITY rights.intro-point4c ".">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "ប្រសិនបើ​ផលិតផល​នេះ​​រួម​នឹង​សេវា​បណ្ដាញ ពាក្យ​សេវា​ដែលអាច​អនុវត្ត​បាន​សម្រាប់សេវា គួរ​ត្រូវ​បានភ្ជាប់​ទៅ​កាន់ ">
+<!ENTITY rights.intro-point4b-unbranded "សេវា​តំបន់បណ្ដាញ">
+<!ENTITY rights.intro-point4c-unbranded " ភាគ ។">
+
+<!ENTITY rights.webservices-header "សេវា​​តំបន់បណ្ដាញ​របស់ &brandFullName;​">
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  --><!-- intro paragraph for branded builds -->
+
+
+<!ENTITY rights.webservices-a "&brandFullName; ប្រើ​សេវា​ព័ត៌មាន​តំបន់​បណ្ដាញ (&quot;សេវា&quot;), ដូច​ជា សេវា SafeBrowsing ដែល​មាន​សម្រាប់​ការ​ប្រើប្រាស់​របស់​អ្នក​ជាមួយ​កំណែ​បណ្ណាល័យ​របស់ &brandShortName; ដូច​បាន​ពិពណ៌នា​ខាងក្រោម ។ បើ​អ្នក​មិន​ចង់​ប្រើ សេវា ឬ​លក្ខខណ្ឌ​ខាងក្រោម​ដែល​មិន​អាច​ទទួល​បាន អ្នក​អាច​បិទ​សេវា SafeBrowsing ដោយ​បើក​ចំណូល​ចិត្ត​កម្មវិធី ជ្រើស ">
+<!ENTITY rights.webservices-b "សុវត្ថិភាព">
+<!ENTITY rights.webservices-c " សុវត្ថិភាព និង​ដោះ​ធីក​ជម្រើស​សម្រាប់ &quot;&blockAttackSites.label;&quot; និង &quot;&blockWebForgeries.label;&quot;">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "ទិដ្ឋភាព​ទូទៅ​របស់​សេវា​តំបន់​បណ្ដាញ​ដែល​មាន​ផលិតផល រួមជា​មួយ​នឹង​សេចក្ដី​ណែនាំ​អំពី​វិធីបិទ​ពួកវា ប្រសិន​បើ​អាច​ គួរ​ត្រូវ​បាន​រួម​បញ្ចូល​នៅ​ទីនេះ ។">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "លក្ខខណ្ឌ​សេវា​ដែលអាច​​អនុវត្ត​បាន​សម្រាប់​ផលិតផល​គួរ​ត្រូវ​បានរាយ​នៅទីនេះ ។">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights.webservices-term1 "&vendorShortName; និង​អ្នក​ចូលរួម អ្នក​ផ្ដល់​អជ្ញាបណ្ណ និង​ដៃគូ​របស់​វា​បាន​ព្យាយាម​ផ្ដល់​នូវ​ព័ត៌មាន​អំពី​ការ​ក្លែង​បន្លំ និង​កម្មវិធី​ក្លែង​បន្លំ ។ ទោះ​យ៉ាងណា ពួក​គេ​មិន​អាច​ធានាថា ព័ត៌មាន​នេះ​គួរ​ឲ្យ​ទុកចិត្ត និង​គ្មាន​កំហុស​ទេ ៖ តំបន់​បណ្ដាញ​គ្រោះថ្នាក់​មួយ​ចំនួន​អាច​មិន​ត្រូវ​បាន​កំណត់ និង​តំបន់​បណ្ដាញ​សុវត្ថិភាព​មួយ​ចំនួន​អាច​ត្រូវ​បាន​កំណត់​ជា​មាន​បញ្ហា ។">
+<!ENTITY rights.webservices-term2 "&vendorShortName; អាច​មិន​បន្ត ឬ​ផ្លាស់ប្ដូរ​សេវា​នៅ​ក្នុង​ដំណាក់កាល​​ប្រុងប្រយ័ត្ន​របស់​វា ។">
+<!ENTITY rights.webservices-term3 "អ្នក​ស្វាគមន៍​ឲ្យ​ប្រើ​សេវា​ទាំង​នេះ​ដោយ​មាន​កំណែ​​អម​របស់ &brandShortName; ហើយ​អ្នក​មាន​សិទ្ធិ​ចាំបាច់​ត្រឹមត្រូវ​ដើម្បី​ធ្វើ​វា ។  &vendorShortName; និង​​​រក្សាសិទ្ធិ​អ្នកចេញ​អាជ្ញាប័ណ្ណ​​នៅ​ក្នុង​សេវា ។  លក្ខខណ្ឌ​ទាំង​នេះ​មិន​មានបំណង​កំណត់​សិទ្ធិ​ដែលបានផ្ដល់​ក្រោម​អាជ្ញាប័ណ្ណ​កម្មវិធី​ប្រភព​កូដ​ចំហ​ ដែល​អាច​អនុវត្ត​បាន​ក្នុង &brandShortName; និង​កំណែ​កូដ​ប្រភព​ដែលទាក់ទង​របស់ &brandShortName; ។">
+<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
+<!ENTITY rights.webservices-term5 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; អាច​ធ្វើ​ឲ្យ​លក្ខខណ្ឌ​ទាំង​នេះ​ទាន់សម័យ​ពេល​ដែល​ចាំបាច់​ពី​ពេល​មួយ​ពេល​ទៅមួយពេល ។ លក្ខខណ្ឌ​ទាំង​នេះ​មិនអាច​ត្រូវ​បានកែប្រែ ឬ​បោះបង់​ដោយ​គ្មាន​កិច្ចព្រមព្រៀង​ដែល​បានសរសេរ​ជា​លាយលក្ខអក្សរ របស់ &vendorShortName; នោះ​ទេ ។">
+<!ENTITY rights.webservices-term7 "លក្ខខណ្ឌ​ទាំង​នេះ​ត្រូវ​បានគ្រប់គ្រង​ដោយ​ច្បាប់រដ្ឋ​កាលីហ្វ័រញ៉ា សហរដ្ឋ​អាមេរិក ដោយ​មិន​រួមបញ្ចូលនឹង​ការ​ផ្ដល់​ច្បាប់​ដែល​មិនស៊ីគ្នា ប្រសិនបើ​ផ្នែក​ណាមួយ​នឹង​លក្ខខណ្ឌ​ទាំង​នេះ​ត្រូវ​បាន​គិត​ថា​មិ​ន​ត្រឹមត្រូវ ឬ​មិន​អាច​អនុវត្ត​បាន ផ្នែក​ដែលនៅ​សល់​នឹង​នៅតែ​អនុវត្ត​ពេញលេញ ហើយ​មានប្រសិទ្ធ​ភាព ។ នៅ​ក្នុង​ព្រឹត្តិការណ៍​នៃ​ការ​មិនស៊ី​សង្វាក់​គ្នា​រវាង​កំណែ​ដែលបានបកប្រែ​នៃ​លក្ខខណ្ឌ​នេះ និង​កំណែ​ភាសា​អង់គ្លេស​នឹង​ត្រូវ​ត្រួត​ពិនិត្យ ។">

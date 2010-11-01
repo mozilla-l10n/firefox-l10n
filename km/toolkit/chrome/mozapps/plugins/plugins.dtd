@@ -1,0 +1,25 @@
+<!ENTITY pluginWizard.title "សេវា អ្នក​រក​កម្មវិធី​ជំនួយ​ខាង​ក្នុង">
+<!ENTITY pluginWizard.firstPage.title "ស្វាគមន៍​មក​កាន់ &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; កំពុង​ពិនិត្យ​រក​កម្មវិធី​ជំនួយ​ដែល​មាន​ឥឡូវ​នេះ…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "ការ​ទាញយក​កម្មវិធី​ជំនួយ​ខាង​ក្នុង​ដែល​មាន">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "មាន​កម្មវិធី​ជំនួយ​ខាង​ក្នុង ខាងក្រោម ៖">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "ចុច បន្ទាប់ ដើម្បី​ដំឡើង​កម្មវិធី​ជំនួយ​ខាង​ក្នុង​ទាំង​នេះ ។">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "កម្មវិធី​ជំនួយ​ខាង​ក្នុង​ខ្លះ តម្រូវ​ឲ្យ​មាន​ព័ត៌មាន​បន្ថែម ពី​អ្នក​នៅ​ពេល​ដំឡើង ។">
+
+<!ENTITY pluginWizard.licensePage.title "អាជ្ញាបណ្ណ​កម្មវិធី​ជំនួយ​ខាង​ក្នុង">
+<!ENTITY pluginWizard.licensePage.accept.label "ខ្ញុំ​យល់ព្រម ។">
+<!ENTITY pluginWizard.licensePage.deny.label "ខ្ញុំ​មិន​យល់ព្រម (កម្មវិធី​ជំនួយ​ខាង​ក្នុង នឹង​មិន​ត្រូវ​ដំឡើង) ។">
+
+<!ENTITY pluginWizard.installPluginsPage.title "កំពុង​ដំ​ឡើង​​​កម្មវិធី​ជំនួយ​ខាង​ក្នុង">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; កំពុង​ដំឡើង​កម្មវិធី​ជំនួយ…">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; បាន​បញ្ចប់​ការ​ដំឡើង កម្មវិធី​ជំនួយ​ខាង​ក្នុង​ដែល​បាត់ ៖">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "ស្រាវជ្រាវ​បន្ថែម​អំពី កម្មវិធី​ជំនួយ​ខាង​ក្នុង ឬ រក​កម្មវិធី​ជំនួយ​ខាង​ក្នុង​ដែល​បាត់​ដោយ​ខ្លួន​ឯង ។">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; ត្រូវ​តែ​ចាប់ផ្ដើម​ជា​ថ្មី ដើម្បី​ឲ្យកម្មវិធី​ជំនួយ​ខាង​ក្នុង​ប្រើ​បាន ។">
+  
+<!ENTITY missingPlugin.label "ចុច​ទីនេះ​ដើម្បី​ទាញយក​កម្មវិធី​ជំនួយ​ខាង​ក្នុង ។">
+<!ENTITY disabledPlugin.label "កម្មវិធី​ជំនួយ​សម្រាប់​មាតិកា​នេះ​ត្រូវ​បាន​បិទ ។ ចុច​ទីនេះ​ដើម្បី​គ្រប់គ្រង​កម្មវិធី​ជំនួយ​របស់​អ្នក ។">
+<!ENTITY blockedPlugin.label "កម្មវិធី​ជំនួយ​នេះ​ត្រូវ​បាន​ទប់ស្កាត់​សម្រាប់​ការ​ការពារ​របស់​អ្នក ។">

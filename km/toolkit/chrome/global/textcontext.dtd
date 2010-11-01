@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "កាត់">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "ចម្លង">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "បិទភ្ជាប់">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY undoCmd.label "មិនធ្វើវិញ">
+<!ENTITY undoCmd.accesskey "ន">
+<!ENTITY selectAllCmd.label "ជ្រើស​ទាំងអស់">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "លុប">
+<!ENTITY deleteCmd.accesskey "d">
+
+<!ENTITY spellAddToDictionary.label "បន្ថែម​ទៅ​វចនានុក្រម">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellCheckEnable.label "ពិនិត្យ​​អក្ខរាវិរុទ្ធ">
+<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(គ្មាន​ការ​ផ្ដល់​យោបល់​អក្ខរាវិរុទ្ធ)">
+<!ENTITY spellDictionaries.label "ភាសា">
+<!ENTITY spellDictionaries.accesskey "l">

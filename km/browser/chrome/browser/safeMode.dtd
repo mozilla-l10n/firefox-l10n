@@ -1,0 +1,26 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY safeModeDialog.title "របៀប​សុវត្ថិភាព &brandShortName;">
+<!ENTITY window.width "37em">
+
+<!ENTITY safeModeDescription.label "ឥឡូវនេះ &brandShortName; កំពុង​តែ​រត់​ក្នុង​របៀប​សុវត្ថិភាព ដែល​ជា​បណ្ដោះអាសន្ន​មិន​អនុញ្ញាត ការ​កំណត់​ផ្ទាល់ខ្លួន ស្បែក និង​ផ្នែក​បន្ថែម​របស់​អ្នក ។">
+<!ENTITY safeModeDescription2.label "អ្នក​អាច​ធ្វើ​ឲ្យ​ការ​ផ្លាស់ប្ដូរ​ខ្លះ ឬ ទាំងអស់​អចិន្ត្រៃយ៍ ៖">
+
+<!ENTITY disableAddons.label "បិទ​កម្មវិធី​បន្ថែម​ទាំងអស់">
+<!ENTITY disableAddons.accesskey "D">
+
+<!ENTITY resetToolbars.label "កំណត់​របារ​ឧបករណ៍ និង​បញ្ជា​ឡើង​វិញ">
+<!ENTITY resetToolbars.accesskey "R">
+
+<!ENTITY deleteBookmarks.label "លុប​ចំណាំ​ទាំងអស់ ទុក​តែ​ចំណាំ​ដែល​សម្រាប់​បម្រុង​ទុក">
+<!ENTITY deleteBookmarks.accesskey "b">
+
+<!ENTITY resetUserPrefs.label "កំណត់​ចំណង់ចំណូលចិត្ត​អ្នក​ប្រើ​ទាំងអស់​តាម​លំនាំដើម &brandShortName; ឡើង​វិញ">
+<!ENTITY resetUserPrefs.accesskey "p">
+
+<!ENTITY restoreSearch.label "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក​លំនាំ​ដើម">
+<!ENTITY restoreSearch.accesskey "s">
+
+<!ENTITY changeAndRestartButton.label "ធ្វើ​ការ​ផ្លាស់ប្ដូរ និង​ចាប់​ផ្តើម​ឡើង​វិញ">
+<!ENTITY continueButton.label "បន្ត​ក្នុង​របៀប​សុវត្ថិភាព">

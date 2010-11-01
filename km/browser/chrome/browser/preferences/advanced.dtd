@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label "ទូទៅ">
+
+<!ENTITY accessibility.label "មធ្យោបាយ​ងាយស្រួល">
+
+<!ENTITY useCursorNavigation.label "ប្រើ​គ្រាប់​ចុច​ទស្សន៍​ទ្រនិច​ជានិច្ច​ដើម្បី​រុករក​ក្នុង​ទំព័រ">
+<!ENTITY useCursorNavigation.accesskey "c">
+<!ENTITY searchStartTyping.label "រក​អត្ថបទ​ពេល​ខ្ញុំ​ចាប់ផ្ដើម​វាយ">
+<!ENTITY searchStartTyping.accesskey "x">
+<!ENTITY blockAutoRefresh.label "ព្រមាន​ខ្ញុំ ពេល​តំបន់​បណ្ដាញ​ព្យាយាម​ប្ដូរ​ទិស ឬ​ផ្ទុក​ទំព័រ​ឡើង​វិញ">
+<!ENTITY blockAutoRefresh.accesskey "b">
+
+<!ENTITY browsing.label "រក​មើល">
+
+<!ENTITY useAutoScroll.label "ប្រើ​រំកិល​ស្វ័យប្រវត្តិ">
+<!ENTITY useAutoScroll.accesskey "a">
+<!ENTITY useSmoothScrolling.label "​ប្រើ​រមូររលូន">
+<!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY checkSpelling.label "ពិនិត្យ​ការ​ប្រកប​របស់​ខ្ញុំ​ពេល​ខ្ញុំ​វាយ">
+<!ENTITY checkSpelling.accesskey "t">
+
+<!ENTITY systemDefaults.label "លំនាំ​ដើម​ប្រព័ន្ធ">
+<!--XXX--><!ENTITY alwaysCheckDefault.label "ពិនិត្យ​មើល​ជានិច្ច បើ &brandShortName; គឺ​ជា​កម្មវិធី​រុករក​ពេល​ចាប់ផ្ដើម">
+<!ENTITY alwaysCheckDefault.accesskey "w">
+<!ENTITY checkNow.label "ពិនិត្យ​មើល​ឥឡូវ ">
+<!ENTITY checkNow.accesskey "N">
+
+<!ENTITY networkTab.label "បណ្តាញ">
+
+<!ENTITY connection.label "ការ​តភ្ជាប់">
+
+<!ENTITY connectionDesc.label "កំណត់​រចនាសម្ព័ន្ធ​អំពី​វិធីដែល &brandShortName; តភ្ជាប់​ទៅ​កាន់​អ៊ីនធឺណិត">
+<!ENTITY connectionSettings.label "ការកំណត់...">
+<!ENTITY connectionSettings.accesskey "e">
+
+<!ENTITY offlineStorage.label "ផ្ទុក​ក្រៅ​បណ្ដាញ">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "ប្រើ​រហូត​ដល់ ">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "មេកាបៃ​នៃ​ទំហំ​សម្រាប់​ឃ្លាំង​សម្ងាត់">
+<!ENTITY clearCacheNow.label "ជម្រះ​ឥឡូវ ">
+<!ENTITY clearCacheNow.accesskey "C">
+
+<!ENTITY updateTab.label "ធ្វើ​ឲ្យ​ទាន់​សម័យ">
+
+<!ENTITY autoCheck.label "ពិនិត្យ​មើល​ធ្វើ​ឲ្យ​ទាន់​សម័យ​ដោយ​ស្វ័យ​ប្រវត្តិ​ទៅ ៖">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate2.label "ផ្នែក​បន្ថែម">
+<!ENTITY enableAddonsUpdate2.accesskey "n">
+<!ENTITY enableSearchUpdate.label "​ម៉ាស៊ីន​ស្វែងរក...">
+<!ENTITY enableSearchUpdate.accesskey "h">
+<!ENTITY whenUpdatesFound.label "នៅ​ពេល​រក​ឃើញ​ការ​ធ្វើ​ឲ្យ​ទាន់​សម័យ &brandShortName;">
+<!ENTITY askMe.label "សួរ​ខ្ញុំ​អ្វី​ខ្ញុំ​ចង់​ធ្វើ">
+<!ENTITY askMe.accesskey "k">
+<!ENTITY modeAutomatic.label "​ទាញ​យក និង ដំឡើង​ធ្វើ​ឲ្យ​ទាន់​សម័យ​យ៉ាង​ស្វ័យ​ប្រវត្តិ">
+<!ENTITY modeAutomatic.accesskey "​">
+<!ENTITY modeAutoAddonWarn.label "ព្រមាន​ខ្ញុំ ប្រសិនបើ​វា​នឹង​បង្ហាញ​ផ្នែក​បន្ថែម​ណាមួយ​របស់​ខ្ញុំ ">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!ENTITY updateHistory.label "បង្ហាញ​ប្រវត្តិ​ធ្វើ​ឲ្យ​ទាន់​សម័យ">
+<!ENTITY updateHistory.accesskey "p">
+
+<!ENTITY offlineNotify.label "ប្រាប់​ខ្ញុំ​ពេល​តំបន់​បណ្ដាញ​សួរ​ឲ្យ​រក្សា​ទុក​ទិន្នន័យ​សម្រាប់​ប្រើ​ក្រៅ​បណ្ដាញ">
+<!ENTITY offlineNotify.accesskey "T">
+<!ENTITY offlineNotifyExceptions.label "ការ​លើកលែង...">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList.label "តំបន់​បណ្ដាញ​ខាងក្រោម​បាន​រក្សា​ទុក​ទិន្នន័យ​សម្រាប់​ការ​ប្រើ​ក្រៅ​បណ្ដាញ ៖">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "យក​ចេញ...">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm "យក​ទិន្នន័យ​ក្រៅ​បណ្ដាញ​ចេញ">
+
+<!ENTITY encryptionTab.label "ការ​អ៊ិនគ្រីប">
+
+<!ENTITY protocols.label "ពិធីការ">
+<!ENTITY useSSL3.label "ប្រើ​ SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "ប្រើ​ TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "វិញ្ញាបនបត្រ">
+<!ENTITY certSelection.description "នៅពេល​ម៉ាស៊ីន​​ស្នើ​វិញ្ញាបនបត្រ​ផ្ទាល់ខ្លួន​របស់​ខ្ញុំ ៖">
+<!ENTITY certs.auto "ជ្រើស​មួយ​ដោយ​ស្វ័យ​ប្រវត្តិ">
+<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.ask "សួរ​ខ្ញុំ​រាល់ពេល">
+<!ENTITY certs.ask.accesskey "i">
+<!ENTITY viewCerts.label "មើល​វិញ្ញាបនបត្រ">
+<!ENTITY viewCerts.accesskey "s">
+<!ENTITY viewCRLs.label "បញ្ជី​ដកហូត ">
+<!ENTITY viewCRLs.accesskey "R">
+<!ENTITY verify2.label "ការ​ធ្វើ​ឲ្យ​មាន​សុពលភាព ">
+<!ENTITY verify2.accesskey "V">
+<!ENTITY viewSecurityDevices.label "ឧបករណ៍​សុវត្ថិភាព">
+<!ENTITY viewSecurityDevices.accesskey "y">

@@ -1,0 +1,33 @@
+<!ENTITY aboutSupport.pageTitle "ព័ត៌មាន​អំពី​ដំណោះស្រាយ​បញ្ហា">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "  ទំព័រនេះ​មាន​ព័ត៌មាន​បច្ចេកទេស ហើយ​វា​មាន​ប្រយោជន៍​ដល់​អ្នក នៅពេល​ដែល​ត្រូវការ   ដោះស្រាយ​បញ្ហា ។ ប្រសិន​បើ​អ្នក​ស្វែងរក​ចម្លើយ​ទូទៅ​អំពី &brandShortName;  សូម​ពិនិត្យ​មើល​តំបន់​បណ្ដាញ​គាំទ្រ​យើង​ខ្ញុំ</a> ។">
+
+<!ENTITY aboutSupport.extensionsTitle "ផ្នែក​បន្ថែម">
+<!ENTITY aboutSupport.extensionName "ឈ្មោះ">
+<!ENTITY aboutSupport.extensionEnabled "បាន​អនុញ្ញាត">
+<!ENTITY aboutSupport.extensionVersion "កំណែ">
+<!ENTITY aboutSupport.extensionId "លេខ​សម្គាល់">
+
+<!ENTITY aboutSupport.appBasicsTitle "មូលដ្ឋាន​គ្រឹះ​របស់​កម្មវិធី">
+<!ENTITY aboutSupport.appBasicsName "ឈ្មោះ">
+<!ENTITY aboutSupport.appBasicsVersion "កំណែ">
+<!ENTITY aboutSupport.appBasicsProfileDir "ថត​​​ទម្រង់">
+<!ENTITY aboutSupport.appBasicsPlugins "កម្មវិធី​ជំនួយ​ដែល​បាន​ដំឡើង">
+<!ENTITY aboutSupport.appBasicsBuildConfig "ការ​កំណត់​រចនា​សម្ព័ន្ធ​ការ​បង្កើត">
+
+<!ENTITY aboutSupport.show.label "បើក​ថត​ដែល​ផ្ទុក">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+
+<!ENTITY aboutSupport.showMac.label "បង្ហាញ​ក្នុង​កម្មវិធី​ស្វែងរក">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "បាន​កែប្រែ​ចំណង់ចំណូល​ចិត្ត">
+<!ENTITY aboutSupport.modifiedPrefsName "ឈ្មោះ">
+<!ENTITY aboutSupport.modifiedPrefsValue "តម្លៃ">
+
+<!ENTITY aboutSupport.installationHistoryTitle "ប្រវត្តិ​នៃ​ការ​ដំឡើង">
+<!ENTITY aboutSupport.updateHistoryTitle "ប្រវត្តិ​ធ្វើ​ឲ្យ​ទាន់សម័យ">
+
+<!ENTITY aboutSupport.copyToClipboard.label "ចម្លង​ទាំងអស់​ទៅកាន់​ក្ដារ​តម្បៀត​ខ្ទាស់">

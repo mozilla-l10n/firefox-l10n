@@ -1,0 +1,176 @@
+<!ENTITY addons.title "កម្មវិធី​បន្ថែម">
+<!-- Default window size for the addon manager in pixels -->
+
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!-- View labels -->
+
+<!ENTITY search.label "យក​ផ្នែក​បន្ថែម">
+<!ENTITY extensions.label "ផ្នែក​បន្ថែម">
+<!ENTITY themes.label "ស្បែក">
+<!ENTITY locales.label "ភាសា">
+<!ENTITY plugins.label "កម្មវិធី​ជំនួយ">
+<!ENTITY update.label "ធ្វើ​ឲ្យ​ទាន់​សម័យ​">
+<!ENTITY install.label "ការ​ដំឡើង">
+<!-- Command Bar items -->
+
+<!ENTITY cmd.checkUpdatesAll.label "រក​ភាព​ទាន់​សម័យ">
+<!ENTITY cmd.checkUpdatesAll.accesskey "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "រក​ភាព​ទាន់​សម័យ​សម្រាប់​កម្មវិធី​បន្ថែម​របស់​អ្នក">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "រក​ភាព​ទាន់​សម័យ​សម្រាប់​ស្បែក​របស់​អ្នក">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "ស្វែងរក​ភាព​ទាន់សម័យ​សម្រាប់​កម្មវិធី​ជំនួយ​របស់​អ្នក">
+<!ENTITY cmd.installLocalFile.label "ដំឡើង...">
+<!ENTITY cmd.installLocalFile.accesskey "n">
+<!ENTITY cmd.installFileAddon.tooltip "ដំឡើង​កម្ម​វិធី​បន្ថែម">
+<!ENTITY cmd.installFileTheme.tooltip "ដំឡើង​ស្បែក">
+<!ENTITY cmd.installUpdatesAll2.label "ដំឡើង​ភាព​ទាន់​សម័យ">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip "ដំឡើង​ភាព​ទាន់សម័យ​ដែល​បាន​ជ្រើស">
+<!ENTITY cmd.restartApp2.label "ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ">
+<!ENTITY cmd.restartApp2.accesskey "R">
+<!ENTITY cmd.restartApp2.tooltip "ចាប់ផ្ដើម &brandShortName; ដើម្បី​អនុវត្ត​ការ​ផ្លាស់ប្ដូរ">
+<!ENTITY cmd.skip.label "រំលង">
+<!ENTITY cmd.skip.accesskey "k">
+<!ENTITY cmd.skip.tooltip "រំលង​ភាព​ទាន់​សម័យ​ទាំងនេះ">
+<!ENTITY cmd.continue.label "បន្ត">
+<!ENTITY cmd.continue.accesskey "C">
+<!ENTITY cmd.continue.tooltip "បន្ត​ផ្ទុក &brandShortName;">
+
+<!ENTITY cmd.enableAll.label "បើក​ទាំងអស់">
+<!ENTITY cmd.enableAll.accesskey "a">
+<!ENTITY cmd.enableAll.tooltip "បើក​កម្មវិធី​បន្ថែម​ដែល​បាន​បង្ហាញ​ទាំងអស់">
+<!ENTITY cmd.disableAll.label "បិទ​ទាំងអស់">
+<!ENTITY cmd.disableAll.accesskey "s">
+<!ENTITY cmd.disableAll.tooltip "បិទ​កម្មវិធី​បន្ថែម​ដែល​បាន​បង្ហាញ​ទាំងអស់">
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+
+<!ENTITY cmd.useTheme.label "ប្រើ​ស្បែក">
+<!ENTITY cmd.useTheme.accesskey "T">
+<!ENTITY cmd.useTheme.tooltip "ផ្លាស់ប្តូរ​ស្បែក​របស់ &brandShortName;">
+<!ENTITY cmd.options.label "ជម្រើស">
+<!ENTITY cmd.options.accesskey "O">
+<!ENTITY cmd.options.tooltip "កំណត់​ជម្រើស​សម្រាប់ ផ្នែក​បន្ថែម​ដែលជ្រើស">
+<!ENTITY cmd.optionsUnix.label "ចំណង់ចំណូល​ចិត្ត">
+<!ENTITY cmd.optionsUnix.accesskey "P">
+<!ENTITY cmd.optionsUnix.tooltip "កែ​សម្រួល​ជម្រើស​សម្រាប់​ផ្នែក​បន្ថែម​ដែល​បាន​ជ្រើស">
+<!ENTITY cmd.enable.label "បាន​អនុញ្ញាត">
+<!ENTITY cmd.enable.accesskey "E">
+<!ENTITY cmd.enable.tooltip "បើ​កម្មវិធី​បន្ថែម​នេះ ពេល​ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ">
+<!ENTITY cmd.disable.label "មិន​បាន​អនុញ្ញាត">
+<!ENTITY cmd.disable.accesskey "D">
+<!ENTITY cmd.disable.tooltip "បិទ​កម្មវិធី​បន្ថែម​នេះ ពេល​ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ">
+<!ENTITY cmd.uninstall.label "លុប">
+<!ENTITY cmd.uninstall2.accesskey "U">
+<!ENTITY cmd.uninstall2.tooltip "លុប​កម្មវិធី​បន្ថែម​នេះ ពេល​ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ">
+<!ENTITY cmd.cancelUninstall.label "បោះបង់​ការ​លុប">
+<!ENTITY cmd.cancelUninstall.accesskey "C">
+<!ENTITY cmd.cancelUninstall.tooltip "បោះបង់​ការ​លុប​នៃ​កម្មវិធី​បន្ថែម​នេះ">
+<!ENTITY cmd.cancelInstall.label "បោះបង់​ការ​ដំឡើង">
+<!ENTITY cmd.cancelInstall.accesskey "C">
+<!ENTITY cmd.cancelInstall.tooltip "បោះបង់​ការ​ដំឡើង​នៃ​កម្មវិធី​បន្ថែម​នេះ">
+<!ENTITY cmd.cancelUpgrade.label "បោះបង់​ការ​ធ្វើ​ឲ្យ​ប្រសើរ">
+<!ENTITY cmd.cancelUpgrade.accesskey "C">
+<!ENTITY cmd.cancelUpgrade.tooltip "បោះបង់​ការ​ធ្វើ​ឲ្យ​ប្រសើរ​កម្មវិធី​បន្ថែម​នេះ">
+<!ENTITY cmd.installUpdate.label "ដំឡើង​ភាព​ទាន់​សម័យ">
+<!ENTITY cmd.installUpdate.accesskey "I">
+<!ENTITY cmd.installUpdate.tooltip "ដំឡើង​ភាព​ទាន់​សម័យ​សម្រាប់​កម្មវិធី​បន្ថែម​នេះ">
+<!ENTITY cmd.showUpdateInfo.label "បង្ហាញ​ព័ត៌មាន">
+<!ENTITY cmd.showUpdateInfo.accesskey "S">
+<!ENTITY cmd.showUpdateInfo.tooltip "បង្ហាញ​ព័ត៌មាន​បន្ថែម​អំពី​ភាព​ទាន់សម័យ​ទាំងនេះ">
+<!ENTITY cmd.hideUpdateInfo.label "លាក់​ព័ត៌មាន">
+<!ENTITY cmd.hideUpdateInfo.accesskey "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip "លាក់​ព័ត៌មាន​អំពី​ភាព​ទាន់សម័យ​ទាំងនេះ">
+<!ENTITY cmd.installSearchResult.label "បន្ថែម​ទៅ &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip "ទាញយក និង​ដំឡើង​កម្មវិធី​បន្ថែម​នេះ">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label "បោះ​បង់">
+<!ENTITY cancel.accesskey "C">
+<!ENTITY cancelInstall.label "បោះ​បង់">
+<!ENTITY cancelInstall.accesskey "C">
+<!ENTITY cancelUpgrade.label "បោះ​បង់">
+<!ENTITY cancelUpgrade.accesskey "C">
+<!-- Only displayed in the selected Add-on's context menu -->
+
+<!ENTITY cmd.homepage.label "ទស្សនា​គេហ​ទំព័រ">
+<!ENTITY cmd.homepage.accesskey "H">
+<!ENTITY cmd.about2.label "អំពី​កម្មវិធី​បន្ថែម​នេះ">
+<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.checkUpdate.label "ស្វែងរក​​ឯកសារ​ទាន់​សម័យ">
+<!ENTITY cmd.checkUpdate.accesskey "F">
+
+<!ENTITY cmd.includeUpdate.label "រួម​បញ្ចូល​ភាព​ទាន់​សម័យ">
+<!ENTITY cmd.includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.label "រួម​បញ្ចូល​ភាព​ទាន់​សម័យ​នេះ">
+<!ENTITY includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.tooltip "រួម​បញ្ចូល​ភាព​ទាន់​សម័យ​នេះ ពេល​ដំឡើង​ភាព​ទាន់​សម័យ">
+<!-- Status Messsages -->
+
+<!ENTITY insecureUpdate.label "មិន​ផ្ដល់​ភាព​ទាន់សម័យ​សុវត្ថិភាព ។">
+<!ENTITY needsDependencies.label "ទាមទារ​ធាតុ​បន្ថែម ។">
+<!ENTITY blocklisted.label "បាន​បិទ​សម្រាប់​ការ​ការពារ​របស់​អ្នក ។">
+<!ENTITY softBlocklisted.label "ត្រូវ​បាន​ស្គាល់​បង្ក​បញ្ហា​សុវត្ថិភាព ឬ​ស្ថិរភាព ។">
+<!ENTITY outdated.label "មាន​កំណែ​ថ្មី និង​កាន់​តែ​មាន​សុវត្ថិភាព ។">
+<!ENTITY toBeDisabled.label "កម្មវិធី​បន្ថែម​នេះ​នឹង​ត្រូវ​បាន​បិទ ពេល​ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ ។">
+<!ENTITY toBeEnabled.label "កម្មវិធី​បន្ថែម​នេះ​នឹង​ត្រូវ​បាន​បើក ពេល​ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ ។">
+<!ENTITY toBeInstalled.label "កម្មវិធី​បន្ថែម​នេះ​នឹង​ត្រូវ​បាន​ដំឡើង ពេល​ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ ។">
+<!ENTITY toBeUninstalled.label "កម្មវិធី​បន្ថែម​នេះ​នឹង​ត្រូវ​បាន​លុប ពេល​ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ ។">
+<!ENTITY toBeUpdated.label "កម្មវិធី​បន្ថែម​នេះ​នឹង​ត្រូវ​បាន​ធ្វើ​ឲ្យ​ទាន់​សម័យ ពេល &brandShortName; ត្រូវ​បាន​ចាប់ផ្ដើម​ឡើង​វិញ ។">
+
+<!ENTITY getExtensions.label "យក​ផ្នែក​បន្ថែម">
+<!ENTITY getThemes.label "យក​ស្បែក">
+<!ENTITY getPlugins.label "យក​កម្មវិធី​ជំនួយ">
+
+<!ENTITY searchAddons.label "ស្វែងរក​ផ្នែក​បន្ថែម​ទាំងអស់">
+<!ENTITY browseAddons.label "រក​មើល​កម្មវិធី​បន្ថែម​ទាំងអស់">
+<!ENTITY searchFailed.label "&brandShortName; មិន​អាច​ទៅយក​កម្មវិធី​បន្ថែម">
+<!ENTITY recommendedHeader.label "ដែល​ផ្ដល់​អនុសាសន៍">
+<!ENTITY recommendedThrobber.label "ទៅយក​កម្មវិធី​បន្ថែម​ដែល​ផ្ដល់​អនុសាសន៍">
+<!ENTITY searchThrobber.label "កំពុង​ស្វែងរក​កម្មវិធី​បន្ថែម">
+<!ENTITY resetSearch.label "ជម្រះ​លទ្ធផល">
+<!ENTITY noSearchResults.label "លទ្ធផល​ទាំងអស់​ត្រូវ​បាន​ដំឡើង​រួច​ហើយ ឬ​មិន​ឆប​គ្នា ។">
+<!ENTITY noRecommendedResults.label "ការ​ផ្ដល់​អនុសាសន៍​ទាំងអស់​ត្រូវ​បាន​ដំឡើង​រួច​ហើយ ឬ​មិន​ឆប​គ្នា ។">
+<!ENTITY emptySearch.label "គ្មាន​កម្មវិធី​បន្ថែម​ដូច">
+<!ENTITY emptySearch.button "យល់ព្រម">
+<!ENTITY cancelSearch.button "បោះបង់">
+<!ENTITY searchFailed.button "យល់ព្រម">
+<!ENTITY searchResultHomepage.value "រៀន​បន្ថែម">
+<!ENTITY searchBox.label "ស្វែងរក​ផ្នែក​បន្ថែម​ទាំងអស់">
+<!ENTITY recommendedResults.label "មើល​កម្មវិធី​បន្ថែម​ដែល​ផ្ដល់​អនុសាសន៍">
+<!ENTITY searchResultConnecting.label "កំពុង​តភ្ជាប់…">
+<!ENTITY searchResultInstalling.label "កំពុង​ដំឡើង…">
+<!ENTITY searchResultFailed.label "ការ​ដំឡើង​បាន​បរាជ័យ">
+<!ENTITY searchResultInstalled.label "ការ​ដំឡើង​បញ្ចប់">
+<!ENTITY addonTypeExtension.label "ផ្នែក​បន្ថែម">
+<!ENTITY addonTypeTheme.label "ស្បែក">
+<!ENTITY missingThumbnail.label "មិន​មើល​ជាមុន">
+
+<!ENTITY previewNoThemeSelected.label "គ្មាន​ស្បែក​ត្រូវ​បាន​ជ្រើស">
+<!ENTITY previewNoPreviewImage.label "ស្បែក​នេះ​គ្មាន​រូបភាព​ សម្រាប់​មើល​ជាមុន​ទេ">
+<!ENTITY moreInfo.label "ព័ត៌មាន​បន្ថែម">
+<!ENTITY infoNoAddonSelected.label "មិន​បាន​ជ្រើស​ភាព​ទាន់​សម័យ">
+<!ENTITY infoNoUpdateInfo.label "ភាព​ទាន់​សម័យ​នេះ​មិន​មាន​ព័ត៌មាន​បន្ថែម​ទេ">
+<!ENTITY infoUpdateInfoError.label "មាន​កំហុស​ផ្ទុក​ព័ត៌មាន​អំពី​ភាព​ទាន់​សម័យ​នេះ">
+
+<!ENTITY updateSuccess.label "ភាព​ទាន់​សម័យ​ត្រូវ​បាន​បញ្ចប់​ដោយ​ជោគជ័យ ។">
+<!ENTITY installSuccess.label "ការ​ដំឡើង​ត្រូវ​បាន​បញ្ចប់​ដោយ​ជោគជ័យ ។">
+<!ENTITY installSuccessRestart.label "ចាប់ផ្ដើម​ឡើង​វិញ​ដើម្បី​បញ្ចប់​ការ​ដំឡើង ។">
+<!ENTITY updateSuccessRestart.label "ចាប់ផ្ដើម​ឡើង​វិញ​ដើម្បី​បញ្ចប់​ភាព​ទាន់​សម័យ ។">
+<!ENTITY installWaiting.label "កំពុង​រងចាំ…">
+<!ENTITY installIncompatibleUpdate.label "កំពុង​ពិនិត្យ​មើល​ភាព​ឆប​គ្នា…">
+<!ENTITY installFinishing.label "កំពុង​ដំឡើង…">
+<!ENTITY installFailure.label "ការ​ដំឡើង​បាន​បរាជ័យ ។">
+
+<!ENTITY progressStatus.label "កំពុង​ពិនិត្យ​រក​ភាព​ទាន់​សម័យ">
+
+<!ENTITY eula.title "កិច្ច​ព្រមព្រៀង​អាជ្ញាបណ្ណ​អ្នក​ប្រើ​ចុងក្រោយ">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "យល់ព្រម និង​ដំឡើង...">
+
+<!ENTITY blocklist.blocked.label "ទប់ស្កាត់">
+<!ENTITY blocklist.checkbox.label "បិទ">

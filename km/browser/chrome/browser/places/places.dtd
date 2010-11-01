@@ -1,0 +1,212 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title "បណ្ណាល័យ">
+<!ENTITY places.library.width "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label "រៀបចំ">
+<!ENTITY organize.accesskey "O">
+
+<!ENTITY file.accesskey "F">
+<!ENTITY file.close.label "បិទ">
+<!ENTITY file.close.accesskey "C">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "កែសម្រួល">
+<!ENTITY edit.accesskey "E">
+<!ENTITY views.label "មើល">
+<!ENTITY views.accesskey "V">
+<!ENTITY view.toolbar.label "របារ​ឧបករណ៍">
+<!ENTITY view.toolbar.accesskey "o">
+<!ENTITY view.columns.label "បង្ហាញ​ជួរ​ឈរ">
+<!ENTITY view.columns.accesskey "C">
+<!ENTITY view.sort.label "តម្រៀប">
+<!ENTITY view.sort.accesskey "S">
+<!ENTITY view.unsorted.label "មិន​តម្រៀប">
+<!ENTITY view.unsorted.accesskey "U">
+<!ENTITY view.sortAscending.label "លំដាប់​តម្រៀប A > Z">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "លំដាប់​តម្រៀប Z > A">
+<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY help.usingBookmarks.label "ដោយ​ប្រើ​ចំណាំ">
+<!ENTITY help.usingBookmarks.accesskey "B">
+<!ENTITY help.usingHistory.label "ដោយ​ប្រើ​ប្រវត្តិ">
+<!ENTITY help.usingHistory.accesskey "i">
+<!ENTITY help.advancedTips.label "ព័ត៌មាន​ជំនួយ &amp; ល្បិច​កម្រិត​ខ្ពស់">
+<!ENTITY help.advancedTips.accesskey "T">
+
+<!ENTITY cmd.findInBookmarks.label "រក​ក្នុង​ចំណាំ…">
+<!ENTITY cmd.findInBookmarks.accesskey "F">
+<!ENTITY cmd.findCurrent.label "រក​ក្នុង​សម្រាំង​បច្ចុប្បន្ន…">
+<!ENTITY cmd.findCurrent.accesskey "i">
+
+<!ENTITY cmd.exportHTML.label "នាំចេញ HTML…">
+<!ENTITY cmd.exportHTML.accesskey "E">
+<!ENTITY cmd.importHTML.label "នាំចូល HTML…">
+<!ENTITY cmd.importHTML.accesskey "I">
+
+<!ENTITY cmd.backup.label "បម្រុង​ទុក…">
+<!ENTITY cmd.backup.accesskey "B">
+<!ENTITY cmd.restore2.label "ស្ដារ">
+<!ENTITY cmd.restore2.accesskey "R">
+<!ENTITY cmd.restoreFromFile.label "ជ្រើស​ឯកសារ...">
+<!ENTITY cmd.restoreFromFile.accesskey "C">
+
+<!ENTITY cmd.select_all.label "ជ្រើស​ទាំងអស់">
+<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label "កាត់">
+<!ENTITY cmd.edit_cut.accesskey "t">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "ចម្លង">
+<!ENTITY cmd.edit_copy.accesskey "C">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "បិទភ្ជាប់">
+<!ENTITY cmd.edit_paste.accesskey "P">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "លុប">
+<!ENTITY cmd.edit_delete.accesskey "D">
+<!ENTITY cmd.edit_undo.label "មិនធ្វើវិញ">
+<!ENTITY cmd.edit_undo.accesskey "ន">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "ធ្វើ​វិញ">
+<!ENTITY cmd.edit_redo.accesskey "R">
+<!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.bookmarkLink.label "ចំណាំ​ទំព័រ​នេះ...">
+<!ENTITY cmd.bookmarkLink.accesskey "B">
+<!ENTITY cmd.delete.label "លុប​ទំព័រ​នេះ">
+<!ENTITY cmd.delete.accesskey "D">
+<!ENTITY cmd.deleteDomainData.label "បំភ្លេច​តំបន់​បណ្ដាញ​នេះ">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
+<!ENTITY cmd.open.label "បើក">
+<!ENTITY cmd.open.accesskey "O">
+<!ENTITY cmd.open_window.label "បើក​ក្នុង​បង្អួច​ថ្មី">
+<!ENTITY cmd.open_window.accesskey "N">
+<!ENTITY cmd.open_tab.label "បើក​ក្នុង​ផ្ទាំង​ថ្មី">
+<!ENTITY cmd.open_tab.accesskey "w">
+<!ENTITY cmd.open_all_in_tabs.label "បើក​ក្នុង​ផ្ទាំង​ទាំងអស់">
+<!ENTITY cmd.open_all_in_tabs.accesskey "O">
+
+<!ENTITY cmd.properties.label "លក្ខណៈ​សម្បត្តិ">
+<!ENTITY cmd.properties.accesskey "i">
+
+<!ENTITY cmd.show_info.key "i">
+
+<!ENTITY cmd.rename.label "ប្ដូរ​ឈ្មោះ">
+<!ENTITY cmd.rename.accesskey "R">
+
+<!ENTITY cmd.sortby_name.label "តម្រៀប​តាម​ឈ្មោះ">
+<!ENTITY cmd.sortby_name.accesskey "S">
+<!ENTITY cmd.context_sortby_name.accesskey "r">
+
+<!ENTITY cmd.new_bookmark.label "ចំណាំ​ថ្មី">
+<!ENTITY cmd.new_bookmark.accesskey "B">
+<!ENTITY cmd.new_livemark.label "ចំណាំ​បន្ត​ផ្ទាល់​ថ្មី">
+<!ENTITY cmd.new_livemark.accesskey "L">
+<!ENTITY cmd.new_folder.label "ថត​ថ្មី...">
+<!ENTITY cmd.new_folder.accesskey "o">
+<!ENTITY cmd.context_new_folder.accesskey "F">
+<!ENTITY cmd.new_separator.label "សញ្ញា​បំបែក​ថ្មី">
+<!ENTITY cmd.new_separator.accesskey "S">
+
+<!ENTITY cmd.reloadLivebookmark.label "ផ្ទុក​ចំណាំ​បន្ត​ផ្ទាល់​ឡើងវិញ">
+<!ENTITY cmd.reloadLivebookmark.accesskey "R">
+<!ENTITY cmd.reloadMicrosummary.label "ផ្ទុក​ចំណង​ជើង​បន្ត​ផ្ទាល់​ថ្មី">
+<!ENTITY cmd.reloadMicrosummary.accesskey "R">
+
+<!ENTITY cmd.groupby_site.label "ដាក់​ក្រុម​តាម​តំបន់​បណ្ដាញ">
+<!ENTITY cmd.groupby_site.accesskey "S">
+<!ENTITY cmd.groupby_page.label "ដាក់​ក្រុម​តាម​ទំព័រ">
+<!ENTITY cmd.groupby_page.accesskey "P">
+<!ENTITY cmd.groupby_feed.label "ដាក់​ក្រុម​តាម​ការ​ជាវ​ប្រចាំ">
+<!ENTITY cmd.groupby_feed.accesskey "S">
+<!ENTITY cmd.groupby_post.label "ដាក់​ក្រុម​តាម​ប្រកាស">
+<!ENTITY cmd.groupby_post.accesskey "P">
+
+<!ENTITY cmd.moveBookmarks.label "ផ្លាស់ទី...">
+<!ENTITY cmd.moveBookmarks.accesskey "M">
+
+<!ENTITY col.name.label "ឈ្មោះ">
+<!ENTITY col.tags.label "ស្លាក">
+<!ENTITY col.url.label "ទីតាំង">
+<!ENTITY col.lastvisit.label "កាល​បរិច្ឆេទ​ទស្សនា">
+<!ENTITY col.visitcount.label "ចំនួន​ទស្សនា">
+<!ENTITY col.keyword.label "ពាក្យ​គន្លឹះ">
+<!ENTITY col.description.label "ការពិពណ៌នា">
+<!ENTITY col.dateadded.label "បាន​បន្ថែម">
+<!ENTITY col.lastmodified.label "កែប្រែ​លើក​ចុង​ក្រោយ">
+
+<!ENTITY search.label "ស្វែងរក ៖">
+<!ENTITY search.accesskey "S">
+<!ENTITY search.scopeFolder.label "ថត​ដែល​ជ្រើស">
+<!ENTITY search.scopeFolder.accesskey "r">
+<!ENTITY search.scopeBookmarks.label "ចំណាំ">
+<!ENTITY search.scopeBookmarks.accesskey "k">
+<!ENTITY search.scopeDownloads.label "ទាញ​យក">
+<!ENTITY search.scopeDownloads.accesskey "D">
+<!ENTITY search.scopeHistory.label "ប្រវត្តិ">
+<!ENTITY search.scopeHistory.accesskey "H">
+<!ENTITY search.scopeBarExpanderDown.tooltip "បង្ហាញ​កម្មវិធី​ស្ថាបនា​ស្វែងរក">
+<!ENTITY search.scopeBarExpanderUp.tooltip "លាក់​កម្មវិធី​ស្ថាបនា​ស្វែងរក">
+<!ENTITY saveSearch.label "រក្សាទុក">
+<!ENTITY saveSearch.accesskey "S">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "ស្វែងរក​តែ​ចំណាំ">
+<!ENTITY advancedSearch.match.label "ដំណូច ">
+<!ENTITY advancedSearch.all.label "ទាំងអស់">
+<!ENTITY advancedSearch.any.label "មួយ​ចំនួន">
+<!ENTITY advancedSearch.rules.label " នៃ​ច្បាប់​ខាង​ក្រោម ៖">
+<!ENTITY advancedSearch.subj_keyword.label "ដែល​មាន​អត្ថបទ">
+<!ENTITY advancedSearch.subj_visited.label "បាន​ទស្សនា">
+<!ENTITY advancedSearch.subj_location.label "ទីតាំង">
+<!ENTITY advancedSearch.location_startswith.label "ចាប់ផ្ដើម​ដោយ">
+<!ENTITY advancedSearch.location_is.label "ជា">
+<!ENTITY advancedSearch.location_onsite.label "នៅ​លើ​តំបន់​បណ្ដាញ">
+<!ENTITY advancedSearch.time_is.label "លើ">
+<!ENTITY advancedSearch.time_before.label "មុន">
+<!ENTITY advancedSearch.time_after.label "បន្ទាប់​ពី">
+<!ENTITY advancedSearch.time_inlast.label "នៅ​ចុង​ក្រោយ">
+<!ENTITY advancedSearch.last_days.label "ថ្ងៃ">
+<!ENTITY advancedSearch.last_weeks.label "សប្តាហ៍">
+<!ENTITY advancedSearch.last_months.label "ខែ">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "ដាក់​ក្រុម​តាម ៖ ">
+<!ENTITY advancedSearch.groupby_host.label "ម៉ាស៊ីន">
+<!ENTITY advancedSearch.groupby_domain.label "ដែន">
+<!ENTITY advancedSearch.groupby_folder.label "ថត">
+<!ENTITY advancedSearch.sortby.label "តម្រៀប​តាម ៖ ">
+<!ENTITY advancedSearch.sortby_title.label "ចំណង​ជើង">
+<!ENTITY advancedSearch.sortby_date.label "កាលបរិច្ឆេទ">
+<!ENTITY advancedSearch.sortby_visit.label "ចំនួន​ទស្សនា">
+<!ENTITY advancedSearch.sortby_url.label "url">
+<!ENTITY advancedSearch.sortby_asc.label "​ឡើង">
+<!ENTITY advancedSearch.sortby_desc.label "​ចុះ">
+<!ENTITY advancedSearch.max.label "លទ្ធផល​អតិបរមា ៖ ">
+
+<!ENTITY cmd.find.key "f">
+
+<!ENTITY feed.subscribe.label "មតិ​ព័ត៌មាន">
+<!ENTITY feed.subscribe.tooltip "ជាវ​ជាប្រចាំ">
+
+<!ENTITY view.detailsMacOSX.label "បញ្ជី">
+<!ENTITY view.details.label "លម្អិត">
+<!ENTITY view.details.accesskey "D">
+
+<!ENTITY view.addons.label "យក​កម្មវិធី​បន្ថែម មើល">
+
+<!ENTITY maintenance.label "នាំចូល និង​បម្រុង​ទុក">
+<!ENTITY maintenance.accesskey "I">
+
+<!ENTITY backCmd.label "ថយក្រោយ">
+<!ENTITY backButton.tooltip "ទៅ​ក្រោយ">
+
+<!ENTITY forwardCmd.label "ទៅ​មុខ">
+<!ENTITY forwardButton.tooltip "ទៅ​មុខ">
+
+<!ENTITY detailsPane.more.label "បន្ថែម">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "តិច">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "មើល​ជា​មុន">
+<!ENTITY detailsPane.selectAnItemText.description "ជ្រើស​ធាតុ​ដើម្បី​មើល និង​កែ​សម្រួល​លក្ខណៈ​សម្បត្តិ​របស់​វា">

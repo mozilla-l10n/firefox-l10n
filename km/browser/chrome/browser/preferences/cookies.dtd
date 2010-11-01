@@ -1,0 +1,27 @@
+<!ENTITY window.width "42.48em">
+
+<!ENTITY cookiesonsystem.label "ខូគី​ខាង​ក្រោម​ត្រូវ​បាន​ផ្ទុក​ក្នុង​កុំព្យូទ័រ​របស់​អ្នក ៖">
+<!ENTITY cookiename.label "ឈ្មោះខូឃី">
+<!ENTITY cookiedomain.label "តំបន់​បណ្តាញ">
+<!ENTITY button.removecookie.label "យក​ខូឃីចេញ">
+<!ENTITY button.removecookie.accesskey "R">
+<!ENTITY button.removeallcookies.label "យក​ខូឃី​ទាំងអស់​ចេញ">
+<!ENTITY button.removeallcookies.accesskey "A">
+
+<!ENTITY props.name.label "ឈ្មោះ ៖">
+<!ENTITY props.value.label "មាតិកា ៖">
+<!ENTITY props.domain.label "ម៉ាស៊ីន ៖">
+<!ENTITY props.path.label "ផ្លូវ ៖">
+<!ENTITY props.secure.label "ផ្ញើ​សម្រាប់ ៖">
+<!ENTITY props.expires.label "ផុត​កំណត់ ៖">
+
+<!ENTITY window.title "ខូគី">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "ស្វែងរក ៖">
+<!ENTITY filter.accesskey "S">
+
+<!ENTITY button.close.label "បិទ">
+<!ENTITY button.close.accesskey "C">

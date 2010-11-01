@@ -1,0 +1,44 @@
+
+<!ENTITY connectionsDialog.title "​កំណត់​ការ​​​​តភ្ជាប់​">
+<!ENTITY window.width "37em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY proxyTitle.label "កំណត់​រចនាសម្ព័ន្ធ​ប្រូកស៊ី ដើម្បី​ចូល​ដំណើរ​ការ​អ៊ិនធឺណិត">
+<!ENTITY noProxyTypeRadio.label "គ្មាន​ប្រូកស៊ីទេ ">
+<!ENTITY noProxyTypeRadio.accesskey "y">
+<!ENTITY systemTypeRadio.label "ប្រើ​ការ​កំណត់​ប្រូកស៊ី​របស់​ប្រព័ន្ធ ">
+<!ENTITY systemTypeRadio.accesskey "u">
+<!ENTITY WPADTypeRadio.label "​កំណត់​ប្រូក​ស៊ី​ដែល​រក​ឃើញ​ដោយ​ស្វ័យ​ប្រវត្តិ សម្រាប់​បណ្តាញ​នេះ">
+<!ENTITY WPADTypeRadio.accesskey "​">
+<!ENTITY manualTypeRadio.label "​​កំណត់​រចនា​សម្ព័ន្ធ​ប្រូកស៊ី​ដោយ​ដៃ">
+<!ENTITY manualTypeRadio.accesskey "​">
+<!ENTITY autoTypeRadio.label "​URL កំណត់​រចនា​សម្ព័ន្ធ​​ប្រូកស៊ី​​ស្វ័យ​ប្រវត្តិ ៖">
+<!ENTITY autoTypeRadio.accesskey "​">
+<!ENTITY reload.label "ផ្ទុក​ឡើង​វិញ">
+<!ENTITY reload.accesskey "e">
+<!ENTITY ftp.label "ប្រូកស៊ី FTP ៖">
+<!ENTITY ftp.accesskey "F">
+<!ENTITY gopher.label "ប្រូកស៊ី Gopher ៖">
+<!ENTITY gopher.accesskey "G">
+<!ENTITY http.label "ប្រូកស៊ី HTTP ៖">
+<!ENTITY http.accesskey "x">
+<!ENTITY ssl.label "ប្រូកស៊ី SSL ៖">
+<!ENTITY ssl.accesskey "L">
+<!ENTITY socks.label "​ម៉ាស៊ីន SOCKS ៖">
+<!ENTITY socks.accesskey "​">
+<!ENTITY socks4.label "​SOCKS v4">
+<!ENTITY socks4.accesskey "​">
+<!ENTITY socks5.label "​SOCKS v5">
+<!ENTITY socks5.accesskey "​">
+<!ENTITY port.label "ច្រក ៖">
+<!ENTITY HTTPport.accesskey "P">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY FTPport.accesskey "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY gopherPort.accesskey "">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "​គ្មាន​ប្រូកស៊ី​ សម្រាប់ ៖">
+<!ENTITY noproxy.accesskey "​">
+<!ENTITY noproxyExplain.label "ឧទាហរណ៍ ៖ .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "ប្រើ​ម៉ាស៊ីន​បម្រើ​ប្រូកស៊ី​នេះ​សម្រាប់​ពិធីការ​ទាំងអស់">
+<!ENTITY shareproxy.accesskey "s">
