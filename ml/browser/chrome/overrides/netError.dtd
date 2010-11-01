@@ -149,3 +149,7 @@
 
 <!ENTITY securityOverride.warningContent "
 <p>ഈ സര്‍വറില്‍ നിന്നും മുന്നറിയിപ്പുകള്‍ ലഭ്യമാകാറില്ല, അല്ലെങ്കില്‍ വിശ്വസനീയമല്ലാത്തൊരു ഇന്റര്‍നെറ്റ് കണക്ഷനാണുപയോഗിയ്ക്കുന്നതു് എങ്കില്‍ എക്സെപ്ഷന്‍ ചേര്‍ക്കരുതു്.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
