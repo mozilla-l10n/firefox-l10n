@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "a">
 
 <!ENTITY exceptionMgr.title                   "Aldoni sekurecan escepton">
-<!ENTITY exceptionMgr.exceptionButton         "Konfirmi sekurecan escepton">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "K">
+<!ENTITY exceptionMgr.exceptionButton.label   "Konfirmi sekurecan escepton">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "K">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitimaj bankoj, vendejoj kaj aliaj publikaj retejoj ne peto al vi fari ĉi tion.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Servilo">
 <!ENTITY exceptionMgr.certlocation.url        "Retadreso:">
