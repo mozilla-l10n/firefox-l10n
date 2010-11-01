@@ -126,9 +126,9 @@
 <!ENTITY formSigning.confirmPassword "Et kinnitada oma nõustumist selle tekstisõnumi allkirjastamisega valitud sertifikaadiga pead sisestama oma ülemparooli:">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Kaitstud turvamärgi autentimine">
-<!ENTITY protectedAuth.msg "Palun autendi turvamärk. Autentimise meetod oleneb sinu turvamärgist.">
-<!ENTITY protectedAuth.tokenName.label "Turvamärk:">
+<!ENTITY protectedAuth.title "Turvatõendi kasutusõiguse kinnitamine">
+<!ENTITY protectedAuth.msg "Palun kinnita turvatõendi kasutusõigust. ID-kaardi puhul sisesta PIN kaardilugeja sõrmistikult.">
+<!ENTITY protectedAuth.tokenName.label "Turvatõend:">
 
 <!ENTITY certErrorDlg.title "Turvaline ühendus ebaõnnestus">
 <!ENTITY certErrorDlg.info1 "Probleem võib olla serveri seadetes või siis üritab keegi välja paista selle serverina.">

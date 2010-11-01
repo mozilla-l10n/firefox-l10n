@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey      "n">
 
 <!ENTITY exceptionMgr.title                  "Turvalisuse erandi lisamine">
-<!ENTITY exceptionMgr.exceptionButton        "Kinnita turvalisuse erand">
-<!ENTITY exceptionMgr.exceptionButtonAccess  "K">
+<!ENTITY exceptionMgr.exceptionButton.label  "Kinnita turvalisuse erand">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "K">
 <!ENTITY exceptionMgr.supplementalWarning    "Seaduslikud pangad, poed ja muud avalikud veebilehed sellist asja sinult ei paluks.">
 <!ENTITY exceptionMgr.certlocation.caption2  "Server">
 <!ENTITY exceptionMgr.certlocation.url       "Asukoht:">
