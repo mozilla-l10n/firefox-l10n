@@ -11,14 +11,14 @@
 <!ENTITY fileMenu.label "Faidhle">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Sàbhail an duilleag mar…">
-<!ENTITY savePageCmd.accesskey "S">
+<!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Roghainnean na duilleige…">
-<!ENTITY pageSetupCmd.accesskey "R">
+<!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Ro-shealladh clò-bhualaidh">
-<!ENTITY printPreviewCmd.accesskey "h">
+<!ENTITY printPreviewCmd.accesskey "R">
 <!ENTITY printCmd.label "Clò-bhuail…">
-<!ENTITY printCmd.accesskey "b">
+<!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Dùin">
 <!ENTITY closeCmd.accesskey "D">
@@ -50,14 +50,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.title "Paisg loidhnichean fada"> 
 <!ENTITY menu_wrapLongLines.accesskey "P">
 <!ENTITY menu_highlightSyntax.label "Comharrachadh co-chàraidh">
-<!ENTITY menu_highlightSyntax.accesskey "m">
+<!ENTITY menu_highlightSyntax.accesskey "h">
 <!ENTITY menu_textSize.label "Meud an teacs">
-<!ENTITY menu_textSize.accesskey "s">
+<!ENTITY menu_textSize.accesskey "M">
 <!ENTITY menu_textEnlarge.label "Clò nas motha">
-<!ENTITY menu_textEnlarge.accesskey "m">
+<!ENTITY menu_textEnlarge.accesskey "C">
 <!ENTITY menu_textReduce.label "Clò nas lugha">
-<!ENTITY menu_textReduce.accesskey "l">
-<!ENTITY menu_textReset.label "Meud àbhaisteach">
+<!ENTITY menu_textReduce.accesskey "C">
+<!ENTITY menu_textReset.label "Àbhaisteach">
 <!ENTITY menu_textReset.accesskey "b">
 
 <!ENTITY findOnCmd.label     "Lorg san duilleag seo…">
@@ -65,12 +65,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Lorg a-rithist">
 <!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "C">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "Air ais">
-<!ENTITY backCmd.accesskey "i">
+<!ENTITY backCmd.accesskey "A">
 <!ENTITY forwardCmd.label "Air adhart">
-<!ENTITY forwardCmd.accesskey "d">
+<!ENTITY forwardCmd.accesskey "A">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">

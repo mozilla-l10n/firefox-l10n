@@ -8,14 +8,14 @@
 <!ENTITY  locbar.both.label             "Eachdraidh is comharran-lìn">
 <!ENTITY  locbar.history.label          "Eachdraidh">
 <!ENTITY  locbar.bookmarks.label        "Comharran-lìn">
-<!ENTITY  locbar.nothing.label          "Na mol càil">
+<!ENTITY  locbar.nothing.label          "Chan eil càil">
 
 
 <!ENTITY  acceptCookies.label           "Gabh ri briosgaidean o làraichean">
-<!ENTITY  acceptCookies.accesskey       "b">
+<!ENTITY  acceptCookies.accesskey       "a">
 
 <!ENTITY  acceptThirdParty.label        "Gabh ri briosgaidean treas pàrtaidh">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "G">
 
 <!ENTITY  keepUntil.label               "Cum gus:">
 <!ENTITY  keepUntil.accesskey           "C">
@@ -57,21 +57,14 @@
 <!ENTITY  dontrememberActions.clearHistory.label "an eachdraidh làithreach gu lèir a ghlanadh">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Tòisich &brandShortName; ann an seisean brabhsaidh phrìobhaidich leis fhèin">
-<!ENTITY  privateBrowsingAutoStart.accesskey "s">
+<!ENTITY  privateBrowsingPermanent.label "Modh buan a' bhrabhsaidh phrìobhaidich">
+<!ENTITY  privateBrowsingPermanent.accesskey "p">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Cuimhnich m' eachdraidh brabhsaidh air a' char as lugha fad">
-<!ENTITY  rememberHistory.pre.accesskey  "b">
-<!ENTITY  rememberHistory.post.label     "latha">
+<!ENTITY  rememberHistory.label      "Cuimhnich an eachdraidh brabhsaidh agam">
+<!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Cuimhnich eachdraidh dhe na chaidh a luchdadh a-nuas">
-<!ENTITY  rememberDownload.accesskey     "n">
+<!ENTITY  rememberDownload.accesskey     "d">
 
 <!ENTITY  rememberSearchForm.label       "Cuimhnich eachdraidh nan lorg is nam foirmichean">
 <!ENTITY  rememberSearchForm.accesskey   "f">
@@ -80,4 +73,4 @@
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "Roghainnean…">
-<!ENTITY  clearOnCloseSettings.accesskey "g">
+<!ENTITY  clearOnCloseSettings.accesskey "n">

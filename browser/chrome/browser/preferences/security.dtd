@@ -9,10 +9,10 @@
   "known").
 -->
 <!ENTITY  blockAttackSites.label     "Cuir bacadh air làraichean ionnsaighe a chaidh aithris a dhèanamh orra">
-<!ENTITY  blockAttackSites.accesskey "b">
+<!ENTITY  blockAttackSites.accesskey "C">
 
 <!ENTITY  blockWebForgeries.label     "Cuir bacadh air fallsaidheachdan-lìn a chaidh aithris a dhèanamh orra">
-<!ENTITY  blockWebForgeries.accesskey "f">
+<!ENTITY  blockWebForgeries.accesskey "b">
 
 <!ENTITY  addonExceptions.label         "Eisgeachdan…">
 <!ENTITY  addonExceptions.accesskey     "E">
@@ -21,22 +21,14 @@
 <!ENTITY  passwords.label               "Faclan-faire">
 
 <!ENTITY  rememberPasswords.label       "Cuimhnich faclan-faire nan làraichean-lìn">
-<!ENTITY  rememberPasswords.accesskey   "u">
+<!ENTITY  rememberPasswords.accesskey   "r">
 <!ENTITY  passwordExceptions.label      "Eisgeachdan…">
-<!ENTITY  passwordExceptions.accesskey  "g">
+<!ENTITY  passwordExceptions.accesskey  "E">
 
 <!ENTITY  useMasterPassword.label        "Cleachd prìomh fhacal-faire">
-<!ENTITY  useMasterPassword.accesskey    "a">
+<!ENTITY  useMasterPassword.accesskey    "C">
 <!ENTITY  changeMasterPassword.label     "Atharraich am prìomh fhacal-faire…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
 <!ENTITY  savedPasswords.label            "Faclan-faire a chaidh a shàbhaladh…">
 <!ENTITY  savedPasswords.accesskey        "F">
-
-
-<!ENTITY  warnings.label                "Teachdaireachdan rabhaidh">
-
-<!ENTITY  chooseWarnings.label          "Tagh na rabhaidhean a bu toigh leat fhaicinn fhad 's sheòlas tu an lìon">
-
-<!ENTITY  warningSettings.label         "Roghainnean…">
-<!ENTITY  warningSettings.accesskey     "R">

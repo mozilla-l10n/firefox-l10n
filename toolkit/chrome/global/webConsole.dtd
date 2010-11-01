@@ -1,0 +1,16 @@
+<!ENTITY networkPanel.requestURL                  "URL an iarrtais">
+<!ENTITY networkPanel.requestMethod               "Modh an iarrtais">
+<!ENTITY networkPanel.statusCode                  "Còd na h-inbhe">
+
+<!ENTITY networkPanel.requestHeaders              "Bannan-cinn an iarrtais">
+<!ENTITY networkPanel.requestCookie               "A' bhriosgaid a chaidh a chur">
+<!ENTITY networkPanel.requestBody                 "Bodhaig an iarrtais">
+<!ENTITY networkPanel.requestFormData             "Dàta an fhoirm a chaidh a chur">
+
+<!ENTITY networkPanel.responseHeaders             "Bannan-cinn na freagairt">
+<!ENTITY networkPanel.responseBody                "Bodhaig na freagairt">
+<!ENTITY networkPanel.responseBodyCached          "Dàta san tasgadan">
+<!ENTITY networkPanel.responseBodyUnknownType     "Susbaint de sheòrsa neo-aithnichte">
+<!ENTITY networkPanel.responseNoBody              "Gun bhodhaig freagairt">
+<!ENTITY networkPanel.responseImage               "An dealbh a fhuaradh">
+<!ENTITY networkPanel.responseImageCached         "An dealbh san tasgadan">

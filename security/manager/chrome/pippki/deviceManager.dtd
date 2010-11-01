@@ -44,18 +44,18 @@
 <!ENTITY devmgr.version.label                   "Tionndadh">
 
 <!ENTITY devmgr.button.changeslotname.label     "Atharraich ainm an t-sliotain">
-<!ENTITY devmgr.button.changeslotname.accesskey "A">
-<!ENTITY devmgr.button.login.label              "Log a-steach">
-<!ENTITY devmgr.button.login.accesskey          "g">
-<!ENTITY devmgr.button.logout.label             "Log a-mach">
+<!ENTITY devmgr.button.changeslotname.accesskey "c">
+<!ENTITY devmgr.button.login.label              "Atharraich ainm an t-sliotain">
+<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.logout.label             "Log a-steach">
 <!ENTITY devmgr.button.logout.accesskey         "o">
-<!ENTITY devmgr.button.changepw.label           "Atharraich am facal-faire">
-<!ENTITY devmgr.button.changepw.accesskey       "m">
-<!ENTITY devmgr.button.load.label               "Luchdaich">
+<!ENTITY devmgr.button.changepw.label           "Log a-steach">
+<!ENTITY devmgr.button.changepw.accesskey       "L">
+<!ENTITY devmgr.button.load.label               "Log a-mach">
 <!ENTITY devmgr.button.load.accesskey           "L">
-<!ENTITY devmgr.button.unload.label             "Dì-luchdaich">
-<!ENTITY devmgr.button.unload.accesskey         "D">
-<!ENTITY devmgr.button.fips.accesskey           "F">
+<!ENTITY devmgr.button.unload.label             "Luchdaich">
+<!ENTITY devmgr.button.unload.accesskey         "u">
+<!ENTITY devmgr.button.fips.accesskey           "Dì-luchdaich">
 
 <!ENTITY loaddevice.info                        "Cuir a-steach fiosrachadh mun mhòideal a bu toigh leat a chur ris.">
 <!ENTITY loaddevice.modname                     "Ainm a' mhòideil:">

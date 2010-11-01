@@ -49,7 +49,7 @@
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Coitcheann">
-<!ENTITY  generalTab.accesskey  "C">
+<!ENTITY  generalTab.accesskey  "c">
 <!ENTITY  generalURL            "Seòladh:">
 <!ENTITY  generalType           "Seòrsa:">
 <!ENTITY  generalMode           "Modh reandaraidh:">
@@ -77,13 +77,13 @@
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Sàbhail mar…">
 <!ENTITY  mediaSaveAs.accesskey "a">
-<!ENTITY  mediaSaveAs2.accesskey "l">
+<!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Ro-shealladh mheadhanan:">
 
 <!ENTITY  feedTab               "Inbhirean">
-<!ENTITY  feedTab.accesskey     "I">
+<!ENTITY  feedTab.accesskey     "b">
 <!ENTITY  feedSubscribe         "Fo-sgrìobh">
-<!ENTITY  feedSubscribe.accesskey "F">
+<!ENTITY  feedSubscribe.accesskey "o">
 
 <!ENTITY  permTab               "Ceadachasan">
 <!ENTITY  permTab.accesskey     "C">
@@ -96,11 +96,15 @@
 <!ENTITY  permImage             "Luchdadh de dhealbhan">
 <!ENTITY  permPopup             "Fosgladh de phriob-uinneagan">
 <!ENTITY  permCookie            "Suidheachadh de bhriosgaidean">
-<!ENTITY  permInstall           "Stàladh de leasachan no coltasan">
+<!ENTITY  permInstall           "Stàladh de leudachan no coltasan">
 <!ENTITY  permGeo               "Nochdadh an àite">
 
+<!ENTITY  permIndexedDB              "Rianaich an stòras far loidhne">
+<!ENTITY  permClearStorage           "Glan an stòras">
+<!ENTITY  permClearStorage.accesskey "G">
+
 <!ENTITY  securityTab           "Tèarainteachd">
-<!ENTITY  securityTab.accesskey "T">
+<!ENTITY  securityTab.accesskey "n">
 <!ENTITY  securityHeader        "Fiosrachadh tèarainteachd na duilleige seo">
 <!ENTITY  securityView.certView "Seall an teisteanas">
 <!ENTITY  securityView.accesskey "V">
@@ -113,12 +117,12 @@
 <!ENTITY  securityView.identity.verifier "Air a dhearbhadh le:">
 
 <!ENTITY  securityView.privacy.header                   "Prìobhaideachd ┐ eachdraidh">
-<!ENTITY  securityView.privacy.history                  "A bheil mi air tadhal air an làrach-lìn seo mu thràth an-diugh?">
+<!ENTITY  securityView.privacy.history                  "Na thadhail mi air an làrach-lìn seo ro an-diugh?">
 <!ENTITY  securityView.privacy.cookies                  "A bheil an làrach-lìn seo a' stòradh fiosrachadh (briosgaidean) air a' choimpiutair agam?">
 <!ENTITY  securityView.privacy.viewCookies              "Seall na briosgaidean">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "A bheil mi air facal-faire a shàbhaladh airson na làraich-lìn seo?">
-<!ENTITY  securityView.privacy.viewPasswords            "Seall na faclan-faire sàbhalaichte">
+<!ENTITY  securityView.privacy.viewPasswords            "Seall na faclan-faire a chaidh a shàbhaladh">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Mion-fhiosrachadh teicnigeach">

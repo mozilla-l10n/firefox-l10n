@@ -1,0 +1,28 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "An duilleag tòiseachaidh aig &brandFullName;">
+
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Tòiseachadh">
+
+<!ENTITY abouthome.searchEngineButton.label "Lorg">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Lorg adhartach">
+<!ENTITY abouthome.searchEngineLinks.preferences "Roghainnean">
+
+<!ENTITY abouthome.aboutMozilla "Mu Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Mòran taing airson Firefox a thaghadh! Ma tha thu airson am brabhsair agad a chur gu làn-fheum, faigh eòlas air na <a>feartan as ùire</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Tha e furasta Firefox a ghnàthachadh airson 's gun dèan e dìreach na tha thu ag iarraidh. <a>Dèan taghadh eadar na mìltean de thuilleadain</a>.">

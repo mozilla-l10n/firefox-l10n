@@ -5,23 +5,21 @@
 
 <!ENTITY  proxyTitle.label              "Rèitich progsaidhean a chum inntrigeadh dhan lìon">
 <!ENTITY  noProxyTypeRadio.label        "Gun phrogsaidh">
-<!ENTITY  noProxyTypeRadio.accesskey    "p">
+<!ENTITY  noProxyTypeRadio.accesskey    "G">
 <!ENTITY  systemTypeRadio.label         "Cleachd roghainnean progsaidh an t-siostaim">
-<!ENTITY  systemTypeRadio.accesskey     "e">
+<!ENTITY  systemTypeRadio.accesskey     "C">
 <!ENTITY  WPADTypeRadio.label           "Mothaich do roghainnean progsaidh leis fhèin air an lìonra seo">
-<!ENTITY  WPADTypeRadio.accesskey       "o">
+<!ENTITY  WPADTypeRadio.accesskey       "M">
 <!ENTITY  manualTypeRadio.label         "Rèiteachadh-làimhe nam progsaidh:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL rèiteachadh nam progsaidh leis fhèin:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
 <!ENTITY  reload.label                  "Ath-luchdaich">
-<!ENTITY  reload.accesskey              "a">
+<!ENTITY  reload.accesskey              "A">
 <!ENTITY  ftp.label                     "Progsaidh FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Progsaidh Gopher:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "Progsaidh HTTP:">
-<!ENTITY  http.accesskey                "s">
+<!ENTITY  http.accesskey                "P">
 <!ENTITY  ssl.label                     "Progsaidh SSL:">
 <!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "Òstair SOCKS:">
@@ -34,8 +32,6 @@
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Gun phrogsaidh airson:">
 <!ENTITY  noproxy.accesskey             "n">

@@ -64,13 +64,13 @@
 <!ENTITY copyName.label "Dèan lethbhreac dhen ainm">
 <!ENTITY copyName.accesskey "n">
 <!ENTITY copyValue.label "Dèan lethbhreac dhen luach">
-<!ENTITY copyValue.accesskey "l">
+<!ENTITY copyValue.accesskey "D">
 <!ENTITY modify.label "Atharraich">
 <!ENTITY modify.accesskey "A">
 <!ENTITY toggle.label "Toglaich">
 <!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "Ath-shuidhich">
-<!ENTITY reset.accesskey "h">
+<!ENTITY reset.accesskey "A">
 <!ENTITY new.label "Ùr">
 <!ENTITY new.accesskey "r">
 <!ENTITY string.label "Sreang">

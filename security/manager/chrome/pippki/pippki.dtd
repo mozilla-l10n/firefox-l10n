@@ -64,7 +64,7 @@
 <!ENTITY pref.security.general.header "Roghainnean tèarainteachd choitcheann">
 <!ENTITY pref.security.general.level.title "Ìre na tèarainteachd">
 <!ENTITY pref.security.general.paranoid.label "Cleachd roghainnean tèarainteachd paranoidheach">
-<!ENTITY pref.security.general.certificates.title "Teaisteanasan">
+<!ENTITY pref.security.general.certificates.title "Teisteanasan">
 <!ENTITY pref.security.general.manageCert.label "Stiùirich na teisteanasan">
 
 <!-- Downloading a cert -->
@@ -111,12 +111,12 @@
 <!ENTITY escrowWarn.benefit1 "Bhiodh seo 'na bhuannachd dhut ma chailleas tu inntrigeadh dhan iuchair dubh-cheilidh phrìobhaideach agad oir b' urrainn dhut lethbhreac dheth iarraidh on ùghdarras teisteanachaidh seo.">
 <!ENTITY escrowWarn.message2 "Ge-tà, thèid an iuchair dubh-cheilidh phrìobhaideach agad a stòradh leis an ùghdarras teisteanachaidh seo agus dh'fhaodadh a chleachdadh gus puist-dhealain no sgrìobhainnean dubh-cheilte agad a leughadh gun chead uat.">
 <!ENTITY examineCert.label "Seall an teisteanas">
-<!ENTITY examineCert.accesskey "t">
+<!ENTITY examineCert.accesskey "S">
 
 <!ENTITY serverCrlNextupdate.message "Iarr air rianaire an t-siostaim agad do chuideachadh.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "A' cruthachadh iuchair phrìobhaideach">
+<!ENTITY createCertInfo.title "A' gintinn iuchair phrìobhaideach">
 <!ENTITY createCertInfo.msg1 "Iuchair 'ga chruthachadh… Feumaidh seo mionaid no dhà…">
 <!ENTITY createCertInfo.msg2 "Fuirich ort…">
 

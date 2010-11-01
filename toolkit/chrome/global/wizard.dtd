@@ -1,12 +1,12 @@
 <!ENTITY  button-back-mac.label        "Air ais">
 <!ENTITY  button-back-mac.accesskey    "A">
-<!ENTITY  button-next-mac.label        "Air adhart">
-<!ENTITY  button-next-mac.accesskey    "A">
+<!ENTITY  button-next-mac.label        "Lean air adhart">
+<!ENTITY  button-next-mac.accesskey    "L">
 <!ENTITY  button-finish-mac.label      "Dèanta">
 <!ENTITY  button-cancel-mac.label      "Sguir dheth">
 
 <!ENTITY  button-back-unix.label       "Air ais">
-<!ENTITY  button-back-unix.accesskey   "i">
+<!ENTITY  button-back-unix.accesskey   "A">
 <!ENTITY  button-next-unix.label       "Air adhart">
 <!ENTITY  button-next-unix.accesskey   "A">
 <!ENTITY  button-finish-unix.label     "Crìochnaich">

@@ -45,7 +45,7 @@
 <!ENTITY  validation.deletecrl.label              "Sguab às">
 <!ENTITY  validation.deletecrl.accesskey          "S">
 <!ENTITY  validation.updatecrl.label              "Ùraich">
-<!ENTITY  validation.updatecrl.accesskey          "Ù">
+<!ENTITY  validation.updatecrl.accesskey          "r">
 <!ENTITY  validation.advanced.label               "Roghainnean">
 <!ENTITY  validation.advanced.accesskey           "R">
 

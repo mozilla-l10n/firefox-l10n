@@ -9,20 +9,20 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "Luchdaidhean a-nuas">
 
-<!ENTITY cmd.pause.label                  "Fuirich">
-<!ENTITY cmd.pause.accesskey              "F">
+<!ENTITY cmd.pause.label                  "Cuir 'na stad">
+<!ENTITY cmd.pause.accesskey              "s">
 <!ENTITY cmd.resume.label                 "Lean air">
-<!ENTITY cmd.resume.accesskey             "L">
+<!ENTITY cmd.resume.accesskey             "r">
 <!ENTITY cmd.cancel.label                 "Sguir dheth">
-<!ENTITY cmd.cancel.accesskey             "S">
+<!ENTITY cmd.cancel.accesskey             "d">
 <!ENTITY cmd.show.label                   "Fosgail am pasgan far a bheil e">
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Seall san lorgair">
-<!ENTITY cmd.showMac.accesskey            "l">
+<!ENTITY cmd.showMac.accesskey            "S">
 <!ENTITY cmd.open.label                   "Fosgail">
-<!ENTITY cmd.open.accesskey               "F">
+<!ENTITY cmd.open.accesskey               "o">
 <!ENTITY cmd.openWith.label               "Fosgail le…">
-<!ENTITY cmd.openWith.accesskey           "g">
+<!ENTITY cmd.openWith.accesskey           "F">
 <!ENTITY cmd.retry.label                  "Feuch ris a-rithist">
 <!ENTITY cmd.retry.accesskey              "r">
 <!ENTITY cmd.goToDownloadPage.label       "Rach gu duilleag nan luchdaidhean">
@@ -30,7 +30,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.copyDownloadLink.label       "Dèan lethbhreac dhen cheangal luchdaidh">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromList.label         "Thoir air falbh on liosta">
-<!ENTITY cmd.removeFromList.accesskey     "t">
+<!ENTITY cmd.removeFromList.accesskey     "T">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">

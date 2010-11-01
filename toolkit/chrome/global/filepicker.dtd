@@ -3,12 +3,12 @@
 <!ENTITY textInput.label        "Ainm an fhaidhle:">
 <!ENTITY textInput.accesskey        "n">
 <!ENTITY filterMenuList.label   "Seòrsa an fhaidhle:">
-<!ENTITY filterMenuList.accesskey   "s">
+<!ENTITY filterMenuList.accesskey   "S">
 <!ENTITY name.label             "Ainm">
 <!ENTITY size.label             "Meud">
 <!ENTITY lastModified.label     "Atharrachadh mu dheireadh">
 <!ENTITY showHiddenFiles.label  "Seall na faidhlichean is pasgain fhalaichte">
-<!ENTITY showHiddenFiles.accesskey  "p">
+<!ENTITY showHiddenFiles.accesskey  "S">
 
 <!ENTITY noPermissionError.label "Chan eil cead iomchaidh agad gus an t-eòlaire seo fhaicinn.">
 

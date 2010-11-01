@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        "Nuair a dh'fhosglas mi ceangal ann an taba ùr, thoir leum ann sa bhad">
 <!ENTITY switchToNewTabs.accesskey    "s">
+
+<!ENTITY showTabsInTaskbar.label          "Seall ro-shealladh nan tabaichean ann am bàr-ghnìomhan Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "S">

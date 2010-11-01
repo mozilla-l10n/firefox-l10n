@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(Gun tiotal)">
-<!ENTITY  newTab.label           "Taba ùr">
-<!ENTITY  newTab.accesskey       "T">
 <!ENTITY  closeTab.label         "Dùin an taba">
-<!ENTITY  closeTab.accesskey         "n">
-<!ENTITY  closeOtherTabs.accesskey  "D">
-<!ENTITY  closeOtherTabs.label   "Dùin na tabaichean eile">
-<!ENTITY  reloadAllTabs.label    "Ath-luchdaich gach taba">
-<!ENTITY  reloadAllTabs.accesskey         "A">
-<!ENTITY  reloadTab.label        "Ath-luchdaich an taba">
-<!ENTITY  reloadTab.accesskey         "b">
-<!ENTITY  openTabInNewWindow.label    "Fosgail ann an uinneag ùr">
-<!ENTITY  openTabInNewWindow.accesskey "u">
-<!ENTITY  listAllTabs.label      "Liostaich gach taba">
-<!ENTITY  bookmarkAllTabs.label       "Dèan comharra-lìn de gach taba…">
-<!ENTITY  bookmarkAllTabs.accesskey   "c">
-<!ENTITY  bookmarkThisTab.label       "Cruthaich comharra-lìn dhan taba seo">
-<!ENTITY  bookmarkThisTab.accesskey   "m">
-<!ENTITY  undoCloseTab.label          "Neo-dhèan dùnadh an taba">
-<!ENTITY  undoCloseTab.accesskey      "o">
 <!ENTITY  newTabButton.tooltip        "Fosgail taba ùr">

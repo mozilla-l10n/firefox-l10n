@@ -2,14 +2,14 @@
 <!ENTITY charsetMenu.label             "Còdachadh charactairean">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "Mothachadh leis fhèin">
-<!ENTITY charsetMenuAutodet.accesskey  "M">
+<!ENTITY charsetMenuAutodet.accesskey  "a">
 <!ENTITY charsetMenuMore.label         "Barrachd còdachaidhean">
 <!ENTITY charsetMenuMore.accesskey     "B">
 <!ENTITY charsetMenuMore1.label        "Taobh an Iar na Roinn Eòrpa">
-<!ENTITY charsetMenuMore1.accesskey    "i">
+<!ENTITY charsetMenuMore1.accesskey    "T">
 <!ENTITY charsetMenuMore2.label        "Taobh an Ear na Roinn Eòrpa">
 <!ENTITY charsetMenuMore2.accesskey    "E">
-<!ENTITY charsetMenuMore3.label        "Taobh an Ear Àisea">
+<!ENTITY charsetMenuMore3.label        "Taobh an Ear na h-Àisea">
 <!ENTITY charsetMenuMore3.accesskey    "a">
 <!ENTITY charsetMenuMore4.label        "Taobh an Ear-dheas ┐ Iar-dheas Àisea">
 <!ENTITY charsetMenuMore4.accesskey    "s">
@@ -18,4 +18,4 @@
 <!ENTITY charsetMenuUnicode.label      "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey  "U">
 <!ENTITY charsetCustomize.label        "Gnàthaich an liosta…">
-<!ENTITY charsetCustomize.accesskey    "G">
+<!ENTITY charsetCustomize.accesskey    "c">

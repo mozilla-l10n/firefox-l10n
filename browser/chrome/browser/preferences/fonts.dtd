@@ -4,21 +4,21 @@
 <!ENTITY  window.unixWidth                        "49em">
 
 <!ENTITY  language.label                          "Cruthan-clò airson:">
-<!ENTITY  language.accesskey                      "t">
+<!ENTITY  language.accesskey                      "C">
 
 <!ENTITY  size.label                              "Meud:">
 <!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "l">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Co-rèireach:">
-<!ENTITY  proportional.accesskey                  "r">
+<!ENTITY  proportional.accesskey                  "C">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Clò aon-leud:">
-<!ENTITY  monospace.accesskey                     "d">
+<!ENTITY  monospace.accesskey                     "C">
 
 <!ENTITY  font.langGroup.latin1                   "Siarach">
 <!ENTITY  font.langGroup.latin2                   "Meadhan-Eòrpach">
@@ -36,7 +36,7 @@
 <!ENTITY  font.langGroup.thai                     "Tàidh">
 <!ENTITY  font.langGroup.hebrew                   "Eabhra">
 <!ENTITY  font.langGroup.arabic                   "Arabais">
-<!ENTITY  font.langGroup.devanagari               "Devanàgari">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Taimil">
 <!ENTITY  font.langGroup.armenian                 "Airmeinis">
 <!ENTITY  font.langGroup.bengali                  "Beangailis">
@@ -51,9 +51,10 @@
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibeitis">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Meud as lugha a' chrutha-chlò:">
-<!ENTITY minSize.accesskey                        "u">
+<!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Chan eil gin">
 
 <!-- default font type -->

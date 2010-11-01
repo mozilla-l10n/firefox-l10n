@@ -9,7 +9,7 @@
 <!ENTITY  textColor.label                 "Teacsa:">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Cùlaibh:">
-<!ENTITY  backgroundColor.accesskey       "C">
+<!ENTITY  backgroundColor.accesskey       "b">
 <!ENTITY  useSystemColors.label           "Cleachd dathan an t-siostaim">
 <!ENTITY  useSystemColors.accesskey       "s">
 
@@ -17,6 +17,6 @@
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Dathan nan ceangal">
 <!ENTITY  linkColor.label                 "Ceanglaichean gun tadhal orra:">
-<!ENTITY  linkColor.accesskey             "e">
+<!ENTITY  linkColor.accesskey             "l">
 <!ENTITY  visitedLinkColor.label          "Ceanglaichean a thadhladh orra:">
-<!ENTITY  visitedLinkColor.accesskey      "o">
+<!ENTITY  visitedLinkColor.accesskey      "n">

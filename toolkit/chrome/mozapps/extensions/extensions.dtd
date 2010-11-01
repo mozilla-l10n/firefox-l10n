@@ -1,176 +1,194 @@
-<!ENTITY addons.title                     "Tuilleadain">
+<!ENTITY addons.windowTitle                   "Manaidsear nan tuilleadan">
+<!ENTITY search.placeholder                   "Rannsaich a h-uile tuilleadan">
+<!ENTITY loading.label                        "A' luchdadh…">
+<!ENTITY listEmpty.installed.label            "Chan eil tuilleadan dhen t-seòrsa seo air a stàladh agad">
+<!ENTITY listEmpty.availableUpdates.label     "Cha deach ùrachadh a lorg">
+<!ENTITY listEmpty.recentUpdates.label        "Cha do dh'ùraich thu tuilleadan sam bith o chionn ghoirid">
+<!ENTITY listEmpty.findUpdates.label          "Lorg ùrachaidhean">
+<!ENTITY listEmpty.search.label               "Cha deach tuilleadan freagarrach a lorg">
+<!ENTITY listEmpty.button.label               "Faigh barrachd fiosrachaidh mu thuilleadain">
+<!ENTITY installAddonFromFile.label           "Stàlaich tuilleadan o fhaidhle…">
+<!ENTITY installAddonFromFile.accesskey       "i">
+<!ENTITY toolsMenu.tooltip                    "Innealan airson a h-uile tuilleadan">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "550">
-<!ENTITY em.height                        "380">
+<!ENTITY cmd.back.tooltip                     "Rach duilleag air ais">
+<!ENTITY cmd.forward.tooltip                  "Rach duilleag air adhart">
 
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Chaidh a h-uile tuilleadan a chur à comas leis a' mhodh sàbhailte.">
+<!ENTITY warning.checkcompatibility.label          "Chaidh an sgrùdadh air co-chòrdalachd nan tuilleadain a chur à comas. Dh'fhaodadh gu bheil tuilleadan agad nach eil co-chòrdail.">
+<!ENTITY warning.checkcompatibility.enable.label   "Cuir an comas">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Cuir an comas sgrùdadh co-chòrdalachd nan tuilleadan">
+<!ENTITY warning.updatesecurity.label              "Chaidh an sgrùdadh tèarainteachd air ùrachadh nan tuilleadain a chur à comas. Dh'fhaodadh gun cuir ùrachaidhean cron ort.">
+<!ENTITY warning.updatesecurity.enable.label       "Cuir an comas">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Cuir an comas sgrùdadh tèarainteachd nan tuilleadan">
 
-<!-- View labels -->
-<!ENTITY search.label                     "Faigh tuilleadain">
-<!ENTITY extensions.label                 "Leasachain">
-<!ENTITY themes.label                     "Ùrlaran">
-<!ENTITY locales.label                    "Cànain">
-<!ENTITY plugins.label                    "Plugain">
-<!ENTITY update.label                     "Ùrachaidhean">
-<!ENTITY install.label                    "Stàladh">
+<!-- categories / views -->
+<!ENTITY view.search.label                    "Lorg">
+<!ENTITY view.discover.label                  "Faigh tuilleadain">
+<!ENTITY view.locales.label                   "Cànain">
+<!ENTITY view.searchengines.label             "Einnseanan-luirg">
+<!ENTITY view.features.label                  "Leudachain">
+<!ENTITY view.appearance2.label               "Riochd">
+<!ENTITY view.plugins.label                   "Plugain">
+<!ENTITY view.recentUpdates.label             "Ùraichaidhean faisg ort">
+<!ENTITY view.availableUpdates.label          "Ùrachaidhean a tha ri am faighinn">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Lorg ùrachaidhean">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "L">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Lorg ùrachaidhean airson nan tuilleadan agad">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Lorg ùrachaidhean airson nan ùrlaran agad">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Lorg ùrachaidhean airson nam plugan agad">
-<!ENTITY cmd.installLocalFile.label       "Stàlaich…">
-<!ENTITY cmd.installLocalFile.accesskey   "S">
-<!ENTITY cmd.installFileAddon.tooltip     "Stàlaich tuilleadan">
-<!ENTITY cmd.installFileTheme.tooltip     "Stàlaich ùrlar">
-<!ENTITY cmd.installUpdatesAll2.label     "Stàlaich na h-ùrachaidhean">
-<!ENTITY cmd.installUpdatesAll2.accesskey "i">
-<!ENTITY cmd.installUpdatesAll2.tooltip   "Stàlaich na h-ùrachaidhean a thagh thu">
-<!ENTITY cmd.restartApp2.label            "Ath-thòisich &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey        "A">
-<!ENTITY cmd.restartApp2.tooltip          "Ath-thòisich &brandShortName; gus na dh'atharraich thu a chur an sàs">
-<!ENTITY cmd.skip.label                   "Leum thairis air">
-<!ENTITY cmd.skip.accesskey               "m">
-<!ENTITY cmd.skip.tooltip                 "Leum thairis air na h-ùrachaidhean seo">
-<!ENTITY cmd.continue.label               "Air adhart">
-<!ENTITY cmd.continue.accesskey           "A">
-<!ENTITY cmd.continue.tooltip             "Cum ort le luchdadh &brandShortName;">
+<!-- addon updates -->
+<!ENTITY updates.checkForUpdates.label        "Lorg ùrachaidhean">
+<!ENTITY updates.checkForUpdates.accesskey    "c">
+<!ENTITY updates.viewUpdates.label            "Seall na h-ùrachaidhean faisg orm">
+<!ENTITY updates.viewUpdates.accesskey        "S">
+<!ENTITY updates.updateAddonsAutomatically.label     "Ùraich na tuilleadain gu fèin-obrachail">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "a">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Ath-shuidhich gach tuilleadan airson 's gun ùraich iad gu fèin-obrachail">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "r">
+<!ENTITY updates.resetUpdatesToManual.label          "Ath-shuidhich gach tuilleadan airson 's gun ùraich iad de làimh">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "r">
+<!ENTITY updates.updating.label               "Ag ùrachadh nan tuilleadan">
+<!ENTITY updates.installed.label              "Chaidh na tuilleadain agad ùrachadh.">
+<!ENTITY updates.downloaded.label             "Chaidh ùrachaidhean nan tuilleadan agad a luchdadh a-nuas.">
+<!ENTITY updates.restart.label                "Ath-thòisich an-dràsta gus an stàladh a thoirt gu buil">
+<!ENTITY updates.noneFound.label              "Cha deach ùrachadh a lorg">
+<!ENTITY updates.manualUpdatesFound.label     "Seall na h-ùrachaidhean a tha ri am faighinn">
+<!ENTITY updates.updateSelected.label         "Stàlaich na h-ùrachaidhean">
+<!ENTITY updates.updateSelected.tooltip       "Stàlaich na h-ùrachaidhean san liosta seo a tha ri am faighinn">
 
-<!ENTITY cmd.enableAll.label              "Cuir an comas a h-uile">
-<!ENTITY cmd.enableAll.accesskey          "a">
-<!ENTITY cmd.enableAll.tooltip            "Cuir an comas a h-uile tuilleadan a tha ri fhaicinn">
-<!ENTITY cmd.disableAll.label             "Neo-chomasaich a h-uile">
-<!ENTITY cmd.disableAll.accesskey         "s">
-<!ENTITY cmd.disableAll.tooltip           "Cuir à comas na tuilleadain a tha ri fhaicinn">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Seall barrachd fiosrachaidh">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "Lorg ùrachaidhean">
+<!ENTITY cmd.findUpdates.accesskey            "L">
+<!ENTITY cmd.preferencesWin.label             "Roghainnean">
+<!ENTITY cmd.preferencesWin.accesskey         "o">
+<!ENTITY cmd.preferencesUnix.label            "Roghainnean">
+<!ENTITY cmd.preferencesUnix.accesskey        "R">
+<!ENTITY cmd.about.label                      "Mu dhèidhinn">
+<!ENTITY cmd.about.accesskey                  "M">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "Cleachd an t-ùrlar">
-<!ENTITY cmd.useTheme.accesskey           "t">
-<!ENTITY cmd.useTheme.tooltip             "Atharraich ùrlar &brandShortName;">
-<!ENTITY cmd.options.label                "Roghainnean">
-<!ENTITY cmd.options.accesskey            "R">
-<!ENTITY cmd.options.tooltip              "Suidhiche roghainnean airson an leasachain a thagh thu">
-<!ENTITY cmd.optionsUnix.label            "Roghainnean">
-<!ENTITY cmd.optionsUnix.accesskey        "R">
-<!ENTITY cmd.optionsUnix.tooltip          "Deasaich roghainnean an leasachain a thagh thu">
-<!ENTITY cmd.enable.label                 "Cuir an comas">
-<!ENTITY cmd.enable.accesskey             "C">
-<!ENTITY cmd.enable.tooltip               "Cuir an comas an tuilleadan seo nuair a thèid &brandShortName; ath-thòiseachadh">
-<!ENTITY cmd.disable.label                "Cuir à comas">
-<!ENTITY cmd.disable.accesskey            "m">
-<!ENTITY cmd.disable.tooltip              "Cuir à comas an tuilleadan seo nuair a thèid &brandShortName; ath-thòiseachadh">
-<!ENTITY cmd.uninstall.label              "Dì-stàlaich">
-<!ENTITY cmd.uninstall2.accesskey         "U">
-<!ENTITY cmd.uninstall2.tooltip           "Dì-stàlaich an tuilleadan seo nuair a thèid &brandShortName; ath-thòiseachadh">
-<!ENTITY cmd.cancelUninstall.label        "Sguir dhen dì-stàladh">
-<!ENTITY cmd.cancelUninstall.accesskey    "S">
-<!ENTITY cmd.cancelUninstall.tooltip      "Sguir de dhì-stàladh an tuilleadain seo">
-<!ENTITY cmd.cancelInstall.label          "Sguir dhen stàladh">
-<!ENTITY cmd.cancelInstall.accesskey      "S">
-<!ENTITY cmd.cancelInstall.tooltip        "Sguir de stàladh an tuilleadain seo">
-<!ENTITY cmd.cancelUpgrade.label          "Sguir dhen ùrachadh">
-<!ENTITY cmd.cancelUpgrade.accesskey      "S">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Sguir de dh'ùrachadh an tuilleadain seo">
-<!ENTITY cmd.installUpdate.label          "Stàlaich an t-ùrachadh">
-<!ENTITY cmd.installUpdate.accesskey      "i">
-<!ENTITY cmd.installUpdate.tooltip        "Stàlaich ùrachadh airson an tuilleadain seo">
-<!ENTITY cmd.showUpdateInfo.label         "Seall fiosrachadh">
-<!ENTITY cmd.showUpdateInfo.accesskey     "S">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Seall barrachd fiosrachaidh mu na h-ùrachaidhean seo">
-<!ENTITY cmd.hideUpdateInfo.label         "Falaich fiosrachadh">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "h">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Falaich fiosrachadh mu na h-ùrachaidhean seo">
-<!ENTITY cmd.installSearchResult.label     "Cuir ri &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "C">
-<!ENTITY cmd.installSearchResult.tooltip   "Luchdaich a-nuas is stàlaich an tuilleadan seo">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "Sguir dheth">
-<!ENTITY cancel.accesskey                 "S">
-<!ENTITY cancelInstall.label              "Sguir dheth">
-<!ENTITY cancelInstall.accesskey          "S">
-<!ENTITY cancelUpgrade.label              "Sguir dheth">
-<!ENTITY cancelUpgrade.accesskey          "S">
+<!ENTITY cmd.enableAddon.label                "Cuir an comas">
+<!ENTITY cmd.enableAddon.accesskey            "C">
+<!ENTITY cmd.disableAddon.label               "Cuir à comas">
+<!ENTITY cmd.disableAddon.accesskey           "C">
+<!ENTITY cmd.enableTheme.label                "Cleachd an t-ùrlar seo">
+<!ENTITY cmd.enableTheme.accesskey            "C">
+<!ENTITY cmd.disableTheme.label               "Na cleachd an t-ùrlar seo tuilleadh">
+<!ENTITY cmd.disableTheme.accesskey           "N">
+<!ENTITY cmd.installAddon.label               "Stàlaich">
+<!ENTITY cmd.installAddon.accesskey           "i">
+<!ENTITY cmd.uninstallAddon.label             "Thoir air falbh">
+<!ENTITY cmd.uninstallAddon.accesskey         "r">
+<!ENTITY cmd.showPreferencesWin.label         "Roghainnean">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Atharraich roghainnean an tuilleadain seo">
+<!ENTITY cmd.showPreferencesUnix.label        "Roghainnean">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Atharraich roghainnean an tuilleadain seo">
+<!ENTITY cmd.contribute.label                 "Gabh pàirt ann">
+<!ENTITY cmd.contribute.accesskey             "G">
+<!ENTITY cmd.contribute.tooltip               "Gabh pàirt ann an leasachadh an tuilleadain seo">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Tadhail air an duilleag-dhachaidh">
-<!ENTITY cmd.homepage.accesskey           "h">
-<!ENTITY cmd.about2.label                 "Mun tuilleadan seo">
-<!ENTITY cmd.about.accesskey              "A">
-<!ENTITY cmd.checkUpdate.label            "Lorg ùrachadh">
-<!ENTITY cmd.checkUpdate.accesskey        "L">
+<!ENTITY cmd.showReleaseNotes.label           "Seall na nòtaichean sgaoilidh">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Seall nòtaichean sgaoilidh an ùrachaidh seo">
+<!ENTITY cmd.hideReleaseNotes.label           "Cuir na nòtaichean sgaoilidh am falach">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Cuir nòtaichean sgaoilidh an ùrachaidh seo am falach">
 
-<!ENTITY cmd.includeUpdate.label          "Gabh a-steach an t-ùrachadh seo">
-<!ENTITY cmd.includeUpdate.accesskey      "n">
-<!ENTITY includeUpdate.label              "Gabh a-steach an t-ùrachadh seo">
-<!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "Gabh a-steach an tuilleadan seo nuair a thèid na h-ùrachaidhean a stàladh">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Dè th' ann an tuilleadan?">
+<!ENTITY discover.description2                "'S e prògram beag a tha ann an tuilleadan leis an urrainn dhut
+  feartan no stoidhle a bharrachd a chur ri Firefox. Feuch ri bàr-taoibhe a shàbhals ùine, aithrisiche na h-aimsire
+  no ùrlar gus do dhreach fhèin a chur air &brandShortName;.">
+<!ENTITY discover.footer                      "Nochdaidh cuid dhe na tuilleadan as fhearr 's air a bheil an fhèill
+  as motha an-seo nuair a bhios tu co-cheangailte ris an lìon gun
+  urrainn dhut feuchainn riutha.">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Na solair ùrachaidhean tèarainte.">
-<!ENTITY needsDependencies.label          "Rudan eile a dhìth.">
-<!ENTITY blocklisted.label                "Air an cur neo-chomasach a chum do thèarainteachd.">
-<!ENTITY softBlocklisted.label            "Tha fhios gum bi e ag adhbharachadh duilgheadasan tèarainteachd is seasmhachd.">
-<!ENTITY outdated.label                   "Tha tionndadh nas ùire is nas tèarainte ri fhaighinn.">
-<!ENTITY toBeDisabled.label               "Bidh an tuilleadan seo air a chur à comas nuair a thèid &brandShortName; ath-thòiseachadh.">
-<!ENTITY toBeEnabled.label                "Thèid an tuilleadan seo 'ga chur an comas nuair a thèid &brandShortName; ath-thòiseachadh.">
-<!ENTITY toBeInstalled.label              "Thèid an tuilleadan seo a stàladh nuair a thèid &brandShortName; ath-thòiseachadh.">
-<!ENTITY toBeUninstalled.label            "Thèid an tuilleadan seo a dhì-stàladh nuair a thèid &brandShortName; ath-thòiseachadh.">
-<!ENTITY toBeUpdated.label                "Thèid an tuilleadan seo ùrachadh nuair a thèid &brandShortName; ath-thòiseachadh.">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Tionndadh">
+<!ENTITY detail.lastupdated.label             "Ùrachadh mu dheireadh">
+<!ENTITY detail.creator.label                 "Leasaichear">
+<!ENTITY detail.homepage.label                "Duilleag-dhachaigh">
+<!ENTITY detail.numberOfDownloads.label       "Luchdaidhean a-nuas">
 
-<!ENTITY getExtensions.label              "Faigh leasachain">
-<!ENTITY getThemes.label                  "Faigh ùrlaran">
-<!ENTITY getPlugins.label                 "Faigh plugain">
+<!ENTITY detail.contributions.description     "Dh'iarr leasaichear an tuilleadain seo gun cuir thu taic ri shìor-leasachadh tro thabhartas beag.">
 
-<!ENTITY searchAddons.label               "Rannsaich na tuilleadain gu lèir">
-<!ENTITY browseAddons.label               "Rùraich na tuilleadain gu lèir">
-<!ENTITY searchFailed.label               "Cha b' urrainn do &brandShortName; na tuilleadain fhaighinn">
-<!ENTITY recommendedHeader.label          "Mholar seo">
-<!ENTITY recommendedThrobber.label        "A' faighinn nan tuilleadan a thathar a' moladh">
-<!ENTITY searchThrobber.label             "A' rannsachadh nan tuilleadan">
-<!ENTITY resetSearch.label                "Glan na toraidhean">
-<!ENTITY noSearchResults.label            "Tha a h-uile toradh air a stàladh mu thràth no neo-chòrdail.">
-<!ENTITY noRecommendedResults.label       "Tha gach nì a chaidh a mholadh air a stàladh mu thràth no neo-chòrdail.">
-<!ENTITY emptySearch.label                "Chan eil tuilleadan freagarrach ann">
-<!ENTITY emptySearch.button               "Ceart ma-tha">
-<!ENTITY cancelSearch.button              "Sguir dheth">
-<!ENTITY searchFailed.button              "Ceart ma-tha">
-<!ENTITY searchResultHomepage.value       "Faigh tuilleadh eòlais">
-<!ENTITY searchBox.label                  "Rannsaich na tuilleadain gu lèir">
-<!ENTITY recommendedResults.label         "Seall a h-uile tuilleadan a thathar a' moladh">
-<!ENTITY searchResultConnecting.label     "A' ceangal…">
-<!ENTITY searchResultInstalling.label     "'Ga stàladh…">
-<!ENTITY searchResultFailed.label         "Dh'fhàillig an stàladh">
-<!ENTITY searchResultInstalled.label      "Tha an stàladh deiseil">
-<!ENTITY addonTypeExtension.label         "Leasachan">
-<!ENTITY addonTypeTheme.label             "Ùrlar">
-<!ENTITY missingThumbnail.label           "Gun ro-shealladh">
+<!ENTITY detail.updateType                    "Ùrachaidhean fèin-obrachail">
+<!ENTITY detail.updateDefault.label           "Bunaiteach">
+<!ENTITY detail.updateDefault.tooltip         "Na stàlaich ùrachaidhean gu fèin-obrachail ach mas e sin an roghainn bhunaiteach">
+<!ENTITY detail.updateAutomatic.label         "Air">
+<!ENTITY detail.updateAutomatic.tooltip       "Stàlaich ùrachaidhean gu fèin-obrachail">
+<!ENTITY detail.updateManual.label            "Dheth">
+<!ENTITY detail.updateManual.tooltip          "Na stàlaich ùrachaidhean gu fèin-obrachail">
+<!ENTITY detail.home                          "Duilleag-dhachaigh">
+<!ENTITY detail.repository                    "Pròifil an tuilleadain">
+<!ENTITY detail.size                          "Meud">
 
-<!ENTITY previewNoThemeSelected.label     "Cha deach ùrlar a thaghadh">
-<!ENTITY previewNoPreviewImage.label      "Chan eil ro-shealladh aig an ùrlar seo">
-<!ENTITY moreInfo.label                   "Barrachd fiosrachaidh">
-<!ENTITY infoNoAddonSelected.label        "Cha deach ùrachadh a thaghadh">
-<!ENTITY infoNoUpdateInfo.label           "Chan eil barrachd fiosrachaidh ris an ùrachadh seo">
-<!ENTITY infoUpdateInfoError.label        "Thachair mearachd rè luchdadh an fhiosrachaidh mun ùrachadh seo">
+<!ENTITY detail.checkForUpdates.label         "Lorg ùrachaidhean">
+<!ENTITY detail.checkForUpdates.accesskey     "L">
+<!ENTITY detail.checkForUpdates.tooltip       "Lorg ùrachaidhean airson an tuilleadain seo">
+<!ENTITY detail.showPreferencesWin.label      "Roghainnean">
+<!ENTITY detail.showPreferencesWin.accesskey  "o">
+<!ENTITY detail.showPreferencesWin.tooltip    "Atharraich roghainnean an tuilleadain seo">
+<!ENTITY detail.showPreferencesUnix.label     "Roghainnean">
+<!ENTITY detail.showPreferencesUnix.accesskey "R">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Atharraich roghainnean an tuilleadain seo">
 
-<!ENTITY updateSuccess.label              "Shoirbhich leis an ùrachadh.">
-<!ENTITY installSuccess.label             "Shoirbhich leis an stàladh.">
-<!ENTITY installSuccessRestart.label      "Ath-thòisich gus an stàladh a thoirt gu buil.">
-<!ENTITY updateSuccessRestart.label       "Ath-thòisich gus an t-ùrachadh a thoirt gu buil.">
-<!ENTITY installWaiting.label             "A' feitheamh…">
-<!ENTITY installIncompatibleUpdate.label  "A' sgrùdadh co-chòrdalachd…">
-<!ENTITY installFinishing.label           "'Ga stàladh…">
-<!ENTITY installFailure.label             "Dh'fhàillig an stàladh.">
 
-<!ENTITY progressStatus.label             "A' lorg ùrachaidhean">
+<!-- ratings -->
+<!ENTITY rating2.label                        "Rangachadh">
 
-<!ENTITY eula.title                       "Aonta Ceadachas a' Chleachdaiche Dheireannaich">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Gabh ris is stàlaich e…">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Cuir 'na stad">
+<!ENTITY progress.cancel.tooltip              "Sguir dheth">
 
-<!ENTITY blocklist.blocked.label          "Air a chasg">
-<!ENTITY blocklist.checkbox.label         "Cuir à comas">
+
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Ainm">
+<!ENTITY sort.name.tooltip                    "Seòrsaich a-rèir ainm">
+<!ENTITY sort.dateUpdated.label               "Ùrachadh mu dheireadh">
+<!ENTITY sort.dateUpdated.tooltip             "Seòrsaich a-rèir ceann-là an ùrachaidh">
+<!ENTITY sort.relevance.label                 "An seise as fhearr">
+<!ENTITY sort.relevance.tooltip               "Seòrsaich a-rèir buinteanais">
+<!ENTITY sort.price.label                     "Prìs">
+<!ENTITY sort.price.tooltip                   "Seòrsaich a-rèir na prìse">
+
+<!ENTITY search.filter2.label                 "Lorg:">
+<!ENTITY search.filter2.installed.label       "Na tuilleadan agam">
+<!ENTITY search.filter2.installed.tooltip     "Seall na tuilleadan a tha air an stàladh">
+<!ENTITY search.filter2.available.label       "Tuilleadain a tha ri am faighinn">
+<!ENTITY search.filter2.available.tooltip     "Seall na tuilleadain a tha ri am faighinn airson stàladh">
+
+<!ENTITY addon.homepage                       "Duilleag-dhachaigh">
+<!ENTITY addon.details.label                  "Barrachd">
+<!ENTITY addon.details.tooltip                "Seall barrachd fiosrachaidh mun tuilleadan seo">
+<!ENTITY addon.unknownDate                    "Neo-aithnichte">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(air a chur à comas)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "Ùrachadh">
+<!ENTITY addon.undoAction.label               "Neo-dhèan">
+<!ENTITY addon.undoAction.tooltip             "Neo-dhèan an gnìomh seo">
+<!ENTITY addon.undoRemove.label               "Neo-dhèan">
+<!ENTITY addon.undoRemove.tooltip             "Cum an tuilleadan seo">
+<!ENTITY addon.restartNow.label               "Ath-thòisich an-dràsta">
+<!ENTITY addon.install.label                  "Stàlaich">
+<!ENTITY addon.install.tooltip                "Stàlaich an tuilleadan seo">
+<!ENTITY addon.updateNow.label                "Ùraich an-dràsta">
+<!ENTITY addon.updateNow.tooltip              "Stàlaich an t-ùrachadh airson an tuilleadain seo">
+<!ENTITY addon.includeUpdate.label            "Gabh a-steach san ùrachadh seo">
+<!ENTITY addon.updateAvailable.label          "Tha ùrachadh ri fhaighinn">
+<!ENTITY addon.checkingForUpdates.label       "A' lorg ùrachaidhean…">
+<!ENTITY addon.releaseNotes.label             "Nòtaichean sgaoilidh:">
+<!ENTITY addon.loadingReleaseNotes.label      "'Ga luchdadh…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Tha sinn duilich ach thachair mearachd rè luchdadh nan nòtaichean sgaoilidh.">
+
+<!ENTITY addon.createdBy.label                "Le ">
+
+<!ENTITY eula.title                           "Aonta Ceadachas a' Chleachdaiche Dheireannaich">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Gabh ris is stàlaich e…">

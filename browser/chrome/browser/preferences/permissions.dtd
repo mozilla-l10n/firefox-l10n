@@ -10,7 +10,7 @@
 <!ENTITY address.label                "Seòladh na làraich-lìn:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Cuir bacadh air">
-<!ENTITY block.accesskey              "C">
+<!ENTITY block.accesskey              "b">
 <!ENTITY session.label                "Ceadaich fad an t-seisein">
 <!ENTITY session.accesskey            "s">
 <!ENTITY allow.label                  "Ceadaich">
@@ -18,5 +18,5 @@
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Dùin">
-<!ENTITY button.close.accesskey       "D">
+<!ENTITY button.close.accesskey       "n">
 

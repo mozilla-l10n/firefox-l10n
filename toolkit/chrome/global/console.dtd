@@ -50,7 +50,7 @@
 <!ENTITY messages.label     "Teachdaireachdan">
 <!ENTITY messages.accesskey "T">
 <!ENTITY clear.label        "Falamhaich">
-<!ENTITY clear.accesskey    "F">
+<!ENTITY clear.accesskey    "c">
 <!ENTITY codeEval.label     "Còd:">
 <!ENTITY codeEval.accesskey "C">
 <!ENTITY evaluate.label     "Luachaich">
@@ -60,9 +60,9 @@
 <!ENTITY copyCmd.accesskey   "c"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Òrdugh seòrsachaidh Toiseach > Crìoch">
-<!ENTITY sortFirst.accesskey "T">
+<!ENTITY sortFirst.accesskey "r">
 <!ENTITY sortLast.label      "Òrdugh seòrsachaidh Crìoch > Toiseach">
-<!ENTITY sortLast.accesskey  "c">
+<!ENTITY sortLast.accesskey  "r">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

@@ -39,7 +39,7 @@
 <!ENTITY safeModeDialog.title         "Modh tèarainte &brandShortName;">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY safeModeDescription.label    "Tha &brandShortName; ag ruith sa mhodh tèarainte a-nis is bidh na roghainnean, coltasan is leasachain ghnàthaichte agad à comas rè seal.">
+<!ENTITY safeModeDescription.label    "Tha &brandShortName; ag ruith sa mhodh tèarainte a-nis is bidh na roghainnean, coltasan is leudachain ghnàthaichte agad à comas rè seal.">
 <!ENTITY safeModeDescription2.label   "'S urrainn dhut na h-atharrachaidhean seo gu lèir, no cuid dhiubh, a chur an sàs gu buan:">
 
 <!ENTITY disableAddons.label          "Dèan gach tuillead neo chomasach">
@@ -52,7 +52,7 @@
 <!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "Aisig gach roghainn a' chleachdaiche gu roghainnean bunaiteach &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey     "g">
+<!ENTITY resetUserPrefs.accesskey     "A">
 
 <!ENTITY restoreSearch.label          "Aisig na h-einnseanan-luirg bunaiteach">
 <!ENTITY restoreSearch.accesskey      "s">

@@ -18,7 +18,7 @@
 <!ENTITY reportForm.behind_login.accesskey          "T">
 
 <!ENTITY reportForm.problem_type.title              "Seòrsa an duilgheadais:">
-<!ENTITY reportForm.problem_type.accesskey          "d">
+<!ENTITY reportForm.problem_type.accesskey          "S">
 
 <!ENTITY reportForm.problem_type.chooseOne.title    "Tagh fear...">
 

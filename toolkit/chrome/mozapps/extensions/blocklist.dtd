@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "Ath-thòisich &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "A">
+
+<!ENTITY blocklist.blocked.label     "Air a chasg">
+<!ENTITY blocklist.checkbox.label    "Cuir à comas">

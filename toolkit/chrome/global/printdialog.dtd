@@ -33,7 +33,7 @@
 
 <!ENTITY printframeGroup.label "Clò-bhuail frèamaichean">
 <!ENTITY aslaidoutRadio.label "Mar a chithear air an sgrìn">
-<!ENTITY aslaidoutRadio.accesskey "s">
+<!ENTITY aslaidoutRadio.accesskey "M">
 <!ENTITY selectedframeRadio.label  "Am frèam a chaidh a thaghadh">
 <!ENTITY selectedframeRadio.accesskey  "m">
 <!ENTITY eachframesepRadio.label  "Gach frèam 'na aonar">
