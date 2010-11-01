@@ -44,7 +44,7 @@
 <!ENTITY certmgr.tab.orphan2                  "Oaren">
 
 <!ENTITY certmgr.ca.builtins                  "Ynboude CA’s">
-<!ENTITY certmgr.ca.mycas                     "CA’s beheard troch jo">
+<!ENTITY certmgr.ca.mycas                     "CA’s troch jo beheard">
 
 <!ENTITY certmgr.mine                         "Jo hawwe sertifikaten fan dizze organisaasje dy't jo identifisearje:">
 <!ENTITY certmgr.others                       "Jo hawwe sertifikaten as bestân dy't dizze minsken identifisearje:">
@@ -57,7 +57,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "Details">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.pending.label                "No sertifikaat oan it ferifiearjen...">
+<!ENTITY certmgr.pending.label                "No sertifikaat oan it ferifiearjen…">
 <!ENTITY certmgr.subjectinfo.label            "Utjûn oan">
 <!ENTITY certmgr.issuerinfo.label             "Utjûn troch">
 <!ENTITY certmgr.validity.label               "Jildichheid">
@@ -78,7 +78,7 @@
 <!ENTITY certmgr.editcert.trustemail          "Dit sertifikaat kin e-mailbrûkers identifisearje.">
 <!ENTITY certmgr.editcert.trustobjsign        "Dit sertifikaat kin makkers fan programmatuer identifisearje.">
 <!ENTITY certmgr.editsslcert.edittrust        "Sertifikaat-fertrouwensynstellings bewurkje:">
-<!ENTITY certmgr.editsslcert.dotrust          "Fertrou de echtheid fan dit sertifikaat.">
+<!ENTITY certmgr.editsslcert.dotrust          "Fertrouw de echtheid fan dit sertifikaat.">
 <!ENTITY certmgr.editsslcert.donttrust 		  "Wantrouw de echtheid fan dit sertifikaat.">
 <!ENTITY certmgr.editemailcert.title          "E-mailsertifikaat-fertrouwensynstellings bewurkje">
 <!ENTITY certmgr.editemailcert.edittrust      "Sertifikaat-fertrouwensynstellings bewurkje:">
@@ -86,11 +86,11 @@
 <!ENTITY certmgr.editemailcert.donttrust      "De echtheid fan dit sertifikaat wantrouwe.">
 
 <!ENTITY certmgr.deletecert.title             "Sertifikaat fuortsmite">
-<!ENTITY certmgr.deletecert.beforename        "Jo ha frege om dit sertifikaat fuort te smiten:">
-<!ENTITY certmgr.deletecert.aftername         "Witte jo seker dat jo dit sertifikaat fuortsmitte wolle?">
+<!ENTITY certmgr.deletecert.beforename        "Jo hawwe frege om dit sertifikaat fuort te smiten:">
+<!ENTITY certmgr.deletecert.aftername         "Bine jo wis dat jo dit sertifikaat fuortsmite wolle?">
 <!ENTITY certmgr.deleteusercert.title         "Jo sertifikaat fuortsmite">
 <!ENTITY certmgr.deleteusercert.beforename    "Jo ha frege om dit sertifikaat fuort te smiten:">
-<!ENTITY certmgr.deleteusercert.aftername     "Als jo dit sertifikaat fuortsmiten ha, sille jo gjin mail lêze kinne die dermei fersleutele is.">
+<!ENTITY certmgr.deleteusercert.aftername     "Als jo dit sertifikaat fuortsmiten hawwe, sille jo gjin e-mail lêze kinne die dermei fersifere is.">
 
 <!ENTITY certmgr.certname 					  "Sertifikaatnamme">
 <!ENTITY certmgr.certserver                   "Tsjinner">
@@ -105,7 +105,7 @@
 <!ENTITY certmgr.close.accesskey              "S">
 <!ENTITY certmgr.view2.label 				  "Toane...">
 <!ENTITY certmgr.view2.accesskey              "T">
-<!ENTITY certmgr.edit3.label 				  "Fertrouen bewurkje…">
+<!ENTITY certmgr.edit3.label 				  "Fertrouwen bewurkje…">
 <!ENTITY certmgr.edit3.accesskey              "B">
 <!ENTITY certmgr.editca.label 				  "CA-fertrouwen bewurkje">
 <!ENTITY certmgr.editca.accesskey             "A">
@@ -132,16 +132,16 @@
 <!ENTITY certmgr.addException.label           "Foech útsûndering ta…">
 <!ENTITY certmgr.addException.accesskey       "t">
 
-<!ENTITY exceptionMgr.title                   "Foech Feilichheidsútsûndering ta">
-<!ENTITY exceptionMgr.exceptionButton         "Befestich Feilichheidsútsûndering">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "B">
-<!ENTITY exceptionMgr.supplementalWarning     "Legitieme banken, winkels, en oare publieke sides sille net freegje om dit te dwaan.">
+<!ENTITY exceptionMgr.title                   "Foech feilichheidsútsûndering ta">
+<!ENTITY exceptionMgr.exceptionButton.label   "Befestich feilichheidsútsûndering">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "B">
+<!ENTITY exceptionMgr.supplementalWarning     "Legitime banken, winkels, en oare publike sides sille net freegje om dit te dwaan.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Tsjinner">
 <!ENTITY exceptionMgr.certlocation.url        "Lokaasje:">
-<!ENTITY exceptionMgr.certlocation.download   "Krij Sertifikaat">
+<!ENTITY exceptionMgr.certlocation.download   "Krij sertifikaat">
 <!ENTITY exceptionMgr.certlocation.accesskey  "T">
-<!ENTITY exceptionMgr.certstatus.caption      "Sertifikaat Steat">
+<!ENTITY exceptionMgr.certstatus.caption      "Sertifikaatsteat">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Toan…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "T">
-<!ENTITY exceptionMgr.permanent.label         "Dizze útsûndering permanent bewarje">
+<!ENTITY exceptionMgr.permanent.label         "Dizze útsûndering permanint bewarje">
 <!ENTITY exceptionMgr.permanent.accesskey     "p">
