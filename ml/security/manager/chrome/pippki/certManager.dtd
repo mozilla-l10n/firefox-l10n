@@ -128,8 +128,8 @@
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "സുരക്ഷ വിവേചനം ചേര്‍ക്കുക">
-<!ENTITY exceptionMgr.exceptionButton         "സുരക്ഷ വിവേചനം ഉറപ്പിക്കുക">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!-- ENTITY exceptionMgr.exceptionButton         "സുരക്ഷ വിവേചനം ഉറപ്പിക്കുക" -->
+<!-- ENTITY exceptionMgr.exceptionButtonAccess   "C" -->
 <!ENTITY exceptionMgr.supplementalWarning     "നിയമദത്തമായ ബാങ്കുകളോ കടകളോ പൊതു സൈറ്റുകളോ നിങ്ങളോടു ഇതു ചെയ്യുവാന്‍ ചോദിക്കില്ല.">
 <!ENTITY exceptionMgr.certlocation.caption2   "സര്‍വര്‍">
 <!ENTITY exceptionMgr.certlocation.url        "സ്ഥാനം:">
@@ -140,3 +140,7 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "ഈ വിവേചനം എപ്പോഴത്തേക്കുമായി സുരക്ഷിതമാക്കി വെക്കുക">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
+<!ENTITY certmgr.delete_builtin.label         "വെട്ടി നീക്കുക അല്ലെങ്കില്‍ അവിശ്വസിയ്ക്കുക…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.edit3.label                  "ട്രസ്റ്റ് ചിട്ടപ്പെടുത്തുക…">
+<!ENTITY certmgr.edit3.accesskey              "E">
