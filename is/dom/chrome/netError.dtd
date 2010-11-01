@@ -35,7 +35,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<p>Vafrinn er stilltur til að nota milliþjóna, en milliþjónn hafnaði tengingu.</p><ul><li>Eru vafra stillingar milliþjóns rétt stilltar? Athugaðu stillingarnar og reyndu aftur.</li><li>Leyfir milliþjónn tengingar frá þínu neti?</li><li>Ennþá vandamál? Hafðu samband við kerfistjóra eða netaðila fyrir hjálp.</li></ul>">
 <!ENTITY proxyResolveFailure.title "Fann ekki milliþjón">
 <!ENTITY proxyResolveFailure.longDesc "<p>Vafrinn er stilltur til að nota milliþjóna, en milliþjónn fannst ekki.</p><ul><li>Eru vafra stillingar milliþjóns rétt stilltar? Athugaðu stillingarnar og reyndu aftur.</li><li>Leyfir milliþjónn tengingar frá þínu neti?</li><li>Ennþá vandamál? Hafðu samband við kerfistjóra eða netaðila fyrir hjálp.</li></ul>">
-<!ENTITY redirectLoop.title "Lykkja af áframsendingum">
+<!ENTITY redirectLoop.title "Lykkja af endurbeiningum">
 <!ENTITY redirectLoop.longDesc "<p>Vafrinn hefur hætt að reyna að ná í umbeðinn hlut. Vefsvæðið er að endursenda beiðnina á þann hátt að því mun aldrei ljúka.</p><ul><li>Hefurðu lokað á eða gert smákökur óvirkar frá þessu vefsvæði?</li><li><em>ATHUGA</em>: Ef þú velur að taka á móti smákökum frá þessu vefsvæði og það lagar ekki vandamálið, er netþjónninn sjálfur líklega rangt stilltur en ekki tölvan þín.</li></ul>">
 <!ENTITY unknownSocketType.title "Rangt svar">
 <!ENTITY unknownSocketType.longDesc "<p>Vefsvæðið svaraði netbeiðni á óvæntan hátt þannig að vafrinn getur ekki haldið áfram.</p>">

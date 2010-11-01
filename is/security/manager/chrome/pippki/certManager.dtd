@@ -123,8 +123,8 @@
 <!ENTITY certmgr.addException.label "Bæta við undantekningu…">
 <!ENTITY certmgr.addException.accesskey "u">
 <!ENTITY exceptionMgr.title "Bæta við öryggisfrávik">
-<!ENTITY exceptionMgr.exceptionButton "Staðfesta öryggisfrávik">
-<!ENTITY exceptionMgr.exceptionButtonAccess "S">
+<!ENTITY exceptionMgr.exceptionButton.label "Staðfesta öryggisfrávik">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "S">
 <!ENTITY exceptionMgr.supplementalWarning "Löglegir bankar, verslanir, og aðrar opinberar stofnanir munu ekki biðja þig um að gera þetta.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Netþjónn">
 <!ENTITY exceptionMgr.certlocation.url "Staðsetning:">

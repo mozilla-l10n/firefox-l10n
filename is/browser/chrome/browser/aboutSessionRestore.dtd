@@ -9,7 +9,7 @@
 <!ENTITY restorepage.tryagainButton "Endurheimta">
 <!ENTITY restorepage.restore.access "E">
 <!ENTITY restorepage.cancelButton "Hefja nýja lotu">
-<!ENTITY restorepage.cancel.access "S">
+<!ENTITY restorepage.cancel.access "H">
 <!ENTITY restorepage.restoreHeader "Endurheimta">
 <!ENTITY restorepage.listHeader "Gluggar og flipar">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->

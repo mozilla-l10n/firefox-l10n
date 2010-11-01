@@ -88,7 +88,7 @@
     &brandShortName; hefur leyfi til að tengjast netinu.</li>
 </ul>
 ">
-<!ENTITY redirectLoop.title "Síðan er ekki að senda rétt áfram">
+<!ENTITY redirectLoop.title "Síðan er ekki að endurbeina rétt">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Þetta vandamál getur verið vegna þess að lokað er á smákökur eða þær hafa

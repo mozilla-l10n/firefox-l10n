@@ -6,7 +6,7 @@
 <!ENTITY useCursorNavigation.accesskey "r">
 <!ENTITY searchStartTyping.label "Leita í texta þegar byrjað er að slá inn orð">
 <!ENTITY searchStartTyping.accesskey "L">
-<!ENTITY blockAutoRefresh.label "Vara við þegar vefsvæði reyna að vísa áfram eða endurnýja síðuna">
+<!ENTITY blockAutoRefresh.label "Vara við þegar vefsvæði reyna að endurbeina eða endurnýja síðuna">
 <!ENTITY blockAutoRefresh.accesskey "V">
 <!ENTITY browsing.label "Leit">
 <!ENTITY useAutoScroll.label "Nota sjálfvirka skrunun">

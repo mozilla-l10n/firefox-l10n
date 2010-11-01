@@ -15,8 +15,8 @@
 <!ENTITY signIn.account.accesskey "T">
 <!ENTITY signIn.password.label "Lykilorð">
 <!ENTITY signIn.password.accesskey "L">
-<!ENTITY signIn.serverURL.label "Slóð þjóns">
-<!ENTITY signIn.serverURL.accesskey "l">
+<!ENTITY signIn.serverURL.label "Netfang netþjóns">
+<!ENTITY signIn.serverURL.accesskey "N">
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Aðgangsupplýsingar">
 <!ENTITY setup.confirmPassword.label "Staðfestu lykilorðið">
@@ -75,7 +75,7 @@
 <!ENTITY choice2.merge.main.label "Sameina gögn á þessari tölvu við &syncBrand.shortName.label; gögn">
 <!ENTITY choice2.merge.recommended.label "Mælt með:">
 <!ENTITY choice2.client.main.label "Skipta út gögnum á þessari tölvu með &syncBrand.shortName.label; gögnum">
-<!ENTITY choice2.server.main.label "Skipta út á öllum öðrum tækjum með gögnum á þessari tölvu">
+<!ENTITY choice2.server.main.label "Skipta út gögnum á öllum öðrum tækjum með gögnum frá á þessari tölvu">
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Staðfesta">
 <!ENTITY confirm.merge.label "Þú hefur valið að sameina gögnin þín á þessari tölvu við gögnin á öðrum tækjum sem keyra &syncBrand.fullName.label;.">
