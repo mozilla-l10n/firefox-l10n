@@ -3,7 +3,7 @@
 <!ENTITY loading.label                        "Încărcare...">
 <!ENTITY listEmpty.installed.label            "Nu aveți vreun supliment de acest tip instalat">
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
-<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.recentUpdates.label        "Nu ați actualizat recent niciun supliment">
 <!ENTITY listEmpty.findUpdates.label          "Check For Updates">
 <!ENTITY listEmpty.search.label               "Nu s-a putut găsi vreun supliment potrivit">
 <!ENTITY listEmpty.button.label               "Află mai multe despre suplimente">

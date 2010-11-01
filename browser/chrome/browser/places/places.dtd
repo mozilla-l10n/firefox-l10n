@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizare">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.tooltip      "Organizați-vă semnele de carte">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Închide">
@@ -14,7 +14,7 @@
 <!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Vederi">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "Change your view">
+<!ENTITY views.tooltip                  "Schimbați perspectiva">
 <!ENTITY view.columns.label             "Arată coloane">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Sortează">
@@ -111,7 +111,7 @@
 
 <!ENTITY maintenance.label      "Import și export">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip    "Importați și asigurați-vă semnele de carte">
 
 <!ENTITY backCmd.label       "Înapoi">
 <!ENTITY backButton.tooltip  "Mergi înapoi">
