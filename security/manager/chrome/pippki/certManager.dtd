@@ -139,8 +139,8 @@
 <!ENTITY certmgr.websites2                    "ಕಡತದಲ್ಲಿ ಈ ಪರಿಚಾರಕಗಳನ್ನು ಗುರುತಿಸುವ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ನೀವು ಹೊಂದಿದ್ದೀರಿ:">
 
 <!ENTITY exceptionMgr.title                   "ಸುರಕ್ಷತಾ ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಿ">
-<!ENTITY exceptionMgr.exceptionButton         "ಸುರಕ್ಷತಾ ವಿನಾಯಿತಿಯನ್ನು ಖಚಿತಪಡಿಸಿ">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "ಸುರಕ್ಷತಾ ವಿನಾಯಿತಿಯನ್ನು ಖಚಿತಪಡಿಸಿ">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "ನ್ಯಾಯಯುತವಾದ ಬ್ಯಾಂಕ್‌ಗಳು,ಅಂಗಡಿಗಳು ಹಾಗು ಇತರೆ ಖಾಸಗಿ ತಾಣಗಳು ,ನೀವು ಹೀಗೆ ಮಾಡುವಂತೆ ಅಪೇಕ್ಷಿಸುವುದಿಲ್ಲ.">
 <!ENTITY exceptionMgr.certlocation.caption2   "ಪರಿಚಾರಕ">
 <!ENTITY exceptionMgr.certlocation.url        "ಸ್ಥಳ:">
