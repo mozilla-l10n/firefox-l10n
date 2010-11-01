@@ -134,7 +134,7 @@
 
 <!ENTITY exceptionMgr.title "Ajout d'une exception de sécurité">
 <!ENTITY exceptionMgr.exceptionButton.label "Confirmer l'exception de sécurité">
-<!ENTITY exceptionMgr.exceptionButtonAccess.accesskey "C">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning "Les banques, magasins et autres sites Web publics légitimes ne vous demanderont pas de faire cela.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Serveur">
 <!ENTITY exceptionMgr.certlocation.url "Adresse :">
