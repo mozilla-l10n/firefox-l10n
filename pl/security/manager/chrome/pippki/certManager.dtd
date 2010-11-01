@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "j">
 
 <!ENTITY exceptionMgr.title                   "Dodanie wyjątku bezpieczeństwa">
-<!ENTITY exceptionMgr.exceptionButton         "Potwierdź wyjątek bezpieczeństwa">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "P">
+<!ENTITY exceptionMgr.exceptionButton.label   "Potwierdź wyjątek bezpieczeństwa">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "P">
 <!ENTITY exceptionMgr.supplementalWarning     "Godne zaufania witryny, banki i inne witryny publiczne nie powinny tego żądać.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Serwer">
 <!ENTITY exceptionMgr.certlocation.url        "Adres:">
