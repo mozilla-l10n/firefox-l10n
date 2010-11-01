@@ -145,3 +145,8 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "P">
 <!ENTITY exceptionMgr.permanent.label         "Trajno spremi ovu iznimku">
 <!ENTITY exceptionMgr.permanent.accesskey     "i">
+
+<!ENTITY certmgr.delete_builtin.label         "Obriši ili ne vjeruj…">
+<!ENTITY certmgr.delete_builtin.accesskey     "O">
+<!ENTITY certmgr.edit3.label                  "Uredi povjerenje…">
+<!ENTITY certmgr.edit3.accesskey              "U">
