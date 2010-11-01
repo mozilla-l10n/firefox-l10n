@@ -5,3 +5,4 @@ creativecommons
 amazondotcom
 yahoo
 eBay
+bing
