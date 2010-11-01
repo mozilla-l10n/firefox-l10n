@@ -33,11 +33,11 @@ that require it.  -->
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "An eachdraidh brabhsaidh ┐ nan rudan a chaidh a luchdadh a-nuas">
-<!ENTITY itemHistoryAndDownloads.accesskey "e">
+<!ENTITY itemHistoryAndDownloads.accesskey "b">
 <!ENTITY itemBrowsingHistory.label         "An eachdraidh brabhsaidh">
-<!ENTITY itemBrowsingHistory.accesskey     "r">
+<!ENTITY itemBrowsingHistory.accesskey     "b">
 <!ENTITY itemFormSearchHistory.label       "Eachdraidh nam foirmean ┐ nan lorg">
-<!ENTITY itemFormSearchHistory.accesskey   "d">
+<!ENTITY itemFormSearchHistory.accesskey   "f">
 <!ENTITY itemPasswords.label               "Faclan-faire air an sàbhaladh">
 <!ENTITY itemPasswords.accesskey           "F">
 <!ENTITY itemCookies.label                 "Briosgaidean">
@@ -47,7 +47,7 @@ that require it.  -->
 <!ENTITY itemOfflineApps.label             "Dàta làraichean-lin far loidhne">
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemDownloadHistory.label         "Eachdraidh dhe na chaidh a luchdadh a-nuas">
-<!ENTITY itemDownloadHistory.accesskey     "E">
+<!ENTITY itemDownloadHistory.accesskey     "d">
 <!ENTITY itemActiveLogins.label            "Logaidhean a-steach beòtha">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Roghainnean na làraich">

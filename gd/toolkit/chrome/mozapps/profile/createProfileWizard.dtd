@@ -16,6 +16,6 @@
 <!ENTITY profileDirectoryExplanation.text   "Thèid na roghainnean cleachdaiche agad is dàta cleachdaiche sam bith eile a tha co-cheangailte ris a stòradh ann an:">
 <!ENTITY profileDefaultName             "Cleachdaiche bunaiteach">
 <!ENTITY button.choosefolder.label      "Tagh pasgan…">
-<!ENTITY button.choosefolder.accesskey  "p">
+<!ENTITY button.choosefolder.accesskey  "T">
 <!ENTITY button.usedefault.label        "Cleachd am pasgan bunaiteach">
-<!ENTITY button.usedefault.accesskey    "m">
+<!ENTITY button.usedefault.accesskey    "p">

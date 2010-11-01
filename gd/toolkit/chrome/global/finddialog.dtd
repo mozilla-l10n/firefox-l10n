@@ -2,7 +2,7 @@
 
 <!ENTITY findDialog.title "Lorg air an duilleag seo">
 <!ENTITY findField.label "Lorg an rud seo:">
-<!ENTITY findField.accesskey "s">
+<!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Aire do litrichean mòra is beaga">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Paisg">

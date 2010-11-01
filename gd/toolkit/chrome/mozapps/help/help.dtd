@@ -5,15 +5,15 @@
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "Air ais">
-<!ENTITY backButton.accesskey           "i">
+<!ENTITY backButton.accesskey           "A">
 <!ENTITY backButton.tooltip             "Rach duilleag air ais">
 <!ENTITY forwardButton.label            "Air adhart">
-<!ENTITY forwardButton.accesskey        "d">
+<!ENTITY forwardButton.accesskey        "A">
 <!ENTITY forwardButton.tooltip          "Rach duilleag air adhart">
 <!ENTITY copyCmd.label                  "Dèan lethbhreac">
 <!ENTITY copyCmd.accesskey              "c">
 <!ENTITY selectAllCmd.label             "Tagh a h-uile">
-<!ENTITY selectAllCmd.accesskey         "T">
+<!ENTITY selectAllCmd.accesskey         "a">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Dhachaigh">
@@ -25,7 +25,7 @@
 <!ENTITY search.emptytext               "Lorg">
 <!ENTITY searchHeader.label             "Toraidhean luirg">
 <!ENTITY toctab.label                   "Susbaint">
-<!ENTITY toctab.accesskey               "b">
+<!ENTITY toctab.accesskey               "S">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -44,9 +44,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY helpSearch.commandkey          "k">
 
 <!ENTITY zLevel.label                   "Air uachdar an-còmhnaidh">
-<!ENTITY zLevel.accesskey               "u">
+<!ENTITY zLevel.accesskey               "A">
 
 <!ENTITY fullZoomReduceBtn.label        "Sùm a-mach">
-<!ENTITY fullZoomReduceBtn.accesskey    "m">
+<!ENTITY fullZoomReduceBtn.accesskey    "S">
 <!ENTITY fullZoomEnlargeBtn.label       "Sùm a-steach">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "a">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "m">

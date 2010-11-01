@@ -1,37 +1,37 @@
 <!ENTITY startup.label             "Aig an toiseach">
 
-<!ENTITY startupPage.label         "Nuair a thòisicheas &brandShortName;:">
-<!ENTITY startupPage.accesskey     "N">
+<!ENTITY startupPage.label         "Aig an toiseach">
+<!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "Seall an duilleag-dhachaigh agam">
 <!ENTITY startupBlankPage.label    "Seall duilleag bhàn">
 <!ENTITY startupLastSession.label  "Seall na h-uinneagan is tabaichean a bha agam san t-seisean mu dheireadh">
-<!ENTITY location.label            "An duilleag-dhachaigh:">
-<!ENTITY location.accesskey        "g">
+<!ENTITY homepage.label            "An duilleag-dhachaigh:">
+<!ENTITY homepage.accesskey        "A">
 <!ENTITY useCurrentPage.label      "Cleachd an duilleag làithreach">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Cleachd na duilleagan làithreach">
 <!ENTITY useBookmark.label         "Cleachd comharra-lìn">
-<!ENTITY useBookmark.accesskey     "m">
+<!ENTITY useBookmark.accesskey     "C">
 <!ENTITY restoreDefault.label      "Aisig na roghainnean bunaiteach">
-<!ENTITY restoreDefault.accesskey  "A">
+<!ENTITY restoreDefault.accesskey  "r">
 
 <!ENTITY downloads.label     "Luchdaidhean a-nuas">
 
 <!ENTITY showWhenDownloading.label     "Seall uinneag an luchdaidh a-nuas nuair a bhios faidhle 'ga luchdadh a-nuas">
-<!ENTITY showWhenDownloading.accesskey "S">
+<!ENTITY showWhenDownloading.accesskey "d">
 <!ENTITY closeWhenDone.label "Dùin an uinneag nuair a bhios a h-uile luchdadh a-nuas deiseil">
-<!ENTITY closeWhenDone.accesskey "d">
+<!ENTITY closeWhenDone.accesskey "D">
 <!ENTITY saveTo.label "Sàbhail faidhlichean ann an">
-<!ENTITY saveTo.accesskey "b">
+<!ENTITY saveTo.accesskey "S">
 <!ENTITY chooseFolderWin.label        "Brabhsaich…">
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Tagh…">
-<!ENTITY chooseFolderMac.accesskey    "g">
+<!ENTITY chooseFolderMac.accesskey    "T">
 <!ENTITY alwaysAsk.label "Faighnich dhìom càit an dèid faidhlichean a shàbhaladh an-còmhnaidh">
-<!ENTITY alwaysAsk.accesskey "F">
+<!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY addonsMgr.label               "Tuilleadain">
 <!ENTITY manageAddonsDescWin.label     "Atharraich roghainnean nan tuilleadan agad">
 <!ENTITY manageAddonsDescUnix2.label   "Atharraich roghainnean nan tuilleadan agad">
 <!ENTITY manageAddons.label            "Rianaich tuilleadan…">
-<!ENTITY manageAddons.accesskey        "R">
+<!ENTITY manageAddons.accesskey        "n">

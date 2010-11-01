@@ -1,0 +1,104 @@
+<!ENTITY accountSetupTitle.label    "Suidheachadh &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "Fàilte ort! Mur eil thu air &syncBrand.fullName.label; a chleachdadh roimhe, bidh agad ri cunntas ùr a chruthachadh.">
+<!ENTITY button.createNewAccount.label "Cruthaich cunntas ùr">
+<!ENTITY button.haveAccount.label "Tha cunntas &syncBrand.fullName.label; agam">
+
+<!ENTITY setup.choicePage.title.label     "An do chleachd thu &syncBrand.fullName.label; roimhe?">
+<!ENTITY setup.choicePage.new.label       "Cha do chleachd mi &syncBrand.shortName.label; a-riamh roimhe">
+<!ENTITY setup.choicePage.existing.label  "Tha mi a' cleachdadh &syncBrand.shortName.label; air coimpiutair eile mu thràth">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Frithealaiche">
+<!ENTITY serverType.main.label      "Frithealaiche &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Cleachd frithealaichte gnàthaichte">
+<!ENTITY signIn.account.label       "Seòladh puist-dhealain / Ainm a' chleachdaiche">
+<!ENTITY signIn.account.accesskey   "e">
+<!ENTITY signIn.password.label      "Facal-faire">
+<!ENTITY signIn.password.accesskey  "F">
+<!ENTITY signIn.serverURL.label     "URL an fhrithealaiche">
+<!ENTITY signIn.serverURL.accesskey "L">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Mion-fhiosrachadh a' chunntais">
+<!ENTITY setup.confirmPassword.label  "Dearbhaich am facal-faire">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "Seòladh puist-dhealain">
+<!ENTITY setup.emailAddress.accesskey "e">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Tha mi ag aontachadh ri">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "Teirmichean na Seirbheise">
+<!ENTITY setup.tosAgree2.label      "agus">
+<!ENTITY setup.ppLink.label         "ris a' Phoileasaidh Phrìobhaideachd">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "a">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "Tha do phrìobhaideachd cudromach do &brandShortName;">
+<!ENTITY setup.newSyncKeyPage.description.label "Gus do phrìobhaideachd iomlan a dhèanamh cinnteach, thèid an dàta gu lèir agad a dhubh-cheileadh mus dèid a luchdadh suas. Cha dèid an iuchair co-thìmeachaidh airson dì-cheileadh an dàta agad a luchdadh suas.">
+<!ENTITY syncKeyEntry.label        "An iuchair co-thìmeachaidh agad">
+<!ENTITY syncKeyEntry.accesskey    "A">
+<!ENTITY syncKeyGenerate.label     "Gin">
+<!ENTITY syncKeyStrength.label     "Neart:">
+<!ENTITY syncKeyHelp.label         "Dè 's ciall do neart?">
+<!ENTITY syncKeyBackup.description "Tha feum air an iuchair cho-thìmneachaidh agad gus inntrigeadh a dhèanamh do &syncBrand.fullName.label; air innealan eile. Cruthaich lethbhreac glèidhidh. Chan urrainn dhuinn an iuchair co-thìmeachaidh aiseag dhut.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Clò-bhuail…">
+<!ENTITY button.syncKeyBackup.print.accesskey "C">
+<!ENTITY button.syncKeyBackup.save.label      "Sàbhail…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Dearbhaich nach e robotair a tha annad">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Cuir a-steach fiosrachadh a' chunntais">
+<!ENTITY resetPassword.label          "Ath-shuidhich am facal-faire">
+<!ENTITY connecting.label             "A' ceangal…">
+
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Cuir a-steach an iuchair co-thìmeachaidh agad">
+<!ENTITY setup.existingSyncKeyPage.description "Chaidh an iuchair co-thìmeachaidh a ghineadh dhut no chuir thu a-steach tè agad fhèin nuair a chlàraich thu aig &syncBrand.fullName.label; a' chiad turas. Chan e am facal-faire agad a tha ann.">
+<!ENTITY existingSyncKeyHelp.description "Gheibh thu an iuchair co-thìmeachadh a shàbhail thu ma thèid thu dhan choimpiutair eile agad 's ma chuireas tu sùil air na faclan-faire a shàbhail thu fo Thèarainteachd. Mur urrainn dhut an iuchair co-thìmeachaidh cheart a lorg fhathast, 's urrainn dhut ath-shuidheachadh ach caillidh tu dàta sam bith a stòraich thu air an fhrithealaiche.">
+<!ENTITY lostSyncKey.label            "Chaill mi an iuchair co-thìmeachaidh agam">
+<!ENTITY verifying.label              "'Ga dhearbhadh…">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Roghainnean a' cho-thìmeachaidh">
+<!ENTITY syncComputerName.label       "Ainm a' choimpiutair:">
+<!ENTITY syncComputerName.accesskey   "c">
+
+<!ENTITY syncMy.label               "Co-thìmich">
+<!ENTITY engine.bookmarks.label     "na comharran-lìn agam">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "na tabaichean agam">
+<!ENTITY engine.tabs.accesskey      "t">
+<!ENTITY engine.history.label       "an eachdraidh agam">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "na faclan-faire agam">
+<!ENTITY engine.passwords.accesskey "n">
+<!ENTITY engine.prefs.label         "na roghainnean agam">
+<!ENTITY engine.prefs.accesskey     "n">
+
+<!ENTITY choice2.merge.main.label      "Co-mheasgaich dàta a' choimpiutair seo leis an dàta &syncBrand.shortName.label; agam">
+<!ENTITY choice2.merge.recommended.label "Air a mholadh:">
+<!ENTITY choice2.client.main.label     "Cuir an dàta &syncBrand.shortName.label; agam an àite an dàta gu lèir air a' choimpiutair seo">
+<!ENTITY choice2.server.main.label     "Cuir dàta a' choimpiutair seo an àite gach inneal eile">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Dearbhaich">
+<!ENTITY confirm.merge.label    "Co-mheasgaichidh &syncBrand.fullName.label; dàta a' bhrabhsair air a' choimpiutair seo dhan chunntas cho-thìmeachaidh agad an-dràsta.">
+<!ENTITY confirm.client.label         "Thèid an dàta gu lèir aig &brandShortName; a sguabadh às air a' choimpiutair seo, a' gabhail a-steach na leanas:">
+<!ENTITY confirm.client.moreinfo.label "Nì &brandShortName; lethbhreac dhen dàta &syncBrand.fullName.label; agad air a' choimpiutair seo an uairsin.">
+<!ENTITY confirm.client.warning.label "RABHADH: Thèid dàta ùr an àite an dàta &brandShortName; gu lèir air a' choimpiutair seo!">
+<!ENTITY confirm.server.label         "Thèid na h-innealan a leanas a thar-sgrìobhadh leis an dàta ionadail agad:">
+<!ENTITY confirm.server.warning.label "RABHADH: Thèid an dàta ionadail agad an àite an dàta &brandShortName; gu lèir air na h-innealan sin!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Tha an suidheachadh deiseil">
+<!ENTITY changeOptions.label "'S urrainn dhut an roghainn seo atharrachadh fo roghainnean a' cho-thìmeachaidh gu h-ìosal.">
+<!ENTITY continueUsing.label "'S urrainn dhut leantainn ort le bhith a' cleachdadh &brandShortName; a-nis.">

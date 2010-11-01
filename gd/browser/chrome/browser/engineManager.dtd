@@ -9,11 +9,11 @@
 <!ENTITY  up.label                  "Gluais suas">
 <!ENTITY  up.accesskey              "u">
 <!ENTITY  dn.label                  "Gluais sìos">
-<!ENTITY  dn.accesskey              "o">
+<!ENTITY  dn.accesskey              "G">
 <!ENTITY  remove.label              "Thoir air falbh">
 <!ENTITY  remove.accesskey          "r">
 <!ENTITY  edit.label                "Deasaich am facal-luirg…">
-<!ENTITY  edit.accesskey            "e">
+<!ENTITY  edit.accesskey            "D">
 
 <!ENTITY  addEngine.label           "Faigh tuilleadh einnseanan-luirg…">
 <!ENTITY  addEngine.accesskey       "a">

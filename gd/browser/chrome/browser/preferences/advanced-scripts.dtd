@@ -41,12 +41,8 @@
 <!ENTITY allowScripts.label             "Leig le sgriobtaichean:">
 
 <!ENTITY moveResizeWindows.label        "Uinneagan làithreach a ghluasad no am meud atharrachadh">
-<!ENTITY moveResizeWindows.accesskey    "n">
+<!ENTITY moveResizeWindows.accesskey    "m">
 <!ENTITY raiseLowerWindows.label        "Uinneagan àrdachadh no ìsleachadh">
-<!ENTITY raiseLowerWindows.accesskey    "U">
+<!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Clàir-thaice co-theacs a chur à comas no rud a chur nan àite">
-<!ENTITY disableContextMenus.accesskey  "C">
-<!ENTITY hideStatusBar.label            "Bàr na staide a chur am falach">
-<!ENTITY hideStatusBar.accesskey        "B">
-<!ENTITY changeStatusBar.label          "Teacs air bàr na staide atharrachadh">
-<!ENTITY changeStatusBar.accesskey      "T">
+<!ENTITY disableContextMenus.accesskey  "d">

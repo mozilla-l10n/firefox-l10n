@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Tòisich air brabhsadh prìobhaideach">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Gus casg a chur air brabhsadh prìobhaideach, tagh &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; no dùin &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "Gus tòiseachadh air brabhsadh prìobhaideach, 's urrainn dhut &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; a thaghadh cuideachd.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "Gus casg a chur air rannsachadh prìobhaideach, tagh &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; no dùin &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Gus tòiseachadh air rannsachadh prìobhaideach, 's urrainn dhut &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; a thaghadh cuideachd.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Fhad 's nach bi clàr d' eachdraidh brabhsaidh air a' choimpiutair seo, 's urrainn dhan t-solaraiche-lìn agad no dhan fhastaiche agad fios fhaighinn air na duilleagan a thadhail thu air.">
 <!ENTITY privatebrowsingpage.learnMore                 "Faigh tuilleadh eòlais">

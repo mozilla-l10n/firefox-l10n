@@ -17,7 +17,7 @@
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Crùb gu leud na duilleige">
-<!ENTITY shrinkToFit.accesskey "l">
+<!ENTITY shrinkToFit.accesskey "C">
 
 <!ENTITY optionsGroup.label  "Roghainnean">
 
@@ -32,11 +32,11 @@
 <!ENTITY marginTop.label     "Barr:">
 <!ENTITY marginTop.accesskey "B">
 <!ENTITY marginBottom.label  "Bun:">
-<!ENTITY marginBottom.accesskey "u">
+<!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "Clì:">
 <!ENTITY marginLeft.accesskey "l">
 <!ENTITY marginRight.label   "Deis:">
-<!ENTITY marginRight.accesskey "e">
+<!ENTITY marginRight.accesskey "D">
 
 <!ENTITY headerFooter.label  "Bannan-cinn ┐ coise">
 

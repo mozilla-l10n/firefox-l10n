@@ -6,7 +6,7 @@
 <!ENTITY next.accesskey "A">
 <!ENTITY next.tooltip "Lorg ath-làthair na h-abairt seo">
 <!ENTITY previous.label "Air ais">
-<!ENTITY previous.accesskey "s">
+<!ENTITY previous.accesskey "A">
 <!ENTITY previous.tooltip "Lorg làthair roimhe na h-abairt seo">
 <!ENTITY findCloseButton.tooltip "Dùin am bàr luirg">
 <!ENTITY highlight.label "Comharraich a h-uile">
