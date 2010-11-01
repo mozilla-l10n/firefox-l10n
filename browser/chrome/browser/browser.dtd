@@ -415,7 +415,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.unverifiedsite2 "Αυτή η σελίδα δεν παρέχει πληροφορίες ταυτότητας της.">
 
-<!ENTITY backForwardMenu.tooltip      "Πρόσφατες σελίδες">
 
 <!ENTITY copyVideoURLCmd.label        "Αντιγραφή τοποθεσίας βίντεο">
 <!ENTITY copyVideoURLCmd.accesskey    "γ">
