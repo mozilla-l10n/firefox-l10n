@@ -76,6 +76,8 @@
 <!ENTITY customPrompt.title "അളവ് ഇഷ്ടാനുസരണമാക്കുക...">
 
 <!ENTITY homearrow.tooltip "ആദ്യ താള്‍ ">
-<!ENTITY endarrow.tooltip "ഒടുവിലത്തെ താള്‍ ">
-<!ENTITY rightarrow.tooltip "അടുത്ത താള്‍ ">
-<!ENTITY leftarrow.tooltip "മുന്‍പത്തേ താള്‍ ">
+<!ENTITY endarrow.tooltip "ഒടുവിലുള്ള താള്‍ ">
+<!-- ENTITY rightarrow.tooltip "അടുത്ത താള്‍ " -->
+<!-- ENTITY leftarrow.tooltip "മുന്‍പത്തേ താള്‍ " -->
+<!ENTITY nextarrow.tooltip    "അടുത്ത താള്‍">
+<!ENTITY previousarrow.tooltip "മുമ്പുള്ള താള്‍">
