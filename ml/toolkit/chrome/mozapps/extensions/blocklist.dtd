@@ -9,5 +9,5 @@
 <!ENTITY blocklist.accept.label      "&brandShortName; വീണ്ടും ആരംഭിക്കുക">
 <!ENTITY blocklist.accept.accesskey  "R">
 <!ENTITY blocklist.blocked.label     "തടഞ്ഞവ">
-<!ENTITY blocklist.checkbox.label    പ്രവര്‍ത്തന രഹിതം">
+<!ENTITY blocklist.checkbox.label    "പ്രവര്‍ത്തന രഹിതം">
 
