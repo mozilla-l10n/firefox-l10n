@@ -162,8 +162,10 @@
 <!ENTITY exceptionMgr.certstatus.caption      "সার্টিফিকেটের অবস্থা">
 <!ENTITY exceptionMgr.certstatus.viewCert     "প্রদর্শন…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.exceptionButton         "নিরাপত্তা জড়িত ব্যতিক্রম নিশ্চিত করুন">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!-- ENTITY exceptionMgr.exceptionButton         "নিরাপত্তা জড়িত ব্যতিক্রম নিশ্চিত করুন" -->
+<!-- ENTITY exceptionMgr.exceptionButtonAccess   "C" -->
+<!ENTITY exceptionMgr.exceptionButton.label   "নিরাপত্তা জড়িত ব্যতিক্রম নিশ্চিত করুন">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.permanent.label         "এই ব্যতিক্রমটি স্থায়ীরূপে সংরক্ষণ করুন">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
 <!ENTITY exceptionMgr.supplementalWarning     "বৈধ ব্যাঙ্ক, বিপনী ও অন্যান্য সার্বজনীন সাইট দ্বারা এই অনুরোধ করা হবে না।">
