@@ -31,7 +31,7 @@
 
 <!ENTITY updateCmd.label                "Caută actualizări...">
 
-<!ENTITY preferencesCmdMac.label        "Preferințe...">
+<!ENTITY preferencesCmdMac.label        "Preferințe…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servicii">
