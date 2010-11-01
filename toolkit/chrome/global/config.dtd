@@ -38,10 +38,10 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "¡Ésto puede anular la garantía!">
+<!ENTITY aboutWarningTitle.label "¡Ojo al charqui!">
 <!ENTITY aboutWarningText.label "Cambiar estas configuraciones avanzadas pueden afectar la estabilidad, seguridad y rendimiento de esta aplicación. Sólo debería continuar si está seguro de lo que va a hacer.">
 <!ENTITY aboutWarningButton.label "¡Seré cuidadoso, lo prometo!">
-<!ENTITY aboutWarningCheckbox.label "Muéstrame esta advertencia la próxima vez">
+<!ENTITY aboutWarningCheckbox.label "Mostrar esta advertencia la próxima vez">
 
 <!ENTITY filterPrefs.label "Filtro:">
 <!ENTITY filterPrefs.accesskey "i">
