@@ -123,8 +123,8 @@
 <!ENTITY certmgr.addException.label "Добавить исключение…">
 <!ENTITY certmgr.addException.accesskey "ю">
 <!ENTITY exceptionMgr.title "Добавить исключение безопасности">
-<!ENTITY exceptionMgr.exceptionButton "Подтвердить исключение безопасности">
-<!ENTITY exceptionMgr.exceptionButtonAccess "т">
+<!ENTITY exceptionMgr.exceptionButton.label "Подтвердить исключение безопасности">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "т">
 <!ENTITY exceptionMgr.supplementalWarning "Серьёзные банки, магазины и другие публичные сайты не будут просить вас делать это.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Сервер">
 <!ENTITY exceptionMgr.certlocation.url "Адрес:">
