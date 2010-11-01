@@ -133,8 +133,8 @@
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
 
 <!ENTITY exceptionMgr.title "Pievienot drošības izņēmumu">
-<!ENTITY exceptionMgr.exceptionButton "Apstiprināt drošības izņēmumu">
-<!ENTITY exceptionMgr.exceptionButtonAccess "A">
+<!ENTITY exceptionMgr.exceptionButton.label   "Apstiprināt drošības izņēmumu">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "A">
 <!ENTITY exceptionMgr.supplementalWarning "Likumīgas bankas, veikali un citas publiskas vietnes jums nekad nelūgs darīt šo.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Serveris">
 <!ENTITY exceptionMgr.certlocation.url "Atrašanās vieta:">
