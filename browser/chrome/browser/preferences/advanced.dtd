@@ -96,3 +96,13 @@
 <!ENTITY viewSecurityDevices.accesskey "y">
 <!ENTITY enableAddonsUpdate2.label       "ആഡോണുകള്‍">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
+
+<!ENTITY allowHWAccel.label              "ലഭ്യമാകുമ്പോള്‍ ഹാര്‍ഡ്‌വെയര്‍ ആക്സിലറേഷന്‍ ഉപയോഗിയ്ക്കുക">
+<!ENTITY allowHWAccel.accesskey          "h">
+
+<!ENTITY limitCacheSizeBefore.label      "കാഷിനുള്ള പരിമിധി">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB സ്ഥലം">
+
+<!ENTITY overrideSmartCacheSize.label    "ഓട്ടോമാറ്റിക് കാഷ് മാനേജ്മെന്റ് മാറ്റി സ്ഥാപിയ്ക്കുക">
+<!ENTITY overrideSmartCacheSize.accesskey "O">

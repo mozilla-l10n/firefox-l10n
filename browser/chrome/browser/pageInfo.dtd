@@ -49,7 +49,7 @@
 <!-- ENTITY linkName "പേര്‌ " -->
 <!-- ENTITY linkAddress "വിലാസം" -->
 <!-- ENTITY linkType "ടൈപ്പ്‌" -->
-<!-- ENTITY linkTarget "ടാര്‍ജെറ്റ്‌" -->
+<!-- ENTITY linkTarget "ലക്ഷ്യം" -->
 <!-- ENTITY linkAccessKey "പ്രവേശന താക്കോല്‍" -->
 <!ENTITY mediaTab "മീഡിയ" >
 <!ENTITY  mediaTab.accesskey    "M">
@@ -123,8 +123,12 @@
 <!ENTITY  securityView.privacy.cookies                  "ഈ വെബ്സൈറ്റ് വിവരങ്ങള്‍ (കുക്കികള്‍) കമ്പ്യൂട്ടറില്‍ സൂക്ഷിക്കുന്നുണ്ടോ?">
 <!ENTITY  securityView.privacy.viewCookies              "കുക്കികള്‍ കാണുക">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "ഈ വെബ് സൈറ്റിനു് വേണ്ടി പാസ്‌വേര്‍ഡുകള്‍ സൂക്ഷിച്ചിട്ടുണ്ടോ?">
-<!ENTITY  securityView.privacy.viewPasswords            "കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചിട്ടുള്ള പാസ്‌വേര്‍ഡുകള്‍ കാണുക">
+<!ENTITY  securityView.privacy.passwords                "ഈ വെബ് സൈറ്റിനു് വേണ്ടി രഹസ്യവാക്കുകള്‍ സൂക്ഷിച്ചിട്ടുണ്ടോ?">
+<!ENTITY  securityView.privacy.viewPasswords            "കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചിട്ടുള്ള രഹസ്യവാക്കുകള്‍ കാണുക">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "സാങ്കേതിക വിശദാംശങ്ങള്‍">
+
+<!ENTITY  permIndexedDB              "ഓഫ്‌ലൈന്‍ സംരംഭം കൈകാര്യം ചെയ്യുക">
+<!ENTITY  permClearStorage           "സംഭരണം വെടിപ്പാക്കുക">
+<!ENTITY  permClearStorage.accesskey "C">

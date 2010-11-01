@@ -53,6 +53,7 @@
 <!ENTITY  font.langGroup.telugu                   "തെലുങ്കു">
 <!ENTITY  font.langGroup.kannada                  "കന്നഡാ">
 <!ENTITY  font.langGroup.sinhala                  "സിന്‍ഹാലാ">
+<!ENTITY  font.langGroup.tibetan                  "ടിബറ്റന്‍">
 <!ENTITY minSize.label "ചുരുങ്ങിയ ഫോണ്ട്‌ വലിപ്പം ">
 <!ENTITY minSize.accesskey "o">
 <!ENTITY minSize.none "None">

@@ -15,3 +15,5 @@
 <!ENTITY showTabBar.accesskey "b">
 <!ENTITY switchToNewTabs.label "പുതിയ റ്റാബ് തുറക്കുമ്പോള്‍, അതിലേക്ക് മാറുക">
 <!ENTITY switchToNewTabs.accesskey "s">
+<!ENTITY showTabsInTaskbar.label          "ജാലകത്തിന്റെ റ്റാസ്ക് ബാറില്‍ റ്റാബ്  തിരനോട്ടം (പ്രിവ്യൂ) കാണിയ്ക്കുക">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
