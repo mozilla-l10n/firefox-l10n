@@ -1,13 +1,58 @@
-<!ENTITY aboutDialog.title "&brandFullName; के बारे में">
-<!ENTITY copyright "श्रेयसूची">
-<!ENTITY aboutLink "&lt; &brandFullName; के बारे में">
-<!ENTITY aboutVersion "संस्करण">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY copyright.accesskey    "C">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY closeCmdGNOME.label        "बंद करें">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 योगदानकर्ता. सर्वाधिकार सुरक्षित. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "लाइसेंसिंग सूचना">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY aboutDialog.title          "&brandFullName; का परिचय">
+
+<!ENTITY community.start2           "&brandShortName; बनाया गया है ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", एक ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "वैश्विक समुदाय के द्वारा">
+<!ENTITY community.end2             " जो इंटरनेट को लगातार बेहतर बनाने के लिए एकसाथ काम करते हैं. हमारा भरोसा है कि इंटरनेट को हर किसी के लिए बिना किसी प्रतिबंध के मुक्त, सार्वजनिक और पहुँच योग्य होना चाहिए.">
+
+<!ENTITY contribute.start           "वाकई बढ़िया? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "शामिल होयें!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "लाइसेंसिंग सूचना">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "अंत्य उपयोक्ता अधिकार">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "गोपनीयता नीति">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "अद्यतन के लिए जाँच रहा है…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "सहयुक्ति सुसंगतता जाँच रहा है…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; अद्यतन है">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "अद्यतनों को आपके सिस्टम प्रशासक के द्वारा निष्क्रिय किया गया है">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "अद्यतन विफल. ">
+<!ENTITY update.failed.linkText     "नवीनत संस्करण डाउनलोड करें">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "अद्यतन यहाँ उपलब्ध हैं ">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "अद्यतन डाउनलोड कर रहा है — ">
+<!ENTITY update.downloading.end     "">
+
+
