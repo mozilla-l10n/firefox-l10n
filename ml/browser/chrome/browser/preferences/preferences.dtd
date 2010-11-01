@@ -15,3 +15,4 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title       "സാധാരണ">
+<!ENTITY  paneSync.title          "സിന്‍ക് ചെയ്യുക">

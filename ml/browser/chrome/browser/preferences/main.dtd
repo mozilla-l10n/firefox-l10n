@@ -38,3 +38,5 @@
 <!ENTITY manageAddonsDescUnix2.label   "നിങ്ങളുടെ ആഡ്-ഓണുകള്‍ക്കുള്ള മുന്‍ഗണനകള്‍ മാറ്റുക">
 <!ENTITY manageAddons.label            "ആഡ്-ഓണുകള്‍ കൈകാര്യം ചെയ്യുക…">
 <!ENTITY manageAddons.accesskey        "M">
+<!ENTITY homepage.label            "ആസ്ഥാന താള്‍:">
+<!ENTITY homepage.accesskey        "P">
