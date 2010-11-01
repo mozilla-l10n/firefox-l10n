@@ -229,7 +229,7 @@
 <!ENTITY addon.restartNow.label               "ഉടന്‍ വീണ്ടും ആരംഭിയ്ക്കുക">
 <!ENTITY addon.undoAction.label               "വേണ്ട">
 <!ENTITY addon.undoAction.tooltip             "ഈ പ്രവര്‍ത്തി ആവശ്യമില്ല">
-<!ENTITY addon.undoRemove.label               "വേണ്ട>
+<!ENTITY addon.undoRemove.label               "വേണ്ട">
 <!ENTITY addon.undoRemove.tooltip             "ഈ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തു് സൂക്ഷിയ്ക്കുക">
 <!ENTITY addon.unknownDate                    "അപരിചിതം">
 <!ENTITY addon.update.postfix                 "പരിഷ്കരിയ്ക്കുക">
