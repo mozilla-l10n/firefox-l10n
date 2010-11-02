@@ -24,10 +24,10 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY pinAppTab.label "Pin as App Tab">
-<!ENTITY pinAppTab.accesskey "P">
-<!ENTITY unpinAppTab.label "Unpin Tab">
-<!ENTITY unpinAppTab.accesskey "b">
+<!ENTITY pinAppTab.label "Ползване на подпрозореца като леснодостъпно приложение">
+<!ENTITY pinAppTab.accesskey "П">
+<!ENTITY unpinAppTab.label "Премахване от леснодостъпните приложения">
+<!ENTITY unpinAppTab.accesskey "П">
 <!ENTITY moveToGroup.label "Преместване в група">
 <!ENTITY moveToGroup.accesskey "П">
 <!ENTITY moveToNewGroup.label "Нова група">
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Напред">
 <!ENTITY forwardCmd.accesskey "п">
 <!ENTITY forwardButton.tooltip "Напред една страница">
-<!ENTITY backForwardMenu.tooltip "Последни страници">
 <!ENTITY reloadCmd.label "Презареждане">
 <!ENTITY reloadCmd.accesskey "з">
 <!ENTITY reloadButton.tooltip "Презареждане на текущата страница">
@@ -515,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label "Готово">
 <!ENTITY editBookmark.cancel.label "Отказ">
 <!ENTITY editBookmark.removeBookmark.accessKey "П">
-<!ENTITY editBookmark.undo.label "Отмяна">
-<!ENTITY editBookmark.undo.accessKey "О">
-<!ENTITY editBookmark.edit.label "Редактиране…">
-<!ENTITY editBookmark.edit.accessKey "Р">
 
 <!ENTITY identity.unverifiedsite2 "Сайтът не предоставя информация за себе си.">
 <!ENTITY identity.connectedTo "Свързани сте с">
