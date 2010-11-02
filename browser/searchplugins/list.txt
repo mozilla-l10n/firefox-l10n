@@ -1,4 +1,5 @@
 google
+bing
 yahoo-es
 eBay-es
 wikipedia-ast
