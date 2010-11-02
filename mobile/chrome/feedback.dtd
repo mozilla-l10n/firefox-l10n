@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader.label           "Beta 測試者工具">
+
+<!ENTITY feedback.communicate.title     "與我們溝通！">
+<!ENTITY feedback.feedback.title        "提供意見回饋">
+<!ENTITY feedback.feedback.good         "讚">
+<!ENTITY feedback.feedback.bad          "糟糕">
+
+<!ENTITY feedback.information.title     "更多資訊">
+<!ENTITY feedback.about.title           "關於此 Beta">
+<!ENTITY feedback.about.button          "更多資訊">
+
+<!ENTITY feedback.tools.title           "工具">
+<!ENTITY feedback.forceCompat.title     "強迫套用附加元件相容性">
+<!ENTITY feedback.errorConsole.title    "啟用錯誤主控台">
