@@ -72,3 +72,11 @@
 <!ENTITY languages.customize.Charset.grouplabel         "අක්‍ෂර කේතාංකනය">
 <!ENTITY languages.customize.DefaultCharset.label       "පෙරනිමි අක්‍ෂර කේතාංකනය:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY font.langGroup.tibetan "Tibetan">

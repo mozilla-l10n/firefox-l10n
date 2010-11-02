@@ -11,3 +11,12 @@
 
 <!ENTITY switchToNewTabs.label        "මම සබැඳියක් නව් ටැබයක විවෘත කිරීමේදී ක්‍ෂණිකව එයට යොමුවන්න">
 <!ENTITY switchToNewTabs.accesskey    "s">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY showTabsInTaskbar.accesskey "k">
+<!ENTITY showTabsInTaskbar.label "Show tab previews in the Windows taskbar">

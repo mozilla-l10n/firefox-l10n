@@ -1,0 +1,21 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY networkPanel.requestBody "Request Body">
+<!ENTITY networkPanel.responseHeaders "Response Headers">
+<!ENTITY networkPanel.responseImageCached "Cached Image">
+<!ENTITY networkPanel.requestHeaders "Request Headers">
+<!ENTITY networkPanel.requestURL "Request URL">
+<!ENTITY networkPanel.requestMethod "Request Method">
+<!ENTITY networkPanel.statusCode "Status Code">
+<!ENTITY networkPanel.responseBody "Response Body">
+<!ENTITY networkPanel.responseBodyUnknownType "Unknown Content Type">
+<!ENTITY networkPanel.requestCookie "Sent Cookie">
+<!ENTITY networkPanel.requestFormData "Sent Form Data">
+<!ENTITY networkPanel.responseImage "Received Image">
+<!ENTITY networkPanel.responseBodyCached "Cached Data">
+<!ENTITY networkPanel.responseNoBody "No Response Body">

@@ -208,3 +208,30 @@
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "මෙම පිටුව ගැන නොසිතන්න">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY view.accesskey "w">
+<!ENTITY byDayAndSite.label "By Date and Site">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY find.label "Search:">
+<!ENTITY cmd.bookmarkLink.label "Bookmark This Page…">
+<!ENTITY byDate.label "By Date">
+<!ENTITY views.tooltip "Change your view">
+<!ENTITY view.label "View">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY search.in.label "Search in:">
+<!ENTITY organize.tooltip "Organize your bookmarks">
+<!ENTITY find.accesskey "S">
+<!ENTITY cmd.bookmarkLink.accesskey "B">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byMostVisited.label "By Most Visited">
+<!ENTITY maintenance.tooltip "Import and backup your bookmarks">
+<!ENTITY bySite.label "By Site">
+<!ENTITY byLastVisited.label "By Last Visited">

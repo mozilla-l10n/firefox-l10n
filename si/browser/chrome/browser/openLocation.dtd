@@ -9,3 +9,10 @@
 <!ENTITY openWhere.label "විවෘත කරන්නේ:">
 
 <!ENTITY openBtn.label "විවෘත කරන්න">
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY topTab.label "Current Tab">

@@ -23,3 +23,18 @@
 <!ENTITY blockedPlugin.label                                 "ඔබගේ ආරක්‍ෂාව සඳහා මෙම ප්ලගීනය අවහිර කර ඇත.">
 
 <!ENTITY missingPlugin.label                                 "ප්ලගීන ලබා ගැනීමට මෙහි ක්ලික් කරන්න.">
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY reloadPlugin.middle "Reload the page">
+<!ENTITY report.disabled "Crash reporting disabled.">
+<!ENTITY report.failed "Submission failed.">
+<!ENTITY reloadPlugin.pre "">
+<!ENTITY report.unavailable "No report available.">
+<!ENTITY reloadPlugin.post " to try again.">
+<!ENTITY report.submitting "Sending report…">
+<!ENTITY report.submitted "Crash report sent.">
+<!ENTITY report.please "Send crash report">

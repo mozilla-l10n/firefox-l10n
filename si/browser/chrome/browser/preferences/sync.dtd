@@ -1,0 +1,37 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY syncMy.label "Sync My">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY updatePass.label "Update">
+<!ENTITY engine.bookmarks.label "Bookmarks">
+<!ENTITY currentAccount.label "Current Account:">
+<!ENTITY setupButton.accesskey "S">
+<!ENTITY engine.history.accesskey "r">
+<!ENTITY engine.history.label "History">
+<!ENTITY resetSync.label "Reset Sync">
+<!ENTITY prefs.tosLink.label "Terms of Service">
+<!ENTITY stopUsingAccount.label "Stop Using This Account">
+<!ENTITY engine.tabs.accesskey "T">
+<!ENTITY syncPrefsCaption.label "Browser Sync">
+<!ENTITY resetPass.label "Reset">
+<!ENTITY manageAccount.label "Manage Account">
+<!ENTITY syncComputerName.accesskey "c">
+<!ENTITY setupButton.label "Set Up &syncBrand.fullName.label;">
+<!ENTITY manageAccount.accesskey "A">
+<!ENTITY viewQuota.label "View Quota">
+<!ENTITY mySyncKey.label "My Sync Key">
+<!ENTITY engine.passwords.label "Passwords">
+<!ENTITY engine.prefs.label "Preferences">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY engine.prefs.accesskey "S">
+<!ENTITY engine.tabs.label "Tabs">
+<!ENTITY changePassword.label "Change Password">
+<!ENTITY prefs.ppLink.label "Privacy Policy">
+<!ENTITY syncComputerName.label "Computer Name:">
+<!ENTITY engine.passwords.accesskey "P">

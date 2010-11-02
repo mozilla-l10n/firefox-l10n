@@ -24,3 +24,12 @@
 
 <!ENTITY changeAndRestartButton.label "වෙනස්කම් යොදා යළි ආරම්භ කරන්න">
 <!ENTITY continueButton.label         "ආරක්‍ෂීත ආකාරය තුළ දිගටම ක්‍රියා කරන්න">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY deleteBookmarks.label "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.accesskey "b">

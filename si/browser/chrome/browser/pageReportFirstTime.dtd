@@ -5,3 +5,11 @@
 <!ENTITY caption.label                     "පොප්-අප් වැලක් වීම සම්බන්ධව">
 
 <!ENTITY done.label "කළා">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY startDescriptionText.label "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">

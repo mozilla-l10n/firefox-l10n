@@ -17,3 +17,19 @@
 <!ENTITY about.buildconfig.afterLink  "බලන්න.">
 
 <!ENTITY about.buildIdentifier        "ගොඩනැගුම් හදුනුම: ">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY about.buildconfig.afterTheLink " used for this version.">
+<!ENTITY about.buildconfig.beforeTheLink "See the ">
+<!ENTITY about.license.afterTheLink " for this product.">
+<!ENTITY about.relnotes.afterTheLink " for this version.">
+<!ENTITY about.credits.afterLink " to the Mozilla Project.">
+<!ENTITY about.credits.linkTitle "contributors">
+<!ENTITY about.credits.beforeLink "See a list of ">
+<!ENTITY about.relnotes.beforeTheLink "Read the ">
+<!ENTITY about.license.beforeTheLink "Read the ">

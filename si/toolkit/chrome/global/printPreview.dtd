@@ -71,3 +71,12 @@
 <!ENTITY endarrow.tooltip     "අවසාන පිටුව">
 <!ENTITY rightarrow.tooltip   "ඊළඟ පිටුව">
 <!ENTITY leftarrow.tooltip    "පෙර පිටුව">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY previousarrow.tooltip "Previous page">
+<!ENTITY nextarrow.tooltip "Next page">
