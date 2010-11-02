@@ -12,7 +12,4 @@
 <!ENTITY raiseLowerWindows.accesskey "">
 <!ENTITY disableContextMenus.label "உரை பட்டியல்களை செயலிழக்க செய்க அல்லது மாற்றுக">
 <!ENTITY disableContextMenus.accesskey "">
-<!ENTITY hideStatusBar.label "நிலைப்பாடு பட்டையை மறைக்கவும்">
-<!ENTITY hideStatusBar.accesskey "">
-<!ENTITY changeStatusBar.label "நிலைப்பாடு பட்டை உரையை மாற்றுக">
-<!ENTITY changeStatusBar.accesskey "C">
+

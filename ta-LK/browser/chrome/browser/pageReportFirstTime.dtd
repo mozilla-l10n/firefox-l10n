@@ -1,7 +1,13 @@
-<!ENTITY startDescription.label "ஒரு இணைய தளம் உங்கள் அனுமதி இல்லாமல் pop-up சாளரங்களை திறக்க முயன்றது. &brandShortName; தன்னியக்கமாக பாப்-அப் சாளரத்தை மூடியது.  &brandShortName; pop-up சாளரங்களை மூடும் போது அவைகளுக்கான குறும்படம் நிலைமைப்பட்டையில் தெரியும்.">
-
 <!ENTITY endDescription.label "சின்னத்தில் ‎சொடுக்கி எந்த இணையப்பக்கங்களில் &brandShortName; எந்த pop-up சாளரங்களை தடுத்துவைத்திருக்கிறது என்று காண்க மற்றும் செய்நிரல் சரியாக பணிசெய்ய தேவைப்பட்டால் pop-up சாளரங்களை அனுமதிக்கலாம்.">
 
 <!ENTITY caption.label "pop-up சாளரம் தடுப்பு பற்றி">
 
 <!ENTITY done.label "முடிந்தது">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY startDescriptionText.label "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">

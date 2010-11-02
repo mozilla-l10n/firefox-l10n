@@ -1,0 +1,30 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY testpilot.studiesWindow.finishedStudies.label "Finished Studies">
+<!ENTITY testpilot.settings.readyToSubmit.label "A study is ready to submit">
+<!ENTITY testpilot.settings.newStudy.label "There's a new study">
+<!ENTITY testpilot.rawDataWindow.title "Test Pilot: Raw Data">
+<!ENTITY testpilot.brand.label "Test Pilot">
+<!ENTITY testpilot.settings.notifications.label "Notifications">
+<!ENTITY testpilot.studiesWindow.currentStudies.label "Current Studies">
+<!ENTITY testpilot.settings.label "Settings">
+<!ENTITY testpilot.settings.dataSubmission.label "Data Submission">
+<!ENTITY testpilot.settings.hasNewResults.label "A study has new results">
+<!ENTITY testpilot.allYourStudies.label "All Your User Studies…">
+<!ENTITY testpilot.sad.label "Firefox Made Me Sad Because…">
+<!ENTITY testpilot.about.label "About Test Pilot">
+<!ENTITY testpilot.studiesWindow.studyFindings.label "Study Findings">
+<!ENTITY testpilot.settings.alwaysSubmitData.label "Automatically submit my data (don't ask me)">
+<!ENTITY testpilot.notification.close.tooltip "Close">
+<!ENTITY testpilot.studiesWindow.title "Your Test Pilot Studies">
+<!ENTITY testpilot.feedbackbutton.label "Feedback">
+<!ENTITY testpilot.settings.notifyWhen.label "Notify me when…">
+<!ENTITY testpilot.happy.label "Firefox Made Me Happy Because…">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Loading, please wait…">
+<!ENTITY testpilot.studiesWindow.settings.label "Settings">
+<!ENTITY testpilot.enable.label "Turn On User Studies">

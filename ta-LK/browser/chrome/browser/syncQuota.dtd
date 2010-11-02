@@ -1,0 +1,11 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
+<!ENTITY quota.dialogTitle.label "Server Quota">
+<!ENTITY quota.typeColumn.label "Type">
+<!ENTITY quota.sizeColumn.label "Size">

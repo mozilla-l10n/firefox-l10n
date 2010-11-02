@@ -1,13 +1,3 @@
-<!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpTroubleshooting.label      "Troubleshooting Information…">
-<!ENTITY helpTroubleshooting.accesskey  "T">
-<!ENTITY productHelp.label        "&brandShortName; Help">
-<!ENTITY productHelp.accesskey    "H">
-
-
-
-
-
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "சிறிதாக்கு">
 <!ENTITY bringAllToFront.label "அனைத்தையும் முன்புறம் கொணர்க">
@@ -20,37 +10,40 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "உதவி">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY aboutCmd.label "&brandFullName; பற்றி">
-<!ENTITY aboutCmd.accesskey "A">
-
-
 <!ENTITY helpForIEUsers.label "Internet Explorer பயனர்களுக்காக">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-
-
 
 <!ENTITY helpReleaseNotes.label "வெளியீட்டுக் குறிப்புக்கள்">
 <!ENTITY helpReleaseNotes.accesskey "N">
 <!ENTITY updateCmd.label "புதுப்பிக்கள் உள்ளதா என்று கவனிக்கவும்">
 
-
 <!ENTITY preferencesCmdMac.label "விருப்பத்தேர்வுகள்...">
 <!ENTITY preferencesCmdMac.commandkey ",">
-
 
 <!ENTITY servicesMenuMac.label "சேவைகள்">
 
 <!ENTITY hideThisAppCmdMac.label "&brandShortName;-யை மறைக்கவும்">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
 
-
 <!ENTITY hideOtherAppsCmdMac.label "மற்றதை மறைக்கவும்">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-
 <!ENTITY showAllAppsCmdMac.label "அனைத்தையும் காட்டுக">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY aboutProduct.accesskey "A">
+<!ENTITY helpTroubleshootingInfo.accesskey "T">
+<!ENTITY helpFeedbackPage.accesskey "S">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY helpFeedbackPage.label "Submit Feedback…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY productHelp.label "&brandShortName; Help">
+<!ENTITY aboutProduct.label "About &brandShortName;">
+<!ENTITY helpMac.commandkey "?">
+<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">

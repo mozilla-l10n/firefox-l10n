@@ -5,8 +5,6 @@
 <!ENTITY startupHomePage.label "என் முகப்புப் பக்கத்தை காட்டுக">
 <!ENTITY startupBlankPage.label "வெற்றுப்பக்கத்தை காட்டுக">
 <!ENTITY startupLastSession.label "கடைசி தடவை பயன்படுத்திய சாளரங்கள் மற்றும் தத்தல்களை காட்டுக">
-<!ENTITY location.label "முகப்புப் பக்கம்:">
-<!ENTITY location.accesskey "H">
 <!ENTITY useCurrentPage.label "தற்போதைய பக்கத்தை பயன்படுத்துக">
 <!ENTITY useCurrentPage.accesskey "C">
 <!ENTITY useMultiple.label "தற்போதைய பக்கங்களை பயன்படுத்துக">
@@ -35,3 +33,12 @@
 <!ENTITY manageAddonsDescUnix2.label   "உங்களது செருகல்களிற்கான விருப்புகளை மாற்றுக">
 <!ENTITY manageAddons.label            "செருகல்கலை ‍மேலாண்மை ‎செய்க">
 <!ENTITY manageAddons.accesskey        "M">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY homepage.label "Home Page:">
+<!ENTITY homepage.accesskey "P">
