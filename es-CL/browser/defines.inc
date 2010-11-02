@@ -1,6 +1,5 @@
 #filter emptyLines
 
-
 #define MOZ_LANGPACK_CREATOR Chilemoz.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
