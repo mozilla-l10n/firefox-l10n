@@ -469,3 +469,53 @@
 <!ENTITY inspectPreviousButton.accesskey "P">
 <!ENTITY inspectStyleButton.label     "ശൈലി">
 <!ENTITY inspectStyleButton.accesskey "S">
+
+<!ENTITY inspectStylePanelTitle.label  "ശൈലി">
+<!ENTITY  listAllTabs.label      "എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക">
+<!ENTITY  moveToGroup.label                  "ഗ്രൂപ്പിലേക്കു് നീക്കുക">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "പുതിയ ഗ്രൂപ്പ്">
+<!ENTITY  moveToNewWindow.label              "പുതിയ ജാലകത്തിലേക്ക് നീക്കുക">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY openLinkCmdInCurrent.label     "കണ്ണി തുറക്കുക">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY  pinAppTab.label                    "Pin as App Tab">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  reloadTab.label                    "റ്റാബ് വീണ്ടും ലഭ്യമാക്കുക">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "എല്ലാ റ്റാബുകളും വീണ്ടും ലഭ്യമാക്കുക">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY showAllBookmarks.label "എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക…">
+<!ENTITY syncBrand.shortName.label    "സിന്‍ക്">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; സജ്ജമാക്കുക…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "ഉടന്‍ സിന്‍ക് ചെയ്യുക">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncTabsMenu.label     "മറ്റു് കമ്പ്യൂട്ടറുകളില്‍ നിന്നുള്ള റ്റാബുകള്‍">
+<!ENTITY syncToolbarButton.label      "സിന്‍ക് ചെയ്യുക">
+<!ENTITY tabGroupsButton.label        "റ്റാബ് ഗ്രൂപ്പുകള്‍">
+<!ENTITY tabGroupsButton.tooltip      "റ്റാബുകള്‍ ഒന്നിച്ചാക്കുക">
+<!ENTITY tabView.commandkey           "e">
+<!ENTITY tabsToolbar.label "ബ്രൌസര്‍ റ്റാബുകള്‍">
+<!ENTITY  undoCloseTab.label                 "റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  unpinAppTab.label                  "റ്റാബ് പിന്‍ ചെയ്യേണ്ട">
+<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY urlbar.placeholder           "വെബ് സൈറ്റിലേക്ക് പോകുക">
+
+<!ENTITY urlbar.switchToTab.label     "ഏതു് റ്റാബ്:">
+<!ENTITY videoFullScreen.label       "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍">
+<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY viewBookmarksSidebar.label         "സൈഡ്ബാറില്‍ കാണിയ്ക്കുക">
+<!ENTITY viewBookmarksToolbar.label         "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
+<!ENTITY viewTabGroups.label            "റ്റാബ് ഗ്രൂപ്പുകള്‍">
+<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabsOnTop.label            "റ്റാബുകള്‍ മുകളില്‍">
+<!ENTITY viewTabsOnTop.accesskey        "T">
+<!ENTITY webConsoleCmd.label          "വെബ് കണ്‍സോള്‍">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY zoomOutButton.tooltip          "ചെറുതാക്കുക">
+<!ENTITY zoomInButton.tooltip           "വലുതാക്കുക">
+<!ENTITY zoomControls.label             "കണ്ട്രോളുകള്‍">
