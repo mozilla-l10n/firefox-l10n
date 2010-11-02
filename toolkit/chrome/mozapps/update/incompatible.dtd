@@ -1,9 +1,0 @@
-
-<!ENTITY  incompatible.title        "Rudan neo-chòrdail">
-<!ENTITY  incompatible.intro        "Chan eil na rudan a leanas co-chòrdail leis an ùrachadh seo de &brandShortName; agus                                     thèid a chur à comas nuair a bhios e air a stàladh:">
-<!ENTITY  incompatible.update       "Cuiridh &brandShortName; sùil o àm gu àm ach a bhios ùrachadh ri fhaighinn a bhios co-chòrdail.">
-<!ENTITY  incompatible.suffix       "Tha leasachaidhean tèarainteachd cudromach ann an ùrachadh &brandShortName;. Mholar gu mòr dhut &brandShortName; ùrachadh a chum do thèarainteachd, fiù ma bhios cuid dhe na tuilleadain is ùrlaran agad neo-chòrdail as dèidh sin.">
-                                     
-<!ENTITY  closebutton.label         "Dùin">
-                                     
-                                     
