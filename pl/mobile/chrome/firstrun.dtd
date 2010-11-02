@@ -1,5 +1,5 @@
-<!ENTITY firstrun.title                "&brandShortName; &ndash; Witamy">
-<!ENTITY firstrun.heading2             "&brandShortName; &ndash; Witamy">
+<!ENTITY firstrun.title                "&brandShortName; &#8211; Witamy">
+<!ENTITY firstrun.heading2             "&brandShortName; &#8211; Witamy">
 <!ENTITY firstrun.sync2.title          "Synchronizuj">
 <!ENTITY firstrun.sync2.description    "Zaloguj się do swojego konta Sync i współdziel swoją historię, hasła, zakładki i karty między komputerem a komórką.">
 <!ENTITY firstrun.addons2.title        "Dostosuj">

@@ -50,7 +50,9 @@
 <!ENTITY downloadPause.label       "Wstrzymaj">
 <!ENTITY downloadResume.label      "Kontynuuj">
 <!ENTITY downloadRetry.label       "Pobierz ponownie">
+<!-- According to Bug 602535, downloadRemove.label is no longer used. -->
 <!ENTITY downloadRemove.label      "Usuń">
+<!ENTITY downloadDelete.label      "Usuń">
 <!ENTITY downloadFailed.label      "Pobieranie nie powiodło się">
 <!ENTITY noResults.label           "Brak wyników">
 <!ENTITY allBookmarks.label        "Pokaż wszystkie zakładki">
@@ -92,6 +94,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY contextShareImage.label      "Podziel się obrazkiem">
 <!ENTITY contextSaveVideo.label       "Zapisz wideo">
 <!ENTITY contextShareVideo.label      "Podziel się wideo">
+<!ENTITY contextPlayMedia.label       "Odtwórz">
+<!ENTITY contextPauseMedia.label      "Wstrzymaj">
+<!ENTITY contextFullScreen.label      "Tryb pełnoekranowy">
 <!ENTITY contextEditBookmark.label    "Edytuj">
 <!ENTITY contextRemoveBookmark.label  "Usuń">
 

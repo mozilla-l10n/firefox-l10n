@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader.label           "Narzędzia dla beta testerów">
+
+<!ENTITY feedback.communicate.title     "Powiedz nam, co myślisz">
+<!ENTITY feedback.feedback.title        "Wyślij opinię">
+<!ENTITY feedback.feedback.good         "Dobrze">
+<!ENTITY feedback.feedback.bad          "Źle">
+
+<!ENTITY feedback.information.title     "Więcej informacji">
+<!ENTITY feedback.about.title           "O tym wydaniu beta">
+<!ENTITY feedback.about.button          "Idź do strony">
+
+<!ENTITY feedback.tools.title           "Narzędzia">
+<!ENTITY feedback.forceCompat.title     "Wymuś zgodność dodatków">
+<!ENTITY feedback.errorConsole.title    "Włącz konsolę błędów">

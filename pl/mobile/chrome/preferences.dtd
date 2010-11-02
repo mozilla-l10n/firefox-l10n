@@ -15,11 +15,11 @@
 <!ENTITY defaultBrowser.title                      "Domyślna przeglądarka">
 <!ENTITY defaultBrowser.description                "Ustaw program &brandShortName; jako domyślną przeglądarkę">
 <!ENTITY homepage.title                            "Strona startowa">
-<!ENTITY homepage.none                             "Bez nazwy">
+<!ENTITY homepage.none                             "Pusta strona">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Użyj aktualnej strony">
 <!ENTITY sync.title                                "Sync">
-<!ENTITY sync.account                              "Użytkownik/Email">
+<!ENTITY sync.account2                             "Nazwa konta">
 <!ENTITY sync.password                             "Hasło">
 <!ENTITY sync.syncKey                              "Klucz Sync">
 <!ENTITY sync.deviceName                           "Nazwa urządzenia">
