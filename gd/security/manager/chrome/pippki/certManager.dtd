@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "C">
 
 <!ENTITY exceptionMgr.title                   "Cuir eisgeachd tèarainteachd ris">
-<!ENTITY exceptionMgr.exceptionButton         "Dearbhaich eisgeachd tèarainteachd">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "Dearbhaich eisgeachd tèarainteachd">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "c">
 <!ENTITY exceptionMgr.supplementalWarning     "Chan iarr bancaichean, bùithtean is làraichean poblach is dligheach eile ort seo a dhèanamh.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Frithealaiche">
 <!ENTITY exceptionMgr.certlocation.url        "Seòladh:">
