@@ -76,8 +76,10 @@
 <!ENTITY certmgr.addException.label           "Shtoni Përjashtim…">
 <!ENTITY certmgr.addException.accesskey       "o">
 <!ENTITY exceptionMgr.title                   "Shtoni Përjashtime Sigurie">
-<!ENTITY exceptionMgr.exceptionButton         "Ripohoni Përjashtime Sigurie">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "R">
+
+<!ENTITY exceptionMgr.exceptionButton.label   "Ripohoni Përjashtime Sigurie">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "R">
+
 <!ENTITY exceptionMgr.supplementalWarning     "Banka, dyqane të ligjshme, dhe &quot;site&quot;-e të tjerë publikë nuk do t&apos;ju kërkojnë ta bëni këtë.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Shërbyes">
 <!ENTITY exceptionMgr.certlocation.url        "Vend:">

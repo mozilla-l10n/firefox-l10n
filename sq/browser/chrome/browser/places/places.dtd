@@ -74,6 +74,8 @@
 
 <!ENTITY search.label                              "Kërko në:">
 <!ENTITY search.accesskey                          "K">
+
+<!ENTITY search.in.label                           "Kërko në:">
 <!ENTITY search.scopeFolder.label                  "Dosjen e Përzgjedhur">
 <!ENTITY search.scopeFolder.accesskey              "D">
 <!ENTITY search.scopeDownloads.label               "Shkarkimet">
