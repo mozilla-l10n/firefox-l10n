@@ -222,3 +222,22 @@
 <!ENTITY detailsPane.selectAnItemText.description "ഒരു വസ്തു തെരഞ്ഞെടുത്തു് ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക">
 <!ENTITY cmd.bookmarkLink.label         "ഈ താള്‍ അടയാളപ്പെടുത്തുക…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
+
+<!ENTITY byDate.label             "തീയതി അനുസരിച്ചു്">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY byDayAndSite.label       "തീയതിയും സൈറ്റും അനുസരിച്ചു്">
+<!ENTITY byDayAndSite.accesskey   "t">
+<!ENTITY bySite.label             "സൈറ്റ് അനുസരിച്ചു്">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "ഏറ്റവും കൂടുതല്‍ സന്ദര്‍ശിച്ചതു് അനുസരിച്ചു്">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "ഏറ്റവും ഒടുവില്‍ സന്ദര്‍ശിച്ചതു് അനുസരിച്ചു്">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY find.label               "തെരയുക:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY maintenance.tooltip    "അടയാളക്കുറിപ്പുകള്‍ ഇംപോര്‍ട്ട് ചെയ്തു് ബാക്കപ്പെടുക്കുക">
+<!ENTITY organize.tooltip      "അടയാളക്കുറിപ്പുകള്‍ ചിട്ടപ്പെടുത്തുക">
+<!ENTITY search.in.label                           "ഇവിടെ തെരയുക:">
+<!ENTITY view.label               "കാഴ്ച">
+<!ENTITY view.accesskey           "w">
+<!ENTITY views.tooltip                  "കാഴ്ചകള്‍ മാറ്റുക">
