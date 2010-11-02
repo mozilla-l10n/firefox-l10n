@@ -70,10 +70,10 @@
 <!ENTITY cmd.enableAddon.accesskey "C">
 <!ENTITY cmd.disableAddon.label "Díchumasaigh">
 <!ENTITY cmd.disableAddon.accesskey "D">
-<!ENTITY cmd.enableTheme.label "Wear Theme">
-<!ENTITY cmd.enableTheme.accesskey "W">
-<!ENTITY cmd.disableTheme.label "Stop Wearing Theme">
-<!ENTITY cmd.disableTheme.accesskey "W">
+<!ENTITY cmd.enableTheme.label "Úsáid an téama">
+<!ENTITY cmd.enableTheme.accesskey "t">
+<!ENTITY cmd.disableTheme.label "Ná húsáid an téama a thuilleadh">
+<!ENTITY cmd.disableTheme.accesskey "N">
 <!ENTITY cmd.installAddon.label "Suiteáil">
 <!ENTITY cmd.installAddon.accesskey "S">
 <!ENTITY cmd.uninstallAddon.label "Bain">
@@ -118,7 +118,7 @@ na breiseáin is fearr agus is mó éilimh orthu sa phána seo.">
 <!ENTITY detail.updateManual.label "As">
 <!ENTITY detail.updateManual.tooltip "Ná suiteáil nuashonruithe go huathoibríoch">
 <!ENTITY detail.home "Leathanach Baile">
-<!ENTITY detail.repository "Add-on Profile">
+<!ENTITY detail.repository "Próifíl an Bhreiseáin">
 <!ENTITY detail.size "Méid">
 
 <!ENTITY detail.checkForUpdates.label "Lorg Nuashonruithe">
@@ -186,3 +186,8 @@ na breiseáin is fearr agus is mó éilimh orthu sa phána seo.">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Tá brón orm, ach tharla earráid agus na nótaí eisiúna á luchtú.">
 
 <!ENTITY addon.createdBy.label "Le ">
+
+<!ENTITY eula.title "Comhaontú Ceadúnais">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Glac Leis agus Suiteáil…">

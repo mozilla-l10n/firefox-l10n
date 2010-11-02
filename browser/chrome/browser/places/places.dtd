@@ -93,7 +93,9 @@
 <!ENTITY col.lastmodified.label "Athraithe">
 
 <!ENTITY search.label "Cuardaigh:">
-<!ENTITY search.accesskey "u">
+<!ENTITY search.accesskey "C">
+
+<!ENTITY search.in.label "Cuardaigh i:">
 <!ENTITY search.scopeFolder.label "Fillteán Roghnaithe">
 <!ENTITY search.scopeFolder.accesskey "R">
 <!ENTITY search.scopeBookmarks.label "Leabharmharcanna">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "L">
 <!ENTITY detailsPane.noPreviewAvailable.label "Réamhamharc">
 <!ENTITY detailsPane.selectAnItemText.description "Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar">
+
+<!ENTITY find.label "Search:">
+<!ENTITY find.accesskey "S">
+<!ENTITY view.label "Amharc">
+<!ENTITY view.accesskey "m">
+<!ENTITY byDate.label "De réir Dáta">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "De réir Suíomh">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY byMostVisited.label "De réir líon Cuairteanna">
+<!ENTITY byMostVisited.accesskey "C">
+<!ENTITY byLastVisited.label "De réir na Cuairte is Déanaí">
+<!ENTITY byLastVisited.accesskey "D">
+<!ENTITY byDayAndSite.label "De réir Dáta agus Suímh">
+<!ENTITY byDayAndSite.accesskey "t">

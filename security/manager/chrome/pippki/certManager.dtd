@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey "s">
 
 <!ENTITY exceptionMgr.title "Cuir Eisceacht Slándála Leis">
-<!ENTITY exceptionMgr.exceptionButton "Dearbhaigh Eisceacht Slándála">
-<!ENTITY exceptionMgr.exceptionButtonAccess "C">
+<!ENTITY exceptionMgr.exceptionButton.label "Dearbhaigh an Eisceacht Slándála">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "D">
 <!ENTITY exceptionMgr.supplementalWarning "Ní iarrfaidh bainc, siopaí agus suíomhanna dlisteanacha poiblí eile ort é seo a dhéanamh.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Freastalaí">
 <!ENTITY exceptionMgr.certlocation.url "Suíomh:">
