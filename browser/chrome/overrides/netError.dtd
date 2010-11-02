@@ -48,11 +48,6 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "නොබැඳි ආකාරය">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>ගොනු මෙනුව තුළ &quot; නොබැඳිව ක්‍රියා කරන්න &quot; සලකුණු කිරීම ඉවත්කර යළි උත්සාහ කරන්න.</li>
-</ul>
-">
 <!ENTITY contentEncodingError.title "අන්තර්ගත සංකේතාංකන දෝෂය">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -155,14 +150,6 @@
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningText "
-<p>ඔබ පූර්‍ණවිශ්වාසයක් නොමැති අන්තර්ජාල සම්බන්ධතාවයක් භාවිතා කරයි නම්  හෝ ඔබ මෙම අඩවියට අවවාද පණිවිඩ දැක නැත්නම් ඔබ හැරදැමීම් එක් කළ නොකළ යුතුයි.</p>
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
-
 
 <!--
 Entities below were automatically added by compare-locales,

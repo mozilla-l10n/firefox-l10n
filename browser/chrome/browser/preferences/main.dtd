@@ -5,8 +5,6 @@
 <!ENTITY startupHomePage.label     "මගේ මුල් පිටුව පෙන්වන්න">
 <!ENTITY startupBlankPage.label    "හිස් පිටුවක් පෙන්වන්න">
 <!ENTITY startupLastSession.label  "අවසන් වරට තිබූ කවුළු සහ ටැබ් පෙන්වන්න">
-<!ENTITY location.label            "මුල් පිටුව:">
-<!ENTITY location.accesskey        "H">
 <!ENTITY useCurrentPage.label      "දැන් පවතින පිටුව">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "දැන් පවතින පිටුව">

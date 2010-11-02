@@ -89,7 +89,6 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "විස්තර">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 <!ENTITY certmgr.tokenname                    "ආරක්ෂණ උපාංගය">
-<!ENTITY certmgr.purpose                      "අරමුණු">
 <!ENTITY certmgr.issued                       "නිකුත්කරන ලද දිනය">
 <!ENTITY certmgr.expires                      "අවලංගු වන දිනය">
 <!ENTITY certmgr.email                        "විද්‍යුත් තැපැල් ලිපිනය">
@@ -99,7 +98,6 @@
 
 <!ENTITY certmgr.certname                     "සහතික නාමය">
 <!ENTITY certmgr.certserver                   "සේවාදායකය">
-<!ENTITY certmgr.typesofoverrides             "හැරදැමීම්">
 <!ENTITY certmgr.override_lifetime            "ආයුකාළය">
 <!ENTITY certmgr.editca.label                 "CA විශ්වාසය සකසන්න">
 <!ENTITY certmgr.editca.accesskey             "d">
@@ -108,8 +106,6 @@
 
 <!ENTITY certmgr.view2.label                  "පෙන්වන්න…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "සකසන්න…">
-<!ENTITY certmgr.edit2.accesskey              "E">
 
 <!ENTITY certmgr.export.label                 "නිර්යාත…">
 <!ENTITY certmgr.export.accesskey             "x">
@@ -130,8 +126,6 @@
 <!ENTITY certmgr.addException.label           "හැරදැමීමක් එක් කරන්න…">
 <!ENTITY certmgr.addException.accesskey       "x">
 <!ENTITY exceptionMgr.title                   "ආරක්‍ෂක හැරදැමීම් එක් කරන්න">
-<!ENTITY exceptionMgr.exceptionButton         "ආරක්‍ෂක හැරදැමීම් ස්ථිර කරන්න">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
 <!ENTITY exceptionMgr.supplementalWarning     "පිළිගත් බැංකුවක්, වෙළඳසැලක් හෝ වෙනත්  අඩෙවියක් මෙය නම් ඔබට කිරිමට පවසන්නේ නැත.">
 <!ENTITY exceptionMgr.certlocation.caption2   "සේවාදායකය">
 <!ENTITY exceptionMgr.certlocation.url        "පිහිටීම:">

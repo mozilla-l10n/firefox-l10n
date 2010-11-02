@@ -1,9 +1,6 @@
-<!ENTITY restoreNaturalOrder.label "ස්වාභාවික පිළිවෙළ යළි පිහිටුවන්න">
-
-
 <!--
 Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY restoreColumnOrder.label "Restore Column Order">
+<!ENTITY restoreColumnOrder.label "තීරු අනුපිළිවෙළ යළි පිහිටුවන්න">
