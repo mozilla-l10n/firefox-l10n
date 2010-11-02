@@ -144,3 +144,5 @@
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.edit3.label                  "ട്രസ്റ്റ് ചിട്ടപ്പെടുത്തുക…">
 <!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY exceptionMgr.exceptionButton.label   "സുരക്ഷാ എക്സെപ്ഷന്‍ ഉറപ്പാക്കുക">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
