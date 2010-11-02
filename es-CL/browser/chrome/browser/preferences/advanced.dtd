@@ -25,9 +25,6 @@
 <!ENTITY alwaysCheckDefault.accesskey    "S">
 <!ENTITY checkNow.label                  "Revisar ahora">
 <!ENTITY checkNow.accesskey              "R">
-<!ENTITY submitCrashes.label "Enviar informes de errores">
-<!ENTITY submitCrashes.accesskey "s">
-
 
 <!ENTITY networkTab.label                "Red">
 
@@ -56,8 +53,8 @@
 <!ENTITY autoCheck.label                 "Buscar automáticamente actualizaciones para:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label        "Agregados">
-<!ENTITY enableAddonsUpdate2.accesskey    "d">
+<!ENTITY enableAddonsUpdate.label        "Agregados instalados">
+<!ENTITY enableAddonsUpdate.accesskey    "n">
 <!ENTITY enableSearchUpdate.label        "Motores de Búsqueda">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 <!ENTITY whenUpdatesFound.label          "Cuando se encuentren actualizaciones para &brandShortName;:">
