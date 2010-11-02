@@ -173,7 +173,7 @@
 <!ENTITY addon.undoRemove.label               "復原">
 <!ENTITY addon.undoRemove.tooltip             "保持安裝此附加元件">
 <!ENTITY addon.restartNow.label               "立刻重新啟動">
-<!ENTITY addon.install.label                  "立刻重新啟動以完成安裝">
+<!ENTITY addon.install.label                  "安裝">
 <!ENTITY addon.install.tooltip                "安裝此附加元件">
 <!ENTITY addon.updateNow.label                "立即更新">
 <!ENTITY addon.updateNow.tooltip              "安裝此附加元件的更新">
@@ -185,3 +185,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "抱歉，載入新鮮事時發生錯誤。">
 
 <!ENTITY addon.createdBy.label                "作者：">
+
+<!ENTITY eula.title                           "終端使用者授權合約">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "接受並安裝…">
