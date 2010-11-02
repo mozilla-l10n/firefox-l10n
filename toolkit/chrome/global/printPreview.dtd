@@ -68,5 +68,12 @@
 
 <!ENTITY homearrow.tooltip    "முதல் பக்கம்">
 <!ENTITY endarrow.tooltip     "இறுதிப் பக்கம்">
-<!ENTITY rightarrow.tooltip   "அடுத்த பக்கம்">
-<!ENTITY leftarrow.tooltip    "முந்தைய பக்கம்">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY previousarrow.tooltip "Previous page">
+<!ENTITY nextarrow.tooltip "Next page">

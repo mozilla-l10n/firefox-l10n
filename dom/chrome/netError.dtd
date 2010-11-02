@@ -43,11 +43,11 @@
 <!ENTITY netTimeout.title "வலையமைப்பு நேரம் முடிவுற்றது">
 <!ENTITY netTimeout.longDesc "<p>இணைப்புக் கோரிக்கைக்கு கோரப்பட்ட தளமானது பதிலளிக்காததுடன் உலாவியானது பதிலிற்காக காத்திருப்பதினை நிறுத்தியுள்ளது.</p><ul><li>Could the server be experiencing high demand or a temporary outage?சிறிது நேரத்தின்பின் மீண்டும் முயற்சி செய்க</li><li>ஏனைய தளங்களினை உலாவ இயலாமல் இருக்கின்றதா?கணினிகளினுடைய வலையமைப்பு இணைப்பினைச் சரிபார்க்க.</li><li>firewall அல்லது proxy இனால் உங்களது கணினி அல்லது வலையமைப்பு பாதுகாக்கப்படுகிறதா?</li><li>இப்பொழுதும் பிரச்சினை இருக்கிறதா?உதவிக்காக இணைய வழங்குனருடன் அல்லது உங்களது வலையமைப்பு நிர்வாகியுடன் ஆலோசிக்கவும் </li></ul>">
 <!ENTITY protocolNotFound.title "அறியப்படாத நெறிமுறை">
-<!ENTITY protocolNotFound.longDesc "<p>நெறிமுறையில் குறிப்பிடும் முகவரி(e.g. <q>wxyz://</q>) உலாவிக்கு புரியவில்லை,இதனால் உலாவி முறையாக தளத்திற்கு இணைக்க முடியவில்லை</li><li>multimedia அல்லது வேறு உரையில்லா இணைப்பு சேவைகளை அணுகுவதற்கு நீங்கள் முயற்சி செய்கிறீர்களா?மேலதிக தேவைகளிற்காக தளத்தினைச் சரிபார்க்கவும்.</li><li>உலாவி நெறிமுறைகளை அறிவதற்கு முன்னர் சில நெறிமுறைகளிற்கு மூன்றாம் நிலை மென்பொருள் அல்லது உட்செருகல்கள் தேவைப்படுகின்றன.</li></ul>">
+<!ENTITY protocolNotFound.longDesc "<p>The address specifies a protocol (e.g. <q>wxyz://</q>) the browser does not recognize, so the browser cannot properly connect to the site.</p><ul><li>Are you trying to access multimedia or other non-text services? Check the site for extra requirements.</li><li>Some protocols may require third-party software or plugins before the browser can recognize them.</li></ul>">
 <!ENTITY proxyConnectFailure.title "பதிலாள் சேவையகம் இணைப்பினை மறுத்துள்ளது">
 <!ENTITY proxyConnectFailure.longDesc "<p>பதிலாள் சேவையகத்தினைப் பயன்படுத்துவதற்காக உலாவியானது தகவமைக்கப்பட்டுள்ளது.ஆனால் பதிலாள் இணைப்பினை மறுத்துள்ளது</p><ul><li>உலாவிகளினுடைய பதிலாள் தகவமைப்பு சரியானதா? அமைப்புக்களினைச் சரிபார்ப்பதுடன் மீண்டும் முயற்சி செய்க.</li><li>பதிலாள் சேவை இந்த வலையமைப்பிலிருந்து இணைப்பினை அனுமதிக்கின்றதா?</li><li>இப்பொழுதும் பிரச்சினை இருக்கின்றதா?உதவிக்காக உங்களது வலையமைப்பு நிர்வாகியுடன் அல்லது இணைய வழங்குனருடன் ஆலோசனை செய்க.</li></ul>">
 <!ENTITY proxyResolveFailure.title "பதிலாள் சேவையகத்தினைக் காணவில்லை">
-<!ENTITY proxyResolveFailure.longDesc "<p>பதிலாள் சேவையகத்தினைப் பயன்படுத்துவதற்காக உலாவியானது தகவமைக்கப்பட்டுள்ளது,ஆனால் பதிலாள் காணப்படவில்லை.உலாவிகளினுடைய பதிலாள் தகவமைப்பு சரியானதா? அமைப்புக்களினைச் சரிபார்ப்பதுடன் மீண்டும் முயற்சி செய்க.</li><li>பதிலாள் சேவை இந்த வலையமைப்பிலிருந்து இணைப்பினை அனுமதிக்கின்றதா?</li><li>இப்பொழுதும் பிரச்சினை இருக்கின்றதா?உதவிக்காக உங்களது வலையமைப்பு நிர்வாகியுடன் அல்லது இணைய வழங்குனருடன் ஆலோசனை செய்க.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy could not be found.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Is the computer connected to an active network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
 
 <!ENTITY redirectLoop.title "Loop திசைதிருப்பப்படுகிறது">
 <!ENTITY redirectLoop.longDesc "<p>கோரப்பட்ட பொருளினை மீட்டெடுத்தல் முயற்சியினை உலாவி நிறுத்தியுள்ளது.தளமானது கோரிக்கையினை திசைதிருப்புகின்ற வழியானது பூரணப்படாது.</p><ul><li>இந்த தளத்திற்கு தேவைப்பட்ட cookies இனை நீங்கள் தடைசெய்துள்ளீர்களா?அல்லது இயலாமைப்படுத்தியுள்ளீர்களா?</li><li><em>குறிப்பு</em>:இது சேவையக தகவமைப்பு சம்மந்தப்பட்டது உங்களது கணினி சம்மந்தப்பட்டதல்ல.</li></ul>"> 
@@ -57,7 +57,7 @@
 
 <!ENTITY nssFailure2.title "பாதுகாப்பான இணைப்புத் வெற்றியளிக்கவில்லை">
 
-<!ENTITY nssFailure2.longDesc "<p></p><ul><li>பெற்றுக் கொண்ட தரவினுடைய உண்மை உறுதிப்படுத்தப்படாததன்காரணமாக நீங்கள் பார்ப்பதற்கு முயற்சி செய்யும் பக்கம் காண்பிக்கப்படவில்லை.</p><ul><li>இந்தப் பிரச்சினையினை அறிவிப்பதற்கு தயவு செய்து இணையத்தள உரிமையாளரினைத் தொடர்பு கொள்க.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "பாதுகாப்பான இணைப்புத் வெற்றியளிக்கவில்லை">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -68,9 +68,9 @@
 
 <!ENTITY malwareBlocked.title "Suspected Attack Site!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Attack sites பிரத்தியேக தகவல்களைக் களவாடக் கூடிய செயலிகளை நிறுவ முயற்சி செய்யும், மற்றவர்களைத் தாக்குவதற்கு உங்களுடைய கணனிகளைப் பாவிக்கும், அல்லது உங்களுடைய தொகுதிக்கு சேதத்தை ஏற்படுத்தும்.</p>
-<p>
-<p>இணையத்தள சொந்தக்காரர்கள் அவர்களுடைய தளம் அறிவித்த attack site இன் வழுவினை <a  href='http://www.stopbadware.org/home/reviewinfo' >மீளாய்வு செய்வதற்குக் கோரலாம்</a>.</p> ">
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
 
 <!ENTITY phishingBlocked.title "சந்தேகத்துக்சிடமான இணைய மோசடி!">
 <!ENTITY phishingBlocked.longDesc "
@@ -83,3 +83,13 @@
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
