@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey "к">
 
 <!ENTITY exceptionMgr.title "Добавяне на изключение по безопасността">
-<!ENTITY exceptionMgr.exceptionButton "Потвърждаване на изключение по безопасността">
-<!ENTITY exceptionMgr.exceptionButtonAccess "П">
+<!ENTITY exceptionMgr.exceptionButton.label "Потвърждаване на изключение по безопасността">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "П">
 <!ENTITY exceptionMgr.supplementalWarning "Законни банки, магазини или други публични сайтове не би изискват това.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Сървър">
 <!ENTITY exceptionMgr.certlocation.url "Адрес:">

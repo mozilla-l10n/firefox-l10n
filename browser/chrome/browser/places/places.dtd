@@ -94,6 +94,8 @@
 
 <!ENTITY search.label "Търсене:">
 <!ENTITY search.accesskey "Т">
+
+<!ENTITY search.in.label "Търсене в:">
 <!ENTITY search.scopeFolder.label "Маркираната папка">
 <!ENTITY search.scopeFolder.accesskey "М">
 <!ENTITY search.scopeBookmarks.label "Отметки">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "м">
 <!ENTITY detailsPane.noPreviewAvailable.label "Предварителен преглед">
 <!ENTITY detailsPane.selectAnItemText.description "Маркирайте елемент, за да го разгледате и редактирате">
+
+<!ENTITY find.label "Търсене:">
+<!ENTITY find.accesskey "Т">
+<!ENTITY view.label "Изглед">
+<!ENTITY view.accesskey "И">
+<!ENTITY byDate.label "По дата">
+<!ENTITY byDate.accesskey "д">
+<!ENTITY bySite.label "По сайт">
+<!ENTITY bySite.accesskey "с">
+<!ENTITY byMostVisited.label "По брой посещения">
+<!ENTITY byMostVisited.accesskey "б">
+<!ENTITY byLastVisited.label "По ред на посещение">
+<!ENTITY byLastVisited.accesskey "р">
+<!ENTITY byDayAndSite.label "По дата и сайт">
+<!ENTITY byDayAndSite.accesskey "а">
