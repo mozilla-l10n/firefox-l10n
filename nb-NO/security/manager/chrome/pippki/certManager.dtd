@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "e">
 
 <!ENTITY exceptionMgr.title                   "Legg til sikkerhetsunntak">
-<!ENTITY exceptionMgr.exceptionButton         "Bekreft sikkerhetsunntak">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "B">
+<!ENTITY exceptionMgr.exceptionButton.label   "Bekreft sikkerhetsunntak">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "B">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitime banker, nettbutikker og andre offentlige nettsteder vil aldri be deg om å gjøre dette.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Tjener">
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">
