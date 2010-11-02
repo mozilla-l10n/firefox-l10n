@@ -4,25 +4,25 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
+<!ENTITY abouthome.pageTitle "&brandFullName; सुरवातीचे पान">
 
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> सुरवात">
 
-<!ENTITY abouthome.searchEngineButton.label "Search">
+<!ENTITY abouthome.searchEngineButton.label "शोधा">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Advanced Search">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferences">
+<!ENTITY abouthome.searchEngineLinks.advanced "प्रगत शोध">
+<!ENTITY abouthome.searchEngineLinks.preferences "पसंती">
 
-<!ENTITY abouthome.aboutMozilla "About Mozilla">
+<!ENTITY abouthome.aboutMozilla "Mozilla विषयी">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "फायरफॉक्स नीवडल्याबद्दल धन्यवाद! ब्राउजरला आणखी सुरेख बनवण्यासाठी, <a>नुकतेच गुणविशेष</a> विषयी अधिक जाणून घ्या.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "It's easy to customize your Firefox exactly the way you want it. <a>Choose from thousands of add-ons</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "पसंतीप्रमाणे फायरफॉक्स्ला संरचीत करणे सोपे आहे. <a>नीवडण्यासाठी हजारो ॲडऑन्स् उपलब्ध</a>.">
