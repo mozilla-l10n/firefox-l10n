@@ -8,3 +8,12 @@
 
 <!ENTITY blocklist.accept.label      "Restart &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "R">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY blocklist.checkbox.label "Disable">
+<!ENTITY blocklist.blocked.label "Blocked">

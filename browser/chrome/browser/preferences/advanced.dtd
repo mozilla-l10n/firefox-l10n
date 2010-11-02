@@ -102,3 +102,20 @@
 <!ENTITY systemDefaults.label            "පද්ධති පෙරනිමිය">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY verify2.label                   "වලංගුකරණය">
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY limitCacheSizeAfter.label "MB of space">
+<!ENTITY enableAddonsUpdate2.label "Add-ons">
+<!ENTITY limitCacheSizeBefore.accesskey "L">
+<!ENTITY enableAddonsUpdate2.accesskey "n">
+<!ENTITY overrideSmartCacheSize.label "Override automatic cache management">
+<!ENTITY submitCrashes.label "Submit crash reports">
+<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY submitCrashes.accesskey "S">
+<!ENTITY limitCacheSizeBefore.label "Limit cache to">

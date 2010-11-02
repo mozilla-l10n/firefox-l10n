@@ -26,3 +26,11 @@
 <!ENTITY     button.close.label             "වසන්න">
 <!ENTITY     button.close.accesskey         "C">
 
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY button.removecookies.label "Remove Cookies">

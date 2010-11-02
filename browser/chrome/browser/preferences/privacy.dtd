@@ -105,3 +105,14 @@
 <!ENTITY  locbar.history.label          "අතීතය">
 <!ENTITY  locbar.bookmarks.label        "පිටු සලකුණු">
 <!ENTITY  locbar.nothing.label          "කිසිවක් නැත">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY rememberHistory.label "Remember my browsing history">
+<!ENTITY privateBrowsingPermanent.accesskey "P">
+<!ENTITY privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY rememberHistory.accesskey "b">

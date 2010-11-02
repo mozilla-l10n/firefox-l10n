@@ -1,15 +1,31 @@
 <!ENTITY aboutDialog.title      "&brandFullName; පිළිබඳ">
-<!ENTITY copyright              "ප්‍රණාමය">
-<!ENTITY aboutLink              "&brandFullName; පිළිබඳ">
-<!ENTITY aboutVersion           "නිකුතුව">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY copyright.accesskey    "C">
 <!--<!ENTITY copyrightInfo          "&#169;1998-2008 දායකයින්. සියලු හිමිකම් ඇවිරිණි. Firefox සහ 
                                  Firefox ලාංඡනය Mozilla පදනමේ වෙළඳ සලකුණු වේ.  සියලු හිමිකම් ඇවිරිණි.">-->
-<!ENTITY closeCmdGNOME.label        "වසන්න">  
-<!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 දායකයින්. සියලු හිමිකම් ඇවිරිණි. (">
-<!ENTITY copyrightInfo2             ").">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Licensing information">
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY update.failed.end "">
+<!ENTITY update.noUpdatesFound "&brandShortName; is up to date">
+<!ENTITY update.downloading.start "Downloading update — ">
+<!ENTITY update.manual.end "">
+<!ENTITY update.checkingForUpdates "Checking for updates…">
+<!ENTITY community.middle2 ", a ">
+<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.manual.start "Updates available at ">
+<!ENTITY update.failed.start "Update failed. ">
+<!ENTITY bottomLinks.license "Licensing Information">
+<!ENTITY contribute.end "">
+<!ENTITY update.failed.linkText "Download the latest version">
+<!ENTITY update.adminDisabled "Updates disabled by your system administrator">
+<!ENTITY community.end2 " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY contribute.start "Sound interesting? ">
+<!ENTITY community.creditsLink "global community">
+<!ENTITY bottomLinks.privacy "Privacy Policy">
+<!ENTITY update.downloading.end "">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY bottomLinks.rights "End User Rights">
+<!ENTITY community.start2 "&brandShortName; is designed by ">

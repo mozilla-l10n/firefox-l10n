@@ -142,3 +142,16 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "මෙම හැරදැමීම් ස්ථිරවම තබාගන්න">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY certmgr.delete_builtin.accesskey "D">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY certmgr.edit3.label "Edit Trust…">
+<!ENTITY exceptionMgr.exceptionButton.label "Confirm Security Exception">
+<!ENTITY certmgr.edit3.accesskey "E">
+<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">

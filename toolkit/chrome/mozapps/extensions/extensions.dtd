@@ -172,3 +172,159 @@
 <!ENTITY blocklist.blocked.label          "අවහිර කර ඇත">
 <!ENTITY blocklist.checkbox.label         "අක්‍රීය කරන්න">
 <!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY discover.description2 "Add-ons are applications that let you personalize &brandShortName; with
+  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
+  your own.">
+<!ENTITY view.features.label "Extensions">
+<!ENTITY search.filter2.available.label "Available Add-ons">
+<!ENTITY updates.updateSelected.tooltip "Install available updates in this list">
+<!ENTITY search.filter2.installed.label "My Add-ons">
+<!ENTITY view.recentUpdates.label "Recent Updates">
+<!ENTITY updates.viewUpdates.label "View Recent Updates">
+<!ENTITY cmd.preferencesWin.accesskey "O">
+<!ENTITY discover.title "What are Add-ons?">
+<!ENTITY updates.resetUpdatesToManual.accesskey "R">
+<!ENTITY updates.updateSelected.label "Install Updates">
+<!ENTITY detail.contributions.description "The developer of this add-on asks that you help support its continued development by making a small contribution.">
+<!ENTITY detail.version.label "Version">
+<!ENTITY updates.restart.label "Restart now to complete installation">
+<!ENTITY warning.safemode.label "All add-ons have been disabled by safe mode.">
+<!ENTITY detail.showPreferencesUnix.tooltip "Change this add-on's preferences">
+<!ENTITY discover.footer "When you're connected to the internet, this pane will feature
+  some of the best and most popular add-ons for you to try out.">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Change this add-on's preferences">
+<!ENTITY detail.repository "Add-on Profile">
+<!ENTITY addon.details.label "More">
+<!ENTITY cmd.disableAddon.label "Disable">
+<!ENTITY addon.details.tooltip "Show more details about this add-on">
+<!ENTITY detail.showPreferencesUnix.label "Preferences">
+<!ENTITY cmd.findUpdates.accesskey "F">
+<!ENTITY listEmpty.installed.label "You don't have any add-ons of this type installed">
+<!ENTITY addon.undoAction.tooltip "Undo this action">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Hide the release notes for this update">
+<!ENTITY search.filter2.installed.tooltip "Show installed add-ons">
+<!ENTITY progress.cancel.tooltip "Cancel">
+<!ENTITY installAddonFromFile.label "Install Add-on From File…">
+<!ENTITY cmd.preferencesWin.label "Options">
+<!ENTITY view.search.label "Search">
+<!ENTITY addon.unknownDate "Unknown">
+<!ENTITY cmd.showReleaseNotes.label "Show Release Notes">
+<!ENTITY cmd.forward.tooltip "Go forward one page">
+<!ENTITY addon.install.tooltip "Install this add-on">
+<!ENTITY cmd.showPreferencesWin.tooltip "Change this add-on's options">
+<!ENTITY addon.undoAction.label "Undo">
+<!ENTITY detail.creator.label "Developer">
+<!ENTITY view.searchengines.label "Search Engines">
+<!ENTITY addon.install.label "Install">
+<!ENTITY cmd.enableTheme.accesskey "W">
+<!ENTITY addon.updateNow.tooltip "Install the update for this add-on">
+<!ENTITY cmd.contribute.accesskey "C">
+<!ENTITY detail.numberOfDownloads.label "Downloads">
+<!ENTITY listEmpty.search.label "Could not find any matching add-ons">
+<!ENTITY listEmpty.availableUpdates.label "No updates found">
+<!ENTITY addon.createdBy.label "By ">
+<!ENTITY addon.updateNow.label "Update Now">
+<!ENTITY listEmpty.button.label "Learn more about add-ons">
+<!ENTITY updates.noneFound.label "No updates found">
+<!ENTITY updates.resetUpdatesToManual.label "Reset All Add-ons to Update Manually">
+<!ENTITY sort.relevance.label "Best match">
+<!ENTITY updates.installed.label "Your add-ons have been updated.">
+<!ENTITY sort.dateUpdated.label "Last Updated">
+<!ENTITY cmd.contribute.tooltip "Contribute to the development of this add-on">
+<!ENTITY view.appearance2.label "Appearance">
+<!ENTITY updates.checkForUpdates.label "Check for Updates">
+<!ENTITY warning.updatesecurity.label "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY cmd.hideReleaseNotes.label "Hide Release Notes">
+<!ENTITY toolsMenu.tooltip "Tools for all add-ons">
+<!ENTITY view.discover.label "Get Add-ons">
+<!ENTITY cmd.contribute.label "Contribute">
+<!ENTITY view.availableUpdates.label "Available Updates">
+<!ENTITY addon.includeUpdate.label "Include in Update">
+<!ENTITY listEmpty.findUpdates.label "Check For Updates">
+<!ENTITY cmd.preferencesUnix.accesskey "P">
+<!ENTITY cmd.showPreferencesWin.label "Options">
+<!ENTITY updates.updateAddonsAutomatically.label "Update Add-ons Automatically">
+<!ENTITY detail.updateDefault.tooltip "Automatically install updates only if that's the default">
+<!ENTITY sort.relevance.tooltip "Sort by relevance">
+<!ENTITY cmd.showDetails.accesskey "S">
+<!ENTITY addon.loadingReleaseNotes.label "Loading…">
+<!ENTITY updates.updating.label "Updating add-ons">
+<!ENTITY listEmpty.recentUpdates.label "You haven't recently updated any add-ons">
+<!ENTITY warning.updatesecurity.enable.tooltip "Enable add-on update security checking">
+<!ENTITY cmd.enableAddon.accesskey "E">
+<!ENTITY detail.showPreferencesWin.accesskey "O">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+<!ENTITY addon.homepage "Homepage">
+<!ENTITY view.locales.label "Languages">
+<!ENTITY addon.checkingForUpdates.label "Checking for updates…">
+<!ENTITY updates.viewUpdates.accesskey "V">
+<!ENTITY addon.restartNow.label "Restart now">
+<!ENTITY detail.size "Size">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.checkForUpdates.label "Check for Updates">
+<!ENTITY search.placeholder "Search all add-ons">
+<!ENTITY sort.dateUpdated.tooltip "Sort by date updated">
+<!ENTITY search.filter2.label "Search:">
+<!ENTITY updates.downloaded.label "Your add-on updates have been downloaded.">
+<!ENTITY sort.name.label "Name">
+<!ENTITY updates.manualUpdatesFound.label "View Available Updates">
+<!ENTITY updates.checkForUpdates.accesskey "C">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY detail.homepage.label "Homepage">
+<!ENTITY cmd.installAddon.accesskey "I">
+<!ENTITY addon.undoRemove.tooltip "Keep this add-on installed">
+<!ENTITY addon.releaseNotes.label "Release Notes:">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY warning.updatesecurity.enable.label "Enable">
+<!ENTITY addon.disabled.postfix "(disabled)">
+<!ENTITY addon.undoRemove.label "Undo">
+<!ENTITY detail.home "Homepage">
+<!ENTITY detail.showPreferencesWin.tooltip "Change this add-on's options">
+<!ENTITY detail.updateDefault.label "Default">
+<!ENTITY cmd.disableAddon.accesskey "D">
+<!ENTITY sort.name.tooltip "Sort by name">
+<!ENTITY detail.lastupdated.label "Last Updated">
+<!ENTITY addon.updateAvailable.label "An update is available">
+<!ENTITY installAddonFromFile.accesskey "I">
+<!ENTITY sort.price.label "Price">
+<!ENTITY cmd.disableTheme.label "Stop Wearing Theme">
+<!ENTITY detail.updateType "Automatic Updates">
+<!ENTITY cmd.uninstallAddon.label "Remove">
+<!ENTITY addon.update.postfix "Update">
+<!ENTITY sort.price.tooltip "Sort by price">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Reset All Add-ons to Update Automatically">
+<!ENTITY cmd.enableAddon.label "Enable">
+<!ENTITY cmd.findUpdates.label "Find Updates">
+<!ENTITY cmd.showDetails.label "Show More Information">
+<!ENTITY rating2.label "Rating">
+<!ENTITY cmd.about.label "About">
+<!ENTITY addons.windowTitle "Add-ons Manager">
+<!ENTITY detail.checkForUpdates.tooltip "Check for updates for this add-on">
+<!ENTITY detail.updateManual.tooltip "Don't automatically install updates">
+<!ENTITY detail.checkForUpdates.accesskey "F">
+<!ENTITY detail.updateAutomatic.label "On">
+<!ENTITY search.filter2.available.tooltip "Show add-ons available to install">
+<!ENTITY detail.updateManual.label "Off">
+<!ENTITY cmd.back.tooltip "Go back one page">
+<!ENTITY warning.checkcompatibility.label "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY detail.showPreferencesWin.label "Options">
+<!ENTITY view.plugins.label "Plugins">
+<!ENTITY progress.pause.tooltip "Pause">
+<!ENTITY cmd.installAddon.label "Install">
+<!ENTITY cmd.uninstallAddon.accesskey "R">
+<!ENTITY cmd.showReleaseNotes.tooltip "Show the release notes for this update">
+<!ENTITY warning.checkcompatibility.enable.label "Enable">
+<!ENTITY loading.label "Loading…">
+<!ENTITY cmd.showPreferencesUnix.label "Preferences">
+<!ENTITY cmd.preferencesUnix.label "Preferences">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
+<!ENTITY detail.updateAutomatic.tooltip "Automatically install updates">
+<!ENTITY cmd.disableTheme.accesskey "W">
+<!ENTITY cmd.enableTheme.label "Wear Theme">

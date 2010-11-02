@@ -15,3 +15,15 @@
 <!ENTITY  prefWin.styleWin3       "width: 42em; min-height: 39em;">
 <!ENTITY  prefWin.styleMac2       "height: 47em; min-height: 40em;">
 <!ENTITY  prefWin.styleGNOME2     "height: 42em; min-height: 39.5em;">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY prefWinMinSize.styleGNOME "width: 45.5em; min-height: 40.5em;">
+<!ENTITY paneSync.title "Sync">
+<!ENTITY prefWinMinSize.styleMac "width: 47em; min-height: 40em;">
+<!ENTITY paneGeneral.title "General">
+<!ENTITY prefWinMinSize.styleWin2 "width: 42em; min-height: 37.5em;">

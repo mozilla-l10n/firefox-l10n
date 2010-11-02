@@ -46,3 +46,12 @@
   appropriately if your localization causes this checkbox to wrap.
 -->
 
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY homepage.label "Home Page:">
+<!ENTITY homepage.accesskey "P">
