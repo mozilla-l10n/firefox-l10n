@@ -330,6 +330,11 @@
        <rdf:Description ID="CRLs"
          nc:name="CRLs"
 	 nc:link="using_certs_help.xhtml#how_validation_works"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="default_account"
+         nc:name="cuenta por defecto"
+         nc:link="mailnews_getting_started.xhtml#set_as_default"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
