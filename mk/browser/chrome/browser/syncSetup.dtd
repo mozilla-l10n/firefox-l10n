@@ -7,8 +7,8 @@
 <!ENTITY button.haveAccount.label "Имам сметка на &syncBrand.fullName.label;">
 
 <!ENTITY setup.choicePage.title.label "Дали до сега сте го користеле &syncBrand.fullName.label;?">
-<!ENTITY setup.choicePage.new.label "До сега не сум го користел &syncBrand.fullName.label;.">
-<!ENTITY setup.choicePage.existing.label "Веќе го користам &syncBrand.fullName.label; на друг компјутер.">
+<!ENTITY setup.choicePage.new.label "До сега не сум го користел &syncBrand.shortName.label;.">
+<!ENTITY setup.choicePage.existing.label "Веќе го користам &syncBrand.shortName.label; на друг компјутер.">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label "Сервер">
