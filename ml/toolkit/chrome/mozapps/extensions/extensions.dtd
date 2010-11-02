@@ -6,12 +6,12 @@
 <!-- ENTITY cmd.close.commandKey "w" -->
 
 <!-- ENTITY search.label                     "ആഡ്‌-ഓണുകള്‍ ലഭ്യമാക്കുക" -->
-<!ENTITY extensions.label "എക്സ്റ്റെന്‍ഷനുകള്‍">
+<!-- ENTITY extensions.label "എക്സ്റ്റെന്‍ഷനുകള്‍" -->
 <!-- ENTITY themes.label "പ്രമേയങ്ങള്‍" -->
 <!-- ENTITY locales.label "ഭാഷകള്‍ " -->
 <!-- ENTITY plugins.label "പ്ലഗ്ഗിനുകള്‍" -->
 <!-- ENTITY update.label "പരിഷ്കരണങ്ങള്‍" -->
-<!ENTITY install.label "ഇന്‍സ്റ്റലേഷന്‍ ">
+<!-- ENTITY install.label "ഇന്‍സ്റ്റലേഷന്‍ " -->
 <!-- ENTITY cmd.checkUpdatesAll.label "പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുക" -->
 <!-- ENTITY cmd.checkUpdatesAll.accesskey "F" -->
 <!-- ENTITY cmd.checkUpdatesAllAddon.tooltip "തങ്കളുടെ ആഡ്‌-ഓണുകളുടെ പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുക" -->
