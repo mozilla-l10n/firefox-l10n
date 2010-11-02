@@ -1,0 +1,8 @@
+<!ENTITY welcome.title                      "Bienvenido a &brandShortName;">
+<!ENTITY intro.description                  "Sincroniza tu computador y tu celular con Weave Sync. Personalízalo con agregados. Navega la web con la barra increíble y mucho, pero mucho más.">
+<!ENTITY weave.title                        "Levántate y empieza">
+<!ENTITY weave.description                  "Get Weave Sync to help break in your Firefox. Share your browsing history, bookmarks, saved passwords and tabs between your PC and mobile.">
+<!ENTITY weave.linkLabel                    "Obtenga el agregado Weave Sync">
+<!ENTITY getPersonal.title                  "Ponte Personal">
+<!ENTITY getPersonal.description            "Haz que &brandShortName; sea tuyo. Personaliza el primer navegador para celulares con capacidad de agregados.">
+<!ENTITY getPersonal.linkLabel              "Obtenga agregados para su celular">

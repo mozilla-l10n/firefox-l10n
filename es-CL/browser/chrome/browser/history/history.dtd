@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "t">
 <!ENTITY openInNewWindow.label "Abrir en nueva ventana">
 <!ENTITY openInNewWindow.accesskey "A">
-<!ENTITY bookmarkLink.label "Marcar este enlace…">
-<!ENTITY bookmarkLink.accesskey "M">
 <!ENTITY copyLink.label "Copiar ubicación de enlace">
 <!ENTITY copyLink.accesskey "C">

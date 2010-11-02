@@ -9,7 +9,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Traductores</h3><ul><li>Emilio Sepúlveda</li><li>Pablo Olmos De Aguilera</li><li>Eduardo Escárez</li><li>Ricardo Varas</li><li>otros colaboradores de Chilemoz.org</li></ul>">
+<!ENTITY credit.translation "<h3>Traductores</h3><ul><li>Emilio Sepúlveda</li><li>Pablo Olmos De Aguilera</li><li>Eduardo Escárez</li><li>Ricardo Varas</li><li>Virgilio Leonardo Ruilova</li><li>otros colaboradores de Chilemoz.org</li></ul>">
 
 <!ENTITY credit.memory      "En memoria de">
 <!ENTITY credit.poweredByGeckoReg "Potenciado por Gecko&reg;">
