@@ -14,13 +14,13 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "निजी ब्राउज़िंग आरंभ करें">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "निजी ब्राउज़िंग रोकने के लिए, चुनें &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "निजी ब्राउज़िंग आरंभ करने के लिए, आप इसे भी चुन सकते हैं &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
 
 <!ENTITY privatebrowsingpage.moreInfo                  "While this computer won't have a record of your browsing history, your internet service provider or employer can still track the pages you visit.">
 <!ENTITY privatebrowsingpage.learnMore                 "अधिक जानें">
 
-
+<!ENTITY privatebrowsingpage.howToStart2               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2                "To stop Private Browsing, select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
 
 
 

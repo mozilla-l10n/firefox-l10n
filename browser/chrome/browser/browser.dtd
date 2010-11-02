@@ -34,20 +34,141 @@
 <!ENTITY personalbarCmd.label "पुस्तचिह्नित औज़ारपट्टी">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "औज़ारपट्टी मद पुस्तचिह्नित करता है">
-<!ENTITY taskbarCmd.label "स्थिति पट्टी">
-<!ENTITY taskbarCmd.accesskey "B">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+
+
+
 
 <!ENTITY historyUndoWindowMenu.label "Recently Closed Windows">
 <!ENTITY newTabButton.tooltip           "Open a new tab">
-<!ENTITY urlbar.bookmark.emptyText    "Search Bookmarks">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Search Bookmarks and History">
-<!ENTITY urlbar.history.emptyText     "Search History">
-<!ENTITY urlbar.none.emptyText        "Type a Web address">
+
+
+
+<!ENTITY bookmarksWinCmd.commandkey "i">
+<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.accesskey           "H">
+
+<!ENTITY  closeOtherTabs.label               "Close Other Tabs">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+
+<!ENTITY  closeTab.label                     "Close Tab">
+<!ENTITY  closeTab.accesskey                 "c">
+
+<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.tooltip           "Subscribe to this page…">
+
+<!ENTITY fullScreenButton.tooltip       "Display the window in full screen">
+
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+
+
+<!ENTITY inspectMenu.label            "Inspect">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Inspect">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Next">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Previous">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Style">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Object">
+<!ENTITY inspectObjectButton.accesskey   "O">
+<!ENTITY  listAllTabs.label      "List all tabs">
+
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY  moveToGroup.label                  "Move to Group">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "New Group">
+<!ENTITY  moveToNewWindow.label              "Move to New Window">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+
+<!ENTITY openLinkCmdInCurrent.label     "Open Link">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+
+<!ENTITY  pinAppTab.label                    "Pin as App Tab">
+<!ENTITY  pinAppTab.accesskey                "P">
+
+
+<!-- Tab context menu -->
+<!ENTITY  reloadTab.label                    "Reload Tab">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "Reload All Tabs">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+
+<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
+<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY showAllTabsCmd.label "Show All Tabs">
+<!ENTITY syncBrand.shortName.label    "Sync">
+
+<!ENTITY syncBrand.shortName.label    "Sync">
+
+<!ENTITY syncSetup.label              "Set Up &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "Sync Now">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY tabGroupsButton.label        "Tab Groups">
+<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+
+<!ENTITY tabView.commandkey           "e">
+<!ENTITY tabsToolbar.label "Browser tabs">
+
+<!ENTITY  undoCloseTab.label                 "Undo Close Tab">
+<!ENTITY  undoCloseTab.accesskey             "U">
+
+<!ENTITY  unpinAppTab.label                  "Unpin Tab">
+<!ENTITY  unpinAppTab.accesskey              "b">
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder           "Go to a Web Site">
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+
+<!-- 
+
+<!ENTITY videoFullScreen.label       "Full Screen">
+<!ENTITY videoFullScreen.accesskey   "F">
+
+<!ENTITY viewTabsOnTop.label            "Tabs on Top">
+<!ENTITY viewTabsOnTop.accesskey        "T">
+
+
+
+<!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
+<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
+
+
+<!ENTITY viewImageCmd.label           "View Image">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageInfoCmd.label       "View Image Info">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+
+<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY zoomOutButton.tooltip          "Zoom out">
+<!ENTITY zoomInButton.tooltip           "Zoom in">
+<!ENTITY zoomControls.label             "Zoom Controls">
+
+
+<!ENTITY  unpinAppTab.label                  "Unpin Tab">
+<!ENTITY  unpinAppTab.accesskey              "b">
+
+
+
 
 <!ENTITY pageSourceCmd.label "पृष्ठ स्रोत">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -76,7 +197,7 @@
 <!ENTITY subscribeToPageMenupopup.label "इस पृष्ठ की सदस्यता लें">
 <!ENTITY subscribeToPageMenuitem.label "इस पृष्ठ की सदस्यता लें…">
 <!ENTITY addCurPagesCmd.label "सभी टैब पुस्तचिह्नित करें…">
-<!ENTITY organizeBookmarks.label "पुस्तचिह्न व्यवस्थित करें…">
+
 <!ENTITY bookmarkAllCmd.label "सभी टैब पुस्तचिह्नित करें…">
 
 <!ENTITY copyAudioURLCmd.accesskey    "o">
@@ -116,7 +237,7 @@
 <!ENTITY forwardCmd.label             "अग्रेषित करें">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "एक पृष्ठ आगे जाएँ">
-<!ENTITY backForwardMenu.tooltip      "हाल के पृष्ठ">
+
 <!ENTITY reloadCmd.label              "फिर लोड करें">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "वर्तमान पृष्ठ फिर लोड करें">
@@ -138,9 +259,9 @@
 
 <!ENTITY bookmarksButton.label          "पुस्तचिह्न">
 <!ENTITY bookmarksButton.tooltip        "अपना पुस्तचिह्न दिखाएँ">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+
+
 
 <!ENTITY historyButton.label            "इतिहास">
 <!ENTITY historyButton.tooltip          "पृष्ठ दिखाएँ जिन्हें आपने हाल में देखा है">
@@ -160,7 +281,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "सहयुक्तियाँ">
-<!ENTITY addons.tooltip               "संस्थापित सहयुक्तियाँ दिखाएँ व प्रबंधित करें">
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "त्रुटि कंसोल">
@@ -201,8 +321,8 @@
 <!ENTITY preferencesCmdUnix.label       "वरीयता">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "हाल का इतिहास साफ करें">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+
+
 
 <!ENTITY viewMenu.label         "दृश्य"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -222,7 +342,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "पुस्तचिह्न व इतिहास खोजें">
+
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
@@ -247,7 +367,7 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
+
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "नए विंडो में कड़ी खोलें">
@@ -307,15 +427,27 @@
 <!ENTITY sendImageCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "कड़ी स्थान की नक़ल लें">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkTextCmd.label        "कड़ी पाठ की नक़ल लें">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
+
+
 <!ENTITY copyImageCmd.label           "छवि स्थान की नक़ल लें">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "छवि की नक़ल लें">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY blockImageCmd.accesskey       "B">
-<!ENTITY metadataCmd.label            "गुण">
-<!ENTITY metadataCmd.accesskey        "P">
+
+<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+
+<!ENTITY bookmarksMenuButton.label          "Bookmarks">
+<!ENTITY bookmarksMenuButton.tooltip        "Display your bookmarks">
+<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
+
+
+
+
 <!ENTITY copyEmailCmd.label           "ईमेल पता की नक़ल लें">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "यह फ्रेम">
@@ -408,10 +540,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "रद्द करें">
 
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "पहले जैसा">
-<!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.edit.label                     "संपादित करें…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
+
+
+
+
 
 <!ENTITY identity.unverifiedsite2 "यह वेबसाइट पहचान सूचना नहीं देती है.">
 <!ENTITY identity.connectedTo "आप यहाँ कनेक्टेड हैं">
@@ -448,7 +580,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(निजी ब्राउज़िंग)">
 
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "निजी ब्राउज़िंग आरंभ करें">
@@ -457,5 +589,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY privateBrowsingCmd.stop.accesskey      "B">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
+<!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
 
-<!ENTITY ctrlTab.search.emptyText "टैब खोजें">
+
+<!ENTITY appMenuEdit.label "Edit">
+<!ENTITY appMenuCustomize.label "Customize">
+<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appMenuSidebars.label "Sidebars">
+<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuGettingStarted.label "Getting Started">
+<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY backForwardItem.title        "Back/Forward">
+
+
+
+
+<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.accesskey "A">
+<!ENTITY addons.commandkey            "A">
+
+<!ENTITY allTabs.filter.emptyText "Search Tabs">
