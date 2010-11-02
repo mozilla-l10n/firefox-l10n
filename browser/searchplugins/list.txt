@@ -1,9 +1,3 @@
 creativecommons
 google
 wikipedia-es
-<<<<<<< local
-=======
-mercadolibre-cl
-yahoo-cl
-drae
->>>>>>> other

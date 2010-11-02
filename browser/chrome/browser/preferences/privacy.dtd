@@ -16,7 +16,6 @@
 
   &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-<<<<<<< local
 <!ENTITY  rememberDaysBefore.label      "Mantener mi historial por al menos">
 <!ENTITY  rememberDaysBefore.accesskey  "h">
 <!ENTITY  rememberDaysAfter2.label      "días">
@@ -29,8 +28,6 @@
 
 
 <!ENTITY  cookies.label                 "Cookies">
-=======
->>>>>>> other
 
 <!ENTITY  acceptCookies.label           "Aceptar cookies de los sitios">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -52,7 +49,6 @@
 <!ENTITY  showCookies.accesskey         "s">
 
 
-<<<<<<< local
 <!ENTITY  privateData.label             "Datos Privados">
 
 <!ENTITY  alwaysClear.label              "Siempre limpiar mis datos privados cuando cierro &brandShortName;">
@@ -61,8 +57,6 @@
 <!ENTITY  clearDataSettings.label        "Configuración...">
 <!ENTITY  clearDataSettings.accesskey    "C">
 
-=======
->>>>>>> other
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Recordará el historial">
@@ -114,8 +108,5 @@
 <!ENTITY  clearOnCloseSettings.label     "Configuraciones…">
 <!ENTITY  clearOnCloseSettings.accesskey "C">
 
-<<<<<<< local
 <!ENTITY  clearDataNow.label             "Limpiar Ahora...">
 <!ENTITY  clearDataNow.accesskey         "L">
-=======
->>>>>>> other

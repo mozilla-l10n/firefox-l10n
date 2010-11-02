@@ -20,17 +20,15 @@
 <!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label        "Buscar actualizaciones">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "B">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Habilitar actualizaciones para sus Agregados">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Buscar actualizaciones para sus Temas">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Buscar actualizaciones para sus plugins">
-
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Habilitar Actualizaciones para sus Agregados">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Buscar Actualizaciones para sus Temas">
 <!ENTITY cmd.installLocalFile.label       "Instalar…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
-<!ENTITY cmd.installFileAddon.tooltip     "Instalar un agregado">
-<!ENTITY cmd.installFileTheme.tooltip     "Instalar un tema">
-<!ENTITY cmd.installUpdatesAll2.label      "Instalar actualizaciones">
-<!ENTITY cmd.installUpdatesAll2.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip    "Instala las actualizaciones seleccionadas">
+<!ENTITY cmd.installFileAddon.tooltip     "Instalar un Agregado">
+<!ENTITY cmd.installFileTheme.tooltip     "Instalar un Tema">
+<!ENTITY cmd.installUpdatesAll.label      "Instalar Actualizaciones">
+<!ENTITY cmd.installUpdatesAll.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll.tooltip    "Instala las actualizaciones seleccionadas">
 <!ENTITY cmd.restartApp2.label            "Reiniciar &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "Reinicie &brandShortName; para aplicar los cambios">
@@ -65,7 +63,7 @@
 <!ENTITY cmd.disable.accesskey            "D">
 <!ENTITY cmd.disable.tooltip              "Deshabilitar este Agregado cuando se reinicie &brandShortName;">
 <!ENTITY cmd.uninstall.label              "Desinstalar">
-<!ENTITY cmd.uninstall2.accesskey         "s">
+<!ENTITY cmd.uninstall2.accesskey         "U">
 <!ENTITY cmd.uninstall2.tooltip           "Desinstalar este Agregado cuando se reinicie &brandShortName;">
 <!ENTITY cmd.cancelUninstall.label        "Cancelar Desinstalación">
 <!ENTITY cmd.cancelUninstall.accesskey    "C">
@@ -115,7 +113,6 @@
 <!ENTITY needsDependencies.label          "Requiere elementos adicionales.">
 <!ENTITY blocklisted.label                "Deshabilitado para su protección.">
 <!ENTITY softBlocklisted.label            "Conocido por causar problemas de seguridad o estabilidad.">
-<!ENTITY outdated.label                   "Una versión más nueva y segura está disponible.">
 <!ENTITY toBeDisabled.label               "Este agregado se deshablitará cuando se reinicie &brandShortName;.">
 <!ENTITY toBeEnabled.label                "Este agregado se habilitará cuando se reinicie &brandShortName;.">
 <!ENTITY toBeInstalled.label              "Este agregado se instalará cuando se reinicie &brandShortName;.">
