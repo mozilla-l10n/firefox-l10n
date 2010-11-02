@@ -379,4 +379,5 @@
 <!ENTITY warning.updatesecurity.label              "ആഡ്-ഓണ്‍ പരിഷ്കരണ സുരക്ഷാ പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. ഉചിതമായ പരിഷ്കരണങ്ങള്‍ ലഭ്യമായില്ല.">
 <!ENTITY warning.updatesecurity.enable.label       "പ്രവര്‍ത്തന സജ്ജം">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ആഡ്-ഓണ്‍ പരിഷ്കരണ സുരക്ഷാ പരിശോധന പ്രവര്‍ത്തന സജ്ജമാക്കുക">
+<!ENTITY search.placeholder                   "എല്ലാ ആഡ്-ഓണുകളും തെരയുക">
 
