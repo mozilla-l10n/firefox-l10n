@@ -123,8 +123,8 @@
 <!ENTITY certmgr.addException.label "Añadir excepción…">
 <!ENTITY certmgr.addException.accesskey "x">
 <!ENTITY exceptionMgr.title "Añadir excepción de seguridad">
-<!ENTITY exceptionMgr.exceptionButton "Confirmar excepción de seguridad">
-<!ENTITY exceptionMgr.exceptionButtonAccess "C">
+<!ENTITY exceptionMgr.exceptionButton.label "Confirmar excepción de seguridad">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning "Los bancos, tiendas y otros sitios públicos legítimos no le pedirán hacer esto.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Servidor">
 <!ENTITY exceptionMgr.certlocation.url "Dirección:">
