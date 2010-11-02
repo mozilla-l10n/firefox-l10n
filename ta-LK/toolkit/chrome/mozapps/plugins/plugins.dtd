@@ -23,3 +23,19 @@
 <!ENTITY missingPlugin.label                                 "உட்செருகலை பதிவிறக்குவதற்கு இங்கே சொடுக்குக.">
 <!ENTITY disabledPlugin.label                                "இந்த உள்ளடக்கத்துக்கான உட்செருகல் செயலற்றதாக்கப்பட்டுள்ளது. உங்கள் உட்செருகல்களை முகாமைத்துவம் செய்வதற்கு இங்கே சொடுக்குக.">
 <!ENTITY blockedPlugin.label                                 "உங்கள் பாதுகாப்பிற்காக இந்த உட்செருகல் தடைசெய்யப்பட்டது.">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY reloadPlugin.middle "Reload the page">
+<!ENTITY report.disabled "Crash reporting disabled.">
+<!ENTITY report.failed "Submission failed.">
+<!ENTITY reloadPlugin.pre "">
+<!ENTITY report.unavailable "No report available.">
+<!ENTITY reloadPlugin.post " to try again.">
+<!ENTITY report.submitting "Sending report…">
+<!ENTITY report.submitted "Crash report sent.">
+<!ENTITY report.please "Send crash report">

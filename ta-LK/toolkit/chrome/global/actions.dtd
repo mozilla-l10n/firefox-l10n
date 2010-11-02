@@ -1,7 +1,8 @@
 
+
 <!--
 Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY restoreColumnOrder.label "Restore Column Order">
+<!ENTITY action.switchToTab.label "Switch to tab">

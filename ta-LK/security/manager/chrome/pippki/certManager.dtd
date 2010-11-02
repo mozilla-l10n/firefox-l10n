@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "சான்றிதழின் பெயர்">
 <!ENTITY certmgr.certserver                   "சேவையகம்">
-<!ENTITY certmgr.typesofoverrides             "விதிவிலக்குகள்">
 <!ENTITY certmgr.override_lifetime            "Lifetime">
 <!ENTITY certmgr.tokenname                    "பாதுகாப்புச் சாதனம்">
-<!ENTITY certmgr.purpose                      "குறிக்கோள்கள்">
 <!ENTITY certmgr.issued                       "வழங்கப்பட்ட திததி">
 <!ENTITY certmgr.expires                      "காலாவதியாகும் திகதி">
 <!ENTITY certmgr.email                        "மின்னஞ்சல் முகவரி">
@@ -107,8 +105,6 @@
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "நோக்குக…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "செவ்வையாக்குக…">
-<!ENTITY certmgr.edit2.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "CA நம்பகத்தன்மையை செவ்வையாக்குக">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "சேர்க்க">
@@ -133,8 +129,6 @@
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "பாதுகாப்பு விதிவிலக்கொன்றை சேர்க்கவும்">
-<!ENTITY exceptionMgr.exceptionButton         "பாதுகாப்பு விதிவிலக்கை உறுதிசெய்யவும்">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
 <!ENTITY exceptionMgr.supplementalWarning     "சட்டரீதியான வங்கிகள், களஞ்சியங்கள் மேலும் பொதுத் தளங்கள் இதனைச் செய்யுமாறு உங்களைக் கேட்கவில்லை.">
 <!ENTITY exceptionMgr.certlocation.caption2   "சேவையகம்">
 <!ENTITY exceptionMgr.certlocation.url        "இடம்:">
@@ -145,3 +139,23 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "நிரந்தரமாக இந்த விதிவிலக்கை களஞ்சியப்படுத்தவும்">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY certmgr.delete_builtin.accesskey "D">
+<!ENTITY certmgr.edit3.accesskey "E">
+<!ENTITY certmgr.edit3.label "Edit Trust…">
+<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY exceptionMgr.exceptionButton.label "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">

@@ -1,176 +1,193 @@
-<!ENTITY addons.title                     "செருகல்கள்">
+<!ENTITY addons.windowTitle                   "Add-ons Manager">
+<!ENTITY search.placeholder                   "Search all add-ons">
+<!ENTITY loading.label                        "Loading…">
+<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.availableUpdates.label     "No updates found">
+<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
+<!ENTITY listEmpty.button.label               "Learn more about add-ons">
+<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "520">
-<!ENTITY em.height                        "380">
+<!ENTITY cmd.back.tooltip                     "Go back one page">
+<!ENTITY cmd.forward.tooltip                  "Go forward one page">
 
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label   "Enable">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label       "Enable">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 
-<!-- View labels -->
-<!ENTITY search.label                     "செருகல்களைப் பெறுக">
-<!ENTITY extensions.label                 "நீட்சிகள்">
-<!ENTITY themes.label                     "கருத்துக்கள்">
-<!ENTITY locales.label                    "மொழிகள்">
-<!ENTITY plugins.label                    "உட்செருகல்கள்">
-<!ENTITY update.label                     "இற்​றைப்படுத்தல்கள்">
-<!ENTITY install.label                    "நிறுவுதல்">
+<!-- categories / views -->
+<!ENTITY view.search.label                    "Search">
+<!ENTITY view.discover.label                  "Get Add-ons">
+<!ENTITY view.locales.label                   "Languages">
+<!ENTITY view.searchengines.label             "Search Engines">
+<!ENTITY view.features.label                  "Extensions">
+<!ENTITY view.appearance2.label               "Appearance">
+<!ENTITY view.plugins.label                   "Plugins">
+<!ENTITY view.recentUpdates.label             "Recent Updates">
+<!ENTITY view.availableUpdates.label          "Available Updates">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "இற்றைப்படுத்தல்களைக் கண்டுபிடிக்க">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "உங்கள் செருகல்களுக்கான இற்​றைப்படுத்தல்களைக் கண்டுபிடிக்க">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "உங்களுடைய உட்செருகலிற்கு இற்றைப்படுத்தல்களைக் கண்டுபிடிக்க">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "உங்கள் கருத்துக்களுக்கான இற்​றைப்படுத்தல்களைக் கண்டுபிடிக்க">
-<!ENTITY cmd.installUpdatesAll2.label     "இற்றைப்படுத்தல்களை நிறுவுக">
-<!ENTITY cmd.installUpdatesAll2.accesskey "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip   "தெரிவு செய்யப்பட்ட இற்றைப்படுத்தல்களை நிறுவுக">
-<!ENTITY cmd.installLocalFile.label       "நிறுவக…">
-<!ENTITY cmd.installLocalFile.accesskey   "n">
-<!ENTITY cmd.installFileAddon.tooltip     "ஒரு செருகலை நிறுவக">
-<!ENTITY cmd.installFileTheme.tooltip     "ஒரு கருத்தை நிறுவக">
-<!ENTITY cmd.restartApp2.label            "&brandShortName; இனை மீள ஆரம்பிக்க">
-<!ENTITY cmd.restartApp2.accesskey        "R">
-<!ENTITY cmd.restartApp2.tooltip          "மாற்றங்களைப் பிரயோகிப்பதற்காக &brandShortName; இனை மீள ஆரம்பிக்க">
-<!ENTITY cmd.skip.label                   "தாண்டிச்செல்க">
-<!ENTITY cmd.skip.accesskey               "k">
-<!ENTITY cmd.skip.tooltip                 "இந்த இற்​றைப்படுத்தல்களை தாண்டிச்செல்க">
-<!ENTITY cmd.continue.label               "தொடர்க">
-<!ENTITY cmd.continue.accesskey           "C">
-<!ENTITY cmd.continue.tooltip             "&brandShortName; இனை ஏற்றுதல் தொடர்கிறது">
+<!-- addon updates -->
+<!ENTITY updates.checkForUpdates.label        "Check for Updates">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "View Recent Updates">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "Updating add-ons">
+<!ENTITY updates.installed.label              "Your add-ons have been updated.">
+<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
+<!ENTITY updates.restart.label                "Restart now to complete installation">
+<!ENTITY updates.noneFound.label              "No updates found">
+<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
+<!ENTITY updates.updateSelected.label         "Install Updates">
+<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
 
-<!ENTITY cmd.enableAll.label              "அனைத்தையும் இயலுமைப்படுத்துக">
-<!ENTITY cmd.enableAll.accesskey          "a">
-<!ENTITY cmd.enableAll.tooltip            "திரையிடப்பட்ட அனைத்து செருகல்களையும் இயலுமைப்படுத்துக">
-<!ENTITY cmd.disableAll.label             "அனைத்தையும் செயலற்றதாக்குக">
-<!ENTITY cmd.disableAll.accesskey         "s">
-<!ENTITY cmd.disableAll.tooltip           "திரையிடப்பட்ட அனைத்து செருகல்களையும் செயலற்றதாக்குக">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Show More Information">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "Find Updates">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferencesWin.label             "Options">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "Preferences">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.about.label                      "About">
+<!ENTITY cmd.about.accesskey                  "A">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "கருத்தினைப் பாவிக்க">
-<!ENTITY cmd.useTheme.accesskey           "T">
-<!ENTITY cmd.useTheme.tooltip             "&brandShortName; இனுடைய கருத்தினைப் மாற்றுக">
-<!ENTITY cmd.options.label                "விருப்பங்கள்">
-<!ENTITY cmd.options.accesskey            "O">
-<!ENTITY cmd.options.tooltip              "தெரிவுசெய்யப்பட்ட நீட்சிக்கான விருப்பங்களை அமைக்க">
-<!ENTITY cmd.optionsUnix.label            "முன்னுரிமைகள்">
-<!ENTITY cmd.optionsUnix.accesskey        "r">
-<!ENTITY cmd.optionsUnix.tooltip          "தெரிவுசெய்யப்பட்ட நீட்சிக்கான முன்னுரிமைகளை செவ்வையாக்குக">
-<!ENTITY cmd.enable.label                 "இயலுமைப்படுத்துக">
-<!ENTITY cmd.enable.accesskey             "E">
-<!ENTITY cmd.enable.tooltip               "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்த செருகலை இயலுமைப்படுத்துக">
-<!ENTITY cmd.disable.label                "செயலற்றதாக்குக">
-<!ENTITY cmd.disable.accesskey            "D">
-<!ENTITY cmd.disable.tooltip              "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்த செருகலை செயலற்றதாக்குக">
-<!ENTITY cmd.uninstall.label              "நிறுவல் நீக்குக">
-<!ENTITY cmd.uninstall2.accesskey         "U">
-<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்த செருகலை நிறுவல் நீக்குக">
-<!ENTITY cmd.cancelUninstall.label        "நிறுவல் நீக்குதலை இரத்து செய்க">
-<!ENTITY cmd.cancelUninstall.accesskey    "C">
-<!ENTITY cmd.cancelUninstall.tooltip      "இந்த் செருகலினுடைய நிறுவல் நீக்குதலை இரத்து செய்க">
-<!ENTITY cmd.cancelInstall.label          "நிறுவுதலை இரத்து செய்க">
-<!ENTITY cmd.cancelInstall.accesskey      "C">
-<!ENTITY cmd.cancelInstall.tooltip        "இந்த் செருகலினுடைய நிறுவுதலை இரத்து செய்க">
-<!ENTITY cmd.cancelUpgrade.label          "மேம்படுத்துதலை இரத்து செய்க">
-<!ENTITY cmd.cancelUpgrade.accesskey      "C">
-<!ENTITY cmd.cancelUpgrade.tooltip        "இந்த் செருகலினுடைய மேம்படுத்துதலை இரத்து செய்க">
-<!ENTITY cmd.installUpdate.label          "இற்றைப்படுத்தலை நிறுவுக">
-<!ENTITY cmd.installUpdate.accesskey      "I">
-<!ENTITY cmd.installUpdate.tooltip        "இந்த செருகுதலுக்கான இற்றைப்படுத்தலை நிறுவுக">
-<!ENTITY cmd.showUpdateInfo.label         "தகவலினைக் காட்டவும்">
-<!ENTITY cmd.showUpdateInfo.accesskey     "S">
-<!ENTITY cmd.showUpdateInfo.tooltip       "இந்த இற்றைப்படுத்தல்களைப் பற்றிய மேலதிக தகவல்களை காட்டுக">
-<!ENTITY cmd.hideUpdateInfo.label         "தகவலை மறைக்கவும்">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "இந்த இற்றைப்படுத்தல்களைப் பற்றிய தகவல்களை மறைக்கவும்">
-<!ENTITY cmd.installSearchResult.label     "&brandShortName; இற்கு சேர்க்க…">
-<!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY cmd.installSearchResult.tooltip   "இந்த செருகலை பதிவிறக்கி நிறுவுக">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "இரத்து செய்க">
-<!ENTITY cancel.accesskey                 "C">
-<!ENTITY cancelInstall.label              "இரத்து செய்க">
-<!ENTITY cancelInstall.accesskey          "C">
-<!ENTITY cancelUpgrade.label              "இரத்து செய்க">
-<!ENTITY cancelUpgrade.accesskey          "C">
+<!ENTITY cmd.enableAddon.label                "Enable">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.disableAddon.label               "Disable">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.installAddon.label               "Install">
+<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.uninstallAddon.label             "Remove">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.showPreferencesWin.label         "Options">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
+<!ENTITY cmd.showPreferencesUnix.label        "Preferences">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Change this add-on's preferences">
+<!ENTITY cmd.contribute.label                 "Contribute">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "இல்லப்பக்கத்தை தரிசிக்க">
-<!ENTITY cmd.homepage.accesskey           "H">
-<!ENTITY cmd.about2.label                 "இந்த செருகலைப்பற்றி">
-<!ENTITY cmd.about.accesskey              "A">
-<!ENTITY cmd.checkUpdate.label            "இற்றைப்படுத்தலைக் கண்டுபிடிக்க">
-<!ENTITY cmd.checkUpdate.accesskey        "F">
+<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
+<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
 
-<!ENTITY cmd.includeUpdate.label          "இற்றைப்படுத்தலை உள்ளடக்குக">
-<!ENTITY cmd.includeUpdate.accesskey      "n">
-<!ENTITY includeUpdate.label              "இந்த இற்றைப்படுத்தலை உள்ளடக்குக">
-<!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "இற்றைப்படுத்தல்களை நிறுவும்போது இந்த செருகலை உள்ளடக்குக">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "What are Add-ons?">
+<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
+  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
+  your own.">
+<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
+  some of the best and most popular add-ons for you to try out.">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "பாதுகாப்பான இற்றைப்படுத்தல்களை வழங்கவில்லை.">
-<!ENTITY needsDependencies.label          "மேலதிக உருப்படிகள் தேவையாக உள்ளது.">
-<!ENTITY blocklisted.label                "உங்கள் பாதுகாப்பிற்காக செயலற்றதாக்குக.">
-<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
-<!ENTITY toBeDisabled.label               "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் செயலற்றதாக்கப்படும்.">
-<!ENTITY toBeEnabled.label                "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் இயலுமைப்படுத்தப்படும்.">
-<!ENTITY toBeInstalled.label              "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் நிறுவப்படும்.">
-<!ENTITY toBeUninstalled.label            "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் நிறுவல் நீக்கப்படும்.">
-<!ENTITY toBeUpdated.label                "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் இற்றைப்படுத்தப்படும்.">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Version">
+<!ENTITY detail.lastupdated.label             "Last Updated">
+<!ENTITY detail.creator.label                 "Developer">
+<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.numberOfDownloads.label       "Downloads">
 
-<!ENTITY getExtensions.label              "நீட்சிகளைப் பெறுக">
-<!ENTITY getThemes.label                  "கருத்துக்களைப் பெறுக">
-<!ENTITY getPlugins.label                 "உட்செருகல்களைப் பெறுக">
+<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
 
-<!ENTITY searchAddons.label               "அனைத்து செருகல்களையும் தேடுக">
-<!ENTITY browseAddons.label               "அனைத்து செருகல்களையும் உலாவுக">
-<!ENTITY searchFailed.label               "&brandShortName; செருவல்களை மீளப் பெற முடியவில்லை">
-<!ENTITY recommendedHeader.label          "பரிந்துரைக்கப்பட்டது">
-<!ENTITY recommendedThrobber.label        "பரிந்துரைக்கப்பட்ட செருகுதல்களை மீளப் பெறுக">
-<!ENTITY searchThrobber.label             "செருகுதல்கள் தேடப்படுகின்றது">
-<!ENTITY resetSearch.label                "பெறுபேறுகளை சுத்தம்செய்க">
-<!ENTITY noSearchResults.label            "அனைத்து பெறுபேறுகளும் ஏறகனவே நிறுவப்பட்டது அல்லது இசைவானதாக இல்லை.">
-<!ENTITY noRecommendedResults.label       "அனைத்து பரிந்துரைகளும் ஏறகனவே நிறுவப்பட்டது அல்லது இசைவானதாக இல்லை.">
-<!ENTITY outdated.label                   "புதிய,பாதுகாப்பான பதிப்புக் காணப்படுகின்றது.">
-<!ENTITY emptySearch.label                "பொருத்தமான செருகுதல்கள் இல்லை">
-<!ENTITY emptySearch.button               "சரி">
-<!ENTITY cancelSearch.button              "இரத்துச் செய்க">
-<!ENTITY searchFailed.button              "சரி">
-<!ENTITY searchResultHomepage.value       "மேலதிகமாக கற்க">
-<!ENTITY searchBox.label                  "அனைத்து செருகல்களையும் தேடுக">
-<!ENTITY recommendedResults.label         "அனைத்து பரிந்துரைக்கப்பட்ட செருகல்களையும் பார்க்க">
-<!ENTITY searchResultConnecting.label     "இணைக்கப்படுகிறது…">
-<!ENTITY searchResultInstalling.label     "நிறுவப்படுகிறது…">
-<!ENTITY searchResultFailed.label         "நிறுவுதல் வெற்றியளிக்கவில்லை">
-<!ENTITY searchResultInstalled.label      "நிறுவுதல் நிறைவடைந்தது">
-<!ENTITY addonTypeExtension.label         "நீட்சி">
-<!ENTITY addonTypeTheme.label             "கருத்து">
-<!ENTITY missingThumbnail.label           "முன்னோக்கு இல்லை">
+<!ENTITY detail.updateType                    "Automatic Updates">
+<!ENTITY detail.updateDefault.label           "Default">
+<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateAutomatic.label         "On">
+<!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
+<!ENTITY detail.updateManual.label            "Off">
+<!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
+<!ENTITY detail.home                          "Homepage">
+<!ENTITY detail.repository                    "Add-on Profile">
+<!ENTITY detail.size                          "Size">
 
-<!ENTITY previewNoThemeSelected.label     "கருத்தெதுவும் தெரிவுசெய்யப்படவில்லை">
-<!ENTITY previewNoPreviewImage.label      "இந்தக் கருத்து முன்னோக்கு படிமம் ஒன்றை வைத்திருக்கவில்லை">
-<!ENTITY moreInfo.label                   "மேலதிக தகவல்கள்">
-<!ENTITY infoNoAddonSelected.label        "இற்றைப்படுத்தல் எதுவும் தெரிவுசெய்யப்படவில்லை">
-<!ENTITY infoNoUpdateInfo.label           "இந்த இற்றைப்படுத்தல் மேலதிக தகவலெதனையும் சொண்டிருக்கவில்லை">
-<!ENTITY infoUpdateInfoError.label        "இந்த இற்றைப்படுத்தல் பற்றிய தகவல்களை ஏற்றும் போது வழு ஏற்பட்டது">
+<!ENTITY detail.checkForUpdates.label         "Check for Updates">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.showPreferencesWin.label      "Options">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
+<!ENTITY detail.showPreferencesUnix.label     "Preferences">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Change this add-on's preferences">
 
-<!ENTITY updateSuccess.label              "இற்றைப்படுத்தல் வெற்றிகரமாக நிறைவடைந்தது.">
-<!ENTITY installSuccess.label             "நிறுவுதல் வெற்றிகரமாக நிறைவடைந்தது.">
-<!ENTITY installSuccessRestart.label      "நிறுவுதலை வெற்றிகரமாக நிறைவு செய்வதற்கு மீள ஆரம்பிக்கவும்.">
-<!ENTITY updateSuccessRestart.label       "இற்றைப்படுத்தலை வெற்றிகரமாக நிறைவு செய்வதற்கு மீள ஆரம்பிக்கவும்.">
-<!ENTITY installWaiting.label             "காத்திருக்கவும்…">
-<!ENTITY installIncompatibleUpdate.label  "இசைவு சரிசெய்யப்படுகின்றது…">
-<!ENTITY installFinishing.label           "நிறுவப்படுகின்றது…">
-<!ENTITY installFailure.label             "நிறுவுதல் வெற்றியளிக்கவில்லை.">
 
-<!ENTITY progressStatus.label             "இற்றைப்படுத்தல்கள் சரிபார்க்கப்படுகின்றது">
+<!-- ratings -->
+<!ENTITY rating2.label                        "Rating">
 
-<!ENTITY eula.title                       "இறுதிப் பயனர் அனுமதிப்பத்திர உடன்படிக்கை">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "ஏற்றுக்கொண்டு நிறுவுக…">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.cancel.tooltip              "Cancel">
 
-<!ENTITY blocklist.blocked.label          "தடுக்கப்பட்டுள்ளது">
-<!ENTITY blocklist.checkbox.label         "இயலாமைப்படுத்தல்">
+
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Name">
+<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.dateUpdated.label               "Last Updated">
+<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
+<!ENTITY sort.relevance.label                 "Best match">
+<!ENTITY sort.relevance.tooltip               "Sort by relevance">
+<!ENTITY sort.price.label                     "Price">
+<!ENTITY sort.price.tooltip                   "Sort by price">
+
+<!ENTITY search.filter2.label                 "Search:">
+<!ENTITY search.filter2.installed.label       "My Add-ons">
+<!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
+<!ENTITY search.filter2.available.label       "Available Add-ons">
+<!ENTITY search.filter2.available.tooltip     "Show add-ons available to install">
+
+<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.details.label                  "More">
+<!ENTITY addon.details.tooltip                "Show more details about this add-on">
+<!ENTITY addon.unknownDate                    "Unknown">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(disabled)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "Update">
+<!ENTITY addon.undoAction.label               "Undo">
+<!ENTITY addon.undoAction.tooltip             "Undo this action">
+<!ENTITY addon.undoRemove.label               "Undo">
+<!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
+<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.updateNow.label                "Update Now">
+<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
+<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
+<!ENTITY addon.releaseNotes.label             "Release Notes:">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+
+<!ENTITY addon.createdBy.label                "By ">
+
+<!ENTITY eula.title                           "End-User License Agreement">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Accept and Install…">

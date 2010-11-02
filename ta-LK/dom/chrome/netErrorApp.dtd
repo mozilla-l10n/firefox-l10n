@@ -3,7 +3,13 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "அல்லது நீங்கள் விதிவிலக்கினைச் சேர்க்க முடியும்…">
-<!ENTITY securityOverride.warningText "
-<p>நீங்கள் முழுமையாக நம்பாத இணைய இணைப்பினைப் பயன்படுத்தினால் அல்லது இந்த சேவையகத்திற்கான எச்சரிக்கையினைப் பார்த்துப் பழகியிருக்காதிருந்தால் நீங்கள் ஒரு விதிவிலக்கினை சேர்த்தல் ஆகாது.</p>
-<p>இந்தத் தளத்திற்கு இப்பவும் நீங்கள் விதிவிலக்கினை சேர்க்க விரும்பினால் உங்களது உயர்தர மறைகுறியாக்க அமைப்புக்களில் நீங்கள் இதனைச் செய்ய முடியும்</p>
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY securityOverride.warningContent "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>If you still wish to add an exception for this site, you can do so in your advanced encryption settings.</p>
 ">
