@@ -133,6 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "d">
 
 <!ENTITY exceptionMgr.title                   "Dodaj sigurnosnu iznimku">
+<!ENTITY exceptionMgr.exceptionButton.label   "Potvrdi sigurnosnu iznimku">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "r">
 <!ENTITY exceptionMgr.exceptionButton         "Potvrdi sigurnosnu iznimku">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "s">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitimne banke, trgovine i ostale javne stranice vas neće tražiti da ovo učinite.">

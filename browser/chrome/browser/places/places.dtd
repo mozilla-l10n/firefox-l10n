@@ -213,3 +213,20 @@
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.noPreviewAvailable.label "Pogled">
 <!ENTITY detailsPane.selectAnItemText.description "Odaberite stavku za pregled i ureživanje njenih svojstava">
+
+
+<!ENTITY search.in.label          "Traži u:">
+<!ENTITY find.label               "Traži:">
+<!ENTITY find.accesskey           "ž">
+<!ENTITY byDate.label             "Prema datumu">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY byDayAndSite.label       "Prema datumu i stranici">
+<!ENTITY byDayAndSite.accesskey   "t">
+<!ENTITY byLastVisited.label      "Prema zadnjem posjetu">
+<!ENTITY byLastVisited.accesskey  "r">
+<!ENTITY byMostVisited.label      "Prema posjećenosti">
+<!ENTITY byMostVisited.accesskey  "e">
+<!ENTITY bySite.label             "Prema stranici">
+<!ENTITY bySite.accesskey         "s">
+<!ENTITY view.label               "Prikaz">
+<!ENTITY view.accesskey           "i">
