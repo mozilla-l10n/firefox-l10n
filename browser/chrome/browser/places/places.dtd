@@ -1,8 +1,3 @@
-<!ENTITY cmd.bookmarkLink.label         "Bookmark This Page…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-
-
-
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "நூலகம்">
 <!ENTITY places.library.width  "700">
@@ -18,8 +13,6 @@
 <!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "நோக்குகள்">
 <!ENTITY views.accesskey                "V">
-<!ENTITY view.toolbar.label             "கருவிப்பட்டை">
-<!ENTITY view.toolbar.accesskey         "o">
 <!ENTITY view.columns.label             "நிரல்களைக் காட்டுக">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "வரிசைப்படுத்துக">
@@ -30,12 +23,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A வரிசைப்பாடு">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "புத்தகக்குறிகள் பயன்படுத்தப்படுகின்றன">
-<!ENTITY help.usingBookmarks.accesskey  "B">
-<!ENTITY help.usingHistory.label        "வரலாறுகள் பயன்படுத்தப்படுகின்றன">
-<!ENTITY help.usingHistory.accesskey    "i">
-<!ENTITY help.advancedTips.label        "Advanced Tips &amp; Tricks">
-<!ENTITY help.advancedTips.accesskey    "T">
 
 <!ENTITY cmd.findInBookmarks.label      "புத்தகக்குறிகளில் தேடுக…">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
@@ -54,28 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "கோப்பைத் தெரிக…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.select_all.label "அனைத்தையும் தெரிக">
-<!ENTITY cmd.select_all.accesskey "A">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "வெட்டுக">
-<!ENTITY cmd.edit_cut.accesskey     "t">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "நகல் செய்க">
-<!ENTITY cmd.edit_copy.accesskey    "C">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "ஒட்டுக">
-<!ENTITY cmd.edit_paste.accesskey   "P">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "அழிக்க">
-<!ENTITY cmd.edit_delete.accesskey  "D">
-<!ENTITY cmd.edit_undo.label        "அ-செய்க">
-<!ENTITY cmd.edit_undo.accesskey    "U">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "மீ-செய்க">
-<!ENTITY cmd.edit_redo.accesskey    "R">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.delete.label               "இந்தப் பக்கத்தை நீக்குக">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "இந்தத் தளத்தைப் பற்றி மறக்கவும்">
@@ -93,10 +58,6 @@
 <!ENTITY cmd.properties.label      "பண்புகள்">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.show_info.key  "i">
-
-<!ENTITY cmd.rename.label      "மீள்பெயரிடுக">
-<!ENTITY cmd.rename.accesskey  "R">
 
 <!ENTITY cmd.sortby_name.label              "பெயரின் அடிப்படையில் வரிசைப்படுத்துக">
 <!ENTITY cmd.sortby_name.accesskey          "S">
@@ -104,8 +65,6 @@
 
 <!ENTITY cmd.new_bookmark.label            "பதிய புத்தகக்குறி…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_livemark.label            "புதிய Live புத்தகக்குறி…">
-<!ENTITY cmd.new_livemark.accesskey        "L">
 <!ENTITY cmd.new_folder.label              "பதிய கோப்புறை…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
@@ -116,15 +75,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 <!ENTITY cmd.reloadMicrosummary.label      "Live தலைப்புகளை மீளேற்றுக">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "R">
-
-<!ENTITY cmd.groupby_site.label      "தள அடிப்படையில் குழுப்படுத்துக">
-<!ENTITY cmd.groupby_site.accesskey  "S">
-<!ENTITY cmd.groupby_page.label      "பக்க அடிப்படையில் குழுப்படுத்துக">
-<!ENTITY cmd.groupby_page.accesskey  "P">
-<!ENTITY cmd.groupby_feed.label      "சந்தாக்களின் அடிப்படையில் குழுப்படுத்துக">
-<!ENTITY cmd.groupby_feed.accesskey  "S">
-<!ENTITY cmd.groupby_post.label      "அஞ்சல்களின் அடிப்படையில் குழுப்படுத்துக">
-<!ENTITY cmd.groupby_post.accesskey  "P">
 
 <!ENTITY cmd.moveBookmarks.label                  "நகர்க…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -147,66 +97,21 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "வரலாறு">
 <!ENTITY search.scopeHistory.accesskey             "A">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "search builder ஐக் காட்டுக">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "search builder ஐ மறைக்க">
 <!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeBookmarks.label               "புத்தகக்குறிகள்">
 <!ENTITY saveSearch.label                          "சேமிக்க">
 <!ENTITY saveSearch.accesskey                      "S">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "புத்தகக்குறிகளை மட்டும் தேடுக">
-<!ENTITY advancedSearch.match.label                "Match ">
-<!ENTITY advancedSearch.all.label                  "அனைத்து">
-<!ENTITY advancedSearch.any.label                  "ஏதாவது">
-<!ENTITY advancedSearch.rules.label                " of the following rules:">
-<!ENTITY advancedSearch.subj_keyword.label         "Containing the text">
-<!ENTITY advancedSearch.subj_visited.label         "அணுகப்பட்டது">
-<!ENTITY advancedSearch.subj_location.label        "அடம்">
-<!ENTITY advancedSearch.location_startswith.label  "இல் ஆரம்பிக்கின்ற">
-<!ENTITY advancedSearch.location_is.label          "is">
-<!ENTITY advancedSearch.location_onsite.label      "is on site">
-<!ENTITY advancedSearch.time_is.label              "on">
-<!ENTITY advancedSearch.time_before.label          "முன்னர்">
-<!ENTITY advancedSearch.time_after.label           "பின்னர்">
-<!ENTITY advancedSearch.time_inlast.label          "இறுதியில் உள்ள">
-<!ENTITY advancedSearch.last_days.label            "நாட்கள்">
-<!ENTITY advancedSearch.last_weeks.label           "வாரங்கள்">
-<!ENTITY advancedSearch.last_months.label          "மாதங்கள்">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "இதனடிப்படையில் குழுப்படுத்தப்பட்டுள்ளது: ">
-<!ENTITY advancedSearch.groupby_host.label         "host">
-<!ENTITY advancedSearch.groupby_domain.label       "ஆள்களம்">
-<!ENTITY advancedSearch.groupby_folder.label       "கோப்புறை">
-<!ENTITY advancedSearch.sortby.label               "இதனடிப்படையில் வரிசைப்படுத்தப்பட்டுள்ளது: ">
-<!ENTITY advancedSearch.sortby_title.label         "தலைப்பு">
-<!ENTITY advancedSearch.sortby_date.label          "திகதி">
-<!ENTITY advancedSearch.sortby_visit.label         "அணுகல் எண்ணிக்கை">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "ஏறுவரிசை">
-<!ENTITY advancedSearch.sortby_desc.label          "இறங்குவரிசை">
-<!ENTITY advancedSearch.max.label                  "உச்சப் பெறுபேறு: ">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY feed.subscribe.label    "ஊட்டு">
-<!ENTITY feed.subscribe.tooltip  "அங்கத்தினராகுக">
-
-<!ENTITY view.detailsMacOSX.label  "பட்டியல்">
-<!ENTITY view.details.label        "விபரங்கள்">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "நோக்கப்பட்ட உட்செருகல்களைப் பெறுக">
 
 <!ENTITY maintenance.label      "இறக்குமதி மற்றும் ஆதார நகல்">
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "பின்னே">
-
 <!ENTITY backButton.tooltip  "பின் செல்க">
 
 <!ENTITY forwardCmd.label       "முன்னே">
-
 <!ENTITY forwardButton.tooltip  "முன் செல்க">
 
 <!ENTITY detailsPane.more.label "மேலும்">
@@ -215,3 +120,30 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "முன்-நோக்கு">
 <!ENTITY detailsPane.selectAnItemText.description "நோக்குவதற்காக அல்லது அதனை தொகுப்பதற்காக ஒரு உருப்படியைத் தெரிவுசெய்க">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY view.accesskey "w">
+<!ENTITY byDayAndSite.label "By Date and Site">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY find.label "Search:">
+<!ENTITY cmd.bookmarkLink.label "Bookmark This Page…">
+<!ENTITY byDate.label "By Date">
+<!ENTITY views.tooltip "Change your view">
+<!ENTITY view.label "View">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY search.in.label "Search in:">
+<!ENTITY organize.tooltip "Organize your bookmarks">
+<!ENTITY find.accesskey "S">
+<!ENTITY cmd.bookmarkLink.accesskey "B">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byMostVisited.label "By Most Visited">
+<!ENTITY maintenance.tooltip "Import and backup your bookmarks">
+<!ENTITY bySite.label "By Site">
+<!ENTITY byLastVisited.label "By Last Visited">

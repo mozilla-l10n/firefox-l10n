@@ -12,3 +12,12 @@
 
 <!ENTITY switchToNewTabs.label        "புதிய தத்தலில் ஒரு இணையை திறக்கும் போது, உடனே அதற்கு தாவுக">
 <!ENTITY switchToNewTabs.accesskey    "s">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY showTabsInTaskbar.accesskey "k">
+<!ENTITY showTabsInTaskbar.label "Show tab previews in the Windows taskbar">

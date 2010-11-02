@@ -1,7 +1,3 @@
-<!ENTITY enableAddonsUpdate2.label       "Add-ons">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-
-
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "பொது">
@@ -46,9 +42,6 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "இதுவரை பயன்படுத்துக">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "விரைவு நினைவகத்தில் உள்ள MB இடம்">
 <!ENTITY clearCacheNow.label             "நீக்குக">
 <!ENTITY clearCacheNow.accesskey         "C">
 
@@ -101,3 +94,21 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "பாதுகாப்பு சாதனங்கள்">
 <!ENTITY viewSecurityDevices.accesskey   "y">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY limitCacheSizeAfter.label "MB of space">
+<!ENTITY enableAddonsUpdate2.label "Add-ons">
+<!ENTITY limitCacheSizeBefore.accesskey "L">
+<!ENTITY enableAddonsUpdate2.accesskey "n">
+<!ENTITY overrideSmartCacheSize.label "Override automatic cache management">
+<!ENTITY submitCrashes.label "Submit crash reports">
+<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY submitCrashes.accesskey "S">
+<!ENTITY limitCacheSizeBefore.label "Limit cache to">

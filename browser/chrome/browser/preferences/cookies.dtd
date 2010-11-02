@@ -10,7 +10,7 @@
 
 <!ENTITY props.name.label "பெயர்:">
 <!ENTITY props.value.label "பொருளடக்கம்:">
-<!ENTITY props.domain.label "ஆள்களம்:">
+<!ENTITY props.domain.label "Domain:">
 <!ENTITY props.path.label "பாதை:">
 <!ENTITY props.secure.label "இதற்காக அனுப்புக:">
 <!ENTITY props.expires.label "முடிவடைகிறது:">
@@ -26,3 +26,11 @@
 <!ENTITY button.close.label "மூடுக">
 <!ENTITY button.close.accesskey "C">
 
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY button.removecookies.label "Remove Cookies">

@@ -1,16 +1,28 @@
 <!ENTITY aboutDialog.title "&brandFullName; பற்றி">
-<!ENTITY copyright "நன்றி">
-<!ENTITY aboutLink "&lt; &brandFullName; பற்றி">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY copyright.accesskey    "C">
-<!ENTITY aboutVersion "">
-<!ENTITY closeCmdGNOME.label        "மூடுக">  
-<!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 பங்களிப்பாளர்கள். All rights reserved. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "உரிமத் தகவல்">
-<!ENTITY copyrightInfo2             ").">
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
 
-
-
+<!ENTITY update.failed.end "">
+<!ENTITY update.noUpdatesFound "&brandShortName; is up to date">
+<!ENTITY update.downloading.start "Downloading update — ">
+<!ENTITY update.manual.end "">
+<!ENTITY update.checkingForUpdates "Checking for updates…">
+<!ENTITY community.middle2 ", a ">
+<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.manual.start "Updates available at ">
+<!ENTITY update.failed.start "Update failed. ">
+<!ENTITY bottomLinks.license "Licensing Information">
+<!ENTITY contribute.end "">
+<!ENTITY update.failed.linkText "Download the latest version">
+<!ENTITY update.adminDisabled "Updates disabled by your system administrator">
+<!ENTITY community.end2 " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY contribute.start "Sound interesting? ">
+<!ENTITY community.creditsLink "global community">
+<!ENTITY bottomLinks.privacy "Privacy Policy">
+<!ENTITY update.downloading.end "">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY bottomLinks.rights "End User Rights">
+<!ENTITY community.start2 "&brandShortName; is designed by ">

@@ -1,5 +1,3 @@
-<!ENTITY  close.label                   "நான் &brandShortName;ஐ மூடுகிறேன்">
-
 <!ENTITY  history.label "வரலாறு">
 
 <!ENTITY  locbar.pre.label              "இடத்துரிப்பட்டையினை பயன்படுத்தும் பொழுது, அறிவுறுத்துக:">
@@ -18,7 +16,6 @@
   &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
 -->
 
-
 <!ENTITY  rememberActions.clearHistory.label  "உங்களுடைய அண்மைக்கால வரலாற்றினைத்தூய்மைப்படுத்துக">
 <!ENTITY  rememberActions.middle.label        ", or ">
 <!ENTITY  rememberActions.post.label          ".">
@@ -27,13 +24,8 @@
 <!ENTITY  rememberDescription.label      "brandShortName;உங்களுடைய உலாவல்,பதிவிறக்கம்,படிவம் மற்றும் தேடல் வரலாற்றினை ஞாபகத்தில் வைத்துக்கொள்வதுடன் நீங்கள் பார்வையிடும் இணையத் தளத்திலிருந்து குக்கீஸ்களையும் வைத்திருக்கும்.">
 <!ENTITY  rememberDownload.accesskey     "d">
 <!ENTITY  rememberDownload.label         "பதிவிறக்க வரலாற்றினை ஞாபகப்படுத்துக">
-<!ENTITY  rememberHistory.post.label     "நாட்கள்">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.pre.label      " ஆவது எனது உலாவல் வரலாற்றினை ஞாபகத்தில் வைக்கவும்">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 <!ENTITY  rememberSearchForm.label       "தேடல் மற்றும் படிவ வரலாற்றினை ஞாபகத்தில் வைத்துக்கொள்ளவும்">
-
-
 
 <!ENTITY  acceptCookies.label           "பக்கங்களிலிருந்து cookies ஐ அனுமதிக்கவும்">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -45,6 +37,7 @@
 <!ENTITY  keepUntil.accesskey           "K">
 
 <!ENTITY  expire.label                  "அவை காலாவதியாகும் வரை">
+<!ENTITY  close.label                   "நான் &brandShortName; யை மூடும் வரை">
 <!ENTITY  askEachTime.label             "ஒவ்வொரு தரமும் என்னை கேட்கவும்">
 
 <!ENTITY  cookieExceptions.label        "விதிவிலக்குகள்…">
@@ -54,17 +47,11 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
-<!ENTITY  privateBrowsingAutoStart.label "தனிப்பட்ட உலாவல் அமர்வுகளில் &brandShortName; தானாக ஆரம்பிக்கும்">
-
-
-
 <!ENTITY  clearOnClose.label             "&brandShortName;ஐ மூடும் பொழுது வரவாற்றைத் தூய்மைப்படுத்துக">
 <!ENTITY  clearOnClose.accesskey         "w">
 
 <!ENTITY  clearOnCloseSettings.label     "அமைப்புக்கள்…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
 
 <!ENTITY  dontrememberActions.clearHistory.label "நடப்பு வரலாறு யாவற்றையும் தூய்மைப்படுத்துக">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -77,3 +64,14 @@
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
 <!ENTITY  historyHeader.remember.label     "வரலாற்றினை ஞாபகப்படுத்துக">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY rememberHistory.label "Remember my browsing history">
+<!ENTITY privateBrowsingPermanent.accesskey "P">
+<!ENTITY privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY rememberHistory.accesskey "b">

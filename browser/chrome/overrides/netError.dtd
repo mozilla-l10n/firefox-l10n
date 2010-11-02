@@ -28,8 +28,6 @@
 <!ENTITY netInterrupt.longDesc "<p>உலாவி இணைக்கப்பட்டிருந்தாலும் தகவல் பரிமாற்றத்தின்போது இணைப்பு குறுக்கீடு செய்யப்பட்டுள்ளது. மீண்டு்ம் முயற்சிக்க.</p><ul><li>உங்களால் ஏனைய இணையத்தளங்களிலும் உலாவ முடியவில்லையா? தயவுசெய்து உங்களின் இணைய இணைப்பைப் பரிசோதிக்க.</li><li>இன்னமும் பிரச்சினை உள்ளதா? உங்களுடைய வலையமைப்பு நிர்வாகியையோ அல்லது இணைய சேவை வழங்குனரையோ உதவிக்காக நாடுக.</li></ul>">
 
 <!ENTITY netOffline.title "இணைப்பில்லா நிலை">
-<!ENTITY netOffline.longDesc "<p>உலாவி இணைப்பில்லா நிலையில் இயங்குவதால் அதனால் கோரப்பட்ட உருப்படியுடன் தொடர்பை ஏற்படுத்திக்கொள்ள முடியவில்லை.</p><ul><li>உங்கள் கணினி ஒரு வலையமைப்புடன் இணைக்கப்பட்டுள்ளதா?</li><li>உலாவியை இணைந்த நிலைக்குமாற்றியபின் மீண்டும் முயற்சிசெய்க</li></ul>">
-
 <!ENTITY contentEncodingError.title "உள்ளடக்கக் குறிமுறையாக்க வழு">
 <!ENTITY contentEncodingError.longDesc "<p>முறையற்ற அல்லது தவறான Compression காரணமாக நீங்கள் பார்க்க முயற்சிக்கும் பக்கத்தை காட்டமுடியாதுள்ளது.</p><ul><li>தயவுசெய்து இணையத் தள உரிமையாளர்களிடம் தொடர்புகொண்டு இப்பிரச்சினை சம்பந்தமாக அறிவிக்க.</li></ul>">
 
@@ -56,7 +54,12 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>உலாவி ஆனது proxy சேவையகம் ஒன்றினைப் பயன்படுத்துமாறு அமைவடிவம் செய்யப்பட்டுள்ளது. ஆனால் proxy ஐ அடையமுடியவில்லை.</p><ul><li>உங்களுடைய உலாவியின் proxy அமைவடிவம் சரியாக உள்ளதாவெனப் பரிசோதித்து மீண்டும் முயற்சிக்க.</li><li>கணினி ஒரு இயங்குகின்ற வலையமைப்புடன் இணைக்கப்பட்டுள்ளதா?</li><li>இன்னமும் பிரச்சினை உள்ளதா? உங்களுடைய வலையமைப்பு நிர்வாகியையோ அல்லது இணைய சேவை வழங்குனரையோ உதவிக்காக நாடுக.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redirect Loop">
-<!ENTITY redirectLoop.longDesc "<p>உலாவி கோரப்பட்ட உருப்படிகளைப் பெறமுயல்வதை நிறுத்தியுள்ளது. கோரிக்கையினை இந்தத் தளமானது திசைதிருப்புகின்ற விதமானது பூரணமடையாது.இந்தத் தளத்தினால் கேட்கப்பட்ட cookies களை நீங்கள் தடைசெய்தோ அல்லது இயலாமைப்படுத்தியோ உள்ளீர்களா?தளத்தினுடைய cookies களை ஏற்றுக்கொள்ளல் பிரச்சினைக்குத் தீர்வாகாது.இது அநேகமாக சேவையக தகவமைப்பு பிரச்சனையாக இருக்கலாம் உங்களுடைய கணினி சம்மந்தப்பட்டதில்லை.</li></ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>This problem can sometimes be caused by disabling or refusing to accept
+    cookies.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "தவறான பதில்">
 <!ENTITY unknownSocketType.longDesc "<p>வலையமைப்பின் வேண்டுகோளிற்கு தளம் எதிர்பார்த்ததுபோல் பதிலளிக்கவில்லை அத்தோடு உலாவியினால் தொடரமுடியாது.</p>">
@@ -99,9 +102,21 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>நீங்கள் முழுமையாக நம்பாத இணைய இணைப்பினைப் பயன்படுத்தினாலோ அல்லது இந்த சேவையகத்திற்கான எச்சரிக்கையினைப் பார்த்துப் பழகாவிட்டாலோ நீங்கள் விதிவிலக்கு ஒன்றினைச் சேர்த்தலாகாது.</p>
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
 ">
+<!ENTITY securityOverride.warningContent "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">

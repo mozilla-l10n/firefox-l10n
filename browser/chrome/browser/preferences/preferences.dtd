@@ -1,11 +1,3 @@
-<!-- When making changes to prefWindow.styleWin test both Windows Classic and
-     Luna since widget heights are different based on the OS theme -->
-<!ENTITY  prefWinMinSize.styleWin2      "width: 42em; min-height: 37.5em;">
-<!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
-<!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
-
-<!ENTITY  paneGeneral.title       "General">
-
 <!ENTITY prefWindow.titleWin "விருப்பங்கள்">
 <!ENTITY prefWindow.titleGNOME "&brandShortName; விருப்பத்தெரிவுகள்">
 
@@ -15,3 +7,15 @@
 <!ENTITY panePrivacy.title "தனிமை">
 <!ENTITY paneSecurity.title "பாதுகாப்பு">
 <!ENTITY paneAdvanced.title "உயர்நிலை">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY prefWinMinSize.styleGNOME "width: 45.5em; min-height: 40.5em;">
+<!ENTITY paneSync.title "Sync">
+<!ENTITY prefWinMinSize.styleMac "width: 47em; min-height: 40em;">
+<!ENTITY paneGeneral.title "General">
+<!ENTITY prefWinMinSize.styleWin2 "width: 42em; min-height: 37.5em;">

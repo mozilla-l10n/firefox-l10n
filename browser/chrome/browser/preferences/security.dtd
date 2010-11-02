@@ -30,12 +30,6 @@
 <!ENTITY changeMasterPassword.label "முதன்மை கடவுச்சொல்லை மாற்றுக..">
 <!ENTITY changeMasterPassword.accesskey "M">
 
-<!ENTITY warnings.label "எச்சரிக்கை செய்திகள்">
-
-<!ENTITY chooseWarnings.label "இணையத்தில் உலாவும் போது பார்க்க விரும்பும் எச்சரிக்கை செய்திகளை தேரிவு செய்க">
-
-<!ENTITY warningSettings.label "அமைவுகள்...">
-<!ENTITY warningSettings.accesskey "S">
 
 <!ENTITY  savedPasswords.label            "சேமித்த கடவுச்சொற்கள்">
 <!ENTITY  savedPasswords.accesskey        "P">

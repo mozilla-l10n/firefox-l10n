@@ -4,19 +4,25 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; இந்த அமர்விற்காக எந்த வரலாற்றினையும் ஞாபகப்படுத்த மாட்டாது.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; நடப்பில் தனிப்பட்ட உலாவல் முறைமையில் இருக்கவில்லை">
 
-<!ENTITY privatebrowsingpage.description               "தனிப்பட்ட உலாவல் அமர்வில், &brandShortName; எந்தவொரு உலாவல் வரலாற்றினையோ,தேடல் வரலாற்றினையோ,பதிவிறக்கல் வரலாற்றினையோ,இணைய படிவ வாலாற்றினையோ,குக்கீஸ்களையோ அல்லது தற்காலிக இணையக் கோப்புக்களையோ வைத்திருக்காது.எப்படியாயினும்,உங்களால் பதிவிறக்கம் செய்யப்ட்ட கோப்புகள் மற்றும் புத்தககுறிகள் சேமிக்கப்படும்.">
+<!ENTITY privatebrowsingpage.description               "தனிப்பட்ட உலாவல் அமர்வில், &brandShortName; எந்தவொரு உலாவல் வரலாற்றினையோ,தேடல் வரலாற்றினையோ,பதிவிறக்கல் வரலாற்றினையோ,இணைய படிவ வாலாற்றினையோ,குக்கீஸ்களையோ அல்லது தற்காலிக இணையக் கோப்புக்களையோ வைத்திருக்காது.However, files you download and bookmarks you make will be kept.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "நீங்களும் தொடங்க வேண்டும்">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "You may want to start by also ">
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "உங்களது அண்மைக்கால வரலாற்றினைச் சுத்தம் செய்க">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "தனிப்பட்ட உலாவலை ஆரம்பிக்க">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "தனிப்பட்ட உலாவலினை நிறுத்துவதற்கு,&toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; ஐ தெரிவு செய்க, அல்லது &brandShortName; மூடுக.">
-<!ENTITY privatebrowsingpage.howToStart                " தனிப்பட்ட உலாவலினை ஆரம்பிப்பதற்கும், உங்களால் &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; தெரிவு செய்ய முடியும்.">
-
 <!ENTITY privatebrowsingpage.moreInfo                  "இந்த கணினி உங்களுடைய உலாவல் பற்றிய பதிவினை வைத்திருக்காதவிடத்து நீங்கள் பார்வையிடும் பக்கங்களை உங்களுடைய இணைய சேவை வழங்குனர் அல்லது வேலை செய்பவர் track பண்ண முடியும்.">
 <!ENTITY privatebrowsingpage.learnMore                 "மேலும் படிக்க">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY privatebrowsingpage.howToStop2 "To stop Private Browsing, select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2 "To start Private Browsing, you can also select &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
