@@ -11,6 +11,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navegación privada)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "t">
@@ -31,10 +32,8 @@
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Trabajar desconectado">
-<!ENTITY goOfflineCmd.accesskey "j">
+<!ENTITY goOfflineCmd.accesskey "T">
 
-<!ENTITY menubarCmd.label "Barra de menú">
-<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Barra de navegación">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de marcadores">
@@ -50,12 +49,7 @@
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Pantalla completa">
-<!ENTITY fullScreenCmd.accesskey "l">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-
-<!ENTITY showAllTabsCmd.label "Mostrar todas las pestañas">
-<!ENTITY showAllTabsCmd.accesskey "a">
-
+<!ENTITY fullScreenCmd.accesskey "P">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -94,8 +88,6 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Detiene la carga de la página">
 <!ENTITY goEndCap.tooltip             "Ir a la dirección en la barra de direcciones.">
-<!ENTITY feedButton.tooltip           "Suscribirse a esta página…">
-
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprime esta página">
 
@@ -108,12 +100,14 @@
 <!ENTITY  homeButton.label            "Inicio">
 
 <!ENTITY bookmarksButton.label          "Marcadores">
-<!ENTITY bookmarksButton.accesskey  "M">
 <!ENTITY bookmarksButton.tooltip        "Muestra sus marcadores">
-<!ENTITY bookmarksCmd.commandkey "b">
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
-
+<!ENTITY bookmarksSidebarCmd.accesskey  "M">
+<!ENTITY bookmarksSidebarCmd.commandkey "m">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historial">
 <!ENTITY historyButton.tooltip          "Muestra las páginas que ha visto recientemente">
@@ -204,6 +198,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.emptyText             "Buscar marcadores e historial">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Buscar marcadores e historial">
 <!ENTITY urlbar.bookmark.emptyText    "Buscar marcadores">
 <!ENTITY urlbar.history.emptyText     "Historial de búsquedas">
@@ -265,9 +260,6 @@
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Ver imagen">
 <!ENTITY viewImageCmd.accesskey       "i">
-<!ENTITY viewImageInfoCmd.label       "Ver información de la imagen">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
-
 <!ENTITY viewVideoCmd.label           "Ver video">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Ver imagen de fondo">
@@ -320,6 +312,8 @@
 <!ENTITY copyAudioURLCmd.label        "Copiar dirección del audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "B">
+<!ENTITY metadataCmd.label            "Propiedades">
+<!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "Copiar dirección de e-mail">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Este marco">
@@ -374,8 +368,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Pegar">
-<!ENTITY fullScreenButton.tooltip       "Mostrar la ventana en pantalla completa">
-
 
 <!ENTITY quitApplicationCmdWin.label       "Salir"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
@@ -452,5 +444,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Haga click para abrir la ventana de descargas">
 
-<!ENTITY allTabs.filter.emptyText "Buscar pestañas">
-
+<!ENTITY ctrlTab.search.emptyText "Buscar pestañas">

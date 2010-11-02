@@ -5,43 +5,44 @@
 <!ENTITY windowMenu.label         "Ventana">
 
 <!ENTITY helpMenu.label           "Ayuda"> 
-<!ENTITY helpMenu.accesskey       "u"> 
+<!ENTITY helpMenu.accesskey       "A"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ayuda"> 
-<!ENTITY helpMenuWin.accesskey    "u">
-<!ENTITY aboutCmd.label           "Acerca de &brandFullName;">
+<!ENTITY helpMenuWin.accesskey    "A">
+<!ENTITY aboutCmd.label           "Acerca de  &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY productHelp.label        "Ayuda de &brandShortName;">
-<!ENTITY productHelp.accesskey    "y">
-
+<!ENTITY helpContents.label       "Contenidos de la Ayuda">
+<!ENTITY helpContents.accesskey   "C">
+<!ENTITY helpContentsMac.label    "Ayuda de &brandShortName;">
 <!ENTITY helpForIEUsers.label     "Para usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY helpMac.commandkey       "?">
-
-<!ENTITY helpTroubleshooting.label      "Información para resolver problemas…">
-<!ENTITY helpTroubleshooting.accesskey  "p">
-
-
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-
+<!ENTITY openHelpMac.commandkey           "/">
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
 
 <!ENTITY helpReleaseNotes.label         "Notas de lanzamiento">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY updateCmd.label                "Revisar si hay actualizaciones…">
+<!ENTITY updateCmd.accesskey            "o">
 
 <!ENTITY preferencesCmdMac.label        "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Servicios">
 
 <!ENTITY hideThisAppCmdMac.label        "Esconder &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Esconder otros">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostrar todo">
