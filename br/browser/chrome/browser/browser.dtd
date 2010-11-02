@@ -215,7 +215,7 @@ can reach it easily. -->
 <!ENTITY newNavigatorCmd.accesskey      "n">
 
 <!ENTITY editMenu.label         "Embann"> 
-<!ENTITY editMenu.accesskey       "a"> 
+<!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Dizober ">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "D"> 

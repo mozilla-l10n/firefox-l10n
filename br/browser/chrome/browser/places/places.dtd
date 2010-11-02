@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Klask :">
 <!ENTITY search.accesskey                          "s">
+
+<!ENTITY search.in.label                           "Klask e-barzh :">
 <!ENTITY search.scopeFolder.label                  "Teuliad bet diuzet">
 <!ENTITY search.scopeFolder.accesskey              "b">
 <!ENTITY search.scopeBookmarks.label               "Sinedoù">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "Alberz">
 <!ENTITY detailsPane.selectAnItemText.description "Diuzañ an ergorenn evit gwelout he ferzhioù">
+
+<!ENTITY find.label               "Klask :">
+<!ENTITY find.accesskey           "s">
+<!ENTITY view.label               "Gwelout">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "Diouzh an deiziad">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "Diouzh al lec'hienn">
+<!ENTITY bySite.accesskey         "D">
+<!ENTITY byMostVisited.label      "Diouzh an hini gweladennetañ">
+<!ENTITY byMostVisited.accesskey  "D">
+<!ENTITY byLastVisited.label      "Diouzh an hini gweladennet diwezhatañ">
+<!ENTITY byLastVisited.accesskey  "l">
+<!ENTITY byDayAndSite.label       "Diouzh an deiziad hag al lec'hienn">
+<!ENTITY byDayAndSite.accesskey   "D">

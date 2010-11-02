@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "n">
 
 <!ENTITY exceptionMgr.title                   "Ouzhpennañ un nemedenn diogelroez">
-<!ENTITY exceptionMgr.exceptionButton         "Kadarnaat an nemedenn diogelroez">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "K">
+<!ENTITY exceptionMgr.exceptionButton.label   "Kadarnaat an nemedenn diogelroez">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "K">
 <!ENTITY exceptionMgr.supplementalWarning     "An dra-se ne vo ket goulennet diganeoc'h gant ar bankoù, ar stalioù dezvek pe lec'hiennoù foran all.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Dafariad">
 <!ENTITY exceptionMgr.certlocation.url        "Lec'hiadur :">
