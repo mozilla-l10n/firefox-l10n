@@ -138,8 +138,8 @@
 <!ENTITY exceptionMgr.permanent.accesskey     "p">
 
 <!ENTITY exceptionMgr.title                   "Afegeix una excepció de seguretat">
-<!ENTITY exceptionMgr.exceptionButton         "Confirma l'excepció de seguretat">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirma l'excepció de seguretat">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Bancs, botigues i altres llocs públics legímits no us demanaran que ho feu.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
 <!ENTITY exceptionMgr.certlocation.url        "Ubicació:">
