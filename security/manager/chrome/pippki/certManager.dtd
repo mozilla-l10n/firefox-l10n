@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "新增安全例外">
-<!ENTITY exceptionMgr.exceptionButton         "確認安全例外">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "確認安全例外">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "請注意，合法的銀行、商店或其他公開網站不會要求您這麼做！">
 <!ENTITY exceptionMgr.certlocation.caption2   "伺服器">
 <!ENTITY exceptionMgr.certlocation.url        "位址:">

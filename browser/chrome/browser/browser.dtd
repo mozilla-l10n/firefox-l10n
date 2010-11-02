@@ -71,7 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "書籤工具列項目">
 <!ENTITY addonBarCmd.label "附加元件列">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "頁面原始碼">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "下一頁">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "到下一頁">
-<!ENTITY backForwardMenu.tooltip      "最近瀏覽頁面">
 <!ENTITY reloadCmd.label              "重新載入">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "重新載入最新的網頁內容">
