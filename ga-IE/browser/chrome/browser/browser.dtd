@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Ar Aghaidh">
 <!ENTITY forwardCmd.accesskey "A">
 <!ENTITY forwardButton.tooltip "Leathanach amháin ar aghaidh">
-<!ENTITY backForwardMenu.tooltip "Leathanaigh le déanaí">
 <!ENTITY reloadCmd.label "Athluchtaigh">
 <!ENTITY reloadCmd.accesskey "A">
 <!ENTITY reloadButton.tooltip "Athluchtaigh an leathanach reatha">
