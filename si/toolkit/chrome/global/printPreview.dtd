@@ -69,8 +69,6 @@
 
 <!ENTITY homearrow.tooltip    "පළමු පිටුව">
 <!ENTITY endarrow.tooltip     "අවසාන පිටුව">
-<!ENTITY rightarrow.tooltip   "ඊළඟ පිටුව">
-<!ENTITY leftarrow.tooltip    "පෙර පිටුව">
 
 
 <!--

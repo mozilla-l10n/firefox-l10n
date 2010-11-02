@@ -11,10 +11,7 @@
 <!ENTITY disableAddons.accesskey      "D">
 
 <!ENTITY resetToolbars.label          "මෙවලම් තීරු සහ පාලක යළි සකස් කරන්න">
-<!ENTITY resetToolbars.accesskey      "R">
-
-<!ENTITY resetBookmarks.label         "&brandShortName; පිටු සලකුණු පෙරනිමි වෙතට සකසන්න">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY resetToolbars.accesskey      "R">
 
 <!ENTITY resetUserPrefs.label         "&brandShortName; සියලු පරිශීලක අභිප්‍රේත  පෙරනිමි වෙතට සකසන්න">
 <!ENTITY resetUserPrefs.accesskey     "p">

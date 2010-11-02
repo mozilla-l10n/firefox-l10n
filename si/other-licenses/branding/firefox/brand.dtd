@@ -1,8 +1,6 @@
 <!ENTITY  brandShortName        "Firefox">
 <!ENTITY  brandFullName         "Mozilla Firefox">
 <!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  logoCopyright         "Firefox and the Firefox logos are trademarks of the Mozilla Foundation. All rights reserved.">
-
 
 <!--
 Entities below were automatically added by compare-locales,

@@ -3,7 +3,6 @@
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; මනාපයන්">
 
 
-<!ENTITY  paneMain.title          "ප්‍රධාන">
 <!ENTITY  paneTabs.title          "ටැබ්">
 <!ENTITY  paneContent.title       "අන්තර්ගතය">
 <!ENTITY  panePrivacy.title       "පෞද්ගලිකත්වය">
@@ -12,9 +11,6 @@
 
 
 <!ENTITY  paneApplications.title  "යෙදුම් ">
-<!ENTITY  prefWin.styleWin3       "width: 42em; min-height: 39em;">
-<!ENTITY  prefWin.styleMac2       "height: 47em; min-height: 40em;">
-<!ENTITY  prefWin.styleGNOME2     "height: 42em; min-height: 39.5em;">
 
 
 <!--

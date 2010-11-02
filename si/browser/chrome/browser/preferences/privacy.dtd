@@ -8,16 +8,6 @@
   &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
 -->
 
-<!ENTITY  rememberForms.label           "පෝරම තුළ සහ සෙවුම් තීරුවේ මා ඇතුළත් කරන දැ මතක තබා ගන්න">
-<!ENTITY  rememberForms.accesskey       "f">
-
-<!ENTITY  rememberDownloads.label       "මම බාගත් දැ මතක තබාගන්න">
-<!ENTITY  rememberDownloads.accesskey   "d">
-<!ENTITY  rememberDaysAfter2.label      "දින">
-
-
-<!ENTITY  cookies.label                 "කුකී">
-
 <!ENTITY  acceptCookies.label           "අඩෙවිවල කුකී පිළිගන්න">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -34,13 +24,6 @@
 <!ENTITY  showCookies.label             "කුකි දර්ශනය කරන්න...">
 <!ENTITY  showCookies.accesskey         "S">
 
-
-<!ENTITY  privateData.label             "පෞද්ගලික දත්ත">
-
-<!ENTITY  alwaysClear.label              "මා &brandShortName; වසන සෑමවිටදීම මගේ පෞද්ගලික දත්ත හිස් කරන්න">
-<!ENTITY  alwaysClear.accesskey          "w">
-<!ENTITY  clearDataSettings.label        "සැකසුම්...">
-<!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; :">
 <!ENTITY  historyHeader.pre.accesskey      "F">
@@ -64,8 +47,6 @@
 <!ENTITY  dontrememberActions.pre.label          "තවද ඔබට වත්මන් ඉතිහාසය මකා දැමීමට ">
 <!ENTITY  dontrememberActions.clearHistory.label "අවශ්‍ය විය හැ">
 <!ENTITY  dontrememberActions.post.label         ".">
-<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; ස්වයංක්‍රීයව පෞද්ගලික ගවේෂණාකාරයෙන් අරඹන්න">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
 
 <!-- LOCALIZATION NOTE:
@@ -74,10 +55,6 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-
-<!ENTITY  rememberHistory.pre.label      "මගේ ගවේෂණ ඉතිහාසය අවම ලෙසවත් මතක තබාගත යුත්තේ">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "දින">
 
 <!ENTITY  rememberDownload.label         "බාගැනීම් අතීතයන් මතක තබාගන්න">
 <!ENTITY  rememberDownload.accesskey     "d">
@@ -91,11 +68,6 @@
 <!ENTITY  clearOnCloseSettings.label     "සැකසුම්…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  clearDataNow.label             "දැන් හිස් කරන්න...">
-<!ENTITY  clearDataNow.accesskey         "N">
-
-<!ENTITY  rememberDaysBefore.label      "මගේ අතීත තොරතුරු අවම වශයෙන් තබා ගත යුත්තේ">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
 <!ENTITY  acceptThirdParty.label        "මෙම තෙවන පාර්‍ශවික කුකිය අනුමත කරන්න">
 <!ENTITY  acceptThirdParty.accesskey    "p">
 <!ENTITY  locbar.pre.label              "පිහිටුමෙ තීරුව භාවිත කරන විට, යෝජනා කරන්න:">
@@ -112,7 +84,7 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY rememberHistory.label "Remember my browsing history">
+<!ENTITY rememberHistory.label "මගේ ගවේෂණ ඉතිහාසය මතක තබාගන්න">
 <!ENTITY privateBrowsingPermanent.accesskey "P">
-<!ENTITY privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY privateBrowsingPermanent.label "පෞද්ගලික ගවේෂණාකාරය ස්ථිර ලෙසම">
 <!ENTITY rememberHistory.accesskey "b">

@@ -28,15 +28,10 @@
 <!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "හැරදැමීම්...">
 <!ENTITY  passwordExceptions.accesskey  "x">
-
 <!ENTITY  useMasterPassword.label        "ප්‍රධාන රහස්පදය භාවිතා කරන්න">
 <!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "ප්‍රධාන රහස්පදය වෙනස්කරන්න...">
 <!ENTITY  changeMasterPassword.accesskey "M">
-<!ENTITY  warnings.label                "අවවාද පණිවිඩ">
-<!ENTITY  chooseWarnings.label          "අන්තර්ජාලය ගවේෂණයේදි දර්ශනය වීම සඳහා ඔබට අවශ්‍ය අවවාද පණිවිඩය තෝරන්න">
-<!ENTITY  warningSettings.label         "සැකසුම්...">
-<!ENTITY  warningSettings.accesskey     "S">
 <!ENTITY  savedPasswords.label            "සුරැකු රහස්පද…">
 <!ENTITY  savedPasswords.accesskey        "P">
 <!ENTITY  blockAttackSites.label     "ආක්‍රමණික අඩවි අවහිර කරන්න">

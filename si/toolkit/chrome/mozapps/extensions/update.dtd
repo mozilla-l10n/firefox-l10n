@@ -47,5 +47,4 @@
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "&brandShortName; පටන්ගැනීමට අවසන් මත ක්ලික් කරන්න.">
 <!ENTITY  enableChecking.label            "යාවත්කාල කිරීම් පරීක්‍ෂාවට &brandShortName; අනුමත කරන්න.">
-<!ENTITY  details.label                   "තොරතුරු...">
-<!ENTITY  details.accesskey               "D">
+

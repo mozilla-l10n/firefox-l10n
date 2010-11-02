@@ -1,6 +1,4 @@
 <!ENTITY  updateWizard.title              "මෘදුකාංග යාවත්කාල කිරීම">
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
 <!ENTITY  noupdatesautoenabled.intro      "යාවත් කිරීමට කිසිවක් නොමැත. &brandShortName; වරින් වර යාවත් කිරීම් ඇත් දැයි සොයනු ඇත.">
 <!ENTITY  noupdatesautodisabled.intro     "යාවත් කිරීමට කිසිවක් නොමැත. කරුණාකර පසුව පරික්‍ෂා කරන්න හෝ &brandShortName; හි ස්වයංක්‍රීය යාවත් කිරීම් පරික්‍ෂාව සක්‍රීය කරන්න.">
 <!ENTITY  checking.title                  "යාවත්කාල කිරීම් සඳහා පරික්ෂා කිරීම">
@@ -15,7 +13,6 @@
 <!ENTITY  license.accept.accesskey        "c">
 <!ENTITY  license.decline                 "බලපත්‍ර ගිවිසුමහි නියම මම අනුමත නොකරමි">
 <!ENTITY  license.decline.accesskey       "T">
-<!ENTITY  downloading.title               "යාවත්කාල කිරීම්">
 <!ENTITY  downloading.intro               "යාවත්කාල කිරීම භාගත වේ...">
 <!ENTITY  connecting.label                "යාවත්කාල කිරීම් සේවාදායකය වෙත සම්බන්ධ වෙමින් පවතී...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; හී බාගත කල වෘද්ධි යාවත්කාල කිරීම් සම්පූර්ණත්වය ස්ථීර කරගත නොහැක, 
@@ -25,7 +22,6 @@
                                            &brandShortName; යාවත්කාල කල නොහැක මන්දයත්:">                                        
 <!ENTITY  errorManual.label               "හස්තීයව මෙම පුරුක වෙත්න් නවතම වෙළුම බාගත කරගැනීමේන්ඔබට &brandShortName;
                                            යාවත්කාල කිරීම් කල හැක :">
-<!ENTITY  errorpatching.title             "යාවත්කාල කිරීම් අසාර්ථකයි">
 <!ENTITY  errorpatching.intro             "අඩ යාවත්කාල කිරීම් යෙදවිය නොහැක. 
                                            &brandShortName; සම්පූර්ණ වෙළුම බාගත කරගැනීමෙන් පසු නැවත උත්සහ කරන්න.">
 <!ENTITY  finishedBackground.name         "යාවත්කාල කිරීම:">
