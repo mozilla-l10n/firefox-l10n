@@ -4,6 +4,5 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY addCurPageCmd.commandkey "d">
 
 

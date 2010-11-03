@@ -20,3 +20,18 @@
 <!ENTITY domainGuessing.accesskey              "d">
 <!ENTITY keywords.label                        "Perform a web search when entered text is not a web location">
 <!ENTITY keywords.accesskey                    "P">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY autoCompleteMatch.accesskey "M">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Only match locations, not website titles">
+<!ENTITY autoCompleteMatchStart "Only at the beginning of the location or title">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "n">
+<!ENTITY autoCompleteMatchWords "Only on word boundaries">
+<!ENTITY autoCompleteMatchAnywhere "Anywhere in the location or title">
+<!ENTITY autoCompleteMatchWordsFirst "Anywhere but preferring word boundaries">
+<!ENTITY autoCompleteMatch.label "Match">

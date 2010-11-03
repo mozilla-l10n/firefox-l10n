@@ -7,4 +7,11 @@
 
 <!ENTITY checkOnStartup.label "Always perform this check when starting &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "A">
-<!ENTITY rss.label "RSS Feeds">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY feeds.label "Feeds">

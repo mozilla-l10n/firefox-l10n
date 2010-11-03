@@ -146,3 +146,15 @@
 <!ENTITY popupIcon.tooltiptext      "Unblock this site's popups">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Switch Page Direction">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+<!ENTITY recentWindows.label "Recently Closed Windows">
+<!ENTITY recentWindows.commandkey "y">
+<!ENTITY recentWindows.accesskey "y">
+<!ENTITY bookmarksToolbarItem.label "Bookmarks Toolbar Items">

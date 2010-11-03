@@ -20,3 +20,19 @@
 <!ENTITY extensionsWeekly.accesskey           "k">
 <!ENTITY addonManagerButton.label             "Add-on Manager">
 <!ENTITY addonManagerButton.accesskey         "M">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY modeAutoAddonWarn.accesskey "b">
+<!ENTITY updateHistory.accesskey "u">
+<!ENTITY whenUpdatesFound.label "When updates to &brandShortName; are found">
+<!ENTITY askMe.accesskey "n">
+<!ENTITY modeAutomatic.accesskey "c">
+<!ENTITY modeAutoAddonWarn.label "Warn me if this will disable any of my add-ons">
+<!ENTITY updateHistory.label "Show Update History">
+<!ENTITY modeAutomatic.label "Automatically download and install the update">
+<!ENTITY askMe.label "Ask me what I want to do">

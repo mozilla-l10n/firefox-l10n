@@ -45,3 +45,12 @@
 <!ENTITY folderRestriction2.label   "Allow your new folder to contain:">
 <!ENTITY foldersOnly.label          "Folders Only">
 <!ENTITY messagesOnly.label         "Messages Only">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY accept.accesskey "r">
+<!ENTITY accept.label "Create Folder">

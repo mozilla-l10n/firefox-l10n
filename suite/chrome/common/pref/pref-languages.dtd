@@ -29,3 +29,11 @@
 <!ENTITY dontCheckSpelling.label                        "Never">
 <!ENTITY multilineCheckSpelling.label                   "In multiline boxes">
 <!ENTITY alwaysCheckSpelling.label                      "All boxes">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY languages.customize.active.accesskey "L">

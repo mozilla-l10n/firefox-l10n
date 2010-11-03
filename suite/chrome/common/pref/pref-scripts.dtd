@@ -18,3 +18,13 @@
 <!ENTITY allowHideStatusBar.label        "Hide the status bar">
 
 <!ENTITY enablePlugin.label              "Enable Plugins for">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY displayNotification.label "Display a notification bar at the top of the content area">
+<!ENTITY whenPluginsRequired.label "When additional plugins are required">
+<!ENTITY displayNotification.accesskey "N">

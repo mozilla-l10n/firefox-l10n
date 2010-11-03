@@ -37,3 +37,14 @@
 
 <!ENTITY     futureCookies.label            "Don't allow sites that set removed cookies to set future cookies">
 <!ENTITY     futureCookies.accesskey        "D">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY focusSearch.key "f">
+<!ENTITY search.placeholder "Search Cookies">
+<!ENTITY windowClose.key "w">
+<!ENTITY selectAll.key "a">

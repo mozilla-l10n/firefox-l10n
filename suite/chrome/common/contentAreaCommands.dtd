@@ -128,3 +128,14 @@
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY copyVideoURLCmd.label        "Copy Video Location">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY viewVideoCmd.label "View Video">
+<!ENTITY videoFullScreen.label "Full Screen">
+<!ENTITY videoFullScreen.accesskey "F">
+<!ENTITY viewVideoCmd.accesskey "i">

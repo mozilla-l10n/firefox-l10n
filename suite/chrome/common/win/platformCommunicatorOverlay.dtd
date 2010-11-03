@@ -31,3 +31,12 @@
 <!ENTITY altKey.label                   "Alt">
 <!ENTITY shiftKey.label                 "Shift">
 
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY helpMenu.label "Help">
+<!ENTITY helpMenu.accesskey "H">
