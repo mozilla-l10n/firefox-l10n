@@ -2,7 +2,7 @@
 <!ENTITY aboutHome.recentTabs                   "Ihre Tabs vom letzten Mal">
 <!ENTITY aboutHome.remoteTabs                   "Tabs von Ihren anderen Computern">
 <!ENTITY aboutHome.recommendedAddons2           "Add-ons für Ihren &brandShortName;">
-<!ENTITY aboutHome.aboutMozilla                 "Über Mozilla">
+<!ENTITY aboutHome.giveFeedback                 "Feedback senden">
 <!ENTITY aboutHome.openAllTabs                  "Alle in Tabs öffnen">
 <!ENTITY aboutHome.noTabs                       "Keine Tabs vom letzten Mal">
 <!ENTITY aboutHome.noAddons                     "Keine empfohlenen Add-ons">

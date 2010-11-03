@@ -1,12 +1,11 @@
 <!ENTITY firstrun.title                "Wíllkommen bei &brandShortName;">
-<!ENTITY firstrun.heading              "Hier sind einige der beliebtesten Funktionen und Add-ons, damit Sie das meiste aus &brandShortName; machen können">
-<!ENTITY firstrun.recommended          "Empfohlen:">
-<!ENTITY firstrun.weave.title          "Holen Sie sich Weave-Sync">
-<!ENTITY firstrun.weave.description    "Synchronisieren Sie Ihre &brandShortName;-Chronik, -Lesezeichen, -Tabs und mehr zwischen Ihrem Computer und Ihrem Mobilgerät.">
-<!ENTITY firstrun.starter.title        "Holen Sie sich die Startpaket-Kollektion">
-<!ENTITY firstrun.starter.description  "Installieren Sie diese empfohlenen Add-ons, um &brandShortName; genau so anzupassen, wie Sie Ihn mögen">
-<!ENTITY firstrun.tour.title           "Video-Rundgang ansehen"> 
-<!ENTITY firstrun.tour.description     "Schauen Sie sich dieses Video an, um mehr über die Bedienung und coole Features zu erfahren">
+<!ENTITY firstrun.heading2             "Wíllkommen bei &brandShortName;">
+<!ENTITY firstrun.sync2.title          "Seien Sie auf dem Laufenden">
+<!ENTITY firstrun.sync2.description    "Melden Sie sich mit Ihrem Sync-Account an, und synchronisieren Sie Ihre Chronik, Passwörter, Lesezeichen &amp; Tabs zwischen Ihrem Computer und Ihrem Handy">
+<!ENTITY firstrun.addons2.title        "Anpassen">
+<!ENTITY firstrun.addons2.description  "Entdecken und installieren Sie Add-ons, um &brandShortName; um weitere Funktionen zu ergänzen">
+<!ENTITY firstrun.home2.title          "Browsen">
+<!ENTITY firstrun.home2.description    "Überspringen Sie all dies und gehen Sie direkt auf Ihre persönliche Startseite.">
 <!ENTITY firstrun.features             "Sehen Sie sich weitere Funktionen an">
 <!ENTITY firstrun.faq                  "FAQ">
 <!ENTITY firstrun.privacy              "Datenschutzrichtlinie">
