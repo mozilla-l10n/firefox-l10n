@@ -53,8 +53,8 @@
 <!ENTITY server.label               "Սպասարկչ">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; Սպասարկիչ">
 <!ENTITY serverType.custom.label    "Օգտագործել անհատական սպասարկիչ">
-<!ENTITY signIn.account.label       "Email Address / User Name">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY signIn.account.label       "Էլ-փոստ հասցե / Օգտագործողի անուն">
+<!ENTITY signIn.account.accesskey   "Է">
 <!ENTITY signIn.password.label      "Գաղտնաբառը">
 <!ENTITY signIn.password.accesskey  "Գ">
 <!ENTITY signIn.serverURL.label     "Սերվերի URL">

@@ -110,7 +110,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "Է">
 <!ENTITY bookmarksToolbarItem.label "Էջանիշերի Վահանակի Իրեր">
 <!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Դիտել Էջի Կոդը">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -189,7 +189,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenuButton.tooltip        "Ցույց տալ ձեր էջանիշները">
 <!ENTITY bookmarksMenuButton.unsorted.label "Չկարգավորված Էջանիշեր">
 <!ENTITY viewBookmarksSidebar.label         "Ցույց տալ Կողային վահանակում">
-<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
+<!ENTITY viewBookmarksToolbar.label         "Դիտել էջանիշերի վահանակը">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -226,8 +226,8 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Inspect">
-<!ENTITY inspectMenu.accesskey        "t">
+<!ENTITY inspectMenu.label            "Հսկել">
+<!ENTITY inspectMenu.accesskey        "Հ">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
@@ -317,7 +317,7 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "Սրբագրում">
 <!ENTITY appMenuCustomize.label "Կազմաձևել">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appMenuToolbarLayout.label "Գործիքադարակի դասավորություն…">
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Գտնել…">
 <!ENTITY appMenuUnsorted.label "Չկարգավորված Էջանիշեր">
@@ -329,7 +329,7 @@ can reach it easily. -->
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Անցնել Վեբ կայքի">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+<!ENTITY urlbar.switchToTab.label     "Անցնել ներդիրի՝">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -586,4 +586,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "S">
 <!ENTITY syncSyncNowItem.label        "Sync Now">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "Սինք">

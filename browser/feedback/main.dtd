@@ -45,7 +45,7 @@
 <!ENTITY testpilot.settings.readyToSubmit.label     "Ուսումնասիրությունը պատրաստ է ուղարկման">
 <!ENTITY testpilot.settings.newStudy.label          "Կա նոր ուսումնասիրություն">
 <!ENTITY testpilot.settings.hasNewResults.label     "Կա ուսումնասիրության նոր արդյունք">
-<!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatically submit my data (don't ask me)">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Ավտոմատ կերպով ուղարկել իմ տվյալները (ինձ չհարցնել)">
 <!ENTITY testpilot.allYourStudies.label             "Ձեր բոլոր ուսումնասիրությունները…">
 <!ENTITY testpilot.about.label                      "Փորձարարի մասին">
 
