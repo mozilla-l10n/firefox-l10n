@@ -43,9 +43,9 @@
 <!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
 <!ENTITY syncKey.keepItSafe.heading       "Պահեք այն անվտանգ">
 <!ENTITY syncKey.keepItSafe1.description  "Չկորցնեք այս բանալին:">
-<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
+<!ENTITY syncKey.keepItSafe2.description  " Մենք չենք պահպանում ձեր բանալու կրկնօրինակը (դա գաղտնիություն չի ապահովի!) ուստի  ">
 <!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe4.description  "  եթե այն կորչի: Դուք պետք է օգտվեք այս բանալուց ամեն անգամ, երբ դուք միացնում եք նոր համակարգիչ կամ սարք &syncBrand.fullName.label;-ին:">
 <!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
