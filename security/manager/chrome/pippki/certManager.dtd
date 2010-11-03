@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "u">
 
 <!ENTITY exceptionMgr.title                   "Sicherheits-Ausnahmeregel hinzufügen">
-<!ENTITY exceptionMgr.exceptionButton         "Sicherheits-Ausnahmeregel bestätigen">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "S">
+<!ENTITY exceptionMgr.exceptionButton.label   "Sicherheits-Ausnahmeregel bestätigen">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "S">
 <!ENTITY exceptionMgr.supplementalWarning     "Seriöse Banken, Geschäfte und andere öffentliche Seiten werden Sie nicht bitten, Derartiges zu tun.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">
