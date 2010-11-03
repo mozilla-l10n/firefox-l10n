@@ -20,7 +20,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "ආකෘතියක් ලෙස">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "නව ලිපි ලබාගන්න">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "සියලු ගිණුම් සඳහා වූ">
@@ -377,7 +376,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteButton.tooltip "තෝරාගත් ලිපි හෝ බහලුම් මැකීමට">
 <!ENTITY fileButton.tooltip "තෝරාගත් ලිපිය ගොනුගත කරන්න">
 <!ENTITY forwardButton.tooltip "තෝරාගත් ලිපිය යොමු කිරීමට">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY goBackButton.tooltip "පෙර ලිපියට">
 <!ENTITY junkButton.tooltip "තෝරාගත් ලිපි නිසරු සේ සළකුණු කිරීමට">
 <!ENTITY markButton.tooltip "ලිපි සළකුණු කිරීමට">
@@ -425,9 +423,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSettings.label "සැකසුම්…">
 <!ENTITY folderContextSettings.accesskey "e">
 
-<!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "නම් හෝ ලිපියේ අඩංගු:">
-<!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY totalColumn.label "එකතුව">
@@ -473,8 +468,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!--  Mac OS X Window Menu -->
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY SearchSubjectOrFrom.label "Subject or From contains:">
-<!ENTITY SearchSubjectOrFrom.accesskey "S">
 <!ENTITY advancedButton.tooltip "Advanced message search">
 <!ENTITY advancedButton.label "Advanced…">
 <!ENTITY advancedButton.accesskey "A">
@@ -488,12 +481,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY getNewMsgCmd.label "Get New Messages">
 <!ENTITY getNewMsgCmd.accesskey "G">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY goBackButton.label "Go Back">
 <!ENTITY goForwardButton.label "Go Forward">
 <!ENTITY junkBarButton.label "This is Not Junk">
 <!ENTITY loadRemoteContentButton.label "Show Remote Content">
-<!ENTITY locationToolbar.tooltip "Location Toolbar">
 <!ENTITY mailToolbar.tooltip "Mail Toolbar">
 <!ENTITY markAsNotPhishCmd.label "As Not Scam">
 <!ENTITY markAsNotPhishCmd.accesskey "S">
@@ -524,8 +515,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
 <!ENTITY showFolderPaneCmd.label "බහලුම් පුවරුව">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showLocationToolbarCmd.label "පිහිටුම් මෙවලම්තීරුව">
-<!ENTITY showLocationToolbarCmd.accesskey "L">
 <!ENTITY showMessagePaneCmd.label "පණිවිඩ පුවරුව">
 <!ENTITY showMessagePaneCmd.accesskey "M">
 <!-- showSearchToolbarCmd is also used by addressbook -->
@@ -543,3 +532,67 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY pageSourceCmd.label "පණිවිඩ මූලය">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY openFeedMessage.label "Open Feed Message">
+<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
+<!ENTITY contextArchive.label "Archive">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY tabmailNewButton.tooltip "Duplicate current tab">
+<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY viewFeedWebPage.label "Web Page">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY goBackCmd.accesskey "B">
+<!ENTITY newTabCmd.label "Duplicate Tab">
+<!ENTITY newPlainTextMessageCmd.label "Compose in Plain Text">
+<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
+<!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY tabmailCloseButton.tooltip "Close current tab">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY mdnBarIgnoreButton.label "Ignore Request">
+<!ENTITY newHTMLMessageCmd.label "Compose in HTML">
+<!ENTITY mdnBarSendButton.label "Send Receipt">
+<!ENTITY newPlainTextMessageCmd.accesskey "P">
+<!ENTITY newTabCmd.accesskey "T">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY folderContextOpenNewTab.label "Open in New Tab">
+<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY undeleteButton.label "Undelete">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+<!ENTITY bodyMenuFeed.label "Feed Message Body As">
+<!ENTITY showThreadPaneCmd.accesskey "T">
+<!ENTITY closeTabCmd.label "Close Tab">
+<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
+<!ENTITY getAllNewMsgCmd2.key "d">
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
+<!ENTITY getNewMsgCmd2.key "d">
+<!ENTITY searchToolbar.tooltip "Search Bar">
+<!ENTITY tabmailClose.label "Close Tab">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
+<!ENTITY showThreadPaneCmd.label "Thread Pane">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
+<!ENTITY tabmailClose.tooltip "Close tab">
+<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
+<!ENTITY searchButton.title "Advanced Search">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
+<!ENTITY undeleteButton.tooltip "Undelete selected message">
+<!ENTITY tabmailAllTabs.tooltip "List all tabs">
+<!ENTITY contextOpenNewTab.label "Open Message in New Tab">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY searchButton.label "Search Messages…">
+<!ENTITY viewFeedSummary.label "Summary">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY searchButton.accesskey "S">

@@ -1,0 +1,12 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY moveTo.label "Move to:">
+<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY window.title "Choose Folder">
+<!ENTITY window.style "width: 36em; height: 18em;">
+<!ENTITY newFolderButton.label "New Folder">

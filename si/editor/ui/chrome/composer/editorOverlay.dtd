@@ -499,3 +499,11 @@
 <!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "පටුන...">
 <!ENTITY tocMenu.accesskey        "b">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY pasteAsQuotationCmd.key "o">

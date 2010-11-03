@@ -19,3 +19,13 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Links only">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "o">
 
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY findAsYouTypeFindbarEnable.label "Show the find toolbar during find as you type">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Note: Find as you type without showing the findbar does not allow international text entry.">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "S">
