@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "Neu laden">
 <!ENTITY stop.label            "Stopp">
 <!ENTITY go.label              "Go">
-<!ENTITY openLocation.label    "Adresse öffnen">
 <!ENTITY star.label            "Markieren">
 
 <!ENTITY newtab.label          "Neuer Tab">
@@ -20,21 +19,15 @@
 <!ENTITY noSuggestions.label   "(Keine Vorschläge)">
 <!ENTITY addToDictionary.label "Zu Wörterbuch hinzufügen">
 
+<!ENTITY allPagesHeader.label      "Alle Seiten">
 <!ENTITY bookmarksHeader.label     "Lesezeichen">
-<!ENTITY bookmarksManage.label     "Verwalten">
+<!ENTITY historyHeader.label       "Chronik">
+<!ENTITY desktopHeader.label       "Desktop">
 
-<!ENTITY editBookmarkRemove.label  "Entfernen">
 <!ENTITY editBookmarkDone.label    "Fertig">
 <!ENTITY editBookmarkTags.label    "Schlagwörter hier eintragen">
 
-<!ENTITY helperApp.prompt          "Was soll damit getan werden">
-<!ENTITY helperApp.open            "Öffnen">
-<!ENTITY helperApp.save            "Speichern">
-<!ENTITY helperApp.nothing         "Nichts">
-
-<!ENTITY formHelper.previous       "Vorheriges">
-<!ENTITY formHelper.next           "Nächstes">
-<!ENTITY formHelper.done           "Fertig">
+<!ENTITY selectHelper.done         "Fertig">
 
 <!ENTITY addonsHeader.label        "Add-ons">
 <!ENTITY addonsLocal.label         "Ihre Add-ons">
@@ -63,6 +56,7 @@
 <!ENTITY downloadResume.label      "Fortsetzen">
 <!ENTITY downloadRetry.label       "Nochmals versuchen">
 <!ENTITY downloadRemove.label      "Entfernen">
+<!ENTITY downloadDelete.label      "Löschen">
 <!ENTITY downloadFailed.label      "Fehlgeschlagen">
 
 <!ENTITY noResults.label           "Keine Ergebnisse">
@@ -92,3 +86,24 @@
 <!ENTITY consoleErrFile.label      "Quelldatei:">
 <!ENTITY consoleErrLine.label      "Zeile:">
 <!ENTITY consoleErrColumn.label    "Spalte:">
+
+<!ENTITY contextOpenInNewTab.label    "Link in neuem Tab öffnen">
+<!ENTITY contextSaveLink.label        "Link speichern">
+<!ENTITY contextSaveImage.label       "Grafik speichern">
+<!ENTITY contextShareLink.label       "Link teilen">
+<!ENTITY contextShareImage.label      "Grafik teilen">
+<!ENTITY contextSaveVideo.label       "Video speichern">
+<!ENTITY contextShareVideo.label      "Video teilen">
+<!ENTITY contextPlayMedia.label       "Abspielen">
+<!ENTITY contextPauseMedia.label      "Anhalten">
+<!ENTITY contextFullScreen.label      "Vollbild">
+<!ENTITY contextEditBookmark.label    "Bearbeiten">
+<!ENTITY contextRemoveBookmark.label  "Entfernen">
+
+<!ENTITY pageactions.saveas.pdf      "Als PDF speichern">
+<!ENTITY pageactions.share.page      "Seite teilen">
+<!ENTITY pageactions.password.forget "Passwort vergessen">
+<!ENTITY pageactions.reset           "Seiten-Einstellungen löschen">
+<!ENTITY pageactions.findInPage      "In Seite suchen">
+<!ENTITY pageactions.search.addNew   "Suchmaschine hinzufügen">
+
