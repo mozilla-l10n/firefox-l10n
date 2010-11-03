@@ -164,7 +164,7 @@
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blockiert von der Content-Security-Policy (CSP)">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hat diese Webseite daran gehindert, auf diese Weise geladen zu werden, weil die Webseite eine Content-Security-Policy (CSP) hat, die dies nicht erlaubt./p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hat diese Webseite daran gehindert, auf diese Weise geladen zu werden, weil die Webseite eine Content-Security-Policy (CSP) hat, die dies nicht erlaubt.</p>">
 
 
 <!ENTITY securityOverride.linkText "Oder Sie können eine Ausnahme hinzufügen…">
