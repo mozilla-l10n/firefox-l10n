@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey "i">
 
 <!ENTITY exceptionMgr.title "Dodaj varnostno izjemo">
-<!ENTITY exceptionMgr.exceptionButton "Potrdi varnostno izjemo">
-<!ENTITY exceptionMgr.exceptionButtonAccess "z">
+<!ENTITY exceptionMgr.exceptionButton.label "Potrdi varnostno izjemo">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "z">
 <!ENTITY exceptionMgr.supplementalWarning "Uveljavljene banke, trgovine in druge javne strani vas ne bodo prosile za to.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Strežnik">
 <!ENTITY exceptionMgr.certlocation.url "Lokacija:">
