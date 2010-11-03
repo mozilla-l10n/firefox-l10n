@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader.label           "Beta-Tester-Werkzeuge">
+
+<!ENTITY feedback.communicate.title     "Kommunizieren Sie mit uns!">
+<!ENTITY feedback.feedback.title        "Feedback senden">
+<!ENTITY feedback.feedback.good         "Gut">
+<!ENTITY feedback.feedback.bad          "Schlecht">
+
+<!ENTITY feedback.information.title     "Weitere Informationen">
+<!ENTITY feedback.about.title           "Über diese Beta">
+<!ENTITY feedback.about.button          "Auf Website gehen">
+
+<!ENTITY feedback.tools.title           "Werkzeuge">
+<!ENTITY feedback.forceCompat.title     "Add-on-Kompatibilität erzwingen">
+<!ENTITY feedback.errorConsole.title    "Fehler-Konsole aktivieren">
