@@ -13,6 +13,8 @@
 <!ENTITY  proportional.label                      "आनुपतिक:">
 <!ENTITY  proportional.accesskey                  "P">
 
+<!ENTITY  font.langGroup.tibetan                  "तिब्बती">
+
 <!ENTITY  serif.label                             "सेरिफ़:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "सैंस-सेरिफ़:">

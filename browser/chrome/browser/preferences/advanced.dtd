@@ -42,9 +42,6 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "यहाँ तक प्रयोग करें">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "कैश के लिए MB स्थान">
 <!ENTITY clearCacheNow.label             "अब साफ करें">
 <!ENTITY clearCacheNow.accesskey         "C">
 
@@ -53,8 +50,6 @@
 <!ENTITY autoCheck.label                 "यहाँ अद्यतन के लिए स्वतः जाँचें:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "संस्थापित सहयुक्तियाँ">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
 <!ENTITY enableSearchUpdate.label        "खोज इंजन">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!ENTITY whenUpdatesFound.label          "जब &brandShortName; का अद्यतन पाया जाता है:">
@@ -99,3 +94,27 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति">
 <!ENTITY viewSecurityDevices.accesskey   "y">
+
+
+<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey          "h">
+
+<!ENTITY enableAddonsUpdate2.label       "Add-ons">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB of space">
+
+<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+
+
+<!ENTITY submitCrashes.label             "Submit crash reports">
+<!ENTITY submitCrashes.accesskey         "S">
