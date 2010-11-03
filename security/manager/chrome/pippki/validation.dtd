@@ -46,7 +46,7 @@
 <!ENTITY  validation.deletecrl.accesskey          "D">
 <!ENTITY  validation.updatecrl.label              "ಅಪ್‌ಡೇಟ್">
 <!ENTITY  validation.updatecrl.accesskey          "U">
-<!ENTITY  validation.advanced.label               "ಸಂಯೋಜನೆಗಳು">
+<!ENTITY  validation.advanced.label               "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY  validation.advanced.accesskey           "S">
 
 <!ENTITY  validation.crl.autoupdate.title         "ಸ್ವಯಂಚಾಲಿತ CRL ಅಪ್‌ಡೇಟ್ ಆದ್ಯತೆಗಳು">
@@ -64,4 +64,4 @@
 <!ENTITY  crl.import.nextupdate.label             "ಮುಂದಿನ ಅಪ್‌ಡೇಟ್: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "ಅನುಕ್ರಮವಾಗಿ ಈ ಹಿಂದೆ  ವಿಫಲಗೊಂಡಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳು: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "ಈ ಹಿಂದೆ ವಿಫಲಗೊಂಡ ಅಪ್‌ಡೇಟ್‌ನ ವಿವರಗಳು: ">
-<!ENTITY  edit.button                             "ಸಂಯೋಜನೆಗಳು">
+<!ENTITY  edit.button                             "ಸಿದ್ಧತೆಗಳು">

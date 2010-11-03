@@ -26,8 +26,8 @@
 
 <!ENTITY connection.label                "ಸಂಪರ್ಕ">
 
-<!ENTITY connectionDesc.label            "&brandShortName; ಹೇಗೆ ಅಂತರ್ಜಾಲಕ್ಕೆ ಸಂಪರ್ಕಿತಗೊಳ್ಳಬೇಕೆಂದು ಸಂರಚಿಸಿ ">
-<!ENTITY connectionSettings.label        "ಸಂಯೋಜನೆಗಳು...">
+<!ENTITY connectionDesc.label            "&brandShortName; ಹೇಗೆ ಅಂತರಜಾಲಕ್ಕೆ ಸಂಪರ್ಕಿತಗೊಳ್ಳಬೇಕೆಂದು ಸಂರಚಿಸಿ ">
+<!ENTITY connectionSettings.label        "ಸಿದ್ಧತೆಗಳು...">
 <!ENTITY connectionSettings.accesskey    "e">
 
 
