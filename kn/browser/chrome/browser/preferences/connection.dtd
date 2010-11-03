@@ -1,10 +1,10 @@
 
-<!ENTITY  connectionsDialog.title       "ಸಂಪರ್ಕ ಸಂಯೋಜನೆಗಳು">
+<!ENTITY  connectionsDialog.title       "ಸಂಪರ್ಕ ಸಿದ್ಧತೆಗಳು">
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "ಅಂತರಜಾಲವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಪ್ರಾಕ್ಸಿಗಳನ್ನು ಸಂರಚಿಸು">
-<!ENTITY  WPADTypeRadio.label           "ಈ ಜಾಲಬಂಧಕ್ಕೆ  ಪ್ರಾಕ್ಸಿ ಸಂಯೋಜನೆಗಳನ್ನು ನೀನಾಗಿಯೆ ಹುಡುಕು">
+<!ENTITY  WPADTypeRadio.label           "ಈ ಜಾಲಬಂಧಕ್ಕೆ  ಪ್ರಾಕ್ಸಿ ಸಿದ್ಧತೆಗಳನ್ನು ನೀನಾಗಿಯೆ ಹುಡುಕು">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "ಹಸ್ತಮುಖೇನ ಪ್ರಾಕ್ಸಿ ಸಂರಚನೆ:">
 <!ENTITY  manualTypeRadio.accesskey     "m">

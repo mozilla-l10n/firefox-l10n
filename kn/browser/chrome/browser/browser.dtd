@@ -281,7 +281,7 @@
 <!ENTITY pageStylePersistentOnly.label "ಮೂಲ  ಪುಟದ ಶೈಲಿ">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "ಈ ಜಾಲ ತಾಣಕ್ಕೆ ಪುಟಿಕೆ ನಿರ್ಬಂಧಿಸುವಸಂಯೋಜನೆಗಳನ್ನು ಬದಲಾಯಿಸು">
+<!ENTITY pageReportIcon.tooltip            "ಈ ಜಾಲ ತಾಣಕ್ಕೆ ಪುಟಿಕೆ ನಿರ್ಬಂಧಿಸುವಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but

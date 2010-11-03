@@ -59,10 +59,10 @@
 
 <!-- Prefs panel strings -->
 <!ENTITY pref.security.general.lHeader "ಸುರಕ್ಷತೆ">
-<!ENTITY pref.security.general.rHeader "ಸಾಮಾನ್ಯ ಸುರಕ್ಷತೆಗಾಗಿನ ಸಂಯೋಜನೆಗಳು">
-<!ENTITY pref.security.general.header "ಸಾಮಾನ್ಯ ಸುರಕ್ಷತೆಗಾಗಿನ ಸಂಯೋಜನೆಗಳು">
+<!ENTITY pref.security.general.rHeader "ಸಾಮಾನ್ಯ ಸುರಕ್ಷತೆಗಾಗಿನ ಸಿದ್ಧತೆಗಳು">
+<!ENTITY pref.security.general.header "ಸಾಮಾನ್ಯ ಸುರಕ್ಷತೆಗಾಗಿನ ಸಿದ್ಧತೆಗಳು">
 <!ENTITY pref.security.general.level.title "ಸುರಕ್ಷತಾ ಮಟ್ಟ">
-<!ENTITY pref.security.general.paranoid.label "ಪಾರನಾಯ್ಡ್‍(paranoid) ಸುರಕ್ಷತಾ ಸಂಯೋಜನೆಗಳನ್ನು ಬಳಸಿ">
+<!ENTITY pref.security.general.paranoid.label "ಪಾರನಾಯ್ಡ್‍(paranoid) ಸುರಕ್ಷತಾ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸಿ">
 <!ENTITY pref.security.general.certificates.title "ಪ್ರಮಾಣಪತ್ರಗಳು">
 <!ENTITY pref.security.general.manageCert.label "ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ವ್ಯವಸ್ಥಾಪಿಸು">
 

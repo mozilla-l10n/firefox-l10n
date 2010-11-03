@@ -37,7 +37,7 @@
 
 <!ENTITY print.label          "ಮುದ್ರಿಸು...">
 <!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "ಪುಟದ ಸಂಯೋಜನೆಗಳು...">
+<!ENTITY pageSetup.label      "ಪುಟದ ಸಿದ್ಧತೆಗಳು...">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "ಪುಟ:">
 <!ENTITY page.accesskey       "a">
