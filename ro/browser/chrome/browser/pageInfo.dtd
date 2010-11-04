@@ -99,8 +99,8 @@
 <!ENTITY  permInstall           "Instalează extensii sau teme">
 <!ENTITY  permGeo               "Dezvăluie locul unde sunt">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permIndexedDB              "Întrețineți stocarea offline">
+<!ENTITY  permClearStorage           "Curăță datele stocate">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Securitate">

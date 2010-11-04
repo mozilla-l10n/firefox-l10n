@@ -1,4 +1,4 @@
-<!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
+<!ENTITY quota.dialogTitle.label    "Cotă server">
+<!ENTITY quota.retrievingInfo.label "Se cer informații despre cotă…">
 <!ENTITY quota.typeColumn.label     "Tip">
 <!ENTITY quota.sizeColumn.label     "Mărime">

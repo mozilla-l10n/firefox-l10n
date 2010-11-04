@@ -3,7 +3,7 @@
 <!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
+<!ENTITY button.createNewAccount.label "Creează un cont nou">
 <!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
 
 <!ENTITY setup.choicePage.title.label     "Ați mai folosit &syncBrand.fullName.label;?">
@@ -14,19 +14,19 @@
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "Server &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "Folosește un server personalizat">
-<!ENTITY signIn.account.label       "Email Address / User Name">
-<!ENTITY signIn.account.accesskey   "E">
-<!ENTITY signIn.password.label      "Password">
+<!ENTITY signIn.account.label       "Adresă de email / Nume de utilizator">
+<!ENTITY signIn.account.accesskey   "e">
+<!ENTITY signIn.password.label      "Parolă">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY signIn.serverURL.label     "URL către server">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
+<!ENTITY setup.newAccountDetailsPage.title.label "Detalii despre cont">
+<!ENTITY setup.confirmPassword.label  "Confirmați parola">
 <!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
-<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.emailAddress.label     "Adresa de email">
+<!ENTITY setup.emailAddress.accesskey "e">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Sunt de acord cu">
@@ -40,15 +40,15 @@
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
 <!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyStrength.label     "Strength:">
-<!ENTITY syncKeyHelp.label         "What does the strength mean?">
+<!ENTITY syncKeyEntry.label        "Cheia de sincronizare">
+<!ENTITY syncKeyEntry.accesskey    "C">
+<!ENTITY syncKeyGenerate.label     "Generează">
+<!ENTITY syncKeyStrength.label     "Putere:">
+<!ENTITY syncKeyHelp.label         "Ce înseamnă această putere?">
 <!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.print.label     "Tipărește…">
+<!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label      "Salvează…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
@@ -68,24 +68,24 @@
 <!ENTITY verifying.label              "Se verifică…">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY setup.optionsPage.title      "Opțiuni de sincronizare">
+<!ENTITY syncComputerName.label       "Nume calculator:">
+<!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "Sincronizează">
+<!ENTITY engine.bookmarks.label     "Semne de carte">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.tabs.label          "File">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Istoric">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.label     "Parole">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.label         "Preferințe">
+<!ENTITY engine.prefs.accesskey     "P">
 
 <!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
+<!ENTITY choice2.merge.recommended.label "Recomandat:">
 <!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
 
@@ -99,6 +99,6 @@
 <!ENTITY confirm.server.warning.label "AVERTISMENT: Datele dumneavoastră locale din &brandShortName; vor înlocui datele de pe aceste dispozitive!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
+<!ENTITY setup.successPage.title "Configurare finalizată">
+<!ENTITY changeOptions.label "Puteți schimba această preferință selectând opțiunile de mai jos.">
 <!ENTITY continueUsing.label "You may now continue using &brandShortName;.">

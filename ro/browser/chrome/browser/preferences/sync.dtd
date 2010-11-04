@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Cont &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Current Account:">
+<!ENTITY currentAccount.label         "Contul curent:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Actualizează">
@@ -14,28 +14,28 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gestionează contul">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY viewQuota.label              "Arată cota">
 <!ENTITY changePassword.label         "Schimbare parolă">
-<!ENTITY mySyncKey.label              "My Sync Key">
+<!ENTITY mySyncKey.label              "Cheia mea de sincronizare">
 <!ENTITY resetSync.label              "Resetează sincronizarea">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!ENTITY stopUsingAccount.label       "Oprește utilizarea acestui cont">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sincronizare cu navigatorul">
 <!ENTITY syncComputerName.label       "Nume calculator:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "Sincronizează">
+<!ENTITY engine.bookmarks.label     "Semne de carte">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.tabs.label          "File">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Istoric">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.label     "Parole">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.label         "Preferințe">
+<!ENTITY engine.prefs.accesskey     "P">
 
 
 <!-- Footer stuff -->

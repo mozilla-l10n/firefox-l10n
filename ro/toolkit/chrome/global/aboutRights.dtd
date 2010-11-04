@@ -49,7 +49,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; folosește servicii de informare bazate pe web (&quot;Servicii&quot;) pentru a vă furniza unele funcționalități în această copie binară de &brandShortName; sub condițiile descrise mai jos. Dacă nu doriți să folosiți unul sau mai multe servicii sau condițiile de mai jos sunt inacceptabile, puteți dezactiva funcționalitatea sau serviciul respectiv. Instrucțiuni pentru dezactivarea fiecărei funcționalități sau serviciu în parte pot fi găsite la ">
-<!ENTITY rights2.webservices-b "here">
+<!ENTITY rights2.webservices-b "aici">
 <!ENTITY rights2.webservices-c ".">
 
 <!-- safe browsing points for branded builds -->
@@ -58,13 +58,13 @@
 <!ENTITY rights.safebrowsing-term1 "Deschideți preferințele aplicației">
 <!ENTITY rights.safebrowsing-term2 "Selectați tabul Securitate">
 <!ENTITY rights.safebrowsing-term3 "Debifați opțiunile „&blockAttackSites.label;” și „&blockWebForgeries.label;”">
-<!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
+<!ENTITY rights.safebrowsing-term4 "Navigarea fără urme este dezactivată">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Navigare conștientă de locație: ">
 <!ENTITY rights.locationawarebrowsing-b "e întotdeauna opțională. Nu se transmit niciodată informații despre locația dumneavoastră fără a vi se cere permisiunea. Dacă doriți să dezactivați această funcționalitate, urmați acești pași:">
 <!ENTITY rights.locationawarebrowsing-term1a "În bara adresei, tastați ">
-<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term1b "despre:configurație">
 <!ENTITY rights.locationawarebrowsing-term2 "Tastați geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Clic dublu pe preferința geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "Navigarea conștientă de locație este acum dezactivată">
