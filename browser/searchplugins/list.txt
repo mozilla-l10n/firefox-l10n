@@ -1,7 +1,5 @@
-google
 amazondotcom
+bing
 eBay
-yahoo
-creativecommons
-answers
+google
 wikipedia-lt
