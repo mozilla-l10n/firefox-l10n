@@ -9,6 +9,5 @@
 <!ENTITY aboutPage.checkForUpdates.checking "Поиск обновлений…">
 <!ENTITY aboutPage.checkForUpdates.none "Обновления отсутствуют">
 <!ENTITY aboutPage.checkForUpdates.found "Доступно обновление">
-<!ENTITY aboutPage.copyrightInfo1 "©1998–2010 Участники проекта. Все права защищены. (">
 <!ENTITY aboutPage.licenseLink "Информация о лицензии">
-<!ENTITY aboutPage.copyrightInfo2 ").">
+<!ENTITY aboutPage.licenseLinkSuffix ".">
