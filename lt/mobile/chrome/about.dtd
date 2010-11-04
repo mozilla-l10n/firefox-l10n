@@ -43,6 +43,5 @@
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169; 1998 – 2009 bendradarbiai. Visos teisės priklauso autoriams. ">
 <!ENTITY aboutPage.licenseLink                  "Programos licencija">
-<!ENTITY aboutPage.copyrightInfo2               "">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
