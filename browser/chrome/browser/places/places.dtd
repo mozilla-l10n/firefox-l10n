@@ -95,7 +95,7 @@
 <!ENTITY search.label                              "Caută în:">
 <!ENTITY search.accesskey                          "C">
 
-<!ENTITY search.in.label                           "Search in:">
+<!ENTITY search.in.label                           "Caută în:">
 <!ENTITY search.scopeFolder.label                  "Dosarul selectat">
 <!ENTITY search.scopeFolder.accesskey              "D">
 <!ENTITY search.scopeBookmarks.label               "Semne de carte">
@@ -126,17 +126,17 @@
 <!ENTITY detailsPane.noPreviewAvailable.label "Previzualizare">
 <!ENTITY detailsPane.selectAnItemText.description "Selectați un element pentru a-l vedea și a-i edita proprietățile">
 
-<!ENTITY find.label               "Search:">
-<!ENTITY find.accesskey           "S">
-<!ENTITY view.label               "View">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "By Date">
+<!ENTITY find.label               "Căutare:">
+<!ENTITY find.accesskey           "C">
+<!ENTITY view.label               "Vizualizare">
+<!ENTITY view.accesskey           "V">
+<!ENTITY byDate.label             "După dată">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "By Site">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "By Most Visited">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "By Last Visited">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "By Date and Site">
+<!ENTITY bySite.label             "După sait">
+<!ENTITY bySite.accesskey         "s">
+<!ENTITY byMostVisited.label      "După cele mai vizitate">
+<!ENTITY byMostVisited.accesskey  "v">
+<!ENTITY byLastVisited.label      "După ultimele vizitate">
+<!ENTITY byLastVisited.accesskey  "l">
+<!ENTITY byDayAndSite.label       "După dată și sait">
 <!ENTITY byDayAndSite.accesskey   "t">

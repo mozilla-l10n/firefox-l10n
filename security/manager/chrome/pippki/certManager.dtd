@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "Adaugă excepție de la securitate">
-<!ENTITY exceptionMgr.exceptionButton         "Confirmă excepția de la securitate">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirmă excepția de la securitate">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Băncile autorizate, magazinele și alte saituri publice nu vă vor cere să faceți asta.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresă:">

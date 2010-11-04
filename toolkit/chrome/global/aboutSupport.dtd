@@ -15,7 +15,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorul de profile">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Module activate">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurație de construcție">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agent de utilizator">
 
 <!ENTITY aboutSupport.show.label "Deschide dosarul conținător">
 
