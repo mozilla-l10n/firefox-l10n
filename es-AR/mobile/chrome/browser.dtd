@@ -106,3 +106,5 @@
 <!ENTITY pageactions.reset           "Borrar preferencias del sitio">
 <!ENTITY pageactions.findInPage      "Buscar ne la página">
 <!ENTITY pageactions.search.addNew   "Agregar buscador">
+
+<!ENTITY selectHelper.emptytext      "Lista de filtros">
