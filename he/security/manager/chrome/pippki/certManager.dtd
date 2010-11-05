@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "ח">
 
 <!ENTITY exceptionMgr.title                   "הוסף חריגת אבטחה">
-<!ENTITY exceptionMgr.exceptionButton         "אמת חריגת אבטחה">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "א">
+<!ENTITY exceptionMgr.exceptionButton.label   "אמת חריגת אבטחה">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "א">
 <!ENTITY exceptionMgr.supplementalWarning     "בנקים, חנויות ואתרים לגיטימיים אחרים לא יבקשו ממך לעשות זאת.">
 <!ENTITY exceptionMgr.certlocation.caption2   "שרת">
 <!ENTITY exceptionMgr.certlocation.url        "מיקום:">
