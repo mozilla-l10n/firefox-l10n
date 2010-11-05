@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "קדימה">
 <!ENTITY forwardCmd.accesskey         "ק">
 <!ENTITY forwardButton.tooltip        "התקדם דף אחד קדימה">
-<!ENTITY backForwardMenu.tooltip      "דפים אחרונים">
 <!ENTITY reloadCmd.label              "טען מחדש">
 <!ENTITY reloadCmd.accesskey          "ט">
 <!ENTITY reloadButton.tooltip         "טען מחדש דף נוכחי">
@@ -139,7 +138,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "קבוצות לשוניות">
 <!ENTITY tabGroupsButton.tooltip      "קבץ את הלשוניות שלך">
 
-<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.label             "רישום כמנוי">
 <!ENTITY feedButton.tooltip           "הירשם לדף זה…">
 
 <!ENTITY bookmarksButton.label          "סימניות">
@@ -149,7 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "סימניות">
 <!ENTITY bookmarksMenuButton.tooltip        "הצגת הסימניות שלך">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
+<!ENTITY bookmarksMenuButton.unsorted.label "סימניות לא ממויינות">
 <!ENTITY viewBookmarksSidebar.label         "הצג בסרגל הצד">
 <!ENTITY viewBookmarksToolbar.label         "הצג סרגל סימניות">
 
