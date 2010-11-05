@@ -18,3 +18,12 @@
 <!ENTITY homepage.none                             "ਖਾਲੀ ਸਫ਼ਾ">
 <!ENTITY homepage.default                          "&brandShortName; ਸ਼ੁਰੂ">
 <!ENTITY homepage.currentpage                      "ਮੌਜੂਦਾ ਸਫ਼ਾ ਵਰਤੋਂ">
+
+<!ENTITY sync.title                                "ਸਿੰਕ">
+<!ENTITY sync.account2                             "ਅਕਾਊਂਟ ਨਾਂ">
+<!ENTITY sync.password                             "ਪਾਸਵਰਡ">
+<!ENTITY sync.syncKey                              "ਸਿੰਕ ਕੁੰਜੀ">
+<!ENTITY sync.deviceName                           "ਜੰਤਰ ਨਾਂ">
+<!ENTITY sync.connect                              "ਕੁਨੈਕਟ ਕਰੋ">
+<!ENTITY sync.disconnect                           "ਡਿਸ-ਕੁਨੈਕਟ ਕਰੋ">
+<!ENTITY sync.syncNow                              "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
