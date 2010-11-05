@@ -23,7 +23,7 @@
 <!ENTITY bottomLinks.privacy        "מדיניות פרטיות">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Checking for updates…">
+<!ENTITY update.checkingForUpdates  "בודק אם ישנם עדכונים חדשים…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "בודק תאימות תוספות…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->

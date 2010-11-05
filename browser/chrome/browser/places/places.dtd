@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "חפש:">
 <!ENTITY search.accesskey                          "ח">
+
+<!ENTITY search.in.label                           "חפש בתוך:">
 <!ENTITY search.scopeFolder.label                  "תיקייה נבחרת">
 <!ENTITY search.scopeFolder.accesskey              "ת">
 <!ENTITY search.scopeBookmarks.label               "סימניות">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "פ">
 <!ENTITY detailsPane.noPreviewAvailable.label "תצוגה מקדימה">
 <!ENTITY detailsPane.selectAnItemText.description "בחר פריט כדי לצפות ולערוך את המאפיינים שלו">
+
+<!ENTITY find.label               "חפש:">
+<!ENTITY find.accesskey           "ח">
+<!ENTITY view.label               "תצוגה">
+<!ENTITY view.accesskey           "ת">
+<!ENTITY byDate.label             "לפי תאריך">
+<!ENTITY byDate.accesskey         "ל">
+<!ENTITY bySite.label             "לפי אתר">
+<!ENTITY bySite.accesskey         "ל">
+<!ENTITY byMostVisited.label      "לפי מספר הביקורים">
+<!ENTITY byMostVisited.accesskey  "ל">
+<!ENTITY byLastVisited.label      "לפי ביקור אחרון">
+<!ENTITY byLastVisited.accesskey  "ל">
+<!ENTITY byDayAndSite.label       "לפי תאריך ואתר">
+<!ENTITY byDayAndSite.accesskey   "ל">
