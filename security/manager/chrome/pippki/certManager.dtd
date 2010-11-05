@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "U">
 
 <!ENTITY exceptionMgr.title                   "Beveiligingsuitzondering toevoegen">
-<!ENTITY exceptionMgr.exceptionButton         "Beveiligingsuitzondering bevestigen">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "b">
+<!ENTITY exceptionMgr.exceptionButton.label   "Beveiligingsuitzondering bevestigen">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "b">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitieme banken, winkels en andere publieke websites zullen dit niet vragen.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Locatie:">
