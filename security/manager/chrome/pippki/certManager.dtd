@@ -123,8 +123,8 @@
 <!ENTITY certmgr.addException.label "Дадаць выключэнне…">
 <!ENTITY certmgr.addException.accesskey "в">
 <!ENTITY exceptionMgr.title "Даданне выключэння бяспекі">
-<!ENTITY exceptionMgr.exceptionButton "Сцверджанне выключэння бяспекі">
-<!ENTITY exceptionMgr.exceptionButtonAccess "в">
+<!ENTITY exceptionMgr.exceptionButton.label "Пацвердзіць выключэнне бяспекі">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "ц">
 <!ENTITY exceptionMgr.supplementalWarning "Правамоцныя банкі, біржы і іншыя прылюдныя пляцоўкі ніколі не будуць прасіць вас рабіць гэта.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Паслугач">
 <!ENTITY exceptionMgr.certlocation.url "Месцазнаходжанне:">
