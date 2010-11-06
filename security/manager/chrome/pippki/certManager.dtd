@@ -88,7 +88,7 @@
 <!ENTITY certmgr.addException.accesskey "x">
 <!ENTITY exceptionMgr.title "보안 확인 예외 목록 추가">
 <!ENTITY exceptionMgr.exceptionButton.label "보안 예외 확인">
-<!ENTITY exceptionMgr.exceptionButtonAccess.accesskey  "C">
+<!ENTITY exceptionMgr.exceptionButton.accesskey  "C">
 <!ENTITY exceptionMgr.supplementalWarning "본인이 확인한 특수한 경우에만 허용하며, 합법적인 은행, 상점 및 공공 사이트는 현재 목록에 추가할 필요가 없습니다.">
 <!ENTITY exceptionMgr.certlocation.caption2 "서버">
 <!ENTITY exceptionMgr.certlocation.url "주소:">
