@@ -106,3 +106,5 @@
 <!ENTITY pageactions.reset           "사이트 설정 제거">
 <!ENTITY pageactions.findInPage      "찾기">
 <!ENTITY pageactions.search.addNew   "검색 엔진 추가">
+
+<!ENTITY selectHelper.emptytext      "필터 목록">
