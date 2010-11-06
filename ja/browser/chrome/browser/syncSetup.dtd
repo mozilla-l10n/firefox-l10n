@@ -45,7 +45,7 @@
 <!ENTITY syncKeyGenerate.label     "生成">
 <!ENTITY syncKeyStrength.label     "強度:">
 <!ENTITY syncKeyHelp.label         "強度とは？">
-<!ENTITY syncKeyBackup.description "Sync キーは、他のパソコンから &syncBrand.fullName.label; へアクセスする際に必要となります。メモとして残しておくことをお勧めします。Sync キーを忘れた場合、元にもどす方法はありません。">
+<!ENTITY syncKeyBackup.description "Sync キーは、他のパソコンから &syncBrand.fullName.label; へアクセスする際に必要となります。メモとして残しておくことをお勧めします。Sync キーを失くすと取り戻すことはできません。">
 
 <!ENTITY button.syncKeyBackup.print.label     "印刷...">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
