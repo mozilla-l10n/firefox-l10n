@@ -175,3 +175,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "죄송합니다. 제품 소개 읽는 중 오류가 있습니다.">
 
 <!ENTITY addon.createdBy.label                "- ">
+
+<!ENTITY eula.title                           "일반 사용자 계약서">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "동의 및 설치…">

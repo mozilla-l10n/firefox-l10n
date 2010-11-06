@@ -83,8 +83,11 @@
 <!ENTITY col.description.label "설명">
 <!ENTITY col.dateadded.label "저장일">
 <!ENTITY col.lastmodified.label "마지막 수정일">
+
 <!ENTITY search.label "검색:">
 <!ENTITY search.accesskey "S">
+
+<!ENTITY search.in.label "범위 내 검색:">
 <!ENTITY search.scopeFolder.label "현재 폴더">
 <!ENTITY search.scopeFolder.accesskey "F">
 <!ENTITY search.scopeBookmarks.label     "북마크">
@@ -111,3 +114,18 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "미리 보기">
 <!ENTITY detailsPane.selectAnItemText.description "수정 및 편집할 항목을 선택">
+
+<!ENTITY find.label                "찾기:">
+<!ENTITY find.accesskey            "S">
+<!ENTITY byDate.label "날짜 순서로">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "사이트 이름 순서로">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "보기">
+<!ENTITY view.accesskey "w">
+<!ENTITY byMostVisited.label "최근 방문한 날짜 순서로">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "마지막 방문한 날짜 순서로">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "날짜 및 사이트 이름 순서로">
+<!ENTITY byDayAndSite.accesskey "t">
