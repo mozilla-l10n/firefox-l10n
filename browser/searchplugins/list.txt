@@ -1,6 +1,7 @@
 google
-yahoo-nl
+bing
 bolcom-nl
 vandale-nl
 wikipedia-nl
 marktplaats-nl
+
