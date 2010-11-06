@@ -80,6 +80,7 @@
 <!ENTITY col.lastmodified.label "Апошняе змяненне">
 <!ENTITY search.label "Пошук:">
 <!ENTITY search.accesskey "П">
+<!ENTITY search.in.label "Шукаць у:">
 <!ENTITY search.scopeFolder.label "Выбраная папка">
 <!ENTITY search.scopeFolder.accesskey "п">
 <!ENTITY search.scopeBookmarks.label "Закладкі">
@@ -104,3 +105,17 @@
 <!ENTITY detailsPane.less.accesskey "М">
 <!ENTITY detailsPane.noPreviewAvailable.label "Перадпрагляд">
 <!ENTITY detailsPane.selectAnItemText.description "Выбар адзінкі для прагляду і праўкі яе ўласцівасцяў">
+<!ENTITY find.label "Пошук:">
+<!ENTITY find.accesskey "ш">
+<!ENTITY view.label "Прагляд">
+<!ENTITY view.accesskey "г">
+<!ENTITY byDate.label "Па даце">
+<!ENTITY byDate.accesskey "д">
+<!ENTITY bySite.label "Па пляцоўцы">
+<!ENTITY bySite.accesskey "п">
+<!ENTITY byMostVisited.label "Па ліку наведванняў">
+<!ENTITY byMostVisited.accesskey "л">
+<!ENTITY byLastVisited.label "Па апошняму наведванню">
+<!ENTITY byLastVisited.accesskey "а">
+<!ENTITY byDayAndSite.label "Па даце і пляцоўцы">
+<!ENTITY byDayAndSite.accesskey "і">
