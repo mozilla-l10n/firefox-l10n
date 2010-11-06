@@ -45,7 +45,7 @@ that require it.  -->
 <!ENTITY itemSitePreferences.label         "웹 사이트 설정">
 <!ENTITY itemSitePreferences.accesskey     "S">
 
-<!ENTITY sanitizeEverythingUndoWarning     "이 작업을 실행할 수 없습니다.">
+<!ENTITY sanitizeEverythingUndoWarning     "이 작업을 취소할 수 없습니다.">
 
 <!ENTITY dialog.width                 "32em">
 <!ENTITY column.width                 "14em">

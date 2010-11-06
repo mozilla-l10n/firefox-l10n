@@ -73,7 +73,6 @@
 <!ENTITY forwardCmd.label "앞으로">
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY forwardButton.tooltip "한 페이지 앞으로 가기">
-<!ENTITY backForwardMenu.tooltip "최근 문서">
 <!ENTITY reloadCmd.label "새로 고침">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "현재 페이지 새로 고침">
