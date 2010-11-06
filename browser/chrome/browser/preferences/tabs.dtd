@@ -1,7 +1,7 @@
 <!ENTITY newWindowsAsTabs.label       "Statt neuem Fenster neuen Tab öffnen">
 <!ENTITY newWindowsAsTabs.accesskey   "F">
 
-<!ENTITY warnCloseMultipleTabs.label  "Warnen, wenn ein Fenster mit mehreren Tabs geschlossen werden soll">
+<!ENTITY warnCloseMultipleTabs.label  "Warnen, wenn mehrere Tabs geschlossen werden">
 <!ENTITY warnCloseMultipleTabs.accesskey  "W">
 
 <!ENTITY warnOpenManyTabs.label       "Warnen, wenn das gleichzeitige Öffnen mehrerer Tabs &brandShortName; verlangsamen könnte">
