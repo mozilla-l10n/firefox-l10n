@@ -38,7 +38,7 @@
 <!ENTITY threadColumn.label "Thread">
 <!ENTITY fromColumn.label "Von">
 <!ENTITY recipientColumn.label "Empfänger">
-<!ENTITY attachmentColumn.label "Attachments">
+<!ENTITY attachmentColumn.label "Anhänge">
 <!ENTITY subjectColumn.label "Betreff">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Priorität">
@@ -60,7 +60,7 @@
 <!ENTITY threadColumn.tooltip "Klicken, um Nachrichten-Threads anzuzeigen"> 
 <!ENTITY fromColumn.tooltip "Klicken, um nach Von zu sortieren">
 <!ENTITY recipientColumn.tooltip "Klicken Sie hier, um nach Empfänger zu sortieren">
-<!ENTITY attachmentColumn.tooltip "Klicken, um nach Attachments zu sortieren">
+<!ENTITY attachmentColumn.tooltip "Klicken, um nach Anhängen zu sortieren">
 <!ENTITY subjectColumn.tooltip "Klicken, um nach Betreff zu sortieren">
 <!ENTITY dateColumn.tooltip "Klicken, um nach Datum zu sortieren">
 <!ENTITY priorityColumn.tooltip "Klicken, um nach Priorität zu sortieren">

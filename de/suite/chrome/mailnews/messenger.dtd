@@ -67,7 +67,7 @@
 <!ENTITY newAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "D">
-<!ENTITY openAttachmentCmd.label "Attachments">
+<!ENTITY openAttachmentCmd.label "Anhänge">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Speichern unter">
 <!ENTITY saveAsMenu.accesskey "S">
@@ -207,7 +207,7 @@
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Empfangsreihenfolge">
 <!ENTITY sortByOrderReceivedCmd.accesskey "r">
-<!ENTITY sortByAttachmentsCmd.label "Attachments">
+<!ENTITY sortByAttachmentsCmd.label "Anhänge">
 <!ENTITY sortByAttachmentsCmd.accesskey "c">
 <!ENTITY sortAscending.label "Aufsteigend">
 <!ENTITY sortAscending.accesskey "A">
@@ -264,7 +264,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Standardformat">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Inline-Attachments anzeigen">
+<!ENTITY viewAttachmentsInlineCmd.label "Anhänge innerhalb anzeigen">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "I">
 <!ENTITY reloadCmd.label "Neu laden">
 <!ENTITY reloadCmd.accesskey "N">
@@ -348,9 +348,9 @@
 <!ENTITY forwardMsgCmd.key	"l">
 <!ENTITY forwardAsMenu.label "Weiterleiten als">
 <!ENTITY forwardAsMenu.accesskey "W">
-<!ENTITY forwardAsInline.label "Inline">
+<!ENTITY forwardAsInline.label "Innerhalb">
 <!ENTITY forwardAsInline.accesskey "I">
-<!ENTITY forwardAsAttachmentCmd.label "Attachment">
+<!ENTITY forwardAsAttachmentCmd.label "Anhang">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editMsgAsNewCmd.label "Nachricht als neu bearbeiten">
 <!ENTITY editMsgAsNewCmd.accesskey "N">
@@ -531,7 +531,7 @@
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "b">
 <!ENTITY contextForward.label "Weiterleiten">
 <!ENTITY contextForward.accesskey "W">
-<!ENTITY contextForwardAsAttachment.label "Als Attachment weiterleiten">
+<!ENTITY contextForwardAsAttachment.label "Als Anhang weiterleiten">
 <!ENTITY contextForwardAsAttachment.accesskey "A">
 <!ENTITY contextArchive.label "Archivieren">
 <!ENTITY contextArchive.accesskey "A">

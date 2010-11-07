@@ -39,12 +39,12 @@
 <!ENTITY pref.composing.messages.title        "Verfassen">
 <!ENTITY generalComposing.label               "Allgemein">
 <!ENTITY forwardMsg.label                     "Nachrichten weiterleiten:">
-<!ENTITY inline.label                         "Inline">
+<!ENTITY inline.label                         "Innerhalb">
 <!ENTITY inline.accesskey                     "I">
-<!ENTITY asAttachment.label                   "Als Attachment">
+<!ENTITY asAttachment.label                   "Als Anhang">
 <!ENTITY asAttachment.accesskey               "A">
 
-<!ENTITY replyQuoteInline.label               "Inline angezeigte Attachments in Antworten zitieren">
+<!ENTITY replyQuoteInline.label               "Innerhalb der Nachricht angezeigte Anhänge in Antworten zitieren">
 <!ENTITY replyQuoteInline.accesskey           "z">
 <!ENTITY warnOnSendAccelKey.label             "Bestätigen, wenn ein Tastaturkürzel zum Senden der Nachricht verwendet wird">
 <!ENTITY warnOnSendAccelKey.accesskey         "B">

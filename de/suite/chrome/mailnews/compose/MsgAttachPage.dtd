@@ -33,8 +33,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY caption.label "Webseite als Attachment anhängen">
-<!ENTITY enter.label "Geben Sie die Web-Adresse (URL) oder die lokale Datei an, die als Attachment angehängt werden soll:">
+<!ENTITY caption.label "Webseite anhängen">
+<!ENTITY enter.label "Geben Sie die Web-Adresse (URL) oder die lokale Datei an, die angehängt werden soll:">
 <!ENTITY enter.accesskey "G">
 <!ENTITY chooseFile.label "Datei wählen…">
 <!ENTITY chooseFile.accesskey "D">

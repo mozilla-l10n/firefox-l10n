@@ -59,7 +59,7 @@
 <!ENTITY editMessage.label                 "Entwurf bearbeiten…">
 <!ENTITY editMessage.accesskey             "E">
 
-<!ENTITY attachmentsTree.label             "Attachments:">
+<!ENTITY attachmentsTree.label             "Anhänge:">
 <!ENTITY attachmentsTree.accesskey         "A">
 <!ENTITY openAttachmentCmd.label           "Öffnen">
 <!ENTITY openAttachmentCmd.accesskey       "Ö">
