@@ -1,10 +1,10 @@
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY historyWindowTitle.label       "History">
+<!ENTITY historyWindowTitle.label       "Chronik">
 <!ENTITY menuBar.tooltip                "Menüleiste">
 <!ENTITY searchBar.tooltip              "Suchleiste">
 
-<!ENTITY search.placeholder             "History durchsuchen">
+<!ENTITY search.placeholder             "Chronik durchsuchen">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Ansicht">
 

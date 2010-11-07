@@ -20,7 +20,7 @@
 <!ENTITY scrollPgUpPgDn.accesskey        "E">
 <!ENTITY scrollPgLtPgRt.label            "Eine Seite nach links oder rechts scrollen">
 <!ENTITY scrollPgLtPgRt.accesskey        "n">
-<!ENTITY history.label                   "Vor und zurück in der Browsing History bewegen">
+<!ENTITY history.label                   "Vor und zurück in der Browser-Chronik bewegen">
 <!ENTITY history.accesskey               "V">
 <!ENTITY historyHoriz.accesskey          "z">
 <!ENTITY zoom.label                      "Die Seite vergrößern oder verkleinern">

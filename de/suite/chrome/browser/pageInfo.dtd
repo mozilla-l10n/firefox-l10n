@@ -137,7 +137,7 @@
 <!ENTITY  securityView.identity.domain   "Website:">
 <!ENTITY  securityView.identity.verifier "Verifiziert von:">
 
-<!ENTITY  securityView.privacy.header                   "Privatsphäre &amp; History">
+<!ENTITY  securityView.privacy.header                   "Privatsphäre &amp; Chronik">
 <!ENTITY  securityView.privacy.history                  "Wurde diese Website heute schon besucht?">
 <!ENTITY  securityView.privacy.cookies                  "Speichert diese Website Informationen (Cookies) auf Ihrem Computer?">
 <!ENTITY  securityView.privacy.viewCookies              "Cookies ansehen">

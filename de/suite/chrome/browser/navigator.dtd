@@ -163,7 +163,7 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Fertig">
 
-<!ENTITY historyCmd.label           "History">  
+<!ENTITY historyCmd.label           "Chronik">  
 <!ENTITY historyCmd.accesskey       "i">
 <!ENTITY history.commandKey         "h">
 
