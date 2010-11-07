@@ -3,10 +3,10 @@
 <!ENTITY pref.popups.caption "Felugró ablakok">
 
 <!ENTITY popupBlock.label "Kéretlen felugró ablakok tiltása">
-<!ENTITY popupBlock.accesskey "B">
+<!ENTITY popupBlock.accesskey "b">
 
 <!ENTITY popupExceptions.label "Engedélyezett webhelyek...">
-<!ENTITY popupExceptions.accesskey "K">
+<!ENTITY popupExceptions.accesskey "k">
 
 <!ENTITY whenBlock.description "Felugró ablak blokkolásakor:">
 <!ENTITY playSound.label "Hangjelzés:">
@@ -19,15 +19,15 @@
 <!ENTITY selectSound.label "Kiválasztás...">
 <!ENTITY selectSound.accesskey "k">
 <!ENTITY previewSound.label "Előnézet">
-<!ENTITY previewSound.accesskey "e">
+<!ENTITY previewSound.accesskey "E">
 <!ENTITY selectSound.title "Felugró ablak blokkolásának hangja">
 <!ENTITY selectSound.filter "Hangok">
 
 <!ENTITY displayIcon.label "Ikon megjelenítése a böngészőablak állapotsorában">
 <!ENTITY displayIcon.accesskey "I">
 
-<!ENTITY displayNotification.label      "Értesítés megjelenítése az ablak tetején">
-<!ENTITY displayNotification.accesskey  "m">
+<!ENTITY displayNotification.label "Értesítés megjelenítése az ablak tetején">
+<!ENTITY displayNotification.accesskey "m">
 
 <!ENTITY popupNote.description "Megjegyzés: ha minden felugró ablakot blokkol, az problémákat okozhat bizonyos webhelyek, például banki portálok vagy webáruházak működésében, mert a bejeletkezés esetleg ilyen ablakon keresztül történik. Kattintson a Súgó gombra, hogy megtudja, hogyan engedélyezheti bizonyos webhelyeknek a felugró ablakok megjelenítését, míg minden más helyről származót blokkol. A blokkolás ellenére a webhelyek képesek lehetnek más módszerrel felugró ablakot nyitni.">
 

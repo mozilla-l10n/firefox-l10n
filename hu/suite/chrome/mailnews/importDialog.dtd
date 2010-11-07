@@ -37,11 +37,16 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY importDialog.windowTitle "Importálás">
-<!ENTITY importDialog.allTitle "Teljes importálás">
-<!ENTITY importDialog.mailTitle "Levelezés">
-<!ENTITY importDialog.addressbookTitle "Címjegyzékek">
-<!ENTITY importDialog.settingsTitle "Beállítások">
-<!ENTITY importDialog.filtersTitle "Levélszűrők">
+<!ENTITY importAll.label "Import Everything">
+<!ENTITY importAll.accesskey "E">
+<!ENTITY importMail.label "Mail">
+<!ENTITY importMail.accesskey "M">
+<!ENTITY importAddressbook.label "Address Books">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label "Settings">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label "Filters">
+<!ENTITY importFilters.accesskey "F">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
@@ -53,6 +58,7 @@
 <!ENTITY importDescription2.label "Az importálás után ezek az adatok hozzáférhetők lesznek a  &brandShortName; levelezőben, illetve a címjegyzékben.">
 
 <!ENTITY selectDescription.label "Válassza ki azt a programot, amelyből importálni szeretne:">
+<!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label "&lt; Vissza">
 <!ENTITY forward.label "Tovább &gt;">
@@ -67,5 +73,7 @@
 <!ENTITY FieldDiscInputText1.label "A Netscape Communicator 4.x egy levélcímet kezel egy névjegykártyán, &brandShortName; pedig kettőt (otthoni és munkahelyi).">
 <!ENTITY FieldDiscInputText2.label "Válassza ki, hogy melyik mezőbe kerüljön az importált levélcím:">
 <!ENTITY FieldDiscWarning.label "Ez a beállítás az összes névjegykártyára érvényes lesz: ">
-<!ENTITY importDialog.homeTitle "Otthon">
-<!ENTITY importDialog.workTitle "Munkahely">
+<!ENTITY importHome.label "Home">
+<!ENTITY importHome.accesskey "H">
+<!ENTITY importWork.label "Work">
+<!ENTITY importWork.accesskey "W">

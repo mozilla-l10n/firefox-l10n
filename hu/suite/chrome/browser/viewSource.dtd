@@ -24,4 +24,4 @@
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY printSetupCmd.label "Oldalbeállítás...">
-<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printSetupCmd.accesskey "O">

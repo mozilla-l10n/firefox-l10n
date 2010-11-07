@@ -3,7 +3,7 @@
 <!ENTITY addressing.label "Szerkesztés és címzés">
 <!ENTITY addressingGroupTitle.label "Címzés">
 <!ENTITY autocompleteToMyDomain.label "Saját tartomány automatikus hozzáfűzése">
-<!ENTITY autocompleteToMyDomain.accesskey "s">
+<!ENTITY autocompleteToMyDomain.accesskey "S">
 <!ENTITY addressingText.label "E-mail címek keresésekor:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label "A globális LDAP-kiszolgáló beállításainak használata ennél a postafióknál">
@@ -12,7 +12,7 @@
 <!ENTITY editDirectories.accesskey "C">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Másik LDAP-kiszolgáló használata:">
-<!ENTITY directories.accesskey "m">
+<!ENTITY directories.accesskey "M">
 <!ENTITY directoriesNone.label "Nincs">
 <!-- am-addressing.xul -->
 
@@ -22,7 +22,7 @@
 <!ENTITY useHtml.label "Levelek írása HTML formátumban">
 <!ENTITY useHtml.accesskey "L">
 <!ENTITY autoQuote.label "Válaszoláskor az eredeti szöveg automatikus idézése">
-<!ENTITY autoQuote.accesskey "v">
+<!ENTITY autoQuote.accesskey "V">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label "Ez után">
 <!ENTITY then.accesskey "E">
@@ -33,3 +33,7 @@
 <!ENTITY place.accesskey "h">
 <!ENTITY belowText.label "az idézet alá (javasolt)">
 <!ENTITY aboveText.label "a válasz alá (az idézet fölé)">
+<!ENTITY includeSigOnReply.label "Include signature for replies">
+<!ENTITY includeSigOnReply.accesskey "s">
+<!ENTITY includeSigOnForward.label "Include signature for forwards">
+<!ENTITY includeSigOnForward.accesskey "w">

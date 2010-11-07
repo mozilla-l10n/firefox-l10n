@@ -13,7 +13,7 @@
 <!ENTITY workOffline.label "Kapcsolat nélküli üzemmód a letöltés/szinkronizálás befejezése után">
 <!ENTITY workOffline.accesskey "K">
 <!ENTITY selectButton.label "Kiválasztás...">
-<!ENTITY selectButton.accesskey "V">
+<!ENTITY selectButton.accesskey "v">
 <!ENTITY MsgSelectDesc.label "Válassza ki, hogy mely levél mappákat és hírcsoportokat szeretné használni a kapcsolat nélküli munkához. Több elem kiválasztása megnöveli a letöltési időt.">
 <!ENTITY MsgSelectInd.label "Letöltés">
 <!ENTITY MsgSelectItems.label "Kapcsolat nélküli elem neve">

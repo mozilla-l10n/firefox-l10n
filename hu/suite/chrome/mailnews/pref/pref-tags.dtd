@@ -47,8 +47,8 @@
 <!ENTITY deleteTagButton.label "Törlés">
 <!ENTITY deleteTagButton.accesskey "T">
 <!ENTITY raiseTagButton.label "Fontosság növelése">
-<!ENTITY raiseTagButton.accesskey "N">
+<!ENTITY raiseTagButton.accesskey "n">
 <!ENTITY lowerTagButton.label "Fontosság csökkentése">
-<!ENTITY lowerTagButton.accesskey "C">
+<!ENTITY lowerTagButton.accesskey "c">
 <!ENTITY restoreButton.label "Alapértelmezés visszaállítása">
-<!ENTITY restoreButton.accesskey "a">
+<!ENTITY restoreButton.accesskey "A">

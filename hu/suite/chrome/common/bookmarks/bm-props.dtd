@@ -103,6 +103,6 @@
 <!ENTITY notification.sound.label "Hangjelzés">
 <!ENTITY notification.sound.accesskey "H">
 <!ENTITY notification.alert.label "Figyelmeztetés megjelenítése">
-<!ENTITY notification.alert.accesskey "f">
+<!ENTITY notification.alert.accesskey "F">
 <!ENTITY notification.window.label "Weboldal megnyitása új ablakban">
 <!ENTITY notification.window.accesskey "W">

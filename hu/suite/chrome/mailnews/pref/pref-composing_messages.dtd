@@ -40,14 +40,14 @@
 <!ENTITY generalComposing.label "Általános">
 <!ENTITY forwardMsg.label "Levél továbbítása:">
 <!ENTITY inline.label "Beágyazva">
-<!ENTITY inline.accesskey "b">
+<!ENTITY inline.accesskey "B">
 <!ENTITY asAttachment.label "Mellékletként">
 <!ENTITY asAttachment.accesskey "M">
 
 <!ENTITY replyQuoteInline.label "Mellékletek beágyazott megtekintése a válaszokban">
 <!ENTITY replyQuoteInline.accesskey "b">
 <!ENTITY warnOnSendAccelKey.label "Jóváhagyás kérése gyorsbillentyűvel végzett levélküldéskor">
-<!ENTITY warnOnSendAccelKey.accesskey "j">
+<!ENTITY warnOnSendAccelKey.accesskey "J">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->
 <!ENTITY autoSave.label "Üzenetek automatikus mentése">
@@ -55,7 +55,7 @@
 <!ENTITY autoSaveEnd.label "percenként">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
 <!ENTITY wrapOutMsg.label "Levelek tördelése">
-<!ENTITY wrapOutMsg.accesskey "T">
+<!ENTITY wrapOutMsg.accesskey "t">
 <!ENTITY char.label "karakter szélesre">
 
 <!ENTITY spellingHeader.label "Helyesírás-ellenőrzés">
@@ -64,7 +64,7 @@
 <!ENTITY spellCheckInline.label "Helyesírás-ellenőrzés beírás közben">
 <!ENTITY spellCheckInline.accesskey "b">
 <!ENTITY languagePopup.label "Nyelv:">
-<!ENTITY languagePopup.accessKey "n">
+<!ENTITY languagePopup.accessKey "N">
 <!ENTITY moreDictionaries.label "További szótárak letöltése...">
 
 <!ENTITY defaultMessagesHeader.label "HTML-üzenetek beállításai">
@@ -73,6 +73,6 @@
 <!ENTITY size.label "Méret:">
 <!ENTITY size.accesskey "M">
 <!ENTITY fontColor.label "Szöveg:">
-<!ENTITY fontColor.accesskey "Z">
+<!ENTITY fontColor.accesskey "z">
 <!ENTITY bgColor.label "Háttér:">
 <!ENTITY bgColor.accesskey "H">

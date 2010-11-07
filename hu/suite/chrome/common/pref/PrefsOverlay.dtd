@@ -36,8 +36,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  masterpass.label             "Mesterjelszó">
-<!ENTITY  security.label               "Adatvédelem és biztonság">
-<!ENTITY  ssl.label                    "SSL">
-<!ENTITY  certs.label                  "Tanúsítványok">
-<!ENTITY  validation.label             "Érvényesítés">
+<!ENTITY masterpass.label "Mesterjelszó">
+<!ENTITY security.label "Adatvédelem és biztonság">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Tanúsítványok">
+<!ENTITY validation.label "Érvényesítés">
