@@ -69,7 +69,7 @@
 <!ENTITY cmdShowColumnsDialog.label "Columns…">
 <!ENTITY cmdShowColumnsDialog.accesskey "C">
 
-<!ENTITY cmdInsertNode.label "Insert…">
+<!ENTITY cmdInsertNode.label "Ekle…">
 <!ENTITY cmdDeleteNode.label "Sil">
 <!ENTITY cmdCopyXML.label "Copy XML">
 <!ENTITY cmdCopyXML.accesskey "X">
@@ -77,8 +77,6 @@
 <!ENTITY cmdBlink.accesskey "B">
 <!ENTITY cmdInspectBrowser.label "Inspect Contained Document">
 <!ENTITY cmdInspectBrowser.accesskey "e">
-<!ENTITY cmdInspectInNewWindow.label "Inspect in New Window">
-<!ENTITY cmdInspectInNewWindow.accesskey "N">
 
 <!ENTITY cmdShowPseudoClasses.label "Set Pseudo-classes…">
 <!ENTITY cmdShowPseudoClasses.accesskey "S">

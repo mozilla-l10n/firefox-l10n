@@ -36,6 +36,8 @@
 <!ENTITY pasteCmd.label "Yapıştır">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteGoCmd.label "Paste &amp; Go">
+<!ENTITY pasteGoCmd.accesskey "G">
 <!ENTITY deleteCmd.label "Sil">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Tümünü seç">

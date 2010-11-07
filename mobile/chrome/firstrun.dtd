@@ -1,11 +1,11 @@
 <!ENTITY firstrun.title "&brandShortName; uygulamasına hoş geldiniz">
 <!ENTITY firstrun.heading2 "&brandShortName; uygulamasına hoş geldiniz">
-<!ENTITY firstrun.sync2.title "Sync Up">
-<!ENTITY firstrun.sync2.description "Login with your Sync account info and share your history, passwords, bookmarks &amp; tabs between your desktop and mobile">
+<!ENTITY firstrun.sync2.title "Eşitle">
+<!ENTITY firstrun.sync2.description "Sync hesabınızla oturum açarak geçmişinizi, parolalarınızı, yer imlerinizi ve sekmelerinizi masaüstünüzle mobil aygıtınız arasında paylaşın">
 <!ENTITY firstrun.addons2.title "Özelleştir">
-<!ENTITY firstrun.addons2.description "Discover and install add-ons to add new functionality to your &brandShortName;">
-<!ENTITY firstrun.home2.title "Browse">
-<!ENTITY firstrun.home2.description "Skip all this and go to your personalized Start page to start browsing the web">
+<!ENTITY firstrun.addons2.description "&brandShortName; uygulamasına yeni işlevler katmak için eklentileri keşfedin ve yükleyin">
+<!ENTITY firstrun.home2.title "Göz at">
+<!ENTITY firstrun.home2.description "Tüm bunları atla ve web'de gezinmem için kişisel başlangıç sayfama git">
 <!ENTITY firstrun.features "See More Features">
 <!ENTITY firstrun.faq "S.S.S">
 <!ENTITY firstrun.privacy "Gizlilik Anlaşması">

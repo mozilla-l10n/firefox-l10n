@@ -5,10 +5,14 @@
 <!ENTITY aboutPage.rights.label "Haklarınızı bilin">
 <!ENTITY aboutPage.relNotes.label "Sürüm notları">
 <!ENTITY aboutPage.credits.label "Destekleyenler">
+<!ENTITY aboutPage.checkForUpdates.button "Güncellemeleri denetle">
+<!ENTITY aboutPage.checkForUpdates.checking "Looking for updates…">
+<!ENTITY aboutPage.checkForUpdates.none "No updates available">
+<!ENTITY aboutPage.checkForUpdates.found "Update available">
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
+-->
 
-<!ENTITY aboutPage.copyrightInfo1 "&#169;1998-2009 Katkıda bulunan herkes. Her hakkı saklıdır. (">
+
 <!ENTITY aboutPage.licenseLink "Lisans bilgisi">
-<!ENTITY aboutPage.copyrightInfo2 ").">
+<!ENTITY aboutPage.licenseLinkSuffix ".">

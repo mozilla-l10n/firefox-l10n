@@ -7,17 +7,9 @@
 <!ENTITY defaultSearchEngine.label "Arama motoru:">
 <!ENTITY defaultSearchEngine.accesskey "A">
 
-<!ENTITY openSidebarSearchPanel.label "Arama sekmesini kenar çubuğunda aç">
-<!ENTITY openSidebarSearchPanel.accesskey "m">
-
-<!ENTITY openContextSearchTab.label "Sağ tuş İnternet aramalarını yeni pencere yerine yeni sekmede aç">
-<!ENTITY openContextSearchTab.accesskey "S">
-
 <!ENTITY searchResults.label "Arama sonuçları">
 
-<!ENTITY sidebarSearchTabPref.label "Kenar çubuğu arama sekmesi tercihleri">
-<!ENTITY searchModeBasic.label "Temel">
-<!ENTITY searchModeBasic.accesskey "T">
-<!ENTITY searchModeAdvanced.label "Gelişmiş">
-<!ENTITY searchModeAdvanced.accesskey "G">
-
+<!ENTITY openInTab.label "Open new tabs for sidebar search results">
+<!ENTITY openInTab.accesskey "n">
+<!ENTITY openSidebarSearchPanel.label "Open the Search tab in the sidebar when a search is invoked">
+<!ENTITY openSidebarSearchPanel.accesskey "O">

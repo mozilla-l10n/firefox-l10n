@@ -13,6 +13,8 @@
 
 <!ENTITY manualUpdate.title "Güncelleme yapılamıyor">
 <!ENTITY manualUpdate.desc "Edinilmesi tavsiye edilen bir güvenlik ve kararlılık güncellemesi var, ancak kurmak için gerekli sistem izniniz yok. Sistem yöneticinize danışın veya bu bilgisayarda yazılım kurma iznine sahip bir hesap üzerinden yeniden deneyin.">
+<!ENTITY manualUpdate.space.desc "Kurulması tavsiye edilen güvenlik ve kararlılık güncellemesi var 
+ ancak kurulum için yeterli alanınız yok.">
 <!ENTITY manualUpdateGetMsg.label "&brandShortName; uygulamasının en son sürümüne her zaman buradan ulaşabilirsiniz:">
 
 <!ENTITY incompatibleCheck.title "Eklenti uyumluluk denetimi">

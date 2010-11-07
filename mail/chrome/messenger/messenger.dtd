@@ -148,7 +148,7 @@
 <!ENTITY sortMenu.accesskey "l">
 <!ENTITY sortByDateCmd.label "Tarih">
 <!ENTITY sortByDateCmd.accesskey "h">
-<!ENTITY sortByReceivedCmd.label "Alınmıa tarihi">
+<!ENTITY sortByReceivedCmd.label "Alınma tarihi">
 <!ENTITY sortByReceivedCmd.accesskey "A">
 <!ENTITY sortByStarCmd.label "Yıldız">
 <!ENTITY sortByStarCmd.accesskey "z">

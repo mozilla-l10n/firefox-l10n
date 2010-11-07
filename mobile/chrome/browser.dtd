@@ -14,7 +14,7 @@
 <!ENTITY copy.label "Kopyala">
 <!ENTITY copylink.label "Bağlantı konumunu kopyala">
 <!ENTITY paste.label "Yapıştır">
-<!ENTITY delete.label "Sil">
+<!ENTITY delete.label "Delete">
 <!ENTITY selectAll.label "Tümünü seç">
 <!ENTITY noSuggestions.label "(Öneri yok)">
 <!ENTITY addToDictionary.label "Sözlüğe ekle">
@@ -52,10 +52,11 @@
 <!ENTITY downloadShow2.label "Bul">
 <!ENTITY downloadOpen2.label "Aç">
 <!ENTITY downloadCancel.label "Vazgeç">
-<!ENTITY downloadPause.label "Duraklat">
+<!ENTITY downloadPause.label "Pause">
 <!ENTITY downloadResume.label "Devam et">
 <!ENTITY downloadRetry.label "Yeniden dene">
 <!ENTITY downloadRemove.label "Kaldır">
+<!ENTITY downloadDelete.label "Delete">
 <!ENTITY downloadFailed.label "Hatalı">
 
 <!ENTITY noResults.label "Sonuç yok">
@@ -93,6 +94,9 @@
 <!ENTITY contextShareImage.label "Resmi paylaş">
 <!ENTITY contextSaveVideo.label "Videoyu kaydet">
 <!ENTITY contextShareVideo.label "Videoyu paylaş">
+<!ENTITY contextPlayMedia.label "Yürüt">
+<!ENTITY contextPauseMedia.label "Pause">
+<!ENTITY contextFullScreen.label "Full Screen">
 <!ENTITY contextEditBookmark.label "Düzenle">
 <!ENTITY contextRemoveBookmark.label "Kaldır">
 
@@ -102,3 +106,5 @@
 <!ENTITY pageactions.reset "Site tercihlerini temizle">
 <!ENTITY pageactions.findInPage "Sayfada bul">
 <!ENTITY pageactions.search.addNew "Arama motoru ekleme">
+
+<!ENTITY selectHelper.emptytext "Filter List">

@@ -90,6 +90,15 @@
 <!ENTITY cmd.showReleaseNotes.tooltip "Bu güncellemenin çıkış notlarını göster">
 <!ENTITY cmd.hideReleaseNotes.label "Çıkış notlarını gizle">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Bu güncellemenin çıkış notlarını gizle">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+<!ENTITY discover.title "Eklenti nedir?">
+<!ENTITY discover.description2 "Eklentiler ek özellik ve biçimlerle &brandShortName; uygulamanızı kişiselleştirmenizi 
+sağlayan uygulamalardır. Size zaman kazandıran bir araç çubuğunu, hava durumu habercisini veya &brandShortName; uygulamasının istediğiniz gibi görünmesini sağlayacak bir tema deneyin.">
+<!ENTITY discover.footer "İnternete bağlı olduğunuzda bu bölümde denemeniz için 
+en çok tutulan eklentilerden bazıları öne çıkarılacak.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label "Sürüm">
@@ -176,3 +185,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Üzgünüz, ancak sürüm notları yüklenirken bir hata meydana geldi.">
 
 <!ENTITY addon.createdBy.label "Yazan: ">
+
+<!ENTITY eula.title "Son kullanıcı izin anlaşması">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Kabul et ve kur...">

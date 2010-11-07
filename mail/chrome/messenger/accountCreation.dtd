@@ -22,8 +22,8 @@
 <!ENTITY imap.label "IMAP">
 <!ENTITY pop.label "POP">
 <!ENTITY smtp.label "SMTP">
-<!ENTITY imap.description "IMAP - Access folders and messages from multiple computers">
-<!ENTITY pop.description "POP - Download all messages onto this computer, folders are local only">
+<!ENTITY imap.description "IMAP - Dizinlere ve iletilere birden çok bilgisayardan ulaşın">
+<!ENTITY pop.description "POP - Tüm iletileri bu bilgisayara indirin, sadece yerel dizinler kullanılabilir">
 <!ENTITY recommended-appendix.label "(tavsiye edilen)">
 
 <!ENTITY manualSetup.label "Elle ayarla…">

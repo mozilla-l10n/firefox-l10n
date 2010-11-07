@@ -92,8 +92,10 @@
 <!ENTITY col.dateadded.label "Ekleme tarihi">
 <!ENTITY col.lastmodified.label "Son değişiklik">
 
-<!ENTITY search.label "Ara:">
+<!ENTITY search.label "Arama:">
 <!ENTITY search.accesskey "A">
+
+<!ENTITY search.in.label "Aranacak yer:">
 <!ENTITY search.scopeFolder.label "Seçili dizin">
 <!ENTITY search.scopeFolder.accesskey "d">
 <!ENTITY search.scopeBookmarks.label "Yer imleri">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.noPreviewAvailable.label "Önizleme">
 <!ENTITY detailsPane.selectAnItemText.description "Özelliklerini görmek ve değiştirmek için bir öğe seçin">
+
+<!ENTITY find.label "Arama:">
+<!ENTITY find.accesskey "A">
+<!ENTITY view.label "Görünüm">
+<!ENTITY view.accesskey "G">
+<!ENTITY byDate.label "Tarih">
+<!ENTITY byDate.accesskey "T">
+<!ENTITY bySite.label "Site">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY byMostVisited.label "En çok ziyaret edilenler">
+<!ENTITY byMostVisited.accesskey "E">
+<!ENTITY byLastVisited.label "Son ziyaret edilenler">
+<!ENTITY byLastVisited.accesskey "S">
+<!ENTITY byDayAndSite.label "Tarih ve site">
+<!ENTITY byDayAndSite.accesskey "T">
