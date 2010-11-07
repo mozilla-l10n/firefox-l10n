@@ -5,17 +5,16 @@
 <!ENTITY fccMailFolder.label "Másolat elhelyezése:">
 <!ENTITY fccMailFolder.accesskey "M">
 <!ENTITY fccReplyFollowsParent.label "Válaszok elhelyezése a megválaszolt levél mappájába">
-<!ENTITY fccReplyFollowsParent.accesskey "V">
-<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc these email addresses:">
-<!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY fccReplyFollowsParent.accesskey "v">
+<!ENTITY chooseFolderButton.label "Mappa választása...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Rejtett másolatot kap (Bcc):">
 <!ENTITY bccAddress.accesskey "R">
-<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY specialFolderTitle.label "Különleges mappák">
+<!ENTITY draftMailFolder.label "Piszkozatok tárolója:">
+<!ENTITY templateMailFolder.label "Sablonok tárolója:">
 <!ENTITY saveMessageDlg.label "Jóváhagyás kérése üzenet mentésekor">
-<!ENTITY saveMessageDlg.accesskey "J">
+<!ENTITY saveMessageDlg.accesskey "j">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "&quot;Elküldött elemek&quot; mappa itt:">
 <!ENTITY sentFolderOn.accesskey "E">
@@ -26,17 +25,11 @@
 <!ENTITY draftsFolderOn.accesskey "P">
 <!ENTITY draftInOtherFolder.label "Máshol:">
 <!ENTITY draftInOtherFolder.accesskey "s">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
-<!ENTITY archivesFolderOn.accesskey "v">
-<!ENTITY archiveInOtherFolder.label "Other Folder:">
-<!ENTITY archiveInOtherFolder.accesskey "d">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;Sablonok&quot; mappa itt:">
-<!ENTITY templatesFolderOn.accesskey "S">
+<!ENTITY templatesFolderOn.accesskey "s">
 <!ENTITY templateInOtherFolder.label "Máshol:">
 <!ENTITY templateInOtherFolder.accesskey "h">
 <!ENTITY specialFoldersTitle.label "Piszkozatok és sablonok">
 <!ENTITY keepDrafts.label "Piszkozatok tárolója:">
-<!ENTITY keepArchives.label "Keep message archives in:">
 <!ENTITY keepTempltes.label "Sablonok tárolója:">

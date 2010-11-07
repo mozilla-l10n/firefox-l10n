@@ -41,39 +41,42 @@
 <!-- File Menu -->
 
 
-<!ENTITY newContact.label "Névjegykártya...">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newContact.accesskey "C">
+<!ENTITY newCard.label "Névjegykártya...">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newCard.accesskey "C">
 <!ENTITY newListCmd.label "Levelezőlista...">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "Címjegyzék...">
-<!ENTITY newAddressBookCmd.accesskey "C">
+<!ENTITY newAddressBookCmd.accesskey "c">
+<!ENTITY renameAddressBookCmd.label "Címjegyzék átnevezése...">
+<!ENTITY renameAddressBookCmd.accesskey "M">
 <!ENTITY newLDAPDirectoryCmd.label "LDAP-címtár...">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newIM.label "IM">
-<!ENTITY printContactViewCmd.label "Print Contact…">
-<!ENTITY printContactViewCmd.accesskey "t">
-<!ENTITY printPreviewContactViewCmd.label "Print Preview Contact">
-<!ENTITY printPreviewContactViewCmd.accesskey "v">
-<!ENTITY printContactViewCmd.key "N">
+<!ENTITY printCardViewCmd.label "Névjegy nyomtatása...">
+<!ENTITY printCardViewCmd.accesskey "n">
+<!ENTITY printPreviewCardViewCmd.label "Nyomtatási kép">
+<!ENTITY printPreviewCardViewCmd.accesskey "k">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
+<!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Címjegyzék nyomtatása...">
 <!ENTITY printAddressBook.accesskey "C">
 <!ENTITY printPreviewAddressBook.label "Címjegyzék nyomtatási képe">
-<!ENTITY printPreviewAddressBook.accesskey "n">
+<!ENTITY printPreviewAddressBook.accesskey "N">
 <!ENTITY printSetupCmd.label "Oldalbeállítás...">
 <!ENTITY printSetupCmd.accesskey "l">
 <!-- Edit Menu -->
 
 <!ENTITY deleteAbCmd.label "Címjegyzék törlése">
-<!ENTITY deleteContactCmd.label "Névjegy törlése">
-<!ENTITY deleteContactsCmd.label "Delete Selected Contacts">
+<!ENTITY deleteCardCmd.label "Névjegy törlése">
+<!ENTITY deleteCardsCmd.label "A kijelölt névjegy törlése">
 <!ENTITY deleteListCmd.label "Lista törlése">
 <!ENTITY deleteListsCmd.label "Kijelölt listák törlése">
 <!ENTITY deleteItemsCmd.label "Kijelölt elemek törlése">
 <!ENTITY swapFirstNameLastNameCmd.label "Utónév és vezetéknév felcserélése">
-<!ENTITY swapFirstNameLastNameCmd.accesskey "U">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "u">
 <!ENTITY propertiesCmd.label "Tulajdonságok...">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY propertiesCmd.accesskey "i">
@@ -81,51 +84,59 @@
 <!-- View Menu -->
 
 <!ENTITY showAbToolbarCmd.label "Címjegyzék eszköztár">
-<!ENTITY showAbToolbarCmd.accesskey "C">
+<!ENTITY showAbToolbarCmd.accesskey "c">
 
 <!ENTITY showCardPane.label "Névjegykártya panel">
 <!ENTITY showCardPane.accesskey "N">
   
 <!ENTITY menu_ShowNameAs.label "Nevek megjelenítése">
-<!ENTITY menu_ShowNameAs.accesskey "N">
+<!ENTITY menu_ShowNameAs.accesskey "n">
 <!ENTITY firstLastCmd.label "Utónév, vezetéknév">
-<!ENTITY firstLastCmd.accesskey "U">
+<!ENTITY firstLastCmd.accesskey "u">
 <!ENTITY lastFirstCmd.label "Vezetéknév, utónév">
-<!ENTITY lastFirstCmd.accesskey "V">
+<!ENTITY lastFirstCmd.accesskey "v">
 <!ENTITY displayNameCmd.label "Megjelenítendő név">
-<!ENTITY displayNameCmd.accesskey "M">
+<!ENTITY displayNameCmd.accesskey "m">
 <!-- Tasks Menu -->
 
 <!ENTITY importCmd.label "Importálás...">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exportálás...">
 <!ENTITY exportCmd.accesskey "E">
+<!ENTITY allowOnlineCheck.label "Online jelenlét ellenőrzése (AOL)">
+<!ENTITY allowOnlineCheck.accesskey "A">
+
+<!ENTITY stopSearchingCmd.label ".Keresés megállítása">
 <!-- Toolbar and Popup items -->  
 
-<!ENTITY newContactButton.label "New Contact">
-<!ENTITY newContactButton.accesskey "N">
+<!ENTITY newcardButton.label "Új névjegy">
+<!ENTITY newcardButton.accesskey "N">
 <!ENTITY newlistButton.label "Új lista">
-<!ENTITY newlistButton.accesskey "l">
-<!ENTITY editItemButton.label "Tulajdonságok">
-<!ENTITY editItemButton.accesskey "T">
+<!ENTITY newlistButton.accesskey "L">
+<!ENTITY editButton.label "Tulajdonságok">
+<!ENTITY editButton.accesskey "T">
 <!ENTITY newmsgButton.label "Új üzenet">
-<!ENTITY newmsgButton.accesskey "z">
-<!ENTITY deleteItemButton.label "Törlés">
-<!ENTITY deleteItemButton.accesskey "T">
+<!ENTITY newmsgButton.accesskey "Z">
+<!ENTITY deleteButton.label "Törlés">
+<!ENTITY deleteButton.accesskey "T">
 <!ENTITY newimButton.label "Azonnali üzenet">
 <!ENTITY newimButton.accesskey "A">
-<!ENTITY searchNameAndEmail.placeholder "Search Name and Email">
-<!ENTITY searchBox.title "Keresés">
+<!ENTITY stopButton.label ".Leállítás">
+<!ENTITY searchButton.label ".Keresés">
+<!ENTITY showNames.label "Nevek, melyek tartalmazzák:">
 <!-- Tooltips -->
 
 <!ENTITY addressbookToolbar.tooltip "Címjegyzék eszköztár">
-<!ENTITY newContactButton.tooltip "Create a new address book contact">
+<!ENTITY newcardButton.tooltip "Új névjegykártya létrehozása">
 <!ENTITY newlistButton.tooltip "Egy új lista létrehozása">
-<!ENTITY editItemButton.tooltip "Edit the selected item">
+<!ENTITY editButton.tooltip "A kijelölt névjegy szerkesztése">
 <!ENTITY newmsgButton.tooltip "Új üzenet létrehozása">
 <!ENTITY newIM.tooltip "Üzenet küldése vagy csevegés">
-<!ENTITY deleteItemButton.tooltip "Kiválasztott elemek törlése">
+<!ENTITY deleteButton.tooltip "A kijelölt névjegy vagy a címjegyzék törlése">
+<!ENTITY stopButton.tooltip "Átvitel megszakítása">
+<!ENTITY searchButton.tooltip "Keresés a kijelölt címjegyzékben">
 <!ENTITY throbber.tooltip "Ugrás a &vendorShortName; honlapjára">
+<!ENTITY clearButton.tooltip "Törli a keresési feltételt, és az összes üzenetet mutatja.">
 <!ENTITY advancedButton.tooltip "Keresés az üzenetekben...">
 <!-- Status Bar -->  
 

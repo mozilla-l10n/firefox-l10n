@@ -40,9 +40,9 @@
 <!-- Junk Mail Controls -->
 
 <!ENTITY manualMark.label "A levélszemét kézi megjelölésekor:">
-<!ENTITY manualMark.accesskey "m">
+<!ENTITY manualMark.accesskey "M">
 <!ENTITY manualMarkModeMove.label "Áthelyezés a &quot;Szemét&quot; mappába">
-<!ENTITY manualMarkModeMove.accesskey "t">
+<!ENTITY manualMarkModeMove.accesskey "T">
 <!ENTITY manualMarkModeDelete.label "Törlés">
 <!ENTITY manualMarkModeDelete.accesskey "T">
 
@@ -50,23 +50,11 @@
 <!ENTITY autoMarkAsRead.label "Ha a &brandShortName; jelöli levészemétnek">
 <!ENTITY autoMarkAsRead.accesskey "j">
 <!ENTITY manualMarkAsRead.label "Kézi levélszemétnek jelölés esetén">
-<!ENTITY manualMarkAsRead.accesskey "K">
+<!ENTITY manualMarkAsRead.accesskey "k">
 
 <!ENTITY enableJunkLogging.label "Levélszemétnapló bekapcsolása">
-<!ENTITY enableJunkLogging.accesskey "n">
+<!ENTITY enableJunkLogging.accesskey "N">
 <!ENTITY openJunkLog.label "Levélszemétnapló">
 <!ENTITY openJunkLog.accesskey "L">
 <!ENTITY resetTrainingData.label "Tanulási adatok törlése">
-<!ENTITY resetTrainingData.accesskey "T">
-
-<!ENTITY pref.suspectMail.caption "Suspect Mail">
-<!-- Phishing Detector -->
-
-<!ENTITY pref.phishing.caption "E-mail Scams">
-<!ENTITY enablePhishingDetector.label "Tell me if the message I'm reading is a suspected email scam">
-<!ENTITY enablePhishingDetector.accesskey "T">
-<!-- Anti Virus -->
-
-<!ENTITY pref.antivirus.caption "Anti-Virus">
-<!ENTITY antiVirus.label "Allow anti-virus clients to scan incoming messages more easily">
-<!ENTITY antiVirus.accesskey "A">
+<!ENTITY resetTrainingData.accesskey "t">

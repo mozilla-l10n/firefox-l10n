@@ -38,12 +38,10 @@
 
 <!ENTITY newFolderDialog.title "Új mappa">
 <!ENTITY name.label "Név:">
-<!ENTITY name.accesskey "N">
+<!ENTITY name.accesskey "n">
 <!ENTITY description.label "Almappa létrehozása a következőben:">
-<!ENTITY description.accesskey "A">
+<!ENTITY description.accesskey "a">
 <!ENTITY folderRestriction1.label "Ez a kiszolgáló a mappákat két csoportra osztja.">
 <!ENTITY folderRestriction2.label "Az új mappa tartalmazhat:">
 <!ENTITY foldersOnly.label "Csak mappákat">
 <!ENTITY messagesOnly.label "Csak üzeneteket">
-<!ENTITY accept.label "Create Folder">
-<!ENTITY accept.accesskey "r">

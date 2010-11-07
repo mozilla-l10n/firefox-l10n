@@ -47,6 +47,7 @@
 <!ENTITY statusColumn.label "Állapot">
 <!ENTITY sizeColumn.label "Méret">
 <!ENTITY junkStatusColumn.label "Szemét-e">
+<!ENTITY linesColumn.label "Sor">
 <!ENTITY unreadColumn.label "Olvasatlan">
 <!ENTITY totalColumn.label "Összesen">
 <!ENTITY readColumn.label "Olvasott">

@@ -1,53 +1,54 @@
-<!-- history.xul, history-panel.xul, placesOverlay.xul -->
+<!-- extracted from ./history.xul -->
 
-<!ENTITY historyWindowTitle.label "Előzmények">
-<!ENTITY menuBar.tooltip "Menüsor">
-<!ENTITY searchBar.tooltip "Kereső">
+<!ENTITY historyWindowTitle.label       "Előzmények">
+<!ENTITY menuBar.tooltip                "Menüsor">
+<!ENTITY searchBar.tooltip              "Kereső">
 
-<!ENTITY search.placeholder "Keresés az előzményekben">
-<!ENTITY search.key "K">
+<!ENTITY search.emptytext               "Keresések előzménye">
+<!ENTITY search.key                     "K">
 <!ENTITY view.label "Megjelenítés">
+<!ENTITY view.accesskey "M">
+<!ENTITY byDate.label "Dátum szerint">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Kiszolgáló szerint">
+<!ENTITY bySite.accesskey "K">
+<!ENTITY byMostVisited.label "Látogatottság szerint">
+<!ENTITY byMostVisited.accesskey "L">
+<!ENTITY byLastVisited.label "Utolsó látogatás ideje szerint">
+<!ENTITY byLastVisited.accesskey "U">
+<!ENTITY byDayAndSite.label "Dátum és kiszolgáló szerint">
+<!ENTITY byDayAndSite.accesskey "m">
 
-<!ENTITY view.columns.label "Oszlopok megjelenítése">
-<!ENTITY view.columns.accesskey "O">
-<!ENTITY view.sortBy.label "Rendezés alapja">
-<!ENTITY view.sortBy.accesskey "R">
-<!ENTITY view.groupBy.label "Csoportosítás">
-<!ENTITY view.groupBy.accesskey "C">
+<!ENTITY view.columns.label             "Oszlopok megjelenítése">
+<!ENTITY view.columns.accesskey         "O">
+<!ENTITY view.sort.label                "Rendezés">
+<!ENTITY view.sort.accesskey            "R">
+<!ENTITY view.unsorted.label            "Rendezetlen">
+<!ENTITY view.unsorted.accesskey        "e">
+<!ENTITY view.sortAscending.label       "Növekvő sorrendben">
+<!ENTITY view.sortAscending.accesskey   "N">
+<!ENTITY view.sortDescending.label      "Csökkenő sorrendben">
+<!ENTITY view.sortDescending.accesskey  "C">
 
-<!ENTITY view.unsorted.label "Rendezetlen">
-<!ENTITY view.unsorted.accesskey "e">
-<!ENTITY view.sortAscending.label "Növekvő sorrendben">
-<!ENTITY view.sortAscending.accesskey "N">
-<!ENTITY view.sortDescending.label "Csökkenő sorrendben">
-<!ENTITY view.sortDescending.accesskey "C">
+<!ENTITY cmd.open.label                 "Megnyitás">
+<!ENTITY cmd.open.accesskey             "M">
+<!ENTITY cmd.open_window.label          "Megnyitás új ablakban">
+<!ENTITY cmd.open_window.accesskey      "a">
+<!ENTITY cmd.open_tab.label             "Megnyitás új lapon">
+<!ENTITY cmd.open_tab.accesskey         "l">
+<!ENTITY cmd.open_all_in_tabs.label     "Mindegyik megnyitása külön lapokon">
+<!ENTITY cmd.open_all_in_tabs.accesskey "k">
 
-<!ENTITY view.groupNone.label "Nincs">
-<!ENTITY view.groupNone.accesskey "N">
-<!ENTITY view.groupDay.label "nap">
-<!ENTITY view.groupDay.accesskey "D">
-<!ENTITY view.groupSite.label "Webhely">
-<!ENTITY view.groupSite.accesskey "W">
-<!ENTITY view.groupDayAndSite.label "Day and Website">
-<!ENTITY view.groupDayAndSite.accesskey "n">
+<!ENTITY bookmarkCmd.label              "Hivatkozás felvétele a könyvjelzők közé...">
+<!ENTITY bookmarkCmd.accesskey          "n">
 
-<!ENTITY cmd.open.label "Megnyitás">
-<!ENTITY cmd.open.accesskey "M">
-<!ENTITY cmd.open_window.label "Megnyitás új ablakban">
-<!ENTITY cmd.open_window.accesskey "a">
-<!ENTITY cmd.open_tab.label "Megnyitás új lapon">
-<!ENTITY cmd.open_tab.accesskey "l">
+<!ENTITY col.title.label                 "Cím">
+<!ENTITY col.url.label                  "Hely">
+<!ENTITY col.lastvisit.label            "Utoljára látogatva">
+<!ENTITY col.visitcount.label           "Látogatások száma">
 
-<!ENTITY bookmarkLinkCmd.label "Bookmark This Link…">
-<!ENTITY bookmarkLinkCmd.accesskey "V">
-<!ENTITY bookmarkLinksCmd.label "Hivatkozások felvétele a könyvjelzők közé">
-<!ENTITY bookmarkLinksCmd.accesskey "V">
 
-<!ENTITY col.title.label "Cím">
-<!ENTITY col.title.accesskey "N">
-<!ENTITY col.url.label "Hely">
-<!ENTITY col.url.accesskey "n">
-<!ENTITY col.lastvisit.label "Utoljára látogatva">
-<!ENTITY col.lastvisit.accesskey "V">
-<!ENTITY col.visitcount.label "Látogatások száma">
-<!ENTITY col.visitcount.accesskey "C">
+
+
+
+

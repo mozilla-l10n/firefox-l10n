@@ -3,11 +3,11 @@
 
 <!ENTITY closeCmd.label "Bezárás">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "B">
+<!ENTITY closeCmd.accesskey "b">
 
 <!ENTITY quitApplicationCmd.label "Kilépés">
 <!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "K">
+<!ENTITY quitApplicationCmd.accesskey "k">
 
 <!ENTITY redoCmd.label "Újra">
 <!ENTITY redoCmd.key "Y">

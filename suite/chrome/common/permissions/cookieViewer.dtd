@@ -11,11 +11,6 @@
 <!ENTITY button.removeallcookies.label "Összes süti törlése">
 <!ENTITY button.removeallcookies.accesskey "s">
 
-<!ENTITY search.placeholder "Search Cookies">
-<!ENTITY focusSearch.key "f">
-<!ENTITY windowClose.key "z">
-<!ENTITY selectAll.key "a">
-
 <!ENTITY props.name.label "Név:">
 <!ENTITY props.value.label "Tartalom:">
 <!ENTITY props.domain.label "Kiszolgáló:">
@@ -39,6 +34,9 @@
 <!ENTITY removepermission.accesskey "t">
 <!ENTITY removeallpermissions.label "Minden webhely eltávolítása">
 <!ENTITY removeallpermissions.accesskey "s">
+
+<!ENTITY canSet.label "sütik elfogadhatóak">
+<!ENTITY cannotSet.label "sütik nem fogadhatóak el">
 
 <!ENTITY futureCookies.label "A webhelyek eltávolított sütijeinek újbóli létrehozásának tiltása">
 <!ENTITY futureCookies.accesskey "l">

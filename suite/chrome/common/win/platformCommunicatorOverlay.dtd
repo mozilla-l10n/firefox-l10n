@@ -4,11 +4,11 @@
 
 <!ENTITY closeCmd.label "Bezárás">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "B">
+<!ENTITY closeCmd.accesskey "b">
 
 <!ENTITY quitApplicationCmd.label "Kilépés">
 <!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "K">
+<!ENTITY quitApplicationCmd.accesskey "k">
 
 <!ENTITY redoCmd.label "Újra">
 <!ENTITY redoCmd.key "Y">
@@ -25,10 +25,6 @@
 <!ENTITY openHelpCmd.key "VK_F1">
 <!ENTITY helpForIEUsers.label "Internet Explorer-felhasználóknak">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!-- LOCALIZATION NOTE some localizations need to change the
-                       "Help" menu label on Windows -->
-<!ENTITY helpMenu.label "Help">
-<!ENTITY helpMenu.accesskey "H">
 <!-- Key labels, for mousewheel prefs -->
 
 <!ENTITY ctrlKey.label "Ctrl">

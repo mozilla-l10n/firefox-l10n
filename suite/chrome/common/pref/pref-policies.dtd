@@ -11,9 +11,9 @@
 <!ENTITY restricted.label "Korlátozott webhelyek">
 
 <!ENTITY addSite.label "Webhely hozzáadása...">
-<!ENTITY addSite.accesskey "W">
+<!ENTITY addSite.accesskey "w">
 <!ENTITY settings.label "Beállítások a következőhöz ">
-<!ENTITY settings.accesskey "B">
+<!ENTITY settings.accesskey "b">
 
 <!ENTITY description.label "Elvek leírása:">
 

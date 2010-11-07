@@ -38,7 +38,7 @@
 <!-- Link Toolbar Title -->
 
 <!ENTITY linkToolbar.label "Navigációs eszköztár">
-<!ENTITY linkToolbar.accesskey "N">
+<!ENTITY linkToolbar.accesskey "n">
 <!-- Link Toolbar visibility options -->
 
 <!ENTITY linkToolbarAlways.label "Mindig megjelenik">

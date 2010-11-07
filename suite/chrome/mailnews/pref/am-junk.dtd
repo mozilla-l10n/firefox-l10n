@@ -1,10 +1,10 @@
 <!ENTITY junkSettings.label "Levélszemét kezelése">
 <!ENTITY trainingWarning.label "A levélszemét kezelés engedélyezése esetén a &brandShortName; programot meg kell tanítani a levélszemét felismerésére. A Levélszemét eszköztárgomb használatával finomhangolhatja a levélszemétszűrőt. Ehhez meg kell adnia, mind a levélszemeteket, mind a levélszemétnek nem minősülő üzeneteket is.">
 <!ENTITY level.label "Adaptív levélszemét kezelés engedélyezése ehhez a postafiókhoz">
-<!ENTITY level.accesskey "e">
+<!ENTITY level.accesskey "E">
 
 <!ENTITY move.label "A levélszemétként azonosított bejövő üzenetek áthelyezése:">
-<!ENTITY move.accesskey "t">
+<!ENTITY move.accesskey "T">
 <!ENTITY junkFolderOn.label "&quot;Szemét&quot; mappa:">
 <!ENTITY junkFolderOn.accesskey "S">
 <!ENTITY otherFolder.label "Másik:">
@@ -17,4 +17,4 @@
 <!ENTITY whitelist.accesskey "N">
 
 <!ENTITY ispHeaders.label "A levléfejlécben lévő levélszemét információkat felhasználása:">
-<!ENTITY ispHeaders.accesskey "m">
+<!ENTITY ispHeaders.accesskey "M">

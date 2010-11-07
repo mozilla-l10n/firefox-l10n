@@ -43,13 +43,13 @@
 <!ENTITY showAnimatedAlert.label "Figyelmeztető ablak">
 <!ENTITY showAnimatedAlert.accesskey "F">
 <!ENTITY showTrayIcon.label "Tálcaikon megjelenítése">
-<!ENTITY showTrayIcon.accesskey "T">
+<!ENTITY showTrayIcon.accesskey "t">
 <!ENTITY bounceSystemDockIcon.label "Dokkolóikon animálása">
-<!ENTITY bounceSystemDockIcon.accesskey "a">
+<!ENTITY bounceSystemDockIcon.accesskey "A">
 <!ENTITY preview.label "Előnézet">
-<!ENTITY preview.accesskey "E">
+<!ENTITY preview.accesskey "e">
 <!ENTITY systemsound.label "Új üzenethez tartozó rendszerhang">
-<!ENTITY systemsound.accesskey "z">
+<!ENTITY systemsound.accesskey "Z">
 <!ENTITY customsound.label "Saját WAV-fájl">
 <!ENTITY customsound.accesskey "S">
 <!ENTITY browse.label "Tallózás...">

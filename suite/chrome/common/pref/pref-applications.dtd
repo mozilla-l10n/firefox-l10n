@@ -7,4 +7,5 @@
 <!ENTITY actionColumn2.label "Művelet">
 <!ENTITY actionColumn2.accesskey "M">
 
-<!ENTITY search.placeholder "Search Types and Actions">
+<!ENTITY filter.label "Keresés:">
+<!ENTITY filter.accesskey "K">

@@ -2,22 +2,22 @@
 <!ENTITY msgComposeWindow.title "Új üzenet: (nincs tárgy)">
 
 <!ENTITY fromAddr.label "Feladó:">
-<!ENTITY fromAddr.accesskey "F">
+<!ENTITY fromAddr.accesskey "f">
 <!ENTITY subject.label "Tárgy:">
 <!ENTITY subject.accesskey "T">
 <!ENTITY attachments.label "Mellékletek:">
-<!ENTITY attachments.accesskey "M">
+<!ENTITY attachments.accesskey "m">
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
 
 <!ENTITY newMessage.label "Üzenet">
-<!ENTITY newMessage.accesskey "z">
+<!ENTITY newMessage.accesskey "Z">
 <!ENTITY saveCmd.label "Mentés">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "M">
+<!ENTITY saveCmd.accesskey "m">
 <!ENTITY saveAsCmd.label "Mentés másként">
-<!ENTITY saveAsCmd.accesskey "e">
+<!ENTITY saveAsCmd.accesskey "E">
 <!ENTITY saveAsFileCmd.label "Fájl">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Piszkozat">
@@ -27,23 +27,25 @@
 <!ENTITY attachMenu.label "Melléklet">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Fájlok…">
+<!ENTITY attachFileCmd.key "F">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Weboldal...">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Személyi kártya (vCard)">
-<!ENTITY attachVCardCmd.accesskey "k">
+<!ENTITY attachVCardCmd.accesskey "K">
 <!ENTITY sendNowCmd.label "Küldés azonnal">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
 <!ENTITY sendLaterCmd.label "Küldés később">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "l">
+<!ENTITY sendLaterCmd.accesskey "L">
 <!ENTITY printSetupCmd.label "Oldalbeállítás...">
-<!ENTITY printSetupCmd.accesskey "O">
+<!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printCmd.label "Nyomtatás...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "N">
+<!ENTITY closeCmd.label "Bezárás">
 <!-- Edit menu items -->
 
 <!ENTITY editRewrapCmd.label "Újratördelés">
@@ -59,15 +61,41 @@
 <!ENTITY findPrevCmd.label "Előző keresése">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "E">
+<!ENTITY findPrevCmd.accesskey "e">
 <!ENTITY accountManagerCmd.label "Postafiókok beállításai...">
-<!ENTITY accountManagerCmd.accesskey "P">
+<!ENTITY accountManagerCmd.accesskey "p">
 <!-- View menu items -->
 
 <!ENTITY showComposeToolbarCmd.label "Fő eszköztár">
 <!ENTITY showComposeToolbarCmd.accesskey "e">
 <!ENTITY showFormatToolbarCmd.label "Formázás eszköztár">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showParagraphMarksCmd.label ".Bekezdésjelzők megjelenítése">
+<!ENTITY pageSourceCmd.label ".Oldal forrása">
+<!ENTITY pageSourceCmd.accesskey "f">
+<!ENTITY pageInfoCmd.label ".Oldal infó">
+<!ENTITY pageInfoCmd.accesskey "O">
+<!ENTITY dcharMenu.label "Karakterkészlet">
+<!ENTITY dcharIso1Cmd.label "Nyugati (ISO-8859-1)">
+<!ENTITY dcharIso2Cmd.label "Közép-európai (ISO-8859-2)">
+<!ENTITY dcharIso3Cmd.label "Dél-európai (ISO-8859-3)">
+<!ENTITY dcharIso4Cmd.label "Balti (ISO-8859-4)">
+<!ENTITY dcharIso9Cmd.label "Török (ISO-8859-9)">
+<!ENTITY dcharIso10Cmd.label "Skandináv (ISO-8859-10)">
+<!ENTITY dcharIso14Cmd.label "Kelta (ISO-8859-14)">
+<!ENTITY dcharIso15Cmd.label "Nyugati (ISO-8859-15)">
+<!ENTITY dcharJapanCmd.label "Japán (ISO-2022-JP)">
+<!ENTITY dcharTradChiBigCmd.label "Hagyományos kínai (Big5)">
+<!ENTITY dcharSimpChiGbCmd.label "Egyszerűsített kínai (GB2312)">
+<!ENTITY dcharKoreanCmd.label "Koreai (EUC-KR)">
+<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
+<!ENTITY dcharRusCmd.label "Cirill (KOI8-R)">
+<!ENTITY dcharUkrCmd.label "Cirill/ukrán (KOI8-U)">
+<!ENTITY dcharIsoGreekCmd.label "Görög (ISO-8859-7)">
+<!ENTITY dcharVietViCmd.label "Vietnami (VISCII)">
+<!ENTITY dcharThaiCmd.label "Thai (TIS-620)">
+<!ENTITY dcharArmCmd.label "Örmény (ARMSCII-8)">
+<!ENTITY dcharDEFAULT.label "Levelek alapértelmezett karakterkódolásának beállítása">
 <!-- Format menu items -->
 
 <!ENTITY formatMenu.label "Formátum">
@@ -75,53 +103,78 @@
 <!-- Options menu items -->
 
 <!ENTITY optionsMenu.label "Beállítások">
-<!ENTITY optionsMenu.accesskey "B">
+<!ENTITY optionsMenu.accesskey "b">
+
+<!ENTITY doNotCompleteAddrCmd.label ".Ne egészítse ki a címeket">
+<!ENTITY showMatchingAddrCmd.label ".Mutassa az egyező címeket">
+
+<!ENTITY addSignatureCmd.label ".Aláírásfájl felvétele">
 
 <!ENTITY quoteCmd.label "Üzenet idézése">
-<!ENTITY quoteCmd.accesskey "z">
+<!ENTITY quoteCmd.accesskey "Z">
 <!ENTITY selectAddressCmd.label "Címek kiválasztása...">
 <!ENTITY selectAddressCmd.key "C">
 <!ENTITY selectAddressCmd.accesskey "C">
 
-<!ENTITY checkSpellingCmd2.label "Check Spelling…">
-<!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd.label "Helyesírás-ellenőrzés...">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "Helyesírás-ellenőrzés írás közben">
-<!ENTITY enableInlineSpellChecker.accesskey "e">
+<!ENTITY enableInlineSpellChecker.accesskey "E">
 
 <!ENTITY priorityMenu.label "Sürgősség">
-<!ENTITY priorityMenu.accesskey "S">
+<!ENTITY priorityMenu.accesskey "s">
 <!ENTITY lowestPriorityCmd.label "Nem sürgős">
 <!ENTITY lowestPriorityCmd.accesskey "e">
 <!ENTITY lowPriorityCmd.label "Kevéssé sürgős">
-<!ENTITY lowPriorityCmd.accesskey "K">
+<!ENTITY lowPriorityCmd.accesskey "k">
 <!ENTITY normalPriorityCmd.label "Normál">
 <!ENTITY normalPriorityCmd.accesskey "o">
 <!ENTITY highPriorityCmd.label "Sürgős">
-<!ENTITY highPriorityCmd.accesskey "S">
+<!ENTITY highPriorityCmd.accesskey "s">
 <!ENTITY highestPriorityCmd.label "Rendkívül sürgős">
 <!ENTITY highestPriorityCmd.accesskey "R">
 
 <!ENTITY returnReceiptMenu.label "Tértivevény">
-<!ENTITY returnReceiptMenu.accesskey "T">
+<!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY outputFormatMenu.label "Formátum">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Automatikus felismerés">
-<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Csak sima szöveg">
 <!ENTITY plainTextFormatCmd.accesskey "s">
 <!ENTITY htmlFormatCmd.label "Csak Rich Text (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "R">
+<!ENTITY htmlFormatCmd.accesskey "r">
 <!ENTITY bothFormatCmd.label "Sima és Rich Text (HTML) szöveg">
-<!ENTITY bothFormatCmd.accesskey "H">
+<!ENTITY bothFormatCmd.accesskey "h">
+
+<!ENTITY UuencodeAttachmentCmd.label "Uuencode használata MIME helyett mellékleteknél">
+
 
 <!ENTITY fileCarbonCopyCmd.label "Elküldött üzenet iktatása">
-<!ENTITY fileCarbonCopyCmd.accesskey "E">
+<!ENTITY fileCarbonCopyCmd.accesskey "e">
 <!ENTITY fileHereMenu.label "Iktatás itt">
+<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
+<!-- Debug Menu, imported from editorAppShell.dtd -->
+
+<!ENTITY debugMenu.label "Hibakövetés">
+<!ENTITY outputTextCmd.label "Szöveges kimenet">
+<!ENTITY outputHTMLCmd.label "HTML-kimenet">
+<!ENTITY insertTextCmd.label "Szöveg beszúrása">
+<!ENTITY testSelectionCmd.label "Kijelölés tesztje">
+<!ENTITY testTableLayoutCmd.label "Táblázatkinézet tesztje">
+<!ENTITY testDocumentCmd.label "Dokumentumteszt">
+<!ENTITY showEmbeddedCmd.label "Beágyazott objektumok megjelenítése">
+<!ENTITY dumpContentCmd.label "Tartalomfa kiíratása">
+<!ENTITY runUnitTestsCmd.label "Egységteszt futtatása">
+<!ENTITY startLogCmd.label "Naplózás indítása">
+<!ENTITY stopLogCmd.label "Naplózás leállítása">
+<!ENTITY runLogCmd.label "Napló futtatása">
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 
 <!ENTITY sendButton.label "Küldés">
+<!ENTITY quoteButton.label "Idézés">
 <!ENTITY addressButton.label "Cím">
 <!ENTITY attachButton.label "Melléklet">
 <!ENTITY spellingButton.label "Helyesírás">
@@ -134,36 +187,43 @@
 <!ENTITY formatToolbar.tooltip "Formázás eszköztár">
 <!ENTITY sendButton.tooltip "Üzenet elküldése azonnal">
 <!ENTITY sendlaterButton.tooltip "Üzenet elküldése később">
+<!ENTITY quoteButton.tooltip "Előző üzenet idézése">
 <!ENTITY addressButton.tooltip "Egy címzett kiválasztása a címjegyzékből">
 <!ENTITY attachButton.tooltip "Melléklet hozzáadása">
 <!ENTITY saveButton.tooltip "Az üzenet mentése">
 <!ENTITY stopButton.tooltip "Átvitel megszakítása">
+<!-- Toolbar items, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+
+<!ENTITY formatToolbar.boldChar "F">
+<!ENTITY formatToolbar.italicChar "D">
+<!ENTITY formatToolbar.underlineChar "A">
 <!-- context menu items -->
 
 <!ENTITY spellCheckNoSuggestions.label "(Nincs javaslat)">
 <!ENTITY spellCheckIgnoreWord.label "Szó kihagyása">
-<!ENTITY spellCheckIgnoreWord.accesskey "k">
+<!ENTITY spellCheckIgnoreWord.accesskey "K">
 <!ENTITY spellCheckAddToDictionary.label "Hozzáadás a szótárhoz">
-<!ENTITY spellCheckAddToDictionary.accesskey "H">
+<!ENTITY spellCheckAddToDictionary.accesskey "h">
 <!ENTITY undo.label "Visszavonás">
 <!ENTITY undo.accesskey "V">
 <!ENTITY cut.label "Kivágás">
-<!ENTITY cut.accesskey "K">
+<!ENTITY cut.accesskey "k">
 <!ENTITY copy.label "Másolás">
 <!ENTITY copy.accesskey "M">
 <!ENTITY paste.label "Beillesztés">
 <!ENTITY paste.accesskey "B">
 <!ENTITY pasteQuote.label "Beillesztés idézetként">
-<!ENTITY pasteQuote.accesskey "i">
+<!ENTITY pasteQuote.accesskey "I">
 
 <!ENTITY openAttachment.label "Megnyitás">
 <!ENTITY openAttachment.accesskey "M">
 <!ENTITY delete.label "Törlés">
 <!ENTITY delete.accesskey "T">
 <!ENTITY renameAttachment.label "Átnevezés">
-<!ENTITY renameAttachment.accesskey "n">
+<!ENTITY renameAttachment.accesskey "N">
 <!ENTITY selectAll.label "Mindet kijelöli">
-<!ENTITY selectAll.accesskey "d">
+<!ENTITY selectAll.accesskey "D">
 <!ENTITY attachFile.label "Fájl(ok) csatolása...">
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "Weboldal csatolása...">

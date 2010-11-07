@@ -1,0 +1,24 @@
+
+<!ENTITY editType.label "Típus szerkesztése">
+<!ENTITY newType.label "Új típus">
+<!ENTITY extension.label "Kiterjesztés:">
+<!ENTITY extension.accesskey "K">
+<!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
+<!ENTITY mimetype.label "MIME-típus:">
+<!ENTITY mimetype.accesskey "m">
+<!ENTITY description.label "Leírás:">
+<!ENTITY description.accesskey "l">
+
+<!ENTITY handling.label "Ezt a fájltípust így kezelje:">
+<!ENTITY useDefault.label "Az alapértelmezett rendszerbeállítás használata">
+<!ENTITY useDefault.accesskey "a">
+<!ENTITY saveToDisk.label "Mentés lemezre">
+<!ENTITY saveToDisk.accesskey "m">
+<!ENTITY application.label "Megnyitás ezzel:">
+<!ENTITY application.accesskey "e">
+
+<!ENTITY browse.label "Tallózás...">
+<!ENTITY browse.accesskey "t">
+
+<!ENTITY askBeforeOpen.label "Kérdezzen, mielőtt megnyitna ilyen típusú letöltött fájlokat">
+<!ENTITY askBeforeOpen.accesskey "k">
