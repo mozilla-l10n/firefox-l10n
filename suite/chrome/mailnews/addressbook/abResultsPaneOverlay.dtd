@@ -39,27 +39,27 @@
 <!ENTITY PrimaryEmail.label "E-mail">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY Company.label "Szervezet">
-<!ENTITY Company.accesskey "s">
+<!ENTITY Company.accesskey "S">
 <!ENTITY _PhoneticName.label "Fonetikus név">
-<!ENTITY _PhoneticName.accesskey "f">
+<!ENTITY _PhoneticName.accesskey "F">
 <!ENTITY NickName.label "Becenév">
-<!ENTITY NickName.accesskey "b">
+<!ENTITY NickName.accesskey "B">
 <!ENTITY SecondEmail.label "További e-mail">
-<!ENTITY SecondEmail.accesskey "t">
+<!ENTITY SecondEmail.accesskey "T">
 <!ENTITY Department.label "Részleg">
-<!ENTITY Department.accesskey "r">
+<!ENTITY Department.accesskey "R">
 <!ENTITY JobTitle.label "Beosztás">
 <!ENTITY JobTitle.accesskey "B">
 <!ENTITY CellularNumber.label "Mobil">
 <!ENTITY CellularNumber.accesskey "M">
 <!ENTITY PagerNumber.label "Személyhívó">
-<!ENTITY PagerNumber.accesskey "H">
+<!ENTITY PagerNumber.accesskey "h">
 <!ENTITY FaxNumber.label "Fax">
 <!ENTITY FaxNumber.accesskey "F">
 <!ENTITY HomePhone.label "Otthoni telefon">
 <!ENTITY HomePhone.accesskey "O">
 <!ENTITY WorkPhone.label "Munkahelyi telefon">
-<!ENTITY WorkPhone.accesskey "U">
+<!ENTITY WorkPhone.accesskey "u">
 <!ENTITY ScreenName.label "Felhasználói név">
 <!ENTITY ScreenName.accesskey "F">
 <!ENTITY sortAscending.label "Növekvő sorrendben">
@@ -75,8 +75,8 @@
 <!ENTITY deleteAddrBookCard.label "Törlés">
 <!ENTITY deleteAddrBookCard.accesskey "T">
 <!ENTITY newAddrBookCard.label "Új névjegy...">
-<!ENTITY newAddrBookCard.accesskey "N">
+<!ENTITY newAddrBookCard.accesskey "n">
 <!ENTITY newAddrBookMailingList.label "Új címlista...">
-<!ENTITY newAddrBookMailingList.accesskey "C">
+<!ENTITY newAddrBookMailingList.accesskey "c">
 <!ENTITY addrBookCardProperties.label "Tulajdonságok">
 <!ENTITY addrBookCardProperties.accesskey "T">

@@ -1,6 +1,6 @@
 
 <!ENTITY findABookmark.label "Keresés a könyvjelzőkben...">
-<!ENTITY findABookmark.accesskey "k">
+<!ENTITY findABookmark.accesskey "K">
 <!ENTITY newBookmark.label "Új könyvjelző...">
 <!ENTITY newBookmark.accesskey "k">
 <!ENTITY newFolder.label "Új mappa...">
@@ -16,5 +16,5 @@
 <!ENTITY exportBookmarks.label "Exportálás...">
 <!ENTITY exportBookmarks.accesskey "x">
 <!ENTITY importBookmarks.label "Importálás...">
-<!ENTITY importBookmarks.accesskey "i">
+<!ENTITY importBookmarks.accesskey "I">
 

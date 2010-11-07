@@ -39,9 +39,9 @@
 <!ENTITY modeToolbar.tooltip "Üzemmód eszköztár">
 <!ENTITY entryToolbar.tooltip "Javascript eszköztár">
 <!ENTITY toolbarsCmd.label "Megjelenítés/elrejtés">
-<!ENTITY toolbarsCmd.accesskey "m">
+<!ENTITY toolbarsCmd.accesskey "M">
 <!ENTITY toolbarMode.label "Üzemmód">
-<!ENTITY toolbarMode.accesskey "M">
+<!ENTITY toolbarMode.accesskey "m">
 <!ENTITY toolbarEval.label "JavaScript">
 <!ENTITY toolbarEval.accesskey "J">
 

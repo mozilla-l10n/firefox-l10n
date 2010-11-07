@@ -40,12 +40,12 @@
 <!ENTITY pref.character.encoding.title "Karakterkódolás">
 <!ENTITY messageDisplay.caption "Üzenet megjelenítés">
 <!ENTITY viewDefaultCharset.label "Alapértelmezett karakterkódolás:">
-<!ENTITY viewDefaultCharset.accesskey "L">
+<!ENTITY viewDefaultCharset.accesskey "l">
 
 <!ENTITY composingMessages.caption "Üzenet létrehozása">
 <!ENTITY useMIME.label "8 bites karaktereket tartalmazó levelek esetén idézőjeles nyomtatható MIME-kódolás használata. A beállítás kikapcsolásakor a levelek eredeti formátumukban lesznek elküldve.">
-<!ENTITY useMIME.accesskey "F">
+<!ENTITY useMIME.accesskey "f">
 <!ENTITY sendDefaultCharset.label "Alapértelmezett karakterkódolás:">
-<!ENTITY sendDefaultCharset.accesskey "K">
+<!ENTITY sendDefaultCharset.accesskey "k">
 <!ENTITY replyInDefaultCharset2.label "Használja az alapértelmezett karakterkódolást a válaszokban, ha az lehetséges. (Ha eltávolítja a jelölést, csak az új üzenetek használják az alapértelmezett beállításokat.)">
 <!ENTITY replyInDefaultCharset2.accesskey "H">

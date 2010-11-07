@@ -13,4 +13,4 @@
 <!ENTITY tree.header.visitcount.label "Látogatások száma">
 <!ENTITY tree.header.visitcount.accesskey "L">
 <!ENTITY bookmarkLinksCmd.label "Hivatkozás felvétele a könyvjelzők közé">
-<!ENTITY bookmarkLinksCmd.accesskey "N">
+<!ENTITY bookmarkLinksCmd.accesskey "n">

@@ -38,13 +38,13 @@
 
 <!ENTITY pref.viewing.messages.title "Üzenetek megjelenítése">
 <!ENTITY style.label "Stílus:">
-<!ENTITY style.accesskey "T">
+<!ENTITY style.accesskey "t">
 <!ENTITY regular.label "Normál">
 <!ENTITY bold.label "Félkövér">
 <!ENTITY italic.label "Dőlt">
 <!ENTITY boldItalic.label "Félkövér dőlt">
 <!ENTITY size.label "Méret:">
-<!ENTITY size.accesskey "m">
+<!ENTITY size.accesskey "M">
 <!ENTITY bigger.label "Nagyobb">
 <!ENTITY smaller.label "Kisebb">
 <!ENTITY color.label "Szín:">
@@ -53,18 +53,16 @@
 <!ENTITY fontPlainText.label "Betű:">
 <!ENTITY fontPlainText.accesskey "B">
 <!ENTITY displayQuoted.label "Idézett üzenetek beállításai:">
-<!ENTITY readingMessagesHeader.label "Bejövő levelek">
-<!ENTITY messageWrapping.label "Szöveg tördelése">
 <!ENTITY wrapInMsg.label "Szöveg tördelése az ablak méretének megfelelően">
-<!ENTITY wrapInMsg.accesskey "T">
+<!ENTITY wrapInMsg.accesskey "t">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label "Hangulatjelek megjelenítése grafikaként">
-<!ENTITY convertEmoticons.accesskey "M">
+<!ENTITY convertEmoticons.accesskey "m">
 <!ENTITY generalMessageDisplay.caption "Általános">
 <!ENTITY autoMarkAsRead.label "Üzenetek automatikus olvasottnak jelölése">
-<!ENTITY autoMarkAsRead.accesskey "J">
+<!ENTITY autoMarkAsRead.accesskey "j">
 <!ENTITY markAsReadNoDelay.label "Azonnal megjelenítéskor">
-<!ENTITY markAsReadNoDelay.accesskey "a">
+<!ENTITY markAsReadNoDelay.accesskey "A">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
@@ -81,3 +79,5 @@
 <!ENTITY disableContent.accesskey "T">
 <!ENTITY showCondensedAddresses.label "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
 <!ENTITY showCondensedAddresses.accesskey "k">
+<!ENTITY closeMsgWindowOnDelete.label "Close message window when deleting the message">
+<!ENTITY closeMsgWindowOnDelete.accesskey "l">

@@ -38,13 +38,13 @@
 <!ENTITY pref.addressing.title "Címzés">
 <!ENTITY emailCollectiontitle.label "E-mail címek gyűjtése">
 <!ENTITY emailCollectionPicker.label "E-mail címek hozzáadása:">
-<!ENTITY emailCollectionPicker.accesskey "e">
+<!ENTITY emailCollectionPicker.accesskey "E">
 <!ENTITY emailCollectiontext.label "A kimenő üzenetekben szereplő e-mail címek automatikusan hozzáadhatók egy helyi címjegyzékhez.">
 <!-- Autocompletion -->
 
 <!ENTITY addressingTitle.label "Automatikus címkiegészítés">
 <!ENTITY highlightNonMatches.label "Automatikusan ki nem egészülő címek kiemelése">
-<!ENTITY highlightNonMatches.accesskey "a">
+<!ENTITY highlightNonMatches.accesskey "A">
 <!ENTITY addressingEnable.label "Helyi címjegyzékek">
 <!ENTITY addressingEnable.accesskey "H">
 <!ENTITY autocompleteText.label "Üzenetek címzésekor egyezések keresése a következő helyeken:">
@@ -53,5 +53,3 @@
 <!ENTITY directoriesNone.label "Nincs">
 <!ENTITY editDirectories.label "Címtárak szerkesztése...">
 <!ENTITY editDirectories.accesskey "C">
-<!ENTITY matchText.label "Ha a helyi címjegyzékekben van egyező cím:">
-<!ENTITY skipDirectory.label "Nem történik keresés a címtárban">

@@ -38,17 +38,17 @@
 <!ENTITY allengines.label "Minden keresőszolgáltatás">
 <!ENTITY engine.column.label "Keresőszolgáltatások ehhez a kategóriához">
 <!ENTITY category.label "Kategória">
-<!ENTITY category.accesskey "k">
+<!ENTITY category.accesskey "K">
 <!ENTITY done.label "Kész">
 
 <!ENTITY add.label "Hozzáadás">
-<!ENTITY add.accesskey "h">
+<!ENTITY add.accesskey "H">
 <!ENTITY remove.label "Eltávolítás">
-<!ENTITY remove.accesskey "e">
+<!ENTITY remove.accesskey "E">
 
 <!ENTITY new.category.label "Új...">
 <!ENTITY new.category.accesskey "j">
 <!ENTITY rename.category.label "Átnevezés...">
 <!ENTITY rename.category.accesskey "n">
 <!ENTITY remove.category.label "Törlés">
-<!ENTITY remove.category.accesskey "t">
+<!ENTITY remove.category.accesskey "T">

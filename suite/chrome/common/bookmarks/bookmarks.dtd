@@ -46,47 +46,47 @@
 <!ENTITY menuitem.newFolder.label "Mappa">
 <!ENTITY button.newFolder.label "Új mappa">
 <!ENTITY button.newFolder.accesskey "Ú">
-<!ENTITY menuitem.newFolder.accesskey "m">
+<!ENTITY menuitem.newFolder.accesskey "M">
 <!ENTITY menuitem.newSeparator.label "Elválasztó">
 <!ENTITY button.newSeparator.label "Új elválasztó">
 <!ENTITY button.newSeparator.accesskey "e">
-<!ENTITY menuitem.newSeparator.accesskey "e">
+<!ENTITY menuitem.newSeparator.accesskey "E">
 <!ENTITY menuitem.open.label "Könyvjelzőfájl megnyitása…">
-<!ENTITY menuitem.open.accesskey "M">
+<!ENTITY menuitem.open.accesskey "m">
 <!ENTITY menuitem.import.label "Importálás…">
-<!ENTITY menuitem.import.accesskey "i">
+<!ENTITY menuitem.import.accesskey "I">
 <!ENTITY menuitem.export.label "Exportálás…">
 <!ENTITY menuitem.export.accesskey "x">
 <!ENTITY menuitem.find.label "Könyvjelzők keresése…">
 <!ENTITY command.findBookmarks.label "Keresés…">
 <!ENTITY menuitem.find.accesskey "K">
-<!ENTITY menuitem.find.find.key        "K">
+<!ENTITY menuitem.find.find.key "K">
 <!ENTITY edit.find.keybinding "f">
 <!ENTITY menuitem.properties.label "Tulajdonságok…">
-<!ENTITY button.properties.label       "Tulajdonságok…">
+<!ENTITY button.properties.label "Tulajdonságok…">
 <!ENTITY button.properties.accesskey "T">
-<!ENTITY menuitem.properties.key       "J">
-<!ENTITY menuitem.properties.accesskey "t">
+<!ENTITY menuitem.properties.key "J">
+<!ENTITY menuitem.properties.accesskey "T">
 <!ENTITY edit.properties.keybinding "i">
 <!ENTITY command.rename.label "Átnevezés…">
-<!ENTITY button.rename.label          "Átnevezés…">
+<!ENTITY button.rename.label "Átnevezés…">
 <!ENTITY button.rename.accesskey "Á">
 <!ENTITY command.delete.label "Törlés">
-<!ENTITY button.delete.label           "Törlés">
+<!ENTITY button.delete.label "Törlés">
 <!ENTITY button.delete.accesskey "T">
 <!ENTITY menuitem.moveBookmark.label "Könyvjelzők áthelyezése…">
 <!ENTITY menuitem.moveBookmarkShort.label "Áthelyezés…">
-<!ENTITY menuitem.moveBookmark.accesskey "H">
-<!ENTITY button.moveBookmark.label     "Áthelyezés…">
-<!ENTITY button.moveBookmark.accesskey "H">
+<!ENTITY menuitem.moveBookmark.accesskey "h">
+<!ENTITY button.moveBookmark.label "Áthelyezés…">
+<!ENTITY button.moveBookmark.accesskey "h">
 <!ENTITY command.addBookmark.label "Hozzáadás…">
 <!ENTITY command.manageBookmarks.label "Kezelés">
 <!ENTITY command.sortFolder.label "Mappa rendezése…">
-<!ENTITY command.sortFolder.accesskey "R">
+<!ENTITY command.sortFolder.accesskey "r">
 <!ENTITY edit.sortFolder.keybinding "S">
-<!ENTITY command.sortFolder.key        "R">
+<!ENTITY command.sortFolder.key "R">
 <!ENTITY command.sortFolderByName.label "Mappa rendezése név szerint">
-<!ENTITY command.sortFolderByName.accesskey "N">
+<!ENTITY command.sortFolderByName.accesskey "n">
 
 <!ENTITY menuitem.view.command.toolbar.label "Eszköztár">
 <!ENTITY menuitem.view.command.toolbar.accesskey "t">
@@ -95,20 +95,20 @@
 <!ENTITY menuitem.view.show_columns.label "Oszlopok megjelenítése">
 <!ENTITY menuitem.view.show_columns.accesskey "s">
 <!ENTITY menuitem.newbookmarkfolder.label "Beállítás új könyvjelzőmappaként">
-<!ENTITY menuitem.newbookmarkfolder.accesskey "b">
+<!ENTITY menuitem.newbookmarkfolder.accesskey "B">
 <!ENTITY menuitem.newinternetsearchfolder.label "Beállítás új internetes keresőmappaként">
 <!ENTITY menuitem.newinternetsearchfolder.accesskey "e">
 <!ENTITY menuitem.personaltoolbarfolder.label "Beállítás a személyes eszköztár mappájaként">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "s">
 
 <!ENTITY treecol.name.label "Név">
-<!ENTITY treecol.name.accesskey "n">
+<!ENTITY treecol.name.accesskey "N">
 <!ENTITY treecol.name.tooltip "Kattintson ide a név szerinti rendezéshez">
 <!ENTITY treecol.url.label "Hely">
 <!ENTITY treecol.url.accesskey "l">
 <!ENTITY treecol.url.tooltip "Kattintson a hely szerinti rendezéshez">
 <!ENTITY treecol.shortcut.label "Kulcsszó">
-<!ENTITY treecol.shortcut.accesskey "k">
+<!ENTITY treecol.shortcut.accesskey "K">
 <!ENTITY treecol.shortcut.tooltip "Kattintson ide a kulcsszó szerinti rendezéshez">
 <!ENTITY treecol.description.label "Leírás">
 <!ENTITY treecol.description.accesskey "e">

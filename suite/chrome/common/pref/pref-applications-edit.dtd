@@ -5,20 +5,20 @@
 <!ENTITY extension.accesskey "K">
 <!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
 <!ENTITY mimetype.label "MIME-típus:">
-<!ENTITY mimetype.accesskey "m">
+<!ENTITY mimetype.accesskey "M">
 <!ENTITY description.label "Leírás:">
-<!ENTITY description.accesskey "l">
+<!ENTITY description.accesskey "L">
 
 <!ENTITY handling.label "Ezt a fájltípust így kezelje:">
 <!ENTITY useDefault.label "Az alapértelmezett rendszerbeállítás használata">
-<!ENTITY useDefault.accesskey "a">
+<!ENTITY useDefault.accesskey "A">
 <!ENTITY saveToDisk.label "Mentés lemezre">
-<!ENTITY saveToDisk.accesskey "m">
+<!ENTITY saveToDisk.accesskey "M">
 <!ENTITY application.label "Megnyitás ezzel:">
 <!ENTITY application.accesskey "e">
 
 <!ENTITY browse.label "Tallózás...">
-<!ENTITY browse.accesskey "t">
+<!ENTITY browse.accesskey "T">
 
 <!ENTITY askBeforeOpen.label "Kérdezzen, mielőtt megnyitna ilyen típusú letöltött fájlokat">
-<!ENTITY askBeforeOpen.accesskey "k">
+<!ENTITY askBeforeOpen.accesskey "K">
