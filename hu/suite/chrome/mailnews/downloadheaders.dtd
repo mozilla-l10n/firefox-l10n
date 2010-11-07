@@ -45,9 +45,9 @@
 -->
 
 <!ENTITY download.label "Letöltés">
-<!ENTITY download.accesskey "l">
+<!ENTITY download.accesskey "L">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label "fejléc letöltése">
 <!ENTITY headers.accesskey "f">
 <!ENTITY mark.label "A további fejlécek megjelölése olvasottként">
-<!ENTITY mark.accesskey "T">
+<!ENTITY mark.accesskey "t">

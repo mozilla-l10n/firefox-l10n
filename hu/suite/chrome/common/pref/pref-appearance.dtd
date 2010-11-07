@@ -13,7 +13,7 @@
 <!ENTITY picsOnlyRadio.label "Csak kép">
 <!ENTITY picsOnlyRadio.accesskey "s">
 <!ENTITY textonlyRadio.label "Csak szöveg">
-<!ENTITY textonlyRadio.accesskey "c">
+<!ENTITY textonlyRadio.accesskey "C">
 <!ENTITY showHideTooltips.label "Buboréksúgók megjelenítése">
 <!ENTITY showHideTooltips.accesskey "B">
 

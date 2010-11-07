@@ -1,3 +1,5 @@
 <!ENTITY renameFolderDialog.title "Mappa átnevezése">
 <!ENTITY rename.label "Adja meg a mappa új nevét:">
 <!ENTITY rename.accesskey "A">
+<!ENTITY accept.label "Rename">
+<!ENTITY accept.accesskey "R">

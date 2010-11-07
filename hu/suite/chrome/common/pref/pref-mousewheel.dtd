@@ -21,7 +21,7 @@
 <!ENTITY scrollPgLtPgRt.label "Görgetés egy oldallal jobbra vagy balra">
 <!ENTITY scrollPgLtPgRt.accesskey "o">
 <!ENTITY history.label "Előre/Vissza az előzmények közt">
-<!ENTITY history.accesskey "M">
+<!ENTITY history.accesskey "m">
 <!ENTITY historyHoriz.accesskey "z">
 <!ENTITY zoom.label "Nagyítás és kicsinyítés">
 <!ENTITY zoom.accesskey "N">

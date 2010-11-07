@@ -2,9 +2,9 @@
 <!ENTITY pref.smartUpdate.title "Szoftvertelepítés">
 <!ENTITY smartTitle.label "Szoftvertelepítések és frissítések kezelése">
 <!ENTITY enableSU.label "Szoftvertelepítés engedélyezése. (Minden frissítés előtt figyelmeztető ablak jenik meg.)">
-<!ENTITY enableSU.accesskey "s">
+<!ENTITY enableSU.accesskey "S">
 <!ENTITY allowedSites.label "Engedélyezett webhelyek">
-<!ENTITY allowedSites.accesskey "W">
+<!ENTITY allowedSites.accesskey "w">
 
 <!ENTITY verifyUpdates.caption "Frissítések">
 <!ENTITY autoUpdates.label "Frissítések automatikus keresése:">
@@ -15,8 +15,18 @@
 <!ENTITY weekly.label "hetente">
 <!ENTITY appWeekly.accesskey "h">
 <!ENTITY extensionsUpdates.label "Telepített kiegészítők">
-<!ENTITY extensionsUpdates.accesskey "t">
+<!ENTITY extensionsUpdates.accesskey "T">
 <!ENTITY extensionsDaily.accesskey "n">
 <!ENTITY extensionsWeekly.accesskey "h">
 <!ENTITY addonManagerButton.label "Kiegészítő telepítése">
-<!ENTITY addonManagerButton.accesskey "T">
+<!ENTITY addonManagerButton.accesskey "t">
+
+<!ENTITY whenUpdatesFound.label "Amikor frissítések érhetők el a &brandShortName; programhoz:">
+<!ENTITY askMe.label "Ask me what I want to do">
+<!ENTITY askMe.accesskey "K">
+<!ENTITY modeAutomatic.label "Frissítések automatikus letöltése és telepítése">
+<!ENTITY modeAutomatic.accesskey "E">
+<!ENTITY modeAutoAddonWarn.label "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
+<!ENTITY modeAutoAddonWarn.accesskey "z">
+<!ENTITY updateHistory.label "Frissítési előzmények megjelenítése">
+<!ENTITY updateHistory.accesskey "e">

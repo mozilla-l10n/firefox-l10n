@@ -9,11 +9,11 @@
 <!ENTITY systemTypeRadio.label "Rendszerbeállítások használata">
 <!ENTITY systemTypeRadio.accesskey "R">
 <!ENTITY manualTypeRadio.label "Kézi proxybeállítás:">
-<!ENTITY manualTypeRadio.accesskey "Z">
+<!ENTITY manualTypeRadio.accesskey "z">
 <!ENTITY wpadTypeRadio.label "Proxybeállítások automatikus felfedezése">
-<!ENTITY wpadTypeRadio.accesskey "X">
+<!ENTITY wpadTypeRadio.accesskey "x">
 <!ENTITY autoTypeRadio.label "Automatikus proxybeállítás URL:">
-<!ENTITY autoTypeRadio.accesskey "a">
+<!ENTITY autoTypeRadio.accesskey "A">
 <!ENTITY reload.label "Frissítés">
 <!ENTITY reload.accesskey "F">
 <!ENTITY http.label "Proxy:">

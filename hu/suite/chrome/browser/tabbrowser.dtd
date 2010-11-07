@@ -8,10 +8,10 @@
 <!ENTITY reloadAllTabs.label "Az összes böngészőlap frissítése">
 <!ENTITY reloadAllTabs.accesskey "ö">
 <!ENTITY reloadTab.label "Böngészőlap frissítése">
-<!ENTITY reloadTab.accesskey "R">
+<!ENTITY reloadTab.accesskey "r">
 <!ENTITY bookmarkGroup.label "Böngészőlapcsoport könyvjelzőzése">
-<!ENTITY bookmarkGroup.accesskey "K">
+<!ENTITY bookmarkGroup.accesskey "k">
 <!ENTITY closeTabButton.tooltip "Aktuális lap bezárása">
 <!ENTITY newTabButton.tooltip "Új böngészőlap megnyitása">
 <!ENTITY undoCloseTab.label "Lapbezárás visszavonása">
-<!ENTITY undoCloseTab.accesskey "V">
+<!ENTITY undoCloseTab.accesskey "v">
