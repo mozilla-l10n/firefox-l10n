@@ -39,13 +39,13 @@
 <!ENTITY AddToAddressBook.label "Felvétel a címjegyzékbe...">
 <!ENTITY AddToAddressBook.accesskey "F">
 <!ENTITY SendMailTo.label "Levél írása...">
-<!ENTITY SendMailTo.accesskey "L">
+<!ENTITY SendMailTo.accesskey "l">
 <!ENTITY CopyEmailAddress.label "E-mail cím másolása">
 <!ENTITY CopyEmailAddress.accesskey "E">
 <!ENTITY CreateFilterFrom.label "Szűrő létrehozása...">
 <!ENTITY CreateFilterFrom.accesskey "S">
-<!ENTITY copyLinkCmd.label "Hivatkozás címének másolása">
-<!ENTITY copyLinkCmd.accesskey "v">
+<!ENTITY copyLinkCmd.label                 "Hivatkozás címének másolása">
+<!ENTITY copyLinkCmd.accesskey             "v">
 <!ENTITY CopyMessageId.label "Üzenetazonosító másolása">
 <!ENTITY OpenMessageForMsgId.label "Üzenetazonosítóhoz tartozó üzenet megnyitása">
 <!ENTITY OpenBrowserWithMsgId.label "Üzenetazonosítóhoz tartozó üzenet böngészése">

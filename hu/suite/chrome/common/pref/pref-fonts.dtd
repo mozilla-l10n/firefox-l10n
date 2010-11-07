@@ -4,7 +4,7 @@
 <!ENTITY pref.fonts.title "Betűk">
 
 <!ENTITY language.label "Kódolás:">
-<!ENTITY language.accesskey "K">
+<!ENTITY language.accesskey "k">
 
 <!ENTITY typefaces.label "Betűkészlet">
 <!ENTITY sizes.label "Méret (képpont)">
@@ -13,16 +13,18 @@
 <!ENTITY proportional.accesskey "P">
 
 <!ENTITY serif.label "Talpas:">
-<!ENTITY serif.accesskey "T">
+<!ENTITY serif.accesskey "t">
 <!ENTITY sans-serif.label "Talpatlan:">
 <!ENTITY sans-serif.accesskey "a">
 <!ENTITY monospace.label "Fix szélességű:">
-<!ENTITY monospace.accesskey "F">
+<!ENTITY monospace.accesskey "f">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 <!ENTITY fantasy.label "Díszes:">
-<!ENTITY fantasy.accesskey "D">
+<!ENTITY fantasy.accesskey "d">
 <!ENTITY cursive.label "Kurzív:">
-<!ENTITY cursive.accesskey "K">
+<!ENTITY cursive.accesskey "k">
+
+<!ENTITY fontsize.units "képpont">
 
 <!ENTITY font.langGroup.latin1 "Nyugati">
 <!ENTITY font.langGroup.latin2 "Közép-európai">
@@ -53,12 +55,14 @@
 <!ENTITY font.langGroup.malayalam "Malayalam">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Legkisebb betűméret:">
-<!ENTITY minSize.accesskey "L">
+<!ENTITY minSize.accesskey "l">
 <!ENTITY minSize.none "Nincs">
 <!-- default font type -->
 
 <!ENTITY useDefaultFontSerif.label "Talpas">
 <!ENTITY useDefaultFontSansSerif.label "Talpatlan">
+
+<!ENTITY newLanguages.label "Új nyelveket a 'Nyelvek' menüpontban állíthat be.">
 
 <!ENTITY useDocumentFonts.label "A dokumentumok használhatják a saját maguk által megadott betűkészleteket.">
 <!ENTITY useDocumentFonts.accesskey "z">
@@ -68,3 +72,9 @@
 <!ENTITY header2 "Amikor a dokumentum saját maga választ betűkészletet,">
 <!ENTITY useDefaultFont.label "mindig az itt megadott betűkészleteket használja, figyelmen kívül hagyva a dokumentum beállításait.">
 <!ENTITY useDefaultFont.accesskey "m">
+<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY useDocFontNonDynamic.label "használja a dokumentumban megadott betűkészleteket, kivéve a dinamikus betűkészleteket.">
+<!ENTITY useDocFontNonDynamic.accesskey "h">
+<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY useDocFontDynamic.label "használja a dokumentumban megadott betűkészleteket, beleértve a dinamikus betűkészleteket is.">
+<!ENTITY useDocFontDynamic.accesskey "a">

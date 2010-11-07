@@ -1,4 +1,4 @@
-<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
+<!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Preferences">
 <!ENTITY categoryHeader "Category">
 <!ENTITY appear.label "Megjelenés">
@@ -11,7 +11,6 @@
 <!ENTITY applications.label "Segédalkalmazások">
 <!ENTITY locationBar.label "Címsor">
 <!ENTITY tabWindows.label "Böngészőlapok">
-<!ENTITY links.label "Link Behavior">
 <!ENTITY offline.label "Kapcsolat nélküli munka">
 <!ENTITY security.label "Adatvédelem és biztonság">
 <!ENTITY cookies.label "Sütik">
@@ -34,5 +33,3 @@
 <!ENTITY policies.label "Biztonsági házirend">
 <!ENTITY mousewheel.label "Egérgörgő">
 <!ENTITY scriptsAndWindows.label "Parancsfájlok és bővítmények">
-
-<!ENTITY focusSearch.key "f">

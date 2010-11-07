@@ -42,13 +42,13 @@
 <!ENTITY sidebar.reload.accesskey "F">
 <!ENTITY sidebar.picker.label "Panellapok">
 <!ENTITY sidebar.customize.label "Az Oldalsáv testreszabása...">
-<!ENTITY sidebar.customize.accesskey "A">
+<!ENTITY sidebar.customize.accesskey "a">
 <!ENTITY sidebar.hide.label "Panel elrejtése">
 <!ENTITY sidebar.hide.accesskey "P">
 <!ENTITY sidebar.switch.label "Váltás erre a panelre">
 <!ENTITY sidebar.switch.accesskey "V">
 <!ENTITY sidebarCmd.label "Oldalsáv">
-<!ENTITY sidebarCmd.accesskey "O">
+<!ENTITY sidebarCmd.accesskey "o">
 <!ENTITY sidebar.loading.label "Betöltés...">
 <!ENTITY sidebar.loadstopped.label "Betöltés leállítva">
 <!ENTITY sidebar.loading.stop.label "Leállítás">

@@ -41,11 +41,11 @@
 <!ENTITY unsubscribeButton.label "Leiratkozás">
 <!ENTITY unsubscribeButton.accesskey "L">
 <!ENTITY newGroupsTab.label "Új csoportok">
-<!ENTITY newGroupsTab.accesskey "j">
+<!ENTITY newGroupsTab.accesskey "J">
 <!ENTITY refreshButton.label "Frissítés">
 <!ENTITY refreshButton.accesskey "F">
 <!ENTITY stopButton.label "Leállítás">
-<!ENTITY stopButton.accesskey "s">
+<!ENTITY stopButton.accesskey "S">
 <!ENTITY server.label "Kiszolgáló:">
 <!ENTITY server.accesskey "K">
 <!ENTITY subscribedHeader.label "Feliratkozás">

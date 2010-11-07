@@ -4,15 +4,24 @@
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label "Composer">
-<!ENTITY editorCmd.accesskey "E">
+<!ENTITY editorCmd.accesskey "c">
 <!ENTITY editorCmd.commandkey "4">
 
+<!ENTITY securityInfoCmd.label ".Biztonság">
+<!ENTITY securityInfoCmd.accesskey "b">
+<!ENTITY javaConsoleCmd.label "Java konzol">
+<!ENTITY javaConsoleCmd.accesskey "j">
+
 <!ENTITY errorConsoleCmd.label "Hibakonzol">
-<!ENTITY errorConsoleCmd.accesskey "k">
-<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY errorConsoleCmd.accesskey "K">
+<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
+
+<!ENTITY privacyMenu.label "Privacy &amp; Security">
+<!ENTITY privacyMenu.accesskey "p">
 
 <!ENTITY taskNavigator.tooltip "Böngésző">
 <!ENTITY taskComposer.tooltip "HTML-szerkesztő">
+<!ENTITY taskBar.tooltip "Állapotsor">
 
 <!ENTITY webDevelopment.label "Webfejlesztés">
 <!ENTITY webDevelopment.accesskey "W">
@@ -23,25 +32,11 @@
 <!ENTITY tasksMenu.label "Eszközök">
 <!ENTITY tasksMenu.accesskey "E">
 
-<!ENTITY datamanCmd.label "Data Manager">
-<!ENTITY datamanCmd.accesskey "M">
-
-<!ENTITY passwordManagerCmd.label "Jelszókezelő">
-<!ENTITY passwordManagerCmd.accesskey "P">
-
-<!ENTITY passwordDisplayCmd.label "Tárolt jelszavak kezelése">
-<!ENTITY passwordDisplayCmd.accesskey "T">
-
-<!ENTITY passwordExpireCmd.label "Kijelentkezés">
-<!ENTITY passwordExpireCmd.accesskey "l">
-
 <!ENTITY downloadManagerCmd.label "Letöltéskezelő">
 <!ENTITY downloadManagerCmd.accesskey "L">
-<!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addonsManagerCmd.label "Kiegészők">
 <!ENTITY addonsManagerCmd.accesskey "K">
-<!ENTITY addonsManagerCmd.commandkey "n">
 
 <!ENTITY switchProfileCmd.label "Profilváltás…">
-<!ENTITY switchProfileCmd.accesskey "P">
+<!ENTITY switchProfileCmd.accesskey "p">

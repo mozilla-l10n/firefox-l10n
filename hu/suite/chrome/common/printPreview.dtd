@@ -38,9 +38,9 @@
 <!ENTITY print.label "Nyomtatás...">
 <!ENTITY print.accesskey "N">
 <!ENTITY pageSetup.label "Oldalbeállítás...">
-<!ENTITY pageSetup.accesskey "O">
+<!ENTITY pageSetup.accesskey "o">
 <!ENTITY page.label "Oldal:">
-<!ENTITY page.accesskey "O">
+<!ENTITY page.accesskey "o">
 <!ENTITY of.label "/">
 <!ENTITY scale.label "Méret:">
 <!ENTITY scale.accesskey "M">

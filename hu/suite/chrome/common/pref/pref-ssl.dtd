@@ -36,30 +36,34 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY SSLProtocolVersions.caption "SSL protokoll verziói">
-<!ENTITY SSLWarnings.caption "SSL-figyelmeztetések">
-<!ENTITY SSLClientAuthMethod.caption "Ügyféloldali tanúsítvány kiválasztása">
+<!ENTITY  SSLProtocolVersions.caption       "SSL protokoll verziói">
+<!ENTITY  SSLWarnings.caption               "SSL-figyelmeztetések">
+<!ENTITY  SSLClientAuthMethod.caption       "Ügyféloldali tanúsítvány kiválasztása">
 
-<!ENTITY pref.ssl.title "SSL">
-<!ENTITY enable.ssl3 "SSL v3 engedélyezése">
-<!ENTITY enable.ssl3.accesskey "3">
-<!ENTITY enable.tls "TLS engedélyezése">
-<!ENTITY enable.tls.accesskey "T">
+<!ENTITY pref.ssl.title                     "SSL">
+<!ENTITY enable.ssl3                        "SSL v3 engedélyezése">
+<!ENTITY enable.ssl3.accesskey              "3">
+<!ENTITY enable.tls                         "TLS engedélyezése">
+<!ENTITY enable.tls.accesskey               "T">
 
-<!ENTITY warn.description "A &brandShortName; figyelmeztethet az aktuális weboldal titkosítási fokozatára. A &brandShortName; figyelmeztessen és kérdezzen rá, mielőtt">
-<!ENTITY warn.enteringsecure "Betöltene egy titkosított oldalt">
-<!ENTITY warn.enteringsecure.accesskey "t">
-<!ENTITY warn.enteringweak "Betöltene egy gyengén titkosított oldalt">
-<!ENTITY warn.enteringweak.accesskey "e">
-<!ENTITY warn.insecurepost "Űrlapadatot küldene egy titkosítatlan oldalról egy titkosítatlan oldalra">
-<!ENTITY warn.insecurepost.accesskey "r">
-<!ENTITY warn.leavingsecure "Elhagyna egy titkosított oldalt">
-<!ENTITY warn.leavingsecure.accesskey "l">
-<!ENTITY warn.viewmixed "Betöltene egy titkosított és nem titkosított elemeket vegyesen tartalmazó oldalt">
-<!ENTITY warn.viewmixed.accesskey "n">
+<!ENTITY warn.description                   "A &brandShortName; figyelmeztethet az aktuális weboldal titkosítási fokozatára. A &brandShortName; figyelmeztessen és kérdezzen rá, mielőtt">
+<!ENTITY warn.enteringsecure                "Betöltene egy titkosított oldalt">
+<!ENTITY warn.enteringsecure.accesskey      "t">
+<!ENTITY warn.enteringweak                  "Betöltene egy gyengén titkosított oldalt">
+<!ENTITY warn.enteringweak.accesskey        "e">
+<!ENTITY warn.insecurepost                  "Űrlapadatot küldene egy titkosítatlan oldalról egy titkosítatlan oldalra">
+<!ENTITY warn.insecurepost.accesskey        "r">
+<!ENTITY warn.leavingsecure                 "Elhagyna egy titkosított oldalt">
+<!ENTITY warn.leavingsecure.accesskey       "l">
+<!ENTITY warn.secureredirect                "Átirányítana az egyik titkosított oldalról egy másik titkosítottra">
+<!ENTITY warn.secureredirecttoinsecure      "Átirányítana egy titkosított oldalról egy nem titkosítottra">
+<!ENTITY warn.viewmixed                     "Betöltene egy titkosított és nem titkosított elemeket vegyesen tartalmazó oldalt">
+<!ENTITY warn.viewmixed.accesskey           "n">
 
-<!ENTITY certselect.description "Ha egy webhely tanúsítványt igényel, a &brandShortName; hogyan válassza ki a megfelelőt:">
-<!ENTITY certselect.auto "Automatikusan">
-<!ENTITY certselect.auto.accesskey "A">
-<!ENTITY certselect.ask "Kérdezzen rá minden alkalommal">
-<!ENTITY certselect.ask.accesskey "K">
+<!ENTITY certselect.description             "Ha egy webhely tanúsítványt igényel, a &brandShortName; hogyan válassza ki a megfelelőt:">
+<!ENTITY certselect.auto                    "Automatikusan">
+<!ENTITY certselect.auto.accesskey          "A">
+<!ENTITY certselect.ask                     "Kérdezzen rá minden alkalommal">
+<!ENTITY certselect.ask.accesskey           "K">
+
+

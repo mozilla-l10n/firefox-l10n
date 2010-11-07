@@ -57,23 +57,21 @@
 <!ENTITY originalWebsite.label "Webhely: ">
 
 <!ENTITY editMessage.label "Piszkozat szerkesztése...">
-<!ENTITY editMessage.accesskey "D">
 
 <!ENTITY attachmentsTree.label "Mellékletek:">
-<!ENTITY attachmentsTree.accesskey "c">
 <!ENTITY openAttachmentCmd.label "Megnyitás">
 <!ENTITY openAttachmentCmd.accesskey "M">
 <!ENTITY viewAttachmentCmd.label "Forrás megtekintése">
 <!ENTITY viewAttachmentCmd.accesskey "F">
 <!ENTITY saveAsAttachmentCmd.label "Mentés másként...">
-<!ENTITY saveAsAttachmentCmd.accesskey "e">
+<!ENTITY saveAsAttachmentCmd.accesskey "E">
 <!ENTITY detachAttachmentCmd.label "Leválasztás...">
-<!ENTITY detachAttachmentCmd.accesskey "L">
+<!ENTITY detachAttachmentCmd.accesskey "l">
 <!ENTITY deleteAttachmentCmd.label "Törlés">
-<!ENTITY deleteAttachmentCmd.accesskey "T">
+<!ENTITY deleteAttachmentCmd.accesskey "t">
 <!ENTITY saveAllAttachmentsCmd.label "Összes mentése...">
-<!ENTITY saveAllAttachmentsCmd.accesskey "e">
+<!ENTITY saveAllAttachmentsCmd.accesskey "E">
 <!ENTITY detachAllAttachmentsCmd.label "Összes leválasztása...">
-<!ENTITY detachAllAttachmentsCmd.accesskey "l">
+<!ENTITY detachAllAttachmentsCmd.accesskey "L">
 <!ENTITY deleteAllAttachmentsCmd.label "Összes törlése...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "t">

@@ -6,8 +6,9 @@
 <!ENTITY neverEncrypt.label "Soha">
 <!ENTITY neverEncrypt.accesskey "S">
 <!ENTITY alwaysEncryptMessage.label "Mindig (ne engedje feladni az üzenetet, ha nincs minden címzettnek tanúsítványa)">
-<!ENTITY alwaysEncryptMessage.accesskey "M">
+<!ENTITY alwaysEncryptMessage.accesskey "m">
 <!ENTITY encryptionCert.message "Az alábbi tanúsítvány használata az Önnek küldött levelek titkosításához és visszafejtéséhez:">
+<!ENTITY encryptionCert.notselected "Nincs beállított tanúsítvány">
 <!ENTITY digitalSign.certificate.button "Kiválasztás...">
 <!ENTITY digitalSign.certificate.accesskey "K">
 <!ENTITY digitalSign.certificate_clear.button "Törlés">
@@ -18,8 +19,9 @@
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Digitális aláírás">
 <!ENTITY signMessage.label "Üzenetek digitális aláírása">
-<!ENTITY signMessage.accesskey "d">
+<!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Az alábbi tanúsítvány használata az Ön által küldött levelek aláírásához:">
+<!ENTITY signingCert.notselected "Nincs beállított tanúsítvány">
 
 <!ENTITY certificates.label "Tanúsítványok">
 <!ENTITY manageCerts.label "Tanúsítványok kezelése…">

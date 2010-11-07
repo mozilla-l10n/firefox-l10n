@@ -51,7 +51,7 @@
 <!ENTITY sidebar.customize.add.label "Hozzáadás">
 <!ENTITY sidebar.customize.add.accesskey "H">
 <!ENTITY sidebar.customize.preview.label "Előnézet...">
-<!ENTITY sidebar.customize.preview.accesskey "n">
+<!ENTITY sidebar.customize.preview.accesskey "N">
 <!ENTITY sidebar.customize.up.label "Fel">
 <!ENTITY sidebar.customize.up.accesskey "F">
 <!ENTITY sidebar.customize.down.label "Le">

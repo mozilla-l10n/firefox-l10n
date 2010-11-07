@@ -8,17 +8,17 @@
 <!ENTITY backgroundColor.label "Háttér:">
 <!ENTITY backgroundColor.accesskey "H">
 <!ENTITY useSystemColors.label "Rendszerszínek használata">
-<!ENTITY useSystemColors.accesskey "R">
+<!ENTITY useSystemColors.accesskey "r">
 
 <!ENTITY underlineLinks.label "Hivatkozások aláhúzása">
 <!ENTITY underlineLinks.accesskey "H">
 <!ENTITY links "Hivatkozás színei">
 <!ENTITY linkColor.label "Nem látogatott hivatkozások:">
-<!ENTITY linkColor.accesskey "l">
+<!ENTITY linkColor.accesskey "L">
 <!ENTITY activeLinkColor.label "Aktív hivatkozások:">
 <!ENTITY activeLinkColor.accesskey "k">
 <!ENTITY visitedLinkColor.label "Látogatott hivatkozások:">
-<!ENTITY visitedLinkColor.accesskey "t">
+<!ENTITY visitedLinkColor.accesskey "T">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
 <!ENTITY someProvColors "Amikor a weboldal meghatározza a hátteret és a színeket">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->

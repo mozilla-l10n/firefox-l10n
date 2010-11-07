@@ -45,35 +45,33 @@
 <!ENTITY folderCharsetTab.accesskey "A">
 <!ENTITY folderCharsetOverride.label "Az alapértelmezés alkalmazása a mappa összes üzeneténél (az üzenet egyedi karakterkódolás-beállításai és az automatikus felismerés figyelmen kívül hagyása)">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFileTip2.label "Rebuild Summary File Index">
-<!ENTITY folderRebuildSummaryFile2.label "Repair Folder">
-<!ENTITY folderRebuildSummaryFile2.accesskey "R">
-<!ENTITY folderRebuildSummaryFile.explanation "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
-<!ENTITY folderIncludeInGlobalSearch.label "Include messages in this folder in Global Search results">
-<!ENTITY folderIncludeInGlobalSearch.accesskey "G">
+<!ENTITY folderRebuildSummaryFile.label "Indexfájl újraépítése">
+<!ENTITY folderRebuildSummaryFile.accesskey "J">
+<!ENTITY folderRebuildSummaryFileTip.label "Összefoglaló fájl újraépítése">
 
 <!ENTITY retention.label "Megőrzési házirend">
-<!ENTITY retentionUseAccount.label "Use my account settings">
-<!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY retentionUseDefault.label "Kiszolgáló alapértelmezéseinek használata">
+<!ENTITY retentionUseDefault.accesskey "a">
+<!ENTITY days.label "nap">
 <!ENTITY daysOld.label "nap">
 <!ENTITY message.label "üzenet">
+<!ENTITY retentionNotDownloadRead.label "Üzenet olvasása">
+<!ENTITY retentionNotDownloadRead.accesskey "O">
+<!ENTITY retentionDownloadMsg.label "Üzenetek, melyek régebbiek, mint">
+<!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Megtartás:">
-<!ENTITY retentionCleanupImap.label "Keep messages, both the local copies and their originals on the server:">
-<!ENTITY retentionCleanupPop.label "Keep messages, including their originals on the server:">
 <!ENTITY retentionDeleteMsg.label "Üzenetek törlése, ha régebbiek, mint">
 <!ENTITY retentionDeleteMsg.accesskey "r">
 <!ENTITY retentionKeepAll.label "Minden üzenet">
 <!ENTITY retentionKeepAll.accesskey "M">
-<!ENTITY retentionKeepRecent.label "A legújabb">
-<!ENTITY retentionKeepRecent.accesskey "n">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
-<!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionKeepNew.label "A legújabb">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Csak az olvasatlan üzenetek">
+<!ENTITY retentionKeepUnread.accesskey "c">
 
-<!ENTITY folderSynchronizationTab.label "Szinkronizálás">
-<!ENTITY folderCheckForNewMessages2.label "When getting new messages for this account, always check this folder">
-<!ENTITY folderCheckForNewMessages2.accesskey "c">
+<!ENTITY folderOfflineTab.label "Kapcsolat nélküli munka">
+<!ENTITY folderCheckForNewMessages.label "Új üzenetek keresése ebben a mappában">
+<!ENTITY folderCheckForNewMessages.accesskey "Z">
 
 <!ENTITY offlineFolder.check.label "Mappa kiválasztása kapcsolat nélküli munkához">
 <!ENTITY offlineFolder.check.accesskey "M">
@@ -81,16 +79,19 @@
 <!ENTITY offlineFolder.button.accesskey "L">
 
 <!ENTITY selectofflineNewsgroup.check.label "Hírcsoport kiválasztása kapcsolat nélküli munkához">
-<!ENTITY selectofflineNewsgroup.check.accesskey "H">
+<!ENTITY selectofflineNewsgroup.check.accesskey "h">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "A fiókbeállításnál megadott alapbeállítások használata ">
 <!ENTITY offlineNewsgroup.button.label "Letöltés">
 <!ENTITY offlineNewsgroup.button.accesskey "L">
 
+<!ENTITY folderProps.information.label "Információ:">
 <!ENTITY folderProps.name.label "Név:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Hely:">
 <!ENTITY folderProps.location.accesskey "H">
 
 <!ENTITY folderSharingTab.label "Megosztás">
+<!ENTITY privilegesDesc.label "Mappa megosztása a hálózati felhasználók számára és a jogosultságok beállítása">
 <!ENTITY privileges.button.label "Jogosultságok...">
 <!ENTITY privileges.button.accesskey "J">
 <!ENTITY permissionsDesc.label "A következő jogosultságokkal rendelkezik:">

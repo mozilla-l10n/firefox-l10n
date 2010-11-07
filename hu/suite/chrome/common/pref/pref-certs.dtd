@@ -36,16 +36,18 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY managecerts.caption "Tanúsítványkezelő">
-<!ENTITY managecerts.text "A tanúsítványkezelő segítségével mind a saját személyes, mind más emberek és hitelesítésszolgáltatók tanúsítványait kezelheti.">
-<!ENTITY managecerts.button "Tanúsítványok kezelése...">
-<!ENTITY managecerts.accesskey "T">
-<!ENTITY managedevices.caption "Adatvédelmi eszközök kezelése">
-<!ENTITY managedevices.text "Ezzel a gombbal kezelheti az adatvédelmi eszközeit, pl. az intelligens chipkártyákat.">
-<!ENTITY managedevices.button "Adatvédelmi eszközök kezelése...">
-<!ENTITY managedevices.accesskey "A">
+<!ENTITY  resetsettings.label      "Beállítások törlése">
+<!ENTITY  resetpreferences.label   "Beállításokat töröl...">
+<!ENTITY  managecerts.caption      "Tanúsítványkezelő">
+<!ENTITY  managecerts.text         "A tanúsítványkezelő segítségével mind a saját személyes, mind más emberek és hitelesítésszolgáltatók tanúsítványait kezelheti.">
+<!ENTITY  managecerts.button       "Tanúsítványok kezelése...">
+<!ENTITY managecerts.accesskey    "T">
+<!ENTITY  managedevices.caption    "Adatvédelmi eszközök kezelése">
+<!ENTITY  managedevices.text       "Ezzel a gombbal kezelheti az adatvédelmi eszközeit, pl. az intelligens chipkártyákat.">
+<!ENTITY  managedevices.button     "Adatvédelmi eszközök kezelése...">
+<!ENTITY managedevices.accesskey  "A">
 
-<!ENTITY ssl.label "SSL">
+<!ENTITY  ssl.label                "SSL">
 
-<!ENTITY pref.certs.title "Tanúsítványok">
-<!ENTITY certs.label "Tanúsítványok">
+<!ENTITY  pref.certs.title         "Tanúsítványok">
+<!ENTITY  certs.label              "Tanúsítványok">

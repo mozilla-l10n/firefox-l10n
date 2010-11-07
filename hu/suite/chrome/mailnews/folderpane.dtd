@@ -20,7 +20,6 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
-    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -39,7 +38,6 @@
 <!ENTITY unreadColumn.label "Olvasatlan">
 <!ENTITY totalColumn.label "Összesen">
 <!ENTITY folderSizeColumn.label "Méret">
-<!ENTITY folderLocationToolbarItem.title "Folder Location">
-<!ENTITY mailViewsToolbarItem.title "Mail Views">
-<!ENTITY searchToolbarItem.title "Search">
-<!ENTITY searchSubjectOrAddress.placeholder "Search Subject or Address">
+<!ENTITY accounts.label "Fiókok">
+<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
+<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

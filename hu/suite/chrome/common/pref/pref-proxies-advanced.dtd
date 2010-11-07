@@ -3,17 +3,20 @@
 <!ENTITY protocols.caption "Protokollspecifikus proxyk">
 <!ENTITY protocols.description "Általában ugyanaz a proxy képes kezelni az összes felsorolt protokollt.">
 <!ENTITY http.label "HTTP-proxy:">
-<!ENTITY http.accesskey "T">
+<!ENTITY http.accesskey "t">
 <!ENTITY ssl.label "SSL-proxy:">
 <!ENTITY ssl.accesskey "S">
 <!ENTITY ftp.label "FTP-proxy:">
 <!ENTITY ftp.accesskey "F">
+<!ENTITY gopher.label "Gopher-proxy:">
+<!ENTITY gopher.accesskey "G">
 <!ENTITY reuseProxy.label "A HTTP-proxy beállításainak használata minden protokollhoz">
 <!ENTITY reuseProxy.accesskey "A">
 <!ENTITY port.label "Port:">
 <!ENTITY HTTPPort.accesskey "P">
 <!ENTITY SSLPort.accesskey "o">
 <!ENTITY FTPPort.accesskey "r">
+<!ENTITY gopherPort.accesskey "t">
 
 <!ENTITY socks.caption "Általános proxy">
 <!ENTITY socks.description "A SOCKS proxy egy általános proxy, amelyet vállalati vagy hasonló környezetben szoktak használni.">

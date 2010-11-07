@@ -8,7 +8,7 @@
 <!ENTITY plainTextAndHtml.label "Küldés normál szövegként és HTML-ben">
 <!ENTITY plainTextAndHtml.accesskey "s">
 <!ENTITY plainTextOnly.label "Küldés csak normál szövegként">
-<!ENTITY plainTextOnly.accesskey "n">
+<!ENTITY plainTextOnly.accesskey "N">
 <!ENTITY htmlOnly.label "Küldés csak HTML-ben">
 <!ENTITY htmlOnly.accesskey "H">
 

@@ -9,15 +9,15 @@
 <!ENTITY mbytes "MB">
 <!ENTITY diskCacheFolder.label "Gyorsítótár mappája:">
 <!ENTITY clearDiskCache.label "Gyorsítótár törlése">
-<!ENTITY clearDiskCache.accesskey "o">
+<!ENTITY clearDiskCache.accesskey "O">
 <!ENTITY chooseDiskCacheFolder.label "Mappa választása...">
-<!ENTITY chooseDiskCacheFolder.accesskey "v">
+<!ENTITY chooseDiskCacheFolder.accesskey "V">
 <!ENTITY diskCacheFolderExplanation "A gyorsítótár fájljai a megadott mappa &quot;Cache&quot; alkönyvtárában fognak elhelyezkedni. A változások érvénybe lépéséhez újra kell indítani a &brandShortName; programot.">
 <!ENTITY docCache "A gyorsítótárban található változat összehasonlítása a hálózaton találhatóval:">
 <!ENTITY oncePsessionRadio.label "Indításonként egyszer">
 <!ENTITY oncePsessionRadio.accesskey "I">
 <!ENTITY everyTimeRadio.label "Mindig">
-<!ENTITY everyTimeRadio.accesskey "n">
+<!ENTITY everyTimeRadio.accesskey "N">
 <!ENTITY neverRadio.label "Soha">
 <!ENTITY neverRadio.accesskey "S">
 <!ENTITY autoRadio.label "Automatikusan">
