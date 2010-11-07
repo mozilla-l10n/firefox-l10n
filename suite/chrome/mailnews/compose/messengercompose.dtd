@@ -5,7 +5,7 @@
 <!ENTITY fromAddr.accesskey "V">
 <!ENTITY subject.label  "Betreff:">
 <!ENTITY subject.accesskey "r">
-<!ENTITY attachments.label "Attachments:">
+<!ENTITY attachments.label "Anhänge:">
 <!ENTITY attachments.accesskey "A">
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
@@ -24,7 +24,7 @@
 <!ENTITY saveAsDraftCmd.accesskey "E">
 <!ENTITY saveAsTemplateCmd.label "Vorlage">
 <!ENTITY saveAsTemplateCmd.accesskey "V">
-<!ENTITY attachMenu.label "Attachment">
+<!ENTITY attachMenu.label "Anhängen">
 <!ENTITY attachMenu.accesskey "A">
 <!ENTITY attachFileCmd.label "Datei(en)…">
 <!ENTITY attachFileCmd.accesskey "D">
@@ -123,7 +123,7 @@
 <!-- Toolbar items -->
 <!ENTITY sendButton.label "Senden">
 <!ENTITY addressButton.label "Adresse">
-<!ENTITY attachButton.label "Attachment">
+<!ENTITY attachButton.label "Anhängen">
 <!ENTITY spellingButton.label "Rechtschr.">
 <!ENTITY saveButton.label "Speichern">
 <!ENTITY stopButton.label "Stopp">
@@ -135,7 +135,7 @@
 <!ENTITY sendButton.tooltip "Diese Nachricht jetzt senden"> 
 <!ENTITY sendlaterButton.tooltip "Diese Nachricht später senden"> 
 <!ENTITY addressButton.tooltip "Empfänger aus einem Adressbuch wählen"> 
-<!ENTITY attachButton.tooltip "Attachment anfügen"> 
+<!ENTITY attachButton.tooltip "Anhang anfügen"> 
 <!ENTITY saveButton.tooltip "Diese Nachricht speichern"> 
 <!ENTITY stopButton.tooltip "Aktuelle Übertragung stoppen"> 
 
@@ -164,7 +164,7 @@
 <!ENTITY renameAttachment.accesskey "U">
 <!ENTITY selectAll.label "Alles auswählen">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "Datei(en) als Attachment anfügen…">
+<!ENTITY attachFile.label "Datei(en) anhängen…">
 <!ENTITY attachFile.accesskey "D">
-<!ENTITY attachPage.label "Web-Seite als Attachment anfügen…">
+<!ENTITY attachPage.label "Webseite anhängen…">
 <!ENTITY attachPage.accesskey "W">
