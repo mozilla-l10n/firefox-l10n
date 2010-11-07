@@ -45,7 +45,8 @@
 <!ENTITY copy.accesskey "M">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Minden kijelölése">
-<!ENTITY selectall.accesskey "D">
+<!ENTITY selectall.accesskey "d">
+<!ENTITY openHelpMac.key "?">
 <!ENTITY closeWindow.key "w">
 
 <!ENTITY generalTab "Általános">
@@ -60,15 +61,14 @@
 <!ENTITY generalEncoding "Kódolás:">
 <!ENTITY generalMetaName "Név">
 <!ENTITY generalMetaContent "Tartalom">
-<!ENTITY generalSecurityMore "Több">
-<!ENTITY generalSecurityMore.accesskey "T">
+<!ENTITY generalSecurityDetails "Details">
+<!ENTITY generalSecurityDetails.accesskey "D">
 
 <!ENTITY formsTab "Űrlapok">
 <!ENTITY formsTab.accesskey "r">
 <!ENTITY formAction "Űrlapművelet">
 <!ENTITY formMethod "Módszer">
 <!ENTITY formName "Név">
-<!ENTITY formNo "Szám">
 <!ENTITY formEncoding "Kódolás:">
 <!ENTITY formTarget "Cél:">
 <!ENTITY formFields "Mezők:">
@@ -113,6 +113,7 @@
 <!ENTITY permTab "Engedélyek">
 <!ENTITY permTab.accesskey "E">
 <!ENTITY permUseDefault "Alapértelmezés használata">
+<!ENTITY permAskAlways "Always ask">
 <!ENTITY permAllow "Engedélyezés">
 <!ENTITY permAllowSession "Engedélyezés a munkamenetben">
 <!ENTITY permBlock "Tiltás">
@@ -121,6 +122,7 @@
 <!ENTITY permPopup "Felugró ablak megnyitása">
 <!ENTITY permCookie "Süti elhelyezése">
 <!ENTITY permInstall "Kiterjesztés vagy téma telepítése">
+<!ENTITY permGeo "Share Location">
 
 <!ENTITY securityTab "Biztonság">
 <!ENTITY securityTab.accesskey "B">

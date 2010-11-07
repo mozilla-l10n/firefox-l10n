@@ -25,7 +25,7 @@
 <!ENTITY closeCmd.key "W">
 
 <!ENTITY printSetupCmd.label "Oldalbeállítás...">
-<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printSetupCmd.accesskey "O">
 
 <!ENTITY redoCmd.label "Újra">
 <!ENTITY redoCmd.key "Z">

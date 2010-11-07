@@ -2,12 +2,12 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Nem megbízható kapcsolat">
+<!ENTITY certerror.pagetitle "Nem megbízható kapcsolat">
 <!ENTITY certerror.longpagetitle "Ez a kapcsolat nem megbízható">
-
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+
 <!ENTITY certerror.introPara1 "Azt szerette volna, hogy a &brandShortName; biztonságosan kapcsolódjon a következőhöz: <b>#1</b>, de nem garantálható, hogy a kapcsolat biztonságos.">
 <!ENTITY certerror.introPara2 "Általában a biztonságos kapcsolat létrehozásakor a webhelyek megbízhatóan azonosítják magukat, hogy bizonyítsák, hogy a felhasználó jó helyen jár. Ennek a webhelynek viszont nem ellenőrizhető az azonossága.">
 

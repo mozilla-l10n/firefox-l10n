@@ -37,39 +37,43 @@
 
 <!ENTITY newDirectoryTitle.label "Címtárkiszolgáló tulajdonságai">
 <!ENTITY directoryName.label "Név: ">
-<!ENTITY directoryName.accesskey "n">
+<!ENTITY directoryName.accesskey "N">
 <!ENTITY directoryHostname.label "Gépnév: ">
-<!ENTITY directoryHostname.accesskey "g">
+<!ENTITY directoryHostname.accesskey "G">
 <!ENTITY directoryBaseDN.label "Alap DN: ">
-<!ENTITY directoryBaseDN.accesskey "a">
+<!ENTITY directoryBaseDN.accesskey "A">
 <!ENTITY findButton.label "Keresés">
-<!ENTITY findButton.accesskey "k">
+<!ENTITY findButton.accesskey "K">
 <!ENTITY directorySecure.label "Biztonságos kapcsolat (SSL) használata">
 <!ENTITY directorySecure.accesskey "B">
 <!ENTITY directoryLogin.label "Bejelentkezési DN: ">
 <!ENTITY directoryLogin.accesskey "e">
-<!ENTITY advancedOptionsButton.label "Haladó beállítások">
-<!ENTITY advancedOptionsButton.accesskey "h">
 <!ENTITY General.tab "Általános">
 <!ENTITY Offline.tab "Kapcsolat nélküli munka">
 <!ENTITY Advanced.tab "Haladó">
-<!ENTITY advancedOptionsTitle.label "Haladó beállítások">
 <!ENTITY portNumber.label "Port száma: ">
-<!ENTITY portNumber.accesskey "p">
+<!ENTITY portNumber.accesskey "P">
 <!ENTITY searchFilter.label "Keresési szűrő: ">
 <!ENTITY searchFilter.accesskey "e">
 <!ENTITY scope.label "Hatókör: ">
-<!ENTITY scope.accesskey "h">
+<!ENTITY scope.accesskey "H">
 <!ENTITY scopeOneLevel.label "Egy szint">
 <!ENTITY scopeOneLevel.accesskey "E">
 <!ENTITY scopeSubtree.label "Részfa">
 <!ENTITY scopeSubtree.accesskey "R">
 <!ENTITY return.label "Ne legyen több, mint">
-<!ENTITY return.accesskey "n">
+<!ENTITY return.accesskey "N">
 <!ENTITY results.label "találat">
 <!ENTITY offlineText.label "A címtár tartalma letölthető a helyi gépre, így akkor is elérhető lesz, amikor kapcsolat nélküli üzemmódban dolgozik.">
+<!ENTITY saslMechanism.label "Login method: ">
+<!ENTITY saslMechanism.accesskey "m">
+<!ENTITY saslOff.label "Simple">
+<!ENTITY saslOff.accesskey "l">
+<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey "K">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
+
 <!ENTITY newDirectoryWidth "36em">

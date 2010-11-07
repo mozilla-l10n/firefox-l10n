@@ -40,33 +40,24 @@
 <!ENTITY confirmMove.label "Jóváhagyás kérése mappáknak a Törölt elemek mappába való áthelyezésekor">
 <!ENTITY confirmMove.accesskey "J">
 <!ENTITY preserveThreading.label "Témacsoportok megőrzése az üzenetek rendezésekor">
-<!ENTITY preserveThreading.accesskey "t">
+<!ENTITY preserveThreading.accesskey "T">
+<!ENTITY mailBiffOnNewWindow.label "Only check for new mail after opening Mail &amp; Newsgroups">
+<!ENTITY mailBiffOnNewWindow.accesskey "O">
 
 <!ENTITY defaultMailSettings.description "A &brandShortName; az alapértelmezett alkalmazás a következőkhöz:">
 <!ENTITY setDefaultMail.label "Levelezés">
 <!ENTITY setDefaultMail.accesskey "L">
 <!ENTITY setDefaultNews.label "Hírcsoportok">
 <!ENTITY setDefaultNews.accesskey "H">
-<!ENTITY setDefaultFeed.label             "Hírforrások">
-<!ENTITY setDefaultFeed.accesskey         "o">
+<!ENTITY setDefaultFeed.label "Hírforrások">
+<!ENTITY setDefaultFeed.accesskey "o">
 
 <!ENTITY messengerStartPage.caption "Levelező kezdőoldala">
 <!ENTITY enableStartPage.label "A Levelező indításakor a Levelező kezdőoldala töltődik be az üzenetek helyére">
-<!ENTITY enableStartPage.accesskey "K">
+<!ENTITY enableStartPage.accesskey "k">
 <!ENTITY location.label "Hely:">
 <!ENTITY location.accesskey "H">
 <!ENTITY useDefault.label "Alaphelyzet">
 <!ENTITY useDefault.accesskey "A">
 <!ENTITY rememberLastMsg.label "Az utolsó kijelölés megjegyzése">
 <!ENTITY rememberLastMsg.accesskey "u">
-<!ENTITY toolbarIntro.caption "Válassza ki azokat a gombokat, amelyeket az eszköztáron szeretne látni">
-<!ENTITY fileButton.label "Iktatás">
-<!ENTITY fileButton.accesskey "I">
-<!ENTITY nextButton.label "Következő">
-<!ENTITY nextButton.accesskey "k">
-<!ENTITY junkMailButton.label "Szemét">
-<!ENTITY junkMailButton.accesskey "S">
-<!ENTITY printButton.label "Nyomtatás">
-<!ENTITY printButton.accesskey "N">
-<!ENTITY stopButton.label "Leállítás">
-<!ENTITY stopButton.accesskey "L">

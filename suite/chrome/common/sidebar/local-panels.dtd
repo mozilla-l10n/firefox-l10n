@@ -37,7 +37,6 @@
 <!-- extracted from ./local-panels.rdf -->
 
 
-<!ENTITY sidebar.whats-related.label "Kapcsolódó témák">
 <!ENTITY sidebar.search.label "Keresés">
 <!ENTITY sidebar.client-bookmarks.label "Könyvjelzők">
 <!ENTITY sidebar.client-history.label "Előzmények">

@@ -3,6 +3,6 @@
 <!ENTITY newMessageCmd.label "Üzenet">
 <!ENTITY newMessageCmd.accesskey "Ü">
  
-<!ENTITY newCardCmd.label "Névjegykártya">
-<!ENTITY newCardCmd.accesskey "n">
+<!ENTITY newContactCmd.label "Contact…">
+<!ENTITY newContactCmd.accesskey "C">
 

@@ -1,10 +1,10 @@
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
 
-<!ENTITY messengerCmd.label "Levelező és hírolvasó">
-<!ENTITY messengerCmd.accesskey "L">
+<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "2">
 <!ENTITY addressBookCmd.label "Címjegyzék">
-<!ENTITY addressBookCmd.accesskey "c">
+<!ENTITY addressBookCmd.accesskey "C">
 <!ENTITY addressBookCmd.commandkey "5">
 
 <!ENTITY taskMessenger.tooltip "Levelező és hírolvasó">
@@ -15,5 +15,5 @@
 <!ENTITY searchAddressesCmd.accesskey "C">
 
 <!ENTITY searchMailCmd.label "Üzenetek keresése...">
-<!ENTITY searchMailCmd.accesskey "E">
+<!ENTITY searchMailCmd.accesskey "e">
 <!ENTITY searchMailCmd.key "f">
