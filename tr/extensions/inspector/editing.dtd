@@ -14,3 +14,10 @@
 <!ENTITY mnEditEdit.accesskey "z">
 <!ENTITY mnEditDelete.label "Sil">
 <!ENTITY mnEditDelete.accesskey "S">
+<!ENTITY mnEditInspectInNewWindow.label "Yeni pencerede gözle">
+<!ENTITY mnEditInspectInNewWindow.accesskey "Y">
+<!ENTITY mnEditInspectInNewWindow.key "y">
+<!ENTITY mnEditCopyFileURI.label "URI'yi kopyala">
+<!ENTITY mnEditCopyFileURI.accesskey "U">
+<!ENTITY mnEditViewFileURI.label "Dosyaya bak">
+<!ENTITY mnEditViewFileURI.accesskey "V">

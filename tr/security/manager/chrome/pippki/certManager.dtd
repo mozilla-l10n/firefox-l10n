@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey "t">
 
 <!ENTITY exceptionMgr.title "Güvenlik ayrıcalığı tanı">
-<!ENTITY exceptionMgr.exceptionButton "Güvenlik ayrıcalığını doğrula">
-<!ENTITY exceptionMgr.exceptionButtonAccess "d">
+<!ENTITY exceptionMgr.exceptionButton.label "Güvenlik ayrıcalığını doğrula">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "d">
 <!ENTITY exceptionMgr.supplementalWarning "Yasal bankalar, mağazalar ve diğer kamu siteleri sizden bunu yapmanızı istemeyecektir.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Sunucu">
 <!ENTITY exceptionMgr.certlocation.url "Konum:">

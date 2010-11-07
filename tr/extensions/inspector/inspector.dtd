@@ -17,6 +17,8 @@
 <!ENTITY mnInspectContentDocument.accesskey "b">
 <!ENTITY mnInspectChromeDocument.label "Chrome belgesi incele">
 <!ENTITY mnInspectChromeDocument.accesskey "h">
+<!ENTITY mnInspectApplicationAccessible.label "Inspect Application Accessible">
+<!ENTITY mnInspectApplicationAccessible.accesskey "A">
 <!ENTITY cmdEnterLocation.label "URL incele">
 <!ENTITY cmdEnterLocation.accesskey "U">
 <!ENTITY cmdEnterLocation.key "L">
@@ -52,8 +54,6 @@
 <!ENTITY cmdFlashOnSelect.accesskey "S">
 
 <!ENTITY browserPanel.label "Browser">
-
-<!ENTITY inspectNewWindow.label "Inspect in New Window">
 
 <!ENTITY saveCmd.key "S">
 <!ENTITY closeCmd.key "W">

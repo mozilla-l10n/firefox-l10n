@@ -1,4 +1,4 @@
-<!ENTITY startDescriptionText.label "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
+<!ENTITY startDescriptionText.label "Bir web sitesi sizin izninizi almadan bir pencere açmaya çalıştı. &brandShortName; açılır pencereyi otomatik olarak kapattı.">
 
 <!ENTITY endDescription.label "Bu simgeye tıklayarak hangi sayfanın istem dışı açılan penceresinin &brandShortName; tarafından engellendiğini görebilirsiniz. İsterseniz bu pencereye izin verebilir ve açılır pencerelerin engellenmesiyle ilgili diğer ayarları da yapabilirsiniz.">
 

@@ -42,8 +42,6 @@
 <!ENTITY newRules.label "Yeni">
 <!ENTITY deleteSelectedRules.label "Sil">
 <!ENTITY disableSelectedRules.label "Disable">
-<!ENTITY copySelectedFileURI.label "Copy URI">
-<!ENTITY viewSelectedFileURI.label "View File">
 <!-- LOCALIZATION NOTE: DO NOT LOCALIZE "!important" since it is a CSS API -->
 
 <!ENTITY toggleSelectedImportant.label "Toggle !important">

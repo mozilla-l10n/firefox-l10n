@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Yer imi araç çubuğu">
 <!ENTITY personalbarCmd.accesskey "Y">
 <!ENTITY bookmarksToolbarItem.label "Yer imi araç çubuğu öğeleri">
-<!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Eklenti çubuğu">
+<!ENTITY addonBarCmd.accesskey "E">
 
 <!ENTITY pageSourceCmd.label "Sayfa kaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "İleri">
 <!ENTITY forwardCmd.accesskey "r">
 <!ENTITY forwardButton.tooltip "Bir sayfa ileriye">
-<!ENTITY backForwardMenu.tooltip "Yakında açılan sayfalar">
 <!ENTITY reloadCmd.label "Tazele">
 <!ENTITY reloadCmd.accesskey "T">
 <!ENTITY reloadButton.tooltip "Geçerli sayfayı tazele">
@@ -133,7 +132,7 @@ can reach it easily. -->
 <!-- Toolbar items --> 
 
 <!ENTITY appMenuButton.label "Menü">
-<!ENTITY appMenuButton.tooltip "Open &brandShortName; menu">
+<!ENTITY appMenuButton.tooltip "&brandShortName; menüsünü aç">
 <!ENTITY homeButton.label "Başlangıç">
 
 <!ENTITY tabGroupsButton.label "Sekme grupları">
@@ -149,6 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label "Yer imleri">
 <!ENTITY bookmarksMenuButton.tooltip "Yer imlerini göster">
+<!ENTITY bookmarksMenuButton.unsorted.label "Sıralanmamış yer imleri">
 <!ENTITY viewBookmarksSidebar.label "Kenar çubuğunda göster">
 <!ENTITY viewBookmarksToolbar.label "Yer imi araç çubuğunu göster">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -514,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label "Tamam">
 <!ENTITY editBookmark.cancel.label "Vazgeç">
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
-<!ENTITY editBookmark.undo.label "Geri al">
-<!ENTITY editBookmark.undo.accessKey "G">
-<!ENTITY editBookmark.edit.label "Düzenle…">
-<!ENTITY editBookmark.edit.accessKey "e">
 
 <!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi vermiyor.">
 <!ENTITY identity.connectedTo "Bağlandığınız site">

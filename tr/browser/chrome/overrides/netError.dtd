@@ -48,11 +48,9 @@ bulunduğundan emin olun. Bu işaret sola değil,
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>&quot;Çevdimdışı çalış&quot; seçeneğinin önündeki işareti kaldırıp yeniden deneyin.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "<ul> 

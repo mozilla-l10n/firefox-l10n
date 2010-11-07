@@ -47,12 +47,12 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey "L">
-<!ENTITY limitCacheSizeAfter.label "MB of space">
+<!ENTITY limitCacheSizeBefore.label "Önbelleği">
+<!ENTITY limitCacheSizeBefore.accesskey "Ö">
+<!ENTITY limitCacheSizeAfter.label "MB alanla sınırla">
 <!ENTITY clearCacheNow.label "Şimdi temizle">
 <!ENTITY clearCacheNow.accesskey "z">
-<!ENTITY overrideSmartCacheSize.label "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.label "Otomatik önbellek yönetimini devre dışı bırak">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label "Güncelleme">

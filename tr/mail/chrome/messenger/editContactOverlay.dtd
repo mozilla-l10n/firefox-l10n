@@ -7,7 +7,7 @@
 <!ENTITY editContactEmail.label "E-posta:">
 <!ENTITY editContactEmail.accesskey "E">
 
-<!ENTITY editContactAddressBook.label "Address Book:">
+<!ENTITY editContactAddressBook.label "Adres defteri:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
 <!ENTITY editContactPanelCancel.label "Vazgeç">
