@@ -6,7 +6,7 @@
 <!ENTITY fonts.label "Schriftarten">
 <!ENTITY colors.label "Farben">
 <!ENTITY navigator.label "Browser">
-<!ENTITY history.label "History">
+<!ENTITY history.label "Chronik">
 <!ENTITY languages.label "Sprachen">
 <!ENTITY applications.label "Hilfsanwendungen">
 <!ENTITY locationBar.label "Adressleiste">
