@@ -29,7 +29,7 @@
 <!ENTITY hdrForwardButton.label "reenviar">
 <!ENTITY hdrForwardButton.tooltip "re-enviar este mensaje">
 <!ENTITY hdrJunkButton.label "basura">
-<!ENTITY hdrJunkButton.tooltip "marcar este mensaje como Basura">
+<!ENTITY hdrJunkButton.tooltip "marcar este mensaje como correo basura">
 <!ENTITY hdrTrashButton.label "eliminar">
 <!ENTITY hdrTrashButton.tooltip "eliminar este mensaje">
 <!ENTITY hdrViewToolbarShowFull.label "Mostrar iconos y texto">
