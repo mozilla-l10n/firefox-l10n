@@ -3,8 +3,8 @@
 <!ENTITY chooseFile.label "फ़ाइल चुनें...">
 <!ENTITY newWindow.label "नई विंडो">
 <!ENTITY newTab.label "नया टैब">
-<!ENTITY topWindow.label "क्रियाशील विंडो">
 <!ENTITY caption.label "वैब स्थान खोलें">
 <!ENTITY openWhere.label "इसमें खोलें:">
 <!ENTITY openBtn.label "खोलें">
 
+<!ENTITY topTab.label "Current Tab">
