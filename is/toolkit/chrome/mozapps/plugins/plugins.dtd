@@ -1,9 +1,9 @@
 <!ENTITY pluginWizard.title "Þjónusta til að finna tengiforrit">
 <!ENTITY pluginWizard.firstPage.title "Velkomin í &pluginWizard.title;">
 <!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; er að athuga hvaða tengiforrit eru til…">
-<!ENTITY pluginWizard.availablePluginsPage.title "Hægt er að niðurhala þessum tengiforritum">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Tengiforrit sem eru til staðar:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Smelltu á Áfram til að setja inn tengiforrit.">
+<!ENTITY pluginWizard.availablePluginsPage.title "Hægt er að niðurhala eftirfarandi tengiforritum">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Eftirfarandi tengiforrit eru tiltæk:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Smelltu á áfram til að setja inn tengiforrit.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI "Tengiforrit gætu þarfnast meiri upplýsinga frá þér þegar þau eru sett inn.">
 <!ENTITY pluginWizard.licensePage.title "Leyfisskilmálar tengiforrits">
 <!ENTITY pluginWizard.licensePage.accept.label "Ég samþykki.">
