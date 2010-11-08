@@ -129,8 +129,10 @@
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "ସୁରକ୍ଷା ବ୍ୟତିକ୍ରମ ଯୋଗକରନ୍ତୁ">
-<!ENTITY exceptionMgr.exceptionButton         "ସୁରକ୍ଷା ବ୍ୟତିକ୍ରମ ନିଶ୍ଚିତ କରନ୍ତୁ">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+
+<!ENTITY exceptionMgr.exceptionButton.label   "ସୁରକ୍ଷା ବ୍ୟତିକ୍ରମ ନିଶ୍ଚିତ କରନ୍ତୁ">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+
 <!ENTITY exceptionMgr.supplementalWarning     "ବିଧି ସଂଗତ ବ୍ୟାଙ୍କ, ଭଣ୍ଡାର, ଏବଂ ଅନ୍ୟାନ୍ୟ ସାର୍ବଜନୀନ ସାଇଟଗୁଡ଼ିକ ଆପଣଙ୍କୁ ଏହା କରିବାପାଇଁ କହିବ ନାହିଁ.">
 <!ENTITY exceptionMgr.certlocation.caption2   "ସର୍ଭର">
 <!ENTITY exceptionMgr.certlocation.url        "ସ୍ଥାନ:">
