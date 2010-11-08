@@ -1,13 +1,23 @@
 <!ENTITY aboutDialog.title          "Tocante a &brandFullName;">
-<!ENTITY copyright                  "Autores">
-<!ENTITY copyright.accesskey        "A">
-<!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY aboutLink                  "&lt; Tocante a &brandFullName;">
-<!ENTITY aboutLink.accesskey        "T">
-<!ENTITY aboutVersion               "versión">
-<!ENTITY closeCmdGNOME.label        "Zarrar">  
-<!ENTITY closeCmdGNOME.accesskey    "Z">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Contributors. All rights reserved. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Licensing information">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY community.start2 "&brandShortName; ta diseñáu por ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", una ">
+<!ENTITY community.creditsLink "comunidá global">
+<!ENTITY community.end2 " trabayando xunida pa facer un internet meyor. Creemos qu'Internet tendría de ser abierta, pública y accesible pa toos ensin denguna restricción.">
+<!ENTITY contribute.start "¿Suena interesante? ">
+<!ENTITY contribute.getInvolvedLink "¡Xúnete a nós!">
+<!ENTITY contribute.end "">
+<!ENTITY bottomLinks.license "Información de llicencia">
+<!ENTITY bottomLinks.rights "Derechos del usuariu final">
+<!ENTITY bottomLinks.privacy "Política de privacidá">
+<!ENTITY update.checkingForUpdates "Comprobando anovamientos…">
+<!ENTITY update.checkingAddonCompat "Comprobando compatibilidá de complementos…">
+<!ENTITY update.noUpdatesFound "&brandShortName; ta anováu">
+<!ENTITY update.adminDisabled "Anovamientos desactivaos pol alministrador">
+<!ENTITY update.failed.start "Falló l'anovamientu. ">
+<!ENTITY update.failed.linkText "Descargar la cabera versión">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Anovamientu disponible en ">
+<!ENTITY update.manual.end "">
+<!ENTITY update.downloading.start "Descargando anovamientu — ">
+<!ENTITY update.downloading.end "">
