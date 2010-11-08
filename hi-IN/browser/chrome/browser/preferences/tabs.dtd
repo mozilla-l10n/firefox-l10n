@@ -12,3 +12,7 @@
 
 <!ENTITY switchToNewTabs.label        "जब मैं नये टैब में कड़ी खोलता हूँ, इसमें तत्काल जाएं">
 <!ENTITY switchToNewTabs.accesskey    "s">
+
+
+<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.accesskey      "k">

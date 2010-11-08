@@ -13,20 +13,17 @@
 <!ENTITY safeb.palm.decline.label "इस चेतावनी को अनदेखा करें">
 <!ENTITY safeb.palm.decline.statustext "चेतावनी बंद करें" >
 
-<!ENTITY safeb.blocked.malware.longDesc "<p>हमला साइट प्रोग्राम को संस्थापित करने के लिए कोशिश करता है जो निजी सूचना को चुराता है, आपके कंप्यूटर को दूसरे के हमले अथवा अपने सिस्टम को क्षति से बचाने के लिए प्रयोग करें.</p><p>कुछ हमला साइट जान बूझकर नुकसान देने वाले साफ्टवेयर को वितरित करता है, लेकिन बहुत लोगों को उनके मालिकों की अनुमति अथवा ज्ञान के क्षति पहुँचाया जाता है.</p>">
-
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "<span id='malware_sitename'/> पर स्थित वेबसाइट एक हमला साइट के रूप में रिपोट किया गया है और आपके सुरक्षा वरीयता के आधार पर रोका गया है.">
-
-<!ENTITY safeb.blocked.malware.title "रिपोर्ट की गई हमला साइट!">
-
-<!ENTITY safeb.blocked.phishing.longDesc "<p>वेब धोखाधड़ी उस स्रोतक नकल करके जिसको आप भरोसा करते हैं आपको फँसाने का तरीका है जिससे आप निजी अथवा वित्तीय सूचना खोल दें.</p><p>यह वेब पृष्ठ पर किसी सूचना को दाखिल करना पहचान की चोरी अथवा धोखा का परिणाम देता है.</p>">
-
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "<span id='phishing_sitename'/>  पर के वेबसाइट को एक वेब धोखाधड़ी के रूप में रिपोर्ट किया गया है और आपके सुरक्षा वरीयता के आधार पर रोका गया है.">
-
-<!ENTITY safeb.blocked.phishing.title "रिपोर्ट की गई वेब धोखाधड़ी!">
-
 <!ENTITY safeb.palm.notforgery.label2 "यह वेब धोखाधड़ी नहीं है…">
 
-<!ENTITY safeb.palm.report.label "यह साइट क्यों रोका हुआ था?">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+
+<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
+
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
+
+<!ENTITY safeb.blocked.phishingPage.title "Reported Web Forgery!">
+
+<!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
