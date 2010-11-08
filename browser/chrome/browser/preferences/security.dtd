@@ -35,9 +35,7 @@
 <!ENTITY  savedPasswords.accesskey        "P">
 
 
-<!ENTITY  warnings.label                "चेतावनी संदेश">
 
-<!ENTITY  chooseWarnings.label          "चुनें कि वेब ब्राउज करने के दौरान आप कौन सी चेतावनी संदेश देखना चाहेंगे">
 
-<!ENTITY  warningSettings.label         "सेटिंग…">
-<!ENTITY  warningSettings.accesskey     "S">
+
+
