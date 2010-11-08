@@ -45,9 +45,6 @@
 <!ENTITY resetToolbars.label          "औजारपट्टी और नियंत्रण फिर सेट करें">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "पुस्तचिह्न &brandShortName; में मूलभूत रूप से फिर सेट करें">
-<!ENTITY resetBookmarks.accesskey     "b">
-
 <!ENTITY resetUserPrefs.label         "सारे उपयोक्ता वरीयताओं को &brandShortName; मूलभूत में बदलें">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
@@ -59,3 +56,6 @@
 
 <!ENTITY restoreSearch.label          "मूलभूत खोज इंजन फिर वापस करें">
 <!ENTITY restoreSearch.accesskey      "s">
+
+<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.accesskey    "b">
