@@ -5,30 +5,30 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY aboutSupport.extensionVersion "Version">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.extensionVersion "නිකුතුව">
+<!ENTITY aboutSupport.updateHistoryTitle "යාවත්කාලීන ඉතිහාසය">
 <!ENTITY aboutSupport.extensionId "ID">
 <!ENTITY aboutSupport.pageSubtitle "
   This page contains technical information that might be useful when you're
   trying to solve a problem. If you are looking for answers to common questions
   about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
 ">
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
+<!ENTITY aboutSupport.extensionsTitle "දිගුකිරීම්">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "ප්ලගීන බලැති (Enable) කරන්න">
+<!ENTITY aboutSupport.extensionEnabled "බලැති (Enabled)">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsName "Name">
+<!ENTITY aboutSupport.appBasicsName "නම">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
+<!ENTITY aboutSupport.modifiedPrefsValue "අගය">
+<!ENTITY aboutSupport.appBasicsTitle "යෙදුම් මූලිකාංග">
+<!ENTITY aboutSupport.modifiedPrefsName "නම">
 <!ENTITY aboutSupport.graphicsTitle "Graphics">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.appBasicsVersion "නිකුතුව">
+<!ENTITY aboutSupport.show.label "අඩංගු ෆෝල්ඩරය විවෘත කරන්න">
 <!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.extensionName "Name">
+<!ENTITY aboutSupport.installationHistoryTitle "ස්ථාපන ඉතිහාසය">
+<!ENTITY aboutSupport.extensionName "නම">
 <!ENTITY aboutSupport.showMac.label "Show in Finder">
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
+<!ENTITY aboutSupport.pageTitle "දොස් සෙවීම් තොරතුරු">
+<!ENTITY aboutSupport.modifiedPrefsTitle "වෙනස්කළ මනාපයන්">

@@ -394,107 +394,107 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY appMenuCustomize.label "Customize">
+<!ENTITY appMenuCustomize.label "රිසිකරණය">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY inspectStylePanelTitle.label "Style">
-<!ENTITY fullScreenButton.tooltip "Display the window in full screen">
-<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY inspectStylePanelTitle.label "මෝස්තරය">
+<!ENTITY fullScreenButton.tooltip "කවුළුව තිරය පුරා විහිඳුවන්න">
+<!ENTITY addonBarCmd.label "ඇඩෝන තීරය">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY bookmarkAllTabs.label "Bookmark All Tabs…">
-<!ENTITY appMenuButton.label "Menu">
+<!ENTITY bookmarkAllTabs.label "සියළු ටැබ් පිටුලකුණු කරන්න…">
+<!ENTITY appMenuButton.label "මෙනුව">
 <!ENTITY unpinAppTab.accesskey "b">
 <!ENTITY reloadAllTabs.accesskey "A">
 <!ENTITY closeOtherTabs.accesskey "o">
-<!ENTITY appMenuSidebars.label "Sidebars">
-<!ENTITY urlbar.placeholder "Go to a Web Site">
+<!ENTITY appMenuSidebars.label "පැතිතීර">
+<!ENTITY urlbar.placeholder "වෙබ් අඩවියකට යන්න">
 <!ENTITY syncSetup.accesskey "Y">
-<!ENTITY feedButton.label "Subscribe">
+<!ENTITY feedButton.label "දායකත්වය ලබාගන්න">
 <!ENTITY inspectMenu.accesskey "T">
-<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuUnsorted.label "පිළිවෙළ නොකළ පිටුලකුණු">
 <!ENTITY bookmarksButton.accesskey "B">
 <!ENTITY tabView.commandkey "e">
-<!ENTITY appMenuFind.label "Find…">
-<!ENTITY zoomInButton.tooltip "Zoom in">
-<!ENTITY tabGroupsButton.label "Tab Groups">
+<!ENTITY appMenuFind.label "සොයන්න…">
+<!ENTITY zoomInButton.tooltip "විශාලනය">
+<!ENTITY tabGroupsButton.label "ටැබ් සමූහ">
 <!ENTITY undoCloseTab.accesskey "U">
-<!ENTITY syncToolbarButton.label "Sync">
-<!ENTITY bookmarksMenuButton.label "Bookmarks">
-<!ENTITY listAllTabs.label "List all tabs">
+<!ENTITY syncToolbarButton.label "සම්මුහුර්ත">
+<!ENTITY bookmarksMenuButton.label "පිටුලකුණු">
+<!ENTITY listAllTabs.label "සියළු ටැබ් ලැයිස්තුගත කරන්න">
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY reloadTab.accesskey "R">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appMenuToolbarLayout.label "මෙවලම්තීරු සැකැස්ම…">
 <!ENTITY moveToNewWindow.accesskey "W">
-<!ENTITY viewBookmarksToolbar.label "View Bookmarks Toolbar">
-<!ENTITY menubarCmd.label "Menu Bar">
-<!ENTITY inspectNextButton.label "Next">
-<!ENTITY moveToNewGroup.label "New Group">
+<!ENTITY viewBookmarksToolbar.label "පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න">
+<!ENTITY menubarCmd.label "මෙනු තීරුව">
+<!ENTITY inspectNextButton.label "ඊළඟ">
+<!ENTITY moveToNewGroup.label "නව සමූහය">
 <!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY appMenuButton.tooltip "Open &brandShortName; menu">
+<!ENTITY appMenuButton.tooltip "&brandShortName; මෙනුව විවෘත කරන්න">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY addonBarCmd.accesskey "A">
-<!ENTITY syncSetup.label "Set Up &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.label "&syncBrand.shortName.label; සකසන්න…">
 <!ENTITY appMenuSafeMode.accesskey "R">
-<!ENTITY inspectButton.label "Inspect">
-<!ENTITY backForwardItem.title "Back/Forward">
+<!ENTITY inspectButton.label "පරීක්ෂා කරන්න">
+<!ENTITY backForwardItem.title "පසුපසට/ඉදිරියට">
 <!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.label "පෙර සැසිය ප්‍රතිස්ථාපනය කරන්න">
 <!ENTITY webConsoleCmd.accesskey "W">
 <!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY appMenuGettingStarted.label "Getting Started">
-<!ENTITY syncBrand.shortName.label "Sync">
-<!ENTITY closeOtherTabs.label "Close Other Tabs">
-<!ENTITY openLinkCmdInCurrent.label "Open Link">
+<!ENTITY appMenuGettingStarted.label "ඇරඹුම">
+<!ENTITY syncBrand.shortName.label "සම්මුහුර්තය">
+<!ENTITY closeOtherTabs.label "අනෙකුත් ටැබ් වසන්න">
+<!ENTITY openLinkCmdInCurrent.label "ඈඳුම විවෘත කරන්න">
 <!ENTITY bookmarkAllTabs.accesskey "T">
-<!ENTITY viewBookmarksSidebar.label "Show in Sidebar">
+<!ENTITY viewBookmarksSidebar.label "පැතීතීරුව තුළ පෙන්වන්න">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY viewImageInfoCmd.label "View Image Info">
+<!ENTITY viewImageInfoCmd.label "රූපයේ තොරතුරු පෙන්වන්න">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
-<!ENTITY videoFullScreen.label "Full Screen">
+<!ENTITY bookmarksMenuButton.unsorted.label "පිළිවෙළ නොකළ පිටුලකුණු">
+<!ENTITY videoFullScreen.label "සමුපූර්ණ තිරය">
 <!ENTITY pinAppTab.accesskey "P">
-<!ENTITY moveToNewWindow.label "Move to New Window">
-<!ENTITY appMenuEdit.label "Edit">
+<!ENTITY moveToNewWindow.label "නව කවුළුවකට යන්න">
+<!ENTITY appMenuEdit.label "සැකසුම්">
 <!ENTITY viewImageInfoCmd.accesskey "f">
-<!ENTITY moveToGroup.label "Move to Group">
-<!ENTITY closeTab.label "Close Tab">
+<!ENTITY moveToGroup.label "සමූහයට යන්න">
+<!ENTITY closeTab.label "ටැබ වසන්න">
 <!ENTITY pinAppTab.label "Pin as App Tab">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY webConsoleCmd.label "Web Console">
-<!ENTITY viewTabsOnTop.label "Tabs on Top">
-<!ENTITY viewTabGroups.label "Tab Groups">
-<!ENTITY urlbar.switchToTab.label "Switch to tab:">
-<!ENTITY inspectPreviousButton.label "Previous">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY viewTabsOnTop.label "මුදුනෙහිම ඇති ටැබ්">
+<!ENTITY viewTabGroups.label "ටැබ් සමූහ">
+<!ENTITY urlbar.switchToTab.label "ටැබට මාරුවෙන්න:">
+<!ENTITY inspectPreviousButton.label "පෙර">
+<!ENTITY appMenuSafeMode.label "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
 <!ENTITY addons.commandkey "A">
-<!ENTITY tabGroupsButton.tooltip "Group your tabs">
-<!ENTITY allTabs.filter.emptyText "Search Tabs">
-<!ENTITY reloadTab.label "Reload Tab">
+<!ENTITY tabGroupsButton.tooltip "ඔබගේ ටැබ් සමූහගත කරන්න">
+<!ENTITY allTabs.filter.emptyText "ටැබ් සොයන්න">
+<!ENTITY reloadTab.label "ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY inspectObjectButton.label "Object">
 <!ENTITY viewTabGroups.accesskey "G">
 <!ENTITY viewTabsOnTop.accesskey "T">
 <!ENTITY inspectNextButton.accesskey "N">
 <!ENTITY moveToGroup.accesskey "M">
-<!ENTITY syncTabsMenu.label "Tabs From Other Computers">
-<!ENTITY bookmarksMenuButton.tooltip "Display your bookmarks">
+<!ENTITY syncTabsMenu.label "වෙනත් පරිගණකයන්ගෙන් ටැබ්">
+<!ENTITY bookmarksMenuButton.tooltip "ඔබගේ පිටුසළකුණු පෙන්වන්න">
 <!ENTITY bookmarksWinCmd.commandkey "i">
-<!ENTITY undoCloseTab.label "Undo Close Tab">
+<!ENTITY undoCloseTab.label "ටැබ් වැසීම අහෝසි කරන්න">
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY inspectButton.accesskey "I">
-<!ENTITY syncSyncNowItem.label "Sync Now">
-<!ENTITY zoomControls.label "Zoom Controls">
+<!ENTITY syncSyncNowItem.label "දැන් සම්මුහුර්ත කරන්න">
+<!ENTITY zoomControls.label "විශාලන පාලක">
 <!ENTITY videoFullScreen.accesskey "F">
-<!ENTITY tabsToolbar.label "Browser tabs">
-<!ENTITY feedButton.tooltip "Subscribe to this page…">
-<!ENTITY inspectStyleButton.label "Style">
-<!ENTITY showAllTabsCmd.label "Show All Tabs">
+<!ENTITY tabsToolbar.label "ගවේෂක ටැබ්">
+<!ENTITY feedButton.tooltip "මෙම පිටුවට දායකත්වය ලබාගන්න…">
+<!ENTITY inspectStyleButton.label "මෝස්තරය">
+<!ENTITY showAllTabsCmd.label "සියළු ටැබ් පෙන්වන්න">
 <!ENTITY unpinAppTab.label "Unpin Tab">
-<!ENTITY reloadAllTabs.label "Reload All Tabs">
+<!ENTITY reloadAllTabs.label "සියළු ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY closeTab.accesskey "c">
-<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
-<!ENTITY inspectMenu.label "Inspect">
+<!ENTITY showAllBookmarks.label "සියළු පිටුසලකුණු පෙන්වන්න…">
+<!ENTITY inspectMenu.label "පරීක්ෂා කරන්න">
 <!ENTITY inspectObjectButton.accesskey "O">
-<!ENTITY clearRecentHistory.label "Clear Recent History…">
-<!ENTITY zoomOutButton.tooltip "Zoom out">
+<!ENTITY clearRecentHistory.label "මෑතකාලීන මතකය හිස් කරන්න…">
+<!ENTITY zoomOutButton.tooltip "කුඩා කරන්න">
 <!ENTITY bookmarksCmd.commandkey "b">

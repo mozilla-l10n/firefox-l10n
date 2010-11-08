@@ -103,13 +103,13 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY allowHWAccel.accesskey "h">
-<!ENTITY limitCacheSizeAfter.label "MB of space">
-<!ENTITY enableAddonsUpdate2.label "Add-ons">
+<!ENTITY limitCacheSizeAfter.label "MB ක හිස් ඉඩක්">
+<!ENTITY enableAddonsUpdate2.label "ඇඩෝන">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
 <!ENTITY enableAddonsUpdate2.accesskey "n">
-<!ENTITY overrideSmartCacheSize.label "Override automatic cache management">
-<!ENTITY submitCrashes.label "Submit crash reports">
-<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
+<!ENTITY overrideSmartCacheSize.label "ස්වයංක්‍රීය cache කළමණාකරණයන් ඉක්මවා යන්න">
+<!ENTITY submitCrashes.label "බිඳවැටුම් වාර්තා යවන්න">
+<!ENTITY allowHWAccel.label "ඇත්නම් දෘඩාංග වෙග-උපාංග (acceleration) භාවිතා කරන්න">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY submitCrashes.accesskey "S">
-<!ENTITY limitCacheSizeBefore.label "Limit cache to">
+<!ENTITY limitCacheSizeBefore.label "cache මෙයට සීමා කරන්න">

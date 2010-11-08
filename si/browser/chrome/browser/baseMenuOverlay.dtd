@@ -37,10 +37,10 @@ Entities below were automatically added by compare-locales,
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpFeedbackPage.accesskey "S">
 <!ENTITY productHelp.accesskey "H">
-<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY helpFeedbackPage.label "Submit Feedback…">
+<!ENTITY helpSafeMode.label "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
+<!ENTITY helpFeedbackPage.label "ප්‍රතිචාරය යවන්න…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY productHelp.label "&brandShortName; Help">
-<!ENTITY aboutProduct.label "About &brandShortName;">
+<!ENTITY productHelp.label "&brandShortName; උදව්">
+<!ENTITY aboutProduct.label "&brandShortName; පිළිබඳ">
 <!ENTITY helpMac.commandkey "?">
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.label "දෝෂ සෙවීමේ තොරතුරු">
