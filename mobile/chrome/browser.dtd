@@ -138,3 +138,5 @@
 <!ENTITY pageactions.reset                "Išvalyti svetainės nuostatas">
 <!ENTITY pageactions.findInPage           "Ieškoti tinklalapyje">
 <!ENTITY pageactions.search.addNew        "Pridėti ieškyklę">
+
+<!ENTITY selectHelper.emptytext           "Filtruoti sąrašą">
