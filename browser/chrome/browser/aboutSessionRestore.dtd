@@ -2,11 +2,11 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Well, this is embarrassing.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; is having trouble recovering your windows and tabs. This is usually caused by a recently opened web page.">
-<!ENTITY restorepage.tryThis        "You can try:">
-<!ENTITY restorepage.restoreSome    "Removing one or more tabs that you think may be causing the problem">
-<!ENTITY restorepage.startNew       "Starting an entirely new browsing session">
+<!ENTITY restorepage.errorTitle     "සැබවින්ම මෙය ඔබව අපහසුතාවයට පත්කරවනු ඇත.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; ඔබගේ ටැබ් සහ කවුළු යළි ලබා ගැනීමේ ගැටළුවකට මුහුණ පා ඇත. මෙයට සමාන්‍යයෙන් හේතුවන්නේ ආසන්නයේදී විවෘත කළ වෙබ් පිටුවකි.">
+<!ENTITY restorepage.tryThis        "ඔබට උත්සාහ කළ හැකියි:">
+<!ENTITY restorepage.restoreSome    "ගැටළුව ඇතිවුනැයි ඔබ සිතන ටැබ හෝ කිහිපයක් ඉවත් කිරීමෙන්">
+<!ENTITY restorepage.startNew       "සම්පූර්ණයෙන්ම නව ගවේෂණ සැසියක් ඇරඹීමෙන්">
 
 <!ENTITY restorepage.tryagainButton "ප්‍රතිස්ථාපනය">
 <!ENTITY restorepage.restore.access "R">

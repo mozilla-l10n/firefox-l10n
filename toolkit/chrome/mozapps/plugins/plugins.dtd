@@ -29,12 +29,12 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY reloadPlugin.middle "Reload the page">
-<!ENTITY report.disabled "Crash reporting disabled.">
-<!ENTITY report.failed "Submission failed.">
+<!ENTITY reloadPlugin.middle "පිටුව ප්‍රතිපූරණය කරන්න">
+<!ENTITY report.disabled "බිඳවැටුම් වාර්තා කිරිම අබල (disable) කර ඇත.">
+<!ENTITY report.failed "යැවීම අසාර්ථක විය.">
 <!ENTITY reloadPlugin.pre "">
-<!ENTITY report.unavailable "No report available.">
-<!ENTITY reloadPlugin.post " to try again.">
-<!ENTITY report.submitting "Sending report…">
-<!ENTITY report.submitted "Crash report sent.">
-<!ENTITY report.please "Send crash report">
+<!ENTITY report.unavailable "වාරතාවක් නැත.">
+<!ENTITY reloadPlugin.post " නැවත උත්සාහ කිරීමට.">
+<!ENTITY report.submitting "වාර්තාව යවයි…">
+<!ENTITY report.submitted "බිඳවැටුම් වාර්තාව යවන ලදී.">
+<!ENTITY report.please "බිඳවැටුම් වාර්තාව යවන්න">

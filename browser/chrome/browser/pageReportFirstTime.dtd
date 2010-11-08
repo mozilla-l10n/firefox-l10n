@@ -11,4 +11,4 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY startDescriptionText.label "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
+<!ENTITY startDescriptionText.label "වෙබ් අඩවියක් ඔබගේ අවසරය නොමැතිව පොප්-අප් කවුළුවක් විවෘත කිරීමට උත්සාහ කළ අතර &brandShortName; ස්වයංක්‍රීයවම පොප්-අප් කවුළුව වසා දමන ලදී.">

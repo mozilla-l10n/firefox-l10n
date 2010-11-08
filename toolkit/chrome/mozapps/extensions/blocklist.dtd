@@ -1,12 +1,12 @@
-<!ENTITY blocklist.title             "Add-ons may be causing problems">
+<!ENTITY blocklist.title             "ඇඩෝන ප්‍රශ්ණ ඇතිකරවිය හැකිය">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
-<!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
-<!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
-<!ENTITY blocklist.moreinfo          "More information">
+<!ENTITY blocklist.summary           "පහත දැක්වෙන ඇඩෝන ආරක්ෂක හෝ ස්ථායිතා ප්‍රශ්ණවලට හේතුවනු ඇතැයි &brandShortName; නිශ්චය කර ඇත:">
+<!ENTITY blocklist.softblocked       "ඔබගේ ආරක්ෂාව සඳහා, මෙම ඇඩෝන අබල (Disable) කර ප්‍රත්‍යාරම්භ (Restart) කිරීම ඉහළින්ම අනුමත කරයි.">
+<!ENTITY blocklist.hardblocked       "මෙම ඇඩෝන ආරක්ෂක හෝ ස්ථායිතා ප්‍රශ්ණ ප්‍රශ්ණවලට හේතුවනු ඇතැයි සලකා අවහිර කර ඇත, නමුත් සම්පූර්ණයෙන්ම අබල (Disable) කිරීමට ප්‍රත්‍යාරම්භ (Restart) කිරීම අවශ්‍ය වේ.">
+<!ENTITY blocklist.softandhard       "ආරක්ෂක හෝ ස්ථායිතා ප්‍රශ්ණ ප්‍රශ්ණවලට හේතු වන ඇඩෝන අවහිර කර ඇත. අනෙක් ඒවායේ අනතුර පහළ මට්ටමක පවතී, නමුත් ඒවා අබල (Disable) කර ප්‍රත්‍යාරම්භ (Restart) කිරීම ඉහළින්ම අනුමත කරයි.">
+<!ENTITY blocklist.moreinfo          "වැඩිදුර තොරතුරු">
 
-<!ENTITY blocklist.accept.label      "Restart &brandShortName;">
+<!ENTITY blocklist.accept.label      "&brandShortName; ප්‍රත්‍යාරම්භ (Restart) කරන්න">
 <!ENTITY blocklist.accept.accesskey  "R">
 
 
@@ -15,5 +15,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY blocklist.checkbox.label "Disable">
-<!ENTITY blocklist.blocked.label "Blocked">
+<!ENTITY blocklist.checkbox.label "අබල-Disable">
+<!ENTITY blocklist.blocked.label "අවහිර කළ">

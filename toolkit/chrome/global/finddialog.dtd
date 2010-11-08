@@ -4,7 +4,7 @@
 
 <!ENTITY findField.label "සොයන්නේ කුමක්ද:">
 <!ENTITY findField.accesskey "n">
-<!ENTITY caseSensitiveCheckbox.label "අකුරු ගැලපන්න">
+<!ENTITY caseSensitiveCheckbox.label "අකුරු ගලපන්න">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "පේළි කඩන්න">
 <!ENTITY wrapCheckbox.accesskey "W">

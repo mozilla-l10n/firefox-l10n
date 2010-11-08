@@ -6,7 +6,7 @@
 
 <!ENTITY about.buildconfig.linkTitle  "ගොඩනැගුම් සැකසුම">
 
-<!ENTITY about.buildIdentifier        "ගොඩනැගුම් හදුනුම: ">
+<!ENTITY about.buildIdentifier        "ගොඩනැගුම් හැදුනුම: ">
 
 
 <!--
@@ -14,12 +14,12 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY about.buildconfig.afterTheLink " used for this version.">
-<!ENTITY about.buildconfig.beforeTheLink "See the ">
-<!ENTITY about.license.afterTheLink " for this product.">
-<!ENTITY about.relnotes.afterTheLink " for this version.">
-<!ENTITY about.credits.afterLink " to the Mozilla Project.">
-<!ENTITY about.credits.linkTitle "contributors">
-<!ENTITY about.credits.beforeLink "See a list of ">
-<!ENTITY about.relnotes.beforeTheLink "Read the ">
-<!ENTITY about.license.beforeTheLink "Read the ">
+<!ENTITY about.buildconfig.afterTheLink " මෙම නිකුතුව සඳහා භාවිතා කරන ලදී.">
+<!ENTITY about.buildconfig.beforeTheLink "බලන්න ">
+<!ENTITY about.license.afterTheLink " මෙම නිපැයුම සඳහා.">
+<!ENTITY about.relnotes.afterTheLink " මෙම නිකුතුව සඳහා.">
+<!ENTITY about.credits.afterLink " Mozilla ව්‍යාපෘතියට.">
+<!ENTITY about.credits.linkTitle "දායකවූවන්">
+<!ENTITY about.credits.beforeLink "ලැයිස්තුව බලන්න ">
+<!ENTITY about.relnotes.beforeTheLink "කියවන්න ">
+<!ENTITY about.license.beforeTheLink "කියවන්න ">
