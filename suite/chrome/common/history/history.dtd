@@ -49,5 +49,5 @@
 <!ENTITY col.url.accesskey              "s">
 <!ENTITY col.lastvisit.label            "Viimeisin käynti">
 <!ENTITY col.lastvisit.accesskey        "V">
-<!ENTITY col.visitcount.label           "Käyntikertoja">
+<!ENTITY col.visitcount.label           "Käyntikerrat">
 <!ENTITY col.visitcount.accesskey       "K">

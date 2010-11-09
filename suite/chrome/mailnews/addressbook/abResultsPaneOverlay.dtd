@@ -60,8 +60,8 @@
 <!ENTITY HomePhone.accesskey                   "K">
 <!ENTITY WorkPhone.label                       "Työnumero">
 <!ENTITY WorkPhone.accesskey                   "T">
-<!ENTITY ScreenName.label                      "Kutsumanimi">
-<!ENTITY ScreenName.accesskey                  "s">
+<!ENTITY ScreenName.label                      "Puhuttelunimi">
+<!ENTITY ScreenName.accesskey                  "t">
 <!ENTITY sortAscending.label                   "Nouseva järjestys">
 <!ENTITY sortAscending.accesskey               "a">
 <!ENTITY sortDescending.label                  "Laskeva järjestys">

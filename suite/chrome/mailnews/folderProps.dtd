@@ -75,7 +75,7 @@
 <!ENTITY folderCheckForNewMessages2.label        "Tarkasta tämä kansio aina kun tämän tilin uusia viestejä noudetaan">
 <!ENTITY folderCheckForNewMessages2.accesskey    "T">
 
-<!ENTITY offlineFolder.check.label               "Kansio on käytettävänä yhteydettömässä tilassa">
+<!ENTITY offlineFolder.check.label               "Kansio on käytettävissä yhteydettömässä tilassa">
 <!ENTITY offlineFolder.check.accesskey           "s">
 <!ENTITY offlineFolder.button.label              "Nouda heti">
 <!ENTITY offlineFolder.button.accesskey          "d">

@@ -48,5 +48,5 @@
 <!ENTITY            availableProfiles.label "Saatavilla olevat profiilit">
 
 <!ENTITY            introStart.label         "Pääset omaan profiiliisi, joka sisältää tallennetut viestit, asetukset ja muut henkilökohtaiset tiedot, valitsemalla omasi listasta ja napsauttamalla &start.label;.">
-<!ENTITY            introSwitch.label        "Ota käyttöön toinen profiili, joka sisältää tallennetut viestit, asetukset ja muut henkilökohtaiset tiedot, valitsemalla se listasta ja napsauttamalla &start.label;.">
-<!ENTITY            profileManagerText.label "Asetukset, kirjanmerkit, tallennetut viestit ja muut tiedot tallennetaan käyttäjäprofiiliisi.">
+<!ENTITY            introSwitch.label        "Voit ottaa käyttöön toisen profiilin, joka sisältää tallennetut viestit, asetukset ja muut profiilikohtaiset tiedot, valitsemalla sen listasta ja napsauttamalla &select.label;.">
+<!ENTITY            profileManagerText.label "Asetukset, kirjanmerkit, tallennetut viestit ja muut tiedot tallennetaan käyttäjäprofiiliin.">

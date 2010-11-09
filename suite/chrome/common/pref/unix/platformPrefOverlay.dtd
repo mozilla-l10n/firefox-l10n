@@ -9,6 +9,6 @@
 
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label                 "Ctrl+Enter osoitepalkissa">
-<!ENTITY urlbar.accesskey             "C">
+<!ENTITY urlbar.accesskey             "r">
 <!ENTITY middleClick.label            "Ctrl+napsautus tai Ctrl+Enter verkkosivujen linkeissä">
-<!ENTITY middleClick.accesskey        "n">
+<!ENTITY middleClick.accesskey        "C">

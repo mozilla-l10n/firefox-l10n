@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY messageMarkByDate.label "Merkitse viestit luetuksi päiväyksen mukaan">
-<!ENTITY markByDateLower.label "Merkitse viestit luetuiksi päivästä:">
+<!ENTITY markByDateLower.label "Merkitse viestit luetuksi päivästä:">
 <!ENTITY markByDateLower.accesskey "M">
 <!ENTITY markByDateUpper.accesskey "p">
 <!ENTITY markByDateUpper.label "päivään:">

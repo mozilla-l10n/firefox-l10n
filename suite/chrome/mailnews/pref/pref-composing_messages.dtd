@@ -46,7 +46,7 @@
 
 <!ENTITY replyQuoteInline.label               "Lainaa vastauksissa viestiin sisällytettyinä näytettyjä liitteitä">
 <!ENTITY replyQuoteInline.accesskey           "a">
-<!ENTITY warnOnSendAccelKey.label             "Kysy vahvistus, kun käytän näppäinoikotietä viestin lähettämiseen">
+<!ENTITY warnOnSendAccelKey.label             "Kysy vahvistus, kun yritän lähettää viestin näppäinoikotietä käyttäen">
 <!ENTITY warnOnSendAccelKey.accesskey         "K">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->

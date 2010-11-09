@@ -26,7 +26,7 @@
 <!ENTITY cmd.exportHTML.label           "Vie HTML-tiedosto…">
 <!ENTITY cmd.exportHTML.accesskey       "e">
 <!ENTITY cmd.importHTML.label           "Tuo HTML-tiedosto…">
-<!ENTITY cmd.importHTML.accesskey       "i">
+<!ENTITY cmd.importHTML.accesskey       "u">
 
 <!ENTITY cmd.backup.label               "Varmuuskopioi…">
 <!ENTITY cmd.backup.accesskey           "V">
@@ -60,7 +60,7 @@
 <!ENTITY cmd.new_bookmark.label            "Uusi kirjanmerkki…">
 <!ENTITY cmd.new_bookmark.accesskey        "U">
 <!ENTITY cmd.new_folder.label              "Uusi kansio…">
-<!ENTITY cmd.new_folder.accesskey          "s">
+<!ENTITY cmd.new_folder.accesskey          "n">
 <!ENTITY cmd.context_new_folder.accesskey  "s">
 <!ENTITY cmd.new_separator.label           "Uusi erotin">
 <!ENTITY cmd.new_separator.accesskey       "e">
@@ -76,8 +76,8 @@
 <!ENTITY col.title.label         "Nimi">
 <!ENTITY col.tags.label          "Avainsanat">
 <!ENTITY col.url.label           "Osoite">
-<!ENTITY col.lastvisit.label     "Vierailupäivä">
-<!ENTITY col.visitcount.label    "Visit Count">
+<!ENTITY col.lastvisit.label     "Viimeisin käynti">
+<!ENTITY col.visitcount.label    "Käyntikerrat">
 <!ENTITY col.keyword.label       "Pikakomento">
 <!ENTITY col.description.label   "Kuvaus">
 <!ENTITY col.dateadded.label     "Lisätty">
@@ -101,7 +101,7 @@
 <!ENTITY detailsPane.more.accesskey "L">
 <!ENTITY detailsPane.less.label "Vähemmän">
 <!ENTITY detailsPane.less.accesskey "V">
-<!ENTITY detailsPane.selectAnItemText.description "Valitse kohde, jonka ominaisuuksia muokataan tai näytetään">
+<!ENTITY detailsPane.selectAnItemText.description "Valitse kohde, jonka ominaisuuksia haluat tarkastella tai muokata">
 
 <!ENTITY editBookmark.done.label "Valmis">
 <!ENTITY editBookmark.cancel.label "Peruuta">

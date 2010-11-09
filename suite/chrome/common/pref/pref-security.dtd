@@ -43,7 +43,7 @@
 <!ENTITY alwaysClear.accesskey            "n">
 
 <!ENTITY askBeforeClear.label             "Kysy lupa tietojen poistamiseen">
-<!ENTITY askBeforeClear.accesskey         "K">
+<!ENTITY askBeforeClear.accesskey         "p">
 
 <!ENTITY clearDataSettings.label          "Seuraavat yksityistiedot pitäisi pyydettäessä poistaa:">
 

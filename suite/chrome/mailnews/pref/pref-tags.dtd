@@ -38,7 +38,7 @@
 
 <!ENTITY pref.tags.title            "Tunnukset">
 <!ENTITY pref.tags.caption          "Muokkaa tunnuksia">
-<!ENTITY pref.tags.description      "Tunnuksia voi käyttää viestien luokitteluun ja tärkeysjärjestykseen asettamiseen. Voit muuttaa tunnusten ulkoasua ja tärkeysjärjestystä alla olevilla asetuksilla. Listan alussa olevat tunnukset ovat tärkeämpiä kuin lopussa olevat tunnukset.">
+<!ENTITY pref.tags.description      "Tunnuksilla voi luokitella viestejä sekä asettaa ne tärkeysjärjestykseen. Voit muuttaa tunnusten ulkoasua ja tärkeysjärjestystä alla olevilla asetuksilla. Listan alussa olevat tunnukset ovat tärkeämpiä kuin alempana olevat.">
 <!ENTITY tagColumn.label            "Tunnus">
 <!ENTITY colorColumn.label          "Väri">
 <!ENTITY defaultTagName.label       "Nimeämätön tunnus">
