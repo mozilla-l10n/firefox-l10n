@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "L">
 
 <!ENTITY exceptionMgr.title                   "Lisää turvallisuuspoikkeus">
-<!ENTITY exceptionMgr.exceptionButton         "Vahvista turvallisuuspoikkeus">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "V">
+<!ENTITY exceptionMgr.exceptionButton.label   "Vahvista turvallisuuspoikkeus">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "V">
 <!ENTITY exceptionMgr.supplementalWarning     "Luotettavat pankit, kaupat ja muut julkiset sivustot eivät pyydä sinua tekemään tätä.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Palvelin">
 <!ENTITY exceptionMgr.certlocation.url        "Osoite:">
