@@ -28,7 +28,7 @@
 <!ENTITY  font.langGroup.latin2                   "Keskieurooppalainen">
 <!ENTITY  font.langGroup.japanese                 "Japanilainen">
 <!ENTITY  font.langGroup.trad-chinese             "Perinteinen kiina (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Yksinkertaistettu kiinalainen">
+<!ENTITY  font.langGroup.simpl-chinese            "Kiinalainen, yksinkertaistettu">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Perinteinen kiina (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korealainen">
 <!ENTITY  font.langGroup.cyrillic                 "Kyrillinen">

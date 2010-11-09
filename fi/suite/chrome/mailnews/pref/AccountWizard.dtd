@@ -7,7 +7,7 @@
 
 <!ENTITY accountSetupInfo.label "Ennen kuin voit vastaanottaa viestejä, sinun täytyy ensin antaa sähköposti- tai keskusteluryhmätilisi tiedot.">
 <!ENTITY accountTypeTitle.label "Uuden tilin luominen">
-<!ENTITY accountTypeDesc.label "Tämä ohjattu toiminto kerää tarvittavat tiedot. Jos et tiedä pyydettyjä tietoja, tiedustele niitä järjestelmän ylläpitäjältä tai palveluntarjoajalta.">
+<!ENTITY accountTypeDesc.label "Tämä ohjattu toiminto kerää tarvittavat tiedot. Jos et tiedä tarvittavia tietoja, tiedustele niitä järjestelmän ylläpitäjältä tai palveluntarjoajalta.">
 <!ENTITY accountTypeDirections.label "Valitse luotavan tilin tyyppi:">
 <!ENTITY accountTypeMail.label "Sähköposti">
 <!ENTITY accountTypeMail.accesskey "ä">

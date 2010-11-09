@@ -8,7 +8,7 @@
 <!ENTITY  prefWindow.size             "width: 58em; height: 41em;">
 
 <!-- pref-tabs.xul -->
-<!ENTITY urlbar.label                 "&#8984;+Return in the Location bar">
-<!ENTITY urlbar.accesskey             "L">
-<!ENTITY middleClick.label            "Middle-click, &#8984;+click or &#8984;+Return on links in a Web page">
-<!ENTITY middleClick.accesskey        "M">
+<!ENTITY urlbar.label                 "&#8984;+Return osoitepalkissa">
+<!ENTITY urlbar.accesskey             "l">
+<!ENTITY middleClick.label            "&#8984;+napsautus tai &#8984;+Return verkkosivujen linkeissä">
+<!ENTITY middleClick.accesskey        "R">

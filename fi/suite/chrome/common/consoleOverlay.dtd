@@ -49,5 +49,5 @@
 <!ENTITY errors.accesskey      "V">
 <!ENTITY warnings.accesskey    "a">
 <!ENTITY messages.accesskey    "e">
-<!ENTITY clear.accesskey       "T">
+<!ENTITY clear.accesskey       "h">
 <!ENTITY evaluate.accesskey    "S">
