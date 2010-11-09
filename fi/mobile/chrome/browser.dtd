@@ -106,3 +106,5 @@
 <!ENTITY pageactions.reset           "Unohda sivun asetukset">
 <!ENTITY pageactions.findInPage      "Etsi sivulta">
 <!ENTITY pageactions.search.addNew   "Lisää hakukone">
+
+<!ENTITY selectHelper.emptytext      "Suodata osumia">
