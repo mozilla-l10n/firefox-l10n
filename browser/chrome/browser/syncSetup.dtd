@@ -14,7 +14,7 @@
 <!ENTITY server.label               "Kiszolgáló">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-kiszolgáló">
 <!ENTITY serverType.custom.label    "Egyéni kiszolgáló használata">
-<!ENTITY signIn.account.label       "E-mail cím / Feéhasználónév">
+<!ENTITY signIn.account.label       "E-mail cím / Felhasználónév">
 <!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Jelszó">
 <!ENTITY signIn.password.accesskey  "J">
