@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Usar desplazamientu sele">
 <!ENTITY useSmoothScrolling.accesskey    "l">
+<!ENTITY allowHWAccel.label "Usar aceleración de hardware cuando tea disponible">
+<!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label             "Comprobar la ortografía mientres s'escribe">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -37,6 +39,9 @@
 <!ENTITY connectionSettings.accesskey    "o">
 
 <!ENTITY offlineStorage.label            "Archiváu de mou ensin conexón">
+<!ENTITY limitCacheSizeBefore.label "Llimitar el caché a">
+<!ENTITY limitCacheSizeBefore.accesskey "m">
+<!ENTITY limitCacheSizeAfter.label "MB d'espaciu">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -44,12 +49,10 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Usar hasta">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB d'espaciu pa la caché">
 <!ENTITY clearCacheNow.label             "Llimpiar agora">
 <!ENTITY clearCacheNow.accesskey         "g">
-
+<!ENTITY overrideSmartCacheSize.label "Inorar l'alministración automática de caché">
+<!ENTITY overrideSmartCacheSize.accesskey "t">
 <!ENTITY updateTab.label                 "Anovar">
 
 <!ENTITY autoCheck.label                 "Guetar automáticamente anovamientos pa:">

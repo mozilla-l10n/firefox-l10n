@@ -56,9 +56,10 @@
 <!ENTITY  dontrememberActions.pre.label          "Tamién podría interesa-y ">
 <!ENTITY  dontrememberActions.clearHistory.label "llimpiar tol historial">
 <!ENTITY  dontrememberActions.post.label         ".">
-
-<!ENTITY  privateBrowsingAutoStart.label "Abrir automáticamente &brandShortName; nuna sesión de navegación privao">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY privateBrowsingPermanent.label "Mou permanente de navegación privao">
+<!ENTITY privateBrowsingPermanent.accesskey "e">
+<!ENTITY rememberHistory.label "Remembrar el mio historial de navegación">
+<!ENTITY rememberHistory.accesskey "v">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
@@ -66,9 +67,6 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "Remembrar l'historial de gueta a lo menos">
-<!ENTITY  rememberHistory.pre.accesskey  "b">
-<!ENTITY  rememberHistory.post.label     "díes">
 
 <!ENTITY  rememberDownload.label         "Remembrar l'historial de descargues">
 <!ENTITY  rememberDownload.accesskey     "d">
