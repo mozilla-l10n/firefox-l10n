@@ -18,8 +18,6 @@
 <!ENTITY  reload.accesskey              "R">
 <!ENTITY  ftp.label                     "Proxy FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Proxy gopher:">
-<!ENTITY  gopher.accesskey              "g">
 <!ENTITY  http.label                    "Proxy HTTP:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Proxy SSL:">
@@ -35,7 +33,6 @@
 <!ENTITY  SSLport.accesskey             "u">
 <!ENTITY  FTPport.accesskey             "r">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Nun usar proxy pa:">
 <!ENTITY  noproxy.accesskey             "N">

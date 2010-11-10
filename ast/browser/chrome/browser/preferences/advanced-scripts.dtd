@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Desactivar o trocar menús contestuales">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "Anubrir barra d'estáu">
-<!ENTITY hideStatusBar.accesskey        "A">
-<!ENTITY changeStatusBar.label          "Camudar testu de la barra d'estáu">
-<!ENTITY changeStatusBar.accesskey      "C">

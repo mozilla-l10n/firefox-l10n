@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(Ensin títulu)">
-<!ENTITY  newTab.label           "Llingüeta nueva">
-<!ENTITY  newTab.accesskey       "n">
-<!ENTITY  closeTab.label         "Zarrar llingüeta">
-<!ENTITY  closeTab.accesskey         "g">
-<!ENTITY  closeOtherTabs.accesskey  "o">
-<!ENTITY  closeOtherTabs.label   "Zarrar otres llingüetes">
-<!ENTITY  reloadAllTabs.label    "Recargar toles llingüetes">
-<!ENTITY  reloadAllTabs.accesskey         "a">
-<!ENTITY  reloadTab.label        "Recargar llingüeta">
-<!ENTITY  reloadTab.accesskey         "r">
-<!ENTITY  openTabInNewWindow.label    "Abrir nuna ventana nueva">
-<!ENTITY  openTabInNewWindow.accesskey "A">
-<!ENTITY  listAllTabs.label      "Llistar toles llingüetes">
-<!ENTITY  bookmarkAllTabs.label       "Amestar a marcadores toles llingüetes…">
-<!ENTITY  bookmarkAllTabs.accesskey   "t">
-<!ENTITY  bookmarkThisTab.label       "Amestar a marcadores esta llingüeta">
-<!ENTITY  bookmarkThisTab.accesskey   "m">
-<!ENTITY  undoCloseTab.label          "Desfacer zarrar llingüeta">
-<!ENTITY  undoCloseTab.accesskey      "D">
-<!ENTITY  newTabButton.tooltip        "Abrir una llingüeta nueva">
+<!ENTITY closeTab.label "Zarrar llingüeta">
+<!ENTITY newTabButton.tooltip "Abrir una llingüeta nueva">
