@@ -67,11 +67,9 @@
 <!ENTITY choice2.server.main.label "Заменить данные на всех остальных устройствах данными этого компьютера">
 <!ENTITY setup.optionsConfirmPage.title "Подтверждение">
 <!ENTITY confirm.merge.label "&syncBrand.fullName.label; теперь объединит все данные браузера на этом компьютере с данными вашей учётной записи Sync.">
-<!ENTITY confirm.client.label "Все данные &brandShortName; на этом компьютере будут удалены, включая следующие:">
+<!ENTITY confirm.client2.label "Предупреждение: На этом компьютере будут удалены следующие данные &brandShortName;:">
 <!ENTITY confirm.client.moreinfo.label "Затем &brandShortName; скопирует данные вашего &syncBrand.fullName.label; на этот компьютер.">
-<!ENTITY confirm.client.warning.label "ПРЕДУПРЕЖДЕНИЕ: Это приведёт к тому, что все данные &brandShortName; на этом компьютере будут заменены!">
-<!ENTITY confirm.server.label "Данные на следующих устройствах будут перезаписаны вашими локальными данными:">
-<!ENTITY confirm.server.warning.label "ПРЕДУПРЕЖДЕНИЕ: Ваши локальные данные заменят собой все данные &brandShortName; на этих устройствах!">
+<!ENTITY confirm.server2.label "Предупреждение: Данные на следующих устройствах будут перезаписаны вашими локальными данными:">
 <!ENTITY setup.successPage.title "Настройка завершена">
 <!ENTITY changeOptions.label "Вы можете изменить эту настройку, перейдя в расположенные ниже настройки Sync.">
 <!ENTITY continueUsing.label "Теперь вы можете продолжить использовать &brandShortName;.">
