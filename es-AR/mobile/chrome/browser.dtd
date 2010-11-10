@@ -108,3 +108,5 @@
 <!ENTITY pageactions.search.addNew   "Agregar buscador">
 
 <!ENTITY selectHelper.emptytext      "Lista de filtros">
+
+<!ENTITY appMenu.siteOptions         "Opciones del sitio">
