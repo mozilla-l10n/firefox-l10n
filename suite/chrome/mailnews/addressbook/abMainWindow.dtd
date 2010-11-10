@@ -12,7 +12,7 @@
 <!ENTITY printContactViewCmd.label "Stampa contatto…">
 <!ENTITY printContactViewCmd.accesskey "p">
 <!ENTITY printPreviewContactViewCmd.label "Anteprima di stampa contatto">
-<!ENTITY printPreviewContactViewCmd.accesskey "n">
+<!ENTITY printPreviewContactViewCmd.accesskey "A">
 <!ENTITY printContactViewCmd.key "P">
 <!ENTITY printAddressBook.label "Stampa rubrica…">
 <!ENTITY printAddressBook.accesskey "r">

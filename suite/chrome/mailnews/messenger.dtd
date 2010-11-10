@@ -10,11 +10,11 @@
 <!ENTITY newMessage.label "Nuovo messaggio">
 <!ENTITY newMessage.accesskey "N">
 <!ENTITY newFolderCmd.label "Cartella…">
-<!ENTITY newFolderCmd.accesskey "C">
+<!ENTITY newFolderCmd.accesskey "t">
 <!ENTITY newVirtualFolderCmd.label "Ricerca salvata">
 <!ENTITY newVirtualFolderCmd.accesskey "R">
 <!ENTITY newTabCmd.label "Scheda duplicata">
-<!ENTITY newTabCmd.accesskey "d">
+<!ENTITY newTabCmd.accesskey "h">
 <!ENTITY newTabCmd.key "t">
 <!ENTITY closeTabCmd.label "Chiudi scheda">
 <!ENTITY closeTabCmd.accesskey "e">
@@ -53,7 +53,7 @@
 <!ENTITY emptyTrashCmd.label "Svuota cestino">
 <!ENTITY emptyTrashCmd.accesskey "u">
 <!ENTITY offlineMenu.label "Non in linea">
-<!ENTITY offlineMenu.accesskey "F">
+<!ENTITY offlineMenu.accesskey "l">
 <!ENTITY synchronizeOfflineCmd.label "Sincronizza…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Impostazioni non in linea…">
@@ -187,7 +187,7 @@
 <!ENTITY ignoredThreadsCmd.label "Discussioni ignorate">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 <!ENTITY headersMenu.label "Intestazioni">
-<!ENTITY headersMenu.accesskey "z">
+<!ENTITY headersMenu.accesskey "t">
 <!ENTITY headersAllCmd.label "Complete">
 <!ENTITY headersAllCmd.accesskey "C">
 <!ENTITY headersNormalCmd.label "Normali">
@@ -262,7 +262,7 @@
 <!ENTITY startPageCmd.label "Pagina di avvio Posta">
 <!ENTITY startPageCmd.accesskey "d">
 <!ENTITY msgMenu.label "Messaggio">
-<!ENTITY msgMenu.accesskey "M">
+<!ENTITY msgMenu.accesskey "e">
 <!ENTITY newMsgCmd.label "Nuovo messaggio">
 <!ENTITY newMsgCmd.accesskey "e">
 <!ENTITY newNewMsgCmd.label "Messaggio">
@@ -275,7 +275,7 @@
 <!ENTITY replyNewsgroupCmd.label "Rispondi nel gruppo di discussione">
 <!ENTITY replyNewsgroupCmd.accesskey "p">
 <!ENTITY replyToAllMsgCmd.label "Rispondi a tutti">
-<!ENTITY replyToAllMsgCmd.accesskey "t">
+<!ENTITY replyToAllMsgCmd.accesskey "u">
 <!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Rispondi al mittente e nel gruppo">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "u">
@@ -339,7 +339,7 @@
 <!ENTITY markAsReadCmd.accesskey "L">
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Discussione letta">
-<!ENTITY markThreadAsReadCmd.accesskey "t">
+<!ENTITY markThreadAsReadCmd.accesskey "e">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Letto per data">
 <!ENTITY markReadByDateCmd.accesskey "d">
@@ -488,7 +488,7 @@
 <!ENTITY folderContextEmptyTrash.label "Svuota cestino">
 <!ENTITY folderContextEmptyTrash.accesskey "u">
 <!ENTITY folderContextEmptyJunk.label "Svuota posta spam">
-<!ENTITY folderContextEmptyJunk.accesskey "d">
+<!ENTITY folderContextEmptyJunk.accesskey "v">
 <!ENTITY folderContextSendUnsentMessages.label "Spedisci messaggi da inviare…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Annulla sottoscrizione">

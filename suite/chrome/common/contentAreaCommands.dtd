@@ -24,7 +24,7 @@
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY stopCmd.label "Interrompi">
-<!ENTITY stopCmd.accesskey "n">
+<!ENTITY stopCmd.accesskey "I">
 <!ENTITY reloadFrameCmd.label "Ricarica riquadro">
 <!ENTITY reloadFrameCmd.accesskey "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Mostra sorgente selezione">

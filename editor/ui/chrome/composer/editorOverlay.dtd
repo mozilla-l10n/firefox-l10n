@@ -64,7 +64,7 @@
 <!ENTITY publishCmd.accesskey "u">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Pubblica con nome…">
-<!ENTITY publishAsCmd.accesskey "c">
+<!ENTITY publishAsCmd.accesskey "l">
 <!ENTITY exportToTextCmd.label "Esporta come testo…">
 <!ENTITY exportToTextCmd.accesskey "o">
 <!ENTITY saveAsChangeEncodingCmd.label "Salva e cambia codifica caratteri">
@@ -102,11 +102,11 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Trova precedente">
-<!ENTITY findPrevCmd.accesskey "p">
+<!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Controllo ortografico durante la digitazione">
-<!ENTITY enableInlineSpellChecker.accesskey "d">
+<!ENTITY enableInlineSpellChecker.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Controlla ortografia">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
@@ -162,7 +162,7 @@
 <!ENTITY fontVarWidth.label "Larghezza variabile">
 <!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Larghezza fissa">
-<!ENTITY fontFixedWidth.accesskey "f">
+<!ENTITY fontFixedWidth.accesskey "h">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
@@ -224,7 +224,7 @@
 <!ENTITY styleAcronym.label "Acronimo">
 <!ENTITY styleAcronym.accesskey "o">
 <!ENTITY styleCode.label "Codice sorgente">
-<!ENTITY styleCode.accesskey "C">
+<!ENTITY styleCode.accesskey "d">
 <!ENTITY styleSamp.label "Esempio">
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "Variabile">
@@ -326,12 +326,12 @@
 <!ENTITY tableRowAbove.label "Riga sopra">
 <!ENTITY tableRowAbove.accesskey "R">
 <!ENTITY tableRowBelow.label "Riga sotto">
-<!ENTITY tableRowBelow.accesskey "s">
+<!ENTITY tableRowBelow.accesskey "o">
 <!ENTITY tableColumn.label "Colonna">
 <!ENTITY tableColumns.label "Colonna(Colonne)">
 <!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableColumnBefore.label "Colonna precedente">
-<!ENTITY tableColumnBefore.accesskey "d">
+<!ENTITY tableColumnBefore.accesskey "C">
 <!ENTITY tableColumnAfter.label "Colonna successiva">
 <!ENTITY tableColumnAfter.accesskey "s">
 <!ENTITY tableCell.label "Cella">
