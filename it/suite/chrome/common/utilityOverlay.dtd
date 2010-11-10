@@ -42,7 +42,7 @@
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "P">
 <!ENTITY findTypeTextCmd.label "Trova testo digitato">
-<!ENTITY findTypeTextCmd.accesskey "e">
+<!ENTITY findTypeTextCmd.accesskey "g">
 <!ENTITY findTypeLinksCmd.label "Trova testo digitato nei collegamenti">
 <!ENTITY findTypeLinksCmd.accesskey "m">
 <!ENTITY viewMenu.label "Visualizza">
