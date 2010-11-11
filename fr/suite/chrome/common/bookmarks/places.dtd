@@ -84,7 +84,7 @@
 <!ENTITY col.lastmodified.label "Date de modification">
 
 <!ENTITY search.label "Rechercher :">
-<!ENTITY search.accesskey "R">
+<!ENTITY search.placeholder                        "Rechercher dans les marque-pages">
 <!ENTITY search.scopeFolder.label "Dossier sélectionné">
 <!ENTITY search.scopeFolder.accesskey "D">
 <!ENTITY search.scopeBookmarks.label "Marque-pages">

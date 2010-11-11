@@ -55,6 +55,7 @@
 <!ENTITY lookIn.accesskey "R">
 <!ENTITY for.label "pour :">
 <!ENTITY for.accesskey "o">
+<!ENTITY for.placeholder                     "Non ou adresse électronique">
 <!ENTITY addressMessageTo.label "Adresser le message à :">
 
 <!-- Tooltips items -->  
