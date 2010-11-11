@@ -92,13 +92,14 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "ખાતરી કરો">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; એ તમારા સુમેળ ખાતામાં બધી આ કમ્પ્યૂટરની બ્રાઉઝર માહિતીને હવે ભેગી કરશે.">
-<!ENTITY confirm.client.label         "આ કમ્પ્યૂટર પર  &brandShortName; માહિતી દૂર થયેલ હશે, નીચેનાને સમાવી રહ્યા છે:">
+
 <!ENTITY confirm.client.moreinfo.label "&brandShortName;એ પછી આ કમ્પ્યૂટરમાં તમારી  &syncBrand.fullName.label; માહિતીની નકલ કરશે.">
-<!ENTITY confirm.client.warning.label "ચેતવણી: આ બદલેલ કમ્પ્યૂટર પર બધી &brandShortName; માહિતીમાં પરિણમશે!">
-<!ENTITY confirm.server.label         "નીચેનાં ઉપકરણો તમારી સ્થાનિય માહિતી ઉપર ફરીથી લખાશે:">
-<!ENTITY confirm.server.warning.label "ચેતવણી: આ ઉપકરણો પર  તમારી સ્થાનિય માહિતી એ બધી &brandShortName; માહિતીને બદલશે!">
+
+
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "સુયોજન સમાપ્ત">
 <!ENTITY changeOptions.label "તમે નીચે સુમેળ વિકલ્પો પ્રમાણે આ પસંદગીને બદલી શકો છો.">
 <!ENTITY continueUsing.label "તમે હવે &brandShortName; મદદથી ચાલુ રાખી શકો છો.">
+<!ENTITY confirm.client2.label         "ચેતવણી: આ કમ્પ્યૂટર પર નીચેની &brandShortName; માહિતીને કાઢી નંખાશે:">
+<!ENTITY confirm.server2.label         "ચેતવણી: નીચેના ઉપકરણો તમારી સ્થાનિક માહિતી સાથે ઉપર લખાઇ જશે:">
