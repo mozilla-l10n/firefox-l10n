@@ -10,14 +10,13 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ayuda"> 
 <!ENTITY helpMenuWin.accesskey    "u">
-<!ENTITY aboutProduct.label           "Acerca de &brandFullName;">
+<!ENTITY aboutProduct.label           "Acerca de &brandShortName;">
 <!ENTITY aboutProduct.accesskey       "A">
 <!ENTITY productHelp.label        "Ayuda de &brandShortName;">
 <!ENTITY productHelp.accesskey    "y">
 
 <!ENTITY helpForIEUsers.label     "Para usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "i">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Reiniciar con los agregados deshabilitados…">
 <!ENTITY helpSafeMode.accesskey   "R">
