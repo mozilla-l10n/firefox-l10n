@@ -18,7 +18,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "n">
 <!ENTITY signingGroupTitle.label "Firma digitale">
 <!ENTITY signMessage.label "Apponi una firma digitale ai messaggi">
-<!ENTITY signMessage.accesskey "A">
+<!ENTITY signMessage.accesskey "f">
 <!ENTITY signingCert.message "Utilizza il seguente certificato per aggiungere la firma digitale ai messaggi inviati:">
 <!ENTITY certificates.label "Certificati">
 <!ENTITY manageCerts.label "Gestione certificati…">

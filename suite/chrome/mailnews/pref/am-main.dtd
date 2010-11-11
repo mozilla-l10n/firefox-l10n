@@ -1,6 +1,6 @@
 <!ENTITY accountTitle.label "Impostazioni account">
 <!ENTITY accountName.label "Nome dell'account:">
-<!ENTITY accountName.accesskey "a">
+<!ENTITY accountName.accesskey "c">
 <!ENTITY identityTitle.label "Identità predefinita">
 <!ENTITY identityDesc.label "Ogni account ha una identità, che è l'informazione che le altre persone vedono quando leggono i tuoi messaggi.">
 <!ENTITY name.label "Il tuo nome:">

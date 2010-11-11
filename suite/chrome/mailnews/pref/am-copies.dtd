@@ -11,7 +11,7 @@
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Separa più indirizzi con una virgola">
 <!ENTITY saveMessageDlg.label "Mostra finestra di conferma per l'avvenuto salvataggio dei messaggi">
-<!ENTITY saveMessageDlg.accesskey "c">
+<!ENTITY saveMessageDlg.accesskey "f">
 <!ENTITY sentFolderOn.label "Cartella &quot;Inviati&quot; in:">
 <!ENTITY sentFolderOn.accesskey "v">
 <!ENTITY sentInOtherFolder.label "Altro:">
