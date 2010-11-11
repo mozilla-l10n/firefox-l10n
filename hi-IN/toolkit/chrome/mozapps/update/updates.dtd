@@ -1,7 +1,5 @@
 <!ENTITY  updateWizard.title              "सॉफ्टवेयर अद्यतन">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "अद्यतन के लिये जांच रहा है">
 <!ENTITY  updateCheck.label               "&brandShortName; के नए संस्करण के लिये जांच रहा है...…">
@@ -29,7 +27,7 @@
 
 <!ENTITY  incompatibleList.title          "असंगत सहयुक्तियाँ मिलीं">
 
-<!ENTITY  downloading.title               "अद्यतन डाउनलोड कर रहा है">
+
 <!ENTITY  downloading.intro               "यह अद्यतन डाउनलोड कर रहा है…">
 <!ENTITY  connecting.label                "अद्यतन सर्वर से कनेक्ट हो रहा है…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; असमर्थ था यह जांचने के लिये डाउनलोड किया संवर्द्धित अद्यतन, इसलिये यह अब पूरा अद्यतन संकुल डाउनलोड कर रहा है.">
@@ -42,7 +40,7 @@
                                            
 <!ENTITY  errorManual.label               "आप &brandShortName; दस्ती रूप से अद्यतन कर सकते हैं लिंक पर जाकर और नवीनतम संस्करण डाउनलोड करके:">
                                            
-<!ENTITY  errorpatching.title             "अद्यतन विफल">
+
 <!ENTITY  errorpatching.intro             "आंशिक अद्यतन लागू नहीं किया जा सका. 
                                            &brandShortName; एक पूरे अद्यतन के डाउनलोड से इसे कोशिश करेगा.">
 
@@ -68,3 +66,26 @@
                                            install software on this computer.">
 <!ENTITY  manualUpdate.title              "अद्यतन में असमर्थ">
 <!ENTITY  manualUpdateGetMsg.label        "आप यहाँ से हमेशा &brandShortName; का नवीनतम संस्करण पा सकते हैं:">                                           
+
+<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
+
+<!ENTITY  error.title                     "Update Failed">
+<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
+                                           insecure update. Please contact your network provider and seek help.">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
+                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
+                                           make sure that you have the latest version of &brandShortName; from:">
+
+<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
+
+<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
+
+<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
+
+<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
+
+
+
+
