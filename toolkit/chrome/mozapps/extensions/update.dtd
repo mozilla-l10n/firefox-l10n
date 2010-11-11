@@ -46,5 +46,4 @@
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "समाप्त करें क्लिक करें &brandShortName; को आरंभ करने के लिए.">
 <!ENTITY  enableChecking.label            "&brandShortName; को अद्यतन के लिए जांचने के स्वीकार करें.">
-<!ENTITY  details.label                   "विवरण...">
-<!ENTITY  details.accesskey               "D">
+
