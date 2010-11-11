@@ -86,8 +86,7 @@
 
 <!ENTITY certmgr.delete2.label                 "કાઢો…">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
-<!ENTITY exceptionMgr.exceptionButton         "સુરક્ષા અપવાદની ખાતરી કરો">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+
 <!ENTITY exceptionMgr.certstatus.viewCert     "જુઓ…">
 <!ENTITY certmgr.backup2.label                 "બેકઅપ…">
 <!ENTITY exceptionMgr.supplementalWarning     "કાયદાકીય બેંકો, સંગ્રહસ્થાનો, અને અન્ય જાહેર સાઈટો તમને આ કરવા માટે પૂછશે નહિં.">
@@ -126,3 +125,5 @@
 <!ENTITY certmgr.delete_builtin.label         "કાઢી નાંખો અથવા વિશ્ર્વાસ ન કરો…">
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.edit3.label                  "વિશ્ર્વાસમાં ફેરફાર કરો…">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "સુરક્ષા અપવાદની ખાતરી કરો">
