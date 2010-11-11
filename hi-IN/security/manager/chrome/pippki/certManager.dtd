@@ -94,10 +94,10 @@
 
 <!ENTITY certmgr.certname                     "प्रमाणपत्र नाम">
 <!ENTITY certmgr.certserver                   "सर्वर">
-<!ENTITY certmgr.typesofoverrides             "अपवाद">
+
 <!ENTITY certmgr.override_lifetime            "जीवनपर्यंत">
 <!ENTITY certmgr.tokenname                    "सुरक्षा युक्ति">
-<!ENTITY certmgr.purpose                      "उद्देश्य">
+
 <!ENTITY certmgr.issued                       "यहाँ निर्गत">
 <!ENTITY certmgr.expires                      "इसपर समाप्त">
 <!ENTITY certmgr.email                        "ईमेल पता">
@@ -107,8 +107,7 @@
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "दृश्य…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "संपादन…">
-<!ENTITY certmgr.edit2.accesskey              "E">
+
 <!ENTITY certmgr.editca.label                 "CA ट्रस्ट संपादित करें">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "जोड़ें">
@@ -133,8 +132,7 @@
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "सुरक्षा अपवाद जोड़ें">
-<!ENTITY exceptionMgr.exceptionButton         "सुरक्षा अपवाद संपुष्ट करें">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+
 <!ENTITY exceptionMgr.supplementalWarning     "वैध बैंक, भंडार, और दूसरे सार्वजनिक साइट आपको ऐसा करने के लिए नहीं कहेंगे.">
 <!ENTITY exceptionMgr.certlocation.caption2   "सर्वर">
 <!ENTITY exceptionMgr.certlocation.url        "स्थान:">
@@ -145,3 +143,13 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "यह अपवाद स्थायी रूप से जमा करें">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
+
+
+<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+
+<!ENTITY certmgr.edit3.label                  "Edit Trust…">
+<!ENTITY certmgr.edit3.accesskey              "E">
+
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
