@@ -57,5 +57,5 @@
 <!ENTITY restoreSearch.label          "Standard-Suchmaschinen wiederherstellen">
 <!ENTITY restoreSearch.accesskey      "S">
 
-<!ENTITY changeAndRestartButton.label "Änderungen ausführen und neustarten">
+<!ENTITY changeAndRestartButton.label "Änderungen ausführen und neu starten">
 <!ENTITY continueButton.label         "Im abgesicherten Modus weiterarbeiten">
