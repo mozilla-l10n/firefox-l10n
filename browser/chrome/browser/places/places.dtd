@@ -107,8 +107,8 @@
 <!ENTITY detailsPane.selectAnItemText.description "Selezionare un elemento per visualizzarne e modificarne le proprietà">
 <!ENTITY find.label "Cerca:">
 <!ENTITY find.accesskey "r">
-<!ENTITY view.label "z">
-<!ENTITY view.accesskey "Visualizza">
+<!ENTITY view.label "Visualizza">
+<!ENTITY view.accesskey "z">
 <!ENTITY byDate.label "Data">
 <!ENTITY byDate.accesskey "D">
 <!ENTITY bySite.label "Sito">

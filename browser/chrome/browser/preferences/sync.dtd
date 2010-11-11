@@ -14,7 +14,7 @@
 <!ENTITY stopUsingAccount.label "Non utilizzare più questo account">
 <!ENTITY syncPrefsCaption.label "Sincronizzazione del browser">
 <!ENTITY syncComputerName.label "Nome del computer:">
-<!ENTITY syncComputerName.accesskey "c">
+<!ENTITY syncComputerName.accesskey "u">
 <!ENTITY syncMy.label "Sincronizza">
 <!ENTITY engine.bookmarks.label "Segnalibri">
 <!ENTITY engine.bookmarks.accesskey "e">
