@@ -348,9 +348,9 @@ can reach it easily. -->
 <!ENTITY reloadImageCmd.label         "Grafik neu laden">
 <!ENTITY reloadImageCmd.accesskey     "G">
 <!ENTITY viewImageCmd.label           "Grafik anzeigen">
-<!ENTITY viewImageCmd.accesskey       "k">
+<!ENTITY viewImageCmd.accesskey       "r">
 <!ENTITY viewImageInfoCmd.label       "Grafik-Info anzeigen">
-<!ENTITY viewImageInfoCmd.accesskey   "z">
+<!ENTITY viewImageInfoCmd.accesskey   "o">
 <!ENTITY viewVideoCmd.label           "Video anzeigen">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Hintergrundgrafik anzeigen">
@@ -364,7 +364,7 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.label    "Lesezeichen für diesen Frame hinzufügen">
 <!ENTITY bookmarkThisFrameCmd.accesskey "z">
 <!ENTITY sendPageCmd.label            "Link senden…">
-<!ENTITY sendPageCmd.accesskey        "L">
+<!ENTITY sendPageCmd.accesskey        "s">
 <!ENTITY savePageCmd.label            "Seite speichern unter…">
 <!ENTITY savePageCmd.accesskey        "u">
 <!-- alternate for content area context menu -->
@@ -377,7 +377,7 @@ can reach it easily. -->
 <!ENTITY saveLinkCmd.label            "Ziel speichern unter…">
 <!ENTITY saveLinkCmd.accesskey        "Z">
 <!ENTITY sendLinkCmd.label            "Link senden…"> 
-<!ENTITY sendLinkCmd.accesskey        "L">
+<!ENTITY sendLinkCmd.accesskey        "s">
 <!ENTITY saveImageCmd.label           "Grafik speichern unter…">
 <!ENTITY saveImageCmd.accesskey       "u">
 <!ENTITY saveVideoCmd.label           "Video speichern unter…">
