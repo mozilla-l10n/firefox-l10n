@@ -26,4 +26,4 @@
 <!ENTITY modeAutoAddonWarn.label "Avvisami se ciò disattiva uno dei miei componenti aggiuntivi">
 <!ENTITY modeAutoAddonWarn.accesskey "v">
 <!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
-<!ENTITY updateHistory.accesskey "c">
+<!ENTITY updateHistory.accesskey "n">

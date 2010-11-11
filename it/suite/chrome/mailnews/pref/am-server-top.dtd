@@ -9,7 +9,7 @@
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Predefinito:">
 <!ENTITY biffStart.label "Controlla la presenza di nuovi messaggi ogni ">
-<!ENTITY biffStart.accesskey "z">
+<!ENTITY biffStart.accesskey "m">
 <!ENTITY biffEnd.label "minuti">
 <!ENTITY connectionSecurity.label "Sicurezza della connessione:">
 <!ENTITY connectionSecurity.accesskey "c">
@@ -39,16 +39,16 @@
 <!ENTITY modelDeleteImmediately.label "Elimina immediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "t">
 <!ENTITY expungeOnExit.label "Ripulisci la cartella 'In arrivo' dai messaggi eliminati prima di uscire">
-<!ENTITY expungeOnExit.accesskey "m">
+<!ENTITY expungeOnExit.accesskey "g">
 <!ENTITY emptyTrashOnExit.label "Svuota il Cestino prima di uscire">
-<!ENTITY emptyTrashOnExit.accesskey "p">
+<!ENTITY emptyTrashOnExit.accesskey "u">
 <!ENTITY loginAtStartup.label "All'avvio controlla l'arrivo di nuovi messaggi">
 <!ENTITY loginAtStartup.accesskey "d">
 <!ENTITY maxMessagesStart.label "Chiedi prima di scaricare più di">
 <!ENTITY maxMessagesStart.accesskey "h">
 <!ENTITY maxMessagesEnd.label "messaggi">
 <!ENTITY alwaysAuthenticate.label "Chiedi sempre l'autenticazione quando ci si connette a questo server">
-<!ENTITY alwaysAuthenticate.accesskey "m">
+<!ENTITY alwaysAuthenticate.accesskey "u">
 <!ENTITY newsrcFilePath.label "File newsrc:">
 <!ENTITY localPath.label "Cartella locale:">
 <!ENTITY abbreviate.label "Visualizza i nomi dei gruppi di discussione nel pannello cartelle come:">

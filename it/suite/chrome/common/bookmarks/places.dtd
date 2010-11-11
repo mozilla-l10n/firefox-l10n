@@ -70,7 +70,7 @@
 <!ENTITY col.dateadded.label "Aggiunto il">
 <!ENTITY col.lastmodified.label "Ultima modifica">
 <!ENTITY search.label "Cerca:">
-<!ENTITY search.accesskey "C">
+<!ENTITY search.placeholder "Cerca nei segnalibri">
 <!ENTITY search.scopeFolder.label "Cartella selezionata">
 <!ENTITY search.scopeFolder.accesskey "z">
 <!ENTITY search.scopeBookmarks.label "Segnalibri">

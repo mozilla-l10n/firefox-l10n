@@ -4,16 +4,16 @@
 <!ENTITY allFoldersOffline.label "Conserva in questo computer i messaggi di questo account">
 <!ENTITY allFoldersOffline.accesskey "C">
 <!ENTITY offlineNotDownload.label "Messaggi più grandi di">
-<!ENTITY offlineNotDownload.accesskey "e">
+<!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Non scaricare messaggi più grandi di">
 <!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "kB">
 <!ENTITY daysOld.label "giorni">
 <!ENTITY message.label "messaggi più recenti">
 <!ENTITY nntpNotDownloadRead.label "Messaggi letti">
-<!ENTITY nntpNotDownloadRead.accesskey "M">
+<!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "Messaggi anteriori a">
-<!ENTITY nntpDownloadMsg.accesskey "a">
+<!ENTITY nntpDownloadMsg.accesskey "t">
 <!ENTITY retentionCleanup.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente.">
 <!ENTITY retentionCleanupImap.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente, sia in locale sia sul server.">
 <!ENTITY retentionCleanupPop.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente, inclusi gli originali sul server.">
@@ -31,7 +31,7 @@
 <!ENTITY offlineSelectNntp.label "Seleziona gruppi di discussione per l'uso non in linea…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avanzate…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY offlineImapAdvancedOffline.accesskey "z">
 <!ENTITY syncGroupTitle.label "Sincronizzazione messaggi">
 <!ENTITY diskspaceGroupTitle.label "Spazio su disco">
 <!ENTITY allAutosync.label "Sincronizza in locale i messaggi di qualunque età">
