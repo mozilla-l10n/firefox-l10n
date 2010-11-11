@@ -94,11 +94,9 @@
 
 <!-- New & Existing Account: Confirm Merge Options -->
 <!ENTITY confirm.merge.label          "Jūs esat izvēlējies apvienot savus datus šajā datorā ar datiem no citiem datoriem un ierīcēm, kas izmanto &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label         "Visi &brandShortName; dati šajā datorā tiks izdzēsti, ieskaitot sekojošo:">
+<!ENTITY confirm.client2.label        "Brīdinājums: Visi &brandShortName; dati šajā datorā tiks izdzēsti, ieskaitot sekojošo:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; pēc tam pārkopēs datus no &syncBrand.fullName.label;s šajā datorā.">
-<!ENTITY confirm.client.warning.label "BRĪDINĀJUMS: Šī darbība novedīs pie tā, ka visi &brandShortName; dati šajā datorā tiek aizvietoti!">
-<!ENTITY confirm.server.label         "Dati sekojošās ierīcēs tiks aizstāti ar jūsu lokālajiem datiem šajā datorā:">
-<!ENTITY confirm.server.warning.label "BRĪDINĀJUMS: Jūsu lokālie dati šajā datorā aizstās &brandShortName; datus sekojošās ierīcēs!">
+<!ENTITY confirm.server2.label        "Brīdinājums: Dati sekojošās ierīcēs tiks aizstāti ar jūsu lokālajiem datiem šajā datorā:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Sagatavošana pabeigta">
