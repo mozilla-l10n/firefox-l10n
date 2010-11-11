@@ -1,29 +1,29 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "Agordo de &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY setup.pickSetupType.description "Bonvenon, se vi neniam antaŭe uzis &syncBrand.fullName.label; vi bezonos krei konton.">
+<!ENTITY button.createNewAccount.label "Krei novan konton">
+<!ENTITY button.haveAccount.label "Mi havas &syncBrand.fullName.label; konton">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "Ĉu vi uzis &syncBrand.fullName.label; antaŭe?">
+<!ENTITY setup.choicePage.new.label       "Mi neniam antaŭe uzis &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "Mi jam uzas &syncBrand.shortName.label; en alia komputilo">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servilo">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom.label    "Use a custom server">
-<!ENTITY signIn.account.label       "Email Address / User Name">
+<!ENTITY serverType.main.label      "Servilo de &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Uzi personan servilon">
+<!ENTITY signIn.account.label       "Retpoŝtan adreson / Nomo de uzanto">
 <!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Pasvorto">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY signIn.serverURL.label     "URL de servilo">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
+<!ENTITY setup.newAccountDetailsPage.title.label "Detaloj de konto">
+<!ENTITY setup.confirmPassword.label  "Konfirmi pasvorton">
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "Retpoŝta Adreso">
 <!ENTITY setup.emailAddress.accesskey "E">
@@ -49,16 +49,16 @@
 
 <!ENTITY button.syncKeyBackup.print.label     "Presi…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+<!ENTITY button.syncKeyBackup.save.label      "Konservi…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "K">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "Bonvolu konfirmi ke vi ne estas roboto">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
+<!ENTITY setup.existingAccount.title.label "Tajpu informon de konto">
 <!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY connecting.label             "Connecting…">
+<!ENTITY connecting.label             "Konekto…">
 
 <!-- Existing Account Page 2: Sync Key -->
 <!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
@@ -72,16 +72,16 @@
 <!ENTITY syncComputerName.label       "Nomo de komputilo:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Legosignoj">
+<!ENTITY syncMy.label               "Aktualigi miajn">
+<!ENTITY engine.bookmarks.label     "Legosignojn">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Folioj">
+<!ENTITY engine.tabs.label          "Foliojn">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "Historio">
+<!ENTITY engine.history.label       "Historion">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Pasvortoj">
+<!ENTITY engine.passwords.label     "Pasvortojn">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferoj">
+<!ENTITY engine.prefs.label         "Preferojn">
 <!ENTITY engine.prefs.accesskey     "S">
 
 <!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
@@ -91,12 +91,10 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Konfirmi">
-<!ENTITY confirm.merge.label    "You have chosen to merge your data on this computer with the data on your other devices running &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; enmetos nun ewill now merge all this computer's browser data into your Sync account.">
+<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
-<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
-<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
+<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Setup Complete">
