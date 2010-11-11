@@ -21,7 +21,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY signIn.serverURL.label "සේවාදායකයේ URL">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY signIn.password.accesskey "P">
-<!ENTITY confirm.server.warning.label "අවවාදයයි: ඔබගේ සමීප දත්ත (local data) මෙම උපාංගවල ඇති සියළු &brandShortName; දත්ත ප්‍රතිස්ථාපනය (replace) කරනු ඇත!">
 <!ENTITY engine.bookmarks.label "පිටුසළකුණු">
 <!ENTITY button.syncKeyBackup.save.accesskey "S">
 <!ENTITY setup.confirmPassword.accesskey "m">
@@ -51,7 +50,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY choice2.merge.recommended.label "අනුමත කළ:">
 <!ENTITY syncComputerName.accesskey "c">
 <!ENTITY engine.passwords.label "රහස්පද">
-<!ENTITY confirm.server.label "පහත උපාංග මත ඔබගේ සමීප දත්ත (local data) ලියවෙනු ඇත (overwrite):">
+<!ENTITY confirm.server2.label "අවවාදයයි: පහත උපාංග මත ඔබගේ සමීප දත්ත (local data) ලියවෙනු ඇත (overwrite):">
 <!ENTITY button.createNewAccount.label "නව ගිණුමක් සාදන්න">
 <!ENTITY setup.optionsPage.title "සම්මුහුර්ත (Sync) විකල්ප">
 <!ENTITY signIn.serverURL.accesskey "L">
@@ -67,7 +66,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY setup.newAccountDetailsPage.title.label "ගිණුම් තොරතුරු">
 <!ENTITY resetPassword.label "රහස්පද ප්‍රත්‍යාරම්භ (Reset) කිරීම">
 <!ENTITY syncKeyHelp.label "ප්‍රබලතාව (strength) යන්නෙන් කුමක් අදහස් වේද?">
-<!ENTITY confirm.client.label "පහත ඒවාද ඇතුළුව, සියළු &brandShortName; දත්ත මකනු ඇත:">
 <!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; Setup">
 <!ENTITY changeOptions.label "පහත සම්මුහුර්ත විකල්පයන් (Sync Options) තේරීමෙන් ඔබට මෙම මනාපයන් වෙනස් කළ හැකිය.">
 <!ENTITY syncComputerName.label "පරිගණකයේ නම:">
@@ -81,4 +79,4 @@ Entities below were automatically added by compare-locales,
 <!ENTITY button.haveAccount.label "මට &syncBrand.fullName.label; ගිණුමක් තිබේ">
 <!ENTITY syncKeyEntry.label "ඔබගේ සම්මුහුර්ත යතුර (Sync Key)">
 <!ENTITY verifying.label "ස්ථීර කරයි…">
-<!ENTITY confirm.client.warning.label "අවවාදයියි: මෙමඟින් මෙම පරිගණකයේ සියළු &brandShortName; දත්ත ප්‍රතිස්ථාපනය (replace) වනු ඇත!">
+<!ENTITY confirm.client2.label "අවවාදයයි: මෙම පරිගණකයේ ඇති &brandShortName; දත්ත මකනු ඇත:">
