@@ -68,6 +68,8 @@
 
 <!ENTITY homearrow.tooltip    "पहला पन्ना">
 <!ENTITY endarrow.tooltip     "अंतिम पन्ना">
-<!ENTITY rightarrow.tooltip   "अगला पन्ना">
-<!ENTITY leftarrow.tooltip    "पिछला पन्ना">
+<!ENTITY nextarrow.tooltip    "Next page">
+<!ENTITY previousarrow.tooltip "Previous page">
+
+
 
