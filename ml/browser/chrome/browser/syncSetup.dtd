@@ -92,11 +92,11 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "ഉറപ്പാക്കുക">
 <!ENTITY confirm.merge.label    "ഇനി &syncBrand.fullName.label; ഈ കമ്പ്യൂട്ടറിലുള്ള ബ്രൌസര്‍ ഡേറ്റാ നിങ്ങളുടെ സിന്‍ക് അക്കൌണ്ടിലേക്കു് കൂട്ടിചേര്‍ക്കുന്നു.">
-<!ENTITY confirm.client.label         "ഈ കമ്പ്യൂട്ടറിലുള്ള എല്ലാ &brandShortName; ഡേറ്റായും വെട്ടി നീക്കുന്നു, ഇവയും ഉള്‍പ്പെടുന്നു:">
+<!-- ENTITY confirm.client.label         "ഈ കമ്പ്യൂട്ടറിലുള്ള എല്ലാ &brandShortName; ഡേറ്റായും വെട്ടി നീക്കുന്നു, ഇവയും ഉള്‍പ്പെടുന്നു:" -->
 <!ENTITY confirm.client.moreinfo.label "ഇതിനു് ശേഷം &brandShortName; ഈ കമ്പ്യൂട്ടറിലേക്കു് നിങ്ങളുടെ  &syncBrand.fullName.label; ഡേറ്റാ പകര്‍ത്തുന്നു.">
-<!ENTITY confirm.client.warning.label "മുന്നറിയിപ്പു്: ഇങ്ങനെ ചെയ്യുന്നതു്, കമ്പ്യൂട്ടറിലുള്ള സമ്പൂര്‍ണ്ണ &brandShortName; ഡേറ്റാ മാറ്റിയുഴുതുന്നു!">
-<!ENTITY confirm.server.label         "ഈ ഡിവൈസുകളില്‍, നിങ്ങളുടെ ലോക്കല്‍ ഡേറ്റാ ഉപയോഗിച്ചു് മാറ്റിയെഴുതുന്നു:">
-<!ENTITY confirm.server.warning.label "മുന്നറിയിപ്പു്: ഈ ഡിവൈസുകളില്‍, നിങ്ങളുടെ ലോക്കല്‍ ഡേറ്റാ ഉപയോഗിച്ചു് എല്ലാ &brandShortName; ഡേറ്റായും മാറ്റുന്നു!">
+<!-- ENTITY confirm.client.warning.label "മുന്നറിയിപ്പു്: ഇങ്ങനെ ചെയ്യുന്നതു്, കമ്പ്യൂട്ടറിലുള്ള സമ്പൂര്‍ണ്ണ &brandShortName; ഡേറ്റാ മാറ്റിയുഴുതുന്നു!" -->
+<!-- ENTITY confirm.server.label         "ഈ ഡിവൈസുകളില്‍, നിങ്ങളുടെ ലോക്കല്‍ ഡേറ്റാ ഉപയോഗിച്ചു് മാറ്റിയെഴുതുന്നു:" -->
+<!-- ENTITY confirm.server.warning.label "മുന്നറിയിപ്പു്: ഈ ഡിവൈസുകളില്‍, നിങ്ങളുടെ ലോക്കല്‍ ഡേറ്റാ ഉപയോഗിച്ചു് എല്ലാ &brandShortName; ഡേറ്റായും മാറ്റുന്നു!" -->
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "സജ്ജമാക്കല്‍ പൂര്‍ണ്ണമാക്കിയിരിയ്ക്കുന്നു">
