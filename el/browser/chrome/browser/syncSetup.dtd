@@ -93,11 +93,13 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Επιβεβαίωση">
 <!ENTITY confirm.merge.label    "Ο &syncBrand.fullName.label; τώρα θα συγχωνεύσει όλα τα δεδομένα του περιηγητή αυτού του υπολογιστή με το λογαριασμό Sync σας.">
-<!ENTITY confirm.client.label         "Όλα τα δεδομένα του &brandShortName; σε αυτόν τον υπολογιστή θα διαγραφούν συμπεριλαμβανομένων και των παρακάτω:">
+
+<!ENTITY confirm.client2.label         "Προειδοποίηση: Θα διαγραφούν τα παρακάτω δεδομένα του &brandShortName; σε αυτό τον υπολογιστή:">
 <!ENTITY confirm.client.moreinfo.label "Ο &brandShortName; μετά θα αντιγράψει τα δεδομένα του &syncBrand.fullName.label; σας σε αυτό τον υπολογιστή.">
-<!ENTITY confirm.client.warning.label "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Αυτό θα έχει ως αποτέλεσμα την αντικατάσταση όλων των δεδομένων του &brandShortName; σε αυτό τον υπολογιστή!">
-<!ENTITY confirm.server.label         "Οι παρακάτω συσκευές θα αντικατασταθούν με τα τοπικά σας δεδομένα:">
-<!ENTITY confirm.server.warning.label "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Τα τοπικά σας δεδομένα θα αντικαταστήσουν όλα τα δεδομένα του &brandShortName; σε αυτές τις συσκευές!">
+
+
+<!ENTITY confirm.server2.label         "Προειδοποίηση: Οι παρακάτω συσκευές θα αντικατασταθούν με τα τοπικά σας δεδομένα:">
+
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Η ρύθμιση ολοκληρώθηκε!">
