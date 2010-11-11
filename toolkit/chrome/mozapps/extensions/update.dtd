@@ -24,7 +24,7 @@
 
 <!ENTITY  noupdates.wizard.title          "找不到相容的附加元件">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; 找不到不相容元件的更新檔。">
-<!ENTITY  noupdates.error.desc            "當試圖尋找更新時發生問題。">
+<!ENTITY  noupdates.error.desc            "試圖尋找更新時發生問題。">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; 會定期檢查並在相容的更新檔出現時通知您。">
 
 <!ENTITY  finished.wizard.title           "已安裝相容的附加元件">

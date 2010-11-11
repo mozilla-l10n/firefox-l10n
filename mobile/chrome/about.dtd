@@ -13,7 +13,6 @@
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 專案貢獻者；保留所有著作權利。(">
+-->
 <!ENTITY aboutPage.licenseLink                  "授權資訊">
-<!ENTITY aboutPage.copyrightInfo2               ")。">
+<!ENTITY aboutPage.licenseLinkSuffix            "。">
