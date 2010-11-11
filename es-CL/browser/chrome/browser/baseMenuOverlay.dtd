@@ -10,8 +10,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ayuda"> 
 <!ENTITY helpMenuWin.accesskey    "u">
-<!ENTITY aboutCmd.label           "Acerca de &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "A">
+<!ENTITY aboutProduct.label           "Acerca de &brandFullName;">
+<!ENTITY aboutProduct.accesskey       "A">
 <!ENTITY productHelp.label        "Ayuda de &brandShortName;">
 <!ENTITY productHelp.accesskey    "y">
 
@@ -19,10 +19,14 @@
 <!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Reiniciar con los agregados deshabilitados…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpTroubleshooting.label      "Información para resolver problemas…">
-<!ENTITY helpTroubleshooting.accesskey  "p">
+<!ENTITY helpTroubleshootingInfo.label      "Información para resolver problemas">
+<!ENTITY helpTroubleshootingInfo.accesskey  "p">
 
+<!ENTITY helpFeedbackPage.label      "Enviar comentarios…">
+<!ENTITY helpFeedbackPage.accesskey  "o">
 
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
