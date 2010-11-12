@@ -109,5 +109,6 @@
 <!ENTITY pageactions.search.addNew   "Zoekmachine toevoegen">
 
 <!ENTITY selectHelper.emptytext      "Filterlijst">
+<!ENTITY inputMethod.label           "Invoermethode selecteren">
 
 <!ENTITY appMenu.siteOptions         "Website-opties">
