@@ -9,6 +9,7 @@
 <!ENTITY closetab.label "Cerrar pestaña">
 <!ENTITY cut.label "Cortar">
 <!ENTITY copy.label "Copiar">
+<!ENTITY copyAll.label "Copiar todo">
 <!ENTITY copylink.label "Copiar la ruta del enlace">
 <!ENTITY paste.label "Pegar">
 <!ENTITY delete.label "Eliminar">
