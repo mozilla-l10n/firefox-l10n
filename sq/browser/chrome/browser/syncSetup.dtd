@@ -93,11 +93,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Ripohim">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label;-u tani do të përziejë krejt të dhënat e shfletuesit prej këtij kompjuteri me të dhënat e llogarisë tuaj Sync.">
-<!ENTITY confirm.client.label         "Krejt të dhënat &brandShortName; në këtë kompjuter do të fshihen, përfshi sa vijon:">
+<!ENTITY confirm.client2.label         "Kujdes: Të dhënat vijuese &brandShortName; në këtë kompjuter do të fshihen:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName;-i mandej do të kopjojë të dhënat tuaja &syncBrand.fullName.label; në këtë kompjuter.">
-<!ENTITY confirm.client.warning.label "KUJDES: Kjo do të bëjë që krejt të dhënat e &brandShortName;-it në këtë kompjuter të zëvendësohen!">
-<!ENTITY confirm.server.label         "Të dhënat tuaja në pajisjet vijuese do të mbishkruhen me të dhënat tuaja vendore:">
-<!ENTITY confirm.server.warning.label "KUJDES: Të dhënat tuaja do të zëvendësojnë krejt të dhënat e &brandShortName;-it në këto pajisje!">
+<!ENTITY confirm.server2.label         "Të dhënat në pajisjet vijuese do të mbishkruhen me të dhënat tuaja vendore:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Rregullim i Plotësuar">
