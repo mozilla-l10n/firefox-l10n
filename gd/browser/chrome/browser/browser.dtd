@@ -541,10 +541,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Tabaichean o choimpiutairean eile">
 
-<!ENTITY syncBrand.shortName.label    "Co-thìmeachadh">
+<!ENTITY syncBrand.shortName.label    "Co-shioncronachadh">
 
 <!ENTITY syncSetup.label              "Suidhich &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "S">
-<!ENTITY syncSyncNowItem.label        "Co-thìmich an-dràsta">
+<!ENTITY syncSyncNowItem.label        "Co-shioncronaich an-dràsta">
 <!ENTITY syncSyncNowItem.accesskey    "s">
-<!ENTITY syncToolbarButton.label      "Co-thìmeachadh">
+<!ENTITY syncToolbarButton.label      "Co-shioncronachadh">
