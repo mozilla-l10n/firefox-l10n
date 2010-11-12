@@ -16,16 +16,16 @@
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Seall an cuota">
 <!ENTITY changePassword.label         "Atharraich am facal-faire">
-<!ENTITY mySyncKey.label              "An iuchair co-thìmeachaidh agam">
-<!ENTITY resetSync.label              "Ath-shuidhich an co-thìmeachadh">
+<!ENTITY mySyncKey.label              "An iuchair co-shioncronachaidh agam">
+<!ENTITY resetSync.label              "Ath-shuidhich an co-shioncronachadh">
 <!ENTITY stopUsingAccount.label       "Sguir de chleachdadh a' chunntais seo">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Co-thìmeachadh a' bhrabhsair">
+<!ENTITY syncPrefsCaption.label       "Co-shioncronachadh a' bhrabhsair">
 <!ENTITY syncComputerName.label       "Ainm a' choimpiutair:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Co-thìmich">
+<!ENTITY syncMy.label               "Co-shioncronaich">
 <!ENTITY engine.bookmarks.label     "na comharran-lìn agam">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "na tabaichean agam">

@@ -93,7 +93,7 @@
 <!ENTITY certmgr.deleteusercert.aftername     "Chan urrainn dhut post-dealain a leughadh a chaidh a dhubh-cheileadh leis ma sguabas tu às an teisteanas seo.">
 
 <!ENTITY certmgr.certname                     "Ainm an teisteanais">
-<!ENTITY certmgr.certserver                   "Frithealaiche">
+<!ENTITY certmgr.certserver                   "Am frithealaiche">
 <!ENTITY certmgr.override_lifetime            "Saoghal">
 <!ENTITY certmgr.tokenname                    "Inneal tèarainteachd">
 <!ENTITY certmgr.issued                       "Air fhoillseachadh">
@@ -136,7 +136,7 @@
 <!ENTITY exceptionMgr.exceptionButton.label   "Dearbhaich eisgeachd tèarainteachd">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "c">
 <!ENTITY exceptionMgr.supplementalWarning     "Chan iarr bancaichean, bùithtean is làraichean poblach is dligheach eile ort seo a dhèanamh.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Frithealaiche">
+<!ENTITY exceptionMgr.certlocation.caption2   "Am frithealaiche">
 <!ENTITY exceptionMgr.certlocation.url        "Seòladh:">
 <!ENTITY exceptionMgr.certlocation.download   "Faigh teisteanas">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
