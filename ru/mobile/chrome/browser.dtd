@@ -87,4 +87,5 @@
 <!ENTITY pageactions.findInPage "Найти на странице">
 <!ENTITY pageactions.search.addNew "Добавить поисковую систему">
 <!ENTITY selectHelper.emptytext "Фильтр списка">
+<!ENTITY inputMethod.label "Выбрать метод ввода">
 <!ENTITY appMenu.siteOptions "Настройки сайта">
