@@ -84,7 +84,7 @@
 <!ENTITY col.lastmodified.label "Poslední změna">
 
 <!ENTITY search.label "Hledat:">
-<!ENTITY search.accesskey "H">
+<!ENTITY search.placeholder "Hledat záložky">
 <!ENTITY search.scopeFolder.label "Zvolená složka">
 <!ENTITY search.scopeFolder.accesskey "v">
 <!ENTITY search.scopeBookmarks.label "Záložky">

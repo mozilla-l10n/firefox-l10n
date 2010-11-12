@@ -12,6 +12,7 @@
 
 <!ENTITY cut.label "Vyjmout">
 <!ENTITY copy.label "Kopírovat">
+<!ENTITY copyAll.label "Kopírovat vše">
 <!ENTITY copylink.label "Kopírovat adresu odkazu">
 <!ENTITY paste.label "Vložit">
 <!ENTITY delete.label "Smazat">
@@ -108,5 +109,6 @@
 <!ENTITY pageactions.search.addNew "Přidat vyhledávací modul">
 
 <!ENTITY selectHelper.emptytext "Filtrovat seznam">
+<!ENTITY inputMethod.label "Zvolte vstupní metodu">
 
 <!ENTITY appMenu.siteOptions "Možnosti serveru">
