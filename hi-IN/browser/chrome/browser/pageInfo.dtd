@@ -125,7 +125,7 @@
 
 <!ENTITY  securityView.technical.header                 "तकनीकी विवरण">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permIndexedDB              "ऑफ़लाइन भंडारण बनाए रखें">
+<!ENTITY  permClearStorage           "भंडारण साफ़ करें">
 <!ENTITY  permClearStorage.accesskey "C">
 

@@ -57,5 +57,5 @@
 <!ENTITY restoreSearch.label          "मूलभूत खोज इंजन फिर वापस करें">
 <!ENTITY restoreSearch.accesskey      "s">
 
-<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.label        "सिवाय बैकअप के सभी पुस्तचिह्न मिटाएँ">
 <!ENTITY deleteBookmarks.accesskey    "b">

@@ -600,7 +600,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuFind.label "Find…">
 <!ENTITY appMenuUnsorted.label "बिना छाँटा पुस्तचिह्न">
 <!ENTITY appMenuWebDeveloper.label "वेब डेवलेपर">
-<!ENTITY appMenuGettingStarted.label "Getting Started">
+<!ENTITY appMenuGettingStarted.label "आरंभन">
 <!ENTITY appMenuSafeMode.label "निष्क्रिय सहयुक्ति से फिर आरंभ करें…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY backForwardItem.title        "पीछे/आगे">
@@ -608,14 +608,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.label "सहयुक्ति पट्टी">
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY allTabs.filter.emptyText "Search Tabs">
+<!ENTITY allTabs.filter.emptyText "खोज टैब">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
+<!ENTITY syncTabsMenu.label     "अन्य कंप्यूटर से टैब">
 
-<!ENTITY viewTabGroups.label            "Tab Groups">
+<!ENTITY viewTabGroups.label            "टैब समूह">
 <!ENTITY viewTabGroups.accesskey        "G">
