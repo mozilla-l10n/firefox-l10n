@@ -16,7 +16,7 @@
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkNow.label                "Jetzt prüfen">
 <!ENTITY checkNow.accesskey            "J">
-<!ENTITY configEditDesc.label          "Erweiterte Konfiguration (about:config):">
+<!ENTITY configEditDesc.label          "Erweiterte Konfiguration">
 <!ENTITY configEdit.label              "Konfiguration bearbeiten…">
 <!ENTITY configEdit.accesskey          "K">
 <!ENTITY returnReceiptsInfo.label      "Den Umgang mit Empfangsbestätigungen (MDN) regeln:">
