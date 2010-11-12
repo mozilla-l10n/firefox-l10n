@@ -9,6 +9,7 @@
 <!ENTITY closetab.label "Закрыть вкладку">
 <!ENTITY cut.label "Вырезать">
 <!ENTITY copy.label "Копировать">
+<!ENTITY copyAll.label "Копировать всё">
 <!ENTITY copylink.label "Копировать адрес ссылки">
 <!ENTITY paste.label "Вставить">
 <!ENTITY delete.label "Удалить">

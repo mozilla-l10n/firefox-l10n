@@ -70,7 +70,7 @@
 <!ENTITY col.dateadded.label "Добавлена">
 <!ENTITY col.lastmodified.label "Посл. изменение">
 <!ENTITY search.label "Поиск:">
-<!ENTITY search.accesskey "о">
+<!ENTITY search.placeholder "Поиск в закладках">
 <!ENTITY search.scopeFolder.label "Выбранная папка">
 <!ENTITY search.scopeFolder.accesskey "б">
 <!ENTITY search.scopeBookmarks.label "Закладки">
