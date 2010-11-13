@@ -124,3 +124,18 @@
 <!ENTITY detailsPane.less.accesskey "ย">
 <!ENTITY detailsPane.noPreviewAvailable.label "ดูตัวอย่าง">
 <!ENTITY detailsPane.selectAnItemText.description "เลือกรายการเพื่อแสดงและแก้ไขคุณสมบัติของมัน">
+
+<!ENTITY find.label               "ค้นหา:">
+<!ENTITY find.accesskey           "ค">
+<!ENTITY view.label               "มุมมอง">
+<!ENTITY view.accesskey           "ม">
+<!ENTITY byDate.label             "ตามวันที่">
+<!ENTITY byDate.accesskey         "ว">
+<!ENTITY bySite.label             "ตามไซต์">
+<!ENTITY bySite.accesskey         "ซ">
+<!ENTITY byMostVisited.label      "ตามความถี่การเข้าชม">
+<!ENTITY byMostVisited.accesskey  "ช">
+<!ENTITY byLastVisited.label      "ตามการเข้าชมล่าสุด">
+<!ENTITY byLastVisited.accesskey  "ล">
+<!ENTITY byDayAndSite.label       "ตามวันที่และไซต์">
+<!ENTITY byDayAndSite.accesskey   "ล">
