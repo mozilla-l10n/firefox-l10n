@@ -33,7 +33,6 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "กลุ่มใหม่">
 <!ENTITY  moveToNewWindow.label              "ย้างไปหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ป">
-<!ENTITY  pinTab.label                       "ทำเป็น App Tab">
 <!ENTITY  bookmarkAllTabs.label              "คั่นหน้าเว็บทุกแท็บ…">
 <!ENTITY  bookmarkAllTabs.accesskey          "บ">
 <!ENTITY  undoCloseTab.label                 "เรียกคืนแท็บที่เพิ่งปิด">
