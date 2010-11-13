@@ -57,5 +57,3 @@
 <!ENTITY clickFinish.label "คลิก เสร็จสิ้น เพื่อเริ่มการทำงานของ&brandShortName;">
 <!ENTITY clickFinish.labelMac "คลิก เสร็จสิ้น เพื่อเริ่มการทำงานของ&brandShortName;">
 <!ENTITY enableChecking.label "อนุญาตให้&brandShortName;ตรวจสอบรายการปรับปรุง">
-<!ENTITY details.label "รายละเอียด…">
-<!ENTITY details.accesskey "ล">
