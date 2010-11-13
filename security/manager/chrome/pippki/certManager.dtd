@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey "ย">
 
 <!ENTITY exceptionMgr.title "เพิ่มข้อยกเว้นความปลอดภัย">
-<!ENTITY exceptionMgr.exceptionButton "ยืนยันข้อยกเว้นความปลอดภัย">
-<!ENTITY exceptionMgr.exceptionButtonAccess "ย">
+<!ENTITY exceptionMgr.exceptionButton.label   "ยืนยันข้อยกเว้นความปลอดภัย">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "ย">
 <!ENTITY exceptionMgr.supplementalWarning "ธนาคาร, ห้างร้าน และเว็บไซต์สาธารณะที่ถูกกฎหมายจะไม่ให้คุณทำเช่นนี้">
 <!ENTITY exceptionMgr.certlocation.caption2 "เซิร์ฟเวอร์">
 <!ENTITY exceptionMgr.certlocation.url "ตำแหน่งที่ตั้ง :">

@@ -45,9 +45,17 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "โหมดออฟไลน์">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>ติ๊ก &quot;ทำงานออฟไลน์&quot; ในเมนูแฟ้มออก แล้วลองใหม่อีกครั้ง</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>ติ๊ก &quot;ทำงานออฟไลน์&quot; ในเมนูออก แล้วลองใหม่อีกครั้ง</li>
+</ul>
+">
+
 
 <!ENTITY contentEncodingError.title "การเข้ารหัสเนื้อหาผิดพลาด">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -131,13 +139,15 @@
 <!ENTITY securityOverride.linkText "หรือคุณสามารถจะเพิ่มข้อยกเว้น…">
 <!ENTITY securityOverride.getMeOutOfHereButton "พาฉันออกไปจากที่นี่!">
 <!ENTITY securityOverride.exceptionButtonLabel "เพิ่มข้อยกเว้นเว็บไซต์…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
 
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "<p>คุณไม่ควรจะเพิ่มข้อยกเว้นเว็บไซต์ถ้าคุณกำลังใช้การเชื่อมต่ออินเทอร็เน็ตที่คุณไม่เชื่อใจเต็มที่หรือคุณไม่เคยเจอคำเตือนกับเซิร์ฟเวอร์นี้มาก่อน</p> 
- 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<!ENTITY securityOverride.warningContent "
+<p>คุณไม่ควรจะเพิ่มข้อยกเว้นถ้าคุณกำลังใช้การเชื่อมต่ออินเทอร์เน็ตที่คุณไม่ได้เชื่อถืออย่างหมดใจ หรือคุณไม่เคยเห็นคำเตือนนี้กับเว็บไซต์นี้มาก่อน</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
