@@ -6,7 +6,7 @@
 <!ENTITY community.middle2          "">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ชุมชนระดับโลก">
-<!ENTITY community.end2             "ที่ทำงานร่วมกันเพื่อทำให้อินเทอร์เน็ตดีขึ้น เราเชื่อว่าอินเทอร์เน็ตควรจะเสรี เป็นสาธารณะและทุกคนเข้าถึงได้โดยไร้ข้อจำกัด">
+<!ENTITY community.end2             "ที่ทำงานร่วมกันเพื่อทำให้อินเทอร์เน็ตดีขึ้น เราเชื่อว่าอินเทอร์เน็ตควรจะเสรี เป็นของสาธารณะและทุกคนเข้าถึงได้โดยไร้ข้อจำกัด">
 
 <!ENTITY contribute.start           "ฟังดูน่าสนใจไหม? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
