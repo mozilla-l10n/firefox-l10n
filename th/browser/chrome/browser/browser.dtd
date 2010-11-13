@@ -18,14 +18,22 @@
 <!ENTITY  reloadAllTabs.accesskey            "ท">
 <!ENTITY  closeOtherTabs.label               "ปิดแท็บอื่น">
 <!ENTITY  closeOtherTabs.accesskey           "อ">
-<!ENTITY  openTabInNewWindow.label           "เปิดในหน้าต่างใหม่">
-<!ENTITY  openTabInNewWindow.accesskey       "W">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "ปักหมุดเป็น App Tab">
+<!ENTITY  pinAppTab.accesskey                "ป">
+<!ENTITY  unpinAppTab.label                  "ถอดหมุน Tab">
+<!ENTITY  unpinAppTab.accesskey              "ถ">
+<!ENTITY  moveToGroup.label                  "ย้ายไปยังกลุ่ม">
+<!ENTITY  moveToGroup.accesskey              "ย">
+<!ENTITY  moveToNewGroup.label               "กลุ่มใหม่">
+<!ENTITY  moveToNewWindow.label              "ย้างไปหน้าต่างใหม่">
+<!ENTITY  moveToNewWindow.accesskey          "ป">
 <!ENTITY  pinTab.label                       "ทำเป็น App Tab">
-<!ENTITY  pinTab.accesskey                   "ส">
-<!ENTITY  unpinTab.label                     "ทำเป็นแท็บปกติ">
-<!ENTITY  unpinTab.accesskey                 "ป">
-<!ENTITY  bookmarkThisTab.label              "คั่นหน้าเว็บนี้">
-<!ENTITY  bookmarkThisTab.accesskey          "น">
 <!ENTITY  bookmarkAllTabs.label              "คั่นหน้าเว็บทุกแท็บ…">
 <!ENTITY  bookmarkAllTabs.accesskey          "บ">
 <!ENTITY  undoCloseTab.label                 "เรียกคืนแท็บที่เพิ่งปิด">
@@ -63,8 +71,8 @@
 <!ENTITY personalbarCmd.label "แถบเครื่องมือที่คั่นหน้าเว็บ">
 <!ENTITY personalbarCmd.accesskey "ค">
 <!ENTITY bookmarksToolbarItem.label "แถบเครื่องมือรายการที่คั่นหน้าเว็บ">
-<!ENTITY taskbarCmd.label "แถบสถานะ">
-<!ENTITY taskbarCmd.accesskey "ส">
+<!ENTITY addonBarCmd.label "แถบส่วนเสริม">
+<!ENTITY addonBarCmd.accesskey "ส">
 
 <!ENTITY pageSourceCmd.label "ซอร์สโค้ด">
 <!ENTITY pageSourceCmd.accesskey "ซ">
@@ -96,7 +104,7 @@
 <!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
-<!ENTITY organizeBookmarks.label "จัดการที่คั่นหน้าเว็บ…">
+<!ENTITY showAllBookmarks.label "แสดงที่คั่นหน้าเว็บทั้งหมด…">
 <!ENTITY bookmarkAllCmd.label "คั่นทุกแท็บ…">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเว็บอื่น ๆ ด้วย">
 
@@ -106,7 +114,6 @@
 <!ENTITY forwardCmd.label "ถัดไป">
 <!ENTITY forwardCmd.accesskey "ถ">
 <!ENTITY forwardButton.tooltip "ถัดไปหนึ่งหน้า">
-<!ENTITY backForwardMenu.tooltip "หน้าเมื่อเร็ว ๆ นี้">
 <!ENTITY reloadCmd.label "เรียกใหม่">
 <!ENTITY reloadCmd.accesskey "ร">
 <!ENTITY reloadButton.tooltip "เรียกหน้าปัจจุบันใหม่">
@@ -115,17 +122,22 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "หยุดการโหลดหน้านี้">
 <!ENTITY goEndCap.tooltip "ไปยังที่ตั้งที่ป้อน">
-<!ENTITY feedButton.tooltip "บอกรับหน้านี้…">
 <!ENTITY printButton.label "พิมพ์">
 <!ENTITY printButton.tooltip "พิมพ์หน้านี้">
 
+<!ENTITY backForwardItem.title        "ย้อนหลัง/เดินหน้า">
 <!ENTITY locationItem.title "ที่ตั้ง">
 <!ENTITY searchItem.title "ค้นหา">
 <!ENTITY throbberItem.title "ตัวบ่งชี้กิจกรรม">
 <!ENTITY bookmarksItem.title "ที่คั่นหน้าเว็บ">
 
 <!-- Toolbar items -->
+<!ENTITY appMenuButton.label          "เมนู">
+<!ENTITY appMenuButton.tooltip        "เปิดเมนู &brandShortName;">
 <!ENTITY homeButton.label "บ้าน">
+
+<!ENTITY tabGroupsButton.label        "กลุ่มแท็บ">
+<!ENTITY tabGroupsButton.tooltip      "จัดกลุ่มแท็บของคุณ">
 
 <!ENTITY bookmarksButton.label "ที่คั่นหน้าเว็บ">
 <!ENTITY bookmarksButton.tooltip "แสดงที่คั่นหน้าเว็บ">
@@ -134,6 +146,7 @@
 
 <!ENTITY bookmarksMenuButton.label          "ที่คั่นหน้าเว็บ">
 <!ENTITY bookmarksMenuButton.tooltip        "แสดงที่คั่นหน้าเว็บของคุณ">
+<!ENTITY bookmarksMenuButton.unsorted.label "ที่คั่นหน้าเว็บที่ยังไม่ได้เรียง">
 <!ENTITY viewBookmarksSidebar.label         "แสดงในแถบข้าง">
 <!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้าเว็บ">
 
@@ -142,6 +155,9 @@
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY feedButton.label             "บอกรับ">
+<!ENTITY feedButton.tooltip "บอกรับหน้านี้…">
 
 <!ENTITY historyButton.label "ประวัติ">
 <!ENTITY historyButton.tooltip "แสดงหน้าที่ดูล่าสุด">
@@ -162,6 +178,7 @@
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "ส่วนเสริม">
 <!ENTITY addons.accesskey "ส">
+<!ENTITY addons.commandkey            "ส">
 
 <!ENTITY errorConsoleCmd.label "หน้าจอข้อผิดพลาด">
 <!ENTITY errorConsoleCmd.accesskey "จ">
@@ -175,6 +192,7 @@
 <!ENTITY inspectMenu.accesskey        "ต">
 <!ENTITY inspectMenu.commandkey       "ต">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "ตรวจดู">
 <!ENTITY inspectButton.accesskey      "ต">
 <!ENTITY inspectNextButton.label      "ถัดไป">
@@ -184,6 +202,12 @@
 <!ENTITY inspectStyleButton.label     "รูปแบบ">
 <!ENTITY inspectStyleButton.accesskey "ร">
 <!ENTITY inspectStylePanelTitle.label  "รูปแบบ">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "วัตถุ">
+<!ENTITY inspectObjectButton.accesskey   "ว">
 
 <!ENTITY fileMenu.label "แฟ้ม">
 <!ENTITY fileMenu.accesskey "ฟ">
@@ -231,6 +255,8 @@
 
 <!ENTITY viewMenu.label "มุมมอง">
 <!ENTITY viewMenu.accesskey "ม">
+<!ENTITY viewTabGroups.label            "กลุ่มแท็บ">
+<!ENTITY viewTabGroups.accesskey        "ล">
 <!ENTITY viewToolbarsMenu.label "แถบเครื่องมือ">
 <!ENTITY viewToolbarsMenu.accesskey "ค">
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
@@ -245,16 +271,22 @@
 <!ENTITY historyUndoMenu.label "แท็บที่เพิ่งปิด">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "หน้าต่างที่เพิ่งปิด">
+<!ENTITY historyRestoreLastSession.label "เรียกคืนวาระที่แล้ว">
 
 <!ENTITY historyHomeCmd.label "หน้าแรก">
 <!ENTITY showAllHistoryCmd2.label "แสดงประวัติทั้งหมด">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "พิมพ์">
+<!ENTITY appMenuEdit.label "แก้ไข">
 <!ENTITY appMenuCustomize.label "ปรับแต่ง">
 <!ENTITY appMenuToolbarLayout.label "รูปแบบแถบเครื่องมือ…">
 <!ENTITY appMenuSidebars.label "แถบข้าง">
-<!ENTITY appMenuHelp.label "ช่วยเหลือ">
+<!ENTITY appMenuFind.label "ค้นหา…">
+<!ENTITY appMenuUnsorted.label "ที่คั่นหน้าเว็บที่ยังไม่ได้เรียงลำดับ">
+<!ENTITY appMenuWebDeveloper.label "นักพัฒนาเว็บ">
+<!ENTITY appMenuGettingStarted.label "เริ่มต้น">
+<!ENTITY appMenuSafeMode.label "เริ่มใหม่และปิดใช้งานส่วนเสริม…">
+<!ENTITY appMenuSafeMode.accesskey "ร">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder           "ไปยังเว็บไซต์">
@@ -284,8 +316,9 @@
 
  -->
 <!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmd.label "เปิดลิงก์ในหน้าต่างใหม่">
 <!ENTITY openLinkCmd.accesskey "น">
@@ -426,7 +459,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "ตัด">
 <!ENTITY copyButton.tooltip "คัดลอก">
 <!ENTITY pasteButton.tooltip "แปะ">
+
 <!ENTITY fullScreenButton.tooltip       "แสดงหน้าต่างแบบเต็มหน้าจอ">
+
+<!ENTITY zoomOutButton.tooltip          "ย่อ">
+<!ENTITY zoomInButton.tooltip           "ขยาย">
+<!ENTITY zoomControls.label             "ควบคุมการย่อขยาย">
 
 <!ENTITY quitApplicationCmdWin.label "ออก">
 <!ENTITY quitApplicationCmdWin.accesskey "อ">
@@ -479,10 +517,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label "เสร็จ">
 <!ENTITY editBookmark.cancel.label "ยกเลิก">
 <!ENTITY editBookmark.removeBookmark.accessKey "ล">
-<!ENTITY editBookmark.undo.label "เรียกคืน">
-<!ENTITY editBookmark.undo.accessKey "ร">
-<!ENTITY editBookmark.edit.label "แก้ไข…">
-<!ENTITY editBookmark.edit.accessKey "ก">
 
 <!ENTITY identity.unverifiedsite2 "เว็บไซต์นี้ไม่ระบุข้อมูลอัตลักษณ์">
 <!ENTITY identity.connectedTo "กำลังเชื่อมต่อไปยัง">
@@ -507,3 +541,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "แท็บเบราว์เซอร์">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "แท็บจากเครื่องคอมพิวเตอร์อื่น">
+
+<!ENTITY syncBrand.shortName.label    "Sync">
+
+<!ENTITY syncSetup.label              "ตั้งค่า &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "ต">
+<!ENTITY syncSyncNowItem.label        "ผสานข้อมูลเดี๋ยวนี้">
+<!ENTITY syncSyncNowItem.accesskey    "ผ">
+<!ENTITY syncToolbarButton.label      "ผสาน">
+
