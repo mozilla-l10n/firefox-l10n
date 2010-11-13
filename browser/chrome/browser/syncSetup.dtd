@@ -92,11 +92,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
 <!ENTITY confirm.merge.label "Ha seleccionado mezclar los datos de esta computadora con los datos de sus otros dispositivos que usan &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label "Todos los datos de &brandShortName; en esta computadora se borrarán, incluyendo los siguientes:">
+<!ENTITY confirm.client2.label         "Advertencia: Todos los datos de &brandShortName; en esta computadora se borrarán:">
 <!ENTITY confirm.client.moreinfo.label "Después de eso, &brandShortName; copiará sus datos de &syncBrand.fullName.label; a esta computadora.">
-<!ENTITY confirm.client.warning.label "ADVERTENCIA: ¡Ésto resultará en que todos los datos de  &brandShortName; en esta computadora serán reemplazados!">
-<!ENTITY confirm.server.label "Los siguientes dispositivos serán sobreescritos con sus datos locales:">
-<!ENTITY confirm.server.warning.label "ADVERTENCIA: ¡Sus datos locales reemplazarán todos los datos de &brandShortName; en estos dispositivos!">
+ <!ENTITY confirm.server2.label         "Advertencia: Los siguientes dispositivos serán sobreescritos con sus datos locales:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Instalación completa">
