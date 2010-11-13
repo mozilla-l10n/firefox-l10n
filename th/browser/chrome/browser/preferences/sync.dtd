@@ -16,12 +16,12 @@
 <!ENTITY manageAccount.accesskey      "จ">
 <!ENTITY viewQuota.label              "ดูโควตา">
 <!ENTITY changePassword.label         "เปลี่ยนรหัสผ่าน">
-<!ENTITY mySyncKey.label              "ซิงก์คีย์ของฉัน">
-<!ENTITY resetSync.label              "ล้างซิงก์">
+<!ENTITY mySyncKey.label              "กุญแจ Sync ของฉัน">
+<!ENTITY resetSync.label              "ล้าง Sync">
 <!ENTITY stopUsingAccount.label       "หยุดการใช้งานบัญชีผู้ใช้นี้">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "เบราว์เซอร์ซิงก์">
+<!ENTITY syncPrefsCaption.label       "เบราว์เซอร์ Sync">
 <!ENTITY syncComputerName.label       "ชื่อคอมพิวเตอร์:">
 <!ENTITY syncComputerName.accesskey   "ค">
 
