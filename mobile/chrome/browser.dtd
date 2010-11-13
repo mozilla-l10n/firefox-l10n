@@ -19,6 +19,7 @@
 <!ENTITY selectAll.label       "Alles selecteren">
 <!ENTITY noSuggestions.label   "(Geen suggesties)">
 <!ENTITY addToDictionary.label "Toevoegen aan woordenboek">
+<!ENTITY inputMethod.label     "Invoermethode selecteren">
 
 <!ENTITY allPagesHeader.label      "Alle pagina’s">
 <!ENTITY bookmarksHeader.label     "Bladwijzers">
@@ -109,6 +110,5 @@
 <!ENTITY pageactions.search.addNew   "Zoekmachine toevoegen">
 
 <!ENTITY selectHelper.emptytext      "Filterlijst">
-<!ENTITY inputMethod.label           "Invoermethode selecteren">
 
 <!ENTITY appMenu.siteOptions         "Website-opties">
