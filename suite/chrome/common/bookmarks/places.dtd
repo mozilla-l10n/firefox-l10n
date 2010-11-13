@@ -9,12 +9,12 @@
 <!ENTITY view.columns.accesskey "M">
 <!ENTITY view.sort.label "Ordina per">
 <!ENTITY view.sort.accesskey "O">
-<!ENTITY view.unsorted.label "nessun ordine">
-<!ENTITY view.unsorted.accesskey "N">
-<!ENTITY view.sortAscending.label "Ordine alfabetico">
-<!ENTITY view.sortAscending.accesskey "O">
-<!ENTITY view.sortDescending.label "Ordine alfabetico inverso">
-<!ENTITY view.sortDescending.accesskey "b">
+<!ENTITY view.unsorted.label "Nessun ordinamento">
+<!ENTITY view.unsorted.accesskey "o">
+<!ENTITY view.sortAscending.label "A > Z">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "Z > A">
+<!ENTITY view.sortDescending.accesskey "Z">
 <!ENTITY cmd.findInBookmarks.label "Cerca nei segnalibri…">
 <!ENTITY cmd.findInBookmarks.accesskey "C">
 <!ENTITY cmd.findCurrent.label "Cerca nella raccolta corrente…">
@@ -53,7 +53,7 @@
 <!ENTITY cmd.new_folder.accesskey "u">
 <!ENTITY cmd.context_new_folder.accesskey "N">
 <!ENTITY cmd.new_separator.label "Nuovo separatore">
-<!ENTITY cmd.new_separator.accesskey "a">
+<!ENTITY cmd.new_separator.accesskey "s">
 <!ENTITY cmd.reloadLivebookmark.label "Ricarica segnalibro live">
 <!ENTITY cmd.reloadLivebookmark.accesskey "b">
 <!ENTITY cmd.reloadMicrosummary.label "Ricarica titolo live">
@@ -80,10 +80,10 @@
 <!ENTITY cmd.find.key "f">
 <!ENTITY backButton.tooltip "Vai indietro">
 <!ENTITY forwardButton.tooltip "Vai avanti">
-<!ENTITY detailsPane.more.label "Più">
-<!ENTITY detailsPane.more.accesskey "P">
-<!ENTITY detailsPane.less.label "Meno">
-<!ENTITY detailsPane.less.accesskey "M">
+<!ENTITY detailsPane.more.label "Più dati">
+<!ENTITY detailsPane.more.accesskey "d">
+<!ENTITY detailsPane.less.label "Meno dati">
+<!ENTITY detailsPane.less.accesskey "d">
 <!ENTITY detailsPane.selectAnItemText.description "Scegli un elemento per visualizzare e modificare le sue proprietà">
 <!ENTITY editBookmark.done.label "Completato">
 <!ENTITY editBookmark.cancel.label "Annulla">

@@ -10,12 +10,12 @@
 <!ENTITY view.sortBy.accesskey "O">
 <!ENTITY view.groupBy.label "Raggruppa per">
 <!ENTITY view.groupBy.accesskey "R">
-<!ENTITY view.unsorted.label "nessun ordine">
-<!ENTITY view.unsorted.accesskey "N">
-<!ENTITY view.sortAscending.label "Ordine alfabetico">
-<!ENTITY view.sortAscending.accesskey "O">
-<!ENTITY view.sortDescending.label "Ordine alfabetico inverso">
-<!ENTITY view.sortDescending.accesskey "v">
+<!ENTITY view.unsorted.label "Nessun ordinamento">
+<!ENTITY view.unsorted.accesskey "o">
+<!ENTITY view.sortAscending.label "A > Z">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "Z > A">
+<!ENTITY view.sortDescending.accesskey "Z">
 <!ENTITY view.groupNone.label "Nessuno">
 <!ENTITY view.groupNone.accesskey "N">
 <!ENTITY view.groupDay.label "Giorno">
