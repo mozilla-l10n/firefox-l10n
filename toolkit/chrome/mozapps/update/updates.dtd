@@ -17,6 +17,7 @@
 <!ENTITY  manualUpdate.desc               "พบการปรับปรุงความปลอดภัยและเสถียรภาพซึ่งเราแนะนำให้ติดตั้ง 
                                            แต่คุณไม่มีสิทธิ์การเข้าถึงระบบที่เพียงพอสำหรับการติดตั้ง โปรดติดต่อผู้ดูแลระบบ
                                            หรือลองอีกครั้งโดยใช้บัญชีผู้ใช้ที่มีสิทธิ์ติดตั้งโปรแกรมบนคอมพิวเตอร์เครื่องนี้">
+<!ENTITY  manualUpdate.space.desc         "พบการปรับปรุงความปลอดภัยและเสถียรภาพซึ่งเราแนะนำให้ติดตั้ง แต่คุณไม่มีเนื้อที่เพียงพอในการติดตั้ง">
 <!ENTITY  manualUpdateGetMsg.label        "คุณยังสามารถขอรับ &brandShortName; รุ่นล่าสุดได้เสมอที่ :">
 
 <!ENTITY  incompatibleCheck.title         "ตรวจสอบความเข้ากันได้ของส่วนเสริม">
@@ -50,15 +51,22 @@
 
 <!ENTITY details.link "รายละเอียด">
 
+<!ENTITY  error.title "ปรับปรุงไม่สำเร็จ">
+
 <!ENTITY error.label "มีปัญหาในการตรวจสอบ, ดาวน์โหลด, หรือ ติดตั้งชุดปรับปรุงนี้ 
 ไม่สามารถปรับปรุง &brandShortName; ได้เพราะ :">
                                            
 <!ENTITY errorManual.label "คุณสามารถปรับปรุง &brandShortName; ได้เอง 
 โดยไปที่ลิงก์นี้และดาวน์โหลดรุ่นล่าสุด :">
                                            
-<!ENTITY errorpatching.title "ปรับปรุงไม่สำเร็จ">
 <!ENTITY errorpatching.intro "การปรับปรุงแบบบางส่วนไม่สามารถทำได้ 
 &brandShortName; จะพยายามอีกครั้ง โดยการดาวน์โหลดชุดปรับปรุงแบบเต็ม">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ไม่สามามารถระบุว่ามีการปรับปรุงหรือไม่ โปรดตรวจสอบให้แน่ใจว่าคุณมี  &brandShortName; รุ่นล่าสุดจาก:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
+                                           พบการปรับปรุงความปลอดภัยและเสถียรภาพซึ่งเราแนะนำให้ติดตั้ง version of &brandShortName; from:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
+                                           insecure update. Please contact your network provider and seek help.">
 
 <!ENTITY finishedPage.title "ชุดปรับปรุงพร้อมสำหรับการติดตั้งแล้ว">
 <!ENTITY finishedPage.text "ชุดปรับปรุงนี้จะถูกติดตั้งเมื่อเริ่ม &brandShortName; ครั้งถัดไป 
