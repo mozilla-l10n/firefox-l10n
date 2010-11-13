@@ -16,6 +16,7 @@
 <!ENTITY selectAll.label "Seleccionar todo">
 <!ENTITY noSuggestions.label "(Sin sugerencias)">
 <!ENTITY addToDictionary.label "Añadir al diccionario">
+<!ENTITY inputMethod.label "Seleccione el método de introducción">
 <!ENTITY allPagesHeader.label "Todas las páginas">
 <!ENTITY bookmarksHeader.label "Marcadores">
 <!ENTITY historyHeader.label "Historial">
