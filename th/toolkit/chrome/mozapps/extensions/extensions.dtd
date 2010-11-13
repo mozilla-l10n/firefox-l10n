@@ -1,4 +1,4 @@
-<!ENTITY addons.windowTitle                   "ตัดจัดการส่วนเสริม">
+<!ENTITY addons.windowTitle                   "ตัวจัดการส่วนเสริม">
 <!ENTITY search.placeholder                   "ค้นหาส่วนเสริมทั้งหมด">
 <!ENTITY loading.label                        "กำลังโหลด…">
 <!ENTITY listEmpty.installed.label            "คุณไม่ได้ติดตั้งส่วนเสริมประเภทนี้ไว้">

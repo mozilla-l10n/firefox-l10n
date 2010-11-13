@@ -1,42 +1,41 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label          "ติดตั้ง &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "ต">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ ที่คั่นหน้าเว็บ รหัสผ่าน และแท็บที่เปิดไว้ผ่านอุปกรณ์ของคุณทั้งหมด">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentAccount.label         "Current Account:">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; บัญชีผู้ใช้">
+<!ENTITY currentAccount.label         "บัญชีผู้ใช้ปัจจุบัน:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
+<!ENTITY updatePass.label             "ปรับข้อมูล">
 <!ENTITY resetPass.label              "ล้าง">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword.label         "Change Password">
+<!ENTITY manageAccount.label          "จัดการบัญชีผู้ใช้">
+<!ENTITY manageAccount.accesskey      "จ">
+<!ENTITY viewQuota.label              "ดูโควตา">
+<!ENTITY changePassword.label         "เปลี่ยนรหัสผ่าน">
 <!ENTITY mySyncKey.label              "ซิงก์คีย์ของฉัน">
 <!ENTITY resetSync.label              "ล้างซิงก์">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!ENTITY stopUsingAccount.label       "หยุดการใช้งานบัญชีผู้ใช้นี้">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncPrefsCaption.label       "เบราว์เซอร์ซิงก์">
 <!ENTITY syncComputerName.label       "ชื่อคอมพิวเตอร์:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncComputerName.accesskey   "ค">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY syncMy.label               "ผสานข้อมูล">
+<!ENTITY engine.bookmarks.label     "ที่คั่นหน้าเว็บ">
+<!ENTITY engine.bookmarks.accesskey "ค">
 <!ENTITY engine.tabs.label          "แท็บ">
 <!ENTITY engine.tabs.accesskey      "ท">
 <!ENTITY engine.history.label       "ประวัติ">
 <!ENTITY engine.history.accesskey   "ป">
 <!ENTITY engine.passwords.label     "รหัสผ่าน">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
-
+<!ENTITY engine.passwords.accesskey "ร">
+<!ENTITY engine.prefs.label         "ค่าปรับแต่ง">
+<!ENTITY engine.prefs.accesskey     "ต">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "ข้อกำหนดการให้บริการ">
