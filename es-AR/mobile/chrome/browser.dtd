@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "Cortar">
 <!ENTITY copy.label            "Copiar">
+<!ENTITY copyAll.label         "Copiar todo">
 <!ENTITY copylink.label        "Copiar dirección del enlace">
 <!ENTITY paste.label           "Pegar">
 <!ENTITY delete.label          "Borrar">
 <!ENTITY selectAll.label       "Seleccionar todo">
 <!ENTITY noSuggestions.label   "(Sin sugerencias)">
 <!ENTITY addToDictionary.label "Agregar al diccionario">
+<!ENTITY inputMethod.label     "Seleccionar método de ingreso">
 
 <!ENTITY allPagesHeader.label      "Todas las páginas">
 <!ENTITY bookmarksHeader.label     "Marcadores">

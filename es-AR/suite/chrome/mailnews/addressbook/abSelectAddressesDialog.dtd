@@ -54,7 +54,8 @@
 <!ENTITY lookIn.label                        "Buscar en:"> 
 <!ENTITY lookIn.accesskey                    "B"> 
 <!ENTITY for.label                           "para:"> 
-<!ENTITY for.accesskey                       "p"> 
+<!ENTITY for.accesskey                       "p">
+<!ENTITY for.placeholder                     "Nombre o correo electrónico">
 <!ENTITY addressMessageTo.label              "Redactar mensaje a:"> 
 
 <!-- Tooltips items -->  
