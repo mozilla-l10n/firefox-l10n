@@ -39,7 +39,7 @@
 <!ENTITY safeModeDialog.title "&brandShortName; โหมดปลอดภัย">
 <!ENTITY window.width "37em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; กำลังทำงานอยู่ในโหมดปปลอดภัย ซึ่งจะปิดการใช้งานค่าที่คุณตั้งเอง ชุดตกแต่งและส่วนขยายชั่วคราว">
+<!ENTITY safeModeDescription.label "&brandShortName; กำลังทำงานอยู่ในโหมดปลอดภัย ซึ่งจะปิดการใช้งานค่าที่คุณตั้งเอง ชุดตกแต่งและส่วนขยายชั่วคราว">
 <!ENTITY safeModeDescription2.label "คุณสามารถเปลี่ยนแปลงสิ่งเหล่านี้อย่างถาวรทั้งหมดหรือบางส่วน :">
 
 <!ENTITY disableAddons.label "ปิดใช้ส่วนเสริมทั้งหมด">
