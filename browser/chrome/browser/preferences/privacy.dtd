@@ -37,7 +37,7 @@
 <!ENTITY  historyHeader.custom.label       "ใช้ค่าตั้งเองกับประวัติการเข้าเว็บ">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; จะจำประวัติการท่องเว็บ การดาวน์โหลด การกรอกฟอร์มและการค้นหา รวมไปถึงคุ้กกี้จากเว็บไซต์ที่คุณไปเยี่ยมชมเอาไว้">
+<!ENTITY  rememberDescription.label      "&brandShortName; จะจำประวัติการท่องเว็บ การดาวน์โหลด การกรอกฟอร์มและการค้นหา รวมไปถึงคุกกี้จากเว็บไซต์ที่คุณไปเยี่ยมชมเอาไว้">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -45,7 +45,7 @@
 <!ENTITY  rememberActions.pre.label           "คุณอาจจะต้องการ ">
 <!ENTITY  rememberActions.clearHistory.label  "ล้างประวัติการท่องของคุณเมื่อเร็ว ๆ นี้">
 <!ENTITY  rememberActions.middle.label        "หรือ ">
-<!ENTITY  rememberActions.removeCookies.label "เอาคุ้กกี้ออกเอง">
+<!ENTITY  rememberActions.removeCookies.label "เอาคุกกี้ออกเอง">
 <!ENTITY  rememberActions.post.label          " ">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; จะใช้ค่าตั้งเดียวกับการท่องเว็บแบบส่วนตัวและจะไม่จำประวัติการท่องเว็บใด ๆ ของคุณ">
