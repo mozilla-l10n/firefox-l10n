@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "ไดเรกทอรี่โพรไฟล์">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ส่วนเสริมที่ถูกเปิดใช้งาน">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
 <!ENTITY aboutSupport.show.label "เปิดดูโฟลเดอร์">
 
@@ -30,6 +31,8 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsTitle "การตั้งค่าที่ถูกแก้ไข">
 <!ENTITY aboutSupport.modifiedPrefsName "ชื่อ">
 <!ENTITY aboutSupport.modifiedPrefsValue "ค่า">
+
+<!ENTITY aboutSupport.graphicsTitle "กราฟฟิค">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ประวัติการติดตั้ง">
 <!ENTITY aboutSupport.updateHistoryTitle "ประวัติการปรับรุ่น">
