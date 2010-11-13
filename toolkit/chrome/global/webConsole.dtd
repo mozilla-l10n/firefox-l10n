@@ -1,16 +1,16 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "ร้องขอ URL">
+<!ENTITY networkPanel.requestMethod               "ร้องขอเมธอด">
+<!ENTITY networkPanel.statusCode                  "สถานะของโค้ด">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "ร้องขอข้อมูลส่วนหัว">
+<!ENTITY networkPanel.requestCookie               "ส่งคุกกี้">
+<!ENTITY networkPanel.requestBody                 "ร้องขอเนื้อความ">
+<!ENTITY networkPanel.requestFormData             "ส่งข้อมูลฟอร์ม">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "ตอบสนองข้อมูลส่วนหัว">
+<!ENTITY networkPanel.responseBody                "ตอนสนองเนื้อความ">
+<!ENTITY networkPanel.responseBodyCached          "ข้อมูลแคช">
+<!ENTITY networkPanel.responseBodyUnknownType     "ไม่ทราบชนิดของเนื้อหา">
+<!ENTITY networkPanel.responseNoBody              "ไม่มีการตอบสนองเนื้อความ">
+<!ENTITY networkPanel.responseImage               "รูปภาพที่รับแล้ว">
+<!ENTITY networkPanel.responseImageCached         "รูปภาพที่แคช">
