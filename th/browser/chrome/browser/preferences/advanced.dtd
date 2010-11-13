@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey "อ">
 <!ENTITY useSmoothScrolling.label "ใช้การเลื่อนหน้าแบบลื่นไหล">
 <!ENTITY useSmoothScrolling.accesskey "ล">
+<!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อมีให้ใช้">
+<!ENTITY allowHWAccel.accesskey          "ร">
 <!ENTITY checkSpelling.label "ตรวจสอบตัวสะกดขณะพิมพ์">
 <!ENTITY checkSpelling.accesskey "ส">
 
@@ -38,18 +40,20 @@
 <!ENTITY connectionSettings.accesskey "ต">
 
 <!ENTITY offlineStorage.label "ที่เก็บข้อมูลออฟไลน์">
+
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
-<!ENTITY useCacheBefore.label "ใช้เนื้อที่เก็บข้อมูลชั่วคราวไม่เกิน">
-<!ENTITY useCacheBefore.accesskey "ช">
-<!ENTITY useCacheAfter.label "MB">
+<!ENTITY limitCacheSizeBefore.label      "จำกัดแคลไว้ที่">
+<!ENTITY limitCacheSizeBefore.accesskey  "จ">
+<!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label "ล้างเดี๋ยวนี้">
 <!ENTITY clearCacheNow.accesskey "ล">
+<!ENTITY overrideSmartCacheSize.label    "ใช้แทนการจัดการแคลอัตโนมัติ">
+<!ENTITY overrideSmartCacheSize.accesskey "ท">
 
 <!ENTITY updateTab.label "ปรับปรุง">
 
