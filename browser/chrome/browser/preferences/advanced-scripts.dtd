@@ -46,7 +46,4 @@
 <!ENTITY raiseLowerWindows.accesskey "ด">
 <!ENTITY disableContextMenus.label "ปิดการใช้งานคอนเทกซ์เมนู">
 <!ENTITY disableContextMenus.accesskey "ป">
-<!ENTITY hideStatusBar.label "ซ่อนแถบสถานะการทำงาน">
-<!ENTITY hideStatusBar.accesskey "ถ">
-<!ENTITY changeStatusBar.label "เปลี่ยนข้อความในแถบสถานะการทำงาน">
-<!ENTITY changeStatusBar.accesskey "ข">
+
