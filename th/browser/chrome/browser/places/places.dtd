@@ -95,6 +95,9 @@
 
 <!ENTITY search.label "ค้น :">
 <!ENTITY search.accesskey "ค">
+
+<!ENTITY search.in.label                           "ค้นหาใน:">
+
 <!ENTITY search.scopeFolder.label "โฟลเดอร์ที่ถูกเลือก">
 <!ENTITY search.scopeFolder.accesskey "ฟ">
 <!ENTITY search.scopeBookmarks.label "ที่คั่นหน้าเว็บ">
