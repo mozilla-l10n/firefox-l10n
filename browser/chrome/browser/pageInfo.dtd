@@ -99,6 +99,10 @@
 <!ENTITY permInstall "ติดตั้งส่วนขยายหรือชุดตกแต่ง">
 <!ENTITY permGeo "แจ้งสถานที่">
 
+<!ENTITY  permIndexedDB              "บำรุงรักษาการเก็บข้อมูลออฟไลน์">
+<!ENTITY  permClearStorage           "ล้างข้อมูล">
+<!ENTITY  permClearStorage.accesskey "ล">
+
 <!ENTITY securityTab "ความปลอดภัย">
 <!ENTITY securityTab.accesskey "ป">
 <!ENTITY securityHeader "ข้อมูลด้านความปลอดภัยสำหรับหน้านี้">
