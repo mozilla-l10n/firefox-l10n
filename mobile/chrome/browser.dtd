@@ -9,12 +9,14 @@
 <!ENTITY closetab.label "Chiudi scheda">
 <!ENTITY cut.label "Taglia">
 <!ENTITY copy.label "Copia">
+<!ENTITY copyAll.label "Copia tutto">
 <!ENTITY copylink.label "Copia indirizzo">
 <!ENTITY paste.label "Incolla">
 <!ENTITY delete.label "Elimina">
 <!ENTITY selectAll.label "Seleziona tutto">
 <!ENTITY noSuggestions.label "(nessun suggerimento)">
 <!ENTITY addToDictionary.label "Aggiungi al dizionario">
+<!ENTITY inputMethod.label "Seleziona metodo di input">
 <!ENTITY allPagesHeader.label "Tutte le pagine">
 <!ENTITY bookmarksHeader.label "Segnalibri">
 <!ENTITY historyHeader.label "Cronologia">
