@@ -16,28 +16,28 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "View Quota">
 <!ENTITY changePassword.label         "Change Password">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY mySyncKey.label              "ซิงก์คีย์ของฉัน">
+<!ENTITY resetSync.label              "ล้างซิงก์">
 <!ENTITY stopUsingAccount.label       "Stop Using This Account">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.label       "ชื่อคอมพิวเตอร์:">
 <!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.tabs.label          "แท็บ">
+<!ENTITY engine.tabs.accesskey      "ท">
 <!ENTITY engine.history.label       "ประวัติ">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.history.accesskey   "ป">
+<!ENTITY engine.passwords.label     "รหัสผ่าน">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Preferences">
 <!ENTITY engine.prefs.accesskey     "S">
 
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.tosLink.label        "ข้อกำหนดการให้บริการ">
 <!ENTITY prefs.ppLink.label         "นโยบายความเป็นส่วนตัว">
