@@ -1,5 +1,5 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
-<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label                   "ตั้งค่า">
 <!ENTITY testpilot.settings.dataSubmission.label    "การส่งข้อมูล">
 <!ENTITY testpilot.settings.notifications.label     "การแจ้งเตือน">
 <!ENTITY testpilot.settings.notifyWhen.label        "เตือนฉันเมื่อ…">

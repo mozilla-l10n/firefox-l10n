@@ -25,7 +25,8 @@
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "มีการอธิบายวิธีการใช้งานข้อมูลส่วนตัวและข้อแนะนำที่ส่งมาของคุณมายัง &vendorShortName; ผ่าน &brandShortName; ไว้ที่ ">
-<!ENTITY rights2.intro-point3b นโยบายความเป็นส่วนตัว "&brandShortName;">
+<!ENTITY rights2.intro-point3b "นโยบายความเป็นส่วนตัว &brandShortName;">
+<!ENTITY rights.intro-point3c "">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "นโยบายความเป็นส่วนตัวใด ๆ ของผลิตภัณฑ์นี้ที่สามารถนำไปปรับใช้ได้ ควรถูกลงรายการไว้ที่นี่">
@@ -40,7 +41,7 @@
 <!ENTITY rights.intro-point4b-unbranded "บริการเว็บ">
 <!ENTITY rights.intro-point4c-unbranded "">
 
-<!ENTITY rights2.webservices-header บริการข้อมูลผ่านเว็บ "&brandFullName;">
+<!ENTITY rights2.webservices-header "บริการข้อมูลผ่านเว็บ &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -70,6 +71,9 @@
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "ภาพรวมของบริการเว็บที่ได้รวมเข้าในผลิตภัณฑ์ รวมไปถึงวิธีใช้การยกเลิกใช้งานบริการเหล่านั้น ควรนำมารวมไว้ที่นี่">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "ข้อกำหนดการของบริการใดๆ ที่เข้ากันควรจะแสดงไว้ที่นี่">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights2.webservices-term1 "&vendorShortName; ตลอดจนผู้ร่วมสมทบ ผู้อนุญาตให้ใช้สิทธิ และภาคีได้ร่วมทำงานเพื่อสร้างฐานข้อมูลเว็บไซต์หลอกลวงและมัลแวร์ที่มีความเที่ยงตรงและทันสมัยที่สุด อย่างไรก็ตาม กลุ่มผู้ร่วมทำงานไม่สามารถรับประกันได้ว่าข้อมูลเหล่านี้จะครอบคลุมและปราศจากความผิดพลาด เว็บไซต์ที่มีความเสี่ยงบางเว็บอาจจะไม่ถูกบ่งชี้ว่าอันตรายและบางเว็บไซต์ที่ปลอดภัยอาจจะถูกบ่งชี้ว่าอันตรายได้  ">
