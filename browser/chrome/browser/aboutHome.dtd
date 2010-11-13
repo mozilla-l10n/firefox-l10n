@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "เริ่มใช้ <span>&brandShortName;</span>">
+<!ENTITY abouthome.brandStart "หน้าเริ่มต้น <span>&brandShortName;</span>">
 
 <!ENTITY abouthome.searchEngineButton.label "ค้นหา">
 
