@@ -109,5 +109,6 @@
 <!ENTITY pageactions.search.addNew   "Ajouter un moteur de recherche">
 
 <!ENTITY selectHelper.emptytext      "Filtrer la liste">
+<!ENTITY inputMethod.label           "Changer de mode de saisie">
 
 <!ENTITY appMenu.siteOptions         "Options du site">
