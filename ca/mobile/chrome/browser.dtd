@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "Retalla">
 <!ENTITY copy.label            "Copia">
+<!ENTITY copyAll.label         "Copia-ho tot">
 <!ENTITY copylink.label        "Copia l'enllaç">
 <!ENTITY paste.label           "Enganxa">
 <!ENTITY delete.label          "Suprimeix">
 <!ENTITY selectAll.label       "Selecciona-ho tot">
 <!ENTITY noSuggestions.label   "(Cap suggeriment)">
 <!ENTITY addToDictionary.label "Afegeix al diccionari">
+<!ENTITY inputMethod.label     "Selecció del mètode d'entrada">
 
 <!ENTITY allPagesHeader.label      "Totes les pàgines">
 <!ENTITY bookmarksHeader.label     "Adreces d'interès">
@@ -109,3 +111,8 @@
 <!ENTITY pageactions.reset           "Neteja les preferències del lloc">
 <!ENTITY pageactions.findInPage      "Cerca a la pàgina">
 <!ENTITY pageactions.search.addNew   "Afegeix el motor de cerca">
+
+<!ENTITY selectHelper.emptytext      "Llista de filtratge">
+
+<!ENTITY appMenu.siteOptions         "Opcions del lloc">
+
