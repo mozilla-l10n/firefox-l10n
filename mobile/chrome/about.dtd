@@ -14,6 +14,5 @@
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Contribuintes. Todos os direitos reservados. (">
 <!ENTITY aboutPage.licenseLink                  "Informação de licenciamento">
-<!ENTITY aboutPage.copyrightInfo2               ").">
+<!ENTITY aboutPage.licenseLinkSuffix            ").">
