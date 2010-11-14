@@ -93,11 +93,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "ਪੁਸ਼ਟੀ">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; ਹੁਣ ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਸਭ ਬਰਾਊਜ਼ਰ ਡਾਟੇ ਨੂੰ ਤੁਹਾਡੇ ਸਿੰਕ ਅਕਾਊਂਟ ਨਾਲ ਮਿਲਾਏਗਾ।">
-<!ENTITY confirm.client.label         "ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਭ &brandShortName; ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ, ਜਿਸ ਵਿੱਚ ਅੱਗੇ ਦਿੱਤਾ ਕੁਝ ਹੈ:">
+<!ENTITY confirm.client2.label         "ਚੇਤਾਵਨੀ: ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਅੱਗੇ ਦਿੱਤਾ &brandShortName; ਡਾਟਾ ਹਟਾਇਆ ਜਾਵੇਗਾ:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; ਫੇਰ ਤੁਹਾਡੇ &syncBrand.fullName.label; ਡਾਟੇ ਨੂੰ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਕਾਪੀ ਕਰੇਗਾ।">
-<!ENTITY confirm.client.warning.label "ਸਾਵਧਾਨ: ਇਸ ਨਾਲ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਭ &brandShortName; ਡਾਟਾ ਬਦਲਿਆ ਜਾਵੇਗਾ!">
-<!ENTITY confirm.server.label         "ਅੱਗੇ ਦਿੱਤੇ ਜੰਤਰ ਉੱਤੇ ਤੁਹਾਡਾ ਲੋਕਲ ਡਾਟਾ ਲਿਖਿਆ ਜਾਵੇਗਾ:">
-<!ENTITY confirm.server.warning.label "ਸਾਵਧਾਨ: ਤੁਹਾਡਾ ਲੋਕਲ ਡਾਟਾ ਇਹ ਜੰਤਰਾਂ ਉੱਤੇ ਸਭ l &brandShortName; ਡਾਟੇ ਨੂੰ ਬਦਲ ਦੇਵੇਗਾ!">
+<!ENTITY confirm.server2.label         "ਚੇਤਾਵਨੀ: ਅੱਗੇ ਦਿੱਤੇ ਜੰਤਰਾਂ ਉੱਤੇ ਤੁਹਾਡਾ ਲੋਕਲ ਡਾਟਾ ਲਿਖਿਆ ਜਾਵੇਗਾ:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "ਸੈਟਅੱਪ ਪੂਰਾ ਹੋਇਆ">
