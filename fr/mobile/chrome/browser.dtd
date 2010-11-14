@@ -17,8 +17,9 @@
 <!ENTITY paste.label           "Coller">
 <!ENTITY delete.label          "Supprimer">
 <!ENTITY selectAll.label       "Tout sélectionner">
-<!ENTITY noSuggestions.label   "(Pas de suggestion)">
+<!ENTITY noSuggestions.label   "(Aucune suggestion)">
 <!ENTITY addToDictionary.label "Ajouter au dictionnaire">
+<!ENTITY inputMethod.label     "Changer de mode de saisie">
 
 <!ENTITY allPagesHeader.label      "Toutes les pages">
 <!ENTITY bookmarksHeader.label     "Marque-pages">
@@ -109,6 +110,5 @@
 <!ENTITY pageactions.search.addNew   "Ajouter un moteur de recherche">
 
 <!ENTITY selectHelper.emptytext      "Filtrer la liste">
-<!ENTITY inputMethod.label           "Changer de mode de saisie">
 
 <!ENTITY appMenu.siteOptions         "Options du site">
