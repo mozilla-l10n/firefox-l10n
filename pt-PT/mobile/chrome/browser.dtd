@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "Cortar">
 <!ENTITY copy.label            "Copiar">
+<!ENTITY copyAll.label         "Copy tudo">
 <!ENTITY copylink.label        "Copiar localização da ligação">
 <!ENTITY paste.label           "Colar">
 <!ENTITY delete.label          "Eliminar">
 <!ENTITY selectAll.label       "Seleccionar tudo">
 <!ENTITY noSuggestions.label   "(Nenhuma sugestão)">
 <!ENTITY addToDictionary.label "Adicionar ao dicionário">
+<!ENTITY inputMethod.label     "Seleccione o método de introdução">
 
 <!ENTITY allPagesHeader.label      "Todas as páginas">
 <!ENTITY bookmarksHeader.label     "Marcadores">
@@ -87,7 +89,7 @@
 <!ENTITY consoleErrLine.label      "Linha:">
 <!ENTITY consoleErrColumn.label    "Coluna:">
 
-<!ENTITY contextOpenInNewTab.label "Abrir ligação em novo separador">
+<!ENTITY contextOpenInNewTab.label    "Abrir ligação em novo separador">
 <!ENTITY contextSaveLink.label        "Guardar ligação">
 <!ENTITY contextSaveImage.label       "Guardar imagem">
 <!ENTITY contextShareLink.label       "Partilhar ligação">
@@ -106,3 +108,7 @@
 <!ENTITY pageactions.reset           "Limpar preferências do sítio">
 <!ENTITY pageactions.findInPage      "Procurar na página">
 <!ENTITY pageactions.search.addNew   "Adicionar motor de pesquisa">
+
+<!ENTITY selectHelper.emptytext      "Lista de filtros">
+
+<!ENTITY appMenu.siteOptions         "Opções do sítio">
