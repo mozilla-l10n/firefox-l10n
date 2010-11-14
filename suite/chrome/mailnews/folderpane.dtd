@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -41,4 +42,4 @@
 <!ENTITY folderLocationToolbarItem.title "Maplocatie">
 <!ENTITY mailViewsToolbarItem.title "Berichtenweergaven">
 <!ENTITY searchToolbarItem.title "Zoeken">
-<!ENTITY searchSubjectOrAddress.placeholder "Zoek op onderwerp of geadresseerde">
+<!ENTITY searchSubjectOrAddress.placeholder "Onderwerp of adres zoeken">

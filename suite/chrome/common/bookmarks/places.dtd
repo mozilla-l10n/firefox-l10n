@@ -86,7 +86,7 @@
 <!ENTITY search.label                              "Zoeken:">
 <!ENTITY search.accesskey                          "Z">
 <!ENTITY search.scopeFolder.label                  "Geselecteerde map">
-<!ENTITY search.scopeFolder.accesskey              "p">
+<!ENTITY search.scopeFolder.accesskey              "">
 <!ENTITY search.scopeBookmarks.label               "Bladwijzers">
 <!ENTITY search.scopeBookmarks.accesskey           "B">
 <!ENTITY saveSearch.label                          "Opslaan">
@@ -95,14 +95,14 @@
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY backButton.tooltip  "Terug gaan">
-<!ENTITY forwardButton.tooltip  "Verder gaan">
+<!ENTITY forwardButton.tooltip  "Vooruit gaan">
 
 <!ENTITY detailsPane.more.label "Meer">
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Minder">
-<!ENTITY detailsPane.less.accesskey "i">
-<!ENTITY detailsPane.selectAnItemText.description "Selecteer een item om de eigenschappen ervan te bekijken en te wijzigen">
+<!ENTITY detailsPane.less.accesskey "M">
+<!ENTITY detailsPane.selectAnItemText.description "Selecteer een item om de eigenschappen ervan te bekijken en te bewerken">
 
 <!ENTITY editBookmark.done.label "Klaar">
 <!ENTITY editBookmark.cancel.label "Annuleren">
-<!ENTITY editBookmark.removeBookmark.accessKey "V">
+<!ENTITY editBookmark.removeBookmark.accessKey "v">

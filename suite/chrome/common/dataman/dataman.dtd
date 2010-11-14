@@ -39,15 +39,15 @@
 
 <!ENTITY selectAll.key "a">
 
-<!ENTITY domain.search.placeholder "Doorzoek domeinen">
-<!ENTITY domain.search.key "z">
+<!ENTITY domain.search.placeholder "Domeinen doorzoeken">
+<!ENTITY domain.search.key "f">
 
 <!ENTITY domain.tree.domain.label "Domein">
 
-<!ENTITY domain.ctx.forgetdomain.label "Alle opgeslagen gegevens van dit domein wissen">
-<!ENTITY domain.ctx.forgetdomain.accesskey "w">
-<!ENTITY domain.ctx.forgetglobal.label "Alle opgeslagen gegevens wissen">
-<!ENTITY domain.ctx.forgetglobal.accesskey "A">
+<!ENTITY domain.ctx.forgetdomain.label "Dit domein vergeten">
+<!ENTITY domain.ctx.forgetdomain.accesskey "r">
+<!ENTITY domain.ctx.forgetglobal.label "Algemene gegevens vergeten">
+<!ENTITY domain.ctx.forgetglobal.accesskey "r">
 
 <!ENTITY data.search.key "k">
 
@@ -56,10 +56,10 @@
 <!ENTITY tab.preferences.label "Voorkeuren">
 <!ENTITY tab.passwords.label "Wachtwoorden">
 <!ENTITY tab.formdata.label "Formuliergegevens">
-<!ENTITY tab.forget.label "Wissen">
+<!ENTITY tab.forget.label "Vergeten">
 
 <!-- cookies -->
-<!ENTITY cookies.description "Dit domein heeft de volgende cookies opgeslagen:">
+<!ENTITY cookies.description "Dit domein heeft de volgende cookies op uw computer opgeslagen:">
 
 <!ENTITY cookies.tree.host.label "Website">
 <!ENTITY cookies.tree.name.label "Cookienaam">
@@ -91,14 +91,14 @@
 <!ENTITY perm.AskAlways "Altijd vragen">
 <!ENTITY perm.NeverSave "Nooit opslaan">
 <!ENTITY perm.Allow "Toestaan">
-<!ENTITY perm.AllowSession "Toestaan voor de duur van deze sessie">
+<!ENTITY perm.AllowSession "Toestaan voor sessie">
 <!ENTITY perm.Block "Blokkeren">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Inhoudsvoorkeuren zijn een manier voor &brandShortName; om de instellingen voor een specifieke website op te slaan.">
 
 <!ENTITY prefs.tree.host.label "Website">
-<!ENTITY prefs.tree.name.label "Instelling">
+<!ENTITY prefs.tree.name.label "Voorkeurnaam">
 <!ENTITY prefs.tree.value.label "Waarde">
 
 <!ENTITY prefs.ctx.remove.label "Verwijderen">
@@ -127,10 +127,10 @@
 <!ENTITY pwd.button.remove.accesskey "V">
 
 <!-- form data -->
-<!ENTITY fdata.search.placeholder "Doorzoek opgeslagen gegevens">
+<!ENTITY fdata.search.placeholder "Veldgegevens doorzoeken">
 
 <!ENTITY fdata.tree.fieldname.label "Veldnaam">
-<!ENTITY fdata.tree.value.label "Opgeslagen waarde">
+<!ENTITY fdata.tree.value.label "Ingevoerde waarde">
 <!ENTITY fdata.tree.usecount.label "Aantal malen gebruikt">
 <!ENTITY fdata.tree.firstused.label "Eerste gebruik">
 <!ENTITY fdata.tree.lastused.label "Laatste gebruik">
