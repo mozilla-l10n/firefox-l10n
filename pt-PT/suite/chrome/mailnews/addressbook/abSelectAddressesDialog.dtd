@@ -54,7 +54,8 @@
 <!ENTITY lookIn.label                        "Procurar em:"> 
 <!ENTITY lookIn.accesskey                    "r"> 
 <!ENTITY for.label                           "para:"> 
-<!ENTITY for.accesskey                       "a"> 
+<!ENTITY for.accesskey                       "a">
+<!ENTITY for.placeholder                     "Nome ou endereço de correio"> 
 <!ENTITY addressMessageTo.label              "Endereçar mensagem para:"> 
 
 <!-- Tooltips items -->  
