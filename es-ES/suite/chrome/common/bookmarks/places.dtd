@@ -70,7 +70,7 @@
 <!ENTITY col.dateadded.label "Añadido">
 <!ENTITY col.lastmodified.label "Última modificación">
 <!ENTITY search.label "Buscar:">
-<!ENTITY search.accesskey "B">
+<!ENTITY search.placeholder "Buscar marcadores">
 <!ENTITY search.scopeFolder.label "Carpeta seleccionada">
 <!ENTITY search.scopeFolder.accesskey "C">
 <!ENTITY search.scopeBookmarks.label "Marcadores">
