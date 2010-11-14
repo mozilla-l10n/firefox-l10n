@@ -12,6 +12,7 @@
 
 <!ENTITY cut.label             "Couper">
 <!ENTITY copy.label            "Copier">
+<!ENTITY copyAll.label         "Tout copier">
 <!ENTITY copylink.label        "Copier l'adresse du lien">
 <!ENTITY paste.label           "Coller">
 <!ENTITY delete.label          "Supprimer">
