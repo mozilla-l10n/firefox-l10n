@@ -92,11 +92,9 @@
 
 <!ENTITY setup.optionsConfirmPage.title "Berretsi">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label;(e)k ordenagailu honetako nabigatzailearen datu guztiak batuko ditu orain zure Sync kontuarekin.">
-<!ENTITY confirm.client.label         "Ordenagailu honetako &brandShortName;(r)en datu guztiak ezabatu egingo dira, ondorengoak barne:">
+<!ENTITY confirm.client2.label         "Abisua: &brandShortName;(r)en datu hauek ezabatuko dira ordenagailu honetan:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName;(e)k orduan zure &syncBrand.fullName.label; datuak ordenagailu honetara kopiatuko ditu.">
-<!ENTITY confirm.client.warning.label "ABISUA: Honen eraginez ordenagailu honetako &brandShortName;(r)en datu guztiak ordeztuko dira!">
-<!ENTITY confirm.server.label         "Ondorengo gailuak gainidatziko dira zure datu lokalekin:">
-<!ENTITY confirm.server.warning.label "ABISUA: Zure datu lokalek &brandShortName;(r)en datu guztiak ordeztuko dituzte gailu horietan!">
+<!ENTITY confirm.server2.label         "Abisua: Ondorengo gailuak gainidatziko dira zure datu lokalekin:">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Konfigurazioa osatuta">

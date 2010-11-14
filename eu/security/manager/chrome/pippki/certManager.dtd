@@ -132,9 +132,9 @@
 <!ENTITY certmgr.addException.label           "Gehitu salbuespena…">
 <!ENTITY certmgr.addException.accesskey       "l">
 
-<!ENTITY exceptionMgr.title                   "Gehitu segurtasun salbuepena">
-<!ENTITY exceptionMgr.exceptionButton         "Berretsi segurtasun salbuespena">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "B">
+<!ENTITY exceptionMgr.title                   "Gehitu segurtasun-salbuespena">
+<!ENTITY exceptionMgr.exceptionButton.label   "Berretsi segurtasun-salbuespena">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "B">
 <!ENTITY exceptionMgr.supplementalWarning     "Banku legitimo, denda eta beste gune publikoek ez dizute hau egiteko eskatuko.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Zerbitzaria">
 <!ENTITY exceptionMgr.certlocation.url        "Kokapena:">

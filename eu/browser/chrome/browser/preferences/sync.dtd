@@ -13,7 +13,7 @@
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label          "Kudeatu kontua">
-<!ENTITY manageAccount.accesskey      "k">
+<!ENTITY manageAccount.accesskey      "K">
 <!ENTITY viewQuota.label              "Ikusi kuota">
 <!ENTITY changePassword.label         "Aldatu pasahitza">
 <!ENTITY mySyncKey.label              "Nire Sync gakoa">

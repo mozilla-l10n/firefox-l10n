@@ -186,3 +186,8 @@ gehigarri on eta ezagunenetako batzuk agertuko dira proba ditzazun.">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Errorea gertatu da bertsio-oharrak kargatzean.">
 
 <!ENTITY addon.createdBy.label                "Egilea: ">
+
+<!ENTITY eula.title                           "Azken erabiltzailearen lizentzia-kontratua">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Onartu eta instalatu…">

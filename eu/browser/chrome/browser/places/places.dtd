@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Bilatu:">
 <!ENTITY search.accesskey                          "B">
+
+<!ENTITY search.in.label                           "Bilatu hemen:">
 <!ENTITY search.scopeFolder.label                  "Aukeratu karpeta">
 <!ENTITY search.scopeFolder.accesskey              "k">
 <!ENTITY search.scopeBookmarks.label               "Laster-markak">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "u">
 <!ENTITY detailsPane.noPreviewAvailable.label "Aurrebista">
 <!ENTITY detailsPane.selectAnItemText.description "Hautatu elementu bat bere propietateak ikusi eta editatzeko">
+
+<!ENTITY find.label               "Bilatu:">
+<!ENTITY find.accesskey           "B">
+<!ENTITY view.label               "Ikusi">
+<!ENTITY view.accesskey           "s">
+<!ENTITY byDate.label             "Dataren arabera">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "Gunearen arabera">
+<!ENTITY bySite.accesskey         "G">
+<!ENTITY byMostVisited.label      "Gehien bisitatuaren arabera">
+<!ENTITY byMostVisited.accesskey  "b">
+<!ENTITY byLastVisited.label      "Azken bisitaren arabera">
+<!ENTITY byLastVisited.accesskey  "A">
+<!ENTITY byDayAndSite.label       "Data eta gunearen arabera">
+<!ENTITY byDayAndSite.accesskey   "t">
