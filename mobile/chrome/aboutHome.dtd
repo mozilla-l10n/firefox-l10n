@@ -1,8 +1,8 @@
-<!ENTITY aboutHome.header "<span>&brandShortName; </span><span id='header-suffix'>Начало</span>">
-<!ENTITY aboutHome.recentTabs "Ваши вкладки открытые в прошлый раз">
-<!ENTITY aboutHome.remoteTabs "Вкладки с других ваших компьютеров">
+<!ENTITY aboutHome.header "<span id='header-suffix'>Запуск </span><span>&brandShortName;</span>">
+<!ENTITY aboutHome.recentTabs "Вкладки открытые в прошлый раз">
+<!ENTITY aboutHome.remoteTabs "Вкладки с других компьютеров">
 <!ENTITY aboutHome.recommendedAddons2 "Дополнения для вашего &brandShortName;">
-<!ENTITY aboutHome.giveFeedback "Дать отзыв">
+<!ENTITY aboutHome.giveFeedback "Отправить отзыв">
 <!ENTITY aboutHome.openAllTabs "Открыть всё во вкладках">
 <!ENTITY aboutHome.noTabs "Нет вкладок с прошлого раза">
 <!ENTITY aboutHome.noAddons "Нет рекомендуемых дополнений">
