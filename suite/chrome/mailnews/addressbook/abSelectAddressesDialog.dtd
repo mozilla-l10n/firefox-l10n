@@ -16,6 +16,7 @@
 <!ENTITY lookIn.accesskey "u">
 <!ENTITY for.label "por:">
 <!ENTITY for.accesskey "o">
+<!ENTITY for.placeholder "Nombre o dirección de correo">
 <!ENTITY addressMessageTo.label "Mandar mensaje a:">
 <!ENTITY addressPickerNewButton.tooltip "Crear una nueva tarjeta en la libreta de direcciones">
 <!ENTITY addressPickerEditButton.tooltip "Editar la tarjeta seleccionada">
