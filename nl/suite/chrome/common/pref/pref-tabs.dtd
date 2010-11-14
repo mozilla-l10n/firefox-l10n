@@ -7,7 +7,7 @@
 <!ENTITY warnOnClose.label "Mij waarschuwen bij het sluiten van een venster met meerdere tabbladen">
 <!ENTITY warnOnClose.accesskey "n">
 <!ENTITY relatedAfterCurrent.label "Gerelateerde tabbladen openen na het huidige tabblad">
-<!ENTITY relatedAfterCurrent.accesskey "O">
+<!ENTITY relatedAfterCurrent.accesskey "o">
 <!ENTITY loadGroup.label "Bij het openen van een bladwijzergroep">
 <!ENTITY loadGroupAppend.label "Tabbladen toevoegen">
 <!ENTITY loadGroupAppend.accesskey "a">

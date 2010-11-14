@@ -5,7 +5,7 @@
 <!ENTITY siteIcons.label                        "Websitepictogrammen">
 <!ENTITY useSiteIcons.label                     "Websitepictogrammen tonen">
 <!ENTITY useSiteIcons.accesskey                 "W">
-<!ENTITY useFavIcons.label                      "Actief zoeken naar websitepictogrammen als de pagina er niet een definieert">
+<!ENTITY useFavIcons.label                      "Actief zoeken naar websitepictogrammen als de pagina er geen definieert">
 <!ENTITY useFavIcons.accesskey                  "A">
 <!ENTITY enableAutomaticImageResizing.label     "Formaat van grote afbeeldingen aanpassen aan browservenster">
 <!ENTITY enableAutomaticImageResizing.accesskey "r">

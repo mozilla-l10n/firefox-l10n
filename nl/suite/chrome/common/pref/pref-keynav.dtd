@@ -19,6 +19,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Alleen koppelingen">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "o">
 
-<!ENTITY findAsYouTypeFindbarEnable.label "Toon de zoekwerkbalk tijdens ‘Zoeken terwijl u typt’">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "T">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Als u ‘Zoeken terwijl u typt’ gebruikt zonder de zoekwerkbalk kunt u geen diacritische tekens gebruiken.">
+<!ENTITY findAsYouTypeFindbarEnable.label "De zoekbalk tonen tijdens ‘Zoeken terwijl u typt’">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "D">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Noot: bij ‘Zoeken terwijl u typt’ zonder de zoekbalk zijn diakritische tekens niet mogelijk.">

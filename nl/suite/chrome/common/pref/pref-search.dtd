@@ -9,7 +9,7 @@
 
 <!ENTITY searchResults.label              "Zoekresultaten">
 
-<!ENTITY openInTab.label                  "Zoekresultaten openen in een nieuw tabblad">
-<!ENTITY openInTab.accesskey              "n">
+<!ENTITY openInTab.label                  "Nieuwe tabbladen openen voor zoekresultaten in de zijbalk">
+<!ENTITY openInTab.accesskey              "N">
 <!ENTITY openSidebarSearchPanel.label     "Het tabblad Zoeken openen in de zijbalk bij het aanroepen van een zoekopdracht">
 <!ENTITY openSidebarSearchPanel.accesskey "o">

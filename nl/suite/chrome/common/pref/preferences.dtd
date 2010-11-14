@@ -11,7 +11,7 @@
 <!ENTITY applications.label "Hulptoepassingen">
 <!ENTITY locationBar.label "Locatiebalk">
 <!ENTITY tabWindows.label "Navigeren met tabbladen">
-<!ENTITY links.label "Werking van Koppelingen">
+<!ENTITY links.label "Gedrag van koppelingen">
 <!ENTITY offline.label "Offline">
 <!ENTITY security.label "Privacy &amp; beveiliging">
 <!ENTITY cookies.label "Cookies">

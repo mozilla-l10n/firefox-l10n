@@ -19,8 +19,8 @@
 <!ENTITY alwaysAsk.accesskey            "A">
 
 <!ENTITY downloadHistory.label          "Downloadgeschiedenis">
-<!ENTITY removeEntries.label            "Gedownloade items verwijderen">
-<!ENTITY removeEntries.accesskey        "v	">
+<!ENTITY removeEntries.label            "Downloadvermeldingen verwijderen">
+<!ENTITY removeEntries.accesskey        "r">
 <!ENTITY whenCompleted.label            "Als ze zijn voltooid">
 <!ENTITY whenQuittingApp.label          "Bij het afsluiten van &brandShortName;">
 <!ENTITY neverRemove.label              "Nooit">
