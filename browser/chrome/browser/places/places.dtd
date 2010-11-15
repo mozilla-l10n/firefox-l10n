@@ -43,7 +43,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Ղեկավարում">
 <!ENTITY organize.accesskey    "Ղ">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.tooltip      " Կարգավորեք ձեր էջանիշները:">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Փակել">
@@ -134,7 +134,7 @@
 <!ENTITY search.label                              "Փնտրել.">
 <!ENTITY search.accesskey                          "S">
 
-<!ENTITY search.in.label                           "Search in:">
+<!ENTITY search.in.label                           "Փնտրել՝ ">
 <!ENTITY search.scopeFolder.label                  "Նշված պնակ">
 <!ENTITY search.scopeFolder.accesskey              "Ն">
 <!ENTITY search.scopeBookmarks.label               "Էջանիշեր">
@@ -165,17 +165,17 @@
 <!ENTITY detailsPane.noPreviewAvailable.label "Դիտել">
 <!ENTITY detailsPane.selectAnItemText.description "Ընտրեք բաղադրիրը դիտելու և խմբագրելու նրա կարգավորումները">
 
-<!ENTITY find.label               "Search:">
-<!ENTITY find.accesskey           "S">
-<!ENTITY view.label               "View">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "By Date">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "By Site">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "By Most Visited">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "By Last Visited">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "By Date and Site">
-<!ENTITY byDayAndSite.accesskey   "t">
+<!ENTITY find.label               "Փնտրել.">
+<!ENTITY find.accesskey           "Փ">
+<!ENTITY view.label               "Տեսք">
+<!ENTITY view.accesskey           "Տ">
+<!ENTITY byDate.label             "Ըստ ամսաթվի">
+<!ENTITY byDate.accesskey         "Ը">
+<!ENTITY bySite.label             "Ըստ հանգույցի">
+<!ENTITY bySite.accesskey         "Ը">
+<!ENTITY byMostVisited.label      "Ըստ առավել այցերի">
+<!ENTITY byMostVisited.accesskey  "Ը">
+<!ENTITY byLastVisited.label      "Ըստ վերջին այցի">
+<!ENTITY byLastVisited.accesskey  "Ը">
+<!ENTITY byDayAndSite.label       "Ըստ ամսաթվի և հանգույցի">
+<!ENTITY byDayAndSite.accesskey   "Ը">

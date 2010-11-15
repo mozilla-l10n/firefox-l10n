@@ -170,7 +170,7 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Էջանիշեր">
 
 <!-- Toolbar items --> 
-<!ENTITY appMenuButton.label          "Menu">
+<!ENTITY appMenuButton.label          "Մենյու">
 <!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
 <!ENTITY homeButton.label             "Տուն">
 
@@ -231,8 +231,8 @@ can reach it easily. -->
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspect">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectButton.label          "Հսկել">
+<!ENTITY inspectButton.accesskey      "Հ">
 <!ENTITY inspectNextButton.label      "Հաջորդ">
 <!ENTITY inspectNextButton.accesskey  "Հ">
 <!ENTITY inspectPreviousButton.label  "Նախորդ">
@@ -301,8 +301,8 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Հարմարեցնել…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY viewTabsOnTop.label            "Tabs on Top">
-<!ENTITY viewTabsOnTop.accesskey        "T">
+<!ENTITY viewTabsOnTop.label            "Ներդիրները վերևում">
+<!ENTITY viewTabsOnTop.accesskey        "Ն">
 
 <!ENTITY historyMenu.label "Պատմություն">
 <!ENTITY historyMenu.accesskey "s">
@@ -498,7 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullScreenButton.tooltip       "Ցուցադրել պատուհանը որջ էկրանով">
 
 <!ENTITY zoomOutButton.tooltip          "Մանրացնել">
-<!ENTITY zoomInButton.tooltip           "Zoom in">
+<!ENTITY zoomInButton.tooltip           "Խոշորացնել">
 <!ENTITY zoomControls.label             "Խոշորացման ղեկավարում">
 
 <!ENTITY quitApplicationCmdWin.label       "Ավարտել"> 
@@ -578,9 +578,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Browser tabs">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
+<!ENTITY syncTabsMenu.label     "Ներդիրներ այլ համակարգիչներից">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Սինք">
 
 <!ENTITY syncSetup.label              "Set Up &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "S">

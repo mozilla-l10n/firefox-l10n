@@ -38,16 +38,16 @@
 
 ******* END LICENSE BLOCK ********** -->
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
-<!ENTITY tabs.otherComputers.label               "Tabs From Other Computers">
+<!ENTITY tabs.otherComputers.label               "Ներդիրներ այլ համակարգիչներից">
 
 <!ENTITY tabs.searchText.label                   "Type here to find tabs…">
 
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
-<!ENTITY tabs.context.openTab.label                   "Open This Tab">
-<!ENTITY tabs.context.openTab.accesskey               "O">
-<!ENTITY tabs.context.openMultipleTabs.label          "Open Selected Tabs">
-<!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
+<!ENTITY tabs.context.openTab.label                   "Բացեք հետևյալ ներդիրը">
+<!ENTITY tabs.context.openTab.accesskey               "Բ">
+<!ENTITY tabs.context.openMultipleTabs.label          "Բացիր ընտրված ներդիրները:">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "Բ">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Bookmark This Tab…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "Bookmark Selected Tabs…">

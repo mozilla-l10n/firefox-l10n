@@ -131,13 +131,11 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Հաստատել">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client.label         "&brandShortName; -ի ողջ տվյալները կջնջվեն այս համակարգչից, այդ թվում նաև հետևյալը՝">
+<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
 <!ENTITY confirm.client.moreinfo.label "Հետո &brandShortName;-ը կկրկնակի ձեր &syncBrand.fullName.label; տվյալները այս համակարգչում:">
-<!ENTITY confirm.client.warning.label "ԶԳՈՒՇԱՑՈՒՄ՝ Սա կհանգեցնի այս համակարգչում &brandShortName;-ի ողջ տվյալների փոխարինման!">
-<!ENTITY confirm.server.label         "Հետևյալ սարքերը կփոխարինվեն ձեր տեղական տվյալներով՝">
-<!ENTITY confirm.server.warning.label "ԶԳՈՒՇԱՑՈՒՄ՝ Ձեր տեղական տվյալները կփոխարինեն այս սարքերում &brandShortName;-ի ողջ տվյալներին:">
+<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Տեղադրումը ավարտված է">
 <!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY continueUsing.label "Հիմա դուք կարող եք շարունակել օգտվել &brandShortName;-ից:">
