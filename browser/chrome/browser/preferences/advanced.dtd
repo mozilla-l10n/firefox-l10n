@@ -102,13 +102,13 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY allowHWAccel.accesskey "h">
-<!ENTITY limitCacheSizeAfter.label "MB of space">
-<!ENTITY enableAddonsUpdate2.label "Add-ons">
+<!ENTITY limitCacheSizeAfter.label "MB இடைவெளி"> 
+<!ENTITY enableAddonsUpdate2.label "செருகல்கள்">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
 <!ENTITY enableAddonsUpdate2.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label "Override automatic cache management">
-<!ENTITY submitCrashes.label "Submit crash reports">
-<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
+<!ENTITY submitCrashes.label "முறிவடைதலுக்கான அறிக்கைகளை சமர்ப்பிக்குக">
+<!ENTITY allowHWAccel.label "கிடைக்கும் போது வன்பொருள் ஆர்முடுகலைப் பயன்படுத்துக">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY submitCrashes.accesskey "S">
-<!ENTITY limitCacheSizeBefore.label "Limit cache to">
+<!ENTITY limitCacheSizeBefore.label "இக்கு இடைமாற்று நினைவகத்தை வரையறுக்க">

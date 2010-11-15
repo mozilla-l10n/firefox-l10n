@@ -5,5 +5,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.fullName.label "Firefox ஒத்திசைவு">
+<!ENTITY syncBrand.shortName.label "ஒத்திசைவு">

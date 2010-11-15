@@ -105,6 +105,6 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY permIndexedDB "Maintain Offline Storage">
-<!ENTITY permClearStorage "Clear Storage">
+<!ENTITY permIndexedDB "இணைப்பில்லா நிலைச் சேமிப்பகத்தை பேணுக">
+<!ENTITY permClearStorage "சேமிப்பகத்தை சுத்தப்படுத்துக">
 <!ENTITY permClearStorage.accesskey "C">

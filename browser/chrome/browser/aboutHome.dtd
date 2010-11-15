@@ -2,11 +2,11 @@
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
 
-<!ENTITY abouthome.searchEngineButton.label "Search">
-<!ENTITY abouthome.aboutMozilla "About Mozilla">
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
-<!ENTITY abouthome.defaultSnippet2.v1 "It's easy to customize your Firefox exactly the way you want it. <a>Choose from thousands of add-ons</a>.">
-<!ENTITY abouthome.searchEngineLinks.advanced "Advanced Search">
-<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferences">
+<!ENTITY abouthome.searchEngineButton.label "தேடல்"> 
+<!ENTITY abouthome.aboutMozilla "Mozilla ஐ பற்றி"> 
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> தொடங்குக"> 
+<!ENTITY abouthome.defaultSnippet2.v1 "நீங்கள் விரும்பிய மிகச் சரியான வழியில் உங்களுடைய Firefox ஐ தனிப்பயனாக்குவது இலகுவானதாகும். <a>ஆயிரக்கணக்கான உட்செருகல்களிலிருந்து தெரிவு செய்க</a>.">
+<!ENTITY abouthome.searchEngineLinks.advanced "உயர்தர தேடல்"> 
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox ஐ தெரிவு செய்தமைக்கு நன்றி! உங்களுடைய உலாவியில் இல்லாததை பெறுவதற்கு <a>பிந்திய அம்சங்களைப்</a> பற்றி மேலும் அறிந்துகொள்ளுங்கள்.">
+<!ENTITY abouthome.pageTitle "&brandFullName; தொடக்கப் பக்கம்"> 
+<!ENTITY abouthome.searchEngineLinks.preferences "முன்னுரிமைகள்"> 

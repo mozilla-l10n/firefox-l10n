@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -75,5 +75,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY previousarrow.tooltip "Previous page">
-<!ENTITY nextarrow.tooltip "Next page">
+<!ENTITY previousarrow.tooltip "முந்தைய பக்கம்">
+<!ENTITY nextarrow.tooltip "அடுத்த பக்கம்">

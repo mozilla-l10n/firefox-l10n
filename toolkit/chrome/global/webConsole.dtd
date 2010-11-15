@@ -1,4 +1,4 @@
-
+﻿
 
 <!--
 Entities below were automatically added by compare-locales,
@@ -14,8 +14,8 @@ Entities below were automatically added by compare-locales,
 <!ENTITY networkPanel.statusCode "Status Code">
 <!ENTITY networkPanel.responseBody "Response Body">
 <!ENTITY networkPanel.responseBodyUnknownType "Unknown Content Type">
-<!ENTITY networkPanel.requestCookie "Sent Cookie">
-<!ENTITY networkPanel.requestFormData "Sent Form Data">
-<!ENTITY networkPanel.responseImage "Received Image">
+<!ENTITY networkPanel.requestCookie "Cookie இனை அனுப்புக.">
+<!ENTITY networkPanel.requestFormData "Form தரவினை அனுப்புக.">
+<!ENTITY networkPanel.responseImage "பெறப்பட்ட Image">
 <!ENTITY networkPanel.responseBodyCached "Cached Data">
 <!ENTITY networkPanel.responseNoBody "No Response Body">

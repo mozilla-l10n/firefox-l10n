@@ -40,10 +40,10 @@ Entities below were automatically added by compare-locales,
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpFeedbackPage.accesskey "S">
 <!ENTITY productHelp.accesskey "H">
-<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY helpFeedbackPage.label "Submit Feedback…">
+<!ENTITY helpSafeMode.label "செயலற்றதாக்கப்பட்ட உட்செருகல்களுடன் மீளத் தொடங்குக...">
+<!ENTITY helpFeedbackPage.label "பின்னூட்டை சமர்ப்பிக்குக...">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY productHelp.label "&brandShortName; Help">
-<!ENTITY aboutProduct.label "About &brandShortName;">
+<!ENTITY productHelp.label "&brandShortName; உதவி">
+<!ENTITY aboutProduct.label "&brandShortName; ஐ பற்றி"> 
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">

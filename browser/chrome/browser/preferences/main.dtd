@@ -40,5 +40,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY homepage.label "Home Page:">
+<!ENTITY homepage.label "முகப்பு பக்கம்:">
 <!ENTITY homepage.accesskey "P">

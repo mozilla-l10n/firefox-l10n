@@ -1,7 +1,7 @@
-<!ENTITY playButton.playLabel "Play">
-<!ENTITY playButton.pauseLabel "Pause">
-<!ENTITY muteButton.muteLabel "Mute">
-<!ENTITY muteButton.unmuteLabel "Unmute">
+<!ENTITY playButton.playLabel "இயக்கு">
+<!ENTITY playButton.pauseLabel "இடைநிறுத்து">
+<!ENTITY muteButton.muteLabel "ஒலியை நிறுத்து">
+<!ENTITY muteButton.unmuteLabel "ஒலியை கேள்">
 
 <!--
 Localization note: the #1 string is the current media position, and the #2

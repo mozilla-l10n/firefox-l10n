@@ -71,7 +71,7 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY rememberHistory.label "Remember my browsing history">
+<!ENTITY rememberHistory.label "என்னுடைய உலாவல் வரலாறை ஞாபகம் வைத்திருக்கவும்">
 <!ENTITY privateBrowsingPermanent.accesskey "P">
-<!ENTITY privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY privateBrowsingPermanent.label "நிரந்தரப் பிரத்தியேக உலாவல் செயற்படுமுறைமை">
 <!ENTITY rememberHistory.accesskey "b">
