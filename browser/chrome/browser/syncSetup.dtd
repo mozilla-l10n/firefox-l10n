@@ -92,11 +92,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Konfirmasi">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; akan menggabungkan semua data peramban komputer ini dengan akun Sinkronisasi Anda.">
-<!ENTITY confirm.client.label         "Semua data &brandShortName; pada komputer ini akan dihapus, yaitu:">
+<!ENTITY confirm.client2.label         "Peringatan: Data &brandShortName; berikut pada komputer ini akan dihapus:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; akan menyalin semua data &syncBrand.fullName.label; ke komputer ini.">
-<!ENTITY confirm.client.warning.label "PERINGATAN: Data &brandShortName; pada komputer ini akan ditimpa!">
-<!ENTITY confirm.server.label         "Data pada perangkat berikut akan ditimpa dengan data pada komputer ini:">
-<!ENTITY confirm.server.warning.label "PERINGATAN: Data pada komputer ini akan menimpa data &brandShortName; pada perangkat tersebut!">
+<!ENTITY confirm.server2.label         "Peringatan: Data pada perangkat berikut akan ditimpa dengan data lokal Anda saat ini:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Penyetelah Selesai">
