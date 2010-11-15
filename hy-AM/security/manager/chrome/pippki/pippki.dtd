@@ -166,7 +166,7 @@
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Պահպանված Նույնականացման Նշան">
-<!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
+<!ENTITY protectedAuth.msg "Խնդրում ենք նույնականացնել թոկենի հետ.Նույնականացման մեթոդը կախված է Ձեր թոկենի տեսակից.">
 <!ENTITY protectedAuth.tokenName.label "Թոկեն`">
 
 <!ENTITY certErrorDlg.title "Չհաջողվեց կատարել Պաշտպանված Միացում">

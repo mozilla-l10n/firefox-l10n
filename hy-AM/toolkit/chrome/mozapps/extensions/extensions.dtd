@@ -46,9 +46,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Ստուգվում է թարմացումները">
 <!ENTITY listEmpty.search.label               "Հնարավոր չեղավ գտնել համընկնող որևէ հավելում">
 <!ENTITY listEmpty.button.label               "Կարդալ հավելումների մասին">
-<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
+<!ENTITY installAddonFromFile.label           "Տեղակայեք հավելումը Ֆայլից...">
+<!ENTITY installAddonFromFile.accesskey       "Տ">
+<!ENTITY toolsMenu.tooltip                    "Գործիքներ բոլոր հավելումների համար">
 
 <!ENTITY cmd.back.tooltip                     "Նախորդ էջ">
 <!ENTITY cmd.forward.tooltip                  "Հաջորդ էջ">
@@ -91,7 +91,7 @@
 <!ENTITY updates.noneFound.label              "Թարմացում չի գտնվել">
 <!ENTITY updates.manualUpdatesFound.label     "Տեսնել Առկա Թարմացումները">
 <!ENTITY updates.updateSelected.label         "Տեղադրել Թարմացումներ">
-<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
+<!ENTITY updates.updateSelected.tooltip       "Տեղակայեք հասանելի թարմացումներ այս ցուցակում:">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Ցուցադրել մանրամասն տեղեկություն">
@@ -147,7 +147,7 @@
 <!ENTITY detail.homepage.label                "ՀԻմնական էջ">
 <!ENTITY detail.numberOfDownloads.label       "Բեռնումներ">
 
-<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
+<!ENTITY detail.contributions.description     "Այս հավելման ստեղծողը խնդրում է, որ դուք աջակցություն ցուցաբերեք հավելման անընդհատ զարգացման մեջ` փոքր ներդրումներ կատարելով:">
 
 <!ENTITY detail.updateType                    "Ավտոմատ Թարմացումներ">
 <!ENTITY detail.updateDefault.label           "Հիմնական">
