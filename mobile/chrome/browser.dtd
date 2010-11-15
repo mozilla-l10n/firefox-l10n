@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "Potong">
 <!ENTITY copy.label            "Salin">
+<!ENTITY copyAll.label         "Salin Semua">
 <!ENTITY copylink.label        "Salin Lokasi Tautan">
 <!ENTITY paste.label           "Tempel">
 <!ENTITY delete.label          "Hapus">
 <!ENTITY selectAll.label       "Pilih Semua">
 <!ENTITY noSuggestions.label   "(tidak ada saran)">
 <!ENTITY addToDictionary.label "Tambah ke kamus">
+<!ENTITY inputMethod.label     "Pilih Metode Input">
 
 <!ENTITY allPagesHeader.label      "Semua Laman">
 <!ENTITY bookmarksHeader.label     "Markah">
@@ -101,3 +103,7 @@
 <!ENTITY pageactions.reset           "Hapus Pengaturan Situs">
 <!ENTITY pageactions.findInPage      "Temukan di Laman">
 <!ENTITY pageactions.search.addNew   "Tambah Mesin Pencari">
+
+<!ENTITY selectHelper.emptytext      "Filter Daftar">
+
+<!ENTITY appMenu.siteOptions         "Opsi Situs">
