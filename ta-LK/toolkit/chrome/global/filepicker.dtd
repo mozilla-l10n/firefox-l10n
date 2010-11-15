@@ -1,4 +1,4 @@
-<!ENTITY lookInMenuList.label   "உள்ளே பார்க்க:">
+﻿<!ENTITY lookInMenuList.label   "உள்ளே பார்க்க:">
 <!ENTITY lookInMenuList.accesskey   "L">
 <!ENTITY textInput.label        "கோப்புப் பெயர்:">
 <!ENTITY textInput.accesskey        "n">
@@ -10,7 +10,7 @@
 <!ENTITY showHiddenFiles.label  "மறைக்கப்பட்ட கோப்புபளையும் அடைவுகளையும் காட்டுக">
 <!ENTITY showHiddenFiles.accesskey  "S">
 
-<!ENTITY noPermissionError.label "இந்த அடைவினை நோக்குவதற்கு உங்களுக்கு அனுமது இல்லை.">
+<!ENTITY noPermissionError.label "இந்த அடைவினை நோக்குவதற்கு உங்களுக்கு அனுமதி இல்லை.">
 
 <!ENTITY folderUp.tooltiptext   "ஒரு மட்டம் மேலே செல்க">
 <!ENTITY folderHome.tooltiptext "இல்லத்துக்கு செல்க">

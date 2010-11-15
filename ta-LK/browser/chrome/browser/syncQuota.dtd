@@ -5,7 +5,7 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
-<!ENTITY quota.dialogTitle.label "Server Quota">
-<!ENTITY quota.typeColumn.label "Type">
-<!ENTITY quota.sizeColumn.label "Size">
+<!ENTITY quota.retrievingInfo.label "ஒதுக்கீட்டுத் தகவல் மீட்பிக்கப்படுகிறது...">
+<!ENTITY quota.dialogTitle.label "சேவையக ஒதுக்கீடு">
+<!ENTITY quota.typeColumn.label "வகை">
+<!ENTITY quota.sizeColumn.label "பருமன்">

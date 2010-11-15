@@ -1,13 +1,13 @@
-<!ENTITY  updateWizard.title              "&brandShortName; இற்றைப்படுத்தல்">
+﻿<!ENTITY  updateWizard.title              "&brandShortName; இற்றைப்படுத்தல்">
 
 <!ENTITY  offline.title                   "&brandShortName; இணைப்பில்லா நிலையில் வேலை செய்கின்றது">
-<!ENTITY  offline.description             "இந்தப்பதிப்புடன் இசைவாக உள்ளதான செருகல்களைப் பார்ப்பதற்கு &brandShortName; இற்கு இணைப்பு 										   நிலைக்கு செல்ல வேண்டிய தேவை உள்ளது.">
+<!ENTITY  offline.description             "இந்தப்பதிப்புடன் இசைவாக உள்ளதான செருகல்களைப் பார்ப்பதற்கு &brandShortName; இற்கு இணைப்பு நிலைக்கு செல்ல வேண்டிய தேவை உள்ளது.">
 <!ENTITY  offline.toggleOffline.label     "இப்போது இணைப்பு நிலைக்குச் செல்க.">
 <!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "இசைவற்ற செருகல்கள்">
-<!ENTITY  mismatch.top.label              "பின்வரும் செருகல்கள் &brandShortName; இனுடைய இந்தப் பதிப்புக்கு இசைவற்றதுடன் செயலற்றதாக்கப										   ்பட்டும் உள்ளது:">
-<!ENTITY  mismatch.bottom.label           "இந்தச் செருகுதல்களுக்கு இசைவான பதிப்புக்கள் காணப்படுமாக இருந்தால் &brandShortName;இனால் 				சரிபார்க்க முடியும்.">
+<!ENTITY  mismatch.top.label              "பின்வரும் செருகல்கள் &brandShortName; இனுடைய இந்தப் பதிப்புக்கு இசைவற்றதுடன் செயலற்றதாக்கபட்டும் உள்ளது:">
+<!ENTITY  mismatch.bottom.label           "இந்தச் செருகுதல்களுக்கு இசைவான பதிப்புக்கள் காணப்படுமாக இருந்தால் &brandShortName;இனால் சரிபார்க்க முடியும்.">
 
 <!ENTITY  checking.wizard.title           "இசைவான செருகுதல்களுக்காக சரிபார்க்கப்படுகிறது">
 <!ENTITY  checking.top.label              "இற்றைப்படுத்தலுக்காக உங்களுடைய இசைவற்ற செருகல்கள் சரிபார்க்கப்படுகிறது…">
@@ -15,7 +15,7 @@
 
 <!ENTITY  found.wizard.title               "இசைவான செருகுதல்கள் காணப்பட்டன">
 <!ENTITY  found.top.label                 "நீங்கள் நிறுவ விரும்பும் செருகுதல்களை தெரிவு செய்க:">
-<!ENTITY  found.disabledXPinstall.label   "மென்பொருள் நிறுவுதல் தற்போது செயலற்றதாக்கப்பட்டிருப்பதன் காரணமாக இந்த இற்றைப்படுத்தல்களை 				நிறுவ முடியாது. நீங்கள் கீழேயுள்ள அமைப்புக்களை மாற்ற முடியும்.">
+<!ENTITY  found.disabledXPinstall.label   "மென்பொருள் நிறுவுதல் தற்போது செயலற்றதாக்கப்பட்டிருப்பதன் காரணமாக இந்த இற்றைப்படுத்தல்களை நிறுவ முடியாது. நீங்கள் கீழேயுள்ள அமைப்புக்களை மாற்ற முடியும்.">
 <!ENTITY  found.enableXPInstall.label     "இணையத்தளங்களை மென்பொருள் நிறுவுதலுக்கு அனுமதிக்க">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 

@@ -28,5 +28,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY deleteBookmarks.label "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.label "படியெடுப்புக்கு தவிர்ந்த மற்றைய எல்லா புத்தகக்குறிகளையும் நீக்குக">
 <!ENTITY deleteBookmarks.accesskey "b">

@@ -7,31 +7,31 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY syncMy.label "Sync My">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY updatePass.label "Update">
-<!ENTITY engine.bookmarks.label "Bookmarks">
-<!ENTITY currentAccount.label "Current Account:">
+<!ENTITY updatePass.label "இற்​றைப்படுத்துக">
+<!ENTITY engine.bookmarks.label "புத்தகக்குறிப்புகள்">
+<!ENTITY currentAccount.label "நடைமுறைக் கணக்கு:">
 <!ENTITY setupButton.accesskey "S">
 <!ENTITY engine.history.accesskey "r">
-<!ENTITY engine.history.label "History">
-<!ENTITY resetSync.label "Reset Sync">
-<!ENTITY prefs.tosLink.label "Terms of Service">
-<!ENTITY stopUsingAccount.label "Stop Using This Account">
+<!ENTITY engine.history.label "வரலாறு">
+<!ENTITY resetSync.label "ஒத்திசைவை மீளமைக்க">
+<!ENTITY prefs.tosLink.label "சேவையினுடைய விதிமுறைகள்">
+<!ENTITY stopUsingAccount.label "இந்தக் கணக்கைப் பாவித்து நிறுத்துக">
 <!ENTITY engine.tabs.accesskey "T">
-<!ENTITY syncPrefsCaption.label "Browser Sync">
-<!ENTITY resetPass.label "Reset">
-<!ENTITY manageAccount.label "Manage Account">
+<!ENTITY syncPrefsCaption.label "உலாவி ஒத்திசைவு">
+<!ENTITY resetPass.label "மீளமைக்க">
+<!ENTITY manageAccount.label "கணக்கை முகாமைத்துவம் செய்க">
 <!ENTITY syncComputerName.accesskey "c">
 <!ENTITY setupButton.label "Set Up &syncBrand.fullName.label;">
 <!ENTITY manageAccount.accesskey "A">
-<!ENTITY viewQuota.label "View Quota">
-<!ENTITY mySyncKey.label "My Sync Key">
-<!ENTITY engine.passwords.label "Passwords">
-<!ENTITY engine.prefs.label "Preferences">
+<!ENTITY viewQuota.label "ஒதுக்கீட்டை நோக்குக">
+<!ENTITY mySyncKey.label "என்னுடைய ஒத்திசைவு விசை">
+<!ENTITY engine.passwords.label "கடவுச்சொற்கள்">
+<!ENTITY engine.prefs.label "முன்னுரிமைகள்">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; கணக்கு">
 <!ENTITY engine.prefs.accesskey "S">
-<!ENTITY engine.tabs.label "Tabs">
-<!ENTITY changePassword.label "Change Password">
-<!ENTITY prefs.ppLink.label "Privacy Policy">
-<!ENTITY syncComputerName.label "Computer Name:">
+<!ENTITY engine.tabs.label "தத்தல்கள்">
+<!ENTITY changePassword.label "கடவுச்சொல்லை மாற்றுக">
+<!ENTITY prefs.ppLink.label "பிரத்தியேகக் கொள்கை">
+<!ENTITY syncComputerName.label "கணினியின் பெயர்:">
 <!ENTITY engine.passwords.accesskey "P">

@@ -10,21 +10,21 @@ Entities below were automatically added by compare-locales,
 <!ENTITY testpilot.settings.newStudy.label "There's a new study">
 <!ENTITY testpilot.rawDataWindow.title "Test Pilot: Raw Data">
 <!ENTITY testpilot.brand.label "Test Pilot">
-<!ENTITY testpilot.settings.notifications.label "Notifications">
+<!ENTITY testpilot.settings.notifications.label "அறிவுறுத்தல்கள்">
 <!ENTITY testpilot.studiesWindow.currentStudies.label "Current Studies">
-<!ENTITY testpilot.settings.label "Settings">
+<!ENTITY testpilot.settings.label "அமைப்புகள்">
 <!ENTITY testpilot.settings.dataSubmission.label "Data Submission">
 <!ENTITY testpilot.settings.hasNewResults.label "A study has new results">
 <!ENTITY testpilot.allYourStudies.label "All Your User Studies…">
-<!ENTITY testpilot.sad.label "Firefox Made Me Sad Because…">
+<!ENTITY testpilot.sad.label "Firefox என்னை கவலையடையச் செய்துள்ளது ஏனென்றால்...">
 <!ENTITY testpilot.about.label "About Test Pilot">
 <!ENTITY testpilot.studiesWindow.studyFindings.label "Study Findings">
-<!ENTITY testpilot.settings.alwaysSubmitData.label "Automatically submit my data (don't ask me)">
-<!ENTITY testpilot.notification.close.tooltip "Close">
+<!ENTITY testpilot.settings.alwaysSubmitData.label "தன்னிச்சையாக என்னுடைய தரவுகளை சமர்ப்பிக்குக (என்னை எதுவும் கேட்க வேண்டாம்)">
+<!ENTITY testpilot.notification.close.tooltip "மூடுக">
 <!ENTITY testpilot.studiesWindow.title "Your Test Pilot Studies">
-<!ENTITY testpilot.feedbackbutton.label "Feedback">
-<!ENTITY testpilot.settings.notifyWhen.label "Notify me when…">
-<!ENTITY testpilot.happy.label "Firefox Made Me Happy Because…">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Loading, please wait…">
-<!ENTITY testpilot.studiesWindow.settings.label "Settings">
+<!ENTITY testpilot.feedbackbutton.label "பின்னூட்டு">
+<!ENTITY testpilot.settings.notifyWhen.label "எனக்கு அறிவுறுத்துக : ">
+<!ENTITY testpilot.happy.label "Firefox என்னை சந்தோஷமடையச் செய்துள்ளது ஏனென்றால்...">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage "ஏற்றப்படுகிறது, தயவு செய்து காத்திருக்கவும்...">
+<!ENTITY testpilot.studiesWindow.settings.label "அமைப்புகள்">
 <!ENTITY testpilot.enable.label "Turn On User Studies">

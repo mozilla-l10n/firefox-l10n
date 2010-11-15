@@ -5,80 +5,80 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY setup.tosLink.label "Terms of Service">
-<!ENTITY syncKeyStrength.label "Strength:">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
-<!ENTITY syncKeyGenerate.label "Generate">
-<!ENTITY serverType.main.label "&syncBrand.fullName.label; Server">
-<!ENTITY engine.prefs.label "Preferences">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY setup.tosLink.label "சேவை விதிமுறை">
+<!ENTITY syncKeyStrength.label "வலிமை:">
+<!ENTITY continueUsing.label "&brandShortName; இதைப் பாவித்து நீங்கள் தொடரலாம்.">
+<!ENTITY syncKeyGenerate.label "உண்டாக்கு">
+<!ENTITY serverType.main.label "&syncBrand.fullName.label; சேவையகம்">
+<!ENTITY engine.prefs.label "முன்னுரிமைகள்">
+<!ENTITY syncKeyBackup.description "மற்றய இயந்திரங்களில் &syncBrand.fullName.label; ஐ அணுகுவதற்கு உங்களுடைய ஒத்திசைவு விசை தேவைப்படுகிறது. அதனால் தயவு செய்து ஒரு படியெடுப்பு நகலை உருவாக்குக. ஏனெனில் உங்களுடைய ஒத்திசைவு விசையை மீட்க எங்களால் உங்களுக்கு உதவி செய்ய முடியாது.">
 <!ENTITY syncMy.label "Sync My">
-<!ENTITY button.syncKeyBackup.print.label "Print…">
+<!ENTITY button.syncKeyBackup.print.label "அச்சிடுக...">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY setup.captchaPage2.title.label "Please Confirm You're Not a Robot">
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
-<!ENTITY confirm.merge.label "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY signIn.serverURL.label "Server URL">
+<!ENTITY setup.existingAccount.title.label "கணக்குத் தகவல்களை நுழைக்குக">
+<!ENTITY confirm.merge.label "&syncBrand.fullName.label; ஆனது இந்தக் கணினியினுடைய அனைத்து உலாவித் தரவையும் உங்களுடைய ஒத்திசைவுக் கணக்கிற்கு இப்பொழுதே ஒன்றிணைத்து விடும்.">
+<!ENTITY signIn.serverURL.label "சேவையக URL">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY signIn.password.accesskey "P">
-<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
-<!ENTITY engine.bookmarks.label "Bookmarks">
+<!ENTITY confirm.server.warning.label "எச்சரிக்கை: உங்களுடைய உள்ளக தரவானது இந்த சாதனங்களிலுள்ள அனைத்து &brandShortName; தரவையும் மாற்றிவிடும்!">
+<!ENTITY engine.bookmarks.label "புத்தகக் குறிப்புகள்">
 <!ENTITY button.syncKeyBackup.save.accesskey "S">
 <!ENTITY setup.confirmPassword.accesskey "m">
-<!ENTITY setup.ppLink.label "Privacy Policy">
+<!ENTITY setup.ppLink.label "பிரத்தியேகக் கொள்கை">
 <!ENTITY setup.tosAgree2.label "and the">
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY setup.tosAgree1.accesskey "a">
-<!ENTITY engine.history.label "History">
+<!ENTITY engine.history.label "வரலாறு">
 <!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
 <!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY choice2.client.main.label "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY button.syncKeyBackup.save.label "Save…">
-<!ENTITY server.label "Server">
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY setup.choicePage.new.label "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
+<!ENTITY choice2.client.main.label "என்னுடைய &syncBrand.shortName.label; தரவுடன் இந்த கணினியிலுள்ள அனைத்துத் தரவுகளையும் மாற்றிடுக">
+<!ENTITY button.syncKeyBackup.save.label "சேமி...">
+<!ENTITY server.label "சேவையகம்">
+<!ENTITY setup.pickSetupType.description "வரவேற்கின்றோம், நீங்கள் &syncBrand.fullName.label; ஐ முன்னொருபோதும் பாவிக்கவில்லை எனில் முதலில் ஒரு புதிய கணக்கை உருவாக்கவேண்டும்.">
+<!ENTITY setup.choicePage.new.label "நான் &syncBrand.shortName.label; ஐ முன்னொருபோதும் பாவிக்கவில்லை">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; உங்களுடைய பிரத்தியேகத்தைப் பற்றி கவனமெடுக்க">
 <!ENTITY syncKeyEntry.accesskey "K">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY signIn.account.accesskey "E">
-<!ENTITY serverType.custom.label "Use a custom server">
+<!ENTITY serverType.custom.label "ஒரு தனிப்பயன் சேவையகத்தை பயன்படுத்துக">
 <!ENTITY engine.tabs.accesskey "T">
-<!ENTITY connecting.label "Connecting…">
+<!ENTITY connecting.label "இணைக்கப்படுகிறது...">
 <!ENTITY setup.tosAgree2.accesskey "">
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY setup.emailAddress.label "Email Address">
-<!ENTITY signIn.account.label "Email Address / User Name">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
+<!ENTITY setup.optionsConfirmPage.title "உறுதிப்படுத்துக">
+<!ENTITY setup.emailAddress.label "மின்னஞ்சல் முகவரி">
+<!ENTITY signIn.account.label "மின்னஞ்சல் முகவரி / பயனாளர் பெயர்">
+<!ENTITY choice2.merge.recommended.label "பரிந்துரைக்கப்பட்டது:">
 <!ENTITY syncComputerName.accesskey "c">
-<!ENTITY engine.passwords.label "Passwords">
+<!ENTITY engine.passwords.label "கடவுச்சொற்கள்">
 <!ENTITY confirm.server.label "The following devices will be overwritten with your local data:">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY setup.optionsPage.title "Sync Options">
+<!ENTITY button.createNewAccount.label "ஒரு புதிய கணக்கை உருவாக்குக">
+<!ENTITY setup.optionsPage.title "ஒத்திசைவுத் தெரிவுகள்">
 <!ENTITY signIn.serverURL.accesskey "L">
-<!ENTITY choice2.merge.main.label "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY setup.confirmPassword.label "Confirm Password">
-<!ENTITY signIn.password.label "Password">
+<!ENTITY choice2.merge.main.label "இந்த கணினியினுடைய தரவை என்னுடைய &syncBrand.shortName.label; தரவுடன் ஒன்றிணைக்க">
+<!ENTITY setup.confirmPassword.label "கடவுச்சொல்லை உறுதிப்படுத்துக">
+<!ENTITY signIn.password.label "கடவுச்சொல்">
 <!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; ஆனது உங்களுடைய &syncBrand.fullName.label; தரவை இந்த கணினிக்கு நகலெடுக்கும்.">
 <!ENTITY setup.tosAgree1.label "I agree to the">
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY lostSyncKey.label "I have lost my Sync Key">
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY resetPassword.label "Reset Password">
-<!ENTITY syncKeyHelp.label "What does the strength mean?">
-<!ENTITY confirm.client.label "All &brandShortName; data on this computer will be deleted, including the following:">
-<!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; Setup">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY syncComputerName.label "Computer Name:">
-<!ENTITY setup.choicePage.title.label "Have you used &syncBrand.fullName.label; before?">
+<!ENTITY setup.existingSyncKeyPage.title "தயவு செய்து உங்களுடைய ஒத்திசைவு விசையை நுழைக்க">
+<!ENTITY setup.successPage.title "நிறுவுகை முடிவடைந்தது">
+<!ENTITY lostSyncKey.label "நான் என்னுடைய ஒத்திசைவு விசையைத் தொலைத்துவிட்டேன்">
+<!ENTITY setup.newAccountDetailsPage.title.label "கணக்கு விபரங்கள்">
+<!ENTITY resetPassword.label "கடவுச்சொல்லை மீளமைக்க">
+<!ENTITY syncKeyHelp.label "வலிமை என்பதன் கருத்து என்ன?">
+<!ENTITY confirm.client.label "இந்த கணினியிலுள்ள அனைத்து &brandShortName; தரவுகளும் நீக்கப்பட்டிருக்கும், பின்வருபவை உள்ளடங்கலாக:">
+<!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; நிறுவுகை">
+<!ENTITY changeOptions.label "கீழுள்ள ஒத்திசைவுத் தெரிவுகளை தெரிவு செய்வதன் மூலம் இந்த முன்னுரிமைகளை மாற்ற முடியும்.">
+<!ENTITY syncComputerName.label "கணினியின் பெயர்:">
+<!ENTITY setup.choicePage.title.label "நீங்கள் &syncBrand.fullName.label; ஐ முன்னர் பாவித்தீர்களா?">
 <!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.tabs.label "Tabs">
-<!ENTITY setup.choicePage.existing.label "I'm already using &syncBrand.shortName.label; on another computer">
-<!ENTITY choice2.server.main.label "Replace all other devices with this computer's data">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
-<!ENTITY syncKeyEntry.label "Your Sync Key">
-<!ENTITY verifying.label "Verifying…">
-<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
+<!ENTITY engine.tabs.label "தத்தல்கள்">
+<!ENTITY setup.choicePage.existing.label "நான் ஏற்கனவே &syncBrand.shortName.label; ஐ இன்னொரு கணினியில் பாவித்துக்கொண்டிருக்கின்றேன்">
+<!ENTITY choice2.server.main.label "மற்றய அனைத்து சாதனங்களையும் இந்தக் கணினியினுடைய தரவுடன் மாற்றிடுக">
+<!ENTITY button.haveAccount.label "நான் ஒரு &syncBrand.fullName.label; கணக்கை வைத்திருக்கிறேன்">
+<!ENTITY syncKeyEntry.label "உங்களுடைய ஒத்திசைவு விசை">
+<!ENTITY verifying.label "சரிபார்க்கப்படுகிறது...">
+<!ENTITY confirm.client.warning.label "எச்சரிக்கை: இந்த கணினியிலுள்ள அனைத்து &brandShortName; தரவையும் மாற்றிவிடும்!">

@@ -5,24 +5,24 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY update.failed.end "">
-<!ENTITY update.noUpdatesFound "&brandShortName; is up to date">
-<!ENTITY update.downloading.start "Downloading update — ">
+<!ENTITY update.noUpdatesFound "&brandShortName; இற்றைப்படுத்தப்பட்டது">
+<!ENTITY update.downloading.start "இற்றைப்படுத்தல் பதிவிறக்கப்படுகிறது - "> 
 <!ENTITY update.manual.end "">
-<!ENTITY update.checkingForUpdates "Checking for updates…">
+<!ENTITY update.checkingForUpdates "இற்றைப்படுத்தல்கள் சரிபார்க்கப்படுகிறது..."> 
 <!ENTITY community.middle2 ", a ">
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
-<!ENTITY update.manual.start "Updates available at ">
-<!ENTITY update.failed.start "Update failed. ">
-<!ENTITY bottomLinks.license "Licensing Information">
+<!ENTITY update.checkingAddonCompat "உட்செருகல் ஒத்தியல்பு சரிபார்க்கப்படுகிறது..."> 
+<!ENTITY update.manual.start "இற்றைப்படுத்தல்கள் இங்கே : "> 
+<!ENTITY update.failed.start "இற்றைப்படுத்தல் வெற்றியளிக்கவில்லை. "> 
+<!ENTITY bottomLinks.license "அனுமதித் தகவல்"> 
 <!ENTITY contribute.end "">
-<!ENTITY update.failed.linkText "Download the latest version">
-<!ENTITY update.adminDisabled "Updates disabled by your system administrator">
-<!ENTITY community.end2 " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
-<!ENTITY contribute.start "Sound interesting? ">
-<!ENTITY community.creditsLink "global community">
-<!ENTITY bottomLinks.privacy "Privacy Policy">
+<!ENTITY update.failed.linkText "மிகவும் பிந்திய பதிப்பை பதிவிறக்குக"> 
+<!ENTITY update.adminDisabled "உங்களுடைய அமைப்பு நிர்வாகியால் இற்றைப்படுத்தல்கள் செயலற்றதாக்கப்பட்டுள்ளது"> 
+<!ENTITY community.end2 " இணையத்தை சிறந்ததாக மாற்ற முயன்று கொண்டிருக்கின்றோம். இந்த இணையமானது திறந்த, பொதுவான மற்றும் யாராலும் எந்தவித கட்டுப்பாடுமில்லாது அணுகக்கூடியதாக இருக்க வேண்டும் என நம்புகின்றோம்.">
+<!ENTITY contribute.start "Sound interesting? ">  
+<!ENTITY community.creditsLink "உலகந்தழுவிய சமூகம்"> 
+<!ENTITY bottomLinks.privacy "பிரத்தியேகக் கொள்கை"> 
 <!ENTITY update.downloading.end "">
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY contribute.getInvolvedLink "Get involved!">
-<!ENTITY bottomLinks.rights "End User Rights">
-<!ENTITY community.start2 "&brandShortName; is designed by ">
+<!ENTITY contribute.getInvolvedLink "பங்குகொள்க!">
+<!ENTITY bottomLinks.rights "இறுதிப் பயனாளர் உரிமைகள்"> 
+<!ENTITY community.start2 "&brandShortName; ஆனது வடிவமைக்கப்பட்டது : ">

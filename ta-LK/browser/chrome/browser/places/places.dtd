@@ -128,22 +128,22 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY view.accesskey "w">
-<!ENTITY byDayAndSite.label "By Date and Site">
+<!ENTITY byDayAndSite.label "திகதி மற்றும் தளத்தின் படி">
 <!ENTITY bySite.accesskey "S">
 <!ENTITY byDayAndSite.accesskey "t">
 <!ENTITY byMostVisited.accesskey "V">
-<!ENTITY find.label "Search:">
-<!ENTITY cmd.bookmarkLink.label "Bookmark This Page…">
-<!ENTITY byDate.label "By Date">
-<!ENTITY views.tooltip "Change your view">
-<!ENTITY view.label "View">
+<!ENTITY find.label "தேடுக:">
+<!ENTITY cmd.bookmarkLink.label "இந்த பக்கத்தை புத்தகக்குறியிடுக...">
+<!ENTITY byDate.label "திகதியின் படி"> 
+<!ENTITY views.tooltip "உங்களுடைய நோக்கை மாற்றுக">
+<!ENTITY view.label "நோக்குக">
 <!ENTITY byDate.accesskey "D">
-<!ENTITY search.in.label "Search in:">
-<!ENTITY organize.tooltip "Organize your bookmarks">
+<!ENTITY search.in.label "இல் தேடுக:">
+<!ENTITY organize.tooltip "உங்களுடைய புத்தகக்குறிகளை ஒழுங்குபடுத்துக">
 <!ENTITY find.accesskey "S">
 <!ENTITY cmd.bookmarkLink.accesskey "B">
 <!ENTITY byLastVisited.accesskey "L">
-<!ENTITY byMostVisited.label "By Most Visited">
-<!ENTITY maintenance.tooltip "Import and backup your bookmarks">
-<!ENTITY bySite.label "By Site">
-<!ENTITY byLastVisited.label "By Last Visited">
+<!ENTITY byMostVisited.label "பெரும்பாலும் அணுகப்பட்டதன் படி">
+<!ENTITY maintenance.tooltip "உங்களுடைய புத்தகக்குறிகளை படியெடுக்க மற்றும் இறக்குமதி செய்க">
+<!ENTITY bySite.label "தளத்தின் படி"> 
+<!ENTITY byLastVisited.label "இறுதியாக அணுகப்பட்டதன் படி"> 
