@@ -26,7 +26,7 @@
 
 <!ENTITY netOffline.title "Modus offline">
 <!ENTITY netOffline.longDesc "<p>Il navigatur è en il modus offline e na po perquai betg stabilir ina connexiun.</p><ul><li>È il computer collià cun ina rait activa?</li><li>Mida per plaschair l'applicaziun en il modus online ed emprova lura anc ina giada.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Il navigatur è en il modus offline e na po perquai betg stabilir ina connexiun.</p><ul><li>È il computer collià cun ina rait activa?</li><li>Mida per plaschair l'applicaziun en il modus online ed emprova lura anc ina giada.</li></ul">
+<!ENTITY netOffline.overrideLongDesc "<p>Il navigatur è en il modus offline e na po perquai betg stabilir ina connexiun.</p><ul><li>È il computer collià cun ina rait activa?</li><li>Mida per plaschair l'applicaziun en il modus online ed emprova lura anc ina giada.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Cuntegns cun codaziun nunvalida">
 <!ENTITY contentEncodingError.longDesc "<p>La pagina dumandada na po betg vegnir mussada, perquai ch'ella utilisescha ina furma da cumpressiun nunvalida u betg cumpatibla.</p><ul><li>Contactescha per plaschair l'administratur da la website per infurmar el davart quest problem.</li></ul>">
@@ -73,7 +73,7 @@
 <p>Questas furmas da falsificaziun en il web vegnan utilisadas per emprovas d'engion ch'ins numna &quot;attatgas da phishing&quot;. Criminals cun l'intenziun d'engianar emprovan uschia d'imitar paginas d'internet u e-mails che inspiran confidenza.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloccà da las directivas per la segirtad dal cuntegn">
-<!ENTITY cspFrameAncestorBlocked.longDesc "Il navigatur ha impedì questa pagina da chargiar a tala maniera perquai che la pagina cuntegna directivas per la segirtad dal cuntegn (content security policy) che impedeschan quai.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Il navigatur ha impedì questa pagina da chargiar a tala maniera perquai che la pagina cuntegna directivas per la segirtad dal cuntegn (content security policy) che impedeschan quai.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
