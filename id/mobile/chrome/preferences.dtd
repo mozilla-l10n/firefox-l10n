@@ -18,11 +18,3 @@
 <!ENTITY homepage.none                             "Laman kosong">
 <!ENTITY homepage.default                          "Memulai &brandShortName;">
 <!ENTITY homepage.currentpage                      "Gunakan Laman Sekarang">
-<!ENTITY sync.title                                "Sync">
-<!ENTITY sync.account2                             "Nama Akun">
-<!ENTITY sync.password                             "Sandi">
-<!ENTITY sync.syncKey                              "Kunci Sinkronisasi">
-<!ENTITY sync.deviceName                           "Nama Perangkat">
-<!ENTITY sync.connect                              "Sambungkan">
-<!ENTITY sync.disconnect                           "Putuskan">
-<!ENTITY sync.syncNow                              "Sinkronkan Sekarang">
