@@ -84,7 +84,7 @@
 <!ENTITY col.lastmodified.label  "Senast ändrad">
 
 <!ENTITY search.label                              "Sök:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.placeholder                        "Sök bokmärken">
 <!ENTITY search.scopeFolder.label                  "Vald mapp">
 <!ENTITY search.scopeFolder.accesskey              "k">
 <!ENTITY search.scopeBookmarks.label               "Bokmärken">
