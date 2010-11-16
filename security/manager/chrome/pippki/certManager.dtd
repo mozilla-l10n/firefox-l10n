@@ -136,8 +136,6 @@
 <!ENTITY certmgr.addException.accesskey "x">
 
 <!ENTITY exceptionMgr.title "பாதுகாப்பு விதிவிலக்கை சேர்">
-<!ENTITY exceptionMgr.exceptionButton "பாதுகாப்பு விதிவிலக்கை உறுதிப்படுத்து">
-<!ENTITY exceptionMgr.exceptionButtonAccess "C">
 <!ENTITY exceptionMgr.supplementalWarning "Legitimate வங்கிகள், ஸ்டோர்கள் மற்றும் பிற பொது இணைய தளங்களில் இதனை செய்ய சொல்லாது.">
 <!ENTITY exceptionMgr.certlocation.caption2 "சேவையகம்">
 <!ENTITY exceptionMgr.certlocation.url "இருப்பிடம்:">
@@ -148,3 +146,5 @@
 <!ENTITY exceptionMgr.certstatus.accesskey "V">
 <!ENTITY exceptionMgr.permanent.label         "நிரந்தரமாக இந்த விதிவிலக்கில் சேமி">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
+<!ENTITY exceptionMgr.exceptionButton.label   "பாதுகாப்பு விதிவிலக்கை உறுதிப்படுத்து">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
