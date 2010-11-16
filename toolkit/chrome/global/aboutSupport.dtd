@@ -17,8 +17,9 @@
 <!ENTITY aboutSupport.appBasicsName "Num">
 <!ENTITY aboutSupport.appBasicsVersion "Versiun">
 <!ENTITY aboutSupport.appBasicsProfileDir "Ordinatur dal profil">
-<!ENTITY aboutSupport.appBasicsPlugins "Plug-ins installads">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plug-ins activads">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuraziun dal build">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
 <!ENTITY aboutSupport.show.label "Avrir l'ordinatur">
 
@@ -30,6 +31,8 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferenzas modifitgadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Num">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valur">
+
+<!ENTITY aboutSupport.graphicsTitle "Grafica">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Cronologia da l'installaziun">
 <!ENTITY aboutSupport.updateHistoryTitle "Cronologia d'actualisaziun">
