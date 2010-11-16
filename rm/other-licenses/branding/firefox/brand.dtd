@@ -1,4 +1,5 @@
 <!ENTITY  brandShortName        "Firefox">
 <!ENTITY  brandFullName         "Mozilla Firefox">
 <!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  logoCopyright         "Firefox ed ils logos da Firefox èn marcas da la Mozilla Foundation. Tut ils dretgs resalvads.">
+<!ENTITY  trademarkInfo.part1   "Firefox ed ils logos da Firefox èn marcas da la Mozilla Foundation.">
+<!ENTITY  trademarkInfo.part2   " Tschertas marcas vegnan utilisadas sut la licenza da The Charlton Company.">
