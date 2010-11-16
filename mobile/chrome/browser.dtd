@@ -16,6 +16,7 @@
 <!ENTITY selectAll.label "Выделить всё">
 <!ENTITY noSuggestions.label "(нет предложений)">
 <!ENTITY addToDictionary.label "Добавить в словарь">
+<!ENTITY inputMethod.label "Выбрать метод ввода">
 <!ENTITY allPagesHeader.label "Все страницы">
 <!ENTITY bookmarksHeader.label "Закладки">
 <!ENTITY historyHeader.label "Журнал">
@@ -87,5 +88,4 @@
 <!ENTITY pageactions.findInPage "Найти на странице">
 <!ENTITY pageactions.search.addNew "Добавить поисковую систему">
 <!ENTITY selectHelper.emptytext "Фильтр списка">
-<!ENTITY inputMethod.label "Выбрать метод ввода">
 <!ENTITY appMenu.siteOptions "Настройки сайта">
