@@ -1,0 +1,21 @@
+<!ENTITY sync.title "Sync">
+<!ENTITY sync.notconnected "Nepřipojeno">
+<!ENTITY sync.connect "Připojit">
+<!ENTITY sync.connected "Připojeno">
+<!ENTITY sync.details "Podrobnosti">
+<!ENTITY sync.synchronize.label "Synchronize">
+<!ENTITY sync.synchronize.yes "Zapnuto">
+<!ENTITY sync.synchronize.no "Vypnuto">
+<!ENTITY sync.deviceName "Zařízení">
+<!ENTITY sync.disconnect "Odpojit">
+<!ENTITY sync.syncNow "Synchronizovat">
+
+<!ENTITY sync.setup.title "Připojení k Sync">
+<!ENTITY sync.setup.jpake "Na počítači s Firefoxem s připojeným Sync přejděte do dialogu možnosti Sync a zvolte &#x0022;Přidat zařízení&#x0022;">
+<!ENTITY sync.fallback "Nejsem poblíž počítače…">
+<!ENTITY sync.setup.manual "Vložit nastavení účtu Sync">
+<!ENTITY sync.account "Název účtu">
+<!ENTITY sync.password "Heslo">
+<!ENTITY sync.syncKey "Klíč">
+<!ENTITY sync.customServer "Použít vlastní server">
+<!ENTITY sync.serverURL "Adresa serveru">
