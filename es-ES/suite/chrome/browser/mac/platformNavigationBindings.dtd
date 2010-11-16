@@ -2,3 +2,4 @@
 <!ENTITY goForwardCmd.keyCode "VK_RIGHT">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY fullScreenCmd.commandKey "f">
