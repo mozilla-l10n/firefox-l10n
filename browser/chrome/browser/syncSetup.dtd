@@ -92,11 +92,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confermar">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; vegn ussa a cumbinar las datas da quest computer cun questas da tes conto da Sync.">
-<!ENTITY confirm.client.label         "Tut las datas da &brandShortName; sin quest computer vegnan stizzadas, inclusivamain suandantas:">
+<!ENTITY confirm.client2.label         "Attenziun: Suandantas datas da &brandShortName; sin quest computer vegnan stizzadas:">
 <!ENTITY confirm.client.moreinfo.label "Lura vegn &brandShortName; copiar tias datas da &syncBrand.fullName.label; sin quest computer.">
-<!ENTITY confirm.client.warning.label "ATTENZIUN: Quai chaschuna che tut las datas da &brandShortName; sin quest computer vegnan rempazzadas!">
-<!ENTITY confirm.server.label         "Las datas sin suandants apparats vegnan surscrittas cun las datas localas:">
-<!ENTITY confirm.server.warning.label "ATTENZIUN: Tias datas localas vegnan a remplazzar tut las datas da &brandShortName; sin quests apparats!">
+<!ENTITY confirm.server2.label         "Attenziun: Las datas da suandants apparats vegnan remplazzadas cun las datas da quest computer:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Terminà l'installaziun">
