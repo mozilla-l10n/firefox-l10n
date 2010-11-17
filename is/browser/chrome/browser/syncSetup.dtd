@@ -79,11 +79,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Staðfesta">
 <!ENTITY confirm.merge.label "Þú hefur valið að sameina gögnin þín á þessari tölvu við gögnin á öðrum tækjum sem keyra &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label "Öllum &brandShortName; gögnum á þessari tölvu mun verða eytt, þar á meðal:">
+<!ENTITY confirm.client2.label "Aðvörun: Eftirfarandi &brandShortName; gögn á tölvunni mun verða eytt:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; mun afrita &syncBrand.fullName.label; gögn á þessa tölvu.">
-<!ENTITY confirm.client.warning.label "AÐVÖRUN: Þetta þýðir að öllum &brandShortName; gögnum á þessari tölvu verður skipt út!">
-<!ENTITY confirm.server.label "Eftirfarandi tæki verða yfirskrifuð með gögnum á þessari tölvu:">
-<!ENTITY confirm.server.warning.label "AÐVÖRUN: Gögnin á þessari tölvu verða sett í staðinn fyrir öll gögn &brandShortName; á þessum tækjum!">
+<!ENTITY confirm.server2.label "Aðvörun: Eftirfarandi tæki verða yfirskrifuð með þínum staðbundnu gögnum:">
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Uppsetningu lokið">
 <!ENTITY changeOptions.label "Þú getur breytt þessari stillingu með því að velja Sync stillingar hér fyrir neðan.">

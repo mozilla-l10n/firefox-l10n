@@ -107,7 +107,7 @@
 <!ENTITY createCertInfo.msg2 "Bíðið aðeins…">
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Beiðni um undirskrift á texta">
-<!ENTITY formSigning.cert "Undirskrift skilríkis">
+<!ENTITY formSigning.cert "Undirritunarskrilríki">
 <!ENTITY formSigning.confirmPassword "Til að staðfesta með þínu skilríki að þú samþykkir þennan texta, staðfestu með því að slá inn aðallykilorð:">
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Varin tóka sannvottun">

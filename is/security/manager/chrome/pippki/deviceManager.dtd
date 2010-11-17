@@ -49,10 +49,10 @@
 <!ENTITY devmgr.button.logout.accesskey "S">
 <!ENTITY devmgr.button.changepw.label "Breyta lykilorði">
 <!ENTITY devmgr.button.changepw.accesskey "B">
-<!ENTITY devmgr.button.load.label "Hlaða">
+<!ENTITY devmgr.button.load.label "Hlaða inn">
 <!ENTITY devmgr.button.load.accesskey "l">
-<!ENTITY devmgr.button.unload.label "Afhlaða">
-<!ENTITY devmgr.button.unload.accesskey "A">
+<!ENTITY devmgr.button.unload.label "Taka út">
+<!ENTITY devmgr.button.unload.accesskey "a">
 <!ENTITY devmgr.button.fips.accesskey "F">
 <!ENTITY loaddevice.info "Sláðu inn upplýsingar um eininguna sem þú vilt bæta við.">
 <!ENTITY loaddevice.modname "Eininganafn:">
