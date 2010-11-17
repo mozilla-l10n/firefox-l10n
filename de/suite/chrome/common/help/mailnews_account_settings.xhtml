@@ -684,7 +684,7 @@ h&#228;ngen vom Servertyp (IMAP, POP oder News) des Accounts ab.</p>
   <li><strong>Nachrichten f&#252;r diesen Account auf diesem Rechner behalten</strong>: W&#228;hlen Sie diese Option
     um Nachrichten in Ihren Ordner verf&#252;gbar sein sollen, w&#228;hrend Sie sich im Offline-Modus befinden.
     Diese Einstellunge betrifft alle Ordner auch neu angelegte.</li>
-  <li><strong>Advanced</strong>: Klicken Sie hier um einen Fenster zu &#246;ffnen, in welchen Sie die
+  <li><strong>Advanced</strong>: Klicken Sie hier um ein Fenster zu &#246;ffnen, in welchen Sie die
    Ordner f&#252;r den Offline-Gebrauch markieren k&#246;nnen. Siehe auch
    <a href="mailnews_offline.xhtml#selecting_items_for_offline_viewing">Verschiedene Elemente zum Offline arbeiten ausw&#228;hlen</a>
    f&#252;r mehr Informationen.
@@ -693,8 +693,7 @@ h&#228;ngen vom Servertyp (IMAP, POP oder News) des Accounts ab.</p>
     kann zwar f&#252;r <a href="mailnews_offline.xhtml#downloading_an_individual_folder_for_offline_use">
     einzelne Ordner</a> &#252;berschrieben werden, diese ordnerbasierenden Einstellungen 
     werden jedoch <em>gel&#246;scht</em> wenn Sie die 
-   Option <q>Nachrichten f&#252;r diesen Account auf diesem Rechner behalten</q> aktivieren.</p>
-</li>
+   Option <q>Nachrichten f&#252;r diesen Account auf diesem Rechner behalten</q> aktivieren.</p></li>
   <li><strong>Alle Nachrichten ungeachtet des Alters lokal synchronisieren</strong>:
     Wenn Sie die Syncronisation f&#252;r einen Account oder einen Ordner aktiviert haben,
     werden <em>alle</em> Nachrichten lokal heruntergeladen und gespeichert, auser
@@ -810,21 +809,19 @@ vor (ausgehend vom Mail-Fenster):</p>
 Sie hier an welche Nachrichten Sie nicht lokal herunterladen wollen:</p>
 
 <ul>
+  <li><strong>Gelesene Nachrichten</strong>: Wenn Sie
+      dieses Kontrollk&#228;stchen aktivieren, werden nur Nachrichten
+	  heruntergeladen, die Sie noch nicht gelesen haben.</li>
+
   <li><strong>Keine Nachrichten lokal herunterladen, die gr&#246;&#223;er sind
       als [__] KB</strong>: Wenn Sie dieses Kontrollk&#228;stchen aktivieren,
 	  k&#246;nnen Sie Speicherplatz sparen, indem Sie verhindern, dass
 	  umfangreiche Nachrichten heruntergeladen werden. Geben Sie die maximale
 	  Gr&#246;&#223;e f&#252;r herunterzuladende Nachrichten ein.</li>
 
-  <li><strong>Nur ungelesene Nachrichtentexte herunterladen</strong>: Wenn Sie
-      dieses Kontrollk&#228;stchen aktivieren, werden nur Nachrichten
-	  heruntergeladen, die Sie noch nicht gelesen haben.</li>
-
-
-  <li><strong>Nur Nachrichtentexte der letzten [__] Tage herunterladen</strong>:
-      Wenn Sie dieses Kontrollk&#228;stchen aktivieren, werden nur Nachrichten
-	  herunterladen, die seit dem angegebenen Datum ver&#246;ffentlicht
-	  wurden.</li>
+  <li><strong>Nachrichten die &#228;lter sind als [__] Tage</strong>:
+       Wenn Sie dieses Kontrollk&#228;stchen aktivieren, werden nur Nachrichten
+	  herunterladen, welche nicht &#228;lter sind als die eingestellten Tage.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
@@ -836,14 +833,14 @@ Sie hier an welche Nachrichten Sie nicht lokal herunterladen wollen:</p>
   <strong>Um Speicherplatz freizugeben k&#246;nnen alte Nachrichten dauerhaft gel&#246;scht werden</strong>:</p>
 
 <ul>
-  <li><strong>Keine Nachrichten l&#246;schen</strong>: Alle Nachrichten behalten. Kein Automatisches 
-    L&#246;schen wird durchgef&#252;hrt.</li>
-  <li><strong>Alle l&#246;schen mit Ausnahme der neuesten [__] Nachrichten</strong>: Geben Sie 
-    die Anzahl der Nachrichten an, die Sie behalten wollen. Alle Nachrichten welche &#228;lter als diese 
-    Nachrichten sind werden gel&#246;scht.</li>
-  <li><strong>Nachrichten, die &#228;lter sind als [__] Tage l&#246;schen</strong>:
-    Hierbei werden alle Nachrichten gespeichert die in den angebenen Tagen
-    angekommen sind.</li>
+  <li><strong>Gekennzeichnete Nachrichten immer behalten</strong>: Aktivieren Sie diese Option
+    wenn &brandShortName; gekennzeichnete Nachrichten nicht l&#246;schen soll.</li> 
+  <li><strong>Nachrichtentext f&#252;r Nachrichten entfernen, die &#228;lter 
+    sind als [__] Tage sind</strong>: W&#228;hlen Sie diese Option wenn
+    &brandShortName; Nachrichtentexte, welche &#228;lter sind als die angebenen Tage
+    automatisch l&#246;schen soll (diese Option funktioniert nur 
+    f&#252;r News-Accounts). Optionen welche Nachrichten anhand Ihres 
+    Alters l&#246;schen bleiben trotzdem wirksam.</li>
 </ul>
 
 <p>Mit den folgenden Einstellungen, lassen sich die drei oberen Optionen noch
@@ -989,7 +986,7 @@ bitte folgenden Schritten:</p>
 digital unterschreiben und verschl&#252;sseln k&#246;nnen. Bevor Sie diese
 Einstellungen benutzen k&#246;nnen m&#252;ssen Sie sich ein oder mehrere E-Mail
 Zertifikate besorgen F&#252;r weitere Hinweise siehe
-<a href="mail_sec_help.xhtml">Nachrichten signieren &amp; verschl&#252;sseln</a>.</p>
+<a href="mailnews_security.xhtml">Nachrichten signieren &amp; verschl&#252;sseln</a>.</p>
 
 <p>Wenn Sie die Sicherheitseinstellungen f&#252;r den gew&#252;nschten Account
 noch nicht ansehen, beginnen Sie im Mail-Fenster:</p>
@@ -1064,7 +1061,7 @@ schreiben vor dem Versenden neu festlegen.</p>
 zu ver&#228;ndern, klicken Sie auf den Pfeil unter dem Sicherheitssymbol am
 oberen Rand des Fensters und w&#228;hlen Sie die entsprechende Option. Mehr
 Informationen finden Sie unter
-<a href="mail_sec_help.xhtml#signing_and_encrypting_a_new_message">Neue Nachrichten 
+<a href="mailnews_security.xhtml#signing_and_encrypting_a_new_message">Neue Nachrichten 
 signieren &amp; verschl&#252;sseln</a></p>
 
 <h3 id="encryption">Verschl&#252;sselung</h3>
@@ -1096,7 +1093,7 @@ Versenden jeder einzelnen Nachricht nochmals anders &#252;berlegen.</p>
 zu ver&#228;ndern, klicken Sie auf den Pfeil unter dem Sicherheitssymbol am
 oberen Rand des Fensters und w&#228;hlen Sie die entsprechende Option. Mehr
 Informationen finden Sie unter
-<a href="mail_sec_help.xhtml#signing_and_encrypting_a_new_message">Neue Nachrichten 
+<a href="mailnews_security.xhtml#signing_and_encrypting_a_new_message">Neue Nachrichten 
 signieren &amp; verschl&#252;sseln</a></p>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
