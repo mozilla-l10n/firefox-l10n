@@ -116,7 +116,7 @@
 <!ENTITY  securityView.identity.domain   "Sait web:">
 <!ENTITY  securityView.identity.verifier "Verificat de:">
 
-<!ENTITY  securityView.privacy.header                   "Intimitate și istoric">
+<!ENTITY  securityView.privacy.header                   "Confidențialitate și istoric">
 <!ENTITY  securityView.privacy.history                  "Am mai vizitat acest sait astăzi?">
 <!ENTITY  securityView.privacy.cookies                  "Stochează acest sait informații pe calculatorul meu?">
 <!ENTITY  securityView.privacy.viewCookies              "Vezi cookie-urile">

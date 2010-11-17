@@ -2,9 +2,9 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
+<!ENTITY setup.pickSetupType.description "Bine ați venit, dacă nu ați utilizat până acum &syncBrand.fullName.label; va trebui să vă creați un cont nou.">
 <!ENTITY button.createNewAccount.label "Creează un cont nou">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY button.haveAccount.label "Am un cont &syncBrand.fullName.label;">
 
 <!ENTITY setup.choicePage.title.label     "Ați mai folosit &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "N-am mai folosit niciodată &syncBrand.shortName.label;">
@@ -38,14 +38,14 @@
 <!ENTITY setup.tosAgree2.accesskey  "ș">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ține cont de confidențialitatea datelor dumneavoastră">
+<!ENTITY setup.newSyncKeyPage.description.label "Pentru a asigura total confidențialitatea datelor dumneavoastră, ele sunt criptate înainte de a fi încărcate. Cheia de sincronizare, necesară pentru a decripta datele dumneavoastră, nu este încărcată pe server.">
 <!ENTITY syncKeyEntry.label        "Cheia de sincronizare">
 <!ENTITY syncKeyEntry.accesskey    "C">
 <!ENTITY syncKeyGenerate.label     "Generează">
 <!ENTITY syncKeyStrength.label     "Putere:">
 <!ENTITY syncKeyHelp.label         "Ce înseamnă această putere?">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyBackup.description "Cheia dumneavoastră de sincronizare este necesară pentru a folosi &syncBrand.fullName.label; pe alte dispozitive. Vă rugăm să creați o copie de rezervă. Noi nu vă putem ajuta să vă recuperați cheia de sincronizare.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tipărește…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
@@ -53,7 +53,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "Vă rugăm confirmați că nu sunteți un robot">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Introduceți informațiile despre cont">
@@ -61,10 +61,10 @@
 <!ENTITY connecting.label             "Conectare…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
+<!ENTITY setup.existingSyncKeyPage.title "Vă rugăm să introduceți cheia de sincronizare">
+<!ENTITY setup.existingSyncKeyPage.description "Cheia de sincronizare a fost generată pentru dumneavoastră sau ați introdus propria cheie când v-ați creat un cont pentru &syncBrand.fullName.label;. Aceasta nu este identică cu parola.">
+<!ENTITY existingSyncKeyHelp.description "Puteți găsi cheia de sincronizare mergând pe celălalt calculator și verificând parolele salvate din fila „Securitate”. Dacă tot nu puteți obține cheia corectă de sincronizare, puteți alege să o resetați, dar veți pierde toate datele stocate pe server.">
+<!ENTITY lostSyncKey.label            "Mi-am pierdut cheia de sincronizare">
 <!ENTITY verifying.label              "Se verifică…">
 
 <!-- Sync Options -->
@@ -84,21 +84,19 @@
 <!ENTITY engine.prefs.label         "Preferințe">
 <!ENTITY engine.prefs.accesskey     "P">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.main.label      "Combină datele de pe acest calculator cu datele existente în &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomandat:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.client.main.label     "Înlocuiește toate datele pe acest calculator cu datele din &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Înlocuiește datele celorlalte dispozitive cu datele de pe acest calculator">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confirmare">
 <!ENTITY confirm.merge.label    "Ați ales să combinați datele de pe acest calculator cu datele de pe alte dispozitive care rulează &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label         "Toate datele &brandShortName; de pe acest calculator vor fi șterse, inclusiv următoarele:">
+<!ENTITY confirm.client2.label         "Atenție: Următoarele date &brandShortName; de pe acest calculator vor fi șterse:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; va copia apoi datele din &syncBrand.fullName.label; pe acest calculator.">
-<!ENTITY confirm.client.warning.label "AVERTISMENT: Acest lucru înseamnă că toate datele &brandShortName; de pe acest calculator vor fi înlocuite!">
-<!ENTITY confirm.server.label         "Următoarele dispozitive vor fi suprascrise cu datele dumneavoastră locale:">
-<!ENTITY confirm.server.warning.label "AVERTISMENT: Datele dumneavoastră locale din &brandShortName; vor înlocui datele de pe aceste dispozitive!">
+<!ENTITY confirm.server2.label         "Atenție: Următoarele dispozitive vor fi suprascrise cu datele dumneavoastră locale:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Configurare finalizată">
 <!ENTITY changeOptions.label "Puteți schimba această preferință selectând opțiunile de mai jos.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY continueUsing.label "Puteți folosi &brandShortName; în continuare.">
