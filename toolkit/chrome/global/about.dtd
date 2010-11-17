@@ -1,19 +1,27 @@
 <!ENTITY about.version                "versiun">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008 tar ils">
-<!ENTITY about.copy.linkTitle         "contribuents">
-<!ENTITY about.copy.afterLink         "dal project da Mozilla.">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "Vesair ina glista dals ">
+<!ENTITY about.credits.linkTitle      "contribuents">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " dal project da Mozilla.">
 
-<!ENTITY about.license.beforeLink     "Legia">
+<!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.license.beforeTheLink  "Legia ">
 <!ENTITY about.license.linkTitle      "l'infurmaziun da licenza">
-<!ENTITY about.license.afterLink      "da quest product.">
+<!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.license.afterTheLink   " da quest product.">
 
-<!ENTITY about.relnotes.beforeLink    "Legia las ">
+<!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.relnotes.beforeTheLink "Legia las ">
 <!ENTITY about.relnotes.linkTitle     "notizias da publicaziun">
-<!ENTITY about.relnotes.afterLink     "da questa versiun.">
+<!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.relnotes.afterTheLink  " da questa versiun.">
 
-<!ENTITY about.buildconfig.beforeLink "Vesair la">
+<!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.buildconfig.beforeTheLink "Vesair la ">
 <!ENTITY about.buildconfig.linkTitle  "configuraziun dal build">
-<!ENTITY about.buildconfig.afterLink  "che vegn utilisada per questa versiun.">
+<!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink  " ch'è vegnida utilisada per questa versiun.">
 
 <!ENTITY about.buildIdentifier        "Identificaziun dal build: ">
