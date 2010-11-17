@@ -1,40 +1,40 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "பிழைத்திருத்த தகவல்">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
+  This page contains technical information that  might be useful when you're
   trying to solve a problem. If you are looking for answers to common questions
   about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionsTitle "கூடுதல் இணைப்புகள்">
+<!ENTITY aboutSupport.extensionName "பெயர்">
+<!ENTITY aboutSupport.extensionEnabled "செயல்படுத்தப்பட்டது">
+<!ENTITY aboutSupport.extensionVersion "பதிப்பு">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsTitle "பயன்பாடு அடிப்படைகள்">
+<!ENTITY aboutSupport.appBasicsName "பெயர்">
+<!ENTITY aboutSupport.appBasicsVersion "பதிப்பு">
+<!ENTITY aboutSupport.appBasicsProfileDir "விவரக்குறிப்பு அமைவு">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "செயல்படுத்தப்பட்ட கூடுதல் இணைப்புகள்">
+<!ENTITY aboutSupport.appBasicsBuildConfig "உருவாக்க கட்டமைப்பு">
+<!ENTITY aboutSupport.appBasicsUserAgent "பயனர் முகவர்">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "இருக்கும் கோப்புறையைத் திற">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "தேடியில் காட்டு">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
+<!ENTITY aboutSupport.modifiedPrefsTitle "மாற்றப்பட்ட விருப்பங்கள்">
+<!ENTITY aboutSupport.modifiedPrefsName "பெயர்">
+<!ENTITY aboutSupport.modifiedPrefsValue "மதிப்பு">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "வரைகலை">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.installationHistoryTitle "நிறுவல் வரலாறு">
+<!ENTITY aboutSupport.updateHistoryTitle "வரலாற்றைப் புதுப்பி">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "அனைத்தையும் கிளிப்போர்டில் நகலெடு">

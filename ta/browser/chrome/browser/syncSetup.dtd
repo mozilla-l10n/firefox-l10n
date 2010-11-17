@@ -29,16 +29,16 @@
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
-<!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
+<!ENTITY setup.tosAgree1.label      "சேவையின் விதிமுறை">
+<!ENTITY setup.tosAgree1.accesskey  "மற்றும்a">
+<!ENTITY setup.tosLink.label        "தனிமை கொள்கை">
+<!ENTITY setup.tosAgree2.label      "நான்">
+<!ENTITY setup.ppLink.label         "ஏற்கிறேன்">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; உங்கள் தனிமை பற்றி கவனம் கொள்கிறது">
 <!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
 <!ENTITY syncKeyEntry.label        "உங்கள் ஒத்திசை விசை">
 <!ENTITY syncKeyEntry.accesskey    "K">
@@ -84,19 +84,19 @@
 <!ENTITY engine.prefs.label         "விருப்பங்கள்">
 <!ENTITY engine.prefs.accesskey     "S">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.merge.main.label      "Merge this  computer's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.recommended.label "பரிந்துரைக்கப்பட்டது:">
+<!ENTITY choice2.client.main.label     "Replace all data on this  computer with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.server.main.label     "Replace all other devices  with this computer's data">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "உறுதிப்படுத்து">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will  now merge all this computer's browser data into your Sync account.">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then  copy your &syncBrand.fullName.label; data to this computer.">
+<!ENTITY confirm.client2.label         "Warning: The following &brandShortName;  data on this computer will be deleted:">
+<!ENTITY confirm.server2.label         "Warning: The following devices will be  overwritten with your local data:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "அமைவு முடிந்தது">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY changeOptions.label "You can change this preference by selecting  Sync Options below.">
+<!ENTITY continueUsing.label "You may now  continue using &brandShortName;.">
