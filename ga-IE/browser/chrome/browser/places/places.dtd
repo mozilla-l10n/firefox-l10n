@@ -126,8 +126,8 @@
 <!ENTITY detailsPane.noPreviewAvailable.label "Réamhamharc">
 <!ENTITY detailsPane.selectAnItemText.description "Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar">
 
-<!ENTITY find.label "Search:">
-<!ENTITY find.accesskey "S">
+<!ENTITY find.label "Cuardaigh:">
+<!ENTITY find.accesskey "C">
 <!ENTITY view.label "Amharc">
 <!ENTITY view.accesskey "m">
 <!ENTITY byDate.label "De réir Dáta">

@@ -92,11 +92,9 @@
 
 <!ENTITY setup.optionsConfirmPage.title "Dearbhaigh">
 <!ENTITY confirm.merge.label "Cumascfaidh &syncBrand.fullName.label; na sonraí go léir ar an ríomhaire seo le do chuntas Sync.">
-<!ENTITY confirm.client.label "Scriosfar na sonraí &brandShortName; go léir ar an ríomhaire seo, na sonraí seo a leanas san áireamh:">
+<!ENTITY confirm.client2.label "Warning: The following &brandShortName; data on this computer will be deleted:">
 <!ENTITY confirm.client.moreinfo.label "Cóipeálfaidh &brandShortName; do chuid sonraí &syncBrand.fullName.label; go dtí an ríomhaire seo.">
-<!ENTITY confirm.client.warning.label "RABHADH: Scriosfar na sonraí &brandShortName; go léir ón ríomhaire seo!">
-<!ENTITY confirm.server.label "Forscríobhfar na gléasanna seo a leanas leis na sonraí logánta:">
-<!ENTITY confirm.server.warning.label "RABHADH: Cuirfear do chuid sonraí logánta in áit na sonraí &brandShortName; go léir ar na gléasanna seo!">
+<!ENTITY confirm.server2.label "Warning: The following devices will be overwritten with your local data:">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Críochnaithe">
