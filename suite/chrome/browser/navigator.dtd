@@ -82,8 +82,8 @@
 <!ENTITY searchInternetCmd.label "Cerca nel web">
 <!ENTITY searchInternetCmd.accesskey "C">
 <!ENTITY searchInternet.commandKey "s">
-<!ENTITY clearPrivateDataCmd.label "Svuota dati personali…">
-<!ENTITY clearPrivateDataCmd.accesskey "v">
+<!ENTITY clearPrivateDataCmd.label "Elimina dati personali…">
+<!ENTITY clearPrivateDataCmd.accesskey "E">
 <!ENTITY goMenu.label "Vai">
 <!ENTITY goMenu.accesskey "a">
 <!ENTITY goHomeCmd.label "Home">

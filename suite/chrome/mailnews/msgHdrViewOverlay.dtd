@@ -19,7 +19,7 @@
 <!ENTITY editMessage.label "Modifica bozza…">
 <!ENTITY editMessage.accesskey "b">
 <!ENTITY attachmentsTree.label "Allegati:">
-<!ENTITY attachmentsTree.accesskey "c">
+<!ENTITY attachmentsTree.accesskey "t">
 <!ENTITY openAttachmentCmd.label "Apri">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY viewAttachmentCmd.label "Visualizza sorgente">
