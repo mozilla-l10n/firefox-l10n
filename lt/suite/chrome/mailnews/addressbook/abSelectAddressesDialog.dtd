@@ -58,6 +58,7 @@
 <!ENTITY lookIn.accesskey                    "u"> 
 <!ENTITY for.label                           "Ko ieškoti:"> 
 <!ENTITY for.accesskey                       "e"> 
+<!ENTITY for.placeholder                     "Asmenvardis arba el. pašto adresas">
 <!ENTITY addressMessageTo.label              "Laiško adresatas(-ai):"> 
 
 <!-- Tooltips items -->  

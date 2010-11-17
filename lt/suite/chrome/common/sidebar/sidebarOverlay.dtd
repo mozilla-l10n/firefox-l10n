@@ -63,3 +63,7 @@
 <!ENTITY sidebar.close.tooltip       "Užverti parankinę">
 <!ENTITY sidebar.open.tooltip        "Atverti parankinę">
 
+<!ENTITY sidebar.search.label               "Paieška">
+<!ENTITY sidebar.client-bookmarks.label     "Adresynas">
+<!ENTITY sidebar.client-history.label       "Žurnalas">
+<!ENTITY sidebar.client-addressbook.label   "Adresų knyga">
