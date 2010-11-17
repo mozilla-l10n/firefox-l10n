@@ -1,6 +1,6 @@
 amazondotcom
 answers
-creativecommons
+bing
 google
 yahoo
 wikipedia-fa
