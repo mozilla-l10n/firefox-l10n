@@ -43,27 +43,27 @@
 <!ENTITY certmgr.tab.orphan2 "Annað">
 <!ENTITY certmgr.ca.builtins "Innbyggt CA">
 <!ENTITY certmgr.ca.mycas "CA sem þú sérð um">
-<!ENTITY certmgr.mine "Þú ert með skilríki frá þessum stofnunum sem auðkenna þig:">
-<!ENTITY certmgr.others "Þú ert með skilríki í skrám sem auðkenna þetta fólk:">
-<!ENTITY certmgr.websites2 "Þú ert með skilríki í skrá sem auðkenna þessi vefsvæði:">
-<!ENTITY certmgr.cas "Þú ert með skilríki í skrám sem auðkenna þessar vottunarstöðvar:">
-<!ENTITY certmgr.orphans "Þú ert með skilríki í skrá sem passa ekki við neina aðra flokka:">
+<!ENTITY certmgr.mine "Skilríki frá stofnunum sem auðkenna þig:">
+<!ENTITY certmgr.others "Skilríki sem auðkenna þetta fólk:">
+<!ENTITY certmgr.websites2 "Skilríki sem auðkenna þessi vefsvæði:">
+<!ENTITY certmgr.cas "Skilríki sem auðkenna þessar vottunarstöðvar:">
+<!ENTITY certmgr.orphans "Skilríki sem passa ekki í neina aðra flokka:">
 <!ENTITY certmgr.detail.general_tab.title "Almennt">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Nánar">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "N">
 <!ENTITY certmgr.pending.label "Er að sannvotta skilríki…">
-<!ENTITY certmgr.subjectinfo.label "Gefið út á">
+<!ENTITY certmgr.subjectinfo.label "Gefið út fyrir">
 <!ENTITY certmgr.issuerinfo.label "Gefið út af">
-<!ENTITY certmgr.validity.label "Gildi">
+<!ENTITY certmgr.validity.label "Gildir">
 <!ENTITY certmgr.fingerprints.label "Fingraför">
 <!ENTITY certmgr.certdetail.title "Nánar um skilríki">
 <!ENTITY certmgr.certdetail.cn "Almennt nafn (CN)">
 <!ENTITY certmgr.certdetail.o "Stofnun (O)">
 <!ENTITY certmgr.certdetail.ou "Stofnunareining (OU)">
 <!ENTITY certmgr.certdetail.serialnumber "Raðnúmer">
-<!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 Fingrafar">
-<!ENTITY certmgr.certdetail.md5fingerprint "MD5 Fingrafar">
+<!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 fingrafar">
+<!ENTITY certmgr.certdetail.md5fingerprint "MD5 fingrafar">
 <!ENTITY certmgr.editcert.title "Breyta stillingum skilríkis">
 <!ENTITY certmgr.editcacert.title "Breyta stillingum CA skilríkja trausts">
 <!ENTITY certmgr.editsslcert.title "Breyta stillingum skilríkis vefsvæðis">
@@ -114,12 +114,12 @@
 <!ENTITY certmgr.backupall2.accesskey "f">
 <!ENTITY certmgr.restore2.label "Flytja inn…">
 <!ENTITY certmgr.restore2.accesskey "i">
-<!ENTITY certmgr.details.label "Svæði skilríkis">
+<!ENTITY certmgr.details.label "Skilríkjasvæði">
 <!ENTITY certmgr.details.accesskey "S">
-<!ENTITY certmgr.fields.label "Gildi svæðis">
-<!ENTITY certmgr.fields.accesskey "v">
+<!ENTITY certmgr.fields.label "Gildi">
+<!ENTITY certmgr.fields.accesskey "G">
 <!ENTITY certmgr.hierarchy.label "Stigskipting skilríkja">
-<!ENTITY certmgr.hierarchy.accesskey "S">
+<!ENTITY certmgr.hierarchy.accesskey "t">
 <!ENTITY certmgr.addException.label "Bæta við undantekningu…">
 <!ENTITY certmgr.addException.accesskey "u">
 <!ENTITY exceptionMgr.title "Bæta við öryggisfrávik">
@@ -132,6 +132,6 @@
 <!ENTITY exceptionMgr.certlocation.accesskey "N">
 <!ENTITY exceptionMgr.certstatus.caption "Staða skilríkis">
 <!ENTITY exceptionMgr.certstatus.viewCert "Skoða…">
-<!ENTITY exceptionMgr.certstatus.accesskey "S">
+<!ENTITY exceptionMgr.certstatus.accesskey "k">
 <!ENTITY exceptionMgr.permanent.label "Geyma þessa undanþágu til frambúðar">
 <!ENTITY exceptionMgr.permanent.accesskey "G">
