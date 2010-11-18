@@ -107,3 +107,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pageactions.findInPage      "Znajdź na stronie">
 <!ENTITY pageactions.search.addNew   "Dodaj silnik wyszukiwania">
 
+<!ENTITY selectHelper.emptytext      "Zawęź listę">
