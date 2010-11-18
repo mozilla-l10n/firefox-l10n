@@ -43,9 +43,9 @@
 <!ENTITY addonInstall2.label       "Dodaj">
 <!ENTITY addonUninstall.label      "Odinstaluj">
 <!ENTITY addonCancel.label         "Anuluj">
-<!ENTITY addonShowPage.label       "Idź do strony">
+<!ENTITY addonShowPage.label       "Przejdź do strony">
 <!ENTITY downloadsHeader.label     "Pobieranie plików">
-<!ENTITY downloadShowPage.label    "Idź do strony">
+<!ENTITY downloadShowPage.label    "Przejdź do strony">
 <!ENTITY downloadShow2.label       "Znajdź">
 <!ENTITY downloadOpen2.label       "Otwórz">
 <!ENTITY downloadCancel.label      "Anuluj">
@@ -57,7 +57,7 @@
 <!ENTITY downloadDelete.label      "Usuń">
 <!ENTITY downloadFailed.label      "Pobieranie nie powiodło się">
 <!ENTITY noResults.label           "Brak wyników">
-<!ENTITY allBookmarks.label        "Pokaż wszystkie zakładki">
+<!ENTITY allBookmarks.label        "Wyświetl wszystkie zakładki">
 <!ENTITY bookmarkPopup.label       "Zakładka dodana">
 <!ENTITY bookmarkRemove.label      "Usuń">
 <!ENTITY bookmarkEdit.label        "Edytuj">
