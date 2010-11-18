@@ -10,6 +10,7 @@
 <!ENTITY closetab.label        "Zamknij kartę">
 <!ENTITY cut.label             "Wytnij">
 <!ENTITY copy.label            "Skopiuj">
+<!ENTITY copyAll.label         "Skopiuj wszystko">
 <!ENTITY copylink.label        "Skopiuj adres odnośnika">
 <!ENTITY paste.label           "Wklej">
 <!ENTITY delete.label          "Usuń">
