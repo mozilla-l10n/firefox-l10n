@@ -20,8 +20,6 @@
    -
    - Contributor(s):
    -   Stephen Lamm <slamm@netscape.com>
-   -   Blake Ross <BlakeR1234@aol.com>
-   -   Samir Gehani <sgehani@netscape.com>
    -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -60,3 +58,7 @@
 <!ENTITY sidebar.pagenotfound.label "Этот раздел сейчас недоступен.">
 <!ENTITY sidebar.close.tooltip "Закрыть боковую панель">
 <!ENTITY sidebar.open.tooltip "Открыть боковую панель">
+<!ENTITY sidebar.search.label "Поиск">
+<!ENTITY sidebar.client-bookmarks.label "Закладки">
+<!ENTITY sidebar.client-history.label "Журнал посещений">
+<!ENTITY sidebar.client-addressbook.label "Адресная книга">
