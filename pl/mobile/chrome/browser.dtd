@@ -17,6 +17,7 @@
 <!ENTITY selectAll.label       "Zaznacz wszystko">
 <!ENTITY noSuggestions.label   "(Brak podpowiedzi)">
 <!ENTITY addToDictionary.label "Dodaj do słownika">
+<!ENTITY inputMethod.label     "Metoda wprowadzania">
 
 <!ENTITY allPagesHeader.label      "Wszystkie strony">
 <!ENTITY bookmarksHeader.label     "Zakładki">
@@ -109,6 +110,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pageactions.search.addNew   "Dodaj silnik wyszukiwania">
 
 <!ENTITY selectHelper.emptytext      "Zawęź listę">
-<!ENTITY inputMethod.label           "Metoda wprowadzania">
 
 <!ENTITY appMenu.siteOptions         "Informacje o stronie">
