@@ -9,7 +9,7 @@
 <!ENTITY listEmpty.button.label "Tuilleadh eolais faoi bhreiseáin">
 <!ENTITY installAddonFromFile.label "Suiteáil Breiseán Ó Chomhad…">
 <!ENTITY installAddonFromFile.accesskey "S">
-<!ENTITY toolsMenu.tooltip "Tools for all add-ons">
+<!ENTITY toolsMenu.tooltip "Uirlisí le haghaidh na mbreiseán go léir">
 
 <!ENTITY cmd.back.tooltip "Leathanach amháin siar">
 <!ENTITY cmd.forward.tooltip "Leathanach amháin ar aghaidh">
@@ -21,7 +21,7 @@
 <!ENTITY warning.checkcompatibility.enable.tooltip "Cumasaigh seiceáil chomhoiriúnacht na mbreiseán">
 <!ENTITY warning.updatesecurity.label "Add-on update security checking is disabled. You may be compromised by updates.">
 <!ENTITY warning.updatesecurity.enable.label "Cumasaigh">
-<!ENTITY warning.updatesecurity.enable.tooltip "Enable add-on update security checking">
+<!ENTITY warning.updatesecurity.enable.tooltip "Cumasaigh seiceáil slándála ar nuashonruithe breiseán">
 <!-- categories / views -->
 
 <!ENTITY view.search.label "Cuardach">
