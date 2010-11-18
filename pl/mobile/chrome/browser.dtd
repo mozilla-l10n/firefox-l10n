@@ -40,7 +40,7 @@
 <!ENTITY addonOptions.label        "Opcje">
 <!ENTITY addonEnable.label         "Włącz">
 <!ENTITY addonDisable.label        "Wyłącz">
-<!ENTITY addonInstall2.label       "Dodaj do programu &brandShortName;">
+<!ENTITY addonInstall2.label       "Dodaj">
 <!ENTITY addonUninstall.label      "Odinstaluj">
 <!ENTITY addonCancel.label         "Anuluj">
 <!ENTITY addonShowPage.label       "Idź do strony">
