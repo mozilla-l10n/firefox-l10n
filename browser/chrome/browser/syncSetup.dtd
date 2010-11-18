@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "مرحبًا بك. إذا لم تكن قد استخدمت &syncBrand.fullName.label; من قبل، ستحتاج إلى إنشاء حساب جديد.">
+<!ENTITY setup.pickSetupType.description "مرحبًا بك. إذا لم تكن قد استخدمت &syncBrand.fullName.label; من قبل فستحتاج إلى إنشاء حساب جديد.">
 <!ENTITY button.createNewAccount.label "أنشئ حسابًا جديدًا">
 <!ENTITY button.haveAccount.label "لديّ حساب &syncBrand.fullName.label;">
 
@@ -92,11 +92,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "تأكيد">
 <!ENTITY confirm.merge.label    "سوف يدمج &syncBrand.fullName.label; الآن بيانات تصفح هذا الحاسوب في حساب تزامُن الخاص بك.">
-<!ENTITY confirm.client.label         "سوف تُحذف جميع بيانات &brandShortName; من هذا الحاسوب متضمنة التالي:">
+<!ENTITY confirm.client2.label         "تحذير: ستُحذف بيانات &brandShortName; التالية من هذا الحاسوب:">
 <!ENTITY confirm.client.moreinfo.label "ثم سينسخ &brandShortName; بياناتك في &syncBrand.fullName.label; إلى هذا الحاسوب.">
-<!ENTITY confirm.client.warning.label "تحذير: النتيجة أن جميع بيانات &brandShortName; في هذا الحاسوب سوف تُستبدل!">
-<!ENTITY confirm.server.label         "سوف تُستبدل بيانات الأجهزة التالية ببياناتك المحلية:">
-<!ENTITY confirm.server.warning.label "تحذير: سوف تستبدل بياناتك المحلية جميع بيانات &brandShortName; في هذه الأجهزة!">
+<!ENTITY confirm.server2.label         "تحذير: بيانات الأجهزة التالية ستُستبدل ببياناتك المحلية:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "اكتمل الإعداد">

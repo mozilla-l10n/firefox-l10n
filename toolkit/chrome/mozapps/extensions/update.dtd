@@ -6,7 +6,7 @@
 <!ENTITY offline.toggleOffline.accesskey "ص">
 
 <!ENTITY mismatch.win.title "إضافات غير متوافقة">
-<!ENTITY mismatch.top.label "الإضافات التالية غير متوافقة من هذا الإصدار من &brandShortName; و تم تعطيلها:">
+<!ENTITY mismatch.top.label "الإضافات التالية غير متوافقة من هذا الإصدار من &brandShortName; ولذلك عُطّلت:">
 <!ENTITY mismatch.bottom.label "يستطيع &brandShortName; أن يلتمس وجود إصدارات متوافقة من هذه الإضافات.">
 
 <!ENTITY checking.wizard.title "التمس إضافات متوافقة">
@@ -44,6 +44,6 @@
 <!-- general strings used by several of the finish pages -->
 
 <!ENTITY clickFinish.label "اضغط أنهِ لمواصلة تشغيل &brandShortName;.">
-<!ENTITY clickFinish.labelMac "انقر تمّ لمتابعة بدء &brandShortName;.">
+<!ENTITY clickFinish.labelMac "انقر 'تمّ' لمتابعة بدء &brandShortName;.">
 <!ENTITY enableChecking.label "اسمح ل&brandShortName; بالبحث عن تحديثات.">
 

@@ -125,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "ق">
 <!ENTITY detailsPane.noPreviewAvailable.label "معاينة">
 <!ENTITY detailsPane.selectAnItemText.description "اختر عنصرًا لعرضه وتحرير خصائصه">
+
+<!ENTITY find.label               "ابحث:">
+<!ENTITY find.accesskey           "ث">
+<!ENTITY view.label               "اعرض">
+<!ENTITY view.accesskey           "ع">
+<!ENTITY byDate.label             "حسب التاريخ">
+<!ENTITY byDate.accesskey         "ت">
+<!ENTITY bySite.label             "حسب الموقع">
+<!ENTITY bySite.accesskey         "م">
+<!ENTITY byMostVisited.label      "حسب أكثر زيارة">
+<!ENTITY byMostVisited.accesskey  "ح">
+<!ENTITY byLastVisited.label      "حسب آخر زيارة">
+<!ENTITY byLastVisited.accesskey  "س">
+<!ENTITY byDayAndSite.label       "حسب التاريخ والموقع">
+<!ENTITY byDayAndSite.accesskey   "ق">
