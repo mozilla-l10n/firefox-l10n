@@ -105,3 +105,19 @@
 <!ENTITY maintenance.tooltip    "మీ యిష్టాంశములను దిగుమతిచేయుము మరియు బ్యాకప్ వుంచుము">
 <!ENTITY organize.tooltip      "మీ యిష్టాంశములను నిర్వహించు">
 <!ENTITY views.tooltip                  "మీరు దర్శించురీతి మార్చుము">
+
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY byDate.label             "తేదీ అనుసరించి">
+<!ENTITY byDayAndSite.accesskey   "t">
+<!ENTITY byDayAndSite.label       "తేదీ మరియు సైటు అనుసరించి">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byLastVisited.label      "చివరిసారిగా చూసిన దానిననుసరించి">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byMostVisited.label      "ఎక్కవగా చూసిన దానిననుసరించి">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY bySite.label             "సైటు అనుసరించి">
+<!ENTITY find.accesskey           "S">
+<!ENTITY find.label               "వెతుకు:">
+<!ENTITY search.in.label                           "దీనినందు వెతుకు:">
+<!ENTITY view.accesskey           "w">
+<!ENTITY view.label               "దర్శించు">

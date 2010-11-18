@@ -50,11 +50,6 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>ఫైల్ మెనులో &quot;ఆఫ్‌లైన్‌గా పనిచేయి&quot;ను అన్‌చెక్  చేసి,అప్పుడు మరలా ప్రయత్నించండి.</li>
-</ul>
-">
 
 <!ENTITY netReset.title "అనుసంధానం గతంలోవలె వుంచబడింది">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -116,8 +111,6 @@
 </ul>
 ">
 <!ENTITY malwareBlocked.title "దాడిచేయునదని అనుమానించిన సైటు!">
-<!ENTITY securityOverride.warningText "
-<p>మీరు పూర్తిగా నమ్మని ఇంటర్‌నెట్  అనుసంధానంను ఉపయోగిస్తున్నా లేదా ఈ సేవికగురించి హెచ్చరికను చూడకపోయినా మీరు ఆక్షేపనను జతచేయకూడదు.</p>">
 <!ENTITY malwareBlocked.longDesc "
 <p>దాడిచేయు సైటులు మీవ్యక్తిగత సమాచారాన్ని దొంగిలించు ప్రోగ్రామ్సును  సంస్థాపించుటకు ప్రయత్నిస్తాయి, ఇతరులపై దాడిచేయుటకు మీకంప్యూటర్‌ను వుపయోగిస్తాయి, లేదా మీసిస్టమ్‌ను నాశనంచేస్తాయి.</p>
 <p>తమసైటు దాడిచేయు  సైటు అని నివేదించుట తప్పని యజమానులు భావిస్తే  <a href='http://www.stopbadware.org/home/reviewinfo' >పునఃపరిశీల అభ్యర్దన</a> చేయవచ్చు.</p>
@@ -149,3 +142,29 @@
 ">
 <!ENTITY nssFailure2.title "రక్షిత అనుసంధానం విఫలమైంది">
 <!ENTITY securityOverride.linkText "లేదా మీరు ఒక ఆక్షేపణను జతచేయగలరు…">
+
+<!ENTITY cspFrameAncestorBlocked.title "కాంటెంట్ రక్షణ విధానము చేత నిలిపివేయబడెను">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; యీ పేజీను యీ మార్గములో లోడగుటనుండి నిరోధిస్తోంది యెంచేతంటే యీ పేజీ కాంటెంట్ రక్షణ విధానమును కలిగివుంది అది దీనిని అనుమతించుటలేదు.</p>">
+
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>&quot;ఆఫ్‌లైన్‌గా పనిచేయి&quot; అను మెనూ అంశము అన్‌చెక్  చేసి,అప్పుడు మరలా ప్రయత్నించండి..</li>
+</ul>
+">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "
+<p>మీరు పూర్తిగా నమ్మని ఇంటర్‌నెట్  అనుసంధానంను ఉపయోగిస్తున్నా లేదా ఈ సేవికగురించి హెచ్చరికను చూడకపోయినా మీరు ఆక్షేపనను జతచేయకూడదు.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
