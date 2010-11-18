@@ -94,6 +94,7 @@
 <!ENTITY col.dateadded.label "مُضاف">
 <!ENTITY col.lastmodified.label "آخر تعديل">
 
+<!ENTITY search.in.label                           "ابحث في:">
 <!ENTITY search.label "ابحث:">
 <!ENTITY search.accesskey "ب">
 <!ENTITY search.scopeBookmarks.label               "العلامات">

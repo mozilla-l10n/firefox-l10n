@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "قص">
 <!ENTITY copy.label            "انسخ">
+<!ENTITY copyAll.label         "انسخ الكل">
 <!ENTITY copylink.label        "انسخ وصلة الموقع">
 <!ENTITY paste.label           "الصق">
 <!ENTITY delete.label          "احذف">
 <!ENTITY selectAll.label       "اختر الكل">
 <!ENTITY noSuggestions.label   "(لا اقتراحات)">
 <!ENTITY addToDictionary.label "أضِف إلى القاموس">
+<!ENTITY inputMethod.label     "اختر طريقة الإدخال">
 
 <!ENTITY allPagesHeader.label      "كل الصفحات">
 <!ENTITY bookmarksHeader.label     "العلامات">
@@ -106,3 +108,7 @@
 <!ENTITY pageactions.reset           "امسح تفضيلات الموقع">
 <!ENTITY pageactions.findInPage      "ابحث في الصفحة">
 <!ENTITY pageactions.search.addNew   "أضِف محرك بحث">
+
+<!ENTITY selectHelper.emptytext      "لائحة الترشيح">
+
+<!ENTITY appMenu.siteOptions         "خيارات الموقع">
