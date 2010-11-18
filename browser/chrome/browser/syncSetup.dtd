@@ -50,7 +50,7 @@
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
 <!ENTITY button.syncKeyBackup.save.label      "Lagre …">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+<!ENTITY button.syncKeyBackup.save.accesskey  "L">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Stadfest at du ikkje er ein robot">
