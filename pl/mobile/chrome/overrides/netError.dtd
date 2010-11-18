@@ -105,7 +105,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Ta stronia nie przekierowuje poprawnie">
+<!ENTITY redirectLoop.title "Ta strona nie przekierowuje poprawnie">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Ten problem może być czasem powodowany przez wyłączenie lub odmowe przyjęcia
