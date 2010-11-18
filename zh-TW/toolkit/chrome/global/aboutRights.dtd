@@ -34,7 +34,7 @@
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "一些 &brandShortName; 的功能將會用到以網頁為基礎的資訊服務，然而，我們無法保證這些資料完全正確或是沒有錯誤。關於更多詳情，包含如何停用會使用到這些服務的功能，可以在 ">
 <!ENTITY rights.intro-point4b "服務聲明條款">
-<!ENTITY rights.intro-point4c "可以找到更多資訊，包括如何停用這些服務的說明。">
+<!ENTITY rights.intro-point4c "找到更多資訊，包括如何停用這些服務的說明。">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "若此產品包含任何網站資訊服務，適用的服務條款應寫在">

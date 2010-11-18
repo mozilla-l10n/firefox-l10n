@@ -39,7 +39,7 @@
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; 在乎您的隱私">
-<!ENTITY setup.newSyncKeyPage.description.label "為了確保您的隱私資料的安全，您所有的資料都會在上傳前被加密。同時也需要金鑰來解密還沒有上傳的資料。">
+<!ENTITY setup.newSyncKeyPage.description.label "為了確保您的隱私，您所有的資料都會在上傳前被加密。同時也需要金鑰來解密還沒有上傳的資料。">
 <!ENTITY syncKeyEntry.label        "您的同步金鑰">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "產生">
@@ -84,14 +84,14 @@
 <!ENTITY engine.prefs.label         "偏好設定">
 <!ENTITY engine.prefs.accesskey     "s">
 
-<!ENTITY choice2.merge.main.label      "將這台電腦的資料與您的 &syncBrand.shortName.label; 資料合併">
+<!ENTITY choice2.merge.main.label      "將此電腦的資料與我的 &syncBrand.shortName.label; 資料合併">
 <!ENTITY choice2.merge.recommended.label "建議的:">
-<!ENTITY choice2.client.main.label     "使用您 &syncBrand.shortName.label; 上的資料取代這台電腦所有的資料">
-<!ENTITY choice2.server.main.label     "使用本地資料取代您其他裝置上的資料">
+<!ENTITY choice2.client.main.label     "用我的 &syncBrand.shortName.label; 資料取代此電腦上的全部資料">
+<!ENTITY choice2.server.main.label     "用此電腦的資料取代全部其他裝置的資料">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "確認">
-<!ENTITY confirm.merge.label    "您選擇將這台電腦上的資料與其他執行 &syncBrand.fullName.label; 的裝置合併。">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; 現在將會把此瀏覽器的所有資料合併到您的 Sync 帳號中。">
 <!ENTITY confirm.client2.label         "警告: 這台電腦上 &brandShortName; 的以下資料將會被刪除:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; 將會複製您 &syncBrand.fullName.label; 上的資料到這台電腦。">
 <!ENTITY confirm.server2.label         "警告: 以下這些裝置中的資料將會被您目前的本地資料覆蓋:">

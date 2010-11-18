@@ -1,0 +1,21 @@
+<!ENTITY sync.title                 "同步">
+<!ENTITY sync.notconnected          "未連線">
+<!ENTITY sync.connect               "連線">
+<!ENTITY sync.connected             "已連線">
+<!ENTITY sync.details               "詳細資訊">
+<!ENTITY sync.synchronize.label     "同步">
+<!ENTITY sync.synchronize.yes       "開啟">
+<!ENTITY sync.synchronize.no        "關閉">
+<!ENTITY sync.deviceName            "此裝置">
+<!ENTITY sync.disconnect            "取消連線">
+<!ENTITY sync.syncNow               "立刻同步">
+
+<!ENTITY sync.setup.title           "連線到 Sync">
+<!ENTITY sync.setup.jpake           "從一台已經連線到 Firefox Sync 的電腦，點一下同步選項並選擇「新增裝置」">
+<!ENTITY sync.fallback              "我不在電腦旁邊…">
+<!ENTITY sync.setup.manual          "請輸入您的 Sync 帳號資訊">
+<!ENTITY sync.account               "帳號名稱">
+<!ENTITY sync.password              "密碼">
+<!ENTITY sync.syncKey               "同步金鑰">
+<!ENTITY sync.customServer          "使用自訂伺服器">
+<!ENTITY sync.serverURL             "伺服器網址">
