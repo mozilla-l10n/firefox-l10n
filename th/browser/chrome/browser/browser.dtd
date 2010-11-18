@@ -177,7 +177,7 @@ can reach it easily. -->
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "ส่วนเสริม">
 <!ENTITY addons.accesskey "ส">
-<!ENTITY addons.commandkey            "ส">
+<!ENTITY addons.commandkey            "a">
 
 <!ENTITY errorConsoleCmd.label "หน้าจอข้อผิดพลาด">
 <!ENTITY errorConsoleCmd.accesskey "จ">
