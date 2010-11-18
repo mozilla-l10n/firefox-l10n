@@ -71,7 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "书签工具栏项">
 <!ENTITY addonBarCmd.label "附加组件栏">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "页面源代码">
 <!ENTITY pageSourceCmd.accesskey "o">
