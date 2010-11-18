@@ -62,3 +62,8 @@
 <!ENTITY sidebar.pagenotfound.label "Ce panneau n'est pas disponible actuellement.">
 <!ENTITY sidebar.close.tooltip "Fermer">
 <!ENTITY sidebar.open.tooltip "Ouvrir">
+
+<!ENTITY sidebar.search.label         "Rechercher">
+<!ENTITY sidebar.client-bookmarks.label     "Marque-pages">
+<!ENTITY sidebar.client-history.label       "Historique">
+<!ENTITY sidebar.client-addressbook.label   "Carnet d'adresses">
