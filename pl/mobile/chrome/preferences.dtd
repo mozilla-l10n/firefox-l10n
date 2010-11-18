@@ -18,11 +18,3 @@
 <!ENTITY homepage.none                             "Pusta strona">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Użyj aktualnej strony">
-<!ENTITY sync.title                                "Sync">
-<!ENTITY sync.account2                             "Nazwa konta">
-<!ENTITY sync.password                             "Hasło">
-<!ENTITY sync.syncKey                              "Klucz Sync">
-<!ENTITY sync.deviceName                           "Nazwa urządzenia">
-<!ENTITY sync.connect                              "Połącz">
-<!ENTITY sync.disconnect                           "Rozłącz">
-<!ENTITY sync.syncNow                              "Zsynchronizuj">
