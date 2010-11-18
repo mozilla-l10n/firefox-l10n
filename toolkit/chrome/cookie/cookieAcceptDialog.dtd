@@ -2,7 +2,7 @@
 <!ENTITY props.value.label "المحتوى:">
 <!ENTITY props.domain.label "المستضيف:">
 <!ENTITY props.path.label "المسار:">
-<!ENTITY props.secure.label "أرسِل لـ:">
+<!ENTITY props.secure.label "أرسِل ل‍:">
 <!ENTITY props.expires.label "انتهاء الصلاحية:">
 <!ENTITY props.policy.label "السياسة:">
 

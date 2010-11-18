@@ -33,7 +33,7 @@
 <!ENTITY SSLport.accesskey "ن">
 <!ENTITY FTPport.accesskey "ف">
 <!ENTITY SOCKSport.accesskey "ذ">
-<!ENTITY noproxy.label "لا وسيط لـ:">
+<!ENTITY noproxy.label "لا وسيط ل‍:">
 <!ENTITY noproxy.accesskey "ل">
 <!ENTITY noproxyExplain.label "مثلًا: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY shareproxy.label "استعمل هذا الخادوم الوسيط لكل البروتوكولات">
