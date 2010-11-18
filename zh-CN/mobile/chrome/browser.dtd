@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "剪切">
 <!ENTITY copy.label            "复制">
+<!ENTITY copyAll.label         "复制全部">
 <!ENTITY copylink.label        "复制链接地址">
 <!ENTITY paste.label           "粘贴">
 <!ENTITY delete.label          "删除">
 <!ENTITY selectAll.label       "全选">
 <!ENTITY noSuggestions.label   "(无建议)">
 <!ENTITY addToDictionary.label "添加至字典">
+<!ENTITY inputMethod.label     "选择输入法">
 
 <!ENTITY allPagesHeader.label      "全部页">
 <!ENTITY bookmarksHeader.label     "书签">
@@ -106,3 +108,7 @@
 <!ENTITY pageactions.reset           "清除网站首选设置">
 <!ENTITY pageactions.findInPage      "页内查找">
 <!ENTITY pageactions.search.addNew   "添加搜索引擎">
+
+<!ENTITY selectHelper.emptytext      "过滤器列表">
+
+<!ENTITY appMenu.siteOptions         "站点选项">
