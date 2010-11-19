@@ -1,13 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Sécurité">
-<!ENTITY securityMenu.accesskey "c">
-
 <!ENTITY menu_securityEncryptRequire.label "Chiffrer ce message">
 <!ENTITY menu_securityEncryptRequire.accesskey "r">
-
-<!ENTITY menu_securityNoEncryption.label "Ne pas chiffrer ce message">
-<!ENTITY menu_securityNoEncryption.accesskey "p">
 
 <!ENTITY menu_securitySign.label "Signer numériquement ce message">
 <!ENTITY menu_securitySign.accesskey "S">
