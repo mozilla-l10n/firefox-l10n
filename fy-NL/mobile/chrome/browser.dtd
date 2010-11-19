@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "Knippe">
 <!ENTITY copy.label            "Kopiearje">
+<!ENTITY copyAll.label         "Kopiearje alles">
 <!ENTITY copylink.label        "Kopiearje keppelinglokaasje">
 <!ENTITY paste.label           "Plakke">
 <!ENTITY delete.label          "Fuortsmite">
 <!ENTITY selectAll.label       "Selektearje alles">
 <!ENTITY noSuggestions.label   "(Gjin foarstellen)">
 <!ENTITY addToDictionary.label "Foech ta oan wurdlist">
+<!ENTITY inputMethod.label     "Selektearje Ynfolmetoade">
 
 <!ENTITY allPagesHeader.label      "Alle sides">
 <!ENTITY bookmarksHeader.label     "Blêdwizers">
@@ -108,3 +110,5 @@
 <!ENTITY pageactions.search.addNew   "Sykmasine tafoegje">
 
 <!ENTITY selectHelper.emptytext      "Filterlist">
+
+<!ENTITY appMenu.siteOptions         "Webstee-opsjes">
