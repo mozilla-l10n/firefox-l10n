@@ -58,6 +58,7 @@
 <!ENTITY lookIn.accesskey "r">
 <!ENTITY for.label "per:">
 <!ENTITY for.accesskey "e">
+<!ENTITY for.placeholder                     "Nom o correu">
 <!ENTITY addressMessageTo.label "Adreçar el missatge a:">
 
 <!-- Tooltips items -->  
