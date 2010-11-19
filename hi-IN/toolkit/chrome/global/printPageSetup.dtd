@@ -5,14 +5,14 @@
 <!ENTITY orientation.label "दिशा:">
 
 
-<!ENTITY landscape.label     "Landscape">
+<!ENTITY landscape.label     "भूदृश्य">
 <!ENTITY landscape.accesskey "L">
 <!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.accesskey "R">
 <!ENTITY marginTop.accesskey "T">
 
-<!ENTITY portrait.label      "Portrait">
+<!ENTITY portrait.label      "व्यक्तिचित्र">
 <!ENTITY portrait.accesskey  "P">
 
 <!ENTITY printBG.accesskey   "B">
@@ -24,7 +24,7 @@
 <!ENTITY shrinkToFit.label "पृष्ठ चौड़ाई में रखने के लिये सिकोड़ें">
 <!ENTITY optionsGroup.label "विकल्प">
 <!ENTITY printBG.label       "छपाई पृष्ठभूमि (रंग &amp; छवि)">
-<!ENTITY advanced.tab "हाशिया &amp;  शीर्षिका/पादिका">
+<!ENTITY advanced.tab "हाशिया व शीर्षिका/पादिका">
 <!ENTITY marginGroup.label "हाशिया (#1)">
 <!ENTITY marginUnits.inches "इंच">
 <!ENTITY marginUnits.metric "मिलीमीटर">
