@@ -60,3 +60,7 @@
 <!ENTITY sidebar.pagenotfound.label "Esta pestaña no está disponible en este momento.">
 <!ENTITY sidebar.close.tooltip "Cerrar panel lateral">
 <!ENTITY sidebar.open.tooltip "Abrir panel lateral">
+<!ENTITY sidebar.search.label "Buscar">
+<!ENTITY sidebar.client-bookmarks.label "Marcadores">
+<!ENTITY sidebar.client-history.label "Historial">
+<!ENTITY sidebar.client-addressbook.label "Libreta de direcciones">

@@ -71,6 +71,7 @@
 <!ENTITY col.lastmodified.label "Última modificación">
 <!ENTITY search.label "Buscar:">
 <!ENTITY search.placeholder "Buscar marcadores">
+<!ENTITY search.in.label "Buscar en:">
 <!ENTITY search.scopeFolder.label "Carpeta seleccionada">
 <!ENTITY search.scopeFolder.accesskey "C">
 <!ENTITY search.scopeBookmarks.label "Marcadores">
