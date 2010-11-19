@@ -173,11 +173,11 @@ can reach it easily. -->
 <!ENTITY search.accesskey             "u">
 <!ENTITY downloads.label              "Downloads">
 <!ENTITY downloads.tooltip            "Zeigt den Fortschritt der aktuellen Downloads an">
-<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.accesskey          "o">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Add-ons">
-<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.accesskey             "d">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Fehlerkonsole">
