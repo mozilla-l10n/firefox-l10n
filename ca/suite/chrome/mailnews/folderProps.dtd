@@ -94,7 +94,7 @@
 <!ENTITY folderProps.location.accesskey          "U">
 
 
-<!ENTITY folderSharingTab.label "S'està compartint">
+<!ENTITY folderSharingTab.label "Compartició">
 <!ENTITY privileges.button.label "Privilegis">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label "Teniu els permisos següents:">

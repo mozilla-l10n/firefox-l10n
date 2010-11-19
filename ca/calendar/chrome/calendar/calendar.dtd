@@ -306,7 +306,7 @@
 <!ENTITY calendar.alarm.snooze.30minutes.label      "30 minuts" >
 <!ENTITY calendar.alarm.snooze.45minutes.label      "45 minuts" >
 <!ENTITY calendar.alarm.snooze.1hour.label          "1 hora" >
-<!ENTITY calendar.alarm.snooze.2hours.label         "2 hoes" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 hores" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 dia" >
 
 <!-- Calendar Server Dialog -->

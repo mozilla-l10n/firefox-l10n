@@ -1,13 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Seguretat">
-<!ENTITY securityMenu.accesskey "e">
-
 <!ENTITY menu_securityEncryptRequire.label "Requereix xifratge">
 <!ENTITY menu_securityEncryptRequire.accesskey "e">
-
-<!ENTITY menu_securityNoEncryption.label "Sense xifratge">
-<!ENTITY menu_securityNoEncryption.accesskey "n">
 
 <!ENTITY menu_securitySign.label "Signa digitalment">
 <!ENTITY menu_securitySign.accesskey "S">
