@@ -3,12 +3,10 @@
 <!ENTITY sync.connect               "Connecter">
 <!ENTITY sync.connected             "Connecté">
 <!ENTITY sync.details               "Détails">
-<!ENTITY sync.synchronize.label     "Synchroniser">
-<!ENTITY sync.synchronize.yes       "Activé">
-<!ENTITY sync.synchronize.no        "Désactivé">
+<!ENTITY sync.synchronize           "Activer Sync">
 <!ENTITY sync.deviceName            "Cet appareil">
 <!ENTITY sync.disconnect            "Déconnecter">
-<!ENTITY sync.syncNow               "Sync Now">
+<!ENTITY sync.syncNow               "Synchroniser">
 
 <!ENTITY sync.setup.title           "Se connecter à Sync">
 <!ENTITY sync.setup.jpake           "Depuis un ordinateur connecté à Firefox, rendez-vous dans les options de Sync et sélectionnez « Ajouter un appareil »">
