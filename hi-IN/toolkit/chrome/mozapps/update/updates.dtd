@@ -67,9 +67,9 @@
 <!ENTITY  manualUpdate.title              "अद्यतन में असमर्थ">
 <!ENTITY  manualUpdateGetMsg.label        "आप यहाँ से हमेशा &brandShortName; का नवीनतम संस्करण पा सकते हैं:">                                           
 
-<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
+<!ENTITY  downloadPage.title              "&brandShortName; डाउनलोड कर रहा है">
 
-<!ENTITY  error.title                     "Update Failed">
+<!ENTITY  error.title                     "अद्यतन विफल">
 <!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
                                            insecure update. Please contact your network provider and seek help.">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
@@ -82,9 +82,9 @@
 
 <!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
 
-<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
+<!ENTITY  pluginupdatesfound.title        "प्लगिनों के लिए अद्यतन पाया">
 
-<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
+<!ENTITY  pluginupdateslink.label         "देखें कि कैसे अपने प्लगिनों को अद्यतन करना है.">
 
 
 

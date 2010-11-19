@@ -9,5 +9,5 @@
 <!ENTITY blocklist.accept.label      "&brandShortName; फिर आरंभ करें">
 <!ENTITY blocklist.accept.accesskey  "R">
 
-<!ENTITY blocklist.blocked.label     "Blocked">
-<!ENTITY blocklist.checkbox.label    "Disable">
+<!ENTITY blocklist.blocked.label     "रोका हुआ">
+<!ENTITY blocklist.checkbox.label    "निष्क्रिय करें">
