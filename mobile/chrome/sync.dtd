@@ -1,0 +1,18 @@
+<!ENTITY sync.title "Sync">
+<!ENTITY sync.notconnected "Sin conectar">
+<!ENTITY sync.connect "Conectar">
+<!ENTITY sync.connected "Conectado">
+<!ENTITY sync.details "Detalles">
+<!ENTITY sync.synchronize "Activar Sync">
+<!ENTITY sync.deviceName "Este dispositivo">
+<!ENTITY sync.disconnect "Desconectar">
+<!ENTITY sync.syncNow "Sincronizar ahora">
+<!ENTITY sync.setup.title "Conectar a Sync">
+<!ENTITY sync.setup.jpake 'Desde un equipo conectado a Firefox Sync, vaya a las opciones de Sync y seleccione "Añadir un dispositivo"'>
+<!ENTITY sync.fallback "No estoy cerca de mi ordenador…">
+<!ENTITY sync.setup.manual "Escriba la información de su cuenta de Sync">
+<!ENTITY sync.account "Nombre de cuenta">
+<!ENTITY sync.password "Contraseña">
+<!ENTITY sync.syncKey "Clave de Sync">
+<!ENTITY sync.customServer "Usar un servidor personalizado">
+<!ENTITY sync.serverURL "URL del servidor">
