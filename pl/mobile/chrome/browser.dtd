@@ -1,4 +1,4 @@
-<!ENTITY urlbar.emptytext      "Podaj szukaną frazę lub adres">
+<!ENTITY urlbar.emptytext      "Wpisz zapytanie lub adres">
 
 <!ENTITY back.label            "Wstecz">
 <!ENTITY forward.label         "Do przodu">
@@ -107,7 +107,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pageactions.password.forget "Zapomnij hasło">
 <!ENTITY pageactions.reset           "Wyczyść preferencje witryny">
 <!ENTITY pageactions.findInPage      "Znajdź na stronie">
-<!ENTITY pageactions.search.addNew   "Dodaj silnik wyszukiwania">
+<!ENTITY pageactions.search.addNew   "Dodaj wyszukiwarkę">
 
 <!ENTITY selectHelper.emptytext      "Zawęź listę">
 

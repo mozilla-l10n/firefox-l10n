@@ -3,6 +3,6 @@
 <!ENTITY aboutHome.remoteTabs                   "Karty z innych komputerów">
 <!ENTITY aboutHome.recommendedAddons2           "Dodatki z programu &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Wyraź opinię">
-<!ENTITY aboutHome.openAllTabs                  "Otwórz wszystkie w kartach">
+<!ENTITY aboutHome.openAllTabs                  "Otwórz wszystkie">
 <!ENTITY aboutHome.noTabs                       "Brak kart z poprzedniej sesji">
 <!ENTITY aboutHome.noAddons                     "Brak polecanych dodatków">
