@@ -23,14 +23,14 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "Reload the page">
-<!ENTITY reloadPlugin.post                                   " to try again.">
+<!ENTITY reloadPlugin.middle                                 "पृष्ठ फिर लोड करें">
+<!ENTITY reloadPlugin.post                                   " फिर आजमाने के लिए.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Send crash report">
-<!ENTITY report.submitting                                   "Sending report…">
-<!ENTITY report.submitted                                    "Crash report sent.">
-<!ENTITY report.disabled                                     "Crash reporting disabled.">
-<!ENTITY report.failed                                       "Submission failed.">
-<!ENTITY report.unavailable                                  "No report available.">
+<!ENTITY report.please                                       "क्रैश रिपोर्ट भेजें">
+<!ENTITY report.submitting                                   "रिपोर्ट भेज रहा है…">
+<!ENTITY report.submitted                                    "क्रैश रिपोर्ट भेजा गया.">
+<!ENTITY report.disabled                                     "क्रैश रिपोर्टिंग निष्क्रिय किया गया.">
+<!ENTITY report.failed                                       "सुपुर्दगी विफल.">
+<!ENTITY report.unavailable                                  "कोई रिपोर्ट उपलब्ध नहीं.">
 
 
