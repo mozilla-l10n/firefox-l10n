@@ -1,8 +1,8 @@
-wikipedia-eu
 amazon-en-GB
-answers
+bing
 creativecommons
 elebila
 eBay-es
 google
 yahoo
+wikipedia-eu
