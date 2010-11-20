@@ -18,11 +18,3 @@
 <!ENTITY homepage.none                             "Pàgina en blanc">
 <!ENTITY homepage.default                          "Inici del &brandShortName;">
 <!ENTITY homepage.currentpage                      "Utilitza la pàgina actual">
-<!ENTITY sync.title                                "Sincronització">
-<!ENTITY sync.account2                             "Nom del compte">
-<!ENTITY sync.password                             "Contrasenya">
-<!ENTITY sync.syncKey                              "Clau de sincronització">
-<!ENTITY sync.deviceName                           "Nom del dispositiu">
-<!ENTITY sync.connect                              "Connecta">
-<!ENTITY sync.disconnect                           "Desconnecta">
-<!ENTITY sync.syncNow                              "Sincronitza ara">
