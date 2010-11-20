@@ -3,9 +3,7 @@
 <!ENTITY sync.connect               "Sambungkan">
 <!ENTITY sync.connected             "Tersambung">
 <!ENTITY sync.details               "Detail">
-<!ENTITY sync.synchronize.label     "Sinkronkan">
-<!ENTITY sync.synchronize.yes       "Aktif">
-<!ENTITY sync.synchronize.no        "Mati">
+<!ENTITY sync.synchronize           "Aktifkan Sync">
 <!ENTITY sync.deviceName            "Perangkat ini">
 <!ENTITY sync.disconnect            "Putuskan">
 <!ENTITY sync.syncNow               "Sinkronkan Skrg">
