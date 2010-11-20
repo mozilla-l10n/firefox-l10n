@@ -3,7 +3,7 @@
 <!ENTITY downloadBehavior.label "Při začátku stahování">
 <!ENTITY focusWhenStarting.label "Zablikat správcem stahování, pokud je již otevřený. Jinak:">
 <!ENTITY focusWhenStarting.accesskey "l">
-<!ENTITY openDM.label "Otevřít okno Správce stahování">
+<!ENTITY openDM.label "Otevřít okno správce stahování">
 <!ENTITY openDM.accesskey "O">
 <!ENTITY openProgressDialog.label "Otevřít dialog s průběhem">
 <!ENTITY openProgressDialog.accesskey "d">

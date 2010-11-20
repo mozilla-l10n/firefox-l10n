@@ -24,7 +24,7 @@
 <!ENTITY printBG.label "Tisknout pozadí (barvy a obrázky)">
 <!ENTITY printBG.accesskey "T">
 
-<!ENTITY advanced.tab "Okraje a Záhlaví/zápatí">
+<!ENTITY advanced.tab "Okraje, záhlaví a zápatí">
 
 <!ENTITY marginGroup.label "Okraje (#1)">
 <!ENTITY marginUnits.inches "palce">
@@ -38,7 +38,7 @@
 <!ENTITY marginRight.label "Vpravo:">
 <!ENTITY marginRight.accesskey "p">
 
-<!ENTITY headerFooter.label "Záhlaví &amp; zápatí">
+<!ENTITY headerFooter.label "Záhlaví a zápatí">
 
 <!ENTITY hfLeft.label "Vlevo:">
 <!ENTITY hfCenter.label "Uprostřed:">
@@ -52,11 +52,11 @@
 
 <!ENTITY hfTitle "Nadpis">
 <!ENTITY hfURL "URL">
-<!ENTITY hfDateAndTime "Datum/čas">
+<!ENTITY hfDateAndTime "Datum a čas">
 <!ENTITY hfPage "Strana #">
-<!ENTITY hfPageAndTotal "Strana  # z #">
-<!ENTITY hfBlank "--prázdno--">
+<!ENTITY hfPageAndTotal "Strana # z #">
+<!ENTITY hfBlank "—prázdno—">
 <!ENTITY hfCustom "Vlastní…">
 
 <!ENTITY customPrompt.title "Vlastní…">
-<!ENTITY customPrompt.prompt "Zadejte prosím vlastní text pro záhlaví/zápatí">
+<!ENTITY customPrompt.prompt "Zadejte prosím vlastní text pro záhlaví či zápatí">

@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY managecerts.caption "Správce certifikátů…">
-<!ENTITY managecerts.text "Používat Správce certifikátů pro správu osobních certifikátů, certifikátů ostatních lidí a certifikátů certifikačních autorit.">
+<!ENTITY managecerts.text "Používat správce certifikátů pro správu osobních certifikátů, certifikátů ostatních lidí a certifikátů certifikačních autorit.">
 <!ENTITY managecerts.button "Správce certifikátů…">
 <!ENTITY managecerts.accesskey "c">
 <!ENTITY managedevices.caption "Správce bezpečnostních zařízení…">

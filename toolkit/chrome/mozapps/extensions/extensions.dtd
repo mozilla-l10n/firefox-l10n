@@ -45,7 +45,7 @@
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "N">
 <!ENTITY updates.resetUpdatesToManual.label "Nastavit všechny doplňky na manuální aktualizaci">
 <!ENTITY updates.resetUpdatesToManual.accesskey "N">
-<!ENTITY updates.updating.label "Aktualizace doplňků">
+<!ENTITY updates.updating.label "Probíhá aktualizace doplňků">
 <!ENTITY updates.installed.label "Doplňky byly aktualizovány.">
 <!ENTITY updates.downloaded.label "Doplňky byly staženy.">
 <!ENTITY updates.restart.label "Restartovat pro dokončení instalace">
@@ -56,7 +56,7 @@
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label "Zobrazit více informací">
-<!ENTITY cmd.showDetails.accesskey "Z">
+<!ENTITY cmd.showDetails.accesskey "v">
 <!ENTITY cmd.findUpdates.label "Aktualizovat">
 <!ENTITY cmd.findUpdates.accesskey "A">
 <!ENTITY cmd.preferencesWin.label "Možnosti">
@@ -71,20 +71,20 @@
 <!ENTITY cmd.disableAddon.label "Zakázat">
 <!ENTITY cmd.disableAddon.accesskey "Z">
 <!ENTITY cmd.enableTheme.label "Použít motiv vzhledu">
-<!ENTITY cmd.enableTheme.accesskey "W">
+<!ENTITY cmd.enableTheme.accesskey "m">
 <!ENTITY cmd.disableTheme.label "Nepoužívat motiv vzhledu">
-<!ENTITY cmd.disableTheme.accesskey "W">
+<!ENTITY cmd.disableTheme.accesskey "m">
 <!ENTITY cmd.installAddon.label "Instalovat">
 <!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Odebrat">
-<!ENTITY cmd.uninstallAddon.accesskey "O">
+<!ENTITY cmd.uninstallAddon.accesskey "d">
 <!ENTITY cmd.showPreferencesWin.label "Možnosti">
 <!ENTITY cmd.showPreferencesWin.tooltip "Umožní změnit možnosti doplňku">
 <!ENTITY cmd.showPreferencesUnix.label "Předvolby">
 <!ENTITY cmd.showPreferencesUnix.tooltip "Umožní změnit předvolby doplňku">
 <!ENTITY cmd.contribute.label "Přispět">
-<!ENTITY cmd.contribute.accesskey "P">
-<!ENTITY cmd.contribute.tooltip "Zobrazí informace jak přispět k vývoji doplňku">
+<!ENTITY cmd.contribute.accesskey "s">
+<!ENTITY cmd.contribute.tooltip "Zobrazí informace jak přispět na vývoj doplňku">
 
 <!ENTITY cmd.showReleaseNotes.label "Zobrazit poznámky k vydání">
 <!ENTITY cmd.showReleaseNotes.tooltip "Zobrazí poznámky k vydání této aktualizace">

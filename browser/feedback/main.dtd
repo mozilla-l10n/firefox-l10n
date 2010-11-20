@@ -28,5 +28,5 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label "Zapnout uživatelské studie">
 <!ENTITY testpilot.feedbackbutton.label "Zpětná vazba">
-<!ENTITY testpilot.happy.label "Firefox mě uspokojil, protože…">
+<!ENTITY testpilot.happy.label "Firefox se mi líbí, protože…">
 <!ENTITY testpilot.sad.label "Firefox mě zklamal, protože…">
