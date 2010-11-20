@@ -12,6 +12,37 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navegación privada)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
 
+<!-- Tab context menu -->
+<!ENTITY  reloadTab.label                    "Recargar pestaña">
+<!ENTITY  reloadTab.accesskey                "r">
+<!ENTITY  reloadAllTabs.label                "Recargar todas las pestañas">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  closeOtherTabs.label               "Cerrar las otras pestañas">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Pegar como pestaña de aplicación">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "Despegar pestaña">
+<!ENTITY  unpinAppTab.accesskey              "t">
+<!ENTITY  moveToGroup.label                  "Mover a grupo">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "Nuevo grupo">
+<!ENTITY  moveToNewWindow.label              "Mover a nueva ventana">
+<!ENTITY  moveToNewWindow.accesskey          "v">
+<!ENTITY  bookmarkAllTabs.label              "Marcar todas las pestañas…">
+<!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  undoCloseTab.label                 "Deshacer cerrar pestaña">
+<!ENTITY  undoCloseTab.accesskey             "h">
+<!ENTITY  closeTab.label                     "Cerrar pestaña">
+<!ENTITY  closeTab.accesskey                 "c">
+
+<!ENTITY  listAllTabs.label      "Listar todas las pestañas">
+
 <!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
@@ -42,6 +73,9 @@
 <!ENTITY bookmarksToolbarItem.label "Ítems de la barra de marcadores">
 <!ENTITY taskbarCmd.label "Barra de estado">
 <!ENTITY taskbarCmd.accesskey "B">
+
+<!ENTITY addonBarCmd.label "Barra de agregados">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Código fuente de la página">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -85,7 +119,7 @@
 <!ENTITY forwardCmd.label             "Adelante">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Avanza una página">
-<!ENTITY backForwardMenu.tooltip      "Páginas recientes">
+
 <!ENTITY reloadCmd.label              "Recargar">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Recarga la página actual">
@@ -96,9 +130,16 @@
 <!ENTITY goEndCap.tooltip             "Ir a la dirección en la barra de direcciones.">
 <!ENTITY feedButton.tooltip           "Suscribirse a esta página…">
 
+<!ENTITY bookmarksMenuButton.label          "Marcadores">
+<!ENTITY bookmarksMenuButton.tooltip        "Mostrar sus marcadores">
+<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores desordenados">
+<!ENTITY viewBookmarksSidebar.label         "Mostrar en barra lateral">
+<!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
+
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprime esta página">
 
+<!ENTITY backForwardItem.title        "Atrás/Adelante">
 <!ENTITY locationItem.title           "Dirección">
 <!ENTITY searchItem.title             "Buscar">
 <!ENTITY throbberItem.title           "Indicador de actividad">
@@ -113,6 +154,7 @@
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
+
 
 
 <!ENTITY historyButton.label            "Historial">
@@ -133,12 +175,38 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Agregados">
-<!ENTITY addons.tooltip               "Muestra y administra los marcadores instalados">
 <!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Consola web">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Inspeccionar">
+<!ENTITY inspectMenu.accesskey        "n">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Inspeccionar">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Siguiente">
+<!ENTITY inspectNextButton.accesskey  "n">
+<!ENTITY inspectPreviousButton.label  "Anterior">
+<!ENTITY inspectPreviousButton.accesskey "A">
+<!ENTITY inspectStyleButton.label     "Estilo">
+<!ENTITY inspectStyleButton.accesskey "s">
+<!ENTITY inspectStylePanelTitle.label  "Estilo">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Objeto">
+<!ENTITY inspectObjectButton.accesskey   "O">
+
 
 <!ENTITY fileMenu.label         "Archivo"> 
 <!ENTITY fileMenu.accesskey       "A">
@@ -174,8 +242,8 @@
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Limpiar historial reciente">
-<!ENTITY clearRecentHistoryCmd.accesskey        "h">
+<!ENTITY clearRecentHistory.label            "Limpiar el historial reciente…">
+<!ENTITY clearRecentHistory.accesskey        "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Iniciar navegación privada">
@@ -186,12 +254,16 @@
 
 <!ENTITY viewMenu.label         "Ver"> 
 <!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewTabGroups.label            "Grupos de pestañas">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Barras de Herramientas"> 
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Barra Lateral">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personalizar…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY viewTabsOnTop.label            "Pestañas por encima">
+<!ENTITY viewTabsOnTop.accesskey        "s">
 
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
@@ -202,6 +274,17 @@
 <!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY appMenuEdit.label "Editar">
+<!ENTITY appMenuCustomize.label "Personalizar">
+<!ENTITY appMenuToolbarLayout.label "Barra de diseño…">
+<!ENTITY appMenuSidebars.label "Barras laterales">
+<!ENTITY appMenuFind.label "Buscar…">
+<!ENTITY appMenuUnsorted.label "Marcadores sin ordenar">
+<!ENTITY appMenuWebDeveloper.label "Diseñador web">
+<!ENTITY appMenuGettingStarted.label "Primeros pasos">
+<!ENTITY appMenuSafeMode.label "Reiniciar con los agregados deshabilitados…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Buscar marcadores e historial">
@@ -309,8 +392,7 @@
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Copiar ubicación de enlace">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkTextCmd.label        "Copiar texto de enlace">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
+
 <!ENTITY copyImageCmd.label           "Copiar dirección de imagen">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Copiar imagen">
@@ -319,7 +401,7 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar dirección del audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "B">
+
 <!ENTITY copyEmailCmd.label           "Copiar dirección de e-mail">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Este marco">
@@ -376,6 +458,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pasteButton.tooltip            "Pegar">
 <!ENTITY fullScreenButton.tooltip       "Mostrar la ventana en pantalla completa">
 
+<!ENTITY zoomOutButton.tooltip          "Acercar">
+<!ENTITY zoomInButton.tooltip           "Alejar">
+<!ENTITY zoomControls.label             "Controles de zoom">
+
 
 <!ENTITY quitApplicationCmdWin.label       "Salir"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
@@ -428,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Listo">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Deshacer">
-<!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.edit.label                     "Editar…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "Este sitio web no ha suministrado información de identidad.">
 <!ENTITY identity.connectedTo "Está conectado a">

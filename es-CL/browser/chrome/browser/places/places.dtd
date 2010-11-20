@@ -42,24 +42,6 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "c">
 
 
-<!ENTITY cmd.edit_cut.label         "Cortar">
-<!ENTITY cmd.edit_cut.accesskey     "t">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Copiar">
-<!ENTITY cmd.edit_copy.accesskey    "C">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Pegar">
-<!ENTITY cmd.edit_paste.accesskey   "P">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Eliminar">
-<!ENTITY cmd.edit_delete.accesskey  "E">
-<!ENTITY cmd.edit_undo.label        "Deshacer">
-<!ENTITY cmd.edit_undo.accesskey    "D">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Rehacer">
-<!ENTITY cmd.edit_redo.accesskey    "R">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.bookmarkLink.label         "Marcar esta página…">
 <!ENTITY cmd.bookmarkLink.accesskey     "M">
 <!ENTITY cmd.delete.label               "Borrar esta pagina">
@@ -78,11 +60,6 @@
 
 <!ENTITY cmd.properties.label      "Propiedades">
 <!ENTITY cmd.properties.accesskey  "i">
-
-<!ENTITY cmd.show_info.key  "i">
-
-<!ENTITY cmd.rename.label      "Renombrar">
-<!ENTITY cmd.rename.accesskey  "R">
 
 <!ENTITY cmd.sortby_name.label              "Ordenar por nombre">
 <!ENTITY cmd.sortby_name.accesskey          "O">
@@ -125,13 +102,8 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Historial">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Mostrar constructor de búsqueda">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Ocultar constructor de búsqueda">
 <!ENTITY saveSearch.label                          "Guardar">
 <!ENTITY saveSearch.accesskey                      "G">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Buscar sólo en los marcadores">
-<!ENTITY advancedSearch.match.label                "Coincide con">
 
 
 <!ENTITY cmd.find.key  "f">

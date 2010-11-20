@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Usar desplazamiento suave">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Revisar mi ortografía mientras escribo">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -45,11 +47,14 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Usar hasta">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB de espacio en el caché">
+<!ENTITY limitCacheSizeBefore.label      "Limitar cache a">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB de espacio">
 <!ENTITY clearCacheNow.label             "Limpiar ahora">
-<!ENTITY clearCacheNow.accesskey         "L">
+<!ENTITY clearCacheNow.accesskey         "h">
+<!ENTITY overrideSmartCacheSize.label    "Anular administración automática de caché">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
+
 
 <!ENTITY updateTab.label                 "Actualización">
 
@@ -68,7 +73,7 @@
 <!ENTITY modeAutoAddonWarn.label         "Avisarme si esto deshabilitará alguno de mis agregados">
 <!ENTITY modeAutoAddonWarn.accesskey     "A">
 <!ENTITY updateHistory.label             "Mostrar Historial de Actualización">
-<!ENTITY updateHistory.accesskey         "M">
+<!ENTITY updateHistory.accesskey         "H">
 
 <!ENTITY offlineNotify.label             "Avisarme cuando un sitio web pide almacenar datos para uso sin conexión">
 <!ENTITY offlineNotify.accesskey         "t">
