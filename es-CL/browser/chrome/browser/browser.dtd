@@ -71,8 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Barra de marcadores">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Ítems de la barra de marcadores">
-<!ENTITY taskbarCmd.label "Barra de estado">
-<!ENTITY taskbarCmd.accesskey "B">
+
 
 <!ENTITY addonBarCmd.label "Barra de agregados">
 <!ENTITY addonBarCmd.accesskey "B">
@@ -109,7 +108,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Suscribe a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribir a esta página…">
 <!ENTITY addCurPagesCmd.label "Marcar todas las pestañas…">
-<!ENTITY organizeBookmarks.label "Organizar marcadores…">
+<!ENTITY showAllBookmarks.label "Mostrar todos los marcadores…">
 <!ENTITY bookmarkAllCmd.label "Marcar todas las pestañas…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
@@ -128,7 +127,6 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Detiene la carga de la página">
 <!ENTITY goEndCap.tooltip             "Ir a la dirección en la barra de direcciones.">
-<!ENTITY feedButton.tooltip           "Suscribirse a esta página…">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip        "Mostrar sus marcadores">
@@ -146,7 +144,16 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Marcadores">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Inicio">
+<!ENTITY appMenuButton.label          "Menú">
+<!ENTITY appMenuButton.tooltip        "Abrir menú de &brandShortName;">
+<!ENTITY homeButton.label             "Inicio">
+
+<!ENTITY tabGroupsButton.label        "Grupos de pestañas">
+<!ENTITY tabGroupsButton.tooltip      "Agrupar pestañas">
+
+<!ENTITY feedButton.label             "Suscribirse">
+<!ENTITY feedButton.tooltip           "Suscribirse a esta página…">
+
 
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksButton.accesskey  "M">
@@ -270,6 +277,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
+<!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
 
 <!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
@@ -287,11 +295,11 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Buscar marcadores e historial">
-<!ENTITY urlbar.bookmark.emptyText    "Buscar marcadores">
-<!ENTITY urlbar.history.emptyText     "Historial de búsquedas">
-<!ENTITY urlbar.none.emptyText        "Escriba una dirección Web">
+
+
+<!ENTITY urlbar.placeholder           "Ir a un sitio web">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Cambiar a pestaña:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -315,11 +323,14 @@ can reach it easily. -->
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmd.label            "Abrir enlace en nueva ventana">
 <!ENTITY openLinkCmd.accesskey        "A">
+<!ENTITY openLinkCmdInCurrent.label     "Abrir enlace">
+<!ENTITY openLinkCmdInCurrent.accesskey "e">
 <!ENTITY openLinkCmdInTab.label       "Abrir enlace en nueva pestaña">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openFrameCmd.label           "Abrir marco en nueva ventana">
@@ -420,7 +431,8 @@ can reach it easily. -->
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Esconder controles">
 <!ENTITY mediaHideControls.accesskey "c">
-
+<!ENTITY videoFullScreen.label "Pantalla completa">
+<!ENTITY videoFullScreen.accesskey "c">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -535,4 +547,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Haga click para abrir la ventana de descargas">
 
 <!ENTITY allTabs.filter.emptyText "Buscar pestañas">
+<!ENTITY tabsToolbar.label "Pestañas del navegador">
 
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Pestañas de otros computadores">
+
+<!ENTITY syncBrand.shortName.label  "Sync">
+
+<!ENTITY syncSetup.label              "Configurar &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "Sincronizar ahora">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sincronizar">

@@ -186,32 +186,6 @@
 
 
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "No proporciona actualizaciones seguras.">
-<!ENTITY needsDependencies.label          "Requiere elementos adicionales.">
-
-<!ENTITY softBlocklisted.label            "Conocido por causar problemas de seguridad o estabilidad.">
-
-
-
-
-<!ENTITY emptySearch.label                "No se encontraron agregados">
-<!ENTITY emptySearch.button               "Aceptar">
-<!ENTITY cancelSearch.button              "Cancelar">
-
-
-
-<!ENTITY recommendedResults.label         "Ver Todos los Agregados Recomendados">
-
-<!ENTITY previewNoThemeSelected.label     "Ningún Tema Seleccionado">
-<!ENTITY previewNoPreviewImage.label      "Este tema no tiene una imagen de vista previa">
-
-<!ENTITY infoNoAddonSelected.label        "Ninguna Actualización Seleccionada">
-<!ENTITY infoNoUpdateInfo.label           "Esta actualización no tiene ninguna información adicional">
-<!ENTITY infoUpdateInfoError.label        "Hubo un error cargando la información acerca de esta actualización">
-
-
-
 <!ENTITY eula.title                       "Acuerdo de Licencia de Usuario Final">
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">

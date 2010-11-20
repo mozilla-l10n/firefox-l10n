@@ -90,11 +90,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Configuraciones…">
 <!ENTITY  clearOnCloseSettings.accesskey "C">
 
-
-<!ENTITY  rememberHistory.pre.label      "Recordar mi historial por al menos">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "días">
-
 <!ENTITY  rememberDownload.label         "Recordar historial de descargas">
 <!ENTITY  rememberDownload.accesskey     "d">
 
@@ -107,5 +102,3 @@
 <!ENTITY  clearOnCloseSettings.label     "Configuraciones…">
 <!ENTITY  clearOnCloseSettings.accesskey "C">
 
-<!ENTITY  clearDataNow.label             "Limpiar Ahora...">
-<!ENTITY  clearDataNow.accesskey         "L">
