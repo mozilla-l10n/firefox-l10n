@@ -1,0 +1,19 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Ikke tilkoblet">
+<!ENTITY sync.connect               "Koble til">
+<!ENTITY sync.connected             "Tilkoblet">
+<!ENTITY sync.details               "Detaljer">
+<!ENTITY sync.synchronize           "Slå på Sync">
+<!ENTITY sync.deviceName            "Denne enheten">
+<!ENTITY sync.disconnect            "Koble fra">
+<!ENTITY sync.syncNow               "Sync nå">
+
+<!ENTITY sync.setup.title           "Koble til Sync">
+<!ENTITY sync.setup.jpake           "Fra en datamaskin med Firefox Sync, gå til Sync-innstililnger og velg &#x0022;Legg til en enhet&#x0022;">
+<!ENTITY sync.fallback              "Jeg er ikke ved datamaskinen …">
+<!ENTITY sync.setup.manual          "Skriv inn Sync-kontoinformasjonen">
+<!ENTITY sync.account               "Kontonavn">
+<!ENTITY sync.password              "Passord">
+<!ENTITY sync.syncKey               "Sync-nøkkel">
+<!ENTITY sync.customServer          "Bruk egendefinert tjener">
+<!ENTITY sync.serverURL             "Tjener-URL">
