@@ -58,4 +58,4 @@
 <!ENTITY  chooseHandler.label         "Durchsuchen…">
 <!ENTITY  chooseHandler.accesskey     "D">
 
-<!ENTITY  unknownPromptText.label     "Möchten Sie diese Datei auf einem Datenträger speichern?">
+<!ENTITY  unknownPromptText.label     "Möchten Sie diese Datei speichern?">
