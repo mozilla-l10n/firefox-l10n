@@ -20,7 +20,7 @@
     <strong>www</strong>.server.cz</li>
   <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého
     počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má
+  <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, zda má
     &brandShortName; přístup na Internet.</li>
 </ul>
 ">
@@ -29,7 +29,7 @@
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Zkontrolujte, zda je jméno souboru napsáno správně a to včetně velikosti písmen.SS</li>
-  <li>Zkontrolujte, zda soubor nebyl přesunut, přejmenován a nebo smazán.</li>
+  <li>Zkontrolujte, zda soubor nebyl přesunut, přejmenován nebo smazán.</li>
 </ul>
 ">
 
@@ -88,7 +88,7 @@
 <!ENTITY proxyConnectFailure.title "Proxy server odmítl spojení">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Zkontrolujte nastavení proxy serveru, zda je správné.</li>
+  <li>Zkontrolujte nastavení proxy serveru.</li>
   <li>Kontaktujte svého síťového administrátora, zda je proxy server v provozu.</li>
 </ul>
 ">
@@ -97,9 +97,9 @@
 <!ENTITY proxyResolveFailure.title "Proxy server nenalezen">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Zkontrolujte, zda je nastavení proxy serveru správné.</li>
-  <li>Zkontrolujte, síťové připojení svého počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má
+  <li>Zkontrolujte nastavení proxy serveru.</li>
+  <li>Zkontrolujte síťové připojení svého počítače.</li>
+  <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, zda má
     &brandShortName; přístup na Internet.</li>
 </ul>
 ">
@@ -145,7 +145,7 @@ kdo se snaží vydávat za server.</li>
 za chvíli.</li>
   <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého
     počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má
+  <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, zda má
     &brandShortName; přístup na Internet.</li>
 </ul>
 ">
@@ -158,14 +158,14 @@ za chvíli.</li>
 
 <!ENTITY phishingBlocked.title "Podezřelá podvodná stránka!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Vložení osobních informací na takovéto stránce může skočit krádeží identity a nebo jiným podvodem.</p>
-<p>Tyto podvodné stránky nazývané též útoky typu phishing se snaží zpravidla napodobit webové stránky a nebo e-maily ze zdrojů, kterým věříte.</p>
+<p>Vložení osobních informací na takovéto stránce může skočit krádeží identity nebo jiným podvodem.</p>
+<p>Tyto podvodné stránky nazývané též útoky typu phishing se snaží zpravidla napodobit webové stránky nebo e-maily ze zdrojů, kterým věříte.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v nahrání této stránky, neboť tato stránka má bezpečnostní pravidla, která takovýto způsob nahrání zakazují.</p>">
 
-<!ENTITY securityOverride.linkText "A nebo můžete přidat výjimku…">
+<!ENTITY securityOverride.linkText "Nebo můžete přidat výjimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">
 <!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku">
 
@@ -175,7 +175,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>Není doporučováno přidávat výjimku, pokud nemůžete svému internetovému spojení plně důvěřovat a nebo pokud nejste u tohoto serveru zvyklí vídat podobná varování.</p>
+<p>Není doporučováno přidávat výjimku, pokud nemůžete svému internetovému spojení plně důvěřovat nebo pokud nejste u tohoto serveru zvyklí vídat podobná varování.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>

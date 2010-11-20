@@ -4,7 +4,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Chyba spojení">
-<!ENTITY connectionFailure.longDesc "<p>Požadovaný server existuje, ale prohlížeč nebyl schopen navázat spojení.</p><ul><li>Server může být dočasně nedostupný; Opakujte akci později.</li><li>Nemůžete-li prohlížet i ostatní stránky, zkontrolujte síťové připojení  počítače.</li><li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte jejich nastavení.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Požadovaný server existuje, ale prohlížeč nebyl schopen navázat spojení.</p><ul><li>Server může být dočasně nedostupný; Opakujte akci později.</li><li>Nemůžete-li prohlížet i ostatní stránky, zkontrolujte síťové připojení počítače.</li><li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte jejich nastavení.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Omezení přístupu na port">
 <!ENTITY deniedPortAccess.longDesc "<p>V požadované adrese (URL) byl zadán port (např. <q>mozilla.org:80</q> pro port 80 na serveru mozilla.org), který se normálně používá pro <em>jiné</em> Internetové služby než prohlížení webových stránek. Prohlížeč zrušil požadavek z důvodů vaší ochrany.</p>">
@@ -54,7 +54,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Prohlížeč je nakonfigurován k použití proxy serveru, který nemohl být nalezen.</p><ul><li>Zkontrolujte v prohlížeči nastavení proxy serveru a opakujte akci.</li><li>Pokud problém přetrvává, konzultujte jej se svým síťovým administrátorem, nebo poskytovatelem připojení k Internetu.</li></ul>">
 
 <!ENTITY redirectLoop.title "Smyčka při přesměrování">
-<!ENTITY redirectLoop.longDesc "<p>Prohlížeč ukončil spojení, protože server přesměrovává požadavky sám na sebe způsobem, který zabraňuje jejich dokončení.</p><ul><li>Je možné, že stránka vyžaduje cookies, které máte zakázané a nebo je pro tento server blokujete.</li><li>Většinou se ale jedná o problém konfigurace serveru a <em>není</em> to tak problém vašeho počítače.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Prohlížeč ukončil spojení, protože server přesměrovává požadavky sám na sebe způsobem, který zabraňuje jejich dokončení.</p><ul><li>Je možné, že stránka vyžaduje cookies, které máte zakázané nebo je pro tento server blokujete.</li><li>Většinou se ale jedná o problém konfigurace serveru a <em>není</em> to tak problém vašeho počítače.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Neplatná odpověď">
 <!ENTITY unknownSocketType.longDesc "<p>Server na daný požadavek odpověděl neočekávaným způsobem a nemohl pokračovat.</p><ul><li>Na straně serveru běží jiná služba než je očekáváno.</li><li>Adresa (URL) obsahuje nesrovnalost mezi protokolem (např. http://) a určeným portem (např. mozilla.org:23).</li></ul>">
@@ -77,8 +77,8 @@
 
 <!ENTITY phishingBlocked.title "Podezřelá podvodná stránka!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Vložení osobních informací na takovéto stránce může skočit krádeží identity a nebo jiným podvodem.</p>
-<p>Tyto podvodné stránky nazývané též útoky typu phishing se snaží zpravidla napodobit webové stránky a nebo e-maily ze zdrojů, kterým věříte.</p>
+<p>Vložení osobních informací na takovéto stránce může skočit krádeží identity nebo jiným podvodem.</p>
+<p>Tyto podvodné stránky nazývané též útoky typu phishing se snaží zpravidla napodobit webové stránky nebo e-maily ze zdrojů, kterým věříte.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Zablokováno dle bezpečnostních pravidel stránky">

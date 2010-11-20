@@ -27,7 +27,7 @@
 <!ENTITY alwaysCheckDefault.accesskey "t">
 <!ENTITY checkNow.label "Zkontrolovat">
 <!ENTITY checkNow.accesskey "n">
-<!ENTITY submitCrashes.label "Odeslat hlášení o pádu">
+<!ENTITY submitCrashes.label "Odesílat hlášení o pádech">
 <!ENTITY submitCrashes.accesskey "O">
 
 <!ENTITY networkTab.label "Síť">
@@ -47,11 +47,11 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label "Omezit vyrovnávací paměť na">
-<!ENTITY limitCacheSizeBefore.accesskey  "O">
-<!ENTITY limitCacheSizeAfter.label       "MB místa na disku">
-<!ENTITY clearCacheNow.label             "Vymazat">
-<!ENTITY clearCacheNow.accesskey         "m">
-<!ENTITY overrideSmartCacheSize.label    "Nepoužít automatickou správu vyrovnávací paměťi">
+<!ENTITY limitCacheSizeBefore.accesskey "O">
+<!ENTITY limitCacheSizeAfter.label "MB místa na disku">
+<!ENTITY clearCacheNow.label "Vymazat">
+<!ENTITY clearCacheNow.accesskey "m">
+<!ENTITY overrideSmartCacheSize.label "Nepoužít automatickou správu vyrovnávací paměťi">
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 
 <!ENTITY updateTab.label "Aktualizace">

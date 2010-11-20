@@ -124,7 +124,7 @@
 <!ENTITY detailsPane.less.label "Méně">
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.noPreviewAvailable.label "Náhled">
-<!ENTITY detailsPane.selectAnItemText.description "Vybrat položku do pohledu a upravit její vlastnosti">
+<!ENTITY detailsPane.selectAnItemText.description "Pro zobrazení a úpravu vlastností vyberte některou z položek">
 
 <!ENTITY find.label "Hledat:">
 <!ENTITY find.accesskey "H">
