@@ -94,7 +94,7 @@ can reach it easily. -->
 <!ENTITY fullScreenExit.accesskey "V">
 
 <!ENTITY closeWindow.label "Fenster schließen">
-<!ENTITY closeWindow.accesskey "r">
+<!ENTITY closeWindow.accesskey "c">
 
 <!ENTITY bookmarksMenu.label "Lesezeichen">
 <!ENTITY bookmarksMenu.accesskey "L">
@@ -473,7 +473,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label                 "Schließen">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "S">
+<!ENTITY closeCmd.accesskey             "c">
 
 <!ENTITY pageStyleMenu.label "Webseiten-Stil">
 <!ENTITY pageStyleMenu.accesskey "W">
