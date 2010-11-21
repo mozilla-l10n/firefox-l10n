@@ -1,10 +1,10 @@
-<!ENTITY menu_securityEncryptRequire.label "Требовать шифрования">
-<!ENTITY menu_securityEncryptRequire.accesskey "р">
-<!ENTITY menu_securitySign.label "Цифровая подпись">
-<!ENTITY menu_securitySign.accesskey "ф">
-<!ENTITY menu_securityStatus.label "Защита сообщения">
-<!ENTITY menu_securityStatus.accesskey "а">
+<!ENTITY menu_securityEncryptRequire.label "Шифровать это сообщение">
+<!ENTITY menu_securityEncryptRequire.accesskey "ф">
+<!ENTITY menu_securitySign.label "Подписать это сообщение">
+<!ENTITY menu_securitySign.accesskey "п">
+<!ENTITY menu_securityStatus.label "Просмотреть информацию о защите">
+<!ENTITY menu_securityStatus.accesskey "м">
 <!ENTITY securityButton.label "Защита">
 <!ENTITY securityButton.tooltip "Просмотр или изменение параметров защиты">
-<!ENTITY menu_viewSecurityStatus.label "Информация о защите">
+<!ENTITY menu_viewSecurityStatus.label "Информация о защите сообщения">
 <!ENTITY menu_viewSecurityStatus.accesskey "н">
