@@ -84,7 +84,9 @@
 <!ENTITY col.lastmodified.label  "Sist endret">
 
 <!ENTITY search.label                              "Søk:">
-<!ENTITY search.accesskey                          "ø">
+<!ENTITY search.placeholder                        "Søk i bokmerker">
+
+<!ENTITY search.in.label                           "Søk i:">
 <!ENTITY search.scopeFolder.label                  "Valgt mappe">
 <!ENTITY search.scopeFolder.accesskey              "V">
 <!ENTITY search.scopeBookmarks.label               "Bokmerker">
