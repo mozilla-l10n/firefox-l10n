@@ -55,6 +55,7 @@
 <!ENTITY lookIn.accesskey                    "H">
 <!ENTITY for.label                           "pre:">
 <!ENTITY for.accesskey                       "p">
+<!ENTITY for.placeholder                     "Názov alebo E-mail">
 <!ENTITY addressMessageTo.label              "Komu adresovať správy:">
 
 <!-- Tooltips items -->

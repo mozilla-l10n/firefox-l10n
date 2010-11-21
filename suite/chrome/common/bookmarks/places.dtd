@@ -83,7 +83,9 @@
 <!ENTITY col.lastmodified.label             "Posledná úprava">
 
 <!ENTITY search.label                       "Prehľadávať:">
-<!ENTITY search.accesskey                   "e">
+<!ENTITY search.placeholder                 "Prehľadávať záložky">
+
+<!ENTITY search.in.label                    "Hľadať v:">
 <!ENTITY search.scopeFolder.label           "Označený priečinok">
 <!ENTITY search.scopeFolder.accesskey       "a">
 <!ENTITY search.scopeBookmarks.label        "Záložky">

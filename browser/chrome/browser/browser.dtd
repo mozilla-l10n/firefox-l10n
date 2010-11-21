@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label               "Dopredu">
 <!ENTITY forwardCmd.accesskey           "D">
 <!ENTITY forwardButton.tooltip          "Dopredu o jednu stránku">
-<!ENTITY backForwardMenu.tooltip        "Naposledy navštívené stránky">
 <!ENTITY reloadCmd.label                "Obnoviť">
 <!ENTITY reloadCmd.accesskey            "O">
 <!ENTITY reloadButton.tooltip           "Načítať najnovšiu verziu stránky">

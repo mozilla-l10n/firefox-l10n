@@ -41,6 +41,7 @@
 
 <!ENTITY addonsManagerCmd.label "Doplnky">
 <!ENTITY addonsManagerCmd.accesskey "D">
+<!ENTITY addonsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Prepnúť profil…">
 <!ENTITY switchProfileCmd.accesskey "r">

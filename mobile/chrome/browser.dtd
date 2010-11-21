@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "Vystrihnúť">
 <!ENTITY copy.label            "Kopírovať">
+<!ENTITY copyAll.label         "Kopírovať všetko">
 <!ENTITY copylink.label        "Kopírovať adresu odkazu">
 <!ENTITY paste.label           "Prilepiť">
 <!ENTITY delete.label          "Odstrániť">
 <!ENTITY selectAll.label       "Vybrať všetko">
 <!ENTITY noSuggestions.label   "(Žiadne návrhy)">
 <!ENTITY addToDictionary.label "Pridať do slovníka">
+<!ENTITY inputMethod.label           "Metóda výberu vstupu">
 
 <!ENTITY allPagesHeader.label      "Všetky stránky">
 <!ENTITY bookmarksHeader.label     "Záložky">
@@ -106,3 +108,7 @@
 <!ENTITY pageactions.reset           "Vymazať nastavenia stránky">
 <!ENTITY pageactions.findInPage      "Hľadať na stránke">
 <!ENTITY pageactions.search.addNew   "Pridať vyhľadávací modul">
+
+<!ENTITY selectHelper.emptytext      "Filtrovať zoznam">
+
+<!ENTITY appMenu.siteOptions         "Nastavenia stránky">
