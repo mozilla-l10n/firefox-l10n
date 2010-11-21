@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "Klipp ut">
 <!ENTITY copy.label            "Kopier">
+<!ENTITY copyAll.label         "Kopier alt">
 <!ENTITY copylink.label        "Kopier lenke">
 <!ENTITY paste.label           "Lim inn">
 <!ENTITY delete.label          "Slett">
 <!ENTITY selectAll.label       "Merk alt">
 <!ENTITY noSuggestions.label   "(Ingen forslag)">
 <!ENTITY addToDictionary.label "Legg til i ordbok">
+<!ENTITY inputMethod.label     "Velg input-metode">
 
 <!ENTITY allPagesHeader.label      "Alle sider">
 <!ENTITY bookmarksHeader.label     "Bokmerker">
@@ -106,3 +108,7 @@
 <!ENTITY pageactions.reset           "Fjern innstillinger for nettsted">
 <!ENTITY pageactions.findInPage      "Finn på siden">
 <!ENTITY pageactions.search.addNew   "Legg til søkemotor">
+
+<!ENTITY selectHelper.emptytext      "Filtrer liste">
+
+<!ENTITY appMenu.siteOptions         "Nettstedsvalg">
