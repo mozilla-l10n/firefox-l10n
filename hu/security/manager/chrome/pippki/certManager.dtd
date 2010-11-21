@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "h">
 
 <!ENTITY exceptionMgr.title                   "Biztonsági kivétel hozzáadása">
-<!ENTITY exceptionMgr.exceptionButton         "Biztonsági kivétel megerősítése">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "B">
+<!ENTITY exceptionMgr.exceptionButton.label   "Biztonsági kivétel megerősítése">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "B">
 <!ENTITY exceptionMgr.supplementalWarning     "Törvényesen működő bankok, üzletek és nyilvános webhelyek nem kérnek ilyesmit.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Kiszolgáló">
 <!ENTITY exceptionMgr.certlocation.url        "Hely:">

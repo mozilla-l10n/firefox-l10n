@@ -92,11 +92,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Megerősítés">
 <!ENTITY confirm.merge.label    "A &syncBrand.fullName.label; most összefésüli ennek a számítógépnek a böngészőadatait a Sync-fiók adataival.">
-<!ENTITY confirm.client.label         "Minden &brandShortName;-adat törlődni fog ezen a számítógépen, beleértve a következőket:">
+<!ENTITY confirm.client2.label         "Figyelmeztetés: A következő &brandShortName;-adatok fognak törlődni erről a számítógépről:">
 <!ENTITY confirm.client.moreinfo.label "A &brandShortName; ezután rámásolja a &syncBrand.fullName.label;-adatokat erre a számítógépre.">
-<!ENTITY confirm.client.warning.label "FIGYELEM: Ez azt jelenti, hogy ezen a számítógépen minden &brandShortName;-adat felül lesz írva!">
-<!ENTITY confirm.server.label         "A következő eszközökön levő adatok lesznek felülírva a helyi adatokkal:">
-<!ENTITY confirm.server.warning.label "FIGYELEM: A helyi adatok minden &brandShortName;-adatot felül fognak írni ezeken az eszközökön!">
+<!ENTITY confirm.server2.label         "Figyelmeztetés: A következő eszközökön levő adatok lesznek felülírva a helyi adatokkal:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "A beállítás kész">
