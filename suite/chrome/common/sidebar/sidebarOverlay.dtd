@@ -60,3 +60,7 @@
 <!ENTITY sidebar.pagenotfound.label "Гэтая ўстаўка зараз недаступна.">
 <!ENTITY sidebar.close.tooltip "Зачыніць Палічку">
 <!ENTITY sidebar.open.tooltip "Адчыніць Палічку">
+<!ENTITY sidebar.search.label "Пошук">
+<!ENTITY sidebar.client-bookmarks.label "Закладкі">
+<!ENTITY sidebar.client-history.label "Гісторыя">
+<!ENTITY sidebar.client-addressbook.label "Адрасная кніга">
