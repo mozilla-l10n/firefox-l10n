@@ -107,3 +107,5 @@
 <!ENTITY pageactions.findInPage      "In Seite suchen">
 <!ENTITY pageactions.search.addNew   "Suchmaschine hinzufügen">
 
+<!ENTITY selectHelper.emptytext      "Liste filtern">
+
