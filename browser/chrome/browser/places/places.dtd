@@ -95,6 +95,8 @@
 
 <!ENTITY search.label                              "Suchen:">
 <!ENTITY search.accesskey                          "S">
+
+<!ENTITY search.in.label                           "Suchen in:">
 <!ENTITY search.scopeFolder.label                  "Ausgewählter Ordner">
 <!ENTITY search.scopeFolder.accesskey              "e">
 <!ENTITY search.scopeBookmarks.label               "Lesezeichen">
@@ -125,3 +127,18 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label  "Vorschau">
 <!ENTITY detailsPane.selectAnItemText.description "Wählen Sie einen Eintrag, um seine Eigenschaften zu sehen und zu bearbeiten">
+
+<!ENTITY find.label               "Suchen:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "Sortieren">
+<!ENTITY view.accesskey           "o">
+<!ENTITY byDate.label             "Nach Datum">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "Nach Website">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "Nach meistbesucht">
+<!ENTITY byMostVisited.accesskey  "m">
+<!ENTITY byLastVisited.label      "Nach zuletzt besucht">
+<!ENTITY byLastVisited.accesskey  "z">
+<!ENTITY byDayAndSite.label       "Nach Datum und Website">
+<!ENTITY byDayAndSite.accesskey   "h">
