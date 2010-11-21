@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "Kivágás">
 <!ENTITY copy.label            "Másolás">
+<!ENTITY copyAll.label         "Mindet másolja">
 <!ENTITY copylink.label        "Hivatkozás címének másolása">
 <!ENTITY paste.label           "Beillesztés">
 <!ENTITY delete.label          "Törlés">
 <!ENTITY selectAll.label       "Minden kijelölése">
 <!ENTITY noSuggestions.label   "(Nincs javaslat)">
 <!ENTITY addToDictionary.label "Hozzáadás a szótárhoz">
+<!ENTITY inputMethod.label     "Beviteli mód választása">
 
 <!ENTITY allPagesHeader.label      "Minden oldal">
 <!ENTITY bookmarksHeader.label     "Könyvjelzők">
@@ -106,3 +108,7 @@
 <!ENTITY pageactions.reset           "Webhelybeállítások törlése">
 <!ENTITY pageactions.findInPage      "Keresés az oldalon">
 <!ENTITY pageactions.search.addNew   "Keresőszolgáltatás hozzáadása">
+
+<!ENTITY selectHelper.emptytext      "Szűrőlista">
+
+<!ENTITY appMenu.siteOptions         "Webhely beállítási">
