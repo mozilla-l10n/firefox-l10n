@@ -180,3 +180,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Pri načítaní poznámok k vydaniu sa vyskytla chyba.">
 
 <!ENTITY addon.createdBy.label                "Autor: ">
+
+<!ENTITY eula.title                           "Licenčné ujednanie s koncovým používateľom">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Prijať a nainštalovať…">

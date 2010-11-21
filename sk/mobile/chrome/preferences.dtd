@@ -18,11 +18,3 @@
 <!ENTITY homepage.none                             "Prázdna stránka">
 <!ENTITY homepage.default                          "Úvodná stránka prehliadača &brandShortName;">
 <!ENTITY homepage.currentpage                      "Použiť aktuálnu stránku">
-<!ENTITY sync.title                                "Synchronizácia">
-<!ENTITY sync.account2                             "Názov účtu">
-<!ENTITY sync.password                             "Heslo">
-<!ENTITY sync.syncKey                              "Kľúč synchronizácie">
-<!ENTITY sync.deviceName                           "Názov zariadenia">
-<!ENTITY sync.connect                              "Pripojiť">
-<!ENTITY sync.disconnect                           "Odpojiť">
-<!ENTITY sync.syncNow                              "Synchronizovať">

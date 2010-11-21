@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                       "Prehľadávať:">
 <!ENTITY search.accesskey                   "e">
+
+<!ENTITY search.in.label                    "Prehľadávať:">
 <!ENTITY search.scopeFolder.label           "Označený priečinok">
 <!ENTITY search.scopeFolder.accesskey       "a">
 <!ENTITY search.scopeBookmarks.label        "Záložky">
@@ -124,3 +126,17 @@
 <!ENTITY detailsPane.noPreviewAvailable.label  "Ukážka">
 <!ENTITY detailsPane.selectAnItemText.description "Vyberte položku, ktorej vlastnosti chcete zobraziť alebo upraviť">
 
+<!ENTITY find.label               "Hľadať:">
+<!ENTITY find.accesskey           "H">
+<!ENTITY view.label               "Zobraziť">
+<!ENTITY view.accesskey           "b">
+<!ENTITY byDate.label             "podľa dátumu">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "podľa servera">
+<!ENTITY bySite.accesskey         "s">
+<!ENTITY byMostVisited.label      "podľa počtu návštev">
+<!ENTITY byMostVisited.accesskey  "a">
+<!ENTITY byLastVisited.label      "podľa poslednej návštevy">
+<!ENTITY byLastVisited.accesskey  "l">
+<!ENTITY byDayAndSite.label       "podľa dátumu a servera">
+<!ENTITY byDayAndSite.accesskey   "m">

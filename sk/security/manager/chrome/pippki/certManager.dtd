@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "n">
 
 <!ENTITY exceptionMgr.title                   "Pridanie bezpečnostnej výnimky">
-<!ENTITY exceptionMgr.exceptionButton         "Potvrdiť bezpečnostnú výnimku">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "P">
+<!ENTITY exceptionMgr.exceptionButton.label   "Potvrdiť bezpečnostnú výnimku">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "P">
 <!ENTITY exceptionMgr.supplementalWarning     "Oprávnené banky, obchody a iné verejné stránky toto nebudú od vás vyžadovať.">
 <!ENTITY exceptionMgr.certlocation.caption2    "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresa:">
