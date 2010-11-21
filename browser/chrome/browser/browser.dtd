@@ -464,8 +464,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Beenden"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "B">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.commandKey "Ö">
+<!ENTITY goForwardCmd.commandKey "Ä">
 <!ENTITY quitApplicationCmd.label       "Beenden"> 
 <!ENTITY quitApplicationCmd.accesskey   "B">
 <!ENTITY quitApplicationCmdMac.label    "&brandShortName; beenden">

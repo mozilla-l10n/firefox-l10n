@@ -72,5 +72,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.accesskey "Z">
 <!ENTITY forwardCmd.label "Vor">
 <!ENTITY forwardCmd.accesskey "V">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.commandKey "Ö">
+<!ENTITY goForwardCmd.commandKey "Ä">
