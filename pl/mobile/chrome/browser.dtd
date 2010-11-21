@@ -22,7 +22,7 @@
 <!ENTITY allPagesHeader.label      "Wszystkie strony">
 <!ENTITY bookmarksHeader.label     "Zakładki">
 <!ENTITY historyHeader.label       "Historia">
-<!ENTITY desktopHeader.label       "Pulpit">
+<!ENTITY desktopHeader.label       "Inne">
 
 <!ENTITY editBookmarkDone.label    "Gotowe">
 <!ENTITY editBookmarkTags.label    "Dodaj etykiety">
