@@ -16,7 +16,7 @@
 <!ENTITY aboutSupport.appBasicsTitle "Allgemeine Informationen">
 <!ENTITY aboutSupport.appBasicsName "Name">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profil-Verzeichnis">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profilordner">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivierte Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build-Konfiguration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User-Agent">
