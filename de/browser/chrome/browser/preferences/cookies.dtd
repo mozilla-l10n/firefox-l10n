@@ -25,5 +25,5 @@
 <!ENTITY     filter.accesskey               "u">
 
 <!ENTITY     button.close.label             "Schließen">
-<!ENTITY     button.close.accesskey         "S">
+<!ENTITY     button.close.accesskey         "c">
 
