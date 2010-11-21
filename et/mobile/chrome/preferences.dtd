@@ -18,11 +18,3 @@
 <!ENTITY homepage.none                             "Tühi leht">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Aktiivne leht">
-<!ENTITY sync.title                                "Sync">
-<!ENTITY sync.account2                             "Konto nimi">
-<!ENTITY sync.password                             "Parool">
-<!ENTITY sync.syncKey                              "Synci võti">
-<!ENTITY sync.deviceName                           "Seadme nimi">
-<!ENTITY sync.connect                              "Ühendu">
-<!ENTITY sync.disconnect                           "Katkesta ühendus">
-<!ENTITY sync.syncNow                              "Süngi kohe">

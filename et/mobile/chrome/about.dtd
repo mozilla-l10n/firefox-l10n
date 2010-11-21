@@ -13,6 +13,5 @@
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2010 Autorid. Kõik õigused kaitstud. (">
 <!ENTITY aboutPage.licenseLink                  "Litsentsist täpsemalt">
-<!ENTITY aboutPage.copyrightInfo2               ").">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
