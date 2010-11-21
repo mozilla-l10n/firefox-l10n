@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label                 "Lõika">
 <!ENTITY copy.label                "Kopeeri">
+<!ENTITY copyAll.label             "Kopeeri kõik">
 <!ENTITY copylink.label            "Kopeeri lingi asukoht">
 <!ENTITY paste.label               "Aseta">
 <!ENTITY delete.label              "Kustuta">
 <!ENTITY selectAll.label           "Vali kõik">
 <!ENTITY noSuggestions.label       "(soovitusi ei leitud)">
 <!ENTITY addToDictionary.label     "Lisa sõnaraamatusse">
+<!ENTITY inputMethod.label         "Vali sisestamise meetod">
 
 <!ENTITY allPagesHeader.label      "Kõik lehed">
 <!ENTITY bookmarksHeader.label     "Järjehoidjad">
@@ -106,3 +108,5 @@
 <!ENTITY pageactions.reset         "Kustuta lehe eelistused">
 <!ENTITY pageactions.findInPage    "Otsi lehelt">
 <!ENTITY pageactions.search.addNew "Lisa otsingumootor">
+
+<!ENTITY appMenu.siteOptions       "Saidi sätted">
