@@ -41,6 +41,7 @@
 
 <!ENTITY addonsManagerCmd.label "Utvidelser">
 <!ENTITY addonsManagerCmd.accesskey "U">
+<!ENTITY addonsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Bytt profil …">
 <!ENTITY switchProfileCmd.accesskey "y">

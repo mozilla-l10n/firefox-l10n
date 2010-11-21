@@ -63,3 +63,7 @@
 <!ENTITY sidebar.close.tooltip       "Lukk sidestolpe">
 <!ENTITY sidebar.open.tooltip        "Åpne sidestolpe">
 
+<!ENTITY sidebar.search.label         "Søk">
+<!ENTITY sidebar.client-bookmarks.label     "Bokmerker">
+<!ENTITY sidebar.client-history.label       "Historikk">
+<!ENTITY sidebar.client-addressbook.label   "Adressebok">

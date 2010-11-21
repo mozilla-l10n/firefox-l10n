@@ -55,6 +55,7 @@
 <!ENTITY lookIn.accesskey                    "S"> 
 <!ENTITY for.label                           "etter:"> 
 <!ENTITY for.accesskey                       "e"> 
+<!ENTITY for.placeholder                     "Navn eller e-post">
 <!ENTITY addressMessageTo.label              "Adresser melding til:"> 
 
 <!-- Tooltips items -->  
