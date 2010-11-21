@@ -1132,6 +1132,7 @@
       <rdf:Seq>
         <rdf:li><rdf:Description ID="shortcuts_using" nc:name="Usar atajos de teclado" nc:link="shortcuts.xhtml#using_shortcuts"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_general" nc:name="Atajos de teclado globales en  &brandShortName;" nc:link="shortcuts.xhtml#general_mozilla_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts-text-field" nc:name="Atajos de teclado en campos de texto" nc:link="shortcuts.xhtml#text_field_shortcuts"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="Atajos de teclado del navegador" nc:link="shortcuts_navigator.xhtml"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_mail" nc:name="Atajos de teclado en Correo y noticias" nc:link="shortcuts_mailnews.xhtml"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_composer" nc:name="Atajos de teclado en Composer" nc:link="shortcuts_composer.xhtml"/> </rdf:li>
