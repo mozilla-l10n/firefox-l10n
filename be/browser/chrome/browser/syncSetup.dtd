@@ -67,11 +67,9 @@
 <!ENTITY choice2.server.main.label "Замяніць усе здаткі на іншых збудовах здаткамі з гэтага кампутара">
 <!ENTITY setup.optionsConfirmPage.title "Сцвярджэнне">
 <!ENTITY confirm.merge.label "&syncBrand.fullName.label; зараз зліе ўсе здаткі азіральніка на гэтым кампутары ў ваш рахунак Sync.">
-<!ENTITY confirm.client.label "Усе здаткі &brandShortName; на гэтым кампутары будуць выдалены, уключаючы:">
+<!ENTITY confirm.client2.label "Увага: наступныя здаткі &brandShortName; будуць выдалены на гэтым кампутары:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; скапіруе здаткі &syncBrand.fullName.label; на гэты кампутар.">
-<!ENTITY confirm.client.warning.label "УВАГА: У выніку ўсе здаткі &brandShortName; на гэтым кампутары будуць змененыя!">
-<!ENTITY confirm.server.label "Здаткі на наступных збудовах будуць перазапісаны вашымі мясцовымі здаткамі:">
-<!ENTITY confirm.server.warning.label "УВАГА: Вашы мясцовыя здаткі &brandShortName; зменяць усе здаткі на гэтых збудовах!">
+<!ENTITY confirm.server2.label "Увага: здаткі на наступных збудовах будуць перазапісаны мясцовымі здаткамі:">
 <!ENTITY setup.successPage.title "Уладкаванне скончана">
 <!ENTITY changeOptions.label "Вы можаце змяніць гэтую перавагу з дапамогаю наладжванняў Sync.">
 <!ENTITY continueUsing.label "Зараз вы можаце працягнуць працаваць з &brandShortName;.">

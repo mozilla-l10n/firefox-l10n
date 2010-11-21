@@ -9,12 +9,14 @@
 <!ENTITY closetab.label "Зачыніць устаўку">
 <!ENTITY cut.label "Выразаць">
 <!ENTITY copy.label "Капіяваць">
+<!ENTITY copyAll.label "Скапіваць усё">
 <!ENTITY copylink.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY paste.label "Уставіць">
 <!ENTITY delete.label "Выдаліць">
 <!ENTITY selectAll.label "Вылучыць усё">
 <!ENTITY noSuggestions.label "(няма прапановаў)">
 <!ENTITY addToDictionary.label "Дадаць у слоўнік">
+<!ENTITY inputMethod.label "Выбраць метад уводу">
 <!ENTITY allPagesHeader.label "Усе старонкі">
 <!ENTITY bookmarksHeader.label "Закладкі">
 <!ENTITY historyHeader.label "Гісторыя">
@@ -86,3 +88,4 @@
 <!ENTITY pageactions.findInPage "Знайсці на старонцы">
 <!ENTITY pageactions.search.addNew "Дадаць машыну пошуку">
 <!ENTITY selectHelper.emptytext "Спіс сітаў">
+<!ENTITY appMenu.siteOptions "Наладжванні пляцоўкі">

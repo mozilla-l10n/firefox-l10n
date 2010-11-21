@@ -70,7 +70,8 @@
 <!ENTITY col.dateadded.label "Дададзена">
 <!ENTITY col.lastmodified.label "Апошняе змяненне">
 <!ENTITY search.label "Пошук:">
-<!ENTITY search.accesskey "П">
+<!ENTITY search.placeholder "Пошук закладак">
+<!ENTITY search.in.label "Шукаць у:">
 <!ENTITY search.scopeFolder.label "Выбраная папка">
 <!ENTITY search.scopeFolder.accesskey "п">
 <!ENTITY search.scopeBookmarks.label "Закладкі">

@@ -1,9 +1,5 @@
-<!ENTITY securityMenu.label "Бяспека">
-<!ENTITY securityMenu.accesskey "я">
 <!ENTITY menu_securityEncryptRequire.label "Зашыфраваць гэты ліст">
 <!ENTITY menu_securityEncryptRequire.accesskey "ш">
-<!ENTITY menu_securityNoEncryption.label "Не зашыфроўваць гэты ліст">
-<!ENTITY menu_securityNoEncryption.accesskey "Н">
 <!ENTITY menu_securitySign.label "Лічбава падпісаць гэты ліст">
 <!ENTITY menu_securitySign.accesskey "П">
 <!ENTITY menu_securityStatus.label "Праглядзець звесткі пра бяспеку">
