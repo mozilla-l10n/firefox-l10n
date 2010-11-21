@@ -92,11 +92,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title     "Kinnitamine">
 <!ENTITY confirm.merge.label                "Sa oled valinud selle arvuti andmete ühendamise teiste &syncBrand.fullName.label;i kasutavate seadmete andmetega.">
-<!ENTITY confirm.client.label               "Kõik &brandShortName;i andmed selles arvutis kustutatakse, ka järgnevad:">
+<!ENTITY confirm.client2.label              "Hoiatus: järgnevad &brandShortName;i andmed selles arvutis kustutatakse:">
 <!ENTITY confirm.client.moreinfo.label      "&brandShortName; kopeerib pärast seda &syncBrand.fullName.label;i andmed sellesse arvutisse.">
-<!ENTITY confirm.client.warning.label       "HOIATUS: lõpptulemusena asendatakse kõik &brandShortName;i andmed selles arvutis!">
-<!ENTITY confirm.server.label               "Järgnevate seadmete andmed kirjutatakse üle selle arvuti andmetega:">
-<!ENTITY confirm.server.warning.label       "HOIATUS: selle arvuti andmed asendavad kõik &brandShortName;i andmed nendes seadmetes!">
+<!ENTITY confirm.server2.label              "Hoiatus: järgnevate seadmete andmed kirjutatakse üle selle arvuti andmetega:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title            "Seadistamine on lõpetatud!">
