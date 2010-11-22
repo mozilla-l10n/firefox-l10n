@@ -1,0 +1,19 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Niet verbonden">
+<!ENTITY sync.connect               "Verbinden">
+<!ENTITY sync.connected             "Verbonden">
+<!ENTITY sync.details               "Details">
+<!ENTITY sync.synchronize           "Sync inschakelen">
+<!ENTITY sync.deviceName            "Dit apparaat">
+<!ENTITY sync.disconnect            "Verbinding verbreken">
+<!ENTITY sync.syncNow               "Nu synchroniseren">
+
+<!ENTITY sync.setup.title           "Verbinden met Sync">
+<!ENTITY sync.setup.jpake           "Ga op een computer die met Firefox Sync is verbonden naar de Sync-opties en selecteer &#x0022;Een apparaat toevoegen&#x0022;">
+<!ENTITY sync.fallback              "Ik ben niet bij mijn computer…">
+<!ENTITY sync.setup.manual          "Voer uw Sync-accountgegevens in">
+<!ENTITY sync.account               "Accountnaam">
+<!ENTITY sync.password              "Wachtwoord">
+<!ENTITY sync.syncKey               "Sync-sleutel">
+<!ENTITY sync.customServer          "Eigen server gebruiken">
+<!ENTITY sync.serverURL             "Server-URL">
