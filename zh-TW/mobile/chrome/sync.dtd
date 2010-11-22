@@ -3,9 +3,7 @@
 <!ENTITY sync.connect               "連線">
 <!ENTITY sync.connected             "已連線">
 <!ENTITY sync.details               "詳細資訊">
-<!ENTITY sync.synchronize.label     "同步">
-<!ENTITY sync.synchronize.yes       "開啟">
-<!ENTITY sync.synchronize.no        "關閉">
+<!ENTITY sync.synchronize           "啟用 Sync">
 <!ENTITY sync.deviceName            "此裝置">
 <!ENTITY sync.disconnect            "取消連線">
 <!ENTITY sync.syncNow               "立刻同步">
