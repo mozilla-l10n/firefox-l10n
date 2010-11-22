@@ -71,6 +71,7 @@
 <!ENTITY col.lastmodified.label "Ultima modifica">
 <!ENTITY search.label "Cerca:">
 <!ENTITY search.placeholder "Cerca nei segnalibri">
+<!ENTITY search.in.label "Cerca tra:">
 <!ENTITY search.scopeFolder.label "Cartella selezionata">
 <!ENTITY search.scopeFolder.accesskey "z">
 <!ENTITY search.scopeBookmarks.label "Segnalibri">
