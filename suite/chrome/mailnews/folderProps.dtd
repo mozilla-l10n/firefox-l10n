@@ -45,7 +45,7 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "Standaard toepassen op alle berichten in de map (de in berichten opgegeven tekenset en autodetectie worden genegeerd)">
 <!ENTITY folderCharsetOverride.accesskey         "t">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Samenvattingsbestandsindex opnieuw opbouwen">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Index van samenvattingsbestand opnieuw opbouwen">
 <!ENTITY folderRebuildSummaryFile2.label         "Map repareren">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
 <!ENTITY folderRebuildSummaryFile.explanation    "Soms raakt het mapindexbestand (.msf) beschadigd en kunnen berichten lijken te ontbreken of verwijderde berichten zichtbaar blijven; repareren van de map kan deze problemen oplossen.">
@@ -57,9 +57,9 @@
 <!ENTITY retentionUseAccount.accesskey "M">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
-<!ENTITY retentionCleanup.label "Berichten behouden:">
-<!ENTITY retentionCleanupImap.label "Berichten behouden, zowel de lokale kopieën als de originele op de server:">
-<!ENTITY retentionCleanupPop.label "Berichten behouden, inclusief de originele op de server:">
+<!ENTITY retentionCleanup.label "Berichten bewaren:">
+<!ENTITY retentionCleanupImap.label "Berichten bewaren, zowel de lokale kopieën als de originele op de server:">
+<!ENTITY retentionCleanupPop.label "Berichten bewaren, inclusief de originele op de server:">
 <!ENTITY retentionDeleteMsg.label "Berichten verwijderen die ouder zijn dan">
 <!ENTITY retentionDeleteMsg.accesskey "o">
 <!ENTITY retentionKeepAll.label "Alle berichten">

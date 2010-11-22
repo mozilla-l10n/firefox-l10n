@@ -62,3 +62,8 @@
 <!ENTITY sidebar.pagenotfound.label  "Dit tabblad is momenteel niet beschikbaar.">
 <!ENTITY sidebar.close.tooltip       "Zijbalk sluiten">
 <!ENTITY sidebar.open.tooltip        "Zijbalk openen">
+
+<!ENTITY sidebar.search.label         "Zoeken">
+<!ENTITY sidebar.client-bookmarks.label     "Bladwijzers">
+<!ENTITY sidebar.client-history.label       "Geschiedenis">
+<!ENTITY sidebar.client-addressbook.label   "Adresboek">
