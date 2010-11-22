@@ -1,40 +1,40 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "विघ्ननिवारण सूचना">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
+  This  page contains technical information that might be useful when you're
   trying to solve a problem. If you are looking for answers to common questions
   about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionsTitle "विस्तार">
+<!ENTITY aboutSupport.extensionName "नाम">
+<!ENTITY aboutSupport.extensionEnabled "सक्रिय">
+<!ENTITY aboutSupport.extensionVersion "संस्करण">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsTitle "अनुप्रयोग मूल">
+<!ENTITY aboutSupport.appBasicsName "नाम">
+<!ENTITY aboutSupport.appBasicsVersion "संस्करण">
+<!ENTITY aboutSupport.appBasicsProfileDir "प्रोफ़ाइल निर्देशिका">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "सक्रिय प्लगिन">
+<!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड विन्यास">
+<!ENTITY aboutSupport.appBasicsUserAgent "उपयोक्ता प्रतिनिधि">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "शामिल करने वाले फ़ोल्डर खोलें">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "फाइंडर में पता करें">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
+<!ENTITY aboutSupport.modifiedPrefsTitle "रूपांतरित वरीयताएँ">
+<!ENTITY aboutSupport.modifiedPrefsName "नाम">
+<!ENTITY aboutSupport.modifiedPrefsValue "मान">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "चित्रादि">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.installationHistoryTitle "संस्थापन इतिहास">
+<!ENTITY aboutSupport.updateHistoryTitle "अद्यतन इतिहास">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "सभी का क्लिपबोर्ड में नक़ल लें">
