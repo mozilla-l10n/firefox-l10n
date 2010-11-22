@@ -24,9 +24,9 @@ that require it.  -->
 <!ENTITY clearTimeDuration.lastHour       "കഴിഞ്ഞ മണിക്കൂര്‍">
 <!ENTITY clearTimeDuration.last2Hours     "കഴിഞ്ഞ രണ്ടു മണിക്കൂര്‍">
 <!ENTITY clearTimeDuration.last4Hours     "കഴിഞ്ഞ നാലു മണിക്കൂര്‍">
-<!ENTITY clearTimeDuration.nameColumn     "പേര്">
+<!ENTITY clearTimeDuration.nameColumn     "പേരു്">
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.today          "ഇന്ന്">
+<!ENTITY clearTimeDuration.today          "ഇന്നു്">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 <!ENTITY detailsProgressiveDisclosure.label     "വിശദവിവരങ്ങള്‍">
 
@@ -34,9 +34,9 @@ that require it.  -->
 <!ENTITY itemBrowsingHistory.accesskey     "B">
 <!ENTITY itemBrowsingHistory.label         "ബ്രൗസിങ്ങ് ഹിസ്റ്ററി">
 <!ENTITY itemCache.accesskey               "A">
-<!ENTITY itemCache.label                   "കാഷെ">
+<!ENTITY itemCache.label                   "കാഷ്">
 <!ENTITY itemDownloadHistory.accesskey     "D">
-<!ENTITY itemDownloadHistory.label         "ഡൗണ്‍ലോഡ് ഹിസ്റ്ററി">
+<!ENTITY itemDownloadHistory.label         "ഡൗണ്‍ലോഡ് നാള്‍വഴി">
 
 <!ENTITY historySection.label         "നാള്‍വഴി">
 <!ENTITY dataSection.label            "ഡേറ്റാ">
@@ -45,7 +45,7 @@ that require it.  -->
 <!--ENTITY itemVisitedPages.label       "സന്ദര്‍ശിച്ച താളുകള്‍"-->
 <!--ENTITY itemVisitedPages.accesskey   "V"-->
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemFormSearchHistory.label       "&amp; -ല്‍ നിന്നും ഹിസ്റ്ററി തിരയുക">
+<!ENTITY itemFormSearchHistory.label       "നാള്‍വഴി തെരയുക">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemHistoryAndDownloads.label     "ബ്രൗസിങ്ങും ഹിസ്റ്ററി ഡൗണ്‍ലോഡ് ചെയ്യലും">
 <!ENTITY itemSitePreferences.accesskey     "S">
