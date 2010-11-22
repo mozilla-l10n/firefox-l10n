@@ -92,11 +92,13 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "ಖಚಿತಪಡಿಸು">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; ವು ಈಗ ಈ ಗಣಕದ ಜಾಲ ವೀಕ್ಷಕದ ಎಲ್ಲಾ  ಮಾಹಿತಿಯನ್ನು ನಿಮ್ಮ ಸಿಂಕ್ ಖಾತೆಯೊಂದಿಗೆ ವಿಲೀನಗೊಳಿಸುತ್ತದೆ.">
-<!ENTITY confirm.client.label         "ಈ ಗಣಕದಲ್ಲಿರುವ ಎಲ್ಲಾ &brandShortName; ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ, ಅವುಗಳಲ್ಲಿ ಈ ಕೆಳಗಿನದೂ ಒಳಗೊಂಡಿದೆ:">
+<!--ENTITY confirm.client.label         "ಈ ಗಣಕದಲ್ಲಿರುವ ಎಲ್ಲಾ &brandShortName; ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ, ಅವುಗಳಲ್ಲಿ ಈ ಕೆಳಗಿನದೂ ಒಳಗೊಂಡಿದೆ:"-->
+<!ENTITY confirm.client2.label         "ಎಚ್ಚರಿಕೆ: ಈ ಗಣಕದಲ್ಲಿರುವ ಈ ಕೆಳಗಿನ &brandShortName; ಮಾಹಿತಿಯನ್ನು ಅಳಿಸಿಹಾಕಲಾಗುತ್ತದೆ:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; ವು ನಂತರ  &syncBrand.fullName.label; ನಲ್ಲಿನ ಮಾಹಿತಿಯನ್ನು ಈ ಗಣಕಕ್ಕೆ ಕಾಪಿ ಮಾಡುತ್ತದೆ.">
-<!ENTITY confirm.client.warning.label "ಎಚ್ಚರಿಕೆ: ಇದರಿಂದಾಗಿ ನಿಮ್ಮ ಈ ಗಣಕದ &brandShortName; ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಮಾಹಿತಿಯು ನಾಶಗೊಳ್ಳಲು ಕಾರಣವಾಗುತ್ತದೆ!">
-<!ENTITY confirm.server.label         "ಈ ಕೆಳಗಿನ ಸಾಧನಗಳಲ್ಲಿ ನಿಮ್ಮ ಸ್ಥಳೀಯ ಮಾಹಿತಿಯಿಂದ ತಿದ್ದಿ ಬರೆಯಲಾಗುತ್ತದೆ:">
-<!ENTITY confirm.server.warning.label "ಎಚ್ಚರಿಕೆ: ಈ ಕೆಳಗಿನ ಸಾಧನಗಳಲ್ಲಿರುವ &brandShortName; ನ ಎಲ್ಲಾ ಮಾಹಿತಿಯು ನಿಮ್ಮ ಸ್ಥಳೀಯ ಮಾಹಿತಿಯಿಂದ ತಿದ್ದಿ ಬರೆಯಲಾಗುತ್ತದೆ!">
+<!--ENTITY confirm.client.warning.label "ಎಚ್ಚರಿಕೆ: ಇದರಿಂದಾಗಿ ನಿಮ್ಮ ಈ ಗಣಕದ &brandShortName; ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಮಾಹಿತಿಯು ನಾಶಗೊಳ್ಳಲು ಕಾರಣವಾಗುತ್ತದೆ!"-->
+<!--ENTITY confirm.server.label         "ಈ ಕೆಳಗಿನ ಸಾಧನಗಳಲ್ಲಿ ನಿಮ್ಮ ಸ್ಥಳೀಯ ಮಾಹಿತಿಯಿಂದ ತಿದ್ದಿ ಬರೆಯಲಾಗುತ್ತದೆ:"-->
+<!--ENTITY confirm.server.warning.label "ಎಚ್ಚರಿಕೆ: ಈ ಕೆಳಗಿನ ಸಾಧನಗಳಲ್ಲಿರುವ &brandShortName; ನ ಎಲ್ಲಾ ಮಾಹಿತಿಯು ನಿಮ್ಮ ಸ್ಥಳೀಯ ಮಾಹಿತಿಯಿಂದ ತಿದ್ದಿ ಬರೆಯಲಾಗುತ್ತದೆ!"-->
+<!ENTITY confirm.server2.label         "ಎಚ್ಚರಿಕೆ: ಈ ಕೆಳಗಿನ ಸಾಧನಗಳ ಮೇಲೆ ನಿಮ್ಮ ಸ್ಥಳೀಯ ಮಾಹಿತಿಯಿಂದ ತಿದ್ದಿ ಬರೆಯಲಾಗುತ್ತದೆ:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "ಸಿದ್ಧತೆ ಪೂರ್ಣಗೊಂಡಿದೆ">
