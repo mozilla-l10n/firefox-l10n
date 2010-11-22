@@ -1,4 +1,3 @@
-
 <!ENTITY migrationWizard.title          "Import-Assistent">
 
 <!ENTITY importFromWin.label            "Einstellungen, Konten, Adressbücher, Filter und sonstige Daten importieren von:">
@@ -8,8 +7,6 @@
 <!ENTITY importFromNothing.accesskey    "i">
 <!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x oder Seamonkey">
 <!ENTITY importFromSeamonkey2.accesskey "N">
-<!ENTITY importFromNetscape4.label      "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey  "4">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
