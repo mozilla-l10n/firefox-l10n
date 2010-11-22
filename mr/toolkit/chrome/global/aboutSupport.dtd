@@ -1,4 +1,4 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "त्रुटीनिवारन माहिती">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
@@ -7,34 +7,34 @@
   about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionsTitle "वाढ">
+<!ENTITY aboutSupport.extensionName "नाव">
+<!ENTITY aboutSupport.extensionEnabled "समर्थीत">
+<!ENTITY aboutSupport.extensionVersion "आवृत्ती">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsTitle "ॲप्लिकेशनचे मुळ">
+<!ENTITY aboutSupport.appBasicsName "नाव">
+<!ENTITY aboutSupport.appBasicsVersion "आवृत्ती">
+<!ENTITY aboutSupport.appBasicsProfileDir "प्रोफाइल डिरेक्ट्री">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "समर्थीत प्लगईंस्">
+<!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड् संरचना">
+<!ENTITY aboutSupport.appBasicsUserAgent "युजर एजेंट">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "अंतर्भूत माहिती समाविष्टीत फोल्डर उघडा">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "फाइंडरमध्ये दाखवा">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
+<!ENTITY aboutSupport.modifiedPrefsTitle "संपादित पसंती">
+<!ENTITY aboutSupport.modifiedPrefsName "नाव">
+<!ENTITY aboutSupport.modifiedPrefsValue "मूल्य">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "ग्राफिक्स्">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.installationHistoryTitle "प्रतिष्ठापन इतिहास">
+<!ENTITY aboutSupport.updateHistoryTitle "इतिहास सुधारीत करा">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "सर्वांचे क्लिपबोर्डमध्ये प्रत बनवा">
