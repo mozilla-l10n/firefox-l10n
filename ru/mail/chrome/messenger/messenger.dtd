@@ -285,6 +285,10 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "отмеченное звёздочкой сообщение">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
+<!ENTITY folderMenu.label "Папка">
+<!ENTITY folderMenu.accesskey "а">
+<!ENTITY thisFolder.label "Эта папка">
+<!ENTITY thisFolder.accesskey "т">
 <!ENTITY startPageCmd.label "Начальная страница">
 <!ENTITY startPageCmd.accesskey "Н">
 <!ENTITY msgMenu.label "Сообщение">

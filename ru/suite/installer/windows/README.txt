@@ -79,7 +79,7 @@ mozilla.org для тестовых целей, могут содержать ошибки. Если вы ищете более
 из исходных текстов. Для получения информации о том, как собрать SeaMonkey
 из исходных текстов, расположенных на веб-сайте mozilla.org, зайдите по ссылке
 
-  http://developer.mozilla.org/en/docs/Build_Documentation
+  http://developer.mozilla.org/en/Build_Documentation
 
 
 Инструкции по установке в Windows
