@@ -17,3 +17,5 @@
 <!ENTITY sync.syncKey               "Sync-kaai">
 <!ENTITY sync.customServer          "Brûk eigen tsjinner">
 <!ENTITY sync.serverURL             "Tsjinner-URL">
+<!ENTITY sync.setup.connect         "Ferbyn">
+<!ENTITY sync.setup.cancel          "Annulearje">
