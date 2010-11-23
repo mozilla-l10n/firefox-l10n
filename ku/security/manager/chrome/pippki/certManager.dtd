@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "Z">
 
 <!ENTITY exceptionMgr.title                   "Zêdekariya ewlekariyê bidê">
-<!ENTITY exceptionMgr.exceptionButton         "Zêdekariya ewlekariyê birastîne">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "j">
+<!ENTITY exceptionMgr.exceptionButton.label   "Zêdekariya ewlekariyê birastîne">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "Z">
 <!ENTITY exceptionMgr.supplementalWarning     "Malperên banka, maxeze û malperên giştî yên zagonî dê vê kiryarê ji te nexwazin.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Pêşkêşkar">
 <!ENTITY exceptionMgr.certlocation.url        "Cî:">

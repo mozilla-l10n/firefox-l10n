@@ -2,7 +2,7 @@
 <!ENTITY  button-back-mac.accesskey    "a">
 <!ENTITY  button-next-mac.label        "Bidomîne">
 <!ENTITY  button-next-mac.accesskey    "B">
-<!ENTITY  button-finish-mac.label      "Temam">
+<!ENTITY  button-finish-mac.label      "Bi dawî bû">
 <!ENTITY  button-cancel-mac.label      "Betal">
 
 <!ENTITY  button-back-unix.label       "Paş">

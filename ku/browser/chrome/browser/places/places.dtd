@@ -126,8 +126,8 @@
 <!ENTITY detailsPane.noPreviewAvailable.label "Pêşdîtin">
 <!ENTITY detailsPane.selectAnItemText.description "Ji bo nîşandan û serrastkirina taybetmendiyan yekê hilbijêre">
 
-<!ENTITY find.label               "Lêgerîn:">
-<!ENTITY find.accesskey           "g">
+<!ENTITY find.label               "Bigere:">
+<!ENTITY find.accesskey           "B">
 <!ENTITY view.label               "Bibîne">
 <!ENTITY view.accesskey           "B">
 <!ENTITY byDate.label             "Dîrok">

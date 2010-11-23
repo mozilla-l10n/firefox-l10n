@@ -158,7 +158,7 @@ can reach it easily. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Mêjû">
+<!ENTITY historyButton.label            "Dîrok">
 <!ENTITY historyButton.tooltip          "Malperên ku di dîrokê de hatine vekirin bibîne">
 <!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
@@ -265,11 +265,11 @@ can reach it easily. -->
 <!ENTITY viewTabsOnTop.label            "Hilpekîn li Jorê">
 <!ENTITY viewTabsOnTop.accesskey        "H">
 
-<!ENTITY historyMenu.label "Mêjû">
-<!ENTITY historyMenu.accesskey "M">
-<!ENTITY historyUndoMenu.label "Hilpekînên Di Dîroka Dawî De Hatine Girtin">
+<!ENTITY historyMenu.label "Dîrok">
+<!ENTITY historyMenu.accesskey "D">
+<!ENTITY historyUndoMenu.label "Hilpekînên di nêzîk de hatine girtin">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Paceyên Di Nêz De hatine Girtin">
+<!ENTITY historyUndoWindowMenu.label "Pencereyên di nêzîk de hatine girtin">
 <!ENTITY historyRestoreLastSession.label "Danişîna berê veava bike">
 
 <!ENTITY historyHomeCmd.label "Serûpel">
@@ -282,7 +282,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Darikên kêlekê">
 <!ENTITY appMenuFind.label "Lêgerîn…">
 <!ENTITY appMenuUnsorted.label "Bijareyên tomarnebûyî">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuWebDeveloper.label "Pêşdebirê webê">
 <!ENTITY appMenuGettingStarted.label "Destpêkirin">
 <!ENTITY appMenuSafeMode.label "Dîsdestpêkirina bi Add-onan hate neçalakirin…">
 <!ENTITY appMenuSafeMode.accesskey "r">
