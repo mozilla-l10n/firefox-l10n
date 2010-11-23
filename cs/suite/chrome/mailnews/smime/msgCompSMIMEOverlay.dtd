@@ -1,13 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Zabezpečení">
-<!ENTITY securityMenu.accesskey "b">
-
 <!ENTITY menu_securityEncryptRequire.label "Zašifrovat zprávu">
 <!ENTITY menu_securityEncryptRequire.accesskey "Z">
-
-<!ENTITY menu_securityNoEncryption.label "Nešifrovat zprávu">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
 
 <!ENTITY menu_securitySign.label "Elektronicky podepsat zprávu">
 <!ENTITY menu_securitySign.accesskey "E">
