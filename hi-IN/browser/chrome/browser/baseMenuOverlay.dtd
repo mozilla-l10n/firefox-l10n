@@ -1,45 +1,45 @@
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Minimize">
-<!ENTITY bringAllToFront.label    "Bring All to Front">
-<!ENTITY zoomWindow.label         "Zoom">
-<!ENTITY windowMenu.label         "Window">
+<!ENTITY minimizeWindow.label     "न्यूनतम">
+<!ENTITY bringAllToFront.label    "सभी को सामने लाएँ">
+<!ENTITY zoomWindow.label         "बड़ा-छोटा करें">
+<!ENTITY windowMenu.label         "विंडो">
 
-<!ENTITY helpMenu.label           "Help"> 
+<!ENTITY helpMenu.label           "मदद"> 
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Help"> 
+<!ENTITY helpMenuWin.label        "मदद"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct.label       "About &brandShortName;">
+<!ENTITY aboutProduct.label       "&brandShortName; का परिचय">
 <!ENTITY aboutProduct.accesskey   "A">
-<!ENTITY productHelp.label        "&brandShortName; Help">
+<!ENTITY productHelp.label        "&brandShortName; मदद">
 <!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpForIEUsers.label     "For Internet Explorer Users">
+<!ENTITY helpForIEUsers.label     "Internet Explorer उपयोक्ताओं के लिए">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.label       "सहयुक्तियों के साथ फिर आरंभ करना निष्क्रिय…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "Release Notes">
+<!ENTITY helpReleaseNotes.label         "रिलीज नोट्स">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
-<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.label      "विघ्ननिवारण सूचना">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दें…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY updateCmd.label                "Check for Updates…">
+<!ENTITY updateCmd.label                "अद्यतन के लिए जाँचेंCheck for Updates…">
 
-<!ENTITY preferencesCmdMac.label        "Preferences…">
+<!ENTITY preferencesCmdMac.label        "वरीयताएँ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "Services">
+<!ENTITY servicesMenuMac.label          "सेवाएँ">
 
-<!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; छिपाएँ">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.label      "अन्य छिपाएँ">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Show All">
+<!ENTITY showAllAppsCmdMac.label        "सभी दिखाएँ">
