@@ -1,5 +1,4 @@
 amazondotcom
-bing
 creativecommons
 google
 wikipedia-kn
