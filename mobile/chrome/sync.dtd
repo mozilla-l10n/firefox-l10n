@@ -16,3 +16,5 @@
 <!ENTITY sync.syncKey "Ключ синхронизации">
 <!ENTITY sync.customServer "Использовать свой сервер">
 <!ENTITY sync.serverURL "URL сервера">
+<!ENTITY sync.setup.connect "Соединиться">
+<!ENTITY sync.setup.cancel "Отмена">

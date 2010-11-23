@@ -9,5 +9,9 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "з">
 <!ENTITY useSmoothScroll.label "Использовать плавную прокрутку">
 <!ENTITY useSmoothScroll.accesskey "л">
+<!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
+<!ENTITY allowHWAccel.accesskey "о">
 <!ENTITY textZoomOnly.label "Масштабировать только текст (не страницу целиком)">
 <!ENTITY textZoomOnly.accesskey "в">
+<!ENTITY blockAutoRefresh.label "Предупреждать при попытке веб-сайтов перенаправить или перезагрузить страницу">
+<!ENTITY blockAutoRefresh.accesskey "р">
