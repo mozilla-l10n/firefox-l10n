@@ -92,11 +92,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Pesendkirin">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; dê niha daneyên gerokê yên van kompîteran hemû li hesabê te yê Syncê biafirîne.">
-<!ENTITY confirm.client.label         "Hemû daneyên &brandShortName;ê yên li ser vê komputerê dê bên jêbirin, ev jî di nav de:">
+<!ENTITY confirm.client2.label         "Hişyarî: Ev daneya &brandShortName;ê ya li ser vê kompîterê dê bê jêbirin:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; dê piştre daneyên te yên &syncBrand.fullName.label;ê li ser vê komputerê kopî bike.">
-<!ENTITY confirm.client.warning.label "HIŞYARÎ: Ev dê hemû encamên daneyên &brandShortName;ê yên li ser vê komputerê veguhezîne!">
-<!ENTITY confirm.server.label         "Daneyên herêmî dê li ser vê cîhazê bên nivîsandin:">
-<!ENTITY confirm.server.warning.label "HIŞYARÎ: Daneyên te yên herêmî dê bi daneyên &brandShortName;ê yên li ser vê cîhazê re bên guheztin!">
+<!ENTITY confirm.server2.label         "Hişyarî: Daneyên te yên herêmî dê li ser van cîhazan bên nivîsandin:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Sazkirin bi dawî hat">

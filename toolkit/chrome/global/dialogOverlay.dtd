@@ -40,6 +40,6 @@
 -->
 
 <!-- OK Cancel Buttons -->
-<!ENTITY okButton.label      "TEMAM">
+<!ENTITY okButton.label      "BAŞ E">
 <!ENTITY cancelButton.label  "Betal">
 <!ENTITY helpButton.label    "Alîkarî">
