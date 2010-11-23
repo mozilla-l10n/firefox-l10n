@@ -17,3 +17,5 @@
 <!ENTITY sync.syncKey               "同步金鑰">
 <!ENTITY sync.customServer          "使用自訂伺服器">
 <!ENTITY sync.serverURL             "伺服器網址">
+<!ENTITY sync.setup.connect         "連線">
+<!ENTITY sync.setup.cancel          "取消">
