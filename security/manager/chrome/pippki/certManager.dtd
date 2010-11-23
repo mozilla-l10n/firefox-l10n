@@ -136,8 +136,8 @@
 <!ENTITY certmgr.addException.accesskey       "к">
 
 <!ENTITY exceptionMgr.title                   "Додати виняток безпеки">
-<!ENTITY exceptionMgr.exceptionButton         "Затвердити виняток безпеки">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "З">
+<!ENTITY exceptionMgr.exceptionButton.label   "Затвердити виняток безпеки">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "З">
 <!ENTITY exceptionMgr.supplementalWarning     "Законні банки, крамниці та інші публічні сайти не попросять це зробити.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Сервер">
 <!ENTITY exceptionMgr.certlocation.url        "Адреса:">

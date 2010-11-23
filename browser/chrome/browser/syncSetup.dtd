@@ -92,11 +92,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Підтвердіть">
 <!ENTITY confirm.merge.label    "Ви обрали об’єднання даних на цьому комп’ютері з даними на інших пристроях, що використовують синхронізацію  &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label         "Всі дані &brandShortName; на цьому комп’ютері будуть стерті, включно з:">
+<!ENTITY confirm.client2.label         "Увага: Наступні дані &brandShortName; на цьому комп’ютері будуть видалені:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; скопіює дані &syncBrand.fullName.label; на цей комп’ютер.">
-<!ENTITY confirm.client.warning.label "УВАГА: це призведе до заміни всіх даних &brandShortName; на цьому комп’ютері!">
-<!ENTITY confirm.server.label         "Дані на таких пристроях будуть замінені локальними даними:">
-<!ENTITY confirm.server.warning.label "УВАГА: Ваші локальні дані замінять всі дані &brandShortName; на цих пристроях!">
+<!ENTITY confirm.server2.label         "Увага: На наступних пристроях всі дані будуть замінені на ваші локальні:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Налаштування завершено">
