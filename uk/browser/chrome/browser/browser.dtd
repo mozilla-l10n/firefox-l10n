@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Вперед">
 <!ENTITY forwardCmd.accesskey         "В">
 <!ENTITY forwardButton.tooltip        "Вперед на одну сторінку">
-<!ENTITY backForwardMenu.tooltip      "Недавні сторінки">
 <!ENTITY reloadCmd.label              "Оновити">
 <!ENTITY reloadCmd.accesskey          "О">
 <!ENTITY reloadButton.tooltip         "Оновити поточну сторінку">

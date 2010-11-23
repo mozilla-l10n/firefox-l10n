@@ -94,14 +94,16 @@
 
 <!ENTITY search.label                              "Пошук:">
 <!ENTITY search.accesskey                          "о">
-<!ENTITY search.scopeFolder.label                  "У вибраній теці">
+
+<!ENTITY search.in.label                           "Шукати у:">
+<!ENTITY search.scopeFolder.label                  "вибраній теці">
 <!ENTITY search.scopeFolder.accesskey              "т">
-<!ENTITY search.scopeBookmarks.label               "Закладки">
+<!ENTITY search.scopeBookmarks.label               "закладках">
 <!ENTITY search.scopeBookmarks.accesskey           "к">
-<!ENTITY search.scopeDownloads.label               "В Завантаженнях">
-<!ENTITY search.scopeDownloads.accesskey           "З">
-<!ENTITY search.scopeHistory.label                 "В Історії">
-<!ENTITY search.scopeHistory.accesskey             "І">
+<!ENTITY search.scopeDownloads.label               "завантаженнях">
+<!ENTITY search.scopeDownloads.accesskey           "з">
+<!ENTITY search.scopeHistory.label                 "історії">
+<!ENTITY search.scopeHistory.accesskey             "і">
 <!ENTITY saveSearch.label                          "Зберегти">
 <!ENTITY saveSearch.accesskey                      "З">
 
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "М">
 <!ENTITY detailsPane.noPreviewAvailable.label "Попередній перегляд">
 <!ENTITY detailsPane.selectAnItemText.description "Додати елемент до перегляду та редагувати його властивості">
+
+<!ENTITY find.label               "Знайти:">
+<!ENTITY find.accesskey           "а">
+<!ENTITY view.label               "Перегляд">
+<!ENTITY view.accesskey           "е">
+<!ENTITY byDate.label             "За датою">
+<!ENTITY byDate.accesskey         "д">
+<!ENTITY bySite.label             "За сайтом">
+<!ENTITY bySite.accesskey         "с">
+<!ENTITY byMostVisited.label      "За частотою відвідування">
+<!ENTITY byMostVisited.accesskey  "ч">
+<!ENTITY byLastVisited.label      "За датою останнього відвідування">
+<!ENTITY byLastVisited.accesskey  "о">
+<!ENTITY byDayAndSite.label       "За датою і сайтом">
+<!ENTITY byDayAndSite.accesskey   "і">
