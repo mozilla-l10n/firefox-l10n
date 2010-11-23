@@ -16,11 +16,11 @@
 
 
 
-<!ENTITY privatebrowsingpage.moreInfo                  "While this computer won't have a record of your browsing history, your internet service provider or employer can still track the pages you visit.">
+<!ENTITY privatebrowsingpage.moreInfo                  "जहाँ इस कंप्यूटर में आपके ब्राउज़िंग इतिहास का रिकार्ड नहीं है, आपके इंटरनेट सेवा प्रदाता या आपके नियोक्ता अभी भी उन पृष्ठों की ट्रैक रख सकते हैं जिसे आप देखते हैं.">
 <!ENTITY privatebrowsingpage.learnMore                 "अधिक जानें">
 
-<!ENTITY privatebrowsingpage.howToStart2               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
-<!ENTITY privatebrowsingpage.howToStop2                "To stop Private Browsing, select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "निजी ब्राउज़िंग आरंभ करने के लिए, आप साथ ही &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; को चुन सकते हैं.">
+<!ENTITY privatebrowsingpage.howToStop2                "निजी ब्राउज़िंग रोकने के लिए, &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; चुनें, या close &brandShortName; बंद करें.">
 
 
 

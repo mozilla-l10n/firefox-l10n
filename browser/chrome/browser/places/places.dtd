@@ -1,142 +1,142 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Library">
+<!ENTITY places.library.title  "लाइब्रेरी">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Organize">
+<!ENTITY organize.label        "व्यवस्थित करें">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.tooltip      "अपने पुस्तचिह्नों को व्यवस्थित करें">
 
 <!ENTITY file.accesskey                 "F">
-<!ENTITY file.close.label               "Close">
+<!ENTITY file.close.label               "बंद करें">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Edit">
+<!ENTITY edit.label                     "संपादन">
 <!ENTITY edit.accesskey                 "E">
-<!ENTITY views.label                    "Views">
+<!ENTITY views.label                    "दृश्य">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "Change your view">
-<!ENTITY view.columns.label             "Show Columns">
+<!ENTITY views.tooltip                  "अपना दृश्य बदलें">
+<!ENTITY view.columns.label             "स्तंभ दिखाएँ">
 <!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                "Sort">
+<!ENTITY view.sort.label                "छाँटें">
 <!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            "Unsorted">
+<!ENTITY view.unsorted.label            "बिना छाँटा">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A > Z Sort Order">
+<!ENTITY view.sortAscending.label       "A > Z छाँटन क्रम">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A Sort Order">
+<!ENTITY view.sortDescending.label      "Z > A छाँटन क्रम">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Find in Bookmarks…">
+<!ENTITY cmd.findInBookmarks.label      "पुस्तचिह्नों में ढूँढ़ें…">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
-<!ENTITY cmd.findCurrent.label          "Find in Current Collection…">
+<!ENTITY cmd.findCurrent.label          "मौजूदा संग्रह में ढूँढ़ें…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "Export HTML…">
+<!ENTITY cmd.exportHTML.label           "HTML निर्यात करें…">
 <!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Import HTML…">
+<!ENTITY cmd.importHTML.label           "HTML आयात करें…">
 <!ENTITY cmd.importHTML.accesskey       "I">
 
-<!ENTITY cmd.backup.label               "Backup…">
+<!ENTITY cmd.backup.label               "बैकअप…">
 <!ENTITY cmd.backup.accesskey           "B">
-<!ENTITY cmd.restore2.label             "Restore">
+<!ENTITY cmd.restore2.label             "पुनर्संग्रहित करें">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Choose File…">
+<!ENTITY cmd.restoreFromFile.label      "फ़ाइल चुनें…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "Bookmark This Page…">
+<!ENTITY cmd.bookmarkLink.label         "इस पृष्ठ को पुस्तचिह्नित करें…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Delete This Page">
+<!ENTITY cmd.delete.label               "इस पृष्ठ को मिटाएँ">
 <!ENTITY cmd.delete.accesskey           "D">
-<!ENTITY cmd.deleteDomainData.label     "Forget About This Site">
+<!ENTITY cmd.deleteDomainData.label     "इस साइट को भूल ही जाएँ">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
-<!ENTITY cmd.open.label                  "Open">
+<!ENTITY cmd.open.label                  "खोलें">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Open in a New Window">
+<!ENTITY cmd.open_window.label           "नए विंडो में खोलें">
 <!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_tab.label              "Open in a New Tab">
+<!ENTITY cmd.open_tab.label              "नए टैब में खोलें">
 <!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "Open All in Tabs">
+<!ENTITY cmd.open_all_in_tabs.label      "सबको टैब में खोलें">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
-<!ENTITY cmd.properties.label      "Properties">
+<!ENTITY cmd.properties.label      "गुण">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.sortby_name.label              "Sort By Name">
+<!ENTITY cmd.sortby_name.label              "नामानुसार छाँटें">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "New Bookmark…">
+<!ENTITY cmd.new_bookmark.label            "नया पुस्तकचिह्न…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "New Folder…">
+<!ENTITY cmd.new_folder.label              "नया फ़ोल्डर…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "New Separator">
+<!ENTITY cmd.new_separator.label           "नया पृथक्ककारक">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Reload Live Bookmark">
+<!ENTITY cmd.reloadLivebookmark.label      "जीवंत पुस्तचिह्न फिर लोड करें">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "Reload Live Title">
+<!ENTITY cmd.reloadMicrosummary.label      "जीवंत शीर्षक फिर लोड करें">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "Move…">
+<!ENTITY cmd.moveBookmarks.label                  "खिसकाएँ…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
-<!ENTITY col.name.label          "Name">
-<!ENTITY col.tags.label          "Tags">
-<!ENTITY col.url.label           "Location">
-<!ENTITY col.lastvisit.label     "Visit Date">
-<!ENTITY col.visitcount.label    "Visit Count">
-<!ENTITY col.keyword.label       "Keyword">
-<!ENTITY col.description.label   "Description">
-<!ENTITY col.dateadded.label     "Added">
-<!ENTITY col.lastmodified.label  "Last Modified">
+<!ENTITY col.name.label          "नाम">
+<!ENTITY col.tags.label          "टैग">
+<!ENTITY col.url.label           "स्थान">
+<!ENTITY col.lastvisit.label     "देखने का दिनांक">
+<!ENTITY col.visitcount.label    "देखने की संख्या">
+<!ENTITY col.keyword.label       "बीजशब्द">
+<!ENTITY col.description.label   "विवरण">
+<!ENTITY col.dateadded.label     "जोड़ा गया">
+<!ENTITY col.lastmodified.label  "अंतिम रूपांतरित">
 
-<!ENTITY search.label                              "Search:">
+<!ENTITY search.label                              "खोजें:">
 <!ENTITY search.accesskey                          "S">
 
-<!ENTITY search.in.label                           "Search in:">
-<!ENTITY search.scopeFolder.label                  "Selected Folder">
+<!ENTITY search.in.label                           "इसमें खोजें:">
+<!ENTITY search.scopeFolder.label                  "चुना गया फ़ोल्डर">
 <!ENTITY search.scopeFolder.accesskey              "r">
-<!ENTITY search.scopeBookmarks.label               "Bookmarks">
+<!ENTITY search.scopeBookmarks.label               "पुस्तचिह्न">
 <!ENTITY search.scopeBookmarks.accesskey           "k">
-<!ENTITY search.scopeDownloads.label               "Downloads">
+<!ENTITY search.scopeDownloads.label               "डाउनलोड">
 <!ENTITY search.scopeDownloads.accesskey           "D">
-<!ENTITY search.scopeHistory.label                 "History">
+<!ENTITY search.scopeHistory.label                 "इतिहास">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY saveSearch.label                          "Save">
+<!ENTITY saveSearch.label                          "सहेजें">
 <!ENTITY saveSearch.accesskey                      "S">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Import and Backup">
+<!ENTITY maintenance.label      "आयात और बैकअप">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip    "अपने पुस्तचिह्नों को आयात और बैकअप करें">
 
-<!ENTITY backCmd.label       "Back">
-<!ENTITY backButton.tooltip  "Go back">
+<!ENTITY backCmd.label       "पीछे">
+<!ENTITY backButton.tooltip  "वापस जाएँ">
 
-<!ENTITY forwardCmd.label       "Forward">
-<!ENTITY forwardButton.tooltip  "Go forward">
+<!ENTITY forwardCmd.label       "आगे">
+<!ENTITY forwardButton.tooltip  "आगे जाएँ">
 
-<!ENTITY detailsPane.more.label "More">
+<!ENTITY detailsPane.more.label "अधिक">
 <!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "Less">
+<!ENTITY detailsPane.less.label "कम">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "Preview">
-<!ENTITY detailsPane.selectAnItemText.description "Select an item to view and edit its properties">
+<!ENTITY detailsPane.noPreviewAvailable.label "पूर्वावलोकन">
+<!ENTITY detailsPane.selectAnItemText.description "किसी मद की विशेषताओं को देखने के लिए इसे चुनें और संपादित करें">
 
-<!ENTITY find.label               "Search:">
+<!ENTITY find.label               "खोजें:">
 <!ENTITY find.accesskey           "S">
-<!ENTITY view.label               "View">
+<!ENTITY view.label               "दृश्य">
 <!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "By Date">
+<!ENTITY byDate.label             "दिनांक अनुसार">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "By Site">
+<!ENTITY bySite.label             "साइट अनुसार">
 <!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "By Most Visited">
+<!ENTITY byMostVisited.label      "सबसे अधिक देख गए अनुसार">
 <!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "By Last Visited">
+<!ENTITY byLastVisited.label      "अंतिम बार देखे गए अनुसार">
 <!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "By Date and Site">
+<!ENTITY byDayAndSite.label       "दिनांक और साइट">
 <!ENTITY byDayAndSite.accesskey   "t">
