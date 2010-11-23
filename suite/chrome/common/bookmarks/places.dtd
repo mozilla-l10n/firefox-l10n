@@ -85,6 +85,8 @@
 
 <!ENTITY search.label "Hledat:">
 <!ENTITY search.placeholder "Hledat záložky">
+
+<!ENTITY search.in.label "Hledat v:">
 <!ENTITY search.scopeFolder.label "Zvolená složka">
 <!ENTITY search.scopeFolder.accesskey "v">
 <!ENTITY search.scopeBookmarks.label "Záložky">

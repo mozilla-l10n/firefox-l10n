@@ -63,3 +63,7 @@
 <!ENTITY sidebar.close.tooltip "Zavře postranní lištu">
 <!ENTITY sidebar.open.tooltip "Otevře postranní lištu">
 
+<!ENTITY sidebar.search.label "Hledání">
+<!ENTITY sidebar.client-bookmarks.label "Záložky">
+<!ENTITY sidebar.client-history.label "Historie">
+<!ENTITY sidebar.client-addressbook.label "Adresář">
