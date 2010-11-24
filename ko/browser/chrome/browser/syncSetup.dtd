@@ -96,11 +96,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "설정 확인">
 <!ENTITY confirm.merge.label          "현재 컴퓨터의 자료와 &syncBrand.fullName.label;를 구동하는 다른 기기의 자료와 병합을 선택했습니다.">
-<!ENTITY confirm.client.label         "현재 컴퓨터의 모든 &brandShortName; 자료는 삭제됩니다. 포함 항목:">
+<!ENTITY confirm.client2.label         "경고: 현재 컴퓨터의 모든 &brandShortName; 데이터는 삭제됩니다. 포함 항목:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName;는 &syncBrand.fullName.label; 자료를 현재 컴퓨터로 복사합니다.">
-<!ENTITY confirm.client.warning.label "경고: 현재 컴퓨터의 모든 &brandShortName; 자료가 변경됩니다!">
-<!ENTITY confirm.server.label         "아래 기기는 로컬 자료로 변경됩니다:">
-<!ENTITY confirm.server.warning.label "경고: 로컬 자료는 현재 기기 내 &brandShortName;의 모든 자료로 변경 됩니다!">
+<!ENTITY confirm.server2.label         "경고: 아래 기기는 로컬 데이터로 덮어 쓰게됩니다:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title   "설정 완료">
