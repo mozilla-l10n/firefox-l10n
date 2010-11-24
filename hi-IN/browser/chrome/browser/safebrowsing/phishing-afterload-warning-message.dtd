@@ -24,6 +24,6 @@
 
 <!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
 
-<!ENTITY safeb.blocked.phishingPage.title "Reported Web Forgery!">
+<!ENTITY safeb.blocked.phishingPage.title "रिपोर्ट की गई वेब धोखाधड़ी!">
 
-<!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
+<!ENTITY safeb.palm.reportPage.label "क्यों यह पृष्ठ रोका गया है?">
