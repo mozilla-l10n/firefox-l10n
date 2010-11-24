@@ -17,3 +17,5 @@
 <!ENTITY sync.syncKey               "Klucz Sync">
 <!ENTITY sync.customServer          "Użyj innego serwera">
 <!ENTITY sync.serverURL             "URL serwera">
+<!ENTITY sync.setup.connect         "Połącz">
+<!ENTITY sync.setup.cancel          "Anuluj">
