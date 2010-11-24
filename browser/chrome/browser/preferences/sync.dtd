@@ -1,43 +1,43 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; सेटअप करें">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; आपको अपनी पूरी युक्तियों में आपके इतिहास, पुस्तचिह्न, कूटशब्दों और खुले टैब की पहुँच लेने देता है.">
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentAccount.label         "Current Account:">
+<!ENTITY currentAccount.label         "मौजूदा खाता:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "अद्यतन करें">
+<!ENTITY resetPass.label              "फिर सेट करें">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.label          "खाता प्रबंधित करें">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!ENTITY viewQuota.label              "कोटा देखें">
+<!ENTITY changePassword.label         "कूटशब्द बदलें">
+<!ENTITY mySyncKey.label              "मेरा सिंक कुंजी">
+<!ENTITY resetSync.label              "सिंक फिर सेट करें">
+<!ENTITY stopUsingAccount.label       "इस खाता का उपयोग रोकें">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncPrefsCaption.label       "सिंक ब्राउज़ करें">
+<!ENTITY syncComputerName.label       "कंप्यूटर नाम:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "तुल्यकालित करें">
+<!ENTITY engine.bookmarks.label     "पुस्तचिह्न">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.label          "टैब">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.label     "कूटशब्द">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.label         "वरीयताएँ">
 <!ENTITY engine.prefs.accesskey     "S">
 
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "सेवा शर्त">
+<!ENTITY prefs.ppLink.label         "गोपनीयता नीति">
