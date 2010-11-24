@@ -17,3 +17,5 @@
 <!ENTITY sync.syncKey               "Clau del Sync">
 <!ENTITY sync.customServer          "Utilitza un servidor personalitzat">
 <!ENTITY sync.serverURL             "URL del servidor">
+<!ENTITY sync.setup.connect         "Connecta">
+<!ENTITY sync.setup.cancel          "Cancel·la">
