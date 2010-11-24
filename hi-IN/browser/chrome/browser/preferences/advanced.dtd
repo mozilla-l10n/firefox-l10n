@@ -96,10 +96,10 @@
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
 
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.label              "उपलब्ध होने पर हार्ड त्वरण का उपयोग करें">
 <!ENTITY allowHWAccel.accesskey          "h">
 
-<!ENTITY enableAddonsUpdate2.label       "Add-ons">
+<!ENTITY enableAddonsUpdate2.label       "सहयुक्तियाँ">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 
 <!-- LOCALIZATION NOTE:
@@ -108,13 +108,13 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
+<!ENTITY limitCacheSizeBefore.label      "इसमें कैश परिसीमित करें">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY limitCacheSizeAfter.label       "MB स्थान">
 
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.label    "स्वचालित कैश प्रबंधन को अधिरोहित करें">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 
-<!ENTITY submitCrashes.label             "Submit crash reports">
+<!ENTITY submitCrashes.label             "क्रैश रिपोर्ट सुपुर्द करें">
 <!ENTITY submitCrashes.accesskey         "S">

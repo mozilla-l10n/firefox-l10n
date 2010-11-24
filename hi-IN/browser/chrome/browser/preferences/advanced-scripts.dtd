@@ -35,7 +35,7 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title         "उन्नत JavaScript जमावट">
+<!ENTITY advancedJSDialog.title         "उन्नत जावास्क्रिप्ट जमावट">
 <!ENTITY window.width                   "37em">
 
 <!ENTITY allowScripts.label             "इसमें स्क्रिप्ट की अनुमति दें:">

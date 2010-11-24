@@ -114,7 +114,7 @@
 <!ENTITY  securityView.identity.domain   "वेब साइट: ">
 <!ENTITY  securityView.identity.verifier "इसके द्वारा सत्यापित: ">
 
-<!ENTITY  securityView.privacy.header                   "गोपनीयता &amp; इतिहास">
+<!ENTITY  securityView.privacy.header                   "गोपनीयता व इतिहास">
 <!ENTITY  securityView.privacy.history                  "क्या मैंने यह वेब साइट आज से पहले देखा है?">
 <!ENTITY  securityView.privacy.cookies                  "क्या यह वेब साइट मेरे कंप्यूटर पर सूचना (कुकी) जमा कर रहा है?">
 <!ENTITY  securityView.privacy.viewCookies              "कुकी देखें">
