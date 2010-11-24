@@ -1,102 +1,102 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; सेटअप">
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY setup.pickSetupType.description "आपका स्वागत है, यदि आपने कभी भी पहले &syncBrand.fullName.label; का उपयोग नहीं किया है, आपको नया खाता बनाने की जरूरत है.">
+<!ENTITY button.createNewAccount.label "एक नया खाता बनाएँ">
+<!ENTITY button.haveAccount.label "मेरे पास &syncBrand.fullName.label; खाता है">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "क्या आपने कभी पहले &syncBrand.fullName.label; का प्रयोग किया है?">
+<!ENTITY setup.choicePage.new.label       "मैंने कभी भी &syncBrand.shortName.label; का पहले उपयोग नहीं किया है">
+<!ENTITY setup.choicePage.existing.label  "मैं पहले से &syncBrand.shortName.label; का उपयोग दूसरे कंप्यूटर पर कर रहा हूँ">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Server">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom.label    "Use a custom server">
-<!ENTITY signIn.account.label       "Email Address / User Name">
+<!ENTITY server.label               "सर्वर">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; सर्वर">
+<!ENTITY serverType.custom.label    "किसी मनपसंद सर्वर का उपयोग करें">
+<!ENTITY signIn.account.label       "ईमेल पता / उपयोक्ता नाम">
 <!ENTITY signIn.account.accesskey   "E">
-<!ENTITY signIn.password.label      "Password">
+<!ENTITY signIn.password.label      "कूटशब्द">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY signIn.serverURL.label     "सर्वर URL">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
+<!ENTITY setup.confirmPassword.label  "कूटशब्द की पुष्टि करें">
 <!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
+<!ENTITY setup.emailAddress.label     "ईमेल पता">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
+<!ENTITY setup.tosAgree1.label      "मैं सहमत हूँ">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
+<!ENTITY setup.tosLink.label        "सेवा शर्तोंTerms of Service">
+<!ENTITY setup.tosAgree2.label      "और">
+<!ENTITY setup.ppLink.label         "गोपनीयता नीति से">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; आपकी गोपनीयता का सम्मान करता है">
+<!ENTITY setup.newSyncKeyPage.description.label "आपकी समग्र गोपनीयता बनाए रखने के लिए, आपके सभी आँकड़े अपलोड किए जाने के पहले सभी आँकड़े गोपित हैं. सिंक कुंजी आपके आँकड़े को विगोपित करने के लिए जरूरी हैं कि वे अपलोड नहीं किए गए हैं.">
+<!ENTITY syncKeyEntry.label        "आपकी सिंक कुंजी">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyStrength.label     "Strength:">
-<!ENTITY syncKeyHelp.label         "What does the strength mean?">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyGenerate.label     "उत्पन्न करें">
+<!ENTITY syncKeyStrength.label     "ताकत:">
+<!ENTITY syncKeyHelp.label         "ताकत से क्या मतलब है?">
+<!ENTITY syncKeyBackup.description "आपकी सिंक कुंजी दूसरे मशीन पर &syncBrand.fullName.label; की पहुँच के लिए जरूरी है. कृपया एक बैकअप कॉपी बनाएँ. हम आपकी सिंक कुंजी को वापस पाने आपकी मदद कर सकते हैं.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
+<!ENTITY button.syncKeyBackup.print.label     "छापें…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
+<!ENTITY button.syncKeyBackup.save.label      "सहेजें…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "कृपया पुष्टि करें कि आप रोबोट नहीं हैं">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY connecting.label             "Connecting…">
+<!ENTITY setup.existingAccount.title.label "खाता सूचना दाखिल करें">
+<!ENTITY resetPassword.label          "कूटशब्द फिर सेट करें">
+<!ENTITY connecting.label             "कनेक्ट कर रहा है…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
-<!ENTITY verifying.label              "Verifying…">
+<!ENTITY setup.existingSyncKeyPage.title "अपनी सिंक कुंजी कृपया दाखिल करें">
+<!ENTITY setup.existingSyncKeyPage.description "सिंक कुंजी को आपके लिए उत्पन्न किया गया है या आपने अपना स्वयं का दाखिल किया है जब आपने &syncBrand.fullName.label; के लिए पहली बार साइनअप किया. यह आपके कूटशब्द के समान नहीं है.">
+<!ENTITY existingSyncKeyHelp.description "आप अपने सहेजे सिंक कुंजी को अपने दूसरे कंप्यूटर में जाकर और सुरक्षा के अंतर्गत सहेजे कूटशब्द को जाँचकर ढूँढ़ सकते हैं. यदि आप अभी भी सही सिंक कुंजी नहीं पाते हैं, आप इसे फिर सेट करने के लिए चुन सकते हैं लेकिन आप सर्वर पर जमा किसी आँकड़े को जरूर खो देंगे.">
+<!ENTITY lostSyncKey.label            "मेरी सिंक कुंजी गुम हो गई है">
+<!ENTITY verifying.label              "जाँच रहा है…">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY setup.optionsPage.title      "सिंक विकल्प">
+<!ENTITY syncComputerName.label       "कंप्यूटर नाम:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "तुल्यकालित करें">
+<!ENTITY engine.bookmarks.label     "पुस्तचिह्न">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.label          "टैब">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.label     "कूटशब्द">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.label         "वरीयताएँ">
 <!ENTITY engine.prefs.accesskey     "S">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.merge.main.label      "इस कंप्यूटर के आँकड़े को मेरे &syncBrand.shortName.label; आँकड़े से मिलाएँ">
+<!ENTITY choice2.merge.recommended.label "अनुशंसित:">
+<!ENTITY choice2.client.main.label     "इस कंप्यूटर पर सारे आँकड़े को मेरे &syncBrand.shortName.label; आँकड़े से प्रतिस्थापित करें">
+<!ENTITY choice2.server.main.label     "इस कंप्यूटर आँकड़े से सारे अन्य युक्तियों को प्रतिस्थापित करें">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY setup.optionsConfirmPage.title "पुष्टि करें">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; अब इस कंप्यूटर के सारे ब्राउज़र आँकड़े को आपके सिंक खाते से मिलाएगा.">
+<!ENTITY confirm.client2.label         "चेतावनी: इस कंप्यूटर पर निम्नलिखित &brandShortName; आँकड़ा मिटाया जाएगा:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; तब आपके &syncBrand.fullName.label; आँकड़े को इस कंप्यूटर पर लेबल करेगा.">
+<!ENTITY confirm.server2.label         "चेतावनी: निम्नलिखित युक्तियाँ आपके स्थानीय आँकड़े से अधिलिखित किया जाएगा:">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "सेटअप पूर्ण">
+<!ENTITY changeOptions.label "आप इस वरीयता को नीचे सिंक विकल्प चुनकर बदल सकते हैं.">
+<!ENTITY continueUsing.label "आप &brandShortName; का उपयोग करना जारी रख सकते हैं.">

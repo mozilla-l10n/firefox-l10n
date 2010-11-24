@@ -1,14 +1,14 @@
-<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
-<!ENTITY syncKey.page.description         "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
-<!ENTITY syncKey.keepItSecret.heading     "Keep it secret">
+<!ENTITY syncKey.page.title               "आपकी &syncBrand.fullName.label; कुंजी">
+<!ENTITY syncKey.page.description         "इस कुंजी को आपके &syncBrand.fullName.label; खाते के आँकड़े को विगोपित करने के लिए उपयोग किया गया. आपको हर बार एक नए कंप्यूटर या युक्ति पर हर बार कुंजी दाखिल करने की जरूरत होगी जब भी आप &syncBrand.fullName.label; को विन्यस्त करते हैं.">
+<!ENTITY syncKey.keepItSecret.heading     "इसे गुप्त बनाए रखें">
 <!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
-<!ENTITY syncKey.keepItSafe.heading       "Keep it safe">
-<!ENTITY syncKey.keepItSafe1.description  "Do not lose this key.">
-<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
-<!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
+<!ENTITY syncKey.keepItSafe.heading       "इसे सुरक्षित रखें">
+<!ENTITY syncKey.keepItSafe1.description  "इस कुंजी को गुम मत होने दें.">
+<!ENTITY syncKey.keepItSafe2.description  " हम आपकी कुंजी की कोई नक़ल नहीं रखते हैं (जो इसे गुप्त नहीं रहने देगा!) इसलिए ">
+<!ENTITY syncKey.keepItSafe3.description  "हम इसे पुनर्प्राप्त करने में मदद नहीं कर सकते हैं">
+<!ENTITY syncKey.keepItSafe4.description  " यदि यह गुम होता है. आपको किसी समय इस कुंजी को उपयोग करने की जरूरत हो सकती है जब आप नए कंप्यूटर या युक्ति से &syncBrand.fullName.label; में कनेक्ट होते हैं.">
+<!ENTITY syncKey.findOutMore1.label       "&syncBrand.fullName.label; और अपनी गोपनीयता के बारे में यहाँ से अधिक पता करें ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
-<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; सेवा शर्त यहाँ उपलब्ध है ">
+<!ENTITY syncKey.footer2.label            ". गोपनीयता नीति यहाँ उपलब्ध है ">
 <!ENTITY syncKey.footer3.label            ".">
