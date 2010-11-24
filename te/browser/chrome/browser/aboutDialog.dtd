@@ -1,6 +1,6 @@
 <!ENTITY aboutDialog.title      "&brandFullName; గురించి">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "లైసెన్సింగ్ సమాచారము">
+<!ENTITY bottomLinks.license        "లైసెన్సింగ్ సమాచారం">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "గోప్యతా విధానము">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
