@@ -76,14 +76,10 @@
 <!ENTITY deleteMsgCmd.accesskey "L">
 <!ENTITY undeleteMsgCmd.label "Löschen der Nachricht aufheben">
 <!ENTITY undeleteMsgCmd.accesskey "L">
-<!ENTITY cancelNewsMsgCmd.label "Beitrag zurückziehen">
-<!ENTITY cancelNewsMsgCmd.accesskey "z">
 <!ENTITY deleteMsgsCmd.label "Ausgewählte Nachrichten löschen">
 <!ENTITY deleteMsgsCmd.accesskey "l">
 <!ENTITY undeleteMsgsCmd.label "Löschen der gewählten Nachrichten aufheben">
 <!ENTITY undeleteMsgsCmd.accesskey "L">
-<!ENTITY cancelNewsMsgsCmd.label "Beiträge zurückziehen">
-<!ENTITY cancelNewsMsgsCmd.accesskey "z">
 <!ENTITY deleteFolderCmd.label "Ordner löschen">
 <!ENTITY deleteFolderCmd.accesskey "l">
 <!ENTITY unsubscribeNewsgroupCmd.label "Abbestellen">
@@ -330,6 +326,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Archivieren">
 <!ENTITY archiveMsgCmd.accesskey "h">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Beitrag zurückziehen">
+<!ENTITY cancelNewsMsgCmd.accesskey "z">
 <!ENTITY replyMsgCmd.label "Antworten">
 <!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key	"r">
