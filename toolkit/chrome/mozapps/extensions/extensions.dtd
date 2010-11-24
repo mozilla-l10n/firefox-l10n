@@ -39,11 +39,11 @@
 <!ENTITY updates.checkForUpdates.accesskey "k">
 <!ENTITY updates.viewUpdates.label "Zobrazit nedávné aktualizace">
 <!ENTITY updates.viewUpdates.accesskey "Z">
-<!ENTITY updates.updateAddonsAutomatically.label "Automaticky aktualizace doplňky">
+<!ENTITY updates.updateAddonsAutomatically.label "Automaticky aktualizovat doplňky">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!ENTITY updates.resetUpdatesToAutomatic.label "Nastavit všechny doplňky na automatickou aktualizaci">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Nastavit všem doplňkům automatickou aktualizaci">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "N">
-<!ENTITY updates.resetUpdatesToManual.label "Nastavit všechny doplňky na manuální aktualizaci">
+<!ENTITY updates.resetUpdatesToManual.label "Nastavit všem doplňkům manuální aktualizaci">
 <!ENTITY updates.resetUpdatesToManual.accesskey "N">
 <!ENTITY updates.updating.label "Probíhá aktualizace doplňků">
 <!ENTITY updates.installed.label "Doplňky byly aktualizovány.">
@@ -52,7 +52,7 @@
 <!ENTITY updates.noneFound.label "Nebyly nalezeny žádné aktualizace">
 <!ENTITY updates.manualUpdatesFound.label "Zobrazit dostupné aktualizace">
 <!ENTITY updates.updateSelected.label "Instalovat aktualizace">
-<!ENTITY updates.updateSelected.tooltip "Nainstaluje zvolené aktualizace">
+<!ENTITY updates.updateSelected.tooltip "Nainstaluje vybrané aktualizace">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label "Zobrazit více informací">
@@ -112,7 +112,7 @@
 
 <!ENTITY detail.updateType "Automatické aktualizace">
 <!ENTITY detail.updateDefault.label "Výchozí">
-<!ENTITY detail.updateDefault.tooltip "Aktualizace se instalují automaticky, pokud je to výchozí nastavení">
+<!ENTITY detail.updateDefault.tooltip "Aktualizace se instalují automaticky, je-li to výchozí nastavení">
 <!ENTITY detail.updateAutomatic.label "Povoleny">
 <!ENTITY detail.updateAutomatic.tooltip "Aktualizace se instalují automaticky">
 <!ENTITY detail.updateManual.label "Zakázány">
@@ -176,10 +176,10 @@
 <!ENTITY addon.restartNow.label "Restartovat">
 <!ENTITY addon.install.label "Instalovat">
 <!ENTITY addon.install.tooltip "Nainstaluje doplněk">
-<!ENTITY addon.updateNow.label "Aktuaizovat">
-<!ENTITY addon.updateNow.tooltip "Nainstaluje aktualizaci tohoto doplňku">
-<!ENTITY addon.includeUpdate.label "Aktualizace obsahuje">
-<!ENTITY addon.updateAvailable.label "Aktualize je dostupná">
+<!ENTITY addon.updateNow.label "Instalovat aktualizaci">
+<!ENTITY addon.updateNow.tooltip "Nainstaluje aktualizaci doplňku">
+<!ENTITY addon.includeUpdate.label "Vybrat k instalaci">
+<!ENTITY addon.updateAvailable.label "Aktualizace je dostupná">
 <!ENTITY addon.checkingForUpdates.label "Kontrola aktualizací…">
 <!ENTITY addon.releaseNotes.label "Poznámky k vydání:">
 <!ENTITY addon.loadingReleaseNotes.label "Nahrávání…">
