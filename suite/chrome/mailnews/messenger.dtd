@@ -74,13 +74,11 @@
 <!ENTITY undeleteMsgCmd.label "Восстановить сообщение">
 <!ENTITY undeleteMsgCmd.accesskey "В">
 <!ENTITY cancelNewsMsgCmd.label "Отменить сообщение">
-<!ENTITY cancelNewsMsgCmd.accesskey "О">
+<!ENTITY cancelNewsMsgCmd.accesskey "м">
 <!ENTITY deleteMsgsCmd.label "Удалить выбранные сообщения">
 <!ENTITY deleteMsgsCmd.accesskey "У">
 <!ENTITY undeleteMsgsCmd.label "Восстановить выбранные сообщения">
 <!ENTITY undeleteMsgsCmd.accesskey "В">
-<!ENTITY cancelNewsMsgsCmd.label "Отменить выбранные сообщения">
-<!ENTITY cancelNewsMsgsCmd.accesskey "щ">
 <!ENTITY deleteFolderCmd.label "Удалить папку">
 <!ENTITY deleteFolderCmd.accesskey "У">
 <!ENTITY unsubscribeNewsgroupCmd.label "Отписаться">
