@@ -17,3 +17,5 @@
 <!ENTITY sync.syncKey "Klíč">
 <!ENTITY sync.customServer "Použít vlastní server">
 <!ENTITY sync.serverURL "Adresa serveru">
+<!ENTITY sync.setup.connect "Připojit">
+<!ENTITY sync.setup.cancel "Zrušit">

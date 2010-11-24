@@ -126,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "M">
 <!ENTITY undeleteMsgsCmd.label "Obnovit vybrané smazané zprávy">
 <!ENTITY undeleteMsgsCmd.accesskey "m">
-<!ENTITY cancelNewsMsgsCmd.label "Odstranit vybrané zprávy">
-<!ENTITY cancelNewsMsgsCmd.accesskey "r">
 <!ENTITY deleteFolderCmd.label "Smazat složku">
 <!ENTITY deleteFolderCmd.accesskey "M">
 <!ENTITY unsubscribeNewsgroupCmd.label "Odhlásit odebírání">
