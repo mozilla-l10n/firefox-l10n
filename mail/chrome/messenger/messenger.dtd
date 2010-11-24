@@ -315,6 +315,10 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Message suivi">
 <!ENTITY prevStarredMsgCmd.accesskey "v">
+<!ENTITY folderMenu.label "Dossier">
+<!ENTITY folderMenu.accesskey "o">
+<!ENTITY thisFolder.label "Ce dossier">
+<!ENTITY thisFolder.accesskey "C">
 <!ENTITY startPageCmd.label "Page de démarrage">
 <!ENTITY startPageCmd.accesskey "g">
 
