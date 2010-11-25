@@ -1,8 +1,8 @@
-<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>ਸ਼ੁਰ</span>">
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>ਸ਼ੁਰੂ</span>">
 <!ENTITY aboutHome.recentTabs                   "ਪਿਛਲੀ ਵਾਰ ਤੋਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ">
 <!ENTITY aboutHome.remoteTabs                   "ਤੁਹਾਡੇ ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਤੋਂ ਟੈਬਾਂ">
-<!ENTITY aboutHome.recommendedAddons2           "Add-ons for your &brandShortName;">
-<!ENTITY aboutHome.aboutMozilla                 "ਮੋਜ਼ੀਲਾ ਬਾਰੇ">
+<!ENTITY aboutHome.recommendedAddons2           "ਤੁਹਾਡੇ &brandShortName; ਲਈ ਐਡ-ਆਨ">
+<!ENTITY aboutHome.giveFeedback                 "ਸੁਝਾਅ ਦਿਓ">
 <!ENTITY aboutHome.openAllTabs                  "ਸਭ ਟੈਬਾਂ 'ਚ ਖੋਲ੍ਹੋ">
-<!ENTITY aboutHome.noTabs                       "No tabs from last time">
-<!ENTITY aboutHome.noAddons                     "No recommended add-ons">
+<!ENTITY aboutHome.noTabs                       "ਪਹਿਲਾਂ ਖੋਲ੍ਹੀ ਗਈ ਕੋਈ ਟੈਬ ਨਹੀਂ ਹੈ">
+<!ENTITY aboutHome.noAddons                     "ਕੋਈ ਸਿਫਾਰਸ਼ੀ ਐਡ-ਆਨ ਨਹੀਂ ਹੈ">
