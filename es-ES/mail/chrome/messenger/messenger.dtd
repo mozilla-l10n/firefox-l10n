@@ -69,14 +69,10 @@
 <!ENTITY deleteMsgCmd.accesskey "r">
 <!ENTITY undeleteMsgCmd.label "Restaurar mensaje">
 <!ENTITY undeleteMsgCmd.accesskey "j">
-<!ENTITY cancelNewsMsgCmd.label "Cancelar mensaje">
-<!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY deleteMsgsCmd.label "Eliminar mensajes seleccionados">
 <!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "Restaurar mensajes seleccionados">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "Cancelar mensajes seleccionados">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "Eliminar carpeta">
 <!ENTITY deleteFolderCmd.accesskey "r">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar suscripción">
@@ -285,6 +281,10 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Mensaje con estrella">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY folderMenu.label "Carpeta">
+<!ENTITY folderMenu.accesskey "a">
+<!ENTITY thisFolder.label "Esta carpeta">
+<!ENTITY thisFolder.accesskey "E">
 <!ENTITY startPageCmd.label "Página de inicio del correo">
 <!ENTITY startPageCmd.accesskey "P">
 <!ENTITY msgMenu.label "Mensaje">
@@ -296,6 +296,8 @@
 <!ENTITY archiveMsgCmd.label "Archivo">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
+<!ENTITY cancelNewsMsgCmd.label "Cancelar mensaje">
+<!ENTITY cancelNewsMsgCmd.accesskey "C">
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
