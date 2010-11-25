@@ -1,0 +1,21 @@
+<!ENTITY sync.title                 "ਸਿੰਕ">
+<!ENTITY sync.notconnected          "ਸਿੰਕ ਨਹੀਂ ਹੈ">
+<!ENTITY sync.connect               "ਕੁਨੈਕਟ ਕਰੋ">
+<!ENTITY sync.connected             "ਕੁਨੈਕਟ ਹੈ">
+<!ENTITY sync.details               "ਵੇਰਵਾ">
+<!ENTITY sync.synchronize           "ਸਿੰਕ ਚਾਲੂ ਕਰੋ">
+<!ENTITY sync.deviceName            "ਇਹ ਜੰਤਰ">
+<!ENTITY sync.disconnect            "ਡਿਸ-ਕੁਨੈਕਟ ਕਰੋ">
+<!ENTITY sync.syncNow               "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
+
+<!ENTITY sync.setup.title           "ਸਿੰਕ ਨਾਲ ਕੁਨੈਕਟ ਕਰੋ">
+<!ENTITY sync.setup.jpake           "From a Firefox Sync-connected computer, go to Sync options and select &#x0022;Add a device&#x0022;">
+<!ENTITY sync.fallback              "ਮੈਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਦੇ ਨੇੜੇ ਨਹੀਂ ਹਾਂ…">
+<!ENTITY sync.setup.manual          "Enter your Sync account information">
+<!ENTITY sync.account               "ਅਕਾਊਂਟ ਨਾਂ">
+<!ENTITY sync.password              "ਪਾਸਵਰਡ">
+<!ENTITY sync.syncKey               "ਸਿੰਕ ਕੁੰਜੀ">
+<!ENTITY sync.customServer          "ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ">
+<!ENTITY sync.serverURL             "ਸਰਵਰ URL">
+<!ENTITY sync.setup.connect         "ਕੁਨੈਕਟ ਕਰੋ">
+<!ENTITY sync.setup.cancel          "ਰੱਦ ਕਰੋ">
