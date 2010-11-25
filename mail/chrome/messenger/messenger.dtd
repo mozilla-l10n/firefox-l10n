@@ -79,8 +79,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "H">
 <!ENTITY undeleteMsgsCmd.label "Kembalikan Pesan yang Dipilih">
 <!ENTITY undeleteMsgsCmd.accesskey "K">
-<!ENTITY cancelNewsMsgsCmd.label "Batalkan Pesan Terpilih">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "Hapus Folder">
 <!ENTITY deleteFolderCmd.accesskey "u">
 <!ENTITY unsubscribeNewsgroupCmd.label "Berhenti Langganan">
@@ -313,6 +311,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Pesan Berbintang">
 <!ENTITY prevStarredMsgCmd.accesskey "B">
+<!ENTITY folderMenu.label "Folder">
+<!ENTITY folderMenu.accesskey "O">
+<!ENTITY thisFolder.label "Folder Ini">
+<!ENTITY thisFolder.accesskey "F">
 <!ENTITY startPageCmd.label "Laman Beranda">
 <!ENTITY startPageCmd.accesskey "L">
 
