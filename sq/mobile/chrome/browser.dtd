@@ -1,12 +1,3 @@
-helperApp.save
-
-
-
-
-
-
-
-
 <!ENTITY back.label            "Mbrapsht">
 <!ENTITY forward.label         "Para">
 <!ENTITY reload.label          "Ringarkoje">
@@ -63,8 +54,6 @@ helperApp.save
 
 <!ENTITY noResults.label           "Pa përfundime">
 <!ENTITY allBookmarks.label        "Shihini tërë faqerojtësit">
-
-<!ENTITY searchEngine.addSearch    "Shtoni Kërkim:">
 
 <!ENTITY bookmarkPopup.label       "Faqja u Faqeruajt">
 <!ENTITY bookmarkRemove.label      "Hiqe">
