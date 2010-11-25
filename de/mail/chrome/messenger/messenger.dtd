@@ -358,7 +358,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY createFilter.label "Filter aus Nachricht erstellen…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Verschieben in">
-<!ENTITY moveMsgToMenu.accesskey "r">
+<!ENTITY moveMsgToMenu.accesskey "V">
 <!ENTITY moveCopyMsgRecentMenu.label "Letzte Ordner">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "z">
 <!ENTITY copyMessageLocation.label "URL des Beitrags kopieren">
