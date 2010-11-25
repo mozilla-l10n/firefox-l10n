@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader.label           "Mjete Provuesi Beta-sh">
+
+<!ENTITY feedback.communicate.title     "Komunikoni me Ne!">
+<!ENTITY feedback.feedback.title        "Jepni përshtypjet">
+<!ENTITY feedback.feedback.good         "Mirë">
+<!ENTITY feedback.feedback.bad          "Keq">
+
+<!ENTITY feedback.information.title     "Më tepër të Dhëna">
+<!ENTITY feedback.about.title           "Mbi këtë Beta">
+<!ENTITY feedback.about.button          "Shko te Faqja">
+
+<!ENTITY feedback.tools.title           "Mjete">
+<!ENTITY feedback.forceCompat.title     "Përputhshmëri shtesash e detyruar">
+<!ENTITY feedback.errorConsole.title    "Aktivizo Konsol Gabimesh">

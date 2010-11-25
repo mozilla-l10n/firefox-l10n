@@ -12,3 +12,9 @@
 <!ENTITY rememberPasswords.title                   "Mba mend fjalëkalimet">
 <!ENTITY language.title                            "Gjuhë">
 <!ENTITY language.auto                             "Vetëzbuloji">
+<!ENTITY defaultBrowser.title                      "Shfletuesi Parazgjedhje">
+<!ENTITY defaultBrowser.description                "Bëjeni &brandShortName;-un shfletuesin tuaj parazgjedhje">
+<!ENTITY homepage.title                            "Faqja e fillimit">
+<!ENTITY homepage.none                             "Faqe bosh">
+<!ENTITY homepage.default                          "Nisje e &brandShortName;-ut">
+<!ENTITY homepage.currentpage                      "Përdor Faqen e Tanishme">

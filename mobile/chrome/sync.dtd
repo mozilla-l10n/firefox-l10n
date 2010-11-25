@@ -1,0 +1,21 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "I palidhur">
+<!ENTITY sync.connect               "Lidhu">
+<!ENTITY sync.connected             "I lidhur">
+<!ENTITY sync.details               "Hollësi">
+<!ENTITY sync.synchronize           "Aktivizo Sync-un">
+<!ENTITY sync.deviceName            "Këtë pajisje">
+<!ENTITY sync.disconnect            "Shkëputu">
+<!ENTITY sync.syncNow               "Njëkohësoji Tani">
+
+<!ENTITY sync.setup.title           "Lidhu te Sync-u">
+<!ENTITY sync.setup.jpake           "Nga një kompjuter i lidhur me Firefox Sync-un, shkoni te mundësitë për Sync-un dhe përzgjidhni &#x0022;Shtoni një pajisje&#x0022;">
+<!ENTITY sync.fallback              "Nuk jam përpara kompjuterit tim…">
+<!ENTITY sync.setup.manual          "Jepni të dhënat e llogarisë suaj Sync">
+<!ENTITY sync.account               "Emër Llogarie">
+<!ENTITY sync.password              "Fjalëkalim">
+<!ENTITY sync.syncKey               "Kyç Sync-u">
+<!ENTITY sync.customServer          "Përdor shërbyes të personalizuar">
+<!ENTITY sync.serverURL             "URL shërbyesi">
+<!ENTITY sync.setup.connect         "Lidhu">
+<!ENTITY sync.setup.cancel          "Anuloje">

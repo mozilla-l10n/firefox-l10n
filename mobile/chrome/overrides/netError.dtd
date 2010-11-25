@@ -1,3 +1,10 @@
+
+
+
+
+===========================================
+
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -20,7 +27,7 @@
     <strong>www</strong>.shembull.com</li>
   <li>>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet të kompjuterit tuaj.</li>
   <li>Nëse kompjuteri ose rrjeti juaj mbrohet nga një &quot;firewall&quot; ose ndërmjetës, sigurohuni
-    që &brandShortName;-it i lejohet hyrja në Web.</li>
+    që &brandShortName;-ut i lejohet hyrja në Web.</li>
 </ul>
 ">
 
@@ -34,7 +41,7 @@
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName;-i, për ndonjë arsye, nuk mund ta ngarkojë këtë faqe.</p>
+<p>&brandShortName;-u, për ndonjë arsye, nuk mund ta ngarkojë këtë faqe.</p>
 ">
 
 <!ENTITY malformedURI.title "Vendndodhja nuk është e vlefshme">
@@ -50,17 +57,13 @@
 <!ENTITY netInterrupt.title "Lidhja u ndërpre">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
+<!ENTITY netOffline.title "Mënyrë i Palidhur">
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Riprovoni. &brandShortName;-i do të përpiqet të hapë një lidhje dhe të ringarkojë faqen.</li>
+  <li>Riprovoni. &brandShortName;-u do të përpiqet të hapë një lidhje dhe të ringarkojë faqen.</li>
 </ul>
 ">
 
-<!ENTITY netOffline.title "Mënyrë i Palidhur">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Përmbajtjeje">
 <!ENTITY contentEncodingError.longDesc "
@@ -103,7 +106,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
   <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
   <li>Kontrolloni kompjuterin tuaj, për t&apos;u siguruar që ka një lidhje rrjeti që punon.</li>
   <li>Nëse kompjuteri apo rrjeti juaj mbrohet nga &quot;firewall&quot; apo ndërmjetës, sigurohuni
-    që &brandShortName;-it i lejohet hyrja në Web.</li>
+    që &brandShortName;-ut i lejohet hyrja në Web.</li>
 </ul>
 ">
 
@@ -143,7 +146,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
   <li>&quot;Site&quot;-i mund të jetë përkohësisht jashtë pune ose tepër i zënë. Riprovoni pas pak çastesh.</li>
   <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet për kompjuterin tuaj.</li>
   <li>Nëse kompjuteri apo rrjeti juaj mbrohet nga një &quot;firewall&quot; ose ndërmjetës, sigurohuni
-    që &brandShortName;-it i është lejuar hyrja në Web.</li>
+    që &brandShortName;-ut i është lejuar hyrja në Web.</li>
 </ul>
 ">
 
@@ -153,24 +156,27 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <p>Të zotët e &quot;site&quot;-eve Web që besojnë se &quot;site&quot;-i i tyre është raportuar gabimisht si &quot;site&quot; sulmesh mund <a href='http://www.stopbadware.org/home/reviewinfo' >të kërkojnë shqyrtimin e çështjes</a>.</p>
 ">
 
-<!ENTITY phishingBlocked.title "E dyshyar si Sajesë Web!">
+<!ENTITY phishingBlocked.title "E dyshuar si Sajesë Web!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Të dhënët e çfarëdo lloj të dhëne në këtë faqe mund të shpjerë në përvetësim të identitetit ose të ngjashme.</p>
 <p>Këto lloje sajesash web përdoren në mashtrime të njohura edhe si sulme &quot;phishing&quot;, gjatë të cilëve faqe web dhe email-e të gënjeshtërt përdoren për të imituar burime që u besoni.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bllokuar nga Rregullat e Sigurisë për Lëndën">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;-u e pengoi  ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë për faqen ka rregulla sigurie lënde që nuk e lejojnë këtë.</p>">
+
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
 <!ENTITY securityOverride.exceptionButtonLabel "Shtoni Përjashtim…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>Nuk do të ishte e arsyeshme të shtonit një përjashtim nëse përdorni një lidhje internet të cilën nuk e besoni plotësisht, ose nëse nuk jeni mësuar të shihni sinjalizim për këtë shërbyes.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
