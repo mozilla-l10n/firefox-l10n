@@ -17,3 +17,5 @@
 <!ENTITY sync.syncKey               "Sync-nøkkel">
 <!ENTITY sync.customServer          "Bruk egendefinert tjener">
 <!ENTITY sync.serverURL             "Tjener-URL">
+<!ENTITY sync.setup.connect         "Koble til">
+<!ENTITY sync.setup.cancel          "Avbryt">
