@@ -16,13 +16,17 @@
 <!ENTITY rights.intro-point1b "Licencia Pública de Mozilla (MPL)">
 <!ENTITY rights.intro-point1c ". Esto significa que puede usar, copiar y compartir &brandShortName; con otras personas. También tiene la posibilidad de modificar el código fuente de &brandShortName; como desee a fin de que éste se ajuste a sus necesidades. La Licencia Pública de Mozilla también le otorga el derecho a distribuir esas versiones modificadas.">
 
-<!ENTITY rights.intro-point2a "Mozilla no otorga derechos con respecto a las marcas registradas y logos de Mozilla y Firefox. Puede encontrar información adicional sobre las marcas registradas ">
-<!ENTITY rights.intro-point2b "aquí">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "No se le ha concedido ningún derecho de marca o licencia sobre las marcas registradas de Mozilla Foundation o cualquier parte, incluyendo sin limitaciones el nombre y logo de Firefox. Puede encontrar información adicional sobre las marcas registradas ">
+<!ENTITY rights.intro-point2-b "aquí">
+<!ENTITY rights.intro-point2-c ".">
+
+<!-- point 2.5 text for official branded builds -->
+<!ENTITY rights.intro-point2.5 "Algunas características de &brandShortName;, como el informe de errores, dan la oportunidad de dar sus comentarios a &vendorShortName;. Al elegir enviar sus comentarios, le da permiso a &vendorShortName; para usar esa opinión para mejorar sus productos, publicarla en sus sitios web y distribuirla.">
+
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Las políticas de privacidad para los productos de &vendorShortName; pueden encontrarse ">
-<!ENTITY rights.intro-point3b "aquí">
+<!ENTITY rights2.intro-point3a "Como usaremos su información personal y los comentarios enviados a  &vendorShortName; a través de &brandShortName; se describen en la ">
+<!ENTITY rights2.intro-point3b "política de privacidad de &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
@@ -34,20 +38,38 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Si este producto incorpora servicios web, cualquier término de servicio aplicable para los servicios debe ser enlazado a la sección del ">
+<!ENTITY rights.intro-point4a-unbranded "Si este producto incorpora servicios web, cualquier término de servicio aplicable para los servicios debe ser enlazado a la sección de ">
 <!ENTITY rights.intro-point4b-unbranded "Servicios del sitio web">
 <!ENTITY rights.intro-point4c-unbranded " sección.">
 
-<!ENTITY rights.webservices-header "Servicios del Sitio Web de &brandFullName;">
+<!ENTITY rights2.webservices-header "Servicios de información basados en web de &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; usa Servicios externos para obtener información sobre Sitios Web (&quot;Services&quot;), como SafeBrowsing, el cual está disponible para su uso con esta versión de &brandShortName; tal como se describe a continuación. Si no desea hacer uso de estos Servicios o no está de acuerdo con sus términos, debería desactivar SafeBrowsing en las preferencias de la aplicación, seleccionando ">
-<!ENTITY rights.webservices-b "Seguridad">
-<!ENTITY rights.webservices-c " sección y desactive las opciones para &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights2.webservices-a "&brandFullName; usa servicios de información basados en la web (&quot;Servicios&quot;) para proveer algunas de las características que puede usar en esta versión binaria de &brandShortName; bajo los términos descriptos debajo. Si no desea usar alguno de los servicios o los términos no son aceptables, puede deshabilitar las características o servicio(s). Las instrucciones sobre como deshabilitar una característica o servicio en particular pueden encontrarse ">
+<!ENTITY rights2.webservices-b "aquí">
+<!ENTITY rights2.webservices-c ".">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Navegación segura: ">
+<!ENTITY rights.safebrowsing-b "No se recomienda deshabilitar la navegación segura porque puede resultar en la visita a sitios inseguros.  Si desea dehabilitar esta característica por completo, siga estos pasos:">
+<!ENTITY rights.safebrowsing-term1 "Abrir las preferencias de la aplicación">
+<!ENTITY rights.safebrowsing-term2 "Seleccionar la pestaña Seguridad">
+<!ENTITY rights.safebrowsing-term3 "Desmarcar las opciones &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "La navegación segura ahora está deshabilitada">
+
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Navegación basada en ubicación: ">
+<!ENTITY rights.locationawarebrowsing-b "siempre es opcional.  Nunca se envía información de ubicación sin su permiso.  Si desea deshabilitar esta característica por completo, siga estos pasos:">
+<!ENTITY rights.locationawarebrowsing-term1a "En la barra de direcciones ingrese ">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "Ingrese geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Haga doble clic en la preferencia geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "La navegación basada en ubicación ahora está deshabilitada">
+
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Aquí debe incluirse un resumen de los servicios de sitios web que el producto incorpora, junto con instrucciones de cómo deshabilitarlos.">

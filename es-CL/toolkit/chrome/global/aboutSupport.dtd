@@ -17,8 +17,10 @@
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio del perfil">
-<!ENTITY aboutSupport.appBasicsPlugins "Plugins instalados">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins habilitados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de Build">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
+
 
 <!ENTITY aboutSupport.show.label "Abrir carpeta contenedora">
 
@@ -31,6 +33,8 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferencias modificadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Nombre">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
+
+<!ENTITY aboutSupport.graphicsTitle "Gráficos">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalación">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">
