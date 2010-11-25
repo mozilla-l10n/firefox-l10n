@@ -17,3 +17,5 @@
 <!ENTITY sync.syncKey               "Kunci Sinkronisasi">
 <!ENTITY sync.customServer          "Gunakan server khusus">
 <!ENTITY sync.serverURL             "URL Server">
+<!ENTITY sync.setup.connect         "Sambungkan">
+<!ENTITY sync.setup.cancel          "Batal">
