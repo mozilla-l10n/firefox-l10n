@@ -9,26 +9,26 @@
 
 # LOCALIZATION NOTE (bookmarks_title):
 # title for the folder that will contains the default bookmarks
-#define bookmarks_title Mobile
+#define bookmarks_title Celular
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun
-#define bookmarks_welcome Firefox: Welcome
+#define bookmarks_welcome Firefox: Mirë se vini
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_aboutBrowser Firefox: About your browser
+#define bookmarks_aboutBrowser Firefox: Rreth shfletuesit tuaj
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox: Personalizojeni me shtesa
 
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
-#define bookmarks_support Firefox: Support
+#define bookmarks_support Firefox: Asistencë
 
 # LOCALIZATION NOTE (bookmarks_aboutHome):
 # link title for about:home
-#define bookmarks_aboutHome Firefox Start
+#define bookmarks_aboutHome Nisje Firefox-i
 
 #unfilter emptyLines
