@@ -87,10 +87,10 @@
 <!ENTITY certmgr.editemailcert.donttrust      "Não considerar confiável a autenticidade deste certificado">
 
 <!ENTITY certmgr.deletecert.title             "Excluir certificados">
-<!ENTITY certmgr.deletecert.beforename        "Você solicitou excluir este certificado:">
+<!ENTITY certmgr.deletecert.beforename        "Você solicitou a exclusão deste certificado:">
 <!ENTITY certmgr.deletecert.aftername         "Tem certeza que deseja excluir este certificado?">
 <!ENTITY certmgr.deleteusercert.title         "Excluir seu certificado">
-<!ENTITY certmgr.deleteusercert.beforename    "Você solicitou excluir o certificado:">
+<!ENTITY certmgr.deleteusercert.beforename    "Você solicitou a exclusão do certificado:">
 <!ENTITY certmgr.deleteusercert.aftername     "Uma vez que você exclua este certificado, não conseguirá ler emails criptografados com ele.">
 
 <!ENTITY certmgr.certname                     "Nome do certificado">
@@ -106,8 +106,8 @@
 <!ENTITY certmgr.close.accesskey              "F">
 <!ENTITY certmgr.view2.label                  "Exibir…">
 <!ENTITY certmgr.view2.accesskey              "x">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "Confiança…">
+<!ENTITY certmgr.edit3.accesskey              "o">
 <!ENTITY certmgr.editca.label                 "Editar classificação de confiança da CA">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Adicionar">
@@ -116,8 +116,8 @@
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label                "Excluir…">
 <!ENTITY certmgr.delete2.accesskey            "c">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.delete_builtin.label         "Excluir…">
+<!ENTITY certmgr.delete_builtin.accesskey     "c">
 <!ENTITY certmgr.backup2.label                "Backup…">
 <!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "Fazer backup de tudo…">
@@ -134,15 +134,15 @@
 <!ENTITY certmgr.addException.accesskey       "A">
 
 <!ENTITY exceptionMgr.title                   "Adicionar exceção de segurança">
-<!ENTITY exceptionMgr.exceptionButton         "Confirmar exceção de segurança">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirmar exceção de segurança">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Bancos, lojas e outros sites públicos legítimos nunca solicitarão a você que faça isso.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
 <!ENTITY exceptionMgr.certlocation.url        "Endereço:">
 <!ENTITY exceptionMgr.certlocation.download   "Verificar certificado">
 <!ENTITY exceptionMgr.certlocation.accesskey  "V">
 <!ENTITY exceptionMgr.certstatus.caption      "Status do certificado">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Exibir…">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Exibir">
 <!ENTITY exceptionMgr.certstatus.accesskey    "x">
 <!ENTITY exceptionMgr.permanent.label         "Salvar esta exceção permanentemente">
 <!ENTITY exceptionMgr.permanent.accesskey     "S">
