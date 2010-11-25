@@ -1,19 +1,22 @@
 <!ENTITY about.version                "versión">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2009 por">
+<!ENTITY about.copy.beforeLink        "Vea una lista de los ">
 <!ENTITY about.copy.linkTitle         "colaboradores">
-<!ENTITY about.copy.afterLink         "al proyecto Mozilla.">
+<!ENTITY about.copy.afterLink         " al proyecto Mozilla.">
 
-<!ENTITY about.license.beforeLink     "Lea la">
+<!ENTITY about.license.beforeTheLink     "Lea la ">
 <!ENTITY about.license.linkTitle      "información de licenciamiento">
-<!ENTITY about.license.afterLink      "para este producto.">
+<!ENTITY about.license.afterTheLink      " para este producto.">
 
-<!ENTITY about.relnotes.beforeLink    "Lea las">
+<!ENTITY about.relnotes.beforeTheLink    "Lea las ">
 <!ENTITY about.relnotes.linkTitle     "notas de lanzamiento">
-<!ENTITY about.relnotes.afterLink     "para esta versión.">
+<!ENTITY about.relnotes.afterTheLink     " para esta versión.">
 
-<!ENTITY about.buildconfig.beforeLink "Vea la">
+<!ENTITY about.buildconfig.beforeTheLink "Vea la ">
 <!ENTITY about.buildconfig.linkTitle  "configuración de compilación">
-<!ENTITY about.buildconfig.afterLink  "usada en esta versión.">
+<!ENTITY about.buildconfig.afterTheLink  " usada en esta versión.">
 
-<!ENTITY about.buildIdentifier        "Identificador de compilación: ">
+<!ENTITY about.buildIdentifier        "Identificador de build: ">
+
+
+
