@@ -317,24 +317,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.accesskey "D">
 <!ENTITY startPageCmd.label "Startseite">
 <!ENTITY startPageCmd.accesskey "S">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Nachricht">
-<!ENTITY msgMenu.accesskey "n">
+<!ENTITY msgMenu.accesskey "N">
 <!ENTITY newMsgCmd.label "Neue Nachricht">
-<!ENTITY newMsgCmd.accesskey "n">
+<!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Nachricht">
 <!ENTITY newNewMsgCmd.accesskey "N">
 <!ENTITY archiveMsgCmd.label "Archivieren">
-<!ENTITY archiveMsgCmd.accesskey "h">
+<!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "Beitrag zurückziehen">
 <!ENTITY cancelNewsMsgCmd.accesskey "z">
 <!ENTITY replyMsgCmd.label "Antworten">
-<!ENTITY replyMsgCmd.accesskey "A">
+<!ENTITY replyMsgCmd.accesskey "t">
 <!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replySenderCmd.label "Antworten nur an Absender">
-<!ENTITY replySenderCmd.accesskey "A">
+<!ENTITY replySenderCmd.accesskey "t">
 <!ENTITY replyNewsgroupCmd.label "Antworten an Newsgruppe">
-<!ENTITY replyNewsgroupCmd.accesskey	"w">
+<!ENTITY replyNewsgroupCmd.accesskey	"g">
 <!ENTITY replyToAllMsgCmd.label "Antworten an alle">
 <!ENTITY replyToAllMsgCmd.accesskey	"o">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -345,7 +347,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardMsgCmd.accesskey "W">
 <!ENTITY forwardMsgCmd.key	"l">
 <!ENTITY forwardAsMenu.label "Weiterleiten als">
-<!ENTITY forwardAsMenu.accesskey "t">
+<!ENTITY forwardAsMenu.accesskey "e">
 <!ENTITY forwardAsInline.label "Eingebunden">
 <!ENTITY forwardAsInline.accesskey "E">
 <!ENTITY forwardAsAttachmentCmd.label "Anhang">
@@ -356,15 +358,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY createFilter.label "Filter aus Nachricht erstellen…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Verschieben in">
-<!ENTITY moveMsgToMenu.accesskey "v">
+<!ENTITY moveMsgToMenu.accesskey "r">
 <!ENTITY moveCopyMsgRecentMenu.label "Letzte Ordner">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "z">
 <!ENTITY copyMessageLocation.label "URL des Beitrags kopieren">
-<!ENTITY copyMessageLocation.accesskey "N">
+<!ENTITY copyMessageLocation.accesskey "n">
 <!ENTITY copyMsgToMenu.label "Kopieren in">
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Auch verschieben/kopieren">
-<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgain.accesskey "r">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Thema ignorieren">
 <!ENTITY killThreadMenu.accesskey "i">
@@ -373,14 +375,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY killSubthreadMenu.accesskey "U">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Thema beobachten">
-<!ENTITY watchThreadMenu.accesskey "b">
+<!ENTITY watchThreadMenu.accesskey "c">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "In diesen Ordner verschieben">
 <!ENTITY fileHereMenu.accesskey "I">
 <!ENTITY copyHereMenu.label "In diesen Ordner kopieren">
 <!ENTITY copyHereMenu.accesskey "I">
 <!ENTITY tagMenu.label "Schlagwörter">
-<!ENTITY tagMenu.accesskey "ö">
+<!ENTITY tagMenu.accesskey "S">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -392,7 +394,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Markieren">
-<!ENTITY markMenu.accesskey "r">
+<!ENTITY markMenu.accesskey "M">
 <!ENTITY markAsReadCmd.label "Gelesen">
 <!ENTITY markAsReadCmd.accesskey "G">
 <!ENTITY markAsReadCmd.key "m">
@@ -420,7 +422,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.accesskey "Ö">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "In Themenbaum anzeigen">
-<!ENTITY openConversationCmd.accesskey "b">
+<!ENTITY openConversationCmd.accesskey "h">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Feed-Artikel öffnen als">
 <!ENTITY openFeedMessage.accesskey "ö">
