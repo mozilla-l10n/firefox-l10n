@@ -1,8 +1,12 @@
 <!ENTITY welcome.title                      "Mirë se vini te &brandShortName;-u">
-<!ENTITY intro.description                  "Njëkohësoni PC-në tuaj dhe celularin përmes Weave Sync. Personalizojeni me shtesa. Shfletoni me Shtyllën e Papërmbajtshme dhe mjaft, mjaft, mjaft të tjera.">
-<!ENTITY weave.title                        "Ngrihuni e Shkoni">
-<!ENTITY weave.description                  "Merrni Weave Sync t&apos;ju ndihmojë të nënshtroni Firefox-in tuaj. Shkëmbeni mes PC-së dhe celularit tuaj historik shfletimesh, faqerojtësa, fjalëkalime të ruajtur dhe skeda.">
-<!ENTITY weave.linkLabel                    "Merreni shtesën Weave Sync">
-<!ENTITY getPersonal.title                  "Bëhuni i Dallueshëm">
-<!ENTITY getPersonal.description            "Bëjeni &brandShortName;-un si e doni. Personalizoni shfletuesin që ofron i pari shtesa për celular.">
-<!ENTITY getPersonal.linkLabel              "Merrni shtesa për celularin tuaj">
+<!ENTITY firstrun.heading2             "Mirë se vini te &brandShortName;-u">
+<!ENTITY firstrun.sync2.title          "Njëkohësohuni">
+<!ENTITY firstrun.sync2.description    "Hyni me të dhënat e llogarisë suaj Sync dhe ndani mes desktopit dhe celularit tuaj historikun e shfletimit, fjalëkalimet, faqerojtësit &amp; skedat tuaja">
+<!ENTITY firstrun.addons2.title        "Personalizojeni">
+<!ENTITY firstrun.addons2.description  "Zbuloni dhe instaloni shtesa që të shtoni te &brandShortName; funksione të reja">
+<!ENTITY firstrun.home2.title          "Shfletoni">
+<!ENTITY firstrun.home2.description    "Anashkalojeni këtë dhe kaloni te faqja juaj e personalizuar Nisje që të filloni të shfletoni në web">
+<!ENTITY firstrun.features             "Shihni Më tepër Veçori">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Rregulla Vetësie">
+<!ENTITY firstrun.follow               "Na ndiqni në:">

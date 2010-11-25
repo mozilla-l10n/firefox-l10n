@@ -1,9 +1,18 @@
+helperApp.save
+
+
+
+
+
+
+
+
 <!ENTITY back.label            "Mbrapsht">
 <!ENTITY forward.label         "Para">
 <!ENTITY reload.label          "Ringarkoje">
 <!ENTITY stop.label            "Ndale">
 <!ENTITY go.label              "Shko">
-<!ENTITY openLocation.label    "Hap vend">
+
 <!ENTITY star.label            "Yll">
 
 <!ENTITY newtab.label          "Skedë e Re">
@@ -19,20 +28,9 @@
 <!ENTITY addToDictionary.label "Shtoje në Fjalor">
 
 <!ENTITY bookmarksHeader.label     "Faqerojtësa">
-<!ENTITY bookmarksManage.label     "Administroni">
 
-<!ENTITY editBookmarkRemove.label  "Hiqe">
 <!ENTITY editBookmarkDone.label    "U bë">
 <!ENTITY editBookmarkTags.label    "Shtoni etiketa këtu">
-
-<!ENTITY helperApp.prompt          "Ç'do të doni të bënit me">
-<!ENTITY helperApp.open            "Hape">
-<!ENTITY helperApp.save            "Ruaje">
-<!ENTITY helperApp.nothing         "Asgjë">
-
-<!ENTITY formHelper.previous       "I mëparshëm">
-<!ENTITY formHelper.next           "Pasuesi">
-<!ENTITY formHelper.done           "U bë">
 
 <!ENTITY addonsHeader.label        "Shtesa">
 <!ENTITY addonsLocal.label         "Shtesat Tuaja">
@@ -92,3 +90,34 @@
 <!ENTITY consoleErrFile.label      "Kartela Burim:">
 <!ENTITY consoleErrLine.label      "Rresht:">
 <!ENTITY consoleErrColumn.label    "Shtyllë:">
+
+<!ENTITY contextOpenInNewTab.label    "Hape Lidhjen në Skedë të Re">
+<!ENTITY contextSaveLink.label        "Ruajeni Lidhjen">
+<!ENTITY contextSaveImage.label       "Ruajeni Figurën">
+<!ENTITY contextShareLink.label       "Ndajeni Lidhjen">
+<!ENTITY contextShareImage.label      "Ndajeni Figurën">
+<!ENTITY contextSaveVideo.label       "Ruajeni Videon">
+<!ENTITY contextShareVideo.label      "Ndajeni Figurën">
+<!ENTITY contextPlayMedia.label       "Luajeni">
+<!ENTITY contextPauseMedia.label      "Pushojeni">
+<!ENTITY contextFullScreen.label      "Krejt Ekrani">
+<!ENTITY contextEditBookmark.label    "Përpunojeni">
+<!ENTITY contextRemoveBookmark.label  "Hiqeni">
+
+<!ENTITY pageactions.saveas.pdf      "Ruaje Si PDF">
+<!ENTITY pageactions.share.page      "Ndajeni Faqen">
+<!ENTITY pageactions.password.forget "Harroje Fjalëkalimin">
+<!ENTITY pageactions.reset           "Pastro Parapëlqimet për Site-in">
+<!ENTITY pageactions.findInPage      "Gjeni Tek Faqja">
+<!ENTITY pageactions.search.addNew   "Shtoni Motor Kërkimi">
+
+<!ENTITY allPagesHeader.label      "Krejt Faqet">
+<!ENTITY appMenu.siteOptions         "Mundësi &quot;Site&quot;-i">
+<!ENTITY copyAll.label         "Kopjoje Krejt">
+<!ENTITY desktopHeader.label       "Desktop">
+<!ENTITY downloadDelete.label      "Fshije">
+<!ENTITY historyHeader.label       "Historik">
+<!ENTITY inputMethod.label     "Përzgjidhni Metodë Futjesh">
+<!ENTITY selectHelper.done         "U bë">
+<!ENTITY selectHelper.emptytext      "Filtroje Listën">
+<!ENTITY urlbar.emptytext      "Jepni Kërkim ose Vendndodhje">
