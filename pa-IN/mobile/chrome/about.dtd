@@ -5,10 +5,14 @@
 <!ENTITY aboutPage.rights.label                 "ਆਪਣੇ ਹੱਕਾਂ ਬਾਰੇ ਜਾਣੋ">
 <!ENTITY aboutPage.relNotes.label               "ਰੀਲਿਜ਼ ਨੋਟਿਸ">
 <!ENTITY aboutPage.credits.label                "ਮਾਣ">
+<!ENTITY aboutPage.checkForUpdates.button       "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
+<!ENTITY aboutPage.checkForUpdates.checking     "…ਅੱਪਡੇਟ ਲੱਭੇ ਜਾ ਰਹੇ ਹਨ">
+<!ENTITY aboutPage.checkForUpdates.none         "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ">
+<!ENTITY aboutPage.checkForUpdates.found        "ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ">
+
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 ਯੋਗਦਾਨ ਦੇਣ ਵਾਲਿਆਂ ਕੋਲ। ਸਭ ਹੱਕ ਰਾਖਵੇਂ ਹਨ। (">
-<!ENTITY aboutPage.licenseLink                  "ਲਾਈਸੈਂਸ ਬਾਰੇ ਜਾਣਕਾਰੀ">
-<!ENTITY aboutPage.copyrightInfo2               ").">
+-->
+<!ENTITY aboutPage.licenseLink                  "ਲਾਈਸੈਂਸ ਜਾਣਕਾਰੀ">
+<!ENTITY aboutPage.licenseLinkSuffix            "।">

@@ -1,54 +1,49 @@
-<!ENTITY urlbar.emptytext      "ਖੋਜ ਕਰੋ ਜਾਂ ਐਡਰੈਸ ਦਿਓ">
+<!ENTITY urlbar.emptytext      "ਖੋਜ ਕਰੋ ਜਾਂ ਐਡਰੈੱਸ ਦਿਉ">
 
 <!ENTITY back.label            "ਪਿੱਛੇ">
 <!ENTITY forward.label         "ਅੱਗੇ">
 <!ENTITY reload.label          "ਮੁੜ-ਲੋਡ">
 <!ENTITY stop.label            "ਰੋਕੋ">
 <!ENTITY go.label              "ਜਾਓ">
-<!ENTITY openLocation.label    "ਟਿਕਾਣਾ ਖੋਲ੍ਹੋ">
 <!ENTITY star.label            "ਤਾਰਾ">
 
 <!ENTITY newtab.label          "ਨਵੀਂ ਟੈਬ">
 <!ENTITY closetab.label        "ਟੈਬ ਬੰਦ ਕਰੋ">
 
 <!ENTITY cut.label             "ਕੱਟੋ">
-<!ENTITY copy.label            "ਕਾਪੀ">
+<!ENTITY copy.label            "ਕਾਪੀ ਕਰੋ">
+<!ENTITY copyAll.label         "ਸਭ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copylink.label        "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY paste.label           "ਚੇਪੋ">
 <!ENTITY delete.label          "ਹਟਾਓ">
 <!ENTITY selectAll.label       "ਸਭ ਚੁਣੋ">
 <!ENTITY noSuggestions.label   "(ਕੋਈ ਸੁਝਾਅ ਨਹੀਂ)">
-<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY addToDictionary.label "ਡਿਕਸ਼ਨਰੀ 'ਚ ਸ਼ਾਮਲ">
+<!ENTITY inputMethod.label     "ਇੰਪੁੱਟ ਢੰਗ ਚੁਣੋ">
 
+<!ENTITY allPagesHeader.label      "ਸਭ ਸਫ਼ੇ">
 <!ENTITY bookmarksHeader.label     "ਬੁੱਕਮਾਰਕ">
-<!ENTITY bookmarksManage.label     "ਪਰਬੰਧ">
+<!ENTITY historyHeader.label       "ਅਤੀਤ">
+<!ENTITY desktopHeader.label       "ਡੈਸਕਟਾਪ">
 
-<!ENTITY editBookmarkRemove.label  "ਹਟਾਓ">
-<!ENTITY editBookmarkDone.label    "ਠੀਕ ਹੈ">
-<!ENTITY editBookmarkTags.label    "Add tags here">
+<!ENTITY editBookmarkDone.label    "ਮੁਕੰਮਲ">
+<!ENTITY editBookmarkTags.label    "ਟੈਗ ਇੱਥੇ ਸ਼ਾਮਲ">
 
-<!ENTITY helperApp.prompt          "What would you like to do with">
-<!ENTITY helperApp.open            "ਖੋਲ੍ਹੋ">
-<!ENTITY helperApp.save            "ਸੰਭਾਲੋ">
-<!ENTITY helperApp.nothing         "ਕੁਝ ਨਹੀਂ">
-
-<!ENTITY formHelper.previous       "ਪਿੱਛੇ">
-<!ENTITY formHelper.next           "ਅੱਗੇ">
-<!ENTITY formHelper.done           "ਠੀਕ ਹੈ">
+<!ENTITY selectHelper.done         "ਮੁਕੰਮਲ">
 
 <!ENTITY addonsHeader.label        "ਐਡ-ਆਨ">
 <!ENTITY addonsLocal.label         "ਤੁਹਾਡੇ ਐਡ-ਆਨ">
 <!ENTITY addonsUpdate.label        "ਅੱਪਡੇਟ">
-<!ENTITY addonsRepo.label          "Get Add-ons">
+<!ENTITY addonsRepo.label          "ਐਡ-ਆਨ ਲਵੋ">
 <!ENTITY addonsRecommended.label   "ਸਿਫਾਰਸ਼ੀ">
 <!ENTITY addonsSearch.label        "ਖੋਜ">
-<!ENTITY addonsSearch2.emptytext   "Search Catalog">
-<!ENTITY addonsSearch.recommended  "ਸਿਫਾਰਸ਼ੀ">
+<!ENTITY addonsSearch2.emptytext   "ਕੈਟਾਲਾਗ ਖੋਜ">
+<!ENTITY addonsSearch.recommended  "ਸਿਫਾਰਸ਼ ਕੀਤੇ">
 
 <!ENTITY addonOptions.label        "ਚੋਣਾਂ">
-<!ENTITY addonEnable.label         "ਚਾਲੂ">
-<!ENTITY addonDisable.label        "ਬੰਦ ਕਰੋ">
-<!ENTITY addonInstall2.label       "&brandShortName; ਵਿੱਚ ਸ਼ਾਮਲ">
+<!ENTITY addonEnable.label         "ਯੋਗ">
+<!ENTITY addonDisable.label        "ਬੰਦ">
+<!ENTITY addonInstall2.label       "&brandShortName; 'ਚ ਸ਼ਾਮਲ">
 <!ENTITY addonUninstall.label      "ਅਣ-ਇੰਸਟਾਲ">
 <!ENTITY addonCancel.label         "ਰੱਦ ਕਰੋ">
 <!ENTITY addonShowPage.label       "ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
@@ -60,15 +55,16 @@
 <!ENTITY downloadOpen2.label       "ਖੋਲ੍ਹੋ">
 <!ENTITY downloadCancel.label      "ਰੱਦ ਕਰੋ">
 <!ENTITY downloadPause.label       "ਵਿਰਾਮ">
-<!ENTITY downloadResume.label      "ਰੀਜਿਊਮ">
+<!ENTITY downloadResume.label      "ਮੁੜ-ਪ੍ਰਾਪਤ">
 <!ENTITY downloadRetry.label       "ਮੁੜ-ਕੋਸ਼ਿਸ਼">
 <!ENTITY downloadRemove.label      "ਹਟਾਓ">
+<!ENTITY downloadDelete.label      "ਹਟਾਓ">
 <!ENTITY downloadFailed.label      "ਫੇਲ੍ਹ ਹੈ">
 
 <!ENTITY noResults.label           "ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ">
 <!ENTITY allBookmarks.label        "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
-<!ENTITY bookmarkPopup.label       "ਸਫ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤਾ">
+<!ENTITY bookmarkPopup.label       "ਬੁੱਕਮਾਰਕ ਕੀਤੇ ਸਫ਼ੇ">
 <!ENTITY bookmarkRemove.label      "ਹਟਾਓ">
 <!ENTITY bookmarkEdit.label        "ਸੋਧ">
 
@@ -93,5 +89,26 @@
 <!ENTITY consoleErrLine.label      "Line:">
 <!ENTITY consoleErrColumn.label    "Column:">
 
-<!ENTITY contextOpenInNewTab.label "ਲਿੰਕ ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ">
-<!ENTITY contextSaveImage.label    "ਚਿੱਤਰ ਸੰਭਾਲੋ">
+<!ENTITY contextOpenInNewTab.label    "ਲਿੰਕ ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ">
+<!ENTITY contextSaveLink.label        "ਲਿੰਕ ਸੰਭਾਲੋ">
+<!ENTITY contextSaveImage.label       "ਚਿੱਤਰ ਸੰਭਾਲੋ">
+<!ENTITY contextShareLink.label       "ਲਿੰਕ ਸਾਂਝਾ ਕਰੋ">
+<!ENTITY contextShareImage.label      "ਚਿੱਤਰ ਸਾਂਝਾ ਕਰੋ">
+<!ENTITY contextSaveVideo.label       "ਵਿਡੀਓ ਸੰਭਾਲੋ">
+<!ENTITY contextShareVideo.label      "ਵਿਡੀਓ ਸਾਂਝੀ ਕਰੋ">
+<!ENTITY contextPlayMedia.label       "ਚਲਾਓ">
+<!ENTITY contextPauseMedia.label      "ਵਿਰਾਮ">
+<!ENTITY contextFullScreen.label      "ਪੂਰੀ ਸਕਰੀਨ">
+<!ENTITY contextEditBookmark.label    "ਸੋਧ">
+<!ENTITY contextRemoveBookmark.label  "ਹਟਾਓ">
+
+<!ENTITY pageactions.saveas.pdf      "PDF ਵਜੋਂ ਸੰਭਾਲੋ">
+<!ENTITY pageactions.share.page      "ਸਫ਼ਾ ਸਾਂਝਾ ਕਰੋ">
+<!ENTITY pageactions.password.forget "ਪਾਸਵਰਡ ਭੁੱਲ ਗਿਆ/ਗਈ">
+<!ENTITY pageactions.reset           "ਸਾਈਟ ਪਸੰਦ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY pageactions.findInPage      "ਸਫ਼ੇ 'ਚ ਲੱਭੋ">
+<!ENTITY pageactions.search.addNew   "ਖੋਜ ਇੰਜਣ ਸ਼ਾਮਲ">
+
+<!ENTITY selectHelper.emptytext      "ਲਿਸਟ ਫਿਲਟਰ ਕਰੋ">
+
+<!ENTITY appMenu.siteOptions         "ਸਾਈਟ ਚੋਣਾਂ">

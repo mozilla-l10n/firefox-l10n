@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title                "&brandShortName; ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ">
-<!ENTITY firstrun.heading              "To help get you started, here are some of the most popular features and add-ons to help you get the most out of &brandShortName;.">
-<!ENTITY firstrun.recommended          "ਸਿਫਾਰਸ਼ੀ:">
-<!ENTITY firstrun.weave.title          "ਵੀਵ ਸਿੰਕ ਲਵੋ">
-<!ENTITY firstrun.weave.description    "Share your &brandShortName; history, passwords, bookmarks &amp; tabs between your desktop &amp; mobile">
-<!ENTITY firstrun.starter.title        "Get the Starter Kit Collection">
-<!ENTITY firstrun.starter.description  "Install these recommended add-ons to enhance your &brandShortName; experience">
-<!ENTITY firstrun.tour.title           "Take a Tour">
-<!ENTITY firstrun.tour.description     "Watch this clip to familiarize yourself with how to get around and locate cool features">
-<!ENTITY firstrun.features             "See More Features">
+<!ENTITY firstrun.heading2             "&brandShortName; ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ">
+<!ENTITY firstrun.sync2.title          "ਸਿੰਕ ਕਰੋ">
+<!ENTITY firstrun.sync2.description    "Login with your Sync account info and share your history, passwords, bookmarks &amp; tabs between your desktop and mobile">
+<!ENTITY firstrun.addons2.title        "ਪਸੰਦ">
+<!ENTITY firstrun.addons2.description  "Discover and install add-ons to add new functionality to your &brandShortName;">
+<!ENTITY firstrun.home2.title          "ਝਲਕ">
+<!ENTITY firstrun.home2.description    "Skip all this and go to your personalized Start page to start browsing the web">
+<!ENTITY firstrun.features             "ਹੋਰ ਫੀਚਰ ਵੇਖੋ">
 <!ENTITY firstrun.faq                  "ਸਵਾਲ-ਜਵਾਬ">
 <!ENTITY firstrun.privacy              "ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ">
-<!ENTITY firstrun.follow               "Follow us on:">
+<!ENTITY firstrun.follow               "ਸਾਡੇ ਨਾਲ ਰਹੋ:">
