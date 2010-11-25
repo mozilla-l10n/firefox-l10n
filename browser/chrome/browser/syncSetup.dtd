@@ -91,12 +91,10 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY confirm.merge.label          "Izbrali ste združitev vaših podatkov na tem računalniku s podatki na vaših drugih napravah, ki uporabljajo orodje &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label         "Vsi podatki brskalnika &brandShortName; na tem računalniku bodo izbrisani, vključno z naslednjimi:">
+<!ENTITY confirm.merge.label          "Izbrali ste združitev vaših podatkov na tem računalniku s podatki na drugih napravah, ki uporabljajo orodje &syncBrand.fullName.label;.">
+<!ENTITY confirm.client2.label         "Opozorilo: naslednji podatki brskalnika &brandShortName; na tem računalniku bodo odstranjeni:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; bo potem skopiral vaše podatke iz orodja &syncBrand.fullName.label; na ta računalnik.">
-<!ENTITY confirm.client.warning.label "OPOZORILO: vsi podatki brskalnika &brandShortName; na tem računalniku bodo zamenjani!">
-<!ENTITY confirm.server.label         "Naslednje naprave bodo prepisane s podatki tega računalnika:">
-<!ENTITY confirm.server.warning.label "OPOZORILO: podatki tega računalnika bodo nadomestili vse podatke brskalnika &brandShortName; na teh napravah!">
+<!ENTITY confirm.server2.label         "Opozorilo: podatki na naslednjih napravah bodo prepisani z lokalnimi:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title  "Namestitev konačana!">
