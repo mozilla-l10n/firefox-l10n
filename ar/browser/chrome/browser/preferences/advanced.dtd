@@ -16,7 +16,7 @@
 <!ENTITY useAutoScroll.label "استخدم اللّف الآلي">
 <!ENTITY useAutoScroll.accesskey "ف">
 <!ENTITY useSmoothScrolling.label "استخدم اللّف السلس:">
-<!ENTITY useSmoothScrolling.accesskey "ف">
+<!ENTITY useSmoothScrolling.accesskey "خ">
 <!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
 <!ENTITY allowHWAccel.accesskey          "ع">
 <!ENTITY checkSpelling.label "دقق الإملاء أثناء الكتابة">
@@ -24,7 +24,7 @@
 
 <!ENTITY systemDefaults.label "مبدئيّات النظام">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label "دائما تحقق من كون &brandShortName; المتصفّح المبدئي عند بداية التشغيل">
+<!ENTITY alwaysCheckDefault.label "تحقق دائمًا من كون &brandShortName; المتصفّح المبدئي عند بداية التشغيل">
 <!ENTITY alwaysCheckDefault.accesskey "د">
 <!ENTITY checkNow.label "تحقق الآن">
 <!ENTITY checkNow.accesskey "ن">
@@ -67,7 +67,7 @@
 <!ENTITY whenUpdatesFound.label "عند وجود تحديثات ل&brandShortName;:">
 <!ENTITY askMe.label "اسألني ماذا أريد أفعل">
 <!ENTITY askMe.accesskey "س">
-<!ENTITY modeAutomatic.label "نزِّل وثبِّت التحديث آليا">
+<!ENTITY modeAutomatic.label "نزِّل وثبِّت التحديث آليًا">
 <!ENTITY modeAutomatic.accesskey "ن">
 <!ENTITY modeAutoAddonWarn.label "نبّهني إذا كان هذا سيعطّل أي إضافات">
 <!ENTITY modeAutoAddonWarn.accesskey "ب">

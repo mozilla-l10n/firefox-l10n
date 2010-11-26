@@ -1,8 +1,8 @@
 <!ENTITY newWindowsAsTabs.label "افتح النوافذ الجديدة في ألسنة جديدة عوضًا عن ذلك">
-<!ENTITY newWindowsAsTabs.accesskey "ل">
+<!ENTITY newWindowsAsTabs.accesskey "ذ">
 
 <!ENTITY warnCloseMultipleTabs.label "نبّهني عند محاولة إغلاق عدّة ألسنة">
-<!ENTITY warnCloseMultipleTabs.accesskey "ه">
+<!ENTITY warnCloseMultipleTabs.accesskey "ة">
 
 <!ENTITY warnOpenManyTabs.label "نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey "ف">

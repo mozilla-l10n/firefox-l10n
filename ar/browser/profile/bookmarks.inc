@@ -22,7 +22,7 @@
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
-#define firefox_heading موزيلا فايرفوكس
+#define firefox_heading موزيلا فَيَرفُكس
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for http://www.mozilla.com/en-US/firefox/help/
@@ -30,7 +30,7 @@
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://www.mozilla.com/en-US/firefox/customize/
-#define firefox_customize خصّص فايرفوكس
+#define firefox_customize خصّص فَيَرفُكس
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for http://www.mozilla.com/en-US/firefox/community/
