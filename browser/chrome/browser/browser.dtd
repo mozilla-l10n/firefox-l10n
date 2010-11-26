@@ -61,7 +61,7 @@ can reach it easily. -->
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Pracovat offline">
-<!ENTITY goOfflineCmd.accesskey "o">
+<!ENTITY goOfflineCmd.accesskey "l">
 
 <!ENTITY menubarCmd.label "Hlavní nabídka">
 <!ENTITY menubarCmd.accesskey "H">
