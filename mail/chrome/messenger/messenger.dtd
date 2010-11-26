@@ -73,8 +73,6 @@
 <!ENTITY deleteMsgCmd.accesskey "f">
 <!ENTITY undeleteMsgCmd.label "Berjocht fuortsmite ûngedien meitsje">
 <!ENTITY undeleteMsgCmd.accesskey "u">
-<!ENTITY cancelNewsMsgCmd.label "Berjocht annulearje">
-<!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY deleteMsgsCmd.label "Selektearre berjochten fuortsmite">
 <!ENTITY deleteMsgsCmd.accesskey "b">
 <!ENTITY undeleteMsgsCmd.label "Fuortsmite selektearre berjochten ûngedien meitsje">
