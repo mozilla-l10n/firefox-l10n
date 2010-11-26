@@ -7,9 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Poišči posodobitve">
 <!ENTITY listEmpty.search.label               "Ustreznih dodatkov ni bilo mogoče najti">
 <!ENTITY listEmpty.button.label               "Več informacij o dodatkih">
-<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
+<!ENTITY installAddonFromFile.label           "Namesti dodatek iz datoteke…">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
+<!ENTITY toolsMenu.tooltip                    "Orodja za vse dodatke">
 
 <!ENTITY cmd.back.tooltip                     "Pojdi eno stran nazaj">
 <!ENTITY cmd.forward.tooltip                  "Pojdi eno stran naprej">
@@ -23,27 +23,35 @@
 <!ENTITY warning.updatesecurity.enable.label       "Enable">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 
+<!ENTITY warning.safemode.label                    "Zaradi dela v varnem načinu so vsi dodatki onemogočeni.">
+<!ENTITY warning.checkcompatibility.label          "Preverjanje združljivosti dodatkov je onemogočeno. Mogoče imate nameščene dodatke, ki niso združljivi.">
+<!ENTITY warning.checkcompatibility.enable.label   "Omogoči">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Omogoči preverjanje združljivosti dodatkov">
+<!ENTITY warning.updatesecurity.label              "Preverjanje, ali je posodobitev dodatkov varna, je onemogočeno. Posodobitve lahko ogrozijo vaš sistem.">
+<!ENTITY warning.updatesecurity.enable.label       "Omogoči">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Omogoči preverjanje, ali je posodobitev dodatka varna">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Iskanje">
 <!ENTITY view.discover.label                  "Prenesi dodatke">
 <!ENTITY view.locales.label                   "Jeziki">
 <!ENTITY view.searchengines.label             "Iskalniki">
 <!ENTITY view.features.label                  "Razširitve">
-<!ENTITY view.appearance2.label               "Appearance">
+<!ENTITY view.appearance2.label               "Videz">
 <!ENTITY view.plugins.label                   "Vstavki">
 <!ENTITY view.recentUpdates.label             "Nedavne posodobitve">
 <!ENTITY view.availableUpdates.label          "Nove posodobitve">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Check for Updates">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.checkForUpdates.label        "Poišči posodobitve">
+<!ENTITY updates.checkForUpdates.accesskey    "P">
 <!ENTITY updates.viewUpdates.label            "Pokaži nedavne posodobitve">
 <!ENTITY updates.viewUpdates.accesskey        "n">
-<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
+<!ENTITY updates.updateAddonsAutomatically.label     "Samodejno posodobi dodatke">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "d">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Ponastavi vse dodatke na samodejno posodabljanje">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "S">
+<!ENTITY updates.resetUpdatesToManual.label          "Ponastavi vse dodatke na ročno posodabljanje">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Posodabljanje dodatkov">
 <!ENTITY updates.installed.label              "Vaši dodatki so posodobljeni.">
@@ -51,8 +59,8 @@
 <!ENTITY updates.restart.label                "Za dokončanje namestitve ponovno zaženite brskalnik.">
 <!ENTITY updates.noneFound.label              "Ni novih posodobitev">
 <!ENTITY updates.manualUpdatesFound.label     "Preglej vse posodobitve">
-<!ENTITY updates.updateSelected.label         "Install Updates">
-<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
+<!ENTITY updates.updateSelected.label         "Namesti posodobitve">
+<!ENTITY updates.updateSelected.tooltip       "Namesti posodobitve, ki so na voljo v seznamu">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Več informacij">
@@ -70,12 +78,12 @@
 <!ENTITY cmd.enableAddon.accesskey            "O">
 <!ENTITY cmd.disableAddon.label               "Onemogoči">
 <!ENTITY cmd.disableAddon.accesskey           "n">
-<!ENTITY cmd.enableTheme.label                "Wear Theme">
-<!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
-<!ENTITY cmd.disableTheme.accesskey           "W">
-<!ENTITY cmd.installAddon.label               "Install">
-<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.enableTheme.label                "Obleci temo">
+<!ENTITY cmd.enableTheme.accesskey            "t">
+<!ENTITY cmd.disableTheme.label               "Sleci temo">
+<!ENTITY cmd.disableTheme.accesskey           "t">
+<!ENTITY cmd.installAddon.label               "Namesti">
+<!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Odstrani">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Možnosti">
@@ -94,32 +102,31 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "What are Add-ons?">
-<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
-  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
-  your own.">
-<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
-  some of the best and most popular add-ons for you to try out.">
+<!ENTITY discover.title                       "Kaj so dodatki?">
+<!ENTITY discover.description2                "Dodatki so programi, ki omogočajo prilagajanje brskalnika &brandShortName; vašim potrebam
+  z dodajanjem zmogljivosti in spreminjanjem izgleda. Poskusite stranske vrstice, prikaz vremena ali tematsko obarvan &brandShortName;.">
+<!ENTITY discover.footer                      "Ko ste povezani na internet, vam ta odsek ponuja
+  nekatere izbrane in najbolj priljubljene dodatke.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Različica">
-<!ENTITY detail.lastupdated.label             "Last Updated">
+<!ENTITY detail.lastupdated.label             "Nazadnje posodobljeno">
 <!ENTITY detail.creator.label                 "Razvijalec">
 <!ENTITY detail.homepage.label                "Domača stran">
 <!ENTITY detail.numberOfDownloads.label       "Prenosi">
 
-<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
+<!ENTITY detail.contributions.description     "Razvijalec tega dodatka vas vabi, da podprete nadaljnji razvoj s skromnim prispevkom.">
 
-<!ENTITY detail.updateType                    "Automatic Updates">
-<!ENTITY detail.updateDefault.label           "Default">
-<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
-<!ENTITY detail.updateAutomatic.label         "On">
-<!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
-<!ENTITY detail.updateManual.label            "Off">
-<!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
-<!ENTITY detail.home                          "Homepage">
-<!ENTITY detail.repository                    "Add-on Profile">
-<!ENTITY detail.size                          "Size">
+<!ENTITY detail.updateType                    "Samodejne posodobitve">
+<!ENTITY detail.updateDefault.label           "Privzeto">
+<!ENTITY detail.updateDefault.tooltip         "Samodejno nameščaj posodobitve le če je to privzeto">
+<!ENTITY detail.updateAutomatic.label         "Vključeno">
+<!ENTITY detail.updateAutomatic.tooltip       "Samodejno nameščaj posodobitve">
+<!ENTITY detail.updateManual.label            "Izključeno">
+<!ENTITY detail.updateManual.tooltip          "Posodobitev ne nameščaj samodejno">
+<!ENTITY detail.home                          "Domača stran">
+<!ENTITY detail.repository                    "Profil dodatka">
+<!ENTITY detail.size                          "Velikost">
 
 <!ENTITY detail.checkForUpdates.label         "Poišči posodobitve">
 <!ENTITY detail.checkForUpdates.accesskey     "P">
@@ -147,8 +154,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Razvrsti po datumu posodobitve">
 <!ENTITY sort.relevance.label                 "Ustreznost">
 <!ENTITY sort.relevance.tooltip               "Razvrsti po ustreznosti">
-<!ENTITY sort.price.label                     "Price">
-<!ENTITY sort.price.tooltip                   "Sort by price">
+<!ENTITY sort.price.label                     "Cena">
+<!ENTITY sort.price.tooltip                   "Razvrsti po ceni">
 
 <!ENTITY search.filter2.label                 "Iskanje:">
 <!ENTITY search.filter2.installed.label       "Moji dodatki">
@@ -163,17 +170,17 @@
 <!ENTITY addon.disabled.postfix               "(onemogočeno)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
 <!ENTITY addon.update.postfix                 "Posodobitev">
-<!ENTITY addon.undoAction.label               "Undo">
-<!ENTITY addon.undoAction.tooltip             "Undo this action">
-<!ENTITY addon.undoRemove.label               "Undo">
-<!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
+<!ENTITY addon.undoAction.label               "Razveljavi">
+<!ENTITY addon.undoAction.tooltip             "Razveljavi to dejanje">
+<!ENTITY addon.undoRemove.label               "Razveljavi">
+<!ENTITY addon.undoRemove.tooltip             "Dodatek ohrani nameščen">
 <!ENTITY addon.restartNow.label               "Ponovno zaženi">
 <!ENTITY addon.install.label                  "Namesti">
 <!ENTITY addon.install.tooltip                "Namesti ta dodatek">
 <!ENTITY addon.updateNow.label                "Posodobi zdaj">
 <!ENTITY addon.updateNow.tooltip              "Namesti posodobitev tega dodatka">
-<!ENTITY addon.includeUpdate.label            "Include in Update">
-<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.includeUpdate.label            "Vključi v posodobitev">
+<!ENTITY addon.updateAvailable.label          "Na voljo je posodobitev">
 <!ENTITY addon.checkingForUpdates.label       "Iskanje posodobitev…">
 <!ENTITY addon.releaseNotes.label             "Opombe k izdaji:">
 <!ENTITY addon.loadingReleaseNotes.label      "Nalaganje…">
@@ -181,7 +188,7 @@
 
 <!ENTITY addon.createdBy.label                "Avtor: ">
 
-<!ENTITY eula.title                           "End-User License Agreement">
+<!ENTITY eula.title                           "Dovoljenje (EULA)">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Accept and Install…">
+<!ENTITY eula.accept                          "Sprejmi in namesti…">
