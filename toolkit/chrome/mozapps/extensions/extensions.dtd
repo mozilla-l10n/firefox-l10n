@@ -7,7 +7,7 @@
 <!ENTITY listEmpty.findUpdates.label          "Verificar atualizações">
 <!ENTITY listEmpty.search.label               "Nenhum complemento encontrado.">
 <!ENTITY listEmpty.button.label               "Saiba mais sobre complementos">
-<!ENTITY installAddonFromFile.label           "Instalar complemento de um arquivo…">
+<!ENTITY installAddonFromFile.label           "Instalar de um arquivo…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ferramentas para todos os complementos">
 
@@ -39,12 +39,12 @@
 <!ENTITY updates.checkForUpdates.accesskey    "V">
 <!ENTITY updates.viewUpdates.label            "Exibir atualizações recentes">
 <!ENTITY updates.viewUpdates.accesskey        "E">
-<!ENTITY updates.updateAddonsAutomatically.label     "Atualizar complementos automaticamente">
+<!ENTITY updates.updateAddonsAutomatically.label     "Atualizar automaticamente">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Fazer com que todos os complementos atualizem automaticamente">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "F">
-<!ENTITY updates.resetUpdatesToManual.label          "Fazer com que todos os complementos atualizem manualmente">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "F">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Definir atualização automática para todos">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "D">
+<!ENTITY updates.resetUpdatesToManual.label          "Definir atualização manual para todos">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "D">
 <!ENTITY updates.updating.label               "Atualizando complementos">
 <!ENTITY updates.installed.label              "Your add-ons have been updated.">
 <!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
@@ -57,8 +57,8 @@
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Exibir mais informações">
 <!ENTITY cmd.showDetails.accesskey            "E">
-<!ENTITY cmd.findUpdates.label                "Localizar atualizações">
-<!ENTITY cmd.findUpdates.accesskey            "L">
+<!ENTITY cmd.findUpdates.label                "Verificar atualização">
+<!ENTITY cmd.findUpdates.accesskey            "V">
 <!ENTITY cmd.preferencesWin.label             "Opções">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferências">
@@ -186,3 +186,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Desculpe, houve um erro ao carregar as notas da versão.">
 
 <!ENTITY addon.createdBy.label                "Criação: ">
+
+<!ENTITY eula.title                           "Acordo de licença para o usuário final">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Aceitar e instalar…">
