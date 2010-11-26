@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Localizar:">
 <!ENTITY search.accesskey                          "z">
+
+<!ENTITY search.in.label                           "Localizar em:">
 <!ENTITY search.scopeFolder.label                  "Pasta selecionada">
 <!ENTITY search.scopeFolder.accesskey              "P">
 <!ENTITY search.scopeBookmarks.label               "Favoritos">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.noPreviewAvailable.label "Visualizar">
 <!ENTITY detailsPane.selectAnItemText.description "Selecione um item para exibí-lo e editar suas propriedades.">
+
+<!ENTITY find.label               "Localizar:">
+<!ENTITY find.accesskey           "z">
+<!ENTITY view.label               "Exibir">
+<!ENTITY view.accesskey           "b">
+<!ENTITY byDate.label             "Pela data">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "Pelo site">
+<!ENTITY bySite.accesskey         "P">
+<!ENTITY byMostVisited.label      "Pelo número de visitas">
+<!ENTITY byMostVisited.accesskey  "o">
+<!ENTITY byLastVisited.label      "Pela última visita">
+<!ENTITY byLastVisited.accesskey  "e">
+<!ENTITY byDayAndSite.label       "Pela data e site">
+<!ENTITY byDayAndSite.accesskey   "a">

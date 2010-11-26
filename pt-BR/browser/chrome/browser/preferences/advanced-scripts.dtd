@@ -47,7 +47,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "A">
 <!ENTITY disableContextMenus.label      "Desativar ou substituir menus de contexto">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "Ocultar a barra de status">
-<!ENTITY hideStatusBar.accesskey        "c">
-<!ENTITY changeStatusBar.label          "Modificar o texto da barra de status">
-<!ENTITY changeStatusBar.accesskey      "o">
