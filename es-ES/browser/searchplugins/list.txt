@@ -1,0 +1,6 @@
+google
+yahoo-es
+bing
+drae
+eBay-es
+wikipedia-es
