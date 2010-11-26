@@ -27,6 +27,9 @@
 <!ENTITY netOffline.title "Modo sin conexión">
 <!ENTITY netOffline.longDesc "<p>El navegador está ahora en modo desconectado y no puede conectarse al elemento solicitado</p><ul><li>¿Está el ordenador conectado a una red activa? </li><li>Ponga el navegador en modo con conexión y vuelva a intentarlo.</li></ul>">
 
+<!ENTITY netOffline.overrideLongDesc "<p>El navegador está actualmente funcionando en el modo sin conexión a la red y no puede conectarse al ítem solicitado.</p><ul><li>¿Está la computadora conectada a una red activa?</li><li>Ponga el navegador en modo con conexión e intente nuevamente.</li></ul>">
+
+
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<p>La página que está intentando ver no puede mostrarse porque usa una forma no válida o no admitida de compresión.</p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
 
@@ -77,6 +80,10 @@
 <p>Ingresar cualquier dato personal en este sitio puede resultar en un robo de identidad o cualquier otro fraude.</p>
 <p>Esta clase de sitios falsificados son usados en estafas conocidas como ataques de phishing, en el cual los sitios Web fraudulentos y e-mails son usados para imitar sitios en los que usted confia.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado por política de seguridad de contenido">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
+
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
