@@ -33,7 +33,8 @@
 <!ENTITY rights.intro-point3-unbranded "Cualquier política de privacidad aplicable a este producto debe aparecer aquí.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; también ofrece servicios de información sobre sitios web opcionales, como por ejemplo el servicio SafeBrowsing; sin embargo, no podemos garantizar que esten libres de errores o sean 100&#37; precisos. Puede encontrar más detalles, incluída la información sobre cómo deshabilitar estos servicios, en los ">
+<!ENTITY rights2.intro-point4a "Algunas características de &brandShortName; hacen uso de servicios de información basados en la web, sin embargo, no podemos garantizar que sean 100&#37; exactas o libres de errores. Más detalles, incluyendo información sobre como deshabilitar las características que usan estos servicios, pueden encontrarse en los ">
+
 <!ENTITY rights.intro-point4b "términos del servicio">
 <!ENTITY rights.intro-point4c ".">
 
@@ -78,9 +79,16 @@
 <!ENTITY rights.webservices-term1-unbranded "Aquí se deberán indicar los términos de servicio de este producto.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; y sus contribuyentes, licenciatarios y socios trabajan para proveer la más acertada y actualizada información acerca de sitios fraudulentos (phishing) y malware. Sin embargo, no pueden garantizar que esta información es completa ni libre de errores: algunos sitios riesgosos pueden no ser identificados y algunos sitios seguros pueden ser identificados por error.">
+
+<!ENTITY rights2.webservices-term1 "&vendorShortName; y sus colaboradores, licenciatarios y socios trabajan para proveer los servicios más actualizados y libres de errores.  Por ejemplo, el servicio de navegación segura puede no identificar algunos sitios riesgosos y puede identificar algunos sitios seguros por error y en el servicio de Location Aware, todas las ubicaciones devueltas por los proveedores del servicio son estimadas y ni nosotros ni el proveedor del servicio garantizan la exactitud de los lugares previstos.">
+
+
 <!ENTITY rights.webservices-term2 "&vendorShortName; puede discontinuar o cambiar los servicios según considere oportuno.">
-<!ENTITY rights.webservices-term3 "Puede usar estos servicios con la versión de &brandShortName;, y tiene plenos derechos para hacerlo. &vendorShortName; y sus licenciatarios se reservan todos los demás derechos en cuanto a los servicios. Estos términos no tienen la intención de limitar ningún derecho otorgado por una licencia de código abierto aplicable a &brandShortName; y las versiones correspondientes en base al código de &brandShortName;.">
+
+
+<!ENTITY rights2.webservices-term3 "Puede usar estos servicios con esta versión de &brandShortName;, y &vendorShortName; le da los derechos para hacerlo. &vendorShortName; y sus licenciatarios se reservan todos los demás derechos en cuanto a los servicios. Estos términos no tienen la intención de limitar ningún derecho otorgado por una licencia de código abierto aplicable a &brandShortName; y las versiones correspondientes en base al código de &brandShortName;.">
+
+
 <!ENTITY rights.webservices-term4 "Los servicios son ofrecidos &quot;tal como está.&quot;  &vendorShortName;, sus contribuyentes, licenciatarios y distribuidores rechazan toda clase de garantía, explícita o implícita, incluídas, sin perjuicio de lo antes mencionado, las garantías de que el servicio es comercializable y que cumple con sus necesidades particulares. Usted acepta el riesgo que implica seleccionar este servicio para su propósito así como a la calidad y el desempeño del servicio. Algunas jurisdicciones no permiten la exclusión o limitación de las garantías implícitas, por lo tanto, esta exención de responsabilidad puede no ser aplicable en su caso.">
 <!ENTITY rights.webservices-term5 "Excepto cuando sea obligatorio ante la Ley, &vendorShortName;, sus contribuyentes, licenciatarios y distribuidores no podrán ser responsables por ningún daño o perjuicio indirecto, especial, incidental, resultante, punitivo o ejemplar relacionado con el uso de &brandShortName; y los servicios. La responsabilidad colectiva bajo estos términos no podrá exceder los U$S500 (quinientos dólares estadounidenses). Algunas jurisdicciones no permiten la exclusión o limitación de ciertos daños, Por consiguiente que esta exclusión y limitación puede no ser aplicable en su caso.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; puede actualizar estos términos según sea necesario de vez en cuando. Estos términos no pueden ser modificados o cancelados sin el consentimiento por escrito de &vendorShortName;.">
