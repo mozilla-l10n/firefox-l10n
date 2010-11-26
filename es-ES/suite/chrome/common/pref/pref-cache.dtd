@@ -1,24 +1,23 @@
 <!ENTITY pref.cache.title "Caché">
 <!ENTITY pref.cache.caption "Establecer opciones de caché">
 <!ENTITY cachePara "La caché mantiene en su disco duro copias de las páginas web visitadas frecuentemente (aunque al pulsar Recargar siempre se mostrará la última versión de una página).">
-<!ENTITY diskCache.label "Tamaño:">
-<!ENTITY diskCache.accesskey "T">
-<!ENTITY mbytes "MB">
+<!ENTITY cacheCheck.label "Permitir a &brandShortName; administrar el tamaño de la caché.">
+<!ENTITY cacheCheck.accesskey "m">
+<!ENTITY diskCacheUpTo.label "Usar hasta">
+<!ENTITY diskCacheUpTo.accesskey "U">
+<!ENTITY spaceMbytes "MB de espacio en disco para la caché.">
 <!ENTITY diskCacheFolder.label "Ubicación de la carpeta de caché:">
 <!ENTITY clearDiskCache.label "Vaciar caché">
 <!ENTITY clearDiskCache.accesskey "V">
 <!ENTITY chooseDiskCacheFolder.label "Elegir carpeta…">
 <!ENTITY chooseDiskCacheFolder.accesskey "E">
 <!ENTITY diskCacheFolderExplanation "Los archivos de la caché serán guardados en una subcarpeta llamada &quot;Cache&quot; del directorio que especifique. Debe reiniciar &brandShortName; para que los cambios tengan efecto.">
-<!ENTITY docCache "Comparar la página de la caché con la página de la red:">
-<!ENTITY oncePsessionRadio.label "Una vez por sesión">
-<!ENTITY oncePsessionRadio.accesskey "O">
-<!ENTITY everyTimeRadio.label "Cada vez que visite la página">
-<!ENTITY everyTimeRadio.accesskey "E">
-<!ENTITY neverRadio.label "Nunca">
-<!ENTITY neverRadio.accesskey "N">
-<!ENTITY autoRadio.label "Cuando la página ha caducado">
-<!ENTITY autoRadio.accesskey "u">
+<!ENTITY docCache.label "Comparar la página en la caché con la página en la red:">
+<!ENTITY docCache.accesskey "C">
+<!ENTITY checkOncePerSession.label "Una vez por sesión">
+<!ENTITY checkEveryTime.label "Cada vez que vea la página">
+<!ENTITY checkNever.label "Nunca">
+<!ENTITY checkAutomatically.label "Cuando la página esté obsoleta">
 <!ENTITY prefetchTitle.label "Precarga de enlaces">
 <!ENTITY enablePrefetch.label "Precargar las páginas web mientras está inactivo, para que los enlaces en las páginas web diseñadas para ello se carguen más rápido">
 <!ENTITY enablePrefetch.accesskey "P">
