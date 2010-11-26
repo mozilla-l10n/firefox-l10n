@@ -17,17 +17,17 @@
 <!ENTITY helpForIEUsers.label "Za uporabnike Internet Explorerja">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.label       "Ponovno zaženi z onemogočenimi dodatki…">
+<!ENTITY helpSafeMode.accesskey   "z">
 
 <!ENTITY helpReleaseNotes.label "Opombe ob izdaji">
-<!ENTITY helpReleaseNotes.accesskey "O">
+<!ENTITY helpReleaseNotes.accesskey "m">
 
 <!ENTITY helpTroubleshootingInfo.label      "Reševanje težav ...">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpFeedbackPage.label      "Povratne informacije…">
+<!ENTITY helpFeedbackPage.accesskey  "f">
 
 <!ENTITY updateCmd.label "Poišči posodobitve ...">
 

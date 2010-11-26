@@ -10,7 +10,7 @@
 
 <!ENTITY restorepage.tryagainButton "Obnovi">
 <!ENTITY restorepage.restore.access "O">
-<!ENTITY restorepage.cancelButton   "Start New Session">
+<!ENTITY restorepage.cancelButton   "Začni novo sejo">
 <!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "Obnovi">
