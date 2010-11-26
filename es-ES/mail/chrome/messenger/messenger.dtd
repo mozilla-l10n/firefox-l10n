@@ -148,7 +148,7 @@
 <!ENTITY sortByStatusCmd.accesskey "e">
 <!ENTITY sortByTagsCmd.label "Etiquetas">
 <!ENTITY sortByTagsCmd.accesskey "q">
-<!ENTITY sortByJunkStatusCmd.label "Estado de correo basura">
+<!ENTITY sortByJunkStatusCmd.label "Estado de correo no deseado">
 <!ENTITY sortByJunkStatusCmd.accesskey "s">
 <!ENTITY sortBySubjectCmd.label "Asunto">
 <!ENTITY sortBySubjectCmd.accesskey "a">
@@ -378,13 +378,13 @@
 <!ENTITY markStarredCmd.label "Añadir estrella">
 <!ENTITY markStarredCmd.accesskey "S">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "Como correo basura">
+<!ENTITY markAsJunkCmd.label "Como correo no deseado">
 <!ENTITY markAsJunkCmd.accesskey "s">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Como correo normal">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Ejecutar controles de correo basura">
+<!ENTITY recalculateJunkScoreCmd.label "Ejecutar controles de correo no deseado">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
 <!ENTITY openMessageWindowCmd.label "Abrir mensaje">
 <!ENTITY openMessageWindowCmd.accesskey "A">
@@ -423,9 +423,9 @@
 <!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "Ejecutar filtros en el mensaje">
 <!ENTITY filtersApplyToMessage.accesskey "u">
-<!ENTITY runJunkControls.label "Ejecutar controles de correo basura en la carpeta">
+<!ENTITY runJunkControls.label "Ejecutar controles de correo no deseado en la carpeta">
 <!ENTITY runJunkControls.accesskey "C">
-<!ENTITY deleteJunk.label "Eliminar mensajes marcados como basura en la carpeta">
+<!ENTITY deleteJunk.label "Eliminar mensajes marcados como no deseados en la carpeta">
 <!ENTITY deleteJunk.accesskey "E">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "I">
@@ -452,8 +452,8 @@
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Detener">
 <!ENTITY throbberItem.title "Indicador de actividad">
-<!ENTITY junkButton.label "Basura">
-<!ENTITY notJunkButton.label "No es basura">
+<!ENTITY junkButton.label "No deseado">
+<!ENTITY notJunkButton.label "Legítimo">
 <!ENTITY addressBookButton.label "Direcciones">
 <!ENTITY glodaSearch.title "Búsqueda global">
 <!ENTITY searchItem.title "Búsqueda rápida">
@@ -482,7 +482,7 @@
 <!ENTITY markButton.tooltip "Marcar mensajes">
 <!ENTITY printButton.tooltip "Imprimir este mensaje">
 <!ENTITY stopButton.tooltip "Detener la transferencia actual">
-<!ENTITY junkButton.tooltip "Marcar los mensajes seleccionados como correo basura">
+<!ENTITY junkButton.tooltip "Marcar los mensajes seleccionados como no deseados">
 <!ENTITY notJunkButton.tooltip "Marcar los mensajes seleccionados como correo normal">
 <!ENTITY addressBookButton.tooltip "Ir a la libreta de direcciones">
 <!ENTITY tagButton.tooltip "Etiquetar mensajes">
@@ -507,7 +507,7 @@
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Vaciar papelera">
 <!ENTITY folderContextEmptyTrash.accesskey "v">
-<!ENTITY folderContextEmptyJunk.label "Vacíar correo basura">
+<!ENTITY folderContextEmptyJunk.label "Vacíar correo no deseado">
 <!ENTITY folderContextEmptyJunk.accesskey "s">
 <!ENTITY folderContextSendUnsentMessages.label "Enviar mensajes pendientes">
 <!ENTITY folderContextSendUnsentMessages.accesskey "n">
@@ -547,7 +547,7 @@
 <!ENTITY accountColumn.label "Cuenta">
 <!ENTITY statusColumn.label "Estado">
 <!ENTITY sizeColumn.label "Tamaño">
-<!ENTITY junkStatusColumn.label "Estado de correo basura">
+<!ENTITY junkStatusColumn.label "Estado de correo no deseado">
 <!ENTITY unreadColumn.label "No leídos">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Leído">
@@ -567,7 +567,7 @@
 <!ENTITY accountColumn.tooltip "Pulsar para ordenar por cuenta">
 <!ENTITY statusColumn.tooltip "Pulse para ordenar por estado">
 <!ENTITY sizeColumn.tooltip "Pulse para ordenar por tamaño">
-<!ENTITY junkStatusColumn.tooltip "Pulse para ordenar por estado de correo basura">
+<!ENTITY junkStatusColumn.tooltip "Pulse para ordenar por estado de correo no deseado">
 <!ENTITY unreadColumn.tooltip "Número de mensajes no leídos en la conversación">
 <!ENTITY totalColumn.tooltip "Número total de mensajes en la conversación">
 <!ENTITY readColumn.tooltip "Pulse para ordenar los mensajes leídos">
@@ -623,8 +623,8 @@
 <!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "Restaurar sonido">
 <!ENTITY contextUnmute.accesskey "s">
-<!ENTITY junkBarMessage1.label "Correo basura">
-<!ENTITY junkBarButton1.label "No es basura">
+<!ENTITY junkBarMessage1.label "Correo no deseado">
+<!ENTITY junkBarButton1.label "Legítimo">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage2.label "Para proteger su privacidad, &brandShortName; ha bloqueado el contenido remoto en este mensaje.">
 <!ENTITY loadRemoteContentButton3.label "Mostrar contenido remoto">

@@ -38,7 +38,7 @@
 <!ENTITY accountColumn.label "Cuenta">
 <!ENTITY statusColumn.label "Estado">
 <!ENTITY sizeColumn.label "Tamaño">
-<!ENTITY junkStatusColumn.label "Estado de correo basura">
+<!ENTITY junkStatusColumn.label "Estado de correo no deseado">
 <!ENTITY unreadColumn.label "No leído">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Leído">
@@ -57,7 +57,7 @@
 <!ENTITY accountColumn.tooltip "Pulsar para ordenar por cuenta">
 <!ENTITY statusColumn.tooltip "Pulse para ordenar por estado">
 <!ENTITY sizeColumn.tooltip "Pulse para ordenar por tamaño">
-<!ENTITY junkStatusColumn.tooltip "Pulse para ordenar por estado de correo basura">
+<!ENTITY junkStatusColumn.tooltip "Pulse para ordenar por estado de correo no deseado">
 <!ENTITY unreadColumn.tooltip "Número de mensajes no leídos en la conversación">
 <!ENTITY totalColumn.tooltip "Número total de mensajes en la conversación">
 <!ENTITY readColumn.tooltip "Pulse para ordenar los mensajes leídos">

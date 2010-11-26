@@ -10,7 +10,7 @@
 <!ENTITY advFeaturesSectionHdr.label "Características avanzadas">
 <!ENTITY searchMsgsLink.label "Buscar mensajes">
 <!ENTITY filtersLink.label "Administrar filtros de mensajes">
-<!ENTITY junkSettings.label "Correo basura">
+<!ENTITY junkSettings.label "Correo no deseado">
 <!ENTITY offlineLink.label "Configuración sin conexión">
 <!ENTITY feedsSectionHdr.label "Canales">
 <!ENTITY subscribeFeeds.label "Administrar suscripciones">

@@ -1,17 +1,17 @@
-<!ENTITY junkSettings.label "Configuración de correo basura">
-<!ENTITY trainingWarning.label "Si se activa, primero debe enseñar a &brandShortName; a identificar el correo basura usando la barra de herramientas de correo basura marcando los mensajes como basura o no basura. Necesita identificar los mensajes de uno y otro tipo.">
-<!ENTITY level.label "Activar los controles adaptativos de correo basura para esta cuenta">
+<!ENTITY junkSettings.label "Configuración de correo no deseado">
+<!ENTITY trainingWarning.label "Si se activa, primero debe enseñar a &brandShortName; a identificar el correo no deseado usando la barra de herramientas de correo no deseado marcando los mensajes como no deseados o legítimos. Necesita identificar los mensajes de uno y otro tipo.">
+<!ENTITY level.label "Activar los controles adaptativos de correo no deseado para esta cuenta">
 <!ENTITY level.accesskey "A">
-<!ENTITY move.label "Mover nuevos mensajes de correo basura a:">
+<!ENTITY move.label "Mover nuevos mensajes de correo no deseados a:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "Carpeta de &quot;correo basura&quot; en:">
-<!ENTITY junkFolderOn.accesskey "b">
+<!ENTITY junkFolderOn.label "Carpeta de &quot;correo no deseado&quot; en:">
+<!ENTITY junkFolderOn.accesskey "d">
 <!ENTITY otherFolder.label "Otra:">
 <!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "Eliminar automáticamente correo basura con más de">
+<!ENTITY purge1.label "Eliminar automáticamente correo no deseado con más de">
 <!ENTITY purge1.accesskey "E">
 <!ENTITY purge2.label "días">
-<!ENTITY whitelist.label "No marcar mensajes como correo basura si el remitente está en: ">
+<!ENTITY whitelist.label "No marcar mensajes como correo no deseado si el remitente está en: ">
 <!ENTITY whitelist.accesskey "N">
-<!ENTITY ispHeaders.label "Confiar en las cabeceras de correo basura enviadas por: ">
+<!ENTITY ispHeaders.label "Confiar en las cabeceras de correo no deseado enviadas por: ">
 <!ENTITY ispHeaders.accesskey "C">
