@@ -45,10 +45,10 @@
 
 <!ENTITY cmd.bookmarkLink.label "Přidat stránku do záložek…">
 <!ENTITY cmd.bookmarkLink.accesskey "P">
-<!ENTITY cmd.delete.label "Smazat tuto stránku">
-<!ENTITY cmd.delete.accesskey "S">
-<!ENTITY cmd.deleteDomainData.label "Zapomenout na tuto stránku">
-<!ENTITY cmd.deleteDomainData.accesskey "Z">
+<!ENTITY cmd.delete.label "Odebrat tuto stránku">
+<!ENTITY cmd.delete.accesskey "d">
+<!ENTITY cmd.deleteDomainData.label "Odebrat celý web">
+<!ENTITY cmd.deleteDomainData.accesskey "w">
 
 <!ENTITY cmd.open.label "Otevřít">
 <!ENTITY cmd.open.accesskey "O">

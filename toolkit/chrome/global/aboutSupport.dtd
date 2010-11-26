@@ -16,7 +16,7 @@ aplikace &brandShortName; naleznete na <a id='supportLink'>webových stránkách
 <!ENTITY aboutSupport.appBasicsTitle "Stručně o aplikaci">
 <!ENTITY aboutSupport.appBasicsName "Název">
 <!ENTITY aboutSupport.appBasicsVersion "Verze">
-<!ENTITY aboutSupport.appBasicsProfileDir "Adresář s profilem">
+<!ENTITY aboutSupport.appBasicsProfileDir "Složka s profilem">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Povolené zásuvné moduly">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Nastavení sestavení">
 <!ENTITY aboutSupport.appBasicsUserAgent "Identifikace prohlížeče">
