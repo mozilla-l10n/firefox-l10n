@@ -21,11 +21,11 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
+<!ENTITY rights.intro-point2.5 "Alguns dos recursos do &brandShortName;, como o Crash Reporter, lhe dão a opção de fornecer informações à &vendorShortName;. Ao efetuar o envio destas informações, você dá à &vendorShortName; a permissão de usá-las para aperfeiçoar seus produtos, para publicá-las em seus sites e para distribuí-las.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "How we use your personal information and feedback submitted to &vendorShortName; through &brandShortName; is described in the ">
-<!ENTITY rights2.intro-point3b "Política de privacidade do &brandShortName;">
+<!ENTITY rights2.intro-point3a "A forma como nós usamos seus dados pessoais e informações enviadas à &vendorShortName; pelo &brandShortName; está descrita na ">
+<!ENTITY rights2.intro-point3b "Política de Privacidade do &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
@@ -49,25 +49,25 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "O &brandFullName; usa serviços de informações de sites (“Serviços”) para possibilitar alguns dos recursos disponibilizados para o seu uso com esta versão binária do &brandShortName; de acordo com os termos descritos abaixo. Se você não quiser usar um ou mais Serviços ou não aceitar os termos a seguir, você pode desativar o(s) recurso(s) ou o(s) Serviço(s). Instruções sobre como desativar um recurso ou Serviço em particular podem ser encontradas ">
-<!ENTITY rights2.webservices-b "here">
+<!ENTITY rights2.webservices-b "aqui">
 <!ENTITY rights2.webservices-c ".">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
-<!ENTITY rights.safebrowsing-b "Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:">
-<!ENTITY rights.safebrowsing-term1 "Open the application preferences">
-<!ENTITY rights.safebrowsing-term2 "Select the Security selection">
-<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
+<!ENTITY rights.safebrowsing-b "a desativação do Safe Browsing não é recomendada pois pode resultar no uso de sites inseguros. Caso deseje desativar totalmente este recurso, siga estes passos:">
+<!ENTITY rights.safebrowsing-term1 "Abra as preferências do aplicativo">
+<!ENTITY rights.safebrowsing-term2 "Selecione o painel Segurança">
+<!ENTITY rights.safebrowsing-term3 "Desmarque as opções “&blockAttackSites.label;” e “&blockWebForgeries.label;”">
+<!ENTITY rights.safebrowsing-term4 "O Safe Browsing agora está desativado">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
-<!ENTITY rights.locationawarebrowsing-b "is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:">
-<!ENTITY rights.locationawarebrowsing-term1a "In the URL bar, type ">
+<!ENTITY rights.locationawarebrowsing-b "é sempre alertado antes. Nenhuma informação de localização é enviada sem a sua autorização. Caso deseje desativar totalmente este recurso, siga este passos:">
+<!ENTITY rights.locationawarebrowsing-term1a "No campo de endereço, digite ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
-<!ENTITY rights.locationawarebrowsing-term2 "Type geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term3 "Double click on the geo.enabled preference">
-<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
+<!ENTITY rights.locationawarebrowsing-term2 "Digite geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Dê um duplo clique na preferência geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "O serviço Location-Aware Browsing agora está desativado">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Uma visão geral dos serviços web que o produto inclui, assim como instruções de como os desativar (se aplicáveis), deve ser colocada aqui.">
