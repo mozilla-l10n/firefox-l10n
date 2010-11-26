@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizar">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Organizar sus marcadores">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Cerrar">
@@ -94,6 +95,8 @@
 
 <!ENTITY search.label                              "Buscar:">
 <!ENTITY search.accesskey                          "s">
+<!ENTITY search.in.label                           "Buscar en:">
+
 <!ENTITY search.scopeFolder.label                  "Carpeta seleccionada">
 <!ENTITY search.scopeFolder.accesskey              "C">
 <!ENTITY search.scopeBookmarks.label               "Marcadores">
@@ -110,7 +113,7 @@
 
 
 <!ENTITY maintenance.label      "Importar y respaldar">
-<!ENTITY maintenance.label      "Importar y hacer respaldo">
+<!ENTITY maintenance.tooltip    "Importar y respaldar sus marcadores">
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Atrás">

@@ -1,8 +1,8 @@
 <!ENTITY about.version                "versión">
 
-<!ENTITY about.copy.beforeLink        "Vea una lista de los ">
-<!ENTITY about.copy.linkTitle         "colaboradores">
-<!ENTITY about.copy.afterLink         " al proyecto Mozilla.">
+<!ENTITY about.credits.beforeLink        "Vea una lista de los ">
+<!ENTITY about.credits.linkTitle         "colaboradores">
+<!ENTITY about.credits.afterLink         " al proyecto Mozilla.">
 
 <!ENTITY about.license.beforeTheLink     "Lea la ">
 <!ENTITY about.license.linkTitle      "información de licenciamiento">

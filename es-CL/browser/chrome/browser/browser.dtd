@@ -73,7 +73,7 @@ can reach it easily. -->
 <!ENTITY bookmarksToolbarItem.label "Ítems de la barra de marcadores">
 
 
-<!ENTITY addonBarCmd.label "Barra de agregados">
+<!ENTITY addonBarCmd.label "Barra de complementos">
 <!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Código fuente de la página">
@@ -181,7 +181,7 @@ can reach it easily. -->
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Agregados">
+<!ENTITY addons.label                 "Complementos">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
@@ -291,7 +291,7 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Marcadores sin ordenar">
 <!ENTITY appMenuWebDeveloper.label "Diseñador web">
 <!ENTITY appMenuGettingStarted.label "Primeros pasos">
-<!ENTITY appMenuSafeMode.label "Reiniciar con los agregados deshabilitados…">
+<!ENTITY appMenuSafeMode.label "Reiniciar con los complementos deshabilitados…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
