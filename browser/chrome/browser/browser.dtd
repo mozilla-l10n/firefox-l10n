@@ -24,7 +24,7 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Afixar como aba de aplicativo">
+<!ENTITY  pinAppTab.label                    "Afixar como aplicativo">
 <!ENTITY  pinAppTab.accesskey                "A">
 <!ENTITY  unpinAppTab.label                  "Desafixar aba">
 <!ENTITY  unpinAppTab.accesskey              "D">
@@ -71,7 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "r">
 <!ENTITY bookmarksToolbarItem.label "Barra dos favoritos">
 <!ENTITY addonBarCmd.label "Barra de extensões">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "x">
 
 <!ENTITY pageSourceCmd.label "Código-fonte">
 <!ENTITY pageSourceCmd.accesskey "f">
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Avançar">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Próxima página">
-<!ENTITY backForwardMenu.tooltip      "Páginas recentes">
 <!ENTITY reloadCmd.label              "Recarregar">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Atualizar a página">
@@ -139,7 +138,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "Grupos de abas">
 <!ENTITY tabGroupsButton.tooltip      "Agrupar abas">
 
-<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.label             "Inscrever">
 <!ENTITY feedButton.tooltip           "Inscrever RSS">
 
 <!ENTITY bookmarksButton.label          "Favoritos">
@@ -285,13 +284,13 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Não organizados">
 <!ENTITY appMenuWebDeveloper.label "Desenvolvedor web">
 <!ENTITY appMenuGettingStarted.label "Primeiros passos">
-<!ENTITY appMenuSafeMode.label "Reiniciar com extensões e temas desativados…">
+<!ENTITY appMenuSafeMode.label "Reiniciar com extensões desativadas…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "L">
 <!ENTITY urlbar.placeholder           "Abrir uma página web">
 <!ENTITY urlbar.accesskey             "D">
-<!ENTITY urlbar.switchToTab.label     "Selecionar aba:">
+<!ENTITY urlbar.switchToTab.label     "Selecionar a aba:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -514,10 +513,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Concluir">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "x">
-<!ENTITY editBookmark.undo.label                     "Desfazer">
-<!ENTITY editBookmark.undo.accessKey                 "D">
-<!ENTITY editBookmark.edit.label                     "Editar…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "Este site não fornece informações de identidade.">
 <!ENTITY identity.connectedTo "Conectado a">
@@ -549,7 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "f">
+<!ENTITY syncSetup.accesskey          "n">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "Sincronizar">

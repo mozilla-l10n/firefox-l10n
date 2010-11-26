@@ -8,8 +8,8 @@
 <!ENTITY currentAccount.label         "Conta atual:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "Atualizar">
+<!ENTITY resetPass.label              "Redefinir">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gerenciar conta">
@@ -21,11 +21,11 @@
 <!ENTITY stopUsingAccount.label       "Sair desta conta">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncPrefsCaption.label       "Sincronizar navegador">
 <!ENTITY syncComputerName.label       "Nome do computador:">
 <!ENTITY syncComputerName.accesskey   "N">
 
-<!ENTITY syncMy.label               "Sincronizar meus:">
+<!ENTITY syncMy.label               "Sincronizar:">
 <!ENTITY engine.bookmarks.label     "Favoritos">
 <!ENTITY engine.bookmarks.accesskey "F">
 <!ENTITY engine.tabs.label          "Abas">

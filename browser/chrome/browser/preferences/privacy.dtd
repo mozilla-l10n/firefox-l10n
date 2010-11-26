@@ -60,10 +60,10 @@
 <!ENTITY  privateBrowsingPermanent.label "Navegação privativa permanente">
 <!ENTITY  privateBrowsingPermanent.accesskey "v">
 
-<!ENTITY  rememberHistory.label      "Memorizar o histórico">
+<!ENTITY  rememberHistory.label      "Memorizar histórico">
 <!ENTITY  rememberHistory.accesskey  "r">
 
-<!ENTITY  rememberDownload.label         "Memorizar os downloads efetuados">
+<!ENTITY  rememberDownload.label         "Memorizar downloads efetuados">
 <!ENTITY  rememberDownload.accesskey     "M">
 
 <!ENTITY  rememberSearchForm.label       "Memorizar dados fornecidos a páginas e ao campo de pesquisa">

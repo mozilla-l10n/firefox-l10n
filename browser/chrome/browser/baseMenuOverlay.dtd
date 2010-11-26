@@ -17,7 +17,7 @@
 <!ENTITY helpForIEUsers.label     "Para usuários do Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "P">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Reiniciar com extensões e temas desativados…">
+<!ENTITY helpSafeMode.label       "Reiniciar com extensões desativadas…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label         "Notas da versão">

@@ -1,11 +1,56 @@
 <!ENTITY aboutDialog.title          "Sobre o &brandFullName;">
-<!ENTITY copyright                  "Créditos">
-<!ENTITY copyright.accesskey        "C">
-<!ENTITY copyrightGNOME.accesskey   "C">
-<!ENTITY aboutLink                  "&lt; Sobre o &brandFullName;">
-<!ENTITY aboutLink.accesskey        "S">
-<!ENTITY aboutVersion               "versão">
-<!ENTITY closeCmdGNOME.label        "Fechar">  
-<!ENTITY closeCmdGNOME.accesskey    "F">
-<!ENTITY licenseLinkText            "Informações de licenciamento">
-<!ENTITY licenseLinkSuffix          ".">
+
+<!ENTITY community.start2           "O &brandShortName; é desenvolvido pela ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", uma ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "comunidade global">
+<!ENTITY community.end2             " que trabalha em conjunto para tornar a internet melhor. Nós acreditamos que a internet deve ser aberta, pública e acessível a todos sem quaisquer restrições.">
+
+<!ENTITY contribute.start           "Interessou? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Participe!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Informações de licenciamento">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Direitos do usuário final">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Política de privacidade">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "Verificando atualização…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Verificando compatibilidade dos complementos…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "O &brandShortName; está atualizado.">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "Atualizações desativadas pelo administrador.">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "Falha na atualização. ">
+<!ENTITY update.failed.linkText     "Faça o download da nova versão">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "Atualização disponível em ">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "Recebendo a atualização — ">
+<!ENTITY update.downloading.end     "">
