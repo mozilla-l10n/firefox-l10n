@@ -185,7 +185,7 @@
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "Adjuntos:">
 <!ENTITY attachments.accesskey "j">
-<!ENTITY SmileButton.tooltip "Insertar un emoticón">
+<!ENTITY SmileButton.tooltip "Insertar un emoticono">
 <!ENTITY smiley1Cmd.label "Sonriendo">
 <!ENTITY smiley2Cmd.label "Triste">
 <!ENTITY smiley3Cmd.label "Pícaro">

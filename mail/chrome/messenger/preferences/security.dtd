@@ -1,18 +1,18 @@
-<!ENTITY itemJunk.label "Basura">
+<!ENTITY itemJunk.label "Correo no deseado">
 <!ENTITY itemPhishing.label "Correo fraudulento">
 <!ENTITY itemPasswords.label "Contraseñas">
 <!ENTITY itemAntiVirus.label "Antivirus">
 <!ENTITY itemCookies.label "Contenido web">
-<!ENTITY junkMail.intro "Establezca su configuración predeterminada para correo basura. La configuración especifica de cada cuenta puede realizarse en Configuración de las cuentas.">
-<!ENTITY manualMark.label "Cuando marco los mensajes como basura:">
+<!ENTITY junkMail.intro "Establezca su configuración predeterminada para correo no deseado. La configuración especifica de cada cuenta puede realizarse en Configuración de las cuentas.">
+<!ENTITY manualMark.label "Cuando marco los mensajes como no deseados:">
 <!ENTITY manualMark.accesskey "C">
-<!ENTITY manualMarkModeMove.label "Moverlos a la carpeta &quot;Basura&quot; de la cuenta">
+<!ENTITY manualMarkModeMove.label "Moverlos a la carpeta &quot;Correo no deseado&quot; de la cuenta">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Eliminarlos">
 <!ENTITY manualMarkModeDelete.accesskey "E">
-<!ENTITY markAsReadOnSpam.label "Marcar como leídos los mensajes calificados como correo basura">
+<!ENTITY markAsReadOnSpam.label "Marcar como leídos los mensajes calificados como no deseados">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Activar registro del filtro de correo basura">
+<!ENTITY enableJunkLogging.label "Activar registro del filtro de correo no deseado">
 <!ENTITY enableJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Mostrar el registro">
 <!ENTITY openJunkLog.accesskey "s">

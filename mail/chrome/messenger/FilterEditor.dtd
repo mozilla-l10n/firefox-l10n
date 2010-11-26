@@ -1,8 +1,8 @@
 <!ENTITY window.title "Reglas de filtrado">
 <!ENTITY filterName.label "Nombre del filtro:">
 <!ENTITY filterName.accesskey "i">
-<!ENTITY junk.label "Basura">
-<!ENTITY notJunk.label "No es basura">
+<!ENTITY junk.label "Correo no deseado">
+<!ENTITY notJunk.label "Legítimo">
 <!ENTITY lowestPriorityCmd.label "La más baja">
 <!ENTITY lowPriorityCmd.label "Baja">
 <!ENTITY normalPriorityCmd.label "Normal">
@@ -25,7 +25,7 @@
 <!ENTITY markMessageStarred.label "Añadir estrella">
 <!ENTITY setPriority.label "Fijar prioridad a">
 <!ENTITY addTag.label "Etiquetar mensaje">
-<!ENTITY setJunkScore.label "Fijar estado de correo basura a">
+<!ENTITY setJunkScore.label "Fijar estado de correo no deseado a">
 <!ENTITY deleteMessage.label "Eliminar mensaje">
 <!ENTITY deleteFromPOP.label "Eliminar del servidor POP">
 <!ENTITY fetchFromPOP.label "Recuperar del servidor POP">
