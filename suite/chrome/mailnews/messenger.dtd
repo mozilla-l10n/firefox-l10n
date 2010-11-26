@@ -126,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "w">
 <!ENTITY undeleteMsgsCmd.label "Verwijderen geselecteerde berichten ongedaan maken">
 <!ENTITY undeleteMsgsCmd.accesskey "V">
-<!ENTITY cancelNewsMsgsCmd.label "Geselecteerde berichten annuleren">
-<!ENTITY cancelNewsMsgsCmd.accesskey "a">
 <!ENTITY deleteFolderCmd.label "Map verwijderen">
 <!ENTITY deleteFolderCmd.accesskey "M">
 <!ENTITY unsubscribeNewsgroupCmd.label "Abonnement opzeggen">
