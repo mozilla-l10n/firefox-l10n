@@ -9,9 +9,9 @@
 <!ENTITY sync.syncNow               "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
 
 <!ENTITY sync.setup.title           "ਸਿੰਕ ਨਾਲ ਕੁਨੈਕਟ ਕਰੋ">
-<!ENTITY sync.setup.jpake           "From a Firefox Sync-connected computer, go to Sync options and select &#x0022;Add a device&#x0022;">
+<!ENTITY sync.setup.jpake           "ਫਾਇਰਫਾਕਸ ਸਿੰਕ-ਕੁਨੈਕਟ ਹੋਏ ਕੰਪਿਊਟਰ ਉੱਤੇ ਜਾਉ, ਸਿੰਕ ਚੋਣ 'ਚ ਜਾਉ ਅਤੇ  &#x0022;ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ&#x0022; ਚੁਣੋ।">
 <!ENTITY sync.fallback              "ਮੈਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਦੇ ਨੇੜੇ ਨਹੀਂ ਹਾਂ…">
-<!ENTITY sync.setup.manual          "Enter your Sync account information">
+<!ENTITY sync.setup.manual          "ਆਪਣੀ ਸਿੰਕ ਜਾਣਕਾਰੀ ਦਿਉ">
 <!ENTITY sync.account               "ਅਕਾਊਂਟ ਨਾਂ">
 <!ENTITY sync.password              "ਪਾਸਵਰਡ">
 <!ENTITY sync.syncKey               "ਸਿੰਕ ਕੁੰਜੀ">

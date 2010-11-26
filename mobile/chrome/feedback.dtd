@@ -1,14 +1,14 @@
-<!ENTITY feedbackHeader.label           "Beta Tester Tools">
+<!ENTITY feedbackHeader.label           "ਬੀਟਾ ਟੈਸਟਰ ਟੂਲ">
 
-<!ENTITY feedback.communicate.title     "Communicate to Us!">
-<!ENTITY feedback.feedback.title        "Give feedback">
-<!ENTITY feedback.feedback.good         "Good">
-<!ENTITY feedback.feedback.bad          "Bad">
+<!ENTITY feedback.communicate.title     "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ!">
+<!ENTITY feedback.feedback.title        "ਸੁਝਾਅ ਦਿਉ">
+<!ENTITY feedback.feedback.good         "ਚੰਗਾ">
+<!ENTITY feedback.feedback.bad          "ਮਾੜਾ">
 
-<!ENTITY feedback.information.title     "More Information">
-<!ENTITY feedback.about.title           "About this Beta">
-<!ENTITY feedback.about.button          "Go to Page">
+<!ENTITY feedback.information.title     "ਹੋਰ ਜਾਣਕਾਰੀ">
+<!ENTITY feedback.about.title           "ਇਹ ਬੀਟਾ ਬਾਰੇ">
+<!ENTITY feedback.about.button          "ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
 
-<!ENTITY feedback.tools.title           "Tools">
-<!ENTITY feedback.forceCompat.title     "Force add-ons compatibility">
-<!ENTITY feedback.errorConsole.title    "Enable the Error Console">
+<!ENTITY feedback.tools.title           "ਟੂਲ">
+<!ENTITY feedback.forceCompat.title     "ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਲਈ ਮਜਬੂਰ">
+<!ENTITY feedback.errorConsole.title    "ਗਲਤੀ ਕਨਸੋਲ ਯੋਗ">

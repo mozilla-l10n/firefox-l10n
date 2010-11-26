@@ -62,14 +62,14 @@
 <!ENTITY contentEncodingError.title "ਸਮੱਗਰੀ ਇੰਕੋਡਿੰਗ ਗਲਤੀ">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਈਟ ਦੇ ਮਾਲਕਾਂ ਨੂੰ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਉਨ੍ਹਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "ਅਸੁਰੱਖਿਅਤ ਫਾਇਲ ਟਾਈਪ">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਈਟ ਦੇ ਮਾਲਕਾਂ ਨੂੰ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਉਨ੍ਹਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</li>
 </ul>
 ">
 
@@ -79,10 +79,10 @@
 <!ENTITY netTimeout.title "ਕੁਨੈਕਸ਼ਨ ਟਾਈਮ-ਆਉਟ ਹੋਇਆ">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "The address wasn't understood">
+<!ENTITY protocolNotFound.title "ਐਡਰੈੱਸ ਸਮਝ ਨਹੀਂ ਆਇਆ">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>You might need to install other software to open this address.</li>
+  <li>ਤੁਹਾਨੂੰ ਇਹ ਐਡਰੈੱਸ ਖੋਲ੍ਹਣ ਵਾਸਤੇ ਹੋਰ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨੇ ਚਾਹੀਦੇ ਹਨ।</li>
 </ul>
 ">
 
@@ -113,7 +113,7 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
+<!ENTITY unknownSocketType.title "ਸਰਵਰ ਤੋਂ ਅਣਜਾਣ ਜਵਾਬ">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Check to make sure your system has the Personal Security Manager
@@ -142,12 +142,10 @@ be temporary, and you can try again later.</li>
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few
-    moments.</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
+  <li>ਸਾਈਟ ਆਰਜ਼ੀ ਰੂਪ ਵਿੱਚ ਅਣ-ਉਪਲੱਬਧ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਬਹੁਤ ਰੁੱਝੀ ਹੋਈ। ਕੁਝ ਪਲ਼ਾਂ ਬਾਅਦ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</li>
+  <li>ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸਫ਼ਾ ਲੋਡ ਕਰਨ 'ਚ ਅਸਮਰੱਥ ਹੋ ਤਾਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਦਾ ਨੈੱਟਵਰਕ ਚੈੱਕ ਕਰੋ ਜੀ।</li>
+  <li>ਜੇ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਜਾਂ ਨੈੱਟਵਰਕ ਫਾਇਰਵਾਲ ਜਾਂ ਪਰਾਕਸੀ ਰਾਹੀਂ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਹੋਇਆ ਹੈ ਤਾਂ ਯਕੀਨੀ ਬਣਾਉ ਕਿ 
+    &brandShortName; ਨੂੰ ਵੈੱਬ ਵਰਤਣ ਦੀ ਮਨਜ਼ੂਰੀ ਹੈ।</li>
 </ul>
 ">
 
@@ -163,7 +161,7 @@ be temporary, and you can try again later.</li>
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.title "ਸਮਗੱਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਰਾਹੀਂ ਪਾਬੰਦੀ ਲਾਈ">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਛੋਟ ਦੇ ਸਕਦੇ ਹੋ…">
@@ -176,7 +174,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>ਤੁਹਾਨੂੰ ਛੋਟ ਨਹੀਂ ਦੇਣੀ ਚਾਹੀਦੀ ਹੈ, ਜੇ ਤੁਸੀਂ ਅਜਿਹਾ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਵਰਤ ਰਹੇ ਹੋ, ਜਿਸ ਉੱਤੇ ਤੁਹਾਨੂੰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਭਰੋਸਾ ਨਹੀਂ ਹੈ ਜਾਂ ਤੁਹਾਨੂੰ ਇਸ ਸਰਵਰ ਲਈ ਚੇਤਾਵਨੀ ਅਕਸਰ ਨਹੀਂ ਮਿਲਦੀ ਹੈ ਤਾਂ।</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
