@@ -11,7 +11,7 @@
 <!ENTITY backgroundColor.label "الخلفية:">
 <!ENTITY backgroundColor.accesskey "خ">
 <!ENTITY useSystemColors.label "استخدم ألوان النظام">
-<!ENTITY useSystemColors.accesskey "س">
+<!ENTITY useSystemColors.accesskey "ظ">
 
 <!ENTITY underlineLinks.label "سطّر الوصلات">
 <!ENTITY underlineLinks.accesskey "ص">

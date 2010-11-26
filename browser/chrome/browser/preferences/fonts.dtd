@@ -13,8 +13,8 @@
 <!ENTITY proportional.label "متناسب:">
 <!ENTITY proportional.accesskey "ت">
 
-<!ENTITY serif.label "مذيل:">
-<!ENTITY serif.accesskey "م">
+<!ENTITY serif.label "مذيّل:">
+<!ENTITY serif.accesskey "ذ">
 <!ENTITY sans-serif.label "غير مذيّل:">
 <!ENTITY sans-serif.accesskey "غ">
 <!ENTITY monospace.label "ثابت العرض:">
@@ -54,14 +54,14 @@
 <!ENTITY  font.langGroup.tibetan                  "تيبتي">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "الحجم الأدنى للخط:">
-<!ENTITY minSize.accesskey "ح">
+<!ENTITY minSize.accesskey "ط">
 <!ENTITY minSize.none "لا شيء">
 <!-- default font type -->
 
 <!ENTITY useDefaultFontSerif.label "مذيل">
 <!ENTITY useDefaultFontSansSerif.label "غير مذيل">
 
-<!ENTITY allowPagesToUse.label "اسمح للصفحات باستعمال خطوطها الخاصة، عوض اختياراتي في الأعلى">
+<!ENTITY allowPagesToUse.label "اسمح للصفحات باستعمال خطوطها الخاصة، عوضًا عن اختياراتي في الأعلى">
 <!ENTITY allowPagesToUse.accesskey "س">
 
 <!ENTITY languages.customize.Charset.grouplabel "ترميز المحارف">
