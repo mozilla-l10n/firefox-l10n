@@ -73,14 +73,10 @@
 <!ENTITY deleteMsgCmd.accesskey "S">
 <!ENTITY undeleteMsgCmd.label "Restaurer le message">
 <!ENTITY undeleteMsgCmd.accesskey "R">
-<!ENTITY cancelNewsMsgCmd.label "Annuler le message">
-<!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY deleteMsgsCmd.label "Supprimer les messages sélectionnés">
 <!ENTITY deleteMsgsCmd.accesskey "S">
 <!ENTITY undeleteMsgsCmd.label "Restaurer les messages sélectionnés">
 <!ENTITY undeleteMsgsCmd.accesskey "R">
-<!ENTITY cancelNewsMsgsCmd.label "Annuler les messages sélectionnés">
-<!ENTITY cancelNewsMsgsCmd.accesskey "A">
 <!ENTITY deleteFolderCmd.label "Supprimer le dossier">
 <!ENTITY deleteFolderCmd.accesskey "d">
 <!ENTITY unsubscribeNewsgroupCmd.label "Se désabonner">
@@ -329,9 +325,11 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Message">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.label "Archiver">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Annuler le message">
+<!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.label "Répondre">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">

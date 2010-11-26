@@ -123,10 +123,8 @@
 <!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY deleteMsgsCmd.label "Supprimer les messages sélectionnés">
 <!ENTITY deleteMsgsCmd.accesskey "S">
-<!ENTITY undeleteMsgsCmd.label              "Restaurer les messages sélectionnés">
+<!ENTITY undeleteMsgsCmd.label "Restaurer les messages sélectionnés">
 <!ENTITY undeleteMsgsCmd.accesskey "R">
-<!ENTITY cancelNewsMsgsCmd.label "Annuler les messages sélectionnés">
-<!ENTITY cancelNewsMsgsCmd.accesskey "A">
 <!ENTITY deleteFolderCmd.label "Supprimer le dossier">
 <!ENTITY deleteFolderCmd.accesskey "d">
 <!ENTITY unsubscribeNewsgroupCmd.label "Se désabonner">
