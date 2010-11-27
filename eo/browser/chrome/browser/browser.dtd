@@ -262,8 +262,8 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.accesskey "n">
 <!ENTITY viewCustomizeToolbar.label       "Persone agordi…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY viewTabsOnTop.label            "Malfonaj folioj">
-<!ENTITY viewTabsOnTop.accesskey        "M">
+<!ENTITY viewTabsOnTop.label            "Folioj supre">
+<!ENTITY viewTabsOnTop.accesskey        "s">
 
 <!ENTITY historyMenu.label "Historio">
 <!ENTITY historyMenu.accesskey "h">
