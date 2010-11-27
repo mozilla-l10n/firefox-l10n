@@ -107,14 +107,10 @@
 <!ENTITY deleteMsgCmd.accesskey "š">
 <!ENTITY undeleteMsgCmd.label "Atšaukti laiško šalinimą">
 <!ENTITY undeleteMsgCmd.accesskey "t">
-<!ENTITY cancelNewsMsgCmd.label "Atsisakyti laiško">
-<!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY deleteMsgsCmd.label "Pašalinti pažymėtus laiškus">
 <!ENTITY deleteMsgsCmd.accesskey "ž">
 <!ENTITY undeleteMsgsCmd.label "Atšaukti pažymėtų laiškų šalinimą">
 <!ENTITY undeleteMsgsCmd.accesskey "u">
-<!ENTITY cancelNewsMsgsCmd.label "Atsisakyti pažymėtų laiškų">
-<!ENTITY cancelNewsMsgsCmd.accesskey "s">
 <!ENTITY deleteFolderCmd.label "Pašalinti aplanką">
 <!ENTITY deleteFolderCmd.accesskey "p">
 <!ENTITY unsubscribeNewsgroupCmd.label "Atsisakyti prenumeratos">
@@ -344,12 +340,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.accesskey "P">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Atgal">
-<!ENTITY goBackCmd.accesskey "A">
+<!ENTITY goBackCmd.accesskey "g">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "žvaigždute pažymėtą laišką">
 <!ENTITY prevStarredMsgCmd.accesskey "Ž">
+<!ENTITY folderMenu.label "Į aplanką">
+<!ENTITY folderMenu.accesskey "l">
+<!ENTITY thisFolder.label "Į šį aplanką">
+<!ENTITY thisFolder.accesskey "š">
 <!ENTITY startPageCmd.label "Į pašto pradžios tinklalapį">
 <!ENTITY startPageCmd.accesskey "r">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Laiškas">
 <!ENTITY msgMenu.accesskey "l">
 <!ENTITY newMsgCmd.label "Naujas laiškas…">
@@ -359,6 +361,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Archyvuoti">
 <!ENTITY archiveMsgCmd.accesskey "c">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Atsisakyti laiško">
+<!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.label "Atsakyti">
 <!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key	"r">
