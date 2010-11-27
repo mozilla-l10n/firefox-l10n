@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Søk:">
 <!ENTITY search.accesskey                          "ø">
+
+<!ENTITY search.in.label                           "Søk i:">
 <!ENTITY search.scopeFolder.label                  "Vald mappe">
 <!ENTITY search.scopeFolder.accesskey              "V">
 <!ENTITY search.scopeBookmarks.label               "Bokmerke">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "i">
 <!ENTITY detailsPane.noPreviewAvailable.label "Førehandsvising">
 <!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil vise og endre">
+
+<!ENTITY find.label               "Søk:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "Vis">
+<!ENTITY view.accesskey           "i">
+<!ENTITY byDate.label             "Etter dato">
+<!ENTITY byDate.accesskey         "a">
+<!ENTITY bySite.label             "Etter nettstad">
+<!ENTITY bySite.accesskey         "n">
+<!ENTITY byMostVisited.label      "Etter mest vitja">
+<!ENTITY byMostVisited.accesskey  "m">
+<!ENTITY byLastVisited.label      "Etter sist vitja">
+<!ENTITY byLastVisited.accesskey  "s">
+<!ENTITY byDayAndSite.label       "Etter dato og nettstad">
+<!ENTITY byDayAndSite.accesskey   "d">

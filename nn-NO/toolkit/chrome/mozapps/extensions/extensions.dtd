@@ -185,3 +185,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Beklagar, men ein feil oppstod under lasting av versjonsnotatet.">
 
 <!ENTITY addon.createdBy.label                "Av">
+
+<!ENTITY eula.title                           "Sluttbrukaravtale">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Godta og installer …">

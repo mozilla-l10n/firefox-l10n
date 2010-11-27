@@ -92,11 +92,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Stadfest">
 <!ENTITY confirm.merge.label    "Du har valt å flette saman data fra denne datamaskina med data i Sync-kontoen.">
-<!ENTITY confirm.client.label         "Alle data på &brandShortName; vert sletta, inkludert følgjande:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; vil so kopiere &syncBrand.fullName.label;-data dine til denne datamaskina.">
-<!ENTITY confirm.client.warning.label "ÅTVARING: Dette vil føre til at alle &brandShortName;-data på denne datamaskina vert skifta ut!">
-<!ENTITY confirm.server.label         "Følgjande einingar vert overskrivne med lokale data:">
-<!ENTITY confirm.server.warning.label "ÅTVARING: Dine lokale data vil erstatte alle &brandShortName;-data på desse einingane!">
+<!ENTITY confirm.client2.label         "Åtvaring: Følgjande &brandShortName;-data på denne datamaskina vert sletta:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; vil deretter kopiere dine &syncBrand.fullName.label;-data til denne datamaskina.">
+<!ENTITY confirm.server2.label         "Åtvaring: Følgjande einingar vert overskrivne med lokale data:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Konfigurasjonen er fullført!">

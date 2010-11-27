@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "e">
 
 <!ENTITY exceptionMgr.title                   "Legg til tryggingsunntak …">
-<!ENTITY exceptionMgr.exceptionButton         "Stadfest tryggingsunntak">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "S">
+<!ENTITY exceptionMgr.exceptionButton.label   "Stadfest tryggingsunntak">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "S">
 <!ENTITY exceptionMgr.supplementalWarning     "Lovlege bankar, butikkar, og andre offentlege nettsider vil ikkje be deg om å gjere dette.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Tenar">
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">
