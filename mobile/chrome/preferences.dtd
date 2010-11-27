@@ -18,11 +18,3 @@
 <!ENTITY homepage.none                             "Tom side">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Bruk aktiv side">
-<!ENTITY sync.title                                "Sync">
-<!ENTITY sync.account2                             "Kontonamn">
-<!ENTITY sync.password                             "Passord">
-<!ENTITY sync.syncKey                              "Sync-nøkkel">
-<!ENTITY sync.deviceName                           "Einingsnamn">
-<!ENTITY sync.connect                              "Kople til">
-<!ENTITY sync.disconnect                           "Kople frå">
-<!ENTITY sync.syncNow                              "Synkroniser no">

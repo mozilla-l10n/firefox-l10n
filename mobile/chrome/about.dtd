@@ -13,7 +13,6 @@
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Bidragsytarar. Alle rettar med atterhald. (">
+-->
 <!ENTITY aboutPage.licenseLink                  "Lisensinformasjon">
-<!ENTITY aboutPage.copyrightInfo2               ").">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
