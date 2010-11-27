@@ -73,12 +73,12 @@
 <!ENTITY deleteMsgCmd.accesskey "f">
 <!ENTITY undeleteMsgCmd.label "Berjocht fuortsmite ûngedien meitsje">
 <!ENTITY undeleteMsgCmd.accesskey "u">
+<!ENTITY cancelNewsMsgCmd.label "Berjocht annulearje">
+<!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY deleteMsgsCmd.label "Selektearre berjochten fuortsmite">
 <!ENTITY deleteMsgsCmd.accesskey "b">
 <!ENTITY undeleteMsgsCmd.label "Fuortsmite selektearre berjochten ûngedien meitsje">
 <!ENTITY undeleteMsgsCmd.accesskey "F">
-<!ENTITY cancelNewsMsgsCmd.label "Selektearre berjochten annulearje">
-<!ENTITY cancelNewsMsgsCmd.accesskey "a">
 <!ENTITY deleteFolderCmd.label "Map fuortsmite">
 <!ENTITY deleteFolderCmd.accesskey "M">
 <!ENTITY unsubscribeNewsgroupCmd.label "Abonnemint opsizze">
