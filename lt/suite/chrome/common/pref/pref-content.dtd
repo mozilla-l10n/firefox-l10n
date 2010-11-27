@@ -41,5 +41,9 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "m">
 <!ENTITY useSmoothScroll.label                  "Slinkti tolygiai">
 <!ENTITY useSmoothScroll.accesskey              "S">
+<!ENTITY allowHWAccel.label                     "Kai įmanoma, naudoti aparatinį spartinimą">
+<!ENTITY allowHWAccel.accesskey                 "a">
 <!ENTITY textZoomOnly.label                     "Nekeisti svetainės mastelio, keisti tik teksto dydį">
 <!ENTITY textZoomOnly.accesskey                 "k">
+<!ENTITY blockAutoRefresh.label                 "Įspėti, kai tinklalapis bando peradresuoti naršyklę arba pakartotinai save įkelti">
+<!ENTITY blockAutoRefresh.accesskey             "p">

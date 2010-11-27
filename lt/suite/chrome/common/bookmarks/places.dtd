@@ -117,6 +117,8 @@
 
 <!ENTITY search.label                              "Ieškoti:">
 <!ENTITY search.placeholder                        "Ieškoti adresyne">
+
+<!ENTITY search.in.label                           "Kur ieškoti:">
 <!ENTITY search.scopeFolder.label                  "Parinktame aplanke">
 <!ENTITY search.scopeFolder.accesskey              "P">
 <!ENTITY search.scopeBookmarks.label               "Adresyne">
