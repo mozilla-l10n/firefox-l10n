@@ -44,12 +44,14 @@
 
 <!ENTITY cut.label                        "Iškirpti">
 <!ENTITY copy.label                       "Kopijuoti">
+<!ENTITY copyAll.label                    "Kopijuoti viską">
 <!ENTITY copylink.label                   "Kopijuoti saito adresą">
 <!ENTITY paste.label                      "Įdėti">
 <!ENTITY delete.label                     "Pašalinti">
 <!ENTITY selectAll.label                  "Pažymėti viską">
 <!ENTITY noSuggestions.label              "(Nėra siūlymų)">
 <!ENTITY addToDictionary.label            "Įtraukti į žodyną">
+<!ENTITY inputMethod.label                "Įvesties metodas">
 
 <!ENTITY allPagesHeader.label             "Visi tinklalapiai">
 <!ENTITY bookmarksHeader.label            "Adresynas">
@@ -140,3 +142,5 @@
 <!ENTITY pageactions.search.addNew        "Pridėti ieškyklę">
 
 <!ENTITY selectHelper.emptytext           "Filtruoti sąrašą">
+
+<!ENTITY appMenu.siteOptions              "Svetainės nuostatos">

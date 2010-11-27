@@ -1,0 +1,21 @@
+<!ENTITY sync.title                 "„Sync“">
+<!ENTITY sync.notconnected          "Neprisijungta">
+<!ENTITY sync.connect               "Prisijungti">
+<!ENTITY sync.connected             "Prisijungta">
+<!ENTITY sync.details               "Išsamiau">
+<!ENTITY sync.synchronize           "Įgalinti sinchronizavimą">
+<!ENTITY sync.deviceName            "Šis įrenginys">
+<!ENTITY sync.disconnect            "Atsijungti">
+<!ENTITY sync.syncNow               "Sinchronizuoti dabar">
+
+<!ENTITY sync.setup.title           "Prisijungimas prie „Sync“">
+<!ENTITY sync.setup.jpake           "Kompiuteryje, kuriame su „Firefox“ naršykle naudojate „Sync“, atverkite sinchronizavimo nuostatas ir spustelėkite mygtuką „Pridėti įrenginį“">
+<!ENTITY sync.fallback              "Šiuo metu negaliu prieiti prie savo kompiuterio…">
+<!ENTITY sync.setup.manual          "Įveskite savo „Sync“ paskyros duomenis">
+<!ENTITY sync.account               "Paskyros vardas">
+<!ENTITY sync.password              "Slaptažodis">
+<!ENTITY sync.syncKey               "Sinchronizavimo raktas">
+<!ENTITY sync.customServer          "Naudoti kitą serverį">
+<!ENTITY sync.serverURL             "Serverio URL">
+<!ENTITY sync.setup.connect         "Prisijungti">
+<!ENTITY sync.setup.cancel          "Atsisakyti">
