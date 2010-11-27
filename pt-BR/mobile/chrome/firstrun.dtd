@@ -1,12 +1,11 @@
 <!ENTITY firstrun.title                "Bem-vindo ao &brandShortName;">
-<!ENTITY firstrun.heading              "Aproveite ao máximo o &brandShortName;. Aqui estão alguns dos recursos e extensões mais populares.">
-<!ENTITY firstrun.recommended          "Recomendados:">
-<!ENTITY firstrun.weave.title          "Weave Sync">
-<!ENTITY firstrun.weave.description    "Compartilhe histórico, senhas, favoritos e abas entre seus &brandShortName; desktop e móvel.">
-<!ENTITY firstrun.starter.title        "Coleção Starter Kit">
-<!ENTITY firstrun.starter.description  "Instale estas extensões recomendadas que aprimoram o uso do &brandShortName;.">
-<!ENTITY firstrun.tour.title           "Faça um passeio">
-<!ENTITY firstrun.tour.description     "Assista esta animação para familiarizar-se com a navegação e localizar interessantes funcionalidades.">
+<!ENTITY firstrun.heading2             "Bem-vindo ao &brandShortName;">
+<!ENTITY firstrun.sync2.title          "Sincronize">
+<!ENTITY firstrun.sync2.description    "Conecte-se a sua conta do Sync e compartilhe histórico, senhas, favoritos e abas entre o seu computador e o telefone">
+<!ENTITY firstrun.addons2.title        "Personalize">
+<!ENTITY firstrun.addons2.description  "Conheça e instale extensões que adicionam novos recursos ao &brandShortName;">
+<!ENTITY firstrun.home2.title          "Navegue">
+<!ENTITY firstrun.home2.description    "Deixe isso tudo de lado e abra a sua página inicial personalizada para começar a navegar na web">
 <!ENTITY firstrun.features             "Veja mais recursos">
 <!ENTITY firstrun.faq                  "Dúvidas freqüentes">
 <!ENTITY firstrun.privacy              "Política de privacidade">

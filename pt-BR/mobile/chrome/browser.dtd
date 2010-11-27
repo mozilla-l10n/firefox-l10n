@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "Recarregar">
 <!ENTITY stop.label            "Parar">
 <!ENTITY go.label              "Ir">
-<!ENTITY openLocation.label    "Abrir endereço">
 <!ENTITY star.label            "Estrela">
 
 <!ENTITY newtab.label          "Nova aba">
@@ -13,28 +12,24 @@
 
 <!ENTITY cut.label             "Recortar">
 <!ENTITY copy.label            "Copiar">
+<!ENTITY copyAll.label         "Copiar tudo">
 <!ENTITY copylink.label        "Copiar link">
 <!ENTITY paste.label           "Colar">
 <!ENTITY delete.label          "Excluir">
 <!ENTITY selectAll.label       "Selecionar tudo">
 <!ENTITY noSuggestions.label   "(Nenhuma sugestão)">
 <!ENTITY addToDictionary.label "Memorizar como correta">
+<!ENTITY inputMethod.label     "Select Input Method">
 
+<!ENTITY allPagesHeader.label      "Tudo">
 <!ENTITY bookmarksHeader.label     "Favoritos">
-<!ENTITY bookmarksManage.label     "Gerenciar">
+<!ENTITY historyHeader.label       "Histórico">
+<!ENTITY desktopHeader.label       "Desktop">
 
-<!ENTITY editBookmarkRemove.label  "Excluir">
 <!ENTITY editBookmarkDone.label    "Concluir">
 <!ENTITY editBookmarkTags.label    "Adicione tags aqui">
 
-<!ENTITY helperApp.prompt          "O que deseja fazer com">
-<!ENTITY helperApp.open            "Abrir">
-<!ENTITY helperApp.save            "Salvar">
-<!ENTITY helperApp.nothing         "Nada">
-
-<!ENTITY formHelper.previous       "Anterior">
-<!ENTITY formHelper.next           "Próximo">
-<!ENTITY formHelper.done           "Concluir">
+<!ENTITY selectHelper.done         "Done">
 
 <!ENTITY addonsHeader.label        "Complementos">
 <!ENTITY addonsLocal.label         "Seus complementos">
@@ -63,6 +58,7 @@
 <!ENTITY downloadResume.label      "Continuar">
 <!ENTITY downloadRetry.label       "Reiniciar">
 <!ENTITY downloadRemove.label      "Excluir">
+<!ENTITY downloadDelete.label      "Excluir">
 <!ENTITY downloadFailed.label      "Malsucedido">
 
 <!ENTITY noResults.label           "Nenhum resultado">
@@ -93,5 +89,26 @@
 <!ENTITY consoleErrLine.label      "Linha:">
 <!ENTITY consoleErrColumn.label    "Coluna:">
 
-<!ENTITY contextOpenInNewTab.label "Abrir em nova aba">
-<!ENTITY contextSaveImage.label    "Salvar imagem">
+<!ENTITY contextOpenInNewTab.label    "Abrir em nova aba">
+<!ENTITY contextSaveLink.label        "Salvar link">
+<!ENTITY contextSaveImage.label       "Salvar imagem">
+<!ENTITY contextShareLink.label       "Compartilhar link">
+<!ENTITY contextShareImage.label      "Compartilhar imagem">
+<!ENTITY contextSaveVideo.label       "Salvar vídeo">
+<!ENTITY contextShareVideo.label      "Compartilhar vídeo">
+<!ENTITY contextPlayMedia.label       "Play">
+<!ENTITY contextPauseMedia.label      "Pause">
+<!ENTITY contextFullScreen.label      "Tela inteira">
+<!ENTITY contextEditBookmark.label    "Editar">
+<!ENTITY contextRemoveBookmark.label  "Excluir">
+
+<!ENTITY pageactions.saveas.pdf      "Salvar como PDF">
+<!ENTITY pageactions.share.page      "Compartilhar página">
+<!ENTITY pageactions.password.forget "Excluir senha memorizada">
+<!ENTITY pageactions.reset           "Clear Site Preferences">
+<!ENTITY pageactions.findInPage      "Localizar na página">
+<!ENTITY pageactions.search.addNew   "Adicionar pesquisa">
+
+<!ENTITY selectHelper.emptytext      "Localizar item">
+
+<!ENTITY appMenu.siteOptions         "Site Options">
