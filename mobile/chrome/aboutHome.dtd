@@ -2,7 +2,7 @@
 <!ENTITY aboutHome.recentTabs                   "Suas abas anteriores">
 <!ENTITY aboutHome.remoteTabs                   "Abas de outros computadores">
 <!ENTITY aboutHome.recommendedAddons2           "Complementos para o seu &brandShortName;">
-<!ENTITY aboutHome.aboutMozilla                 "Sobre a Mozilla">
+<!ENTITY aboutHome.giveFeedback                 "Dê a sua opinião">
 <!ENTITY aboutHome.openAllTabs                  "Abrir tudo em abas">
 <!ENTITY aboutHome.noTabs                       "Nenhuma aba aberta anteriormente">
 <!ENTITY aboutHome.noAddons                     "Nenhum complemento recomendado">
