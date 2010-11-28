@@ -79,8 +79,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "д">
 <!ENTITY undeleteMsgsCmd.label "Адмяніць выдаленне вылучаных лістоў">
 <!ENTITY undeleteMsgsCmd.accesskey "ц">
-<!ENTITY cancelNewsMsgsCmd.label "Скасаваць вылучаныя лісты">
-<!ENTITY cancelNewsMsgsCmd.accesskey "к">
 <!ENTITY deleteFolderCmd.label "Выдаліць папку">
 <!ENTITY deleteFolderCmd.accesskey "д">
 <!ENTITY unsubscribeNewsgroupCmd.label "Адпісацца">
