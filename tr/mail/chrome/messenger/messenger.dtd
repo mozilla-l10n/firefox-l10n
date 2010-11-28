@@ -73,14 +73,10 @@
 <!ENTITY deleteMsgCmd.accesskey "y">
 <!ENTITY undeleteMsgCmd.label "Silinen iletiyi geri al">
 <!ENTITY undeleteMsgCmd.accesskey "i">
-<!ENTITY cancelNewsMsgCmd.label "İletiayi iptal et">
-<!ENTITY cancelNewsMsgCmd.accesskey "a">
 <!ENTITY deleteMsgsCmd.label "Seçilmiş iletileri sil">
 <!ENTITY deleteMsgsCmd.accesskey "S">
 <!ENTITY undeleteMsgsCmd.label "İşaretlenmiş silinen iletileri geri al">
 <!ENTITY undeleteMsgsCmd.accesskey "a">
-<!ENTITY cancelNewsMsgsCmd.label "Seçilmiş iletileri iptal et">
-<!ENTITY cancelNewsMsgsCmd.accesskey "S">
 <!ENTITY deleteFolderCmd.label "Dizini sil">
 <!ENTITY deleteFolderCmd.accesskey "i">
 <!ENTITY unsubscribeNewsgroupCmd.label "Abonelikten çık">
@@ -314,6 +310,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Yıldızlı iletiler">
 <!ENTITY prevStarredMsgCmd.accesskey "d">
+<!ENTITY folderMenu.label "Folder">
+<!ENTITY folderMenu.accesskey "O">
+<!ENTITY thisFolder.label "This Folder">
+<!ENTITY thisFolder.accesskey "F">
 <!ENTITY startPageCmd.label "Posta başlangıç sayfası">
 <!ENTITY startPageCmd.accesskey "b">
 <!-- Message Menu -->
@@ -327,6 +327,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Arşivle">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
+<!ENTITY cancelNewsMsgCmd.label "Cancel Message">
+<!ENTITY cancelNewsMsgCmd.accesskey "C">
 <!ENTITY replyMsgCmd.label "Yanıtla">
 <!ENTITY replyMsgCmd.accesskey "Y">
 <!ENTITY replyMsgCmd.key "r">

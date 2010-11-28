@@ -20,4 +20,4 @@
 <!ENTITY mnEditCopyFileURI.label "URI'yi kopyala">
 <!ENTITY mnEditCopyFileURI.accesskey "U">
 <!ENTITY mnEditViewFileURI.label "Dosyaya bak">
-<!ENTITY mnEditViewFileURI.accesskey "V">
+<!ENTITY mnEditViewFileURI.accesskey "b">

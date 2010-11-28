@@ -126,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "S">
 <!ENTITY undeleteMsgsCmd.label "İşaretlenmiş silinen postaları geri al">
 <!ENTITY undeleteMsgsCmd.accesskey "a">
-<!ENTITY cancelNewsMsgsCmd.label "Seçilmiş postaları iptal et">
-<!ENTITY cancelNewsMsgsCmd.accesskey "S">
 <!ENTITY deleteFolderCmd.label "Dizini sil">
 <!ENTITY deleteFolderCmd.accesskey "i">
 <!ENTITY unsubscribeNewsgroupCmd.label "Abonelikten çık">

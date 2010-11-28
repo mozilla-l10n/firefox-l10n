@@ -49,7 +49,7 @@
 
 <!ENTITY limitCacheSizeBefore.label "Önbelleği">
 <!ENTITY limitCacheSizeBefore.accesskey "Ö">
-<!ENTITY limitCacheSizeAfter.label "MB alanla sınırla">
+<!ENTITY limitCacheSizeAfter.label "MB ile sınırla">
 <!ENTITY clearCacheNow.label "Şimdi temizle">
 <!ENTITY clearCacheNow.accesskey "z">
 <!ENTITY overrideSmartCacheSize.label "Otomatik önbellek yönetimini devre dışı bırak">

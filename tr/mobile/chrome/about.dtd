@@ -6,9 +6,9 @@
 <!ENTITY aboutPage.relNotes.label "Sürüm notları">
 <!ENTITY aboutPage.credits.label "Destekleyenler">
 <!ENTITY aboutPage.checkForUpdates.button "Güncellemeleri denetle">
-<!ENTITY aboutPage.checkForUpdates.checking "Looking for updates…">
-<!ENTITY aboutPage.checkForUpdates.none "No updates available">
-<!ENTITY aboutPage.checkForUpdates.found "Update available">
+<!ENTITY aboutPage.checkForUpdates.checking "Güncellemeler aranıyor...">
+<!ENTITY aboutPage.checkForUpdates.none "Hiç güncelleme yok">
+<!ENTITY aboutPage.checkForUpdates.found "Güncelleme var">
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
