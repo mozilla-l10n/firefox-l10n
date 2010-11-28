@@ -16,3 +16,5 @@
 <!ENTITY sync.syncKey "Ключ Sync">
 <!ENTITY sync.customServer "Ужываць іншы паслугач">
 <!ENTITY sync.serverURL "URL паслугача">
+<!ENTITY sync.setup.connect "Злучыцца">
+<!ENTITY sync.setup.cancel "Скасаваць">

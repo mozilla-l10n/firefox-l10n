@@ -9,5 +9,9 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "ц">
 <!ENTITY useSmoothScroll.label "Ужываць плаўнае пракручванне">
 <!ENTITY useSmoothScroll.accesskey "ж">
+<!ENTITY allowHWAccel.label "Ужываць, калі можна, паскарэнне начыння">
+<!ENTITY allowHWAccel.accesskey "с">
 <!ENTITY textZoomOnly.label "Павялічваць тэкст, а не старонкі цалкам">
 <!ENTITY textZoomOnly.accesskey "в">
+<!ENTITY blockAutoRefresh.label "Папярэджваць мяне, калі пляцоўкі сеціва спрабуюць перанакіраваць ці абнавіць старонку">
+<!ENTITY blockAutoRefresh.accesskey "П">

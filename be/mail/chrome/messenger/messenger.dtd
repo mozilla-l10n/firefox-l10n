@@ -69,14 +69,10 @@
 <!ENTITY deleteMsgCmd.accesskey "д">
 <!ENTITY undeleteMsgCmd.label "Адмяніць выдаленне ліста">
 <!ENTITY undeleteMsgCmd.accesskey "ы">
-<!ENTITY cancelNewsMsgCmd.label "Скасаваць ліст">
-<!ENTITY cancelNewsMsgCmd.accesskey "к">
 <!ENTITY deleteMsgsCmd.label "Выдаліць вылучаныя лісты">
 <!ENTITY deleteMsgsCmd.accesskey "д">
 <!ENTITY undeleteMsgsCmd.label "Адмяніць выдаленне вылучаных лістоў">
 <!ENTITY undeleteMsgsCmd.accesskey "ц">
-<!ENTITY cancelNewsMsgsCmd.label "Скасаваць вылучаныя лісты">
-<!ENTITY cancelNewsMsgsCmd.accesskey "к">
 <!ENTITY deleteFolderCmd.label "Выдаліць папку">
 <!ENTITY deleteFolderCmd.accesskey "д">
 <!ENTITY unsubscribeNewsgroupCmd.label "Адпісацца">
@@ -285,6 +281,10 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Ліст з зоркаю">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
+<!ENTITY folderMenu.label "Папка">
+<!ENTITY folderMenu.accesskey "а">
+<!ENTITY thisFolder.label "Гэтая папка">
+<!ENTITY thisFolder.accesskey "п">
 <!ENTITY startPageCmd.label "Пачатковая старонка Пошты">
 <!ENTITY startPageCmd.accesskey "П">
 <!ENTITY msgMenu.label "Ліст">
@@ -296,6 +296,8 @@
 <!ENTITY archiveMsgCmd.label "У архіў">
 <!ENTITY archiveMsgCmd.accesskey "а">
 <!ENTITY archiveMsgCmd.key "a">
+<!ENTITY cancelNewsMsgCmd.label "Скасаваць ліст">
+<!ENTITY cancelNewsMsgCmd.accesskey "к">
 <!ENTITY replyMsgCmd.label "Адказаць">
 <!ENTITY replyMsgCmd.accesskey "А">
 <!ENTITY replyMsgCmd.key "r">
