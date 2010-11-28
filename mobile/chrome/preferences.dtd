@@ -17,12 +17,4 @@
 <!ENTITY homepage.title "Başlangıç sayfası">
 <!ENTITY homepage.none "Boş Sayfa">
 <!ENTITY homepage.default "&brandShortName; Start">
-<!ENTITY homepage.currentpage "Use Current Page">
-<!ENTITY sync.title "Sync">
-<!ENTITY sync.account2 "Account Name">
-<!ENTITY sync.password "Parola">
-<!ENTITY sync.syncKey "Sync Key">
-<!ENTITY sync.deviceName "Aygıt Adı">
-<!ENTITY sync.connect "Bağlan">
-<!ENTITY sync.disconnect "Bağlantıyı Kes">
-<!ENTITY sync.syncNow "Şimdi Eşitle">
+<!ENTITY homepage.currentpage "Güncel sayfayı kullan">

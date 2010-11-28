@@ -83,8 +83,10 @@
 <!ENTITY col.dateadded.label "Ekleme tarihi">
 <!ENTITY col.lastmodified.label "Son değişiklik">
 
-<!ENTITY search.label "Ara:">
-<!ENTITY search.accesskey "A">
+<!ENTITY search.label "Search:">
+<!ENTITY search.placeholder "Yer imlerinde ara">
+
+<!ENTITY search.in.label "Aranacak yer:">
 <!ENTITY search.scopeFolder.label "Seçili dizin">
 <!ENTITY search.scopeFolder.accesskey "d">
 <!ENTITY search.scopeBookmarks.label "Yer imleri">

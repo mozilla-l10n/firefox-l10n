@@ -55,6 +55,7 @@
 <!ENTITY lookIn.accesskey "i">
 <!ENTITY for.label "amaç:">
 <!ENTITY for.accesskey "a">
+<!ENTITY for.placeholder "İsim veya E-posta">
 <!ENTITY addressMessageTo.label "İleti alıcısı:">
 <!-- Tooltips items -->  
 

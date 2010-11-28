@@ -63,3 +63,7 @@
 <!ENTITY sidebar.close.tooltip "Close Sidebar">
 <!ENTITY sidebar.open.tooltip "Open Sidebar">
 
+<!ENTITY sidebar.search.label "Ara">
+<!ENTITY sidebar.client-bookmarks.label "Yer imleri">
+<!ENTITY sidebar.client-history.label "Geçmiş">
+<!ENTITY sidebar.client-addressbook.label "Adres Defteri">

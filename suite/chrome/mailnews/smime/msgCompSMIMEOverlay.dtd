@@ -1,16 +1,10 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Güvenlik">
-<!ENTITY securityMenu.accesskey "e">
-
 <!ENTITY menu_securityEncryptRequire.label "İletiyi şifrele">
 <!ENTITY menu_securityEncryptRequire.accesskey "r">
 
-<!ENTITY menu_securityNoEncryption.label "Şifresiz ileti">
-<!ENTITY menu_securityNoEncryption.accesskey "f">
-
-<!ENTITY menu_securitySign.label "Bu iletiye sayısal imza ekle">
-<!ENTITY menu_securitySign.accesskey "u">
+<!ENTITY menu_securitySign.label "Digitally Sign This Message">
+<!ENTITY menu_securitySign.accesskey "M">
 
 <!ENTITY menu_securityStatus.label "Güvenlik bilgilerini göster">
 <!ENTITY menu_securityStatus.accesskey "G">
