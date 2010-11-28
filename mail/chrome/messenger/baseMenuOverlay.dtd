@@ -19,5 +19,5 @@
 <!ENTITY openHelpMac2.modifiers           "accel">
 
 <!ENTITY updateCmd.label                  "Kontrolli uuendusi…">
-<!ENTITY aboutMenuCmd.label               "&brandFullName;i teave">
+<!ENTITY aboutMenuCmd.label               "&brandShortName;i teave">
 <!ENTITY aboutMenuCmd.accesskey           "t">

@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label          "Hääldus">
 <!ENTITY DisplayName.label             "Kuvatav nimi:">
 <!ENTITY DisplayName.accesskey         "K">
+<!ENTITY preferDisplayName.label       "Kuvatavat nime eelistatakse kirja päistes olevale">
+<!ENTITY preferDisplayName.accesskey   "u">
 <!ENTITY NickName.label                "Hüüdnimi:">
 <!ENTITY NickName.accesskey            "H">
 
@@ -116,9 +118,9 @@ lubatakse selline väline sisu selle kontakti HTML-kirjades.">
 <!ENTITY Birthday.label                "Sünnipäev:">
 <!ENTITY Birthday.accesskey            "n">
 <!ENTITY In.label                      "">
-<!ENTITY Year.emptytext                "Aasta">
+<!ENTITY Year.placeholder              "Aasta">
 <!ENTITY Or.value                      "või">
-<!ENTITY Age.emptytext                 "Vanus">
+<!ENTITY Age.placeholder               "Vanus">
 <!ENTITY YearsOld.label                "">
 
 <!ENTITY Work.tab                      "Töö">
@@ -169,6 +171,6 @@ lubatakse selline väline sisu selle kontakti HTML-kirjades.">
 <!ENTITY BrowsePhoto.accesskey         "h">
 <!ENTITY PhotoURL.label                "Veebist">
 <!ENTITY PhotoURL.accesskey            "b">
-<!ENTITY PhotoURL.emptytext            "Kopeeri või sisesta pildi asukoht veebis">
+<!ENTITY PhotoURL.placeholder          "Kopeeri või sisesta pildi asukoht veebis">
 <!ENTITY UpdatePhoto.label             "Uuenda">
 <!ENTITY UpdatePhoto.accesskey         "u">

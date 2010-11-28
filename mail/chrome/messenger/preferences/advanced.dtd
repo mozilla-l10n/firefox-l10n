@@ -45,7 +45,7 @@
 <!ENTITY reuseExpRadio0.accesskey         "a">
 <!ENTITY reuseExpRadio1.label             "samas aknas">
 <!ENTITY reuseExpRadio1.accesskey         "s">
-<!ENTITY closeMsgWindowOnDelete.label     "Kustutamisel kirja aken suletakse">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label "Kustutamisel või liigutamisel kirja aken suletakse">
 <!ENTITY closeMsgWindowOnDelete.accesskey "K">
 
 <!-- Update -->

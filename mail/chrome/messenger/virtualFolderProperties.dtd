@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label            "Otsimine võrgust (annab värsked tulemused IMAP-tüüpi postkastidest ja uudiste kaustadest, kuid pikendab kausta avamise aega)">
 <!ENTITY searchOnline.accesskey        "O">
+<!ENTITY newFolderButton.label         "Loo">
+<!ENTITY newFolderButton.accesskey     "L">
+<!ENTITY editFolderButton.label        "Uuenda">
+<!ENTITY editFolderButton.accesskey    "U">
