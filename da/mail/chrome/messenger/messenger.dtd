@@ -79,8 +79,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "S">
 <!ENTITY undeleteMsgsCmd.label "Fortryd sletning af valgte meddelelser">
 <!ENTITY undeleteMsgsCmd.accesskey "F">
-<!ENTITY cancelNewsMsgsCmd.label "Annuller valgte meddelelser">
-<!ENTITY cancelNewsMsgsCmd.accesskey "A">
 <!ENTITY deleteFolderCmd.label "Slet mappe">
 <!ENTITY deleteFolderCmd.accesskey "S">
 <!ENTITY unsubscribeNewsgroupCmd.label "Fjern abonnement">
@@ -312,6 +310,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.accesskey "b">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Stjernemarkerede meddelelse">
+<!ENTITY folderMenu.label "Mappe">
+<!ENTITY folderMenu.accesskey "M">
+<!ENTITY thisFolder.label "Denne mappe">
+<!ENTITY thisFolder.accesskey "D">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY startPageCmd.label "Startsiden">
 <!ENTITY startPageCmd.accesskey "S">
