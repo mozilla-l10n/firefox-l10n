@@ -73,14 +73,10 @@
 <!ENTITY deleteMsgCmd.accesskey                        "I">
 <!ENTITY undeleteMsgCmd.label                          "Taasta kiri">
 <!ENTITY undeleteMsgCmd.accesskey                      "T">
-<!ENTITY cancelNewsMsgCmd.label                        "Tühista kiri">
-<!ENTITY cancelNewsMsgCmd.accesskey                    "h">
 <!ENTITY deleteMsgsCmd.label                           "Kustuta valitud kirjad">
 <!ENTITY deleteMsgsCmd.accesskey                       "d">
 <!ENTITY undeleteMsgsCmd.label                         "Taasta valitud kirjad">
 <!ENTITY undeleteMsgsCmd.accesskey                     "a">
-<!ENTITY cancelNewsMsgsCmd.label                       "Tühista valitud kirjad">
-<!ENTITY cancelNewsMsgsCmd.accesskey                   "h">
 <!ENTITY deleteFolderCmd.label                         "Kustuta kaust">
 <!ENTITY deleteFolderCmd.accesskey                     "K">
 <!ENTITY unsubscribeNewsgroupCmd.label                 "Tühista tellimus">
@@ -314,6 +310,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey                          "[">
 <!ENTITY prevStarredMsgCmd.label                       "Tähistatud kiri">
 <!ENTITY prevStarredMsgCmd.accesskey                   "T">
+<!ENTITY folderMenu.label                              "Kaust">
+<!ENTITY folderMenu.accesskey                          "a">
+<!ENTITY thisFolder.label                              "See kaust">
+<!ENTITY thisFolder.accesskey                          "S">
 <!ENTITY startPageCmd.label                            "Avaleht">
 <!ENTITY startPageCmd.accesskey                        "A">
 
@@ -327,6 +327,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label                           "Arhiveeri">
 <!ENTITY archiveMsgCmd.accesskey                       "A">
 <!ENTITY archiveMsgCmd.key                             "a">
+<!ENTITY cancelNewsMsgCmd.label                        "Tühista kiri">
+<!ENTITY cancelNewsMsgCmd.accesskey                    "T">
 <!ENTITY replyMsgCmd.label                             "Vasta">
 <!ENTITY replyMsgCmd.accesskey                         "V">
 <!ENTITY replyMsgCmd.key                               "r">
@@ -578,7 +580,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey                   "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText                      "Otsi kirju…">
+<!ENTITY glodaSearchBar.placeholder                    "Otsi kirju…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label                       "Teema">

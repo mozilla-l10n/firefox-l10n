@@ -105,6 +105,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey             "k">
 <!ENTITY detachAttachmentCmd.label                 "Eemalda...">
 <!ENTITY deleteAttachmentCmd.label                 "Kustuta">
+<!ENTITY openAllAttachmentsCmd.label               "Ava kõik…">
+<!ENTITY openAllAttachmentsCmd.accesskey           "v">
 <!ENTITY saveAllAttachmentsCmd.label               "Salvesta kõik...">
 <!ENTITY saveAllAttachmentsCmd.accesskey           "l">
 <!ENTITY detachAllAttachmentsCmd.label             "Eemalda kõik...">

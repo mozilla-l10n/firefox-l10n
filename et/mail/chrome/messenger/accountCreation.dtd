@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title           "E-posti konto seadistamine">
 <!ENTITY name.label                       "Sinu nimi:">
 <!ENTITY name.accesskey                   "n">
-<!ENTITY name.emptytext                   "Eesnimi Perenimi">
+<!ENTITY name.placeholder                 "Eesnimi Perenimi">
 <!ENTITY name.text                        "Nimi, mida kuvatakse teistele">
 <!ENTITY email.label                      "E-posti aadress:">
 <!ENTITY email.accesskey                  "p">
-<!ENTITY email.emptytext                  "ants.karu@eesti.ee">
+<!ENTITY email.placeholder                "ants.karu@eesti.ee">
 <!ENTITY password.label                   "Parool:">
 <!ENTITY password.accesskey               "r">
-<!ENTITY password.emptytext               "Parool">
+<!ENTITY password.placeholder             "Parool">
 <!ENTITY password.text                    "Valikuline, kasutatakse ainult kasutajanime valideerimiseks">
 
 <!ENTITY accountInformation.label         "Konto andmed">
