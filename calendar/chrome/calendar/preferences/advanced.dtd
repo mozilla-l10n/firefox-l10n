@@ -54,7 +54,7 @@
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "Ü">
 <!ENTITY pref.calendar.advanced.proxiesInfo.label         "Määra, kuidas &brandShortName; internetti ühendub">
 <!ENTITY pref.calendar.advanced.configEdit.caption "Täpsem häälestus">
-<!ENTITY pref.calendar.advanced.configEdit.button "Konfiguratsiooni readktor…">
+<!ENTITY pref.calendar.advanced.configEdit.button "Konfiguratsiooni redaktor…">
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "K">
 
 <!-- Passwords -->
