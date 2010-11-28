@@ -109,4 +109,6 @@
 <!ENTITY pageactions.findInPage    "Otsi lehelt">
 <!ENTITY pageactions.search.addNew "Lisa otsingumootor">
 
+<!ENTITY selectHelper.emptytext    "Filtreeri nimekirja">
+
 <!ENTITY appMenu.siteOptions       "Saidi sätted">

@@ -9,7 +9,7 @@
 <!ENTITY sync.syncNow               "Süngi kohe">
 
 <!ENTITY sync.setup.title           "Ühendumine Synciga">
-<!ENTITY sync.setup.jpake           "Synciga ühendatud Firefoxiga arvutis ava Synci sätted ning vali &#x0022;Lisa seade&#x0022;">
+<!ENTITY sync.setup.jpake           "Ava Synciga ühendatud Firefoxiga arvutis Synci sätted ning vali &#x0022;Lisa seade&#x0022;">
 <!ENTITY sync.fallback              "Ma pole oma arvuti lähedal…">
 <!ENTITY sync.setup.manual          "Sisesta oma Synci konto info">
 <!ENTITY sync.account               "Konto nimi">
@@ -17,3 +17,5 @@
 <!ENTITY sync.syncKey               "Synci võti">
 <!ENTITY sync.customServer          "Kasutatakse kohandatud serverit">
 <!ENTITY sync.serverURL             "Serveri URL">
+<!ENTITY sync.setup.connect         "Ühenda">
+<!ENTITY sync.setup.cancel          "Loobu">
