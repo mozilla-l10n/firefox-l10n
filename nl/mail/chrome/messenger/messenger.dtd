@@ -313,6 +313,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Bericht met ster">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
+<!ENTITY folderMenu.label "Map">
+<!ENTITY folderMenu.accesskey "m">
+<!ENTITY thisFolder.label "Deze map">
+<!ENTITY thisFolder.accesskey "m">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
 <!ENTITY startPageCmd.accesskey "s">
 
