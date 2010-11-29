@@ -73,14 +73,10 @@
 <!ENTITY deleteMsgCmd.accesskey "v">
 <!ENTITY undeleteMsgCmd.label "Verwijderen bericht ongedaan maken">
 <!ENTITY undeleteMsgCmd.accesskey "V">
-<!ENTITY cancelNewsMsgCmd.label "Bericht annuleren">
-<!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY deleteMsgsCmd.label "Geselecteerde berichten verwijderen">
 <!ENTITY deleteMsgsCmd.accesskey "w">
 <!ENTITY undeleteMsgsCmd.label "Verwijderen geselecteerde berichten ongedaan maken">
 <!ENTITY undeleteMsgsCmd.accesskey "V">
-<!ENTITY cancelNewsMsgsCmd.label "Geselecteerde berichten annuleren">
-<!ENTITY cancelNewsMsgsCmd.accesskey "a">
 <!ENTITY deleteFolderCmd.label "Map verwijderen">
 <!ENTITY deleteFolderCmd.accesskey "M">
 <!ENTITY unsubscribeNewsgroupCmd.label "Abonnement opzeggen">
@@ -330,6 +326,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Archiveren">
 <!ENTITY archiveMsgCmd.accesskey "h">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Bericht annuleren">
+<!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY replyMsgCmd.label "Beantwoorden">
 <!ENTITY replyMsgCmd.accesskey "a">
 <!ENTITY replyMsgCmd.key "r">
