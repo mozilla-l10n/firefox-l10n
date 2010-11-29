@@ -75,14 +75,10 @@
 <!ENTITY deleteMsgCmd.accesskey "F">
 <!ENTITY undeleteMsgCmd.label "Çfshije Mesazhin">
 <!ENTITY undeleteMsgCmd.accesskey "Ç">
-<!ENTITY cancelNewsMsgCmd.label "Anuloje Mesazhin">
-<!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY deleteMsgsCmd.label "Fshi Mesazhet e Përzgjedhur">
 <!ENTITY deleteMsgsCmd.accesskey "s">
 <!ENTITY undeleteMsgsCmd.label "Çfshi Mesazhet e Përzgjedhur">
 <!ENTITY undeleteMsgsCmd.accesskey "i">
-<!ENTITY cancelNewsMsgsCmd.label "Anulo Mesazhet e Përzgjedhur">
-<!ENTITY cancelNewsMsgsCmd.accesskey "t">
 <!ENTITY deleteFolderCmd.label "Fshi Dosjen">
 <!ENTITY deleteFolderCmd.accesskey "j">
 <!ENTITY unsubscribeNewsgroupCmd.label "Çpajtohuni">
@@ -195,7 +191,6 @@
 <!ENTITY threads.accesskey "R">
 <!ENTITY allMsgsCmd.label "Krejt">
 <!ENTITY allMsgsCmd.accesskey "K">
-
 <!ENTITY expandAllThreadsCmd.label "Zgjeroji Tërë Rrjedhat">
 <!ENTITY expandAllThreadsCmd.accesskey "Z">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -210,6 +205,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "M">
 <!ENTITY ignoredThreadsCmd.label "Rrjedha të Shpërfillura">
 <!ENTITY ignoredThreadsCmd.accesskey "S">
+
 <!ENTITY headersMenu.label "Tituj">
 <!ENTITY headersMenu.accesskey "u">
 <!ENTITY headersAllCmd.label "Krejt">
@@ -224,6 +220,7 @@
 <!ENTITY bodySanitized.accesskey "J">
 <!ENTITY bodyAsPlaintext.label "Tekst i Thjeshtë">
 <!ENTITY bodyAsPlaintext.accesskey "e">
+
 <!ENTITY bodyMenuFeed.label "Sille Lëndën e Mesazhit Si">
 <!ENTITY bodyMenuFeed.accesskey "S">
 <!ENTITY viewFeedWebPage.label "Faqe Web">
@@ -317,14 +314,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Mesazh Me Yllkë">
 <!ENTITY prevStarredMsgCmd.accesskey "Y">
+<!ENTITY folderMenu.label "Dosje">
+<!ENTITY folderMenu.accesskey "D">
+<!ENTITY thisFolder.label "Këtë Dosje">
+<!ENTITY thisFolder.accesskey "K">
 <!ENTITY startPageCmd.label "Faqe Fillimi Poste">
 <!ENTITY startPageCmd.accesskey "F">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Mesazh">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Mesazh i Ri">
 <!ENTITY newMsgCmd.accesskey "R">
-<!ENTITY newNewMsgCmd.label "Përgjigje">
-<!ENTITY newNewMsgCmd.accesskey "P">
+<!ENTITY newNewMsgCmd.label "Mesazh">
+<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "Arkivë">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Anuloje Mesazhin">
+<!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.label "Përgjigju">
 <!ENTITY replyMsgCmd.accesskey "P">
 <!ENTITY replyMsgCmd.key  "r">
@@ -432,21 +440,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY windowMenu.label "Dritare">
 
 <!-- Tools Menu -->
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Mjete">
 <!ENTITY tasksMenu.accesskey "M">
-<!ENTITY addons.label "Shtesa">
-<!ENTITY addons.accesskey "S">
 <!ENTITY messengerCmd.label "Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY addressBookCmd.label "Libër Vendndodhjesh">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY runJunkControls.label "Zbato mbi Dosjen Kontrolle Poste të Pavlerë">
-<!ENTITY runJunkControls.accesskey "Z">
-<!ENTITY deleteJunk.label "Fshi Postë të Shënuar si të Pavlerë në Dosje">
-<!ENTITY deleteJunk.accesskey "v">
-<!ENTITY errorConsoleCmd.label "Konsol Gabimesh">
-<!ENTITY errorConsoleCmd.accesskey "K">
+<!ENTITY addons.label "Shtesa">
+<!ENTITY addons.accesskey "S">
+<!ENTITY activitymanager.label "Përgjegjës Veprimtarie">
+<!ENTITY activitymanager.accesskey "P">
+<!ENTITY savedFiles.label "Kartela të ruajtura">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Filtra Mesazhesh…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Zbatoji Filtrat mbi Dosjen">
@@ -465,6 +473,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY accountManagerCmd.label "Rregullime Llogarish…">
 <!ENTITY accountManagerCmd.accesskey "u">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "L">
 
 <!-- Mail Toolbar -->
@@ -508,7 +518,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Përgjigjuni te lista e postimeve">
 <!ENTITY forwardButton.tooltip "Përcill mesazhet e përzgjedhur">
 <!ENTITY fileButton.tooltip "Skedoje mesazhin e përzgjedhur">
-
 <!ENTITY archiveButton.tooltip "Mesazhe të përzgjedhur në arkivë">
 <!ENTITY nextButton.tooltip "Kalo te mesazhi i palexuar pasues">
 <!ENTITY previousButton.tooltip "Kalo te mesazhi i mëparshëm i palexuar">
@@ -635,6 +644,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewWindow.accesskey "D">
 <!ENTITY contextOpenNewTab.label "Hape Mesazhin në Skedë të Re">
 <!ENTITY contextOpenNewTab.accesskey "S">
+<!ENTITY contextOpenConversation.label "Hape Mesazhin në Bashkëbisedim">
+<!ENTITY contextOpenConversation.accesskey "B">
 <!ENTITY contextEditAsNew.label "Përpunojeni Si Të Ri…">
 <!ENTITY contextEditAsNew.accesskey "P">
 <!ENTITY contextArchive.label "Arkivë">
@@ -663,157 +674,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "Y">
 <!ENTITY contextPrintPreview.label "Paraparje e Shtypjes">
 <!ENTITY contextPrintPreview.accesskey "a">
-
-<!-- Media (video/audio) controls -->
-<!ENTITY contextPlay.label "Luaje">
-<!ENTITY contextPlay.accesskey "L">
-<!ENTITY contextPause.label "Pushoje">
-<!ENTITY contextPause.accesskey "P">
-<!ENTITY contextMute.label "Pa Zë">
-<!ENTITY contextMute.accesskey "a">
-<!ENTITY contextUnmute.label "Me Zë">
-<!ENTITY contextUnmute.accesskey "m">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Postë e Pavlerë">
-<!ENTITY junkBarButton1.label "Jo e Pavlerë">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Për të mbrojtur vetësinë tuaj, &brandShortName;-i bllokoi lëndë të largët në këtë mesazh.">
-<!ENTITY loadRemoteContentButton3.label "Shfaq Lëndë të Largët">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Ky mesazh mund të jetë mashtrim.">
-<!ENTITY removePhishingBarButton1.label "Shpërfille Sinjalizimin">
-<!ENTITY reportPhishingError1.label "Ky mesazh nuk duket të jetë mashtrim.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Dërguesi i këtij mesazhi ka kërkuar që të njoftohet kur e lexoni këtë mesazh. Dëshironi të njoftohet dërguesi?">
-<!ENTITY mdnBarIgnoreButton.label "Shpërfille Kërkesën">
-<!ENTITY mdnBarSendButton.label "Dërgoji Faturë">
-
-<!-- Quick Search Bar -->
-<!ENTITY quickSearchCmd.key "k">
-
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
-     This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
-     The goal is to convey to the user that typing in the box will allow them
-     to search for messages globally and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
-     box will be collapsed and the user will never see this message.
-     -->
-<!ENTITY searchAllMessages.label.base "Kërko në tërë mesazhet… #1">
-
-<!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Shto te Libër Vendndodhjesh…">
-<!ENTITY AddToAddressBook.accesskey "S">
-<!ENTITY AddDirectlyToAddressBook.label "Shto te Libër Vendndodhjesh">
-<!ENTITY AddDirectlyToAddressBook.accesskey "S">
-<!ENTITY EditContact.label "Përpunoni Kontakt…">
-<!ENTITY EditContact.accesskey "P">
-<!ENTITY ViewContact.label "Shiheni Kontaktin">
-<!ENTITY ViewContact.accesskey "i">
-<!ENTITY SubscribeToNewsgroup.label "Pajtohuni te Grupi i Lajmeve">
-<!ENTITY SubscribeToNewsgroup.accesskey "P">
-<!ENTITY SendMessageTo.label "Hartoni Mesazh Për">
-<!ENTITY SendMessageTo.accesskey "H">
-<!ENTITY CopyEmailAddress.label "Kopjo Vendndodhje Email">
-<!ENTITY CopyEmailAddress.accesskey "K">
-<!ENTITY CopyNewsgroupName.label "Kopjo Emrin e Grupit të Lajmeve">
-<!ENTITY CopyNewsgroupName.accesskey "K">
-<!ENTITY CopyNewsgroupURL.label "Kopjo URL Grupi Lajmesh">
-<!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Krijoni Filtër Prej…">
-<!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY reportPhishingURL.label "Njoftoni për Email Mashtrues">
-<!ENTITY reportPhishingURL.accesskey "N">
-
-<!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Ruaje Lidhjen Si…">
-<!ENTITY saveLinkAsCmd.accesskey "L">
-<!ENTITY saveImageAsCmd.label "Ruaje Figurën Si…">
-<!ENTITY saveImageAsCmd.accesskey "R">
-<!ENTITY cutCmd.label "Prije">
-<!ENTITY cutCmd.accesskey "P">
-<!ENTITY copyCmd.label "Kopjoje">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Ngjite">
-<!ENTITY pasteCmd.accesskey "N">
-<!ENTITY selectAllCmd.label "Përzgjidhe të Tërën">
-<!ENTITY selectAllCmd.accesskey "P">
-<!ENTITY copyLinkCmd.label "Kopjo Vend Lidhjeje">
-<!ENTITY copyLinkCmd.accesskey "V">
-<!ENTITY copyEmailCmd.label "Kopjo Vendndodhje Email">
-<!ENTITY copyEmailCmd.accesskey "E">
-<!ENTITY stopCmd.label "Ndale">
-<!ENTITY stopCmd.accesskey "D">
-<!ENTITY reloadCmd.label "Ringarkoje">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY openInBrowser.label "Hape Në Shfletues">
-<!ENTITY openLinkInBrowser.label "Hape Lidhjen Në Shfletues">
-<!ENTITY openInBrowser.accesskey "H">
-<!ENTITY openLinkInBrowser.accesskey "H">
-
-<!-- Statusbar -->
-<!ENTITY statusText.label "U bë">
-
-<!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.label "Minimizoje">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Bjeri të Tërë në Ballë">
-<!ENTITY zoomWindow.label "Zoom">
-
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Parapëlqime…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
-<!ENTITY servicesMenuMac.label          "Shërbime">
-<!ENTITY hideThisAppCmdMac.label        "Fshihe &brandShortName;-in">
-<!ENTITY hideThisAppCmdMac.commandkey   "F">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Fshihi të Tjerat">
-<!ENTITY hideOtherAppsCmdMac.commandkey "F">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Shfaqi të Tëra">
-
-<!ENTITY folderContextSubscribe.label "Pajtohuni…">
-<!ENTITY folderContextSubscribe.accesskey "p">
-
-<!ENTITY archiveMsgCmd.label "Arkivë">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key  "a">
-
-
-<!ENTITY activitymanager.label "Përgjegjës Veprimtarie">
-<!ENTITY activitymanager.accesskey "P">
-
-<!ENTITY glodaSearch.title "Kërkim Global">
-
-<!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "Kërkoni në mesazhet…">
-
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
-     The description of the key-binding to get into the global search box on
-     windows and linux (which use the control key).  We use the key defined in
-     the quickSearchCmd.key entity defined above, the letter should match it.
-     -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
-     The description of the key-binding to get into the global search box on mac
-     systems.  We use the key defined in the quickSearchCmd.key entity defined
-     above, the letter should match it.
-     -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
-
-<!ENTITY savedFiles.label "Kartela të ruajtura">
-<!ENTITY savedFiles.accesskey "l">
-<!ENTITY savedFiles.key "j">
-
-<!ENTITY copyImageAllCmd.label "Kopjo Pamjen">
-<!ENTITY copyImageAllCmd.accesskey "j">
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
@@ -861,5 +721,135 @@ you can use these alternative items. Otherwise, their values should be empty.  -
   -->
 <!ENTITY columnPicker.thisFolder.label "Këtë dosje">
 
-<!ENTITY contextOpenConversation.label "Hape Mesazhin në Bashkëbisedim">
-<!ENTITY contextOpenConversation.accesskey "H">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Luaje">
+<!ENTITY contextPlay.accesskey "L">
+<!ENTITY contextPause.label "Pushoje">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Pa Zë">
+<!ENTITY contextMute.accesskey "a">
+<!ENTITY contextUnmute.label "Me Zë">
+<!ENTITY contextUnmute.accesskey "m">
+
+<!-- Junk Bar -->
+<!ENTITY junkBarMessage1.label "Postë e Pavlerë">
+<!ENTITY junkBarButton1.label "Jo e Pavlerë">
+<!ENTITY junkInfoButton.label "?">
+
+<!-- Remote Content Bar -->
+<!ENTITY remoteContentMessage2.label "Për të mbrojtur vetësinë tuaj, &brandShortName;-i bllokoi lëndë të largët në këtë mesazh.">
+<!ENTITY loadRemoteContentButton3.label "Shfaq Lëndë të Largët">
+
+<!-- Phishing Bar -->
+<!ENTITY phishingBarMessage2.label "Ky mesazh mund të jetë mashtrim.">
+<!ENTITY removePhishingBarButton1.label "Shpërfille Sinjalizimin">
+<!ENTITY reportPhishingError1.label "Ky mesazh nuk duket të jetë mashtrim.">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Dërguesi i këtij mesazhi ka kërkuar që të njoftohet kur e lexoni këtë mesazh. Dëshironi të njoftohet dërguesi?">
+<!ENTITY mdnBarIgnoreButton.label "Shpërfille Kërkesën">
+<!ENTITY mdnBarSendButton.label "Dërgoji Faturë">
+
+<!-- Quick Search Bar -->
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed 
+     -->
+<!ENTITY quickSearchCmd.key "k">
+<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+     This is the base of the empty text for the global search box.  We replace
+     #1 with the contents of the appropriate
+     searchAllMessages.keyLabel2.* value for the platform.
+     The goal is to convey to the user that typing in the box will allow them
+     to search for messages globally and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllMessages.label.base "Kërko në tërë mesazhet… #1">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+     The description of the key-binding to get into the global search box on
+     windows and linux (which use the control key).  We use the key defined in
+     the quickSearchCmd.key entity defined above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+     The description of the key-binding to get into the global search box on mac
+     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+
+<!-- Message Header Context Menu -->
+<!ENTITY AddToAddressBook.label "Shto te Libër Vendndodhjesh…">
+<!ENTITY AddToAddressBook.accesskey "S">
+<!ENTITY AddDirectlyToAddressBook.label "Shto te Libër Vendndodhjesh">
+<!ENTITY AddDirectlyToAddressBook.accesskey "S">
+<!ENTITY EditContact.label "Përpunoni Kontakt…">
+<!ENTITY EditContact.accesskey "P">
+<!ENTITY ViewContact.label "Shiheni Kontaktin">
+<!ENTITY ViewContact.accesskey "i">
+<!ENTITY SubscribeToNewsgroup.label "Pajtohuni te Grupi i Lajmeve">
+<!ENTITY SubscribeToNewsgroup.accesskey "P">
+<!ENTITY SendMessageTo.label "Hartoni Mesazh Për">
+<!ENTITY SendMessageTo.accesskey "H">
+<!ENTITY CopyEmailAddress.label "Kopjo Vendndodhje Email">
+<!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CopyNewsgroupName.label "Kopjo Emrin e Grupit të Lajmeve">
+<!ENTITY CopyNewsgroupName.accesskey "K">
+<!ENTITY CopyNewsgroupURL.label "Kopjo URL Grupi Lajmesh">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
+<!ENTITY CreateFilterFrom.label "Krijoni Filtër Prej…">
+<!ENTITY CreateFilterFrom.accesskey "F">
+<!ENTITY reportPhishingURL.label "Njoftoni për Email Mashtrues">
+<!ENTITY reportPhishingURL.accesskey "N">
+
+<!-- Content Pane Context Menu -->
+<!ENTITY saveLinkAsCmd.label "Ruaje Lidhjen Si…">
+<!ENTITY saveLinkAsCmd.accesskey "L">
+<!ENTITY saveImageAsCmd.label "Ruaje Figurën Si…">
+<!ENTITY saveImageAsCmd.accesskey "R">
+<!ENTITY cutCmd.label "Prije">
+<!ENTITY cutCmd.accesskey "P">
+<!ENTITY copyCmd.label "Kopjoje">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Ngjite">
+<!ENTITY pasteCmd.accesskey "N">
+<!ENTITY selectAllCmd.label "Përzgjidhe të Tërën">
+<!ENTITY selectAllCmd.accesskey "P">
+<!ENTITY copyLinkCmd.label "Kopjo Vend Lidhjeje">
+<!ENTITY copyLinkCmd.accesskey "V">
+<!ENTITY copyImageAllCmd.label "Kopjo Pamjen">
+<!ENTITY copyImageAllCmd.accesskey "j">
+<!ENTITY copyEmailCmd.label "Kopjo Vendndodhje Email">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "Ndale">
+<!ENTITY stopCmd.accesskey "D">
+<!ENTITY reloadCmd.label "Ringarkoje">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY openInBrowser.label "Hape Në Shfletues">
+<!ENTITY openLinkInBrowser.label "Hape Lidhjen Në Shfletues">
+<!ENTITY openInBrowser.accesskey "H">
+<!ENTITY openLinkInBrowser.accesskey "H">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label "U bë">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.label "Minimizoje">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Bjeri të Tërë në Ballë">
+<!ENTITY zoomWindow.label "Zoom">
+
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac.label        "Parapëlqime…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Shërbime">
+<!ENTITY hideThisAppCmdMac.label        "Fshihe &brandShortName;-in">
+<!ENTITY hideThisAppCmdMac.commandkey   "F">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Fshihi të Tjerat">
+<!ENTITY hideOtherAppsCmdMac.commandkey "F">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Shfaqi të Tëra">
