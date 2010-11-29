@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "잘라내기">
 <!ENTITY copy.label            "복사">
+<!ENTITY copyAll.label         "모두 복사">
 <!ENTITY copylink.label        "링크 주소 복사">
 <!ENTITY paste.label           "붙여넣기">
 <!ENTITY delete.label          "삭제">
 <!ENTITY selectAll.label       "모두 선택">
-<!ENTITY noSuggestions.label   "(No suggestions)">
+<!ENTITY noSuggestions.label   "(추천 없음)">
 <!ENTITY addToDictionary.label "사전 추가">
+<!ENTITY inputMethod.label     "입력 방법 선택">
 
 <!ENTITY allPagesHeader.label      "모든 페이지">
 <!ENTITY bookmarksHeader.label     "북마크">
@@ -108,3 +110,5 @@
 <!ENTITY pageactions.search.addNew   "검색 엔진 추가">
 
 <!ENTITY selectHelper.emptytext      "필터 목록">
+
+<!ENTITY appMenu.siteOptions         "사이트 설정">
