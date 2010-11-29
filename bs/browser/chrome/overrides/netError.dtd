@@ -59,7 +59,7 @@
 -->
 <!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+  <li>Uklonite oznaku sa &quot;Radi Offline&quot; meni stavke, a zatim pokušajte ponovo.</li>
 </ul>
 ">
 
@@ -163,8 +163,8 @@
 <p>Ovi tipovi web krađa se koriste u prevarama poznatim kao phishing napadi, kod kojih se lažne web stranice i emailovi koriste da oponašaju izvore kojima vjerujete.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokirano od police za sigurnost sadržaja">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je spriječio stranicu da se učita na ovaj način pošto stranica sadrži policu za sigurnost sadržaja koja to zabranjuje.</p>">
 
 <!ENTITY securityOverride.linkText "Ili možete dodati izuzetak…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Vodi me odavde!">
@@ -176,8 +176,8 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>Ne biste trebali dodati izuzetak ukoliko koristite internet konekciju kojoj ne vjerujete u potpunosti ili ako niste navikli da vidite upozorenje za ovaj server.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+ ">

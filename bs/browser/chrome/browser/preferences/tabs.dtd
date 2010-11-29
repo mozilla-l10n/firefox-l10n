@@ -13,5 +13,5 @@
 <!ENTITY switchToNewTabs.label        "Kada otvorim link u novom tabu, odmah se prebaci na njega">
 <!ENTITY switchToNewTabs.accesskey    "s">
 
-<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.label          "Prikazuj pregled tabova u Windows taskbaru">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

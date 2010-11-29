@@ -1,40 +1,40 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "Informacije za rješavanje problema">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
+  Ova stranica sadrži tehničke informacije koje vam mogu biti korisne kada
+  pokušavate riješiti problem. Ukoliko tražite odgovore na često postavljena
+  pitanja o &brandShortName;u, posjetite našu <a id='supportLink'>web stranicu za podršku</a>.
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionsTitle "Ekstenzije">
+<!ENTITY aboutSupport.extensionName "Naziv">
+<!ENTITY aboutSupport.extensionEnabled "Omogućen">
+<!ENTITY aboutSupport.extensionVersion "Verzija">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsTitle "Osnove aplikacije">
+<!ENTITY aboutSupport.appBasicsName "Naziv">
+<!ENTITY aboutSupport.appBasicsVersion "Verzija">
+<!ENTITY aboutSupport.appBasicsProfileDir "Direktorij profila">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Omogućeni plugini">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracija verzije">
+<!ENTITY aboutSupport.appBasicsUserAgent "Korisnički agent">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "Otvori sadržajni direktorij">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "Prikaži u Finderu">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Promijenjene postavke">
+<!ENTITY aboutSupport.modifiedPrefsName "Naziv">
+<!ENTITY aboutSupport.modifiedPrefsValue "Vrijednost">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Grafika">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.installationHistoryTitle "Historija instalacije">
+<!ENTITY aboutSupport.updateHistoryTitle "Historijat updatea">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "Kopiraj sve na clipboard">

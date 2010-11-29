@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organiziraj">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.tooltip      "Organizujte vaše zabilješke">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Zatvori">
@@ -14,7 +14,7 @@
 <!ENTITY edit.accesskey                 "e">
 <!ENTITY views.label                    "Pogledi">
 <!ENTITY views.accesskey                "P">
-<!ENTITY views.tooltip                  "Change your view">
+<!ENTITY views.tooltip                  "Promijenite vaš prikaz">
 <!ENTITY view.columns.label             "Prikaži kolone">
 <!ENTITY view.columns.accesskey         "P">
 <!ENTITY view.sort.label                "Sortiraj">
@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Traži:">
 <!ENTITY search.accesskey                          "T">
+
+<!ENTITY search.in.label                           "Search in:">
 <!ENTITY search.scopeFolder.label                  "Izabrani direktorij">
 <!ENTITY search.scopeFolder.accesskey              "I">
 <!ENTITY search.scopeBookmarks.label               "Zabilješke">
@@ -109,7 +111,7 @@
 
 <!ENTITY maintenance.label      "Uvoz i backup">
 <!ENTITY maintenance.accesskey  "i">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip    "Uvoz i backup vaših zabilješki">
 
 <!ENTITY backCmd.label       "Nazad">
 <!ENTITY backButton.tooltip  "Idi nazad">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "Pregled">
 <!ENTITY detailsPane.selectAnItemText.description "Odaberite stavku za pregled i podešavanje">
+
+<!ENTITY find.label               "Search:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "View">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "By Date">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "By Site">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "By Most Visited">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "By Last Visited">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "By Date and Site">
+<!ENTITY byDayAndSite.accesskey   "t">

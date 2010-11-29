@@ -1,15 +1,16 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "URL zahtjeva">
+<!ENTITY networkPanel.requestMethod               "Metod zahtjeva">
+<!ENTITY networkPanel.statusCode                  "Kod statusa">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Zaglavlje zahtjeva">
+<!ENTITY networkPanel.requestCookie               "Poslani cookie">
+<!ENTITY networkPanel.requestBody                 "Tijelo zahtjeva">
+<!ENTITY networkPanel.requestFormData             "Poslati podaci formulara">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "Zaglavlja odgovora">
+<!ENTITY networkPanel.responseBody                "Tijelo odgovora">
+<!ENTITY networkPanel.responseBodyCached          "Keširani podaci">
+<!ENTITY networkPanel.responseBodyUnknownType     "Nepoznat tip sadržaja">
+<!ENTITY networkPanel.responseNoBody              "Nema tijela odgovora">
+<!ENTITY networkPanel.responseImage               "Primljena slika">
+<!ENTITY networkPanel.responseImageCached         "Keširana slika">

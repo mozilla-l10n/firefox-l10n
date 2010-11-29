@@ -82,7 +82,7 @@
 
 <!ENTITY  feedTab               "Feedovi">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Prati">
+<!ENTITY  feedSubscribe         "Preplati se">
 <!ENTITY  feedSubscribe.accesskey "P">
 
 <!ENTITY  permTab               "Dozvole">
@@ -99,9 +99,9 @@
 <!ENTITY  permInstall           "Instaliraj ekstenzije ili teme">
 <!ENTITY  permGeo               "Podijeli lokaciju">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
-<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permIndexedDB              "Održavanje offline spremišta">
+<!ENTITY  permClearStorage           "Očisti spremište">
+<!ENTITY  permClearStorage.accesskey "O">
 
 <!ENTITY  securityTab           "Sigurnost">
 <!ENTITY  securityTab.accesskey "S">

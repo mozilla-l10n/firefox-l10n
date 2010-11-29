@@ -9,5 +9,5 @@
 <!ENTITY blocklist.accept.label      "Ponovo pokreni &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "r">
 
-<!ENTITY blocklist.blocked.label     "Blocked">
-<!ENTITY blocklist.checkbox.label    "Disable">
+<!ENTITY blocklist.blocked.label     "Blokirano">
+<!ENTITY blocklist.checkbox.label    "Onemogući">

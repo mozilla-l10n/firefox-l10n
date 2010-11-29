@@ -1,6 +1,6 @@
 <!ENTITY position.label             "Pozicija:">
 <!ENTITY tile.label                 "Jedan pored drugog">
-<!ENTITY center.label               "Centrirano">
+<!ENTITY center.label               "Sredina">
 <!ENTITY stretch.label              "Razvučeno">
 <!ENTITY preview.label              "Pregled">
 <!ENTITY color.label                "Boja:">

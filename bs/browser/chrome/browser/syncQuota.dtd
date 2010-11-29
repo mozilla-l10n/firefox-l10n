@@ -1,4 +1,4 @@
-<!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
-<!ENTITY quota.typeColumn.label     "Type">
-<!ENTITY quota.sizeColumn.label     "Size">
+<!ENTITY quota.dialogTitle.label    "Ograničenje servera">
+<!ENTITY quota.retrievingInfo.label "Dobavljam informacije o ograničenju…">
+<!ENTITY quota.typeColumn.label     "Tip">
+<!ENTITY quota.sizeColumn.label     "Veličina">

@@ -1,4 +1,4 @@
-<!ENTITY startDescriptionText.label        "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
+<!ENTITY startDescriptionText.label        "Web stranica je pokušala otvoriti pop-up prozor bez vaše dozvole. &brandShortName; je automatski zatvorio pop-up prozor.">
 
 <!ENTITY endDescription.label              "Možete kliknuti na ovu ikonu da vidite koje stranice je &brandShortName; blokirao i da omogućite ovim stranicama da otvore pop-up prozore, ukoliko su neophodni za ispravan rad stranice.">
 

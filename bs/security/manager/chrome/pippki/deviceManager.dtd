@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title                           "Upravitelj uređaja">
+<!ENTITY devmgr.title                           "Upravnik uređaja">
 
 <!ENTITY devmgr.devlist.label                   "Sigurnosni moduli i uređaji">
 <!ENTITY devmgr.details.title                   "Detalji">

@@ -1,43 +1,43 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label          "Podesi &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "s">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; omogućava vam pristup vašoj historiji, zabilješkama, lozinkama i otvorenim tabovima na vašim uređajima.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentAccount.label         "Current Account:">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; račun">
+<!ENTITY currentAccount.label         "Trenutni račun:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "Ažuriraj">
+<!ENTITY resetPass.label              "Resetuj">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!ENTITY manageAccount.label          "Upravljanje računom">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY viewQuota.label              "Prikaži ograničenje">
+<!ENTITY changePassword.label         "Promijeni lozinku">
+<!ENTITY mySyncKey.label              "Moj Sync ključ">
+<!ENTITY resetSync.label              "Resetuj Sync">
+<!ENTITY stopUsingAccount.label       "Prestani koristiti ovaj račun">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY syncPrefsCaption.label       "Sinhronizacija browsera">
+<!ENTITY syncComputerName.label       "Naziv računara:">
+<!ENTITY syncComputerName.accesskey   "N">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY syncMy.label               "Sinhronizuj moje">
+<!ENTITY engine.bookmarks.label     "Zabilješke">
+<!ENTITY engine.bookmarks.accesskey "Z">
+<!ENTITY engine.tabs.label          "Tabove">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "Historiju">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.passwords.label     "Lozinke">
+<!ENTITY engine.passwords.accesskey "L">
+<!ENTITY engine.prefs.label         "Postavke">
 <!ENTITY engine.prefs.accesskey     "s">
 
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "Uslovi korištenja">
+<!ENTITY prefs.ppLink.label         "Polica privatnosti">

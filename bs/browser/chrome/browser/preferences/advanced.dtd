@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Koristi glatko pomjeranje">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.label              "Koristi hardversko ubrzanje kada je dostupno">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Provjeravaj pravopis dok kucam">
 <!ENTITY checkSpelling.accesskey         "P">
@@ -46,19 +46,19 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY limitCacheSizeBefore.label      "Ograniči cache na">
+<!ENTITY limitCacheSizeBefore.accesskey  "O">
+<!ENTITY limitCacheSizeAfter.label       "MB prostora">
 <!ENTITY clearCacheNow.label             "Odmah očisti">
 <!ENTITY clearCacheNow.accesskey         "O">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.label    "Preskoči automatsko upravljanje cacheom">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label                 "Update">
 
 <!ENTITY autoCheck.label                 "Automatski provjeravaj postoji li update za:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAppUpdate.accesskey       "b">
 <!ENTITY enableAddonsUpdate2.label       "Add-one">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Pretraživače">

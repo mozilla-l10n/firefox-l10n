@@ -63,10 +63,10 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Korisnički…">
-<!ENTITY ShrinkToFit.label    "Stisni da stane">
+<!ENTITY ShrinkToFit.label    "Smanji da stane">
 <!ENTITY customPrompt.title   "Korisnička skala…">
 
 <!ENTITY homearrow.tooltip    "Prva strana">
 <!ENTITY endarrow.tooltip     "Zadnja strana">
-<!ENTITY nextarrow.tooltip    "Next page">
-<!ENTITY previousarrow.tooltip "Previous page">
+<!ENTITY nextarrow.tooltip    "Sljedeća strana">
+<!ENTITY previousarrow.tooltip "Prethodna strana">

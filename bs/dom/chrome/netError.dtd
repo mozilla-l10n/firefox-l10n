@@ -26,7 +26,7 @@
 
 <!ENTITY netOffline.title "Offline režim">
 <!ENTITY netOffline.longDesc "<p>Browser radi u offline režimu i ne može se povezati na traženo mjesto.</p><ul><li>Da li je računar povezan na aktivnu mrežu?</li><li>Prebacite browser u online režim i pokušajte ponovo.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Browser radi u offline režimu i ne može se povezati na traženo mjesto.</p><ul><li>Da li je računar povezan na aktivnu mrežu?</li><li>Prebacite browser u online režim i pokušajte ponovo.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Greška u enkodiranju sadržaja">
 <!ENTITY contentEncodingError.longDesc "<p>Stranica koju pokušavate pogledati ne može biti prikazana jer koristi neispravnu ili nepodržanu formu kompresije.</p><ul><li>Molimo da kontaktirate vlasnike stranica te ih informišete o ovom problemu.</li></ul>">
@@ -81,8 +81,8 @@
 <p>Ovi tipovi web krađa se koriste u prevarama poznatim kao phishing napadi, kod kojih se lažne web stranice i emailovi koriste da oponašaju izvore kojima vjerujete.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokirano od police za sigurnost sadržaja">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Browser je spriječio stranicu da se učita na ovaj način pošto stranica sadrži policu za sigurnost sadržaja koja to zabranjuje.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

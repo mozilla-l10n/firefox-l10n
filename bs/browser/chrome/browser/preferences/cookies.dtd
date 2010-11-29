@@ -3,7 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "Sljedeći kolačići su smješteni na vašem računaru:">
 <!ENTITY     cookiename.label               "Ime kolačića">
 <!ENTITY     cookiedomain.label             "Stranica"> 
-<!ENTITY     button.removecookies.label     "Remove Cookies">
+<!ENTITY     button.removecookies.label     "Ukloni kolačiće">
 <!ENTITY     button.removecookie.label      "Ukloni kolačić">
 <!ENTITY     button.removecookie.accesskey  "U">
 <!ENTITY     button.removeallcookies.label  "Ukloni sve kolačiće">

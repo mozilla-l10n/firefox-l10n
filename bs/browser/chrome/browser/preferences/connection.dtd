@@ -14,8 +14,8 @@
 <!ENTITY  manualTypeRadio.accesskey     "R">
 <!ENTITY  autoTypeRadio.label           "URL za automatsko konfigurisanje proxyja:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  reload.label                  "Osvježi">
-<!ENTITY  reload.accesskey              "e">
+<!ENTITY  reload.label                  "Obnovi">
+<!ENTITY  reload.accesskey              "O">
 <!ENTITY  ftp.label                     "FTP Proxy:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP Proxy:">

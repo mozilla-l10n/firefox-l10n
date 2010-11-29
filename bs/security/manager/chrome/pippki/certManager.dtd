@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY certmgr.title                       "Upravitelj certifikata">
+<!ENTITY certmgr.title                       "Upravnik certifikatima">
 
 <!ENTITY certmgr.tab.mine                     "Vaši certifikati">
 <!ENTITY certmgr.tab.others2                  "Ljudi">
@@ -105,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "Z">
 <!ENTITY certmgr.view2.label                  "Pogledaj…">
 <!ENTITY certmgr.view2.accesskey              "P">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "Uredi povjerenje…">
+<!ENTITY certmgr.edit3.accesskey              "e">
 <!ENTITY certmgr.editca.label                 "Uređivanje pouzdanosti CA">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Dodaj">
@@ -115,8 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "I">
 <!ENTITY certmgr.delete2.label                "Obriši…">
 <!ENTITY certmgr.delete2.accesskey            "O">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.delete_builtin.label         "Obriši ili ukloni povjerenje…">
+<!ENTITY certmgr.delete_builtin.accesskey     "O">
 <!ENTITY certmgr.backup2.label                "Sigurnosna kopija…">
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Sigurnosna kopija svega…">
@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "D">
 
 <!ENTITY exceptionMgr.title                   "Dodaj sigurnosni izuzetak">
-<!ENTITY exceptionMgr.exceptionButton         "Potvrdi sigurnosni izuzetak">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitimne banke, prodavnice, i druge javne stranice vam neće tražiti da radite ovo.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Lokacija:">

@@ -1,104 +1,102 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Podešavanje">
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY setup.pickSetupType.description "Dobrodošli, ako nikad ranije niste koristili &syncBrand.fullName.label; morat ćete kreirati novi račun.">
+<!ENTITY button.createNewAccount.label "Kreiraj novi račun">
+<!ENTITY button.haveAccount.label "Ja posjedujem &syncBrand.fullName.label; račun">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "Da li ste ikada prije koristili &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label       "Nisam nikada prije koristio &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "Već koristim &syncBrand.shortName.label; na drugom računaru">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom.label    "Use a custom server">
-<!ENTITY signIn.account.label       "Email Address / User Name">
+<!ENTITY serverType.custom.label    "Koristi korisnički definisan server">
+<!ENTITY signIn.account.label       "Email adresa / Korisničko ime">
 <!ENTITY signIn.account.accesskey   "E">
-<!ENTITY signIn.password.label      "Password">
-<!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY signIn.password.label      "Lozinka">
+<!ENTITY signIn.password.accesskey  "L">
+<!ENTITY signIn.serverURL.label     "URL Servera">
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
-<!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
+<!ENTITY setup.newAccountDetailsPage.title.label "Detalji računa">
+<!ENTITY setup.confirmPassword.label  "Potvrdite lozinku">
+<!ENTITY setup.confirmPassword.accesskey  "P">
+<!ENTITY setup.emailAddress.label     "Email adresa">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
+<!ENTITY setup.tosAgree1.label      "Prihvatam">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
+<!ENTITY setup.tosLink.label        "uslove korištenja">
+<!ENTITY setup.tosAgree2.label      "i">
+<!ENTITY setup.ppLink.label         "Policu privatnosti">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "a">
+<!ENTITY setup.tosAgree2.accesskey  "i">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyStrength.label     "Strength:">
-<!ENTITY syncKeyHelp.label         "What does the strength mean?">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; brine o vašoj privatnosti">
+<!ENTITY setup.newSyncKeyPage.description.label "Za osiguranje vaše potpune privatnosti, svi vaši podaci će biti enkriptovani prije slanja. Vaš Sync ključ koji je neophodan za dekripciju nije poslan.">
+<!ENTITY syncKeyEntry.label        "Vaš Sync ključ">
+<!ENTITY syncKeyEntry.accesskey    "k">
+<!ENTITY syncKeyGenerate.label     "Generiši">
+<!ENTITY syncKeyStrength.label     "Jačina:">
+<!ENTITY syncKeyHelp.label         "Šta znači jačina?">
+<!ENTITY syncKeyBackup.description "Vaš Sync ključ je neophodan za pristup &syncBrand.fullName.label;u na drugim mašinama. Molimo da kreirate kopiju ključa. Mi vam nećemo moći pomoći da povratite Sync ključ.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
+<!ENTITY button.syncKeyBackup.print.label     "Štampaj…">
+<!ENTITY button.syncKeyBackup.print.accesskey "p">
+<!ENTITY button.syncKeyBackup.save.label      "Spasi…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "Molimo potvrdite da niste robot">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY connecting.label             "Connecting…">
+<!ENTITY setup.existingAccount.title.label "Unesite informacije o računu">
+<!ENTITY resetPassword.label          "Resetuj lozinku">
+<!ENTITY connecting.label             "Povezivanje…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
-<!ENTITY verifying.label              "Verifying…">
+<!ENTITY setup.existingSyncKeyPage.title "Molimo da unesete svoj Sync ključ">
+<!ENTITY setup.existingSyncKeyPage.description "Sync ključ je generisan za vas, ili ste ga sami unijeli, kada ste se prvi put prijavili na &syncBrand.fullName.label;. To nije isto što i vaša lozinka.">
+<!ENTITY existingSyncKeyHelp.description "Možete pronaći svoj spašeni Sync ključ na vašem drugom računaru uključivanjem Spašene lozinke pod Sigurnost. Ako i dalje ne možete dobiti ispravan Sync ključ, možete ga resetovati, ali ćete izgubiti sve podatke koji su pohranjeni na serveru.">
+<!ENTITY lostSyncKey.label            "Izgubio sam svoj Sync ključ">
+<!ENTITY verifying.label              "Provjeravam…">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY setup.optionsPage.title      "Sync opcije">
+<!ENTITY syncComputerName.label       "Naziv računara:">
+<!ENTITY syncComputerName.accesskey   "N">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY syncMy.label               "Sinhronizuj moje">
+<!ENTITY engine.bookmarks.label     "Zabilješke">
+<!ENTITY engine.bookmarks.accesskey "Z">
+<!ENTITY engine.tabs.label          "Tabove">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "Historiju">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.passwords.label     "Lozinke">
+<!ENTITY engine.passwords.accesskey "L">
+<!ENTITY engine.prefs.label         "Postavke">
 <!ENTITY engine.prefs.accesskey     "s">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.merge.main.label      "Spoji podatke sa ovog računara sa mojim &syncBrand.shortName.label; podacima">
+<!ENTITY choice2.merge.recommended.label "Preporučeno:">
+<!ENTITY choice2.client.main.label     "Zamijeni sve podatke na ovom računaru sa mojim &syncBrand.shortName.label; podacima">
+<!ENTITY choice2.server.main.label     "Zamijeni sve ostale uređaje sa podacima sa ovog računara">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
-<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
-<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
+<!ENTITY setup.optionsConfirmPage.title "Potvrdi">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; će sada spojiti podatke iz browsera sa ovog računara sa vašim Sync računom.">
+<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; će zatim iskopirati vaše &syncBrand.fullName.label; podatke na ovaj računar.">
+<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "Podešavanje završeno">
+<!ENTITY changeOptions.label "Možete promijeniti ovu postavku odabirom Sync opcija ispod.">
+<!ENTITY continueUsing.label "Sada možete nastaviti sa korištenjem &brandShortName;a.">
