@@ -11,5 +11,9 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 <!ENTITY useSmoothScroll.label                  "Usar deslocamento suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
+<!ENTITY allowHWAccel.label                     "Usar aceleração por hardware quando disponível">
+<!ENTITY allowHWAccel.accesskey                 "e">
 <!ENTITY textZoomOnly.label                     "Aumentar apenas o texto em vez das páginas completas">
 <!ENTITY textZoomOnly.accesskey                 "A">
+<!ENTITY blockAutoRefresh.label                 "Avisar-me quando a página tenta redireccionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.accesskey             "v">

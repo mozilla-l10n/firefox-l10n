@@ -126,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "E">
 <!ENTITY undeleteMsgsCmd.label "Restaurar mensagens seleccionadas">
 <!ENTITY undeleteMsgsCmd.accesskey "R">
-<!ENTITY cancelNewsMsgsCmd.label "Cancelar mensagens seleccionadas">
-<!ENTITY cancelNewsMsgsCmd.accesskey "c">
 <!ENTITY deleteFolderCmd.label "Eliminar pasta...">
 <!ENTITY deleteFolderCmd.accesskey "p">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar inscrição">
