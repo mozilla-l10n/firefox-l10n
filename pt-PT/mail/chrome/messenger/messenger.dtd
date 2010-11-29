@@ -73,14 +73,10 @@
 <!ENTITY deleteMsgCmd.accesskey "L">
 <!ENTITY undeleteMsgCmd.label "Restaurar mensagem">
 <!ENTITY undeleteMsgCmd.accesskey "r">
-<!ENTITY cancelNewsMsgCmd.label "Cancelar mensagem">
-<!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY deleteMsgsCmd.label "Eliminar mensagens">
 <!ENTITY deleteMsgsCmd.accesskey "E">
 <!ENTITY undeleteMsgsCmd.label "Restaurar mensagens seleccionadas">
 <!ENTITY undeleteMsgsCmd.accesskey "r">
-<!ENTITY cancelNewsMsgsCmd.label "Cancelar mensagens seleccionadas">
-<!ENTITY cancelNewsMsgsCmd.accesskey "c">
 <!ENTITY deleteFolderCmd.label "Eliminar pasta...">
 <!ENTITY deleteFolderCmd.accesskey "I">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar inscrição">
@@ -313,6 +309,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY folderMenu.label "Pasta">
+<!ENTITY folderMenu.accesskey "P">
+<!ENTITY thisFolder.label "Esta pasta">
+<!ENTITY thisFolder.accesskey "t">
 <!ENTITY startPageCmd.label "Página inicial">
 <!ENTITY startPageCmd.accesskey "C">
 
@@ -326,6 +326,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Arquivar">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Cancelar mensagem">
+<!ENTITY cancelNewsMsgCmd.accesskey "C">
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "R">
