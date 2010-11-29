@@ -1,6 +1,6 @@
 amazondotcom
-creativecommons
 google
+bing
 wikipedia-kn
 yahoo-in
 kannadastore
