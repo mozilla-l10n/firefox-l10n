@@ -3,9 +3,7 @@
 <!ENTITY sync.connect               "连接">
 <!ENTITY sync.connected             "已连接">
 <!ENTITY sync.details               "详情">
-<!ENTITY sync.synchronize.label     "同步">
-<!ENTITY sync.synchronize.yes       "开">
-<!ENTITY sync.synchronize.no        "关">
+<!ENTITY sync.synchronize           "启用同步">
 <!ENTITY sync.deviceName            "该设备">
 <!ENTITY sync.disconnect            "断开连接">
 <!ENTITY sync.syncNow               "立即同步">
@@ -19,3 +17,5 @@
 <!ENTITY sync.syncKey               "同步密钥">
 <!ENTITY sync.customServer          "使用自定义服务器">
 <!ENTITY sync.serverURL             "服务器网址">
+<!ENTITY sync.setup.connect         "连接">
+<!ENTITY sync.setup.cancel          "取消">
