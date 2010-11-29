@@ -3,7 +3,7 @@
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "&brandShortName; başlangıç sayfası">
+<!ENTITY abouthome.pageTitle "&brandFullName; başlangıç sayfası">
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
