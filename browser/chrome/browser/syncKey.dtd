@@ -1,14 +1,14 @@
-<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
-<!ENTITY syncKey.page.description         "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
-<!ENTITY syncKey.keepItSecret.heading     "Keep it secret">
-<!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
-<!ENTITY syncKey.keepItSafe.heading       "Keep it safe">
-<!ENTITY syncKey.keepItSafe1.description  "Do not lose this key.">
-<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
-<!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
+<!ENTITY syncKey.page.title               "&syncBrand.fullName.label;: vaš ključ">
+<!ENTITY syncKey.page.description         "Ta ključ se uporablja za dešifriranje podatkov vašega računa storitve &syncBrand.fullName.label;. Ključ boste morali vnesti vsakič, ko boste nastavljali storitev &syncBrand.fullName.label; na novem računalniku ali napravi.">
+<!ENTITY syncKey.keepItSecret.heading     "Ne izdajte ga nikomur">
+<!ENTITY syncKey.keepItSecret.description "Vaš račun storitve &syncBrand.fullName.label; je šifriran za večjo zaščito vaše zasebnosti. Brez tega ključa so potrebna dolga leta za dešifriranje vaših podatkov. Ste edini lastnik ključa, torej lahko samo vi dostopite do podatkov storitve &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe.heading       "Hranite ga na varnem">
+<!ENTITY syncKey.keepItSafe1.description  "Nikar ne izgubite ključa.">
+<!ENTITY syncKey.keepItSafe2.description  " Kopije vašega ključa ne shranjujemo (to ne bi bilo varno!), ">
+<!ENTITY syncKey.keepItSafe3.description  "zato vam ga ne moremo povrniti,">
+<!ENTITY syncKey.keepItSafe4.description  " če ga izgubite. Ključ boste potrebovali vsakič, ko boste nov računalnik ali napravo želeli povezati z orodjem &syncBrand.fullName.label;.">
+<!ENTITY syncKey.findOutMore1.label       "Več o storitvi &syncBrand.fullName.label; in vaši zasebnosti najdete na ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
-<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
+<!ENTITY syncKey.footer1.label            "Pogoji uporabe storitve &syncBrand.fullName.label; so na voljo na ">
+<!ENTITY syncKey.footer2.label            ". Politika zasebnosti je na voljo na ">
 <!ENTITY syncKey.footer3.label            ".">
