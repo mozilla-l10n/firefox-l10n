@@ -1,7 +1,5 @@
-yahoo-kr
 google
+danawa-kr
 twitter
 daum-kr
 naver-kr
-wikipedia-kr
-danawa-kr
