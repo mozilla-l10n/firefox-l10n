@@ -95,7 +95,7 @@
 <!ENTITY search.label "Išči:">
 <!ENTITY search.accesskey "I">
 
-<!ENTITY search.in.label                           "Search in:">
+<!ENTITY search.in.label                           "Išči v:">
 <!ENTITY search.scopeFolder.label "Izbrana mapa">
 <!ENTITY search.scopeFolder.accesskey "I">
 <!ENTITY search.scopeBookmarks.label               "Zaznamki">
@@ -126,17 +126,17 @@
 <!ENTITY detailsPane.noPreviewAvailable.label "Predogled">
 <!ENTITY detailsPane.selectAnItemText.description "Izberi predmet za prikaz in urejanje njegovih lastnosti">
 
-<!ENTITY find.label               "Search:">
-<!ENTITY find.accesskey           "S">
-<!ENTITY view.label               "View">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "By Date">
+<!ENTITY find.label               "Išči:">
+<!ENTITY find.accesskey           "I">
+<!ENTITY view.label               "Pogled">
+<!ENTITY view.accesskey           "g">
+<!ENTITY byDate.label             "Po datumu">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "By Site">
+<!ENTITY bySite.label             "Po strani">
 <!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "By Most Visited">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "By Last Visited">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "By Date and Site">
+<!ENTITY byMostVisited.label      "Po najpogosteje obiskanih">
+<!ENTITY byMostVisited.accesskey  "n">
+<!ENTITY byLastVisited.label      "Po nazadnje obiskanih">
+<!ENTITY byLastVisited.accesskey  "z">
+<!ENTITY byDayAndSite.label       "Po datumu in strani">
 <!ENTITY byDayAndSite.accesskey   "t">
