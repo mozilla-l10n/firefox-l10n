@@ -2,19 +2,19 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY setup.pickSetupType.description "Pozdravljeni! Če še niste uporabljali storitve &syncBrand.fullName.label;, morate najprej ustvariti račun.">
+<!ENTITY button.createNewAccount.label "Ustvari nov račun">
+<!ENTITY button.haveAccount.label "Imam račun storitve &syncBrand.fullName.label;">
 
 <!ENTITY setup.choicePage.title.label     "Ali ste že kdaj prej uporabljali orodje &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Nikoli prej nisem uporabljal orodja &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label  "Orodje &syncBrand.shortName.label; že uporabljam na drugem računalniku">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Server">
+<!ENTITY server.label               "Strežnik">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;: Strežnik">
 <!ENTITY serverType.custom.label    "Uporabi strežnik po meri">
-<!ENTITY signIn.account.label       "Email Address / User Name">
+<!ENTITY signIn.account.label       "E-pošta / Uporabniško ime">
 <!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Geslo">
 <!ENTITY signIn.password.accesskey  "G">
@@ -22,7 +22,7 @@
 <!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
+<!ENTITY setup.newAccountDetailsPage.title.label "Podrobnosti računa">
 <!ENTITY setup.confirmPassword.label  "Potrdi geslo">
 <!ENTITY setup.confirmPassword.accesskey  "t">
 <!ENTITY setup.emailAddress.label     "Elektronska pošta">
@@ -38,22 +38,22 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; spoštuje vašo zasebnost">
+<!ENTITY setup.newSyncKeyPage.description.label "Za zagotovitev najvišje stopnje zasebnosti se vsi vaši podatki pred prenosom šifrirajo. Sinhronizacijski ključ, ki je potreben za dešifriranje, pa se ne prenaša.">
+<!ENTITY syncKeyEntry.label        "Vaš sinhronizacijski ključ">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyStrength.label     "Strength:">
-<!ENTITY syncKeyHelp.label         "What does the strength mean?">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyGenerate.label     "Ustvari">
+<!ENTITY syncKeyStrength.label     "Mož:">
+<!ENTITY syncKeyHelp.label         "Kaj označuje moč?">
+<!ENTITY syncKeyBackup.description "Sinhronizacijski ključ je potreben za dostop do storitve &syncBrand.fullName.label; na drugih napravah. Ustvarite varnostno kopijo, saj vam ga ne moremo obnoviti.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
+<!ENTITY button.syncKeyBackup.print.label     "Natisni…">
+<!ENTITY button.syncKeyBackup.print.accesskey "N">
+<!ENTITY button.syncKeyBackup.save.label      "Shrani…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "Potrdite, da niste robot">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Vnesite podatke o računu">
@@ -61,42 +61,42 @@
 <!ENTITY connecting.label             "Povezovanje…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
+<!ENTITY setup.existingSyncKeyPage.title "Vnesite vaš sinhronizacijski ključ">
+<!ENTITY setup.existingSyncKeyPage.description "Sinhronizacijski ključ je bil ustvarjen ali ste si ga izbrali sami, ko ste prvič nastavljali storitev &syncBrand.fullName.label;. Ni enak vašemu geslu.">
+<!ENTITY existingSyncKeyHelp.description "Sinhronizacijski ključ lahko najdete v nastavitvah vaše druge naprave med shranjenimi gesli v zavihku Varnost. Če ga tudi tam ni, ga lahko ponastavite, a boste izgubili vsepodatke na strežniku.">
+<!ENTITY lostSyncKey.label            "Izgubil sem sinhronizacijski ključ">
 <!ENTITY verifying.label              "Preverjanje…">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
+<!ENTITY setup.optionsPage.title      "Možnosti sinhronizacije">
 <!ENTITY syncComputerName.label       "Ime računalnika:">
 <!ENTITY syncComputerName.accesskey   "r">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "Sinhroniziraj">
+<!ENTITY engine.bookmarks.label     "Zaznamke">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.tabs.label          "Zavihke">
+<!ENTITY engine.tabs.accesskey      "Z">
+<!ENTITY engine.history.label       "Zgodovino">
+<!ENTITY engine.history.accesskey   "d">
+<!ENTITY engine.passwords.label     "Gesla">
+<!ENTITY engine.passwords.accesskey "G">
+<!ENTITY engine.prefs.label         "Nastavitve">
+<!ENTITY engine.prefs.accesskey     "N">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.merge.main.label      "Združi podatke na tem računalniku s podatki storitve &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Priporočeno:">
+<!ENTITY choice2.client.main.label     "Zamenjaj vse podatke na tem računalniku s podatki storitve &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Zamenjaj podatke na vseh ostalih napravah s podatki tega računalnika">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
+<!ENTITY setup.optionsConfirmPage.title "Potrditev">
 <!ENTITY confirm.merge.label          "Izbrali ste združitev vaših podatkov na tem računalniku s podatki na drugih napravah, ki uporabljajo orodje &syncBrand.fullName.label;.">
 <!ENTITY confirm.client2.label         "Opozorilo: naslednji podatki brskalnika &brandShortName; na tem računalniku bodo odstranjeni:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; bo potem skopiral vaše podatke iz orodja &syncBrand.fullName.label; na ta računalnik.">
 <!ENTITY confirm.server2.label         "Opozorilo: podatki na naslednjih napravah bodo prepisani z lokalnimi:">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title  "Namestitev konačana!">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title  "Namestitev končana!">
+<!ENTITY changeOptions.label "To nastavitev lahko spremenite z izbiro Možnosti sinhronizacije.">
+<!ENTITY continueUsing.label "Zdaj lahko nadaljujete z uporabo &brandShortName;a.">
