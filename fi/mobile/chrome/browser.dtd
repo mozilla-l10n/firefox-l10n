@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "Leikkaa">
 <!ENTITY copy.label            "Kopioi">
+<!ENTITY copyAll.label         "Kopioi kaikki">
 <!ENTITY copylink.label        "Kopioi linkin osoite">
 <!ENTITY paste.label           "Liitä">
 <!ENTITY delete.label          "Poista">
 <!ENTITY selectAll.label       "Valitse kaikki">
 <!ENTITY noSuggestions.label   "(Ei ehdotuksia)">
 <!ENTITY addToDictionary.label "Lisää sanastoon">
+<!ENTITY inputMethod.label     "Valitse kirjoitustapa">
 
 <!ENTITY allPagesHeader.label      "Kaikki sivut">
 <!ENTITY bookmarksHeader.label     "Kirjanmerkit">
@@ -108,3 +110,5 @@
 <!ENTITY pageactions.search.addNew   "Lisää hakukone">
 
 <!ENTITY selectHelper.emptytext      "Suodata osumia">
+
+<!ENTITY appMenu.siteOptions         "Sivuston valinnat">

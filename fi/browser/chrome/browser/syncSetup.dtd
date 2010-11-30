@@ -92,11 +92,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Vahvista">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; palvelussa yhdistetään tämän laitteen tiedot synkronointitilisi muihin tietoihin.">
-<!ENTITY confirm.client.label         "&brandShortName;in tälle laitteelle tallentamat tiedot poistetaan, mukaan lukien seuraavat:">
+<!ENTITY confirm.client2.label         "Varoitus: Seuraavat &brandShortName;in tallentamat tiedot tällä laitteella poistetaan:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; kopioi sen jälkeen &syncBrand.fullName.label; palveluun tallennetut tiedot tälle laitteelle.">
-<!ENTITY confirm.client.warning.label "VAROITUS: Tämä toiminto korvaa kaikki &brandShortName;in tallentamat tiedot tällä laitteella!">
-<!ENTITY confirm.server.label         "Seuraavien laitteiden tiedot korvataan tämän laitteen tiedoilla:">
-<!ENTITY confirm.server.warning.label "VAROITUS: Tämän laitteen tiedot korvaavat &brandShortName; in tallentamat tiedot näillä laitteilla!">
+<!ENTITY confirm.server2.label         "Varoitus: Seuraaville laitteille tallennetut tiedot korvataan tälle laitteelle tallennetuilla tiedoilla:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Asennus on valmis">

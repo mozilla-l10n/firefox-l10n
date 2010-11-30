@@ -73,14 +73,10 @@
 <!ENTITY deleteMsgCmd.accesskey  "o">
 <!ENTITY undeleteMsgCmd.label  "Kumoa viestin poisto">
 <!ENTITY undeleteMsgCmd.accesskey  "m">
-<!ENTITY cancelNewsMsgCmd.label  "Peruuta viesti">
-<!ENTITY cancelNewsMsgCmd.accesskey  "P">
 <!ENTITY deleteMsgsCmd.label  "Poista valitut viestit">
 <!ENTITY deleteMsgsCmd.accesskey  "o">
 <!ENTITY undeleteMsgsCmd.label  "Kumoa valittujen viestien poisto">
 <!ENTITY undeleteMsgsCmd.accesskey  "m">
-<!ENTITY cancelNewsMsgsCmd.label  "Peruuta valitut viestit">
-<!ENTITY cancelNewsMsgsCmd.accesskey  "P">
 <!ENTITY deleteFolderCmd.label  "Poista kansio">
 <!ENTITY deleteFolderCmd.accesskey  "o">
 <!ENTITY unsubscribeNewsgroupCmd.label  "Peruuta tilaus">
@@ -313,6 +309,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "Ö">
 <!ENTITY prevStarredMsgCmd.label  "Tähdellä merkitty viesti">
 <!ENTITY prevStarredMsgCmd.accesskey  "T">
+<!ENTITY folderMenu.label "Kansio">
+<!ENTITY folderMenu.accesskey "K">
+<!ENTITY thisFolder.label "Tämä kansio">
+<!ENTITY thisFolder.accesskey "T">
 <!ENTITY startPageCmd.label  "Aloitussivu">
 <!ENTITY startPageCmd.accesskey  "A">
 
@@ -326,6 +326,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Arkistoi">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Peruuta viesti">
+<!ENTITY cancelNewsMsgCmd.accesskey "P">
 <!ENTITY replyMsgCmd.label  "Vastaa">
 <!ENTITY replyMsgCmd.accesskey  "V">
 <!ENTITY replyMsgCmd.key	 "r">
