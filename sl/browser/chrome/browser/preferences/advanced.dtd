@@ -17,8 +17,8 @@
 <!ENTITY useAutoScroll.accesskey "s">
 <!ENTITY useSmoothScrolling.label "Uporabljaj gladko drsenje">
 <!ENTITY useSmoothScrolling.accesskey "g">
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
+<!ENTITY allowHWAccel.accesskey          "p">
 <!ENTITY checkSpelling.label "Preverjaj črkovanje besed, medtem ko pišem">
 <!ENTITY checkSpelling.accesskey "b">
 
@@ -47,13 +47,13 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY limitCacheSizeBefore.label      "Omeji velikost predpomnilnika na">
+<!ENTITY limitCacheSizeBefore.accesskey  "l">
+<!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label "Počisti zdaj">
 <!ENTITY clearCacheNow.accesskey "O">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.label    "Prezri samodejno upravljanje predpomnilnika">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label "Posodobitev">
 

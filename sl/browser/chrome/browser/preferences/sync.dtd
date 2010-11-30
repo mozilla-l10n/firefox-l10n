@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;: Račun">
-<!ENTITY currentAccount.label         "Current Account:">
+<!ENTITY currentAccount.label         "Trenutni račun:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Posodobi">
@@ -13,29 +13,29 @@
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Upravljanje računa">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY viewQuota.label              "Prikaži omejitve">
 <!ENTITY changePassword.label         "Spremeni geslo">
-<!ENTITY mySyncKey.label              "My Sync Key">
+<!ENTITY mySyncKey.label              "Moj sinhronizacijski ključ">
 <!ENTITY resetSync.label              "Ponastavi sinhronizacijo">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
+<!ENTITY stopUsingAccount.label       "Prenehaj uporabljati ta račun">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sinhronizacija brskalnika">
 <!ENTITY syncComputerName.label       "Ime računalnika:">
 <!ENTITY syncComputerName.accesskey   "r">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "Sinhroniziraj">
+<!ENTITY engine.bookmarks.label     "Zaznamke">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.tabs.label          "Zavihke">
+<!ENTITY engine.tabs.accesskey      "Z">
+<!ENTITY engine.history.label       "Zgodovino">
+<!ENTITY engine.history.accesskey   "d">
+<!ENTITY engine.passwords.label     "Gesla">
+<!ENTITY engine.passwords.accesskey "G">
+<!ENTITY engine.prefs.label         "Nastavitve">
+<!ENTITY engine.prefs.accesskey     "N">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Pogoji uporabe">
