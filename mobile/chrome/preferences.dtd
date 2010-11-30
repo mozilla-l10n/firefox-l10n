@@ -18,11 +18,3 @@
 <!ENTITY homepage.none                             "Tyhjä sivu">
 <!ENTITY homepage.default                          "&brandShortName;in aloitus">
 <!ENTITY homepage.currentpage                      "Käytä avointa sivua">
-<!ENTITY sync.title                                "Synkronoi">
-<!ENTITY sync.account2                             "Tilin nimi">
-<!ENTITY sync.password                             "Salasana">
-<!ENTITY sync.syncKey                              "Synkronointiavain">
-<!ENTITY sync.deviceName                           "Laitteen nimi">
-<!ENTITY sync.connect                              "Yhdistä">
-<!ENTITY sync.disconnect                           "Katkaise yhteys">
-<!ENTITY sync.syncNow                              "Synkronoi heti">

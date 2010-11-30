@@ -1,0 +1,21 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Ei yhteyttä">
+<!ENTITY sync.connect               "Yhdistä">
+<!ENTITY sync.connected             "Yhdistetty">
+<!ENTITY sync.details               "Lisätiedot">
+<!ENTITY sync.synchronize           "Ota synkronointi käyttöön">
+<!ENTITY sync.deviceName            "Tämä laite">
+<!ENTITY sync.disconnect            "Katkaise yhteys">
+<!ENTITY sync.syncNow               "Synkronoi">
+
+<!ENTITY sync.setup.title           "Yhdistä Sync-palveluun">
+<!ENTITY sync.setup.jpake           "Yhdistä laitteesi valitsemalla Sync-palveluun tietokoneelle asennetusta Sync-palveluun liitetystä Firefoxista Sync-asetukset - &#x0022;Liitä laite&#x0022;">
+<!ENTITY sync.fallback              "En ole tietokoneeni lähellä…">
+<!ENTITY sync.setup.manual          "Kirjoita Sync-tilisi tiedot">
+<!ENTITY sync.account               "Tilin nimi">
+<!ENTITY sync.password              "Salasana">
+<!ENTITY sync.syncKey               "Synkronointiavain">
+<!ENTITY sync.customServer          "Käytä omaa palvelinta">
+<!ENTITY sync.serverURL             "Palvelimen URL">
+<!ENTITY sync.setup.connect         "Yhdistä">
+<!ENTITY sync.setup.cancel          "Peruuta">
