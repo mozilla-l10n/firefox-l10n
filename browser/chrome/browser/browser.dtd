@@ -24,15 +24,15 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Pin as App Tab">
+<!ENTITY  pinAppTab.label                    "Pripni zavihek">
 <!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Unpin Tab">
-<!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  moveToGroup.label                  "Move to Group">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "New Group">
-<!ENTITY  moveToNewWindow.label              "Move to New Window">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  unpinAppTab.label                  "Odpni zavihek">
+<!ENTITY  unpinAppTab.accesskey              "O">
+<!ENTITY  moveToGroup.label                  "Premakni v skupino">
+<!ENTITY  moveToGroup.accesskey              "m">
+<!ENTITY  moveToNewGroup.label               "Nova skupina">
+<!ENTITY  moveToNewWindow.label              "Premakni v novo okno">
+<!ENTITY  moveToNewWindow.accesskey          "k">
 
 <!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke…">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
@@ -71,8 +71,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Orodna vrstica zaznamkov">
 <!ENTITY personalbarCmd.accesskey "Z">
 <!ENTITY bookmarksToolbarItem.label "Predmeti orodne vrstice z zaznamki">
-<!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Vrstica z dodatki">
+<!ENTITY addonBarCmd.accesskey "D">
 
 <!ENTITY pageSourceCmd.label "Izvorna koda strani">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Naroči se na to stran">
 <!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran ...">
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke ...">
-<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
+<!ENTITY showAllBookmarks.label "Prikaži vse zaznamke…">
 <!ENTITY bookmarkAllCmd.label "Dodaj vse zavihke med zaznamke ...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
 
@@ -132,14 +132,14 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title "Zaznamki">
 
 <!-- Toolbar items --> 
-<!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY appMenuButton.label          "Meni">
+<!ENTITY appMenuButton.tooltip        "Odpri meni &brandShortName;a">
 <!ENTITY homeButton.label "Domov">
 
-<!ENTITY tabGroupsButton.label        "Tab Groups">
-<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+<!ENTITY tabGroupsButton.label        "Skupine zavihkov">
+<!ENTITY tabGroupsButton.tooltip      "Združite vaše zavihke">
 
-<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.label             "Naroči se">
 <!ENTITY feedButton.tooltip           "Naroči se na to stran…">
 
 <!ENTITY bookmarksButton.label "Zaznamki">
@@ -149,7 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Zaznamki">
 <!ENTITY bookmarksMenuButton.tooltip        "Prikaži zaznamke">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
+<!ENTITY bookmarksMenuButton.unsorted.label "Nerazvrščeni zaznamki">
 <!ENTITY viewBookmarksSidebar.label         "Prikaži v stranski vrstici">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži vrstico zaznamkov">
 
@@ -206,7 +206,7 @@ can reach it easily. -->
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Object">
+<!ENTITY inspectObjectButton.label       "Objekt">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY fileMenu.label "Datoteka">
@@ -255,8 +255,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label "Pogled">
 <!ENTITY viewMenu.accesskey "P">
-<!ENTITY viewTabGroups.label            "Tab Groups">
-<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabGroups.label            "Skupine zavihkov">
+<!ENTITY viewTabGroups.accesskey        "z">
 <!ENTITY viewToolbarsMenu.label "Orodne vrstice">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY viewSidebarMenu.label "Stranska vrstica">
@@ -271,22 +271,22 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Nedavno zaprti zavihki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nedavno zaprta okna">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.label "Obnovi prejšnjo sejo">
 
 <!ENTITY historyHomeCmd.label "Domov">
 <!ENTITY showAllHistoryCmd2.label "Prikaži vso zgodovino">
 <!ENTITY showAllHistoryCmd.commandkey "S">
 
-<!ENTITY appMenuEdit.label "Edit">
+<!ENTITY appMenuEdit.label "Urejanje">
 <!ENTITY appMenuCustomize.label "Po meri">
 <!ENTITY appMenuToolbarLayout.label "Razporeditev orodnih vrstic…">
 <!ENTITY appMenuSidebars.label "Stranske vrstice">
-<!ENTITY appMenuFind.label "Find…">
-<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
-<!ENTITY appMenuGettingStarted.label "Getting Started">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuFind.label "Najdi…">
+<!ENTITY appMenuUnsorted.label "Nerazvrščeni zaznamki">
+<!ENTITY appMenuWebDeveloper.label "Spletni razvoj">
+<!ENTITY appMenuGettingStarted.label "Prvi koraki">
+<!ENTITY appMenuSafeMode.label "Ponovno zaženi z onemogočenimi dodatki…">
+<!ENTITY appMenuSafeMode.accesskey "P">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder           "Obiščite spletno stran">
@@ -461,9 +461,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Prikaži okno v celozaslonskem načinu">
 
-<!ENTITY zoomOutButton.tooltip          "Zoom out">
-<!ENTITY zoomInButton.tooltip           "Zoom in">
-<!ENTITY zoomControls.label             "Zoom Controls">
+<!ENTITY zoomOutButton.tooltip          "Pomanjšaj">
+<!ENTITY zoomInButton.tooltip           "Povečaj">
+<!ENTITY zoomControls.label             "Povečava">
 
 <!ENTITY quitApplicationCmdWin.label "Izhod">
 <!ENTITY quitApplicationCmdWin.accesskey "h">
@@ -550,4 +550,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey          "i">
 <!ENTITY syncSyncNowItem.label        "Sinhroniziraj zdaj">
 <!ENTITY syncSyncNowItem.accesskey    "j">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "Sinhroniziraj">
