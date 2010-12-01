@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Subscrever esta página">
 <!ENTITY subscribeToPageMenuitem.label "Subscrever esta página...">
 <!ENTITY addCurPagesCmd.label "Adicionar separadores...">
-<!ENTITY showAllBookmarks.label "Mostrar todos os marcadores...">
+<!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
 <!ENTITY bookmarkAllCmd.label "Adicionar todos os separadores...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 
@@ -237,8 +237,8 @@ shortcut keys on Linux. -->
 <!ENTITY selectAllCmd.label "Seleccionar tudo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
-<!ENTITY preferencesCmd.label "Opções...">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmd2.label "Opções">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "f">
 
