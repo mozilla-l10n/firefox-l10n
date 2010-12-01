@@ -106,7 +106,7 @@
 <!ENTITY  reloadAllTabs.label                "सभी टैब फिर लोड करें">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 
-<!ENTITY showAllBookmarks.label "सभी पुस्तचिह्नों को दिखाएँ…">
+
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY showAllTabsCmd.label "सभी टैब दिखाएँ">
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -316,8 +316,6 @@
 <!ENTITY selectAllCmd.label         "सभी चुनें">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "विकल्प…">
-<!ENTITY preferencesCmd.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "वरीयता">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -619,3 +617,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY viewTabGroups.label            "टैब समूह">
 <!ENTITY viewTabGroups.accesskey        "G">
+
+<!ENTITY preferencesCmd2.label       "विकल्प">
+<!ENTITY showAllBookmarks2.label "सभी पुस्तचिह्नों को दिखाएँ">
+<!ENTITY preferencesCmd2.accesskey     "O">
+
