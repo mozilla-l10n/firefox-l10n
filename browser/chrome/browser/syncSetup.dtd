@@ -1,0 +1,107 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; అమర్పు">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "స్వాగతం, మీరు యింతకు మునుపెన్నడు &syncBrand.fullName.label; వుపయోగించకపోతే, మీరు కొత్త ఖాతాను సృష్టించవలసి వుంటుంది.">
+<!ENTITY button.createNewAccount.label "కొత్త ఖాతాను సృష్టించుము">
+<!ENTITY button.haveAccount.label "నేను వొక &syncBrand.fullName.label; ఖాతాను కలిగివున్నాను">
+
+<!ENTITY setup.choicePage.title.label     "మీరు &syncBrand.fullName.label; ను యింతకు ముందు వుపయోగించారా?">
+<!ENTITY setup.choicePage.new.label       "నేను యింతకు ముందెన్నడూ &syncBrand.shortName.label; వుపయోగించలేదు">
+<!ENTITY setup.choicePage.existing.label  "నేను యిప్పటికే &syncBrand.shortName.label; ను వేరే కంప్యూటర్‌పై వుపయోగించుచున్నాను">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "సర్వర్">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; సర్వర్">
+<!ENTITY serverType.custom.label    "మలచిన సర్వర్ వుపయోగించుము">
+<!ENTITY signIn.account.label       "ఈ మెయిల్ చిరునామా / వినియోగదారి నామము">
+<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY signIn.password.label      "సంకేతపదము">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.serverURL.label     "సర్వర్ URL">
+<!ENTITY signIn.serverURL.accesskey "L">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "ఖాతా వివరములు">
+<!ENTITY setup.confirmPassword.label  "సంకేతపదము ఖాయపరచు">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "ఈమెయిల్ చిరునామా">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "నేను">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "సేవా నిబంధనలను">
+<!ENTITY setup.tosAgree2.label      "మరియు">
+<!ENTITY setup.ppLink.label         "గోప్యతా విధానమును అంగీకరిస్తున్నాను">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; మీ గోప్యత గురించి జాగ్రత్తవహించును">
+<!ENTITY setup.newSyncKeyPage.description.label "మీకు పూర్తి గోప్యతను అందించుటకు, అప్‌లోడ్‌నకు ముందుగానే మీ డాటా మొత్తం యెన్క్రిప్టు చేయబడును. మీ డాటాను డీక్రిప్టు చేయుటకు తప్పనిసరైన సింక్ కీ అప్‌లోడ్ చేయలేదు.">
+<!ENTITY syncKeyEntry.label        "మీ సింక్ కీ">
+<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY syncKeyGenerate.label     "ఉద్భవించు">
+
+
+<!ENTITY syncKeyBackup.description "ఇతర మిషన్లపై &syncBrand.fullName.label; యాక్సెస్ చేయుటకు మీ సింక్ కీ అవసరము. దయచేసి వొక బ్యాకప్ కాపీను సృష్టించుకొనండి. మీ సింక్ కీను తిరిగిపొందుటలో మేము సహాయపడలేము.">
+
+<!ENTITY button.syncKeyBackup.print.label     "ముద్రించు…">
+<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.save.label      "భద్రపరచు…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "మీరు రోబోట్ కాదని నిర్ధారించండి">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "ఖాతా సమాచారమును ప్రవేశపెట్టుము">
+<!ENTITY resetPassword.label          "సంకేతపదమును తిరిగివుంచుము">
+<!ENTITY connecting.label             "అనుసంధానమౌతోంది…">
+
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "దయచేసి మీ సింక్ కీను ప్రవేశపెట్టండి">
+<!ENTITY setup.existingSyncKeyPage.description "మీ కొరకు సింక్ కీ వుద్భవింపబడెను, లేదా మీరు మొదటి సారి &syncBrand.fullName.label; కొరకు నమోదగునప్పుడు, మీ స్వంతది మీరు ప్రవేశపెట్టండి.">
+<!ENTITY existingSyncKeyHelp.description "వేరే కంప్యూటర్‌కు వెళ్ళి రక్షణ కిందని భద్రపరిచిన సంకేతపదములను పరిశీలించుట ద్వారా మీరు మీ సింక్ కీను కనుగొనగలరు. మీరు యింకా సరైన సింక్‌ కీను పొందలేకపోతే, మీరు దానిని తిరిగిఅమర్చకు యెంచుకొనగలరు, అయితే సర్వర్ పైన నిల్వవుంచబడినా డాటాను మీరు కోల్పోతారు.">
+<!ENTITY lostSyncKey.label            "నేను నా సింక్ కీను కోల్పోయాను">
+<!ENTITY verifying.label              "పరిశీలించుచున్నది…">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "సింక్ ఐచ్చికములు">
+<!ENTITY syncComputerName.label       "కంప్యూటర్ నామము:">
+<!ENTITY syncComputerName.accesskey   "c">
+
+<!ENTITY syncMy.label               "నావి యివి సింక్ చేయి">
+<!ENTITY engine.bookmarks.label     "ఇష్టాంశములు">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "టాబ్‌లు">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "చరిత్ర">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "సంకేతపదములు">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "అభీష్టాలు">
+<!ENTITY engine.prefs.accesskey     "S">
+
+<!ENTITY choice2.merge.main.label      "ఈ కంప్యూటర్ యొక్క డాటాను నా &syncBrand.shortName.label; డాటా‌తో కలుపుము">
+<!ENTITY choice2.merge.recommended.label "సిఫార్సుచేయబడినది:">
+<!ENTITY choice2.client.main.label     "ఈ కంప్యూటర్‌పైని డాటా మొత్తాన్ని నా &syncBrand.shortName.label; డాటా పునఃస్థాపించుము">
+<!ENTITY choice2.server.main.label     "ఈ కంప్యూటర్ యొక్క డాటాతో అన్ని యితర పరికరములను పునఃస్థాపించుము">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "నిర్థారించు">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; యిప్పుడు యీ కంప్యూటర్ యొక్క బ్రౌజర్ డాటా నంతటిని మీ సింక్ ఖాతాలోనికి కలుపును.">
+
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; అప్పుడు మీ &syncBrand.fullName.label; డాటాను యీ కంప్యూటర్‌కు నకలు తీయును.">
+
+
+
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "అమర్పు పూర్తైనది">
+<!ENTITY changeOptions.label "కింది సింక్ ఐచ్చికములను యెంపికచేయుట ద్వారా మీరు యీ అభీష్టమును మార్చగలరు.">
+<!ENTITY continueUsing.label "మీరు యిప్పుడు &brandShortName; ను వుపయోగించుట కొనసాగించవచ్చును.">
+
+<!ENTITY confirm.client2.label         "హెచ్చరిక: ఈ కంప్యూటర్ నందలి యీ కింది &brandShortName; డాటా తొలగించబడును:">
+<!ENTITY confirm.server2.label         "హెచ్చరిక: మీ స్థానిక డాటాతో యీ కింది పరికరములు తిరిగివ్రాయబడును:">

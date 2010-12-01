@@ -1,0 +1,28 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName; ప్రారంభపు పేజి">
+
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> ప్రారంభించు">
+
+<!ENTITY abouthome.searchEngineButton.label "శోధించు">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "అధునాతన శోదన">
+<!ENTITY abouthome.searchEngineLinks.preferences "అభీష్టాలు">
+
+<!ENTITY abouthome.aboutMozilla "మొజిల్లా గురించి">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "ఫైర్‌ఫాక్స్ యెంచుకొనినందులకు ధన్యవాదములు! మీ బ్రౌజర్‌నుండి మరింత లభ్యత పొందుటకు, <a>సరికొత్త విశేషణములు</a> గురించి తెలుసుకొనండి.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "మీ ఫైర్‌ఫాక్స్ ను ఖచ్చితంగా మీకు కావలసినట్లు మలచుకొనుటకు సులువైనది. <a>వేల కొద్ది యాడ్-ఆన్లనుండి యెంచుకొనుము</a>.">
