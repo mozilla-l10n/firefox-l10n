@@ -566,3 +566,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY viewBookmarksSidebar.label         "Prikaži na bočnoj traci">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži traku zabilješki">
+
+<!ENTITY preferencesCmd2.label       "Mogućnosti">
+<!ENTITY preferencesCmd2.accesskey     "M">
+<!ENTITY showAllBookmarks2.label "Prikaži sve zabilješke">

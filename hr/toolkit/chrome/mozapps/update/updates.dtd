@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Ažuriranje programa">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Provjera za dopunama">
 <!ENTITY  updateCheck.label               "Traženje novije verzije &brandShortName;…">
 
@@ -44,7 +41,6 @@
 
 <!ENTITY  incompatibleList.title          "Nekompatibilni dodaci pronađeni">
 
-<!ENTITY  downloading.title               "Preuzimanje dopuna">
 <!ENTITY  downloading.intro               "Preuzimanje dopuna...">
 <!ENTITY  connecting.label                "Spajanje na server dopuna...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; nije mogao ovjeriti integritet 
@@ -61,7 +57,6 @@
 <!ENTITY  errorManual.label               "&brandShortName; možete ažurirati ručno tako da posjetite ovu poveznicu
                                            ili preuzmete posljednju inačicu:">
                                            
-<!ENTITY  errorpatching.title             "Ažuriranje nije uspjelo">
 <!ENTITY  errorpatching.intro             "Djelomično ažuriranje nije moglo biti primijenjeno. 
                                            &brandShortName; će pokušati ponovno preuzimanjem potpuih dopuna.">
 
@@ -83,3 +78,20 @@
 <!ENTITY  update.details.label            "Detalji">
 <!ENTITY  update.installedOn.label        "Instalirano:">
 <!ENTITY  update.status.label             "Stanje:">
+
+
+
+
+
+
+<!ENTITY  downloadPage.title              "Preuzimanje &brandShortName;">
+<!ENTITY  error.title                     "Ažuriranje nije uspjelo">
+
+<!ENTITY  errorCertAttrNoUpdate2.label    "Nešto sprječava sigurno ažuriranje &brandShortName;a.
+                                           Provjerite da imate najnoviju inačicu &brandShortName;a sa:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Nešto pokušava prevariti &brandShortName; na prihvaćanje nesigurne
+                                           dopune. Molim kontaktirajte svojeg pružatelja mrežnih usluga i potražite pomoć.">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; nije u mogućnosti odrediti je li dostupna dopuna. Molim
+                                           provjerite da imate najnoviju inačicu &brandShortName;a sa:">
+<!ENTITY  manualUpdate.space.desc         "Dostupna je prepoučena sigurnosna dopuna, ali nemate
+                                           dovoljno prostora za instalaciju.">
