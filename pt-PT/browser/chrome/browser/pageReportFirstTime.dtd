@@ -1,7 +1,0 @@
-<!ENTITY startDescriptionText.label "Um sítio Web tentou abrir uma janela popup sem a sua autorização. O &brandShortName; fechou automaticamente esta janela popup.">
-
-<!ENTITY endDescription.label "Pode clicar neste ícone para ver que sítios o &brandShortName; bloqueou e para permitir que esses sítios possam abrir janelas se forem necessárias para o correcto funcionamento dos mesmos.">
-
-<!ENTITY caption.label "Acerca do bloqueio de popups">
-
-<!ENTITY done.label "Concluído">
