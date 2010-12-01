@@ -202,8 +202,8 @@
 <!ENTITY pasteCmd.label "Επικόλληση">
 <!ENTITY personalbarCmd.accesskey "γ">
 <!ENTITY personalbarCmd.label "Εργαλειοθήκη σελιδοδεικτών">
-<!ENTITY preferencesCmd.accesskey "Ε">
-<!ENTITY preferencesCmd.label "Επιλογές...">
+<!ENTITY preferencesCmd2.accesskey "Ε">
+<!ENTITY preferencesCmd2.label "Επιλογές...">
 <!ENTITY preferencesCmdUnix.accesskey "μ">
 <!ENTITY preferencesCmdUnix.label "Προτιμήσεις">
 <!ENTITY printButton.label "Εκτύπωση">
@@ -561,7 +561,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  moveToNewGroup.label               "Νέα ομάδα">
 
 <!ENTITY addons.commandkey            "A">
-<!ENTITY showAllBookmarks.label "Προβολή όλων των σελιδοδεικτών…">
+<!ENTITY showAllBookmarks2.label "Προβολή όλων των σελιδοδεικτών…">
 
 <!ENTITY  pinAppTab.label                    "Ορισμός ως πρωτεύουσα καρτέλα">
 <!ENTITY  pinAppTab.accesskey                "π">
