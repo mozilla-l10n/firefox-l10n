@@ -3,8 +3,8 @@
 
 <!ENTITY loadError.label "Napaka pri nalaganju strani">
 <!ENTITY retry.label "Poskusi znova">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Povezava neuspešna">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -145,5 +145,6 @@ functionality specific to firefox. -->
 <!ENTITY securityOverride.warningContent "
 <p>Ne dodajajte izjeme, če uporabljate povezavo, ki ji ne zaupate popolnoma, ali če od tega strežnika običajno ne prejemate takšnih opozoril.</p> 
  
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
