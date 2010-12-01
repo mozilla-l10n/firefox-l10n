@@ -165,11 +165,11 @@
 <!ENTITY selectAllCmd.label         "అన్నిటిని ఎన్నుకొనుము">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "ఐచ్చికాలు...">
-<!ENTITY preferencesCmd.accesskey     "O"> 
+
+<!ENTITY preferencesCmd2.label       "ఐచ్చికాలు">
 <!ENTITY preferencesCmdUnix.label       "అభీష్టాలు">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
-
+<!ENTITY preferencesCmd2.accesskey     "O">
 
 
 
@@ -505,7 +505,7 @@ can reach it easily. -->
 <!ENTITY  reloadAllTabs.label                "అన్ని టాబ్‌లను తిరిగిలోడ్ చేయి">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadTab.label                    "టాబ్ తిరిగిలోడ్ చేయి">
-<!ENTITY showAllBookmarks.label "అన్ని యిష్టాంశములను చూపుము…">
+<!ENTITY showAllBookmarks2.label "అన్ని యిష్టాంశములను చూపుము">
 <!ENTITY syncBrand.shortName.label    "Sync">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; అమర్చుము…">
