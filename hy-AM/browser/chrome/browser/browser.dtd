@@ -321,7 +321,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Գտնել…">
 <!ENTITY appMenuUnsorted.label "Չկարգավորված Էջանիշեր">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuWebDeveloper.label "Վեբ ծրագրավորող">
 <!ENTITY appMenuGettingStarted.label "Աշխատանքի Սկիզբ">
 <!ENTITY appMenuSafeMode.label "Վերագործարկել հավելումներն անջատված…">
 <!ENTITY appMenuSafeMode.accesskey "Վ">
