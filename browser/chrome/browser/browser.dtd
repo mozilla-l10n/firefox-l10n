@@ -43,7 +43,7 @@ can reach it easily. -->
 <!ENTITY listAllTabs.label "Seznam všech panelů">
 
 <!ENTITY tabCmd.label "Nový panel">
-<!ENTITY tabCmd.accesskey "N">
+<!ENTITY tabCmd.accesskey "p">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Otevřít adresu…">
 <!ENTITY openLocationCmd.accesskey "O">
