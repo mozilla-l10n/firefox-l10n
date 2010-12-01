@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "您的同步金鑰">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "產生">
-<!ENTITY syncKeyStrength.label     "安全程度:">
-<!ENTITY syncKeyHelp.label         "安全程度是什麼意思？">
 <!ENTITY syncKeyBackup.description "您需要同步金鑰以存取其他電腦上的 &syncBrand.fullName.label;。請記得做好備份，我們無法幫您找回同步金鑰。">
 
 <!ENTITY button.syncKeyBackup.print.label     "列印…">
@@ -94,7 +92,7 @@
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; 現在將會把此瀏覽器的所有資料合併到您的 Sync 帳號中。">
 <!ENTITY confirm.client2.label         "警告: 這台電腦上 &brandShortName; 的以下資料將會被刪除:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; 將會複製您 &syncBrand.fullName.label; 上的資料到這台電腦。">
-<!ENTITY confirm.server2.label         "警告: 以下這些裝置中的資料將會被您目前的本地資料覆蓋:">
+<!ENTITY confirm.server2.label         "警告: 以下這些裝置中的資料將會被您目前的本機資料覆蓋:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "完成設定">
