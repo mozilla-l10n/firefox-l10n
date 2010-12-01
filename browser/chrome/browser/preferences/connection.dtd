@@ -8,7 +8,7 @@
 <!ENTITY noProxyTypeRadio.accesskey "y">
 <!ENTITY systemTypeRadio.label "Uporabi sistemske nastavitve posrednika">
 <!ENTITY systemTypeRadio.accesskey "u">
-<!ENTITY WPADTypeRadio.label "Samozaznaj nastavitve posrednika za to mrežo">
+<!ENTITY WPADTypeRadio.label "Samodejno zaznaj nastavitve posrednika za to mrežo">
 <!ENTITY WPADTypeRadio.accesskey "m">
 <!ENTITY manualTypeRadio.label "Ročna nastavitev posrednika">
 <!ENTITY manualTypeRadio.accesskey "r">

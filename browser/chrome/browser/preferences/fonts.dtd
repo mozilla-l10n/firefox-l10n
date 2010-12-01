@@ -32,7 +32,7 @@
 <!ENTITY font.langGroup.el "grško">
 <!ENTITY font.langGroup.turkish "turško">
 <!ENTITY font.langGroup.unicode "Unicode">
-<!ENTITY font.langGroup.user-def "uporabniško določeno">
+<!ENTITY font.langGroup.user-def "določi uporabnik">
 <!ENTITY font.langGroup.thai "tajsko">
 <!ENTITY font.langGroup.hebrew "hebrejsko">
 <!ENTITY font.langGroup.arabic "arabsko">

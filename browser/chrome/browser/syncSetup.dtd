@@ -2,17 +2,17 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Pozdravljeni! Če še niste uporabljali storitve &syncBrand.fullName.label;, morate najprej ustvariti račun.">
+<!ENTITY setup.pickSetupType.description "Pozdravljeni! Če še niste uporabljali storitve &syncBrand.fullName.label;, najprej ustvarite račun.">
 <!ENTITY button.createNewAccount.label "Ustvari nov račun">
 <!ENTITY button.haveAccount.label "Imam račun storitve &syncBrand.fullName.label;">
 
-<!ENTITY setup.choicePage.title.label     "Ali ste že kdaj prej uporabljali orodje &syncBrand.fullName.label;?">
-<!ENTITY setup.choicePage.new.label       "Nikoli prej nisem uporabljal orodja &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Orodje &syncBrand.shortName.label; že uporabljam na drugem računalniku">
+<!ENTITY setup.choicePage.title.label     "Ali ste že kdaj prej uporabljali storitev &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label       "Nikoli prej nisem uporabljal storitve &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "Storitev &syncBrand.shortName.label; že uporabljam na drugem računalniku">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Strežnik">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label;: Strežnik">
+<!ENTITY serverType.main.label      "Strežnik stortive &syncBrand.fullName.label;:">
 <!ENTITY serverType.custom.label    "Uporabi strežnik po meri">
 <!ENTITY signIn.account.label       "E-pošta / Uporabniško ime">
 <!ENTITY signIn.account.accesskey   "E">
@@ -31,9 +31,9 @@
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Soglašam s">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Pogoji uporabe">
+<!ENTITY setup.tosLink.label        "pogoji uporabe">
 <!ENTITY setup.tosAgree2.label      "in">
-<!ENTITY setup.ppLink.label         "Politiko zasebnosti">
+<!ENTITY setup.ppLink.label         "politiko zasebnosti">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
@@ -84,16 +84,16 @@
 <!ENTITY engine.prefs.label         "Nastavitve">
 <!ENTITY engine.prefs.accesskey     "N">
 
-<!ENTITY choice2.merge.main.label      "Združi podatke na tem računalniku s podatki storitve &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.main.label      "Združi podatke tega računalnika in storitve &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Priporočeno:">
-<!ENTITY choice2.client.main.label     "Zamenjaj vse podatke na tem računalniku s podatki storitve &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Zamenjaj podatke na vseh ostalih napravah s podatki tega računalnika">
+<!ENTITY choice2.client.main.label     "Zamenjaj podatke tega računalnika s podatki storitve &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Zamenjaj podatke ostalih naprav s podatki tega računalnika">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Potrditev">
-<!ENTITY confirm.merge.label          "Izbrali ste združitev vaših podatkov na tem računalniku s podatki na drugih napravah, ki uporabljajo orodje &syncBrand.fullName.label;.">
+<!ENTITY confirm.merge.label          "Izbrali ste združitev vaših podatkov na tem računalniku s podatki na drugih napravah, ki uporabljajo storitev &syncBrand.fullName.label;.">
 <!ENTITY confirm.client2.label         "Opozorilo: naslednji podatki brskalnika &brandShortName; na tem računalniku bodo odstranjeni:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; bo potem skopiral vaše podatke iz orodja &syncBrand.fullName.label; na ta računalnik.">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; bo potem skopiral vaše podatke iz storitve &syncBrand.fullName.label; na ta računalnik.">
 <!ENTITY confirm.server2.label         "Opozorilo: podatki na naslednjih napravah bodo prepisani z lokalnimi:">
 
 <!-- New & Existing Account: Setup Complete -->

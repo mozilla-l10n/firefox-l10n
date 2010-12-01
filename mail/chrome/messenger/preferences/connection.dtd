@@ -6,7 +6,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "b">
 <!ENTITY  systemTypeRadio.label         "Uporabi sistemske nastavitve za proxy">
 <!ENTITY  systemTypeRadio.accesskey     "o">
-<!ENTITY  WPADTypeRadio.label           "Samozaznaj nastavitve proxyja za to mrežo">
+<!ENTITY  WPADTypeRadio.label           "Samodejno zaznaj nastavitve proxyja za to mrežo">
 <!ENTITY  WPADTypeRadio.accesskey       "s">
 <!ENTITY  manualTypeRadio.label         "Ročna nastavitev proxy">
 <!ENTITY  manualTypeRadio.accesskey     "r">

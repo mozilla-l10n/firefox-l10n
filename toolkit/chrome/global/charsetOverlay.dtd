@@ -1,7 +1,7 @@
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label "Kodiranje znakov">
 <!ENTITY charsetMenu.accesskey "K">
-<!ENTITY charsetMenuAutodet.label "Samozaznavanje">
+<!ENTITY charsetMenuAutodet.label "Samodejno zaznaj">
 <!ENTITY charsetMenuAutodet.accesskey "a">
 <!ENTITY charsetMenuMore.label "Več naborov">
 <!ENTITY charsetMenuMore.accesskey "v">
@@ -17,5 +17,5 @@
 <!ENTITY charsetMenuMore5.accesskey "D">
 <!ENTITY charsetMenuUnicode.label "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey "U">
-<!ENTITY charsetCustomize.label "Seznam po meri ...">
+<!ENTITY charsetCustomize.label "Po meri ...">
 <!ENTITY charsetCustomize.accesskey "m">

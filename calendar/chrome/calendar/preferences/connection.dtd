@@ -46,7 +46,7 @@
 <!ENTITY  proxyTitle.label              "Prilagodi prehode za dostop do spleta">
 <!ENTITY  directTypeRadio.label         "Neposredna povezava v splet">
 <!ENTITY  directTypeRadio.accesskey     "N">
-<!ENTITY  WPADTypeRadio.label           "Samozaznaj nastavitve prehoda za to omrežje">
+<!ENTITY  WPADTypeRadio.label           "Samodejno zaznaj nastavitve prehoda za to omrežje">
 <!ENTITY  WPADTypeRadio.accesskey       "S">
 <!ENTITY  manualTypeRadio.label         "Ročna nastavitev prehoda:">
 <!ENTITY  manualTypeRadio.accesskey     "R">
