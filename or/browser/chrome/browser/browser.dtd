@@ -154,8 +154,8 @@
 <!ENTITY selectAllCmd.label         "ସମସ୍ତଙ୍କୁ ବାଛନ୍ତୁ">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "ବିକଳ୍ପଗୁଡ଼ିକ…">
-<!ENTITY preferencesCmd.accesskey     "O"> 
+<!ENTITY preferencesCmd2.label       "ବିକଳ୍ପଗୁଡ଼ିକ">
+<!ENTITY preferencesCmd2.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "ପସନ୍ଦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -500,7 +500,7 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY  reloadAllTabs.label                "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 
-<!ENTITY showAllBookmarks.label "ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ…">
+<!ENTITY showAllBookmarks2.label "ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY showAllTabsCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼କୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY syncTabsMenu.label     "ଅନ୍ୟ କମ୍ପୁଟରଗୁଡ଼ିକରୁ ଟ୍ୟାବଗୁଡ଼ିକ">

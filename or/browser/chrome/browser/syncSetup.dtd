@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "ଆପଣ  Sync କି">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "ସୃଷ୍ଟି କରନ୍ତୁ">
-<!ENTITY syncKeyStrength.label     "ଶକ୍ତି:">
-<!ENTITY syncKeyHelp.label         "ଶକ୍ତି ମାନେ କଣ?">
 <!ENTITY syncKeyBackup.description "ଆପଣଙ୍କର Sync କି &syncBrand.fullName.label; କୁ ଅନ୍ୟ ଯନ୍ତ୍ରରେ  ଅଭିଗମ୍ୟ କରିବା ପାଇଁ ଆବଶ୍ୟକ ହୋଇଥାଏ। ଦୟାକରି ଗୋଟିଏ ନକଲ ସଂରକ୍ଷଣ ପ୍ରସ୍ତୁତ କରନ୍ତୁ। ଆମେ ଆପଣଙ୍କର Sync କି କୁ ପୁନରୁଦ୍ଧାର କରିବାରେ ସହାୟତା କରିପାରିବୁ ନାହିଁ।">
 
 <!ENTITY button.syncKeyBackup.print.label     "ମୁଦ୍ରଣ କରନ୍ତୁ…">
