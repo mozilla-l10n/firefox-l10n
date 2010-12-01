@@ -66,3 +66,5 @@
 <!ENTITY languages.customize.Charset.grouplabel         "वर्ण ऐन्कोडिंग">
 <!ENTITY languages.customize.DefaultCharset.label       "पूर्वनिर्धारित वर्ण ऐन्कोडिंग:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+
+<!ENTITY  font.langGroup.tibetan                  "तिब्बती">

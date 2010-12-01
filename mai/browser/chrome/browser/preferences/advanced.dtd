@@ -46,9 +46,7 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "एतय तक प्रयोग  करू ">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "कैशक लेल MB स्थान">
+
 <!ENTITY clearCacheNow.label             "आब साफ  करू ">
 <!ENTITY clearCacheNow.accesskey         "C">
 
@@ -104,3 +102,19 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति">
 <!ENTITY viewSecurityDevices.accesskey   "y">
+
+<!ENTITY allowHWAccel.label              "उपलब्ध होने पर हार्ड त्वरण का उपयोग करें">
+<!ENTITY allowHWAccel.accesskey          "h">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "इसमें कैश परिसीमित करें">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB स्थान">
+
+<!ENTITY overrideSmartCacheSize.label    "स्वचालित कैश प्रबंधन को अधिरोहित करें">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
