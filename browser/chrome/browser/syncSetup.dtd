@@ -43,8 +43,8 @@
 <!ENTITY syncKeyEntry.label        "તમારી સુમેળ કી">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "ઉત્પન્ન કરો">
-<!ENTITY syncKeyStrength.label     "મજબૂતી:">
-<!ENTITY syncKeyHelp.label         "મજબૂતાઇનો મતલબ શું છે?">
+
+
 <!ENTITY syncKeyBackup.description "તમારી સુમેળ કીને બીજા મશીનો પર &syncBrand.fullName.label; ને વાપરવાની જરૂર છે. મહેરબાની કરીને બેકઅપ નકલને બનાવો. અમે તમારી સુમેળ કીને પ્રાપ્ત કરવા તમને મદદ કરી શકતા નથી.">
 
 <!ENTITY button.syncKeyBackup.print.label     "છાપો…">
