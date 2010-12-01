@@ -37,8 +37,8 @@
 
 <!ENTITY  locationBar.label             "स्थान पट्टी">
 
-<!ENTITY  privateBrowsingAutoStart.label "स्वतः &brandShortName; केँ निज ब्राउजिंग सत्र मे आरंभ  करू ">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; अहाँक ब्राउजिंग, डाउनलोड, फार्म, आओर खोज इतिहास केँ याद राखैतह आओर वेबसाइट सँ कुकीज जमा राखैतह जखन अहँ साइट पर जाइत अछि.">
 
@@ -49,9 +49,9 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "हमर ब्राउजिंग इतिहास केँ कम सँ कम एतबा दिवस तकि याद राखू">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "दिवस">
+
+
+
 
 <!ENTITY  rememberDownload.label         "डाउनलोड इतिहास याद राखू">
 <!ENTITY  rememberDownload.accesskey     "d">
@@ -100,6 +100,11 @@
 <!ENTITY  locbar.bookmarks.label        "पुस्तकचिह्न">
 <!ENTITY  locbar.nothing.label          "किछु नहि">
 
+<!ENTITY  privateBrowsingPermanent.label "स्थायी निजी ब्राउज़िंग विधि">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
+
+<!ENTITY  rememberHistory.label      "मेरे ब्राउज़िंग इतिहास याद रखें">
+<!ENTITY  rememberHistory.accesskey  "b">
 
 
 

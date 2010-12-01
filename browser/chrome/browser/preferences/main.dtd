@@ -5,8 +5,7 @@
 <!ENTITY startupHomePage.label     "हमर घर पृष्ठ देखाउ">
 <!ENTITY startupBlankPage.label    "एकटा खाली पृष्ठ देखाउ">
 <!ENTITY startupLastSession.label  "अंतिमबेर सँ हमर विंडो आओर टैब देखाउ">
-<!ENTITY location.label            "घर पृष्ठ:">
-<!ENTITY location.accesskey        "H">
+
 <!ENTITY useCurrentPage.label      " मोजुदा  पृष्ठक प्रयोग  करू ">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         " मोजुदा  पृष्ठक प्रयोग  करू ">
@@ -35,3 +34,5 @@
 <!ENTITY manageAddonsDescUnix2.label   "अपन सहयुक्तिक लेल वरीयता बदलू">
 <!ENTITY manageAddons.label            "सहयुक्ति प्रबंधित  करू …">
 <!ENTITY manageAddons.accesskey        "M">
+<!ENTITY homepage.label            "पहला पन्ना:">
+<!ENTITY homepage.accesskey        "P">

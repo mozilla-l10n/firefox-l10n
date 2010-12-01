@@ -18,3 +18,8 @@
 <!ENTITY  panePrivacy.title       "गोपनीयता">
 <!ENTITY  paneSecurity.title      "सुरक्षा">
 <!ENTITY  paneAdvanced.title      "उन्नत">
+
+
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "सिंक">
+
