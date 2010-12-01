@@ -1,31 +1,31 @@
-<!ENTITY addons.windowTitle                   "Administrador de agregados">
-<!ENTITY search.placeholder                   "Buscar todos los agregados">
+<!ENTITY addons.windowTitle                   "Administrador de complementos">
+<!ENTITY search.placeholder                   "Buscar todos los complementos">
 <!ENTITY loading.label                        "Cargando…">
-<!ENTITY listEmpty.installed.label            "No tiene instalado ningún agregado de este tipo">
+<!ENTITY listEmpty.installed.label            "No tiene instalado ningún complemento de este tipo">
 <!ENTITY listEmpty.availableUpdates.label     "No se encontraron actualizaciones">
-<!ENTITY listEmpty.recentUpdates.label        "No ha habido actualizaciones recientes de ningún agregado">
+<!ENTITY listEmpty.recentUpdates.label        "No ha habido actualizaciones recientes de ningún complemento">
 <!ENTITY listEmpty.findUpdates.label          "Buscar actualizaciones">
-<!ENTITY listEmpty.search.label               "No se pudo encontrar ningún agregado que coincida">
-<!ENTITY listEmpty.button.label               "Conocer más sobre agregadoss">
-<!ENTITY installAddonFromFile.label           "Instalar agregados desde archivo…">
+<!ENTITY listEmpty.search.label               "No se pudo encontrar ningún complemento que coincida">
+<!ENTITY listEmpty.button.label               "Conocer más sobre complementoss">
+<!ENTITY installAddonFromFile.label           "Instalar complementos desde archivo…">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Herramientas para todos los agregados">
+<!ENTITY toolsMenu.tooltip                    "Herramientas para todos los complementos">
 
 <!ENTITY cmd.back.tooltip                     "Retroceder una página">
 <!ENTITY cmd.forward.tooltip                  "Avanzar una página">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Todos los agregados fueron deshabilitados por el modo seguro.">
-<!ENTITY warning.checkcompatibility.label          "La verificación de compatibilidad de agregados está deshabilitada. Puede tener agregados incompatibles.">
+<!ENTITY warning.safemode.label                    "Todos los complementos fueron deshabilitados por el modo seguro.">
+<!ENTITY warning.checkcompatibility.label          "La verificación de compatibilidad de complementos está deshabilitada. Puede tener complementos incompatibles.">
 <!ENTITY warning.checkcompatibility.enable.label   "Habilitar">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Habilitar verificación de compatibilidad de agregados">
-<!ENTITY warning.updatesecurity.label              "La verificación de actualizaciones de seguridad de agregados está deshabilitada. Puede estar en peligro por las actualizaciones.">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Habilitar verificación de compatibilidad de complementos">
+<!ENTITY warning.updatesecurity.label              "La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puede estar en peligro por las actualizaciones.">
 <!ENTITY warning.updatesecurity.enable.label       "Habilitar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Habilitar la verificación de actualizaciones de seguridad">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Buscar">
-<!ENTITY view.discover.label                  "Obtener agregados">
+<!ENTITY view.discover.label                  "Obtener complementos">
 <!ENTITY view.locales.label                   "Idiomas">
 <!ENTITY view.searchengines.label             "Buscadores">
 <!ENTITY view.features.label                  "Extensiones">
@@ -39,15 +39,15 @@
 <!ENTITY updates.checkForUpdates.accesskey    "c">
 <!ENTITY updates.viewUpdates.label            "Ver actualizaciones recientes">
 <!ENTITY updates.viewUpdates.accesskey        "V">
-<!ENTITY updates.updateAddonsAutomatically.label     "Actualizar agregados automáticamente">
+<!ENTITY updates.updateAddonsAutomatically.label     "Actualizar complementos automáticamente">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reiniciar todos los agregados a actualización automática">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reiniciar todos los complementos a actualización automática">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reiniciar todos los agregados a actualización manual">
+<!ENTITY updates.resetUpdatesToManual.label          "Reiniciar todos los complementos a actualización manual">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
-<!ENTITY updates.updating.label               "Actualizando agregados">
-<!ENTITY updates.installed.label              "Sus agregados han sido actualizados.">
-<!ENTITY updates.downloaded.label             "Sus actualizaciones a los agregados han sido bajadas.">
+<!ENTITY updates.updating.label               "Actualizando complementos">
+<!ENTITY updates.installed.label              "Sus complementos han sido actualizados.">
+<!ENTITY updates.downloaded.label             "Sus actualizaciones a los complementos han sido bajadas.">
 <!ENTITY updates.restart.label                "Reiniciar ahora para completar la instalación">
 <!ENTITY updates.noneFound.label              "No se encontraron actualizaciones">
 <!ENTITY updates.manualUpdatesFound.label     "Ver actualizaciones disponibles">
@@ -79,12 +79,12 @@
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opciones">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar las opciones de este agregado">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar las opciones de este complemento">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Cambiar las preferencias de este agregado">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Cambiar las preferencias de este complemento">
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Contribuir al desarrollo de este agregado">
+<!ENTITY cmd.contribute.tooltip               "Contribuir al desarrollo de este complemento">
 
 <!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de la versión">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar las notas de la versión para esta actualización">
@@ -94,9 +94,9 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "Qué son los agregados?">
-<!ENTITY discover.description2                "Los agregados son aplicaciones que permiten personalizar &brandShortName; con funcionalidad extra o estilo. Pruebe una barra lateral que ahorre tiempo, una notificador de clima o un tema visual para que &brandShortName; sea suyo.">
-<!ENTITY discover.footer                      "Cuando se conecte a Internet, esta vista mostrará algunos de los mejores y más populares agregados para que los ponga a prueba.">
+<!ENTITY discover.title                       "Qué son los complementos?">
+<!ENTITY discover.description2                "Los complementos son aplicaciones que permiten personalizar &brandShortName; con funcionalidad extra o estilo. Pruebe una barra lateral que ahorre tiempo, una notificador de clima o un tema visual para que &brandShortName; sea suyo.">
+<!ENTITY discover.footer                      "Cuando se conecte a Internet, esta vista mostrará algunos de los mejores y más populares complementos para que los ponga a prueba.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versión">
@@ -105,7 +105,7 @@
 <!ENTITY detail.homepage.label                "Sitio web">
 <!ENTITY detail.numberOfDownloads.label       "Descargas">
 
-<!ENTITY detail.contributions.description     "El programador de este agregado pide que lo ayuden a soportar su desarrollo continuo a través de un pequeño aporte.">
+<!ENTITY detail.contributions.description     "El programador de este complemento pide que lo ayuden a soportar su desarrollo continuo a través de un pequeño aporte.">
 
 <!ENTITY detail.updateType                    "Actualización automática">
 <!ENTITY detail.updateDefault.label           "Predeterminadas">
@@ -115,18 +115,18 @@
 <!ENTITY detail.updateManual.label            "No">
 <!ENTITY detail.updateManual.tooltip          "No instalar actualizaciones automáticamente">
 <!ENTITY detail.home                          "Sitio web">
-<!ENTITY detail.repository                    "Perfil del agregado">
+<!ENTITY detail.repository                    "Perfil del complemento">
 <!ENTITY detail.size                          "Tamaño">
 
 <!ENTITY detail.checkForUpdates.label         "Buscar actualizaciones">
 <!ENTITY detail.checkForUpdates.accesskey     "B">
-<!ENTITY detail.checkForUpdates.tooltip       "Buscar actualizaciones para este agregado">
+<!ENTITY detail.checkForUpdates.tooltip       "Buscar actualizaciones para este complemento">
 <!ENTITY detail.showPreferencesWin.label      "Opciones">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Cambiar las opciones para este agregado">
+<!ENTITY detail.showPreferencesWin.tooltip    "Cambiar las opciones para este complemento">
 <!ENTITY detail.showPreferencesUnix.label     "Preferencias">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Cambiar las preferencias para este agregado">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Cambiar las preferencias para este complemento">
 
 
 <!-- ratings -->
@@ -148,14 +148,14 @@
 <!ENTITY sort.price.tooltip                   "Ordenar por precio">
 
 <!ENTITY search.filter2.label                 "Buscar:">
-<!ENTITY search.filter2.installed.label       "Mis agregados">
-<!ENTITY search.filter2.installed.tooltip     "Mostrar agregados instalados">
-<!ENTITY search.filter2.available.label       "Agregados disponibles">
-<!ENTITY search.filter2.available.tooltip     "Mostrar agregados disponibles para instalar">
+<!ENTITY search.filter2.installed.label       "Mis complementos">
+<!ENTITY search.filter2.installed.tooltip     "Mostrar complementos instalados">
+<!ENTITY search.filter2.available.label       "Complementos disponibles">
+<!ENTITY search.filter2.available.tooltip     "Mostrar complementos disponibles para instalar">
 
 <!ENTITY addon.homepage                       "Sitio web">
 <!ENTITY addon.details.label                  "Más">
-<!ENTITY addon.details.tooltip                "Mostrar más detalles sobre este agregado">
+<!ENTITY addon.details.tooltip                "Mostrar más detalles sobre este complemento">
 <!ENTITY addon.unknownDate                    "Desconocida">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
@@ -169,12 +169,12 @@
 <!ENTITY addon.undoAction.label               "Deshacer">
 <!ENTITY addon.undoAction.tooltip             "Deshacer esta acción">
 <!ENTITY addon.undoRemove.label               "Deshacer">
-<!ENTITY addon.undoRemove.tooltip             "Mantener este agregado instalado">
+<!ENTITY addon.undoRemove.tooltip             "Mantener este complemento instalado">
 <!ENTITY addon.restartNow.label               "Reiniciar ahora">
 <!ENTITY addon.install.label                  "Instalar">
-<!ENTITY addon.install.tooltip                "Instalar este agregadoo">
+<!ENTITY addon.install.tooltip                "Instalar este complemento">
 <!ENTITY addon.updateNow.label                "Actualizar ahora">
-<!ENTITY addon.updateNow.tooltip              "Instalar la actualización para este agregadoo">
+<!ENTITY addon.updateNow.tooltip              "Instalar la actualización para este complemento">
 <!ENTITY addon.includeUpdate.label            "Incluir en la actualización">
 <!ENTITY addon.updateAvailable.label          "Hay una actualización disponible">
 <!ENTITY addon.checkingForUpdates.label       "Buscar actualizaciones…">
