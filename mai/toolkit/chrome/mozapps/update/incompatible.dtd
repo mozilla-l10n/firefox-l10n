@@ -1,9 +1,0 @@
-
-<!ENTITY  incompatible.title        "गैर सुसंगत मद">
-<!ENTITY  incompatible.intro        "निम्न मद सुसंगत नहि अछि &brandShortName; मे अद्यतन क सँग आओर निष्क्रिय कएल जएताह जखन ई संस्थापित अछि:">
-<!ENTITY  incompatible.update       "&brandShortName; उनमें अद्यतन  कलेल  जांचेगा उस स्थिति मे जखन सुसंगत संस्करण उपलब्ध  हाएत  अछि.">
-<!ENTITY  incompatible.suffix       "&brandShortName; महत्वपूर्ण सुरक्षा तरक्की समाहित करैत अछि. अहाँक रक्षार्थ, ई अनुशंसित अछि जे अहँ &brandShortName; क अद्यतन करू जहांतक जे अहाँक विस्तार आओरछलम गैर सुसंगत बन जाएत अछि.">
-                                     
-<!ENTITY  closebutton.label         "बन्न  करू ">
-                                     
-                                     
