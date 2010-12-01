@@ -46,6 +46,6 @@ in vas opozoril, ko bodo na voljo.">
 <!ENTITY installerrors.intro.label "&brandShortName; ima težave pri posodabljanju nekaterih razširitev in tem.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY clickFinish.label "Kliknite gumb Dokončaj, če želite, da &brandShortName; nadaljuje z zagonom.">
-<!ENTITY clickFinish.labelMac "Kliknite gumb Dokončaj za nadaljevanje zagona &brandShortName;a.">
+<!ENTITY clickFinish.label "Kliknite gumb Končaj, če želite, da &brandShortName; nadaljuje z zagonom.">
+<!ENTITY clickFinish.labelMac "Kliknite gumb Končaj za nadaljevanje zagona &brandShortName;a.">
 <!ENTITY enableChecking.label "Dovoli &brandShortName;u, da preverja za posodobitve.">

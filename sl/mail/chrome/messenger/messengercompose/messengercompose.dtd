@@ -130,7 +130,7 @@
 <!ENTITY dsnMenu.accesskey "O">
 <!ENTITY outputFormatMenu.label "Oblikovanje">
 <!ENTITY outputFormatMenu.accesskey "O">
-<!ENTITY autoFormatCmd.label "Samozaznaj">
+<!ENTITY autoFormatCmd.label "Samodejno zaznaj">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Le golo besedilo">
 <!ENTITY plainTextFormatCmd.accesskey "V">

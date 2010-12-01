@@ -107,5 +107,5 @@
 <!ENTITY deferStorageDesc.label "Zbrišite kljuko v tem polju, če želite pošto za ta račun shranjevati v svojem lastnem imeniku. Tako bo ta račun prikazan kot račun na najvišji ravni. Drugače bo del računa Lokalne mape Globalno Vhodni predal">
 <!ENTITY deferStorage.label "Uporabljajo globalni vhodni predal (pošto shranjuj v lokalne mape)">
 <!ENTITY deferStorage.accesskey "o">
-<!ENTITY clickFinish.label "S klikom na Dokončaj shranite nastavitve in zaprite čarovnika za račun.">
-<!ENTITY clickFinish.labelMac "S klikom na Končano shranite te nastavitve in zaprite čarovnika za račun.">
+<!ENTITY clickFinish.label "S klikom na Končaj shranite nastavitve in zaprite čarovnika za račun.">
+<!ENTITY clickFinish.labelMac "S klikom na Končaj shranite nastavitve in zaprite čarovnika za račun.">

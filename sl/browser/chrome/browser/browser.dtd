@@ -46,19 +46,19 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nov zavihek">
 <!ENTITY tabCmd.accesskey "Z">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Odpri mesto ...">
+<!ENTITY openLocationCmd.label "Odpri mesto …">
 <!ENTITY openLocationCmd.accesskey "M">
-<!ENTITY openFileCmd.label "Odpri datoteko ...">
+<!ENTITY openFileCmd.label "Odpri datoteko …">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Priprava strani ...">
+<!ENTITY printSetupCmd.label "Priprava strani …">
 <!ENTITY printSetupCmd.accesskey "r">
 <!ENTITY printPreviewCmd.label "Predogled tiskanja">
 <!ENTITY printPreviewCmd.accesskey "d">
-<!ENTITY printCmd.label "Natisni ...">
+<!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Uvozi ...">
+<!ENTITY import.label "Uvozi …">
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Nepovezan način">
@@ -66,9 +66,9 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Vrstica z menijem">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Orodna vrstica brskanja">
-<!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Orodna vrstica zaznamkov">
+<!ENTITY navbarCmd.label "Vrstica za brskanje">
+<!ENTITY navbarCmd.accesskey "b">
+<!ENTITY personalbarCmd.label "Vrstica zaznamkov">
 <!ENTITY personalbarCmd.accesskey "Z">
 <!ENTITY bookmarksToolbarItem.label "Predmeti orodne vrstice z zaznamki">
 <!ENTITY addonBarCmd.label "Vrstica z dodatki">
@@ -102,10 +102,10 @@ can reach it easily. -->
 <!ENTITY bookmarkThisPageCmd.label "Dodaj stran med zaznamke">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Naroči se na to stran">
-<!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran ...">
-<!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke ...">
-<!ENTITY showAllBookmarks.label "Prikaži vse zaznamke…">
-<!ENTITY bookmarkAllCmd.label "Dodaj vse zavihke med zaznamke ...">
+<!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran …">
+<!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke …">
+<!ENTITY showAllBookmarks.label "Prikaži vse zaznamke …">
+<!ENTITY bookmarkAllCmd.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
 
 <!ENTITY backCmd.label "Nazaj">
@@ -167,7 +167,7 @@ can reach it easily. -->
 <!ENTITY toolsMenu.label "Orodja">
 <!ENTITY toolsMenu.accesskey "R">
 
-<!ENTITY keywordfield.label "Dodaj ključno besedo k iskanju ...">
+<!ENTITY keywordfield.label "Dodaj ključno besedo k iskanju …">
 <!ENTITY keywordfield.accesskey "K">
 <!ENTITY search.label "Spletno iskanje">
 <!ENTITY search.accesskey "O">
@@ -217,7 +217,7 @@ can reach it easily. -->
 
 <!ENTITY editMenu.label "Urejanje">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Razveljavi ...">
+<!ENTITY undoCmd.label "Razveljavi …">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "Z">
 <!ENTITY redoCmd.label "Ponovi">
@@ -238,7 +238,7 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "V">
-<!ENTITY preferencesCmd.label "Možnosti ...">
+<!ENTITY preferencesCmd.label "Možnosti …">
 <!ENTITY preferencesCmd.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey "n">
@@ -261,7 +261,7 @@ can reach it easily. -->
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY viewSidebarMenu.label "Stranska vrstica">
 <!ENTITY viewSidebarMenu.accesskey "v">
-<!ENTITY viewCustomizeToolbar.label "Po meri ...">
+<!ENTITY viewCustomizeToolbar.label "Po meri …">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
 <!ENTITY viewTabsOnTop.label            "Zavihki na vrhu">
 <!ENTITY viewTabsOnTop.accesskey        "Z">
@@ -363,33 +363,33 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey "M">
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj okvir med zaznamke">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY sendPageCmd.label "Pošlji stran ...">
+<!ENTITY sendPageCmd.label "Pošlji stran …">
 <!ENTITY sendPageCmd.accesskey "s">
-<!ENTITY savePageCmd.label "Shrani stran kot ...">
+<!ENTITY savePageCmd.label "Shrani stran kot …">
 <!ENTITY savePageCmd.accesskey "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2 "s">
 <!ENTITY savePageCmd.commandkey "s">
-<!ENTITY saveFrameCmd.label "Shrani okvir kot ...">
+<!ENTITY saveFrameCmd.label "Shrani okvir kot …">
 <!ENTITY saveFrameCmd.accesskey "T">
-<!ENTITY printFrameCmd.label "Natisni okvir ...">
+<!ENTITY printFrameCmd.label "Natisni okvir …">
 <!ENTITY printFrameCmd.accesskey "N">
-<!ENTITY saveLinkCmd.label "Shrani povezavo kot ...">
+<!ENTITY saveLinkCmd.label "Shrani povezavo kot …">
 <!ENTITY saveLinkCmd.accesskey "k">
-<!ENTITY sendLinkCmd.label "Pošlji povezavo ...">
+<!ENTITY sendLinkCmd.label "Pošlji povezavo …">
 <!ENTITY sendLinkCmd.accesskey "v">
-<!ENTITY saveImageCmd.label "Shrani sliko kot ...">
+<!ENTITY saveImageCmd.label "Shrani sliko kot …">
 <!ENTITY saveImageCmd.accesskey "s">
-<!ENTITY saveVideoCmd.label           "Shrani video kot ...">
+<!ENTITY saveVideoCmd.label           "Shrani video kot …">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Shrani zvok kot ...">
+<!ENTITY saveAudioCmd.label           "Shrani zvok kot …">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label "Pošlji sliko ...">
+<!ENTITY sendImageCmd.label "Pošlji sliko …">
 <!ENTITY sendImageCmd.accesskey "k">
 <!ENTITY sendImageCmd.accesskey       "l">
-<!ENTITY sendVideoCmd.label           "Pošlji video ...">
+<!ENTITY sendVideoCmd.label           "Pošlji video …">
 <!ENTITY sendVideoCmd.accesskey       "o">
-<!ENTITY sendAudioCmd.label           "Pošlji zvok ...">
+<!ENTITY sendAudioCmd.label           "Pošlji zvok …">
 <!ENTITY sendAudioCmd.accesskey       "o">
 <!ENTITY copyLinkCmd.label "Kopiraj mesto povezave">
 <!ENTITY copyLinkCmd.accesskey "i">
@@ -448,7 +448,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label "Povečaj le besedilo">
 <!ENTITY fullZoomToggleCmd.accesskey "B">
-<!ENTITY fullZoom.label "Povečevanje">
+<!ENTITY fullZoom.label "Povečava">
 <!ENTITY fullZoom.accesskey "P">
 
 <!ENTITY newTabButton.tooltip           "Odpri nov zavihek">
@@ -491,8 +491,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Uredi nastavitve zavračanja nezahtevanih oken ...">
-<!ENTITY editPopupSettings.label "Uredi možnosti zavračanja nezahtevanih oken ...">
+<!ENTITY editPopupSettingsUnix.label "Uredi nastavitve zavračanja nezahtevanih oken …">
+<!ENTITY editPopupSettings.label "Uredi možnosti zavračanja nezahtevanih oken …">
 <!ENTITY editPopupSettings.accesskey "U">
 <!ENTITY dontShowMessage.accesskey "N">
 
@@ -502,7 +502,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "b">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
-<!ENTITY findOnCmd.label "Najdi na tej strani ...">
+<!ENTITY findOnCmd.label "Najdi na tej strani …">
 <!ENTITY findOnCmd.accesskey "D">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "Ponovno najdi">
@@ -510,7 +510,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "Dodaj slovarje ...">
+<!ENTITY spellAddDictionaries.label "Dodaj slovarje …">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label "Shrani">
@@ -532,7 +532,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "ki jo poganja">
 
-<!ENTITY identity.moreInfoLinkText "Več podatkov ...">
+<!ENTITY identity.moreInfoLinkText "Več podatkov …">
 
 <!ENTITY downloadMonitor2.tooltip "Kliknite za odpiranje okna prenosov">
 
@@ -544,9 +544,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Zavihki ostalih računalnikov">
 
-<!ENTITY syncBrand.shortName.label  "Sinhroniziraj">
+<!ENTITY syncBrand.shortName.label  "Sinhronizacija">
 
-<!ENTITY syncSetup.label              "Nastavi &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "i">
 <!ENTITY syncSyncNowItem.label        "Sinhroniziraj zdaj">
 <!ENTITY syncSyncNowItem.accesskey    "j">
