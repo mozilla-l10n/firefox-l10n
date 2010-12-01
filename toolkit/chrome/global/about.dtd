@@ -1,19 +1,27 @@
-<!ENTITY about.version                "వర్షన్">
+<!ENTITY about.version                "version">
 
-<!ENTITY about.copy.beforeLink        "కాపీరైట్ &copy; 1998-2008">
-<!ENTITY about.copy.linkTitle         "సహయకులు">
-<!ENTITY about.copy.afterLink         "ద్వారా మొజిల్లా ప్రాజక్టుకు.">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "జాబితా చూడండి ">
+<!ENTITY about.credits.linkTitle      "సహాయకులు ">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      "మొజిల్లా ప్రోజెక్టునకు.">
 
-<!ENTITY about.license.beforeLink     "ఈ వ్యుత్పత్తి">
-<!ENTITY about.license.linkTitle      "లైసెన్సింగ్ సమాచారం">
-<!ENTITY about.license.afterLink      "ను చదవండి.">
+<!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.license.beforeTheLink  "చదువండి">
+<!ENTITY about.license.linkTitle      "లైసెన్సింగ్ సమాచారమును">
+<!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.license.afterTheLink   " ఈ వుత్పత్తి కొరకు.">
 
-<!ENTITY about.relnotes.beforeLink    "ఈ వర్షన్">
-<!ENTITY about.relnotes.linkTitle     "విడుదల నోట్స్">
-<!ENTITY about.relnotes.afterLink     "ను చదవండి.">
+<!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.relnotes.beforeTheLink "చదువండి ">
+<!ENTITY about.relnotes.linkTitle     "విడుదల నోడ్సును">
+<!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.relnotes.afterTheLink  " ఈ రూపాంతరమునకు.">
 
-<!ENTITY about.buildconfig.beforeLink "ఈ వర్షన్‌కు వుపయోగించిన">
-<!ENTITY about.buildconfig.linkTitle  "బుల్డ్ ఆకృతీకరణ">
-<!ENTITY about.buildconfig.afterLink  "ను చూడండి.">
+<!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.buildconfig.beforeTheLink "చూడండి ">
+<!ENTITY about.buildconfig.linkTitle     "నిర్మాణ ఆకృతీకరణను">
+<!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink  " యీ రూపాంతరమునకు వుపయోగించినది.">
 
-<!ENTITY about.buildIdentifier        "బుల్డ్ ఐడెంటిఫైర్: ">
+<!ENTITY about.buildIdentifier        "నిర్మాణ ఐడెంటిఫైర్: ">

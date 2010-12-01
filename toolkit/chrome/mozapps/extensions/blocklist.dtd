@@ -1,10 +1,12 @@
-<!ENTITY blocklist.title             "Add-ons may be causing problems">
+<!ENTITY blocklist.title             "ఏడ్-ఆన్స్ బహుశా సమస్యలకు కారణం కావచ్చును">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
-<!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
-<!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
-<!ENTITY blocklist.moreinfo          "More information">
+<!ENTITY blocklist.summary           "&brandShortName; కింది యాడ్-ఆన్స్ స్థిరత్వమునకు లేదా రక్షణకు సంభందించిన సమస్యలను కలిగించునని నిర్థారించెను:">
+<!ENTITY blocklist.softblocked       "మీ రక్షణ కొరకు, యీ యాడ్-ఆన్సును అచేతనపరచి మీరు మరలా పునఃప్రారంభించమని గట్టిగా సిఫార్సు చేయడమైంది.">
+<!ENTITY blocklist.hardblocked       "ఈ యాడ్-ఆన్స్ స్థిరత్వం లేదా రక్షణ సమస్యలను కలిగించు అధిక యిబ్బందిని కలిగివున్నాయి మరియు నిషేధించబడినవి, వాటిని పూర్తిగా అచేతనము చేయుటకు పునఃప్రారంభము అవసరము.">
+<!ENTITY blocklist.softandhard       " స్థిరత్వం లేదా రక్షణ సమస్యలను కలిగించు అధిక యిబ్బంది కలిగివున్న యాడ్-ఆన్స్ నిషేధించబడినవి. మిగతావి తక్కువ యిబ్బంది కలవి, అయితే మీరు వాటిని అచేతనపరచి పునఃప్రారంభుట మంచిదని గట్టిగా సిఫార్సు చేయడమైంది.">
+<!ENTITY blocklist.moreinfo          "అధిక సమాచారము">
 
-<!ENTITY blocklist.accept.label      "Restart &brandShortName;">
+<!ENTITY blocklist.accept.label      "&brandShortName; పునఃప్రారంభించు">
 <!ENTITY blocklist.accept.accesskey  "R">
+<!ENTITY blocklist.blocked.label     "నిషేధించిన">
+<!ENTITY blocklist.checkbox.label    "అచేతనమైన">

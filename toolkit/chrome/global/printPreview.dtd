@@ -68,5 +68,7 @@
 
 <!ENTITY homearrow.tooltip    "మొదటి  పేజీ">
 <!ENTITY endarrow.tooltip     "చివరి పేజీ">
-<!ENTITY rightarrow.tooltip   "తర్వాతి  పేజీ">
-<!ENTITY leftarrow.tooltip    "ముందలి  పేజీ">
+
+<!ENTITY nextarrow.tooltip    "తరువాతి పేజీ">
+<!ENTITY previousarrow.tooltip "క్రితం పేజీ">
+
