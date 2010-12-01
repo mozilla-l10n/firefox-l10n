@@ -79,7 +79,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abbonati a questa pagina…">
 <!ENTITY addCurPagesCmd.label "Tutte le schede nei segnalibri…">
-<!ENTITY showAllBookmarks.label "Visualizza tutti i segnalibri…">
+<!ENTITY showAllBookmarks2.label "Visualizza tutti i segnalibri">
 <!ENTITY bookmarkAllCmd.label "Tutte le schede nei segnalibri…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visualizza altri segnalibri">
 <!ENTITY backCmd.label "Indietro">
@@ -188,8 +188,8 @@
 <!ENTITY selectAllCmd.label "Seleziona tutto">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
-<!ENTITY preferencesCmd.label "Opzioni…">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmd2.label "Opzioni">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferenze">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistory.label "Cancella la cronologia recente…">

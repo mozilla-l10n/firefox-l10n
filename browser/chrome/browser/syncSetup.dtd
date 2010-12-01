@@ -31,8 +31,6 @@
 <!ENTITY syncKeyEntry.label "Chiave Sync">
 <!ENTITY syncKeyEntry.accesskey "C">
 <!ENTITY syncKeyGenerate.label "Genera">
-<!ENTITY syncKeyStrength.label "Robustezza:">
-<!ENTITY syncKeyHelp.label "Che cosa significa questo valore?">
 <!ENTITY syncKeyBackup.description "La Chiave Sync è indispensabile per accedere a &syncBrand.fullName.label; da altri computer. Si consiglia di crearne una copia di sicurezza in quanto non è possibile recuperarla in caso di smarrimento.">
 <!ENTITY button.syncKeyBackup.print.label "Stampa…">
 <!ENTITY button.syncKeyBackup.print.accesskey "m">
