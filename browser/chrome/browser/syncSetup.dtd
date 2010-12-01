@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label "Klíč">
 <!ENTITY syncKeyEntry.accesskey "K">
 <!ENTITY syncKeyGenerate.label "Vygenerovat">
-<!ENTITY syncKeyStrength.label "Síla:">
-<!ENTITY syncKeyHelp.label "Co znamená síla klíče?">
 <!ENTITY syncKeyBackup.description "Tento klíč je vyžadován k přístupu k &syncBrand.fullName.label; z ostatních zařízení. Vytvořte si prosím zálohu, neboť tento klíč není možné obnovit.">
 
 <!ENTITY button.syncKeyBackup.print.label "Tisk…">
