@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Naroči se na to stran">
 <!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran …">
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke …">
-<!ENTITY showAllBookmarks.label "Prikaži vse zaznamke …">
+<!ENTITY showAllBookmarks2.label "Prikaži vse zaznamke">
 <!ENTITY bookmarkAllCmd.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
 
@@ -238,8 +238,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "V">
-<!ENTITY preferencesCmd.label "Možnosti …">
-<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY preferencesCmd2.label       "Možnosti">
+<!ENTITY preferencesCmd2.accesskey     "o">
 <!ENTITY preferencesCmdUnix.label "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
@@ -292,6 +292,7 @@ can reach it easily. -->
 <!ENTITY urlbar.placeholder           "Obiščite spletno stran">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Zamenjaj na zavihek:">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -299,9 +300,9 @@ can reach it easily. -->
   
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -310,10 +311,7 @@ can reach it easily. -->
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-  
  -->
-
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocusUnix.commandkey "j">
 
@@ -336,6 +334,8 @@ can reach it easily. -->
 <!ENTITY reloadFrameCmd.accesskey "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Pokaži izvorno kodo izbora">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Pokaži izvorno kodo MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "r">
 <!ENTITY viewPageSourceCmd.label "Pokaži izvorno kodo strani">
 <!ENTITY viewPageSourceCmd.accesskey "V">
@@ -385,7 +385,6 @@ can reach it easily. -->
 <!ENTITY saveAudioCmd.label           "Shrani zvok kot …">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label "Pošlji sliko …">
-<!ENTITY sendImageCmd.accesskey "k">
 <!ENTITY sendImageCmd.accesskey       "l">
 <!ENTITY sendVideoCmd.label           "Pošlji video …">
 <!ENTITY sendVideoCmd.accesskey       "o">
@@ -422,18 +421,17 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.label       "Celozaslonski način">
 <!ENTITY videoFullScreen.accesskey   "C">
 
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomEnlargeCmd.label "Povečaj">
 <!ENTITY fullZoomEnlargeCmd.accesskey "V">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label "Pomanjšaj">

@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "Vaš sinhronizacijski ključ">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Ustvari">
-<!ENTITY syncKeyStrength.label     "Mož:">
-<!ENTITY syncKeyHelp.label         "Kaj označuje moč?">
 <!ENTITY syncKeyBackup.description "Sinhronizacijski ključ je potreben za dostop do storitve &syncBrand.fullName.label; na drugih napravah. Ustvarite varnostno kopijo, saj vam ga ne moremo obnoviti.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Natisni…">
