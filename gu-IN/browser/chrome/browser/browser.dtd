@@ -147,8 +147,8 @@
 <!ENTITY selectAllCmd.label         "બધું પસંદ કરો">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "વિકલ્પો...">
-<!ENTITY preferencesCmd.accesskey     "O"> 
+
+
 <!ENTITY preferencesCmdUnix.label       "પસંદગીઓ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -482,7 +482,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  reloadAllTabs.label                "બધા ટૅબોને પુન:લોડ કરો">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadTab.label                    "ટૅબને પુન:લોડ કરો">
-<!ENTITY showAllBookmarks.label "બધા બુકમાર્કોને બતાવો…">
+
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY showAllTabsCmd.label "બધા ટૅબોને બતાવો">
 <!ENTITY syncBrand.shortName.label    "સુમેળ">
@@ -518,4 +518,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomControls.label             "નાનું મોટુ કરવા માટે નિયંત્રણો">
 <!ENTITY zoomInButton.tooltip           "મોટુ કરો">
 <!ENTITY zoomOutButton.tooltip          "નાનું કરો">
+<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.label       "વિકલ્પો">
+<!ENTITY showAllBookmarks2.label "બધી બુકમાર્કોને બતાવો">
 
