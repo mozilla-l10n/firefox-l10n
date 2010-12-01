@@ -93,7 +93,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Gerast áskrifandi að þessari síðu">
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
 <!ENTITY addCurPagesCmd.label "Setja flipa í bókamerki…">
-<!ENTITY showAllBookmarks.label "Sýna öll bókamerki…">
+<!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
 <!ENTITY bookmarkAllCmd.label "Setja flipa í bókamerki…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
 <!ENTITY backCmd.label "Til baka">
@@ -236,8 +236,8 @@ can reach it easily. -->
   
 <!ENTITY selectAllCmd.accesskey "j">
  
-<!ENTITY preferencesCmd.label "Valkostir…">
-<!ENTITY preferencesCmd.accesskey "V">
+<!ENTITY preferencesCmd2.label "Valkostir">
+<!ENTITY preferencesCmd2.accesskey "V">
  
 <!ENTITY preferencesCmdUnix.label "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey "V">
