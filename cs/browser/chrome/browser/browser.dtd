@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odebírat kanál této stránky…">
 <!ENTITY addCurPagesCmd.label "Přidat všechny panely do záložek…">
-<!ENTITY showAllBookmarks.label "Zobrazit všechny záložky…">
+<!ENTITY showAllBookmarks2.label "Zobrazit všechny záložky">
 <!ENTITY bookmarkAllCmd.label "Přidat všechny panely do záložek…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobrazí více záložek">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Možnosti…">
-<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY preferencesCmd2.label "Možnosti">
+<!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Předvolby">
 <!ENTITY preferencesCmdUnix.accesskey "v">
 
