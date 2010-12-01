@@ -18,7 +18,7 @@
 <!ENTITY helpForIEUsers.label     "Para usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Reiniciar con los agregados deshabilitados…">
+<!ENTITY helpSafeMode.label       "Reiniciar con los complementos deshabilitados…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Información para resolver problemas">

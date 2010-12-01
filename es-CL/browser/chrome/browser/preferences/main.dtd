@@ -30,8 +30,8 @@
 <!ENTITY alwaysAsk.label "Siempre preguntar donde guardar los archivos">
 <!ENTITY alwaysAsk.accesskey "a">
 
-<!ENTITY addonsMgr.label               "Agregados">
-<!ENTITY manageAddonsDescWin.label     "Cambiar opciones para sus agregados">
-<!ENTITY manageAddonsDescUnix2.label   "Cambiar preferencias para sus agregados">
-<!ENTITY manageAddons.label            "Administrar agregados…">
+<!ENTITY addonsMgr.label               "Complementos">
+<!ENTITY manageAddonsDescWin.label     "Cambiar opciones para sus complementos">
+<!ENTITY manageAddonsDescUnix2.label   "Cambiar preferencias para sus complementos">
+<!ENTITY manageAddons.label            "Administrar complementos…">
 <!ENTITY manageAddons.accesskey        "m">
