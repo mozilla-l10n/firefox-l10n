@@ -23,3 +23,14 @@
 <!ENTITY missingPlugin.label                                 "ప్లగ్ఇన్  డౌన్‌లోడు చేయుటకు ఇక్కడ నొక్కండి.">
 <!ENTITY disabledPlugin.label                                "ఈ  మాధ్యమ సమాచారం కొరకు  ప్లగ్ ఇన్  అచేతనం చేయబడింది. ప్లగ్ ఇన్ లను నిర్వహించుటకు ఇకకడ నొక్కండి.">
 <!ENTITY blockedPlugin.label                                 "ఈ ప్లగ్ ఇన్ మీ రక్షణకొరకు నిరోధించబడింది.">
+<!ENTITY reloadPlugin.middle                                 "పేజీను తిరిగి లోడ్ చేయుము">
+<!ENTITY reloadPlugin.post                                   " మరలా ప్రయత్నించుటకు.">
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY report.disabled                                     "క్రాష్ నివేదీకరణ అచేతనమైంది.">
+<!ENTITY report.failed                                       "అప్పగింత విఫలమైంది.">
+<!ENTITY report.please                                       "క్రాష్ నివేదిక పంపు">
+<!ENTITY report.submitted                                    "క్రాష్ నివేదిక పంపబడింది.">
+<!ENTITY report.submitting                                   "నివేదిక పంపుచున్నది…">
+<!ENTITY report.unavailable                                  "ఏ నివేదిక అందుబాటులోలేదు.">
+
+

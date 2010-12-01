@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "సాఫ్టువేరు  నవీకరణ">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
+
+
 
 <!ENTITY  checking.title                  "నవీకరణల  కొరకు  పరిశీలిస్తున్నది">
 <!ENTITY  updateCheck.label               "&brandShortName; ఇప్పుడు  నవీకరణల కొరకు  పరిశీలిస్తున్నది…">
@@ -34,7 +34,7 @@
 
 <!ENTITY  incompatibleList.title          " సరిపోని యాడ్  ఆన్ లు  కనబడినవి ">
 
-<!ENTITY  downloading.title               "నవీకరణను  డౌనులోడుచేస్తోంది">
+
 <!ENTITY  downloading.intro               "నవీకరణను  డౌనులోడుచేస్తోంది...">
 <!ENTITY  connecting.label                "నవీకరణ  సేవికకు  అనుసంధానించబడుతోంది...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; అది డౌనులోడు  చేసిన  పురోగమన నవీకరణ యొక్క  ఐక్యతను  నిర్దారించలేకపోతోంది,అందుకని అది యిప్పుడు  పూర్తి  నవీకరణ ప్యాకేజ్‌ను డౌనులోడుచేస్తోంది.">
@@ -46,7 +46,7 @@
                                            
 <!ENTITY  errorManual.label               "ఈ లింకు  దర్శించట మరియు  సరికొత్త వర్షన్ ను  డౌనులోడుచేయుట ద్వారా మీరు  &brandShortName;ను  మానవీయంగా  నవీకరించవచ్చు:">
                                            
-<!ENTITY  errorpatching.title             "నవీకరణ  విఫలమైంది">
+
 <!ENTITY  errorpatching.intro             "పరోక్ష  నవీకరణ  ఆపాదించబడదు. &brandShortName; పూర్తి  నవీకరణను  డౌనులోడుచేసి  తిరిగి  ప్రయత్నించాలి.">
 
 <!ENTITY  finishedBackground.name         "నవీకరణ:">
@@ -68,4 +68,10 @@
 <!ENTITY  update.details.label            "వివరాలు">
 <!ENTITY  update.installedOn.label        "సంస్థాపించబడింది:">
 <!ENTITY  update.status.label             "స్థితి:">
+<!ENTITY  downloadPage.title              "&brandShortName; డౌన్‌లోడ్ చేయుచున్నది">
+<!ENTITY  error.title                     "నవీకరణ విఫలమైంది">
+<!ENTITY  errorCertAttrHasUpdate.label    "సురక్షితంకాని నవీకరణను &brandShortName; చేత ఆమోదింపచేయుటకు యేదో ట్రిక్ ప్రయత్నిస్తోంది. దయచేసి మీ నెట్వర్కు వుత్పాదకుని సంప్రదించి సహాయం కోరండి.">
+<!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; సురక్షితంగా నవీకరించబడుటనుండి యేదో నిరోధిస్తోంది. మీరు &brandShortName; యొక్క సరికొత్త వర్షన్‌ను యిచట నుండి కలిగివుండునట్లు చూచుకొనుము:">
+<!ENTITY  genericBackgroundError.label    "నవీకరణ అందుబాటులో వుందో లేదో &brandShortName; నిర్థారించలేక పోవుచున్నది. మీరు &brandShortName; యొక్క సరికొత్త వర్షన్‌ను యిచట నుండి కలిగివుండునట్లు చూచుకొనుము:">
+<!ENTITY  manualUpdate.space.desc         "సిఫార్సు చేయబడిన రక్షణ మరియు స్థిరత్వపు నవీకరణ అందుబాటులో వుంది, అయితే దానిని సంస్థాపించుటకు మీ వద్ద సరిపోవునంత జాగాలేదు.">
 

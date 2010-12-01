@@ -45,6 +45,6 @@
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "&brandShortName;ను  కొనసాగించుటకు  ముగింపును నొక్కండి.">
 <!ENTITY  enableChecking.label            "నవీకరణలను కొరకు  పరిశీలించుటకు  &brandShortName;ను  అనుమతించండి.">
-<!ENTITY  details.label                   "వివరాలు...">
-<!ENTITY  details.accesskey               "D">
+
+
 <!ENTITY  clickFinish.labelMac            "&brandShortName; ప్రారంభం కొనసాగించుటకు అయినది నొక్కండి.">
