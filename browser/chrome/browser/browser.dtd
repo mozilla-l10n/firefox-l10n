@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
 <!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle...">
-<!ENTITY showAllBookmarks.label "Tüm yer imlerini göster...">
+<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
 <!ENTITY bookmarkAllCmd.label "Sekmeleri yer imlerine ekle…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T">
-<!ENTITY preferencesCmd.label "Seçenekler…">
-<!ENTITY preferencesCmd.accesskey "S">
+<!ENTITY preferencesCmd2.label "Options">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Tercihler">
 <!ENTITY preferencesCmdUnix.accesskey "T">
 
