@@ -43,8 +43,8 @@
 <!ENTITY syncKeyEntry.label        "आपकी सिंक कुंजी">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "उत्पन्न करें">
-<!ENTITY syncKeyStrength.label     "ताकत:">
-<!ENTITY syncKeyHelp.label         "ताकत से क्या मतलब है?">
+
+
 <!ENTITY syncKeyBackup.description "आपकी सिंक कुंजी दूसरे मशीन पर &syncBrand.fullName.label; की पहुँच के लिए जरूरी है. कृपया एक बैकअप कॉपी बनाएँ. हम आपकी सिंक कुंजी को वापस पाने आपकी मदद कर सकते हैं.">
 
 <!ENTITY button.syncKeyBackup.print.label     "छापें…">
