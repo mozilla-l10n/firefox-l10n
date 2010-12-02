@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "Su clave de sincronización">
 <!ENTITY syncKeyEntry.accesskey    "z">
 <!ENTITY syncKeyGenerate.label     "Generar">
-<!ENTITY syncKeyStrength.label     "Fortaleza:">
-<!ENTITY syncKeyHelp.label         "¿Qué significa fortaleza?">
 <!ENTITY syncKeyBackup.description "Se requiere su clave de sincronización para acceder a &syncBrand.fullName.label; en otras máquinas. Debe crear una copia de seguridad. No podemos ayudarlo a recuperar su clave de sincronización.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">

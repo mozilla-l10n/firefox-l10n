@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Marcar todas las pestañas…">
-<!ENTITY showAllBookmarks.label "Mostrar todos los marcadores…">
+<!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
 <!ENTITY bookmarkAllCmd.label "Marcar todas las pestañas…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
@@ -238,8 +238,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "a">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Opciones">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmd2.label       "Opciones">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
