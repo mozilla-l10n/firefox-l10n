@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "&brandShortName; फेर आरंभ  करू ">
 <!ENTITY blocklist.accept.accesskey  "R">
+
+<!ENTITY blocklist.blocked.label     "रोका हुआ">
+<!ENTITY blocklist.checkbox.label    "निष्क्रिय करें">
