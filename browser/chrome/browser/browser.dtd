@@ -134,7 +134,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Prenumerera på denna sida">
 <!ENTITY subscribeToPageMenuitem.label "Prenumerera på denna sida…">
 <!ENTITY addCurPagesCmd.label "Bokmärke för alla flikar…">
-<!ENTITY showAllBookmarks.label "Visa alla bokmärken…">
+<!ENTITY showAllBookmarks2.label "Visa alla bokmärken">
 <!ENTITY bookmarkAllCmd.label "Bokmärke för alla flikar…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visa fler bokmärken">
 
@@ -268,8 +268,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Markera allt">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "a"> 
-<!ENTITY preferencesCmd.label       "Inställningar…">
-<!ENTITY preferencesCmd.accesskey     "I"> 
+<!ENTITY preferencesCmd2.label       "Inställningar">
+<!ENTITY preferencesCmd2.accesskey     "I"> 
 <!ENTITY preferencesCmdUnix.label       "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
