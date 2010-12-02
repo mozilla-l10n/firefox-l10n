@@ -1,4 +1,0 @@
-<!ENTITY startDescriptionText.label "Un sitio ha intentado abrir una ventana emergente sin su permiso. &brandShortName; ha cerrado automáticamente dicha ventana.">
-<!ENTITY endDescription.label "Puede pinchar en este icono para ver los sitios que bloqueó &brandShortName; y permitir que esos sitios abran ventanas emergentes si se requieren para que el sitio funcione correctamente.">
-<!ENTITY caption.label "Acerca del bloqueo de ventanas emergentes">
-<!ENTITY done.label "Terminado">
