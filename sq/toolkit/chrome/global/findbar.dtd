@@ -9,8 +9,8 @@
 <!ENTITY previous.accesskey "m">
 <!ENTITY previous.tooltip "Gjej hasjen e mëparshme të togfjalëshit">
 <!ENTITY findCloseButton.tooltip "Mbyll shtyllë Gjetjesh">
-<!ENTITY highlight.label "Theksoje krejt">
+<!ENTITY highlight.label "Theksoji krejt">
 <!ENTITY highlight.accesskey "T">
-<!ENTITY highlight.tooltiptext "Thekso tërë hasjet e togfjalëshit">
+<!ENTITY highlight.tooltiptext "Thekso krejt hasjet e togfjalëshit">
 <!ENTITY caseSensitiveCheckbox.label "Siç është shkruajtur">
 <!ENTITY caseSensitiveCheckbox.accesskey "S">

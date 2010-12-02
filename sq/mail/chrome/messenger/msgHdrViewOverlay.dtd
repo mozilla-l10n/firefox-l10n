@@ -39,23 +39,23 @@
 <!ENTITY messageIdField2.label "id mesazhi">
 <!ENTITY otherActionsButton.label "veprime të tjera">
 <!ENTITY referencesField2.label "referenca ">
-<!ENTITY saveAsMenuItem.label "ruaje si…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "shihini burimin…">
-<!ENTITY viewSourceMenuItem.accesskey "b">
 <!ENTITY hdrReplyListButton.label "përgjigjuni te lista">
+<!ENTITY otherActionsOpenConversation.label "hape në bashkëbisedim">
+<!ENTITY otherActionsOpenConversation.accesskey "b">
 <!ENTITY otherActionsOpenInNewWindow.label "hape në dritare të re">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "d">
 <!ENTITY otherActionsOpenInNewTab.label "hape në skedë të re">
-<!ENTITY otherActionsOpenInNewTab.accesskey "s">
-<!ENTITY otherActionsPrint.label "shtype…">
-<!ENTITY otherActionsPrint.accesskey "y">
-<!ENTITY otherActionsOpenConversation.label "hape në bashkëbisedim">
-<!ENTITY otherActionsOpenConversation.accesskey "b">
+<!ENTITY otherActionsOpenInNewTab.accesskey "k">
 <!ENTITY markAsReadMenuItem.label "shënoje si të lexuar">
 <!ENTITY markAsReadMenuItem.accesskey "l">
 <!ENTITY markAsUnreadMenuItem.label "shënoje si të palexuar">
 <!ENTITY markAsUnreadMenuItem.accesskey "p">
+<!ENTITY saveAsMenuItem.label "ruajeni si…">
+<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "shihini burimin…">
+<!ENTITY viewSourceMenuItem.accesskey "u">
+<!ENTITY otherActionsPrint.label "shtypeni…">
+<!ENTITY otherActionsPrint.accesskey "y">
 <!ENTITY openAllAttachmentsCmd.label    "Hapini Krejt…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "H">
 <!ENTITY hdrViewToolbarShowFull.label "Shfaq Ikona dhe Tekst">
