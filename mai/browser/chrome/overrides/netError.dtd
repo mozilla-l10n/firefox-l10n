@@ -51,11 +51,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "आफ़लाइन विधि">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>&quot;Work Offline&quot; केँ फाइल  मेनू  मे अनचेक  करू , तब फेर कोशिश  करू .</li>
-</ul>
-">
+
 
 <!ENTITY contentEncodingError.title "अंतर्वस्तु ऐन्कोडिंग त्रुटि">
 <!ENTITY contentEncodingError.longDesc "
@@ -156,14 +152,36 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "एतय सँ हमरा बाहर ले जाउ!">
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोड़ू…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>आपको अपवाद नहि जोड़नाइइ चाही  जँ  अहँ एकटा इंटरनेट कनेक्शन प्रयोग कए रहे छी जिसपर अहँ पूरी तरह भरोसा नहि करते छी अथवा  जँ  अहँ एहि सर्वर क लेल चेतावनी देखब क लेल अभ्यस्त नहि अछि.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">
+
+
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+</ul>
+">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
