@@ -102,7 +102,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label          "Selle veebilehe uudisvoo tellimine">
 <!ENTITY subscribeToPageMenuitem.label           "Telli selle veebilehe uudisvoog...">
 <!ENTITY addCurPagesCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
-<!ENTITY showAllBookmarks.label                  "Kuva kõiki järjehoidjaid...">
+<!ENTITY showAllBookmarks2.label                 "Kuva kõiki järjehoidjaid">
 <!ENTITY bookmarkAllCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
 <!ENTITY bookmarksToolbarChevron.tooltip         "Veel järjehoidjaid">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label                      "Vali kõik">
 <!ENTITY selectAllCmd.key                        "A">
 <!ENTITY selectAllCmd.accesskey                  "i">
-<!ENTITY preferencesCmd.label                    "Sätted...">
-<!ENTITY preferencesCmd.accesskey                "S">
+<!ENTITY preferencesCmd2.label                   "Sätted">
+<!ENTITY preferencesCmd2.accesskey               "S">
 <!ENTITY preferencesCmdUnix.label                "Eelistused">
 <!ENTITY preferencesCmdUnix.accesskey            "E">
 

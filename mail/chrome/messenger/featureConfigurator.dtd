@@ -18,7 +18,7 @@
 <!ENTITY featureConfigurator.toolbar.original                    "Kasutatakse algset tööriistariba.">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Säilitatakse kõik kohandatud tööriistariba nupud.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para                "Tegevused nagu vasta ja edasta on liigutatud tööriistaribalt kirja vaatesse. See seob tegevuse nupud otse kirjaga ning jätab tööriistaribal rohkem ruumi otsingukastile ja lisadele.">
+<!ENTITY featureConfigurator.toolbarBenefits.para                "Sellised tegevused nagu vastamine ja edastamine on liigutatud tööriistaribalt kirja vaatesse. See seob tegevuse nupud otse kirjaga ning jätab tööriistaribal rohkem ruumi otsingukastile ja lisadele.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing                    "Paigaldamine…">
