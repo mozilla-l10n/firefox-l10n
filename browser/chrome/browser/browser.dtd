@@ -138,8 +138,8 @@
 <!ENTITY selectAllCmd.label "എല്ലാം തെരഞ്ഞെടുക്കുക">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY preferencesCmd.label "ഐച്ഛികങ്ങള്‍...">
-<!ENTITY preferencesCmd.accesskey "O">
+<!-- ENTITY preferencesCmd.label "ഐച്ഛികങ്ങള്‍..." -->
+<!-- ENTITY preferencesCmd.accesskey "O" -->
 <!ENTITY preferencesCmdUnix.label "മുന്‍ഗണനകള്‍">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!-- ENTITY clearPrivateDataCmd.label "സ്വകാര്യ വിവരങ്ങള്‍ മായ്ക്കുക" -->
@@ -485,7 +485,7 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "എല്ലാ റ്റാബുകളും വീണ്ടും ലഭ്യമാക്കുക">
 <!ENTITY  reloadAllTabs.accesskey            "A">
-<!ENTITY showAllBookmarks.label "എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക…">
+<!-- ENTITY showAllBookmarks.label "എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക…" -->
 <!ENTITY syncBrand.shortName.label    "സിന്‍ക്">
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; സജ്ജമാക്കുക…">
 <!ENTITY syncSetup.accesskey          "Y">
@@ -519,3 +519,7 @@
 <!ENTITY zoomOutButton.tooltip          "ചെറുതാക്കുക">
 <!ENTITY zoomInButton.tooltip           "വലുതാക്കുക">
 <!ENTITY zoomControls.label             "കണ്ട്രോളുകള്‍">
+
+<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.label       "ഐച്ഛികങ്ങള്‍">
+<!ENTITY showAllBookmarks2.label "എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക">
