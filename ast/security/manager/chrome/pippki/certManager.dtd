@@ -44,7 +44,7 @@
 <!ENTITY certmgr.tab.orphan2                  "Otros">
 
 <!ENTITY certmgr.ca.builtins                  "CAs integraes">
-<!ENTITY certmgr.ca.mycas                     "CAs xestionaes por vusté">
+<!ENTITY certmgr.ca.mycas                     "CAs xestionaes por ti">
 
 <!ENTITY certmgr.mine                         "Tienes certificaos d'estes organizaciones que t'identifiquen:">
 <!ENTITY certmgr.others                       "Tienes certificaos archivaos qu'identifiquen a estes persones:">
@@ -62,7 +62,7 @@
 <!ENTITY certmgr.issuerinfo.label             "Emitíu por">
 <!ENTITY certmgr.validity.label               "Validez" >
 <!ENTITY certmgr.fingerprints.label           "Buelgues dixitales">
-<!ENTITY certmgr.certdetail.title             "Detái del certificáu">
+<!ENTITY certmgr.certdetail.title             "Detalle del certificáu">
 <!ENTITY certmgr.certdetail.cn                "Nome común (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organización (O)">
 <!ENTITY certmgr.certdetail.ou                "Unidá organizativa (OU)">
@@ -82,15 +82,15 @@
 <!ENTITY certmgr.editsslcert.donttrust        "Nun enfotar na autenticidá d'esti certificáu.">
 <!ENTITY certmgr.editemailcert.title          "Iguar la configuración de confianza en certificaos de corréu ellectrónicu">
 <!ENTITY certmgr.editemailcert.edittrust      "Iguar la configuración d'enfotu en certificaos:">
-<!ENTITY certmgr.editemailcert.dotrust        "Enfotar na autenticidad d'esti certificáu">
+<!ENTITY certmgr.editemailcert.dotrust        "Tener enfotu n'autenticidá d'esti certificáu">
 <!ENTITY certmgr.editemailcert.donttrust      "Nun enfotar n'autenticidá d'esti certificáu.">
 
 <!ENTITY certmgr.deletecert.title             "Desaniciar certificáu">
-<!ENTITY certmgr.deletecert.beforename        "Pidió desaniciar esti certificáu:">
-<!ENTITY certmgr.deletecert.aftername         "¿Daveres quier desaniciar esti certificáu?">
-<!ENTITY certmgr.deleteusercert.title         "Desaniciar el so certificáu">
-<!ENTITY certmgr.deleteusercert.beforename    "Pidió el desaniciu d'esti certificáu:">
-<!ENTITY certmgr.deleteusercert.aftername     "Una vegada tenga desaniciao esti certificáu, nun podrá lleer el corréu que tea cifráu con élli.">
+<!ENTITY certmgr.deletecert.beforename        "Pidióse desaniciar esti certificáu:">
+<!ENTITY certmgr.deletecert.aftername         "¿Daveres que quies desaniciar esti certificáu?">
+<!ENTITY certmgr.deleteusercert.title         "Desaniciar el certificáu">
+<!ENTITY certmgr.deleteusercert.beforename    "Pidióse'l desaniciu d'esti certificáu:">
+<!ENTITY certmgr.deleteusercert.aftername     "Una vegada se tenga desaniciao esti certificáu, nun podrá lleese'l corréu que tea cifráu con él.">
 
 <!ENTITY certmgr.certname                     "Nome del certificáu">
 <!ENTITY certmgr.certserver                   "Sirvidor">
@@ -99,8 +99,8 @@
 <!ENTITY certmgr.tokenname                    "Preséu de seguridá">
 <!ENTITY certmgr.purpose                      "Envises">
 <!ENTITY certmgr.issued                       "Emitíu el">
-<!ENTITY certmgr.expires                      "Expira el">
-<!ENTITY certmgr.email                        "Direición de corréu ellectrónicu.">
+<!ENTITY certmgr.expires                      "Espira el">
+<!ENTITY certmgr.email                        "Direición de corréu electrónicu.">
 <!ENTITY certmgr.serial                       "Númberu de serie">
 
 <!ENTITY certmgr.close.label                  "Zarrar">
@@ -113,7 +113,7 @@
 <!ENTITY certmgr.editca.accesskey             "f">
 <!ENTITY certmgr.add.label                    "Amestar">
 <!ENTITY certmgr.add.accesskey                "A">
-<!ENTITY certmgr.export.label                 "Exportar…">
+<!ENTITY certmgr.export.label                 "Esportar…">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Desaniciar…">
 <!ENTITY certmgr.delete2.accesskey            "e">
@@ -135,7 +135,7 @@
 <!ENTITY exceptionMgr.title                   "Amestar esceición de seguridá">
 <!ENTITY exceptionMgr.exceptionButton         "Confirmar esceición de seguridá">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Los bancos, tiendes ya otros sitios públicos llexítimos nun-y pedirán facer esto.">
+<!ENTITY exceptionMgr.supplementalWarning     "Los bancos, tiendes y otros sitios públicos llexítimos nun-y pidirán facer esto.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Sirvidor">
 <!ENTITY exceptionMgr.certlocation.url        "Direición:">
 <!ENTITY exceptionMgr.certlocation.download   "Obtener certificáu">

@@ -7,11 +7,7 @@
 #define bookmarks_title Marcadores
 #define bookmarks_heading Marcadores
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Obtener complementos de marcadores
-
-#define bookmarks_toolbarfolder Carpeta de barra de ferramientes de marcadores
+#define bookmarks_toolbarfolder Carpeta de la barra de marcadores
 #define bookmarks_toolbarfolder_description Amestar marcadores a esta carpeta pa velos visualizaos na barra de ferramientes de marcadores
 
 # LOCALIZATION NOTE (getting_started):
@@ -38,7 +34,7 @@
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
-#define firefox_community Get Involved
+#define firefox_community ¡Collabora!
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/about/

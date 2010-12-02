@@ -2,17 +2,17 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Direición:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "c">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Llocalización del canal:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Llocalización de la canal:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "n">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Llocalización del sitiu:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "z">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Títulos dinámicos">
 <!ENTITY editBookmarkOverlay.folder.label                    "Carpeta">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Amosar toles carpetes de marcadores">
-<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Soverar">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Anubrir">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiquetes:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separte les etiquetes con comes">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separta les etiquetes con comes">
 <!ENTITY editBookmarkOverlay.description.label               "Descripción">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Pallabra clave:">

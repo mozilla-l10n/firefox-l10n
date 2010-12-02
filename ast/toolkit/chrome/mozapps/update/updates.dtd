@@ -17,9 +17,9 @@
 <!ENTITY  manualUpdate.title              "Nun puede anovase">
 <!ENTITY  manualUpdate.desc               "Hai disponible un anovamientu encamentáu de seguridá y estabilidá, pero
                                            vusté nun tien los permisos de sistema necesarios pa instalalu. Por favor,
-                                           contaute col so alministrador del sistema, o vuelva a tentalo dende una
+                                           contaute col so alministrador del sistema, o vuelva a intentalo dende una
                                            cuenta que tenga permisos pa instalar software nesti ordenador.">
-<!ENTITY  manualUpdateGetMsg.label        "Siempres puede conseguir la cabera versión de &brandShortName; en:">
+<!ENTITY  manualUpdateGetMsg.label        "Siempre puede conseguir la cabera versión de &brandShortName; en:">
 
 <!ENTITY  incompatibleCheck.title         "Comprobando compatibilidá de los complementos">
 <!ENTITY  incompatibleCheck.label         "Entrugando por nueves versiones de los sos complementos…">
@@ -53,15 +53,15 @@
 
 <!ENTITY  details.link                    "Detalles">
 
-<!ENTITY  error.label                     "Hebo problemes al comprebar, descargar o instalar esta
+<!ENTITY  error.label                     "Hebo problemes al comprobar, descargar o instalar esti
                                            anovamientu. Nun se pudo anovar &brandShortName; porque:">
                                            
-<!ENTITY  errorManual.label               "Puede anovar &brandShortName; manualmente visitando esti enllaz
+<!ENTITY  errorManual.label               "Pues anovar &brandShortName; manualmente visitando esti enllaz
                                            y descargando la cabera versión:">
                                            
 <!ENTITY  errorpatching.title             "Fallu n'anovamientu">
 <!ENTITY  errorpatching.intro             "Nun se pudo aplicar l'anovamientu parcial.
-                                           &brandShortName; tornará a tentalo descargando l'anovamientu dafechu.">
+                                           &brandShortName; tornará a intentalo descargando l'anovamientu dafechu.">
 
 <!ENTITY  finishedPage.title              "Anovamientu llistu pa instalar">
 <!ENTITY  finishedPage.text               "L'anovamientu instalaráse la próxima vegada que s'anicie &brandShortName;. Puede reaniciar &brandShortName; agora, o continuar trabayando y reanicialu más sero.">
@@ -70,7 +70,7 @@
                                          pa &brandShortName; y ta llistu pa instalase.">
 <!ENTITY  finishedBackground.name         "Anovamientu:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "L'anovamientu instalaráse la próxima vegada que s'anicie &brandShortName; Puede
+<!ENTITY  finishedBackground.more         "L'anovamientu instalaráse la próxima vegada que s'anicie &brandShortName; Pues
                                            reaniciar &brandShortName; agora, o siguir trabayando y reaniciar más sero.">
 
 <!ENTITY  installed.title                 "Anovamientu instaláu">

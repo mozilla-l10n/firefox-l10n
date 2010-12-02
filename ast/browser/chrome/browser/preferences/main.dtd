@@ -27,7 +27,7 @@
 <!ENTITY chooseFolderWin.accesskey    "R">
 <!ENTITY chooseFolderMac.label        "Escoyer…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Entrugame siempres ú guardar los ficheros">
+<!ENTITY alwaysAsk.label "Entrugame siempre aú guardar los ficheros">
 <!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY addonsMgr.label               "Complementos">
