@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label                 "Synci võti">
 <!ENTITY syncKeyEntry.accesskey             "S">
 <!ENTITY syncKeyGenerate.label              "Geneereeri">
-<!ENTITY syncKeyStrength.label              "Tugevus:">
-<!ENTITY syncKeyHelp.label                  "Mida tugevus tähendab?">
 <!ENTITY syncKeyBackup.description          "Synci võti on vajalik &syncBrand.fullName.label;i kasutamisel teistes arvutites. Palun tee varukoopia. Me ei saa sind Synci võtme taastamisel aidata.">
 
 <!ENTITY button.syncKeyBackup.print.label   "Prindi…">
