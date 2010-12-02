@@ -12,14 +12,14 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Pidió a &brandShortName; que se coneute de mou seguru
+<!ENTITY certerror.introPara1 "Pidióse a &brandShortName; que se coneute de mou seguru
 a <b>#1</b>, pero nun puede asegurase que la conexón seya segura.">
-<!ENTITY certerror.introPara2 "Normalmente, cuando s'intente coneutar de mou seguru,
-los sitios presentarán información verificada p'asegurar que ta nel sitiu correutu.
+<!ENTITY certerror.introPara2 "Normalmente, cuando t'intentes coneutar de mou seguru,
+los sitios presentarán información verificada p'asegurar que tas nel sitiu correutu.
 Sicasí­, la identidá d'esti sitiu nun puede verificase.">
 
-<!ENTITY certerror.whatShouldIDo.heading "¿Qué tendría de facer?">
-<!ENTITY certerror.whatShouldIDo.content "Si normalmente accede a esti sitiu ensin problemes
+<!ENTITY certerror.whatShouldIDo.heading "¿Qué tienes de facer?">
+<!ENTITY certerror.whatShouldIDo.content "Si normalmente accedes a esti sitiu ensin problemes,
 esti fallu puede tar asocediendo porque dalguien ta tentando de
 suplantar el sitiu y nun debieres de siguir.">
 <!ENTITY certerror.getMeOutOfHere.label "Sacáime d'equí!">
