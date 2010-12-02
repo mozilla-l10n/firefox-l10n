@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Підписатися на цю сторінку">
 <!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
 <!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
-<!ENTITY showAllBookmarks.label "Показати всі закладки…">
+<!ENTITY showAllBookmarks2.label "Показати всі закладки">
 <!ENTITY bookmarkAllCmd.label "Закласти всі вкладки…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати решту закладок">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Виділити все">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "с"> 
-<!ENTITY preferencesCmd.label       "Налаштування…">
-<!ENTITY preferencesCmd.accesskey     "Н"> 
+<!ENTITY preferencesCmd2.label       "Налаштування">
+<!ENTITY preferencesCmd2.accesskey     "Н">
 <!ENTITY preferencesCmdUnix.label       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey     "Н"> 
 
