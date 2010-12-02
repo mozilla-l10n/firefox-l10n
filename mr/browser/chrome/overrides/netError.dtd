@@ -51,12 +51,13 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "ऑफलाइन पध्दती">
+<!--
 <!ENTITY netOffline.longDesc "
 <ul>
   <li>फाइल मेनु मध्ये &quot;ऑफलाइन काम करा&quot; नाहीसे करा, व नंतर प्रयत्न करा.</li>
 </ul>
 ">
-
+-->
 <!ENTITY netReset.title "जोडणी पुनःप्रस्थापित करण्यात आली">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
@@ -146,13 +147,40 @@
 <p>अशा पानावर कुठलिही माहिती प्रविष्ट केल्यास आपली ओळख सदोषीत किंवा बनावटी ठरू शकते.</p>
 <p>या प्रकारच्या वेब बनावटीपण फिशींग प्रहार सारखे घोटळ्यां मध्ये पाहिला जातो, जेथे सदोषीत वेब पान व इमेलचा वापर मुळ व अधिकृत स्त्रोत म्हणून दर्शविला जातो.</p>
 ">
-<!ENTITY securityOverride.linkText "किंवा तुम्ही यास अपवाद जोडू शकता…">
-<!ENTITY securityOverride.getMeOutOfHereButton "मला येथून बाहेर काढा!">
-<!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोडा…">
 
+<!--
 <!ENTITY securityOverride.warningText "
 <p>संजाळ जुळवणी पूर्णपणे विश्वासर्ह नसल्यास किंवा या सर्वर वरील सावधानता पहायची सवय नसल्यास अपवाद जोडू नका.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
 ">
+-->
+
+<!ENTITY securityOverride.linkText "किंवा तुम्ही यास अपवाद जोडू शकता…">
+<!ENTITY securityOverride.getMeOutOfHereButton "मला येथून बाहेर काढा!">
+<!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोडा…">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>&quot;ऑफलाइन काम करा&quot; मेन्यू घटक नीवड अशक्य करा, नंतर पुनः प्रयत्न करा.</li>
+</ul>
+">
+<!ENTITY cspFrameAncestorBlocked.title "अंतर्भुत माहिती सुरक्षा धोरणद्वारे रोखले">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>पानामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे &brandShortName; ने पानाला याप्रकारे लोड होण्यापासून रोखले.</p>">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "
+<p>पूर्णतया विश्वासर्ह नसलेल्या इंटरनेट जोडणीचा वापर करत असल्यास किंवा या सर्व्हरवर सावधानता आढळण्याची अपेक्षा नसल्यास, अपवाद समाविष्ट करू नका.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
+

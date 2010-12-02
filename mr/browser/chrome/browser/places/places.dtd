@@ -147,3 +147,19 @@
 <!ENTITY maintenance.tooltip    "ओळखचिन्हे आयात करा व बॅकअप करा">
 <!ENTITY organize.tooltip      "ओळखचिन्हे संगठीत करा">
 <!ENTITY views.tooltip                  "दृश्य बदलवा">
+
+<!ENTITY search.in.label                           "यात शोधा:">
+<!ENTITY find.label               "शोधा:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "दृष्य">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "दिनांक प्रमाणे">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "स्थळ प्रमाणे">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "बहुतांशवेळी भेट दिल्याप्रमाणे">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "शेवटच्यावेळी भेट दिल्याप्रमाणे">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "दिनांक व स्थळ प्रमाणे">
+<!ENTITY byDayAndSite.accesskey   "t">

@@ -43,8 +43,10 @@
 <!ENTITY syncKeyEntry.label        "तुमची सिंक कि">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "निर्माण करा">
+<!--
 <!ENTITY syncKeyStrength.label     "स्ट्रेंग्थ्:">
 <!ENTITY syncKeyHelp.label         "स्ट्रेंग्थ् म्हणजे?">
+-->
 <!ENTITY syncKeyBackup.description "इतर मशीनवर &syncBrand.fullName.label; करीता प्रवेशसाठी तुमची सिंक कि आवश्यक आहे. कृपया बॅकअप प्रत निर्माण करा. सिंक किच्या पुनःप्राप्तिकरीता मदत पुरवणे शक्य नाही.">
 
 <!ENTITY button.syncKeyBackup.print.label     "छपाई करा…">
@@ -92,13 +94,21 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "खात्री करा">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; आत्ता या संगणकावरील ब्राउजर डाटा सिंक खात्यामध्ये एकत्र करेल.">
+<!--
 <!ENTITY confirm.client.label         "या संगणकावरील सर्व &brandShortName; डाटा नष्ट केले जाईल, ज्यामध्ये खालिल समाविष्टीत आहे:">
+-->
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; त्यानंतर तुमच्या &syncBrand.fullName.label; डाटाचे या संगणकावर प्रत बनवेल.">
+<!--
 <!ENTITY confirm.client.warning.label "सावधानता: यामुळे या संगणकावरील सर्व &brandShortName; डाटा अदलाबदल केले जाईल!">
+
 <!ENTITY confirm.server.label         "खालिल साधने तुमच्या स्थानीय डाटासह पुन्हा खोडून लिहिले जातील:">
 <!ENTITY confirm.server.warning.label "सावधानता: तुमचे स्थानीय डाटा या साधनावरील सर्व &brandShortName; डाटाला अदलाबदल करेल!">
+-->
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "मांडणी पूर्ण झाले">
 <!ENTITY changeOptions.label "खालिल सिंक पर्याय नीवडून तुम्ही हि पंसती बदलवू शकता.">
 <!ENTITY continueUsing.label "&brandShortName; चा वापर करून आत्ता पुढे जाणे शक्य आहे.">
+
+<!ENTITY confirm.client2.label         "सावधानता: या संगणकावरील खालील &brandShortName; डाटा नष्ट केले जाईल:">
+<!ENTITY confirm.server2.label         "सावधानता: खालील साधणे स्थानीय डाटासह खोडून पुनः लिहीले जाईल:">

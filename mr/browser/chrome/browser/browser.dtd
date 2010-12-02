@@ -140,8 +140,12 @@
 <!ENTITY selectAllCmd.label "सर्व निवडा  ">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
+
+<!--
 <!ENTITY preferencesCmd.label "पर्याय...">
 <!ENTITY preferencesCmd.accesskey "O">
+-->
+
 <!ENTITY preferencesCmdUnix.label "प्राधान्यता">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
@@ -474,7 +478,11 @@
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "सर्व टॅब्स् दाखवा">
 <!ENTITY showAllTabsCmd.accesskey "A">
+
+<!-- 
 <!ENTITY showAllBookmarks.label "सर्व ओळखचिन्हे दाखवा…">
+-->
+
 <!ENTITY backForwardItem.title        "मागे/पुढे">
 <!ENTITY appMenuButton.label          "मेन्यू">
 <!ENTITY appMenuButton.tooltip        "&brandShortName; मेन्यू उघडा">
@@ -549,3 +557,6 @@
 <!ENTITY syncSyncNowItem.label        "आत्ता ताळमेळ करा">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "ताळमेळ">
+<!ENTITY showAllBookmarks2.label "सर्व वाचणखुणा दाखवा">
+<!ENTITY preferencesCmd2.label       "पर्याय">
+<!ENTITY preferencesCmd2.accesskey     "O">
