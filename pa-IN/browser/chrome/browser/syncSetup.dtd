@@ -14,7 +14,7 @@
 <!ENTITY server.label               "ਸਰਵਰ">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; ਸਰਵਰ">
 <!ENTITY serverType.custom.label    "ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ">
-<!ENTITY signIn.account.label       "Email Address / User Name">
+<!ENTITY signIn.account.label       "ਈਮੇਲ ਐਡਰੈੱਸ / ਯੂਜ਼ਰ ਨਾਂ">
 <!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "ਪਾਸਵਰਡ">
 <!ENTITY signIn.password.accesskey  "P">
@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "ਬਣਾਓ">
-<!ENTITY syncKeyStrength.label     "ਤਾਕਤ:">
-<!ENTITY syncKeyHelp.label         "ਤਾਕਤ ਦਾ ਕੀ ਮਤਲਬ ਹੈ?">
 <!ENTITY syncKeyBackup.description "ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ ਹੋਰ ਮਸ਼ੀਨਾਂ ਉੱਤੇ &syncBrand.fullName.label; ਵਰਤਣ ਲਈ ਲੋੜੀਦੀ ਹੈ। ਬੈਕਅੱਪ ਕਾਪੀ ਬਣਾ ਲਵੋ ਜੀ। ਅਸੀਂ ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਤੁਹਾਡੀ ਮੱਦਦ ਨਹੀਂ ਕਰ ਸਕਾਂਗੇ।">
 
 <!ENTITY button.syncKeyBackup.print.label     "ਪਰਿੰਟ ਕਰੋ…">

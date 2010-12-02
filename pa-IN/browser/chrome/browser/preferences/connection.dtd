@@ -36,6 +36,6 @@
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ਇਸ ਲਈ ਕੋਈ ਪਰਾਕਸੀ ਨਹੀਂ:">
 <!ENTITY  noproxy.accesskey             "n">
-<!ENTITY  noproxyExplain.label          "ਉਦਾਹਰਨ ਲਈ: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  noproxyExplain.label          "ਜਿਵੇਂ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ਸਭ ਪਰੋਟੋਕਾਲਾਂ ਲਈ ਇਹ ਸਰਵਰ ਵਰਤੋਂ">
 <!ENTITY  shareproxy.accesskey          "x">

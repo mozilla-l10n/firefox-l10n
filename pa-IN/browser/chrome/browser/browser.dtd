@@ -102,7 +102,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY subscribeToPageMenuitem.label "... ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY addCurPagesCmd.label "...ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
-<!ENTITY showAllBookmarks.label "...ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
+<!ENTITY showAllBookmarks2.label "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 <!ENTITY bookmarkAllCmd.label "...ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
@@ -240,8 +240,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "A">
-<!ENTITY preferencesCmd.label       "ਚੋਣ...">
-<!ENTITY preferencesCmd.accesskey     "O">
+<!ENTITY preferencesCmd2.label       "ਚੋਣਾਂ">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY clearRecentHistory.label               "...ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
