@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Abonneren op deze pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abonneren op deze pagina…">
 <!ENTITY addCurPagesCmd.label "Bladwijzer voor alle tabbladen maken…">
-<!ENTITY showAllBookmarks.label "Alle bladwijzers tonen…">
+<!ENTITY showAllBookmarks2.label "Alle bladwijzers tonen">
 <!ENTITY bookmarkAllCmd.label "Bladwijzer voor alle tabbladen maken…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
 
@@ -238,8 +238,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Alles selecteren">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "Opties…">
-<!ENTITY preferencesCmd.accesskey     "O"> 
+<!ENTITY preferencesCmd2.label       "Opties">
+<!ENTITY preferencesCmd2.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "Voorkeuren…">
 <!ENTITY preferencesCmdUnix.accesskey     "V">
 
