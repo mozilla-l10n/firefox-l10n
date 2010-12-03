@@ -170,8 +170,8 @@
   <li>&quot;ऑफलाइन काम करा&quot; मेन्यू घटक नीवड अशक्य करा, नंतर पुनः प्रयत्न करा.</li>
 </ul>
 ">
-<!ENTITY cspFrameAncestorBlocked.title "अंतर्भुत माहिती सुरक्षा धोरणद्वारे रोखले">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>पानामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे &brandShortName; ने पानाला याप्रकारे लोड होण्यापासून रोखले.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "अंतर्भुत माहिती सुरक्षा धोरणद्वारे रोखले गेले">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>पानामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे &brandShortName;ने पानाला याप्रकारे लोड होण्यापासून रोखले.</p>">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
