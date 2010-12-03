@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "Tia clav da Sync">
 <!ENTITY syncKeyEntry.accesskey    "c">
 <!ENTITY syncKeyGenerate.label     "Generar">
-<!ENTITY syncKeyStrength.label     "Qualitad:">
-<!ENTITY syncKeyHelp.label         "Tge munta qualitad?">
 <!ENTITY syncKeyBackup.description "Tia clav da Sync vegn utilisada per acceder &syncBrand.fullName.label; sin autras maschinas. Fa ina copia da segirezza. Nus na pudain betg reconstruir tia clav da Sync.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Stampar…">

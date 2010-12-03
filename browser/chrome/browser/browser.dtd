@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Abunar questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abunar questa pagina…">
 <!ENTITY addCurPagesCmd.label "Agiuntar segnapaginas per tut ils tabs…">
-<!ENTITY showAllBookmarks.label "Mussar tut ils segnapaginas…">
+<!ENTITY showAllBookmarks2.label "Mussar tut ils segnapaginas">
 <!ENTITY bookmarkAllCmd.label "Agiuntar segnapaginas per tut ils tabs…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mussar dapli segnapaginas">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Marcar tut">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "M"> 
-<!ENTITY preferencesCmd.label       "Preferenzas…">
-<!ENTITY preferencesCmd.accesskey     "e"> 
+<!ENTITY preferencesCmd2.label       "Preferenzas">
+<!ENTITY preferencesCmd2.accesskey     "e"> 
 <!ENTITY preferencesCmdUnix.label       "Preferenzas">
 <!ENTITY preferencesCmdUnix.accesskey     "e"> 
 
