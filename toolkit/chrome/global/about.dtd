@@ -1,19 +1,23 @@
 <!ENTITY about.version                "आवृत्ती">
-
+<!--
 <!ENTITY about.copy.beforeLink        "सर्वहक्काधिकार &copy; 1998-2008 द्वारे">
 <!ENTITY about.copy.linkTitle         "सहभागी">
 <!ENTITY about.copy.afterLink         "Mozilla प्रकल्प करीता.">
+-->
 
-<!ENTITY about.license.beforeLink     "वाचा">
 <!ENTITY about.license.linkTitle      "करारविषयक माहिती">
+<!ENTITY about.relnotes.linkTitle     "प्रकाशन टिप">
+<!ENTITY about.buildconfig.linkTitle  "बील्ड संयोजना">
+
+<!--
+<!ENTITY about.license.beforeLink     "वाचा">
 <!ENTITY about.license.afterLink      "या उत्पादन करीता.">
 
 <!ENTITY about.relnotes.beforeLink    "वाचा">
-<!ENTITY about.relnotes.linkTitle     "प्रकाशन टिप">
 <!ENTITY about.relnotes.afterLink     "या आवृत्ती करीता.">
 
 <!ENTITY about.buildconfig.beforeLink "पहा">
-<!ENTITY about.buildconfig.linkTitle  "बील्ड संयोजना">
 <!ENTITY about.buildconfig.afterLink  "या आवृत्ती करीता.">
+-->
 
 <!ENTITY about.buildIdentifier        "बील्ड ओळखकर्ता: ">

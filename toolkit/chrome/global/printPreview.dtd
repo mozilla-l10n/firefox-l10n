@@ -67,7 +67,13 @@
 <!ENTITY ShrinkToFit.label    "घट्ट बसण्याकरीता आंकुचित करा">
 <!ENTITY customPrompt.title   "हवे तसे प्रमाण...">
 
-<!ENTITY homearrow.tooltip    "पहिले पान">
-<!ENTITY endarrow.tooltip     "शेवटचे पान">
+
+
+<!--
 <!ENTITY rightarrow.tooltip   "पुढचे पान">
 <!ENTITY leftarrow.tooltip    "मागचे पान">
+-->
+
+<!ENTITY homearrow.tooltip    "पहिले पान">
+<!ENTITY endarrow.tooltip     "शेवटचे पान">
+
