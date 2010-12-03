@@ -4,8 +4,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                     	"485">
 <!ENTITY window.height                    	"300"> 
 
-<!ENTITY starting.label 					"Starte...">
-<!ENTITY scanning.label                   	"Dwaande mei skannen foar virussen...">
+<!ENTITY starting.label 					"Starte…">
+<!ENTITY scanning.label                   	"Dwaande mei skannen foar firussen…">
 
 <!ENTITY downloads.title 					"Ynladen Bestannen">
 
@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.showMac.accesskey          	"F">
 <!ENTITY cmd.open.label 					"Iepenje">
 <!ENTITY cmd.open.accesskey 				"I">
-<!ENTITY cmd.openWith.label 				"Iepenje mei...">
+<!ENTITY cmd.openWith.label 				"Iepenje mei…">
 <!ENTITY cmd.openWith.accesskey 			"e">
 <!ENTITY cmd.retry.label 					"Op 'e nij">
 <!ENTITY cmd.retry.accesskey 				"O">
@@ -45,4 +45,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip 				"De ynlaadsitting slute as alle bestannen ynladen binne">
 
 <!ENTITY showFolder.label                 	"Toan dizze map">
-<!ENTITY searchBox.label                  	"Sykje...">
+<!ENTITY searchBox.label                  	"Sykje…">
