@@ -8,4 +8,5 @@
 -->
 
 <!ENTITY noConfig.label             "हा अनुप्रोयग क्रॅश अहवाल दर्शविण्याकरीता संयोजीत केले गेले नाही. प्राधान्यता <code>breakpad.reportURL</code> निश्चित असावी.">
+<!ENTITY clearAllReports.label      "सर्व अहवाल काढून टाका">
 

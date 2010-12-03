@@ -79,3 +79,12 @@
                                            करा.">
 <!ENTITY  manualUpdateGetMsg.label        "तुम्ही &brandShortName; ची सर्वात अलिकडील आवृत्ती येथून प्राप्त करू शकता:">
 
+<!ENTITY  pluginupdatesfound.title        "प्लगईन्स्करीता सुधारणा आढळले">
+<!ENTITY  pluginupdatesfound.label        "एक किंवा त्यापेक्षा जास्त प्लगईन्स्च्या नवीन आवृत्ती आढळले.">
+<!ENTITY  pluginupdateslink.label         "प्लगईन्स् कसे सुधारीत करायचे याकडे लक्ष्य द्या.">
+<!ENTITY  manualUpdate.space.desc         "शिफारसीय सुरक्षा व स्थिरता सुधारणा उपलब्ध आहे, परंतु प्रतिष्ठापनकरीता अतिरिक्त जागा उपलब्ध नाही.">
+<!ENTITY  downloadPage.title              "&brandShortName; डाउनलोड करत आहे">
+<!ENTITY  error.title                     "सुधारणा अपयशी">
+<!ENTITY  genericBackgroundError.label    "सुधारणा उपलब्ध आहे याची ओळख करण्यास &brandShortName; अशक्य. कृपया तुमच्याकडे &brandShortName; ची नुकतीच आवृत्ती आहे याची खात्री करा:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "काहितरी &brandShortName; ला सुरक्षीतपणे सुधारणा करण्यापासून रोखत आहे. कृपया तुमच्याकडे &brandShortName; ची नुकतीच आवृत्ती आहे याची खात्री करा:">
+<!ENTITY  errorCertAttrHasUpdate.label    "काहितरी &brandShortName; ला असुरक्षीत सुधारणा स्वीकारण्यास संकेत देत आहे. कृपया तुमच्या नेटवर्क प्रोव्हाइडरसह संपर्क करा व मदत प्राप्त करा.">

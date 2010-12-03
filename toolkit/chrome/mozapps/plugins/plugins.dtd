@@ -22,3 +22,12 @@
 <!ENTITY missingPlugin.label                                 "प्लगइन डाऊनलोड करण्याकरीता येथे क्लिक करा.">
 <!ENTITY disabledPlugin.label                                "या अनुक्रम करीता प्लगइन अकार्यान्वीत केले गेले आहे. प्लगइन व्यवस्थापन करीता येथे क्लिक करा.">
 <!ENTITY blockedPlugin.label                                 "हे प्लगइन तुमच्या सुरक्षा करीता रोखले गेले.">
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "पान पुनःलोड करा">
+<!ENTITY reloadPlugin.post                                   " पुनः प्रयत्न करण्यासाठी.">
+<!ENTITY report.please                                       "क्रॅश अहवाल पाठवा">
+<!ENTITY report.submitting                                   "अहवाल पाठवत आहे…">
+<!ENTITY report.submitted                                    "क्रॅश अहवाल पाठवले.">
+<!ENTITY report.disabled                                     "क्रॅश रिपोर्टिंग बंद.">
+<!ENTITY report.failed                                       "सादर करणे अपयशी.">
+<!ENTITY report.unavailable                                  "अहवाल अनुपलब्ध.">
