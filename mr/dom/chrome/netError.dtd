@@ -75,3 +75,6 @@
 ">
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+<!ENTITY netOffline.overrideLongDesc "<p>ब्राउजर ऑफलाइन मोडमध्ये कार्य करत आहे व विनंतीकृत घटकाशी जोडणी करू शकत नाही.</p><ul><li>संगणक सक्रिय नेटवर्कशी जुडले आहे?</li><li>ब्राउजरला ऑफलाइन मोडमध्ये चालवा व पुनः प्रयत्न करा.</li></ul>">
+<!ENTITY cspFrameAncestorBlocked.title "अंतर्भुत माहिती सुरक्षा धोरणद्वारे रोखले गेले">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>पानामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे &brandShortName;ने पानाला याप्रकारे लोड होण्यापासून रोखले.</p>">
