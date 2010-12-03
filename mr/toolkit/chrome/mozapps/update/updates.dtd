@@ -1,8 +1,8 @@
 <!ENTITY  updateWizard.title              "सॉफ्टवेअर अद्ययावत">
-
+<!--
 <!ENTITY  window.width                    "36em">
 <!ENTITY  window.macWidth                 "39em">
-
+-->
 <!ENTITY  checking.title                  "अद्ययावताकरीता तपासत आहे">
 
 
@@ -12,7 +12,9 @@
 
 <!ENTITY  license.instructions            "ह्या कराराच्या अटी मान्य असल्यास, ह्या अद्ययावताचे प्रतिष्ठापन पुढे चालु ठेवण्याकरीता खालिल 
                                                                                       मला मान्य आहे वर क्लिक करा.">
+<!--
 <!ENTITY  downloading.title               "अद्ययावत डाउनलोड करीत आहे">
+-->
 <!ENTITY  downloading.intro               "अद्ययावत डाउनलोड करीत आहे...">
 <!ENTITY  connecting.label                "अद्ययावत सर्वरशी जुळवणी होत आहे...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; डाउनलोड केलेल्या
@@ -25,8 +27,9 @@
 <!ENTITY  error.label                     "ह्या अद्ययावताकरीता तपास करतेवेळी, डाउनलोड करतेवेळी किंवा प्रतिष्ठापनेवेळी अडचणी आढळले. &brandShortName; अद्ययावत करू शकले नाही कारण:">
                                            
 <!ENTITY  errorManual.label               "ह्या लिंक वर भेट देऊन व अलिकडील आवृत्ती डाउनलोड करुन तुम्ही &brandShortName; स्वतः अद्ययावत करू शकता:">
-                                           
+<!--                                           
 <!ENTITY  errorpatching.title             "अद्ययावत अपयशी">
+-->
 <!ENTITY  errorpatching.intro             "अशंतः अद्ययावत  कार्यान्वात केल्या जाऊ शकले नाही. 
                                                                                      पूर्ण अद्ययावत डाउनलोड करून &brandShortName; पुन्हा प्रयत्न करेल.">
 
