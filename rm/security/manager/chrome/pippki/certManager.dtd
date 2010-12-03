@@ -57,7 +57,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detagls">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.pending.label                "Il certificat vegn actualmain verifitgà...">
+<!ENTITY certmgr.pending.label                "Il certificat vegn actualmain verifitgà…">
 <!ENTITY certmgr.subjectinfo.label            "Emess per">
 <!ENTITY certmgr.issuerinfo.label             "Emess da">
 <!ENTITY certmgr.validity.label               "Validitad" >
@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "Num dal certificat">
 <!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.typesofoverrides             "Reglas d'excepziun">
 <!ENTITY certmgr.override_lifetime            "Durada da vita">
 <!ENTITY certmgr.tokenname                    "Modul da criptografia">
-<!ENTITY certmgr.purpose                      "Intents">
 <!ENTITY certmgr.issued                       "Emess ils">
 <!ENTITY certmgr.expires                      "Scroda ils">
 <!ENTITY certmgr.email                        "Adressa dad e-mail">
@@ -105,23 +103,25 @@
 
 <!ENTITY certmgr.close.label                  "Serrar">
 <!ENTITY certmgr.close.accesskey              "S">
-<!ENTITY certmgr.view2.label                  "Vesair...">
+<!ENTITY certmgr.view2.label                  "Vesair…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Modifitgar...">
-<!ENTITY certmgr.edit2.accesskey              "M">
+<!ENTITY certmgr.edit3.label                  "Modifitgar la fidanza…">
+<!ENTITY certmgr.edit3.accesskey              "M">
 <!ENTITY certmgr.editca.label                 "Midar fidanza CA">
 <!ENTITY certmgr.editca.accesskey             "C">
 <!ENTITY certmgr.add.label                    "Agiuntar">
 <!ENTITY certmgr.add.accesskey                "A">
-<!ENTITY certmgr.export.label                 "Exportar...">
+<!ENTITY certmgr.export.label                 "Exportar…">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Stizzar...">
+<!ENTITY certmgr.delete2.label                "Stizzar…">
 <!ENTITY certmgr.delete2.accesskey            "t">
-<!ENTITY certmgr.backup2.label                "Memorisar...">
+<!ENTITY certmgr.delete_builtin.label         "Stizzar u betg pli fidar…">
+<!ENTITY certmgr.delete_builtin.accesskey     "b">
+<!ENTITY certmgr.backup2.label                "Memorisar…">
 <!ENTITY certmgr.backup2.accesskey            "M">
-<!ENTITY certmgr.backupall2.label             "Memorisar tuts...">
+<!ENTITY certmgr.backupall2.label             "Memorisar tuts…">
 <!ENTITY certmgr.backupall2.accesskey         "t">
-<!ENTITY certmgr.restore2.label               "Importar...">
+<!ENTITY certmgr.restore2.label               "Importar…">
 <!ENTITY certmgr.restore2.accesskey           "I">
 <!ENTITY certmgr.details.label                "Layout dal certificat">
 <!ENTITY certmgr.details.accesskey            "L">
@@ -129,19 +129,19 @@
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Ierarchia da certificats">
 <!ENTITY certmgr.hierarchy.accesskey          "e">
-<!ENTITY certmgr.addException.label           "Agiuntar in'excepziun...">
+<!ENTITY certmgr.addException.label           "Agiuntar in'excepziun…">
 <!ENTITY certmgr.addException.accesskey       "e">
 
 <!ENTITY exceptionMgr.title                   "Agiuntar ina regla d'excepziun da segirezza">
-<!ENTITY exceptionMgr.exceptionButton         "Confermar la regla d'excepziun da segirezza">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "S">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confermar la regla d'excepziun da segirezza">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "S">
 <!ENTITY exceptionMgr.supplementalWarning     "Bancas seriusas, fatschentas ed autras paginas uffizialas na vegnan betg a dumandar tai da far talas chaussas. ">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adressa:">
 <!ENTITY exceptionMgr.certlocation.download   "Telechargiar il certificat">
 <!ENTITY exceptionMgr.certlocation.accesskey  "T">
 <!ENTITY exceptionMgr.certstatus.caption      "Status dal certificat">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Vesair...">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Vesair…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "A">
 <!ENTITY exceptionMgr.permanent.label         "Memorisar questa excepziun per adina">
 <!ENTITY exceptionMgr.permanent.accesskey     "n">
