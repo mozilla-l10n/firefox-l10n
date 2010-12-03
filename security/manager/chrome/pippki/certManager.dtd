@@ -86,7 +86,9 @@
 
 <!ENTITY certmgr.certname "प्रमाणपत्राचे नाव">
 <!ENTITY certmgr.tokenname "सुरक्षा साधन">
+<!--
 <!ENTITY certmgr.purpose "उद्देश">
+-->
 <!ENTITY certmgr.issued "यावेळी वितरण केले">
 <!ENTITY certmgr.expires "यावेळी कालबाह्य होइल">
 <!ENTITY certmgr.email "ई-मेल पत्ता">
@@ -114,12 +116,16 @@
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 <!ENTITY certmgr.pending.label                "सद्या प्रमाणपत्र तपासत आहे…">
 <!ENTITY certmgr.certserver                   "सर्वर">
+<!--
 <!ENTITY certmgr.typesofoverrides             "अपवाद">
+-->
 <!ENTITY certmgr.override_lifetime            "कार्यकाळ">
 <!ENTITY certmgr.view2.label                  "दृश्य…">
 <!ENTITY certmgr.view2.accesskey              "V">
+<!--
 <!ENTITY certmgr.edit2.label                  "संपादन…">
 <!ENTITY certmgr.edit2.accesskey              "E">
+-->
 <!ENTITY certmgr.export.label                 "एक्सपोर्ट…">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "काढा…">
@@ -133,8 +139,10 @@
 <!ENTITY certmgr.addException.label           "अपवाद जोडा…">
 <!ENTITY certmgr.addException.accesskey       "x">
 <!ENTITY exceptionMgr.title                   "सुरक्षा अपवाद जोडा">
+<!--
 <!ENTITY exceptionMgr.exceptionButton         "सुरक्षा अपवाद निश्चित करा">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+-->
 <!ENTITY exceptionMgr.supplementalWarning     "अधिकृत बँक, दुकान, व अन्य सार्वजणीक स्थळ हे करण्यास विचारणार नाही.">
 <!ENTITY exceptionMgr.certlocation.caption2   "सर्वर">
 <!ENTITY exceptionMgr.certlocation.url        "स्थान:">
@@ -145,3 +153,9 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "नेहमीकरीता हे अपवाद संचयीत करा">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
+<!ENTITY certmgr.edit3.label                  "विश्वास संपादित करा…">
+<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.delete_builtin.label         "नष्ट करा किंवा विश्वास करू नका…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY exceptionMgr.exceptionButton.label   "सुरक्षा अपवादाची खात्री कर">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
