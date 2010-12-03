@@ -45,19 +45,19 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nij ljepblêd">
 <!ENTITY tabCmd.accesskey "L">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Lokaasje iepenje...">
+<!ENTITY openLocationCmd.label "Lokaasje iepenje…">
 <!ENTITY openLocationCmd.accesskey "o">
-<!ENTITY openFileCmd.label "Bestân iepenje...">
+<!ENTITY openFileCmd.label "Bestân iepenje…">
 <!ENTITY openFileCmd.accesskey "i">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Side-ynstellings...">
+<!ENTITY printSetupCmd.label "Side-ynstellings…">
 <!ENTITY printSetupCmd.accesskey "y">
 <!ENTITY printPreviewCmd.label "Ofdrukfoarbyld">
 <!ENTITY printPreviewCmd.accesskey "f">
-<!ENTITY printCmd.label "Ofdrukke...">
+<!ENTITY printCmd.label "Ofdrukke…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY import.label "Ymportearje...">
+<!ENTITY import.label "Ymportearje…">
 <!ENTITY import.accesskey "m">
 
 <!ENTITY goOfflineCmd.label "Sûnder ferbining wurkje">
@@ -101,10 +101,10 @@ can reach it easily. -->
 <!ENTITY bookmarkThisPageCmd.label        "Blêdwizer fan dizze side meitsje">
 <!ENTITY bookmarkThisPageCmd.commandkey   "d">
 <!ENTITY subscribeToPageMenupopup.label "Abonnearje op dizze side">
-<!ENTITY subscribeToPageMenuitem.label "Abonnearje op dizze side...">
-<!ENTITY addCurPagesCmd.label         "Blêdwizer foar alle ljepblêden meitsje...">
-<!ENTITY showAllBookmarks.label 	  "Toan alle blêdwizers…">
-<!ENTITY bookmarkAllCmd.label 		  "Blêdwizer foar alle ljepblêden meitsje...">
+<!ENTITY subscribeToPageMenuitem.label "Abonnearje op dizze side…">
+<!ENTITY addCurPagesCmd.label         "Blêdwizer foar alle ljepblêden meitsje…">
+<!ENTITY showAllBookmarks2.label 	  "Toan alle blêdwizers">
+<!ENTITY bookmarkAllCmd.label 		  "Blêdwizer foar alle ljepblêden meitsje">
 <!ENTITY bookmarksToolbarChevron.tooltip "Toan mear blêdwizers">
 
 <!ENTITY backCmd.label                "Tebek">
@@ -166,7 +166,7 @@ can reach it easily. -->
 <!ENTITY toolsMenu.label              "Ekstra">
 <!ENTITY toolsMenu.accesskey          "E">
 
-<!ENTITY keywordfield.label           "Kaaiwurd foar dizze sykopdracht tafoegje...">
+<!ENTITY keywordfield.label           "Kaaiwurd foar dizze sykopdracht tafoegje…">
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "Sykje op it web">
 <!ENTITY search.accesskey             "S">
@@ -237,9 +237,9 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label           "Alles selektearje">  
 <!ENTITY selectAllCmd.key             "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label         "Opsjes...">
-<!ENTITY preferencesCmd.accesskey     "O"> 
-<!ENTITY preferencesCmdUnix.label     "Foarkarren...">
+<!ENTITY preferencesCmd2.label         "Opsjes">
+<!ENTITY preferencesCmd2.accesskey     "O"> 
+<!ENTITY preferencesCmdUnix.label     "Foarkarren…">
 <!ENTITY preferencesCmdUnix.accesskey "F">
 
 <!ENTITY clearRecentHistory.label            "Wis resinte skiednis…">
@@ -260,7 +260,7 @@ can reach it easily. -->
 <!ENTITY viewToolbarsMenu.accesskey   "A"> 
 <!ENTITY viewSidebarMenu.label        "Sidebalke">
 <!ENTITY viewSidebarMenu.accesskey    "S">
-<!ENTITY viewCustomizeToolbar.label   "Oanpasse..."> 
+<!ENTITY viewCustomizeToolbar.label   "Oanpasse…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "O"> 
 <!ENTITY viewTabsOnTop.label            "Ljepblêden boppe-op">
 <!ENTITY viewTabsOnTop.accesskey        "b">
@@ -364,26 +364,26 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.accesskey   "m">
 <!ENTITY sendPageCmd.label            "Keppeling ferstjoere">
 <!ENTITY sendPageCmd.accesskey        "s">
-<!ENTITY savePageCmd.label            "Side bewarje as...">
+<!ENTITY savePageCmd.label            "Side bewarje as…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY savePageCmd.accesskey2       "b">
-<!ENTITY saveFrameCmd.label           "Dielfinster bewarje as...">
+<!ENTITY saveFrameCmd.label           "Dielfinster bewarje as…">
 <!ENTITY saveFrameCmd.accesskey       "l">
-<!ENTITY printFrameCmd.label          "Dielfinster ôfdrukke...">
+<!ENTITY printFrameCmd.label          "Dielfinster ôfdrukke…">
 <!ENTITY printFrameCmd.accesskey      "d">
-<!ENTITY saveLinkCmd.label            "Keppeling bewarje as...">
+<!ENTITY saveLinkCmd.label            "Keppeling bewarje as…">
 <!ENTITY saveLinkCmd.accesskey        "l">
-<!ENTITY sendLinkCmd.label            "Keppeling ferstjoere...">
+<!ENTITY sendLinkCmd.label            "Keppeling ferstjoere…">
 <!ENTITY sendLinkCmd.accesskey        "s">
-<!ENTITY saveImageCmd.label           "Ofbylding bewarje as...">
+<!ENTITY saveImageCmd.label           "Ofbylding bewarje as…">
 <!ENTITY saveImageCmd.accesskey       "n">
-<!ENTITY saveVideoCmd.label           "Bewarje fideo as...">
+<!ENTITY saveVideoCmd.label           "Bewarje fideo as…">
 <!ENTITY saveVideoCmd.accesskey       "f">
-<!ENTITY saveAudioCmd.label           "Bewarje audio as...">
+<!ENTITY saveAudioCmd.label           "Bewarje audio as…">
 <!ENTITY saveAudioCmd.accesskey       "a">
-<!ENTITY sendImageCmd.label           "Ofbylding ferstjoere...">
+<!ENTITY sendImageCmd.label           "Ofbylding ferstjoere…">
 <!ENTITY sendImageCmd.accesskey       "s">
 <!ENTITY sendVideoCmd.label           "Stjoer fideo…">
 <!ENTITY sendVideoCmd.accesskey       "t">
@@ -488,8 +488,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Foarkarren foar popupblokkearring bewurkje...">
-<!ENTITY editPopupSettings.label "Opsjes foar popupblokkearring bewurkje...">
+<!ENTITY editPopupSettingsUnix.label "Foarkarren foar popupblokkearring bewurkje…">
+<!ENTITY editPopupSettings.label "Opsjes foar popupblokkearring bewurkje…">
 <!ENTITY editPopupSettings.accesskey "O">
 <!ENTITY dontShowMessage.accesskey "b">
 
@@ -499,7 +499,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label "Yn dizze side sykje...">
+<!ENTITY findOnCmd.label "Yn dizze side sykje…">
 <!ENTITY findOnCmd.accesskey "Y">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "Op 'e nij sykje">
@@ -529,7 +529,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "dy't beheard wurdt troch">
 
-<!ENTITY identity.moreInfoLinkText "Mear ynformaasje...">
+<!ENTITY identity.moreInfoLinkText "Mear ynformaasje…">
 
 <!ENTITY downloadMonitor2.tooltip "Klik om it ynlaadskerm te iepenjen">
 

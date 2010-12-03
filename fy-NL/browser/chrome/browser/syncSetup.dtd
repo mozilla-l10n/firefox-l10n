@@ -39,16 +39,14 @@
 
 <!-- New Account Page 2: Passphrase Entry -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; beskermt jo privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "Om jo privacy te fersekerjen, wurde al jo gegevens fersifere eardat se oplade wurde. De Sync-kaai dy't nedich is om jo gegvens te ûntsiferjen wurdt net opladen.">
+<!ENTITY setup.newSyncKeyPage.description.label "Om jo privacy te fersekerjen, wurde al jo gegevens fersifere eardat se opladen wurde. De Sync-kaai dy't nedich is om jo gegvens te ûntsiferjen wurdt net opladen.">
 <!ENTITY syncKeyEntry.label        "Jo Sync-kaai">
 <!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncKeyGenerate.label     "Oanmeitsje">
-<!ENTITY syncKeyStrength.label     "Sterkte:">
-<!ENTITY syncKeyHelp.label         "Wat betsjut de sterkte?">
 <!ENTITY syncKeyBackup.description "Jo Sync-kaai is nedich om mei &syncBrand.fullName.label; tagong te krijen op oare masines. Meitsje asjobleaft in reservekopy. Wy kinne jo net helpe om jo Sync-kaai werom te heljen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Ofdrukke…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.print.accesskey "O">
 <!ENTITY button.syncKeyBackup.save.label      "Bewarje…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "B">
 
@@ -68,7 +66,7 @@
 <!ENTITY verifying.label              "Ferifikaasje…">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync opsjes">
+<!ENTITY setup.optionsPage.title      "Sync-opsjes">
 <!ENTITY syncComputerName.label       "Kompjûternamme:">
 <!ENTITY syncComputerName.accesskey   "k">
 
@@ -84,14 +82,14 @@
 <!ENTITY engine.prefs.label         "Foarkarren">
 <!ENTITY engine.prefs.accesskey     "F">
 
-<!ENTITY choice2.merge.main.label      "Kombinearje dizze kompjûtergegevens mei myn &syncBrand.shortName.label; gegevens">
+<!ENTITY choice2.merge.main.label      "Kombinearje dizze kompjûtergegevens mei myn &syncBrand.shortName.label;-gegevens">
 <!ENTITY choice2.merge.recommended.label "Oanrikkemandearre:">
-<!ENTITY choice2.client.main.label     "Ferfang all gegevens op dizze kompjûter troch myn &syncBrand.shortName.label; gegevens">
+<!ENTITY choice2.client.main.label     "Ferfang all gegevens op dizze kompjûter troch myn &syncBrand.shortName.label;-gegevens">
 <!ENTITY choice2.server.main.label     "Ferfang alle gegevens op oare apparaten mei dizze kompjûtergegevens">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Befestigje">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; sil no al de browsergegevens fan dizze kompjûter kombinearje mei jo Sync-account.">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; sil no alle browsergegevens fan dizze kompjûter kombinearje mei jo Sync-account.">
 <!ENTITY confirm.client2.label         "Warskôging: De folgjende &brandShortName;-gegevens op dizze kompjûter sille fuortsmiten wurde:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; sil dêrnei jo &syncBrand.fullName.label;-gegevens nei dizze kompjûter kopiearje.">
 <!ENTITY confirm.server2.label         "Warskôging: De folgjende apparaten sille oerskreaun wurde mei jo lokale gegevens:">
