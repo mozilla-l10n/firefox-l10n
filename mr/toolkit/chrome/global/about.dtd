@@ -21,3 +21,14 @@
 -->
 
 <!ENTITY about.buildIdentifier        "बील्ड ओळखकर्ता: ">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "सूची पहा ">
+<!ENTITY about.credits.linkTitle      "योगदानकर्ते">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " मोझिला प्रकल्पकरीता.">
+<!ENTITY about.license.beforeTheLink  "वाचा ">
+<!ENTITY about.license.afterTheLink   " या उत्पादनकरीता.">
+<!ENTITY about.relnotes.beforeTheLink "वाचा ">
+<!ENTITY about.relnotes.afterTheLink  " या आवृत्तीकरीता.">
+<!ENTITY about.buildconfig.beforeTheLink "पहा ">
+<!ENTITY about.buildconfig.afterTheLink  " या आवृत्तीकरीता वापरलेले.">
