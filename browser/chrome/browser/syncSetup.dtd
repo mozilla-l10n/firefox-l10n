@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "Votre clé de synchronisation">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Générer">
-<!ENTITY syncKeyStrength.label     "Qualité :">
-<!ENTITY syncKeyHelp.label         "Que signifie la qualité d'une clé ?">
 <!ENTITY syncKeyBackup.description "Votre clé de synchronisation est nécessaire pour accéder à &syncBrand.fullName.label; sur d'autres machines. Veuillez en faire une copie de sauvegarde. Nous ne pourrons pas vous aider à la récupérer.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimer…">
