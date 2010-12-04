@@ -39,8 +39,8 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; सुरक्षित मोड">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; सुरक्षित मोड मे आब चलि रहल अछि, जे अस्थायी रूप सँ अहाँक पसंदीदा जमावट,छलम, आओर विस्तार निष्क्रिय करैत अछि.">
-<!ENTITY safeModeDescription2.label   "अहाँ किछु अथवा सारे बदलनाइ केँ स्थायी कए सकैत अछि:">
+<!ENTITY safeModeDescription.label    "&brandShortName; सुरक्षित मोड मे आब चलि रहल  अछि , जे अस्थायी रूप सँ अहाँक पसंदीदा जमावट,छलम, आओर विस्तार निष्क्रिय करैत  अछि .">
+<!ENTITY safeModeDescription2.label   "अहाँ किछु अथवा सारे बदलनाइ केँ स्थायी कए सकैत  अछि :">
 
 <!ENTITY resetToolbars.label          "अओजारपट्टी आओर नियंत्रण फेर सेट  करू ">
 <!ENTITY resetToolbars.accesskey      "R">

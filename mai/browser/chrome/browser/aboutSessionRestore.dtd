@@ -1,8 +1,8 @@
-<!ENTITY restorepage.errorTitle     "वाकई ई बेहद शर्मनाक अछि.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; अहाँक विंडो आओर टैब केँ फेर पाने मे समस्या क सामना कए रहल अछि. ई हाल मे खोले गए वेबपृष्ठ क कारण हो सकैत अछि.">
-<!ENTITY restorepage.tryThis        "अहाँ फेर आजमा सकैत अछि:">
-<!ENTITY restorepage.restoreSome    "एकाधिक टैब हटा रहल अछि जकरा अहँ सोचते छी जे समस्या केँ जन्म दे रहल अछि">
-<!ENTITY restorepage.startNew       "पूर्णतः नव ब्राउजिंग सत्र आरंभ कए रहल अछि">
+<!ENTITY restorepage.errorTitle     "वाकई ई बेहद शर्मनाक  अछि .">
+<!ENTITY restorepage.problemDesc    "&brandShortName; अहाँक विंडो आओर टैब केँ फेर पाने मे समस्या क सामना कए रहल  अछि . ई हाल मे खोले गए वेबपृष्ठ क कारण हो सकैत  अछि .">
+<!ENTITY restorepage.tryThis        "अहाँ फेर आजमा सकैत  अछि :">
+<!ENTITY restorepage.restoreSome    "एकटााधिक टैब हटा रहल  अछि  जकरा अहँ सोचते छी जे समस्या केँ जन्म दे रहल  अछि ">
+<!ENTITY restorepage.startNew       "पूर्णतः नव ब्राउजिंग सत्र आरंभ कए रहल  अछि ">
 
 <!ENTITY restorepage.tryagainButton "फेर बहाल  करू ">
 

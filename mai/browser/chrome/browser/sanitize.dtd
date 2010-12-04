@@ -2,7 +2,7 @@
 <!ENTITY sanitizeDialog2.title         "हाल क इतिहास साफ  करू ">
 
 <!ENTITY sanitizeItems.label          "आब निम्नलिखित मदों केँ साफ  करू :">
-<!ENTITY clearDataSettings2.label     "जखन हम &brandShortName; छोड़ता हूँ,  एकरा  सबहि केँ स्वतः साफ  कएनाइ  चाही:">
+<!ENTITY clearDataSettings2.label     "जखन हम &brandShortName; छोड़ता हूँ,  एकटारा  सबहि केँ स्वतः साफ  कएनाइ  चाही:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -56,7 +56,7 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "ई क्रिया वापस पहले जहिना नहि क जाए सकैत अछि.">
+<!ENTITY sanitizeEverythingUndoWarning     "ई क्रिया वापस पहले जहिना नहि क जाए सकैत  अछि .">
 
 <!ENTITY dialog.width                 "32em">
 <!ENTITY column.width                 "14em">

@@ -35,7 +35,7 @@
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "एकर लेल कोनो प्राक्सी नहि:">
+<!ENTITY  noproxy.label                 "एकटार लेल कोनो प्राक्सी नहि:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "उदाहरण: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "सभटा प्रोटोकाल क लेल प्राक्सी सर्वर क प्रयोग  करू ">

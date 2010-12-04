@@ -38,7 +38,7 @@
 <!ENTITY advancedJSDialog.title         "उन्नत जावास्क्रिप्ट जमावट">
 <!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label             "एकरामे स्क्रिप्टक अनुमति दिअ:">
+<!ENTITY allowScripts.label             "एकटारामे स्क्रिप्टक अनुमति दिअ:">
 
 <!ENTITY moveResizeWindows.label        " मोजुदा विंडो घसकाउ अथवा नव आकार दिअ">
 <!ENTITY moveResizeWindows.accesskey    "M">
