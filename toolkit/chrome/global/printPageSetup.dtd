@@ -21,7 +21,7 @@
 
 <!ENTITY optionsGroup.label  "Opziuns">
 
-<!ENTITY printBG.label       "Stampar il fund davos (colurs e maletgs)">
+<!ENTITY printBG.label       "Stampar il fund davos (colurs e graficas)">
 <!ENTITY printBG.accesskey   "S">
 
 <!ENTITY advanced.tab        "Urs &amp; chaus-pagina/pes-pagina">

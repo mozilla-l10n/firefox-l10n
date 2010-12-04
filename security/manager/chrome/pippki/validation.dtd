@@ -62,6 +62,6 @@
 <!ENTITY  crl.issuer.org.label                    "Organisaziun:">
 <!ENTITY  crl.issuer.orgunit.label                "Unitads:">
 <!ENTITY  crl.import.nextupdate.label             "Proxima actualisaziun ils:">
-<!ENTITY  crl.autoupdate.fail.cnt.label           "Previous Consecutive Update Failures: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Ultimas actualisaziuns consecutivas betg reussidas: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Detagls davart l'ultima actualisaziun betg reussida:">
 <!ENTITY  edit.button                             "Preferenzas">
