@@ -4,7 +4,7 @@
 <!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  loadImages.label            "Încarcă imaginile automat">
-<!ENTITY  loadImages.accesskey        "i">
+<!ENTITY  loadImages.accesskey        "n">
 <!ENTITY  exceptions.label            "Excepții...">
 <!ENTITY  exceptions.accesskey        "x">
 
@@ -25,7 +25,7 @@
 <!ENTITY  defaultSize.accesskey       "i">
 
 <!ENTITY  advancedFonts.label         "Avansat...">
-<!ENTITY  advancedFonts.accesskey     "v">
+<!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "Culori...">
 <!ENTITY  colors.accesskey            "C">

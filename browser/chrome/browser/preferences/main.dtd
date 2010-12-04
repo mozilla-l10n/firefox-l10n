@@ -1,7 +1,7 @@
 <!ENTITY startup.label             "Pornire">
 
 <!ENTITY startupPage.label         "Când &brandShortName; pornește:">
-<!ENTITY startupPage.accesskey     "C">
+<!ENTITY startupPage.accesskey     "n">
 <!ENTITY startupHomePage.label     "Arată pagina mea de start">
 <!ENTITY startupBlankPage.label    "Arată o pagină goală">
 <!ENTITY startupLastSession.label  "Arată ferestrele și filele de ultima dată">
