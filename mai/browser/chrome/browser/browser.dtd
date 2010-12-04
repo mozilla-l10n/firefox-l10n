@@ -29,11 +29,11 @@
 <!ENTITY goOfflineCmd.label "आफ़लाइन काम  करू ">
 <!ENTITY goOfflineCmd.accesskey "w">
 
-<!ENTITY navbarCmd.label "संचरण औज़ारपट्टी">
+<!ENTITY navbarCmd.label "संचरण अओजारपट्टी">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "पुस्तचिह्नित औज़ारपट्टी">
+<!ENTITY personalbarCmd.label "पुस्तकचिह्नित अओजारपट्टी">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "औज़ारपट्टी मद पुस्तचिह्नित करैत अछि">
+<!ENTITY bookmarksToolbarItem.label "अओजारपट्टी मद पुस्तकचिह्नित करैत अछि">
 
 
 
@@ -57,7 +57,7 @@
 <!ENTITY feedButton.label             "सदस्यता लिअ">
 <!ENTITY feedButton.tooltip           "ई पृष्ठ क सदस्यता लिअ…">
 
-<!ENTITY fullScreenButton.tooltip       "पूर्ण स्क्रीन मे विंडो देखाओलँ">
+<!ENTITY fullScreenButton.tooltip       "पूर्ण स्क्रीन मे विंडो देखाउ">
 
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY historyRestoreLastSession.label "पिछला सत्र पुनर्बहाल  करू ">
@@ -70,9 +70,9 @@
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "जाँचें">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "आगे">
+<!ENTITY inspectNextButton.label      "आगाँ">
 <!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "पीछे">
+<!ENTITY inspectPreviousButton.label  "पाछाँ">
 <!ENTITY inspectPreviousButton.accesskey "P">
 <!ENTITY inspectStyleButton.label     "शैली">
 <!ENTITY inspectStyleButton.accesskey "S">
@@ -90,7 +90,7 @@
 <!ENTITY  moveToGroup.label                  "समूह मे खिसकाएँ">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "नव समूह">
-<!ENTITY  moveToNewWindow.label              "नए विंडो मे खिसकाएँ">
+<!ENTITY  moveToNewWindow.label              "नव विंडो मे खिसकाएँ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 
 <!ENTITY openLinkCmdInCurrent.label     "कड़ी खोलू">
@@ -108,7 +108,7 @@
 
 
 <!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY showAllTabsCmd.label "सभटा टैब देखाओलँ">
+<!ENTITY showAllTabsCmd.label "सभटा टैब देखाउ">
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -120,7 +120,7 @@
 <!ENTITY syncToolbarButton.label      "तुल्यकालित  करू ">
 
 <!ENTITY tabGroupsButton.label        "टैब समूह">
-<!ENTITY tabGroupsButton.tooltip      "अपने टैब क समूह बनाउ">
+<!ENTITY tabGroupsButton.tooltip      "अपन टैबक समूह बनाउ">
 
 <!ENTITY tabView.commandkey           "e">
 <!ENTITY tabsToolbar.label "ब्राउजर टैब">
@@ -128,13 +128,13 @@
 <!ENTITY  undoCloseTab.label                 "बन्न टैब वापस लिअ">
 <!ENTITY  undoCloseTab.accesskey             "U">
 
-<!ENTITY  unpinAppTab.label                  "टैब सँ पिन निकालें">
+<!ENTITY  unpinAppTab.label                  "टैब सँ पिन निकालू">
 <!ENTITY  unpinAppTab.accesskey              "b">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "किसी वेबसाइट मे जाउ">
+<!ENTITY urlbar.placeholder           "कोनो वेबसाइट मे जाउ">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "टैब मे जाउ:">
+<!ENTITY urlbar.switchToTab.label     "टैबमे जाउ:">
 
 
 
@@ -146,8 +146,8 @@
 
 
 
-<!ENTITY viewBookmarksSidebar.label         "किनारे क पट्टी मे देखाओलँ">
-<!ENTITY viewBookmarksToolbar.label         "पुस्तचिह्न औज़ारपट्टी देखू">
+<!ENTITY viewBookmarksSidebar.label         "किनारक पट्टी मे देखाउ">
+<!ENTITY viewBookmarksToolbar.label         "पुस्तकचिह्न अओजारपट्टी देखू">
 
 
 <!ENTITY viewImageCmd.label           "छवि देखू">
@@ -164,7 +164,7 @@
 <!ENTITY zoomControls.label             "आकार नियंत्रण">
 
 
-<!ENTITY  unpinAppTab.label                  "टैब क पिन निकालें">
+<!ENTITY  unpinAppTab.label                  "टैब क पिन निकालू">
 <!ENTITY  unpinAppTab.accesskey              "b">
 
 
@@ -182,28 +182,28 @@
 <!ENTITY fullScreenMinimize.tooltip "न्यूनतम  करू ">
 <!ENTITY fullScreenRestore.tooltip "फेर संग्रहित  करू ">
 <!ENTITY fullScreenClose.tooltip "बन्न  करू ">
-<!ENTITY fullScreenAutohide.label "औज़ार पट्ट छुपाएँ">
+<!ENTITY fullScreenAutohide.label "अओजार पट्ट नुकाउ">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "पूर्ण स्क्रीन मोड सँ बाहर निकलें">
+<!ENTITY fullScreenExit.label "पूर्ण स्क्रीन मोडसँ बाहर निकलू">
 <!ENTITY fullScreenExit.accesskey "F">
 
 <!ENTITY closeWindow.label "विंडो बन्न  करू ">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "पुस्तचिह्न">
+<!ENTITY bookmarksMenu.label "पुस्तकचिह्न">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "ई पृष्ठ पुस्तचिह्नित  करू ">
+<!ENTITY bookmarkThisPageCmd.label "ई पृष्ठ पुस्तकचिह्नित  करू ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "ई पृष्ठ क सदस्यता लिअ">
 <!ENTITY subscribeToPageMenuitem.label "ई पृष्ठ क सदस्यता लिअ…">
-<!ENTITY addCurPagesCmd.label "सभटा टैब पुस्तचिह्नित  करू …">
+<!ENTITY addCurPagesCmd.label "सभटा टैब पुस्तकचिह्नित  करू …">
 
-<!ENTITY bookmarkAllCmd.label "सभटा टैब पुस्तचिह्नित  करू …">
+<!ENTITY bookmarkAllCmd.label "सभटा टैब पुस्तकचिह्नित  करू …">
 
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "आडियो स्थान क नक़ल लिअ">
+<!ENTITY copyAudioURLCmd.label        "आडियो स्थान क नकल लिअ">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyVideoURLCmd.label        "वीडियो स्थान क नक़ल लिअ">
+<!ENTITY copyVideoURLCmd.label        "वीडियो स्थान क नकल लिअ">
 
 <!ENTITY saveVideoCmd.label           "एहिना वीडियो सहेजू…">
 <!ENTITY saveVideoCmd.accesskey       "v">
@@ -219,32 +219,32 @@
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "बजाउ">
 <!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "ठहरें">
+<!ENTITY mediaPause.label            "ठहरू">
 <!ENTITY mediaPause.accesskey        "P">
 <!ENTITY mediaMute.label             "मौन">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "मौन समाप्त  करू ">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaShowControls.label     "नियंत्रण देखाओलँ">
+<!ENTITY mediaShowControls.label     "नियंत्रण देखाउ">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "नियंत्रण नुकाउ">
 <!ENTITY mediaHideControls.accesskey "C">
 
 
-<!ENTITY backCmd.label                "पीछे">
+<!ENTITY backCmd.label                "पाछाँ">
 <!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "एकटा पृष्ठ पीछे जाउ">
+<!ENTITY backButton.tooltip           "एकटा पृष्ठ पाछाँ जाउ">
 <!ENTITY forwardCmd.label             "अग्रेषित  करू ">
 <!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "एकटा पृष्ठ आगे जाउ">
+<!ENTITY forwardButton.tooltip        "एकटा पृष्ठ आगाँ जाउ">
 
 <!ENTITY reloadCmd.label              "फेर लोड  करू ">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "वर्तमान पृष्ठ फेर लोड  करू ">
-<!ENTITY stopCmd.label                "रोकें">
+<!ENTITY stopCmd.label                "रोकू">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "ई पृष्ठ लोड  कएनाइ  रोकें">
+<!ENTITY stopButton.tooltip           "ई पृष्ठ लोड  कएनाइ  रोकू">
 <!ENTITY goEndCap.tooltip             "स्थान पट्टी पर पता मे जाउ">
 <!ENTITY printButton.label            "छापू">
 <!ENTITY printButton.tooltip          "ई पृष्ठ छापू">
@@ -252,23 +252,23 @@
 <!ENTITY locationItem.title           "स्थान">
 <!ENTITY searchItem.title             "खोज">
 <!ENTITY throbberItem.title           "क्रियाकलाप संकेतक">
-<!ENTITY bookmarksItem.title          "पुस्तचिह्न">
+<!ENTITY bookmarksItem.title          "पुस्तकचिह्न">
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "घर">
 
-<!ENTITY bookmarksButton.label          "पुस्तचिह्न">
-<!ENTITY bookmarksButton.tooltip        " अपन  पुस्तचिह्न देखाओलँ">
+<!ENTITY bookmarksButton.label          "पुस्तकचिह्न">
+<!ENTITY bookmarksButton.tooltip        " अपन  पुस्तकचिह्न देखाउ">
 
 
 
 
 <!ENTITY historyButton.label            "इतिहास">
-<!ENTITY historyButton.tooltip          "पृष्ठ देखाउ जिन्हें आपने हाल मे देखा अछि">
+<!ENTITY historyButton.tooltip          "पृष्ठ देखाउ जकरा अहाँ हालमे देखने छी">
 <!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "औज़ार">
+<!ENTITY toolsMenu.label              "अओजार">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
 <!ENTITY keywordfield.label           "ई खोज क लेल बीजशब्द जोड़ू…">
@@ -276,11 +276,11 @@
 <!ENTITY search.label                 "वेब खोज">
 <!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "डाउनलोड">
-<!ENTITY downloads.tooltip            "निरंतर डाउनलोड क प्रगति देखाओलँ">
+<!ENTITY downloads.tooltip            "निरंतर डाउनलोड क प्रगति देखाउ">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "सहयुक्तियाँ">
+<!ENTITY addons.label                 "सहयुक्ति">
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "त्रुटि  कँसोल ">
@@ -289,31 +289,31 @@
 
 <!ENTITY fileMenu.label         "फाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newNavigatorCmd.label        "नव विंडो">
+<!ENTITY newNavigatorCmd.label        "नवीन विंडो">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 
 <!ENTITY editMenu.label         "संपादन"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "पहले जहिना">  
+<!ENTITY undoCmd.label            "पहिने जहिना">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "फेर  करू ">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "काटें">  
+<!ENTITY cutCmd.label           "काटू">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "नक़ल  करू ">  
+<!ENTITY copyCmd.label            "नकल  करू ">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "साटू">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "मिटाएँ">  
+<!ENTITY deleteCmd.label          "मेटाउ">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "सभटा चुनें">  
+<!ENTITY selectAllCmd.label         "सभटा चुनू">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
 
@@ -325,11 +325,11 @@
 
 <!ENTITY viewMenu.label         "दृश्य"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "औज़ारपट्टी"> 
+<!ENTITY viewToolbarsMenu.label       "अओजारपट्टी"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
-<!ENTITY viewSidebarMenu.label "बाज़ू पट्टी">
+<!ENTITY viewSidebarMenu.label "कतका पट्टी">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "मनपसंद बनाउ…"> 
+<!ENTITY viewCustomizeToolbar.label       "मनपसिन्न बनाउ…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "इतिहास">
@@ -337,7 +337,7 @@
 <!ENTITY historyUndoMenu.label "हाल मे बन्न टैब">
 
 <!ENTITY historyHomeCmd.label "घर">
-<!ENTITY showAllHistoryCmd2.label "सभटा इतिहास देखाओलँ">
+<!ENTITY showAllHistoryCmd2.label "सभटा इतिहास देखाउ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -369,15 +369,15 @@
 
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY openLinkCmd.label            "नए विंडो मे कड़ी खोलू">
+<!ENTITY openLinkCmd.label            "नव विंडो मे कड़ी खोलू">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkCmdInTab.label       "नए टैब मे कड़ी खोलू">
+<!ENTITY openLinkCmdInTab.label       "नव टैब मे कड़ी खोलू">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openFrameCmd.label           "नए विंडो मे फ्रेम खोलू">
+<!ENTITY openFrameCmd.label           "नव विंडो मे फ्रेम खोलू">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openFrameCmdInTab.label      "नए टैब मे फ्रेम खोलू">
+<!ENTITY openFrameCmdInTab.label      "नव टैब मे फ्रेम खोलू">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY showOnlyThisFrameCmd.label     "सिर्फ ई फ्रेम देखाओलँ">
+<!ENTITY showOnlyThisFrameCmd.label     "सिर्फ ई फ्रेम देखाउ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "फ्रेम फेर लोड  करू ">
@@ -399,11 +399,11 @@
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "बतौर डेस्कटाप पृष्ठभूमि सेट  करू …">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "ई पृष्ठ पुस्तचिह्नित  करू ">
+<!ENTITY bookmarkPageCmd2.label       "ई पृष्ठ पुस्तकचिह्नित  करू ">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "ई कड़ी पुस्तचिह्नित  करू ">
+<!ENTITY bookmarkThisLinkCmd.label      "ई कड़ी पुस्तकचिह्नित  करू ">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "ई फ्रेम पुस्तचिह्नित  करू ">
+<!ENTITY bookmarkThisFrameCmd.label      "ई फ्रेम पुस्तकचिह्नित  करू ">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY sendPageCmd.label            "कड़ी पठाउ…">
 <!ENTITY sendPageCmd.accesskey        "e">
@@ -424,30 +424,30 @@
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "छवि पठाउ…">
 <!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY copyLinkCmd.label            "कड़ी स्थान क नक़ल लिअ">
+<!ENTITY copyLinkCmd.label            "कड़ी स्थान क नकल लिअ">
 <!ENTITY copyLinkCmd.accesskey        "a">
 
 
-<!ENTITY copyImageCmd.label           "छवि स्थान क नक़ल लिअ">
+<!ENTITY copyImageCmd.label           "छवि स्थान क नकल लिअ">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "छवि क नक़ल लिअ">
+<!ENTITY copyImageContentsCmd.label   "छवि क नकल लिअ">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
 
-<!ENTITY  bookmarkAllTabs.label              "सभटा टैब पुस्तचिह्नित  करू …">
+<!ENTITY  bookmarkAllTabs.label              "सभटा टैब पुस्तकचिह्नित  करू …">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 
-<!ENTITY bookmarksMenuButton.label          "पुस्तचिह्न">
-<!ENTITY bookmarksMenuButton.tooltip        " अपन  पुस्तचिह्न देखाओलँ">
-<!ENTITY bookmarksMenuButton.unsorted.label "बिनु छाँटा पुस्तचिह्न">
+<!ENTITY bookmarksMenuButton.label          "पुस्तकचिह्न">
+<!ENTITY bookmarksMenuButton.tooltip        " अपन  पुस्तकचिह्न देखाउ">
+<!ENTITY bookmarksMenuButton.unsorted.label "बिनु छाँटा पुस्तकचिह्न">
 
 
 
 
-<!ENTITY copyEmailCmd.label           "ईमेल पता क नक़ल लिअ">
+<!ENTITY copyEmailCmd.label           "ईमेल पता क नकल लिअ">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ई फ्रेम">
 <!ENTITY thisFrameMenu.accesskey          "h">
@@ -481,10 +481,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY newWindowButton.tooltip        "नव विंडो खोलू">
-<!ENTITY sidebarCloseButton.tooltip     "बाज़ू पट्टी बन्न  करू ">
+<!ENTITY sidebarCloseButton.tooltip     "कतका पट्टी बन्न  करू ">
 
-<!ENTITY cutButton.tooltip              "काटें">
-<!ENTITY copyButton.tooltip             "नक़ल  करू ">
+<!ENTITY cutButton.tooltip              "काटू">
+<!ENTITY copyButton.tooltip             "नकल  करू ">
 <!ENTITY pasteButton.tooltip            "साटू">
 
 <!ENTITY quitApplicationCmdWin.label       "बाहर"> 
@@ -524,7 +524,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "ई पृष्ठ मे ढूँढ़ें…">
+<!ENTITY findOnCmd.label     "ई पृष्ठ मे ताकू…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "फेर ताकू">
@@ -545,7 +545,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY identity.unverifiedsite2 "ई वेबसाइट पहचान सूचना नहि देत अछि.">
-<!ENTITY identity.connectedTo "आप एतय कनेक्टेड अछिं">
+<!ENTITY identity.connectedTo "अहाँ एतय कनेक्टेड अछि">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -557,14 +557,14 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "कौन इसके द्वारा चलता अछि">
+<!ENTITY identity.runBy "कओन एकरासँ चलबै अछि">
 
 <!ENTITY identity.moreInfoLinkText " बेसी  सूचना…">
 
-<!ENTITY downloadMonitor2.tooltip "डाउनलोड विंडो खोलब क लेल क्लिक  करू ">
+<!ENTITY downloadMonitor2.tooltip "डाउनलोड विंडो खोलबाक लेल क्लिक  करू ">
 
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY reloadImageCmd.label         "छवि फेर लोड  करू ">
+<!ENTITY reloadImageCmd.label         "छवि फेर लोड करू ">
 
 <!ENTITY viewVideoCmd.label           "वीडियो देखू">
 <!ENTITY viewVideoCmd.accesskey       "I">
@@ -575,7 +575,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY bookmarksToolbarChevron.tooltip " बेसी  पुस्तचिह्न देखाओलँ">
+<!ENTITY bookmarksToolbarChevron.tooltip " बेसी  पुस्तकचिह्न देखाउ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(निज ब्राउज़िंग)">
 
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
@@ -584,7 +584,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "निज ब्राउज़िंग आरंभ  करू ">
 <!ENTITY privateBrowsingCmd.start.accesskey     "B">
-<!ENTITY privateBrowsingCmd.stop.label          "निज ब्राउज़िंग रोकें">
+<!ENTITY privateBrowsingCmd.stop.label          "निज ब्राउज़िंग रोकू">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "B">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -594,15 +594,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY appMenuEdit.label "Edit">
 <!ENTITY appMenuCustomize.label "पसंदीदा  करू ">
-<!ENTITY appMenuToolbarLayout.label "औज़ारपट्टी ख़ाका…">
+<!ENTITY appMenuToolbarLayout.label "अओजारपट्टी खाका…">
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Find…">
-<!ENTITY appMenuUnsorted.label "बिनु छाँटा पुस्तचिह्न">
+<!ENTITY appMenuUnsorted.label "बिनु छाँटल पुस्तकचिह्न">
 <!ENTITY appMenuWebDeveloper.label "वेब डेवलेपर">
 <!ENTITY appMenuGettingStarted.label "आरंभन">
 <!ENTITY appMenuSafeMode.label "निष्क्रिय सहयुक्ति सँ फेर आरंभ  करू …">
 <!ENTITY appMenuSafeMode.accesskey "R">
-<!ENTITY backForwardItem.title        "पीछे/आगे">
+<!ENTITY backForwardItem.title        "पाछाँ/आगाँ">
 
 
 
@@ -620,6 +620,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewTabGroups.accesskey        "G">
 
 <!ENTITY preferencesCmd2.label       "विकल्प">
-<!ENTITY showAllBookmarks2.label "सभटा पुस्तचिह्नों केँ देखाओलँ">
+<!ENTITY showAllBookmarks2.label "सभटा पुस्तकचिह्न केँ देखाउ">
 <!ENTITY preferencesCmd2.accesskey     "O">
 
