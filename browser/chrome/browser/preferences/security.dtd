@@ -14,7 +14,7 @@
 <!ENTITY  blockWebForgeries.label     "Bloccar ina website, sch'ella è annunziada sco emprova d'engion">
 <!ENTITY  blockWebForgeries.accesskey "B">
 
-<!ENTITY  addonExceptions.label         "Excepziuns...">
+<!ENTITY  addonExceptions.label         "Excepziuns…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
@@ -22,13 +22,13 @@
 
 <!ENTITY  rememberPasswords.label       "Memorisar ils pleds-clav">
 <!ENTITY  rememberPasswords.accesskey   "p">
-<!ENTITY  passwordExceptions.label      "Excepziuns...">
+<!ENTITY  passwordExceptions.label      "Excepziuns…">
 <!ENTITY  passwordExceptions.accesskey  "u">
 
 <!ENTITY  useMasterPassword.label        "Utilisar in pled-clav universal">
 <!ENTITY  useMasterPassword.accesskey    "a">
-<!ENTITY  changeMasterPassword.label     "Midar il pled-clav universal...">
+<!ENTITY  changeMasterPassword.label     "Midar il pled-clav universal…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "Pleds-clav memorisads...">
+<!ENTITY  savedPasswords.label            "Pleds-clav memorisads…">
 <!ENTITY  savedPasswords.accesskey        "P">

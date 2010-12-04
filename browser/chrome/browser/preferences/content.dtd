@@ -1,16 +1,16 @@
 <!ENTITY  blockPopups.label           "Bloccar fanestras popup">
 <!ENTITY  blockPopups.accesskey       "p">
-<!ENTITY  popupExceptions.label       "Excepziuns...">
+<!ENTITY  popupExceptions.label       "Excepziuns…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  loadImages.label            "Chargiar las graficas">
 <!ENTITY  loadImages.accesskey        "g">
-<!ENTITY  exceptions.label            "Excepziuns...">
+<!ENTITY  exceptions.label            "Excepziuns…">
 <!ENTITY  exceptions.accesskey        "u">
 
 <!ENTITY  enableJavaScript.label      "Activar JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Extendì...">
+<!ENTITY  advancedJS.label            "Extendì…">
 <!ENTITY  advancedJS.accesskey        "E">
 
 <!ENTITY  enableJava.label            "Activar Java">
@@ -24,14 +24,14 @@
 <!ENTITY  defaultSize.label           "Grondezza:">
 <!ENTITY  defaultSize.accesskey       "r">
 
-<!ENTITY  advancedFonts.label         "Extendì...">
+<!ENTITY  advancedFonts.label         "Extendì…">
 <!ENTITY  advancedFonts.accesskey     "E">
 
-<!ENTITY  colors.label                "Colurs...">
+<!ENTITY  colors.label                "Colurs…">
 <!ENTITY  colors.accesskey            "C">
 
 
 <!ENTITY languages.label              "Linguas">
 <!ENTITY chooseLanguage.label         "Tscherna tia lingua preferida per la visualisaziun da websites">
-<!ENTITY chooseButton.label           "Tscherner...">
+<!ENTITY chooseButton.label           "Tscherner…">
 <!ENTITY chooseButton.accesskey       "T">

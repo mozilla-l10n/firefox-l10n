@@ -12,7 +12,7 @@
 <!ENTITY safeb.palm.accept.statustext "A mia pagina da partenza">
 <!ENTITY safeb.palm.decline.label "Ignorar quest avertiment">
 <!ENTITY safeb.palm.decline.statustext "Serrar quest avertiment" >
-<!ENTITY safeb.palm.notforgery.label2 "Quai n'è betg in'emprova d'engion...">
+<!ENTITY safeb.palm.notforgery.label2 "Quai n'è betg in'emprova d'engion…">
 <!ENTITY safeb.palm.reportPage.label "Pertge è questa pagina vegnida bloccada?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Classifitgà sco pagina attatganta!">

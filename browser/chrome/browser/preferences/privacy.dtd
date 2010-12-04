@@ -23,10 +23,10 @@
 <!ENTITY  close.label                   "&brandShortName; vegn serrà">
 <!ENTITY  askEachTime.label             "dumandar mintga giada">
 
-<!ENTITY  cookieExceptions.label        "Excepziuns...">
+<!ENTITY  cookieExceptions.label        "Excepziuns…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Mussar ils cookies...">
+<!ENTITY  showCookies.label             "Mussar ils cookies…">
 <!ENTITY  showCookies.accesskey         "o">
 
 
