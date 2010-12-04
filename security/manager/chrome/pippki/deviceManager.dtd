@@ -57,7 +57,7 @@
 <!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info                        "मौड्यूल  कलेल  सूचना जकरा अहँ जोड़नाइइ चाहैत अछि.">
+<!ENTITY loaddevice.info                        "मौड्यूल  कलेल  सूचना जकरा अहँ जोड़नाइइ चाहैत  अछि .">
 <!ENTITY loaddevice.modname                     "मौड्यूल नाम:">
 <!ENTITY loaddevice.modname.accesskey           "M">
 <!ENTITY loaddevice.modname.default             "नव PKCS#11 मौड्यूल">

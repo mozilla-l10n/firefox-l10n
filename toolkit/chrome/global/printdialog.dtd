@@ -18,7 +18,7 @@
 <!ENTITY copies.label "नक़ल">
 <!ENTITY numCopies.label "नक़ल क संख्या:">
 <!ENTITY printframeGroup.label "फ्रेमों केँ छापू">
-<!ENTITY aslaidoutRadio.label "स्क्रीन पर जहिना रखा अछि">
+<!ENTITY aslaidoutRadio.label "स्क्रीन पर जहिना रखा  अछि ">
 <!ENTITY selectedframeRadio.label "चुनल फ्रेम">
 <!ENTITY eachframesepRadio.label "हर फ्रेम अलग से">
 <!ENTITY printerInput.accesskey "N">

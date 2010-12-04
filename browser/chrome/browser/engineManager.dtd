@@ -1,6 +1,6 @@
 <!ENTITY  engineManager.title       "खोज इंजन सूची प्रबंधित  करू ">
 <!ENTITY  engineManager.style       "min-width: 35em;">
-<!ENTITY  engineManager.intro       "अहाँक पास निम्न खोज इंजन स्थापित अछि:">
+<!ENTITY  engineManager.intro       "अहाँक पास निम्न खोज इंजन स्थापित  अछि :">
 
 <!-- Buttons -->
 <!ENTITY  up.label                  "उप्पर जाउ">

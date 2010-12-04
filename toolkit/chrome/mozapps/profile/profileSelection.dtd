@@ -34,7 +34,7 @@
 <!ENTITY deleteButton.label "प्रोफाइल हटाउ (D)...">
 <!ENTITY deleteButton.accesskey "D">
 <!-- manager entities -->
-<!ENTITY pmDescription.label "&brandShortName; अहाँक सेटिंग सूचना, वरीयतायें एवं  आन  प्रयोक्ता वस्तु केँ अहाँक प्रयोक्ता प्रोफाइल मे सहेजता अछि.">
+<!ENTITY pmDescription.label "&brandShortName; अहाँक सेटिंग सूचना, वरीयतायें एवं  आन  प्रयोक्ता वस्तु केँ अहाँक प्रयोक्ता प्रोफाइल मे सहेजता  अछि .">
 <!ENTITY offlineState.label "आफ़लाइन कार्य (o)">
 <!ENTITY offlineState.accesskey "o">
 <!ENTITY autoSelect.label " स्टार्टअप पर न पूछू (s)">

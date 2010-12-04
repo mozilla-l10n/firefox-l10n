@@ -1,8 +1,8 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "छप रहल अछि">
+<!ENTITY printWindow.title "छप रहल  अछि ">
 <!ENTITY title "शीर्षक:">
 <!ENTITY progress "प्रगति:">
-<!ENTITY preparing "तैयार कए रहल अछि...">
+<!ENTITY preparing "तैयार कए रहल  अछि ...">
 <!ENTITY printComplete "छपाइ समाप्त.">
 <!ENTITY dialogCancel.label "रद्द  करू ">
 <!ENTITY dialogClose.label "बन्न  करू ">

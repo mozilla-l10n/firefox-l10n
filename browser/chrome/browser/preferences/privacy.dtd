@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY  rememberDescription.label      "&brandShortName; अहाँक ब्राउजिंग, डाउनलोड, फार्म, आओर खोज इतिहास केँ याद राखैतह आओर वेबसाइट सँ कुकीज जमा राखैतह जखन अहँ साइट पर जाइत अछि.">
+<!ENTITY  rememberDescription.label      "&brandShortName; अहाँक ब्राउजिंग, डाउनलोड, फार्म, आओर खोज इतिहास केँ याद राखैतह आओर वेबसाइट सँ कुकीज जमा राखैतह जखन अहँ साइट पर जाइत  अछि .">
 
 
 <!-- LOCALIZATION NOTE:
@@ -92,7 +92,7 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 
-<!ENTITY  locbar.pre.label              "जखन स्थान पट्टी क प्रयोग कएल जाए रहल अछि, सलाह दिअ':">
+<!ENTITY  locbar.pre.label              "जखन स्थान पट्टी क प्रयोग कएल जाए रहल  अछि , सलाह दिअ':">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "इतिहास आ पुस्तकचिह्न">
@@ -100,10 +100,10 @@
 <!ENTITY  locbar.bookmarks.label        "पुस्तकचिह्न">
 <!ENTITY  locbar.nothing.label          "किछु नहि">
 
-<!ENTITY  privateBrowsingPermanent.label "स्थायी निजी ब्राउज़िंग विधि">
+<!ENTITY  privateBrowsingPermanent.label "स्थायी निज ब्राउज़िंग विधि">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "मेरे ब्राउज़िंग इतिहास याद रखें">
+<!ENTITY  rememberHistory.label      "मेरे ब्राउज़िंग इतिहास याद राखू">
 <!ENTITY  rememberHistory.accesskey  "b">
 
 

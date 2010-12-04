@@ -4,8 +4,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "आरंभ कए रहल अछि…">
-<!ENTITY scanning.label                   "वायरस क लेल स्कैनिंग कए रहल अछि…">
+<!ENTITY starting.label                   "आरंभ कए रहल  अछि …">
+<!ENTITY scanning.label                   "वायरस क लेल स्कैनिंग कए रहल  अछि …">
 
 <!ENTITY downloads.title                  "डाउनलोड">
 
@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "खोलू">
 <!ENTITY cmd.open.accesskey               "O">
-<!ENTITY cmd.openWith.label               "एकरासँ खोलू…">
+<!ENTITY cmd.openWith.label               "एकटारासँ खोलू…">
 <!ENTITY cmd.openWith.accesskey           "h">
 <!ENTITY cmd.retry.label                  "फेर कोशिश  करू ">
 <!ENTITY cmd.retry.accesskey              "R">
@@ -36,7 +36,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "सूची साफ  करू ">
-<!ENTITY cmd.clearList.tooltip            "पूर्ण, रद्द कएल भेल, आओर बिफल डाउनलोड केँ सूची सँ हटाता अछि">
+<!ENTITY cmd.clearList.tooltip            "पूर्ण, रद्द कएल भेल, आओर बिफल डाउनलोड केँ सूची सँ हटाता  अछि ">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">

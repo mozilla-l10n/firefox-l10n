@@ -16,19 +16,19 @@
 <!ENTITY aboutSupport.appBasicsTitle "अनुप्रयोग मूल">
 <!ENTITY aboutSupport.appBasicsName "नाम">
 <!ENTITY aboutSupport.appBasicsVersion "संस्करण">
-<!ENTITY aboutSupport.appBasicsProfileDir "प्रोफ़ाइल निर्देशिका">
+<!ENTITY aboutSupport.appBasicsProfileDir "प्रोफाइल निर्देशिका">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "सक्रिय प्लगिन">
 <!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड विन्यास">
-<!ENTITY aboutSupport.appBasicsUserAgent "उपयोक्ता प्रतिनिधि">
+<!ENTITY aboutSupport.appBasicsUserAgent "प्रयोक्ता प्रतिनिधि">
 
-<!ENTITY aboutSupport.show.label "शामिल करने वाले फ़ोल्डर खोलें">
+<!ENTITY aboutSupport.show.label "शामिल करब वाले फोल्डर खोलू">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "फाइंडर में पता करें">
+<!ENTITY aboutSupport.showMac.label "फाइंडर मे पता  करू ">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "रूपांतरित वरीयताएँ">
+<!ENTITY aboutSupport.modifiedPrefsTitle "रूपांतरित वरीयता">
 <!ENTITY aboutSupport.modifiedPrefsName "नाम">
 <!ENTITY aboutSupport.modifiedPrefsValue "मान">
 
@@ -37,4 +37,4 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.installationHistoryTitle "संस्थापन इतिहास">
 <!ENTITY aboutSupport.updateHistoryTitle "अद्यतन इतिहास">
 
-<!ENTITY aboutSupport.copyToClipboard.label "सभी का क्लिपबोर्ड में नक़ल लें">
+<!ENTITY aboutSupport.copyToClipboard.label "सभटा क क्लिपबोर्ड मे नक़ल लिअ">

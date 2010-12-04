@@ -1,12 +1,12 @@
-<!ENTITY dialog.title "औजारपट्टी मनपसंद बनाउ">
-<!ENTITY instructions.description "अहाँ औजारपट्टी सँ अथवा मे वस्तु केँ खींचकर जोड़ अथवा हटा सकैत अछि.">
+<!ENTITY dialog.title "अओजारपट्टी मनपसंद बनाउ">
+<!ENTITY instructions.description "अहाँ अओजारपट्टी सँ अथवा मे वस्तु केँ खींचकर जोड़ अथवा हटा सकैत  अछि .">
 <!ENTITY show.label "देखाओलँ:">
 <!ENTITY iconsAndText.label "प्रतीक आओर पाठ">
 <!ENTITY icons.label "प्रतीक">
 <!ENTITY text.label "पाठ">
 <!ENTITY useSmallIcons.label "छोटे प्रतीक क प्रयोग  करू ">
 <!ENTITY restoreDefaultSet.label "पूर्वनिर्धारित सेट फेर बहाल  करू ">
-<!ENTITY addNewToolbar.label "नई औजारपट्टी जोड़ू">
+<!ENTITY addNewToolbar.label "नई अओजारपट्टी जोड़ू">
 <!ENTITY saveChanges.label "संपन्न">
 <!ENTITY undoChanges.label "परिवर्तन पहले जहिना बनाउ">
 <!ENTITY dialog.style             "width: 635px; height: 400px;">

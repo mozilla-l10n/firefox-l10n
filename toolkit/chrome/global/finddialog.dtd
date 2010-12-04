@@ -1,7 +1,7 @@
 <!-- extracted from finddialog.xul -->
 <!ENTITY findDialog.title "ई पृष्ठ मे ताकू">
 
-<!ENTITY findField.label "की ढूँढ़ना अछि:">
+<!ENTITY findField.label "की ढूँढ़ना  अछि :">
 <!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "केस भेटलन  करू ">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">

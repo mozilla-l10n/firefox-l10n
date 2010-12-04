@@ -46,11 +46,11 @@
 <!ENTITY certmgr.ca.builtins                  "अंतनिर्मित CA">
 <!ENTITY certmgr.ca.mycas                     "CAs अहाँक द्वारा प्रबंधित">
 
-<!ENTITY certmgr.mine                         "अहाँक पास प्रमाणपत्र अछि इन संगठनों सँ जे जे अहाँकेँ पहचानता अछि:">
-<!ENTITY certmgr.others                       "अहाँक पास प्रमाणपत्र अछि फाइल पर जे जे इन लोगों केँ पहचानता अछि:">
-<!ENTITY certmgr.websites2                    "अहाँक पास प्रमाणपत्र अछि फाइल पर जे जे इन सर्वर पहचानते अछि:">
-<!ENTITY certmgr.cas                          "अहाँक पास प्रमाणपत्र अछि फाइल पर जे जे ये प्रमाणपत्र प्राधिकारी इन्हें पहचानते अछि:">
-<!ENTITY certmgr.orphans                      "अहाँक पास प्रमाणपत्र अछि फाइल पर जे ककरो श्रेणी मे सटीक नहि बैठते अछि:">
+<!ENTITY certmgr.mine                         "अहाँक पास प्रमाणपत्र  अछि  इन संगठनों सँ जे जे अहाँकेँ पहचानता  अछि :">
+<!ENTITY certmgr.others                       "अहाँक पास प्रमाणपत्र  अछि  फाइल पर जे जे इन लोगों केँ पहचानता  अछि :">
+<!ENTITY certmgr.websites2                    "अहाँक पास प्रमाणपत्र  अछि  फाइल पर जे जे इन सर्वर पहचानते  अछि :">
+<!ENTITY certmgr.cas                          "अहाँक पास प्रमाणपत्र  अछि  फाइल पर जे जे ये प्रमाणपत्र प्राधिकारी इन्हें पहचानते  अछि :">
+<!ENTITY certmgr.orphans                      "अहाँक पास प्रमाणपत्र  अछि  फाइल पर जे ककरो श्रेणी मे सटीक नहि बैठते  अछि :">
 
 <!ENTITY certmgr.detail.general_tab.title     "सामान्य">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -58,8 +58,8 @@
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                " मोजुदा  जाँचकर्ता प्रमाणपत्र…">
-<!ENTITY certmgr.subjectinfo.label            "एकरामे निर्गत">
-<!ENTITY certmgr.issuerinfo.label             "एकर द्वारा निर्गत">
+<!ENTITY certmgr.subjectinfo.label            "एकटारामे निर्गत">
+<!ENTITY certmgr.issuerinfo.label             "एकटार द्वारा निर्गत">
 <!ENTITY certmgr.validity.label               "वैधता" >
 <!ENTITY certmgr.fingerprints.label           "फिंगरप्रिंट">
 <!ENTITY certmgr.certdetail.title             "प्रमाणपत्र विवरण">
@@ -74,9 +74,9 @@
 <!ENTITY certmgr.editcacert.title             "CA प्रमाणपत्र ट्रस्ट जमावट केँ संपादित  करू ">
 <!ENTITY certmgr.editsslcert.title            "वेबसाइट प्रमाणपत्र ट्रस्ट जमावट संपादित  करू ">
 <!ENTITY certmgr.editcert.edittrust           "ट्रस्ट जमावट संपादित  करू :">
-<!ENTITY certmgr.editcert.trustssl            "ई प्रमाणपत्र वैबसाइट पहचान सकैत अछि.">
-<!ENTITY certmgr.editcert.trustemail          "ई प्रमाणपत्र मेल प्रयोक्ता केँ पहचान सकैत अछि.">
-<!ENTITY certmgr.editcert.trustobjsign        "ई प्रमाणपत्र साफ्टवेयर निर्माता केँ पहचान सकैत अछि.">
+<!ENTITY certmgr.editcert.trustssl            "ई प्रमाणपत्र वैबसाइट पहचान सकैत  अछि .">
+<!ENTITY certmgr.editcert.trustemail          "ई प्रमाणपत्र मेल प्रयोक्ता केँ पहचान सकैत  अछि .">
+<!ENTITY certmgr.editcert.trustobjsign        "ई प्रमाणपत्र साफ्टवेयर निर्माता केँ पहचान सकैत  अछि .">
 <!ENTITY certmgr.editsslcert.edittrust        "प्रमाणपत्र ट्रस्ट जमावट संपादित  करू :">
 <!ENTITY certmgr.editsslcert.dotrust          "ई प्रमाणपत्र क प्रमाणिकता जाँचू.">
 <!ENTITY certmgr.editsslcert.donttrust        "ई प्रमाणपत्र क प्रमाणिकता पर भरोसा मत  करू .">
@@ -86,11 +86,11 @@
 <!ENTITY certmgr.editemailcert.donttrust      "ई प्रमाणपत्र क प्रमाणिकता पर भरोसा मत  करू .">
 
 <!ENTITY certmgr.deletecert.title             "प्रमाणपत्र मेटाययें">
-<!ENTITY certmgr.deletecert.beforename        "अहाँ एहि प्रमाणपत्र केँ मेटायने क लेल आग्रह भेजा अछि:">
-<!ENTITY certmgr.deletecert.aftername         "की अहँ एहि प्रमाणपत्र केँ मेटायने क लेल निश्चित अछि?">
+<!ENTITY certmgr.deletecert.beforename        "अहाँ एहि प्रमाणपत्र केँ मेटायने क लेल आग्रह भेजा  अछि :">
+<!ENTITY certmgr.deletecert.aftername         "की अहँ एहि प्रमाणपत्र केँ मेटायने क लेल निश्चित  अछि ?">
 <!ENTITY certmgr.deleteusercert.title         " अपन  प्रमाणपत्र मेटाउ">
-<!ENTITY certmgr.deleteusercert.beforename    "अहाँ एहि प्रमाणपत्र केँ मेटायने क लेल आग्रह कएल अछि:">
-<!ENTITY certmgr.deleteusercert.aftername     "ई प्रमाणपत्र क मेटायने पर, अहँ मेल पढ़ने मे असमर्थ होंगे जे एकरासँ गोपित अछि.">
+<!ENTITY certmgr.deleteusercert.beforename    "अहाँ एहि प्रमाणपत्र केँ मेटायने क लेल आग्रह कएल  अछि :">
+<!ENTITY certmgr.deleteusercert.aftername     "ई प्रमाणपत्र क मेटायने पर, अहँ मेल पढ़ने मे असमर्थ होंगे जे एकटारासँ गोपित  अछि .">
 
 <!ENTITY certmgr.certname                     "प्रमाणपत्र नाम">
 <!ENTITY certmgr.certserver                   "सर्वर">
