@@ -75,7 +75,7 @@
 <!ENTITY  mediaDimension        "Dimensiun:">
 <!ENTITY  mediaLongdesc         "Descripziun detagliada:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Memorisar sut...">
+<!ENTITY  mediaSaveAs           "Memorisar sut…">
 <!ENTITY  mediaSaveAs.accesskey "s">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Prevista da las medias:">

@@ -20,6 +20,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Mussar tut ils chavazzins">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Chargiar quest segnapagina en la trav laterala">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "C">
-<!ENTITY editBookmarkOverlay.choose.label                    "Tscherner...">
+<!ENTITY editBookmarkOverlay.choose.label                    "Tscherner…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nov ordinatur">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

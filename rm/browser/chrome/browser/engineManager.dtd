@@ -15,7 +15,7 @@
 <!ENTITY  edit.label                "Modifitgar il pled magic">
 <!ENTITY  edit.accesskey            "M">
 
-<!ENTITY  addEngine.label           "Agiuntar ulteriuras maschinas da tschertgar...">
+<!ENTITY  addEngine.label           "Agiuntar ulteriuras maschinas da tschertgar…">
 <!ENTITY  addEngine.accesskey       "A">
 
 <!ENTITY  enableSuggest.label       "Mussar propostas per la tschertga">
