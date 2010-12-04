@@ -12,5 +12,5 @@
 <!ENTITY networkPanel.responseBodyCached          "Datas en il chache">
 <!ENTITY networkPanel.responseBodyUnknownType     "Tip da cuntegn nunenconuschent">
 <!ENTITY networkPanel.responseNoBody              "Nagin corp da la risposta">
-<!ENTITY networkPanel.responseImage               "Maletg retschavì">
-<!ENTITY networkPanel.responseImageCached         "Maletg en il cache">
+<!ENTITY networkPanel.responseImage               "Grafica retschavida">
+<!ENTITY networkPanel.responseImageCached         "Grafica en il cache">

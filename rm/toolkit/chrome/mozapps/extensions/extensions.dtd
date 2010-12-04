@@ -47,7 +47,7 @@
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Ils supplements vegnan actualisads">
 <!ENTITY updates.installed.label              "Tes supplements èn vegnids actualisads.">
-<!ENTITY updates.downloaded.label             "Tias actualisaziuns dals supplements èn vegnidas telechargiadas.">
+<!ENTITY updates.downloaded.label             "Las actualisaziuns dals supplements èn vegnidas telechargiadas.">
 <!ENTITY updates.restart.label                "Reaviar ussa per terminar l'installaziun">
 <!ENTITY updates.noneFound.label              "Chattà naginas actualisaziuns">
 <!ENTITY updates.manualUpdatesFound.label     "Mussar las actualisaziuns disponiblas">
