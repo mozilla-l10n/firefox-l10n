@@ -174,7 +174,7 @@
 <!ENTITY addons.label "Papildinājumi">
 <!ENTITY addons.accesskey "A">
 <!ENTITY addons.commandkey "A">
-<!ENTITY showAllBookmarks.label "Rādīt visas grāmatzīmes…">
+<!ENTITY showAllBookmarks2.label "Rādīt visas grāmatzīmes">
 
 <!ENTITY inspectMenu.label            "Apskatīt">
 <!ENTITY inspectMenu.accesskey        "T">
@@ -213,8 +213,8 @@
 <!ENTITY selectAllCmd.label "Iezīmēt visu">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "V">
-<!ENTITY preferencesCmd.label "Iestatījumi...">
-<!ENTITY preferencesCmd.accesskey "I">
+<!ENTITY preferencesCmd2.label "Iestatījumi...">
+<!ENTITY preferencesCmd2.accesskey "m">
 <!ENTITY preferencesCmdUnix.label "Iestatījumi">
 <!ENTITY preferencesCmdUnix.accesskey "m">
 

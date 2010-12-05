@@ -25,9 +25,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Saglabāt…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!ENTITY syncKeyStrength.label     "Spēks:">
-<!ENTITY syncKeyHelp.label         "Ko nozīmē šis spēks?">
-
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.confirmPassword.label  "Apstipriniet paroli">
 <!ENTITY setup.confirmPassword.accesskey  "p">
