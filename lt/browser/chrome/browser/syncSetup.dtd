@@ -73,8 +73,6 @@
 <!ENTITY syncKeyEntry.label        "Jūsų sinchronizavimo raktas">
 <!ENTITY syncKeyEntry.accesskey    "r">
 <!ENTITY syncKeyGenerate.label     "Sugeneruoti">
-<!ENTITY syncKeyStrength.label     "Patikimumas:">
-<!ENTITY syncKeyHelp.label         "Ką reiškia rakto patikimumas?">
 <!ENTITY syncKeyBackup.description "Sinchronizavimo rakto Jums prireiks, kai norėsite „&syncBrand.fullName.label;“ pasiekti iš kito kompiuterio. Pasirūpinkite, kad jo nepamestumėte. Pametus sinchronizavimo raktą, mes negalėsime Jums padėti jo atstatyti.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Spausdinti…">

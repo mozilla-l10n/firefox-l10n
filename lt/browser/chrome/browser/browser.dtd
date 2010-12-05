@@ -134,7 +134,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label  "Prenumeruoti šio tinklalapio naujienas">
 <!ENTITY subscribeToPageMenuitem.label   "Prenumeruoti šio tinklalapio naujienas…">
 <!ENTITY addCurPagesCmd.label            "Įrašyti į adresyną visas korteles…">
-<!ENTITY showAllBookmarks.label          "Rodyti visą adresyną…">
+<!ENTITY showAllBookmarks2.label         "Rodyti visą adresyną">
 <!ENTITY bookmarkAllCmd.label            "Įrašyti į adresyną visas korteles…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kiti adresai">
 
@@ -268,10 +268,10 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Pažymėti viską">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "v"> 
-<!ENTITY preferencesCmd.label       "Nuostatos…">
-<!ENTITY preferencesCmd.accesskey     "N">
+<!ENTITY preferencesCmd2.label          "Nuostatos">
+<!ENTITY preferencesCmd2.accesskey      "N">
 <!ENTITY preferencesCmdUnix.label       "Nuostatos">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey   "N"> 
 
 <!ENTITY clearRecentHistory.label               "Valyti žurnalą…">
 <!ENTITY clearRecentHistory.accesskey           "V">
