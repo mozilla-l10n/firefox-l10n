@@ -11,7 +11,7 @@
 
 <!ENTITY  checking.wizard.title           "בודק עבור תוספות תואמות">
 <!ENTITY  checking.top.label              "בודק עדכונים עבור תוספות לא תואמות…">
-<!ENTITY  checking.status                 "יתכן שזה יארך מספר דקות…">
+<!ENTITY  checking.status                 "זה יכול לקחת מספר דקות…">
 
 <!ENTITY  found.wizard.title               "נמצאו תוספות תואמות">
 <!ENTITY  found.top.label                 "בחר את התוספות שברצונך להתקין:">
@@ -37,7 +37,7 @@
 
 <!ENTITY  versioninfo.wizard.title        "בודק תאימות תוספות">
 <!ENTITY  versioninfo.top.label           "בודק את התוספות שלך לתאימות עם גרסה זו של &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "זה יקח מספר דקות…">
+<!ENTITY  versioninfo.waiting             "זה יכול לקחת מספר דקות…">
 
 <!ENTITY  installerrors.wizard.title      "בעיה בהתקנת עדכונים">
 <!ENTITY  installerrors.intro.label       "&brandShortName; חווה בעיות בעדכון חלק מהתוספות שלך.">

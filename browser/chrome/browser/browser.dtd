@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "הירשם לדף זה">
 <!ENTITY subscribeToPageMenuitem.label "הירשם לדף זה...">
 <!ENTITY addCurPagesCmd.label "הוסף סימנייה לכל הלשוניות...">
-<!ENTITY showAllBookmarks.label "הצג את כל הסימניות…">
+<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
 <!ENTITY bookmarkAllCmd.label "הוסף סימנייה לכל הלשוניות...">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצג סימניות נוספות">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "בחר הכל">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "ב"> 
-<!ENTITY preferencesCmd.label       "אפשרויות...">
-<!ENTITY preferencesCmd.accesskey     "א"> 
+<!ENTITY preferencesCmd2.label       "אפשרויות">
+<!ENTITY preferencesCmd2.accesskey     "א">
 <!ENTITY preferencesCmdUnix.label       "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey     "ד"> 
 
