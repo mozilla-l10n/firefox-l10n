@@ -7,13 +7,13 @@
 <!ENTITY noProxyTypeRadio.label "Bez proxy serveru">
 <!ENTITY noProxyTypeRadio.accesskey "B">
 <!ENTITY systemTypeRadio.label "Použít nastavení proxy serverů v systému">
-<!ENTITY systemTypeRadio.accesskey "s">
+<!ENTITY systemTypeRadio.accesskey "u">
 <!ENTITY WPADTypeRadio.label "Automaticky detekovat nastavení">
 <!ENTITY WPADTypeRadio.accesskey "A">
 <!ENTITY manualTypeRadio.label "Ruční konfigurace proxy serverů">
-<!ENTITY manualTypeRadio.accesskey "R">
+<!ENTITY manualTypeRadio.accesskey "k">
 <!ENTITY autoTypeRadio.label "Použít skript pro automatickou konfiguraci:">
-<!ENTITY autoTypeRadio.accesskey "a">
+<!ENTITY autoTypeRadio.accesskey "m">
 <!ENTITY reload.label "Znovu načíst">
 <!ENTITY reload.accesskey "Z">
 <!ENTITY ftp.label "FTP proxy:">
@@ -25,9 +25,9 @@
 <!ENTITY socks.label "SOCKS server:">
 <!ENTITY socks.accesskey "C">
 <!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "K">
+<!ENTITY socks4.accesskey "4">
 <!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
+<!ENTITY socks5.accesskey "5">
 <!ENTITY port.label "Port:">
 <!ENTITY HTTPport.accesskey "p">
 <!ENTITY SSLport.accesskey "o">
@@ -37,4 +37,4 @@
 <!ENTITY noproxy.accesskey "N">
 <!ENTITY noproxyExplain.label "Příklad: .firma.com, .domena.cz, 192.168.1.0/24">
 <!ENTITY shareproxy.label "Pro všechny protokoly používat tento proxy server">
-<!ENTITY shareproxy.accesskey "P">
+<!ENTITY shareproxy.accesskey "e">
