@@ -3,7 +3,7 @@
 <!ENTITY community.start2           "&brandShortName; תוכנן על־ידי ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "קהילה עולמית">
 <!ENTITY community.end2             " שעובדת בשיתוף פעולה כדי להפוך את האינטרנט למקום יותר טוב. אנו מאמינים כי האינטרנט צריך להיות פתוח, חופשי ונגיש לכולם, ללא שום מגבלות.">
