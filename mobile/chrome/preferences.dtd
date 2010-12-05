@@ -12,3 +12,9 @@
 <!ENTITY rememberPasswords.title                   "Memorează parolele">
 <!ENTITY language.title                            "Limbă">
 <!ENTITY language.auto                             "Detecție automată">
+<!ENTITY defaultBrowser.title                      "Navigator implicit">
+<!ENTITY defaultBrowser.description                "Stabiliți &brandShortName; ca navigator implicit">
+<!ENTITY homepage.title                            "Pagina de început">
+<!ENTITY homepage.none                             "Pagină goală">
+<!ENTITY homepage.default                          "&brandShortName; Start">
+<!ENTITY homepage.currentpage                      "Folosește pagina curentă">

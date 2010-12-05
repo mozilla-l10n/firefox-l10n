@@ -1,9 +1,10 @@
+<!ENTITY urlbar.emptytext      "Introduceți o adresă sau ceva de căutat">
+
 <!ENTITY back.label            "Înapoi">
 <!ENTITY forward.label         "Înainte">
 <!ENTITY reload.label          "Reîncarcă">
 <!ENTITY stop.label            "Oprește">
 <!ENTITY go.label              "Du-te">
-<!ENTITY openLocation.label    "Deschide adresa">
 <!ENTITY star.label            "Steluță">
 
 <!ENTITY newtab.label          "Filă nouă">
@@ -11,28 +12,24 @@
 
 <!ENTITY cut.label             "Taie">
 <!ENTITY copy.label            "Copiază">
+<!ENTITY copyAll.label         "Copiază tot">
 <!ENTITY copylink.label        "Copiază adresa legăturii">
 <!ENTITY paste.label           "Lipește">
 <!ENTITY delete.label          "Șterge">
 <!ENTITY selectAll.label       "Selectează tot">
 <!ENTITY noSuggestions.label   "(Nicio sugestie)">
 <!ENTITY addToDictionary.label "Adaugă la dicționar">
+<!ENTITY inputMethod.label     "Select Input Method">
 
+<!ENTITY allPagesHeader.label      "Toate paginile">
 <!ENTITY bookmarksHeader.label     "Semne de carte">
-<!ENTITY bookmarksManage.label     "Gestionează">
+<!ENTITY historyHeader.label       "Istoric">
+<!ENTITY desktopHeader.label       "Spaţiu de lucru">
 
-<!ENTITY editBookmarkRemove.label  "Elimină">
 <!ENTITY editBookmarkDone.label    "Gata">
 <!ENTITY editBookmarkTags.label    "Etichete:">
 
-<!ENTITY helperApp.prompt          "Ce ați dori să faceți cu">
-<!ENTITY helperApp.open            "Deschide">
-<!ENTITY helperApp.save            "Salvează">
-<!ENTITY helperApp.nothing         "Nimic">
-
-<!ENTITY formHelper.previous       "Înapoi">
-<!ENTITY formHelper.next           "Înainte">
-<!ENTITY formHelper.done           "Gata">
+<!ENTITY selectHelper.done         "Gata">
 
 <!ENTITY addonsHeader.label        "Suplimente">
 <!ENTITY addonsLocal.label         "Suplimentele tale">
@@ -61,12 +58,11 @@
 <!ENTITY downloadResume.label      "Continuă">
 <!ENTITY downloadRetry.label       "Încearcă din nou">
 <!ENTITY downloadRemove.label      "Elimină">
+<!ENTITY downloadDelete.label      "Șterge">
 <!ENTITY downloadFailed.label      "Eșuat">
 
 <!ENTITY noResults.label           "Niciun rezultat">
 <!ENTITY allBookmarks.label        "Vezi toate semnele de carte">
-
-<!ENTITY searchEngine.addSearch    "Adaugă căutare:">
 
 <!ENTITY bookmarkPopup.label       "S-a pus semn la pagină">
 <!ENTITY bookmarkRemove.label      "Elimină">
@@ -92,3 +88,27 @@
 <!ENTITY consoleErrFile.label      "Fișier sursă:">
 <!ENTITY consoleErrLine.label      "Rândul:">
 <!ENTITY consoleErrColumn.label    "Coloana:">
+
+<!ENTITY contextOpenInNewTab.label    "Deschide legătura în filă nouă">
+<!ENTITY contextSaveLink.label        "Save Link">
+<!ENTITY contextSaveImage.label       "Salvează imaginea">
+<!ENTITY contextShareLink.label       "Share Link">
+<!ENTITY contextShareImage.label      "Share Image">
+<!ENTITY contextSaveVideo.label       "Save Video">
+<!ENTITY contextShareVideo.label      "Share Video">
+<!ENTITY contextPlayMedia.label       "Redare">
+<!ENTITY contextPauseMedia.label      "Pauză">
+<!ENTITY contextFullScreen.label      "Ecran complet">
+<!ENTITY contextEditBookmark.label    "Editează">
+<!ENTITY contextRemoveBookmark.label  "Şterge">
+
+<!ENTITY pageactions.saveas.pdf      "Salvează ca PDF">
+<!ENTITY pageactions.share.page      "Share Page">
+<!ENTITY pageactions.password.forget "Uită parola">
+<!ENTITY pageactions.reset           "Curăță preferințele saitului">
+<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.search.addNew   "Adăugare motor de căutare">
+
+<!ENTITY selectHelper.emptytext      "Filter List">
+
+<!ENTITY appMenu.siteOptions         "Site Options">
