@@ -31,8 +31,6 @@
 <!ENTITY syncKeyEntry.label "Ваш ключ Sync">
 <!ENTITY syncKeyEntry.accesskey "к">
 <!ENTITY syncKeyGenerate.label "Вырабіць">
-<!ENTITY syncKeyStrength.label "Моц:">
-<!ENTITY syncKeyHelp.label 'Што вызначае "моц"?'>
 <!ENTITY syncKeyBackup.description "Ключ Sync неабходны вам для доступу да &syncBrand.fullName.label; з іншых машынаў. Стварыце, калі ласка, яго адноўную копію. Мы не зможам дапамагчы вам аднавіць ваш ключ Sync.">
 <!ENTITY button.syncKeyBackup.print.label "Друкаваць…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Д">
