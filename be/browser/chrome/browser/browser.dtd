@@ -79,7 +79,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Падпісацца на гэтую старонку">
 <!ENTITY subscribeToPageMenuitem.label "Падпісацца на гэтую старонку…">
 <!ENTITY addCurPagesCmd.label "Дадаць закладкі да ўсіх уставак…">
-<!ENTITY showAllBookmarks.label "Паказаць усе закладкі…">
+<!ENTITY showAllBookmarks2.label "Паказаць усе закладкі">
 <!ENTITY bookmarkAllCmd.label "Дадаць закладкі да ўсіх уставак…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Паказаць больш закладак">
 <!ENTITY backCmd.label "Назад">
@@ -188,8 +188,8 @@
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ё">
-<!ENTITY preferencesCmd.label "Наладжванні…">
-<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY preferencesCmd2.label "Наладжванні">
+<!ENTITY preferencesCmd2.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
 <!ENTITY clearRecentHistory.label "Ачысціць нядаўнюю гісторыю…">
