@@ -25,12 +25,12 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Politica privind intimitatea dumneavoastră când folosiți produsele &vendorShortName; poate fi găsită ">
+<!ENTITY rights.intro-point3a "Politica privind confidențialitatea datelor când folosiți produsele &vendorShortName; poate fi găsită ">
 <!ENTITY rights.intro-point3b "aici">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Orice politică aplicabilă privind intimitatea în timp ce folosiți acest produs ar trebui listată aici.">
+<!ENTITY rights.intro-point3-unbranded "Orice politică aplicabilă confidențialității datelor în timp ce folosiți acest produs ar trebui listată aici.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName; vă oferă de asemenea servicii opționale de informare, cum ar fi serviciul SafeBrowsing; chiar și așa nu putem garanta că aceste servicii sunt 100&#37; perfecte. Mai multe detalii, inclusiv informații despre cum să dezactivați aceste servicii pot fi găsite în ">
