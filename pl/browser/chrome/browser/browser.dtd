@@ -113,7 +113,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Subskrybuj tę stronę">
 <!ENTITY subscribeToPageMenuitem.label "Subskrybuj tę stronę…">
 <!ENTITY addCurPagesCmd.label "Dodaj zakładki do wszystkich kart…">
-<!ENTITY showAllBookmarks.label "Wyświetl wszystkie zakładki…">
+<!ENTITY showAllBookmarks2.label "Wyświetl wszystkie zakładki">
 <!ENTITY bookmarkAllCmd.label "Dodaj zakładki do wszystkich kart…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
 
@@ -246,8 +246,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "Zaznacz wszystko" >
 <!ENTITY selectAllCmd.key "A" >
 <!ENTITY selectAllCmd.accesskey "a" >
-<!ENTITY preferencesCmd.label "Opcje…" >
-<!ENTITY preferencesCmd.accesskey "O" >
+<!ENTITY preferencesCmd2.label "Opcje">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Preferencje">
 <!ENTITY preferencesCmdUnix.accesskey   "r">
 
