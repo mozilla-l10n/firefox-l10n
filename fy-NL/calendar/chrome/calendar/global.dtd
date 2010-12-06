@@ -40,7 +40,7 @@
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-<!ENTITY day.1.Ddd "sni" >
+<!ENTITY day.1.Ddd "sne" >
 <!ENTITY day.1.Ddd.accesskey "s">
 <!ENTITY day.2.Ddd "moa" >
 <!ENTITY day.2.Ddd.accesskey "m">
@@ -52,11 +52,11 @@
 <!ENTITY day.5.Ddd.accesskey "o">
 <!ENTITY day.6.Ddd "fre" >
 <!ENTITY day.6.Ddd.accesskey "f">
-<!ENTITY day.7.Ddd "sno" >
-<!ENTITY day.7.Ddd.accesskey "o">
+<!ENTITY day.7.Ddd "sne" >
+<!ENTITY day.7.Ddd.accesskey "n">
 
 <!ENTITY day.1.name "snein" >
-<!ENTITY day.2.name "maondei" >
+<!ENTITY day.2.name "moandei" >
 <!ENTITY day.3.name "tiisdei" >
 <!ENTITY day.4.name "woansdei" >
 <!ENTITY day.5.name "tongersdei" >
@@ -64,7 +64,7 @@
 <!ENTITY day.7.name "sneon" >
 
 <!-- Units -->
-<!ENTITY calendar.global.units.minute   "minuut">
+<!ENTITY calendar.global.units.minute   "minút">
 <!ENTITY calendar.global.units.minutes  "minuten">
 <!ENTITY calendar.global.units.hour     "oer">
 <!ENTITY calendar.global.units.hours    "oeren">
