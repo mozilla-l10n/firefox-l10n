@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Inscrever RSS">
 <!ENTITY subscribeToPageMenuitem.label "Inscrever RSS…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
-<!ENTITY showAllBookmarks.label "Exibir todos os favoritos">
+<!ENTITY showAllBookmarks2.label "Exibir todos os favoritos">
 <!ENTITY bookmarkAllCmd.label "Adicionar todas as abas…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Exibir mais favoritos">
 
@@ -132,7 +132,7 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY appMenuButton.tooltip        "Abrir o menu do &brandShortName;">
 <!ENTITY homeButton.label             "Página inicial">
 
 <!ENTITY tabGroupsButton.label        "Grupos de abas">
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Selecionar tudo">  
 <!ENTITY selectAllCmd.key         "a">  
 <!ENTITY selectAllCmd.accesskey       "S"> 
-<!ENTITY preferencesCmd.label       "Opções…">
-<!ENTITY preferencesCmd.accesskey     "O"> 
+<!ENTITY preferencesCmd2.label       "Opções">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
@@ -320,8 +320,8 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "b">
 <!ENTITY openLinkCmd.label            "Abrir em nova janela">
 <!ENTITY openLinkCmd.accesskey        "A">
-<!ENTITY openLinkCmdInCurrent.label     "Open Link">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openLinkCmdInCurrent.label     "Abrir link">
+<!ENTITY openLinkCmdInCurrent.accesskey "r">
 <!ENTITY openFrameCmdInTab.label      "Abrir em nova aba">
 <!ENTITY openFrameCmdInTab.accesskey  "b">
 <!ENTITY openFrameCmd.label           "Abrir em nova janela">
@@ -546,5 +546,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "n">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
-<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncSyncNowItem.accesskey    "n">
 <!ENTITY syncToolbarButton.label      "Sincronizar">
