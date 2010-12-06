@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "En em enrollañ d'ar bajenn-mañ">
 <!ENTITY subscribeToPageMenuitem.label "En em enrollañ d'ar bajenn-mañ…">
 <!ENTITY addCurPagesCmd.label "Ouzhpennañ an holl ivinelloù d'ar sinedoù">
-<!ENTITY showAllBookmarks.label "Diskouez an holl sinedoù...">
+<!ENTITY showAllBookmarks2.label "Diskouez an holl sinedoù">
 <!ENTITY bookmarkAllCmd.label "Ouzhpennañ an holl ivinelloù d'ar sinedoù">
 <!ENTITY bookmarksToolbarChevron.tooltip "Diskouez meur a sined">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Diuz pep tra">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "a"> 
-<!ENTITY preferencesCmd.label       "Dibarzhioù…">
-<!ENTITY preferencesCmd.accesskey     "b"> 
+<!ENTITY preferencesCmd2.label       "Dibarzhioù">
+<!ENTITY preferencesCmd2.accesskey     "b">
 <!ENTITY preferencesCmdUnix.label       "Gwellvezioù">
 <!ENTITY preferencesCmdUnix.accesskey     "l"> 
 

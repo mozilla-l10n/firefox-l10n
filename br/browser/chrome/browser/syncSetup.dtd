@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "Hoc'h alc'hwez goubredañ">
 <!ENTITY syncKeyEntry.accesskey    "H">
 <!ENTITY syncKeyGenerate.label     "Genel">
-<!ENTITY syncKeyStrength.label     "Kreñvded :">
-<!ENTITY syncKeyHelp.label         "Petra a dalv ar greñvded ?">
 <!ENTITY syncKeyBackup.description "Ezhomm ez eus hoc'h alc'hwez enrinegañ a-benn tizhout &syncBrand.fullName.label; war urzhiataerioù all. Mar plij, savit un eilad gwarediñ. N'hallimp ket reiñ skoazell deoc'h a-benn adtapout hoc'h alc'hwez goubredañ.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Moullañ…">
@@ -92,11 +90,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Kadarnaat">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; a douezio holl roadennoù merdeer an urzhiataer-mañ en ho kont c'houbredañ.">
-<!ENTITY confirm.client.label         "Holl roadennoù &brandShortName; war an urzhiataer-mañ a vo dilamet, en o zouez :">
+<!ENTITY confirm.client2.label         "Evezh : Dilamet e vo roadennoù &brandShortName; da heul diwar an urzhiataer-mañ :">
 <!ENTITY confirm.client.moreinfo.label "Eilet e vo goude ho roadennoù &syncBrand.fullName.label; war an urzhiater-mañ gant &brandShortName;.">
-<!ENTITY confirm.client.warning.label "DIWALLIT : Amsavet e vo an holl roadennoù eus &brandShortName; war an urzhiataer-mañ !">
-<!ENTITY confirm.server.label         "Amsavet e vo roadennoù an urzhiataerioù da-heul gant ho roadennoù lec'hel :">
-<!ENTITY confirm.server.warning.label "DIWALLIT : Ho roadennoù lec'hel a amsavo holl roadennoù &brandShortName; war an urzhiataerioù-mañ !">
+<!ENTITY confirm.server2.label         "Evezh : Flastret e vo an trevnadoù da heul gant ho roadennoù lec'hel :">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Echu eo ar c'hefluniadur">
