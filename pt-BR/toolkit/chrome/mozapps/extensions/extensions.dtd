@@ -67,7 +67,7 @@
 <!ENTITY cmd.about.accesskey                  "S">
 
 <!ENTITY cmd.enableAddon.label                "Ativar">
-<!ENTITY cmd.enableAddon.accesskey            "t">
+<!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Desativar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "Aplicar tema">
