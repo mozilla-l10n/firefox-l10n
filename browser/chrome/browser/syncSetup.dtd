@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "Sua chave do Sync:">
 <!ENTITY syncKeyEntry.accesskey    "c">
 <!ENTITY syncKeyGenerate.label     "Gerar">
-<!ENTITY syncKeyStrength.label     "Força:">
-<!ENTITY syncKeyHelp.label         "O que a força significa?">
 <!ENTITY syncKeyBackup.description "Sua chave do Sync é necessária para acessar o &syncBrand.fullName.label; em outros dispositivos. Por favor, faça um backup. Nós não poderemos auxiliá-lo caso perca a chave do Sync.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
