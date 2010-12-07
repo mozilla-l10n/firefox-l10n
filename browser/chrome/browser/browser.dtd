@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Fo-sgrìobh gun duilleag seo">
 <!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
 <!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
-<!ENTITY showAllBookmarks.label "Seall a h-uile comharra-lìn…">
+<!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
 <!ENTITY bookmarkAllCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Tagh a h-uile">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "T"> 
-<!ENTITY preferencesCmd.label       "Roghainnean…">
-<!ENTITY preferencesCmd.accesskey     "o"> 
+<!ENTITY preferencesCmd2.label       "Roghainnean">
+<!ENTITY preferencesCmd2.accesskey     "o">
 <!ENTITY preferencesCmdUnix.label       "Roghainnean">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
