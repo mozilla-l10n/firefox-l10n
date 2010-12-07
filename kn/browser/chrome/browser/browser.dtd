@@ -139,11 +139,8 @@
 <!ENTITY selectAllCmd.label         "ಎಲ್ಲವನ್ನೂ ಆರಿಸು">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "ಆಯ್ಕೆಗಳು...">
-<!ENTITY preferencesCmd.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "ಆದ್ಯತೆಗಳು">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
-
 <!ENTITY viewMenu.label         "ನೋಟ"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "ಉಪಕರಣ ಪಟ್ಟಿಗಳು"> 
@@ -499,7 +496,6 @@ can reach it easily. -->
 <!ENTITY  reloadAllTabs.label                "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 
-<!ENTITY showAllBookmarks.label "ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ತೋರಿಸು…">
 <!ENTITY showAllTabsCmd.label "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
@@ -554,3 +550,7 @@ can reach it easily. -->
 <!ENTITY zoomOutButton.tooltip          "ಕುಗ್ಗಿಸು">
 <!ENTITY zoomInButton.tooltip           "ಹಿಗ್ಗಿಸು">
 <!ENTITY zoomControls.label             "ಗಾತ್ರಬದಲಾವಣೆ ನಿಯಂತ್ರಣಗಳು">
+
+<!ENTITY preferencesCmd2.label       "ಆಯ್ಕೆಗಳು">
+<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY showAllBookmarks2.label "ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ತೋರಿಸು">

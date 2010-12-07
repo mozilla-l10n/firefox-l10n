@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "ನಿಮ್ಮ ಸಿಂಕ್ ಕೀಲಿ">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "ಉತ್ಪಾದಿಸು">
-<!ENTITY syncKeyStrength.label     "ಸಾಮರ್ಥ್ಯ:">
-<!ENTITY syncKeyHelp.label         "ಸಾಮರ್ಥ್ಯ ಎಂದರೇನು?">
 <!ENTITY syncKeyBackup.description "&syncBrand.fullName.label; ಅನ್ನು ಇತರೆ ಗಣಕಗಳಲ್ಲಿ ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ನಿಮ್ಮ ಸಿಂಕ್ ಕೀಲಿಯ ಅಗತ್ಯವಿರುತ್ತದೆ. ದಯವಿಟ್ಟು ಒಂದು ಬ್ಯಾಕ್ಅಪ್ ಪ್ರತಿಯನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ. ನಿಮ್ಮ ಸಿಂಕ್ ಕೀಲಿಯನ್ನು ಹಿಂದಕ್ಕೆ ಪಡೆಯಲು ನಾವು ನೆರವು ನೀಡಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.">
 
 <!ENTITY button.syncKeyBackup.print.label     "ಮುದ್ರಿಸು…">
