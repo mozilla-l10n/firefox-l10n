@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "An iuchair co-shioncronachaidh agad">
 <!ENTITY syncKeyEntry.accesskey    "A">
 <!ENTITY syncKeyGenerate.label     "Gin">
-<!ENTITY syncKeyStrength.label     "Neart:">
-<!ENTITY syncKeyHelp.label         "Dè 's ciall do neart?">
 <!ENTITY syncKeyBackup.description "Tha feum air an iuchair cho-shioncronachaidh agad gus inntrigeadh a dhèanamh do &syncBrand.fullName.label; air innealan eile. Cruthaich lethbhreac glèidhidh. Chan urrainn dhuinn an iuchair co-shioncronachaidh aiseag dhut.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Clò-bhuail…">
