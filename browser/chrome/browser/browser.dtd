@@ -142,7 +142,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Բաժանորդագրվել Այս Էջին">
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
-<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
+<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
 <!ENTITY bookmarkAllCmd.label "Էջանշել Բոլոր Ներդիրները…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ցույց տալ ավելի շատ էջանիշերի">
 
@@ -276,8 +276,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Նշել Ամբողջը">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "Հատկանիշներ…">
-<!ENTITY preferencesCmd.accesskey     "Հ"> 
+<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Նախըտրանքներ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
