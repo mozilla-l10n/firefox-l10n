@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Berlangganan Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Berlangganan Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Markahi Semua Tab…">
-<!ENTITY showAllBookmarks.label "Tampilkan Semua Markah…">
+<!ENTITY showAllBookmarks2.label "Tampilkan Semua Markah…">
 <!ENTITY bookmarkAllCmd.label "Markahi Semua Tab…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan markah lainnya">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Pilih Semua">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "a"> 
-<!ENTITY preferencesCmd.label       "Pengaturan…">
-<!ENTITY preferencesCmd.accesskey     "g"> 
+<!ENTITY preferencesCmd2.label       "Pengaturan…">
+<!ENTITY preferencesCmd2.accesskey     "g"> 
 <!ENTITY preferencesCmdUnix.label       "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey     "g"> 
 

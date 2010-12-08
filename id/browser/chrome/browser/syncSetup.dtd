@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "Kunci Sinkronisasi Anda">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Buat">
-<!ENTITY syncKeyStrength.label     "Kekuatan:">
-<!ENTITY syncKeyHelp.label         "Apa artinya kekuatan?">
 <!ENTITY syncKeyBackup.description "Kunci Sinkronisasi Anda dibutuhkan untuk mengakses &syncBrand.fullName.label; di perangkat lainnya. Mohon buat cadangannya, kami tidak dapat membantu Anda memulihkan Kunci Sinkronisasi Anda.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Cetak…">
