@@ -61,7 +61,7 @@
 
 <!ENTITY setup.existingSyncKeyPage.title "Sync anahtarınızı girin">
 <!ENTITY setup.existingSyncKeyPage.description "&syncBrand.fullName.label; kaydı sırasında sizin için Sync anahtarı üretildi veya kendiniz girdiniz. Bu, parolanızla aynı değildir.">
-<!ENTITY existingSyncKeyHelp.description "Başka bilgisayarınızdaki Güvenlik bölümüne girip kayıtlı parolalara bakarak Sync anahtarınızı bulamazsınız. Sync anahtarınızı bulamıyorsanız sıfırlayabilirsiniz, ancak sunucuda kayıtlı tüm verileriniz kaybolacak.">
+<!ENTITY existingSyncKeyHelp.description "Başka bilgisayarınızdaki Güvenlik bölümüne girip kayıtlı parolalara bakarak kayıtlı Sync anahtarınızı bulabilirsiniz. Sync anahtarınızı bulamıyorsanız sıfırlayabilirsiniz, ancak sunucuda kayıtlı tüm verileriniz kaybolacaktır.">
 <!ENTITY lostSyncKey.label "Sync anahtarımı kaybettim">
 <!ENTITY verifying.label "Doğrulanıyor...">
 <!-- Sync Options -->
