@@ -10,7 +10,7 @@
 <!ENTITY address.accesskey "V">
 <!ENTITY block.label "Loka á">
 <!ENTITY block.accesskey "o">
-<!ENTITY session.label "Leyfa í þessari lotu">
+<!ENTITY session.label "Leyfa í þessari vafralotu">
 <!ENTITY session.accesskey "s">
 <!ENTITY allow.label "Leyfa">
 <!ENTITY allow.accesskey "f">

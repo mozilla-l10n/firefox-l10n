@@ -9,7 +9,7 @@
 
 <!ENTITY button.allow.label "Leyfa">
 <!ENTITY button.allow.accesskey "L">
-<!ENTITY button.session.label "Leyfa í þessari lotu">
+<!ENTITY button.session.label "Leyfa í þessari vafralotu">
 <!ENTITY button.session.accesskey "s">
 <!ENTITY button.deny.label "Hafna">
 <!ENTITY button.deny.accesskey "H">

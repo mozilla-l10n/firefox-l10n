@@ -1,6 +1,6 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title "Síðuuppsetning">
+<!ENTITY printSetup.title "Uppsetning síðu">
 <!ENTITY basic.tab "Snið og stillingar">
 <!ENTITY formatGroup.label "Snið">
 <!ENTITY orientation.label "Stefna:">
