@@ -168,8 +168,8 @@
 <!ENTITY selectAllCmd.label         "සියල්ල තෝරන්න">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "විකල්ප...">
-<!ENTITY preferencesCmd.accesskey     "O"> 
+<!ENTITY preferencesCmd2.label       "විකල්ප...">
+<!ENTITY preferencesCmd2.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "අභිප්‍රේත">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 <!ENTITY viewMenu.label         "දසුන්"> 
@@ -492,7 +492,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY unpinAppTab.label "Unpin Tab">
 <!ENTITY reloadAllTabs.label "සියළු ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY closeTab.accesskey "c">
-<!ENTITY showAllBookmarks.label "සියළු පිටුසලකුණු පෙන්වන්න…">
+<!ENTITY showAllBookmarks2.label "සියළු පිටුසලකුණු පෙන්වන්න…">
 <!ENTITY inspectMenu.label "පරීක්ෂා කරන්න">
 <!ENTITY inspectObjectButton.accesskey "O">
 <!ENTITY clearRecentHistory.label "මෑතකාලීන මතකය හිස් කරන්න…">
