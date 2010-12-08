@@ -12,8 +12,8 @@
 <!ENTITY savePageCmd.label "Vista síðu sem…">
 <!ENTITY savePageCmd.accesskey "i">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Síðuuppsetning…">
-<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY pageSetupCmd.label "Uppsetning síðu…">
+<!ENTITY pageSetupCmd.accesskey "U">
 <!ENTITY printPreviewCmd.label "Prentskoðun">
 <!ENTITY printPreviewCmd.accesskey "k">
 <!ENTITY printCmd.label "Prenta…">

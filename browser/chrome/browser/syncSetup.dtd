@@ -38,8 +38,6 @@
 <!ENTITY syncKeyEntry.label "Sync lykillinn þinn">
 <!ENTITY syncKeyEntry.accesskey "k">
 <!ENTITY syncKeyGenerate.label "Búa til">
-<!ENTITY syncKeyStrength.label "Styrkur:">
-<!ENTITY syncKeyHelp.label "Hvað þýðir styrkur?">
 <!ENTITY syncKeyBackup.description "Þú þarft að hafa Sync lykilinn þinn til að fá aðgang að &syncBrand.fullName.label; á öðrum tölvum. Vinsamlega búðu til afrit af lyklinum. Við getum ekki hjálpað þér að endurheimta Sync lykilinn þinn.">
 <!ENTITY button.syncKeyBackup.print.label "Prenta…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">

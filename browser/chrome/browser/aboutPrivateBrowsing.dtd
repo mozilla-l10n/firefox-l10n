@@ -1,6 +1,6 @@
 <!ENTITY privatebrowsingpage.title "Einkavöfrun">
 <!ENTITY privatebrowsingpage.title.normal "Viltu byrja einkavöfrun?">
-<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; mun ekki geyma feril fyrir þessa lotu.">
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; mun ekki geyma feril fyrir þessa vafralotu.">
 <!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; er ekki í einkavöfrunarham.">
 <!ENTITY privatebrowsingpage.description "Í einkavöfrun geymir &brandShortName; ekki feril, leitarferill, niðurhalsferill, vefsíðuferill, smákökur, eða tímabundnar Internet skrár.  Hinsvegar, munu allar niðurhalaðar skrár verða geymdar og svo öll bókamerki sem þú býrð til.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->

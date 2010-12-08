@@ -46,8 +46,8 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Opna skrá…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Síðuuppsetning…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Uppsetning síðu…">
+<!ENTITY printSetupCmd.accesskey "U">
 <!ENTITY printPreviewCmd.label "Prentskoðun">
 <!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Prenta…">
@@ -69,7 +69,7 @@ can reach it easily. -->
 <!ENTITY pageSourceCmd.label "Frumkóði síðu">
 <!ENTITY pageSourceCmd.accesskey "k">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Síðuupplýsingar">
+<!ENTITY pageInfoCmd.label "Upplýsingar síðu">
 <!ENTITY pageInfoCmd.accesskey "u">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Fylla skjá">
@@ -238,7 +238,6 @@ can reach it easily. -->
  
 <!ENTITY preferencesCmd2.label "Valkostir">
 <!ENTITY preferencesCmd2.accesskey "V">
- 
 <!ENTITY preferencesCmdUnix.label "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey "V">
  
@@ -273,7 +272,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Nýlega lokaðir flipar">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nýlega lokaðir gluggar">
-<!ENTITY historyRestoreLastSession.label "Sækja fyrri lotu">
+<!ENTITY historyRestoreLastSession.label "Sækja fyrri vafralotu">
 <!ENTITY historyHomeCmd.label "Heim">
 <!ENTITY showAllHistoryCmd2.label "Skoða alla ferla">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -328,18 +327,18 @@ can reach it easily. -->
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "Endurnýja ramma">
 <!ENTITY reloadFrameCmd.accesskey "r">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Frumkóði valins texta">
-<!ENTITY viewPartialSourceForMathMLCmd.label "Sjá MathML frumkóða">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Sýna frumkóða vals">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Sýna MathML frumkóða">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "k">
-<!ENTITY viewPageSourceCmd.label "Frumkóði síðu">
+<!ENTITY viewPageSourceCmd.label "Sýna frumkóða síðu">
 <!ENTITY viewPageSourceCmd.accesskey "k">
-<!ENTITY viewFrameSourceCmd.label "Frumkóði ramma">
+<!ENTITY viewFrameSourceCmd.label "Sýna frumkóða ramma">
 <!ENTITY viewFrameSourceCmd.accesskey "k">
-<!ENTITY viewPageInfoCmd.label "Síðuupplýsingar">
+<!ENTITY viewPageInfoCmd.label "Skoða upplýsingar síðu">
 <!ENTITY viewPageInfoCmd.accesskey "i">
-<!ENTITY viewFrameInfoCmd.label "Rammaupplýsingar">
+<!ENTITY viewFrameInfoCmd.label "Skoða upplýsingar ramma">
 <!ENTITY viewFrameInfoCmd.accesskey "i">
 <!ENTITY reloadImageCmd.label "Endurlesa mynd">
 <!ENTITY reloadImageCmd.accesskey "r">

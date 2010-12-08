@@ -37,8 +37,8 @@
 
 <!ENTITY print.label "Prenta…">
 <!ENTITY print.accesskey "P">
-<!ENTITY pageSetup.label "Síðuuppsetning…">
-<!ENTITY pageSetup.accesskey "u">
+<!ENTITY pageSetup.label "Uppsetning síðu…">
+<!ENTITY pageSetup.accesskey "U">
 <!ENTITY page.label "Bls:">
 <!ENTITY page.accesskey "B">
 <!ENTITY of.label "af">
