@@ -60,7 +60,7 @@
 <!ENTITY  generalEncoding       "Codaziun:">
 <!ENTITY  generalMetaName       "Num">
 <!ENTITY  generalMetaContent    "Cuntegn">
-<!ENTITY  generalSecurityDetails   "Details">
+<!ENTITY  generalSecurityDetails   "Detagls">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Medias">
