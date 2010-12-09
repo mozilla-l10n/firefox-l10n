@@ -277,7 +277,7 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "Édition">
 <!ENTITY appMenuCustomize.label "Personnaliser">
-<!ENTITY appMenuToolbarLayout.label "Personnaliser la barre d'outils…">
+<!ENTITY appMenuToolbarLayout.label "Personnaliser les barres d'outils…">
 <!ENTITY appMenuSidebars.label "Panneau latéral">
 <!ENTITY appMenuFind.label "Rechercher dans la page…">
 <!ENTITY appMenuUnsorted.label "Marque-pages non classés">
