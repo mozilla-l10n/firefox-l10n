@@ -415,3 +415,4 @@
 <!ENTITY syncSyncNowItem.label "Синхронизировать сейчас">
 <!ENTITY syncSyncNowItem.accesskey "х">
 <!ENTITY syncToolbarButton.label "Синхронизация">
+<!ENTITY addonBarCloseButton.tooltip "Закрыть панель дополнений">
