@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Bainvegni! Sche ti n'has anc mai utilisà &syncBrand.fullName.label; stos ti crear in nov conto.">
 <!ENTITY button.createNewAccount.label "Crear in nov conto">
-<!ENTITY button.haveAccount.label "Jau hai in conto da &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Jau hai gia in conto da &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label    "Connectar">
 
 <!ENTITY setup.choicePage.title.label     "Has ti gia utilisà &syncBrand.fullName.label; pli baud?">
 <!ENTITY setup.choicePage.new.label       "Jau n'hai anc mai utilisà &syncBrand.shortName.label;">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "Server da &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "Utilisar in server persunal">
-<!ENTITY signIn.account.label       "Adressa dad e-mail / Num d'utilisader">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "Utilisar in server persunal…">
+<!ENTITY signIn.account2.label      "Conto">
+<!ENTITY signIn.account2.accesskey  "C">
 <!ENTITY signIn.password.label      "Pled-clav">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "URL dal server">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "Clav da Sync">
+<!ENTITY signIn.syncKey.accesskey   "y">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detagls dal conto">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Conferma che ti n'es betg in roboter">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Agiuntar in apparat">
+<!ENTITY addDevice.showMeHow.label          "Mussar sco.">
+<!ENTITY addDevice.dontHaveDevice.label     "Jau n'hai betg qua l'apparat">
+<!ENTITY addDevice.setup.description.label  "Per activar, va a las preferenzas da &syncBrand.shortName.label; da tes auter apparat e tscherna &#x0022;Agiuntar in apparat&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Lura endatschea quest code:">
+<!ENTITY addDevice.dialog.description.label "Per activar tes nov apparat va en las preferenzas da &syncBrand.shortName.label; sin il appparat che duai vegnir agiuntà e tscherna &#x0022;Connectar&#x0022;.">
+<!ENTITY addDevice.dialog.enterCode.label   "Endatescha il code che quest apparat ta mussa:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Emprova danovamain.">
+<!ENTITY addDevice.dialog.successful.label  "L'apparat è vegnì agiuntà cun success. La sincronisaziun iniziala po cuzzar intginas minutas è vegn terminada automaticamain - ti pos lavurar vinavant.">
+<!ENTITY addDevice.dialog.syncKey.label     "Per activar tes apparat stos ti endatar tia clav da Sync. Stampa u memorisescha questa clav e la prenda cun tai.">
+<!ENTITY addDevice.dialog.connected.label   "Apparat è connectà">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Endatar infurmaziuns dal conto">
-<!ENTITY resetPassword.label          "Redefinir il pled-clav">
-<!ENTITY connecting.label             "Connectar…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Endatescha tia clav da Sync">
-<!ENTITY setup.existingSyncKeyPage.description "La clav da Sync è vegnida generada u endatada da tai cura che ti has creà tes conto da &syncBrand.fullName.label;. Ella na corrispunda betg a tes pled-clav.">
-<!ENTITY existingSyncKeyHelp.description "Eventualmain pos ti chattar tia clav da Sync sche ti guardas ils pleds-clav sin in auter computer che utilisescha il medem conto da Sync. Sche ti na la chattas dentant betg, pos ti laschar restituir tes conto. Lura vegnan dentant tut las datas da tes conto sin il server stizzadas.">
-<!ENTITY lostSyncKey.label            "Jau hai pers mia clav da Sync">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "S'annunziar">
+<!ENTITY existingSyncKey.description "Ti retschaivas ina copia da tia clav da Sync sche ti vas a las preferenzas da &syncBrand.shortName.label; sin tes auter apparat e tschernas &#x0022;Mia clav da Sync&#x0022; sut il punct &#x0022;Administrar il conto&#x0022;.">
 <!ENTITY verifying.label              "Verifitgar…">
+<!ENTITY resetPassword.label          "Redefinir il pled-clav">
+<!ENTITY lostSyncKey.label            "Jau hai pers mia clav da Sync">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opziuns da Sync">
