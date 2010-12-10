@@ -1,0 +1,21 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Konektatu gabe">
+<!ENTITY sync.connect               "Konektatu">
+<!ENTITY sync.connected             "Konektatuta">
+<!ENTITY sync.details               "Xehetasunak">
+<!ENTITY sync.synchronize           "Gaitu Sync">
+<!ENTITY sync.deviceName            "Gailu hau">
+<!ENTITY sync.disconnect            "Deskonektatu">
+<!ENTITY sync.syncNow               "Sinkronizatu orain">
+
+<!ENTITY sync.setup.title           "Konektatu Syncera">
+<!ENTITY sync.setup.jpake           "Firefox Syncera konektatutako ordenagailu batean, joan Sync aukeretara eta hautatu &#x0022;Gehitu gailua&#x0022;">
+<!ENTITY sync.fallback              "Ez nago nire ordenagailutik gertu…">
+<!ENTITY sync.setup.manual          "Sartu zure Sync kontuaren informazioa">
+<!ENTITY sync.account               "Kontuaren izena">
+<!ENTITY sync.password              "Pasahitza">
+<!ENTITY sync.syncKey               "Sync gakoa">
+<!ENTITY sync.customServer          "Erabili zerbitzari pertsonalizatua">
+<!ENTITY sync.serverURL             "Zerbitzariaren URLa">
+<!ENTITY sync.setup.connect         "Konektatu">
+<!ENTITY sync.setup.cancel          "Utzi">
