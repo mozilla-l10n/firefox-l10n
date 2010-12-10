@@ -3,7 +3,7 @@
 <!ENTITY startupPage.label         "&brandShortName; abiatzean:">
 <!ENTITY startupPage.accesskey     "a">
 <!ENTITY startupHomePage.label     "Erakutsi nire hasiera-orria">
-<!ENTITY startupBlankPage.label    "Erakutsi orri zuri bat">
+<!ENTITY startupBlankPage.label    "Erakutsi orri hutsa">
 <!ENTITY startupLastSession.label  "Berreskuratu azken saioko fitxa eta leihoak">
 <!ENTITY homepage.label            "Hasiera-orria:">
 <!ENTITY homepage.accesskey        "H">
