@@ -4,7 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "സ്വാഗതം. ഇതിനു് മുമ്പു് നിങ്ങള്‍ &syncBrand.fullName.label; ഒരിക്കലും ഉപയോഗിച്ചിട്ടില്ലെങ്കില്‍, പുതിയൊരു അക്കൌണ്ട് തയ്യാറാക്കുക.">
 <!ENTITY button.createNewAccount.label "പുതിയ അക്കൌണ്ട തയ്യാറാക്കുക">
-<!ENTITY button.haveAccount.label "എനിക്കൊരു &syncBrand.fullName.label; അക്കൌണ്ട് ഉണ്ടു്">
+<!-- ENTITY button.haveAccount.label "എനിക്കൊരു &syncBrand.fullName.label; അക്കൌണ്ട് ഉണ്ടു്" -->
 
 <!ENTITY setup.choicePage.title.label     "ഇതിനു് മുമ്പു് &syncBrand.fullName.label; ഉപയോഗിച്ചിട്ടുണ്ടോ?">
 <!ENTITY setup.choicePage.new.label       "ഇതിനു് മുമ്പു് ഒരിക്കലും &syncBrand.shortName.label; ഉപയോഗിച്ചിട്ടില്ല">
@@ -13,13 +13,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "സര്‍വര്‍">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; സര്‍വര്‍">
-<!ENTITY serverType.custom.label    "യഥേഷ്ടം തയ്യാറാക്കിയ സര്‍വര്‍ ഉപയോഗിയ്ക്കുക">
-<!ENTITY signIn.account.label       "ഈമെയില്‍ വിലാസം / ഉപയോക്തൃനാമം">
-<!ENTITY signIn.account.accesskey   "E">
+<!-- ENTITY serverType.custom.label    "യഥേഷ്ടം തയ്യാറാക്കിയ സര്‍വര്‍ ഉപയോഗിയ്ക്കുക" -->
+<!-- ENTITY signIn.account.label       "ഈമെയില്‍ വിലാസം / ഉപയോക്തൃനാമം" -->
+<!-- ENTITY signIn.account.accesskey   "E" -->
 <!ENTITY signIn.password.label      "രഹസ്യവാക്ക്">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "സര്‍വറിനുള്ള യുആര്‍എല്‍">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!-- ENTITY signIn.serverURL.label     "സര്‍വറിനുള്ള യുആര്‍എല്‍" -->
+<!-- ENTITY signIn.serverURL.accesskey "L" -->
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "അക്കൌണ്ട് വിവരങ്ങള്‍">
@@ -56,14 +56,14 @@
 <!ENTITY setup.captchaPage2.title.label     "നിങ്ങള്‍ റോബോട്ട് അല്ലെന്നു് ദയവായി ഉറപ്പ് നല്‍കുക">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "അക്കൌണ്ട് വിവരം നല്‍കുക">
+<!-- ENTITY setup.existingAccount.title.label "അക്കൌണ്ട് വിവരം നല്‍കുക" -->
 <!ENTITY resetPassword.label          "രഹസ്യവാക്ക് വീണ്ടും സജ്ജമാക്കുക">
-<!ENTITY connecting.label             "കണക്ട് ചെയ്യുന്നു…">
+<!-- ENTITY connecting.label             "കണക്ട് ചെയ്യുന്നു…" -->
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "ദയവായി നിങ്ങളുടെ സിന്‍ക് കീ നല്‍കുക">
-<!ENTITY setup.existingSyncKeyPage.description "നിങ്ങള്‍ ആദ്യമായി &syncBrand.fullName.label;-നായി പ്രവേശിച്ചപ്പോള്‍, നിങ്ങള്‍ക്കുള്ള സിന്‍ക് കീ തയ്യാറാക്കപ്പെട്ടു, അല്ലെങ്കില്‍ നിങ്ങള്‍ സ്വയം ഒരെണ്ണം നല്‍കിയിരുന്നു. ഇതു് നിങ്ങളുടെ രഹസ്യവാക്കല്ല..">
-<!ENTITY existingSyncKeyHelp.description "സൂക്ഷിച്ചിട്ടുള്ള സിന്‍ക് കീ ലഭ്യമാക്കുന്നതിനായി, നിങ്ങളുടെ മറ്റൊരു കമ്പ്യൂട്ടറില്‍, സുരക്ഷയുടെ കീഴിലുള്ള സൂക്ഷിച്ചിട്ടുള്ള രഹസ്യവാക്കുകള്‍ പരിശോധിച്ചു് നോക്കുക. ഇനിയും അതു് ലഭ്യമായില്ലെങ്കില്‍, മറ്റൊരെണ്ണം വീണ്ടും സജ്ജമാക്കുക. പക്ഷേ, സര്‍വറിലുള്ള എല്ലാ ഡേറ്റയും നഷ്ടമാകുന്നതാണു്.">
+<!-- ENTITY setup.existingSyncKeyPage.title "ദയവായി നിങ്ങളുടെ സിന്‍ക് കീ നല്‍കുക" -->
+<!-- ENTITY setup.existingSyncKeyPage.description "നിങ്ങള്‍ ആദ്യമായി &syncBrand.fullName.label;-നായി പ്രവേശിച്ചപ്പോള്‍, നിങ്ങള്‍ക്കുള്ള സിന്‍ക് കീ തയ്യാറാക്കപ്പെട്ടു, അല്ലെങ്കില്‍ നിങ്ങള്‍ സ്വയം ഒരെണ്ണം നല്‍കിയിരുന്നു. ഇതു് നിങ്ങളുടെ രഹസ്യവാക്കല്ല.." -->
+<!-- ENTITY existingSyncKeyHelp.description "സൂക്ഷിച്ചിട്ടുള്ള സിന്‍ക് കീ ലഭ്യമാക്കുന്നതിനായി, നിങ്ങളുടെ മറ്റൊരു കമ്പ്യൂട്ടറില്‍, സുരക്ഷയുടെ കീഴിലുള്ള സൂക്ഷിച്ചിട്ടുള്ള രഹസ്യവാക്കുകള്‍ പരിശോധിച്ചു് നോക്കുക. ഇനിയും അതു് ലഭ്യമായില്ലെങ്കില്‍, മറ്റൊരെണ്ണം വീണ്ടും സജ്ജമാക്കുക. പക്ഷേ, സര്‍വറിലുള്ള എല്ലാ ഡേറ്റയും നഷ്ടമാകുന്നതാണു്." -->
 <!ENTITY lostSyncKey.label            "സിന്‍ക് കീ നഷ്ടമായി">
 <!ENTITY verifying.label              "ഉറപ്പാക്കുന്നു…">
 
@@ -105,3 +105,25 @@
 
 <!ENTITY confirm.client2.label         "മുന്നറിയിപ്പു്: സിസ്റ്റത്തിലുള്ള ഈ &brandShortName; ഡേറ്റാ നീക്കം ചെയ്യപ്പെടുന്നതാണു്:">
 <!ENTITY confirm.server2.label         "മുന്നറിയിപ്പു്: ഈ ഡിവൈസുകളില്‍ നിങ്ങളുടെ ലോക്കല്‍ ഡേറ്റാ ഉപയോഗിച്ചു് മാറ്റിയെഴുതപ്പെടുന്നതാണു്:">
+
+<!ENTITY addDevice.dialog.connected.label   "ഡിവൈസ് കണക്ട് ചെയ്തിരിയ്ക്കുന്നു">
+<!ENTITY addDevice.dialog.description.label "പുതിയ ഡിവൈസ് സജീവമാക്കുന്നതിനായി, ഡിവൈസില്‍ &syncBrand.shortName.label; ഐച്ഛികത്തിലുള്ള  &#x0022;Connect.&#x0022; തെരഞ്ഞെടുക്കുക">
+<!ENTITY addDevice.dialog.enterCode.label   "ഡിവൈസ് ലഭ്യമാക്കുന്നത കോഡ് നല്‍കുക:">
+<!ENTITY addDevice.dialog.successful.label  "ഡിവൈസ് വിജയകരമായി ചേര്‍ത്തിരിയ്ക്കുന്നു. പ്രാരംഭ സിന്‍ക്രൊണൈസേഷന്‍ അല്‍പം സമയമെടുക്കുന്നതാണു്. പശ്ചാത്തലത്തില്‍ ഇതു് പൂര്‍ത്തിയായിക്കൊള്ളും.">
+<!ENTITY addDevice.dialog.syncKey.label     "ഡിവൈസ് സജിവമാക്കുന്നതിനായി, സിന്‍ക് കീ നല്‍കുക. ദയവായി ഈ കീയുടെ പ്രിന്റ്
+എടുക്കുക അല്ലെങ്കില്‍ എവിടെങ്കിലും സൂക്ഷിച്ചു് വയ്ക്കുക.">
+<!ENTITY addDevice.dialog.tryAgain.label    "ദയവായി വീണ്ടും ശ്രമിയ്ക്കുക.">
+<!ENTITY addDevice.dontHaveDevice.label     "ഡിവൈസ് ലഭ്യമല്ല">
+<!ENTITY addDevice.setup.description.label  "സജീവമാക്കുന്നതിനായി, അടുത്ത ഡിവൈസില്‍ &syncBrand.shortName.label; ഐച്ഛികത്തിലുള്ള &#x0022;Add a Device&#x0022; തെരഞ്ഞെടുക്കുക.">
+<!ENTITY addDevice.setup.enterCode.label    "ഇനി, ഈ കോഡ് നല്‍കുക:">
+<!ENTITY addDevice.showMeHow.label          "എങ്ങനെയെന്നു് കാണിയ്ക്കുക.">
+<!ENTITY addDevice.title.label              "ഒരു ഡിവൈസ് ചേര്‍ക്കുക">
+<!ENTITY button.connect.label    "കണക്ട് ചെയ്യുക">
+<!ENTITY existingSyncKey.description "സിന്‍ക് കീയുടെ ഒരു പകര്‍പ്പിനായി, അടുത്ത ഡിവൈസില്‍ &syncBrand.shortName.label; ഐച്ഛികത്തിലുള്ള &#x0022;Manage Account&#x0022;-ലുള്ള &#x0022;My Sync Key&#x0022; തെരഞ്ഞെടുക്കുക.">
+<!ENTITY serverType.custom2.label   "ഇഷ്ടമുള്ള സര്‍വര്‍ ഉപയോഗിയ്ക്കുക…">
+<!ENTITY setup.haveAccount.label "നിലവില്‍ ഒരു &syncBrand.fullName.label; അക്കൌണ്ട് ഉണ്ടു്.">
+<!ENTITY setup.signInPage.title.label "പ്രവേശിയ്ക്കുക">
+<!ENTITY signIn.account2.label      "അക്കൌണ്ട്">
+<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.syncKey.label       "സിന്‍ക് കീ">
+<!ENTITY signIn.syncKey.accesskey   "K">
