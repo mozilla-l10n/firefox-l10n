@@ -9,7 +9,7 @@
 <!ENTITY listEmpty.button.label "Tuilleadh eolais faoi bhreiseáin">
 <!ENTITY installAddonFromFile.label "Suiteáil Breiseán Ó Chomhad…">
 <!ENTITY installAddonFromFile.accesskey "S">
-<!ENTITY toolsMenu.tooltip "Uirlisí le haghaidh na mbreiseán go léir">
+<!ENTITY toolsMenu.tooltip "Uirlisí le haghaidh gach breiseán">
 
 <!ENTITY cmd.back.tooltip "Leathanach amháin siar">
 <!ENTITY cmd.forward.tooltip "Leathanach amháin ar aghaidh">
@@ -19,9 +19,9 @@
 <!ENTITY warning.checkcompatibility.label "Tá seiceáil chomhoiriúnacht na mBreiseán díchumasaithe. D'fhéadfadh Breiseáin neamh-chomhoiriúnacha a bheith agat.">
 <!ENTITY warning.checkcompatibility.enable.label "Cumasaigh">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Cumasaigh seiceáil chomhoiriúnacht na mbreiseán">
-<!ENTITY warning.updatesecurity.label "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.label "Tá seiceáil shlándáil na mbreiseán díchumasaithe. D'fhéadfadh nuashonruithe dochar a dhéanamh.">
 <!ENTITY warning.updatesecurity.enable.label "Cumasaigh">
-<!ENTITY warning.updatesecurity.enable.tooltip "Cumasaigh seiceáil slándála ar nuashonruithe breiseán">
+<!ENTITY warning.updatesecurity.enable.tooltip "Cumasaigh seiceáil slándála nuashonrú na mbreiseán">
 <!-- categories / views -->
 
 <!ENTITY view.search.label "Cuardach">
@@ -39,12 +39,21 @@
 <!ENTITY updates.checkForUpdates.accesskey "L">
 <!ENTITY updates.viewUpdates.label "Féach ar Nuashonruithe Le Déanaí">
 <!ENTITY updates.viewUpdates.accesskey "F">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label "Nuashonraigh Breiseáin go hUathoibríoch">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "B">
-<!ENTITY updates.resetUpdatesToAutomatic.label "Reset All Add-ons to Update Automatically">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
-<!ENTITY updates.resetUpdatesToManual.label "Reset All Add-ons to Update Manually">
-<!ENTITY updates.resetUpdatesToManual.accesskey "R">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label "Athshocraigh nuashonrú uathoibríoch na mbreiseán">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "r">
+<!ENTITY updates.resetUpdatesToManual.label "Athshocraigh nuashonrú láimhe na mbreiseán">
+<!ENTITY updates.resetUpdatesToManual.accesskey "r">
 <!ENTITY updates.updating.label "Breiseáin á nuashonrú">
 <!ENTITY updates.installed.label "Nuashonraíodh do chuid breiseán.">
 <!ENTITY updates.downloaded.label "Íosluchtaíodh nuashonruithe na mbreiseán.">

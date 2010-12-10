@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Liostáil leis an Leathanach Seo">
 <!ENTITY subscribeToPageMenuitem.label "Liostáil leis an Leathanach Seo…">
 <!ENTITY addCurPagesCmd.label "Leabharmharcáil Gach Cluaisín…">
-<!ENTITY showAllBookmarks.label "Taispeáin Gach Leabharmharc…">
+<!ENTITY showAllBookmarks2.label "Taispeáin Gach Leabharmharc">
 <!ENTITY bookmarkAllCmd.label "Leabharmharcáil Gach Cluaisín…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh leabharmharcanna">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "U">
-<!ENTITY preferencesCmd.label "Roghanna…">
-<!ENTITY preferencesCmd.accesskey "R">
+<!ENTITY preferencesCmd2.label "Roghanna">
+<!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label "Sainroghanna">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
@@ -549,3 +549,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label "Sioncrónaigh Anois">
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY syncToolbarButton.label "Sync">
+
+<!ENTITY addonBarCloseButton.tooltip "Dún Barra na mBreiseán">

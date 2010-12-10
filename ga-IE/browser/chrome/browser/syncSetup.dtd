@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Fáilte romhat, murar bhain tú úsáid as &syncBrand.fullName.label; riamh, ní mór duit cuntas nua a chruthú.">
 <!ENTITY button.createNewAccount.label "Cruthaigh Cuntas Nua">
-<!ENTITY button.haveAccount.label "Tá cuntas &syncBrand.fullName.label; agam">
+<!ENTITY setup.haveAccount.label "Tá cuntas &syncBrand.fullName.label; agam cheana.">
+<!ENTITY button.connect.label "Ceangail">
 
 <!ENTITY setup.choicePage.title.label "Ar bhain tú úsáid as &syncBrand.fullName.label; riamh?">
 <!ENTITY setup.choicePage.new.label "Níor bhain mé úsáid as &syncBrand.shortName.label; riamh">
@@ -13,13 +14,13 @@
 
 <!ENTITY server.label "Freastalaí">
 <!ENTITY serverType.main.label "Freastalaí &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label "Úsáid freastalaí saincheaptha">
-<!ENTITY signIn.account.label "Seoladh Ríomhphoist / Ainm Úsáideora">
-<!ENTITY signIn.account.accesskey "S">
+<!ENTITY serverType.custom2.label "Úsáid freastalaí saincheaptha…">
+<!ENTITY signIn.account2.label "Cuntas">
+<!ENTITY signIn.account2.accesskey "C">
 <!ENTITY signIn.password.label "Focal Faire">
 <!ENTITY signIn.password.accesskey "F">
-<!ENTITY signIn.serverURL.label "URL an Fhreastalaí">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label "Eochair Sync">
+<!ENTITY signIn.syncKey.accesskey "E">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Mionsonraí an Chuntais">
@@ -43,8 +44,6 @@
 <!ENTITY syncKeyEntry.label "D'Eochair Sync">
 <!ENTITY syncKeyEntry.accesskey "c">
 <!ENTITY syncKeyGenerate.label "Cruthaigh">
-<!ENTITY syncKeyStrength.label "Neart:">
-<!ENTITY syncKeyHelp.label "Cad is brí don neart?">
 <!ENTITY syncKeyBackup.description "Teastaíonn uait an Eochair Sync chun &syncBrand.fullName.label; a rochtain ó ríomhairí eile.  Déan cúltaca di - ní bheimid in ann d'Eochair Sync a fháil ar ais má chailleann tú í.">
 
 <!ENTITY button.syncKeyBackup.print.label "Priontáil…">
@@ -54,18 +53,25 @@
 <!-- New Account Page 3: Captcha -->
 
 <!ENTITY setup.captchaPage2.title.label "Deimhnigh nach róbat thú">
-<!-- Existing Account Page 1: Login -->
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label "Cuir Gléas Leis">
+<!ENTITY addDevice.showMeHow.label "Taispeáin dom.">
+<!ENTITY addDevice.dontHaveDevice.label "Níl an gléas liom faoi láthair.">
+<!ENTITY addDevice.setup.description.label "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label "Ansin, cuir an cód seo isteach:">
+<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label "Enter the code that the device provides:">
+<!ENTITY addDevice.dialog.tryAgain.label "Bain triail as arís.">
+<!ENTITY addDevice.dialog.successful.label "The device has been successfully added. The initial synchronization can several minutes and will finish in the background.">
+<!ENTITY addDevice.dialog.syncKey.label "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
+<!ENTITY addDevice.dialog.connected.label "Gléas Ceangailte">
+<!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.existingAccount.title.label "Iontráil d'Fhaisnéis Chuntais">
-<!ENTITY resetPassword.label "Athshocraigh Focal Faire">
-<!ENTITY connecting.label "Á Cheangal…">
-<!-- Existing Account Page 2: Sync Key -->
-
-<!ENTITY setup.existingSyncKeyPage.title "Cuir isteach d'Eochair Sync">
-<!ENTITY setup.existingSyncKeyPage.description "Cruthaíodh an Eochair Sync ar do shon, nó chuir tú do cheann féin isteach, nuair a chláraigh tú le &syncBrand.fullName.label;. Ní hionann é agus d'fhocal faire.">
-<!ENTITY existingSyncKeyHelp.description "Is féidir d'Eochair Sync a fháil ar ais ar do ríomhaire eile, sna Focail Fhaire Shábháilte faoi “Slándáil”. Mura bhfuil tú in ann an Eochair a aimsiú fós, is féidir leat í a athshocrú, ach caillfidh tú aon sonraí atá ar an bhfreastalaí.">
-<!ENTITY lostSyncKey.label "Chaill mé m'Eochair Sync">
+<!ENTITY setup.signInPage.title.label "Sínigh Isteach">
+<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label "Á Dheimhniú…">
+<!ENTITY resetPassword.label "Athshocraigh Focal Faire">
+<!ENTITY lostSyncKey.label "Chaill mé m'Eochair Sync">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title "Roghanna Sync">
