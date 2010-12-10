@@ -59,6 +59,12 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Je n'ai pas l'appareil avec moi">
 <!ENTITY addDevice.setup.description.label  "Pour activer, rendez-vous dans les options de &syncBrand.shortName.label; sur votre autre appareil et sélectionnez « Ajouter un appareil ».">
 <!ENTITY addDevice.setup.enterCode.label    "Saisissez ensuite ce code :">
+<!ENTITY addDevice.dialog.description.label "Pour activer votre nouvel appareil, rendez-vous dans les options de &syncBrand.shortName.label; sur celui-ci et sélectionnez « Se connecter ».">
+<!ENTITY addDevice.dialog.enterCode.label   "Saisissez le code fourni par l'appareil :">
+<!ENTITY addDevice.dialog.tryAgain.label    "Veuillez réessayer.">
+<!ENTITY addDevice.dialog.successful.label  "L'appareil a été ajouté. La première synchronisation peut prendre plusieurs minutes et s'achèvera en arrière-plan.">
+<!ENTITY addDevice.dialog.syncKey.label     "Pour activer cet appareil, vous aurez besoin de saisir votre clé de synchronisation. Veuillez l'imprimer ou l'enregistrer pour l'avoir à portée de main.">
+<!ENTITY addDevice.dialog.connected.label   "Appareil connecté">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Connexion">
