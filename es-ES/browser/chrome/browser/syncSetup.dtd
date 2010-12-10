@@ -1,19 +1,20 @@
 <!ENTITY accountSetupTitle.label "Configuración de &syncBrand.fullName.label;">
 <!ENTITY setup.pickSetupType.description "Bienvenido. Si nunca ha usado &syncBrand.fullName.label; antes, necesita crear ahora una nueva cuenta.">
 <!ENTITY button.createNewAccount.label "Crear una nueva cuenta">
-<!ENTITY button.haveAccount.label "Tengo una cuenta de &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Ya tengo una cuenta de &syncBrand.shortName.label;.">
+<!ENTITY button.connect.label "Conectar">
 <!ENTITY setup.choicePage.title.label "¿Ha usado &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label "No he usado nunca &syncBrand.shortName.label; antes">
-<!ENTITY setup.choicePage.existing.label "Ya estoy usando &syncBrand.shortName.label; en otro equipo">
+<!ENTITY setup.choicePage.existing.label "Ya estoy usando &syncBrand.shortName.label; en otro dispositivo">
 <!ENTITY server.label "Servidor">
 <!ENTITY serverType.main.label "Servidor de &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label "Usar un servidor personalizado">
-<!ENTITY signIn.account.label "Dirección de correo / Usuario">
-<!ENTITY signIn.account.accesskey "e">
+<!ENTITY serverType.custom2.label "Usar un servidor personalizado…">
+<!ENTITY signIn.account2.label "Cuenta">
+<!ENTITY signIn.account2.accesskey "a">
 <!ENTITY signIn.password.label "Contraseña ">
 <!ENTITY signIn.password.accesskey "C">
-<!ENTITY signIn.serverURL.label "URL del servidor">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label "Clave de Sync">
+<!ENTITY signIn.syncKey.accesskey "c">
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de la cuenta">
 <!ENTITY setup.confirmPassword.label "Confirmar contraseña">
 <!ENTITY setup.confirmPassword.accesskey "m">
@@ -37,14 +38,22 @@
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey "r">
 <!ENTITY setup.captchaPage2.title.label "Por favor, confirma que no es un robot">
-<!ENTITY setup.existingAccount.title.label "Introduzca información de su cuenta">
-<!ENTITY resetPassword.label "Restablecer contraseña">
-<!ENTITY connecting.label "Conectando…">
-<!ENTITY setup.existingSyncKeyPage.title "Por favor, introduzca su clave de Sync">
-<!ENTITY setup.existingSyncKeyPage.description "La clave de Sync fue generada para usted, o introdujo una propia, durante la primera vez que se registró para &syncBrand.fullName.label;. No es la misma que su contraseña.">
-<!ENTITY existingSyncKeyHelp.description "Puede encontrar su clave de Sync yendo a otro equipo y buscando en Contraseñas guardadas bajo el panel Seguridad. Si no puede encontrar su clave correcta de Sync, puede elegir restablecerla, pero perderá todos los datos almacenados en el servidor.">
-<!ENTITY lostSyncKey.label "He perdido mi clave de Sync">
+<!ENTITY addDevice.title.label "Añadir un dispositivo">
+<!ENTITY addDevice.showMeHow.label "Enséñame cómo.">
+<!ENTITY addDevice.dontHaveDevice.label "No tengo el dispositivo conmigo">
+<!ENTITY addDevice.setup.description.label 'Para activarlo, vaya a las opciones de &syncBrand.shortName.label; en otro dispositivo y seleccione "Añadir un dispositivo".'>
+<!ENTITY addDevice.setup.enterCode.label "Después, introduzca este código:">
+<!ENTITY addDevice.dialog.description.label 'Para activar este nuevo dispositivo, vaya a las opciones de &syncBrand.shortName.label; en este equipo y seleccione "Conectar".'>
+<!ENTITY addDevice.dialog.enterCode.label "Escriba el código que el dispositivo proporciona:">
+<!ENTITY addDevice.dialog.tryAgain.label "Por favor, pruebe de nuevo.">
+<!ENTITY addDevice.dialog.successful.label "Este dispositivo se ha añadido correctamente. Esta sincronización inicial puede tardar varios minutos y terminará de fondo.">
+<!ENTITY addDevice.dialog.syncKey.label "Para activar este dispositivo necesita introducir la clave de Sync. Por favor, imprima o guarde esta clave y llévela consigo.">
+<!ENTITY addDevice.dialog.connected.label "Dispositivo conectado">
+<!ENTITY setup.signInPage.title.label "Conectarse">
+<!ENTITY existingSyncKey.description 'Puede conseguir una copia de su clave de Sync yendo a las opciones de &syncBrand.shortName.label; en su otro dispositivo y seleccionando "Mi clave de Sync" bajo "Administrar cuenta".'>
 <!ENTITY verifying.label "Verificando…">
+<!ENTITY resetPassword.label "Restablecer contraseña">
+<!ENTITY lostSyncKey.label "He perdido mi clave de Sync">
 <!ENTITY setup.optionsPage.title "Opciones de Sync">
 <!ENTITY syncComputerName.label "Nombre del equipo:">
 <!ENTITY syncComputerName.accesskey "N">

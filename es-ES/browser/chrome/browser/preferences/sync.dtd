@@ -1,6 +1,6 @@
 <!ENTITY setupButton.label "Configurar &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey "S">
-<!ENTITY weaveDesc.label "&syncBrand.fullName.label; le permite acceder a sus marcadores, historial, contraseñas, preferencias y pestañas en varios equipos.">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; le permite acceder a sus marcadores, historial, contraseñas, preferencias y pestañas en varios dispositivos.">
 <!ENTITY accountGroupboxCaption.label "Cuenta de &syncBrand.fullName.label;">
 <!ENTITY currentAccount.label "Cuenta actual:">
 <!ENTITY updatePass.label "Actualizar">
