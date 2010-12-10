@@ -3,20 +3,21 @@
 
 <!ENTITY setup.pickSetupType.description "Velkominn, ef þú hefur aldrei notað &syncBrand.fullName.label; áður, verðurðu að búa til nýjan aðgang.">
 <!ENTITY button.createNewAccount.label "Stofna nýjan reikning">
-<!ENTITY button.haveAccount.label "Ég er með &syncBrand.fullName.label; aðgang">
+<!ENTITY setup.haveAccount.label "Ég er þegar með aðgang að &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label "Tengjast">
 <!ENTITY setup.choicePage.title.label "Hefurðu notað &syncBrand.fullName.label; áður?">
 <!ENTITY setup.choicePage.new.label "Ég hef aldrei notað &syncBrand.shortName.label; áður">
 <!ENTITY setup.choicePage.existing.label "Ég er þegar að nota &syncBrand.shortName.label; á annari tölvu">
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label "Netþjónn">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; netþjónn">
-<!ENTITY serverType.custom.label "Nota sérsniðin netþjón">
-<!ENTITY signIn.account.label "Tölvupóstfang / Notandanafn">
-<!ENTITY signIn.account.accesskey "T">
+<!ENTITY serverType.custom2.label "Nota sérsniðin netþjón…">
+<!ENTITY signIn.account2.label "Reikningur">
+<!ENTITY signIn.account2.accesskey "R">
 <!ENTITY signIn.password.label "Lykilorð">
 <!ENTITY signIn.password.accesskey "L">
-<!ENTITY signIn.serverURL.label "Netfang netþjóns">
-<!ENTITY signIn.serverURL.accesskey "N">
+<!ENTITY signIn.syncKey.label "Sync lykill">
+<!ENTITY signIn.syncKey.accesskey "k">
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Aðgangsupplýsingar">
 <!ENTITY setup.confirmPassword.label "Staðfestu lykilorðið">
@@ -45,16 +46,25 @@
 <!ENTITY button.syncKeyBackup.save.accesskey "s">
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label "Staðfestu að þú sért ekki vélmenni">
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Færa inn aðgangsupplýsingar">
-<!ENTITY resetPassword.label "Endurstilla lykilorð">
-<!ENTITY connecting.label "Tenging…">
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Sláðu inn Sync lykilinn þinn">
-<!ENTITY setup.existingSyncKeyPage.description "Sync lykillinn var búinn til fyrir þig, eða þú slóst inn þinn eigin, þegar þú skráðir þig fyrst inn í &syncBrand.fullName.label;. Hann er ekki það sama og lykilorðið þitt.">
-<!ENTITY existingSyncKeyHelp.description "Þú getur fundið vistaða Sync lykilinn með því fara í hina tölvuna og athuga vistuð lykilorð undir öryggi. Ef þú getur ekki nálgast réttan Sync lykil, geturðu valið að endursetja hann, en þá muntu missa öll gögn sem eru geymd á netþjóninum.">
-<!ENTITY lostSyncKey.label "Ég er búinn að týna Sync lyklinum mínum">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label "Bæta við tæki">
+<!ENTITY addDevice.showMeHow.label "Sýndu mér hvernig.">
+<!ENTITY addDevice.dontHaveDevice.label "Ég er ekki með tækið með mér">
+<!ENTITY addDevice.setup.description.label "Til að virkja, farðu í &syncBrand.shortName.label; stillingar á hinu tækinu og veldu &#x0022;Bæta við tæki&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label "Sláðu svo inn þennan kóða:">
+<!ENTITY addDevice.dialog.description.label "Til að virkja nýja tækið þitt, farðu í &syncBrand.shortName.label; stillingar á tækinu og veldu &#x0022;Bæta við tæki&#x0022;.">
+<!ENTITY addDevice.dialog.enterCode.label "Sláðu inn kóðann sem tækir skaffar:">
+<!ENTITY addDevice.dialog.tryAgain.label "Vinsamlegast reyndu aftur.">
+<!ENTITY addDevice.dialog.successful.label "Búið er að bæta við tæki. Fyrsta samstilling gæti tekið nokkrar mínútur og verður keyrð í bakgrunni.">
+<!ENTITY addDevice.dialog.syncKey.label "Til að virkja tækið verður að slá inn Sync lykilinn. Prentaðu út eða vistaðu þennan lykil og taktu hann með þér.">
+<!ENTITY addDevice.dialog.connected.label "Tæki tengt">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Innskráning">
+<!ENTITY existingSyncKey.description "Þú getur fengið afrit að Sync lyklinum með því að fara í &syncBrand.shortName.label; stillingar á hinu tækinu, og valið
+þar   &#x0022;Sync lykillinn minn&#x0022; undir &#x0022;Sýsla með aðgang&#x0022;.">
 <!ENTITY verifying.label "Staðfesti…">
+<!ENTITY resetPassword.label "Endurstilla lykilorð">
+<!ENTITY lostSyncKey.label "Ég er búinn að týna Sync lyklinum mínum">
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title "Sync stillingar">
 <!ENTITY syncComputerName.label "Tölvuheiti:">

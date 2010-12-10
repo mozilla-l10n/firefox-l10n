@@ -35,8 +35,17 @@
 <!ENTITY updates.checkForUpdates.accesskey "L">
 <!ENTITY updates.viewUpdates.label "Skoða nýlegar uppfærslur">
 <!ENTITY updates.viewUpdates.accesskey "S">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label "Uppfæra viðbætur sjálfvirkt">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "a">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label "Endurstilla allar viðbætur á sjálfvirka uppfærslu">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "r">
 <!ENTITY updates.resetUpdatesToManual.label "Endurstilla allar viðbætur á handvirka uppfærslu">
