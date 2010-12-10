@@ -1,7 +1,7 @@
 <!ENTITY firstrun.title "Bienvenido a &brandShortName;">
 <!ENTITY firstrun.heading2 "Bienvenido a &brandShortName;">
 <!ENTITY firstrun.sync2.title "Sincronizar">
-<!ENTITY firstrun.sync2.description "Conéctese con su cuenta de Sync y comparta su historial, contraseñas, marcadores y pestañas entre su equipo de escritorio y móvil">
+<!ENTITY firstrun.sync2.description "Conéctese con su cuenta de Sync y comparta su historial, contraseñas, marcadores y pestañas entre su dispositivo de escritorio y móvil">
 <!ENTITY firstrun.addons2.title "Personalizar">
 <!ENTITY firstrun.addons2.description "Descubra e instale complementos para añadir nuevas funcionalidades a &brandShortName;">
 <!ENTITY firstrun.home2.title "Navegar">

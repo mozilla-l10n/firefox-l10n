@@ -1,6 +1,6 @@
 <!ENTITY aboutHome.header "<span id='header-suffix'>Inicio de</span> <span>&brandShortName;</span>">
 <!ENTITY aboutHome.recentTabs "Pestañas de su última sesión">
-<!ENTITY aboutHome.remoteTabs "Pestañas de sus otros equipos">
+<!ENTITY aboutHome.remoteTabs "Pestañas de sus otros dispositivos">
 <!ENTITY aboutHome.recommendedAddons2 "Complementos para &brandShortName;">
 <!ENTITY aboutHome.giveFeedback "Opinar">
 <!ENTITY aboutHome.openAllTabs "Abrir todo en pestañas">
