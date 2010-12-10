@@ -1,0 +1,12 @@
+<!ENTITY firstrun.title                "Ongi etorri &brandShortName;(e)ra">
+<!ENTITY firstrun.heading2             "Ongi etorri &brandShortName;(e)ra">
+<!ENTITY firstrun.sync2.title          "Sinkronizatu">
+<!ENTITY firstrun.sync2.description    "Hasi saioa Sync kontu-informazioaren eta partekatu historia, pasahitzak, laster-markak eta fitxak zure mahaigaineko ordenagailuaren eta mugikorraren artean">
+<!ENTITY firstrun.addons2.title        "Pertsonalizatu">
+<!ENTITY firstrun.addons2.description  "Aurkitu eta instalatu &brandShortName;(r)i funtzionaltasunak gehitzeko gehigarriak">
+<!ENTITY firstrun.home2.title          "Arakatu">
+<!ENTITY firstrun.home2.description    "Saltatu hau guztia eta joan zure hasiera-orri pertsonalizatura weba arakatzen hasteko">
+<!ENTITY firstrun.features             "Ikusi ezaugarri gehiago">
+<!ENTITY firstrun.faq                  "FAQa">
+<!ENTITY firstrun.privacy              "Pribatutasun-politika">
+<!ENTITY firstrun.follow               "Jarrai gaitzazu:">

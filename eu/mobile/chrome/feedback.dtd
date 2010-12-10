@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader.label           "Beta testeatzaileen tresnak">
+
+<!ENTITY feedback.communicate.title     "Komunika iezaguzu!">
+<!ENTITY feedback.feedback.title        "Emaiguzu zure iritzia!">
+<!ENTITY feedback.feedback.good         "Ona">
+<!ENTITY feedback.feedback.bad          "Txarra">
+
+<!ENTITY feedback.information.title     "Informazio gehiago">
+<!ENTITY feedback.about.title           "Beta honi buruz">
+<!ENTITY feedback.about.button          "Joan orrira">
+
+<!ENTITY feedback.tools.title           "Tresnak">
+<!ENTITY feedback.forceCompat.title     "Behartu gehigarrien bateragarritasuna">
+<!ENTITY feedback.errorConsole.title    "Gaitu errore-kontsola">

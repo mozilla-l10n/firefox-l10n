@@ -1,0 +1,8 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>hasiera</span>">
+<!ENTITY aboutHome.recentTabs                   "Azken aldiko fitxak">
+<!ENTITY aboutHome.remoteTabs                   "Beste ordenagailuetako fitxak">
+<!ENTITY aboutHome.recommendedAddons2           "&brandShortName;(e)rako gehigarriak">
+<!ENTITY aboutHome.giveFeedback                 "Emaiguzu zure iritzia">
+<!ENTITY aboutHome.openAllTabs                  "Ireki guztiak fitxetan">
+<!ENTITY aboutHome.noTabs                       "Azken aldiko fitxarik ez">
+<!ENTITY aboutHome.noAddons                     "Gomendatutako gehigarririk ez">
