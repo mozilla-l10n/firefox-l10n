@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "歡迎，如果您從未使用過 &syncBrand.fullName.label;，您需要先建立一個帳號。">
 <!ENTITY button.createNewAccount.label "建立新帳號">
-<!ENTITY button.haveAccount.label "我已有一個 &syncBrand.fullName.label; 帳號">
+<!ENTITY setup.haveAccount.label "我已有一個 &syncBrand.fullName.label; 帳號。">
+<!ENTITY button.connect.label    "連線">
 
 <!ENTITY setup.choicePage.title.label     "您曾經使用過 &syncBrand.fullName.label; 嗎？">
 <!ENTITY setup.choicePage.new.label       "我從來沒使用過 &syncBrand.shortName.label;">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "伺服器">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; 伺服器">
-<!ENTITY serverType.custom.label    "使用自訂的伺服器">
-<!ENTITY signIn.account.label       "電子郵件地址／使用者名稱">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "使用自訂伺服器…">
+<!ENTITY signIn.account2.label      "帳號">
+<!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "密碼">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "伺服器網址">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "同步金鑰">
+<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "帳號資料">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "請確認您不是來亂的機器人">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "新增裝置">
+<!ENTITY addDevice.showMeHow.label          "告訴我怎麼做">
+<!ENTITY addDevice.dontHaveDevice.label     "裝置不在我手邊">
+<!ENTITY addDevice.setup.description.label  "若要啟用，請在您其他裝置的 &syncBrand.shortName.label; 選項選擇「新增裝置」。">
+<!ENTITY addDevice.setup.enterCode.label    "然後，輸入這組代碼:">
+<!ENTITY addDevice.dialog.description.label "若要啟用您的新裝置，請在裝置上的 &syncBrand.shortName.label; 選項選擇「連線」。">
+<!ENTITY addDevice.dialog.enterCode.label   "在此輸入該裝置所提供的代碼:">
+<!ENTITY addDevice.dialog.tryAgain.label    "請再試一次。">
+<!ENTITY addDevice.dialog.successful.label  "已成功新增此裝置。第一次的同步可能需要幾分鐘，並會在背景中完成。">
+<!ENTITY addDevice.dialog.syncKey.label     "若要啟用您裝置您需要輸入同步金鑰。請把這把金鑰存起來或印出來，並把它帶在身邊。">
+<!ENTITY addDevice.dialog.connected.label   "裝置已連線">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "輸入帳號資訊">
-<!ENTITY resetPassword.label          "重設密碼">
-<!ENTITY connecting.label             "連線中…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "請輸入您的同步金鑰">
-<!ENTITY setup.existingSyncKeyPage.description "同步金鑰是在您第一次申請 &syncBrand.fullName.label; 時透過程式為您產生，或是您自己輸入的。這跟您的密碼不同。">
-<!ENTITY existingSyncKeyHelp.description "您無法從其他電腦當中的安全->已存密碼找回已存的金鑰。若您還是沒有辦法找回正確的同步金鑰，您可以選擇重設它，但您將會失去伺服器上所有已存的資料。">
-<!ENTITY lostSyncKey.label            "我搞丟了同步金鑰">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "登入">
+<!ENTITY existingSyncKey.description "您可以在您其他裝置上的 &syncBrand.shortName.label; 選項 -> 管理帳號 -> 我的同步金鑰 當中找到您的同步金鑰。">
 <!ENTITY verifying.label              "驗證中…">
+<!ENTITY resetPassword.label          "重設密碼">
+<!ENTITY lostSyncKey.label            "我搞丟了同步金鑰">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "同步選項">
