@@ -16,7 +16,7 @@
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Parole">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Servera adrese">
+<!ENTITY server.label               "Serveris">
 <!ENTITY signIn.syncKey.label       "Sinhronizācijas atslēga">
 <!ENTITY signIn.syncKey.accesskey   "S">
 
