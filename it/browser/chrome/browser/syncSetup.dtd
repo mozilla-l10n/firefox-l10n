@@ -41,7 +41,7 @@
 <!ENTITY addDevice.title.label "Aggiungi un dispositivo">
 <!ENTITY addDevice.showMeHow.label "Visualizza istruzioni.">
 <!ENTITY addDevice.dontHaveDevice.label "Il dispositivo non è al momento disponibile">
-<!ENTITY addDevice.setup.description.label 'Per procedere con l'attivazione aprire le Opzioni di &syncBrand.shortName.label; sull'altro dispositivo e selezionare "Aggiungi un dispositivo".'>
+<!ENTITY addDevice.setup.description.label 'Per procedere con lʼattivazione aprire le Opzioni di &syncBrand.shortName.label; sullʼaltro dispositivo e selezionare "Aggiungi un dispositivo".'>
 <!ENTITY addDevice.setup.enterCode.label "Inserire il seguente codice:">
 <!ENTITY addDevice.dialog.description.label 'Per attivare un nuovo dispositivo aprire le Opzioni di &syncBrand.shortName.label; sul dispositivo stesso e selezionare "Connetti".'>
 <!ENTITY addDevice.dialog.enterCode.label "Inserire il codice fornito dal dispositivo:">
