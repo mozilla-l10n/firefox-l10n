@@ -592,3 +592,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewTabGroups.label            "Ομάδες καρτελών">
 <!ENTITY viewTabGroups.accesskey        "μ">
 
+<!ENTITY addonBarCloseButton.tooltip  "Κλείσιμο εργαλειοθήκης προσθέτου">
+
