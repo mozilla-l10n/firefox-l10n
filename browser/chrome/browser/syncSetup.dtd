@@ -3,22 +3,22 @@
 <!-- First page of the wizard -->
 
 <!ENTITY button.createNewAccount.label "Izveidot jaunu kontu">
-<!ENTITY button.haveAccount.label "Man jau ir &syncBrand.fullName.label;s konts">
 
 <!ENTITY setup.choicePage.title.label     "Vai lietojat &syncBrand.fullName.label;s iespēju?">
 <!ENTITY setup.choicePage.new.label       "Es vēl nelietoju &syncBrand.shortName.label;s iespēju">
 <!ENTITY setup.choicePage.existing.label  "Es jau lietoju &syncBrand.shortName.label;s iespēju citā datorā">
+<!ENTITY button.connect.label    "Pieslēgties">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;s serverim">
-<!ENTITY serverType.custom.label    "Citam serverim">
-<!ENTITY signIn.account.label       "Epasta adrese vai lietotājvārds">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "Izmantot citu serveri…">
+<!ENTITY signIn.account2.label      "Konts">
+<!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Parole">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.serverURL.label     "Servera adrese">
-<!ENTITY signIn.serverURL.accesskey "S">
-<!ENTITY server.label               "Serveris">
+<!ENTITY signIn.syncKey.label       "Sinhronizācijas atslēga">
+<!ENTITY signIn.syncKey.accesskey   "S">
 
 <!ENTITY button.syncKeyBackup.print.label     "Izdrukā…">
 <!ENTITY button.syncKeyBackup.print.accesskey "I">
@@ -65,22 +65,35 @@
 <!ENTITY engine.prefs.label         "Iestatījumus">
 <!ENTITY engine.prefs.accesskey     "S">
 
-<!ENTITY existingSyncKeyHelp.description "Jūs varat atrast savu sinhronizēšanas atslēgu citos savos datoros iestatījumu sadaļā Drošība izvēloties Saglabātās paroles. Ja arī tā nevarat atgūt pareizo sinhronizācijas atslēgu, jūs varat ievadīt jaunu atslēgu, bet tad visi sinhronizācijas serverī saglabātie dati tiks pazaudēti.">
+
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Pievienot ierīci">
+<!ENTITY addDevice.showMeHow.label          "Parādiet kā.">
+<!ENTITY addDevice.dontHaveDevice.label     "Ierīce šobrīd nav ar mani">
+<!ENTITY addDevice.setup.description.label  "Lai aktivizētu, ejiet uz &syncBrand.shortName.label;s iestatījumiem savā otrā ierīcē un izvēlieties &#x0022;Pievienot ierīci&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Tad ievadiet šo kodu:">
+<!ENTITY addDevice.dialog.description.label "Lai aktivizētu jauno ierīci, ejiet uz &syncBrand.shortName.label;s iestatījumiem šajā ierīcē un izvēlieties  &#x0022;Pieslēgties.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Ievadiet ierīces piedāvāto kodu:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Lūdzu, mēģiniet vēlreiz.">
+<!ENTITY addDevice.dialog.successful.label  "Ierīce veiksmīgi pievienota. Sākotnē sinhronizācija var ilgt vairākas minūtes un tiks pabeigta fonā.">
+<!ENTITY addDevice.dialog.syncKey.label     "Lai aktivizētu ierīci, jums būs jāievada sinhronizācijas atslēga. Lūdzu izdrukājiet vai pierakstiet to kaut kur.">
+<!ENTITY addDevice.dialog.connected.label   "Ierīce pieslēgta">
+
+
 <!ENTITY lostSyncKey.label            "Man ir pazudusi mana sinhronizācijas atslēga">
 
 <!-- New Account Page 4: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Lūdzu aplieciniet, ka neesat robots">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Ievadiet konta informāciju">
 <!ENTITY resetPassword.label          "Atjaunot paroli">
-<!ENTITY connecting.label             "Savienojas…">
 <!ENTITY setup.newAccountDetailsPage.title.label "Konta informācija">
 
 <!-- Existing Account Page 2: Passphrase -->
-<!ENTITY setup.existingSyncKeyPage.title "Lūdzu ievadiet savu sinhronizācijas atslēgu">
-<!ENTITY setup.existingSyncKeyPage.description "Jums tika izveidota sinhronizācijas atslēga, vai arī jūs ievadījāt savu pirmo reizi piesakoties &syncBrand.fullName.label;s kontam. Tā nav vienāda ar jūsu.">
+<!ENTITY setup.haveAccount.label "Man jau ir &syncBrand.fullName.label;s konts.">
 <!ENTITY verifying.label              "Notiek pārbaude…">
+<!ENTITY existingSyncKey.description "Savas sinhronizācijas atslēgas kopiju, jūs varat iegūt, ejot uz &syncBrand.shortName.label;s iestatījumiem savā otrā ierīcē un izvēloties &#x0022;Mana sinhronizācijas atslēga&#x0022; no &#x0022;Konta pārvaldība&#x0022; izvēlnes.">
+<!ENTITY setup.signInPage.title.label "Pieslēgties">
 
 <!-- New & Existing Account: Merge Options -->
 
