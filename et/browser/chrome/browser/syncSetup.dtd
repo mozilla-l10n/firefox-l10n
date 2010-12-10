@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description    "Tere tulemast! Kui sa pole varem &syncBrand.fullName.label;i kasutanud, siis pead sa looma uue konto.">
 <!ENTITY button.createNewAccount.label      "Loo uus konto">
-<!ENTITY button.haveAccount.label           "Mul on &syncBrand.fullName.label;i konto olemas">
+<!ENTITY setup.haveAccount.label            "Mul on juba &syncBrand.fullName.label;i konto olemas.">
+<!ENTITY button.connect.label               "Ühenda">
 
 <!ENTITY setup.choicePage.title.label       "Kas sa oled varem kasutanud &syncBrand.fullName.label;i?">
 <!ENTITY setup.choicePage.new.label         "Ma pole varem &syncBrand.shortName.label;i kasutanud">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label                       "Server">
 <!ENTITY serverType.main.label              "&syncBrand.fullName.label;i serveriga">
-<!ENTITY serverType.custom.label            "kasuta kohandatud serverit">
-<!ENTITY signIn.account.label               "E-posti aadress / kasutajanimi">
-<!ENTITY signIn.account.accesskey           "E">
+<!ENTITY serverType.custom2.label           "Kasuta kohandatud serverit…">
+<!ENTITY signIn.account2.label              "Konto">
+<!ENTITY signIn.account2.accesskey          "K">
 <!ENTITY signIn.password.label              "Parool">
 <!ENTITY signIn.password.accesskey          "P">
-<!ENTITY signIn.serverURL.label             "Serveri URL">
-<!ENTITY signIn.serverURL.accesskey         "S">
+<!ENTITY signIn.syncKey.label               "Synci võti">
+<!ENTITY signIn.syncKey.accesskey           "S">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Konto andmed">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Palun tõesta, et sa pole robot">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Lisa uus seade">
+<!ENTITY addDevice.showMeHow.label          "Näita juhiseid.">
+<!ENTITY addDevice.dontHaveDevice.label     "Mul pole seadet kaasas">
+<!ENTITY addDevice.setup.description.label  "Aktiveerimiseks ava &syncBrand.shortName.label;i seaded oma teisel seadmel ning vali &#x0022;Lisa seade&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Seejärel sisesta see kood:">
+<!ENTITY addDevice.dialog.description.label "Uue seadme aktiveerimiseks ava &syncBrand.shortName.label;i seaded teisel seadmel ja vali &#x0022;Ühenda&#x0022;.">
+<!ENTITY addDevice.dialog.enterCode.label   "Sisesta kood, mida seade kuvab:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Palun proovi uuesti.">
+<!ENTITY addDevice.dialog.successful.label  "Seade on edukalt lisatud. Esialgne sünkroniseerimine võib võtta mitu minutit ning see lõpetatakse taustal.">
+<!ENTITY addDevice.dialog.syncKey.label     "Seadme aktiveerimiseks tuleb sisestada Synci võti. Palun prindi või salvesta see võti ning võta endaga kaasa.">
+<!ENTITY addDevice.dialog.connected.label   "Seade on ühendatud">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label  "Konto teabe sisestamine">
-<!ENTITY resetPassword.label                "Lähtesta parool">
-<!ENTITY connecting.label                   "Ühendumine…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title    "Synci võtme sisestamine">
-<!ENTITY setup.existingSyncKeyPage.description "&syncBrand.fullName.label;i konto loomisel genereeriti sulle Synci võti või sa sisestasid selle ise. See ei kattu sinu parooliga.">
-<!ENTITY existingSyncKeyHelp.description    "Sa leiad oma salajase võtme, kui lähed oma teise arvuti juurde ja vaatad sealt Firefoxi salvestatud paroole. Kui sa siiski ei leia õiget salajast võtit, siis võid sa selle ka lähtestada, kuid see tähendab seda, et kaotad kõik oma serverisse salvestatud andmed.">
-<!ENTITY lostSyncKey.label                  "Ma kaotasin oma Synci võtme">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label       "Sisse logimine">
+<!ENTITY existingSyncKey.description        "Koopia oma Synci võtmest saad, kui avad &syncBrand.shortName.label;i seaded oma teises seadmes ning valid &#x0022;Konto haldamise&#x0022; alt &#x0022;Synci võti&#x0022;.">
 <!ENTITY verifying.label                    "Kontrollimine…">
+<!ENTITY resetPassword.label                "Lähtesta parool">
+<!ENTITY lostSyncKey.label                  "Ma kaotasin oma Synci võtme">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title            "Synci sätted">
