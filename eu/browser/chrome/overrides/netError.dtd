@@ -34,9 +34,9 @@
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "<ul>
-<li>Desgaitu &quot;Lan egin lineaz kanpo&quot; menu-elementua eta saiatu berriz.</li>
-
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Desgaitu &quot;Lan egin lineaz kanpo&quot; menu-elementua eta saiatu berriz.</li> 
+ 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Eduki kodeketa errorea">
@@ -92,7 +92,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Ez zenuke salbuespenik gehitu behar erabat fidatzekoa ez den Internet konexio bat erabiltzen ari bazara edo ez bazaude ohituta zerbitzari honetarako abisuak ikustera.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<!ENTITY securityOverride.warningContent "<p>Ez zenuke salbuespenik gehitu behar erabat fidatzekoa ez den Internet konexio bat erabiltzen ari bazara edo ez bazaude ohituta zerbitzari honetarako abisuak ikustera.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

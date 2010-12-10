@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "Zure Sync gakoa">
 <!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncKeyGenerate.label     "Sortu">
-<!ENTITY syncKeyStrength.label     "Indarra:">
-<!ENTITY syncKeyHelp.label         "Ze esan nahi du indarrak?">
 <!ENTITY syncKeyBackup.description "Beharrezkoa da zure Sync gakoa beste makinatan &syncBrand.fullName.label; atzitzeko. Egizu babeskopia. Ezin dizugu lagundu zure Sync gakoa berreskuratzen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Inprimatu…">
