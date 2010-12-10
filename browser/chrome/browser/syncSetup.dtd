@@ -1,19 +1,20 @@
 <!ENTITY accountSetupTitle.label "Configurazione di &syncBrand.fullName.label;">
 <!ENTITY setup.pickSetupType.description "Benvenuto, se si tratta del primo utilizzo di &syncBrand.fullName.label; è necessario creare un nuovo account.">
 <!ENTITY button.createNewAccount.label "Crea un nuovo account">
-<!ENTITY button.haveAccount.label "Utilizza un account esistente di &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Utilizza un account esistente di &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label "Connetti">
 <!ENTITY setup.choicePage.title.label "Si tratta del primo utilizzo di &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label "Non ho mai utilizzato &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label "Utilizzo &syncBrand.shortName.label; su un altro computer">
 <!ENTITY server.label "Server">
 <!ENTITY serverType.main.label "Server di &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label "Utilizza un server personalizzato">
-<!ENTITY signIn.account.label "Indirizzo e-mail/Nome utente">
-<!ENTITY signIn.account.accesskey "n">
+<!ENTITY serverType.custom2.label "Utilizza un server personalizzato…">
+<!ENTITY signIn.account2.label "Account">
+<!ENTITY signIn.account2.accesskey "A">
 <!ENTITY signIn.password.label "Password">
 <!ENTITY signIn.password.accesskey "P">
-<!ENTITY signIn.serverURL.label "Indirizzo del server">
-<!ENTITY signIn.serverURL.accesskey "z">
+<!ENTITY signIn.syncKey.label "Chiave Sync">
+<!ENTITY signIn.syncKey.accesskey "y">
 <!ENTITY setup.newAccountDetailsPage.title.label "Dettagli dell'account">
 <!ENTITY setup.confirmPassword.label "Conferma password">
 <!ENTITY setup.confirmPassword.accesskey "C">
@@ -37,14 +38,22 @@
 <!ENTITY button.syncKeyBackup.save.label "Salva…">
 <!ENTITY button.syncKeyBackup.save.accesskey "S">
 <!ENTITY setup.captchaPage2.title.label "Conferma di non essere un robot">
-<!ENTITY setup.existingAccount.title.label "Inserire le informazioni dell'account">
-<!ENTITY resetPassword.label "Ripristina la password">
-<!ENTITY connecting.label "Connessione in corso…">
-<!ENTITY setup.existingSyncKeyPage.title "Inserire la Chiave Sync">
-<!ENTITY setup.existingSyncKeyPage.description "La Chiave Sync è stata generata automaticamente o inserita dall'utente quando è stato creato l'account per &syncBrand.fullName.label;. Non coincide con la password.">
-<!ENTITY existingSyncKeyHelp.description "È possibile recuperare la Chiave Sync salvata sul computer nella sezione Password salvate all'interno del pannello Sicurezza. Se non si è in grado di risalire alla Chiave Sync corretta è possibile reimpostarla, ma verranno persi tutti i dati salvati sul server.">
-<!ENTITY lostSyncKey.label "Ho perso la Chiave Sync">
+<!ENTITY addDevice.title.label "Aggiungi un dispositivo">
+<!ENTITY addDevice.showMeHow.label "Visualizza istruzioni.">
+<!ENTITY addDevice.dontHaveDevice.label "Il dispositivo non è al momento disponibile">
+<!ENTITY addDevice.setup.description.label 'Per procedere con l'attivazione aprire le Opzioni di &syncBrand.shortName.label; sull'altro dispositivo e selezionare "Aggiungi un dispositivo".'>
+<!ENTITY addDevice.setup.enterCode.label "Inserire il seguente codice:">
+<!ENTITY addDevice.dialog.description.label 'Per attivare un nuovo dispositivo aprire le Opzioni di &syncBrand.shortName.label; sul dispositivo stesso e selezionare "Connetti".'>
+<!ENTITY addDevice.dialog.enterCode.label "Inserire il codice fornito dal dispositivo:">
+<!ENTITY addDevice.dialog.tryAgain.label "Riprovare.">
+<!ENTITY addDevice.dialog.successful.label "Il dispositivo è stato aggiunto correttamente. La sincronizzazione iniziale può richiedere diversi minuti e verrà completata in background.">
+<!ENTITY addDevice.dialog.syncKey.label "Per attivare il dispositivo è necessario inserire la propria Chiave Sync. Si consiglia di stampare o salvare questa chiave e portarla con sé.">
+<!ENTITY addDevice.dialog.connected.label "Dispositivo connesso">
+<!ENTITY setup.signInPage.title.label "Accedi">
+<!ENTITY existingSyncKey.description 'È possibile ottenere una copia della Chiave Sync aprendo le Opzioni di &syncBrand.shortName.label; su un altro dispositivo e selezionando "Chiave Sync" in "Gestione account".'>
 <!ENTITY verifying.label "Verifica in corso…">
+<!ENTITY resetPassword.label "Ripristina la password">
+<!ENTITY lostSyncKey.label "Ho perso la Chiave Sync">
 <!ENTITY setup.optionsPage.title "Opzioni di sincronizzazione">
 <!ENTITY syncComputerName.label "Nome del computer:">
 <!ENTITY syncComputerName.accesskey "u">
