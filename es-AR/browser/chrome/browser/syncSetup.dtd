@@ -14,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servidor">
 <!ENTITY serverType.main.label "Servidor de &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label "Usar un servidor personalizado">
-<!ENTITY signIn.account.label       "Correo electrónico / Nombre de usuario">
-<!ENTITY signIn.account.accesskey   "e">
+<!ENTITY serverType.custom2.label   "Usar un servidor personalizado…">
+<!ENTITY signIn.account2.label      "Cuenta">
+<!ENTITY signIn.account2.accesskey  "e">
 <!ENTITY signIn.password.label "Contraseña">
 <!ENTITY signIn.password.accesskey "C">
-<!ENTITY signIn.serverURL.label "URL del servidor">
-<!ENTITY signIn.serverURL.accesskey "U">
+<!ENTITY signIn.syncKey.label       "Clave de sincronización">
+<!ENTITY signIn.syncKey.accesskey   "z">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de cuenta">
