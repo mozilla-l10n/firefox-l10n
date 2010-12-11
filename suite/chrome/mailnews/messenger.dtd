@@ -126,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "v">
 <!ENTITY undeleteMsgsCmd.label "Angre valgte meldinger">
 <!ENTITY undeleteMsgsCmd.accesskey "A">
-<!ENTITY cancelNewsMsgsCmd.label "Avbryt valgte meldinger">
-<!ENTITY cancelNewsMsgsCmd.accesskey "A">
 <!ENTITY deleteFolderCmd.label "Slett mappe">
 <!ENTITY deleteFolderCmd.accesskey "S">
 <!ENTITY unsubscribeNewsgroupCmd.label "Stopp abonnement">
