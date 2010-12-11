@@ -36,7 +36,7 @@
 
 <!ENTITY connectionDesc.label "Konfigurovat připojení aplikace &brandShortName; k Internetu">
 <!ENTITY connectionSettings.label "Nastavení připojení…">
-<!ENTITY connectionSettings.accesskey "N">
+<!ENTITY connectionSettings.accesskey "p">
 
 <!ENTITY offlineStorage.label "Úložiště režimu offline">
 
@@ -81,7 +81,7 @@
 <!ENTITY offlineAppsList.label "Následující servery mají uložená data pro použití v režimu offline:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Odebrat…">
-<!ENTITY offlineAppsListRemove.accesskey "O">
+<!ENTITY offlineAppsListRemove.accesskey "d">
 <!ENTITY offlineAppRemove.confirm "Smazat offline obsah">
 
 <!ENTITY encryptionTab.label "Šifrování">
