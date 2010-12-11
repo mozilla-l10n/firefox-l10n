@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label "Odeslat zpětnou vazbu…">
 <!ENTITY helpFeedbackPage.accesskey "s">
 
-<!ENTITY updateCmd.label "Zkontrolovat aktualizace…">
-
 <!ENTITY preferencesCmdMac.label "Předvolby…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
