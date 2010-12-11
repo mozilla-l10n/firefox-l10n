@@ -22,7 +22,6 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "ф">
 <!ENTITY helpFeedbackPage.label "Отправить отзыв…">
 <!ENTITY helpFeedbackPage.accesskey "т">
-<!ENTITY updateCmd.label "Проверить наличие обновлений…">
 <!ENTITY preferencesCmdMac.label "Настройки…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY servicesMenuMac.label "Службы">
