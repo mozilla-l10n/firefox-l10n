@@ -95,7 +95,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Subscriu-me a la pàgina">
 <!ENTITY subscribeToPageMenuitem.label "Subscriu-me a la pàgina…">
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
-<!ENTITY showAllBookmarks.label "Mostra totes les adreces d'interès…">
+<!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interès">
 <!ENTITY bookmarkAllCmd.label "Afegeix-hi totes les pestanyes…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 
@@ -230,8 +230,8 @@
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Opcions…">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmd2.label "Opcions">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
@@ -544,3 +544,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sincronització">
 
+<!ENTITY addonBarCloseButton.tooltip  "Tanca la barra de complements">
