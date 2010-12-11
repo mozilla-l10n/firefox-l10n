@@ -1,7 +1,0 @@
-<!ENTITY startDescriptionText.label        "Et nettsted forsøkte å åpne et sprettoppvindu uten at du har bedt om det. &brandShortName; har automatisk lukket sprettoppvinduet.">
-
-<!ENTITY endDescription.label              "Du kan trykke på dette ikonet for å se hvilke nettsteder &brandShortName; blokkerte, og for å tillate disse nettsidene å åpne sprettoppvinduer hvis de kreves for at nettstedet skal fungere som det skal.">
-
-<!ENTITY caption.label                     "Om sprettoppvindublokkering">
-
-<!ENTITY done.label "Fullført">

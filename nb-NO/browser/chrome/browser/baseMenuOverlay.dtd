@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Gi tilbakemelding …">
 <!ENTITY helpFeedbackPage.accesskey  "G">
 
-<!ENTITY updateCmd.label                "Søk etter oppdateringer …">
-
 <!ENTITY preferencesCmdMac.label        "Innstillinger …">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
