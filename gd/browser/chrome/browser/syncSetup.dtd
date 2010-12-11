@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Fàilte ort! Mur eil thu air &syncBrand.fullName.label; a chleachdadh roimhe, bidh agad ri cunntas ùr a chruthachadh.">
 <!ENTITY button.createNewAccount.label "Cruthaich cunntas ùr">
-<!ENTITY button.haveAccount.label "Tha cunntas &syncBrand.fullName.label; agam">
+<!ENTITY setup.haveAccount.label "Tha cunntas &syncBrand.fullName.label; agam mu thràth.">
+<!ENTITY button.connect.label    "Ceangail">
 
 <!ENTITY setup.choicePage.title.label     "An do chleachd thu &syncBrand.fullName.label; roimhe?">
 <!ENTITY setup.choicePage.new.label       "Cha do chleachd mi &syncBrand.shortName.label; a-riamh roimhe">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Am frithealaiche">
 <!ENTITY serverType.main.label      "Frithealaiche &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "Cleachd frithealaichte gnàthaichte">
-<!ENTITY signIn.account.label       "Seòladh puist-dhealain / Ainm a' chleachdaiche">
-<!ENTITY signIn.account.accesskey   "e">
+<!ENTITY serverType.custom2.label   "Cleachd frithealaiche gnàthaichte…">
+<!ENTITY signIn.account2.label      "Cunntas">
+<!ENTITY signIn.account2.accesskey  "a">
 <!ENTITY signIn.password.label      "Facal-faire">
 <!ENTITY signIn.password.accesskey  "F">
-<!ENTITY signIn.serverURL.label     "URL an fhrithealaiche">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "Iuchair sioncronachaidh">
+<!ENTITY signIn.syncKey.accesskey   "I">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Mion-fhiosrachadh a' chunntais">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Dearbhaich nach e robotair a tha annad">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Cuir inneal ris">
+<!ENTITY addDevice.showMeHow.label          "Seall dhomh mar a nì mi seo.">
+<!ENTITY addDevice.dontHaveDevice.label     "Chan eil an t-inneal agam an-seo">
+<!ENTITY addDevice.setup.description.label  "Gus a chur thuige, rach gu roghainnean &syncBrand.shortName.label; air an inneal eile agad is tagh &#x0022;Cuir inneal ris&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Agus cuir a-steach an còd seo an uairsin:">
+<!ENTITY addDevice.dialog.description.label "Gus an t-inneal ùr agad a chur thuige, rach gu roghainnean &syncBrand.shortName.label; air an inneal is tagh &#x0022;Dèan ceangal.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Cuir a-steach an còd a thug an t-inneal dhut:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Saoil am feuch thu ris a-rithist?">
+<!ENTITY addDevice.dialog.successful.label  "Chaidh an t-inneal a chur ris gu soirbheachail. Feumaidh a' chiad sioncronachadh grunn mhionaidean 's thig e gu crìoch leis fhèin sa chùlaibh.">
+<!ENTITY addDevice.dialog.syncKey.label     "Tha agad ris an iuchair sioncronachaidh a chur a-steach gus an t-inneal agad a chur ris. Clò-bhuail an iuchair seo no sàbhail e 's thoirt leat e.">
+<!ENTITY addDevice.dialog.connected.label   "Tha an t-inneal air a cheangal ris">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Cuir a-steach fiosrachadh a' chunntais">
-<!ENTITY resetPassword.label          "Ath-shuidhich am facal-faire">
-<!ENTITY connecting.label             "A' ceangal…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Cuir a-steach an iuchair co-shioncronachaidh agad">
-<!ENTITY setup.existingSyncKeyPage.description "Chaidh an iuchair co-shioncronachaidh a ghineadh dhut no chuir thu a-steach tè agad fhèin nuair a chlàraich thu aig &syncBrand.fullName.label; a' chiad turas. Chan e am facal-faire agad a tha ann.">
-<!ENTITY existingSyncKeyHelp.description "Gheibh thu an iuchair co-shioncronachaidh a shàbhail thu ma thèid thu dhan choimpiutair eile agad 's ma chuireas tu sùil air na faclan-faire a shàbhail thu fo Thèarainteachd. Mur urrainn dhut an iuchair co-shioncronachaidh cheart a lorg fhathast, 's urrainn dhut ath-shuidheachadh ach caillidh tu dàta sam bith a stòraich thu air an fhrithealaiche.">
-<!ENTITY lostSyncKey.label            "Chaill mi an iuchair co-shioncronachaidh agam">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Clàraich a-steach">
+<!ENTITY existingSyncKey.description "Gheibh thu lethbhreac dhen iuchair sioncronachaidh agad ma thèid thu gu roghainnean &syncBrand.shortName.label; air an inneal eile agad 's ma thaghas tu &#x0022;An iuchair sioncronachaidh agam&#x0022; fo &#x0022;Stiùirich an cunntas&#x0022;.">
 <!ENTITY verifying.label              "'Ga dhearbhadh…">
+<!ENTITY resetPassword.label          "Ath-shuidhich am facal-faire">
+<!ENTITY lostSyncKey.label            "Chaill mi an iuchair co-shioncronachaidh agam">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Roghainnean a' cho-shioncronachaidh">
