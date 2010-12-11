@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Selamat datang! Jika Anda belum pernah menggunakan &syncBrand.fullName.label; Anda perlu untuk membuat akun baru.">
 <!ENTITY button.createNewAccount.label "Buat Akun Baru">
-<!ENTITY button.haveAccount.label "Saya Sudah Punya Akun &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Saya sudah punya akun  &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label    "Sambungkan">
 
 <!ENTITY setup.choicePage.title.label     "Sudah pernah menggunakan &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Belum pernah">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "Server &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "Gunakan server khusus">
-<!ENTITY signIn.account.label       "Alamat Email / Nama Pengguna">
-<!ENTITY signIn.account.accesskey   "U">
+<!ENTITY serverType.custom2.label    "Gunakan server khusus…">
+<!ENTITY signIn.account2.label       "Akun">
+<!ENTITY signIn.account2.accesskey   "A">
 <!ENTITY signIn.password.label      "Sandi">
 <!ENTITY signIn.password.accesskey  "S">
-<!ENTITY signIn.serverURL.label     "URL Server">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "Kunci Sinkronisasi">
+<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detail Akun">
@@ -52,16 +53,24 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Pastikan Anda Bukan Robot">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Tambahkan Perangkat">
+<!ENTITY addDevice.showMeHow.label          "Tunjukkan Caranya.">
+<!ENTITY addDevice.dontHaveDevice.label     "Perangkat saya sedang tidak di dekat saya">
+<!ENTITY addDevice.setup.description.label  "Untuk mengaktifkan pilih  Pengaturan &syncBrand.shortName.label; pada perangkat Anda lainnya dan pilih &#x0022;Tambahkan Perangkat&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Kemudian, masukkan kode ini:">
+<!ENTITY addDevice.dialog.description.label "Untuk mengaktifkan perangkat baru Anda, pilih Pengaturan &syncBrand.shortName.label; dan pilih &#x0022;Sambungkan&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Masukkan kode yang disebutkan pada perangkat tersebut:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Coba lagi.">
+<!ENTITY addDevice.dialog.successful.label  "Perangkat sukses ditambahkan. Penyinkronan awal memakan waktu beberapa menit dan akan selesai sebagai proses yang berjalan di latar belakang.">
+<!ENTITY addDevice.dialog.syncKey.label     "Untuk mengaktifkan perangkat Anda, Kunci Sinkronisasi perlu dimasukkan pada perangkat Anda. Cetak atau simpan kunci ini dan ingat selalu.">
+<!ENTITY addDevice.dialog.connected.label   "Perangkat Tersambung">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Masukkan Informasi Akun">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Masuk">
+<!ENTITY existingSyncKey.description "Anda dapat mendapatkan salinan Kunci Sinkronisasi dengan menampilkan Pengaturan &syncBrand.shortName.label; pada perangkat Anda lainnya, dan memilih &#x0022;Kunci Sinkronisasi Saya&#x0022; di bawah &#x0022;Kelola Akun&#x0022;.">
+<!ENTITY verifying.label              "Memverifikasi…">
 <!ENTITY resetPassword.label          "Setel Ulang Sandi">
-<!ENTITY connecting.label             "Menyambungkan…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Masukkan Kunci Sinkronisasi Anda">
-<!ENTITY setup.existingSyncKeyPage.description "Kunci Sinkronisasi telah dibuat untuk Anda, atau Anda memasukkannya secara manual saat pertama kali mendaftar pada &syncBrand.fullName.label;. Kunci ini bukan sandi Anda.">
-<!ENTITY existingSyncKeyHelp.description "Anda dapat melihat Kunci Sinkronisasi Anda pada komputer lainnya dan memeriksa bagian Sandi Tersimpan di pengaturan Keamanan. Jika Anda benar-benar tidak dapat mendapatkan Kunci Sinkronisasi Anda dengan benar, Anda dapat memilih untuk menyetel ulang kuncinya, tetapi Anda akan kehilangan semua data yang tersimpan di Server.">
 <!ENTITY lostSyncKey.label            "Saya kehilangan Kunci Sinkronisasi Saya">
 <!ENTITY verifying.label              "Memverifikasi…">
 

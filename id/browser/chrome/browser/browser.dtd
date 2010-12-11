@@ -550,3 +550,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Sinkronkan Sekarang">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sinkronkan">
+
+<!ENTITY addonBarCloseButton.tooltip  "Tutup Bilah Pengaya">
