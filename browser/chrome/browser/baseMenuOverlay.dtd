@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Submeter Feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY updateCmd.label "Procurar actualizações...">
-
 <!ENTITY preferencesCmdMac.label "Preferências...">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
