@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Velkommen, dersom du ikke har brukt &syncBrand.fullName.label; før, må du opprette en ny konto.">
 <!ENTITY button.createNewAccount.label "Opprett ny konto">
-<!ENTITY button.haveAccount.label "Jeg har en &syncBrand.fullName.label;-konto">
+<!ENTITY setup.haveAccount.label "Jeg har allerede en &syncBrand.fullName.label;-konto">
+<!ENTITY button.connect.label    "Koble til">
 
 <!ENTITY setup.choicePage.title.label     "Har du brukt &syncBrand.fullName.label; før?">
 <!ENTITY setup.choicePage.new.label       "Jeg har aldri brukt &syncBrand.shortName.label; før">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Tjener">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "Bruk en annen tjener">
-<!ENTITY signIn.account.label       "E-postadresse/brukernavn">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "Bruk en annen tjener …">
+<!ENTITY signIn.account2.label      "Konto">
+<!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Passord">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "URL til tjeneren">
-<!ENTITY signIn.serverURL.accesskey "U">
+<!ENTITY signIn.syncKey.label       "Sync-nøkkel">
+<!ENTITY signIn.syncKey.accesskey   "k">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontodetaljer">
@@ -43,8 +44,6 @@
 <!ENTITY syncKeyEntry.label        "Sync-nøkkel">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncKeyGenerate.label     "Generer">
-<!ENTITY syncKeyStrength.label     "Styrke:">
-<!ENTITY syncKeyHelp.label         "Hva betyr styrke?">
 <!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkrevd for å få tilgang til &syncBrand.fullName.label; på flere maskiner. Lag en sikkerhetskopi. Vi kan ikke hjelpe deg å finne tilbake tilbake en glemt Sync-nøkkel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
@@ -54,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bekreft at du ikke er en robot">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Legg til en enhet">
+<!ENTITY addDevice.showMeHow.label          "Vis meg hvordan.">
+<!ENTITY addDevice.dontHaveDevice.label     "Jeg har ikke enheten med meg">
+<!ENTITY addDevice.setup.description.label  "For å aktivere, gå til &syncBrand.shortName.label; Innstillinger på den andre enheten, og velg &#x0022;Legg til enhet&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Skriv deretter inn denne koden:">
+<!ENTITY addDevice.dialog.description.label "For å aktivere den nye enheten, gå til &syncBrand.shortName.label; Innstillinger på enheten og velg &#x0022;Koble til.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Skriv inn koden som enheten oppgir:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Prøv igjen.">
+<!ENTITY addDevice.dialog.successful.label  "Enheten ble lagt til. Den første synkroniseringen kan ta flere minutter, og vil fullføre i bakgrunnen.">
+<!ENTITY addDevice.dialog.syncKey.label     "For å aktivere enheten må du skrive inn Sync-nøkkelen. Gjerne skriv ut eller lagre denne nøkkelen og ta den med deg.">
+<!ENTITY addDevice.dialog.connected.label   "Enhet tilkoblet">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Skriv inn kontoinformasjon">
-<!ENTITY resetPassword.label          "Tilbakestill passord">
-<!ENTITY connecting.label             "Kobler til …">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Skriv inn Sync-nøkkelen">
-<!ENTITY setup.existingSyncKeyPage.description "Sync-nøkkelen ble opprettet for deg, eller du skrev inn din egen første gang du registrerte deg for &syncBrand.fullName.label;. Den er ikke lik passordet ditt.">
-<!ENTITY existingSyncKeyHelp.description "Du kan finne din lagrede Sync-nøkkel ved å gå til den andre datamaskinen din, og kontrollere Lagrede passord under Sikkerhet. Dersom du fortsatt ikke klarer finne den riktige Sync-nøkkelen kan du velge å tilbakestille den, men da vil du miste alle data som er lagret på tjeneren.">
-<!ENTITY lostSyncKey.label            "Jeg har mistet Sync-nøkkelen">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Logg inn">
+<!ENTITY existingSyncKey.description "Du kan skaffe en kopi av Sync-nøkkelen din ved å gå til &syncBrand.shortName.label; Innstillinger på den andre enheten, og velge &#x0022;Min Sync-nøkkel&#x0022; under &#x0022;Behandle konto&#x0022;.">
 <!ENTITY verifying.label              "Bekrefter …">
+<!ENTITY resetPassword.label          "Tilbakestill passord">
+<!ENTITY lostSyncKey.label            "Jeg har mistet Sync-nøkkelen">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync-innstillinger">

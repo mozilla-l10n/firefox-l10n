@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne siden">
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne siden …">
 <!ENTITY addCurPagesCmd.label "Bokmerk alle faner …">
-<!ENTITY showAllBookmarks.label "Vis alle bokmerker …">
+<!ENTITY showAllBookmarks2.label "Vis alle bokmerker">
 <!ENTITY bookmarkAllCmd.label "Bokmerk alle faner …">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bokmerker">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Merk alt">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "M">
-<!ENTITY preferencesCmd.label       "Innstillinger …">
-<!ENTITY preferencesCmd.accesskey     "I">
+<!ENTITY preferencesCmd2.label       "Innstillinger">
+<!ENTITY preferencesCmd2.accesskey     "I">
 <!ENTITY preferencesCmdUnix.label       "Innstillinger">
 <!ENTITY preferencesCmdUnix.accesskey     "I">
 
@@ -548,3 +548,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Synkroniser nå">
 <!ENTITY syncSyncNowItem.accesskey    "r">
 <!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY addonBarCloseButton.tooltip  "Lukk utvidelseslinje">

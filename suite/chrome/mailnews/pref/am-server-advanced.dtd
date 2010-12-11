@@ -8,7 +8,7 @@
 <!ENTITY dualUseFolders.accesskey "T">
 <!ENTITY useIdle.label "Bruk IDLE-kommandoen dersom tjeneren støtter det">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Maksimalt antall tjenertilkoblinger til mellomlager">
+<!ENTITY maximumConnectionsNumber.label "Maksimalt antall tjenertilkoblinger til hurtiglager">
 <!ENTITY maximumConnectionsNumber.accesskey "T">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Disse innstillingene angir navnerommet på IMAP-tjeneren">

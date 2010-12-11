@@ -11,5 +11,9 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "F">
 <!ENTITY useSmoothScroll.label                  "Bruk jevn rulling">
 <!ENTITY useSmoothScroll.accesskey              "B">
+<!ENTITY allowHWAccel.label                     "Bruk maskinvareakselerasjon når tilgjengelig">
+<!ENTITY allowHWAccel.accesskey                 "k">
 <!ENTITY textZoomOnly.label                     "Forstørr/forminsk tekst istedenfor hele nettsider">
 <!ENTITY textZoomOnly.accesskey                 "o">
+<!ENTITY blockAutoRefresh.label                 "Advar når nettsider forsøker å omdirigere eller laste siden på nytt">
+<!ENTITY blockAutoRefresh.accesskey             "d">
