@@ -73,17 +73,13 @@
 <!ENTITY deleteMsgCmd.accesskey "t">
 <!ENTITY undeleteMsgCmd.label "Angre sletting av melding">
 <!ENTITY undeleteMsgCmd.accesskey "g">
-<!ENTITY cancelNewsMsgCmd.label "Avbryt melding">
-<!ENTITY cancelNewsMsgCmd.accesskey "b">
 <!ENTITY deleteMsgsCmd.label "Slett dei valde meldingane">
 <!ENTITY deleteMsgsCmd.accesskey "v">
 <!ENTITY undeleteMsgsCmd.label "Angre valde meldingar">
 <!ENTITY undeleteMsgsCmd.accesskey "A">
-<!ENTITY cancelNewsMsgsCmd.label "Avbryt valde meldingar">
-<!ENTITY cancelNewsMsgsCmd.accesskey "v">
 <!ENTITY deleteFolderCmd.label "Slett mappe">
 <!ENTITY deleteFolderCmd.accesskey "S">
-<!ENTITY unsubscribeNewsgroupCmd.label "Stopp abonnement">
+<!ENTITY unsubscribeNewsgroupCmd.label "Stopp abonnementet">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "a">
 <!ENTITY selectMenu.label "Vel">
 <!ENTITY selectMenu.accesskey "V">
@@ -313,6 +309,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
+<!ENTITY folderMenu.label "Mappe">
+<!ENTITY folderMenu.accesskey "M">
+<!ENTITY thisFolder.label "Denne mappa">
+<!ENTITY thisFolder.accesskey "e">
 <!ENTITY startPageCmd.label "Startside">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -326,6 +326,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Arkiver">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Avbryt melding">
+<!ENTITY cancelNewsMsgCmd.accesskey "b">
 <!ENTITY replyMsgCmd.label "Svar">
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key  "r">
