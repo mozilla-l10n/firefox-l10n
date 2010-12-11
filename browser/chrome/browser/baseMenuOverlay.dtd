@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Kirim Saran…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY updateCmd.label                "Periksa Versi Baru…">
-
 <!ENTITY preferencesCmdMac.label        "Pengaturan…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
