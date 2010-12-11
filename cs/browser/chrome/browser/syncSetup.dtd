@@ -93,7 +93,7 @@
 <!ENTITY choice2.merge.main.label "Sloučit data na tomto počítači s daty &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Doporučováno:">
 <!ENTITY choice2.client.main.label "Nahradit všechna data na tomto počítači daty z vašeho &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label "Nahradit data na ostatních zařízeních data na tomto počítači">
+<!ENTITY choice2.server.main.label "Nahradit data na ostatních zařízeních daty na tomto počítači">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Potvrdit">
@@ -106,5 +106,3 @@
 <!ENTITY setup.successPage.title "Nastavení dokončeno!">
 <!ENTITY changeOptions.label "Vaše nastavení lze změnit v dialogu možnosti Sync níže.">
 <!ENTITY continueUsing.label "Nyní můžete pokračovat v používání aplikace &brandShortName;.">
-
-
