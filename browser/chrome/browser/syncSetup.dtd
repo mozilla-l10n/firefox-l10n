@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Välkommen. Har du aldrig använt &syncBrand.fullName.label; förut kommer du att behöva skapa ett nytt konto.">
 <!ENTITY button.createNewAccount.label "Skapa ett nytt konto">
-<!ENTITY button.haveAccount.label "Jag har ett &syncBrand.fullName.label;-konto">
+<!ENTITY setup.haveAccount.label "Jag har redan ett &syncBrand.fullName.label;-konto">
+<!ENTITY button.connect.label    "Anslut">
 
 <!ENTITY setup.choicePage.title.label     "Har du använt &syncBrand.fullName.label; förut?">
 <!ENTITY setup.choicePage.new.label       "Jag har aldrig använt &syncBrand.shortName.label; förut">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-servern">
-<!ENTITY serverType.custom.label    "Använd en egen server">
-<!ENTITY signIn.account.label       "E-postadress / Användarnamn">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "Använd en egen server…">
+<!ENTITY signIn.account2.label      "Konto">
+<!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Lösenord">
 <!ENTITY signIn.password.accesskey  "L">
-<!ENTITY signIn.serverURL.label     "Serverns URL">
-<!ENTITY signIn.serverURL.accesskey "U">
+<!ENTITY signIn.syncKey.label       "Sync-nyckel">
+<!ENTITY signIn.syncKey.accesskey   "S">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontodetaljer">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bekräfta att du inte är en robot">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Lägg till enhet">
+<!ENTITY addDevice.showMeHow.label          "Visa mig hur.">
+<!ENTITY addDevice.dontHaveDevice.label     "Jag har inte enheten med mig">
+<!ENTITY addDevice.setup.description.label  "För att aktivera, gå till inställningarna i &syncBrand.shortName.label; och välj &#x0022;Lägg till enhet&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Ange sedan den här koden:">
+<!ENTITY addDevice.dialog.description.label "För att aktivera den nya enheten, gå till inställningarna i &syncBrand.shortName.label; på enheten och välj &#x0022;Anslut.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Ange koden som enheten ger dig:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Försök igen.">
+<!ENTITY addDevice.dialog.successful.label  "Enheten har lagts till. Den första synkroniseringen kan ta flera minuter och slutförs i bakgrunden.">
+<!ENTITY addDevice.dialog.syncKey.label     "Ange din Sync-nyckel för att aktivera enheten. Skriv ut eller spara nyckeln och ta den med dig.">
+<!ENTITY addDevice.dialog.connected.label   "Enheten är ansluten">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Ange kontoinformation">
-<!ENTITY resetPassword.label          "Återställ lösenordet">
-<!ENTITY connecting.label             "Ansluter…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Ange din Sync-nyckel">
-<!ENTITY setup.existingSyncKeyPage.description "Sync-nyckeln skapades för dig eller angavs av dig när du först började använda &syncBrand.fullName.label;. Den är inte samma som ditt lösenord.">
-<!ENTITY existingSyncKeyHelp.description "Du hittar din sparade Sync-nyckel genom att gå till din andra dator och söka bland de sparade lösenorden under Säkerhet. Om du ändå inte hittar den rätta Sync-nyckeln kan du välja att skapa en ny, men du kommer då att tappa all data som finns lagrad på servern.">
-<!ENTITY lostSyncKey.label            "Jag har tappat min Sync-nyckel">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Logga in">
+<!ENTITY existingSyncKey.description "Du kan få en kopia av din Sync-nyckel genom att gå till inställningarna i &syncBrand.shortName.label; på din andra enhet och välja &#x0022;Min Sync-nyckel&#x0022; under &#x0022;Hantera konto&#x0022;.">
 <!ENTITY verifying.label              "Verifierar…">
+<!ENTITY resetPassword.label          "Återställ lösenordet">
+<!ENTITY lostSyncKey.label            "Jag har tappat min Sync-nyckel">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Synkinställningar">
