@@ -11,5 +11,9 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "F">
 <!ENTITY useSmoothScroll.label                  "Använd mjuk rullning">
 <!ENTITY useSmoothScroll.accesskey              "n">
+<!ENTITY allowHWAccel.label                     "Använd hårdvaruacceleration när det är tillgängligt">
+<!ENTITY allowHWAccel.accesskey                 "h">
 <!ENTITY textZoomOnly.label                     "Zooma bara text i stället för hela sidor">
 <!ENTITY textZoomOnly.accesskey                 "Z">
+<!ENTITY blockAutoRefresh.label                 "Varna när webbplatsen försöker skicka vidare eller ladda om sidan">
+<!ENTITY blockAutoRefresh.accesskey             "V">
