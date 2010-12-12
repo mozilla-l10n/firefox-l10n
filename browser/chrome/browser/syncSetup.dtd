@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Ласкаво просимо. Якщо ви раніше не використовували &syncBrand.fullName.label;, вам треба буде створити новий обліковий запис.">
 <!ENTITY button.createNewAccount.label "Створити новий обліковий запис">
-<!ENTITY button.haveAccount.label "В мене є обліковий запис &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Я вже маю обліковий запис &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label    "З’єднатись">
 
 <!ENTITY setup.choicePage.title.label     "Чи використовували ви &syncBrand.fullName.label; дотепер?">
 <!ENTITY setup.choicePage.new.label       "Ніколи">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Сервер">
 <!ENTITY serverType.main.label      "Сервер &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "Використати власний сервер">
-<!ENTITY signIn.account.label       "Адреса ел.пошти / Ім’я користувача">
-<!ENTITY signIn.account.accesskey   "А">
+<!ENTITY serverType.custom2.label   "Використати інший сервер…">
+<!ENTITY signIn.account2.label      "Обліковий запис">
+<!ENTITY signIn.account2.accesskey  "З">
 <!ENTITY signIn.password.label      "Пароль">
 <!ENTITY signIn.password.accesskey  "П">
-<!ENTITY signIn.serverURL.label     "Адреса сервера">
-<!ENTITY signIn.serverURL.accesskey "А">
+<!ENTITY signIn.syncKey.label       "Ключ синхронізації">
+<!ENTITY signIn.syncKey.accesskey   "К">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Подробиці облікового запису">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Будь ласка, доведіть що ви не робот">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Додати пристрій">
+<!ENTITY addDevice.showMeHow.label          "Покажіть мені як.">
+<!ENTITY addDevice.dontHaveDevice.label     "Я не маю пристрою з собою">
+<!ENTITY addDevice.setup.description.label  "Щоб активувати, перейдіть до налаштувань &syncBrand.shortName.label; на вашому іншому пристрою та виберіть «Додати пристрій»">
+<!ENTITY addDevice.setup.enterCode.label    "Тоді, уведіть цей код:">
+<!ENTITY addDevice.dialog.description.label "Щоб активувати ваш новий пристрій, перейдіть до налаштувань &syncBrand.shortName.label; на ньому та виберіть «З’єднатись»">
+<!ENTITY addDevice.dialog.enterCode.label   "Уведіть код що надає пристрій:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Спробуйте ще раз.">
+<!ENTITY addDevice.dialog.successful.label  "Пристрій успішно додано. Початкова синхронізація триватиме кілька хвилин і завершиться на тлі.">
+<!ENTITY addDevice.dialog.syncKey.label     "Щоб активувати ваш пристрій вам треба ввести ключ синхронізації. Надрукуйте чи збережіть цей ключ та візьміть з собою.">
+<!ENTITY addDevice.dialog.connected.label   "Пристрій під’єднано">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Введіть інформацію облікового запису">
-<!ENTITY resetPassword.label          "Стерти пароль">
-<!ENTITY connecting.label             "З’єднання…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Введіть ваш ключ синхронізації">
-<!ENTITY setup.existingSyncKeyPage.description "Ваш ключ синхронізації було згенеровано для вас, чи ви ввели свій власний, під час реєстраціїї в  &syncBrand.fullName.label;. Це не те саме, що ваш пароль.">
-<!ENTITY existingSyncKeyHelp.description "Ви можете віднайти ваш ключ синхронізації, переглянувши інформацію про збережені паролі у вкладці Безпека на іншому комп’ютері. Якщо все ж вам не вдалось згадати ключ, ви можете скинути її, однак це призведе до втрати всіх ваших даних на сервері.">
-<!ENTITY lostSyncKey.label            "Я загубив мій ключ синхронізації">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Увійти">
+<!ENTITY existingSyncKey.description "Ви можете отримати копію вашого ключа синхронізації перейшовши до налаштувань &syncBrand.shortName.label; на вашому пристрої, та вибравши «Мій ключ синхронізації» в «Керувати обліковим записом»">
 <!ENTITY verifying.label              "Перевірка…">
+<!ENTITY resetPassword.label          "Стерти пароль">
+<!ENTITY lostSyncKey.label            "Я загубив мій ключ синхронізації">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Варіанти синхронізації">
