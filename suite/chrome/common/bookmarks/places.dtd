@@ -84,7 +84,9 @@
 <!ENTITY col.lastmodified.label  "Zuletzt verändert">
 
 <!ENTITY search.label                              "Suchen:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.placeholder                        "Lesezeichen durchsuchen">
+
+<!ENTITY search.in.label                           "Suchen in:">
 <!ENTITY search.scopeFolder.label                  "Ausgewählter Ordner">
 <!ENTITY search.scopeFolder.accesskey              "e">
 <!ENTITY search.scopeBookmarks.label               "Lesezeichen">

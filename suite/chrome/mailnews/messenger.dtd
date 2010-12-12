@@ -126,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "a">
 <!ENTITY undeleteMsgsCmd.label "Löschen der gewählten Nachrichten aufheben">
 <!ENTITY undeleteMsgsCmd.accesskey "L">
-<!ENTITY cancelNewsMsgsCmd.label "Gewählte Nachrichten abbrechen">
-<!ENTITY cancelNewsMsgsCmd.accesskey "G">
 <!ENTITY deleteFolderCmd.label "Ordner löschen">
 <!ENTITY deleteFolderCmd.accesskey "O">
 <!ENTITY unsubscribeNewsgroupCmd.label "Abbestellen">
