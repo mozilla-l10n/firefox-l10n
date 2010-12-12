@@ -22,7 +22,6 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "З">
 <!ENTITY helpFeedbackPage.label "Падаць водгук…">
 <!ENTITY helpFeedbackPage.accesskey "в">
-<!ENTITY updateCmd.label "Праверка існавання абнаўленняў…">
 <!ENTITY preferencesCmdMac.label "Перавагі…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY servicesMenuMac.label "Службы">
