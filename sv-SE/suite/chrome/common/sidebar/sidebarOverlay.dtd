@@ -64,3 +64,9 @@
 <!ENTITY sidebar.pagenotfound.label  "Denna flik är för tillfället inte tillgänglig.">
 <!ENTITY sidebar.close.tooltip       "Stäng sidofältet">
 <!ENTITY sidebar.open.tooltip        "Öppna sidofältet">
+
+<!ENTITY sidebar.search.label         "Sök">
+<!ENTITY sidebar.client-bookmarks.label     "Bokmärken">
+<!ENTITY sidebar.client-history.label       "Historik">
+<!ENTITY sidebar.client-addressbook.label   "Adressbok">
+

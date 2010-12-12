@@ -85,6 +85,8 @@
 
 <!ENTITY search.label                              "Sök:">
 <!ENTITY search.placeholder                        "Sök bokmärken">
+
+<!ENTITY search.in.label                           "Sök i:">
 <!ENTITY search.scopeFolder.label                  "Vald mapp">
 <!ENTITY search.scopeFolder.accesskey              "k">
 <!ENTITY search.scopeBookmarks.label               "Bokmärken">
