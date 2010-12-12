@@ -23,7 +23,6 @@
 <!ENTITY helpTroubleshootingInfo.accesskey	"T">
 <!ENTITY helpFeedbackPage.label      "의견 보내기…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
-<!ENTITY updateCmd.label "업데이트 확인…">
 <!ENTITY preferencesCmdMac.label "환경 설정…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY servicesMenuMac.label "서비스">
