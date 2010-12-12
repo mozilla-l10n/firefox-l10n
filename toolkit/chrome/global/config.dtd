@@ -49,7 +49,7 @@
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Ainm na roghainn">
-<!ENTITY lockColumn.label "Cor">
+<!ENTITY lockColumn.label "Staid">
 <!ENTITY typeColumn.label "Seòrsa">
 <!ENTITY valueColumn.label "Luach">
 

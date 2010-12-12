@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Cuir thugainn do bheachdan…">
 <!ENTITY helpFeedbackPage.accesskey  "C">
 
-<!ENTITY updateCmd.label                "Lorg ùrachaidhean…">
-
 <!ENTITY preferencesCmdMac.label        "Roghainnean…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

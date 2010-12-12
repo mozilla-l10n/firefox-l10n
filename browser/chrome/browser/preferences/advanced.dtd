@@ -49,8 +49,8 @@
 <!ENTITY limitCacheSizeBefore.label      "Cuingich an tasgadan gu">
 <!ENTITY limitCacheSizeBefore.accesskey  "C">
 <!ENTITY limitCacheSizeAfter.label       "MB a dh'àite">
-<!ENTITY clearCacheNow.label             "Glan an-dràsta">
-<!ENTITY clearCacheNow.accesskey         "G">
+<!ENTITY clearCacheNow.label             "Falmhaich e an-dràsta">
+<!ENTITY clearCacheNow.accesskey         "c">
 <!ENTITY overrideSmartCacheSize.label    "Leig seachad stiùireadh fèin-obrachail an tasgadain">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 

@@ -62,7 +62,7 @@
 <!ENTITY addDevice.dialog.description.label "Gus an t-inneal ùr agad a chur thuige, rach gu roghainnean &syncBrand.shortName.label; air an inneal is tagh &#x0022;Dèan ceangal.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Cuir a-steach an còd a thug an t-inneal dhut:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Saoil am feuch thu ris a-rithist?">
-<!ENTITY addDevice.dialog.successful.label  "Chaidh an t-inneal a chur ris gu soirbheachail. Feumaidh a' chiad sioncronachadh grunn mhionaidean 's thig e gu crìoch leis fhèin sa chùlaibh.">
+<!ENTITY addDevice.dialog.successful.label  "Chaidh an t-inneal a chur ris gu soirbheachail. Feumaidh a' chiad sioncronachadh grunn mhionaidean 's thig e gu crìoch sa chùlaibh.">
 <!ENTITY addDevice.dialog.syncKey.label     "Tha agad ris an iuchair sioncronachaidh a chur a-steach gus an t-inneal agad a chur ris. Clò-bhuail an iuchair seo no sàbhail e 's thoirt leat e.">
 <!ENTITY addDevice.dialog.connected.label   "Tha an t-inneal air a cheangal ris">
 

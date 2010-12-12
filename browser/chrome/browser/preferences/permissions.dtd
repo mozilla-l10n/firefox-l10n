@@ -2,7 +2,7 @@
 <!ENTITY window.width                 "42em">
 
 <!ENTITY treehead.sitename.label      "Seòladh">
-<!ENTITY treehead.status.label        "Cor">
+<!ENTITY treehead.status.label        "Staid">
 <!ENTITY removepermission.label       "Thoir air falbh làrach">
 <!ENTITY removepermission.accesskey   "r">
 <!ENTITY removeallpermissions.label   "Thoir air falbh a h-uile làrach">
