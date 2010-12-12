@@ -37,9 +37,9 @@
 <!ENTITY MainWindow.title "Depurador de JavaScript">
 
 <!-- floating views -->
-<!ENTITY ViewFloat.tooltip      "Cliqueu ací per a fer aquesta vista flotable/no flotable">
+<!ENTITY ViewFloat.tooltip      "Cliqueu aquí per fer aquesta vista flotable/no flotable">
 <!ENTITY ViewGrippy.tooltip     "Arrossegueu la barra de títol per a moure aquesta vista">
-<!ENTITY ViewClose.tooltip      "Cliqueu ací per a tancar aquesta vista">
+<!ENTITY ViewClose.tooltip      "Cliqueu aquí per tancar aquesta vista">
 
 <!-- help menu -->
 <!ENTITY Help.commands     "Referència de les ordres">
@@ -67,7 +67,7 @@
 <!-- script view -->
 <!ENTITY Scripts.label         "Scripts carregats">
 <!ENTITY ScriptsSearch.label   "Cerca">
-<!ENTITY ScriptsSearch.tooltip "Cliqueu ací per a buidar el camp de cerca">
+<!ENTITY ScriptsSearch.tooltip "Cliqueu aquí per buidar el camp de cerca">
 <!ENTITY ScriptsCol0.header    "Nom">
 <!ENTITY ScriptsCol1.header    "Línia">
 <!ENTITY ScriptsCol2.header    "Longitud">

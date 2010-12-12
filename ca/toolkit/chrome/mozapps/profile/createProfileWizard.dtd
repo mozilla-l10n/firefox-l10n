@@ -11,7 +11,7 @@
 
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text "Si creeu diferents perfils, podeu distingir-los pel seu nom de perfil. Podeu utilitzar el nom que es proporciona ací o un de personalitzat.">
+<!ENTITY profileCreationIntro.text "Si creeu diferents perfils, podeu distingir-los pel seu nom de perfil. Podeu utilitzar el nom que es proporciona aquí o un de personalitzat.">
 <!ENTITY profilePrompt.label "Introduïu un nom per al nou perfil:">
 <!ENTITY profilePrompt.accesskey "e">
 <!ENTITY profileDirectoryExplanation.text "Els vostres paràmetres de configuració, preferències, adreces d'interès i correu s'emmagatzemaran a:">

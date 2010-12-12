@@ -146,7 +146,7 @@ ser temporal, i podeu provar-ho de nou més tard.</li>
 <!ENTITY sharedLongDesc "
 <ul>
   <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar
-    d'ací uns moments.</li>
+    d'aquí uns moments.</li>
   <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre
     ordinador.</li>
   <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafocs o per un servidor intermediari, assegureu-vos
@@ -169,7 +169,7 @@ ser temporal, i podeu provar-ho de nou més tard.</li>
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El &brandShortName; ha evitat que la pàgina es pugui carregar així perquè té un contingut que la política de seguretat no permet.</p>">
 
 <!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'ací!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the

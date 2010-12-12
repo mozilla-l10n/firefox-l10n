@@ -21,7 +21,7 @@
 <!ENTITY  incompatibleCheck.title         "S'està comprovant la compatibilitat dels complements">
 <!ENTITY  incompatibleCheck.label         "S'estan cercant versions més noves dels vostres complements…">
 
-<!ENTITY  clickHere.label                 "Feu clic ací per a més informació general quant a aquesta actualització">
+<!ENTITY  clickHere.label                 "Feu clic aquí per a més informació general d'aquesta actualització">
 
 <!ENTITY  evangelism.desc 	          "És molt recomanable que apliqueu aquesta actualització en el &brandShortName; tan aviat com sigui possible.">
 

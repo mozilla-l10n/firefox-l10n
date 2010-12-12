@@ -8,7 +8,7 @@
 <!ENTITY safeb.palm.message.p2.linkText "com el &brandShortName; us protegeix">
 <!ENTITY safeb.palm.message.p2.end " dels atacs de pesca electrònica.">
  
-<!ENTITY safeb.palm.accept.label "Treu-me d'ací!">
+<!ENTITY safeb.palm.accept.label "Treu-me d'aquí!">
 <!ENTITY safeb.palm.accept.statustext "Navega cap a la meva pàgina d'inici">
 <!ENTITY safeb.palm.decline.label "Ignora aquest avís">
 <!ENTITY safeb.palm.decline.statustext "Tanca aquest avís" >
