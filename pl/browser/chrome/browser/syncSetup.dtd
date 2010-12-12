@@ -57,12 +57,18 @@
 <!ENTITY addDevice.title.label              "Dodaj urządzenie">
 <!ENTITY addDevice.showMeHow.label          "Pokaż jak to zrobić">
 <!ENTITY addDevice.dontHaveDevice.label     "Nie mam tego urządzenia przy sobie">
-<!ENTITY addDevice.setup.description.label  "Aby aktywować, należy przejść do opcji &syncBrand.shortName.label; na innym urządzeniu i wybrać &#x0022;Dodaj urządzenie&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Następnie należy wprowadzić ten kod:">
+<!ENTITY addDevice.setup.description.label  "Aby aktywować, przejdź do opcji &syncBrand.shortName.label; na innym urządzeniu i wybierz &#x0022;Dodaj urządzenie&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Następnie wprowadź ten kod:">
+<!ENTITY addDevice.dialog.description.label "Aby aktywować nowe urządzenie, przejdź na nim do opcji  &syncBrand.shortName.label; i wybierz &#x0022;Połącz.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Wprowadź kod dostarczony przez to urządzenie:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Proszę spróbować ponownie.">
+<!ENTITY addDevice.dialog.successful.label  "Urządzenie zostało dodane. Początkowa synchronizacja może potrwać kilka minut i ukończy się w tle.">
+<!ENTITY addDevice.dialog.syncKey.label     "Aby aktywować urządzenie, potrzebujesz swojego klucza Sync. Wydrukuj go lub zapisz i zabierz ze sobą.">
+<!ENTITY addDevice.dialog.connected.label   "Urządzenie połączone">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Zaloguj">
-<!ENTITY existingSyncKey.description "Aby uzyskać kopię klucza Sync, należy przejść do opcji &syncBrand.shortName.label; na danym urządzeniu i wybrać &#x0022;Mój klucz Sync&#x0022; w sekcji &#x0022;Zarządzaj kontem&#x0022;.">
+<!ENTITY existingSyncKey.description "Aby uzyskać kopię klucza Sync, przejdź do opcji &syncBrand.shortName.label; na danym urządzeniu i wybierz &#x0022;Mój klucz Sync&#x0022; w sekcji &#x0022;Zarządzaj kontem&#x0022;.">
 <!ENTITY verifying.label              "Weryfikacja…">
 <!ENTITY resetPassword.label          "Resetuj hasło">
 <!ENTITY lostSyncKey.label            "Nie mogę znaleźć mojego klucza Sync">
