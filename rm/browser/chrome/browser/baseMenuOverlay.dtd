@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Trametter resun…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-<!ENTITY updateCmd.label                "Tschertgar actualisaziuns…">
-
 <!ENTITY preferencesCmdMac.label        "Preferenzas…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
