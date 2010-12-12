@@ -38,8 +38,8 @@
 
 <!-- Window title -->
 <!ENTITY siteUrl.label         "Website-URL:">
-<!ENTITY docSubdir.label       "Unterverzeichnis für die Seite:">
-<!ENTITY otherSubdir.label     "Unterverzeichnis für Grafiken:">
+<!ENTITY docSubdir.label       "Unterordner für die Seite:">
+<!ENTITY otherSubdir.label     "Unterordner für Grafiken:">
 
 <!ENTITY status.label          "Publizieren…">
 <!ENTITY fileList.label        "Publizieren-Status">
