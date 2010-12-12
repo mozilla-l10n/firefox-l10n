@@ -89,7 +89,7 @@
 <!ENTITY goHomeCmd.label "Домашняя страница">
 <!ENTITY goHomeCmd.accesskey "Д">
 <!ENTITY historyRestoreLastSession.label "Восстановить предыдущую сессию">
-<!ENTITY historyRestoreLastSessionCmd.accesskey "с">
+<!ENTITY historyRestoreLastSession.accesskey "с">
 <!ENTITY bookmarksMenu.label "Закладки">
 <!ENTITY bookmarksMenu.accesskey "З">
 <!ENTITY addCurPageCmd.label "Добавить в закладки">
