@@ -12,6 +12,7 @@
 <!ENTITY mySyncKey.label "Мой ключ синхронизации">
 <!ENTITY resetSync.label "Заменить или объединить данные Sync">
 <!ENTITY stopUsingAccount.label "Перестать использовать эту учётную запись">
+<!ENTITY addDevice.label "Добавить устройство">
 <!ENTITY syncPrefsCaption.label "Синхронизация браузера">
 <!ENTITY syncComputerName.label "Имя компьютера:">
 <!ENTITY syncComputerName.accesskey "м">
