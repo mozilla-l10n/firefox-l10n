@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "提交反馈…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY updateCmd.label                "检查更新…">
-
 <!ENTITY preferencesCmdMac.label        "首选项…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
