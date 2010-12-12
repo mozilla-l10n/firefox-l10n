@@ -17,8 +17,6 @@
 <!ENTITY serverType.custom2.label   "Użyj innego serwera…">
 <!ENTITY signIn.account2.label      "Konto">
 <!ENTITY signIn.account2.accesskey  "K">
-<!ENTITY signIn.account.label       "Adres e-mail / nazwa użytkownika">
-<!ENTITY signIn.account.accesskey   "A">
 <!ENTITY signIn.password.label      "Hasło">
 <!ENTITY signIn.password.accesskey  "H">
 <!ENTITY signIn.syncKey.label       "Klucz Sync">
@@ -55,6 +53,12 @@
 
 <!-- New Account Page 4: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Potwierdź, że nie jesteś robotem">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Dodaj urządzenie">
+<!ENTITY addDevice.showMeHow.label          "Pokaż jak to zrobić">
+<!ENTITY addDevice.dontHaveDevice.label     "Nie mam tego urządzenia przy sobie">
+<!ENTITY addDevice.setup.description.label  "Aby aktywować, należy przejść do opcji &syncBrand.shortName.label; na innym urządzeniu i wybrać &#x0022;Dodaj urządzenie&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Następnie należy wprowadzić ten kod:">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Zaloguj">
