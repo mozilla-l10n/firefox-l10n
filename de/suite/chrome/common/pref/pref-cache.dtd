@@ -9,7 +9,7 @@
 <!ENTITY diskCacheUpTo.label             "Bis zu">
 <!ENTITY diskCacheUpTo.accesskey         "B">
 <!ENTITY spaceMbytes                     "MB am Datenträger für den Cache verwenden.">
-<!ENTITY diskCacheFolder.label           "Cache-Verzeichnis:">
+<!ENTITY diskCacheFolder.label           "Cache-Ordner:">
 <!ENTITY clearDiskCache.label            "Cache löschen">
 <!ENTITY clearDiskCache.accesskey        "l">
 <!ENTITY chooseDiskCacheFolder.label     "Ordner wählen…">

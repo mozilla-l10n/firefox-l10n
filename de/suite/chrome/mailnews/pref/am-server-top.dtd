@@ -70,7 +70,7 @@
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY serverDefaultCharset.label "Standard-Zeichensatz:">
 <!ENTITY advancedButton.accesskey "E">
-<!ENTITY localFolderPicker.label "Lokales Verzeichnis wählen">
+<!ENTITY localFolderPicker.label "Lokalen Ordner wählen">
 <!ENTITY browseFolder.label "Durchsuchen…">
 <!ENTITY browseFolder.accesskey "D">
 <!ENTITY newsrcPicker.label "newsrc-Datei auswählen">

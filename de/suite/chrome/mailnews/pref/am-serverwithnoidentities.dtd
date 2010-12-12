@@ -6,6 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
 <!ENTITY emptyTrashOnExit.accesskey "P">
 <!ENTITY localPath.label "Lokaler Ordner:">
-<!ENTITY localFolderPicker.label "Lokales Verzeichnis wählen">
+<!ENTITY localFolderPicker.label "Lokalen Ordner wählen">
 <!ENTITY browseFolder.label "Durchsuchen…">
 <!ENTITY browseFolder.accesskey "D">
