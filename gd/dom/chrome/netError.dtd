@@ -29,7 +29,7 @@
 <!ENTITY netOffline.overrideLongDesc "<p>Tha am brabhsair agad sa mhodh far loidhne 's chan urrainn dha ceangal ris an rud a dh'iarr thu.</p><ul><li>A bheil an coimpiutair seo co-cheangailte ri lìonra beò?</li><li>Tòisich am modh air loidhne agus feuch ris a-rithist.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Mearachd le còdachadh na susbaint">
-<!ENTITY contentEncodingError.longDesc "<p>Cha ghabh an duilleag a tha thu airson faicinn a shealltainn a chionn 's gu bheil e a' cleachdadh co-bhrùthachadh mì-dhligheach no feadhainn nach eil taic ann dha.</p><ul><li>Leig fios gu muinntir na làraich mun duilgheadas seo.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Cha ghabh an duilleag a tha thu airson faicinn a shealltainn a chionn 's gu bheil e a' cleachdadh dùmhlachadh mì-dhligheach no feadhainn nach eil taic ann dha.</p><ul><li>Leig fios gu muinntir na làraich mun duilgheadas seo.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Faidhle de sheòrsa neo-thèarainte">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn?</li> </ul>">

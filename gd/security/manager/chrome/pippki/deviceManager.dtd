@@ -40,7 +40,7 @@
 <!ENTITY devmgr.devlist.label                   "Mòidealan is innealan tèarainteachd">
 <!ENTITY devmgr.details.title                   "Mion-fhiosrachadh">
 <!ENTITY devmgr.details.title2                  "Luach">
-<!ENTITY devmgr.status.label                    "Cor">
+<!ENTITY devmgr.status.label                    "Staid">
 <!ENTITY devmgr.version.label                   "Tionndadh">
 
 <!ENTITY devmgr.button.changeslotname.label     "Atharraich ainm an t-sliotain">
