@@ -55,6 +55,7 @@
 <!ENTITY lookIn.accesskey                    "S"> 
 <!ENTITY for.label                           "nach:"> 
 <!ENTITY for.accesskey                       "n"> 
+<!ENTITY for.placeholder                     "Name oder E-Mail">
 <!ENTITY addressMessageTo.label              "Nachricht adressieren an:"> 
 
 <!-- Tooltips items -->  

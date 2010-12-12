@@ -108,6 +108,8 @@
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY goHomeCmd.label "Startseite">
 <!ENTITY goHomeCmd.accesskey "a">
+<!ENTITY historyRestoreLastSession.label "Vorherige Sitzung wiederherstellen">
+<!ENTITY historyRestoreLastSessionCmd.accesskey "V">
 
 <!ENTITY bookmarksMenu.label "Lesezeichen">
 <!ENTITY bookmarksMenu.accesskey "L">
@@ -164,7 +166,7 @@
 <!ENTITY  statusText.label            "Fertig">
 
 <!ENTITY historyCmd.label           "Chronik">  
-<!ENTITY historyCmd.accesskey       "i">
+<!ENTITY historyCmd.accesskey       "C">
 <!ENTITY history.commandKey         "h">
 
 <!ENTITY popupIcon.tooltiptext      "Pop-ups von dieser Website nicht mehr blockieren">
