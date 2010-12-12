@@ -15,7 +15,7 @@
 <!ENTITY dnsNotFound.title "Adresa nije pronađena">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Provjerite greške pri pirsanju poput 
+  <li>Provjerite greške pri pisanju poput 
     <strong>ww</strong>.example.com umjesto
     <strong>www</strong>.example.com</li>
   <li>Ako ne možete pristupiti niti jednoj stranici, provjerite vezu između mreže i vašeg računala.</li>
