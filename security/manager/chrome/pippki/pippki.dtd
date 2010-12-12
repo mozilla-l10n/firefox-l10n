@@ -100,7 +100,7 @@
 <!ENTITY certPicker.detailsLabel "Detalls del certificat seleccionat:">
 
 <!ENTITY pkcs12.setpassword.title "Trieu una contrasenya per a la còpia de seguretat del certificat">
-<!ENTITY pkcs12.setpassword.message "La contrasenya per a la còpia de seguretat del certificat que definiu ací protegeix el fitxer de còpia de seguretat que ara creareu. Heu de definir-la per a seguir amb la còpia de seguretat.">
+<!ENTITY pkcs12.setpassword.message "La contrasenya per a la còpia de seguretat del certificat que definiu aquí protegeix el fitxer de còpia de seguretat que ara creareu. Heu de definir-la per a seguir amb la còpia de seguretat.">
 <!ENTITY pkcs12.setpassword.label1 "Contrasenya de la còpia de seguretat del certificat:">
 <!ENTITY pkcs12.setpassword.label2 "Contrasenya de la còpia de seguretat del certificat (un altre cop):">
 <!ENTITY pkcs12.setpassword.reminder "Important: si oblideu la contrasenya de la còpia de seguretat del certificat no podreu recuperar-la més endavant. Si us plau, deseu-la en un lloc segur.">
