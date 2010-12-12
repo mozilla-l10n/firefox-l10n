@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Prześlij swoją opinię…">
 <!ENTITY helpFeedbackPage.accesskey  "e">
 
-<!ENTITY updateCmd.label                "Sprawdź dostępność aktualizacji…">
-
 <!ENTITY preferencesCmdMac.label        "Preferencje…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
