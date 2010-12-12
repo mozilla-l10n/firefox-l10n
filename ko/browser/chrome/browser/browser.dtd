@@ -63,7 +63,7 @@
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "북마크에 추가">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY showAllBookmarks.label "북마크 모두 보기…">
+<!ENTITY showAllBookmarks2.label "북마크 모두 보기…">
 <!ENTITY bookmarkAllCmd.label "모든 탭을 북마크에 추가…">
 <!ENTITY bookmarksToolbarChevron.tooltip "북마크 계속 보기">
 
@@ -156,8 +156,8 @@
 <!ENTITY selectAllCmd.label "모두 선택">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY preferencesCmd.label "설정…">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmd2.label "설정…">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "환경 설정">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
@@ -493,3 +493,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "동기화하기">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "동기화">
+
+<!ENTITY addonBarCloseButton.tooltip  "부가 기능 모음 닫기">

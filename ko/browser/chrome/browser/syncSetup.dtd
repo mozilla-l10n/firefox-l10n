@@ -3,7 +3,8 @@
 <!-- First page of the wizard -->
 <!ENTITY setup.pickSetupType.description "환영합니다. &syncBrand.fullName.label;를 처음 이용하시면, 계정을 먼저 만드십시오.">
 <!ENTITY button.createNewAccount.label "새 계정 만들기">
-<!ENTITY button.haveAccount.label "기존 &syncBrand.fullName.label; 계정 사용">
+<!ENTITY setup.haveAccount.label "이미 &syncBrand.fullName.label; 계정이 있습니다.">
+<!ENTITY button.connect.label    "연결하기">
 
 <!ENTITY setup.choicePage.title.label     "&syncBrand.fullName.label; 사용해 보신 적이 있으십니까?">
 <!ENTITY setup.choicePage.new.label       "&syncBrand.shortName.label; 처음 사용합니다.">
@@ -12,13 +13,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "서버">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; 서버">
-<!ENTITY serverType.custom.label    "별도 서버 설정">
-<!ENTITY signIn.account.label       "메일 주소/ 사용자명">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label    "별도 서버 설정…">
+<!ENTITY signIn.account2.label       "계정명">
+<!ENTITY signIn.account2.accesskey   "A">
 <!ENTITY signIn.password.label      "암호">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "서버 주소(URL)">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "동기화키">
+<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "계정 상세 정보">
@@ -39,13 +40,11 @@
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; 개인 정보 보호">
-<!ENTITY setup.newSyncKeyPage.description.label "개인 정보를 완벽히 보호하기 위해 데이터 전송 전 암호화 됩니다. 암호된 자료를 풀기 위한 동기화 암호는 전송되지 않습니다.">
-<!ENTITY syncKeyEntry.label        "동기화 암호">
+<!ENTITY setup.newSyncKeyPage.description.label "개인 정보를 완벽히 보호하기 위해 데이터 전송 전 암호화 됩니다. 암호된 자료를 풀기 위한 동기화키는 전송되지 않습니다.">
+<!ENTITY syncKeyEntry.label        "동기화키">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "생성하기">
-<!ENTITY syncKeyStrength.label     "강도:">
-<!ENTITY syncKeyHelp.label         "암호 강도의 의미는 무엇입니까?">
-<!ENTITY syncKeyBackup.description "동기화 암호는 다른 기기에서 &syncBrand.fullName.label; 접속 시 필요합니다. 백업본을 만드시기 바랍니다. 동기화 암호는 복구할 수 없습니다.">
+<!ENTITY syncKeyBackup.description "동기화키는 다른 기기에서 &syncBrand.fullName.label; 접속 시 필요합니다. 백업본을 만드시기 바랍니다. 동기화키는 복구할 수 없습니다.">
 
 <!ENTITY button.syncKeyBackup.print.label     "인쇄…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -54,21 +53,28 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "그림 속 글자 입력">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "새 기기 추가">
+<!ENTITY addDevice.showMeHow.label          "사용 방법">
+<!ENTITY addDevice.dontHaveDevice.label     "추가할 기기가 없음">
+<!ENTITY addDevice.setup.description.label  "활성화 하려면 다른 기기에서 &syncBrand.shortName.label; 설정의 &#x0022;새 기기 추가&#x0022;를 선택하세요.">
+<!ENTITY addDevice.setup.enterCode.label    "그리고 아래 코드를 입력하세요:">
+<!ENTITY addDevice.dialog.description.label "새 기기를 활성화 하려면 다른 기기의 &syncBrand.shortName.label; 설정에서 &#x0022;연결하기&#x0022;를 선택하세요.">
+<!ENTITY addDevice.dialog.enterCode.label   "기기가 제공하는 코드를 입력하세요:">
+<!ENTITY addDevice.dialog.tryAgain.label    "다시 시도해 주십시오.">
+<!ENTITY addDevice.dialog.successful.label  "새로운 기기를 추가하였습니다. 초기 동기화 시 수 분 정도 소요되지만 배경 작업으로 진행될 것입니다.">
+<!ENTITY addDevice.dialog.syncKey.label     "여러분의 기기를 활성화 시키려면 동기화키를 입력해야 합니다. 아래 키를 저장하거나 어디에 기록해 두시기 바랍니다.">
+<!ENTITY addDevice.dialog.connected.label   "새 기기 연결함">
 
 <!-- New Account Page 3: Sync Type Options -->
 <!ENTITY syncComputerName.label       "컴퓨터 이름:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "계정 정보 입력">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "로그인">
+<!ENTITY existingSyncKey.description "다른 기기에서 &syncBrand.shortName.label; 설정에서 &#x0022;계정 관리&#x0022; 내 &#x0022;나의 동기화키&#x0022;에서 동기화키를 찾을 수 있습니다.">
+<!ENTITY lostSyncKey.label            "동기화키 분실">
 <!ENTITY resetPassword.label          "암호 재설정">
-<!ENTITY connecting.label             "연결 하는 중…">
-
-<!-- Existing Account Page 2: Passphrase -->
-<!ENTITY setup.existingSyncKeyPage.title "동기화 암호 입력">
-<!ENTITY setup.existingSyncKeyPage.description "동기화 키는 &syncBrand.fullName.label; 계정 생성 시 자동 생성 혹은 직접 입력한 것입니다. 입력한 암호와 같지 않습니다.">
-<!ENTITY existingSyncKeyHelp.description "저장된 동기화 암호는 암호를 통해 다른 기기로  보호되어 전송합니다. 다른 동기화 암호를 원하시면 재설정하실 수 있습니다만 데이터는 복구할 수 없습니다.">
-<!ENTITY lostSyncKey.label            "동기화 암호 분실">
 <!ENTITY verifying.label              "확인 중…">
 
 <!-- Sync Options -->
