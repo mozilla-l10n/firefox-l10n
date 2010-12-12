@@ -58,6 +58,12 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Ik heb het apparaat niet bij me">
 <!ENTITY addDevice.setup.description.label  "Om te activeren, ga naar &syncBrand.shortName.label; Opties op uw andere apparaat en selecteer &#x0022;Apparaat toevoegen&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Voer vervolgens deze code in:">
+<!ENTITY addDevice.dialog.description.label "Om uw nieuwe apparaat te activeren, ga naar &syncBrand.shortName.label; Opties op het apparaat en selecteer &#x0022;Verbinden.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Voer de code in dat het apparaat geeft:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Opnieuw proberen.">
+<!ENTITY addDevice.dialog.successful.label  "Het apparaat is met succes toegevoegd. De eerste synchronisatie kan meerdere minuten duren en gebeurt op de achtergrond.">
+<!ENTITY addDevice.dialog.syncKey.label     "Om uw apparaat te activeren moet u uw sync-sleutel invoeren. Druk uw sync-sleutel af of sla het op om het met u mee te nemen.">
+<!ENTITY addDevice.dialog.connected.label   "Apparaat verbonden">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Aanmelden">
