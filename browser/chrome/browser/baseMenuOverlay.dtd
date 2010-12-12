@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Надіслати відгук…">
 <!ENTITY helpFeedbackPage.accesskey  "Н">
 
-<!ENTITY updateCmd.label                "Перевірити наявність оновлень…">
-
 <!ENTITY preferencesCmdMac.label        "Налаштування…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
