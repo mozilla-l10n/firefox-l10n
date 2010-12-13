@@ -47,6 +47,6 @@
 
 <!ENTITY            availableProfiles.label "Verfügbare Profile">
 
-<!ENTITY            introStart.label         "Um Ihr persönliches Profil zu verwenden, das gespeicherte Nachrichten, Einstellungen und andere persönliche Informationen enthält, wählen Sie bitte dieses Profil aus der Liste und klicken Sie &select.label;, um Ihre Sitzung zu beginnen.">
+<!ENTITY            introStart.label         "Um Ihr persönliches Profil zu verwenden, das gespeicherte Nachrichten, Einstellungen und andere persönliche Informationen enthält, wählen Sie bitte dieses Profil aus der Liste und klicken Sie &start.label;, um Ihre Sitzung zu beginnen.">
 <!ENTITY            introSwitch.label        "Um zu einem anderen Profil zu wechseln, das gespeicherte Nachrichten, Einstellungen und andere persönliche Informationen enthält, wählen Sie bitte dieses Profil aus der Liste und klicken Sie &select.label;, um es zu verwenden.">
 <!ENTITY            profileManagerText.label "&brandShortName; speichert Informationen über Ihre Einstellungen, Lesezeichen, gespeicherte Nachrichten und andere Benutzereinträge in Ihrem Benutzerprofil.">
