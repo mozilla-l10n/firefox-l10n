@@ -6,7 +6,7 @@
 <!ENTITY sync.synchronize "Включить синхронизацию">
 <!ENTITY sync.deviceName "Это устройство">
 <!ENTITY sync.disconnect "Разъединиться">
-<!ENTITY sync.syncNow "Синхронизировать сейчас">
+<!ENTITY sync.syncNow "Синхронизировать">
 <!ENTITY sync.setup.title "Соединение с Sync">
 <!ENTITY sync.setup.jpake "На компьютере, соединённым с Firefox Sync, перейдите в настройки синхронизации и выберите «Добавить устройство»">
 <!ENTITY sync.fallback "Я не рядом с моим компьютером…">

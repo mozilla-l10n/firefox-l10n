@@ -412,7 +412,7 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Настроить &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "с">
-<!ENTITY syncSyncNowItem.label "Синхронизировать сейчас">
+<!ENTITY syncSyncNowItem.label "Синхронизировать">
 <!ENTITY syncSyncNowItem.accesskey "х">
 <!ENTITY syncToolbarButton.label "Синхронизация">
 <!ENTITY addonBarCloseButton.tooltip "Закрыть панель дополнений">
