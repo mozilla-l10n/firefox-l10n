@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Bidali iritzia…">
 <!ENTITY helpFeedbackPage.accesskey  "d">
 
-<!ENTITY updateCmd.label                "Bilatu eguneraketak…">
-
 <!ENTITY preferencesCmdMac.label        "Hobespenak…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

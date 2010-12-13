@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Ongi etorri, ez baduzu &syncBrand.fullName.label; aurretik erabili, kontu berria sortu beharko duzu.">
 <!ENTITY button.createNewAccount.label "Sortu kontu berria">
-<!ENTITY button.haveAccount.label "Badaukat &syncBrand.fullName.label; kontua">
+<!ENTITY setup.haveAccount.label "Badaukat &syncBrand.fullName.label; kontua dagoeneko.">
+<!ENTITY button.connect.label    "Konektatu">
 
 <!ENTITY setup.choicePage.title.label     "&syncBrand.fullName.label; aurretik erabili duzu?">
 <!ENTITY setup.choicePage.new.label       "Ez dut inoiz &syncBrand.shortName.label; erabili">
@@ -13,13 +14,13 @@
 
 <!ENTITY server.label               "Zerbitzaria">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; zerbitzaria">
-<!ENTITY serverType.custom.label    "Erabili zerbitzari pertsonalizatua">
-<!ENTITY signIn.account.label       "Helbide elektronikoa / Erabiltzaile-izena">
-<!ENTITY signIn.account.accesskey   "H">
+<!ENTITY serverType.custom2.label   "Erabili zerbitzari pertsonalizatua…">
+<!ENTITY signIn.account2.label      "Kontua">
+<!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Pasahitza">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Zerbitzariaren URLa">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "Sync gakoa">
+<!ENTITY signIn.syncKey.accesskey   "k">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontuaren xehetasunak">
@@ -52,18 +53,25 @@
 <!-- New Account Page 3: Captcha -->
 
 <!ENTITY setup.captchaPage2.title.label     "Berretsi ez zarela robota">
-<!-- Existing Account Page 1: Login -->
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Gehitu gailua">
+<!ENTITY addDevice.showMeHow.label          "Erakutsi nola.">
+<!ENTITY addDevice.dontHaveDevice.label     "Ez daukat gailua nirekin">
+<!ENTITY addDevice.setup.description.label  "Aktibatzeko, zoaz &syncBrand.shortName.label;(r)en aukeretara zure beste gailuan eta hautatu &#x0022;Gehitu gailua&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Ondoren, idatzi kode hau:">
+<!ENTITY addDevice.dialog.description.label "Zure gailu berria aktibatzeko, zoaz gailuan &syncBrand.shortName.label;(r)en aukeretara eta hautatu &#x0022;Konektatu.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Idatzi gailuak emandako kodea:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Saiatu berriro mesedez.">
+<!ENTITY addDevice.dialog.successful.label  "Gailua ondo gehitu da. Hasierako sinkronizazioak hainbat minutu har ditzake eta atzeko planoan burutuko da.">
+<!ENTITY addDevice.dialog.syncKey.label     "Gailua aktibatzeko zure Sync gakoa idatzi behar duzu. Inprimatu edo gorde gako hau eta eraman ezazu zurekin.">
+<!ENTITY addDevice.dialog.connected.label   "Gailua konektatuta">
+<!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.existingAccount.title.label "Sartu kontuaren informazioa">
-<!ENTITY resetPassword.label          "Berrezarri pasahitza">
-<!ENTITY connecting.label             "Konektatzen…">
-<!-- Existing Account Page 2: Sync Key -->
-
-<!ENTITY setup.existingSyncKeyPage.title "Sartu zure Sync gakoa">
-<!ENTITY setup.existingSyncKeyPage.description "Sync gakoa zuretzako sortu zen edo zure propioa sartu zenuen lehenengoz &syncBrand.fullName.label; zerbitzuan izen ematean. Ez da zure pasahitzaren berdina.">
-<!ENTITY existingSyncKeyHelp.description "Sync gakoa zure beste ordenagailuan topa dezakezu, 'Segurtasuna' fitxan 'Gordetako pasahitzak' atalean. Oraindik ere ezin baduzu Sync gako zuzena eskuratu, berrezartzea aukera dezakezu baina zerbitzarian gordetako datuak galduko dituzu.">
-<!ENTITY lostSyncKey.label            "Nire Sync gakoa galdu dut">
+<!ENTITY setup.signInPage.title.label "Hasi saioa">
+<!ENTITY existingSyncKey.description "Zure Sync gakoaren kopia bat lor dezakezu zure beste gailuan &syncBrand.shortName.label;(r)en aukeratara joz eta &#x0022;Nire Sync gakoa&#x0022; aukeratuz &#x0022;Kudeatu kontua&#x0022; atalean.">
 <!ENTITY verifying.label              "Egiaztatzen…">
+<!ENTITY resetPassword.label          "Berrezarri pasahitza">
+<!ENTITY lostSyncKey.label            "Nire Sync gakoa galdu dut">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Sync aukerak">
