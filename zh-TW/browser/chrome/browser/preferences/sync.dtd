@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "我的同步金鑰">
 <!ENTITY resetSync.label              "重設同步">
 <!ENTITY stopUsingAccount.label       "停用此帳號">
+<!ENTITY addDevice.label              "新增裝置">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "瀏覽器同步">
