@@ -108,6 +108,8 @@
 <!ENTITY goMenu.accesskey "g">
 <!ENTITY goHomeCmd.label "主页">
 <!ENTITY goHomeCmd.accesskey "h">
+<!ENTITY historyRestoreLastSession.label "恢复上一次会话">
+<!ENTITY historyRestoreLastSessionCmd.accesskey "R">
 
 <!ENTITY bookmarksMenu.label "书签">
 <!ENTITY bookmarksMenu.accesskey "B">

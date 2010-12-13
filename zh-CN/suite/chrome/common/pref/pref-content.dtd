@@ -11,5 +11,9 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 <!ENTITY useSmoothScroll.label                  "使用平滑滚动">
 <!ENTITY useSmoothScroll.accesskey              "U">
+<!ENTITY allowHWAccel.label                     "当可用时使用硬件加速">
+<!ENTITY allowHWAccel.accesskey                 "e">
 <!ENTITY textZoomOnly.label                     "仅放大文本而不是放大整个页面">
 <!ENTITY textZoomOnly.accesskey                 "Z">
+<!ENTITY blockAutoRefresh.label                 "当网站尝试重定向或者重新载入页面时发出警告">
+<!ENTITY blockAutoRefresh.accesskey             "W">

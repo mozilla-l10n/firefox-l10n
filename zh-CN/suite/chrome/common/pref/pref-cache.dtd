@@ -4,24 +4,23 @@
 <!ENTITY pref.cache.title                "高速缓存">
 <!ENTITY pref.cache.caption              "设置缓存选项">
 <!ENTITY cachePara                       "缓存将经常访问的网页副本保存在你的硬盘上。（点击 重新载入 总会显示网页的最新版本。）">
-<!ENTITY diskCache.label                 "大小:">
-<!ENTITY diskCache.accesskey             "S">
-<!ENTITY mbytes                          "MB">
+<!ENTITY cacheCheck.label                "让 &brandShortName; 管理我的缓存大小。">
+<!ENTITY cacheCheck.accesskey            "L">
+<!ENTITY diskCacheUpTo.label             "最多使用">
+<!ENTITY diskCacheUpTo.accesskey         "U">
+<!ENTITY spaceMbytes                     "缓存可以使用的磁盘空间（MB）。">
 <!ENTITY diskCacheFolder.label           "缓存文件夹位置：">
 <!ENTITY clearDiskCache.label            "清空缓存">
 <!ENTITY clearDiskCache.accesskey        "C">
 <!ENTITY chooseDiskCacheFolder.label     "选择文件夹…">
 <!ENTITY chooseDiskCacheFolder.accesskey "F">
 <!ENTITY diskCacheFolderExplanation      "缓存文件将存储在你指定路径的一个名为 &quot;Cache&quot; 的子文件夹中。重新启动 &brandShortName; 后更改才会生效。">
-<!ENTITY docCache                        "缓存中的页面和网络上的页面进行比较:">
-<!ENTITY oncePsessionRadio.label         "每个会话一次">
-<!ENTITY oncePsessionRadio.accesskey     "O">
-<!ENTITY everyTimeRadio.label            "每次查看该页面时">
-<!ENTITY everyTimeRadio.accesskey        "E">
-<!ENTITY neverRadio.label                "从不">
-<!ENTITY neverRadio.accesskey            "N">
-<!ENTITY autoRadio.label                 "当页面过期时">
-<!ENTITY autoRadio.accesskey             "W">
+<!ENTITY docCache.label                  "缓存中的页面和网络上的页面进行比较:">
+<!ENTITY docCache.accesskey              "m">
+<!ENTITY checkOncePerSession.label       "每个会话一次">
+<!ENTITY checkEveryTime.label            "每次查看该页面时">
+<!ENTITY checkNever.label                "从不">
+<!ENTITY checkAutomatically.label        "当页面过期时">
 
 <!ENTITY prefetchTitle.label             "链接预读数">
 <!ENTITY enablePrefetch.label            "在空闲时进行web的预读,这样web页面中为预读而设计的链接可以更快的加载">

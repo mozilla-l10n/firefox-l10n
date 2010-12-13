@@ -63,3 +63,7 @@
 <!ENTITY sidebar.close.tooltip       "关闭侧栏">
 <!ENTITY sidebar.open.tooltip        "打开侧栏">
 
+<!ENTITY sidebar.search.label         "搜索">
+<!ENTITY sidebar.client-bookmarks.label     "书签">
+<!ENTITY sidebar.client-history.label       "历史记录">
+<!ENTITY sidebar.client-addressbook.label   "通讯录">
