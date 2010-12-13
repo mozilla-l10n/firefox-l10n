@@ -55,7 +55,7 @@
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Afegeix un dispositiu">
 <!ENTITY addDevice.showMeHow.label          "Mostra'm com.">
-<!ENTITY addDevice.dontHaveDevice.label     "No tinc cap dispositiu amb mo">
+<!ENTITY addDevice.dontHaveDevice.label     "No tinc cap dispositiu amb mi">
 <!ENTITY addDevice.setup.description.label  "Per activar-lo, aneu a les opcions del &syncBrand.shortName.label; a l'altre dispositiu i seleccioneu «Afegeix un dispositiu».">
 <!ENTITY addDevice.setup.enterCode.label    "A continuació, introduïu aquest codi:">
 <!ENTITY addDevice.dialog.description.label "Per activar el nou dispositiu, aneu a les opcions del &syncBrand.shortName.label; del dispositiu i seleccioneu «Connecta».">
