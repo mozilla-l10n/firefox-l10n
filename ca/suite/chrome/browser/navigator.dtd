@@ -108,6 +108,8 @@
 <!ENTITY goMenu.accesskey "s">
 <!ENTITY goHomeCmd.label "Inici">
 <!ENTITY goHomeCmd.accesskey "n">
+<!ENTITY historyRestoreLastSession.label "Restaura la sessió anterior">
+<!ENTITY historyRestoreLastSession.accesskey "R">
 
 <!ENTITY bookmarksMenu.label "Adreces d'interès">
 <!ENTITY bookmarksMenu.accesskey "r">
