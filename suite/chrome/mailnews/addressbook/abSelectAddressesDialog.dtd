@@ -55,6 +55,7 @@
 <!ENTITY lookIn.accesskey                    "L"> 
 <!ENTITY for.label                           "寄件人:"> 
 <!ENTITY for.accesskey                       "f"> 
+<!ENTITY for.placeholder                     "名称或者电子邮件">
 <!ENTITY addressMessageTo.label              "地址信息:"> 
 
 <!-- Tooltips items -->  
