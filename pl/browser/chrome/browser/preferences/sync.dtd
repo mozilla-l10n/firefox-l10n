@@ -20,6 +20,7 @@
 <!ENTITY mySyncKey.label              "Mój klucz Sync">
 <!ENTITY resetSync.label              "Resetuj synchronizację">
 <!ENTITY stopUsingAccount.label       "Przestań używać tego konta">
+<!ENTITY addDevice.label              "Dodaj urządzenie">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Synchronizacja przeglądarki">
