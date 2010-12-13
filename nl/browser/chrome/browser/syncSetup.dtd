@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Welkom, als u &syncBrand.fullName.label; niet eerder heeft gebruikt moet u een account aanmaken.">
 <!ENTITY button.createNewAccount.label "Nieuw account aanmaken">
-<!ENTITY button.haveAccount.label "Ik heb een &syncBrand.fullName.label;-account">
+<!ENTITY setup.haveAccount.label "Ik heb al een &syncBrand.fullName.label;-account.">
+<!ENTITY button.connect.label    "Verbinden">
 
 <!ENTITY setup.choicePage.title.label     "Hebt u &syncBrand.fullName.label; eerder gebruikt?">
 <!ENTITY setup.choicePage.new.label       "Ik heb &syncBrand.shortName.label; nooit eerder gebruikt">
