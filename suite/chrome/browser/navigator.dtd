@@ -108,6 +108,8 @@
 <!ENTITY goMenu.accesskey "l">
 <!ENTITY goHomeCmd.label "Accueil">
 <!ENTITY goHomeCmd.accesskey "A">
+<!ENTITY historyRestoreLastSession.label "Restaurer la session précédente">
+<!ENTITY historyRestoreLastSessionCmd.accesskey "R">
 
 <!ENTITY bookmarksMenu.label "Marque-pages">
 <!ENTITY bookmarksMenu.accesskey "M">
