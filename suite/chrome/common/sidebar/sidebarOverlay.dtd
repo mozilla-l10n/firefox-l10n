@@ -66,3 +66,7 @@
 <!ENTITY sidebar.close.tooltip "Tanca la barra lateral">
 <!ENTITY sidebar.open.tooltip "Obre la Barra lateral">
 
+<!ENTITY sidebar.search.label         "Cerca">
+<!ENTITY sidebar.client-bookmarks.label     "Adreces d'interès">
+<!ENTITY sidebar.client-history.label       "Historial">
+<!ENTITY sidebar.client-addressbook.label   "Llibreta d'adreces">

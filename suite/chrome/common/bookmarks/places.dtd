@@ -74,8 +74,11 @@
 <!ENTITY col.description.label "Descripció">
 <!ENTITY col.dateadded.label "Addició">
 <!ENTITY col.lastmodified.label "Darrera modificació">
+
 <!ENTITY search.label "Cerca:">
-<!ENTITY search.accesskey "r">
+<!ENTITY search.placeholder                        "Cerca a les adreces d'interès">
+
+<!ENTITY search.in.label                           "Cerca a:">
 <!ENTITY search.scopeFolder.label                  "Carpeta seleccionada">
 <!ENTITY search.scopeFolder.accesskey              "p">
 <!ENTITY search.scopeBookmarks.label               "Adreces d'interès">
