@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Mia clav da Sync">
 <!ENTITY resetSync.label              "Redefinir Sync">
 <!ENTITY stopUsingAccount.label       "Chalar dad utilisar quest conto">
+<!ENTITY addDevice.label              "Agiuntar in apparat">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sincronisaziun dal navigatur">
