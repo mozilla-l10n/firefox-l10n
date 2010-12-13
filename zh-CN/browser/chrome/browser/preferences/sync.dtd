@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "我的同步密钥">
 <!ENTITY resetSync.label              "重置同步">
 <!ENTITY stopUsingAccount.label       "停止使用此账户">
+<!ENTITY addDevice.label              "添加设备">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "浏览器同步">
