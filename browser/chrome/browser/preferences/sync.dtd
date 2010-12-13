@@ -12,6 +12,7 @@
 <!ENTITY mySyncKey.label "Chiave Sync">
 <!ENTITY resetSync.label "Ripristina la sincronizzazione">
 <!ENTITY stopUsingAccount.label "Non utilizzare più questo account">
+<!ENTITY addDevice.label "Aggiungi un dispositivo">
 <!ENTITY syncPrefsCaption.label "Sincronizzazione del browser">
 <!ENTITY syncComputerName.label "Nome del computer:">
 <!ENTITY syncComputerName.accesskey "u">
