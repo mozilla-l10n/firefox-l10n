@@ -46,9 +46,9 @@
 <!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
 
-<!ENTITY event.new.todo                         "新任务…">
-<!ENTITY event.new.todo.key                     "T">
-<!ENTITY event.new.todo.accesskey               "T">
+<!ENTITY event.new.task                         "新建任务…">
+<!ENTITY event.new.task.key                     "K">
+<!ENTITY event.new.task.accesskey               "k">
 
 <!ENTITY calendar.new.server.label              "新日历…">
 <!ENTITY calendar.new.server.key                "L">
