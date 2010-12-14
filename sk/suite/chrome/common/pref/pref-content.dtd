@@ -11,5 +11,9 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "M">
 <!ENTITY useSmoothScroll.label                  "Použiť plynulé posúvanie">
 <!ENTITY useSmoothScroll.accesskey              "o">
+<!ENTITY allowHWAccel.label                     "Použiť hardvérové urýchľovanie (ak je dostupné)">
+<!ENTITY allowHWAccel.accesskey                 "h">
 <!ENTITY textZoomOnly.label                     "Meniť veľkosť textu namiesto celého obsahu stránok">
 <!ENTITY textZoomOnly.accesskey                 "e">
+<!ENTITY blockAutoRefresh.label                 "Upozorniť, ak sa webová stránka pokúša o presmerovanie alebo obnovenie">
+<!ENTITY blockAutoRefresh.accesskey             "U">

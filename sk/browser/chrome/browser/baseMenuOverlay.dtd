@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Odoslať svoj názor…">
 <!ENTITY helpFeedbackPage.accesskey  "d">
 
-<!ENTITY updateCmd.label                "Kontrola aktualizácií…">
-
 <!ENTITY preferencesCmdMac.label        "Možnosti…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

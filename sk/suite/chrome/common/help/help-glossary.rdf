@@ -81,6 +81,7 @@
         <rdf:li> <rdf:Description nc:name="Pomocná aplikácia" nc:link="glossary.xhtml#helper_application"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Pomôcka" nc:link="glossary.xhtml#tooltip"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="POP" nc:link="glossary.xhtml#pop"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="Prehliadanie s kurzorom" nc:link="glossary.xhtml#caret_browsing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Príznačný názov (PN)" nc:link="glossary.xhtml#distinguished_name"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Proxy" nc:link="glossary.xhtml#proxy"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Rámec" nc:link="glossary.xhtml#frame"/> </rdf:li>
