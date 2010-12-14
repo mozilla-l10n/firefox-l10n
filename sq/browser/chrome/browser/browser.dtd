@@ -167,8 +167,8 @@
 <!ENTITY selectAllCmd.label         "Përzgjidhe Krejt">  
 <!ENTITY selectAllCmd.key         "j">  
 <!ENTITY selectAllCmd.accesskey       "P"> 
-<!ENTITY preferencesCmd.label       "Mundësi…">
-<!ENTITY preferencesCmd.accesskey     "M"> 
+<!ENTITY preferencesCmd2.label       "Mundësi">
+<!ENTITY preferencesCmd2.accesskey     "M"> 
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey     "q"> 
 
@@ -531,10 +531,12 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
 <!ENTITY  moveToNewWindow.accesskey          "K">
 
-<!ENTITY showAllBookmarks.label "Shfaqni Krejt Faqerojtësit…">
+<!ENTITY showAllBookmarks2.label "Shfaqni Krejt Faqerojtësit">
 
 <!ENTITY zoomOutButton.tooltip          "Zmadhojeni">
 <!ENTITY zoomInButton.tooltip           "Zvogëlojeni">
 <!ENTITY zoomControls.label             "Kontrolle Ripërmasimi">
 
 <!ENTITY syncToolbarButton.label      "Njëkohëso">
+
+<!ENTITY addonBarCloseButton.tooltip  "Mbylle Shtyllën e Shtesave">

@@ -19,7 +19,6 @@
 
 <!ENTITY helpReleaseNotes.label         "Shënime Versioni">
 <!ENTITY helpReleaseNotes.accesskey     "V">
-<!ENTITY updateCmd.label                "Kontrollo për Përditësime…">
 
 <!ENTITY preferencesCmdMac.label        "Parapëlqime…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

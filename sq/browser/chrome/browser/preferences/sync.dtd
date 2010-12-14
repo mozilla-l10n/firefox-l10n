@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Kyçi Im për Sync-un">
 <!ENTITY resetSync.label              "Rikthe Sync-un te Parazgjedhjet">
 <!ENTITY stopUsingAccount.label       "Ndërprisni Përdorimin e Kësaj Llogarie">
+<!ENTITY addDevice.label              "Shtoni një Pajisje">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Njëkohësim Shfletuesi">

@@ -44,6 +44,7 @@
 
 <!ENTITY event.title.label                  "Përpunoni Objektin" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip  "">
 
 <!ENTITY newevent.from.label                "Nga" >
 <!ENTITY newevent.to.label                  "Për" >

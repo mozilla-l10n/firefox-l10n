@@ -13,13 +13,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Shërbyes">
 <!ENTITY serverType.main.label      "Shërbyes &syncBrand.fullName.label;-u">
-<!ENTITY serverType.custom.label    "Përdor një shërbyes vetjak">
-<!ENTITY signIn.account.label       "Email / Emër Përdoruesi">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "Përdorni një shërbyes vetjak…">
+<!ENTITY signIn.account2.label      "Llogari">
+<!ENTITY signIn.account2.accesskey  "L">
 <!ENTITY signIn.password.label      "Fjalëkalim">
 <!ENTITY signIn.password.accesskey  "F">
-<!ENTITY signIn.serverURL.label     "URL Shërbyesi">
-<!ENTITY signIn.serverURL.accesskey "U">
+<!ENTITY signIn.syncKey.label       "Kyç Sync-u">
+<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Hollësi Llogarie">
@@ -43,10 +43,7 @@
 <!ENTITY syncKeyEntry.label        "Kyçi Juaj për Sync-un">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Prodhoje">
-<!ENTITY syncKeyStrength.label     "Fortësi:">
-<!ENTITY syncKeyHelp.label         "Çfarë do të thotë fortësi?">
 <!ENTITY syncKeyBackup.description "Kyçi Juaj për Sync-un nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutem, bëjini një kopje kopjeruajtjeje. Nuk ju ndihmojmë dot për të rigjetur Kyçin tuaj për Sync-un.">
-
 
 <!ENTITY button.syncKeyBackup.print.label     "Shtypeni…">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
@@ -55,18 +52,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Ju lutemi, Ripohoni Që Nuk Jeni Robot">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Shtoni një Pajisje">
+<!ENTITY addDevice.showMeHow.label          "Tregomë se si.">
+<!ENTITY addDevice.dontHaveDevice.label     "Nuk e kam me vete pajisjem">
+<!ENTITY addDevice.setup.description.label  "Për ta aktivizuar, shkoni teMundësi &syncBrand.shortName.label;-u te pajisja juaj tjetër dhe përzgjidhni &#x0022;Shtoni Pajisje&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Mandej, jepni këtë kod:">
+<!ENTITY addDevice.dialog.description.label "Për të aktivizuar pajisjen e re, shkoni te Mundësi &syncBrand.shortName.label;-u te pajisja dhe përzgjidhni &#x0022;Lidhu.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Jepni kodin që tregon pajisja:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Ju lutem, riprovoni.">
+<!ENTITY addDevice.dialog.successful.label  "Pajisja u shtua me sukses. Njëkohësimi fillestar mund të hajë disa minuta dhe do të plotësohet në prapaskenë.">
+<!ENTITY addDevice.dialog.syncKey.label     "Që të aktivizoni pajisjen tuaj, do t&apos;ju duhet të jepni Kyçin tuaj për Sync-un. Ju lutem, shtypeni ose ruajeni këtë kyç dhe mbajeni me vete.">
+<!ENTITY addDevice.dialog.connected.label   "Pajisja u Lidh">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Jepni të Dhënat e Llogarisë">
-<!ENTITY resetPassword.label          "Ricaktoni Fjalëkalimin">
-<!ENTITY connecting.label             "Po lidhet…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Ju lutem, Jepni Kyçin Tuaj për Sync-un">
-<!ENTITY setup.existingSyncKeyPage.description "Kyçi juaj për Sync-un qe prodhuar për ju, ose dhatë një të tuajin, kur krijuat së pari një llogari &syncBrand.fullName.label;. Nuk është i njëjtë me fjalëkalimin tuaj.">
-<!ENTITY existingSyncKeyHelp.description "Kyçin tuaj për Sync-un mund ta gjeni duke shkuar te kompjuteri juaj tjetër dhe duke kontrolluar Fjalëkalimet e Ruajtura, te pjesa Siguri. Nëse prapë nuk e gjeni Kyçin tuaj të saktë për Sync-un, mund të zgjidhni ricaktimin e tij, por kështu do të humbni çfarëdo të dhënash të depozituara në shërbyes.">
-<!ENTITY lostSyncKey.label            "E kam humbur Kyçin tim për Sync-un">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Hyni">
+<!ENTITY existingSyncKey.description "Mund të merrni një kopje të Kyçit tuaj për Sync-un duke shkuar te Mundësi &syncBrand.shortName.label;-u te pajisja juaj tjetër, dhe përzgjidhni  &#x0022;Kyçi Im për Sync-un&#x0022; te &#x0022;Administroni Llogari&#x0022;.">
 <!ENTITY verifying.label              "Po verifikohet…">
+<!ENTITY resetPassword.label          "Ricaktoni Fjalëkalimin">
+<!ENTITY lostSyncKey.label            "Kam humbur Kyçin tim për Sync-un">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Mundësi Sync-u">
@@ -88,7 +92,8 @@
 <!ENTITY choice2.merge.main.label      "Përzieni të dhënat e këtij kompjuteri me të dhënat e mia nga &syncBrand.shortName.label;-u">
 <!ENTITY choice2.merge.recommended.label "E këshilluar:">
 <!ENTITY choice2.client.main.label     "Zëvendëso krejt të dhënat në këtë kompjuter me të dhënat e mia nga &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Zëvendëso te krejt pajisjet e tjera me dhënat nga ky kompjuter">
+<!ENTITY choice2.server.main.label     "Zëvendëso te krejt pajisjet e tjera me të dhënat nga ky kompjuter">
+
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Ripohim">
