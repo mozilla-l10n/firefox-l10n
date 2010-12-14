@@ -17,6 +17,7 @@
 <!ENTITY resetSync.label              "Atiestatīt sinhronizāciju">
 <!ENTITY stopUsingAccount.label       "Pārtraukt šī konta izmantošanu">
 <!ENTITY viewQuota.label              "Aplūkot kvotu">
+<!ENTITY addDevice.label              "Pievienot ierīci">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Pārlūka sinhronizācija">
