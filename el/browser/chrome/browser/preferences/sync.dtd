@@ -23,7 +23,7 @@
 <!ENTITY syncPrefsCaption.label       "Συγχρονισμός περιηγητή">
 <!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
 <!ENTITY syncComputerName.accesskey   "υ">
-
+<!ENTITY addDevice.label              "Προσθήκη συσκευής">
 
 
 <!-- Footer stuff -->
