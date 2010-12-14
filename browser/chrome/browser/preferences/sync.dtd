@@ -12,7 +12,7 @@
 <!ENTITY resetPass.label              "Vynulovať">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Spravovať účet">
+<!ENTITY manageAccount.label          "Správa účtu">
 <!ENTITY manageAccount.accesskey      "S">
 <!ENTITY viewQuota.label              "Zobraziť kvótu">
 <!ENTITY changePassword.label         "Zmeniť heslo">

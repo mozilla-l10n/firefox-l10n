@@ -73,14 +73,10 @@
 <!ENTITY deleteMsgCmd.accesskey "O">
 <!ENTITY undeleteMsgCmd.label "Obnoviť správu">
 <!ENTITY undeleteMsgCmd.accesskey "O">
-<!ENTITY cancelNewsMsgCmd.label "Zrušiť správu">
-<!ENTITY cancelNewsMsgCmd.accesskey "r">
 <!ENTITY deleteMsgsCmd.label "Odstrániť označené správy">
 <!ENTITY deleteMsgsCmd.accesskey "O">
 <!ENTITY undeleteMsgsCmd.label "Obnoviť označené správy">
 <!ENTITY undeleteMsgsCmd.accesskey "O">
-<!ENTITY cancelNewsMsgsCmd.label "Zrušiť označené správy">
-<!ENTITY cancelNewsMsgsCmd.accesskey "r">
 <!ENTITY deleteFolderCmd.label "Odstrániť priečinok">
 <!ENTITY deleteFolderCmd.accesskey "d">
 <!ENTITY unsubscribeNewsgroupCmd.label "Odhlásiť">
@@ -313,6 +309,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Správa s hviezdičkou">
 <!ENTITY prevStarredMsgCmd.accesskey "h">
+<!ENTITY folderMenu.label "Priečinok">
+<!ENTITY folderMenu.accesskey "e">
+<!ENTITY thisFolder.label "Tento priečinok">
+<!ENTITY thisFolder.accesskey "T">
 <!ENTITY startPageCmd.label "Úvodná stránka">
 <!ENTITY startPageCmd.accesskey "v">
 
@@ -326,6 +326,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Archivovať">
 <!ENTITY archiveMsgCmd.accesskey "h">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Zrušiť správu">
+<!ENTITY cancelNewsMsgCmd.accesskey "r">
 <!ENTITY replyMsgCmd.label "Odpovedať">
 <!ENTITY replyMsgCmd.accesskey "d">
 <!ENTITY replyMsgCmd.key "r">

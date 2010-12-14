@@ -63,3 +63,7 @@
 <!ENTITY sidebar.close.tooltip       "Zavrieť Bočný panel">
 <!ENTITY sidebar.open.tooltip        "Otvoriť Bočný panel">
 
+<!ENTITY sidebar.search.label         "Vyhľadávanie">
+<!ENTITY sidebar.client-bookmarks.label     "Záložky">
+<!ENTITY sidebar.client-history.label       "História">
+<!ENTITY sidebar.client-addressbook.label   "Adresár">

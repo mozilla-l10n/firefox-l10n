@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Odoberať kanál tejto stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
-<!ENTITY showAllBookmarks.label "Zobraziť všetky záložky…">
+<!ENTITY showAllBookmarks2.label "Zobraziť všetky záložky">
 <!ENTITY bookmarkAllCmd.label "Pridať všetky karty medzi záložky…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Možnosti…">
-<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY preferencesCmd2.label "Možnosti">
+<!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Možnosti">
 <!ENTITY preferencesCmdUnix.accesskey "M">
 
@@ -548,3 +548,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Synchronizovať teraz">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncToolbarButton.label      "Synchronizácia">
+
+<!ENTITY addonBarCloseButton.tooltip  "Zavrieť panel doplnkov">
