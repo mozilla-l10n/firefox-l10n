@@ -32,7 +32,7 @@
 <!ENTITY helpReleaseNotes.accesskey     "η">
 <!ENTITY helpReleaseNotes.label         "Σημειώσεις έκδοσης">
 
-<!ENTITY updateCmd.label                "Έλεγχος για ενημερώσεις...">
+
 
 <!ENTITY preferencesCmdMac.label        "Προτιμήσεις...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
