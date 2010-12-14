@@ -30,8 +30,6 @@
 <!ENTITY helpFeedbackPage.label             "Anna tagasisidet…">
 <!ENTITY helpFeedbackPage.accesskey         "A">
 
-<!ENTITY updateCmd.label                    "Kontrolli uuendusi...">
-
 <!ENTITY preferencesCmdMac.label            "Eelistused...">
 <!ENTITY preferencesCmdMac.commandkey       ",">
 

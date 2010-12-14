@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description    "Tere tulemast! Kui sa pole varem &syncBrand.fullName.label;i kasutanud, siis pead sa looma uue konto.">
+<!ENTITY setup.pickSetupType.description    "Tere tulemast! Kui sa pole varem &syncBrand.fullName.label;i kasutanud, siis pead looma uue konto.">
 <!ENTITY button.createNewAccount.label      "Loo uus konto">
 <!ENTITY setup.haveAccount.label            "Mul on juba &syncBrand.fullName.label;i konto olemas.">
 <!ENTITY button.connect.label               "Ühenda">
@@ -67,7 +67,7 @@
 <!ENTITY addDevice.dialog.connected.label   "Seade on ühendatud">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label       "Sisse logimine">
+<!ENTITY setup.signInPage.title.label       "Sisselogimine">
 <!ENTITY existingSyncKey.description        "Koopia oma Synci võtmest saad, kui avad &syncBrand.shortName.label;i seaded oma teises seadmes ning valid &#x0022;Konto haldamise&#x0022; alt &#x0022;Synci võti&#x0022;.">
 <!ENTITY verifying.label                    "Kontrollimine…">
 <!ENTITY resetPassword.label                "Lähtesta parool">
