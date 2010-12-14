@@ -182,7 +182,7 @@ can reach it easily. -->
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Complementos">
-<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.accesskey             "o">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Consola de errores">
@@ -559,3 +559,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Sincronizar ahora">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sincronizar">
+
+<!ENTITY addonBarCloseButton.tooltip  "Cerrar barra de complementos">

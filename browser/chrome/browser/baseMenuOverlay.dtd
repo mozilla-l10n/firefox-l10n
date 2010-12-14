@@ -34,7 +34,6 @@
 
 <!ENTITY helpReleaseNotes.label         "Notas de lanzamiento">
 <!ENTITY helpReleaseNotes.accesskey     "N">
-<!ENTITY updateCmd.label                "Revisar si hay actualizaciones…">
 
 <!ENTITY preferencesCmdMac.label        "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
