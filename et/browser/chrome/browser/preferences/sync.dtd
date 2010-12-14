@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label                 "Synci võti">
 <!ENTITY resetSync.label                 "Lähtesta Sync">
 <!ENTITY stopUsingAccount.label          "Lõpeta selle konto kasutamine">
+<!ENTITY addDevice.label                 "Lisa seade">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label          "Brauseri sünkroniseerimine">
