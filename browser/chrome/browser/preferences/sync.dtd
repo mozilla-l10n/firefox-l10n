@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "An iuchair co-shioncronachaidh agam">
 <!ENTITY resetSync.label              "Ath-shuidhich an co-shioncronachadh">
 <!ENTITY stopUsingAccount.label       "Sguir de chleachdadh a' chunntais seo">
+<!ENTITY addDevice.label              "Cuir inneal ris">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Co-shioncronachadh a' bhrabhsair">
