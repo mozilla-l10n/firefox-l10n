@@ -28,7 +28,6 @@
 
 <!ENTITY helpReleaseNotes.label "Laidiena piezīmes">
 <!ENTITY helpReleaseNotes.accesskey "N">
-<!ENTITY updateCmd.label "Pārbaudīt atjauninājumus…">
 
 <!ENTITY preferencesCmdMac.label "Iestatījumi…">
 <!ENTITY preferencesCmdMac.commandkey ",">
