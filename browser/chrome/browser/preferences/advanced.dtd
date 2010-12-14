@@ -1,7 +1,7 @@
 <!ENTITY alwaysCheckDefault.accesskey    "h">
 <!ENTITY alwaysCheckDefault.label        "Kontrollo përherë gjatë nisjes për të parë në është &brandShortName;-i shfletuesi parazgjedhje"><!--XXX-->
 <!ENTITY blockAutoRefresh.accesskey      "S">
-<!ENTITY blockAutoRefresh.label          "Sinjalizomë kur site-e web përpiqen të ridrejtojnë apo ringarkojnë faqen">
+<!ENTITY blockAutoRefresh.label          "Sinjalizomë kur &quot;site&quot;-e web përpiqen të ridrejtojnë apo ringarkojnë faqen">
 <!ENTITY checkNow.accesskey              "T">
 <!ENTITY checkNow.label                  "Kontrollo Tani">
 <!ENTITY clearCacheNow.accesskey         "T">        
