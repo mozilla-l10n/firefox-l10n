@@ -27,7 +27,6 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "U">
 <!ENTITY helpFeedbackPage.label "Senda viðbrögð…">
 <!ENTITY helpFeedbackPage.accesskey "S">
-<!ENTITY updateCmd.label "Athuga með uppfærslur…">
 <!ENTITY preferencesCmdMac.label "Valkostir…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY servicesMenuMac.label "Þjónustur">
