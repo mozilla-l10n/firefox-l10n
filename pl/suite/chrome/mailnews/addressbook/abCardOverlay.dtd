@@ -113,9 +113,9 @@
 <!ENTITY Birthday.label "Urodziny:">
 <!ENTITY Birthday.accesskey "U">
 <!ENTITY In.label "">
-<!ENTITY Year.emptytext "rok">
+<!ENTITY Year.placeholder "rok">
 <!ENTITY Or.value "lub">
-<!ENTITY Age.emptytext "wiek">
+<!ENTITY Age.placeholder "wiek">
 <!ENTITY YearsOld.label "">
 
 <!ENTITY Work.tab "Służbowy">
@@ -166,6 +166,6 @@
 <!ENTITY BrowsePhoto.accesskey "r">
 <!ENTITY PhotoURL.label "Adres internetowy">
 <!ENTITY PhotoURL.accesskey "A">
-<!ENTITY PhotoURL.emptytext "Wklej lub wprowadź adres internetowy zdjęcia">
+<!ENTITY PhotoURL.placeholder "Wklej lub wprowadź adres internetowy zdjęcia">
 <!ENTITY UpdatePhoto.label "Uaktualnij">
 <!ENTITY UpdatePhoto.accesskey "U">

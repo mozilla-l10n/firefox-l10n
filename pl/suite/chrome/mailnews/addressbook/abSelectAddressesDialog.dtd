@@ -55,6 +55,7 @@
 <!ENTITY lookIn.accesskey "S">
 <!ENTITY for.label "">
 <!ENTITY for.accesskey "">
+<!ENTITY for.placeholder "Imię, nazwisko lub e-mail">
 <!ENTITY addressMessageTo.label "Zaadresuj wiadomość:">
 
 <!-- Tooltips items -->  

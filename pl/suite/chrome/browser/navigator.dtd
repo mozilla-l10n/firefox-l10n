@@ -107,7 +107,9 @@
 <!ENTITY goMenu.label "Przejdź">
 <!ENTITY goMenu.accesskey "d">
 <!ENTITY goHomeCmd.label "Strona domowa">
-<!ENTITY goHomeCmd.accesskey "d">
+<!ENTITY goHomeCmd.accesskey "s">
+<!ENTITY historyRestoreLastSession.label "Przywróć poprzednią sesję">
+<!ENTITY historyRestoreLastSession.accesskey "y">
 
 <!ENTITY bookmarksMenu.label "Zakładki">
 <!ENTITY bookmarksMenu.accesskey "Z">
@@ -148,7 +150,7 @@
 <!ENTITY throbber.tooltip "SeaMonkey.pl! Otwórz naszą stronę!">
 
 <!ENTITY locationBar.tooltip "Wprowadź termin, słowo kluczowe lub adres WWW">
-<!ENTITY locationBar.accesskey "l">
+<!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Adres">
 
 <!ENTITY proxyIcon.tooltip "Przeciągnij i upuść tę ikonę, aby stworzyć odnośnik do tej strony">
@@ -158,6 +160,7 @@
 <!ENTITY bookmarksButton.tooltip "Lista zakładek">
 <!ENTITY homeButton.label "Strona domowa">
 <!ENTITY bookmarksToolbarItem.label "Elementy paska zakładek">
+<!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Zakończono">

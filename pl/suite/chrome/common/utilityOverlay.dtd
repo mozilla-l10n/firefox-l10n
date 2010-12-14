@@ -9,7 +9,7 @@
 <!ENTITY newMenu.label "Nowy">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newBlankPageCmd.label "Strona Kompozytora Stron">
-<!ENTITY newBlankPageCmd.accesskey "s">
+<!ENTITY newBlankPageCmd.accesskey "S">
 <!ENTITY newBlankPageCmd.key "n">
 <!ENTITY newPageFromTemplateCmd.label "Stronę z szablonu">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
@@ -17,7 +17,7 @@
 <!ENTITY newPageFromDraftCmd.accesskey "s">
 <!ENTITY newNavigatorCmd.label "Okno przeglądarki">
 <!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY newNavigatorCmd.accesskey "n">
 
 <!ENTITY editMenu.label "Edycja">
 <!ENTITY editMenu.accesskey "E">
@@ -36,6 +36,8 @@
 <!ENTITY pasteCmd.label "Wklej">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "e">
+<!ENTITY pasteGoCmd.label "Wklej i przejdź">
+<!ENTITY pasteGoCmd.accesskey "W">
 <!ENTITY deleteCmd.label "Usuń">
 <!ENTITY deleteCmd.accesskey "U">
 <!ENTITY selectAllCmd.label "Zaznacz wszystko">
@@ -44,7 +46,7 @@
 <!ENTITY preferencesCmd.label "Preferencje…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "P">
-<!ENTITY findTypeTextCmd.label "Znajdź wprowadzając - Tekst ">
+<!ENTITY findTypeTextCmd.label "Znajdź wprowadzając - Tekst">
 <!ENTITY findTypeTextCmd.accesskey "s">
 <!ENTITY findTypeLinksCmd.label "Znajdź wprowadzając - Odnośniki">
 <!ENTITY findTypeLinksCmd.accesskey "w">
@@ -59,6 +61,8 @@
 <!ENTITY helpMenu.label "Pomoc">
 <!ENTITY helpMenu.accesskey "c">
 
+<!ENTITY helpTroubleshootingInfo.label "Informacje dla rozwiązywania problemów">
+<!ENTITY helpTroubleshootingInfo.accesskey "r">
 <!ENTITY releaseCmd.label "Informacje o wersji programu">
 <!ENTITY releaseCmd.accesskey "I">
 <!ENTITY updateCmd.label "Sprawdź dostępność aktualizacji…">

@@ -6,4 +6,4 @@
 <!ENTITY actionColumn2.label "Czynność">
 <!ENTITY actionColumn2.accesskey "C">
 
-<!ENTITY search.emptytext "Szukaj w typach i czynnościach">
+<!ENTITY search.placeholder "Przeszukaj typy i czynności">

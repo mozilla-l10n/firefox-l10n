@@ -1,11 +1,5 @@
-<!ENTITY securityMenu.label "Zabezpieczenia wiadomości">
-<!ENTITY securityMenu.accesskey "b">
-
 <!ENTITY menu_securityEncryptRequire.label "Zaszyfruj tę wiadomość">
 <!ENTITY menu_securityEncryptRequire.accesskey "w">
-
-<!ENTITY menu_securityNoEncryption.label "Nie szyfruj tej wiadomości">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
 
 <!ENTITY menu_securitySign.label "Podpisz cyfrowo tę wiadomość">
 <!ENTITY menu_securitySign.accesskey "P">

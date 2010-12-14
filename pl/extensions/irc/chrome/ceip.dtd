@@ -5,9 +5,9 @@
 
 <!ENTITY groupSend.label "Wysyłaj następujące dane:">
 <!ENTITY sendClient.label "Kiedy ChatZilla jest uruchamiana i zamykana">
-<!ENTITY sendClient.accesskey "o">
+<!ENTITY sendClient.accesskey "K">
 <!ENTITY sendCommand.label "Używane komendy, menu i dialogi">
-<!ENTITY sendCommand.accesskey "C">
+<!ENTITY sendCommand.accesskey "U">
 <!ENTITY sendID.label "Twój unikalny ID:">
 <!ENTITY sendIDSrc.label "(generowany losowo)">
 

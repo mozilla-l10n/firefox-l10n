@@ -4,17 +4,14 @@
 <!ENTITY useSiteIcons.label "Pokaż ikony witryn">
 <!ENTITY useSiteIcons.accesskey "k">
 <!ENTITY useFavIcons.label "Wymuszaj wyszukiwanie ikon dla witryn, które ich nie definiują">
-<!ENTITY useFavIcons.accesskey "A">
-<!ENTITY tbIconsDescription.label "Wyświetlaj ikony witryn w menu i pasku zakładek:">
-<!ENTITY tbIconsNever.label "Nigdy nie wyświetlaj ikon dla witryn w zakładkach">
-<!ENTITY tbIconsNever.accesskey "N">
-<!ENTITY tbIconsCache.label "Tylko, gdy witryna została odwiedzona ostatnio">
-<!ENTITY tbIconsCache.accesskey "T">
-<!ENTITY tbIconsAlways.label "Zawsze wczytuj ikony witryn dla zakładek">
-<!ENTITY tbIconsAlways.accesskey "Z">
+<!ENTITY useFavIcons.accesskey "W">
 <!ENTITY enableAutomaticImageResizing.label "Dostosuj rozmiar dużych obrazków do okna przeglądarki">
 <!ENTITY enableAutomaticImageResizing.accesskey "d">
 <!ENTITY useSmoothScroll.label "Używaj płynnego przewijania">
 <!ENTITY useSmoothScroll.accesskey "U">
+<!ENTITY allowHWAccel.label "Korzystaj z akceleracji sprzętowej, kiedy jest dostępna">
+<!ENTITY allowHWAccel.accesskey "a">
 <!ENTITY textZoomOnly.label "Powiększaj tylko tekst zamiast całych stron">
 <!ENTITY textZoomOnly.accesskey "P">
+<!ENTITY blockAutoRefresh.label "Ostrzegaj, jeśli witryny próbują przekierować lub odświeżyć stronę">
+<!ENTITY blockAutoRefresh.accesskey "O">

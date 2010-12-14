@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip "Pasek menu">
 <!ENTITY searchBar.tooltip "Pasek wyszukiwania">
 
-<!ENTITY search.emptytext "Szukaj">
+<!ENTITY search.placeholder "Szukaj w liście pobierań">
 <!ENTITY search.label "Szukaj">
 <!ENTITY search.accesskey "S">
 <!ENTITY search.key "f">

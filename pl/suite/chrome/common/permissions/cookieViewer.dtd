@@ -11,7 +11,7 @@
 <!ENTITY button.removeallcookies.label "Usuń wszystkie ciasteczka">
 <!ENTITY button.removeallcookies.accesskey "w">
 
-<!ENTITY search.emptytext "Szukaj w ciasteczkach">
+<!ENTITY search.placeholder "Szukaj w ciasteczkach">
 <!ENTITY focusSearch.key "f">
 <!ENTITY windowClose.key "w">
 <!ENTITY selectAll.key "a">

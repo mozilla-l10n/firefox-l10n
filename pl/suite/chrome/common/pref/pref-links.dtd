@@ -1,0 +1,17 @@
+<!ENTITY linksHeader.label "Zachowanie odnośników">
+<!ENTITY newWindow.label "Zachowanie podczas otwierania odnośników">
+<!ENTITY newWindowDescription.label "Otwieraj odnośniki otwierające nowe okna w:">
+<!ENTITY external.label "Odnośniki otwierane z innych aplikacji">
+<!ENTITY externalDescription.label "Otwieraj odnośniki z innych aplikacji w">
+
+<!ENTITY openCurrent.label "ostatnio aktywnej karcie lub oknie">
+<!ENTITY newWindowGroupCurrent.accesskey "t">
+<!ENTITY externalGroupCurrent.accesskey "a">
+
+<!ENTITY openTab.label "nowej karcie w ostatnim aktywnym oknie">
+<!ENTITY newWindowGroupTab.accesskey "r">
+<!ENTITY externalGroupTab.accesskey "k">
+
+<!ENTITY openWindow.label "nowym oknie">
+<!ENTITY newWindowGroupWindow.accesskey "m">
+<!ENTITY externalGroupWindow.accesskey "o">

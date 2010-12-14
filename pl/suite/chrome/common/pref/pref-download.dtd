@@ -18,9 +18,9 @@
 <!ENTITY alwaysAsk.label "Pytaj, gdzie zapisać każdy plik">
 <!ENTITY alwaysAsk.accesskey "P">
 
-<!ENTITY downloadRetention.label "Przechowywanie historii pobierania">
-<!ENTITY removeDownloads.label "Usuwaj pobierania">
-<!ENTITY removeDownloads.accesskey "U">
+<!ENTITY downloadHistory.label "Historia pobranych plików">
+<!ENTITY removeEntries.label "Usuń wpisy pobranych plików">
+<!ENTITY removeEntries.accesskey "U">
 <!ENTITY whenCompleted.label "Usuwaj po zakończeniu pobierania">
 <!ENTITY whenQuittingApp.label "Podczas zamykania programu &brandShortName;">
 <!ENTITY neverRemove.label "Nigdy nie usuwaj">

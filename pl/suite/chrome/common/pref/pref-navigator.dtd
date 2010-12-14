@@ -26,14 +26,6 @@
 <!ENTITY useDefault.label "Przywróć domyślne">
 <!ENTITY useDefault.accesskey "r">
 
-<!ENTITY toolbarIntro.label "Wybierz przyciski, które będą wyświetlane na pasku narzędzi:">
-
-<!ENTITY navToolbarIntro.label "Pasek nawigacyjny">
-<!ENTITY goButton.label "Idź">
-<!ENTITY goButton.accesskey "I">
-<!ENTITY searchButton.label "Szukaj">
-<!ENTITY searchButton.accesskey "S">
-
 <!ENTITY defaultBrowserGroup.label "Domyślna przeglądarka">
 <!ENTITY defaultBrowserButton.label "Ustaw jako domyślną przeglądarkę">
 <!ENTITY defaultBrowserButton.accesskey "D">

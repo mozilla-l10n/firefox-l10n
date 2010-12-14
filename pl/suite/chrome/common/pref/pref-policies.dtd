@@ -6,9 +6,9 @@
 <!ENTITY policies.label "Zasady:">
 <!ENTITY default.label "Domyślna zasada">
 <!ENTITY allWebsites.label "Wszystkie witryny">
-<!ENTITY trusted.label "Zaufane witryny">
+<!ENTITY trusted.label "Niezaufane witryny">
 <!ENTITY annoyances.label "Typowe zakłócenia">
-<!ENTITY restricted.label "Witryny z ograniczeniami">
+<!ENTITY restricted.label "Zastrzeżone witryny">
 
 <!ENTITY addSite.label "Dodaj witrynę…">
 <!ENTITY addSite.accesskey "D">

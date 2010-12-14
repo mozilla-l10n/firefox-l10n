@@ -52,7 +52,7 @@
 <!ENTITY warn.enteringweak "Wczytaniem strony, która używa niskiego poziomu szyfrowania">
 <!ENTITY warn.enteringweak.accesskey "o">
 <!ENTITY warn.insecurepost "Przesyłaniem danych pomiędzy stronami, które nie używają szyfrowania">
-<!ENTITY warn.insecurepost.accesskey "S">
+<!ENTITY warn.insecurepost.accesskey "s">
 <!ENTITY warn.leavingsecure "Opuszczeniem strony, która używa szyfrowania">
 <!ENTITY warn.leavingsecure.accesskey "a">
 <!ENTITY warn.viewmixed "Przeglądaniem strony tylko częściowo zaszyfrowanej">
@@ -60,6 +60,6 @@
 
 <!ENTITY certselect.description "Określ sposób, w jaki &brandShortName; dokona wyboru certyfikatu do przedstawienia stronom WWW, które tego zażądają:">
 <!ENTITY certselect.auto "Wybierz automatycznie">
-<!ENTITY certselect.auto.accesskey "A">
+<!ENTITY certselect.auto.accesskey "a">
 <!ENTITY certselect.ask "Pytaj za każdym razem">
-<!ENTITY certselect.ask.accesskey "E">
+<!ENTITY certselect.ask.accesskey "e">

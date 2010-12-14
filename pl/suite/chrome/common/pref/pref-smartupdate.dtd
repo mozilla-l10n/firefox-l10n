@@ -8,14 +8,24 @@
 <!ENTITY verifyUpdates.caption "Aktualizacje">
 <!ENTITY autoUpdates.label "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
 <!ENTITY appUpdates.label "programu &brandShortName;">
-<!ENTITY appUpdates.accesskey "S">
+<!ENTITY appUpdates.accesskey "p">
 <!ENTITY daily.label "codziennie">
-<!ENTITY appDaily.accesskey "d">
+<!ENTITY appDaily.accesskey "c">
 <!ENTITY weekly.label "co tydzień">
-<!ENTITY appWeekly.accesskey "w">
+<!ENTITY appWeekly.accesskey "t">
 <!ENTITY extensionsUpdates.label "zainstalowanych dodatków">
 <!ENTITY extensionsUpdates.accesskey "n">
 <!ENTITY extensionsDaily.accesskey "i">
 <!ENTITY extensionsWeekly.accesskey "k">
 <!ENTITY addonManagerButton.label "Menedżer dodatków">
 <!ENTITY addonManagerButton.accesskey "M">
+
+<!ENTITY whenUpdatesFound.label "Kiedy odnalezione zostaną aktualizacje dla programu &brandShortName;:">
+<!ENTITY askMe.label "Zapytaj, co robić">
+<!ENTITY askMe.accesskey "Z">
+<!ENTITY modeAutomatic.label "Automatycznie pobierz i zainstaluj aktualizacje">
+<!ENTITY modeAutomatic.accesskey "c">
+<!ENTITY modeAutoAddonWarn.label "Ostrzeż, jeśli aktualizacja spowoduje wyłączenie dodatków">
+<!ENTITY modeAutoAddonWarn.accesskey "O">
+<!ENTITY updateHistory.label "Wyświetl historię aktualizacji">
+<!ENTITY updateHistory.accesskey "h">

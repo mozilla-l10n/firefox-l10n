@@ -59,7 +59,7 @@
 <!ENTITY editMessage.accesskey "D">
 
 <!ENTITY attachmentsTree.label "Załączniki:">
-<!ENTITY attachmentsTree.accesskey "A">
+<!ENTITY attachmentsTree.accesskey "a">
 <!ENTITY openAttachmentCmd.label "Otwórz">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY viewAttachmentCmd.label "Pokaż źródło załącznika">

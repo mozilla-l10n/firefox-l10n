@@ -63,3 +63,7 @@
 <!ENTITY sidebar.close.tooltip "Zamknij panel boczny">
 <!ENTITY sidebar.open.tooltip "Otwórz panel boczny">
 
+<!ENTITY sidebar.search.label "Szukaj">
+<!ENTITY sidebar.client-bookmarks.label "Zakładki">
+<!ENTITY sidebar.client-history.label "Historia">
+<!ENTITY sidebar.client-addressbook.label "Książka adresowa">

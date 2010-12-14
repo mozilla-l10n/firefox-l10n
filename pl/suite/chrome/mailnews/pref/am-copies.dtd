@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "i">
 <!ENTITY fccReplyFollowsParent.label "umieszczaj odpowiedzi w folderze wiadomości, na którą odpowiada użytkownik">
 <!ENTITY fccReplyFollowsParent.accesskey "o">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "wysyłaj kopię do:">
+<!ENTITY ccAddress.accesskey "j">
+<!ENTITY ccAddressList.placeholder "adresy e-mail rozdzielone przecinkami">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "wysyłaj ukrytą kopię do:">
 <!ENTITY bccAddress.accesskey "k">
+<!ENTITY bccAddressList.placeholder "adresy e-mail rozdzielone przecinkami">
 <!ENTITY saveMessageDlg.label "Wyświetlaj okno dialogowe potwierdzające zapisywanie wiadomości">
 <!ENTITY saveMessageDlg.accesskey "W">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

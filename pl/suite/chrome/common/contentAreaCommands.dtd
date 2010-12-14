@@ -1,8 +1,8 @@
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label "Zablokuj wyświetlanie wyskakujących okien przez tę witrynę">
-<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label "Zezwalaj na wyświetlanie wyskakujących okien przez tę witrynę">
-<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.accesskey "o">
 <!ENTITY openLinkCmd.label "Otwórz odnośnik w nowym oknie">
 <!ENTITY openLinkCmd.accesskey "n">
 <!ENTITY openLinkCmdInTab.label "Otwórz odnośnik w nowej karcie">
@@ -114,6 +114,8 @@
 <!ENTITY mediaShowControls.accesskey "m">
 <!ENTITY mediaHideControls.label "Ukryj narzędzia mediowe">
 <!ENTITY mediaHideControls.accesskey "m">
+<!ENTITY videoFullScreen.label "Tryb pełnoekranowy">
+<!ENTITY videoFullScreen.accesskey "T">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Przełącz kierunek strony">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "s">

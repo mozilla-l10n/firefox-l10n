@@ -4,7 +4,7 @@
 <!ENTITY menuBar.tooltip "Pasek menu">
 <!ENTITY searchBar.tooltip "Pasek wyszukiwania">
 
-<!ENTITY search.emptytext "Szukaj w historii">
+<!ENTITY search.placeholder "Szukaj w historii">
 <!ENTITY search.key "f">
 <!ENTITY view.label "Porządkuj">
 
@@ -26,7 +26,7 @@
 <!ENTITY view.groupNone.accesskey "N">
 <!ENTITY view.groupDay.label "Dnia">
 <!ENTITY view.groupDay.accesskey "D">
-<!ENTITY view.groupSite.label "Witryny">
+<!ENTITY view.groupSite.label "Witryna">
 <!ENTITY view.groupSite.accesskey "t">
 <!ENTITY view.groupDayAndSite.label "Dnia i witryny">
 <!ENTITY view.groupDayAndSite.accesskey "a">

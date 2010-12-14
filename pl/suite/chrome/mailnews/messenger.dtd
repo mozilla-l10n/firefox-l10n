@@ -22,6 +22,7 @@
  Contributor(s):
     Karsten Düsterloh <mnyromyr@tprac.de>
     Jeremy Morton <bugzilla@game-point.net>
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -125,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "w">
 <!ENTITY undeleteMsgsCmd.label "Przywróć zaznaczone wiadomości">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "Wycofaj zaznaczone wiadomości">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "Usuń folder">
 <!ENTITY deleteFolderCmd.accesskey "U">
 <!ENTITY unsubscribeNewsgroupCmd.label "Zrezygnuj z subskrypcji">
@@ -158,12 +157,8 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Pasek narzędzi poczty">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
-  <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label "Pasek narzędzi wyszukiwania">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
-
-<!ENTITY showLocationToolbarCmd.label "Pasek adresowy">
-<!ENTITY showLocationToolbarCmd.accesskey "a">
 
 <!ENTITY messagePaneLayoutStyle.label "Układ">
 <!ENTITY messagePaneLayoutStyle.accesskey "U">
@@ -332,9 +327,6 @@
 <!ENTITY newMsgCmd.accesskey "m">
 <!ENTITY newNewMsgCmd.label "Wiadomość">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Archiwizuj">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Odpowiedz">
 <!ENTITY replyMsgCmd.accesskey "d">
 <!ENTITY replyMsgCmd.key "r">
@@ -363,6 +355,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Utwórz filtr na podstawie wiadomości…">
 <!ENTITY createFilter.accesskey "f">
+<!ENTITY archiveMsgCmd.label "Archiwizuj">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Przenieś do">
 <!ENTITY moveMsgToMenu.accesskey "r">
 <!ENTITY copyMessageLocation.label "Kopiuj adres wiadomości">
@@ -488,11 +483,12 @@
 <!ENTITY stopButton.label "Zatrzymaj">
 <!ENTITY junkButton.label "Niechciana">
 <!ENTITY notJunkButton.label "Pożądana">
+<!ENTITY searchButton.title "Wyszukiwanie zaawansowane">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Pasek menu">
 <!ENTITY mailToolbar.tooltip "Pasek narzędzi poczty">
-<!ENTITY locationToolbar.tooltip "Pasek adresu">
+<!ENTITY searchToolbar.tooltip "Pasek wyszukiwania">
 <!ENTITY advancedButton.tooltip "Zaawansowane wyszukiwanie wiadomości">
 <!ENTITY getMsgButton.tooltip "Pobierz nowe wiadomości">
 <!ENTITY newMsgButton.tooltip "Utwórz nową wiadomość">
@@ -523,8 +519,6 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextEditAsNew.label "Otwórz wiadomość do edycji…">
 <!ENTITY contextEditAsNew.accesskey "e">
-<!ENTITY contextArchive.label "Archiwizuj">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Odpowiedz tylko nadawcy">
 <!ENTITY contextReplySender.accesskey "n">
 <!ENTITY contextReplyNewsgroup.label "Odpowiedz grupie dyskusyjnej">
@@ -537,6 +531,8 @@
 <!ENTITY contextForward.accesskey "P">
 <!ENTITY contextForwardAsAttachment.label "Przekaż jako załącznik">
 <!ENTITY contextForwardAsAttachment.accesskey "z">
+<!ENTITY contextArchive.label "Archiwizuj">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Przenieś do">
 <!ENTITY contextMoveMsgMenu.accesskey "z">
 <!ENTITY contextCopyMsgMenu.label "Kopiuj do">
@@ -588,9 +584,10 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Szukaj tematu bądź adresu">
 <!ENTITY advancedButton.label "Zaawansowane…">
 <!ENTITY advancedButton.accesskey "Z">
+<!ENTITY searchButton.label "Szukaj wiadomości…">
+<!ENTITY searchButton.accesskey "S">
 
 <!ENTITY all.label "Wszystko">
 <!ENTITY all.accesskey "y">
@@ -607,3 +604,8 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "Ta wiadomość najprawdopodobniej jest fałszywa.">
 <!ENTITY removePhishingBarButton.label "Prawdziwa">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Nadawca tej wiadomości poprosił o potwierdzenie doręczenia wiadomości. Czy wysłać potwierdzenie doręczenia wiadomości?">
+<!ENTITY mdnBarIgnoreButton.label "Zignoruj prośbę">
+<!ENTITY mdnBarSendButton.label "Prześlij potwierdzenie">

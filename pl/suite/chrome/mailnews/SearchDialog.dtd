@@ -1,4 +1,3 @@
-
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label "Wyszukaj wiadomości w folderze">
 <!ENTITY searchHeading.accesskey "s">
@@ -8,8 +7,6 @@
 <!ENTITY searchLocalSystem.accesskey "y">
 <!ENTITY resetButton.label "Wyczyść">
 <!ENTITY resetButton.accesskey "c">
-<!ENTITY helpButton.label "Pomoc">
-<!ENTITY helpButton.accesskey "P">
 <!ENTITY openButton.label "Otwórz">
 <!ENTITY openButton.accesskey "O">
 <!ENTITY deleteButton.label "Usuń">
@@ -33,4 +30,3 @@
 <!ENTITY composeButton.label "Komponuj">
 <!ENTITY composeButton.accesskey "K">
 <!ENTITY abSearchDialogTitle.label "Zaawansowane wyszukiwanie w książce adresowej">
-

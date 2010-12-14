@@ -6,23 +6,11 @@
 <!ENTITY background.accesskey "P">
 <!ENTITY warnOnClose.label "Ostrzegaj przed zamknięciem okna z wieloma kartami">
 <!ENTITY warnOnClose.accesskey "s">
+<!ENTITY relatedAfterCurrent.label "Otwórz powiązane karty obok obecnej karty">
+<!ENTITY relatedAfterCurrent.accesskey "t">
 <!ENTITY loadGroup.label "Podczas otwierania grupy zakładek">
 <!ENTITY loadGroupAppend.label "Otwieraj wszystkie jako nowe karty">
 <!ENTITY loadGroupAppend.accesskey "O">
 <!ENTITY loadGroupReplace.label "Otwieraj w bieżących kartach">
 <!ENTITY loadGroupReplace.accesskey "k">
 <!ENTITY openTabs.label "Otwieraj strony w nowej karcie zamiast w nowym oknie, jeżeli:">
-
-<!ENTITY newWindow.label "Otwieranie odnośników">
-<!ENTITY newWindowDescription.label "Otwieraj odnośniki otwierające nowe okna w:">
-<!ENTITY external.label "Odnośniki otwierane z innych aplikacji">
-<!ENTITY externalDescription.label "Otwieraj odnośniki z innych aplikacji w:">
-<!ENTITY openCurrent.label "ostatnio aktywnej karcie lub oknie">
-<!ENTITY newWindowGroupCurrent.accesskey "c">
-<!ENTITY externalGroupCurrent.accesskey "u">
-<!ENTITY openTab.label "nowej karcie w ostatnim aktywnym oknie">
-<!ENTITY newWindowGroupTab.accesskey "n">
-<!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "nowym oknie">
-<!ENTITY newWindowGroupWindow.accesskey "y">
-<!ENTITY externalGroupWindow.accesskey "o">

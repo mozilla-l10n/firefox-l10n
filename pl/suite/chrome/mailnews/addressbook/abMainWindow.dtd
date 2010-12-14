@@ -99,8 +99,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Eksportuj…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY allowOnlineCheck.label "Sprawdź dostępność online (AOL)">
-<!ENTITY allowOnlineCheck.accesskey "S">
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label "Nowa wizytówka">
@@ -115,7 +113,8 @@
 <!ENTITY deleteItemButton.accesskey "U">
 <!ENTITY newimButton.label "Komunikator">
 <!ENTITY newimButton.accesskey "K">
-<!ENTITY searchNameAndEmail.emptytext "Szukaj w nazwiskach, imionach oraz adresach email">
+<!ENTITY searchNameAndEmail.placeholder "Szukaj w nazwiskach, imionach oraz adresach e-mail">
+<!ENTITY searchBox.title "Szukaj">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip "Pasek narzędzi książki adresowej">

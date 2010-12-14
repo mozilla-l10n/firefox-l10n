@@ -1,3 +1,5 @@
 <!ENTITY renameFolderDialog.title "Zmień nazwę folderu">
 <!ENTITY rename.label "Wprowadź nową nazwę dla folderu:">
 <!ENTITY rename.accesskey "e">
+<!ENTITY accept.label "Zmień nazwę">
+<!ENTITY accept.accesskey "Z">
