@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Kas ar menoioù...">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-<!ENTITY updateCmd.label                "Gwiriañ an hizivadurioù…">
-
 <!ENTITY preferencesCmdMac.label        "Ma gwellvezioù…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

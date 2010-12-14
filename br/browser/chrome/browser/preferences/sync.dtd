@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Ma alc'hwez goubredañ">
 <!ENTITY resetSync.label              "Adderaouekaat ar goubredañ">
 <!ENTITY stopUsingAccount.label       "Arsaviñ arver ar gont-mañ">
+<!ENTITY addDevice.label              "Ouzhpennañ un trevnad">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Goubredañ ar merdeer">
