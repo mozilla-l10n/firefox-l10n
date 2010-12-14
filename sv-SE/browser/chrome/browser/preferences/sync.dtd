@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Min Sync-nyckel">
 <!ENTITY resetSync.label              "Återställ Sync">
 <!ENTITY stopUsingAccount.label       "Sluta använda det här kontot">
+<!ENTITY addDevice.label              "Lägg till enhet">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Webbläsarsynkning">
