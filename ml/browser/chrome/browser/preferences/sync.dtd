@@ -41,3 +41,5 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "സേവന നിബന്ധനകള്‍">
 <!ENTITY prefs.ppLink.label         "സ്വകാര്യ പോളിസി">
+
+<!ENTITY addDevice.label              "ഒരു ഡിവൈസ് ചേര്‍ക്കുക">
