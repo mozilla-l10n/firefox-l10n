@@ -28,7 +28,7 @@
 <!ENTITY helpReleaseNotes.accesskey "N">
 <!-- ENTITY helpTroubleshooting.label      "ട്രബിള്‍ഷൂട്ടിങ് വിവരങ്ങള്‍…" -->
 <!-- ENTITY helpTroubleshooting.accesskey  "T" -->
-<!ENTITY updateCmd.label "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിക്കുക ">
+<!-- ENTITY updateCmd.label "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിക്കുക " -->
 <!ENTITY productHelp.label        "&brandShortName; സഹായം">
 <!ENTITY productHelp.accesskey    "H">
 <!-- ENTITY updateCmd.accesskey "o" -->
