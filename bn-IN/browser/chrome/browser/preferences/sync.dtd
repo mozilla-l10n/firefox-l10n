@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "আমার সিংক-কি">
 <!ENTITY resetSync.label              "সিংক পুনরায় নির্ধারণ করুন">
 <!ENTITY stopUsingAccount.label       "এই অ্যাকাউন্টের ব্যবহার বন্ধ করুন">
+<!ENTITY addDevice.label              "একটি ডিভাইস যোগ করুন">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "ব্রাউজার সুসংগতি">
