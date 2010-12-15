@@ -109,7 +109,8 @@
 <!-- ENTITY addLiveBookmarkMenupopup.label "লাইভ বুকমার্ক যোগ করুন" -->
 <!-- ENTITY addLiveBookmarkMenuitem.label "লাইভ বুকমার্ক যোগ করুন..." -->
 <!ENTITY addCurPagesCmd.label "সমস্ত ট্যাব বুকমার্ক করুন...">
-<!ENTITY showAllBookmarks.label "সকল বুকমার্ক প্রদর্শন…">
+<!-- ENTITY showAllBookmarks.label "সকল বুকমার্ক প্রদর্শন…" -->
+<!ENTITY showAllBookmarks2.label "সকল বুকমার্ক প্রদর্শন">
 <!-- ENTITY addCurPagesCmd.accesskey "T" -->
 <!-- ENTITY manBookmarksCmd.label "বুকমার্ক সুবিন্যস্ত করুন..." -->
 <!-- ENTITY manBookmarksCmd.accesskey "M" -->
@@ -261,8 +262,10 @@
 <!ENTITY selectAllCmd.label         "সমগ্র নির্বাচন করুন">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "বিকল্প...">
-<!ENTITY preferencesCmd.accesskey     "O"> 
+<!-- ENTITY preferencesCmd.label       "বিকল্প..." -->
+<!-- ENTITY preferencesCmd.accesskey     "O" --> 
+<!ENTITY preferencesCmd2.label       "বিবিধ বিকল্প">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "বিবিধ বৈশিষ্ট্য">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 <!ENTITY clearRecentHistory.label               "সম্প্রতি ব্যবহারের পূর্ববর্তী তথ্য মুছে ফেলুন…">
@@ -654,3 +657,5 @@ can reach it easily. -->
 <!ENTITY syncSyncNowItem.label        "অবিলম্বে সুসংগত করুন">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "সুসংগতি">
+
+<!ENTITY addonBarCloseButton.tooltip  "অতিরিক্ত সামগ্রীর বার বন্ধ করুন">
