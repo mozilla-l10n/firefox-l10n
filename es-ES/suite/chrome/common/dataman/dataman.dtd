@@ -37,6 +37,11 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY dataman.windowTitle "Administrador de datos">
 <!ENTITY selectAll.key "a">
+<!ENTITY select.all.label "Todos los tipos de datos">
+<!ENTITY select.cookies.label "Sólo cookies">
+<!ENTITY select.permissions.label "Sólo permisos">
+<!ENTITY select.preferences.label "Sólo preferencias">
+<!ENTITY select.passwords.label "Sólo contraseñas">
 <!ENTITY domain.search.placeholder "Buscar dominios">
 <!ENTITY domain.search.key "f">
 <!ENTITY domain.tree.domain.label "Dominio">
@@ -77,6 +82,9 @@
 <!ENTITY perm.Allow "Permitir">
 <!ENTITY perm.AllowSession "Permitir durante la sesión">
 <!ENTITY perm.Block "Bloquear">
+<!ENTITY perm.host.placeholder "Introduzca un nombre de servidor">
+<!ENTITY perm.button.add.label "Añadir">
+<!ENTITY perm.button.add.accesskey "A">
 <!ENTITY prefs.description "Las preferencias de contenido son una manera de que &brandShortName; guarde su configuración, como el tamaño de visualización, específicamente para un sitio web.">
 <!ENTITY prefs.tree.host.label "Sitio web">
 <!ENTITY prefs.tree.name.label "Nombre de la preferencia">

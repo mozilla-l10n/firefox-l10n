@@ -88,6 +88,8 @@
 <!ENTITY goMenu.accesskey "i">
 <!ENTITY goHomeCmd.label "Inicio">
 <!ENTITY goHomeCmd.accesskey "n">
+<!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
+<!ENTITY historyRestoreLastSession.accesskey "R">
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "m">
 <!ENTITY addCurPageCmd.label "Añadir a marcadores">
