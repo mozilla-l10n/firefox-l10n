@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Bine ați venit, dacă nu ați utilizat până acum &syncBrand.fullName.label; va trebui să vă creați un cont nou.">
 <!ENTITY button.createNewAccount.label "Creează un cont nou">
-<!ENTITY button.haveAccount.label "Am un cont &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Am deja un cont de &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label    "Conectare">
 
 <!ENTITY setup.choicePage.title.label     "Ați mai folosit &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "N-am mai folosit niciodată &syncBrand.shortName.label;">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "Server &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "Folosește un server personalizat">
-<!ENTITY signIn.account.label       "Adresă de email / Nume de utilizator">
-<!ENTITY signIn.account.accesskey   "e">
+<!ENTITY serverType.custom2.label   "Folosește alt server…">
+<!ENTITY signIn.account2.label      "Cont">
+<!ENTITY signIn.account2.accesskey  "C">
 <!ENTITY signIn.password.label      "Parolă">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "URL către server">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "Cheia de sincronizare">
+<!ENTITY signIn.syncKey.accesskey   "C">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalii despre cont">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Vă rugăm confirmați că nu sunteți un robot">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Adaugă un dispozitiv">
+<!ENTITY addDevice.showMeHow.label          "Arată-mi cum.">
+<!ENTITY addDevice.dontHaveDevice.label     "Nu am dispozitivul cu mine">
+<!ENTITY addDevice.setup.description.label  "Pentru activare, mergeți la Opțiunile &syncBrand.shortName.label; de celălalt dispozitiv și selectați &#x0022;Adaugă un dispozitiv&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Apoi introduceți acest cod:">
+<!ENTITY addDevice.dialog.description.label "Pentru a activa noul dispozitiv, mergeți la opțiunile &syncBrand.shortName.label; de pe dispozitiv și selectați &#x0022;Conectare.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Introduceți codul furnizat de dispozitiv:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Vă rugăm încercați încă o dată.">
+<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can several minutes and will finish in the background.">
+<!ENTITY addDevice.dialog.syncKey.label     "Pentru activarea dispozitivului trebuie să introduceți cheia de sincronizare. Vă rugăm să tipăriți sau să salvați cheia și să o păstrați.">
+<!ENTITY addDevice.dialog.connected.label   "Dispozitiv conectat">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Introduceți informațiile despre cont">
-<!ENTITY resetPassword.label          "Resetează parola">
-<!ENTITY connecting.label             "Conectare…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Vă rugăm să introduceți cheia de sincronizare">
-<!ENTITY setup.existingSyncKeyPage.description "Cheia de sincronizare a fost generată pentru dumneavoastră sau ați introdus propria cheie când v-ați creat un cont pentru &syncBrand.fullName.label;. Aceasta nu este identică cu parola.">
-<!ENTITY existingSyncKeyHelp.description "Puteți găsi cheia de sincronizare mergând pe celălalt calculator și verificând parolele salvate din fila „Securitate”. Dacă tot nu puteți obține cheia corectă de sincronizare, puteți alege să o resetați, dar veți pierde toate datele stocate pe server.">
-<!ENTITY lostSyncKey.label            "Mi-am pierdut cheia de sincronizare">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Autentificare">
+<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Se verifică…">
+<!ENTITY resetPassword.label          "Resetează parola">
+<!ENTITY lostSyncKey.label            "Mi-am pierdut cheia de sincronizare">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opțiuni de sincronizare">
