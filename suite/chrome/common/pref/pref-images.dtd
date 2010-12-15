@@ -14,8 +14,8 @@
 <!ENTITY accOrgImagesRadio.accesskey    "u">
 <!ENTITY disableImages.label            "Keine Grafiken laden">
 <!ENTITY disableImages.accesskey        "K">
-<!ENTITY viewImages.label               "Grafik-Berechtigungen verwalten">
-<!ENTITY viewImages.accesskey           "G">
+<!ENTITY viewPermissions.label          "Berechtigungen verwalten">
+<!ENTITY viewPermissions.accesskey      "B">
 <!ENTITY animLoopingTitle.label         "Wiederholen von animierten Grafiken">
 <!ENTITY animLoopAsSpecified.label      "So oft, wie in der Grafik angegeben">
 <!ENTITY animLoopAsSpecified.accesskey  "S">
