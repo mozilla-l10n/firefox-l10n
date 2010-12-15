@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label "Můj klíč">
 <!ENTITY resetSync.label "Změnit typ synchronizace">
 <!ENTITY stopUsingAccount.label "Přestat používat tento účet">
+<!ENTITY addDevice.label "Přidat zařízení">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label "Synchronizace">
