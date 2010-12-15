@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Abonare la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină...">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele...">
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
+<!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
 <!ENTITY bookmarkAllCmd.label "Semne de carte la toate filele...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
@@ -548,3 +548,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Sincronizează acum">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sincronizare">
+
+<!ENTITY addonBarCloseButton.tooltip  "Închide bara de suplimente">

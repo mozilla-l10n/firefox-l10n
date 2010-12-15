@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Trimiteți reacțiile dumneavoastră…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-<!ENTITY updateCmd.label                "Caută actualizări...">
-
 <!ENTITY preferencesCmdMac.label        "Preferințe…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

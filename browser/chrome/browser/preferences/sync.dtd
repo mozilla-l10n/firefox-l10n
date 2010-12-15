@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Cheia mea de sincronizare">
 <!ENTITY resetSync.label              "Resetează sincronizarea">
 <!ENTITY stopUsingAccount.label       "Oprește utilizarea acestui cont">
+<!ENTITY addDevice.label              "Adaugă un dispozitiv">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sincronizare cu navigatorul">
