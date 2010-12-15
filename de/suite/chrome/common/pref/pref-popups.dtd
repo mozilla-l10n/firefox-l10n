@@ -5,8 +5,8 @@
 <!ENTITY popupBlock.label               "Unerwünschte Pop-up-Fenster blockieren">
 <!ENTITY popupBlock.accesskey           "U">
 
-<!ENTITY popupExceptions.label          "Erlaubte Websites…">
-<!ENTITY popupExceptions.accesskey      "E">
+<!ENTITY viewPermissions.label          "Berechtigungen verwalten">
+<!ENTITY viewPermissions.accesskey      "h">
 
 <!ENTITY whenBlock.description          "Wenn ein Pop-up-Fenster blockiert wurde:">
 <!ENTITY playSound.label                "Einen Klang abspielen:">

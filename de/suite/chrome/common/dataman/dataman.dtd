@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Alle Datentypen">
+<!ENTITY select.cookies.label "Nur Cookies">
+<!ENTITY select.permissions.label "Nur Berechtigungen">
+<!ENTITY select.preferences.label "Nur Einstellungen">
+<!ENTITY select.passwords.label "Nur Passwörter">
+
 <!ENTITY domain.search.placeholder "Domains durchsuchen">
 <!ENTITY domain.search.key "f">
 
@@ -93,6 +99,10 @@
 <!ENTITY perm.Allow "Erlauben">
 <!ENTITY perm.AllowSession "Für diese Sitzung erlauben">
 <!ENTITY perm.Block "Blockieren">
+
+<!ENTITY perm.host.placeholder "Einen Hostnamen eingeben">
+<!ENTITY perm.button.add.label "Hinzufügen">
+<!ENTITY perm.button.add.accesskey "H">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Inhalts-Einstellungen sind ein Weg für &brandShortName;, um Einstellungen wie Zoom-Stufen spezifisch für eine Website zu speichern.">
