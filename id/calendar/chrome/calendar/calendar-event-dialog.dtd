@@ -44,6 +44,7 @@
 
 <!ENTITY event.title.label                  "Ubah Item" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip  "">
 
 <!ENTITY newevent.from.label                "Dari" >
 <!ENTITY newevent.to.label                  "Ke" >
