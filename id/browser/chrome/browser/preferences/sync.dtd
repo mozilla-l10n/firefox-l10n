@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Kunci Sinkronisasi">
 <!ENTITY resetSync.label              "Setel Ulang Sinkronisasi">
 <!ENTITY stopUsingAccount.label       "Hentikan Menggunakan Akun Ini">
+<!ENTITY addDevice.label              "Tambah Perangkat">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sinkronkan Peramban">
