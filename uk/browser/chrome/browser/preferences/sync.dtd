@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Мій ключ сихронізації">
 <!ENTITY resetSync.label              "Скинути синхронізацію">
 <!ENTITY stopUsingAccount.label       "Перестати використовувати цей обліковий запис">
+<!ENTITY addDevice.label              "Додати пристрій">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Синхронізація браузера">
