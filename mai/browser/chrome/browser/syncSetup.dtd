@@ -4,22 +4,22 @@
 
 <!ENTITY setup.pickSetupType.description "आपका स्वागत अछि,  जँ  आपने  कहियो  भी पहले &syncBrand.fullName.label; क उपयोग नहि कएल अछि, अहाँकेँ नव खाता बनाबै क जरूरत अछि.">
 <!ENTITY button.createNewAccount.label "एकटा नव खाता बनाउ">
-<!ENTITY button.haveAccount.label "मेरे पास &syncBrand.fullName.label; खाता अछि">
+
 
 <!ENTITY setup.choicePage.title.label     "की आपने  कहियो  पहले &syncBrand.fullName.label; क प्रयोग कएल अछि?">
 <!ENTITY setup.choicePage.new.label       "मैंने  कहियो  भी &syncBrand.shortName.label; क पहले उपयोग नहि कएल अछि">
-<!ENTITY setup.choicePage.existing.label  "मैं पहले सँ &syncBrand.shortName.label; क उपयोग दोसर कंप्यूटर पर कए रहल हूँ">
+<!ENTITY setup.choicePage.existing.label  "हम पहले सँ &syncBrand.shortName.label; क उपयोग दोसर कंप्यूटर पर कए रहल छी">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "सर्वर">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; सर्वर">
-<!ENTITY serverType.custom.label    "किसी मनपसंद सर्वर क उपयोग  करू ">
-<!ENTITY signIn.account.label       "ईमेल पता / प्रयोक्ता नाम">
-<!ENTITY signIn.account.accesskey   "E">
+
+
+
 <!ENTITY signIn.password.label      "कूटशब्द">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "सर्वर URL">
-<!ENTITY signIn.serverURL.accesskey "L">
+
+
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
@@ -29,11 +29,11 @@
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "मैं सहमत हूँ">
+<!ENTITY setup.tosAgree1.label      "हम सहमत छी">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "सेवा शर्तोंTerms of Service">
 <!ENTITY setup.tosAgree2.label      "आओर">
-<!ENTITY setup.ppLink.label         "गोपनीयता नीति से">
+<!ENTITY setup.ppLink.label         "गोपनीयता नीति सँ">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
@@ -56,14 +56,12 @@
 <!ENTITY setup.captchaPage2.title.label     "कृपया पुष्टि करू जे अहाँ रोबोट नहि अछिं">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "खाता सूचना दाखिल  करू ">
+
 <!ENTITY resetPassword.label          "कूटशब्द फेर सेट  करू ">
-<!ENTITY connecting.label             "कनेक्ट कए रहल अछि…">
+
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "अपनी सिंक कुँजी कृप्या दाखिल  करू ">
-<!ENTITY setup.existingSyncKeyPage.description "सिंक कुँजी केँ आपक लेल उत्पन्न कएल गेल अछि अथवा आपने  अपन  स्वयं क दाखिल कएल अछि जखन आपने &syncBrand.fullName.label; क लेल पहली बार साइनअप कएल. ई अहाँक गुड़किल्ली क समान नहि अछि.">
-<!ENTITY existingSyncKeyHelp.description "आप अपने सहेजे सिंक कुँजी केँ अपने दोसर कंप्यूटर मे जाकर आओर सुरक्षा क अंतर्गत सहेजे गुड़किल्ली केँ जाँचकर ढूँढ़ सकैत अछिं.  जँ  अहाँ अखन भी सही सिंक कुँजी नहि पाते अछिं, अहाँ  एकरा  फेर सेट करब क लेल चुन सकैत छी  मुदा  अहाँ सर्वर पर जमा किसी आँकड़े केँ जरूर खो देंगे.">
+
 <!ENTITY lostSyncKey.label            "मेरी सिंक कुँजी गुम हो गई अछि">
 <!ENTITY verifying.label              "जाँच रहल अछि…">
 
@@ -115,4 +113,15 @@
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
 <!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
 <!ENTITY addDevice.dialog.connected.label   "Device Connected">
+
+<!ENTITY button.connect.label    "Connect">
+<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY serverType.custom2.label   "Use a custom server…">
+<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
+<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.account2.label      "Account">
+<!ENTITY signIn.syncKey.label       "Sync Key">
+<!ENTITY signIn.syncKey.accesskey   "K">
+
 
