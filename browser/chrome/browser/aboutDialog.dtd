@@ -10,7 +10,7 @@
 
 <!ENTITY contribute.start           "वाकई बढ़िया? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "शामिल होयें!">
+<!ENTITY contribute.getInvolvedLink "शामिल होएँ!">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
