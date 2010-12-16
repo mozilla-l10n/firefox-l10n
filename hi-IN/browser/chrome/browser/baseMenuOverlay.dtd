@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दें…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY updateCmd.label                "अद्यतन के लिए जाँचेंCheck for Updates…">
-
 <!ENTITY preferencesCmdMac.label        "वरीयताएँ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

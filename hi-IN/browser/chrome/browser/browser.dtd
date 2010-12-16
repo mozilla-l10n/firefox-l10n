@@ -622,3 +622,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY showAllBookmarks2.label "सभी पुस्तचिह्नों को दिखाएँ">
 <!ENTITY preferencesCmd2.accesskey     "O">
 
+<!ENTITY addonBarCloseButton.tooltip  "सहयुक्ति पट्टी बंद करें">

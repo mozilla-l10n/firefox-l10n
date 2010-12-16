@@ -41,3 +41,5 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "सेवा शर्त">
 <!ENTITY prefs.ppLink.label         "गोपनीयता नीति">
+
+<!ENTITY addDevice.label              "कोई युक्ति जोड़ें">
