@@ -44,6 +44,8 @@
 
 <!ENTITY event.title.label "Modifier l'élément" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+
 <!ENTITY newevent.from.label "Du" >
 <!ENTITY newevent.to.label "Au" >
 <!ENTITY newevent.attendees.notify.label "Notifier les participants">
