@@ -100,6 +100,10 @@
 <!ENTITY perm.AllowSession "Autoriser pour la session">
 <!ENTITY perm.Block "Bloquer">
 
+<!ENTITY perm.host.placeholder "Saisissez un nom d'hôte">
+<!ENTITY perm.button.add.label "Ajouter">
+<!ENTITY perm.button.add.accesskey "A">
+
 <!-- preferences -->
 <!ENTITY prefs.description "Les préférences de contenu sont une manière pour &brandShortName; d'enregistrer ses paramètres tels que le niveau de zoom pour un site Web en particulier.">
 
