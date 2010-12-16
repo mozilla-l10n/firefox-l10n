@@ -1,25 +1,25 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
-<!ENTITY pref.smartUpdate.title "Installation des logiciels">
-<!ENTITY smartTitle.label "Installations et mises à jour de logiciels">
-<!ENTITY enableSU.label "Autoriser des sites Web à installer et à mettre à jour des modules complémentaires">
-<!ENTITY enableSU.accesskey "u">
-<!ENTITY allowedSites.label "Sites autorisés">
-<!ENTITY allowedSites.accesskey "S">
+<!ENTITY pref.smartUpdate.title               "Installation des logiciels">
+<!ENTITY smartTitle.label                     "Installations et mises à jour de logiciels">
+<!ENTITY enableSU.label                       "Autoriser des sites Web à installer et à mettre à jour des modules complémentaires">
+<!ENTITY enableSU.accesskey                   "u">
+<!ENTITY viewPermissions.label                "Gérer les permissions">
+<!ENTITY viewPermissions.accesskey            "p">
 
-<!ENTITY verifyUpdates.caption "Mises à jour">
-<!ENTITY autoUpdates.label "Vérifier automatiquement les mises à jour pour :">
-<!ENTITY appUpdates.label "&brandShortName;">
-<!ENTITY appUpdates.accesskey "k">
-<!ENTITY daily.label "tous les jours">
-<!ENTITY appDaily.accesskey "o">
-<!ENTITY weekly.label "toutes les semaines">
-<!ENTITY appWeekly.accesskey "m">
-<!ENTITY extensionsUpdates.label "Modules complémentaires installés">
-<!ENTITY extensionsUpdates.accesskey "d">
-<!ENTITY extensionsDaily.accesskey "s">
-<!ENTITY extensionsWeekly.accesskey "n">
-<!ENTITY addonManagerButton.label "Gérer les modules complémentaires">
-<!ENTITY addonManagerButton.accesskey "G">
+<!ENTITY verifyUpdates.caption                "Mises à jour">
+<!ENTITY autoUpdates.label                    "Vérifier automatiquement les mises à jour pour :">
+<!ENTITY appUpdates.label                     "&brandShortName;">
+<!ENTITY appUpdates.accesskey                 "k">
+<!ENTITY daily.label                          "tous les jours">
+<!ENTITY appDaily.accesskey                   "o">
+<!ENTITY weekly.label                         "toutes les semaines">
+<!ENTITY appWeekly.accesskey                  "m">
+<!ENTITY extensionsUpdates.label              "Modules complémentaires installés">
+<!ENTITY extensionsUpdates.accesskey          "d">
+<!ENTITY extensionsDaily.accesskey            "s">
+<!ENTITY extensionsWeekly.accesskey           "n">
+<!ENTITY addonManagerButton.label             "Gérer les modules complémentaires">
+<!ENTITY addonManagerButton.accesskey         "G">
 
 <!ENTITY whenUpdatesFound.label "Quand des mises à jour pour &brandShortName; sont disponibles">
 <!ENTITY askMe.label "Demander ce qu'il faut faire">
