@@ -26,15 +26,15 @@
 <!ENTITY helpTroubleshootingInfo.label      "विघ्ननिवारण सूचना">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दें…">
+<!ENTITY helpFeedbackPage.label      "प्रतिक्रिया दिअ…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY updateCmd.label                "अद्यतन क लेल जाँचेंCheck for Updates…">
+
 
 <!ENTITY preferencesCmdMac.label        "वरीयता…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "सेवाएँ">
+<!ENTITY servicesMenuMac.label          "सेवा">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; नुकाउ">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
