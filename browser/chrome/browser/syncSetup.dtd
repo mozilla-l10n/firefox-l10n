@@ -4,7 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "आपका स्वागत है, यदि आपने कभी भी पहले &syncBrand.fullName.label; का उपयोग नहीं किया है, आपको नया खाता बनाने की जरूरत है.">
 <!ENTITY button.createNewAccount.label "एक नया खाता बनाएँ">
-<!ENTITY button.haveAccount.label "मेरे पास &syncBrand.fullName.label; खाता है">
+
 
 <!ENTITY setup.choicePage.title.label     "क्या आपने कभी पहले &syncBrand.fullName.label; का प्रयोग किया है?">
 <!ENTITY setup.choicePage.new.label       "मैंने कभी भी &syncBrand.shortName.label; का पहले उपयोग नहीं किया है">
@@ -13,13 +13,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "सर्वर">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; सर्वर">
-<!ENTITY serverType.custom.label    "किसी मनपसंद सर्वर का उपयोग करें">
-<!ENTITY signIn.account.label       "ईमेल पता / उपयोक्ता नाम">
-<!ENTITY signIn.account.accesskey   "E">
+
+
+
 <!ENTITY signIn.password.label      "कूटशब्द">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "सर्वर URL">
-<!ENTITY signIn.serverURL.accesskey "L">
+
+
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
@@ -56,14 +56,13 @@
 <!ENTITY setup.captchaPage2.title.label     "कृपया पुष्टि करें कि आप रोबोट नहीं हैं">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "खाता सूचना दाखिल करें">
+
 <!ENTITY resetPassword.label          "कूटशब्द फिर सेट करें">
-<!ENTITY connecting.label             "कनेक्ट कर रहा है…">
+
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "अपनी सिंक कुंजी कृपया दाखिल करें">
-<!ENTITY setup.existingSyncKeyPage.description "सिंक कुंजी को आपके लिए उत्पन्न किया गया है या आपने अपना स्वयं का दाखिल किया है जब आपने &syncBrand.fullName.label; के लिए पहली बार साइनअप किया. यह आपके कूटशब्द के समान नहीं है.">
-<!ENTITY existingSyncKeyHelp.description "आप अपने सहेजे सिंक कुंजी को अपने दूसरे कंप्यूटर में जाकर और सुरक्षा के अंतर्गत सहेजे कूटशब्द को जाँचकर ढूँढ़ सकते हैं. यदि आप अभी भी सही सिंक कुंजी नहीं पाते हैं, आप इसे फिर सेट करने के लिए चुन सकते हैं लेकिन आप सर्वर पर जमा किसी आँकड़े को जरूर खो देंगे.">
+
+
 <!ENTITY lostSyncKey.label            "मेरी सिंक कुंजी गुम हो गई है">
 <!ENTITY verifying.label              "जाँच रहा है…">
 
@@ -115,4 +114,16 @@
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
 <!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
 <!ENTITY addDevice.dialog.connected.label   "Device Connected">
+
+<!ENTITY button.connect.label    "Connect">
+<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+
+<!ENTITY serverType.custom2.label   "Use a custom server…">
+<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
+<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.account2.label      "Account">
+<!ENTITY signIn.syncKey.label       "Sync Key">
+<!ENTITY signIn.syncKey.accesskey   "K">
+
 
