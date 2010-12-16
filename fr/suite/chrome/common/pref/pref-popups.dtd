@@ -2,19 +2,19 @@
 
 <!ENTITY pref.popups.caption "Fenêtres popup">
 
-<!ENTITY popupBlock.label "Bloquer les fenêtres popup non désirées">
-<!ENTITY popupBlock.accesskey "o">
+<!ENTITY popupBlock.label               "Bloquer les fenêtres popup non désirées">
+<!ENTITY popupBlock.accesskey           "o">
 
-<!ENTITY popupExceptions.label "Sites autorisés…">
-<!ENTITY popupExceptions.accesskey "S">
+<!ENTITY viewPermissions.label          "Gérer les permissions">
+<!ENTITY viewPermissions.accesskey      "m">
 
-<!ENTITY whenBlock.description "Lorsqu'une fenêtre popup a été bloquée :">
-<!ENTITY playSound.label "Jouer un son :">
-<!ENTITY playSound.accesskey "J">
-<!ENTITY systemSound.label "Bip système">
-<!ENTITY systemSound.accesskey "B">
-<!ENTITY customSound.label "Fichier audio personnalisé">
-<!ENTITY customSound.accesskey "F">
+<!ENTITY whenBlock.description          "Lorsqu'une fenêtre popup a été bloquée :">
+<!ENTITY playSound.label                "Jouer un son :">
+<!ENTITY playSound.accesskey            "J">
+<!ENTITY systemSound.label              "Bip système">
+<!ENTITY systemSound.accesskey          "B">
+<!ENTITY customSound.label              "Fichier audio personnalisé">
+<!ENTITY customSound.accesskey          "F">
 
 <!ENTITY selectSound.label "Parcourir…">
 <!ENTITY selectSound.accesskey "P">
