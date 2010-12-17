@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "…ਸੁਝਾਅ ਭੇਜੋ">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY updateCmd.label                "…ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
-
 <!ENTITY preferencesCmdMac.label        "ਮੇਰੀ ਪਸੰਦ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

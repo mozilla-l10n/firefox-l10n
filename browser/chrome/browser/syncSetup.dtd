@@ -4,8 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "ਜੀ ਆਇਆਂ ਨੂੰ, ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਕਦੇ &syncBrand.fullName.label; ਨਹੀਂ ਵਰਤਿਆ ਤਾਂ ਤੁਹਾਨੂੰ ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਉਣਾ ਪਵੇਗਾ।">
 <!ENTITY button.createNewAccount.label "ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਓ">
-<!ENTITY button.haveAccount.label "ਮੇਰੇ ਕੋਲ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਹੈ">
-
+<!ENTITY setup.haveAccount.label "ਮੇਰੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਹੈ">
+<!ENTITY button.connect.label    "ਕੁਨੈਕਟ ਕਰੋ">
 <!ENTITY setup.choicePage.title.label     "ਕੀ ਤੁਸੀਂ &syncBrand.fullName.label; ਨੂੰ ਪਹਿਲਾਂ ਵਰਤਿਆ ਹੈ?">
 <!ENTITY setup.choicePage.new.label       "ਮੈਂ &syncBrand.shortName.label; ਨੂੰ ਪਹਿਲਾਂ ਕਦੇ ਨਹੀਂ ਵਰਤਿਆ">
 <!ENTITY setup.choicePage.existing.label  "ਮੈਂ ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਉੱਤੇ ਪਹਿਲਾਂ ਹੀ &syncBrand.shortName.label; ਵਰਤ ਰਿਹਾ ਹਾਂ">
@@ -13,13 +13,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "ਸਰਵਰ">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; ਸਰਵਰ">
-<!ENTITY serverType.custom.label    "ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ">
-<!ENTITY signIn.account.label       "ਈਮੇਲ ਐਡਰੈੱਸ / ਯੂਜ਼ਰ ਨਾਂ">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ…">
+<!ENTITY signIn.account2.label      "ਅਕਾਊਂਟ">
+<!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "ਪਾਸਵਰਡ">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "ਸਰਵਰ URL">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "ਸਿੰਕ ਕੁੰਜੀ">
+<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "ਅਕਾਊਂਟ ਵੇਰਵਾ">
@@ -53,16 +53,26 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ ਰੋਬੋਟ ਮਸ਼ੀਨ ਨਹੀਂ ਹੋ">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ">
+<!ENTITY addDevice.showMeHow.label          "ਮੈਨੂੰ ਦੱਸੋ ਕਿਵੇਂ।">
+<!ENTITY addDevice.dontHaveDevice.label     "ਇਸ ਸਮੇਂ ਮੇਰੇ ਕੋਲ ਜੰਤਰ ਨਹੀਂ ਹੈ।">
+<!ENTITY addDevice.setup.description.label  "ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਵਿੱਚ ਜਾਉ ਅਤੇ  &#x0022;ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ&#x0022; ਚੁਣੋ।">
+<!ENTITY addDevice.setup.enterCode.label    "ਤਦ, ਇਹ ਕੋਡ ਦਿਉ:">
+<!ENTITY addDevice.dialog.description.label "ਆਪਣਾ ਨਵਾਂ ਜੰਤਰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ, ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਵਿੱਚ ਜਾਉ ਅਤੇ  &#x0022;ਕੁਨੈਕਟ ਕਰੋ&#x0022; ਚੁਣੋ।">
+<!ENTITY addDevice.dialog.enterCode.label   "ਕੋਡ ਦਿਉ, ਜੋ ਜੰਤਰ ਨੇ ਦਿੱਤਾ ਹੈ:">
+<!ENTITY addDevice.dialog.tryAgain.label    "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ">
+<!ENTITY addDevice.dialog.successful.label  "ਜੰਤਰ ਠੀਕ ਤਰ੍ਹਾਂ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। ਸ਼ੁਰੂਆਤੀ ਸਿੰਕ ਕਰਨ ਲਈ ਲੰਮਾ ਸਮਾਂ ਲੱਗਾ ਸਕਦਾ ਹੈ ਅਤੇ ਇਹ ਸਭ ਕੁਝ ਬੈਕਗਰਾਊਂਡ 'ਚ ਮੁਕੰਮਲ ਹੋ ਜਾਵੇਗਾ।">
+<!ENTITY addDevice.dialog.syncKey.label     "ਆਪਣੇ ਜੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਦੇਣੀ ਪਵੇਗੀ। ਇਹ ਕੁੰਜੀ ਨੂੰ ਪਰਿੰਟ ਕਰੋ ਜਾਂ ਸੰਭਾਲ ਤੇ ਆਪਣੇ ਨਾਲ ਰੱਖੋ।">
+<!ENTITY addDevice.dialog.connected.label   "ਜੰਤਰ ਕੁਨੈਕਟ">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "ਅਕਾਊਂਟ ਜਾਣਕਾਰੀ ਦਿਓ">
-<!ENTITY resetPassword.label          "ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
-<!ENTITY connecting.label             "ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…">
 
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਦਿਓ ਜੀ">
-<!ENTITY setup.existingSyncKeyPage.description "ਸਿੰਕ ਕੁੰਜੀ ਤੁਹਾਡੇ ਲਈ ਤਿਆਰ ਕੀਤੀ ਗਈ ਸੀ ਜਾਂ ਤੁਸੀਂ ਆਪਣੀ ਬਣਾਈ ਸੀ, ਜਦੋਂ &syncBrand.fullName.label; ਲਈ ਸਾਇਨ ਇਨ ਕੀਤਾ ਸੀ। ਇਹ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਵਰਗੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।">
-<!ENTITY existingSyncKeyHelp.description "ਤੁਸੀਂ ਆਪਣੀ ਸੰਭਾਲੀ ਸਿੰਕ ਕੁੰਜੀ ਨੂੰ ਆਪਣੇ ਹੋਰ ਕੰਪਿਊਟਰ ਉੱਤੇ ਜਾ ਕੇ ਸੁਰੱਖਿਆ ਵਿੱਚ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਰਾਹੀਂ ਲੱਭ ਸਕਦੇ ਹੋ। ਜੇ ਤੁਹਾਨੂੰ ਹਾਲੇ ਵੀ ਠੀਕ ਸਿੰਕ ਕੁੰਜੀ ਨਹੀਂ ਮਿਲੀ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਸਰਵਰ ਉੱਤੇ ਸਟੋਰ ਕੀਤਾ ਤੁਹਾਡਾ ਡਾਟਾ ਖਤਮ ਹੋ ਜਾਵੇਗਾ।">
+<!ENTITY resetPassword.label          "ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
+
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "ਸਾਈਨ ਇਨ">
+<!ENTITY existingSyncKey.description "ਤੁਸੀਂ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਜਾ ਕੇ  &#x0022;ਮੇਰੀ ਸਿੰਕ ਕੁੰਜੀ&#x0022; ਵਿੱਚੋਂ &#x0022;ਅਕਾਊਂਟ ਪਰਬੰਧ&#x0022; ਰਾਹੀਂ ਵੇਖ ਸਕਦੇ ਹੋ।">
 <!ENTITY lostSyncKey.label            "ਮੈਂ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਗੁਆ ਦਿੱਤੀ ਹੈ">
 <!ENTITY verifying.label              "ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
 
