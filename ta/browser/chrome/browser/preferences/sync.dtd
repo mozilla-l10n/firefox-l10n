@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "எனது ஒத்திசை விசை">
 <!ENTITY resetSync.label              "ஒத்திசைவை மறுஅமை">
 <!ENTITY stopUsingAccount.label       "இந்தக் கணக்கைப் பயன்படுத்துவதை நிறுத்து">
+<!ENTITY addDevice.label              "ஒரு சாதனத்தை சேர்">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "உலாவி ஒத்திசைவு">

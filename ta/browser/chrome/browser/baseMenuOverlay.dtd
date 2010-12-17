@@ -20,7 +20,6 @@
 
 <!ENTITY helpReleaseNotes.label         "வெளியீட்டு அறிக்கை">
 <!ENTITY helpReleaseNotes.accesskey     "N">
-<!ENTITY updateCmd.label                "மேம்படுத்தலுக்கு சரிபார்க்கவும்…">
 
 <!ENTITY preferencesCmdMac.label        "முன்னுரிமைகள்…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

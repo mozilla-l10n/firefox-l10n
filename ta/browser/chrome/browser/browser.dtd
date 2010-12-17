@@ -149,8 +149,6 @@
 <!ENTITY selectAllCmd.label         "அனைத்தையும் தேர்ந்தெடு">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "விருப்பங்கள்…">
-<!ENTITY preferencesCmd.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "முன்னுரிமைகள்">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -495,7 +493,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "அனைத்து தத்தல்களையும் மீளேற்று">
 <!ENTITY  reloadAllTabs.accesskey            "A">
-<!ENTITY showAllBookmarks.label "அனைத்து புத்தகக்குறிகளையும் காட்டு…">
 <!ENTITY showAllTabsCmd.label "அனைத்து தத்தல்களையும் காட்டு">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
@@ -548,3 +545,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomOutButton.tooltip          "சிறிதாக்கு">
 <!ENTITY zoomInButton.tooltip           "பெரிதாக்கு">
 <!ENTITY zoomControls.label             "அளவீடு கட்டுப்பாடுகள்">
+<!ENTITY addonBarCloseButton.tooltip  "கூடுதல் இணைப்பு பட்டையை மூடு">
+<!ENTITY preferencesCmd2.label       "விருப்பங்கள்">
+<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
