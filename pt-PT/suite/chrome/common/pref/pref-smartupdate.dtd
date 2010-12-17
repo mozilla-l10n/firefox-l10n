@@ -3,8 +3,8 @@
 <!ENTITY smartTitle.label                     "Gerir instalação de Software e Actualizações">
 <!ENTITY enableSU.label                       "Permitir que os sítios web instalem extensões e actualizações">
 <!ENTITY enableSU.accesskey                   "e">
-<!ENTITY allowedSites.label                   "Sítios permitidos">
-<!ENTITY allowedSites.accesskey               "e">
+<!ENTITY viewPermissions.label                "Gerir permissões">
+<!ENTITY viewPermissions.accesskey            "p">
 
 <!ENTITY verifyUpdates.caption                "Actualizações">
 <!ENTITY autoUpdates.label                    "Procurar actualizações automaticamente para o:">
