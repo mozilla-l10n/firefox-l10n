@@ -1,1 +1,3 @@
-<!ENTITY closeNotification.tooltip "Dùin an teachdaireachd seo"> 
+<!ENTITY closeNotification.tooltip "Dùin an teachdaireachd seo">
+
+<!ENTITY closeNotificationItem.label "Chan ann an-dràsta">
