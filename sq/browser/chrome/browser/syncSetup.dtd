@@ -4,7 +4,10 @@
 
 <!ENTITY setup.pickSetupType.description "Mirë se vini, nëse nuk e keni përdorur kurrë më parë &syncBrand.fullName.label;-un, lypset të krijoni një llogari të re.">
 <!ENTITY button.createNewAccount.label "Krijoni një Llogari të Re">
-<!ENTITY button.haveAccount.label "Kam një Llogari &syncBrand.fullName.label;-u">
+<!ENTITY setup.haveAccount.label "Kam tashmë një Llogari &syncBrand.fullName.label;-u.">
+<!ENTITY button.connect.label    "Lidhuni">
+
+
 
 <!ENTITY setup.choicePage.title.label     "E keni përdorur &syncBrand.fullName.label; më parë?">
 <!ENTITY setup.choicePage.new.label       "Nuk e kam përdorur kurrë më parë &syncBrand.shortName.label;">
