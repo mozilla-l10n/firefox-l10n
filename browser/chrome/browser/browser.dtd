@@ -540,4 +540,4 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY zoomInButton.tooltip           "ବଡ଼ କରିବା">
 <!ENTITY zoomControls.label             "ଜୁମ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ">
 <!ENTITY urlbar.switchToTab.label     "ଟ୍ୟାବକୁ ସ୍ଥାନାନ୍ତରିତ କରନ୍ତୁ:">
-
+<!ENTITY addonBarCloseButton.tooltip  "ଏଡ-ଅନ ପଟିକୁ ବନ୍ଦ କରନ୍ତୁ">

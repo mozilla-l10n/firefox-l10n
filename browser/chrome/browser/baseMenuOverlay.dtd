@@ -16,7 +16,7 @@
 
 <!ENTITY helpReleaseNotes.label         "ପ୍ରକାଶନ ଟିପ୍ପଣୀ">
 <!ENTITY helpReleaseNotes.accesskey     "N">
-<!ENTITY updateCmd.label                "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ…">
+
 
 <!ENTITY preferencesCmdMac.label        "ପସନ୍ଦ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

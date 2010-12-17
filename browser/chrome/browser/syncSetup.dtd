@@ -4,7 +4,6 @@
 
 <!ENTITY setup.pickSetupType.description "ସ୍ୱାଗତ, ଯଦି ଆପଣ  &syncBrand.fullName.label; କୁ ପୂର୍ବରୁ କଦାପି ବ୍ୟବହାର କରିନାହାନ୍ତି, ତେବେ ଆପଣଙ୍କୁ ଗୋଟିଏ ନୂତନ ଖାତା ପ୍ରସ୍ତୁତ କରିବାକୁ ହେବ।">
 <!ENTITY button.createNewAccount.label "ନୂତନ ଖାତା ପ୍ରସ୍ତୁତ କରନ୍ତୁ">
-<!ENTITY button.haveAccount.label "ମୋ ପାଖରେ ଗୋଟିଏ &syncBrand.fullName.label; ଖାତା ଅଛି">
 
 <!ENTITY setup.choicePage.title.label     "ଆପଣ ପୂର୍ବରୁ &syncBrand.fullName.label; କୁ ବ୍ୟବହାର କରିଛନ୍ତି କି?">
 <!ENTITY setup.choicePage.new.label       "ମୁଁ ପୂର୍ବରୁ &syncBrand.shortName.label; କୁ ବ୍ୟବହାର କରିନାହିଁ">
@@ -13,13 +12,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "ସର୍ଭର">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; ସର୍ଭର">
-<!ENTITY serverType.custom.label    "ଗୋଟିଏ ଇଚ୍ଛାରୂପଣ ସର୍ଭର ବ୍ୟବହାର କରନ୍ତୁ">
-<!ENTITY signIn.account.label       "ଇମେଲ ଠିକଣା / ଚାଳକ ନାମ">
-<!ENTITY signIn.account.accesskey   "E">
+
+
+
 <!ENTITY signIn.password.label      "ପ୍ରବେଶ ସଂକେତ">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "ସର୍ଭର URL">
-<!ENTITY signIn.serverURL.accesskey "L">
+
+
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "ଖାତା ବିବରଣୀ">
@@ -54,14 +53,13 @@
 <!ENTITY setup.captchaPage2.title.label     "ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଆପଣ ଗୋଟିଏ ରବର୍ଟ ନୁହଁନ୍ତି">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "ଖାତା ସୂଚନା ଭରଣ କରନ୍ତୁ">
+
 <!ENTITY resetPassword.label          "ପ୍ରବେଶ ସଂକେତ ପୁନସ୍ଥାପନ କରନ୍ତୁ">
-<!ENTITY connecting.label             "ସଂଯୋଗ କରୁଅଛି…">
+
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "ଦୟାକରି ଆପଣଙ୍କର Sync କି କୁ ଭରଣ କରନ୍ତୁ">
-<!ENTITY setup.existingSyncKeyPage.description "Sync କି ଟି ଆପଣଙ୍କ ପାଇଁ ପ୍ରସ୍ତୁତ କରାଯାଇଥିଲା, କିମ୍ବା ଆପଣ ନିଜ କି ଭରଣ କରିଥିଲେ, ଯେତେବେଳେ ଆପଣପ୍ରଥମ ଥର ପାଇଁ &syncBrand.fullName.label;ରେ ହସ୍ତାକ୍ଷର କରିଥିଲେ। ଏହା ଆପଣଙ୍କର ପ୍ରବେଶ ସଂକେତ ସହ ସମାନ ନୁହଁ।">
-<!ENTITY existingSyncKeyHelp.description "ଆପଣ ନିଜର ସଂରକ୍ଷିତ Sync କି କୁ ଆପଣଙ୍କ ଅନ୍ୟ କମ୍ପୁଟରକୁ ଯାଇ  ଏବଂ ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତକୁ ସୁରକ୍ଷା ଅନ୍ତର୍ଗତରେ ଯାଞ୍ଚକରି ଖୋଜିପାରିବେ। ଯଦି ଆପଣ ଏପର୍ଯ୍ୟନ୍ତ ସଠିକ Sync କି କୁ ପାଇଲେ ନାହିଁ, ତେବେ ଆପଣ ଏହାକୁ ପୁନଃସ୍ଥାପନ କରିବା ପାଇଁ ବାଛିପାରିବେ, କିନ୍ତୁ ଆପଣ ସର୍ଭରରେ ସଂରକ୍ଷିତ ଯେକୌଣସି ତଥ୍ୟକୁ ହରାଇବେ।">
+
+
 <!ENTITY lostSyncKey.label            "ମୁଁ ମୋର  Sync କି କୁ ହରାଇଛି">
 <!ENTITY verifying.label              "ଯାଞ୍ଚ କରୁଅଛି…">
 
@@ -100,3 +98,23 @@
 <!ENTITY setup.successPage.title "ସଂରଚନା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି">
 <!ENTITY changeOptions.label "ଆପଣ ନିମ୍ନରେ ଥିବା Sync ବିକଳ୍ପକୁ ବାଛିକରି ଏହି ପସନ୍ଦକୁ ପରିବର୍ତ୍ତନ କରିପାରିବେ।">
 <!ENTITY continueUsing.label "ଆପଣ ବର୍ତ୍ତମାନ &brandShortName; କୁ ବ୍ୟବହାର କରିପାରିବେ।">
+<!ENTITY addDevice.dialog.description.label "ଆପଣଙ୍କର ନୂତନ ଉପକରଣଟିକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, ଉପକରଣରେ ଥିବା &syncBrand.shortName.label; ବିକଳ୍ପଗୁଡ଼ିକୁ ଯାଆନ୍ତୁ ଏବଂ &#x0022;ସଂଯୋଗ କରନ୍ତୁ&#x0022; କୁ ବାଛନ୍ତୁ।">
+<!ENTITY addDevice.dialog.enterCode.label   "ଉପକରଣଟି ପ୍ରଦାନ କରିଥିବା ସଂକେତକୁ ଭରଣ କରନ୍ତୁ:">
+<!ENTITY addDevice.dialog.tryAgain.label    "ଦୟାକରି ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।">
+<!ENTITY addDevice.dialog.successful.label  "ଏହି ଉପକରଣଟିକୁ ସଫଳତାର ସହିତ ଯୋଗକରାଯାଇଛି। ପ୍ରାରମ୍ଭିକ ସନ୍ତୁଳନ ପାଇଁ ଅନେକ ସମୟ ଲାଗିପାରେ ଏବଂ ପୃଷ୍ଠଭୂମିରେ ସମାପ୍ତ ହୋଇଥାଏ।">
+<!ENTITY addDevice.dialog.syncKey.label     "ସକ୍ରିୟ କରିବା ପାଇଁ ଆପଣଙ୍କୁ  ନିଜର Sync କି ଭରଣ କରିବା ଆବଶ୍ୟକ। ଦୟାକରି ଏହି କି କୁ ମୁଦ୍ରଣ କରନ୍ତୁ ଅଥବା ସଂରକ୍ଷଣ କରନ୍ତୁ ଏବଂ ନିଅନ୍ତୁ।">
+<!ENTITY addDevice.dialog.connected.label   "ଉପକରଣଟି ସଂଯୁକ୍ତ ହୋଇଛି">
+<!ENTITY addDevice.dontHaveDevice.label     "ମୋ ପାଖରେ ସେହି ଉପକରଣଟି ନାହିଁ">
+<!ENTITY addDevice.setup.description.label  "ସକ୍ରିୟ କରିବା ପାଇଁ, ଆପଣଙ୍କ ଅନ୍ୟ ଉପକରଣରେ ଥିବା &syncBrand.shortName.label; ବିକଳ୍ପଗୁଡ଼ିକୁ ଯାଆନ୍ତୁ ଏବଂ  &#x0022; କୁ ବାଛିକରି ଗୋଟିଏ &#x0022;ଉପକରଣକୁ ଯୋଡନ୍ତୁ।">
+<!ENTITY addDevice.setup.enterCode.label    "ତାପରେ, ଏହି ସଂକେତକୁ ଭରଣ କରନ୍ତୁ:">
+<!ENTITY addDevice.showMeHow.label          "ଏହା କିପରି ହେଉଛି ମୋତେ ଦେଖନ୍ତୁ।">
+<!ENTITY addDevice.title.label              "ଗୋଟିଏ ଉପକରଣ ଯୋଡନ୍ତୁ">
+<!ENTITY button.connect.label    "ସଂଯୋଗ କରନ୍ତୁ">
+<!ENTITY existingSyncKey.description "ଆପଣଙ୍କ ଅନ୍ୟ ଉପକରଣରେ&syncBrand.shortName.label; ବିକଳ୍ପକୁ ଯାଇ,  ଏବଂ &#x0022;Manage Account&#x0022; ଅନ୍ତର୍ଗତରେ ଥିବା &#x0022;My Sync Key&#x0022; କୁ ବାଛିକରି ପାଇପାରିବେ।">
+<!ENTITY serverType.custom2.label   "ଗୋଟିଏ ଇଚ୍ଛାରୂପଣ ସର୍ଭର ବ୍ୟବହାର କରନ୍ତୁ…">
+<!ENTITY setup.haveAccount.label "ମୋ ପାଖରେ ପୂର୍ବରୁ ଗୋଟିଏ &syncBrand.fullName.label; ଖାତା ଅଛି।">
+<!ENTITY setup.signInPage.title.label "ସାଇନ ଇନ">
+<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.account2.label      "ଖାତା">
+<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.syncKey.label       "Sync କି">
