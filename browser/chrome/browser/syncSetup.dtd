@@ -12,7 +12,6 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "சேவையகம்">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; சேவையகம்">
-<!ENTITY serverType.custom.label    "Use a custom server">
 <!ENTITY signIn.account2.label       "மின்னஞ்சல் முகவரி / பயனர் பெயர்">
 <!ENTITY signIn.account2.accesskey   "E">
 <!ENTITY signIn.password.label      "கடவுச்சொல்">
@@ -70,9 +69,6 @@
 <!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "உங்கள் ஒத்திசைவு விசையை உள்ளிடவும்">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
 <!ENTITY lostSyncKey.label            "நான் எனது ஒத்திசைவு விசையை தொலைத்துவிட்டேன்">
 <!ENTITY verifying.label              "சரிபார்க்கிறது…">
 
@@ -109,3 +105,10 @@
 <!ENTITY setup.successPage.title "அமைவு முடிந்தது">
 <!ENTITY changeOptions.label "You can change this preference by selecting  Sync Options below.">
 <!ENTITY continueUsing.label "You may now  continue using &brandShortName;.">
+<!ENTITY button.connect.label    "இணை">
+<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to  &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY serverType.custom2.label   "ஒரு தனிபயன் சேவையகத்தை பயன்படுத்து…">
+<!ENTITY setup.haveAccount.label "நான் ஏற்கனவே ஒரு &syncBrand.fullName.label; கணக்கு வைத்திருக்கிறேன்.">
+<!ENTITY setup.signInPage.title.label "உள்நுழை">
+
+
