@@ -31,9 +31,8 @@
 
 <!ENTITY helpReleaseNotes.label "टिप">
 <!ENTITY helpReleaseNotes.accesskey "N">
-<!ENTITY updateCmd.label "अद्ययावताकरता तपासा...">
-
 <!--
+<!ENTITY updateCmd.label "अद्ययावताकरता तपासा...">
 <!ENTITY updateCmd.accesskey "o">
 -->
 
