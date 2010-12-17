@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "ਮੇਰੀ ਸਿੰਕ ਕੁੰਜੀ">
 <!ENTITY resetSync.label              "ਸਿੰਕ ਮੁੜ-ਸੈੱਟ">
 <!ENTITY stopUsingAccount.label       "ਇਹ ਅਕਾਊਂਟ ਦੀ ਵਰਤੋਂ ਰੋਕੋ">
+<!ENTITY addDevice.label              "ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "ਬਰਾਊਜ਼ਰ ਸਿੰਕ">
