@@ -25,8 +25,8 @@
 
 <!ENTITY  clickHere.label                 "Pogledajte više informacija o ovoj dopuni">
 
-<!ENTITY  evangelism.desc                 "Izričito vam preporučano da primjenite ovu dopunu 
-                                           &brandShortName; što je prije moguće.">
+<!ENTITY  evangelism.desc                 "Izričito vam preporučamo da primjenite ovu &brandShortName; 
+                                           dopunu što je prije moguće.">
 
 <!ENTITY  license.instructions            "Ako se slažete s uvjetima ovog sporazuma, kliknite na Slažem se 
                                            niže kako biste nastavili instalaciju ove dopune.">
