@@ -17,7 +17,6 @@
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
 <!ENTITY helpReleaseNotes.label         "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು">
 <!ENTITY helpReleaseNotes.accesskey     "N">
-<!ENTITY updateCmd.label                "ಅಪ್ಡೇಟ್‍ಗಳಿಗಾಗಿ ಪರೀಕ್ಷಿಸು...">
 <!ENTITY preferencesCmdMac.label        "ಆದ್ಯತೆಗಳು...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
