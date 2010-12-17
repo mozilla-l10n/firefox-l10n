@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Moj Sync ključ">
 <!ENTITY resetSync.label              "Resetiranje Synca">
 <!ENTITY stopUsingAccount.label       "Prekid korištenja ovog računa">
+<!ENTITY addDevice.label              "Dodaj uređaj">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sinkronizacija preglednika">
