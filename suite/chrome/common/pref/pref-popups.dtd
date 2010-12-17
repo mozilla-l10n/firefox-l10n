@@ -5,8 +5,8 @@
 <!ENTITY popupBlock.label               "Bloquear ventanas emergentes no solicitadas">
 <!ENTITY popupBlock.accesskey           "B">
 
-<!ENTITY popupExceptions.label          "Sitios permitidos…">
-<!ENTITY popupExceptions.accesskey      "S">
+<!ENTITY viewPermissions.label          "Administrar permisos">
+<!ENTITY viewPermissions.accesskey      "m">
 
 <!ENTITY whenBlock.description          "Cuando una ventana emergente ha sido bloqueada:">
 <!ENTITY playSound.label                "Reproducir un sonido:">
