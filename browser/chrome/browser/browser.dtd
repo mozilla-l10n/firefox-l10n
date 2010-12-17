@@ -570,3 +570,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY preferencesCmd2.label       "Mogućnosti">
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY showAllBookmarks2.label "Prikaži sve zabilješke">
+
+<!ENTITY addonBarCloseButton.tooltip  "Zatvori traku dodataka">
