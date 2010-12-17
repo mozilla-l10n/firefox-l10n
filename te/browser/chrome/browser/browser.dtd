@@ -539,3 +539,5 @@ can reach it easily. -->
 <!ENTITY zoomControls.label             "జూమ్ నియంత్రికలు">
 <!ENTITY zoomInButton.tooltip           "జూమ్ పెంచు">
 <!ENTITY zoomOutButton.tooltip          "జూమ్ తగ్గించు">
+
+<!ENTITY addonBarCloseButton.tooltip  "ఏడ్-ఆన్ బార్ మూయి">

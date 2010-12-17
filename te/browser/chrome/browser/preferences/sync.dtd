@@ -41,3 +41,5 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "సేవా నిభందనలు">
 <!ENTITY prefs.ppLink.label         "గోప్యతా విదానం">
+
+<!ENTITY addDevice.label              "ఒక పరికరమును జతచేయి">
