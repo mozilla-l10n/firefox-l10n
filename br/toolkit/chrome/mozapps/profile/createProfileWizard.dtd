@@ -1,5 +1,5 @@
 <!ENTITY newprofile.title             "Strobineller ar c'hrouiñ aelad">
-<!ENTITY window.size                  "led : 45em; sav : 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; a vir stlennoù a-zivout hoc'h arventennoù ha gwellvezioù e-barzh hoc'h aelad personel.">
