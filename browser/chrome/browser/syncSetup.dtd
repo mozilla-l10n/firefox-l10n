@@ -4,7 +4,6 @@
 
 <!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
 <!ENTITY button.createNewAccount.label "ஒரு புதிய கணக்கை உருவாக்கவும்">
-<!ENTITY button.haveAccount.label "நான் ஒரு &syncBrand.fullName.label; கணக்கு வைத்திருக்கிறேன்">
 
 <!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
 <!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
@@ -14,12 +13,10 @@
 <!ENTITY server.label               "சேவையகம்">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; சேவையகம்">
 <!ENTITY serverType.custom.label    "Use a custom server">
-<!ENTITY signIn.account.label       "மின்னஞ்சல் முகவரி / பயனர் பெயர்">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY signIn.account2.label       "மின்னஞ்சல் முகவரி / பயனர் பெயர்">
+<!ENTITY signIn.account2.accesskey   "E">
 <!ENTITY signIn.password.label      "கடவுச்சொல்">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "சேவையக URL">
-<!ENTITY signIn.serverURL.accesskey "L">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "கணக்கு விவரங்கள்">
@@ -30,7 +27,7 @@
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "சேவையின் விதிமுறை">
-<!ENTITY setup.tosAgree1.accesskey  "மற்றும்a">
+<!ENTITY setup.tosAgree1.accesskey  "மற்றும்">
 <!ENTITY setup.tosLink.label        "தனிமை கொள்கை">
 <!ENTITY setup.tosAgree2.label      "நான்">
 <!ENTITY setup.ppLink.label         "ஏற்கிறேன்">
@@ -43,8 +40,6 @@
 <!ENTITY syncKeyEntry.label        "உங்கள் ஒத்திசை விசை">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "உருவாக்கு">
-<!ENTITY syncKeyStrength.label     "திறன்:">
-<!ENTITY syncKeyHelp.label         "திறன் என்றால் என்ன?">
 <!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
 <!ENTITY button.syncKeyBackup.print.label     "அச்சிடு…">
@@ -56,9 +51,23 @@
 <!ENTITY setup.captchaPage2.title.label     "நீங்கள் ஒரு ரோபாட் இல்லை என்பதை உறுதிப்படுத்தவும்">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "கணக்கு தகவலை உள்ளிடவும்">
 <!ENTITY resetPassword.label          "கடவுச்சொல்லை மறுஅமை">
-<!ENTITY connecting.label             "இணைக்கிறது…">
+
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "ஒரு சாதனத்தை சேர்">
+<!ENTITY addDevice.showMeHow.label          "எவ்வாறு என எனக்கு காட்டு.">
+<!ENTITY addDevice.dontHaveDevice.label     "என்னிடம் சாதனம் இல்லை">
+<!ENTITY addDevice.setup.description.label  "To activate,  go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "பின், இந்த குறியீட்டை உள்ளிடு:">
+<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "சாதனம் கொடுக்கிற குறியீட்டை உள்ளிடவும்:">
+<!ENTITY addDevice.dialog.tryAgain.label    "மீண்டும் முயற்சிக்கவும்.">
+<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added.  The initial synchronization can take several minutes and will finish in the background.">
+<!ENTITY addDevice.dialog.syncKey.label     "To activate your device  you will need to enter your Sync Key. Please print or save this key and take it with you.">
+<!ENTITY addDevice.dialog.connected.label   "சாதனம் இணைக்கப்பட்டது">
+
+<!ENTITY signIn.syncKey.label       "ஒத்திசை விசை">
+<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- Existing Account Page 2: Sync Key -->
 <!ENTITY setup.existingSyncKeyPage.title "உங்கள் ஒத்திசைவு விசையை உள்ளிடவும்">
