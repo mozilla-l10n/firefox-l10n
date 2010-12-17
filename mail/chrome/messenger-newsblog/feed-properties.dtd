@@ -1,8 +1,8 @@
 <!-- Feed Properties Dialog -->
 <!ENTITY window.title             "Veti Prurjeje">
 
-<!ENTITY feedFolder.label         "Ruaj Artikuj në: ">
-<!ENTITY feedFolder.accesskey     "R">
+<!ENTITY feedFolder.label         "Artikujt Ruaji në: ">
+<!ENTITY feedFolder.accesskey     "A">
 
 <!ENTITY feedLocation.label       "URL Prurjeje: ">
 <!ENTITY feedLocation.accesskey   "U">
