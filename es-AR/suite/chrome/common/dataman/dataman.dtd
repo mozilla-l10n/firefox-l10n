@@ -39,6 +39,11 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Todos los tipos de datos">
+<!ENTITY select.cookies.label "Solo cookies">
+<!ENTITY select.permissions.label "Solo permisos">
+<!ENTITY select.preferences.label "Solo preferencias">
+<!ENTITY select.passwords.label "Solo contraseñas">
 <!ENTITY domain.search.placeholder "Dominios de búsqueda">
 <!ENTITY domain.search.key "b">
 
@@ -93,6 +98,10 @@
 <!ENTITY perm.Allow "Permitir">
 <!ENTITY perm.AllowSession "Permitir por esta sesión">
 <!ENTITY perm.Block "Bloquear">
+
+<!ENTITY perm.host.placeholder "Ingrese nombre del servidor">
+<!ENTITY perm.button.add.label "Agregar">
+<!ENTITY perm.button.add.accesskey "A">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Las preferencias de contenido son una forma de guardar la configuración de &brandShortName;, como niveles de zoom, específicos para un sitio web.">
