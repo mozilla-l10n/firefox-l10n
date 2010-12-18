@@ -2,8 +2,8 @@
 <!ENTITY pref.popups.caption "Всплывающие окна">
 <!ENTITY popupBlock.label "Блокировать всплывающие окна">
 <!ENTITY popupBlock.accesskey "л">
-<!ENTITY popupExceptions.label "Разрешённые веб-сайты…">
-<!ENTITY popupExceptions.accesskey "з">
+<!ENTITY viewPermissions.label "Управление разрешениями">
+<!ENTITY viewPermissions.accesskey "р">
 <!ENTITY whenBlock.description "Если всплывающее окно было заблокировано:">
 <!ENTITY playSound.label "Подать звуковой сигнал:">
 <!ENTITY playSound.accesskey "о">

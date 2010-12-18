@@ -2,8 +2,8 @@
 <!ENTITY smartTitle.label "Управление установкой и обновлением программного обеспечения">
 <!ENTITY enableSU.label "Разрешить веб-сайтам устанавливать расширения и обновления">
 <!ENTITY enableSU.accesskey "з">
-<!ENTITY allowedSites.label "Разрешённые веб-сайты">
-<!ENTITY allowedSites.accesskey "ш">
+<!ENTITY viewPermissions.label "Управление разрешениями">
+<!ENTITY viewPermissions.accesskey "п">
 <!ENTITY verifyUpdates.caption "Обновления">
 <!ENTITY autoUpdates.label "Автоматически проверять наличие обновлений для:">
 <!ENTITY appUpdates.label "&brandShortName;">
