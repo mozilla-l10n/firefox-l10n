@@ -560,3 +560,6 @@
 <!ENTITY showAllBookmarks2.label "सर्व वाचणखुणा दाखवा">
 <!ENTITY preferencesCmd2.label       "पर्याय">
 <!ENTITY preferencesCmd2.accesskey     "O">
+
+<!ENTITY addonBarCloseButton.tooltip  "ॲडऑन पट्टी बंद करा">
+
