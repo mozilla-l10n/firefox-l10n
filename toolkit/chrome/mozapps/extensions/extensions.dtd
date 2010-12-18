@@ -8,7 +8,7 @@
 <!ENTITY listEmpty.search.label "Ни одного подходящего дополнения не найдено">
 <!ENTITY listEmpty.button.label "Узнать больше о дополнениях">
 <!ENTITY installAddonFromFile.label "Установить дополнение из файла…">
-<!ENTITY installAddonFromFile.accesskey "с">
+<!ENTITY installAddonFromFile.accesskey "а">
 <!ENTITY toolsMenu.tooltip "Инструменты для всех дополнений">
 <!ENTITY cmd.back.tooltip "На предыдущую страницу">
 <!ENTITY cmd.forward.tooltip "На следующую страницу">
@@ -29,7 +29,7 @@
 <!ENTITY view.recentUpdates.label "Недавние обновления">
 <!ENTITY view.availableUpdates.label "Доступные обновления">
 <!ENTITY updates.checkForUpdates.label "Проверить наличие обновлений">
-<!ENTITY updates.checkForUpdates.accesskey "в">
+<!ENTITY updates.checkForUpdates.accesskey "о">
 <!ENTITY updates.viewUpdates.label "Показать недавние обновления">
 <!ENTITY updates.viewUpdates.accesskey "к">
 <!ENTITY updates.updateAddonsAutomatically.label "Автоматически обновлять дополнения">
@@ -47,7 +47,7 @@
 <!ENTITY updates.updateSelected.label "Установить обновления">
 <!ENTITY updates.updateSelected.tooltip "Установить доступные обновления из этого списка">
 <!ENTITY cmd.showDetails.label "Подробнее">
-<!ENTITY cmd.showDetails.accesskey "д">
+<!ENTITY cmd.showDetails.accesskey "р">
 <!ENTITY cmd.findUpdates.label "Найти обновления">
 <!ENTITY cmd.findUpdates.accesskey "а">
 <!ENTITY cmd.preferencesWin.label "Настройки">
@@ -59,13 +59,13 @@
 <!ENTITY cmd.enableAddon.label "Включить">
 <!ENTITY cmd.enableAddon.accesskey "ч">
 <!ENTITY cmd.disableAddon.label "Отключить">
-<!ENTITY cmd.disableAddon.accesskey "т">
+<!ENTITY cmd.disableAddon.accesskey "ю">
 <!ENTITY cmd.enableTheme.label "Использовать тему">
-<!ENTITY cmd.enableTheme.accesskey "с">
+<!ENTITY cmd.enableTheme.accesskey "п">
 <!ENTITY cmd.disableTheme.label "Больше не использовать тему">
-<!ENTITY cmd.disableTheme.accesskey "с">
+<!ENTITY cmd.disableTheme.accesskey "п">
 <!ENTITY cmd.installAddon.label "Установить">
-<!ENTITY cmd.installAddon.accesskey "с">
+<!ENTITY cmd.installAddon.accesskey "н">
 <!ENTITY cmd.uninstallAddon.label "Удалить">
 <!ENTITY cmd.uninstallAddon.accesskey "д">
 <!ENTITY cmd.showPreferencesWin.label "Настройки">
