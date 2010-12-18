@@ -37,6 +37,11 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY dataman.windowTitle "Менеджер данных">
 <!ENTITY selectAll.key "a">
+<!ENTITY select.all.label "Все типы данных">
+<!ENTITY select.cookies.label "Только куки">
+<!ENTITY select.permissions.label "Только разрешения">
+<!ENTITY select.preferences.label "Только настройки">
+<!ENTITY select.passwords.label "Только пароли">
 <!ENTITY domain.search.placeholder "Поиск доменов">
 <!ENTITY domain.search.key "f">
 <!ENTITY domain.tree.domain.label "Домен">
@@ -77,6 +82,9 @@
 <!ENTITY perm.Allow "Разрешить">
 <!ENTITY perm.AllowSession "Разрешить на сессию">
 <!ENTITY perm.Block "Блокировать">
+<!ENTITY perm.host.placeholder "Введите имя узла">
+<!ENTITY perm.button.add.label "Добавить">
+<!ENTITY perm.button.add.accesskey "б">
 <!ENTITY prefs.description "Настройки содержимого это способ, используемый &brandShortName;, для сохранения своих настроек, например масштаб, специфичный для веб-сайта.">
 <!ENTITY prefs.tree.host.label "Веб-сайт">
 <!ENTITY prefs.tree.name.label "Имя настройки">

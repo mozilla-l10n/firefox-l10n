@@ -7,8 +7,8 @@
 <!ENTITY accOrgImagesRadio.accesskey "т">
 <!ENTITY disableImages.label "Не загружать изображения">
 <!ENTITY disableImages.accesskey "Н">
-<!ENTITY viewImages.label "Управление правами на загрузку изображений">
-<!ENTITY viewImages.accesskey "У">
+<!ENTITY viewPermissions.label "Управление разрешениями">
+<!ENTITY viewPermissions.accesskey "п">
 <!ENTITY animLoopingTitle.label "Проигрывать анимацию">
 <!ENTITY animLoopAsSpecified.label "Проигрывать анимацию столько раз, сколько указано в изображении">
 <!ENTITY animLoopAsSpecified.accesskey "П">
