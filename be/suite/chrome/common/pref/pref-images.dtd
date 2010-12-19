@@ -7,8 +7,8 @@
 <!ENTITY accOrgImagesRadio.accesskey "з">
 <!ENTITY disableImages.label "Не загружаць ніякіх малюнкаў">
 <!ENTITY disableImages.accesskey "н">
-<!ENTITY viewImages.label "Уладкаваць дазволы малюнкаў">
-<!ENTITY viewImages.accesskey "Д">
+<!ENTITY viewPermissions.label "Кіраваць дазволамі">
+<!ENTITY viewPermissions.accesskey "д">
 <!ENTITY animLoopingTitle.label "Ажыўленыя малюнкі павінны паўтарацца">
 <!ENTITY animLoopAsSpecified.label "Столькі, колькі малюнак прызначыў">
 <!ENTITY animLoopAsSpecified.accesskey "к">

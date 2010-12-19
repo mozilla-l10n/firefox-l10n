@@ -12,6 +12,7 @@
 <!ENTITY mySyncKey.label "Мой ключ Sync">
 <!ENTITY resetSync.label "Узнавіць сінхранізацыю">
 <!ENTITY stopUsingAccount.label "Перастаць карыстацца гэтым рахункам">
+<!ENTITY addDevice.label "Дадаць збудову">
 <!ENTITY syncPrefsCaption.label "Сінхранізацыя азіральніка">
 <!ENTITY syncComputerName.label "Назва кампутара:">
 <!ENTITY syncComputerName.accesskey "к">

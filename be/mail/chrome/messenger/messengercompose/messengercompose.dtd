@@ -183,7 +183,7 @@
 <!ENTITY followupAddr.label "Водгук-Да:">
 <!ENTITY subject.label "Тэма:">
 <!ENTITY subject.accesskey "Т">
-<!ENTITY attachments.label "Далучэнні">
+<!ENTITY attachments.label "Далучэнні:">
 <!ENTITY attachments.accesskey "ч">
 <!ENTITY SmileButton.tooltip "Уставіць тварык-усмешку">
 <!ENTITY smiley1Cmd.label "Усмешка">

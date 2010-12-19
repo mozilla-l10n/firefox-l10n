@@ -2,8 +2,8 @@
 <!ENTITY pref.popups.caption "Вокны-вынырцы">
 <!ENTITY popupBlock.label "Затрымліваць незапатрабаваныя вокны-вынырцы">
 <!ENTITY popupBlock.accesskey "т">
-<!ENTITY popupExceptions.label "Дазволеныя сеціўныя пляцоўкі…">
-<!ENTITY popupExceptions.accesskey "Д">
+<!ENTITY viewPermissions.label "Кіраваць дазволамі">
+<!ENTITY viewPermissions.accesskey "д">
 <!ENTITY whenBlock.description "Калі было затрымана акно-вынырац:">
 <!ENTITY playSound.label "Граць гук:">
 <!ENTITY playSound.accesskey "г">
