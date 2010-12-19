@@ -89,7 +89,7 @@
 <!ENTITY goHomeCmd.label "Дадому">
 <!ENTITY goHomeCmd.accesskey "Д">
 <!ENTITY historyRestoreLastSession.label "Аднавіць папярэднюю сэсію">
-<!ENTITY historyRestoreLastSessionCmd.accesskey "А">
+<!ENTITY historyRestoreLastSession.accesskey "А">
 <!ENTITY bookmarksMenu.label "Закладкі">
 <!ENTITY bookmarksMenu.accesskey "З">
 <!ENTITY addCurPageCmd.label "Дадаць закладку да гэтай старонкі">

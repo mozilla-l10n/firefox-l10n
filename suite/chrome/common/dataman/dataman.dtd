@@ -37,6 +37,11 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY dataman.windowTitle "Кіраўнік здаткаў">
 <!ENTITY selectAll.key "a">
+<!ENTITY select.all.label "Усе тыпы здаткаў">
+<!ENTITY select.cookies.label "Толькі біркі">
+<!ENTITY select.permissions.label "Толькі дазволы">
+<!ENTITY select.preferences.label "Толькі перавагі">
+<!ENTITY select.passwords.label "Толькі паролі">
 <!ENTITY domain.search.placeholder "Пошук даменаў">
 <!ENTITY domain.search.key "f">
 <!ENTITY domain.tree.domain.label "Дамен">
@@ -77,6 +82,9 @@
 <!ENTITY perm.Allow "Дазволіць">
 <!ENTITY perm.AllowSession "Дазволіць на час сэсіі">
 <!ENTITY perm.Block "Блакаваць">
+<!ENTITY perm.host.placeholder "Увядзіце назву трымальніка">
+<!ENTITY perm.button.add.label "Дадаць">
+<!ENTITY perm.button.add.accesskey "Д">
 <!ENTITY prefs.description "Перавагі змесціва ўжываюцца &brandShortName; для захавання яго наладжванняў, такіх як узровень павялічэння, асабліва для сеціўных пляцовак.">
 <!ENTITY prefs.tree.host.label "Пляцоўка Сеціва">
 <!ENTITY prefs.tree.name.label "Назва перавагі">
