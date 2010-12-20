@@ -27,6 +27,7 @@
  - Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
  - Fred Jendrzejewski <fred.jen@web.de>
  - Simon Vaillancourt <simon.at.orcl@gmail.com>
+ -   Gianfranco Balza <bv1578@gmail.com>
  -
  - Alternatively, the contents of this file may be used under the terms of
  - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,6 +45,7 @@
 
 <!ENTITY event.title.label "Upravit položku">
 
+<!ENTITY event.dialog.keepDurationButton.tooltip  "">
 
 <!ENTITY newevent.from.label "Od">
 <!ENTITY newevent.to.label "Do">
@@ -67,6 +69,7 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label "&#37; dokončeno">
+
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2 "I">
 <!ENTITY event.dialog.new.task.key2 "D">
@@ -97,8 +100,8 @@
 <!ENTITY event.menu.item.close.accesskey "Z">
 <!ENTITY event.menu.item.save.label "Uložit">
 <!ENTITY event.menu.item.save.accesskey "l">
-<!ENTITY  event.menu.item.saveandclose.label "Uložit a zavřít">
-<!ENTITY  event.menu.item.saveandclose.accesskey "U">
+<!ENTITY event.menu.item.saveandclose.label "Uložit a zavřít">
+<!ENTITY event.menu.item.saveandclose.accesskey "U">
 <!ENTITY event.menu.item.delete.label "Smazat…">
 <!ENTITY event.menu.item.delete.accesskey "S">
 <!ENTITY event.menu.item.page.setup.label "Vzhled stránky…">
