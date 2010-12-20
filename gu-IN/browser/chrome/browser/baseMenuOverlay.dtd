@@ -17,7 +17,7 @@
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
 <!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY helpReleaseNotes.label         "પ્રકાશન નોંધો">
-<!ENTITY updateCmd.label                "સુધારાઓ માટે ચકાસો...">
+
 
 <!ENTITY preferencesCmdMac.label        "પસંદગીઓ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
