@@ -5,6 +5,8 @@
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "ਇਸ ਤੋਂ ਵੱਡੇ ਸੁਨੇਹੇ">
 <!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY autosyncNotDownload.label "Don't download messages larger than">
+<!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "ਦਿਨ ਪੁਰਾਣੇ">
 <!ENTITY message.label "ਸੁਨੇਹੇ">
