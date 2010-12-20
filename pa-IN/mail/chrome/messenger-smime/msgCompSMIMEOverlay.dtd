@@ -1,13 +1,9 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "ਸੁਰੱਖਿਆ">
-<!ENTITY securityMenu.accesskey "e">
 
 <!ENTITY menu_securityEncryptRequire.label "ਇਹ ਸੁਨੇਹਾ ਇਕ੍ਰਿਪਟ">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-<!ENTITY menu_securityNoEncryption.label "ਇਸ ਸੁਨੇਹੇ ਨੂੰ ਇਕ੍ਰਿਪਟਡ ਨਾ ਕਰੋ">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
 
 <!ENTITY menu_securitySign.label "ਇਹ ਸੁਨੇਹਾ ਡਿਜ਼ੀਟਲ ਦਸਤਖਤੀ">
 <!ENTITY menu_securitySign.accesskey "S">

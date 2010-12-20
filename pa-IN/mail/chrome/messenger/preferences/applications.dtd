@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "ਖੋਜ">
+<!ENTITY  filter.placeholder          "Search">
 
 <!ENTITY saveTo.label                 "ਫਾਇਲਾਂ ਇੱਥੇ ਸੰਭਾਲੋ">
 <!ENTITY saveTo.accesskey             "S">

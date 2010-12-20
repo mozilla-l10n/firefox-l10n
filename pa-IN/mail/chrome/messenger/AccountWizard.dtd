@@ -67,7 +67,8 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਭੇਜਣ ਵਾਲਾ ਸਰਵਰ (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, ਵਰਤਿਆ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਸੋਧ ਮੇਨੂ ਤੋਂ ਮੇਲ ਅਤੇ ਨਿਊਜ਼ਗਰੁੱਪ ਅਕਾਊਂਟ ਸੈਟਿੰਗ ਵਿੱਚੋਂ ਭੇਜਣ ਵਾਲੀ ਸਰਵਰ ਸੈਟਿੰਗ ਬਦਲ ਸਕਦੇ ਹੋ।">
+<!ENTITY haveSmtp1.suffix2 "&quot;, will be used. You can change outgoing servers in the account settings.">
+
 
 <!-- Entities for Login page -->
 
@@ -85,13 +86,14 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਭੇਜਣ ਵਾਲਾ (SMTP) ਯੂਜ਼ਰ ਨਾਂ, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, ਵਰਤਿਆ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਸੋਧ ਮੇਨੂ ਵਿੱਚੋਂ ਪੱਤਰ ਤੇ ਖ਼ਬਰ-ਸਮੂਹ ਅਕਾਊਂਟ ਸੈਟਿੰਗ ਦੀ ਚੋਣ ਕਰਕੇ ਭੇਜਣ ਵਾਲੀ ਸੈਟਿੰਗ ਸੋਧ ਸਕਦੇ ਹੋ।">
+<!ENTITY haveSmtp2.suffix2 "&quot;, will be used. You can change outgoing servers in the account settings.">
+
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "ਤੁਹਾਡਾ ਭੇਜਣ ਵਾਲਾ (SMTP) ਸਰਵਰ, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, ਤੁਹਾਡੇ ਆਉਣ ਵਾਲੇ ਸਰਵਰ ਦੇ ਨਾਲ ਮਿਲਦਾ ਹੈ ਹੈ, ਤੁਹਾਡਾ ਆਉਣ ਵਾਲਾ ਯੂਜ਼ਰ ਨਾਂ ਇਸ ਨੂੰ ਇਸਤੇਮਾਲ ਕਰਨ ਵਰਤਿਆ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਸੋਧ ਮੇਨੂ ਵਿੱਚੋਂ ਮੇਲ ਤੇ ਨਿਊਜ਼ਗਰੁੱਪ ਅਕਾਊਂਟ ਸੈਟਿੰਗ ਦੀ ਚੋਣ ਕਰਕੇ ਭੇਜਣ ਵਾਲੀ ਸੈਟਿੰਗ ਸੋਧ ਸਕਦੇ ਹੋ।">
+<!ENTITY haveSmtp3.suffix2 "&quot;, is identical to your incoming server, your incoming user name will be used to access it. You can change outgoing servers in the account settings.">
 
 <!-- Entities for Account name page -->
 

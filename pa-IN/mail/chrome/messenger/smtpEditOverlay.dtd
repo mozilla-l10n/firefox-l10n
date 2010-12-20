@@ -6,12 +6,9 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "ਪੋਰਟ:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ ਵਰਤੋਂ">
-<!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "ਯੂਜ਼ਰ ਨਾਂ:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "ਸੁਰੱਖਿਅਤ ਪਰਮਾਣਿਕਤਾ ਵਰਤੋਂ">
-<!ENTITY useSecAuth.accesskey "i">
+
 <!ENTITY connectionSecurity.label "ਕੁਨੈਕਸ਼ਨ ਸੁਰੱਖਿਆ:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "ਕੋਈ ਨਹੀਂ">
@@ -20,3 +17,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP ਸਰਵਰ">
 <!ENTITY serverPortDefault.label "ਡਿਫਾਲਟ:">
+<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.accesskey "i">

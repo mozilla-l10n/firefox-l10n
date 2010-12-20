@@ -98,6 +98,7 @@
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "ਹਵਾਲੇ ਵਾਂਗ ਚੇਪੋ">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "ਲੱਭੋ ਅਤੇ ਬਦਲੋ…">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "F">

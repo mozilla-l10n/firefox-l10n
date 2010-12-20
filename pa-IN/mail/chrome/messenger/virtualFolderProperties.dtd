@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "ਆਨਲਾਈਨ ਖੋਜ ( IMAP ਅਤੇ ਖਬਰ ਫੋਲਡਰਾਂ ਲਈ ਖੋਜ ਰੱਦ ਹੋ ਜਾਵੇਗੀ, ਪਰ ਫੋਲਡਰ ਖੋਲਣ ਲਈ ਵਧੇਰੇ ਸਮਾਂ ਲੱਗੇਗਾ)">
 <!ENTITY searchOnline.accesskey "O">
+<!ENTITY newFolderButton.label       "Create">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Update">
+<!ENTITY editFolderButton.accesskey  "U">

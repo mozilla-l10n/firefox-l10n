@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "ਮੇਲ ਚੈੱਕ ਕਰੋ">
 <!ENTITY contextManual.label "ਖੁਦ ਚਲਾਓ">
 <!ENTITY contextBoth.label "ਜਦੋਂ ਮੇਲ ਚੈੱਕ ਕਰੋ ਜਾਂ ਖੁਦ ਚਲਾਓ">
+<!ENTITY contextPostPlugin.label "Checking Mail (after classification)">
+<!ENTITY contextPostPluginBoth.label "Checking Mail (after classification) or Manually Run">
 <!ENTITY filterActionDesc.label "ਇਹ ਐਕਸ਼ਨ ਕਰੋ:">
 <!ENTITY filterActionDesc.accesskey "P">
 

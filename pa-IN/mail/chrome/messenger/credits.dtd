@@ -1,6 +1,6 @@
 <!ENTITY credit.title     "&brandFullName; ਮਾਣ">
 <!ENTITY brandMotto       "ਥੰਡਰਬਰਡ ਜਾ ਰਿਹਾ ਹੈ!">
-<!ENTITY credit.leads     "ਇੰਜੀਨੀਅਰਗ ਮੁਖੀ">
+
 <!ENTITY credit.thanks    "ਖਾਸ ਧੰਨਵਾਦ ਹੈ">
 
 <!-- localization credits look like this: -->
@@ -13,8 +13,5 @@
   <li>Punjabi Open Source Team (http://www.satluj.com/)</li>
   <li>ਆਪਣੀ ਬੋਲੀ ਆਪਣਾ ਮਾਣ</li></ul>">
 
-<!ENTITY credit.theme          "ਥੀਮ ਡਿਜ਼ਾਇਨ">
-<!ENTITY credit.qa             "ਕੁਆਲਟੀ ਜਾਂਚ">
-<!ENTITY credit.build          "ਬਿਲਡ ਅਤੇ ਰੀਲਿਜ਼">
 <!ENTITY credit.memory         "ਯਾਦ ਵਿੱਚ">
 <!ENTITY credit.poweredByGecko "Gecko&trade; ਵਲੋਂ ਮੱਦਦ ਨਾਲ">
