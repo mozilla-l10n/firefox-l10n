@@ -1,5 +1,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "ਡਿਸਕ ਥਾਂ ਬਚਾਉਣ ਲਈ ਡਾਊਨਲੋਡ ਨਾ ਕਰੋ:">
-<!ENTITY doNotDownload.label "ਡਿਸਕ ਥਾਂ ਬਣਾਉਣ ਲਈ, ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਊਨਲੋਡ ਨਾ ਕਰੋ:">
+<!ENTITY doNotDownloadNntp.label "To save disk space, do not download for offline use:">
+<!ENTITY doNotDownloadImap.label "To save disk space, downloading messages from the server and keeping local copies for offline use can be restricted by age or size.">
 <!ENTITY allFoldersOffline.label "ਇਸ ਅਕਾਊਂਟ ਲਈ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸੁਨੇਹੇ ਰੱਖੋ">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "ਇਸ ਤੋਂ ਵੱਡੇ ਸੁਨੇਹੇ">
@@ -32,3 +33,21 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "ਸੁਨੇਹੇ ਸੈਕਰੋਨਾਈਜ਼">
 <!ENTITY diskspaceGroupTitle.label "ਡਿਸਕ ਥਾਂ">
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label               "Synchronize all messages locally regardless of age">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "Synchronize the most recent">
+<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Days">
+<!ENTITY weekAgeInterval.label           "Weeks">
+<!ENTITY monthAgeInterval.label          "Months">
+<!ENTITY yearAgeInterval.label           "Years">
+<!ENTITY ageAutosyncAfter.label          "">
+

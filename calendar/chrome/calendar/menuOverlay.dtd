@@ -42,68 +42,59 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Event Menu -->
-<!ENTITY event.new.event                        "ਨਵਾਂ ਈਵੈਂਟ…">
+<!ENTITY event.new.event                        "New Event…">
 <!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
 
-<!ENTITY event.new.todo                         "ਨਵੀਂ ਟਾਸਕ…">
-<!ENTITY event.new.todo.key                     "T">
-<!ENTITY event.new.todo.accesskey               "T">
+<!ENTITY event.new.task                         "New Task…">
+<!ENTITY event.new.task.key                     "K">
+<!ENTITY event.new.task.accesskey               "k">
 
-<!ENTITY calendar.new.server.label              "ਨਵਾਂ ਕੈਲੰਡਰ…">
+<!ENTITY calendar.new.server.label              "New Calendar…">
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "l">
 
-<!ENTITY calendar.print.label                   "ਪਰਿੰਟ ਕਰੋ…">
+<!ENTITY calendar.print.label                   "Print…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "P">
 
-<!ENTITY calendar.import.label                  "ਇੰਪੋਰਟ…">
+<!ENTITY calendar.import.label                  "Import…">
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.selection.label        "ਚੋਣ ਐਕਸਪੋਰਟ…">
-<!ENTITY calendar.export.selection.accesskey    "S">
 <!ENTITY calendar.export.label                  "Export…">
 <!ENTITY calendar.export.accesskey              "E">
+<!ENTITY calendar.export.selection.label        "Export Selection…">
+<!ENTITY calendar.export.selection.accesskey    "S">
 
-<!ENTITY calendar.publish.label                 "ਪਬਲਿਸ਼…">
+<!ENTITY calendar.publish.label                 "Publish…">
 <!ENTITY calendar.publish.accesskey             "b">
 
 <!ENTITY calendar.deletecalendar.label          "Delete Selected Calendar…">
 <!ENTITY calendar.deletecalendar.accesskey      "D">
 
-<!ENTITY calendar.menu.customize.label          "ਕਸਟਮਾਈਜ਼…">
+<!ENTITY calendar.menu.customize.label          "Customize…">
 <!ENTITY calendar.menu.customize.accesskey      "C">
 
-<!ENTITY showUnifinderCmd.label                 "ਈਵੈਂਟ ਲੱਭੋ">
+<!ENTITY showUnifinderCmd.label                 "Find Events">
 <!ENTITY showUnifinderCmd.accesskey             "F">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "ਕੈਲੰਡਰ ਵਿੱਚ ਟਾਸਕ ਵੇਖੋ">
+<!ENTITY calendar.displaytodos.checkbox.label       "Show Tasks in Calendar">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
 
-<!ENTITY calendar.menu.numberofweeks.label      "ਕਈ ਹਫ਼ਤੇ ਝਲਕ ਸਾਈਜ਼">
-<!ENTITY calendar.menu.numberofweeks.2          "ਦੋ ਹਫ਼ਤੇ">
-<!ENTITY calendar.menu.numberofweeks.3          "ਤਿੰਨ ਹਫ਼ਤੇ">
-<!ENTITY calendar.menu.numberofweeks.4          "ਚਾਰ ਹਫ਼ਤੇ">
-<!ENTITY calendar.menu.numberofweeks.5          "ਪੰਜ ਹਫ਼ਤੇ">
-<!ENTITY calendar.menu.numberofweeks.6          "ਛੇ ਹਫ਼ਤੇ">
+<!ENTITY calendar.menu.numberofweeks.label      "Multiweek View Size">
+<!ENTITY calendar.menu.numberofweeks.2          "Two Weeks">
+<!ENTITY calendar.menu.numberofweeks.3          "Three Weeks">
+<!ENTITY calendar.menu.numberofweeks.4          "Four Weeks">
+<!ENTITY calendar.menu.numberofweeks.5          "Five Weeks">
+<!ENTITY calendar.menu.numberofweeks.6          "Six Weeks">
 
-<!ENTITY goTodayCmd.label                       "ਅੱਜ">
+<!ENTITY goTodayCmd.label                       "Today">
 <!ENTITY goTodayCmd.accesskey                   "T">
 
-<!ENTITY goPreviousCmd.day.label                "ਪਿਛਲੇ ਦਿਨ">
-<!ENTITY goPreviousCmd.week.label               "ਪਿਛਲੇ ਹਫ਼ਤੇ">
-<!ENTITY goPreviousCmd.month.label              "ਪਿਛਲੇ ਮਹੀਨੇ">
-<!ENTITY goPreviousCmd.accesskey                "P">
-
-<!ENTITY goNextCmd.day.label                    "ਅਗਲੇ ਦਿਨ">
-<!ENTITY goNextCmd.week.label                   "ਅਗਲੇ ਹਫ਼ਤੇ">
-<!ENTITY goNextCmd.month.label                  "ਅਗਲੇ ਮਹੀਨੇ">
-<!ENTITY goNextCmd.all.accesskey                "e">
-
-<!ENTITY showCurrentView.label                  "ਮੌਜੂਦਾ ਝਲਕ">
+<!ENTITY showCurrentView.label                  "Current View">
 <!ENTITY showCurrentView.accesskey              "V">
 
-<!ENTITY calendar.properties.label              "ਕੈਲੰਡਰ ਵਿਸ਼ੇਸ਼ਤਾ…">
+<!ENTITY calendar.properties.label              "Calendar Properties…">
 <!ENTITY calendar.properties.accesskey          "C">
+

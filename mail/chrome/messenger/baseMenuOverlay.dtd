@@ -1,19 +1,24 @@
 <!-- Help Menu -->
-<!ENTITY helpMenu.label "ਮੱਦਦ">
+<!ENTITY helpMenu.label "Help">
 <!ENTITY helpMenu.accesskey "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "ਮੱਦਦ">
+<!ENTITY helpMenuWin.label "Help">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY releaseCmd.label "ਰੀਲਿਜ਼ ਨੋਟਿਸ">
+<!ENTITY releaseCmd.label "Release Notes">
 <!ENTITY releaseCmd.accesskey "R">
-<!ENTITY openHelp.label "ਮੱਦਦ ਸਮੱਗਰੀ">
+<!ENTITY whatsNewCmd.label "What's New">
+<!ENTITY whatsNewCmd.accesskey "W">
+<!ENTITY featureConfiguratorCmd.label "Migration Assistant">
+<!ENTITY featureConfiguratorCmd.accesskey "M">
+<!ENTITY openHelp.label "Help Contents">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; ਮੱਦਦ">
+<!ENTITY openHelpMac.label "&brandShortName; Help">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "…ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
-<!ENTITY aboutCmd.label "&brandFullName; ਬਾਰੇ">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY aboutMenuCmd.label "About &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "A">
+

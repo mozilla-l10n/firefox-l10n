@@ -27,8 +27,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, ਜੇ ਉਪਲੱਬਧ ਹੋਵੇ">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "ਸੁਰੱਖਿਅਤ ਪਰਮਾਣਕਿਤਾ ਵਰਤੋਂ">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "ਸੁਨੇਹੇ ਸਰਵਰ ਉੱਤੇ ਰਹਿਣ ਦਿਓ">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "ਸਿਰਫ ਹੈੱਡਰ ਹੀ ਵੇਖੋ">

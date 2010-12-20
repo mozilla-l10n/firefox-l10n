@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "ਜਵਾਬ ਨੂੰ ਸੁਨੇਹੇ ਦੇ ਫੋਲਡਰ ਵਿੱਚ ਰੱਖੋ, ਜਿਸ ਦਾ ਜਵਾਬ ਦਿੱਤਾ ਗਿਆ ਹੈ">
 <!ENTITY fccReplyFollowsParent.accesskey "c">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc these email addresses:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "ਇਹ ਈਮੇਲ ਐਡਰੈੱਸ Bcc ਵਿੱਚ ਰੱਖੋ:">
 <!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
 <!ENTITY saveMessageDlg.label "ਜਦੋਂ ਸੁਨੇਹੇ ਸੰਭਾਲੇ ਜਾ ਰਹੇ ਹੋਣ ਤਾਂ ਪੁਸ਼ਟੀ ਡਾਈਲਾਗ ਵੇਖੋ">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
