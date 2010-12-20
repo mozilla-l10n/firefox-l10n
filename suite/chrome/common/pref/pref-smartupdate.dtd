@@ -2,8 +2,8 @@
 <!ENTITY smartTitle.label "Installazione e aggiornamento di programmi">
 <!ENTITY enableSU.label "Permetti ai siti web di installare estensioni ed aggiornamenti">
 <!ENTITY enableSU.accesskey "P">
-<!ENTITY allowedSites.label "Siti accettati">
-<!ENTITY allowedSites.accesskey "a">
+<!ENTITY viewPermissions.label "Gestione permessi">
+<!ENTITY viewPermissions.accesskey "G">
 <!ENTITY verifyUpdates.caption "Aggiornamenti">
 <!ENTITY autoUpdates.label "Cerca aggiornamenti automaticamente per:">
 <!ENTITY appUpdates.label "&brandShortName;">

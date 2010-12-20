@@ -2,8 +2,8 @@
 <!ENTITY pref.popups.caption "Finestre pop-up">
 <!ENTITY popupBlock.label "Blocca finestre pop-up non richieste">
 <!ENTITY popupBlock.accesskey "B">
-<!ENTITY popupExceptions.label "Siti accettati…">
-<!ENTITY popupExceptions.accesskey "a">
+<!ENTITY viewPermissions.label "Gestione permessi">
+<!ENTITY viewPermissions.accesskey "G">
 <!ENTITY whenBlock.description "Quando viene bloccata una finestra pop-up:">
 <!ENTITY playSound.label "Riproduci un suono:">
 <!ENTITY playSound.accesskey "R">
