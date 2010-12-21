@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Wszystkie rodzaje danych">
+<!ENTITY select.cookies.label "Tylko ciasteczka">
+<!ENTITY select.permissions.label "Tylko uprawnienia">
+<!ENTITY select.preferences.label "Tylko uprawnienia">
+<!ENTITY select.passwords.label "Tylko hasła">
+
 <!ENTITY domain.search.placeholder "Szukaj domen">
 <!ENTITY domain.search.key "f">
 
@@ -93,6 +99,10 @@
 <!ENTITY perm.Allow "Zezwól">
 <!ENTITY perm.AllowSession "Zezwól na czas sesji">
 <!ENTITY perm.Block "Zablokuj">
+
+<!ENTITY perm.host.placeholder "Wprowadź nazwę hosta">
+<!ENTITY perm.button.add.label "Dodaj">
+<!ENTITY perm.button.add.accesskey "D">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Ustawienia zawartości są dla programu &brandShortName; sposobem zapisywania osobnych ustawień dla poszczególnych witryn.">
