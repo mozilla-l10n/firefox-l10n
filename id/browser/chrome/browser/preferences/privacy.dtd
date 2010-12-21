@@ -15,7 +15,7 @@
 <!ENTITY  acceptCookies.accesskey       "w">
 
 <!ENTITY  acceptThirdParty.label        "Terima kuki dari pihak ketiga">
-<!ENTITY  acceptThirdParty.accesskey    "k">
+<!ENTITY  acceptThirdParty.accesskey    "d">
 
 <!ENTITY  keepUntil.label               "Simpan hingga:">
 <!ENTITY  keepUntil.accesskey           "h">
@@ -67,7 +67,7 @@
 <!ENTITY  rememberDownload.accesskey     "u">
 
 <!ENTITY  rememberSearchForm.label       "Simpan riwayat pencarian dan isian form">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "i">
 
 <!ENTITY  clearOnClose.label             "Hapus riwayat saat &brandShortName; ditutup">
 <!ENTITY  clearOnClose.accesskey         "H">

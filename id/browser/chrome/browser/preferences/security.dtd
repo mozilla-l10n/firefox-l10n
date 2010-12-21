@@ -9,7 +9,7 @@
   "known").
 -->
 <!ENTITY  blockAttackSites.label     "Blokir situs penyerang yang pernah dilaporkan">
-<!ENTITY  blockAttackSites.accesskey "p">
+<!ENTITY  blockAttackSites.accesskey "y">
 
 <!ENTITY  blockWebForgeries.label     "Blokir situs penipuan web yang pernah dilaporkan">
 <!ENTITY  blockWebForgeries.accesskey "w">
