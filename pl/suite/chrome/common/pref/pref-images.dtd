@@ -5,16 +5,16 @@
 <!ENTITY imageDetails "Ustawienia pobierania obrazków ze stron WWW.">
 
 <!ENTITY accAllImagesRadio.label "Pobieraj wszystkie obrazki">
-<!ENTITY accAllImagesRadio.accesskey "i">
+<!ENTITY accAllImagesRadio.accesskey "b">
 <!ENTITY accOrgImagesRadio.label "Pobieraj obrazki pochodzące wyłącznie z serwera, z którym pierwotnie nawiązano połączenie">
-<!ENTITY accOrgImagesRadio.accesskey "n">
+<!ENTITY accOrgImagesRadio.accesskey "a">
 <!ENTITY disableImages.label "Nie pobieraj żadnych obrazków">
-<!ENTITY disableImages.accesskey "y">
-<!ENTITY viewImages.label "Menedżer obrazków">
-<!ENTITY viewImages.accesskey "M">
+<!ENTITY disableImages.accesskey "e">
+<!ENTITY viewPermissions.label "Zarządzaj uprawnieniami">
+<!ENTITY viewPermissions.accesskey "Z">
 <!ENTITY animLoopingTitle.label "Animowane obrazki powinny być odtworzone">
 <!ENTITY animLoopAsSpecified.label "Tyle razy, ile jest to określone we właściwościach obrazka">
-<!ENTITY animLoopAsSpecified.accesskey "A">
+<!ENTITY animLoopAsSpecified.accesskey "T">
 <!ENTITY animLoopOnce.label "Raz">
 <!ENTITY animLoopOnce.accesskey "R">
 <!ENTITY animLoopNever.label "Nigdy">

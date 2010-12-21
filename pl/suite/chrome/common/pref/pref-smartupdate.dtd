@@ -2,8 +2,8 @@
 <!ENTITY smartTitle.label "Instalacja wtyczek i dodatkowego oprogramowania">
 <!ENTITY enableSU.label "Zezwól witrynom na instalowanie rozszerzeń i aktualizacji">
 <!ENTITY enableSU.accesskey "e">
-<!ENTITY allowedSites.label "Uprawnione witryny">
-<!ENTITY allowedSites.accesskey "U">
+<!ENTITY viewPermissions.label "Zarządzaj uprawnieniami">
+<!ENTITY viewPermissions.accesskey "u">
 
 <!ENTITY verifyUpdates.caption "Aktualizacje">
 <!ENTITY autoUpdates.label "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">

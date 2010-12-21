@@ -5,12 +5,12 @@
 <!ENTITY popupBlock.label "Blokuj niepożądane wyskakujące okna">
 <!ENTITY popupBlock.accesskey "B">
 
-<!ENTITY popupExceptions.label "Uprawnione witryny…">
-<!ENTITY popupExceptions.accesskey "A">
+<!ENTITY viewPermissions.label "Zarządzaj uprawnieniami">
+<!ENTITY viewPermissions.accesskey "Z">
 
 <!ENTITY whenBlock.description "Wykonaj poniższe czynności, gdy zostanie zablokowane wyskakujące okno:">
 <!ENTITY playSound.label "Odtwórz dźwięk:">
-<!ENTITY playSound.accesskey "O">
+<!ENTITY playSound.accesskey "t">
 <!ENTITY systemSound.label "Dźwięk systemowy">
 <!ENTITY systemSound.accesskey "s">
 <!ENTITY customSound.label "Plik dźwiękowy użytkownika">
