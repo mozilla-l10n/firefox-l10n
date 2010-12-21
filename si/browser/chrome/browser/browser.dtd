@@ -498,3 +498,5 @@ Entities below were automatically added by compare-locales,
 <!ENTITY clearRecentHistory.label "මෑතකාලීන මතකය හිස් කරන්න…">
 <!ENTITY zoomOutButton.tooltip "කුඩා කරන්න">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY addonBarCloseButton.tooltip  "ඇඩෝන තීරුව වසන්න">

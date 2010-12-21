@@ -15,9 +15,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY button.syncKeyBackup.print.label "මුද්‍රණය…">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY setup.captchaPage2.title.label "ඔබ රොබෝ වරයෙක් නොවන බව තහවුරු කරන්න">
-<!ENTITY setup.existingAccount.title.label "ගිණුම් තොරතුරු ඇතුළු කරන්න">
 <!ENTITY confirm.merge.label "&syncBrand.fullName.label; මෙම පරිගණකයේ බුව්සරයේ ඇති සියළු තොරතුරු ඔබගේ සම්මුහුර්ත ගිණුමට (Sync account) එක් කරනු ඇත.">
-<!ENTITY signIn.serverURL.label "සේවාදායකයේ URL">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY signIn.password.accesskey "P">
 <!ENTITY engine.bookmarks.label "පිටුසළකුණු">
@@ -28,7 +26,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY setup.tosAgree1.accesskey "a">
 <!ENTITY engine.history.label "පෙරදෑ">
-<!ENTITY existingSyncKeyHelp.description "ඔබගේ වෙනත් පරිගණකවල සුරැකූ රහස්පද පරීක්ෂා කිරීමෙන් ඔබගේ සුරැකූ සම්මුහුර්ත යතුර (Sync Key)  සොයාගත හැකි වනු ඇත.ඔබට එය සොයාගත නොහැකි වුවහොත් රහස්පද ප්‍රත්‍යාරම්භ (Reset) කිරීමට හැකිය. නමුත් සේවාදායකයේ තැබ්ලත් කර ඇති දත්ත ඔබට අහිමි වනු ඇත.">
+
 <!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY choice2.client.main.label "මෙම පරිගණකයේ ඇති සියළු දත්ත &syncBrand.shortName.label; මඟින් ප්‍රතිස්ථාපනය (replace) කරන්න">
 <!ENTITY button.syncKeyBackup.save.label "සුරකින්න…">
@@ -38,28 +36,25 @@ Entities below were automatically added by compare-locales,
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ඔබගේ පෞද්ගලිකත්වය පිළිබඳව සැලකිලිමත් වේ">
 <!ENTITY syncKeyEntry.accesskey "K">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY signIn.account.accesskey "E">
-<!ENTITY serverType.custom.label "රිසිකරණ සේවාදායකයක් භාවිතා කරන්න">
+<!ENTITY serverType.custom2.label "රිසිකරණ සේවාදායකයක් භාවිතා කරන්න">
 <!ENTITY engine.tabs.accesskey "T">
-<!ENTITY connecting.label "සම්බන්ධ වේ…">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!ENTITY setup.optionsConfirmPage.title "තහවුරු කරන්න">
 <!ENTITY setup.emailAddress.label "ඉ.තැපැල් ලිපිනය">
-<!ENTITY signIn.account.label "ඉ.තැපැල් ලිපිනය / පරිශීලක නම">
+<!ENTITY signIn.account2.label      "ගිණුම">
+<!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY choice2.merge.recommended.label "අනුමත කළ:">
 <!ENTITY syncComputerName.accesskey "c">
 <!ENTITY engine.passwords.label "රහස්පද">
 <!ENTITY confirm.server2.label "අවවාදයයි: පහත උපාංග මත ඔබගේ සමීප දත්ත (local data) ලියවෙනු ඇත (overwrite):">
 <!ENTITY button.createNewAccount.label "නව ගිණුමක් සාදන්න">
 <!ENTITY setup.optionsPage.title "සම්මුහුර්ත (Sync) විකල්ප">
-<!ENTITY signIn.serverURL.accesskey "L">
 <!ENTITY choice2.merge.main.label "මෙම පරිගණකහේ දත්ත &syncBrand.shortName.label; දත්ත සමඟ සම්බන්ධ කරන්න">
 <!ENTITY setup.confirmPassword.label "රහස්පදය තහවුරු කරන්න">
 <!ENTITY signIn.password.label "රහස්පදය">
-<!ENTITY setup.existingSyncKeyPage.description "ඔබ පළමු වරට &syncBrand.fullName.label; ඇතුළු වීමේදී, ඔබ වෙනුවෙන් සම්මුහුර්ත යතුර (Sync Key) ජනනය කරන ලදී, හෝ ඔබ විසින් එකක් ඇතුළු කරන ලදී. එය ඔබගේ රහස්පදයට සමාන එකක් නොවේ.">
+
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; විසින් ඔබගේ &syncBrand.fullName.label; දත්ත මෙම පරිගණකයට පිටපත් කරනු ඇත.">
 <!ENTITY setup.tosAgree1.label "මම මීට එකඟයි">
-<!ENTITY setup.existingSyncKeyPage.title "සම්මුහුර්ත යතුර (Sync Key) ඇතුළු කරන්න">
 <!ENTITY setup.successPage.title "සැකසුම සම්පූර්ණයි">
 <!ENTITY lostSyncKey.label "සම්මුහුර්ත යතුර (Sync Key) නැති වි">
 <!ENTITY setup.newAccountDetailsPage.title.label "ගිණුම් තොරතුරු">
@@ -74,7 +69,26 @@ Entities below were automatically added by compare-locales,
 <!ENTITY engine.tabs.label "ටැබ්">
 <!ENTITY setup.choicePage.existing.label "මම දැනටම වෙනත් පරිගණකයක &syncBrand.shortName.label; භාවිතා කරමින් සිටියි">
 <!ENTITY choice2.server.main.label "මෙම පරිගණකයේ දත්ත මඟින් අනෙකුත් සියළු උපාංග ප්‍රතිස්ථාපනය (replace) කරන්න">
-<!ENTITY button.haveAccount.label "මට &syncBrand.fullName.label; ගිණුමක් තිබේ">
 <!ENTITY syncKeyEntry.label "ඔබගේ සම්මුහුර්ත යතුර (Sync Key)">
 <!ENTITY verifying.label "ස්ථීර කරයි…">
 <!ENTITY confirm.client2.label "අවවාදයයි: මෙම පරිගණකයේ ඇති &brandShortName; පහත දත්ත මකනු ඇත:">
+
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Add a Device">
+<!ENTITY addDevice.showMeHow.label          "Show me how.">
+<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
+<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
+<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
+<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
+<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
+<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+
+<!ENTITY button.connect.label    "සම්බන්ධ වන්න">
+<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY setup.haveAccount.label "මට දැනටම &syncBrand.fullName.label; ගිණුමක් ඇත.">
+<!ENTITY signIn.syncKey.label       "සම්මුහුර්ත යතුර">
+<!ENTITY signIn.syncKey.accesskey   "K">

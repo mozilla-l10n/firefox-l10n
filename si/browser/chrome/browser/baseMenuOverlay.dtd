@@ -14,7 +14,6 @@
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpReleaseNotes.label         "නිකුතු සටහන්">
 <!ENTITY helpReleaseNotes.accesskey     "N">
-<!ENTITY updateCmd.label                "යාවත්කාලීන සඳහා සොයන්න....">
 
 <!ENTITY preferencesCmdMac.label        "මනාපයන්...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
