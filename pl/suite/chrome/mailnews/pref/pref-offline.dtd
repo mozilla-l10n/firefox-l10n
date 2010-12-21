@@ -24,7 +24,7 @@
 <!ENTITY radioAskDownload "Zapytaj">
 <!ENTITY radioAskDownload.accesskey "p">
 <!ENTITY mailConnections.caption "Połączenia pocztowe">
-<!ENTITY mailnewsTimeout.label "Limit czasu połaczenia:">
+<!ENTITY mailnewsTimeout.label "Limit czasu połączenia:">
 <!ENTITY mailnewsTimeout.accesskey "L">
 <!ENTITY mailnewsTimeoutSeconds.label "sekund">
 <!ENTITY Diskspace "Miejsce na dysku">

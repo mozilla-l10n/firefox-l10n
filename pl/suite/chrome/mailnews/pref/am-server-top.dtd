@@ -43,7 +43,7 @@
 <!ENTITY modelMoveToTrash.accesskey "p">
 <!ENTITY modelMarkDeleted.label "zostanie oznaczona jako usunięta">
 <!ENTITY modelMarkDeleted.accesskey "o">
-<!ENTITY modelDeleteImmediately.label "zostanie niezwłoczenie usunięta">
+<!ENTITY modelDeleteImmediately.label "zostanie niezwłocznie usunięta">
 <!ENTITY modelDeleteImmediately.accesskey "u">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Przy wyjściu z programu porządkuj folder Odebrane">

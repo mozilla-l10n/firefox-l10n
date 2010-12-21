@@ -23,6 +23,6 @@
 <!ENTITY history.label "Przejście do następnej/poprzednio odwiedzonej strony">
 <!ENTITY history.accesskey "o">
 <!ENTITY historyHoriz.accesskey "b">
-<!ENTITY zoom.label "Powiękesz bądź pomniejsz stronę">
+<!ENTITY zoom.label "Powiększ bądź pomniejsz stronę">
 <!ENTITY zoom.accesskey "Z">
 <!ENTITY zoomHoriz.accesskey "e">
