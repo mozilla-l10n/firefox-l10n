@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "동기화 암호">
 <!ENTITY resetSync.label              "동기화 재설정">
 <!ENTITY stopUsingAccount.label       "현재 계정 사용 중지">
+<!ENTITY addDevice.label              "새 기기 추가">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "동기화 설정">
