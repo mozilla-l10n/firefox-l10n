@@ -587,3 +587,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Sync Now">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Սինք">
+
+<!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">

@@ -53,8 +53,8 @@
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "Միջանկյալ սպասարկչի ինքնաբար կազմաձեվման URL:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
-<!ENTITY  reload.label                  "Վերբեռնել">
-<!ENTITY  reload.accesskey              "e">
+<!ENTITY  reload.label                  "Թարմացնել">
+<!ENTITY  reload.accesskey              "Թ">
 <!ENTITY  ftp.label                     "FTP միջնորդ.">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP միջնորդ.">

@@ -37,4 +37,6 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY closeNotification.tooltip "Փակել հաղորդագրությունը"> 
+<!ENTITY closeNotification.tooltip "Փակել հաղորդագրությունը">
+
+<!ENTITY closeNotificationItem.label "Ոչ հիմա">
