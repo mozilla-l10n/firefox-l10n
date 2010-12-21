@@ -58,6 +58,7 @@
 <!ENTITY mySyncKey.label              "My Sync Key">
 <!ENTITY resetSync.label              "Reset Sync">
 <!ENTITY stopUsingAccount.label       "Դադարեցնել այս հաշվի օգտագործումը">
+<!ENTITY addDevice.label              "Add a Device">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browser Sync">
