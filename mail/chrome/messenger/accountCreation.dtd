@@ -54,7 +54,7 @@
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "Saya memahami resikonya.">
+<!ENTITY confirmWarning.label            "Saya memahami risikonya.">
 <!ENTITY confirmWarning.accesskey        "r">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
