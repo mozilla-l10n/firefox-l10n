@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label "Seol Aiseolas Chugainn…">
 <!ENTITY helpFeedbackPage.accesskey "S">
 
-<!ENTITY updateCmd.label "Lorg Nuashonruithe…">
-
 <!ENTITY preferencesCmdMac.label "Sainroghanna…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
