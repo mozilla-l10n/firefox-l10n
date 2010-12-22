@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Kilîla min a Syncê">
 <!ENTITY resetSync.label              "Syncê Reset Bike">
 <!ENTITY stopUsingAccount.label       "Bikaranîna vî hesabî bisekinîne">
+<!ENTITY addDevice.label              "Cîhazekê lê zêde bike">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Synca Gerokê">

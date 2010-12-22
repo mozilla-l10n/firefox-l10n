@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY subscribeToPageMenuitem.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY addCurPagesCmd.label "Hemû Hilpekînan Têxe Bijareyan...">
-<!ENTITY showAllBookmarks.label "Hemû bijareyan nîşan bide…">
+<!ENTITY showAllBookmarks2.label "Hemû bijareyan nîşan bide">
 <!ENTITY bookmarkAllCmd.label "Hemû Hilpekînan Têxe Bijareyan...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zêdetir bijare nîşan bide">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Gişî hilbijêre">  
 <!ENTITY selectAllCmd.key         "P">  
 <!ENTITY selectAllCmd.accesskey       "h"> 
-<!ENTITY preferencesCmd.label       "Vebijêrk">
-<!ENTITY preferencesCmd.accesskey     "j"> 
+<!ENTITY preferencesCmd2.label       "Vebijêrk">
+<!ENTITY preferencesCmd2.accesskey     "V">
 <!ENTITY preferencesCmdUnix.label       "Vebijêrk">
 <!ENTITY preferencesCmdUnix.accesskey     "V"> 
 
@@ -548,3 +548,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Niha senkronîze bike">
 <!ENTITY syncSyncNowItem.accesskey    "s">
 <!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY addonBarCloseButton.tooltip  "Darikê amûran bigire">

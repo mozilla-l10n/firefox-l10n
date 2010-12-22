@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Bi xêr hatî, eger te berê qet &syncBrand.fullName.label; bi kar neanîbe, divê hesabekî nû biafirînî.">
 <!ENTITY button.createNewAccount.label "Hesabekî nû biafirîne">
-<!ENTITY button.haveAccount.label "Hesabê min ê &syncBrand.fullName.label; heye">
+<!ENTITY setup.haveAccount.label "Hesabê min ê &syncBrand.fullName.label;ê jixwe heye.">
+<!ENTITY button.connect.label    "Girêbide">
 
 <!ENTITY setup.choicePage.title.label     "Te berê &syncBrand.fullName.label; bi kar anî?">
 <!ENTITY setup.choicePage.new.label       "Min &syncBrand.shortName.label; berê bi kar neanî">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Pêşkêşkar">
 <!ENTITY serverType.main.label      "pêşkêşkara &syncBrand.fullName.label;ê">
-<!ENTITY serverType.custom.label    "Pêşkêşkareke takekesî bi kar bîne">
-<!ENTITY signIn.account.label       "Navnîşana Epeyamê / Navê Bikarhêner">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "Pêşkêşkareke taybet bi kar bîne…">
+<!ENTITY signIn.account2.label      "Hesab">
+<!ENTITY signIn.account2.accesskey  "a">
 <!ENTITY signIn.password.label      "Şîfre">
 <!ENTITY signIn.password.accesskey  "Ş">
-<!ENTITY signIn.serverURL.label     "URL'a pêşkêşkarê">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "Kilîla Syncê">
+<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Kitekitên hesabî">
@@ -43,8 +44,6 @@
 <!ENTITY syncKeyEntry.label        "Kilîla te ya Syncê">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Hilberîne">
-<!ENTITY syncKeyStrength.label     "Zexmî:">
-<!ENTITY syncKeyHelp.label         "Wateya zexmiyê çi ye?">
 <!ENTITY syncKeyBackup.description "Li ser makîneyên din ji bo têketina &syncBrand.fullName.label;ê dê kilîla te ya Syncê pêwîst be. Tika ye kopiyekê hilîne. Ji bo şûndevegerandina Kilîla Syncê em nikarin alîkariya te bikin.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Çapkirin…">
@@ -54,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Tika ye baweriyê bidî ku tu ne robot î">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Cîhazekê lê zêde bike">
+<!ENTITY addDevice.showMeHow.label          "Nîşan bide çawan.">
+<!ENTITY addDevice.dontHaveDevice.label     "Bi min re cîhaz tune ye">
+<!ENTITY addDevice.setup.description.label  "Ji bo çalakirinê, li ser cîhaza xwe ya dinê here Vebijêrkên &syncBrand.shortName.label;ê û Cîhazekê&#x0022; &#x0022;Têxê hilbijêre.">
+<!ENTITY addDevice.setup.enterCode.label    "Piştre vê kodê binivîse:">
+<!ENTITY addDevice.dialog.description.label "Ji bo çalakirina cîhaza xwe ya nû, here vebijêrkên &syncBrand.shortName.label;ê û &#x0022;Girêbide.&#x0022; hilbijêre">
+<!ENTITY addDevice.dialog.enterCode.label   "Koda ku cîhaz dide binivîse:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Tika ye dîsa biceribîne.">
+<!ENTITY addDevice.dialog.successful.label  "Lçzçdekirina cîhazê bi ser ket. Senkronîzekirina pêşî dikare çend xulekan, li paşperdeyê biajo.">
+<!ENTITY addDevice.dialog.syncKey.label     "Ji bo çalakirina cîhazê divê tu Kilîka Syncê binivîsî. Tika ye vê kilîlê çap bike an jî bihîle.">
+<!ENTITY addDevice.dialog.connected.label   "Cîhaz hat girêdan">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Agahiya hesabê têkeve">
-<!ENTITY resetPassword.label          "Şîfreyê reset bike">
-<!ENTITY connecting.label             "Tê girêdan…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Tika ye kilîla Syncê binivîse">
-<!ENTITY setup.existingSyncKeyPage.description "Kilîka Syncê ji bo te hatiye hilberîn, an jî dema cara pêşî ketiyî &syncBrand.fullName.label;ê te nivîsandiye, Divê ev ne wekî şîfreya te be.">
-<!ENTITY existingSyncKeyHelp.description "Ji bo ku kilîla xwe ya Syncê bibînî dikarî herî ser kompîterên xwe yên din û di bin pêşeka Ewlekariyê de li Şîfeeyên Tomarbûyî binêrî. Eger hê jî nikaribî kilîla xwe ya Syncê bibînî, dikarî wê vesaz bikî, lê bi vê yekê  hemû daneyên te yên li ser pêşkêşkarê dê winda bibin.">
-<!ENTITY lostSyncKey.label            "Min kilîla xwe ya Syncê winda kir">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Têkevê">
+<!ENTITY existingSyncKey.description "Dikarî kopiyeke Kilîla Syncê ji ser cîhaza xwe ji  Vebijêrkên &syncBrand.shortName.label;ê bistînî, û ji &#x0022;Rêveberiya Hesaban&#x0022; &#x0022;Kilîla Min a Syncê&#x0022; hilbijêre.">
 <!ENTITY verifying.label              "Tê piştrastkirin…">
+<!ENTITY resetPassword.label          "Şîfreyê reset bike">
+<!ENTITY lostSyncKey.label            "Min kilîla xwe ya Syncê winda kir">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Vebijêrkên Syncê">
