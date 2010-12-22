@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label "M'Eochair Sync">
 <!ENTITY resetSync.label "Athshocraigh Sync">
 <!ENTITY stopUsingAccount.label "Dún an Cuntas Seo">
+<!ENTITY addDevice.label "Cuir Gléas Leis">
 <!-- Sync Settings -->
 
 <!ENTITY syncPrefsCaption.label "Sioncrónú Brabhsálaí">
