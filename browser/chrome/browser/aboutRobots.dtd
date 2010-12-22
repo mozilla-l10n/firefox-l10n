@@ -7,21 +7,21 @@
 
 <!-- Nonsense line from the movie "The Day The Earth Stood Still". No translation needed. -->
 <!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!">
-<!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
-<!ENTITY robots.errorTitleText "आपलोगों क स्वागत  अछि !">
+<!-- Movie: Logan's Run... Box (cybog): "लोकनिसभ, अहाँक स्वागत अछि! हम अहाँक लेल तैआर छी." -->
+<!ENTITY robots.errorTitleText "अहाँलोकनिसभक स्वागत अछि !">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
 <!ENTITY robots.errorShortDescText "हम अहाँक पास शांति आ सद्भाव क सँग आए  अछि !">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
-<!ENTITY robots.errorLongDesc1 "रोबोट मानवों केँ नुकसान पहुँचा सकैत  अछि , निष्क्रियता क कारण, एकटाटा मानव केँ खतरा क सामने करैत  अछि .">
+<!ENTITY robots.errorLongDesc1 "रोबोट मानवकेँ नुकसान पहुँचाए सकैत  अछि, निष्क्रियताक कारण, एकटा मानव केँ खतराक सोझा करैत अछि .">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->
-<!ENTITY robots.errorLongDesc2 "रोबोट ने उन चीजों केँ देखा  अछि  जकरा  संबंध  मे आपलोग भरोसा नहि  करू गे.">
+<!ENTITY robots.errorLongDesc2 "रोबोट ओ चीजसभकेँ देखलक जकरा संबंध मे अहाँलोकनि सभपर भरोस नहि करल जाए सकत.">
 <!-- Book: Hitchiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
-<!ENTITY robots.errorLongDesc3 "रोबोट अहाँक प्लास्टिक क मित्र  अछि  जकरा सँग रहना मजे क बात  अछि .">
+<!ENTITY robots.errorLongDesc3 "रोबोट अहाँक प्लास्टिकक मित्र  अछि  जकरा सँग रहनाइ मजाक बात अछि .">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
-<!ENTITY robots.errorLongDesc4 "रोबोट क पाछाँ चमकीला धातु  अछि  जकरा काटा नहि जएनाइ चाही.">
+<!ENTITY robots.errorLongDesc4 "रोबोट क पाछाँ चमकीला धातु अछि जकरा काटल नहि जएनाइ चाही.">
 <!-- TV: Battlestar Galactica (2004 series). From the opening text. -->
-<!ENTITY robots.errorTrailerDescText "आओर उनके पास एकटा योजना  अछि .">
+<!ENTITY robots.errorTrailerDescText "आओर हुनकर पास एकटा योजना अछि .">
 <!-- TV: Battlestar Galactica (2004 series). Common expletive referring to Cylons. -->
 <!ENTITY robots.imgtitle "फ्रैकिन टोस्टर">
 <!-- Book: Hitchiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
-<!ENTITY robots.dontpress "कृपया ई बटन फेर मत दबाएँ.">
+<!ENTITY robots.dontpress "कृपया ई बटन फेर नहि दबाउ.">

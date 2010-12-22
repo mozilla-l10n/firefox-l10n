@@ -2,13 +2,13 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "आपका स्वागत अछि,  जँ  आपने  कहियो  भी पहले &syncBrand.fullName.label; क उपयोग नहि कएल अछि, अहाँकेँ नव खाता बनाबै क जरूरत अछि.">
+<!ENTITY setup.pickSetupType.description "अहाँक स्वागत अछि, जँ अहाँ कहियो पहिने &syncBrand.fullName.label; क उपयोग नहि कएने छी, अहाँकेँ नव खाता बनाबैक जरूरत अछि.">
 <!ENTITY button.createNewAccount.label "एकटा नव खाता बनाउ">
 
 
-<!ENTITY setup.choicePage.title.label     "की आपने  कहियो  पहले &syncBrand.fullName.label; क प्रयोग कएल अछि?">
-<!ENTITY setup.choicePage.new.label       "मैंने  कहियो  भी &syncBrand.shortName.label; क पहले उपयोग नहि कएल अछि">
-<!ENTITY setup.choicePage.existing.label  "हम पहले सँ &syncBrand.shortName.label; क उपयोग दोसर कंप्यूटर पर कए रहल छी">
+<!ENTITY setup.choicePage.title.label     "की अहाँ  कहियो पहिने &syncBrand.fullName.label; क प्रयोग कएल अछि?">
+<!ENTITY setup.choicePage.new.label       "हम कहियो &syncBrand.shortName.label; क पहिने उपयोग नहि कएने छी">
+<!ENTITY setup.choicePage.existing.label  "हम पहिने सँ &syncBrand.shortName.label; क उपयोग दोसर कंप्यूटर पर कए रहल छी">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "सर्वर">
@@ -16,14 +16,14 @@
 
 
 
-<!ENTITY signIn.password.label      "कूटशब्द">
+<!ENTITY signIn.password.label      "गुड़किल्ली">
 <!ENTITY signIn.password.accesskey  "P">
 
 
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.confirmPassword.label  "कूटशब्द क पुष्टि  करू ">
+<!ENTITY setup.confirmPassword.label  "गुड़किल्ली क पुष्टि  करू ">
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "ईमेल पता">
 <!ENTITY setup.emailAddress.accesskey "E">
@@ -31,21 +31,21 @@
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "हम सहमत छी">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "सेवा शर्तोंTerms of Service">
+<!ENTITY setup.tosLink.label        "सेवा शर्त">
 <!ENTITY setup.tosAgree2.label      "आओर">
 <!ENTITY setup.ppLink.label         "गोपनीयता नीति सँ">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; अहाँक गोपनीयता क सम्मान करैत अछि">
-<!ENTITY setup.newSyncKeyPage.description.label "आपकी समग्र गोपनीयता बनाए रखने क लेल, अहाँक सबहि आँकड़े अपलोड किए जाए क पहले सबहि आँकड़े गोपित अछिं. सिंक कुँजी अहाँक आँकड़े केँ विगोपित करब क लेल जरूरी छी जे वे अपलोड नहि किए गए अछिं.">
-<!ENTITY syncKeyEntry.label        "आपकी सिंक कुंजी">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; अहाँक गोपनीयताक सम्मान करैत अछि">
+<!ENTITY setup.newSyncKeyPage.description.label "अहाँक समग्र गोपनीयता बनाबैक लेल, अहाँक सबहि आँकड़ा अपलोड कएल जाएबाक पहिने सबहि आँकड़ा गोपित अछि. सिंक कुँजी अहाँक आँकड़ाकेँ विगोपित करबाक लेल जरूरी अछि जे ओ अपलोड नहि कएल गेल अछि.">
+<!ENTITY syncKeyEntry.label        "अहाँक सिंक कुंजी">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "उत्पन्न  करू ">
 
 
-<!ENTITY syncKeyBackup.description "आपकी सिंक कुँजी दोसर मशीन पर &syncBrand.fullName.label; क पहुँच क लेल जरूरी अछि. कृप्या एकटा बैकअप कापी बनाउ. हम अहाँक सिंक कुँजी केँ वापस पाने अहाँक  मदति  कए सकैत अछिं.">
+<!ENTITY syncKeyBackup.description "अहाँक सिंक कुँजी दोसर मशीन पर &syncBrand.fullName.label; क पहुँचाबैक लेल जरूरी अछि. कृप्या एकटा बैकअप कापी बनाउ. हम अहाँक सिंक कुँजी केँ वापस पाबैमे अहाँक मदति कए सकैत छी.">
 
 <!ENTITY button.syncKeyBackup.print.label     "छापू…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -53,17 +53,17 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "कृपया पुष्टि करू जे अहाँ रोबोट नहि अछिं">
+<!ENTITY setup.captchaPage2.title.label     "कृपया पुष्टि करू जे अहाँ रोबोट नहि छी">
 
 <!-- Existing Account Page 1: Login -->
 
-<!ENTITY resetPassword.label          "कूटशब्द फेर सेट  करू ">
+<!ENTITY resetPassword.label          "गुड़किल्ली फेर सेट करू ">
 
 
 <!-- Existing Account Page 2: Sync Key -->
 
-<!ENTITY lostSyncKey.label            "मेरी सिंक कुँजी गुम हो गई अछि">
-<!ENTITY verifying.label              "जाँच रहल अछि…">
+<!ENTITY lostSyncKey.label            "हमर सिंक कुँजी गुम भए गेल अछि">
+<!ENTITY verifying.label              "जाँचि रहल अछि…">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "सिंक विकल्प">
@@ -71,57 +71,57 @@
 <!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "तुल्यकालित  करू ">
-<!ENTITY engine.bookmarks.label     "पुस्तचिह्न">
+<!ENTITY engine.bookmarks.label     "पुस्तकचिह्न">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "टैब">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "कूटशब्द">
+<!ENTITY engine.passwords.label     "गुड़किल्ली">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "वरीयता">
 <!ENTITY engine.prefs.accesskey     "S">
 
-<!ENTITY choice2.merge.main.label      "ई कंप्यूटर क आँकड़े केँ मेरे &syncBrand.shortName.label; आँकड़े सँ मिलाएँ">
+<!ENTITY choice2.merge.main.label      "ई कंप्यूटरक आँकड़ाकेँ हमर &syncBrand.shortName.label; आँकड़ासँ मिलान करू">
 <!ENTITY choice2.merge.recommended.label "अनुशंसित:">
-<!ENTITY choice2.client.main.label     "ई कंप्यूटर पर सारे आँकड़े केँ मेरे &syncBrand.shortName.label; आँकड़े सँ प्रतिस्थापित  करू ">
-<!ENTITY choice2.server.main.label     "ई कंप्यूटर आँकड़े सँ सारे  आन  युक्तियों केँ प्रतिस्थापित  करू ">
+<!ENTITY choice2.client.main.label     "ई कंप्यूटर पर सभटा आँकड़ाकेँ हमर &syncBrand.shortName.label; आँकड़ासँ प्रतिस्थापित  करू ">
+<!ENTITY choice2.server.main.label     "ई कंप्यूटर आँकड़ासँ सभटा आन युक्तिकेँ प्रतिस्थापित करू ">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "पुष्टि  करू ">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; आब एहि कंप्यूटर क सारे ब्राउज़र आँकड़े केँ अहाँक सिंक खाते सँ मिलाएगा.">
+<!ENTITY setup.optionsConfirmPage.title "पुष्टि करू ">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; आब एहि कंप्यूटरक सभटा ब्राउज़र आँकड़ा केँ अहाँक सिंक खाते सँ मिलैताह.">
 <!ENTITY confirm.client2.label         "चेतावनी: एहि कंप्यूटर पर निम्नलिखित &brandShortName; आँकड़ा मेटायल जएताह:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; तब अहाँक &syncBrand.fullName.label; आँकड़े केँ एहि कंप्यूटर पर लेबल करेगा.">
-<!ENTITY confirm.server2.label         "चेतावनी: निम्नलिखित युक्तियाँ अहाँक स्थानीय आँकड़े सँ अधिलिखित कएल जएताह:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; तखन अहाँक &syncBrand.fullName.label; आँकड़ा केँ एहि कंप्यूटर पर लेबल करताह.">
+<!ENTITY confirm.server2.label         "चेतावनी: निम्नलिखित युक्ति अहाँक स्थानीय आँकड़ा सँ अधिलिखित कएल जएताह:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "सेटअप पूर्ण">
-<!ENTITY changeOptions.label "आप एहि वरीयता केँ नीच्चाँ सिंक विकल्प चुनकर बदैल सकैत अछिं.">
-<!ENTITY continueUsing.label "आप &brandShortName; क उपयोग  कएनाइ  जारी रख सकैत अछिं.">
+<!ENTITY changeOptions.label "अहाँ एहि वरीयता केँ नीच्चाँ सिंक विकल्प चुनकए बदैल सकैत छी.">
+<!ENTITY continueUsing.label "अहाँ &brandShortName; क उपयोग कएनाइ जारी राखि सकैत छी.">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Add a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
+<!ENTITY addDevice.showMeHow.label          "देखाउ जे कहिना.">
+<!ENTITY addDevice.dontHaveDevice.label     "हमरा संग युक्ति नहि अछि">
 <!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
+<!ENTITY addDevice.setup.enterCode.label    "फेर ई कोड डालू:">
 <!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
+<!ENTITY addDevice.dialog.tryAgain.label    "कृपया फेर कोशिश करू.">
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
 <!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.dialog.connected.label   "युक्ति कनेक्टेड">
 
-<!ENTITY button.connect.label    "Connect">
+<!ENTITY button.connect.label    "कनेक्ट करू">
 <!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
+<!ENTITY serverType.custom2.label   "मनपसिन्न सर्वरक उपयोग करू…">
 <!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
-<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY setup.signInPage.title.label "साइन इन">
 <!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.account2.label      "Account">
-<!ENTITY signIn.syncKey.label       "Sync Key">
+<!ENTITY signIn.account2.label      "खाता">
+<!ENTITY signIn.syncKey.label       "सिंक">
 <!ENTITY signIn.syncKey.accesskey   "K">
 
 
