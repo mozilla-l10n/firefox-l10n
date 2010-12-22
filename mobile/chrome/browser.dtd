@@ -1,4 +1,4 @@
-<!ENTITY urlbar.emptytext "Введите поисковый запрос или адрес">
+<!ENTITY urlbar.emptytext "Введите поиск или адрес">
 <!ENTITY back.label "Назад">
 <!ENTITY forward.label "Вперёд">
 <!ENTITY reload.label "Обновить">
@@ -20,7 +20,7 @@
 <!ENTITY allPagesHeader.label "Все страницы">
 <!ENTITY bookmarksHeader.label "Закладки">
 <!ENTITY historyHeader.label "Журнал">
-<!ENTITY desktopHeader.label "Рабочий стол">
+<!ENTITY desktopHeader.label "Десктоп">
 <!ENTITY editBookmarkDone.label "Готово">
 <!ENTITY editBookmarkTags.label "Добавьте сюда метки">
 <!ENTITY selectHelper.done "Готово">
