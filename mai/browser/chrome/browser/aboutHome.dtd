@@ -4,24 +4,24 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
+<!ENTITY abouthome.pageTitle "&brandFullName; आरंभ पृष्ठ">
 
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
 
-<!ENTITY abouthome.searchEngineButton.label "Search">
+<!ENTITY abouthome.searchEngineButton.label "खोजू">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Advanced Search">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferences">
+<!ENTITY abouthome.searchEngineLinks.advanced "उन्नत खोज">
+<!ENTITY abouthome.searchEngineLinks.preferences "वरीयता">
 
-<!ENTITY abouthome.aboutMozilla "About Mozilla">
+<!ENTITY abouthome.aboutMozilla "मोजिल्लाक परिचय">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "फायरफाक्सक चुनबाक लेल अहाँक धन्यवाद! अपन ब्राउजरक संबंधमे बेसीसँ बेसी पाबैक लेल <a>नवीनतम विशेषता</a> क संबंधमे जानू.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->

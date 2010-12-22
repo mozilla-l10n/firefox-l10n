@@ -115,17 +115,17 @@
 <!ENTITY  securityView.identity.verifier "एकटार द्वारा सत्यापित: ">
 
 <!ENTITY  securityView.privacy.header                   "गोपनीयता &amp; इतिहास">
-<!ENTITY  securityView.privacy.history                  "की मैंने ई वेब साइट आज सँ पहले देखा  अछि ?">
-<!ENTITY  securityView.privacy.cookies                  "की ई वेब साइट हमर कंप्यूटर पर सूचना (कुकी) जमा कए रहल  अछि ?">
+<!ENTITY  securityView.privacy.history                  "की हम ई वेब साइट आइसँ पहिने देखने छी?">
+<!ENTITY  securityView.privacy.cookies                  "की ई वेब साइट हमर कंप्यूटर पर सूचना (कुकी) जमा कए रहल अछि?">
 <!ENTITY  securityView.privacy.viewCookies              "कुकी देखू">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "की मैंने कोनो गुड़किल्ली एहि वेबसाइट क लेल सहेजल  अछि ?">
+<!ENTITY  securityView.privacy.passwords                "की हम कोनो गुड़किल्ली एहि वेबसाइट क लेल सहेजने छी?">
 <!ENTITY  securityView.privacy.viewPasswords            "सहेजल गेल गुड़किल्ली देखू">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "तकनीकी विवरण">
 
-<!ENTITY  permIndexedDB              "आफ़लाइन भंडारण बनाए राखू">
-<!ENTITY  permClearStorage           "भंडारण साफ़  करू ">
+<!ENTITY  permIndexedDB              "आफ़लाइन भंडारण बनेने राखू">
+<!ENTITY  permClearStorage           "भंडारण साफ़ करू ">
 <!ENTITY  permClearStorage.accesskey "C">
 
