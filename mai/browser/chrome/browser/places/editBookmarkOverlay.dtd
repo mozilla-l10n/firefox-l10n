@@ -8,7 +8,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "जीवंत शीर्षक">
 <!ENTITY editBookmarkOverlay.folder.label                    "फोल्डर:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "सभटा पुस्तकचिह्न फोल्डर देखाओलँ">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "सभटा पुस्तकचिह्न फोल्डर देखाउ">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "नुकाउ">
 <!ENTITY editBookmarkOverlay.tags.label                      "टैग:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
@@ -17,8 +17,8 @@
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "बीजशब्द:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "सभटा टैग देखाओलँ">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "बाज़ू पट्टी मे ई पुस्तकचिह्न लोड  करू ">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "सभटा टैग देखाउ">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "कतका पट्टी मे ई पुस्तकचिह्न लोड  करू ">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "चुनू…">
 

@@ -1,5 +1,5 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; सेटअप  करू ">
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; सेटअप करू ">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; अहाँकेँ अपनी पूरी युक्तियों मे अहाँक इतिहास, पुस्तचिह्न, कूटशब्दों आओर खुले टैब क पहुँच लेने देत अछि.">
 
@@ -15,10 +15,10 @@
 <!ENTITY manageAccount.label          "खाता प्रबंधित  करू ">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "कोटा देखू">
-<!ENTITY changePassword.label         "कूटशब्द बदलू">
-<!ENTITY mySyncKey.label              "मेरा सिंक कुंजी">
+<!ENTITY changePassword.label         "गुड़किल्ली बदलू">
+<!ENTITY mySyncKey.label              "हमर सिंक कुंजी">
 <!ENTITY resetSync.label              "सिंक फेर सेट  करू ">
-<!ENTITY stopUsingAccount.label       "ई खाता क उपयोग रोकें">
+<!ENTITY stopUsingAccount.label       "ई खाता क उपयोग रोकू">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "सिंक ब्राउज़  करू ">
@@ -32,7 +32,7 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "कूटशब्द">
+<!ENTITY engine.passwords.label     "गुड़किल्ली">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "वरीयता">
 <!ENTITY engine.prefs.accesskey     "S">

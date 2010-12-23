@@ -1,13 +1,13 @@
-<!ENTITY migrationWizard.title "सहायक क आयात  करू ">
-<!ENTITY importFrom.label "पसन्द, पुस्तकचिह्न, इतिहास, गुड़किल्ली एवं  आन  आँकड़ा एतय सँ आयात  करू :">
-<!ENTITY noMigrationSources.label       "प्रोग्राम जे पुस्तकचिह्न, इतिहास अथवा गुड़किल्ली आँकड़ा रखती  अछि  पायी गई.">
-<!ENTITY importFromUnix.label "विकल्प, पुस्तकचिह्न, इतिहास, गुड़किल्ली एवं  आन  आंकड़ा एतय सँ आयात  करू :">
+<!ENTITY migrationWizard.title "सहायक क' आयात  करू ">
+<!ENTITY importFrom.label "पसन्द, पुस्तकचिह्न, इतिहास, गुड़किल्ली आओर आन आँकड़ा एतय सँ आयात करू :">
+<!ENTITY noMigrationSources.label       "प्रोग्राम जे पुस्तकचिह्न, इतिहास अथवा गुड़किल्ली आँकड़ा रखती अछि पायी गई.">
+<!ENTITY importFromUnix.label "विकल्प, पुस्तकचिह्न, इतिहास, गुड़किल्ली आओर आन आंकड़ा एतय सँ आयात करू :">
 <!ENTITY importFromBookmarks.label "पुस्तकचिह्न एतय सँ आयात  करू :">
-<!ENTITY importFromIE.label "माइक्रोसाफ़्ट इंटरनेट एकटा्सप्लोरर">
+<!ENTITY importFromIE.label "माइक्रोसाफ़्ट इंटरनेट एक्सप्लोरर">
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromPhoenix.label "फायरफाक्स 0.8, फ़ायरबर्ड अथवा फीनिक्स">
 <!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "किछु भी आयात न करू (D)">
+<!ENTITY importFromNothing.label "किछु आयात नहि करू (D)">
 <!ENTITY importFromNothing.accesskey "D">
 <!ENTITY importFromSeamonkey.label "नेटस्केप 6, 7 अथवा मोज़िला 1.x">
 <!ENTITY importFromSeamonkey.accesskey "N">
@@ -27,16 +27,16 @@
 <!ENTITY importFromEpiphany.accesskey "E">
 <!ENTITY importFromGaleon.label "गैलियन">
 <!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importSource.title "सेटिंग आओर आँकड़ा एतय सँ आयात  करू ">
-<!ENTITY importItems.title "आयात क वस्तुएँ">
-<!ENTITY importItems.label "आयात क वस्तु क चयन  करू ">
-<!ENTITY migrating.title "आयात कए रहल  अछि ...">
-<!ENTITY migrating.label "वर्तमान मे ये वस्तुएँ आयात क जाए रहल  अछि ...">
-<!ENTITY selectProfile.title "प्रोफाइल क चयन  करू ">
-<!ENTITY selectProfile.label "एतय सँ आयात करब क लेल ये प्रोफाइल उपलब्ध  अछि :">
+<!ENTITY importSource.title "सेटिंग आओर आँकड़ा एतय सँ आयात करू ">
+<!ENTITY importItems.title "आयातक वस्तुसभ">
+<!ENTITY importItems.label "आयातक वस्तुक चयन  करू ">
+<!ENTITY migrating.title "आयात कए रहल अछि ...">
+<!ENTITY migrating.label "वर्तमान मे ई वस्तुसभ आयात कएल जाए रहल अछि ...">
+<!ENTITY selectProfile.title "प्रोफाइलक चयन करू ">
+<!ENTITY selectProfile.label "एतयसँ आयात करबाक लेल ई प्रोफाइल उपलब्ध अछि :">
 <!ENTITY done.title "आयात संपन्न">
-<!ENTITY done.label "ये वस्तुएँ सफलतापूर्वक आयात कएल गेल:">
-<!ENTITY importFromHTMLFile.label       "HTML फाइल से">
+<!ENTITY done.label "ई वस्तुएँ सफलतापूर्वक आयात कएल गेल:">
+<!ENTITY importFromHTMLFile.label       "HTML फाइल सँ">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 
 <!ENTITY importFromSafari.accesskey     "S">

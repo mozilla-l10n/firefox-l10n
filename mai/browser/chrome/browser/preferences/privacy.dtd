@@ -15,7 +15,7 @@
 
 
 
-<!ENTITY  clearOnClose.label             "इतिहास साफ करू जखन &brandShortName; बन्न हाइछ">
+<!ENTITY  clearOnClose.label             "इतिहास साफ करू जखन &brandShortName; बन्न होइछ">
 <!ENTITY  clearOnClose.accesskey         "w">
 
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग…">
@@ -25,13 +25,13 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "अहाँ ई कएनाइ भी चाह सकैत छी ">
+<!ENTITY  dontrememberActions.pre.label          "अहाँ ई कएनाइ चाह सकैत छी ">
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; करताह:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "इतिहास याद राखू">
-<!ENTITY  historyHeader.dontremember.label "इतिहास  कहियो  याद मत राखू">
+<!ENTITY  historyHeader.dontremember.label "इतिहास  कहियो  याद नहि राखू">
 <!ENTITY  historyHeader.custom.label       "Use custom settings for history">
 <!ENTITY  historyHeader.post.label         "">
 
@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY  rememberDescription.label      "&brandShortName; अहाँक ब्राउजिंग, डाउनलोड, फार्म, आओर खोज इतिहास केँ याद राखैतह आओर वेबसाइट सँ कुकीज जमा राखैतह जखन अहँ साइट पर जाइत  अछि .">
+<!ENTITY  rememberDescription.label      "&brandShortName; अहाँक ब्राउजिंग, डाउनलोड, फार्म, आओर खोज इतिहास केँ याद राखताह आओर वेबसाइटसँ कुकीज जमा राखताह जखन अहाँ साइट पर जाइत  छी.">
 
 
 <!-- LOCALIZATION NOTE:
@@ -69,7 +69,7 @@
 <!ENTITY  rememberActions.removeCookies.label "व्यक्तिगत कुकीज हटाउ">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; निज ब्राउजिंग क तरह क ही सेटिंग प्रयोग करताह आओर अहाँक वेब ब्राउज़ करब क दौरान कोनो इतिहास याद नहि रखिताह.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; निज ब्राउजिंगक तरह सेटिंग प्रयोग करताह आओर अहाँक वेब ब्राउज़ करबाक दौरान कोनो इतिहास याद नहि रखताह.">
 
 
 
@@ -92,7 +92,7 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 
-<!ENTITY  locbar.pre.label              "जखन स्थान पट्टी क प्रयोग कएल जाए रहल  अछि , सलाह दिअ':">
+<!ENTITY  locbar.pre.label              "जखन स्थान पट्टीक प्रयोग कएल जाए रहल अछि, सलाह दिअ':">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "इतिहास आ पुस्तकचिह्न">

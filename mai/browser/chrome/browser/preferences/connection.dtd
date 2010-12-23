@@ -2,7 +2,7 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "इंटरनेट पहुँच कलेल  प्राक्सी विन्यस्त  करू ">
+<!ENTITY  proxyTitle.label              "इंटरनेट पहुँचक लेल प्राक्सी विन्यस्त  करू ">
 <!ENTITY  noProxyTypeRadio.label        "कोनो प्राक्सी नहि">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "तंत्र प्राक्सी सेटिंगक प्रयोग  करू ">
@@ -35,8 +35,8 @@
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "एकटार लेल कोनो प्राक्सी नहि:">
+<!ENTITY  noproxy.label                 "एकरा लेल कोनो प्राक्सी नहि:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "उदाहरण: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "सभटा प्रोटोकाल क लेल प्राक्सी सर्वर क प्रयोग  करू ">
+<!ENTITY  shareproxy.label              "सभटा प्रोटोकाल क लेल प्राक्सी सर्वरक प्रयोग  करू ">
 <!ENTITY  shareproxy.accesskey          "x">
