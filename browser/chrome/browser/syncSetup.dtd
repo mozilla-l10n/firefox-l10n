@@ -1,0 +1,108 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; баптау">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "Қош келдіңіз, егер сіз &syncBrand.fullName.label; бұрын қолданбаған болсаңыз, сізге жаңа тіркелгіні жасау керек.">
+<!ENTITY button.createNewAccount.label "Жаңа тіркелгіні жасау">
+<!ENTITY setup.haveAccount.label "Менде &syncBrand.fullName.label; тіркелгісі бар болып тұр.">
+<!ENTITY button.connect.label    "Байланысу">
+
+<!ENTITY setup.choicePage.title.label     "Осыған дейін &syncBrand.fullName.label; қолданғансыз ба?">
+<!ENTITY setup.choicePage.new.label       "Мен бұрын &syncBrand.shortName.label; қолданған жоқпын">
+<!ENTITY setup.choicePage.existing.label  "Мен қазір &syncBrand.shortName.label; басқа компьютерде қолданып отырмын">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Сервер">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; сервері">
+<!ENTITY serverType.custom2.label   "Басқа серверді қолдану…">
+<!ENTITY signIn.account2.label      "Тіркелгі">
+<!ENTITY signIn.account2.accesskey  "Т">
+<!ENTITY signIn.password.label      "Пароль">
+<!ENTITY signIn.password.accesskey  "П">
+<!ENTITY signIn.syncKey.label       "Синхрондау кілті">
+<!ENTITY signIn.syncKey.accesskey   "С">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Тіркелгі ақпараты">
+<!ENTITY setup.confirmPassword.label  "Парольді растау">
+<!ENTITY setup.confirmPassword.accesskey  "л">
+<!ENTITY setup.emailAddress.label     "Эл. поштау адресі">
+<!ENTITY setup.emailAddress.accesskey "Э">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Мен келісемін">
+<!ENTITY setup.tosAgree1.accesskey  "е">
+<!ENTITY setup.tosLink.label        "қолдану шарттары">
+<!ENTITY setup.tosAgree2.label      "және">
+<!ENTITY setup.ppLink.label         "жекелік саясатымен">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; сіздің жекелігіңізді қолдайды">
+<!ENTITY setup.newSyncKeyPage.description.label "Жекелігіңізді сақтау үшін жүктелу алдында барлық ақпарат шифрленеді. Ақпаратты дешифрлеу үшін керек Синхрондау кілті жүктелмейді.">
+<!ENTITY syncKeyEntry.label        "Сіздің синхрондау кілтіңіз">
+<!ENTITY syncKeyEntry.accesskey    "к">
+<!ENTITY syncKeyGenerate.label     "Генерациялау">
+<!ENTITY syncKeyBackup.description "Сіздің Синхрондау кілтіңіз &syncBrand.fullName.label; басқа компьютерлерде қатынау үшін керек. Қор көшірмесін жасаңыз. Жоғалған Синхрондау кілтін біз қалпына келтіре алмаймыз.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Баспаға шығару…">
+<!ENTITY button.syncKeyBackup.print.accesskey "Б">
+<!ENTITY button.syncKeyBackup.save.label      "Сақтау…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "С">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Өзіңіз робот емес екеніңізді растаңыз">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Құрылғыны қосу">
+<!ENTITY addDevice.showMeHow.label          "Қазір көрсету.">
+<!ENTITY addDevice.dontHaveDevice.label     "Менде өзіммен бірге құрылғылар жоқ">
+<!ENTITY addDevice.setup.description.label  "Белсендіру үшін, сіздің басқа &syncBrand.shortName.label; құрылғының опцияларына барып, &#x0022;Құрылғыны қосу&#x0022; таңдаңыз.">
+<!ENTITY addDevice.setup.enterCode.label    "Одан кейін бұл кодты енгізіңіз:">
+<!ENTITY addDevice.dialog.description.label "Жаңа құрылғыны белсендіру үшін, ол құрылғыдағы &syncBrand.shortName.label; опцияларына барып, &#x0022;Байланысу&#x0022; таңдаңыз.">
+<!ENTITY addDevice.dialog.enterCode.label   "Құрылғы ұсынып тұрған кодты енгізіңіз:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Қайталап көріңіз.">
+<!ENTITY addDevice.dialog.successful.label  "Құрылғы сәтті қосылды. Алғашқы синхрондау бірнеше минутты алуы мүмкін, ол фонда орындалатын болады.">
+<!ENTITY addDevice.dialog.syncKey.label     "Құрылғыңызды белсендіру үшін өзіңіздің Синхрондау кілтін енгізуіңіз керек. Бұл кілтті баспаға шығарып, не сақтап, өзіңізбен бірге ұстаңыз.">
+<!ENTITY addDevice.dialog.connected.label   "Құрылғы байланысқан">
+
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Кіру">
+<!ENTITY existingSyncKey.description "Өзіңіздің Синхрондау кілтінің көшірмесін алу үшін, басқа құрылғыдағы &syncBrand.shortName.label; опцияларына барып, &#x0022;Тіркелгіні басқару&#x0022; ішінен &#x0022;Менің Синхрондау кілтім&#x0022; таңдаңыз.">
+<!ENTITY verifying.label              "Растау…">
+<!ENTITY resetPassword.label          "Парольді тастау">
+<!ENTITY lostSyncKey.label            "Мен өзімнің Синхрондау кілтін жоғалттым">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Синхрондау опциялары">
+<!ENTITY syncComputerName.label       "Компьютер аты:">
+<!ENTITY syncComputerName.accesskey   "м">
+
+<!ENTITY syncMy.label               "Нені синхрондау">
+<!ENTITY engine.bookmarks.label     "Бетбелгілер">
+<!ENTITY engine.bookmarks.accesskey "б">
+<!ENTITY engine.tabs.label          "Беттер">
+<!ENTITY engine.tabs.accesskey      "т">
+<!ENTITY engine.history.label       "Тарих">
+<!ENTITY engine.history.accesskey   "р">
+<!ENTITY engine.passwords.label     "Парольдер">
+<!ENTITY engine.passwords.accesskey "П">
+<!ENTITY engine.prefs.label         "Баптаулар">
+<!ENTITY engine.prefs.accesskey     "а">
+
+<!ENTITY choice2.merge.main.label      "Бұл компьютер ақпаратын менің &syncBrand.shortName.label; ақпаратымен біріктіру">
+<!ENTITY choice2.merge.recommended.label "Ұсынылатын:">
+<!ENTITY choice2.client.main.label     "Бұл компьютердегі ақпаратты менің &syncBrand.shortName.label; ақпаратымен алмастыру">
+<!ENTITY choice2.server.main.label     "Барлық басқа құрылғыларды бұл компьютер ақпаратымен алмастыру">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Растау">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; қазір бұл компьютердің браузер ақпаратын сіздің Синхрондау тіркелгісімен біріктіреді.">
+<!ENTITY confirm.client2.label         "Ескерту: Бұл компьютердегі &brandShortName; келесі ақпараты өшіріледі:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; одан кейін сіздің &syncBrand.fullName.label; ақпаратыңызды бұл компьютерге көшіреді.">
+<!ENTITY confirm.server2.label         "Ескерту: Келесі құрылғылар сіздің жергілікті ақпаратыңызбен алмастырылады:">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Баптау аяқталды">
+<!ENTITY changeOptions.label "Бұл баптауды төмендегі Синхрондау опциялары көмегімен өзгерте аласыз.">
+<!ENTITY continueUsing.label "Енді &brandShortName; қолдана аласыз.">
