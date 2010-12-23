@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "Бірінші парақ">
 <!ENTITY endarrow.tooltip     "Соңғы парақ">
-<!ENTITY rightarrow.tooltip   "Келесі парақ">
-<!ENTITY leftarrow.tooltip    "Алдыңғы парақ">
+<!ENTITY nextarrow.tooltip    "Келесі парақ">
+<!ENTITY previousarrow.tooltip "Алдыңғы парақ">

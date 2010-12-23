@@ -1,174 +1,111 @@
-<!ENTITY addons.title                     "Қосымшалар">
+<!ENTITY addons.windowTitle                   "Қосымшалар басқарушысы">
+<!ENTITY search.placeholder                   "Қосымшаларды іздеу">
+<!ENTITY loading.label                        "Жүктелуде…">
+<!ENTITY listEmpty.installed.label            "Сізде осы түрдегі қосымшалар орнатылмаған">
+<!ENTITY listEmpty.search.label               "Сәйкес келетін қосымшалар табылмады">
+<!ENTITY listEmpty.button.label               "Қосымшалар жөнінде көбірек біліңіз">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "520">
-<!ENTITY em.height                        "380">
 
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "Іздеу">
+<!ENTITY view.discover.label                  "Қосымшаларды алу">
+<!ENTITY view.locales.label                   "Тілдер">
+<!ENTITY view.searchengines.label             "Іздеу сайттары">
+<!ENTITY view.features.label                  "Кеңейтулер">
+<!ENTITY view.appearance.label                "Темалар">
+<!ENTITY view.plugins.label                   "Плагиндер">
 
-<!-- View labels -->
-<!ENTITY search.label                     "Қосымшаларды алу">
-<!ENTITY extensions.label                 "Кеңейтулер">
-<!ENTITY themes.label                     "Темалар">
-<!ENTITY locales.label                    "Локализациялар">
-<!ENTITY plugins.label                    "Плагиндер">
-<!ENTITY update.label                     "Жаңартулар">
-<!ENTITY install.label                    "Орнату">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "Қосымшаларды жаңарту">
+<!ENTITY updates.updating.label               "Қосымшалар жаңартылуда">
+<!ENTITY updates.installed.label              "Қосымшаларыңыз жаңартылды.">
+<!ENTITY updates.downloaded.label             "Қосымшаларыңыз жаңартулары жүктеліп алынды.">
+<!ENTITY updates.restart.label                "Орнатуды аяқтау үшін қазір қайта қосу">
+<!ENTITY updates.noneFound.label              "Жаңартулар табылмады">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Жаңартуларды іздеу">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "Ж">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Кеңейтулеріңіз үшін жаңартулар іздеу">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Темаларыңыз үшін жаңартулар іздеу">
-<!ENTITY cmd.installLocalFile.label       "Орнату...">
-<!ENTITY cmd.installLocalFile.accesskey   "р">
-<!ENTITY cmd.installFileAddon.tooltip     "Қосымшаны орнату">
-<!ENTITY cmd.installFileTheme.tooltip     "Теманы орнату">
-<!ENTITY cmd.installUpdatesAll.label      "Жаңартуларды орнату">
-<!ENTITY cmd.installUpdatesAll.accesskey  "т">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Таңдалған жаңартуларды орнату">
-<!ENTITY cmd.restartApp2.label            "&brandShortName; қайта қосу">
-<!ENTITY cmd.restartApp2.accesskey        "с">
-<!ENTITY cmd.restartApp2.tooltip          "Өзгерістерді іске асыру үшін &brandShortName; қайта қосу">
-<!ENTITY cmd.skip.label                   "Өткізіп жіберу">
-<!ENTITY cmd.skip.accesskey               "т">
-<!ENTITY cmd.skip.tooltip                 "Осы жаңартуларды елемеу">
-<!ENTITY cmd.continue.label               "Жалғастыру">
-<!ENTITY cmd.continue.accesskey           "Ж">
-<!ENTITY cmd.continue.tooltip             "&brandShortName; жүктелуін жалғастыру">
-
-<!ENTITY cmd.enableAll.label              "Барлығын қосу">
-<!ENTITY cmd.enableAll.accesskey          "Б">
-<!ENTITY cmd.enableAll.tooltip            "Көрсетілген қосымшалардың барлығын қосады">
-<!ENTITY cmd.disableAll.label             "Барлығын өшіру">
-<!ENTITY cmd.disableAll.accesskey         "ш">
-<!ENTITY cmd.disableAll.tooltip           "Көрсетілген қосымшалардың барлығын өшіру">
-
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "Қолдану">
-<!ENTITY cmd.useTheme.accesskey           "л">
-<!ENTITY cmd.useTheme.tooltip             "&brandShortName; темасын өзгертеді">
-<!ENTITY cmd.options.label                "Баптаулар">
-<!ENTITY cmd.options.accesskey            "Б">
-<!ENTITY cmd.options.tooltip              "Ерекшеленген кеңейтудің баптауларын өзгерту">
-<!ENTITY cmd.optionsUnix.label            "Баптаулар">
-<!ENTITY cmd.optionsUnix.accesskey        "у">
-<!ENTITY cmd.optionsUnix.tooltip          "Ерекшеленген кеңейтудің баптауларын өзгерту">
-<!ENTITY cmd.enable.label                 "Қосу">
-<!ENTITY cmd.enable.accesskey             "о">
-<!ENTITY cmd.enable.tooltip               "Осы қосымшаны &brandShortName; қайта қосылғаннан кейін қосады">
-<!ENTITY cmd.disable.label                "Сөндіру">
-<!ENTITY cmd.disable.accesskey            "С">
-<!ENTITY cmd.disable.tooltip              "Осы қосымшаны &brandShortName; қайта қосылғаннан кейін өшіреді">
-<!ENTITY cmd.uninstall.label              "Өшіру">
-<!ENTITY cmd.uninstall2.accesskey         "ш">
-<!ENTITY cmd.uninstall2.tooltip           "Осы қосымшаны &brandShortName; қайта қосылғаннан кейін өшіріп тастайды">
-<!ENTITY cmd.cancelUninstall.label        "Өшіруден бас тарту">
-<!ENTITY cmd.cancelUninstall.accesskey    "т">
-<!ENTITY cmd.cancelUninstall.tooltip      "Осы қосымшаны өшіруді болдырмау">
-<!ENTITY cmd.cancelInstall.label          "Орнатуды болдырмау">
-<!ENTITY cmd.cancelInstall.accesskey      "л">
-<!ENTITY cmd.cancelInstall.tooltip        "Осы қосымшаны орнатуды болдырмау">
-<!ENTITY cmd.cancelUpgrade.label          "Жаңартуды болдырмау">
-<!ENTITY cmd.cancelUpgrade.accesskey      "ы">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Осы қосымшаны жаңартуды болдырмау">
-<!ENTITY cmd.installUpdate.label          "Жаңартуды орнату">
-<!ENTITY cmd.installUpdate.accesskey      "р">
-<!ENTITY cmd.installUpdate.tooltip        "Қосымша үшін жаңартуды орнату">
-<!ENTITY cmd.showUpdateInfo.label         "Ақпаратты көрсету">
-<!ENTITY cmd.showUpdateInfo.accesskey     "А">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Осы жаңартулар туралы көбірек білу">
-<!ENTITY cmd.hideUpdateInfo.label         "Ақпаратты жасыру">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "ж">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Осы жаңартулар үшін ақпаратты жасыру">
-<!ENTITY cmd.installSearchResult.label     "&brandShortName; ішіне қосу…">
-<!ENTITY cmd.installSearchResult.accesskey "с">
-<!ENTITY cmd.installSearchResult.tooltip   "Осы қосымшаны жүктеп алып, орнату">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "Бас тарту">
-<!ENTITY cancel.accesskey                 "т">
-<!ENTITY cancelInstall.label              "Бас тарту">
-<!ENTITY cancelInstall.accesskey          "т">
-<!ENTITY cancelUpgrade.label              "Бас тарту">
-<!ENTITY cancelUpgrade.accesskey          "т">
-
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Үй парағын көрсету">
-<!ENTITY cmd.homepage.accesskey           "й">
-<!ENTITY cmd.about2.label                 "Осы қосымша туралы">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Көбірек ақпаратты көрсету">
+<!ENTITY cmd.showDetails.accesskey            "е">
+<!ENTITY cmd.findUpdates.label                "Жаңартуларды табу">
+<!ENTITY cmd.findUpdates.accesskey            "а">
+<!ENTITY cmd.preferences.label                "Баптаулар">
+<!ENTITY cmd.preferences.accesskey            "п">
+<!ENTITY cmd.about.label                      "Осы туралы">
 <!ENTITY cmd.about.accesskey              "т">
-<!ENTITY cmd.checkUpdate.label            "Жаңартуды іздеу">
-<!ENTITY cmd.checkUpdate.accesskey        "з">
 
-<!ENTITY cmd.includeUpdate.label          "Жаңартуды орнату">
-<!ENTITY cmd.includeUpdate.accesskey      "р">
-<!ENTITY includeUpdate.label              "Осы жаңартуды енгізу">
-<!ENTITY includeUpdate.accesskey          "е">
-<!ENTITY includeUpdate.tooltip            "Жаңартуларды енгізу кезінде осы қосымшаны жаңарту">
+<!ENTITY cmd.enableAddon.label                "Іске қосу">
+<!ENTITY cmd.enableAddon.accesskey            "с">
+<!ENTITY cmd.enableAddon.tooltip              "Бұл қосымшаны іске қосу">
+<!ENTITY cmd.disableAddon.label               "Сөндіру">
+<!ENTITY cmd.disableAddon.accesskey           "д">
+<!ENTITY cmd.disableAddon.tooltip             "Бұл қосымшаны сөндіру">
+<!ENTITY cmd.uninstallAddon.label             "Өшіру">
+<!ENTITY cmd.uninstallAddon.accesskey         "ш">
+<!ENTITY cmd.uninstallAddon.tooltip           "Бұл қосымшаны өшіру">
+<!ENTITY cmd.showPreferences.label            "Баптаулар">
+<!ENTITY cmd.showPreferences.tooltip          "Бұл қосымшаның баптауларын өзгерту">
+<!ENTITY cmd.contribute.label                 "Үлес қосу">
+<!ENTITY cmd.contribute.accesskey             "с">
+<!ENTITY cmd.contribute.tooltip               "Бұл қосымшаны дамытуға үлес қосу">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Қауіпсіз жаңартуларды қамтамасыз етпейді.">
-<!ENTITY needsDependencies.label          "Қосымша құраманы сұрайды.">
-<!ENTITY blocklisted.label                "Сіздің қауіпсіздігі үшін өшірілді.">
-<!ENTITY softBlocklisted.label            "Қауіпсіздік немесе тұрақтылықпен мәселелер тұғызуы мүмкін.">
-<!ENTITY toBeDisabled.label               "Бұл қосымша &brandShortName; қайта қосылған кезде уақытша өшіріледі.">
-<!ENTITY toBeEnabled.label                "Бұл қосымша &brandShortName; қайта қосылған кезде қосылады.">
-<!ENTITY toBeInstalled.label              "Бұл қосымша &brandShortName; қайта қосылған кезде уақытша орнатылады.">
-<!ENTITY toBeUninstalled.label            "Бұл қосымша &brandShortName; қайта қосылған кезде толығымен өшіріледі.">
-<!ENTITY toBeUpdated.label                "Бұл қосымша &brandShortName; қайта қосылған кезде жаңартылады.">
 
-<!ENTITY getExtensions.label              "Жаңартуларды жүктеп алу">
-<!ENTITY getThemes.label                  "Темаларды жүктеп алу">
-<!ENTITY getPlugins.label                 "Плагиндерді алу">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Нұсқасы">
+<!ENTITY detail.updated.label                 "Жаңартылған">
+<!ENTITY detail.creator.label                 "Жасаған">
+<!ENTITY detail.homepage.label                "Үй парағы">
+<!ENTITY detail.numberOfDownloads.label       "Жүктемелер">
 
-<!ENTITY searchAddons.label               "Барлық қосымшалар ішінен іздеу">
-<!ENTITY browseAddons.label               "Барлық қосымшаларды қарап шығу">
-<!ENTITY searchFailed.label               "&brandShortName; қосымшаларды таба алмады">
-<!ENTITY recommendedHeader.label          "Ұсынылатын">
-<!ENTITY recommendedThrobber.label        "Ұсынылатын плагиндерді алу">
-<!ENTITY searchThrobber.label             "Қосымшаларды іздеу жүруде">
-<!ENTITY resetSearch.label                "Іздеу нәтижелерін тазарту">
-<!ENTITY noSearchResults.label            "Табылған қосымшалардың барлығы орнатылған немесе үйлеспейді.">
-<!ENTITY noRecommendedResults.label       "Ұсынылатын қосымшалардың барлығы орнатылған немесе үйлеспейді.">
-<!ENTITY emptySearch.label                "Сәйкес келетін қосымшалар жоқ">
-<!ENTITY emptySearch.button               "ОК">
-<!ENTITY cancelSearch.button              "Бас тарту">
-<!ENTITY searchFailed.button              "ОК">
-<!ENTITY searchResultHomepage.value       "Көбірек білу">
-<!ENTITY searchBox.label                  "Барлық қосымшалар ішінен іздеу">
-<!ENTITY recommendedResults.label         "Ұсынылатын қосымшалардың барлығын қарап шығу">
-<!ENTITY searchResultConnecting.label     "Байланыс орнатылуда...">
-<!ENTITY searchResultInstalling.label     "Орнату жүруде...">
-<!ENTITY searchResultFailed.label         "Орнату сәтсіз аяқталды">
-<!ENTITY searchResultInstalled.label      "Орнату аяқталды">
-<!ENTITY addonTypeExtension.label         "Кеңейту">
-<!ENTITY addonTypeTheme.label             "Тема">
-<!ENTITY missingThumbnail.label           "Алдын-ала қарау жоқ">
+<!ENTITY detail.updateAutomatically.label     "Автожаңарту">
+<!ENTITY detail.updateAutomatically.accesskey "в">
+<!ENTITY detail.updateAutomatically.tooltip   "Жаңарту қолжетерлік кезде бұл қосымшаны автожаңарту">
+<!ENTITY detail.checkForUpdates.label         "Жаңартуларды іздеу">
+<!ENTITY detail.checkForUpdates.accesskey     "т">
+<!ENTITY detail.checkForUpdates.tooltip       "Бұл қосымша үшін жаңартуларды іздеу">
+<!ENTITY detail.showPreferences.label         "Баптаулар">
+<!ENTITY detail.showPreferences.accesskey     "т">
+<!ENTITY detail.showPreferences.tooltip       "Бұл қосымша баптауларын өзгерту">
 
-<!ENTITY previewNoThemeSelected.label     "Тема таңдалмаған">
-<!ENTITY previewNoPreviewImage.label      "Осы тема үшін алдын-ала қарау жоқ">
-<!ENTITY moreInfo.label                   "Көбірек білу">
-<!ENTITY infoNoAddonSelected.label        "Жаңарту таңдалмады">
-<!ENTITY infoNoUpdateInfo.label           "Осы жаңарту жөнінде көбірек ақпарат жоқ">
-<!ENTITY infoUpdateInfoError.label        "Осы жаңарту жөнінде көбірек ақпаратты жүктеу кезінде қате кетті">
 
-<!ENTITY updateSuccess.label              "Жаңарту сәтті аяқталды.">
-<!ENTITY installSuccess.label             "Жаңарту сәтті аяқталды.">
-<!ENTITY installSuccessRestart.label      "Жаңартуды аяқтау үшін бағдарламаны қайта қосу керек.">
-<!ENTITY updateSuccessRestart.label       "Жаңартуды аяқтау үшін бағдарламаны қайта қосу керек.">
-<!ENTITY installWaiting.label             "Күту...">
-<!ENTITY installIncompatibleUpdate.label  "Үйлесу тексерілуде...">
-<!ENTITY installFinishing.label           "Орнату жүруде...">
-<!ENTITY installFailure.label             "Орнату сәтсіз аяқталды.">
+<!-- ratings -->
+<!ENTITY rating.label                         "Рейтингі:">
 
-<!ENTITY progressStatus.label             "Жаңарту бар-жоғын тексеру">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Аялдату">
+<!ENTITY progress.cancel.tooltip              "Бас тарту">
 
-<!ENTITY eula.title                       "Пайдаланушы келісім шарты">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Қабылдау мен орнату...">
 
-<!ENTITY blocklist.blocked.label          "Оқшауланған">
-<!ENTITY blocklist.checkbox.label         "Сөндіру">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Аты">
+<!ENTITY sort.name.tooltip                    "Аты бойынша сұрыптау">
+<!ENTITY sort.size.label                      "Өлшемі">
+<!ENTITY sort.size.tooltip                    "Өлшемі бойынша сұрыптау">
+<!ENTITY sort.dateUpdated.label               "Соңғы жаңартылған">
+<!ENTITY sort.dateUpdated.tooltip             "Жаңартылған күні бойынша сұрыптау">
+<!ENTITY sort.rating.label                    "Рейтинг">
+<!ENTITY sort.rating.tooltip                  "Орташа рейтингі бойынша сұрыптау">
+
+
+<!ENTITY showMore.label                       "Көбірек ақпарат">
+<!ENTITY showMore.tooltip                     "Көбірек ақпаратты көрсету">
+<!ENTITY showLess.label                       "Азырақ ақпарат">
+<!ENTITY showLess.tooltip                     "Азырақ ақпаратты көрсету">
+
+<!ENTITY search.filter.label                  "Көрсету:">
+<!ENTITY search.filter.installed.label        "Сізде орнатылған қосымшалар">
+<!ENTITY search.filter.available.label        "Қолжетерлік қосымшалар">
+
+<!ENTITY addon.homepage                       "Үй парағы">
+<!ENTITY addon.unknownDate                    "Белгісіз">
+<!ENTITY addon.disabled.postfix               "(сөндірілген)">
+<!ENTITY addon.undo.label                     "Болдырмау?">
+<!ENTITY addon.undo.tooltip                   "Бұл әрекетті болдырмауUndo this action">
+<!ENTITY addon.undoUninstall.label            "Болдырмау?">
+<!ENTITY addon.undoUninstall.tooltip          "Бұл қосымшаны орнатулы қалдыру">
+<!ENTITY addon.restartNow.label               "Қазір қайта қосу">
+<!ENTITY addon.restartNow.tooltip             "Орнатуды аяқтау үшін қазір қайта қосу">
+<!ENTITY addon.install.label                  "Орнату">
+<!ENTITY addon.install.tooltip                "Бұл қосымшаны орнату">
+<!ENTITY addon.checkingForUpdates.label       "Жаңартуларды іздеу…">
+<!ENTITY addon.createdBy.label                "Шығарған ">

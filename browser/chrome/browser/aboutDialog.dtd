@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion               "нұсқа">
 <!ENTITY closeCmdGNOME.label        "Жабу">  
 <!ENTITY closeCmdGNOME.accesskey    "Ж">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Үлесін қосқандар. Барлық құқықтары қорғалған. (">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Лицензиялық ақпарат">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY copyrightInfo2             ".">
