@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Bonvenon, se vi neniam antaŭe uzis &syncBrand.fullName.label; vi bezonos krei konton.">
 <!ENTITY button.createNewAccount.label "Krei novan konton">
-<!ENTITY button.haveAccount.label "Mi havas &syncBrand.fullName.label; konton">
+<!ENTITY setup.haveAccount.label "Mi jam havas &syncBrand.fullName.label; konton.">
+<!ENTITY button.connect.label    "Konekti">
 
 <!ENTITY setup.choicePage.title.label     "Ĉu vi uzis &syncBrand.fullName.label; antaŭe?">
 <!ENTITY setup.choicePage.new.label       "Mi neniam antaŭe uzis &syncBrand.shortName.label;">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servilo">
 <!ENTITY serverType.main.label      "Servilo de &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "Uzi personan servilon">
-<!ENTITY signIn.account.label       "Retpoŝtan adreson / Nomo de uzanto">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "Uzi propran servilon…">
+<!ENTITY signIn.account2.label      "Konto">
+<!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Pasvorto">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "URL de servilo">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "Sync ŝlosilo">
+<!ENTITY signIn.syncKey.accesskey   "S">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detaloj de konto">
@@ -43,8 +44,6 @@
 <!ENTITY syncKeyEntry.label        "Your Sync Key">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyStrength.label     "Strength:">
-<!ENTITY syncKeyHelp.label         "What does the strength mean?">
 <!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Presi…">
@@ -54,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bonvolu konfirmi ke vi ne estas roboto">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Aldoni aparaton">
+<!ENTITY addDevice.showMeHow.label          "Montri al mi kiel fari tion.">
+<!ENTITY addDevice.dontHaveDevice.label     "Mi ne havas la aparaton kun mi">
+<!ENTITY addDevice.setup.description.label  "Por aktivigi, iru al Opcioj de &syncBrand.shortName.label; en via alia aparato kaj elektu &#x0022;Aldoni aparaton&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Poste, tajpu tiun ĉi kodon:">
+<!ENTITY addDevice.dialog.description.label "Por aktivigi la novan aparaton iru al Opcioj de &syncBrand.shortName.label; en la aparato kaj elektu &#x0022;Konekti.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Tajpu la kodon provizitan de la aparato:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Bonvolu klopodi denove.">
+<!ENTITY addDevice.dialog.successful.label  "La aparato estis sukcese aldonita. La unua sikronigado povas postuli kelkajn minutojn kaj finiĝos en la fono.">
+<!ENTITY addDevice.dialog.syncKey.label     "Por aktivigi vian aparaton vi devos tajpi vian Sync ŝlosilon.  Bonvolu presi aŭ konservi tiun ĉi ŝlosilo kaj kunportu ĝin..">
+<!ENTITY addDevice.dialog.connected.label   "Aparato konektita">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Tajpu informon de konto">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Ensaluti">
+<!ENTITY existingSyncKey.description "Vi povas ricevi kopion de via Sync ŝlosilo se vi iras al Opcioj de &syncBrand.shortName.label; en via alia aparato kaj elektas  &#x0022;Mia Sync Ŝlosilo&#x0022; sub &#x0022;Administri konton&#x0022;.">
+<!ENTITY verifying.label              "Kontrolado…">
 <!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY connecting.label             "Konekto…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
 <!ENTITY lostSyncKey.label            "I have lost my Sync Key">
-<!ENTITY verifying.label              "Verifying…">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync Options">

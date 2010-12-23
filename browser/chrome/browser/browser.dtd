@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
 <!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
 <!ENTITY addCurPagesCmd.label "Aldoni legosignon por ĉiuj folioj…">
-<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
+<!ENTITY showAllBookmarks2.label "Montri ĉiujn paĝosignojn">
 <!ENTITY bookmarkAllCmd.label "Aldoni legosignon por ĉiuj folioj…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Montri pliajn legosignojn">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Elekti Ĉion">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "Ĉ"> 
-<!ENTITY preferencesCmd.label       "Opcioj…">
-<!ENTITY preferencesCmd.accesskey     "O"> 
+<!ENTITY preferencesCmd2.label       "Opcioj">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferoj">
 <!ENTITY preferencesCmdUnix.accesskey     "j"> 
 
@@ -548,3 +548,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Aktualigi nun">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Aktualigi">
+
+<!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">
