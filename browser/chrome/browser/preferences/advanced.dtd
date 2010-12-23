@@ -61,11 +61,11 @@
 <!ENTITY enableSearchUpdate.label        "खोज इंजन">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!ENTITY whenUpdatesFound.label          "जखन &brandShortName; क अद्यतन पाओल जाएत  अछि :">
-<!ENTITY askMe.label                     "हमरासँ पूछू जे हम क चाहैत छी">
+<!ENTITY askMe.label                     "हमरासँ पूछू जे हम की चाहैत छी">
 <!ENTITY askMe.accesskey                 "k">
 <!ENTITY modeAutomatic.label             "अद्यतन स्वतः डाउनलोड कए स्थापित  करू ">
 <!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "हमरा चेताउ जँ एकटारासँ हमर कोनो सहयुक्ति निष्क्रिय होइछ">
+<!ENTITY modeAutoAddonWarn.label         "हमरा चेताउ जँ एकरासँ हमर कोनो सहयुक्ति निष्क्रिय होइछ">
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!ENTITY updateHistory.label             "अद्यतन इतिहास देखाउ">
 <!ENTITY updateHistory.accesskey         "p">
@@ -75,7 +75,7 @@
 <!ENTITY offlineNotifyExceptions.label   "अपवाद…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "निम्नलिखित वेबसाइट आफलाइन प्रयोगक लेल आँकड़ा जमा कएने  अछि :">
+<!ENTITY offlineAppsList.label           "निम्नलिखित वेबसाइट आफलाइन प्रयोगक लेल आँकड़ा जमा कएने अछि:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "हटाउ…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -89,8 +89,8 @@
 <!ENTITY useTLS1.label                   "TLS 1.0 क प्रयोग  करू ">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "प्रमाणपत्र">
-<!ENTITY certSelection.description       "जखन एकटाटा सर्वर हमर निज प्रमाणपत्र क आग्रह करैत  अछि :">
-<!ENTITY certs.auto                      "कोनो एकटाटा स्वतः चुनू">
+<!ENTITY certSelection.description       "जखन एकरा सर्वर हमर निज प्रमाणपत्र क आग्रह करैत अछि:">
+<!ENTITY certs.auto                      "कोनो एकरा स्वतः चुनू">
 <!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "हमरासँ हरदम पूछू">
 <!ENTITY certs.ask.accesskey             "i">
@@ -112,9 +112,9 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "एकरामे कैश परिसीमित  करू ">
+<!ENTITY limitCacheSizeBefore.label      "एकरामे कैश परिसीमित करू ">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB स्थान">
 
-<!ENTITY overrideSmartCacheSize.label    "स्वचालित कैश प्रबंधन केँ अधिरोहित  करू ">
+<!ENTITY overrideSmartCacheSize.label    "स्वचालित कैश प्रबंधनकेँ अधिरोहित  करू ">
 <!ENTITY overrideSmartCacheSize.accesskey "O">

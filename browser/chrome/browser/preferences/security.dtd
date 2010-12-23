@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "चेताउ जखन साइट सहयुक्तिसभकेँ जोड़नाइ चाहैत  अछि ">
+<!ENTITY  warnAddonInstall.label        "चेताउ जखन साइट सहयुक्तिसभकेँ जोड़नाइ चाहैत छी">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):

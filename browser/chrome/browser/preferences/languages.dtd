@@ -1,7 +1,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "भाषा">
-<!ENTITY languages.customize.prefLangDescript           "वेब पृष्ठ  कहियो - कहियो  एकटााधिक भाषाओं मे देल जाएत  अछि . वरीयता क्रममे ई वेब पृष्ठकेँ  देखाबैक लेल भाषा चुनू.">
+<!ENTITY languages.customize.prefLangDescript           "वेब पृष्ठ  कहियो - कहियो  एकधिक भाषामे देल जाइछ. वरीयता क्रममे ई वेब पृष्ठकेँ  देखाबैक लेल भाषा चुनू.">
 <!ENTITY languages.customize.active.label               "वरीयता क्रम मे भाषा:">
 <!ENTITY languages.customize.moveUp.label               "उप्पर जाउ">
 <!ENTITY languages.customize.moveUp.accesskey           "U">

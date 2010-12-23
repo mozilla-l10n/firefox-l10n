@@ -1,14 +1,14 @@
 <!ENTITY startup.label             "आरंभन">
 
-<!ENTITY startupPage.label         "जखन &brandShortName; आरंभ  हाएत   अछि :">
+<!ENTITY startupPage.label         "जखन &brandShortName; आरंभ  होइछ:">
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "हमर घर पृष्ठ देखाउ">
-<!ENTITY startupBlankPage.label    "एकटाटा खाली पृष्ठ देखाउ">
-<!ENTITY startupLastSession.label  "अंतिमबेर सँ हमर विंडो आओर टैब देखाउ">
+<!ENTITY startupBlankPage.label    "एकटा खाली पृष्ठ देखाउ">
+<!ENTITY startupLastSession.label  "अंतिमबेरसँ हमर विंडो आओर टैब देखाउ">
 
-<!ENTITY useCurrentPage.label      " मोजुदा  पृष्ठक प्रयोग  करू ">
+<!ENTITY useCurrentPage.label      " मोजुदा पृष्ठक प्रयोग  करू ">
 <!ENTITY useCurrentPage.accesskey  "C">
-<!ENTITY useMultiple.label         " मोजुदा  पृष्ठक प्रयोग  करू ">
+<!ENTITY useMultiple.label         " मोजुदा पृष्ठक प्रयोग  करू ">
 <!ENTITY useBookmark.label         "पुस्तकचिह्नक प्रयोग  करू ">
 <!ENTITY useBookmark.accesskey     "B">
 <!ENTITY restoreDefault.label      "पूर्वनिर्धारित मे फेर जमा  करू ">
@@ -22,7 +22,7 @@
 <!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "एतय फाइल सहेजू">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "ब्राउज  करू …">
+<!ENTITY chooseFolderWin.label        "ब्राउज करू …">
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "चुनू…">
 <!ENTITY chooseFolderMac.accesskey    "e">
@@ -32,7 +32,7 @@
 <!ENTITY addonsMgr.label               "सहयुक्ति">
 <!ENTITY manageAddonsDescWin.label     "अपन सहयुक्तिक लेल विकल्प बदलू">
 <!ENTITY manageAddonsDescUnix2.label   "अपन सहयुक्तिक लेल वरीयता बदलू">
-<!ENTITY manageAddons.label            "सहयुक्ति प्रबंधित  करू …">
+<!ENTITY manageAddons.label            "सहयुक्ति प्रबंधित करू …">
 <!ENTITY manageAddons.accesskey        "M">
 <!ENTITY homepage.label            "पहिल पन्ना:">
 <!ENTITY homepage.accesskey        "P">
