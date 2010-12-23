@@ -10,14 +10,13 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Көмек"> 
 <!ENTITY helpMenuWin.accesskey    "К">
-<!ENTITY aboutCmd.label           "&brandFullName; туралы">
+<!ENTITY aboutCmd.label           "&brandShortName; туралы">
 <!ENTITY aboutCmd.accesskey       "т">
 <!ENTITY helpContents.label       "Мазмұны">
 <!ENTITY helpContents.accesskey   "М">
 <!ENTITY helpContentsMac.label    "&brandShortName; анықтамасы">
 <!ENTITY helpForIEUsers.label     "Internet Explorer пайдаланушылары үшін">
 <!ENTITY helpForIEUsers.accesskey "п">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
@@ -25,6 +24,8 @@
 <!ENTITY openHelpMac.modifiers            "accel,shift">
 <!ENTITY openHelpMac.frontendCommandkey   "?">
 <!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpTroubleshootingInfo.label      "Техникалық ақпарат">
+<!ENTITY helpTroubleshootingInfo.accesskey  "а">
 
 <!ENTITY helpReleaseNotes.label         "Шығарылым ескертпесі">
 <!ENTITY helpReleaseNotes.accesskey     "Ш">

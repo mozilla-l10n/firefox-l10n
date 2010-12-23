@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Сақталған парольдер…">
 <!ENTITY  savedPasswords.accesskey        "р">
-
-
-<!ENTITY  warnings.label                "Ескертулер">
-
-<!ENTITY  chooseWarnings.label          "Интернетте жұмыс істеген кезде, көргіңіз келетін ескертулерді таңдаңыз">
-
-<!ENTITY  warningSettings.label         "Баптаулар…">
-<!ENTITY  warningSettings.accesskey     "п">

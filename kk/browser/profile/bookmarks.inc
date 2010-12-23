@@ -7,10 +7,6 @@
 #define bookmarks_title Бетбелгілер
 #define bookmarks_heading Бетбелгілер
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Бетбелгілер үшін қосымшаларды алу
-
 #define bookmarks_toolbarfolder Бетбелгілер панел бумасы
 #define bookmarks_toolbarfolder_description Бетбелгілерді осы бумаға қосу арқылы сіз оларды Бетбелгілер панелінен көре аласыз
 
@@ -41,7 +37,7 @@
 #define firefox_community Қатысқыңыз келсе
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about Біз туралы
 
 #unfilter emptyLines

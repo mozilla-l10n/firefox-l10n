@@ -29,10 +29,10 @@
 <!ENTITY  cookies.label                 "Cookies">
 
 <!ENTITY  acceptCookies.label           "Сайттардан cookies қабылдау">
-<!ENTITY  acceptCookies.accesskey       "т">
+<!ENTITY  acceptCookies.accesskey       "с">
 
 <!ENTITY  acceptThirdParty.label        "Үшінші дәрежелі сайттардан cookies қабылдау">
-<!ENTITY  acceptThirdParty.accesskey    "н">
+<!ENTITY  acceptThirdParty.accesskey    "ш">
 
 <!ENTITY  keepUntil.label               "Келесі уақыт бойы cookies сақтау:">
 <!ENTITY  keepUntil.accesskey           "у">
@@ -76,12 +76,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "тарихты да тазарту">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; сессиясын автоматты түрде жекелік шолу режимінде бастау">
-<!ENTITY  privateBrowsingAutoStart.accesskey "л">
+<!ENTITY  privateBrowsingPermanent.label "Тұрақты жекелік шолу режимі">
+<!ENTITY  privateBrowsingPermanent.accesskey "т">
 
-<!ENTITY  rememberHistory.pre.label      "Қарап шығу тарихының ең кеміндегі сақталу уақыты">
-<!ENTITY  rememberHistory.pre.accesskey  "ш">
-<!ENTITY  rememberHistory.post.label     "күн">
+<!ENTITY  rememberHistory.label      "Менің шолу тарихымды сақтау">
+<!ENTITY  rememberHistory.accesskey  "ы">
 
 <!ENTITY  rememberDownload.label         "Жүктемелер тарихын сақтау">
 <!ENTITY  rememberDownload.accesskey     "ж">

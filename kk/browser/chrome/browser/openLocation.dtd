@@ -2,7 +2,7 @@
 
 <!ENTITY enter.label "Сізге керек интернет адресін (URL) немесе дискідегі файлды көрсетіңіз:">  
 <!ENTITY chooseFile.label "Файлды таңдау…">
-<!ENTITY newWindow.label "Жаңа терезеде">
+<!ENTITY newWindow.label "Жаңа терезе">
 <!ENTITY newTab.label "Жаңа бетте">
 <!ENTITY topWindow.label "Ағымдағы терезеде">
 <!ENTITY caption.label "Интернет адресін ашу">

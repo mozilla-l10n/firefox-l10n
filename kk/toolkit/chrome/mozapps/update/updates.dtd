@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Бағдарламалық қамтаманы жаңарту">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Жаңарту бар-жоғын тексеру жүруде...">
 <!ENTITY  updateCheck.label               "&brandShortName; жаңа нұсқалары ізделуде…">
 
@@ -38,7 +35,7 @@
 
 <!ENTITY  incompatibleList.title          "Үйлесімсіз қосымша табылды">
 
-<!ENTITY  downloading.title               "Жаңартуды жүктеу">
+<!ENTITY  downloadPage.title              "&brandShortName; жүктелуде">
 <!ENTITY  downloading.intro               "Жаңарту жүктелуде...">
 <!ENTITY  connecting.label                "Жаңарту серверімен байланыс орнату...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; жүктелген жартылай жаңартудың 

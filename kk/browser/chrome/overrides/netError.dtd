@@ -106,3 +106,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">
