@@ -1,0 +1,40 @@
+<!ENTITY aboutSupport.pageTitle "Мәселелерді шешу ақпараты">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Бұл парақта мәселелерді шешуде пайдалы бола алатын техникалық ақпарат бар.
+  Егер сіз &brandShortName; туралы жалпы сұрақтарға жауапты іздесеңіз,
+  біздің <a id='supportLink'>қолдау көрсету</a> сайтын шолыңыз.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Кеңейтулер">
+<!ENTITY aboutSupport.extensionName "Аты">
+<!ENTITY aboutSupport.extensionEnabled "Іске қосулы">
+<!ENTITY aboutSupport.extensionVersion "Нұсқасы">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Қолданба негіздері">
+<!ENTITY aboutSupport.appBasicsName "Аты">
+<!ENTITY aboutSupport.appBasicsVersion "Нұсқасы">
+<!ENTITY aboutSupport.appBasicsProfileDir "Профайл бумасы">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Іске қосулы плагиндер">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Жинау баптаулары">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+
+<!ENTITY aboutSupport.show.label "Орналасқан бумасын ашу">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Finder ішінен көрсету">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Өзгертілген баптаулар">
+<!ENTITY aboutSupport.modifiedPrefsName "Аты">
+<!ENTITY aboutSupport.modifiedPrefsValue "Мәні">
+
+<!ENTITY aboutSupport.graphicsTitle "Графика">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Орнатулар тарихы">
+<!ENTITY aboutSupport.updateHistoryTitle "Тарихты жаңарту">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Барлығын алмасу буферіне көшіру">

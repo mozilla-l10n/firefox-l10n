@@ -1,0 +1,28 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName; іске қосылу парағы">
+
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> іске қосылуы">
+
+<!ENTITY abouthome.searchEngineButton.label "Іздеу">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Кеңейтілген іздеу">
+<!ENTITY abouthome.searchEngineLinks.preferences "Баптаулар">
+
+<!ENTITY abouthome.aboutMozilla "Mozilla туралы">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox-ты таңдағаныңыз үшін рахмет! Браузерді толығырақ қолдану үшін, оның <a>мүмкіндіктерімен</a> танысыңыз.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox-ты өзіңізге лайықты етіп баптауға болады. <a>Мыңдаған кеңейтулер арасынан таңдаңыз</a>.">
