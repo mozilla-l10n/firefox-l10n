@@ -10,7 +10,7 @@
 <!ENTITY applications.label "Aplikacje">
 <!ENTITY locationBar.label "Pasek adresu">
 <!ENTITY tabWindows.label "Karty">
-<!ENTITY links.label "Zachowanie odnośników">
+<!ENTITY links.label "Odnośniki">
 <!ENTITY offline.label "Tryb offline">
 <!ENTITY security.label "Prywatność i zabezpieczenia">
 <!ENTITY cookies.label "Ciasteczka">
