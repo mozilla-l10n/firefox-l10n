@@ -3,7 +3,7 @@
 <!ENTITY itemPasswords.label "Contraseñas">
 <!ENTITY itemAntiVirus.label "Antivirus">
 <!ENTITY itemCookies.label "Contenido web">
-<!ENTITY junkMail.intro "Establezca su configuración predeterminada para correo no deseado. La configuración especifica de cada cuenta puede realizarse en Configuración de las cuentas.">
+<!ENTITY junkMail.intro "Establezca su configuración predeterminada para el correo no deseado. La configuración especifica de cada cuenta puede realizarse en Configuración de las cuentas.">
 <!ENTITY manualMark.label "Cuando marco los mensajes como no deseados:">
 <!ENTITY manualMark.accesskey "C">
 <!ENTITY manualMarkModeMove.label "Moverlos a la carpeta &quot;Correo no deseado&quot; de la cuenta">
