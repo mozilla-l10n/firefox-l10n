@@ -17,6 +17,6 @@
 <!ENTITY whatsNewCmd.accesskey "R">
 <!ENTITY featureConfiguratorCmd.label "Ndihmës Migrimi">
 <!ENTITY featureConfiguratorCmd.accesskey "M">
-<!ENTITY updateCmd.label "Kontrollo për Përditësime…">
+<!ENTITY updateCmd.label "Kontrolloni për Përditësime…">
 <!ENTITY aboutMenuCmd.label "Rreth &brandShortName;-it">
 <!ENTITY aboutMenuCmd.accesskey "R">

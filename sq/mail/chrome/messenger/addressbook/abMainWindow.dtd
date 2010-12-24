@@ -1,4 +1,4 @@
-<!ENTITY addressbookWindow.title                        "Libër Vendndodhjesh">
+<!ENTITY addressbookWindow.title                        "Libër Adresash">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Kartelë">
@@ -8,8 +8,8 @@
 <!ENTITY newListCmd.label                               "Listë Postimesh…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "P">
-<!ENTITY newAddressBookCmd.label                        "Libër Vendndodhjesh…">
-<!ENTITY newAddressBookCmd.accesskey                    "V">
+<!ENTITY newAddressBookCmd.label                        "Libër Adresash…">
+<!ENTITY newAddressBookCmd.accesskey                    "A">
 <!ENTITY newLDAPDirectoryCmd.label                      "Drejtori LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
@@ -21,10 +21,10 @@
 <!ENTITY closeCmd.accesskey                             "M">
 <!ENTITY printSetupCmd.label                            "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey                        "R">
-<!ENTITY printPreviewAddressBook.label                  "Paraparje e Shtypjes së Librit të Vendndodhjeve">
+<!ENTITY printPreviewAddressBook.label                  "Paraparje e Shtypjes së Librit të Adresave">
 <!ENTITY printPreviewAddressBook.accesskey              "L">
-<!ENTITY printAddressBook.label                         "Shtyp Libër Vendndodhjesh…">
-<!ENTITY printAddressBook.accesskey                     "V">
+<!ENTITY printAddressBook.label                         "Shtypni Libër Adresash…">
+<!ENTITY printAddressBook.accesskey                     "A">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Përpunim">
@@ -46,7 +46,7 @@
 <!ENTITY pasteCmd.accesskey                             "N">
 <!ENTITY deleteCmd.label                                "Fshije">
 <!ENTITY deleteCmd.accesskey                            "F">
-<!ENTITY deleteAbCmd.label                              "Fshi Libër Vendndodhjesh">
+<!ENTITY deleteAbCmd.label                              "Fshi Libër Adresash">
 <!ENTITY selectAllCmd.label                             "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key                               "j">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -66,7 +66,7 @@
 <!ENTITY viewMenu.accesskey                             "S">
 <!ENTITY viewToolbarsMenu.label                         "Panele">
 <!ENTITY viewToolbarsMenu.accesskey                     "P"> 
-<!ENTITY showAbToolbarCmd.label                         "Panel Libri Vendndodhjesh">
+<!ENTITY showAbToolbarCmd.label                         "Panel Libri Adresash">
 <!ENTITY showAbToolbarCmd.accesskey                     "L">
 
 <!ENTITY printPreviewContactCmd.label                   "Paraparje Shtypjeje e Kontaktit">
@@ -76,7 +76,7 @@
 
 <!ENTITY showTaskbarCmd.label                           "Shtyllë Gjendjeje">
 <!ENTITY showTaskbarCmd.accesskey                       "G">
-<!ENTITY customizeToolbar.label                         "Përshtasni…">
+<!ENTITY customizeToolbar.label                         "Përshtatni…">
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY menu_ShowNameAs.label                          "Shfaq Emër Si">
 <!ENTITY menu_ShowNameAs.accesskey                      "f"> 
@@ -95,11 +95,11 @@
 <!ENTITY messengerCmd.label                             "Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Kërko te Vendndodhjet…">
+<!ENTITY searchAddressesCmd.label                       "Kërkoni te Adresat…">
 <!ENTITY searchAddressesCmd.accesskey                   "K">
-<!ENTITY importCmd.label                                "Importo…">
+<!ENTITY importCmd.label                                "Importoni…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Eksporto…">
+<!ENTITY exportCmd.label                                "Eksportoni…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Mundësi…">
 <!ENTITY preferencesCmd.accesskey                       "u">
@@ -124,7 +124,7 @@
 <!ENTITY deleteButton2.tooltip                          "Fshije objektin e përzgjedhur">
 
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Libra Vendndodhjesh">
+<!ENTITY dirTreeHeader.label                            "Libra Adresash">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Emër ose Email">
@@ -134,8 +134,8 @@
 
 
 
-<!ENTITY advancedButton.tooltip                         "Kërkim i mëtejshëm vendndodhjesh">
-<!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY advancedButton.tooltip                         "Kërkim i mëtejshëm adresash">
+<!ENTITY quickSearchCmd.key                             "K">
 
 <!-- Results Pane -->
 <!ENTITY GeneratedName.label                            "Emrash">
@@ -180,10 +180,10 @@
 <!ENTITY work.heading                                   "E punës">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "Përshkrim">
-<!ENTITY addresses.heading                              "Vendndodhje">
+<!ENTITY addresses.heading                              "Adresë">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Merr Hartë">
-<!ENTITY mapIt.tooltip                                  "Shfaq prej Web-it një hartë të kësaj vendndodhjeje">
+<!ENTITY mapIt.tooltip                                  "Shfaq prej Web-it një hartë të kësaj adrese">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
@@ -197,7 +197,7 @@
 
 <!ENTITY searchItem.title "Kërkim i Shpejtë">
 
-<!ENTITY osxAddressBook.label                           "Përdor Libër Vendndodhjesh Mac OS X">
+<!ENTITY osxAddressBook.label                           "Përdor Libër Adresash Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "P">
 <!ENTITY deleteListCmd.label                            "Fshije Listën">
 <!ENTITY deleteListsCmd.label                           "Fshiji Listat">
@@ -208,13 +208,13 @@
 <!ENTITY editButton2.accesskey                          "V">
 <!ENTITY editButton2.tooltip                            "Përpunoni objektin e përzgjedhur">
 
-<!ENTITY newContact.label                               "Kontakt Nga Libri i Vendndodhjeve…">
+<!ENTITY newContact.label                               "Kontakt Nga Libri i Adresave…">
 <!ENTITY newContact.accesskey                           "K">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newContactButton.label                         "Kontakt i Ri">
 <!ENTITY newContactButton.accesskey                     "K">
-<!ENTITY newContactButton.tooltip                       "Krijoni një kontakt të ri libri vendndodhjesh">
-<!ENTITY printContactCmd.label                          "Shtyp Kontakt…">
+<!ENTITY newContactButton.tooltip                       "Krijoni një kontakt të ri libri adresash">
+<!ENTITY printContactCmd.label                          "Shtypni Kontakt…">
 <!ENTITY printContactCmd.accesskey                      "Y">
 <!ENTITY printContactCmd.key                            "P">
 

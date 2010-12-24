@@ -9,16 +9,16 @@
 <!ENTITY sendHTML.accesskey           "D">
 <!ENTITY sendBoth.label               "Dërgoje mesazhin si tekst të thjeshtë dhe si HTML">
 <!ENTITY sendBoth.accesskey           "m">
-<!ENTITY override.label               "Shënim: Përdorni Librin e Vendndodhjeve për të treguar formate teksti të parapëlqyer nga marrësat.">
+<!ENTITY override.label               "Shënim: Përdorni Librin e Adresave për të treguar formate teksti të parapëlqyer nga marrësat.">
 
-<!ENTITY domaindesc.label             "Kur dërgoni mesazh te një vendndodhje me një emrat e përkatësisë te lista më poshtë, &brandShortName;-i vetvetiu e dërgon mesazhin në formatin e duhur.">
+<!ENTITY domaindesc.label             "Kur dërgoni mesazh te një adresë me një nga emrat e përkatësisë te lista më poshtë, &brandShortName;-i vetvetiu e dërgon mesazhin në formatin e duhur.">
 <!ENTITY HTMLTab.label                "Përkatësi HTML">
 <!ENTITY HTMLTab.accesskey            "h">
 <!ENTITY PlainTextTab.label           "Përkatësi Tekst i Thjeshtë">
 <!ENTITY PlainTextTab.accesskey       "T">
-<!ENTITY AddHtmlDomain.label          "Shto…">
+<!ENTITY AddHtmlDomain.label          "Shtoni…">
 <!ENTITY AddHtmlDomain.accesskey      "s">
-<!ENTITY AddPlainText.label           "Shto…">
+<!ENTITY AddPlainText.label           "Shtoni…">
 <!ENTITY AddPlainText.accesskey       "S">
 <!ENTITY DeleteHtmlDomain.label       "Fshije">
 <!ENTITY DeleteHtmlDomain.accesskey   "f">

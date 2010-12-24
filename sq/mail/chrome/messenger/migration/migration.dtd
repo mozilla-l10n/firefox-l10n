@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title          "Ndihmës Importimesh">
 
-<!ENTITY importFromWin.label               "Importo Mundësi, Rregullime Llogarish, Libër Vendndodhjesh, Filtra dhe të tjera të dhëna prej:">
-<!ENTITY importFromNonWin.label           "Importo Parapëlqime, Rregullime Llogarish, Libër Vendndodhjesh, Filtra dhe të tjera të dhëna prej:">
+<!ENTITY importFromWin.label               "Importo Mundësi, Rregullime Llogarish, Libër Adresash, Filtra dhe të tjera të dhëna prej:">
+<!ENTITY importFromNonWin.label           "Importo Parapëlqime, Rregullime Llogarish, Libër Adresash, Filtra dhe të tjera të dhëna prej:">
 
 <!ENTITY importFromNothing.label        "Mos importo gjë">
 <!ENTITY importFromNothing.accesskey    "M">
@@ -21,7 +21,7 @@
 <!ENTITY importItems.label              "Përzgjidhni cilët objekte të importohen:">
 
 <!ENTITY migrating.title                "Po importohet…">
-<!ENTITY migrating.label                "Objektet vijues janë duke u importuar…">
+<!ENTITY migrating.label                "Po importohen objektet vijuese…">
 
 <!ENTITY selectProfile.title            "Përzgjidhni Profil">
 <!ENTITY selectProfile.label            "Është i mundshëm importimi i profileve vijues:">

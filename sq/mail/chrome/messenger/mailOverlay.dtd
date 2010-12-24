@@ -3,5 +3,5 @@
 <!ENTITY  newMessageCmd.label             "Mesazh">
 <!ENTITY  newMessageCmd.accesskey         "M">
  
-<!ENTITY  newContactCmd.label             "Kartë Libri Vendndodhjesh…">
+<!ENTITY  newContactCmd.label             "Kartë Libri Adresash…">
 <!ENTITY  newContactCmd.accesskey         "V">

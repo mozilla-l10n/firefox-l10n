@@ -1,5 +1,5 @@
 <!ENTITY accountTitle.label "Rregullime Llogarie">
-<!ENTITY accountSettingsDesc.label "Vijuesja është një llogari speciale.  Nuk ka identitete shoqëruar asaj.">
+<!ENTITY accountSettingsDesc.label "Vijuesja është një llogari speciale.  Nuk ka identitete përshoqëruar asaj.">
 <!ENTITY accountName.label "Emër Llogarie:">
 <!ENTITY accountName.accesskey "E">
 <!ENTITY messageStorage.label "Depozitim Mesazhesh">

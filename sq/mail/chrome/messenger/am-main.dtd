@@ -7,9 +7,9 @@
 <!ENTITY identityDesc.label "Çdo llogari ka identitetin e vet, i cili përbëhet nga të dhënat që shohin persona të tjerë kur lexojnë mesazhet tuaj.">
 <!ENTITY name.label "Emri Juaj:">
 <!ENTITY name.accesskey "J">
-<!ENTITY email.label "Vendndodhje Email:">
+<!ENTITY email.label "Adresë Email:">
 <!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "Vendndodhje për Përgjigju:">
+<!ENTITY replyTo.label "Adresë për Përgjigju:">
 <!ENTITY replyTo.accesskey "u">
 <!ENTITY organization.label "Organizëm:">
 <!ENTITY organization.accesskey "O">

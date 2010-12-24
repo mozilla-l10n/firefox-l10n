@@ -77,7 +77,7 @@
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "v">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Sinjalizomë nëse kështu do të çaktivizohej ndonjë nga shtesat e mia">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "z">
-<!ENTITY pref.calendar.advanced.update.showHistory.label "Shfaq Historik Përditësimesh…">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "Shfaqni Historik Përditësimesh…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "H">
 
 <!-- Encryption -->

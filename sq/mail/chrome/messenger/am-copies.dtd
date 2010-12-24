@@ -5,7 +5,7 @@
 <!ENTITY fccMailFolder.label "Vendos një kopje në:">
 <!ENTITY fccMailFolder.accesskey "k">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc për këto vendndodhje email:">
+<!ENTITY bccAddress.label "Bcc për këto adresa email:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY saveMessageDlg.label "Shfaq dialog ripohimi kur ruhen mesazhe">
 <!ENTITY saveMessageDlg.accesskey "q">
@@ -32,8 +32,8 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc këto venddodhje email:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Ndajini vendndodhjet me presje">
-<!ENTITY bccAddressList.placeholder "Ndajini vendndodhjet me presje">
+<!ENTITY ccAddressList.placeholder "Ndajini adresat me presje">
+<!ENTITY bccAddressList.placeholder "Ndajini adresat me presje">
 
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "Dosje &quot;Arkivash&quot; te:">

@@ -2,8 +2,8 @@
 <!ENTITY newDirectoryTitle.label           "Veti Shërbyesi Drejtorish">
 <!ENTITY directoryName.label               "Emër: ">
 <!ENTITY directoryName.accesskey           "e">
-<!ENTITY directoryHostname.label           "Emërstrehë: ">
-<!ENTITY directoryHostname.accesskey       "s">
+<!ENTITY directoryHostname.label           "Strehëemër: ">
+<!ENTITY directoryHostname.accesskey       "S">
 <!ENTITY directoryBaseDN.label             "DN Bazë: ">
 <!ENTITY directoryBaseDN.accesskey         "D">
 <!ENTITY findButton.label                  "Gjej">

@@ -93,7 +93,7 @@
 <!ENTITY  event.menu.item.new.task.accesskey              "P">
 <!ENTITY  event.menu.item.new.message.label               "Mesazh">
 <!ENTITY  event.menu.item.new.message.accesskey           "M">
-<!ENTITY  event.menu.item.new.contact.label               "Kontakt Libri Vendndodhjesh">
+<!ENTITY  event.menu.item.new.contact.label               "Kontakt Libri Adresash">
 <!ENTITY  event.menu.item.new.contact.accesskey           "K">
 <!ENTITY  event.menu.item.close.label                     "Mbylle">
 <!ENTITY  event.menu.item.close.accesskey                 "M">
@@ -101,7 +101,7 @@
 <!ENTITY  event.menu.item.save.accesskey                  "R">
 <!ENTITY  event.menu.item.saveandclose.label              "Ruaje dhe Mbylle">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
-<!ENTITY  event.menu.item.delete.label                    "Fshi…">
+<!ENTITY  event.menu.item.delete.label                    "Fshini…">
 <!ENTITY  event.menu.item.delete.accesskey                "F">
 <!ENTITY  event.menu.item.page.setup.label                "Rregullim Faqeje">
 <!ENTITY  event.menu.item.page.setup.accesskey            "R">
@@ -135,7 +135,7 @@
 
 <!ENTITY  event.menu.options.label                            "Mundësi">
 <!ENTITY  event.menu.options.accesskey                        "M">
-<!ENTITY  event.menu.options.attachments.label                "Bashkangjiti Faqe Web…">
+<!ENTITY  event.menu.options.attachments.label                "Bashkangjitini Faqe Web…">
 <!ENTITY  event.menu.options.attachments.accesskey            "B">
 <!ENTITY  event.menu.options.attendees.label                  "Ftoni Pjesëmarrës…">
 <!ENTITY  event.menu.options.attendees.accesskey              "F">
@@ -225,7 +225,7 @@
 <!ENTITY event.attachments.popup.open.accesskey           "a" >
 <!ENTITY event.attachments.popup.removeAll.label          "Hiqi Krejt All" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "q" >
-<!ENTITY event.attachments.popup.attachPage.label         "Bashkangjitni Faqe Web…" >
+<!ENTITY event.attachments.popup.attachPage.label         "Bashkangjitini Faqe Web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "F" >
 <!ENTITY event.url.label                                  "Lidhje të Afërta:" >
 <!ENTITY event.priority2.label                            "Përparësi:">

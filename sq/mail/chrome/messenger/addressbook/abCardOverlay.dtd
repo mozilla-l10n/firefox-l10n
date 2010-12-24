@@ -63,8 +63,8 @@
 
 <!ENTITY Home.tab                       "Vetjake">
 <!ENTITY Home.accesskey                 "V">
-<!ENTITY HomeAddress.label              "Vendndodhje:">
-<!ENTITY HomeAddress.accesskey          "e">
+<!ENTITY HomeAddress.label              "Adresë:">
+<!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Qytet:">
@@ -93,8 +93,8 @@
 <!ENTITY Department.accesskey           "d">
 <!ENTITY Company.label                  "Organizëm:">
 <!ENTITY Company.accesskey              "O">
-<!ENTITY WorkAddress.label              "Vendndodhje:">
-<!ENTITY WorkAddress.accesskey          "V">
+<!ENTITY WorkAddress.label              "Adresë:">
+<!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Qytet:">
@@ -104,7 +104,7 @@
 <!ENTITY WorkZipCode.label              "ZIP/Kod Postal:">
 <!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "Vend:">
-<!ENTITY WorkCountry.accesskey          "e">
+<!ENTITY WorkCountry.accesskey          "V">
 <!ENTITY WorkWebPage.label              "Faqe Web:">
 <!ENTITY WorkWebPage.accesskey          "f">
 
@@ -132,6 +132,6 @@
 <!ENTITY BrowsePhoto.accesskey          "h">
 <!ENTITY PhotoURL.label                 "Në Web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder             "Hidhni ose shtypeni dorazi vendndodhjen web të një fotoje">
+<!ENTITY PhotoURL.placeholder             "Hidhni ose shtypeni dorazi adresën web të një fotoje">
 <!ENTITY UpdatePhoto.label              "Përditësojeni">
 <!ENTITY UpdatePhoto.accesskey          "d">

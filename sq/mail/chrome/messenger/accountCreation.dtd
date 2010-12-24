@@ -65,7 +65,7 @@
 <!ENTITY continue.accesskey              "V">
 
 <!ENTITY email.placeholder               "email@shembull.com">
-<!ENTITY email.label                     "Vendndodhje email:">
+<!ENTITY email.label                     "Adresë email:">
 <!ENTITY email.accesskey                 "d">
 <!ENTITY incoming.label                  "Marrës:">
 <!ENTITY outgoing.label                  "Dërgues:">

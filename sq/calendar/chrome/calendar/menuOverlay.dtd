@@ -54,11 +54,11 @@
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "K">
 
-<!ENTITY calendar.print.label                   "Shtyp…">
+<!ENTITY calendar.print.label                   "Shtypni…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "y">
 
-<!ENTITY calendar.import.label                  "Importo…">
+<!ENTITY calendar.import.label                  "Importoni…">
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
@@ -67,10 +67,10 @@
 <!ENTITY calendar.export.selection.label        "Eksportoni Përzgjedhje…">
 <!ENTITY calendar.export.selection.accesskey    "z">
 
-<!ENTITY calendar.publish.label                 "Boto…">
+<!ENTITY calendar.publish.label                 "Botoni…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.deletecalendar.label          "Fshije Kalendarin e Përzgjedhur…">
+<!ENTITY calendar.deletecalendar.label          "Fshini Kalendarin e Përzgjedhur…">
 <!ENTITY calendar.deletecalendar.accesskey      "F">
 
 <!ENTITY calendar.menu.customize.label          "Përshtatni…">

@@ -9,13 +9,13 @@
 <!ENTITY connectionFailure.title "I pazoti të lidhet">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Kjo vendndodhje është e ndaluar">
+<!ENTITY deniedPortAccess.title "Kjo adresë është e ndaluar">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nuk u gjet shërbyes">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Kontrolloni vendndodhjen për gabime shkrimi si p.sh.
+  <li>Kontrolloni adresën për gabime shkrimi si p.sh.
     <strong>ww</strong>.shembull.com në vend të
     <strong>www</strong>.shembull.com</li>
   <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet të kompjuterit tuaj.</li>
@@ -37,10 +37,10 @@
 <p>&brandShortName;-i, për ndonjë arsye, nuk mund ta ngarkojë këtë faqe.</p>
 ">
 
-<!ENTITY malformedURI.title "Vendndodhja nuk është e vlefshme">
+<!ENTITY malformedURI.title "Adresa nuk është e vlefshme">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Vendndodhjet Web zakonisht shkruhen si
+  <li>Adresat Web zakonisht shkruhen si
     <strong>http://www.shembull.com/</strong></li>
   <li>Sigurohuni që po përdorni pjerrëse djathtas (d.m.th.
     <strong>/</strong>).</li>
@@ -82,10 +82,10 @@
 <!ENTITY netTimeout.title "Lidhjes i përfundoi koha">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Nuk u kuptua vendndodhja">
+<!ENTITY protocolNotFound.title "Adresa nuk u kuptua">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>Mund t&apos;ju duhet të instaloni tjetër program për të hapur këtë vendndodhje.</li>
+  <li>Mund t&apos;ju duhet të instaloni tjetër program për të hapur këtë adresë.</li>
 </ul>
 ">
 
@@ -165,7 +165,7 @@
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
-<!ENTITY securityOverride.exceptionButtonLabel "Shto Përjashtim…">
+<!ENTITY securityOverride.exceptionButtonLabel "Shtoni Përjashtim…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The

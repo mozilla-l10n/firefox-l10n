@@ -14,7 +14,7 @@
 <!ENTITY searchIntegration.label       "Lejo &searchIntegration.engineName; të kërkojë në mesazhet">
 <!ENTITY searchIntegration.accesskey   "L">
 
-<!ENTITY checkNow.label                "Kontrollo Tani…">
+<!ENTITY checkNow.label                "Kontrolloni Tani…">
 <!ENTITY checkNow.accesskey            "K">
 <!ENTITY configEditDesc.label          "Formësim i Mëtejshëm">
 <!ENTITY configEdit.label              "Përpunues Formësimesh…">
@@ -26,7 +26,7 @@
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                "Lexim">
 <!ENTITY display.caption                "Paraqitje">
-<!ENTITY showCondensedAddresses.label  "Shfaq emra ekrani vetëm për persona në librin tim të vendndodhjeve">
+<!ENTITY showCondensedAddresses.label  "Shfaq emra ekrani vetëm për persona në librin tim të adresave">
 <!ENTITY showCondensedAddresses.accesskey "q">
 
 <!ENTITY autoMarkAsRead.label          "Shënoji vetvetiu mesazhet si të lexuara">

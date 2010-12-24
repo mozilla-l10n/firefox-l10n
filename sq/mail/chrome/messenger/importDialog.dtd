@@ -1,6 +1,6 @@
 <!ENTITY importAll.label          "Importo Gjithçka">
 <!ENTITY importAll.accesskey      "G">
-<!ENTITY importAddressbook.label  "Libra Vendndodhjesh">
+<!ENTITY importAddressbook.label  "Libra Adresash">
 <!ENTITY importAddressbook.accesskey "L">
 <!ENTITY importSettings.label     "Rregullime">
 <!ENTITY importSettings.accesskey "R">
@@ -18,8 +18,8 @@
 <!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY importTitle.label        "Ndihmësi &brandShortName; për Importim Poste">
-<!ENTITY importShortDesc.label    "Importoni prej programesh të tjerë Postë, Libra Vendndodhjesh, Rregullime dhe Filtra">
-<!ENTITY importDescription1.label "Ky ndihmës do të importojë te  &brandShortName;-i mesazhe poste, hyrje librash vendndodhjesh, parapëlqime, dhe/ose filtra prej programesh të tjerë poste, si dhe formate të zakonshëm librash vendndodhjesh.">
+<!ENTITY importShortDesc.label    "Importoni prej programesh të tjerë Postë, Libra Adresash, Rregullime dhe Filtra">
+<!ENTITY importDescription1.label "Ky ndihmës do të importojë te  &brandShortName;-i mesazhe poste, zëra librash adresash, parapëlqime, dhe/ose filtra prej programesh të tjerë poste, si dhe formate të zakonshëm librash adresash.">
 <!ENTITY importDescription2.label "Pasi të jenë importuar, do të jeni në gjendje t'i përdorni që nga &brandShortName;-i.">
 
 <!ENTITY selectDescription.label  "Ju lutem, përzgjidhni programin prej të cilit doni të importohet:">
@@ -34,6 +34,6 @@
 <!ENTITY title.label              "Titull">
 <!ENTITY processing.label         "Po importohet…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ka një vendndodhje postimi për secilën kartë, kurse &brandShortName;-i ka dy (Banese dhe Pune).">
-<!ENTITY FieldDiscInputText2.label  "Përzgjidhni kategorinë në të cilën doni të ruhen vendndodhjet e importuara të postës:">
-<!ENTITY FieldDiscWarning.label  "Kjo kategori do të përdoret për tërë hyrjet e librit të përzgjedhur të vendndodhjeve: ">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ka një adresë postimi për secilën kartë, kurse &brandShortName;-i ka dy (Banese dhe Pune).">
+<!ENTITY FieldDiscInputText2.label  "Përzgjidhni kategorinë në të cilën doni të ruhen adresat e importuara të postës:">
+<!ENTITY FieldDiscWarning.label  "Kjo kategori do të përdoret për tërë zërat e librit të përzgjedhur të adresave: ">

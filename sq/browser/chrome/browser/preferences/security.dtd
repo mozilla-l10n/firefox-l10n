@@ -25,7 +25,7 @@
 
 <!ENTITY  useMasterPassword.label        "Përdor fjalëkalim të përgjithshëm">
 <!ENTITY  useMasterPassword.accesskey    "P">
-<!ENTITY  changeMasterPassword.label     "Ndrysho Fjalëkalimin e Përgjithshëm…">
+<!ENTITY  changeMasterPassword.label     "Ndryshoni Fjalëkalimin e Përgjithshëm…">
 <!ENTITY  changeMasterPassword.accesskey "F">
 <!ENTITY  savedPasswords.label            "Fjalëkalime të Ruajtur…">
 <!ENTITY  savedPasswords.accesskey        "u">

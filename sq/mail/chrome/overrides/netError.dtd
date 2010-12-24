@@ -9,13 +9,13 @@
 <!ENTITY connectionFailure.title "I pazoti të lidhet">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Mbi këtë vendndodhje ka kufizime">
+<!ENTITY deniedPortAccess.title "Mbi këtë adresë ka kufizime">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nuk u gjet shërbyes">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Kontrollojeni vendndodhjen për gabimi shtypjeje të tillë si
+  <li>Kontrollojeni adresën për gabime shtypjeje të tillë si
     <strong>ww</strong>.example.com në vend të
     <strong>www</strong>.example.com</li>
   <li>Nëse nuk arrini të ngarkoni asnjë faqe, kontrolloni lidhjen
@@ -38,12 +38,12 @@
 <p>&brandShortName;-i, për ndonjë aryse nuk mund ta ngarkojë këtë faqe.</p>
 ">
 
-<!ENTITY malformedURI.title "Vendndodhja nuk është e vlefshme">
+<!ENTITY malformedURI.title "Adresa nuk është e vlefshme">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Vendndodhjet Web zakonisht shkruhen si
+  <li>Adresat Web zakonisht shkruhen si
     <strong>http://www.shembull.com/</strong></li>
-  <li>Sigurohuni që i keni përdorur pjerraket djathtas (p.sh.
+  <li>Sigurohuni që i keni përdorur pjerrëset djathtas (p.sh.
     <strong>/</strong>).</li>
 </ul>
 ">
@@ -78,10 +78,10 @@
 <!ENTITY netTimeout.title "Lidhjes i mbaroi koha">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Vendndodhja nuk u kuptua">
+<!ENTITY protocolNotFound.title "Nuk u kuptua adresa">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>Mund t&apos;ju duhet të instaloni tjetër &quot;software&quot; për hapjen e kësaj vendndodhje.</li>
+  <li>Mund t&apos;ju duhet të instaloni tjetër &quot;software&quot; për hapjen e kësaj adresa.</li>
 </ul>
 ">
 

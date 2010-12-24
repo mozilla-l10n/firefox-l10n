@@ -13,7 +13,7 @@
 <!ENTITY  cookieExceptions.label        "Përjashtime…">
 <!ENTITY  cookieExceptions.accesskey    "P">
 
-<!ENTITY  showCookies.label             "Shfaq &quot;Cookies&quot;…">
+<!ENTITY  showCookies.label             "Shfaqni &quot;Cookies&quot;…">
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  acceptThirdParty.label        "Prano &quot;cookie&quot; palësh të treta">

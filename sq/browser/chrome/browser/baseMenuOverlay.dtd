@@ -14,7 +14,7 @@
 <!ENTITY aboutProduct.accesskey   "R">
 <!ENTITY helpForIEUsers.label     "Për Përdorues të Internet Explorer-it">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY helpSafeMode.label       "Rinise me Shtesat të Çaktivizuara…">
+<!ENTITY helpSafeMode.label       "Riniseni me Shtesat të Çaktivizuara…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label         "Shënime Versioni">

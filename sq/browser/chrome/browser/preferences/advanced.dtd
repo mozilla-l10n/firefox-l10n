@@ -74,7 +74,7 @@
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsList.label           "&quot;Site&quot;-et web vijues kanë të dhëna të instaluara për përdorim &quot;offline&quot;:">
 <!ENTITY offlineAppsListRemove.accesskey "H">
-<!ENTITY offlineAppsListRemove.label     "Hiqe…">
+<!ENTITY offlineAppsListRemove.label     "Hiqeni…">
 <!ENTITY offlineStorage.label            "Depozitim &quot;Offline&quot;">
 <!ENTITY offlineNotify.label             "Bëma të ditur kur një &apos;site&apos; web kërkon të depozitojë të dhëna për përdorim &apos;offline&apos;">
 <!ENTITY offlineNotify.accesskey         "B">

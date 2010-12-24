@@ -41,10 +41,10 @@
   -->
 
 <!ENTITY pref.categories.add.title "Shtoni Kategori">
-<!ENTITY pref.categories.addButton.label "Shtoje…">
+<!ENTITY pref.categories.addButton.label "Shtojeni…">
 <!ENTITY pref.categories.addButton.accesskey "S">
 <!ENTITY pref.categories.edit.title "Përpunoni Kategori">
-<!ENTITY pref.categories.editButton.label "Përpunoje…">
+<!ENTITY pref.categories.editButton.label "Përpunojeni…">
 <!ENTITY pref.categories.editButton.accesskey "P">
 <!ENTITY pref.categories.removeButton.label "Hiqe">
 <!ENTITY pref.categories.removeButton.accesskey "H">

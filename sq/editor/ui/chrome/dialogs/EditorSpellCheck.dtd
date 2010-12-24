@@ -56,7 +56,7 @@
 <!ENTITY stopButton.label "Ndale">
 <!ENTITY stopButton.accessKey "N">
 <!ENTITY userDictionary.label "Fjalor Vetjak:">
-<!ENTITY moreDictionaries.label "Shkarko Më Tepër">
+<!ENTITY moreDictionaries.label "Shkarkoni Më Tepër">
 <!ENTITY addToUserDictionaryButton.label "Shtojeni Fjalën">
 <!ENTITY addToUserDictionaryButton.accessKey "F">
 <!ENTITY editUserDictionaryButton.label "Përpunoni…">

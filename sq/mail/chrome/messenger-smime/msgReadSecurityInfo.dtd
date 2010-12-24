@@ -6,5 +6,5 @@
 
 <!ENTITY signer.name "Nënshkruar prej:">
 <!ENTITY recipient.name "Koduar për:">
-<!ENTITY email.address "Vendndodhje Email:">
+<!ENTITY email.address "Adresë Email:">
 <!ENTITY issuer.name "Dëshmi lëshuar prej:">

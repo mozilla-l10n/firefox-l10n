@@ -176,7 +176,7 @@
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Hape">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "H">
-<!ENTITY calendar.context.modifyorviewtask.label      "Hap Punë…">
+<!ENTITY calendar.context.modifyorviewtask.label      "Hapni Punë…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "P">
 <!ENTITY calendar.context.newevent.label              "Ngjarje e Re…">
 <!ENTITY calendar.context.newevent.accesskey          "N">

@@ -56,6 +56,6 @@
 <!ENTITY askEachTime.label              "pyetmë çdo herë">
 <!ENTITY cookieExceptions.label         "Përjashtime…">
 <!ENTITY cookieExceptions.accesskey     "j">
-<!ENTITY showCookies.label              "Shfaq &quot;Cookie&quot;-t…">
+<!ENTITY showCookies.label              "Shfaqni &quot;Cookie&quot;-t…">
 <!ENTITY showCookies.accesskey          "S">
 

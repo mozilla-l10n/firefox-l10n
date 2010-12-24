@@ -28,13 +28,13 @@
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaAltHeader        "Tekst Alternativ">
-<!ENTITY  mediaAddress          "Vendndodhje">
+<!ENTITY  mediaAddress          "Adresë">
 <!ENTITY  mediaType             "Lloj">
 <!ENTITY  mediaSize             "Madhësi">
 <!ENTITY  mediaCount            "Numërim">
 <!ENTITY  mediaLongdesc         "Përshkrim i Gjatë:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Ruaje Si…">
+<!ENTITY  mediaSaveAs           "Ruajeni Si…">
 <!ENTITY  mediaSaveAs.accesskey "S">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Paraparje e Medias:">
