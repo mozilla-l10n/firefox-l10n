@@ -1,5 +1,5 @@
-<!ENTITY setupButton.label "Imposta &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey "m">
+<!ENTITY setupButton.label "Configura &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey "C">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; consente l'accesso alla cronologia, ai segnalibri, alle password e alle schede aperte da tutti i propri dispositivi.">
 <!ENTITY accountGroupboxCaption.label "Account &syncBrand.fullName.label;">
 <!ENTITY currentAccount.label "Account corrente:">
