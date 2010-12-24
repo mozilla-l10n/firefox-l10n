@@ -28,10 +28,10 @@
 <!ENTITY addonsLocal.label "Ваши дополнения">
 <!ENTITY addonsUpdate.label "Обновить">
 <!ENTITY addonsRepo.label "Получить дополнения">
-<!ENTITY addonsRecommended.label "Рекомендуемые">
+<!ENTITY addonsRecommended.label "Рекомендуемое">
 <!ENTITY addonsSearch.label "Поиск">
 <!ENTITY addonsSearch2.emptytext "Поисковый каталог">
-<!ENTITY addonsSearch.recommended "Рекомендуемые">
+<!ENTITY addonsSearch.recommended "Рекомендуемое">
 <!ENTITY addonOptions.label "Настройки">
 <!ENTITY addonEnable.label "Включить">
 <!ENTITY addonDisable.label "Отключить">
