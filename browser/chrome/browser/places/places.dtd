@@ -16,14 +16,14 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Rend radhitje Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY cmd.findInBookmarks.label      "Gjej në Faqerojtës…">
+<!ENTITY cmd.findInBookmarks.label      "Gjeni në Faqerojtës…">
 <!ENTITY cmd.findInBookmarks.accesskey  "G">
-<!ENTITY cmd.findCurrent.label          "Gjej në Përmbledhjen e Tanishme…">
+<!ENTITY cmd.findCurrent.label          "Gjeni në Përmbledhjen e Tanishme…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "Eksporto HTML…">
+<!ENTITY cmd.exportHTML.label           "Eksportoni HTML…">
 <!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Importo HTML…">
+<!ENTITY cmd.importHTML.label           "Importoni HTML…">
 <!ENTITY cmd.importHTML.accesskey       "I">
 <!ENTITY cmd.backup.label               "Kopjeruajtje…">
 <!ENTITY cmd.backup.accesskey           "K">
@@ -60,7 +60,7 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 <!ENTITY cmd.reloadMicrosummary.label      "Ringarko Titullin e Gjallë">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "R">
-<!ENTITY cmd.moveBookmarks.label                  "Lëvizi…">
+<!ENTITY cmd.moveBookmarks.label                  "Lëvizini…">
 <!ENTITY cmd.moveBookmarks.accesskey              "L">
 <!ENTITY col.name.label          "Emër">
 <!ENTITY col.tags.label          "Etiketa">
@@ -109,7 +109,7 @@
 <!ENTITY cmd.delete.accesskey           "F">
 <!ENTITY cmd.deleteDomainData.label     "Harroje Këtë &quot;Site&quot;">
 <!ENTITY cmd.deleteDomainData.accesskey "H">
-<!ENTITY cmd.bookmarkLink.label         "Faqeruaje Këtë Faqe…">
+<!ENTITY cmd.bookmarkLink.label         "Faqeruajeni Këtë Faqe…">
 <!ENTITY cmd.bookmarkLink.accesskey     "Q">
 
 <!ENTITY maintenance.tooltip    "Importoni dhe kopjeruani faqerojtësit tuaj">

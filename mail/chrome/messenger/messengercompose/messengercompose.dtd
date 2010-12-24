@@ -10,7 +10,7 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "e">
-<!ENTITY newContact.label "Kontakt Libri Vendndodhje…">
+<!ENTITY newContact.label "Kontakt Libri Adresash…">
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Bashkangjisni">
 <!ENTITY attachMenu.accesskey "B">
@@ -43,7 +43,7 @@
 <!ENTITY sendLaterCmd.accesskey "V">
 <!ENTITY printSetupCmd.label "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Shtyp…">
+<!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "S">
 
@@ -74,7 +74,7 @@
 <!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "K"> 
-<!ENTITY findCmd.label "Gjej dhe Zëvendëso…">
+<!ENTITY findCmd.label "Gjeni dhe Zëvendësoni…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "g">
 <!ENTITY findAgainCmd.label "Gjeje Sërish">
@@ -110,7 +110,7 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Mundësi">
 <!ENTITY optionsMenu.accesskey "M">
-<!ENTITY checkSpellingCmd2.label "Kontrollo Drejtshkrimin…">
+<!ENTITY checkSpellingCmd2.label "Kontrolloni Drejtshkrimin…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "K">
@@ -161,7 +161,7 @@
 <!ENTITY messengerCmd.label "Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Libër Vendndodhjesh">
+<!ENTITY addressBookCmd.label "Libër Adresash">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Rregullime Logarish…">
@@ -192,7 +192,7 @@
 <!ENTITY sendButton.tooltip "Dërgoje këtë mesazh tani"> 
 <!ENTITY sendlaterButton.tooltip "Dërgoje këtë mesazh më vonë"> 
 <!ENTITY quoteButton.tooltip "Përmend mesazhin e mëparshëm"> 
-<!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Vendndodhjesh"> 
+<!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Adresash"> 
 <!ENTITY attachButton.tooltip "Përfshini një bashkangjitje"> 
 <!ENTITY saveButton.tooltip "Ruaje këtë mesazh"> 
 <!ENTITY cutButton.tooltip              "Prije">
@@ -253,13 +253,13 @@
 <!ENTITY openAttachment.accesskey "H">
 <!ENTITY delete.label "Fshije">
 <!ENTITY delete.accesskey "F">
-<!ENTITY renameAttachment.label "Riemërtoje…">
+<!ENTITY renameAttachment.label "Riemërtojeni…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Përzgjidhe Krejt">
 <!ENTITY selectAll.accesskey "T">
-<!ENTITY attachFile.label "Bashkangjit Kartelë(a)…">
+<!ENTITY attachFile.label "Bashkangjitni Kartelë(a)…">
 <!ENTITY attachFile.accesskey "a">
-<!ENTITY attachPage.label "Bashkangjit Faqe Web…">
+<!ENTITY attachPage.label "Bashkangjitni Faqe Web…">
 <!ENTITY attachPage.accesskey "Q">
 
 <!-- Title for the address picker panel -->

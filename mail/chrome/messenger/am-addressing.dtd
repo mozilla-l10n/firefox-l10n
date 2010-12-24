@@ -26,7 +26,7 @@
 
 <!ENTITY addressing.label          "Hartim &amp; Adresim">
 <!ENTITY addressingGroupTitle.label "Adresim">
-<!ENTITY addressingText.label      "Kur kërkohen vendndodhje:">
+<!ENTITY addressingText.label      "Kur kërkohen adresa:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Përdor parapëlqimet e mia të përgjithshme LDAP për këtë llogari">
 <!ENTITY useGlobal.accesskey       "a">

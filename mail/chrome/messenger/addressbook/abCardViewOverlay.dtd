@@ -7,7 +7,7 @@
 <!ENTITY work.heading                "Pune">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading         "Përshkrim">
-<!ENTITY addresses.heading           "Vendndodhje">
+<!ENTITY addresses.heading           "Adresa">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "Merr Hartë">
-<!ENTITY mapIt.tooltip               "Shfaq për këtë vendndodhje një hartë prej Web-it">
+<!ENTITY mapIt.tooltip               "Shfaq për këtë adresë një hartë prej Web-it">

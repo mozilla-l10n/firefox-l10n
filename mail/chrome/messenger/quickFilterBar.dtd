@@ -78,7 +78,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Shfaqni vetëm mesazhet prej personash në librin tuaj të vendndodhjeve">
+         "Shfaqni vetëm mesazhet prej personash në librin tuaj të adresave">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only

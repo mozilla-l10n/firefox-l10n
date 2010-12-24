@@ -6,8 +6,8 @@
 <!ENTITY treehead.status.label        "Gjendje">
 <!ENTITY removepermission.label       "Hiq &quot;Site&quot;">
 <!ENTITY removeallpermissions.label   "Hiq Tërë &quot;Site&quot;-et">
-<!ENTITY address.label                "Vendndodhje e &quot;site&quot;-it web:">
-<!ENTITY address.accesskey            "v">
+<!ENTITY address.label                "Adresë e &quot;site&quot;-it web:">
+<!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Blloko">
 <!ENTITY session.label                "Lejo për Sesion">
 <!ENTITY allow.label                  "Lejo">

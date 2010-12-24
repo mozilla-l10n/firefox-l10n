@@ -6,10 +6,10 @@
 <!ENTITY newBlankPageCmd.label "Faqe Hartuesi">
 <!ENTITY newBlankPageCmd.accesskey "F" >
 <!ENTITY newMenu.label "E re">
-<!ENTITY openFileCmd.label "Hap Kartelë…">
+<!ENTITY openFileCmd.label "Hapni Kartelë…">
 <!ENTITY openFileCmd.accesskey "H">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Hap Vendndodhje Web…">
+<!ENTITY openRemoteCmd.label "Hapni Vendndodhje Web…">
 <!ENTITY openRemoteCmd.accesskey "V">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Faqe Së Fundmi">
@@ -19,25 +19,25 @@
 <!ENTITY saveCmd.label "Ruaje">
 <!ENTITY saveCmd.accesskey "R">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Ruaje Si…">
+<!ENTITY saveAsCmd.label "Ruajeni Si…">
 <!ENTITY saveAsCmd.accesskey "S">
 
 <!ENTITY publishCmd.label "Botoje">
 <!ENTITY publishCmd.accesskey "B">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Botoje Si…">
+<!ENTITY publishAsCmd.label "Botojeni Si…">
 <!ENTITY publishAsCmd.accesskey "S">
-<!ENTITY exportToTextCmd.label "Eksportoje si Tekst…">
+<!ENTITY exportToTextCmd.label "Eksportojeni si Tekst…">
 <!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Ruaje dhe Ndërroji Kodimin e Shkronjave">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "R">
 <!ENTITY previewCmd.label "Shfletoni Faqen">
 <!ENTITY previewCmd.accesskey "q">
-<!ENTITY sendPageCmd.label "Dërgo Faqe…">
+<!ENTITY sendPageCmd.label "Dërgoni Faqe…">
 <!ENTITY sendPageCmd.accesskey "D">
 <!ENTITY printSetupCmd.label "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Shtyp…">
+<!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.accesskey "y">
 <!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "Mbylle">
@@ -57,7 +57,7 @@
 <!ENTITY pasteAsQuotationCmd.label "Ngjite Si Përmendje">
 <!ENTITY pasteAsQuotationCmd.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Gjej dhe Zëvendëso…">
+<!ENTITY findCmd.label "Gjeni dhe Zëvendësoni…">
 <!ENTITY findCmd.accesskey "G">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
@@ -235,8 +235,8 @@
 <!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "Titull 6">
 <!ENTITY heading6Cmd.accesskey "6">
-<!ENTITY paragraphAddressCmd.label "Vendndodhje">
-<!ENTITY paragraphAddressCmd.accesskey "V">
+<!ENTITY paragraphAddressCmd.label "Adresë">
+<!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "Paraformatim">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
 

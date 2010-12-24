@@ -29,7 +29,7 @@
 <!ENTITY fullnameLabel.label "Emri Juaj:">
 <!ENTITY fullnameLabel.accesskey "E">
 
-<!ENTITY emailLabel.label "Vendndodhje Email:">
+<!ENTITY emailLabel.label "Adresë Email:">
 <!ENTITY emailLabel.accesskey "V">
 
 
@@ -108,7 +108,7 @@
 <!ENTITY serverNamePrefix.label "Emër Shërbyesi Marrës:">
 <!ENTITY smtpServerNamePrefix.label "Emër Shërbyesi Dërgues (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Emër Shërbyesi Lajmesh (NNTP):">
-<!ENTITY downloadOnLogin.label "Shkarko mesazhe tani">
+<!ENTITY downloadOnLogin.label "Shkarkoji mesazhet tani">
 <!ENTITY deferStorageDesc.label "Hiqini shenjën kutizës nëse doni të ruani postën për këtë llogari te drejtoria e vet. Kjo do të bëjë që kjo llogari të duket si llogaria më e sipërme. Përndryshe, do të jetë pjesë e llogarisë së Përgjithshme Të marrë te Dosje Vendore">
 <!ENTITY deferStorage.label "Përdor Të marrë të Përgjithshëm (ruaj postë në Dosje Vendore)">
 <!ENTITY deferStorage.accesskey "P">

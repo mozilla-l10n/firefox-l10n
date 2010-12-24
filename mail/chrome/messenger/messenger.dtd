@@ -15,7 +15,7 @@
 <!ENTITY newOtherAccountsCmd.accesskey "T">
 <!ENTITY newEmailAccountCmd.label "Llogari Poste…">
 <!ENTITY newEmailAccountCmd.accesskey "L">
-<!ENTITY openMessageFileCmd.label "Hap Mesazh të Ruajtur…">
+<!ENTITY openMessageFileCmd.label "Hapni Mesazh të Ruajtur…">
 <!ENTITY openMessageFileCmd.accesskey "H">
 <!ENTITY openAttachmentCmd.label "Bashkangjitje">
 <!ENTITY openAttachmentCmd.accesskey "B">
@@ -48,13 +48,13 @@
 <!ENTITY compactFolders.accesskey    "N">
 <!ENTITY emptyTrashCmd.label "Zbrazi Hedhurinat">
 <!ENTITY emptyTrashCmd.accesskey    "Z">
-<!ENTITY importCmd.label "Importo…">
+<!ENTITY importCmd.label "Importoni…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "I palidhur">
 <!ENTITY offlineMenu.accesskey "I">
 <!ENTITY offlineGoOfflineCmd.label "Punoni i Palidhur">
 <!ENTITY offlineGoOfflineCmd.accesskey "p">
-<!ENTITY synchronizeOfflineCmd.label "Shkarko/Njëkohëso Tani…">
+<!ENTITY synchronizeOfflineCmd.label "Shkarkoni/Njëkohësoni Tani…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Rregullime për i Palidhur…">
 <!ENTITY settingsOfflineCmd.accesskey "R">
@@ -62,7 +62,7 @@
 <!ENTITY downloadSelectedCmd.accesskey "u">
 <!ENTITY downloadStarredCmd.label "Merr Mesazhet me Yllkë">
 <!ENTITY downloadStarredCmd.accesskey "y">
-<!ENTITY printCmd.label "Shtyp…">
+<!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
@@ -117,7 +117,7 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Panel Poste">
 <!ENTITY showMessengerToolbarCmd.accesskey "P">
-<!ENTITY customizeToolbar.label "Përshtasni…">
+<!ENTITY customizeToolbar.label "Përshtatni…">
 <!ENTITY customizeToolbar.accesskey "N">
 
 <!ENTITY messagePaneLayoutStyle.label "Skemë">
@@ -267,7 +267,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Gjej">
 <!ENTITY findMenu.accesskey "G">
-<!ENTITY findCmd.label "Gjej Në Këtë Mesazh…">
+<!ENTITY findCmd.label "Gjeni Në Këtë Mesazh…">
 <!ENTITY findCmd.accesskey "K">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Gjej Sërish">
@@ -276,11 +276,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Kërko te Mesazhet…">
+<!ENTITY searchMailCmd.label "Kërkoni te Mesazhet…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
-<!ENTITY searchAddressesCmd.label "Kërko te Vendndodhjet…">
-<!ENTITY searchAddressesCmd.accesskey "V">
+<!ENTITY searchAddressesCmd.label "Kërkoni te Adresat…">
+<!ENTITY searchAddressesCmd.accesskey "A">
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Shko">
@@ -358,7 +358,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.label "Përpunojeni Si Mesazh të Ri">
 <!ENTITY editMsgAsNewCmd.accesskey "R">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label "Krijo Filtër Prej Mesazhi…">
+<!ENTITY createFilter.label "Krijoni Filtër Prej Mesazhi…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Shpjere Te">
 <!ENTITY moveMsgToMenu.accesskey "S">
@@ -445,7 +445,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tasksMenu.accesskey "M">
 <!ENTITY messengerCmd.label "Postë &amp; Grupe Lajmesh">
 <!ENTITY messengerCmd.accesskey "P">
-<!ENTITY addressBookCmd.label "Libër Vendndodhjesh">
+<!ENTITY addressBookCmd.label "Libër Adresash">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Shtesa">
@@ -467,7 +467,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY runJunkControls.accesskey "Z">
 <!ENTITY deleteJunk.label "Fshi Postë të Shënuar si të Pavlerë në Dosje">
 <!ENTITY deleteJunk.accesskey "v">
-<!ENTITY importCmd.label "Importo…">
+<!ENTITY importCmd.label "Importoni…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY errorConsoleCmd.label "Konsol Gabimesh">
 <!ENTITY errorConsoleCmd.accesskey "K">
@@ -498,7 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY throbberItem.title "Tregues Veprimtarie">
 <!ENTITY junkButton.label "E pavlerë">
 <!ENTITY notJunkButton.label "Jo e Pavlerë">
-<!ENTITY addressBookButton.label "Libër Vendndodhjesh">
+<!ENTITY addressBookButton.label "Libër Adresash">
 <!ENTITY glodaSearch.title "Kërkim Global">
 <!ENTITY searchItem.title "Kërkim i Shpejtë">
 <!ENTITY mailViewsToolbarItem.title "Shfaqje Poste">
@@ -530,7 +530,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.tooltip "Ndale shpërnguljen e tanishme">
 <!ENTITY junkButton.tooltip "Mesazhet e përzgjedhur shënoji si të pavlera">
 <!ENTITY notJunkButton.tooltip "Mesazhet e përzgjedhur shënoji si jo të pavlera">
-<!ENTITY addressBookButton.tooltip "Shkoni te libri i vendndodhjeve">
+<!ENTITY addressBookButton.tooltip "Shkoni te libri i adresave">
 <!ENTITY tagButton.tooltip "Etiketoni mesazhe">
 <!ENTITY compactButton.tooltip "Hiqi mesazhet e fshirë prej dosjes së përzgjedhur">
 
@@ -571,7 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "D">
 <!ENTITY folderContextSubscribe.label "Pajtohuni…">
 <!ENTITY folderContextSubscribe.accesskey "p">
-<!ENTITY folderContextSearchMessages.label "Kërko…">
+<!ENTITY folderContextSearchMessages.label "Kërkoni…">
 <!ENTITY folderContextSearchMessages.accesskey "K">
 <!ENTITY folderContextProperties.label "Veti…">
 <!ENTITY folderContextProperties.accesskey "V">
@@ -594,7 +594,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchRecipient.label "Për ose Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Subjekt, Për ose Cc">
 <!ENTITY searchMessageBody.label "Tërë Mesazhin">
-<!ENTITY saveAsVirtualFolderMenu.label "Ruaje Kërkimin si Dosje…">
+<!ENTITY saveAsVirtualFolderMenu.label "Ruajeni Kërkimin si Dosje…">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Rrjedhë">
@@ -668,9 +668,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Kopjoje Te">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
-<!ENTITY contextSaveAs.label "Ruaje Si…">
+<!ENTITY contextSaveAs.label "Ruajeni Si…">
 <!ENTITY contextSaveAs.accesskey "R">
-<!ENTITY contextPrint.label "Shtyp…">
+<!ENTITY contextPrint.label "Shtypni…">
 <!ENTITY contextPrint.accesskey "Y">
 <!ENTITY contextPrintPreview.label "Paraparje e Shtypjes">
 <!ENTITY contextPrintPreview.accesskey "a">
@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    folder(s).  The sub-menu items indicate whether we want to apply it to just
    a folder or also its children.
   -->
-<!ENTITY columnPicker.applyTo.label "Zbatoji shtyllat te…">
+<!ENTITY columnPicker.applyTo.label "Zbatojini shtyllat te…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -766,7 +766,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Kërko në tërë mesazhet… #1">
+<!ENTITY searchAllMessages.label.base "Kërkoni në tërë mesazhet… #1">
 <!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -781,9 +781,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Shto te Libër Vendndodhjesh…">
+<!ENTITY AddToAddressBook.label "Shtoni te Libër Adresash…">
 <!ENTITY AddToAddressBook.accesskey "S">
-<!ENTITY AddDirectlyToAddressBook.label "Shto te Libër Vendndodhjesh">
+<!ENTITY AddDirectlyToAddressBook.label "Shto te Libër Adresash">
 <!ENTITY AddDirectlyToAddressBook.accesskey "S">
 <!ENTITY EditContact.label "Përpunoni Kontakt…">
 <!ENTITY EditContact.accesskey "P">
@@ -793,7 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SubscribeToNewsgroup.accesskey "P">
 <!ENTITY SendMessageTo.label "Hartoni Mesazh Për">
 <!ENTITY SendMessageTo.accesskey "H">
-<!ENTITY CopyEmailAddress.label "Kopjo Vendndodhje Email">
+<!ENTITY CopyEmailAddress.label "Kopjo Adresë Email">
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CopyNewsgroupName.label "Kopjo Emrin e Grupit të Lajmeve">
 <!ENTITY CopyNewsgroupName.accesskey "K">
@@ -805,9 +805,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.accesskey "N">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Ruaje Lidhjen Si…">
+<!ENTITY saveLinkAsCmd.label "Ruajeni Lidhjen Si…">
 <!ENTITY saveLinkAsCmd.accesskey "L">
-<!ENTITY saveImageAsCmd.label "Ruaje Figurën Si…">
+<!ENTITY saveImageAsCmd.label "Ruajeni Figurën Si…">
 <!ENTITY saveImageAsCmd.accesskey "R">
 <!ENTITY cutCmd.label "Prije">
 <!ENTITY cutCmd.accesskey "P">
@@ -821,7 +821,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "V">
 <!ENTITY copyImageAllCmd.label "Kopjo Pamjen">
 <!ENTITY copyImageAllCmd.accesskey "j">
-<!ENTITY copyEmailCmd.label "Kopjo Vendndodhje Email">
+<!ENTITY copyEmailCmd.label "Kopjo Adresë Email">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY stopCmd.label "Ndale">
 <!ENTITY stopCmd.accesskey "D">

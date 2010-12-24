@@ -15,7 +15,7 @@
 <!ENTITY spellCheckInline1.accesskey          "d">
 <!ENTITY languagePopup.label                  "Gjuhë:">
 <!ENTITY languagePopup.accessKey              "G">
-<!ENTITY downloadDictionaries.label           "Shkarko Më tepër Fjalorë">
+<!ENTITY downloadDictionaries.label           "Shkarkoni Më tepër Fjalorë">
 
 <!ENTITY warnOnSendAccelKey.label             "Ripohoni përdorimin e shkurtoreve për dërgim mesazhi">
 <!ENTITY warnOnSendAccelKey.accesskey         "R">
@@ -25,11 +25,11 @@
 
 
 
-<!ENTITY emailCollectionPicker.label           "Shto vetvetiu vendndodhje dërgimi e-mail te:">
+<!ENTITY emailCollectionPicker.label           "Shto vetvetiu adresë dërgimi e-mail te:">
 <!ENTITY emailCollectionPicker.accesskey       "v">
-<!ENTITY addressingTitle.label                 "Vetëplotësim Vendndodhje">
+<!ENTITY addressingTitle.label                 "Vetëplotësim Adrese">
 <!ENTITY autocompleteText.label                "Kur adresohen mesazhe, shih për zëra përputhjesh te:">
-<!ENTITY addressingEnable.label                "Libra Vendorë Vendndodhjesh">
+<!ENTITY addressingEnable.label                "Libra Vendorë Adresash">
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Shërbyes Drejtorie:">
 <!ENTITY directories.accesskey                 "S">

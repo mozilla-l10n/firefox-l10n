@@ -13,7 +13,7 @@
 <!ENTITY certmgr.close.label "Mbylle">
 <!ENTITY certmgr.deletecert.aftername "Jeni i sigurt se doni të fshihet kjo dëshmi?">
 <!ENTITY certmgr.deletecert.beforename "Keni kërkuar të fshihet kjo dëshmi:">
-<!ENTITY certmgr.deletecert.title "Fshij Dëshmi">
+<!ENTITY certmgr.deletecert.title "Fshini Dëshmi">
 <!ENTITY certmgr.deleteusercert.aftername "Pasi të keni fshirë këtë dëshmi, nuk do të mundni të lexoni postë që është koduar me të.">
 <!ENTITY certmgr.deleteusercert.beforename "Keni kërkuar të fshihet kjo dëshmi:">
 <!ENTITY certmgr.deleteusercert.title "Fshini Dëshminë Tuaj">
@@ -37,7 +37,7 @@
 <!ENTITY certmgr.editsslcert.dotrust "Besoje mirëfilltësinë e kësaj dëshmie.">
 <!ENTITY certmgr.editsslcert.edittrust "Përpunoni rregullime besimi dëshmie:">
 <!ENTITY certmgr.editsslcert.title "Përpunoni rregullime besueshmërie dëshmish &quot;site&quot;-esh web">
-<!ENTITY certmgr.email "Vendndodhje E-mail">
+<!ENTITY certmgr.email "Adresë E-mail">
 <!ENTITY certmgr.expires "Skadon Më">
 <!ENTITY certmgr.fields.label "Vlerë Fushe">
 <!ENTITY certmgr.fingerprints.label "Shenja gishtash">
@@ -65,14 +65,14 @@
 <!ENTITY certmgr.hierarchy.accesskey          "H">
 <!ENTITY certmgr.tab.orphan2                  "Të tjera">
 <!ENTITY certmgr.pending.label                "Po vërtetohet dëshmia…">
-<!ENTITY certmgr.export.label                 "Eksporto…">                      
+<!ENTITY certmgr.export.label                 "Eksportoni…">                      
 <!ENTITY certmgr.export.accesskey             "E">                              
-<!ENTITY certmgr.delete2.label                 "Fshije…">
-<!ENTITY certmgr.delete_builtin.label         "Fshije ose Mos e Beso…">
+<!ENTITY certmgr.delete2.label                 "Fshijeni…">
+<!ENTITY certmgr.delete_builtin.label         "Fshijeni ose Mos e Besoni…">
 <!ENTITY certmgr.delete_builtin.accesskey     "M">
-<!ENTITY certmgr.backup2.label                 "Kopjeruaje…">
-<!ENTITY certmgr.backupall2.label              "Kopjeruaji të Tëra…">
-<!ENTITY certmgr.restore2.label                "Importo…">    
+<!ENTITY certmgr.backup2.label                 "Kopjeruajeni…">
+<!ENTITY certmgr.backupall2.label              "Kopjeruajini të Tëra…">
+<!ENTITY certmgr.restore2.label                "Importoni…">    
 <!ENTITY certmgr.addException.label           "Shtoni Përjashtim…">
 <!ENTITY certmgr.addException.accesskey       "o">
 <!ENTITY exceptionMgr.title                   "Shtoni Përjashtime Sigurie">

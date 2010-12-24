@@ -2,7 +2,7 @@
 <!ENTITY autoSelect.label "Mos pyet në nisje">
 <!ENTITY availprofiles.label "Profile të Mundshëm">
 <!ENTITY deleteButton.accesskey "F">
-<!ENTITY deleteButton.label "Fshij Profil…">
+<!ENTITY deleteButton.label "Fshini Profil…">
 <!ENTITY exit.label "Dil">
 <!ENTITY newButton.accesskey "K">
 <!ENTITY newButton.label "Krijoni Profil…">

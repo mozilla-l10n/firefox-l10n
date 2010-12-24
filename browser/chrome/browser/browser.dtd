@@ -12,19 +12,19 @@
 <!ENTITY tabCmd.label "Skedë e Re">
 <!ENTITY tabCmd.accesskey "S">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Hap Vendndodhje…">
+<!ENTITY openLocationCmd.label "Hapni Vendndodhje…">
 <!ENTITY openLocationCmd.accesskey "V">
-<!ENTITY openFileCmd.label "Hap Kartelë…">
+<!ENTITY openFileCmd.label "Hapni Kartelë…">
 <!ENTITY openFileCmd.accesskey "K">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
 <!ENTITY printPreviewCmd.accesskey "P">
-<!ENTITY printCmd.label "Shtyp…">
+<!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.accesskey "y">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importo…">
+<!ENTITY import.label "Importoni…">
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Puno i Palidhur">
@@ -57,11 +57,11 @@
 <!ENTITY bookmarksMenu.accesskey "F">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
-<!ENTITY addCurPagesCmd.label "Faqeruaji Tërë Skedat…">
-<!ENTITY showAllTabsCmd.label "Shfaqi Tërë Skedat">
+<!ENTITY addCurPagesCmd.label "Faqeruajini Tërë Skedat…">
+<!ENTITY showAllTabsCmd.label "Shfaqini Tërë Skedat">
 <!ENTITY showAllTabsCmd.accesskey "T">
 
-<!ENTITY bookmarkAllCmd.label "Faqeruaji Tërë Skedat…">
+<!ENTITY bookmarkAllCmd.label "Faqeruajini Tërë Skedat…">
 <!ENTITY backCmd.label                "Mbrapsht">
 <!ENTITY backCmd.accesskey            "M">
 <!ENTITY backButton.tooltip           "Shko mbrapsht një faqe">
@@ -246,22 +246,22 @@
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Shihni Figurë Sfondi">
 <!ENTITY viewBGImageCmd.accesskey     "F">
-<!ENTITY setDesktopBackgroundCmd.label      "Vëre Si Sfond Desktopi…">
+<!ENTITY setDesktopBackgroundCmd.label      "Vëreni Si Sfond Desktopi…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY sendPageCmd.label            "Dërgoni Lidhjen…">
 <!ENTITY sendPageCmd.accesskey        "g">
-<!ENTITY savePageCmd.label            "Ruaje Faqen Si…">
+<!ENTITY savePageCmd.label            "Ruajeni Faqen Si…">
 <!ENTITY savePageCmd.accesskey        "R">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "S">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Ruaje Kornizën Si…">
+<!ENTITY saveFrameCmd.label           "Ruajeni Kornizën Si…">
 <!ENTITY saveFrameCmd.accesskey       "i">
-<!ENTITY saveLinkCmd.label            "Ruaje Lidhjen Si…">
+<!ENTITY saveLinkCmd.label            "Ruajeni Lidhjen Si…">
 <!ENTITY saveLinkCmd.accesskey        "R">
 <!ENTITY sendLinkCmd.label            "Dërgoni Lidhjen…"> 
 <!ENTITY sendLinkCmd.accesskey        "L">
-<!ENTITY saveImageCmd.label           "Ruaje Figurën Si…">
+<!ENTITY saveImageCmd.label           "Ruajeni Figurën Si…">
 <!ENTITY saveImageCmd.accesskey       "u">
 <!ENTITY sendImageCmd.label           "Dërgoni Figurën…">
 <!ENTITY sendImageCmd.accesskey       "n">
@@ -271,7 +271,7 @@
 <!ENTITY copyImageCmd.accesskey       "P">
 <!ENTITY copyImageContentsCmd.label   "Kopjo Figurën">
 <!ENTITY copyImageContentsCmd.accesskey  "K"> 
-<!ENTITY copyEmailCmd.label           "Kopjo Vendndodhje Email">
+<!ENTITY copyEmailCmd.label           "Kopjo Adresë Email">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Këtë Kornizë">
 <!ENTITY thisFrameMenu.accesskey          "z">
@@ -311,14 +311,14 @@
 <!ENTITY bidiSwitchTextDirectionItem.label        "Këmbe Drejtim Teksti">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
-<!ENTITY findOnCmd.label     "Gjej në Këtë Faqe…">
+<!ENTITY findOnCmd.label     "Gjeni në Këtë Faqe…">
 <!ENTITY findOnCmd.accesskey "G">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Gjej Sërish">
 <!ENTITY findAgainCmd.accesskey "I">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY spellAddDictionaries.label "Shto fjalorë…">
+<!ENTITY spellAddDictionaries.label "Shtoni fjalorë…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">            
 <!ENTITY bookmarkThisPageCmd.label "Faqeruaj Këtë Faqe">
@@ -339,7 +339,7 @@
 <!ENTITY fullZoomResetCmd.label         "Rimerre">
 <!ENTITY identity.moreInfoLinkText "Tregomë më tepër rreth këtij &quot;site&quot;-i web…">
 <!ENTITY printFrameCmd.accesskey      "K">
-<!ENTITY printFrameCmd.label          "Shtyp Kornizën…">
+<!ENTITY printFrameCmd.label          "Shtypni Kornizën…">
 <!ENTITY showAllHistoryCmd2.label "Shfaq Tërë Historikun">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY identity.runBy "i cili xhiron për llogari të">
@@ -388,9 +388,9 @@
 
 <!ENTITY reloadImageCmd.label         "Ringarko Figurën">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY saveVideoCmd.label           "Ruaje Videon Si…">
+<!ENTITY saveVideoCmd.label           "Ruajeni Videon Si…">
 <!ENTITY saveVideoCmd.accesskey       "u">
-<!ENTITY saveAudioCmd.label           "Ruaje Audion Si…">
+<!ENTITY saveAudioCmd.label           "Ruajeni Audion Si…">
 <!ENTITY saveAudioCmd.accesskey       "u">
 <!ENTITY sendVideoCmd.label           "Dërgoni Videon…">
 <!ENTITY sendVideoCmd.accesskey       "d">
@@ -400,7 +400,7 @@
 <!ENTITY viewVideoCmd.label           "Shiheni Videon">
 <!ENTITY viewVideoCmd.accesskey       "S">
 
-<!ENTITY clearRecentHistory.label               "Pastro Historikun Së fundmi…">
+<!ENTITY clearRecentHistory.label               "Pastroni Historikun Së fundmi…">
 <!ENTITY clearRecentHistory.accesskey           "H">
 
 
@@ -419,7 +419,7 @@
 
 
 
-<!ENTITY feedButton.tooltip           "Pajtohu te kjo faqe…">
+<!ENTITY feedButton.tooltip           "Pajtohuni te kjo faqe…">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Dritare të mbyllura Së Fundmi">
 <!ENTITY newTabButton.tooltip           "Hap skedë të re">
@@ -505,7 +505,7 @@
 <!ENTITY appMenuUnsorted.label "Faqerojtës të Parenditur">
 <!ENTITY appMenuWebDeveloper.label "Zhvillues Web">
 <!ENTITY appMenuGettingStarted.label "Si Tapos;ia Fillohet">
-<!ENTITY appMenuSafeMode.label "Rinise me Shtesa të Çaktivizuara…">
+<!ENTITY appMenuSafeMode.label "Riniseni me Shtesa të Çaktivizuara…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label

@@ -8,7 +8,7 @@
 <!ENTITY ListNickName.label             "Nofkë Liste: ">
 <!ENTITY ListDescription.label          "Përshkrim: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Shtypni vendndodhje email për t&apos;i shtuar te lista e postimeve:">
+<!ENTITY AddressTitle.label             "Shtypni adresa email për t&apos;i shtuar te lista e postimeve:">
 <!ENTITY UpButton.label                 "Ngjitu">
 <!ENTITY DownButton.label               "Zbrit">
 
