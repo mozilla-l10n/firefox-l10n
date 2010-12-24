@@ -381,8 +381,8 @@
 <!ENTITY markAsJunkCmd.label "Como correo no deseado">
 <!ENTITY markAsJunkCmd.accesskey "s">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Como correo normal">
-<!ENTITY markAsNotJunkCmd.accesskey "N">
+<!ENTITY markAsNotJunkCmd.label "Como correo legítimo">
+<!ENTITY markAsNotJunkCmd.accesskey "m">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Ejecutar controles de correo no deseado">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
