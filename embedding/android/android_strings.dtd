@@ -1,0 +1,12 @@
+<!ENTITY splash_screen_label "&brandShortName; загружаецца">
+<!ENTITY incompatable_cpu_error "Гэтая збудова не задавальняе найменшым сістэмным патрабаванням &brandShortName;.">
+<!ENTITY no_space_to_start_error "Няма прасторы, неабходнай &brandShortName; для запуску.">
+<!ENTITY error_loading_file "Здарылася памылка падчас загрузкі файлаў, патрэбных для выканання &brandShortName;">
+<!ENTITY crash_reporter_title "Паведамляльнік пра крахі &brandShortName;">
+<!ENTITY crash_message "&brandShortName; пацярпеў крах. Вашы ўстаўкі будуць пералічаны на пачатковай старонцы &brandShortName; пасля перазапуску.">
+<!ENTITY crash_help_message "Дапамажыце нам, калі ласка, выправіць праблему!">
+<!ENTITY crash_send_report_message "Дасыланне Mozilla справаздачы пра крах">
+<!ENTITY crash_include_url "Уключыць адрас старонкі">
+<!ENTITY crash_close_label "Зачыніць">
+<!ENTITY crash_restart_label "Перазапусціць &brandShortName;">
+<!ENTITY sending_crash_report "Дасыланне справаздачы пра крах\u2026">
