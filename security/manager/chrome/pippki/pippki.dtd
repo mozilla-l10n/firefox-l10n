@@ -93,7 +93,7 @@
 <!ENTITY examineCert.accesskey "E">
 <!ENTITY serverCrlNextupdate.message "Chiedere assistenza all'amministratore di sistema.">
 <!ENTITY createCertInfo.title "Genera una chiave privata">
-<!ENTITY createCertInfo.msg1 "Generazione chiave in corso… L'elaborazione potrebbe impiegare alcuni minuti.">
+<!ENTITY createCertInfo.msg1 "Generazione chiave in corso… L'elaborazione potrebbe richiedere alcuni minuti.">
 <!ENTITY createCertInfo.msg2 "Attendere…">
 <!ENTITY formSigning.title "Richiesta cifratura di un testo">
 <!ENTITY formSigning.cert "Certificato di firma">
