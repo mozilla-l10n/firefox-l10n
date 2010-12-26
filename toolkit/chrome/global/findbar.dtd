@@ -4,13 +4,13 @@
 <!-- entities split out from browser.dtd -->
 <!ENTITY next.label "आगाँ">
 <!ENTITY next.accesskey "N">
-<!ENTITY next.tooltip "वाकींश क अगली उपस्थिति ताकू">
-<!ENTITY previous.label "पिछला">
+<!ENTITY next.tooltip "खोजक अगिला उपस्थिति ताकू">
+<!ENTITY previous.label "पाछाँ">
 <!ENTITY previous.accesskey "P">
-<!ENTITY previous.tooltip "वाकींश क पिछली उपस्थिति ताकू">
-<!ENTITY findCloseButton.tooltip "ढ़ूँढ़ पट्टी बन्न  करू ">
+<!ENTITY previous.tooltip "खोजक पछिला उपस्थिति ताकू">
+<!ENTITY findCloseButton.tooltip "ताकूपट्टी बन्न करू ">
 <!ENTITY highlight.label "सभटा आलोकित  करू ">
 <!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "वाकींश क सारी उपस्थिति आलोकित  करू ">
-<!ENTITY caseSensitiveCheckbox.label "भेटलन स्थिति">
+<!ENTITY highlight.tooltiptext "खोजक सभटा उपस्थिति आलोकित करू ">
+<!ENTITY caseSensitiveCheckbox.label "भेटल स्थिति">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">

@@ -4,12 +4,12 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "आरंभ कए रहल  अछि …">
+<!ENTITY starting.label                   "आरंभ कए रहल अछि …">
 <!ENTITY scanning.label                   "वायरस क लेल स्कैनिंग कए रहल  अछि …">
 
 <!ENTITY downloads.title                  "डाउनलोड">
 
-<!ENTITY cmd.pause.label                  "ठहरिअरएँ">
+<!ENTITY cmd.pause.label                  "ठहरावू">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "फेर बहाल  करू ">
 <!ENTITY cmd.resume.accesskey             "R">
@@ -17,11 +17,11 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.show.label                   "संग्राहक फोल्डर खोलू">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "फाइंडर मे देखाओलँ">
+<!ENTITY cmd.showMac.label                "फाइंडर मे देखाउ">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "खोलू">
 <!ENTITY cmd.open.accesskey               "O">
-<!ENTITY cmd.openWith.label               "एकटारासँ खोलू…">
+<!ENTITY cmd.openWith.label               "एकरासँ खोलू…">
 <!ENTITY cmd.openWith.accesskey           "h">
 <!ENTITY cmd.retry.label                  "फेर कोशिश  करू ">
 <!ENTITY cmd.retry.accesskey              "R">
@@ -36,12 +36,12 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "सूची साफ  करू ">
-<!ENTITY cmd.clearList.tooltip            "पूर्ण, रद्द कएल भेल, आओर बिफल डाउनलोड केँ सूची सँ हटाता  अछि ">
+<!ENTITY cmd.clearList.tooltip            "पूर्ण, रद्द कएल भेल, आओर बिफल डाउनलोड केँ सूची सँ हटाबैछ ">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
-<!ENTITY closeWhenDone.label              "डाउनलोड क पूरा हए पर बन्न  करू ">
-<!ENTITY closeWhenDone.tooltip            "डाउनलोड विंडो बन्न करू जखन सबहि फाइलें डाउनलोड  कएनाइ  बन्न कए दे">
+<!ENTITY closeWhenDone.label              "डाउनलोडक पूरा हए पर बन्न  करू ">
+<!ENTITY closeWhenDone.tooltip            "डाउनलोड विंडो बन्न करू जखन सबहि फाइल डाउनलोड  कएनाइ बन्न कए दैछ">
 
-<!ENTITY showFolder.label                 "ई फोल्डर देखाओलँ">
+<!ENTITY showFolder.label                 "ई फोल्डर देखाउ">
 <!ENTITY searchBox.label                  "खोजू…">

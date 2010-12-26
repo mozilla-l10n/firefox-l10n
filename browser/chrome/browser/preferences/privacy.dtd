@@ -21,7 +21,7 @@
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  dontrememberActions.clearHistory.label "सभटा  मोजुदा  इतिहास साफ  करू ">
+<!ENTITY  dontrememberActions.clearHistory.label "सभटा मोजुदा इतिहास साफ  करू ">
 <!ENTITY  dontrememberActions.post.label         ".">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY  rememberDescription.label      "&brandShortName; अहाँक ब्राउजिंग, डाउनलोड, फार्म, आओर खोज इतिहास केँ याद राखताह आओर वेबसाइटसँ कुकीज जमा राखताह जखन अहाँ साइट पर जाइत  छी.">
+<!ENTITY  rememberDescription.label      "&brandShortName; अहाँक ब्राउजिंग, डाउनलोड, फार्म, आओर खोज इतिहास केँ याद राखताह आओर वेबसाइटसँ कुकीज जमा राखताह जखन अहाँ साइट पर जाइत छी.">
 
 
 <!-- LOCALIZATION NOTE:
@@ -103,7 +103,7 @@
 <!ENTITY  privateBrowsingPermanent.label "स्थायी निज ब्राउज़िंग विधि">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "मेरे ब्राउज़िंग इतिहास याद राखू">
+<!ENTITY  rememberHistory.label      "हमर ब्राउज़िंग इतिहास याद राखू">
 <!ENTITY  rememberHistory.accesskey  "b">
 
 

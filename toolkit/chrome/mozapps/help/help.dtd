@@ -6,10 +6,10 @@
 
 <!ENTITY backButton.label               "पाछाँ">
 <!ENTITY backButton.accesskey           "B">
-<!ENTITY backButton.tooltip             "एकटाटा पृष्ठ पाछाँ जाउ">
+<!ENTITY backButton.tooltip             "एकटा पृष्ठ पाछाँ जाउ">
 <!ENTITY forwardButton.label            "आगाँ">
 <!ENTITY forwardButton.accesskey        "F">
-<!ENTITY forwardButton.tooltip          "एकटाटा पृष्ठ आगाँ जाउ">
+<!ENTITY forwardButton.tooltip          "एकटा पृष्ठ आगाँ जाउ">
 <!ENTITY copyCmd.label                  "नकल लिअ">
 <!ENTITY copyCmd.accesskey              "C">
 <!ENTITY selectAllCmd.label             "सभटा चुनू">
@@ -17,7 +17,7 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "घर">
-<!ENTITY homeButton.tooltip             " मदति  आरंभ पृष्ठ पर जाउ">
+<!ENTITY homeButton.tooltip             " मदति आरंभ पृष्ठ पर जाउ">
 <!ENTITY printButton.label              "छापू">
 <!ENTITY printButton.tooltip            "ई पृष्ठ छापू">
 <!ENTITY closeWindow.commandkey         "W">
@@ -40,12 +40,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   " हरदम  उप्पर">
+<!ENTITY zLevel.label                   " हरदम उप्पर">
 <!ENTITY zLevel.accesskey               "T">
 
 <!ENTITY fullZoomReduceBtn.label        "छोट  करू ">
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "पैघ  करू ">
+<!ENTITY fullZoomEnlargeBtn.label       "पैघ करू ">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">
 
 <!ENTITY search.emptytext               "खोजू">

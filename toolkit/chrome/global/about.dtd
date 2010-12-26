@@ -1,16 +1,16 @@
-<!ENTITY about.version                "version">
+<!ENTITY about.version                "संस्करण">
 
 <!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
-<!ENTITY about.credits.beforeLink     "See a list of ">
-<!ENTITY about.credits.linkTitle      "contributors">
+<!ENTITY about.credits.beforeLink     "मोजिला प्रोजेक्टक">
+<!ENTITY about.credits.linkTitle      "योगदानकएनिहारसभक">
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.credits.afterLink      " to the Mozilla Project.">
+<!ENTITY about.credits.afterLink      " सूची देखू.">
 
 <!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
-<!ENTITY about.license.beforeTheLink  "Read the ">
-<!ENTITY about.license.linkTitle      "licensing information">
+<!ENTITY about.license.beforeTheLink  "ई उत्पादक लेल ">
+<!ENTITY about.license.linkTitle      "लाइसेंसिंग सूचना">
 <!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.license.afterTheLink   " for this product.">
+<!ENTITY about.license.afterTheLink   " देखू.">
 
 <!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 <!ENTITY about.relnotes.beforeTheLink "Read the ">

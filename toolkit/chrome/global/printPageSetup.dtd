@@ -21,7 +21,7 @@
 
 <!ENTITY scale.label "पैमानाः">
 <!ENTITY scalePercent "&#037;">
-<!ENTITY shrinkToFit.label "पृष्ठ चओड़ाइ मे रखने  कलेल  सिकोड़ें">
+<!ENTITY shrinkToFit.label "पृष्ठ चओड़ाइमे रखबाक लेल सिकोड़ू">
 <!ENTITY optionsGroup.label "विकल्प">
 <!ENTITY printBG.label       "छपाइ पृष्ठभूमि (रंग &amp; छवि)">
 <!ENTITY advanced.tab "हाशिया &amp;  शीर्षिका/पादिका">
@@ -30,17 +30,17 @@
 <!ENTITY marginUnits.metric "मिलीमीटर">
 <!ENTITY marginTop.label "शिखर:">
 <!ENTITY marginBottom.label "तल:">
-<!ENTITY marginLeft.label "बाएँ:">
-<!ENTITY marginRight.label "दाएँ:">
+<!ENTITY marginLeft.label "बम्माँ:">
+<!ENTITY marginRight.label "दहिन्ना:">
 <!ENTITY headerFooter.label "शीर्षिका &amp; पादिका">
-<!ENTITY hfLeft.label "बायें:">
-<!ENTITY hfCenter.label "मध्य:">
-<!ENTITY hfRight.label "दायें:">
-<!ENTITY headerLeft.tip      "बायां शीर्षिका">
+<!ENTITY hfLeft.label "बम्माँ:">
+<!ENTITY hfCenter.label "बिचला:">
+<!ENTITY hfRight.label "दहिन्ना:">
+<!ENTITY headerLeft.tip      "बम्माँ शीर्षिका">
 <!ENTITY headerCenter.tip    "केंद्रीय शीर्षिका">
-<!ENTITY headerRight.tip     "दहिन शीर्षिका">
+<!ENTITY headerRight.tip     "दहिन्ना शीर्षिका">
 <!ENTITY footerLeft.tip      "बायां पादिका">
-<!ENTITY footerCenter.tip    "केंद्र पादिका">
+<!ENTITY footerCenter.tip    "केंद्रीय पादिका">
 <!ENTITY footerRight.tip     "दहिन पादिका">
 
 <!ENTITY hfTitle "शीर्षक">
@@ -53,7 +53,7 @@
 <!ENTITY hfBlank "--रिक्त--">
 <!ENTITY hfCustom "मनपसंद...">
 <!ENTITY customPrompt.title "मनपसंद...">
-<!ENTITY customPrompt.prompt "अपन मनपसंद शीर्षिका/पादिका पाठ दाखिल  करू .">
+<!ENTITY customPrompt.prompt "अपन मनपसंद शीर्षिका/पादिका पाठ दाखिल करू .">
 <!ENTITY hfDateAndTime       "तिथि/समय">
 <!ENTITY hfURL               "यूआरएल">
 

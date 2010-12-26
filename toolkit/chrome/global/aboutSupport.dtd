@@ -21,7 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड विन्यास">
 <!ENTITY aboutSupport.appBasicsUserAgent "प्रयोक्ता प्रतिनिधि">
 
-<!ENTITY aboutSupport.show.label "शामिल करब वाले फोल्डर खोलू">
+<!ENTITY aboutSupport.show.label "शामिल करैबला फोल्डर खोलू">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
@@ -37,4 +37,4 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.installationHistoryTitle "संस्थापन इतिहास">
 <!ENTITY aboutSupport.updateHistoryTitle "अद्यतन इतिहास">
 
-<!ENTITY aboutSupport.copyToClipboard.label "सभटा क क्लिपबोर्ड मे नक़ल लिअ">
+<!ENTITY aboutSupport.copyToClipboard.label "सभटा क क्लिपबोर्ड मे नकल लिअ">

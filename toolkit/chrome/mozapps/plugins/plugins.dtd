@@ -1,23 +1,23 @@
-<!ENTITY missingPlugin.label                                 "प्लगिन डाउनलोड करब क लेल क्लिक  करू .">
-<!ENTITY pluginWizard.title "प्लग-इन खोजने क सेवा">
+<!ENTITY missingPlugin.label                                 "प्लगिन डाउनलोड करबाक लेल क्लिक करू .">
+<!ENTITY pluginWizard.title "प्लगिन खोजबाक सेवा">
 <!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; मे स्वागत  अछि ">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "आब &brandShortName;  उपलब्ध प्लग-इन्स  कलेल  जाँच कए रहल  अछि ... ">
-<!ENTITY pluginWizard.availablePluginsPage.title "उपलब्ध प्लग-इन डाउनलोड">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "ये प्लग-इन्स उपलब्ध  अछि :">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "प्लग-इन प्रतिष्ठापन  कलेल  अगला पर क्लिक  करू ।">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "प्रतिष्ठापन क समय किछु प्लग-इन्स केँ बाइली जानकारी क आवश्यकता हो सकती  अछि ।">
-<!ENTITY pluginWizard.licensePage.title "प्लग-इन लाइसैन्स">
-<!ENTITY pluginWizard.licensePage.accept.label "हम एकटाटा मत हूँ।">
-<!ENTITY pluginWizard.licensePage.deny.label "हम एकटाटा मत नहि हूँ (प्लग-इन प्रतिष्ठापन नहि होगा)।">
-<!ENTITY pluginWizard.installPluginsPage.title "प्लग-इन प्रतिष्ठापित कए रहल  अछि ">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; प्लग-इन प्रतिष्ठापित कए रहल  अछि ...">
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; ने अनुपस्थित प्लग-इन प्रतिष्ठापन सम्पूर्ण कएल:">
-<!ENTITY pluginWizard.finalPage.moreInfo.label "प्लग-इन्स क  संबंध  मे  बेसी  जानने  कलेल  अथवा अपनेअहाँ अनुपस्थित प्लग-इन्स खोजने  कलेल ।">
-<!ENTITY pluginWizard.finalPage.restart.label "प्लग-इन केँ कार्य करब  कलेल  &brandShortName;. केँ पुनःआरम्भ करब क आवश्यकता  अछि ।">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "आब &brandShortName;  उपलब्ध प्लगिन  कलेल  जाँच कए रहल अछि ... ">
+<!ENTITY pluginWizard.availablePluginsPage.title "उपलब्ध प्लगिन डाउनलोड">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "ई प्लगिन उपलब्ध अछि :">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "प्लगिन संस्थापन  कलेल अगला पर क्लिक करू.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "संस्थापन क समय किछु प्लगिन केँ बाइली जानकारी क आवश्यकता हो सकती  अछि.">
+<!ENTITY pluginWizard.licensePage.title "प्लगिन लाइसेंस">
+<!ENTITY pluginWizard.licensePage.accept.label "हम एकमत छी.">
+<!ENTITY pluginWizard.licensePage.deny.label "हम एक मत नहि छी (प्लगिन संस्थापन नहि हाएत).">
+<!ENTITY pluginWizard.installPluginsPage.title "प्लगिन संस्थापित कए रहल अछि ">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; प्लगिन संस्थापित कए रहल  अछि ...">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; अनुपस्थित प्लगिन संस्थापन सम्पूर्ण कएलक:">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "प्लगिनक  संबंधमे  बेसी  जानबाक कलेल  अथवा अपन अनुपस्थित प्लगिन खोजबाक लेल.">
+<!ENTITY pluginWizard.finalPage.restart.label "प्लगिन केँ काज करबाक लेल  &brandShortName;. केँ पुनःआरम्भ करब क आवश्यकता अछि .">
 
 <!ENTITY blockedPlugin.label                                 "ई प्लगिन अहाँक सुरक्षा क लेल रोकल गेल  अछि .">
-<!ENTITY disabledPlugin.label                                "ई सामग्री क लेल प्लगिन निष्क्रिय कएल गेल  अछि . अपने प्लगिन क प्रबंधन क लेल एतय क्लिक  करू .">
+<!ENTITY disabledPlugin.label                                "ई सामग्री क लेल प्लगिन निष्क्रिय कएल गेल  अछि . अपन प्लगिन क प्रबंधन क लेल एतय क्लिक  करू .">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -27,7 +27,7 @@
 <!ENTITY reloadPlugin.post                                   " फेर कोसिस करबाक लेल.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "क्रैश रपट पठाउ">
-<!ENTITY report.submitting                                   "रपट पठाए रहल  अछि …">
+<!ENTITY report.submitting                                   "रपट पठाए रहल अछि …">
 <!ENTITY report.submitted                                    "क्रैश रपट पठाएल गेल.">
 <!ENTITY report.disabled                                     "क्रैश रपट निष्क्रिय कएल गेल.">
 <!ENTITY report.failed                                       "जमा कएनाइ विफल.">
