@@ -1,16 +1,16 @@
 <!-- extracted from finddialog.xul -->
 <!ENTITY findDialog.title "ई पृष्ठ मे ताकू">
 
-<!ENTITY findField.label "की ढूँढ़ना  अछि :">
+<!ENTITY findField.label "की ढूँढ़नाइ अछि :">
 <!ENTITY findField.accesskey "n">
-<!ENTITY caseSensitiveCheckbox.label "केस भेटलन  करू ">
+<!ENTITY caseSensitiveCheckbox.label "केस मिलान करू ">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
-<!ENTITY wrapCheckbox.label "लपेटें">
+<!ENTITY wrapCheckbox.label "लपेटू">
 <!ENTITY wrapCheckbox.accesskey "W">
-<!ENTITY findButton.label "अगला ताकू">
+<!ENTITY findButton.label "अगिला ताकू">
 <!ENTITY findButton.accesskey "F">
-<!ENTITY cancelButton.label "रद्द  करू ">
-<!ENTITY closeButton.label "बन्न  करू ">
+<!ENTITY cancelButton.label "रद्द करू ">
+<!ENTITY closeButton.label "बन्न करू ">
 <!ENTITY up.label "उप्पर">
 <!ENTITY up.accesskey "U">
 <!ENTITY down.label "नीच्चाँ">

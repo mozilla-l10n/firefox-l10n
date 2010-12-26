@@ -17,7 +17,7 @@
 <!ENTITY viewQuota.label              "कोटा देखू">
 <!ENTITY changePassword.label         "गुड़किल्ली बदलू">
 <!ENTITY mySyncKey.label              "हमर सिंक कुंजी">
-<!ENTITY resetSync.label              "सिंक फेर सेट  करू ">
+<!ENTITY resetSync.label              "सिंक फेर सेट करू ">
 <!ENTITY stopUsingAccount.label       "ई खाता क उपयोग रोकू">
 
 <!-- Sync Settings -->

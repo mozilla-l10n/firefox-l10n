@@ -2,15 +2,15 @@
 <!ENTITY lookInMenuList.accesskey "L">
 <!ENTITY textInput.label "फाइल नाम:">
 <!ENTITY textInput.accesskey "n">
-<!ENTITY filterMenuList.label "ई प्रकार क फाइलें:">
+<!ENTITY filterMenuList.label "ई प्रकारक फाइल:">
 <!ENTITY filterMenuList.accesskey "t">
 <!ENTITY name.label "नाम">
 <!ENTITY size.label "आकार">
 <!ENTITY lastModified.label "अंतिम बार परिवर्तित ">
-<!ENTITY showHiddenFiles.label "छिपी हुई फाइलें एवं निर्देशिकाएँ देखाओलँ">
+<!ENTITY showHiddenFiles.label "नुकाएल फाइल आओर निर्देशिका देखाउ">
 <!ENTITY showHiddenFiles.accesskey "S">
-<!ENTITY noPermissionError.label "अहाँक पास एहि निर्देशिका केँ देखब क लेल जरूरी अनुमति नहि  अछि .">
-<!ENTITY folderUp.tooltiptext "एकटाटा स्तर उप्पर जाउ.">
+<!ENTITY noPermissionError.label "अहाँक पास एहि निर्देशिकाकेँ देखबाक लेल जरूरी अनुमति नहि अछि.">
+<!ENTITY folderUp.tooltiptext "एकटा स्तर उप्पर जाउ.">
 <!ENTITY folderHome.tooltiptext "घर पर जाउ">
-<!ENTITY folderNew.tooltiptext "नई निर्देशिका बनाउ">
+<!ENTITY folderNew.tooltiptext "नव निर्देशिका बनाउ">
 

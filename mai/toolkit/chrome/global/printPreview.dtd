@@ -63,14 +63,14 @@
 <!ENTITY p175.label "175&#037;">
 <!ENTITY p200.label "200&#037;">
 <!ENTITY Custom.label "मनपसंद...">
-<!ENTITY ShrinkToFit.label "फिट करब  कलेल  सिकोड़ें">
+<!ENTITY ShrinkToFit.label "फिट करबाक लेल सिकोड़ू">
 <!ENTITY customPrompt.title "मनपसंद मापक...">
 
-<!ENTITY homearrow.tooltip    "पहला पन्ना">
+<!ENTITY homearrow.tooltip    "पहिल पन्ना">
 <!ENTITY endarrow.tooltip     "अंतिम पन्ना">
 
-<!ENTITY nextarrow.tooltip    "अगला पृष्ठ">
-<!ENTITY previousarrow.tooltip "पिछला पृष्ठ">
+<!ENTITY nextarrow.tooltip    "अगिला पृष्ठ">
+<!ENTITY previousarrow.tooltip "पछिला पृष्ठ">
 
 
 

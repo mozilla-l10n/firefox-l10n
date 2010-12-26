@@ -37,25 +37,25 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "अहाँ खोलब क लेल चुनल  अछि ">
+<!ENTITY  intro.label                 "अहाँ खोलबाक लेल चुनल अछि ">
 <!ENTITY  from.label                  "से:">
-<!ENTITY  actionQuestion.label        "ई फाइल क सँग &brandShortName; केँ क  कएनाइ  चाही?">
+<!ENTITY  actionQuestion.label        "ई फाइलक सँग &brandShortName; केँ कएनाइ चाही?">
 
-<!ENTITY  openWith.label              "एकटारासँ खोलू">
+<!ENTITY  openWith.label              "एकरासँ खोलू">
 <!ENTITY  openWith.accesskey          "o">
 <!ENTITY  other.label                 " आन …">
 
 <!ENTITY  saveFile.label              "फाइल सहेजू">
 <!ENTITY  saveFile.accesskey          "s">
 
-<!ENTITY  rememberChoice.label        "ई तरह क फाइलों क एहन आब सँ स्वचालित रूप सँ  करू .">
+<!ENTITY  rememberChoice.label        "ई तरहक फाइलक एहिना आब स्वचालित रूप सँ करू .">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "जो जे  अछि :">
+<!ENTITY  whichIsA.label              "जे अछि :">
 
 <!ENTITY  chooseHandlerMac.label      "चुनू…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "ब्राउज़…">
 <!ENTITY  chooseHandler.accesskey     "B">
 
-<!ENTITY  unknownPromptText.label     "की अहँ एहि फाइल केँ सहेजना चाहैत  अछि ?">
+<!ENTITY  unknownPromptText.label     "की अहाँ एहि फाइल केँ सहेजब चाहैत अछि ?">

@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "सेटिंग &brandShortName; क वरीयता मे बदलल जा सकैत  अछि .">
-<!ENTITY  settingsChangeOptions.label      "सेटिंग &brandShortName;के विकल्प मे बदलल जा सकैत  अछि .">
+<!ENTITY  settingsChangePreferences.label  "सेटिंग &brandShortName; क वरीयतामे बदलल जाए सकैत अछि .">
+<!ENTITY  settingsChangeOptions.label      "सेटिंग &brandShortName;के विकल्पमे बदलल जाए सकैत अछि .">

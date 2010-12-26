@@ -21,11 +21,11 @@
 <!ENTITY fontsGroup.label "फ़ान्ट:">
 <!ENTITY downloadFonts.label "मुद्रक मे फ़ान्ट डाउनलोड  करू ?">
 
-<!ENTITY edgeMarginInput.label "कागज क किनारे सँ कागज क हाशिये तक क अंतराल">
+<!ENTITY edgeMarginInput.label "कागज क किनार सँ कागजक हाशिया तक क अंतराल">
 <!ENTITY topInput.label "शीर्ष:">
 <!ENTITY bottomInput.label "तल:">
-<!ENTITY leftInput.label "बायां:">
-<!ENTITY rightInput.label "दहिन:">
+<!ENTITY leftInput.label "बम्माँ:">
+<!ENTITY rightInput.label "दहिन्ना:">
 
 
 <!ENTITY paperInput.accesskey "P">
