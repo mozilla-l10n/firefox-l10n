@@ -38,7 +38,7 @@
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
 <!ENTITY updates.resetUpdatesToManual.label "Ripristina l'aggiornamento manuale per tutti i componenti aggiuntivi">
 <!ENTITY updates.resetUpdatesToManual.accesskey "R">
-<!ENTITY updates.updating.label "Aggiornamento in corso dei componenti aggiuntivi">
+<!ENTITY updates.updating.label "Aggiornamento dei componenti aggiuntivi in corso">
 <!ENTITY updates.installed.label "I componenti aggiuntivi sono stati aggiornati.">
 <!ENTITY updates.downloaded.label "Gli aggiornamenti sono stati scaricati.">
 <!ENTITY updates.restart.label "Riavvia adesso per completare l'installazione">
