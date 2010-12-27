@@ -23,3 +23,4 @@
 <!ENTITY editBookmarkOverlay.choose.label "Выбрать…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Создать папку">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey "о">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip "Создать новую папку">
