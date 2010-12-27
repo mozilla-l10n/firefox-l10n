@@ -9,8 +9,8 @@
 <!ENTITY previous.accesskey "A">
 <!ENTITY previous.tooltip "Lorg làthair roimhe na h-abairt seo">
 <!ENTITY findCloseButton.tooltip "Dùin am bàr luirg">
-<!ENTITY highlight.label "Comharraich a h-uile">
+<!ENTITY highlight.label "Soillsich a h-uile">
 <!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "Comharraich gach làthair na h-abairt seo">
+<!ENTITY highlight.tooltiptext "Soillsich gach làthair na h-abairt seo">
 <!ENTITY caseSensitiveCheckbox.label "Aire do litrichean mòra is beaga">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
