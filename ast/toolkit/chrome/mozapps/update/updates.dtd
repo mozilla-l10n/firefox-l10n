@@ -1,14 +1,18 @@
 <!ENTITY  updateWizard.title              "Anovamientu de software">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Comprobando anovamientos">
 <!ENTITY  updateCheck.label               "Entrugando por nueves versiones de &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Alcontráronse anovamientos pa los Plugins">
 <!ENTITY  pluginupdatesfound.label        "Alcontráronse versiones de ún o más de los tos plugins.">
 <!ENTITY  pluginupdateslink.label         "Mira cómo anovar los tos plugins.">
+
+<!ENTITY downloadPage.title "Descargando &brandShortName;">
+<!ENTITY error.title "Falló l'anovamientu">
+<!ENTITY errorCertAttrHasUpdate.label "Dalgo ta intentando engañar a &brandShortName; pa qu'acepte un anovamientu inseguru. Por favor, contacta col proveedor de rede y busca ayuda.">
+<!ENTITY errorCertAttrNoUpdate2.label "Dalgo ta impidiendo a &brandShortName; anovase de manera segura. Por favor, asegúrate de que tienes la cabera versión de &brandShortName; en:">
+<!ENTITY genericBackgroundError.label "&brandShortName; non puede determinar si hai un anovamientu disponible. Por favor, asegúrate de que tienes la cabera versión de &brandShortName; en:">
+<!ENTITY manualUpdate.space.desc "Hai disponible un anovamientu recomendáu de seguridá y estabilidá, pero non tienes espaciu suficiente pa instalala.">
 
 <!ENTITY  noupdatesfound.title            "Nun s'alcontraron anovamientos">
 <!ENTITY  noupdatesautoenabled.intro      "Nun hai anovamientos disponibles. &brandShortName; comprobará periódicamente si hai anovamientos.">
@@ -42,7 +46,6 @@
 
 <!ENTITY  incompatibleList.title          "Alcontráronse complementos non compatibles">
 
-<!ENTITY  downloading.title               "Descargando l'anovamientu">
 <!ENTITY  downloading.intro               "Descargando l'anovamientu…">
 <!ENTITY  connecting.label                "Coneutando al sirvidor d'anovamientu…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; nun pudo verificar la integridá de
@@ -59,7 +62,6 @@
 <!ENTITY  errorManual.label               "Pues anovar &brandShortName; manualmente visitando esti enllaz
                                            y descargando la cabera versión:">
                                            
-<!ENTITY  errorpatching.title             "Fallu n'anovamientu">
 <!ENTITY  errorpatching.intro             "Nun se pudo aplicar l'anovamientu parcial.
                                            &brandShortName; tornará a intentalo descargando l'anovamientu dafechu.">
 
