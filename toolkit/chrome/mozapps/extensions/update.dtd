@@ -60,5 +60,5 @@
 <!ENTITY  clickFinish.label               "Calca Finar pa siguir aniciando &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Calca Fináu pa siguir aniciando &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permitir a &brandShortName; guetar anovamientos.">
-<!ENTITY  details.label                   "Detalles…">
-<!ENTITY  details.accesskey               "D">
+
+
