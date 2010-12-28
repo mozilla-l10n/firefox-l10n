@@ -1,12 +1,9 @@
-<!ENTITY addons.title                     "Complementos">
 
 <!-- Default window size for the addon manager in pixels -->
 <!ENTITY em.width                         "550">
 <!ENTITY em.height                        "380">
 
-<!ENTITY cmd.info.commandKey              "i">
 <!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
 
 <!-- View labels -->
 <!ENTITY search.label                     "Obtener complementos">
@@ -18,11 +15,6 @@
 <!ENTITY install.label                    "Instalación">
 
 <!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Guetar anovamientos">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "G">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Gueta anovamientos a los tos complementos">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Gueta anovamientos a los tos temes">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Alcuentra Anovamientos pa los tos Plugins">
 <!ENTITY cmd.installLocalFile.label       "Instalar…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "Instalar un complementu">
@@ -36,16 +28,6 @@
 <!ENTITY cmd.skip.label                   "Saltar">
 <!ENTITY cmd.skip.accesskey               "S">
 <!ENTITY cmd.skip.tooltip                 "Saltase estos anovamientos">
-<!ENTITY cmd.continue.label               "Continuar">
-<!ENTITY cmd.continue.accesskey           "C">
-<!ENTITY cmd.continue.tooltip             "Continuar cargando &brandShortName;">
-
-<!ENTITY cmd.enableAll.label              "Activar too">
-<!ENTITY cmd.enableAll.accesskey          "c">
-<!ENTITY cmd.enableAll.tooltip            "Activar to los complementos amosaos">
-<!ENTITY cmd.disableAll.label             "Desactivar too">
-<!ENTITY cmd.disableAll.accesskey         "s">
-<!ENTITY cmd.disableAll.tooltip           "Desactivar tolos complementos amosaos">
 
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label               "Usar Tema">
@@ -57,54 +39,23 @@
 <!ENTITY cmd.optionsUnix.label            "Preferencies">
 <!ENTITY cmd.optionsUnix.accesskey        "r">
 <!ENTITY cmd.optionsUnix.tooltip          "Iguar preferencies pa la estensión seleicionada">
-<!ENTITY cmd.enable.label                 "Activar">
-<!ENTITY cmd.enable.accesskey             "A">
-<!ENTITY cmd.enable.tooltip               "Activar esti complementu cuando se reanicie &brandShortName;">
-<!ENTITY cmd.disable.label                "Desactivar">
-<!ENTITY cmd.disable.accesskey            "D">
-<!ENTITY cmd.disable.tooltip              "Desactivar esta estensión cuando se reanicie &brandShortName;">
 <!ENTITY cmd.uninstall.label              "Desinstalar">
 <!ENTITY cmd.uninstall2.accesskey         "s">
 <!ENTITY cmd.uninstall2.tooltip           "Desinstalar esta estensión cuando se reanicie &brandShortName;">
-<!ENTITY cmd.cancelUninstall.label        "Encaboxar desinstalación">
-<!ENTITY cmd.cancelUninstall.accesskey    "x">
-<!ENTITY cmd.cancelUninstall.tooltip      "Encaboxar la desinstalación d'esta estensión">
-<!ENTITY cmd.cancelInstall.label          "Encaboxar instalación">
-<!ENTITY cmd.cancelInstall.accesskey      "x">
-<!ENTITY cmd.cancelInstall.tooltip        "Encaboxar la instalación d'esti complementu">
-<!ENTITY cmd.cancelUpgrade.label          "Encaboxar anovamientu">
-<!ENTITY cmd.cancelUpgrade.accesskey      "x">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Encaboxar l'anovamientu d'esti complementu">
 <!ENTITY cmd.installUpdate.label          "Instalar anovamientu">
 <!ENTITY cmd.installUpdate.accesskey      "I">
 <!ENTITY cmd.installUpdate.tooltip        "Instalar una anovamientu pa esti complementu">
 <!ENTITY cmd.showUpdateInfo.label         "Amosar información">
 <!ENTITY cmd.showUpdateInfo.accesskey     "m">
 <!ENTITY cmd.showUpdateInfo.tooltip       "Amosar más información sobre estos anovamientos">
-<!ENTITY cmd.hideUpdateInfo.label         "Anubrir información">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "S">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Anubrir información sobre estos anovamientos">
 <!ENTITY cmd.installSearchResult.label     "Amestar a &brandShortName;…">
 <!ENTITY cmd.installSearchResult.accesskey "A">
 <!ENTITY cmd.installSearchResult.tooltip   "Descargar ya instalar esti complementu">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "Encaboxar">
-<!ENTITY cancel.accesskey                 "x">
-<!ENTITY cancelInstall.label              "Encaboxar">
-<!ENTITY cancelInstall.accesskey          "x">
-<!ENTITY cancelUpgrade.label              "Encaboxar">
-<!ENTITY cancelUpgrade.accesskey          "x">
 
 <!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Visitar la páxina d'entamu">
 <!ENTITY cmd.homepage.accesskey           "V">
-<!ENTITY cmd.about2.label                 "Tocante a esti complementu">
 <!ENTITY cmd.about.accesskey              "o">
-<!ENTITY cmd.checkUpdate.label            "Guetar anovamientu">
-<!ENTITY cmd.checkUpdate.accesskey        "G">
 
-<!ENTITY cmd.includeUpdate.label          "Incluyir anovamientu">
-<!ENTITY cmd.includeUpdate.accesskey      "n">
 <!ENTITY includeUpdate.label              "Incluyir esti anovamientu">
 <!ENTITY includeUpdate.accesskey          "n">
 <!ENTITY includeUpdate.tooltip            "Incluyir esti complentu al instalar los anovamientos">
@@ -112,7 +63,6 @@
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "Nun proporciona anovamientos seguros.">
 <!ENTITY needsDependencies.label          "Requier elementos adicionales.">
-<!ENTITY blocklisted.label                "Desactiváu pa la so proteición.">
 <!ENTITY softBlocklisted.label            "Conocíu por causar problemes de seguridá o estabilidá.">
 <!ENTITY outdated.label                   "Tienes disponible una nueva versión, más segura.">
 <!ENTITY toBeDisabled.label               "Esti complementu va desactivase cuando se reanicie &brandShortName;.">
@@ -126,7 +76,6 @@
 <!ENTITY getPlugins.label                 "Obtener plugins">
 
 <!ENTITY searchAddons.label               "Guetar en tolos complementos">
-<!ENTITY browseAddons.label               "Desaminar tolos complementos">
 <!ENTITY searchFailed.label               "&brandShortName; nun pudo descargar complementos">
 <!ENTITY recommendedHeader.label          "Encamentáu">
 <!ENTITY recommendedThrobber.label        "Recuperando complementos encamentaos">
@@ -136,7 +85,6 @@
 <!ENTITY noRecommendedResults.label       "Tolos encamientos yá tán instalaos o son incompatibles.">
 <!ENTITY emptySearch.label                "Nun hai complementos coincidentes">
 <!ENTITY emptySearch.button               "Aceutar">
-<!ENTITY cancelSearch.button              "Encaboxar">
 <!ENTITY searchFailed.button              "Aceutar">
 <!ENTITY searchResultHomepage.value       "Deprender más">
 <!ENTITY searchBox.label                  "Guetar tolos complementos">
@@ -145,8 +93,6 @@
 <!ENTITY searchResultInstalling.label     "Instalando…">
 <!ENTITY searchResultFailed.label         "Instalación incorreuta">
 <!ENTITY searchResultInstalled.label      "Instalación completa">
-<!ENTITY addonTypeExtension.label         "Extensión">
-<!ENTITY addonTypeTheme.label             "Tema">
 <!ENTITY missingThumbnail.label           "Nun hai vista previa">
 
 <!ENTITY previewNoThemeSelected.label     "Dengún tema seleicionáu">
@@ -172,5 +118,4 @@
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Aceutar ya instalar…">
 
-<!ENTITY blocklist.blocked.label          "Bloquiáu">
-<!ENTITY blocklist.checkbox.label         "Desactivar">
+
