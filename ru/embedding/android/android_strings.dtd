@@ -1,0 +1,12 @@
+<!ENTITY splash_screen_label "загружается">
+<!ENTITY incompatable_cpu_error "Это устройство не удовлетворяет минимальным системным требованиям для &brandShortName;.">
+<!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
+<!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
+<!ENTITY crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY crash_message "&brandShortName; упал. После перезапуска список ваших вкладок будет показан на начальной странице &brandShortName;.">
+<!ENTITY crash_help_message "Пожалуйста, помогите нам исправить эту проблему!">
+<!ENTITY crash_send_report_message "Отправить Mozilla сообщение о падении">
+<!ENTITY crash_include_url "Включить адрес страницы">
+<!ENTITY crash_close_label "Закрыть">
+<!ENTITY crash_restart_label "Перезапустить &brandShortName;">
+<!ENTITY sending_crash_report "Отправка сообщения о падении\u2026">
