@@ -13,5 +13,6 @@
 <!ENTITY  bookmarkGroup.accesskey  "M">
 <!ENTITY  closeTabButton.tooltip   "Cerrar la pestaña actual">
 <!ENTITY  newTabButton.tooltip   "Abrir una nueva pestaña">
+<!ENTITY  listAllTabs.tooltip    "Listar todas las pestañas">
 <!ENTITY  undoCloseTab.label    "Deshacer cerrar pestaña">
 <!ENTITY  undoCloseTab.accesskey  "D">
