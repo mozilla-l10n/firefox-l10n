@@ -13,5 +13,6 @@
 <!ENTITY bookmarkGroup.accesskey "г">
 <!ENTITY closeTabButton.tooltip "Закрыть текущую вкладку">
 <!ENTITY newTabButton.tooltip "Открыть новую вкладку">
+<!ENTITY listAllTabs.tooltip "Список всех вкладок">
 <!ENTITY undoCloseTab.label "Восстановить закрытую вкладку">
 <!ENTITY undoCloseTab.accesskey "В">
