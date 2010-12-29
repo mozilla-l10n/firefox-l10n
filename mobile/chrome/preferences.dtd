@@ -2,6 +2,7 @@
 <!ENTITY about.title "Acerca de &brandShortName;">
 <!ENTITY about.button "Ir a la página">
 <!ENTITY content.title "Contenido">
+<!ENTITY reflowZoom.title "Reformatear el texto al acercar">
 <!ENTITY showImages.title "Mostrar imágenes">
 <!ENTITY enableJavaScript.title "Activar JavaScript">
 <!ENTITY enablePlugins.title "Activar plugins">
