@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "Tentang &brandShortName;">
 <!ENTITY about.button                              "Buka Laman">
 <!ENTITY content.title                             "Konten">
+<!ENTITY reflowZoom.title                          "Format ulang teks saat perbesar/kecilan">
 <!ENTITY showImages.title                          "Tampilkan gambar">
 <!ENTITY enableJavaScript.title                    "Aktifkan JavaScript">
 <!ENTITY enablePlugins.title                       "Aktifkan Plugins">
