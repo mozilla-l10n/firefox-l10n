@@ -1,4 +1,4 @@
-<!ENTITY  splash_screen_label "&brandShortName; está cargándose">
+<!ENTITY  splash_screen_label "Cargando">
 <!ENTITY  incompatable_cpu_error "Este dispositivo no posee los requerimientos mínimos para ejecutar &brandShortName;.">
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ha ocurrido un error mientras se intentaba cargar los archivos para usar &brandShortName;">
