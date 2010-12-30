@@ -2,8 +2,8 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welkom, als u &syncBrand.fullName.label; niet eerder heeft gebruikt moet u een account aanmaken.">
-<!ENTITY button.createNewAccount.label "Nieuw account aanmaken">
+<!ENTITY setup.pickSetupType.description "Welkom. Als u &syncBrand.fullName.label; nog nooit eerder hebt gebruikt, dient u een nieuwe account aan te maken.">
+<!ENTITY button.createNewAccount.label "Een nieuwe account aanmaken">
 <!ENTITY setup.haveAccount.label "Ik heb al een &syncBrand.fullName.label;-account.">
 <!ENTITY button.connect.label    "Verbinden">
 
@@ -14,7 +14,7 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-server">
-<!ENTITY serverType.custom2.label   "Een aangepaste server gebruiken…">
+<!ENTITY serverType.custom2.label   "Een eigen server gebruiken…">
 <!ENTITY signIn.account2.label      "Account">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Wachtwoord">
@@ -25,9 +25,9 @@
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Accountdetails">
 <!ENTITY setup.confirmPassword.label  "Wachtwoord bevestigen">
-<!ENTITY setup.confirmPassword.accesskey  "c">
+<!ENTITY setup.confirmPassword.accesskey  "b">
 <!ENTITY setup.emailAddress.label     "E-mailadres">
-<!ENTITY setup.emailAddress.accesskey "r">
+<!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Ik ga akkoord met de">
@@ -40,7 +40,7 @@
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; denkt aan uw privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "Om uw totale privacy te waarborgen worden al uw gegevens versleuteld voordat het wordt geüpload. De Sync-sleutel welke nodig is om uw gegevens te ontcijferen wordt niet geüpload.">
+<!ENTITY setup.newSyncKeyPage.description.label "Om uw totale privacy te waarborgen worden al uw gegevens voor het uploaden versleuteld. De Sync-sleutel, die nodig is om uw gegevens te ontcijferen, wordt niet geüpload.">
 <!ENTITY syncKeyEntry.label        "Uw Sync-sleutel">
 <!ENTITY syncKeyEntry.accesskey    "s">
 <!ENTITY syncKeyGenerate.label     "Genereren">
@@ -54,32 +54,31 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bevestig dat u geen robot bent">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Apparaat toevoegen">
+<!ENTITY addDevice.title.label              "Een apparaat toevoegen">
 <!ENTITY addDevice.showMeHow.label          "Toon me hoe.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ik heb het apparaat niet bij me">
-<!ENTITY addDevice.setup.description.label  "Om te activeren, ga naar &syncBrand.shortName.label; Opties op uw andere apparaat en selecteer &#x0022;Apparaat toevoegen&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "Ga om te activeren naar Opties van &syncBrand.shortName.label; op uw andere apparaat en selecteer &#x0022;Apparaat toevoegen&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Voer vervolgens deze code in:">
-<!ENTITY addDevice.dialog.description.label "Om uw nieuwe apparaat te activeren, ga naar &syncBrand.shortName.label; Opties op het apparaat en selecteer &#x0022;Verbinden.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Voer de code in dat het apparaat geeft:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Opnieuw proberen.">
-<!ENTITY addDevice.dialog.successful.label  "Het apparaat is met succes toegevoegd. De eerste synchronisatie kan meerdere minuten duren en gebeurt op de achtergrond.">
-<!ENTITY addDevice.dialog.syncKey.label     "Om uw apparaat te activeren moet u uw sync-sleutel invoeren. Druk uw sync-sleutel af of sla het op om het met u mee te nemen.">
+<!ENTITY addDevice.dialog.description.label "Ga om uw nieuwe apparaat te activeren naar Opties van &syncBrand.shortName.label; op het apparaat en selecteer &#x0022;Verbinden.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Voer de code in die het apparaat geeft:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Probeer het opnieuw.">
+<!ENTITY addDevice.dialog.successful.label  "Het apparaat is met succes toegevoegd. De eerste synchronisatie kan meerdere minuten duren en zal op de achtergrond worden voltooid.">
+<!ENTITY addDevice.dialog.syncKey.label     "Om uw apparaat te activeren dient u uw Sync-sleutel in te voeren. Druk deze sleutel af of sla hem op, en neem hem met u mee.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat verbonden">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Aanmelden">
-<!ENTITY existingSyncKey.description "U kunt een kopie van ys Sync-sleutel verkrijgen via &syncBrand.shortName.label; Opties op uw andere apparaat, selecteer  &#x0022;Mijn Sync-sleutel&#x0022; bij &#x0022;Account beheren&#x0022;.">
+<!ENTITY existingSyncKey.description "U kunt een kopie van uw Sync-sleutel verkrijgen door naar Opties van &syncBrand.shortName.label; op uw andere apparaat te gaan en &#x0022;Mijn Sync-sleutel&#x0022; onder &#x0022;Account beheren&#x0022; te selecteren.">
 <!ENTITY verifying.label              "Verifiëren…">
 <!ENTITY resetPassword.label          "Wachtwoord herinitialiseren">
 <!ENTITY lostSyncKey.label            "Ik ben mijn Sync-sleutel kwijt">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Syncopties">
+<!ENTITY setup.optionsPage.title      "Sync-opties">
 <!ENTITY syncComputerName.label       "Computernaam:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!-- New & Existing Account: Confirm Merge Options -->
-<!ENTITY syncMy.label               "Synchroniseer mijn">
+<!ENTITY syncMy.label               "Synchroniseren:">
 <!ENTITY engine.bookmarks.label     "Bladwijzers">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "Tabbladen">
@@ -94,14 +93,14 @@
 <!ENTITY choice2.merge.main.label      "De gegevens van deze computer met uw &syncBrand.shortName.label;-gegevens laten samengaan">
 <!ENTITY choice2.merge.recommended.label "Aanbevolen:">
 <!ENTITY choice2.client.main.label     "Alle gegevens op deze computer vervangen door uw &syncBrand.shortName.label;-gegevens">
-<!ENTITY choice2.server.main.label     "Alle gegevens op andere apparaten vervangen door deze computergegevens">
+<!ENTITY choice2.server.main.label     "Alle gegevens op andere apparaten vervangen door gegevens van deze computer">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Bevestig">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; zal deze computergegevens laten samengaan met de gegevens in uw Sync-account.">
-<!ENTITY confirm.client2.label         "Waarschuwing: De volgende &brandShortName;-gegevens op deze computer zullen worden verwijderd:">
+<!ENTITY setup.optionsConfirmPage.title "Bevestigen">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; zal nu alle browsergegevens van deze computer laten samengaan met de gegevens van uw Sync-account.">
+<!ENTITY confirm.client2.label         "Waarschuwing: de volgende &brandShortName;-gegevens op deze computer zullen worden verwijderd:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; zal vervolgens uw &syncBrand.fullName.label;-gegevens naar deze computer kopiëren.">
-<!ENTITY confirm.server2.label         "Waarschuwing: de volgende apparaten zullen worden overschreven door uw lokale gegevens:">
+<!ENTITY confirm.server2.label         "Waarschuwing: gegevens van de volgende apparaten zullen worden overschreven door uw lokale gegevens:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Set-up voltooid">
