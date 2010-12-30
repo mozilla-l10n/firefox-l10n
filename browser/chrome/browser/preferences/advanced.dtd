@@ -17,8 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "m">
 <!ENTITY useSmoothScrolling.label        "Vloeiend schuiven gebruiken">
 <!ENTITY useSmoothScrolling.accesskey    "e">
-<!ENTITY allowHWAccel.label              "Gebruik hardware-acceleratie wanneer beschikbaar">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.label              "Hardwareversnelling gebruiken wanneer beschikbaar">
+<!ENTITY allowHWAccel.accesskey          "v">
 <!ENTITY checkSpelling.label             "Mijn spelling controleren tijdens het typen">
 <!ENTITY checkSpelling.accesskey         "s">
 
@@ -46,13 +46,13 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Maximaal">
-<!ENTITY limitCacheSizeBefore.accesskey  "l">
-<!ENTITY limitCacheSizeAfter.label       "MB ruimte gebruiken voor de buffer">
+<!ENTITY limitCacheSizeBefore.label      "Buffer beperken tot">
+<!ENTITY limitCacheSizeBefore.accesskey  "B">
+<!ENTITY limitCacheSizeAfter.label       "MB ruimte">
 <!ENTITY clearCacheNow.label             "Nu wissen">
 <!ENTITY clearCacheNow.accesskey         "w">
-<!ENTITY overrideSmartCacheSize.label    "Negeer automatische bufferbeheer">
-<!ENTITY overrideSmartCacheSize.accesskey "n">
+<!ENTITY overrideSmartCacheSize.label    "Automatisch bufferbeheer negeren">
+<!ENTITY overrideSmartCacheSize.accesskey "A">
 
 <!ENTITY updateTab.label                 "Update">
 
