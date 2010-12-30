@@ -61,8 +61,6 @@
 <!ENTITY helpFeedbackPage.label         "Siųsti atsiliepimą…">
 <!ENTITY helpFeedbackPage.accesskey     "S">
 
-<!ENTITY updateCmd.label                "Tikrinti ar yra naujinimų…">
-
 <!ENTITY preferencesCmdMac.label        "Nuostatos…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

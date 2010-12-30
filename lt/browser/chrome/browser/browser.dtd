@@ -578,3 +578,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Sinchronizuoti dabar">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sinchronizuoti">
+
+<!ENTITY addonBarCloseButton.tooltip  "Užverti priedų juostą">
