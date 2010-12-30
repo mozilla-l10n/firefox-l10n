@@ -45,6 +45,8 @@
 
 <!ENTITY event.title.label                                "Taisomas įrašas" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip          "">
+
 <!ENTITY newevent.from.label                              "Nuo" >
 <!ENTITY newevent.to.label                                "Iki" >
 <!ENTITY newevent.attendees.notify.label                  "Pranešti dalyviams">
