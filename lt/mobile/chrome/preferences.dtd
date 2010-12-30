@@ -32,6 +32,7 @@
 <!ENTITY about.title                                   "Apie „&brandShortName;“">
 <!ENTITY about.button                                  "Atverti tinklalapį">
 <!ENTITY content.title                                 "Turinys">
+<!ENTITY reflowZoom.title                              "Keičiant mastelį, iš naujo išdėstyti tekstą">
 <!ENTITY showImages.title                              "Įkelti paveikslus">
 <!ENTITY enableJavaScript.title                        "Leisti naudoti „JavaScript“">
 <!ENTITY enablePlugins.title                           "Leisti papildinius">
