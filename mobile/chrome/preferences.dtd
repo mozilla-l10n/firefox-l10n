@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "關於 &brandShortName;">
 <!ENTITY about.button                              "更多資訊">
 <!ENTITY content.title                             "內容">
+<!ENTITY reflowZoom.title                          "縮放時重新編排文字">
 <!ENTITY showImages.title                          "顯示圖片">
 <!ENTITY enableJavaScript.title                    "啟用 JavaScript">
 <!ENTITY enablePlugins.title                       "啟用外掛程式">
