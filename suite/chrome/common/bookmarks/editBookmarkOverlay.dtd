@@ -23,3 +23,4 @@
 <!ENTITY editBookmarkOverlay.choose.label "Elegir…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Nueva carpeta">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey "t">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip "Crear nueva carpeta">
