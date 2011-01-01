@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Tots els tipus de dades">
+<!ENTITY select.cookies.label "Només galetes">
+<!ENTITY select.permissions.label "Només permisos">
+<!ENTITY select.preferences.label "Només preferències">
+<!ENTITY select.passwords.label "Només contrasenyes">
+
 <!ENTITY domain.search.placeholder "Cerca de dominis">
 <!ENTITY domain.search.key "f">
 
@@ -93,6 +99,10 @@
 <!ENTITY perm.Allow "Permet">
 <!ENTITY perm.AllowSession "Permet per a la sessió">
 <!ENTITY perm.Block "Bloca">
+
+<!ENTITY perm.host.placeholder "Introduïu un nom de servidor central">
+<!ENTITY perm.button.add.label "Afegeix">
+<!ENTITY perm.button.add.accesskey "A">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Les preferències de contingut són un mecanisme del &brandShortName; per desar les preferències de l'aplicació, com ara els nivells de zoom, de forma específica per a un lloc web.">

@@ -13,6 +13,7 @@
 <!ENTITY  bookmarkGroup.accesskey   "t">
 <!ENTITY  closeTabButton.tooltip   "Tanca la pestanya actual">
 <!ENTITY  newTabButton.tooltip   "Obre una pestanya nova">
+<!ENTITY  listAllTabs.tooltip    "Llista totes les pestanyes">
 <!ENTITY  undoCloseTab.label          "Desfés tancar la pestanya">
 <!ENTITY  undoCloseTab.accesskey      "D">
 
