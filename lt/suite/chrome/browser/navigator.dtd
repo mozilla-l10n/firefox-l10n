@@ -140,6 +140,8 @@
 <!ENTITY goMenu.accesskey "E">
 <!ENTITY goHomeCmd.label "Į pradžios tinklalapį">
 <!ENTITY goHomeCmd.accesskey "r">
+<!ENTITY historyRestoreLastSession.label "Atkurti paskiausiąjį seansą">
+<!ENTITY historyRestoreLastSession.accesskey "A">
 
 <!ENTITY bookmarksMenu.label "Adresynas">
 <!ENTITY bookmarksMenu.accesskey "A">

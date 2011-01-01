@@ -37,8 +37,8 @@
 <!ENTITY popupBlock.label               "Užblokuoti iškylančius langus">
 <!ENTITY popupBlock.accesskey           "U">
 
-<!ENTITY popupExceptions.label          "Tvarkyti leidimus…">
-<!ENTITY popupExceptions.accesskey      "v">
+<!ENTITY viewPermissions.label          "Tvarkyti leidimus">
+<!ENTITY viewPermissions.accesskey      "T">
 
 <!ENTITY whenBlock.description          "Naršyklei neleidus atsirasti iškylančiajam langui:">
 <!ENTITY playSound.label                "pranešti garsu:">

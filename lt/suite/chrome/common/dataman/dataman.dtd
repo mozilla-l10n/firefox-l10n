@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Visų tipų duomenys">
+<!ENTITY select.cookies.label "Tik slapukai">
+<!ENTITY select.permissions.label "Tik leidimai">
+<!ENTITY select.preferences.label "Tik nuostatos">
+<!ENTITY select.passwords.label "Tik slaptažodžiai">
+
 <!ENTITY domain.search.placeholder "Ieškoti srities">
 <!ENTITY domain.search.key "f">
 
@@ -93,6 +99,10 @@
 <!ENTITY perm.Allow "Leisti">
 <!ENTITY perm.AllowSession "Leisti šį seansą">
 <!ENTITY perm.Block "Neleisti">
+
+<!ENTITY perm.host.placeholder "Įveskite serverio vardą">
+<!ENTITY perm.button.add.label "Pridėti">
+<!ENTITY perm.button.add.accesskey "P">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Turinio nuostatos įgalina „&brandShortName;“ įsiminti kai kuriuos atskirose svetainėse taikytinus parametrus (mastelį ir pan.)">

@@ -45,5 +45,6 @@
 <!ENTITY  bookmarkGroup.accesskey     "g">
 <!ENTITY  closeTabButton.tooltip      "Užverti šią kortelę">
 <!ENTITY  newTabButton.tooltip        "Atverti naują kortelę">
+<!ENTITY  listAllTabs.tooltip         "Pateikti visas korteles">
 <!ENTITY  undoCloseTab.label          "Atšaukti kortelės užvėrimą">
 <!ENTITY  undoCloseTab.accesskey      "ž">
