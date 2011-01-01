@@ -44,7 +44,7 @@
 <!ENTITY  incompatibleList.title          "Incompatibele add-ons gevonden">
 
 <!ENTITY  downloadPage.title              "&brandShortName; downloaden">
-<!ENTITY  downloading.intro               "De update aan het downloaden…">
+<!ENTITY  downloading.intro               "De update wordt gedownload…">
 <!ENTITY  connecting.label                "Verbinden met de updateserver…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; was niet in staat de integriteit van de
                                            incrementele update die is gedownload te verifiëren en downloadt
@@ -57,7 +57,7 @@
 <!ENTITY  error.title                     "Bijwerken mislukt">
 
 <!ENTITY  error.label                     "Er was een probleem bij het controleren op, of het downloaden of installeren
-                                           van deze update. &brandShortName; kon niet worden bijgewerkt omdat:">
+                                           van deze update. &brandShortName; kon niet worden bijgewerkt, omdat:">
 
 <!ENTITY  errorManual.label               "U kunt &brandShortName; handmatig bijwerken door deze koppeling te
                                            bezoeken en de laatste versie te downloaden:">
@@ -66,11 +66,11 @@
                                            &brandShortName; zal het opnieuw proberen door een volledige update te downloaden.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; kan niet bepalen of er een update beschikbaar is.
-                                           Verzeker u ervan dat u de laatste versie van &brandShortName; heeft van:">
+                                           Verzeker u ervan dat u de laatste versie van &brandShortName; hebt van:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Iets voorkomt dat  &brandShortName; veilig wordt bijgewerkt.
-                                           erzeker u ervan dat u de laatste versie van &brandShortName; heeft van:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Iets probeert &brandShortName; te verleiden om een onveile update
-                                           te accepteren. Neem contact op met uw netwerkprovider en vraag hulp.">
+                                           Verzeker u ervan dat u de laatste versie van &brandShortName; hebt van:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Iets probeert &brandShortName; te verleiden om een onveilige update
+                                           te accepteren. Neem contact op met uw netwerkprovider en vraag om hulp.">
 
 <!ENTITY  finishedPage.title              "Update klaar om te installeren">
 <!ENTITY  finishedPage.text               "De update zal de volgende keer dat &brandShortName; start worden geïnstalleerd. U
