@@ -3,8 +3,8 @@
 <!ENTITY smartTitle.label "Gestiona les instaŀlacions i actualitzacions de programari">
 <!ENTITY enableSU.label                       "Permet als llocs web instaŀlar extensions i actualitzacions">
 <!ENTITY enableSU.accesskey                   "e">
-<!ENTITY allowedSites.label                   "Llocs permesos">
-<!ENTITY allowedSites.accesskey               "L">
+<!ENTITY viewPermissions.label                "Gestiona els permisos">
+<!ENTITY viewPermissions.accesskey            "p">
 
 <!ENTITY verifyUpdates.caption                "Actualitzacions">
 <!ENTITY autoUpdates.label                    "Comprova automàticament si hi ha actualitzacions del:">
