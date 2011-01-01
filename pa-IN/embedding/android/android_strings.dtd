@@ -1,0 +1,13 @@
+<!ENTITY  splash_screen_label "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
+<!ENTITY  incompatable_cpu_error "This device does not meet the minimum system requirements for &brandShortName;.">
+<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
+<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+
+<!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
+<!ENTITY  crash_message "&brandShortName; ਕਰੈਸ਼ ਹੋ ਚੁੱਕਾ ਹੈ।  Your tabs should be listed on the &brandShortName; Start page when you restart.">
+<!ENTITY  crash_help_message "ਸਾਨੂੰ ਇਹ ਸਮੱਸਿਆ ਠੀਕ ਕਰਨ ਲਈ ਮੱਦਦ ਕਰੋ ਜੀ!">
+<!ENTITY  crash_send_report_message "ਮੋਜ਼ੀਲਾ ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ">
+<!ENTITY  crash_include_url "ਸਫ਼ਾ ਐਡਰੈੱਸ ਸਮੇਤ">
+<!ENTITY  crash_close_label "ਬੰਦ ਕਰੋ">
+<!ENTITY  crash_restart_label "&brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰੋ">
+<!ENTITY  sending_crash_report "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ\u2026">
