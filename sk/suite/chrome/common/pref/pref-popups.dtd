@@ -5,8 +5,8 @@
 <!ENTITY popupBlock.label               "Blokovať nevyžiadané vyskakovacie okná">
 <!ENTITY popupBlock.accesskey           "B">
 
-<!ENTITY popupExceptions.label          "Povolené stránky…">
-<!ENTITY popupExceptions.accesskey      "o">
+<!ENTITY viewPermissions.label          "Spravovať povolenia">
+<!ENTITY viewPermissions.accesskey      "o">
 
 <!ENTITY whenBlock.description          "Pri zablokovaní vyskakovacieho okna:">
 <!ENTITY playSound.label                "Prehrať zvuk:">

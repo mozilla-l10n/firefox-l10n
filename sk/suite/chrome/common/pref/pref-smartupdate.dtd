@@ -3,8 +3,8 @@
 <!ENTITY smartTitle.label                     "Správa inštalácie softvéru a aktualizácií">
 <!ENTITY enableSU.label                       "Povoliť webovým stránkam inštalovať rozšírenia a aktualizácie">
 <!ENTITY enableSU.accesskey                   "w">
-<!ENTITY allowedSites.label                   "Povolené stránky">
-<!ENTITY allowedSites.accesskey               "o">
+<!ENTITY viewPermissions.label                "Spravovať povolenia">
+<!ENTITY viewPermissions.accesskey            "o">
 
 <!ENTITY verifyUpdates.caption                "Aktualizácie">
 <!ENTITY autoUpdates.label                    "Automaticky kontrolovať aktualizácie pre:">

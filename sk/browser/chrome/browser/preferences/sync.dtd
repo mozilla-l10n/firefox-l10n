@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Môj Synchronizačný kľúč">
 <!ENTITY resetSync.label              "Nová synchronizácia">
 <!ENTITY stopUsingAccount.label       "Prestať používať tento účet">
+<!ENTITY addDevice.label              "Pridať zariadenie">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Synchronizácia prehliadača">
