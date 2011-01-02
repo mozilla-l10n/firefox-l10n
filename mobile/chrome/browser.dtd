@@ -1,0 +1,114 @@
+<!ENTITY urlbar.emptytext "Enter Search or Address">
+
+<!ENTITY back.label "Siar">
+<!ENTITY forward.label "Ar Aghaidh">
+<!ENTITY reload.label "Athluchtaigh">
+<!ENTITY stop.label "Stad">
+<!ENTITY go.label "Ar Aghaidh">
+<!ENTITY star.label "Star">
+
+<!ENTITY newtab.label "Cluaisín Nua">
+<!ENTITY closetab.label "Dún Cluaisín">
+
+<!ENTITY cut.label "Gearr">
+<!ENTITY copy.label "Cóipeáil">
+<!ENTITY copyAll.label "Copy All">
+<!ENTITY copylink.label "Copy Link Location">
+<!ENTITY paste.label "Greamaigh">
+<!ENTITY delete.label "Delete">
+<!ENTITY selectAll.label "Roghnaigh Uile">
+<!ENTITY noSuggestions.label "(No suggestions)">
+<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY inputMethod.label "Select Input Method">
+
+<!ENTITY allPagesHeader.label "All Pages">
+<!ENTITY bookmarksHeader.label "Leabharmharcanna">
+<!ENTITY historyHeader.label "Stair">
+<!ENTITY desktopHeader.label "Deasc">
+
+<!ENTITY editBookmarkDone.label "Done">
+<!ENTITY editBookmarkTags.label "Add tags here">
+
+<!ENTITY selectHelper.done "Done">
+
+<!ENTITY addonsHeader.label "Breiseáin">
+<!ENTITY addonsLocal.label "Your Add-ons">
+<!ENTITY addonsUpdate.label "Nuashonrú">
+<!ENTITY addonsRepo.label "Faigh Breiseáin">
+<!ENTITY addonsRecommended.label "Recommended">
+<!ENTITY addonsSearch.label "Cuardach">
+<!ENTITY addonsSearch2.emptytext "Search Catalog">
+<!ENTITY addonsSearch.recommended "Recommended">
+
+<!ENTITY addonOptions.label "Roghanna">
+<!ENTITY addonEnable.label "Cumasaigh">
+<!ENTITY addonDisable.label "Díchumasaigh">
+<!ENTITY addonInstall2.label "Add to &brandShortName;">
+<!ENTITY addonUninstall.label "Uninstall">
+<!ENTITY addonCancel.label "Cancel">
+<!ENTITY addonShowPage.label "Go to Page">
+
+<!ENTITY downloadsHeader.label "Íosluchtú">
+
+<!ENTITY downloadShowPage.label "Go to Page">
+<!ENTITY downloadShow2.label "Aimsigh">
+<!ENTITY downloadOpen2.label "Oscail">
+<!ENTITY downloadCancel.label "Cancel">
+<!ENTITY downloadPause.label "Pause">
+<!ENTITY downloadResume.label "Lean">
+<!ENTITY downloadRetry.label "Retry">
+<!ENTITY downloadRemove.label "Remove">
+<!ENTITY downloadDelete.label "Delete">
+<!ENTITY downloadFailed.label "Teipthe">
+
+<!ENTITY noResults.label "No results">
+<!ENTITY allBookmarks.label "See all bookmarks">
+
+<!ENTITY bookmarkPopup.label "Cruthaíodh Leabharmharc">
+<!ENTITY bookmarkRemove.label "Remove">
+<!ENTITY bookmarkEdit.label "Edit">
+
+<!ENTITY identity.unverifiedsite2 "Ní sholáthraíonn an suíomh seo faisnéis maidir lena aitheantas.">
+<!ENTITY identity.connectedTo2 "Connected to">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "run by">
+
+<!ENTITY consoleHeader.label "Consól Earráide">
+<!ENTITY consoleAll.label "All">
+<!ENTITY consoleErrors.label "Earráidí">
+<!ENTITY consoleWarnings.label "Rabhaidh">
+<!ENTITY consoleMessages.label "Messages">
+<!ENTITY consoleCodeEval.label "Code:">
+<!ENTITY consoleClear.label "Bánaigh">
+<!ENTITY consoleEvaluate.label "…">
+<!ENTITY consoleErrFile.label "Comhad Foinse:">
+<!ENTITY consoleErrLine.label "Líne:">
+<!ENTITY consoleErrColumn.label "Colún:">
+
+<!ENTITY contextOpenInNewTab.label "Open Link in New Tab">
+<!ENTITY contextSaveLink.label "Save Link">
+<!ENTITY contextSaveImage.label "Sábháil an Íomhá">
+<!ENTITY contextShareLink.label "Share Link">
+<!ENTITY contextShareImage.label "Share Image">
+<!ENTITY contextSaveVideo.label "Sábháil an Físeán">
+<!ENTITY contextShareVideo.label "Share Video">
+<!ENTITY contextPlayMedia.label "Seinn">
+<!ENTITY contextPauseMedia.label "Pause">
+<!ENTITY contextFullScreen.label "Full Screen">
+<!ENTITY contextEditBookmark.label "Edit">
+<!ENTITY contextRemoveBookmark.label "Remove">
+
+<!ENTITY pageactions.saveas.pdf "Save As PDF">
+<!ENTITY pageactions.share.page "Share Page">
+<!ENTITY pageactions.password.forget "Forget Password">
+<!ENTITY pageactions.reset "Clear Site Preferences">
+<!ENTITY pageactions.findInPage "Find In Page">
+<!ENTITY pageactions.search.addNew "Inneall Cuardaigh Nua">
+
+<!ENTITY selectHelper.emptytext "Filter List">
+
+<!ENTITY appMenu.siteOptions "Site Options">
