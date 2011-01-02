@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "а">
 <!ENTITY disableContextMenus.label      "Контекст мәзірін өшіру немесе басқасымен ауыстыру">
 <!ENTITY disableContextMenus.accesskey  "м">
-<!ENTITY hideStatusBar.label            "Қалып-күй жолағын жасыру">
-<!ENTITY hideStatusBar.accesskey        "а">
-<!ENTITY changeStatusBar.label          "Қалып-күй жолағының мәтінін өзгерту">
-<!ENTITY changeStatusBar.accesskey      "м">

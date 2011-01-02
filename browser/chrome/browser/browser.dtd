@@ -11,7 +11,6 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Жекелік шолу режимі)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Бетті қайта жүктеу">
 <!ENTITY  reloadTab.accesskey                "й">
@@ -19,14 +18,20 @@
 <!ENTITY  reloadAllTabs.accesskey            "а">
 <!ENTITY  closeOtherTabs.label               "Басқа беттерді жабу">
 <!ENTITY  closeOtherTabs.accesskey           "с">
-<!ENTITY  openTabInNewWindow.label           "Жаңа терезеде ашу">
-<!ENTITY  openTabInNewWindow.accesskey       "ш">
-<!ENTITY  pinTab.label                       "Қолданба бетін жасау">
-<!ENTITY  pinTab.accesskey                   "о">
-<!ENTITY  unpinTab.label                     "Қалыпты бетті жасау">
-<!ENTITY  unpinTab.accesskey                 "п">
-<!ENTITY  bookmarkThisTab.label              "Бұл бетті бетбелгілерге қосу">
-<!ENTITY  bookmarkThisTab.accesskey          "т">
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Қолданба беті ретінде бекіту">
+<!ENTITY  pinAppTab.accesskey                "о">
+<!ENTITY  unpinAppTab.label                  "Бетті босату">
+<!ENTITY  unpinAppTab.accesskey              "б">
+<!ENTITY  moveToGroup.label                  "Топқа жылжыту">
+<!ENTITY  moveToGroup.accesskey              "ы">
+<!ENTITY  moveToNewGroup.label               "Жаңа топ">
+<!ENTITY  moveToNewWindow.label              "Жаңа терезеге жылжыту">
+<!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  bookmarkAllTabs.label              "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY  bookmarkAllTabs.accesskey          "а">
 <!ENTITY  undoCloseTab.label                 "Жабылған бетті қайтару">
@@ -63,8 +68,8 @@
 <!ENTITY personalbarCmd.label "Бетбелгілер панелі">
 <!ENTITY personalbarCmd.accesskey "Б">
 <!ENTITY bookmarksToolbarItem.label "Бетбелгілер панелінің элементтері">
-<!ENTITY taskbarCmd.label "Қалып-күй жолағы">
-<!ENTITY taskbarCmd.accesskey "к">
+<!ENTITY addonBarCmd.label "Кеңейтулер панелі">
+<!ENTITY addonBarCmd.accesskey "й">
 
 <!ENTITY pageSourceCmd.label "Парақтың бастапқы коды">
 <!ENTITY pageSourceCmd.accesskey "б">
@@ -93,7 +98,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Жаналық таспасына жазылу">
 <!ENTITY subscribeToPageMenuitem.label "Жаналықтар таспаларына жазылу…">
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
-<!ENTITY organizeBookmarks.label "Бетбелгілерді басқару…">
+<!ENTITY showAllBookmarks2.label "Барлық бетбелгілерді көрсету">
 <!ENTITY bookmarkAllCmd.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Көбірек бетбелгілерді көрсету">
 
@@ -103,7 +108,6 @@
 <!ENTITY forwardCmd.label             "Алға">
 <!ENTITY forwardCmd.accesskey         "л">
 <!ENTITY forwardButton.tooltip        "Келесі бетке өту">
-<!ENTITY backForwardMenu.tooltip      "Соңғы қаралған беттер">
 <!ENTITY reloadCmd.label              "Жаңарту">
 <!ENTITY reloadCmd.accesskey          "р">
 <!ENTITY reloadButton.tooltip         "Ағымдағы бетті жаңарту">
@@ -114,24 +118,30 @@
 <!ENTITY goEndCap.tooltip             "Енгізілген адреске өту">
 <!ENTITY printButton.label            "Баспаға шығару">
 <!ENTITY printButton.tooltip          "Ағымдағы бетті баспаға шығару">
+<!ENTITY backForwardItem.title        "Артқа/Алға">
 
 <!ENTITY locationItem.title           "Адрес">
 <!ENTITY searchItem.title             "Іздеу">
 <!ENTITY throbberItem.title           "Активтілік айқындағышы">
 <!ENTITY bookmarksItem.title          "Бетбелгілер">
 
-<!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Үйге">
+<!-- Toolbar items -->
+<!ENTITY tabGroupsButton.label        "Беттер топтары">
+<!ENTITY tabGroupsButton.tooltip      "Браузер беттерін топтау">
+
+<!ENTITY feedButton.label             "Жазылу">
+<!ENTITY feedButton.tooltip           "Бұл параққа жазылу…">
+
+<!ENTITY homeButton.label            "Үйге">
+<!ENTITY appMenuButton.label          "Мәзір">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; мәзірін ашу">
 
 <!ENTITY bookmarksButton.label          "Бетбелгілер">
 <!ENTITY bookmarksButton.tooltip        "Сіздің бетбелгілеріңізді көрсету">
-<!ENTITY bookmarksSidebarCmd.accesskey  "к">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY bookmarksMenuButton.label          "Бетбелгілер">
 <!ENTITY bookmarksMenuButton.tooltip        "Бетбелгілеріңізді көрсету">
+<!ENTITY bookmarksMenuButton.unsorted.label "Сұрыпталмаған бетбелгілер">
 <!ENTITY viewBookmarksSidebar.label         "Бүйір панельде көрсету">
 <!ENTITY viewBookmarksToolbar.label         "Бетбелгілер панелін қарау">
 
@@ -154,6 +164,7 @@
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Қосымшалар">
 <!ENTITY addons.accesskey             "с">
+<!ENTITY addons.commandkey            "a">
 
 <!ENTITY errorConsoleCmd.label        "Қателер консолі">
 <!ENTITY errorConsoleCmd.accesskey    "к">
@@ -173,6 +184,7 @@
 <!ENTITY inspectMenu.accesskey        "Б">
 <!ENTITY inspectMenu.commandkey       "i">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Бақылау">
 <!ENTITY inspectButton.accesskey      "Б">
 <!ENTITY inspectNextButton.label      "Келесі">
@@ -180,8 +192,14 @@
 <!ENTITY inspectPreviousButton.label  "Алдыңғы">
 <!ENTITY inspectPreviousButton.accesskey "л">
 <!ENTITY inspectStyleButton.label     "Стилі">
-<!ENTITY inspectStyleButton.accesskey "с">
+<!ENTITY inspectStyleButton.accesskey "С">
 <!ENTITY inspectStylePanelTitle.label  "Стилі">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Объект">
+<!ENTITY inspectObjectButton.accesskey   "О">
 
 <!ENTITY editMenu.label         "Түзету"> 
 <!ENTITY editMenu.accesskey       "Т"> 
@@ -206,8 +224,8 @@
 <!ENTITY selectAllCmd.label         "Барлығын ерекшелеу">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "е"> 
-<!ENTITY preferencesCmd.label       "Баптаулары">
-<!ENTITY preferencesCmd.accesskey     "Б"> 
+<!ENTITY preferencesCmd2.label       "Опциялар">
+<!ENTITY preferencesCmd2.accesskey     "ц"> 
 <!ENTITY preferencesCmdUnix.label       "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey     "м"> 
 
@@ -229,24 +247,33 @@
 <!ENTITY viewSidebarMenu.accesskey "Б">
 <!ENTITY viewCustomizeToolbar.label       "Баптау…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "а">
+<!ENTITY viewTabGroups.label            "Беттер топтары">
+<!ENTITY viewTabGroups.accesskey        "т">
 
 <!ENTITY historyMenu.label "Тарихы">
 <!ENTITY historyMenu.accesskey "х">
 <!ENTITY historyUndoMenu.label "Жақында жабылған беттер">
 <!ENTITY historyUndoWindowMenu.label "Жақында жабылған терезелер">
+<!ENTITY historyRestoreLastSession.label "Алдыңғы сессияны қалпына келтіру">
 
 <!ENTITY historyHomeCmd.label "Үй беті">
 <!ENTITY showAllHistoryCmd2.label "Бүкіл тарихты көрсету">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY viewTabsOnTop.label            "Беттер үстінде">
+<!ENTITY viewTabsOnTop.accesskey        "с">
 
-<!ENTITY appMenuPrintCmd.label "Баспаға шығару">
+<!ENTITY appMenuEdit.label "Түзету">
 <!ENTITY appMenuCustomize.label "Баптау">
 <!ENTITY appMenuToolbarLayout.label "Панельдер орналасуу…">
 <!ENTITY appMenuSidebars.label "Бүйір панельдер">
-<!ENTITY appMenuHelp.label "Көмек">
+<!ENTITY appMenuFind.label "Табу…">
+<!ENTITY appMenuUnsorted.label "Сұрыпталмаған бетбелгілер">
+<!ENTITY appMenuWebDeveloper.label "Кеб өңдеуіші">
+<!ENTITY appMenuGettingStarted.label "Бастау үшін">
+<!ENTITY appMenuSafeMode.label "Сөндірілген кеңейтулермен қайта қосу…">
+<!ENTITY appMenuSafeMode.accesskey "с">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText	       "Бетбелгілер мен тарихтың ішінен іздеу">
 <!ENTITY urlbar.placeholder           "Веб сайтқа өту">
 <!ENTITY urlbar.accesskey             "з">
 <!ENTITY urlbar.switchToTab.label     "Бетке ауысу:">
@@ -269,11 +296,10 @@
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY tabView.commandkey      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "Сілтемені жаңа терезеде ашу">
@@ -357,8 +383,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "В">
 <!ENTITY copyAudioURLCmd.label        "Аудионың сілтемесін көшіру">
 <!ENTITY copyAudioURLCmd.accesskey    "А">
-<!ENTITY metadataCmd.label            "Қасиеттері">
-<!ENTITY metadataCmd.accesskey        "с">
 <!ENTITY copyEmailCmd.label           "Электронды пошта адресін көшіру">
 <!ENTITY copyEmailCmd.accesskey       "п">
 <!ENTITY thisFrameMenu.label              "Осы фреймде">
@@ -392,6 +416,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY zoomOutButton.tooltip          "Үлкейту">
+<!ENTITY zoomInButton.tooltip           "Кішірейту">
+<!ENTITY zoomControls.label             "Масштабтау саймандары">
 
 <!ENTITY fullZoomReduceCmd.label        "Кішірейту">
 <!ENTITY fullZoomReduceCmd.accesskey    "ш">
@@ -466,10 +494,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Дайын">
 <!ENTITY editBookmark.cancel.label                   "Бас тарту">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ш">
-<!ENTITY editBookmark.undo.label                     "Болдырмау">
-<!ENTITY editBookmark.undo.accessKey                 "Б">
-<!ENTITY editBookmark.edit.label                     "Түзету...">
-<!ENTITY editBookmark.edit.accessKey                 "з">
 
 <!ENTITY identity.unverifiedsite2 "Осы веб-сайт шын екені туралы ақпарат жоқ">
 <!ENTITY identity.connectedTo "Сіз байланысқан">
@@ -490,8 +514,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Жүктемелер терезесін ашу үшін тышқанды басыңыз">
 
-<!ENTITY ctrlTab.search.emptyText "Беттер ішінен іздеу">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Браузер беттері">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Басқа компьютерлерден браузер беттері">
+
+<!ENTITY syncBrand.shortName.label    "Синхрондау">
+
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; баптау…">
+<!ENTITY syncSetup.accesskey          "а">
+<!ENTITY syncSyncNowItem.label        "Қазір синхрондау">
+<!ENTITY syncSyncNowItem.accesskey    "с">
+<!ENTITY syncToolbarButton.label      "Синхрондау">
+
+<!ENTITY addonBarCloseButton.tooltip  "Кеңейтулер панелін жабу">

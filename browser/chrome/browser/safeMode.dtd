@@ -48,8 +48,6 @@
 <!ENTITY resetToolbars.label          "Саймандар панелдер мен басқару элементтерінің баптауларын бастапқы түріне келтіру.">
 <!ENTITY resetToolbars.accesskey      "э">
 
-<!ENTITY resetBookmarks.label         "Сіздің бетбелгілерін &brandShortName; бастапқы бетбелгілерімен алмастыру">
-<!ENTITY resetBookmarks.accesskey     "а">
 
 <!ENTITY resetUserPrefs.label         "Баптаулардың барлығын &brandShortName; бастапқы баптауларымен алмастыру">
 <!ENTITY resetUserPrefs.accesskey     "р">

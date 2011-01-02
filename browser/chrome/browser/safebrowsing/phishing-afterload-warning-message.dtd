@@ -13,14 +13,5 @@
 <!ENTITY safeb.palm.decline.label "Осы ескертуді елемеу">
 <!ENTITY safeb.palm.decline.statustext "Ескертпені жабу" >
 <!ENTITY safeb.palm.notforgery.label2 "Бұл алаяқты сайт емес…">
-<!ENTITY safeb.palm.report.label "Бұл сайт неліктен блокталды?">
 
-<!ENTITY safeb.blocked.malware.title "Бұл сайт компьютерлерге шабуыл жасауға қолданылатыны туралы ақпарат бар!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Осы сайт <span id='malware_sitename'/> пайдаланушылардың компьютерлеріне шабуыл жасағанға қолданылатыны туралы ақпарат бар. Сіздің қауіпсіздік баптауларыңызға сәйкес ол оқшауланды.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Компьютерлерге шабуыл жасайтын сайттар арнайы бағдарламаларды орнаткысы келеді, ол арқылы сіздің жеке мәліметтеріңізді ұрлап, жүйеңізге зиян келтіріп немесе компьютеріңізді басқа компьютерлерге жабуыл жасау үшін ">
 
-<!ENTITY safeb.blocked.phishing.title "Осы сайт алаяқты екені туралы ақпарат бар!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Осы сайт <span id='malware_sitename'/> алаяқты екені туралы ақпарат бар. Сіздің қауіпсіздік баптауларыңызға сәйкес ол оқшауланды.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Алаяқтық сайттар өзіңіз сенетін сайттарға ұқсатылып жасалған, алдау арқылы сіздің жеке немесе қаржы мәліметтеріңізді ұрлай алады.</p><p>Осы парақта енгізілген жеке ақпаратыңыз ұрланып қалуы мүмкін.</p>">

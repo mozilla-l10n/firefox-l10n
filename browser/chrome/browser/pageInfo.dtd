@@ -62,6 +62,9 @@
 <!ENTITY  generalMetaContent    "Құрамасы">
 <!ENTITY  generalSecurityDetails   "Көбірек білу">
 <!ENTITY  generalSecurityDetails.accesskey "К">
+<!ENTITY  permIndexedDB              "Дербес жұмыс қорын басқару">
+<!ENTITY  permClearStorage           "Қорды тазарту">
+<!ENTITY  permClearStorage.accesskey "з">
 
 <!ENTITY  mediaTab              "Мультимедиа">
 <!ENTITY  mediaTab.accesskey    "М">

@@ -1,12 +1,10 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Баптаулары">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Мені қашан ескерту керек">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Сынақ жіберуге дайын болса">
 <!ENTITY testpilot.settings.newStudy.label          "Жаңа сынақ бар болса">
 <!ENTITY testpilot.settings.hasNewResults.label     "Сынақтың жаңа нәтижелері бар болса">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Мәліметтерімді авто жіберу (менен сұрамай-ақ)">
-<!ENTITY testpilot.allStudies.label                 "Сіздің бар пайдаланушы сынақтары">
 <!ENTITY testpilot.about.label                      "Test Pilot туралы">
 
 <!-- all studies window -->

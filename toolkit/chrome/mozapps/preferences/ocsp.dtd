@@ -4,7 +4,7 @@
 <!ENTITY certOCSP2.label              "OCSP серверін анықтаса, сертификатты растау">
 <!ENTITY certOCSP2.accesskey          "р">
 <!ENTITY proxyOCSP2.label             "Барлық сертификаттарды келесі OCSP серверін қолданып, растау:">
-<!ENTITY proxyOCSP2.accesskey         "б">
+<!ENTITY proxyOCSP2.accesskey         "л">
 <!ENTITY serviceURL.label             "Қызмет URL:">
 <!ENTITY serviceURL.accesskey         "м">
 <!ENTITY signingCA.label              "Қолтаңба қойған:">

@@ -11,25 +11,15 @@
 <!ENTITY  locbar.nothing.label          "Ешнәрсе">
 
 <!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
   line in preferences as follows:
 
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
-<!ENTITY  rememberDaysBefore.label      "Қарап шыққан сайттардың тарихын ең аз дегенде мына уақыт бойы сақтау">
-<!ENTITY  rememberDaysBefore.accesskey  "ш">
-<!ENTITY  rememberDaysAfter2.label      "күн">
 
-<!ENTITY  rememberForms.label           "Формаларға мен іздеу панеліне енгізілген ақпаратты есте сақтау">
-<!ENTITY  rememberForms.accesskey       "е">
 
-<!ENTITY  rememberDownloads.label       "Жүктелген файлдардың аттарын есте сақтау">
-<!ENTITY  rememberDownloads.accesskey   "Ж">
 
-<!ENTITY  cookies.label                 "Cookies">
 
 <!ENTITY  acceptCookies.label           "Сайттардан cookies қабылдау">
-<!ENTITY  acceptCookies.accesskey       "с">
+<!ENTITY  acceptCookies.accesskey       "а">
 
 <!ENTITY  acceptThirdParty.label        "Үшінші дәрежелі сайттардан cookies қабылдау">
 <!ENTITY  acceptThirdParty.accesskey    "ш">
@@ -47,13 +37,8 @@
 <!ENTITY  showCookies.label             "Cookies көрсету…">
 <!ENTITY  showCookies.accesskey         "р">
 
-<!ENTITY  privateData.label             "Жеке мәліметтер">
 
-<!ENTITY  alwaysClear.label              "&brandShortName; жабылған кезде менің жеке мәліметтерімді өшіру">
-<!ENTITY  alwaysClear.accesskey          "ж">
 
-<!ENTITY  clearDataSettings.label        "Баптау…">
-<!ENTITY  clearDataSettings.accesskey    "п">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ">
 <!ENTITY  historyHeader.pre.accesskey      "F">
@@ -83,7 +68,7 @@
 <!ENTITY  rememberHistory.accesskey  "ы">
 
 <!ENTITY  rememberDownload.label         "Жүктемелер тарихын сақтау">
-<!ENTITY  rememberDownload.accesskey     "ж">
+<!ENTITY  rememberDownload.accesskey     "Ж">
 
 <!ENTITY  rememberSearchForm.label       "Іздеу және формалар тарих сақтау">
 <!ENTITY  rememberSearchForm.accesskey   "з">
@@ -94,5 +79,3 @@
 <!ENTITY  clearOnCloseSettings.label     "Баптау…">
 <!ENTITY  clearOnCloseSettings.accesskey "п">
 
-<!ENTITY  clearDataNow.label             "Қазір тазарту…">
-<!ENTITY  clearDataNow.accesskey         "а">
