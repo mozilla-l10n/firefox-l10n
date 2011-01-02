@@ -23,7 +23,7 @@ was trying to connect. -->
 <!ENTITY certerror.expert.heading "Tuigim na Contúirtí">
 <!ENTITY certerror.expert.content "Má thuigeann tú cad tá ag tarlú, is féidir leat insint le &brandShortName; gur féidir muinín a bheith aige as sainaithint an tsuímh seo. <b>Fiú má tá muinín agat as an suíomh, b'fhéidir go gciallaíonn an earráid seo go bhfuil duine éigin ag cur isteach ar do nasc.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ná cruthaigh eisceacht mura bhfuil fáth maith ar eolas agat cad chuige nach n-úsáideann an suíomh seo sainaithint iontaofa.">
-<!ENTITY certerror.addTemporaryException.label "Visit site">
-<!ENTITY certerror.addPermanentException.label "Add permanent exception">
+<!ENTITY certerror.addTemporaryException.label "Déan cuairt ar shuíomh">
+<!ENTITY certerror.addPermanentException.label "Cruthaigh eisceacht bhuan">
 
 <!ENTITY certerror.technical.heading "Sonraí Teicniúla">

@@ -1,21 +1,21 @@
 <!ENTITY sync.title "Sync">
-<!ENTITY sync.notconnected "Not connected">
-<!ENTITY sync.connect "Connect">
-<!ENTITY sync.connected "Connected">
+<!ENTITY sync.notconnected "Gan cheangal">
+<!ENTITY sync.connect "Ceangail">
+<!ENTITY sync.connected "Ceangailte">
 <!ENTITY sync.details "Mionsonraí">
-<!ENTITY sync.synchronize "Enable Sync">
-<!ENTITY sync.deviceName "This device">
+<!ENTITY sync.synchronize "Cumasaigh Sync">
+<!ENTITY sync.deviceName "An gléas seo">
 <!ENTITY sync.disconnect "Dícheangail">
 <!ENTITY sync.syncNow "Sioncrónaigh Anois">
 
-<!ENTITY sync.setup.title "Connect to Sync">
-<!ENTITY sync.setup.jpake "From a Firefox Sync-connected computer, go to Sync options and select &#x0022;Add a device&#x0022;">
-<!ENTITY sync.fallback "I'm not near my computer…">
-<!ENTITY sync.setup.manual "Enter your Sync account information">
+<!ENTITY sync.setup.title "Ceangail le Sync">
+<!ENTITY sync.setup.jpake "Ó ríomhaire atá ceangailte le Firefox Sync, téigh go dtí na roghanna Sync agus roghnaigh &#x0022;Cuir gléas leis&#x0022;">
+<!ENTITY sync.fallback "Nílim in aice le mo ríomhaire…">
+<!ENTITY sync.setup.manual "Cuir faisnéis do chuntais Sync isteach">
 <!ENTITY sync.account "Ainm an Chuntais">
 <!ENTITY sync.password "Focal Faire">
-<!ENTITY sync.syncKey "Sync Key">
-<!ENTITY sync.customServer "Use custom server">
-<!ENTITY sync.serverURL "Server URL">
-<!ENTITY sync.setup.connect "Connect">
+<!ENTITY sync.syncKey "Eochair Sync">
+<!ENTITY sync.customServer "Úsáid freastalaí saincheaptha">
+<!ENTITY sync.serverURL "URL an fhreastalaí">
+<!ENTITY sync.setup.connect "Ceangail">
 <!ENTITY sync.setup.cancel "Cealaigh">

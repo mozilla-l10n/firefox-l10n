@@ -1,21 +1,21 @@
 <!ENTITY prefsHeader.label "Sainroghanna">
-<!ENTITY about.title "About &brandShortName;">
-<!ENTITY about.button "Go to Page">
+<!ENTITY about.title "Maidir le &brandShortName;">
+<!ENTITY about.button "Téigh go Leathanach">
 <!ENTITY content.title "Ábhar">
 <!ENTITY reflowZoom.title "Reformat text on zoom">
-<!ENTITY showImages.title "Show images">
-<!ENTITY enableJavaScript.title "Enable JavaScript">
-<!ENTITY enablePlugins.title "Enable Plugins">
-<!ENTITY privacy.title "Privacy &amp; Security">
-<!ENTITY allowCookies.title "Allow cookies">
-<!ENTITY clearPrivateData2.title "Clear private data">
+<!ENTITY showImages.title "Taispeáin íomhánna">
+<!ENTITY enableJavaScript.title "Cumasaigh JavaScript">
+<!ENTITY enablePlugins.title "Cumasaigh Forlíontáin">
+<!ENTITY privacy.title "Príobháideacht agus Slándáil">
+<!ENTITY allowCookies.title "Ceadaigh fianáin">
+<!ENTITY clearPrivateData2.title "Bánaigh sonraí príobháideacha">
 <!ENTITY clearPrivateData.button "Bánaigh">
-<!ENTITY rememberPasswords.title "Remember passwords">
-<!ENTITY language.title "Language">
-<!ENTITY language.auto "Auto-detect">
+<!ENTITY rememberPasswords.title "Meabhraigh focail fhaire">
+<!ENTITY language.title "Teanga">
+<!ENTITY language.auto "Braith go huathoibríoch">
 <!ENTITY defaultBrowser.title "Brabhsálaí Réamhshocraithe">
-<!ENTITY defaultBrowser.description "Make &brandShortName; your default browser">
-<!ENTITY homepage.title "Start page">
-<!ENTITY homepage.none "Blank Page">
-<!ENTITY homepage.default "&brandShortName; Start">
-<!ENTITY homepage.currentpage "Use Current Page">
+<!ENTITY defaultBrowser.description "Úsáid &brandShortName; mar mo rogha brabhsálaí">
+<!ENTITY homepage.title "Leathanach tosaigh">
+<!ENTITY homepage.none "Leathanach Bán">
+<!ENTITY homepage.default "Tosach &brandShortName;">
+<!ENTITY homepage.currentpage "Úsáid an Leathanach Reatha">

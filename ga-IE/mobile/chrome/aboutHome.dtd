@@ -1,8 +1,8 @@
-<!ENTITY aboutHome.header "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
-<!ENTITY aboutHome.recentTabs "Your tabs from last time">
-<!ENTITY aboutHome.remoteTabs "Tabs from your other computers">
-<!ENTITY aboutHome.recommendedAddons2 "Add-ons for your &brandShortName;">
-<!ENTITY aboutHome.giveFeedback "Give Feedback">
-<!ENTITY aboutHome.openAllTabs "Open all in tabs">
-<!ENTITY aboutHome.noTabs "No tabs from last time">
-<!ENTITY aboutHome.noAddons "No recommended add-ons">
+<!ENTITY aboutHome.header "<span id='header-suffix'>Tosach </span><span>&brandShortName;</span>">
+<!ENTITY aboutHome.recentTabs "Do chuid cluaisíní ón uair roimhe seo">
+<!ENTITY aboutHome.remoteTabs "Cluaisíní ó do ríomhairí eile">
+<!ENTITY aboutHome.recommendedAddons2 "Breiseáin le haghaidh &brandShortName;">
+<!ENTITY aboutHome.giveFeedback "Seol Aiseolas">
+<!ENTITY aboutHome.openAllTabs "Oscail gach rud i gcluaisíní">
+<!ENTITY aboutHome.noTabs "Níl aon chluaisíní ann ón uair roimhe seo">
+<!ENTITY aboutHome.noAddons "Gan breiseáin mholta">

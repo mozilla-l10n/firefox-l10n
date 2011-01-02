@@ -24,7 +24,7 @@
 # link title for about:firstrun
 
 
-#define bookmarks_welcome Firefox: Welcome
+#define bookmarks_welcome Firefox: Fáilte
 
 
 
@@ -34,7 +34,7 @@
 # link title for about:fennec
 
 
-#define bookmarks_aboutBrowser Firefox: About your browser
+#define bookmarks_aboutBrowser Firefox: Maidir le do bhrabhsálaí
 
 
 
@@ -44,7 +44,7 @@
 # link title for https://addons.mozilla.org/en-US/mobile
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox: Cuir in oiriúint duit féin le breiseáin
 
 
 
@@ -54,7 +54,7 @@
 # link title for https://mobile.support.mozilla.com
 
 
-#define bookmarks_support Firefox: Support
+#define bookmarks_support Firefox: Tacaíocht
 
 
 
@@ -64,7 +64,7 @@
 # link title for about:home
 
 
-#define bookmarks_aboutHome Firefox Start
+#define bookmarks_aboutHome Tosach Firefox
 
 
 
