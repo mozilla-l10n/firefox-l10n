@@ -1,4 +1,4 @@
-<!ENTITY splash_screen_label "&brandShortName; загружаецца">
+<!ENTITY splash_screen_label "загрузка">
 <!ENTITY incompatable_cpu_error "Гэтая збудова не задавальняе найменшым сістэмным патрабаванням &brandShortName;.">
 <!ENTITY no_space_to_start_error "Няма прасторы, неабходнай &brandShortName; для запуску.">
 <!ENTITY error_loading_file "Здарылася памылка падчас загрузкі файлаў, патрэбных для выканання &brandShortName;">
