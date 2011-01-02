@@ -13,8 +13,8 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; kan se etter kompatible
                                            versjoner av disse utvidelsene.">
 
-<!ENTITY  checking.wizard.title           "Ser etter oppdateringer">
-<!ENTITY  checking.top.label              "Ser etter oppdateringer …">
+<!ENTITY  checking.wizard.title           "Søker etter oppdateringer">
+<!ENTITY  checking.top.label              "Søker etter oppdateringer …">
 <!ENTITY  checking.status                 "Dette kan ta en liten stund …">
 
 <!ENTITY  found.wizard.title               "Oppdateringer funnet">
@@ -46,8 +46,8 @@
                                            fordi programvareinstallasjon er avslått i denne installasjonen av &brandShortName;.
                                            Kontakt systemansvarlig for hjelp.">
 
-<!ENTITY  versioninfo.wizard.title        "Ser etter kompatibilitetsoppdateringer for utvidelser">
-<!ENTITY  versioninfo.top.label           "Ser etter oppdateringer for kompatibilitet med
+<!ENTITY  versioninfo.wizard.title        "Søker etter kompatibilitetsoppdateringer for utvidelser">
+<!ENTITY  versioninfo.top.label           "Søker etter oppdateringer for 
                                            denne versjonen av &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Dette kan ta noen minutter …">
 

@@ -12,11 +12,11 @@
 <!ENTITY  proportional.label                      "Proposjonal:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.label                             "Seriffskrift:">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.label                        "Seriffløs skrift:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Fast tegnavstand:">
+<!ENTITY  monospace.label                         "Fast bredde:">
 <!ENTITY  monospace.accesskey                     "F">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 <!ENTITY  fantasy.label                           "Fantasi:">
@@ -57,8 +57,8 @@
 <!ENTITY minSize.none                             "Ingen">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+<!ENTITY  useDefaultFontSerif.label               "Seriffskrift">
+<!ENTITY  useDefaultFontSansSerif.label           "Seriffløs skrift">
 
 <!ENTITY  useDocumentFonts.label                  "Tillat dokumenter å bruke andre skrifttyper">
 <!ENTITY  useDocumentFonts.accesskey              "o">

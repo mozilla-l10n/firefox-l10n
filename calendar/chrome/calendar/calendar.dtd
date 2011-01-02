@@ -151,10 +151,10 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "u">
 <!ENTITY calendar.task.filter.open.label            "Ukomplette oppgaver">
 <!ENTITY calendar.task.filter.open.accesskey        "U">
-<!ENTITY calendar.task.filter.current.label         "Nåværende oppgaver">
-<!ENTITY calendar.task.filter.current.accesskey     "N">
+<!ENTITY calendar.task.filter.current.label         "Gjeldende oppgaver">
+<!ENTITY calendar.task.filter.current.accesskey     "G">
 <!ENTITY calendar.task.filter.repeating.label       "Gjentakende oppgaver">
-<!ENTITY calendar.task.filter.repeating.accesskey   "G">
+<!ENTITY calendar.task.filter.repeating.accesskey   "e">
 
 <!ENTITY calendar.task-details.title.label           "tittel">
 <!ENTITY calendar.task-details.organizer.label       "fra">
