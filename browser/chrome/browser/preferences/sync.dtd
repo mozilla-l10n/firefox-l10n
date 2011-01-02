@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Endre Sync-nøkkel">
 <!ENTITY resetSync.label              "Tilbakestill Sync">
 <!ENTITY stopUsingAccount.label       "Slutt å bruke denne kontoen">
+<!ENTITY addDevice.label              "Legg til en enhet">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Nettleser-synk">
