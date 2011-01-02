@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Feliratkozás erre az oldalra">
 <!ENTITY subscribeToPageMenuitem.label "Feliratkozás erre az oldalra...">
 <!ENTITY addCurPagesCmd.label "Minden lap egy könyvjelzőbe...">
-<!ENTITY showAllBookmarks.label "Minden könyvjelző megjelenítése...">
+<!ENTITY showAllBookmarks2.label "Minden könyvjelző megjelenítése">
 <!ENTITY bookmarkAllCmd.label "Minden lap egy könyvjelzőbe...">
 <!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Minden kijelölése">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "i"> 
-<!ENTITY preferencesCmd.label       "Beállítások...">
-<!ENTITY preferencesCmd.accesskey     "B"> 
+<!ENTITY preferencesCmd2.label       "Beállítások">
+<!ENTITY preferencesCmd2.accesskey     "B">
 <!ENTITY preferencesCmdUnix.label       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey     "B"> 
 
@@ -548,3 +548,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Szinkronizálás">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY addonBarCloseButton.tooltip  "Kiegészítősáv bezárása">

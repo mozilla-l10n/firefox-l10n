@@ -27,6 +27,7 @@
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
    -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
+   -   Gianfranco Balza <bv1578@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,6 +45,7 @@
 
 <!ENTITY event.title.label                  "Elem szerkesztése" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip  "">
 
 <!ENTITY newevent.from.label                "Kezdete" >
 <!ENTITY newevent.to.label                  "Vége" >
@@ -229,7 +231,7 @@
 <!ENTITY event.url.label                                  "Related hivatkozás:" >
 <!ENTITY event.priority2.label                            "Sürgősség:">
 
-<!ENTITY event.reminder.none.label                        "Nincs emlékeztető " >
+<!ENTITY event.reminder.none.label                        "Nincs emlékeztető" >
 <!ENTITY event.reminder.0minutes.before.label             "0 perccel előtte" >
 <!ENTITY event.reminder.5minutes.before.label             "5 perccel előtte" >
 <!ENTITY event.reminder.15minutes.before.label            "15 perccel előtte" >

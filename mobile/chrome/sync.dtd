@@ -17,3 +17,5 @@
 <!ENTITY sync.syncKey               "Sync-kulcs">
 <!ENTITY sync.customServer          "Egyéni kiszolgáló használata">
 <!ENTITY sync.serverURL             "Kiszolgáló URL-je">
+<!ENTITY sync.setup.connect         "Kapcsolódás">
+<!ENTITY sync.setup.cancel          "Mégse">

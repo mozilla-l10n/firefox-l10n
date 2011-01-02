@@ -39,8 +39,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "F">
 <!ENTITY updates.viewUpdates.label            "A legutóbbi frissítések megtekintése">
 <!ENTITY updates.viewUpdates.accesskey        "A">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Kiegészítők automatikus frissítése">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "K">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Minden kiegészítő automatikus frissítése">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "M">
 <!ENTITY updates.resetUpdatesToManual.label          "Minden kiegészítő kézi frissítése">
@@ -155,7 +164,7 @@
 
 <!ENTITY addon.homepage                       "Honlap">
 <!ENTITY addon.details.label                  "Tovább">
-<!ENTITY addon.details.tooltip                "További részletek errők a kiegészítőről">
+<!ENTITY addon.details.tooltip                "További részletek erről a kiegészítőről">
 <!ENTITY addon.unknownDate                    "Ismeretlen">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
