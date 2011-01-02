@@ -13,5 +13,6 @@
 <!ENTITY bookmarkGroup.accesskey "Г">
 <!ENTITY closeTabButton.tooltip "зачыніць гэтачасовую ўстаўку">
 <!ENTITY newTabButton.tooltip "Адчыніць новую ўстаўку">
+<!ENTITY listAllTabs.tooltip "Пералічыць усе ўстаўкі">
 <!ENTITY undoCloseTab.label "Адмяніць закрыццё ўстаўкі">
 <!ENTITY undoCloseTab.accesskey "А">
