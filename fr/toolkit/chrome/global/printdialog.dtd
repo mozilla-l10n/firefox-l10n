@@ -32,7 +32,7 @@
 <!ENTITY numCopies.accesskey "c">
 
 <!ENTITY printframeGroup.label "Imprimer les cadres">
-<!ENTITY aslaidoutRadio.label "Tels qu'ils sont à l'écran">
+<!ENTITY aslaidoutRadio.label "Tels qu'affichés à l'écran">
 <!ENTITY aslaidoutRadio.accesskey "e">
 <!ENTITY selectedframeRadio.label "Le cadre sélectionné">
 <!ENTITY selectedframeRadio.accesskey "L">
