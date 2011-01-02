@@ -1,0 +1,12 @@
+<!ENTITY empty.label "Cuardach">
+<!ENTITY newpref.label "Add a New Preference">
+<!ENTITY addpref.name "Ainm">
+<!ENTITY addpref.value "Luach">
+
+<!ENTITY cancel.label "Cealaigh">
+<!ENTITY reset.label "Bánaigh">
+<!ENTITY done.label "Déanta">
+
+<!ENTITY integer.label "Integer">
+<!ENTITY string.label "String">
+<!ENTITY boolean.label "Boolean">
