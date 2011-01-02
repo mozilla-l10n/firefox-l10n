@@ -45,14 +45,19 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 
 <!ENTITY importDialog.windowTitle "Iompórtáil">
-<!ENTITY importDialog.allTitle "Iompórtáil gach rud">
-<!ENTITY importDialog.mailTitle "Post">
-<!ENTITY importDialog.addressbookTitle "Leabhair Sheoltaí">
-<!ENTITY importDialog.settingsTitle "Socruithe">
-<!ENTITY importDialog.filtersTitle "Scagairí">
+<!ENTITY importAll.label "Iompórtáil Uile">
+<!ENTITY importAll.accesskey "U">
+<!ENTITY importMail.label "Ríomhphost">
+<!ENTITY importMail.accesskey "m">
+<!ENTITY importAddressbook.label "Leabhair Sheoltaí">
+<!ENTITY importAddressbook.accesskey "a">
+<!ENTITY importSettings.label "Socruithe">
+<!ENTITY importSettings.accesskey "r">
+<!ENTITY importFilters.label "Scagairí">
+<!ENTITY importFilters.accesskey "S">
 
 <!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
+<!ENTITY window.macWidth "54em">
 
 <!ENTITY importTitle.label "Treoraí Iompórtála &brandShortName;">
 <!ENTITY importShortDesc.label "Iompórtáil Teachtaireachtaí, Leabhair Seoltaí, Socruithe agus Scagairí ó ríomhchláir eile">
@@ -60,7 +65,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Iompórtálfaidh an treoraí seo teachtaireachtaí ríomhphoist, iontrálacha sa leabhar seoltaí, sainroghanna agus/nó scagairí ó ríomhchláir ríomhphoist eile agus ó fhormáideacha coitianta leabhar seoltaí eile go Ríomhphost &brandShortName;.">
 <!ENTITY importDescription2.label "Tar éis iad a bheith iompórtáilte, beidh tú in ann iad a rochtain ó &brandShortName;.">
 
-<!ENTITY selectDescription.label "Roghnaigh cineál an chomhaid a theastaíonn uait a iompórtáil:">
+<!ENTITY selectDescription.label "Roghnaigh cineál an chomhaid is mian leat iompórtáil:">
+<!ENTITY selectDescription.accesskey "R">
 
 <!ENTITY back.label "&lt; Siar">
 <!ENTITY forward.label "Ar Aghaidh &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label "Tá seoladh poist amháin ag Netscape Communicator 4.x le haghaidh gach cárta, ach tá dhá cheann (Baile agus Obair) ag &brandShortName;.">
 <!ENTITY FieldDiscInputText2.label "Roghnaigh an chatagóir ina dteastaíonn uait na seoltaí iompórtáilte a shábháil:">
 <!ENTITY FieldDiscWarning.label "Beidh gach iontráil sa leabhar seoltaí roghnaithe sa chatagóir seo: ">
-<!ENTITY importDialog.homeTitle "Baile">
-<!ENTITY importDialog.workTitle "Obair">
+<!ENTITY importHome.label "Baile">
+<!ENTITY importHome.accesskey "B">
+<!ENTITY importWork.label "Obair">
+<!ENTITY importWork.accesskey "O">

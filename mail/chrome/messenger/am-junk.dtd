@@ -4,7 +4,7 @@
 <!ENTITY level.accesskey "C">
 
 <!ENTITY move.label "Bog teachtaireachtaí nua dramhphoist go:">
-<!ENTITY move.accesskey "M">
+<!ENTITY move.accesskey "m">
 <!ENTITY junkFolderOn.label "an fillteán&quot;Dramhphost&quot; ar:">
 <!ENTITY junkFolderOn.accesskey "J">
 <!ENTITY otherFolder.label "Eile:">
@@ -17,4 +17,4 @@
 <!ENTITY whitelist.accesskey "N">
 
 <!ENTITY ispHeaders.label "Cuir muinín i gceanntásca dramhphoist a shocraigh:">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeaders.accesskey "t">

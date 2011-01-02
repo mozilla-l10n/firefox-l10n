@@ -41,7 +41,7 @@
 
 <!ENTITY dimensionsBox.label "Toisí">
 <!ENTITY heightEditField.label "Airde:">
-<!ENTITY heightEditField.accessKey "D">
+<!ENTITY heightEditField.accessKey "d">
 <!ENTITY widthEditField.label "Leithead:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY pixelsPopup.value "picteilíní">

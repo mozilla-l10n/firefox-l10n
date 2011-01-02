@@ -7,25 +7,25 @@
 <!ENTITY systemTypeRadio.label "Úsáid socruithe seachfhreastalaí an chórais">
 <!ENTITY systemTypeRadio.accesskey "s">
 <!ENTITY WPADTypeRadio.label "Aimsigh socruithe seachfhreastalaí an líonra seo go huathoibríoch">
-<!ENTITY WPADTypeRadio.accesskey "a">
+<!ENTITY WPADTypeRadio.accesskey "A">
 <!ENTITY manualTypeRadio.label "Lámhchumraíocht seachfhreastalaí:">
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY autoTypeRadio.label "URL Uathchumraíocht Seachfhreastalaí:">
-<!ENTITY autoTypeRadio.accesskey "A">
+<!ENTITY autoTypeRadio.accesskey "a">
 <!ENTITY reload.label "Athluchtaigh">
 <!ENTITY reload.accesskey "l">
 <!ENTITY http.label "Seachfhreastalaí HTTP:">
-<!ENTITY http.accesskey "h">
+<!ENTITY http.accesskey "H">
 <!ENTITY ssl.label "Seachfhreastalaí SSL:">
-<!ENTITY ssl.accesskey "s">
+<!ENTITY ssl.accesskey "S">
 <!ENTITY socks.label "Ósta SOCKS:">
-<!ENTITY socks.accesskey "c">
+<!ENTITY socks.accesskey "C">
 <!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "k">
+<!ENTITY socks4.accesskey "K">
 <!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "v">
 <!ENTITY HTTPport.label "Port:">
-<!ENTITY HTTPport.accesskey "p">
+<!ENTITY HTTPport.accesskey "P">
 <!ENTITY SSLport.label "Port:">
 <!ENTITY SSLport.accesskey "o">
 <!ENTITY SOCKSport.label "Port:">

@@ -35,19 +35,19 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY GeneratedName.label "Ainm">
-<!ENTITY GeneratedName.accesskey "N">
+<!ENTITY GeneratedName.accesskey "n">
 <!ENTITY PrimaryEmail.label "Ríomhphost">
 <!ENTITY PrimaryEmail.accesskey "R">
 <!ENTITY Company.label "Eagraíocht ">
-<!ENTITY Company.accesskey "e">
+<!ENTITY Company.accesskey "E">
 <!ENTITY _PhoneticName.label "Ainm Foghrach">
 <!ENTITY _PhoneticName.accesskey "o">
 <!ENTITY NickName.label "Leasainm">
 <!ENTITY NickName.accesskey "i">
 <!ENTITY SecondEmail.label "Seoladh Ríomhphoist sa Bhreis">
-<!ENTITY SecondEmail.accesskey "b">
+<!ENTITY SecondEmail.accesskey "B">
 <!ENTITY Department.label "Roinn">
-<!ENTITY Department.accesskey "r">
+<!ENTITY Department.accesskey "R">
 <!ENTITY JobTitle.label "Teideal">
 <!ENTITY JobTitle.accesskey "T">
 <!ENTITY CellularNumber.label "Fón Siúil">
@@ -60,8 +60,8 @@
 <!ENTITY HomePhone.accesskey "B">
 <!ENTITY WorkPhone.label "Fón Oibre">
 <!ENTITY WorkPhone.accesskey "O">
-<!ENTITY ScreenName.label "Ainm Scáileáin">
-<!ENTITY ScreenName.accesskey "S">
+<!ENTITY ScreenName.label "Ainm Taispeána">
+<!ENTITY ScreenName.accesskey "s">
 <!ENTITY sortAscending.label "Ag dul suas">
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "Ag dul síos">

@@ -54,15 +54,15 @@
 <!ENTITY InputName.label "Ainm Réimse:">
 <!ENTITY InputName.accesskey "R">
 <!ENTITY GroupName.label "Ainm Grúpa:">
-<!ENTITY GroupName.accesskey "N">
+<!ENTITY GroupName.accesskey "n">
 <!ENTITY InputValue.label "Luach Réimse:">
 <!ENTITY InputValue.accesskey "L">
 <!ENTITY InitialValue.label "Luach Tosaigh:">
 <!ENTITY InitialValue.accesskey "T">
 <!ENTITY InputChecked.label "Roghnaithe ar dTús">
-<!ENTITY InputChecked.accesskey "O">
+<!ENTITY InputChecked.accesskey "o">
 <!ENTITY InputSelected.label "Roghnaithe ar dTús">
-<!ENTITY InputSelected.accesskey "S">
+<!ENTITY InputSelected.accesskey "s">
 <!ENTITY InputReadOnly.label "Léamh Amháin">
 <!ENTITY InputReadOnly.accesskey "L">
 <!ENTITY InputDisabled.label "Díchumasaithe">
@@ -72,11 +72,11 @@
 <!ENTITY TextSize.label "Méid Réimse:">
 <!ENTITY TextSize.accesskey "R">
 <!ENTITY TextLength.label "Uasfhad:">
-<!ENTITY TextLength.accesskey "F">
+<!ENTITY TextLength.accesskey "f">
 <!ENTITY AccessKey.label "Eochair Rochtana:">
-<!ENTITY AccessKey.accesskey "C">
+<!ENTITY AccessKey.accesskey "c">
 <!ENTITY Accept.label "Glac le Cineálacha:">
-<!ENTITY Accept.accesskey "A">
+<!ENTITY Accept.accesskey "a">
 
 <!ENTITY ImageProperties.label "Airíonna Íomhá…">
-<!ENTITY ImageProperties.accesskey "M">
+<!ENTITY ImageProperties.accesskey "m">

@@ -42,7 +42,7 @@
 <!ENTITY ListType.label "Cineál an Liosta">
 <!ENTITY bulletStyle.label "Stíl Urchair:">
 <!ENTITY startingNumber.label "Tosaigh ag:">
-<!ENTITY startingNumber.accessKey "S">
+<!ENTITY startingNumber.accessKey "s">
 <!ENTITY none.value "Gan sonrú">
 <!ENTITY bulletList.value "Liosta (Neamhuimhrithe) le hUrchair">
 <!ENTITY numberList.value "Liosta Uimhrithe">
@@ -50,4 +50,4 @@
 <!ENTITY changeEntireListRadio.label "Athraigh an liosta iomlán">
 <!ENTITY changeEntireListRadio.accessKey "A">
 <!ENTITY changeSelectedRadio.label "Ná hathraigh ach na míreanna roghnaithe">
-<!ENTITY changeSelectedRadio.accessKey "I">
+<!ENTITY changeSelectedRadio.accessKey "i">

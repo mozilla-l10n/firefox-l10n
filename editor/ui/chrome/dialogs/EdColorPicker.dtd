@@ -37,7 +37,7 @@
 
 <!ENTITY windowTitle.label "Dath">
 <!ENTITY lastPickedColor.label "An dath roghnaithe roimhe seo">
-<!ENTITY lastPickedColor.accessKey "R">
+<!ENTITY lastPickedColor.accessKey "r">
 <!ENTITY setColor1.label "Cliceáil ar dhath nó">
 <!ENTITY setColor2.label "iontráil teaghrán datha HTML">
 <!ENTITY setColor2.accessKey "H">

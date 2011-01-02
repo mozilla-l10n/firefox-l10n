@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Síntiúis RSS">
+<!ENTITY feedSubscriptions.label "Síntiúis Fhotha">
 <!ENTITY subscriptionDesc.label "Nóta: ní chuirfidh baint nó athrú fillteáin fhotha isteach ar altanna atá íosluchtaithe cheana féin.">
 <!ENTITY feedTitle.label "Teideal:">
 <!ENTITY location.label "Suíomh:">
@@ -13,6 +13,6 @@
 <!ENTITY button.importOPML.label "Iompórtáil">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label "Easpórtáil">
-<!ENTITY button.exportOPML.accesskey "S">
+<!ENTITY button.exportOPML.accesskey "s">
 
 <!ENTITY cmd.close.commandKey "w">

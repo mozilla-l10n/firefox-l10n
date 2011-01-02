@@ -1,7 +1,16 @@
 <!ENTITY aboutDialog.title "Maidir le &brandFullName;">
-<!ENTITY credits.label "Admhálacha">
-<!ENTITY credits.accesskey "A">
-<!ENTITY aboutLink.label "&lt; Maidir le &brandFullName;">
-<!ENTITY aboutLink.accesskey "M">
+<!ENTITY aboutButton.label "&lt; Siar">
+<!ENTITY aboutButton.accesskey "S">
 <!ENTITY aboutVersion "leagan">
-<!ENTITY copyrightText "&#169;1998-2008 le lucht déanta a gcion. Gach ceart ar cosaint. Is trádmharcanna de chuid Fondúireacht Mozilla iad Mozilla Thunderbird agus suaitheantais Thunderbird. Gach ceart ar cosaint.">
+<!ENTITY aboutMenu.label "Maidir Leis">
+<!ENTITY aboutMenu.accesskey "a">
+<!ENTITY aboutCredits.label "Admhálacha">
+<!ENTITY aboutCredits.accesskey "A">
+<!ENTITY aboutRights.label "Do Chearta">
+<!ENTITY aboutRights.accesskey "r">
+<!ENTITY aboutContributors.label "Cuiditheoirí">
+<!ENTITY aboutContributors.accesskey "u">
+<!ENTITY aboutLicense.label "Ceadúnas">
+<!ENTITY aboutLicense.accesskey "C">
+
+<!ENTITY cmdCloseMac.commandKey "w">

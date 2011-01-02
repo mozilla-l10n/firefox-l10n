@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title "Liostáil">
+<!ENTITY subscribeDialog.title "Subscribe">
 <!ENTITY subscribeButton.label "Liostáil">
-<!ENTITY subscribeButton.accesskey "S">
+<!ENTITY subscribeButton.accesskey "s">
 <!ENTITY unsubscribeButton.label "Díliostáil">
 <!ENTITY unsubscribeButton.accesskey "D">
 <!ENTITY newGroupsTab.label "Grúpaí Nua">
@@ -45,9 +45,9 @@
 <!ENTITY refreshButton.label "Athnuaigh">
 <!ENTITY refreshButton.accesskey "A">
 <!ENTITY stopButton.label "Stad">
-<!ENTITY stopButton.accesskey "T">
+<!ENTITY stopButton.accesskey "t">
 <!ENTITY server.label "Cuntas:">
 <!ENTITY server.accesskey "C">
-<!ENTITY subscribedHeader.label "Liostáil">
+<!ENTITY subscribedHeader.label "Subscribe">
 <!ENTITY namefield.label "Taispeáin míreanna ina bhfuil:">
-<!ENTITY namefield.accesskey "M">
+<!ENTITY namefield.accesskey "m">

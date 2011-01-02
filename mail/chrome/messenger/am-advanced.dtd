@@ -1,17 +1,17 @@
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpServer.label "Socruithe an fhreastalaí amach (SMTP)">
+<!ENTITY smtpServer.label "Outgoing Server (SMTP) Settings">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDesc.label "Cé gur féidir níos mó ná freastalaí amháin SMTP a shonrú, ní mholtar é seo ach do shárúsáideoirí.">
+<!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
 
 <!ENTITY smtpListAdd.label "Cuir Leis…">
-<!ENTITY smtpListAdd.accesskey "c">
+<!ENTITY smtpListAdd.accesskey "C">
 <!ENTITY smtpListEdit.label "Eagar…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Bain">
-<!ENTITY smtpListDelete.accesskey "b">
+<!ENTITY smtpListDelete.accesskey "B">
 <!ENTITY smtpListSetDefault.label "Réamhshocraigh">
 <!ENTITY smtpListSetDefault.accesskey "s">
 
@@ -19,5 +19,5 @@
 <!ENTITY serverName.label "Ainm an Fhreastalaí: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label "Ainm Úsáideora: ">
-<!ENTITY useSecureConnection.label "Nasc Daingean: ">
-<!ENTITY useSecureAuthentication.label "Fíordheimhniú slán:">
+<!ENTITY connectionSecurity.label "Slándáil an Cheangail: ">
+<!ENTITY authMethod.label "Modh fíordheimhnithe: ">

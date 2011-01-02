@@ -37,6 +37,6 @@
 
 <!ENTITY windowTitle.label "Airíonna an Ancaire Ainmnithe">
 <!ENTITY anchorNameEditField.label "Ainm an Ancaire:">
-<!ENTITY anchorNameEditField.accessKey "N">
+<!ENTITY anchorNameEditField.accessKey "n">
 <!ENTITY nameInput.tooltip "Iontráil ainm uathúil don ancaire ainmnithe seo (sprioc)">
 

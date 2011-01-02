@@ -46,13 +46,13 @@
 <!ENTITY suggestions.label "Moltaí:">
 <!ENTITY suggestions.accessKey "o">
 <!ENTITY ignoreButton.label "Tabhair neamhaird air">
-<!ENTITY ignoreButton.accessKey "I">
+<!ENTITY ignoreButton.accessKey "i">
 <!ENTITY ignoreAllButton.label "Tabhair Neamhaird ar Gach Rud">
-<!ENTITY ignoreAllButton.accessKey "n">
+<!ENTITY ignoreAllButton.accessKey "N">
 <!ENTITY replaceButton.label "Ionadaigh">
 <!ENTITY replaceButton.accessKey "I">
 <!ENTITY replaceAllButton.label "Ionadaigh Uile">
-<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY replaceAllButton.accessKey "a">
 <!ENTITY stopButton.label "Stad">
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "Foclóir Pearsanta:">

@@ -45,31 +45,31 @@
 <!-- File menu -->
 
 <!ENTITY mapfileMenu.label "Comhad">
-<!ENTITY mapfileMenu.accesskey "c">
+<!ENTITY mapfileMenu.accesskey "C">
 <!ENTITY clearCmd.label "Bánaigh">
 <!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Dún">
-<!ENTITY closeCmd.accesskey "d">
+<!ENTITY closeCmd.accesskey "D">
 <!-- Edit menu -->
 
 <!ENTITY mapeditMenu.label "Eagar">
-<!ENTITY mapeditMenu.accesskey "e">
+<!ENTITY mapeditMenu.accesskey "E">
 <!ENTITY cutCmd.label "Gearr">
-<!ENTITY cutCmd.accesskey "g">
+<!ENTITY cutCmd.accesskey "G">
 <!ENTITY copyCmd.label "Cóipeáil">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Greamaigh">
 <!ENTITY pasteCmd.accesskey "r">
 <!ENTITY selectallCmd.label "Roghnaigh Gach Rud">
-<!ENTITY selectallCmd.accesskey "r">
+<!ENTITY selectallCmd.accesskey "R">
 <!ENTITY propsCmd.label "Airíonna an Bhaill Te">
-<!ENTITY propsCmd.accesskey "a">
+<!ENTITY propsCmd.accesskey "A">
 <!-- View menu -->
 
 <!ENTITY mapviewMenu.label "Amharc">
-<!ENTITY mapviewMenu.accesskey "a">
+<!ENTITY mapviewMenu.accesskey "A">
 <!ENTITY showhideTbarCmd.label "Folaigh an Barra Uirlisí">
-<!ENTITY showhideTbarCmd.accesskey "u">
+<!ENTITY showhideTbarCmd.accesskey "U">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Scála">
 <!ENTITY mapviewScale.accesskey "S">

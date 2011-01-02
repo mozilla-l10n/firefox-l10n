@@ -6,31 +6,18 @@
 <!-- General Settings -->
 
 
-<!ENTITY enableGloda.label "Cumasaigh an tInneacsóir Teachtaireachtaí">
-<!ENTITY enableGloda.accesskey "i">
-<!ENTITY showCondensedAddresses.label "Ná taispeáin ach an t-ainm taispeána do dhaoine i mo leabhar seoltaí">
-<!ENTITY showCondensedAddresses.accesskey "p">
-
-<!ENTITY autoMarkAsRead.label "Marcáil teachtaireachtaí mar léite go huathoibríoch">
-<!ENTITY autoMarkAsRead.accesskey "U">
-<!ENTITY markAsReadNoDelay.label "Ar taispeáint láithreach">
-<!ENTITY markAsReadNoDelay.accesskey "t">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "Tar éis taispeáint ar feadh">
-<!ENTITY markAsReadDelay.accesskey "e">
-<!ENTITY secondsLabel.label "soicind">
-<!ENTITY showFolderColumns.label "Taispeáin colúin fhairsingithe i bpána na bhfillteán">
-<!ENTITY showFolderColumns.accesskey "l">
-<!ENTITY openMsgIn.label "Oscail teachtaireachtaí:">
-<!ENTITY reuseExpRadio0.label "I bhfuinneog nua teachtaireachta">
-<!ENTITY reuseExpRadio0.accesskey "n">
-<!ENTITY reuseExpRadio1.label "I bhfuinneog theachtaireachta atá ann">
-<!ENTITY reuseExpRadio1.accesskey "f">
+<!ENTITY enableGlodaSearch.label "Cumasaigh Cuardach Cuimsitheach agus an tInneacsóir">
+<!ENTITY enableGlodaSearch.accesskey "e">
+<!ENTITY systemIntegration.label "Comhtháthú Córais">
+<!ENTITY alwaysCheckDefault.label "Seiceáil i gcónaí ag am tosaithe an é &brandShortName; an cliant réamhshocraithe ríomhphoist">
+<!ENTITY alwaysCheckDefault.accesskey "a">
+<!ENTITY searchIntegration.label "Ceadaigh do &searchIntegration.engineName; teachtaireachtaí a chuardach">
+<!ENTITY searchIntegration.accesskey "C">
+<!ENTITY checkNow.label "Seiceáil Anois">
+<!ENTITY checkNow.accesskey "n">
 <!ENTITY configEditDesc.label "Cumraíocht Chasta">
 <!ENTITY configEdit.label "Eagarthóir Cumraíochta…">
-<!ENTITY configEdit.accesskey "g">
+<!ENTITY configEdit.accesskey "C">
 <!ENTITY returnReceiptsInfo.label "Socraigh conas a láimhseálann &brandShortName; admhálacha léite">
 <!ENTITY showReturnReceipts.label "Admhálacha Léite…">
 <!ENTITY showReturnReceipts.accesskey "L">
@@ -38,27 +25,48 @@
 
 <!ENTITY reading.caption "Léamh">
 <!ENTITY display.caption "Taispeáint">
+<!ENTITY showCondensedAddresses.label "Ná taispeáin ach an t-ainm taispeána le haghaidh daoine atá i mo leabhar seoltaí">
+<!ENTITY showCondensedAddresses.accesskey "s">
+
+<!ENTITY autoMarkAsRead.label "Marcáil teachtaireachtaí mar léite go huathoibríoch">
+<!ENTITY autoMarkAsRead.accesskey "u">
+<!ENTITY markAsReadNoDelay.label "Chomh luath agus a thaispeántar iad">
+<!ENTITY markAsReadNoDelay.accesskey "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label "After displaying for">
+<!ENTITY markAsReadDelay.accesskey "d">
+<!ENTITY secondsLabel.label "soicind">
+<!ENTITY openMsgIn.label "Oscail teachtaireachtaí:">
+<!ENTITY openMsgInNewTab.label "i gcluaisín nua">
+<!ENTITY openMsgInNewTab.accesskey "n">
+<!ENTITY reuseExpRadio0.label "i bhfuinneog nua theachtaireachta">
+<!ENTITY reuseExpRadio0.accesskey "n">
+<!ENTITY reuseExpRadio1.label "i bhfuinneog theachtaireachta atá ann cheana">
+<!ENTITY reuseExpRadio1.accesskey "e">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label "Close message window on move or delete">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
 <!-- Update -->
 
-<!ENTITY autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcóir:">
+<!ENTITY autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcomhair:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "Breiseáin Shuiteáilte">
-<!ENTITY enableAddonsUpdate.accesskey "n">
-<!ENTITY checkNow.label "Seiceáil Anois…">
+<!ENTITY enableAddonsUpdate.label "Breiseáin shuiteáilte">
+<!ENTITY enableAddonsUpdate.accesskey "r">
 <!ENTITY whenUpdatesFound.label "Agus nuashonruithe do &brandShortName; aimsithe,">
-<!ENTITY modeAskMe.label "Fiafraigh díom cad atá le déanamh">
-<!ENTITY modeAskMe.accesskey "c">
+<!ENTITY modeAskMe.label "fiafraigh díom cad atá le déanamh">
+<!ENTITY modeAskMe.accesskey "e">
 <!ENTITY modeAutomatic.label "Íosluchtaigh agus suiteáil an nuashonrú go huathoibríoch">
 <!ENTITY modeAutomatic.accesskey "l">
 <!ENTITY modeAutoAddonWarn.label "Tabhair rabhadh dom má tá breiseán díchumasaithe dá mbarr">
-<!ENTITY modeAutoAddonWarn.accesskey "d">
+<!ENTITY modeAutoAddonWarn.accesskey "T">
 <!ENTITY showUpdates.label "Taispeáin Stair na Nuashonruithe">
-<!ENTITY showUpdates.accesskey "n">
+<!ENTITY showUpdates.accesskey "s">
 <!-- Networking and Disk Space -->
 
 <!ENTITY showSettings.label "Socruithe…">
-<!ENTITY showSettings.accesskey "r">
+<!ENTITY showSettings.accesskey "S">
 <!ENTITY proxiesConfigure.label "Cumraigh conas a cheanglófar &brandShortName; leis an Idirlíon">
 <!ENTITY connectionsInfo.caption "Ceangal">
 <!ENTITY offlineInfo.caption "As Líne">
@@ -68,7 +76,7 @@
 
 <!ENTITY Diskspace "Spás Diosca">
 <!ENTITY offlineCompact.label "Dlúthaigh fillteáin má sábhálfar níos mó ná">
-<!ENTITY offlineCompact.accesskey "b">
+<!ENTITY offlineCompact.accesskey "a">
 <!ENTITY kb.label "kB">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -78,17 +86,23 @@
 -->
 
 <!ENTITY useCacheBefore.label "Úsáid suas le">
-<!ENTITY useCacheBefore.accesskey "S">
+<!ENTITY useCacheBefore.accesskey "s">
 <!ENTITY useCacheAfter.label "MB spás don taisce">
 <!ENTITY clearCacheNow.label "Bánaigh Anois">
 <!ENTITY clearCacheNow.accesskey "B">
 <!-- Certificates -->
 
+<!ENTITY certSelection.description "Nuair atá freastalaí ag iarraidh mo theastas pearsanta:">
+<!ENTITY certs.auto "Roghnaigh go huathoibríoch">
+<!ENTITY certs.auto.accesskey "m">
+<!ENTITY certs.ask "Fiafraigh díom i gcónaí">
+<!ENTITY certs.ask.accesskey "W">
+
 <!ENTITY viewCertificates.label "Taispeáin Teastais">
-<!ENTITY viewCertificates.accesskey "a">
+<!ENTITY viewCertificates.accesskey "s">
 <!ENTITY viewCRLs.label "Liostaí Cúlghairme">
-<!ENTITY viewCRLs.accesskey "e">
+<!ENTITY viewCRLs.accesskey "L">
 <!ENTITY validation.label "Bailíochtú">
-<!ENTITY validation.accesskey "b">
+<!ENTITY validation.accesskey "B">
 <!ENTITY viewSecurityDevices.label "Gléasanna Slándála">
-<!ENTITY viewSecurityDevices.accesskey "s">
+<!ENTITY viewSecurityDevices.accesskey "S">

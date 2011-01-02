@@ -38,12 +38,12 @@
 <!-- extracted from EdReplace.xul -->
 
 
-<!ENTITY replaceDialog.title "Aimsigh agus Athchuir">
+<!ENTITY replaceDialog.title "Aimsigh agus Ionadaigh">
 <!ENTITY findField.label "Cuardaigh téacs:">
 <!ENTITY findField.accesskey "r">
 <!ENTITY replaceField.label "Ionadaigh le:">
 <!ENTITY replaceField.accesskey "e">
-<!ENTITY caseSensitiveCheckbox.label "Meatseáil an cás go beacht">
+<!ENTITY caseSensitiveCheckbox.label "Meaitseáil an cás go beacht">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Timfhill">
 <!ENTITY wrapCheckbox.accesskey "T">
@@ -53,8 +53,8 @@
 <!ENTITY findNextButton.accesskey "E">
 <!ENTITY replaceButton.label "Ionadaigh">
 <!ENTITY replaceButton.accesskey "I">
-<!ENTITY replaceAndFindButton.label "Athchuir agus Aimsigh">
-<!ENTITY replaceAndFindButton.accesskey "a">
+<!ENTITY replaceAndFindButton.label "Ionadaigh agus Aimsigh">
+<!ENTITY replaceAndFindButton.accesskey "d">
 <!ENTITY replaceAllButton.label "Ionadaigh Uile">
-<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY replaceAllButton.accesskey "a">
 <!ENTITY closeButton.label "Dún">

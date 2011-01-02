@@ -11,8 +11,8 @@
 <!ENTITY viewTags.label "Clibeanna">
 <!ENTITY viewTags.accesskey "C">
 <!ENTITY viewCustomViews.label "Amhairc Shaincheaptha">
-<!ENTITY viewCustomViews.accesskey "M">
+<!ENTITY viewCustomViews.accesskey "m">
 <!ENTITY viewVirtualFolder.label "Sábháil an tAmharc mar Fhillteán…">
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "Saincheap…">
-<!ENTITY viewCustomizeView.accesskey "C">
+<!ENTITY viewCustomizeView.accesskey "c">

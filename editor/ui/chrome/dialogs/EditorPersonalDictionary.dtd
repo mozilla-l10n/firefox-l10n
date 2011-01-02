@@ -39,7 +39,7 @@
 <!ENTITY windowTitle.label "Foclóir Pearsanta">
 
 <!ENTITY wordEditField.label "Focal nua:">
-<!ENTITY wordEditField.accessKey "N">
+<!ENTITY wordEditField.accessKey "n">
 <!ENTITY AddButton.label "Cuir Leis">
 <!ENTITY AddButton.accessKey "L">
 <!ENTITY DictionaryList.label "Focail san fhoclóir:">

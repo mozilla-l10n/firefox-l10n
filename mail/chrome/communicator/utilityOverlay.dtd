@@ -3,12 +3,12 @@
 
 
 <!ENTITY fileMenu.label "Comhad">
-<!ENTITY fileMenu.accesskey "c">
+<!ENTITY fileMenu.accesskey "C">
 <!ENTITY newMenu.label "Nua">
 <!ENTITY newMenu.accesskey "N">
 
 <!ENTITY editMenu.label "Eagar">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Cealaigh">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "l">
@@ -17,25 +17,25 @@
 <!ENTITY redoCmd.accesskey "f">
 <!ENTITY cutCmd.label "Gearr">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "g">
+<!ENTITY cutCmd.accesskey "G">
 <!ENTITY copyCmd.label "Cóipeáil">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Greamaigh">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "r">
 <!ENTITY deleteCmd.label "Scrios">
-<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">
 <!ENTITY selectAllCmd.key "W">
-<!ENTITY selectAllCmd.accesskey "u">
+<!ENTITY selectAllCmd.accesskey "U">
 <!ENTITY preferencesCmd.label "Roghanna…">
 <!ENTITY preferencesCmd.accesskey "R">
 <!ENTITY preferencesCmdUnix.label "Sainroghanna">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!ENTITY viewMenu.label "Amharc">
-<!ENTITY viewMenu.accesskey "a">
+<!ENTITY viewMenu.accesskey "A">
 <!ENTITY viewToolbarsMenu.label "Barraí Uirlisí">
 <!ENTITY viewToolbarsMenu.accesskey "U">
 <!ENTITY showTaskbarCmd.label "Barra Stádais">
@@ -46,16 +46,14 @@
 
 <!ENTITY closeCmd.label "Dún">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "d">
-
-<!ENTITY closeWindow.label "Dún an Fhuinneog">
+<!ENTITY closeCmd.accesskey "D">
 
 <!ENTITY quitApplicationCmd.label "Scoir">
 <!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "s">
+<!ENTITY quitApplicationCmd.accesskey "S">
 
 <!ENTITY quitApplicationCmdUnix.label "Scoir">
-<!ENTITY quitApplicationCmdUnix.accesskey "s">
+<!ENTITY quitApplicationCmdUnix.accesskey "S">
 
-<!ENTITY quitApplicationCmdMac.label "Scoir ó &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey "s">
+<!ENTITY quitApplicationCmdMac.label "Scoir &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "S">

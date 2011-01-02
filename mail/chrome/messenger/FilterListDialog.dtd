@@ -8,12 +8,12 @@
 <!ENTITY deleteButton.label "Scrios">
 <!ENTITY deleteButton.accesskey "o">
 <!ENTITY reorderUpButton.label "Bog Suas">
-<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderUpButton.accesskey "u">
 <!ENTITY reorderDownButton.label "Bog Síos">
-<!ENTITY reorderDownButton.accesskey "O">
+<!ENTITY reorderDownButton.accesskey "o">
 <!ENTITY filterHeader.label "Ritear scagairí cumasaithe san ord thíos go huathoibríoch .">
 <!ENTITY filtersForPrefix.label "Scagairí do:">
-<!ENTITY filtersForPrefix.accesskey "G">
+<!ENTITY filtersForPrefix.accesskey "g">
 <!ENTITY viewLogButton.label "Loga na Scagairí">
 <!ENTITY viewLogButton.accesskey "L">
 <!ENTITY runFilters.label "Rith Anois">
@@ -25,5 +25,5 @@
 <!ENTITY choosethis.label "roghnaigh an fillteán seo">
 <!ENTITY choosethisnewsserver.label "roghnaigh an freastalaí nuachta seo">
 <!ENTITY helpButton.label "Cabhair">
-<!ENTITY helpButton.accesskey "H">
+<!ENTITY helpButton.accesskey "h">
 <!ENTITY closeCmd.key "W">

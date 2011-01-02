@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label "Socruithe dramhphoist">
 <!ENTITY offlineLink.label "Socruithe as líne">
 
-<!ENTITY rssSectionHdr.label "Nuacht RSS &amp; Blaganna">
-<!ENTITY subscibeRSS.label "Bainistigh síntiúis">
+<!ENTITY feedsSectionHdr.label "Fothaí">
+<!ENTITY subscribeFeeds.label "Bainistigh síntiúis">

@@ -38,12 +38,12 @@
 
 <!ENTITY Select.label "Liosta Roghnúcháin">
 <!ENTITY SelectName.label "Ainm an Liosta:">
-<!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectName.accesskey "n">
 <!ENTITY SelectSize.label "Airde:">
 <!ENTITY SelectSize.accesskey "A">
 <!ENTITY SelectMultiple.label "Ilroghnú">
 <!ENTITY SelectMultiple.accesskey "I">
-<!ENTITY SelectDisabled.label "Díchumasaithe">
+<!ENTITY SelectDisabled.label "Disabled">
 <!ENTITY SelectDisabled.accesskey "D">
 <!ENTITY SelectTabIndex.label "Innéacs Cluaisín:">
 <!ENTITY SelectTabIndex.accesskey "I">
@@ -51,7 +51,7 @@
 <!ENTITY OptGroup.label "Grúpa Roghanna">
 <!ENTITY OptGroupLabel.label "Lipéad:">
 <!ENTITY OptGroupLabel.accesskey "L">
-<!ENTITY OptGroupDisabled.label "Díchumasaithe">
+<!ENTITY OptGroupDisabled.label "Disabled">
 <!ENTITY OptGroupDisabled.accesskey "D">
 
 <!ENTITY Option.label "Rogha">
@@ -60,8 +60,8 @@
 <!ENTITY OptionValue.label "Luach:">
 <!ENTITY OptionValue.accesskey "L">
 <!ENTITY OptionSelected.label "Roghnaithe ar dTús">
-<!ENTITY OptionSelected.accesskey "S">
-<!ENTITY OptionDisabled.label "Díchumasaithe">
+<!ENTITY OptionSelected.accesskey "s">
+<!ENTITY OptionDisabled.label "Disabled">
 <!ENTITY OptionDisabled.accesskey "D">
 
 <!ENTITY TextHeader.label "Téacs">
@@ -69,12 +69,12 @@
 <!ENTITY SelectedHeader.label "Roghnaithe">
 
 <!ENTITY AddOption.label "Cuir Rogha Leis">
-<!ENTITY AddOption.accesskey "O">
+<!ENTITY AddOption.accesskey "o">
 <!ENTITY AddOptGroup.label "Cuir Grúpa Leis">
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "Bain">
 <!ENTITY RemoveElement.accesskey "B">
 <!ENTITY MoveElementUp.label "Bog Suas">
-<!ENTITY MoveElementUp.accesskey "U">
+<!ENTITY MoveElementUp.accesskey "u">
 <!ENTITY MoveElementDown.label "Bog Síos">
-<!ENTITY MoveElementDown.accesskey "O">
+<!ENTITY MoveElementDown.accesskey "o">

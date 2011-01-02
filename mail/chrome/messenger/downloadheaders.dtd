@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY all.label "Íosluchtaigh gach ceanntásc">
-<!ENTITY all.accesskey "L">
+<!ENTITY all.accesskey "l">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
    with the number of headers to be downloaded inserted between them:
@@ -47,7 +47,7 @@
 <!ENTITY download.label "Íosluchtaigh">
 <!ENTITY download.accesskey "o">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label "ceanntásca">
-<!ENTITY headers.accesskey "c">
+<!ENTITY headers.label "headers">
+<!ENTITY headers.accesskey "h">
 <!ENTITY mark.label "Marcáil mar léite na ceanntásca atá fágtha">
 <!ENTITY mark.accesskey "M">

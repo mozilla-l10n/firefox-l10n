@@ -1,20 +1,23 @@
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Cabhair">
-<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenu.accesskey "h">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Cabhair">
-<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY helpMenuWin.accesskey "h">
 <!ENTITY releaseCmd.label "Nótaí Eisiúna">
 <!ENTITY releaseCmd.accesskey "N">
+<!ENTITY whatsNewCmd.label "Is Geal Gach Nua">
+<!ENTITY whatsNewCmd.accesskey "G">
+<!ENTITY featureConfiguratorCmd.label "Cúntóir Ascnaimh">
+<!ENTITY featureConfiguratorCmd.accesskey "m">
 <!ENTITY openHelp.label "Ábhar Cabhrach">
-<!ENTITY openHelp.accesskey "H">
+<!ENTITY openHelp.accesskey "h">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Cabhair &brandShortName;">
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers "accel">
 
 <!ENTITY updateCmd.label "Lorg Nuashonruithe…">
-<!ENTITY updateCmd.accesskey "o">
-<!ENTITY aboutCmd.label "Maidir le &brandFullName;">
-<!ENTITY aboutCmd.accesskey "M">
+<!ENTITY aboutMenuCmd.label "Maidir le &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "M">
