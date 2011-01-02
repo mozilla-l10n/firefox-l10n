@@ -79,7 +79,7 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Verktøylinjer">
 <!ENTITY viewToolbarsMenu.accesskey                     "v"> 
-<!ENTITY showAbToolbarCmd.label                         "Verktøylinje for adressebok">
+<!ENTITY showAbToolbarCmd.label                         "Adresseboklinje">
 <!ENTITY showAbToolbarCmd.accesskey                     "A">
 <!ENTITY showTaskbarCmd.label                           "Statuslinje">
 <!ENTITY showTaskbarCmd.accesskey                       "t">
