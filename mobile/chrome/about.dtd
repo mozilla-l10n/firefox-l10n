@@ -1,18 +1,18 @@
-<!ENTITY aboutPage.title "About &brandShortName;">
-<!ENTITY aboutPage.faq.label "FAQ">
-<!ENTITY aboutPage.support.label "Support">
+<!ENTITY aboutPage.title "Maidir le &brandShortName;">
+<!ENTITY aboutPage.faq.label "Ceisteanna Coitianta">
+<!ENTITY aboutPage.support.label "Tacaíocht">
 <!ENTITY aboutPage.privacyPolicy.label "Polasaí Príobháideachta">
-<!ENTITY aboutPage.rights.label "Know Your Rights">
-<!ENTITY aboutPage.relNotes.label "Release Notes">
-<!ENTITY aboutPage.credits.label "Credits">
+<!ENTITY aboutPage.rights.label "Do Chearta">
+<!ENTITY aboutPage.relNotes.label "Nótaí Eisiúna">
+<!ENTITY aboutPage.credits.label "Admhálacha">
 <!ENTITY aboutPage.checkForUpdates.button "Lorg Nuashonruithe">
-<!ENTITY aboutPage.checkForUpdates.checking "Looking for updates…">
-<!ENTITY aboutPage.checkForUpdates.none "No updates available">
-<!ENTITY aboutPage.checkForUpdates.found "Update available">
+<!ENTITY aboutPage.checkForUpdates.checking "Nuashonruithe á lorg…">
+<!ENTITY aboutPage.checkForUpdates.none "Níl aon nuashonruithe ar fáil">
+<!ENTITY aboutPage.checkForUpdates.found "Nuashonrú le fáil">
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
 
 
-<!ENTITY aboutPage.licenseLink "Licensing information">
+<!ENTITY aboutPage.licenseLink "Maidir leis an gceadúnas">
 <!ENTITY aboutPage.licenseLinkSuffix ".">
