@@ -55,8 +55,8 @@ spáis agat chun é a shuiteáil.">
 
 <!ENTITY genericBackgroundError.label "Ní féidir le &brandShortName; a dhéanamh amach an bhfuil nuashonrú ar fáil. Bí cinnte 
 go bhfuil an leagan is déanaí de &brandShortName; agat ó:">
-<!ENTITY errorCertAttrNoUpdate2.label "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY errorCertAttrNoUpdate2.label "Ar fáth éigin, ní féidir le &brandShortName; nuashonrú go sábháilte. 
+Bí cinnte go bhfuil an leagan is déanaí de &brandShortName; agat ó:">
 <!ENTITY errorCertAttrHasUpdate.label "Tá rud éigin ag iarraidh cluain a chur ar &brandShortName; sa 
 chaoi go nglacfaidh sé le nuashonrú contúirteach. Téigh i dteagmháil le do sholáthraí seirbhísí Idirlín chun cabhair a fháil.">
 
