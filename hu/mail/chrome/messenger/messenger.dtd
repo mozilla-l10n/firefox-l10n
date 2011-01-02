@@ -73,14 +73,10 @@
 <!ENTITY deleteMsgCmd.accesskey "t">
 <!ENTITY undeleteMsgCmd.label "Törölt üzenet visszaállítása">
 <!ENTITY undeleteMsgCmd.accesskey "v">
-<!ENTITY cancelNewsMsgCmd.label "Üzenet érvénytelenítése">
-<!ENTITY cancelNewsMsgCmd.accesskey "z">
 <!ENTITY deleteMsgsCmd.label "Kijelölt üzenetek törlése">
 <!ENTITY deleteMsgsCmd.accesskey "i">
 <!ENTITY undeleteMsgsCmd.label "Kijelölt üzenetek visszaállítása">
 <!ENTITY undeleteMsgsCmd.accesskey "l">
-<!ENTITY cancelNewsMsgsCmd.label "Kijelölt üzenetek érvénytelenítése">
-<!ENTITY cancelNewsMsgsCmd.accesskey "t">
 <!ENTITY deleteFolderCmd.label "Mappa törlése">
 <!ENTITY deleteFolderCmd.accesskey "l">
 <!ENTITY unsubscribeNewsgroupCmd.label "Leiratkozás">
@@ -313,6 +309,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Csillagozott üzenet">
 <!ENTITY prevStarredMsgCmd.accesskey "C">
+<!ENTITY folderMenu.label "Mappa">
+<!ENTITY folderMenu.accesskey "M">
+<!ENTITY thisFolder.label "Ez a mappa">
+<!ENTITY thisFolder.accesskey "E">
 <!ENTITY startPageCmd.label "Levelező kezdőoldala">
 <!ENTITY startPageCmd.accesskey "k">
 
@@ -326,6 +326,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Archiválás">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Üzenet érvénytelenítése">
+<!ENTITY cancelNewsMsgCmd.accesskey "z">
 <!ENTITY replyMsgCmd.label "Válasz">
 <!ENTITY replyMsgCmd.accesskey "V">
 <!ENTITY replyMsgCmd.key  "r">

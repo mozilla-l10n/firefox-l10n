@@ -1,1 +1,3 @@
-<!ENTITY closeNotification.tooltip "Üzenet bezárása"> 
+<!ENTITY closeNotification.tooltip "Üzenet bezárása">
+
+<!ENTITY closeNotificationItem.label "Most nem">

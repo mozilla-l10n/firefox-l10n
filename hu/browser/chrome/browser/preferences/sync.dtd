@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Saját Sync-kulcs">
 <!ENTITY resetSync.label              "Sync alaphelyzetbe">
 <!ENTITY stopUsingAccount.label       "Fiók használatának abbahagyása">
+<!ENTITY addDevice.label              "Eszköz hozzáadása">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Böngésző szinkronizálása">

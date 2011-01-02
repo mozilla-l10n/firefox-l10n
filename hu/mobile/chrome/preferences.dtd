@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "A &brandShortName; névjegye">
 <!ENTITY about.button                              "Ugrás az oldalra">
 <!ENTITY content.title                             "Tartalom">
+<!ENTITY reflowZoom.title                          "Szöveg újraformázása nagyításkor">
 <!ENTITY showImages.title                          "Képek megjelenítése">
 <!ENTITY enableJavaScript.title                    "JavaScript engedélyezése">
 <!ENTITY enablePlugins.title                       "Bővítmények engedélyezése">
