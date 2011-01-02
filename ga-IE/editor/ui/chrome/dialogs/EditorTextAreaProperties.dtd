@@ -51,14 +51,14 @@
 <!ENTITY TextAreaTabIndex.label "Innéacs Cluaisín:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
 <!ENTITY TextAreaAccessKey.label "Eochair Rochtana:">
-<!ENTITY TextAreaAccessKey.accessKey "C">
+<!ENTITY TextAreaAccessKey.accessKey "c">
 <!ENTITY InitialText.label "Téacs ar dTús:">
 <!ENTITY InitialText.accessKey "T">
 
 <!ENTITY TextAreaWrap.label "Mód Timfhillte:">
 <!ENTITY TextAreaWrap.accessKey "M">
-<!ENTITY WrapDefault.value "Réamhshocraithe">
-<!ENTITY WrapOff.value "Múchta">
+<!ENTITY WrapDefault.value "Réamhshocrú">
+<!ENTITY WrapOff.value "As">
 <!ENTITY WrapHard.value "Crua">
 <!ENTITY WrapSoft.value "Bog">
 <!ENTITY WrapPhysical.value "Fisiceach">

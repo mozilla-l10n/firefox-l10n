@@ -35,54 +35,84 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "chuig ">
-<!ENTITY fromField2.label "ó ">
-<!ENTITY senderField2.label "seoltóir ">
-<!ENTITY organizationField2.label "eagras ">
-<!ENTITY replyToField2.label "freagra-chuig ">
+<!ENTITY toField2.label "Chuig ">
+<!ENTITY fromField2.label "Ó ">
+<!ENTITY senderField2.label "Seoltóir ">
+<!ENTITY organizationField2.label "Eagras ">
+<!ENTITY replyToField2.label "Freagra-chuig ">
 
-<!ENTITY subjectField2.label "ábhar ">
+<!ENTITY subjectField2.label "Ábhar ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "grúpaí-nuachta ">
-<!ENTITY followupToField2.label "leanúint-chuig ">
-<!ENTITY tagsHdr2.label "clibeanna ">
-<!ENTITY dateField2.label "dáta ">
-<!ENTITY userAgentField2.label "clár-ríomhphoist ">
-<!ENTITY referencesField2.label "tagairtí ">
-<!ENTITY messageIdField2.label "aitheantas-teachtaireachta ">
-<!ENTITY inReplyToField2.label "freagra-ar ">
-<!ENTITY originalWebsite2.label "suíomh-gréasáin ">
+<!ENTITY bccField2.label "Bcc ">
+<!ENTITY newsgroupsField2.label "Grúpaí-nuachta ">
+<!ENTITY followupToField2.label "Leanúint-chuig ">
+<!ENTITY tagsHdr2.label "Clibeanna ">
+<!ENTITY dateField2.label "Dáta ">
+<!ENTITY userAgentField2.label "Clár-ríomhphoist ">
+<!ENTITY referencesField2.label "Tagairtí ">
+<!ENTITY messageIdField2.label "Aitheantas-teachtaireachta ">
+<!ENTITY inReplyToField2.label "Freagra-ar ">
+<!ENTITY originalWebsite2.label "Suíomh-gréasáin ">
 
 <!ENTITY editMessageDescription.label "Is dréacht é seo">
 <!ENTITY editMessageButton.label "Eagar…">
-<!ENTITY replyButton.label "freagra…">
-<!ENTITY forwardButton.label "cuir ar aghaidh…">
-<!ENTITY junkButton.label "marcáil mar dhramhphost">
-<!ENTITY trashButton.tooltiptext "scrios">
+<!ENTITY hdrArchiveButton.label "Cuir sa chartlann">
+<!ENTITY hdrArchiveButton.tooltip "Cuir an teachtaireacht seo sa chartlann">
+<!ENTITY hdrReplyButton.label "Freagair">
+<!ENTITY hdrReplyButton.tooltip "Freagair an teachtaireacht seo">
+<!ENTITY hdrReplyAllButton.label "Freagair cách">
+<!ENTITY hdrReplyAllButton.tooltip "Freagra chuig an seoltóir agus gach faighteoir">
+<!ENTITY hdrReplyListButton.label "Freagair liosta">
+<!ENTITY hdrReplyListButton.tooltip "Freagra chuig an liosta ríomhphoist">
+<!ENTITY hdrForwardButton.label "Cuir ar aghaidh">
+<!ENTITY hdrForwardButton.tooltip "Cuir an teachtaireacht seo ar aghaidh">
+<!ENTITY hdrJunkButton.label "Dramhphost">
+<!ENTITY hdrJunkButton.tooltip "Marcáil an teachtaireacht seo mar dhramhphost">
+<!ENTITY hdrTrashButton.label "Scrios">
+<!ENTITY hdrTrashButton.tooltip "Scrios an teachtaireacht seo">
 
-<!ENTITY otherActionsButton.label "gníomhartha eile">
+<!ENTITY hdrViewToolbarShowFull.label "Taispeáin Deilbhíní agus Téacs">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Taispeáin Deilbhíní Amháin">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
+<!ENTITY hdrViewToolbarShowText.label "Taispeáin Téacs Amháin">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Taispeáin Freagra don Seoltóir i gCónaí">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
+
+<!ENTITY otherActionsButton.label "Gníomhartha eile">
+<!ENTITY otherActionsOpenConversation.label "oscail i gcomhrá">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow.label "oscail i bhfuinneog nua">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "n">
+<!ENTITY otherActionsOpenInNewTab.label "oscail i gcluasín nua">
+<!ENTITY otherActionsOpenInNewTab.accesskey "c">
+<!ENTITY markAsReadMenuItem.label "marcáil mar léite">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "marcáil mar neamhléite">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "sábháil mar…">
-<!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "amharc ar fhoinse…">
-<!ENTITY viewSourceMenuItem.accesskey "A">
-
-<!ENTITY hideDetailsButton.label "folaigh mionsonraí">
-<!ENTITY showDetailsButton.label "taispeáin mionsonraí">
+<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "taispeáin foinse">
+<!ENTITY viewSourceMenuItem.accesskey "t">
+<!ENTITY otherActionsPrint.label "priontáil…">
+<!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label "Oscail">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "Sábháil Mar…">
-<!ENTITY saveAsAttachmentCmd.accesskey "A">
+<!ENTITY saveAsAttachmentCmd.accesskey "a">
 <!ENTITY detachAttachmentCmd.label "Díscoir…">
 <!ENTITY deleteAttachmentCmd.label "Scrios">
+<!ENTITY openAllAttachmentsCmd.label "Open All…">
+<!ENTITY openAllAttachmentsCmd.accesskey "O">
 <!ENTITY saveAllAttachmentsCmd.label "Sábháil Uile…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "S">
 <!ENTITY detachAllAttachmentsCmd.label "Díscoir Uile…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "Scrios Uile…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "C">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "c">
 
 <!ENTITY copyLinkCmd.label "Cóipeáil Suíomh an Naisc">
 <!ENTITY copyLinkCmd.accesskey "C">

@@ -1,18 +1,6 @@
-<!ENTITY systemDefaults.label "Réamhshocrú an Chórais">
-<!ENTITY alwaysCheckDefault.label "Seiceáil i gcónaí ag am tosaithe an é &brandShortName; an cliant réamhshocraithe ríomhphoist">
-<!ENTITY alwaysCheckDefault.accesskey "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "Seiceáil Anois">
-<!ENTITY checkNow.accesskey "N">
-
 <!ENTITY messengerStartPage.label "Leathanach Tosaigh &brandShortName;">
 <!ENTITY enableStartPage.label "Agus &brandShortName; tar éis tosú, taispeáin an Leathanach Tosaigh i réimse na dteachtaireachtaí">
-<!ENTITY enableStartPage.accesskey "T">
+<!ENTITY enableStartPage.accesskey "t">
 <!ENTITY location.label "Suíomh:">
 <!ENTITY location1.accesskey "o">
 <!ENTITY useDefault.label "Athchóirigh na Réamhshocruithe">
@@ -25,9 +13,9 @@
 <!ENTITY playSound.label "Seinn fuaim">
 <!ENTITY playSound1.accesskey "d">
 <!ENTITY showAnimatedAlert.label "Taispeáin airdeall">
-<!ENTITY showAnimatedAlert.accesskey "S">
+<!ENTITY showAnimatedAlert.accesskey "s">
 <!ENTITY customizeMailAlert.label "Saincheap…">
-<!ENTITY customizeMailAlert.accesskey "C">
+<!ENTITY customizeMailAlert.accesskey "c">
 
 <!ENTITY play.label "Seinn">
 <!ENTITY play.accesskey "S">
@@ -36,7 +24,7 @@
 <!ENTITY systemsoundMac.accesskey "u">
 <!ENTITY systemsound.accesskey "u">
 <!ENTITY customsound.label "Úsáid an comhad fuaime seo">
-<!ENTITY customsound.accesskey "U">
+<!ENTITY customsound.accesskey "u">
 <!ENTITY browse.label "Brabhsáil…">
 <!ENTITY browse.accesskey "B">
 

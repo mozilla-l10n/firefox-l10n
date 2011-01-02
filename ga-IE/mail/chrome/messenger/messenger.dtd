@@ -6,17 +6,21 @@
 <!ENTITY newFolderCmd.label "Fillteán…">
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd.label "Dún Cluaisín">
-<!ENTITY closeTabCmd.accesskey "c">
+<!ENTITY closeTabCmd.accesskey "C">
+<!ENTITY closeOtherTabsCmd.label "Dún Cluaisíní Eile">
+<!ENTITY closeOtherTabsCmd.accesskey "l">
 <!ENTITY newVirtualFolderCmd.label "Cuardach Sábháilte…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newAccountCmd.label "Cuntas…">
-<!ENTITY newAccountCmd.accesskey "C">
+<!ENTITY newOtherAccountsCmd.label "Cuntais Eile… ">
+<!ENTITY newOtherAccountsCmd.accesskey "C">
+<!ENTITY newEmailAccountCmd.label "Cuntas Ríomhphoist…">
+<!ENTITY newEmailAccountCmd.accesskey "a">
 <!ENTITY openMessageFileCmd.label "Oscail Teachtaireacht Shábháilte…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Iatáin">
+<!ENTITY openAttachmentCmd.label "Attachments">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Sábháil Mar">
-<!ENTITY saveAsMenu.accesskey "A">
+<!ENTITY saveAsMenu.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Comhad">
 <!ENTITY saveAsFileCmd.accesskey "C">
 <!ENTITY saveAsFileCmd.key "s">
@@ -24,17 +28,17 @@
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Faigh Teachtaireachtaí Nua do">
-<!ENTITY getNewMsgForCmd.accesskey "t">
+<!ENTITY getNewMsgForCmd.accesskey "T">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Gach Cuntas">
-<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Cuntas Reatha">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "An Cuntas Reatha">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY getNextNMsgCmd.label "Faigh an 500 Teachtaireacht Nuachta Eile">
-<!ENTITY getNextNMsgCmd.accesskey "t">
-<!ENTITY sendUnsentCmd.label "Seol na teachtaireachtaí gan seoladh">
-<!ENTITY sendUnsentCmd.accesskey "l">
-<!ENTITY subscribeCmd.label "Liostáil…">
-<!ENTITY subscribeCmd.accesskey "s">
+<!ENTITY getNextNMsgCmd.accesskey "T">
+<!ENTITY sendUnsentCmd.label "Send Unsent Messages">
+<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY subscribeCmd.label "Subscribe…">
+<!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Scrios an Fillteán">
 <!ENTITY deleteFolder.accesskey "c">
 <!ENTITY renameFolder.label "Athainmnigh an Fillteán…">
@@ -42,12 +46,10 @@
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Dlúthaigh Fillteáin">
 <!ENTITY compactFolders.accesskey "F">
-<!ENTITY emptyTrashCmd.label "Folmhaigh an Bosca Bruscair">
-<!ENTITY emptyTrashCmd.accesskey "b">
-<!ENTITY importCmd.label "Iompórtáil…">
-<!ENTITY importCmd.accesskey "I">
+<!ENTITY emptyTrashCmd.label "Empty Trash">
+<!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "As Líne">
-<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineMenu.accesskey "L">
 <!ENTITY offlineGoOfflineCmd.label "Oibrigh As Líne">
 <!ENTITY offlineGoOfflineCmd.accesskey "b">
 <!ENTITY synchronizeOfflineCmd.label "Íosluchtaigh/Sioncronaigh Anois…">
@@ -55,68 +57,63 @@
 <!ENTITY settingsOfflineCmd.label "Socruithe As Líne…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Faigh Teachtaireachtaí Roghnaithe">
-<!ENTITY downloadSelectedCmd.accesskey "r">
+<!ENTITY downloadSelectedCmd.accesskey "R">
 <!ENTITY downloadStarredCmd.label "Faigh na Teachtaireachtaí Marcáilte">
 <!ENTITY downloadStarredCmd.accesskey "a">
-<!ENTITY printCmd.label "Priontáil…">
+<!ENTITY printCmd.label "Print…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Réamhamharc Priontála">
-<!ENTITY printPreviewCmd.accesskey "r">
+<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Socrú Leathanaigh…">
-<!ENTITY printSetupCmd.accesskey "l">
+<!ENTITY printSetupCmd.accesskey "L">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Scrios Teachtaireacht">
 <!ENTITY deleteMsgCmd.accesskey "S">
 <!ENTITY undeleteMsgCmd.label "Díscrios Teachtaireacht">
-<!ENTITY undeleteMsgCmd.accesskey "d">
-<!ENTITY cancelNewsMsgCmd.label "Cealaigh Teachtaireacht">
-<!ENTITY cancelNewsMsgCmd.accesskey "T">
+<!ENTITY undeleteMsgCmd.accesskey "D">
 <!ENTITY deleteMsgsCmd.label "Scrios Teachtaireachtaí Roghnaithe">
 <!ENTITY deleteMsgsCmd.accesskey "S">
 <!ENTITY undeleteMsgsCmd.label "Díscrios Teachtaireachtaí Roghnaithe">
-<!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "Cealaigh Teachtaireachtaí Roghnaithe">
-<!ENTITY cancelNewsMsgsCmd.accesskey "r">
+<!ENTITY undeleteMsgsCmd.accesskey "D">
 <!ENTITY deleteFolderCmd.label "Scrios Fillteán">
 <!ENTITY deleteFolderCmd.accesskey "S">
 <!ENTITY unsubscribeNewsgroupCmd.label "Díliostáil">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "l">
 <!ENTITY selectMenu.label "Roghnaigh">
 <!ENTITY selectMenu.accesskey "R">
-<!ENTITY all.label "Uile">
-<!ENTITY all.accesskey "U">
+<!ENTITY all.label "All">
+<!ENTITY all.accesskey "A">
 <!ENTITY selectThreadCmd.label "Snáithe">
 <!ENTITY selectThreadCmd.accesskey "S">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Teachtaireachtaí Marcáilte">
 <!ENTITY selectFlaggedCmd.accesskey "M">
 <!ENTITY menuFavoriteFolder.label "Mo Rogha Fillteán">
-<!ENTITY menuFavoriteFolder.accesskey "a">
+<!ENTITY menuFavoriteFolder.accesskey "R">
 <!ENTITY folderPropsCmd.label "Airíonna…">
 <!ENTITY folderPropsFolderCmd.label "Airíonna an Fhillteáin…">
 <!ENTITY folderPropsNewsgroupCmd.label "Airíonna an Ghrúpa Nuachta…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "Socruithe Cuntais…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "W">
 <!ENTITY undoDeleteMsgCmd.label "Cealaigh Scriosadh Teachtaireachta">
 <!ENTITY redoDeleteMsgCmd.label "Athfheidhmigh Scriosadh Teachtaireachta">
 <!ENTITY undoMoveMsgCmd.label "Cealaigh Bogadh Teachtaireachta">
 <!ENTITY redoMoveMsgCmd.label "Athfheidhmigh Bogadh Teachtaireachta">
 <!ENTITY undoCopyMsgCmd.label "Cealaigh Cóipeáil Teachtaireachta">
 <!ENTITY redoCopyMsgCmd.label "Athfheidhmigh Cóipeáil Teachtaireachta">
+<!ENTITY undoMarkAllCmd.label "Cealaigh Marcáil Gach Rud mar Léite">
+<!ENTITY redoMarkAllCmd.label "Athdhéan Marcáil Gach Rud mar Léite">
 <!ENTITY undoDefaultCmd.label "Cealaigh">
-<!ENTITY undoDefaultCmd.accesskey "L">
+<!ENTITY undoDefaultCmd.accesskey "l">
 <!ENTITY redoDefaultCmd.label "Athfheidhmigh">
-<!ENTITY redoDefaultCmd.accesskey "F">
+<!ENTITY redoDefaultCmd.accesskey "f">
 <!-- View Menu -->
 
 <!ENTITY showMessengerToolbarCmd.label "Príomhbharra Uirlisí">
-<!ENTITY showMessengerToolbarCmd.accesskey "u">
+<!ENTITY showMessengerToolbarCmd.accesskey "U">
 <!ENTITY customizeToolbar.label "Saincheap…">
-<!ENTITY customizeToolbar.accesskey "C">
+<!ENTITY customizeToolbar.accesskey "c">
 
 <!ENTITY messagePaneLayoutStyle.label "Leagan Amach">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
@@ -131,13 +128,15 @@
 
 <!ENTITY folderView.label "Fillteáin">
 <!ENTITY folderView.accesskey "F">
-<!ENTITY allFolders.label "Uile">
-<!ENTITY allFolders.accesskey "U">
-<!ENTITY unreadFolders.label "Neamhléite">
-<!ENTITY unreadFolders.accesskey "N">
+<!ENTITY unifiedFolders.label "Aontaithe">
+<!ENTITY unifiedFolders.accesskey "n">
+<!ENTITY allFolders.label "All">
+<!ENTITY allFolders.accesskey "A">
+<!ENTITY unreadFolders.label "Unread">
+<!ENTITY unreadFolders.accesskey "U">
 <!ENTITY favoriteFolders.label "Mo Rogha Fillteán">
 <!ENTITY favoriteFolders.accesskey "F">
-<!ENTITY recentFolders.label "Le Gairid">
+<!ENTITY recentFolders.label "Recent">
 <!ENTITY recentFolders.accesskey "R">
 <!-- Sort Menu -->
 
@@ -149,7 +148,7 @@
 <!ENTITY sortByReceivedCmd.accesskey "t">
 <!ENTITY sortByStarCmd.label "Réiltín">
 <!ENTITY sortByStarCmd.accesskey "R">
-<!ENTITY sortByAttachmentsCmd.label "Iatáin">
+<!ENTITY sortByAttachmentsCmd.label "Attachments">
 <!ENTITY sortByAttachmentsCmd.accesskey "A">
 <!ENTITY sortByPriorityCmd.label "Tosaíocht">
 <!ENTITY sortByPriorityCmd.accesskey "T">
@@ -166,7 +165,7 @@
 <!ENTITY sortByFromCmd.label "Ó">
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Faighteoir">
-<!ENTITY sortByRecipientCmd.accesskey "f">
+<!ENTITY sortByRecipientCmd.accesskey "F">
 <!ENTITY sortByUnreadCmd.label "Léite">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Ord Fála">
@@ -176,45 +175,56 @@
 <!ENTITY sortDescending.label "Ag dul síos">
 <!ENTITY sortDescending.accesskey "A">
 <!ENTITY sortThreaded.label "Snáithithe">
-<!ENTITY sortThreaded.accesskey "T">
-<!ENTITY sortUnthreaded.label "Neamhsnáithithe">
+<!ENTITY sortThreaded.accesskey "t">
+<!ENTITY sortUnthreaded.label "Neamhshnáithithe">
 <!ENTITY sortUnthreaded.accesskey "h">
-<!ENTITY groupBySort.label "Grúpaí de réir Cineáil">
+<!ENTITY groupBySort.label "Grúpáilte de réir Cineáil">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Teachtaireachtaí">
 <!ENTITY msgsMenu.accesskey "T">
 <!ENTITY threads.label "Snáitheanna">
 <!ENTITY threads.accesskey "e">
-<!ENTITY allMsgsCmd.label "Uile">
-<!ENTITY allMsgsCmd.accesskey "U">
+<!ENTITY allMsgsCmd.label "All">
+<!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Leathnaigh Gach Snáithe">
-<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Laghdaigh Gach Snáithe">
 <!ENTITY collapseAllThreadsCmd.accesskey "L">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Neamhléite">
-<!ENTITY unreadMsgsCmd.accesskey "N">
-<!ENTITY threadsWithUnreadCmd.label "Snáitheanna le cinn gan léamh">
-<!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Snáitheanna ar a ndéantar faire le cinn gan léamh">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "F">
+<!ENTITY unreadMsgsCmd.label "Unread">
+<!ENTITY unreadMsgsCmd.accesskey "U">
+<!ENTITY threadsWithUnreadCmd.label "Snáitheanna le cinn neamhléite">
+<!ENTITY threadsWithUnreadCmd.accesskey "t">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Snáitheanna ar a ndéantar faire le cinn neamhléite">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "f">
 <!ENTITY ignoredThreadsCmd.label "Snáitheanna ar a dtugtar neamhaird">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "Ceanntásca">
 <!ENTITY headersMenu.accesskey "C">
-<!ENTITY headersAllCmd.label "Uile">
-<!ENTITY headersAllCmd.accesskey "U">
+<!ENTITY headersAllCmd.label "All">
+<!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Gnáthmhéid">
-<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY headersNormalCmd.accesskey "n">
 <!ENTITY bodyMenu.label "Corp Teachtaireachta Mar">
-<!ENTITY bodyMenu.accesskey "P">
+<!ENTITY bodyMenu.accesskey "p">
 <!ENTITY bodyAllowHTML.label "HTML Bunúsach">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "HTML Simplí">
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Gnáth-Théacs">
 <!ENTITY bodyAsPlaintext.accesskey "G">
+
+<!ENTITY bodyMenuFeed.label "Fothaigh corp na teachtaireachta mar">
+<!ENTITY bodyMenuFeed.accesskey "c">
+<!ENTITY viewFeedWebPage.label "Leathanach Gréasáin">
+<!ENTITY viewFeedWebPage.accesskey "G">
+<!ENTITY viewFeedSummary.label "Achoimre">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Formáid Réamhshocraithe">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Taispeáint Inlíne na nIatán">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "I">
 <!-- LOCALIZATION NOTE :
@@ -237,7 +247,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 
 <!ENTITY fullZoomResetCmd.label "Athshocraigh">
-<!ENTITY fullZoomResetCmd.accesskey "R">
+<!ENTITY fullZoomResetCmd.accesskey "r">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 
@@ -273,51 +283,65 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "Ar Aghaidh">
 <!ENTITY nextMenu.accesskey "A">
-<!ENTITY nextMsgCmd.label "Teachtaireacht">
-<!ENTITY nextMsgCmd.accesskey "T">
+<!ENTITY nextMsgCmd.label "Message">
+<!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "Teachtaireacht Gan Léamh">
-<!ENTITY nextUnreadMsgCmd.accesskey "G">
+<!ENTITY nextUnreadMsgCmd.label "Unread Message">
+<!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Teachtaireacht Marcáilte">
-<!ENTITY nextStarredMsgCmd.accesskey "M">
-<!ENTITY nextUnreadThread.label "Snáithe Gan Léamh">
-<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextStarredMsgCmd.label "Starred Message">
+<!ENTITY nextStarredMsgCmd.accesskey "S">
+<!ENTITY nextUnreadThread.label "Snáithe Neamhléite">
+<!ENTITY nextUnreadThread.accesskey "t">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Siar">
 <!ENTITY prevMenu.accesskey "S">
-<!ENTITY prevMsgCmd.label "Teachtaireacht">
-<!ENTITY prevMsgCmd.accesskey "T">
+<!ENTITY prevMsgCmd.label "Message">
+<!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Teachtaireacht Gan Léamh">
-<!ENTITY prevUnreadMsgCmd.accesskey "G">
+<!ENTITY prevUnreadMsgCmd.label "Unread Message">
+<!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Ar Aghaidh">
-<!ENTITY goForwardCmd.accesskey "A">
+<!ENTITY goForwardCmd.label "Forward">
+<!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Siar">
 <!ENTITY goBackCmd.accesskey "S">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Teachtaireacht Marcáilte">
-<!ENTITY prevStarredMsgCmd.accesskey "M">
+<!ENTITY prevStarredMsgCmd.label "Starred Message">
+<!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY folderMenu.label "Folder">
+<!ENTITY folderMenu.accesskey "O">
+<!ENTITY thisFolder.label "This Folder">
+<!ENTITY thisFolder.accesskey "F">
 <!ENTITY startPageCmd.label "Leathanaigh Tosaigh Ríomhphoist">
 <!ENTITY startPageCmd.accesskey "L">
-<!ENTITY msgMenu.label "Teachtaireacht">
-<!ENTITY msgMenu.accesskey "T">
+<!-- Message Menu -->
+
+<!ENTITY msgMenu.label "Message">
+<!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Teachtaireacht Nua">
 <!ENTITY newMsgCmd.accesskey "N">
-<!ENTITY newNewMsgCmd.label "Teachtaireacht">
-<!ENTITY newNewMsgCmd.accesskey "T">
+<!ENTITY newNewMsgCmd.label "Message">
+<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "Cuir sa Chartlann">
+<!ENTITY archiveMsgCmd.accesskey "a">
+<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY cancelNewsMsgCmd.label "Cancel Message">
+<!ENTITY cancelNewsMsgCmd.accesskey "C">
 <!ENTITY replyMsgCmd.label "Freagair">
 <!ENTITY replyMsgCmd.accesskey "F">
 <!ENTITY replyMsgCmd.key "r">
-<!ENTITY replySenderCmd.label "Freagair an Seoltóir Amháin">
+<!ENTITY replySenderCmd.label "Reply to Sender Only">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Freagair an Grúpa Nuachta">
-<!ENTITY replyNewsgroupCmd.accesskey "g">
+<!ENTITY replyNewsgroupCmd.label "Reply to Newsgroup">
+<!ENTITY replyNewsgroupCmd.accesskey "y">
 <!ENTITY replyToAllMsgCmd.label "Freagair Cách">
 <!ENTITY replyToAllMsgCmd.accesskey "a">
 <!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Reply to List">
+<!ENTITY replyToListMsgCmd.accesskey "L">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Cuir Ar Aghaidh">
 <!ENTITY forwardMsgCmd.accesskey "C">
 <!ENTITY forwardMsgCmd.key "l">
@@ -326,25 +350,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsInline.label "Inlíne">
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Iatán">
-<!ENTITY forwardAsAttachmentCmd.accesskey "A">
+<!ENTITY forwardAsAttachmentCmd.accesskey "a">
 <!ENTITY editMsgAsNewCmd.label "Cuir in Eagar Mar Theachtaireacht Nua">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Cruthaigh Scagaire ón Teachtaireacht…">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgToMenu.label "Bog Go">
-<!ENTITY moveMsgToMenu.accesskey "B">
-<!ENTITY moveCopyMsgRecentMenu.label "Le Gairid">
+<!ENTITY moveMsgToMenu.label "Move To">
+<!ENTITY moveMsgToMenu.accesskey "M">
+<!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Cóipeáil Suíomh na Teachtaireachta">
-<!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgToMenu.label "Cóipeáil Go">
+<!ENTITY copyMessageLocation.accesskey "m">
+<!ENTITY copyMsgToMenu.label "Copy To">
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Bog Arís">
-<!ENTITY moveToFolderAgain.accesskey "a">
+<!ENTITY moveToFolderAgain.accesskey "A">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Tabhair Neamhaird ar an Snáithe">
-<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.accesskey "i">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Tabhair Neamhaird ar an bhFoshnáithe">
 <!ENTITY killSubthreadMenu.accesskey "F">
@@ -369,33 +393,44 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marcáil">
-<!ENTITY markMenu.accesskey "m">
+<!ENTITY markMenu.accesskey "M">
 <!ENTITY markAsReadCmd.label "Léite">
 <!ENTITY markAsReadCmd.accesskey "L">
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Snáithe Léite">
-<!ENTITY markThreadAsReadCmd.accesskey "T">
+<!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Mar Dháta Léite…">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Gach ceann léite">
-<!ENTITY markAllReadCmd.accesskey "A">
+<!ENTITY markAllReadCmd.accesskey "a">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Cuir Réiltín Leis">
 <!ENTITY markStarredCmd.accesskey "R">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Mar dhramhphost">
-<!ENTITY markAsJunkCmd.accesskey "R">
+<!ENTITY markAsJunkCmd.accesskey "r">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Mar Phost Ceart">
-<!ENTITY markAsNotJunkCmd.accesskey "P">
+<!ENTITY markAsNotJunkCmd.label "Mar phost ceart">
+<!ENTITY markAsNotJunkCmd.accesskey "p">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Rith na Rialtáin Dramhphoist">
-<!ENTITY recalculateJunkScoreCmd.accesskey "P">
+<!ENTITY recalculateJunkScoreCmd.accesskey "p">
 <!ENTITY openMessageWindowCmd.label "Oscail Teachtaireacht">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Oscail i gComhrá">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
+<!ENTITY openFeedMessage.label "Oscail an Teachtaireacht Fhotha">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Leathanach Gréasáin i bhFuinneog Nua">
+<!ENTITY openFeedWebPageInWindow.accesskey "G">
+<!ENTITY openFeedSummaryInWindow.label "Achoimre i bhFuinneog Nua">
+<!ENTITY openFeedSummaryInWindow.accesskey "A">
+<!ENTITY openFeedWebPageInMP.label "Scoránaigh an leathanach gréasáin agus an achoimre sa phána teachtaireachta">
+<!ENTITY openFeedWebPageInMP.accesskey "t">
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Fuinneog">
@@ -403,40 +438,53 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tasksMenu.label "Uirlisí">
 <!ENTITY tasksMenu.accesskey "U">
-<!ENTITY addons.label "Breiseáin">
-<!ENTITY addons.accesskey "b">
 <!ENTITY messengerCmd.label "Ríomhphost &amp; Grúpaí Nuachta">
-<!ENTITY messengerCmd.accesskey "m">
-<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Leabhar Seoltaí">
-<!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY runJunkControls.label "Rith na Rialtáin Dramhphoist san Fhillteán">
-<!ENTITY runJunkControls.accesskey "n">
-<!ENTITY deleteJunk.label "Scrios Post Marcáilte mar Dhramhphost san Fhillteán">
-<!ENTITY deleteJunk.accesskey "l">
-<!ENTITY errorConsoleCmd.label "Consól Earráide">
-<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY addressBookCmd.accesskey "b">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Breiseáin">
+<!ENTITY addons.accesskey "B">
+<!ENTITY activitymanager.label "Bainisteoir Gníomhaíochta">
+<!ENTITY activitymanager.accesskey "m">
+<!ENTITY savedFiles.label "Comhaid Shábháilte">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Scagairí Teachtaireachta…">
 <!ENTITY filtersCmd.accesskey "S">
 <!ENTITY filtersApply.label "Rith Scagairí ar an Fhillteán">
 <!ENTITY filtersApply.accesskey "R">
-<!ENTITY filtersApplyToSelection.label "Rith Scagairí ar na Teachtaireachtaí Roghnaithe">
+<!ENTITY filtersApplyToSelection.label "Rith Scagairí ar Theachtaireachtaí Roghnaithe">
 <!ENTITY filtersApplyToSelection.accesskey "R">
-<!ENTITY filtersApplyToMessage.label "Rith Scagairí ar an Teachtaireacht">
-<!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY filtersApplyToMessage.label "Rith Scagairí ar Theachtaireacht">
+<!ENTITY filtersApplyToMessage.accesskey "R">
+<!ENTITY runJunkControls.label "Rith na Rialtáin Dramhphoist ar Fhillteán">
+<!ENTITY runJunkControls.accesskey "D">
+<!ENTITY deleteJunk.label "Scrios ríomhphost marcáilte mar dhramhphost san fhillteán">
+<!ENTITY deleteJunk.accesskey "D">
+<!ENTITY importCmd.label "Iompórtáil…">
+<!ENTITY importCmd.accesskey "m">
+<!ENTITY errorConsoleCmd.label "Consól Earráide">
+<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY accountManagerCmd.label "Socruithe an Chuntais…">
+<!ENTITY accountManagerCmd.accesskey "S">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "W">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton.label "Faigh R-phost">
 <!ENTITY newMsgButton.label "Scríobh">
 <!ENTITY replyButton.label "Freagair">
 <!ENTITY replyAllButton.label "Freagair Cách">
+<!ENTITY replyListButton.label "Seol freagra chuig liosta">
 <!ENTITY forwardButton.label "Cuir Ar Aghaidh">
 <!ENTITY fileButton.label "Comhad">
+<!ENTITY archiveButton.label "Cuir sa Chartlann">
 <!ENTITY nextButton.label "Ar Aghaidh">
 <!ENTITY previousButton.label "Siar">
 <!ENTITY backButton1.label "Siar">
-<!ENTITY goForwardButton1.label "Ar Aghaidh">
+<!ENTITY goForwardButton1.label "Forward">
 <!ENTITY deleteButton.label "Scrios">
 <!ENTITY undeleteButton.label "Díscrios">
 <!ENTITY markButton.label "Marcáil">
@@ -444,27 +492,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.label "Stad">
 <!ENTITY throbberItem.title "Táscaire Gníomhaíochta">
 <!ENTITY junkButton.label "Dramhphost">
-<!ENTITY notJunkButton.label "Post Ceart">
+<!ENTITY notJunkButton.label "Not Junk">
 <!ENTITY addressBookButton.label "Leabhar Seoltaí">
+<!ENTITY glodaSearch.title "Cuardach Cuimsitheach">
 <!ENTITY searchItem.title "Mearchuardach">
 <!ENTITY mailViewsToolbarItem.title "Amhairc Ríomhphoist">
 <!ENTITY folderLocationToolbarItem.title "Suíomh an Fhillteáin">
-<!ENTITY tagButton.label "Clib">
+<!ENTITY tagButton.label "Tag">
 <!ENTITY compactButton.label "Dlúthaigh">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Ardchuardach na dteachtaireachtaí">
 <!ENTITY getMsgButton.tooltip "Faigh teachtaireachtaí nua">
 <!ENTITY getAllNewMsgCmd.label "Faigh Gach Teachtaireacht Nua">
-<!ENTITY getAllNewMsgCmd.accesskey "G">
+<!ENTITY getAllNewMsgCmd.accesskey "g">
 <!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Cruthaigh teachtaireacht nua">
 <!ENTITY replyButton.tooltip "Freagair an teachtaireacht">
 <!ENTITY replyAllButton.tooltip "Freagair an seoltóir agus gach faighteoir">
+<!ENTITY replyListButton.tooltip "Seol freagra chuig liosta ríomhphoist">
 <!ENTITY forwardButton.tooltip "Cuir an teachtaireacht roghnaithe ar aghaidh">
 <!ENTITY fileButton.tooltip "Bog an teachtaireacht roghnaithe go fillteán">
-<!ENTITY nextButton.tooltip "Téigh go dtí an chéad teachtaireacht eile gan léamh">
-<!ENTITY previousButton.tooltip "Téigh go dtí an teachtaireacht gan léamh roimhe">
+<!ENTITY archiveButton.tooltip "Cuir na teachtaireachtaí roghnaithe sa chartlann">
+<!ENTITY nextButton.tooltip "Téigh go dtí an chéad teachtaireacht eile neamhléite">
+<!ENTITY previousButton.tooltip "Téigh go dtí an teachtaireacht neamhléite roimhe seo">
 <!ENTITY goForwardButton.tooltip "An chéad teachtaireacht eile">
 <!ENTITY goBackButton.tooltip "An teachtaireacht roimhe seo">
 <!ENTITY deleteButton.tooltip "Scrios an teachtaireacht nó fillteán roghnaithe">
@@ -484,11 +535,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "Ainm">
-<!ENTITY folderSizeColumn.label "Méid">
+<!ENTITY folderSizeColumn.label "Size">
 <!-- Folder Pane Context Menu -->
 
 <!ENTITY folderContextGetMessages.label "Faigh Teachtaireachtaí">
-<!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextGetMessages.accesskey "g">
 <!ENTITY folderContextOpenNewWindow.label "Oscail">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Oscail i gCluaisín Nua">
@@ -501,20 +552,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextRemove.accesskey "S">
 <!ENTITY folderContextCompact.label "Dlúthaigh">
 <!ENTITY folderContextCompact.accesskey "D">
-<!ENTITY folderContextEmptyTrash.label "Folmhaigh an Bosca Bruscair">
-<!ENTITY folderContextEmptyTrash.accesskey "b">
+<!ENTITY folderContextEmptyTrash.label "Empty Trash">
+<!ENTITY folderContextEmptyTrash.accesskey "y">
 <!ENTITY folderContextEmptyJunk.label "Glan Dramhphost">
 <!ENTITY folderContextEmptyJunk.accesskey "G">
-<!ENTITY folderContextSendUnsentMessages.label "Seol na teachtaireachtaí gan seoladh">
-<!ENTITY folderContextSendUnsentMessages.accesskey "l">
+<!ENTITY folderContextSendUnsentMessages.label "Send Unsent Messages">
+<!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Díliostáil">
 <!ENTITY folderContextUnsubscribe.accesskey "D">
 <!ENTITY folderContextMarkNewsgroupRead.label "Marcáil an Grúpa Nuachta mar Léite">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "c">
 <!ENTITY folderContextMarkMailFolderRead.label "Marcáil an Fillteán mar Léite">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "c">
-<!ENTITY folderContextSubscribe.label "Liostáil…">
-<!ENTITY folderContextSubscribe.accesskey "s">
+<!ENTITY folderContextSubscribe.label "Subscribe…">
+<!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchMessages.label "Cuardach…">
 <!ENTITY folderContextSearchMessages.accesskey "C">
 <!ENTITY folderContextProperties.label "Airíonna…">
@@ -526,11 +577,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Ainm nó Seoladh Ríomhphoist ina bhfuil:">
-<!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY SearchNameOrEmail.accesskey "n">
+<!-- Gloda Search Bar -->
+
+<!ENTITY glodaSearchBar.placeholder "Cuardaigh teachtaireachtaí…">
 <!-- Quick Search Menu Bar -->
 
-<!ENTITY searchSubjectMenu.label "Ábhar">
-<!ENTITY searchFromMenu.label "Ó">
+<!ENTITY searchSubjectMenu.label "Subject">
+<!ENTITY searchFromMenu.label "From">
 <!ENTITY searchSubjectOrFromMenu.label "Ábhar nó Ó">
 <!ENTITY searchRecipient.label "Chuig nó Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Ábhar, Chuig nó Cc">
@@ -539,17 +593,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Snáithe">
-<!ENTITY fromColumn.label "Ó">
+<!ENTITY fromColumn.label "From">
 <!ENTITY recipientColumn.label "Faighteoir">
-<!ENTITY subjectColumn.label "Ábhar">
+<!ENTITY subjectColumn.label "Subject">
 <!ENTITY dateColumn.label "Dáta">
 <!ENTITY priorityColumn.label "Tosaíocht">
-<!ENTITY tagsColumn.label "Clib">
+<!ENTITY tagsColumn.label "Tag">
 <!ENTITY accountColumn.label "Cuntas">
 <!ENTITY statusColumn.label "Stádas">
-<!ENTITY sizeColumn.label "Méid">
+<!ENTITY sizeColumn.label "Size">
 <!ENTITY junkStatusColumn.label "Stádas Dramhphoist">
-<!ENTITY unreadColumn.label "Gan léamh">
+<!ENTITY unreadColumn.label "Neamhléite">
 <!ENTITY totalColumn.label "Iomlán">
 <!ENTITY readColumn.label "Léite">
 <!ENTITY receivedColumn.label "Faighte">
@@ -559,7 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY attachmentColumn.label "Iatáin">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Cliceáil chun colúin a roghnú le cur ar taispeáin">
+<!ENTITY columnChooser.tooltip "Cliceáil chun colúin a roghnú le cur ar taispeáint">
 <!ENTITY threadColumn.tooltip "Cliceáil chun snáitheanna na dteachtaireachtaí a thaispeáint">
 <!ENTITY fromColumn.tooltip "Cliceáil chun sórtáil de réir Ó">
 <!ENTITY recipientColumn.tooltip "Cliceáil chun sórtáil de réir faighteora">
@@ -569,11 +623,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagsColumn.tooltip "Cliceáil chun sórtáil de réir clibe">
 <!ENTITY accountColumn.tooltip "Cliceáil chun sórtáil de réir cuntais">
 <!ENTITY statusColumn.tooltip "Cliceáil chun sórtáil de réir stádais">
-<!ENTITY sizeColumn.tooltip "Cliceáil chun sórtáil de réir mhéid">
-<!ENTITY junkStatusColumn.tooltip "Cliceáil chun sórtáil de réir stádas dramhphoist">
-<!ENTITY unreadColumn.tooltip "Teachtaireachtaí gan léamh sa snáithe">
+<!ENTITY sizeColumn.tooltip "Cliceáil chun sórtáil de réir méide">
+<!ENTITY junkStatusColumn.tooltip "Cliceáil chun sórtáil de réir stádais dramhphoist">
+<!ENTITY unreadColumn.tooltip "Teachtaireachtaí neamhléite sa snáithe">
 <!ENTITY totalColumn.tooltip "Iomlán na dTeachtaireachtaí sa snáithe">
-<!ENTITY readColumn.tooltip "Cliceáil chun sórtáil de réir stádas léite">
+<!ENTITY readColumn.tooltip "Cliceáil chun sórtáil de réir stádais léite">
 <!ENTITY receivedColumn.tooltip "Cliceáil chun sórtáil de réir dáta fála">
 <!ENTITY starredColumn.tooltip "Cliceáil chun sórtáil de réir réiltín">
 <!ENTITY locationColumn.tooltip "Cliceáil chun sórtáil de réir suímh">
@@ -584,65 +638,162 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewWindow.label "Oscail Teachtaireacht i bhFuinneog Nua">
 <!ENTITY contextOpenNewWindow.accesskey "T">
 <!ENTITY contextOpenNewTab.label "Oscail Teachtaireacht i gCluaisín Nua">
-<!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextOpenNewTab.accesskey "C">
+<!ENTITY contextOpenConversation.label "Oscail Teachtaireacht i gComhrá">
+<!ENTITY contextOpenConversation.accesskey "r">
 <!ENTITY contextEditAsNew.label "Cuir in Eagar mar Nua…">
 <!ENTITY contextEditAsNew.accesskey "E">
-<!ENTITY contextReplySender.label "Freagair an Seoltóir Amháin">
+<!ENTITY contextArchive.label "Cuir sa chartlann">
+<!ENTITY contextArchive.accesskey "h">
+<!ENTITY contextReplySender.label "Reply to Sender Only">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Freagair an Grúpa Nuachta">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
+<!ENTITY contextReplyNewsgroup.label "Reply to Newsgroup">
+<!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "Freagair Cách">
-<!ENTITY contextReplyAll.accesskey "R">
+<!ENTITY contextReplyAll.accesskey "r">
+<!ENTITY contextReplyList.label "Reply to List">
+<!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Cuir Ar Aghaidh">
 <!ENTITY contextForward.accesskey "C">
 <!ENTITY contextForwardAsAttachment.label "Cuir ar Aghaidh mar Iatáin">
 <!ENTITY contextForwardAsAttachment.accesskey "u">
-<!ENTITY contextMoveMsgMenu.label "Bog Go">
-<!ENTITY contextMoveMsgMenu.accesskey "B">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Le Gairid">
+<!ENTITY contextMoveMsgMenu.label "Move To">
+<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY contextCopyMsgMenu.label "Cóipeáil Go">
+<!ENTITY contextCopyMsgMenu.label "Copy To">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextSaveAs.label "Sábháil Mar…">
 <!ENTITY contextSaveAs.accesskey "S">
-<!ENTITY contextPrint.label "Priontáil…">
+<!ENTITY contextPrint.label "Print…">
 <!ENTITY contextPrint.accesskey "P">
-<!ENTITY contextPrintPreview.label "Réamhamharc Priontála">
-<!ENTITY contextPrintPreview.accesskey "r">
+<!ENTITY contextPrintPreview.label "Print Preview">
+<!ENTITY contextPrintPreview.accesskey "v">
+<!-- Thread Pane Column Picker -->
+<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
+   This option in the thread pane column picker causes us to reset the
+   customizations for the thread pane columns in this folder to their default.
+  -->
+
+<!ENTITY columnPicker.resetToInbox.label "Reset columns to default">
+<!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
+   This option in the thread pane column picker pops up a sub-menu containing
+   the "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
+   a desire to apply the currently displayed set of columns to some other
+   folder(s).  The sub-menu items indicate whether we want to apply it to just
+   a folder or also its children.
+  -->
+<!ENTITY columnPicker.applyTo.label "Apply columns to…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a single folder
+   that the user selects using the same widget as the move to/copy to
+   mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolder.label "Fillteán…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolder.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a folder and all
+   of its descendents.  The user selects the folder using the same widget as the
+   move to/copy to mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Folder and its children…">
+<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
+   This is used in the folder selection widget for the
+   "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
+   a folder has children, it results in a menu popup; the first menu item
+   in that popup is given this label to indicate that that folder should be
+   selected.  For example, if folder "A" has two children, "B" and "C", then
+   when the user hovers over "A", a new popup menu will be displayed whose
+   items are "This folder", "B", and "C".  This is the equivalent of the
+   "File here" option for the move to/copy to widge.t
+  -->
+<!ENTITY columnPicker.thisFolder.label "This folder">
+<!-- Media (video/audio) controls -->
+
+
+<!ENTITY contextPlay.label "Seinn">
+<!ENTITY contextPlay.accesskey "S">
+<!ENTITY contextPause.label "Cuir ar Shos">
+<!ENTITY contextPause.accesskey "S">
+<!ENTITY contextMute.label "Gan Fuaim">
+<!ENTITY contextMute.accesskey "m">
+<!ENTITY contextUnmute.label "Le Fuaim">
+<!ENTITY contextUnmute.accesskey "m">
 <!-- Junk Bar -->
 
 <!ENTITY junkBarMessage1.label "Dramhphost">
-<!ENTITY junkBarButton1.label "Post Ceart">
+<!ENTITY junkBarButton1.label "Not Junk">
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
 
-<!ENTITY remoteContentMessage1.label "Le do phríobháideachas a chosaint, cuireadh cosc ar chianíomhánna.">
-<!ENTITY loadRemoteContentButton2.label "Taispeáin Íomhánna Anois">
+<!ENTITY remoteContentMessage2.label "Le do phríobháideachas a chosaint, chuir &brandShortName; cosc ar ábhar cianda sa teachtaireacht seo.">
+<!ENTITY loadRemoteContentButton3.label "Taispeáin Ábhar Cianda">
 <!-- Phishing Bar -->
 
 <!ENTITY phishingBarMessage2.label "Meastar gur camscéim í an teachtaireacht seo.">
 <!ENTITY removePhishingBarButton1.label "Tabhair neamhaird ar rabhadh">
 <!ENTITY reportPhishingError1.label "Ní camscéim ríomhphoist é seo.">
-<!-- Message Header Button Box (to show hidden email addresses) -->
+<!-- MDN Bar -->
 
-<!ENTITY more.label "tuilleadh">
+<!ENTITY mdnBarMessage.label "D'iarr seoltóir na teachtaireachta seo go seolfaí fógra chuige nuair a léifidh tú an teachtaireacht. An bhfuil fonn ort fógra a thabhairt don seoltóir?">
+<!ENTITY mdnBarIgnoreButton.label "Déan Neamhaird De">
+<!ENTITY mdnBarSendButton.label "Seol Admháil Léite">
 <!-- Quick Search Bar -->
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed 
+     -->
 
 <!ENTITY quickSearchCmd.key "k">
+<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+     This is the base of the empty text for the global search box.  We replace
+     #1 with the contents of the appropriate
+     searchAllMessages.keyLabel2.* value for the platform.
+     The goal is to convey to the user that typing in the box will allow them
+     to search for messages globally and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllMessages.label.base "Search all messages… #1">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+     The description of the key-binding to get into the global search box on
+     windows and linux (which use the control key).  We use the key defined in
+     the quickSearchCmd.key entity defined above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+     The description of the key-binding to get into the global search box on mac
+     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
-<!ENTITY AddToAddressBook.label "Cuir leis an Leabhar Seoltaí…">
-<!ENTITY AddToAddressBook.accesskey "B">
-<!ENTITY AddDirectlyToAddressBook.label "Cuir leis an Leabhar Seoltaí">
-<!ENTITY AddDirectlyToAddressBook.accesskey "B">
+<!ENTITY AddToAddressBook.label "Cuir sa Leabhar Seoltaí…">
+<!ENTITY AddToAddressBook.accesskey "b">
+<!ENTITY AddDirectlyToAddressBook.label "Cuir sa Leabhar Seoltaí">
+<!ENTITY AddDirectlyToAddressBook.accesskey "b">
 <!ENTITY EditContact.label "Cuir Teagmháil in Eagar…">
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Amharc ar an Teagmháil">
-<!ENTITY ViewContact.accesskey "M">
-<!ENTITY SendMailTo.label "Cum Ríomhphost Chuig">
-<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY ViewContact.accesskey "m">
+<!ENTITY SubscribeToNewsgroup.label "Liostáil le Grúpa Nuachta">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "Scríobh Teachtaireacht Chuig">
+<!ENTITY SendMessageTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Cóipeáil an Seoladh Ríomhphoist">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNewsgroupName.label "Cóipeáil Ainm an Ghrúpa Nuachta">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Cóipeáil URL an Ghrúpa Nuachta">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Cruthaigh Scagaire Ó…">
 <!ENTITY CreateFilterFrom.accesskey "S">
 <!ENTITY reportPhishingURL.label "Seol Tuairisc faoi Camscéim Ríomhphoist">
@@ -650,19 +801,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Content Pane Context Menu -->
 
 <!ENTITY saveLinkAsCmd.label "Sábháil an Nasc Mar…">
-<!ENTITY saveLinkAsCmd.accesskey "n">
+<!ENTITY saveLinkAsCmd.accesskey "N">
 <!ENTITY saveImageAsCmd.label "Sábháil an Íomhá Mar…">
-<!ENTITY saveImageAsCmd.accesskey "m">
+<!ENTITY saveImageAsCmd.accesskey "M">
+<!ENTITY cutCmd.label "Gearr">
+<!ENTITY cutCmd.accesskey "G">
 <!ENTITY copyCmd.label "Cóipeáil">
 <!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Greamaigh">
+<!ENTITY pasteCmd.accesskey "r">
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">
 <!ENTITY selectAllCmd.accesskey "U">
 <!ENTITY copyLinkCmd.label "Cóipeáil Suíomh an Naisc">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageCmd.label "Cóipeáil Suíomh na hÍomhá">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageAllCmd.label "Cóipeáil an Íomhá">
+<!ENTITY copyImageAllCmd.accesskey "i">
 <!ENTITY copyEmailCmd.label "Cóipeáil an Seoladh Ríomhphoist">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY stopCmd.label "Stad">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "Athluchtaigh">
+<!ENTITY reloadCmd.accesskey "A">
+<!ENTITY openInBrowser.label "Oscail i mBrabhsálaí">
+<!ENTITY openInBrowser.accesskey "O">
+<!ENTITY openLinkInBrowser.label "Oscail Nasc i mBrabhsálaí">
+<!ENTITY openLinkInBrowser.accesskey "O">
 <!-- Statusbar -->
 
 <!ENTITY statusText.label "Déanta">

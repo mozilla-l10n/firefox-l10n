@@ -5,11 +5,11 @@
 <!ENTITY addressingText.label "Agus seoltaí á lorg:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label "Úsáid mo shainroghanna uilíocha maidir le freastalaithe LDAP don chuntas seo">
-<!ENTITY useGlobal.accesskey "U">
+<!ENTITY useGlobal.accesskey "u">
 <!ENTITY editDirectories.label "Cuir Eolairí in Eagar…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label "Úsáid freastalaí LDAP eile:">
+<!ENTITY directories.label "Use a different LDAP server:">
 <!ENTITY directories.accesskey "d">
 <!ENTITY directoriesNone.label "Gan sonrú">
 <!-- am-addressing.xul -->
@@ -17,13 +17,13 @@
 
 <!ENTITY compositionGroupTitle.label "Cumadh">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label "Cum teachtaireachtaí i bhformáid HTML">
+<!ENTITY useHtml.label "Compose messages in HTML format">
 <!ENTITY useHtml.accesskey "C">
 <!ENTITY autoQuote.label "Cuir isteach an teachtaireacht bhunaidh go huathoibríoch agus freagra á chumadh">
 <!ENTITY autoQuote.accesskey "m">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label "Ansin,">
-<!ENTITY then.accesskey "A">
+<!ENTITY then.label "Then,">
+<!ENTITY then.accesskey "T">
 <!ENTITY aboveQuote.label "cuir tús le mo fhreagra os cionn an athfhriotail">
 <!ENTITY belowQuote.label "cuir tús le mo fhreagra faoin athfhriotal">
 <!ENTITY selectAndQuote.label "roghnaigh an t-athfhriotal">
@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey "s">
 <!ENTITY belowText.label "faoin athfhriotal (molta)">
 <!ENTITY aboveText.label "faoi mo fhreagra (os cionn an athfhriotail)">
+<!ENTITY includeSigOnReply.label "Cuir an síniú i bhfreagraí">
+<!ENTITY includeSigOnReply.accesskey "s">
+<!ENTITY includeSigOnForward.label "Cuir síniú san áireamh i dteachtaireachtaí curtha ar aghaidh">
+<!ENTITY includeSigOnForward.accesskey "t">

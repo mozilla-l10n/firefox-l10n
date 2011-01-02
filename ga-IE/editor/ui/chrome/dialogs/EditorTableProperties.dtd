@@ -46,7 +46,7 @@
 <!ENTITY tableColumns.label "Colúin:">
 <!ENTITY tableColumns.accessKey "C">
 <!ENTITY tableHeight.label "Airde:">
-<!ENTITY tableHeight.accessKey "D">
+<!ENTITY tableHeight.accessKey "d">
 <!ENTITY tableWidth.label "Leithead:">
 <!ENTITY tableWidth.accessKey "L">
 <!ENTITY tableBorderSpacing.label "Imlínte agus Spásáil">
@@ -61,7 +61,7 @@
 <!ENTITY tableAlignment.label "Ailíniú Tábla:">
 <!ENTITY tableAlignment.accessKey "T">
 <!ENTITY tableCaption.label "Foscríbhinn:">
-<!ENTITY tableCaption.accessKey "N">
+<!ENTITY tableCaption.accessKey "n">
 <!ENTITY tableCaptionAbove.label "Os cionn an tábla">
 <!ENTITY tableCaptionBelow.label "Faoin tábla">
 <!ENTITY tableCaptionLeft.label "Ar chlé an tábla">
@@ -102,7 +102,7 @@
 <!ENTITY size.label "Méid">
 <!ENTITY pixels.label "picteilíní">
 <!ENTITY backgroundColor.label "Dath an Chúlra:">
-<!ENTITY backgroundColor.accessKey "L">
+<!ENTITY backgroundColor.accessKey "l">
 <!ENTITY AlignLeft.label "Ar Chlé">
 <!ENTITY AlignCenter.label "Láraithe">
 <!ENTITY AlignRight.label "Ar Dheis">

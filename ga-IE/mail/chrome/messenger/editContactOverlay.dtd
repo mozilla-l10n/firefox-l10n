@@ -1,8 +1,14 @@
+<!ENTITY editContactPanelDeleteContact.label "Scrios">
+<!ENTITY editContactPanelDeleteContact.accesskey "c">
+
 <!ENTITY editContactName.label "Ainm:">
-<!ENTITY editContactName.accesskey "N">
+<!ENTITY editContactName.accesskey "n">
 
 <!ENTITY editContactEmail.label "Ríomhphost:">
 <!ENTITY editContactEmail.accesskey "R">
+
+<!ENTITY editContactAddressBook.label "Address Book:">
+<!ENTITY editContactAddressBook.accesskey "A">
 
 <!ENTITY editContactPanelCancel.label "Cealaigh">
 <!ENTITY editContactPanelCancel.accesskey "C">

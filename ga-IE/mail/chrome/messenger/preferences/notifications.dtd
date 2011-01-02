@@ -3,9 +3,9 @@
 
 <!ENTITY alertCustomization.intro "Roghnaigh na réimsí a thaispeánfar sa bhfógra airdill:">
 <!ENTITY previewText.label "Téacs an Réamhamhairc Theachtaireachta">
-<!ENTITY previewText.accesskey "M">
+<!ENTITY previewText.accesskey "m">
 <!ENTITY subject.label "Ábhar">
-<!ENTITY subject.accesskey "B">
+<!ENTITY subject.accesskey "b">
 <!ENTITY sender.label "Seoltóir">
 <!ENTITY sender.accesskey "e">
 

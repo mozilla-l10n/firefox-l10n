@@ -39,7 +39,7 @@
 <!ENTITY Settings.label "Socruithe">
 
 <!ENTITY FormName.label "Ainm na Foirme:">
-<!ENTITY FormName.accesskey "N">
+<!ENTITY FormName.accesskey "n">
 <!ENTITY FormAction.label "URL Gnímh:">
 <!ENTITY FormAction.accesskey "G">
 <!ENTITY FormMethod.label "Modh:">

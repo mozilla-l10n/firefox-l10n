@@ -5,18 +5,18 @@
 <!ENTITY pageColorHeader "Cuma Réamhshocraithe na Leathanach">
 
 <!ENTITY defaultColors.label "Dathanna réamhshocraithe an léitheora (ná socraigh dathanna sa leathanach)">
-<!ENTITY defaultColors.accesskey "d">
+<!ENTITY defaultColors.accesskey "D">
 <!ENTITY customColors.label "Úsáid dathanna saincheaptha:">
 <!ENTITY customColors.accesskey "c">
 
 <!ENTITY normalText.label "Gnáththéacs">
-<!ENTITY normalText.accesskey "N">
+<!ENTITY normalText.accesskey "n">
 <!ENTITY linkText.label "Téacs naisc">
-<!ENTITY linkText.accesskey "N">
+<!ENTITY linkText.accesskey "n">
 <!ENTITY activeLinkText.label "Téacs naisc gníomhach">
-<!ENTITY activeLinkText.accesskey "A">
+<!ENTITY activeLinkText.accesskey "a">
 <!ENTITY visitedLinkText.label "Téacs naisc feicthe">
-<!ENTITY visitedLinkText.accesskey "F">
+<!ENTITY visitedLinkText.accesskey "f">
 <!ENTITY background.label "Cúlra:">
 <!ENTITY background.accesskey "C">
 <!ENTITY colon.character ":">

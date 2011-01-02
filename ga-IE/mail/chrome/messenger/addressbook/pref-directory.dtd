@@ -38,13 +38,13 @@
 
 <!ENTITY pref.ldap.window.title "Freastalaithe Eolaire LDAP">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label "Freastalaí Eolaire LDAP:">
+<!ENTITY directories.label "LDAP Directory Server:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label "Roghnaigh Freastalaí Eolaire LDAP:">
+<!ENTITY directoriesText.label "Select an LDAP Directory Server:">
 <!ENTITY directoriesText.accesskey "S">
 <!ENTITY addDirectory.label "Cuir Leis">
-<!ENTITY addDirectory.accesskey "l">
+<!ENTITY addDirectory.accesskey "L">
 <!ENTITY editDirectory.label "Eagar">
-<!ENTITY editDirectory.accesskey "e">
+<!ENTITY editDirectory.accesskey "E">
 <!ENTITY deleteDirectory.label "Scrios">
-<!ENTITY deleteDirectory.accesskey "s">
+<!ENTITY deleteDirectory.accesskey "S">

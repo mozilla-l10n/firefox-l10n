@@ -37,14 +37,14 @@
 <!ENTITY windowTitle.label "Airíonna an Lipéid">
 
 <!ENTITY Settings.label "Socruithe">
-<!ENTITY Settings.accesskey "R">
+<!ENTITY Settings.accesskey "r">
 
 <!ENTITY EditLabelText.label "Cuir Téacs in Eagar:">
 <!ENTITY EditLabelText.accesskey "T">
 <!ENTITY LabelFor.label "Le haghaidh Rialtáin:">
 <!ENTITY LabelFor.accesskey "L">
 <!ENTITY AccessKey.label "Eochair Rochtana:">
-<!ENTITY AccessKey.accesskey "C">
+<!ENTITY AccessKey.accesskey "c">
 
 <!ENTITY RemoveLabel.label "Bain Lipéad">
 <!ENTITY RemoveLabel.accesskey "B">

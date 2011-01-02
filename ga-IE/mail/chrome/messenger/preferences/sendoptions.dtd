@@ -2,7 +2,7 @@
 <!ENTITY sendMail.title "Formáid Téacs">
 <!ENTITY sendMaildesc.label "Agus teachtaireachtaí á seoladh i bhformáid HTML, má tá faighteoirí nach féidir leo glacadh le HTML:">
 <!ENTITY askMe.label "Fiafraigh díom cad atá le déanamh">
-<!ENTITY askMe.accesskey "f">
+<!ENTITY askMe.accesskey "F">
 <!ENTITY convertPlain.label "Tiontaigh an teachtaireacht go gnáth-théacs">
 <!ENTITY convertPlain.accesskey "T">
 <!ENTITY sendHTML.label "Seol an teachtaireacht mar HTML">
@@ -16,14 +16,14 @@
 <!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "Fearainn Ghnáth-Théacs">
 <!ENTITY PlainTextTab.accesskey "G">
-<!ENTITY AddHtmlDomain.label "Cuir Leis…">
-<!ENTITY AddHtmlDomain.accesskey "C">
-<!ENTITY AddPlainText.label "Cuir Leis…">
+<!ENTITY AddHtmlDomain.label "Add…">
+<!ENTITY AddHtmlDomain.accesskey "A">
+<!ENTITY AddPlainText.label "Add…">
 <!ENTITY AddPlainText.accesskey "C">
-<!ENTITY DeleteHtmlDomain.label "Scrios">
-<!ENTITY DeleteHtmlDomain.accesskey "S">
-<!ENTITY DeletePlainText.label "Scrios">
-<!ENTITY DeletePlainText.accesskey "S">
+<!ENTITY DeleteHtmlDomain.label "Delete">
+<!ENTITY DeleteHtmlDomain.accesskey "D">
+<!ENTITY DeletePlainText.label "Delete">
+<!ENTITY DeletePlainText.accesskey "D">
 
 <!ENTITY add.htmltitle "Cuir Ainm Fearainn HTML Leis">
 <!ENTITY add.htmldomain "Ainm Fearainn HTML:">

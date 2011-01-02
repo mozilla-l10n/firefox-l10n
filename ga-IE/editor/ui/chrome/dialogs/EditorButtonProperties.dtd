@@ -40,12 +40,12 @@
 
 <!ENTITY ButtonType.label "Cineál">
 <!ENTITY ButtonType.accesskey "C">
-<!ENTITY submit.value "Cuir Isteach">
+<!ENTITY submit.value "Seol">
 <!ENTITY reset.value "Bánaigh">
 <!ENTITY button.value "Cnaipe">
 
 <!ENTITY ButtonName.label "Ainm:">
-<!ENTITY ButtonName.accesskey "N">
+<!ENTITY ButtonName.accesskey "n">
 <!ENTITY ButtonValue.label "Luach:">
 <!ENTITY ButtonValue.accesskey "L">
 <!ENTITY tabIndex.label "Innéacs Cluaisín:">
@@ -53,7 +53,7 @@
 <!ENTITY ButtonDisabled.label "Díchumasaithe">
 <!ENTITY ButtonDisabled.accesskey "D">
 <!ENTITY AccessKey.label "Eochair Rochtana:">
-<!ENTITY AccessKey.accesskey "C">
+<!ENTITY AccessKey.accesskey "c">
 
 <!ENTITY RemoveButton.label "Bain Cnaipe">
 <!ENTITY RemoveButton.accesskey "B">

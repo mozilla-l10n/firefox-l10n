@@ -1,8 +1,7 @@
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "Teachtaireacht">
-<!ENTITY newMessageCmd.accesskey "t">
+<!ENTITY newMessageCmd.accesskey "T">
  
-<!ENTITY newCardCmd.label "Cárta sa Leabhar Seoltaí…">
-<!ENTITY newCardCmd.accesskey "c">
-
+<!ENTITY newContactCmd.label "Teagmháil Leabhair Seoltaí…">
+<!ENTITY newContactCmd.accesskey "T">

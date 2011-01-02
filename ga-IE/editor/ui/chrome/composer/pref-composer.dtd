@@ -14,12 +14,12 @@
 <!ENTITY saveAssociatedFiles.label "Sábháil íomhánna agus comhaid eile chomhcheangailte agus comhaid á sábháil">
 <!ENTITY saveAssociatedFiles.accesskey "S">
 <!ENTITY showPublishDialog.label "Taispeáin an dialóg fhoilsithe i gcónaí agus leathanaigh á bhfoilsiú">
-<!ENTITY showPublishDialog.accesskey "A">
+<!ENTITY showPublishDialog.accesskey "a">
 <!ENTITY composerEditing.label "Eagarthóireacht">
 <!ENTITY maintainStructure.label "Coimeád leagan amach an tábla agus cealla á n-ionsá nó á scriosadh">
 <!ENTITY maintainStructure.tooltip "Coimeádann seo cruth dronuilleach an tábla trí cealla a chur leis go huathoibríoch tar éis ionsá nó scriosta cealla.">
-<!ENTITY maintainStructure.accesskey "M">
+<!ENTITY maintainStructure.accesskey "m">
 <!ENTITY useCSS.label "Úsáid stíleanna CSS in áit eilimintí agus aitreabúidí HTML">
-<!ENTITY useCSS.accesskey "S">
+<!ENTITY useCSS.accesskey "s">
 <!ENTITY crInPCreatesNewP.label "Cruthaíonn aisfhilleadh in alt nua i gcónaí">
-<!ENTITY crInPCreatesNewP.accesskey "R">
+<!ENTITY crInPCreatesNewP.accesskey "r">

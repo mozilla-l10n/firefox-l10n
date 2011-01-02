@@ -50,7 +50,7 @@
 <!ENTITY title.accessKey "L">
 <!ENTITY title.tooltip 'An aitreabúid HTML "title" a thaispeánfar mar leid uirlise'>
 <!ENTITY altText.label "Téacs mar Mhalairt:">
-<!ENTITY altText.accessKey "A">
+<!ENTITY altText.accessKey "a">
 <!ENTITY altTextEditField.tooltip "Iontráil an téacs le taispeáint in áit na híomhá">
 <!ENTITY noAltText.label "Ná húsáid téacs mar mhalairt">
 <!ENTITY noAltText.accessKey "N">
@@ -67,7 +67,7 @@
 <!ENTITY customSizeRadio.accessKey "S">
 <!ENTITY customSizeRadio.tooltip "Athraigh méid na híomhá agus í á taispeáint sa leathanach">
 <!ENTITY heightEditField.label "Airde:">
-<!ENTITY heightEditField.accessKey "D">
+<!ENTITY heightEditField.accessKey "d">
 <!ENTITY widthEditField.label "Leithead:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Cuir Iallach Air">
@@ -92,15 +92,15 @@
 
 <!ENTITY spacingBox.label "Spásáil">
 <!ENTITY leftRightEditField.label "Deis agus clé:">
-<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY leftRightEditField.accessKey "l">
 <!ENTITY topBottomEditField.label "Barr agus Bun:">
 <!ENTITY topBottomEditField.accessKey "B">
 <!ENTITY borderEditField.label "Imlíne sholadach:">
-<!ENTITY borderEditField.accessKey "S">
+<!ENTITY borderEditField.accessKey "s">
 <!-- These controls are in the Link Box -->
 
 <!ENTITY showImageLinkBorder.label "Taispeáin imlíne timpeall na híomhá nasctha">
-<!ENTITY showImageLinkBorder.accessKey "I">
+<!ENTITY showImageLinkBorder.accessKey "i">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Foirm">

@@ -14,23 +14,25 @@
 
 <!ENTITY contextDesc.label "Cuir an scagaire seo i bhfeidhm agus:">
 <!ENTITY contextDesc.accesskey "f">
-<!ENTITY contextIncoming.label "Ríomhphost á sheiceáil">
-<!ENTITY contextManual.label "Scagaire á rith de láimh">
-<!ENTITY contextBoth.label "Ríomhphost á sheiceáil nó an scagaire á rith de láimh">
+<!ENTITY contextIncoming.label "ríomhphost á sheiceáil">
+<!ENTITY contextManual.label "scagaire á rith de láimh">
+<!ENTITY contextBoth.label "ríomhphost á sheiceáil nó an scagaire á rith de láimh">
+<!ENTITY contextPostPlugin.label "ríomhphost á sheiceáil (tar éis rangaithe)">
+<!ENTITY contextPostPluginBoth.label "ríomhphost á sheiceáil (tar éis rangaithe) nó rite le láimh">
 <!ENTITY filterActionDesc.label "Déan na gníomhartha seo:">
-<!ENTITY filterActionDesc.accesskey "G">
+<!ENTITY filterActionDesc.accesskey "g">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Bog an teachtaireacht go">
 <!ENTITY copyMessage.label "Cóipeáil an teachtaireacht go">
-<!ENTITY forwardTo.label "Cuir an teachtaireacht ar aghaidh go">
-<!ENTITY replyWithTemplate.label "Freagair le Teimpléad">
-<!ENTITY markMessageRead.label "Marcáil mar Léite">
-<!ENTITY markMessageStarred.label "Cuir Réiltín Leis">
-<!ENTITY setPriority.label "Socraigh Tosaíocht mar">
-<!ENTITY addTag.label "Clibeáil an Teachtaireacht">
-<!ENTITY setJunkScore.label "Socraigh Stádas Dramhphoist mar">
-<!ENTITY deleteMessage.label "Scrios an Teachtaireacht">
+<!ENTITY forwardTo.label "Cuir an teachtaireacht ar aghaidh chuig">
+<!ENTITY replyWithTemplate.label "Freagair le teimpléad">
+<!ENTITY markMessageRead.label "Marcáil mar léite">
+<!ENTITY markMessageStarred.label "Cuir réiltín leis">
+<!ENTITY setPriority.label "Socraigh tosaíocht mar">
+<!ENTITY addTag.label "Clibeáil an teachtaireacht">
+<!ENTITY setJunkScore.label "Socraigh stádas dramhphoist mar">
+<!ENTITY deleteMessage.label "Scrios an teachtaireacht">
 <!ENTITY deleteFromPOP.label "Scrios ar an bhfreastalaí POP">
 <!ENTITY fetchFromPOP.label "Faigh ón bhfreastalaí POP">
 <!ENTITY ignoreThread.label "Tabhair Neamhaird ar an Snáithe">

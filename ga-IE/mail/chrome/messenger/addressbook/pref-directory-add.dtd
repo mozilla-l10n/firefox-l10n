@@ -43,9 +43,9 @@
 <!ENTITY directoryBaseDN.label "DN bunaidh:">
 <!ENTITY directoryBaseDN.accesskey "b">
 <!ENTITY findButton.label "Aimsigh">
-<!ENTITY findButton.accesskey "a">
+<!ENTITY findButton.accesskey "A">
 <!ENTITY directorySecure.label "Úsáid nasc daingean (SSL)">
-<!ENTITY directorySecure.accesskey "S">
+<!ENTITY directorySecure.accesskey "s">
 <!ENTITY directoryLogin.label "DN ceangail: ">
 <!ENTITY directoryLogin.accesskey "i">
 <!ENTITY General.tab "Ginearálta">
@@ -54,7 +54,7 @@
 <!ENTITY portNumber.label "Uimhir phoirt: ">
 <!ENTITY portNumber.accesskey "p">
 <!ENTITY searchFilter.label "Scagaire cuardaigh:">
-<!ENTITY searchFilter.accesskey "s">
+<!ENTITY searchFilter.accesskey "S">
 <!ENTITY scope.label "Scóip: ">
 <!ENTITY scope.accesskey "c">
 <!ENTITY scopeOneLevel.label "Leibhéal Amháin">
@@ -65,8 +65,15 @@
 <!ENTITY return.accesskey "a">
 <!ENTITY results.label "toradh">
 <!ENTITY offlineText.label "Is féidir leat cóip logánta den chomhadlann seo a íosluchtú ionas go mbeidh sé ar fáil duit agus tú ag obair as líne.">
+<!ENTITY saslMechanism.label "Modh logála isteach: ">
+<!ENTITY saslMechanism.accesskey "M">
+<!ENTITY saslOff.label "Simplí">
+<!ENTITY saslOff.accesskey "l">
+<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey "K">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
+
 <!ENTITY newDirectoryWidth "36em">

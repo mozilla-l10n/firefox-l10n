@@ -42,7 +42,7 @@
 <!ENTITY titleInput.label "Teideal:">
 <!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "Údar:">
-<!ENTITY authorInput.accessKey "A">
+<!ENTITY authorInput.accessKey "a">
 <!ENTITY descriptionInput.label "Cur Síos:">
 <!ENTITY descriptionInput.accessKey "C">
 <!ENTITY locationNewPage.label "[Leathanach nua, gan sábháil faoi láthair]">

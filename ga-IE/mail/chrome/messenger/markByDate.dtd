@@ -37,6 +37,6 @@
 
 <!ENTITY messageMarkByDate.label "Marcáil Teachtaireachtaí mar Léite de réir Dáta">
 <!ENTITY markByDateLower.label "Marcáil teachtaireachtaí mar léite ó:">
-<!ENTITY markByDateLower.accesskey "L">
+<!ENTITY markByDateLower.accesskey "l">
 <!ENTITY markByDateUpper.label "Go:">
 <!ENTITY markByDateUpper.accesskey "G">

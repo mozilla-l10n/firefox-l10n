@@ -3,7 +3,7 @@
 
 <!ENTITY recipient.label "Liostáiltear roinnt de na faighteoirí gan bheith in ann glacadh le ríomhphost HTML.">
 
-<!ENTITY question.label "Ar mhaith leat an teachtaireacht a thiontú go gnáth-théacs, nó é a sheoladh mar HTML pé scéal é?">
+<!ENTITY question.label "An bhfuil fonn ort an teachtaireacht a thiontú go gnáth-théacs, nó é a sheoladh mar HTML pé scéal é?">
 
 <!ENTITY plainTextAndHtml.label "Seol mar ghnáth-théacs agus HTML">
 <!ENTITY plainTextAndHtml.accesskey "a">

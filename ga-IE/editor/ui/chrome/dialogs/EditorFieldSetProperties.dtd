@@ -40,10 +40,10 @@
 <!ENTITY Legend.accesskey "E">
 
 <!ENTITY EditLegendText.label "Cuir an eochair eolais in eagar:">
-<!ENTITY EditLegendText.accesskey "E">
+<!ENTITY EditLegendText.accesskey "e">
 <!ENTITY LegendAlign.label "Ailínigh an eochair eolais:">
 <!ENTITY LegendAlign.accesskey "A">
-<!ENTITY AlignDefault.label "Réamhshocraithe">
+<!ENTITY AlignDefault.label "Réamhshocrú">
 <!ENTITY AlignLeft.label "Ar Chlé">
 <!ENTITY AlignCenter.label "Láraithe">
 <!ENTITY AlignRight.label "Ar Dheis">

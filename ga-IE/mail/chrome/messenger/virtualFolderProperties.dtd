@@ -1,6 +1,6 @@
 <!ENTITY virtualFolderProperties.title "Fillteán Nua Cuardaigh Shábháilte">
 <!ENTITY name.label "Ainm:">
-<!ENTITY name.accesskey "N">
+<!ENTITY name.accesskey "n">
 <!ENTITY description.label "Cruthaigh mar fofhillteán de:">
 <!ENTITY description.accesskey "C">
 
@@ -8,7 +8,11 @@
 
 <!ENTITY folderSelectionCaption.label "Roghnaigh na fillteáin atá le cuardach:">
 <!ENTITY chooseFoldersButton.label "Roghnaigh…">
-<!ENTITY chooseFoldersButton.accesskey "r">
+<!ENTITY chooseFoldersButton.accesskey "R">
 
 <!ENTITY searchOnline.label "Cuardach ar líne (beidh na torthaí cothrom le dáta le haghaidh fillteán IMAP agus Nuachta ach beidh oscailt an fhillteáin níos moille)">
 <!ENTITY searchOnline.accesskey "C">
+<!ENTITY newFolderButton.label "Create">
+<!ENTITY newFolderButton.accesskey "r">
+<!ENTITY editFolderButton.label "Nuashonraigh">
+<!ENTITY editFolderButton.accesskey "u">
