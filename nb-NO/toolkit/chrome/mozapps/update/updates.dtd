@@ -1,6 +1,6 @@
 <!ENTITY  updateWizard.title              "Programvareoppdatering">
 
-<!ENTITY  checking.title                  "Ser etter oppdateringer">
+<!ENTITY  checking.title                  "Søker etter oppdateringer">
 <!ENTITY  updateCheck.label               "Søker etter nyere versjoner av &brandShortName; …">
 
 <!ENTITY  pluginupdatesfound.title        "Oppdateringer for programtillegg">
