@@ -90,6 +90,7 @@
 <!ENTITY col.lastmodified.label  "Соңғы рет өзгертілген">
 
 <!ENTITY search.label                              "Іздеу">
+<!ENTITY search.in.label                           "Қайда іздеу:">
 <!ENTITY search.accesskey                          "з">
 <!ENTITY search.scopeBookmarks.label               "Бетбелгілер">
 <!ENTITY search.scopeBookmarks.accesskey           "Б">
@@ -108,12 +109,10 @@
 <!ENTITY maintenance.accesskey  "И">
 
 <!ENTITY backCmd.label       "Қайту">
-<!ENTITY backCmd.accesskey   "й">
 <!ENTITY backButton.tooltip  "Алдыңғы бетке қайту">
 <!ENTITY maintenance.tooltip    "Бетбелгілеріңізді импорттау мен қор көшіру">
 
 <!ENTITY forwardCmd.label       "Алға">
-<!ENTITY forwardCmd.accesskey   "А">
 <!ENTITY forwardButton.tooltip  "Келесі бетке өту">
 
 <!ENTITY detailsPane.more.label "Көбірек">

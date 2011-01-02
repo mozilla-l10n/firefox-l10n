@@ -3,5 +3,4 @@
 <!ENTITY date.heading               "Жіберу күні">
 <!ENTITY noReports.label            "Құлау туралы ешбір хабар жіберілмеген.">
 <!ENTITY noConfig.label             "Бағдарлама құлау туралы хабарларға бапталмаған. <code>breakpad.reportURL</code> параметрін қою керек.">
-<!ENTITY clearReports.label         "Хабарларды өшіру">
 

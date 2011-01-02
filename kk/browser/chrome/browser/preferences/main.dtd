@@ -5,8 +5,6 @@
 <!ENTITY startupHomePage.label     "Менің үй парағымды көрсету">
 <!ENTITY startupBlankPage.label    "Таза парақты көрсету">
 <!ENTITY startupLastSession.label  "Алдында ашылған терезер мен беттерді көрсету">
-<!ENTITY location.label            "Үй парағы:">
-<!ENTITY location.accesskey        "й">
 <!ENTITY useCurrentPage.label      "Ағымдағы бетті қолдану">
 <!ENTITY useCurrentPage.accesskey  "А">
 <!ENTITY useMultiple.label         "Ағымдағы беттерді қолдану">

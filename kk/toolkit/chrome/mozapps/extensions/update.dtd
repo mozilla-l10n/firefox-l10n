@@ -53,5 +53,3 @@
 <!ENTITY  clickFinish.label               "&brandShortName; қосуды жалғастыру үшін «Дайын» батырасын басыңыз.">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; қосуды жалғастыру үшін «Дайын» батырасын басыңыз.">
 <!ENTITY  enableChecking.label            "&brandShortName; үшін жаңа нұсқаларының пайда болуын тексеруге рұқсат беру.">
-<!ENTITY  details.label                   "Көбірек білу...">
-<!ENTITY  details.accesskey               "К">

@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        "Ашылып жатқан бетке ауысу">
 <!ENTITY switchToNewTabs.accesskey    "ы">
+
+<!ENTITY showTabsInTaskbar.label          "Windows тапсырмалар панелінде беттер көріністерін көрсету">
+<!ENTITY showTabsInTaskbar.accesskey      "к">

@@ -32,8 +32,8 @@
 <!ENTITY netInterrupt.longDesc "<p>Браузер байланысты сәтті орнатқан, бірақ ол ақпаратты беру кезінде үзілген. Қайталап көріңіз.</p><ul><li>Басқа да сайттарды аша-алмасаңыз, компьютеріңіздің желіге қосылу баптауларын тексеріңіз.</li><li>Егер де басқа мәселелер пайда болса, жүйелік администраторыңызбен немесе Интернет-провайдеріңізбен хабарласыңыз.</li></ul>">
 
 <!ENTITY netOffline.title "Дербес жұмыс істеу">
-<!ENTITY netOffline.longDesc "<ul>
-  <li>«Файл» мәзірінде «Дербес жұмыс істеу» жалаушасын алып, қайталап көріңіз.</li>
+<!ENTITY netOffline.overrideLongDesc "<ul>
+  <li>Мәзірде &quot;Дербес жұмыс&quot; жалаушасын алып тастап, қайталап көріңіз.</li>
 </ul>">
 
 <!ENTITY contentEncodingError.title "Құраманы өңдеу кезінде қате кетті">
@@ -96,16 +96,15 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "Осыдан кеткім келеді!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ерекше ереже қосу…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "<p>Егер Интернетпен байланысыңызға толығымен сенбесеңіз, немесе бұл сайтпен қосылғанда хабарландыру шықпаса, онда ерекше ережені қоспауыңыз керек.</p>
+<!ENTITY securityOverride.warningContent "<p>Егер Интернетпен байланысыңызға толығымен сенбесеңіз, немесе бұл сайтпен қосылғанда хабарландыру шықпаса, онда ерекше ережені қоспауыңыз керек.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">

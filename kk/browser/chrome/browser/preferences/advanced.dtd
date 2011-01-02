@@ -36,27 +36,21 @@
 
 <!ENTITY offlineStorage.label            "Дербес режим қоймасы">
 
-<!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
-  line in preferences as follows:
-
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
--->
-<!ENTITY useCacheBefore.label            "Көрсетілгенге дейін қолдану">
-<!ENTITY useCacheBefore.accesskey        "К">
-<!ENTITY useCacheAfter.label             "Дискілік кэш үшін МБ">
+<!ENTITY limitCacheSizeBefore.label      "Кэш шегі">
+<!ENTITY limitCacheSizeBefore.accesskey  "К">
+<!ENTITY limitCacheSizeAfter.label       "МБ орын">
 <!ENTITY clearCacheNow.label             "Қазір өшіру">
 <!ENTITY clearCacheNow.accesskey         "з">
+<!ENTITY overrideSmartCacheSize.label    "Кэшті автобасқаруды елемеу">
+<!ENTITY overrideSmartCacheSize.accesskey "м">
 
 <!ENTITY updateTab.label                 "Жаңартулар">
 
 <!ENTITY autoCheck.label                 "Келесілер үшін жаңартулар бар-жоғын автоматты түрде тексеру:">
 <!ENTITY enableAppUpdate.label           "&brandShortName; браузері үшін">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Орнатылған кеңейтулері үшін">
-<!ENTITY enableAddonsUpdate.accesskey    "О">
+<!ENTITY enableAppUpdate.accesskey       "б">
 <!ENTITY enableSearchUpdate.label        "Іздеу плагиндері үшін">
-<!ENTITY enableSearchUpdate.accesskey    "у">
+<!ENTITY enableSearchUpdate.accesskey    "п">
 <!ENTITY whenUpdatesFound.label          "&brandShortName; үшін жаңартулар табылған кезде:">
 <!ENTITY askMe.label                     "Пайдаланушының іс-әрекетін сұрау">
 <!ENTITY askMe.accesskey                 "т">
@@ -99,3 +93,5 @@
 <!ENTITY verify2.accesskey               "п">
 <!ENTITY viewSecurityDevices.label       "Қорғаныс жабдықтары">
 <!ENTITY viewSecurityDevices.accesskey   "ж">
+<!ENTITY allowHWAccel.label              "Қолжетерлік болса құрылғылық үдетуді қолдану">
+<!ENTITY allowHWAccel.accesskey          "д">

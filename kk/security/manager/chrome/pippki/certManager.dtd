@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "Сертификат аты">
 <!ENTITY certmgr.certserver                   "Сервері">
-<!ENTITY certmgr.typesofoverrides             "Ережеден тыс">
 <!ENTITY certmgr.override_lifetime            "Мерзімі">
 <!ENTITY certmgr.tokenname                    "Қауіпсіздік құрылғысы">
-<!ENTITY certmgr.purpose                      "Мақсаттары">
 <!ENTITY certmgr.issued                       "Берілген">
 <!ENTITY certmgr.expires                      "Мерзімі">
 <!ENTITY certmgr.email                        "Электронды пошта адресі">
@@ -107,10 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "Ж">
 <!ENTITY certmgr.view2.label                  "Қарап шығу...">
 <!ENTITY certmgr.view2.accesskey              "ш">
-<!ENTITY certmgr.edit2.label                  "Түзету...">
-<!ENTITY certmgr.edit2.accesskey              "Т">
 <!ENTITY certmgr.editca.label                 "CA сенуді баптау">
-<!ENTITY certmgr.editca.accesskey             "d">
+<!ENTITY certmgr.editca.accesskey             "с">
 <!ENTITY certmgr.add.label                    "Қосу">
 <!ENTITY certmgr.add.accesskey                "о">
 <!ENTITY certmgr.export.label                 "Экспорттау...">
@@ -133,8 +129,8 @@
 <!ENTITY certmgr.addException.accesskey       "р">
 
 <!ENTITY exceptionMgr.title                   "Қауіпсіздік ерекше ереже қосу">
-<!ENTITY exceptionMgr.exceptionButton         "Қауіпсіздік ерекше ережені растау">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "р">
+<!ENTITY exceptionMgr.exceptionButton.label   "Қауіпсіздік ерекше ережені растау">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "р">
 <!ENTITY exceptionMgr.supplementalWarning     "Шын банктар, дүкендер, және басқа да сайттар сізден осыны сұрамайды.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Сервер">
 <!ENTITY exceptionMgr.certlocation.url        "Адресі:">

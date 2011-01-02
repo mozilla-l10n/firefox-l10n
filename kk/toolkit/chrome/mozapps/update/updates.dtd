@@ -19,6 +19,9 @@
 
 <!ENTITY  clickHere.label                 "Бұл жаңарту жөнінде көбірек білу">
 
+<!ENTITY  manualUpdate.space.desc         "Ұсынылатын қауіпсіздік пен тұрақтылық жаңартуы қолжетерлік, бірақ оны орнату
+                                           үшін сізде орын жеткіліксіз.">
+                                           
 <!ENTITY  evangelism.desc                 "&brandShortName; үшін осы жаңартуды сізге неғұрлым тезірек 
                                            орнату міндетті түрде ұсынылады.">
 
@@ -46,15 +49,23 @@
 
 <!ENTITY  details.link                    "Көбірек білу">
 
+<!ENTITY  error.title                     "Жаңарту сәтсіз">
+
 <!ENTITY  error.label                     "Осы жаңартуды тексеру, жүктеп алу немесе орнату мүмкін емес. 
                                            &brandShortName; жаңартылмайды, өйткені:">
                                            
 <!ENTITY  errorManual.label               "Сіз &brandShortName; келесі сілтемеден өтіп, соңғы нұсқасын жүктеу
                                            арқылы қолмен жаңарта аласыз:">
-                                           
-<!ENTITY  errorpatching.title             "Жаңарту сәтсіз аяқталды">
+
 <!ENTITY  errorpatching.intro             "Жартылай жаңартуды іске асыру мүмкін емес. 
                                            &brandShortName; қазір толық жаңартуды жүктеп алады.">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; қолжетерлік жаңартудың бар-жоғын тексере алмады. Сіз
+                                           &brandShortName; соңғы нұсқасын қолданатынын осында тексеріңіз:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Бірнәрсе &brandShortName; үшін қауіпсіз жаңартылуға кедергі болып отыр.
+                                           Сіз &brandShortName; соңғы нұсқасын қолданатынын осында тексеріңіз:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Бәрнәрсе &brandShortName; үшін алдап, қауіпсіз жаңартуды орнатқысы келіп отыр.
+                                          Желілік провайдеріңізбен хабарларласып, көмек сұраңыз.">
 
 <!ENTITY  finishedPage.title              "Жаңарту орнатуға дайын">
 <!ENTITY  finishedPage.text               "Осы жаңарту &brandShortName; келесі рет қосылғанда орнатылады. Сіз 

@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Жекелік шолу режимін бастау">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "Ж">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Жекелік шолуды аяқтау үшін, &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; таңдаңыз, немесе &brandShortName; жабыңыз.">
-<!ENTITY privatebrowsingpage.howToStart                "Жекелік шолу режимін бастау үшін, сіз осыған қоса &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; таңдай аласыз.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "Жекелік шолу режимін аяқтау үшін &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; таңдаңыз, не &brandShortName; жабыңыз.">
+<!ENTITY privatebrowsingpage.howToStart2               "Жекелік шолу режимін &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; арқылы да бастай аласыз.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Бұл компьютер сіздің қаралған беттер тарихын сақтамаса да, интернет провайдеріңіз не жұмыс берушіңіз сіз қараған беттер тарихын біле алады.">
 <!ENTITY privatebrowsingpage.learnMore                 "Көбірек білу">
