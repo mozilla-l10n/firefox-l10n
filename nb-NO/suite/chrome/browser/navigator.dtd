@@ -45,7 +45,7 @@
 
 <!ENTITY toolbarsCmd.label "Vis/skjul">
 <!ENTITY toolbarsCmd.accesskey "V">
-<!ENTITY navbarCmd.label "Verktøylinje for navigasjon">
+<!ENTITY navbarCmd.label "Navigasjonslinje">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Personlig verktøylinje">
 <!ENTITY personalbarCmd.accesskey "P">

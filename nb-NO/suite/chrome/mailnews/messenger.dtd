@@ -155,10 +155,10 @@
 <!ENTITY redoDefaultCmd.label "Gjenta">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "Verktøylinje for meldinger">
-<!ENTITY showMessengerToolbarCmd.accesskey "e">
-<!ENTITY showSearchToolbarCmd.label "Verktøylinje for søking">
-<!ENTITY showSearchToolbarCmd.accesskey "s">
+<!ENTITY showMessengerToolbarCmd.label "Meldingsrad">
+<!ENTITY showMessengerToolbarCmd.accesskey "M">
+<!ENTITY showSearchToolbarCmd.label "Søkelinje">
+<!ENTITY showSearchToolbarCmd.accesskey "S">
 
 <!ENTITY messagePaneLayoutStyle.label "Utseende">
 <!ENTITY messagePaneLayoutStyle.accesskey "U">
