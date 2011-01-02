@@ -52,6 +52,6 @@
 <!ENTITY pref.categories.color.label "Dath">
 <!ENTITY pref.categories.usecolor.label "Úsáid Dath">
 <!ENTITY pref.categories.none.label "(neamhní)">
-<!ENTITY pref.categories.overwrite "Tá catagóir ann cheana darb ainm sin. \n Ar mhaith leat é a fhorscríobh?">
+<!ENTITY pref.categories.overwrite "Tá catagóir ann cheana darb ainm sin. \n An bhfuil fonn ort é a fhorscríobh?">
 <!ENTITY pref.categories.overwrite.title "Rabhadh: Ainm dúblach">
 <!ENTITY pref.categories.noBlankCategories "Caithfidh tú ainm a chur ar an chatagóir.">

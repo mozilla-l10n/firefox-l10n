@@ -58,8 +58,8 @@
 <!ENTITY pref.defalarm4events.accesskey "e">
 <!ENTITY pref.defalarm4todos.label "Aláram réamhshocraithe do thascanna:">
 <!ENTITY pref.defalarm4todos.accesskey "a">
-<!ENTITY pref.alarm.on "Ar Siúl">
-<!ENTITY pref.alarm.off "Múchta">
+<!ENTITY pref.alarm.on "Ann">
+<!ENTITY pref.alarm.off "As">
 <!ENTITY pref.defalarmlen4events.label "Achar réamhshocraithe roimh imeacht a thabharfar an t-aláram:">
 <!ENTITY pref.defalarmlen4events.accesskey "i">
 <!ENTITY pref.defalarmlen4todos.label "Achar réamhshocraithe roimh tasc a thabharfar an t-aláram:">

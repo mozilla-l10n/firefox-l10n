@@ -57,7 +57,7 @@
 <!ENTITY event.delete.tasks.accesskey "T">
 
 <!ENTITY calendar.pagesetup.label "Socrú Leathanaigh…">
-<!ENTITY calendar.pagesetup.accesskey "l">
+<!ENTITY calendar.pagesetup.accesskey "L">
 
 <!ENTITY calendar.subscribe.label "Liostáil le Cianfhéilire…">
 <!ENTITY calendar.subscribe.accesskey "C">
@@ -67,17 +67,17 @@
 <!ENTITY calendar.reloadserver.accesskey "A">
 
 <!ENTITY calendar.publish.calendar.label "Foilsigh Féilire…">
-<!ENTITY calendar.publish.calendar.accesskey "f">
+<!ENTITY calendar.publish.calendar.accesskey "F">
 <!ENTITY calendar.publish.selection.label "Foilsigh Roghnúchán…">
-<!ENTITY calendar.publish.selection.accesskey "r">
+<!ENTITY calendar.publish.selection.accesskey "R">
 
 <!ENTITY calendar.quit.label "Scoir">
 <!ENTITY calendar.quit.accesskey "S">
 <!ENTITY calendar.quit.key "Q">
-<!ENTITY calendar.quit.label.mac "Scoir ó &brandShortName;">
+<!ENTITY calendar.quit.label.mac "Scoir &brandShortName;">
 
 <!ENTITY calendar.exit.label "Scoir">
-<!ENTITY calendar.exit.accesskey "s">
+<!ENTITY calendar.exit.accesskey "S">
 
 <!ENTITY calendar.undo.label "Cealaigh">
 <!ENTITY calendar.undo.key "Z">
@@ -89,7 +89,7 @@
 
 <!ENTITY calendar.cut.label "Gearr">
 <!ENTITY calendar.cut.key "X">
-<!ENTITY calendar.cut.accesskey "g">
+<!ENTITY calendar.cut.accesskey "G">
 
 <!ENTITY calendar.copy.label "Cóipeáil">
 <!ENTITY calendar.copy.key "C">
@@ -97,7 +97,7 @@
 
 <!ENTITY calendar.paste.label "Greamaigh">
 <!ENTITY calendar.paste.key "V">
-<!ENTITY calendar.paste.accesskey "R">
+<!ENTITY calendar.paste.accesskey "r">
 
 <!ENTITY calendar.selectall.label "Roghnaigh Uile">
 <!ENTITY calendar.selectall.key "W">
@@ -113,10 +113,10 @@
 <!ENTITY showTaskBoxCmd.accesskey "L">
 
 <!ENTITY calendar.fullscreen.label "Lánscáileán">
-<!ENTITY calendar.fullscreen.accesskey "I">
+<!ENTITY calendar.fullscreen.accesskey "i">
 
 <!ENTITY calendar.addons.label "Breiseáin">
-<!ENTITY calendar.addons.accesskey "b">
+<!ENTITY calendar.addons.accesskey "B">
 
 <!ENTITY goMenu.label "Gabh">
 <!ENTITY goMenu.accesskey "G">
@@ -131,11 +131,11 @@
 <!ENTITY errorConsoleCmd.accesskey "E">
 
 <!ENTITY helpMenu.label "Cabhair">
-<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenu.accesskey "h">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
            for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Cabhair">
-<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY helpMenuWin.accesskey "h">
 
 <!ENTITY fileMenu.label "Comhad">
 <!ENTITY fileMenu.accesskey "C">
@@ -163,6 +163,9 @@
 
 <!ENTITY updateCmd.label "Lorg Nuashonruithe…">
 <!ENTITY updateCmd.accesskey "o">
+
+<!ENTITY sunbird.export.calendar.label "Easpórtáil Féilire…">
+<!ENTITY sunbird.export.calendar.accesskey "E">
 <!-- Mac OS X "Window" menu items -->
 
 <!ENTITY windowMenu.label "Fuinneog">

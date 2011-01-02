@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -46,14 +50,8 @@
 <!ENTITY calendar.calendar.label "Féilire">
 <!ENTITY calendar.calendar.accesskey "F">
 
-<!ENTITY calendar.dayView.key "1">
-<!ENTITY calendar.weekView.key "2">
-<!ENTITY calendar.multiweekView.key "3">
-<!ENTITY calendar.monthView.key "4">
-
-<!ENTITY calendar.newtask.button.tooltip "Cruthaigh tasc nua">
 <!ENTITY calendar.newevent.button.tooltip "Cruthaigh imeacht nua">
-<!ENTITY calendar.edit.button.tooltip "Cuir an t-imeacht roghnaithe in eagar">
+<!ENTITY calendar.newtask.button.tooltip "Cruthaigh tasc nua">
 
 <!ENTITY calendar.unifinder.todoitems.label "Tascanna">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Taispeáin tascanna críochnaithe">
@@ -86,39 +84,39 @@
 <!ENTITY calendar.unifinder.tree.duration.label "Dlite i gceann">
 <!ENTITY calendar.unifinder.close.tooltip "Dún cuardach na n-imeachtaí agus liosta na n-imeachtaí">
 
-<!ENTITY calendar.today.button.tooltip "Oscail inniu">
-<!ENTITY calendar.todaypane.button.tooltip "Taispeáin pána Inniu">
-<!ENTITY calendar.unifinder.button.tooltip "Aimsigh agus taispeáin imeachtaí">
+<!ENTITY calendar.today.button.tooltip "Taispeáin Inniu">
+<!ENTITY calendar.todaypane.button.tooltip "Taispeáin Pána Inniu">
 
 <!ENTITY calendar.day.button.tooltip "Oscail amharc lae">
 <!ENTITY calendar.week.button.tooltip "Oscail amharc seachtaine">
 <!ENTITY calendar.month.button.tooltip "Oscail amharc míosa">
 <!ENTITY calendar.multiweek.button.tooltip "Oscail amharc ilseachtaine">
 
-<!ENTITY calendar.nextday.button.tooltip "An Chéad Lá Eile">
-<!ENTITY calendar.prevday.button.tooltip "An Lá Roimhe Seo">
-<!ENTITY calendar.nextweek.button.tooltip "An Chéad Seachtain Eile">
-<!ENTITY calendar.prevweek.button.tooltip "An tSeachtain Roimhe Seo">
-<!ENTITY calendar.nextmonth.button.tooltip "An Mhí Seo Chugainn">
-<!ENTITY calendar.prevmonth.button.tooltip "An Mhí Roimhe Seo">
+<!ENTITY calendar.nextday.label "An Chéad Lá Eile">
+<!ENTITY calendar.prevday.label "An Lá Roimhe Seo">
+<!ENTITY calendar.nextday.accesskey "C">
+<!ENTITY calendar.prevday.accesskey "S">
+<!ENTITY calendar.nextweek.label "An Chéad Seachtain Eile">
+<!ENTITY calendar.prevweek.label "An tSeachtain Roimhe Seo">
+<!ENTITY calendar.nextweek.accesskey "C">
+<!ENTITY calendar.prevweek.accesskey "S">
+<!ENTITY calendar.nextmonth.label "An Mhí Seo Chugainn">
+<!ENTITY calendar.prevmonth.label "An Mhí Roimhe Seo">
+<!ENTITY calendar.nextmonth.accesskey "C">
+<!ENTITY calendar.prevmonth.accesskey "S">
 
-<!ENTITY calendar.newtask.button.label "Tasc Nua">
+<!ENTITY calendar.navigation.nextday.tooltip "Lá Amháin Ar Aghaidh">
+<!ENTITY calendar.navigation.prevday.tooltip "Lá Amháin Siar">
+<!ENTITY calendar.navigation.nextweek.tooltip "Seachtain Amháin Ar Aghaidh">
+<!ENTITY calendar.navigation.prevweek.tooltip "Seachtain Amháin Siar">
+<!ENTITY calendar.navigation.nextmonth.tooltip "Mí Amháin Ar Aghaidh">
+<!ENTITY calendar.navigation.prevmonth.tooltip "Mí Amháin Siar">
+
 <!ENTITY calendar.newevent.button.label "Imeacht Nua">
-<!ENTITY calendar.edit.button.label "Eagar">
+<!ENTITY calendar.newtask.button.label "Tasc Nua">
 <!ENTITY calendar.print.button.label "Priontáil">
 
-<!ENTITY calendar.import.button.tooltip "Iompórtáil imeachtaí ó chomhad logánta">
-<!ENTITY calendar.export.button.tooltip "Easpórtáil imeachtaí go comhad logánta">
-<!ENTITY calendar.subscribe.button.tooltip "Liostáil le féilire ar ríomhaire i gcéin">
-<!ENTITY calendar.publish.button.tooltip "Foilsigh imeachtaí go dtí ríomhaire i gcéin">
-
 <!ENTITY calendar.export.calendar "Easpórtáil Féilire…">
-
-<!ENTITY calendar.import.button.label "Iompórtáil">
-<!ENTITY calendar.export.button.label "Easpórtáil">
-<!ENTITY calendar.subscribe.button.label "Liostáil">
-<!ENTITY calendar.publish.button.label "Foilsigh">
-<!ENTITY calendar.unifinder.button.label "Aimsigh Imeachtaí">
 
 <!ENTITY calendar.day.button.label "Lá">
 <!ENTITY calendar.week.button.label "Seachtain">
@@ -153,16 +151,27 @@
 <!ENTITY calendar.task.filter.completed.accesskey "C">
 <!ENTITY calendar.task.filter.open.label "Tascanna Neamhiomlána">
 <!ENTITY calendar.task.filter.open.accesskey "m">
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
 
-<!ENTITY calendar.task.details.title.label "Teideal:">
-<!ENTITY calendar.task.details.organizer.label "Ó:">
-<!ENTITY calendar.task.details.priority2.label "Tosaíocht:">
-<!ENTITY calendar.task.details.priority.low.label "Íseal">
-<!ENTITY calendar.task.details.priority.normal.label "Gnách">
-<!ENTITY calendar.task.details.priority.high.label "Ard">
-<!ENTITY calendar.task.details.status.label "Stádas:">
-<!ENTITY calendar.task.details.category.label "Catagóir:">
-<!ENTITY calendar.task.details.repeat.label "Athdhéan:">
+<!ENTITY calendar.task.filter.current.label "Tascanna Reatha">
+<!ENTITY calendar.task.filter.current.accesskey "R">
+<!ENTITY calendar.task.filter.repeating.label "Tascanna a Athdhéantar">
+<!ENTITY calendar.task.filter.repeating.accesskey "A">
+
+<!ENTITY calendar.task-details.title.label "teideal">
+<!ENTITY calendar.task-details.organizer.label "ó">
+<!ENTITY calendar.task-details.priority.label "tosaíocht">
+<!ENTITY calendar.task-details.priority.low.label "Íseal">
+<!ENTITY calendar.task-details.priority.normal.label "Gnáth">
+<!ENTITY calendar.task-details.priority.high.label "Ard">
+<!ENTITY calendar.task-details.status.label "stádas">
+<!ENTITY calendar.task-details.category.label "catagóir">
+<!ENTITY calendar.task-details.repeat.label "athdhéanamh">
+<!ENTITY calendar.task-details.attachments.label "iatáin">
 
 <!ENTITY calendar.task.category.button.tooltip "Catagóirigh tascanna">
 <!ENTITY calendar.task.complete.button.tooltip "Marcáil na tascanna roghnaithe mar chríochnaithe">
@@ -185,25 +194,25 @@
 <!ENTITY calendar.context.modifyitem.label "Cuir Mír in Eagar…">
 <!ENTITY calendar.context.modifyitem.accesskey "C">
 <!ENTITY calendar.context.deletetask.label "Scrios Tasc">
-<!ENTITY calendar.context.deletetask.accesskey "s">
+<!ENTITY calendar.context.deletetask.accesskey "S">
 <!ENTITY calendar.context.deleteitem.label "Scrios">
 <!ENTITY calendar.context.deleteitem.accesskey "c">
 <!ENTITY calendar.context.deleteevent.label "Scrios Imeacht">
-<!ENTITY calendar.context.deleteevent.accesskey "i">
+<!ENTITY calendar.context.deleteevent.accesskey "I">
 <!ENTITY calendar.context.deletethisevent.label "An tImeacht Seo">
 <!ENTITY calendar.context.deletethisevent.accesskey "S">
 <!ENTITY calendar.context.deletecompleteseries.label "Sraith Iomlán">
 <!ENTITY calendar.context.deletecompleteseries.accesskey "S">
 <!ENTITY calendar.context.deletefutureevents.label "Gach imeacht as seo amach">
-<!ENTITY calendar.context.deletefutureevents.accesskey "A">
+<!ENTITY calendar.context.deletefutureevents.accesskey "a">
 <!ENTITY calendar.context.deletefuturetasks.label "Gach tasc as seo amach">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "A">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "a">
 <!ENTITY calendar.context.cutevent.label "Gearr">
-<!ENTITY calendar.context.cutevent.accesskey "g">
+<!ENTITY calendar.context.cutevent.accesskey "G">
 <!ENTITY calendar.context.copyevent.label "Cóipeáil">
 <!ENTITY calendar.context.copyevent.accesskey "C">
 <!ENTITY calendar.context.pasteevent.label "Greamaigh">
-<!ENTITY calendar.context.pasteevent.accesskey "R">
+<!ENTITY calendar.context.pasteevent.accesskey "r">
 <!ENTITY calendar.context.selectall.label "Roghnaigh Uile">
 <!ENTITY calendar.context.selectall.accesskey "U">
 <!ENTITY calendar.context.button.label "Pána an Lae Inniu">
@@ -213,7 +222,7 @@
 <!ENTITY calendar.context.progress.label "Dul Chun Cinn">
 <!ENTITY calendar.context.progress.accesskey "D">
 <!ENTITY calendar.context.priority.label "Tosaíocht">
-<!ENTITY calendar.context.priority.accesskey "t">
+<!ENTITY calendar.context.priority.accesskey "T">
 <!--=percent sign-->
 
 <!ENTITY percnt "&#38;#37;">
@@ -236,7 +245,7 @@
 <!ENTITY priority.level.none.accesskey "s">
 <!ENTITY priority.level.low "Íseal">
 <!ENTITY priority.level.low.accesskey "L">
-<!ENTITY priority.level.normal "Gnách">
+<!ENTITY priority.level.normal "Gnáth">
 <!ENTITY priority.level.normal.accesskey "N">
 <!ENTITY priority.level.high "Ard">
 <!ENTITY priority.level.high.accesskey "A">
@@ -251,7 +260,7 @@
 <!ENTITY calendar.context.reloadserver.label "Athluchtaigh Cianfhéilirí">
 <!ENTITY calendar.context.reloadserver.accesskey "A">
 <!ENTITY calendar.context.publish.label "Foilsigh Féilire…">
-<!ENTITY calendar.context.publish.accesskey "f">
+<!ENTITY calendar.context.publish.accesskey "F">
 <!ENTITY calendar.context.export.label "Easpórtáil Féilire…">
 <!ENTITY calendar.context.export.accesskey "E">
 <!ENTITY calendar.context.properties.label "Airíonna">
@@ -261,9 +270,9 @@
 <!ENTITY calendar.context.convertmenu.accesskey.mail "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
 <!ENTITY calendar.context.convertmenu.event.label "Imeacht…">
-<!ENTITY calendar.context.convertmenu.event.accesskey "E">
+<!ENTITY calendar.context.convertmenu.event.accesskey "e">
 <!ENTITY calendar.context.convertmenu.message.label "Teachtaireacht…">
-<!ENTITY calendar.context.convertmenu.message.accesskey "C">
+<!ENTITY calendar.context.convertmenu.message.accesskey "c">
 <!ENTITY calendar.context.convertmenu.task.label "Tasc…">
 <!ENTITY calendar.context.convertmenu.task.accesskey "T">
 
@@ -310,8 +319,11 @@
 <!ENTITY calendarproperties.name.label "Teideal:">
 <!ENTITY calendarproperties.readonly.label "Inléite Amháin">
 <!ENTITY calendarproperties.firealarms.label "Taispeáin Aláraim">
-<!ENTITY calendarproperties.cache.label "Taisce (trialach; atosú riachtanach)">
+<!ENTITY calendarproperties.cache.label "Taisce (TRIALACH)">
 <!ENTITY calendarproperties.enabled.label "Cumasaigh an féilire seo">
+<!ENTITY calendarproperties.forceDisabled.label "Níorbh fhéidir soláthraí an fhéilire seo a aimsiú. Tarlaíonn sé seo go minic má tá breiseáin áirithe díchumasaithe nó díshuiteáilte agat.">
+<!ENTITY calendarproperties.unsubscribe.label "Díliostáil">
+<!ENTITY calendarproperties.unsubscribe.accesskey "D">
 <!-- Calendar Publish Dialog -->
 
 <!ENTITY calendar.publish.dialog.title "Foilsigh Féilire">
@@ -329,15 +341,21 @@
 <!ENTITY calendar.print.title.label "Teideal:">
 <!ENTITY calendar.print.layout.label "Leagan Amach">
 <!ENTITY calendar.print.range.label "Le Priontáil">
-<!ENTITY calendar.print.currentview.label "Imeachtaí san amharc reatha">
+<!ENTITY calendar.print.currentView2.label "Amharc reatha">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Imeachtaí/tascanna roghnaithe">
+<!ENTITY calendar.print.tasks.label "Tascanna">
+<!ENTITY calendar.print.events.label "Imeachtaí">
 <!ENTITY calendar.print.selected.label "Imeachtaí roghnaithe">
 <!ENTITY calendar.print.custom.label "Dátaí saincheaptha:">
 <!ENTITY calendar.print.from.label "Ó:">
 <!ENTITY calendar.print.to.label "Chuig:">
 <!ENTITY calendar.print.settingsGroup.label "Socruithe Priontála">
+<!ENTITY calendar.print.optionsGroup.label "Roghanna">
+<!ENTITY calendar.print.taskswithnoduedate.label "Tascanna gan spriocdháta">
+<!ENTITY calendar.print.completedtasks.label "Tascanna críochnaithe">
 <!-- Error reporting -->
 
 <!ENTITY calendar.error.detail "Mionsonraí…">
-<!ENTITY calendar.error.number "Earráid uimhir:">
+<!ENTITY calendar.error.code "Cód earráide:">
 <!ENTITY calendar.error.description "Cur Síos:">
 <!ENTITY calendar.error.title "Tharla earráid">

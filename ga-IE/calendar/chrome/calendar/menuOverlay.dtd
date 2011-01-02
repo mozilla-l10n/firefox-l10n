@@ -46,9 +46,9 @@
 <!ENTITY event.new.event.key "N">
 <!ENTITY event.new.event.accesskey "N">
 
-<!ENTITY event.new.todo "Tasc Nua…">
-<!ENTITY event.new.todo.key "T">
-<!ENTITY event.new.todo.accesskey "T">
+<!ENTITY event.new.task "Tasc Nua…">
+<!ENTITY event.new.task.key "K">
+<!ENTITY event.new.task.accesskey "k">
 
 <!ENTITY calendar.new.server.label "Féilire Nua…">
 <!ENTITY calendar.new.server.key "L">
@@ -62,24 +62,22 @@
 <!ENTITY calendar.import.key "I">
 <!ENTITY calendar.import.accesskey "I">
 
-<!ENTITY calendar.export.calendar.label "Easpórtáil Féilire…">
-<!ENTITY calendar.export.calendar.accesskey "E">
+<!ENTITY calendar.export.label "Easpórtáil…">
+<!ENTITY calendar.export.accesskey "E">
 <!ENTITY calendar.export.selection.label "Easpórtáil Roghnúchán…">
 <!ENTITY calendar.export.selection.accesskey "R">
 
 <!ENTITY calendar.publish.label "Foilsigh…">
-<!ENTITY calendar.publish.accesskey "f">
+<!ENTITY calendar.publish.accesskey "F">
 
-<!ENTITY calendar.toolbar.label "Barraí Uirlisí Calendar">
-<!ENTITY calendar.toolbar.accesskey "B">
-<!ENTITY task.toolbar.label "Barra Uirlisí Tasc">
-<!ENTITY task.toolbar.accesskey "b">
+<!ENTITY calendar.deletecalendar.label "Scrios an Féilire Roghnaithe…">
+<!ENTITY calendar.deletecalendar.accesskey "S">
 
 <!ENTITY calendar.menu.customize.label "Saincheap…">
-<!ENTITY calendar.menu.customize.accesskey "C">
+<!ENTITY calendar.menu.customize.accesskey "c">
 
 <!ENTITY showUnifinderCmd.label "Aimsigh Imeachtaí">
-<!ENTITY showUnifinderCmd.accesskey "M">
+<!ENTITY showUnifinderCmd.accesskey "m">
 
 <!ENTITY calendar.displaytodos.checkbox.label "Taispeáin Tascanna san Fhéilire">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "T">
@@ -93,21 +91,6 @@
 
 <!ENTITY goTodayCmd.label "Inniu">
 <!ENTITY goTodayCmd.accesskey "I">
-
-<!ENTITY goPreviousCmd.day.label "An Lá Roimhe Seo">
-<!ENTITY goPreviousCmd.week.label "An tSeachtain Roimhe Seo">
-<!ENTITY goPreviousCmd.month.label "An Mhí Roimhe Seo">
-<!ENTITY goPreviousCmd.accesskey "R">
-
-<!ENTITY goNextCmd.day.label "An Chéad Lá Eile">
-<!ENTITY goNextCmd.week.label "An Chéad Seachtain Eile">
-<!ENTITY goNextCmd.month.label "An Mhí Seo Chugainn">
-<!ENTITY goNextCmd.all.accesskey "l">
-
-<!ENTITY addressBookCmd.label "Leabhar Seoltaí">
-<!ENTITY addressBookCmd.accesskey "A">
-
-<!ENTITY calendar.importcalendar.label "Iompórtáil Féilire…">
 
 <!ENTITY showCurrentView.label "Amharc Reatha">
 <!ENTITY showCurrentView.accesskey "R">

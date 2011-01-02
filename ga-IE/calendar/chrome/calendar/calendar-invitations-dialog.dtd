@@ -46,4 +46,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text "Imeacht ar feadh an lae">
 <!ENTITY calendar.invitations.list.location.text "Suíomh: ">
 <!ENTITY calendar.invitations.list.organizer.text "Eagraí: ">
+<!ENTITY calendar.invitations.list.attendee.text "Rannpháirtí: ">
 <!ENTITY calendar.invitations.list.none.text "Gan sonrú">

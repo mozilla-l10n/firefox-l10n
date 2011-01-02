@@ -41,8 +41,8 @@
 
 <!ENTITY gdata.migration.title "Ascain féilirí inléite amháin">
 <!ENTITY gdata.migration.description "Tá sé tugtha faoi deara ag Soláthraí Google Calendar go bhfuil féilirí agat cheana nach féidir leo Google Calendar a rochtain ach sa mhód inléite amháin. Má theastaíonn uait na féilirí seo a uasghrádú, roghnaigh thíos iad le do thoil.">
-<!ENTITY gdata.migration.upgrade.label "Uasghrádaigh">
-<!ENTITY gdata.migration.upgrade.accesskey "U">
+<!ENTITY gdata.migration.upgrade.label "Nuashonrú">
+<!ENTITY gdata.migration.upgrade.accesskey "N">
 <!ENTITY gdata.migration.showagain.label "Seiceáil i gcónaí">
 
 <!ENTITY gdata.reminder.action.sms.label "Seol Teachtaireacht Téacs">
