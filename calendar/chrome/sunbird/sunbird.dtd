@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip "Priontáil féilire">
 <!ENTITY sunbird.delete.button.tooltip "Scrios an t-imeacht roghnaithe">
 <!ENTITY sunbird.remotereload.button.tooltip "Athluchtaigh gach cianfhéilire">
+<!ENTITY sunbird.import.button.tooltip "Iompórtáil imeachtaí ó chomhad logánta">
+<!ENTITY sunbird.export.button.tooltip "Easpórtáil imeachtaí go comhad logánta">
+<!ENTITY sunbird.subscribe.button.tooltip "Liostáil le féilire ar ríomhaire i gcéin">
+<!ENTITY sunbird.publish.button.tooltip "Foilsigh imeachtaí go dtí ríomhaire i gcéin">
+<!ENTITY sunbird.unifinder.button.tooltip "Aimsigh agus taispeáin imeachtaí">
+<!ENTITY sunbird.edit.button.tooltip "Cuir an t-imeacht roghnaithe in eagar">
 
 <!ENTITY sunbird.choosedate.button.label "Roghnaigh Dáta">
 <!ENTITY sunbird.cut.button.label "Gearr">
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label "Greamaigh">
 <!ENTITY sunbird.delete.button.label "Scrios">
 <!ENTITY sunbird.remotereload.button.label "Athluchtaigh">
+<!ENTITY sunbird.import.button.label "Iompórtáil">
+<!ENTITY sunbird.export.button.label "Easpórtáil">
+<!ENTITY sunbird.subscribe.button.label "Liostáil">
+<!ENTITY sunbird.publish.button.label "Foilsigh">
+<!ENTITY sunbird.unifinder.button.label "Aimsigh Imeachtaí">
+<!ENTITY sunbird.edit.button.label "Eagar">
 
 <!ENTITY sunbird.flat.topbar.choosedate "Téigh go Dáta">
 <!ENTITY sunbird.flat.topbar.dayview "Amharc Lae">
@@ -56,8 +68,8 @@
 <!ENTITY sunbird.flat.topbar.multiweekview "Amharc Ilseachtaine">
 
 <!ENTITY sunbird.dayview.accesskey "D">
-<!ENTITY sunbird.weekview.accesskey "W">
-<!ENTITY sunbird.monthview.accesskey "B">
+<!ENTITY sunbird.weekview.accesskey "S">
+<!ENTITY sunbird.monthview.accesskey "M">
 <!ENTITY sunbird.multiweekview.accesskey "u">
 
 
@@ -65,10 +77,10 @@
 <!ENTITY sunbird.listofcalendarstab.label "Féilirí">
 
 <!ENTITY sunbird.find.key "F">
-<!ENTITY sunbird.close.key "W">
+<!ENTITY sunbird.close.key "D">
 
 <!ENTITY sunbird.menu.numberofweeks.label "Líon na Seachtainí">
-<!ENTITY sunbird.menu.numberofweeks.accesskey "N">
+<!ENTITY sunbird.menu.numberofweeks.accesskey "n">
 <!ENTITY sunbird.menu.numberofweeks.1 "Seachtain Amháin">
 <!ENTITY sunbird.menu.numberofweeks.2 "2 Sheachtain">
 <!ENTITY sunbird.menu.numberofweeks.3 "3 Seachtaine">
@@ -78,15 +90,15 @@
 <!-- customizable toolbars -->
 
 <!ENTITY sunbird.context.customize.label "Saincheap…">
-<!ENTITY sunbird.context.customize.accesskey "C">
+<!ENTITY sunbird.context.customize.accesskey "c">
 <!ENTITY sunbird.menu.customize.label "Saincheap an Barra Uirlisí…">
-<!ENTITY sunbird.menu.customize.accesskey "C">
+<!ENTITY sunbird.menu.customize.accesskey "c">
 <!ENTITY sunbird.maintoolbar.name "Príomhbharra Uirlisí">
-<!ENTITY sunbird.maintoolbar.accesskey "B">
+<!ENTITY sunbird.maintoolbar.accesskey "P">
 <!-- Sunbird Help -->
 
 <!ENTITY sunbird.help.label "Ábhar Cabhrach">
-<!ENTITY sunbird.help.accesskey "H">
+<!ENTITY sunbird.help.accesskey "h">
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 <!ENTITY mainWindow.title "&brandFullName;">

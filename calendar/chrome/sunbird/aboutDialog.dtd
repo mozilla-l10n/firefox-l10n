@@ -42,7 +42,7 @@
 <!ENTITY aboutLink.label "&lt; Maidir le &brandFullName;">
 <!ENTITY aboutLink.accesskey "M">
 <!ENTITY aboutVersion "leagan">
-<!ENTITY copyrightText "&#169;1998-2008 le lucht déanta a gcion. Gach ceart ar cosaint. Is trádmharcanna de chuid Fondúireacht Mozilla iad Mozilla Sunbird, Sunbird, agus suaitheantais Sunbird. Gach ceart ar cosaint.">
+<!ENTITY copyrightText "&#169;1998-2010 le lucht déanta a gcion. Gach ceart ar cosaint. Is trádmharcanna de chuid Fondúireacht Mozilla iad Mozilla Sunbird, Sunbird, agus suaitheantais Sunbird. Gach ceart ar cosaint.">
 
 <!ENTITY brandMotto "díreach in am">
 <!ENTITY credit.thanks "Buíochas ar leith le">

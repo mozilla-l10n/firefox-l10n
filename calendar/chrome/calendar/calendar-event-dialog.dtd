@@ -26,6 +26,8 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
+   -   Gianfranco Balza <bv1578@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,8 +45,7 @@
 
 <!ENTITY event.title.label "Cuir Mír in Eagar">
 
-<!ENTITY newevent.before.label "roimh">
-<!ENTITY newevent.after.label "tar éis">
+<!ENTITY event.dialog.keepDurationButton.tooltip "">
 
 <!ENTITY newevent.from.label "Ó">
 <!ENTITY newevent.to.label "Chuig">
@@ -52,49 +53,74 @@
 
 <!ENTITY newevent.status.label "Stádas">
 <!ENTITY newevent.status.accesskey "S">
-<!ENTITY newevent.status.none.label "Gan sonrú">
-<!ENTITY newevent.status.cancelled.label "Cealaithe">
+<!ENTITY newevent.eventStatus.none.label "Gan sonrú">
+<!ENTITY newevent.eventStatus.none.accesskey "G">
+<!ENTITY newevent.todoStatus.none.label "Gan sonrú">
+<!ENTITY newevent.eventStatus.cancelled.label "Cealaithe">
+<!ENTITY newevent.eventStatus.cancelled.accesskey "C">
+<!ENTITY newevent.todoStatus.cancelled.label "Cealaithe">
 <!ENTITY newevent.status.tentative.label "Sealadach">
-<!ENTITY newevent.status.confirmed.label "Cinntithe">
+<!ENTITY newevent.status.tentative.accesskey "S">
+<!ENTITY newevent.status.confirmed.label "Deimhnithe">
+<!ENTITY newevent.status.confirmed.accesskey "D">
 <!ENTITY newevent.status.needsaction.label "Gníomhú De Dhíth">
 <!ENTITY newevent.status.inprogress.label "Idir Lámha">
 <!ENTITY newevent.status.completed.label "Críochnaithe ar">
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label "&#37; críochnaithe">
+<!-- Keyboard Shortcuts -->
+
+<!ENTITY event.dialog.new.event.key2 "I">
+<!ENTITY event.dialog.new.task.key2 "D">
+<!ENTITY event.dialog.new.message.key2 "N">
+<!ENTITY event.dialog.close.key "W">
+<!ENTITY event.dialog.save.key "S">
+<!ENTITY event.dialog.saveandclose.key "L">
+<!ENTITY event.dialog.print.key "R">
+<!ENTITY event.dialog.undo.key "Z">
+<!ENTITY event.dialog.redo.key "Y">
+<!ENTITY event.dialog.cut.key "X">
+<!ENTITY event.dialog.copy.key "C">
+<!ENTITY event.dialog.paste.key "V">
+<!ENTITY event.dialog.select.all.key "W">
 <!-- Menubar -->
 
-<!ENTITY event.menu.file.label "Comhad">
-<!ENTITY event.menu.file.accesskey "C">
-<!ENTITY event.menu.file.new.label "Nua">
-<!ENTITY event.menu.file.new.accesskey "N">
-<!ENTITY event.menu.file.new.event.label "Imeacht">
-<!ENTITY event.menu.file.new.event.accesskey "I">
-<!ENTITY event.menu.file.new.message.label "Teachtaireacht">
-<!ENTITY event.menu.file.new.message.accesskey "T">
-<!ENTITY event.menu.file.new.address.label "Cárta sa Leabhar Seoltaí">
-<!ENTITY event.menu.file.new.address.accesskey "C">
-<!ENTITY event.menu.file.close.label "Dún">
-<!ENTITY event.menu.file.close.accesskey "D">
-<!ENTITY event.menu.file.save.label "Sábháil">
-<!ENTITY event.menu.file.save.accesskey "S">
-<!ENTITY event.menu.file.page.setup.label "Socrú Leathanaigh">
-<!ENTITY event.menu.file.page.setup.accesskey "o">
-<!ENTITY event.menu.file.print.label "Priontáil">
-<!ENTITY event.menu.file.print.accesskey "P">
+<!ENTITY event.menu.item.new.label "Nua">
+<!ENTITY event.menu.item.new.accesskey "N">
+<!ENTITY event.menu.item.new.event.label "Imeacht">
+<!ENTITY event.menu.item.new.event.accesskey "I">
+<!ENTITY event.menu.item.new.task.label "Tasc">
+<!ENTITY event.menu.item.new.task.accesskey "T">
+<!ENTITY event.menu.item.new.message.label "Teachtaireacht">
+<!ENTITY event.menu.item.new.message.accesskey "T">
+<!ENTITY event.menu.item.new.contact.label "Teagmháil Leabhair Seoltaí">
+<!ENTITY event.menu.item.new.contact.accesskey "T">
+<!ENTITY event.menu.item.close.label "Dún">
+<!ENTITY event.menu.item.close.accesskey "D">
+<!ENTITY event.menu.item.save.label "Sábháil">
+<!ENTITY event.menu.item.save.accesskey "S">
+<!ENTITY event.menu.item.saveandclose.label "Sábháil agus Dún">
+<!ENTITY event.menu.item.saveandclose.accesskey "l">
+<!ENTITY event.menu.item.delete.label "Scrios…">
+<!ENTITY event.menu.item.delete.accesskey "S">
+<!ENTITY event.menu.item.page.setup.label "Socrú Leathanaigh">
+<!ENTITY event.menu.item.page.setup.accesskey "o">
+<!ENTITY event.menu.item.print.label "Priontáil">
+<!ENTITY event.menu.item.print.accesskey "P">
 
 <!ENTITY event.menu.edit.label "Eagar">
 <!ENTITY event.menu.edit.accesskey "E">
 <!ENTITY event.menu.edit.undo.label "Cealaigh">
-<!ENTITY event.menu.edit.undo.accesskey "L">
+<!ENTITY event.menu.edit.undo.accesskey "l">
 <!ENTITY event.menu.edit.redo.label "Athfheidhmigh">
-<!ENTITY event.menu.edit.redo.accesskey "F">
+<!ENTITY event.menu.edit.redo.accesskey "f">
 <!ENTITY event.menu.edit.cut.label "Gearr">
-<!ENTITY event.menu.edit.cut.accesskey "g">
+<!ENTITY event.menu.edit.cut.accesskey "G">
 <!ENTITY event.menu.edit.copy.label "Cóipeáil">
 <!ENTITY event.menu.edit.copy.accesskey "C">
 <!ENTITY event.menu.edit.paste.label "Greamaigh">
-<!ENTITY event.menu.edit.paste.accesskey "R">
+<!ENTITY event.menu.edit.paste.accesskey "r">
 <!ENTITY event.menu.edit.select.all.label "Roghnaigh Uile">
 <!ENTITY event.menu.edit.select.all.accesskey "U">
 
@@ -105,67 +131,59 @@
 <!ENTITY event.menu.view.toolbars.event.label "Barra Uirlisí Imeachtaí">
 <!ENTITY event.menu.view.toolbars.event.accesskey "I">
 <!ENTITY event.menu.view.toolbars.customize.label "Saincheap…">
-<!ENTITY event.menu.view.toolbars.customize.accesskey "C">
+<!ENTITY event.menu.view.toolbars.customize.accesskey "c">
 <!ENTITY event.menu.view.showlink.label "Taispeáin Nasc Gaolta">
 <!ENTITY event.menu.view.showlink.accesskey "G">
 
 <!ENTITY event.menu.options.label "Roghanna">
-<!ENTITY event.menu.options.accesskey "R">
+<!ENTITY event.menu.options.accesskey "o">
 <!ENTITY event.menu.options.attachments.label "Ceangail Leathanach Gréasáin…">
 <!ENTITY event.menu.options.attachments.accesskey "L">
 <!ENTITY event.menu.options.attendees.label "Tabhair Cuireadh Do Rannpháirtithe…">
-<!ENTITY event.menu.options.attendees.accesskey "R">
+<!ENTITY event.menu.options.attendees.accesskey "T">
 <!ENTITY event.menu.options.spellcheck.label "Seiceáil an Litriú…">
-<!ENTITY event.menu.options.spellcheck.accesskey "l">
+<!ENTITY event.menu.options.spellcheck.accesskey "L">
 <!ENTITY event.menu.options.inline.spellcheck.label "Litriú Beo">
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "L">
 <!ENTITY event.menu.options.link.label "Cuir Nasc Leis…">
 <!ENTITY event.menu.options.link.accesskey "L">
 <!ENTITY event.menu.options.timezone.label "Crios Ama">
-<!ENTITY event.menu.options.timezone.accesskey "a">
+<!ENTITY event.menu.options.timezone.accesskey "A">
 <!ENTITY event.menu.options.priority2.label "Tosaíocht">
 <!ENTITY event.menu.options.priority2.accesskey "o">
 <!ENTITY event.menu.options.priority.notspecified.label "Gan sonrú">
-<!ENTITY event.menu.options.priority.notspecified.accesskey "o">
+<!ENTITY event.menu.options.priority.notspecified.accesskey "G">
 <!ENTITY event.menu.options.priority.low.label "Íseal">
-<!ENTITY event.menu.options.priority.low.accesskey "L">
+<!ENTITY event.menu.options.priority.low.accesskey "l">
 <!ENTITY event.menu.options.priority.normal.label "Gnáthmhéid">
-<!ENTITY event.menu.options.priority.normal.accesskey "N">
+<!ENTITY event.menu.options.priority.normal.accesskey "n">
 <!ENTITY event.menu.options.priority.high.label "Ard">
 <!ENTITY event.menu.options.priority.high.accesskey "A">
 <!ENTITY event.menu.options.privacy.label "Príobháideachas">
 <!ENTITY event.menu.options.privacy.accesskey "P">
 <!ENTITY event.menu.options.privacy.public.label "Imeacht Poiblí">
-<!ENTITY event.menu.options.privacy.public.accesskey "p">
+<!ENTITY event.menu.options.privacy.public.accesskey "P">
 <!ENTITY event.menu.options.privacy.confidential.label "Taispeáin Am agus Dáta Amháin">
-<!ENTITY event.menu.options.privacy.confidential.accesskey "S">
+<!ENTITY event.menu.options.privacy.confidential.accesskey "s">
 <!ENTITY event.menu.options.privacy.private.label "Imeacht Príobháideach">
 <!ENTITY event.menu.options.privacy.private.accesskey "r">
 <!ENTITY event.menu.options.show.time.label "Taispeáin an tAm mar">
-<!ENTITY event.menu.options.show.time.accesskey "T">
+<!ENTITY event.menu.options.show.time.accesskey "t">
 <!ENTITY event.menu.options.show.time.busy.label "Gnóthach">
 <!ENTITY event.menu.options.show.time.busy.accesskey "G">
 <!ENTITY event.menu.options.show.time.free.label "Saor">
 <!ENTITY event.menu.options.show.time.free.accesskey "S">
 
-<!ENTITY event.help.label "Cabhair">
-<!ENTITY event.help.accesskey "H">
-<!ENTITY event.help.release.notes.label "Nótaí Eisiúna">
-<!ENTITY event.help.release.notes.accesskey "N">
-<!ENTITY event.help.help.label "Cabhair &brandShortName;">
-<!ENTITY event.help.help.accesskey "H">
-<!ENTITY event.help.about.label "Maidir le &brandShortName;">
-<!ENTITY event.help.about.accesskey "A">
-
 <!ENTITY event.invite.attendees.label "Tabhair Cuireadh Do Rannpháirtithe…">
-<!ENTITY event.invite.attendees.accesskey "R">
+<!ENTITY event.invite.attendees.accesskey "T">
 <!ENTITY event.email.attendees.label "Cum ríomhphost chuig an lucht freastail go léir…">
-<!ENTITY event.email.attendees.accesskey "G">
+<!ENTITY event.email.attendees.accesskey "g">
 <!ENTITY event.email.tentative.attendees.label "Cum ríomhphost chuig an lucht freastail neamhdhearbhaithe…">
-<!ENTITY event.email.tentative.attendees.accesskey "N">
+<!ENTITY event.email.tentative.attendees.accesskey "n">
 <!-- Toolbar -->
 
 <!ENTITY event.toolbar.save.label "Sábháil agus Dún">
+<!ENTITY event.toolbar.delete.label "Scrios">
 <!ENTITY event.toolbar.attendees.label "Tabhair Cuireadh Do Rannpháirtithe">
 <!ENTITY event.toolbar.spellcheck.label "Seiceáil Litrithe">
 <!ENTITY event.toolbar.privacy.label "Príobháideachas">
@@ -181,7 +199,7 @@
 <!ENTITY event.calendar.label "Féilire:">
 <!ENTITY event.calendar.accesskey "F">
 <!ENTITY event.attendees.label "Rannpháirtithe:">
-<!ENTITY event.attendees.accesskey "I">
+<!ENTITY event.attendees.accesskey "R">
 <!ENTITY event.alldayevent.label "Imeacht ar feadh an lae">
 <!ENTITY event.alldayevent.accesskey "d">
 <!ENTITY event.from.label "Tús:">
@@ -189,44 +207,42 @@
 <!ENTITY task.from.label "Tosach:">
 <!ENTITY task.from.accesskey "B">
 <!ENTITY event.to.label "Deireadh:">
-<!ENTITY event.to.accesskey "d">
+<!ENTITY event.to.accesskey "D">
 <!ENTITY task.to.label "Dáta Dlite:">
-<!ENTITY task.to.accesskey "d">
+<!ENTITY task.to.accesskey "D">
 <!ENTITY task.status.label "Stádas:">
-<!ENTITY task.status.accesskey "s">
+<!ENTITY task.status.accesskey "S">
 <!ENTITY event.repeat.label "Athdhéan:">
 <!ENTITY event.repeat.accesskey "A">
 <!ENTITY event.reminder.label "Meabhrúchán:">
-<!ENTITY event.reminder.accesskey "m">
+<!ENTITY event.reminder.accesskey "M">
 <!ENTITY event.description.label "Cur Síos:">
-<!ENTITY event.description.accesskey "c">
+<!ENTITY event.description.accesskey "C">
 <!ENTITY event.attachments.label "Iatáin:">
-<!ENTITY event.attachments.accesskey "i">
+<!ENTITY event.attachments.accesskey "I">
 <!ENTITY event.attachments.popup.remove.label "Bain">
 <!ENTITY event.attachments.popup.remove.accesskey "B">
 <!ENTITY event.attachments.popup.open.label "Oscail">
 <!ENTITY event.attachments.popup.open.accesskey "O">
 <!ENTITY event.attachments.popup.removeAll.label "Bain Uile">
-<!ENTITY event.attachments.popup.removeAll.accesskey "A">
+<!ENTITY event.attachments.popup.removeAll.accesskey "a">
 <!ENTITY event.attachments.popup.attachPage.label "Ceangail Leathanach Gréasáin…">
 <!ENTITY event.attachments.popup.attachPage.accesskey "L">
 <!ENTITY event.url.label "Nasc Gaolta:">
 <!ENTITY event.priority2.label "Tosaíocht:">
 
 <!ENTITY event.reminder.none.label "Gan meabhrúchán ">
+<!ENTITY event.reminder.0minutes.before.label "0 nóiméad roimhe">
 <!ENTITY event.reminder.5minutes.before.label "5 nóiméad roimhe">
-<!ENTITY event.reminder.10minutes.before.label "10 nóiméad roimhe">
 <!ENTITY event.reminder.15minutes.before.label "15 nóiméad roimhe">
 <!ENTITY event.reminder.30minutes.before.label "30 nóiméad roimhe">
-<!ENTITY event.reminder.45minutes.before.label "45 nóiméad roimhe">
 <!ENTITY event.reminder.1hour.before.label "Uair an chloig roimhe">
 <!ENTITY event.reminder.2hours.before.label "2 uair an chloig roimhe">
-<!ENTITY event.reminder.5hours.before.label "5 uaire an chloig roimhe">
-<!ENTITY event.reminder.15hours.before.label "15 uaire an chloig roimhe">
+<!ENTITY event.reminder.12hours.before.label "12 uair an chloig roimhe">
 <!ENTITY event.reminder.1day.before.label "Lá amháin roimhe">
 <!ENTITY event.reminder.2days.before.label "2 lá roimhe">
 <!ENTITY event.reminder.1week.before.label "Seachtain roimhe">
-<!ENTITY event.reminder.custom.label "Saincheap…">
+<!ENTITY event.reminder.custom.label "Saincheaptha…">
 
 <!ENTITY event.reminder.multiple.label "Meabhrúcháin iolracha…">
 <!-- Recurrence dialog -->
@@ -240,7 +256,7 @@
 <!ENTITY event.repeat.bi.weekly.label "Coicísiúil">
 <!ENTITY event.repeat.monthly.label "Míosúil">
 <!ENTITY event.repeat.yearly.label "Bliantúil">
-<!ENTITY event.repeat.custom.label "Saincheap…">
+<!ENTITY event.repeat.custom.label "Saincheaptha…">
 
 <!ENTITY event.recurrence.pattern.label "Patrún atarlaithe">
 <!ENTITY event.recurrence.occurs.label "Athdhéan">
@@ -254,18 +270,18 @@
 <!ENTITY event.recurrence.pattern.every.weekday.label "Gach lá oibre">
 
 <!ENTITY event.recurrence.pattern.weekly.every.label "Gach">
-<!ENTITY repeat.units.weeks.both "Seachtaine">
+<!ENTITY repeat.units.weeks.both "Seachtain">
 <!ENTITY event.recurrence.on.label "Ar:">
 
 <!ENTITY event.recurrence.pattern.monthly.every.label "Gach">
 <!ENTITY repeat.units.months.both "Mí">
-<!ENTITY event.recurrence.the.label "An">
-<!ENTITY event.recurrence.repeat.first.label "An Chéad">
-<!ENTITY event.recurrence.repeat.second.label "Dara">
-<!ENTITY event.recurrence.repeat.third.label "Tríú">
-<!ENTITY event.recurrence.repeat.fourth.label "Ceathrú">
-<!ENTITY event.recurrence.repeat.fifth.label "Cúigiú">
-<!ENTITY event.recurrence.repeat.last.label "Deireadh">
+<!ENTITY event.recurrence.monthly.every.label "Gach">
+<!ENTITY event.recurrence.monthly.first.label "An Chéad">
+<!ENTITY event.recurrence.monthly.second.label "An Dara">
+<!ENTITY event.recurrence.monthly.third.label "An Tríú">
+<!ENTITY event.recurrence.monthly.fourth.label "An Cheathrú">
+<!ENTITY event.recurrence.monthly.fifth.label "An Cúigiú">
+<!ENTITY event.recurrence.monthly.last.label "An Deireadh">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label "Domhnach">
 <!ENTITY event.recurrence.pattern.monthly.week.2.label "Luan">
 <!ENTITY event.recurrence.pattern.monthly.week.3.label "Máirt">
@@ -279,7 +295,6 @@
 <!ENTITY event.recurrence.every.label "Gach:">
 <!ENTITY repeat.units.years.both "Bliain">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "Gach">
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Gach">
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -302,12 +317,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label "Deireadh Fómhair">
 <!ENTITY event.recurrence.pattern.yearly.month.11.label "Samhain">
 <!ENTITY event.recurrence.pattern.yearly.month.12.label "Nollaig">
-<!ENTITY event.recurrence.pattern.yearly.first.label "An Chéad">
-<!ENTITY event.recurrence.pattern.yearly.second.label "Dara">
-<!ENTITY event.recurrence.pattern.yearly.third.label "Tríú">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label "Ceathrú">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label "Cúigiú">
-<!ENTITY event.recurrence.pattern.yearly.last.label "Deireadh">
+<!ENTITY event.recurrence.yearly.every.label "Gach">
+<!ENTITY event.recurrence.yearly.first.label "An Chéad">
+<!ENTITY event.recurrence.yearly.second.label "An Dara">
+<!ENTITY event.recurrence.yearly.third.label "An Tríú">
+<!ENTITY event.recurrence.yearly.fourth.label "An Cheathrú">
+<!ENTITY event.recurrence.yearly.fifth.label "An Cúigiú">
+<!ENTITY event.recurrence.yearly.last.label "An Deireadh">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label "Domhnach">
 <!ENTITY event.recurrence.pattern.yearly.week.2.label "Luan">
 <!ENTITY event.recurrence.pattern.yearly.week.3.label "Máirt">
@@ -315,7 +331,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label "Déardaoin">
 <!ENTITY event.recurrence.pattern.yearly.week.6.label "Aoine">
 <!ENTITY event.recurrence.pattern.yearly.week.7.label "Satharn">
-<!ENTITY event.recurrence.of.label "as">
+<!ENTITY event.recurrence.of.label "de">
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label "Eanáir">
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label "Feabhra">
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label "Márta">
@@ -335,28 +351,7 @@
 <!ENTITY event.recurrence.appointments.label "Coinne/Coinní">
 <!ENTITY event.repeat.until.label "Athdhéan go dtí">
 <!ENTITY event.recurrence.preview.label "Réamhamharc">
-<!-- Reminder dialog -->
-
-<!ENTITY alarm.units.minutes "nóiméad">
-<!ENTITY alarm.units.hours "uaire">
-<!ENTITY alarm.units.days "lá anuas">
-
-<!ENTITY reminder.title.label "Meabhrúchán Saincheaptha">
-<!ENTITY reminder.dialogtitle.label "Socraigh meabhrúcháin">
-<!ENTITY reminder.reminderDetails.label "Mionsonraí an Mheabhrúcháin">
-<!ENTITY reminder.action.label "Roghnaigh gníomh meabhrúcháin">
-<!ENTITY reminder.action.alert.label "Taispeáin airdeall">
-<!ENTITY reminder.action.email.label "Seol ríomhphost">
-<!ENTITY reminder.new.label "Nua">
-<!ENTITY reminder.delete.label "Scrios">
-<!ENTITY reminder.relation.start.label "thús an imeachta">
-<!ENTITY reminder.relation.end.label "dheireadh an imeachta">
-<!ENTITY reminder.add.label "Cuir Leis">
-<!ENTITY reminder.add.accesskey "L">
-<!ENTITY reminder.remove.label "Bain">
-<!ENTITY reminder.remove.accesskey "B">
 <!-- Attendees dialog -->
-
 
 <!ENTITY invite.title.label "Tabhair Cuireadh Do Rannpháirtithe">
 <!ENTITY event.organizer.label "Eagraí">
@@ -368,7 +363,13 @@
 <!ENTITY event.freebusy.minus "An uair roimhe seo">
 <!ENTITY event.freebusy.legend.free "Saor">
 <!ENTITY event.freebusy.legend.busy "Gnóthach">
-<!ENTITY event.freebusy.legend.unknown "Gan eolas">
+<!ENTITY event.freebusy.legend.busy_tentative "Sealadach">
+<!ENTITY event.freebusy.legend.busy_unavailable "As Láthair ón Oifig">
+<!ENTITY event.freebusy.legend.unknown "Gan Eolas">
+<!ENTITY event.attendee.role.required "Rannpháirtí Riachtanach">
+<!ENTITY event.attendee.role.optional "Rannpháirtí Roghnach">
+<!ENTITY event.attendee.role.chair "Cathaoirleach">
+<!ENTITY event.attendee.role.nonparticipant "Neamh-rannpháirtí">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label "Sonraigh crios ama">

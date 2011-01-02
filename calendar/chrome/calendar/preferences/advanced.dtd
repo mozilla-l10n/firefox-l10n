@@ -65,7 +65,7 @@
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "T">
 <!-- Update -->
 
-<!ENTITY pref.calendar.advanced.update.autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcóir:">
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcomhair:">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Breiseáin Shuiteáilte">
@@ -78,7 +78,7 @@
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Tabhair rabhadh dom má tá breiseán díchumasaithe dá mbarr">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "T">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Taispeáin Stair na Nuashonruithe…">
-<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "U">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "u">
 <!-- Encryption -->
 
 <!ENTITY pref.calendar.advanced.encryption.protocols.label "Prótacail">
@@ -99,4 +99,4 @@
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Bailíochtú">
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "B">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Gléasanna Slándála">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "g">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "G">

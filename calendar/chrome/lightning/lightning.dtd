@@ -50,8 +50,11 @@
 <!-- New menu popup in File menu -->
 
 <!ENTITY lightning.menupopup.new.event.label "Imeacht…">
+<!ENTITY lightning.menupopup.new.event.accesskey "e">
 <!ENTITY lightning.menupopup.new.task.label "Tasc…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Féilire…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "F">
 <!-- Open menu popup in File menu -->
 
 <!ENTITY lightning.menupopup.open.label "Oscail">
@@ -60,23 +63,27 @@
 <!ENTITY lightning.menupopup.open.message.accesskey "T">
 <!ENTITY lightning.menupopup.open.calendar.label "Comhad Féilire…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey "C">
-<!-- Messenger Sidebar -->
+<!-- View Menu -->
 
-<!ENTITY lightning.calendar.label "Féilire">
-<!ENTITY lightning.calendar.accesskey "F">
-<!ENTITY lightning.tasks.label "Tascanna">
-<!ENTITY lightning.tasks.accesskey "T">
+<!ENTITY lightning.menu.view.calendar.label "Féilire">
+<!ENTITY lightning.menu.view.calendar.accesskey "F">
+<!ENTITY lightning.menu.view.tasks.label "Tascanna">
+<!ENTITY lightning.menu.view.tasks.accesskey "c">
+<!-- Events and Tasks menu -->
+
+<!ENTITY lightning.menu.eventtask.label "Imeachtaí agus Tascanna">
+<!ENTITY lightning.menu.eventtask.accesskey "m">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.mail.label "Ríomhphost">
-<!ENTITY lightning.toolbar.mail.accesskey "M">
+<!ENTITY lightning.toolbar.mail.accesskey "m">
 <!ENTITY lightning.toolbar.calendar.label "Féilire">
 <!ENTITY lightning.toolbar.calendar.accesskey "F">
 <!ENTITY lightning.toolbar.task.label "Tascanna">
 <!ENTITY lightning.toolbar.task.accesskey "T">
 <!-- Toolbar write button -->
 
-<!ENTITY lightning.toolbar.newevent.label "Teagmhas">
+<!ENTITY lightning.toolbar.newevent.label "Imeacht">
 <!ENTITY lightning.toolbar.newtask.label "Tasc">
 <!-- Messenger Toolbar -->
 
@@ -85,7 +92,7 @@
 <!ENTITY lightning.toolbar.week.label "Seachtain">
 <!ENTITY lightning.toolbar.week.accesskey "S">
 <!ENTITY lightning.toolbar.multiweek.label "Amharc Ilseachtaine">
-<!ENTITY lightning.toolbar.multiweek.accesskey "i">
+<!ENTITY lightning.toolbar.multiweek.accesskey "I">
 <!ENTITY lightning.toolbar.month.label "Mí">
 <!ENTITY lightning.toolbar.month.accesskey "M">
 <!-- properties dialog, calendar creation wizard -->
@@ -98,6 +105,8 @@
 <!ENTITY lightning.imipbar.description "Tá cuireadh d'imeacht sa teachtaireacht seo.">
 <!-- Lightning specific keybindings -->
 
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
 <!-- Account Central page -->
@@ -108,9 +117,9 @@
 <!ENTITY todaypane.showMinimonth.label "Taispeáin Mion-Mhí">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "Taispeáin Mion-Lá">
-<!ENTITY todaypane.showMiniday.accesskey "l">
+<!ENTITY todaypane.showMiniday.accesskey "L">
 <!ENTITY todaypane.showNone.label "Ná Taispeáin Faic">
 <!ENTITY todaypane.showNone.accesskey "F">
 <!ENTITY todaypane.showTodayPane.label "Taispeáin Pána Inniu">
-<!ENTITY todaypane.showTodayPane.accesskey "p">
+<!ENTITY todaypane.showTodayPane.accesskey "P">
 <!ENTITY todaypane.statusButton.label "Pána Inniu">

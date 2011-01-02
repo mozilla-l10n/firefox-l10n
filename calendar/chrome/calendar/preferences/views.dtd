@@ -50,11 +50,11 @@
 <!ENTITY pref.calendar.view.workweek.caption "Laethanta Oibre">
 
 <!ENTITY pref.weekstarts.label "Tosaigh an tseachtain ar:">
-<!ENTITY pref.weekstarts.accesskey "t">
+<!ENTITY pref.weekstarts.accesskey "T">
 <!ENTITY pref.daysoff.label "Bíodh na laethanta seo sa tseachtain oibre:">
 
 <!ENTITY pref.calendar.view.daystart.label "Tosaíonn an lá ag:">
-<!ENTITY pref.calendar.view.daystart.accesskey "L">
+<!ENTITY pref.calendar.view.daystart.accesskey "l">
 <!ENTITY pref.calendar.view.dayend.label "Críochnaíonn an lá ag:">
 <!ENTITY pref.calendar.view.dayend.accesskey "g">
 <!ENTITY pref.calendar.view.visiblehours.label "Taispéain:">
