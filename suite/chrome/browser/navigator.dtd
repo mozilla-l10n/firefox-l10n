@@ -109,7 +109,7 @@
 <!ENTITY goHomeCmd.label "Domov">
 <!ENTITY goHomeCmd.accesskey "m">
 <!ENTITY historyRestoreLastSession.label "Obnoviť predchádzajúcu reláciu">
-<!ENTITY historyRestoreLastSessionCmd.accesskey "b">
+<!ENTITY historyRestoreLastSession.accesskey "b">
 
 <!ENTITY bookmarksMenu.label "Záložky">
 <!ENTITY bookmarksMenu.accesskey "o">

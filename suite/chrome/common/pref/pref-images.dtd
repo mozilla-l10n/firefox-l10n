@@ -14,8 +14,8 @@
 <!ENTITY accOrgImagesRadio.accesskey    "r">
 <!ENTITY disableImages.label            "Nenačítavať obrázky">
 <!ENTITY disableImages.accesskey        "N">
-<!ENTITY viewImages.label               "Spravovať povolenia pre obrázky">
-<!ENTITY viewImages.accesskey           "S">
+<!ENTITY viewPermissions.label          "Spravovať povolenia">
+<!ENTITY viewPermissions.accesskey      "S">
 <!ENTITY animLoopingTitle.label         "Počet animácií animovaných obrázkov">
 <!ENTITY animLoopAsSpecified.label      "Podľa nastavenia v obrázku">
 <!ENTITY animLoopAsSpecified.accesskey  "d">

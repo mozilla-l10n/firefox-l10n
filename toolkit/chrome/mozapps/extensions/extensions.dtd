@@ -51,9 +51,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Nastaviť všetky doplnky na automatické aktualizovanie">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "N">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "s">
 <!ENTITY updates.resetUpdatesToManual.label          "Nastaviť všetky doplnky na manuálne aktualizovanie">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "N">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "s">
 <!ENTITY updates.updating.label               "Aktualizujú sa doplnky">
 <!ENTITY updates.installed.label              "Vaše doplnky boli aktualizované.">
 <!ENTITY updates.downloaded.label             "Aktualizácie pre vaše doplnky boli prevzaté.">

@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Všetky typy údajov">
+<!ENTITY select.cookies.label "Len súbory cookies">
+<!ENTITY select.permissions.label "Len povolenia">
+<!ENTITY select.preferences.label "Len nastavenia">
+<!ENTITY select.passwords.label "Len heslá">
+
 <!ENTITY domain.search.placeholder "Hľadať v doménach">
 <!ENTITY domain.search.key "f">
 
@@ -93,6 +99,10 @@
 <!ENTITY perm.Allow "Povoliť">
 <!ENTITY perm.AllowSession "Povoliť pre reláciu">
 <!ENTITY perm.Block "Blokovať">
+
+<!ENTITY perm.host.placeholder "Zadajte názov servera">
+<!ENTITY perm.button.add.label "Pridať">
+<!ENTITY perm.button.add.accesskey "P">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Nastavenia obsahu je spôsob, akým &brandShortName; ukladá nastavenia ako úroveň priblíženia stránky osobitne pre každú stránku.">
