@@ -13,5 +13,6 @@
 <!ENTITY bookmarkGroup.accesskey "s">
 <!ENTITY closeTabButton.tooltip "Chiudi scheda corrente">
 <!ENTITY newTabButton.tooltip "Apre una nuova scheda">
+<!ENTITY listAllTabs.tooltip "Elenca tutte le schede">
 <!ENTITY undoCloseTab.label "Riapri scheda chiusa">
 <!ENTITY undoCloseTab.accesskey "h">
