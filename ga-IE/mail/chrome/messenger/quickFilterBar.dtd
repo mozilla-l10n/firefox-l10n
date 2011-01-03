@@ -152,14 +152,14 @@
      extra whitespace.
      -->
 
-<!ENTITY quickFilterBar.textbox.idealWidth "320">
+<!ENTITY quickFilterBar.textbox.idealWidth "350">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.minWidth):
      The minimum width of the quick filter textbox in pixels.  This is the size
      which we should refuse to flex below.  When we hit this size, the buttons
      with labels will have their labels collapsed.
      -->
 
-<!ENTITY quickFilterBar.textbox.minWidth "280">
+<!ENTITY quickFilterBar.textbox.minWidth "300">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
      This label explains what the sender/recipients/subject/body buttons do.
      This string should ideally be kept short because the label and the text
@@ -181,7 +181,7 @@
      recipients (to, cc) for the string.
      -->
 
-<!ENTITY quickFilterBar.textFilter.recipients.label "Recipients">
+<!ENTITY quickFilterBar.textFilter.recipients.label "Faighteoirí">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
