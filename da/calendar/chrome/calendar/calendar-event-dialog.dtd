@@ -44,6 +44,7 @@
 
 <!ENTITY event.title.label "Rediger element">
 
+<!ENTITY event.dialog.keepDurationButton.tooltip  "">
 
 <!ENTITY newevent.from.label "Fra">
 <!ENTITY newevent.to.label "Til">
