@@ -47,7 +47,7 @@
 <!ENTITY download.label "Íosluchtaigh">
 <!ENTITY download.accesskey "o">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label "headers">
-<!ENTITY headers.accesskey "h">
+<!ENTITY headers.label "ceanntásca">
+<!ENTITY headers.accesskey "c">
 <!ENTITY mark.label "Marcáil mar léite na ceanntásca atá fágtha">
 <!ENTITY mark.accesskey "M">

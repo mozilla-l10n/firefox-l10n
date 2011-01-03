@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title "Subscribe">
+<!ENTITY subscribeDialog.title "Liostáil">
 <!ENTITY subscribeButton.label "Liostáil">
 <!ENTITY subscribeButton.accesskey "s">
 <!ENTITY unsubscribeButton.label "Díliostáil">
@@ -48,6 +48,6 @@
 <!ENTITY stopButton.accesskey "t">
 <!ENTITY server.label "Cuntas:">
 <!ENTITY server.accesskey "C">
-<!ENTITY subscribedHeader.label "Subscribe">
+<!ENTITY subscribedHeader.label "Liostáil">
 <!ENTITY namefield.label "Taispeáin míreanna ina bhfuil:">
 <!ENTITY namefield.accesskey "m">

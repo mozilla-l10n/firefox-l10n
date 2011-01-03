@@ -60,11 +60,11 @@
 <!ENTITY featureConfigurator.autoSync.para "This new version of &brandShortName; comes with a new and better search functionality.  To experience this new search you'll need to synchronize your email messages.">
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
 
-<!ENTITY featureConfigurator.autoSync.on "Synchronize">
+<!ENTITY featureConfigurator.autoSync.on "Sioncrónaigh">
 <!ENTITY featureConfigurator.autoSync.on.explanation "Luchtóidh do chuid teachtaireachtaí níos tapúla agus gheobhaidh tú torthaí níos fearr ar do chuardaigh.">
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
 
-<!ENTITY featureConfigurator.autoSync.off "Do not Synchronize">
+<!ENTITY featureConfigurator.autoSync.off "Ná Sioncrónaigh">
 <!ENTITY featureConfigurator.autoSync.off.explanation "Luchtóidh do chuid teachtaireachtaí níos moille agus beidh torthaí níos measa ar do chuardaigh.">
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
 
@@ -78,7 +78,7 @@
 <!ENTITY featureConfigurator.diskSpace.freeSpace "Free Space:">
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
 
-<!ENTITY featureConfigurator.diskSpace.requireSpace "Required:">
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Riachtanach:">
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
 
 <!ENTITY featureConfigurator.diskSpace.warning "You're running low on space!">

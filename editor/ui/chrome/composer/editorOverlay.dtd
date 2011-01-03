@@ -53,7 +53,7 @@
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Oscail Suíomh Gréasáin…">
 <!ENTITY openRemoteCmd.accesskey "S">
-<!ENTITY openRemoteCmd.key "L">
+<!ENTITY openRemoteCmd.key "S">
 <!ENTITY fileRecentMenu.label "Leathanaigh Dheireanacha">
 <!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY fileRevert.label "Fill">
@@ -120,11 +120,11 @@
 <!ENTITY validateCmd.accesskey "B">
 <!-- Insert menu items -->
 
-<!ENTITY insertMenu.label "Insert">
+<!ENTITY insertMenu.label "Ionsáigh">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Nasc…">
 <!ENTITY insertLinkCmd.accesskey "N">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd.key "N">
 <!ENTITY insertAnchorCmd.label "Ancaire Ainmnithe…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Íomhá…">
@@ -161,8 +161,8 @@
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Greamaigh">
 <!ENTITY pasteCmd.accesskey "r">
-<!ENTITY deleteCmd.label "Delete">
-<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY deleteCmd.label "Scrios">
+<!ENTITY deleteCmd.accesskey "S">
 <!ENTITY clearCmd.label "Bánaigh">
 <!ENTITY clearCmd.accesskey "B">
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">
@@ -260,10 +260,10 @@
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
 <!ENTITY formatRemoveNamedAnchors.key "W">
 
-<!ENTITY paragraphMenu.label "Paragraph">
-<!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Paragraph">
-<!ENTITY paragraphParagraphCmd.accesskey "P">
+<!ENTITY paragraphMenu.label "Alt">
+<!ENTITY paragraphMenu.accesskey "A">
+<!ENTITY paragraphParagraphCmd.label "Alt">
+<!ENTITY paragraphParagraphCmd.accesskey "A">
 <!ENTITY heading1Cmd.label "Ceannteideal 1">
 <!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Ceannteideal 2">
@@ -346,8 +346,8 @@
 <!ENTITY tableMenu.accesskey "b">
 <!-- Select Submenu -->
 
-<!ENTITY tableSelectMenu.label "Select">
-<!ENTITY tableSelectMenu.accesskey "S">
+<!ENTITY tableSelectMenu.label "Roghnaigh">
+<!ENTITY tableSelectMenu.accesskey "R">
 
 <!ENTITY tableSelectMenu2.label "Roghnú Tábla">
 <!ENTITY tableSelectMenu2.accesskey "R">
@@ -357,7 +357,7 @@
 <!ENTITY tableDeleteMenu2.accesskey "d">
 <!-- Insert SubMenu -->
 
-<!ENTITY tableInsertMenu.label "Insert">
+<!ENTITY tableInsertMenu.label "Ionsáigh">
 <!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Tábla">
 <!ENTITY tableTable.accesskey "T">
@@ -387,8 +387,8 @@
 <!ENTITY tableCellAfter.label "Cill ina Dhiaidh">
 <!ENTITY tableCellAfter.accesskey "n">
 <!-- Delete SubMenu -->
-<!ENTITY tableDeleteMenu.label "Delete">
-<!ENTITY tableDeleteMenu.accesskey "D">
+<!ENTITY tableDeleteMenu.label "Scrios">
+<!ENTITY tableDeleteMenu.accesskey "S">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -480,16 +480,16 @@
 <!ENTITY SourceTabDirection "ltr">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "Select">
-<!ENTITY structSelect.accesskey "s">
+<!ENTITY structSelect.label "Roghnaigh">
+<!ENTITY structSelect.accesskey "R">
 <!ENTITY structRemoveTag.label "Bain clib">
 <!ENTITY structRemoveTag.accesskey "B">
 <!ENTITY structChangeTag.label "Athraigh clib">
 <!ENTITY structChangeTag.accesskey "c">
 <!-- TOC manipulation -->
 
-<!ENTITY insertTOC.label "Insert">
-<!ENTITY insertTOC.accesskey "i">
+<!ENTITY insertTOC.label "Ionsáigh">
+<!ENTITY insertTOC.accesskey "I">
 <!ENTITY updateTOC.label "Nuashonraigh">
 <!ENTITY updateTOC.accesskey "u">
 <!ENTITY removeTOC.label "Bain">

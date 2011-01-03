@@ -22,8 +22,8 @@
 <!ENTITY autoQuote.label "Cuir isteach an teachtaireacht bhunaidh go huathoibríoch agus freagra á chumadh">
 <!ENTITY autoQuote.accesskey "m">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label "Then,">
-<!ENTITY then.accesskey "T">
+<!ENTITY then.label "Ansin,">
+<!ENTITY then.accesskey "A">
 <!ENTITY aboveQuote.label "cuir tús le mo fhreagra os cionn an athfhriotail">
 <!ENTITY belowQuote.label "cuir tús le mo fhreagra faoin athfhriotal">
 <!ENTITY selectAndQuote.label "roghnaigh an t-athfhriotal">

@@ -43,7 +43,7 @@
 <!ENTITY SelectSize.accesskey "A">
 <!ENTITY SelectMultiple.label "Ilroghnú">
 <!ENTITY SelectMultiple.accesskey "I">
-<!ENTITY SelectDisabled.label "Disabled">
+<!ENTITY SelectDisabled.label "Díchumasaithe">
 <!ENTITY SelectDisabled.accesskey "D">
 <!ENTITY SelectTabIndex.label "Innéacs Cluaisín:">
 <!ENTITY SelectTabIndex.accesskey "I">
@@ -51,7 +51,7 @@
 <!ENTITY OptGroup.label "Grúpa Roghanna">
 <!ENTITY OptGroupLabel.label "Lipéad:">
 <!ENTITY OptGroupLabel.accesskey "L">
-<!ENTITY OptGroupDisabled.label "Disabled">
+<!ENTITY OptGroupDisabled.label "Díchumasaithe">
 <!ENTITY OptGroupDisabled.accesskey "D">
 
 <!ENTITY Option.label "Rogha">
@@ -61,7 +61,7 @@
 <!ENTITY OptionValue.accesskey "L">
 <!ENTITY OptionSelected.label "Roghnaithe ar dTús">
 <!ENTITY OptionSelected.accesskey "s">
-<!ENTITY OptionDisabled.label "Disabled">
+<!ENTITY OptionDisabled.label "Díchumasaithe">
 <!ENTITY OptionDisabled.accesskey "D">
 
 <!ENTITY TextHeader.label "Téacs">

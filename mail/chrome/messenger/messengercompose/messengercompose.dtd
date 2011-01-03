@@ -50,31 +50,31 @@
 
 <!ENTITY editMenu.label "Eagar">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Undo">
+<!ENTITY undoCmd.label "Cealaigh">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.accesskey "e">
 <!ENTITY redoCmd.label "Athfheidhmigh">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "f">
-<!ENTITY cutCmd.label "Cut">
+<!ENTITY cutCmd.label "Gearr">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
+<!ENTITY cutCmd.accesskey "G">
+<!ENTITY copyCmd.label "Cóipeáil">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Paste">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Greamaigh">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "r">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Timfhill Arís">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "T">
-<!ENTITY deleteCmd.label "Delete">
-<!ENTITY deleteCmd.accesskey "d">
-<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY deleteCmd.label "Scrios">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY selectAllCmd.label "Roghnaigh Uile">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "U">
 <!ENTITY findCmd.label "Aimsigh agus Ionadaigh…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "A">
@@ -182,7 +182,7 @@
 
 <!ENTITY sendButton.label "Seol">
 <!ENTITY quoteButton.label "Luaigh">
-<!ENTITY addressButton.label "Contacts">
+<!ENTITY addressButton.label "Teagmhálacha">
 <!ENTITY attachButton.label "Ceangail">
 <!ENTITY spellingButton.label "Litriú">
 <!ENTITY saveButton.label "Sábháil">
@@ -237,32 +237,32 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "i">
 <!ENTITY spellCheckAddToDictionary.label "Cuir san Fhoclóir">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Undo">
-<!ENTITY undo.accesskey "U">
-<!ENTITY cut.label "Cut">
-<!ENTITY cut.accesskey "t">
-<!ENTITY copy.label "Copy">
+<!ENTITY undo.label "Cealaigh">
+<!ENTITY undo.accesskey "e">
+<!ENTITY cut.label "Gearr">
+<!ENTITY cut.accesskey "G">
+<!ENTITY copy.label "Cóipeáil">
 <!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "Paste">
-<!ENTITY paste.accesskey "P">
+<!ENTITY paste.label "Greamaigh">
+<!ENTITY paste.accesskey "r">
 <!ENTITY pasteQuote.label "Greamaigh mar Athfhriotal">
 <!ENTITY pasteQuote.accesskey "A">
 
 <!ENTITY openAttachment.label "Oscail">
 <!ENTITY openAttachment.accesskey "O">
-<!ENTITY delete.label "Delete">
-<!ENTITY delete.accesskey "D">
+<!ENTITY delete.label "Scrios">
+<!ENTITY delete.accesskey "S">
 <!ENTITY removeAttachment.label "Bain Iatán">
 <!ENTITY removeAttachment.accesskey "B">
 <!ENTITY renameAttachment.label "Athainmnigh…">
 <!ENTITY renameAttachment.accesskey "A">
-<!ENTITY selectAll.label "Select All">
-<!ENTITY selectAll.accesskey "A">
+<!ENTITY selectAll.label "Roghnaigh Uile">
+<!ENTITY selectAll.accesskey "U">
 <!ENTITY attachFile.label "Cuir comha(i)d faoi iamh…">
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Ceangail Leathanach Gréasáin…">
 <!ENTITY attachPage.accesskey "G">
 <!-- Title for the address picker panel -->
 
-<!ENTITY addressesSidebarTitle.label "Contacts">
+<!ENTITY addressesSidebarTitle.label "Teagmhálacha">
 

@@ -105,7 +105,7 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
 <!ENTITY detachAttachmentCmd.label "Díscoir…">
 <!ENTITY deleteAttachmentCmd.label "Scrios">
-<!ENTITY openAllAttachmentsCmd.label "Open All…">
+<!ENTITY openAllAttachmentsCmd.label "Oscail Uile…">
 <!ENTITY openAllAttachmentsCmd.accesskey "O">
 <!ENTITY saveAllAttachmentsCmd.label "Sábháil Uile…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "S">

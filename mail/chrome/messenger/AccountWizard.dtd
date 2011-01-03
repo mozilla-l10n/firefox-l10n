@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Treoraí na gCuntas">
-<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!ENTITY accountWizard.size "width: 44em; height: 42em;">
 <!-- Entities for Account Type page -->
 
 
@@ -25,7 +25,7 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(for example, &quot;John Smith&quot;).">
+<!ENTITY fullnameExample.label "(mar shampla, &quot;Tadhg Ó Rodaí&quot;).">
 <!ENTITY fullnameLabel.label "D'ainm:">
 <!ENTITY fullnameLabel.accesskey "D">
 
@@ -67,7 +67,7 @@
 <!ENTITY loginTitle.label "Ainmneacha Úsáideora">
 <!ENTITY usernameDesc.label "Cuir isteach an t-ainm úsáideora isteach a thug do sholáthraí ríomhphoist duit">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(for example, &quot;jsmith&quot;).">
+<!ENTITY usernameExample.label "(mar shampla, &quot;torodai&quot;).">
 <!ENTITY usernameLabel.label "Ainm Úsáideora Isteach:">
 <!ENTITY usernameLabel.accesskey "I">
 <!ENTITY usernameSmtpDesc.label "Cuir isteach an t-ainm úsáideora amach a thug do sholáthraí ríomhphoist duit (is iondúil gurb ionann é seo agus d'ainm úsáideora isteach).">

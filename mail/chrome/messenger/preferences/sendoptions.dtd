@@ -16,14 +16,14 @@
 <!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "Fearainn Ghnáth-Théacs">
 <!ENTITY PlainTextTab.accesskey "G">
-<!ENTITY AddHtmlDomain.label "Add…">
-<!ENTITY AddHtmlDomain.accesskey "A">
-<!ENTITY AddPlainText.label "Add…">
+<!ENTITY AddHtmlDomain.label "Cuir Leis…">
+<!ENTITY AddHtmlDomain.accesskey "C">
+<!ENTITY AddPlainText.label "Cuir Leis…">
 <!ENTITY AddPlainText.accesskey "C">
-<!ENTITY DeleteHtmlDomain.label "Delete">
-<!ENTITY DeleteHtmlDomain.accesskey "D">
-<!ENTITY DeletePlainText.label "Delete">
-<!ENTITY DeletePlainText.accesskey "D">
+<!ENTITY DeleteHtmlDomain.label "Scrios">
+<!ENTITY DeleteHtmlDomain.accesskey "S">
+<!ENTITY DeletePlainText.label "Scrios">
+<!ENTITY DeletePlainText.accesskey "S">
 
 <!ENTITY add.htmltitle "Cuir Ainm Fearainn HTML Leis">
 <!ENTITY add.htmldomain "Ainm Fearainn HTML:">

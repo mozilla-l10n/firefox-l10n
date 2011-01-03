@@ -7,8 +7,8 @@
 <!ENTITY editContactEmail.label "Ríomhphost:">
 <!ENTITY editContactEmail.accesskey "R">
 
-<!ENTITY editContactAddressBook.label "Address Book:">
-<!ENTITY editContactAddressBook.accesskey "A">
+<!ENTITY editContactAddressBook.label "Leabhar Seoltaí:">
+<!ENTITY editContactAddressBook.accesskey "L">
 
 <!ENTITY editContactPanelCancel.label "Cealaigh">
 <!ENTITY editContactPanelCancel.accesskey "C">

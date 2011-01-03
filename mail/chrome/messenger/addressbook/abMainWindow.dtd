@@ -53,8 +53,8 @@
 <!ENTITY pasteCmd.label "Greamaigh">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "r">
-<!ENTITY deleteCmd.label "Delete">
-<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY deleteCmd.label "Scrios">
+<!ENTITY deleteCmd.accesskey "S">
 <!ENTITY deleteAbCmd.label "Scrios Leabhar Seoltaí">
 <!ENTITY deleteContactCmd.label "Scrios an Teagmháil">
 <!ENTITY deleteContactsCmd.label "Scrios Teagmhálacha">
@@ -126,8 +126,8 @@
 <!ENTITY newmsgButton.accesskey "S">
 <!ENTITY newIM.label "Teachtaireacht Mheandarach">
 <!ENTITY newIM.accesskey "i">
-<!ENTITY deleteButton2.label "Delete">
-<!ENTITY deleteButton2.accesskey "D">
+<!ENTITY deleteButton2.label "Scrios">
+<!ENTITY deleteButton2.accesskey "S">
 <!-- Address Book Toolbar Tooltips -->
 
 <!ENTITY newContactButton.tooltip "Cruthaigh teagmháil nua sa leabhar seoltaí">

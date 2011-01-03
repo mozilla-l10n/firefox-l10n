@@ -41,7 +41,7 @@
 
 <!ENTITY smiley1Cmd.label "Miongháire">
 <!ENTITY smiley1Cmd.accesskey "r">
-<!ENTITY smiley1Cmd.tooltip "Insert a smiley face">
+<!ENTITY smiley1Cmd.tooltip "Ionsáigh miongháire">
 <!ENTITY smiley2Cmd.label "Púicín">
 <!ENTITY smiley2Cmd.accesskey "n">
 <!ENTITY smiley2Cmd.tooltip "Ionsáigh púicín">
@@ -87,5 +87,5 @@
 <!ENTITY smiley16Cmd.label "Glas ar an teanga">
 <!ENTITY smiley16Cmd.accesskey "e">
 <!ENTITY smiley16Cmd.tooltip "Ionsáigh aghaidh le glas ar an teanga">
-<!ENTITY SmileButton.tooltip "Insert a smiley face">
+<!ENTITY SmileButton.tooltip "Ionsáigh miongháire">
 
