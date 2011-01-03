@@ -23,3 +23,4 @@
 <!ENTITY editBookmarkOverlay.choose.label "Wybierz…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Nowy folder">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey "w">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip "Utwórz nowy folder">
