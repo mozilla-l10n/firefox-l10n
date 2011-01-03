@@ -14,7 +14,7 @@
 <!ENTITY manageSubscriptions.accesskey "S">
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "Blogs &amp; News Feeds">
+<!ENTITY feeds.accountName "Blaganna agus Fothaí Nuachta">
 <!ENTITY feeds.wizardShortName "Fothaí">
-<!ENTITY feeds.wizardLongName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardLongName "Blaganna agus Fothaí Nuachta">
 <!ENTITY feeds.wizardLongName.accesskey "F">

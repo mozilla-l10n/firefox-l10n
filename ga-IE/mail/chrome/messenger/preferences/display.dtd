@@ -3,13 +3,13 @@
 
 <!ENTITY style.label "Stíl:">
 <!ENTITY style.accesskey "S">
-<!ENTITY regularStyle.label "Regular">
+<!ENTITY regularStyle.label "Gnáth">
 <!ENTITY bold.label "Trom">
 <!ENTITY italic.label "Iodálach">
 <!ENTITY boldItalic.label "Iodálach Trom">
-<!ENTITY size.label "Size:">
-<!ENTITY size.accesskey "s">
-<!ENTITY regularSize.label "Regular">
+<!ENTITY size.label "Méid:">
+<!ENTITY size.accesskey "M">
+<!ENTITY regularSize.label "Gnáth">
 <!ENTITY bigger.label "Níos Mó">
 <!ENTITY smaller.label "Níos Lú">
 <!ENTITY color.label "Dath:">
@@ -40,7 +40,7 @@
 <!ENTITY fontsAndColors.label "Clófhoirne">
 <!ENTITY defaultFont.label "Cló réamhshocraithe:">
 <!ENTITY defaultFont.accesskey "s">
-<!ENTITY defaultSize.label "Size:">
-<!ENTITY defaultSize.accesskey "S">
+<!ENTITY defaultSize.label "Méid:">
+<!ENTITY defaultSize.accesskey "M">
 <!ENTITY fontOptions.accesskey "C">
 <!ENTITY fontOptions.label "Casta…">

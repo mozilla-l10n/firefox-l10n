@@ -12,7 +12,7 @@
 
 <!ENTITY searchOnline.label "Cuardach ar líne (beidh na torthaí cothrom le dáta le haghaidh fillteán IMAP agus Nuachta ach beidh oscailt an fhillteáin níos moille)">
 <!ENTITY searchOnline.accesskey "C">
-<!ENTITY newFolderButton.label "Create">
+<!ENTITY newFolderButton.label "Cruthaigh">
 <!ENTITY newFolderButton.accesskey "r">
 <!ENTITY editFolderButton.label "Nuashonraigh">
 <!ENTITY editFolderButton.accesskey "u">

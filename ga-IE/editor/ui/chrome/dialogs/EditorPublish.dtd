@@ -38,13 +38,13 @@
 
 <!ENTITY windowTitle.label "Foilsigh an Leathanach">
 <!ENTITY windowTitleSettings.label "Socruithe Foilsithe">
-<!ENTITY publishTab.label "Publish">
+<!ENTITY publishTab.label "Foilsigh">
 <!ENTITY settingsTab.label "Socruithe">
-<!ENTITY publishButton.label "Publish">
+<!ENTITY publishButton.label "Foilsigh">
 <!-- Publish Tab Panel -->
 
-<!ENTITY siteList.label "Site Name:">
-<!ENTITY siteList.accesskey "e">
+<!ENTITY siteList.label "Ainm an tSuímh:">
+<!ENTITY siteList.accesskey "S">
 <!ENTITY siteList.tooltip "Roghnaigh an suíomh a theastaíonn uait foilsiú chuige">
 <!ENTITY newSiteButton.label "Suíomh nua">
 <!ENTITY newSiteButton.accesskey "n">
@@ -78,8 +78,8 @@
 <!ENTITY publishSites.label "Suíomhanna Foilsithe">
 <!ENTITY serverInfo.label "Eolas faoin bhfreastalaí">
 <!ENTITY loginInfo.label "Eolas Logála Isteach">
-<!ENTITY siteName.label "Site Name:">
-<!ENTITY siteName.accesskey "e">
+<!ENTITY siteName.label "Ainm an tSuímh:">
+<!ENTITY siteName.accesskey "S">
 <!ENTITY siteName.tooltip 'Leasainm mar aitheantas ar an suíomh seo (m.sh. "MoShuíomh")'>
 <!ENTITY siteUrl.label 'Seoladh foilsithe (m.sh. "ftp://ftp.mossi.ie/mo_ainm"):'>
 <!ENTITY siteUrl.accesskey "a">

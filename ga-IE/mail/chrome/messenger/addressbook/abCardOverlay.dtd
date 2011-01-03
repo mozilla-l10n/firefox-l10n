@@ -60,8 +60,8 @@
 <!ENTITY NameField1.accesskey "A">
 <!ENTITY NameField2.label "Sloinne:">
 <!ENTITY NameField2.accesskey "l">
-<!ENTITY PhoneticField1.label "Phonetic:">
-<!ENTITY PhoneticField2.label "Phonetic:">
+<!ENTITY PhoneticField1.label "Foghrach:">
+<!ENTITY PhoneticField2.label "Foghrach:">
 <!ENTITY DisplayName.label "Ainm Taispeána:">
 <!ENTITY DisplayName.accesskey "T">
 <!ENTITY preferDisplayName.label "Always prefer display name over message header">
@@ -102,12 +102,12 @@ content in HTML messages from this contact.">
 
 <!ENTITY Home.tab "Príobháideach">
 <!ENTITY Home.accesskey "R">
-<!ENTITY HomeAddress.label "Address:">
-<!ENTITY HomeAddress.accesskey "A">
+<!ENTITY HomeAddress.label "Seoladh:">
+<!ENTITY HomeAddress.accesskey "S">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
-<!ENTITY HomeCity.label "City:">
-<!ENTITY HomeCity.accesskey "y">
+<!ENTITY HomeCity.label "Cathair:">
+<!ENTITY HomeCity.accesskey "C">
 <!ENTITY HomeState.label "State/Province:">
 <!ENTITY HomeState.accesskey "S">
 <!ENTITY HomeZipCode.label "ZIP/Postal Code:">
