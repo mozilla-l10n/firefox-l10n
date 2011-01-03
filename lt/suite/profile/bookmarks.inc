@@ -28,11 +28,11 @@
 
 # LOCALIZATION NOTE (mozilla_projects):
 # link title for http://www.mozilla.org/projects/
-#define mozilla_projects „Mozilla“ projektai
+#define mozilla_projects „Mozillos“ projektai
 
 # LOCALIZATION NOTE (mozilla_about):
 # link title for http://www.mozilla.org/about/
-#define mozilla_about Apie „Mozilla“
+#define mozilla_about Apie „Mozillą“
 
 #define extend_seamonkey „SeaMonkey“ individualizavimas
 
@@ -77,11 +77,11 @@
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
 # e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
-#define seamonkey_l10n  
+define seamonkey_l10n <DT><A HREF="http://mozilla.lt/">„Mozilla“ Lietuvoje</a>
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
 # e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
-#define seamonkey_l10n_long  
+define seamonkey_l10n_long <DT><A HREF="http://mozilla.lt/">„Mozilla“ Lietuvoje</a>
 
 #unfilter emptyLines
