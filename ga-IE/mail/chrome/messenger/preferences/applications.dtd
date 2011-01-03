@@ -1,0 +1,19 @@
+<!ENTITY typeColumn.label "Cineál Ábhair">
+<!ENTITY typeColumn.accesskey "b">
+
+<!ENTITY actionColumn2.label "Gníomh">
+<!ENTITY actionColumn2.accesskey "G">
+
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.placeholder "Cuardach">
+
+<!ENTITY saveTo.label "Sábháil comhaid i">
+<!ENTITY saveTo.accesskey "S">
+<!ENTITY alwaysAsk.label "Fiafraigh díom cá sábhálfar an comhad i gcónaí">
+<!ENTITY alwaysAsk.accesskey "a">
+<!ENTITY chooseFolderWin.label "Brabhsáil…">
+<!ENTITY chooseFolderWin.accesskey "B">
+<!ENTITY chooseFolderMac.label "Roghnaigh…">
+<!ENTITY chooseFolderMac.accesskey "R">

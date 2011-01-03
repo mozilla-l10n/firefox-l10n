@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title "Comhtháthú Córais">
+<!ENTITY defaultClient.intro "Úsáid &brandShortName; mar chliant réamhshocraithe le haghaidh:">
+
+<!ENTITY email.label "R-Phost">
+<!ENTITY newsgroups.label "Grúpaí-Nuachta">
+<!ENTITY feeds.label "Fothaí">
+
+<!ENTITY checkOnStartup.label "Seiceáil mar seo i gcónaí agus &brandShortName; á thosú">
+<!ENTITY checkOnStartup.accesskey "a">
+
+<!ENTITY searchIntegration.label "Ceadaigh do &searchIntegration.engineName; teachtaireachtaí a chuardach">
+<!ENTITY searchIntegration.accesskey "C">
