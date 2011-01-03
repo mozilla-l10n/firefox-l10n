@@ -46,7 +46,7 @@
 <!ENTITY addDevice.dialog.description.label 'Per attivare un nuovo dispositivo aprire le Opzioni di &syncBrand.shortName.label; sul dispositivo stesso e selezionare "Connetti".'>
 <!ENTITY addDevice.dialog.enterCode.label "Inserire il codice fornito dal dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label "Riprovare">
-<!ENTITY addDevice.dialog.successful.label "Il dispositivo è stato aggiunto correttamente. La sincronizzazione iniziale può richiedere diversi minuti e verrà completata in background.">
+<!ENTITY addDevice.dialog.successful.label "Il dispositivo è stato aggiunto correttamente. La sincronizzazione iniziale può richiedere diversi minuti e verrà completata senza ulteriori interventi mentre si prosegue con la navigazione.">
 <!ENTITY addDevice.dialog.syncKey.label "Per attivare il dispositivo è necessario inserire la propria Chiave Sync. Si consiglia di stampare o salvare questa chiave e portarla con sé.">
 <!ENTITY addDevice.dialog.connected.label "Dispositivo connesso">
 <!ENTITY setup.signInPage.title.label "Accedi">
