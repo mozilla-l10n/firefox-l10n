@@ -16,7 +16,7 @@
 <!ENTITY mySyncKey.label "Sync lykillinn minn">
 <!ENTITY resetSync.label "Endurstilla Sync">
 <!ENTITY stopUsingAccount.label "Hætta að nota þennan aðgang">
-<!ENTITY addDevice.label "Bæta við tæki">
+<!ENTITY addDevice.label "Bæta við tölvu">
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label "Samstilling">
 <!ENTITY syncComputerName.label "Tölvuheiti:">
