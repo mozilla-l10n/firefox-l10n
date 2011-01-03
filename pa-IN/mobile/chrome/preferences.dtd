@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "&brandShortName; ਬਾਰੇ">
 <!ENTITY about.button                              "ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
 <!ENTITY content.title                             "ਸਮੱਗਰੀ">
+<!ENTITY reflowZoom.title                          "ਜ਼ੂਮ ਕਰਨ ਸਮੇਂ ਟੈਕਸਟ ਮੁੜ-ਫਾਰਮੈਟ ਕਰੋ">
 <!ENTITY showImages.title                          "ਚਿੱਤਰ ਵੇਖੋ">
 <!ENTITY enableJavaScript.title                    "ਜਾਵਾਸਕ੍ਰਿਪਟ ਚਾਲੂ">
 <!ENTITY enablePlugins.title                       "ਪਲੱਗਇਨ ਚਾਲੂ">
