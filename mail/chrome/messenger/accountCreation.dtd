@@ -1,0 +1,78 @@
+<!ENTITY autoconfigWizard.title "Socrú Cuntais Ríomhphoist">
+<!ENTITY name.label "D'ainm:">
+<!ENTITY name.accesskey "n">
+<!ENTITY name.placeholder "Ainm Sloinne">
+<!ENTITY name.text "D'ainm, mar a thaispeántar é do dhaoine eile">
+<!ENTITY email.label "Seoladh ríomhphoist:">
+<!ENTITY email.accesskey "l">
+<!ENTITY email.placeholder "seoladh@sampla.ie">
+<!ENTITY password.label "Focal Faire:">
+<!ENTITY password.accesskey "F">
+<!ENTITY password.placeholder "Focal Faire">
+<!ENTITY password.text "Roghnach, úsáidfear é chun an t-ainm úsáideoira a bhailíochtú amháin">
+
+<!ENTITY accountInformation.label "Eolas faoin Chuntas">
+<!ENTITY username2.label "Ainm úsáideora:">
+<!ENTITY incoming.label "Isteach:">
+<!ENTITY outgoing.label "Amach:">
+<!ENTITY noEncryption.label "Gan sonrú">
+<!ENTITY starttls.label "STARTTLS">
+<!ENTITY sslTls.label "SSL/TLS">
+
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop.label "POP">
+<!ENTITY smtp.label "SMTP">
+<!ENTITY imap.description "IMAP - Faigh do chuid fillteán agus teachtaireachtaí ó ríomhairí éagsúla">
+<!ENTITY pop.description "POP - Íosluchtaigh teachtaireachtaí go dtí an ríomhaire seo, fillteáin logánta amháin">
+<!ENTITY recommended-appendix.label "(molta)">
+
+<!ENTITY manualSetup.label "Socrú De Láimh…">
+<!ENTITY manualSetup.accesskey "S">
+<!ENTITY cancel.label "Cealaigh">
+<!ENTITY cancel.accesskey "a">
+<!ENTITY continue.label "Ar Aghaidh">
+<!ENTITY continue.accesskey "A">
+<!ENTITY startOver.label "Tosaigh arís">
+<!ENTITY startOver.accesskey "o">
+<!ENTITY stop.label "Stad">
+<!ENTITY stop.accesskey "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label "Re-test Configuration">
+<!ENTITY retest.accesskey "R">
+<!ENTITY edit.label "Eagar">
+<!ENTITY edit.accesskey "E">
+
+<!ENTITY rememberPassword.label "Meabhraigh focal faire">
+<!ENTITY rememberPassword.accesskey "M">
+
+<!ENTITY warning.label "Rabhadh!">
+<!ENTITY incomingSettings.label "Socruithe isteach:">
+<!ENTITY outgoingSettings.label "Socruithe amach:">
+<!ENTITY technicaldetails.label "Sonraí Teicniúla">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label "I understand the risks.">
+<!ENTITY confirmWarning.accesskey "u">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label "Create Account">
+<!ENTITY createAccount.accesskey "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label "Change Settings">
+<!ENTITY changeSettings.accesskey "S">
+
+<!ENTITY contactYourProvider.description "Is féidir le &brandShortName; do chuid ríomhphoist a fháil leis an gcumraíocht soláthraithe. Ba cheart duit le do riarthóir nó do sholáthraí ríomhphoist maidir leis na ceangail mhíchuí seo, áfach. Feic ceisteanna coitianta Thunderbird le haghaidh tuilleadh eolais.">
+
+<!ENTITY insecureServer.tooltip.title "Rabhadh! Freastalaí neamhshlán é seo.">
+<!ENTITY insecureServer.tooltip.details "Cliceáil ar an gciorcal chun tuilleadh sonraí a fháil.">
+
+<!ENTITY insecureUnencrypted.description "Seoltar do ríomhphost agus fíordheimhniú gan criptiúchán, agus d'fhéadfadh daoine eile d'fhocal faire agus do theachtaireacht a léamh go furasta. Ligfidh  &brandShortName; leat do chuid ríomhphoist a fháil, ach ba cheart duit iarraidh ar do sholáthraí ríomhphoist an freastalaí a chumrú le ceangal slán.">
+<!ENTITY insecureSelfSigned.description "Úsáideann an freastalaí teastas nach féidir muinín a bheith againn as, agus mar sin ní féidir bheith cinnte nach bhfuil an trácht idir &brandShortName; agus do fhreastalaí á hidircheapadh. Ligfidh  &brandShortName; leat do chuid ríomhphoist a fháil, ach ba cheart duit iarraidh ar do sholáthraí ríomhphoist an freastalaí a chumrú le teastas iontaofa.">
+<!ENTITY secureServer.description "Comhghairdeas! Is freastalaí slán é seo.">
