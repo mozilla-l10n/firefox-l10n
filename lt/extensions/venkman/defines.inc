@@ -2,7 +2,7 @@
 
 #define MOZ_LANGPACK_CREATOR Mozilla Lietuvoje
 
-#define MOZ_LANGPACK_HOMEPAGE http://firefox.lt/
+#define MOZ_LANGPACK_HOMEPAGE http://mozilla.lt/
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
