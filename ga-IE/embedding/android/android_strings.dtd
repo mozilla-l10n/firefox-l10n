@@ -1,0 +1,13 @@
+<!ENTITY splash_screen_label "á luchtú">
+<!ENTITY incompatable_cpu_error "This device does not meet the minimum system requirements for &brandShortName;.">
+<!ENTITY no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
+<!ENTITY error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+
+<!ENTITY crash_reporter_title "Tuairisceoir na gClistí &brandShortName;">
+<!ENTITY crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
+<!ENTITY crash_help_message "Please help us fix this problem!">
+<!ENTITY crash_send_report_message "Seol tuairisc ar thuairteáil chuig Mozilla">
+<!ENTITY crash_include_url "Cuir seoladh an leathanaigh san áireamh">
+<!ENTITY crash_close_label "Dún">
+<!ENTITY crash_restart_label "Atosaigh &brandShortName;">
+<!ENTITY sending_crash_report "Tuairisc ar thuairteáil á seoladh\u2026">
