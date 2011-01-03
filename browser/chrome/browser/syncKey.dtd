@@ -1,5 +1,5 @@
 <!ENTITY syncKey.page.title "&syncBrand.fullName.label; lykillinn þinn">
-<!ENTITY syncKey.page.description "Þessi lykill er notaður til að afkóða gögnin í aðganginum að &syncBrand.fullName.label;. Þú þarft að slá inn þennan lykil í hvert skipti sem þú setur inn &syncBrand.fullName.label; á nýja tölvu eða tæki.">
+<!ENTITY syncKey.page.description "Þessi lykill er notaður til að afkóða gögnin fyrir aðganginn að &syncBrand.fullName.label;. Þú þarft að slá inn þennan lykil í hvert skipti sem þú setur inn &syncBrand.fullName.label; á nýja tölvu eða tæki.">
 <!ENTITY syncKey.keepItSecret.heading "Þagað yfir leyndarmáli">
 <!ENTITY syncKey.keepItSecret.description "Aðgangurinn að &syncBrand.fullName.label; er dulkóðaður til að verja þínar persónulegu upplýsingar. Án lykilsins, myndi það taka mörg ár fyrir hvern þann sem myndi reyna að afkóða þínar persónulegar upplýsingar. Þú ert eina persónan sem hefur þennan lykil. Það þýðir að aðeins þú hefur aðgang að gögnum &syncBrand.fullName.label;.">
 <!ENTITY syncKey.keepItSafe.heading "Passaðu lykilinn">
