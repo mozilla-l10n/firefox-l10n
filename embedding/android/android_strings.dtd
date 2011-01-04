@@ -1,7 +1,9 @@
-<!ENTITY  splash_screen_label "&brandShortName; se está cargando">
+<!ENTITY  splash_screen_label "cargando">
 <!ENTITY  incompatable_cpu_error "Este dispositivo no cumple los requerimientos mínimos para ejecutar &brandShortName;.">
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ha ocurrido un error mientras se trataban de cargar los archivos necesarios para ejecutar &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Informe de fallos de &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; ha fallado. Tus pestañas deberían aparecer en la página de inicio de &brandShortName; al reiniciar.">
 <!ENTITY  crash_help_message "¡Ayudanos a corregir este problema!">
 <!ENTITY  crash_send_report_message "Enviar a Mozilla un informe de fallos">
