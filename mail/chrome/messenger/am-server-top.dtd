@@ -47,7 +47,7 @@
 <!ENTITY modelDeleteImmediately.accesskey "l">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Glan an Bosca Isteach ag an Scor">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY expungeOnExit.accesskey "G">
 <!ENTITY emptyTrashOnExit.label "Folmhaigh an Bruscar ag an Scor">
 <!ENTITY emptyTrashOnExit.accesskey "S">
 <!ENTITY loginAtStartup.label "Lorg teachtaireachtaí nua ag am tosaithe">

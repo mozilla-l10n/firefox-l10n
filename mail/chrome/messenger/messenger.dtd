@@ -461,7 +461,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY runJunkControls.label "Rith na Rialtáin Dramhphoist ar Fhillteán">
 <!ENTITY runJunkControls.accesskey "D">
 <!ENTITY deleteJunk.label "Scrios ríomhphost marcáilte mar dhramhphost san fhillteán">
-<!ENTITY deleteJunk.accesskey "D">
+<!ENTITY deleteJunk.accesskey "S">
 <!ENTITY importCmd.label "Iompórtáil…">
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Consól Earráide">
@@ -636,7 +636,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Oscail Teachtaireacht i bhFuinneog Nua">
-<!ENTITY contextOpenNewWindow.accesskey "T">
+<!ENTITY contextOpenNewWindow.accesskey "F">
 <!ENTITY contextOpenNewTab.label "Oscail Teachtaireacht i gCluaisín Nua">
 <!ENTITY contextOpenNewTab.accesskey "C">
 <!ENTITY contextOpenConversation.label "Oscail Teachtaireacht i gComhrá">
