@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Søg:">
 <!ENTITY search.accesskey                          "S">
+
+<!ENTITY search.in.label                           "Søg i:">
 <!ENTITY search.scopeFolder.label                  "Valgt mappe">
 <!ENTITY search.scopeFolder.accesskey              "m">
 <!ENTITY search.scopeBookmarks.label               "Bogmærker">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "Forhåndsvisning">
 <!ENTITY detailsPane.selectAnItemText.description "Vælg et element til visning og redigering af dets egenskaber">
+
+<!ENTITY find.label               "Søg:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "Vis">
+<!ENTITY view.accesskey           "V">
+<!ENTITY byDate.label             "efter dato">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "efter størrelse">
+<!ENTITY bySite.accesskey         "s">
+<!ENTITY byMostVisited.label      "efter mest besøgt">
+<!ENTITY byMostVisited.accesskey  "m">
+<!ENTITY byLastVisited.label      "efter sidst besøgt">
+<!ENTITY byLastVisited.accesskey  "s">
+<!ENTITY byDayAndSite.label       "efter dato og websted">
+<!ENTITY byDayAndSite.accesskey   "w">

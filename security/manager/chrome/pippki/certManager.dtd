@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "U">
 
 <!ENTITY exceptionMgr.title                   "Tilføj sikkerhedsundtagelse">
-<!ENTITY exceptionMgr.exceptionButton         "Bekræft sikkerhedsundtagelse">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "B">
+<!ENTITY exceptionMgr.exceptionButton.label   "Bekræft sikkerhedsundtagelse">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "B">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitime banker, forretninger og andre offentlige websider vil ikke bede dig om at gøre dette.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">

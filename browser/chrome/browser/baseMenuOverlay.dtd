@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Indsend feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "I">
 
-<!ENTITY updateCmd.label                "Tjek for opdateringer…">
-
 <!ENTITY preferencesCmdMac.label        "Indstillinger…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
