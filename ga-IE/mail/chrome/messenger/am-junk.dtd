@@ -5,8 +5,8 @@
 
 <!ENTITY move.label "Bog teachtaireachtaí nua dramhphoist go:">
 <!ENTITY move.accesskey "m">
-<!ENTITY junkFolderOn.label "an fillteán&quot;Dramhphost&quot; ar:">
-<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY junkFolderOn.label "Fillteán&quot;Dramhphost&quot; ar:">
+<!ENTITY junkFolderOn.accesskey "D">
 <!ENTITY otherFolder.label "Eile:">
 <!ENTITY otherFolder.accesskey "E">
 <!ENTITY purge1.label "Scrios uathoibríoch dramhphoist níos sine ná">

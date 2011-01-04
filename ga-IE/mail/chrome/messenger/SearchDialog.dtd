@@ -44,7 +44,7 @@
 <!ENTITY statusColumn.label "Stádas">
 <!ENTITY sizeColumn.label "Méid">
 <!ENTITY junkStatusColumn.label "Stádas Dramhphoist">
-<!ENTITY unreadColumn.label "Neamhléite">
+<!ENTITY unreadColumn.label "Gan Léamh">
 <!ENTITY totalColumn.label "Iomlán">
 <!ENTITY readColumn.label "Léite">
 <!ENTITY receivedColumn.label "Faighte">
@@ -65,7 +65,7 @@
 <!ENTITY statusColumn.tooltip "Cliceáil chun sórtáil de réir stádais">
 <!ENTITY sizeColumn.tooltip "Cliceáil chun sórtáil de réir méide">
 <!ENTITY junkStatusColumn.tooltip "Cliceáil chun sórtáil de réir stádais dramhphoist">
-<!ENTITY unreadColumn.tooltip "Teachtaireachtaí neamhléite sa snáithe">
+<!ENTITY unreadColumn.tooltip "Teachtaireachtaí gan léamh sa snáithe">
 <!ENTITY totalColumn.tooltip "Iomlán na dTeachtaireachtaí sa snáithe">
 <!ENTITY readColumn.tooltip "Cliceáil chun sórtáil de réir stádais léite">
 <!ENTITY receivedColumn.tooltip "Cliceáil chun sórtáil de réir dáta fála">

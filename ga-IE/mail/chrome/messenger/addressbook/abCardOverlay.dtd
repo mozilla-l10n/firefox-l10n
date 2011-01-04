@@ -83,11 +83,7 @@
 
 <!ENTITY allowRemoteContent1.label "Ceadaigh ábhar cianda.">
 <!ENTITY allowRemoteContent1.accesskey "r">
-<!ENTITY allowRemoteContent1.tooltip "In HTML messages it is possible to
-embed content from remote sources. Opening such a message will open a
-connection to this external source. This may allow tracking of the
-message being read. Checking this box will allow such external embedded
-content in HTML messages from this contact.">
+<!ENTITY allowRemoteContent1.tooltip "Is féidir ábhar ó chianfhoinsí a leabú i dteachtaireachtaí HTML. Osclófar nasc chuig an foinse eachtrach seo nuair a osclófar a leithéid de theachtaireacht. Leis sin, d'fhéadfadh lorg na teachtaireachta atá á léamh a bheith inleanta. Ceadófar ábhar seachtrach leabaithe den chineál sin i dteachtaireachtaí HTML ón duine seo sin má chuirtear tic sa bhosca seo.">
 
 <!ENTITY WorkPhone.label "Obair:">
 <!ENTITY WorkPhone.accesskey "O">
@@ -108,13 +104,13 @@ content in HTML messages from this contact.">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Cathair:">
 <!ENTITY HomeCity.accesskey "C">
-<!ENTITY HomeState.label "State/Province:">
+<!ENTITY HomeState.label "Stát/Cúige:">
 <!ENTITY HomeState.accesskey "S">
-<!ENTITY HomeZipCode.label "ZIP/Postal Code:">
-<!ENTITY HomeZipCode.accesskey "Z">
-<!ENTITY HomeCountry.label "Country:">
-<!ENTITY HomeCountry.accesskey "u">
-<!ENTITY HomeWebPage.label "Web Page:">
+<!ENTITY HomeZipCode.label "Cód Poist:">
+<!ENTITY HomeZipCode.accesskey "C">
+<!ENTITY HomeCountry.label "Tír:">
+<!ENTITY HomeCountry.accesskey "T">
+<!ENTITY HomeWebPage.label "Leathanach Gréasáin:">
 <!ENTITY HomeWebPage.accesskey "e">
 <!ENTITY Birthday.label "Lá Breithe:">
 <!ENTITY Birthday.accesskey "B">
@@ -132,19 +128,19 @@ content in HTML messages from this contact.">
 <!ENTITY Department.accesskey "n">
 <!ENTITY Company.label "Eagras:">
 <!ENTITY Company.accesskey "g">
-<!ENTITY WorkAddress.label "Address:">
-<!ENTITY WorkAddress.accesskey "A">
+<!ENTITY WorkAddress.label "Seoladh:">
+<!ENTITY WorkAddress.accesskey "S">
 <!ENTITY WorkAddress2.label "">
 <!ENTITY WorkAddress2.accesskey "">
-<!ENTITY WorkCity.label "City:">
-<!ENTITY WorkCity.accesskey "y">
-<!ENTITY WorkState.label "State/Province:">
+<!ENTITY WorkCity.label "Cathair:">
+<!ENTITY WorkCity.accesskey "C">
+<!ENTITY WorkState.label "Stát/Cúige:">
 <!ENTITY WorkState.accesskey "S">
-<!ENTITY WorkZipCode.label "ZIP/Postal Code:">
-<!ENTITY WorkZipCode.accesskey "Z">
-<!ENTITY WorkCountry.label "Country:">
-<!ENTITY WorkCountry.accesskey "u">
-<!ENTITY WorkWebPage.label "Web Page:">
+<!ENTITY WorkZipCode.label "Cód Poist:">
+<!ENTITY WorkZipCode.accesskey "C">
+<!ENTITY WorkCountry.label "Tír:">
+<!ENTITY WorkCountry.accesskey "T">
+<!ENTITY WorkWebPage.label "Leathanach Gréasáin:">
 <!ENTITY WorkWebPage.accesskey "e">
 
 <!ENTITY Other.tab "Eile">

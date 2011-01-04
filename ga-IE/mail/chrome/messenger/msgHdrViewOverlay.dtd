@@ -82,22 +82,22 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton.label "Gníomhartha eile">
-<!ENTITY otherActionsOpenConversation.label "oscail i gcomhrá">
+<!ENTITY otherActionsOpenConversation.label "Oscail i gcomhrá">
 <!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "oscail i bhfuinneog nua">
+<!ENTITY otherActionsOpenInNewWindow.label "Oscail i bhfuinneog nua">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "n">
-<!ENTITY otherActionsOpenInNewTab.label "oscail i gcluasín nua">
+<!ENTITY otherActionsOpenInNewTab.label "Oscail i gcluasín nua">
 <!ENTITY otherActionsOpenInNewTab.accesskey "c">
-<!ENTITY markAsReadMenuItem.label "marcáil mar léite">
+<!ENTITY markAsReadMenuItem.label "Marcáil léite">
 <!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "marcáil mar neamhléite">
+<!ENTITY markAsUnreadMenuItem.label "Marcáil gan léamh">
 <!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "sábháil mar…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "taispeáin foinse">
-<!ENTITY viewSourceMenuItem.accesskey "t">
-<!ENTITY otherActionsPrint.label "priontáil…">
-<!ENTITY otherActionsPrint.accesskey "p">
+<!ENTITY saveAsMenuItem.label "Sábháil mar…">
+<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY viewSourceMenuItem.label "Taispeáin foinse">
+<!ENTITY viewSourceMenuItem.accesskey "T">
+<!ENTITY otherActionsPrint.label "Priontáil…">
+<!ENTITY otherActionsPrint.accesskey "P">
 
 <!ENTITY openAttachmentCmd.label "Oscail">
 <!ENTITY openAttachmentCmd.accesskey "O">

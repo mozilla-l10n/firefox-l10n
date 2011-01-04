@@ -39,8 +39,8 @@
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
-<!ENTITY retest.label "Re-test Configuration">
-<!ENTITY retest.accesskey "R">
+<!ENTITY retest.label "Tástáil an Chumraíocht Arís">
+<!ENTITY retest.accesskey "r">
 <!ENTITY edit.label "Eagar">
 <!ENTITY edit.accesskey "E">
 
@@ -54,7 +54,7 @@
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label "I understand the risks.">
+<!ENTITY confirmWarning.label "Tuigim na contúirtí.">
 <!ENTITY confirmWarning.accesskey "u">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
@@ -65,7 +65,7 @@
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label "Change Settings">
+<!ENTITY changeSettings.label "Athraigh Socruithe">
 <!ENTITY changeSettings.accesskey "S">
 
 <!ENTITY contactYourProvider.description "Is féidir le &brandShortName; do chuid ríomhphoist a fháil leis an gcumraíocht soláthraithe. Ba cheart duit le do riarthóir nó do sholáthraí ríomhphoist maidir leis na ceangail mhíchuí seo, áfach. Feic ceisteanna coitianta Thunderbird le haghaidh tuilleadh eolais.">

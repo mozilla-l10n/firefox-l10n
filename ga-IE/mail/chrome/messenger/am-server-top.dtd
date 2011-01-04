@@ -15,8 +15,8 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Check for new messages every ">
-<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffStart.label "Lorg teachtaireachtaí nua gach ">
+<!ENTITY biffStart.accesskey "g">
 <!ENTITY biffEnd.label "nóiméad">
 <!ENTITY connectionSecurity.label "Slándáil an cheangail:">
 <!ENTITY connectionSecurity.accesskey "n">
@@ -46,7 +46,7 @@
 <!ENTITY modelDeleteImmediately.label "Bain é amach láithreach">
 <!ENTITY modelDeleteImmediately.accesskey "l">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Clean up (&quot;Expunge&quot;) Inbox on Exit">
+<!ENTITY expungeOnExit.label "Glan an Bosca Isteach ag an Scor">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Folmhaigh an Bruscar ag an Scor">
 <!ENTITY emptyTrashOnExit.accesskey "S">
@@ -56,7 +56,7 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Ask me before downloading more than">
+<!ENTITY maxMessagesStart.label "Fiafraigh díom roimh íosluchtú níos mó ná">
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "teachtaireacht is déanaí">

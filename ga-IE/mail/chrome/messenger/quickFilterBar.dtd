@@ -2,19 +2,19 @@
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Quick Filter Bar">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Barra Mearscagairí">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "Q">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "B">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Toggle the quick filter bar">
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Scoránaigh an barra mearscagairí">
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
      (currently displayed as a push-pin).  When active, the sticky button
@@ -29,19 +29,19 @@
      ideally be as short as possible.
      -->
 
-<!ENTITY quickFilterBar.barLabel.label "Quick Filter:">
+<!ENTITY quickFilterBar.barLabel.label "Mearscagaire:">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
 
-<!ENTITY quickFilterBar.unread.label "Neamhléite">
+<!ENTITY quickFilterBar.unread.label "Gan Léamh">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
 
-<!ENTITY quickFilterBar.unread.tooltip "Show only unread messages">
+<!ENTITY quickFilterBar.unread.tooltip "Taispeáin teachtaireachtaí gan léamh amháin">
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
@@ -53,7 +53,7 @@
      include messages that have been starred/flagged.
      -->
 
-<!ENTITY quickFilterBar.starred.tooltip "Show only starred messages">
+<!ENTITY quickFilterBar.starred.tooltip "Taispeáin teachtaireachtaí marcáilte amháin">
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
      include messages from contacts in one of the user's non-remote address
@@ -67,7 +67,7 @@
      books.
      -->
 
-<!ENTITY quickFilterBar.inaddrbook.tooltip "Show only messages from people in your address book">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Ná taispeáin ach teachtaireachtaí a tháinig ó dhaoine i mo leabhar seoltaí">
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
@@ -79,7 +79,7 @@
      include messages with at least one tag on them.
      -->
 
-<!ENTITY quickFilterBar.tags.tooltip "Show only messages with tags on them">
+<!ENTITY quickFilterBar.tags.tooltip "Ná taispeáin ach teachtaireachtaí a bhfuil clibeanna orthu">
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
@@ -91,7 +91,7 @@
      include messages with attachments.
      -->
 
-<!ENTITY quickFilterBar.attachment.tooltip "Show only messages with attachments">
+<!ENTITY quickFilterBar.attachment.tooltip "Ná taispeáin ach teachtaireachtaí a bhfuil iatáin acu">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
      number of messages found using this string, that there are no messages
@@ -129,7 +129,7 @@
      box faster.
      -->
 
-<!ENTITY quickFilterBar.textbox.emptyText.base "Filter these messages... #1">
+<!ENTITY quickFilterBar.textbox.emptyText.base "Scag na teachtaireachtaí seo... #1">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
      linux (which use the control key).  We use the keybinding for cmd_find
@@ -169,7 +169,7 @@
      arrow scroll box.)
      -->
 
-<!ENTITY quickFilterBar.textFilter.explanation.label "Filter messages by:">
+<!ENTITY quickFilterBar.textFilter.explanation.label "Scag teachtaireachtaí de réir:">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
@@ -199,10 +199,10 @@
      but we can convert to a global search for them.
      -->
 
-<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Continue this search across all folders">
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Lean ar aghaidh leis an gcuardach seo i ngach fillteán">
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 
-<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Press 'Enter' again to continue your search for: #1">
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Brúigh 'Enter' arís chun dul ar aghaidh le cuardach ar: #1">

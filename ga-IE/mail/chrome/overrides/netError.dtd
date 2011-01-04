@@ -28,11 +28,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mód as líne">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>Place &brandShortName; in online mode, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc "<ul> 
+<li>Cuir &brandShortName; sa mhód ar líne, agus bain triail eile as.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Earráid ionchódaithe inneachair">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> </ul>">
@@ -61,24 +59,20 @@
 <!ENTITY unknownSocketType.title "Freagra gan súil leis ón bhfreastalaí">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Cinntigh go bhfuil an Bainisteoir Pearsanta Slándála suiteáilte ar do ríomhaire.</li> <li>D'fhéadfadh seo tarlú de dheasca cumraíocht neamhchaighdeánach an fhreastalaí.</li></ul>">
 
-<!ENTITY nssFailure2.title "Secure connection failed">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY nssFailure2.title "Níorbh fhéidir ceangal slán a bhunú">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li> 
+<li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil.</li> 
+</ul>">
 
-<!ENTITY nssBadCert.title "Secure connection failed">
+<!ENTITY nssBadCert.title "Níorbh fhéidir ceangal slán a bhunú">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó b'fhéidir go bhfuil duine éigin ag déanamh aithris ar an bhfreastalaí.</li> <li>Má d'éirigh leat ceangal leis an bhfreastalaí seo roimhe seo, b'fhéidir gur fadhb shealadach atá ann agus is féidir leat iarracht a dhéanamh níos déanaí.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li> <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar cheangal líonra do ríomhaire.</li> <li>Má tá do ríomhaire nó do líonra á chosaint ag balla dóiteáin nó seachfhreastalaí, cinntigh go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li></ul>">
 
 <!ENTITY malwareBlocked.title "Suíomh amhrasta ionsaithe!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo'>request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p>Iarrann suímh ionsaithe bogearraí a shuiteáil a ghoideann faisnéis phríobháideach, a úsáideann do ríomhaire le cinn eile a ionsaí, nó a dhéanann dochar do do ríomhaire.</p> 
+<p>Tig le húinéirí suíomhanna Gréasáin a chreideann gur tuairiscíodh go mícheart gur suímh ionsaithe iad <a href='http://www.stopbadware.org/home/reviewinfo'>athbhreithniú a iarraidh</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Falsaíocht Ghréasáin!">
 <!ENTITY phishingBlocked.longDesc "<p>D'fhéadfadh goid aitheantais nó calaois eile teacht mar thoradh ar fhaisnéis phearsanta ar bith a chur isteach sa leathanach seo.</p> <p>Úsáidtear suímh den chineál seo i gcamscéimeanna ar a dtugtar “bréagbhrandáil”, ina gcruthaíonn coirpigh leathanaigh agus ríomhphoist chalaoiseacha chun aithris a dhéanamh ar fhoinsí dlisteanacha a bhfuil muinín agat astu.</p>">
