@@ -64,7 +64,7 @@
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Greamaigh">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "r">
+<!ENTITY pasteCmd.accesskey "m">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Timfhill Arís">
@@ -244,7 +244,7 @@
 <!ENTITY copy.label "Cóipeáil">
 <!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "Greamaigh">
-<!ENTITY paste.accesskey "r">
+<!ENTITY paste.accesskey "m">
 <!ENTITY pasteQuote.label "Greamaigh mar Athfhriotal">
 <!ENTITY pasteQuote.accesskey "A">
 
