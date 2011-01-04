@@ -35,6 +35,6 @@
 
  ***** END LICENSE BLOCK ***** -->
 <!ENTITY nameColumn.label "Ainm">
-<!ENTITY unreadColumn.label "Neamhléite">
+<!ENTITY unreadColumn.label "Gan Léamh">
 <!ENTITY totalColumn.label "Iomlán">
 <!ENTITY folderSizeColumn.label "Méid">

@@ -1,7 +1,7 @@
 <!ENTITY serverAdvanced.label "Ardshocruithe Cuntais">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP server directory:">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.label "Comhadlann an fhreastalaí IMAP:">
+<!ENTITY serverDirectory.accesskey "r">
 <!ENTITY usingSubscription.label "Taispeáin fillteáin liostáilte amháin">
 <!ENTITY usingSubscription.accesskey "T">
 <!ENTITY dualUseFolders.label "Tacaíonn an freastalaí le fillteáin ina bhfuil fofhillteáin agus teachtaireachtaí">
@@ -11,7 +11,7 @@
 <!ENTITY maximumConnectionsNumber.label "Uasmhéid na gceangal freastalaí a chuirfear sa taisce">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY namespaceDesc.label "Sonraíonn na roghanna seo na hainmspásanna ar d'fhreastalaí IMAP">
 <!ENTITY personalNamespace.label "Ainmspás pearsanta:">
 <!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Poiblí (roinnte):">

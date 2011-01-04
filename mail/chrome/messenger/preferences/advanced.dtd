@@ -35,8 +35,8 @@
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "After displaying for">
-<!ENTITY markAsReadDelay.accesskey "d">
+<!ENTITY markAsReadDelay.label "Tar éis iad a thaispeáint ar feadh">
+<!ENTITY markAsReadDelay.accesskey "t">
 <!ENTITY secondsLabel.label "soicind">
 <!ENTITY openMsgIn.label "Oscail teachtaireachtaí:">
 <!ENTITY openMsgInNewTab.label "i gcluaisín nua">

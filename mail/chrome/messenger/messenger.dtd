@@ -35,8 +35,8 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY getNextNMsgCmd.label "Faigh an 500 Teachtaireacht Nuachta Eile">
 <!ENTITY getNextNMsgCmd.accesskey "T">
-<!ENTITY sendUnsentCmd.label "Send Unsent Messages">
-<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY sendUnsentCmd.label "Seol na teachtaireachtaí gan seoladh">
+<!ENTITY sendUnsentCmd.accesskey "l">
 <!ENTITY subscribeCmd.label "Liostáil…">
 <!ENTITY subscribeCmd.accesskey "L">
 <!ENTITY deleteFolder.label "Scrios an Fillteán">
@@ -46,8 +46,8 @@
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Dlúthaigh Fillteáin">
 <!ENTITY compactFolders.accesskey "F">
-<!ENTITY emptyTrashCmd.label "Empty Trash">
-<!ENTITY emptyTrashCmd.accesskey "y">
+<!ENTITY emptyTrashCmd.label "Folmhaigh an Bruscar">
+<!ENTITY emptyTrashCmd.accesskey "F">
 <!ENTITY offlineMenu.label "As Líne">
 <!ENTITY offlineMenu.accesskey "L">
 <!ENTITY offlineGoOfflineCmd.label "Oibrigh As Líne">
@@ -132,12 +132,12 @@
 <!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Uile">
 <!ENTITY allFolders.accesskey "U">
-<!ENTITY unreadFolders.label "Unread">
-<!ENTITY unreadFolders.accesskey "U">
+<!ENTITY unreadFolders.label "Gan Léamh">
+<!ENTITY unreadFolders.accesskey "G">
 <!ENTITY favoriteFolders.label "Mo Rogha Fillteán">
 <!ENTITY favoriteFolders.accesskey "F">
-<!ENTITY recentFolders.label "Recent">
-<!ENTITY recentFolders.accesskey "R">
+<!ENTITY recentFolders.label "Le Déanaí">
+<!ENTITY recentFolders.accesskey "L">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sórtáil de réir">
@@ -192,11 +192,11 @@
 <!ENTITY collapseAllThreadsCmd.label "Laghdaigh Gach Snáithe">
 <!ENTITY collapseAllThreadsCmd.accesskey "L">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Unread">
-<!ENTITY unreadMsgsCmd.accesskey "U">
-<!ENTITY threadsWithUnreadCmd.label "Snáitheanna le cinn neamhléite">
+<!ENTITY unreadMsgsCmd.label "Gan Léamh">
+<!ENTITY unreadMsgsCmd.accesskey "G">
+<!ENTITY threadsWithUnreadCmd.label "Snáitheanna le cinn gan léamh">
 <!ENTITY threadsWithUnreadCmd.accesskey "t">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Snáitheanna ar a ndéantar faire le cinn neamhléite">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Snáitheanna ar a ndéantar faire le cinn gan léamh">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "f">
 <!ENTITY ignoredThreadsCmd.label "Snáitheanna ar a dtugtar neamhaird">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
@@ -286,12 +286,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextMsgCmd.label "Teachtaireacht">
 <!ENTITY nextMsgCmd.accesskey "T">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "Unread Message">
-<!ENTITY nextUnreadMsgCmd.accesskey "U">
+<!ENTITY nextUnreadMsgCmd.label "Teachtaireacht Gan Léamh">
+<!ENTITY nextUnreadMsgCmd.accesskey "G">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Starred Message">
-<!ENTITY nextStarredMsgCmd.accesskey "S">
-<!ENTITY nextUnreadThread.label "Snáithe Neamhléite">
+<!ENTITY nextStarredMsgCmd.label "Teachtaireacht Mharcáilte">
+<!ENTITY nextStarredMsgCmd.accesskey "M">
+<!ENTITY nextUnreadThread.label "Snáithe Gan Léamh">
 <!ENTITY nextUnreadThread.accesskey "t">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Siar">
@@ -299,17 +299,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevMsgCmd.label "Teachtaireacht">
 <!ENTITY prevMsgCmd.accesskey "T">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Unread Message">
-<!ENTITY prevUnreadMsgCmd.accesskey "U">
+<!ENTITY prevUnreadMsgCmd.label "Teachtaireacht Gan Léamh">
+<!ENTITY prevUnreadMsgCmd.accesskey "G">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Forward">
-<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.label "Ar Aghaidh">
+<!ENTITY goForwardCmd.accesskey "A">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Siar">
 <!ENTITY goBackCmd.accesskey "S">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Starred Message">
-<!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY prevStarredMsgCmd.label "Teachtaireacht Mharcáilte">
+<!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Fillteán">
 <!ENTITY folderMenu.accesskey "F">
 <!ENTITY thisFolder.label "An Fillteán Seo">
@@ -332,14 +332,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.label "Freagair">
 <!ENTITY replyMsgCmd.accesskey "F">
 <!ENTITY replyMsgCmd.key "f">
-<!ENTITY replySenderCmd.label "Reply to Sender Only">
-<!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Reply to Newsgroup">
-<!ENTITY replyNewsgroupCmd.accesskey "y">
+<!ENTITY replySenderCmd.label "Freagair an Seoltóir Amháin">
+<!ENTITY replySenderCmd.accesskey "r">
+<!ENTITY replyNewsgroupCmd.label "Freagair an Grúpa Nuachta">
+<!ENTITY replyNewsgroupCmd.accesskey "g">
 <!ENTITY replyToAllMsgCmd.label "Freagair Cách">
 <!ENTITY replyToAllMsgCmd.accesskey "a">
 <!ENTITY replyToAllMsgCmd.key "a">
-<!ENTITY replyToListMsgCmd.label "Reply to List">
+<!ENTITY replyToListMsgCmd.label "Freagra chuig an Liosta">
 <!ENTITY replyToListMsgCmd.accesskey "L">
 <!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Cuir Ar Aghaidh">
@@ -356,13 +356,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Cruthaigh Scagaire ón Teachtaireacht…">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgToMenu.label "Move To">
-<!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY moveCopyMsgRecentMenu.label "Recent">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY moveMsgToMenu.label "Bog Go">
+<!ENTITY moveMsgToMenu.accesskey "B">
+<!ENTITY moveCopyMsgRecentMenu.label "Le Déanaí">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "L">
 <!ENTITY copyMessageLocation.label "Cóipeáil Suíomh na Teachtaireachta">
 <!ENTITY copyMessageLocation.accesskey "m">
-<!ENTITY copyMsgToMenu.label "Copy To">
+<!ENTITY copyMsgToMenu.label "Cóipeáil Go">
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Bog Arís">
 <!ENTITY moveToFolderAgain.accesskey "A">
@@ -484,7 +484,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextButton.label "Ar Aghaidh">
 <!ENTITY previousButton.label "Siar">
 <!ENTITY backButton1.label "Siar">
-<!ENTITY goForwardButton1.label "Forward">
+<!ENTITY goForwardButton1.label "Ar Aghaidh">
 <!ENTITY deleteButton.label "Scrios">
 <!ENTITY undeleteButton.label "Díscrios">
 <!ENTITY markButton.label "Marcáil">
@@ -492,7 +492,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.label "Stad">
 <!ENTITY throbberItem.title "Táscaire Gníomhaíochta">
 <!ENTITY junkButton.label "Dramhphost">
-<!ENTITY notJunkButton.label "Not Junk">
+<!ENTITY notJunkButton.label "Post Ceart">
 <!ENTITY addressBookButton.label "Leabhar Seoltaí">
 <!ENTITY glodaSearch.title "Cuardach Cuimsitheach">
 <!ENTITY searchItem.title "Mearchuardach">
@@ -514,8 +514,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardButton.tooltip "Cuir an teachtaireacht roghnaithe ar aghaidh">
 <!ENTITY fileButton.tooltip "Bog an teachtaireacht roghnaithe go fillteán">
 <!ENTITY archiveButton.tooltip "Cuir na teachtaireachtaí roghnaithe sa chartlann">
-<!ENTITY nextButton.tooltip "Téigh go dtí an chéad teachtaireacht eile neamhléite">
-<!ENTITY previousButton.tooltip "Téigh go dtí an teachtaireacht neamhléite roimhe seo">
+<!ENTITY nextButton.tooltip "Téigh go dtí an chéad teachtaireacht eile gan léamh">
+<!ENTITY previousButton.tooltip "Téigh go dtí an teachtaireacht gan léamh roimhe seo">
 <!ENTITY goForwardButton.tooltip "An chéad teachtaireacht eile">
 <!ENTITY goBackButton.tooltip "An teachtaireacht roimhe seo">
 <!ENTITY deleteButton.tooltip "Scrios an teachtaireacht nó fillteán roghnaithe">
@@ -552,20 +552,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextRemove.accesskey "S">
 <!ENTITY folderContextCompact.label "Dlúthaigh">
 <!ENTITY folderContextCompact.accesskey "D">
-<!ENTITY folderContextEmptyTrash.label "Empty Trash">
-<!ENTITY folderContextEmptyTrash.accesskey "y">
+<!ENTITY folderContextEmptyTrash.label "Folmhaigh an Bruscar">
+<!ENTITY folderContextEmptyTrash.accesskey "F">
 <!ENTITY folderContextEmptyJunk.label "Glan Dramhphost">
 <!ENTITY folderContextEmptyJunk.accesskey "G">
-<!ENTITY folderContextSendUnsentMessages.label "Send Unsent Messages">
-<!ENTITY folderContextSendUnsentMessages.accesskey "d">
+<!ENTITY folderContextSendUnsentMessages.label "Seol na teachtaireachtaí gan seoladh">
+<!ENTITY folderContextSendUnsentMessages.accesskey "l">
 <!ENTITY folderContextUnsubscribe.label "Díliostáil">
 <!ENTITY folderContextUnsubscribe.accesskey "D">
 <!ENTITY folderContextMarkNewsgroupRead.label "Marcáil an Grúpa Nuachta mar Léite">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "c">
 <!ENTITY folderContextMarkMailFolderRead.label "Marcáil an Fillteán mar Léite">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "c">
-<!ENTITY folderContextSubscribe.label "Subscribe…">
-<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSubscribe.label "Liostáil…">
+<!ENTITY folderContextSubscribe.accesskey "L">
 <!ENTITY folderContextSearchMessages.label "Cuardach…">
 <!ENTITY folderContextSearchMessages.accesskey "C">
 <!ENTITY folderContextProperties.label "Airíonna…">
@@ -603,7 +603,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.label "Stádas">
 <!ENTITY sizeColumn.label "Méid">
 <!ENTITY junkStatusColumn.label "Stádas Dramhphoist">
-<!ENTITY unreadColumn.label "Neamhléite">
+<!ENTITY unreadColumn.label "Gan Léamh">
 <!ENTITY totalColumn.label "Iomlán">
 <!ENTITY readColumn.label "Léite">
 <!ENTITY receivedColumn.label "Faighte">
@@ -625,7 +625,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.tooltip "Cliceáil chun sórtáil de réir stádais">
 <!ENTITY sizeColumn.tooltip "Cliceáil chun sórtáil de réir méide">
 <!ENTITY junkStatusColumn.tooltip "Cliceáil chun sórtáil de réir stádais dramhphoist">
-<!ENTITY unreadColumn.tooltip "Teachtaireachtaí neamhléite sa snáithe">
+<!ENTITY unreadColumn.tooltip "Teachtaireachtaí gan léamh sa snáithe">
 <!ENTITY totalColumn.tooltip "Iomlán na dTeachtaireachtaí sa snáithe">
 <!ENTITY readColumn.tooltip "Cliceáil chun sórtáil de réir stádais léite">
 <!ENTITY receivedColumn.tooltip "Cliceáil chun sórtáil de réir dáta fála">
@@ -645,37 +645,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Cuir sa chartlann">
 <!ENTITY contextArchive.accesskey "h">
-<!ENTITY contextReplySender.label "Reply to Sender Only">
-<!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Reply to Newsgroup">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplySender.label "Freagair an Seoltóir Amháin">
+<!ENTITY contextReplySender.accesskey "r">
+<!ENTITY contextReplyNewsgroup.label "Freagair an Grúpa Nuachta">
+<!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Freagair Cách">
 <!ENTITY contextReplyAll.accesskey "r">
-<!ENTITY contextReplyList.label "Reply to List">
+<!ENTITY contextReplyList.label "Freagra chuig an Liosta">
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Cuir Ar Aghaidh">
 <!ENTITY contextForward.accesskey "C">
-<!ENTITY contextForwardAsAttachment.label "Cuir ar Aghaidh mar Iatáin">
-<!ENTITY contextForwardAsAttachment.accesskey "u">
-<!ENTITY contextMoveMsgMenu.label "Move To">
-<!ENTITY contextMoveMsgMenu.accesskey "M">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY contextCopyMsgMenu.label "Copy To">
+<!ENTITY contextForwardAsAttachment.label "Seol ar Aghaidh mar Iatáin">
+<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextMoveMsgMenu.label "Bog Go">
+<!ENTITY contextMoveMsgMenu.accesskey "B">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Le Déanaí">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "L">
+<!ENTITY contextCopyMsgMenu.label "Cóipeáil Go">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextSaveAs.label "Sábháil Mar…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Priontáil…">
 <!ENTITY contextPrint.accesskey "P">
-<!ENTITY contextPrintPreview.label "Print Preview">
-<!ENTITY contextPrintPreview.accesskey "v">
+<!ENTITY contextPrintPreview.label "Réamhamharc Priontála">
+<!ENTITY contextPrintPreview.accesskey "R">
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
    This option in the thread pane column picker causes us to reset the
    customizations for the thread pane columns in this folder to their default.
   -->
 
-<!ENTITY columnPicker.resetToInbox.label "Reset columns to default">
+<!ENTITY columnPicker.resetToInbox.label "Fill ar cholúin réamhshocraithe">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and
@@ -684,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    folder(s).  The sub-menu items indicate whether we want to apply it to just
    a folder or also its children.
   -->
-<!ENTITY columnPicker.applyTo.label "Apply columns to…">
+<!ENTITY columnPicker.applyTo.label "Cuir colúin i bhfeidhm ar…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -702,7 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    of its descendents.  The user selects the folder using the same widget as the
    move to/copy to mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolderAndChildren.label "Folder and its children…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Fillteán agus fofhillteáin…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
    This is used in the folder selection widget for the
    "columnPicker.applyToFolder.label" and
@@ -729,7 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Junk Bar -->
 
 <!ENTITY junkBarMessage1.label "Dramhphost">
-<!ENTITY junkBarButton1.label "Not Junk">
+<!ENTITY junkBarButton1.label "Post Ceart">
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
 
@@ -761,7 +761,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Search all messages… #1">
+<!ENTITY searchAllMessages.label.base "Cuardaigh gach teachtaireacht… #1">
 <!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in

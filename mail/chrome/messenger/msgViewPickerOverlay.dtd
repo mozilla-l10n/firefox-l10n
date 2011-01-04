@@ -4,8 +4,8 @@
 <!ENTITY viewPicker.accesskey "m">
 <!ENTITY viewAll.label "Uile">
 <!ENTITY viewAll.accesskey "U">
-<!ENTITY viewUnread.label "Neamhléite">
-<!ENTITY viewUnread.accesskey "N">
+<!ENTITY viewUnread.label "Gan Léamh">
+<!ENTITY viewUnread.accesskey "G">
 <!ENTITY viewNotDeleted.label "Gan Scriosadh">
 <!ENTITY viewNotDeleted.accesskey "S">
 <!ENTITY viewTags.label "Clibeanna">

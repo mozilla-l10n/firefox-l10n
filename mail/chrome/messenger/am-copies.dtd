@@ -7,32 +7,32 @@
 <!ENTITY fccReplyFollowsParent.label "Cuir freagraí i bhfillteán na teachtaireachta atá á freagairt">
 <!ENTITY fccReplyFollowsParent.accesskey "C">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc these email addresses:">
-<!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY ccAddress.label "Seol cóip chuig na seoltaí ríomhphoist seo:">
+<!ENTITY ccAddress.accesskey "c">
+<!ENTITY ccAddressList.placeholder "Seoltaí scartha ag camóga">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc these email addresses:">
+<!ENTITY bccAddress.label "Bcc na seoltaí ríomhphoist seo:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY bccAddressList.placeholder "Seoltaí scartha ag camóga">
 <!ENTITY saveMessageDlg.label "Taispeáin dialóg dhearbhaithe agus teachtaireachtaí á sábháil">
 <!ENTITY saveMessageDlg.accesskey "T">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "&quot;Sent&quot; Folder on:">
+<!ENTITY sentFolderOn.label "Fillteán &quot;Seolta&quot; ar:">
 <!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "Eile:">
 <!ENTITY sentInOtherFolder.accesskey "E">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "&quot;Drafts&quot; Folder on:">
+<!ENTITY draftsFolderOn.label "Fillteán &quot;Dréachtaí&quot; ar:">
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Eile:">
 <!ENTITY draftInOtherFolder.accesskey "E">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
-<!ENTITY archivesFolderOn.accesskey "n">
+<!ENTITY archivesFolderOn.label "Fillteán &quot;Cartlanna&quot; ar:">
+<!ENTITY archivesFolderOn.accesskey "r">
 <!ENTITY archiveInOtherFolder.label "Eile:">
 <!ENTITY archiveInOtherFolder.accesskey "E">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Templates&quot; Folder on:">
+<!ENTITY templatesFolderOn.label "Fillteán &quot;Teimpléid&quot; ar:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Eile:">
 <!ENTITY templateInOtherFolder.accesskey "E">

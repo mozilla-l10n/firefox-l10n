@@ -9,15 +9,15 @@
 <!ENTITY editDirectories.label "Cuir Eolairí in Eagar…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label "Use a different LDAP server:">
-<!ENTITY directories.accesskey "d">
+<!ENTITY directories.label "Úsáid freastalaí LDAP eile:">
+<!ENTITY directories.accesskey "D">
 <!ENTITY directoriesNone.label "Gan sonrú">
 <!-- am-addressing.xul -->
 
 
 <!ENTITY compositionGroupTitle.label "Cumadh">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label "Compose messages in HTML format">
+<!ENTITY useHtml.label "Cum teachtaireachtaí i bhformáid HTML">
 <!ENTITY useHtml.accesskey "C">
 <!ENTITY autoQuote.label "Cuir isteach an teachtaireacht bhunaidh go huathoibríoch agus freagra á chumadh">
 <!ENTITY autoQuote.accesskey "m">
