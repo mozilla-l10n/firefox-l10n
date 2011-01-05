@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label "Titel">
 <!ENTITY processing.label "Importerer…">
-
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x har en mailadresse for hvert kort, mens &brandShortName; har to (hjemme og arbejde).">
-<!ENTITY FieldDiscInputText2.label "Vælg den kategori, hvori du ønsker at gemme de importerede mailadresser:">
-<!ENTITY FieldDiscWarning.label "Denne kategori vil blive benyttet til alle poster i den vagle adressebog:">
-<!ENTITY importHome.label        "Hjemme">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "Arbejde">
-<!ENTITY importWork.accesskey    "r">
