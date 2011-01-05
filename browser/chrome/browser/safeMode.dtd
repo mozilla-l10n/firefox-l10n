@@ -57,3 +57,6 @@
 
 <!ENTITY changeAndRestartButton.label "Өзгерістерді қабылдап, бағдарламаны қайта қосу">
 <!ENTITY continueButton.label         "Қауіпсіз режимінде жалғастыру">
+
+<!ENTITY deleteBookmarks.label        "Қор көшірмеден басқа барлық бетбелгілерді өшіру">
+<!ENTITY deleteBookmarks.accesskey    "о">

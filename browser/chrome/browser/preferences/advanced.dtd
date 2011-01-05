@@ -19,9 +19,11 @@
 <!ENTITY useSmoothScrolling.accesskey    "й">
 <!ENTITY checkSpelling.label             "Мәтін терілген кезде орфографияны тексеру">
 <!ENTITY checkSpelling.accesskey         "о">
+<!ENTITY submitCrashes.label             "Құлау жөнінде хабарламаларды жіберу">
+<!ENTITY submitCrashes.accesskey         "л">
 
 <!ENTITY systemDefaults.label            "Жүйедегі негізгі браузер">
-<!ENTITY alwaysCheckDefault.label        "Әр қосылған кезде &brandShortName; жүйедегі негізгі браузер екенін тексеру"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Әр қосылған кезде &brandShortName; жүйедегі негізгі браузер екенін тексеру">
 <!ENTITY alwaysCheckDefault.accesskey    "н">
 <!ENTITY checkNow.label                  "Қазір тексеру">
 <!ENTITY checkNow.accesskey              "з">
@@ -45,10 +47,11 @@
 <!ENTITY overrideSmartCacheSize.accesskey "м">
 
 <!ENTITY updateTab.label                 "Жаңартулар">
-
 <!ENTITY autoCheck.label                 "Келесілер үшін жаңартулар бар-жоғын автоматты түрде тексеру:">
 <!ENTITY enableAppUpdate.label           "&brandShortName; браузері үшін">
 <!ENTITY enableAppUpdate.accesskey       "б">
+<!ENTITY enableAddonsUpdate2.label       "Кеңейтулер үшін">
+<!ENTITY enableAddonsUpdate2.accesskey   "т">
 <!ENTITY enableSearchUpdate.label        "Іздеу плагиндері үшін">
 <!ENTITY enableSearchUpdate.accesskey    "п">
 <!ENTITY whenUpdatesFound.label          "&brandShortName; үшін жаңартулар табылған кезде:">

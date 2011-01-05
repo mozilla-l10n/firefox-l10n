@@ -19,7 +19,21 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Плагиндер туралы көбірек білу немесе жоқ плагиндерді қолмен іздеу.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Плагин(дер) жұмыс істеу үшін, &brandShortName; қайта қосыңыз.">
-  
+
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Бұл парақты қайталап көру үшін">
+<!ENTITY reloadPlugin.post                                   " жаңартыңыз.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Құлау жөнінде хабарламаны жіберу">
+<!ENTITY report.submitting                                   "Хабарлауды жіберу…">
+<!ENTITY report.submitted                                    "құлау жөнінде хабарлау жіберілді.">
+<!ENTITY report.disabled                                     "Құлау жөнінде хабарлау сөндірілген.">
+<!ENTITY report.failed                                       "Жіберу сәтсіз.">
+<!ENTITY report.unavailable                                  "Қолжетерлік хабарлаулар жоқ.">
+
 <!ENTITY missingPlugin.label                                 "Плагинді жүктеп алу үшін, осында басыңыз.">
 <!ENTITY disabledPlugin.label                                "Бұл құрамның плагині өшірілген. Плагиндерді реттеу үшін осында басыңыз.">
 <!ENTITY blockedPlugin.label                                 "Плагин сіздің қауіпсіздігіңіз мақсатында өшірілген.">

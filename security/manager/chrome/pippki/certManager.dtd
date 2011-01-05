@@ -111,8 +111,12 @@
 <!ENTITY certmgr.add.accesskey                "о">
 <!ENTITY certmgr.export.label                 "Экспорттау...">
 <!ENTITY certmgr.export.accesskey             "п">
+<!ENTITY certmgr.edit3.label                  "Сенімді түзету…">
+<!ENTITY certmgr.edit3.accesskey              "е">
 <!ENTITY certmgr.delete2.label                "Өшіру…">
 <!ENTITY certmgr.delete2.accesskey            "ш">
+<!ENTITY certmgr.delete_builtin.label         "Өшіру не сенбеу…">
+<!ENTITY certmgr.delete_builtin.accesskey     "ш">
 <!ENTITY certmgr.backup2.label                "Көшірмесін сақтау...">
 <!ENTITY certmgr.backup2.accesskey            "м">
 <!ENTITY certmgr.backupall2.label             "Барлығының көшірмелерін сақтау...">

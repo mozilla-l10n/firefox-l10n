@@ -41,6 +41,8 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "Барлық беттерді тізіп шығу">
 
+<!ENTITY menubarCmd.label "Мәзір жолағы">
+<!ENTITY menubarCmd.accesskey "М">
 <!ENTITY tabCmd.label "Жаңа бет">
 <!ENTITY tabCmd.accesskey "б">
 <!ENTITY tabCmd.commandkey "t">
@@ -63,6 +65,9 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.label "Дербес жұмыс істеу">
 <!ENTITY goOfflineCmd.accesskey "Д">
 
+<!ENTITY showAllTabsCmd.label "Барлық беттерді көрсету">
+<!ENTITY showAllTabsCmd.accesskey "а">
+
 <!ENTITY navbarCmd.label "Навигация панелі">
 <!ENTITY navbarCmd.accesskey "Н">
 <!ENTITY personalbarCmd.label "Бетбелгілер панелі">
@@ -77,9 +82,13 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Парақ туралы ақпарат">
 <!ENTITY pageInfoCmd.accesskey "а">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Толық экран режимі">
-<!ENTITY fullScreenCmd.accesskey "Т">
 
+<!ENTITY allTabs.filter.emptyText "Беттерден іздеу">
+
+<!ENTITY fullScreenCmd.label "Толық экран режимі">
+<!ENTITY fullScreenButton.tooltip "Терезені толық экранға көрсету">
+<!ENTITY fullScreenCmd.accesskey "Т">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY fullScreenMinimize.tooltip "Бүктеу">
 <!ENTITY fullScreenRestore.tooltip "Қалпына келтіру">
 <!ENTITY fullScreenClose.tooltip "Жабу">
@@ -87,12 +96,15 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "С">
 <!ENTITY fullScreenExit.label "Толық экран режимінен шығу">
 <!ENTITY fullScreenExit.accesskey "Т">
-
 <!ENTITY closeWindow.label "Терезені жабу">
 <!ENTITY closeWindow.accesskey "б">
 
 <!ENTITY bookmarksMenu.label "Бетбелгілер">
-<!ENTITY bookmarksMenu.accesskey "б">
+<!ENTITY bookmarksMenu.accesskey "Б">
+<!ENTITY bookmarksButton.accesskey  "Б">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY bookmarkThisPageCmd.label "Парақты бетбелгілерге қосу">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Жаналық таспасына жазылу">
@@ -328,6 +340,8 @@ can reach it easily. -->
 <!ENTITY viewFrameSourceCmd.accesskey "у">
 <!ENTITY viewPageInfoCmd.label        "Парақ туралы ақпарат">
 <!ENTITY viewPageInfoCmd.accesskey    "П">
+<!ENTITY viewImageInfoCmd.label       "Сурет ақпаратын қарау">
+<!ENTITY viewImageInfoCmd.accesskey   "С">
 <!ENTITY viewFrameInfoCmd.label       "Фрейм туралы ақпарат">
 <!ENTITY viewFrameInfoCmd.accesskey   "Ф">
 <!ENTITY reloadImageCmd.label         "Суретті қайта жүктеу">
