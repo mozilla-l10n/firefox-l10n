@@ -38,7 +38,7 @@
 <!ENTITY advancedJSDialog.title "Napredne nastavitve JavaScript">
 <!ENTITY window.width "39em">
 
-<!ENTITY allowScripts.label "Dovoli skriptam, da:">
+<!ENTITY allowScripts.label "Dovoli, da skripta:">
 
 <!ENTITY moveResizeWindows.label "premikajo ali večajo oz. manjšajo okna">
 <!ENTITY moveResizeWindows.accesskey "P">
