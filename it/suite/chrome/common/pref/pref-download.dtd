@@ -17,7 +17,7 @@
 <!ENTITY alwaysAsk.accesskey "h">
 <!ENTITY downloadHistory.label "Cronologia dei download">
 <!ENTITY removeEntries.label "Rimuovi i download fatti">
-<!ENTITY removeEntries.accesskey "R">
+<!ENTITY removeEntries.accesskey "w">
 <!ENTITY whenCompleted.label "Quando sono terminati">
 <!ENTITY whenQuittingApp.label "Alla chiusura di &brandShortName;">
 <!ENTITY neverRemove.label "Mai">
