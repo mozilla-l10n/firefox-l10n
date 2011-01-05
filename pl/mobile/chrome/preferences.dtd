@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "O programie &brandShortName;">
 <!ENTITY about.button                              "Przejdź do strony">
 <!ENTITY content.title                             "Treść">
+<!ENTITY reflowZoom.title                          "Formatuj powiększony tekst">
 <!ENTITY showImages.title                          "Wyświetlaj obrazki">
 <!ENTITY enableJavaScript.title                    "Włącz JavaScript">
 <!ENTITY enablePlugins.title                       "Włącz wtyczki">
