@@ -103,8 +103,8 @@
 
 <!ENTITY certmgr.close.label "Zapri">
 <!ENTITY certmgr.close.accesskey "Z">
-<!ENTITY certmgr.view2.label "Pogled…">
-<!ENTITY certmgr.view2.accesskey "P">
+<!ENTITY certmgr.view2.label "Ogled…">
+<!ENTITY certmgr.view2.accesskey "O">
 <!ENTITY certmgr.edit3.label                  "Uredi zaupanje…">
 <!ENTITY certmgr.edit3.accesskey              "e">
 <!ENTITY certmgr.editca.label "Spremeni zaupanje overitelja">
@@ -141,7 +141,7 @@
 <!ENTITY exceptionMgr.certlocation.download "Dobi digitalno potrdilo">
 <!ENTITY exceptionMgr.certlocation.accesskey "G">
 <!ENTITY exceptionMgr.certstatus.caption "Stanje digitalnega potrdila">
-<!ENTITY exceptionMgr.certstatus.viewCert "Pogled…">
-<!ENTITY exceptionMgr.certstatus.accesskey "V">
+<!ENTITY exceptionMgr.certstatus.viewCert "Ogled…">
+<!ENTITY exceptionMgr.certstatus.accesskey "O">
 <!ENTITY exceptionMgr.permanent.label "Trajno shrani izjemo">
 <!ENTITY exceptionMgr.permanent.accesskey "T">
