@@ -5,7 +5,8 @@
 <!ENTITY organize.label        "Басқару">
 <!ENTITY organize.accesskey    "с">
 <!ENTITY organize.tooltip      "Бетбелгілеріңізді басқару">
-
+<!ENTITY find.label               "Іздеу:">
+<!ENTITY find.accesskey           "з">
 <!ENTITY file.accesskey                 "Ф">
 <!ENTITY file.close.label               "Жабу">
 <!ENTITY file.close.accesskey           "Ж">
@@ -24,11 +25,16 @@
 <!ENTITY view.sortAscending.label       "Алфавит бойынша сұрыптау">
 <!ENTITY view.sortAscending.accesskey   "б">
 <!ENTITY view.sortDescending.label      "Алфавит бойынша кері сұрыптау">
+<!ENTITY view.sortDescending.accesskey  "т">
+<!ENTITY view.label               "Қарау">
+<!ENTITY view.accesskey           "р">
 
 <!ENTITY cmd.findInBookmarks.label      "Бетбелгілер ішінен іздеу…">
 <!ENTITY cmd.findInBookmarks.accesskey  "н">
 <!ENTITY cmd.findCurrent.label          "Ағымдағы топтама ішінен іздеу…">
 <!ENTITY cmd.findCurrent.accesskey      "з">
+<!ENTITY cmd.bookmarkLink.label         "Бұл парақты бетбелгілерге қосу…">
+<!ENTITY cmd.bookmarkLink.accesskey     "п">
 
 <!ENTITY cmd.exportHTML.label           "HTML ретінде экспорттау…">
 <!ENTITY cmd.exportHTML.accesskey       "э">
@@ -121,3 +127,13 @@
 <!ENTITY detailsPane.less.accesskey "з">
 <!ENTITY detailsPane.noPreviewAvailable.label "Алдын-ала қарау">
 <!ENTITY detailsPane.selectAnItemText.description "Қарап шығу мен қасиеттерін түзету үшін элементті таңдаңыз">
+<!ENTITY byDate.label             "Күні бойынша">
+<!ENTITY byDate.accesskey         "н">
+<!ENTITY bySite.label             "Сайт бойынша">
+<!ENTITY bySite.accesskey         "й">
+<!ENTITY byMostVisited.label      "Көбірек қаралғаны бойынша">
+<!ENTITY byMostVisited.accesskey  "е">
+<!ENTITY byLastVisited.label      "Соңғы қаралғаны бойынша">
+<!ENTITY byLastVisited.accesskey  "о">
+<!ENTITY byDayAndSite.label       "Күн мен сайт бойынша">
+<!ENTITY byDayAndSite.accesskey   "м">

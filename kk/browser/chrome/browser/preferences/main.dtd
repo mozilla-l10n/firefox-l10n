@@ -1,5 +1,7 @@
 <!ENTITY startup.label             "Қосылу">
 
+<!ENTITY homepage.label            "Үй парағы:">
+<!ENTITY homepage.accesskey        "й">
 <!ENTITY startupPage.label         "&brandShortName; қосылу кезінде:">
 <!ENTITY startupPage.accesskey     "ы">
 <!ENTITY startupHomePage.label     "Менің үй парағымды көрсету">

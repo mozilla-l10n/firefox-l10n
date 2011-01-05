@@ -5,7 +5,16 @@
 <!ENTITY windowMenu.label         "Терезе">
 
 <!ENTITY helpMenu.label           "Көмек"> 
-<!ENTITY helpMenu.accesskey       "К"> 
+<!ENTITY helpMenu.accesskey       "К">
+<!ENTITY aboutProduct.label       "&brandShortName; туралы">
+<!ENTITY aboutProduct.accesskey   "а">
+<!ENTITY productHelp.label        "&brandShortName; көмегі">
+<!ENTITY productHelp.accesskey    "к">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Сөндірілген кеңейтулермен қайта қосу…">
+<!ENTITY helpSafeMode.accesskey   "р">
+<!ENTITY helpFeedbackPage.label      "Кері байланыс хабарламасын жіберу…">
+<!ENTITY helpFeedbackPage.accesskey  "е">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Көмек"> 

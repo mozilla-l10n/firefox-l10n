@@ -83,3 +83,6 @@
 <!ENTITY  update.details.label            "Көбірек білу">
 <!ENTITY  update.installedOn.label        "Орнатылған:">
 <!ENTITY  update.status.label             "Күйі:">
+<!ENTITY  pluginupdatesfound.title        "Плагиндер үшін жаңартулар табылды">
+<!ENTITY  pluginupdatesfound.label        "Сіздегі бір не бірнеше плагиндер үшін жаңарту табылды.">
+<!ENTITY  pluginupdateslink.label         "Кеңейтулерді жаңарту туралы біліңіз.">
