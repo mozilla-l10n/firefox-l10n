@@ -13,7 +13,7 @@
 <!ENTITY weekly.label "settimanalmente">
 <!ENTITY appWeekly.accesskey "e">
 <!ENTITY extensionsUpdates.label "Componenti aggiuntivi installati">
-<!ENTITY extensionsUpdates.accesskey "C">
+<!ENTITY extensionsUpdates.accesskey "a">
 <!ENTITY extensionsDaily.accesskey "o">
 <!ENTITY extensionsWeekly.accesskey "t">
 <!ENTITY addonManagerButton.label "Gestione componenti">

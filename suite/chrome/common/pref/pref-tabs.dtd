@@ -7,7 +7,7 @@
 <!ENTITY warnOnClose.label "Avvisa alla chiusura di una finestra con più schede">
 <!ENTITY warnOnClose.accesskey "s">
 <!ENTITY relatedAfterCurrent.label "Apri le schede simili dopo quella corrente">
-<!ENTITY relatedAfterCurrent.accesskey "A">
+<!ENTITY relatedAfterCurrent.accesskey "d">
 <!ENTITY loadGroup.label "All'apertura di un gruppo di segnalibri">
 <!ENTITY loadGroupAppend.label "Aggiungi le schede">
 <!ENTITY loadGroupAppend.accesskey "A">
