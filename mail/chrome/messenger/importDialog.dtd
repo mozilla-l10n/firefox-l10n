@@ -25,10 +25,3 @@
 <!ENTITY select.label "или выберите то, что хотите импортировать:">
 <!ENTITY title.label "Заголовок">
 <!ENTITY processing.label "Идёт импорт…">
-<!ENTITY FieldDiscInputText1.label "В Netscape Communicator 4.x для каждой карточки можно задать только один адрес электронной почты, а в &brandShortName; — два (домашний и рабочий).">
-<!ENTITY FieldDiscInputText2.label "Выберите категорию в которой вы хотите хранить импортированные адреса электронной почты:">
-<!ENTITY FieldDiscWarning.label "Эта категория будет использоваться для всех адресов выбранной адресной книги: ">
-<!ENTITY importHome.label "Домашний">
-<!ENTITY importHome.accesskey "м">
-<!ENTITY importWork.label "Рабочий">
-<!ENTITY importWork.accesskey "б">
