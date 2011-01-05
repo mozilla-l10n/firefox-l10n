@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Moj sinhronizacijski ključ">
 <!ENTITY resetSync.label              "Ponastavi sinhronizacijo">
 <!ENTITY stopUsingAccount.label       "Prenehaj uporabljati ta račun">
+<!ENTITY addDevice.label              "Dodaj napravo">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Sinhronizacija brskalnika">

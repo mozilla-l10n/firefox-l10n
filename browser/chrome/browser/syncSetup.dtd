@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Pozdravljeni! Če še niste uporabljali storitve &syncBrand.fullName.label;, najprej ustvarite račun.">
 <!ENTITY button.createNewAccount.label "Ustvari nov račun">
-<!ENTITY button.haveAccount.label "Imam račun storitve &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Imam račun storitve &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label    "Poveži">
 
 <!ENTITY setup.choicePage.title.label     "Ali ste že kdaj prej uporabljali storitev &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Nikoli prej nisem uporabljal storitve &syncBrand.shortName.label;">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Strežnik">
 <!ENTITY serverType.main.label      "Strežnik stortive &syncBrand.fullName.label;:">
-<!ENTITY serverType.custom.label    "Uporabi strežnik po meri">
-<!ENTITY signIn.account.label       "E-pošta / Uporabniško ime">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "Uporabi strežnik po meri…">
+<!ENTITY signIn.account2.label      "Račun">
+<!ENTITY signIn.account2.accesskey  "R">
 <!ENTITY signIn.password.label      "Geslo">
 <!ENTITY signIn.password.accesskey  "G">
-<!ENTITY signIn.serverURL.label     "URL strežnika">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY signIn.syncKey.label       "Sinhronizacijski ključ">
+<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Podrobnosti računa">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Potrdite, da niste robot">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Dodaj napravo">
+<!ENTITY addDevice.showMeHow.label          "Prikaži, kako.">
+<!ENTITY addDevice.dontHaveDevice.label     "Naprave nimam pri sebi">
+<!ENTITY addDevice.setup.description.label  "Za vklop v nastavitvah storitve &syncBrand.shortName.label; vaše druge naprave izberite &#x0022;Dodaj napravo&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Nato vnesite to kodo:">
+<!ENTITY addDevice.dialog.description.label "Za vklop vaše nove naprave v njenih nastavitvah storitve &syncBrand.shortName.label; izberite &#x0022;Poveži.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Vnesite kodo, ki jo ponuja naprava:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Poskusite ponovno.">
+<!ENTITY addDevice.dialog.successful.label  "Naprava je bila dodana uspešno. Začetna sinhronizacija lahko traja nekaj minut in se bo končala v ozadju.">
+<!ENTITY addDevice.dialog.syncKey.label     "Za vklop vaše naprave boste morali vnesti svoj sinhronizacijski ključ. Natisnite ga ali shranite in ga imejte pri sebi.">
+<!ENTITY addDevice.dialog.connected.label   "Naprava je povezana">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Vnesite podatke o računu">
-<!ENTITY resetPassword.label          "Ponastavi geslo">
-<!ENTITY connecting.label             "Povezovanje…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Vnesite vaš sinhronizacijski ključ">
-<!ENTITY setup.existingSyncKeyPage.description "Sinhronizacijski ključ je bil ustvarjen ali ste si ga izbrali sami, ko ste prvič nastavljali storitev &syncBrand.fullName.label;. Ni enak vašemu geslu.">
-<!ENTITY existingSyncKeyHelp.description "Sinhronizacijski ključ lahko najdete v nastavitvah vaše druge naprave med shranjenimi gesli v zavihku Varnost. Če ga tudi tam ni, ga lahko ponastavite, a boste izgubili vsepodatke na strežniku.">
-<!ENTITY lostSyncKey.label            "Izgubil sem sinhronizacijski ključ">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Prijava">
+<!ENTITY existingSyncKey.description "Kopijo sinhronizacijskega ključa lahko najdete v nastavitvah storitve &syncBrand.shortName.label; vaše druge naprave. Izberite &#x0022;Upravljanje računa&#x0022; in nato &#x0022;Moj sinhronizacijski ključ&#x0022;.">
 <!ENTITY verifying.label              "Preverjanje…">
+<!ENTITY resetPassword.label          "Ponastavi geslo">
+<!ENTITY lostSyncKey.label            "Izgubil sem sinhronizacijski ključ">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Možnosti sinhronizacije">
