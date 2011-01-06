@@ -71,7 +71,7 @@
 <!ENTITY certmgr.certdetail.md5fingerprint "Prstni odtis MD5">
 
 <!ENTITY certmgr.editcert.title "Urejanje nastavitev digitalnih potrdil">
-<!ENTITY certmgr.editcacert.title "Urejanje nastavitev zaupanja overiteljem (CA)">
+<!ENTITY certmgr.editcacert.title "Urejanje nastavitev zaupanja overiteljem">
 <!ENTITY certmgr.editsslcert.title "Urejanje nastavitev zaupanja spletnim stranem">
 <!ENTITY certmgr.editcert.edittrust "Spremeni nastavitve zaupanja:">
 <!ENTITY certmgr.editcert.trustssl "To digitalno potrdilo lahko predstavlja spletne strani.">
