@@ -95,10 +95,10 @@
 <!ENTITY certPicker.detailsLabel "Podrobnosti o izbranem digitalnem potrdilu:">
 
 <!ENTITY pkcs12.setpassword.title "Izbira gesla za varnostne kopije digitalnih potrdil">
-<!ENTITY pkcs12.setpassword.message "Geslo za varnostne kopije digitalnega potrdila, ki se ga tukaj nastavlja, ščiti varnostno kopijo, ki bo vsak čas narejena. To geslo morate nastaviti, če želite varnostno kopijo digitalnega potrdila.">
-<!ENTITY pkcs12.setpassword.label1 "Geslo za varnostne kopije digitalnih potrdil:">
-<!ENTITY pkcs12.setpassword.label2 "Geslo za varnostne kopije digitalnih potrdil (ponovno):">
-<!ENTITY pkcs12.setpassword.reminder "Pomembno: Če pozabite geslo za varnostno kopijo digitalnega potrdila, tega digitalnega potrdila pozneje ne boste mogli obnoviti. Prosim, shranite geslo na varnem mestu.">
+<!ENTITY pkcs12.setpassword.message "Tukaj nastavite geslo za zaščito datoteke z varnostno kopijo digitalnega potrdila, ki jo pravkar ustvarjate. Preden nadaljujete, morate nastaviti geslo.">
+<!ENTITY pkcs12.setpassword.label1 "Geslo varnostne kopije digitalnega potrdila:">
+<!ENTITY pkcs12.setpassword.label2 "Geslo varnostne kopije digitalnega potrdila (ponovno):">
+<!ENTITY pkcs12.setpassword.reminder "Pomembno: Če pozabite geslo varnostne kopije digitalnega potrdila, je pozneje ne boste mogli obnoviti. Geslo shranite na varnem mestu.">
 
 <!ENTITY pkcs12.getpassword.title "Pogovorno okno vnosa gesla">
 <!ENTITY pkcs12.getpassword.message "Prosim, uporabite geslo, ki je bilo uporabljeno za šifriranje te varnostne kopije digitalnega potrdila.">
