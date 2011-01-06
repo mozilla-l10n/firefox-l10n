@@ -58,12 +58,12 @@
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label "Poteka preverjanje digitalnih potrdil…">
-<!ENTITY certmgr.subjectinfo.label "Izdano za:">
-<!ENTITY certmgr.issuerinfo.label "Izdajatelj:">
+<!ENTITY certmgr.subjectinfo.label "Izdano za">
+<!ENTITY certmgr.issuerinfo.label "Izdajatelj">
 <!ENTITY certmgr.validity.label "Veljavnost">
 <!ENTITY certmgr.fingerprints.label "Prstni odtisi">
 <!ENTITY certmgr.certdetail.title "Podrobnosti digitalnega potrdila">
-<!ENTITY certmgr.certdetail.cn "Splošno ime (CN):">
+<!ENTITY certmgr.certdetail.cn "Splošno ime (CN)">
 <!ENTITY certmgr.certdetail.o "Organizacija (O)">
 <!ENTITY certmgr.certdetail.ou "Organizacijska enota (OU)">
 <!ENTITY certmgr.certdetail.serialnumber "Serijska številka">
