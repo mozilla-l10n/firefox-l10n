@@ -2,6 +2,7 @@
 <!ENTITY about.title "&brandShortName; hakkında">
 <!ENTITY about.button "Sayfaya git">
 <!ENTITY content.title "İçerik">
+<!ENTITY reflowZoom.title "Reformat text on zoom">
 <!ENTITY showImages.title "Resimleri göster">
 <!ENTITY enableJavaScript.title "JavaScript'i etkinleştir">
 <!ENTITY enablePlugins.title "Yan uygulamaları etkinleştir">

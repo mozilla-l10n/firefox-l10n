@@ -108,6 +108,8 @@
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY goHomeCmd.label "Başlangıç">
 <!ENTITY goHomeCmd.accesskey "B">
+<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.accesskey "R">
 
 <!ENTITY bookmarksMenu.label "Yer imleri">
 <!ENTITY bookmarksMenu.accesskey "e">

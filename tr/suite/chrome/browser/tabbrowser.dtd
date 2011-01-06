@@ -13,5 +13,6 @@
 <!ENTITY bookmarkGroup.accesskey "g">
 <!ENTITY closeTabButton.tooltip "Sekmeyi kapat">
 <!ENTITY newTabButton.tooltip "Yeni sekme aç">
+<!ENTITY listAllTabs.tooltip "Tüm sekmeleri diz">
 <!ENTITY undoCloseTab.label "Kapatılan sekmeyi aç">
 <!ENTITY undoCloseTab.accesskey "K">
