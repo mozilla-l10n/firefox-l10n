@@ -69,27 +69,27 @@
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Prenos digitalnega potrdila">
-<!ENTITY downloadCert.message1 "Uradna oseba za digitalna potrdila (CA) vas sprašuje za zaupanje.">
-<!ENTITY downloadCert.trustSSL "Zaupaj tej uradni osebi za digitalna potrdila (CA) za identifikacijo spletnih strani.">
-<!ENTITY downloadCert.trustEmail "Zaupaj tej uradni osebi za digitalna potrdila (CA) za identifikacijo e-poštnih uporabnikov.">
-<!ENTITY downloadCert.trustObjSign "Zaupaj tej uradni osebi za digitalna potrdila (CA) za identifikacjo razvijalcev programja.">
-<!ENTITY downloadCert.message3 "Preden zaupate tej uradni osebi za digitalna potrdila (CA) za kakršenkoli namen, bi bilo priporočljivo, da pregledate njeno digitalno potrdilo in splošne procedure in standardne plane (če so na voljo).">
-<!ENTITY downloadCert.viewCert.label "Pogled">
-<!ENTITY downloadCert.viewPolicy.label "Standardni plan">
-<!ENTITY downloadCert.viewCert.text "Preveri digitalno potrdilo uradne osebe za digitalna potrdila (CA)">
-<!ENTITY downloadCert.viewPolicy.text "Preveri standardne plane in procedure uradne osebe za digitalna potrdila:">
-<!-- Certificate Exists in database -->
+<!ENTITY downloadCert.message1 "Ali zaupate novemu overitelju?">
+<!ENTITY downloadCert.trustSSL "Overitelju zaupaj identifikacijo spletnih strani.">
+<!ENTITY downloadCert.trustEmail "Overitelju zaupaj identifikacijo e-poštnih uporabnikov.">
+<!ENTITY downloadCert.trustObjSign "Overitelju zaupaj identifikacjo razvijalcev programske opreme.">
+<!ENTITY downloadCert.message3 "Preden overitelju zaupate katerokoli opravilo, si oglejte njegovo digitalno potrdilo in politiko (če sta na voljo).">
+<!ENTITY downloadCert.viewCert.label "Ogled">
+<!ENTITY downloadCert.viewPolicy.label "Politika">
+<!ENTITY downloadCert.viewCert.text "Preveri digitalno potrdilo overitelja">
+<!ENTITY downloadCert.viewPolicy.text "Preveri politiko overitelja">
 
+<!-- Certificate Exists in database -->
 <!ENTITY caCertExists.title "Digitalno potrdilo obstaja">
 <!ENTITY caCertExists.message "Digitalno potrdilo že obstaja.">
-<!-- Strings for the SSL client auth ask dialog -->
 
+<!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Zahteva identifikacije uporabnika">
 <!ENTITY clientAuthAsk.message1 "Ta stran zahteva, da se predstavite z digitalnim potrdilom:">
 <!ENTITY clientAuthAsk.message2 "Izberite digitalno potrdilo, ki vas bo identificiral:">
 <!ENTITY clientAuthAsk.message3 "Podrobnosti o izbranem digitalnem potrdilu:">
-<!-- Strings for the cert picker dialog -->
 
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Izbira digitalnega potrdila">
 <!ENTITY certPicker.info "Digitalno potrdilo:">
 <!ENTITY certPicker.detailsLabel "Podrobnosti o izbranem digitalnem potrdilu:">
@@ -107,15 +107,15 @@
 <!ENTITY chooseToken.message1 "Prosim, izberite figuro.">
 
 <!ENTITY escrowWarn.title "Kopija šifrirnega ključa">
-<!ENTITY escrowWarn.message1 "Pomembno: Ta uradna oseba za digitalna potrdila (CA) želi narediti kopijo vašega šifrirnega privatnega ključa v namene izdelave varnostne kopije.">
-<!ENTITY escrowWarn.benefit1 "Prednost tega je, da če izgubite dostop do vašega privatnega ključa, lahko zahtevate kopijo od te uradne osebe za digitalna potrdila (CA).">
+<!ENTITY escrowWarn.message1 "Pomembno: Ta overitelj želi narediti kopijo vašega šifrirnega privatnega ključa v namene izdelave varnostne kopije.">
+<!ENTITY escrowWarn.benefit1 "Prednost tega je, da če izgubite dostop do vašega privatnega ključa, lahko zahtevate kopijo od tega overitelja.">
 <!ENTITY escrowWarn.message2 "Vendar pa bo vaš šifrirni privatni ključ shranjen pri uradni osebi za digitalna potrdila, kar lahko le-ta uporabi za branje šifrirane e-pošte ali dokumentov brez vašega dovoljenja.">
 <!ENTITY examineCert.label "Preglej digitalno potrdilo">
 <!ENTITY examineCert.accesskey "P">
 
 <!ENTITY serverCrlNextupdate.message "Prosim, povprašajte sistemskega administratorja za pomoč">
-<!-- Strings for the CreateCertInfo dialog  -->
 
+<!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Ustvarjam privatni ključ">
 <!ENTITY createCertInfo.msg1 "Ustvarjanje ključa poteka ... To lahko traja nekaj minut ...">
 <!ENTITY createCertInfo.msg2 "Prosim, počakajte ...">
