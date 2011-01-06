@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "頭銜">
 <!ENTITY processing.label         "匯入中…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 通訊家族 4.x 對每個通訊位址只能有一張名片卡，但 &brandShortName; 有兩份 (住家及商務)">
-<!ENTITY FieldDiscInputText2.label  "選擇您想匯入通訊地址的分類:">
-<!ENTITY FieldDiscWarning.label  "此分類會被用於已選取通訊錄的所有內容:">
-<!ENTITY importHome.label        "首頁">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "商務">
-<!ENTITY importWork.accesskey    "W">
