@@ -78,10 +78,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY title.label              "Título">
 <!ENTITY processing.label         "Importando…">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x tiene una dirección de correo  para cada tarjeta, mientras que  &brandShortName; tiene dos (personal y trabajo).">
-<!ENTITY FieldDiscInputText2.label "Seleccione la categoría en la que quiere almacenar las direcciones de correo importadas:">
-<!ENTITY FieldDiscWarning.label "Esta categoría será utilizada para todas las entradas de la libreta de direcciones seleccionada:">
-<!ENTITY importHome.label        "Casa">
-<!ENTITY importHome.accesskey    "C">
-<!ENTITY importWork.label        "Trabajo">
-<!ENTITY importWork.accesskey    "T">
