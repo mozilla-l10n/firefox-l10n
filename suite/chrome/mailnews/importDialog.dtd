@@ -69,11 +69,3 @@
 
 <!ENTITY title.label "Başlık">
 <!ENTITY processing.label "İçeri aktarılıyor…">
-
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x da her kart için bir posta adresi var, &brandShortName; iki tane (İş ve Ev)var.">
-<!ENTITY FieldDiscInputText2.label "Aktarmak istediğiniz Posta adreslerinin içeriğini seçin:">
-<!ENTITY FieldDiscWarning.label "Tüm seçilmiş adres defterleri için kullanılacaktır:">
-<!ENTITY importHome.label "Ev">
-<!ENTITY importHome.accesskey "E">
-<!ENTITY importWork.label "İş">
-<!ENTITY importWork.accesskey "İ">

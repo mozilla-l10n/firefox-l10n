@@ -41,3 +41,11 @@
 <!ENTITY boxMargin.label "Kenar">
 <!ENTITY boxBorder.label "Kenar">
 <!ENTITY boxPadding.label "Dolgu">
+
+<!ENTITY xCoord.label "x">
+<!ENTITY yCoord.label "y">
+<!ENTITY screenXCoord.label "screen x">
+<!ENTITY screenYCoord.label "screen y">
+
+<!ENTITY dimensionWidth.label "box width">
+<!ENTITY dimensionHeight.label "box height">

@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label "Eşitleme anahtarım">
 <!ENTITY resetSync.label "Sync'i sıfırla">
 <!ENTITY stopUsingAccount.label "Bu hesabı kullanmayı bırak">
+<!ENTITY addDevice.label "Aygıt ekle">
 <!-- Sync Settings -->
 
 <!ENTITY syncPrefsCaption.label "Tarayıcı eşitleme">

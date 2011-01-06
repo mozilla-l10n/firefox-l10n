@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label "Geri bildirim gönder...">
 <!ENTITY helpFeedbackPage.accesskey "G">
 
-<!ENTITY updateCmd.label "Güncellemeleri denetle…">
-
 <!ENTITY preferencesCmdMac.label "Tercihler…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
