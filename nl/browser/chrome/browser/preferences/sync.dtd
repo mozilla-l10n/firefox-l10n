@@ -19,7 +19,7 @@
 <!ENTITY mySyncKey.label              "Mijn Sync-sleutel">
 <!ENTITY resetSync.label              "Sync herinitialiseren">
 <!ENTITY stopUsingAccount.label       "Gebruik van deze account stoppen">
-<!ENTITY addDevice.label              "Apparaat toevoegen">
+<!ENTITY addDevice.label              "Een apparaat toevoegen">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browsersynchronisatie">
