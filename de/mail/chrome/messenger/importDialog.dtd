@@ -37,10 +37,10 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Titel">
 <!ENTITY processing.label         "Importieren…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x speichert nur eine Postadresse pro Kontakt, während &brandShortName; zwei speichert (private und dienstliche).">
-<!ENTITY FieldDiscInputText2.label  "Wählen Sie die Kategorie, in die Sie importierte Postadressen speichern wollen:">
-<!ENTITY FieldDiscWarning.label  "Diese Kategorie wird für alle Einträge des gewählten Adressbuchs verwendet: ">
-<!ENTITY importHome.label        "Privat">
-<!ENTITY importHome.accesskey    "P">
-<!ENTITY importWork.label        "Dienstlich">
-<!ENTITY importWork.accesskey    "D">
