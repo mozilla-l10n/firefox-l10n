@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label "Título">
 <!ENTITY processing.label "A importar...">
-
-<!ENTITY FieldDiscInputText1.label "O Netscape Communicator 4.x tem um endereço de correio para cada cartão, enquanto que o &brandShortName; tem dois (Casa e Trabalho).">
-<!ENTITY FieldDiscInputText2.label "Seleccione a categoria na qual você quer guardar os endereços de correio guardados:">
-<!ENTITY FieldDiscWarning.label  "Esta categoria será usada para todas as entradas seleccionadas no Livro de Endereços: ">
-<!ENTITY importHome.label        "Casa">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "Trabalho">
-<!ENTITY importWork.accesskey    "T">
