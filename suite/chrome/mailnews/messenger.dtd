@@ -191,7 +191,7 @@
 <!ENTITY headersNormalCmd.label "Normali">
 <!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Corpo del messaggio come">
-<!ENTITY bodyMenu.accesskey "C">
+<!ENTITY bodyMenu.accesskey "d">
 <!ENTITY bodyAllowHTML.label "HTML originale">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "HTML semplice">
@@ -305,7 +305,7 @@
 <!ENTITY moveCopyMsgRecentMenu.label "Cartelle recenti">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "C">
 <!ENTITY killThreadMenu.label "Ignora la discussione">
-<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.accesskey "g">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignora la sottodiscussione">
 <!ENTITY killSubthreadMenu.accesskey "s">
