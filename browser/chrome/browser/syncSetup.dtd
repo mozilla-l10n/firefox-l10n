@@ -14,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Tsjinner">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-tsjinner">
-<!ENTITY serverType.custom.label    "Brûk in eigen tsjinner">
-<!ENTITY signIn.account.label       "E-mailadres / Brûkersnamme">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label    "Brûk in eigen tsjinner…">
+<!ENTITY signIn.account2.label       "Account">
+<!ENTITY signIn.account2.accesskey   "A">
 <!ENTITY signIn.password.label      "Wachtwurd">
 <!ENTITY signIn.password.accesskey  "W">
-<!ENTITY signIn.serverURL.label     "Tsjinner-URL">
-<!ENTITY signIn.serverURL.accesskey "T">
+<!ENTITY signIn.syncKey.label       "Sync-kaai">
+<!ENTITY signIn.syncKey.accesskey   "k">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Accountdetails">
