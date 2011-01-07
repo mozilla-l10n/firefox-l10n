@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Feedback ferstjoere…">
 <!ENTITY helpFeedbackPage.accesskey  "f">
 
-<!ENTITY updateCmd.label                "Op fernijings kontrolearje…">
-
 <!ENTITY preferencesCmdMac.label        "Foarkarren…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

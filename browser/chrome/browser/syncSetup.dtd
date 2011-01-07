@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Wolkom, as jo noait earder &syncBrand.fullName.label; brûkt hawwe, moatte jo in account oanmeitsje.">
 <!ENTITY button.createNewAccount.label "Meitsje in nij account oan">
-<!ENTITY button.haveAccount.label "Ik haw in &syncBrand.fullName.label;-account">
+<!ENTITY setup.haveAccount.label "Ik haw al in &syncBrand.fullName.label;-account.">
+<!ENTITY button.connect.label    "Ferbyn">
 
 <!ENTITY setup.choicePage.title.label     "Hawwe jo &syncBrand.fullName.label; earder brûkt?">
 <!ENTITY setup.choicePage.new.label       "Ik haw &syncBrand.shortName.label; net earder brûkt">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Befestigje asjobleaft dat jo net in robot binne">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "In apparaat tafoegje">
+<!ENTITY addDevice.showMeHow.label          "Toan my hoe.">
+<!ENTITY addDevice.dontHaveDevice.label     "Ik haw it apparaat net by my">
+<!ENTITY addDevice.setup.description.label  "Om te aktiveaerjen, gean nei &syncBrand.shortName.label; Opsjes op jo oare apparaat en selektearje &#x0022;In apparaat tafoegje&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Dêrnei, typ dizze koade:">
+<!ENTITY addDevice.dialog.description.label "Om jo nije apparaat te aktivearjen, gean nei &syncBrand.shortName.label; Opsjes op it apparaat en selektearje &#x0022;Ferbyn.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Typ de koade dy't it apparaat jout:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Probearje op 'e nij.">
+<!ENTITY addDevice.dialog.successful.label  "It apparaat is suksesfol tafoege. De earste syngronisaasje kin inkele minuten duorje en sil op de achtergrûn slute.">
+<!ENTITY addDevice.dialog.syncKey.label     "Om jo apparaat te aktivearjen moatte jo jo Sync-kaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
+<!ENTITY addDevice.dialog.connected.label   "Apparaat ferbûn">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Jou jo accountynformaasje">
-<!ENTITY resetPassword.label          "Wachtwurd opnij ynstelle">
-<!ENTITY connecting.label             "Ferbining meitsje…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Typ asjobleaft jo Sync-kaai">
-<!ENTITY setup.existingSyncKeyPage.description "De Sync-kaai is foar jo oanmakke, of jo hawwe jo eigen yntypt, doe't jo foar it earst jo oanmelden foar &syncBrand.fullName.label;. It is net itselde as jo wachtwurd.">
-<!ENTITY existingSyncKeyHelp.description "Jo kinne jo bewarre Sync-kaai fine troch nei jo oare kompjûter te gean en de bewarre wachwurden te besjen ûnder Feilichheid. As jo noch hieltyd net de korrekte Sync-kaai fine kinne, kinne jo kieze om it op 'e nij yn te stellen, mar jo sille alee gegevens op de tsjinner kwyt reitsje.">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Ynlogge">
+<!ENTITY existingSyncKey.description  "Jo kinne in kopy fan jo Sync-kaai krije by &syncBrand.shortName.label; Opsjes op jo oare apparaat, en &#x0022;Myn Sync-kaai&#x0022; ûnder &#x0022;Behear account&#x0022;.">
+<!ENTITY verifying.label              "Ferifiearje…">
+<!ENTITY resetPassword.label          "Wachtwurd op 'e nij ynstelle">
 <!ENTITY lostSyncKey.label            "Ik haw myn Sync-kaai ferlern">
-<!ENTITY verifying.label              "Ferifikaasje…">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync-opsjes">
