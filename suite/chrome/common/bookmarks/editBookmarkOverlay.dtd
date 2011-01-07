@@ -23,3 +23,4 @@
 <!ENTITY editBookmarkOverlay.choose.label                    "Escolher…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nova pasta">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Criar nova pasta">
