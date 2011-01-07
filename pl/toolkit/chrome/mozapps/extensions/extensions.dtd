@@ -176,7 +176,7 @@
 <!ENTITY addon.undoRemove.tooltip             "Pozostaw ten dodatek">
 <!ENTITY addon.restartNow.label               "Uruchom ponownie">
 <!ENTITY addon.install.label                  "Zainstaluj">
-<!ENTITY addon.install.tooltip                "Zainstall ten dodatek">
+<!ENTITY addon.install.tooltip                "Zainstaluj ten dodatek">
 <!ENTITY addon.updateNow.label                "Aktualizuj teraz">
 <!ENTITY addon.updateNow.tooltip              "Zainstaluj aktualizację tego dodatku">
 <!ENTITY addon.includeUpdate.label            "Zaktualizuj ten dodatek">
