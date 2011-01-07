@@ -2,6 +2,7 @@
 <!ENTITY about.title                                "Oer &brandShortName;">
 <!ENTITY about.button                               "Gean nei side">
 <!ENTITY content.title								"Ynhâld">
+<!ENTITY reflowZoom.title                           "Tekst opnij ynstelle by zoomen">
 <!ENTITY showImages.title							"Toan ôfbyldings">
 <!ENTITY enableJavaScript.title						"Javaskript ynskeakelje">
 <!ENTITY enablePlugins.title						"Ynstekkers ynskeakelje">
