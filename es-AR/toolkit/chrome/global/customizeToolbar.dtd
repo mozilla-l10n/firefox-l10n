@@ -5,8 +5,8 @@
 <!ENTITY iconsAndText.label "Iconos y texto">
 <!ENTITY icons.label "Iconos">
 <!ENTITY text.label "Texto">
-<!ENTITY useSmallIcons.label "Usar íconos pequeños">
+<!ENTITY useSmallIcons.label "Íconos pequeños">
 <!ENTITY restoreDefaultSet.label "Restaurar predeterminado">
-<!ENTITY addNewToolbar.label "Agregar nueva barra">
+<!ENTITY addNewToolbar.label "Agregar barra">
 <!ENTITY saveChanges.label "Listo">
 <!ENTITY undoChanges.label "Deshacer cambios">
