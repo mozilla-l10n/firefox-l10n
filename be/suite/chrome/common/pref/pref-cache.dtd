@@ -1,11 +1,11 @@
 <!ENTITY pref.cache.title "Запаснік">
 <!ENTITY pref.cache.caption "Наладзіць запаснік">
 <!ENTITY cachePara "Запаснік трымае копіі старонак сеціва, якія вы часта наведваеце, на вашым дыску. (Вы заўсёды можаце атрымаць апошнюю версію старонкі, калі пстрыкніце Абнавіць).">
-<!ENTITY cacheCheck.label "Дазволіць &brandShortName; кіраваць памерам майго запасніка.">
+<!ENTITY cacheCheck.label "Дазволіць &brandShortName; кіраваць памерам майго запасніка">
 <!ENTITY cacheCheck.accesskey "к">
 <!ENTITY diskCacheUpTo.label "Ужываць да">
 <!ENTITY diskCacheUpTo.accesskey "У">
-<!ENTITY spaceMbytes "МБ дыскавай прасторы для запасніка.">
+<!ENTITY spaceMbytes "МБ дыскавай прасторы для запасніка">
 <!ENTITY diskCacheFolder.label "Месцазнаходжанне папкі запасніку:">
 <!ENTITY clearDiskCache.label "Ачысціць запаснік">
 <!ENTITY clearDiskCache.accesskey "ч">

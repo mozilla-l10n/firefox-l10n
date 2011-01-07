@@ -25,10 +25,3 @@
 <!ENTITY select.label "ці выберыце тып даных для імпарту:">
 <!ENTITY title.label "Загаловак">
 <!ENTITY processing.label "Імпартаванне…">
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x мае адзін паштовы адрас для кожнай карткі, тады як &brandShortName; мае два (Хатні і Працоўны).">
-<!ENTITY FieldDiscInputText2.label "Выберыце катэгорыю, у якой вы хочаце захоўваць імпартаваныя паштовыя адрасы:">
-<!ENTITY FieldDiscWarning.label "Гэтая катэгорыя будзе ўжывацца для ўсіх запісаў з вылучанай адраснай кнігі:">
-<!ENTITY importHome.label "Хатнія">
-<!ENTITY importHome.accesskey "Х">
-<!ENTITY importWork.label "Працоўныя">
-<!ENTITY importWork.accesskey "П">
