@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Myn Sync-kaai">
 <!ENTITY resetSync.label              "Sync werinisjalisearje">
 <!ENTITY stopUsingAccount.label       "Stop it gebrûk fan dit account">
+<!ENTITY addDevice.label              "In apparaat tafoegje">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browsersyngronisaasje">
