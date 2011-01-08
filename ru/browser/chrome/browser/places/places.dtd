@@ -2,7 +2,7 @@
 <!ENTITY places.library.width "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Управление">
-<!ENTITY organize.accesskey "п">
+<!ENTITY organize.accesskey "а">
 <!ENTITY organize.tooltip "Управление вашими закладками">
 <!ENTITY file.accesskey "Ф">
 <!ENTITY file.close.label "Закрыть">
@@ -48,7 +48,7 @@
 <!ENTITY cmd.open_window.label "Открыть в новом окне">
 <!ENTITY cmd.open_window.accesskey "н">
 <!ENTITY cmd.open_tab.label "Открыть в новой вкладке">
-<!ENTITY cmd.open_tab.accesskey "в">
+<!ENTITY cmd.open_tab.accesskey "ы">
 <!ENTITY cmd.open_all_in_tabs.label "Открыть всё во вкладках">
 <!ENTITY cmd.open_all_in_tabs.accesskey "в">
 <!ENTITY cmd.properties.label "Свойства">
@@ -93,7 +93,7 @@
 <!ENTITY saveSearch.accesskey "С">
 <!ENTITY cmd.find.key "f">
 <!ENTITY maintenance.label "Импорт и резервирование">
-<!ENTITY maintenance.accesskey "м">
+<!ENTITY maintenance.accesskey "о">
 <!ENTITY maintenance.tooltip "Импорт и резервирование ваших закладок">
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backButton.tooltip "Перейти назад">
