@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey       "j">
 <!ENTITY openFrameCmdInTab.label      "Abrir Frame em novo separador">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
+<!ENTITY keywordfield.label           "Adicionar palavra-chave a esta pesquisa…">
+<!ENTITY keywordfield.accesskey       "q">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas esta frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
 <!ENTITY goBackCmd.label              "Retroceder">
@@ -49,8 +51,8 @@
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setWallpaperCmd.label        "definir como imagem de fundo do ambiente de trabalho">
-<!ENTITY setWallpaperCmd.accesskey    "d">
+<!ENTITY setWallpaperCmd.label        "Definir como imagem de fundo do ambiente de trabalho">
+<!ENTITY setWallpaperCmd.accesskey    "D">
 <!ENTITY bookmarkPageCmd.label        "Adicionar página aos marcadores">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "Adicionar ligação aos marcadores">
@@ -112,7 +114,7 @@
 <!ENTITY mediaUnmute.accesskey        "m">
 <!ENTITY mediaShowControls.label      "Mostrar controlos de média">
 <!ENTITY mediaShowControls.accesskey  "a">
-<!ENTITY mediaHideControls.label      "Ocultar controlos de médias">
+<!ENTITY mediaHideControls.label      "Ocultar controlos de média">
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Ecrã inteiro">
 <!ENTITY videoFullScreen.accesskey    "n">
