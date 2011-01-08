@@ -104,7 +104,7 @@
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "ਇੱਕ ਨਿੱਜੀ ਕੁੰਜੀ ਬਣਾਈ ਜਾ ਰਹੀ ਹੈ">
-<!ENTITY createCertInfo.msg1 "ਕੁੰਜੀ ਨਿਰਮਾਣ ਅਧੀਨ ਹੈ... ਇਸ ਨੂੰ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ...">
+<!ENTITY createCertInfo.msg1 "ਕੁੰਜੀ ਨਿਰਮਾਣ ਅਧੀਨ ਹੈ… ਇਸ ਨੂੰ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ…">
 <!ENTITY createCertInfo.msg2 "ਉਡੀਕੋ ਜੀ…">
 
 <!-- Access Keys -->
@@ -120,5 +120,5 @@
 <!ENTITY protectedAuth.tokenName.label "ਟੋਕਨ:">
 
 <!ENTITY certErrorDlg.title "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ ਹੋਇਆ">
-<!ENTITY certErrorDlg.info1 "ਇਹ ਸਰਵਰ ਦੀ ਸੰਰਚਨਾ ਨਾਲ ਇੱਕ ਸਮੱਸਿਆ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਕੋਈ ਇਹ ਸਰਵਰ ਦੇ ਭੇਸ (ਨਕਲ ਕਰਨ) ਬਦਲ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ।">
-<!ENTITY certErrorDlg.info2 "ਜੇ ਤੁਸੀਂ ਇਹ ਸਰਵਰ ਨਾਲ ਪਹਿਲਾਂ ਵੀ ਠੀਕ ਤਰ੍ਹਾਂ ਜੁੜਦੇ ਰਹੇ ਹੋ ਤਾਂ ਇਹ ਗਲਤੀ ਆਰਜ਼ੀ ਹੋ ਸਕਦੀ ਹੈ ਅਤੇ ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਟਰਾਈ ਕਰ ਸਕਦੇ ਹੋ।">
+<!ENTITY certErrorDlg.info1 "ਇਹ ਸਰਵਰ ਦੀ ਸੰਰਚਨਾ ਨਾਲ ਇੱਕ ਸਮੱਸਿਆ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਕੋਈ ਇਹ ਸਰਵਰ ਦੇ ਭੇਸ (ਨਕਲ ਕਰਨ) ਬਦਲਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ।">
+<!ENTITY certErrorDlg.info2 "ਜੇ ਤੁਸੀਂ ਇਹ ਸਰਵਰ ਨਾਲ ਪਹਿਲਾਂ ਵੀ ਠੀਕ ਤਰ੍ਹਾਂ ਜੁੜਦੇ ਰਹੇ ਹੋ ਤਾਂ ਇਹ ਗਲਤੀ ਆਰਜ਼ੀ ਹੋ ਸਕਦੀ ਹੈ ਅਤੇ ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ।">

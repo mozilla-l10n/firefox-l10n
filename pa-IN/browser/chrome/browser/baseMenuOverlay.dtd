@@ -29,7 +29,7 @@
 <!ENTITY helpFeedbackPage.label      "…ਸੁਝਾਅ ਭੇਜੋ">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY preferencesCmdMac.label        "ਮੇਰੀ ਪਸੰਦ...">
+<!ENTITY preferencesCmdMac.label        "ਮੇਰੀ ਪਸੰਦ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "ਸਰਵਿਸਾਂ">

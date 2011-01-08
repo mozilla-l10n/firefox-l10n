@@ -23,6 +23,6 @@ was trying to connect. -->
 <!ENTITY certerror.expert.content "ਜੇ ਤੁਸੀਂ ਸਮਝਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਕੀ ਕਰ ਰਹੇ ਹੋ ਤਾਂ  &brandShortName; ਨੂੰ ਇਸ ਸਾਈਟ ਦੀ ਪਛਾਣ ਉੱਤੇ ਭਰੋਸਾ ਕਰਨ ਲਈ ਕਰੋ।
 <b>ਭਾਵੇਂ ਕਿ ਤੁਸੀਂ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਕਰਦੇ ਹੋ, ਇਸ ਗਲਤੀ ਦਾ ਅਰਥ ਹੈ ਕਿ ਕੋਈ ਤੁਹਾਡੇ ਕੁਨੈਕਸ਼ਨ ਨਾਲ ਸੰਨ੍ਹ ਲਾ ਰਿਹਾ ਹੈ।</b>">
 <!ENTITY certerror.expert.contentPara2 "ਛੋਟ ਨਾ ਦਿਓ, ਜਦੋਂ ਤੱਕ ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਅਜਿਹਾ ਕੋਈ ਠੋਸ ਕਾਰਨ ਨਾ ਹੋਵੇ ਕਿ ਕਿਉ ਇਹ ਸਾਈਟ ਭਰੋਸੇਯੋਗ (trusted) ਪਛਾਣ ਨਹੀਂ ਵਰਤਦੀ ਹੈ।">
-<!ENTITY certerror.addException.label "...ਛੋਟ ਸ਼ਾਮਲ">
+<!ENTITY certerror.addException.label "…ਛੋਟ ਸ਼ਾਮਲ">
 
 <!ENTITY certerror.technical.heading "ਤਕਨੀਕੀ ਵੇਰਵਾ">

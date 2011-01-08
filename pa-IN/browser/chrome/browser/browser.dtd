@@ -44,19 +44,19 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "ਨਵੀਂ ਟੈਬ">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "...ਟਿਕਾਣਾ ਖੋਲ੍ਹੋ">
+<!ENTITY openLocationCmd.label "…ਟਿਕਾਣਾ ਖੋਲ੍ਹੋ">
 <!ENTITY openLocationCmd.accesskey "L">
-<!ENTITY openFileCmd.label "...ਫਾਇਲ ਖੋਲ੍ਹੋ">
+<!ENTITY openFileCmd.label "…ਫਾਇਲ ਖੋਲ੍ਹੋ">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "...ਪੇਜ਼ ਸੈਟਿੰਗ">
+<!ENTITY printSetupCmd.label "…ਪੇਜ਼ ਸੈਟਿੰਗ">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ਪਰਿੰਟ ਝਲਕ">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "...ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY printCmd.label "…ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "...ਇੰਪੋਰਟ">
+<!ENTITY import.label "…ਇੰਪੋਰਟ">
 <!ENTITY import.accesskey "I">
 <!ENTITY menubarCmd.label "ਮੇਨੂ ਬਾਰੇ">
 <!ENTITY menubarCmd.accesskey "M">
@@ -100,10 +100,10 @@ can reach it easily. -->
 <!ENTITY bookmarkThisPageCmd.label "ਇਹ ਪੇਜ਼ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
-<!ENTITY subscribeToPageMenuitem.label "... ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
-<!ENTITY addCurPagesCmd.label "...ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
+<!ENTITY subscribeToPageMenuitem.label "…ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
+<!ENTITY addCurPagesCmd.label "…ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
 <!ENTITY showAllBookmarks2.label "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
-<!ENTITY bookmarkAllCmd.label "...ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ">
+<!ENTITY bookmarkAllCmd.label "…ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
@@ -139,7 +139,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.tooltip      "ਆਪਣੀ ਟੈਬਾਂ ਦਾ ਗਰੁੱਪ ਬਣਾਓ">
 
 <!ENTITY feedButton.label             "ਮੈਂਬਰ ਬਣੋ">
-<!ENTITY feedButton.tooltip           "... ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
+<!ENTITY feedButton.tooltip           "… ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 
 <!ENTITY bookmarksButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
@@ -167,7 +167,7 @@ can reach it easily. -->
 <!ENTITY toolsMenu.label              "ਟੂਲ">
 <!ENTITY toolsMenu.accesskey          "T">
 
-<!ENTITY keywordfield.label           "ਇਸ ਖੋਜ ਲਈ ਸ਼ਬਦ ਦਿਓ...">
+<!ENTITY keywordfield.label           "ਇਸ ਖੋਜ ਲਈ ਸ਼ਬਦ ਦਿਓ…">
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "ਵੈੱਬ ਖੋਜ">
 <!ENTITY search.accesskey             "S">
@@ -244,7 +244,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-<!ENTITY clearRecentHistory.label               "...ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY clearRecentHistory.label               "…ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearRecentHistory.accesskey           "H">
 
 
@@ -263,7 +263,7 @@ can reach it easily. -->
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "ਸਾਈਡਬਾਰ">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "ਪਸੰਦ...">
+<!ENTITY viewCustomizeToolbar.label       "ਪਸੰਦ…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY viewTabsOnTop.label            "ਟੈਬਾਂ ਉੱਤੇ">
 <!ENTITY viewTabsOnTop.accesskey        "T">
@@ -284,7 +284,7 @@ can reach it easily. -->
 <!ENTITY appMenuCustomize.label "ਪਸੰਦੀਦਾ">
 <!ENTITY appMenuToolbarLayout.label "ਟੂਲਬਾਰ ਲੇਆਉਟ…">
 <!ENTITY appMenuSidebars.label "ਬਾਹੀ">
-<!ENTITY appMenuFind.label "...ਖੋਜ">
+<!ENTITY appMenuFind.label "…ਖੋਜ">
 <!ENTITY appMenuUnsorted.label "ਬਿਨ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ">
 <!ENTITY appMenuWebDeveloper.label "ਵੈੱਬ ਡਿਵੈਲਪਰ">
 <!ENTITY appMenuGettingStarted.label "ਸ਼ੁਰੂਆਤ">
@@ -360,7 +360,7 @@ can reach it easily. -->
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ ਵੇਖੋ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਡ ਵਾਂਗ ਸੈੱਟ ਕਰੋ...">
+<!ENTITY setDesktopBackgroundCmd.label      "ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਡ ਵਾਂਗ ਸੈੱਟ ਕਰੋ…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ਇਹ ਪੇਜ਼ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
