@@ -1,6 +1,6 @@
-<!ENTITY feedbackHeader.label           "Betatester-verktøy">
+<!ENTITY feedbackHeader2.label          "Tilbakemeldingsverktøy">
 
-<!ENTITY feedback.communicate.title     "Kommuniser til oss!">
+<!ENTITY feedback.communicate.title     "Kommuniser med oss!">
 <!ENTITY feedback.feedback.title        "Gi tilbakemelding">
 <!ENTITY feedback.feedback.good         "Bra">
 <!ENTITY feedback.feedback.bad          "Dårlig">
