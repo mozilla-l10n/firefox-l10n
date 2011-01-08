@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "&brandShortName;i teave">
 <!ENTITY about.button                              "Mine lehele">
 <!ENTITY content.title                             "Sisu">
+<!ENTITY reflowZoom.title                          "Suurendamisel tekst vormindatakse">
 <!ENTITY showImages.title                          "Pildid laaditakse automaatselt">
 <!ENTITY enableJavaScript.title                    "JavaScript lubatakse">
 <!ENTITY enablePlugins.title                       "Pluginad lubatakse">

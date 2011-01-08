@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label                   "Pealkiri">
 <!ENTITY processing.label              "Importimine...">
-
-<!ENTITY FieldDiscInputText1.label     "Netscape Communicator 4.x omab iga kaardi jaoks üht e-posti aadressi, samas kui &brandShortName;is on neid kaks (kodu ja töö).">
-<!ENTITY FieldDiscInputText2.label     "Vali kategooria, millesse soovid imporditud e-posti aadressid salvestada:">
-<!ENTITY FieldDiscWarning.label        "Seda kategooriat kasutatakse kõigi valitud aadressiraamatu kirjete puhul: ">
-<!ENTITY importHome.label              "Kodu">
-<!ENTITY importHome.accesskey          "K">
-<!ENTITY importWork.label              "Töö">
-<!ENTITY importWork.accesskey          "T">
