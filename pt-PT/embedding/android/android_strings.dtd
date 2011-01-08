@@ -1,0 +1,13 @@
+<!ENTITY  splash_screen_label "a carregar">
+<!ENTITY  incompatable_cpu_error "Este dispositivo não cumpre os requisitos de sistema mínimos para executar o &brandShortName;.">
+<!ENTITY  no_space_to_start_error "Não existe espaço suficiente disponível para iniciar o &brandShortName;.">
+<!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar ficheiros necessários para executar o &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Relator de erros do &brandShortName;">
+<!ENTITY  crash_message "O &brandShortName; teve um erro. Os seus separadores devem estar listados na página inicial do &brandShortName; quando reiniciar.">
+<!ENTITY  crash_help_message "Ajude-nos a resolver este problema!">
+<!ENTITY  crash_send_report_message "Enviar relatório de erro à Mozilla">
+<!ENTITY  crash_include_url "Incluir endereço da página">
+<!ENTITY  crash_close_label "Fechar">
+<!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
+<!ENTITY  sending_crash_report "A enviar relatório de erro \u2026">
