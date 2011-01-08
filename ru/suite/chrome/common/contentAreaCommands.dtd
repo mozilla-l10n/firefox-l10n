@@ -12,6 +12,8 @@
 <!ENTITY openFrameCmd.accesskey "н">
 <!ENTITY openFrameCmdInTab.label "Открыть фрейм в новой вкладке">
 <!ENTITY openFrameCmdInTab.accesskey "к">
+<!ENTITY keywordfield.label "Добавить краткое имя для данного поиска…">
+<!ENTITY keywordfield.accesskey "с">
 <!ENTITY showOnlyThisFrameCmd.label "Показать только этот фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "о">
 <!ENTITY goBackCmd.label "Назад">
