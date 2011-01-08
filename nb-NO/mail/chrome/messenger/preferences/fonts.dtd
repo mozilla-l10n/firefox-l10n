@@ -7,8 +7,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Størrelse:">
-<!ENTITY  sizeProportional.accesskey              "r">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  proportionalSize.accesskey              "r">
+<!ENTITY  sizeMono.accesskey                      "e">
 
 <!ENTITY  proportional.label                      "Proporsjonal:">
 <!ENTITY  proportional.accesskey                  "P">

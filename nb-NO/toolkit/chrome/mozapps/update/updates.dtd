@@ -41,7 +41,7 @@
 <!ENTITY  license.decline                 "Jeg godtar IKKE betingelsene i lisensavtalen">
 <!ENTITY  license.decline.accesskey       "e">
 
-<!ENTITY  incompatibleList.title          "Fant inkompatible utvidelser/temaer">
+<!ENTITY  incompatibleList.title          "Inkompatible utvidelser">
 
 <!ENTITY  downloadPage.title              "Laster ned &brandShortName;">
 <!ENTITY  downloading.intro               "Laster ned oppdateringen …">
