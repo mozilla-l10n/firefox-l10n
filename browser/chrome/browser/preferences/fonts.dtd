@@ -3,7 +3,7 @@
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "ਇਸ ਫੋੰਟ:">
+<!ENTITY  language.label                          "ਇਸ ਫੋਂਟ:">
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "ਸਾਈਜ਼:">

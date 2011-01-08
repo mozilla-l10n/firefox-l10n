@@ -12,8 +12,8 @@
                                            ਉਪਲੱਬਧ ਹੈ ਕਿ ਨਹੀਂ।">
 
 <!ENTITY  checking.wizard.title           "ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ">
-<!ENTITY  checking.top.label              "ਤੁਹਾਡੀਆਂ ਨਾ-ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਵਾਸਤੇ ਜਾਂਚ ਜਾਰੀ ਹੈ...">
-<!ENTITY  checking.status                 "ਇਸ ਨੂੰ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ...">
+<!ENTITY  checking.top.label              "ਤੁਹਾਡੀਆਂ ਨਾ-ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਵਾਸਤੇ ਜਾਂਚ ਜਾਰੀ ਹੈ…">
+<!ENTITY  checking.status                 "ਇਸ ਨੂੰ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ…">
 
 <!ENTITY  found.wizard.title               "ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਲੱਭ ਗਈਆਂ ਹਨ">
 <!ENTITY  found.top.label                 "ਐਂਡ-ਆਨ ਦੀ ਚੋਣ ਕਰੋ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ:">
@@ -23,7 +23,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
-<!ENTITY  installing.top.label            "ਤੁਹਾਡੀਆਂ ਐਂਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਅਤੇ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...">
+<!ENTITY  installing.top.label            "ਤੁਹਾਡੀਆਂ ਐਂਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਅਤੇ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…">
 
 <!ENTITY  noupdates.wizard.title          "ਕੋਈ ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਨਹੀਂ ਲੱਭੀ ਹੈ">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; ਤੁਹਾਡੀ ਐਂਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਲਈ ਲੱਭਣ ਲਈ ਅਸਫ਼ਲ ਹੈ।">
@@ -43,7 +43,7 @@
 <!ENTITY  versioninfo.wizard.title        "ਕੰਪੈਟਬਿਲ ਐਂਡ-ਆਨ ਲਈ ਜਾਂਚ ਜਾਰੀ ਹੈ">
 <!ENTITY  versioninfo.top.label           "&brandShortName; ਦੇ ਇਹ ਵਰਜਨ ਨਾਲ ਇਸ ਐਂਡ-ਆਨ
                                            ਦੀ ਕੰਪੈਟਬਿਲ ਜਾਂਚ ਜਾਰੀ ਹੈ">
-<!ENTITY  versioninfo.waiting             "ਇਸ ਨੂੰ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ...">
+<!ENTITY  versioninfo.waiting             "ਇਸ ਨੂੰ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ…">
 
 <!ENTITY  installerrors.wizard.title      "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ">
 <!ENTITY  installerrors.intro.label       "&brandShortName; ਨੂੰ ਤੁਹਾਡੀਆਂ ਐਂਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੌਰਾਨ

@@ -34,8 +34,8 @@
 
 <!ENTITY connection.label                "ਕੁਨੈਕਸ਼ਨ">
 
-<!ENTITY connectionDesc.label            "ਸੰਰਚਨਾ ਕਰੋ ਕਿ &brandShortName;  ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਿਵੇਂ ਕੁਨੈਕਟ ਹੋਵੇ">
-<!ENTITY connectionSettings.label        "ਸੈਟਿੰਗ...">
+<!ENTITY connectionDesc.label            "ਸੰਰਚਨਾ ਕਰੋ ਕਿ &brandShortName; ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਿਵੇਂ ਕੁਨੈਕਟ ਹੋਵੇ">
+<!ENTITY connectionSettings.label        "ਸੈਟਿੰਗ…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY offlineStorage.label            "ਆਫਲਾਈਨ ਸਟੋਰੇਜ਼">
