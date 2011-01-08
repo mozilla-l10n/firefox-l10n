@@ -1,32 +1,32 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Kudenn o karga&ntilde; ar bajennad">
+<!ENTITY loadError.label "Kudenn o kargañ ar bajennad">
 <!ENTITY retry.label "Klask en-dro">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "N'haller ket kennaska&ntilde;">
-<!ENTITY connectionFailure.longDesc "<p>Al lec'hienn a ha&ntilde;val beza&ntilde; talvoudek, koulskoude n'eo ket ar merdeer evit  kennaska&ntilde;.</p><ul><li>Ha dihegerz e vefe al lec'hienn evit un nebeut amzer ? Klaskit en-dro diwezhatoc'h.</li><li>N'oc'h ket gouest da verdei&ntilde; war lec'hienno&ugrave; all ? Gwiriit kennaska&ntilde; hoc'h urzhiataer ouzh ar rouedad.</li><li>Gwaredet eo hoc'h urzhiataer pe ho rouedad gant un tanvoger pe ur proksi ? Arventenno&ugrave; direizh a rouestl ar merdei&ntilde; marteze.</li></ul> ">
+<!ENTITY connectionFailure.title "N'haller ket kennaskañ">
+<!ENTITY connectionFailure.longDesc "<p>Al lec'hienn a hañval bezañ talvoudek, koulskoude n'eo ket ar merdeer evit  kennaskañ.</p><ul><li>Ha dihegerz e vefe al lec'hienn evit un nebeut amzer ? Klaskit en-dro diwezhatoc'h.</li><li>N'oc'h ket gouest da verdeiñ war lec'hiennoù all ? Gwiriit kennaskañ hoc'h urzhiataer ouzh ar rouedad.</li><li>Gwaredet eo hoc'h urzhiataer pe ho rouedad gant un tanvoger pe ur proksi ? Arventennoù direizh a rouestl ar merdeiñ marteze.</li></ul> ">
 
-<!ENTITY deniedPortAccess.title "Dindan strishadurio&ugrave; ema&ntilde; ar porzh-ma&ntilde;">
+<!ENTITY deniedPortAccess.title "Dindan strishadurioù emañ ar porzh-mañ">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "N'eo ket bet kavet ar chomlec'h">
-<!ENTITY dnsNotFound.longDesc " <p>Ar merdeer n'eo ket evit kavout an dafariad ostiz evit ar chomlec'h roet.</p><ul><li>Ur fazi hoc'h eus graet en ur skriva&ntilde; anv an domani ? (d.l.e. <q><strong>ww</strong>.mozilla.org</q> e-lec'h <q><strong>www</strong>.mozilla.org</q>)</li><li>Ha sur oc'h ema&ntilde; bev ar chomlec'h-ma&ntilde; ? E varilhadur zo diamzeret marteze.</li><li>Ha barrek oc'h da welout lec'hienno&ugrave; all ? Gwiriit kennask ho rouedad hag arventenno&ugrave; an dafariad DNS.</li><li>Gwarezet eo hoc'h urzhiataer gant un tanvoger pe ur proksi ? Arventenno&ugrave; direizh a grou trubuilho&ugrave; gant ar merdei&ntilde; war Internet.</li></ul>">
+<!ENTITY dnsNotFound.longDesc " <p>Ar merdeer n'eo ket evit kavout an dafariad ostiz evit ar chomlec'h roet.</p><ul><li>Ur fazi hoc'h eus graet en ur skrivañ anv an domani ? (d.l.e. <q><strong>ww</strong>.mozilla.org</q> e-lec'h <q><strong>www</strong>.mozilla.org</q>)</li><li>Ha sur oc'h emañ bev ar chomlec'h-mañ ? E varilhadur zo diamzeret marteze.</li><li>Ha barrek oc'h da welout lec'hiennoù all ? Gwiriit kennask ho rouedad hag arventennoù an dafariad DNS.</li><li>Gwarezet eo hoc'h urzhiataer gant un tanvoger pe ur proksi ? Arventennoù direizh a grou trubuilhoù gant ar merdeiñ war Internet.</li></ul>">
 
 <!ENTITY fileNotFound.title "Restr dianav ">
-<!ENTITY fileNotFound.longDesc "<ul><li>Gwiria&ntilde; ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.</li><li>Gwiria&ntilde; anv ar chomlec'h rak marteze ez eus fazio&ugrave; pennlizhenno&ugrave; pe fazio&ugrave; skriva&ntilde; all.</li><li>Hag an aotreo&ugrave; hoc'h eus evit haezi&ntilde; an ergorenn goulennet ?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Gwiriañ ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.</li><li>Gwiriañ anv ar chomlec'h rak marteze ez eus fazioù pennlizhennoù pe fazioù skrivañ all.</li><li>Hag an aotreoù hoc'h eus evit haeziñ an ergorenn goulennet ?</li></ul>">
 
 
-<!ENTITY generic.title "N'haller ket echui&ntilde; an azgoulenn-ma&ntilde;.">
-<!ENTITY generic.longDesc " <p>Titouro&ugrave; ouzhpenn diwar-benn ar gudenn-ma&ntilde; pe ar fazi-ma&ntilde; n'int ket hegerz evit poent.</p>">
+<!ENTITY generic.title "N'haller ket echuiñ an azgoulenn-mañ.">
+<!ENTITY generic.longDesc " <p>Titouroù ouzhpenn diwar-benn ar gudenn-mañ pe ar fazi-mañ n'int ket hegerz evit poent.</p>">
 
 <!ENTITY malformedURI.title "N'eo ket talvoudek ar chomlec'h">
 <!ENTITY malformedURI.longDesc " <p>N'eo ket anavezet mentrezh ar chomlec'h pourvezet. Gwiriit barrenn al lec'hiadur evit kavout ur fazi ha klaskit en-dro.</p>">
 
-<!ENTITY netInterrupt.title "Harzet eo bet treuzkas ar roadenno&ugrave;">
-<!ENTITY netInterrupt.longDesc "<p>Kennasket mat e oa ar merdeer met troc'het eo bet ar c'hennask e-pad ma oa o treuzkas stlenno&ugrave;. Klaskit en-dro, mar plij.</p><ul><li>N'oc'h ket evit merdei&ntilde; war lec'hienno&ugrave; all ? Gwiriit kennask roueded hoc'h urzhiataer.</li><li>Trubuilho&ugrave; c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
+<!ENTITY netInterrupt.title "Harzet eo bet treuzkas ar roadennoù">
+<!ENTITY netInterrupt.longDesc "<p>Kennasket mat e oa ar merdeer met troc'het eo bet ar c'hennask e-pad ma oa o treuzkas stlennoù. Klaskit en-dro, mar plij.</p><ul><li>N'oc'h ket evit merdeiñ war lec'hiennoù all ? Gwiriit kennask roueded hoc'h urzhiataer.</li><li>Trubuilhoù c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
 
 <!ENTITY netOffline.title "Mod ezlinenn">
 <!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
@@ -39,65 +39,65 @@
 </ul>
  ">
 
-<!ENTITY contentEncodingError.title "Fazi enrinega&ntilde; an endalc'had">
-<!ENTITY contentEncodingError.longDesc "<p>Ar bajennad emaoc'h o klask gwelout n'hall ket beza&ntilde; diskouezet rak ur doare koazha&ntilde; anskor pe didalvoudek zo arveret ganti.</p><ul><li>Kit e darempred gant perc'hennerion al lec'hienn evit kas kelo&ugrave; dezho a-zivout ar gudenn-ma&ntilde;.</li></ul>">
+<!ENTITY contentEncodingError.title "Fazi enrinegañ an endalc'had">
+<!ENTITY contentEncodingError.longDesc "<p>Ar bajennad emaoc'h o klask gwelout n'hall ket bezañ diskouezet rak ur doare koazhañ anskor pe didalvoudek zo arveret ganti.</p><ul><li>Kit e darempred gant perc'hennerion al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Rizh restr arvarus ">
-<!ENTITY unsafeContentType.longDesc " <ul> <li>Kit e darempred gant perc'hennerion al lec'hienn evit kas kelo&ugrave; dezho a-zivout ar gudenn-ma&ntilde;.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc " <ul> <li>Kit e darempred gant perc'hennerion al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li> </ul>">
 
-<!ENTITY netReset.title "Ehanet eo bet ar c'hennaska&ntilde;">
-<!ENTITY netReset.longDesc "<p>Troc'het eo bet ereadur ouzh ar rouedad e-pad ma oa o klask kennaska&ntilde; outa&ntilde;. Klaskit en-dro.</p> ">
+<!ENTITY netReset.title "Ehanet eo bet ar c'hennaskañ">
+<!ENTITY netReset.longDesc "<p>Troc'het eo bet ereadur ouzh ar rouedad e-pad ma oa o klask kennaskañ outañ. Klaskit en-dro.</p> ">
 
 <!ENTITY netTimeout.title "Troc'het eo bet ar c'hennask rak re hir">
-<!ENTITY netTimeout.longDesc "<p>N'he deus ket respontet al lec'hienn azgoulennet d'an azgoulenn kennaska&ntilde; ha ne c'hortoz ket mui ar merdeer evit ar respont.</p>
+<!ENTITY netTimeout.longDesc "<p>N'he deus ket respontet al lec'hienn azgoulennet d'an azgoulenn kennaskañ ha ne c'hortoz ket mui ar merdeer evit ar respont.</p>
 <ul>
 <li>Marteze eo soulgarget pe sac'het an dafariad ? Klaskit diwezhatoc'h.</li>
-<li>N'oc'h ket evit gweladenni&ntilde; lec'hienno&ugrave; all ? Gwiria&ntilde; ar c'hennaska&ntilde; ouzh ar rouedad.</li>
-<li>Ha gwarezet eo hoc'h urzhiataer gant un tanvoger pe ur proksi ? Arventenno&ugrave; fall a c'hallfe gwallemellout gant ho merdei&ntilde;.</li>
-<li>Trubuilho&ugrave; c'hoazh ? Kit e darempred gant ardoer ho reizhiad pe ho pourchaser internet evit kaout skoazell.</li>
+<li>N'oc'h ket evit gweladenniñ lec'hiennoù all ? Gwiriañ ar c'hennaskañ ouzh ar rouedad.</li>
+<li>Ha gwarezet eo hoc'h urzhiataer gant un tanvoger pe ur proksi ? Arventennoù fall a c'hallfe gwallemellout gant ho merdeiñ.</li>
+<li>Trubuilhoù c'hoazh ? Kit e darempred gant ardoer ho reizhiad pe ho pourchaser internet evit kaout skoazell.</li>
 </ul>">
 
 <!ENTITY protocolNotFound.title "Komenad dianav ">
-<!ENTITY protocolNotFound.longDesc " <p>Ur c'homenad (d.l.e. <q>wxyz://</q>) nad eo ket anavezet gant ar merdeer zo erspizet gant ar chomlec'h, neuze n'eo ket ar merdeer evit kennaska&ntilde; mat ouzh al lec'hienn.</p><ul><li>Hag emaoc'h o klask tizhout liesvedia pe gwazerezhio&ugrave; andestenn ? Gwiriit war al lec'hienn mar bez ezhomm paramantadurio&ugrave; all.</li><li>Goulennet e vez mezianto&ugrave; ouzhpenn pe enlugellado&ugrave; gant komenado&ugrave; zo a-raok ma vo gouest ar merdeer d'o anavezout.</li></ul>">
+<!ENTITY protocolNotFound.longDesc " <p>Ur c'homenad (d.l.e. <q>wxyz://</q>) nad eo ket anavezet gant ar merdeer zo erspizet gant ar chomlec'h, neuze n'eo ket ar merdeer evit kennaskañ mat ouzh al lec'hienn.</p><ul><li>Hag emaoc'h o klask tizhout liesvedia pe gwazerezhioù andestenn ? Gwiriit war al lec'hienn mar bez ezhomm paramantadurioù all.</li><li>Goulennet e vez meziantoù ouzhpenn pe enlugelladoù gant komenadoù zo a-raok ma vo gouest ar merdeer d'o anavezout.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Dafariad ar proksi zo o nac'ha&ntilde; ar c'hennaska&ntilde;">
-<!ENTITY proxyConnectFailure.longDesc " <p>Kefluniet eo ar merdeer evit ober gant un dafariad proksi, met nac'het eo bet ar c'hennaska&ntilde; gant ar proksi.</p><ul><li>Ha kefluniet mat eo proksi ar merdeer ? Gwiriit an arventenno&ugrave; ha klaskit en-dro.</li><li>Ha gwazerezh ar proksi a aotre kennaskadurio&ugrave; diouzh ar rouedad-ma&ntilde; ?</li><li>Trubuilho&ugrave; c'hoazh ? Kit e darempred gant ardoer ar rouedad pe ho pourchaser internet a-benn kaout skoazell.</li></ul>">
+<!ENTITY proxyConnectFailure.title "Dafariad ar proksi zo o nac'hañ ar c'hennaskañ">
+<!ENTITY proxyConnectFailure.longDesc " <p>Kefluniet eo ar merdeer evit ober gant un dafariad proksi, met nac'het eo bet ar c'hennaskañ gant ar proksi.</p><ul><li>Ha kefluniet mat eo proksi ar merdeer ? Gwiriit an arventennoù ha klaskit en-dro.</li><li>Ha gwazerezh ar proksi a aotre kennaskadurioù diouzh ar rouedad-mañ ?</li><li>Trubuilhoù c'hoazh ? Kit e darempred gant ardoer ar rouedad pe ho pourchaser internet a-benn kaout skoazell.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "N'eo ket bet kavet an dafariad proksi">
-<!ENTITY proxyResolveFailure.longDesc "<p>Kefluniet eo ar merdeer evit arvera&ntilde; un dafariad proksi, met n'eus ket tu da gavout ar proksi.</p><ul><li>Ha kefluniet mat eo proksi ar merdeer ? Gwiriit an arventenno&ugrave; ha klaskit en-dro.</li><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Trubuilho&ugrave; c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
+<!ENTITY proxyResolveFailure.longDesc "<p>Kefluniet eo ar merdeer evit arverañ un dafariad proksi, met n'eus ket tu da gavout ar proksi.</p><ul><li>Ha kefluniet mat eo proksi ar merdeer ? Gwiriit an arventennoù ha klaskit en-dro.</li><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Trubuilhoù c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
 
-<!ENTITY redirectLoop.title "Adhe&ntilde;cha&ntilde; ar bajenn n'eo ket dereat">
+<!ENTITY redirectLoop.title "Adheñchañ ar bajenn n'eo ket dereat">
 <!ENTITY redirectLoop.longDesc "<ul>
- <li>A-wecho&ugrave; e c'hoarvezh ar gudenn-ma&ntilde; rak diweredekaet pe nac'het eo bet an toupino&ugrave;.</li>
+ <li>A-wechoù e c'hoarvezh ar gudenn-mañ rak diweredekaet pe nac'het eo bet an toupinoù.</li>
 </ul>">
 
 <!ENTITY unknownSocketType.title "Respont direizh">
 <!ENTITY unknownSocketType.longDesc "<p>Gant un doare dic'hortozet he deus respontet al lec'hienn da azgoulenn ar rouedad hag ar merdeer n'eo ket evit kenderc'hel.</p>">
 
-<!ENTITY nssFailure2.title "C'hwitadenn war ar c'hennaska&ntilde; diarvar">
-<!ENTITY nssFailure2.longDesc "<p>N'hall ket beza&ntilde; diskouezet ar bajennad emaoc'h o klask gwelout rak n'hall ket beza&ntilde; gwiriet  dilested ar roadenno&ugrave; bet degemeret.</p><ul><li>Kit e darempred gant perc'hennerion al lec'hienn evit kas kelo&ugrave; dezho a-zivout ar gudenn-ma&ntilde;.</li></ul>">
+<!ENTITY nssFailure2.title "C'hwitadenn war ar c'hennaskañ diarvar">
+<!ENTITY nssFailure2.longDesc "<p>N'hall ket bezañ diskouezet ar bajennad emaoc'h o klask gwelout rak n'hall ket bezañ gwiriet  dilested ar roadennoù bet degemeret.</p><ul><li>Kit e darempred gant perc'hennerion al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li></ul>">
 
-<!ENTITY nssBadCert.title "C'hwitadenn war ar c'hennaska&ntilde; diarvar">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Marteze e vefe ur gudenn gant kefluniadur an dafariad, pe unan bennak o klask drevezi&ntilde; an dafariad.</li> <li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eo ur fazi padennek moarvat, klaskit diwezhatoc'h.</li> </ul>">
+<!ENTITY nssBadCert.title "C'hwitadenn war ar c'hennaskañ diarvar">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Marteze e vefe ur gudenn gant kefluniadur an dafariad, pe unan bennak o klask dreveziñ an dafariad.</li> <li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eo ur fazi padennek moarvat, klaskit diwezhatoc'h.</li> </ul>">
 
 <!ENTITY sharedLongDesc "
 <ul>
 <li>Dihegerz e vefe al lec'hienn evit un nebeut amzer. Klaskit en-dro diwezhatoc'h.</li>
-<li>Mar n'oc'h ket gouest da verdei&ntilde; war lec'hienno&ugrave; all, gwiriit kennaska&ntilde; hoc'h urzhiataer ouzh ar rouedad.</li>
+<li>Mar n'oc'h ket gouest da verdeiñ war lec'hiennoù all, gwiriit kennaskañ hoc'h urzhiataer ouzh ar rouedad.</li>
 <li>Mar gwaredet eo hoc'h urzhiataer pe ho rouedad gant un tanvoger pe ur proksi, gwiriit &brandShortName; a zo aotreet da kennaskañ war ar rouedad</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Doueta&ntilde;s a lec'hienn dagus !">
-<!ENTITY malwareBlocked.longDesc " <p>Al lec'hienno&ugrave; tagus a glask stalia&ntilde; goulevio&ugrave; da laerezh titouro&ugrave; personel, a arver hoc'h urzhiataer evit taga&ntilde; urzhiataerio&ugrave; all pe mekaat ho reizhiad.</p> <p>Perc'hennourion lec'hienno&ugrave; web o kredi&ntilde; ema&ntilde; ho lec'hienn war roll al lec'hienno&ugrave; tagus dre fazi a c'hall <a href='http://www.stopbadware.org/home/reviewinfo' >goulenn un adlenn</a>.</p>">
+<!ENTITY malwareBlocked.title "Douetañs a lec'hienn dagus !">
+<!ENTITY malwareBlocked.longDesc " <p>Al lec'hiennoù tagus a glask staliañ goulevioù da laerezh titouroù personel, a arver hoc'h urzhiataer evit tagañ urzhiataerioù all pe mekaat ho reizhiad.</p> <p>Perc'hennourion lec'hiennoù web o krediñ emañ ho lec'hienn war roll al lec'hiennoù tagus dre fazi a c'hall <a href='http://www.stopbadware.org/home/reviewinfo' >goulenn un adlenn</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Doueta&ntilde;s a c'hwiberezh dre internet ! ">
-<!ENTITY phishingBlocked.longDesc " <p>Mar bez roet titouro&ugrave; personel ganeoc'h war ar bajennad-ma&ntilde; e tegouezho laero&ntilde;si ho pivelezh pe ditouro&ugrave; all marteze.</p> <p>Ar rizh damrez-ma&ntilde; war ar web a vez arveret er c'hwiberezhio&ugrave; graet 'tago&ugrave; dre higenna&ntilde;' anezho. Drevezet e vez neuze pajennado&ugrave; web pe postelo&ugrave; hoc'h eus fizia&ntilde;s enno.</p> ">
+<!ENTITY phishingBlocked.title "Douetañs a c'hwiberezh dre internet ! ">
+<!ENTITY phishingBlocked.longDesc " <p>Mar bez roet titouroù personel ganeoc'h war ar bajennad-mañ e tegouezho laeroñsi ho pivelezh pe ditouroù all marteze.</p> <p>Ar rizh damrez-mañ war ar web a vez arveret er c'hwiberezhioù graet 'tagoù dre higennañ' anezho. Drevezet e vez neuze pajennadoù web pe posteloù hoc'h eus fiziañs enno.</p> ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak reolennoù a-fet diogelroez ez eus er bajennad o tisaotren d'henn ober.</p>">
 
-<!ENTITY securityOverride.linkText "Pe un nemedenn a vez ouzhpennet ganeoc'h ">
+<!ENTITY securityOverride.linkText "Pe un nemedenn a vez ouzhpennet ganeoc'h…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Lamit kuit ac'hanon deus amañ !">
 <!ENTITY securityOverride.exceptionButtonLabel "Ouzhpennañ un nemedenn…">
 
