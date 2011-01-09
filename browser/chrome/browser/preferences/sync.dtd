@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Synkronointiavaimesi">
 <!ENTITY resetSync.label              "Aloita synkronointi alusta">
 <!ENTITY stopUsingAccount.label       "Lopeta tämän tilin käyttäminen">
+<!ENTITY addDevice.label              "Liitä laite">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Selaimen synkronointi">

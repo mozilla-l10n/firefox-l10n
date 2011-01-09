@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Tilaa sivu">
 <!ENTITY subscribeToPageMenuitem.label "Tilaa sivu…">
 <!ENTITY addCurPagesCmd.label "Lisää välilehdet kirjanmerkkeihin…">
-<!ENTITY showAllBookmarks.label "Näytä kaikki kirjanmerkit…">
+<!ENTITY showAllBookmarks2.label "Näytä kaikki kirjanmerkit">
 <!ENTITY bookmarkAllCmd.label "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Näytä lisää kirjanmerkkejä">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label          "Valitse kaikki">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "V">
-<!ENTITY preferencesCmd.label        "Asetukset…">
-<!ENTITY preferencesCmd.accesskey      "A">
+<!ENTITY preferencesCmd2.label       "Asetukset">
+<!ENTITY preferencesCmd2.accesskey     "A">
 <!ENTITY preferencesCmdUnix.label        "Asetukset">
 <!ENTITY preferencesCmdUnix.accesskey      "A">
 
@@ -548,3 +548,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Synkronoi">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Synkronoi">
+
+<!ENTITY addonBarCloseButton.tooltip  "Piilota lisäosapalkki">

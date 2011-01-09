@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label               "Otsikko">
 <!ENTITY processing.label          "Tuodaan…">
-
-<!ENTITY FieldDiscInputText1.label   "Netscape Communicator 4.x:ssä on yksi sähköpostiosoite jokaiselle kortille, kun taas &brandShortName;ssa on kaksi (koti ja työ).">
-<!ENTITY FieldDiscInputText2.label   "Valitse luokka, johon haluat tallentaa tuodut sähköpostiosoitteet:">
-<!ENTITY FieldDiscWarning.label   "Tätä luokkaa käytetään valitun osoitekirjan jokaisessa kortissa: ">
-<!ENTITY importHome.label   "Koti">
-<!ENTITY importHome.accesskey    "K">
-<!ENTITY importWork.label   "Työ">
-<!ENTITY importWork.accesskey    "T">
