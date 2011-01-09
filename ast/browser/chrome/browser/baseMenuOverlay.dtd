@@ -26,8 +26,6 @@
 <!ENTITY helpFeedbackPage.label "Unviar opinión…">
 <!ENTITY helpFeedbackPage.accesskey "v">
 
-<!ENTITY updateCmd.label                "Guetar anovamientos…">
-
 <!ENTITY preferencesCmdMac.label        "Preferencies…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
