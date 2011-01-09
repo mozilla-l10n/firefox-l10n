@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey "O">
 <!ENTITY openFrameCmdInTab.label "Ouvrir le cadre dans un nouvel onglet">
 <!ENTITY openFrameCmdInTab.accesskey "t">
+<!ENTITY keywordfield.label "Ajouter un mot-clé pour cette recherche…">
+<!ENTITY keywordfield.accesskey "A">
 <!ENTITY showOnlyThisFrameCmd.label "Afficher ce cadre uniquement">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
 <!ENTITY goBackCmd.label "Précédent">
