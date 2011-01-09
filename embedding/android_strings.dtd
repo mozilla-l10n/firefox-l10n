@@ -1,0 +1,13 @@
+<!ENTITY  splash_screen_label "ladataan">
+<!ENTITY  incompatable_cpu_error "Tämä laite ei täytä &brandShortName;in vähimmäisvaatimuksia laitteistolle.">
+<!ENTITY  no_space_to_start_error "Laitteella oleva tila ei riitä &brandShortName;in käynnistymiseen.">
+<!ENTITY  error_loading_file "Tapahtui virhe ladattaessa &brandShortName;in käynnistämiseen tarvittavia tiedostoja">
+
+<!ENTITY  crash_reporter_title "&brandShortName;in kaatumisilmoitusohjelma">
+<!ENTITY  crash_message "&brandShortName; kaatui. Avoinna olleiden välilehtien pitäisi olla listattuna aloitussivulla kun käynnistät &brandShortName;in uudestaan.">
+<!ENTITY  crash_help_message "Auta meitä korjaamaan tämä vika!">
+<!ENTITY  crash_send_report_message "Lähetä Mozillalle kaatumisilmoitus">
+<!ENTITY  crash_include_url "Lähetä avoinna olleen sivun osoite">
+<!ENTITY  crash_close_label "Sulje">
+<!ENTITY  crash_restart_label "Käynnistä &brandShortName; uudestaan">
+<!ENTITY  sending_crash_report "Lähetään ilmoitusta\u2026">
