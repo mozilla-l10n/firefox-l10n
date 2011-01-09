@@ -13,5 +13,6 @@
 <!ENTITY  bookmarkGroup.accesskey "M">
 <!ENTITY  closeTabButton.tooltip "Fermer l'onglet courant">
 <!ENTITY  newTabButton.tooltip "Ouvrir un nouvel onglet">
+<!ENTITY  listAllTabs.tooltip "Afficher la liste de tous les onglets">
 <!ENTITY  undoCloseTab.label "Annuler la fermeture de l'onglet">
 <!ENTITY  undoCloseTab.accesskey "u">
