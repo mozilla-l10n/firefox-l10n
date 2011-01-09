@@ -112,8 +112,6 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY view.detailsMacOSX.label  "Llistar">
-
 <!ENTITY maintenance.label      "Importar y respaldar">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip "Importar y esportar marcadores">
@@ -129,3 +127,17 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "Previsualizar">
 <!ENTITY detailsPane.selectAnItemText.description "Seleicione un elementu p'adicar ya editar les sos propiedaes">
+<!ENTITY find.label "Guetar:">
+<!ENTITY find.accesskey "u">
+<!ENTITY view.label "Ver">
+<!ENTITY view.accesskey "r">
+<!ENTITY byDate.label "Por data">
+<!ENTITY byDate.accesskey "P">
+<!ENTITY bySite.label "Por sitiu">
+<!ENTITY bySite.accesskey "s">
+<!ENTITY byMostVisited.label "Por mayor númberu de visites">
+<!ENTITY byMostVisited.accesskey "v">
+<!ENTITY byLastVisited.label "Por cabera visita">
+<!ENTITY byLastVisited.accesskey "b">
+<!ENTITY byDayAndSite.label "Por data y sitiu">
+<!ENTITY byDayAndSite.accesskey "t">

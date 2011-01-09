@@ -79,6 +79,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Soscribise a esta páxina">
 <!ENTITY subscribeToPageMenuitem.label "Soscribise a esta páxina…">
 <!ENTITY addCurPagesCmd.label "Amestar llingüetes a marcadores…">
+<!ENTITY showAllBookmarks2.label "Amosar tolos marcadores">
 <!ENTITY bookmarkAllCmd.label "Amestar toles llingüetes abiertes a marcadores…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar más marcadores">
 <!ENTITY backCmd.label "Anterior">
@@ -187,6 +188,8 @@
 <!ENTITY selectAllCmd.label "Seleicionar too">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY preferencesCmd2.label "Opciones">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencies">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistory.label "Llimpiar l'historial reciente…">
@@ -412,3 +415,4 @@
 <!ENTITY syncSyncNowItem.label "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey "z">
 <!ENTITY syncToolbarButton.label "Sync">
+<!ENTITY addonBarCloseButton.tooltip "Zarrar la barra de complementos">
