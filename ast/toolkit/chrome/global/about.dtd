@@ -1,19 +1,14 @@
-<!ENTITY about.version                "versión">
-
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008 por">
-<!ENTITY about.copy.linkTitle         "collaborador">
-<!ENTITY about.copy.afterLink         "al Proyeutu Mozilla.">
-
-<!ENTITY about.license.beforeLink     "Lléeme">
-<!ENTITY about.license.linkTitle      "información de llicencia">
-<!ENTITY about.license.afterLink      "pa esti productu">
-
-<!ENTITY about.relnotes.beforeLink    "Llee el">
-<!ENTITY about.relnotes.linkTitle     "notes de la versión">
-<!ENTITY about.relnotes.afterLink     "pa esta versión.">
-
-<!ENTITY about.buildconfig.beforeLink "Mira el">
-<!ENTITY about.buildconfig.linkTitle  "configuración de compilación">
-<!ENTITY about.buildconfig.afterLink  "usada pa esta versión.">
-
-<!ENTITY about.buildIdentifier        "Identificador de compilación:">
+<!ENTITY about.version "versión">
+<!ENTITY about.credits.beforeLink "Ver una llista de ">
+<!ENTITY about.credits.linkTitle "collaboradores">
+<!ENTITY about.credits.afterLink " al proyeutu Mozilla.">
+<!ENTITY about.license.beforeTheLink "Lleer la ">
+<!ENTITY about.license.linkTitle "información de llicencia">
+<!ENTITY about.license.afterTheLink " d'esti productu.">
+<!ENTITY about.relnotes.beforeTheLink "Lleer les ">
+<!ENTITY about.relnotes.linkTitle "notes de publicación">
+<!ENTITY about.relnotes.afterTheLink " d'esta versión.">
+<!ENTITY about.buildconfig.beforeTheLink "Ver la ">
+<!ENTITY about.buildconfig.linkTitle "configuración de compilación">
+<!ENTITY about.buildconfig.afterTheLink " usada pa esta versión.">
+<!ENTITY about.buildIdentifier "Identificador de compilación: ">

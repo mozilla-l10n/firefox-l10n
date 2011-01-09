@@ -2,7 +2,6 @@
 <!ENTITY message.label    "Esti ye un testu d'exemplu">
 <!ENTITY editfield0.label "Nome d'usuariu:"> 
 <!ENTITY editfield1.label "Contraseña:"> 
-<!ENTITY editfield2.label "Confirmar contraseña:"> 
 <!ENTITY checkbox.label   "revisar">
 <!ENTITY copyCmd.label    "Copiar">
 <!ENTITY copyCmd.accesskey "C">

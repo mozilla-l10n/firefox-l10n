@@ -12,6 +12,7 @@
 <!ENTITY mySyncKey.label "La mio clave de Sync">
 <!ENTITY resetSync.label "Restablecer Sync">
 <!ENTITY stopUsingAccount.label "Dexar d'usar esta cuenta">
+<!ENTITY addDevice.label "Amestar un preséu">
 <!ENTITY syncPrefsCaption.label "Sincronizar restolador">
 <!ENTITY syncComputerName.label "Nome del equipu:">
 <!ENTITY syncComputerName.accesskey "N">
