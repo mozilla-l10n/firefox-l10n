@@ -282,7 +282,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Sivupaneeli">
 <!ENTITY appMenuFind.label "Etsi…">
 <!ENTITY appMenuUnsorted.label "Järjestelemättä olevat kirjanmerkit">
-<!ENTITY appMenuWebDeveloper.label "WWW-Kehitystyökalut">
+<!ENTITY appMenuWebDeveloper.label "WWW-kehitystyökalut">
 <!ENTITY appMenuGettingStarted.label "Alkuun pääseminen">
 <!ENTITY appMenuSafeMode.label "Käynnistä uudelleen lisäosat pois päältä…">
 <!ENTITY appMenuSafeMode.accesskey "K">
