@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Titre">
 <!ENTITY processing.label         "Traitement en cours…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x n'a qu'une adresse pour chaque fiche alors que &brandShortName; en a deux (personnelle et professionnelle).">
-<!ENTITY FieldDiscInputText2.label  "Sélectionnez la catégorie dans laquelle vous voulez stocker les adresses importées :">
-<!ENTITY FieldDiscWarning.label  "Cette catégorie sera utilisée pour toutes les entrées du carnet d'adresses sélectionné : ">
-<!ENTITY importHome.label "Personnelle">
-<!ENTITY importHome.accesskey "P">
-<!ENTITY importWork.label "Professionnelle">
-<!ENTITY importWork.accesskey "r">
