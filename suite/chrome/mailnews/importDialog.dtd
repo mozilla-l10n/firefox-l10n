@@ -72,11 +72,3 @@
 
 <!ENTITY title.label                     "Antraštė">
 <!ENTITY processing.label                "Importuojama…">
-
-<!ENTITY FieldDiscInputText1.label       "Programoje „Netscape Communicator 4.x“ galima turėti vieną el. pašto adresą vienoje adresų knygos kortelėje. Tuo tarpu „&brandShortName;“ kortelėje galima turėti du (namų ir darbo).">
-<!ENTITY FieldDiscInputText2.label       "Pasirinkite, kuriai iš šių dviejų kategorijų priskirti importuotus pašto adresus:">
-<!ENTITY FieldDiscWarning.label          "Visi pasirinktos adresų knygos įrašai bus priskirti šiai kategorijai: ">
-<!ENTITY importHome.label                "Namų">
-<!ENTITY importHome.accesskey            "N">
-<!ENTITY importWork.label                "Darbo">
-<!ENTITY importWork.accesskey            "D">
