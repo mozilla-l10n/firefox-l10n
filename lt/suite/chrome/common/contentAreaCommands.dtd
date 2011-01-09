@@ -45,6 +45,8 @@
 <!ENTITY openFrameCmd.accesskey       "A">
 <!ENTITY openFrameCmdInTab.label      "Atverti kadrą naujoje kortelėje">
 <!ENTITY openFrameCmdInTab.accesskey  "t">
+<!ENTITY keywordfield.label           "Įdėti šios paieškos reikšminį žodį…">
+<!ENTITY keywordfield.accesskey       "p">
 <!ENTITY showOnlyThisFrameCmd.label     "Rodyti tik šį kadrą">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
 <!ENTITY goBackCmd.label              "Atgal">
