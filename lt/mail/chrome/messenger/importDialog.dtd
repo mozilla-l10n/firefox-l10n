@@ -79,11 +79,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 
 <!ENTITY title.label                     "Antraštė">
 <!ENTITY processing.label                "Importuojama…">
-
-<!ENTITY FieldDiscInputText1.label       "Vienoje „Netscape Communicator 4.x“ adresų knygos kortelėje buvo galima turėti tik vieną pašto adresą, tačiau „&brandShortName;“ kortelėje jų galima turėti du (namų ir darbo).">
-<!ENTITY FieldDiscInputText2.label       "Pasirinkite, kuriai iš šių dviejų kategorijų priskirti importuotus pašto adresus:">
-<!ENTITY FieldDiscWarning.label          "Visi pasirinktos adresų knygos įrašai bus priskirti šiai kategorijai: ">
-<!ENTITY importHome.label                "Namų">
-<!ENTITY importHome.accesskey            "N">
-<!ENTITY importWork.label                "Darbo">
-<!ENTITY importWork.accesskey            "D">
