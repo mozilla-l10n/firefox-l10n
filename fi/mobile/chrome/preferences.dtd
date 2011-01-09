@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "Tietoja &brandShortName;ista">
 <!ENTITY about.button                              "Avaa sivu">
 <!ENTITY content.title                             "Sisältö">
+<!ENTITY reflowZoom.title                          "Rivitä teksti suurennettaessa">
 <!ENTITY showImages.title                          "Lataa kuvat">
 <!ENTITY enableJavaScript.title                    "Salli JavaScript-komentosarjat">
 <!ENTITY enablePlugins.title                       "Salli liitännäiset">

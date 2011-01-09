@@ -37,13 +37,22 @@
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Hae päivityksiä">
 <!ENTITY updates.checkForUpdates.accesskey    "H">
-<!ENTITY updates.viewUpdates.label            "Näytä viime aikaiset päivitykset">
+<!ENTITY updates.viewUpdates.label            "Näytä viimeiset päivitykset">
 <!ENTITY updates.viewUpdates.accesskey        "N">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Päivitä lisäosat automaattisesti">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "u">
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Palauta kaikki lisäosat päivittymään automaattisesti">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Aseta kaikki lisäosat päivittymään automaattisesti">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "P">
-<!ENTITY updates.resetUpdatesToManual.label          "Palauta kaikki lisäosat päivittymään vain käsin">
+<!ENTITY updates.resetUpdatesToManual.label          "Aseta kaikki lisäosat päivittymään vain käsin">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "k">
 <!ENTITY updates.updating.label               "Päivitetään lisäosia">
 <!ENTITY updates.installed.label              "Lisäosat on päivitetty.">

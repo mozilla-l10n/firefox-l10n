@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Tervetuloa! Jos et ole aikaisemmin käyttänyt &syncBrand.fullName.label; -palvelua aikaisemmin, sinun tarvitsee luoda uusi tili.">
 <!ENTITY button.createNewAccount.label "Luo uusi tili">
-<!ENTITY button.haveAccount.label "Minulla on jo &syncBrand.fullName.label; -tili">
+<!ENTITY setup.haveAccount.label "Minulla on jo &syncBrand.fullName.label; -tili.">
+<!ENTITY button.connect.label    "Yhdistä">
 
 <!ENTITY setup.choicePage.title.label     "Oletko aiemmin käyttänyt &syncBrand.fullName.label; -palvelua?">
 <!ENTITY setup.choicePage.new.label       "En ole aiemmin käyttänyt &syncBrand.shortName.label; -palvelua">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Palvelin">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; -palvelin">
-<!ENTITY serverType.custom.label    "Käytä omaa palvelinta">
-<!ENTITY signIn.account.label       "Sähköpostiosoite / käyttäjätunnus">
-<!ENTITY signIn.account.accesskey   "S">
+<!ENTITY serverType.custom2.label   "Käytä omaa palvelinta…">
+<!ENTITY signIn.account2.label      "Tili">
+<!ENTITY signIn.account2.accesskey  "T">
 <!ENTITY signIn.password.label      "Salasana">
 <!ENTITY signIn.password.accesskey  "a">
-<!ENTITY signIn.serverURL.label     "Palvelimen osoite">
-<!ENTITY signIn.serverURL.accesskey "P">
+<!ENTITY signIn.syncKey.label       "Synkronointiavain">
+<!ENTITY signIn.syncKey.accesskey   "S">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Tilin tiedot">
@@ -43,8 +44,6 @@
 <!ENTITY syncKeyEntry.label        "Synkronointiavaimesi">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncKeyGenerate.label     "Luo">
-<!ENTITY syncKeyStrength.label     "Vahvuus:">
-<!ENTITY syncKeyHelp.label         "Mitä vahvuus tarkoittaa?">
 <!ENTITY syncKeyBackup.description "Tarvitset synkronointiavaintasi kun haluat liittää toisia laitteita &syncBrand.fullName.label; -tiliisi. Otathan siis avaimesta varmuuskopion. Emme voi auttaa sinua palauttamaan hävinnyttä synkronointiavainta.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tulosta…">
@@ -54,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Todista, että et ole robotti">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Liitä laite">
+<!ENTITY addDevice.showMeHow.label          "Näytä minulle kuinka.">
+<!ENTITY addDevice.dontHaveDevice.label     "Laite ei ole mukanani">
+<!ENTITY addDevice.setup.description.label  "Aktivoi laitteen synkronointi avaamalla siinä &syncBrand.shortName.label;in asetukset ja valitse &#x0022;Liitä laite&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Kirjoita sen jälkeen seuraava koodi:">
+<!ENTITY addDevice.dialog.description.label "Aktivoi uuden laitteesi synkronointi avaamalla siinä &syncBrand.shortName.label;in asetukset ja valitse &#x0022;Yhdistä.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Kirjoita laitteen antama koodi:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Yritä uudestaan.">
+<!ENTITY addDevice.dialog.successful.label  "Laitteen liittäminen onnistui. Ensimmäinen synkronointi voi kestää useita minuutteja ja se suoritetaan taustalla.">
+<!ENTITY addDevice.dialog.syncKey.label     "Kirjoita synkronointiavaimesi aktivoidaksesi laitteen. Kirjoita ylös tai tulosta tämä avain ja ota se mukaasi.">
+<!ENTITY addDevice.dialog.connected.label   "Laite liitetty">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Anna tilitiedot">
-<!ENTITY resetPassword.label          "Tyhjennä salasana">
-<!ENTITY connecting.label             "Yhdistetään…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Anna synkronointiavaimesi">
-<!ENTITY setup.existingSyncKeyPage.description "Synkronointiavain luotiin sinulle tai kirjoitit oman avain kun ensimmäisen kerran kirjauduit &syncBrand.fullName.label; -palveluun. Synkronointiavaimesi ei ole sama kuin salasanasi.">
-<!ENTITY existingSyncKeyHelp.description "Voit tarkistaa tallennetun synkronointiavaimesi toiselta laitteeltasi valitsemalla Tallennetut salasanat Tietosuoja-paneelista. Jos et vieläkään löydä oikeaa synkronointiavaintasi, voit nollata sen. Synkronointiavaimen nollaaminen poistaa myös kaikki palvelimelle tallennetut tiedot.">
-<!ENTITY lostSyncKey.label            "Synkronointiavaimeni on hukkunut">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Kirjaudu sisään">
+<!ENTITY existingSyncKey.description "Voit tarkistaa synkronointiavaimesi avaamalla &syncBrand.shortName.label;in asetukset toisella laitteellasi ja valitsemalla &#x0022;Hallinnoi tiliä&#x0022; ja &#x0022;Synkronointiavaimeni&#x0022;.">
 <!ENTITY verifying.label              "Todennetaan…">
+<!ENTITY resetPassword.label          "Tyhjennä salasana">
+<!ENTITY lostSyncKey.label            "Synkronointiavaimeni on hukkunut">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Synkronointiasetukset">

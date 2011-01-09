@@ -741,7 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingError1.label "Tämä ei ole huijausyritys">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Viestin lähettäjä on pyytänyt vastaanottokuittausta. nLähetetäänkö vastaanottokuittaus?">
+<!ENTITY mdnBarMessage.label "Viestin lähettäjä on pyytänyt vastaanottokuittausta. Lähetetäänkö vastaanottokuittaus?">
 <!ENTITY mdnBarIgnoreButton.label "Älä lähetä">
 <!ENTITY mdnBarSendButton.label "Lähetä kuittaus">
 

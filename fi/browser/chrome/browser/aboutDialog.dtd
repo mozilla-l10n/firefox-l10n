@@ -6,7 +6,7 @@
 <!ENTITY community.middle2          "; ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "kansainvälinen yhteisö">
-<!ENTITY community.end2             ", joka pyrkii kehittämään Internettiä. Uskomme, että Internetin tulisi olla avoin, julkinen ja kaikkien käytettävissä rajoituksitta.">
+<!ENTITY community.end2             ", joka pyrkii kehittämään Internetiä. Uskomme, että Internetin tulisi olla avoin, julkinen ja kaikkien käytettävissä rajoituksitta.">
 
 <!ENTITY contribute.start           "Kuulostaako hyvältä? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
