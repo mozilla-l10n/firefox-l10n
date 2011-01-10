@@ -1,4 +1,0 @@
-<!ENTITY startDescriptionText.label "Un sitiu intentó abrir una ventana emerxente ensin permisu. &brandShortName; zarró automáticamente esa ventana.">
-<!ENTITY endDescription.label              "Pues calcar nesti iconu pa ver los sitios que bloquió &brandShortName; y dexar qu'esos sitios abran ventanes emerxentes si se requieren pa que'l sitiu funcione correutamente.">
-<!ENTITY caption.label "Tocante al bloquéu de ventanes emerxentes">
-<!ENTITY done.label "Fecho">
