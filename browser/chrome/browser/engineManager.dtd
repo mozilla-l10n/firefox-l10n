@@ -6,11 +6,11 @@
 <!ENTITY  columnLabel.keyword       "Кључна реч">
 
 <!-- Buttons -->
-<!ENTITY  up.label                  "Subir">
+<!ENTITY  up.label                  "На горе">
 <!ENTITY  up.accesskey              "U">
-<!ENTITY  dn.label                  "Bajar">
+<!ENTITY  dn.label                  "На доле">
 <!ENTITY  dn.accesskey              "D">
-<!ENTITY  remove.label              "Quitar">
+<!ENTITY  remove.label              "Избриши">
 <!ENTITY  remove.accesskey          "R">
 <!ENTITY  edit.label                "Уреди кључну реч…">
 <!ENTITY  edit.accesskey            "t">

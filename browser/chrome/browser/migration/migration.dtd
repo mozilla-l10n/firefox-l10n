@@ -5,7 +5,7 @@
 <!ENTITY importFromUnix.label           "Увези подешавања, везе, каталоге, лозинке и друге податке из:">
 <!ENTITY importFromBookmarks.label      "Увези забелешке из програма:">
 
-<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.label             "Микрософтов интернет експлорер (Microsoft Internet Explorer)">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird или Phoenix">
 <!ENTITY importFromPhoenix.accesskey    "P">

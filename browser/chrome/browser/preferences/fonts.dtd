@@ -64,6 +64,6 @@
 <!ENTITY  allowPagesToUse.label                   "Дозволи странама да користе своје фонтове, уместо горе датог избора">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY languages.customize.Charset.grouplabel         "קידוד תווים">
+<!ENTITY languages.customize.Charset.grouplabel         "Кодирање знакова">
 <!ENTITY languages.customize.DefaultCharset.label       "Подразумевано кодирање знакова">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "з">

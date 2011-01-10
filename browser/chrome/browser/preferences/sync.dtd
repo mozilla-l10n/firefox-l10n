@@ -8,7 +8,7 @@
 <!ENTITY currentAccount.label         "Тренутни налог:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Надоградње">
+<!ENTITY updatePass.label             "Обнављања">
 <!ENTITY resetPass.label              "Поништи">
 
 <!-- Manage Account -->

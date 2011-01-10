@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.label        "Помоћ"> 
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct.label       "О програму &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY aboutProduct.accesskey   "a">
 <!ENTITY productHelp.label        "Помоћ за &brandShortName;">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "За кориснике Интернет експлорера">
@@ -24,7 +24,7 @@
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
 <!ENTITY helpTroubleshootingInfo.label      "Информације о решавању проблема">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.accesskey  "И">
 
 <!ENTITY helpFeedbackPage.label      "Пошаљи повратне информације">
 <!ENTITY helpFeedbackPage.accesskey  "S">

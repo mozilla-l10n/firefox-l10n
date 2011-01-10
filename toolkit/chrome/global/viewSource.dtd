@@ -58,7 +58,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReduce.label "Умањи">
 <!ENTITY menu_textReduce.accesskey "D">
 <!ENTITY menu_textReset.label "Средњи">
-<!ENTITY menu_textReset.accesskey "N">
+<!ENTITY menu_textReset.accesskey "Н">
 
 <!ENTITY findOnCmd.label     "Нађи на овој страни…">
 <!ENTITY findOnCmd.accesskey "F">

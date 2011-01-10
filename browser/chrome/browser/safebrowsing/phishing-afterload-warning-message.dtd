@@ -17,10 +17,10 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Пријављен је напад са странице!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Пријављено је се са веб странице на <span id='malware_sitename'/> врше напади, па је блокирана, на основу ваших подешавања безбедности.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Странице са којих се напада обично инсталирају програме који краду Ваше приватне информације, користе Ваш рачунар да би напали друге или оштећују систем.</p><p>Неки напади намерно шире штетан софтвер, али многи су угрожени без знања или дозволе њихових власника.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Страница <span id='malware_sitename'/> је пријављена као злонамерна, па зато блокирана на основу Ваших безбедносних подешавања.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Злонамерне странице обично инсталирају програме који краду Ваше приватне информације, користе Ваш рачунар да за нападе на друге или оштећују систем.</p><p>Неки напади намерно шире штетан софтвер, али многи су угрожени без знања или дозволе њихових власника.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Познати мрежни фалсификат!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Веб страница на <span id='phishing_sitename'/> је пријављена као фалсификат, па је блокирана, на основу Ваших подешавања безбедности.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Веб страница на <span id='phishing_sitename'/> је пријављена као фалсификат, па је блокирана, на основу Ваших безбедносних подешавања.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Мрежни фалсификати су направљени како би Вас навели да откријете личне или финансијске податке тако што опонашају сајтове којима верујете.</p><p>Остављање података на овој страни може да као последицу има крађу идентитета или неку другу превару.</p>">
