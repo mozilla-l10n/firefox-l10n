@@ -65,8 +65,7 @@
 <!ENTITY Custom.label         "Personalizáu…">
 <!ENTITY ShrinkToFit.label    "Axustar a la páxina">
 <!ENTITY customPrompt.title   "Escala personalizada…">
-
 <!ENTITY homearrow.tooltip    "Primer páxina">
 <!ENTITY endarrow.tooltip     "Cabera páxina">
-<!ENTITY rightarrow.tooltip   "Páxina siguiente">
-<!ENTITY leftarrow.tooltip    "Páxina anterior">
+<!ENTITY nextarrow.tooltip    "Páxina siguiente">
+<!ENTITY previousarrow.tooltip "Páxina anterior">

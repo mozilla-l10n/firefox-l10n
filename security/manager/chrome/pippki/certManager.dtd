@@ -94,10 +94,10 @@
 
 <!ENTITY certmgr.certname                     "Nome del certificáu">
 <!ENTITY certmgr.certserver                   "Sirvidor">
-<!ENTITY certmgr.typesofoverrides             "Esceiciones">
+
 <!ENTITY certmgr.override_lifetime            "Vida útil">
 <!ENTITY certmgr.tokenname                    "Preséu de seguridá">
-<!ENTITY certmgr.purpose                      "Envises">
+
 <!ENTITY certmgr.issued                       "Emitíu el">
 <!ENTITY certmgr.expires                      "Espira el">
 <!ENTITY certmgr.email                        "Direición de corréu electrónicu.">
@@ -107,9 +107,9 @@
 <!ENTITY certmgr.close.accesskey              "Z">
 <!ENTITY certmgr.view2.label                  "Ver…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Editar...">
-<!ENTITY certmgr.edit2.accesskey              "i">
-<!ENTITY certmgr.editca.label                 "Editar enfotu de la CA">
+<!ENTITY certmgr.edit3.label                  "Editar confianza…">
+<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.editca.label                 "Editar confianza de la CA">
 <!ENTITY certmgr.editca.accesskey             "f">
 <!ENTITY certmgr.add.label                    "Amestar">
 <!ENTITY certmgr.add.accesskey                "A">
@@ -117,6 +117,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Desaniciar…">
 <!ENTITY certmgr.delete2.accesskey            "e">
+<!ENTITY certmgr.delete_builtin.label         "Desaniciar o dexar de confiar…">
+<!ENTITY certmgr.delete_builtin.accesskey     "n">
 <!ENTITY certmgr.backup2.label                "Facer copia…">
 <!ENTITY certmgr.backup2.accesskey            "F">
 <!ENTITY certmgr.backupall2.label             "Facer copia de too…">
@@ -133,9 +135,9 @@
 <!ENTITY certmgr.addException.accesskey       "e">
 
 <!ENTITY exceptionMgr.title                   "Amestar esceición de seguridá">
-<!ENTITY exceptionMgr.exceptionButton         "Confirmar esceición de seguridá">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Los bancos, tiendes y otros sitios públicos llexítimos nun-y pidirán facer esto.">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirmar esceición de seguridá">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.supplementalWarning     "Los bancos, tiendes y otros sitios públicos llexítimos nun-y van pedir facer esto.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Sirvidor">
 <!ENTITY exceptionMgr.certlocation.url        "Direición:">
 <!ENTITY exceptionMgr.certlocation.download   "Obtener certificáu">

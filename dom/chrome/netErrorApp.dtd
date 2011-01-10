@@ -1,7 +1,2 @@
-<!-- Error messages that are likely to be overridden by applications go in this
-     file, all messages that likely don't need to tie into app-specific UI
-     should go into netError.dtd -->
-
-<!ENTITY securityOverride.linkText "O pue amestar una esceición…">
-<!ENTITY securityOverride.warningText "<p>Nun debiera amestar una esceición si ta usando una conexón a Internet na que nun se confía dafechu, o si nun ta avezáu a ver una alvertencia d'esti sitiu.</p>
-<p>Si entá deseya amestar una esceición pa esti sitiu, pue facelo na so configuración avanzada de cifráu</p>">
+<!ENTITY securityOverride.linkText "O pues amestar una esceición…">
+<!ENTITY securityOverride.warningContent " <p>Si nun confíes na conexón d'Internet que tas usando, o si nun tas avezáu a ver un avisu sobre esti sirvidor, lo meyor ye que nun amiestes una esceición.</p> <p>Si entá quies amestar una esceición pa esti sitiu, pues facelo na configuración avanzada de cifráu.</p> ">
