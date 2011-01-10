@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "Ihr Sync-Schlüssel">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncKeyGenerate.label     "Generieren">
-<!ENTITY syncKeyStrength.label     "Stärke:">
-<!ENTITY syncKeyHelp.label         "Was bedeutet die Stärke?">
 <!ENTITY syncKeyBackup.description "Sie benötigen den Sync-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Sync-Schlüssel wieder zu erlangen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Drucken…">
