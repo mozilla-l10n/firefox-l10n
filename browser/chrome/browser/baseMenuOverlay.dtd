@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Feedback senden…">
 <!ENTITY helpFeedbackPage.accesskey  "R">
 
-<!ENTITY updateCmd.label                "Nach Updates suchen…">
-
 <!ENTITY preferencesCmdMac.label        "Einstellungen…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
