@@ -4,9 +4,9 @@
 <!ENTITY zoomWindow.label "Изменить масштаб">
 <!ENTITY windowMenu.label "Окно">
 <!ENTITY helpMenu.label "Справка">
-<!ENTITY helpMenu.accesskey "п">
+<!ENTITY helpMenu.accesskey "С">
 <!ENTITY helpMenuWin.label "Справка">
-<!ENTITY helpMenuWin.accesskey "п">
+<!ENTITY helpMenuWin.accesskey "С">
 <!ENTITY aboutProduct.label "О &brandShortName;">
 <!ENTITY aboutProduct.accesskey "О">
 <!ENTITY productHelp.label "Справка &brandShortName;">

@@ -35,14 +35,14 @@
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "П">
 <!ENTITY printPreviewCmd.label "Предварительный просмотр">
-<!ENTITY printPreviewCmd.accesskey "р">
+<!ENTITY printPreviewCmd.accesskey "д">
 <!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.accesskey "е">
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY import.label "Импорт…">
 <!ENTITY import.accesskey "И">
 <!ENTITY goOfflineCmd.label "Работать автономно">
-<!ENTITY goOfflineCmd.accesskey "а">
+<!ENTITY goOfflineCmd.accesskey "б">
 <!ENTITY menubarCmd.label "Панель меню">
 <!ENTITY menubarCmd.accesskey "е">
 <!ENTITY navbarCmd.label "Панель навигации">
@@ -130,7 +130,7 @@
 <!ENTITY keywordfield.label "Добавить краткое имя для данного поиска…">
 <!ENTITY keywordfield.accesskey "с">
 <!ENTITY search.label "Поиск в Интернете">
-<!ENTITY search.accesskey "с">
+<!ENTITY search.accesskey "о">
 <!ENTITY downloads.label "Загрузки">
 <!ENTITY downloads.tooltip "Показать ход текущих загрузок">
 <!ENTITY downloads.accesskey "З">
@@ -172,7 +172,7 @@
 <!ENTITY undoCmd.accesskey "О">
 <!ENTITY redoCmd.label "Повторить">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
+<!ENTITY redoCmd.accesskey "р">
 <!ENTITY cutCmd.label "Вырезать">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "В">
@@ -259,7 +259,7 @@
 <!ENTITY viewFrameSourceCmd.label "Исходный код фрейма">
 <!ENTITY viewFrameSourceCmd.accesskey "р">
 <!ENTITY viewPageInfoCmd.label "Информация о странице">
-<!ENTITY viewPageInfoCmd.accesskey "И">
+<!ENTITY viewPageInfoCmd.accesskey "ф">
 <!ENTITY viewFrameInfoCmd.label "Информация о фрейме">
 <!ENTITY viewFrameInfoCmd.accesskey "ц">
 <!ENTITY reloadImageCmd.label "Перезагрузить изображение">
@@ -283,8 +283,8 @@
 <!ENTITY sendPageCmd.label "Отправить ссылку…">
 <!ENTITY sendPageCmd.accesskey "с">
 <!ENTITY savePageCmd.label "Сохранить как…">
-<!ENTITY savePageCmd.accesskey "к">
-<!ENTITY savePageCmd.accesskey2 "х">
+<!ENTITY savePageCmd.accesskey "х">
+<!ENTITY savePageCmd.accesskey2 "р">
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameCmd.label "Сохранить фрейм как…">
 <!ENTITY saveFrameCmd.accesskey "С">

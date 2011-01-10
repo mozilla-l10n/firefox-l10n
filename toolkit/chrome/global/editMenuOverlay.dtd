@@ -5,7 +5,7 @@
 <!ENTITY undoCmd.accesskey "О">
 <!ENTITY redoCmd.label "Повторить">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
+<!ENTITY redoCmd.accesskey "р">
 <!ENTITY cutCmd.label "Вырезать">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "В">
@@ -22,7 +22,7 @@
 <!ENTITY selectAllCmd.accesskey "д">
 <!ENTITY findCmd.label "Найти">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "Н">
+<!ENTITY findCmd.accesskey "а">
 <!ENTITY findAgainCmd.label "Найти ещё раз">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
