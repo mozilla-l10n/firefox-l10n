@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Diese Seite abonnieren">
 <!ENTITY subscribeToPageMenuitem.label "Diese Seite abonnieren…">
 <!ENTITY addCurPagesCmd.label "Lesezeichen für alle Tabs hinzufügen…">
-<!ENTITY showAllBookmarks.label "Alle Lesezeichen anzeigen…">
+<!ENTITY showAllBookmarks2.label "Alle Lesezeichen anzeigen">
 <!ENTITY bookmarkAllCmd.label "Lesezeichen für alle Tabs hinzufügen…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Weitere Lesezeichen anzeigen">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Alles markieren">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "m"> 
-<!ENTITY preferencesCmd.label       "Einstellungen…">
-<!ENTITY preferencesCmd.accesskey     "E"> 
+<!ENTITY preferencesCmd2.label       "Einstellungen">
+<!ENTITY preferencesCmd2.accesskey     "E"> 
 <!ENTITY preferencesCmdUnix.label       "Einstellungen">
 <!ENTITY preferencesCmdUnix.accesskey     "E"> 
 
