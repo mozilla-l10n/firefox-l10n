@@ -162,9 +162,9 @@
 <!ENTITY detail.updateDefault.label           "Հիմնական">
 <!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
 <!ENTITY detail.updateAutomatic.label         "Միացված">
-<!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
+<!ENTITY detail.updateAutomatic.tooltip       "Տեղակայեք թարմացումները ավտոմատ կերպով:">
 <!ENTITY detail.updateManual.label            "Անջատված">
-<!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
+<!ENTITY detail.updateManual.tooltip          "Մի տեղակայեք թարմացումները ավտոմատ կերպով:">
 <!ENTITY detail.home                          "Հիմնական էջ">
 <!ENTITY detail.repository                    "Հավելումների պռոֆիլ">
 <!ENTITY detail.size                          "Չափը">
