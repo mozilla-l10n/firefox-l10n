@@ -1,28 +1,28 @@
-<!ENTITY window.width "36em">
+<!ENTITY window.width                      "46em">
 
-<!ENTITY cookiesonsystem.label "Ово је списак колачића који се чувају на Вашем рачунару:">
-<!ENTITY cookiename.label "Име колачића">
-<!ENTITY cookiedomain.label "Веб сајт">
-<!ENTITY button.removecookie.label "Уклони колачић">
-<!ENTITY button.removecookie.accesskey "У">
-<!ENTITY button.removeallcookies.label "Уклони све колачиће">
+<!ENTITY cookiesonsystem.label             "Ово је списак колачића који се чувају на Вашем рачунару:">
+<!ENTITY cookiename.label                  "Име колачића">
+<!ENTITY cookiedomain.label                "Веб сајт">
+<!ENTITY button.removecookie.label         "Уклони колачић">
+<!ENTITY button.removecookie.accesskey     "У">
+<!ENTITY button.removeallcookies.label     "Уклони све колачиће">
 <!ENTITY button.removeallcookies.accesskey "с">
 
-<!ENTITY props.name.label "Име:">
-<!ENTITY props.value.label "Садржај:">
-<!ENTITY props.domain.label "Рачунар:">
-<!ENTITY props.path.label "Стаза:">
-<!ENTITY props.secure.label "Пошаљи за:">
-<!ENTITY props.expires.label "Истек:">
+<!ENTITY props.name.label                  "Име:">
+<!ENTITY props.value.label                 "Садржај:">
+<!ENTITY props.domain.label                "Рачунар:">
+<!ENTITY props.path.label                  "Стаза:">
+<!ENTITY props.secure.label                "Пошаљи за:">
+<!ENTITY props.expires.label               "Истек:">
 
-<!ENTITY window.title "Колачићи">
-<!ENTITY windowClose.key "w">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY window.title                      "Колачићи">
+<!ENTITY windowClose.key                   "w">
+<!ENTITY focusSearch1.key                  "f">
+<!ENTITY focusSearch2.key                  "k">
 
-<!ENTITY filter.label "Тражи:">
-<!ENTITY filter.accesskey "Т">
+<!ENTITY filter.label                      "Тражи:">
+<!ENTITY filter.accesskey                  "Т">
 
-<!ENTITY button.close.label "Затвори">
-<!ENTITY button.close.accesskey "З">
+<!ENTITY button.close.label                "Затвори">
+<!ENTITY button.close.accesskey            "З">
 

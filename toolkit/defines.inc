@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Српски (sr)
+#define MOZ_LANG_TITLE English (US)

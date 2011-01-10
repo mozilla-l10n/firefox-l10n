@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - избор профила корисника">
+<!ENTITY            windowtitle.label      "&brandShortName; - избор профила корисника">
 
-<!ENTITY profilename.label "Назив профила:">
+<!ENTITY            profilename.label      "Назив профила:">
 
-<!ENTITY start.label "Покретање програма &brandShortName;">
-<!ENTITY exit.label "Крај рада">
+<!ENTITY            start.label            "Покретање програма &brandShortName;">
+<!ENTITY            exit.label             "Крај">
 
-<!ENTITY availprofiles.label "Доступни профили">
+<!ENTITY            availprofiles.label    "Доступни профили">
 
-<!ENTITY newButton.label "Направи профил…">
-<!ENTITY newButton.accesskey "Н">
-<!ENTITY renameButton.label "Преименуј профил…">
-<!ENTITY renameButton.accesskey "П">
-<!ENTITY deleteButton.label "Уклони профил…">
-<!ENTITY deleteButton.accesskey "У">
+<!ENTITY            newButton.label        "Направи профил…">
+<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            renameButton.label     "Преименуј профил…">
+<!ENTITY            renameButton.accesskey "R">
+<!ENTITY            deleteButton.label     "Уклони профил…">
+<!ENTITY            deleteButton.accesskey "D">
+
 <!-- manager entities -->
+<!ENTITY            pmDescription.label    "Програм &brandShortName; чува податке о Вашим подешавањима, поставкама и другим стварима у Вашем профилу.">
 
-<!ENTITY pmDescription.label "Програм &brandShortName; чува податке о Вашим подешавањима, поставкама и другим стварима у Вашем профилу.">
+<!ENTITY            offlineState.label    "Ради ван мреже">
+<!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY offlineState.label "Ради ван мреже">
-<!ENTITY offlineState.accesskey "в">
-
-<!ENTITY autoSelect.label "Не питај при следећем покретању">
-<!ENTITY autoSelect.accesskey "с">
+<!ENTITY            autoSelect.label       "Не питај при следећем покретању">
+<!ENTITY            autoSelect.accesskey   "s">

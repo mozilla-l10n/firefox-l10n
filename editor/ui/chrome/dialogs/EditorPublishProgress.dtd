@@ -35,16 +35,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- Window title -->
+<!ENTITY siteUrl.label         "УРЛ:">
+<!ENTITY docSubdir.label       "Поддиректоријум стране:">
+<!ENTITY otherSubdir.label     "Поддиректоријум за слике:">
 
-<!ENTITY siteUrl.label "УРЛ:">
-<!ENTITY docSubdir.label "Поддиректоријум стране:">
-<!ENTITY otherSubdir.label "Поддиректоријум за слике:">
+<!ENTITY status.label          "Објава…">
+<!ENTITY fileList.label        "Статус објављивања">
+<!ENTITY succeeded.label       "Успешно">
+<!ENTITY failed.label          "Неуспешно">
 
-<!ENTITY status.label "Објава…">
-<!ENTITY fileList.label "Статус објављивања">
-<!ENTITY succeeded.label "Успешно">
-<!ENTITY failed.label "Неуспешно">
-
-<!ENTITY keepOpen "Остави овај прозор отворен пошто се објављивање оконча.">
-<!ENTITY closeButton.label "Затвори">
+<!ENTITY keepOpen              "Остави овај прозор отворен пошто се објављивање оконча.">
+<!ENTITY closeButton.label     "Затвори">

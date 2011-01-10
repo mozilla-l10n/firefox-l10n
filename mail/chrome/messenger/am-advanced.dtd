@@ -1,13 +1,13 @@
 <!-- extracted from am-advanced.xul -->
+
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-
 <!ENTITY smtpServer.label "Подешавања одлазног сервера (SMTP)">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "Иако можете да означите више од једног одлазног сервера (SMTP), то се препоручује само за напредне кориснике.  Постављање више SMTP сервера може да доведе до грешака при слању порука.">
 
-<!ENTITY smtpListAdd.label "Додај…">
-<!ENTITY smtpListAdd.accesskey "Д">
+<!ENTITY smtpListAdd.label  "Додај…">
+<!ENTITY smtpListAdd.accesskey  "Д">
 <!ENTITY smtpListEdit.label "Уреди…">
 <!ENTITY smtpListEdit.accesskey "У">
 <!ENTITY smtpListDelete.label "Уклони">
@@ -18,6 +18,6 @@
 <!ENTITY serverDescription.label "Опис:">
 <!ENTITY serverName.label "Име сервера: ">
 <!ENTITY serverPort.label "Порт: ">
-<!ENTITY userName.label "Кор. име: ">
+<!ENTITY userName.label   "Кор. име: ">
 <!ENTITY connectionSecurity.label "Безбедност везе:">
-<!ENTITY useSecureAuthentication.label "Безбедна аутентикација:">
+<!ENTITY authMethod.label   "Метод за аутентикацију: ">

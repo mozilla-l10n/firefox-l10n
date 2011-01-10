@@ -36,17 +36,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY WindowTitle.label "Уредник напредних поставки">
-<!ENTITY AttName.label "Атрибут:">
-<!ENTITY AttValue.label "Вредност:">
-<!ENTITY PropertyName.label "Особина:">
-<!ENTITY currentattributesfor.label "Атрибути за:">
-<!ENTITY tree.attributeHeader.label "Атрибут">
-<!ENTITY tree.propertyHeader.label "Особина">
-<!ENTITY tree.valueHeader.label "Вредност">
-<!ENTITY tabHTML.label "Атрибути за HTML">
-<!ENTITY tabCSS.label "Врста уравнања">
-<!ENTITY tabJSE.label "JavaScript догађаји">
+<!ENTITY WindowTitle.label              "Уредник напредних поставки">
+<!ENTITY AttName.label                  "Атрибут:">
+<!ENTITY AttValue.label                 "Вредност:">
+<!ENTITY PropertyName.label             "Особина:">
+<!ENTITY currentattributesfor.label     "Атрибути за:">
+<!ENTITY tree.attributeHeader.label     "Атрибут">
+<!ENTITY tree.propertyHeader.label      "Особина">
+<!ENTITY tree.valueHeader.label         "Вредност">
+<!ENTITY tabHTML.label                  "Атрибути за HTML">
+<!ENTITY tabCSS.label                   "Врста уравнања">
+<!ENTITY tabJSE.label                   "JavaScript догађаји">
 
-<!ENTITY editAttribute.label "Изаберите ставку изнад да промените вредност">
-<!ENTITY removeAttribute.label "Уклони">
+<!ENTITY editAttribute.label    "Изаберите ставку изнад да промените вредност">
+<!ENTITY removeAttribute.label  "Уклони">

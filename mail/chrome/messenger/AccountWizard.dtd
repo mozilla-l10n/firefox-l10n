@@ -2,8 +2,8 @@
 
 <!ENTITY windowTitle.label "Чаробњак за налоге">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
-<!-- Entities for Account Type page -->
 
+<!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo.label "Да бисте примали поруке прво морате да подесите кориснички налог за пошту или групе.">
 <!ENTITY accountTypeTitle.label "Подешавање новог налога">
@@ -13,13 +13,13 @@
 <!ENTITY accountTypeMail.accesskey "п">
 <!ENTITY accountTypeNews.label "Налог за групе">
 <!ENTITY accountTypeNews.accesskey "г">
-<!-- Entities for Identity page -->
 
+<!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Идентитет">
 <!ENTITY identityDesc.label "Сваки налог има свој идентитет, што је податак који се приказује лицима која примају Ваше поруке.">
-<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Унесите име које желите да се приказује у пољу &quot;From&quot; у вашим одлазним порукама">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -31,8 +31,8 @@
 
 <!ENTITY emailLabel.label "Ел. адреса:">
 <!ENTITY emailLabel.accesskey "Е">
-<!-- Entities for Server page -->
 
+<!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "Подаци о серверу">
 <!ENTITY incomingServerTypeDesc.label "Изаберите врсту сервера ког користите.">
@@ -54,15 +54,15 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
-
 <!ENTITY haveSmtp1.prefix "Ваш тренутни одлазни сервер (SMTP), „">
 <!ENTITY haveSmtp1.suffix2 "‟ ће бити коришћен.  Можете да промените одлазни сервер у подешавањима налога.">
-<!-- Entities for Login page -->
 
+<!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Корисничка имена">
 <!ENTITY usernameDesc.label "Унесите корисничко име које Вам је дао добављач електронске поште ">
@@ -85,16 +85,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Ваш одлазни (SMTP) сервер, „">
 <!ENTITY haveSmtp3.suffix2 "‟ је идентичан као долазни сервер, ваше долазно корисничко име ће бити употребљено за приступ.  Можете променити одлазни сервер у подешавањима налога.">
-<!-- Entities for Account name page -->
 
+<!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Име налога">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Унесите име по коме ћете разазнавати овај налог (на пример, &quot;Work Account&quot;, &quot;Home Account&quot; или &quot;News Account&quot;).">
 <!ENTITY accnameLabel.label "Име налога:">
 <!ENTITY accnameLabel.accesskey "И">
-<!-- Entities for Done (Congratulations) page -->
 
+<!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Честитамо!">
 <!ENTITY completionText.label "Молимо проверите да ли су доле наведени подаци исправни:">

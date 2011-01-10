@@ -20,7 +20,7 @@
 <!ENTITY otherUsersNamespace.accesskey "О">
 <!ENTITY overrideNamespaces.label "Дозволи серверу да занемари ове просторе имена">
 <!ENTITY overrideNamespaces.accesskey "Д">
-<!ENTITY pop3Desc.label "При пријему поште са овог рачунара, користи овај директоријум за нову пошту:">
+<!ENTITY pop3Desc.label "При пријему поште са овог рачунара, користи овај директоријум за нову пошту:" >
 <!ENTITY globalInbox.label "Општи долазни директоријум (Локални директоријум)">
 <!ENTITY globalInbox.accesskey "О">
 <!ENTITY accountDirectory.label "Долазна пошта за овај налог">

@@ -34,17 +34,17 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!-- Box Headings -->
 
-<!ENTITY contact.heading "Контакт">
-<!ENTITY home.heading "Кућа">
-<!ENTITY other.heading "Остало">
-<!ENTITY phone.heading "Телефон">
-<!ENTITY work.heading "Посао">
+<!-- Box Headings -->
+<!ENTITY contact.heading             "Контакт">
+<!ENTITY home.heading                "Кућа">
+<!ENTITY other.heading               "Остало">
+<!ENTITY phone.heading               "Телефон">
+<!ENTITY work.heading                "Посао">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading "Опис">
-<!ENTITY addresses.heading "Адресе">
+<!ENTITY description.heading         "Опис">
+<!ENTITY addresses.heading           "Адресе">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label "Добави мапу">
-<!ENTITY mapIt.tooltip "Прикажи мапу ове адресе са Мреже">
+<!ENTITY mapItButton.label           "Добави мапу">
+<!ENTITY mapIt.tooltip               "Прикажи мапу ове адресе са Мреже">
 

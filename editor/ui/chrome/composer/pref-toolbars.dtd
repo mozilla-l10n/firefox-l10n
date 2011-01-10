@@ -34,38 +34,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.toolbars.title "Алатне траке">
+<!ENTITY pref.toolbars.title    "Алатне траке">
 
-<!ENTITY composition.caption "Прикажи ове дугмиће у траци састављача:">
+<!ENTITY composition.caption    "Прикажи ове дугмиће у траци састављача:">
 
-<!ENTITY new.label "Ново">
-<!ENTITY open.label "Отвори">
-<!ENTITY save.label "Сачувај">
-<!ENTITY publish.label "Објави">
-<!ENTITY preview.label "Прегледај">
-<!ENTITY cut.label "Исеци">
-<!ENTITY copy.label "Умножи">
-<!ENTITY paste.label "Убаци">
-<!ENTITY print.label "Штампај">
-<!ENTITY find.label "Нађи">
-<!ENTITY image.label "Слика">
-<!ENTITY hline.label "Х. линија">
-<!ENTITY table.label "Табела">
-<!ENTITY link.label "Веза">
-<!ENTITY anchor.label "Сидро">
+<!ENTITY new.label              "Ново">
+<!ENTITY open.label             "Отвори">
+<!ENTITY save.label             "Сачувај">
+<!ENTITY publish.label          "Објави">
+<!ENTITY preview.label          "Прегледај">
+<!ENTITY cut.label              "Исеци">
+<!ENTITY copy.label             "Умножи">
+<!ENTITY paste.label            "Убаци">
+<!ENTITY print.label            "Штампај">
+<!ENTITY find.label             "Нађи">
+<!ENTITY image.label            "Слика">
+<!ENTITY hline.label            "Х. линија">
+<!ENTITY table.label            "Табела">
+<!ENTITY link.label             "Веза">
+<!ENTITY anchor.label           "Сидро">
 
-<!ENTITY formatting.caption "Прикажи ове дугмиће у траци за форматирање:">
+<!ENTITY formatting.caption     "Прикажи ове дугмиће у траци за форматирање:">
 
-<!ENTITY smaller.label "Мања">
-<!ENTITY larger.label "Већа">
-<!ENTITY bold.label "Подебљано">
-<!ENTITY bullets.label "Ставке">
-<!ENTITY numbers.label "Бројеви">
-<!ENTITY italic.label "Искошено">
-<!ENTITY outdent.label "Извуци">
-<!ENTITY indent.label "Увуци">
-<!ENTITY underline.label "Подвучено">
+<!ENTITY smaller.label          "Мања">
+<!ENTITY larger.label           "Већа">
+<!ENTITY bold.label             "Подебљано">
+<!ENTITY bullets.label          "Ставке">
+<!ENTITY numbers.label          "Бројеви">
+<!ENTITY italic.label           "Искошено">
+<!ENTITY outdent.label          "Извуци">
+<!ENTITY indent.label           "Увуци">
+<!ENTITY underline.label        "Подвучено">
 
 <!ENTITY absolutePosition.label "Апсолутна позиција">
-<!ENTITY decreaseZIndex.label "Пошаљи у позадину">
-<!ENTITY increaseZIndex.label "Издигни у први план">
+<!ENTITY decreaseZIndex.label   "Пошаљи у позадину">
+<!ENTITY increaseZIndex.label   "Издигни у први план">

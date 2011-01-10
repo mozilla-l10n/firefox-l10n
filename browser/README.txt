@@ -1,3 +1,4 @@
-За податке о постављању, покретању и подешавању Фајерфокса, укључујући
-списак познатих проблема и податке за тражење грешака, погледајте
-адресу: http://getfirefox.com/releases/
+For information about installing, running and configuring Firefox 
+including a list of known issues and troubleshooting information, 
+refer to: http://getfirefox.com/releases/
+

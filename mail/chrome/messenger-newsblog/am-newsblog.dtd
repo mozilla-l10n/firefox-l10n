@@ -1,20 +1,20 @@
-<!ENTITY accountTitle.label "Account Settings">
+<!ENTITY accountTitle.label "Подешавања налога">
 
 <!ENTITY biffStart.label "Проверавај чланке на">
 <!ENTITY biffStart.accesskey "ч">
 <!ENTITY biffEnd.label "мин">
 
-<!ENTITY loginAtStartup.label "Провери чланке при покретању">
+<!ENTITY loginAtStartup.label "Провери чланке при покретању"> 
 <!ENTITY loginAtStartup.accesskey "П">
 
-<!ENTITY useQuickMode.label "Прикажи сажетак чланка уместо учитавања целе стране">
+<!ENTITY useQuickMode.label "Прикажи сажетак чланка уместо учитавања целе стране"> 
 <!ENTITY useQuickMode.accesskey "П">
 
-<!ENTITY manageSubscriptions.label "Управљање праћењима…">
+<!ENTITY manageSubscriptions.label "Управљање праћењима…"> 
 <!ENTITY manageSubscriptions.accesskey "У">
-<!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "Blogs &amp; News Feeds">
-<!ENTITY feeds.wizardShortName "Feeds">
-<!ENTITY feeds.wizardLongName "Blogs &amp; News Feeds">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Блогови &amp; доводи вести">
+<!ENTITY feeds.wizardShortName "Доводи">
+<!ENTITY feeds.wizardLongName "Блогови &amp; доводи вести">
 <!ENTITY feeds.wizardLongName.accesskey "F">

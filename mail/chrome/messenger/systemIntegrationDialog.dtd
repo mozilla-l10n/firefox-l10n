@@ -1,5 +1,5 @@
-<!ENTITY systemIntegration.title "Интеграција система">
-<!ENTITY defaultClient.intro "Користи програм &brandShortName; као изворни клијент за:">
+<!ENTITY systemIntegration.title  "Интеграција система">
+<!ENTITY defaultClient.intro  "Користи програм &brandShortName; као изворни клијент за:">
 
 <!ENTITY email.label "Ел. пошту">
 <!ENTITY newsgroups.label "Групе">

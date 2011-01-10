@@ -1,28 +1,26 @@
-<!ENTITY find.label "Претрага:">
-<!ENTITY find.accesskey "П">
-<!ENTITY expand.label "Рашири">
-<!ENTITY expand.accesskey "Р">
-<!ENTITY collapse.label "Сажми">
-<!ENTITY collapse.accesskey "ж">
+<!ENTITY find.label                "Нађи:">
+<!ENTITY find.accesskey            "S">
+<!ENTITY expand.label              "Рашири">
+<!ENTITY expand.accesskey          "E">
+<!ENTITY collapse.label            "Сабиј">
+<!ENTITY collapse.accesskey        "C">
 <!ENTITY byDate.label "По датуму">
-<!ENTITY byDate.accesskey "д">
+<!ENTITY byDate.accesskey "D">
 <!ENTITY bySite.label "По месту">
-<!ENTITY bySite.accesskey "м">
-<!ENTITY view.label "Преглед">
-<!ENTITY view.accesskey "г">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "Приказ">
+<!ENTITY view.accesskey "w">
 <!ENTITY byMostVisited.label "По посећености">
-<!ENTITY byMostVisited.accesskey "о">
+<!ENTITY byMostVisited.accesskey "V">
 <!ENTITY byLastVisited.label "По последњој посети">
-<!ENTITY byLastVisited.accesskey "П">
+<!ENTITY byLastVisited.accesskey "L">
 <!ENTITY byDayAndSite.label "По датуму и сајту">
-<!ENTITY byDayAndSite.accesskey "а">
+<!ENTITY byDayAndSite.accesskey "t">
 <!ENTITY openLinkInWindow.label "Отвори">
-<!ENTITY openLinkInWindow.accesskey "О">
+<!ENTITY openLinkInWindow.accesskey "O">
 <!ENTITY openInNewTab.label "Отвори у новом језичку">
-<!ENTITY openInNewTab.accesskey "ј">
+<!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "Отвори у новом прозору">
-<!ENTITY openInNewWindow.accesskey "п">
-<!ENTITY bookmarkLink.label "Забележи ову везу…">
-<!ENTITY bookmarkLink.accesskey "З">
-<!ENTITY copyLink.label "Умножи адресу везе">
-<!ENTITY copyLink.accesskey "У">
+<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY copyLink.label "Умножи одредиште везе">
+<!ENTITY copyLink.accesskey "C">

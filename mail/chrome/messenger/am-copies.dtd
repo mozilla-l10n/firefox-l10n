@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "С">
 <!ENTITY fccReplyFollowsParent.label "Смести одговоре у директоријум поруке на коју се одговара">
 <!ENTITY fccReplyFollowsParent.accesskey "С">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Коп. ове ел. адресе:">
+<!ENTITY ccAddress.accesskey "К">
+<!ENTITY ccAddressList.emptytext "Раздвоји адресе запетама">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "сКоп ове адресе:">
 <!ENTITY bccAddress.accesskey "с">
+<!ENTITY bccAddressList.emptytext "Separate addresses with commas">
 <!ENTITY saveMessageDlg.label "Прикажи прозорче са потврдом када се поруке чувају">
 <!ENTITY saveMessageDlg.accesskey "П">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

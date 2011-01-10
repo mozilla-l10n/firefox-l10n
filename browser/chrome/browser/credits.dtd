@@ -1,15 +1,15 @@
-<!ENTITY brandMotto "Поново откријте Интернет">
-<!ENTITY credit.thanks "Посебне захвалнице">
+<!ENTITY brandMotto       "Поново откријте Интернет">
+<!ENTITY credit.thanks    "Посебна захвалност">
 
-<!ENTITY credit.thanks2 "Велико хвала">
-<!ENTITY credit.contributors2 "приложницима">
+<!ENTITY credit.thanks2       "Велико хвала">
+<!ENTITY credit.contributors2 "приложници">
+
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
+<!ENTITY credit.translation "<h3>Превели</h3><ul><li>Чланови српског тима за локализацију</li></ul>">
 
-<!ENTITY credit.translation "">
-
-<!ENTITY credit.memory "У сећање на">
+<!ENTITY credit.memory      "У сећање на">
 <!ENTITY credit.poweredByGeckoReg "Покреће геко (Gecko&reg;)">

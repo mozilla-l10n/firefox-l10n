@@ -36,40 +36,40 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- These strings are for use specifically in the editor's image map dialog. -->
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Уређивање мапе слике">
+
 <!-- Menu Items -->
 <!-- File menu -->
-
-<!ENTITY mapfileMenu.label "File">
-<!ENTITY mapfileMenu.accesskey "f">
-<!ENTITY clearCmd.label "Clear">
+<!ENTITY mapfileMenu.label "Датотека">
+<!ENTITY mapfileMenu.accesskey "F">
+<!ENTITY clearCmd.label "Уклони">
 <!ENTITY clearCmd.accesskey "a">
-<!ENTITY closeCmd.label "Close">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.label "Затвори">
+<!ENTITY closeCmd.accesskey "C">
+
 <!-- Edit menu -->
-
-<!ENTITY mapeditMenu.label "Edit">
-<!ENTITY mapeditMenu.accesskey "e">
-<!ENTITY cutCmd.label "Cut">
+<!ENTITY mapeditMenu.label "Уређивање">
+<!ENTITY mapeditMenu.accesskey "E">
+<!ENTITY cutCmd.label "Исеци">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Paste">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY selectallCmd.label "Select All">
-<!ENTITY selectallCmd.accesskey "s">
-<!ENTITY propsCmd.label "Hotspot Properties">
-<!ENTITY propsCmd.accesskey "h">
-<!-- View menu -->
+<!ENTITY copyCmd.label "Умножи">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Налепи">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY selectallCmd.label "Изабери све">
+<!ENTITY selectallCmd.accesskey "S">
+<!ENTITY propsCmd.label "Поставке жиже">
+<!ENTITY propsCmd.accesskey "H">
 
-<!ENTITY mapviewMenu.label "View">
-<!ENTITY mapviewMenu.accesskey "v">
-<!ENTITY showhideTbarCmd.label "Hide Toolbar">
-<!ENTITY showhideTbarCmd.accesskey "t">
+<!-- View menu -->
+<!ENTITY mapviewMenu.label "Приказ">
+<!ENTITY mapviewMenu.accesskey "V">
+<!ENTITY showhideTbarCmd.label "Сакриј алатну траку">
+<!ENTITY showhideTbarCmd.accesskey "T">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Scale">
 <!ENTITY mapviewScale.accesskey "S">
@@ -82,8 +82,8 @@
 
 <!ENTITY zoominCmd.label "Увећај">
 <!ENTITY zoomoutCmd.label "Умањи">
-<!-- Keys -->
 
+<!-- Keys -->
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "l">

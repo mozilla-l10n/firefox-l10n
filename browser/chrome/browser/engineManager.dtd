@@ -1,25 +1,25 @@
-<!ENTITY engineManager.title "Управљање списком претраживача">
-<!ENTITY engineManager.style "min-width: 36em;">
-<!ENTITY engineManager.intro "Наредни претраживачи су постављени:">
+<!ENTITY  engineManager.title       "Управљање списком претраживача">
+<!ENTITY  engineManager.style       "min-width: 36em;">
+<!ENTITY  engineManager.intro       "Наредни претраживачи су постављени:">
 
-<!ENTITY columnLabel.name "Име">
-<!ENTITY columnLabel.keyword "Кључна реч">
+<!ENTITY  columnLabel.name          "Назив">
+<!ENTITY  columnLabel.keyword       "Кључна реч">
+
 <!-- Buttons -->
+<!ENTITY  up.label                  "Subir">
+<!ENTITY  up.accesskey              "U">
+<!ENTITY  dn.label                  "Bajar">
+<!ENTITY  dn.accesskey              "D">
+<!ENTITY  remove.label              "Quitar">
+<!ENTITY  remove.accesskey          "R">
+<!ENTITY  edit.label                "Уреди кључну реч…">
+<!ENTITY  edit.accesskey            "t">
 
-<!ENTITY up.label "Помери горе">
-<!ENTITY up.accesskey "г">
-<!ENTITY dn.label "Помери доле">
-<!ENTITY dn.accesskey "д">
-<!ENTITY remove.label "Уклони">
-<!ENTITY remove.accesskey "У">
-<!ENTITY edit.label "Уреди кључну реч…">
-<!ENTITY edit.accesskey "У">
+<!ENTITY  addEngine.label           "Набави још претраживача…">
+<!ENTITY  addEngine.accesskey       "a">
 
-<!ENTITY addEngine.label "Набави још претраживача…">
-<!ENTITY addEngine.accesskey "п">
+<!ENTITY  enableSuggest.label       "Предложи резултат">
+<!ENTITY  enableSuggest.accesskey   "S">
 
-<!ENTITY enableSuggest.label "Предложи резултат">
-<!ENTITY enableSuggest.accesskey "р">
-
-<!ENTITY restoreDefaults.label "Врати изворно">
-<!ENTITY restoreDefaults.accesskey "В">
+<!ENTITY  restoreDefaults.label     "Врати изворно">
+<!ENTITY  restoreDefaults.accesskey "e">

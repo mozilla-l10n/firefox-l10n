@@ -35,14 +35,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Labels -->
    
-<!ENTITY newFolderDialog.title "Нов директоријум">
-<!ENTITY name.label "Име:">
-<!ENTITY name.accesskey "И">
-<!ENTITY description.label "Направи као поддиректоријум од:">
-<!ENTITY description.accesskey "Н">
-<!ENTITY folderRestriction1.label "Овај сервер подржава само две посебне врсте директоријума.">
-<!ENTITY folderRestriction2.label "Дозволи да нови директоријум садржи:">
-<!ENTITY foldersOnly.label "Само директоријуме">
-<!ENTITY messagesOnly.label "Само поруке">
+<!-- Labels -->
+<!ENTITY newFolderDialog.title      "Нов директоријум">
+<!ENTITY name.label                 "Име:">
+<!ENTITY name.accesskey             "И">
+<!ENTITY description.label          "Направи као поддиректоријум од:">
+<!ENTITY description.accesskey      "Н">
+<!ENTITY folderRestriction1.label   "Овај сервер подржава само две посебне врсте директоријума.">
+<!ENTITY folderRestriction2.label   "Дозволи да нови директоријум садржи:">
+<!ENTITY foldersOnly.label          "Само директоријуме">
+<!ENTITY messagesOnly.label         "Само поруке">
+<!ENTITY accept.label               "Create Folder">
+<!ENTITY accept.accesskey           "r">

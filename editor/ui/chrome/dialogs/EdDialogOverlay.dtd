@@ -45,7 +45,7 @@
 <!ENTITY makeUrlRelative.label "УРЛ је релативан у односу на место стране">
 <!ENTITY makeUrlRelative.accessKey "Р">
 <!ENTITY makeUrlRelative.tooltip "Промена релативног на апсолутни URL или обратно. Прво морате сачувати страницу како бисте променили.">
-<!-- Shared by Link and Image dialogs -->
 
+<!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Унесите место мрежне странице, локалну датотеку или изаберите именовано сидро или наслов из списка:">
 <!ENTITY LinkURLEditField.accessKey "м">

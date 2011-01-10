@@ -37,88 +37,92 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY pageInfoWindow.width "600">
-<!ENTITY pageInfoWindow.height "500">
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
 
-<!ENTITY copy.key "C">
-<!ENTITY copy.label "Умножи">
-<!ENTITY copy.accesskey "У">
-<!ENTITY selectall.key "A">
-<!ENTITY selectall.label "Изабери све">
-<!ENTITY selectall.accesskey "с">
-<!ENTITY closeWindow.key "л">
+<!ENTITY  copy.key              "К">
+<!ENTITY  copy.label            "Умножи">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "П">
+<!ENTITY  selectall.label       "Изабери све">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "с">
 
-<!ENTITY generalTab "Опште">
-<!ENTITY generalTab.accesskey "O">
-<!ENTITY generalURL "Адреса:">
-<!ENTITY generalType "Врста:">
-<!ENTITY generalMode "Тип приказа:">
-<!ENTITY generalSize "Величина:">
-<!ENTITY generalReferrer "Референтни URL:">
-<!ENTITY generalSource "Извор кеша:">
-<!ENTITY generalModified "Последња измена:">
-<!ENTITY generalEncoding "Кодирање:">
-<!ENTITY generalMetaName "Име">
-<!ENTITY generalMetaContent "Садржај">
-<!ENTITY generalSecurityDetails "Детаљи">
-<!ENTITY generalSecurityDetails.accesskey "D">
+<!ENTITY  generalTab            "Основне поставке">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "Адреса:">
+<!ENTITY  generalType           "Ôrt:">
+<!ENTITY  generalMode           "Тип приказа:">
+<!ENTITY  generalSize           "Величина:">
+<!ENTITY  generalReferrer       "Референтни URL:">
+<!ENTITY  generalSource         "Извор кеша:">
+<!ENTITY  generalModified       "Последња измена:">
+<!ENTITY  generalEncoding       "Кодирање:">
+<!ENTITY  generalMetaName       "Назив">
+<!ENTITY  generalMetaContent    "Садржај">
+<!ENTITY  generalSecurityDetails   "Детаљи">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY mediaTab "Медији">
-<!ENTITY mediaTab.accesskey "M">
-<!ENTITY mediaLocation "Место:">
-<!ENTITY mediaText "Придружени текст:">
-<!ENTITY mediaAltHeader "Текст за замену">
-<!ENTITY mediaAddress "Адреса">
-<!ENTITY mediaType "Врста">
-<!ENTITY mediaSize "Величина">
-<!ENTITY mediaCount "Укупно">
-<!ENTITY mediaDimension "Димензије:">
-<!ENTITY mediaLongdesc "Дуги опис:">
-<!ENTITY mediaBlockImage.accesskey "б">
-<!ENTITY mediaSaveAs "Сачувај као…">
-<!ENTITY mediaSaveAs.accesskey "A">
-<!ENTITY mediaSaveAs2.accesskey "ч">
-<!ENTITY mediaPreview "Преглед медија:">
+<!ENTITY  mediaTab              "Медији">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Адреса:">
+<!ENTITY  mediaText             "Придружени текст:">
+<!ENTITY  mediaAltHeader        "Текст за замену">
+<!ENTITY  mediaAddress          "Адреса">
+<!ENTITY  mediaType             "Тип">
+<!ENTITY  mediaSize             "Величина">
+<!ENTITY  mediaCount            "Укупно">
+<!ENTITY  mediaDimension        "Димензије:">
+<!ENTITY  mediaLongdesc         "Дуги опис:">
+<!ENTITY  mediaBlockImage.accesskey "ж">
+<!ENTITY  mediaSaveAs           "Сачувај као…">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "с">
+<!ENTITY  mediaPreview          "Преглед медија:">
 
-<!ENTITY feedTab "Доводи">
-<!ENTITY feedTab.accesskey "Д">
-<!ENTITY feedSubscribe "Претплата">
-<!ENTITY feedSubscribe.accesskey "п">
+<!ENTITY  feedTab               "Доводе">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Пријави се">
+<!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY permTab "Дозволе">
-<!ENTITY permTab.accesskey "Д">
-<!ENTITY permUseDefault "Користи изворно">
-<!ENTITY permAskAlways "Увек питај">
-<!ENTITY permAllow "Дозволи">
-<!ENTITY permAllowSession "Дозволи за сесију">
-<!ENTITY permBlock "Блокирај">
-<!ENTITY permissionsFor "Дозволе за:">
-<!ENTITY permImage "Учитавај слике">
-<!ENTITY permPopup "Отварај искачуће прозоре">
-<!ENTITY permCookie "Постави колачиће">
-<!ENTITY permInstall "Инсталација продужетака и тема">
-<!ENTITY permGeo "Објави локацију">
+<!ENTITY  permTab               "Дозволе">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Користи изворно">
+<!ENTITY  permAskAlways         "Увек питај">
+<!ENTITY  permAllow             "Дозволи">
+<!ENTITY  permAllowSession      "Дозволи за ову сесију">
+<!ENTITY  permBlock             "Блокирај">
+<!ENTITY  permissionsFor        "Дозволе за:">
+<!ENTITY  permImage             "Учитавај слике">
+<!ENTITY  permPopup             "Отварај искачуће прозоре">
+<!ENTITY  permCookie            "Постави колачиће">
+<!ENTITY  permInstall           "Инсталација продужетака и тема">
+<!ENTITY  permGeo               "Објави локацију">
 
-<!ENTITY securityTab "Безбедност">
-<!ENTITY securityTab.accesskey "н">
-<!ENTITY securityHeader "Безбедносни подаци о овој страни">
-<!ENTITY securityView.certView "Преглед сертификата">
-<!ENTITY securityView.accesskey "ф">
-<!ENTITY securityView.unknown "Непознат">
+<!ENTITY  permIndexedDB              "Одржавај складиште ван мреже">
+<!ENTITY  permClearStorage           "Очисти складиште">
+<!ENTITY  permClearStorage.accesskey "C">
+
+<!ENTITY  securityTab           "безбедности">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Подаци о безбедности ове стране">
+<!ENTITY  securityView.certView "Преглед сертификата">
+<!ENTITY  securityView.accesskey "Н">
+<!ENTITY  securityView.unknown   "Непознато">
 
 
-<!ENTITY securityView.identity.header "Идентитет сајта">
-<!ENTITY securityView.identity.owner "Власник:">
-<!ENTITY securityView.identity.domain "Веб сајт:">
-<!ENTITY securityView.identity.verifier "Проверио:">
+<!ENTITY  securityView.identity.header   "Идентитет сајта">
+<!ENTITY  securityView.identity.owner    "Власник:">
+<!ENTITY  securityView.identity.domain   "Веб сајт:">
+<!ENTITY  securityView.identity.verifier "Проверио:">
 
-<!ENTITY securityView.privacy.header "Приватност и историјат">
-<!ENTITY securityView.privacy.history "Да ли сам овај сајт посетио раније?">
-<!ENTITY securityView.privacy.cookies "Да лиовај сајт чува податке (колачиће) на мом рачунару?">
-<!ENTITY securityView.privacy.viewCookies "Преглед колачића">
-<!ENTITY securityView.privacy.viewCookies.accessKey "г">
-<!ENTITY securityView.privacy.passwords "Да ли чувам иједну лозинку за овај сајт?">
-<!ENTITY securityView.privacy.viewPasswords "Преглед сачуваних лозинки">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "л">
+<!ENTITY  securityView.privacy.header                   "Приватност и историјат">
+<!ENTITY  securityView.privacy.history                  "Да ли сам овај сајт посетио раније?">
+<!ENTITY  securityView.privacy.cookies                  "Да лиовај сајт чува податке (колачиће) на мом рачунару?">
+<!ENTITY  securityView.privacy.viewCookies              "Преглед колачића">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "П">
+<!ENTITY  securityView.privacy.passwords                "Да ли чувам иједну лозинку за овај сајт?">
+<!ENTITY  securityView.privacy.viewPasswords            "Преглед сачуваних лозинки">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "с">
 
-<!ENTITY securityView.technical.header "Технички детаљи">
+<!ENTITY  securityView.technical.header                 "Технички детаљи">

@@ -36,23 +36,23 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 
 <!ENTITY windowTitle.label "Поставке жиже">
 
-<!ENTITY link.label "Веза жиже">
-<!ENTITY urlFieldset.label "URL жиже:">
-<!ENTITY altFieldset.label "Алтернативни текст:">
-<!ENTITY browseButton.label "Преглед…">
-<!ENTITY targetFieldset.label "Подешавања одредишта">
-<!ENTITY target.label "Одредиште">
-<!-- Targets -->
+<!ENTITY link.label				"Веза жиже">
+<!ENTITY urlFieldset.label		"URL жиже:">
+<!ENTITY altFieldset.label		"Алтернативни текст:">
+<!ENTITY browseButton.label		"Преглед…">
+<!ENTITY targetFieldset.label	"Подешавања одредишта">
+<!ENTITY target.label			"Одредиште">
 
-<!ENTITY commonFieldset.label "Честа одредишта:">
-<!ENTITY none.value "(ниједно)">
-<!ENTITY same.value "Исти оквир">
-<!ENTITY whole.value "Цела страна">
-<!ENTITY new.value "Нови прозор">
-<!ENTITY parent.value "Оквир изнад">
+<!-- Targets -->
+<!ENTITY commonFieldset.label	"Честа одредишта:">
+<!ENTITY none.value				"(ниједно)">
+<!ENTITY same.value				"Исти оквир">
+<!ENTITY whole.value			"Цела страна">
+<!ENTITY new.value				"Нови прозор">
+<!ENTITY parent.value			"Оквир изнад">
 

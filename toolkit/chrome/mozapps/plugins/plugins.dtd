@@ -1,25 +1,38 @@
-<!ENTITY pluginWizard.title "Сервис за проналажење додатака">
-<!ENTITY pluginWizard.firstPage.title "Добро дошли у &pluginWizard.title;">
+<!ENTITY pluginWizard.title                                  "Сервис за проналажење додатака">
+<!ENTITY pluginWizard.firstPage.title                        "Добро дошли у &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; проверава који су прикључци доступни…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; проверава који су прикључци доступни…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "Пријем доступних прикључака">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Пријем доступних прикључака">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Доступни су наведени прикључци:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Притисните „Следећа‟ да бисте инсталирали ове прикључке.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Неки прикључци могу да захтевају додатне податке од Вас током инсталације.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Неки прикључци могу да захтевају додатне податке од Вас током инсталације.">
 
-<!ENTITY pluginWizard.licensePage.title "Лиценце прикључка">
-<!ENTITY pluginWizard.licensePage.accept.label "Слажем се.">
-<!ENTITY pluginWizard.licensePage.deny.label "Не слажем се (прикључак неће бити инсталиран).">
+<!ENTITY pluginWizard.licensePage.title                      "Лиценце прикључка">
+<!ENTITY pluginWizard.licensePage.accept.label               "Слажем се.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Не слажем се (прикључак неће бити инсталиран).">
 
-<!ENTITY pluginWizard.installPluginsPage.title "Инсталирам прикључак">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; инсталира прикључке…">
+<!ENTITY pluginWizard.installPluginsPage.title               "Инсталирам прикључак">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; инсталира прикључке…">
 
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; је окончао инсталацију прикључака који недостају:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; је окончао инсталацију прикључака који недостају:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Сазнајте више о прикључцима или ручно пронађите прикључке који недостају.">
-<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; мора да се поново покрене како би прикључци прорадили.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Сазнајте више о прикључцима или ручно пронађите прикључке који недостају.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; мора да се поново покрене како би прикључци прорадили.">
   
-<!ENTITY missingPlugin.label "Притисните овде да преузмете прикључак.">
-<!ENTITY disabledPlugin.label "Прикључак за овај садржај је искључен.  Притисните овде да подесите прикључке.">
-<!ENTITY blockedPlugin.label "Овај прикључак је блокиран ради Ваше безбедности.">
+<!ENTITY missingPlugin.label                                 "Притисните овде да преузмете прикључак.">
+<!ENTITY disabledPlugin.label                                "Прикључак за овај садржај је искључен.  Притисните овде да подесите прикључке.">
+<!ENTITY blockedPlugin.label                                 "Овај прикључак је блокиран ради Ваше безбедности.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Поново учитај страну">
+<!ENTITY reloadPlugin.post                                   " да пробате опет.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Пошаљи извештај о рушењу">
+<!ENTITY report.submitting                                   "Слање извештаја у току…">
+<!ENTITY report.submitted                                    "Извештај је послат.">
+<!ENTITY report.disabled                                     "Слање извештаја је искључено.">
+<!ENTITY report.failed                                       "Слање није успело.">
+<!ENTITY report.unavailable                                  "Извештај није доступан.">

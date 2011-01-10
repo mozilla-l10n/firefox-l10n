@@ -35,15 +35,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Window.title "Садржај">
-<!ENTITY buildToc.label "Направи садржај помоћу:">
-<!ENTITY tag.label "Ознака:">
-<!ENTITY class.label "Класа:">
-<!ENTITY header1.label "Ниво 1">
-<!ENTITY header2.label "Ниво 2">
-<!ENTITY header3.label "Ниво 3">
-<!ENTITY header4.label "Ниво 4">
-<!ENTITY header5.label "Ниво 5">
-<!ENTITY header6.label "Ниво 6">
-<!ENTITY makeReadOnly.label "Забрани измену садржаја">
-<!ENTITY orderedList.label "Означи бројем све уносе у садржај">
+<!ENTITY Window.title        "Садржај">
+<!ENTITY buildToc.label      "Направи садржај помоћу:">
+<!ENTITY tag.label           "Ознака:">
+<!ENTITY class.label         "Класа:">
+<!ENTITY header1.label       "Ниво 1">
+<!ENTITY header2.label       "Ниво 2">
+<!ENTITY header3.label       "Ниво 3">
+<!ENTITY header4.label       "Ниво 4">
+<!ENTITY header5.label       "Ниво 5">
+<!ENTITY header6.label       "Ниво 6">
+<!ENTITY makeReadOnly.label  "Забрани измену садржаја">
+<!ENTITY orderedList.label   "Означи бројем све уносе у садржај">

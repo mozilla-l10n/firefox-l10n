@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!-- Labels -->
 
-<!ENTITY name.label "Име адресара:">
-<!ENTITY name.accesskey "И">
+<!-- Labels -->
+<!ENTITY name.label      "Име адресара:">
+<!ENTITY name.accesskey  "И">

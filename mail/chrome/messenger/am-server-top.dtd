@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, ако је доступна">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "ССЛ/ТЛС">
-<!ENTITY useSecAuth.label "Користи шифровану аутентикацију">
-<!ENTITY useSecAuth.accesskey "а">
+<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Остави поруке на серверу">
 <!ENTITY leaveOnServer.accesskey "с">
 <!ENTITY headersOnly.label "Преузми само заглавља">
@@ -74,5 +74,5 @@
 <!ENTITY browseFolder.label "Преглед…">
 <!ENTITY browseFolder.accesskey "П">
 <!ENTITY newsrcPicker.label "Избор newsrc датотеке">
-<!ENTITY browseNewsrc.label "Browse…">
+<!ENTITY browseNewsrc.label "Потражи…">
 <!ENTITY browseNewsrc.accesskey "e">

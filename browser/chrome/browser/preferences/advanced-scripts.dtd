@@ -35,18 +35,14 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "Напредна подешавања јаваскрипта">
-<!ENTITY window.width "37em">
+<!ENTITY advancedJSDialog.title         "Напредна подешавања јаваскрипта">
+<!ENTITY window.width                   "50em">
 
-<!ENTITY allowScripts.label "Скриптовима се дозвољава:">
+<!ENTITY allowScripts.label             "Скриптовима се дозвољава:">
 
-<!ENTITY moveResizeWindows.label "Премештање/измена прозора">
-<!ENTITY moveResizeWindows.accesskey "ш">
-<!ENTITY raiseLowerWindows.label "Промена редоследа прозора">
-<!ENTITY raiseLowerWindows.accesskey "р">
-<!ENTITY disableContextMenus.label "Укидање или замена контекстних менија">
-<!ENTITY disableContextMenus.accesskey "м">
-<!ENTITY hideStatusBar.label "Сакривање статусне траке">
-<!ENTITY hideStatusBar.accesskey "С">
-<!ENTITY changeStatusBar.label "Промена текста у статусној траци">
-<!ENTITY changeStatusBar.accesskey "т">
+<!ENTITY moveResizeWindows.label        "Премештање/измена прозора">
+<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY raiseLowerWindows.label        "Промена редоследа прозора">
+<!ENTITY raiseLowerWindows.accesskey    "R">
+<!ENTITY disableContextMenus.label      "Укидање или замена контекстних менија">
+<!ENTITY disableContextMenus.accesskey  "D">

@@ -26,4 +26,4 @@
 <!ENTITY choosethisnewsserver.label "изабери овај сервер за групе">
 <!ENTITY helpButton.label "Помоћ">
 <!ENTITY helpButton.accesskey "П">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 

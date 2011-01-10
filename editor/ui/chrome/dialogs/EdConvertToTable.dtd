@@ -34,15 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Претвори у табелу">
-<!ENTITY instructions1.label "Уредник прави нови ред у табели за сваки пасус у избору.">
-<!ENTITY instructions2.label "Изаберите знак који се користи за раздвајање избора по колонама:">
-<!ENTITY commaRadio.label "Запета">
-<!ENTITY spaceRadio.label "Размак">
-<!ENTITY otherRadio.label "Други знак:">
+<!ENTITY instructions1.label   "Уредник прави нови ред у табели за сваки пасус у избору.">
+<!ENTITY instructions2.label   "Изаберите знак који се користи за раздвајање избора по колонама:">
+<!ENTITY commaRadio.label      "Запета">
+<!ENTITY spaceRadio.label      "Размак">
+<!ENTITY otherRadio.label      "Други знак:">
 <!ENTITY deleteCharCheck.label "Обриши сепаратор">
-<!ENTITY collapseSpaces.label "Занемари вишак размака">
+<!ENTITY collapseSpaces.label  "Занемари вишак размака">
 <!ENTITY collapseSpaces.tooltip "Претвори суседне размаке у један сепаратор">

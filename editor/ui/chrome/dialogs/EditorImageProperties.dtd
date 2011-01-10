@@ -34,15 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Поставке слике">
 
 <!ENTITY pixelsPopup.value "тачака">
-<!-- These are in the Location tab panel -->
 
+<!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Место слике:">
 <!ENTITY locationEditField.accessKey "М">
 <!ENTITY locationEditField.tooltip "Унесите име датотеке са сликом или место">
@@ -56,9 +56,9 @@
 <!ENTITY noAltText.accessKey "Н">
 
 <!ENTITY previewBox.label "Преглед слике">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-
 <!ENTITY actualSize.label "Стварна величина:">
 <!ENTITY actualSizeRadio.label "Стварна величина">
 <!ENTITY actualSizeRadio.accessKey "С">
@@ -73,23 +73,23 @@
 <!ENTITY constrainCheckbox.label "Ограничи">
 <!ENTITY constrainCheckbox.accessKey "О">
 <!ENTITY constrainCheckbox.tooltip "Чувај односе величина">
-<!-- These controls are in the Image Map box of the expanded area -->
 
+<!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Мапа слике">
 <!ENTITY removeImageMapButton.label "Уклони">
 <!ENTITY removeImageMapButton.accessKey "У">
 <!ENTITY editImageMapButton.label "Уреди…">
 <!ENTITY editImageMapButton.tooltip "Направи места на слици осетљива на притисак">
-<!-- These are the options for image alignment -->
 
+<!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Уравнај текст са сликом">
 <!ENTITY bottomPopup.value "На врху">
 <!ENTITY topPopup.value "На дну">
 <!ENTITY centerPopup.value "У средини">
 <!ENTITY wrapRightPopup.value "Уравнај удесно">
 <!ENTITY wrapLeftPopup.value "Уравнај улево">
-<!-- These controls are in the Spacing Box -->
 
+<!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Размак">
 <!ENTITY leftRightEditField.label "Лево и десно:">
 <!ENTITY leftRightEditField.accessKey "Л">
@@ -97,12 +97,12 @@
 <!ENTITY topBottomEditField.accessKey "В">
 <!ENTITY borderEditField.label "Попуњена ивица:">
 <!ENTITY borderEditField.accessKey "и">
-<!-- These controls are in the Link Box -->
 
+<!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Прикажи оквир око увезане слике">
 <!ENTITY showImageLinkBorder.accessKey "о">
-<!-- These tabs are currently used in the image input dialog -->
 
+<!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Формулар">
 <!ENTITY imageLocationTab.label "Место">
 <!ENTITY imageDimensionsTab.label "Димензије">

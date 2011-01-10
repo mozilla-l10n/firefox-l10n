@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!-- Labels -->
 
-<!ENTITY newfolderchoosethis.label "изабери овај како родитељски">
-<!ENTITY filemessageschoosethis.label "изабери овај директоријум">
+<!-- Labels -->
+<!ENTITY newfolderchoosethis.label      "изабери овај како родитељски">
+<!ENTITY filemessageschoosethis.label   "изабери овај директоријум">

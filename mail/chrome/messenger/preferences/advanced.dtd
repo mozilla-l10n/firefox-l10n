@@ -1,108 +1,108 @@
-<!ENTITY itemGeneral.label "Опште">
-<!ENTITY itemDisplay.label "Читање и приказ">
-<!ENTITY itemUpdate.label "Освежи">
-<!ENTITY itemNetworking.label "Мрежа и простор на диску">
-<!ENTITY itemCertificates.label "Сертификати">
+<!ENTITY itemGeneral.label       "Опште">
+<!ENTITY itemDisplay.label       "Читање и приказ">
+<!ENTITY itemUpdate.label        "Освежи">
+<!ENTITY itemNetworking.label    "Мрежа и простор на диску">
+<!ENTITY itemCertificates.label  "Сертификати">
+
 <!-- General Settings -->
 
+<!ENTITY enableGlodaSearch.label       "Укључи глобалну претрагу и индексирање">
+<!ENTITY enableGlodaSearch.accesskey   "и">
+<!ENTITY systemIntegration.label       "Интеграција система">
+<!ENTITY alwaysCheckDefault.label      "Увек провери да ли је &brandShortName; изворни читач поште при покретању">
+<!ENTITY alwaysCheckDefault.accesskey  "У">
+<!ENTITY searchIntegration.label       "Дозволи програму &searchIntegration.engineName; да претражује поруке">
+<!ENTITY searchIntegration.accesskey   "s">
+<!ENTITY checkNow.label                "Провери сад">
+<!ENTITY checkNow.accesskey            "с">
+<!ENTITY configEditDesc.label          "Напредно подешавање">
+<!ENTITY configEdit.label              "Уређивач подешавања…">
+<!ENTITY configEdit.accesskey          "п">
+<!ENTITY returnReceiptsInfo.label      "Обрада повратница у програму &brandShortName;">
+<!ENTITY showReturnReceipts.label      "Повратнице…">
+<!ENTITY showReturnReceipts.accesskey  "П">
 
-<!ENTITY enableGlodaSearch.label "Укључи глобалну претрагу и индексирање">
-<!ENTITY enableGlodaSearch.accesskey "и">
-<!ENTITY systemIntegration.label "System Integration">
-<!ENTITY alwaysCheckDefault.label "Увек провери да ли је &brandShortName; изворни читач поште при покретању">
-<!ENTITY alwaysCheckDefault.accesskey "У">
-<!ENTITY searchIntegration.label "Allow &searchIntegration.engineName; to search messages">
-<!ENTITY searchIntegration.accesskey "S">
-<!ENTITY checkNow.label "Провери сад">
-<!ENTITY checkNow.accesskey "с">
-<!ENTITY configEditDesc.label "Напредно подешавање">
-<!ENTITY configEdit.label "Уређивач подешавања…">
-<!ENTITY configEdit.accesskey "п">
-<!ENTITY returnReceiptsInfo.label "Обрада повратница у програму &brandShortName;">
-<!ENTITY showReturnReceipts.label "Повратнице…">
-<!ENTITY showReturnReceipts.accesskey "П">
 <!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption "Читање">
-<!ENTITY display.caption "Приказ">
-<!ENTITY showCondensedAddresses.label "Показуј само наденуто име за особе из адресара">
+<!ENTITY reading.caption               "Читање">
+<!ENTITY display.caption               "Приказ">
+<!ENTITY showCondensedAddresses.label  "Показуј само наденуто име за особе из адресара">
 <!ENTITY showCondensedAddresses.accesskey "н">
 
-<!ENTITY autoMarkAsRead.label "Аутоматски означи поруке као прочитане">
-<!ENTITY autoMarkAsRead.accesskey "А">
-<!ENTITY markAsReadNoDelay.label "Чим се прикажу">
-<!ENTITY markAsReadNoDelay.accesskey "Ч">
+<!ENTITY autoMarkAsRead.label          "Аутоматски означи поруке као прочитане">
+<!ENTITY autoMarkAsRead.accesskey      "А">
+<!ENTITY markAsReadNoDelay.label       "Чим се прикажу">
+<!ENTITY markAsReadNoDelay.accesskey   "Ч">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "Пошто буду приказане">
-<!ENTITY markAsReadDelay.accesskey "п">
-<!ENTITY secondsLabel.label "s">
-<!ENTITY openMsgIn.label "Отвори поруке у:">
-<!ENTITY openMsgInNewTab.label "A new tab">
-<!ENTITY openMsgInNewTab.accesskey "t">
-<!ENTITY reuseExpRadio0.label "новом прозору за поруку">
-<!ENTITY reuseExpRadio0.accesskey "н">
-<!ENTITY reuseExpRadio1.label "постојећем прозору за поруку">
-<!ENTITY reuseExpRadio1.accesskey "ј">
-<!ENTITY closeMsgWindowOnDelete.label "Close message window on delete">
+<!ENTITY markAsReadDelay.label         "Пошто буду приказане">
+<!ENTITY markAsReadDelay.accesskey     "п">
+<!ENTITY secondsLabel.label            "s">
+<!ENTITY openMsgIn.label               "Отвори поруке у:">
+<!ENTITY openMsgInNewTab.label         "A new tab">
+<!ENTITY openMsgInNewTab.accesskey     "t">
+<!ENTITY reuseExpRadio0.label          "новом прозору за поруку">
+<!ENTITY reuseExpRadio0.accesskey      "н">
+<!ENTITY reuseExpRadio1.label          "постојећем прозору за поруку">
+<!ENTITY reuseExpRadio1.accesskey      "ј">
+<!ENTITY closeMsgWindowOnDelete.label  "Close message window on delete">
 <!ENTITY closeMsgWindowOnDelete.accesskey "C">
+
 <!-- Update -->
+<!ENTITY autoCheck.label                "Самостално проверавај унапређења за:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "Постављени додаци">
+<!ENTITY enableAddonsUpdate.accesskey   "д">
+<!ENTITY whenUpdatesFound.label         "Када је пронађено унапређење за &brandShortName;,">
+<!ENTITY modeAskMe.label                "Питај ме шта желим да урадим">
+<!ENTITY modeAskMe.accesskey            "П">
+<!ENTITY modeAutomatic.label            "Самостално прими и постави унапређење">
+<!ENTITY modeAutomatic.accesskey        "п">
+<!ENTITY modeAutoAddonWarn.label        "Упозори ме ако ће ово да искључи ма који додатак">
+<!ENTITY modeAutoAddonWarn.accesskey    "з">
+<!ENTITY showUpdates.label              "Прикажи историјат унапређења">
+<!ENTITY showUpdates.accesskey          "у">
 
-<!ENTITY autoCheck.label "Самостално проверавај унапређења за:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "Постављени додаци">
-<!ENTITY enableAddonsUpdate.accesskey "д">
-<!ENTITY whenUpdatesFound.label "Када је пронађено унапређење за &brandShortName;,">
-<!ENTITY modeAskMe.label "Питај ме шта желим да урадим">
-<!ENTITY modeAskMe.accesskey "П">
-<!ENTITY modeAutomatic.label "Самостално прими и постави унапређење">
-<!ENTITY modeAutomatic.accesskey "п">
-<!ENTITY modeAutoAddonWarn.label "Упозори ме ако ће ово да искључи ма који додатак">
-<!ENTITY modeAutoAddonWarn.accesskey "з">
-<!ENTITY showUpdates.label "Прикажи историјат унапређења">
-<!ENTITY showUpdates.accesskey "у">
 <!-- Networking and Disk Space -->
-
-<!ENTITY showSettings.label "Подешавања…">
-<!ENTITY showSettings.accesskey "ш">
-<!ENTITY proxiesConfigure.label "Подешавање начина везе са Интернетом за &brandShortName;">
-<!ENTITY connectionsInfo.caption "Веза">
-<!ENTITY offlineInfo.caption "Неповезан рад">
-<!ENTITY offlineInfo.label "Подешавање неповезаног рада">
-<!ENTITY showOffline.label "Неповезан рад…">
-<!ENTITY showOffline.accesskey "Н">
+<!ENTITY showSettings.label            "Подешавања…">
+<!ENTITY showSettings.accesskey        "ш">
+<!ENTITY proxiesConfigure.label        "Подешавање начина везе са Интернетом за &brandShortName;">
+<!ENTITY connectionsInfo.caption       "Веза">
+<!ENTITY offlineInfo.caption           "Неповезан рад">
+<!ENTITY offlineInfo.label             "Подешавање неповезаног рада">
+<!ENTITY showOffline.label             "Неповезан рад…">
+<!ENTITY showOffline.accesskey         "Н">
 
 <!ENTITY Diskspace "Простор на диску">
 <!ENTITY offlineCompact.label "Сажми директоријуме када то штеди више од">
 <!ENTITY offlineCompact.accesskey "С">
-<!ENTITY kb.label "KB">
+<!ENTITY kb.label "KiB">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+<!ENTITY useCacheBefore.label            "Користи до">
+<!ENTITY useCacheBefore.accesskey        "К">
+<!ENTITY useCacheAfter.label             "MB простора за кеш">
+<!ENTITY clearCacheNow.label             "Очисти сад">
+<!ENTITY clearCacheNow.accesskey         "О">
 
-<!ENTITY useCacheBefore.label "Користи до">
-<!ENTITY useCacheBefore.accesskey "К">
-<!ENTITY useCacheAfter.label "MB простора за кеш">
-<!ENTITY clearCacheNow.label "Очисти сад">
-<!ENTITY clearCacheNow.accesskey "О">
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Када сервер затражи мој лични сертификат:">
+<!ENTITY certs.auto                      "Пошаљи самостално">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Питај ме сваки пут">
+<!ENTITY certs.ask.accesskey             "A">
 
-<!ENTITY certSelection.description "When a server requests my personal certificate:">
-<!ENTITY certs.auto "Select one automatically">
-<!ENTITY certs.auto.accesskey "m">
-<!ENTITY certs.ask "Ask me every time">
-<!ENTITY certs.ask.accesskey "A">
-
-<!ENTITY viewCertificates.label "Преглед сертификата">
-<!ENTITY viewCertificates.accesskey "с">
-<!ENTITY viewCRLs.label "Листа опозива">
-<!ENTITY viewCRLs.accesskey "п">
-<!ENTITY validation.label "Валидација">
-<!ENTITY validation.accesskey "В">
-<!ENTITY viewSecurityDevices.label "Безбедносни уређаји">
-<!ENTITY viewSecurityDevices.accesskey "з">
+<!ENTITY viewCertificates.label         "Преглед сертификата">
+<!ENTITY viewCertificates.accesskey     "с">
+<!ENTITY viewCRLs.label                 "Листа опозива">
+<!ENTITY viewCRLs.accesskey             "п">
+<!ENTITY validation.label               "Валидација">
+<!ENTITY validation.accesskey           "В">
+<!ENTITY viewSecurityDevices.label      "Безбедносни уређаји">
+<!ENTITY viewSecurityDevices.accesskey  "з">

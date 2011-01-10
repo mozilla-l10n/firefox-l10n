@@ -35,21 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title "Праћење">
-<!ENTITY subscribeButton.label "Прати">
-<!ENTITY subscribeButton.accesskey "П">
-<!ENTITY unsubscribeButton.label "Откажи праћење">
-<!ENTITY unsubscribeButton.accesskey "О">
-<!ENTITY newGroupsTab.label "Нове групе">
-<!ENTITY newGroupsTab.accesskey "Н">
-<!ENTITY refreshButton.label "Освежи">
-<!ENTITY refreshButton.accesskey "О">
-<!ENTITY stopButton.label "Крај">
-<!ENTITY stopButton.accesskey "К">
-<!ENTITY server.label "Налог:">
-<!ENTITY server.accesskey "Н">
-<!ENTITY subscribedHeader.label "Праћење">
+<!ENTITY subscribeDialog.title        "Праћење">
+<!ENTITY subscribeButton.label        "Прати">
+<!ENTITY subscribeButton.accesskey    "П">
+<!ENTITY unsubscribeButton.label      "Откажи праћење">
+<!ENTITY unsubscribeButton.accesskey  "О">
+<!ENTITY newGroupsTab.label           "Нове групе">
+<!ENTITY newGroupsTab.accesskey       "Н">
+<!ENTITY refreshButton.label          "Освежи">
+<!ENTITY refreshButton.accesskey      "О">
+<!ENTITY stopButton.label             "Крај">
+<!ENTITY stopButton.accesskey         "К">
+<!ENTITY server.label                 "Налог:">
+<!ENTITY server.accesskey             "Н">
+<!ENTITY subscribedHeader.label       "Праћење">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label "Покажи ставке које садрже:">
-<!ENTITY namefield.accesskey "П">
+<!ENTITY messagesHeader.label         "Поруке"> -->
+<!ENTITY namefield.label              "Покажи ставке које садрже:">
+<!ENTITY namefield.accesskey          "П">
