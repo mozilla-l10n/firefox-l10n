@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 
 <!ENTITY title.label              "Titel">
 <!ENTITY processing.label         "Importeren…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x heeft één e-mailadres op elke kaart, terwijl &brandShortName; er twee heeft (Thuis en Werk).">
-<!ENTITY FieldDiscInputText2.label  "Selecteer de categorie waarin u de geïmporteerde e-mailadressen wilt opslaan:">
-<!ENTITY FieldDiscWarning.label  "Deze categorie zal worden gebruikt voor alle gegevens van het geselecteerde adresboek: ">
-<!ENTITY importHome.label        "Thuis">
-<!ENTITY importHome.accesskey    "T">
-<!ENTITY importWork.label        "Werk">
-<!ENTITY importWork.accesskey    "W">
