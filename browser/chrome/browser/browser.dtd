@@ -276,8 +276,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Նշել Ամբողջը">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd2.label       "Options">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.label       "Հատկանիշներ">
+<!ENTITY preferencesCmd2.accesskey     "Հ">
 <!ENTITY preferencesCmdUnix.label       "Նախըտրանքներ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
