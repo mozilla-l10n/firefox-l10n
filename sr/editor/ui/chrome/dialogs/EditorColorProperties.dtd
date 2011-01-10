@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Боје страна и позадине">
 <!ENTITY pageColors.label "Боје страна">
 <!ENTITY defaultColorsRadio.label "Подразумеване боје у читачу (не постављај боје на страници)">

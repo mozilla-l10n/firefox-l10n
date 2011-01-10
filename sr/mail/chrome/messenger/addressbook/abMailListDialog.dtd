@@ -35,23 +35,23 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
+
 <!-- Title -->
-
-<!ENTITY mailListWindow.title "Дописно друштво">
+<!ENTITY mailListWindow.title           "Дописно друштво">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label "Додај у:">
+<!ENTITY addToAddressBook.label         "Додај у:">
 
-<!ENTITY ListName.label "Име друштва: ">
-<!ENTITY ListNickName.label "Надимак друштва: ">
-<!ENTITY ListDescription.label "Опис: ">
+<!ENTITY ListName.label                 "Име друштва: ">
+<!ENTITY ListNickName.label             "Надимак друштва: ">
+<!ENTITY ListDescription.label          "Опис: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Унесите електронске адресе како бисте их додали у дописно друштво:">
-<!ENTITY UpButton.label "Горе">
-<!ENTITY DownButton.label "Доле">
-<!-- Access Keys -->
+<!ENTITY AddressTitle.label             "Унесите електронске адресе како бисте их додали у дописно друштво:">
+<!ENTITY UpButton.label                 "Горе">
+<!ENTITY DownButton.label               "Доле">
 
-<!ENTITY addToAddressBook.accesskey "Д">
-<!ENTITY ListName.accesskey "И">
-<!ENTITY ListNickName.accesskey "Н">
-<!ENTITY ListDescription.accesskey "О">
+<!-- Access Keys -->
+<!ENTITY addToAddressBook.accesskey     "Д">
+<!ENTITY ListName.accesskey             "И">
+<!ENTITY ListNickName.accesskey         "Н">
+<!ENTITY ListDescription.accesskey      "О">
 

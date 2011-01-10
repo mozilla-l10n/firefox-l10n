@@ -1,4 +1,3 @@
-За податке о инсталацији, покретању и подешавању програма Тандерберд
-(Thunderbird), укључујући списак познатих проблема и упутстава за
-њихово решавање, погледајте: http://getthunderbird.com/releases/
-
+For information about installing, running and configuring Thunderbird
+including a list of known issues and troubleshooting information, 
+refer to: http://getthunderbird.com/releases/

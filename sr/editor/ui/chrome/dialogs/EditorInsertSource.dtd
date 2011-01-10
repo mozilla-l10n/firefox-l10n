@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Убаци ХТМЛ">
 <!ENTITY sourceEditField.label "Убаци ХТМЛ ознаке и текст:">
 <!ENTITY example.label "Пример: ">

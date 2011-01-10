@@ -1,3 +1,6 @@
-<!ENTITY feedPage.title "Преглед довода">
-<!ENTITY feedSubscribeNow "Претплати се одмах">
-<!ENTITY feedLiveBookmarks "Живе везе">
+<!ENTITY feedPage.title
+  "Преглед довода">
+<!ENTITY feedSubscribeNow
+  "Претплати се сад">
+<!ENTITY feedLiveBookmarks
+  "Живе забелешке">

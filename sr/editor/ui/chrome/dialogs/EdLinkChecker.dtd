@@ -35,9 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
-<!ENTITY windowTitle.label "Провера места слика и веза">
-<!ENTITY succeeded.label "Успешно">
-<!ENTITY failed.label "Неуспешно">
-<!ENTITY closeButton.label "Затвори">
+<!-- Window title -->
+<!ENTITY windowTitle.label     "Провера места слика и веза">
+<!ENTITY succeeded.label       "Успешно">
+<!ENTITY failed.label          "Неуспешно">
+<!ENTITY closeButton.label     "Затвори">

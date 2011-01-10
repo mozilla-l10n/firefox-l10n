@@ -1,7 +1,7 @@
 <!ENTITY loadError.label "Неуспешно учитавање странице">
-<!ENTITY retry.label "Покушај поново">
-<!-- Specific error messages -->
+<!ENTITY retry.label "Ulitin">
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Неуспешно повезивање">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -12,7 +12,7 @@
 <!ENTITY dnsNotFound.title "Сервер није пронађен">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Проверите грешке у адреси као нпр. <strong>ww</strong>.example.com уместо <strong>www</strong>.example.com</li> <li>Ако није могуће учитавање ниједне стране, проверите подешавања мреже на Вашем систему.</li> <li>Ако је Ваш рачунар заштићен ватробраном (firewall) или посредником (proxy), проверите да ли је програму &brandShortName; дозвољено да приступа интернету.</li> </ul>">
 
-<!ENTITY fileNotFound.title "Датотека није пронађена">
+<!ENTITY fileNotFound.title "Датотека није нађена">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Проверите коришћење великих/малих слова или неке друге грешке у куцању.</li> <li>Проверите да ли је датотека премештена, преименована или избрисана.</li> </ul>">
 
 <!ENTITY generic.title "Захтев није могао да буде обрађен">
@@ -26,12 +26,17 @@
 
 <!ENTITY netOffline.title "Рад ван мреже">
 <!ENTITY netOffline.longDesc "<ul> <li>Дештиклирај &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li> </ul>">
+<!ENTITY netOffline.overrideLongDesc " <p>Ema&ntilde; ar merdeer o labourat gant e vod ezlinenn ha n'hall ket kennaska&ntilde; ouzh an ergorenn bet goulennet.</p><ul><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Lakaat ar merdeer war e vod enlinenn ha klask en-dro.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
 <!ENTITY contentEncodingError.longDesc "<p>Страна коју покушавате да прегледате не може бити приказана јер користи неисправан или неподржан вид компресије.</p><ul><li>Молимо да се обратите власницима сајта и обавестите их о овом проблему.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Небезбедна врста датотеке">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Молимо да се обратите власницима сајта и обавестите их о овом проблему.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Tanpri kontakte mèt sit wèb la yo pou pale yo de pwoblèm sa a.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Веза са сервером је обновљена">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -54,20 +59,24 @@
 <!ENTITY unknownSocketType.title "Неочекиван одговор сервера">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Проверите да ли Ваш рачунар има постављен Лични безбедносни менаџер.</li> <li>Ово може бити проузроковано не стандардном подешавању сервера.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Безбедна веза није успела">
+<!ENTITY nssFailure2.title "Безбедна веза није успостављена">
 <!ENTITY nssFailure2.longDesc "<p>Страна коју покушавате да погледате не може бити приказана јер се аутентичност примљених података не може потврдити.</p><ul><li>Молимо да се обратите власницима веб сајта и обавестите их о овом проблему.</li></ul>">
 
-<!ENTITY nssBadCert.title "Безбедна веза није успела">
+<!ENTITY nssBadCert.title "Безбедна веза није успостављена">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Ово може да буде проблем са подешавањем сервера, или неко можда покушава да се представи као тај сервер.</li> <li>Ако сте се успешно повезали на овај сервер у прошлости, ова грешка може бити привремена па има смисла да касније покушате поново.</li> </ul>">
 
 <!ENTITY malwareBlocked.title "Могући злонамеран сајт!">
 <!ENTITY malwareBlocked.longDesc "<p>Злонамерни сајтови покушавају да инсталирају програме који отимају приватне податке, користе Ваш рачунар за напад на друге, или оштећују Ваш систем.</p> <p>Власници веб сајтова који верују да је њихов сајт пријављен грешком могу да <a href='http://www.stopbadware.org/home/reviewinfo' >захтевају ревизију</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Могућ мрежни фалсификат!">
-<!ENTITY phishingBlocked.longDesc "<p>Унос ма каквих личних података на овој страни може да доведе до крађе идентитета или другог облика преваре.</p> <p>Ова врста мрежних фалсификата се користи у преварама познатим као фишинг (phishing), у којима фалсификоване веб стране опонашају изворе којима верујете.</p>">
+<!ENTITY phishingBlocked.longDesc "<p>Уношење ма каквих личних података на овој страни може да буде узрок крађе идентитета или друге врсте преваре.</p> 
+<p>Ова врста мрежних фалсификата користи се у преварама познатим под именом „фишинг‟ (phishing), при којима се злонамерне веб стране или ел. адресе користе да имитирају изворе којима верујете.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Блокирала политика безбедности садржаја">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Прегледач је спречио ову страницу да се учита на овај начин, јер страница има политику безбедности садржаја која то онемогућава.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
-
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

@@ -1,14 +1,14 @@
 <!ENTITY messengerWindow.title "Пошта и групе">
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "Директоријум…">
 <!ENTITY newFolderCmd.accesskey "Д">
 <!ENTITY closeTabCmd.label "Затвори језичак">
 <!ENTITY closeTabCmd.accesskey "З">
-<!ENTITY closeOtherTabsCmd.label "Close Other Tabs">
-<!ENTITY closeOtherTabsCmd.accesskey "L">
+<!ENTITY closeOtherTabsCmd.label "Затвори друге језичке">
+<!ENTITY closeOtherTabsCmd.accesskey "l">
 <!ENTITY newVirtualFolderCmd.label "Сачувана претрага…">
 <!ENTITY newVirtualFolderCmd.accesskey "С">
 <!ENTITY newOtherAccountsCmd.label "Други налози…">
@@ -45,9 +45,9 @@
 <!ENTITY renameFolder.accesskey "П">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Сажми директоријуме">
-<!ENTITY compactFolders.accesskey "ж">
+<!ENTITY compactFolders.accesskey    "ж">
 <!ENTITY emptyTrashCmd.label "Испразни смеће">
-<!ENTITY emptyTrashCmd.accesskey "И">
+<!ENTITY emptyTrashCmd.accesskey    "И">
 <!ENTITY offlineMenu.label "Ван мреже">
 <!ENTITY offlineMenu.accesskey "В">
 <!ENTITY offlineGoOfflineCmd.label "Рад ван мреже">
@@ -67,8 +67,8 @@
 <!ENTITY printPreviewCmd.accesskey "г">
 <!ENTITY printSetupCmd.label "Подешавање стране…">
 <!ENTITY printSetupCmd.accesskey "ш">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Уклони поруку">
 <!ENTITY deleteMsgCmd.accesskey "У">
 <!ENTITY undeleteMsgCmd.label "Врати поруку">
@@ -112,8 +112,8 @@
 <!ENTITY undoDefaultCmd.accesskey "О">
 <!ENTITY redoDefaultCmd.label "Понови">
 <!ENTITY redoDefaultCmd.accesskey "П">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Алатна трака за пошту">
 <!ENTITY showMessengerToolbarCmd.accesskey "п">
 <!ENTITY customizeToolbar.label "Прилагоди…">
@@ -132,8 +132,8 @@
 
 <!ENTITY folderView.label "Директоријуми">
 <!ENTITY folderView.accesskey "Д">
-<!ENTITY smartFolders.label "Паметни">
-<!ENTITY smartFolders.accesskey "м">
+<!ENTITY unifiedFolders.label "Unified">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Све">
 <!ENTITY allFolders.accesskey "С">
 <!ENTITY unreadFolders.label "Непрочитано">
@@ -142,8 +142,8 @@
 <!ENTITY favoriteFolders.accesskey "О">
 <!ENTITY recentFolders.label "Скорашње">
 <!ENTITY recentFolders.accesskey "С">
-<!-- Sort Menu -->
 
+<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ређање">
 <!ENTITY sortMenu.accesskey "Р">
 <!ENTITY sortByDateCmd.label "Датум">
@@ -231,40 +231,39 @@
 
 <!ENTITY viewAttachmentsInlineCmd.label "Прикажи прилоге у оквиру поруке">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "к">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
-<!ENTITY fullZoomEnlargeCmd.label "Увећај">
-<!ENTITY fullZoomEnlargeCmd.accesskey "ћ">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.label       "Увећај">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "ћ">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label "Умањи">
-<!ENTITY fullZoomReduceCmd.accesskey "њ">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomReduceCmd.label        "Умањи">
+<!ENTITY fullZoomReduceCmd.accesskey    "њ">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label "Врати">
-<!ENTITY fullZoomResetCmd.accesskey "В">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label         "Врати">
+<!ENTITY fullZoomResetCmd.accesskey     "В">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label "Увећај само текст">
-<!ENTITY fullZoomToggleCmd.accesskey "ј">
-<!ENTITY fullZoom.label "Увећај">
-<!ENTITY fullZoom.accesskey "У">
+<!ENTITY fullZoomToggleCmd.label        "Увећај само текст">
+<!ENTITY fullZoomToggleCmd.accesskey    "ј">
+<!ENTITY fullZoom.label                 "Увећај">
+<!ENTITY fullZoom.accesskey             "У">
 
 <!ENTITY pageSourceCmd.label "Извор поруке">
 <!ENTITY pageSourceCmd.accesskey "п">
 <!ENTITY pageSourceCmd.key "п">
-<!-- Search Menu -->
 
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Нађи">
 <!ENTITY findMenu.accesskey "Н">
 <!ENTITY findCmd.label "Нађи у овој поруци…">
@@ -281,8 +280,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Претражи адресе…">
 <!ENTITY searchAddressesCmd.accesskey "ж">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Иди">
 <!ENTITY goMenu.accesskey "И">
 <!ENTITY nextMenu.label "Следећа">
@@ -316,8 +315,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey "в">
 <!ENTITY startPageCmd.label "Почетна страна за пошту">
 <!ENTITY startPageCmd.accesskey "П">
-<!-- Message Menu -->
 
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Порука">
 <!ENTITY msgMenu.accesskey "П">
 <!ENTITY newMsgCmd.label "Нова порука">
@@ -326,23 +325,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.accesskey "П">
 <!ENTITY archiveMsgCmd.label "У архиву">
 <!ENTITY archiveMsgCmd.accesskey "а">
-<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Одговор">
 <!ENTITY replyMsgCmd.accesskey "О">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Одговор само пошиљаоцу">
 <!ENTITY replySenderCmd.accesskey "О">
 <!ENTITY replyNewsgroupCmd.label "Одговор на групу">
-<!ENTITY replyNewsgroupCmd.accesskey "г">
+<!ENTITY replyNewsgroupCmd.accesskey  "г">
 <!ENTITY replyToAllMsgCmd.label "Одговор свима">
-<!ENTITY replyToAllMsgCmd.accesskey "в">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "в">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Одговори на листу">
-<!ENTITY replyToListMsgCmd.accesskey "л">
-<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY replyToListMsgCmd.accesskey  "л">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Проследи">
 <!ENTITY forwardMsgCmd.accesskey "П">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Прослеђивање">
 <!ENTITY forwardAsMenu.accesskey "л">
 <!ENTITY forwardAsInline.label "У тексту">
@@ -418,6 +417,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Отвори поруку">
 <!ENTITY openMessageWindowCmd.accesskey "т">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Open in Conversation">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Отвори поруку-довод">
 <!ENTITY openFeedMessage.accesskey "п">
 <!ENTITY openFeedWebPageInWindow.label "Веб страна у новом прозору">
@@ -426,11 +428,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openFeedSummaryInWindow.accesskey "С">
 <!ENTITY openFeedWebPageInMP.label "Пребаци између веб погледа и сажетка у прозору са порукама">
 <!ENTITY openFeedWebPageInMP.accesskey "П">
+
 <!-- Windows Menu -->
-
 <!ENTITY windowMenu.label "Прозор">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Алатке">
 <!ENTITY tasksMenu.accesskey "А">
 <!ENTITY messengerCmd.label "Пошта и групе">
@@ -442,6 +444,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "Д">
 <!ENTITY activitymanager.label "Управник активностима">
 <!ENTITY activitymanager.accesskey "У">
+<!ENTITY savedFiles.label "Сачуване датотеке">
+<!ENTITY savedFiles.accesskey "С">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Филтери за поруке">
 <!ENTITY filtersCmd.accesskey "Ф">
 <!ENTITY filtersApply.label "Примени филтере на директоријум">
@@ -463,8 +468,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "П">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Преузми пошту">
 <!ENTITY newMsgButton.label "Писање">
 <!ENTITY replyButton.label "Одговор">
@@ -492,8 +497,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderLocationToolbarItem.title "Место директоријума">
 <!ENTITY tagButton.label "Знак">
 <!ENTITY compactButton.label "Сажми">
-<!-- Mail Toolbar Tooltips-->
 
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Напредна претрага порука">
 <!ENTITY getMsgButton.tooltip "Преузми нове поруке">
 <!ENTITY getAllNewMsgCmd.label "Преузми све нове поруке">
@@ -520,16 +525,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookButton.tooltip "Прикажи адресар">
 <!ENTITY tagButton.tooltip "Означи поруке">
 <!ENTITY compactButton.tooltip "Уклони обрисане поруке из изабраног директоријума">
-<!-- Tags Menu Popup -->
 
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Нова ознака…">
 <!ENTITY addNewTag.accesskey "о">
-<!-- Folder Pane -->
 
+<!-- Folder Pane -->
 <!ENTITY folderColumn.label "Име">
 <!ENTITY folderSizeColumn.label "Величина">
-<!-- Folder Pane Context Menu -->
 
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Добави поруке">
 <!ENTITY folderContextGetMessages.accesskey "Д">
 <!ENTITY folderContextOpenNewWindow.label "Отвори">
@@ -566,15 +571,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextFavoriteFolder.accesskey "м">
 <!ENTITY folderContextSettings.label "Подешавања…">
 <!ENTITY folderContextSettings.accesskey "П">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Име или адреса садрже:">
 <!ENTITY SearchNameOrEmail.accesskey "И">
+
 <!-- Gloda Search Bar -->
-
 <!ENTITY glodaSearchBar.emptyText "Тражи поруке…">
-<!-- Quick Search Menu Bar -->
 
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Тема">
 <!ENTITY searchFromMenu.label "Шаље">
 <!ENTITY searchSubjectOrFromMenu.label "Тема или пошиљалац">
@@ -582,8 +587,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchSubjectOrRecipientMenu.label "Тема, прималац или копија">
 <!ENTITY searchMessageBody.label "Цела порука">
 <!ENTITY saveAsVirtualFolderMenu.label "Сачувај претрагу као директоријум…">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Нит">
 <!ENTITY fromColumn.label "Шаље">
 <!ENTITY recipientColumn.label "Прима">
@@ -603,8 +608,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Место">
 <!ENTITY idColumn.label "Редослед пријема">
 <!ENTITY attachmentColumn.label "Прилози">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Притисните да изабeрете колоне које се приказују">
 <!ENTITY threadColumn.tooltip "Притисните да прикажете нити порука">
 <!ENTITY fromColumn.tooltip "Притисните да уредите по пошиљаоцу">
@@ -625,12 +630,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Притисните да поређате по месту">
 <!ENTITY idColumn.tooltip "Притисните да поређате по редоследу пријема">
 <!ENTITY attachmentColumn.tooltip "Притисните да поређате по прилозима">
-<!-- Thread Pane Context Menu -->
 
+<!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Отвори поруку у новом прозору">
 <!ENTITY contextOpenNewWindow.accesskey "н">
 <!ENTITY contextOpenNewTab.label "Отвори поруку у новом језичку">
 <!ENTITY contextOpenNewTab.accesskey "ј">
+<!ENTITY contextOpenConversation.label "Open Message in Conversation">
+<!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditAsNew.label "Уреди као нову…">
 <!ENTITY contextEditAsNew.accesskey "У">
 <!ENTITY contextArchive.label "Архивирај">
@@ -659,8 +666,55 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "Ш">
 <!ENTITY contextPrintPreview.label "Преглед пре штампе">
 <!ENTITY contextPrintPreview.accesskey "г">
-<!-- Media (video/audio) controls -->
 
+<!-- Thread Pane Column Picker -->
+<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
+   This option in the thread pane column picker causes us to reset the
+   customizations for the thread pane columns in this folder to their default.
+  -->
+<!ENTITY columnPicker.resetToInbox.label "Reset columns to default">
+<!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
+   This option in the thread pane column picker pops up a sub-menu containing
+   the "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
+   a desire to apply the currently displayed set of columns to some other
+   folder(s).  The sub-menu items indicate whether we want to apply it to just
+   a folder or also its children.
+  -->
+<!ENTITY columnPicker.applyTo.label "Apply columns to…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a single folder
+   that the user selects using the same widget as the move to/copy to
+   mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolder.label "Директоријум…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolder.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a folder and all
+   of its descendents.  The user selects the folder using the same widget as the
+   move to/copy to mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Folder and its children…">
+<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
+   This is used in the folder selection widget for the
+   "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
+   a folder has children, it results in a menu popup; the first menu item
+   in that popup is given this label to indicate that that folder should be
+   selected.  For example, if folder "A" has two children, "B" and "C", then
+   when the user hovers over "A", a new popup menu will be displayed whose
+   items are "This folder", "B", and "C".  This is the equivalent of the
+   "File here" option for the move to/copy to widge.t
+  -->
+<!ENTITY columnPicker.thisFolder.label "This folder">
+
+
+<!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Пуштање">
 <!ENTITY contextPlay.accesskey "у">
 <!ENTITY contextPause.label "Пауза">
@@ -669,29 +723,56 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMute.accesskey "У">
 <!ENTITY contextUnmute.label "Пусти тон">
 <!ENTITY contextUnmute.accesskey "т">
-<!-- Junk Bar -->
 
+<!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Нежељено">
 <!ENTITY junkBarButton1.label "Није непожељно">
 <!ENTITY junkInfoButton.label "?">
-<!-- Remote Content Bar -->
 
+<!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage2.label "Како би заштитио Вашу приватност, програм &brandShortName; је блокирао удаљени садржај из ове поруке.">
 <!ENTITY loadRemoteContentButton3.label "Прикажи удаљени садржај">
-<!-- Phishing Bar -->
 
+<!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Ова порука је можда превара.">
 <!ENTITY removePhishingBarButton1.label "Занемари упозорење">
 <!ENTITY reportPhishingError1.label "Ова порука не изгледа као превара.">
-<!-- Message Header Button Box (to show hidden email addresses) -->
 
-<!ENTITY more.label "још">
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
+<!ENTITY mdnBarIgnoreButton.label "Занемари захтев">
+<!ENTITY mdnBarSendButton.label "Пошаљи повратницу">
+
 <!-- Quick Search Bar -->
-
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed 
+     -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label "Претрага свих порука">
-<!-- Message Header Context Menu -->
+<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+     This is the base of the empty text for the global search box.  We replace
+     #1 with the contents of the appropriate
+     searchAllMessages.keyLabel2.* value for the platform.
+     The goal is to convey to the user that typing in the box will allow them
+     to search for messages globally and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllMessages.label.base "Search all messages… #1">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+     The description of the key-binding to get into the global search box on
+     windows and linux (which use the control key).  We use the key defined in
+     the quickSearchCmd.key entity defined above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+     The description of the key-binding to get into the global search box on mac
+     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
 
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Додај у адресар…">
 <!ENTITY AddToAddressBook.accesskey "а">
 <!ENTITY AddDirectlyToAddressBook.label "Додај у адресар">
@@ -714,8 +795,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CreateFilterFrom.accesskey "ф">
 <!ENTITY reportPhishingURL.label "Пријава преваре">
 <!ENTITY reportPhishingURL.accesskey "ј">
-<!-- Content Pane Context Menu -->
 
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Сачувај везу као…">
 <!ENTITY saveLinkAsCmd.accesskey "С">
 <!ENTITY saveImageAsCmd.label "Сачувај слику као…">
@@ -730,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "с">
 <!ENTITY copyLinkCmd.label "Умножи одредиште везе">
 <!ENTITY copyLinkCmd.accesskey "У">
-<!ENTITY copyImageAllCmd.label "Copy Image">
+<!ENTITY copyImageAllCmd.label "Умножи слику">
 <!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "Умножи ел. адресу">
 <!ENTITY copyEmailCmd.accesskey "е">
@@ -742,25 +823,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openInBrowser.accesskey "р">
 <!ENTITY openLinkInBrowser.label "Отвори везу у читачу">
 <!ENTITY openLinkInBrowser.accesskey "в">
+
 <!-- Statusbar -->
-
 <!ENTITY statusText.label "Готово">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Умањи">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Стави све у први план">
 <!ENTITY zoomWindow.label "Увећан">
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label "Поставке…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "Услуге">
-<!ENTITY hideThisAppCmdMac.label "Сакриј &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Сакриј остале">
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac.label        "Поставке…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Услуге">
+<!ENTITY hideThisAppCmdMac.label        "Сакриј &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Сакриј остале">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Прикажи све">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Прикажи све">

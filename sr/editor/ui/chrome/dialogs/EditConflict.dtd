@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Изаберите промене уређивања">
 <!ENTITY conflictWarning.label "Ову страну је изменио неки други програм, иако још увек имате несачуване измене у уређивачу.">
 <!ENTITY conflictResolve.label "Изаберите које издање ћете да задржите:">

@@ -1,8 +1,8 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Писање: (без теме)">
-<!-- File Menu -->
 
-<!ENTITY fileMenu.label "Датотека">
+<!-- File Menu -->
+<!ENTITY fileMenu.label "Датотека"> 
 <!ENTITY fileMenu.accesskey "Д">
 <!ENTITY newMenu.label "Ново">
 <!ENTITY newMenu.accesskey "Н">
@@ -46,22 +46,22 @@
 <!ENTITY printCmd.label "Штампа…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "т">
-<!-- Edit Menu -->
 
-<!ENTITY editMenu.label "Уреди">
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "Уређивање"> 
 <!ENTITY editMenu.accesskey "У">
 <!ENTITY undoCmd.label "Опозови">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "О">
+<!ENTITY undoCmd.accesskey "О"> 
 <!ENTITY redoCmd.label "Понови">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
+<!ENTITY redoCmd.accesskey "П"> 
 <!ENTITY cutCmd.label "Исеци">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "с">
+<!ENTITY cutCmd.accesskey "с"> 
 <!ENTITY copyCmd.label "Умножи">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "о">
+<!ENTITY copyCmd.accesskey "о"> 
 <!ENTITY pasteCmd.label "Убаци">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "б">
@@ -74,7 +74,7 @@
 <!ENTITY deleteCmd.accesskey "У">
 <!ENTITY selectAllCmd.label "Изабери све">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "с">
+<!ENTITY selectAllCmd.accesskey "с"> 
 <!ENTITY findCmd.label "Нађи и замени…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "Н">
@@ -85,13 +85,13 @@
 <!ENTITY findPrevCmd.label "Нађи претходно">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "х">
-<!-- View Menu -->
+<!ENTITY findPrevCmd.accesskey "х"> 
 
-<!ENTITY viewMenu.label "Преглед">
+<!-- View Menu -->
+<!ENTITY viewMenu.label "Преглед"> 
 <!ENTITY viewMenu.accesskey "П">
-<!ENTITY viewToolbarsMenuNew.label "Алатне траке">
-<!ENTITY viewToolbarsMenuNew.accesskey "А">
+<!ENTITY viewToolbarsMenuNew.label "Алатне траке"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "А"> 
 <!ENTITY showCompositionToolbarCmd.label "Трака за писање">
 <!ENTITY showCompositionToolbarCmd.accesskey "п">
 <!ENTITY showFormattingBarCmd.label "Трака за форматирање">
@@ -101,14 +101,14 @@
 <!ENTITY customizeToolbar.label "Прилагоди…">
 <!ENTITY customizeToolbar.accesskey "П">
 
-<!ENTITY addressSidebar.label "Бочна трака са контактима">
-<!ENTITY addressSidebar.accesskey "Б">
-<!-- Format Menu -->
+<!ENTITY addressSidebar.label "Бочна трака са контактима"> 
+<!ENTITY addressSidebar.accesskey "Б"> 
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "Ф">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Опције">
 <!ENTITY optionsMenu.accesskey "О">
 <!ENTITY checkSpellingCmd2.label "Провера правописа…">
@@ -119,15 +119,15 @@
 <!ENTITY enableInlineSpellChecker.accesskey "П">
 <!ENTITY quoteCmd.label "Цитирај поруку">
 <!ENTITY quoteCmd.accesskey "Ц">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Закачи визиткарту (vCard)">
 <!ENTITY attachVCard.accesskey "в">
 
 <!ENTITY returnReceiptMenu.label "Потврда о пријему">
 <!ENTITY returnReceiptMenu.accesskey "р">
-<!ENTITY dsnMenu.label "Потврда о пријему">
-<!ENTITY dsnMenu.accesskey "ј">
+<!ENTITY dsnMenu.label "Обавештење о испоруци">
+<!ENTITY dsnMenu.accesskey "О">
 <!ENTITY outputFormatMenu.label "Формат">
 <!ENTITY outputFormatMenu.accesskey "Ф">
 <!ENTITY autoFormatCmd.label "Аутоматски">
@@ -154,8 +154,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Пошаљи копију за">
 <!ENTITY fileCarbonCopyCmd.accesskey "ш">
 <!ENTITY fileHereMenu.label "Разврстај овде">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Алати">
 <!ENTITY tasksMenu.accesskey "А">
 <!ENTITY messengerCmd.label "Пошта и групе">
@@ -169,50 +169,50 @@
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Опције…">
 <!ENTITY preferencesCmd.accesskey "О">
-<!ENTITY preferencesCmdUnix.label "Поставке">
-<!ENTITY preferencesCmdUnix.accesskey "в">
-<!--  Mac OS X Window Menu -->
+<!ENTITY preferencesCmdUnix.label       "Поставке">
+<!ENTITY preferencesCmdUnix.accesskey   "в"> 
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Умањи">
 <!ENTITY bringAllToFront.label "Стави све у први план">
-<!ENTITY zoomWindow.label "Увећан">
+<!ENTITY zoomWindow.label "Увећан"> 
 <!ENTITY windowMenu.label "Прозор">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Шаљи">
 <!ENTITY quoteButton.label "Цитирај">
 <!ENTITY addressButton.label "Контакти">
 <!ENTITY attachButton.label "Закачи">
 <!ENTITY spellingButton.label "Правопис">
 <!ENTITY saveButton.label "Сачувај">
+
 <!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "Пошаљи поруку одмах"> 
+<!ENTITY sendlaterButton.tooltip "Пошаљи поруку касније"> 
+<!ENTITY quoteButton.tooltip "Цитирај претходну поруку"> 
+<!ENTITY addressButton.tooltip "Изабери примаоца из адресара"> 
+<!ENTITY attachButton.tooltip "Додај прилог"> 
+<!ENTITY saveButton.tooltip "Сачувај ову поруку"> 
+<!ENTITY cutButton.tooltip              "Исеци">
+<!ENTITY copyButton.tooltip             "Умножи">
+<!ENTITY pasteButton.tooltip            "Убаци">
 
-<!ENTITY sendButton.tooltip "Пошаљи поруку одмах">
-<!ENTITY sendlaterButton.tooltip "Пошаљи поруку касније">
-<!ENTITY quoteButton.tooltip "Цитирај претходну поруку">
-<!ENTITY addressButton.tooltip "Изабери примаоца из адресара">
-<!ENTITY attachButton.tooltip "Додај прилог">
-<!ENTITY saveButton.tooltip "Сачувај ову поруку">
-<!ENTITY cutButton.tooltip "Исеци">
-<!ENTITY copyButton.tooltip "Умножи">
-<!ENTITY pasteButton.tooltip "Убаци">
 <!-- Headers -->
-
 <!ENTITY fromAddr.label "Од:">
 <!ENTITY fromAddr.accesskey "О">
-<!ENTITY toAddr.label "За:">
-<!ENTITY ccAddr.label "Коп:">
-<!ENTITY bccAddr.label "сКоп:">
-<!ENTITY replyAddr.label "Одговор-за:">
-<!ENTITY newsgroupsAddr.label "Група:">
-<!ENTITY followupAddr.label "Одговор-на:">
+<!ENTITY toAddr.label "За:"> 
+<!ENTITY ccAddr.label "Коп:"> 
+<!ENTITY bccAddr.label "сКоп:"> 
+<!ENTITY replyAddr.label "Одговор-за:"> 
+<!ENTITY newsgroupsAddr.label "Група:"> 
+<!ENTITY followupAddr.label "Одговор-на:"> 
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
 <!ENTITY attachments.label "Прилози:">
 <!ENTITY attachments.accesskey "П">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Убаци смешка">
 <!ENTITY smiley1Cmd.label "Смешко">
 <!ENTITY smiley2Cmd.label "Тугомир">
@@ -230,8 +230,8 @@
 <!ENTITY smiley14Cmd.label "Невинашце">
 <!ENTITY smiley15Cmd.label "Плачко">
 <!ENTITY smiley16Cmd.label "Ћутолог">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Ниједан предлог није пронађен">
 <!ENTITY spellCheckIgnoreWord.label "Занемари реч">
 <!ENTITY spellCheckIgnoreWord.accesskey "З">
@@ -262,7 +262,7 @@
 <!ENTITY attachFile.accesskey "д">
 <!ENTITY attachPage.label "Закачи веб страну…">
 <!ENTITY attachPage.accesskey "в">
-<!-- Title for the address picker panel -->
 
+<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Контакти">
 

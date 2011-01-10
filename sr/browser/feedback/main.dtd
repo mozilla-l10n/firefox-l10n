@@ -1,0 +1,31 @@
+<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!ENTITY testpilot.settings.label                   "Arventennoù">
+<!ENTITY testpilot.settings.dataSubmission.label    "Слање података">
+<!ENTITY testpilot.settings.notifications.label     "Обавештења">
+<!ENTITY testpilot.settings.notifyWhen.label        "Обавести ме кад…">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Prest eo ur studiadenn da vezañ kinniget">
+<!ENTITY testpilot.settings.newStudy.label          "Ur studiadenn nevez ez eus">
+<!ENTITY testpilot.settings.hasNewResults.label     "Disoc'hoù nevez ez eus gant ur studiadenn">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Treuzkas ma roadennoù emgefreek (Na c'houlenn ganin)">
+<!ENTITY testpilot.allYourStudies.label             "Сва ваша проучавања корисника…">
+<!ENTITY testpilot.about.label                      "О Test Pilot-у">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "Ваша проучавања у Test Pilot-у">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Тренутна проучавања">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Завршена проучавања">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Налази проучавања">
+<!ENTITY testpilot.studiesWindow.settings.label         "Arventennoù">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait...">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "Stur an arnod : roadennoù diaoz">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip            "Serriñ">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                        "Gweredekaat studioù an arveriad">
+<!ENTITY testpilot.feedbackbutton.label                "Повратне информације">
+<!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because...">
+<!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because...">

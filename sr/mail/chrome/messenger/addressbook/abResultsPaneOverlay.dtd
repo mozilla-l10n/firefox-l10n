@@ -34,35 +34,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY GeneratedName.label "Име">
-<!ENTITY GeneratedName.accesskey "И">
-<!ENTITY PrimaryEmail.label "Ел. адреса">
-<!ENTITY PrimaryEmail.accesskey "Е">
-<!ENTITY Company.label "Организација">
-<!ENTITY Company.accesskey "О">
-<!ENTITY _PhoneticName.label "Фонетско име">
-<!ENTITY _PhoneticName.accesskey "Ф">
-<!ENTITY NickName.label "Надимак">
-<!ENTITY NickName.accesskey "Н">
-<!ENTITY SecondEmail.label "Додатна ел. адреса">
-<!ENTITY SecondEmail.accesskey "Д">
-<!ENTITY Department.label "Одељење">
-<!ENTITY Department.accesskey "љ">
-<!ENTITY JobTitle.label "Титула">
-<!ENTITY JobTitle.accesskey "Т">
-<!ENTITY CellularNumber.label "Мобилни">
-<!ENTITY CellularNumber.accesskey "М">
-<!ENTITY PagerNumber.label "Пејџер">
-<!ENTITY PagerNumber.accesskey "П">
-<!ENTITY FaxNumber.label "Факс">
-<!ENTITY FaxNumber.accesskey "Ф">
-<!ENTITY HomePhone.label "Кућни број">
-<!ENTITY HomePhone.accesskey "К">
-<!ENTITY WorkPhone.label "Телефон на послу">
-<!ENTITY WorkPhone.accesskey "Т">
-<!ENTITY ScreenName.label "Екранско име">
-<!ENTITY ScreenName.accesskey "Е">
-<!ENTITY sortAscending.label "Растући">
-<!ENTITY sortAscending.accesskey "Р">
-<!ENTITY sortDescending.label "Опадајући">
-<!ENTITY sortDescending.accesskey "О">
+<!ENTITY GeneratedName.label                   "Име">
+<!ENTITY GeneratedName.accesskey               "И">
+<!ENTITY PrimaryEmail.label                    "Ел. адреса">
+<!ENTITY PrimaryEmail.accesskey                "Е">
+<!ENTITY Company.label                         "Организација">
+<!ENTITY Company.accesskey                     "О">
+<!ENTITY _PhoneticName.label                   "Фонетско име">
+<!ENTITY _PhoneticName.accesskey               "Ф">
+<!ENTITY NickName.label                        "Надимак">
+<!ENTITY NickName.accesskey                    "Н">
+<!ENTITY SecondEmail.label                     "Додатна ел. адреса">
+<!ENTITY SecondEmail.accesskey                 "Д">
+<!ENTITY Department.label                      "Одељење">
+<!ENTITY Department.accesskey                  "љ">
+<!ENTITY JobTitle.label                        "Титула">
+<!ENTITY JobTitle.accesskey                    "Т">
+<!ENTITY CellularNumber.label                  "Мобилни">
+<!ENTITY CellularNumber.accesskey              "М">
+<!ENTITY PagerNumber.label                     "Пејџер">
+<!ENTITY PagerNumber.accesskey                 "П">
+<!ENTITY FaxNumber.label                       "Факс">
+<!ENTITY FaxNumber.accesskey                   "Ф">
+<!ENTITY HomePhone.label                       "Кућни број">
+<!ENTITY HomePhone.accesskey                   "К">
+<!ENTITY WorkPhone.label                       "Телефон на послу">
+<!ENTITY WorkPhone.accesskey                   "Т">
+<!ENTITY ScreenName.label                      "Екранско име">
+<!ENTITY ScreenName.accesskey                  "Е">
+<!ENTITY sortAscending.label                   "Растући">
+<!ENTITY sortAscending.accesskey               "Р">
+<!ENTITY sortDescending.label                  "Опадајући">
+<!ENTITY sortDescending.accesskey              "О">

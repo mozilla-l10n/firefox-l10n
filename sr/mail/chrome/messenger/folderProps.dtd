@@ -38,19 +38,22 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label "Поставке">
+<!ENTITY folderProps.windowtitle.label           "Поставке">
 
-<!ENTITY generalInfo.label "Општи подаци">
-<!ENTITY folderCharsetTab.label "Подразумевано кодирање знакова">
-<!ENTITY folderCharsetTab.accesskey "з">
-<!ENTITY folderCharsetOverride.label "Примени изворна подешавања на све поруке у директоријуму (појединачна подешавања кодне странице и аутоматска детекција биће занемарени)">
-<!ENTITY folderCharsetOverride.accesskey "П">
-<!ENTITY folderRebuildSummaryFile.label "Преправи индекс">
-<!ENTITY folderRebuildSummaryFile.accesskey "П">
-<!ENTITY folderRebuildSummaryFileTip.label "Преправи датотеку са сажецима">
+<!ENTITY generalInfo.label                       "Општи подаци">
+<!ENTITY folderCharsetTab.label                  "Подразумевано кодирање знакова">
+<!ENTITY folderCharsetTab.accesskey              "з">
+<!ENTITY folderCharsetOverride.label             "Примени изворна подешавања на све поруке у директоријуму (појединачна подешавања кодне странице и аутоматска детекција биће занемарени)">
+<!ENTITY folderCharsetOverride.accesskey         "П">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
+<!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
      
 <!ENTITY retention.label "Полиса чувања порука">
-<!ENTITY retentionUseAccount.label "Use my account settings">
+<!ENTITY retentionUseAccount.label  "Use my account settings">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "дана старе">
 <!ENTITY message.label "поруке">
@@ -61,39 +64,39 @@
 <!ENTITY retentionDeleteMsg.accesskey "У">
 <!ENTITY retentionKeepAll.label "Не уклањај ниједну поруку">
 <!ENTITY retentionKeepAll.accesskey "ј">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.label "Уклоните све осим најновијих">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
+<!ENTITY retentionKeepUnreadHidden.label "Увек уклони прочитане поруке (преиначује подешавања старости порука)">
 <!ENTITY retentionApplyToFlagged.label "Увек чувај поруке са звездом">
 <!ENTITY retentionApplyToFlagged.accesskey "ч">
 
-<!ENTITY folderSynchronizationTab.label "Synchronization">
-<!ENTITY folderCheckForNewMessages.label "Провери овај директоријум на нове поруке">
-<!ENTITY folderCheckForNewMessages.accesskey "П">
+<!ENTITY folderSynchronizationTab.label          "Synchronization">
+<!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
-<!ENTITY offlineFolder.check.label "Изабери овај директоријум за рад ван мреже">
-<!ENTITY offlineFolder.check.accesskey "И">
-<!ENTITY offlineFolder.button.label "Прими одмах">
-<!ENTITY offlineFolder.button.accesskey "П">
+<!ENTITY offlineFolder.check.label               "Изабери овај директоријум за рад ван мреже">
+<!ENTITY offlineFolder.check.accesskey           "И">
+<!ENTITY offlineFolder.button.label              "Прими одмах">
+<!ENTITY offlineFolder.button.accesskey          "П">
 
-<!ENTITY selectofflineNewsgroup.check.label "Изабери ову групу за рад ван мреже">
-<!ENTITY selectofflineNewsgroup.check.accesskey "г">
-<!ENTITY offlineNewsgroup.button.label "Прими одмах">
-<!ENTITY offlineNewsgroup.button.accesskey "П">
+<!ENTITY selectofflineNewsgroup.check.label      "Изабери ову групу за рад ван мреже">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "г">
+<!ENTITY offlineNewsgroup.button.label           "Прими одмах">
+<!ENTITY offlineNewsgroup.button.accesskey       "П">
 
-<!ENTITY folderProps.name.label "Име:">
-<!ENTITY folderProps.name.accesskey "И">
-<!ENTITY folderProps.location.label "Место:">
-<!ENTITY folderProps.location.accesskey "М">
+<!ENTITY folderProps.name.label                  "Име:">
+<!ENTITY folderProps.name.accesskey              "И">
+<!ENTITY folderProps.location.label              "Место:">
+<!ENTITY folderProps.location.accesskey          "М">
 
-<!ENTITY folderSharingTab.label "Дељење">
-<!ENTITY privileges.button.label "Овлашћења…">
-<!ENTITY privileges.button.accesskey "О">
-<!ENTITY permissionsDesc.label "Имате следећа права приступа:">
-<!ENTITY folderType.label "Врста директоријума:">
+<!ENTITY folderSharingTab.label                  "Дељење">
+<!ENTITY privileges.button.label                 "Овлашћења…">
+<!ENTITY privileges.button.accesskey             "О">
+<!ENTITY permissionsDesc.label                   "Имате следећа права приступа:">
+<!ENTITY folderType.label                        "Врста директоријума:">
 
-<!ENTITY folderQuotaTab.label "Квота">
-<!ENTITY folderQuotaRoot.label "Корена квота:">
-<!ENTITY folderQuotaUsage.label "Употреба:">
-<!ENTITY folderQuotaStatus.label "Статус:">
+<!ENTITY folderQuotaTab.label                    "Квота">
+<!ENTITY folderQuotaRoot.label                   "Корена квота:">
+<!ENTITY folderQuotaUsage.label                  "Употреба:">
+<!ENTITY folderQuotaStatus.label                 "Статус:">

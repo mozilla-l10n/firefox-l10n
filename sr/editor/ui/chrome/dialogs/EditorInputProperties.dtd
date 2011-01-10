@@ -51,7 +51,7 @@
 <!ENTITY button.value "Дугме">
 
 <!ENTITY InputSettings.label "Поставке поља">
-<!ENTITY InputName.label "Field Name:">
+<!ENTITY InputName.label "Име поља:">
 <!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Group Name:">
 <!ENTITY GroupName.accesskey "N">

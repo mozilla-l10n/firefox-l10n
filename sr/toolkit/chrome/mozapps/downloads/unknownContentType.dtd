@@ -37,25 +37,25 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "Изабрали сте да отворите">
-<!ENTITY from.label "из:">
-<!ENTITY actionQuestion.label "Како да &brandShortName; обради ову датотеку?">
+<!ENTITY  intro.label                 "Изабрали сте да отворите">
+<!ENTITY  from.label                  "шаље:">
+<!ENTITY  actionQuestion.label        "Како да &brandShortName; обради ову датотеку?">
 
-<!ENTITY openWith.label "Отвори помоћу">
-<!ENTITY openWith.accesskey "О">
-<!ENTITY other.label "Друго…">
+<!ENTITY  openWith.label              "Отвори помоћу">
+<!ENTITY  openWith.accesskey          "O">
+<!ENTITY  other.label                 "Друго…">
 
-<!ENTITY saveFile.label "Сачувај датотеку">
-<!ENTITY saveFile.accesskey "С">
+<!ENTITY  saveFile.label              "Сними датотеку">
+<!ENTITY  saveFile.accesskey          "S">
 
-<!ENTITY rememberChoice.label "Користи овај избор за све датотеке овог типа.">
-<!ENTITY rememberChoice.accesskey "К">
+<!ENTITY  rememberChoice.label        "Користи овај избор за све датотеке овог типа.">
+<!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY whichIsA.label "врста:">
+<!ENTITY  whichIsA.label              "врста:">
 
-<!ENTITY chooseHandlerMac.label "Избор…">
-<!ENTITY chooseHandlerMac.accesskey "И">
-<!ENTITY chooseHandler.label "Преглед…">
-<!ENTITY chooseHandler.accesskey "П">
+<!ENTITY  chooseHandlerMac.label      "Избор…">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandler.label         "Потражи…">
+<!ENTITY  chooseHandler.accesskey     "B">
 
-<!ENTITY unknownPromptText.label "Да ли желите да сачувате ову датотеку?">
+<!ENTITY  unknownPromptText.label     "Да ли желите да сачувате ову датотеку?">

@@ -1,0 +1,28 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName; - почетна страница">
+
+<!-- LOCALIZATION NOTE (abouthome.brandStart):
+     brandShortName must be in a <span/>
+-->
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> - почетак">
+
+<!ENTITY abouthome.searchEngineButton.label "Претрага">
+
+<!ENTITY abouthome.searchEngineLinks.advanced "Напредна претрага">
+<!ENTITY abouthome.searchEngineLinks.preferences "Подешавања">
+
+<!ENTITY abouthome.aboutMozilla "О Мозили">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Хвала Вам што сте изабрали фајерфокс! Да бисте добили највише из вашег прегледача, сазнајте више о  <a>најновијим могућностима</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Веома лако можете да фајерфокс прилагодите својим потребама. <a>Изаберите неке од хиљада додатака</a>.">

@@ -35,6 +35,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
+
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
@@ -43,45 +44,44 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-
 <!ENTITY importDialog.windowTitle "Увоз">
-<!ENTITY importAll.label "Увези све">
-<!ENTITY importAll.accesskey "с">
-<!ENTITY importMail.label "Пошту">
-<!ENTITY importMail.accesskey "П">
-<!ENTITY importAddressbook.label "Адресаре">
+<!ENTITY importAll.label          "Увези све">
+<!ENTITY importAll.accesskey      "с">
+<!ENTITY importMail.label         "Пошту">
+<!ENTITY importMail.accesskey     "П">
+<!ENTITY importAddressbook.label  "Адресаре">
 <!ENTITY importAddressbook.accesskey "А">
-<!ENTITY importSettings.label "Подешавања">
+<!ENTITY importSettings.label     "Подешавања">
 <!ENTITY importSettings.accesskey "д">
-<!ENTITY importFilters.label "Филтере">
-<!ENTITY importFilters.accesskey "Ф">
+<!ENTITY importFilters.label      "Филтере">
+<!ENTITY importFilters.accesskey  "Ф">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label "Чаробњак за увоз за програм &brandShortName;">
-<!ENTITY importShortDesc.label "Увоз поште, адресара, подешавања и филтера из других програма">
+<!ENTITY importTitle.label        "Чаробњак за увоз за програм &brandShortName;">
+<!ENTITY importShortDesc.label    "Увоз поште, адресара, подешавања и филтера из других програма">
 
 <!ENTITY importDescription1.label "Овај чаробњак увози електронску пошту, уносе у адресар, подешавања и/или филтере из других програма за ел. пошту и опште познате формате адресара у &brandShortName;.">
 <!ENTITY importDescription2.label "Када су једном увезени, моћи ћете да им приступите из програма &brandShortName;.">
 
-<!ENTITY selectDescription.label "Молимо да изаберете врсту датотека које желите да увезете:">
+<!ENTITY selectDescription.label  "Молимо да изаберете врсту датотека које желите да увезете:">
 <!ENTITY selectDescription.accesskey "М">
 
-<!ENTITY back.label "&lt; Назад">
-<!ENTITY forward.label "Даље &gt;">
-<!ENTITY finish.label "Доврши">
-<!ENTITY cancel.label "Откажи">
+<!ENTITY back.label               "&lt; Назад">
+<!ENTITY forward.label            "Даље &gt;">
+<!ENTITY finish.label             "Доврши">
+<!ENTITY cancel.label             "Откажи">
 
-<!ENTITY select.label "или изаберите врсту материјала за увоз:">
+<!ENTITY select.label             "или изаберите врсту материјала за увоз:">
 
-<!ENTITY title.label "Наслов">
-<!ENTITY processing.label "Увоз…">
+<!ENTITY title.label              "Наслов">
+<!ENTITY processing.label         "Увоз…">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x садржи једну адресу за сваки унос, а &brandShortName; има две (Кућа и Посао).">
-<!ENTITY FieldDiscInputText2.label "Изаберите категорију у коју желите да сачувате увезене електронске адресе:">
-<!ENTITY FieldDiscWarning.label "Ова категорија ће бити коришћена за све уносе у изабраном адресару:">
-<!ENTITY importHome.label "Кућа">
-<!ENTITY importHome.accesskey "К">
-<!ENTITY importWork.label "Посао">
-<!ENTITY importWork.accesskey "П">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x садржи једну адресу за сваки унос, а &brandShortName; има две (Кућа и Посао).">
+<!ENTITY FieldDiscInputText2.label  "Изаберите категорију у коју желите да сачувате увезене електронске адресе:">
+<!ENTITY FieldDiscWarning.label  "Ова категорија ће бити коришћена за све уносе у изабраном адресару:">
+<!ENTITY importHome.label        "Кућа">
+<!ENTITY importHome.accesskey    "К">
+<!ENTITY importWork.label        "Посао">
+<!ENTITY importWork.accesskey    "П">

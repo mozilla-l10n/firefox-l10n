@@ -34,17 +34,17 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
-<!ENTITY pref.ldap.window.title "Сервери за директоријум за ЛДАП (LDAP)">
+<!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
+<!ENTITY pref.ldap.window.title    "Сервери за директоријум за ЛДАП (LDAP)">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label "Сервер за ЛДАП (LDAP):">
+<!ENTITY directories.label         "Сервер за ЛДАП (LDAP):">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label "Избор директоријума за LDAP сервер">
+<!ENTITY directoriesText.label     "Избор директоријума за LDAP сервер">
 <!ENTITY directoriesText.accesskey "И">
-<!ENTITY addDirectory.label "Додај">
-<!ENTITY addDirectory.accesskey "Д">
-<!ENTITY editDirectory.label "Уреди">
-<!ENTITY editDirectory.accesskey "У">
-<!ENTITY deleteDirectory.label "Обриши">
+<!ENTITY addDirectory.label        "Додај">
+<!ENTITY addDirectory.accesskey    "Д">
+<!ENTITY editDirectory.label       "Уређивање">
+<!ENTITY editDirectory.accesskey   "У">
+<!ENTITY deleteDirectory.label     "Обриши">
 <!ENTITY deleteDirectory.accesskey "О">

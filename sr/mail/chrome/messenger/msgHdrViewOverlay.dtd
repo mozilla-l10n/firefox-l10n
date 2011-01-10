@@ -56,7 +56,7 @@
 <!ENTITY originalWebsite2.label "веб сајт ">
 
 <!ENTITY editMessageDescription.label "Ово је нацрт поруке">
-<!ENTITY editMessageButton.label "Уреди…">
+<!ENTITY editMessageButton.label "Уређивање…">
 <!ENTITY hdrArchiveButton.label "архивирај">
 <!ENTITY hdrArchiveButton.tooltip "архивирај ову поруку">
 <!ENTITY hdrReplyButton.label "одговор">
@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "о">
 
 <!ENTITY otherActionsButton.label "друга дејства">
-<!ENTITY otherActionsShowConversation.label "прикажи у разговорима">
-<!ENTITY otherActionsShowConversation.accesskey "р">
+<!ENTITY otherActionsOpenConversation.label "open in conversation">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow.label "отвори у новом прозору">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "н">
 <!ENTITY otherActionsOpenInNewTab.label "отвори у новом језичку">
@@ -99,21 +99,21 @@
 <!ENTITY otherActionsPrint.label "штампа…">
 <!ENTITY otherActionsPrint.accesskey "ш">
 
-<!ENTITY openAttachmentCmd.label "Отвори">
-<!ENTITY openAttachmentCmd.accesskey "О">
-<!ENTITY saveAsAttachmentCmd.label "Сачувај као…">
-<!ENTITY saveAsAttachmentCmd.accesskey "к">
-<!ENTITY detachAttachmentCmd.label "Откачи…">
-<!ENTITY deleteAttachmentCmd.label "Уклони">
-<!ENTITY saveAllAttachmentsCmd.label "Сачувај све…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "С">
-<!ENTITY detachAllAttachmentsCmd.label "Откачи све…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "О">
-<!ENTITY deleteAllAttachmentsCmd.label "Уклони све…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "У">
+<!ENTITY openAttachmentCmd.label    "Отвори">
+<!ENTITY openAttachmentCmd.accesskey    "О">
+<!ENTITY saveAsAttachmentCmd.label    "Сачувај као…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "к">
+<!ENTITY detachAttachmentCmd.label    "Откачи…">
+<!ENTITY deleteAttachmentCmd.label    "Уклони">
+<!ENTITY saveAllAttachmentsCmd.label    "Сачувај све…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "С">
+<!ENTITY detachAllAttachmentsCmd.label    "Откачи све…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "О">
+<!ENTITY deleteAllAttachmentsCmd.label    "Уклони све…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "У">
 
-<!ENTITY copyLinkCmd.label "Умножи везу">
-<!ENTITY copyLinkCmd.accesskey "в">
+<!ENTITY copyLinkCmd.label        "Умножи везу">
+<!ENTITY copyLinkCmd.accesskey    "в">
 
 <!ENTITY CopyMessageId.label "Умножи ИД поруке">
 <!ENTITY OpenMessageForMsgId.label "Отвори поруку по ИДу">

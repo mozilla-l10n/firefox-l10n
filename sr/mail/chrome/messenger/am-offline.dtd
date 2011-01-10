@@ -7,7 +7,7 @@
 <!ENTITY offlineNotDownload.accesskey "П">
 <!ENTITY autosyncNotDownload.label "Не примај поруке веће од">
 <!ENTITY autosyncNotDownload.accesskey "ћ">
-<!ENTITY kb.label "KB">
+<!ENTITY kb.label "KiB">
 <!ENTITY daysOld.label "старо (дани)">
 <!ENTITY message.label "поруке">
 <!ENTITY nntpNotDownloadRead.label "Читај поруке">
@@ -35,20 +35,20 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "Н">
 <!ENTITY syncGroupTitle.label "Синхронизација">
 <!ENTITY diskspaceGroupTitle.label "Простор на диску">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
-<!ENTITY allAutosync.label "Синхронизуј све поруке у локалу, без обзира на старост">
-<!ENTITY allAutosync.accesskey "С">
-<!ENTITY ageAutosyncBefore.label "Синхронизуј само недавне поруке">
-<!ENTITY ageAutosync.accesskey "з">
-<!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label "дан(а)">
-<!ENTITY weekAgeInterval.label "недеља">
-<!ENTITY monthAgeInterval.label "месеци">
-<!ENTITY yearAgeInterval.label "година">
-<!ENTITY ageAutosyncAfter.label "">
+<!ENTITY allAutosync.label               "Синхронизуј све поруке у локалу, без обзира на старост">
+<!ENTITY allAutosync.accesskey           "С">
+<!ENTITY ageAutosyncBefore.label         "Синхронизуј само недавне поруке">
+<!ENTITY ageAutosync.accesskey           "з">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "дан(а)">
+<!ENTITY weekAgeInterval.label           "недеља">
+<!ENTITY monthAgeInterval.label          "месеци">
+<!ENTITY yearAgeInterval.label           "година">
+<!ENTITY ageAutosyncAfter.label          "">

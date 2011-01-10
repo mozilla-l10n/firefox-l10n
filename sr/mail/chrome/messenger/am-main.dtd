@@ -19,7 +19,7 @@
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
 <!ENTITY signatureFile.accesskey "t">
-<!ENTITY edit.label "Уреди…">
+<!ENTITY edit.label "Edit…">
 <!ENTITY choose.label "Избор…">
 <!ENTITY choose.accesskey "И">
 <!ENTITY editVCard.label "Уреди картицу…">
@@ -30,8 +30,8 @@
 
 <!ENTITY manageIdentities.label "Управљање идентитетима…">
 <!ENTITY manageIdentities.accesskey "и">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Одлазни сервер (SMTP):">
 <!ENTITY smtpName.accesskey "л">
 <!ENTITY smtpDefaultServer.label "Користи изворни сервер">

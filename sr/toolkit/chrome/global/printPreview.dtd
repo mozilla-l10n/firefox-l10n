@@ -35,38 +35,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label "Штампа…">
-<!ENTITY print.accesskey "Ш">
-<!ENTITY pageSetup.label "Подешавање стране…">
-<!ENTITY pageSetup.accesskey "П">
-<!ENTITY page.label "Страна:">
-<!ENTITY page.accesskey "т">
-<!ENTITY of.label "од">
-<!ENTITY scale.label "Размера:">
-<!ENTITY scale.accesskey "Р">
-<!ENTITY portrait.label "Усправно">
-<!ENTITY portrait.accesskey "У">
-<!ENTITY landscape.label "Положено">
-<!ENTITY landscape.accesskey "П">
-<!ENTITY close.label "Затвори">
-<!ENTITY close.accesskey "З">
-<!ENTITY p30.label "30&#037;">
-<!ENTITY p40.label "40&#037;">
-<!ENTITY p50.label "50&#037;">
-<!ENTITY p60.label "60&#037;">
-<!ENTITY p70.label "70&#037;">
-<!ENTITY p80.label "80&#037;">
-<!ENTITY p90.label "90&#037;">
-<!ENTITY p100.label "100&#037;">
-<!ENTITY p125.label "125&#037;">
-<!ENTITY p150.label "150&#037;">
-<!ENTITY p175.label "175&#037;">
-<!ENTITY p200.label "200&#037;">
-<!ENTITY Custom.label "Прилагођено…">
-<!ENTITY ShrinkToFit.label "Уклопи на страну">
-<!ENTITY customPrompt.title "Произвољна величина…">
+<!ENTITY print.label          "Штампа…">
+<!ENTITY print.accesskey      "P">
+<!ENTITY pageSetup.label      "Подешавање странице">
+<!ENTITY pageSetup.accesskey  "u">
+<!ENTITY page.label           "Страна:">
+<!ENTITY page.accesskey       "a">
+<!ENTITY of.label             "од">
+<!ENTITY scale.label          "Размера:">
+<!ENTITY scale.accesskey      "S">
+<!ENTITY portrait.label       "Усправно">
+<!ENTITY portrait.accesskey   "o">
+<!ENTITY landscape.label      "Водоравно">
+<!ENTITY landscape.accesskey  "L">
+<!ENTITY close.label          "Zatvori">
+<!ENTITY close.accesskey      "C">
+<!ENTITY p30.label            "30&#037;">
+<!ENTITY p40.label            "40&#037;">
+<!ENTITY p50.label            "50&#037;">
+<!ENTITY p60.label            "60&#037;">
+<!ENTITY p70.label            "70&#037;">
+<!ENTITY p80.label            "80&#037;">
+<!ENTITY p90.label            "90&#037;">
+<!ENTITY p100.label           "100&#037;">
+<!ENTITY p125.label           "125&#037;">
+<!ENTITY p150.label           "150&#037;">
+<!ENTITY p175.label           "175&#037;">
+<!ENTITY p200.label           "200&#037;">
+<!ENTITY Custom.label         "Прилагоди…">
+<!ENTITY ShrinkToFit.label    "Уклопи на страну">
+<!ENTITY customPrompt.title   "Произвољна величина…">
 
-<!ENTITY homearrow.tooltip "Прва страна">
-<!ENTITY endarrow.tooltip "Последња страна">
-<!ENTITY rightarrow.tooltip "Наредна страна">
-<!ENTITY leftarrow.tooltip "Претходна страна">
+<!ENTITY homearrow.tooltip    "Прва страна">
+<!ENTITY endarrow.tooltip     "Последња страна">
+<!ENTITY nextarrow.tooltip    "Наредна страна">
+<!ENTITY previousarrow.tooltip "Претходна страна">

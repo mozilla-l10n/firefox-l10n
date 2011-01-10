@@ -1,20 +1,20 @@
-<!ENTITY emailSectionHdr.label "Ел. пошта">
-<!ENTITY readMsgsLink.label "Читање порука">
-<!ENTITY composeMsgLink.label "Писање нове поруке">
+<!ENTITY emailSectionHdr.label        "Ел. пошта"> 
+<!ENTITY readMsgsLink.label           "Читање порука"> 
+<!ENTITY composeMsgLink.label         "Писање нове поруке"> 
 
-<!ENTITY newsSectionHdr.label "Групе">
-<!ENTITY subscribeNewsLink.label "Управљање праћењима група">
+<!ENTITY newsSectionHdr.label         "Групе"> 
+<!ENTITY subscribeNewsLink.label      "Управљање праћењима група"> 
 
-<!ENTITY accountsSectionHdr.label "Налози">
-<!ENTITY subscribeImapFolders.label "Управљање праћењима директоријума">
-<!ENTITY settingsLink.label "Преглед поставки за овај налог">
-<!ENTITY newAcctLink.label "Направи нови налог">
+<!ENTITY accountsSectionHdr.label     "Налози"> 
+<!ENTITY subscribeImapFolders.label   "Управљање праћењима директоријума">
+<!ENTITY settingsLink.label           "Преглед поставки за овај налог"> 
+<!ENTITY newAcctLink.label            "Направи нови налог"> 
 
-<!ENTITY advFeaturesSectionHdr.label "Напредне особине">
-<!ENTITY searchMsgsLink.label "Претрага порука">
-<!ENTITY filtersLink.label "Уреди филтере за поруке">
-<!ENTITY junkSettings.label "Подешавања отпадне поште">
-<!ENTITY offlineLink.label "Подешавања за рад у локалу">
+<!ENTITY advFeaturesSectionHdr.label  "Напредне особине"> 
+<!ENTITY searchMsgsLink.label         "Претрага порука"> 
+<!ENTITY filtersLink.label            "Уреди филтере за поруке">
+<!ENTITY junkSettings.label           "Подешавања отпадне поште">
+<!ENTITY offlineLink.label            "Подешавања за рад у локалу">
 
-<!ENTITY feedsSectionHdr.label "Feeds">
-<!ENTITY subscribeFeeds.label "Manage subscriptions">
+<!ENTITY feedsSectionHdr.label        "Доводи">
+<!ENTITY subscribeFeeds.label         "Manage subscriptions">

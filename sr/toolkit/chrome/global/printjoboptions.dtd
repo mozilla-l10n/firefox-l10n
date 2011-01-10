@@ -2,40 +2,40 @@
 
 <!ENTITY printJobOptions.title "Својства штампача">
 
-<!ENTITY paperInput.label "Paper Size:">
+<!ENTITY paperInput.label "Величина папира:">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "Plex mode:">
+<!ENTITY plexInput.label "Режим:">
 <!ENTITY plexInput.accesskey "m">
 
-<!ENTITY resolutionInput.label "Resolution/Quality:">
+<!ENTITY resolutionInput.label "Резолуција/квалитет:">
 <!ENTITY resolutionInput.accesskey "e">
 
-<!ENTITY cmdInput.label "Print Command:">
+<!ENTITY cmdInput.label "Команда за штампање:">
 <!ENTITY cmdInput.accesskey "o">
 
-<!ENTITY jobTitleInput.label "Job Title:">
+<!ENTITY jobTitleInput.label "Назив посла:">
 <!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Боја:">
-<!ENTITY grayRadio.label "Grayscale">
+<!ENTITY grayRadio.label "Сиви тонови">
 <!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "Color">
+<!ENTITY colorRadio.label "Боја">
 <!ENTITY colorRadio.accesskey "C">
 
-<!ENTITY colorspaceInput.label "Colorspace:">
+<!ENTITY colorspaceInput.label "Простор боја:">
 <!ENTITY colorspaceInput.accesskey "s">
 
 <!ENTITY fontsGroup.label "Фонтови:">
-<!ENTITY downloadFonts.label "Download fonts to printer">
+<!ENTITY downloadFonts.label "Преузми фонтове у штампач">
 <!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "Размак од ивице папира до маргине">
-<!ENTITY topInput.label "Top:">
+<!ENTITY topInput.label "Горњи:">
 <!ENTITY topInput.accesskey "T">
-<!ENTITY bottomInput.label "Bottom:">
+<!ENTITY bottomInput.label "Доњи:">
 <!ENTITY bottomInput.accesskey "B">
-<!ENTITY leftInput.label "Left:">
+<!ENTITY leftInput.label "Леви:">
 <!ENTITY leftInput.accesskey "L">
-<!ENTITY rightInput.label "Right:">
+<!ENTITY rightInput.label "Десни:">
 <!ENTITY rightInput.accesskey "R">

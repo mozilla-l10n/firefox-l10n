@@ -35,8 +35,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY all.label "Пријем свих заглавља">
-<!ENTITY all.accesskey "П">
+<!ENTITY all.label          "Пријем свих заглавља">
+<!ENTITY all.accesskey      "П">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
    with the number of headers to be downloaded inserted between them:
@@ -44,10 +44,10 @@
    Either label could be set to null ("") if required grammatically.
 -->
 
-<!ENTITY download.label "Пријем">
+<!ENTITY download.label     "Пријем">
 <!ENTITY download.accesskey "р">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label "заглавља">
-<!ENTITY headers.accesskey "з">
-<!ENTITY mark.label "Означи остала заглавља као прочитана">
-<!ENTITY mark.accesskey "О">
+<!ENTITY headers.label      "заглавља">
+<!ENTITY headers.accesskey  "з">
+<!ENTITY mark.label         "Означи остала заглавља као прочитана">
+<!ENTITY mark.accesskey     "О">

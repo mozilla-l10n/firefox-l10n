@@ -35,47 +35,47 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Ово може да Вам поништи гаранцију!">
 <!ENTITY aboutWarningText.label "Промена ових напредних подешавања може да нашкоди стабилности, безбедности и брзини овог програма.  Наставите само ако сте сигурни да знате шта радите.">
 <!ENTITY aboutWarningButton.label "Пазићу, часна реч!">
 <!ENTITY aboutWarningCheckbox.label "Прикажи ово упозорење и следећи пут">
 
 <!ENTITY filterPrefs.label "Филтер:">
-<!ENTITY filterPrefs.accesskey "Ф">
-<!ENTITY focusFilter.key "f">
-<!-- Columns -->
+<!ENTITY filterPrefs.accesskey "F">
+<!ENTITY focusFilter.key "с">
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Име својства">
-<!ENTITY lockColumn.label "Статус">
+<!ENTITY lockColumn.label "Стање">
 <!ENTITY typeColumn.label "Тип">
 <!ENTITY valueColumn.label "Вредност">
+
 <!-- Tooltips -->
+<!ENTITY prefColumnHeader.tooltip "Притисните за ређање"> 
+<!ENTITY columnChooser.tooltip "Притисните да изабeрете колоне које се приказују"> 
 
-<!ENTITY prefColumnHeader.tooltip "Притисните за ређање">
-<!ENTITY columnChooser.tooltip "Кликните како би изабрали колону за приказ">
 <!-- Context Menu -->
-
-<!ENTITY copyPref.key "У">
+<!ENTITY copyPref.key "К">
 <!ENTITY copyPref.label "Умножи">
-<!ENTITY copyPref.accesskey "У">
+<!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Умножи име">
-<!ENTITY copyName.accesskey "и">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Умножи вредност">
-<!ENTITY copyValue.accesskey "в">
+<!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Измени">
-<!ENTITY modify.accesskey "И">
+<!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "Пребаци">
-<!ENTITY toggle.accesskey "П">
-<!ENTITY reset.label "Обнови">
-<!ENTITY reset.accesskey "б">
-<!ENTITY new.label "Ново">
-<!ENTITY new.accesskey "Н">
+<!ENTITY toggle.accesskey "T">
+<!ENTITY reset.label "Поништи">
+<!ENTITY reset.accesskey "R">
+<!ENTITY new.label "Нови">
+<!ENTITY new.accesskey "w">
 <!ENTITY string.label "Стринг">
-<!ENTITY string.accesskey "С">
+<!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Цео број">
-<!ENTITY integer.accesskey "б">
+<!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "Булово (boolean)">
-<!ENTITY boolean.accesskey "Б">
+<!ENTITY boolean.accesskey "b">

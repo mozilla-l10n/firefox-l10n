@@ -21,8 +21,8 @@
 <!ENTITY contextPostPluginBoth.label "Провера поште (после класификације), или ручно покренуто">
 <!ENTITY filterActionDesc.label "Уради следеће:">
 <!ENTITY filterActionDesc.accesskey "У">
-<!-- New Style Filter Rule Actions -->
 
+<!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Помери поруку у">
 <!ENTITY copyMessage.label "Умножи поруку у">
 <!ENTITY forwardTo.label "Проследи поруку">

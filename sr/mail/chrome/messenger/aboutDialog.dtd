@@ -1,17 +1,16 @@
-<!ENTITY aboutDialog.title "О програму &brandFullName;">
-<!ENTITY aboutButton.label "&lt; Назад">
-<!ENTITY aboutButton.accesskey "Н">
-<!ENTITY aboutVersion "издање">
-<!ENTITY copyrightText "&#169;1998-2009 Приложници. Сва права су задржана. Мозилин тандерберд (Mozilla Thunderbird) и тандербердови заштитни знаци су робне марке Мозилине задужбине (Mozilla Foundation).  Сва права су задржана.">
-<!ENTITY aboutMenu.label "О програму">
-<!ENTITY aboutMenu.accesskey "О">
-<!ENTITY aboutCredits.label "Заслуге">
+<!ENTITY aboutDialog.title      "О програму &brandFullName;">
+<!ENTITY aboutButton.label      "&lt; Назад">
+<!ENTITY aboutButton.accesskey  "Н">
+<!ENTITY aboutVersion           "издање">
+<!ENTITY aboutMenu.label        "О програму">
+<!ENTITY aboutMenu.accesskey    "О">
+<!ENTITY aboutCredits.label     "Заслуге">
 <!ENTITY aboutCredits.accesskey "З">
-<!ENTITY aboutRights.label "Ваша права">
-<!ENTITY aboutRights.accesskey "п">
+<!ENTITY aboutRights.label      "Ваша права">
+<!ENTITY aboutRights.accesskey  "п">
 <!ENTITY aboutContributors.label "Приложници">
 <!ENTITY aboutContributors.accesskey "р">
-<!ENTITY aboutLicense.label "Лиценца">
-<!ENTITY aboutLicense.accesskey "Л">
+<!ENTITY aboutLicense.label      "Лиценца">
+<!ENTITY aboutLicense.accesskey  "Л">
 
 <!ENTITY cmdCloseMac.commandKey "w">

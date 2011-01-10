@@ -35,8 +35,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xul -->
 
 <!ENTITY replaceDialog.title "Нађи и замени">
 <!ENTITY findField.label "Нађи текст:">

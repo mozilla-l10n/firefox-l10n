@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Менаџер уређаја">
+<!ENTITY devmgr.title                           "Менаџер уређаја">
 
-<!ENTITY devmgr.devlist.label "Безбедносни модул и уређаји">
-<!ENTITY devmgr.details.title "Детаљи">
-<!ENTITY devmgr.details.title2 "Вредност">
-<!ENTITY devmgr.status.label "Статус">
-<!ENTITY devmgr.version.label "Верзија">
+<!ENTITY devmgr.devlist.label                   "Безбедносни модул и уређаји">
+<!ENTITY devmgr.details.title                   "Детаљи">
+<!ENTITY devmgr.details.title2                  "Вредност">
+<!ENTITY devmgr.status.label                    "Стање">
+<!ENTITY devmgr.version.label                   "Издање">
 
-<!ENTITY devmgr.button.changeslotname.label "Промена имена прореза">
-<!ENTITY devmgr.button.changeslotname.accesskey "П">
-<!ENTITY devmgr.button.login.label "Пријава">
-<!ENTITY devmgr.button.login.accesskey "р">
-<!ENTITY devmgr.button.logout.label "Одјава">
-<!ENTITY devmgr.button.logout.accesskey "О">
-<!ENTITY devmgr.button.changepw.label "Промена лозинке">
-<!ENTITY devmgr.button.changepw.accesskey "л">
-<!ENTITY devmgr.button.load.label "Учитај">
-<!ENTITY devmgr.button.load.accesskey "У">
-<!ENTITY devmgr.button.unload.label "Уклони">
-<!ENTITY devmgr.button.unload.accesskey "к">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.changeslotname.label     "Промена имена прореза">
+<!ENTITY devmgr.button.changeslotname.accesskey "C">
+<!ENTITY devmgr.button.login.label              "Пријава">
+<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.logout.label             "Одјава">
+<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.changepw.label           "Промена лозинке">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.load.label               "Учитај">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "Уклони">
+<!ENTITY devmgr.button.unload.accesskey         "U">
+<!ENTITY devmgr.button.fips.accesskey           "З">
 
-<!ENTITY loaddevice.info "Унесите податке о модулу који желите да додате.">
-<!ENTITY loaddevice.modname "Име модула:">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "Нови модул PKCS#11">
-<!ENTITY loaddevice.filename "Назив датотеке:">
-<!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "Преглед…">
-<!ENTITY loaddevice.browse.accesskey "B">
+<!ENTITY loaddevice.info                        "Унесите податке о модулу који желите да додате.">
+<!ENTITY loaddevice.modname                     "Име модула:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "Нови модул PKCS#11">
+<!ENTITY loaddevice.filename                    "Назив датотеке:">
+<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.browse                      "Потражи…">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title "Учитај PKCS#11 уређај">
+<!ENTITY loaddevice.title                       "Учитај PKCS#11 уређај">

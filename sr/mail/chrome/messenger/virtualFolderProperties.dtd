@@ -1,8 +1,8 @@
 <!ENTITY virtualFolderProperties.title "Нови директоријум за чување претрага">
-<!ENTITY name.label "Име:">
-<!ENTITY name.accesskey "И">
-<!ENTITY description.label "Направи као поддиректоријум од:">
-<!ENTITY description.accesskey "Н">
+<!ENTITY name.label                 "Име:">
+<!ENTITY name.accesskey             "И">
+<!ENTITY description.label          "Направи као поддиректоријум од:">
+<!ENTITY description.accesskey      "Н">
 
 <!ENTITY searchTermCaption.label "Подеси критеријуме за претрагу који се користе за овај директоријум са претрагама:">
 

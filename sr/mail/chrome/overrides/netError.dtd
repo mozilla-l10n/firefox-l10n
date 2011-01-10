@@ -3,8 +3,8 @@
 
 <!ENTITY loadError.label "Грешка при учитавању стране">
 <!ENTITY retry.label "Пробај опет">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Повезивање није успело">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -120,11 +120,11 @@
 <!ENTITY securityOverride.linkText "Или можете додати изузетак…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">
 <!ENTITY securityOverride.exceptionButtonLabel "Додај изузетак…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningText "<p>Не треба да додајете изузетак ако користите везу са интернетом која није од потпуног поверења, или ако обично не добијате упозорење за овај сервер.</p> 
  
