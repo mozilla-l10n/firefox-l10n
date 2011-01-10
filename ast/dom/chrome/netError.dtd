@@ -1,3 +1,5 @@
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
 <!ENTITY loadError.label "Fallu al cargar la páxina">
 <!ENTITY retry.label "Reintentar">
 
@@ -26,9 +28,10 @@
 
 <!ENTITY netOffline.title "Mou ensin conexón">
 <!ENTITY netOffline.longDesc "<p>Agora, el restolador ta en mou ensin conexón y nun puede coneutase al elementu solicitáu</p><ul><li>¿Ta l'equipu coneutáu a una rede activa? </li><li>Pon el restolador en mou Conexón y vuelvi a intentalo.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Agora, el restolador web ta en mou ensin conexón y nun pue coneutase al elementu solicitáu</p><ul><li>¿Ta l'equipu coneutáu a una rede activa? </li><li>Pon el restolador web en mou con conexón y vuelvi a intentalo.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Error de codificación de conteníu">
-<!ENTITY contentEncodingError.longDesc "<p>La páxina que tas intentando ver nun puede amosase porque usa una forma non válida o non almitía de compresión.</p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul>">
+<!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
+<!ENTITY contentEncodingError.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque usa una forma non válida o non almitía de compresión.</p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tipu de ficheru non seguru">
 <!ENTITY unsafeContentType.longDesc "<ul>
@@ -77,5 +80,7 @@
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
+
+
+<!ENTITY cspFrameAncestorBlocked.title "Bloquiáu pola política de seguridá de conteníu">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>El restolador web impidió qu'esta páxina se cargase d'esta forma, porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
