@@ -31,7 +31,7 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Помери у групу">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Нова група">
-<!ENTITY  moveToNewWindow.label              "Dilec'hiañ en ur prenestr nevez">
+<!ENTITY  moveToNewWindow.label              "Премести у нови прозор">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Забележи све језичке">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Претплата на ову страну">
 <!ENTITY subscribeToPageMenuitem.label "Претплата на ову страну…">
 <!ENTITY addCurPagesCmd.label "Забележи све језичке">
-<!ENTITY showAllBookmarks2.label "Wëskrzëni wszëtczi załóżczi">
+<!ENTITY showAllBookmarks2.label "Прикажи све забелешке">
 <!ENTITY bookmarkAllCmd.label "Забележи све језичке">
 <!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још забелешки">
 
@@ -119,7 +119,7 @@ can reach it easily. -->
 <!ENTITY stopCmd.label                "Стани">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Ihinto ang pagkakarga ng pahina">
+<!ENTITY stopButton.tooltip           "Заустави учитавање стране">
 <!ENTITY goEndCap.tooltip             "Приказ адресе уписане у траку за адресе">
 <!ENTITY printButton.label            "Штампај">
 <!ENTITY printButton.tooltip          "Штампај ову страну">
@@ -135,10 +135,10 @@ can reach it easily. -->
 <!ENTITY appMenuButton.tooltip        "Отвори мени &brandShortName;-а">
 <!ENTITY homeButton.label             "Мој календар">
 
-<!ENTITY tabGroupsButton.label        "Strolladoù ivinelloù">
-<!ENTITY tabGroupsButton.tooltip      "Strollañ hoc'h ivinelloù">
+<!ENTITY tabGroupsButton.label        "Групе језичака">
+<!ENTITY tabGroupsButton.tooltip      "Групишите своје језичке">
 
-<!ENTITY feedButton.label             "הירשם">
+<!ENTITY feedButton.label             "Пријави се">
 <!ENTITY feedButton.tooltip           "Претплата на ову страну…">
 
 <!ENTITY bookmarksButton.label          "Омиљено">
@@ -234,16 +234,16 @@ can reach it easily. -->
 <!ENTITY deleteCmd.label          "Уклони ставку">  
 <!ENTITY deleteCmd.key            "И">  
 <!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "Piliin Lahat">  
+<!ENTITY selectAllCmd.label         "Изабери све">  
 <!ENTITY selectAllCmd.key         "П">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd2.label       "هەڵبژاردنەکان">
+<!ENTITY preferencesCmd2.label       "Могућности">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey     "П"> 
 
 <!ENTITY clearRecentHistory.label               "Уклони скорашњи историјат…">
-<!ENTITY clearRecentHistory.accesskey           "H">
+<!ENTITY clearRecentHistory.accesskey           "У">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Покрени поверљиво читање">
@@ -254,7 +254,7 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Pogledaj"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "Strolladoù ivinelloù">
+<!ENTITY viewTabGroups.label            "Групе језичака">
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Алатне траке"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
@@ -321,7 +321,7 @@ can reach it easily. -->
 <!ENTITY openLinkCmd.label            "Отвори у новом прозору">
 <!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkCmdInCurrent.label     "Отвори везу">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openLinkCmdInCurrent.accesskey "О">
 <!ENTITY openFrameCmdInTab.label      "Отвори оквир у новом језичку">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Отвори оквир у новом прозору">
@@ -346,7 +346,7 @@ can reach it easily. -->
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "Поновно учитавање слике">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Tingnan ang Larawan">
+<!ENTITY viewImageCmd.label           "Прикажи слику">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Преглед података о слици">
 <!ENTITY viewImageInfoCmd.accesskey   "П">
@@ -417,8 +417,8 @@ can reach it easily. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Сакриј контроле">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "Цял екран">
-<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.label       "Користи цео екран">
+<!ENTITY videoFullScreen.accesskey   "К">
 
 
 <!-- LOCALIZATION NOTE :

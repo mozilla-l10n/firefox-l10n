@@ -14,7 +14,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "URL самостално постављање посредника:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
-<!ENTITY  reload.label                  "Թարմացնել">
+<!ENTITY  reload.label                  "Опет учитај">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP-посредник:">
 <!ENTITY  ftp.accesskey                 "F">

@@ -58,10 +58,10 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent.label "Трајно поверљиво читање">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent.accesskey "Т">
 
 <!ENTITY  rememberHistory.label      "Запамти мој историјат прегледања">
-<!ENTITY  rememberHistory.accesskey  "b">
+<!ENTITY  rememberHistory.accesskey  "З">
 
 <!ENTITY  rememberDownload.label         "Памти историјат пријема">
 <!ENTITY  rememberDownload.accesskey     "d">

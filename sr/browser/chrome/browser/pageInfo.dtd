@@ -51,7 +51,7 @@
 <!ENTITY  generalTab            "Основне поставке">
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Адреса:">
-<!ENTITY  generalType           "Ôrt:">
+<!ENTITY  generalType           "Врста:">
 <!ENTITY  generalMode           "Тип приказа:">
 <!ENTITY  generalSize           "Величина:">
 <!ENTITY  generalReferrer       "Референтни URL:">
@@ -83,7 +83,7 @@
 <!ENTITY  feedTab               "Доводе">
 <!ENTITY  feedTab.accesskey     "F">
 <!ENTITY  feedSubscribe         "Пријави се">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedSubscribe.accesskey "П">
 
 <!ENTITY  permTab               "Дозволе">
 <!ENTITY  permTab.accesskey     "P">

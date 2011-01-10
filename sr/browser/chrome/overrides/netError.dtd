@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Грешка при учитавању стране">
-<!ENTITY retry.label "Ulitin">
+<!ENTITY retry.label "Пробај опет">
 
 <!-- Specific error messages -->
 
@@ -13,7 +13,15 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сервер није пронађен">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Проверите грешке у адреси као нпр. <strong>ww</strong>.example.com уместо <strong>www</strong>.example.com</li> <li>Ако нисте у стању да учитате ни једну страну, проверите подешавања мреже у вашем систему.</li> <li>Ако је Ваш рачунар заштићен Ватреним зидом или прокси сервером, проверите да ли је &brandShortName;-у дозвољено да приступа интернету.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Kiểm tra các lỗi gõ địa chỉ như là
+    <strong>ww</strong>.example.com thay vì
+    <strong>www</strong>.example.com</li>
+  <li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng của bạn.</li>
+  <li>Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc rằng &brandShortName; được phép truy cập Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Датотека није пронађена">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -45,7 +53,7 @@
      menu (Windows).
 -->
 <!ENTITY netOffline.overrideLongDesc "<ul>
- <li>Дештиклирајте &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li>
+ <li>Искључите &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li>
 </ul>
 ">
 
@@ -116,8 +124,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>Уношење ма каквих личних података на овој страни може да буде узрок крађе идентитета или друге врсте преваре.</p> 
 <p>Ова врста мрежних фалсификата користи се у преварама познатим под именом „фишинг‟ (phishing), при којима се злонамерне веб стране или ел. адресе користе да имитирају изворе којима верујете.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Блокирала политика безбедности садржаја">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице, јер садржи политику безбедности садржаја која то онемогућава.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Блокирано због полисе о безбедности садржаја">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин, јер садржи полису о безбедности садржаја која то онемогућава.</p>">
 
 <!ENTITY securityOverride.linkText "Или можете додати изузетак…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Alisin ako dito!">

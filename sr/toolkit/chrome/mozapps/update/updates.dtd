@@ -4,8 +4,8 @@
 <!ENTITY  updateCheck.label               "Тражимо ново издање програма &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Пронађене доградње за проширења">
-<!ENTITY  pluginupdatesfound.label        "Пронађене су новије верзије једног или више ваших проширења.">
-<!ENTITY  pluginupdateslink.label         "Погледајте како да доградите своја проширења.">
+<!ENTITY  pluginupdatesfound.label        "Пронађена су новија издања једног или више прикључака.">
+<!ENTITY  pluginupdateslink.label         "Погледајте како да доградите прикључке.">
 
 <!ENTITY  noupdatesfound.title            "Доградње нису пронађене">
 <!ENTITY  noupdatesautoenabled.intro      "Нема нових доградњи.  Програм &brandShortName; ће периодичнo проверавати доградње.">

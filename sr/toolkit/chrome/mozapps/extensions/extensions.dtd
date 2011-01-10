@@ -11,7 +11,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Алатке за све додатке">
 
-<!ENTITY cmd.back.tooltip                     "Mont d'ar bajennad kent">
+<!ENTITY cmd.back.tooltip                     "Назад за једну страну">
 <!ENTITY cmd.forward.tooltip                  "Напред за једну страну">
 
 <!-- global warnings -->
@@ -28,7 +28,7 @@
 <!ENTITY view.discover.label                  "Набави додатке">
 <!ENTITY view.locales.label                   "Језици">
 <!ENTITY view.searchengines.label             "Механизме претраге">
-<!ENTITY view.features.label                  "Askouezhioù">
+<!ENTITY view.features.label                  "Проширења">
 <!ENTITY view.appearance2.label               "Изглед">
 <!ENTITY view.plugins.label                   "Додаци">
 <!ENTITY view.recentUpdates.label             "Недавна ажурирања">
@@ -122,13 +122,13 @@
 <!ENTITY detail.updateType                    "Аутоматска ажурирања">
 <!ENTITY detail.updateDefault.label           "Изворни">
 <!ENTITY detail.updateDefault.tooltip         "Аутоматски инсталирај доградње само ако је то подразумевано">
-<!ENTITY detail.updateAutomatic.label         "פעיל">
+<!ENTITY detail.updateAutomatic.label         "Укључено">
 <!ENTITY detail.updateAutomatic.tooltip       "Аутоматски ажурирај додатке">
-<!ENTITY detail.updateManual.label            "כבוי">
+<!ENTITY detail.updateManual.label            "Искључено">
 <!ENTITY detail.updateManual.tooltip          "Немој да аутоматски инсталираш додатке">
-<!ENTITY detail.home                          "דף הבית">
+<!ENTITY detail.home                          "Матична страница">
 <!ENTITY detail.repository                    "Профил додатка">
-<!ENTITY detail.size                          "גודל ">
+<!ENTITY detail.size                          "Величина">
 
 <!ENTITY detail.checkForUpdates.label         "Провери да ли постоје исправке">
 <!ENTITY detail.checkForUpdates.accesskey     "f">
@@ -178,10 +178,10 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Обнављања">
-<!ENTITY addon.undoAction.label               "בטל">
-<!ENTITY addon.undoAction.tooltip             "בטל פעולה זו">
-<!ENTITY addon.undoRemove.label               "בטל">
-<!ENTITY addon.undoRemove.tooltip             "השאר תוספת זו מותקנת">
+<!ENTITY addon.undoAction.label               "Опозови">
+<!ENTITY addon.undoAction.tooltip             "Опозови ову радњу">
+<!ENTITY addon.undoRemove.label               "Опозови">
+<!ENTITY addon.undoRemove.tooltip             "Нека додатак остане инсталиран">
 <!ENTITY addon.restartNow.label               "Restart now">
 <!ENTITY addon.install.label                  "Постави">
 <!ENTITY addon.install.tooltip                "Инсталирај овај додатак">

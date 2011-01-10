@@ -1,5 +1,5 @@
 <!ENTITY privatebrowsingpage.title                 "Поверљиво читање">
-<!ENTITY privatebrowsingpage.title.normal          "ئایە ئەتەوێ دەستبکەیت بە گەڕانی تایبەت?">
+<!ENTITY privatebrowsingpage.title.normal          "Желите ли да покренете поверљиво читање?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "Програм &brandShortName; неће памтити историјат за ову сесију.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; тренутно не ради у режиму поверљивог читања.">
@@ -12,7 +12,7 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "очистите историјат">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Zrëszë priwatné przezéranié">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Покрени поверљиво читање">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
@@ -21,4 +21,4 @@
 <!ENTITY privatebrowsingpage.howToStart2               "Да бисте започели поверљиво читање, можете и да изаберете &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Иако рачунар неће оставити трага о историјату прегледаних страна, Ваш добављач услуге интернета или послодавац и даље могу да прате стране које сте посетили.">
-<!ENTITY privatebrowsingpage.learnMore                 "زیاتر بزانە">
+<!ENTITY privatebrowsingpage.learnMore                 "Сазнајте више">

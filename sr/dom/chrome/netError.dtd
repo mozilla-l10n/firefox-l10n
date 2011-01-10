@@ -1,22 +1,22 @@
 <!ENTITY loadError.label "Неуспешно учитавање странице">
-<!ENTITY retry.label "Ulitin">
+<!ENTITY retry.label "Пробај опет">
 
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Неуспешно повезивање">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "<p>Иако сајт изгледа легитимно, прегледач није могао да успостави везу.</p><ul><li>Ако је сајт привремено недоступан, можете покушати касније.</li><li>Ако имате исти проблем са другим сајтовима, проверите да ли је рачунар повезан на мрежу.</li><li>Ако је рачунар заштићен посредником (proxy) или ватробраном (firewall), проверите да ли су исправно подешени.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Адреса је заштићена">
 <!ENTITY deniedPortAccess.longDesc "<p>Тражена адреса је одредила и порт (нпр. <q>mozilla.org:80</q> за порт 80 на сајту mozilla.org) који се обично користи у <em>друге</em> сврхе а не за преглед Веба. Прегледач је отказао захтев ради Ваше заштите и безбедности.</p>">
 
 <!ENTITY dnsNotFound.title "Сервер није пронађен">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Проверите грешке у адреси као нпр. <strong>ww</strong>.example.com уместо <strong>www</strong>.example.com</li> <li>Ако није могуће учитавање ниједне стране, проверите подешавања мреже на Вашем систему.</li> <li>Ако је Ваш рачунар заштићен ватробраном (firewall) или посредником (proxy), проверите да ли је програму &brandShortName; дозвољено да приступа интернету.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Прегледач није могао да пронађе рачунар на задатој адреси.</p><ul><li>Да ли сте можда погрешили при укуцавању адресе? (пример: <q><strong>ww</strong>.mozilla.org</q> уместо <q><strong>www</strong>.mozilla.org</q>)</li><li>Да ли сте сигурни да адреса постоји?  Можда јој је истекла регистрација.</li><li>Да ли можете да прегледате друге сајтове?  Проверите подешавања мреже или подешавања DNS-а.</li><li>Да ли је рачунар заштићен ватробраном (firewall) или посредником (proxy)?  Неисправна подешавања могу да буду препрека читању садржаја са Веба.</li></ul>">
 
 <!ENTITY fileNotFound.title "Датотека није нађена">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Проверите коришћење великих/малих слова или неке друге грешке у куцању.</li> <li>Проверите да ли је датотека премештена, преименована или избрисана.</li> </ul>">
 
 <!ENTITY generic.title "Захтев није могао да буде обрађен">
-<!ENTITY generic.longDesc "<p>&brandShortName; из неког разлога не може да учита страну.</p>">
+<!ENTITY generic.longDesc "<p>Додатни подаци о овом проблему или грешци тренутно нису доступни.</p>">
 
 <!ENTITY malformedURI.title "Адреса није исправна">
 <!ENTITY malformedURI.longDesc "<ul> <li>Интернет адресе су обично налик на <strong>http://www.example.com/</strong></li> <li>Проверите да ли користите исправне знаке (нпр.<strong>/</strong>).</li> </ul>">
@@ -26,23 +26,21 @@
 
 <!ENTITY netOffline.title "Рад ван мреже">
 <!ENTITY netOffline.longDesc "<ul> <li>Дештиклирај &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li> </ul>">
-<!ENTITY netOffline.overrideLongDesc " <p>Ema&ntilde; ar merdeer o labourat gant e vod ezlinenn ha n'hall ket kennaska&ntilde; ouzh an ergorenn bet goulennet.</p><ul><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Lakaat ar merdeer war e vod enlinenn ha klask en-dro.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<ul> <li>Дештиклирај &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
 <!ENTITY contentEncodingError.longDesc "<p>Страна коју покушавате да прегледате не може бити приказана јер користи неисправан или неподржан вид компресије.</p><ul><li>Молимо да се обратите власницима сајта и обавестите их о овом проблему.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Небезбедна врста датотеке">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Tanpri kontakte mèt sit wèb la yo pou pale yo de pwoblèm sa a.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Молимо да се обратите власницима веб сајта и обавестите их о овом проблему.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Веза са сервером је обновљена">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Веза са сервером је истекла">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "<p>Тражени сајт није одговорио на захтев за повезивањем и прегледач је престао да чека на одговор</p><ul><li>Сервер је можда тренутно и привременопреоптерећен.  Молимо да пробате касније.</li><li>Да ли имате исти проблем и са другим сајтовима?  Ако да, проверите да ли је рачунар повезан на мрежу.</li><li>Да ли су Ваш рачунар или мрежа заштићени ватробраном (firewall) или посредником (proxy)?  Неисправна подешавања могу да спрече приступ мрежи.</li><li>Да ли још увек имате проблема са повезивањем?  У том случају обратите се за помоћ администратору система или добављачу услуге Интернета.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Адреса није разумљива">
 <!ENTITY protocolNotFound.longDesc "<ul> <li>Можда ћете морати да поставите други програм како бисте видели ову страну.</li> </ul>">
@@ -51,7 +49,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Проверите исправност подешавања прокси сервера.</li> <li>Питајте администратора ваше мреже да ли је прокси сервер активан.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Не могу да пронађем прокси сервер">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Проверите исправност подешавања прокси сервера.</li> <li>Проверите да ли Ваш рачунар поседује исправну мрежу.</li> <li>Ако је Ваш рачунар заштићен Ватреним зидом или прокси сервером, проверите да ли је &brandShortName;-у дозвољено да приступа интернету.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Рачунар је подешен да користи посреднички сервер (proxy) али тај заступник није пронађен.</p><ul><li>Да ли је подешавање посредника исправно?  Проверите подешавање и пробајте поново.</li><li>Да ли је рачунар повезан на активну мрежу?</li><li>Још увек имате проблема?  Обратите се за помоћ администратору Ваше мреже или добављачу услуге Интернета.</li></ul>">
 
 <!ENTITY redirectLoop.title "Страна није правилно преусмерена">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Овај проблем понекад може бити проузрокован неприхватањем колачића.</li> </ul>">
@@ -72,8 +70,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>Уношење ма каквих личних података на овој страни може да буде узрок крађе идентитета или друге врсте преваре.</p> 
 <p>Ова врста мрежних фалсификата користи се у преварама познатим под именом „фишинг‟ (phishing), при којима се злонамерне веб стране или ел. адресе користе да имитирају изворе којима верујете.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Блокирала политика безбедности садржаја">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Прегледач је спречио ову страницу да се учита на овај начин, јер страница има политику безбедности садржаја која то онемогућава.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Блокирано због полисе о безбедности садржаја">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Прегледач је спречио ову страницу да се учита на овај начин, јер страница има полису о безбедности садржаја која то онемогућава.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

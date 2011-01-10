@@ -44,7 +44,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY cmd.bookmarkLink.label         "Забележи ову страницу…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
+<!ENTITY cmd.bookmarkLink.accesskey     "З">
 <!ENTITY cmd.delete.label               "Уклони ову страну">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "Заборави овај сајт">
@@ -126,7 +126,7 @@
 <!ENTITY detailsPane.noPreviewAvailable.label "Послушај">
 <!ENTITY detailsPane.selectAnItemText.description "Изаберите ставку за преглед и уредите њена својства">
 
-<!ENTITY find.label               "Klask :">
+<!ENTITY find.label               "Нађи:">
 <!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "Pogledaj">
 <!ENTITY view.accesskey           "w">

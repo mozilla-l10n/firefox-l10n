@@ -21,7 +21,7 @@
 <!ENTITY rangeRadio.label  "Стране">
 <!ENTITY rangeRadio.accesskey  "P">
 <!ENTITY frompageInput.label  "Организатор:">
-<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY frompageInput.accesskey  "о">
 <!ENTITY topageInput.label  "до">
 <!ENTITY topageInput.accesskey  "t">
 <!ENTITY selectionRadio.label "Избор">

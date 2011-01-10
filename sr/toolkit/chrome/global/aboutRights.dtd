@@ -37,7 +37,7 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "במידה שמוצר זה כולל שירותי רשת, יש לקשר כל תנאי שירות ישים עבור השירות/ים אל הסעיף ">
+<!ENTITY rights.intro-point4a-unbranded "Ако овај производ укључује мрежне услуге, све односне услове услога можете пронаћи на ">
 <!ENTITY rights.intro-point4b-unbranded "одељку о мрежним услугама">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
@@ -70,7 +70,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Location-Aware прегледање је сада онемогућено">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "סקירה של שירותי האתרים שהמוצר מכיל, יחד עם הוראות איך לבטל אותם, אם הדבר אפשרי, אמורה להיכלל כאן.">
+<!ENTITY rights.webservices-unbranded "Преглед мрежних услуга које су уграђене у производ, као и упутства за њихово искључивање, ако је тако нешто предвиђено, треба да се могу наћи овде.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Сви услови услуга за овај производ треба да су побројани овде.">

@@ -58,7 +58,7 @@
 
 <!ENTITY autoCheck.label                 "Самостално проверавај доступност унапређења за:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAppUpdate.accesskey       "b">
 <!ENTITY enableAddonsUpdate2.label       "Додаци">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Механизме претраге">
@@ -68,7 +68,7 @@
 <!ENTITY askMe.accesskey                 "k">
 <!ENTITY modeAutomatic.label             "Самостално прими и постави унапређење">
 <!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "הזהר אותי אם הדבר ינטרל חלק מהתוספות שלי">
+<!ENTITY modeAutoAddonWarn.label         "Упозори ме ако ће ово искључити било који додатак">
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!ENTITY updateHistory.label             "Прикажи историјат унапређења">
 <!ENTITY updateHistory.accesskey         "p">

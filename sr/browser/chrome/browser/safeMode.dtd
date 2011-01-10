@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Обнови линије алатки и контроле">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY deleteBookmarks.label        "Избриши све забелешке, осим за резервне копије">
-<!ENTITY deleteBookmarks.accesskey    "b">
+<!ENTITY deleteBookmarks.label        "Уклони све забелешке, осим резервних копија">
+<!ENTITY deleteBookmarks.accesskey    "У">
 
 <!ENTITY resetUserPrefs.label         "Врати сва корисничка подешавања на изворно за програм &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
@@ -58,4 +58,4 @@
 <!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "Направи измене и покрени поново">
-<!ENTITY continueButton.label         "Kontinye an Mòd san echèk">
+<!ENTITY continueButton.label         "Настави рад у безбедном моду">

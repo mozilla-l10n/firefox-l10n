@@ -63,7 +63,7 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Прилагоди…">
-<!ENTITY ShrinkToFit.label    "Уклопи на страну">
+<!ENTITY ShrinkToFit.label    "Уклопи умањењем">
 <!ENTITY customPrompt.title   "Произвољна величина…">
 
 <!ENTITY homearrow.tooltip    "Прва страна">
