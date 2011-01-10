@@ -1,16 +1,16 @@
 <!ENTITY aboutDialog.title          "عن &brandFullName;">
 
-<!ENTITY community.start2           "&brandShortName; مُطوَّر من قِبل ">
+<!ENTITY community.start2           "تطوّر &brandShortName; ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          "، وهي عبارة عن ">
+<!ENTITY community.middle2          "، وهي ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "مجتمع عمومي">
-<!ENTITY community.end2             " يعمل يدًا بيد لتحسين الإنترنت. نحن نؤمن أن الإنترنت يجب أن يكون عامًا ومفتوحًا أمام الجميع من دون أي قيود.">
+<!ENTITY community.creditsLink      "مجتمع عالمي">
+<!ENTITY community.end2             " يعمل يدًا بيد لتحسين الإنترنت. نؤمن أن الإنترنت يجب أن يكون عامًا ومفتوحًا ومتاحًا لكل الناس من دون أي قيود.">
 
-<!ENTITY contribute.start           "هل يثير ذلك اهتمامك؟ ">
+<!ENTITY contribute.start           "هل يثير هذا اهتمامك؟ ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "شارِك معنا!">
+<!ENTITY contribute.getInvolvedLink "شارِك معنا إذًا!">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
@@ -29,7 +29,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; مُحدَّث">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "مدير النظام عطّل التحديثات">
+<!ENTITY update.adminDisabled       "عطّل مدير النظام التحديثات">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

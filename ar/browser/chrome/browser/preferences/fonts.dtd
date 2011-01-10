@@ -3,7 +3,7 @@
 <!ENTITY window.macWidth "43em">
 <!ENTITY window.unixWidth "41em">
 
-<!ENTITY language.label "خطوط ل‍:">
+<!ENTITY language.label "خطوط‍:">
 <!ENTITY language.accesskey "خ">
 
 <!ENTITY size.label "الحجم:">

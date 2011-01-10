@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "إعداد &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "د">
-<!ENTITY weaveDesc.label            "يسمح لك &syncBrand.fullName.label; بالوصول إلى علاماتك وتأريخك وكلمات السر والألسنة النفتوحة في جميع أجهزتك.">
+<!ENTITY weaveDesc.label            "يتيح &syncBrand.fullName.label; الوصول إلى علاماتك وتأريخك وكلمات السر والألسنة النفتوحة في جميع أجهزتك.">
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "حساب &syncBrand.fullName.label;">
@@ -16,9 +16,10 @@
 <!ENTITY manageAccount.accesskey      "س">
 <!ENTITY viewQuota.label              "اعرض الحصة">
 <!ENTITY changePassword.label         "غيّر كلمة السر">
-<!ENTITY mySyncKey.label              "مفتاحي للتزامُن">
+<!ENTITY mySyncKey.label              "مفتاح المزامنة">
 <!ENTITY resetSync.label              "صفّر التزامن">
 <!ENTITY stopUsingAccount.label       "كفّ عن استخدام هذا الحساب">
+<!ENTITY addDevice.label              "أضِف جهازًا">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "تزامُن المتصفح">

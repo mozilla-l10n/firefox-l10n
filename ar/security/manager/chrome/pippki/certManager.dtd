@@ -135,7 +135,7 @@
 <!ENTITY exceptionMgr.title "أضِف استثناءً أمنيًا">
 <!ENTITY exceptionMgr.exceptionButton.label   "أكّد الاستثناء الأمني">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "س">
-<!ENTITY exceptionMgr.supplementalWarning "البنوك الحقيقية والمتاجر والمواقع العامة الأخرى لن تطلب منك القيام بهذا.">
+<!ENTITY exceptionMgr.supplementalWarning "لن تطلب منك هذا البنوك الحقيقية والمتاجر والمواقع العامة الأخرى.">
 <!ENTITY exceptionMgr.certlocation.caption2 "الخادوم">
 <!ENTITY exceptionMgr.certlocation.url "المكان:">
 <!ENTITY exceptionMgr.certlocation.download "اجلب الشهادة">

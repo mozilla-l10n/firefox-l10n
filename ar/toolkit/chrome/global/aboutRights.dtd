@@ -1,8 +1,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "rtl">
 <!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "عن حقوقك">
-<!ENTITY rights.intro "&brandFullName; هو برنامج حرّ مفتوح المصدر، اشترك في بنائه الآلاف من أنحاء العالم. هناك بضعة أمور ينبغي أن تعلمها:">
+<!ENTITY rights.intro-header    "حقوقك">
+<!ENTITY rights.intro "&brandFullName; برنامج حرّ مفتوح المصدر، اشترك في بنائه الآلاف من أنحاء العالم. هناك بضعة أمور ينبغي أن تعلمها:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -12,50 +12,50 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; متاح لك وفق بنود ">
+<!ENTITY rights.intro-point1a "يُتاح لك &brandShortName; وفق بنود ">
 <!ENTITY rights.intro-point1b "رخصة موزيلا العامة">
-<!ENTITY rights.intro-point1c ". يعني هذا أنك تستطيع استخدام ونسخ وتوزيع &brandShortName; إلى الآخرين.  تستطيع أيضًا تعديل كود &brandShortName; المصدري كما تشاء لموافقة احتياجاتك. تعطيك رخصة موزيلا العامة الحق كذلك في توزيع نسخك المعدلة.">
+<!ENTITY rights.intro-point1c ". يعني هذا أنك تستطيع استخدام &brandShortName; ونسخه وتوزيعه إلى الآخرين.  تستطيع أيضًا تعديل كود &brandShortName; المصدري كما تشاء لموافقة احتياجاتك. كما تعطيك رخصة موزيلا العامة الحق في توزيع نسخك المعدلة.">
 
 
-<!ENTITY rights.intro-point2-a "أنت لا تملك أي حقوق للعلامات التجارية أو تراخيص للعلامات التجارية التابعة لمؤسسة موزيلا أو أي طرف آخر، ويتضمن ذلك بدون قيود اسم فَيَرفُكس وشعاره. يمكنك إيجاد مزيد من المعلومات عن العلامات التجارية ">
+<!ENTITY rights.intro-point2-a "لا يعطيك هذا أي حقوق أو تراخيص للعلامات التجارية التابعة لمؤسسة موزيلا أو أي طرف آخر، متضمنًا على سبيل المثال لا الحصر اسم فَيَرفُكس وشعاره. يمكنك الاطلاع على مزيد من المعلومات عن العلامات التجارية ">
 <!ENTITY rights.intro-point2-b "هنا">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "بعض المزايا في &brandShortName;، مثل مبلّغ الانهيارات، تعطيك الخيار بإرسال تعليقك إلى &vendorShortName;. عندما تختار إرسال تعليقك، فأنت تعطي &vendorShortName; الإذن لاستخدام تعليقك من أجل تحسين منتجاتها، ولنشر تعليقك على مواقعها، ولتوزيع تعليقك.">
+<!ENTITY rights.intro-point2.5 "بعض مزايا &brandShortName;، مثل مبلّغ الانهيارات، تتيح إرسال تعليقاتك إلى &vendorShortName;. باختيارك إرسال تعليق، فأنت تعطي &vendorShortName; الإذن باستحدامه لتحسين منتجاتها، ونشره على مواقعها، وتوزيعه.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "كيفية استخدامنا لمعلوماتك الشخصية والتعليقات التي ترسلها إلى &vendorShortName; من خلال &brandShortName; مشروحة في ">
+<!ENTITY rights2.intro-point3a "كيفية استخدامنا لمعلوماتك الشخصية والتعليقات التي ترسلها إلى &vendorShortName; عبر &brandShortName; مشروحة في ">
 <!ENTITY rights2.intro-point3b "سياسة خصوصية &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "كل سياسات الخصوصية المطبقة في هذا المنتج ينبغي أن تكون مسرودة هنا.">
+<!ENTITY rights.intro-point3-unbranded "كل سياسات الخصوصية المطبقة في هذا المنتج مسرودة هنا.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "بعض مزايا &brandShortName; تستفيد من خدمات للمعلومات في الوب، ولكننا لا نستطيع أن نضمن أنها دقيقة 100&#37; أو خالية من الأخطاء. يمكن إيجاد مزيد من التفاصيل، التي تتضمن معلومات عن كيفية تعطيل المزايا التي تستخدم هذه الخدمات، في ">
+<!ENTITY rights2.intro-point4a "بعض مزايا &brandShortName; تستفيد من خدمات للمعلومات في الوب، ولكننا لا نستطيع أن نضمن دقتها 100&#37; أو خلوها من الأخطاء. يمكن الاطلاع على مزيد من التفاصيل، بما فيها  كيفية تعطيل المزايا التي تستخدم هذه الخدمات، في ">
 <!ENTITY rights.intro-point4b "بنود الخدمة">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "إن اتحد هذا المنتج مع خدمات الوب، ينبغي ربط كل بنود الخدمة التابعة للخدمة/للخدمات إلى قِسم ">
-<!ENTITY rights.intro-point4b-unbranded "خدمات موقع الوب">
+<!ENTITY rights.intro-point4a-unbranded "في حال احتوى هذا المنتج على أي من خدمات الوب فيمكن الوصول إلى بنود استخدام من قِسم ">
+<!ENTITY rights.intro-point4b-unbranded "خدمات مواقع الوب">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
-<!ENTITY rights2.webservices-header "خدمات &brandFullName; للمعلومات في الوب">
+<!ENTITY rights2.webservices-header "خدمات &brandFullName; للمعلومات على الوب">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "يستخدم &brandFullName; خدمات للمعلومات في الوب (&quot;الخدمات&quot;) لتزويد بعض المزايا المقدمة لك في هذه النسخة الثنائية من &brandShortName; وفق الشروط المذكورة أدناه. إن لم ترغب باستخدام خدمة أو أكثر أو كنت لا توافق على الشروط أدناه، يمكنك تعطيل الميزة أو الخدمة.  يمكنك إيجاد تعليمات عن تعطيل ميزة أو خدمة معينة ">
+<!ENTITY rights2.webservices-a "يستخدم &brandFullName; خدمات للمعلومات على الوب (&quot;الخدمات&quot;) للحصول على بعض المزايا التي يوفرها لك في هذه النسخة الثنائية من &brandShortName; وفق الشروط المذكورة أدناه. إن لم ترغب باستخدام خدمة أو أكثر أو كنت لا توافق على الشروط أدناه، يمكنك تعطيل الميزة أو الخدمة.  يمكنك الاطلاع على تعليمات عن تعطيل ميزة أو خدمة معينة ">
 <!ENTITY rights2.webservices-b "هنا">
 <!ENTITY rights2.webservices-c ".">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "التصفح الآمن: ">
-<!ENTITY rights.safebrowsing-b "لا ننصح بتعطيل ميزة التصفح الآمن لأنه قد يؤدي إلى الوصول إلى مواقع غير آمنة. إذا أردت تعطيل هذه الميزة كليًا فاتبع الخطوات التالية:">
+<!ENTITY rights.safebrowsing-b "لا يُنصح بتعطيل ميزة التصفح الآمن لأنه قد يؤدي إلى الوصول إلى مواقع غير آمنة. إذا أردت تعطيل هذه الميزة كليًا فاتبع الخطوات التالية:">
 <!ENTITY rights.safebrowsing-term1 "افتح تفضيلات البرنامج">
 <!ENTITY rights.safebrowsing-term2 "اختر الأمن">
 <!ENTITY rights.safebrowsing-term3 "ألغ التأشير على خيارات &quot;&blockAttackSites.label;&quot; و &quot;&blockWebForgeries.label;&quot;">

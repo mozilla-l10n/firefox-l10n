@@ -1,6 +1,6 @@
 <!ENTITY safeb.palm.warning.title "محاولة تزوير محتملة">
 
-<!ENTITY safeb.palm.message.p1 "أُبلِغ عن هذه الصفحة كمحاولة تزوير مصمّمة لخداع المستخدمين و جعلهم يعطون معلوماتهم الشخصية أو المالية. إدخال أي معلومات شخصية على هذه الصفحة قد يؤدي إلى سرقة الهويّة أو طرق الاحتيال الأخرى. &#160;">
+<!ENTITY safeb.palm.message.p1 "أُبلِغ عن أن هذه الصفحة محاولة تزوير مصمّمة لخداع المستخدمين و جعلهم يعطون معلوماتهم الشخصية أو المالية. إدخال أي معلومات شخصية على هذه الصفحة قد يؤدي إلى سرقة الهويّة أو طرق الاحتيال الأخرى. &#160;">
 <!ENTITY safeb.palm.message.p1.linkText "اقرأ المزيد &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "اقرأ المزيد &#133;">
 
@@ -17,10 +17,10 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "موقع هجوم مُبلغ عنه!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "أُبلغ عن الموقع  <span id='malware_sitename'/> على أنّه موقع هجوم و مُنع بناء على تفضيلات الأمن عندك.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "أُبلغ عن أن الموقع  <span id='malware_sitename'/> موقع هجوم و مُنع بناء على تفضيلات الأمن.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>تحاول مواقع الهجوم تثبيت برامج تسرق المعلومات الشخصية، أو استخدام حاسوبك للهجوم على الآخيرن، أو إيذاء حاسوبك.</p><p>توزّع بعض مواقع الهجوم البرامج المشبوهة بشكل مقصود، ولكن الكثير منها مخترق دون علم أو إذن أصحابها.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "موقع تزوير مُبلغ عنه!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "أُبلغ عن الموقع  <span id='phishing_sitename'/> كموقع تزوير و مُنع بناء على تفضيلات الأمن عندك.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>تصمم مواقع التزوير لخداعك من أجل إعطاء معلومات شخصية أو مالية عن طريق تقليد مصادر تثق بها.</p><p>قد يؤدي إعطاء أي معلومات على هذه الصفحة إلى سرقة الهوية أو أضرار أخرى.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "أُبلغ عن أن الموقع  <span id='phishing_sitename'/> موقع تزوير و مُنع بناء على تفضيلات الأمن عندك.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>تصمم مواقع التزوير لخداعك حتى تعطيها معلومات شخصية أو مالية عن طريق تقليد مصادر تثق بها.</p><p>قد يؤدي إعطاء أي معلومات على هذه الصفحة إلى سرقة الهوية أو أضرار أخرى.</p>">

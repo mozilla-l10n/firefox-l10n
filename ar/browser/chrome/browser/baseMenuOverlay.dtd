@@ -30,8 +30,6 @@
 <!ENTITY helpFeedbackPage.label      "أرسِل تعليقًا…">
 <!ENTITY helpFeedbackPage.accesskey  "ر">
 
-<!ENTITY updateCmd.label "التمس التحديثات…">
-
 <!ENTITY preferencesCmdMac.label "التفضيلات…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
