@@ -1,8 +1,3 @@
-<!-- Error messages that are likely to be overridden by applications go in this
-     file, all messages that likely don't need to tie into app-specific UI
-     should go into netError.dtd -->
-
 <!ENTITY securityOverride.linkText "O puede añadir una excepción…">
-<!ENTITY securityOverride.warningText "<p>Te recomendamos no agregar una excepción si no confías totalmente en esta conexión a Internet o, si en anteriores visitas, no habías recibido una advertencia de este tipo.</p>
-<p>Si aún quieres agregarla, puedes hacerlo a través de tu Configuración avanzada de cifrado.</p>
-">
+<!ENTITY securityOverride.warningContent "<p>No debes agregar una excepción si estás utilizando una conexión a Internet que no es confiable o si no estás acostumbrado a ver una advertencia para este servidor.</p>
+<p>Si aún deseas agregar una excepción para este sitio, puedes hacerlo en la configuración de cifrado avanzado</p>">
