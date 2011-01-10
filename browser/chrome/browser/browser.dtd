@@ -96,14 +96,14 @@ can reach it easily. -->
 <!ENTITY closeWindow.label "أغلق النافذة">
 <!ENTITY closeWindow.accesskey "ن">
 
-<!ENTITY bookmarksMenu.label "العلامات">
+<!ENTITY bookmarksMenu.label "علامات">
 <!ENTITY bookmarksMenu.accesskey "ع">
 <!ENTITY bookmarkThisPageCmd.label "علّم هذه الصفحة">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "اشترك بهذه الصفحة">
 <!ENTITY subscribeToPageMenuitem.label "اشترك في هذه الصفحة…">
 <!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
-<!ENTITY showAllBookmarks.label "أظهِر كل الألسنة…">
+<!ENTITY showAllBookmarks2.label "أظهِر كل العلامات">
 <!ENTITY bookmarkAllCmd.label "علّم كل الألسنة…">
 <!ENTITY bookmarksToolbarChevron.tooltip "أظهِر المزيد من العلامات">
 
@@ -239,8 +239,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "اختر الكل">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ك">
-<!ENTITY preferencesCmd.label "الخيارات…">
-<!ENTITY preferencesCmd.accesskey "خ">
+<!ENTITY preferencesCmd2.label "خيارات">
+<!ENTITY preferencesCmd2.accesskey "خ">
 <!ENTITY preferencesCmdUnix.label "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey "ف">
 
@@ -264,10 +264,10 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.accesskey "ط">
 <!ENTITY viewCustomizeToolbar.label "خصص…">
 <!ENTITY viewCustomizeToolbar.accesskey "ص">
-<!ENTITY viewTabsOnTop.label            "الألسنة التي في الأعلى">
+<!ENTITY viewTabsOnTop.label            "الألسنة في الأعلى">
 <!ENTITY viewTabsOnTop.accesskey        "ع">
 
-<!ENTITY historyMenu.label "التأريخ">
+<!ENTITY historyMenu.label "تأريخ">
 <!ENTITY historyMenu.accesskey "ت">
 <!ENTITY historyUndoMenu.label "الألسنة المُغلقة حديثًا">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
@@ -550,3 +550,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "زامِن الآن">
 <!ENTITY syncSyncNowItem.accesskey    "ز">
 <!ENTITY syncToolbarButton.label      "زامِن">
+
+<!ENTITY addonBarCloseButton.tooltip  "أغلِق شريط الإضافات">

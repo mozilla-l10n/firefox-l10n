@@ -1,4 +1,4 @@
-<!ENTITY editMenu.label "حرّر">
+<!ENTITY editMenu.label "تحرير">
 <!ENTITY editMenu.accesskey "ح">
 <!ENTITY undoCmd.label "تراجع">
 <!ENTITY undoCmd.key "Z">

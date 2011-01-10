@@ -37,7 +37,7 @@
 
 <!ENTITY devmgr.title "مدير الأجهزة">
 
-<!ENTITY devmgr.devlist.label "وحدات و أجهزة الأمن">
+<!ENTITY devmgr.devlist.label "وحدات الأمن وأجهزته">
 <!ENTITY devmgr.details.title "التفاصيل">
 <!ENTITY devmgr.details.title2 "القيمة">
 <!ENTITY devmgr.status.label "الحالة">

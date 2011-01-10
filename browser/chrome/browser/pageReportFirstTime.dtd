@@ -1,7 +1,0 @@
-<!ENTITY startDescriptionText.label "حاول هذا الموقع فتح نافذة منبثقة بدون إذن. أغلق &brandShortName; هذه النافذة المنبثقة آليًا.">
-
-<!ENTITY endDescription.label "يمكنك النقر على هذه الأيقونة لترى المواقع التي منعها &brandShortName; ولتسمح لهذه المواقع بفتح النوافذ المنبثقة إذا كان مطلوبا ليعمل الموقع بشكل سليم.">
-
-<!ENTITY caption.label "عنْ منع النوافذ المنبثقة">
-
-<!ENTITY done.label "تمّ">

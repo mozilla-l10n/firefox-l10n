@@ -13,7 +13,7 @@
 <!ENTITY edit.label "حرّر">
 <!ENTITY edit.accesskey "ح">
 <!ENTITY views.label "المظاهر">
-<!ENTITY views.accesskey "ش">
+<!ENTITY views.accesskey "ه">
 <!ENTITY views.tooltip                  "غيّر المظهر">
 <!ENTITY view.columns.label "أظهر الأعمدة">
 <!ENTITY view.columns.accesskey "ع">
@@ -40,7 +40,7 @@
 <!ENTITY cmd.backup.accesskey "ط">
 <!ENTITY cmd.restore2.label "استعِد">
 <!ENTITY cmd.restore2.accesskey "ت">
-<!ENTITY cmd.restoreFromFile.label "اختر ملفا…">
+<!ENTITY cmd.restoreFromFile.label "اختر ملفًا…">
 <!ENTITY cmd.restoreFromFile.accesskey "خ">
 
 
@@ -98,12 +98,12 @@
 <!ENTITY search.label "ابحث:">
 <!ENTITY search.accesskey "ب">
 <!ENTITY search.scopeBookmarks.label               "العلامات">
-<!ENTITY search.scopeBookmarks.accesskey           "ت">
-<!ENTITY search.scopeFolder.label "اختر مجلدا">
+<!ENTITY search.scopeBookmarks.accesskey           "ع">
+<!ENTITY search.scopeFolder.label "اختر مجلدًا">
 <!ENTITY search.scopeFolder.accesskey "م">
 <!ENTITY search.scopeDownloads.label "التنزيلات">
 <!ENTITY search.scopeDownloads.accesskey "ز">
-<!ENTITY search.scopeHistory.label "التاريخ">
+<!ENTITY search.scopeHistory.label "التأريخ">
 <!ENTITY search.scopeHistory.accesskey "ت">
 <!ENTITY saveSearch.label "احفظ">
 <!ENTITY saveSearch.accesskey "ح">
@@ -111,7 +111,7 @@
 <!ENTITY cmd.find.key "f">
 
 <!ENTITY maintenance.label "الاستيراد والحفظ الاحتياطي">
-<!ENTITY maintenance.accesskey "ص">
+<!ENTITY maintenance.accesskey "ط">
 <!ENTITY maintenance.tooltip    "استورد علاماتك واحفظ نسخًا احتياطية منها">
 
 <!ENTITY backCmd.label "للخلف">

@@ -15,7 +15,7 @@
 
 <!ENTITY useAutoScroll.label "استخدم اللّف الآلي">
 <!ENTITY useAutoScroll.accesskey "ف">
-<!ENTITY useSmoothScrolling.label "استخدم اللّف السلس:">
+<!ENTITY useSmoothScrolling.label "استخدم اللّف السلس">
 <!ENTITY useSmoothScrolling.accesskey "خ">
 <!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
 <!ENTITY allowHWAccel.accesskey          "ع">
@@ -57,7 +57,7 @@
 
 <!ENTITY updateTab.label "حدِّث">
 
-<!ENTITY autoCheck.label "التمس آليًا تحديثات ل‍:">
+<!ENTITY autoCheck.label "التمس آليًا تحديثات:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "ف">
 <!ENTITY enableAddonsUpdate2.label       "الإضافات">
