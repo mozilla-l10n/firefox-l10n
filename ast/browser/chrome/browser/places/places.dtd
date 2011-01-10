@@ -97,6 +97,7 @@
 
 <!ENTITY search.label                              "Gueta">
 <!ENTITY search.accesskey                          "G">
+<!ENTITY search.in.label                           "Guetar en:">
 <!ENTITY search.scopeFolder.label                  "Carpeta seleicionada">
 <!ENTITY search.scopeFolder.accesskey              "C">
 <!ENTITY search.scopeBookmarks.label               "Marcadores">
