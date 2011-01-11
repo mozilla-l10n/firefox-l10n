@@ -1,14 +1,14 @@
-<!ENTITY aboutPage.title "Mu dhèidhinn &brandShortName;">
-<!ENTITY aboutPage.faq.label "CÀBHA">
-<!ENTITY aboutPage.support.label "Taic">
-<!ENTITY aboutPage.privacyPolicy.label "Poileasaidh prìobhaideachd">
-<!ENTITY aboutPage.rights.label "Bi eòlach air do chòraichean">
-<!ENTITY aboutPage.relNotes.label "Notaichean sgaoilidh">
-<!ENTITY aboutPage.credits.label "Creideisean">
+<!ENTITY aboutPage.title                        "Mu &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "CÀBHA">
+<!ENTITY aboutPage.support.label                "Taic">
+<!ENTITY aboutPage.privacyPolicy.label          "Poileasaidh prìobhaideachd">
+<!ENTITY aboutPage.rights.label                 "Bi eòlach air do chòraichean">
+<!ENTITY aboutPage.relNotes.label               "Nòtaichean sgaoilidh">
+<!ENTITY aboutPage.credits.label                "Creideisean">
+
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->
-
-<!ENTITY aboutPage.copyrightInfo1 "&#169;1998-2009 Luchd-pàirteachaidh. A h-uile còir glèidhte. (">
-<!ENTITY aboutPage.licenseLink "Fiosrachadh ceadachais">
-<!ENTITY aboutPage.copyrightInfo2 ").">
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Contributors. All rights reserved. (">
+<!ENTITY aboutPage.licenseLink                  "Fiosrachadh ceadachais">
+<!ENTITY aboutPage.copyrightInfo2               ").">
