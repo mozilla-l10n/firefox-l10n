@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "กุญแจ Sync ของฉัน">
 <!ENTITY resetSync.label              "ล้าง Sync">
 <!ENTITY stopUsingAccount.label       "หยุดการใช้งานบัญชีผู้ใช้นี้">
+<!ENTITY addDevice.label              "เพิ่มอุปกรณ์">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "เบราว์เซอร์ Sync">

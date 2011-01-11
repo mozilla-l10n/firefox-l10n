@@ -46,7 +46,7 @@
 
 <!ENTITY versioninfo.wizard.title "กำลังตรวจสอบความเข้ากันได้ของส่วนเสริม">
 <!ENTITY versioninfo.top.label "ตรวจสอบความเข้ากันได้ระหว่างส่วนเสริมของคุณกับ 
-&brandShortName;รุ่นนี้">
+&brandShortName; รุ่นนี้">
 <!ENTITY versioninfo.waiting "อาจใช้เวลาสักครู่…">
 
 <!ENTITY installerrors.wizard.title "ปัญหาการติดตั้งรายการปรับปรุง">
