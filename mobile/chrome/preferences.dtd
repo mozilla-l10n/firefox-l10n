@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "Mu &brandShortName;">
 <!ENTITY about.button                              "Rach dhan duilleag">
 <!ENTITY content.title                             "Susbaint">
+<!ENTITY reflowZoom.title                          "Ath-fhòrmataich an teacsa an cois sùmaidh">
 <!ENTITY showImages.title                          "Seall dealbhan">
 <!ENTITY enableJavaScript.title                    "Cuir JavaScript an comas">
 <!ENTITY enablePlugins.title                       "Cuir plugain an comas">

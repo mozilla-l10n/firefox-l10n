@@ -1,13 +1,12 @@
 <!ENTITY firstrun.title                "Fàilte gu &brandShortName;">
-<!ENTITY firstrun.heading              "Mar chuideachadh dhut aig an toiseach, seo cuid dhe na feartan is tuilleadain air a bheil fèill mhòr is leis an cuir thu gu feum &brandShortName; o bhun gu barr.">
-<!ENTITY firstrun.recommended          "Air a mholadh:">
-<!ENTITY firstrun.weave.title          "Faigh Weave Sync">
-<!ENTITY firstrun.weave.description    "Co-roinn eachdraidh, faclan-faire, comharraidhean-lìn ┐ tabaicheach &brandShortName; eadar an deasg ┐ am fòn-làimhe agad">
-<!ENTITY firstrun.starter.title        "Faigh an cruinneachadh tòiseachaidh">
-<!ENTITY firstrun.starter.description  "Stàlaich na tuilleadan seo a tha air a mholadh 's iad a' dèanamh &brandShortName; nas fheumaile dhut">
-<!ENTITY firstrun.tour.title           "Gabh cuairt">
-<!ENTITY firstrun.tour.description     "Coimhead air a chliop seo gus eòlas fhaighinn air na h-àitichean as fhearr far am faigh thu feartan snoga">
+<!ENTITY firstrun.heading2             "Fàilte gu &brandShortName;">
+<!ENTITY firstrun.sync2.title          "Co-shioncronaich suas">
+<!ENTITY firstrun.sync2.description    "Log a-steach dhan chunntas sioncronachaidh agad gus eachdraidh, faclan-faire, comharraidhean-lìn ┐ tabaichean &brandShortName; a cho-roinneadh eadar an deasg ┐ am fòn-làimhe agad">
+<!ENTITY firstrun.addons2.title        "Gnàthaich">
+<!ENTITY firstrun.addons2.description  "Lorg tuilleadain ùra agus stàlaich iad gus barrachd fheartan a chur ri &brandShortName;">
+<!ENTITY firstrun.home2.title          "Brabhsaich">
+<!ENTITY firstrun.home2.description    "Thoir leum thairis air seo agus rach dhan duilleag-thòiseachaidh phearsanta agad gus an lìon a bhrabhsadh">
 <!ENTITY firstrun.features             "Seall barrachd fheartan">
 <!ENTITY firstrun.faq                  "CÀBHA">
-<!ENTITY firstrun.privacy              "Poileasaidh prìobhaideachd">
+<!ENTITY firstrun.privacy              "Am Poileasaidh Prìobhaideachd">
 <!ENTITY firstrun.follow               "Lean rinn air:">
