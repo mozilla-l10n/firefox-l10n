@@ -56,7 +56,7 @@
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Информация о странице">
-<!ENTITY pageInfoCmd.accesskey "И">
+<!ENTITY pageInfoCmd.accesskey "ф">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Полный экран">
 <!ENTITY fullScreenCmd.accesskey "э">
