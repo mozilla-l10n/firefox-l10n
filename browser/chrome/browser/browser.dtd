@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
-<!ENTITY showAllBookmarks.label "แสดงที่คั่นหน้าเว็บทั้งหมด…">
+<!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าเว็บทั้งหมด">
 <!ENTITY bookmarkAllCmd.label "คั่นทุกแท็บ…">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเว็บอื่น ๆ ด้วย">
 
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "เลือกทั้งหมด">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ท">
-<!ENTITY preferencesCmd.label "ตัวเลือก…">
-<!ENTITY preferencesCmd.accesskey "ล">
+<!ENTITY preferencesCmd2.label "ตัวเลือก">
+<!ENTITY preferencesCmd2.accesskey "ล">
 <!ENTITY preferencesCmdUnix.label "ปรับแต่ง">
 <!ENTITY preferencesCmdUnix.accesskey "ต">
 
@@ -552,3 +552,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "ผ">
 <!ENTITY syncToolbarButton.label      "ผสาน">
 
+<!ENTITY addonBarCloseButton.tooltip  "ปิดแถบส่วนเสริม">

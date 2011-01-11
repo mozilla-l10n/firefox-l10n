@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "ยินดีต้อนรับ ถ้าคุณไม่เคยใช้ &syncBrand.fullName.label; มาก่อน คุณจะต้องสร้างบัญชีผู้ใช้ใหม่เสียก่อน">
 <!ENTITY button.createNewAccount.label "สร้างบัญชีผู้ใช้ใหม่">
-<!ENTITY button.haveAccount.label "ฉันมีบัญชีผู้ใช้ของ &syncBrand.fullName.label; อยู่แล้ว">
+<!ENTITY setup.haveAccount.label "ฉันมีบัญชีผู้ใช้ของ &syncBrand.fullName.label; อยู่แล้ว">
+<!ENTITY button.connect.label    "เชื่อมต่อ">
 
 <!ENTITY setup.choicePage.title.label     "คุณเคยใช้ &syncBrand.fullName.label; มาก่อนหรือไม่?">
 <!ENTITY setup.choicePage.new.label       "ฉันไม่เคยใช้ &syncBrand.shortName.label; มาก่อน">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "เซิร์ฟเวอร์">
 <!ENTITY serverType.main.label      "เซิร์ฟเวอร์ &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "ใช้เซิร์ฟเวอร์ที่กำหนดเอง">
-<!ENTITY signIn.account.label       "ที่อยู่อีเมล / ชื่อผู้ใช้">
-<!ENTITY signIn.account.accesskey   "ท">
+<!ENTITY serverType.custom2.label   "ใช้เซิร์ฟเวอร์ที่กำหนดเอง…">
+<!ENTITY signIn.account2.label      "บัญชีผู้ใช้">
+<!ENTITY signIn.account2.accesskey  "บ">
 <!ENTITY signIn.password.label      "รหัสผ่าน">
 <!ENTITY signIn.password.accesskey  "ร">
-<!ENTITY signIn.serverURL.label     "URL ของเซิร์ฟเวอร์">
-<!ENTITY signIn.serverURL.accesskey "ว">
+<!ENTITY signIn.syncKey.label       "กุญแจ Sync">
+<!ENTITY signIn.syncKey.accesskey   "ก">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "รายละเอียดบัญชี">
@@ -43,8 +44,6 @@
 <!ENTITY syncKeyEntry.label        "กุญแจ Sync ของคุณ">
 <!ENTITY syncKeyEntry.accesskey    "ก">
 <!ENTITY syncKeyGenerate.label     "สร้าง">
-<!ENTITY syncKeyStrength.label     "ความแน่นหนา:">
-<!ENTITY syncKeyHelp.label         "ความแน่นหนาหมายความว่าอย่างไร?">
 <!ENTITY syncKeyBackup.description "การเข้าถึง &syncBrand.fullName.label; จากคอมพิวเตอร์เครื่องอื่น จำเป็นต้องใช้ กุญแจ Sync ของคุณ โปรดสำรองข้อมูลนี้ไว้ เราไม่สามารถช่วยกู้คืนกุญแจ Sync ของคุณได้">
 
 <!ENTITY button.syncKeyBackup.print.label     "พิมพ์…">
@@ -54,17 +53,27 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "โปรดยืนยันว่าคุณเปนมนุษย์">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "เพิ่มอุปกรณ์">
+<!ENTITY addDevice.showMeHow.label          "บอกฉันว่าทำอย่างไร">
+<!ENTITY addDevice.dontHaveDevice.label     "ฉันไม่มีอุปกรณ์อยู่กับตัว">
+<!ENTITY addDevice.setup.description.label  "เปิดการใช้งาน โดยไปที่ตัวเลือก  &syncBrand.shortName.label; บนอุปกรณ์ของคุณ แล้วเลือก &#x0022;เพิ่มอุปกรณ์&#x0022;">
+<!ENTITY addDevice.setup.enterCode.label    "จากนั้น กรอกรหัสนี้:">
+<!ENTITY addDevice.dialog.description.label "เปิดการใช้งานบนอุปกรณ์ใหม่ของคุณ โดยไปที่ตัวเลือก  &syncBrand.shortName.label; บนอุปกรณ์ของคุณ แล้วเลือก &#x0022;เชื่อมต่อ&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "กรอกรหัสที่ได้จากอุปกรณ์:">
+<!ENTITY addDevice.dialog.tryAgain.label    "โปรดลองอีกครั้ง">
+<!ENTITY addDevice.dialog.successful.label  "เพิ่มอุปกรณ์เรียบร้อยแล้ว การผสานข้อมูลในครั้งแรกอาจใช้เวลาหลายนาที และจะเสร็จสิ้นในการทำงานเบื้องหลัง">
+<!ENTITY addDevice.dialog.syncKey.label     "คุณต้องใช้กุญแจ Sync ในการเปิดการใช้งานบนอุปกรณ์ของคุณ โปรดพิมพ์หรือบันทึกกุญแจนี้ไว้และเก็บไว้กับตัวคุณเอง">
+<!ENTITY addDevice.dialog.connected.label   "อุปกรณ์เชื่อมต่อแล้ว">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "กรอกข้อมูลของบัญชีผู้ใช้">
+<!ENTITY setup.signInPage.title.label "ลงชื่อเข้าใช้">
 <!ENTITY resetPassword.label          "ล้างรหัสผ่าน">
 <!ENTITY connecting.label             "กำลังเชื่อมต่อ…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "โปรดกรอกกุญแจ Sync ของคุณ">
-<!ENTITY setup.existingSyncKeyPage.description "กุญแจ Sync ถูกสร้างขึ้นมาให้คุณ หรือคุณเป็นคนระบุด้วยตัวเอง ในครั้งแรกที่มีการติดตั้ง &syncBrand.fullName.label; และเป็นคนละอย่างกับรหัสผ่านของคุณ">
-<!ENTITY existingSyncKeyHelp.description "คุณสามารถหากุญแจ Sync ที่เคยบันทึกไว้บนคอมพิวเตอร์เครื่องอื่นของคุณ และตรวจสอบจาก รหัสผ่านที่เคยบันทึกไว้ ภายใต้ตัวเลือก ความปลอดภัย ถ้าหากคุณไม่สามารถหากุญแจ Sync ที่ถูกต้องได้ คุณสามารถเลือกล้างกุญแจ Sync ทิ้งได้ แต่ข้อมูลของคุณทั้งหมดบนเซิร์ฟเวอร์ก็จะหายไปด้วย">
 <!ENTITY lostSyncKey.label            "ฉันทำกุญแจ Sync หาย">
+<!ENTITY existingSyncKey.description  "คุณสามารถหาสำเนากุญแจ Sync ของคุณได้โดยไปที่ตัวเลือก &syncBrand.shortName.label; บนอุปกรณ์อื่นของคุณ แล้วเลือก &#x0022;กุญแจ Sync ของฉัน&#x0022; ในส่วน &#x0022;จัดการบัญชีผู้ใช้&#x0022;.">
 <!ENTITY verifying.label              "กำลังตรวจสอบ…">
 
 <!-- Sync Options -->

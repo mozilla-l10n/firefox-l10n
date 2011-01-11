@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "ส่งคำแนะนำ…">
 <!ENTITY helpFeedbackPage.accesskey  "ส">
 
-<!ENTITY updateCmd.label "ตรวจหาการปรับปรุง…">
-
 <!ENTITY preferencesCmdMac.label "ปรับแต่ง…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
