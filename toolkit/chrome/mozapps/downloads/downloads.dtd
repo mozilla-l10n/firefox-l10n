@@ -36,7 +36,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Ryd liste">
-<!ENTITY cmd.clearList.tooltip            "Fjerner færdige, afbrudte og fejlede downloads fra listen">
+<!ENTITY cmd.clearList.tooltip            "Fjerner færdige, afbrudte og mislykkedes filhentninger fra listen">
 <!ENTITY cmd.clearList.accesskey          "R">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">

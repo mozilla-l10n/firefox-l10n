@@ -5,7 +5,7 @@
 <!ENTITY certOCSP2.accesskey          "T">
 <!ENTITY proxyOCSP2.label             "Tjek gyldighed for alle certifikater med den følgende OCSP-server:">
 <!ENTITY proxyOCSP2.accesskey         "a">
-<!ENTITY serviceURL.label             "Service adresse:">
+<!ENTITY serviceURL.label             "Serviceadresse:">
 <!ENTITY serviceURL.accesskey         "S">
 <!ENTITY signingCA.label              "Udsteder:">
 <!ENTITY signingCA.accesskey          "U">

@@ -25,8 +25,8 @@
 <!ENTITY netInterrupt.longDesc "<p>Browseren oprettede forbindelsen korrekt, men blev afbrudt under overførsel af informationen. Forsøg venligst igen.</p><ul><li> Er du ikke i stand til at browse andre sider? Undersøg computerens netværksforbindelse.</li><li>Har du stadig problemer? Konsulter din netværks-administrator eller internet-udbyder for assistance.</li></ul>">
 
 <!ENTITY netOffline.title "Browseren er offline">
-<!ENTITY netOffline.longDesc "<p>Browseren er sat i Offline-tilstand og kan ikke forbinde til nettet.</p><ul><li>Er computeren forbundet et aktivt netværk?</li><li>Sæt browseren i Online-tilstand og prøv igen.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Browseren er sat i Offline-tilstand og kan ikke forbinde til nettet.</p><ul><li>Er computeren forbundet et aktivt netværk?</li><li>Sæt browseren i Online-tilstand og prøv igen.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>Browseren er sat i Offline-tilstand og kan ikke forbinde til nettet.</p><ul><li>Er computeren forbundet til et aktivt netværk?</li><li>Sæt browseren i Online-tilstand og prøv igen.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Browseren er sat i Offline-tilstand og kan ikke forbinde til nettet.</p><ul><li>Er computeren forbundet til et aktivt netværk?</li><li>Sæt browseren i Online-tilstand og prøv igen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Indholdskodningsfejl">
 <!ENTITY contentEncodingError.longDesc "<p>Siden kunne ikke vises da den bruger en ugyldig eller usupporteret form for komprimering.</p><ul><li>Kontakt venligst webstedets ejer og informer dem om dette problem.</li></ul>">

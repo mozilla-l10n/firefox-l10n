@@ -6,7 +6,7 @@
 <!ENTITY pluginWizard.availablePluginsPage.title             "Tilgængelige plug-ins">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Følgende plug-ins er tilgængelige:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Klik Næste for at installere disse plug-ins.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Nogle plug-ins kan måske kræve ydreligere informationer fra dig under installationen.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Nogle plug-ins kan måske kræve yderligere informationer fra dig under installationen.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Plug-in licenser">
 <!ENTITY pluginWizard.licensePage.accept.label               "Jeg accepterer.">

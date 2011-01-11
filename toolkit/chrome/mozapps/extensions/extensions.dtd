@@ -32,7 +32,7 @@
 <!ENTITY view.appearance2.label               "Temaer">
 <!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Nylige opdateringer">
-<!ENTITY view.availableUpdates.label          "Tilgænglige opdateringer">
+<!ENTITY view.availableUpdates.label          "Tilgængelige opdateringer">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Tjek for opdateringer">
@@ -50,7 +50,7 @@
 <!ENTITY updates.downloaded.label             "Dine opdateringer til tilføjelser er blevet hentet.">
 <!ENTITY updates.restart.label                "Genstart nu for at færdiggøre installationen">
 <!ENTITY updates.noneFound.label              "Ingen opdateringer blev fundet">
-<!ENTITY updates.manualUpdatesFound.label     "Vis tilgænglige opdateringer">
+<!ENTITY updates.manualUpdatesFound.label     "Vis tilgængelige opdateringer">
 <!ENTITY updates.updateSelected.label         "Installer opdateringer">
 <!ENTITY updates.updateSelected.tooltip       "Installer tilgængelige opdateringer i denne oversigt">
 
@@ -123,7 +123,7 @@
 
 <!ENTITY detail.checkForUpdates.label         "Tjek for opdateringer">
 <!ENTITY detail.checkForUpdates.accesskey     "T">
-<!ENTITY detail.checkForUpdates.tooltip       "Søg efter tilgænglige opdateringer til denne tilføjelse">
+<!ENTITY detail.checkForUpdates.tooltip       "Søg efter tilgængelige opdateringer til denne tilføjelse">
 <!ENTITY detail.showPreferencesWin.label      "Indstillinger">
 <!ENTITY detail.showPreferencesWin.accesskey  "I">
 <!ENTITY detail.showPreferencesWin.tooltip    "Rediger indstillinger for denne tilføjelse">

@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "Du har mulighed for at ">
 <!ENTITY  rememberActions.clearHistory.label  "rydde din historik">
-<!ENTITY  rememberActions.middle.label        ", eller ">
+<!ENTITY  rememberActions.middle.label        " eller ">
 <!ENTITY  rememberActions.removeCookies.label "fjerne individuelle cookies">
 <!ENTITY  rememberActions.post.label          ".">
 

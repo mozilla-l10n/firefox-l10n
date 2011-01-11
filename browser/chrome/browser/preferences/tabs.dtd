@@ -7,7 +7,7 @@
 <!ENTITY warnOpenManyTabs.label       "Advar mig, hvis jeg åbner flere faneblade, som kan gøre &brandShortName; langsommere">
 <!ENTITY warnOpenManyTabs.accesskey   "å">
 
-<!ENTITY showTabBar.label             "Vis altid fanebladsbjælken">
+<!ENTITY showTabBar.label             "Vis altid fanebladslinjen">
 <!ENTITY showTabBar.accesskey         "V">
 
 <!ENTITY switchToNewTabs.label        "Skift fokus til det nye faneblad, når jeg åbner et link deri">
