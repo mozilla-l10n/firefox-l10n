@@ -4,8 +4,7 @@
 <!ENTITY forward.label         "Air adhart">
 <!ENTITY reload.label          "Ath-luchdaich">
 <!ENTITY stop.label            "Sguir dheth">
-<!ENTITY go.label              "Rach">
-<!ENTITY openLocation.label    "Fosgail ionad">
+<!ENTITY go.label              "Rach ann">
 <!ENTITY star.label            "Rionnag">
 
 <!ENTITY newtab.label          "Taba ùr">
@@ -13,28 +12,24 @@
 
 <!ENTITY cut.label             "Gearr às">
 <!ENTITY copy.label            "Dèan lethbhreac">
+<!ENTITY copyAll.label         "Dèan lethbhreac dhen a h-uile">
 <!ENTITY copylink.label        "Dèan lethbhreac de sheòladh a' cheangail">
 <!ENTITY paste.label           "Cuir ann">
 <!ENTITY delete.label          "Sguab às">
 <!ENTITY selectAll.label       "Tagh a h-uile">
 <!ENTITY noSuggestions.label   "(Gun mholadh sam bith)">
 <!ENTITY addToDictionary.label "Cuir ris an fhaclair">
+<!ENTITY inputMethod.label     "Tagh dòigh an steach-chuir">
 
+<!ENTITY allPagesHeader.label      "A h-uile duilleag">
 <!ENTITY bookmarksHeader.label     "Comharran-lìn">
-<!ENTITY bookmarksManage.label     "Stiùirich">
+<!ENTITY historyHeader.label       "Eachdraidh">
+<!ENTITY desktopHeader.label       "Deasg">
 
-<!ENTITY editBookmarkRemove.label  "Thoir air falbh">
 <!ENTITY editBookmarkDone.label    "Dèanta">
 <!ENTITY editBookmarkTags.label    "Cuir tagaichean ris an-seo">
 
-<!ENTITY helperApp.prompt          "Dè bu toigh leat dèanamh le">
-<!ENTITY helperApp.open            "Fosgail">
-<!ENTITY helperApp.save            "Sàbhail">
-<!ENTITY helperApp.nothing         "Na mol càil">
-
-<!ENTITY formHelper.previous       "Air ais">
-<!ENTITY formHelper.next           "Air adhart">
-<!ENTITY formHelper.done           "Dèanta">
+<!ENTITY selectHelper.done         "Dèanta">
 
 <!ENTITY addonsHeader.label        "Tuilleadain">
 <!ENTITY addonsLocal.label         "Na tuilleadain agad">
@@ -63,6 +58,7 @@
 <!ENTITY downloadResume.label      "Lean air">
 <!ENTITY downloadRetry.label       "Feuch ris a-rithist">
 <!ENTITY downloadRemove.label      "Thoir air falbh">
+<!ENTITY downloadDelete.label      "Sguab às">
 <!ENTITY downloadFailed.label      "Dh'fhàillig e">
 
 <!ENTITY noResults.label           "Gun toradh">
@@ -93,5 +89,26 @@
 <!ENTITY consoleErrLine.label      "Loidhne:">
 <!ENTITY consoleErrColumn.label    "Colbh:">
 
-<!ENTITY contextOpenInNewTab.label "Fosgail an ceangal ann an taba ùr">
-<!ENTITY contextSaveImage.label    "Sàbhail an dealbh">
+<!ENTITY contextOpenInNewTab.label    "Fosgail an ceangal ann an taba ùr">
+<!ENTITY contextSaveLink.label        "Sàbhail an ceangal">
+<!ENTITY contextSaveImage.label       "Sàbhail an dealbh">
+<!ENTITY contextShareLink.label       "Co-roinn an ceangal">
+<!ENTITY contextShareImage.label      "Co-roinn an dealbh">
+<!ENTITY contextSaveVideo.label       "Sàbhail am video">
+<!ENTITY contextShareVideo.label      "Co-roinn am video">
+<!ENTITY contextPlayMedia.label       "Cluich">
+<!ENTITY contextPauseMedia.label      "Cuir 'na stad">
+<!ENTITY contextFullScreen.label      "Làn-sgrìn">
+<!ENTITY contextEditBookmark.label    "Deasaich">
+<!ENTITY contextRemoveBookmark.label  "Thoir air falbh">
+
+<!ENTITY pageactions.saveas.pdf      "Sàbhail mar PDF">
+<!ENTITY pageactions.share.page      "Co-roinn an duilleag">
+<!ENTITY pageactions.password.forget "Dìochuimhnich am facal-faire">
+<!ENTITY pageactions.reset           "Falamhaich roghainnean na làraich">
+<!ENTITY pageactions.findInPage      "Lorg san duilleag">
+<!ENTITY pageactions.search.addNew   "Cuir einnsean-luirg ris">
+
+<!ENTITY selectHelper.emptytext      "Liosta nan criathragan">
+
+<!ENTITY appMenu.siteOptions         "Roghainnean na làraich">

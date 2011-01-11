@@ -2,7 +2,7 @@
 <!ENTITY aboutHome.recentTabs                   "Na tabaichean a bha agad turas mu dheireadh">
 <!ENTITY aboutHome.remoteTabs                   "Tabaichean o na coimpiutairean eile agad">
 <!ENTITY aboutHome.recommendedAddons2           "Tuilleadain airson &brandShortName; agad">
-<!ENTITY aboutHome.aboutMozilla                 "Mu Mozilla">
+<!ENTITY aboutHome.giveFeedback                 "Dè do bheachd?">
 <!ENTITY aboutHome.openAllTabs                  "Fosgail gach aon dhiubh ann an taba">
 <!ENTITY aboutHome.noTabs                       "Chan eil tabaichean ann on turas mu dheireadh">
 <!ENTITY aboutHome.noAddons                     "Chan eil tuilleadan molta ann">
