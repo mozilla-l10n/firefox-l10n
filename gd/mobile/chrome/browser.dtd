@@ -1,78 +1,79 @@
-<!ENTITY urlbar.emptytext "Enter Search or Address">
+<!ENTITY urlbar.emptytext      "Dèan lorg no cuir a-steach seòladh">
 
-<!ENTITY back.label "Air ais">
-<!ENTITY forward.label "Air adhart">
-<!ENTITY reload.label "Ath-luchdaich">
-<!ENTITY stop.label "Cuir stad air">
-<!ENTITY go.label "Air adhart">
-<!ENTITY openLocation.label "Fosgail làrach">
-<!ENTITY star.label "Rionnag">
+<!ENTITY back.label            "Air ais">
+<!ENTITY forward.label         "Air adhart">
+<!ENTITY reload.label          "Ath-luchdaich">
+<!ENTITY stop.label            "Sguir dheth">
+<!ENTITY go.label              "Rach">
+<!ENTITY openLocation.label    "Fosgail ionad">
+<!ENTITY star.label            "Rionnag">
 
-<!ENTITY newtab.label "Taba ùr">
-<!ENTITY closetab.label "Dùin an taba">
+<!ENTITY newtab.label          "Taba ùr">
+<!ENTITY closetab.label        "Dùin an taba">
 
-<!ENTITY cut.label "Gearr às">
-<!ENTITY copy.label "Dèan leth-bhreac">
-<!ENTITY copylink.label "Dèan lethbhreac de sheòladh a' cheangail">
-<!ENTITY paste.label "Cuir ann">
-<!ENTITY delete.label "Sguaib às">
-<!ENTITY selectAll.label "Tagh na h-uile">
-<!ENTITY noSuggestions.label "(Gun mholadh)">
+<!ENTITY cut.label             "Gearr às">
+<!ENTITY copy.label            "Dèan lethbhreac">
+<!ENTITY copylink.label        "Dèan lethbhreac de sheòladh a' cheangail">
+<!ENTITY paste.label           "Cuir ann">
+<!ENTITY delete.label          "Sguab às">
+<!ENTITY selectAll.label       "Tagh a h-uile">
+<!ENTITY noSuggestions.label   "(Gun mholadh sam bith)">
 <!ENTITY addToDictionary.label "Cuir ris an fhaclair">
 
-<!ENTITY bookmarksHeader.label "Comharraidhean-lìn">
-<!ENTITY bookmarksManage.label "Stiùirich">
+<!ENTITY bookmarksHeader.label     "Comharran-lìn">
+<!ENTITY bookmarksManage.label     "Stiùirich">
 
-<!ENTITY editBookmarkRemove.label "Thoir air falbh">
-<!ENTITY editBookmarkDone.label "Dèanta">
-<!ENTITY editBookmarkTags.label "Cuir ris tagaichean an-seo">
+<!ENTITY editBookmarkRemove.label  "Thoir air falbh">
+<!ENTITY editBookmarkDone.label    "Dèanta">
+<!ENTITY editBookmarkTags.label    "Cuir tagaichean ris an-seo">
 
-<!ENTITY helperApp.prompt "Dè bu toigh leat dèanamh le">
-<!ENTITY helperApp.open "Fosgail">
-<!ENTITY helperApp.save "Sàbhail">
-<!ENTITY helperApp.nothing "Na mol càil">
+<!ENTITY helperApp.prompt          "Dè bu toigh leat dèanamh le">
+<!ENTITY helperApp.open            "Fosgail">
+<!ENTITY helperApp.save            "Sàbhail">
+<!ENTITY helperApp.nothing         "Na mol càil">
 
-<!ENTITY formHelper.previous "Air ais">
-<!ENTITY formHelper.next "Air adhart">
-<!ENTITY formHelper.done "Dèanta">
+<!ENTITY formHelper.previous       "Air ais">
+<!ENTITY formHelper.next           "Air adhart">
+<!ENTITY formHelper.done           "Dèanta">
 
-<!ENTITY addonsHeader.label "Tuilleadan">
-<!ENTITY addonsLocal.label "Na tuilleadain agad">
-<!ENTITY addonsRepo.label "Faigh tuilleadain">
-<!ENTITY addonsRecommended.label "Air a mholadh">
-<!ENTITY addonsSearch.label "Lorg">
-<!ENTITY addonsSearch2.emptytext "Lorg sa chatalog">
-<!ENTITY addonsSearch.recommended "Air a mholadh">
+<!ENTITY addonsHeader.label        "Tuilleadain">
+<!ENTITY addonsLocal.label         "Na tuilleadain agad">
+<!ENTITY addonsUpdate.label        "Ùraich">
+<!ENTITY addonsRepo.label          "Faigh tuilleadain">
+<!ENTITY addonsRecommended.label   "Mholar seo">
+<!ENTITY addonsSearch.label        "Lorg">
+<!ENTITY addonsSearch2.emptytext   "Lorg sa chatalog">
+<!ENTITY addonsSearch.recommended  "Mholar seo">
 
-<!ENTITY addonOptions.label "Roghainnean">
-<!ENTITY addonEnable.label "Dèan comasach">
-<!ENTITY addonDisable.label "Cuir à comas">
-<!ENTITY addonInstall2.label "Cuir ri &brandShortName;">
-<!ENTITY addonUninstall.label "Dì-stàlaich">
-<!ENTITY addonCancel.label "Sguir dheth">
-<!ENTITY addonShowPage.label "Rach gun duilleag">
+<!ENTITY addonOptions.label        "Roghainnean">
+<!ENTITY addonEnable.label         "Cuir an comas">
+<!ENTITY addonDisable.label        "Cuir à comas">
+<!ENTITY addonInstall2.label       "Cuir ri &brandShortName;">
+<!ENTITY addonUninstall.label      "Dì-stàlaich">
+<!ENTITY addonCancel.label         "Sguir dheth">
+<!ENTITY addonShowPage.label       "Rach dhan duilleag">
 
-<!ENTITY downloadsHeader.label "Luchdaidhean a-nuas">
+<!ENTITY downloadsHeader.label     "Luchdaidhean a-nuas">
 
-<!ENTITY downloadShowPage.label "Rach gun duilleag">
-<!ENTITY downloadShow2.label "Lorg">
-<!ENTITY downloadOpen2.label "Fosgail">
-<!ENTITY downloadCancel.label "Sguir dheth">
-<!ENTITY downloadPause.label "Cuir 'na stad">
-<!ENTITY downloadResume.label "Lean air">
-<!ENTITY downloadRetry.label "Feuch ris a-rithist">
-<!ENTITY downloadRemove.label "Thoir air falbh">
-<!ENTITY downloadFailed.label "Dh'fhàillig">
+<!ENTITY downloadShowPage.label    "Rach dhan duilleag">
+<!ENTITY downloadShow2.label       "Lorg">
+<!ENTITY downloadOpen2.label       "Fosgail">
+<!ENTITY downloadCancel.label      "Sguir dheth">
+<!ENTITY downloadPause.label       "Cuir 'na stad">
+<!ENTITY downloadResume.label      "Lean air">
+<!ENTITY downloadRetry.label       "Feuch ris a-rithist">
+<!ENTITY downloadRemove.label      "Thoir air falbh">
+<!ENTITY downloadFailed.label      "Dh'fhàillig e">
 
-<!ENTITY noResults.label "Gun toradh">
-<!ENTITY allBookmarks.label "Seall a h-uile comharra-lìn">
+<!ENTITY noResults.label           "Gun toradh">
+<!ENTITY allBookmarks.label        "Seall a h-uile comharra-lìn">
 
-<!ENTITY bookmarkPopup.label "Chaidh comharra-lìn a chruthachadh">
-<!ENTITY bookmarkRemove.label "Thoir air falbh">
-<!ENTITY bookmarkEdit.label "Deasaich">
+<!ENTITY bookmarkPopup.label       "Chaidh comharra-lìn a chruthachadh">
+<!ENTITY bookmarkRemove.label      "Thoir air falbh">
+<!ENTITY bookmarkEdit.label        "Deasaich">
 
 <!ENTITY identity.unverifiedsite2 "Chan eil an làrach seo a' nochdadh fiosrachadh dearbh-aithne.">
-<!ENTITY identity.connectedTo2 "Air a cheangal ri">
+<!ENTITY identity.connectedTo2 "Ceangailte ri">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
@@ -80,17 +81,17 @@
  just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy2 "'ga ruith le">
 
-<!ENTITY consoleHeader.label "Mearachd na consoil">
-<!ENTITY consoleAll.label "A h-uile">
-<!ENTITY consoleErrors.label "Mearachdan">
-<!ENTITY consoleWarnings.label "Rabhaidhean">
-<!ENTITY consoleMessages.label "Teachdaireachdan">
-<!ENTITY consoleCodeEval.label "Còd:">
-<!ENTITY consoleClear.label "Falmhaich">
-<!ENTITY consoleEvaluate.label "…">
-<!ENTITY consoleErrFile.label "Am faidhle tùsail:">
-<!ENTITY consoleErrLine.label "Loidhne:">
-<!ENTITY consoleErrColumn.label "Colbh:">
+<!ENTITY consoleHeader.label       "Consol nam mearachd">
+<!ENTITY consoleAll.label          "A h-uile">
+<!ENTITY consoleErrors.label       "Mearachdan">
+<!ENTITY consoleWarnings.label     "Rabhaidhean">
+<!ENTITY consoleMessages.label     "Teachdaireachdan">
+<!ENTITY consoleCodeEval.label     "Còd:">
+<!ENTITY consoleClear.label        "Falamhaich">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Bun-tùs an fhaidhle:">
+<!ENTITY consoleErrLine.label      "Loidhne:">
+<!ENTITY consoleErrColumn.label    "Colbh:">
 
-<!ENTITY contextOpenInNewTab.label "Open Link in New Tab">
-<!ENTITY contextSaveImage.label "Sàbhail an dealbh">
+<!ENTITY contextOpenInNewTab.label "Fosgail an ceangal ann an taba ùr">
+<!ENTITY contextSaveImage.label    "Sàbhail an dealbh">

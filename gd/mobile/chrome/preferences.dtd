@@ -1,20 +1,20 @@
-<!ENTITY prefsHeader.label "Roghainnean">
-<!ENTITY about.title "Mu dhèidhinn &brandShortName;">
-<!ENTITY about.button "Rach gun duilleag">
-<!ENTITY content.title "Susbaint">
-<!ENTITY showImages.title "Seall dealbhan">
-<!ENTITY enableJavaScript.title "Cuir JavaScript an comas">
-<!ENTITY enablePlugins.title "Cuir plugain an comas">
-<!ENTITY privacy.title "Prìobhaideachd ┐ Tèarainteach">
-<!ENTITY allowCookies.title "Ceadaich briosgaidean">
-<!ENTITY clearPrivateData2.title "Falmhaich an dàta prìobhaideach">
-<!ENTITY clearPrivateData.button "Falmhaich">
-<!ENTITY rememberPasswords.title "Cum faclan-faire an cuimhne">
-<!ENTITY language.title "Cànan">
-<!ENTITY language.auto "Mothachadh leis fhèin">
-<!ENTITY defaultBrowser.title "Am brabhsair bunaiteach">
-<!ENTITY defaultBrowser.description "Make &brandShortName; your default browser">
-<!ENTITY homepage.title "Start page">
-<!ENTITY homepage.none "Blank Page">
-<!ENTITY homepage.default "&brandShortName; Start">
-<!ENTITY homepage.currentpage "Use Current Page">
+<!ENTITY prefsHeader.label                         "Roghainnean">
+<!ENTITY about.title                               "Mu &brandShortName;">
+<!ENTITY about.button                              "Rach dhan duilleag">
+<!ENTITY content.title                             "Susbaint">
+<!ENTITY showImages.title                          "Seall dealbhan">
+<!ENTITY enableJavaScript.title                    "Cuir JavaScript an comas">
+<!ENTITY enablePlugins.title                       "Cuir plugain an comas">
+<!ENTITY privacy.title                             "Prìobhaideachd ┐ Tèarainteachd">
+<!ENTITY allowCookies.title                        "Ceadaich briosgaidean">
+<!ENTITY clearPrivateData2.title                   "Falamhaich an dàta prìobhaideach">
+<!ENTITY clearPrivateData.button                   "Falamhaich">
+<!ENTITY rememberPasswords.title                   "Cum faclan-faire an cuimhne">
+<!ENTITY language.title                            "Cànan">
+<!ENTITY language.auto                             "Mothachadh leis fhèin">
+<!ENTITY defaultBrowser.title                      "Am brabhsair bunaiteach">
+<!ENTITY defaultBrowser.description                "Cleachd &brandShortName; mar am brabhsair bunaiteach agad">
+<!ENTITY homepage.title                            "Duilleag tòiseachaidh">
+<!ENTITY homepage.none                             "Duilleag bhàn">
+<!ENTITY homepage.default                          "Toisich &brandShortName;">
+<!ENTITY homepage.currentpage                      "Cleachd an duilleag làithreach">

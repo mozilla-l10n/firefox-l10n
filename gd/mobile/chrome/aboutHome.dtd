@@ -1,6 +1,8 @@
-<!ENTITY aboutHome.header "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
-<!ENTITY aboutHome.recentTabs "Your tabs from last time">
-<!ENTITY aboutHome.remoteTabs "Tabs from your other computers">
-<!ENTITY aboutHome.recommendedAddons2 "Add-ons for your &brandShortName;">
-<!ENTITY aboutHome.aboutMozilla "About Mozilla">
-<!ENTITY aboutHome.openAllTabs "Open all in tabs">
+<!ENTITY aboutHome.header                       "<span id='header-suffix'>A' tòiseachadh le</span><span>&brandShortName; </span>">
+<!ENTITY aboutHome.recentTabs                   "Na tabaichean a bha agad turas mu dheireadh">
+<!ENTITY aboutHome.remoteTabs                   "Tabaichean o na coimpiutairean eile agad">
+<!ENTITY aboutHome.recommendedAddons2           "Tuilleadain airson &brandShortName; agad">
+<!ENTITY aboutHome.aboutMozilla                 "Mu Mozilla">
+<!ENTITY aboutHome.openAllTabs                  "Fosgail gach aon dhiubh ann an taba">
+<!ENTITY aboutHome.noTabs                       "Chan eil tabaichean ann on turas mu dheireadh">
+<!ENTITY aboutHome.noAddons                     "Chan eil tuilleadan molta ann">
