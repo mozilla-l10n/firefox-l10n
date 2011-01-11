@@ -69,11 +69,3 @@
 
 <!ENTITY title.label              "Titel">
 <!ENTITY processing.label         "Importieren…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x speichert nur eine Postadresse für jede Karte, während &brandShortName; zwei speichert (private und dienstliche).">
-<!ENTITY FieldDiscInputText2.label  "Wählen Sie die Kategorie, in die importierte Postadressen gespeichert werden:">
-<!ENTITY FieldDiscWarning.label  "Diese Kategorie wird für alle Einträge des gewählten Adressbuchs verwendet: ">
-<!ENTITY importHome.label        "Privat">
-<!ENTITY importHome.accesskey    "P">
-<!ENTITY importWork.label        "Dienstlich">
-<!ENTITY importWork.accesskey    "D">

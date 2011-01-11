@@ -13,5 +13,6 @@
 <!ENTITY  bookmarkGroup.accesskey  "L">
 <!ENTITY  closeTabButton.tooltip   "Aktuelles Tab schließen">
 <!ENTITY  newTabButton.tooltip   "Neues Tab öffnen">
+<!ENTITY  listAllTabs.tooltip    "Alle Tabs auflisten">
 <!ENTITY  undoCloseTab.label    "Schließen des Tabs rückgängig machen">
 <!ENTITY  undoCloseTab.accesskey  "S">
