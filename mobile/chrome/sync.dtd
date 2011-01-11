@@ -1,0 +1,21 @@
+<!ENTITY sync.title                 "Co-shioncronachadh">
+<!ENTITY sync.notconnected          "Chan eil ceangal ann">
+<!ENTITY sync.connect               "Ceangail">
+<!ENTITY sync.connected             "Ceangailte ris">
+<!ENTITY sync.details               "Mion-fhiosrachadh">
+<!ENTITY sync.synchronize           "Cuir an sioncronachadh an comas">
+<!ENTITY sync.deviceName            "An t-inneal seo">
+<!ENTITY sync.disconnect            "Dì-cheangail">
+<!ENTITY sync.syncNow               "Co-shioncronaich an-dràsta">
+
+<!ENTITY sync.setup.title           "Ceangail ris an t-sioncronachadh">
+<!ENTITY sync.setup.jpake           "Ma bhios tu air coimpiutair aig a bheil ceangal ri sioncronachadh Firefox, rach gu roghainnean an t-sioncronachaidh is tagh &#x0022;Cuir inneal ris&#x0022;">
+<!ENTITY sync.fallback              "Chan eil mi faisg air a' choimpiutair agam…">
+<!ENTITY sync.setup.manual          "Cuir a-steach fiosrachadh a' chunntais sioncronachaidh agad">
+<!ENTITY sync.account               "Ainm a' chunntais">
+<!ENTITY sync.password              "Facal-faire">
+<!ENTITY sync.syncKey               "Iuchair sioncronachaidh">
+<!ENTITY sync.customServer          "Cleachd frithealaichte gnàthaichte">
+<!ENTITY sync.serverURL             "URL an fhrithealaiche">
+<!ENTITY sync.setup.connect         "Ceangail">
+<!ENTITY sync.setup.cancel          "Sguir dheth">
