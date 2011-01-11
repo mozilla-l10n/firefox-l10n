@@ -4,11 +4,11 @@
 <!ENTITY pref.cache.title                "Cache">
 <!ENTITY pref.cache.caption              "Cache-Optionen setzen">
 <!ENTITY cachePara                       "Der Cache behält Kopien häufig besuchter Webseiten auf Ihrer Festplatte. (Wenn Sie 'Neu laden' klicken, wird immer die aktuellste Version einer Seite angezeigt.)">
-<!ENTITY cacheCheck.label                "Größe des Caches durch &brandShortName; verwalten lassen">
+<!ENTITY cacheCheck.label                "Größe des Caches von &brandShortName; verwalten lassen">
 <!ENTITY cacheCheck.accesskey            "G">
 <!ENTITY diskCacheUpTo.label             "Bis zu">
 <!ENTITY diskCacheUpTo.accesskey         "B">
-<!ENTITY spaceMbytes                     "MB am Datenträger für den Cache verwenden.">
+<!ENTITY spaceMbytes                     "MB am Datenträger für den Cache verwenden">
 <!ENTITY diskCacheFolder.label           "Cache-Ordner:">
 <!ENTITY clearDiskCache.label            "Cache löschen">
 <!ENTITY clearDiskCache.accesskey        "l">
