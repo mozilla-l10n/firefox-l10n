@@ -4,9 +4,9 @@
 <!ENTITY safeb.palm.message.p1.linkText "Læs mere &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "Læs mere &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "Disse typer webforfalskninger bruges i svindeloperationer kendt som phishing angreb, hvor falske hjemmesider og emails efterligner sider du stoler på for at få dig til at opgive oplysninger. Du kan læse mere om hvordan ">
+<!ENTITY safeb.palm.message.p2.start "Disse typer webforfalskninger bruges i svindeloperationer kendt som phishing-angreb, hvor falske hjemmesider og emails efterligner sider du stoler på for at få dig til at opgive oplysninger. Du kan læse mere om hvordan ">
 <!ENTITY safeb.palm.message.p2.linkText "&brandShortName; beskytter dig">
-<!ENTITY safeb.palm.message.p2.end " fra phishing angreb.">
+<!ENTITY safeb.palm.message.p2.end " fra phishing-angreb.">
 
 <!ENTITY safeb.palm.accept.label "Få mig væk herfra!">
 <!ENTITY safeb.palm.accept.statustext "Gå til min hjemmeside">

@@ -80,7 +80,7 @@
 <!ENTITY certmgr.editsslcert.edittrust        "Tilpas certifikattillidsindstillinger:">
 <!ENTITY certmgr.editsslcert.dotrust          "Stol på rigtigheden af dette certifikat.">
 <!ENTITY certmgr.editsslcert.donttrust        "Stol ikke på rigtigheden af dette certifikat.">
-<!ENTITY certmgr.editemailcert.title          "Tillidsindstillinger for email-certifikater">
+<!ENTITY certmgr.editemailcert.title          "Tillidsindstillinger for mailcertifikater">
 <!ENTITY certmgr.editemailcert.edittrust      "Tilpas certifikattillidsindstillinger:">
 <!ENTITY certmgr.editemailcert.dotrust        "Stol på rigtigheden af dette certifikat.">
 <!ENTITY certmgr.editemailcert.donttrust      "Stol ikke på rigtigheden af dette certifikat.">
@@ -98,14 +98,14 @@
 <!ENTITY certmgr.tokenname                    "Sikkerhedsenhed">
 <!ENTITY certmgr.issued                       "Udstedt den">
 <!ENTITY certmgr.expires                      "Udløber den">
-<!ENTITY certmgr.email                        "Email-adresse">
+<!ENTITY certmgr.email                        "Mailadresse">
 <!ENTITY certmgr.serial                       "Serienummer">
 
 <!ENTITY certmgr.close.label                  "Luk">
 <!ENTITY certmgr.close.accesskey              "L">
 <!ENTITY certmgr.view2.label                  "Vis…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit3.label                  "Rediger Tillid…">
+<!ENTITY certmgr.edit3.label                  "Rediger tillid…">
 <!ENTITY certmgr.edit3.accesskey              "R">
 <!ENTITY certmgr.editca.label                 "Rediger CA-tillid">
 <!ENTITY certmgr.editca.accesskey             "d">
@@ -135,7 +135,7 @@
 <!ENTITY exceptionMgr.title                   "Tilføj sikkerhedsundtagelse">
 <!ENTITY exceptionMgr.exceptionButton.label   "Bekræft sikkerhedsundtagelse">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "B">
-<!ENTITY exceptionMgr.supplementalWarning     "Legitime banker, forretninger og andre offentlige websider vil ikke bede dig om at gøre dette.">
+<!ENTITY exceptionMgr.supplementalWarning     "Legitime banker, forretninger og andre offentlige websteder vil ikke bede dig om at gøre dette.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">
 <!ENTITY exceptionMgr.certlocation.download   "Hent certifikat">
