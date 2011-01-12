@@ -1,8 +1,6 @@
 <!ENTITY setupButton.label "Настроить &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey "с">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; позволяет вам получить доступ к вашему журналу, закладкам, паролям и открытым вкладкам со всех ваших устройств.">
-<!ENTITY accountGroupboxCaption.label "Учётная запись &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label "Текущая учётная запись:">
 <!ENTITY updatePass.label "Обновить">
 <!ENTITY resetPass.label "Сбросить">
 <!ENTITY manageAccount.label "Управление учётной записью">
@@ -11,11 +9,7 @@
 <!ENTITY changePassword.label "Сменить пароль">
 <!ENTITY mySyncKey.label "Мой ключ синхронизации">
 <!ENTITY resetSync.label "Заменить или объединить данные Sync">
-<!ENTITY stopUsingAccount.label "Перестать использовать эту учётную запись">
 <!ENTITY addDevice.label "Добавить устройство">
-<!ENTITY syncPrefsCaption.label "Синхронизация браузера">
-<!ENTITY syncComputerName.label "Имя компьютера:">
-<!ENTITY syncComputerName.accesskey "м">
 <!ENTITY syncMy.label "Синхронизировать мои">
 <!ENTITY engine.bookmarks.label "Закладки">
 <!ENTITY engine.bookmarks.accesskey "к">
@@ -27,5 +21,8 @@
 <!ENTITY engine.passwords.accesskey "р">
 <!ENTITY engine.prefs.label "Настройки">
 <!ENTITY engine.prefs.accesskey "о">
+<!ENTITY syncComputerName.label "Имя компьютера:">
+<!ENTITY syncComputerName.accesskey "м">
+<!ENTITY deactivateDevice.label "Деактивировать это устройство">
 <!ENTITY prefs.tosLink.label "Условия службы">
 <!ENTITY prefs.ppLink.label "Политика приватности">
