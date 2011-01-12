@@ -3,8 +3,6 @@
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ļauj jums piekļūt pārlūkošanas vēsturei, grāmatzīmēm, parolēm un atvērtajām cilnēm visās jūsu izmantotajās ierīcēs.">
 
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; konts">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Atjaunināt">
@@ -15,14 +13,13 @@
 <!ENTITY manageAccount.accesskey      "P">
 <!ENTITY changePassword.label         "Mainīt paroli">
 <!ENTITY resetSync.label              "Atiestatīt sinhronizāciju">
-<!ENTITY stopUsingAccount.label       "Pārtraukt šī konta izmantošanu">
 <!ENTITY viewQuota.label              "Aplūkot kvotu">
 <!ENTITY addDevice.label              "Pievienot ierīci">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Pārlūka sinhronizācija">
 <!ENTITY syncComputerName.label       "Datora nosaukums:">
 <!ENTITY syncComputerName.accesskey   "d">
+<!ENTITY deactivateDevice.label       "Deaktivizēt šo ierīci">
 
 <!ENTITY syncMy.label               "Sinhronizēt manas">
 <!ENTITY engine.bookmarks.label     "Grāmatzīmes">
@@ -36,7 +33,6 @@
 <!ENTITY engine.prefs.label         "Iestatījumus">
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY mySyncKey.label              "Mana sinhronizācijas atslēga">
-<!ENTITY currentAccount.label         "Izvēlētais konts:">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Lietošanas noteikumi">
