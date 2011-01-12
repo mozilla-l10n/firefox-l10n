@@ -18,13 +18,13 @@
 <!ENTITY changePassword.label         "Wachtwoord wijzigen">
 <!ENTITY mySyncKey.label              "Mijn Sync-sleutel">
 <!ENTITY resetSync.label              "Sync herinitialiseren">
-<!ENTITY stopUsingAccount.label       "Gebruik van deze account stoppen">
 <!ENTITY addDevice.label              "Een apparaat toevoegen">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Browsersynchronisatie">
 <!ENTITY syncComputerName.label       "Computernaam:">
 <!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY deactivateDevice.label       "Dit apparaat deactiveren">
 
 <!ENTITY syncMy.label               "Synchroniseren:">
 <!ENTITY engine.bookmarks.label     "Bladwijzers">
