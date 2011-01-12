@@ -3,8 +3,7 @@
 <!ENTITY setupButton.accesskey      "θ">
 <!ENTITY weaveDesc.label            "Με τον &syncBrand.fullName.label; μπορείτε να έχετε πρόσβαση στο ιστορικό, τους σελιδοδείκτες, τους κωδικούς και τις ανοικτές καρτέλες σας, μέσω όλων των συσκευών σας.">
 
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Λογαριασμός &syncBrand.fullName.label;">
+
 
 
 <!-- Login error feedback -->
@@ -20,7 +19,6 @@
 
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Συγχρονισμός περιηγητή">
 <!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
 <!ENTITY syncComputerName.accesskey   "υ">
 <!ENTITY addDevice.label              "Προσθήκη συσκευής">
@@ -47,8 +45,9 @@
 
 <!ENTITY mySyncKey.label              "Το κλειδί συγχρονισμού μου">
 <!ENTITY syncMy.label               "Συγχρονισμός σε">
+<!ENTITY deactivateDevice.label       "Απενεργοποίηση αυτής της συσκευής">
 
-<!ENTITY currentAccount.label         "Τρέχων λογαριασμός:">
-<!ENTITY stopUsingAccount.label       "Διακοπή χρήσης αυτού του λογαριασμού">
+
+
 <!ENTITY viewQuota.label              "Προβολή ορίων">
 
