@@ -3,10 +3,8 @@
 <!ENTITY setupButton.accesskey "S">
 <!ENTITY weaveDesc.label "Le &syncBrand.fullName.label; is féidir leat do stair, leabharmharcanna, focail fhaire agus cluaisíní a rochtain ar gach gléas atá agat.">
 <!-- The page shown when logged in... -->
-
-<!ENTITY accountGroupboxCaption.label "Cuntas &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label "Cuntas Reatha:">
 <!-- Login error feedback -->
+
 
 <!ENTITY updatePass.label "Nuashonrú">
 <!ENTITY resetPass.label "Bánaigh">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label "Athraigh an Focal Faire">
 <!ENTITY mySyncKey.label "M'Eochair Sync">
 <!ENTITY resetSync.label "Athshocraigh Sync">
-<!ENTITY stopUsingAccount.label "Dún an Cuntas Seo">
 <!ENTITY addDevice.label "Cuir Gléas Leis">
-<!-- Sync Settings -->
-
-<!ENTITY syncPrefsCaption.label "Sioncrónú Brabhsálaí">
-<!ENTITY syncComputerName.label "Ainm an Ríomhaire:">
-<!ENTITY syncComputerName.accesskey "A">
 
 <!ENTITY syncMy.label "Sioncrónaigh Mo Chuid">
 <!ENTITY engine.bookmarks.label "Leabharmharcanna">
@@ -37,8 +29,12 @@
 <!ENTITY engine.passwords.accesskey "F">
 <!ENTITY engine.prefs.label "Sainroghanna">
 <!ENTITY engine.prefs.accesskey "S">
-<!-- Footer stuff -->
+<!-- Device Settings -->
 
+<!ENTITY syncComputerName.label "Ainm an Ríomhaire:">
+<!ENTITY syncComputerName.accesskey "A">
+<!ENTITY deactivateDevice.label "Díghníomhachtaigh an Gléas Seo">
+<!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label "Téarmaí Seirbhíse">
 <!ENTITY prefs.ppLink.label "Polasaí Príobháideachta">
