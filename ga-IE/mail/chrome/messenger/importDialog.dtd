@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label "Teideal">
 <!ENTITY processing.label "Á nIompórtáil…">
-
-<!ENTITY FieldDiscInputText1.label "Tá seoladh poist amháin ag Netscape Communicator 4.x le haghaidh gach cárta, ach tá dhá cheann (Baile agus Obair) ag &brandShortName;.">
-<!ENTITY FieldDiscInputText2.label "Roghnaigh an chatagóir ina dteastaíonn uait na seoltaí iompórtáilte a shábháil:">
-<!ENTITY FieldDiscWarning.label "Beidh gach iontráil sa leabhar seoltaí roghnaithe sa chatagóir seo: ">
-<!ENTITY importHome.label "Baile">
-<!ENTITY importHome.accesskey "B">
-<!ENTITY importWork.label "Obair">
-<!ENTITY importWork.accesskey "O">
