@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; permet d'accéder à votre historique, vos marque-pages, vos mots de passe et onglets ouverts depuis différents ordinateurs et appareils.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Compte &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Compte courant :">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Mettre à jour">
@@ -21,11 +19,6 @@
 <!ENTITY stopUsingAccount.label       "Arrêter d'utiliser ce compte">
 <!ENTITY addDevice.label              "Ajouter un appareil">
 
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Synchronisation du navigateur">
-<!ENTITY syncComputerName.label       "Nom de l'ordinateur :">
-<!ENTITY syncComputerName.accesskey   "o">
-
 <!ENTITY syncMy.label               "Synchroniser">
 <!ENTITY engine.bookmarks.label     "les marque-pages">
 <!ENTITY engine.bookmarks.accesskey "m">
@@ -37,6 +30,10 @@
 <!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "les préférences">
 <!ENTITY engine.prefs.accesskey     "s">
+
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Nom de l'ordinateur :">
+<!ENTITY syncComputerName.accesskey   "d">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Conditions d'utilisation">
