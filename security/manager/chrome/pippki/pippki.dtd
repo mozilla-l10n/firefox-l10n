@@ -113,7 +113,7 @@
 <!ENTITY examineCert.label "Preglej digitalno potrdilo">
 <!ENTITY examineCert.accesskey "P">
 
-<!ENTITY serverCrlNextupdate.message "Prosim, povprašajte sistemskega administratorja za pomoč">
+<!ENTITY serverCrlNextupdate.message "Za pomoč se obrnite na skrbnika sistema">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Ustvarjam privatni ključ">

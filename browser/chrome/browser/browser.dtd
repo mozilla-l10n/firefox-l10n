@@ -34,7 +34,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.label              "Premakni v novo okno">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 
-<!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke…">
+<!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke …">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  undoCloseTab.label                 "Prekliči zapiranje zavihka">
 <!ENTITY  undoCloseTab.accesskey             "h">
@@ -71,7 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Vrstica zaznamkov">
 <!ENTITY personalbarCmd.accesskey "Z">
 <!ENTITY bookmarksToolbarItem.label "Predmeti orodne vrstice z zaznamki">
-<!ENTITY addonBarCmd.label "Vrstica z dodatki">
+<!ENTITY addonBarCmd.label "Vrstica dodatkov">
 <!ENTITY addonBarCmd.accesskey "D">
 
 <!ENTITY pageSourceCmd.label "Izvorna koda strani">
@@ -137,7 +137,7 @@ can reach it easily. -->
 <!ENTITY homeButton.label "Domov">
 
 <!ENTITY tabGroupsButton.label        "Skupine zavihkov">
-<!ENTITY tabGroupsButton.tooltip      "Združite vaše zavihke">
+<!ENTITY tabGroupsButton.tooltip      "Združite svoje zavihke">
 
 <!ENTITY feedButton.label             "Naroči se">
 <!ENTITY feedButton.tooltip           "Naroči se na to stran…">
@@ -550,4 +550,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "j">
 <!ENTITY syncToolbarButton.label      "Sinhroniziraj">
 
-<!ENTITY addonBarCloseButton.tooltip  "Zapri vrstico z dodatki">
+<!ENTITY addonBarCloseButton.tooltip  "Zapri vrstico dodatkov">

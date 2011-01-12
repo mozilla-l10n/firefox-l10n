@@ -100,8 +100,8 @@
 <!ENTITY certs.ask.accesskey "k">
 <!ENTITY viewCerts.label "Preglej digitalna potrdila">
 <!ENTITY viewCerts.accesskey "p">
-<!ENTITY viewCRLs.label "Zavrnitveni seznami">
-<!ENTITY viewCRLs.accesskey "Z">
+<!ENTITY viewCRLs.label "Preklicana potrdila">
+<!ENTITY viewCRLs.accesskey "r">
 <!ENTITY verify2.label "Preverjanje">
 <!ENTITY verify2.accesskey "V">
 <!ENTITY viewSecurityDevices.label "Varnostne naprave">
