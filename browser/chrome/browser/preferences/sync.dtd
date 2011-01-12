@@ -3,10 +3,6 @@
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "La &syncBrand.fullName.label; us permet accedir al vostre historial, adreces d'interès, contrasenyes i pestanyes obertes des de qualsevol dels vostres dispositius.">
 
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Compte de &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Compte actual:">
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Actualitza">
 <!ENTITY resetPass.label              "Reinicia">
@@ -18,13 +14,12 @@
 <!ENTITY changePassword.label         "Canvia la contrasenya">
 <!ENTITY mySyncKey.label              "La meva clau de sincronització">
 <!ENTITY resetSync.label              "Reinicia la sincronització">
-<!ENTITY stopUsingAccount.label       "Deixa d'utilitzar aquest compte">
 <!ENTITY addDevice.label              "Afegeix un dispositiu">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Sincronització del navegador">
 <!ENTITY syncComputerName.label       "Nom de l'ordinador:">
 <!ENTITY syncComputerName.accesskey   "o">
+<!ENTITY deactivateDevice.label       "Desactiva aquest dispositiu">
 
 <!ENTITY syncMy.label               "Sincronitza:">
 <!ENTITY engine.bookmarks.label     "Adreces d'interès">
