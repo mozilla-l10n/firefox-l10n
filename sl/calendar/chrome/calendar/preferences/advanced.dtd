@@ -94,7 +94,7 @@
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "v">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Pokaži potrdila">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "P">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Seznami preklicanih potrdil">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Preklicana potrdila">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "r">
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Potrjevanje veljavnosti">
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "l">
