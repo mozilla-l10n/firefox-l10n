@@ -1,8 +1,6 @@
 <!ENTITY setupButton.label "Configurazione di &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey "C">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; consente l'accesso alla cronologia, ai segnalibri, alle password e alle schede aperte da tutti i propri dispositivi.">
-<!ENTITY accountGroupboxCaption.label "Account &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label "Account corrente:">
 <!ENTITY updatePass.label "Aggiorna">
 <!ENTITY resetPass.label "Azzera">
 <!ENTITY manageAccount.label "Gestione account">
@@ -11,11 +9,7 @@
 <!ENTITY changePassword.label "Cambia la password">
 <!ENTITY mySyncKey.label "Chiave Sync">
 <!ENTITY resetSync.label "Ripristina la sincronizzazione">
-<!ENTITY stopUsingAccount.label "Non utilizzare più questo account">
 <!ENTITY addDevice.label "Aggiungi un dispositivo">
-<!ENTITY syncPrefsCaption.label "Sincronizzazione del browser">
-<!ENTITY syncComputerName.label "Nome del computer:">
-<!ENTITY syncComputerName.accesskey "u">
 <!ENTITY syncMy.label "Sincronizza">
 <!ENTITY engine.bookmarks.label "Segnalibri">
 <!ENTITY engine.bookmarks.accesskey "e">
@@ -27,5 +21,8 @@
 <!ENTITY engine.passwords.accesskey "w">
 <!ENTITY engine.prefs.label "Preferenze">
 <!ENTITY engine.prefs.accesskey "z">
+<!ENTITY syncComputerName.label "Nome del computer:">
+<!ENTITY syncComputerName.accesskey "u">
+<!ENTITY deactivateDevice.label "Disattiva questo dispositivo">
 <!ENTITY prefs.tosLink.label "Condizioni di utilizzo del servizio">
 <!ENTITY prefs.ppLink.label "Informativa sulla privacy">
