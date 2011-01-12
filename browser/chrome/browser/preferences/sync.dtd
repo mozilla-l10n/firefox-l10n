@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "Met &syncBrand.fullName.label; kunt u uw geschiedenis, bladwijzers, wachtwoorden en open tabbladen vanaf al uw apparaten benaderen.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-account">
-<!ENTITY currentAccount.label         "Huidige account:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Bijwerken">
@@ -20,12 +18,6 @@
 <!ENTITY resetSync.label              "Sync herinitialiseren">
 <!ENTITY addDevice.label              "Een apparaat toevoegen">
 
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browsersynchronisatie">
-<!ENTITY syncComputerName.label       "Computernaam:">
-<!ENTITY syncComputerName.accesskey   "C">
-<!ENTITY deactivateDevice.label       "Dit apparaat deactiveren">
-
 <!ENTITY syncMy.label               "Synchroniseren:">
 <!ENTITY engine.bookmarks.label     "Bladwijzers">
 <!ENTITY engine.bookmarks.accesskey "B">
@@ -37,6 +29,11 @@
 <!ENTITY engine.passwords.accesskey "W">
 <!ENTITY engine.prefs.label         "Voorkeuren">
 <!ENTITY engine.prefs.accesskey     "V">
+
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Computernaam:">
+<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY deactivateDevice.label       "Dit apparaat deactiveren">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Servicevoorwaarden (en)">
