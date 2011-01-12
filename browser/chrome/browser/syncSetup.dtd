@@ -39,7 +39,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey "r">
 <!ENTITY setup.captchaPage2.title.label "Por favor, confirma que no es un robot">
 <!ENTITY addDevice.title.label "Añadir un dispositivo">
-<!ENTITY addDevice.showMeHow.label "Enséñame cómo.">
+<!ENTITY addDevice.showMeHow.label "Enséñeme cómo.">
 <!ENTITY addDevice.dontHaveDevice.label "No tengo el dispositivo conmigo">
 <!ENTITY addDevice.setup.description.label 'Para activarlo, vaya a las opciones de &syncBrand.shortName.label; en otro dispositivo y seleccione "Añadir un dispositivo".'>
 <!ENTITY addDevice.setup.enterCode.label "Después, introduzca este código:">
