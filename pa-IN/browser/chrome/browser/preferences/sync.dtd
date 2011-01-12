@@ -3,10 +3,6 @@
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਭ ਜੰਤਰਾਂ ਉੱਤੇ ਤੁਹਾਡਾ ਅਤੀਤ, ਬੁੱਕਮਾਕ, ਪਾਸਵਰਡ ਤੇ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਵਰਤਣ ਦਿੰਦਾ ਹੈ।">
 
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ਅਕਾਊਂਟ">
-<!ENTITY currentAccount.label         "ਮੌਜੂਦਾ ਅਕਾਊਂਟ:">
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "ਅੱਪਡੇਟ">
 <!ENTITY resetPass.label              "ਮੁੜ-ਸੈੱਟ">
@@ -18,13 +14,9 @@
 <!ENTITY changePassword.label         "ਪਾਸਵਰਡ ਬਦਲੋ">
 <!ENTITY mySyncKey.label              "ਮੇਰੀ ਸਿੰਕ ਕੁੰਜੀ">
 <!ENTITY resetSync.label              "ਸਿੰਕ ਮੁੜ-ਸੈੱਟ">
-<!ENTITY stopUsingAccount.label       "ਇਹ ਅਕਾਊਂਟ ਦੀ ਵਰਤੋਂ ਰੋਕੋ">
 <!ENTITY addDevice.label              "ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "ਬਰਾਊਜ਼ਰ ਸਿੰਕ">
-<!ENTITY syncComputerName.label       "ਕੰਪਿਊਟਰ ਨਾਂ:">
-<!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "ਸਿੰਕ ਕਰੋ ਮੇਰੇ">
 <!ENTITY engine.bookmarks.label     "ਬੁੱਕਮਾਰਕ">
@@ -37,6 +29,11 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY engine.prefs.accesskey     "S">
+
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "ਕੰਪਿਊਟਰ ਨਾਂ:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY deactivateDevice.label       "ਇਹ ਜੰਤਰ ਡੀ-ਐਕਟੀਵੇਟ ਕਰੋ">
 
 
 <!-- Footer stuff -->
