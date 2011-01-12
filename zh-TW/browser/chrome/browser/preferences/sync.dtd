@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; 可以讓您存取多個裝置的歷史資訊、書籤、密碼、開啟分頁。">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; 帳號">
-<!ENTITY currentAccount.label         "目前帳號:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "更新">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "變更密碼">
 <!ENTITY mySyncKey.label              "我的同步金鑰">
 <!ENTITY resetSync.label              "重設同步">
-<!ENTITY stopUsingAccount.label       "停用此帳號">
 <!ENTITY addDevice.label              "新增裝置">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "瀏覽器同步">
-<!ENTITY syncComputerName.label       "電腦名稱:">
-<!ENTITY syncComputerName.accesskey   "C">
 
 <!ENTITY syncMy.label               "同步我的">
 <!ENTITY engine.bookmarks.label     "書籤">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label         "偏好設定">
 <!ENTITY engine.prefs.accesskey     "s">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "電腦名稱:">
+<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY deactivateDevice.label       "停止同步此裝置">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "服務條款">
