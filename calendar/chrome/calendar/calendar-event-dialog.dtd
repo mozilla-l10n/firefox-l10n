@@ -44,7 +44,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY event.title.label "Editar elemento">
-<!ENTITY event.dialog.keepDurationButton.tooltip "">
+<!ENTITY event.dialog.keepDurationButton.tooltip "Mantener la duración al cambiar la fecha de final">
+<!ENTITY event.dialog.keepDurationButton.accesskey "M">
 <!ENTITY newevent.from.label "Desde">
 <!ENTITY newevent.to.label "Hasta">
 <!ENTITY newevent.attendees.notify.label "Notificar asistentes">
