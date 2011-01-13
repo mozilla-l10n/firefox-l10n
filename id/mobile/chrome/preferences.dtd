@@ -5,7 +5,7 @@
 <!ENTITY reflowZoom.title                          "Format ulang teks saat perbesar/kecilan">
 <!ENTITY showImages.title                          "Tampilkan gambar">
 <!ENTITY enableJavaScript.title                    "Aktifkan JavaScript">
-<!ENTITY enablePlugins.title                       "Aktifkan Plugins">
+<!ENTITY enablePlugins.title                       "Aktifkan Plugin">
 <!ENTITY privacy.title                             "Privasi &amp; Keamanan">
 <!ENTITY allowCookies.title                        "Izinkan kuki">
 <!ENTITY clearPrivateData2.title                   "Hapus data pribadi">
