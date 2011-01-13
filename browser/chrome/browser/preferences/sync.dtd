@@ -3,10 +3,6 @@
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; memudahkan Anda untuk mengakses data riwayat, markah, sandi, dan tab di semua perangkat Anda.">
 
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Akun &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Akun Saat Ini:">
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Perbarui">
 <!ENTITY resetPass.label              "Setel Ulang">
@@ -18,13 +14,12 @@
 <!ENTITY changePassword.label         "Ganti Sandi">
 <!ENTITY mySyncKey.label              "Kunci Sinkronisasi">
 <!ENTITY resetSync.label              "Setel Ulang Sinkronisasi">
-<!ENTITY stopUsingAccount.label       "Hentikan Menggunakan Akun Ini">
 <!ENTITY addDevice.label              "Tambah Perangkat">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Sinkronkan Peramban">
 <!ENTITY syncComputerName.label       "Nama Komputer:">
 <!ENTITY syncComputerName.accesskey   "k">
+<!ENTITY deactivateDevice.label       "Nonaktifkan Perangkat Ini">
 
 <!ENTITY syncMy.label               "Sinkronkan">
 <!ENTITY engine.bookmarks.label     "Markah">
