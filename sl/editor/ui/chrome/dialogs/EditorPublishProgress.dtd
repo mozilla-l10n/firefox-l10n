@@ -41,7 +41,7 @@
 <!ENTITY docSubdir.label       "Podimenik strani:">
 <!ENTITY otherSubdir.label     "Podimenik za slike:">
 
-<!ENTITY status.label          "Objava…">
+<!ENTITY status.label          "Objava …">
 <!ENTITY fileList.label        "Stanje objave">
 <!ENTITY succeeded.label       "Uspešno">
 <!ENTITY failed.label          "Neuspešno">

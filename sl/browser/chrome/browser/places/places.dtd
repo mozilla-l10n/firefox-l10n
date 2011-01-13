@@ -26,24 +26,24 @@
 <!ENTITY view.sortDescending.label "Razvrti Ž > A">
 <!ENTITY view.sortDescending.accesskey "Ž">
 
-<!ENTITY cmd.findInBookmarks.label "Najdi v zaznamkih…">
+<!ENTITY cmd.findInBookmarks.label "Najdi v zaznamkih …">
 <!ENTITY cmd.findInBookmarks.accesskey "N">
 <!ENTITY cmd.findCurrent.label "Najdi v trenutni zbirki">
 <!ENTITY cmd.findCurrent.accesskey "a">
 
-<!ENTITY cmd.exportHTML.label "Izvozi HTML…">
+<!ENTITY cmd.exportHTML.label "Izvozi HTML …">
 <!ENTITY cmd.exportHTML.accesskey "z">
-<!ENTITY cmd.importHTML.label "Uvozi HTML…">
+<!ENTITY cmd.importHTML.label "Uvozi HTML …">
 <!ENTITY cmd.importHTML.accesskey "U">
 
-<!ENTITY cmd.backup.label "Varnostna kopija…">
+<!ENTITY cmd.backup.label "Varnostna kopija …">
 <!ENTITY cmd.backup.accesskey "V">
 <!ENTITY cmd.restore2.label "Povrni">
 <!ENTITY cmd.restore2.accesskey "R">
-<!ENTITY cmd.restoreFromFile.label "Izberite datoteko…">
+<!ENTITY cmd.restoreFromFile.label "Izberite datoteko …">
 <!ENTITY cmd.restoreFromFile.accesskey "I">
 
-<!ENTITY cmd.bookmarkLink.label         "Dodaj zaznamek za to stran…">
+<!ENTITY cmd.bookmarkLink.label         "Dodaj zaznamek za to stran …">
 <!ENTITY cmd.bookmarkLink.accesskey     "D">
 <!ENTITY cmd.delete.label               "Zbriši to stran">
 <!ENTITY cmd.delete.accesskey           "Z">
@@ -66,9 +66,9 @@
 <!ENTITY cmd.sortby_name.accesskey "U">
 <!ENTITY cmd.context_sortby_name.accesskey "r">
 
-<!ENTITY cmd.new_bookmark.label "Nov zaznamek…">
+<!ENTITY cmd.new_bookmark.label "Nov zaznamek …">
 <!ENTITY cmd.new_bookmark.accesskey "z">
-<!ENTITY cmd.new_folder.label "Nova mapa…">
+<!ENTITY cmd.new_folder.label "Nova mapa …">
 <!ENTITY cmd.new_folder.accesskey "i">
 <!ENTITY cmd.context_new_folder.accesskey "M">
 <!ENTITY cmd.new_separator.label "Nova ločilna črta">
@@ -79,7 +79,7 @@
 <!ENTITY cmd.reloadMicrosummary.label "Znova naloži živi naslov">
 <!ENTITY cmd.reloadMicrosummary.accesskey "ž">
 
-<!ENTITY cmd.moveBookmarks.label "Premakni…">
+<!ENTITY cmd.moveBookmarks.label "Premakni …">
 <!ENTITY cmd.moveBookmarks.accesskey "P">
 
 <!ENTITY col.name.label "Ime">

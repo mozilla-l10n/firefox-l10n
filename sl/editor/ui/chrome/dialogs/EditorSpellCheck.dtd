@@ -56,10 +56,10 @@
 <!ENTITY stopButton.label "Ustavi">
 <!ENTITY stopButton.accessKey "s">
 <!ENTITY userDictionary.label "Osebni slovar:">
-<!ENTITY moreDictionaries.label "Naloži dodatne slovarje…">
+<!ENTITY moreDictionaries.label "Naloži dodatne slovarje …">
 <!ENTITY addToUserDictionaryButton.label "Dodaj besedo">
 <!ENTITY addToUserDictionaryButton.accessKey "p">
-<!ENTITY editUserDictionaryButton.label "Urejaj…">
+<!ENTITY editUserDictionaryButton.label "Urejaj …">
 <!ENTITY editUserDictionaryButton.accessKey "e">
 <!ENTITY recheckButton.label "Ponovno preglej stran">
 <!ENTITY recheckButton.accessKey "P">

@@ -314,7 +314,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "N">
 <!ENTITY prevStarredMsgCmd.label "Sporočilo z zvezdico">
 <!ENTITY prevStarredMsgCmd.accesskey "z">
-<!ENTITY startPageCmd.label "Začetna stran za pošto">
+<!ENTITY startPageCmd.label "Domača stran pošte">
 <!ENTITY startPageCmd.accesskey "a">
 
 <!-- Message Menu -->

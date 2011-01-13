@@ -26,7 +26,7 @@
 <!ENTITY pop.description                 "POP - prenesi vsa sporočila na ta računalnik, mape so samo lokalne">
 <!ENTITY recommended-appendix.label      "(se priporoča)">
 
-<!ENTITY manualSetup.label               "Ročna nastavitev…">
+<!ENTITY manualSetup.label               "Ročna nastavitev …">
 <!ENTITY manualSetup.accesskey           "R">
 <!ENTITY cancel.label                    "Prekliči">
 <!ENTITY cancel.accesskey                "Q">
