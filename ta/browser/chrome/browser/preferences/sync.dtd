@@ -3,10 +3,6 @@
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; உங்கள் வரலாறுர புத்தகக்குறிகள், கடவுச்சொற்கள் மற்றும் உங்கள் அனைத்து சாதனத்திலும் திறந்த தத்தல்களை அணுக வைக்கிறது.">
 
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; கணக்கு">
-<!ENTITY currentAccount.label         "நடப்பு கணக்கு:">
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "புதுப்பி">
 <!ENTITY resetPass.label              "மறுஅமை">
@@ -18,13 +14,12 @@
 <!ENTITY changePassword.label         "கடவுச்சொல்லை மாற்று">
 <!ENTITY mySyncKey.label              "எனது ஒத்திசை விசை">
 <!ENTITY resetSync.label              "ஒத்திசைவை மறுஅமை">
-<!ENTITY stopUsingAccount.label       "இந்தக் கணக்கைப் பயன்படுத்துவதை நிறுத்து">
 <!ENTITY addDevice.label              "ஒரு சாதனத்தை சேர்">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "உலாவி ஒத்திசைவு">
 <!ENTITY syncComputerName.label       "கணினி பெயர்:">
 <!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY deactivateDevice.label       "இந்த சாதனத்தை செயல்நீக்கு">
 
 <!ENTITY syncMy.label               "என்னுடையதை ஒத்திசை">
 <!ENTITY engine.bookmarks.label     "புத்தகக்குறிகள்">
