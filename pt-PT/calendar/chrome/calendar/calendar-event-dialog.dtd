@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label                  "Editar Item" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Manter duração ao alterar a data de fim">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "De" >
 <!ENTITY newevent.to.label                  "Para" >
