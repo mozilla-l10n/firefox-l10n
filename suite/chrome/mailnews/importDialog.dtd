@@ -25,10 +25,3 @@
 <!ENTITY select.label "o seleccione el tipo de datos a importar:">
 <!ENTITY title.label "Puesto">
 <!ENTITY processing.label "Importando…">
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x tiene una dirección de correo  para cada tarjeta, mientras que  &brandShortName; tiene dos (personal y trabajo).">
-<!ENTITY FieldDiscInputText2.label "Seleccionar la categoría en la que quiere almacenar las direcciones de correo importadas:">
-<!ENTITY FieldDiscWarning.label "Esta categoría será utilizada para todas las entradas de la libreta de direcciones seleccionada: ">
-<!ENTITY importHome.label "Inicio">
-<!ENTITY importHome.accesskey "I">
-<!ENTITY importWork.label "Trabajo">
-<!ENTITY importWork.accesskey "b">

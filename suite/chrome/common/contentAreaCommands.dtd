@@ -12,6 +12,8 @@
 <!ENTITY openFrameCmd.accesskey "A">
 <!ENTITY openFrameCmdInTab.label "Abrir el marco en una pestaña nueva">
 <!ENTITY openFrameCmdInTab.accesskey "T">
+<!ENTITY keywordfield.label "Añadir una palabra clave para esta búsqueda…">
+<!ENTITY keywordfield.accesskey "A">
 <!ENTITY showOnlyThisFrameCmd.label "Mostrar sólo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
 <!ENTITY goBackCmd.label "Anterior">
