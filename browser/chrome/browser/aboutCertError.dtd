@@ -31,6 +31,6 @@ zato vam nadaljevanje odsvetujemo.">
 povezavo.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ne dodajajte izjeme, razen če ste 
 prepričani, da obstaja dober razlog, zakaj ta stran ne uporablja zaupljive istovetnosti.">
-<!ENTITY certerror.addException.label "Dodaj izjemo…">
+<!ENTITY certerror.addException.label "Dodaj izjemo …">
 
 <!ENTITY certerror.technical.heading "Tehnične podrobnosti">

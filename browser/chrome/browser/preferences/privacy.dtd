@@ -72,5 +72,5 @@
 <!ENTITY  clearOnClose.label             "Počisti zgodovino ob izhodu iz programa &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "i">
 
-<!ENTITY  clearOnCloseSettings.label     "Nastavitve…">
+<!ENTITY  clearOnCloseSettings.label     "Nastavitve …">
 <!ENTITY  clearOnCloseSettings.accesskey "t">

@@ -4,12 +4,12 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName;: začetna stran">
+<!ENTITY abouthome.pageTitle "&brandFullName;: domača stran">
 
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;:</span> začetna stran">
+<!ENTITY abouthome.brandStart "<span>&brandShortName;:</span> domača stran">
 
 <!ENTITY abouthome.searchEngineButton.label "Iskanje">
 

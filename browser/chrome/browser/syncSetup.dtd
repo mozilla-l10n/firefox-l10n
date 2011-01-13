@@ -14,7 +14,7 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Strežnik">
 <!ENTITY serverType.main.label      "Strežnik stortive &syncBrand.fullName.label;:">
-<!ENTITY serverType.custom2.label   "Uporabi strežnik po meri…">
+<!ENTITY serverType.custom2.label   "Uporabi strežnik po meri …">
 <!ENTITY signIn.account2.label      "Račun">
 <!ENTITY signIn.account2.accesskey  "R">
 <!ENTITY signIn.password.label      "Geslo">
@@ -46,9 +46,9 @@
 <!ENTITY syncKeyGenerate.label     "Ustvari">
 <!ENTITY syncKeyBackup.description "Sinhronizacijski ključ je potreben za dostop do storitve &syncBrand.fullName.label; na drugih napravah. Ustvarite varnostno kopijo, saj vam ga ne moremo obnoviti.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Natisni…">
+<!ENTITY button.syncKeyBackup.print.label     "Natisni …">
 <!ENTITY button.syncKeyBackup.print.accesskey "N">
-<!ENTITY button.syncKeyBackup.save.label      "Shrani…">
+<!ENTITY button.syncKeyBackup.save.label      "Shrani …">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
@@ -69,7 +69,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Prijava">
 <!ENTITY existingSyncKey.description "Kopijo sinhronizacijskega ključa lahko najdete v nastavitvah storitve &syncBrand.shortName.label; vaše druge naprave. Izberite &#x0022;Upravljanje računa&#x0022; in nato &#x0022;Moj sinhronizacijski ključ&#x0022;.">
-<!ENTITY verifying.label              "Preverjanje…">
+<!ENTITY verifying.label              "Preverjanje …">
 <!ENTITY resetPassword.label          "Ponastavi geslo">
 <!ENTITY lostSyncKey.label            "Izgubil sem sinhronizacijski ključ">
 

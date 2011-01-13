@@ -23,9 +23,9 @@
 <!ENTITY bottomLinks.privacy        "Politika zasebnosti">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Preverjanje posodobitev…">
+<!ENTITY update.checkingForUpdates  "Preverjanje posodobitev …">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Preverjanje združljivosti dodatkov…">
+<!ENTITY update.checkingAddonCompat "Preverjanje združljivosti dodatkov …">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; je posodobljen">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

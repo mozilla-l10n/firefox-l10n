@@ -1,5 +1,5 @@
-<!ENTITY messengerStartPage.label         "&brandShortName; začetna stran">
-<!ENTITY enableStartPage.label            "Ko se &brandShortName; zažene, prikaži začetno stran v polju sporočila">
+<!ENTITY messengerStartPage.label         "&brandShortName;: domača stran">
+<!ENTITY enableStartPage.label            "Ko se &brandShortName; zažene, prikaži domačo stran v polju sporočila">
 <!ENTITY enableStartPage.accesskey        "L">
 <!ENTITY location.label                   "Mesto:">
 <!ENTITY location1.accesskey               "B">

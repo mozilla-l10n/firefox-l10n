@@ -44,7 +44,7 @@
 <!ENTITY pref.categories.addButton.label "Dodaj …">
 <!ENTITY pref.categories.addButton.accesskey "D">
 <!ENTITY pref.categories.edit.title "Uredi kategorijo">
-<!ENTITY pref.categories.editButton.label "Uredi…">
+<!ENTITY pref.categories.editButton.label "Uredi …">
 <!ENTITY pref.categories.editButton.accesskey "U">
 <!ENTITY pref.categories.removeButton.label "Odstrani">
 <!ENTITY pref.categories.removeButton.accesskey "O">

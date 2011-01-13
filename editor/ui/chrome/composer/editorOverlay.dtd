@@ -133,7 +133,7 @@
 <!ENTITY insertHLineCmd.accesskey "V">
 <!ENTITY insertTableCmd.label "Tabela …">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.label "HTML …">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Znaki in simboli …">
 <!ENTITY insertCharsCmd.accesskey "Z">

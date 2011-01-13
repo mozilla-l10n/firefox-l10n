@@ -140,7 +140,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.tooltip      "Združite svoje zavihke">
 
 <!ENTITY feedButton.label             "Naroči se">
-<!ENTITY feedButton.tooltip           "Naroči se na to stran…">
+<!ENTITY feedButton.tooltip           "Naroči se na to stran …">
 
 <!ENTITY bookmarksButton.label "Zaznamki">
 <!ENTITY bookmarksButton.tooltip "Prikaže vaše zaznamke">
@@ -279,13 +279,13 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "Urejanje">
 <!ENTITY appMenuCustomize.label "Po meri">
-<!ENTITY appMenuToolbarLayout.label "Razporeditev orodnih vrstic…">
+<!ENTITY appMenuToolbarLayout.label "Razporeditev orodnih vrstic …">
 <!ENTITY appMenuSidebars.label "Stranske vrstice">
-<!ENTITY appMenuFind.label "Najdi…">
+<!ENTITY appMenuFind.label "Najdi …">
 <!ENTITY appMenuUnsorted.label "Nerazvrščeni zaznamki">
 <!ENTITY appMenuWebDeveloper.label "Spletni razvoj">
 <!ENTITY appMenuGettingStarted.label "Prvi koraki">
-<!ENTITY appMenuSafeMode.label "Ponovno zaženi z onemogočenimi dodatki…">
+<!ENTITY appMenuSafeMode.label "Ponovno zaženi z onemogočenimi dodatki …">
 <!ENTITY appMenuSafeMode.accesskey "P">
 
 <!ENTITY openCmd.commandkey "l">
@@ -544,7 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label  "Sinhronizacija">
 
-<!ENTITY syncSetup.label              "&syncBrand.shortName.label;…">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; …">
 <!ENTITY syncSetup.accesskey          "i">
 <!ENTITY syncSyncNowItem.label        "Sinhroniziraj zdaj">
 <!ENTITY syncSyncNowItem.accesskey    "j">

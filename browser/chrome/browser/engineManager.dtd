@@ -12,10 +12,10 @@
 <!ENTITY dn.accesskey "D">
 <!ENTITY remove.label "Odstrani">
 <!ENTITY remove.accesskey "S">
-<!ENTITY edit.label "Uredi ključno besedo…">
+<!ENTITY edit.label "Uredi ključno besedo …">
 <!ENTITY edit.accesskey "u">
 
-<!ENTITY addEngine.label "Poišči več iskalnikov ...">
+<!ENTITY addEngine.label "Poišči več iskalnikov …">
 <!ENTITY addEngine.accesskey "A">
 
 <!ENTITY enableSuggest.label "Prikaži predloge iskanja">

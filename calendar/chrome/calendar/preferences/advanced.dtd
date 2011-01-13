@@ -59,7 +59,7 @@
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "Uporabi glavno geslo za šifriranje shranjenih gesel">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "U">
 <!ENTITY pref.calendar.advanced.masterPassword.intro "Če je vključeno, glavno geslo ščiti vsa vaša gesla, vendar ga morate vnesti enkrat za vsako sejo.">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Spremeni glavno geslo…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Spremeni glavno geslo …">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "g">
 <!ENTITY pref.calendar.advanced.viewPasswords.label "Pokaži shranjena gesla …">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "P">

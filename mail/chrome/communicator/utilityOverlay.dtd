@@ -29,7 +29,7 @@
 <!ENTITY selectAllCmd.label          "Izberi vse">
 <!ENTITY selectAllCmd.key          "I">
 <!ENTITY selectAllCmd.accesskey        "a">
-<!ENTITY preferencesCmd.label        "Možnosti…">
+<!ENTITY preferencesCmd.label        "Možnosti …">
 <!ENTITY preferencesCmd.accesskey      "O">
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey     "o">
@@ -41,7 +41,7 @@
 <!ENTITY showTaskbarCmd.label          "Vrstica stanja">
 <!ENTITY showTaskbarCmd.accesskey        "s">
 
-<!ENTITY proxy.label                                    "Konfiguracija za proxy…">
+<!ENTITY proxy.label                                    "Nastavitve posrednega strežnika …">
 <!ENTITY proxy.accesskey                                "z">
 
 <!ENTITY closeCmd.label      "Zapri">

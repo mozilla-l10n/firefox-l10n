@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY AdvancedEditButton.label "Napredno spreminjanje…">
+<!ENTITY AdvancedEditButton.label "Napredno spreminjanje …">
 <!ENTITY AdvancedEditButton.accessKey "N">
 <!ENTITY AdvancedEditButton.tooltip "Dodaj ali spremeni atribute HTML, slogovne atribute in JavaScript">
 <!ENTITY chooseFileButton.label "Izberite datoteko …">
