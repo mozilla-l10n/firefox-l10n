@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label                  "編輯項目" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "修改日期時保持經過時間長度">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "從" >
 <!ENTITY newevent.to.label                  "到" >
