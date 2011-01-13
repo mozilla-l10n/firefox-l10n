@@ -1,4 +1,5 @@
 <!ENTITY  splash_screen_label "memuat">
+<!ENTITY  splash_screen_installing "memasang pustaka\u2026">
 <!ENTITY  incompatable_cpu_error "Perangkat ini tidak memenuhi persyaratan minimum &brandShortName;.">
 <!ENTITY  no_space_to_start_error "Kapasitas ruang tidak mencukupi untuk memulai &brandShortName;.">
 <!ENTITY  error_loading_file "Galat terjadi saat memuat berkas yang diperlukan untuk menjalankan &brandShortName;">
