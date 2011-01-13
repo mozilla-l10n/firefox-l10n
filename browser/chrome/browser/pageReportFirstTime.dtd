@@ -1,7 +1,0 @@
-<!ENTITY startDescriptionText.label        "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
-
-<!ENTITY endDescription.label              "U kan hierdie ikoon kliek om te sien watter werwe &brandShortName; blokkeer en om toe te laat dat daardie werwe opspringers open indien dit vereis word vir die werf om behoorlik te funksioneer.">
-
-<!ENTITY caption.label                     "Aangaande opspringerblokkering">
-
-<!ENTITY done.label "Klaar">
