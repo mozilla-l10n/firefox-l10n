@@ -1,8 +1,8 @@
 <!ENTITY prefWindow.titleWin "Настройки">
 <!ENTITY prefWindow.titleGNOME "Настройки &brandShortName;">
-<!ENTITY prefWinMinSize.styleWin2 "width: 51.5em; min-height: 41em;">
+<!ENTITY prefWinMinSize.styleWin2 "width: 51.5em; min-height: 45em;">
 <!ENTITY prefWinMinSize.styleMac "width: 58em; min-height: 42em;">
-<!ENTITY prefWinMinSize.styleGNOME "width: 54em; min-height: 38em;">
+<!ENTITY prefWinMinSize.styleGNOME "width: 54em; min-height: 42em;">
 <!ENTITY paneGeneral.title "Основные">
 <!ENTITY paneTabs.title "Вкладки">
 <!ENTITY paneContent.title "Содержимое">
