@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "'S urrainn dhut inntrigeadh a dhèanamh dhan eachdraidh, na comharran-lìn, na faclan-faire 's tabaichean fosgailte air feadh nan innealan agad le &syncBrand.fullName.label;.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Cunntas &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "An cunntas làithrach:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Ùraich">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "Atharraich am facal-faire">
 <!ENTITY mySyncKey.label              "An iuchair co-shioncronachaidh agam">
 <!ENTITY resetSync.label              "Ath-shuidhich an co-shioncronachadh">
-<!ENTITY stopUsingAccount.label       "Sguir de chleachdadh a' chunntais seo">
 <!ENTITY addDevice.label              "Cuir inneal ris">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Co-shioncronachadh a' bhrabhsair">
-<!ENTITY syncComputerName.label       "Ainm a' choimpiutair:">
-<!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Co-shioncronaich">
 <!ENTITY engine.bookmarks.label     "na comharran-lìn agam">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label         "na roghainnean agam">
 <!ENTITY engine.prefs.accesskey     "n">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Ainm a' choimpiutair:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY deactivateDevice.label       "Cuir an t-inneal seo à gnìomh">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Teirmichean na Seirbheise">
