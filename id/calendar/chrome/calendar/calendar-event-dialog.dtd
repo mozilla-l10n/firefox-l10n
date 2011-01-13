@@ -44,7 +44,9 @@
 
 <!ENTITY event.title.label                  "Ubah Item" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Jangan ubah durasi saat mengubah tanggal akhir">
+<!ENTITY event.dialog.keepDurationButton.accesskey "J">
+
 
 <!ENTITY newevent.from.label                "Dari" >
 <!ENTITY newevent.to.label                  "Ke" >
