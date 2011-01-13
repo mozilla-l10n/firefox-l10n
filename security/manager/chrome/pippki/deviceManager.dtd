@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Ian McGreer <mcgreer@netscape.com>
+   -   Mozilla México - Roberto Alvarado
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,36 +35,31 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY devmgr.title                           "Administrador de dispositivos">
-
-<!ENTITY devmgr.devlist.label                   "Módulos de seguridad y dispositivos">
-<!ENTITY devmgr.details.title                   "Detalles">
-<!ENTITY devmgr.details.title2                  "Valor">
-<!ENTITY devmgr.status.label                    "Estado">
-<!ENTITY devmgr.version.label                   "Versión">
-
-<!ENTITY devmgr.button.changeslotname.label     "Cambiar nombre de la ranura">
+<!ENTITY devmgr.title "Administrador de dispositivos">
+<!ENTITY devmgr.devlist.label "Módulos de seguridad y dispositivos">
+<!ENTITY devmgr.details.title "Detalles">
+<!ENTITY devmgr.details.title2 "Valor">
+<!ENTITY devmgr.status.label "Estado">
+<!ENTITY devmgr.version.label "Versión">
+<!ENTITY devmgr.button.changeslotname.label "Cambiar nombre de la ranura">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label              "Iniciar sesión">
-<!ENTITY devmgr.button.login.accesskey          "n">
-<!ENTITY devmgr.button.logout.label             "Terminar sesión">
-<!ENTITY devmgr.button.logout.accesskey         "T">
-<!ENTITY devmgr.button.changepw.label           "Cambiar contraseña">
-<!ENTITY devmgr.button.changepw.accesskey       "C">
-<!ENTITY devmgr.button.load.label               "Cargar">
-<!ENTITY devmgr.button.load.accesskey           "C">
-<!ENTITY devmgr.button.unload.label             "Descargar">
-<!ENTITY devmgr.button.unload.accesskey         "D">
-<!ENTITY devmgr.button.fips.accesskey           "F">
-
-<!ENTITY loaddevice.info                        "Introduce la información para el módulo que quieres añadir.">
-<!ENTITY loaddevice.modname                     "Nombre del módulo:">
-<!ENTITY loaddevice.modname.accesskey           "m">
-<!ENTITY loaddevice.modname.default             "Nuevo módulo PKCS#11">
-<!ENTITY loaddevice.filename                    "Archivo del módulo:">
-<!ENTITY loaddevice.filename.accesskey          "A">
-<!ENTITY loaddevice.browse                      "Examinar…">
-<!ENTITY loaddevice.browse.accesskey            "x">
-
-<!ENTITY loaddevice.title                       "Cargar dispositivo PKCS#11">
+<!ENTITY devmgr.button.login.label "Iniciar sesión">
+<!ENTITY devmgr.button.login.accesskey "n">
+<!ENTITY devmgr.button.logout.label "Terminar sesión">
+<!ENTITY devmgr.button.logout.accesskey "T">
+<!ENTITY devmgr.button.changepw.label "Cambiar contraseña">
+<!ENTITY devmgr.button.changepw.accesskey "C">
+<!ENTITY devmgr.button.load.label "Cargar">
+<!ENTITY devmgr.button.load.accesskey "C">
+<!ENTITY devmgr.button.unload.label "Descargar">
+<!ENTITY devmgr.button.unload.accesskey "D">
+<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY loaddevice.info "Introduce la información para el módulo que quieres añadir.">
+<!ENTITY loaddevice.modname "Nombre del módulo:">
+<!ENTITY loaddevice.modname.accesskey "m">
+<!ENTITY loaddevice.modname.default "Nuevo módulo PKCS#11">
+<!ENTITY loaddevice.filename "Archivo del módulo:">
+<!ENTITY loaddevice.filename.accesskey "A">
+<!ENTITY loaddevice.browse "Examinar…">
+<!ENTITY loaddevice.browse.accesskey "x">
+<!ENTITY loaddevice.title "Cargar dispositivo PKCS#11">
