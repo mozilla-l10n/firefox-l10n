@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "u">
 
 <!ENTITY exceptionMgr.title                   "Voeg sekuriteituitsondering by">
-<!ENTITY exceptionMgr.exceptionButton         "Bevestig sekuriteituitsondering">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "B">
+<!ENTITY exceptionMgr.exceptionButton.label   "Bevestig sekuriteituitsondering">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "B">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitieme banke, winkels en ander publieke werwe sal u nie vra om dit te doen nie.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Bediener">
 <!ENTITY exceptionMgr.certlocation.url        "Ligging:">

@@ -92,8 +92,10 @@
 <!ENTITY col.dateadded.label     "Bygevoeg">
 <!ENTITY col.lastmodified.label  "Laas gewysig">
 
-<!ENTITY search.label                              "Soek:">
+<!ENTITY search.label                              "Search:">
 <!ENTITY search.accesskey                          "S">
+
+<!ENTITY search.in.label                           "Search in:">
 <!ENTITY search.scopeFolder.label                  "Gekose vouer">
 <!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeBookmarks.label               "Boekmerke">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "n">
 <!ENTITY detailsPane.noPreviewAvailable.label "Voorskou">
 <!ENTITY detailsPane.selectAnItemText.description "Kies 'n item om sy eienskappe te kyk en te redigeer">
+
+<!ENTITY find.label               "Search:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "Bekyk">
+<!ENTITY view.accesskey           "k">
+<!ENTITY byDate.label             "Volgens datum">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "Volgens werf">
+<!ENTITY bySite.accesskey         "w">
+<!ENTITY byMostVisited.label      "Volgens meeste besoek">
+<!ENTITY byMostVisited.accesskey  "b">
+<!ENTITY byLastVisited.label      "Volgens jongste besoek">
+<!ENTITY byLastVisited.accesskey  "j">
+<!ENTITY byDayAndSite.label       "Volgens datum en werf">
+<!ENTITY byDayAndSite.accesskey   "a">
