@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Judul">
 <!ENTITY processing.label         "Mengimpor…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x menggunakan satu alamat untuk setiap kartu nama sedangkan &brandShortName; menggunakan dua alamat untuk setiap kartu nama (Rumah dan Kantor).">
-<!ENTITY FieldDiscInputText2.label  "Pilih kategori tempat menyimpan alamat email hasil proses impor:">
-<!ENTITY FieldDiscWarning.label  "Kategori ini akan digunakan oleh item yang ada pada buku alamat terpilih: ">
-<!ENTITY importHome.label        "Rumah">
-<!ENTITY importHome.accesskey    "R">
-<!ENTITY importWork.label        "Kantor">
-<!ENTITY importWork.accesskey    "K">
