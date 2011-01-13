@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Dien terugvoer in…">
 <!ENTITY helpFeedbackPage.accesskey  "D">
 
-<!ENTITY updateCmd.label                "Kontroleer vir bywerkings…">
-
 <!ENTITY preferencesCmdMac.label        "Voorkeure…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

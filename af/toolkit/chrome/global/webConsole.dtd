@@ -10,6 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Responskoppe">
 <!ENTITY networkPanel.responseBody                "Responslyf">
 <!ENTITY networkPanel.responseBodyCached          "Gekaste data">
+<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
 <!ENTITY networkPanel.responseNoBody              "Geen responslyf nie">
 <!ENTITY networkPanel.responseImage               "Ontvangde prent">
 <!ENTITY networkPanel.responseImageCached         "Gekaste prent">

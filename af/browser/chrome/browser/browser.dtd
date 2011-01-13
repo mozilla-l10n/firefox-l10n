@@ -71,7 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Boekmerknutsbalk-items">
 <!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Bladsybron">
 <!ENTITY pageSourceCmd.accesskey "r">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Teken in op hierdie bladsy">
 <!ENTITY subscribeToPageMenuitem.label "Teken in op hierdie bladsy…">
 <!ENTITY addCurPagesCmd.label "Boekmerk alle oortjies…">
-<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
+<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
 <!ENTITY bookmarkAllCmd.label "Boekmerk alle oortjies…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
 
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Vorentoe">
 <!ENTITY forwardCmd.accesskey         "V">
 <!ENTITY forwardButton.tooltip        "Gaan een bladsy vorentoe">
-<!ENTITY backForwardMenu.tooltip      "Onlangse bladsye">
 <!ENTITY reloadCmd.label              "Herlaai">
 <!ENTITY reloadCmd.accesskey          "H">
 <!ENTITY reloadButton.tooltip         "Herlaai huidige bladsy">
@@ -149,6 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Boekmerke">
 <!ENTITY bookmarksMenuButton.tooltip        "Vertoon u boekmerke">
+<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
 <!ENTITY viewBookmarksSidebar.label         "Wys in kantbalk">
 <!ENTITY viewBookmarksToolbar.label         "Vertoon boekmerknutsbalk">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -216,9 +216,9 @@ can reach it easily. -->
 
 <!ENTITY editMenu.label         "Redigeer">
 <!ENTITY editMenu.accesskey       "e">
-<!ENTITY undoCmd.label            "Ontdoen">
+<!ENTITY undoCmd.label            "Undo">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "O">
+<!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "Herdoen">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "H">
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Merk alles">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "a">
-<!ENTITY preferencesCmd.label       "Opsies…">
-<!ENTITY preferencesCmd.accesskey     "O">
+<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey     "k">
 
@@ -270,7 +270,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Onlangs gesluite oortjies">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Onlangs gesluite vensters">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.label "Laai vorige sessie terug">
 
 <!ENTITY historyHomeCmd.label "Tuis">
 <!ENTITY showAllHistoryCmd2.label "Wys hele geskiedenis">
@@ -281,7 +281,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Nutsbalk-uitleg…">
 <!ENTITY appMenuSidebars.label "Kantstawe">
 <!ENTITY appMenuFind.label "Vind…">
-<!ENTITY appMenuUnsorted.label "Ongeliasseerde boekmerke">
+<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Hoe om te begin">
 <!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
@@ -514,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Klaar">
 <!ENTITY editBookmark.cancel.label                   "Kanselleer">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Ontdoen">
-<!ENTITY editBookmark.undo.accessKey                 "O">
-<!ENTITY editBookmark.edit.label                     "Redigeer…">
-<!ENTITY editBookmark.edit.accessKey                 "e">
 
 <!ENTITY identity.unverifiedsite2 "Hierdie webwerf verskaf nie identiteitinligting nie.">
 <!ENTITY identity.connectedTo "U is gekoppel aan">
@@ -553,3 +549,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Sinkroniseer nou">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">

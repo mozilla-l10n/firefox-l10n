@@ -3,10 +3,8 @@
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "Met &syncBrand.fullName.label; kan jy jou geskiedenis, boekmerke, wagwoorde en oop oortjies in al jou toestelle bekyk.">
 <!-- The page shown when logged in... -->
-
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-rekening">
-<!ENTITY currentAccount.label         "Current Account:">
 <!-- Login error feedback -->
+
 
 <!ENTITY updatePass.label             "Bywerk">
 <!ENTITY resetPass.label              "Teruglaai">
@@ -18,12 +16,7 @@
 <!ENTITY changePassword.label         "Verander wagwoord">
 <!ENTITY mySyncKey.label              "My Sync Key">
 <!ENTITY resetSync.label              "Laai Sync terug">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
-<!-- Sync Settings -->
-
-<!ENTITY syncPrefsCaption.label       "Blaaiersinkronisering">
-<!ENTITY syncComputerName.label       "Rekenaarnaam:">
-<!ENTITY syncComputerName.accesskey   "R">
+<!ENTITY addDevice.label              "Add a Device">
 
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
@@ -36,8 +29,12 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Preferences">
 <!ENTITY engine.prefs.accesskey     "S">
-<!-- Footer stuff -->
+<!-- Device Settings -->
 
+<!ENTITY syncComputerName.label       "Rekenaarnaam:">
+<!ENTITY syncComputerName.accesskey   "R">
+<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Diensbepalings">
 <!ENTITY prefs.ppLink.label         "Privaatheidbeleid">
