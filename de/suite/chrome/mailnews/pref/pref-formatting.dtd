@@ -70,4 +70,4 @@
 
 <!ENTITY domainnameError.title        "Domainnamenfehler">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label      "Der Domainname @string@ ist ungültig und wird ignoriert. Gültige Domainnamen müssen zumindest einen '.' und beiderseits davon Buchstaben enthalten.">
+<!ENTITY invalidEntryError.label      "Der Domainname @string@ ist ungültig und wird ignoriert. Gültige Domainnamen müssen zumindest einen &quot;.&quot; und beiderseits davon Buchstaben enthalten.">

@@ -43,7 +43,7 @@
 <!ENTITY viewDefaultCharset.accesskey    "S">
 
 <!ENTITY composingMessages.caption       "Nachrichten verfassen">
-<!ENTITY useMIME.label                   "Für Nachrichten, die 8-bit-Zeichen verwenden, 'Quoted Printable' MIME-Kodierung verwenden. Lassen Sie diese Option ausgeschaltet, um die Nachricht wie vorhanden zu senden.">
+<!ENTITY useMIME.label                   "Für Nachrichten, die 8-bit-Zeichen verwenden, &quot;Quoted Printable&quot; MIME-Kodierung verwenden. Lassen Sie diese Option ausgeschaltet, um die Nachricht wie vorhanden zu senden.">
 <!ENTITY useMIME.accesskey               "F">
 <!ENTITY sendDefaultCharset.label        "Standard-Zeichensatz:">
 <!ENTITY sendDefaultCharset.accesskey    "Z">
