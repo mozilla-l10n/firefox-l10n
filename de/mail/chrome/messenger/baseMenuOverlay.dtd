@@ -5,6 +5,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label     "Hilfe">
 <!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY helpTroubleshootingInfo.label      "Informationen zur Fehlerbehebung">
+<!ENTITY helpTroubleshootingInfo.accesskey  "z">
 <!ENTITY releaseCmd.label      "Versionshinweise">
 <!ENTITY releaseCmd.accesskey  "V">
 <!ENTITY whatsNewCmd.label     "Neuigkeiten">
@@ -14,7 +16,7 @@
 <!ENTITY openHelp.label        "Hilfethemen">
 <!ENTITY openHelp.accesskey    "H">
 <!ENTITY openHelp.commandkey   "VK_F1">
-<!ENTITY openHelpMac.label     "&brandShortName; Hilfe">
+<!ENTITY openHelpMac.label     "&brandShortName;-Hilfe">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
