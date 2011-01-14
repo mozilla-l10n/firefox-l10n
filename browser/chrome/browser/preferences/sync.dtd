@@ -9,17 +9,14 @@ Entities below were automatically added by compare-locales,
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY updatePass.label "යාවත්කාලීන කරන්න">
 <!ENTITY engine.bookmarks.label "පිටුසළකුණු">
-<!ENTITY currentAccount.label "වත්මන් ගිණුම:">
 <!ENTITY setupButton.accesskey "S">
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY engine.history.label "පෙරදෑ">
 <!ENTITY resetSync.label "සම්මුහුර්තය ප්‍රත්‍යාරම්භ (Reset) කරන්න">
 <!ENTITY prefs.tosLink.label "සේවා කොන්දේසි">
-<!ENTITY stopUsingAccount.label "මෙම ගිණුම භාවිතය නවතන්න">
 <!ENTITY addDevice.label	"උපාංගයක් එක් කරන්න">
 
 <!ENTITY engine.tabs.accesskey "T">
-<!ENTITY syncPrefsCaption.label "බ්රව්සර සම්මුහුරතය">
 <!ENTITY resetPass.label "ප්‍රත්‍යාරම්භ (Reset) කරන්න">
 <!ENTITY manageAccount.label "ගිණුම් කළමනාකරණය">
 <!ENTITY syncComputerName.accesskey "c">
@@ -30,10 +27,10 @@ Entities below were automatically added by compare-locales,
 <!ENTITY engine.passwords.label "රහස්පද">
 <!ENTITY engine.prefs.label "මනාපයන්">
 <!ENTITY weaveDesc.label "ඔබගේ සියළු උපාංග තුළ පෙරදෑ, පිටුසළකුණු, රහස්පද, සහ විවෘත කළ ටැබ් වෙත ප්‍රවේශ වීමට &syncBrand.fullName.label; lඉඩ ලබා දේ.">
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ගිණුම">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.tabs.label "ටැබ්">
 <!ENTITY changePassword.label "රහස්පදය වෙනස්කරන්න">
 <!ENTITY prefs.ppLink.label "පෞද්ගලිකත්ව ප්‍රතිපත්තිය">
 <!ENTITY syncComputerName.label "පරිගණක නම:">
 <!ENTITY engine.passwords.accesskey "P">
+<!ENTITY deactivateDevice.label       "Deactivate This Device">
