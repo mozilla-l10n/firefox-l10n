@@ -23,8 +23,8 @@
 <!ENTITY setup.tosAgree1.label "Accetto le">
 <!ENTITY setup.tosAgree1.accesskey "A">
 <!ENTITY setup.tosLink.label "condizioni di utilizzo del servizio">
-<!ENTITY setup.tosAgree2.label "e ho letto l'">
-<!ENTITY setup.ppLink.label "informativa sulla privacy">
+<!ENTITY setup.tosAgree2.label "e ho letto">
+<!ENTITY setup.ppLink.label "l'informativa sulla privacy">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ha a cuore la privacy dei suoi utenti">
