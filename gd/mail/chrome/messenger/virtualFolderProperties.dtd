@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Lorg air loidhne (Gheibh thu toraidhean gu ruige an-diugh airson pasgain naidheachdan is IMAP ach bheir e nas fhaide a' fosgladh a' phasgain)">
 <!ENTITY searchOnline.accesskey "s">
+<!ENTITY newFolderButton.label       "Create">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Update">
+<!ENTITY editFolderButton.accesskey  "U">

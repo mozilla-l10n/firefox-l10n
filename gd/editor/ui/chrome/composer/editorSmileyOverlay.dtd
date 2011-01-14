@@ -67,7 +67,7 @@
 <!ENTITY smiley9Cmd.accesskey "P">
 <!ENTITY smiley9Cmd.tooltip "Cuir ann aghaidh pòige">
 <!ENTITY smiley10Cmd.label "Èigh">
-<!ENTITY smiley10Cmd.accesskey "i">
+<!ENTITY smiley10Cmd.accesskey "È">
 <!ENTITY smiley10Cmd.tooltip "Cuir ann aghaidh a tha ag èigheach">
 <!ENTITY smiley11Cmd.label "Sgoinneil">
 <!ENTITY smiley11Cmd.accesskey "S">
@@ -83,7 +83,7 @@
 <!ENTITY smiley14Cmd.tooltip "Cuir ann aghaidh neo-chiontach">
 <!ENTITY smiley15Cmd.label "Gul">
 <!ENTITY smiley15Cmd.accesskey "G">
-<!ENTITY smiley15Cmd.tooltip "Gul">
+<!ENTITY smiley15Cmd.tooltip "Cuir ann aghaidh a tha a' gul">
 <!ENTITY smiley16Cmd.label "Bilean dùinte">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Cuir ann aghaidh air a bheil bilean dùinte">

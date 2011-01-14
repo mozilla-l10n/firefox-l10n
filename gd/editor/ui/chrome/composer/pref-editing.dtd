@@ -1,7 +1,7 @@
 <!ENTITY  pref.editing.title        "Roghainnean duilleige ùr">
 
 <!ENTITY  authorName.label          "Ùghdar:">
-<!ENTITY  authorName.accesskey      "g">
+<!ENTITY  authorName.accesskey      "Ù">
 <!ENTITY  pageColorHeader           "Riochd bunaiteach na duilleige">
 
 <!ENTITY defaultColors.label        "Dathan bunaiteach an leughadair (Na suidhich dathan san duilleag)">
@@ -9,7 +9,7 @@
 <!ENTITY customColors.label         "Cleachd dathan gnàthaichte:">
 <!ENTITY customColors.accesskey     "C">
 
-<!ENTITY normalText.label           "Teacs àbhaisteach">
+<!ENTITY normalText.label           "Teacsa àbhaisteach">
 <!ENTITY normalText.accesskey       "T">
 <!ENTITY linkText.label             "Teacsa a' cheangail">
 <!ENTITY linkText.accesskey         "l">
@@ -24,5 +24,5 @@
 <!ENTITY backgroundImage.label      "Dealbh a' chùlaibh:">
 <!ENTITY backgroundImage.accesskey  "D">
 <!ENTITY chooseFile.label           "Tagh faidhle…">
-<!ENTITY chooseFile.accesskey       "a">
+<!ENTITY chooseFile.accesskey       "T">
 

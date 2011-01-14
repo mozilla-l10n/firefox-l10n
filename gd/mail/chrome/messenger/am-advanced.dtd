@@ -20,4 +20,4 @@
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Ainm a' chleachdaiche: ">
 <!ENTITY connectionSecurity.label "Tèarainteachd a' cheangail: ">
-<!ENTITY authMethod.label   "An dòigh dearbhachaidh: ">
+<!ENTITY authMethod.label   "Authentication method: ">

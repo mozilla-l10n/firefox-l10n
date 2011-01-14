@@ -38,11 +38,11 @@
 <!ENTITY GeneratedName.accesskey               "n">
 <!ENTITY PrimaryEmail.label                    "Post-dealain">
 <!ENTITY PrimaryEmail.accesskey                "e">
-<!ENTITY Company.label                         "Am buidheann">
-<!ENTITY Company.accesskey                     "m">
+<!ENTITY Company.label                         "Buidheann">
+<!ENTITY Company.accesskey                     "B">
 <!ENTITY _PhoneticName.label                   "Ainm fòn-eòlach">
 <!ENTITY _PhoneticName.accesskey               "A">
-<!ENTITY NickName.label                        "Am far-ainm">
+<!ENTITY NickName.label                        "Far-ainm">
 <!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Post-dealain eile">
 <!ENTITY SecondEmail.accesskey                 "l">

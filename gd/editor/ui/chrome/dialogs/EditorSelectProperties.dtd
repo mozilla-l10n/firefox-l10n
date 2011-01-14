@@ -40,7 +40,7 @@
 <!ENTITY SelectName.label "Ainm na liosta:">
 <!ENTITY SelectName.accesskey "n">
 <!ENTITY SelectSize.label "Àirde:">
-<!ENTITY SelectSize.accesskey "i">
+<!ENTITY SelectSize.accesskey "À">
 <!ENTITY SelectMultiple.label "Ioma-thaghadh">
 <!ENTITY SelectMultiple.accesskey "m">
 <!ENTITY SelectDisabled.label "Air a chur à comas">
@@ -77,4 +77,4 @@
 <!ENTITY MoveElementUp.label "Gluais suas">
 <!ENTITY MoveElementUp.accesskey "u">
 <!ENTITY MoveElementDown.label "Gluais sìos">
-<!ENTITY MoveElementDown.accesskey "s">
+<!ENTITY MoveElementDown.accesskey "G">

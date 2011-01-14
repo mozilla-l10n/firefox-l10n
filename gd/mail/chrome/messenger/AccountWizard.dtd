@@ -77,7 +77,7 @@
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Thèid an t-ainm cleachdaiche làithreach agad airson post a-mach (SMTP), &quot;">
+<!ENTITY haveSmtp2.prefix "Thèid an t-ainm-cleachdaiche làithreach agad airson post a-mach (SMTP), &quot;">
 <!ENTITY haveSmtp2.suffix2 "&quot;, a chleachdadh. 'S urrainn dhut na frithealaichean a-mach atharrachadh ann an roghainnean nan cunntasan.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting

@@ -1,5 +1,5 @@
 <!ENTITY itemGeneral.label       "Coitcheann">
-<!ENTITY itemDisplay.label       "Leughadh ┐ taisbanadh">
+<!ENTITY itemDisplay.label       "Leughadh ┐ taisbeanadh">
 <!ENTITY itemUpdate.label        "Ùraich">
 <!ENTITY itemNetworking.label    "An lìonra ┐ àite air an diosg">
 <!ENTITY itemCertificates.label  "Teisteanasan">
@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "Uinneag teachdaireachd a tha fosgailte mu thràth">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnDelete.label  "Dùin uinneag na teachdaireachd nuair a sguabas mi às tè">
-<!ENTITY closeMsgWindowOnDelete.accesskey "c">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Close message window on move or delete">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Lorgar ùrachaidhean airson na leanas leis fhèin:">
@@ -88,8 +88,8 @@
 <!ENTITY useCacheBefore.label            "Cleachd suas gu">
 <!ENTITY useCacheBefore.accesskey        "u">
 <!ENTITY useCacheAfter.label             "MB a dh'àite airson an tasgadan">
-<!ENTITY clearCacheNow.label             "Glan an-dràsta">
-<!ENTITY clearCacheNow.accesskey         "G">
+<!ENTITY clearCacheNow.label             "Falmhaich e an-dràsta">
+<!ENTITY clearCacheNow.accesskey         "c">
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:">
@@ -105,4 +105,4 @@
 <!ENTITY validation.label               "Dearbhadh">
 <!ENTITY validation.accesskey           "D">
 <!ENTITY viewSecurityDevices.label      "Innealan tèarainteachd">
-<!ENTITY viewSecurityDevices.accesskey  "n">
+<!ENTITY viewSecurityDevices.accesskey  "I">

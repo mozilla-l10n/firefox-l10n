@@ -54,7 +54,7 @@
 <!ENTITY portNumber.label                  "Àireamh a' phuirt: ">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "A' chriathrag luirg: ">
-<!ENTITY searchFilter.accesskey            "u">
+<!ENTITY searchFilter.accesskey            "A">
 <!ENTITY scope.label                       "Sgòp: ">
 <!ENTITY scope.accesskey                   "S">
 <!ENTITY scopeOneLevel.label               "Aon leibheil">

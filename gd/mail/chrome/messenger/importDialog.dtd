@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Tiotal">
 <!ENTITY processing.label         "Ag ion-phortadh…">
-
-<!ENTITY FieldDiscInputText1.label  "Tha aon seòladh puist aig gach cairt ann an Netscape Communicator 4.x ach tha dà dhiubh (Dachaigh is Obair) aig &brandShortName;.">
-<!ENTITY FieldDiscInputText2.label  "Tagh an roinn far am bu toigh leat na seòlaidhean puist-dhealain a stòradh a thathar ag ion-phortadh:">
-<!ENTITY FieldDiscWarning.label  "Thèid an roinn seo a chleachdadh airson gach clàr de leabhar nan seòladh a thagh thu: ">
-<!ENTITY importHome.label        "Dachaigh">
-<!ENTITY importHome.accesskey    "h">
-<!ENTITY importWork.label        "Obair">
-<!ENTITY importWork.accesskey    "b">

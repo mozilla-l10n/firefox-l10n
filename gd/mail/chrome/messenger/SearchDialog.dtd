@@ -41,7 +41,7 @@
 <!ENTITY priorityColumn.label "Prìomhachas">
 <!ENTITY tagsColumn.label "Tagaichean">
 <!ENTITY accountColumn.label "Cunntas">
-<!ENTITY statusColumn.label "Cor">
+<!ENTITY statusColumn.label "Staid">
 <!ENTITY sizeColumn.label "Meud">
 <!ENTITY junkStatusColumn.label "An inbhe truilleis">
 <!ENTITY unreadColumn.label "Gun leughadh">
@@ -49,7 +49,7 @@
 <!ENTITY readColumn.label "Air a leughadh">
 <!ENTITY receivedColumn.label "Air fhaighinn">
 <!ENTITY starredColumn.label "Le rionnag ris">
-<!ENTITY locationColumn.label "Seòladh">
+<!ENTITY locationColumn.label "Àite">
 <!ENTITY idColumn.label "An t-òrdugh san d' fhuaradh iad">
 
 <!-- Thread Pane Tooltips -->

@@ -60,15 +60,15 @@
 <!ENTITY featureConfigurator.autoSync.para "Tha gleus luirg nas ùire 's nas fhearr aig an tionndadh ùr seo de &brandShortName;. Bidh agad ris na teachdaireachdan puist-dhealain agad a cho-thìmeachadh mus urrainn dhut an gleus ùr seo a chleachdadh.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
-<!ENTITY featureConfigurator.autoSync.on "Co-thìmich">
+<!ENTITY featureConfigurator.autoSync.on "Sioncronaich">
 <!ENTITY featureConfigurator.autoSync.on.explanation "Bidh na teachdaireachdan 'gan luchdadh nas luaithe 's gheibh thu toraidhean luirg nas fhearr.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
-<!ENTITY featureConfigurator.autoSync.off "Na co-thìmich">
+<!ENTITY featureConfigurator.autoSync.off "Na sioncronaich">
 <!ENTITY featureConfigurator.autoSync.off.explanation "Bidh na teachdaireachdan 'gan luchdadh nas slaodaiche 's cha bhi na toraidhean luirg cho math.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
-<!ENTITY featureConfigurator.autoSync.some "A-rèir co-thìmeachadh cunntais">
+<!ENTITY featureConfigurator.autoSync.some "A-rèir sioncronachadh cunntais">
 <!ENTITY featureConfigurator.autoSync.some.explanation "Gnàthaich na dh'fheumas tu a thaobh co-thìmeachaidh cunntas air chunntas is pasgan air phasgan.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
