@@ -19,7 +19,7 @@
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Pasvorto">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "Sync ŝlosilo">
+<!ENTITY signIn.syncKey.label       "Ŝlosilo de spegulado">
 <!ENTITY signIn.syncKey.accesskey   "S">
 
 <!-- New Account Page 1: Basic Account Info -->
@@ -30,21 +30,21 @@
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
+<!ENTITY setup.tosAgree1.label      "Mi akceptas la">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Politiko pri privateco">
+<!ENTITY setup.tosLink.label        "Kondiĉojn de uzado">
+<!ENTITY setup.tosAgree2.label      "kaj la">
+<!ENTITY setup.ppLink.label         "Politikon pri privateco">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; zorgas pri via privateco">
+<!ENTITY setup.newSyncKeyPage.description.label "Por certigi tutan privatecon ĉiuj viaj datumoj estas ĉifritaj antaŭ ol alŝuti ilin. La ŝlosilo de spegulado kiu estas bezonata por malĉifri viajn datumon ne estas alŝutita.">
+<!ENTITY syncKeyEntry.label        "Via ŝlosilo de spegulado">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyGenerate.label     "Krei">
+<!ENTITY syncKeyBackup.description "Via ŝlosilo de spegulado estas bezonata por por la uzado de &syncBrand.fullName.label; en aliaj maŝinoj. Bonvolu krei sekurkopion. Ni ne povas helpi vin rehavi vian ŝlosilon de spegulado.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Presi…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -70,39 +70,39 @@
 <!ENTITY setup.signInPage.title.label "Ensaluti">
 <!ENTITY existingSyncKey.description "Vi povas ricevi kopion de via Sync ŝlosilo se vi iras al Opcioj de &syncBrand.shortName.label; en via alia aparato kaj elektas  &#x0022;Mia Sync Ŝlosilo&#x0022; sub &#x0022;Administri konton&#x0022;.">
 <!ENTITY verifying.label              "Kontrolado…">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
+<!ENTITY resetPassword.label          "Reŝargi pasvorton">
+<!ENTITY lostSyncKey.label            "Mi perdis mian ŝlosilon de spegulado">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
+<!ENTITY setup.optionsPage.title      "Opcioj de spegulado">
 <!ENTITY syncComputerName.label       "Nomo de komputilo:">
 <!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Aktualigi miajn">
-<!ENTITY engine.bookmarks.label     "Legosignojn">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Foliojn">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "Historion">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Pasvortojn">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferojn">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.bookmarks.label     "legosignojn">
+<!ENTITY engine.bookmarks.accesskey "l">
+<!ENTITY engine.tabs.label          "foliojn">
+<!ENTITY engine.tabs.accesskey      "f">
+<!ENTITY engine.history.label       "historion">
+<!ENTITY engine.history.accesskey   "h">
+<!ENTITY engine.passwords.label     "pasvortojn">
+<!ENTITY engine.passwords.accesskey "v">
+<!ENTITY engine.prefs.label         "preferojn">
+<!ENTITY engine.prefs.accesskey     "v">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.merge.main.label      "Kunigi la datumojn de tiu ĉi komputilo kun la datumoj de mia &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Rekomendita:">
+<!ENTITY choice2.client.main.label     "Anstataŭigi ĉiujn datumojn en tiu ĉi komputilo per la datumoj de mia &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Anstataŭigi ĉiujn aliajn aparatojn per la datumoj de tiu ĉi komputilo">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Konfirmi">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; enmetos nun ewill now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; metos nun ĉiujn retesplorilajn datumon de tiu ĉi komputilo en vian konton de spegulado.">
+<!ENTITY confirm.client2.label         "Averto: la jenaj datumoj de &brandShortName; en tiu ĉi komputilo estos forviŝitaj:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; poste kopios la datumojn de via &syncBrand.fullName.label; al tiu ĉi komputilo.">
+<!ENTITY confirm.server2.label         "Averto: La datumoj en la jenaj aparatoj estos anstataŭigitaj per viaj lokaj datumoj:">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "Agordo finita">
+<!ENTITY changeOptions.label "Vi povas ŝanĝi tiun ĉi preferon per elektado de la malsupre trovebla Opcioj de spegulado.">
+<!ENTITY continueUsing.label "Vi povas daŭrigi la uzado de &brandShortName;.">

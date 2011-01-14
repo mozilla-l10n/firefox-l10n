@@ -1,11 +1,9 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label          "Agordi &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "A">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; permesas al vi havi vian historion, viajn legosignojn, pasvortojn kaj malfermitajn foliojn en ĉiuj viaj aparatoj.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Konto de &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Nuna konto:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Ĝisdatigi">
@@ -14,31 +12,29 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Administri konton">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword.label         "Ŝanĝi Pasvorton">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY stopUsingAccount.label       "Ĉesi uzi tiun ĉi konton">
+<!ENTITY viewQuota.label              "Montri limigon de spaco">
+<!ENTITY changePassword.label         "Ŝanĝi pasvorton">
+<!ENTITY mySyncKey.label              "Mia ŝlosilo de spegulado">
+<!ENTITY resetSync.label              "Rekomenci la speguladon">
 <!ENTITY addDevice.label              "Aldoni aparaton">
 
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncMy.label               "Speguli miajn">
+<!ENTITY engine.bookmarks.label     "legosignojn">
+<!ENTITY engine.bookmarks.accesskey "l">
+<!ENTITY engine.tabs.label          "foliojn">
+<!ENTITY engine.tabs.accesskey      "f">
+<!ENTITY engine.history.label       "historion">
+<!ENTITY engine.history.accesskey   "h">
+<!ENTITY engine.passwords.label     "pasvortojn">
+<!ENTITY engine.passwords.accesskey "v">
+<!ENTITY engine.prefs.label         "preferojn">
+<!ENTITY engine.prefs.accesskey     "p">
+
+<!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Nomo de komputilo:">
-<!ENTITY syncComputerName.accesskey   "c">
-
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Legosignoj">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Folioj">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "Historio">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Pasvortoj">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferoj">
-<!ENTITY engine.prefs.accesskey     "S">
-
+<!ENTITY syncComputerName.accesskey   "k">
+<!ENTITY deactivateDevice.label       "Malaktivigi tiun ĉi aparaton">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.tosLink.label        "Kondiĉoj de uzado">
 <!ENTITY prefs.ppLink.label         "Politiko pri privateco">

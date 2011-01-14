@@ -16,4 +16,4 @@
 <!ENTITY  paneAdvanced.title      "Spertaj">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Aktualigi">
+<!ENTITY  paneSync.title          "Speguli">
