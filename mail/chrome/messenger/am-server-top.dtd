@@ -17,19 +17,19 @@
 -->
 <!ENTITY biffStart.label "Cuir sùil airson teachdaireachdan ùra gach ">
 <!ENTITY biffStart.accesskey "C">
-<!ENTITY biffEnd.label "mionaid">
+<!ENTITY biffEnd.label "mionaid(ean)">
 <!ENTITY connectionSecurity.label "Tèarainteachd a' cheangail:">
 <!ENTITY connectionSecurity.accesskey "T">
 <!ENTITY connectionSecurityType-0.label "Chan eil gin">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, ma bhios e ri fhaighinn">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "An dòigh dearbhachaidh:">
+<!ENTITY authMethod.label "Authentication method:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Fàg na teachdaireachdan air an fhrithealaiche">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Faigh na bannan-cinn a-mhàin">
-<!ENTITY headersOnly.accesskey "m">
+<!ENTITY headersOnly.accesskey "F">
 <!ENTITY deleteByAgeFromServer.label "Air a' char as motha fad">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "là(ithean)">

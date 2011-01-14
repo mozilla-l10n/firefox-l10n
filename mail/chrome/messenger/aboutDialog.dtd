@@ -4,11 +4,11 @@
 <!ENTITY aboutVersion           "tionndadh">
 <!ENTITY aboutMenu.label        "Mu dhèidhinn">
 <!ENTITY aboutMenu.accesskey    "M">
-<!ENTITY aboutCredits.label     "Mu dhèidhinn">
-<!ENTITY aboutCredits.accesskey "M">
-<!ENTITY aboutRights.label      "Creideisean">
+<!ENTITY aboutCredits.label     "Creideisean">
+<!ENTITY aboutCredits.accesskey "C">
+<!ENTITY aboutRights.label      "Do chòraichean">
 <!ENTITY aboutRights.accesskey  "r">
-<!ENTITY aboutContributors.label "Do chòraichean">
+<!ENTITY aboutContributors.label "Com-pàirtichean">
 <!ENTITY aboutContributors.accesskey "o">
 <!ENTITY aboutLicense.label      "Ceadachas">
 <!ENTITY aboutLicense.accesskey  "C">

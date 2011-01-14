@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Fòn-eòlach:">
 <!ENTITY DisplayName.label              "Ainm-seallaidh:">
 <!ENTITY DisplayName.accesskey          "d">
+<!ENTITY preferDisplayName.label        "Always prefer display name over message header">
+<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Far-ainm:">
 <!ENTITY NickName.accesskey             "n">
 
@@ -80,8 +82,8 @@
 <!ENTITY ScreenName.accesskey           "s">
 
 <!ENTITY allowRemoteContent1.label      "Ceadaich susbaint chèin.">
-<!ENTITY allowRemoteContent1.accesskey  "d">
-<!ENTITY allowRemoteContent1.tooltip    "Gabhaidh susbaint o thùsan cian fhilleadh a-steach ann an teachdaireachdan HTML. Nuair a dh'fhosglar teachdaireachd d' a leithid, thèid ceangal a dhèanamh ris an tùs chèin seo. Dh'fhaodar an teachdaireachd a thathar a' leughadh a' lorgachadh leis. Ma chuireas tu cromag sa bhogsa seo, ceadaichidh seo susbaint chèin d' a leithid ann an teachdaireachdan HTML on charaid seo.">
+<!ENTITY allowRemoteContent1.accesskey  "C">
+<!ENTITY allowRemoteContent1.tooltip    "Gabhaidh susbaint o thùsan cian leabachadh a-steach ann an teachdaireachdan HTML. Nuair a dh'fhosglar teachdaireachd d' a leithid, thèid ceangal a dhèanamh ris an tùs chèin seo. Dh'fhaodar an teachdaireachd a thathar a' leughadh a' lorgachadh leis. Ma chuireas tu cromag sa bhogsa seo, ceadaichidh seo susbaint chèin d' a leithid ann an teachdaireachdan HTML on charaid seo.">
 
 <!ENTITY WorkPhone.label                "Obair:">
 <!ENTITY WorkPhone.accesskey            "O">
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "Co-là breith:">
 <!ENTITY Birthday.accesskey             "b">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Bliadhna">
+<!ENTITY Year.placeholder               "Year">
 <!ENTITY Or.value                       "no">
-<!ENTITY Age.emptytext                  "Aois">
+<!ENTITY Age.placeholder                "Age">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Obair">
@@ -157,7 +159,7 @@
 <!ENTITY Photo.tab                      "Fotograf">
 <!ENTITY Photo.accesskey                "o">
 <!ENTITY PhotoDesc.label                "Tagh aon dhe na leanas:">
-<!ENTITY GenericPhoto.label             "Fotograf coitcheann">
+<!ENTITY GenericPhoto.label             "Fotograf gnèitheach">
 <!ENTITY GenericPhoto.accesskey         "g">
 <!ENTITY DefaultPhoto.label             "Bunaiteach">
 <!ENTITY PhotoFile.label                "Air a' choimpiutair seo">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Air an lìon">
 <!ENTITY PhotoURL.accesskey             "A">
-<!ENTITY PhotoURL.emptytext             "Cuir a-steach seòladh-lìn de dh'fhotograf">
+<!ENTITY PhotoURL.placeholder           "Paste or type the web address of a photo">
 <!ENTITY UpdatePhoto.label              "Ùraich">
-<!ENTITY UpdatePhoto.accesskey          "r">
+<!ENTITY UpdatePhoto.accesskey          "Ù">

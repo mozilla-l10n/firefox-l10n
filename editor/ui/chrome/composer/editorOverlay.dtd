@@ -77,7 +77,7 @@
 <!ENTITY previewCmd.accesskey "R">
 <!ENTITY sendPageCmd.label "Cuir a-null an duilleag…">
 <!ENTITY sendPageCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "Roghainnean na duilleige…">
+<!ENTITY printSetupCmd.label "Suidheachadh na duilleige…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Clò-bhuail…">
 <!ENTITY printCmd.accesskey "C">
@@ -120,7 +120,7 @@
 <!ENTITY validateCmd.accesskey "D">
 
 <!-- Insert menu items -->
-<!ENTITY insertMenu.label "Cuir ann">
+<!ENTITY insertMenu.label "Cuir a-steach">
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd.label "Ceangal…">
 <!ENTITY insertLinkCmd.accesskey "l">
@@ -226,7 +226,7 @@
 <!ENTITY styleStrikeThruCmd.label "Loidhne troimhe">
 <!ENTITY styleStrikeThruCmd.accesskey "L">
 <!ENTITY styleSuperscriptCmd.label "Os-sgrìobhte">
-<!ENTITY styleSuperscriptCmd.accesskey "s">
+<!ENTITY styleSuperscriptCmd.accesskey "O">
 <!ENTITY styleSubscriptCmd.label "Bun-sgrìobhte">
 <!ENTITY styleSubscriptCmd.accesskey "s">
 <!ENTITY styleNonbreakingCmd.label "Do-bhriste">
@@ -281,7 +281,7 @@
 <!ENTITY paragraphPreformatCmd.accesskey "f">
 
 <!-- List menu items -->
-<!ENTITY formatlistMenu.label "Liostaich">
+<!ENTITY formatlistMenu.label "Liosta">
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Chan eil gin">
 <!ENTITY noneCmd.accesskey "n">
@@ -356,7 +356,7 @@
 <!ENTITY tableDeleteMenu2.accesskey "S">
 
 <!-- Insert SubMenu -->
-<!ENTITY tableInsertMenu.label "Cuir ann">
+<!ENTITY tableInsertMenu.label "Cuir a-steach">
 <!ENTITY tableInsertMenu.accesskey "i">
 <!ENTITY tableTable.label "Clàr">
 <!ENTITY tableTable.accesskey "C">
@@ -365,7 +365,7 @@
 <!ENTITY tableRow.accesskey "r">
 <!ENTITY tableRowAbove.label "Sreath os a chionn">
 <!ENTITY tableRowAbove.accesskey "r">
-<!ENTITY tableRowBelow.label "Sreath foidhe">
+<!ENTITY tableRowBelow.label "Sreath fodha">
 <!ENTITY tableRowBelow.accesskey "S">
 <!ENTITY tableColumn.label "Colbh">
 <!ENTITY tableColumns.label "Colbh(an)">
@@ -433,7 +433,7 @@
 <!ENTITY TextColorButton.tooltip "Tagh dath an teacsa">
 <!ENTITY BackgroundColorButton.tooltip "Tagh dath a' chùlaibh">
 <!ENTITY throbber.tooltip "Rach gu duilleag-dhachaigh &vendorShortName;">
-<!ENTITY HighlightColorButton.tooltip "Tagh dath airson teacsa a chomharradh">
+<!ENTITY HighlightColorButton.tooltip "Tagh dath airson teacsa a shoillseachadh">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Lughdaich meud a' chrutha-chlò">
@@ -487,11 +487,11 @@
 <!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label          "Cuir ann">
+<!ENTITY insertTOC.label          "Cuir a-steach">
 <!ENTITY insertTOC.accesskey      "i">
 <!ENTITY updateTOC.label          "Ùraich">
-<!ENTITY updateTOC.accesskey      "r">
+<!ENTITY updateTOC.accesskey      "Ù">
 <!ENTITY removeTOC.label          "Thoir air falbh">
 <!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "An clàr-innse…">
-<!ENTITY tocMenu.accesskey        "n">
+<!ENTITY tocMenu.accesskey        "A">

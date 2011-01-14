@@ -2,7 +2,7 @@
 
 <!ENTITY biffStart.label "Cuir sùil airson artagailean ùra gach ">
 <!ENTITY biffStart.accesskey "C">
-<!ENTITY biffEnd.label "mionaid">
+<!ENTITY biffEnd.label "mionaid(ean)">
 
 <!ENTITY loginAtStartup.label "Cuir sùil airson artagailean ùra nuair a thòisicheas am prògram"> 
 <!ENTITY loginAtStartup.accesskey "C">

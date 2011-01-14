@@ -33,7 +33,7 @@
 <!ENTITY offlineSelectNntp.accesskey "T">
 <!ENTITY offlineImapAdvancedOffline.label "Adhartach…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
-<!ENTITY syncGroupTitle.label "Co-thìmeachadh theachdaireachdan">
+<!ENTITY syncGroupTitle.label "Sioncronachadh theachdaireachdan">
 <!ENTITY diskspaceGroupTitle.label "Àite air an diosg">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
@@ -42,9 +42,9 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label               "Co-thìmich a h-uile teachdaireachd ionadail ge be dè an aois">
-<!ENTITY allAutosync.accesskey           "C">
-<!ENTITY ageAutosyncBefore.label         "Co-thìmich an fheadhainn as ùire">
+<!ENTITY allAutosync.label               "Sionronaich a h-uile teachdaireachd ionadail ge be dè an aois">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "Sioncronaich an fheadhainn as ùire">
 <!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Là(ithean)">

@@ -81,7 +81,7 @@
 <!ENTITY siteName.label               "Ainm na làraich:">
 <!ENTITY siteName.accesskey           "A">
 <!ENTITY siteName.tooltip             "Far-ainm air a dh'aithnichear an làrach foillseachaidh seo (m.e.: 'AnLàrachAgam')">
-<!ENTITY siteUrl.label                "An seòladh foillseachaidh (m.e.: 'ftp://ftp.anispagam.com/mainmcleachdaiche'):">
+<!ENTITY siteUrl.label                "An seòladh foillseachaidh (m.e.: 'ftp://ftp.anispagam.com/antainmcleachdaicheagam'):">
 <!ENTITY siteUrl.accesskey            "A">
 <!ENTITY siteUrl.tooltip              "An seòladh FTP:// no HTTP:// a thug an t-ISP no seirbheis òstaireachd-lìn dhut">
 <!ENTITY browseUrl.label              "Seòladh HTTP na duilleige-dachaigh agad (m.e.: 'http://www.antispagam.com/antainmcleachdaicheagam'):">

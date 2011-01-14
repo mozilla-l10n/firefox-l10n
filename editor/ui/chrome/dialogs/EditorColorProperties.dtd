@@ -45,7 +45,7 @@
 <!ENTITY customColorsRadio.accessKey "C">
 <!ENTITY customColorsRadio.tooltip "Brisidh roghainnean nan dath seo na roghainnean a tha ann am brabhsair an leughadair">
 
-<!ENTITY normalText.label "Teacs àbhaisteach">
+<!ENTITY normalText.label "Teacsa àbhaisteach">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "Teacsa a' cheangail">
 <!ENTITY linkText.accessKey "L">

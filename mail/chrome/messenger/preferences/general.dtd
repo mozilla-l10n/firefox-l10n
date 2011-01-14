@@ -1,7 +1,7 @@
 <!ENTITY messengerStartPage.label         "Duilleag tòiseachaidh &brandShortName;">
 <!ENTITY enableStartPage.label            "Nuair a thòiseachas &brandShortName;, seall an duilleag tòiseachaidh ann an raon nan teachdaireachdan">
 <!ENTITY enableStartPage.accesskey        "N">
-<!ENTITY location.label                   "Seòladh:">
+<!ENTITY location.label                   "Àite:">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "Aisig na roghainnean bunaiteach">
 <!ENTITY useDefault.accesskey             "r">

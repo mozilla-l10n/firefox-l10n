@@ -44,5 +44,5 @@
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
 <!ENTITY exampleText.label "Fàilte ort, a shaoghail!">
-<!ENTITY insertButton.label "Cuir ann">
+<!ENTITY insertButton.label "Cuir a-steach">
 <!ENTITY insertButton.accesskey "i">

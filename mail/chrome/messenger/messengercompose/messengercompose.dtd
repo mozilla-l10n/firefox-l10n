@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.label "Faidhle"> 
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Ùr">
-<!ENTITY newMenu.accesskey "r">
+<!ENTITY newMenu.accesskey "Ù">
 <!ENTITY newMessage.label "Teachdaireachd">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
@@ -33,7 +33,7 @@
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Dreach">
 <!ENTITY saveAsDraftCmd.accesskey "D">
-<!ENTITY saveAsTemplateCmd.label "Theamplaid">
+<!ENTITY saveAsTemplateCmd.label "Teamplaid">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY sendNowCmd.label "Cuir an-dràsta">
 <!ENTITY sendCmd.keycode "VK_RETURN">
@@ -144,11 +144,11 @@
 <!ENTITY lowestPriorityCmd.label "As ìsle">
 <!ENTITY lowestPriorityCmd.accesskey "l">
 <!ENTITY lowPriorityCmd.label "Ìseal">
-<!ENTITY lowPriorityCmd.accesskey "s">
+<!ENTITY lowPriorityCmd.accesskey "Ì">
 <!ENTITY normalPriorityCmd.label "Àbhaisteach">
-<!ENTITY normalPriorityCmd.accesskey "b">
+<!ENTITY normalPriorityCmd.accesskey "À">
 <!ENTITY highPriorityCmd.label "Àrd">
-<!ENTITY highPriorityCmd.accesskey "r">
+<!ENTITY highPriorityCmd.accesskey "À">
 <!ENTITY highestPriorityCmd.label "As àirde">
 <!ENTITY highestPriorityCmd.accesskey "A">
 <!ENTITY fileCarbonCopyCmd.label "Cuir lethbhreac dheth gu">

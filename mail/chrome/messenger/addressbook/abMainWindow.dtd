@@ -4,7 +4,7 @@
 <!ENTITY fileMenu.label                                 "Faidhle">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Ùr">
-<!ENTITY newMenu.accesskey                              "r">
+<!ENTITY newMenu.accesskey                              "Ù">
 <!ENTITY newContact.label                               "Caraid ann an leabhar nan seòladh…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
@@ -23,7 +23,7 @@
 <!ENTITY closeCmd.label                                 "Dùin">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "D">
-<!ENTITY printSetupCmd.label                            "Roghainnean na duilleige…">
+<!ENTITY printSetupCmd.label                            "Suidheachadh na duilleige…">
 <!ENTITY printSetupCmd.accesskey                        "u">
 <!ENTITY printPreviewContactCmd.label                   "Ro-shealladh clò-bhualaidh de charaid">
 <!ENTITY printPreviewContactCmd.accesskey               "R">
@@ -109,7 +109,7 @@
 <!ENTITY importCmd.label                                "Ion-phortaich…">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Às-phortaich…">
-<!ENTITY exportCmd.accesskey                            "s">
+<!ENTITY exportCmd.accesskey                            "À">
 <!ENTITY preferencesCmd.label                           "Roghainnean…">
 <!ENTITY preferencesCmd.accesskey                       "o">
 <!ENTITY preferencesCmdUnix.label                       "Roghainnean">
@@ -155,13 +155,13 @@
 <!ENTITY ScreenName.label                               "Ainm-sgrìn">
 <!ENTITY ScreenName.accesskey                           "s">
 <!ENTITY Company.label                                  "Am buidheann">
-<!ENTITY Company.accesskey                              "m">
-<!ENTITY NickName.label                                 "Am far-ainm">
+<!ENTITY Company.accesskey                              "A">
+<!ENTITY NickName.label                                 "Far-ainm">
 <!ENTITY NickName.accesskey                             "i">
 <!ENTITY SecondEmail.label                              "Post-dealain eile">
 <!ENTITY SecondEmail.accesskey                          "l">
-<!ENTITY Department.label                               "Roinn">
-<!ENTITY Department.accesskey                           "R">
+<!ENTITY Department.label                               "An roinn">
+<!ENTITY Department.accesskey                           "r">
 <!ENTITY JobTitle.label                                 "Tiotal">
 <!ENTITY JobTitle.accesskey                             "T">
 <!ENTITY CellularNumber.label                           "Fòn-làimhe">

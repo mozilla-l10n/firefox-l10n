@@ -34,4 +34,4 @@
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Ball-sampaill: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Cleachd am progsaidh seo airson gach pròtocal">
-<!ENTITY  shareproxy.accesskey          "p">
+<!ENTITY  shareproxy.accesskey          "C">

@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Lorg">
+<!ENTITY  filter.placeholder          "Search">
 
 <!ENTITY saveTo.label                 "Sàbhail faidhlichean ann an">
 <!ENTITY saveTo.accesskey             "S">
@@ -16,4 +16,4 @@
 <!ENTITY chooseFolderWin.label        "Brabhsaich…">
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Tagh…">
-<!ENTITY chooseFolderMac.accesskey    "g">
+<!ENTITY chooseFolderMac.accesskey    "T">

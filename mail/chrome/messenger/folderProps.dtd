@@ -45,11 +45,11 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "Cleachd na roghainnean bunaiteach airson a h-uile teachdaireachd sa phasgan (thèid roghainnean sònraichte a thaobh còdachadh charactairean is fèin-mhothachadh aig teachdaireachdan fa leth a leigeil seachad)">
 <!ENTITY folderCharsetOverride.accesskey         "a">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Ath-thog gearr-chunntas clàr-innse nam faidhle">
-<!ENTITY folderRebuildSummaryFile2.label         "Càraich pasgan">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "r">
-<!ENTITY folderRebuildSummaryFile.explanation    "Thèid faidhle clàr-innse nam pasgan (.msf) a thruailleadh uaireannan 's bidh coltas gu bheil teachdaireachdan air chall no bidh feadhainn a chaidh a sguabadh às ri fhaicinn fhathast; ma chàraicheas tu am pasgan, thèid seo a chur ceart.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Gabh a-steach teachdaireachdan sa phasgan seo ann an toraidhean de lorg uile-choitcheann">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
+<!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
      
 <!ENTITY retention.label "Am poileasaidh glèidhidh">
@@ -71,8 +71,8 @@
 <!ENTITY retentionApplyToFlagged.label "Cum teachdaireachdan ris a bheil rionnag an-còmhnaidh">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label          "Co-thìmeachadh">
-<!ENTITY folderCheckForNewMessages2.label         "Nuair a lorgar teachdaireachdan ùra airson a' chunntais seo, cuir sùil air a' phasgan seo an-còmhnaidh">
+<!ENTITY folderSynchronizationTab.label          "Sioncronachadh">
+<!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Tagh am pasgan seo a chum cleachdaidh far loidhne">

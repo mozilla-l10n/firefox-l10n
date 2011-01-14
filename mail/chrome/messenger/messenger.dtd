@@ -73,14 +73,10 @@
 <!ENTITY deleteMsgCmd.accesskey "d">
 <!ENTITY undeleteMsgCmd.label "Neo-dhèan sguabadh às na teachdaireachd">
 <!ENTITY undeleteMsgCmd.accesskey "d">
-<!ENTITY cancelNewsMsgCmd.label "Sguir dhen teachdaireachd">
-<!ENTITY cancelNewsMsgCmd.accesskey "S">
 <!ENTITY deleteMsgsCmd.label "Sguab às na teachdaireachdan a thagh thu">
 <!ENTITY deleteMsgsCmd.accesskey "d">
 <!ENTITY undeleteMsgsCmd.label "Neo-dhèan sguabadh às nan teachdaireachdan">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "Sguir dhe na teachdaireachdan a thagh thu">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "Sguab às am pasgan">
 <!ENTITY deleteFolderCmd.accesskey "S">
 <!ENTITY unsubscribeNewsgroupCmd.label "Sguir dhen fho-sgrìobhadh">
@@ -124,9 +120,9 @@
 <!ENTITY messagePaneClassic.label "An sealladh clasaigeach">
 <!ENTITY messagePaneClassic.accesskey "c">
 <!ENTITY messagePaneWide.label "An sealladh leathann">
-<!ENTITY messagePaneWide.accesskey "e">
+<!ENTITY messagePaneWide.accesskey "A">
 <!ENTITY messagePaneVertical.label "An sealladh dìreach">
-<!ENTITY messagePaneVertical.accesskey "d">
+<!ENTITY messagePaneVertical.accesskey "A">
 <!ENTITY showMessageCmd.label "Leòs na teachdaireachd">
 <!ENTITY showMessageCmd.accesskey "L">
 
@@ -138,8 +134,8 @@
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Gun leughadh">
 <!ENTITY unreadFolders.accesskey "u">
-<!ENTITY favoriteFolders.label "An fheadhainn as fhearr">
-<!ENTITY favoriteFolders.accesskey "f">
+<!ENTITY favoriteFolders.label "Annsachd">
+<!ENTITY favoriteFolders.accesskey "A">
 <!ENTITY recentFolders.label "O chionn ghoirid">
 <!ENTITY recentFolders.accesskey "r">
 
@@ -158,8 +154,8 @@
 <!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "Meud">
 <!ENTITY sortBySizeCmd.accesskey "M">
-<!ENTITY sortByStatusCmd.label "Cor">
-<!ENTITY sortByStatusCmd.accesskey "C">
+<!ENTITY sortByStatusCmd.label "Staid">
+<!ENTITY sortByStatusCmd.accesskey "S">
 <!ENTITY sortByTagsCmd.label "Thagaichean">
 <!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "Na h-inbhe truilleis">
@@ -210,7 +206,7 @@
 <!ENTITY headersAllCmd.label "A h-uile">
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Àbhaisteach">
-<!ENTITY headersNormalCmd.accesskey "b">
+<!ENTITY headersNormalCmd.accesskey "À">
 <!ENTITY bodyMenu.label "Bodhaig na teachdaireachd mar">
 <!ENTITY bodyMenu.accesskey "B">
 <!ENTITY bodyAllowHTML.label "An HTML tùsail">
@@ -282,7 +278,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchAddressesCmd.accesskey "s">
 
 <!-- Go Menu -->
-<!ENTITY goMenu.label "Rach">
+<!ENTITY goMenu.label "Rach ann">
 <!ENTITY goMenu.accesskey "R">
 <!ENTITY nextMenu.label "Air adhart">
 <!ENTITY nextMenu.accesskey "A">
@@ -313,6 +309,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Teachdaireachd le rionnag">
 <!ENTITY prevStarredMsgCmd.accesskey "T">
+<!ENTITY folderMenu.label "Pasgan">
+<!ENTITY folderMenu.accesskey "P">
+<!ENTITY thisFolder.label "Am pasgan seo">
+<!ENTITY thisFolder.accesskey "A">
 <!ENTITY startPageCmd.label "Duilleag tòiseachadh a' phuist">
 <!ENTITY startPageCmd.accesskey "s">
 
@@ -326,6 +326,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Tasg-lann">
 <!ENTITY archiveMsgCmd.accesskey "a">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Sguir dhen teachdaireachd">
+<!ENTITY cancelNewsMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.label "Freagair">
 <!ENTITY replyMsgCmd.accesskey "r">
 <!ENTITY replyMsgCmd.key  "r">
@@ -476,7 +478,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.label "Freagair a h-uile">
 <!ENTITY replyListButton.label "Freagair an liosta">
 <!ENTITY forwardButton.label "Air adhart">
-<!ENTITY fileButton.label "Fhaidhle">
+<!ENTITY fileButton.label "Faidhle">
 <!ENTITY archiveButton.label "Tasg-lann">
 <!ENTITY nextButton.label "Air adhart">
 <!ENTITY previousButton.label "Air ais">
@@ -577,7 +579,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Lorg sna teachdaireachdan…">
+<!ENTITY glodaSearchBar.placeholder "Lorg sna teachdaireachdan…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Cuspair">
@@ -592,12 +594,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY threadColumn.label "Snàth">
 <!ENTITY fromColumn.label "O">
 <!ENTITY recipientColumn.label "Faightear">
-<!ENTITY subjectColumn.label "Cuspair">
+<!ENTITY subjectColumn.label "A' chuspair">
 <!ENTITY dateColumn.label "Ceann-là">
 <!ENTITY priorityColumn.label "Prìomhachas">
 <!ENTITY tagsColumn.label "Taga">
 <!ENTITY accountColumn.label "Cunntas">
-<!ENTITY statusColumn.label "Cor">
+<!ENTITY statusColumn.label "Staid">
 <!ENTITY sizeColumn.label "Meud">
 <!ENTITY junkStatusColumn.label "An inbhe truilleis">
 <!ENTITY unreadColumn.label "Gun leughadh">
@@ -605,7 +607,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readColumn.label "Air a leughadh">
 <!ENTITY receivedColumn.label "Air fhaighinn">
 <!ENTITY starredColumn.label "Le rionnag ris">
-<!ENTITY locationColumn.label "Seòladh">
+<!ENTITY locationColumn.label "Àite">
 <!ENTITY idColumn.label "An t-òrdugh san d' fhuaradh iad">
 <!ENTITY attachmentColumn.label "Ceanglachain">
 

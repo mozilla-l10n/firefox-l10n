@@ -12,7 +12,7 @@
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Tha na roghainnean seo a' sònrachadh nan namespaces air an fhrithealaiche IMAP agad">
-<!ENTITY personalNamespace.label "Namespace pearsanta:">
+<!ENTITY personalNamespace.label "Ainm-spàs pearsanta:">
 <!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Poblach (air a cho-roinneadh):">
 <!ENTITY publicNamespace.accesskey "P">

@@ -7,7 +7,7 @@
 <!ENTITY identityDesc.label "Tha dearbh-aithne aig gach cunntas; sin am fiosrachadh a chì daoine eile nuair a leughas iad do theachdaireachdan.">
 <!ENTITY name.label "D' ainm:">
 <!ENTITY name.accesskey "D">
-<!ENTITY email.label "An seòladh puist-dhealain:">
+<!ENTITY email.label "Seòladh puist-dhealain:">
 <!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "An seòladh freagairt-gu:">
 <!ENTITY replyTo.accesskey "s">
