@@ -1,8 +1,8 @@
 <!ENTITY aboutSupport.appBasicsAppBuildID "Build-ID der Anwendung">
 
 <!ENTITY aboutSupport.accountsTitle "E-Mail- und Newsgruppen-Konten">
-<!ENTITY aboutSupport.showPrivateData.mainText "Konten-Bezeichnungen einschließen">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(möglicherweise identifizierende Information)">
+<!ENTITY aboutSupport.showPrivateData.mainText "Konten-Bezeichnungen einschlieÃŸen">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(mÃ¶glicherweise identifizierende Information)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Name">
 <!ENTITY aboutSupport.accountsIncomingServer "Posteingang-Server">
