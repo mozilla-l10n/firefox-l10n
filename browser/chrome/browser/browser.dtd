@@ -27,18 +27,18 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.label                    "Alpingli kiel programa folio">
 <!ENTITY  pinAppTab.accesskey                "P">
 <!ENTITY  unpinAppTab.label                  "Depingli folion">
-<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  unpinAppTab.accesskey              "D">
 <!ENTITY  moveToGroup.label                  "Movi al grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Nova grupo">
 <!ENTITY  moveToNewWindow.label              "Movi al nova fenestro">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Aldoni legosignon por ĉiuj folioj…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  bookmarkAllTabs.accesskey          "l">
 <!ENTITY  undoCloseTab.label                 "Malfari fermadon de folio">
-<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  undoCloseTab.accesskey             "M">
 <!ENTITY  closeTab.label                     "Fermi folion">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "f">
 
 <!ENTITY  listAllTabs.label      "Listigi ĉiujn foliojn">
 
@@ -97,7 +97,7 @@ can reach it easily. -->
 <!ENTITY closeWindow.accesskey "f">
 
 <!ENTITY bookmarksMenu.label "Legosignoj">
-<!ENTITY bookmarksMenu.accesskey "P">
+<!ENTITY bookmarksMenu.accesskey "L">
 <!ENTITY bookmarkThisPageCmd.label "Aldoni legosignon por tiu ĉi paĝo">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
