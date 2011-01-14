@@ -32,11 +32,11 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "An eachdraidh brabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
+<!ENTITY itemHistoryAndDownloads.label     "An eachdraidh brabhsaidh ┐ nan rudan a chaidh a luchdadh a-nuas">
 <!ENTITY itemHistoryAndDownloads.accesskey "b">
 <!ENTITY itemBrowsingHistory.label         "An eachdraidh brabhsaidh">
 <!ENTITY itemBrowsingHistory.accesskey     "b">
-<!ENTITY itemFormSearchHistory.label       "Eachdraidh nam foirmean ⁊ nan lorg">
+<!ENTITY itemFormSearchHistory.label       "Eachdraidh nam foirmean ┐ nan lorg">
 <!ENTITY itemFormSearchHistory.accesskey   "f">
 <!ENTITY itemPasswords.label               "Faclan-faire air an sàbhaladh">
 <!ENTITY itemPasswords.accesskey           "F">

@@ -116,7 +116,7 @@
 <!ENTITY  securityView.identity.domain   "Làrach-lìn:">
 <!ENTITY  securityView.identity.verifier "Air a dhearbhadh le:">
 
-<!ENTITY  securityView.privacy.header                   "Prìobhaideachd ⁊ eachdraidh">
+<!ENTITY  securityView.privacy.header                   "Prìobhaideachd ┐ eachdraidh">
 <!ENTITY  securityView.privacy.history                  "Na thadhail mi air an làrach-lìn seo ro an-diugh?">
 <!ENTITY  securityView.privacy.cookies                  "A bheil an làrach-lìn seo a' stòradh fiosrachadh (briosgaidean) air a' choimpiutair agam?">
 <!ENTITY  securityView.privacy.viewCookies              "Seall na briosgaidean">
