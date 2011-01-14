@@ -398,6 +398,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Gelesen">
 <!ENTITY markAsReadCmd.accesskey "G">
 <!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Ungelesen">
+<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Thema gelesen">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
