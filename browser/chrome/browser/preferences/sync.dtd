@@ -3,10 +3,6 @@
 <!ENTITY setupButton.accesskey      "د">
 <!ENTITY weaveDesc.label            "يتيح &syncBrand.fullName.label; الوصول إلى علاماتك وتأريخك وكلمات السر والألسنة النفتوحة في جميع أجهزتك.">
 
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "حساب &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "الحساب الحالي:">
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "حدِّث">
 <!ENTITY resetPass.label              "صفّر">
@@ -18,11 +14,9 @@
 <!ENTITY changePassword.label         "غيّر كلمة السر">
 <!ENTITY mySyncKey.label              "مفتاح المزامنة">
 <!ENTITY resetSync.label              "صفّر التزامن">
-<!ENTITY stopUsingAccount.label       "كفّ عن استخدام هذا الحساب">
 <!ENTITY addDevice.label              "أضِف جهازًا">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "تزامُن المتصفح">
 <!ENTITY syncComputerName.label       "اسم الحاسوب:">
 <!ENTITY syncComputerName.accesskey   "ح">
 
@@ -38,6 +32,7 @@
 <!ENTITY engine.prefs.label         "تفضيلاتي">
 <!ENTITY engine.prefs.accesskey     "ض">
 
+<!ENTITY deactivateDevice.label       "ألغِ تنشيط هذا الجهاز">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "بنود الخدمة">
