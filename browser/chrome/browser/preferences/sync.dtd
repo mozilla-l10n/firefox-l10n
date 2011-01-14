@@ -23,6 +23,6 @@
 <!ENTITY engine.prefs.accesskey "z">
 <!ENTITY syncComputerName.label "Nome del computer:">
 <!ENTITY syncComputerName.accesskey "u">
-<!ENTITY deactivateDevice.label "Disattiva questo dispositivo">
+<!ENTITY deactivateDevice.label "Rimuovi questo dispositivo">
 <!ENTITY prefs.tosLink.label "Condizioni di utilizzo del servizio">
 <!ENTITY prefs.ppLink.label "Informativa sulla privacy">
