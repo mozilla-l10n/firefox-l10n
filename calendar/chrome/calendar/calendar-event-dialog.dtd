@@ -45,8 +45,7 @@
 
 <!ENTITY event.title.label                  "Item bewurkje" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Behâld de doer as de eindatum wizigt">
-<!ENTITY event.dialog.keepDurationButton.accesskey "B">
+<!ENTITY event.dialog.keepDurationButton.tooltip  "">
 
 <!ENTITY newevent.from.label                "Fan" >
 <!ENTITY newevent.to.label                  "Oant" >
