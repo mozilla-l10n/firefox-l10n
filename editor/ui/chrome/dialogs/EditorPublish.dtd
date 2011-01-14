@@ -67,7 +67,7 @@
 <!ENTITY pageTitleExample.label       "z.B.: &quot;Meine Web-Seite&quot;">
 <!ENTITY filename.label               "Dateiname:">
 <!ENTITY filename.accesskey           "e">
-<!ENTITY filename.tooltip             "Geben Sie einen Namen für diese Datei an, inklusive '.html' für eine Webseite">
+<!ENTITY filename.tooltip             "Geben Sie einen Namen für diese Datei an, inklusive &quot;.html&quot; für eine Webseite">
 <!ENTITY filenameExample.label        "z.B.: &quot;meineseite.html&quot;">
 <!ENTITY setDefaultButton.label       "Als Standard festlegen">
 <!ENTITY setDefaultButton.accesskey   "A">
