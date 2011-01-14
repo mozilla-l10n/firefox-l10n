@@ -21,11 +21,12 @@
 <!ENTITY stopUsingAccount.label       "Prekid korištenja ovog računa">
 <!ENTITY addDevice.label              "Dodaj uređaj">
 
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Sinkronizacija preglednika">
+<!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Naziv računala:">
 <!ENTITY syncComputerName.accesskey   "r">
+<!ENTITY deactivateDevice.label       "Deaktiviraj ovaj uređaj">
 
+<!ENTITY syncPrefsCaption.label     "Sinkronizacija preglednika">
 <!ENTITY syncMy.label               "Sinkroniziraj moje">
 <!ENTITY engine.bookmarks.label     "Zabilješke">
 <!ENTITY engine.bookmarks.accesskey "z">
