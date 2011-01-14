@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Build-ID der Anwendung">
+
+<!ENTITY aboutSupport.accountsTitle "E-Mail- und Newsgruppen-Konten">
+<!ENTITY aboutSupport.showPrivateData.mainText "Konten-Bezeichnungen einschließen">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(möglicherweise identifizierende Information)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Name">
+<!ENTITY aboutSupport.accountsIncomingServer "Posteingang-Server">
+<!ENTITY aboutSupport.accountsOutgoingServers "Postausgang-Server">
+<!ENTITY aboutSupport.accountsConnSecurity "Verbindungssicherheit">
+<!ENTITY aboutSupport.accountsAuthMethod "Authentifizierungsmethode">
+<!ENTITY aboutSupport.accountsDefault "Standard?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Als E-Mail senden">
