@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "H">
 
 <!ENTITY exceptionMgr.title                   "Saajaw hasaraw tonton">
-<!ENTITY exceptionMgr.exceptionButton         "Saajaw hasaraw cimandi">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Bankey, bitijey nda baytal nungu alhakiika tanawey ši war hãa ka woo tee.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Feršikaw">
 <!ENTITY exceptionMgr.certlocation.url        "Gorodoo:">

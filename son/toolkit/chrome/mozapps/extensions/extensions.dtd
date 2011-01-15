@@ -15,11 +15,11 @@
 <!ENTITY cmd.forward.tooltip                  "Koy jine nda moo foo">
 <!-- global warnings -->
 
-<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
-<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.safemode.label                    "Saajaw alhaalooo na tontoney kul kayandi.">
+<!ENTITY warning.checkcompatibility.label          "Tontoni cerekanbeyan koroširoo kayandi. I ga hima tontoniyaŋ kaŋ ši cerekanbe.">
 <!ENTITY warning.checkcompatibility.enable.label   "Enable">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
-<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.label              "Tontoni saajaw taagandiri koroširoo kayandi. A ga hima taagandirey ga šendayyaŋ kate. ">
 <!ENTITY warning.updatesecurity.enable.label       "Enable">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 <!-- categories / views -->
@@ -39,8 +39,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Taagandiri kokorantey guna">
 <!ENTITY updates.viewUpdates.accesskey        "g">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
@@ -90,6 +99,16 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Kaataray hantumey cebe taagandiroo woo se">
 <!ENTITY cmd.hideReleaseNotes.label           "Kaataray hantumey tugu">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Kaataray hantumey tugu taagandiroo woo se">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+<!ENTITY discover.title                       "What are Add-ons?">
+<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
+  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
+  your own.">
+<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
+  some of the best and most popular add-ons for you to try out.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Dumi">
@@ -176,3 +195,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Alhaa naŋ, ammaa firka bangay kaataray hantumey zumandiroo waate.">
 
 <!ENTITY addon.createdBy.label                " wanoo">
+
+<!ENTITY eula.title                           "Benandi goykaw duɲe waafakay">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Yadda nda sinji...">

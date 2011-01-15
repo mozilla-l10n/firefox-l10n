@@ -92,8 +92,10 @@
 <!ENTITY col.dateadded.label     "Tontonyan han">
 <!ENTITY col.lastmodified.label  "Barmay cee koraa">
 
-<!ENTITY search.label                              "Ceeci:">
-<!ENTITY search.accesskey                          "C">
+<!ENTITY search.label                              "Search:">
+<!ENTITY search.accesskey                          "S">
+
+<!ENTITY search.in.label                           "Search in:">
 <!ENTITY search.scopeFolder.label                  "Foolo suubante">
 <!ENTITY search.scopeFolder.accesskey              "F">
 <!ENTITY search.scopeBookmarks.label               "Doo-šilbawey">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "J">
 <!ENTITY detailsPane.noPreviewAvailable.label "Moo-fur">
 <!ENTITY detailsPane.selectAnItemText.description "Hayiize suuba k'a guna nda ka nga mayrawey fasal.">
+
+<!ENTITY find.label               "Search:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "Guna">
+<!ENTITY view.accesskey           "G">
+<!ENTITY byDate.label             "Han bande">
+<!ENTITY byDate.accesskey         "H">
+<!ENTITY bySite.label             "Nungu bande">
+<!ENTITY bySite.accesskey         "N">
+<!ENTITY byMostVisited.label      "Narumi hinna bande">
+<!ENTITY byMostVisited.accesskey  "N">
+<!ENTITY byLastVisited.label      "Narumi kokorante bande">
+<!ENTITY byLastVisited.accesskey  "k">
+<!ENTITY byDayAndSite.label       "Han nda nungu bande">
+<!ENTITY byDayAndSite.accesskey   "H">

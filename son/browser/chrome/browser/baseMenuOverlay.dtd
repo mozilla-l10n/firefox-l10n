@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Furari sanba...">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-<!ENTITY updateCmd.label                "Taagandirey ceeci...">
-
 <!ENTITY preferencesCmdMac.label        "Ibaayey...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

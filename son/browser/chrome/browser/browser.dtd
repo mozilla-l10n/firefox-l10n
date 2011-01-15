@@ -71,7 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "D">
 <!ENTITY bookmarksToolbarItem.label "Doo-šilbawey goyjinay žeeri hayiizey">
 <!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Moo aššil">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Boŋ-maa hantum moɲoo woo ga">
 <!ENTITY subscribeToPageMenuitem.label "Boŋ-maa hantum moɲoo woo ga...">
 <!ENTITY addCurPagesCmd.label "Nor lokey kul šilbay...">
-<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
+<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
 <!ENTITY bookmarkAllCmd.label "Doo-šilbawey kul hanse...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Doo-šilbay tontoney cebe">
 
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Jine">
 <!ENTITY forwardCmd.accesskey         "J">
 <!ENTITY forwardButton.tooltip        "Koy moo foo jine">
-<!ENTITY backForwardMenu.tooltip      "Moo korawey">
 <!ENTITY reloadCmd.label              "Dam taaga">
 <!ENTITY reloadCmd.accesskey          "D">
 <!ENTITY reloadButton.tooltip         "Sohõ moɲoo dam taaga">
@@ -149,6 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Doo-šilbawey">
 <!ENTITY bookmarksMenuButton.tooltip        "War doo-šilbawey cebe">
+<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
 <!ENTITY viewBookmarksSidebar.label         "Cebe ceraw-maaboŋ ra">
 <!ENTITY viewBookmarksToolbar.label         "Doo-šilbawey goyjinay žeeri">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -216,9 +216,9 @@ can reach it easily. -->
 
 <!ENTITY editMenu.label         "Fasal">
 <!ENTITY editMenu.accesskey       "F">
-<!ENTITY undoCmd.label            "Taafeeri">
+<!ENTITY undoCmd.label            "Undo">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "T">
+<!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "Tee taaga">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "T">
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Kul suuba">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "K">
-<!ENTITY preferencesCmd.label       "Suubarey...">
-<!ENTITY preferencesCmd.accesskey     "S">
+<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Ibaayey">
 <!ENTITY preferencesCmdUnix.accesskey     "I">
 
@@ -281,7 +281,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Goyjinay zuu-žeeri kanandi...">
 <!ENTITY appMenuSidebars.label "Cerawžeerey">
 <!ENTITY appMenuFind.label "Ceeci...">
-<!ENTITY appMenuUnsorted.label "Doo-šilbawey kaŋ mana fayandi">
+<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Go ma tun nda Firefox">
 <!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
@@ -514,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Ben">
 <!ENTITY editBookmark.cancel.label                   "Naŋ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Taafeeri">
-<!ENTITY editBookmark.undo.accessKey                 "T">
-<!ENTITY editBookmark.edit.label                     "Fasal...">
-<!ENTITY editBookmark.edit.accessKey                 "F">
 
 <!ENTITY identity.unverifiedsite2 "Tataaru nungooo woo ši boŋtammaasa alhabar noo.">
 <!ENTITY identity.connectedTo "War ciya ne doo">
@@ -553,3 +549,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Hangandi sohõ">
 <!ENTITY syncSyncNowItem.accesskey    "H">
 <!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">

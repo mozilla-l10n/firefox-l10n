@@ -1,7 +1,0 @@
-<!ENTITY startDescriptionText.label        "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
-
-<!ENTITY endDescription.label              "War ga hin ka bii foo naagu ka dii nungey kaŋ &brandShortName; n'i gagay nda war ma naŋ i ma biiboŋ batawey feeri nda wey ga waažibandi hala nungoo ma duu ka goy boryo.  ">
-
-<!ENTITY caption.label                     "Biiboŋ bata feeri gagayandiyan ga">
-
-<!ENTITY done.label "Ben">

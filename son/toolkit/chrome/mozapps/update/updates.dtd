@@ -17,6 +17,8 @@ waati foo-foo wala taagandiryaŋ ga bangay">
 nda dabariɲaa fondawey kaŋ ka waažibi ngi sinjiyanoo se. Taare war ma war 
 dabariɲaa juwalkaa hãa, wala war ma ceeci koyne nda kontu foo kaŋ goo nda duɲe ka 
 goyjinay sinji ordinateroo woo ra.">
+<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
 <!ENTITY  manualUpdateGetMsg.label        "War ga hin ka duu &brandShortName; dumi kokorantaa waati kul ne:">
 
 <!ENTITY  incompatibleCheck.title         "Tontoni cerekanbeyan ceeci">
