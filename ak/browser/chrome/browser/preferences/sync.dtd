@@ -3,10 +3,8 @@
 <!ENTITY setupButton.accesskey      "H">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ma wo ho kwan ma wo nya-kwan kɔ wo abakɔsɛm, mbukmaak, ehintasɛmfua ne ntab a wɔebuei wɔn wɔ wo mfidie nyinara so.">
 <!-- The page shown when logged in... -->
-
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; akawnt">
-<!ENTITY currentAccount.label         "Current Account:">
 <!-- Login error feedback -->
+
 
 <!ENTITY updatePass.label             "Ntoso">
 <!ENTITY resetPass.label              "Hyehyɛ-bio">
@@ -14,16 +12,11 @@
 
 <!ENTITY manageAccount.label          "Hwɛ akawnt so">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY viewQuota.label              "Hwɛ dodoɔ bi">
 <!ENTITY changePassword.label         "Sesa ehintasɛmfua">
-<!ENTITY mySyncKey.label              "My Sync Key">
+<!ENTITY mySyncKey.label              "Me Sync kii">
 <!ENTITY resetSync.label              "San-hyehyɛɛ Sync">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
-<!-- Sync Settings -->
-
-<!ENTITY syncPrefsCaption.label       "Brawsa Sync">
-<!ENTITY syncComputerName.label       "Kɔmputa Din:">
-<!ENTITY syncComputerName.accesskey   "m">
+<!ENTITY addDevice.label              "Add a Device">
 
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
@@ -36,8 +29,12 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Preferences">
 <!ENTITY engine.prefs.accesskey     "S">
-<!-- Footer stuff -->
+<!-- Device Settings -->
 
+<!ENTITY syncComputerName.label       "Kɔmputa Din:">
+<!ENTITY syncComputerName.accesskey   "m">
+<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Ɛfene a yɛde som wo">
 <!ENTITY prefs.ppLink.label         "Siesɛm mbra">

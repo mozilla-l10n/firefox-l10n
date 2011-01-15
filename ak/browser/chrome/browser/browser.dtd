@@ -71,7 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "b">
 <!ENTITY bookmarksToolbarItem.label "Tuulbaa Ndeɛma A Wɔde Sie Mbukmaak">
 <!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Krataafa Ne Firii">
 <!ENTITY pageSourceCmd.accesskey "r">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Kyerɛw Wo Din Ka Krataafa Yi Ho">
 <!ENTITY subscribeToPageMenuitem.label "Kyerɛw Wo Din Ka Krataafa Yi Ho…">
 <!ENTITY addCurPagesCmd.label "Bukmaake Ntab Nyinara…">
-<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
+<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
 <!ENTITY bookmarkAllCmd.label "Bukmaake Ntab Nyinara…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kyerɛ mbukmaak bebree">
 
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Enim">
 <!ENTITY forwardCmd.accesskey         "E">
 <!ENTITY forwardButton.tooltip        "Kɔ enim krataafa baako">
-<!ENTITY backForwardMenu.tooltip      "Krataafa a wɔakɔ ndansa yi">
 <!ENTITY reloadCmd.label              "Bue-bio">
 <!ENTITY reloadCmd.accesskey          "B">
 <!ENTITY reloadButton.tooltip         "Bue krataafa a wo wɔ so yi bio">
@@ -149,6 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Mbukmaak">
 <!ENTITY bookmarksMenuButton.tooltip        "Kyerɛ wo mbukmaak">
+<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
 <!ENTITY viewBookmarksSidebar.label         "Kyerɛ wɔ saedbaa mu">
 <!ENTITY viewBookmarksToolbar.label         "Hwɛ TuulBaa A Wɔde Sie Mbukmaak">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -216,9 +216,9 @@ can reach it easily. -->
 
 <!ENTITY editMenu.label         "Sesa">
 <!ENTITY editMenu.accesskey       "e">
-<!ENTITY undoCmd.label            "Nnyɛ">
+<!ENTITY undoCmd.label            "Undo">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "n">
+<!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "Yɛ bio">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "b">
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Paw No Nyinara">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "a">
-<!ENTITY preferencesCmd.label       "Ɔphyɛn…">
-<!ENTITY preferencesCmd.accesskey     "Ɔ">
+<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Apɛde-nhyehyɛ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
@@ -281,7 +281,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Tuulbaa Nhyehyɛe…">
 <!ENTITY appMenuSidebars.label "Nsaedbaa">
 <!ENTITY appMenuFind.label "Hu…">
-<!ENTITY appMenuUnsorted.label "Mbukmaak a Wɔnnhyehyɛe">
+<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Ɛrehyɛ ase">
 <!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
@@ -514,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Ewie">
 <!ENTITY editBookmark.cancel.label                   "Twa-mu">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "NNyɛ">
-<!ENTITY editBookmark.undo.accessKey                 "y">
-<!ENTITY editBookmark.edit.label                     "Sesa…">
-<!ENTITY editBookmark.edit.accessKey                 "e">
 
 <!ENTITY identity.unverifiedsite2 "Wɛbsaet yi mma obiara ne ho nsɛm.">
 <!ENTITY identity.connectedTo "Wo akɔnɛkte akɔ">
@@ -553,3 +549,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Synk seisei ara">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">

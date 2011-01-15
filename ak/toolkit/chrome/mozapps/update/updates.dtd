@@ -15,6 +15,8 @@ ma &brandShortName; tumi sɛ ɔnhwehwɛ mma wo otomatikmu.">
 
 <!ENTITY  manualUpdate.title              "Entumi anto so">
 <!ENTITY  manualUpdate.desc               "Banbɔ ne Faako gyina ntoso a ɛho hia ɛho kwan da hɔ, nso wo nni systɛm akwannya a yehia de instɔl. Hu wo systɛm hwɛsofoɔ anaa sansɔ hwɛ firi akawn foforo a ɛwɔ akwannya de instɔɔle sɔftwɛɛ no wɔ kɔmputa no so.">
+<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
 <!ENTITY  manualUpdateGetMsg.label        "Wobetumi anya &brandShortName; vɛɛhyɛn foforo wɔ:">
 
 <!ENTITY  incompatibleCheck.title         "Ɛrehwehwɛ nka-ho biakoyɛ">

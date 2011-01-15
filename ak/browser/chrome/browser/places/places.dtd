@@ -92,8 +92,10 @@
 <!ENTITY col.dateadded.label     "Aka-ho">
 <!ENTITY col.lastmodified.label  "Nsesae a Etwa To">
 
-<!ENTITY search.label                              "Hwehwɛ:">
-<!ENTITY search.accesskey                          "H">
+<!ENTITY search.label                              "Search:">
+<!ENTITY search.accesskey                          "S">
+
+<!ENTITY search.in.label                           "Search in:">
 <!ENTITY search.scopeFolder.label                  "Folda a Wɔapaw">
 <!ENTITY search.scopeFolder.accesskey              "p">
 <!ENTITY search.scopeBookmarks.label               "Mbukmaak">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "Hwɛ-ansa">
 <!ENTITY detailsPane.selectAnItemText.description "Fa aetɛm, hwɛ na sesa ne ho nsɛm">
+
+<!ENTITY find.label               "Search:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "Hwɛ">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "Fa Afeda">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "Fa Saet">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "Fa beebi a wɔasra hɔ kyɛn beebi foforo biara">
+<!ENTITY byMostVisited.accesskey  "w">
+<!ENTITY byLastVisited.label      "Fa Beebi a Wɔkɔɔ hɔ Nnkyɛree">
+<!ENTITY byLastVisited.accesskey  "k">
+<!ENTITY byDayAndSite.label       "Fa Afeda ne Saet">
+<!ENTITY byDayAndSite.accesskey   "d">
