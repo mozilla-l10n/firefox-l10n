@@ -1,0 +1,21 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Ej ansluten">
+<!ENTITY sync.connect               "Anslut">
+<!ENTITY sync.connected             "Ansluten">
+<!ENTITY sync.details               "Detaljer">
+<!ENTITY sync.synchronize           "Aktivera Sync">
+<!ENTITY sync.deviceName            "Den här enheten">
+<!ENTITY sync.disconnect            "Koppla ned">
+<!ENTITY sync.syncNow               "Synka nu">
+
+<!ENTITY sync.setup.title           "Anslut till Sync">
+<!ENTITY sync.setup.jpake           "På en Firefox Sync-ansluten dator, gå till Sync-inställningarna och välj &#x0022;Lägg till enhet&#x0022;">
+<!ENTITY sync.fallback              "Jag har inte tillgång till datorn nu…">
+<!ENTITY sync.setup.manual          "Ange dina Sync-kontouppgifter">
+<!ENTITY sync.account               "Kontonamn">
+<!ENTITY sync.password              "Lösenord">
+<!ENTITY sync.syncKey               "Sync-nyckel">
+<!ENTITY sync.customServer          "Använd en egen server">
+<!ENTITY sync.serverURL             "Server-URL">
+<!ENTITY sync.setup.connect         "Anslut">
+<!ENTITY sync.setup.cancel          "Avbryt">

@@ -1,0 +1,18 @@
+<!ENTITY aboutPage.title                        "Om &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Support">
+<!ENTITY aboutPage.privacyPolicy.label          "Sekretesspolicy">
+<!ENTITY aboutPage.rights.label                 "Lär känna din rättigheter">
+<!ENTITY aboutPage.relNotes.label               "Versionsfakta">
+<!ENTITY aboutPage.credits.label                "Medarbetare">
+<!ENTITY aboutPage.checkForUpdates.button       "Sök efter uppdateringar">
+<!ENTITY aboutPage.checkForUpdates.checking     "Söker efter uppdateringar…">
+<!ENTITY aboutPage.checkForUpdates.none         "Finns inga uppdateringar">
+<!ENTITY aboutPage.checkForUpdates.found        "Uppdatering finns">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+<!ENTITY aboutPage.licenseLink                  "Licensinformation">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">

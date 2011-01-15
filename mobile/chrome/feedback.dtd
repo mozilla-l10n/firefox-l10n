@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader2.label          "Feedback-verktyg">
+
+<!ENTITY feedback.communicate.title     "Kommunicera med oss!">
+<!ENTITY feedback.feedback.title        "Ge feedback">
+<!ENTITY feedback.feedback.good         "Bra">
+<!ENTITY feedback.feedback.bad          "Dåligt">
+
+<!ENTITY feedback.information.title     "Mer information">
+<!ENTITY feedback.about.title           "Om denna beta">
+<!ENTITY feedback.about.button          "Gå till sida">
+
+<!ENTITY feedback.tools.title           "Verktyg">
+<!ENTITY feedback.forceCompat.title     "Gör alla tillägg kompatibla">
+<!ENTITY feedback.errorConsole.title    "Aktivera felkonsolen">
