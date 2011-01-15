@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "Seòladh">
+<!ENTITY reportProblemType           "Seòrsa an duilgheadais">
+<!ENTITY reportDecsription           "Tuairisgeul">
+<!ENTITY reportPlatform              "Ùrlar">
+<!ENTITY reportProduct               "Bathar">
+<!ENTITY reportoscpu                 "SO">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Rèiteachadh an togalaich">
+<!ENTITY reportUseragent             "Useragent">
+<!ENTITY reportLanguage              "Cànan">
+<!ENTITY reportCharset               "Seata charactairean">
+<!ENTITY reportEmail                 "Post-dealain">
+<!ENTITY error                       "Mion-fhiosrachadh air a' mhearachd">
+<!ENTITY faultCode                   "Còd">
+<!ENTITY faultMessage                "Teachdaireachd">

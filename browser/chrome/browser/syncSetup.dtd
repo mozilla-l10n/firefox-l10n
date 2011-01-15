@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Gheibh thu lethbhreac dhen iuchair sioncronachaidh agad ma thèid thu gu roghainnean &syncBrand.shortName.label; air an inneal eile agad 's ma thaghas tu &#x0022;An iuchair sioncronachaidh agam&#x0022; fo &#x0022;Stiùirich an cunntas&#x0022;.">
 <!ENTITY verifying.label              "'Ga dhearbhadh…">
 <!ENTITY resetPassword.label          "Ath-shuidhich am facal-faire">
-<!ENTITY lostSyncKey.label            "Chaill mi an iuchair co-shioncronachaidh agam">
+<!ENTITY resetSyncKey.label           "Chaill mi an t-inneal eile.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Roghainnean a' cho-shioncronachaidh">
