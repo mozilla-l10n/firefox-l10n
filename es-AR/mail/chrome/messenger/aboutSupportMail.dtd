@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
+
+<!ENTITY aboutSupport.accountsTitle "Cuentas de correo y noticias">
+<!ENTITY aboutSupport.showPrivateData.mainText "Incluir nombres de cuentas">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
+<!ENTITY aboutSupport.accountsID "Identificador">
+<!ENTITY aboutSupport.accountsName "Nombre">
+<!ENTITY aboutSupport.accountsIncomingServer "Servidor entrante">
+<!ENTITY aboutSupport.accountsOutgoingServers "Servidores salientes">
+<!ENTITY aboutSupport.accountsConnSecurity "Seguridad de la conexión">
+<!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
+<!ENTITY aboutSupport.accountsDefault "Predeterminado?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Enviar por correo electrónico">
