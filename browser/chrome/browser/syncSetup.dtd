@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Kopijo sinhronizacijskega ključa lahko najdete v nastavitvah storitve &syncBrand.shortName.label; vaše druge naprave. Izberite &#x0022;Upravljanje računa&#x0022; in nato &#x0022;Moj sinhronizacijski ključ&#x0022;.">
 <!ENTITY verifying.label              "Preverjanje …">
 <!ENTITY resetPassword.label          "Ponastavi geslo">
-<!ENTITY lostSyncKey.label            "Izgubil sem sinhronizacijski ključ">
+<!ENTITY resetSyncKey.label           "Izgubil sem drugo napravo.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Možnosti sinhronizacije">
