@@ -147,7 +147,7 @@ can reach it easily. -->
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
-<!ENTITY bookmarksMenuButton.tooltip        "Mostrar oa seus marcadores">
+<!ENTITY bookmarksMenuButton.tooltip        "Mostrar os seus marcadores">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores desorganizados">
 <!ENTITY viewBookmarksSidebar.label         "Mostrar na barra lateral">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de ferramentas dos marcadores">
