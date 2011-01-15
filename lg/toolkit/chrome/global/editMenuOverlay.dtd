@@ -27,5 +27,5 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "m">
-<!ENTITY findPreviousCmd.label     "Zuula by'Ovuddemu">
-<!ENTITY findPreviousCmd.accesskey "'">
+<!ENTITY findPreviousCmd.label     "Zuula byemabega">
+<!ENTITY findPreviousCmd.accesskey "e">

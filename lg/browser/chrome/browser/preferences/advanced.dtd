@@ -17,8 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Kozesa aketwala akaguu">
 <!ENTITY useSmoothScrolling.accesskey    "k">
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.label              "Kozesa enyanguya ye ebyuma webanga weri">
+<!ENTITY allowHWAccel.accesskey          "e">
 <!ENTITY checkSpelling.label             "Kebera epandika yange nga wandiika">
 <!ENTITY checkSpelling.accesskey         "w">
 
@@ -28,8 +28,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "k">
 <!ENTITY checkNow.label                  "Kebera Kkati">
 <!ENTITY checkNow.accesskey              "K">
-<!ENTITY submitCrashes.label             "Submit crash reports">
-<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitCrashes.label             "Wayo alipota zo kuzikirira">
+<!ENTITY submitCrashes.accesskey         "W">
 
 <!ENTITY networkTab.label                "Omukutu">
 
@@ -47,21 +47,21 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY limitCacheSizeBefore.label      "Tekawo Ekikomo kubi jukirwa">
+<!ENTITY limitCacheSizeBefore.accesskey  "E">
+<!ENTITY limitCacheSizeAfter.label       "MB ey'ekyifo">
 <!ENTITY clearCacheNow.label             "JJawo Kkati">
 <!ENTITY clearCacheNow.accesskey         "J">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.label    "Sukuluma ku enzirukanya ye terekero eyekola yoka">
+<!ENTITY overrideSmartCacheSize.accesskey "S">
 
 <!ENTITY updateTab.label                 "Longosa">
 
 <!ENTITY autoCheck.label                 "Akakebere akaberawo kulwo ku longosa:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Add-ons">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableAddonsUpdate2.label       "Ebigattibwako">
+<!ENTITY enableAddonsUpdate2.accesskey   "a">
 <!ENTITY enableSearchUpdate.label        "Yingini Ezinoonya">
 <!ENTITY enableSearchUpdate.accesskey    "a">
 <!ENTITY whenUpdatesFound.label          "Mu kulongosa ku &brandShortName; bizuunse:">

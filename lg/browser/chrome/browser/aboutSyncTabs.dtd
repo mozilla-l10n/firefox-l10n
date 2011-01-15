@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
-<!ENTITY tabs.otherComputers.label               "Tabs From Other Computers">
+<!ENTITY tabs.otherComputers.label               "Amapeesa okuva ku komputa endala">
 
 <!ENTITY tabs.searchText.label                   "Type here to find tabs…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):

@@ -8,7 +8,7 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Ensibukko yee: ">
 
-<!ENTITY fileMenu.label "Fayilo">
+<!ENTITY fileMenu.label "Fayiro">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Tereka Omuko Nga…">
 <!ENTITY savePageCmd.accesskey "N">

@@ -3,24 +3,24 @@
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
+<!ENTITY abouthome.pageTitle "&brandFullName; Omuko Ogusooka">
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
 
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Wetandikira">
 
 <!ENTITY abouthome.searchEngineButton.label "Noonya">
 
 <!ENTITY abouthome.searchEngineLinks.advanced "Okunoonya okwekika ekya waggulu">
 <!ENTITY abouthome.searchEngineLinks.preferences "Okweroboza">
 
-<!ENTITY abouthome.aboutMozilla "About Mozilla">
+<!ENTITY abouthome.aboutMozilla "Ebikwata ku Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Webale kulonda Firefox! Okufuna omuwendo ogwa wagulu, manya ebisingawo ku <a>byekola ebibya</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->

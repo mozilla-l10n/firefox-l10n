@@ -44,11 +44,11 @@
 <!ENTITY  copy.label            "Koppa">
 <!ENTITY  copy.accesskey        "K">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Londa Byonna">
+<!ENTITY  selectall.label       "Londa Byonna , Londa byoona">
 <!ENTITY  selectall.accesskey   "B">
 <!ENTITY  closeWindow.key       "w">
 
-<!ENTITY  generalTab            "Ekyawamu">
+<!ENTITY  generalTab            "Ekyawamu, mu bwoona">
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Endagiriro:">
 <!ENTITY  generalType           "Engeri:">
@@ -56,7 +56,7 @@
 <!ENTITY  generalSize           "Ekyenkano:">
 <!ENTITY  generalReferrer       "Okujulira URL:">
 <!ENTITY  generalSource         "Ensibukko ye Tterekero lye kisera:">
-<!ENTITY  generalModified       "Kyalongoosebwa:">
+<!ENTITY  generalModified       "Kyalongoosebwa: kilongosedwa:">
 <!ENTITY  generalEncoding       "Empandiika enekusifu:">
 <!ENTITY  generalMetaName       "Erinnya">
 <!ENTITY  generalMetaContent    "Ebirimu">
@@ -69,7 +69,7 @@
 <!ENTITY  mediaText             "Ebigambo Ebye'kwatagana:">
 <!ENTITY  mediaAltHeader        "Ebigambo ebirondwaako">
 <!ENTITY  mediaAddress          "Endagiriro">
-<!ENTITY  mediaType             "Engeri">
+<!ENTITY  mediaType             "Ekikaa">
 <!ENTITY  mediaSize             "Obunene">
 <!ENTITY  mediaCount            "Bala">
 <!ENTITY  mediaDimension        "Obugazi:">
@@ -78,25 +78,25 @@
 <!ENTITY  mediaSaveAs           "Tereka nga…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Okulabako ku Mukutu:">
+<!ENTITY  mediaPreview          "Okubikulilwa:">
 
 <!ENTITY  feedTab               "Ebitekebwaamu">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Wewandiise">
+<!ENTITY  feedSubscribe         "Okwewandisa">
 <!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Olukusa">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Kozesa Eky'enkalakalira">
 <!ENTITY  permAskAlways         "Bulijjo sambaa">
-<!ENTITY  permAllow             "Kiriza">
+<!ENTITY  permAllow             "Kkiriza">
 <!ENTITY  permAllowSession      "Kiriza ku Lw'ekiseera">
 <!ENTITY  permBlock             "Zibikira">
 <!ENTITY  permissionsFor        "Olukusa lwa:">
 <!ENTITY  permImage             "Ttika Ebifananyi">
 <!ENTITY  permPopup             "Gulawo Amadirisa Ageggulawo gokka">
 <!ENTITY  permCookie            "Tegeka Kuki">
-<!ENTITY  permInstall           "Tteekamu Ekyongerebwako oba Omulamwa">
+<!ENTITY  permInstall           "Tekaa mu  obwongerezebwako oba endabika">
 <!ENTITY  permGeo               "Gabanya Ekifo">
 
 <!ENTITY  permIndexedDB              "Maintain Offline Storage">
@@ -113,7 +113,7 @@
 
 <!ENTITY  securityView.identity.header   "Ekilaga Olutimbe kumukutu gw'ensi yonna">
 <!ENTITY  securityView.identity.owner    "Nnanyini:">
-<!ENTITY  securityView.identity.domain   "Olutimbe kumukutu gw'ensi yonna:">
+<!ENTITY  securityView.identity.domain   "Ekitimba kye mpuliziganya:">
 <!ENTITY  securityView.identity.verifier "Kikakasiddwa:">
 
 <!ENTITY  securityView.privacy.header                   "Byakyama &amp; Byafaayo">

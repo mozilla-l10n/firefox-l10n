@@ -10,26 +10,24 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Obuyambi">
 <!ENTITY helpMenuWin.accesskey    "O">
-<!ENTITY aboutProduct.label       "About &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "A">
-<!ENTITY productHelp.label        "&brandShortName; Help">
-<!ENTITY productHelp.accesskey    "H">
+<!ENTITY aboutProduct.label       "Ebikwata ku &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "E">
+<!ENTITY productHelp.label        "&brandShortName; Obuyambi">
+<!ENTITY productHelp.accesskey    "O">
 <!ENTITY helpForIEUsers.label     "Lwa Abakozzesa Ekkubo eriggula Omukutu gwensiyonna">
 <!ENTITY helpForIEUsers.accesskey "A">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.label       "Tandika komputa ng'omaze okunafuya Ebyokwongerako">
+<!ENTITY helpSafeMode.accesskey   "T">
 
 <!ENTITY helpReleaseNotes.label         "Ta Ebiwandiiko">
 <!ENTITY helpReleaseNotes.accesskey     "E">
 
-<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.label      "Amawulire ku kugonjoola obuzibu">
+<!ENTITY helpTroubleshootingInfo.accesskey  "A">
 
-<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
-
-<!ENTITY updateCmd.label                "Kebera ku Nkyukakyuka…">
+<!ENTITY helpFeedbackPage.label      "Waayo endowooza yo..">
+<!ENTITY helpFeedbackPage.accesskey  "W">
 
 <!ENTITY preferencesCmdMac.label        "Ebyokwelobozaamu…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

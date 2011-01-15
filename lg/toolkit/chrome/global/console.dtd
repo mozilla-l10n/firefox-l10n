@@ -37,7 +37,7 @@
 
 <!ENTITY errorConsole.title "Ensobi ya kosolu">
 
-<!ENTITY errFile.label   "Ensibuko ya failo:">
+<!ENTITY errFile.label   "Ensibuko ya fayiro:">
 <!ENTITY errLine.label   "Omusitale:">
 <!ENTITY errColumn.label "Omusimbalala:">
 

@@ -1,43 +1,40 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label          "Tandikawo &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "T">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ekusobozesa okufuna ebyafaayo byo, obulambe, ebisumuluzo era neggula amapeesa ku kyuma kyo.">
 <!-- The page shown when logged in... -->
-
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentAccount.label         "Current Account:">
 <!-- Login error feedback -->
 
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+
+<!ENTITY updatePass.label             "Tusaganya">
+<!ENTITY resetPass.label              "Ddamu otegeke">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.label          "Fuga Akawunta">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY stopUsingAccount.label       "Stop Using This Account">
-<!-- Sync Settings -->
+<!ENTITY viewQuota.label              "Laba essalira">
+<!ENTITY changePassword.label         "Kyusa Akasuumulizo">
+<!ENTITY mySyncKey.label              "Akasumuluzo kange Akakwanaganya">
+<!ENTITY resetSync.label              "Ddamu okwanaganye">
+<!ENTITY addDevice.label              "Add a Device">
 
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncMy.label               "Kwanaganya">
+<!ENTITY engine.bookmarks.label     "Obulambe">
+<!ENTITY engine.bookmarks.accesskey "l">
+<!ENTITY engine.tabs.label          "Awaddirira">
+<!ENTITY engine.tabs.accesskey      "A">
+<!ENTITY engine.history.label       "Ebyafaayo">
+<!ENTITY engine.history.accesskey   "f">
+<!ENTITY engine.passwords.label     "Ebisumuluzo">
+<!ENTITY engine.passwords.accesskey "E">
+<!ENTITY engine.prefs.label         "Okweroboza">
+<!ENTITY engine.prefs.accesskey     "z">
+<!-- Device Settings -->
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY syncComputerName.label       "Elinnya lya Kompuuta:">
+<!ENTITY syncComputerName.accesskey   "E">
+<!ENTITY deactivateDevice.label       "Deactivate This Device">
 <!-- Footer stuff -->
 
-
-<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.tosLink.label        "Amateeka g'empeereza">
 <!ENTITY prefs.ppLink.label         "Enkola eyekyama egobelerwa">

@@ -27,7 +27,7 @@
 <!ENTITY view.search.label                    "Noonya">
 <!ENTITY view.discover.label                  "Funa Ebigattibwako">
 <!ENTITY view.locales.label                   "Ennimi">
-<!ENTITY view.searchengines.label             "Search Engines">
+<!ENTITY view.searchengines.label             "Yingini Ezinoonya">
 <!ENTITY view.features.label                  "Ekyongezayo">
 <!ENTITY view.appearance2.label               "Ndabika">
 <!ENTITY view.plugins.label                   "Ebigattibwako">
@@ -39,8 +39,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Laba okutuukanya okukoleddwa emabegako">
 <!ENTITY updates.viewUpdates.accesskey        "L">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Tuukanya Ebyongerwako wekka">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "E">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Tegeka ebyokwongerako byonna byetuukanye byokka">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
 <!ENTITY updates.resetUpdatesToManual.label          "Tegeka ebyokwongerako byonna bituusaganyizibwe ">
@@ -78,9 +87,9 @@
 <!ENTITY cmd.installAddon.accesskey           "T">
 <!ENTITY cmd.uninstallAddon.label             "Remove">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "Options">
+<!ENTITY cmd.showPreferencesWin.label         "Ebyokwerobozaako">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Kyusa ebyokweroboza kw' ebyongerwako ">
-<!ENTITY cmd.showPreferencesUnix.label        "Preferences">
+<!ENTITY cmd.showPreferencesUnix.label        "Byololonzeko">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Kyusa ebyokulondako by'ekyongerwako kino">
 <!ENTITY cmd.contribute.label                 "waayo">
 <!ENTITY cmd.contribute.accesskey             "w">
@@ -157,9 +166,9 @@
 <!ENTITY search.filter2.available.tooltip     "Laga ebyongerwako ebiriwo ebyokuteekako">
 
 <!ENTITY addon.homepage                       "Omuko ogusooka">
-<!ENTITY addon.details.label                  "More">
+<!ENTITY addon.details.label                  "Ebisingawo">
 <!ENTITY addon.details.tooltip                "Laga ebisingawo ku kyongerwako kuno">
-<!ENTITY addon.unknownDate                    "Unknown">
+<!ENTITY addon.unknownDate                    "Tekimanyiddwa">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -169,20 +178,25 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Update">
-<!ENTITY addon.undoAction.label               "Undo">
+<!ENTITY addon.undoAction.label               "Ddayo">
 <!ENTITY addon.undoAction.tooltip             "Z'emabega ekikolwa ">
-<!ENTITY addon.undoRemove.label               "Undo">
+<!ENTITY addon.undoRemove.label               "Ddayo">
 <!ENTITY addon.undoRemove.tooltip             "Kuuma ekyongerwako kino nga kiteekeddwako">
 <!ENTITY addon.restartNow.label               "Tandika nate kati">
-<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.label                  "Tteekamu">
 <!ENTITY addon.install.tooltip                "Teekako ekyongerwako kino">
 <!ENTITY addon.updateNow.label                "Tuukanya kati">
 <!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
 <!ENTITY addon.includeUpdate.label            "Include in Update">
 <!ENTITY addon.updateAvailable.label          "Eky'okutuukanya w'ekiri">
 <!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
-<!ENTITY addon.releaseNotes.label             "Release Notes:">
+<!ENTITY addon.releaseNotes.label             "Ebiwandiiko bye Enfulumya:">
 <!ENTITY addon.loadingReleaseNotes.label      "Loading…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ngolabye, naye waabaddewo ensobi mu kuteekayo eby'okuyiga ebifulumiziddwa">
 
 <!ENTITY addon.createdBy.label                "Ne">
+
+<!ENTITY eula.title                           "Ekisanyizzo Eky'endagano Yomukozesa">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Kkiriza era Otekemu…">

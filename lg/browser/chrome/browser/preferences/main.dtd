@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Laga omuko agusookerwako">
 <!ENTITY startupBlankPage.label    "Laga omuko omweerere">
 <!ENTITY startupLastSession.label  "Laga ndinisa n'awaddirira wange okuva akaseera akasembayo">
-<!ENTITY homepage.label            "Home Page:">
-<!ENTITY homepage.accesskey        "P">
+<!ENTITY homepage.label            "Omuko ogusookerwako:">
+<!ENTITY homepage.accesskey        "O">
 <!ENTITY useCurrentPage.label      "Kozesa Omuko Ogw'obuliwo">
 <!ENTITY useCurrentPage.accesskey  "O">
 <!ENTITY useMultiple.label         "Kozesa emiko Ej'obuliwo">

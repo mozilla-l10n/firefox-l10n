@@ -1,6 +1,6 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Yingiza endagiriro y'ekyapa (URL), oba yawulawo failo gyewandiyagade okugulawo:">
+<!ENTITY enter.label "Yingiza endagiriro y'ekyapa (URL), oba yawulawo fayiro gyewandiyagade okugulawo:">
 <!ENTITY chooseFile.label "Londako Fayiro…">
 <!ENTITY newTab.label "Awaddirira Awapya">
 <!ENTITY newWindow.label "Eddirisa Empya">

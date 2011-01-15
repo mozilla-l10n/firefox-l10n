@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Obuzibu mukutikka omuko">
-<!ENTITY retry.label "Try Again">
+<!ENTITY retry.label "Gezako Nate">
 <!-- Specific error messages -->
 
 
@@ -56,14 +56,14 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.title "Ekika kya'Fayiro Ekyomutawaana">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Please contact the website owners to inform them of this problem.</li>
@@ -108,13 +108,13 @@ nti &brandShortName; ekirizibwa okukozesa omukutu.</li>
 <li>kino kiyinza okuba nga kiva ku ntegeka etari nnuŋŋamu okuva ku kompyuta enfuzi.</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "Obuyunzi okwesigika kugaanye">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Olutimbe lw`ogezaako okulaba telusobola kulagibwa kubanga obutuufu bw`obubaka obufuniddwa tebusobodde kukakasibwa.</li> 
 <li>Osabibwa okwatagane ne bannannyini mutimbo obategeeze ku buzibu buno. Oba, weeyambise endagiriro esangibwa mu lukalala oluyambi owaabe okuziŋŋama kw`olutimbo luno.</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "Okuyungibwa Okweigibwa kugaanye">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Kino kisobola okuba ekizibu ekivudde ku nteekateeka ya enviisirizi kagaba, oba kisobola okuba 
 nga waliwo agezaako okwefuula kagaba.</li> 
@@ -131,17 +131,13 @@ eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osob
  nti &brandShortName; ekkirizibwa okweyambisa omutimbagano.</li> 
  </ul>">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.title "Ekibanja Ekiteberezebwa Okulumbaganya!">
+<!ENTITY malwareBlocked.longDesc "<p>Ebibanja ebilumba, bigezako okuteka mu kompyuta yo entekateka ezibba amawulire,okukozesa kompyuta yo okulumba kompyuta endala,oba okwonona kompyuta yo.</p> 
+<p>Bananyini byapa byolutimbagano abalowooza nti ebyapa byabwe biropedwa nga ebyapa ebilumba naye mubu kyamu,bayinza <a href='http://www.stopbadware.org/home/reviewinfo' >okusaba okwekebejebwa</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.title "Kiteeberezebwa waliwo okujingirira kulutimbe!">
+<!ENTITY phishingBlocked.longDesc "<p>Okuyingiza amawulire gonna ago'bwanannyini ku muko guno kiyinza okuvirako okubbibwa kwekiraga oba okukumpanya okwengeri endala.</p> 
+<p>bino ebika byobukumpanya mu'ntiimbe bikozesebwa mu butali bwesimbu nga obukumpanya obugenderedwamu okubba amawlire agomugaso, mukukozsa entimbagano ezo'bukumpanya ne meyilo okwefanaanyiriza ensibukko zo'yinza okwesiga.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">

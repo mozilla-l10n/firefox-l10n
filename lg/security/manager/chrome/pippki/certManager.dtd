@@ -48,9 +48,9 @@
 
 <!ENTITY certmgr.mine                         "Oyina santifikati kuva mu bitigole ebikugambawo:">
 <!ENTITY certmgr.others                       "Orina santifikati kufailo ezogelaku bantu bano:">
-<!ENTITY certmgr.websites2                    "Oyina santifikates ku failo eziranga kompyuta ezifuunga zinazo:">
+<!ENTITY certmgr.websites2                    "Oyina santifikates ku fayiro eziranga kompyuta ezifuunga zinazo:">
 <!ENTITY certmgr.cas                          "Orina santifikati kufailo ezogela ku bunyiza bwasantifikati zino:">
-<!ENTITY certmgr.orphans                      "Oyina santifakate ku failo ezitanyiza kutukamu mu gero zzona:">
+<!ENTITY certmgr.orphans                      "Oyina santifakate ku fayiro ezitanyiza kutukamu mu gero zzona:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Byonaa">
 <!ENTITY certmgr.detail.general_tab.accesskey "B">
@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "k">
 
 <!ENTITY exceptionMgr.title                   "Ggataa Ebyokwerida Okundawo">
-<!ENTITY exceptionMgr.exceptionButton         "Kakasa Ebyokwerida Okundawo">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Zabaki, amateerekero, ne wakale awalala awakumee tteewa kusaba kukola kino.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Wosaggirwa:">

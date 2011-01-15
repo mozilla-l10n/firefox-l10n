@@ -24,17 +24,17 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "Pin as App Tab">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Unpin Tab">
+<!ENTITY  pinAppTab.label                    "Kitwale ng'ekibembekeddwako">
+<!ENTITY  pinAppTab.accesskey                "K">
+<!ENTITY  unpinAppTab.label                  "Taggululako Tabu">
 <!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  moveToGroup.label                  "Move to Group">
-<!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "New Group">
-<!ENTITY  moveToNewWindow.label              "Move to New Window">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  moveToGroup.label                  "Teeka mu Kibinja">
+<!ENTITY  moveToGroup.accesskey              "T">
+<!ENTITY  moveToNewGroup.label               "Kibinja kippya">
+<!ENTITY  moveToNewWindow.label              "Teeka mu Ddirisa ppya">
+<!ENTITY  moveToNewWindow.accesskey          "D">
+<!ENTITY  bookmarkAllTabs.label              "Lamba Awaddirira Wona…">
+<!ENTITY  bookmarkAllTabs.accesskey          "A">
 <!ENTITY  undoCloseTab.label                 "Dyamu Oggalewo Awaddirira">
 <!ENTITY  undoCloseTab.accesskey             "D">
 <!ENTITY  closeTab.label                     "Ggalawo Awaddirira">
@@ -71,7 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Obulambe bw'Akabawo kebikozesa Ebintu">
 <!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Ensibuko y'Omuko">
 <!ENTITY pageSourceCmd.accesskey "n">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "We wandiise ku Muko Guno">
 <!ENTITY subscribeToPageMenuitem.label "Wewandiise ku Mukko Guno…">
 <!ENTITY addCurPagesCmd.label "Lamba Awaddirira Wona…">
-<!ENTITY showAllBookmarks.label "Show All Bookmarks…">
+<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
 <!ENTITY bookmarkAllCmd.label "Lamba Awaddirira Wona…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Laga obulambe obulala">
 
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Mumaaso">
 <!ENTITY forwardCmd.accesskey         "M">
 <!ENTITY forwardButton.tooltip        "Genda mu maaso omuko gumu">
-<!ENTITY backForwardMenu.tooltip      "Emiko egibadewo">
 <!ENTITY reloadCmd.label              "Ddamu otikke">
 <!ENTITY reloadCmd.accesskey          "D">
 <!ENTITY reloadButton.tooltip         "Ddamu otikke omuko gwolaba">
@@ -125,21 +124,21 @@ can reach it easily. -->
 <!ENTITY printButton.label            "Fulumya">
 <!ENTITY printButton.tooltip          "Fulumya omuko guno">
 
-<!ENTITY backForwardItem.title        "Back/Forward">
+<!ENTITY backForwardItem.title        "Mabega/Mu maaso">
 <!ENTITY locationItem.title           "Ekifo">
 <!ENTITY searchItem.title             "Noonya">
 <!ENTITY throbberItem.title           "Akalagirira Eky'okukola">
 <!ENTITY bookmarksItem.title          "Bookmarks">
 <!-- Toolbar items --> 
 
-<!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY appMenuButton.label          "Eby'okulondako">
+<!ENTITY appMenuButton.tooltip        "Ggulawo &brandShortName; eby'okulondako">
 <!ENTITY homeButton.label             "Eka">
 
-<!ENTITY tabGroupsButton.label        "Tab Groups">
-<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+<!ENTITY tabGroupsButton.label        "Bibinja bya Mapeesa">
+<!ENTITY tabGroupsButton.tooltip      "Teeka mu Bibinja Amapeesa go">
 
-<!ENTITY feedButton.label             "Subscribe">
+<!ENTITY feedButton.label             "Wagira">
 <!ENTITY feedButton.tooltip           "Wewandiise ku muko guno…">
 
 <!ENTITY bookmarksButton.label          "Obulambe">
@@ -150,8 +149,8 @@ can reach it easily. -->
 <!ENTITY bookmarksMenuButton.label          "Bookmarks">
 <!ENTITY bookmarksMenuButton.tooltip        "Display your bookmarks">
 <!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
-<!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
-<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
+<!ENTITY viewBookmarksSidebar.label         "Lagira mu mulabba gwa wabbali">
+<!ENTITY viewBookmarksToolbar.label         "Labba  Akabawo  kebikola Akobulambe">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -184,30 +183,30 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey    "M">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.label          "Kusanyusa kw'omutimbagano">
+<!ENTITY webConsoleCmd.accesskey      "K">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Inspect">
-<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.label            "Lambula">
+<!ENTITY inspectMenu.accesskey        "a">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspect">
-<!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Next">
-<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectButton.label          "Lambula">
+<!ENTITY inspectButton.accesskey      "L">
+<!ENTITY inspectNextButton.label      "Kirala">
+<!ENTITY inspectNextButton.accesskey  "K">
 <!ENTITY inspectPreviousButton.label  "Ekiyise">
 <!ENTITY inspectPreviousButton.accesskey "E">
-<!ENTITY inspectStyleButton.label     "Style">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Style">
+<!ENTITY inspectStyleButton.label     "Nkola">
+<!ENTITY inspectStyleButton.accesskey "N">
+<!ENTITY inspectStylePanelTitle.label  "Nkola">
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Object">
-<!ENTITY inspectObjectButton.accesskey   "O">
+<!ENTITY inspectObjectButton.label       "Ekintu">
+<!ENTITY inspectObjectButton.accesskey   "E">
 
 <!ENTITY fileMenu.label         "Fayiro">
 <!ENTITY fileMenu.accesskey       "F">
@@ -217,9 +216,9 @@ can reach it easily. -->
 
 <!ENTITY editMenu.label         "Longoosa">
 <!ENTITY editMenu.accesskey       "L">
-<!ENTITY undoCmd.label            "Ddayo">
+<!ENTITY undoCmd.label            "Undo">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "D">
+<!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "Ddamu">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "D">
@@ -238,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Londa Byonna">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "B">
-<!ENTITY preferencesCmd.label       "Ebilondebwaako…">
-<!ENTITY preferencesCmd.accesskey     "E">
+<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Ebyerobozebwa">
 <!ENTITY preferencesCmdUnix.accesskey     "z">
 
@@ -255,43 +254,43 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Laga">
 <!ENTITY viewMenu.accesskey       "L">
-<!ENTITY viewTabGroups.label            "Tab Groups">
-<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabGroups.label            "Mapeesa ge ebibina">
+<!ENTITY viewTabGroups.accesskey        "e">
 <!ENTITY viewToolbarsMenu.label       "Akabawo kebikozesebwa">
 <!ENTITY viewToolbarsMenu.accesskey     "A">
 <!ENTITY viewSidebarMenu.label "Olusangiro lw'emabbali">
 <!ENTITY viewSidebarMenu.accesskey "o">
 <!ENTITY viewCustomizeToolbar.label       "Kifuule ky'oyagala…">
 <!ENTITY viewCustomizeToolbar.accesskey     "K">
-<!ENTITY viewTabsOnTop.label            "Tabs on Top">
-<!ENTITY viewTabsOnTop.accesskey        "T">
+<!ENTITY viewTabsOnTop.label            "Mapeesa kungulu">
+<!ENTITY viewTabsOnTop.accesskey        "M">
 
 <!ENTITY historyMenu.label "Ebyafayo">
 <!ENTITY historyMenu.accesskey "f">
 <!ENTITY historyUndoMenu.label "Awadirira Egyakaggalibwawo">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Amadiriisa Agakaggalibwawo">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.label "Zzaawo ebyabaddewo">
 
 <!ENTITY historyHomeCmd.label "Eka">
 <!ENTITY showAllHistoryCmd2.label "Laga Ebyafayo Byonna">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Edit">
-<!ENTITY appMenuCustomize.label "Customize">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
-<!ENTITY appMenuSidebars.label "Sidebars">
+<!ENTITY appMenuEdit.label "Longoosa">
+<!ENTITY appMenuCustomize.label "Fula">
+<!ENTITY appMenuToolbarLayout.label "Endabika y'omulabba gw'ebikozesebwa">
+<!ENTITY appMenuSidebars.label "Olusangiro lw'emabbali">
 <!ENTITY appMenuFind.label "Find…">
 <!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuWebDeveloper.label "Omuzimbi w'emitimbagano">
 <!ENTITY appMenuGettingStarted.label "Entandika">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuSafeMode.label "Tandika ng'eby'okwongerako banafuyiziddwa">
+<!ENTITY appMenuSafeMode.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Go to a Web Site">
+<!ENTITY urlbar.placeholder           "Genda ku kibanja ku mutimbagano">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+<!ENTITY urlbar.switchToTab.label     "Kyuusa ku Mapeesa">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -321,8 +320,8 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "A">
 <!ENTITY openLinkCmd.label            "Ggulawo Akayungiro mu Ddirisa Epya">
 <!ENTITY openLinkCmd.accesskey        "D">
-<!ENTITY openLinkCmdInCurrent.label     "Open Link">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openLinkCmdInCurrent.label     "Ggulawo omukutu">
+<!ENTITY openLinkCmdInCurrent.accesskey "G">
 <!ENTITY openFrameCmdInTab.label      "Ggulawo Olugo mu Wadirira Awapya">
 <!ENTITY openFrameCmdInTab.accesskey  "W">
 <!ENTITY openFrameCmd.label           "Ggulawo Olugo mu Ddirisa Epya">
@@ -460,9 +459,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Laaga eddirisa nga lijuvu">
 
-<!ENTITY zoomOutButton.tooltip          "Zoom out">
-<!ENTITY zoomInButton.tooltip           "Zoom in">
-<!ENTITY zoomControls.label             "Zoom Controls">
+<!ENTITY zoomOutButton.tooltip          "Zimbulukusa">
+<!ENTITY zoomInButton.tooltip           "Funza munda">
+<!ENTITY zoomControls.label             "Zimbulukusa Ebipimo">
 
 <!ENTITY quitApplicationCmdWin.label       "Jjawo">
 <!ENTITY quitApplicationCmdWin.accesskey   "j">
@@ -515,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Kiwedde">
 <!ENTITY editBookmark.cancel.label                   "Sazaamu">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Jjulula">
-<!ENTITY editBookmark.undo.accessKey                 "J">
-<!ENTITY editBookmark.edit.label                     "Longosa…">
-<!ENTITY editBookmark.edit.accessKey                 "L">
 
 <!ENTITY identity.unverifiedsite2 "Olutimbe luno teluwa bubaka obunyonnyola.">
 <!ENTITY identity.connectedTo "Oyungiddwa ku">
@@ -542,15 +537,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY allTabs.filter.emptyText "Nnonya Awaddirira">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Browser tabs">
+<!ENTITY tabsToolbar.label "Amapeesa aganonya">
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
+<!ENTITY syncTabsMenu.label     "Amapeesa okuva ku komputa endala">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Kwanaganya">
 
 <!ENTITY syncSetup.label              "Set Up &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncSyncNowItem.label        "Sync Now">
-<!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncSyncNowItem.label        "Kwanaganya kati">
+<!ENTITY syncSyncNowItem.accesskey    "K">
+<!ENTITY syncToolbarButton.label      "Kwanaganya">
+
+<!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">

@@ -92,8 +92,10 @@
 <!ENTITY col.dateadded.label     "Kigattiddwako">
 <!ENTITY col.lastmodified.label  "Kyasemba Kutereezebwa">
 
-<!ENTITY search.label                              "Noonya:">
-<!ENTITY search.accesskey                          "N">
+<!ENTITY search.label                              "Search:">
+<!ENTITY search.accesskey                          "S">
+
+<!ENTITY search.in.label                           "Search in:">
 <!ENTITY search.scopeFolder.label                  "Etterekero Elilondedwa">
 <!ENTITY search.scopeFolder.accesskey              "E">
 <!ENTITY search.scopeBookmarks.label               "Obulambe">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "b">
 <!ENTITY detailsPane.noPreviewAvailable.label "Kwetegereza">
 <!ENTITY detailsPane.selectAnItemText.description "Londayo ekintu nga bw'okirongoosamu">
+
+<!ENTITY find.label               "Search:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "Endabika">
+<!ENTITY view.accesskey           "a">
+<!ENTITY byDate.label             "Ku Nnaku z'omwezi">
+<!ENTITY byDate.accesskey         "N">
+<!ENTITY bySite.label             "Ku Kibanja">
+<!ENTITY bySite.accesskey         "K">
+<!ENTITY byMostVisited.label      "Ku Kisinga Okukyalirwa">
+<!ENTITY byMostVisited.accesskey  "O">
+<!ENTITY byLastVisited.label      "Ku Kisembyeyo Okukyalirwa">
+<!ENTITY byLastVisited.accesskey  "K">
+<!ENTITY byDayAndSite.label       "Ku Lunaku n'Ekibanja">
+<!ENTITY byDayAndSite.accesskey   "n">

@@ -1,5 +1,5 @@
 <!ENTITY loadError.label "Ensobi Mukutikka Omuko">
-<!ENTITY retry.label "Try Again">
+<!ENTITY retry.label "Gezako Nate">
 <!-- Specific error messages -->
 
 
@@ -28,10 +28,10 @@
 <!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 <!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
 <!ENTITY contentEncodingError.longDesc "<p>Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa ennyiga yo lugo etewagiddwa oba tekkirizidwa.</p><ul><li>Bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.title "Ekika kya'Fayiro Ekyomutawaana">
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> 
 </ul>">
@@ -57,26 +57,22 @@
 <!ENTITY unknownSocketType.title "Okuddibwamu Kukyamu">
 <!ENTITY unknownSocketType.longDesc "<p>Ekibanja kikkiriza okusaba kw'enkwataganya mu ngeri etasuubirwa era akanoonya tekasobodde kweyongerayo.</p>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "Okunnyungibwa Okwesigika Kuganye">
 <!ENTITY nssFailure2.longDesc "<p>Omuko gw'ogezaako okulaba teguyinza kulagibwa, kubanga ensibuko y'ebiwandiiko tekakasiddwa .</p><ul><li>Bambi kwatagana nebananyini mukutu okubategeeze ku kizibu kino.</li></ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "Okunnyungibwa Okwesigika Kugaanye">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Kino kiyinza okubeera ekizibu okuva ku ntegeka ya kompyuta engabizi, oba kifananamu omuntu agezaako okukweka obukozesa bwe eri engabizi.</li> 
 <li>Bwoba oyungiddwa bulungi ku kompyuta eno enkulu gyebuvudeko, ensobi eyinza okuba nga ssi yalubeelera, era oyinza okudamu noogezako oluvannyuma.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.title "Ekibanja Ekiteberezebwa Okulumbaganya!">
+<!ENTITY malwareBlocked.longDesc "<p>Ebibanja ebilumba, bigezako okuteka mu kompyuta yo entekateka ezibba amawulire,okukozesa kompyuta yo okulumba kompyuta endala,oba okwonona kompyuta yo.</p> 
+<p>Bananyini byapa byolutimbagano abalowooza nti ebyapa byabwe biropedwa nga ebyapa ebilumba naye mubu kyamu,bayinza <a href='http://www.stopbadware.org/home/reviewinfo' >okusaba okwekebejebwa</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<!ENTITY phishingBlocked.title "Waliwo okutebereza kwo'Mutimbangano nga Gucupula!">
+<!ENTITY phishingBlocked.longDesc "<p>Okuyingiza amawulire gonna ago'bwanannyini ku muko guno kiyinza okuvirako okubbibwa kwekiraga oba okukumpanya okwengeri endala.</p> 
+<p>bino ebika byobukumpanya mu'ntiimbe bikozesebwa mu butali bwesimbu nga obukumpanya obugenderedwamu okubba amawlire agomugaso, mukukozsa entimbagano ezo'bukumpanya ne meyilo okwefanaanyiriza ensibukko zo'yinza okwesiga.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">

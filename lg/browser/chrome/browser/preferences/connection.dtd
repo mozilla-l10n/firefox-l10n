@@ -8,7 +8,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "i">
 <!ENTITY  systemTypeRadio.label         "Kozesa etegeka ya sisitimu puloxi">
 <!ENTITY  systemTypeRadio.accesskey     "K">
-<!ENTITY  WPADTypeRadio.label           "Puloxi owekebera kutegeka kulwo mukutu guno">
+<!ENTITY  WPADTypeRadio.label           "Funa entegeka ya Puloxi sava">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Weterereze puloxi:">
 <!ENTITY  manualTypeRadio.accesskey     "W">
