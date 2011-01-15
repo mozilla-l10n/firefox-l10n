@@ -68,10 +68,10 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Ensaluti">
-<!ENTITY existingSyncKey.description "Vi povas ricevi kopion de via Sync ŝlosilo se vi iras al Opcioj de &syncBrand.shortName.label; en via alia aparato kaj elektas  &#x0022;Mia Sync Ŝlosilo&#x0022; sub &#x0022;Administri konton&#x0022;.">
+<!ENTITY existingSyncKey.description "Vi povas ricevi kopion de via ŝlosilo de spegulado se vi iras al Opcioj de &syncBrand.shortName.label; en via alia aparato kaj elektas  &#x0022;Mia Ŝlosilo de spegulado&#x0022; sub &#x0022;Administri konton&#x0022;.">
 <!ENTITY verifying.label              "Kontrolado…">
 <!ENTITY resetPassword.label          "Reŝargi pasvorton">
-<!ENTITY lostSyncKey.label            "Mi perdis mian ŝlosilon de spegulado">
+<!ENTITY resetSyncKey.label           "Mi perdis mian alian aparaton.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opcioj de spegulado">
