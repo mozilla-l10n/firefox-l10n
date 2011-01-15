@@ -71,7 +71,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "T">
 <!ENTITY bookmarksToolbarItem.label "Diaetheme tša thulupaa ya dipukutshwayo">
 <!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Mothopo wa letlakala">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Ingwadiše letlakaleng le">
 <!ENTITY subscribeToPageMenuitem.label "Ingwadiše letlakaleng le">
 <!ENTITY addCurPagesCmd.label "Pukuswaya dithepo tšohle…">
-<!ENTITY showAllBookmarks.label "Laetša dipukutshwayo tšohle...">
+<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
 <!ENTITY bookmarkAllCmd.label "Pukuswaya dithepo tšohle…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bontšha dipukutshwayo tše oketšegilego">
 
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Pele">
 <!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Eya pele letlakala le tee">
-<!ENTITY backForwardMenu.tooltip      "Matlakala a moragobjale">
 <!ENTITY reloadCmd.label              "Hlahlela gape">
 <!ENTITY reloadCmd.accesskey          "H">
 <!ENTITY reloadButton.tooltip         "Hlahlela letlakala la bjale gape">
@@ -217,9 +216,9 @@ can reach it easily. -->
 
 <!ENTITY editMenu.label         "Lokiša">
 <!ENTITY editMenu.accesskey       "L">
-<!ENTITY undoCmd.label            "Dirolla">
+<!ENTITY undoCmd.label            "Undo">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "D">
+<!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "Dira gape">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "D">
@@ -238,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Kgetha tšohle">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "t">
-<!ENTITY preferencesCmd.label       "Dikgetho…">
-<!ENTITY preferencesCmd.accesskey     "D">
+<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Dikganyogo">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
@@ -515,10 +514,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Dirile">
 <!ENTITY editBookmark.cancel.label                   "Khansela">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Dirolla">
-<!ENTITY editBookmark.undo.accessKey                 "D">
-<!ENTITY editBookmark.edit.label                     "Lokiša…">
-<!ENTITY editBookmark.edit.accessKey                 "L">
 
 <!ENTITY identity.unverifiedsite2 "Wepesaete ye ga e fane ka tshedimošo ya boitsebišo.">
 <!ENTITY identity.connectedTo "O kgokagantšwe go">
@@ -554,3 +549,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Nyalantšha gona bjale">
 <!ENTITY syncSyncNowItem.accesskey    "a">
 <!ENTITY syncToolbarButton.label      "Nyalantšha">
+
+<!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">
