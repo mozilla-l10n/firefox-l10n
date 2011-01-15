@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "Uinneag teachdaireachd a tha fosgailte mu thràth">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Close message window on move or delete">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Dùin uinneag/taba na teachdaireachd nuair a sguabas mi às fear no ma ghluaiseas mi fear">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Lorgar ùrachaidhean airson na leanas leis fhèin:">
