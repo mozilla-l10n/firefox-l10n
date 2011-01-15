@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label                  "Eintrag bearbeiten">
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Terminlänge beim Ändern des Enddatums beibehalten">
+<!ENTITY event.dialog.keepDurationButton.accesskey "h">
 
 <!ENTITY newevent.from.label                "Beginn">
 <!ENTITY newevent.to.label                  "Ende">
