@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ger dig tillgång till din historik, dina bokmärken, lösenord och öppna flikar på alla dina enheter.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-konto">
-<!ENTITY currentAccount.label         "Aktuellt konto:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Uppdatera">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "Byt lösenord">
 <!ENTITY mySyncKey.label              "Min Sync-nyckel">
 <!ENTITY resetSync.label              "Återställ Sync">
-<!ENTITY stopUsingAccount.label       "Sluta använda det här kontot">
 <!ENTITY addDevice.label              "Lägg till enhet">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Webbläsarsynkning">
-<!ENTITY syncComputerName.label       "Datorns namn:">
-<!ENTITY syncComputerName.accesskey   "D">
 
 <!ENTITY syncMy.label               "Synka">
 <!ENTITY engine.bookmarks.label     "Bokmärken">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label         "Inställningar">
 <!ENTITY engine.prefs.accesskey     "n">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Datorns namn:">
+<!ENTITY syncComputerName.accesskey   "D">
+<!ENTITY deactivateDevice.label       "Inaktivera enheten">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjänstevillkor">
