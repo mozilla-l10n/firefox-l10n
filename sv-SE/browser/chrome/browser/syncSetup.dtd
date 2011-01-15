@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Du kan få en kopia av din Sync-nyckel genom att gå till inställningarna i &syncBrand.shortName.label; på din andra enhet och välja &#x0022;Min Sync-nyckel&#x0022; under &#x0022;Hantera konto&#x0022;.">
 <!ENTITY verifying.label              "Verifierar…">
 <!ENTITY resetPassword.label          "Återställ lösenordet">
-<!ENTITY lostSyncKey.label            "Jag har tappat min Sync-nyckel">
+<!ENTITY resetSyncKey.label           "Jag har tappat min andra enhet.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Synkinställningar">
