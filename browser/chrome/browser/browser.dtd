@@ -467,9 +467,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Sair">
-<!ENTITY quitApplicationCmd.accesskey "S">
+<!ENTITY quitApplicationCmd.accesskey "Q">
 <!ENTITY quitApplicationCmdMac.label "Sair do &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key "S">
+<!ENTITY quitApplicationCmdMac.key "Q">
 
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "W">
