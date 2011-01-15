@@ -53,7 +53,7 @@
 <!ENTITY existingSyncKey.description "Чтобы можете получить копию вашего ключа синхронизации, перейдя на другом вашем устройстве в настройки &syncBrand.shortName.label; и выбрав в разделе «Управление учётной записью» команду «Мой ключ синхронизации».">
 <!ENTITY verifying.label "Проверка…">
 <!ENTITY resetPassword.label "Сбросить пароль">
-<!ENTITY lostSyncKey.label "Я потерял мой ключ синхронизации">
+<!ENTITY resetSyncKey.label "Я потерял мое другое устройство">
 <!ENTITY setup.optionsPage.title "Настройки Sync">
 <!ENTITY syncComputerName.label "Имя компьютера:">
 <!ENTITY syncComputerName.accesskey "м">

@@ -2,6 +2,8 @@
 <!ENTITY helpMenu.accesskey "С">
 <!ENTITY helpMenuWin.label "Справка">
 <!ENTITY helpMenuWin.accesskey "С">
+<!ENTITY helpTroubleshootingInfo.label "Информация для решения проблем">
+<!ENTITY helpTroubleshootingInfo.accesskey "ф">
 <!ENTITY releaseCmd.label "Примечания к выпуску">
 <!ENTITY releaseCmd.accesskey "в">
 <!ENTITY whatsNewCmd.label "Что нового">
