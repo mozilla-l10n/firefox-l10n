@@ -64,7 +64,7 @@
 þar   &#x0022;Sync lykillinn minn&#x0022; undir &#x0022;Sýsla með aðgang&#x0022;.">
 <!ENTITY verifying.label "Staðfesti…">
 <!ENTITY resetPassword.label "Endurstilla lykilorð">
-<!ENTITY lostSyncKey.label "Ég er búinn að týna Sync lyklinum mínum">
+<!ENTITY resetSyncKey.label "Ég er búinn að týna hinu tækinu mínu.">
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title "Sync stillingar">
 <!ENTITY syncComputerName.label "Tölvuheiti:">
