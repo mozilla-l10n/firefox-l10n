@@ -80,7 +80,7 @@
 <!ENTITY addDevice.dialog.connected.label   "Ierīce pieslēgta">
 
 
-<!ENTITY lostSyncKey.label            "Man ir pazudusi mana sinhronizācijas atslēga">
+<!ENTITY resetSyncKey.label           "Man ir pazudusi otra ierīce.">
 
 <!-- New Account Page 4: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Lūdzu aplieciniet, ka neesat robots">
