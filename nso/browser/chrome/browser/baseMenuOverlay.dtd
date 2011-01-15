@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Iša dipoelo...">
 <!ENTITY helpFeedbackPage.accesskey  "I">
 
-<!ENTITY updateCmd.label                "Lekola dikaonafatšo…">
-
 <!ENTITY preferencesCmdMac.label        "Dikganyogo…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

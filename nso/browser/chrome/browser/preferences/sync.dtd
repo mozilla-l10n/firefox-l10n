@@ -3,10 +3,8 @@
 <!ENTITY setupButton.accesskey      "B">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; e go dumelela go tsena historing ya gago, dipukutshwayong, mantšuphetišong le go bula dithepo go kgabaganya didirišwa tša gago ka moka.">
 <!-- The page shown when logged in... -->
-
-<!ENTITY accountGroupboxCaption.label "Akhaonto ya &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Akhaonto ya gona bjale:">
 <!-- Login error feedback -->
+
 
 <!ENTITY updatePass.label             "Mpshafatšo">
 <!ENTITY resetPass.label              "Peakanyoleswa">
@@ -18,12 +16,7 @@
 <!ENTITY changePassword.label         "Fetoša lentšuphetišo">
 <!ENTITY mySyncKey.label              "Fetoša mobolelwana wa sephiri">
 <!ENTITY resetSync.label              "Beakanya nyalantšho ka leswa">
-<!ENTITY stopUsingAccount.label       "Emiša go diriša akhaonto ye">
-<!-- Sync Settings -->
-
-<!ENTITY syncPrefsCaption.label       "Nyalantšho ya praosara">
-<!ENTITY syncComputerName.label       "Leina la khomphutha:">
-<!ENTITY syncComputerName.accesskey   "k">
+<!ENTITY addDevice.label              "Add a Device">
 
 <!ENTITY syncMy.label               "Nyalantšha yaka">
 <!ENTITY engine.bookmarks.label     "Dipukutshwayo">
@@ -36,8 +29,12 @@
 <!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "Dikganyogo">
 <!ENTITY engine.prefs.accesskey     "k">
-<!-- Footer stuff -->
+<!-- Device Settings -->
 
+<!ENTITY syncComputerName.label       "Leina la khomphutha:">
+<!ENTITY syncComputerName.accesskey   "k">
+<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Melawana ya tirelo">
 <!ENTITY prefs.ppLink.label         "Pholisi ya sephiri">
