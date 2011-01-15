@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "U">
 <!ENTITY reuseExpRadio1.label          "Una ventana de mensaje existente">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Cerrar ventana del mensaje al mover o borrar">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Cerrar ventana/pestaña del mensaje al mover o borrar">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!-- Update -->
 <!ENTITY autoCheck.label              "Buscar periódicamente actualizaciones para:">

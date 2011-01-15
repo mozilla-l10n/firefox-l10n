@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Puede obtener una copia de su clave de sincronización yendo a las Opciones de &syncBrand.shortName.label; en su otro dispositivo y seleccionando &#x0022;Mi clave de sincronización&#x0022; en &#x0022;Administrar cuenta&#x0022;.">
 <!ENTITY verifying.label              "Verificando…">
 <!ENTITY resetPassword.label          "Restablecer contraseña">
-<!ENTITY lostSyncKey.label            "Perdí mi clave de sincronización">
+<!ENTITY resetSyncKey.label           "He perdido mi otro dispositivo.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opciones de sincronización">
