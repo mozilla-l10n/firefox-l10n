@@ -57,9 +57,9 @@
 <!ENTITY addDevice.title.label              "Lägg till enhet">
 <!ENTITY addDevice.showMeHow.label          "Visa mig hur.">
 <!ENTITY addDevice.dontHaveDevice.label     "Jag har inte enheten med mig">
-<!ENTITY addDevice.setup.description.label  "För att aktivera, gå till inställningarna i &syncBrand.shortName.label; och välj &#x0022;Lägg till enhet&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "Aktivera den här enheten genom att gå till &syncBrand.shortName.label;-inställningarna på den andra enheten och välj ”Lägg till enhet”.">
 <!ENTITY addDevice.setup.enterCode.label    "Ange sedan den här koden:">
-<!ENTITY addDevice.dialog.description.label "För att aktivera den nya enheten, gå till inställningarna i &syncBrand.shortName.label; på enheten och välj &#x0022;Anslut.&#x0022;">
+<!ENTITY addDevice.dialog.description.label "För att aktivera den nya enheten, gå till inställningarna i &syncBrand.shortName.label; på enheten och välj ”Anslut.”">
 <!ENTITY addDevice.dialog.enterCode.label   "Ange koden som enheten ger dig:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Försök igen.">
 <!ENTITY addDevice.dialog.successful.label  "Enheten har lagts till. Den första synkroniseringen kan ta flera minuter och slutförs i bakgrunden.">
@@ -68,7 +68,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Logga in">
-<!ENTITY existingSyncKey.description "Du kan få en kopia av din Sync-nyckel genom att gå till inställningarna i &syncBrand.shortName.label; på din andra enhet och välja &#x0022;Min Sync-nyckel&#x0022; under &#x0022;Hantera konto&#x0022;.">
+<!ENTITY existingSyncKey.description "Du kan få en kopia av din Sync-nyckel genom att gå till inställningarna i &syncBrand.shortName.label; på din andra enhet och välja ”Min Sync-nyckel” under ”Hantera konto”.">
 <!ENTITY verifying.label              "Verifierar…">
 <!ENTITY resetPassword.label          "Återställ lösenordet">
 <!ENTITY resetSyncKey.label           "Jag har tappat min andra enhet.">
