@@ -1,0 +1,12 @@
+<!ENTITY firstrun.title                "Välkommen till &brandShortName;">
+<!ENTITY firstrun.heading2             "Välkommen till &brandShortName;">
+<!ENTITY firstrun.sync2.title          "Synka">
+<!ENTITY firstrun.sync2.description    "Logga in till ditt Sync-konto och dela historik, lösenord, bokmärken och flikar mellan din dator och mobil">
+<!ENTITY firstrun.addons2.title        "Anpassa">
+<!ENTITY firstrun.addons2.description  "Upptäck och installera tillägg som ger ny funktionalitet till &brandShortName;">
+<!ENTITY firstrun.home2.title          "Bläddra">
+<!ENTITY firstrun.home2.description    "Hoppa över detta och gå direkt till din startsida för att börja surfa">
+<!ENTITY firstrun.features             "Se fler funktioner">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Sekretesspolicy">
+<!ENTITY firstrun.follow               "Följ oss på:">

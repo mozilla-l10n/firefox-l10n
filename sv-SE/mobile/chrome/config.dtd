@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "Sök">
+<!ENTITY newpref.label          "Ny inställning">
+<!ENTITY addpref.name           "Namn">
+<!ENTITY addpref.value          "Värde">
+
+<!ENTITY cancel.label           "Avbryt">
+<!ENTITY reset.label            "Återställ">
+<!ENTITY done.label             "Klar">
+
+<!ENTITY integer.label          "Heltal">
+<!ENTITY string.label           "Sträng">
+<!ENTITY boolean.label          "Boolesk">

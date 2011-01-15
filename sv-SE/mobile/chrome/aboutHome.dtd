@@ -1,0 +1,8 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
+<!ENTITY aboutHome.recentTabs                   "Dina senaste flikar">
+<!ENTITY aboutHome.remoteTabs                   "Flikar från dina andra datorer">
+<!ENTITY aboutHome.recommendedAddons2           "Tillägg till &brandShortName;">
+<!ENTITY aboutHome.giveFeedback                 "Ge feedback">
+<!ENTITY aboutHome.openAllTabs                  "Öppna alla i flikar">
+<!ENTITY aboutHome.noTabs                       "Inga flikar från sist">
+<!ENTITY aboutHome.noAddons                     "Inga rekommenderade tillägg">
