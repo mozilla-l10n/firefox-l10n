@@ -1,105 +1,106 @@
-<!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
 <!-- First page of the wizard -->
 
 
 <!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
 <!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
+<!ENTITY button.connect.label    "Connect">
 
-<!ENTITY setup.choicePage.title.label "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
+<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
+<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
 <!-- New Account AND Existing Account -->
 
-<!ENTITY server.label "Server">
-<!ENTITY serverType.main.label "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom.label "Use a custom server">
-<!ENTITY signIn.username.label "User Name">
-<!ENTITY signIn.username.accesskey "U">
-<!ENTITY signIn.password.label "Password">
-<!ENTITY signIn.password.accesskey "P">
-<!ENTITY signIn.serverURL.label "Server URL">
-<!ENTITY signIn.serverURL.accesskey "L">
+<!ENTITY server.label               "Server">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
+<!ENTITY serverType.custom2.label   "Use a custom server…">
+<!ENTITY signIn.account2.label      "Account">
+<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.password.label      "Password">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.syncKey.label       "Sync Key">
+<!ENTITY signIn.syncKey.accesskey   "K">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.confirmPassword.label "Confirm Password">
-<!ENTITY setup.confirmPassword.accesskey "m">
-<!ENTITY setup.emailAddress.label "Email Address">
+<!ENTITY setup.confirmPassword.label  "Confirm Password">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "Email Address">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label "I agree to the">
-<!ENTITY setup.tosAgree1.accesskey "a">
-<!ENTITY setup.tosLink.label "Terms of Service">
-<!ENTITY setup.tosAgree2.label "and the">
-<!ENTITY setup.ppLink.label "Privacy Policy">
-<!ENTITY setup.tosAgree3.label "">
-<!ENTITY setup.tosAgree2.accesskey "">
+<!ENTITY setup.tosAgree1.label      "I agree to the">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "Terms of Service">
+<!ENTITY setup.tosAgree2.label      "and the">
+<!ENTITY setup.ppLink.label         "Privacy Policy">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
 <!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label "Your Sync Key">
-<!ENTITY syncKeyEntry.accesskey "K">
-<!ENTITY syncKeyGenerate.label "Generate">
+<!ENTITY syncKeyEntry.label        "Your Sync Key">
+<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY syncKeyGenerate.label     "Generate">
 <!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
 
-<!ENTITY button.syncKeyBackup.email.label "Email…">
-<!ENTITY button.syncKeyBackup.email.accesskey "E">
-<!ENTITY button.syncKeyBackup.print.label "Print…">
+<!ENTITY button.syncKeyBackup.print.label     "Print…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label "Save…">
-<!ENTITY button.syncKeyBackup.save.accesskey "S">
-
-<!ENTITY page.syncKeyBackup.title "Your Firefox Sync Key">
-<!ENTITY page.syncKeyBackup.descr "This secret key is used to encrypt your personal data. It is not uploaded to the server and cannot be recovered. Do not lose it or share with other people.">
+<!ENTITY button.syncKeyBackup.save.label      "Save…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- New Account Page 3: Captcha -->
 
-<!ENTITY setup.captchaPage2.title.label "Please Confirm You're Not a Robot">
-<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Add a Device">
+<!ENTITY addDevice.showMeHow.label          "Show me how.">
+<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
+<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
+<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
+<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
+<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
+<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
-<!ENTITY resetPassword.label "Reset Password">
-<!ENTITY connecting.label "Connecting">
-<!-- Existing Account Page 2: Sync Key -->
-
-<!ENTITY setup.existingSyncKeyPage.title "Please Enter Your Sync Key">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY lostSyncKey.label "I have lost my Sync Key">
-<!ENTITY verifying.label "Verifying…">
+<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY verifying.label              "Verifying…">
+<!ENTITY resetPassword.label          "Reset Password">
+<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
 <!-- Sync Options -->
 
-<!ENTITY setup.optionsPage.title "Sync Options">
-<!ENTITY syncComputerName.label "Computer Name:">
-<!ENTITY syncComputerName.accesskey "C">
+<!ENTITY setup.optionsPage.title      "Sync Options">
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "C">
 
-<!ENTITY syncMy.label "Sync My">
-<!ENTITY engine.bookmarks.label "Bookmarks">
+<!ENTITY syncMy.label               "Sync My">
+<!ENTITY engine.bookmarks.label     "Bookmarks">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label "Tabs">
-<!ENTITY engine.tabs.accesskey "T">
-<!ENTITY engine.history.label "History">
-<!ENTITY engine.history.accesskey "r">
-<!ENTITY engine.passwords.label "Passwords">
+<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Passwords">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label "Preferences">
-<!ENTITY engine.prefs.accesskey "S">
+<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.accesskey     "S">
 
-<!ENTITY choice2.merge.main.label "Merge this computer's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label "Replace all other devices with this computer's data">
+<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY confirm.merge.label "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client.label "All &brandShortName; data on this computer will be deleted, including the following:">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
+<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
-<!ENTITY confirm.server.label "The following devices will be overwritten with your local data:">
-<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
+<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Setup Complete">

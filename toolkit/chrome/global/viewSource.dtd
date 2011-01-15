@@ -42,8 +42,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label "View">
-<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewMenu.label           "View">
+<!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "Reload">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
@@ -60,10 +60,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label "Find in This Page…">
+<!ENTITY findOnCmd.label     "Find in This Page…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Find Again">
+<!ENTITY findAgainCmd.label  "Find Again">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">

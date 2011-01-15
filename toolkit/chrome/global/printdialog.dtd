@@ -18,12 +18,12 @@
 <!ENTITY printrangeGroup.label "Print Range">
 <!ENTITY allpagesRadio.label "All Pages">
 <!ENTITY allpagesRadio.accesskey "A">
-<!ENTITY rangeRadio.label "Pages">
-<!ENTITY rangeRadio.accesskey "P">
-<!ENTITY frompageInput.label "from">
-<!ENTITY frompageInput.accesskey "r">
-<!ENTITY topageInput.label "to">
-<!ENTITY topageInput.accesskey "t">
+<!ENTITY rangeRadio.label  "Pages">
+<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY frompageInput.label  "from">
+<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY topageInput.label  "to">
+<!ENTITY topageInput.accesskey  "t">
 <!ENTITY selectionRadio.label "Selection">
 <!ENTITY selectionRadio.accesskey "S">
 
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Print Frames">
 <!ENTITY aslaidoutRadio.label "As laid out on the screen">
 <!ENTITY aslaidoutRadio.accesskey "u">
-<!ENTITY selectedframeRadio.label "The selected frame">
-<!ENTITY selectedframeRadio.accesskey "m">
-<!ENTITY eachframesepRadio.label "Each frame separately">
-<!ENTITY eachframesepRadio.accesskey "E">
+<!ENTITY selectedframeRadio.label  "The selected frame">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Each frame separately">
+<!ENTITY eachframesepRadio.accesskey  "E">

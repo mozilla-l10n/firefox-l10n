@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Printing">
-<!ENTITY title "Title:">
+<!ENTITY title    "Title:">
 <!ENTITY progress "Progress:">
 <!ENTITY preparing "Preparing…">
 <!ENTITY printComplete "Printing is Completed.">
