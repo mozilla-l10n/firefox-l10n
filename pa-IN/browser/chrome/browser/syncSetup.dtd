@@ -57,18 +57,19 @@
 <!ENTITY addDevice.title.label              "ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ">
 <!ENTITY addDevice.showMeHow.label          "ਮੈਨੂੰ ਦੱਸੋ ਕਿਵੇਂ।">
 <!ENTITY addDevice.dontHaveDevice.label     "ਇਸ ਸਮੇਂ ਮੇਰੇ ਕੋਲ ਜੰਤਰ ਨਹੀਂ ਹੈ।">
-<!ENTITY addDevice.setup.description.label  "ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਵਿੱਚ ਜਾਉ ਅਤੇ  &#x0022;ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ&#x0022; ਚੁਣੋ।">
+<!ENTITY addDevice.setup.description.label  "ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਵਿੱਚ ਜਾਉ ਅਤੇ  &#x0022;ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ&#x0022; ਨੂੰ ਚੁਣੋ।">
 <!ENTITY addDevice.setup.enterCode.label    "ਤਦ, ਇਹ ਕੋਡ ਦਿਉ:">
-<!ENTITY addDevice.dialog.description.label "ਆਪਣਾ ਨਵਾਂ ਜੰਤਰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ, ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਵਿੱਚ ਜਾਉ ਅਤੇ  &#x0022;ਕੁਨੈਕਟ ਕਰੋ&#x0022; ਚੁਣੋ।">
+<!ENTITY addDevice.dialog.description.label "ਆਪਣਾ ਨਵਾਂ ਜੰਤਰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ, ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਵਿੱਚ ਜਾਉ ਅਤੇ  &#x0022;ਕੁਨੈਕਟ ਕਰੋ&#x0022; ਨੂੰ ਚੁਣੋ।">
 <!ENTITY addDevice.dialog.enterCode.label   "ਕੋਡ ਦਿਉ, ਜੋ ਜੰਤਰ ਨੇ ਦਿੱਤਾ ਹੈ:">
 <!ENTITY addDevice.dialog.tryAgain.label    "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ">
 <!ENTITY addDevice.dialog.successful.label  "ਜੰਤਰ ਠੀਕ ਤਰ੍ਹਾਂ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। ਸ਼ੁਰੂਆਤੀ ਸਿੰਕ ਕਰਨ ਲਈ ਲੰਮਾ ਸਮਾਂ ਲੱਗਾ ਸਕਦਾ ਹੈ ਅਤੇ ਇਹ ਸਭ ਕੁਝ ਬੈਕਗਰਾਊਂਡ 'ਚ ਮੁਕੰਮਲ ਹੋ ਜਾਵੇਗਾ।">
-<!ENTITY addDevice.dialog.syncKey.label     "ਆਪਣੇ ਜੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਦੇਣੀ ਪਵੇਗੀ। ਇਹ ਕੁੰਜੀ ਨੂੰ ਪਰਿੰਟ ਕਰੋ ਜਾਂ ਸੰਭਾਲ ਤੇ ਆਪਣੇ ਨਾਲ ਰੱਖੋ।">
+<!ENTITY addDevice.dialog.syncKey.label     "ਆਪਣੇ ਜੰਤਰ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਦੇਣੀ ਪਵੇਗੀ। ਇਹ ਕੁੰਜੀ ਨੂੰ ਪਰਿੰਟ ਕਰੋ ਜਾਂ ਸੰਭਾਲੋ ਤੇ ਆਪਣੇ ਨਾਲ ਰੱਖੋ।">
 <!ENTITY addDevice.dialog.connected.label   "ਜੰਤਰ ਕੁਨੈਕਟ">
 
 <!-- Existing Account Page 1: Login -->
 
 <!ENTITY resetPassword.label          "ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
+<!ENTITY resetSyncKey.label           "ਮੈਂ ਆਪਣਾ ਹੋਰ ਜੰਤਰ ਗੁਆ ਲਿਆ ਹੈ।">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "ਸਾਈਨ ਇਨ">
