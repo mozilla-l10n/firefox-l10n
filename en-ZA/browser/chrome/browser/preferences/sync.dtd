@@ -1,42 +1,40 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey "S">
-<!ENTITY weaveDesc.label "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
 <!-- The page shown when logged in... -->
-
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentUser.label "Current User:">
 <!-- Login error feedback -->
 
-<!ENTITY updatePass.label "Update">
-<!ENTITY resetPass.label "Reset">
+
+<!ENTITY updatePass.label             "Update">
+<!ENTITY resetPass.label              "Reset">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label "Manage Account">
-<!ENTITY manageAccount.accesskey "A">
-<!ENTITY changePassword.label "Change Password">
-<!ENTITY mySyncKey.label "My Sync Key">
-<!ENTITY resetSync.label "Reset Sync">
-<!ENTITY differentAccount.label "Use a Different Account">
-<!-- Sync Settings -->
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY changePassword.label         "Change Password">
+<!ENTITY mySyncKey.label              "My Sync Key">
+<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY addDevice.label              "Add a Device">
 
-<!ENTITY syncPrefsCaption.label "Browser Sync">
-<!ENTITY syncComputerName.label "Computer Name:">
-<!ENTITY syncComputerName.accesskey "C">
-
-<!ENTITY syncMy.label "Sync My">
-<!ENTITY engine.bookmarks.label "Bookmarks">
+<!ENTITY syncMy.label               "Sync My">
+<!ENTITY engine.bookmarks.label     "Bookmarks">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label "Tabs">
-<!ENTITY engine.tabs.accesskey "T">
-<!ENTITY engine.history.label "History">
-<!ENTITY engine.history.accesskey "r">
-<!ENTITY engine.passwords.label "Passwords">
+<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Passwords">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label "Preferences">
-<!ENTITY engine.prefs.accesskey "S">
+<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.accesskey     "S">
+<!-- Device Settings -->
+
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY deactivateDevice.label       "Deactivate This Device">
 <!-- Footer stuff -->
 
-
-<!ENTITY prefs.tosLink.label "Terms of Service">
-<!ENTITY prefs.ppLink.label "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.ppLink.label         "Privacy Policy">

@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Settings can be changed in &brandShortName;'s Preferences.">
-<!ENTITY settingsChangeOptions.label "Settings can be changed in &brandShortName;'s Options.">
+<!ENTITY  settingsChangePreferences.label  "Settings can be changed in &brandShortName;'s Preferences.">
+<!ENTITY  settingsChangeOptions.label      "Settings can be changed in &brandShortName;'s Options.">
