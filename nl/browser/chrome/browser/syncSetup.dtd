@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "U kunt een kopie van uw Sync-sleutel verkrijgen door naar Opties van &syncBrand.shortName.label; op uw andere apparaat te gaan en “Mijn Sync-sleutel” onder “Account beheren” te selecteren.">
 <!ENTITY verifying.label              "Verifiëren…">
 <!ENTITY resetPassword.label          "Wachtwoord herinitialiseren">
-<!ENTITY lostSyncKey.label            "Ik ben mijn Sync-sleutel kwijt">
+<!ENTITY resetSyncKey.label           "Ik ben mijn andere apparaat kwijt.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync-opties">
