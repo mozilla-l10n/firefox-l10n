@@ -283,7 +283,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY appMenuFind.label "Buscar…">
 <!ENTITY appMenuUnsorted.label "Marcadores sin ordenar">
-<!ENTITY appMenuWebDeveloper.label "Diseñador web">
+<!ENTITY appMenuWebDeveloper.label "Desarrollador web">
 <!ENTITY appMenuGettingStarted.label "Primeros pasos">
 <!ENTITY appMenuSafeMode.label "Reiniciar con los complementos deshabilitados…">
 <!ENTITY appMenuSafeMode.accesskey "R">
