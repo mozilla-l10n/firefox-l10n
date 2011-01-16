@@ -7,7 +7,7 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://fr.wikipedia.org/wiki/Special:Recherche">
+<Url type="text/html" method="GET" template="http://fr.m.wikipedia.org/wiki">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
