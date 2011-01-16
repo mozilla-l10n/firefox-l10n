@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "您可以在您其他裝置上的 &syncBrand.shortName.label; 選項 -> 管理帳號 -> 我的同步金鑰 當中找到您的同步金鑰。">
 <!ENTITY verifying.label              "驗證中…">
 <!ENTITY resetPassword.label          "重設密碼">
-<!ENTITY lostSyncKey.label            "我搞丟了同步金鑰">
+<!ENTITY resetSyncKey.label           "我把我其他的裝置搞丟了。">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "同步選項">

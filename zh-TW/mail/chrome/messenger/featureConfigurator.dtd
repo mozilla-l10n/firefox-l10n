@@ -68,8 +68,8 @@
 <!ENTITY featureConfigurator.autoSync.off.explanation "這代表您將需要更久的時間讀取訊息，搜尋也可能變的不完整。">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
-<!ENTITY featureConfigurator.autoSync.some "單一帳戶同步">
-<!ENTITY featureConfigurator.autoSync.some.explanation "依照您的帳戶與資料夾需求設定同步。">
+<!ENTITY featureConfigurator.autoSync.some "單一帳號同步">
+<!ENTITY featureConfigurator.autoSync.some.explanation "依照您的帳號與資料夾需求設定同步。">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
 <!ENTITY featureConfigurator.diskSpace.currentSize "您目前電子郵件的總計使用量:">

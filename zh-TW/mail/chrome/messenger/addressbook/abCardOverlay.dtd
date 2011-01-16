@@ -143,7 +143,7 @@
 <!ENTITY WorkWebPage.label              "網站:">
 <!ENTITY WorkWebPage.accesskey          "e">
 
-<!ENTITY Other.tab                      "其它">
+<!ENTITY Other.tab                      "其他">
 <!ENTITY Other.accesskey                "h">
 <!ENTITY Custom1.label                  "自訂 1:">
 <!ENTITY Custom1.accesskey              "1">

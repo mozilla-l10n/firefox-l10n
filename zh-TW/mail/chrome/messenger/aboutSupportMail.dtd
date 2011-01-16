@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "應用程式 Build ID">
+
+<!ENTITY aboutSupport.accountsTitle "郵件與新聞帳號">
+<!ENTITY aboutSupport.showPrivateData.mainText "包含帳號名稱">
+<!ENTITY aboutSupport.showPrivateData.explanationText "（可能有可以識別您的資訊）">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "名稱">
+<!ENTITY aboutSupport.accountsIncomingServer "收信伺服器">
+<!ENTITY aboutSupport.accountsOutgoingServers "寄件伺服器">
+<!ENTITY aboutSupport.accountsConnSecurity "連線安全性">
+<!ENTITY aboutSupport.accountsAuthMethod "認證方式">
+<!ENTITY aboutSupport.accountsDefault "預設值？">
+
+<!ENTITY aboutSupport.sendViaEmail.label "透過電子郵件寄出">

@@ -27,7 +27,7 @@
 <!ENTITY spellCheckInline1.accesskey          "E">
 <!ENTITY languagePopup.label                  "語言:">
 <!ENTITY languagePopup.accessKey              "L">
-<!ENTITY downloadDictionaries.label           "下載其它字典">
+<!ENTITY downloadDictionaries.label           "下載其他字典">
 
 <!ENTITY warnOnSendAccelKey.label             "用鍵盤快捷鍵發送郵件時需要確認">
 <!ENTITY warnOnSendAccelKey.accesskey         "C">

@@ -47,5 +47,5 @@
 <!ENTITY makeUrlRelative.tooltip "相對與絕對路徑的轉換。您要先存檔才能改變此頁。">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "輸入網址、本地檔案路徑，或由選單中選取一個錨點或是標題:">
+<!ENTITY LinkURLEditField.label "輸入網址、本機檔案路徑，或由選單中選取一個錨點或是標題:">
 <!ENTITY LinkURLEditField.accessKey "g">
