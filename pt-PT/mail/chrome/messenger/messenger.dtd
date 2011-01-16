@@ -395,7 +395,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markMenu.accesskey "c">
 <!ENTITY markAsReadCmd.label "Como lida">
 <!ENTITY markAsReadCmd.accesskey "M">
-<!ENTITY markAsReadCmd.key "M">
+<!ENTITY markAsReadCmd.key ",">
+<!ENTITY markAsUnreadCmd.label "Como não-lida">
+<!ENTITY markAsUnreadCmd.accesskey "n">
+<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Tópico como lido">
 <!ENTITY markThreadAsReadCmd.accesskey "C">
 <!ENTITY markThreadAsReadCmd.key "R">
