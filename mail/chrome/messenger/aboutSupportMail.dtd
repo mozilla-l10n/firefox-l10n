@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Identifiant de compilation de l'application">
+
+<!ENTITY aboutSupport.accountsTitle "Comptes courrier et groupes">
+<!ENTITY aboutSupport.showPrivateData.mainText "Inclure les noms de comptes">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(informations potentiellement identifiantes)">
+<!ENTITY aboutSupport.accountsID "Identifiant">
+<!ENTITY aboutSupport.accountsName "Nom">
+<!ENTITY aboutSupport.accountsIncomingServer "Serveur entrant">
+<!ENTITY aboutSupport.accountsOutgoingServers "Serveurs sortants">
+<!ENTITY aboutSupport.accountsConnSecurity "Sécurité de la connexion">
+<!ENTITY aboutSupport.accountsAuthMethod "Méthode d'authentification">
+<!ENTITY aboutSupport.accountsDefault "Par défaut ?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Envoyer par courriel">
