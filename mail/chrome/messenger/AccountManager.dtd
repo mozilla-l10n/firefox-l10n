@@ -1,6 +1,6 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "帳戶設定">
+<!ENTITY accountManagerTitle.label "帳號設定">
 
 <!ENTITY accountActionsButton.label "帳號操作">
 <!ENTITY accountActionsButton.accesskey "A">

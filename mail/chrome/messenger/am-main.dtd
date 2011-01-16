@@ -1,6 +1,6 @@
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "帳戶設定">
+<!ENTITY accountTitle.label "帳號設定">
 <!ENTITY accountName.label "帳號名稱:">
 <!ENTITY accountName.accesskey "n">
 <!ENTITY identityTitle.label "身份識別">
