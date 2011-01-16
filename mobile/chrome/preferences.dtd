@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "关于 &brandShortName;">
 <!ENTITY about.button                              "转至页面">
 <!ENTITY content.title                             "内容">
+<!ENTITY reflowZoom.title                          "缩放时重排文本格式">
 <!ENTITY showImages.title                          "显示图片">
 <!ENTITY enableJavaScript.title                    "启用 JavaScript">
 <!ENTITY enablePlugins.title                       "启用插件">
