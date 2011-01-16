@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Dikarî kopiyeke Kilîla Syncê ji ser cîhaza xwe ji  Vebijêrkên &syncBrand.shortName.label;ê bistînî, û ji &#x0022;Rêveberiya Hesaban&#x0022; &#x0022;Kilîla Min a Syncê&#x0022; hilbijêre.">
 <!ENTITY verifying.label              "Tê piştrastkirin…">
 <!ENTITY resetPassword.label          "Şîfreyê reset bike">
-<!ENTITY lostSyncKey.label            "Min kilîla xwe ya Syncê winda kir">
+<!ENTITY resetSyncKey.label           "Min amûra xwe ya din winda kir.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Vebijêrkên Syncê">
