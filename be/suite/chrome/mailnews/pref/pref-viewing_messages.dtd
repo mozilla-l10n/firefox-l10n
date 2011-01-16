@@ -33,7 +33,7 @@
 <!ENTITY newWindowRadio.accesskey "н">
 <!ENTITY existingWindowRadio.label "Існым акне лістоў">
 <!ENTITY existingWindowRadio.accesskey "І">
-<!ENTITY disableContent.label "Затрымліваць малюнкі і іншае змесціва з адлеглых крыніцаў">
+<!ENTITY disableContent.label "Затрымліваць выявы і іншае змесціва з адлеглых крыніцаў">
 <!ENTITY disableContent.accesskey "З">
 <!ENTITY showCondensedAddresses.label "Паказваць толькі адлюстроўнае імя для людзей з маёй адраснай кнігі">
 <!ENTITY showCondensedAddresses.accesskey "П">

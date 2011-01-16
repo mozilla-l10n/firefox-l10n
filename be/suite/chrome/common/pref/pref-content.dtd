@@ -5,7 +5,7 @@
 <!ENTITY useSiteIcons.accesskey "з">
 <!ENTITY useFavIcons.label "Нападліва шукаць значкі пляцовак Сеціва, калі пляцоўка не вызначае іх">
 <!ENTITY useFavIcons.accesskey "Н">
-<!ENTITY enableAutomaticImageResizing.label "Сціскаць вялікія малюнкі да памераў акна азіральніка">
+<!ENTITY enableAutomaticImageResizing.label "Сціскаць вялікія выявы да памераў акна азіральніка">
 <!ENTITY enableAutomaticImageResizing.accesskey "ц">
 <!ENTITY useSmoothScroll.label "Ужываць плаўнае пракручванне">
 <!ENTITY useSmoothScroll.accesskey "ж">

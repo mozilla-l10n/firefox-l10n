@@ -38,15 +38,15 @@
 <!ENTITY viewPageInfoCmd.accesskey "З">
 <!ENTITY viewFrameInfoCmd.label "Праглядзець звесткі пра рамку">
 <!ENTITY viewFrameInfoCmd.accesskey "З">
-<!ENTITY fitImageCmd.label "Расцягнуць малюнак у акне">
+<!ENTITY fitImageCmd.label "Расцягнуць выяву ў вакне">
 <!ENTITY fitImageCmd.accesskey "ц">
-<!ENTITY reloadImageCmd.label "Абнавіць малюнак">
+<!ENTITY reloadImageCmd.label "Абнавіць выяву">
 <!ENTITY reloadImageCmd.accesskey "б">
-<!ENTITY viewImageCmd.label "Праглядзець малюнак">
-<!ENTITY viewImageCmd.accesskey "М">
+<!ENTITY viewImageCmd.label "Праглядзець выяву">
+<!ENTITY viewImageCmd.accesskey "г">
 <!ENTITY viewVideoCmd.label "Пабачыць відэя">
 <!ENTITY viewVideoCmd.accesskey "в">
-<!ENTITY viewBGImageCmd.label "Праглядзець малюнак фону">
+<!ENTITY viewBGImageCmd.label "Праглядзець выяву фону">
 <!ENTITY viewBGImageCmd.accesskey "ф">
 <!ENTITY setWallpaperCmd.label "Усталяваць як шпалеры">
 <!ENTITY setWallpaperCmd.accesskey "ш">
@@ -66,9 +66,9 @@
 <!ENTITY saveLinkAsCmd.label "Захаваць мэту спасылкі як…">
 <!ENTITY saveLinkCmd.label "Захаваць мэту спасылкі">
 <!ENTITY saveLinkCmd.accesskey "т">
-<!ENTITY saveImageAsCmd.label "Захаваць малюнак як…">
-<!ENTITY saveImageCmd.label "Захаваць малюнак">
-<!ENTITY saveImageCmd.accesskey "м">
+<!ENTITY saveImageAsCmd.label "Захаваць выяву як…">
+<!ENTITY saveImageCmd.label "Захаваць выяву">
+<!ENTITY saveImageCmd.accesskey "я">
 <!ENTITY saveVideoCmd.label "Захаваць відэя як…">
 <!ENTITY saveVideoCmd.accesskey "З">
 <!ENTITY saveAudioCmd.label "Захаваць гук як…">
@@ -79,8 +79,8 @@
 <!ENTITY selectAllCmd.accesskey "ё">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "М">
-<!ENTITY copyImageCmd.label "Капіяваць малюнак">
-<!ENTITY copyImageCmd.accesskey "л">
+<!ENTITY copyImageCmd.label "Капіяваць выяву">
+<!ENTITY copyImageCmd.accesskey "я">
 <!ENTITY copyVideoURLCmd.label "Капіяваць месцазнаходжанне відэя">
 <!ENTITY copyVideoURLCmd.accesskey "К">
 <!ENTITY copyAudioURLCmd.label "Капіяваць месцазнаходжанне гуку">

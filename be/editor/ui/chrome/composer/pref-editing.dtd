@@ -3,9 +3,9 @@
 <!ENTITY authorName.accesskey "А">
 <!ENTITY pageColorHeader "Першапачатковы выгляд старонкі">
 <!ENTITY defaultColors.label "Змоўчныя колеры чытальніка (не выстаўляць колеры на старонцы)">
-<!ENTITY defaultColors.accesskey "з">
+<!ENTITY defaultColors.accesskey "ў">
 <!ENTITY customColors.label "Ужываць выбарачныя колеры:">
-<!ENTITY customColors.accesskey "в">
+<!ENTITY customColors.accesskey "к">
 <!ENTITY normalText.label "Звычайны тэкст">
 <!ENTITY normalText.accesskey "З">
 <!ENTITY linkText.label "Тэкст спасылкі">
@@ -17,7 +17,7 @@
 <!ENTITY background.label "Фон:">
 <!ENTITY background.accesskey "Ф">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Фонавы малюнак:">
-<!ENTITY backgroundImage.accesskey "м">
+<!ENTITY backgroundImage.label "Фонавая выява:">
+<!ENTITY backgroundImage.accesskey "я">
 <!ENTITY chooseFile.label "Выбраць файл…">
 <!ENTITY chooseFile.accesskey "В">

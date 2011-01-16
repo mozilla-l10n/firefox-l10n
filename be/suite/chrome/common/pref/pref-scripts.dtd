@@ -7,7 +7,7 @@
 <!ENTITY allowWindowMoveResize.label "Перасоўваць існыя вокны ці зменьваць іх памеры">
 <!ENTITY allowWindowFlip.label "Узнімаць ці зніжаць вокны">
 <!ENTITY allowWindowStatusChange.label "Змяняць тэкст на паліцы статусу">
-<!ENTITY allowWindowImageSrcChange.label "Зменьваць малюнкі">
+<!ENTITY allowWindowImageSrcChange.label "Зменьваць выявы">
 <!ENTITY allowContextmenuDisable.label "Забараняць ці замяняць меню">
 <!ENTITY allowHideStatusBar.label "Хаваць паліцу статусу">
 <!ENTITY enablePlugin.label "Дазволіць убудовы для">

@@ -12,7 +12,7 @@
 <!ENTITY shrinkToFit.label "Сціснуць да шырыні старонкі">
 <!ENTITY shrinkToFit.accesskey "ш">
 <!ENTITY optionsGroup.label "Наладжванні">
-<!ENTITY printBG.label "Друкаваць фон (колеры і малюнкі)">
+<!ENTITY printBG.label "Друкаваць фон (колеры і выявы)">
 <!ENTITY printBG.accesskey "ф">
 <!ENTITY advanced.tab "Прымежкі і калантытулы">
 <!ENTITY marginGroup.label "Прымежкі (#1)">

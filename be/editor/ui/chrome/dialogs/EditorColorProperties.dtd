@@ -38,10 +38,10 @@
 <!ENTITY windowTitle.label "Колеры і фон старонкі">
 <!ENTITY pageColors.label "Колеры старонкі">
 <!ENTITY defaultColorsRadio.label "Змоўчныя колеры чытача (Не прызначаць колеры старонкі)">
-<!ENTITY defaultColorsRadio.accessKey "з">
+<!ENTITY defaultColorsRadio.accessKey "З">
 <!ENTITY defaultColorsRadio.tooltip "Карыстацца толькі наладжваннямі колераў праглядальніка (чытача) азіральніка">
 <!ENTITY customColorsRadio.label "Ужываць выбарачныя колеры:">
-<!ENTITY customColorsRadio.accessKey "в">
+<!ENTITY customColorsRadio.accessKey "ы">
 <!ENTITY customColorsRadio.tooltip "Гэтыя наладжванні колераў пераважваюць наладжванні праглядальніка азіральніка">
 <!ENTITY normalText.label "Звычайны тэкст">
 <!ENTITY normalText.accessKey "ы">
@@ -54,6 +54,6 @@
 <!ENTITY background.label "Фон:">
 <!ENTITY background.accessKey "Ф">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Малюнак фону:">
-<!ENTITY backgroundImage.accessKey "м">
-<!ENTITY backgroundImage.tooltip "Ужываць малюнкавы файл як фон вашай старонкі">
+<!ENTITY backgroundImage.label "Фонавая выява:">
+<!ENTITY backgroundImage.accessKey "я">
+<!ENTITY backgroundImage.tooltip "Ужываць файл выявы як фон вашай старонкі">

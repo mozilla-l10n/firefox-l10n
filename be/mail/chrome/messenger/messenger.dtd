@@ -662,8 +662,8 @@
 <!ENTITY reportPhishingURL.accesskey "П">
 <!ENTITY saveLinkAsCmd.label "Захаваць спасылку як…">
 <!ENTITY saveLinkAsCmd.accesskey "с">
-<!ENTITY saveImageAsCmd.label "Захаваць малюнак як…">
-<!ENTITY saveImageAsCmd.accesskey "м">
+<!ENTITY saveImageAsCmd.label "Захаваць выяву як…">
+<!ENTITY saveImageAsCmd.accesskey "я">
 <!ENTITY cutCmd.label "Выразаць">
 <!ENTITY cutCmd.accesskey "В">
 <!ENTITY copyCmd.label "Капіяваць">
@@ -674,8 +674,8 @@
 <!ENTITY selectAllCmd.accesskey "у">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "с">
-<!ENTITY copyImageAllCmd.label "Капіяваць малюнак">
-<!ENTITY copyImageAllCmd.accesskey "м">
+<!ENTITY copyImageAllCmd.label "Капіяваць выяву">
+<!ENTITY copyImageAllCmd.accesskey "я">
 <!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
 <!ENTITY copyEmailCmd.accesskey "э">
 <!ENTITY stopCmd.label "Прыпыніць">

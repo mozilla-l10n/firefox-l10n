@@ -48,9 +48,9 @@
 <!ENTITY docDirList.label "Паддырэкторыя пляцоўкі гэтай старонкі:">
 <!ENTITY docDirList.accesskey "п">
 <!ENTITY docDirList.tooltip "Выберыце або ўвядзіце назву адлеглай паддырэкторыі для гэтай старонкі">
-<!ENTITY publishImgCheckbox.label "Уключыць малюнкі і іншыя файлы">
+<!ENTITY publishImgCheckbox.label "Уключыць выявы і іншыя файлы">
 <!ENTITY publishImgCheckbox.accesskey "і">
-<!ENTITY publishImgCheckbox.tooltip "Публікаваць малюнкі і іншыя файлы, на якія спасылаецца гэтая старонка">
+<!ENTITY publishImgCheckbox.tooltip "Публікаваць выявы і іншыя файлы, на якія спасылаецца гэтая старонка">
 <!ENTITY sameLocationRadio.label "Ужываць тое ж месцазнаходжанне, што для старонкі">
 <!ENTITY sameLocationRadio.accesskey "У">
 <!ENTITY sameLocationRadio.tooltip "Публікаваць файлы ў тым жа месцы, дзе і старонку">

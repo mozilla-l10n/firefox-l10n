@@ -37,7 +37,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "Рэдактар мапы малюнка">
+<!ENTITY windowTitle.label "Рэдактар мапы выявы">
 <!ENTITY mapfileMenu.label "Файл">
 <!ENTITY mapfileMenu.accesskey "ф">
 <!ENTITY clearCmd.label "Ачысціць">
