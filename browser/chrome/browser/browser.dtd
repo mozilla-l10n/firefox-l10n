@@ -68,7 +68,7 @@
 <!ENTITY forwardCmd.label             "Para">
 <!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Shko para një faqe">
-<!ENTITY reloadCmd.label              "Ringarko">
+<!ENTITY reloadCmd.label              "Ringarkoje">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Ringarko faqen e tanishme">
 <!ENTITY stopCmd.label                "Ndal">
@@ -386,7 +386,7 @@
 <!ENTITY mediaHideControls.label     "Fshihi Kontrollet">
 <!ENTITY mediaHideControls.accesskey "K">
 
-<!ENTITY reloadImageCmd.label         "Ringarko Figurën">
+<!ENTITY reloadImageCmd.label         "Ringarkoje Figurën">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY saveVideoCmd.label           "Ruajeni Videon Si…">
 <!ENTITY saveVideoCmd.accesskey       "u">

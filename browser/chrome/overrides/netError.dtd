@@ -175,6 +175,6 @@ functionality specific to firefox. -->
 <!ENTITY securityOverride.warningContent "
 <p>Nuk do të duhej të shtonit një përjashtim, nëse përdorni një lidhje internet të cilën nuk e besoni plotësisht, ose nëse nuk jeni mësuar të shihni sinjalizim për këtë shërbyes.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

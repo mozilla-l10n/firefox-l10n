@@ -25,7 +25,7 @@
 <!ENTITY port.label "Portë:">
 <!ENTITY proxyTitle.label "Formësoni Ndërmjetësa për Hyrje në Internet">
 <!ENTITY reload.accesskey "R">
-<!ENTITY reload.label "Ringarko">
+<!ENTITY reload.label "Ringarkoje">
 <!ENTITY shareproxy.accesskey "k">
 <!ENTITY shareproxy.label "Përdor të njëjtin ndërmjetës për tërë protokollet">
 <!ENTITY socks.accesskey "c">
