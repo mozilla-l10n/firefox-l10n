@@ -53,7 +53,7 @@
 <!ENTITY existingSyncKey.description 'Вы можаце атрымаць копію ключа Sync у наладжваннях &syncBrand.shortName.label; на вашай іншай збудове і выберыце "Мой ключ Sync" у пункце "Кіраваць рахункам".'>
 <!ENTITY verifying.label "Праверка…">
 <!ENTITY resetPassword.label "Скінуць пароль">
-<!ENTITY lostSyncKey.label "Я згубіў мой ключ Sync">
+<!ENTITY resetSyncKey.label "Я згубіў маю іншую пабудову">
 <!ENTITY setup.optionsPage.title "Наладжванні Sync">
 <!ENTITY syncComputerName.label "Назва кампутара:">
 <!ENTITY syncComputerName.accesskey "Н">

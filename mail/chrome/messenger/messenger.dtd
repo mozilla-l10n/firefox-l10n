@@ -366,6 +366,9 @@
 <!ENTITY markAsReadCmd.label "Прачытанымі">
 <!ENTITY markAsReadCmd.accesskey "ч">
 <!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Як непрачытаныя">
+<!ENTITY markAsUnreadCmd.accesskey "н">
+<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Нізку як прачытаную">
 <!ENTITY markThreadAsReadCmd.accesskey "Н">
 <!ENTITY markThreadAsReadCmd.key "r">

@@ -2,6 +2,8 @@
 <!ENTITY helpMenu.accesskey "Д">
 <!ENTITY helpMenuWin.label "Даведка">
 <!ENTITY helpMenuWin.accesskey "Д">
+<!ENTITY helpTroubleshootingInfo.label "Звесткі для вырашэння праблемаў">
+<!ENTITY helpTroubleshootingInfo.accesskey "З">
 <!ENTITY releaseCmd.label "Заўвагі пра выданне">
 <!ENTITY releaseCmd.accesskey "в">
 <!ENTITY whatsNewCmd.label "Што новага?">
