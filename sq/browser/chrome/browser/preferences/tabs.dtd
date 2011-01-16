@@ -7,7 +7,7 @@
 <!ENTITY warnOpenManyTabs.label       "Sinjalizomë kur hapja e shumë skedave do të mundte të ngadalësonte &brandShortName;-in">
 <!ENTITY warnOpenManyTabs.accesskey   "l">
 
-<!ENTITY showTabBar.label             "Shfaq përherë panel skedash">
+<!ENTITY showTabBar.label             "Shfaqe përherë panelin e skedave">
 <!ENTITY showTabBar.accesskey         "f">
 
 <!ENTITY switchToNewTabs.label        "Kur e hap një lidhje si skedë të re, kalo menjëherë te ajo">
