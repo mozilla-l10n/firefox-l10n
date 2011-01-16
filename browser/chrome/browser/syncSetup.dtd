@@ -53,7 +53,7 @@
 <!ENTITY existingSyncKey.description 'Puede conseguir una copia de su clave de Sync yendo a las opciones de &syncBrand.shortName.label; en su otro dispositivo y seleccionando "Mi clave de Sync" bajo "Administrar cuenta".'>
 <!ENTITY verifying.label "Verificando…">
 <!ENTITY resetPassword.label "Restablecer contraseña">
-<!ENTITY lostSyncKey.label "He perdido mi clave de Sync">
+<!ENTITY resetSyncKey.label "He perdido mi otro dispositivo.">
 <!ENTITY setup.optionsPage.title "Opciones de Sync">
 <!ENTITY syncComputerName.label "Nombre del equipo:">
 <!ENTITY syncComputerName.accesskey "N">
