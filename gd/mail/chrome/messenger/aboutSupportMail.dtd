@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "DA togalach a' phrògraim">
+
+<!ENTITY aboutSupport.accountsTitle "Cunntasan puist is naidheachdan">
+<!ENTITY aboutSupport.showPrivateData.mainText "Gabh a-steach ainmean chunntasan">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(fiosrachadh air a dh'aithnichear thu fhèin ma dh'fhaoidte)">
+<!ENTITY aboutSupport.accountsID "DA">
+<!ENTITY aboutSupport.accountsName "Ainm">
+<!ENTITY aboutSupport.accountsIncomingServer "Am frithealaiche a-steach">
+<!ENTITY aboutSupport.accountsOutgoingServers "Frithealaichean a-mach">
+<!ENTITY aboutSupport.accountsConnSecurity "Tèarainteachd a' cheangail">
+<!ENTITY aboutSupport.accountsAuthMethod "An dòigh dearbhachaidh">
+<!ENTITY aboutSupport.accountsDefault "Bunaiteach?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Cuir air a' phost-dealain">
