@@ -72,7 +72,7 @@
 <!ENTITY verifying.label              "Vérification…">
 <!ENTITY resetPassword.label          "Réinitialiser le mot de passe">
 
-<!ENTITY lostSyncKey.label            "J'ai perdu ma clé de synchronisation">
+<!ENTITY resetSyncKey.label           "Je n'accède plus à mon autre appareil.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Options de synchronisation">
