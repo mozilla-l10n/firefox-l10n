@@ -74,7 +74,6 @@
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "ਸਾਈਨ ਇਨ">
 <!ENTITY existingSyncKey.description "ਤੁਸੀਂ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਜਾ ਕੇ  &#x0022;ਮੇਰੀ ਸਿੰਕ ਕੁੰਜੀ&#x0022; ਵਿੱਚੋਂ &#x0022;ਅਕਾਊਂਟ ਪਰਬੰਧ&#x0022; ਰਾਹੀਂ ਵੇਖ ਸਕਦੇ ਹੋ।">
-<!ENTITY lostSyncKey.label            "ਮੈਂ ਆਪਣੀ ਸਿੰਕ ਕੁੰਜੀ ਗੁਆ ਦਿੱਤੀ ਹੈ">
 <!ENTITY verifying.label              "ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
 
 <!-- Sync Options -->
