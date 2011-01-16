@@ -5,6 +5,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Cabhair">
 <!ENTITY helpMenuWin.accesskey "h">
+<!ENTITY helpTroubleshootingInfo.label "Fabhtcheartú">
+<!ENTITY helpTroubleshootingInfo.accesskey "t">
 <!ENTITY releaseCmd.label "Nótaí Eisiúna">
 <!ENTITY releaseCmd.accesskey "N">
 <!ENTITY whatsNewCmd.label "Is Geal Gach Nua">
