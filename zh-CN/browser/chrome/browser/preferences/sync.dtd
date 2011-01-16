@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; 可以在多台电脑间同步您的书签、历史记录、密码、设置和标签页信息。">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; 帐户">
-<!ENTITY currentAccount.label         "当前账户：">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "更新">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "修改密码">
 <!ENTITY mySyncKey.label              "我的同步密钥">
 <!ENTITY resetSync.label              "重置同步">
-<!ENTITY stopUsingAccount.label       "停止使用此账户">
 <!ENTITY addDevice.label              "添加设备">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "浏览器同步">
-<!ENTITY syncComputerName.label       "计算机名：">
-<!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "同步我的">
 <!ENTITY engine.bookmarks.label     "书签">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label         "首选项">
 <!ENTITY engine.prefs.accesskey     "S">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "计算机名：">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY deactivateDevice.label       "停用此设备">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "服务条款">

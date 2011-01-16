@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "您可以在您的其他设备上获得您的同步密钥，通过 &syncBrand.shortName.label; 选项，并选择在 &#x0022;管理帐户&#x0022; 下的 &#x0022;我的同步密钥&#x0022;。">
 <!ENTITY verifying.label              "正在校验…">
 <!ENTITY resetPassword.label          "重置密码">
-<!ENTITY lostSyncKey.label            "我已经丢失我的同步密钥">
+<!ENTITY resetSyncKey.label           "我丢失了其它设备。">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "同步选项">

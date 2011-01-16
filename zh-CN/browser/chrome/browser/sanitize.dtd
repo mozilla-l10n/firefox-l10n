@@ -42,7 +42,7 @@ that require it.  -->
 <!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
-<!ENTITY itemCache.label                   "高速缓存">
+<!ENTITY itemCache.label                   "缓存">
 <!ENTITY itemCache.accesskey               "A">
 <!ENTITY itemOfflineApps.label             "脱机网站数据">
 <!ENTITY itemOfflineApps.accesskey         "O">
