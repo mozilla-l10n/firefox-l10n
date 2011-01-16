@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label                  "Item bewerken" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "De tijdsperiode behouden bij wijzigen van de einddatum">
+<!ENTITY event.dialog.keepDurationButton.accesskey "D">
 
 <!ENTITY newevent.from.label                "Van" >
 <!ENTITY newevent.to.label                  "Tot" >
