@@ -1,6 +1,6 @@
 <!ENTITY matchAll.label     "Faigh seise do gach aon dhe na leanas">
 <!ENTITY matchAll.accesskey "a">
-<!ENTITY matchAny.label     "Faigh seisean do ghin dhe na leanas">
+<!ENTITY matchAny.label     "Faigh seise do ghin dhe na leanas">
 <!ENTITY matchAny.accesskey "o">
 <!ENTITY matchAllMsgs.label     "Maids a h-uile teachdaireachd">
 <!ENTITY matchAllMsgs.accesskey "M">
