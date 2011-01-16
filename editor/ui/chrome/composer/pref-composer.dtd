@@ -6,7 +6,7 @@
 <!ENTITY preserveExisting.label "Захоўваць першапачатковы фармат зыходніка">
 <!ENTITY preserveExisting.accesskey "З">
 <!ENTITY preserveExisting.tooltip "Захоўваць абрывы радкоў і першапачатковы фармат старонак">
-<!ENTITY saveAssociatedFiles.label "Захоўваць малюнкі і іншыя звязаныя файлы падчас захавання старонак ">
+<!ENTITY saveAssociatedFiles.label "Захоўваць выявы і іншыя звязаныя файлы падчас захавання старонак ">
 <!ENTITY saveAssociatedFiles.accesskey "х">
 <!ENTITY showPublishDialog.label "Заўсёды паказваць дыялог выдання падчас публікавання старонак">
 <!ENTITY showPublishDialog.accesskey "ў">

@@ -119,8 +119,8 @@
 <!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Іменаваны якар…">
 <!ENTITY insertAnchorCmd.accesskey "я">
-<!ENTITY insertImageCmd.label "Малюнак…">
-<!ENTITY insertImageCmd.accesskey "М">
+<!ENTITY insertImageCmd.label "Выява…">
+<!ENTITY insertImageCmd.accesskey "В">
 <!ENTITY insertHLineCmd.label "Гарызантальная рыска">
 <!ENTITY insertHLineCmd.accesskey "Г">
 <!ENTITY insertTableCmd.label "Табліца…">
@@ -129,7 +129,7 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Знакі і сімвалы…">
 <!ENTITY insertCharsCmd.accesskey "З">
-<!ENTITY insertBreakAllCmd.label "Разрыў пад малюнкам(і)">
+<!ENTITY insertBreakAllCmd.label "Разрыў пад выявай(-мі)">
 <!ENTITY insertBreakAllCmd.accesskey "Р">
 <!ENTITY spellCheckNoSuggestions.label "(няма прапановаў)">
 <!ENTITY spellCheckIgnoreWord.label "Ігнараваць слова">
@@ -371,8 +371,8 @@
 <!ENTITY findToolbarCmd.tooltip "Знайсці тэкст на старонцы">
 <!ENTITY spellToolbarCmd.label "Правапіс">
 <!ENTITY spellToolbarCmd.tooltip "Праверыць правапіс вылучэння або ўсёй старонкі ">
-<!ENTITY imageToolbarCmd.label "Малюнак">
-<!ENTITY imageToolbarCmd.tooltip "Уставіць новы малюнак або рэдагаваць уласцівасці выбранага">
+<!ENTITY imageToolbarCmd.label "Выява">
+<!ENTITY imageToolbarCmd.tooltip "Уставіць новую выяву або правіць уласцівасці выбранай">
 <!ENTITY hruleToolbarCmd.label "Г.рыска">
 <!ENTITY hruleToolbarCmd.tooltip "Уставіць гарызантальную рыску або рэдагаваць уласцівасці выбраных рысак">
 <!ENTITY tableToolbarCmd.label "Табліца">
@@ -395,7 +395,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Уцягнуць тэкст (змясціць улева)">
 <!ENTITY indentToolbarCmd.tooltip "Адпіхнуць тэкст (змясціць направа)">
 <!ENTITY AlignPopupButton.tooltip "Выбраць выраўноўванне тэксту">
-<!ENTITY InsertPopupButton.tooltip "Уставіць спасылку, якар, малюнак, гарызантальную рыску або табліцу">
+<!ENTITY InsertPopupButton.tooltip "Уставіць спасылку, якар, выяву, гарызантальную рыску або табліцу">
 <!ENTITY alignLeftButton.tooltip "Выраўноўваць тэкст уздоўж левага прымежку">
 <!ENTITY alignCenterButton.tooltip "Цэнтраванае выраўноўванне тэксту">
 <!ENTITY alignRightButton.tooltip "Выраўноўваць тэкст уздоўж правага прымежку">

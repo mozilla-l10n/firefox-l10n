@@ -38,7 +38,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY siteUrl.label "URL пляцоўкі:">
 <!ENTITY docSubdir.label "Паддырэкторыя старонкі:">
-<!ENTITY otherSubdir.label "Паддырэкторыя малюнка:">
+<!ENTITY otherSubdir.label "Паддырэкторыя выявы:">
 <!ENTITY status.label "Публікаванне…">
 <!ENTITY fileList.label "Статус публікавання">
 <!ENTITY succeeded.label "Поспех">

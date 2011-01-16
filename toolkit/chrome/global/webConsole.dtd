@@ -10,5 +10,5 @@
 <!ENTITY networkPanel.responseBodyCached "Прызапашаныя здаткі">
 <!ENTITY networkPanel.responseBodyUnknownType "Невядомы тып змесціва">
 <!ENTITY networkPanel.responseNoBody "Няма цела водгуку">
-<!ENTITY networkPanel.responseImage "Атрыманы малюнак">
-<!ENTITY networkPanel.responseImageCached "Прызапашаны малюнак">
+<!ENTITY networkPanel.responseImage "Атрымана выява">
+<!ENTITY networkPanel.responseImageCached "Прызапашаная выява">

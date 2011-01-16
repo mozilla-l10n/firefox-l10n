@@ -2,8 +2,8 @@
 <!ENTITY blockPopups.accesskey "т">
 <!ENTITY popupExceptions.label "Выключэнні…">
 <!ENTITY popupExceptions.accesskey "В">
-<!ENTITY loadImages.label "Загружаць малюнкі самастойна">
-<!ENTITY loadImages.accesskey "м">
+<!ENTITY loadImages.label "Загружаць выявы самастойна">
+<!ENTITY loadImages.accesskey "с">
 <!ENTITY exceptions.label "Выключэнні…">
 <!ENTITY exceptions.accesskey "В">
 <!ENTITY enableJavaScript.label "Дазволіць JavaScript">

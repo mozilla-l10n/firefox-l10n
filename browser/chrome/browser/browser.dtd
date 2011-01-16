@@ -262,15 +262,15 @@
 <!ENTITY viewPageInfoCmd.accesskey "З">
 <!ENTITY viewFrameInfoCmd.label "Праглядзець звесткі пра рамку">
 <!ENTITY viewFrameInfoCmd.accesskey "З">
-<!ENTITY reloadImageCmd.label "Абнавіць малюнак">
+<!ENTITY reloadImageCmd.label "Абнавіць выяву">
 <!ENTITY reloadImageCmd.accesskey "А">
-<!ENTITY viewImageCmd.label "Праглядзець малюнак">
-<!ENTITY viewImageCmd.accesskey "М">
-<!ENTITY viewImageInfoCmd.label "Звесткі пра малюнак">
-<!ENTITY viewImageInfoCmd.accesskey "м">
+<!ENTITY viewImageCmd.label "Праглядзець выяву">
+<!ENTITY viewImageCmd.accesskey "г">
+<!ENTITY viewImageInfoCmd.label "Звесткі пра выяву">
+<!ENTITY viewImageInfoCmd.accesskey "в">
 <!ENTITY viewVideoCmd.label "Прагледзець відэя">
 <!ENTITY viewVideoCmd.accesskey "г">
-<!ENTITY viewBGImageCmd.label "Праглядзець малюнак фону">
+<!ENTITY viewBGImageCmd.label "Праглядзець выяву фону">
 <!ENTITY viewBGImageCmd.accesskey "Ф">
 <!ENTITY setDesktopBackgroundCmd.label "Усталяваць як фон працоўнага стала…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "У">
@@ -294,13 +294,13 @@
 <!ENTITY saveLinkCmd.accesskey "С">
 <!ENTITY sendLinkCmd.label "Даслаць спасылку…">
 <!ENTITY sendLinkCmd.accesskey "ь">
-<!ENTITY saveImageCmd.label "Захаваць малюнак як…">
-<!ENTITY saveImageCmd.accesskey "х">
+<!ENTITY saveImageCmd.label "Захаваць выяву як…">
+<!ENTITY saveImageCmd.accesskey "я">
 <!ENTITY saveVideoCmd.label "Захаваць відэя як…">
 <!ENTITY saveVideoCmd.accesskey "в">
 <!ENTITY saveAudioCmd.label "Захаваць гук як…">
 <!ENTITY saveAudioCmd.accesskey "г">
-<!ENTITY sendImageCmd.label "Даслаць малюнак…">
+<!ENTITY sendImageCmd.label "Даслаць выяву…">
 <!ENTITY sendImageCmd.accesskey "ц">
 <!ENTITY sendVideoCmd.label "Даслаць відэя…">
 <!ENTITY sendVideoCmd.accesskey "Д">
@@ -308,10 +308,10 @@
 <!ENTITY sendAudioCmd.accesskey "а">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "с">
-<!ENTITY copyImageCmd.label "Капіяваць месцазнаходжанне малюнка">
+<!ENTITY copyImageCmd.label "Капіяваць месцазнаходжанне выявы">
 <!ENTITY copyImageCmd.accesskey "х">
-<!ENTITY copyImageContentsCmd.label "Капіяваць малюнак">
-<!ENTITY copyImageContentsCmd.accesskey "і">
+<!ENTITY copyImageContentsCmd.label "Капіяваць выяву">
+<!ENTITY copyImageContentsCmd.accesskey "я">
 <!ENTITY copyVideoURLCmd.label "Капіяваць месцазнаходжанне відэя">
 <!ENTITY copyVideoURLCmd.accesskey "К">
 <!ENTITY copyAudioURLCmd.label "Капіяваць месцазнаходжанне гуку">

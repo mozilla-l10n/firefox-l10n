@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Уласцівасці поля формы">
-<!ENTITY windowTitleImage.label "Уласцівасці малюнка формы">
+<!ENTITY windowTitleImage.label "Уласцівасці выявы формы">
 <!ENTITY InputType.label "Тып поля:">
 <!ENTITY InputType.accesskey "Т">
 <!ENTITY text.value "Тэкст">
@@ -46,7 +46,7 @@
 <!ENTITY reset.value "Кнопка ўзнаўлення:">
 <!ENTITY file.value "Файл">
 <!ENTITY hidden.value "Схаванае">
-<!ENTITY image.value "Малюнак">
+<!ENTITY image.value "Выява">
 <!ENTITY button.value "Кнопка">
 <!ENTITY InputSettings.label "Наладжванні поля">
 <!ENTITY InputName.label "Назва поля:">
@@ -60,7 +60,7 @@
 <!ENTITY InputChecked.label "Спярша адзначаны">
 <!ENTITY InputChecked.accesskey "а">
 <!ENTITY InputSelected.label "Вылучанае спярша">
-<!ENTITY InputSelected.accesskey "В">
+<!ENTITY InputSelected.accesskey "с">
 <!ENTITY InputReadOnly.label "Толькі для чытання">
 <!ENTITY InputReadOnly.accesskey "Ч">
 <!ENTITY InputDisabled.label "Забаронена">
@@ -75,5 +75,5 @@
 <!ENTITY AccessKey.accesskey "К">
 <!ENTITY Accept.label "Прымальныя тыпы:">
 <!ENTITY Accept.accesskey "т">
-<!ENTITY ImageProperties.label "Уласцівасці малюнка…">
-<!ENTITY ImageProperties.accesskey "м">
+<!ENTITY ImageProperties.label "Уласцівасці выявы…">
+<!ENTITY ImageProperties.accesskey "в">

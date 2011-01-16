@@ -18,5 +18,5 @@
 <!ENTITY someProvColors "Калі старонка сеціва забяспечваецца асабістымі колерамі і фонам">
 <!ENTITY alwaysUseDocumentColors.label "Заўсёды карыстацца фонам і колерамі, якія вызначаны старонкай сеціва">
 <!ENTITY alwaysUseDocumentColors.accesskey "ў">
-<!ENTITY useMyColors.label "Карыстацца выбранымі мной колерамі, не звяртаючы ўвагі на вызначаныя колеры і малюнак фону">
+<!ENTITY useMyColors.label "Карыстацца выбранымі мной колерамі, не звяртаючы ўвагі на вызначаныя колеры і выяву фону">
 <!ENTITY useMyColors.accesskey "м">

@@ -35,40 +35,40 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "Уласцівасці малюнка">
+<!ENTITY windowTitle.label "Уласцівасці выявы">
 <!ENTITY pixelsPopup.value "пікселяў">
-<!ENTITY locationEditField.label "Месцазнаходжанне малюнка:">
+<!ENTITY locationEditField.label "Image Location:">
 <!ENTITY locationEditField.accessKey "з">
-<!ENTITY locationEditField.tooltip "Набярыце назву файла малюнка ці месцазнаходжанне">
+<!ENTITY locationEditField.tooltip "Набярыце назву файла выявы ці яе месцазнаходжанне">
 <!ENTITY title.label "Падказка:">
 <!ENTITY title.accessKey "П">
 <!ENTITY title.tooltip "Атрыбут html 'title'. які адлюстроўваецца як падказка">
 <!ENTITY altText.label "Дадатковы тэкст:">
 <!ENTITY altText.accessKey "Д">
-<!ENTITY altTextEditField.tooltip "Набярыце тэкст для адлюстравання замест малюнка">
+<!ENTITY altTextEditField.tooltip "Набярыце тэкст для адлюстравання замест выявы">
 <!ENTITY noAltText.label "Не ўжываць дадатковы тэкст">
 <!ENTITY noAltText.accessKey "Н">
-<!ENTITY previewBox.label "Папярэдні прагляд малюнка">
+<!ENTITY previewBox.label "Папярэдні прагляд выявы">
 <!ENTITY actualSize.label "Сапраўдны памер:">
 <!ENTITY actualSizeRadio.label "Сапраўдны памер">
 <!ENTITY actualSizeRadio.accessKey "ў">
-<!ENTITY actualSizeRadio.tooltip "Вярнуцца да сапраўднага памеру малюнка">
+<!ENTITY actualSizeRadio.tooltip "Вярнуцца да сапраўднага памеру выявы">
 <!ENTITY customSizeRadio.label "Выбарачны памер">
 <!ENTITY customSizeRadio.accessKey "б">
-<!ENTITY customSizeRadio.tooltip "Змяніць памер малюнка на старонцы">
+<!ENTITY customSizeRadio.tooltip "Змяніць памер выявы на старонцы">
 <!ENTITY heightEditField.label "Вышыня:">
 <!ENTITY heightEditField.accessKey "В">
 <!ENTITY widthEditField.label "Шырыня:">
 <!ENTITY widthEditField.accessKey "Ш">
 <!ENTITY constrainCheckbox.label "Суадносны">
 <!ENTITY constrainCheckbox.accessKey "С">
-<!ENTITY constrainCheckbox.tooltip "Захоўваць суадносіны памеру малюнка">
-<!ENTITY imagemapBox.label "Мапа малюнка">
+<!ENTITY constrainCheckbox.tooltip "Захоўваць суадносіны памеру выявы">
+<!ENTITY imagemapBox.label "Мапа выявы">
 <!ENTITY removeImageMapButton.label "Выдаліць">
 <!ENTITY removeImageMapButton.accessKey "д">
 <!ENTITY editImageMapButton.label "Рэдагаваць…">
-<!ENTITY editImageMapButton.tooltip "Стварыць адметныя пункты для пстрыкання для гэтага малюнка">
-<!ENTITY alignment.label "Выраўноўваць тэкст да малюнку">
+<!ENTITY editImageMapButton.tooltip "Стварыць адметныя пункты для пстрыкання для гэтай выявы">
+<!ENTITY alignment.label "Выраўноўваць тэкст да выявы">
 <!ENTITY bottomPopup.value "Унізе">
 <!ENTITY topPopup.value "Угары">
 <!ENTITY centerPopup.value "Пасярэдзіне">
@@ -81,8 +81,8 @@
 <!ENTITY topBottomEditField.accessKey "г">
 <!ENTITY borderEditField.label "Суцэльная мяжа:">
 <!ENTITY borderEditField.accessKey "М">
-<!ENTITY showImageLinkBorder.label "Паказваць мяжу навокал злучанага малюнка">
-<!ENTITY showImageLinkBorder.accessKey "М">
+<!ENTITY showImageLinkBorder.label "Паказваць мяжу навокал злучанай выявы">
+<!ENTITY showImageLinkBorder.accessKey "я">
 <!ENTITY imageInputTab.label "Форма">
 <!ENTITY imageLocationTab.label "Месцазнаходжанне">
 <!ENTITY imageDimensionsTab.label "Вымярэнні">

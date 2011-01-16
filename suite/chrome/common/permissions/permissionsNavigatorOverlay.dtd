@@ -13,25 +13,25 @@
 <!ENTITY cookieBlockCookiesCmd.label "Затрымліваць біркі з гэтай сеціўнай пляцоўкі">
 <!ENTITY cookieBlockCookiesCmd.accesskey "т">
 <!ENTITY cookieBlockCookiesMsg.label "Біркі з гэтай сеціўнай пляцоўкі будуць заўсёды адхіляцца.">
-<!ENTITY cookieImageMessageTitle.label "Зменены дазволы малюнкаў">
-<!ENTITY cookieDisplayImagesCmd.label "Уладкаваць дазволы малюнкаў">
+<!ENTITY cookieImageMessageTitle.label "Зменены дазволы выяваў">
+<!ENTITY cookieDisplayImagesCmd.label "Уладкаваць дазволы выяваў">
 <!ENTITY cookieDisplayImagesCmd.accesskey "У">
-<!ENTITY cookieAllowImagesCmd.label "Дазволіць малюнкі з гэтай сеціўнай пляцоўкі">
+<!ENTITY cookieAllowImagesCmd.label "Дазволіць выявы з гэтай сеціўнай пляцоўкі">
 <!ENTITY cookieAllowImagesCmd.accesskey "Д">
-<!ENTITY cookieAllowImagesMsg.label "Малюнкі з гэтай сеціўнай пляцоўкі будуць заўсёды загружацца.">
-<!ENTITY cookieImagesDefaultCmd.label "Ужываць змоўчныя дазволы малюнкаў">
+<!ENTITY cookieAllowImagesMsg.label "Выявы з гэтай сеціўнай пляцоўкі будуць заўсёды загружацца.">
+<!ENTITY cookieImagesDefaultCmd.label "Ужываць змоўчныя дазволы выяваў">
 <!ENTITY cookieImagesDefaultCmd.accesskey "У">
-<!ENTITY cookieImagesDefaultMsg.label "Малюнкі з гэтай сеціўнай пляцоўкі будуць загружацца згодна змоўчным наладжванням.">
-<!ENTITY cookieBlockImagesCmd.label "Затрымліваць малюнкі з гэтай сеціўнай пляцоўкі">
+<!ENTITY cookieImagesDefaultMsg.label "Выявы з гэтай сеціўнай пляцоўкі будуць загружацца згодна змоўчным наладжванням.">
+<!ENTITY cookieBlockImagesCmd.label "Затрымліваць выявы з гэтай сеціўнай пляцоўкі">
 <!ENTITY cookieBlockImagesCmd.accesskey "т">
-<!ENTITY cookieBlockImagesMsg.label "Малюнкі з гэтай сеціўнай пляцоўкі ніколі не будуць загружацца.">
+<!ENTITY cookieBlockImagesMsg.label "Выявы з гэтай сеціўнай пляцоўкі ніколі не будуць загружацца.">
 <!ENTITY cookieAllowPopupsCmd.label "Дазволіць вынырцы з гэтай сеціўнай пляцоўкі">
 <!ENTITY cookieAllowPopupsCmd.accesskey "Д">
 <!ENTITY cookieManagePopups.label "Кіраваць вынырцамі">
 <!ENTITY cookieManagePopups.accesskey "К">
 <!ENTITY cookieCookieManager.label "Кіраўнік бірак">
 <!ENTITY cookieCookieManager.accesskey "Б">
-<!ENTITY cookieImageManager.label "Кіраўнік малюнкаў">
+<!ENTITY cookieImageManager.label "Кіраўнік выяваў">
 <!ENTITY cookieImageManager.accesskey "і">
 <!ENTITY cookiePopupManager.label "Кіраўнік вынырцаў">
 <!ENTITY cookiePopupManager.accesskey "ы">
