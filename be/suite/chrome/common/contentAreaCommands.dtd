@@ -12,6 +12,8 @@
 <!ENTITY openFrameCmd.accesskey "ч">
 <!ENTITY openFrameCmdInTab.label "Адчыніць рамку ў новай устаўцы">
 <!ENTITY openFrameCmdInTab.accesskey "ў">
+<!ENTITY keywordfield.label "Дадаць ключавое слова для гэтага пошуку…">
+<!ENTITY keywordfield.accesskey "к">
 <!ENTITY showOnlyThisFrameCmd.label "Паказваць толькі гэтую рамку">
 <!ENTITY showOnlyThisFrameCmd.accesskey "Г">
 <!ENTITY goBackCmd.label "Назад">

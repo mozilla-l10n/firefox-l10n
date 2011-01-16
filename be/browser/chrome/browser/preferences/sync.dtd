@@ -1,8 +1,6 @@
 <!ENTITY setupButton.label "Уладкаваць &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey "У">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; дазваляе вам мець доступ да вашых гісторыі, закладак, пароляў і адкрытых уставак на ўсіх вашых збудовах.">
-<!ENTITY accountGroupboxCaption.label "Рахунак &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label "Цяперашні рахунак:">
 <!ENTITY updatePass.label "Абнавіць">
 <!ENTITY resetPass.label "Скінуць">
 <!ENTITY manageAccount.label "Кіраваць рахункам">
@@ -11,11 +9,7 @@
 <!ENTITY changePassword.label "Змяніць пароль">
 <!ENTITY mySyncKey.label "Мой ключ Sync">
 <!ENTITY resetSync.label "Узнавіць сінхранізацыю">
-<!ENTITY stopUsingAccount.label "Перастаць карыстацца гэтым рахункам">
 <!ENTITY addDevice.label "Дадаць збудову">
-<!ENTITY syncPrefsCaption.label "Сінхранізацыя азіральніка">
-<!ENTITY syncComputerName.label "Назва кампутара:">
-<!ENTITY syncComputerName.accesskey "к">
 <!ENTITY syncMy.label "Sync мяне">
 <!ENTITY engine.bookmarks.label "Закладкі">
 <!ENTITY engine.bookmarks.accesskey "З">
@@ -27,5 +21,8 @@
 <!ENTITY engine.passwords.accesskey "П">
 <!ENTITY engine.prefs.label "Перавагі">
 <!ENTITY engine.prefs.accesskey "в">
+<!ENTITY syncComputerName.label "Назва кампутара:">
+<!ENTITY syncComputerName.accesskey "к">
+<!ENTITY deactivateDevice.label "Абяздзейніць гэтую пабудову">
 <!ENTITY prefs.tosLink.label "Умовы абслугоўвання">
 <!ENTITY prefs.ppLink.label "Палітыка адасаблення">

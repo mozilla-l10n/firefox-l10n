@@ -36,8 +36,8 @@
 <!ENTITY reuseExpRadio0.accesskey "н">
 <!ENTITY reuseExpRadio1.label "У існым акне лістоў">
 <!ENTITY reuseExpRadio1.accesskey "і">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label "Закрыць акно паведамленняў пры перамяшчэнні або выдаленні">
-<!ENTITY closeMsgWindowOnDelete.accesskey "к">
+<!ENTITY closeMsgOnMoveOrDelete.label "Зачыніць акно/устаўку пасля перамяшчэння або выдалення ліста">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "ч">
 <!ENTITY autoCheck.label "Самастойна правяраць, ці існуюць абнаўленні да:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">

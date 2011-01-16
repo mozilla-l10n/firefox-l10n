@@ -1,0 +1,12 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Вызначальнік пабудовы прыстасавання">
+<!ENTITY aboutSupport.accountsTitle "Рахункі пошты і навінаў">
+<!ENTITY aboutSupport.showPrivateData.mainText "Уключаць назвы рахункаў">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(магчымыя вызначальныя звесткі)">
+<!ENTITY aboutSupport.accountsID "Вызначальнік">
+<!ENTITY aboutSupport.accountsName "Назва">
+<!ENTITY aboutSupport.accountsIncomingServer "Уваходны паслугач">
+<!ENTITY aboutSupport.accountsOutgoingServers "Выходны паслугач">
+<!ENTITY aboutSupport.accountsConnSecurity "Бяспека злучэння">
+<!ENTITY aboutSupport.accountsAuthMethod "Метад апазнавання">
+<!ENTITY aboutSupport.accountsDefault "Змоўчна?">
+<!ENTITY aboutSupport.sendViaEmail.label "Даслаць э-поштай">
