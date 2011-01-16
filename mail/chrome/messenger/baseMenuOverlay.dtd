@@ -5,6 +5,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ajuda">
 <!ENTITY helpMenuWin.accesskey "A">
+<!ENTITY helpTroubleshootingInfo.label     "Informação de suporte">
+<!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY releaseCmd.label "Notas de lançamento">
 <!ENTITY releaseCmd.accesskey "N">
 <!ENTITY whatsNewCmd.label "O que há de novo">
