@@ -44,7 +44,8 @@
 
 <!ENTITY event.title.label "Modifier l'élément" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Conserver la durée lors de la modification de la date de fin">
+<!ENTITY event.dialog.keepDurationButton.accesskey "C">
 
 <!ENTITY newevent.from.label "Du" >
 <!ENTITY newevent.to.label "Au" >
