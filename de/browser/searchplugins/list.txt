@@ -1,5 +1,6 @@
 google
 yahoo-de
+bing
 amazondotcom-de
 eBay-de
 wikipedia-de
