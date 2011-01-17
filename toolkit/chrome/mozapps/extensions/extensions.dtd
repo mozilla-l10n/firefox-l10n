@@ -29,14 +29,14 @@
 <!ENTITY view.locales.label                   "Lingvoj">
 <!ENTITY view.searchengines.label             "Serĉiloj">
 <!ENTITY view.features.label                  "Etendoprogramoj">
-<!ENTITY view.appearance2.label               "Appearance">
+<!ENTITY view.appearance2.label               "Aspekto">
 <!ENTITY view.plugins.label                   "Kromprogramoj">
 <!ENTITY view.recentUpdates.label             "Ĵusaj ĝisdatigoj">
 <!ENTITY view.availableUpdates.label          "Haveblaj ĝisdatigoj">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Kontroli ĉu estas ĝisdatigoj">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.checkForUpdates.accesskey    "K">
 <!ENTITY updates.viewUpdates.label            "Vidi ĵusajn ĝisdatigojn">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
@@ -72,8 +72,8 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferoj">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "About">
-<!ENTITY cmd.about.accesskey                  "A">
+<!ENTITY cmd.about.label                      "Pri">
+<!ENTITY cmd.about.accesskey                  "r">
 
 <!ENTITY cmd.enableAddon.label                "Aktivigi">
 <!ENTITY cmd.enableAddon.accesskey            "A">
@@ -103,17 +103,14 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "What are Add-ons?">
-<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
-  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
-  your own.">
-<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
-  some of the best and most popular add-ons for you to try out.">
+<!ENTITY discover.title                       "Kio estas aldonaĵo?">
+<!ENTITY discover.description2                "Aldonaĵo estas programo kiu permesas al vi tajli &brandShortName; per funkcioj aŭ stilaj trajtoj.  Provu tempoŝparan flankan strion, veterinformilon aŭ etosan aspekton por ekposedi &brandShortName;.">
+<!ENTITY discover.footer                      "Se vi havas retaliron vi vidos en tiu ĉi kadro kelkajn el la plej bonaj kaj popularaj aldonaĵoj kiujn vi povus provi.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versio">
 <!ENTITY detail.lastupdated.label             "Laste modifita">
-<!ENTITY detail.creator.label                 "Disvolvigante">
+<!ENTITY detail.creator.label                 "Programisto">
 <!ENTITY detail.homepage.label                "Ĉefpaĝo">
 <!ENTITY detail.numberOfDownloads.label       "Elŝutoj">
 
@@ -196,7 +193,7 @@
 
 <!ENTITY addon.createdBy.label                "De ">
 
-<!ENTITY eula.title                           "End-User License Agreement">
+<!ENTITY eula.title                           "Permesila interkonsento por fina uzanto">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Akcepti kaj instali…">
