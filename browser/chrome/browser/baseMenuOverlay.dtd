@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Cyflwyno Adborth...">
 <!ENTITY helpFeedbackPage.accesskey  "C">
 
-<!ENTITY updateCmd.label                "Gwirio am ddiweddariadau...">
-
 <!ENTITY preferencesCmdMac.label        "Dewisiadau...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
