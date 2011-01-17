@@ -1,12 +1,12 @@
 <!ENTITY aboutDialog.title      	"Oer &brandFullName;">
 
-<!ENTITY community.start2           "&brandShortName; is makke trochy ">
+<!ENTITY community.start2           "&brandShortName; is makke troch ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", in ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "wrâldwide mienskip">
-<!ENTITY community.end2             " dy't gearwurket om it Ynternet better te meitsjen. Wy leawe dat it Ynternet iepen wêze moat, publyklik en tagonklik foar elkenien sûnder ien beheining.">
+<!ENTITY community.end2             " dy't gearwurket om it Ynternet better te meitsjen. Wy leawe dat it Ynternet iepen wêze moat, publyklik en tagonklik foar elkenien sûnder beheining.">
 
 <!ENTITY contribute.start           "Klinkt goed? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
