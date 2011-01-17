@@ -97,7 +97,7 @@ can reach it easily. -->
 <!ENTITY closeWindow.accesskey "h">
 
 <!ENTITY bookmarksMenu.label "Laster-markak">
-<!ENTITY bookmarksMenu.accesskey "L">
+<!ENTITY bookmarksMenu.accesskey "m">
 <!ENTITY bookmarkThisPageCmd.label "Egin orriaren laster-marka">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Harpidetu orri honetara">
