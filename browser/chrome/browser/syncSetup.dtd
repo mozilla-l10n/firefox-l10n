@@ -73,6 +73,7 @@
 <!ENTITY setup.existingSyncKeyPage.description "Sync Key je generiran za vas ili ste unijeli svoj vlastiti ključ kad ste se prvi put prijavili za &syncBrand.fullName.label;. Sync ključ nije isti kao i vaša lozinka.">
 <!ENTITY existingSyncKeyHelp.description "Spremljeni Sync ključ možete pronaći na drugom računalu provjeravanjem stavke Spremljene lozinke pod Sigurnost. Ako svejedno niste u mogućnosti dobiti ispravan Sync ključ, možete odabrati resetiranje ključa, ali time ćete izgubiti sve podatke spremljene na poslužitelju.">
 <!ENTITY lostSyncKey.label            "Izgubio/la sam svoj Sync ključ">
+<!ENTITY resetSyncKey.label           "Izgubio/la sam drugi uređaj.">
 <!ENTITY verifying.label              "Provjera…">
 
 <!-- Sync Options -->
