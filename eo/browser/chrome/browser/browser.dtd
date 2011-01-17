@@ -277,13 +277,13 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Modifi">
-<!ENTITY appMenuCustomize.label "Customize">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appMenuCustomize.label "Persone agordi">
+<!ENTITY appMenuToolbarLayout.label "Aranĝo de ilaroj…">
 <!ENTITY appMenuSidebars.label "Flankaj strioj">
 <!ENTITY appMenuFind.label "Serĉi…">
 <!ENTITY appMenuUnsorted.label "Neordigitaj legosignoj">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
-<!ENTITY appMenuGettingStarted.label "Getting Started">
+<!ENTITY appMenuWebDeveloper.label "Disvolviganto TTTa">
+<!ENTITY appMenuGettingStarted.label "Unuaj paŝoj">
 <!ENTITY appMenuSafeMode.label "Rekomenci kun aldonaĵoj malaktivigitaj…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
@@ -379,25 +379,25 @@ can reach it easily. -->
 <!ENTITY sendLinkCmd.accesskey        "e">
 <!ENTITY saveImageCmd.label           "Konservi bildon kiel…">
 <!ENTITY saveImageCmd.accesskey       "n">
-<!ENTITY saveVideoCmd.label           "Save Video As…">
+<!ENTITY saveVideoCmd.label           "Konservi videon kiel…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Save Audio As…">
+<!ENTITY saveAudioCmd.label           "Konservi sonon kiel…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "Sendi bildon…">
 <!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Send Video…">
+<!ENTITY sendVideoCmd.label           "Sendi videon…">
 <!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "Send Audio…">
+<!ENTITY sendAudioCmd.label           "Sendi sonon…">
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Kopii adreson de ligilo">
 <!ENTITY copyLinkCmd.accesskey        "k">
-<!ENTITY copyImageCmd.label           "Kopii retadreson de bildo">
+<!ENTITY copyImageCmd.label           "Kopii adreson de bildo">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopii bildon">
 <!ENTITY copyImageContentsCmd.accesskey  "b"> 
-<!ENTITY copyVideoURLCmd.label        "Copy Video Location">
+<!ENTITY copyVideoURLCmd.label        "Kopii adreson de video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.label        "Kopii adreson de sono">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Kopii retpoŝtan adreson">
 <!ENTITY copyEmailCmd.accesskey       "R">
@@ -460,7 +460,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY zoomOutButton.tooltip          "Malproksimiĝi">
 <!ENTITY zoomInButton.tooltip           "Alproksimiĝi">
-<!ENTITY zoomControls.label             "Zomaj regiloj">
+<!ENTITY zoomControls.label             "Regado de pligrandigilo">
 
 <!ENTITY quitApplicationCmdWin.label       "Eliri"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "l">
