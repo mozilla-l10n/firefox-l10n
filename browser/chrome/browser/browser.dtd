@@ -70,7 +70,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Ilaro de legosignoj">
 <!ENTITY personalbarCmd.accesskey "P">
 <!ENTITY bookmarksToolbarItem.label "Elementoj de ilaro de legosignoj">
-<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.label "Ilaro de aldonaĵoj">
 <!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Fonto de paĝo">
@@ -536,7 +536,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY allTabs.filter.emptyText "Serĉi foliojn">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Browser tabs">
+<!ENTITY tabsToolbar.label "Folioj de retesplorilo">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Folioj el aliaj komputiloj">

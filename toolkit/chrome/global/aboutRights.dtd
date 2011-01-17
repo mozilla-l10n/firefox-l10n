@@ -16,23 +16,23 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c "Tio signifas ke vi povas uzi, kopii kaj distribui &brandShortName; al aliaj homoj. Oni kuraĝigas vin modifi la fontan kodon de &brandShortName; kiel ajn vi volas por akomodi ĝin al viaj bezonoj. La Mozilla Public License ankaŭ rajtigas vin distribui viajn modifitajn versiojn.">
 
-<!ENTITY rights.intro-point2-a "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found ">
+<!ENTITY rights.intro-point2-a "Neniu rajto pri la registrita marko aŭ uzopermesilo por la registritaj markoj de Mozilla Foundation aŭ de iu alia estas ceditaj al vi. Tio inkluzivas, sed ne nur tion, la nomon aŭ emblemon de Firefox.  Pli da informo pri registritaj markoj estas trovebla ">
 <!ENTITY rights.intro-point2-b "ĉi tie">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
+<!ENTITY rights.intro-point2.5 "Kelkaj trajtoj de &brandShortName;, kiel la Panea Raportisto, ebligas al vi sendi raporton al &vendorShortName;. Se vi decidas sendi raporton, vi donas al  &vendorShortName; la permeson uzi tiun raporton por plibonigi ĝiajn produktojn, publikigi la raporton en ĝiaj retejoj kaj distribui ĝin.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "How we use your personal information and feedback submitted to &vendorShortName; through &brandShortName; is described in the ">
-<!ENTITY rights2.intro-point3b "&brandShortName; Privacy Policy">
+<!ENTITY rights2.intro-point3a "Priskribo pri kiel ni uzas viajn personajn datumojn kaj la raportojn senditajn al &vendorShortName; per &brandShortName; troveblas en la ">
+<!ENTITY rights2.intro-point3b "&brandShortName; Politiko pri privateco">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Ĉiu aplikebla privateca politiko por tiu ĉi produkto devus esti listita ĉi tie.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Some &brandShortName; features make use of web-based information services, however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the ">
+<!ENTITY rights2.intro-point4a "Kelkaj trajtoj de &brandShortName; uzas TTT-bazitajn informservojn. Ni tamen ne povas garantii ke ili estas 100&#37; precizaj aŭ seneraraj.  Pli da detaloj, kiuj inkluzivas informon pri kiel malaktivigi la trajtojn kiuj uzas tiajn servojn, troveblas en la ">
 <!ENTITY rights.intro-point4b "servaj kondiĉoj">
 <!ENTITY rights.intro-point4c ".">
 
@@ -41,7 +41,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Retejaj servoj">
 <!ENTITY rights.intro-point4c-unbranded "sekcio.">
 
-<!ENTITY rights2.webservices-header "&brandFullName; Web-Based Information Services">
+<!ENTITY rights2.webservices-header "&brandFullName; TTT-bazitaj Informservoj">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -63,10 +63,10 @@
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
 <!ENTITY rights.locationawarebrowsing-b "is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:">
-<!ENTITY rights.locationawarebrowsing-term1a "In the URL bar, type ">
+<!ENTITY rights.locationawarebrowsing-term1a "En la adresa strio tajpu ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
-<!ENTITY rights.locationawarebrowsing-term2 "Type geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term3 "Double click on the geo.enabled preference">
+<!ENTITY rights.locationawarebrowsing-term2 "Tajpu geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Duoble alklaku la preferon geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
 
 <!-- intro paragraph for unbranded builds -->
