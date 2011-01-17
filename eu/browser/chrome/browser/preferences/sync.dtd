@@ -3,10 +3,8 @@
 <!ENTITY setupButton.accesskey      "K">
 <!ENTITY weaveDesc.label            "Zure gailuen artean historia, laster-markak, pasahitzak eta irekitako fitxak atzitzen uzten dizu &syncBrand.fullName.label;(e)k.">
 <!-- The page shown when logged in... -->
-
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; kontua">
-<!ENTITY currentAccount.label         "Uneko kontua:">
 <!-- Login error feedback -->
+
 
 <!ENTITY updatePass.label             "Eguneratu">
 <!ENTITY resetPass.label              "Berrezarri">
@@ -18,12 +16,7 @@
 <!ENTITY changePassword.label         "Aldatu pasahitza">
 <!ENTITY mySyncKey.label              "Nire Sync gakoa">
 <!ENTITY resetSync.label              "Berrezarri Sync">
-<!ENTITY stopUsingAccount.label       "Utzi kontu hau erabiltzeari">
-<!-- Sync Settings -->
-
-<!ENTITY syncPrefsCaption.label       "Nabigatzailea sinkronizatzea">
-<!ENTITY syncComputerName.label       "Ordenagailuaren izena:">
-<!ENTITY syncComputerName.accesskey   "O">
+<!ENTITY addDevice.label              "Gehitu gailua">
 
 <!ENTITY syncMy.label               "Sinkronizatu nire">
 <!ENTITY engine.bookmarks.label     "Laster-markak">
@@ -36,8 +29,12 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Hobespenak">
 <!ENTITY engine.prefs.accesskey     "o">
-<!-- Footer stuff -->
+<!-- Device Settings -->
 
+<!ENTITY syncComputerName.label       "Ordenagailuaren izena:">
+<!ENTITY syncComputerName.accesskey   "O">
+<!ENTITY deactivateDevice.label       "Desaktibatu gailu hau">
+<!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Zerbitzuaren baldintzak">
 <!ENTITY prefs.ppLink.label         "Pribatutasun-politika">
