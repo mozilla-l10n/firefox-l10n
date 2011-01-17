@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Applikaasje Build ID">
+
+<!ENTITY aboutSupport.accountsTitle "E-mail en nijs-accounts">
+<!ENTITY aboutSupport.showPrivateData.mainText "Ynklusyf accountnammen">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(mooglik identifikaasje-ynformaasje)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Namme">
+<!ENTITY aboutSupport.accountsIncomingServer "Ynkommende tsjinner">
+<!ENTITY aboutSupport.accountsOutgoingServers "Utgeande tsjinners">
+<!ENTITY aboutSupport.accountsConnSecurity "Ferbiningsfeilichheid">
+<!ENTITY aboutSupport.accountsAuthMethod "Autentikaasjemetoade">
+<!ENTITY aboutSupport.accountsDefault "Standert?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Ferstjoer fia e-mail">
