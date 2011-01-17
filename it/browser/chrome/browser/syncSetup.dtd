@@ -53,7 +53,7 @@
 <!ENTITY existingSyncKey.description 'È possibile ottenere una copia della Chiave Sync aprendo le Opzioni di &syncBrand.shortName.label; su un altro dispositivo e selezionando "Chiave Sync" in "Gestione account".'>
 <!ENTITY verifying.label "Verifica in corso…">
 <!ENTITY resetPassword.label "Ripristina la password">
-<!ENTITY lostSyncKey.label "Ho perso la Chiave Sync">
+<!ENTITY resetSyncKey.label "Ho perso l'altro dispositivo.">
 <!ENTITY setup.optionsPage.title "Opzioni di sincronizzazione">
 <!ENTITY syncComputerName.label "Nome del computer:">
 <!ENTITY syncComputerName.accesskey "u">
