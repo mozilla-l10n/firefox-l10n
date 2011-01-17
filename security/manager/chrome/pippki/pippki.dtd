@@ -84,9 +84,9 @@
 <!ENTITY caCertExists.message "Digitalno potrdilo že obstaja.">
 
 <!-- Strings for the SSL client auth ask dialog -->
-<!ENTITY clientAuthAsk.title "Zahteva identifikacije uporabnika">
+<!ENTITY clientAuthAsk.title "Zahteva po identifikaciji uporabnika">
 <!ENTITY clientAuthAsk.message1 "Ta stran zahteva, da se predstavite z digitalnim potrdilom:">
-<!ENTITY clientAuthAsk.message2 "Izberite digitalno potrdilo, ki vas bo identificiral:">
+<!ENTITY clientAuthAsk.message2 "Izberite digitalno potrdilo, ki vas predstavlja:">
 <!ENTITY clientAuthAsk.message3 "Podrobnosti o izbranem digitalnem potrdilu:">
 
 <!-- Strings for the cert picker dialog -->
