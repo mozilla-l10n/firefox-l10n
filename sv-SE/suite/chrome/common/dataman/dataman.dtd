@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Alla datatyper">
+<!ENTITY select.cookies.label "Enbart kakor">
+<!ENTITY select.permissions.label "Enbart sekretess">
+<!ENTITY select.preferences.label "Enbart inställningar">
+<!ENTITY select.passwords.label "Enbart lösenord">
+
 <!ENTITY domain.search.placeholder "Sök domäner">
 <!ENTITY domain.search.key "S">
 
@@ -93,6 +99,10 @@
 <!ENTITY perm.Allow "Tillåt">
 <!ENTITY perm.AllowSession "Tillåt tillfälligt">
 <!ENTITY perm.Block "Blockera">
+
+<!ENTITY perm.host.placeholder "Ange ett servernamn">
+<!ENTITY perm.button.add.label "Lägg till">
+<!ENTITY perm.button.add.accesskey "L">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Innehållsinställningar är ett sätt för &brandShortName; att spara inställningar, t.ex. zoom-nivå, unikt för en webbplats.">

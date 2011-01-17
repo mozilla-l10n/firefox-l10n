@@ -14,8 +14,8 @@
 <!ENTITY accOrgImagesRadio.accesskey    "n">
 <!ENTITY disableImages.label            "Hämta inga bilder">
 <!ENTITY disableImages.accesskey        "i">
-<!ENTITY viewImages.label               "Visa tillstånd för bilder">
-<!ENTITY viewImages.accesskey           "V">
+<!ENTITY viewPermissions.label          "Hantera tillåtna bilder">
+<!ENTITY viewPermissions.accesskey      "t">
 <!ENTITY animLoopingTitle.label         "Animeringssekvensen i animerade bilder ska visas">
 <!ENTITY animLoopAsSpecified.label      "Så många gånger som anges i bilden">
 <!ENTITY animLoopAsSpecified.accesskey  "m">

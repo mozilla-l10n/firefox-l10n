@@ -3,8 +3,8 @@
 <!ENTITY smartTitle.label                     "Hantera programinstallationer och uppdateringar">
 <!ENTITY enableSU.label                       "Tillåt webbplatser att installera programtillägg och uppdateringar">
 <!ENTITY enableSU.accesskey                   "T">
-<!ENTITY allowedSites.label                   "Tillåtna platser">
-<!ENTITY allowedSites.accesskey               "p">
+<!ENTITY viewPermissions.label                "Hantera tillåtna platser">
+<!ENTITY viewPermissions.accesskey            "t">
 
 <!ENTITY verifyUpdates.caption                "Uppdateringar">
 <!ENTITY autoUpdates.label                    "Kontrollera automatiskt om det finns uppdateringar till:">

@@ -13,5 +13,6 @@
 <!ENTITY  closeTabButton.tooltip   "Stäng den aktuella fliken">
 <!ENTITY  bookmarkGroup.accesskey  "B">
 <!ENTITY  newTabButton.tooltip     "Öppna en ny flik">
+<!ENTITY  listAllTabs.tooltip    "Lista alla flikar">
 <!ENTITY  undoCloseTab.label    "Ångra Stäng flik">
 <!ENTITY  undoCloseTab.accesskey  "Å">

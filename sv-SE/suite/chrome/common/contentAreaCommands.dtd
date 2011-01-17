@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey       "Ö">
 <!ENTITY openFrameCmdInTab.label      "Öppna ramen i en ny flik">
 <!ENTITY openFrameCmdInTab.accesskey  "f">
+<!ENTITY keywordfield.label           "Lägg till ett nyckelord för denna sökning…">
+<!ENTITY keywordfield.accesskey       "L">
 <!ENTITY showOnlyThisFrameCmd.label   "Visa endast denna ram">
 <!ENTITY showOnlyThisFrameCmd.accesskey "V">
 <!ENTITY goBackCmd.label              "Bakåt">
