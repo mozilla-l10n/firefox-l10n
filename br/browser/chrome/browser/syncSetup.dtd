@@ -33,7 +33,7 @@
 <!ENTITY setup.tosAgree1.label      "Asantiñ a ran d'an">
 <!ENTITY setup.tosAgree1.accesskey  "A">
 <!ENTITY setup.tosLink.label        "Divizoù arver">
-<!ENTITY setup.tosAgree2.label      "ha d'ar">
+<!ENTITY setup.tosAgree2.label      "ha da">
 <!ENTITY setup.ppLink.label         "Reolenn an diogelroez">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "a">
@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Tapet e vez un eilad eus hoc'h alc'hwez goubredañ en ur vont betek Dibarzhioù &syncBrand.shortName.label; gant ho trevnad hag en ur ziuzañ &#x0022;Ma alc'hwez goubredañ&#x0022; dindan &#x0022;Ardeiñ ar gont&#x0022;.">
 <!ENTITY verifying.label              "O wiriañ…">
 <!ENTITY resetPassword.label          "Adderaouekaat ar ger-tremen">
-<!ENTITY lostSyncKey.label            "Kollet em eus ma alc'hwez goubredañ">
+<!ENTITY resetSyncKey.label           "Kollet em eus ma zrevnad all.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Dibarzhioù ar goubredañ">

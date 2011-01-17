@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; a ro tro deoc'h da haeziñ ho roll istor, ho sinedoù, ho kerioù-tremen hag hoc'h ivinelloù digor dre meur a urzhiataer pe trevnad.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Kont &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Kont vremanel :">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Hizivaat">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "Kemm ar ger-tremen">
 <!ENTITY mySyncKey.label              "Ma alc'hwez goubredañ">
 <!ENTITY resetSync.label              "Adderaouekaat ar goubredañ">
-<!ENTITY stopUsingAccount.label       "Arsaviñ arver ar gont-mañ">
 <!ENTITY addDevice.label              "Ouzhpennañ un trevnad">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Goubredañ ar merdeer">
-<!ENTITY syncComputerName.label       "Anv an urzhiataer :">
-<!ENTITY syncComputerName.accesskey   "A">
 
 <!ENTITY syncMy.label               "Goubredañ ma">
 <!ENTITY engine.bookmarks.label     "Sinedoù">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label         "Gwellvezioù">
 <!ENTITY engine.prefs.accesskey     "G">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Anv an urzhiataer :">
+<!ENTITY syncComputerName.accesskey   "A">
+<!ENTITY deactivateDevice.label       "Diweredekaat an trevnad-mañ">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Divizoù arver">
