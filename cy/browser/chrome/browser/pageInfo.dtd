@@ -44,7 +44,7 @@
 <!ENTITY  copy.label            "Copïo">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "a">
-<!ENTITY  selectall.label       "Dewis y Cyfan">
+<!ENTITY  selectall.label       "Dewis Popeth">
 <!ENTITY  selectall.accesskey   "D">
 <!ENTITY  closeWindow.key       "w">
 
@@ -82,7 +82,7 @@
 
 <!ENTITY  feedTab               "Llif">
 <!ENTITY  feedTab.accesskey     "L">
-<!ENTITY  feedSubscribe         "Tanysgrifo">
+<!ENTITY  feedSubscribe         "Tanysgrifio">
 <!ENTITY  feedSubscribe.accesskey "T">
 
 <!ENTITY  permTab               "Caniatâd">

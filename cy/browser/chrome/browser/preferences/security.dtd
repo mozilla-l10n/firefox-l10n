@@ -20,8 +20,8 @@
 
 <!ENTITY  passwords.label               "Cyfrineiriau">
 
-<!ENTITY  rememberPasswords.label       "Cofio cyfrineiriau safleoedd gwe">
-<!ENTITY  rememberPasswords.accesskey   "C">
+<!ENTITY  rememberPasswords.label       "Cofio cyfrineiriau gwefannau">
+<!ENTITY  rememberPasswords.accesskey   "r">
 <!ENTITY  passwordExceptions.label      "Eithiadau...">
 <!ENTITY  passwordExceptions.accesskey  "i">
 

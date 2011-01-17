@@ -1,7 +1,7 @@
 <!ENTITY window.title                 "Eithriadau">
 <!ENTITY window.width                 "36em">
 
-<!ENTITY treehead.sitename.label      "Safle">
+<!ENTITY treehead.sitename.label      "Gwefan">
 <!ENTITY treehead.status.label        "Statws">
 <!ENTITY removepermission.label       "Tynnu'r Wefan">
 <!ENTITY removepermission.accesskey   "T">

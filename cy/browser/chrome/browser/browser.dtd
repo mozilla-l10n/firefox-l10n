@@ -37,7 +37,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Dadwneud Cau'r Tab">
 <!ENTITY  undoCloseTab.accesskey             "u">
-<!ENTITY  closeTab.label                     "Cau'r Tab">
+<!ENTITY  closeTab.label                     "Cau Tab">
 <!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "Rhestru pob tab">
@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY openLocationCmd.accesskey "L">
 <!ENTITY openFileCmd.label "Agor Ffeil...">
 <!ENTITY openFileCmd.accesskey "A">
-<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY openFileCmd.commandkey "a">
 <!ENTITY printSetupCmd.label "Gosodiad Tudalen...">
 <!ENTITY printSetupCmd.accesskey "G">
 <!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
@@ -78,7 +78,7 @@ can reach it easily. -->
 <!ENTITY pageSourceCmd.commandkey "o">
 <!ENTITY pageInfoCmd.label "Gwybodaeth am y Dudalen">
 <!ENTITY pageInfoCmd.accesskey "G">
-<!ENTITY pageInfoCmd.commandkey "G">
+<!ENTITY pageInfoCmd.commandkey "g">
 <!ENTITY fullScreenCmd.label "Sgrin Lawn">
 <!ENTITY fullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Tanysgrifio i'r Dudalen">
 <!ENTITY subscribeToPageMenuitem.label "Tanysgrifo i'r Dudalen Hon...">
 <!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab...">
-<!ENTITY showAllBookmarks.label "Dangos Pob Nod Tudalen">
+<!ENTITY showAllBookmarks2.label "Dangos Pob Nod Tudalen">
 <!ENTITY bookmarkAllCmd.label "Nod Tudalen i Bob Tab...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dangos pob ffolder nod tudalen">
 
@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Ymlaen">
 <!ENTITY forwardCmd.accesskey         "Y">
 <!ENTITY forwardButton.tooltip        "Ymlaen un tudalen">
-<!ENTITY backForwardMenu.tooltip      "Tudalennau diweddar">
 <!ENTITY reloadCmd.label              "Ail-lwytho">
 <!ENTITY reloadCmd.accesskey          "A">
 <!ENTITY reloadButton.tooltip         "Ail-lwytho'r dudalen gyfredol">
@@ -220,7 +219,7 @@ can reach it easily. -->
 <!ENTITY undoCmd.label            "Dadwneud">  
 <!ENTITY undoCmd.key            "z">  
 <!ENTITY undoCmd.accesskey          "D"> 
-<!ENTITY redoCmd.label            "Ail-wneud">  
+<!ENTITY redoCmd.label            "Ailwneud">  
 <!ENTITY redoCmd.key            "y">  
 <!ENTITY redoCmd.accesskey          "A"> 
 <!ENTITY cutCmd.label           "Torri">  
@@ -235,11 +234,11 @@ can reach it easily. -->
 <!ENTITY deleteCmd.label          "Dileu">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "Dewis y Cyfan">  
+<!ENTITY selectAllCmd.label         "Dewis Popeth">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "e"> 
-<!ENTITY preferencesCmd.label       "Dewisiadau...">
-<!ENTITY preferencesCmd.accesskey     "D"> 
+<!ENTITY selectAllCmd.accesskey       "D"> 
+<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey     "e"> 
 
@@ -390,8 +389,8 @@ can reach it easily. -->
 <!ENTITY sendVideoCmd.accesskey       "A">
 <!ENTITY sendAudioCmd.label           "Anfon Sain...">
 <!ENTITY sendAudioCmd.accesskey       "a">
-<!ENTITY copyLinkCmd.label            "Copïo Lleoliad y Cysylltiad">
-<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyLinkCmd.label            "Copïo Lleoliad Cysylltiad">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Copïo Lleoliad Delwedd">
 <!ENTITY copyImageCmd.accesskey       "l">
 <!ENTITY copyImageContentsCmd.label   "Copïo Delwedd">

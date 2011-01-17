@@ -6,8 +6,8 @@
 <!ENTITY pasteCmd.accesskey "G">
 <!ENTITY undoCmd.label "Dadwneud">
 <!ENTITY undoCmd.accesskey "d">
-<!ENTITY selectAllCmd.label "Dewis y Cyfan">
-<!ENTITY selectAllCmd.accesskey "e">
+<!ENTITY selectAllCmd.label "Dewis Popeth">
+<!ENTITY selectAllCmd.accesskey "D">
 <!ENTITY deleteCmd.label "Dileu">
 <!ENTITY deleteCmd.accesskey "l">
 

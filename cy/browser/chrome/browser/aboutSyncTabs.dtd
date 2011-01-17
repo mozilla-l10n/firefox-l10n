@@ -12,6 +12,6 @@
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Nod Tudalen i'r Tab...">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "T">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "Nod Tudalen i'r Tabiau Dewiswyd">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "T">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "N">
 <!ENTITY tabs.context.refreshList.label               "Adnewyddu Rhestr">
 <!ENTITY tabs.context.refreshList.accesskey           "R">

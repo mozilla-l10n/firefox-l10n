@@ -3,7 +3,7 @@
 <!ENTITY undoCmd.label             "Dadwneud">
 <!ENTITY undoCmd.key               "z">
 <!ENTITY undoCmd.accesskey         "d">
-<!ENTITY redoCmd.label             "Ail-wneud">
+<!ENTITY redoCmd.label             "Ailwneud">
 <!ENTITY redoCmd.key               "y">
 <!ENTITY redoCmd.accesskey         "A">
 <!ENTITY cutCmd.label              "Torri">
@@ -17,9 +17,9 @@
 <!ENTITY pasteCmd.accesskey        "G">
 <!ENTITY deleteCmd.label           "Dileu">
 <!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "Dewis y Cyfan">
+<!ENTITY selectAllCmd.label        "Dewis Popeth">
 <!ENTITY selectAllCmd.key          "a">
-<!ENTITY selectAllCmd.accesskey    "e">
+<!ENTITY selectAllCmd.accesskey    "D">
 <!ENTITY findCmd.label             "Canfod">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "C">

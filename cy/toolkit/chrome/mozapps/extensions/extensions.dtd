@@ -186,3 +186,8 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ymddiheuriadau, bu gwall wrth lwytho'r nodiadau ryddhau.">
 
 <!ENTITY addon.createdBy.label                "Gan ">
+
+<!ENTITY eula.title                           "Cytundeb Trwydded Defnyddiwr">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Derbyn a Gosod...">
