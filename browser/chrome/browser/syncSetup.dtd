@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description  "Jo kinne in kopy fan jo Sync-kaai krije by &syncBrand.shortName.label; Opsjes op jo oare apparaat, en &#x0022;Myn Sync-kaai&#x0022; ûnder &#x0022;Behear account&#x0022;.">
 <!ENTITY verifying.label              "Ferifiearje…">
 <!ENTITY resetPassword.label          "Wachtwurd op 'e nij ynstelle">
-<!ENTITY lostSyncKey.label            "Ik haw myn Sync-kaai ferlern">
+<!ENTITY resetSyncKey.label           "Ik haw myn oare apparaat ferlern.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync-opsjes">
