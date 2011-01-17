@@ -43,8 +43,6 @@
 <!ENTITY syncKeyEntry.label        "Eich Allwedd Cydweddu">
 <!ENTITY syncKeyEntry.accesskey    "E">
 <!ENTITY syncKeyGenerate.label     "Cynhyrchu">
-<!ENTITY syncKeyStrength.label     "Cryfder:">
-<!ENTITY syncKeyHelp.label         "Beth mae cryfder yn ei feddwl">
 <!ENTITY syncKeyBackup.description "Mae angen eich Allwedd Cydweddu i gael mynediad i &syncBrand.fullName.label; ar beiriannau eraill. Cofiwch greu copi wrth gefn. Nid ydym yn gallu eich cynorthwyo i adfer eich Allwedd Cydweddu.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Argraffu...">
@@ -92,11 +90,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Cadarnhau">
 <!ENTITY confirm.merge.label    "Bydd &syncBrand.fullName.label; yn cydweddu holl ddata porwr y cyfrifiadur hwn gyda'ch cyfrif Sync.">
-<!ENTITY confirm.client.label         "Bydd holl ddata All &brandShortName; ar y cyfrifiadur hwn yn cael ei ddileu, gan gynnwys y canlynol:">
+<!ENTITY confirm.client2.label         "Rhybudd: Bydd y data &BrandShortName; canlynol sydd ar y cyfrifiadur yn cael ei ddileu:">
 <!ENTITY confirm.client.moreinfo.label "Bydd &brandShortName; yn copïo data &syncBrand.fullName.label; i'r cyfrifiadur yma.">
-<!ENTITY confirm.client.warning.label "RHYBUDD: Canlyniad hyn yw y bydd holl ddata &brandShortName; ar y cyfrifiadur yma'n cael ei amnewid!">
-<!ENTITY confirm.server.label         "Bydd data'r dyfeisiu canlynol yn cael eu trosysgrifennu gan eich data lleol.">
-<!ENTITY confirm.server.warning.label "RHYBUDD: Bydd eich data lleol yn amnewid data &brandShortName; ar y dyfeisiau hyn!">
+<!ENTITY confirm.server2.label         "Rhybudd: Bydd y dyfeisiau canlynol yn cael eu trosysgrifennu gan eich data lleol:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Wedi Cwblhau'r Gosod">

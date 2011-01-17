@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Chwilio:">
 <!ENTITY search.accesskey                          "C">
+
+<!ENTITY search.in.label                           "Chwilio yn:">
 <!ENTITY search.scopeFolder.label                  "Ffolderi Dewiswyd">
 <!ENTITY search.scopeFolder.accesskey              "d">
 <!ENTITY search.scopeBookmarks.label               "Nodau Tudalen">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "l">
 <!ENTITY detailsPane.noPreviewAvailable.label "Rhagolwg">
 <!ENTITY detailsPane.selectAnItemText.description "Dewis eitem i'w gweld a golygu ei phriodweddau">
+
+<!ENTITY find.label               "Chwilio:">
+<!ENTITY find.accesskey           "C">
+<!ENTITY view.label               "Golwg">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "Yn ôl Dyddiad">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "Yn ôl Gwefan">
+<!ENTITY bySite.accesskey         "Y">
+<!ENTITY byMostVisited.label      "Ymwelwyd Amlaf">
+<!ENTITY byMostVisited.accesskey  "Y">
+<!ENTITY byLastVisited.label      "Ymwelwyd Diwethaf">
+<!ENTITY byLastVisited.accesskey  "l">
+<!ENTITY byDayAndSite.label       "Yn ôl Dyddiad a Gwefan">
+<!ENTITY byDayAndSite.accesskey   "Y">
