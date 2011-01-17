@@ -117,7 +117,7 @@
 <!ENTITY  securityView.identity.verifier "Kontrolita de:">
 
 <!ENTITY  securityView.privacy.header                   "Privateco kaj historio">
-<!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
+<!ENTITY  securityView.privacy.history                  "Ĉu mi vizitis tiun ĉi retejon antaŭ ol hodiaŭ?">
 <!ENTITY  securityView.privacy.cookies                  "Ĉu tiu ĉi retejo konservas datumon (kuketojn) en mia komputilo?">
 <!ENTITY  securityView.privacy.viewCookies              "Vidi kuketojn">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
