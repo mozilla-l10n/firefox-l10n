@@ -28,9 +28,9 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.accesskey                "P">
 <!ENTITY  unpinAppTab.label                  "Dadbinio Tab">
 <!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  moveToGroup.label                  "Symud i Grwp">
+<!ENTITY  moveToGroup.label                  "Symud i Grŵp">
 <!ENTITY  moveToGroup.accesskey              "S">
-<!ENTITY  moveToNewGroup.label               "Grwp Newydd">
+<!ENTITY  moveToNewGroup.label               "Grŵp Newydd">
 <!ENTITY  moveToNewWindow.label              "Symud i Ffenestr Newydd">
 <!ENTITY  moveToNewWindow.accesskey          "F">
 <!ENTITY  bookmarkAllTabs.label              "Nod Tudalen i Bob Tab...">
@@ -411,7 +411,7 @@ can reach it easily. -->
 <!ENTITY mediaPause.accesskey        "O">
 <!ENTITY mediaMute.label             "Tewi">
 <!ENTITY mediaMute.accesskey         "T">
-<!ENTITY mediaUnmute.label           "Dad Dewi">
+<!ENTITY mediaUnmute.label           "Dad-Dewi">
 <!ENTITY mediaUnmute.accesskey       "d">
 <!ENTITY mediaShowControls.label     "Dangos Rheolydd">
 <!ENTITY mediaShowControls.accesskey "R">
