@@ -20,5 +20,5 @@
 <!ENTITY privatebrowsingpage.howToStop2                "Por haltigi la privatan retesploradon elektu &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, aŭ fermi &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart2               "Por komenti la privatan retesploradon vi ankaŭ povas elekti &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Eĉ se via komputilo ne registros la retesploradan historion, via retprovizanto aŭ vi dunginto povus daŭre scii kiujn paĝojn vi vizitas.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Eĉ se via komputilo ne registros la retesploradan historion, via retprovizanto aŭ via dunginto povus daŭre scii kiujn paĝojn vi vizitas.">
 <!ENTITY privatebrowsingpage.learnMore                 "Plia informo">
