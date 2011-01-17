@@ -72,11 +72,3 @@
 
 <!ENTITY title.label              "Titel">
 <!ENTITY processing.label         "Importerar…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har bara en e-postadress per kontaktkort medan &brandShortName; har två (Privat och Arbete).">
-<!ENTITY FieldDiscInputText2.label	"Välj till vilken kategori du vill importera e-postadresserna:">
-<!ENTITY FieldDiscWarning.label  "Denna kategori kommer att användas för alla poster i den valda adressboken: ">
-<!ENTITY importHome.label        "Privat">
-<!ENTITY importHome.accesskey    "P">
-<!ENTITY importWork.label        "Arbete">
-<!ENTITY importWork.accesskey    "A">

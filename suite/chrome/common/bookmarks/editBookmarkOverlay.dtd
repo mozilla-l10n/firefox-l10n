@@ -23,3 +23,4 @@
 <!ENTITY editBookmarkOverlay.choose.label                    "Välj…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Ny mapp">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "y">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Skapa ny mapp">

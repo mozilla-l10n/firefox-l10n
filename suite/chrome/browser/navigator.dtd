@@ -106,7 +106,7 @@
 <!ENTITY goHomeCmd.label "Startsidan">
 <!ENTITY goHomeCmd.accesskey "S">
 <!ENTITY historyRestoreLastSession.label "Återställ föregående session">
-<!ENTITY historyRestoreLastSessionCmd.accesskey "Å">
+<!ENTITY historyRestoreLastSession.accesskey "Å">
 
 <!ENTITY bookmarksMenu.label "Bokmärken">
 <!ENTITY bookmarksMenu.accesskey "B">

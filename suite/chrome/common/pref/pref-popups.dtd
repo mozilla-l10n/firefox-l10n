@@ -5,8 +5,8 @@
 <!ENTITY popupBlock.label               "Blockera oönskade extrafönster">
 <!ENTITY popupBlock.accesskey           "B">
 
-<!ENTITY popupExceptions.label          "Tillåtna webbplatser…">
-<!ENTITY popupExceptions.accesskey      "T">
+<!ENTITY viewPermissions.label          "Hantera tillåtna extrafönster">
+<!ENTITY viewPermissions.accesskey      "t">
 
 <!ENTITY whenBlock.description          "När ett extrafönster har blockerats:">
 <!ENTITY playSound.label                "Ge en ljudsignal:">
