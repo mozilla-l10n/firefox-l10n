@@ -5,9 +5,11 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Help">
 <!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY helpTroubleshootingInfo.label     "Probleemoplossende ynformaasje">
+<!ENTITY helpTroubleshootingInfo.accesskey "P">
 <!ENTITY releaseCmd.label "Utjefte-opmerkings">
 <!ENTITY releaseCmd.accesskey "U">
-<!ENTITY whatsNewCmd.label "Wat is der nij">
+<!ENTITY whatsNewCmd.label "Wat is nij">
 <!ENTITY whatsNewCmd.accesskey "W">
 <!ENTITY featureConfiguratorCmd.label "Migraasje-assistint">
 <!ENTITY featureConfiguratorCmd.accesskey "M">

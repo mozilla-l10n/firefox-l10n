@@ -39,14 +39,14 @@
 <!ENTITY markAsReadDelay.accesskey        	"N">
 <!ENTITY secondsLabel.label               	"sekonden">
 <!ENTITY openMsgIn.label               		"Nije berjochten iepenje yn:">
-<!ENTITY openMsgInNewTab.label         "in nij ljepblêd">
-<!ENTITY openMsgInNewTab.accesskey     "l">
+<!ENTITY openMsgInNewTab.label         		"in nij ljepblêd">
+<!ENTITY openMsgInNewTab.accesskey     		"l">
 <!ENTITY reuseExpRadio0.label          		"In nij berjochtefinster">
 <!ENTITY reuseExpRadio0.accesskey      		"i">
 <!ENTITY reuseExpRadio1.label          		"In besteand berjochtefinster">
 <!ENTITY reuseExpRadio1.accesskey      		"a">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label		"Slút berjochtskerm nei ferpleatsen of fuortsmiten">
-<!ENTITY closeMsgWindowOnDelete.accesskey	"S">
+<!ENTITY closeMsgOnMoveOrDelete.label		"Slút berjochtskerm/ljepblêd nei ferpleatsen of fuortsmiten">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey 	"S">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                	"Automatysk kontrolearje op fernijings foar:">
