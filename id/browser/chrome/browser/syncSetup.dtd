@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Anda dapat mendapatkan salinan Kunci Sinkronisasi dengan menampilkan Pengaturan &syncBrand.shortName.label; pada perangkat Anda lainnya, dan memilih &#x0022;Kunci Sinkronisasi Saya&#x0022; di bawah &#x0022;Kelola Akun&#x0022;.">
 <!ENTITY verifying.label              "Memverifikasi…">
 <!ENTITY resetPassword.label          "Setel Ulang Sandi">
-<!ENTITY lostSyncKey.label            "Saya kehilangan Kunci Sinkronisasi Saya">
+<!ENTITY resetSyncKey.label           "Perangkat saya lainnya hilang.">
 <!ENTITY verifying.label              "Memverifikasi…">
 
 <!-- Sync Options -->
