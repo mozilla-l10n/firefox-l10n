@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Geschiedenis">
 <!ENTITY desktopHeader.label       "Desktop">
 
+<!ENTITY editBookmarkDialog.title  "Bladwijzer bewerken">
 <!ENTITY editBookmarkDone.label    "Klaar">
 <!ENTITY editBookmarkTags.label    "Labels hier toevoegen">
 
