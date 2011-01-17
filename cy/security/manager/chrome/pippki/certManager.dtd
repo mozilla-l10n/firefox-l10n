@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "e">
 
 <!ENTITY exceptionMgr.title                   "Ychwanegu Eithriad Diogelwch">
-<!ENTITY exceptionMgr.exceptionButton         "Cadarnhau Eithriad Diogelwch">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "Cadarnhau Eithriad Diogelwch">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Ni fydd banciau, siopau a gwefannau cyhoeddus yn gofyn i chi wneud hyn.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Gweinydd">
 <!ENTITY exceptionMgr.certlocation.url        "Lleoliad:">

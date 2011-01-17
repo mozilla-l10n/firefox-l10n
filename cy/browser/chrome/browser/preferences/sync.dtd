@@ -3,10 +3,6 @@
 <!ENTITY setupButton.accesskey      "d">
 <!ENTITY weaveDesc.label            "Mae &syncBrand.fullName.label; yn caniatáu i chi gael mynediad at eich hanes, cyfrineiriau a thabiau agored ar draws eich dyfeisiau i gyd.">
 
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Cyfrif &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Cyfrif Cyfredol">
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Diweddaru">
 <!ENTITY resetPass.label              "Ailosod">
@@ -18,12 +14,13 @@
 <!ENTITY changePassword.label         "Newid Cyfrinair">
 <!ENTITY mySyncKey.label              "Allwedd Cydweddu">
 <!ENTITY resetSync.label              "Ailosod Cydweddu">
-<!ENTITY stopUsingAccount.label       "Peidio Defnyddio'r Cyfriof">
+<!ENTITY addDevice.label              "Ychwanegu Dyfais">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Cydweddu Porwyr">
 <!ENTITY syncComputerName.label       "Enw Cyfririadur:">
 <!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY deactivateDevice.label       "Analluogi'r Ddyfais">
+
 
 <!ENTITY syncMy.label               "Cydweddu">
 <!ENTITY engine.bookmarks.label     "Nodau Tudalen">
