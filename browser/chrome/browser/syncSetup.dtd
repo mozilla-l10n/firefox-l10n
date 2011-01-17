@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Zure Sync gakoaren kopia bat lor dezakezu zure beste gailuan &syncBrand.shortName.label;(r)en aukeratara joz eta &#x0022;Nire Sync gakoa&#x0022; aukeratuz &#x0022;Kudeatu kontua&#x0022; atalean.">
 <!ENTITY verifying.label              "Egiaztatzen…">
 <!ENTITY resetPassword.label          "Berrezarri pasahitza">
-<!ENTITY lostSyncKey.label            "Nire Sync gakoa galdu dut">
+<!ENTITY resetSyncKey.label           "Nire beste gailua galdu dut.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Sync aukerak">
