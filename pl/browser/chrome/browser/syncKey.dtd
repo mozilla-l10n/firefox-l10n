@@ -1,6 +1,6 @@
 <!ENTITY syncKey.page.title               "Twój klucz  &syncBrand.fullName.label;">
 <!ENTITY syncKey.page.description         "Klucz ten używany jest do odszyfrowania danych z konta &syncBrand.fullName.label;. Konieczne jest jego wprowadzenie w momencie konfigurowania konta &syncBrand.fullName.label; na każdym komputerze lub urządzeniu.">
-<!ENTITY syncKey.keepItSecret.heading     "Zachowaj go w poufności!">
+<!ENTITY syncKey.keepItSecret.heading     "Zachowaj go w tajemnicy!">
 <!ENTITY syncKey.keepItSecret.description "Twoje konto &syncBrand.fullName.label; jest zaszyfrowane, chroniąc twoją prywatność. Bez tego klucza odszyfrowanie twoich danych zajęłoby wiele lat. Jesteś jedyną osobą, która posiada ten klucz. Oznacza to, że tylko ty masz dostęp do danych na koncie &syncBrand.fullName.label;.">
 <!ENTITY syncKey.keepItSafe.heading       "Chroń go!">
 <!ENTITY syncKey.keepItSafe1.description  "Nie zgub tego klucza.">
