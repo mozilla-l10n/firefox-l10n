@@ -9,7 +9,7 @@
 <!ENTITY listEmpty.button.label               "Kom meer te wete oor byvoegings">
 <!ENTITY installAddonFromFile.label           "Install Add-on From File…">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
+<!ENTITY toolsMenu.tooltip                    "Nutsgoed vir alle byvoegings">
 
 <!ENTITY cmd.back.tooltip                     "Gaan een bladsy terug">
 <!ENTITY cmd.forward.tooltip                  "Gaan een bladsy vorentoe">
@@ -17,10 +17,10 @@
 
 <!ENTITY warning.safemode.label                    "Alle byvoegings is deur veilige modus gedeaktiveer.">
 <!ENTITY warning.checkcompatibility.label          "Kontrolering of byvoegings versoenbaar is, is gedeaktiveer. U het moontlik onversoenbare byvoegings.">
-<!ENTITY warning.checkcompatibility.enable.label   "Enable">
+<!ENTITY warning.checkcompatibility.enable.label   "Aktiveer">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
 <!ENTITY warning.updatesecurity.label              "Kontrolering vir bywerkings vir byvoegings is gedeaktiveer. U kan dalk deur bywerkings gekompromitteer word.">
-<!ENTITY warning.updatesecurity.enable.label       "Enable">
+<!ENTITY warning.updatesecurity.enable.label       "Aktiveer">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 <!-- categories / views -->
 
@@ -35,8 +35,8 @@
 <!ENTITY view.availableUpdates.label          "Beskikbare bywerkings">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "Check for Updates">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.checkForUpdates.label        "Kontroleer vir bywerkings">
+<!ENTITY updates.checkForUpdates.accesskey    "K">
 <!ENTITY updates.viewUpdates.label            "Bekyk onlangse bywerkings">
 <!ENTITY updates.viewUpdates.accesskey        "B">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
@@ -60,7 +60,7 @@
 <!ENTITY updates.restart.label                "Herbegin nou vir volledige installering">
 <!ENTITY updates.noneFound.label              "Bywerkings vir byvoegings gevind">
 <!ENTITY updates.manualUpdatesFound.label     "Bekyk beskikbare bywerkings">
-<!ENTITY updates.updateSelected.label         "Install Updates">
+<!ENTITY updates.updateSelected.label         "Installeer bywerkings">
 <!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
 <!-- addon actions -->
 
@@ -88,7 +88,7 @@
 <!ENTITY cmd.uninstallAddon.label             "Verwyder">
 <!ENTITY cmd.uninstallAddon.accesskey         "V">
 <!ENTITY cmd.showPreferencesWin.label         "Opsies">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Verander hierdie byvoeging se opsies">
 <!ENTITY cmd.showPreferencesUnix.label        "Voorkeure">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Verander hierdie byvoeging se voorkeure">
 <!ENTITY cmd.contribute.label                 "Dra by">
@@ -130,19 +130,19 @@
 <!ENTITY detail.repository                    "Byvoeging-profiel">
 <!ENTITY detail.size                          "Grootte">
 
-<!ENTITY detail.checkForUpdates.label         "Check for Updates">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.label         "Kontroleer vir bywerkings">
+<!ENTITY detail.checkForUpdates.accesskey     "v">
 <!ENTITY detail.checkForUpdates.tooltip       "Kontroleer vir bywerking vir hierdie byvoeging">
 <!ENTITY detail.showPreferencesWin.label      "Opsies">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
+<!ENTITY detail.showPreferencesWin.tooltip    "Verander hierdie byvoeging se opsies">
 <!ENTITY detail.showPreferencesUnix.label     "Voorkeure">
 <!ENTITY detail.showPreferencesUnix.accesskey "V">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Verander hierdie byvoeging se voorkeure">
 <!-- ratings -->
 
 
-<!ENTITY rating2.label                        "Rating">
+<!ENTITY rating2.label                        "Gradering">
 <!-- download/install progress -->
 
 <!ENTITY progress.pause.tooltip               "Laat wag">
@@ -187,7 +187,7 @@
 <!ENTITY addon.install.tooltip                "Installeer hierdie byvoeging">
 <!ENTITY addon.updateNow.label                "Opdateer nou">
 <!ENTITY addon.updateNow.tooltip              "Installeer die bywerking vir hierdie byvoeging">
-<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.includeUpdate.label            "Sluit by bywerking in">
 <!ENTITY addon.updateAvailable.label          "An update is available">
 <!ENTITY addon.checkingForUpdates.label       "Kontroleer vir bywerkings…">
 <!ENTITY addon.releaseNotes.label             "Vrystellingaantekeninge:">

@@ -136,7 +136,7 @@ can reach it easily. -->
 <!ENTITY homeButton.label             "Tuis">
 
 <!ENTITY tabGroupsButton.label        "Oortjie-groepe">
-<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+<!ENTITY tabGroupsButton.tooltip      "Groepeer jou oortjies">
 
 <!ENTITY feedButton.label             "Inteken">
 <!ENTITY feedButton.tooltip           "Teken in op hierdie bladsy…">
@@ -148,7 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Boekmerke">
 <!ENTITY bookmarksMenuButton.tooltip        "Vertoon u boekmerke">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
+<!ENTITY bookmarksMenuButton.unsorted.label "Ongeliasseerde boekmerke">
 <!ENTITY viewBookmarksSidebar.label         "Wys in kantbalk">
 <!ENTITY viewBookmarksToolbar.label         "Vertoon boekmerknutsbalk">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -216,9 +216,9 @@ can reach it easily. -->
 
 <!ENTITY editMenu.label         "Redigeer">
 <!ENTITY editMenu.accesskey       "e">
-<!ENTITY undoCmd.label            "Undo">
+<!ENTITY undoCmd.label            "Ontdoen">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY undoCmd.accesskey          "O">
 <!ENTITY redoCmd.label            "Herdoen">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "H">
@@ -237,7 +237,7 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Merk alles">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "a">
-<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.label       "Opsies">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey     "k">
@@ -254,8 +254,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Bekyk">
 <!ENTITY viewMenu.accesskey       "k">
-<!ENTITY viewTabGroups.label            "Tab Groups">
-<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabGroups.label            "Oortjie-groepe">
+<!ENTITY viewTabGroups.accesskey        "g">
 <!ENTITY viewToolbarsMenu.label       "Nutsbalke">
 <!ENTITY viewToolbarsMenu.accesskey     "N">
 <!ENTITY viewSidebarMenu.label "Kantbalk">
@@ -276,12 +276,12 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd2.label "Wys hele geskiedenis">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Edit">
+<!ENTITY appMenuEdit.label "Redigeer">
 <!ENTITY appMenuCustomize.label "Doelmaak">
 <!ENTITY appMenuToolbarLayout.label "Nutsbalk-uitleg…">
 <!ENTITY appMenuSidebars.label "Kantstawe">
 <!ENTITY appMenuFind.label "Vind…">
-<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuUnsorted.label "Ongeliasseerde boekmerke">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY appMenuGettingStarted.label "Hoe om te begin">
 <!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
@@ -459,8 +459,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Wys die venster in volskerm">
 
-<!ENTITY zoomOutButton.tooltip          "Zoom out">
-<!ENTITY zoomInButton.tooltip           "Zoom in">
+<!ENTITY zoomOutButton.tooltip          "Zoem uit">
+<!ENTITY zoomInButton.tooltip           "Zoem in">
 <!ENTITY zoomControls.label             "Zoom Controls">
 
 <!ENTITY quitApplicationCmdWin.label       "Afsluit">
@@ -494,8 +494,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Switch Page Direction">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Verwissel bladsyrigting">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "r">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Wissel teksrigting">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "i">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">

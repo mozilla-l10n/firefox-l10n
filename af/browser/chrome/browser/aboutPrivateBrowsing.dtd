@@ -17,8 +17,8 @@
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStop2                "To stop Private Browsing, select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2                "Om op te hou privaat blaai, kies &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, of sluit &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Om privaat te begin blaai, kan jy ook &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; kies.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Hoewel hierdie rekenaar nie 'n rekord hou van u blaaigeskiedenis nie, kan u internetdiensverskaffer of u werkgewer dit dalk hou.">
 <!ENTITY privatebrowsingpage.learnMore                 "Leer meer">

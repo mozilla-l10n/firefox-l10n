@@ -92,10 +92,10 @@
 <!ENTITY col.dateadded.label     "Bygevoeg">
 <!ENTITY col.lastmodified.label  "Laas gewysig">
 
-<!ENTITY search.label                              "Search:">
+<!ENTITY search.label                              "Soek:">
 <!ENTITY search.accesskey                          "S">
 
-<!ENTITY search.in.label                           "Search in:">
+<!ENTITY search.in.label                           "Soek in:">
 <!ENTITY search.scopeFolder.label                  "Gekose vouer">
 <!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeBookmarks.label               "Boekmerke">
@@ -126,7 +126,7 @@
 <!ENTITY detailsPane.noPreviewAvailable.label "Voorskou">
 <!ENTITY detailsPane.selectAnItemText.description "Kies 'n item om sy eienskappe te kyk en te redigeer">
 
-<!ENTITY find.label               "Search:">
+<!ENTITY find.label               "Soek:">
 <!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "Bekyk">
 <!ENTITY view.accesskey           "k">
