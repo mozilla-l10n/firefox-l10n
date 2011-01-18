@@ -21,6 +21,7 @@
 <!ENTITY bookmarksHeader.label "Закладки">
 <!ENTITY historyHeader.label "Журнал">
 <!ENTITY desktopHeader.label "Десктоп">
+<!ENTITY editBookmarkDialog.title "Изменение закладки">
 <!ENTITY editBookmarkDone.label "Готово">
 <!ENTITY editBookmarkTags.label "Добавьте сюда метки">
 <!ENTITY selectHelper.done "Готово">
