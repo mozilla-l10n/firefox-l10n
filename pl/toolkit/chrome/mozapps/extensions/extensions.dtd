@@ -52,7 +52,7 @@
 <!ENTITY updates.updating.label               "Aktualizacja dodatków">
 <!ENTITY updates.installed.label              "Dodatki zostały zaktualizowane.">
 <!ENTITY updates.downloaded.label             "Pobrano aktualizacje dodatków.">
-<!ENTITY updates.restart.label                "Uruchom ponownie by dokończyć instalację">
+<!ENTITY updates.restart.label                "Uruchom ponownie, by dokończyć instalację">
 <!ENTITY updates.noneFound.label              "Nie znaleziono aktualizacji">
 <!ENTITY updates.manualUpdatesFound.label     "Wyświetl dostępne aktualizacje">
 <!ENTITY updates.updateSelected.label         "Zainstaluj aktualizacje">
