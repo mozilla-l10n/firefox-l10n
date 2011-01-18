@@ -28,8 +28,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "a">
 <!ENTITY checkNow.label                  "Kontroleer nou">
 <!ENTITY checkNow.accesskey              "n">
-<!ENTITY submitCrashes.label             "Submit crash reports">
-<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitCrashes.label             "Dien omvalverslae in">
+<!ENTITY submitCrashes.accesskey         "D">
 
 <!ENTITY networkTab.label                "Netwerk">
 

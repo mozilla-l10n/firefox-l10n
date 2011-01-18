@@ -67,8 +67,8 @@ besoek en die jongste weergawe af te laai:">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
                                            make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Iets verhoed &brandShortName; om beveilig by te werk. 
+Kontroleer of jy die jongste weergawe van &brandShortName; het by:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Iets probeer &brandShortName; om die bos lei om 'n onbeveiligde 
 bywerking te aanvaar. Kontak gerus jou netwerkverskaffer en kry hulp daarvoor.">
 

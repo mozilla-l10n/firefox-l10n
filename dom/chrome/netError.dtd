@@ -25,8 +25,8 @@
 <!ENTITY netInterrupt.longDesc "<p>Die blaaier het suksesvol gekoppel, maar die verbinding is onderbreek terwyl inligting oorgedra is.  Probeer weer.</p><ul><li>Kan u ook nie ander werwe bekyk nie? Kontroleer die rekenaar se netwerkverbinding.</li><li>Sukkel u steeds? Doen navraag by u netwerkadministrateur of internetverskaffer vir bystand.</li></ul>">
 
 <!ENTITY netOffline.title "Aflynmodus">
-<!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>Die blaaier is in vanlyn modus en kan nie aan die aangevraagde item koppel nie. </p></li><li>Is die rekenaar aan 'n aktiewe netwerk gekoppel? </li><li>Sit die blaaier in aanlyn modus en probeer weer.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Die blaaier is in vanlyn modus en kan nie aan die aangevraagde item koppel nie. </p></li><li>Is die rekenaar aan 'n aktiewe netwerk gekoppel? </li><li>Sit die blaaier in aanlyn modus en probeer weer.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Inhoudenkoderingsfout">
 <!ENTITY contentEncodingError.longDesc "<p>Die bladsy wat u probeer bekyk, kan nie gewys word nie omdat dit 'n ongeldige of nieondersteunde inpakformaat gebruik.</p><ul><li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li></ul>">

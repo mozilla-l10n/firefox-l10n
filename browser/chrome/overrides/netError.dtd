@@ -50,11 +50,9 @@ beskerm word, maak seker dat &brandShortName; toegelaat word om toegang tot die 
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Ontmerk die &quot;Werk vanlyn&quot;-kieslysitem en probeer weer.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Inhoudenkoderingfout">
 <!ENTITY contentEncodingError.longDesc "<ul> 

@@ -10,11 +10,11 @@
 
 <!ENTITY contribute.start           "Sound interesting? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY contribute.getInvolvedLink "Raak betrokke!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Licensing Information">
+<!ENTITY bottomLinks.license        "Lisensiëringinligting">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "End User Rights">
@@ -25,7 +25,7 @@
 
 <!ENTITY update.checkingForUpdates  "Kontroleer vir bywerkings…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "Kontroleer tans of byvoegings versoenbaar is…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; is up to date">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -36,7 +36,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Update failed. ">
+<!ENTITY update.failed.start        "Bywerking het misluk. ">
 <!ENTITY update.failed.linkText     "Download the latest version">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -52,5 +52,5 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Downloading update — ">
+<!ENTITY update.downloading.start   "Aflaai van bywerking — ">
 <!ENTITY update.downloading.end     "">
