@@ -1,6 +1,6 @@
 <!ENTITY dialog.title "خصّص شريط الأدوات">
 <!ENTITY dialog.style "width: 635px; height: 400px;">
-<!ENTITY instructions.description "يمكنك إضافة أو إزالة العناصر بسحبها من وإلى أشرطة الأدوات.">
+<!ENTITY instructions.description "يمكنك إضافة العناصر وإزالتها بسحبها من أشرطة الأدوات وإليها.">
 <!ENTITY show.label "اعرض:">
 <!ENTITY iconsAndText.label "أيقونات ونصّ">
 <!ENTITY icons.label "أيقونات">

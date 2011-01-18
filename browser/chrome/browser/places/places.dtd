@@ -19,7 +19,7 @@
 <!ENTITY view.columns.accesskey "ع">
 <!ENTITY view.sort.label "رتّب">
 <!ENTITY view.sort.accesskey "ر">
-<!ENTITY view.unsorted.label "غير مرتبة">
+<!ENTITY view.unsorted.label "غير مرتّبة">
 <!ENTITY view.unsorted.accesskey "غ">
 <!ENTITY view.sortAscending.label "ترتيب أ > ي">
 <!ENTITY view.sortAscending.accesskey "أ">
@@ -64,7 +64,7 @@
 <!ENTITY cmd.properties.accesskey "خ">
 
 
-<!ENTITY cmd.sortby_name.label "رتب بالاسم">
+<!ENTITY cmd.sortby_name.label "رتّب بالاسم">
 <!ENTITY cmd.sortby_name.accesskey "س">
 <!ENTITY cmd.context_sortby_name.accesskey "ر">
 
