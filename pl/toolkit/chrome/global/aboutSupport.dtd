@@ -22,7 +22,7 @@
 
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracja kompilacji">
 
-<!ENTITY aboutSupport.appBasicsUserAgent "Agent użytkownika">
+<!ENTITY aboutSupport.appBasicsUserAgent "Identyfikator przeglądarki">
 
 <!ENTITY aboutSupport.show.label "Otwórz folder zawierający">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
