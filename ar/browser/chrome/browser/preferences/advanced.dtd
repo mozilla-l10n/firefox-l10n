@@ -35,7 +35,7 @@
 
 <!ENTITY connection.label "الاتصال">
 
-<!ENTITY connectionDesc.label "اضبط كيف يتصل &brandShortName; بالإنترنت">
+<!ENTITY connectionDesc.label "اضبط كيفية اتصال &brandShortName; بالإنترنت">
 <!ENTITY connectionSettings.label "الإعدادات…">
 <!ENTITY connectionSettings.accesskey "ع">
 

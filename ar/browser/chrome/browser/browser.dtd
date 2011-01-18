@@ -116,7 +116,7 @@ can reach it easily. -->
 <!ENTITY reloadCmd.label "أعِد التحميل">
 <!ENTITY reloadCmd.accesskey "ع">
 <!ENTITY reloadButton.tooltip "أعِد تحميل الصفحة الحاليّة">
-<!ENTITY stopCmd.label "قف">
+<!ENTITY stopCmd.label "أوقف">
 <!ENTITY stopCmd.accesskey "ق">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "أوقف تحميل هذه الصفحة">
@@ -149,7 +149,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "العلامات">
 <!ENTITY bookmarksMenuButton.tooltip        "يظهر علاماتك">
-<!ENTITY bookmarksMenuButton.unsorted.label "العلامات غير المرتبة">
+<!ENTITY bookmarksMenuButton.unsorted.label "العلامات غير المرتّبة">
 <!ENTITY viewBookmarksSidebar.label         "أظهِر في الشريط الجانبي">
 <!ENTITY viewBookmarksToolbar.label         "أظهِر شريط أدوات العلامات">
 
@@ -224,7 +224,7 @@ can reach it easily. -->
 <!ENTITY redoCmd.label "أعِد">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ع">
-<!ENTITY cutCmd.label "قص">
+<!ENTITY cutCmd.label "قصّ">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "ق">
 <!ENTITY copyCmd.label "انسخ">
@@ -283,7 +283,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "تنسيق أشرطة الأدوات…">
 <!ENTITY appMenuSidebars.label "الأشرطة الجانبية">
 <!ENTITY appMenuFind.label "ابحث عن…">
-<!ENTITY appMenuUnsorted.label "العلامات غير المرتبة">
+<!ENTITY appMenuUnsorted.label "العلامات غير المرتّبة">
 <!ENTITY appMenuWebDeveloper.label "مطوّري الوب">
 <!ENTITY appMenuGettingStarted.label "فلنبدأ سوية">
 <!ENTITY appMenuSafeMode.label "أعِد التشغيل مع تعطيل الإضافات…">

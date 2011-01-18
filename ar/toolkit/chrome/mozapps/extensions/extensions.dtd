@@ -55,7 +55,7 @@
 <!ENTITY updates.updateSelected.tooltip       "ثبّت التحديثات المتاحة في هذه اللائحة">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "أظه~ر المزيد من المعلومات">
+<!ENTITY cmd.showDetails.label                "أظهر المزيد من المعلومات">
 <!ENTITY cmd.showDetails.accesskey            "ظ">
 <!ENTITY cmd.findUpdates.label                "ابحث عن التحديثات">
 <!ENTITY cmd.findUpdates.accesskey            "ح">

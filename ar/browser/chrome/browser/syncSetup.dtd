@@ -72,7 +72,7 @@
 <!ENTITY existingSyncKey.description "يمكنك الحصول على نسخة من مفتاح المزامنة إذا توجهت إلى خيارات &syncBrand.shortName.label; على جهازك الآخر، واخترت &#x0022;مفتاح المزامنة&#x0022; من &#x0022;أدِر الحساب&#x0022;.">
 <!ENTITY verifying.label              "يتحقق…">
 <!ENTITY resetPassword.label          "صفّر كلمة السر">
-<!ENTITY lostSyncKey.label            "فقدتُ مفتاح المزامنة الخاص بي">
+<!ENTITY resetSyncKey.label            "فقدتُ جهازي الآخر.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "خيارات المزامنة">

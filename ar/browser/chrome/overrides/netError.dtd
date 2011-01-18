@@ -82,8 +82,8 @@
 <!ENTITY phishingBlocked.title "خداع وِب مُشتبه به">
 <!ENTITY phishingBlocked.longDesc "<p>قد ينتج عن إدخال بيانات في هذه الصفحة سرقة الهوية أو أي احتيال آخر.</p> <p>تستخدم طرق التزوير هذه في خدع تعرف بهجمات التزوير، و فيها تستخدم صفحات و رسائل مزوّرة لتقليد مصادر تثق بها.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "محجوب من قِبَل سياسة أمن المحتوى">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة ا للصفحة سياسة أمن محتوى تمنع ذلك.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "حجبتها سياسة أمن المحتوى">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن للصفحة سياسة أمن محتوى تمنع ذلك.</p>">
 
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">

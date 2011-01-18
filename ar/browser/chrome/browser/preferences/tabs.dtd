@@ -1,4 +1,4 @@
-<!ENTITY newWindowsAsTabs.label "افتح النوافذ الجديدة في ألسنة جديدة عوضًا عن ذلك">
+<!ENTITY newWindowsAsTabs.label "افتح النوافذ الجديدة في ألسنة بدل النوافذ">
 <!ENTITY newWindowsAsTabs.accesskey "ذ">
 
 <!ENTITY warnCloseMultipleTabs.label "نبّهني عند محاولة إغلاق عدّة ألسنة">
@@ -13,5 +13,5 @@
 <!ENTITY switchToNewTabs.label "عند فتح وصلة في لسان جديد، انتقل إليها مباشرة">
 <!ENTITY switchToNewTabs.accesskey "ل">
 
-<!ENTITY showTabsInTaskbar.label          "أظهِر معاينات الألسنة في شريط مهام ويندوز">
+<!ENTITY showTabsInTaskbar.label          "أظهِر معاينات للألسنة في شريط مهام ويندوز">
 <!ENTITY showTabsInTaskbar.accesskey      "و">

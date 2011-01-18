@@ -58,10 +58,10 @@
 <!ENTITY validation.crl.autoupdate.url.label "كانت قائمة نقض الشهادات ستُستورد من:">
 <!ENTITY crl.import.status.title "حالة استيراد قوائم نقض الشهادات">
 <!ENTITY crl.import.success.message "استوردتْ قائمة نقض الشهادات (CRL) بنجاح.">
-<!ENTITY crl.issuer.label "قائمة نقض الشهادات مُصْدرة من قِبل:">
+<!ENTITY crl.issuer.label "أصدَرَ قائمة نقض الشهادات:">
 <!ENTITY crl.issuer.org.label "المنظمة:">
 <!ENTITY crl.issuer.orgunit.label "الوحدة:">
-<!ENTITY crl.import.nextupdate.label "التحديث التالي في:">
+<!ENTITY crl.import.nextupdate.label "موعد التحديث التالي:">
 <!ENTITY crl.autoupdate.fail.cnt.label "فشل التحديثات السابقة المتتالية:">
 <!ENTITY crl.autoupdate.fail.reason.label "تفاصيل فشل آخر تحديث:">
 <!ENTITY edit.button "إعدادات">
