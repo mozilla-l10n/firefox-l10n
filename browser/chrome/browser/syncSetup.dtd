@@ -102,7 +102,7 @@
 <!ENTITY existingSyncKey.description "Savo sinchronizavimo rakto kopiją galite gauti, atvėrę „&syncBrand.shortName.label;“ nuostatas kitame įrenginyje ir pasirinkę punktą „Mano Sinchronizavimo raktas“ iš „Tvarkyti paskyrą“ sąrašo.">
 <!ENTITY verifying.label                        "Tikrinama…">
 <!ENTITY resetPassword.label                "Perkurti slaptažodį">
-<!ENTITY lostSyncKey.label                      "Mano sinchronizavimo raktas pasimetė">
+<!ENTITY resetSyncKey.label                 "Pamestas kitas sinchronizuojamas įrenginys.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sinchronizavimo nuostatos">
