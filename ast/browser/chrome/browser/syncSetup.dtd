@@ -54,10 +54,7 @@
 <!ENTITY setup.signInPage.title.label "Coneutase">
 <!ENTITY existingSyncKey.description "Pues consiguir una copia de la clave de Sync nes opciones de &syncBrand.shortName.label; del otru preséu y esbillando 'La mio clave de Sync' baxo 'Alministrar cuenta'.">
 <!ENTITY resetPassword.label "Restablecer contraseña">
-
-
-
-<!ENTITY lostSyncKey.label "Perdí la mio clave de Sync">
+<!ENTITY resetSyncKey.label "Perdí'l mio otru preséu.">
 <!ENTITY verifying.label "Verificando…">
 <!ENTITY setup.optionsPage.title "Opciones de Sync">
 <!ENTITY syncComputerName.label "Nome del equipu:">
