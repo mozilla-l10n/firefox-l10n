@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Aby uzyskać kopię klucza Sync, przejdź do opcji &syncBrand.shortName.label; na danym urządzeniu i wybierz &#x0022;Mój klucz Sync&#x0022; w sekcji &#x0022;Zarządzaj kontem&#x0022;.">
 <!ENTITY verifying.label              "Weryfikacja…">
 <!ENTITY resetPassword.label          "Resetuj hasło">
-<!ENTITY lostSyncKey.label            "Nie mogę znaleźć mojego klucza Sync">
+<!ENTITY resetSyncKey.label           "Inne urządzenie zostało zgubione">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opcje Sync">

@@ -3,11 +3,6 @@
 <!ENTITY setupButton.accesskey      "K">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; umożliwia dostęp do twojej historii przeglądania, zakładek, haseł i otwartych kart z poziomu każdego twojego urządzenia.">
 
-
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Konto &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Aktualne konto:">
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Aktualizuj">
 <!ENTITY resetPass.label              "Resetuj">
@@ -19,13 +14,7 @@
 <!ENTITY changePassword.label         "Zmień hasło">
 <!ENTITY mySyncKey.label              "Mój klucz Sync">
 <!ENTITY resetSync.label              "Resetuj synchronizację">
-<!ENTITY stopUsingAccount.label       "Przestań używać tego konta">
 <!ENTITY addDevice.label              "Dodaj urządzenie">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Synchronizacja przeglądarki">
-<!ENTITY syncComputerName.label       "Nazwa komputera:">
-<!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy.label                   "Synchronizuj moje:">
 <!ENTITY engine.bookmarks.label         "zakładki">
@@ -38,6 +27,11 @@
 <!ENTITY engine.passwords.accesskey     "a">
 <!ENTITY engine.prefs.label             "ustawienia">
 <!ENTITY engine.prefs.accesskey         "u">
+
+<!-- Sync Settings -->
+<!ENTITY syncComputerName.label       "Nazwa komputera:">
+<!ENTITY syncComputerName.accesskey   "N">
+<!ENTITY deactivateDevice.label       "Zdezaktywuj to urządzenie">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Warunki korzystania z usługi">
