@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Sync anahtarınızın bir kopyasını diğer aygıtınızdaki seçeneklere girip &#x0022;Hesabı yönet&#x0022; bölümündeki &#x0022;Sync anahtarım&#x0022; kısmından edinebilirsiniz.">
 <!ENTITY verifying.label "Doğrulanıyor...">
 <!ENTITY resetPassword.label "Parolayı sıfırla">
-<!ENTITY lostSyncKey.label "Sync anahtarımı kaybettim">
+<!ENTITY resetSyncKey.label "I have lost my other device.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title "Sync seçenekleri">

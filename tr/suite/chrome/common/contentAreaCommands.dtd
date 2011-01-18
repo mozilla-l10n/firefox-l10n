@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey "e">
 <!ENTITY openFrameCmdInTab.label "Çerçeveyi yeni sekmede aç">
 <!ENTITY openFrameCmdInTab.accesskey "v">
+<!ENTITY keywordfield.label "Bu arama için anahtar kelime ekle…">
+<!ENTITY keywordfield.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label "Sadece bu çerçeveyi göster">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY goBackCmd.label "Back">

@@ -1,5 +1,5 @@
 <!ENTITY sync.title "Sync">
-<!ENTITY sync.notconnected "Bağlı değil.">
+<!ENTITY sync.notconnected "Bağlı değil">
 <!ENTITY sync.connect "Bağlan">
 <!ENTITY sync.connected "Bağlı">
 <!ENTITY sync.details "Ayrıntılar">
@@ -8,10 +8,10 @@
 <!ENTITY sync.disconnect "Bağlantıyı kes">
 <!ENTITY sync.syncNow "Şimdi Eşitle">
 
-<!ENTITY sync.setup.title "Eşitme sunucusuna bağlan">
-<!ENTITY sync.setup.jpake "Firefox Eşitleme bilgisayara bağlandı, Eşitleme ayarlarına gidip &#x0022;Bir cihaz ekle&#x0022; seçeneğini seçin.">
-<!ENTITY sync.fallback "Ben bilgisayar başında değilim...">
-<!ENTITY sync.setup.manual "Eşitleme hesap bilgilerinizi girin">
+<!ENTITY sync.setup.title "Eşitleme sunucusuna bağlan">
+<!ENTITY sync.setup.jpake "Firefox Sync'e bağlı bir bilgisayardan Eşitleme seçeneklerine girip &#x0022;Aygıt ekle&#x0022;yi seçin.">
+<!ENTITY sync.fallback "Bilgisayarımın yakınında değilim...">
+<!ENTITY sync.setup.manual "Sync hesap bilgilerinizi girin">
 <!ENTITY sync.account "Hesap adı">
 <!ENTITY sync.password "Parola">
 <!ENTITY sync.syncKey "Eşitleme Anahtarı">

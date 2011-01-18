@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label "Öğeyi düzenle">
 
-<!ENTITY event.dialog.keepDurationButton.tooltip "">
+<!ENTITY event.dialog.keepDurationButton.tooltip "Keep the duration when changing the end date">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label "Gönderen">
 <!ENTITY newevent.to.label "Alıcı">

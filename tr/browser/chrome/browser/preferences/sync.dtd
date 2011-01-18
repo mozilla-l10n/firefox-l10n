@@ -3,10 +3,8 @@
 <!ENTITY setupButton.accesskey "k">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; tüm aygıtlarınızdan tarama geçmişinize, yer imlerinize, parolalarınıza ve açık sekmelerinize erişmenize olanak sağlar.">
 <!-- The page shown when logged in... -->
-
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; hesabı">
-<!ENTITY currentAccount.label "Mevcut hesap:">
 <!-- Login error feedback -->
+
 
 <!ENTITY updatePass.label "Güncelle">
 <!ENTITY resetPass.label "Sıfırla">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label "Parolayı değiştir">
 <!ENTITY mySyncKey.label "Eşitleme anahtarım">
 <!ENTITY resetSync.label "Sync'i sıfırla">
-<!ENTITY stopUsingAccount.label "Bu hesabı kullanmayı bırak">
 <!ENTITY addDevice.label "Aygıt ekle">
-<!-- Sync Settings -->
-
-<!ENTITY syncPrefsCaption.label "Tarayıcı eşitleme">
-<!ENTITY syncComputerName.label "Bilgisayar adı:">
-<!ENTITY syncComputerName.accesskey "B">
 
 <!ENTITY syncMy.label "Eşitlenecekler:">
 <!ENTITY engine.bookmarks.label "Yer imleri">
@@ -37,8 +29,12 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label "Tercihler">
 <!ENTITY engine.prefs.accesskey "T">
-<!-- Footer stuff -->
+<!-- Device Settings -->
 
+<!ENTITY syncComputerName.label "Bilgisayar adı:">
+<!ENTITY syncComputerName.accesskey "B">
+<!ENTITY deactivateDevice.label "Deactivate This Device">
+<!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label "Kullanım Koşulları">
 <!ENTITY prefs.ppLink.label "Gizlilik Anlaşması">
