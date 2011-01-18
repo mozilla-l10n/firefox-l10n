@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Configura la &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "Configura el &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "La &syncBrand.fullName.label; us permet accedir al vostre historial, adreces d'interès, contrasenyes i pestanyes obertes des de qualsevol dels vostres dispositius.">
+<!ENTITY weaveDesc.label            "El &syncBrand.fullName.label; us permet accedir al vostre historial, adreces d'interès, contrasenyes i pestanyes obertes des de qualsevol dels vostres dispositius.">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Actualitza">
