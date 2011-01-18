@@ -43,6 +43,9 @@
 
 <!ENTITY event.title.label                  "Muuda elementi" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Säilita algus- või lõppaja muutmisel kestus">
+<!ENTITY event.dialog.keepDurationButton.accesskey "u">
+
 <!ENTITY newevent.from.label                "Alates" >
 <!ENTITY newevent.to.label                  "Kuni" >
 <!ENTITY newevent.attendees.notify.label    "Teavita osalejaid">
