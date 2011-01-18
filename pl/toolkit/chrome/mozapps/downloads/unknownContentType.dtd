@@ -59,4 +59,4 @@
 <!ENTITY  chooseHandler.label         "Przeglądaj…">
 <!ENTITY  chooseHandler.accesskey     "P">
 
-<!ENTITY  unknownPromptText.label     "Czy chcesz zapisać ten plik?">
+<!ENTITY  unknownPromptText.label     "Czy zapisać ten plik?">
