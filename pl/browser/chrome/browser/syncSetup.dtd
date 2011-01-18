@@ -7,7 +7,7 @@
 <!ENTITY setup.haveAccount.label "Mam już konto &syncBrand.fullName.label;">
 <!ENTITY button.connect.label    "Połącz">
 
-<!ENTITY setup.choicePage.title.label     "Usługa &syncBrand.fullName.label; była już ci wcześniej znana?">
+<!ENTITY setup.choicePage.title.label     "Czy korzystasz już z usługi &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Korzystam z usługi &syncBrand.shortName.label; po raz pierwszy">
 <!ENTITY setup.choicePage.existing.label  "Korzystam już z usługi &syncBrand.shortName.label; na innym komputerze">
 
