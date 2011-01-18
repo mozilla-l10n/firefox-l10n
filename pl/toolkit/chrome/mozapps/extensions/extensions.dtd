@@ -14,8 +14,8 @@
 
 <!ENTITY toolsMenu.tooltip                    "Narzędzia dla wszystkich dodatków">
 
-<!ENTITY cmd.back.tooltip                     "Przejdź o jedną stronę do przodu">
-<!ENTITY cmd.forward.tooltip                  "Przejdź o jedną stronę wstecz">
+<!ENTITY cmd.back.tooltip                     "Przejdź jedną stronę do przodu">
+<!ENTITY cmd.forward.tooltip                  "Przejdź jedną stronę wstecz">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Wszystkie dodatki zostały wyłączone przez tryb awaryjny">
