@@ -26,8 +26,9 @@
 <!ENTITY historyHeader.label       "Historial">
 <!ENTITY desktopHeader.label       "Escriptori">
 
-<!ENTITY editBookmarkTags.label    "Etiquetes:">
+<!ENTITY editBookmarkDialog.title  "Edita l'adreça d'interès">
 <!ENTITY editBookmarkDone.label    "Fet">
+<!ENTITY editBookmarkTags.label    "Afegeix etiquetes aquí">
 
 <!ENTITY selectHelper.done         "Fet">
 
