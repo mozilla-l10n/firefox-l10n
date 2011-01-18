@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Podeu obtenir una còpia de la clau de sincronització anant a les opcions del &syncBrand.shortName.label; del vostre altre dispositiu, seleccioneu «La meva clau de sincronització» a «Gestiona el compte».">
 <!ENTITY verifying.label              "S'està verificant…">
 <!ENTITY resetPassword.label          "Reinicia la contrasenya">
-<!ENTITY lostSyncKey.label            "He perdut la meva clau de sincronització">
+<!ENTITY resetSyncKey.label           "He perdut el meu altre dispositiu.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opcions de sincronització">
