@@ -43,8 +43,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "a">
 <!ENTITY updates.viewUpdates.label            "Wyświetl ostatnie aktualizacje">
 <!ENTITY updates.viewUpdates.accesskey        "W">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Aktualizuj dodatki automatycznie">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Przestaw wszystkie dodatki na automatyczną aktualizację">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "e">
 <!ENTITY updates.resetUpdatesToManual.label          "Przestaw wszystkie dodatki na ręczną aktualizację">
