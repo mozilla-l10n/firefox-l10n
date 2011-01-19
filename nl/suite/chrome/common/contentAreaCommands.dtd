@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey         "v">
 <!ENTITY openFrameCmdInTab.label        "Deelvenster openen in nieuw tabblad">
 <!ENTITY openFrameCmdInTab.accesskey    "t">
+<!ENTITY keywordfield.label             "Sleutelwoord voor deze zoektocht toevoegen…">
+<!ENTITY keywordfield.accesskey         "S">
 <!ENTITY showOnlyThisFrameCmd.label     "Alleen dit deelvenster tonen">
 <!ENTITY showOnlyThisFrameCmd.accesskey "d">
 <!ENTITY goBackCmd.label                "Terug">
