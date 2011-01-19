@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID Build Aplikasi">
+
+<!ENTITY aboutSupport.accountsTitle "Akun Email dan News">
+<!ENTITY aboutSupport.showPrivateData.mainText "Sertakan nama akun">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(kemungkinan ada informasi yang dapat diidentifikasi)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Nama">
+<!ENTITY aboutSupport.accountsIncomingServer "Server masuk">
+<!ENTITY aboutSupport.accountsOutgoingServers "Server keluar">
+<!ENTITY aboutSupport.accountsConnSecurity "Keamanan sambungan">
+<!ENTITY aboutSupport.accountsAuthMethod "Metode autentikasi">
+<!ENTITY aboutSupport.accountsDefault "Bawaan?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Kirim lewat email">
