@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label "Stair">
 <!ENTITY desktopHeader.label "Deasc">
 
+<!ENTITY editBookmarkDialog.title "Cuir Leabharmharc in Eagar">
 <!ENTITY editBookmarkDone.label "Críochnaithe">
 <!ENTITY editBookmarkTags.label "Cuir clibeanna anseo">
 
