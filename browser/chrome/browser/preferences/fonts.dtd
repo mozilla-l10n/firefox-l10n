@@ -8,7 +8,7 @@
 
 <!ENTITY  size.label                              "Tamañu:">
 <!ENTITY  sizeProportional.accesskey              "u">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeMonospace.accesskey                 "u">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
