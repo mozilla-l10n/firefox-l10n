@@ -1,6 +1,6 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "Adressering og utforming">
+<!ENTITY addressing.label          "Utforming og adressering">
 <!ENTITY addressingGroupTitle.label "Adressering">
 <!ENTITY addressingText.label      "Ved adresseoppslag:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
