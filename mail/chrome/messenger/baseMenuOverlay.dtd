@@ -5,6 +5,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Bantuan">
 <!ENTITY helpMenuWin.accesskey "n">
+<!ENTITY helpTroubleshootingInfo.label      "Informasi Pemecahan Masalah…">
+<!ENTITY helpTroubleshootingInfo.accesskey  "m">
 <!ENTITY releaseCmd.label "Catatan Rilis">
 <!ENTITY releaseCmd.accesskey "R">
 <!ENTITY whatsNewCmd.label "Kabar Terbaru">

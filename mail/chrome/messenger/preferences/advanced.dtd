@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "J">
 <!ENTITY reuseExpRadio1.label          "Jendela pesan yang sudah tampil">
 <!ENTITY reuseExpRadio1.accesskey      "a">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Tutup jendela pesan saat memindahkan atau menghapus">
-<!ENTITY closeMsgWindowOnDelete.accesskey "T">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Tutup jendela/tab pesan saat memindahkan atau menghapus">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "T">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Otomatis periksa versi baru untuk:">
