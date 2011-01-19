@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "d">
 <!ENTITY reuseExpRadio1.label          "Eit eksisterande meldingsvindauge">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Lat att meldingsvindauge ved flytting eller sletting">
-<!ENTITY closeMsgWindowOnDelete.accesskey "L">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Lat att meldingsvindauge/fane ved flytting eller sletting">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisk sjå etter oppdateringar for:">

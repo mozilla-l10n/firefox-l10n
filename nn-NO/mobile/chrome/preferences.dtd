@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "Om &brandShortName;">
 <!ENTITY about.button                              "Gå til sida">
 <!ENTITY content.title                             "Innhald">
+<!ENTITY reflowZoom.title                          "Reformater tekst ved zooming">
 <!ENTITY showImages.title                          "Vis bilete">
 <!ENTITY enableJavaScript.title                    "Slå på JavaScript">
 <!ENTITY enablePlugins.title                       "Slå på programtillegg">

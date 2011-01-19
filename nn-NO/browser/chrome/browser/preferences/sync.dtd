@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lèt deg få tilgang til historikk, bokmerke, passord og opne faner på tvers av alle einingar.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-konto">
-<!ENTITY currentAccount.label         "Gjeldande konto:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Oppdater">
@@ -18,12 +16,7 @@
 <!ENTITY changePassword.label         "Endre passord">
 <!ENTITY mySyncKey.label              "Endre Sync-nøkkel">
 <!ENTITY resetSync.label              "Tilbakestill Sync">
-<!ENTITY stopUsingAccount.label       "Slutt å bruke denne kontoen">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Nettlesar-synkronisering">
-<!ENTITY syncComputerName.label       "Datamaskinnamn:">
-<!ENTITY syncComputerName.accesskey   "D">
+<!ENTITY addDevice.label              "Legg til ei eining">
 
 <!ENTITY syncMy.label               "Synkroniser">
 <!ENTITY engine.bookmarks.label     "Bokmerke">
@@ -37,6 +30,10 @@
 <!ENTITY engine.prefs.label         "Innstillingar">
 <!ENTITY engine.prefs.accesskey     "n">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Datamaskinnamn:">
+<!ENTITY syncComputerName.accesskey   "D">
+<!ENTITY deactivateDevice.label       "Deaktiver denne eininga">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tenestevilkår">
