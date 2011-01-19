@@ -24,7 +24,7 @@
 <!ENTITY closeTab.label "Zarrar llingüeta">
 <!ENTITY closeTab.accesskey "t">
 <!ENTITY listAllTabs.label "Amosar toles llingüetes">
-<!ENTITY tabCmd.label "Nueva llingüeta">
+<!ENTITY tabCmd.label "Llingüeta nueva">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Abrir direición…">
@@ -129,8 +129,8 @@
 <!ENTITY toolsMenu.accesskey "T">
 <!ENTITY keywordfield.label "Amestar una pallabra clave pa esta gueta…">
 <!ENTITY keywordfield.accesskey "v">
-<!ENTITY search.label "Guetar en la web">
-<!ENTITY search.accesskey "S">
+<!ENTITY search.label "Guetar na web">
+<!ENTITY search.accesskey "G">
 <!ENTITY downloads.label "Descargues">
 <!ENTITY downloads.tooltip "Amuesa'l progresu de les descargues en cursu">
 <!ENTITY downloads.accesskey "D">
@@ -371,7 +371,7 @@
 <!ENTITY quitApplicationCmdMac.key "Q">
 <!ENTITY closeCmd.label "Zarrar">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "Z">
 <!ENTITY pageStyleMenu.label "Estilu de páxina">
 <!ENTITY pageStyleMenu.accesskey "x">
 <!ENTITY pageStyleNoStyle.label "Ensin estilu">
