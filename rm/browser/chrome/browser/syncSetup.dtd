@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Ti retschaivas ina copia da tia clav da Sync sche ti vas a las preferenzas da &syncBrand.shortName.label; sin tes auter apparat e tschernas &#x0022;Mia clav da Sync&#x0022; sut il punct &#x0022;Administrar il conto&#x0022;.">
 <!ENTITY verifying.label              "Verifitgar…">
 <!ENTITY resetPassword.label          "Redefinir il pled-clav">
-<!ENTITY lostSyncKey.label            "Jau hai pers mia clav da Sync">
+<!ENTITY resetSyncKey.label           "Jau hai pers mes auter apparat.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opziuns da Sync">
