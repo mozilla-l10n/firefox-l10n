@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Skiednis">
 <!ENTITY desktopHeader.label       "Búro-PC">
 
+<!ENTITY editBookmarkDialog.title  "Blêdwizer bewurkje">
 <!ENTITY editBookmarkDone.label    "Klear">
 <!ENTITY editBookmarkTags.label    "Foech hjir labels ta">
 
