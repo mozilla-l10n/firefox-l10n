@@ -14,8 +14,8 @@
 <!ENTITY accOrgImagesRadio.accesskey    "o">
 <!ENTITY disableImages.label            "Geen afbeeldingen laden">
 <!ENTITY disableImages.accesskey        "G">
-<!ENTITY viewImages.label               "Afbeeldingstoestemmingen beheren">
-<!ENTITY viewImages.accesskey           "b">
+<!ENTITY viewPermissions.label          "Toestemmingen beheren">
+<!ENTITY viewPermissions.accesskey      "T">
 <!ENTITY animLoopingTitle.label         "Geanimeerde afbeeldingen herhaald afspelen">
 <!ENTITY animLoopAsSpecified.label      "Zo vaak als de afbeelding specificeert">
 <!ENTITY animLoopAsSpecified.accesskey  "Z">

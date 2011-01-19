@@ -3,8 +3,8 @@
 <!ENTITY smartTitle.label                     "Software-installaties en -updates beheren">
 <!ENTITY enableSU.label                       "Websites toestaan om extensies en updates te installeren">
 <!ENTITY enableSU.accesskey                   "e">
-<!ENTITY allowedSites.label                   "Toegestane websites">
-<!ENTITY allowedSites.accesskey               "T">
+<!ENTITY viewPermissions.label                "Toestemmingen beheren">
+<!ENTITY viewPermissions.accesskey            "T">
 
 <!ENTITY verifyUpdates.caption                "Updates">
 <!ENTITY autoUpdates.label                    "Automatisch controleren op updates voor:">

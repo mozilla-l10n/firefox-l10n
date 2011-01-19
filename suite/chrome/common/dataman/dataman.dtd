@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Alle gegevenstypen">
+<!ENTITY select.cookies.label "Alleen cookies">
+<!ENTITY select.permissions.label "Alleen toestemmingen">
+<!ENTITY select.preferences.label "Alleen voorkeuren">
+<!ENTITY select.passwords.label "Alleen wachtwoorden">
+
 <!ENTITY domain.search.placeholder "Domeinen doorzoeken">
 <!ENTITY domain.search.key "f">
 
@@ -93,6 +99,10 @@
 <!ENTITY perm.Allow "Toestaan">
 <!ENTITY perm.AllowSession "Toestaan voor sessie">
 <!ENTITY perm.Block "Blokkeren">
+
+<!ENTITY perm.host.placeholder "Voer een hostnaam in">
+<!ENTITY perm.button.add.label "Toevoegen">
+<!ENTITY perm.button.add.accesskey "T">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Inhoudsvoorkeuren zijn een manier voor &brandShortName; om de instellingen voor een specifieke website op te slaan.">

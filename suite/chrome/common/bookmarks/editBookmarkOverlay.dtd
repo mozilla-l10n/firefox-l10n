@@ -23,3 +23,4 @@
 <!ENTITY editBookmarkOverlay.choose.label                    "Kiezen…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nieuwe map">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "e">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Nieuwe map aanmaken">

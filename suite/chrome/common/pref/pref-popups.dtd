@@ -5,8 +5,8 @@
 <!ENTITY popupBlock.label               "Ongewenste pop-upvensters blokkeren">
 <!ENTITY popupBlock.accesskey           "b">
 
-<!ENTITY popupExceptions.label          "Toegestane websites…">
-<!ENTITY popupExceptions.accesskey      "T">
+<!ENTITY viewPermissions.label          "Toestemmingen beheren">
+<!ENTITY viewPermissions.accesskey      "T">
 
 <!ENTITY whenBlock.description          "Wanneer een pop-upvenster is geblokkeerd:">
 <!ENTITY playSound.label                "Een geluid afspelen:">

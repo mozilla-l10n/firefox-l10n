@@ -108,6 +108,8 @@
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY goHomeCmd.label "Beginpagina">
 <!ENTITY goHomeCmd.accesskey "B">
+<!ENTITY historyRestoreLastSession.label "Vorige sessie herstellen">
+<!ENTITY historyRestoreLastSession.accesskey "s">
 
 <!ENTITY bookmarksMenu.label "Bladwijzers">
 <!ENTITY bookmarksMenu.accesskey "a">
@@ -116,7 +118,7 @@
 <!ENTITY addCurPageAsCmd.label "Bladwijzer archiveren…">
 <!ENTITY addCurPageAsCmd.accesskey "a">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Deze tabbladengroep toevoegen aan bladwijzers…">
+<!ENTITY addCurTabsAsCmd.label "Deze tabbladgroep toevoegen aan bladwijzers…">
 <!ENTITY addCurTabsAsCmd.accesskey "r">
 <!ENTITY manBookmarksCmd.label "Bladwijzers beheren…">
 <!ENTITY manBookmarksCmd.accesskey "b">
