@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Riwayat">
 <!ENTITY desktopHeader.label       "Desktop">
 
+<!ENTITY editBookmarkDialog.title  "Edit Markah">
 <!ENTITY editBookmarkDone.label    "Selesai">
 <!ENTITY editBookmarkTags.label    "Tambah tag di sini">
 
