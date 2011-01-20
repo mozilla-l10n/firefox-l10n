@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "&brandShortName;(r)i buruz">
 <!ENTITY about.button                              "Joan orrira">
 <!ENTITY content.title                             "Edukia">
+<!ENTITY reflowZoom.title                          "Berformateatu testua zoom egitean">
 <!ENTITY showImages.title                          "Erakutsi irudiak">
 <!ENTITY enableJavaScript.title                    "Gaitu JavaScript">
 <!ENTITY enablePlugins.title                       "Gaitu plugin-ak">
