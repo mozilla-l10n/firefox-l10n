@@ -64,7 +64,7 @@
 
 
 
-<!ENTITY lostSyncKey.label            "મેં મારી સુમેળ કીને ગુમાવી દીધી">
+
 <!ENTITY verifying.label              "ચકાસી રહ્યા છે…">
 
 <!-- Sync Options -->
@@ -124,3 +124,4 @@
 <!ENTITY signIn.account2.label      "ખાતુ">
 <!ENTITY signIn.syncKey.accesskey   "K">
 <!ENTITY signIn.syncKey.label       "સુમેળ કી">
+<!ENTITY resetSyncKey.label           "મેં મારુ બીજુ ઉપકરણ ગુમાવ્યુ.">
