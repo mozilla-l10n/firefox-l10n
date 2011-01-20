@@ -106,11 +106,11 @@
 <!ENTITY addDevice.dialog.connected.label   "Device Connected">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY setup.signInPage.title.label "Մտնել">
 <!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Ստուգում…">
 <!ENTITY resetPassword.label          "Վերանշել գաղտնաբառը">
-<!ENTITY lostSyncKey.label            "Ես կորցրել եմ իմ Sync բանալին">
+<!ENTITY resetSyncKey.label           "I have lost my other device.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync պարամետրեր">
