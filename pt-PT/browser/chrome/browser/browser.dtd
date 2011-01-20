@@ -463,11 +463,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomControls.label             "Controlos da lupa">
 
 <!ENTITY quitApplicationCmdWin.label "Sair">
-<!ENTITY quitApplicationCmdWin.accesskey "Q">
+<!ENTITY quitApplicationCmdWin.accesskey "S">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Sair">
-<!ENTITY quitApplicationCmd.accesskey "Q">
+<!ENTITY quitApplicationCmd.accesskey "S">
 <!ENTITY quitApplicationCmdMac.label "Sair do &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key "Q">
 
