@@ -4,8 +4,7 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ଆପଣଙ୍କ ପୁରୁଣା ତଥ୍ୟ, ଚିହ୍ନିତ ସ୍ଥାନ, ପ୍ରବେଶ ସଂକେତକୁ ଅଭିଗମ୍ୟ କରିବା ପାଇଁ ଅନୁମତି ଦେଇଥାଏଏବଂ ଆପଣଙ୍କର ସମସ୍ତ ଉପକରଣରେ ଟ୍ୟାବଗୁଡ଼ିକୁ ଖୋଲିଥାଏ।">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ଖାତା">
-<!ENTITY currentAccount.label         "ପ୍ରଚଳିତ ଖାତା:">
+
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "ଅଦ୍ୟତନ କରନ୍ତୁ">
@@ -18,10 +17,10 @@
 <!ENTITY changePassword.label         "ପ୍ରବେଶ ସଂକେତକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 <!ENTITY mySyncKey.label              "ମୋର Sync କି">
 <!ENTITY resetSync.label              "Sync କୁ ପୁନଃସ୍ଥାପନ କରିଥାଏ">
-<!ENTITY stopUsingAccount.label       "ଏହି ଖାତାକୁ ବ୍ୟବହାର କରିବା ବନ୍ଦ କରନ୍ତୁ">
+
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "ବ୍ରାଉଜର Sync">
+
 <!ENTITY syncComputerName.label       "କମ୍ପୁଟର ନାମ:">
 <!ENTITY syncComputerName.accesskey   "c">
 
