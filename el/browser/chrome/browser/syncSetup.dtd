@@ -66,6 +66,8 @@
 
 <!-- Existing Account Page 2: Sync Key -->
 
+<!ENTITY resetSyncKey.label           "Έχω χάσει την άλλη συσκευή.">
+
 
 
 <!ENTITY existingSyncKey.description "Μπορείτε να πάρετε ένα αντίγραφο του κλειδιού Sync πηγαίνοντας στις Επιλογές του &syncBrand.shortName.label; στον άλλο υπολογιστή και επιλέγοντας  &#x0022;Το κλειδί Sync&#x0022; στο &#x0022;Διαχείριση λογαριασμού&#x0022;.">
@@ -73,7 +75,6 @@
 
 <!ENTITY serverType.custom2.label   "Χρήση προσαρμοσμένου εξυπηρετητή…">
 
-<!ENTITY lostSyncKey.label            "Έχω χάσει το κλειδί Sync μου">
 <!ENTITY verifying.label              "Γίνεται επιβεβαίωση…">
 
 <!-- Sync Options -->
