@@ -21,8 +21,8 @@
 <!ENTITY  keepUntil.accesskey           "C">
 
 <!ENTITY  expire.label                  "caduquen">
-<!ENTITY  close.label                   "zarro &brandShortName;">
-<!ENTITY  askEachTime.label             "entrugar siempres">
+<!ENTITY  close.label                   "zarre &brandShortName;">
+<!ENTITY  askEachTime.label             "entrugar siempre">
 
 <!ENTITY  cookieExceptions.label        "Esceiciones…">
 <!ENTITY  cookieExceptions.accesskey    "E">
@@ -43,13 +43,13 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "También podrí­a ">
-<!ENTITY  rememberActions.clearHistory.label  "llimpiar el so historial reciente">
+<!ENTITY  rememberActions.pre.label           "Tamién podrí­a ">
+<!ENTITY  rememberActions.clearHistory.label  "llimpiar l'historial reciente">
 <!ENTITY  rememberActions.middle.label        ", o ">
 <!ENTITY  rememberActions.removeCookies.label "desaniciar cookies de mou individual">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; usará la mesma configuración que navegación privao, y nun remembrará dengún datu del so historial mientres restole pela Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; usará la mesma configuración que navegación privao, y nun remembrará dengún datu del to historial mientres restoles pela Web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->

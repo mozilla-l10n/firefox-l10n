@@ -38,7 +38,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Escueya perfil d'usuariu">
+<!ENTITY            windowtitle.label      "&brandShortName; - Escueyi perfil d'usuariu">
 
 <!ENTITY            profilename.label      "Nome de perfil:">
 
@@ -47,7 +47,7 @@
 
 <!ENTITY            availprofiles.label    "Perfiles disponibles">
 
-<!ENTITY            newButton.label        "Criar perfil…">
+<!ENTITY            newButton.label        "Crear perfil…">
 <!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "Renomar perfil…">
 <!ENTITY            renameButton.accesskey "R">
@@ -55,7 +55,7 @@
 <!ENTITY            deleteButton.accesskey "e">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; atroxa información sobre la so configuración, preferencies y otros elementos nel so perfil d'usuariu.">
+<!ENTITY            pmDescription.label    "&brandShortName; atroxa información sobre la to configuración, preferencies y otros elementos nel to perfil d'usuariu.">
 
 <!ENTITY            offlineState.label    "Trabayar ensin conexón">
 <!ENTITY            offlineState.accesskey "o">

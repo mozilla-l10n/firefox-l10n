@@ -4,7 +4,7 @@
 
 <!ENTITY accessibility.label             "Accesibilidá">
 
-<!ENTITY useCursorNavigation.label       "Usar siempres les tecles del cursor pa restolar dientro de les páxines">
+<!ENTITY useCursorNavigation.label       "Usar siempre les tecles del cursor pa restolar dientro de les páxines">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Guetar testu mientres s'escribe">
 <!ENTITY searchStartTyping.accesskey     "s">
@@ -34,7 +34,7 @@
 
 <!ENTITY connection.label                "Conexón">
 
-<!ENTITY connectionDesc.label            "Configurar cómo &brandShortName; se coneuta a Internet">
+<!ENTITY connectionDesc.label            "Configurar cómo se coneuta &brandShortName; a Internet">
 <!ENTITY connectionSettings.label        "Configuración…">
 <!ENTITY connectionSettings.accesskey    "o">
 
@@ -72,7 +72,7 @@
 <!ENTITY updateHistory.label             "Amosar historial d'anovamientos">
 <!ENTITY updateHistory.accesskey         "m">
 
-<!ENTITY offlineNotify.label             "Avisame cuanto s'entrugue pa guardar datos en mou desconexón">
+<!ENTITY offlineNotify.label             "Avisame cuando s'entrugue pa guardar datos en mou desconexón">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Esceiciones...">
 <!ENTITY offlineNotifyExceptions.accesskey "s">
@@ -91,10 +91,10 @@
 <!ENTITY useTLS1.label                   "Usar TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certificaos">
-<!ENTITY certSelection.description       "Cuando un sirvidor requiera el mio certificáu personal:">
+<!ENTITY certSelection.description       "Cuando un sirvidor requiera'l mio certificáu personal:">
 <!ENTITY certs.auto                      "Seleicionar ún automáticamente">
 <!ENTITY certs.auto.accesskey            "l">
-<!ENTITY certs.ask                       "Entrugar siempres">
+<!ENTITY certs.ask                       "Entrugar siempre">
 <!ENTITY certs.ask.accesskey             "g">
 <!ENTITY viewCerts.label                 "Ver certificaos">
 <!ENTITY viewCerts.accesskey             "s">

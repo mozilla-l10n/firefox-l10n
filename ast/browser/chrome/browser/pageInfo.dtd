@@ -88,7 +88,7 @@
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Usar predetermináu">
-<!ENTITY  permAskAlways         "Entrugar siempres">
+<!ENTITY  permAskAlways         "Entrugar siempre">
 <!ENTITY  permAllow             "Permitir">
 <!ENTITY  permAllowSession      "Permitir nesta sesión">
 <!ENTITY  permBlock             "Bloquiar">
@@ -115,7 +115,7 @@
 <!ENTITY  securityView.identity.verifier "Verificáu por:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidá ya historial">
-<!ENTITY  securityView.privacy.history                  "¿Tien visitao esti sitiu web enantes?">
+<!ENTITY  securityView.privacy.history                  "¿Tienes visitao esti sitiu web enantes?">
 <!ENTITY  securityView.privacy.cookies                  "¿Esti sitiu ta atroxando información (cookies) nesti equipu?">
 <!ENTITY  securityView.privacy.viewCookies              "Adicar cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
