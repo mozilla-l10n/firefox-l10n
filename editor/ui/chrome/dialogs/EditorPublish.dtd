@@ -50,7 +50,7 @@
 <!ENTITY newSiteButton.accesskey      "N">
 <!ENTITY docDirList.label             "Website-Unterordner für diese Seite:">
 <!ENTITY docDirList.accesskey         "S">
-<!ENTITY docDirList.tooltip           "Wählen Sie den Namen des externen Unterverordners für diese Seite oder geben Sie diesen ein">
+<!ENTITY docDirList.tooltip           "Wählen Sie den Namen des externen Unterordners für diese Seite oder geben Sie diesen ein">
 <!ENTITY publishImgCheckbox.label     "Grafiken und andere Dateien inkludieren">
 <!ENTITY publishImgCheckbox.accesskey "k">
 <!ENTITY publishImgCheckbox.tooltip   "Grafiken und andere von dieser Seite referenzierte Dateien publizieren">
@@ -86,7 +86,7 @@
 <!ENTITY siteUrl.tooltip              "Die FTP://- oder HTTP://-Adresse, die von Ihrem Provider oder Web-Hosting-Service bereitgestellt wird">
 <!ENTITY browseUrl.label              "HTTP-Adresse Ihrer Homepage (z.B.: 'http://www.meinprovider.at/meinbenutzername'):">
 <!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip            "Die HTTP://-Adresse Ihres Hauptverordners (keinen Dateinamen angeben)">
+<!ENTITY browseUrl.tooltip            "Die HTTP://-Adresse Ihres Hauptordners (keinen Dateinamen angeben)">
 <!ENTITY username.label               "Benutzername:">
 <!ENTITY username.accesskey           "B">
 <!ENTITY username.tooltip             "Der Benutzername, den Sie verwenden, um sich bei Ihrem Provider oder Web-Hosting-Service anzumelden">
