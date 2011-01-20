@@ -43,8 +43,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentAccount.label         "Ընթացիկ հաշիվ`">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Թարմացնել">
@@ -55,15 +53,9 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Դիտել քվոտան">
 <!ENTITY changePassword.label         "Փոխել Գաղտնաբառը">
-<!ENTITY mySyncKey.label              "My Sync Key">
+<!ENTITY mySyncKey.label              "Իմ Sync բանալին">
 <!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY stopUsingAccount.label       "Դադարեցնել այս հաշվի օգտագործումը">
-<!ENTITY addDevice.label              "Add a Device">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
-<!ENTITY syncComputerName.accesskey   "Հ">
+<!ENTITY addDevice.label              "Ավելացրեք սարք">
 
 <!ENTITY syncMy.label               "Իմ Sync">
 <!ENTITY engine.bookmarks.label     "Էջանիշեր">
@@ -77,6 +69,10 @@
 <!ENTITY engine.prefs.label         "Նախըտրանքներ">
 <!ENTITY engine.prefs.accesskey     "Ն">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
+<!ENTITY syncComputerName.accesskey   "Հ">
+<!ENTITY deactivateDevice.label       "Deactivate This Device">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Ծառայության պայմաններին">
