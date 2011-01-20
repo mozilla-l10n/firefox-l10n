@@ -53,9 +53,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.accesskey "ز">
 <!ENTITY menu_textSize.label "حجم النص">
 <!ENTITY menu_textSize.accesskey "ج">
-<!ENTITY menu_textEnlarge.label "أكبِر">
+<!ENTITY menu_textEnlarge.label "أكبر">
 <!ENTITY menu_textEnlarge.accesskey "ك">
-<!ENTITY menu_textReduce.label "أصغِر">
+<!ENTITY menu_textReduce.label "أصغر">
 <!ENTITY menu_textReduce.accesskey "ص">
 <!ENTITY menu_textReset.label "عادي">
 <!ENTITY menu_textReset.accesskey "ع">

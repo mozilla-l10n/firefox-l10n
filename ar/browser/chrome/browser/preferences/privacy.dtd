@@ -7,7 +7,7 @@
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "التأريخ والعلامات">
 <!ENTITY  locbar.history.label          "التأريخ">
-<!ENTITY  locbar.bookmarks.label        "العلامات المرجعية">
+<!ENTITY  locbar.bookmarks.label        "العلامات">
 <!ENTITY  locbar.nothing.label          "لا شيء">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
