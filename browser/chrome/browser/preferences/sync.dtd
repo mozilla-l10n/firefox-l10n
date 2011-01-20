@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ಎನ್ನುವುದು ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ  ಇತಿಹಾಸವನ್ನು, ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು, ಗುಪ್ತಪದಗಳನ್ನು ಹಾಗು ತೆರೆಯಲಾದ ಹಾಳೆಗಳನ್ನು ನೀವು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ಖಾತೆ">
-<!ENTITY currentAccount.label         "ಪ್ರಸಕ್ತ ಖಾತೆ:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "ಅಪ್‌ಡೇಟ್">
@@ -18,10 +16,10 @@
 <!ENTITY changePassword.label         "ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸಿ">
 <!ENTITY mySyncKey.label              "ನನ್ನ ಸಿಂಕ್ ಕೀಲಿ">
 <!ENTITY resetSync.label              "ಸಿಂಕ್ ಅನ್ನು ಮರಳಿಹೊಂದಿಸು">
-<!ENTITY stopUsingAccount.label       "ಈ ಖಾತೆಯನ್ನು ಬಳಸುವುದನ್ನು ನಿಲ್ಲಿಸು">
-
+<!--ENTITY stopUsingAccount.label       "ಈ ಖಾತೆಯನ್ನು ಬಳಸುವುದನ್ನು ನಿಲ್ಲಿಸು"-->
+<!ENTITY deactivateDevice.label       "ಈ ಸಾಧನವನ್ನು ಅಶಕ್ತಗೊಳಿಸು">
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "ಜಾಲವೀಕ್ಷಕದ ಸಿಂಕ್">
+<!--ENTITY syncPrefsCaption.label       "ಜಾಲವೀಕ್ಷಕದ ಸಿಂಕ್"-->
 <!ENTITY syncComputerName.label       "ಗಣಕದ ಹೆಸರು:">
 <!ENTITY syncComputerName.accesskey   "c">
 

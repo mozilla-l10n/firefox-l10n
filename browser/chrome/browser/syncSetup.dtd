@@ -56,7 +56,9 @@
 <!--ENTITY connecting.label             "ಸಂಪರ್ಕಿತಗೊಳ್ಳುತ್ತಿದೆ…"-->
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY lostSyncKey.label            "ನಾನು ನನ್ನ ಸಿಂಕ್ ಕೀಲಿಯನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದೇನೆ">
+<!--ENTITY lostSyncKey.label            "ನಾನು ನನ್ನ ಸಿಂಕ್ ಕೀಲಿಯನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದೇನೆ"-->
+
+<!ENTITY resetSyncKey.label           "ನಾನು ನನ್ನ ಇನ್ನೊಂದು ಸಾಧನವನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದೇನೆ.">
 <!ENTITY verifying.label              "ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…">
 
 <!-- Sync Options -->
