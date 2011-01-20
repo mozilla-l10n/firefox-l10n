@@ -21,6 +21,7 @@
 <!ENTITY bookmarksHeader.label "Segnalibri">
 <!ENTITY historyHeader.label "Cronologia">
 <!ENTITY desktopHeader.label "Desktop">
+<!ENTITY editBookmarkDialog.title "Modifica segnalibro">
 <!ENTITY editBookmarkDone.label "Fatto">
 <!ENTITY editBookmarkTags.label "Etichette:">
 <!ENTITY selectHelper.done "Fatto">
