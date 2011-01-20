@@ -17,12 +17,12 @@
 <!ENTITY rights.intro-point1c ". يعني هذا أنك تستطيع استخدام &brandShortName; ونسخه وتوزيعه إلى الآخرين.  تستطيع أيضًا تعديل كود &brandShortName; المصدري كما تشاء لموافقة احتياجاتك. كما تعطيك رخصة موزيلا العامة الحق في توزيع نسخك المعدلة.">
 
 
-<!ENTITY rights.intro-point2-a "لا يعطيك هذا أي حقوق أو تراخيص للعلامات التجارية التابعة لمؤسسة موزيلا أو أي طرف آخر، متضمنًا على سبيل المثال لا الحصر اسم فَيَرفُكس وشعاره. يمكنك الاطلاع على مزيد من المعلومات عن العلامات التجارية ">
+<!ENTITY rights.intro-point2-a "لا يعطيك هذا أي حقوق أو تراخيص للعلامات التجارية لمؤسسة موزيلا أو أي طرف آخر، متضمنًا على سبيل المثال لا الحصر اسم فَيَرفُكس وشعاره. يمكنك الاطلاع على مزيد من المعلومات عن العلامات التجارية ">
 <!ENTITY rights.intro-point2-b "هنا">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "بعض مزايا &brandShortName;، مثل مبلّغ الانهيارات، تتيح إرسال تعليقاتك إلى &vendorShortName;. باختيارك إرسال تعليق، فأنت تعطي &vendorShortName; الإذن باستحدامه لتحسين منتجاتها، ونشره على مواقعها، وتوزيعه.">
+<!ENTITY rights.intro-point2.5 "بعض مزايا &brandShortName;، مثل مبلّغ الانهيارات، تتيح إرسال تعليقاتك إلى &vendorShortName;. باختيارك إرسال تعليق، فأنت تعطي &vendorShortName; الإذن باستخدامه لتحسين منتجاتها، ونشره على مواقعها، وتوزيعه.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "كيفية استخدامنا لمعلوماتك الشخصية والتعليقات التي ترسلها إلى &vendorShortName; عبر &brandShortName; مشروحة في ">
@@ -33,12 +33,12 @@
 <!ENTITY rights.intro-point3-unbranded "كل سياسات الخصوصية المطبقة في هذا المنتج مسرودة هنا.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "بعض مزايا &brandShortName; تستفيد من خدمات للمعلومات في الوب، ولكننا لا نستطيع أن نضمن دقتها 100&#37; أو خلوها من الأخطاء. يمكن الاطلاع على مزيد من التفاصيل، بما فيها  كيفية تعطيل المزايا التي تستخدم هذه الخدمات، في ">
+<!ENTITY rights2.intro-point4a "بعض مزايا &brandShortName; تستفيد من خدمات للمعلومات في الوب، ولكننا لا نضمن دقتها التامة أو خلوها من الأخطاء. يمكن الاطلاع على مزيد من التفاصيل، بما فيها كيفية تعطيل المزايا التي تستخدم هذه الخدمات، في ">
 <!ENTITY rights.intro-point4b "بنود الخدمة">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "في حال احتوى هذا المنتج على أي من خدمات الوب فيمكن الوصول إلى بنود استخدام من قِسم ">
+<!ENTITY rights.intro-point4a-unbranded "في حال احتوى هذا المنتج على أي من خدمات الوب فيمكن الوصول إلى بنود استخدام تلك الخدمة من قِسم ">
 <!ENTITY rights.intro-point4b-unbranded "خدمات مواقع الوب">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
@@ -49,7 +49,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "يستخدم &brandFullName; خدمات للمعلومات على الوب (&quot;الخدمات&quot;) للحصول على بعض المزايا التي يوفرها لك في هذه النسخة الثنائية من &brandShortName; وفق الشروط المذكورة أدناه. إن لم ترغب باستخدام خدمة أو أكثر أو كنت لا توافق على الشروط أدناه، يمكنك تعطيل الميزة أو الخدمة.  يمكنك الاطلاع على تعليمات عن تعطيل ميزة أو خدمة معينة ">
+<!ENTITY rights2.webservices-a "يستخدم &brandFullName; خدمات للمعلومات على الوب (&quot;الخدمات&quot;) للحصول على بعض المزايا التي يوفرها لك في هذه النسخة الثنائية من &brandShortName; وفق الشروط المذكورة أدناه. إن لم ترغب باستخدام خدمة أو أكثر أو كنت لا توافق على الشروط أدناه فيمكنك تعطيل الميزة أو الخدمة.  يمكنك الاطلاع على تعليمات عن تعطيل ميزة أو خدمة معينة ">
 <!ENTITY rights2.webservices-b "هنا">
 <!ENTITY rights2.webservices-c ".">
 

@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "إعداد &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "د">
-<!ENTITY weaveDesc.label            "يتيح &syncBrand.fullName.label; الوصول إلى علاماتك وتأريخك وكلمات السر والألسنة النفتوحة في جميع أجهزتك.">
+<!ENTITY weaveDesc.label            "يتيح &syncBrand.fullName.label; الوصول إلى علاماتك وتأريخك وكلمات السر والألسنة المفتوحة في جميع أجهزتك.">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "حدِّث">
