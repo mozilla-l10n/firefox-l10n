@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "瀏覽記錄">
 <!ENTITY desktopHeader.label       "桌面">
 
+<!ENTITY editBookmarkDialog.title  "編輯書籤">
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "在此加入書籤">
 
