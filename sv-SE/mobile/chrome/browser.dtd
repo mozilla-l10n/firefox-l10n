@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Historik">
 <!ENTITY desktopHeader.label       "Skrivbord">
 
+<!ENTITY editBookmarkDialog.title  "Redigera bokmärke">
 <!ENTITY editBookmarkDone.label    "Klar">
 <!ENTITY editBookmarkTags.label    "Ange etiketter här">
 
