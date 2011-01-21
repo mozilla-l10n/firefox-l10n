@@ -6,7 +6,7 @@
 <!ENTITY community.middle2          "، وهي ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "مجتمع عالمي">
-<!ENTITY community.end2             " يعمل يدًا بيد لتحسين الإنترنت. نؤمن أن الإنترنت يجب أن يكون عامًا ومفتوحًا ومتاحًا لكل الناس دون أي قيود.">
+<!ENTITY community.end2             " يعمل يدًا بيد لتحسين الإنترنت. نؤمن أن الإنترنت يجب أن يكون عامًا ومفتوحًا ومتاحًا لكل الناس دون قيود.">
 
 <!ENTITY contribute.start           "هل يثير هذا اهتمامك؟ ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
