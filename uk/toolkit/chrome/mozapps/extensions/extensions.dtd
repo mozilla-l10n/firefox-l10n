@@ -148,7 +148,7 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Назва">
-<!ENTITY sort.name.tooltip                    "Сортувати за назовю">
+<!ENTITY sort.name.tooltip                    "Сортувати за назвою">
 <!ENTITY sort.dateUpdated.label               "Востаннє оновлено">
 <!ENTITY sort.dateUpdated.tooltip             "Сортувати за датою оновлення">
 <!ENTITY sort.relevance.label                 "Найкращий збіг">
