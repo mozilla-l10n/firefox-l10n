@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Histórico">
 <!ENTITY desktopHeader.label       "Ambiente de trabalho">
 
+<!ENTITY editBookmarkDialog.title  "Editar Marcador">
 <!ENTITY editBookmarkDone.label    "Feito">
 <!ENTITY editBookmarkTags.label    "Adicionar etiquetas aqui">
 
