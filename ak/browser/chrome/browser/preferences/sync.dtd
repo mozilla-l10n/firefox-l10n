@@ -16,24 +16,24 @@
 <!ENTITY changePassword.label         "Sesa ehintasɛmfua">
 <!ENTITY mySyncKey.label              "Me Sync kii">
 <!ENTITY resetSync.label              "San-hyehyɛɛ Sync">
-<!ENTITY addDevice.label              "Add a Device">
+<!ENTITY addDevice.label              "Fa efidie ka ho">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "Sync Mediɛ">
+<!ENTITY engine.bookmarks.label     "Mbukmaak">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.label          "Ntab">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "Abakɔsɛm">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.passwords.label     "Ehintasɛmfua">
+<!ENTITY engine.passwords.accesskey "E">
+<!ENTITY engine.prefs.label         "Apɛdeɛ">
 <!ENTITY engine.prefs.accesskey     "S">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Kɔmputa Din:">
 <!ENTITY syncComputerName.accesskey   "m">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!ENTITY deactivateDevice.label       "Ɛma Efidie no Nyɛadwuma">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Ɛfene a yɛde som wo">

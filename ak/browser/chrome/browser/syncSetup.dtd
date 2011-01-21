@@ -54,7 +54,7 @@
 
 <!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Add a Device">
+<!ENTITY addDevice.title.label              "Fa efidie ka ho">
 <!ENTITY addDevice.showMeHow.label          "Show me how.">
 <!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
 <!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
@@ -78,7 +78,7 @@
 <!ENTITY syncComputerName.label       "Kɔmputa Din:">
 <!ENTITY syncComputerName.accesskey   "m">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Sync Mediɛ">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Tabs">

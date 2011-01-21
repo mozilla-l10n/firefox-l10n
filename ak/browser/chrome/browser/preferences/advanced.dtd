@@ -47,12 +47,12 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY limitCacheSizeBefore.label      "Ma asiei no mpem">
+<!ENTITY limitCacheSizeBefore.accesskey  "M">
+<!ENTITY limitCacheSizeAfter.label       "MB kwan">
 <!ENTITY clearCacheNow.label             "Pepa seisei">
 <!ENTITY clearCacheNow.accesskey         "P">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.label    "Ma otomatik asiei ade-nhwɛso no mfaso">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Ntoso">
