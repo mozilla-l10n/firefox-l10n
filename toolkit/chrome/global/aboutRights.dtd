@@ -22,7 +22,7 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "بعض مزايا &brandShortName;، مثل مبلّغ الانهيارات، تتيح إرسال تعليقاتك إلى &vendorShortName;. باختيارك إرسال تعليق، فأنت تعطي &vendorShortName; الإذن باستخدامه لتحسين منتجاتها، ونشره على مواقعها، وتوزيعه.">
+<!ENTITY rights.intro-point2.5 "بعض مزايا &brandShortName;، مثل مبلّغ الانهيارات، تتيح إرسال تعليقاتك إلى &vendorShortName;. باختيارك إرسال تعليق فأنت تعطي &vendorShortName; الإذن باستخدامه لتحسين منتجاتها، ونشره على مواقعها، وتوزيعه.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "كيفية استخدامنا لمعلوماتك الشخصية والتعليقات التي ترسلها إلى &vendorShortName; عبر &brandShortName; مشروحة في ">
