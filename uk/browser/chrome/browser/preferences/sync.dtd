@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; дозволяє вам синхронізувати ваші історію, закладки, паролі та відкриті вкладки на всіх ваших пристроях..">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Обліковий запис &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Поточний запис:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Оновити">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "Змінити пароль">
 <!ENTITY mySyncKey.label              "Мій ключ сихронізації">
 <!ENTITY resetSync.label              "Скинути синхронізацію">
-<!ENTITY stopUsingAccount.label       "Перестати використовувати цей обліковий запис">
 <!ENTITY addDevice.label              "Додати пристрій">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Синхронізація браузера">
-<!ENTITY syncComputerName.label       "Назва комп’ютера:">
-<!ENTITY syncComputerName.accesskey   "к">
 
 <!ENTITY syncMy.label               "Синхронізувати мої">
 <!ENTITY engine.bookmarks.label     "Закладки">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label         "Налаштування">
 <!ENTITY engine.prefs.accesskey     "Н">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Назва комп’ютера:">
+<!ENTITY syncComputerName.accesskey   "к">
+<!ENTITY deactivateDevice.label       "Деактивувати цей пристрій">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Умови надання послуги">
