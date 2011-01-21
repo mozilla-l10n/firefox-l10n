@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Ajalugu">
 <!ENTITY desktopHeader.label       "Arvuti">
 
+<!ENTITY editBookmarkDialog.title  "Järjehoidja redigeerimine">
 <!ENTITY editBookmarkDone.label    "Valmis">
 <!ENTITY editBookmarkTags.label    "Lisa sildid siia">
 

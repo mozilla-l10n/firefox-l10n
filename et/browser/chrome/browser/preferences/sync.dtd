@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label                 "&syncBrand.fullName.label; võimaldab sulle ligipääsu sinu teistes seadmetes olevale ajaloole, järjehoidjatele, paroolidele ja avatud kaartidele.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label    "&syncBrand.fullName.label;i konto">
-<!ENTITY currentAccount.label            "Praegune konto:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label                "Uuenda">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label            "Muuda parooli">
 <!ENTITY mySyncKey.label                 "Synci võti">
 <!ENTITY resetSync.label                 "Lähtesta Sync">
-<!ENTITY stopUsingAccount.label          "Lõpeta selle konto kasutamine">
 <!ENTITY addDevice.label                 "Lisa seade">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label          "Brauseri sünkroniseerimine">
-<!ENTITY syncComputerName.label          "Arvuti nimi:">
-<!ENTITY syncComputerName.accesskey      "r">
 
 <!ENTITY syncMy.label                    "Sünkroniseeritakse">
 <!ENTITY engine.bookmarks.label          "järjehoidjad">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label              "eelistused">
 <!ENTITY engine.prefs.accesskey          "e">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label          "Arvuti nimi:">
+<!ENTITY syncComputerName.accesskey      "r">
+<!ENTITY deactivateDevice.label          "Deaktiveeri see seade">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label             "Teenuse tingimused">
