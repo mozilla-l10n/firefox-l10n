@@ -1,4 +1,4 @@
-<!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
-<!ENTITY quota.typeColumn.label     "Type">
+<!ENTITY quota.dialogTitle.label    "Ekitundu ekiwereddwa kompyuta efuga zinazo">
+<!ENTITY quota.retrievingInfo.label "Okajjayo ebikwata ku kitundu ekikuwereddwa…">
+<!ENTITY quota.typeColumn.label     "Ekika">
 <!ENTITY quota.sizeColumn.label     "Obunene">

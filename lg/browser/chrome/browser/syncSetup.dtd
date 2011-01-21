@@ -1,62 +1,62 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Okutegeka">
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
+<!ENTITY setup.pickSetupType.description "Tukusanyukidde, bwobanga tokozesangako &syncBrand.fullName.label;, ojjakwetaga okutondawo akaunta empya.">
+<!ENTITY button.createNewAccount.label "Tondawo Akaunta Empya">
+<!ENTITY setup.haveAccount.label "Nina akaunta ya &syncBrand.fullName.label;.">
 <!ENTITY button.connect.label    "Yunga">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "Walyo kozesezako &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label       "Sikozesangako &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "Natandika da okukozesa &syncBrand.shortName.label; ku kompyuta endala">
 <!-- New Account AND Existing Account -->
 
-<!ENTITY server.label               "Server">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
-<!ENTITY signIn.account2.label      "Account">
+<!ENTITY server.label               "Kompyuta efuga zinazo">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Kompyuta efuga zinazo">
+<!ENTITY serverType.custom2.label   "Kozesa Kompyuta efuga zinazo nga yanjawulo…">
+<!ENTITY signIn.account2.label      "Akaunta">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Akasumuluzo">
 <!ENTITY signIn.password.accesskey  "A">
-<!ENTITY signIn.syncKey.label       "Sync Key">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.syncKey.label       "Akasumuluzo Akatusaganya">
+<!ENTITY signIn.syncKey.accesskey   "A">
 <!-- New Account Page 1: Basic Account Info -->
 
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
+<!ENTITY setup.newAccountDetailsPage.title.label "Ebikwata ku Akaunta">
 <!ENTITY setup.confirmPassword.label  "Kakasa akasumuluzo">
 <!ENTITY setup.confirmPassword.accesskey  "s">
 <!ENTITY setup.emailAddress.label     "Endagiriro ya Emeyilo">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
-<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosAgree1.label      "Nzikiriza ekyo">
+<!ENTITY setup.tosAgree1.accesskey  "r">
 <!ENTITY setup.tosLink.label        "Amateeka g'empeereza">
-<!ENTITY setup.tosAgree2.label      "N'e">
-<!ENTITY setup.ppLink.label         "Enkola eyekyama egobelerwa">
+<!ENTITY setup.tosAgree2.label      "ne">
+<!ENTITY setup.ppLink.label         "Enkola Eyekyama Egobererwa">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Efayo Ku Byekyama Byo">
+<!ENTITY setup.newSyncKeyPage.description.label "Okukakasa nti ebyekyamabyo bikumiddwa, data wo yena atafutibwa nga tanaba kutikibwa. Akasumuluzo akatusaganya aketagisa okujjamu olufutifuti teka tikibwa.">
+<!ENTITY syncKeyEntry.label        "Akasumuluzo Ko">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyGenerate.label     "Fulumya">
+<!ENTITY syncKeyBackup.description "Akasumuluzo ko ketagisa okufuna &syncBrand.fullName.label; ku machini endala. Bambi tondawo kopi endala. Tetusoboola kuyamba okuzawo akasumuluzoko.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Fulumya…">
-<!ENTITY button.syncKeyBackup.print.accesskey "F">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+<!ENTITY button.syncKeyBackup.print.accesskey "u">
+<!ENTITY button.syncKeyBackup.save.label      "Tereka…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "T">
 <!-- New Account Page 3: Captcha -->
 
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "Kakasa Nti Toli Kyuma Kikalimagezi">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Add a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
+<!ENTITY addDevice.title.label              "Gatako Ekikozesebwa">
+<!ENTITY addDevice.showMeHow.label          "Ndaga nga.">
+<!ENTITY addDevice.dontHaveDevice.label     "Sirina kikozesebwa nange">
 <!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
 <!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
@@ -69,7 +69,7 @@
 
 <!ENTITY setup.signInPage.title.label "Sign In">
 <!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY verifying.label              "Verifying…">
+<!ENTITY verifying.label              "Ekakasa…">
 <!ENTITY resetPassword.label          "Reset Password">
 <!ENTITY lostSyncKey.label            "I have lost my Sync Key">
 <!-- Sync Options -->
@@ -79,19 +79,19 @@
 <!ENTITY syncComputerName.accesskey   "E">
 
 <!ENTITY syncMy.label               "Kwanaganya">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.bookmarks.label     "Obulambe">
+<!ENTITY engine.bookmarks.accesskey "a">
+<!ENTITY engine.tabs.label          "Awaddirira">
+<!ENTITY engine.tabs.accesskey      "w">
+<!ENTITY engine.history.label       "Ebyafaayo">
+<!ENTITY engine.history.accesskey   "b">
+<!ENTITY engine.passwords.label     "Obusumuluzo">
+<!ENTITY engine.passwords.accesskey "u">
+<!ENTITY engine.prefs.label         "Okweroboza">
+<!ENTITY engine.prefs.accesskey     "e">
 
 <!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
+<!ENTITY choice2.merge.recommended.label "Ekisembebwa:">
 <!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
 <!-- Confirm Merge Options -->

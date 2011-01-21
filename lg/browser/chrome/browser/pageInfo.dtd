@@ -99,8 +99,8 @@
 <!ENTITY  permInstall           "Tekaa mu  obwongerezebwako oba endabika">
 <!ENTITY  permGeo               "Gabanya Ekifo">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permIndexedDB              "Labirira Eterekero Elitayingidwa ku Mukutu">
+<!ENTITY  permClearStorage           "Jjawo Eterekero">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Ebyo'kwerinda">
@@ -117,7 +117,7 @@
 <!ENTITY  securityView.identity.verifier "Kikakasiddwa:">
 
 <!ENTITY  securityView.privacy.header                   "Byakyama &amp; Byafaayo">
-<!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
+<!ENTITY  securityView.privacy.history                  "Nkyaddeko omuko guno ngojeko leero?">
 <!ENTITY  securityView.privacy.cookies                  "Olutimbe luno lutereka obubaka obukwata (kuki) ku kyuma kyange kalimagezi?">
 <!ENTITY  securityView.privacy.viewCookies              "Kenga bu kuki">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">

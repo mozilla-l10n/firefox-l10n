@@ -25,8 +25,8 @@
 <!ENTITY netInterrupt.longDesc "<p>Akanoonya kayungiddwa bulungi, naye ennyunga yatataganye mukuwereza obubaka.  Bambi ddamu ogezeko nate.</p><ul><li>Olemeledwa okunoonya kumikutu emmilara? Kebelako ku nnyunga y'empuliziganya ya kompyuuta.</li><li>Wakyaliwo obuzibu? Webuzeeko eli addukanya empuliziganya oba agabilira kompyuuta yo eby'omukutu ogw'ensi yonna akuyambe.</li></ul>">
 
 <!ENTITY netOffline.title "Toli ku nkola y'Ekintu">
-<!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>Akanoonya kakolera ku lutimbe naye teluliiko n`olw`ekyo tekayinza kuyunga ku kintu ekisabiddwa.</p><ul><li>Kompyuta yo eyungiddwa ku mpuliriziganya ekola?</li><li>akanoonya kayunge ku lutimbe olukola oddemu ogezeeko.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Akanoonya kakolera ku lutimbe naye teluliiko n`olw`ekyo tekayinza kuyunga ku kintu ekisabiddwa.</p><ul><li>Kompyuta yo eyungiddwa ku mpuliriziganya ekola?</li><li>akanoonya kayunge ku lutimbe olukola oddemu ogezeeko.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
 <!ENTITY contentEncodingError.longDesc "<p>Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa ennyiga yo lugo etewagiddwa oba tekkirizidwa.</p><ul><li>Bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.</li></ul>">
@@ -74,8 +74,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>Okuyingiza amawulire gonna ago'bwanannyini ku muko guno kiyinza okuvirako okubbibwa kwekiraga oba okukumpanya okwengeri endala.</p> 
 <p>bino ebika byobukumpanya mu'ntiimbe bikozesebwa mu butali bwesimbu nga obukumpanya obugenderedwamu okubba amawlire agomugaso, mukukozsa entimbagano ezo'bukumpanya ne meyilo okwefanaanyiriza ensibukko zo'yinza okwesiga.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Eziyiziddwa Eteka eli Fuga Ebirimu">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Akanoonya kaganye omuko guno okutika mungeri eno kubanga omuko guno gulina eteka elifuga ebyomunda ebitakiriza.</p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

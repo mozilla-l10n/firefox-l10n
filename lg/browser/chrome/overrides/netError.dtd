@@ -50,25 +50,19 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Tekirondedwa &quot;Kola emirimu nga toli kulutimbe&quot; Ku bintu ebiri munteresi nate oddemu ogezeeko.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> 
+</ul>">
 
 <!ENTITY unsafeContentType.title "Ekika kya'Fayiro Ekyomutawaana">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Okuyungibwa kwaddiddwamu okuteekebwa natte">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -139,8 +133,8 @@ eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osob
 <!ENTITY phishingBlocked.longDesc "<p>Okuyingiza amawulire gonna ago'bwanannyini ku muko guno kiyinza okuvirako okubbibwa kwekiraga oba okukumpanya okwengeri endala.</p> 
 <p>bino ebika byobukumpanya mu'ntiimbe bikozesebwa mu butali bwesimbu nga obukumpanya obugenderedwamu okubba amawlire agomugaso, mukukozsa entimbagano ezo'bukumpanya ne meyilo okwefanaanyiriza ensibukko zo'yinza okwesiga.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Kiziyiziddwa Eteka Elifuga  Ebyokwerinda Ebyomunda">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; eziyiza omuko guno okutika mungeri eno kubanga omuko guno gulina amateka agafuga ebyokwerinda byomunda elitagikiriza.</p>">
 
 <!ENTITY securityOverride.linkText "Oba oyinza okugattako ekyensuso…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Nzijja wano!">

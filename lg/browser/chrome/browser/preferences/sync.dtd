@@ -16,7 +16,7 @@
 <!ENTITY changePassword.label         "Kyusa Akasuumulizo">
 <!ENTITY mySyncKey.label              "Akasumuluzo kange Akakwanaganya">
 <!ENTITY resetSync.label              "Ddamu okwanaganye">
-<!ENTITY addDevice.label              "Add a Device">
+<!ENTITY addDevice.label              "Gatta ko Ekikozesebwa">
 
 <!ENTITY syncMy.label               "Kwanaganya">
 <!ENTITY engine.bookmarks.label     "Obulambe">
@@ -33,7 +33,7 @@
 
 <!ENTITY syncComputerName.label       "Elinnya lya Kompuuta:">
 <!ENTITY syncComputerName.accesskey   "E">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!ENTITY deactivateDevice.label       "Yimiriza Ekikozesebwa Kino">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Amateeka g'empeereza">

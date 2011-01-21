@@ -17,8 +17,8 @@
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStop2                "To stop Private Browsing, select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2                "Okulekerawo Okunnonya Okutongozeddwa, londa &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, oba galawo &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Okutandika Okunnonya Okutongozeddwa, londa &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Newankubade kompyuta enno tejja kujjukira biffudeyo mukunnonya kwo, akuwereeza yintaneti oba mukamawo asobola oku zula emiko gyo kyalide.">
 <!ENTITY privatebrowsingpage.learnMore                 "Weyongere Okuyiga">

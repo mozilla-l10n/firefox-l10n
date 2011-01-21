@@ -1,10 +1,10 @@
 <!ENTITY addons.windowTitle                   "Omukulu w'ebyongerwako">
-<!ENTITY search.placeholder                   "Search all add-ons">
-<!ENTITY loading.label                        "Loading…">
+<!ENTITY search.placeholder                   "Noonyereza byonna ebigattwaako">
+<!ENTITY loading.label                        "Okutikka…">
 <!ENTITY listEmpty.installed.label            "Tolina byongerwako byonna bya kika kino biteereddwako">
-<!ENTITY listEmpty.availableUpdates.label     "No updates found">
+<!ENTITY listEmpty.availableUpdates.label     "Tewali kituusa kisangiddwa">
 <!ENTITY listEmpty.recentUpdates.label        "Totuukanyizza byongerwako byonna gyebuvuddeko">
-<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+<!ENTITY listEmpty.findUpdates.label          "Kebera Ebituusa">
 <!ENTITY listEmpty.search.label               "Tesobodde kuzuula byongerwako bituukagana">
 <!ENTITY listEmpty.button.label               "Yiga ebisingawo ku byongerwako">
 <!ENTITY installAddonFromFile.label           "Teekako ebyongerwako okuva mu fayiro">
@@ -16,12 +16,12 @@
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Ebyongerebwako byonna binafuyiziddwa n'enkola ennungamu">
-<!ENTITY warning.checkcompatibility.label          "Obusobozi obukebera entuukaganya n'ebyongerebwako bunafuyiziddwa. Osobola okubeera n'ebyongerwako ebetatuukagana ">
-<!ENTITY warning.checkcompatibility.enable.label   "Enable">
+<!ENTITY warning.checkcompatibility.label          "Obusobozi obukebera ebyongerwako ebitatukagana kujjiddwako. Osobola okubanga ebyongerwako ebetatuukagana.">
+<!ENTITY warning.checkcompatibility.enable.label   "Sobozesa">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Sobozesa ebikebera entuukaganya y'ebyongerwako">
 <!ENTITY warning.updatesecurity.label              "Ebyongerwako okutuukanya eby'okwerinda binafuyiziddwa. Oyinza obutafuna kutuukanya">
-<!ENTITY warning.updatesecurity.enable.label       "Enable">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Sobozesa ebyongerebwako okukebera eby'okwerinda ">
+<!ENTITY warning.updatesecurity.enable.label       "Sobozesa">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Sobozesa ebyongerebwako okukebera eby'okwerinda">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Noonya">
@@ -31,12 +31,12 @@
 <!ENTITY view.features.label                  "Ekyongezayo">
 <!ENTITY view.appearance2.label               "Ndabika">
 <!ENTITY view.plugins.label                   "Ebigattibwako">
-<!ENTITY view.recentUpdates.label             "Recent Updates">
+<!ENTITY view.recentUpdates.label             "Ebituusa ebbipya">
 <!ENTITY view.availableUpdates.label          "Eby'okutuukanya ebiriwo">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "Check for Updates">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.checkForUpdates.label        "Kebera Ebitusaganya Ebipya">
+<!ENTITY updates.checkForUpdates.accesskey    "e">
 <!ENTITY updates.viewUpdates.label            "Laba okutuukanya okukoleddwa emabegako">
 <!ENTITY updates.viewUpdates.accesskey        "L">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
@@ -52,26 +52,26 @@
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Tegeka ebyokwongerako byonna byetuukanye byokka">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
-<!ENTITY updates.resetUpdatesToManual.label          "Tegeka ebyokwongerako byonna bituusaganyizibwe ">
+<!ENTITY updates.resetUpdatesToManual.label          "Tegeka ebyokwongerako byonna bituusaganyizibwe">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "T">
 <!ENTITY updates.updating.label               "Kutuukanya byongerwako">
 <!ENTITY updates.installed.label              "Ebyongerwako byo bituukanyiziddwa">
 <!ENTITY updates.downloaded.label             "Ebyokutuukanya ebyongerwako byo biwanuliddwa">
-<!ENTITY updates.restart.label                "Restart now to complete installation">
-<!ENTITY updates.noneFound.label              "No updates found">
+<!ENTITY updates.restart.label                "Tandika butto kompyuta yo okumaliliza okuteekamu">
+<!ENTITY updates.noneFound.label              "Tewali bituusa bizuuliddwa">
 <!ENTITY updates.manualUpdatesFound.label     "Laba ebyokutuukanya ebiriwo">
-<!ENTITY updates.updateSelected.label         "Install Updates">
+<!ENTITY updates.updateSelected.label         "Teekamu Ebitusaganya">
 <!ENTITY updates.updateSelected.tooltip       "Teeka ebyokutuukanya ebiriwo mu lukalala luno">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label                "Show More Information">
-<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.showDetails.label                "Laga Ebisingakawo">
+<!ENTITY cmd.showDetails.accesskey            "a">
 <!ENTITY cmd.findUpdates.label                "Zuula Ebitusaganya">
 <!ENTITY cmd.findUpdates.accesskey            "Z">
-<!ENTITY cmd.preferencesWin.label             "Options">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "Preferences">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.preferencesWin.label             "Ebyokulondako">
+<!ENTITY cmd.preferencesWin.accesskey         "E">
+<!ENTITY cmd.preferencesUnix.label            "Ebyokweroboza">
+<!ENTITY cmd.preferencesUnix.accesskey        "b">
 <!ENTITY cmd.about.label                      "Kumpi">
 <!ENTITY cmd.about.accesskey                  "K">
 
@@ -85,10 +85,10 @@
 <!ENTITY cmd.disableTheme.accesskey           "M">
 <!ENTITY cmd.installAddon.label               "Tekamu">
 <!ENTITY cmd.installAddon.accesskey           "T">
-<!ENTITY cmd.uninstallAddon.label             "Remove">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.uninstallAddon.label             "Jjamu">
+<!ENTITY cmd.uninstallAddon.accesskey         "J">
 <!ENTITY cmd.showPreferencesWin.label         "Ebyokwerobozaako">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Kyusa ebyokweroboza kw' ebyongerwako ">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Kyusa ebyokulondako bye' ekyongerwako kino">
 <!ENTITY cmd.showPreferencesUnix.label        "Byololonzeko">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Kyusa ebyokulondako by'ekyongerwako kino">
 <!ENTITY cmd.contribute.label                 "waayo">
@@ -96,14 +96,14 @@
 <!ENTITY cmd.contribute.tooltip               "Waayo ku kulaakulanya kw'ekyokwongerako kino">
 
 <!ENTITY cmd.showReleaseNotes.label           "Laga eby'okuyiga ebiteereddwa">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Laga eby'okuyiga ebitereddwa ebikwata ku kutuukanya ">
-<!ENTITY cmd.hideReleaseNotes.label           "Kweeka ebyokuyiga ">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Laga eby'okuyiga ebitereddwa ebikwata ku kutuukanya">
+<!ENTITY cmd.hideReleaseNotes.label           "Kweeka Ebiwandiko Ebigiraku'nfuluma">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Kweeka eby'okuyiga ku kutuukanya kuno">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!ENTITY discover.title                       "What are Add-ons?">
+<!ENTITY discover.title                       "Ebigattibwako bye biki?">
 <!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
   extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
   your own.">
@@ -111,16 +111,16 @@
   some of the best and most popular add-ons for you to try out.">
 <!-- detail view -->
 
-<!ENTITY detail.version.label                 "Version">
-<!ENTITY detail.lastupdated.label             "Last Updated">
-<!ENTITY detail.creator.label                 "Developer">
+<!ENTITY detail.version.label                 "Enkola">
+<!ENTITY detail.lastupdated.label             "Okutuusa Okusembyeyo">
+<!ENTITY detail.creator.label                 "Abazimbi">
 <!ENTITY detail.homepage.label                "Omuko ogusooka">
-<!ENTITY detail.numberOfDownloads.label       "Downloads">
+<!ENTITY detail.numberOfDownloads.label       "Ebiwanulwa">
 
 <!ENTITY detail.contributions.description     "Omutandisi w'ekyongerwako kino asaba nti oyambe okuwagira okwongera okukikulaakulanya ng'obaako akatono k'owaayo">
 
 <!ENTITY detail.updateType                    "Ebyetuukaganya byokka">
-<!ENTITY detail.updateDefault.label           "Default">
+<!ENTITY detail.updateDefault.label           "eky'enkalakalira">
 <!ENTITY detail.updateDefault.tooltip         "Teekako ebyetuukaganya byokka singa biba nti byebikulu">
 <!ENTITY detail.updateAutomatic.label         "Kweri">
 <!ENTITY detail.updateAutomatic.tooltip       "Teekako eby'okutuukanya weekka">
@@ -130,14 +130,14 @@
 <!ENTITY detail.repository                    "Ebikwata ku byongerwako">
 <!ENTITY detail.size                          "Obunene">
 
-<!ENTITY detail.checkForUpdates.label         "Check for Updates">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.label         "Kebera ku Tuusaganya">
+<!ENTITY detail.checkForUpdates.accesskey     "e">
 <!ENTITY detail.checkForUpdates.tooltip       "Kebera ebyokutuukaganya ebikwata ku kyongerwako kino">
-<!ENTITY detail.showPreferencesWin.label      "Options">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.label      "Ebyokulondako">
+<!ENTITY detail.showPreferencesWin.accesskey  "E">
 <!ENTITY detail.showPreferencesWin.tooltip    "Kyusa ebyokulondako by'ekyongerwako kino">
-<!ENTITY detail.showPreferencesUnix.label     "Preferences">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.label     "Ebyokweroboza">
+<!ENTITY detail.showPreferencesUnix.accesskey "b">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Kyusa ebyokulondako by'ekyongerwako kino">
 <!-- ratings -->
 
@@ -151,15 +151,15 @@
 
 
 <!ENTITY sort.name.label                      "Erinnya">
-<!ENTITY sort.name.tooltip                    "Sort by name">
-<!ENTITY sort.dateUpdated.label               "Last Updated">
+<!ENTITY sort.name.tooltip                    "Sunsula nga osinzira kulinya">
+<!ENTITY sort.dateUpdated.label               "Entuusa Esembyeyo">
 <!ENTITY sort.dateUpdated.tooltip             "Londoba ng'okozesa ennaku kwewatuukanyiza">
 <!ENTITY sort.relevance.label                 "Ekisinga okutuukanya">
 <!ENTITY sort.relevance.tooltip               "Londoba ng'okozesa enkwatagana">
 <!ENTITY sort.price.label                     "MUWENDO">
 <!ENTITY sort.price.tooltip                   "Londoba ng,okozesa omuwendo">
 
-<!ENTITY search.filter2.label                 "Search:">
+<!ENTITY search.filter2.label                 "Noonya:">
 <!ENTITY search.filter2.installed.label       "Ebyongerwako byange">
 <!ENTITY search.filter2.installed.tooltip     "Laga ebyongerwako ebiteekeddwako">
 <!ENTITY search.filter2.available.label       "Ebyongerwako ebiriwo">
@@ -177,24 +177,24 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "Update">
+<!ENTITY addon.update.postfix                 "Ebituusa">
 <!ENTITY addon.undoAction.label               "Ddayo">
-<!ENTITY addon.undoAction.tooltip             "Z'emabega ekikolwa ">
+<!ENTITY addon.undoAction.tooltip             "Zzayo ekikolwa kino">
 <!ENTITY addon.undoRemove.label               "Ddayo">
 <!ENTITY addon.undoRemove.tooltip             "Kuuma ekyongerwako kino nga kiteekeddwako">
 <!ENTITY addon.restartNow.label               "Tandika nate kati">
 <!ENTITY addon.install.label                  "Tteekamu">
 <!ENTITY addon.install.tooltip                "Teekako ekyongerwako kino">
 <!ENTITY addon.updateNow.label                "Tuukanya kati">
-<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
-<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.updateNow.tooltip              "Tteekamu akatuusa ka'akagattibwako kano">
+<!ENTITY addon.includeUpdate.label            "Gatta ku Bituusaganya">
 <!ENTITY addon.updateAvailable.label          "Eky'okutuukanya w'ekiri">
-<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
+<!ENTITY addon.checkingForUpdates.label       "Okukebera Ebipya…">
 <!ENTITY addon.releaseNotes.label             "Ebiwandiiko bye Enfulumya:">
-<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
+<!ENTITY addon.loadingReleaseNotes.label      "Okutikka…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ngolabye, naye waabaddewo ensobi mu kuteekayo eby'okuyiga ebifulumiziddwa">
 
-<!ENTITY addon.createdBy.label                "Ne">
+<!ENTITY addon.createdBy.label                "Ne ">
 
 <!ENTITY eula.title                           "Ekisanyizzo Eky'endagano Yomukozesa">
 <!ENTITY eula.width                           "560px">

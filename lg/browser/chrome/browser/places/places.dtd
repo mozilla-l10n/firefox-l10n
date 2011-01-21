@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Tegeka">
 <!ENTITY organize.accesskey    "T">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.tooltip      "Tegeka obulambe bwo">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Ggalawo">
@@ -14,7 +14,7 @@
 <!ENTITY edit.accesskey                 "L">
 <!ENTITY views.label                    "Ebilabidwa">
 <!ENTITY views.accesskey                "E">
-<!ENTITY views.tooltip                  "Change your view">
+<!ENTITY views.tooltip                  "Kyuusa endabika yo omuko">
 <!ENTITY view.columns.label             "Laga ebikuubo ebikkirira">
 <!ENTITY view.columns.accesskey         "e">
 <!ENTITY view.sort.label                "Londamu">
@@ -84,7 +84,7 @@
 
 <!ENTITY col.name.label          "Erinnya">
 <!ENTITY col.tags.label          "Taaga">
-<!ENTITY col.url.label           "Location">
+<!ENTITY col.url.label           "Ekifo">
 <!ENTITY col.lastvisit.label     "Ennaku z'omwezi Kw'Okeberedde">
 <!ENTITY col.visitcount.label    "Okukyala bw'Enkebera">
 <!ENTITY col.keyword.label       "Ekigambo ekikulu">
@@ -92,10 +92,10 @@
 <!ENTITY col.dateadded.label     "Kigattiddwako">
 <!ENTITY col.lastmodified.label  "Kyasemba Kutereezebwa">
 
-<!ENTITY search.label                              "Search:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.label                              "Noonya:">
+<!ENTITY search.accesskey                          "N">
 
-<!ENTITY search.in.label                           "Search in:">
+<!ENTITY search.in.label                           "Noonya mu:">
 <!ENTITY search.scopeFolder.label                  "Etterekero Elilondedwa">
 <!ENTITY search.scopeFolder.accesskey              "E">
 <!ENTITY search.scopeBookmarks.label               "Obulambe">
@@ -111,7 +111,7 @@
 
 <!ENTITY maintenance.label      "Yingiza era Oterekeko">
 <!ENTITY maintenance.accesskey  "Y">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip    "Noona era otereke obulambe bwo">
 
 <!ENTITY backCmd.label       "Emabega">
 <!ENTITY backButton.tooltip  "Ddayo">
@@ -126,8 +126,8 @@
 <!ENTITY detailsPane.noPreviewAvailable.label "Kwetegereza">
 <!ENTITY detailsPane.selectAnItemText.description "Londayo ekintu nga bw'okirongoosamu">
 
-<!ENTITY find.label               "Search:">
-<!ENTITY find.accesskey           "S">
+<!ENTITY find.label               "Noonya:">
+<!ENTITY find.accesskey           "N">
 <!ENTITY view.label               "Endabika">
 <!ENTITY view.accesskey           "a">
 <!ENTITY byDate.label             "Ku Nnaku z'omwezi">

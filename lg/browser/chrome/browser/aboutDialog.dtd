@@ -1,20 +1,20 @@
 <!ENTITY aboutDialog.title          "Ebikwataku &brandFullName;">
 
-<!ENTITY community.start2           "&brandShortName; ezimbiddwa  ">
+<!ENTITY community.start2           "&brandShortName; ezimbiddwa ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "Kyalo kya nsi yonna">
-<!ENTITY community.end2             "kikolera wamu okulongoosa Yintanenti. Tukkiriza nti Yintanenti erina kuba nzigule eri buli muntu yenna awatali ku kugirwa kwonna ">
+<!ENTITY community.end2             " okolera wamu okulongoosa Yintanenti. Tukkiriza nti Yintanenti erina kuba nzigule eri buli muntu yenna awatali ku kugirwa kwonna.">
 
-<!ENTITY contribute.start           "Kiwulikika bulungi?">
+<!ENTITY contribute.start           "Kiwulikika bulungi? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY contribute.getInvolvedLink "Wenyigiremu!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Licensing Information">
+<!ENTITY bottomLinks.license        "Ebikwata ku Lisensi">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "Komya eddembe ly'omukozesa">
@@ -23,9 +23,9 @@
 <!ENTITY bottomLinks.privacy        "Enkola eyekyama egobelerwa">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Checking for updates…">
+<!ENTITY update.checkingForUpdates  "Okukebera ku bituusaganya…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "Kebera enkwanagana y'Ebyongerwako…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName;etuukanye">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -36,7 +36,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Okutuukanya kugaanyi">
+<!ENTITY update.failed.start        "Okutuusa kuganye. ">
 <!ENTITY update.failed.linkText     "Ttikkula ekika ekippya">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -44,7 +44,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Okutuukanya weekuli ku">
+<!ENTITY update.manual.start        "Ebituusa weebili ku ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -52,5 +52,5 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Downloading update — ">
+<!ENTITY update.downloading.start   "Okuwannula Ekituusaganya— ">
 <!ENTITY update.downloading.end     "">

@@ -18,8 +18,7 @@ mukiseera ekigere ebizza obugya ebipya.">
  lukusa lweetagisa kubitekamu. Bambi tuukirira akulira ebyuuma 
  oba ddamu ogezeeko nga okozeesa 
  akaawunta erina olukusa okubiteekako.">
-<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
+<!ENTITY  manualUpdate.space.desc         "Ekituusa ebyokwerinda ne byobutebenkefu ekisembedwa wekiri, naye tolina banga limali okitekamu.">
 <!ENTITY  manualUpdateGetMsg.label        "Osobola bulijjo okufuna ebikka bya &brandShortName; ku:">
 
 <!ENTITY  incompatibleCheck.title         "Kebera enkwanagana y'ebyokozesa">
@@ -43,7 +42,7 @@ wansi okwongera okuteekako ekizza obugya kino.">
 
 <!ENTITY  incompatibleList.title          "Teri byongeddwako bwe bikolagana bizuulidddwa">
 
-<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
+<!ENTITY  downloadPage.title              "Okutikula &brandShortName;">
 <!ENTITY  downloading.intro               "Okutikula akatereeza…">
 <!ENTITY  connecting.label                "Okwegatta ku ngabizi etereza…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; tekkisobose kukakasa bwesigwa obwa 
@@ -65,12 +64,10 @@ era tikkula ekika ekipya:">
 <!ENTITY  errorpatching.intro             "Entereeza ey'ekitundu egaanye okutekebwako. 
 &brandShortName; eggya kugezaako okutikkula omulundi omulala akatuukaganya akaweddeyo.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
-                                           insecure update. Please contact your network provider and seek help.">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; weri okumanya oba waliwo ekituusa ekiriwo. Bamba kakasa nti olina enfuluma ya &brandShortName; esinga okuba eyombuliwo okuva:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Waliwo ekiziyiza &brandShortName; okutuusa esanide mu byokwerinda. 
+Bambi kakasa nti olina enfuluma ya &brandShortName; esinga okuba eyombuliwo okuva:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Waliwo ekigezako okukola &brandShortName; akakodiyo, obubaka obukiriza akatuusa akanafu mu byokwerinda. Bambi tukirira adukanya omukutu gwo osabe obuyambi.">
 
 <!ENTITY  finishedPage.title              "Akatukaganya Katuse Okutteekamu">
 <!ENTITY  finishedPage.text               "Enkyuukakyuuka eggya kuteekebwako omulundi omulala nga &brandShortName; atandika. 
