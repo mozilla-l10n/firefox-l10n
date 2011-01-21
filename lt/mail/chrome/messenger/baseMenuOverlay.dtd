@@ -37,6 +37,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label       "Žinynas">
 <!ENTITY helpMenuWin.accesskey   "Ž">
+<!ENTITY helpTroubleshootingInfo.label     "Informacija problemų sprendimui">
+<!ENTITY helpTroubleshootingInfo.accesskey "s">
 <!ENTITY releaseCmd.label        "Laidos apžvalga">
 <!ENTITY releaseCmd.accesskey    "L">
 <!ENTITY whatsNewCmd.label       "Laidos naujovės">

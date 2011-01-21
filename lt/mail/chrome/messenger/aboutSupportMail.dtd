@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Programos darinio identifikatorius">
+
+<!ENTITY aboutSupport.accountsTitle "El. pašto ir naujienų paskyros">
+<!ENTITY aboutSupport.showPrivateData.mainText "Į laišką įtraukti paskyrų pavadinimus">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(duomenys gali būti identifikuojantys)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Pavadinimas">
+<!ENTITY aboutSupport.accountsIncomingServer "Laiškų gavimo serveris">
+<!ENTITY aboutSupport.accountsOutgoingServers "Laiškų išsiuntimo serveris">
+<!ENTITY aboutSupport.accountsConnSecurity "Saugusis ryšys">
+<!ENTITY aboutSupport.accountsAuthMethod "Tapatumo tikrinimo metodas">
+<!ENTITY aboutSupport.accountsDefault "Ar numatytoji">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Išsiųsti el. paštu">
