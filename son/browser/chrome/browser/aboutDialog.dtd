@@ -1,23 +1,23 @@
 <!ENTITY aboutDialog.title          "&brandFullName; ga">
 
-<!ENTITY community.start2           "&brandShortName; is designed by ">
+<!ENTITY community.start2           "&brandShortName; fasalkaa ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "global community">
-<!ENTITY community.end2             " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY community.creditsLink      "adduɲɲa-mee jamaa">
+<!ENTITY community.end2             " kaŋ ga goy nda cere ka Interneti tee nga bešere. Ir ga tammahãa kaŋ Interneti ka hima ka tee baytal nda jamaa haya, kaŋ boro kul ka hin ka man a, bila nda šugulla kul.">
 
-<!ENTITY contribute.start           "Sound interesting? ">
+<!ENTITY contribute.start           "Woo ga boori wala? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY contribute.getInvolvedLink "Adiši wa kanbe dam!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Licensing Information">
+<!ENTITY bottomLinks.license        "Duɲekaddasu alhabar">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "End User Rights">
+<!ENTITY bottomLinks.rights         "Benandi goykaw alhakey">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 
 <!ENTITY bottomLinks.privacy        "Sutura laada">

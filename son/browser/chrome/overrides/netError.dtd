@@ -49,11 +49,9 @@ ciyari.</li>
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Tammaasa kaa &quot;Work Offline&quot; tukušilbayboŋoo ga, de m'a tee koyne.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -145,6 +143,6 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo se.</p>  
+<!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda Interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo se.</p>  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

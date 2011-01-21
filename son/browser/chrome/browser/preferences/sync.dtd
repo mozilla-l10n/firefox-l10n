@@ -12,15 +12,15 @@
 
 <!ENTITY manageAccount.label          "Kontu juwal">
 <!ENTITY manageAccount.accesskey      "K">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY viewQuota.label              "Baa guna">
 <!ENTITY changePassword.label         "Šennikufal barmay">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Yeetiyan hangante">
-<!ENTITY addDevice.label              "Add a Device">
+<!ENTITY mySyncKey.label              "My Sync kufal">
+<!ENTITY resetSync.label              "Sync yeeti">
+<!ENTITY addDevice.label              "Jinay foo tonton">
 
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Doo-šilbawey">
-<!ENTITY engine.bookmarks.accesskey "i">
+<!ENTITY engine.bookmarks.accesskey "D">
 <!ENTITY engine.tabs.label          "Nor lokey">
 <!ENTITY engine.tabs.accesskey      "N">
 <!ENTITY engine.history.label       "Taariki">
@@ -33,7 +33,7 @@
 
 <!ENTITY syncComputerName.label       "Ordinater maa:">
 <!ENTITY syncComputerName.accesskey   "O">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!ENTITY deactivateDevice.label       "Goyjinaa woo kaa goy">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Goy kalima-izey">

@@ -17,8 +17,8 @@ waati foo-foo wala taagandiryaŋ ga bangay">
 nda dabariɲaa fondawey kaŋ ka waažibi ngi sinjiyanoo se. Taare war ma war 
 dabariɲaa juwalkaa hãa, wala war ma ceeci koyne nda kontu foo kaŋ goo nda duɲe ka 
 goyjinay sinji ordinateroo woo ra.">
-<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
+<!ENTITY  manualUpdate.space.desc         "Saajaw nda tabatiyan tagandiri foo goo kaŋ yaamarandi, amma war ši nda 
+ doo kaŋ ga wasa k'a sinji.">
 <!ENTITY  manualUpdateGetMsg.label        "War ga hin ka duu &brandShortName; dumi kokorantaa waati kul ne:">
 
 <!ENTITY  incompatibleCheck.title         "Tontoni cerekanbeyan ceeci">
@@ -63,10 +63,10 @@ doboo woo ka dumi kokorantaa zumandi:">
 <!ENTITY  errorpatching.intro             "Jere-taagandiroo mana hin ka kanandi. 
 &brandShortName; ga wiri ka taagandiri timmante zumandi.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ši bara ka tabatandi wala taagandiri ga bara. 
+Taare guna wala nda cimi war goo nda &brandShortName; dumi kokorantaa ne:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Haya foo ga ganji &brandShortName; ma taagandiri nda saajaw. 
+Taare guna wala nda cimi war goo nda &brandShortName; dumi kokorantaa ne:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Haya foo ga wiri ka &brandShortName; darga hal'a yadda 
 hasaraw-baa taagandiri foo ga. Taare hantum war sankaa koyoo se ka faaba ceeci.">
 

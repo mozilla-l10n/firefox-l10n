@@ -4,7 +4,7 @@
 <!ENTITY warnCloseMultipleTabs.label  "Ay yaamar waati kaŋ nor loku booboyaŋ ga daaba">
 <!ENTITY warnCloseMultipleTabs.accesskey  "A">
 
-<!ENTITY warnOpenManyTabs.label       "Ay yaamar waati kaŋ nor loku booboyaŋ ga feeri, nd'i ga &brandShortName; cewoo-yaynandi">
+<!ENTITY warnOpenManyTabs.label       "Ay yaamar waati kaŋ nor loku booboyaŋ ga feeri, nd'i ga &brandShortName; cewoo yaynandi">
 <!ENTITY warnOpenManyTabs.accesskey   "f">
 
 <!ENTITY showTabBar.label             "Nor loku žeeri cebe waati kul">

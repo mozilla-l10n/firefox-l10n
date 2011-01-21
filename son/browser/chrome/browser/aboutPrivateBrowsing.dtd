@@ -17,8 +17,8 @@
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStop2                "To stop Private Browsing, select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2                "Ka sutura narumi kayandi, &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; suuba wala ma &brandShortName; daabu.">
+<!ENTITY privatebrowsingpage.howToStart2               "Ka sutura naarumi kayandi, war ga hin ka &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; da suuba.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Zama ordinateroo woo ši war ceeci taariki kul gaabu, war Interneti nookaa wala goykaa ga hin ka moɲey kaŋ war n'i guna ceebandu bay waati kul.">
 <!ENTITY privatebrowsingpage.learnMore                 "Caw ka tonton">

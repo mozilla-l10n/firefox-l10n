@@ -7,9 +7,9 @@
 <!ENTITY listEmpty.findUpdates.label          "Taagandirey ceeci">
 <!ENTITY listEmpty.search.label               "Mana hin ka duu tontoni tenjante kul">
 <!ENTITY listEmpty.button.label               "Tontoney wey bay ka tonton">
-<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
+<!ENTITY installAddonFromFile.label           "Sinji tontoni tuku boŋ...">
+<!ENTITY installAddonFromFile.accesskey       "i">
+<!ENTITY toolsMenu.tooltip                    "Goyjinayyaŋ tontoney kul se">
 
 <!ENTITY cmd.back.tooltip                     "Yee banda nda moo foo">
 <!ENTITY cmd.forward.tooltip                  "Koy jine nda moo foo">
@@ -17,11 +17,11 @@
 
 <!ENTITY warning.safemode.label                    "Saajaw alhaalooo na tontoney kul kayandi.">
 <!ENTITY warning.checkcompatibility.label          "Tontoni cerekanbeyan koroširoo kayandi. I ga hima tontoniyaŋ kaŋ ši cerekanbe.">
-<!ENTITY warning.checkcompatibility.enable.label   "Enable">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
-<!ENTITY warning.updatesecurity.label              "Tontoni saajaw taagandiri koroširoo kayandi. A ga hima taagandirey ga šendayyaŋ kate. ">
-<!ENTITY warning.updatesecurity.enable.label       "Enable">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
+<!ENTITY warning.checkcompatibility.enable.label   "Tunandi">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Tontoni cerekanbeyan korošiyan tunandi">
+<!ENTITY warning.updatesecurity.label              "Tontoni saajaw taagandiri koroširoo kayandi. A ga hima taagandirey ga šendayyaŋ kate.">
+<!ENTITY warning.updatesecurity.enable.label       "Tunandi">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Tontoni saajaw taagandiri koroširoo tunandi">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Ceeci">
@@ -35,33 +35,33 @@
 <!ENTITY view.availableUpdates.label          "Taagandiri barantey">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "Check for Updates">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.checkForUpdates.label        "Taagandirey ceeci">
+<!ENTITY updates.checkForUpdates.accesskey    "c">
 <!ENTITY updates.viewUpdates.label            "Taagandiri kokorantey guna">
 <!ENTITY updates.viewUpdates.accesskey        "g">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.updateAddonsAutomatically.label     "Tontoni boŋ-taagandiri">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "T">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Tontoney kul willi boŋ-taagandiri bande">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "w">
+<!ENTITY updates.resetUpdatesToManual.label          "Tontoney kul willi boŋ-taagandiri nda kanbe">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "w">
 <!ENTITY updates.updating.label               "Goo ma tontoney taagandi">
 <!ENTITY updates.installed.label              "War tontoney n' ka taagandi.">
 <!ENTITY updates.downloaded.label             "War tontoney n' ka zumandi.">
 <!ENTITY updates.restart.label                "Tunandi taaga ka sinjiyanoo timmandi.">
 <!ENTITY updates.noneFound.label              "Taagandiri kul mana duwandi">
 <!ENTITY updates.manualUpdatesFound.label     "Taagandiri barantey guna">
-<!ENTITY updates.updateSelected.label         "Install Updates">
-<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
+<!ENTITY updates.updateSelected.label         "Taagandirey sinji">
+<!ENTITY updates.updateSelected.tooltip       "Taagandiri barantey sinji maašeedaa woo ra">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label                "Alhabar cebe ka tonton">
@@ -79,16 +79,16 @@
 <!ENTITY cmd.enableAddon.accesskey            "T">
 <!ENTITY cmd.disableAddon.label               "Kayandi">
 <!ENTITY cmd.disableAddon.accesskey           "K">
-<!ENTITY cmd.enableTheme.label                "Wear Theme">
-<!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
-<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.enableTheme.label                "Bankaaray furari">
+<!ENTITY cmd.enableTheme.accesskey            "B">
+<!ENTITY cmd.disableTheme.label               "Bankaaray furari kayandi">
+<!ENTITY cmd.disableTheme.accesskey           "B">
 <!ENTITY cmd.installAddon.label               "Sinji">
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Kaa">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
 <!ENTITY cmd.showPreferencesWin.label         "Suubarey">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Tontonoo woo suubarey barmay">
 <!ENTITY cmd.showPreferencesUnix.label        "Ibaayey">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Tontonoo woo ibaayey barmay">
 <!ENTITY cmd.contribute.label                 "Kanbuzaamay">
@@ -103,12 +103,11 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!ENTITY discover.title                       "What are Add-ons?">
-<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
-  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
-  your own.">
-<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
-  some of the best and most popular add-ons for you to try out.">
+<!ENTITY discover.title                       "Macin ti tontoney?">
+<!ENTITY discover.description2                "Tontoney ti porogaramyaŋ kaŋ ga too war ma &brandShortName; hanse war boŋ se nda goyyan sahã wala fasal šifanteyaŋ. Wey šii: ceraw zuu-žeeri cahãnte, waati-alhaali bangandikaw wala furari cebe-diji ka &brandShortName; 
+tee war boŋ wane.">
+<!ENTITY discover.footer                      "Waati kaŋ ga ciya nda Interneti, zanfun-izoo woo goo nda 
+tontoni kul ihenney nda bayrantey war šiiyanoo se.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Dumi">
@@ -121,7 +120,7 @@
 
 <!ENTITY detail.updateType                    "Boŋtaagandirey">
 <!ENTITY detail.updateDefault.label           "Tilasu">
-<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateDefault.tooltip         "Taagandirey sinji ngi boŋše de nda tilasu no">
 <!ENTITY detail.updateAutomatic.label         "Ga goy">
 <!ENTITY detail.updateAutomatic.tooltip       "Boŋtaagandirey sinji">
 <!ENTITY detail.updateManual.label            "Šii goy ra">
@@ -130,19 +129,19 @@
 <!ENTITY detail.repository                    "Alhal tontoni">
 <!ENTITY detail.size                          "Adadu">
 
-<!ENTITY detail.checkForUpdates.label         "Check for Updates">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.label         "Taagandirey ceeci">
+<!ENTITY detail.checkForUpdates.accesskey     "c">
 <!ENTITY detail.checkForUpdates.tooltip       "Taagandirey ceeci tontonoo woo se">
 <!ENTITY detail.showPreferencesWin.label      "Suubarey">
 <!ENTITY detail.showPreferencesWin.accesskey  "S">
-<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
+<!ENTITY detail.showPreferencesWin.tooltip    "Tontonoo woo suubarey barmay">
 <!ENTITY detail.showPreferencesUnix.label     "Ibaayey">
 <!ENTITY detail.showPreferencesUnix.accesskey "b">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Tontonoo woo ibaayey barmay">
 <!-- ratings -->
 
 
-<!ENTITY rating2.label                        "Rating">
+<!ENTITY rating2.label                        "Kanandiyan">
 <!-- download/install progress -->
 
 <!ENTITY progress.pause.tooltip               "Hunanzam">
@@ -156,8 +155,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Fay taagandiri han bande">
 <!ENTITY sort.relevance.label                 "Tenjari henna">
 <!ENTITY sort.relevance.tooltip               "Fay alfayda bande">
-<!ENTITY sort.price.label                     "Price">
-<!ENTITY sort.price.tooltip                   "Sort by price">
+<!ENTITY sort.price.label                     "Hay">
+<!ENTITY sort.price.tooltip                   "Fay hay bande">
 
 <!ENTITY search.filter2.label                 "Ceeci:">
 <!ENTITY search.filter2.installed.label       "Ay tontoney">
@@ -187,14 +186,14 @@
 <!ENTITY addon.install.tooltip                "Tontonoo woo sinji">
 <!ENTITY addon.updateNow.label                "Taagandi sohõ">
 <!ENTITY addon.updateNow.tooltip              "Taagandiri foo sinji tontonoo woo se">
-<!ENTITY addon.includeUpdate.label            "Include in Update">
-<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.includeUpdate.label            "Dam taagandiroo ra">
+<!ENTITY addon.updateAvailable.label          "Taagandiri foo ga bara">
 <!ENTITY addon.checkingForUpdates.label       "Taagandirey ceeci...">
 <!ENTITY addon.releaseNotes.label             "Kaataray hantumey:">
 <!ENTITY addon.loadingReleaseNotes.label      "Goo ma zumandi...">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Alhaa naŋ, ammaa firka bangay kaataray hantumey zumandiroo waate.">
 
-<!ENTITY addon.createdBy.label                " wanoo">
+<!ENTITY addon.createdBy.label                "Teekaw ">
 
 <!ENTITY eula.title                           "Benandi goykaw duɲe waafakay">
 <!ENTITY eula.width                           "560px">

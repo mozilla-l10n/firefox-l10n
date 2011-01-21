@@ -24,15 +24,15 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "Pin as App Tab">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Unpin Tab">
+<!ENTITY  pinAppTab.label                    "Kanji sanda porogaram nor loku">
+<!ENTITY  pinAppTab.accesskey                "p">
+<!ENTITY  unpinAppTab.label                  "Nor loku bukandi">
 <!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  moveToGroup.label                  "Ganandi marga do">
+<!ENTITY  moveToGroup.label                  "Ganandi margaa do">
 <!ENTITY  moveToGroup.accesskey              "G">
 <!ENTITY  moveToNewGroup.label               "Marga taaga">
-<!ENTITY  moveToNewWindow.label              "Move to New Window">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.label              "Ganandi zanfun taagaa ra">
+<!ENTITY  moveToNewWindow.accesskey          "z">
 <!ENTITY  bookmarkAllTabs.label              "Nor lokey kul šilbay...">
 <!ENTITY  bookmarkAllTabs.accesskey          "l">
 <!ENTITY  undoCloseTab.label                 "Nor loku daabuyan taafeeri">
@@ -70,7 +70,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Doo-šilbawey goyjinay žeeri">
 <!ENTITY personalbarCmd.accesskey "D">
 <!ENTITY bookmarksToolbarItem.label "Doo-šilbawey goyjinay žeeri hayiizey">
-<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.label "Zuu-žeeri tontoni">
 <!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Moo aššil">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Boŋ-maa hantum moɲoo woo ga">
 <!ENTITY subscribeToPageMenuitem.label "Boŋ-maa hantum moɲoo woo ga...">
 <!ENTITY addCurPagesCmd.label "Nor lokey kul šilbay...">
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
+<!ENTITY showAllBookmarks2.label "Doo-šilbawey kul cebe">
 <!ENTITY bookmarkAllCmd.label "Doo-šilbawey kul hanse...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Doo-šilbay tontoney cebe">
 
@@ -131,12 +131,12 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Doo-šilbawey">
 <!-- Toolbar items --> 
 
-<!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY appMenuButton.label          "Šilbayboŋ">
+<!ENTITY appMenuButton.tooltip        "&brandShortName; šilbayboŋ feeri">
 <!ENTITY homeButton.label             "Šintin">
 
 <!ENTITY tabGroupsButton.label        "Nor loku margarey">
-<!ENTITY tabGroupsButton.tooltip      "Group your tabs">
+<!ENTITY tabGroupsButton.tooltip      "War nor lokey marga">
 
 <!ENTITY feedButton.label             "Boŋ-maa hantum">
 <!ENTITY feedButton.tooltip           "Boŋ-maa hantum moɲoo woo se...">
@@ -148,7 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Doo-šilbawey">
 <!ENTITY bookmarksMenuButton.tooltip        "War doo-šilbawey cebe">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
+<!ENTITY bookmarksMenuButton.unsorted.label "Doo-šilbawey kaŋ mana fayandi">
 <!ENTITY viewBookmarksSidebar.label         "Cebe ceraw-maaboŋ ra">
 <!ENTITY viewBookmarksToolbar.label         "Doo-šilbawey goyjinay žeeri">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -216,9 +216,9 @@ can reach it easily. -->
 
 <!ENTITY editMenu.label         "Fasal">
 <!ENTITY editMenu.accesskey       "F">
-<!ENTITY undoCmd.label            "Undo">
+<!ENTITY undoCmd.label            "Taafeeri">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY undoCmd.accesskey          "e">
 <!ENTITY redoCmd.label            "Tee taaga">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "T">
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Kul suuba">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "K">
-<!ENTITY preferencesCmd2.label       "Options">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.label       "Suubarey">
+<!ENTITY preferencesCmd2.accesskey     "S">
 <!ENTITY preferencesCmdUnix.label       "Ibaayey">
 <!ENTITY preferencesCmdUnix.accesskey     "I">
 
@@ -254,8 +254,8 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Gunari">
 <!ENTITY viewMenu.accesskey       "G">
-<!ENTITY viewTabGroups.label            "Tab Groups">
-<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewTabGroups.label            "Nor loku margarey">
+<!ENTITY viewTabGroups.accesskey        "g">
 <!ENTITY viewToolbarsMenu.label       "Goyjinay žeerey">
 <!ENTITY viewToolbarsMenu.accesskey     "G">
 <!ENTITY viewSidebarMenu.label "Cerawžeeri">
@@ -270,22 +270,22 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Nor loku kokor daabantey">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Zanfun kokor daabantey">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyRestoreLastSession.label "Goywaati bisantaa yeeti">
 
 <!ENTITY historyHomeCmd.label "Šintin">
 <!ENTITY showAllHistoryCmd2.label "Taarikoo kul cebe">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Edit">
-<!ENTITY appMenuCustomize.label "Hanse war boŋ se...">
+<!ENTITY appMenuEdit.label "Fasal">
+<!ENTITY appMenuCustomize.label "Hanse war boŋ se">
 <!ENTITY appMenuToolbarLayout.label "Goyjinay zuu-žeeri kanandi...">
 <!ENTITY appMenuSidebars.label "Cerawžeerey">
 <!ENTITY appMenuFind.label "Ceeci...">
-<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
-<!ENTITY appMenuGettingStarted.label "Go ma tun nda Firefox">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuUnsorted.label "Doo-šilbawey kaŋ mana fayandi">
+<!ENTITY appMenuWebDeveloper.label "Interneti cinakaw">
+<!ENTITY appMenuGettingStarted.label "Go ma tun">
+<!ENTITY appMenuSafeMode.label "Tunandi taaga nda tontoney kaŋ kayandi...">
+<!ENTITY appMenuSafeMode.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Koy tataaru nungoo do">
@@ -337,20 +337,20 @@ can reach it easily. -->
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Moo aššil guna">
-<!ENTITY viewPageSourceCmd.accesskey  "M">
+<!ENTITY viewPageSourceCmd.accesskey  "g">
 <!ENTITY viewFrameSourceCmd.label     "Kunga aššil guna">
-<!ENTITY viewFrameSourceCmd.accesskey "K">
+<!ENTITY viewFrameSourceCmd.accesskey "g">
 <!ENTITY viewPageInfoCmd.label        "Moo alhabar guna">
-<!ENTITY viewPageInfoCmd.accesskey    "M">
+<!ENTITY viewPageInfoCmd.accesskey    "a">
 <!ENTITY viewFrameInfoCmd.label       "Kunga alhabar guna">
-<!ENTITY viewFrameInfoCmd.accesskey   "K">
+<!ENTITY viewFrameInfoCmd.accesskey   "a">
 <!ENTITY reloadImageCmd.label         "Bii dam taaga">
 <!ENTITY reloadImageCmd.accesskey     "B">
 <!ENTITY viewImageCmd.label           "Bii guna">
 <!ENTITY viewImageCmd.accesskey       "B">
 <!ENTITY viewImageInfoCmd.label       "Bii alhabar guna">
 <!ENTITY viewImageInfoCmd.accesskey   "B">
-<!ENTITY viewVideoCmd.label           "Wiidiyo guna">
+<!ENTITY viewVideoCmd.label           "Widewo guna">
 <!ENTITY viewVideoCmd.accesskey       "W">
 <!ENTITY viewBGImageCmd.label         "Bandafaari bii guna">
 <!ENTITY viewBGImageCmd.accesskey     "B">
@@ -379,14 +379,14 @@ can reach it easily. -->
 <!ENTITY sendLinkCmd.accesskey        "s">
 <!ENTITY saveImageCmd.label           "Biyoo gaabu sanda...">
 <!ENTITY saveImageCmd.accesskey       "B">
-<!ENTITY saveVideoCmd.label           "Wiidiyoo gaabu sanda...">
+<!ENTITY saveVideoCmd.label           "Widewo gaabu sanda...">
 <!ENTITY saveVideoCmd.accesskey       "W">
 <!ENTITY saveAudioCmd.label           "Jindetukoo gaabu sanda...">
 <!ENTITY saveAudioCmd.accesskey       "J">
 <!ENTITY sendImageCmd.label           "Biyoo sanba...">
 <!ENTITY sendImageCmd.accesskey       "B">
-<!ENTITY sendVideoCmd.label           "Wiidiyo sanba...">
-<!ENTITY sendVideoCmd.accesskey       "W">
+<!ENTITY sendVideoCmd.label           "Widewo sanba...">
+<!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY sendAudioCmd.label           "Jindetukoo sanba...">
 <!ENTITY sendAudioCmd.accesskey       "J">
 <!ENTITY copyLinkCmd.label            "Doboo dogoo berandi">
@@ -395,7 +395,7 @@ can reach it easily. -->
 <!ENTITY copyImageCmd.accesskey       "b">
 <!ENTITY copyImageContentsCmd.label   "Biyoo berandi">
 <!ENTITY copyImageContentsCmd.accesskey  "b">
-<!ENTITY copyVideoURLCmd.label        "Wiidiyoo dogoo berandi">
+<!ENTITY copyVideoURLCmd.label        "Widewo dogoo berandi">
 <!ENTITY copyVideoURLCmd.accesskey    "b">
 <!ENTITY copyAudioURLCmd.label        "Jindetukoo dogoo berandi">
 <!ENTITY copyAudioURLCmd.accesskey    "b">
@@ -459,9 +459,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Zanfunoo cebe dijikul ra">
 
-<!ENTITY zoomOutButton.tooltip          "Zoom out">
-<!ENTITY zoomInButton.tooltip           "Zoom in">
-<!ENTITY zoomControls.label             "Zoom Controls">
+<!ENTITY zoomOutButton.tooltip          "Nakasandi">
+<!ENTITY zoomInButton.tooltip           "Bebbeerandi">
+<!ENTITY zoomControls.label             "Azzaati juwaley">
 
 <!ENTITY quitApplicationCmdWin.label       "Fatta">
 <!ENTITY quitApplicationCmdWin.accesskey   "F">
@@ -494,14 +494,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "B">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Switch Page Direction">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Moo tenjaroo barmay">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Kalimaɲaa kuru tenjaroo barmay">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "K">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Moɲoo woo ceeci...">
-<!ENTITY findOnCmd.accesskey "M">
+<!ENTITY findOnCmd.accesskey "e">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Ceeci koyne">
 <!ENTITY findAgainCmd.accesskey "k">
@@ -546,8 +546,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncSetup.label              "Kayandi &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncSyncNowItem.label        "Hangandi sohõ">
-<!ENTITY syncSyncNowItem.accesskey    "H">
+<!ENTITY syncSyncNowItem.label        "Sync sohõ">
+<!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">
+<!ENTITY addonBarCloseButton.tooltip  "Tontoni zuu-žeeri daabu">

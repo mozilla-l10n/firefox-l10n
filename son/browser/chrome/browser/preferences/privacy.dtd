@@ -31,9 +31,9 @@
 <!ENTITY  showCookies.accesskey         "c">
 
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "Hongu taariku">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; ga:">
+<!ENTITY  historyHeader.pre.accesskey      "g">
+<!ENTITY  historyHeader.remember.label     "Hongu taarikoo">
 <!ENTITY  historyHeader.dontremember.label "Ma ši honga taarikoo abada">
 <!ENTITY  historyHeader.custom.label       "Hanse bonše taariku se goyandi">
 <!ENTITY  historyHeader.post.label         "">
@@ -43,28 +43,28 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "Nda war ga baa ka woo tee ">
-<!ENTITY  rememberActions.clearHistory.label  "war taariki kokoraa koonandi">
-<!ENTITY  rememberActions.middle.label        ", wala ">
+<!ENTITY  rememberActions.pre.label           "Nda war ga baa ka ">
+<!ENTITY  rememberActions.clearHistory.label  "war taariki kokorantaa koonandi">
+<!ENTITY  rememberActions.middle.label        "wala ">
 <!ENTITY  rememberActions.removeCookies.label "aleewa foofawey kaa">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; ga goy nda kayandiyan follokey kaŋ goo nda sutura ceeciyan, amma a ši taariku gaabu war tataaru ceeciroo banda.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ga goy nda kayandiyan follokey kaŋ goo nda sutura ceeciyan, amma a ši taariku gaabu war tataaru ceeciroo waate.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "Nda war ga baa ka woo da tee ">
+<!ENTITY  dontrememberActions.pre.label          "Nda war ga baa da ka ">
 <!ENTITY  dontrememberActions.clearHistory.label "taariki taagante kul koonandi">
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent.label "Sutura naarumi yaayi duumante">
 <!ENTITY  privateBrowsingPermanent.accesskey "d">
 
-<!ENTITY  rememberHistory.label      "Honga ay naarumaa taarikoo">
+<!ENTITY  rememberHistory.label      "Honga ay naarumi taarikoo">
 <!ENTITY  rememberHistory.accesskey  "g">
 
-<!ENTITY  rememberDownload.label         "Honga taariku zumandi">
-<!ENTITY  rememberDownload.accesskey     "t">
+<!ENTITY  rememberDownload.label         "Honga zumandiyan taariki">
+<!ENTITY  rememberDownload.accesskey     "z">
 
 <!ENTITY  rememberSearchForm.label       "Honga ceeci nda takari taariku">
 <!ENTITY  rememberSearchForm.accesskey   "t">
@@ -73,4 +73,4 @@
 <!ENTITY  clearOnClose.accesskey         "k">
 
 <!ENTITY  clearOnCloseSettings.label     "Kayandiyaney...">
-<!ENTITY  clearOnCloseSettings.accesskey "y">
+<!ENTITY  clearOnCloseSettings.accesskey "n">

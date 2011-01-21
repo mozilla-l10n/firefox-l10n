@@ -1,18 +1,18 @@
 <!ENTITY startup.label             "Tunandiri">
 
-<!ENTITY startupPage.label         "Waati foo &brandShortName; starts:">
-<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupPage.label         "Waati kaŋ &brandShortName; ga tun:">
+<!ENTITY startupPage.accesskey     "t">
 <!ENTITY startupHomePage.label     "Ay šintin moɲoo cebe">
 <!ENTITY startupBlankPage.label    "Moo koonu cebe">
 <!ENTITY startupLastSession.label  "Ay zanfuney nda cee koraa nor-lokey cebe">
-<!ENTITY homepage.label            "Home Page:">
-<!ENTITY homepage.accesskey        "P">
+<!ENTITY homepage.label            "Šintin moo:">
+<!ENTITY homepage.accesskey        "m">
 <!ENTITY useCurrentPage.label      "Sohõ moɲoo goyandi">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Sohõ moɲey goyandi">
 <!ENTITY useBookmark.label         "Doo-šilbay goyandi">
 <!ENTITY useBookmark.accesskey     "D">
-<!ENTITY restoreDefault.label      "Bere tilasu takaa ga">
+<!ENTITY restoreDefault.label      "Bere tilasu alhaali ga">
 <!ENTITY restoreDefault.accesskey  "B">
 
 <!ENTITY downloads.label     "Zumandiyaney">

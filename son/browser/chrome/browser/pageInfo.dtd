@@ -99,8 +99,8 @@
 <!ENTITY  permInstall           "Dobuyaney wala furarey sinji">
 <!ENTITY  permGeo               "Gorodoo žemna">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permIndexedDB              "Bila nda ciyari jišidoo gaabu">
+<!ENTITY  permClearStorage           "Jišidoo koonandi">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Saajaw">
@@ -114,14 +114,14 @@
 <!ENTITY  securityView.identity.header   "Tataaru nungu boŋtaamansa">
 <!ENTITY  securityView.identity.owner    "Koy:">
 <!ENTITY  securityView.identity.domain   "Tataaru nungu:">
-<!ENTITY  securityView.identity.verifier "Kaŋ n'a koroši:">
+<!ENTITY  securityView.identity.verifier "Kaŋ woo n'a koroši:">
 
 <!ENTITY  securityView.privacy.header                   "Sutura jejebu &amp; taariki">
 <!ENTITY  securityView.privacy.history                  "Ay na ka tataaru nungoo woo naaru hõ se jine?">
 <!ENTITY  securityView.privacy.cookies                  "Tataaru nungoo ga alhabar (aleewayaŋ) jiši ay ordinateroo ga?">
 <!ENTITY  securityView.privacy.viewCookies              "Aleewawey guna">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Ya n'ka šennikufal kulyaŋ gaabu tataaru nungoo se?">
+<!ENTITY  securityView.privacy.passwords                "Ya n' ka šennikufal kulyaŋ gaabu tataaru nungoo se?">
 <!ENTITY  securityView.privacy.viewPasswords            "Šennikufal gaabunte guna">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 

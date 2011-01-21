@@ -25,8 +25,8 @@
 <!ENTITY netInterrupt.longDesc "<p>Ceecikaa ciya boryo, amma ciyaroo kay waatoo kaŋ alhabarey goo ma berandi.  Taare wa ceeci koyne.</p><ul><li>War n'ka ši hin ka tataaru nungu tanayaŋ naaru? War ordinateroo ciyaroo koroši koyne.</li><li>Šenday goo hala sohõ? Wa war sankaa juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
 
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
-<!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>Ceecikaa ga goy bila nda ciyari nda a ši hin ka hayiize wirantaa cee.</p><ul><li>War ordinateroo ga dobu sankay goyante ga?</li><li>War ceecikaa dam ciyari alhaali ra, de wa ceeci koyne.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Ceecikaa ga goy bila nda ciyari nda a ši hin ka hayiize wirantaa cee.</p><ul><li>War ordinateroo ga dobu sankay goyante ga?</li><li>War ceecikaa dam ciyari alhaali ra, de ma ceeci koyne.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
 <!ENTITY contentEncodingError.longDesc "<p>Moɲoo kaŋ war ga wiri k'a guna ši hin ka diyandi zama a mma goy nda kankamandiyan dabari laala wala kaŋ ši nda gaakašinay.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li></ul>">

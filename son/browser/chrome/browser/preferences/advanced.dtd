@@ -24,7 +24,7 @@
 
 <!ENTITY systemDefaults.label            "Dabariɲaa tilasey">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Koroši waati kul ka dii wala &brandShortName;  ti tilasu tataaruhugu-ceecikaw tunandiroo ga">
+<!ENTITY alwaysCheckDefault.label        "Koroši waati kul ka dii wala &brandShortName; ti tilasu tataaruhugu-ceecikaw tunandiroo ga">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "Guna sohõ">
 <!ENTITY checkNow.accesskey              "s">
@@ -47,13 +47,13 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY limitCacheSizeBefore.label      "Tugudoo kayandi">
+<!ENTITY limitCacheSizeBefore.accesskey  "d">
+<!ENTITY limitCacheSizeAfter.label       "MB jišidoo ga">
 <!ENTITY clearCacheNow.label             "Koonandi sohõ">
 <!ENTITY clearCacheNow.accesskey         "K">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.label    "Boŋdirandi tugudoo juwalyan daaru">
+<!ENTITY overrideSmartCacheSize.accesskey "d">
 
 <!ENTITY updateTab.label                 "Taagandiri">
 
@@ -98,11 +98,11 @@
 <!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "Hãa waati foo kul">
 <!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "Tabatiyan-tiirawey gunari">
+<!ENTITY viewCerts.label                 "Tabatiyan-tiirawey guna">
 <!ENTITY viewCerts.accesskey             "a">
-<!ENTITY viewCRLs.label                  "Maašeedawey williyan">
-<!ENTITY viewCRLs.accesskey              "w">
+<!ENTITY viewCRLs.label                  "Maašeedawey sayyan">
+<!ENTITY viewCRLs.accesskey              "s">
 <!ENTITY verify2.label                   "Alhakiikandiyan">
-<!ENTITY verify2.accesskey               "A">
+<!ENTITY verify2.accesskey               "h">
 <!ENTITY viewSecurityDevices.label       "Saajaw jinawey">
 <!ENTITY viewSecurityDevices.accesskey   "w">

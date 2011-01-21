@@ -1,14 +1,14 @@
-<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
-<!ENTITY syncKey.page.description         "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
-<!ENTITY syncKey.keepItSecret.heading     "Keep it secret">
-<!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
-<!ENTITY syncKey.keepItSafe.heading       "Keep it safe">
-<!ENTITY syncKey.keepItSafe1.description  "Do not lose this key.">
-<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
-<!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
+<!ENTITY syncKey.page.title               "War &syncBrand.fullName.label; kufaloo">
+<!ENTITY syncKey.page.description         "Kufaloo woo ma too bayhayey na feerandi war &syncBrand.fullName.label; kontoo ra. A ga hima war ma kufaloo dam cee foo kul ka &syncBrand.fullName.label; hanse war ordinater wala jinay taaga se.">
+<!ENTITY syncKey.keepItSecret.heading     "W'a gundu">
+<!ENTITY syncKey.keepItSecret.description "War &syncBrand.fullName.label; kontoo tungandi ka war sutura. Bila nda kufaloo foo, a ga too jiiriyaŋ hala boro kul ga hin ka war boŋ alhabarey feerandi. War hinne ti boraa kaŋ goo nda kufaloo woo. Woo maanaa ti war hinne ma hin ka dii &syncBrand.fullName.label; bayhayey.">
+<!ENTITY syncKey.keepItSafe.heading       "Gaabu nda saajaw">
+<!ENTITY syncKey.keepItSafe1.description  "Wa ši kufaloo woo fur.">
+<!ENTITY syncKey.keepItSafe2.description  " Ir ši war kufaloo celle gaabu (za woo ši a gundu), adiši ">
+<!ENTITY syncKey.keepItSafe3.description  "ir ši hin ka war gaa k'a kurma">
+<!ENTITY syncKey.keepItSafe4.description  " nd'a dere. A ga hima war ma kufaloo woo zaa waati kaŋ war ga ordinater wala jinay taaga dobu &syncBrand.fullName.label; ga.">
+<!ENTITY syncKey.findOutMore1.label       "Ka duu bayray tontoni &syncBrand.fullName.label; nda war suturaa ga ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
-<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; goy kalima-izey ka bara ne ">
+<!ENTITY syncKey.footer2.label            ". Sutura laada ga bara ">
 <!ENTITY syncKey.footer3.label            ".">

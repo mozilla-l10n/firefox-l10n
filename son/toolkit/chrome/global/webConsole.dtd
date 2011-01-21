@@ -10,7 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Tuuruyan boŋdekey">
 <!ENTITY networkPanel.responseBody                "Tuuruyan gaaham">
 <!ENTITY networkPanel.responseBodyCached          "Bayhaya lanbantey">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
+<!ENTITY networkPanel.responseBodyUnknownType     "Gundekuna dumi šibayante">
 <!ENTITY networkPanel.responseNoBody              "Tuuruyan gaaham kul šii">
 <!ENTITY networkPanel.responseImage               "Bii duwante">
 <!ENTITY networkPanel.responseImageCached         "Bii lanbante">

@@ -1,4 +1,4 @@
 <!ENTITY appManager.title     "Porogaram šilbayhayey">
-<!ENTITY appManager.style     "hayri: 30em; hayyan kaccu: 20em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Kaa">
 <!ENTITY remove.accesskey     "K">
