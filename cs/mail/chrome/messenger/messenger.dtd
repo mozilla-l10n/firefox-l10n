@@ -393,9 +393,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Označit">
 <!ENTITY markMenu.accesskey "z">
-<!ENTITY markAsReadCmd.label "Přečtená">
+<!ENTITY markAsReadCmd.label "Přečtené">
 <!ENTITY markAsReadCmd.accesskey "P">
 <!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Nepřečtené">
+<!ENTITY markAsUnreadCmd.accesskey "N">
+<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Přečtené vlákno">
 <!ENTITY markThreadAsReadCmd.accesskey "l">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -403,16 +406,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markReadByDateCmd.accesskey "d">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Vše přečtené">
-<!ENTITY markAllReadCmd.accesskey "V">
+<!ENTITY markAllReadCmd.accesskey "e">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Přidat hvězdičku">
 <!ENTITY markStarredCmd.accesskey "h">
 <!ENTITY markStarredCmd.key "i">
-<!ENTITY markAsJunkCmd.label "Nevyžádaná">
-<!ENTITY markAsJunkCmd.accesskey "N">
+<!ENTITY markAsJunkCmd.label "Nevyžádané">
+<!ENTITY markAsJunkCmd.accesskey "v">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Není nevyžádaná">
-<!ENTITY markAsNotJunkCmd.accesskey "e">
+<!ENTITY markAsNotJunkCmd.label "Není nevyžádané">
+<!ENTITY markAsNotJunkCmd.accesskey "y">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Spustit kontrolu pošty">
 <!ENTITY recalculateJunkScoreCmd.accesskey "S">
