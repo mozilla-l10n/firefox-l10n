@@ -12,12 +12,14 @@
 
 <!ENTITY cut.label             "Вирізати">
 <!ENTITY copy.label            "Копіювати">
+<!ENTITY copyAll.label         "Copy All">
 <!ENTITY copylink.label        "Копіювати посилання">
 <!ENTITY paste.label           "Вставити">
 <!ENTITY delete.label          "Стерти">
 <!ENTITY selectAll.label       "Вибрати усі">
 <!ENTITY noSuggestions.label   "(нема підказок)">
 <!ENTITY addToDictionary.label "Додати в словник">
+<!ENTITY inputMethod.label     "Select Input Method">
 
 <!ENTITY allPagesHeader.label      "Всі сторінки">
 <!ENTITY bookmarksHeader.label     "Закладки">
@@ -106,3 +108,7 @@
 <!ENTITY pageactions.reset           "Вичитисти налаштування сайта">
 <!ENTITY pageactions.findInPage      "Знайти на сторінці">
 <!ENTITY pageactions.search.addNew   "Додати пошуковик">
+
+<!ENTITY selectHelper.emptytext      "Filter List">
+
+<!ENTITY appMenu.siteOptions         "Site Options">
