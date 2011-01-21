@@ -4,8 +4,8 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; വഴി നിങ്ങള്‍ക്കു് നാള്‍വഴി, അടയാളക്കുറിപ്പുകള്‍, രഹസ്യവാക്കുകള്‍, ഡിവൈസുകളിലുള്ള തുറന്ന റ്റാബുകള്‍ എന്നിവയെല്ലാം ലഭ്യമാകുന്നു.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; അക്കൌണ്ട്">
-<!ENTITY currentAccount.label         "നിലവിലുള്ള അക്കൌണ്ട്:">
+<!-- ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; അക്കൌണ്ട്" -->
+<!-- ENTITY currentAccount.label         "നിലവിലുള്ള അക്കൌണ്ട്:" -->
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "പരിഷ്കരിയ്ക്കുക">
@@ -18,10 +18,10 @@
 <!ENTITY changePassword.label         "രഹസ്യവാക്ക് മാറ്റുക">
 <!ENTITY mySyncKey.label              "സിന്‍ക് കീ">
 <!ENTITY resetSync.label              "സിന്‍ക് വീണ്ടും സജ്ജമാക്കുക">
-<!ENTITY stopUsingAccount.label       "ഈ അക്കൌണ്ടിന്റെ ഉപയോഗം നിര്‍ത്തുക">
+<!-- ENTITY stopUsingAccount.label       "ഈ അക്കൌണ്ടിന്റെ ഉപയോഗം നിര്‍ത്തുക" -->
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "ബ്രൌസര്‍ സിന്‍ക്">
+<!-- ENTITY syncPrefsCaption.label       "ബ്രൌസര്‍ സിന്‍ക്" -->
 <!ENTITY syncComputerName.label       "കമ്പ്യൂട്ടറിന്റെ പേരു്:">
 <!ENTITY syncComputerName.accesskey   "c">
 
