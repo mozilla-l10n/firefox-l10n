@@ -19,12 +19,14 @@
 <!ENTITY selectAll.label "Vybrat vše">
 <!ENTITY noSuggestions.label "(žádné návrhy)">
 <!ENTITY addToDictionary.label "Přidat do slovníku">
+<!ENTITY inputMethod.label "Zvolte vstupní metodu">
 
 <!ENTITY allPagesHeader.label "Všechny stránky">
 <!ENTITY bookmarksHeader.label "Záložky">
 <!ENTITY historyHeader.label "Historie">
 <!ENTITY desktopHeader.label "Počítač">
 
+<!ENTITY editBookmarkDialog.title "Úprava záložky">
 <!ENTITY editBookmarkDone.label "Hotovo">
 <!ENTITY editBookmarkTags.label "Přidat štítky">
 
@@ -109,6 +111,5 @@
 <!ENTITY pageactions.search.addNew "Přidat vyhledávací modul">
 
 <!ENTITY selectHelper.emptytext "Filtrovat seznam">
-<!ENTITY inputMethod.label "Zvolte vstupní metodu">
 
 <!ENTITY appMenu.siteOptions "Možnosti serveru">
