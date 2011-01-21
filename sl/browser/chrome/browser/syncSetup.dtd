@@ -13,7 +13,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Strežnik">
-<!ENTITY serverType.main.label      "Strežnik stortive &syncBrand.fullName.label;:">
+<!ENTITY serverType.main.label      "Strežnik stortive &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Uporabi strežnik po meri …">
 <!ENTITY signIn.account2.label      "Račun">
 <!ENTITY signIn.account2.accesskey  "R">
