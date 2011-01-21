@@ -58,6 +58,7 @@
 <!ENTITY historyHeader.label              "Žurnalas">
 <!ENTITY desktopHeader.label              "Darbalaukis">
 
+<!ENTITY editBookmarkDialog.title         "Adresyno įrašo savybės">
 <!ENTITY editBookmarkTags.label           "Gairės:">
 <!ENTITY editBookmarkDone.label           "Įrašyti">
 
