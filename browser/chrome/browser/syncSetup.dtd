@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Svůj klíč můžete nalézt v připojeném zařízení v dialogu možností &syncBrand.shortName.label;, pokud klepnete na „Můj klíč“ pod tlačítkem „Správa účtu“.">
 <!ENTITY verifying.label "Ověřování…">
 <!ENTITY resetPassword.label "Vynulovat heslo">
-<!ENTITY lostSyncKey.label "Ztratil jsem svůj klíč">
+<!ENTITY resetSyncKey.label "Zratil jsem své další zařízení.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title "Možnosti synchronizace">

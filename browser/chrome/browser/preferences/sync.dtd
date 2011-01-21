@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; umožňuje synchronizaci historie, záložek, hesel a otevřených panelů napříč všemi zařízeními.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Účet &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label "Aktuální účet:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label "Aktulizovat">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label "Změnit heslo">
 <!ENTITY mySyncKey.label "Můj klíč">
 <!ENTITY resetSync.label "Změnit typ synchronizace">
-<!ENTITY stopUsingAccount.label "Přestat používat tento účet">
 <!ENTITY addDevice.label "Přidat zařízení">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label "Synchronizace">
-<!ENTITY syncComputerName.label "Jméno počítače:">
-<!ENTITY syncComputerName.accesskey "J">
 
 <!ENTITY syncMy.label "Synchronizovat">
 <!ENTITY engine.bookmarks.label "Záložky">
@@ -37,6 +29,11 @@
 <!ENTITY engine.passwords.accesskey "e">
 <!ENTITY engine.prefs.label "Předvolby">
 <!ENTITY engine.prefs.accesskey "v">
+
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label "Název počítače:">
+<!ENTITY syncComputerName.accesskey "N">
+<!ENTITY deactivateDevice.label "Odpojit zařízení">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label "Podmínky služby">
