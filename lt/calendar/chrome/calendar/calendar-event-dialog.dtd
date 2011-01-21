@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label                                "Taisomas įrašas" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip          "">
+<!ENTITY event.dialog.keepDurationButton.tooltip          "Keičiant pabaigos datą, išlaikyti trukmę">
+<!ENTITY event.dialog.keepDurationButton.accesskey        "K">
 
 <!ENTITY newevent.from.label                              "Nuo" >
 <!ENTITY newevent.to.label                                "Iki" >
