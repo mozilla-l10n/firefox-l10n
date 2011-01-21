@@ -21,9 +21,9 @@
 <!ENTITY view.sort.accesskey "S">
 <!ENTITY view.unsorted.label "Nerazvrščeno">
 <!ENTITY view.unsorted.accesskey "N">
-<!ENTITY view.sortAscending.label "Razvrti A > Ž">
+<!ENTITY view.sortAscending.label "Razvrsti A > Ž">
 <!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Razvrti Ž > A">
+<!ENTITY view.sortDescending.label "Razvrsti Ž > A">
 <!ENTITY view.sortDescending.accesskey "Ž">
 
 <!ENTITY cmd.findInBookmarks.label "Najdi v zaznamkih …">
