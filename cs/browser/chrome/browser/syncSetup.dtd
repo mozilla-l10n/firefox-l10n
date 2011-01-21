@@ -75,8 +75,8 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title "Možnosti synchronizace">
-<!ENTITY syncComputerName.label "Jméno počítače:">
-<!ENTITY syncComputerName.accesskey "J">
+<!ENTITY syncComputerName.label "Název počítače:">
+<!ENTITY syncComputerName.accesskey "N">
 
 <!ENTITY syncMy.label "Synchronizovat">
 <!ENTITY engine.bookmarks.label "Záložky">
