@@ -76,8 +76,8 @@
 <!ENTITY reuseExpRadio0.accesskey            "n">
 <!ENTITY reuseExpRadio1.label                "tame pačiame (atvertame) lange">
 <!ENTITY reuseExpRadio1.accesskey            "t">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Perkėlus ar pašalinus laišką, užverti langą su juo">
-<!ENTITY closeMsgWindowOnDelete.accesskey    "v">
+<!ENTITY closeMsgOnMoveOrDelete.label        "Perkėlus ar pašalinus laišką, užverti langą ar kortelę su juo">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey    "v">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Periodiškai tikrinti, ar yra naujinimų:">
