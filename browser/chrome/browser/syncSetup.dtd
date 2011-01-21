@@ -58,6 +58,7 @@
 <!-- Existing Account Page 1: Login -->
 <!-- ENTITY setup.existingAccount.title.label "അക്കൌണ്ട് വിവരം നല്‍കുക" -->
 <!ENTITY resetPassword.label          "രഹസ്യവാക്ക് വീണ്ടും സജ്ജമാക്കുക">
+<!ENTITY resetSyncKey.label           "മറ്റു് ഡിവൈസ് നഷ്ടമായിരിയ്ക്കുന്നു.">
 <!-- ENTITY connecting.label             "കണക്ട് ചെയ്യുന്നു…" -->
 
 <!-- Existing Account Page 2: Sync Key -->

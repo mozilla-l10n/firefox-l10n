@@ -24,6 +24,7 @@
 <!-- ENTITY syncPrefsCaption.label       "ബ്രൌസര്‍ സിന്‍ക്" -->
 <!ENTITY syncComputerName.label       "കമ്പ്യൂട്ടറിന്റെ പേരു്:">
 <!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY deactivateDevice.label       "ഈ ഡിവൈസ് നിര്‍ജ്ജീവമാക്കുക">
 
 <!ENTITY syncMy.label               "സിന്‍ക് ചെയ്യുക">
 <!ENTITY engine.bookmarks.label     "അടയാളക്കുറിപ്പുകള്‍">
