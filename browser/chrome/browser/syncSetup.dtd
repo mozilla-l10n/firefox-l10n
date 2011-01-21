@@ -62,7 +62,7 @@
 
 <!-- Existing Account Page 2: Sync Key -->
 
-<!ENTITY lostSyncKey.label            "నేను నా సింక్ కీను కోల్పోయాను">
+
 <!ENTITY verifying.label              "పరిశీలించుచున్నది…">
 
 <!-- Sync Options -->
@@ -126,3 +126,5 @@
 <!ENTITY signIn.account2.label      "ఖాతా">
 <!ENTITY signIn.syncKey.accesskey   "K">
 <!ENTITY signIn.syncKey.label       "సింక్ కీ">
+
+<!ENTITY resetSyncKey.label           "నేను నా యితర పరికరమును కోల్పోయాను.">
