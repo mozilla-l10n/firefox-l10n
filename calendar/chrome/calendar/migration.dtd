@@ -35,7 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY migration.title "&brandFullName;: Uvoz podatkov">
-<!ENTITY migration.welcome "Dobrodošli">
+<!ENTITY migration.welcome "Pozdravljeni">
 <!ENTITY migration.importing "Uvažanje">
 <!ENTITY migration.list.description "&brandShortName; lahko uvozi koledarske podatke iz več priljubljenih programov. Na vašem računalniku so podatki iz naslednjih programov. Prosimo, izberite, iz katerega izmed njih bi jih radi uvozili.">
 <!ENTITY migration.progress.description "Uvažanje izbranih podatkov">
