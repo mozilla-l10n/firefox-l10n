@@ -6,9 +6,9 @@
 <!ENTITY languages.customize.moveUp.label               "Davit ar c'hrec'h">
 <!ENTITY languages.customize.moveUp.accesskey           "D">
 <!ENTITY languages.customize.moveDown.label             "Davit an traoñ">
-<!ENTITY languages.customize.moveDown.accesskey         "D">
+<!ENTITY languages.customize.moveDown.accesskey         "a">
 <!ENTITY languages.customize.deleteButton.label         "Dilemel">
-<!ENTITY languages.customize.deleteButton.accesskey     "D">
+<!ENTITY languages.customize.deleteButton.accesskey     "i">
 <!ENTITY languages.customize.selectLanguage.label       "Diuzañ ur yezh da ouzhpennañ…">
 <!ENTITY languages.customize.addButton.label            "Ouzhpennañ">
 <!ENTITY languages.customize.addButton.accesskey        "O">

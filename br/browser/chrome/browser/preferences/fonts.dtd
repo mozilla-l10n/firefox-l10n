@@ -4,21 +4,21 @@
 <!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Nodrezhoù evit :">
-<!ENTITY  language.accesskey                      "t">
+<!ENTITY  language.accesskey                      "N">
 
 <!ENTITY  size.label                              "Ment :">
-<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeProportional.accesskey              "M">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Kenfeur :">
-<!ENTITY  proportional.accesskey                  "f">
+<!ENTITY  proportional.accesskey                  "K">
 
 <!ENTITY  serif.label                             "Serif :">
-<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  serif.accesskey                         "f">
 <!ENTITY  sans-serif.label                        "Hep-serif:">
 <!ENTITY  sans-serif.accesskey                    "H">
 <!ENTITY  monospace.label                         "Unegor :">
-<!ENTITY  monospace.accesskey                     "n">
+<!ENTITY  monospace.accesskey                     "U">
 
 <!ENTITY  font.langGroup.latin1                   "Kornôg">
 <!ENTITY  font.langGroup.latin2                   "Kreiz Europa">
@@ -54,7 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibetaneg">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ment izek an nodrezh :">
-<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.accesskey                        "t">
 <!ENTITY minSize.none                             "Tra ebet">
 
 <!-- default font type -->
@@ -62,7 +62,7 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Hep Serif">
 
 <!ENTITY  allowPagesToUse.label                   "Aotren ar pajennadoù da zibab o nodrezhoù dezho e-lec'h ma diuzad a-us">
-<!ENTITY  allowPagesToUse.accesskey               "h">
+<!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Bonegañ an arouezenn">
 <!ENTITY languages.customize.DefaultCharset.label       "Bonegadur an arouezenn dre ziouer :">

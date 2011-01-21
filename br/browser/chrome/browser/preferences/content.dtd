@@ -1,31 +1,31 @@
 <!ENTITY  blockPopups.label           "Herzel an diflugelloù">
-<!ENTITY  blockPopups.accesskey       "f">
+<!ENTITY  blockPopups.accesskey       "H">
 <!ENTITY  popupExceptions.label       "Nemedennoù">
 <!ENTITY  popupExceptions.accesskey   "N">
 
 <!ENTITY  loadImages.label            "Kargañ ar skeudennoù ent-emgefre">
-<!ENTITY  loadImages.accesskey        "s">
+<!ENTITY  loadImages.accesskey        "K">
 <!ENTITY  exceptions.label            "Nemedennoù">
 <!ENTITY  exceptions.accesskey        "e">
 
 <!ENTITY  enableJavaScript.label      "Gweredekaat JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  enableJavaScript.accesskey  "G">
 <!ENTITY  advancedJS.label            "Kempleshoc'h…">
-<!ENTITY  advancedJS.accesskey        "K">
+<!ENTITY  advancedJS.accesskey        "m">
 
 <!ENTITY  enableJava.label            "Gweredekaat Java">
-<!ENTITY  enableJava.accesskey        "r">
+<!ENTITY  enableJava.accesskey        "G">
 
 
 <!ENTITY  fontsAndColors.label        "Nodrezhoù &amp; Livioù">
 
 <!ENTITY  defaultFont.label           "Nodrezh dre ziouer :">
-<!ENTITY  defaultFont.accesskey       "z">
+<!ENTITY  defaultFont.accesskey       "o">
 <!ENTITY  defaultSize.label           "Ment :">
-<!ENTITY  defaultSize.accesskey       "M">
+<!ENTITY  defaultSize.accesskey       "t">
 
 <!ENTITY  advancedFonts.label         "Kempleshoc'h…">
-<!ENTITY  advancedFonts.accesskey     "K">
+<!ENTITY  advancedFonts.accesskey     "p">
 
 <!ENTITY  colors.label                "Livioù…">
 <!ENTITY  colors.accesskey            "L">

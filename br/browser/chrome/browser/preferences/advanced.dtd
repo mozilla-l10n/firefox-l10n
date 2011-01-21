@@ -5,30 +5,30 @@
 <!ENTITY accessibility.label             "Haezadusted">
 
 <!ENTITY useCursorNavigation.label       "Atav arverañ ar stokelloù bir da vageal er bajennadoù">
-<!ENTITY useCursorNavigation.accesskey   "t">
+<!ENTITY useCursorNavigation.accesskey   "A">
 <!ENTITY searchStartTyping.label         "Klask an destenn pa grogan da skrivañ">
-<!ENTITY searchStartTyping.accesskey     "k">
+<!ENTITY searchStartTyping.accesskey     "K">
 <!ENTITY blockAutoRefresh.label          "Kemenn din pa vez klasket adheñchañ pe adkargañ ar bajennad gant al lec'hiennoù">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY blockAutoRefresh.accesskey      "e">
 
 <!ENTITY browsing.label                  "Furchal">
 
 <!ENTITY useAutoScroll.label             "Ober gant an emzibunañ">
-<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useAutoScroll.accesskey         "O">
 <!ENTITY useSmoothScrolling.label        "Arverañ an dibunañ flour">
-<!ENTITY useSmoothScrolling.accesskey    "f">
+<!ENTITY useSmoothScrolling.accesskey    "r">
 <!ENTITY allowHWAccel.label              "Arverañ herrekadur ar periant pa vez hegerz">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Gwiriañ ar reizhskrivañ pa skrivan">
-<!ENTITY checkSpelling.accesskey         "r">
+<!ENTITY checkSpelling.accesskey         "G">
 
 <!ENTITY systemDefaults.label            "Arventennoù dre ziouer ar reizhiad">
 <!ENTITY alwaysCheckDefault.label        "Gwiriañ atav evit gwelout hag eñ eo &brandShortName; ar merdeer dre ziouer e-kerz al loc'hañ"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "Gwiriañ bremañ">
-<!ENTITY checkNow.accesskey              "b">
+<!ENTITY checkNow.accesskey              "i">
 <!ENTITY submitCrashes.label             "Kas an danevelloù sac'hadenn">
-<!ENTITY submitCrashes.accesskey         "s">
+<!ENTITY submitCrashes.accesskey         "n">
 
 <!ENTITY networkTab.label                "Rouedad">
 
@@ -74,7 +74,7 @@
 <!ENTITY updateHistory.accesskey         "r">
 
 <!ENTITY offlineNotify.label             "Lavarout din pa vez goulennet gant ul lec'hienn mirout roadennoù evit un arver ezlinenn">
-<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotify.accesskey         "a">
 <!ENTITY offlineNotifyExceptions.label   "Nemedennoù…">
 <!ENTITY offlineNotifyExceptions.accesskey "m">
 
@@ -94,14 +94,14 @@
 <!ENTITY certificates.label              "Testenioù">
 <!ENTITY certSelection.description       "Pa vez goulennet ma zesteni personel gant un dafariad :">
 <!ENTITY certs.auto                      "Diuz unan ent-emgefre">
-<!ENTITY certs.auto.accesskey            "u">
+<!ENTITY certs.auto.accesskey            "D">
 <!ENTITY certs.ask                       "Goulenn diganin bewech">
-<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY certs.ask.accesskey             "G">
 <!ENTITY viewCerts.label                 "Gwelout an testenioù">
-<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCerts.accesskey             "w">
 <!ENTITY viewCRLs.label                  "Rolloù dizorniañ">
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Talvoudekadur">
-<!ENTITY verify2.accesskey               "v">
+<!ENTITY verify2.accesskey               "T">
 <!ENTITY viewSecurityDevices.label       "Trobarzhelloù Diogelroez">
-<!ENTITY viewSecurityDevices.accesskey   "r">
+<!ENTITY viewSecurityDevices.accesskey   "o">
