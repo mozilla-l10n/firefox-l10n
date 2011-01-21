@@ -18,11 +18,3 @@
 <!ENTITY homepage.none                             "Пуста сторінка">
 <!ENTITY homepage.default                          "Початкова сторінка &brandShortName;">
 <!ENTITY homepage.currentpage                      "Використовувати поточну сторінку">
-<!ENTITY sync.title                                "Синхронізація">
-<!ENTITY sync.account2                             "Обліковий запис">
-<!ENTITY sync.password                             "Пароль">
-<!ENTITY sync.syncKey                              "Ключ синхронізації">
-<!ENTITY sync.deviceName                           "Назва пристрою">
-<!ENTITY sync.connect                              "З’єднатись">
-<!ENTITY sync.disconnect                           "Від’єднатись">
-<!ENTITY sync.syncNow                              "Синхронізуватись зараз">
