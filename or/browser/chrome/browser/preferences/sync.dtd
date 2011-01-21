@@ -20,7 +20,7 @@
 
 
 <!-- Sync Settings -->
-
+<!ENTITY deactivateDevice.label       "ଏହି ଉପକରଣକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ">
 <!ENTITY syncComputerName.label       "କମ୍ପୁଟର ନାମ:">
 <!ENTITY syncComputerName.accesskey   "c">
 

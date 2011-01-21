@@ -67,7 +67,7 @@
 <!ENTITY setup.optionsPage.title      "Sync ବିକଳ୍ପଗୁଡ଼ିକ">
 <!ENTITY syncComputerName.label       "କମ୍ପୁଟର ନାମ:">
 <!ENTITY syncComputerName.accesskey   "c">
-
+<!ENTITY resetSyncKey.label           "ମୁଁ ମୋର ଅନ୍ୟ ଉପକରଣଟିକୁ ହରାଇଛି।">
 <!ENTITY syncMy.label               "ନିମ୍ନଲିଖିତଗୁଡ଼ିକୁ ସନ୍ତୁଳନ କରନ୍ତୁ">
 <!ENTITY engine.bookmarks.label     "ଚିହ୍ନିତ ସ୍ଥାନ">
 <!ENTITY engine.bookmarks.accesskey "m">
