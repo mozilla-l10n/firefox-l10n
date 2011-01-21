@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label "Upravit položku">
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip "Ponechat dobu trvání při změně koncového data">
+<!ENTITY event.dialog.keepDurationButton.accesskey "k">
 
 <!ENTITY newevent.from.label "Od">
 <!ENTITY newevent.to.label "Do">
