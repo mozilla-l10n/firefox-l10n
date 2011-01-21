@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Thulupaa ya dipukutshwayo">
 <!ENTITY personalbarCmd.accesskey "T">
 <!ENTITY bookmarksToolbarItem.label "Diaetheme tša thulupaa ya dipukutshwayo">
-<!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "A">
+<!ENTITY addonBarCmd.label "Para ya setlaleletši">
+<!ENTITY addonBarCmd.accesskey "a">
 
 <!ENTITY pageSourceCmd.label "Mothopo wa letlakala">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Ingwadiše letlakaleng le">
 <!ENTITY subscribeToPageMenuitem.label "Ingwadiše letlakaleng le">
 <!ENTITY addCurPagesCmd.label "Pukuswaya dithepo tšohle…">
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
+<!ENTITY showAllBookmarks2.label "Laetša dipukutshwayo tšohle">
 <!ENTITY bookmarkAllCmd.label "Pukuswaya dithepo tšohle…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bontšha dipukutshwayo tše oketšegilego">
 
@@ -132,7 +132,7 @@ can reach it easily. -->
 <!-- Toolbar items --> 
 
 <!ENTITY appMenuButton.label          "Lelokelelo">
-<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY appMenuButton.tooltip        "Bula lelokelelo la &brandShortName;">
 <!ENTITY homeButton.label             "Gae">
 
 <!ENTITY tabGroupsButton.label        "Dihlopha tša thepo">
@@ -148,7 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Dipukutshwayo">
 <!ENTITY bookmarksMenuButton.tooltip        "Bontšha dipukutshwayo tša gago">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
+<!ENTITY bookmarksMenuButton.unsorted.label "Dipukutshwayo tše sa latelantšhwago">
 <!ENTITY viewBookmarksSidebar.label         "Laetša go para ya ka thoko">
 <!ENTITY viewBookmarksToolbar.label         "Lebelela thulupaa ya dipukutshwayo">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -216,9 +216,9 @@ can reach it easily. -->
 
 <!ENTITY editMenu.label         "Lokiša">
 <!ENTITY editMenu.accesskey       "L">
-<!ENTITY undoCmd.label            "Undo">
+<!ENTITY undoCmd.label            "Dirolla">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY undoCmd.accesskey          "D">
 <!ENTITY redoCmd.label            "Dira gape">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "D">
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Kgetha tšohle">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "t">
-<!ENTITY preferencesCmd2.label       "Options">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.label       "Dikgetho">
+<!ENTITY preferencesCmd2.accesskey     "D">
 <!ENTITY preferencesCmdUnix.label       "Dikganyogo">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
@@ -281,7 +281,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Tlhamego ya thulupaa">
 <!ENTITY appMenuSidebars.label "Dipara tša ka thoko">
 <!ENTITY appMenuFind.label "Hwetša...">
-<!ENTITY appMenuUnsorted.label "Unsorted Bookmarks">
+<!ENTITY appMenuUnsorted.label "Dipukutshwayo tše sa latelantšhwago">
 <!ENTITY appMenuWebDeveloper.label "Motšweletši wa wepe">
 <!ENTITY appMenuGettingStarted.label "Kamoo o ka thomago">
 <!ENTITY appMenuSafeMode.label "Thoma ka leswa o šitišitše ditlaleletši...">
