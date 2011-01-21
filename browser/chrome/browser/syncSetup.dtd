@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Ви можете отримати копію вашого ключа синхронізації перейшовши до налаштувань &syncBrand.shortName.label; на вашому пристрої, та вибравши «Мій ключ синхронізації» в «Керувати обліковим записом»">
 <!ENTITY verifying.label              "Перевірка…">
 <!ENTITY resetPassword.label          "Стерти пароль">
-<!ENTITY lostSyncKey.label            "Я загубив мій ключ синхронізації">
+<!ENTITY resetSyncKey.label           "Я загубив мій інший пристрій.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Варіанти синхронізації">
