@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description        "Koopia oma Synci võtmest saad, kui avad &syncBrand.shortName.label;i seaded oma teises seadmes ning valid &#x0022;Konto haldamise&#x0022; alt &#x0022;Synci võti&#x0022;.">
 <!ENTITY verifying.label                    "Kontrollimine…">
 <!ENTITY resetPassword.label                "Lähtesta parool">
-<!ENTITY lostSyncKey.label                  "Ma kaotasin oma Synci võtme">
+<!ENTITY resetSyncKey.label                 "Ma kaotasin oma teise seadme.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title            "Synci sätted">
