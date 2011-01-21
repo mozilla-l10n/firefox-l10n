@@ -2,6 +2,7 @@
 <!ENTITY about.title "O aplikaci &brandShortName;">
 <!ENTITY about.button "Jít na stránku">
 <!ENTITY content.title "Obsah">
+<!ENTITY reflowZoom.title "Přeformátovat text při změně velikosti">
 <!ENTITY showImages.title "Zobrazit obrázky">
 <!ENTITY enableJavaScript.title "Povolit JavaScript">
 <!ENTITY enablePlugins.title "Povolit moduly">
