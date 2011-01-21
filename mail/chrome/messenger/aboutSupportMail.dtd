@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Id sestavení aplikace">
+
+<!ENTITY aboutSupport.accountsTitle "Účty pošty a diskusních skupin">
+<!ENTITY aboutSupport.showPrivateData.mainText "Zahrnout názvy účtů">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(tyto informace vás mohou identifikovat)">
+<!ENTITY aboutSupport.accountsID "Id">
+<!ENTITY aboutSupport.accountsName "Název">
+<!ENTITY aboutSupport.accountsIncomingServer "Příchozí server">
+<!ENTITY aboutSupport.accountsOutgoingServers "Odchozí servery">
+<!ENTITY aboutSupport.accountsConnSecurity "Zabezpečení spojení">
+<!ENTITY aboutSupport.accountsAuthMethod "Způsob autentizace">
+<!ENTITY aboutSupport.accountsDefault "Výchozí?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Odeslat e-mailem">
