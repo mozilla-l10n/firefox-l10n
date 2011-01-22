@@ -48,7 +48,7 @@
                                            Por favor, contauta col alministrador del sistema pa obtener ayuda.">
 
 <!ENTITY  versioninfo.wizard.title        "Comprobando compatibilidá de complementos">
-<!ENTITY  versioninfo.top.label           "Comprobando la compatiblidá de los yos complementos con esta
+<!ENTITY  versioninfo.top.label           "Comprobando la compatiblidá de los complementos con esta
                                            versión de &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Esto pue llevar unos minutos…">
 
