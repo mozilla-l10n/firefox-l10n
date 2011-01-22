@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Athuga samhæfni viðbótar…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound "&brandShortName; er í nýjustu útgáfu">
+<!ENTITY update.noUpdatesFound "&brandShortName; er þegar með nýjustu útgáfu">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled "Uppfærslur hafa verið gerðar óvirkar af kerfistjóra">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):

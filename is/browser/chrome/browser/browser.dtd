@@ -65,12 +65,12 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Hlutir í bókamerkjaslá">
 <!ENTITY addonBarCmd.label "Viðbótarslá">
-<!ENTITY addonBarCmd.accesskey "b">
+<!ENTITY addonBarCmd.accesskey "a">
 <!ENTITY pageSourceCmd.label "Frumkóði síðu">
 <!ENTITY pageSourceCmd.accesskey "k">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Upplýsingar síðu">
-<!ENTITY pageInfoCmd.accesskey "u">
+<!ENTITY pageInfoCmd.accesskey "U">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Fylla skjá">
 <!ENTITY fullScreenCmd.accesskey "y">

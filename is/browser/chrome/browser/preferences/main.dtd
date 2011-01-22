@@ -7,7 +7,7 @@
 <!ENTITY homepage.label "Heimasíða:">
 <!ENTITY homepage.accesskey "e">
 <!ENTITY useCurrentPage.label "Nota núverandi síðu">
-<!ENTITY useCurrentPage.accesskey "N">
+<!ENTITY useCurrentPage.accesskey "o">
 <!ENTITY useMultiple.label "Nota núverandi síður">
 <!ENTITY useBookmark.label "Nota bókamerki">
 <!ENTITY useBookmark.accesskey "b">
@@ -15,13 +15,13 @@
 <!ENTITY restoreDefault.accesskey "r">
 <!ENTITY downloads.label "Niðurhal">
 <!ENTITY showWhenDownloading.label "Sýna niðurhalsglugga þegar verið er að niðurhala skrá">
-<!ENTITY showWhenDownloading.accesskey "n">
+<!ENTITY showWhenDownloading.accesskey "ð">
 <!ENTITY closeWhenDone.label "Loka glugga þegar öllu niðurhali er lokið">
 <!ENTITY closeWhenDone.accesskey "L">
 <!ENTITY saveTo.label "Vista skrár yfir á">
 <!ENTITY saveTo.accesskey "V">
 <!ENTITY chooseFolderWin.label "Velja…">
-<!ENTITY chooseFolderWin.accesskey "V">
+<!ENTITY chooseFolderWin.accesskey "e">
 <!ENTITY chooseFolderMac.label "Velja…">
 <!ENTITY chooseFolderMac.accesskey "e">
 <!ENTITY alwaysAsk.label "Alltaf spyrja hvar á að vista skrár">
@@ -30,4 +30,4 @@
 <!ENTITY manageAddonsDescWin.label "Breyta stillingum fyrir viðbætur">
 <!ENTITY manageAddonsDescUnix2.label "Breyta stillingum fyrir viðbætur">
 <!ENTITY manageAddons.label "Stjórna viðbótum…">
-<!ENTITY manageAddons.accesskey "S">
+<!ENTITY manageAddons.accesskey "m">

@@ -21,7 +21,7 @@
 <!ENTITY showCookies.label "Sýna smákökur…">
 <!ENTITY showCookies.accesskey "S">
 <!ENTITY historyHeader.pre.label "&brandShortName; mun:">
-<!ENTITY historyHeader.pre.accesskey "F">
+<!ENTITY historyHeader.pre.accesskey "x">
 <!ENTITY historyHeader.remember.label "Geyma feril">
 <!ENTITY historyHeader.dontremember.label "Aldrei geyma feril">
 <!ENTITY historyHeader.custom.label "Nota sérsniðnar stillingar fyrir feril">
