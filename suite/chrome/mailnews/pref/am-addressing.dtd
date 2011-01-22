@@ -19,7 +19,7 @@
 
 <!ENTITY compositionGroupTitle.label "Composition">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Compôr mensagens no formato HTML">
+<!ENTITY useHtml.label                        "Compor mensagens no formato HTML">
 <!ENTITY useHtml.accesskey                    "C">
 <!ENTITY autoQuote.label                      "Citar automaticamente a mensagem original ao responder">
 <!ENTITY autoQuote.accesskey                  "a">

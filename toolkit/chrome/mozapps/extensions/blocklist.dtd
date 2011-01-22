@@ -10,4 +10,4 @@
 <!ENTITY blocklist.accept.accesskey  "R">
 
 <!ENTITY blocklist.blocked.label     "Bloqueado">
-<!ENTITY blocklist.checkbox.label    "Disactivar">
+<!ENTITY blocklist.checkbox.label    "Desactivar">

@@ -42,7 +42,7 @@
 <!ENTITY fieldMapImport.next.accesskey "x">
 <!ENTITY fieldMapImport.previous.label "Anterior">
 <!ENTITY fieldMapImport.previous.accesskey "A">
-<!ENTITY fieldMapImport.text "Use Mover para Cima e Mover para Baixo para igualar os dados correctos dos campos do livro de endereços à esquerdapara importar para a direita. Des-seleccione os itens que não deseja importar.">
+<!ENTITY fieldMapImport.text "Use Mover para Cima e Mover para Baixo para igualar os dados correctos dos campos do livro de endereços à esquerda para importar para a direita. Des-seleccione os itens que não deseja importar.">
 <!ENTITY fieldMapImport.up.label "Mover para cima">
 <!ENTITY fieldMapImport.up.accesskey "c">
 <!ENTITY fieldMapImport.down.label "Mover para baixo">

@@ -82,5 +82,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "I">
 <!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da transferência">
 <!ENTITY cmd.copyDownloadLink.accesskey  "l">
-<!ENTITY cmd.properties.label            "Propriedadesâ€¦">
+<!ENTITY cmd.properties.label            "Propriedades">
 <!ENTITY cmd.properties.accesskey        "s">

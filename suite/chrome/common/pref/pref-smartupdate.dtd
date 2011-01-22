@@ -10,7 +10,7 @@
 <!ENTITY autoUpdates.label                    "Procurar actualizações automaticamente para o:">
 <!ENTITY appUpdates.label                     "&brandShortName;">
 <!ENTITY appUpdates.accesskey                 "S">
-<!ENTITY daily.label                          "diáriamente">
+<!ENTITY daily.label                          "diariamente">
 <!ENTITY appDaily.accesskey                   "d">
 <!ENTITY weekly.label                         "semanalmente">
 <!ENTITY appWeekly.accesskey                  "s">

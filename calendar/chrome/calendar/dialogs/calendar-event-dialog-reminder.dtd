@@ -41,7 +41,7 @@
 <!ENTITY reminder.remove.accesskey                         "R">
 
 <!ENTITY reminder.reminderDetails.label                    "Detalhes da lembrança">
-<!ENTITY reminder.action.label                             "Escolha uma acção para a lemrança">
+<!ENTITY reminder.action.label                             "Escolha uma acção para a lembrança">
 
 <!ENTITY reminder.relation.before.label                    "antes" >
 <!ENTITY reminder.relation.after.label                     "depois" >

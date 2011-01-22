@@ -6,7 +6,7 @@
 <!ENTITY sync.synchronize           "Activar sincronização">
 <!ENTITY sync.deviceName            "Este dispositivo">
 <!ENTITY sync.disconnect            "Desligar">
-<!ENTITY sync.syncNow               "Sinc agora">
+<!ENTITY sync.syncNow               "Sincronizar agora">
 
 <!ENTITY sync.setup.title           "Ligar ao Sync">
 <!ENTITY sync.setup.jpake           "De um computador ligado ao Firefox Sync, vá às opções do Sync e seleccione &#x0022;Adicionar dispositivo&#x0022;">

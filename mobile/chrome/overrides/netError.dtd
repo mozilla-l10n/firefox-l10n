@@ -142,7 +142,7 @@ ser temporário, voltando a tentar mais tarde.</li>
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>O sítio pode estar temporáriamente indisponível ou muito ocupado. Volte a tentar dentro de alguns
+  <li>O sítio pode estar temporariamente indisponível ou muito ocupado. Volte a tentar dentro de alguns
     momentos.</li>
   <li>If you are unable to load any pages, check your computer's network
     connection.</li>

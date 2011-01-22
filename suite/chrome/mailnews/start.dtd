@@ -41,9 +41,9 @@
 'Bem-Vindo ao <a id="vendorURL" href="">&brandShortName;</a> Correio e Grupos de Discussão!'>
 <!ENTITY description.label
 "&brandShortName; Correio e Grupos de Discussão é um poderoso cliente open-source de correio
-notícias, supotando detecção avançada de lixo electrónico e outras funcionalidade utéis.">
+notícias, suportando detecção avançada de lixo electrónico e outras funcionalidade úteis.">
 <!ENTITY features.title "Funcionalidades">
-<!ENTITY feat_multiacc.label "Suporte para multiplas contas">
+<!ENTITY feat_multiacc.label "Suporte para múltiplas contas">
 <!ENTITY feat_junk.label "Detecção de Lixo Electrónico">
 <!ENTITY feat_feeds.label "Leitor de fontes">
 <!ENTITY feat_filters.label "Filtros de mensagens">

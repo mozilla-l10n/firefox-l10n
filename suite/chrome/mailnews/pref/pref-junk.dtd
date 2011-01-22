@@ -68,5 +68,5 @@
 
 <!-- Anti Virus -->
 <!ENTITY pref.antivirus.caption           "Anti-Vírus">
-<!ENTITY antiVirus.label                  "Permitir que os anti-virus verifiquem as mensagens a receber mais facilmente">
+<!ENTITY antiVirus.label                  "Permitir que os anti-vírus verifiquem as mensagens a receber mais facilmente">
 <!ENTITY antiVirus.accesskey              "P">
