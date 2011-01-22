@@ -77,7 +77,7 @@
 						                   reiniciar agora o &brandShortName; ou continuar a trabalhar e reiniciar mais tarde.">
 
 <!ENTITY finishedBackgroundPage.text      "Foi transferida uma actualização de segurança e estabilidade para o &brandShortName; 
-									       e está pronta a instalar">
+									       e está pronta a instalar.">
 <!ENTITY finishedBackground.name          "Actualização:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button label defined by restartButton in updates.properties. -->
 <!ENTITY finishedBackground.more          "A actualização será instalada da próxima vez que o &brandShortName; iniciar. Pode

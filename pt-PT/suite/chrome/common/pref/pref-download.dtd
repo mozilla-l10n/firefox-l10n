@@ -12,7 +12,7 @@
 
 <!ENTITY downloadLocation.label         "Ao guardar um ficheiro">
 <!ENTITY saveTo.label                   "Guardar ficheiros para">
-<!ENTITY saveTo.accesskey               "v">
+<!ENTITY saveTo.accesskey               "r">
 <!ENTITY chooseDownloadFolder.label     "Escolher pasta…">
 <!ENTITY chooseDownloadFolder.accesskey "c">
 <!ENTITY alwaysAsk.label                "Perguntar-me sempre onde guardar os ficheiros">

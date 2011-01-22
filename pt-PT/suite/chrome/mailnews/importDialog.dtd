@@ -44,7 +44,7 @@
 <!ENTITY importAddressbook.label  "Livro de Endereços">
 <!ENTITY importAddressbook.accesskey "L">
 <!ENTITY importSettings.label     "Configurações">
-<!ENTITY importSettings.accesskey "D">
+<!ENTITY importSettings.accesskey "o">
 <!ENTITY importFilters.label      "Filtros">
 <!ENTITY importFilters.accesskey  "F">
 

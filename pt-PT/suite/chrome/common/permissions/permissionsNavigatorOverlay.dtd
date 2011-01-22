@@ -20,7 +20,7 @@
 <!ENTITY cookieDisplayImagesCmd.label "Gerir permissões de imagem">
 <!ENTITY cookieDisplayImagesCmd.accesskey "m">
 <!ENTITY cookieAllowImagesCmd.label "Permitir imagens deste sítio">
-<!ENTITY cookieAllowImagesCmd.accesskey "Ae">
+<!ENTITY cookieAllowImagesCmd.accesskey "e">
 <!ENTITY cookieAllowImagesMsg.label "Imagens deste sítio serão sempre transferidas.">
 <!ENTITY cookieImagesDefaultCmd.label "Usar premissões de imagem pré-definidas">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">

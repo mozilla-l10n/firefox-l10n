@@ -67,7 +67,7 @@
 <!ENTITY offlineText.label                 "Pode transferir uma cópia desta directoria para que esteja disponível quando está desligado.">
 <!ENTITY saslMechanism.label               "Método de início de sessão: ">
 <!ENTITY saslMechanism.accesskey           "M">
-<!ENTITY saslOff.label                     "s">
+<!ENTITY saslOff.label                     "Simples">
 <!ENTITY saslOff.accesskey		   "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey		   "K">

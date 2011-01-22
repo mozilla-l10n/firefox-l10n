@@ -57,9 +57,9 @@
 <!ENTITY retentionUseAccount.accesskey "d">
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
-<!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
-<!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, tanto as cópias locais como os originais no servidor remoto.">
-<!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, incluindo os originais no servidor remoto.">
+<!ENTITY retentionCleanup.label "Guardar mensagens:">
+<!ENTITY retentionCleanupImap.label "Guardar mensagens, sejam as cópias locais ou as originais no servidor:">
+<!ENTITY retentionCleanupPop.label "Guardar mensagens, incluindo os originais no servidor:">
 <!ENTITY retentionDeleteMsg.label "Apagar mensagens maiores que">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não apagar nenhuma mensagem">

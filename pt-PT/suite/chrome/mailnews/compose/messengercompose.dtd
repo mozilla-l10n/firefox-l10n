@@ -78,14 +78,14 @@
 <!ENTITY optionsMenu.accesskey "o">
 
 <!ENTITY quoteCmd.label "Citar Mensagem">
-<!ENTITY quoteCmd.accesskey "Q">
+<!ENTITY quoteCmd.accesskey "C">
 <!ENTITY selectAddressCmd.label "Escolha os Endereços...">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "E">
 
 <!ENTITY checkSpellingCmd2.label "Verificar ortografia...">
 <!ENTITY checkSpellingCmd2.key "K">
-<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao escrever">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 
@@ -105,7 +105,7 @@
 <!ENTITY returnReceiptMenu.label "Recibo de leitura">
 <!ENTITY returnReceiptMenu.accesskey "o">
 <!ENTITY outputFormatMenu.label "Formatação">
-<!ENTITY outputFormatMenu.accesskey  "D">
+<!ENTITY outputFormatMenu.accesskey  "r">
 <!ENTITY autoFormatCmd.label "Seleccionar automaticamente">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Sem formatação">

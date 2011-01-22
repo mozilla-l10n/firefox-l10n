@@ -133,9 +133,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Identificar sítio web">
-<!ENTITY  securityView.identity.owner    "Proprietário: ">
-<!ENTITY  securityView.identity.domain   "Sítio web: ">
-<!ENTITY  securityView.identity.verifier "Verificado por: ">
+<!ENTITY  securityView.identity.owner    "Proprietário:">
+<!ENTITY  securityView.identity.domain   "Sítio web:">
+<!ENTITY  securityView.identity.verifier "Verificado por:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade &amp; Histórico">
 <!ENTITY  securityView.privacy.history                  "Já visitei este sítio hoje?">

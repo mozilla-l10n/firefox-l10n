@@ -1,7 +1,7 @@
 <!ENTITY aboutHome.header                       "<span id='header-suffix'>Início do</span><span>&brandShortName; </span>">
 <!ENTITY aboutHome.recentTabs                   "Os seus separadores da última vez">
 <!ENTITY aboutHome.remoteTabs                   "Separadores dos seus outros computadores">
-<!ENTITY aboutHome.recommendedAddons2           "Extras para o seu Firefox">
+<!ENTITY aboutHome.recommendedAddons2           "Extras para o seu &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Dar feedback">
 <!ENTITY aboutHome.openAllTabs                  "Abrir tudo em separdores">
 <!ENTITY aboutHome.noTabs                       "Nenhum separador desde a última vez">

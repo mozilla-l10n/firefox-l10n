@@ -112,9 +112,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Identidade do Sítio Web">
-<!ENTITY  securityView.identity.owner    "Dono: ">
-<!ENTITY  securityView.identity.domain   "Sítio Web: ">
-<!ENTITY  securityView.identity.verifier "Verificado por: ">
+<!ENTITY  securityView.identity.owner    "Dono:">
+<!ENTITY  securityView.identity.domain   "Sítio Web:">
+<!ENTITY  securityView.identity.verifier "Verificado por:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade &amp; Histórico">
 <!ENTITY  securityView.privacy.history                  "Visitei este sítio antes de hoje?">

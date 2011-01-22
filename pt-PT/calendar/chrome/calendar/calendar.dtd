@@ -94,16 +94,16 @@
 
 <!ENTITY calendar.nextday.label       "Dia Seguinte" >
 <!ENTITY calendar.prevday.label        "Dia Anterior" >
-<!ENTITY calendar.nextday.accesskey             "x" >
-<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextday.accesskey             "s" >
+<!ENTITY calendar.prevday.accesskey             "a" >
 <!ENTITY calendar.nextweek.label       "Semana Seguinte" >
 <!ENTITY calendar.prevweek.label       "Semana Anterior" >
-<!ENTITY calendar.nextweek.accesskey            "x" >
-<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextweek.accesskey            "s" >
+<!ENTITY calendar.prevweek.accesskey            "a" >
 <!ENTITY calendar.nextmonth.label      "Mês Seguinte" >
 <!ENTITY calendar.prevmonth.label      "Mês Anterior" >
-<!ENTITY calendar.nextmonth.accesskey           "x" >
-<!ENTITY calendar.prevmonth.accesskey           "s" >
+<!ENTITY calendar.nextmonth.accesskey           "s" >
+<!ENTITY calendar.prevmonth.accesskey           "a" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Avançar um dia" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Retroceder um dia" >

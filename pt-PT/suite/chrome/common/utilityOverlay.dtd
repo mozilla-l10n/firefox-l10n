@@ -12,7 +12,7 @@
 <!ENTITY newBlankPageCmd.accesskey "P" >
 <!ENTITY newBlankPageCmd.key "n" >
 <!ENTITY newPageFromTemplateCmd.label "Página usando modelo">
-<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromTemplateCmd.accesskey "m">
 <!ENTITY newPageFromDraftCmd.label "Página usando rascunho">
 <!ENTITY newPageFromDraftCmd.accesskey "d">
 <!ENTITY newNavigatorCmd.label "Janela do Navegador">

@@ -27,7 +27,7 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.label                    "Pin como separador de aplicação">
 <!ENTITY  pinAppTab.accesskey                "p">
 <!ENTITY  unpinAppTab.label                  "Anular pin do separador">
-<!ENTITY  unpinAppTab.accesskey              "m">
+<!ENTITY  unpinAppTab.accesskey              "r">
 <!ENTITY  moveToGroup.label                  "Mover para grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Novo grupo">
