@@ -371,20 +371,20 @@
 <!ENTITY tableColumns.label "Coluna(s)">
 <!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableColumnBefore.label "Coluna Antes">
-<!ENTITY tableColumnBefore.accesskey "T">
+<!ENTITY tableColumnBefore.accesskey "a">
 <!ENTITY tableColumnAfter.label "Coluna Depois">
-<!ENTITY tableColumnAfter.accesskey "a">
+<!ENTITY tableColumnAfter.accesskey "d">
 <!ENTITY tableCell.label "Célula">
 <!ENTITY tableCells.label "Células(s)">
 <!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "Conteúdo da Célula">
 <!ENTITY tableCellContents.accesskey "n">
 <!ENTITY tableAllCells.label "Todas as Células">
-<!ENTITY tableAllCells.accesskey "As">
+<!ENTITY tableAllCells.accesskey "t">
 <!ENTITY tableCellBefore.label "Célula Antes">
-<!ENTITY tableCellBefore.accesskey "A">
+<!ENTITY tableCellBefore.accesskey "n">
 <!ENTITY tableCellAfter.label "Célula Depois">
-<!ENTITY tableCellAfter.accesskey "D">
+<!ENTITY tableCellAfter.accesskey "e">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Eliminar">
 <!ENTITY tableDeleteMenu.accesskey "l">

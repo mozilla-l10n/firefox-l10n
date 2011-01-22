@@ -155,7 +155,7 @@ mensagens HTML deste contacto.">
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Personalizado 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Notas">
+<!ENTITY Notes.label                    "Notas:">
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Photo.tab                      "Fotografia">

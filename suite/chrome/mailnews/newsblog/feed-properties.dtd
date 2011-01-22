@@ -4,7 +4,7 @@
 <!ENTITY feedFolder.label "Armazenar itens em: ">
 <!ENTITY feedFolder.accesskey "A">
 
-<!ENTITY feedLocation.label "URL da Fonte:">
+<!ENTITY feedLocation.label "URL da Fonte: ">
 <!ENTITY feedLocation.accesskey "E">
 
 <!ENTITY choosethisfolder.label "escolher esta pasta">

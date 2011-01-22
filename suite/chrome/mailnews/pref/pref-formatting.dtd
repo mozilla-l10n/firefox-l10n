@@ -64,7 +64,7 @@
 
 <!-- Add Domain Name -->
 <!ENTITY add.htmltitle                "Adicionar nome de domínio HTML ">
-<!ENTITY add.htmldomain               "Nome do domínio HTML">
+<!ENTITY add.htmldomain               "Nome do domínio HTML:">
 <!ENTITY add.plaintexttitle           "Adicionar nome de domínio de texto">
 <!ENTITY add.plaintextdomain          "Nome do domínio de texto:">
 

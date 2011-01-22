@@ -47,8 +47,8 @@
 <!ENTITY locationpage.password.label      "Senha:" >
 
 <!ENTITY custompage.shortdescription  "Personalize o seu calendário" >
-<!ENTITY custompage.longdescription   "Pode dar ao seu calendário uma alcunha e colorir os eventos deste calendário" >
+<!ENTITY custompage.longdescription   "Pode dar ao seu calendário uma alcunha e colorir os eventos deste calendário." >
 
 <!ENTITY finishpage.shortdescription  "Calendário Criado" >
-<!ENTITY finishpage.longdescription   "O seu calendário foi criado" >
+<!ENTITY finishpage.longdescription   "O seu calendário foi criado." >
 

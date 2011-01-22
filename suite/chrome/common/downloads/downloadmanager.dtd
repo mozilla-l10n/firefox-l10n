@@ -10,7 +10,7 @@
 
 <!ENTITY cmd.clearList.label             "Limpar lista">
 <!ENTITY cmd.clearList.tooltip           "Remove da lista transferências terminadas, canceladas e falhadas">
-<!ENTITY cmd.clearList.accesskey         "C">
+<!ENTITY cmd.clearList.accesskey         "L">
 
 <!ENTITY col.name.label                  "Nome">
 <!ENTITY col.name.accesskey              "N">
@@ -77,7 +77,7 @@
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "b">
 <!ENTITY cmd.show.label                  "Abrir pasta respectiva">
-<!ENTITY cmd.show.accesskey              "F">
+<!ENTITY cmd.show.accesskey              "A">
 <!ENTITY cmd.goToDownloadPage.label      "Ir para a página de transferência">
 <!ENTITY cmd.goToDownloadPage.accesskey  "I">
 <!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da transferência">

@@ -169,7 +169,7 @@ tentar mais tarde.</li>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegador preveniu esta página de carregar desta maneira porque a página tem uma política de segurança de conteúdos que a desactiva.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; preveniu esta página de carregar porque a página tem uma política de segurança de conteúdos que não permite o carregamento.</p>">
 
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma excepção...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">

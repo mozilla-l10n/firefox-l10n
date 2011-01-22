@@ -1,8 +1,8 @@
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Rejeitar janelas de popup deste sítio">
-<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permitir janelas de popup deste sítio">
-<!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY popupWindowAllowCmd.accesskey  "o">
 <!ENTITY openLinkCmd.label            "Abrir ligação em nova janela">
 <!ENTITY openLinkCmd.accesskey        "j">
 <!ENTITY openLinkCmdInTab.label       "Abrir ligação em novo separador">
@@ -50,7 +50,7 @@
 <!ENTITY viewVideoCmd.label           "Ver Vídeo">
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
-<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY viewBGImageCmd.accesskey     "f">
 <!ENTITY setWallpaperCmd.label        "Definir como imagem de fundo do ambiente de trabalho">
 <!ENTITY setWallpaperCmd.accesskey    "D">
 <!ENTITY bookmarkPageCmd.label        "Adicionar página aos marcadores">

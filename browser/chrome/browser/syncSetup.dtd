@@ -4,7 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Bem vindo, se nunca usou o &syncBrand.fullName.label; antes, tem de criar uma nova conta.">
 <!ENTITY button.createNewAccount.label "Criar uma nova conta">
-<!ENTITY setup.haveAccount.label "Eu já tenho uma conta do &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Eu já tenho uma conta do &syncBrand.fullName.label;.">
 <!ENTITY button.connect.label    "Ligar">
 
 <!ENTITY setup.choicePage.title.label     "Já usou antes o &syncBrand.fullName.label;?">
@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Pode obter uma cópia da sua chave do Sync indo às opções do &syncBrand.shortName.label; do seu outro dispositivo, e seleccionar  &#x0022;A minha chave do Sync&#x0022; em &#x0022;Gerir conta&#x0022;.">
 <!ENTITY verifying.label              "A verificar…">
 <!ENTITY resetPassword.label          "Reiniciar a minha senha">
-<!ENTITY resetSyncKey.label           "Perdi o meu outro dispositivo">
+<!ENTITY resetSyncKey.label           "Perdi o meu outro dispositivo.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opções do Sync">
