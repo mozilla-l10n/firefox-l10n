@@ -11,7 +11,7 @@
 <!ENTITY reorderUpButton.accesskey "c">
 <!ENTITY reorderDownButton.label "Para baixo">
 <!ENTITY reorderDownButton.accesskey "b">
-<!ENTITY filterHeader.label "Os filtros ligados estão a funcionar automáticamente na ordem mostrada em baixo.">
+<!ENTITY filterHeader.label "Os filtros ligados estão a funcionar automaticamente na ordem mostrada em baixo.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "o">
 <!ENTITY viewLogButton.label "Registo do Filtro">

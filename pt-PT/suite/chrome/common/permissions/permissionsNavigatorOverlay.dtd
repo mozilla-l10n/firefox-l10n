@@ -9,7 +9,7 @@
 <!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies de sessão para este sítio">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Este sítio pode usar cookies apenas para a sessão actual.">
-<!ENTITY cookieCookiesDefaultCmd.label "Usar premissões de cookies pré-definidos">
+<!ENTITY cookieCookiesDefaultCmd.label "Usar permissões de cookies pré-definidos">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
 <!ENTITY cookieCookiesDefaultMsg.label "Cookies deste sítio serão aceites ou rejeitados baseado nas pré-definições.">
 <!ENTITY cookieBlockCookiesCmd.label "Bloquear cookies deste sítio">

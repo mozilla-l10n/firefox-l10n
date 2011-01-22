@@ -4,9 +4,9 @@
 <!ENTITY addpref.value          "Valor">
 
 <!ENTITY cancel.label           "Cancelar">
-<!ENTITY reset.label            "Reset">
+<!ENTITY reset.label            "Limpar">
 <!ENTITY done.label             "Feito">
 
 <!ENTITY integer.label          "Inteiro">
 <!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boleano">
+<!ENTITY boolean.label          "Booleano">

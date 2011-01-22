@@ -42,7 +42,7 @@
 <!ENTITY cmd.resume.tooltip              "Resumir">
 <!ENTITY cmd.retry.tooltip               "Tentar novamente">
 <!ENTITY cmd.cancel.tooltip              "Cancelar">
-<!ENTITY cmd.open.label                  "Abir">
+<!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.show.label                  "Abrir a pasta respectiva">
 <!ENTITY cmd.show.accesskey              "b">

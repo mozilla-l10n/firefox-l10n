@@ -69,7 +69,7 @@
 <!ENTITY statusColumn.tooltip "Clique para ordenar por estado">
 <!ENTITY sizeColumn.tooltip "Clique para ordenar por tamanho">
 <!ENTITY junkStatusColumn.tooltip "Clique para ordenar pelo estado do lixo">
-<!ENTITY unreadColumn.tooltip "Nmero de mensagens no lidas neste tópico">
+<!ENTITY unreadColumn.tooltip "Número de mensagens no lidas neste tópico">
 <!ENTITY totalColumn.tooltip "Número total de mensagens neste tópico">
 <!ENTITY readColumn.tooltip "Clique para ordenar por lidas">
 <!ENTITY receivedColumn.tooltip "Clique para ordenar por data de recepção">

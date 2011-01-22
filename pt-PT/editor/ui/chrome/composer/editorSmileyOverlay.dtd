@@ -62,7 +62,7 @@
 <!ENTITY smiley7Cmd.tooltip "Inserir uma cara indeciso">
 <!ENTITY smiley8Cmd.label "Surpreso">
 <!ENTITY smiley8Cmd.accesskey "p">
-<!ENTITY smiley8Cmd.tooltip "Inserir uma cara supreendida">
+<!ENTITY smiley8Cmd.tooltip "Inserir uma cara surpreendida">
 <!ENTITY smiley9Cmd.label "Beijo">
 <!ENTITY smiley9Cmd.accesskey "B">
 <!ENTITY smiley9Cmd.tooltip "Inserir um beijo">

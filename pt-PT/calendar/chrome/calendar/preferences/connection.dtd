@@ -46,11 +46,11 @@
 <!ENTITY  proxyTitle.label              "Configurar Proxies para Aceder à Internet">
 <!ENTITY  directTypeRadio.label         "Ligação directa à Internet">
 <!ENTITY  directTypeRadio.accesskey     "d">
-<!ENTITY  WPADTypeRadio.label           "Detecção automatica das definições de proxy para esta rede">
+<!ENTITY  WPADTypeRadio.label           "Detecção automática das definições de proxy para esta rede">
 <!ENTITY  WPADTypeRadio.accesskey       "ç">
 <!ENTITY  manualTypeRadio.label         "Configuração manual do proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "f">
-<!ENTITY  autoTypeRadio.label           "URL de configuração automatica do proxy:">
+<!ENTITY  autoTypeRadio.label           "URL de configuração automática do proxy:">
 <!ENTITY  autoTypeRadio.accesskey       "n">
 <!ENTITY  reload.label                  "Recarregar">
 <!ENTITY  reload.accesskey              "e">

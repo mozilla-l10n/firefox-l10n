@@ -16,7 +16,7 @@
 <!ENTITY  serif.accesskey                         "s">
 <!ENTITY  sans-serif.label                        "Sem-serifa:">
 <!ENTITY  sans-serif.accesskey                    "e">
-<!ENTITY  monospace.label                         "Monospaçada:">
+<!ENTITY  monospace.label                         "Monoespaçada:">
 <!ENTITY  monospace.accesskey                     "m">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 <!ENTITY  fantasy.label                           "Fantasia:">

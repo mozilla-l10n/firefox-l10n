@@ -251,7 +251,7 @@
 <!ENTITY recurrence.title.label                         "Editar Recorrência">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Não repete">
-<!ENTITY event.repeat.daily.label                       "Diáriamente">
+<!ENTITY event.repeat.daily.label                       "Diariamente">
 <!ENTITY event.repeat.weekly.label                      "Semanalmente">
 <!ENTITY event.repeat.every.weekday.label               "Todos os dias da semana">
 <!ENTITY event.repeat.bi.weekly.label                   "Bi-semanalmente">
@@ -261,10 +261,10 @@
 
 <!ENTITY event.recurrence.pattern.label                 "Padrão de Repetição">
 <!ENTITY event.recurrence.occurs.label                  "Repetir" >
-<!ENTITY event.recurrence.day.label                     "diáriamente" >
+<!ENTITY event.recurrence.day.label                     "diariamente" >
 <!ENTITY event.recurrence.week.label                    "semanalmente" >
 <!ENTITY event.recurrence.month.label                   "mensalmente" >
-<!ENTITY event.recurrence.year.label                    "anulmente" >
+<!ENTITY event.recurrence.year.label                    "anualmente" >
 
 <!ENTITY event.recurrence.pattern.every.label           "A cada" >
 <!ENTITY repeat.units.days.both                         "Dia(s)" >
@@ -279,7 +279,7 @@
 <!ENTITY event.recurrence.monthly.every.label                     "Todo" >
 <!ENTITY event.recurrence.monthly.first.label            "O primeiro">
 <!ENTITY event.recurrence.monthly.second.label           "O segundo">
-<!ENTITY event.recurrence.monthly.third.label            "O terçeiro">
+<!ENTITY event.recurrence.monthly.third.label            "O terceiro">
 <!ENTITY event.recurrence.monthly.fourth.label           "O quarto">
 <!ENTITY event.recurrence.monthly.fifth.label            "O quinto">
 <!ENTITY event.recurrence.monthly.last.label             "O último ">
@@ -317,7 +317,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.9.label       "Setembro" >
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Outubro" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "Novembro" >
-<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Dezembo" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Dezembro" >
 <!ENTITY event.recurrence.yearly.every.label                 "Todo">
 <!ENTITY event.recurrence.yearly.first.label                 "O primeiro">
 <!ENTITY event.recurrence.yearly.second.label                "O segundo">
@@ -386,7 +386,7 @@
 <!ENTITY read.only.accept.label          "Vou atender">
 <!ENTITY read.only.decline.label         "Não vou atender">
 <!ENTITY read.only.tentative.label       "Posso atender">
-<!ENTITY read.only.needs.action.label    "Comfirmo mais tarde">
+<!ENTITY read.only.needs.action.label    "Confirmo mais tarde">
 <!ENTITY read.only.reminder.label        "Lembrança:">
 <!ENTITY read.only.attendees.label       "Participantes">
 <!ENTITY read.only.description.label     "Descrição">

@@ -104,11 +104,11 @@
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versão">
 <!ENTITY detail.lastupdated.label             "Última actualização">
-<!ENTITY detail.creator.label                 "Desenvolvedor">
+<!ENTITY detail.creator.label                 "Programador">
 <!ENTITY detail.homepage.label                "Página inicial">
 <!ENTITY detail.numberOfDownloads.label       "Transferências">
 
-<!ENTITY detail.contributions.description     "O desenvolvedor deste extra pede para o ajudar no desenvolvimento deste extra com uma pequena contribuição.">
+<!ENTITY detail.contributions.description     "O programador deste extra pede para o ajudar no desenvolvimento deste extra com uma pequena contribuição.">
 
 <!ENTITY detail.updateType                    "Actualizações automáticas">
 <!ENTITY detail.updateDefault.label           "Pré-definição">

@@ -318,10 +318,10 @@
 <!ENTITY calendarproperties.name.label     "Nome:">
 <!ENTITY calendarproperties.readonly.label "Apenas de leitura">
 <!ENTITY calendarproperties.firealarms.label "Mostrar Alarmes">
-<!ENTITY calendarproperties.cache.label    "Cache (EXPERIMENTAL, necessita re-ínicio)">
-<!ENTITY calendarproperties.enabled.label "Acivar este calendário">
+<!ENTITY calendarproperties.cache.label    "Cache (EXPERIMENTAL, necessita reinício)">
+<!ENTITY calendarproperties.enabled.label "Activar este calendário">
 <!ENTITY calendarproperties.forceDisabled.label            "O fornecedor deste calendário não foi encontrado. Isto acontece se desactivou ou desinstalou determinados extras.">
-<!ENTITY calendarproperties.unsubscribe.label              "Des-subscrever">
+<!ENTITY calendarproperties.unsubscribe.label              "Cancelar subscrição">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "u">
 
 <!-- Calendar Publish Dialog -->

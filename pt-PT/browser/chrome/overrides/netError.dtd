@@ -131,7 +131,7 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li>
-  <li>Por favor informe os donos do sítio web do problema. Alternativamente, use o comando no menu Ajuda para reportar o mau funcionamendo deste sítio.</li>
+  <li>Por favor informe os donos do sítio web do problema. Alternativamente, use o comando no menu Ajuda para reportar o mau funcionamento deste sítio.</li>
 </ul>
 ">
 
@@ -147,7 +147,7 @@ tentar mais tarde.</li>
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>O sítio pode estar temporáriamente indisponível ou ocupado. Tente novamente
+  <li>O sítio pode estar temporariamente indisponível ou ocupado. Tente novamente
     dentro de alguns momentos.</li>
   <li>Se não conseguir carregar nenhuma página, verifique a ligação de rede 
     do seu computador.</li>

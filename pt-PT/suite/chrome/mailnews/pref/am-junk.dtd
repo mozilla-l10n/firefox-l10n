@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Configurações do Lixo">
-<!ENTITY trainingWarning.label "Se activado, tem primeiro de treinar o &brandShortName; para identificar o lixo electrónico utilizando o botão lixo na barra de ferramentas para marcar a mensagem como sendou lixo ou não. tem de identificar as mensagens como sendo lixo ou não.">
+<!ENTITY trainingWarning.label "Se activado, tem primeiro de treinar o &brandShortName; para identificar o lixo electrónico utilizando o botão lixo na barra de ferramentas para marcar a mensagem como sendo lixo ou não. tem de identificar as mensagens como sendo lixo ou não.">
 <!ENTITY level.label "Activar os controlos de lixo adaptativos para esta conta">
 <!ENTITY level.accesskey "A">
 

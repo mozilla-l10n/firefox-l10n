@@ -44,7 +44,7 @@
 <!ENTITY sunbird.import.button.tooltip                     "Importar eventos de um ficheiro local" >
 <!ENTITY sunbird.export.button.tooltip                     "Exportar eventos para um ficheiro local" >
 <!ENTITY sunbird.subscribe.button.tooltip                  "Subscrever a um ficheiro de calendário numa máquina remota" >
-<!ENTITY sunbird.publish.button.tooltip                    "Publicar eventos para uma máquina remotae" >
+<!ENTITY sunbird.publish.button.tooltip                    "Publicar eventos para uma máquina remota" >
 <!ENTITY sunbird.unifinder.button.tooltip                  "Procurar e listar eventos" >
 <!ENTITY sunbird.edit.button.tooltip                       "Editar evento seleccionado" >
 
@@ -57,7 +57,7 @@
 <!ENTITY sunbird.import.button.label                       "Importar" >
 <!ENTITY sunbird.export.button.label                       "Exportar" >
 <!ENTITY sunbird.subscribe.button.label                    "Subscrever" >
-<!ENTITY sunbird.publish.button.label                      "Publicarh" >
+<!ENTITY sunbird.publish.button.label                      "Publicar" >
 <!ENTITY sunbird.unifinder.button.label                    "Procurar eventos" >
 <!ENTITY sunbird.edit.button.label                         "Editar" > 
 

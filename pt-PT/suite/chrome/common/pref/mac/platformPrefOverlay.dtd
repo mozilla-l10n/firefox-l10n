@@ -10,5 +10,5 @@
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label                 "&#8984;+Regressar na barra de localização">
 <!ENTITY urlbar.accesskey             "l">
-<!ENTITY middleClick.label            "Clique central, &#8984;+clique ou &#8984;+regrassa a ligações numa página web">
+<!ENTITY middleClick.label            "Clique central, &#8984;+clique ou &#8984;+Enter em ligações numa página web">
 <!ENTITY middleClick.accesskey        "n">

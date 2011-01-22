@@ -10,7 +10,7 @@
 <!ENTITY syncTypeNews.accesskey "n">
 <!ENTITY sendMessage.label "Enviar mensagens por Enviar">
 <!ENTITY sendMessage.accesskey "E">
-<!ENTITY workOffline.label "Trabalhar no modo desligado uma vez tranferido e/ou sincronização completa">
+<!ENTITY workOffline.label "Trabalhar no modo desligado uma vez transferido e/ou sincronização completa">
 <!ENTITY workOffline.accesskey "m">
 <!ENTITY selectButton.label "Seleccione...">
 <!ENTITY selectButton.accesskey "S">
