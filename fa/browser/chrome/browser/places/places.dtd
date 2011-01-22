@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "سازمان‌دهی">
 <!ENTITY organize.accesskey    "س">
+<!ENTITY organize.tooltip "سازمان‌دهی نشانک‌ها">
 
 <!ENTITY file.accesskey                 "پ">
 <!ENTITY file.close.label               "بستن">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                 "و">
 <!ENTITY views.label                    "نماها">
 <!ENTITY views.accesskey                "ن">
+<!ENTITY views.tooltip "تغییر نما">
 <!ENTITY view.toolbar.label             "نوار ابزار">
 <!ENTITY view.toolbar.accesskey         "ن">
 <!ENTITY view.columns.label             "نمایش ستون‌ها">
@@ -138,6 +140,7 @@
 
 <!ENTITY search.label                              "جست‌وجو:">
 <!ENTITY search.accesskey                          "ج">
+<!ENTITY search.in.label "جست‌وجو در:">
 <!ENTITY search.scopeFolder.label                  "پوشهٔ انتخاب شده">
 <!ENTITY search.scopeFolder.accesskey              "">
 <!ENTITY search.scopeBookmarks.label               "نشانک‌ها">
@@ -197,6 +200,7 @@
 
 <!ENTITY maintenance.label      "وارد کردن و پشتیبان‌گیری">
 <!ENTITY maintenance.accesskey  "و">
+<!ENTITY maintenance.tooltip ",ارد کردن و پشتیبان‌گیری از نشانک‌ها">
 
 <!ENTITY backCmd.label       "عقب">
 <!ENTITY backButton.tooltip  "برگشتن">
@@ -210,3 +214,18 @@
 <!ENTITY detailsPane.less.accesskey "ک">
 <!ENTITY detailsPane.noPreviewAvailable.label "پیش‌نمایش">
 <!ENTITY detailsPane.selectAnItemText.description "یک مورد را برای مشاهده و ویرایش انتخاب کنید">
+
+<!ENTITY find.label                "جست‌وجو:">
+<!ENTITY find.accesskey            "ج">
+<!ENTITY byDate.label "‌بر حسب تاریخ">
+<!ENTITY byDate.accesskey "ت">
+<!ENTITY bySite.label "بر حسب پایگاه">
+<!ENTITY bySite.accesskey "پ">
+<!ENTITY view.label "نما">
+<!ENTITY view.accesskey "ن">
+<!ENTITY byMostVisited.label "بر حسب بیشترین بازدید">
+<!ENTITY byMostVisited.accesskey "ب">
+<!ENTITY byLastVisited.label "بر حسب آخرین بازدید">
+<!ENTITY byLastVisited.accesskey "خ">
+<!ENTITY byDayAndSite.label "بر حسب تاریخ و پایگاه">
+<!ENTITY byDayAndSite.accesskey "ر">
