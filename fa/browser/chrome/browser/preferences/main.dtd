@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "نمایش صفحهٔ آغازه">
 <!ENTITY startupBlankPage.label    "نمایش صفحهٔ خالی">
 <!ENTITY startupLastSession.label  "نمایش صفحات و زبانه‌های قبلی">
-<!ENTITY location.label            "صفحهٔ آغازه:">
-<!ENTITY location.accesskey        "ص">
+<!ENTITY homepage.label "صفحهٔ آغازه">
+<!ENTITY homepage.accesskey "ص">
 <!ENTITY useCurrentPage.label      "استفاده از صفحات فعلی">
 <!ENTITY useCurrentPage.accesskey  "ف">
 <!ENTITY useMultiple.label         "استفاده از صفحات فعلی">

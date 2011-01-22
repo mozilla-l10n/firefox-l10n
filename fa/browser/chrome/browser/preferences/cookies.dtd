@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "کوکی‌های زیر در رایانهٔ شما ذخیره شده‌اند:">
 <!ENTITY     cookiename.label               "نام کوکی">
 <!ENTITY     cookiedomain.label             "وب‌گاه"> 
+<!ENTITY button.removecookies.label "حذف کوکی‌ها">
 <!ENTITY     button.removecookie.label      "حذف کوکی">
 <!ENTITY     button.removecookie.accesskey  "ح">
 <!ENTITY     button.removeallcookies.label  "حذف همهٔ کوکی‌‌ها">

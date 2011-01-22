@@ -12,3 +12,5 @@
 
 <!ENTITY switchToNewTabs.label        "هنگام بازکردن یک پیوند در زبانهٔ جدید، بلافاصله آن زبانه نمایش داده شود">
 <!ENTITY switchToNewTabs.accesskey    "ه">
+<!ENTITY showTabsInTaskbar.label "پیش‌نمایش زبانه‌ها در نوار وضعیت ویندوز">
+<!ENTITY showTabsInTaskbar.accesskey "ز">

@@ -51,6 +51,7 @@
 <!ENTITY  font.langGroup.telugu                   "تلوگویی">
 <!ENTITY  font.langGroup.kannada                  "کاناده‌ای">
 <!ENTITY  font.langGroup.sinhala                  "سینهالی">
+<!ENTITY font.langGroup.tibetan "تبتی">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "حداقل اندازهٔ قلم:">
 <!ENTITY minSize.accesskey                        "ل">

@@ -56,19 +56,11 @@
 <!ENTITY  dontrememberActions.pre.label          "ممکن است همچنین بخواهید ">
 <!ENTITY  dontrememberActions.clearHistory.label "تمام تاریخچهٔ موجود را پاک کنید">
 <!ENTITY  dontrememberActions.post.label         ".">
+<!ENTITY privateBrowsingPermanent.label "حالت مرور خصوصی دائمی">
+<!ENTITY privateBrowsingPermanent.accesskey "م">
 
-<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; به صورت خودکار در حالت مرور خصوصی شروع به کار کند">
-<!ENTITY  privateBrowsingAutoStart.accesskey "م">
-
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "تاریخچهٔ مرور من حداقل">
-<!ENTITY  rememberHistory.pre.accesskey  "خ">
-<!ENTITY  rememberHistory.post.label     "روز نگهداری شود">
+<!ENTITY rememberHistory.label "تاریخچهٔ مرور به خاطر سپرده شود">
+<!ENTITY rememberHistory.accesskey "خ">
 
 <!ENTITY  rememberDownload.label         "تاریخچهٔ بارگیری به خاطر سپرده شود">
 <!ENTITY  rememberDownload.accesskey     "ب">
