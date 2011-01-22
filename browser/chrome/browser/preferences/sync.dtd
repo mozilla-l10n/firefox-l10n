@@ -4,8 +4,10 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; तुम्हाला इतिहास, पुस्तकखुणे, पासवर्डस् व सर्व साधनांकरीता टॅब्स् उघडण्यास परवानगी देतो.">
 
 <!-- The page shown when logged in... -->
+<!--
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; खाते">
 <!ENTITY currentAccount.label         "खाते निर्माण करा:">
+-->
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "सुधारणी करा">
@@ -18,10 +20,14 @@
 <!ENTITY changePassword.label         "पासवर्ड बदला">
 <!ENTITY mySyncKey.label              "माझी सिंक कि">
 <!ENTITY resetSync.label              "ताळमेळ मूळस्थितीत आणा">
+<!--
 <!ENTITY stopUsingAccount.label       "या खात्याचा वापर थांबवा">
+-->
 
 <!-- Sync Settings -->
+<!--
 <!ENTITY syncPrefsCaption.label       "ब्राउजर ताळमेळ">
+-->
 <!ENTITY syncComputerName.label       "संगणकाचे नाव:">
 <!ENTITY syncComputerName.accesskey   "c">
 
