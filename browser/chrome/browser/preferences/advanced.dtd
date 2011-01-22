@@ -17,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "ل">
 <!ENTITY useSmoothScrolling.label        "استفاده از لغزش هموار">
 <!ENTITY useSmoothScrolling.accesskey    "ه">
+<!ENTITY allowHWAccel.label "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
+<!ENTITY allowHWAccel.accesskey "ش">
 <!ENTITY checkSpelling.label             "بررسی املا در هنگام وارد کردن متن">
 <!ENTITY checkSpelling.accesskey         "م">
 
@@ -37,6 +39,9 @@
 <!ENTITY connectionSettings.accesskey    "ت">
 
 <!ENTITY offlineStorage.label            "انبارهٔ غیر متصل">
+<!ENTITY limitCacheSizeBefore.label "محدود کردن حافظهٔ نهان به">
+<!ENTITY limitCacheSizeBefore.accesskey "م">
+<!ENTITY limitCacheSizeAfter.label "مگابایت فضا">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -44,11 +49,10 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "استفاده تا حداکثر">
-<!ENTITY useCacheBefore.accesskey        "ا">
-<!ENTITY useCacheAfter.label             "مگابایت از فضای دیسک برای حافظهٔ نهان.">
 <!ENTITY clearCacheNow.label             "هم‌اکنون پاک شود">
 <!ENTITY clearCacheNow.accesskey         "ه">
+<!ENTITY overrideSmartCacheSize.label "مدیریت دستی حافظهٔ نهان">
+<!ENTITY overrideSmartCacheSize.accesskey "د">
 
 <!ENTITY updateTab.label                 "به‌هنگام‌سازی">
 

@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "پ">
 <!ENTITY disableContextMenus.label      "منوهای زمینه را از کار بیاندازند یا جایگزین کنند">
 <!ENTITY disableContextMenus.accesskey  "ک">
-<!ENTITY hideStatusBar.label            "نوار وضعیت را مخفی کنند">
-<!ENTITY hideStatusBar.accesskey        "م">
-<!ENTITY changeStatusBar.label          "متن نوار وضعیت را عوض کنند">
-<!ENTITY changeStatusBar.accesskey      "ع">
