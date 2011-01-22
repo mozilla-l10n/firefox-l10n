@@ -68,7 +68,8 @@
 <!ENTITY setup.existingSyncKeyPage.title "कृपया सिंक कि द्या">
 <!ENTITY setup.existingSyncKeyPage.description "तुमच्यासाठी सिंक कि निर्माण केली गेली, किंवा, &syncBrand.fullName.label; करीता प्रवेश करतेवेळी तुम्ही स्वतः दिले. ते पासवर्ड प्रमाणे समान नाही."> -->
 <!-- <!ENTITY existingSyncKeyHelp.description "इतर संगणकावर जाऊन व सुरक्षा अंतर्गत साठवलेले पासवर्डस् तपासून साठवलेले सिंक कि शोधणे शक्य आहे. योग्य सिंक कि प्राप्त होत नसल्यावरही, तुम्ही त्यांस मुळस्थितीत नेऊ शकता, परंतु सर्व्हरवरील कुठलेहि साठवलेला डाटा तुम्ही गमवाल."> -->
-<!ENTITY lostSyncKey.label            "माझी सिंक कि हरवली आहे">
+<!-- <!ENTITY lostSyncKey.label            "माझी सिंक कि हरवली आहे">
+-->
 <!ENTITY verifying.label              "तपासत आहे…">
 
 <!-- Sync Options -->
