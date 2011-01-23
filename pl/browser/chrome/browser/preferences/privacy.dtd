@@ -57,10 +57,10 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent.label "Pracuj ciągle w trybie prywatnym">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent.accesskey "r">
 
 <!ENTITY  rememberHistory.label          "Pamiętaj historię przeglądania">
-<!ENTITY  rememberHistory.accesskey      "h">
+<!ENTITY  rememberHistory.accesskey      "s">
 
 <!ENTITY  rememberDownload.label         "Pamiętaj historię pobierania plików">
 <!ENTITY  rememberDownload.accesskey     "b">
@@ -69,7 +69,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Czyść historię podczas zamykania programu &brandShortName;">
-<!ENTITY  clearOnClose.accesskey         "C">
+<!ENTITY  clearOnClose.accesskey         "z">
 
 <!ENTITY  clearOnCloseSettings.label     "Ustawienia…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
