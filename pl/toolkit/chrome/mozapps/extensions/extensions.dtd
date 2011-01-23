@@ -40,7 +40,7 @@
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Znajdź aktualizacje">
-<!ENTITY updates.checkForUpdates.accesskey    "a">
+<!ENTITY updates.checkForUpdates.accesskey    "n">
 <!ENTITY updates.viewUpdates.label            "Wyświetl ostatnie aktualizacje">
 <!ENTITY updates.viewUpdates.accesskey        "W">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
@@ -55,9 +55,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Przestaw wszystkie dodatki na automatyczną aktualizację">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "e">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "P">
 <!ENTITY updates.resetUpdatesToManual.label          "Przestaw wszystkie dodatki na ręczną aktualizację">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "e">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "P">
 <!ENTITY updates.updating.label               "Aktualizacja dodatków">
 <!ENTITY updates.installed.label              "Dodatki zostały zaktualizowane.">
 <!ENTITY updates.downloaded.label             "Pobrano aktualizacje dodatków.">
