@@ -24,7 +24,7 @@
 
 <!ENTITY aboutSupport.appBasicsUserAgent "Identyfikator programu">
 
-<!ENTITY aboutSupport.show.label "Otwórz folder nadrzędny">
+<!ENTITY aboutSupport.show.label "Pokaż zawartość folderu">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
