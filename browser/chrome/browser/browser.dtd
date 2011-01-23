@@ -10,6 +10,28 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(مرور خصوصی)‏">
+<!ENTITY reloadTab.label "بازآوری زبانه">
+<!ENTITY reloadTab.accesskey "ی">
+<!ENTITY reloadAllTabs.label "بازآوری همهٔ زبانه‌ها">
+<!ENTITY reloadAllTabs.accesskey "ه">
+<!ENTITY closeOtherTabs.label "بستن زبانه‌های دیگر">
+<!ENTITY closeOtherTabs.accesskey "گ">
+<!ENTITY pinAppTab.label "تبدیل به زبانهٔ برنامه">
+<!ENTITY pinAppTab.accesskey "ز">
+<!ENTITY unpinAppTab.label "تبدیل به زبانهٔ عادی">
+<!ENTITY unpinAppTab.accesskey "ع">
+<!ENTITY moveToGroup.label "انتقال به گروه">
+<!ENTITY moveToGroup.accesskey "ق">
+<!ENTITY moveToNewGroup.label "گروه جدید">
+<!ENTITY moveToNewWindow.label "انتقال به پنجرهٔ جدید">
+<!ENTITY moveToNewWindow.accesskey "پ">
+<!ENTITY bookmarkAllTabs.label "نشانک‌گذاری همهٔ زبانه‌ها…">
+<!ENTITY bookmarkAllTabs.accesskey "ن">
+<!ENTITY undoCloseTab.label "واگرد بستن زبانه">
+<!ENTITY undoCloseTab.accesskey "و">
+<!ENTITY closeTab.label "بستن زبانه">
+<!ENTITY closeTab.accesskey "ب">
+<!ENTITY listAllTabs.label "فهرست کردن همهٔ زبانه‌ها">
 
 <!ENTITY tabCmd.label "زبانهٔ جدید">
 <!ENTITY tabCmd.accesskey "ز">
@@ -39,8 +61,8 @@
 <!ENTITY personalbarCmd.label "نوار ابزار نشانک‌ها">
 <!ENTITY personalbarCmd.accesskey "ا">
 <!ENTITY bookmarksToolbarItem.label "موارد نوار ابزار نشانک‌ها">
-<!ENTITY taskbarCmd.label "نوار وضعیت">
-<!ENTITY taskbarCmd.accesskey "و">
+<!ENTITY addonBarCmd.label "نوار افزودنی‌ها">
+<!ENTITY addonBarCmd.accesskey "ف">
 
 <!ENTITY pageSourceCmd.label "متن صفحه">
 <!ENTITY pageSourceCmd.accesskey "ف">
@@ -72,7 +94,7 @@
 <!ENTITY subscribeToPageMenupopup.label "آبونه شدن این صفحه">
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن این صفحه…">
 <!ENTITY addCurPagesCmd.label "نشانک‌گذاری تمامی زبانه‌ها…">
-<!ENTITY organizeBookmarks.label "سازمان‌دهی نشانک‌ها…">
+<!ENTITY showAllBookmarks2.label "نمایش همهٔ نشانک‌ها">
 <!ENTITY bookmarkAllCmd.label "نشانک‌گذاری تمامی زبانه‌ها…">
 <!ENTITY bookmarksToolbarChevron.tooltip "نشانک‌های بیشتری نمایش داده شود">
 
@@ -82,7 +104,6 @@
 <!ENTITY forwardCmd.label             "جلو">
 <!ENTITY forwardCmd.accesskey         "ج">
 <!ENTITY forwardButton.tooltip        "جلو رفتن به یک صفحه بعد">
-<!ENTITY backForwardMenu.tooltip      "صفحه‌های اخیر">
 <!ENTITY reloadCmd.label              "بازآوردن">
 <!ENTITY reloadCmd.accesskey          "و">
 <!ENTITY reloadButton.tooltip         "بازآوردن همین صفحه">
@@ -94,19 +115,30 @@
 <!ENTITY feedButton.tooltip           "آبونه شدن این صفحه…">
 <!ENTITY printButton.label            "چاپ">
 <!ENTITY printButton.tooltip          "چاپ کردن این صفحه">
+<!ENTITY backForwardItem.title "عقب/جلو">
 
 <!ENTITY locationItem.title           "مکان">
 <!ENTITY searchItem.title             "جست‌وجو">
 <!ENTITY throbberItem.title           "شاخص فعالیت">
 <!ENTITY bookmarksItem.title          "نشانک‌ها">
+<!ENTITY appMenuButton.label "منو">
+<!ENTITY appMenuButton.tooltip "باز کردن منوی &brandShortName;">
 
 <!-- Toolbar items --> 
 <!ENTITY  homeButton.label            "آغازه">
+<!ENTITY tabGroupsButton.label "گروه‌بندی زبانه‌ها">
+<!ENTITY tabGroupsButton.tooltip "زبانه‌های موجود را گروه‌بندی کنید">
+<!ENTITY feedButton.label "آبونه شدن">
 
 <!ENTITY bookmarksButton.label          "نشانک‌ها">
 <!ENTITY bookmarksButton.tooltip        "نمایش نشانک‌ها">
 <!ENTITY bookmarksButton.accesskey  "ن">
 <!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksMenuButton.label "نشانک‌ها">
+<!ENTITY bookmarksMenuButton.tooltip "نمایش نشانک‌ها">
+<!ENTITY bookmarksMenuButton.unsorted.label "نشانک‌های مرتب نشده">
+<!ENTITY viewBookmarksSidebar.label "نمایش در نوار کناری">
+<!ENTITY viewBookmarksToolbar.label "نمایش نوار ابزار نشانک‌ها">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -131,12 +163,30 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "افزودنی‌ها">
-<!ENTITY addons.tooltip               "نمایش و مدیریت افزودنی‌های نصب شده">
 <!ENTITY addons.accesskey             "ا">
+<!ENTITY addons.commandkey "A">
 
 <!ENTITY errorConsoleCmd.label        "پیشانهٔ خطاها">
 <!ENTITY errorConsoleCmd.accesskey    "پ">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!ENTITY webConsoleCmd.label "پیشانهٔ وب">
+<!ENTITY webConsoleCmd.accesskey "و">
+<!ENTITY webConsoleCmd.commandkey "k">
+<!ENTITY inspectMenu.label "وارسی">
+<!ENTITY inspectMenu.accesskey "و">
+<!ENTITY inspectMenu.commandkey "I">
+<!ENTITY inspectPanelTitle.label "HTML">
+<!ENTITY inspectButton.label "وارسی">
+<!ENTITY inspectButton.accesskey "و">
+<!ENTITY inspectNextButton.label "بعدی">
+<!ENTITY inspectNextButton.accesskey "ب">
+<!ENTITY inspectPreviousButton.label "قبلی">
+<!ENTITY inspectPreviousButton.accesskey "ق">
+<!ENTITY inspectStyleButton.label "سبک">
+<!ENTITY inspectStyleButton.accesskey "س">
+<!ENTITY inspectStylePanelTitle.label "سبک">
+<!ENTITY inspectObjectButton.label "شیء">
+<!ENTITY inspectObjectButton.accesskey "ش">
 
 <!ENTITY fileMenu.label         "پرونده"> 
 <!ENTITY fileMenu.accesskey       "پ">
@@ -167,13 +217,12 @@
 <!ENTITY selectAllCmd.label         "انتخاب همه">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "ه"> 
-<!ENTITY preferencesCmd.label       "گزینه‌ها…">
-<!ENTITY preferencesCmd.accesskey     "گ"> 
+<!ENTITY preferencesCmd2.label "گزینه‌ها">
+<!ENTITY preferencesCmd2.accesskey "گ">
 <!ENTITY preferencesCmdUnix.label       "ترجیحات">
 <!ENTITY preferencesCmdUnix.accesskey     "ح"> 
-
-<!ENTITY clearRecentHistoryCmd.label            "پاک‌سازی تاریخچهٔ اخیر">
-<!ENTITY clearRecentHistoryCmd.accesskey        "پ">
+<!ENTITY clearRecentHistory.label "پاک‌سازی تاریخچهٔ اخیر…">
+<!ENTITY clearRecentHistory.accesskey "پ">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "شروع مرور خصوصی">
@@ -184,29 +233,42 @@
 
 <!ENTITY viewMenu.label         "نما"> 
 <!ENTITY viewMenu.accesskey       "ن"> 
+<!ENTITY viewTabGroups.label "گروه‌بندی زبانه‌ها">
+<!ENTITY viewTabGroups.accesskey "گ">
 <!ENTITY viewToolbarsMenu.label       "نوار ابزار"> 
 <!ENTITY viewToolbarsMenu.accesskey     "ن"> 
 <!ENTITY viewSidebarMenu.label "نوار کناری">
 <!ENTITY viewSidebarMenu.accesskey "ک">
 <!ENTITY viewCustomizeToolbar.label       "سفارشی‌سازی…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "س">
+<!ENTITY viewTabsOnTop.label "زبانه‌ها در بالا">
+<!ENTITY viewTabsOnTop.accesskey "ب">
 
 <!ENTITY historyMenu.label "تاریخچه">
 <!ENTITY historyMenu.accesskey "ت">
 <!ENTITY historyUndoMenu.label "زبانه‌های تازه بسته شده">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "پنجره‌های تازه بسته شده">
+<!ENTITY historyRestoreLastSession.label "بازآوری نشست قبلی">
 
 <!ENTITY historyHomeCmd.label "آغازه">
 <!ENTITY showAllHistoryCmd2.label "نمایش تمام تاریخچه">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY appMenuEdit.label "ویرایش">
+<!ENTITY appMenuCustomize.label "سفارشی‌سازی">
+<!ENTITY appMenuToolbarLayout.label "ساختار نوار ابزار…">
+<!ENTITY appMenuSidebars.label "نوارهای کناری">
+<!ENTITY appMenuFind.label "پیدا کردن…">
+<!ENTITY appMenuUnsorted.label "نشانک‌های مرتب نشده">
+<!ENTITY appMenuWebDeveloper.label "توسعه‌دهندگان وب">
+<!ENTITY appMenuGettingStarted.label "راهنماع شروع به کار">
+<!ENTITY appMenuSafeMode.label "راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…">
+<!ENTITY appMenuSafeMode.accesskey "م">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "جست‌وجو در نشانک‌ها و تاریخچه">
-<!ENTITY urlbar.bookmark.emptyText    "جست‌وجو در نشانک‌ها">
-<!ENTITY urlbar.history.emptyText     "جست‌وجو در تاریخچه">
-<!ENTITY urlbar.none.emptyText        "یک نشانی وبی وارد کنید">
+<!ENTITY urlbar.placeholder "به یک پایگاه وبی بروید">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label "پرش به زبانه:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -230,11 +292,13 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!ENTITY tabView.commandkey "e">
 
-<!ENTITY openLinkCmd.label            "بازکردن پیوند در پنجرهٔ جدید">
+<!ENTITY openLinkCmd.label            "باز کردن پیوند در پنجرهٔ جدید">
 <!ENTITY openLinkCmd.accesskey        "پ">
+<!ENTITY openLinkCmdInCurrent.label "باز کردن پیوند">
+<!ENTITY openLinkCmdInCurrent.accesskey "ب">
 <!ENTITY openLinkCmdInTab.label       "باز کردن پیوند در زبانهٔ جدید">
 <!ENTITY openLinkCmdInTab.accesskey   "ز">
 <!ENTITY openFrameCmd.label           "باز کردن چارچوب در پنجرهٔ جدید">
@@ -306,8 +370,6 @@
 <!ENTITY sendAudioCmd.accesskey       "ا">
 <!ENTITY copyLinkCmd.label            "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyLinkCmd.accesskey        "ن">
-<!ENTITY copyLinkTextCmd.label        "رونوشت برداشتن از متن پیوند">
-<!ENTITY copyLinkTextCmd.accesskey    "ن">
 <!ENTITY copyImageCmd.label           "رونوشت برداشتن از مکان تصویر">
 <!ENTITY copyImageCmd.accesskey       "م">
 <!ENTITY copyImageContentsCmd.label   "رونوشت برداشتن از تصویر">
@@ -316,7 +378,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "ن">
 <!ENTITY copyAudioURLCmd.label        "رونوشت برداشتن از نشانی پروندهٔ صوتی">
 <!ENTITY copyAudioURLCmd.accesskey    "ن">
-<!ENTITY blockImageCmd.accesskey      "ب">
 <!ENTITY copyEmailCmd.label           "رونوشت برداشتن از نشانی پست الکترونیکی">
 <!ENTITY copyEmailCmd.accesskey       "پ">
 <!ENTITY thisFrameMenu.label              "این چارچوب">
@@ -335,6 +396,8 @@
 <!ENTITY mediaShowControls.accesskey "ن">
 <!ENTITY mediaHideControls.label     "پنهان‌سازی کنترل‌ها">
 <!ENTITY mediaHideControls.accesskey "پ">
+<!ENTITY videoFullScreen.label "تمام صفحه">
+<!ENTITY videoFullScreen.accesskey "ت">
 
 
 <!-- LOCALIZATION NOTE :
@@ -372,6 +435,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyButton.tooltip             "رونوشت برداشتن">
 <!ENTITY pasteButton.tooltip            "چسباندن">
 <!ENTITY fullScreenButton.tooltip       "نمایش پنجره در حالت تمام‌صفحه">
+<!ENTITY zoomOutButton.tooltip "کوچک‌نمایی">
+<!ENTITY zoomInButton.tooltip "بزرگ‌نمایی">
+<!ENTITY zoomControls.label "کنترل‌های زوم">
 
 <!ENTITY quitApplicationCmdWin.label       "خروج"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "خ">
@@ -424,10 +490,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "انجام شد">
 <!ENTITY editBookmark.cancel.label                   "انصراف">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ح">
-<!ENTITY editBookmark.undo.label                     "واگرد">
-<!ENTITY editBookmark.undo.accessKey                 "ب">
-<!ENTITY editBookmark.edit.label                     "ویرایش…">
-<!ENTITY editBookmark.edit.accessKey                 "و">
 
 <!ENTITY identity.unverifiedsite2 "این پایگاه وبی از هویت خود اطلاعاتی فراهم نمی‌کند.">
 <!ENTITY identity.connectedTo "پایگاهی که به آن متصل هستید:">
@@ -449,3 +511,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "برای باز شدن پنجرهٔ بارگیری‌ها کلیک کنید">
 
 <!ENTITY allTabs.filter.emptyText "جست‌وجو در زبانه‌ها">
+<!ENTITY tabsToolbar.label "زبانه‌های مرورگر">
+<!ENTITY syncTabsMenu.label "زبانه‌های باز در رایانه‌های دیگر">
+<!ENTITY syncBrand.shortName.label "هم‌گام‌سازی">
+<!ENTITY syncSetup.label "تنظیم &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey "ظ">
+<!ENTITY syncSyncNowItem.label "انجام هم‌گام‌سازی">
+<!ENTITY syncSyncNowItem.accesskey "ه">
+<!ENTITY syncToolbarButton.label "هم‌گام‌سازی">
+<!ENTITY addonBarCloseButton.tooltip "بستن نوار افزودنی‌ها">
