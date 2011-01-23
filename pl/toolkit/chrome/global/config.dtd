@@ -40,7 +40,7 @@
 
 <!-- about:config warning page -->
 <!ENTITY aboutWarningTitle.label    "Groźba utraty gwarancji!">
-<!ENTITY aboutWarningText.label     "Modyfikacja tych ustawień może spowodować problemy, takie jak utrata stabilności i wydajności programu oraz zagrożenia bezpieczeństwa. Należy kontynuować tylko wtedy, gdy ma się pewność tego, co się robi.">
+<!ENTITY aboutWarningText.label     "Modyfikacja tych ustawień może spowodować problemy, takie jak utrata stabilności i wydajności programu oraz zagrożenie bezpieczeństwa. Należy kontynuować tylko wtedy, gdy ma się pewność tego, co się robi.">
 <!ENTITY aboutWarningButton.label   "Zachowam ostrożność, obiecuję!">
 <!ENTITY aboutWarningCheckbox.label "Wyświetl to ostrzeżenie następnym razem">
 
