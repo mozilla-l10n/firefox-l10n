@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "صفحهٔ اول">
 <!ENTITY endarrow.tooltip     "صفحهٔ آخر">
-<!ENTITY rightarrow.tooltip   "صفحهٔ بعدی">
-<!ENTITY leftarrow.tooltip    "صفحهٔ قبلی">
+<!ENTITY nextarrow.tooltip "صفحهٔ بعدی">
+<!ENTITY previousarrow.tooltip "صفحهٔ قبلی">
