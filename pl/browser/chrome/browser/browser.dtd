@@ -323,19 +323,18 @@ can reach it easily. -->
 -->
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocusUnix.commandkey   "j">
-
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmd.label "Otwórz odnośnik w nowym oknie" >
-<!ENTITY openLinkCmd.accesskey "n" >
 <!ENTITY openLinkCmdInTab.label "Otwórz odnośnik w nowej karcie" >
 <!ENTITY openLinkCmdInTab.accesskey "j" >
+<!ENTITY openLinkCmd.label "Otwórz odnośnik w nowym oknie" >
+<!ENTITY openLinkCmd.accesskey "n" >
 <!ENTITY openLinkCmdInCurrent.label     "Otwórz odnośnik">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmd.label "Otwórz ramkę w nowym oknie" >
-<!ENTITY openFrameCmd.accesskey "n" >
 <!ENTITY openFrameCmdInTab.label "Otwórz ramkę w nowej karcie" >
 <!ENTITY openFrameCmdInTab.accesskey "j" >
+<!ENTITY openFrameCmd.label "Otwórz ramkę w nowym oknie" >
+<!ENTITY openFrameCmd.accesskey "n" >
 <!ENTITY showOnlyThisFrameCmd.label "Pokaż tylko tę ramkę" >
 <!ENTITY showOnlyThisFrameCmd.accesskey "r" >
 <!ENTITY reloadCmd.commandkey "r" >
