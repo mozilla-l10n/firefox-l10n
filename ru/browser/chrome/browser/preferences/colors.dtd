@@ -14,6 +14,6 @@
 <!ENTITY underlineLinks.accesskey "ч">
 <!ENTITY links "Цвет ссылок">
 <!ENTITY linkColor.label "Непросмотренные ссылки:">
-<!ENTITY linkColor.accesskey "п">
+<!ENTITY linkColor.accesskey "м">
 <!ENTITY visitedLinkColor.label "Просмотренные ссылки:">
 <!ENTITY visitedLinkColor.accesskey "р">
