@@ -13,8 +13,8 @@
 
 <!-- all studies window -->
 <!ENTITY testpilot.studiesWindow.title                  "Twoje wyniki badań Pilota testowego">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Bieżące badania">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Zakończone badania">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Badania bieżące">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Badania zakończone">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Wnioski z badań">
 <!ENTITY testpilot.studiesWindow.settings.label         "Ustawienia">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Wczytywanie, proszę czekać…">
