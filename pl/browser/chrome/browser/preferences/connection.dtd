@@ -12,7 +12,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "A">
 <!ENTITY  manualTypeRadio.label         "Ręczna konfiguracja serwerów proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "k">
-<!ENTITY  autoTypeRadio.label           "Adres URL automatycznej konfiguracji:">
+<!ENTITY  autoTypeRadio.label           "Adres URL automatycznej konfiguracji proxy:">
 <!ENTITY  autoTypeRadio.accesskey       "e">
 <!ENTITY  reload.label                  "Odśwież">
 <!ENTITY  reload.accesskey              "d">
