@@ -17,8 +17,9 @@
 <!ENTITY aboutSupport.appBasicsName "نام">
 <!ENTITY aboutSupport.appBasicsVersion "نسخه">
 <!ENTITY aboutSupport.appBasicsProfileDir "مسیر مجموعه تنظیمات">
-<!ENTITY aboutSupport.appBasicsPlugins "متصل‌شونده‌های نصب شده">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "متصل‌شونده‌های فعال">
 <!ENTITY aboutSupport.appBasicsBuildConfig "تنظیمات هنگام ساخت">
+<!ENTITY aboutSupport.appBasicsUserAgent "نام نمایندهٔ کاربر">
 
 <!ENTITY aboutSupport.show.label "باز کردن پوشهٴ مربوطه">
 
@@ -30,6 +31,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsTitle "ترجیحات تغییر یافته">
 <!ENTITY aboutSupport.modifiedPrefsName "نام">
 <!ENTITY aboutSupport.modifiedPrefsValue "مقدار">
+<!ENTITY aboutSupport.graphicsTitle "اطلاعات گرافیکی">
 
 <!ENTITY aboutSupport.installationHistoryTitle "تاریخچهٔ نصب">
 <!ENTITY aboutSupport.updateHistoryTitle "تاریخچهٔ به‌هنگام‌سازی">
