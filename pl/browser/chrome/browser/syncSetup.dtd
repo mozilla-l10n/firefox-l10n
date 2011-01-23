@@ -58,10 +58,10 @@
 <!ENTITY addDevice.title.label              "Dodaj urządzenie">
 <!ENTITY addDevice.showMeHow.label          "Pokaż jak to zrobić">
 <!ENTITY addDevice.dontHaveDevice.label     "Nie mam tego urządzenia przy sobie">
-<!ENTITY addDevice.setup.description.label  "Aby aktywować, przejdź do ustawień &syncBrand.shortName.label; na innym urządzeniu i wybierz &#x0022;Dodaj urządzenie&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "Aby aktywować, przejdź do opcji &syncBrand.shortName.label; na innym urządzeniu i wybierz &#x0022;Dodaj urządzenie&#x0022;.">
 
 <!ENTITY addDevice.setup.enterCode.label    "Następnie wprowadź ten kod:">
-<!ENTITY addDevice.dialog.description.label "Aby aktywować nowe urządzenie, przejdź na nim do ustawień &syncBrand.shortName.label; i wybierz &#x0022;Połącz.&#x0022;">
+<!ENTITY addDevice.dialog.description.label "Aby aktywować nowe urządzenie, przejdź na nim do opcji  &syncBrand.shortName.label; i wybierz &#x0022;Połącz.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Wprowadź kod dostarczony przez to urządzenie:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Ponów próbę.">
 <!ENTITY addDevice.dialog.successful.label  "Urządzenie zostało dodane. Początkowa synchronizacja może potrwać kilka minut i ukończy się w tle.">
@@ -70,7 +70,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Zaloguj">
-<!ENTITY existingSyncKey.description "Możesz odnaleźć klucz Sync, przechodząc na swoje inne urządzenie i w panelu Bezpieczeństwo znajdującym się w ustawieniach sprawdzić zapisane hasła. Jeśli nadal nie możesz uzyskać prawidłowego klucza, możesz go zresetować, ale wówczas stracisz wszystkie dane zapisane na serwerze.">
+<!ENTITY existingSyncKey.description "Aby uzyskać kopię klucza Sync, przejdź do opcji &syncBrand.shortName.label; na danym urządzeniu i wybierz &#x0022;Mój klucz Sync&#x0022; w sekcji &#x0022;Zarządzaj kontem&#x0022;.">
 <!ENTITY verifying.label              "Weryfikowanie…">
 <!ENTITY resetPassword.label          "Resetuj hasło">
 <!ENTITY resetSyncKey.label           "Zagubiono urządzenie">
@@ -100,11 +100,11 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Potwierdzenie">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; dołączy wszystkie dane przeglądarki z tego urządzenia do danych na twoim koncie Sync.">
-<!ENTITY confirm.client2.label          "Ostrzeżenie! Na tym urządzeniu zostaną usunięte następujące dane programu &brandShortName;:">
+<!ENTITY confirm.client2.label          "Uwaga: z tego urządzenia zostaną usunięte następujące dane programu &brandShortName;:">
 <!ENTITY confirm.client.moreinfo.label  "&brandShortName; skopiuje twoje dane z konta &syncBrand.fullName.label; na to urządzenie.">
-<!ENTITY confirm.server2.label          "Ostrzeżenie! Dane na następujących urządzeniach zostaną zastąpione danymi lokalnymi:">
+<!ENTITY confirm.server2.label          "Uwaga: dane na następujących urządzeniach zostaną zastąpione danymi lokalnymi:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Konfiguracja zakończona">
-<!ENTITY changeOptions.label "Możesz zmienić to ustawienie, naciskając znajdujący się poniżej przycisk Opcje synchronizacji.">
+<!ENTITY changeOptions.label "Możesz zmienić to ustawienie wybierając Opcje synchronizacji poniżej.">
 <!ENTITY continueUsing.label "Możesz teraz kontynuować korzystanie z programu &brandShortName;.">
