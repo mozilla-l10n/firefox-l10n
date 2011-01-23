@@ -8,3 +8,5 @@
 
 <!ENTITY blocklist.accept.label      "راه‌اندازی مجدد &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "ر">
+<!ENTITY blocklist.blocked.label "بازداشته شده">
+<!ENTITY blocklist.checkbox.label "غیرفعال کردن">
