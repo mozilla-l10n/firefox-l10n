@@ -1,7 +1,6 @@
-amazondotcom
-answers
-creativecommons
-eBay
+amazon-france
+freelang
 google
-wikipedia
-yahoo
+klask
+wikipedia-br
+yahoo-france
