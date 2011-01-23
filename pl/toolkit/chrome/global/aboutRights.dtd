@@ -54,12 +54,12 @@ odnośniki do wszelkich warunków korzystania z nich powinny znajdować się w s
 <!ENTITY rights2.webservices-c ".">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
-<!ENTITY rights.safebrowsing-b "Wyłączanie funkcji SafeBrowsing jest niezalecane, jako że użytkownik nie będzie wówczas chroniony przed odwiedzaniem niebezpiecznych witryn. Aby wyłączyć tę funkcję całkowicie:">
+<!ENTITY rights.safebrowsing-a "Usługa „Bezpieczne przeglądanie”: ">
+<!ENTITY rights.safebrowsing-b "Wyłączanie funkcji „Bezpieczne przeglądanie” jest niezalecane, jako że użytkownik nie będzie wówczas chroniony przed odwiedzaniem niebezpiecznych witryn. Aby wyłączyć tę funkcję całkowicie:">
 <!ENTITY rights.safebrowsing-term1 "Otwórz opcje programu">
 <!ENTITY rights.safebrowsing-term2 "Przejdź do sekcji Bezpieczeństwo">
 <!ENTITY rights.safebrowsing-term3 "Odznacz opcje „&blockAttackSites.label;” i „&blockWebForgeries.label;”">
-<!ENTITY rights.safebrowsing-term4 "Funkcja SafeBrowsing zostanie wówczas wyłączona">
+<!ENTITY rights.safebrowsing-term4 "Funkcja „Bezpieczne przeglądanie” zostanie wówczas wyłączona">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Udostępnianie witrynom położenia użytkownika: ">
