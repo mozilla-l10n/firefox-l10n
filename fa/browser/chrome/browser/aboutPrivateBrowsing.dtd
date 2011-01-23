@@ -15,8 +15,8 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "شروع مرور خصوصی">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "م">
 
-<!ENTITY privatebrowsingpage.howToStop                 "برای خاتمهٔ مرور خصوصی، گزینهٔ &privateBrowsingCmd.stop.label; را از منوی &toolsMenu.label; انتخاب کنید، یا &brandShortName; را ببندید.">
-<!ENTITY privatebrowsingpage.howToStart                "برای شروع مرور خصوصی، می‌توانید از گزینهٔ &privateBrowsingCmd.start.label; از منوی &toolsMenu.label; نیز استفاده کنید.">
+<!ENTITY privatebrowsingpage.howToStop2 "برای خروج از حالت مرور خصوصی، از منوی &basePBMenu.label;، گزینهٔ &privateBrowsingCmd.stop.label; را انتخاب کنید، یا &brandShortName; را ببندید.">
+<!ENTITY privatebrowsingpage.howToStart2 "برای شروع مرور خصوصی، از منوی &basePBMenu.label;، گزینهٔ &privateBrowsingCmd.start.label; را انتخاب کنید.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "با آن که تاریخچه‌ای از مرور شما در این رایانه باقی نخواهد ماند، فراهم‌کنندهٔ سرویس اینترنت یا کارفرمای شما ممکن است بتوانند شما را ردگیری کنند.">
 <!ENTITY privatebrowsingpage.learnMore                 "بیشتر بدانید">
