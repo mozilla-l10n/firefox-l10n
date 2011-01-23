@@ -3,12 +3,12 @@
 <!ENTITY useCursorNavigation.label "Всегда использовать клавиши курсора для навигации по страницам">
 <!ENTITY useCursorNavigation.accesskey "к">
 <!ENTITY searchStartTyping.label "Искать текст на странице по мере его набора">
-<!ENTITY searchStartTyping.accesskey "с">
+<!ENTITY searchStartTyping.accesskey "а">
 <!ENTITY blockAutoRefresh.label "Предупреждать при попытке веб-сайтов перенаправить или перезагрузить страницу">
 <!ENTITY blockAutoRefresh.accesskey "р">
 <!ENTITY browsing.label "Просмотр сайтов">
 <!ENTITY useAutoScroll.label "Использовать автоматическую прокрутку">
-<!ENTITY useAutoScroll.accesskey "п">
+<!ENTITY useAutoScroll.accesskey "с">
 <!ENTITY useSmoothScrolling.label "Использовать плавную прокрутку">
 <!ENTITY useSmoothScrolling.accesskey "о">
 <!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
@@ -72,12 +72,12 @@
 <!ENTITY certs.auto "Отправлять автоматически">
 <!ENTITY certs.auto.accesskey "а">
 <!ENTITY certs.ask "Спрашивать каждый раз">
-<!ENTITY certs.ask.accesskey "к">
+<!ENTITY certs.ask.accesskey "ш">
 <!ENTITY viewCerts.label "Просмотр сертификатов">
 <!ENTITY viewCerts.accesskey "с">
 <!ENTITY viewCRLs.label "Управление CRL">
-<!ENTITY viewCRLs.accesskey "п">
+<!ENTITY viewCRLs.accesskey "в">
 <!ENTITY verify2.label "Настройки OCSP">
 <!ENTITY verify2.accesskey "р">
 <!ENTITY viewSecurityDevices.label "Устройства защиты">
-<!ENTITY viewSecurityDevices.accesskey "з">
+<!ENTITY viewSecurityDevices.accesskey "о">
