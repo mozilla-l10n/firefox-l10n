@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(بی‌عنوان)">
-<!ENTITY  newTab.label           "زبانهٔ جدید">
-<!ENTITY  newTab.accesskey       "ز">
 <!ENTITY  closeTab.label         "بستن زبانه">
-<!ENTITY  closeTab.accesskey         "ب">
-<!ENTITY  closeOtherTabs.accesskey  "گ">
-<!ENTITY  closeOtherTabs.label   "بستن زبانه‌های دیگر">
-<!ENTITY  reloadAllTabs.label    "بازآوردن همهٔ زبانه‌ها">
-<!ENTITY  reloadAllTabs.accesskey         "ه">
-<!ENTITY  reloadTab.label        "بازآوردن زبانه">
-<!ENTITY  reloadTab.accesskey         "و">
-<!ENTITY  openTabInNewWindow.label    "باز کردن در پنجرهٔ جدید">
-<!ENTITY  openTabInNewWindow.accesskey "ک">
-<!ENTITY  listAllTabs.label      "فهرست همهٔ زبانه‌ها">
-<!ENTITY  bookmarkAllTabs.label       "نشانک‌گذاری تمامی زبانه‌ها…">
-<!ENTITY  bookmarkAllTabs.accesskey   "ت">
-<!ENTITY  bookmarkThisTab.label       "نشانک‌گذاری این زبانه">
-<!ENTITY  bookmarkThisTab.accesskey   "ش">
-<!ENTITY  undoCloseTab.label          "واگرد بستن زبانه">
-<!ENTITY  undoCloseTab.accesskey      "ر">
 <!ENTITY  newTabButton.tooltip        "باز کردن زبانهٔ جدید">
