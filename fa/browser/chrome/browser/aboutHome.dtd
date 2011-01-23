@@ -1,0 +1,8 @@
+<!ENTITY abouthome.pageTitle "صفحهٔ آغازهٔ &brandFullName;">
+<!ENTITY abouthome.brandStart "شروع با <span>&brandShortName;</span>">
+<!ENTITY abouthome.searchEngineButton.label "جست‌وجو">
+<!ENTITY abouthome.searchEngineLinks.advanced "جست‌وجوی پیشرفته">
+<!ENTITY abouthome.searchEngineLinks.preferences "ترجیحات">
+<!ENTITY abouthome.aboutMozilla "دربارهٔ موزیلا">
+<!ENTITY abouthome.defaultSnippet1.v1 "از انتخاب فایرفاکس متشکریم! برای بهترین استفاده از مرورگرتان، پیشنهاد می‌کنیم دربارهٔ <a>جدیدترین ویژگی‌های</a> آن بخوانید.">
+<!ENTITY abouthome.defaultSnippet2.v1 "تغییر فایرفاکس بنا بر سلیقهٔ خاص شما آسان است. <a>از میان هزاران افزودنی موجود انتخاب کنید</a>.">
