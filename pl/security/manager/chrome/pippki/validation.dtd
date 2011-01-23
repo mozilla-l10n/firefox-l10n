@@ -61,7 +61,7 @@
 <!ENTITY  validation.crl.autoupdate.freq.label2   "dni">
 <!ENTITY  validation.crl.autoupdate.url.label     "Lista CRL zostanie zaimportowana z:">
 <!ENTITY  crl.import.status.title                 "Status importu listy CRL">
-<!ENTITY  crl.import.success.message              "Lista certyfikatów unieważnionych (CRL) została pomyślnie zaimportowana.">
+<!ENTITY  crl.import.success.message              "Lista certyfikatów unieważnionych (CRL) została zaimportowana.">
 <!ENTITY  crl.issuer.label                        "CRL wystawiona przez:">
 <!ENTITY  crl.issuer.org.label                    "Organizacja: ">
 <!ENTITY  crl.issuer.orgunit.label                "Jednostka: ">
