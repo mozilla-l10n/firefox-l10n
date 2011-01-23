@@ -1,13 +1,23 @@
 <!ENTITY aboutDialog.title          "دربارهٔ &brandFullName;">
-<!ENTITY copyright                  "دست‌اندرکاران">
-<!ENTITY copyright.accesskey        "د">
-<!ENTITY copyrightGNOME.accesskey   "د">
-<!ENTITY aboutLink                  "&lt; دربارهٔ &brandFullName;">
-<!ENTITY aboutLink.accesskey        "د">
-<!ENTITY aboutVersion               "نسخهٔ">
-<!ENTITY closeCmdGNOME.label        "بستن">  
-<!ENTITY closeCmdGNOME.accesskey    "ب">
-<!ENTITY copyrightInfo1             "&#169; حق نسخه‌برداری ۱۹۹۸-۲۰۰۹ مخصوص مشارکت‌کنندگان.  تمام حقوق محفوظ است. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "اطلاعات مجوز">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY community.start2 "&brandShortName; توسط ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 "، یک ">
+<!ENTITY community.creditsLink "اجتماع جهانی">
+<!ENTITY community.end2 " که برای بهتر ساختن اینترنت همکاری می‌کنند ساخته شده است.  ما فکر می‌کنیم که اینترنت باید باز باشد و بدون محدودیتی در دسترس همگان قرار گیرد.">
+<!ENTITY contribute.start "به نظرتان جالب می‌رسد؟ ">
+<!ENTITY contribute.getInvolvedLink "شما هم می‌توانید در این کار سهیم باشید!">
+<!ENTITY contribute.end "">
+<!ENTITY bottomLinks.license "اطلاعات مجوز">
+<!ENTITY bottomLinks.rights "حقوق کاربران">
+<!ENTITY bottomLinks.privacy "سیاست حفظ حریم خصوصی">
+<!ENTITY update.checkingForUpdates "گشتن به دنبال به‌هنگام‌سازی‌ها…">
+<!ENTITY update.checkingAddonCompat "وارسی سازگاری افزودنی‌ها…">
+<!ENTITY update.noUpdatesFound "&brandShortName; به‌هنگام است">
+<!ENTITY update.adminDisabled "به‌هنگام‌سازی توسط مدیر سیستم‌تان غیرفعال گشته است">
+<!ENTITY update.failed.start "به‌هنگام‌سازی با مشکل مواجه شد. ">
+<!ENTITY update.failed.linkText "آخرین نسخه را بارگیری کنید.">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "به‌هنگام‌سازی‌ها در اینجا ">
+<!ENTITY update.manual.end " قابل دریافت هستند.">
+<!ENTITY update.downloading.start "در حال دریافت به‌هنگام‌سازی — ">
+<!ENTITY update.downloading.end "">
