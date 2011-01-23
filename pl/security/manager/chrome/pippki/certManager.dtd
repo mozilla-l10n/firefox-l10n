@@ -41,8 +41,8 @@
 
 <!ENTITY certmgr.title					"Menedżer certyfikatów">
 
-<!ENTITY certmgr.tab.mine                     "Certyfikaty użytkownika">
-<!ENTITY certmgr.tab.others2                  "Ludzie">
+<!ENTITY certmgr.tab.mine                     "Użytkownik">
+<!ENTITY certmgr.tab.others2                  "Osoby">
 <!ENTITY certmgr.tab.websites3                "Serwery">
 <!ENTITY certmgr.tab.ca                       "Organy certyfikacji">
 <!ENTITY certmgr.tab.orphan2                  "Pozostałe">
@@ -146,7 +146,7 @@
 <!ENTITY exceptionMgr.permanent.label         "Zachowaj ten wyjątek na stałe">
 <!ENTITY exceptionMgr.permanent.accesskey     "Z">
 
-<!ENTITY certmgr.mine 					"Posiadasz certyfikaty z następujących organizacji, które identyfikują użytkownika:">
+<!ENTITY certmgr.mine 					"Posiadasz certyfikaty z następujących organizacji, które cię identyfikują:">
 <!ENTITY certmgr.others 				"Posiadasz certyfikaty, które identyfikują następujące osoby:">
 <!ENTITY certmgr.websites2 				"Posiadasz certyfikaty, które identyfikują następujące serwery:">
 <!ENTITY certmgr.cas 					"Posiadasz certyfikaty, które identyfikują następujące organy certyfikacji:">
