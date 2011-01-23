@@ -98,6 +98,9 @@
 <!ENTITY  permCookie            "ایجاد کوکی">
 <!ENTITY  permInstall           "نصب ضمیمه یا تم">
 <!ENTITY  permGeo               "به اشتراک گذاشتن موقعیت مکانی">
+<!ENTITY permIndexedDB "نگه‌داری اطلاعات برای استفادهٔ برون‌خط">
+<!ENTITY permClearStorage "پاک‌سازی حافظه">
+<!ENTITY permClearStorage.accesskey "پ">
 
 <!ENTITY  securityTab           "امنیت">
 <!ENTITY  securityTab.accesskey "ا">
