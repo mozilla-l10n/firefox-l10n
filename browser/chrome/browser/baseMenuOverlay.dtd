@@ -10,22 +10,22 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "راهنما"> 
 <!ENTITY helpMenuWin.accesskey    "ر">
-<!ENTITY aboutCmd.label           "دربارهٔ &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "د">
+<!ENTITY aboutProduct.label "دربارهٔ &brandShortName;">
+<!ENTITY aboutProduct.accesskey "د">
 <!ENTITY productHelp.label        "راهنمای &brandShortName;">
 <!ENTITY productHelp.accesskey    "ر">
 <!ENTITY helpForIEUsers.label     "اینترنت اکسپلورر مایکروسافت">
 <!ENTITY helpForIEUsers.accesskey "ک">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label "راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…">
+<!ENTITY helpSafeMode.accesskey "م">
 
 <!ENTITY helpReleaseNotes.label         "یادداشت‌های انتشار">
 <!ENTITY helpReleaseNotes.accesskey     "ی">
-
-<!ENTITY helpTroubleshooting.label      "اطلاعات رفع اشکال…">
-<!ENTITY helpTroubleshooting.accesskey  "ش">
-
-<!ENTITY updateCmd.label                "گشتن به دنبال به‌هنگام‌سازی‌ها…">
+<!ENTITY helpTroubleshootingInfo.label "اطلاعات رفع اشکال">
+<!ENTITY helpTroubleshootingInfo.accesskey "ش">
+<!ENTITY helpFeedbackPage.label "ارسال نظر…">
+<!ENTITY helpFeedbackPage.accesskey "س">
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
