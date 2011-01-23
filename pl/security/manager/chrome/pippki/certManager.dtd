@@ -105,7 +105,7 @@
 <!ENTITY certmgr.view2.label 					"Wyświetl…">
 <!ENTITY certmgr.view2.accesskey              	"W">
 <!ENTITY certmgr.edit3.label 					"Edytuj ustawienia zaufania…">
-<!ENTITY certmgr.edit3.accesskey               	"E">
+<!ENTITY certmgr.edit3.accesskey               	"d">
 <!ENTITY certmgr.editca.label 					"Edytuj ustawienia zaufania CA">
 <!ENTITY certmgr.editca.accesskey             	"y">
 <!ENTITY certmgr.add.label 						"Dodaj">
@@ -130,7 +130,7 @@
 <!ENTITY certmgr.hierarchy.accesskey            "H">
 
 <!ENTITY certmgr.addException.label           "Dodaj wyjątek…">
-<!ENTITY certmgr.addException.accesskey       "j">
+<!ENTITY certmgr.addException.accesskey       "o">
 
 <!ENTITY exceptionMgr.title                   "Dodanie wyjątku bezpieczeństwa">
 <!ENTITY exceptionMgr.exceptionButton.label   "Potwierdź wyjątek bezpieczeństwa">
