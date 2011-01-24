@@ -10,14 +10,14 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Helpo"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct.label       "About &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY aboutProduct.label       "Pri &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "P">
 <!ENTITY productHelp.label        "Helpo por &brandShortName;">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Por uzantoj de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Rekomenci aldonaĵoj malaktivigitaj…">
+<!ENTITY helpSafeMode.label       "Rekomenci kun aldonaĵoj malaktivaj…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label         "Liveraj notoj">
