@@ -1,7 +1,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 <!ENTITY abouthome.pageTitle "Páxina d'aniciu de &brandFullName;">
-<!ENTITY abouthome.brandStart "Páxina d'aniciu de <span>&brandShortName;</span>">
+<!ENTITY abouthome.brandStart "Páxina d'aniciu <span>&brandShortName;</span>">
 <!ENTITY abouthome.searchEngineButton.label "Guetar">
 <!ENTITY abouthome.searchEngineLinks.advanced "Gueta avanzada">
 <!ENTITY abouthome.searchEngineLinks.preferences "Preferencies">
