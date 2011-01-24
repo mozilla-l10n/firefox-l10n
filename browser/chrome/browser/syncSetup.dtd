@@ -8,8 +8,8 @@
 <!ENTITY button.connect.label    "اتصال">
 
 <!ENTITY setup.choicePage.title.label     "آیا تا به حال از &syncBrand.fullName.label; استفاده کرده‌اید؟">
-<!ENTITY setup.choicePage.new.label       "خیر، تا به حال از &syncBrand.fullName.label; استفاده نکرده‌ام">
-<!ENTITY setup.choicePage.existing.label  "بله، هم‌اکنون از &syncBrand.fullName.label; روی رایانهٔ دیگری استفاده می‌کنم">
+<!ENTITY setup.choicePage.new.label       "خیر، تا به حال از &syncBrand.shortName.label; استفاده نکرده‌ام">
+<!ENTITY setup.choicePage.existing.label  "بله، هم‌اکنون از &syncBrand.shortName.label; روی رایانهٔ دیگری استفاده می‌کنم">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "پایگاه">
