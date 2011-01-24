@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
+
+<!ENTITY aboutSupport.accountsTitle "Poštové a diskusné účty">
+<!ENTITY aboutSupport.showPrivateData.mainText "Zahrnúť názvy účtov">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(môže obsahovať údaje o identite)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Názov">
+<!ENTITY aboutSupport.accountsIncomingServer "Server pre prijímanie pošty">
+<!ENTITY aboutSupport.accountsOutgoingServers "Server pre odosielanie pošty">
+<!ENTITY aboutSupport.accountsConnSecurity "Zabezpečenie spojenia">
+<!ENTITY aboutSupport.accountsAuthMethod "Metóda overenia">
+<!ENTITY aboutSupport.accountsDefault "Predvolený?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Odoslať ako e-mailovú správu">

@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label                  "Upraviť položku" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Zachovať dĺžku trvania pri zmene dátumu ukončenia">
+<!ENTITY event.dialog.keepDurationButton.accesskey "a">
 
 <!ENTITY newevent.from.label                "Od" >
 <!ENTITY newevent.to.label                  "Do" >

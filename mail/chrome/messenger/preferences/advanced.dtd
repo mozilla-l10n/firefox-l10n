@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey       "n">
 <!ENTITY reuseExpRadio1.label           "V existujúcom okne so správou">
 <!ENTITY reuseExpRadio1.accesskey       "x">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label   "Pri odstraňovaní alebo presunutí správy zatvoriť jej okno">
-<!ENTITY closeMsgWindowOnDelete.accesskey "d">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Pri odstraňovaní alebo presunutí správy zatvoriť jej okno/kartu">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "d">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Pravidelne kontrolovať aktualizácie pre:">

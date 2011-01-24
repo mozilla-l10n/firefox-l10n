@@ -72,7 +72,7 @@
 <!ENTITY verifying.label              "Overuje sa…">
 <!ENTITY resetPassword.label          "Vynulovať heslo">
 
-<!ENTITY lostSyncKey.label            "Stratený Synchronizačný kľúč">
+<!ENTITY resetSyncKey.label           "Stratil som moje ďalšie zariadenie.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Možnosti synchronizácie">

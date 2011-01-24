@@ -396,6 +396,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Správu ako prečítanú">
 <!ENTITY markAsReadCmd.accesskey "S">
 <!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Správu ako neprečítanú">
+<!ENTITY markAsUnreadCmd.accesskey "e">
+<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Vlákno ako prečítané">
 <!ENTITY markThreadAsReadCmd.accesskey "k">
 <!ENTITY markThreadAsReadCmd.key "r">
