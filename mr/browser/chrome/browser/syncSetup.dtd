@@ -188,7 +188,7 @@
 <!ENTITY existingSyncKey.description "दुसऱ्या साधनवरील &syncBrand.shortName.label; पर्यायकडे जावून, व &#x0022;खाते व्यवस्थापीत करा&#x0022; अंतर्गत &#x0022;माझी सिंक कि&#x0022; नीवडून, तुम्हाला सिंक किचे प्रत प्राप्त करता येईल.">
 <!ENTITY verifying.label              "तपासत आहे…">
 <!ENTITY resetPassword.label          "पासवर्ड पूर्ववत् करा">
-<!ENTITY lostSyncKey.label            "माझी सिंक कि हरवली">
+<!-- <!ENTITY lostSyncKey.label            "माझी सिंक कि हरवली"> -->
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "सिंक पर्याय">
@@ -223,3 +223,5 @@
 <!ENTITY setup.successPage.title "मांडणी पूर्ण झाली">
 <!ENTITY changeOptions.label "खालील सिंक पर्याय नीवडून तुम्ही ही पसंती बदलवू शकता.">
 <!ENTITY continueUsing.label "तुम्ही आत्ता &brandShortName;चा वापर चालू ठेवू शकता.">
+
+<!ENTITY resetSyncKey.label           "माझे इतर साधन हरवले आहे.">
