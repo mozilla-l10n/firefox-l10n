@@ -48,3 +48,5 @@
 <!ENTITY prefs.tosLink.label        "सेवा अटी">
 <!ENTITY prefs.ppLink.label         "गोपणीयता करार">
 <!ENTITY addDevice.label              "साधन समाविष्ट करा">
+
+<!ENTITY deactivateDevice.label       "हे साधन निष्क्रिय करा">
