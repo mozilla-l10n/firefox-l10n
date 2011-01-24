@@ -23,3 +23,4 @@
 <!ENTITY editBookmarkOverlay.choose.label                    "Vybrať…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nový priečinok">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Vytvoriť nový priečinok">

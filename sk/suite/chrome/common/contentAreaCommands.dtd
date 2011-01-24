@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey       "n">
 <!ENTITY openFrameCmdInTab.label      "Otvoriť rámec na novej karte">
 <!ENTITY openFrameCmdInTab.accesskey  "k">
+<!ENTITY keywordfield.label           "Pridať kľúčové slovo pre toto vyhľadávanie…">
+<!ENTITY keywordfield.accesskey       "d">
 <!ENTITY showOnlyThisFrameCmd.label     "Zobraziť len tento rámec">
 <!ENTITY showOnlyThisFrameCmd.accesskey "l">
 <!ENTITY goBackCmd.label              "Naspäť">

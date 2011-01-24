@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Titul">
 <!ENTITY processing.label         "Importuje sa…">
-
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x má jednu poštovú adresu, zatiaľ čo &brandShortName; má dve (Domov a Zamestnanie).">
-<!ENTITY FieldDiscInputText2.label "Zvoľte kategóriu, do ktorej sa majú uložiť importované e-mailové adresy">
-<!ENTITY FieldDiscWarning.label "Táto kategória bude použitá pre všetky položky vo vybranom adresári.">
-<!ENTITY importHome.label        "Domov">
-<!ENTITY importHome.accesskey    "D">
-<!ENTITY importWork.label        "Zamestnanie">
-<!ENTITY importWork.accesskey    "Z">

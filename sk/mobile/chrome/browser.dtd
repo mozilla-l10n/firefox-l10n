@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "História">
 <!ENTITY desktopHeader.label       "Počítač">
 
+<!ENTITY editBookmarkDialog.title  "Úprava založky">
 <!ENTITY editBookmarkDone.label    "Hotovo">
 <!ENTITY editBookmarkTags.label    "Pridajte značky">
 

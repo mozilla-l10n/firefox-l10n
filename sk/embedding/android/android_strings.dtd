@@ -1,0 +1,14 @@
+<!ENTITY  splash_screen_label "načítava sa">
+<!ENTITY  splash_screen_installing "inštalujú sa knižnice\u2026">
+<!ENTITY  incompatable_cpu_error "Toto zariadenie nespĺňa minimálne požiadavky pre spustenie prehliadača &brandShortName;.">
+<!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
+<!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
+
+<!ENTITY  crash_reporter_title "Oznamovateľ zlyhania prehliadača &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; zlyhal. Otvorené karty by mali byť po reštarte dostupné na Úvodnej stránke prehliadača &brandShortName;.">
+<!ENTITY  crash_help_message "Pomôžte nám vyriešiť tento problém!">
+<!ENTITY  crash_send_report_message "Odoslať Mozille správu o zlyhaní">
+<!ENTITY  crash_include_url "Zahrnúť adresu webovej stránky">
+<!ENTITY  crash_close_label "Zavrieť">
+<!ENTITY  crash_restart_label "Reštartovať &brandShortName;">
+<!ENTITY  sending_crash_report "Odosiela sa správa o zlyhaní\u2026">
