@@ -63,7 +63,7 @@
 <!-- Existing Account Page 2: Sync Key -->
 
 
-<!ENTITY lostSyncKey.label            "मेरी सिंक कुंजी गुम हो गई है">
+
 <!ENTITY verifying.label              "जाँच रहा है…">
 
 <!-- Sync Options -->
@@ -126,4 +126,5 @@
 <!ENTITY signIn.syncKey.label       "Sync Key">
 <!ENTITY signIn.syncKey.accesskey   "K">
 
+<!ENTITY resetSyncKey.label           "I have lost my other device.">
 

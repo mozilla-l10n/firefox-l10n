@@ -4,8 +4,8 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; आपको अपनी पूरी युक्तियों में आपके इतिहास, पुस्तचिह्न, कूटशब्दों और खुले टैब की पहुँच लेने देता है.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY currentAccount.label         "मौजूदा खाता:">
+
+
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "अद्यतन करें">
@@ -18,10 +18,10 @@
 <!ENTITY changePassword.label         "कूटशब्द बदलें">
 <!ENTITY mySyncKey.label              "मेरा सिंक कुंजी">
 <!ENTITY resetSync.label              "सिंक फिर सेट करें">
-<!ENTITY stopUsingAccount.label       "इस खाता का उपयोग रोकें">
+
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "सिंक ब्राउज़ करें">
+
 <!ENTITY syncComputerName.label       "कंप्यूटर नाम:">
 <!ENTITY syncComputerName.accesskey   "c">
 
@@ -43,3 +43,5 @@
 <!ENTITY prefs.ppLink.label         "गोपनीयता नीति">
 
 <!ENTITY addDevice.label              "कोई युक्ति जोड़ें">
+
+<!ENTITY deactivateDevice.label       "इस युक्ति को निष्क्रिय करें">
