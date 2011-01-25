@@ -10,7 +10,6 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "E">
-
 <!ENTITY spellAddToDictionary.label "Agregar al diccionario">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellCheckEnable.label "Revisar ortografía">

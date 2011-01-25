@@ -20,6 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Mozilla México - Roberto Alvarado
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,35 +35,31 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY errorConsole.title "Consola de errores">
-
-<!ENTITY errFile.label   "Archivo de origen:">
-<!ENTITY errLine.label   "Línea:">
-<!ENTITY errColumn.label "Columna">
-
-<!ENTITY all.label          "Todos">
-<!ENTITY all.accesskey      "T">
-<!ENTITY errors.label       "Errores">
-<!ENTITY errors.accesskey   "E">
-<!ENTITY warnings.label     "Advertencias">
+<!ENTITY errFile.label "Archivo de origen:">
+<!ENTITY errLine.label "Línea:">
+<!ENTITY errColumn.label "Columna:">
+<!ENTITY all.label "Todos">
+<!ENTITY all.accesskey "T">
+<!ENTITY errors.label "Errores">
+<!ENTITY errors.accesskey "E">
+<!ENTITY warnings.label "Advertencias">
 <!ENTITY warnings.accesskey "A">
-<!ENTITY messages.label     "Mensajes">
+<!ENTITY messages.label "Mensajes">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label        "Limpiar">
-<!ENTITY clear.accesskey    "L">
-<!ENTITY codeEval.label     "Código:">
+<!ENTITY clear.label "Limpiar">
+<!ENTITY clear.accesskey "L">
+<!ENTITY codeEval.label "Código:">
 <!ENTITY codeEval.accesskey "d">
-<!ENTITY evaluate.label     "Evaluar">
+<!ENTITY evaluate.label "Evaluar">
 <!ENTITY evaluate.accesskey "v">
-
-<!ENTITY copyCmd.label       "Copiar">  
-<!ENTITY copyCmd.accesskey   "C"> 
-<!ENTITY copyCmd.commandkey  "C"> 
-<!ENTITY sortFirst.label     "Ordenar primero > último">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.commandkey "C">
+<!ENTITY sortFirst.label "Ordenar primero > último">
 <!ENTITY sortFirst.accesskey "p">
-<!ENTITY sortLast.label      "Ordenar último > primero">
-<!ENTITY sortLast.accesskey  "O">
-<!ENTITY closeCmd.commandkey "w">  
-<!ENTITY focus1.commandkey   "l">  
-<!ENTITY focus2.commandkey   "d">  
+<!ENTITY sortLast.label "Ordenar último > primero">
+<!ENTITY sortLast.accesskey "O">
+<!ENTITY closeCmd.commandkey "w">
+<!ENTITY focus1.commandkey "l">
+<!ENTITY focus2.commandkey "d">

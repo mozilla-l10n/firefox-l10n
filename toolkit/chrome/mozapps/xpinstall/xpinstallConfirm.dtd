@@ -1,9 +1,5 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title            "Instalación de software">
-<!ENTITY dialog.style            "width: 47em">
-<!ENTITY warningPrimary.label    "Procure instalar complementos por parte de autores de su confianza.">
-<!ENTITY warningSecondary.label  "El software malicioso puede dañar su sistema o comprometer su privacidad.">
-
+<!ENTITY dialog.title "Instalación de software">
+<!ENTITY dialog.style "width: 47em">
+<!ENTITY warningPrimary.label "Procure instalar complementos por parte de autores de su confianza.">
+<!ENTITY warningSecondary.label "El software malicioso puede dañar su sistema o comprometer su privacidad.">
 <!ENTITY from.label "de:">
-
