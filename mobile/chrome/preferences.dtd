@@ -3,7 +3,7 @@
 <!ENTITY about.button                              "Naar pagina gaan">
 <!ENTITY content.title                             "Inhoud">
 <!ENTITY showImages.title                          "Afbeeldingen tonen">
-<!ENTITY reflowZoom.title                          "Tekst met zoomen opnieuw opmaken">
+<!ENTITY reflowZoom.title                          "Tekst opnieuw opmaken na zoomen">
 <!ENTITY enableJavaScript.title                    "JavaScript inschakelen">
 <!ENTITY enablePlugins.title                       "Plug-ins inschakelen">
 <!ENTITY privacy.title                             "Privacy &amp; beveiliging">
