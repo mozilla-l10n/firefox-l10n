@@ -1,5 +1,5 @@
-<!ENTITY  creator.label               "Creado por:">
-<!ENTITY  developers.label            "Desarrolladores:">
-<!ENTITY  translators.label           "Traductores:">
-<!ENTITY  contributors.label          "Colaboradores:">
-<!ENTITY  homepage.label              "Visitar la página de inicio">
+<!ENTITY creator.label "Creado por:">
+<!ENTITY developers.label "Desarrolladores:">
+<!ENTITY translators.label "Traductores:">
+<!ENTITY contributors.label "Colaboradores:">
+<!ENTITY homepage.label "Visitar la página de inicio">

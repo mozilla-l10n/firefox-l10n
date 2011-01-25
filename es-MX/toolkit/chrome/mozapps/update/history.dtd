@@ -1,12 +1,8 @@
-
-<!ENTITY  history.title             "Historial de actualizaciones">
-<!ENTITY  history.intro             "Se han instalado las siguientes actualizaciones:">
-<!ENTITY  closebutton.label         "Cerrar">
-                                     
-<!ENTITY  noupdates.label           "No hay actualizaciones instaladas">
-
-<!ENTITY  name.header               "Nombre de la actualización">
-<!ENTITY  date.header               "Fecha de instalación">
-<!ENTITY  type.header               "Tipo">
-<!ENTITY  state.header              "Estado">
-
+<!ENTITY history.title "Historial de actualizaciones">
+<!ENTITY history.intro "Se han instalado las siguientes actualizaciones:">
+<!ENTITY closebutton.label "Cerrar">
+<!ENTITY noupdates.label "No hay actualizaciones instaladas">
+<!ENTITY name.header "Nombre de la actualización">
+<!ENTITY date.header "Fecha de instalación">
+<!ENTITY type.header "Tipo">
+<!ENTITY state.header "Estado">

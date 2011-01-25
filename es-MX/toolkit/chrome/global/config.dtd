@@ -19,6 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Mozilla México - Roberto Alvarado
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -33,31 +34,20 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY window.title "about:config">
-
-<!-- about:config warning page -->
-<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Configuración avanzada">
 <!ENTITY aboutWarningText.label "Esta página de configuración te permite modificar preferencias avanzadas, cambiar estos valores sin un conocimiento previo puede crear comportamientos no deseados. Te recomendamos no ingresar a menos que estés completamente seguro de lo que vas a hacer.">
 <!ENTITY aboutWarningButton.label "Ingresar">
 <!ENTITY aboutWarningCheckbox.label "Mostrar siempre esta advertencia.">
-
 <!ENTITY filterPrefs.label "Filtro:">
 <!ENTITY filterPrefs.accesskey "i">
 <!ENTITY focusFilter.key "f">
-
-<!-- Columns -->
 <!ENTITY prefColumn.label "Nombre">
 <!ENTITY lockColumn.label "Estado">
 <!ENTITY typeColumn.label "Tipo">
 <!ENTITY valueColumn.label "Valor">
-
-<!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "Clic para ordenar"> 
-<!ENTITY columnChooser.tooltip "Clic para seleccionar las columnas a mostrar"> 
-
-<!-- Context Menu -->
+<!ENTITY prefColumnHeader.tooltip "Clic para ordenar">
+<!ENTITY columnChooser.tooltip "Clic para seleccionar las columnas a mostrar">
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copiar">
 <!ENTITY copyPref.accesskey "C">
