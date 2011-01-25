@@ -2,7 +2,7 @@
 
 <!ENTITY aboutSupport.accountsTitle "Cuntais Ríomhphoist agus Nuachta">
 <!ENTITY aboutSupport.showPrivateData.mainText "Cuir ainmneacha cuntais san áireamh">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(faisnéis aitheantais a d'fhéadfadh a bheith ann)">
 <!ENTITY aboutSupport.accountsID "Aitheantas">
 <!ENTITY aboutSupport.accountsName "Ainm">
 <!ENTITY aboutSupport.accountsIncomingServer "Freastalaí isteach">

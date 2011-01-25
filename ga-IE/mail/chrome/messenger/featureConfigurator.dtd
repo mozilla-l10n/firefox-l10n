@@ -45,7 +45,7 @@
 <!ENTITY featureConfigurator.folderColumns.heading "Colúin Fhillteáin Sa Bhreis">
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
 
-<!ENTITY featureConfigurator.folderColumns.para.weak "The Extra Folder Columns extension replaces what was initially an advanced preference.  To keep tabs on the exact count of messages and disk space each folder is using you'll want to install this extension.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "Is féidir an eisínteacht Colúin Bhreise Fillteáin a chur in áit an t-ardrogha a bhí ann ar dtús. Más mian leat súil a choimeád ar líon na dteachtaireachtaí agus ar an méid spáis diosca i ngach fillteán, ba cheart duit an eisínteacht seo a shuiteáil.">
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
 
 <!ENTITY featureConfigurator.folderColumns.para.strong "Thugamar faoi deara go raibh tú ag baint úsáid as na colúin bhreise fhillteán. Bogadh an ghné seo go dtí a bhreiseán féin, agus molaimid duit é a shuiteáil anseo.">
@@ -57,7 +57,7 @@
 <!ENTITY featureConfigurator.autoSync.heading "Spás diosca">
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
 
-<!ENTITY featureConfigurator.autoSync.para "This new version of &brandShortName; comes with a new and better search functionality.  To experience this new search you'll need to synchronize your email messages.">
+<!ENTITY featureConfigurator.autoSync.para "Tá córas cuardaigh nua agus níos fearr sa leagan nua seo de &brandShortName;. Chun an cuardach nua seo a úsáid, beidh ort do chuid teachtaireachtaí ríomhphoist a shioncronú.">
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
 
 <!ENTITY featureConfigurator.autoSync.on "Sioncrónaigh">

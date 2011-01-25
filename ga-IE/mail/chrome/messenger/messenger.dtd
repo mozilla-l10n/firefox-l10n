@@ -397,8 +397,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Léite">
 <!ENTITY markAsReadCmd.accesskey "L">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "As Unread">
-<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markAsUnreadCmd.label "Mar Neamhléite">
+<!ENTITY markAsUnreadCmd.accesskey "N">
 <!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Snáithe Léite">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
