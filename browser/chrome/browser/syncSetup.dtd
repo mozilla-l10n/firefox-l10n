@@ -56,7 +56,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; විසින් ඔබගේ &syncBrand.fullName.label; දත්ත මෙම පරිගණකයට පිටපත් කරනු ඇත.">
 <!ENTITY setup.tosAgree1.label "මම මීට එකඟයි">
 <!ENTITY setup.successPage.title "සැකසුම සම්පූර්ණයි">
-<!ENTITY lostSyncKey.label "සම්මුහුර්ත යතුර (Sync Key) නැති වි">
+<!ENTITY resetSyncKey.label           "I have lost my other device.">
 <!ENTITY setup.newAccountDetailsPage.title.label "ගිණුම් තොරතුරු">
 <!ENTITY resetPassword.label "රහස්පද ප්‍රත්‍යාරම්භ (Reset) කිරීම">
 <!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; Setup">
