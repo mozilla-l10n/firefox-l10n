@@ -2,9 +2,7 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
+  Tiu ĉi paĝo enhavas teĥnikajn informojn kiuj povas esti utilaj kiam vi klopodas solvi problemon. Se vi serĉas respondojn al oftaj demandoj pri  &brandShortName;, bonvolu viziti nian <a id='supportLink'>helporetejon</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Etendoprogramoj">
@@ -13,13 +11,13 @@
 <!ENTITY aboutSupport.extensionVersion "Versio">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsTitle "Bazaj programaj informoj">
 <!ENTITY aboutSupport.appBasicsName "Nomo">
 <!ENTITY aboutSupport.appBasicsVersion "Versio">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profila dosierujo">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivigitaj kromprogramoj">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Agordoj de konstruado">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agento de uzanto">
 
 <!ENTITY aboutSupport.show.label "Malfermi entenantan dosierujon">
 
@@ -32,9 +30,9 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Nomo">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valoro">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Grafikoj">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
+<!ENTITY aboutSupport.installationHistoryTitle "Historio de instalado">
 <!ENTITY aboutSupport.updateHistoryTitle "Ĝisdatigi historion">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "Kopii ĉion al tondujo">
