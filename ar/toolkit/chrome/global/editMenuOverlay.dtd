@@ -23,7 +23,7 @@
 <!ENTITY findCmd.label "ابحث">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "ب">
-<!ENTITY findAgainCmd.label "ابحث ثانيا">
+<!ENTITY findAgainCmd.label "ابحث مجددًا">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findAgainCmd.accesskey "ب">
