@@ -64,8 +64,8 @@
 <!ENTITY PhoneticField2.label "Foghrach:">
 <!ENTITY DisplayName.label "Ainm Taispeána:">
 <!ENTITY DisplayName.accesskey "T">
-<!ENTITY preferDisplayName.label "Always prefer display name over message header">
-<!ENTITY preferDisplayName.accesskey "y">
+<!ENTITY preferDisplayName.label "Úsáid ainm taispeána i gcónaí seachas ceanntásc na teachtaireachta">
+<!ENTITY preferDisplayName.accesskey "t">
 <!ENTITY NickName.label "Leasainm:">
 <!ENTITY NickName.accesskey "n">
 

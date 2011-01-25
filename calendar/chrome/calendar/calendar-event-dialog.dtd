@@ -45,7 +45,7 @@
 
 <!ENTITY event.title.label "Cuir Mír in Eagar">
 
-<!ENTITY event.dialog.keepDurationButton.tooltip "Keep the duration when changing the end date">
+<!ENTITY event.dialog.keepDurationButton.tooltip "Coimeád an fad agus an dáta deiridh á athrú">
 <!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label "Ó">

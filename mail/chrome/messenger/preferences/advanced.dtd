@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey "n">
 <!ENTITY reuseExpRadio1.label "i bhfuinneog theachtaireachta atá ann cheana">
 <!ENTITY reuseExpRadio1.accesskey "e">
-<!ENTITY closeMsgOnMoveOrDelete.label "Close message window/tab on move or delete">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
+<!ENTITY closeMsgOnMoveOrDelete.label "Dún fuinneog/cluaisín na teachtaireachta tar éis a bhogtha nó scriosta">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 <!-- Update -->
 
 <!ENTITY autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcomhair:">
