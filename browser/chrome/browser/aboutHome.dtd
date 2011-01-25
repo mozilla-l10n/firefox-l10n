@@ -4,7 +4,7 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "صفحة بداية &brandFullName;">
+<!ENTITY abouthome.pageTitle "‫صفحة بداية &brandFullName;">
 
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
