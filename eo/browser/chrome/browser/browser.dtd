@@ -267,9 +267,9 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Historio">
 <!ENTITY historyMenu.accesskey "h">
-<!ENTITY historyUndoMenu.label "Antaŭ ne longe fermitaj folioj">
+<!ENTITY historyUndoMenu.label "Antaŭ nelonge fermitaj folioj">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Antaŭ ne longe fermitaj folioj">
+<!ENTITY historyUndoWindowMenu.label "Antaŭ nelonge fermitaj fenestroj">
 <!ENTITY historyRestoreLastSession.label "Daŭrigi antaŭan seancon">
 
 <!ENTITY historyHomeCmd.label "Eka paĝo">
