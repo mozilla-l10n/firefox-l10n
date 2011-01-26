@@ -13,7 +13,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label                       "Server">
-<!ENTITY serverType.main.label              "&syncBrand.fullName.label;i serveriga">
+<!ENTITY serverType.main.label              "&syncBrand.fullName.label;i server">
 <!ENTITY serverType.custom2.label           "Kasuta kohandatud serverit…">
 <!ENTITY signIn.account2.label              "Konto">
 <!ENTITY signIn.account2.accesskey          "K">
