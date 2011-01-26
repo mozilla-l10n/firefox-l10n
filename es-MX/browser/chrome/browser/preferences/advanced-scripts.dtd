@@ -19,6 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Mozilla México - Roberto Alvarado
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,19 +35,12 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY advancedJSDialog.title         "Parámetros avanzados de JavaScript">
-<!ENTITY window.width                   "37em">
-
-<!ENTITY allowScripts.label             "Permitir a los scripts:">
-
-<!ENTITY moveResizeWindows.label        "Mover o redimensionar las ventanas existentes">
-<!ENTITY moveResizeWindows.accesskey    "M">
-<!ENTITY raiseLowerWindows.label        "Resaltar u ocultar ventanas">
-<!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "Desactivar o reemplazar menús contextuales">
-<!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "Ocultar barra de estado">
-<!ENTITY hideStatusBar.accesskey        "O">
-<!ENTITY changeStatusBar.label          "Cambiar texto de la barra de estado">
-<!ENTITY changeStatusBar.accesskey      "C">
+<!ENTITY advancedJSDialog.title "Parámetros avanzados de JavaScript">
+<!ENTITY window.width "37em">
+<!ENTITY allowScripts.label "Permitir a los scripts:">
+<!ENTITY moveResizeWindows.label "Mover o redimensionar las ventanas existentes">
+<!ENTITY moveResizeWindows.accesskey "M">
+<!ENTITY raiseLowerWindows.label "Resaltar u ocultar ventanas">
+<!ENTITY raiseLowerWindows.accesskey "R">
+<!ENTITY disableContextMenus.label "Desactivar o reemplazar menús contextuales">
+<!ENTITY disableContextMenus.accesskey "D">

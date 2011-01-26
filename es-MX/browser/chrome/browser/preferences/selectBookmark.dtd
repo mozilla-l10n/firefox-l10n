@@ -1,5 +1,2 @@
-<!ENTITY selectBookmark.title
-  "Elegir mi página de inicio">
-<!ENTITY selectBookmark.label
-  "Elija un marcador como página de inicio. Si elige una carpeta con marcadores, cada uno éstos se abrirá en una pestaña nueva.">
-
+<!ENTITY selectBookmark.title "Establecer mi página de inicio">
+<!ENTITY selectBookmark.label "Elije un marcador como tu página de inicio. Si eliges una carpeta con marcadores, cada uno éstos se abrirá en una pestaña nueva.">

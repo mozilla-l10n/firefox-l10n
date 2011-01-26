@@ -1,143 +1,143 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
-
-<!ENTITY loadError.label "Error al cargar la página">
+<!ENTITY loadError.label "Problemas al cargar la página">
 <!ENTITY retry.label "Reintentar">
-
-<!-- Specific error messages -->
-
 <!ENTITY connectionFailure.title "No se puede conectar">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Puerto restringido por razones de seguridad">
+<!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY dnsNotFound.title "No se encontró la dirección">
+<!ENTITY dnsNotFound.title "No se encontró el servidor">
 <!ENTITY dnsNotFound.longDesc "<ul>
   <li>Verifica que la dirección ingresada no contenga errores como
-    <strong>ww</strong>.ejemplo.com.mx en lugar de
-    <strong>www</strong>.ejemplo.com.mx</li>
+    <strong>ww</strong>.ejemplo.mx en lugar de
+    <strong>www</strong>.ejemplo.mx</li>
   <li>Si no puedes ver otras páginas, comprueba tu conexión
     a la red.</li>
   <li>Si tu computadora o red están protegidos por un firewall o proxy, asegúrate
     que &brandShortName; tiene permisos para acceder a la web.</li>
 </ul>
 ">
-
 <!ENTITY fileNotFound.title "No se encontró el archivo">
 <!ENTITY fileNotFound.longDesc "<ul>
   <li>Comprueba que el nombre del archivo no contenga errores.</li>
   <li>Verifica si el archivo se borró, movió o renombró.</li>
 </ul>
 ">
-
-
-<!ENTITY generic.title "No se pudo completar la solicitud">
-<!ENTITY generic.longDesc "<p>Actualmente no hay información adicional disponible para este problema o error.</p>">
-
+<!ENTITY generic.title "¡Chin!.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; no puede cargar esta página por algúna razón.</p>
+">
 <!ENTITY malformedURI.title "La dirección no es válida">
-<!ENTITY malformedURI.longDesc "<p>La dirección proporcionada no está en un formato reconocido. Compruebe la dirección introducida en la barra de direcciones y vuelva a intentarlo.</p>">
-
-<!ENTITY netInterrupt.title "Transferencia de datos interrumpida">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-
-<!ENTITY netOffline.title "Modo sin conexión">
-<!ENTITY netOffline.longDesc "<ul>
-  <li>Desmarca &quot;Trabajar sin conexión&quot; en el menú Archivo e intenta nuevamente.</li>
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Las direcciones web se escriben usualmente como
+    <strong>http://www.example.mx/</strong></li>
+  <li>Verifica que estás usando las diagonales correctas (p.e.
+    <strong>/</strong>).</li>
 </ul>
 ">
-
+<!ENTITY netInterrupt.title "La conexión se interrumpió">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netOffline.title "Modo sin conexión">
+<!ENTITY netOffline.overrideLongDesc "
+<ul>
+  <li>Desactiva la &quot;Trabajar sin conexión&quot; del menú, y vuelve a intentarlo.</li>
+</ul>">
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
-<!ENTITY contentEncodingError.longDesc "<p>La página que está intentando ver no puede mostrarse porque usa una forma no válida o no admitida de compresión.</p><ul><li>Contacte con los propietarios del Sitio web para informarles sobre este problema.</li></ul>">
-
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Contacta a los propietarios del sitio web para informarles sobre este problema.</li>
+</ul>
+">
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
-<!ENTITY unsafeContentType.longDesc "<ul>
+<!ENTITY unsafeContentType.longDesc "
+<ul>
   <li>Contacte a los propietarios del sitio web para informarles sobre este problema.</li>
 </ul>
 ">
-
-<!ENTITY netReset.title "Conexión interrumpida">
+<!ENTITY netReset.title "La conexión se reinició">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-
 <!ENTITY netTimeout.title "Se agotó el tiempo de espera">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY protocolNotFound.title "Protocolo desconocido">
-<!ENTITY protocolNotFound.longDesc "<p>La dirección especifica un protocolo (p.ej. <q>wxyz://</q>) que el navegador no reconoce, por lo tanto no se puede conectar al Sitio correctamente.</p><ul><li>¿Está intentando acceder a un servicio multimedia u otro diferente al de texto? Compruebe los requisitos extra del Sitio.</li><li>Algunos protocolos pueden necesitar programas de terceros o plugins para que el navegador pueda reconocerlos.</li></ul>">
-
-<!ENTITY proxyConnectFailure.title "El servidor proxy rechazó la conexión">
-<!ENTITY proxyConnectFailure.longDesc "<p>El navegador está configurado para usar un servidor proxy, pero éste rechazó la conexión.</p><ul><li>¿Es correcta la configuración del proxy del navegador? Compruebe la configuración y vuelva a intentarlo.</li><li>¿El servicio proxy permite conexiones desde esta red?</li><li>¿Todavia con problemas? Consulte con su Administrador de red o Proveedor de Internet (ISP) para solicitar soporte técnico.</li></ul>">
-
-<!ENTITY proxyResolveFailure.title "No se encontró el servidor proxy">
+<!ENTITY protocolNotFound.title "No se comprende la dirección">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Necesitas instalar otro programa para abrir esta dirección.</li>
+</ul>
+">
+<!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando las conexiones">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Comprueba que la configuración del proxy esté correcta.</li>
+  <li>Comunícate con el administrador de la red para comprobar que el servidor
+    proxy está funcionando.</li>
+</ul>
+">
+<!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul>
-  <li>Comprueba que la configuración de tu proxy esté correcta.</li>
-  <li>Comprueba que la conección de red de tu computadora esté funcionando.</li>
+  <li>Comprueba que la configuración del proxy esté correcta.</li>
+  <li>Comprueba que la conexión de red de tu computadora esté funcionando.</li>
   <li>Si tu computadora o red están protegidos por un firewall o proxy, asegúrate
-    que &brandShortName; tiene permitido acceder a la web.</li>
+    que &brandShortName; tiene permisos para acceder a la web.</li>
 </ul>
 ">
-
-<!ENTITY redirectLoop.title "Bucle de redirección">
-<!ENTITY redirectLoop.longDesc "<ul>
-  <li>Este problema puede ser ocasionado por deshabilitar o rechazar
-  la entrada de cookies.</li>
+<!ENTITY redirectLoop.title "La página no se está redireccionando apropiadamente">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Este problema puede estar pasando por haber deshabilitado
+    las cookies.</li>
 </ul>
 ">
-
-<!ENTITY unknownSocketType.title "Respuesta incorrecta">
-<!ENTITY unknownSocketType.longDesc "<ul>
-  <li>Asegúrate que tu sistema tenga el administrador de seguridad
-   instalado.</li>
-  <li>Esto podría ser ocasionado por una configuración no estándar del servidor.</li>
+<!ENTITY unknownSocketType.title "Respuesta inesperada del servidor">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Verifica que tu sistema tiene instalado el administrador de seguridad
+    personal.</li>
+  <li>Esto podría ser ocasionado por una configuración no estándar en el servidor.</li>
 </ul>
 ">
-
 <!ENTITY nssFailure2.title "Conexión segura fallida">
-<!ENTITY nssFailure2.longDesc "<ul>
-  <li>No se puede mostrar la página que intentas visitar, no se pudo verificar la autenticidad de sus datos.</li>
-  <li>Contacta a los propietarios de este sitio web para informarles sobre el problema.</li>
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>No se puede mostrar la página que intentas visitar por que no fue posible verificar la autenticidad de sus datos.</li>
+  <li>Contacta a los propietarios del sitio para informarles sobre el problema. Alternativamente, puedes reportar dando clic en el menú Ayuda y luego en la opción Reportar como sitio defectuoso.</li>
 </ul>
 ">
-
 <!ENTITY nssBadCert.title "Conexión segura fallida">
-<!ENTITY nssBadCert.longDesc2 "<ul>
-  <li>Esto podría deberse a un problema en la configuración del servidor o, tal vez, podría ser un programa intentando hacerse pasar por el servidor.</li>
-  <li>Si te has conectado a este servidor con éxito anteriormente, el error podría ser temporal, intentalo más tarde.</li>
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Esto podría ser un problema con la configuración del servidor o tal vez alguien intentando hacerse pasar por éste.</li>
+  <li>Si te has conectado a este servidor anteriormente con éxito el error podría ser temporal, intentalo más tarde.</li>
 </ul>
 ">
-
-<!ENTITY sharedLongDesc "<ul>
-  <li>El sitio podría estar temporalmente fuera de servicio o muy ocupado. Intenta nuevamente
-   en un instante.</li>
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>El sitio podría estar temporalmente fuera de servicio o muy ocupado. Intenta
+    nuevamente en un momento.</li>
   <li>Si no puedes cargar ninguna página, verifica la conexión de red
-   de tu computadora.</li>
+    de tu computadora.</li>
   <li>Si la red o tu computadora están protegidas por un firewall o proxy, asegúrate
-   que &brandShortName; pueda acceder a internet.</li>
+     que &brandShortName; pueda acceder a internet.</li>
 </ul>
 ">
-
 <!ENTITY malwareBlocked.title "¡Este Sitio web es peligroso!">
-<!ENTITY malwareBlocked.longDesc "<p>Los sitios web peligrosos intentan instalar programas en tu computadora para robar información privada y/o usar tu computadora para infectar a otras y/o dañar tu sistema.</p>
-<p>Los propietarios de sitios web que crean haber sido identificados erróneamente como tal pueden <a href='http://www.stopbadware.org/home/reviewinfo' >solicitar una revisión</a>.</p>
+<!ENTITY malwareBlocked.longDesc "
+<p>Los sitios web peligrosos intentan instalar programas en tu computadora para robarte información privada, usar tu computadora para infectar a otras y/o dañar tu sistema.</p>
+<p>Los propietarios de sitios web que crean haber sido identificados erróneamente como tal pueden <a href='http://www.stopbadware.org/home/reviewinfo'>solicitar una revisión</a>.</p>
 ">
-
 <!ENTITY phishingBlocked.title "¡Sospecha de Sitio Web falsificado!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Si introduce algún dato puede ser víctima de suplantación de identidad entre otros fraudes.</p>
-<p>La falsificación de Sitios web se usa en una técnica llamada Ataque de phishing, en la cual, se usan Sitios web y/o mensajes de correo electrónico que imitan a los originales en los que, tal vez, usted confía.</p>
+<p>Si introduces algún dato puedes ser víctima de suplantación de identidad entre otros fraudes.</p>
+<p>La falsificación de sitios web se usa en una técnica llamada ataque de phishing, en la cual, se usan sitios web y/o mensajes de correo electrónico que imitan a los originales en los que, tal vez, has confiado.</p>
 ">
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; evitó que se cargara esta página en esta forma por que tiene una política de seguridad de contenido que no lo permite.</p>">
+<!ENTITY securityOverride.linkText "O puedes agregar una excepción…">
+<!ENTITY securityOverride.getMeOutOfHereButton "¡Salir de aquí!">
+<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
+<!ENTITY securityOverride.warningContent "
+<p>No debes agregar una excepción si estás usando una conexión a Internet en la que usted no confía completamente o si no están acostumbrados a ver una advertencia para este servidor.</p>
 
-<!ENTITY securityOverride.linkText "O puede añadir una excepción…">
-<!ENTITY securityOverride.getMeOutOfHereButton "¡Sacame de aquí!">
-<!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningText "<p>Si no confía completamente en esta conexión a Internet o no está acostumbrado a ver advertencias para este servidor, evite agregar una excepción.</p>
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

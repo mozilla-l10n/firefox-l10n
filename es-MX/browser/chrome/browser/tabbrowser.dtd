@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(Sin título)">
-<!ENTITY  newTab.label           "Pestaña nueva">
-<!ENTITY  newTab.accesskey       "n">
-<!ENTITY  closeTab.label         "Cerrar pestaña">
-<!ENTITY  closeTab.accesskey         "p">
-<!ENTITY  closeOtherTabs.accesskey  "o">
-<!ENTITY  closeOtherTabs.label   "Cerrar otras pestañas">
-<!ENTITY  reloadAllTabs.label    "Recargar todas las pestañas">
-<!ENTITY  reloadAllTabs.accesskey         "a">
-<!ENTITY  reloadTab.label        "Recargar pestaña">
-<!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  openTabInNewWindow.label    "Abrir en una ventana nueva">
-<!ENTITY  openTabInNewWindow.accesskey "A">
-<!ENTITY  listAllTabs.label      "Listar todas las pestañas">
-<!ENTITY  bookmarkAllTabs.label       "Agregar a marcadores las pestañas abiertas…">
-<!ENTITY  bookmarkAllTabs.accesskey   "t">
-<!ENTITY  bookmarkThisTab.label       "Añadir esta pestaña a marcadores">
-<!ENTITY  bookmarkThisTab.accesskey   "m">
-<!ENTITY  undoCloseTab.label          "Deshacer cerrar pestaña">
-<!ENTITY  undoCloseTab.accesskey      "D">
-<!ENTITY  newTabButton.tooltip        "Abrir una pestaña nueva">
+<!ENTITY closeTab.label "Cerrar pestaña">
+<!ENTITY newTabButton.tooltip "Abrir una pestaña nueva">
