@@ -7,10 +7,6 @@
 #define bookmarks_title Marcadores
 #define bookmarks_heading Marcadores
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Obtener complementos para Marcadores
-
 #define bookmarks_toolbarfolder Barra de herramientas de la carpeta de Marcadores
 #define bookmarks_toolbarfolder_description Agregar los marcadores a esta carpeta para verlos en la barra de herramientas de Marcadores
 
