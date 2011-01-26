@@ -47,10 +47,10 @@
 
 <!ENTITY mnView.label "Görünüm">
 <!ENTITY mnView.accesskey "G">
-<!ENTITY mnDocViewerList.label "Document Viewer">
-<!ENTITY mnDocViewerList.accesskey "D">
-<!ENTITY mnObjectViewerList.label "Object Viewer">
-<!ENTITY mnObjectViewerList.accesskey "O">
+<!ENTITY mnDocViewerList.label "Belge görüntüleyici">
+<!ENTITY mnDocViewerList.accesskey "B">
+<!ENTITY mnObjectViewerList.label "Nesne görüntüleyici">
+<!ENTITY mnObjectViewerList.accesskey "N">
 <!ENTITY cmdToggleBrowser.label "Tarayıcı">
 <!ENTITY cmdToggleBrowser.accesskey "T">
 <!ENTITY cmdToggleSearch.label "Arama sonuçları">
