@@ -162,7 +162,7 @@
 <!ENTITY sortByJunkStatusCmd.accesskey                 "p">
 <!ENTITY sortBySubjectCmd.label                        "Teema">
 <!ENTITY sortBySubjectCmd.accesskey                    "T">
-<!ENTITY sortByFromCmd.label                           "Kellelt">
+<!ENTITY sortByFromCmd.label                           "Saatja">
 <!ENTITY sortByFromCmd.accesskey                       "K">
 <!ENTITY sortByRecipientCmd.label                      "Adressaat">
 <!ENTITY sortByRecipientCmd.accesskey                  "d">
@@ -584,16 +584,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label                       "Teema">
-<!ENTITY searchFromMenu.label                          "Kellelt">
-<!ENTITY searchSubjectOrFromMenu.label                 "Teema või kellelt">
-<!ENTITY searchRecipient.label                         "Kellele või koopia">
-<!ENTITY searchSubjectOrRecipientMenu.label            "Teema, kellele või koopia">
+<!ENTITY searchFromMenu.label                          "Saatja">
+<!ENTITY searchSubjectOrFromMenu.label                 "Teema või saatja">
+<!ENTITY searchRecipient.label                         "Saaja või koopia">
+<!ENTITY searchSubjectOrRecipientMenu.label            "Teema, saaja või koopia">
 <!ENTITY searchMessageBody.label                       "Kogu kiri">
 <!ENTITY saveAsVirtualFolderMenu.label                 "Salvesta otsing kaustana...">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label                            "Lõim">
-<!ENTITY fromColumn.label                              "Kellelt">
+<!ENTITY fromColumn.label                              "Saatja">
 <!ENTITY recipientColumn.label                         "Saaja">
 <!ENTITY subjectColumn.label                           "Teema">
 <!ENTITY dateColumn.label                              "Kuupäev">
