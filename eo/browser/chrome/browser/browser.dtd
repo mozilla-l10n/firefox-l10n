@@ -234,7 +234,7 @@ can reach it easily. -->
 <!ENTITY deleteCmd.label          "Forviŝi">  
 <!ENTITY deleteCmd.key            "N">  
 <!ENTITY deleteCmd.accesskey        "F"> 
-<!ENTITY selectAllCmd.label         "Elekti Ĉion">  
+<!ENTITY selectAllCmd.label         "Elekti ĉion">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "Ĉ"> 
 <!ENTITY preferencesCmd2.label       "Opcioj">

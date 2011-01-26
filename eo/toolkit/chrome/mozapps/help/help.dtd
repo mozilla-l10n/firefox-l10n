@@ -12,7 +12,7 @@
 <!ENTITY forwardButton.tooltip          "Iri antaŭen unu paĝo">
 <!ENTITY copyCmd.label                  "Kopii">
 <!ENTITY copyCmd.accesskey              "K">
-<!ENTITY selectAllCmd.label             "Elekti Ĉion">
+<!ENTITY selectAllCmd.label             "Elekti ĉion">
 <!ENTITY selectAllCmd.accesskey         "Ĉ">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
@@ -23,7 +23,7 @@
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Serĉi">
-<!ENTITY searchHeader.label             "Search results">
+<!ENTITY searchHeader.label             "Rezulto de serĉado">
 <!ENTITY toctab.label                   "Enhavoj">
 <!ENTITY toctab.accesskey               "E">
 
