@@ -1,10 +1,8 @@
-<!-- extracted from content/openLocation.xul -->
-
-<!ENTITY enter.label "Introduce la dirección web o el nombre del archivo local que quieras abrir:">  
+<!ENTITY enter.label "Introduce la dirección web o el nombre del archivo local que quieras abrir:">
 <!ENTITY chooseFile.label "Elegir archivo…">
-<!ENTITY newWindow.label "Ventana nueva">
 <!ENTITY newTab.label "Pestaña nueva">
-<!ENTITY topWindow.label "Ventana actual">
+<!ENTITY newWindow.label "Ventana nueva">
+<!ENTITY topTab.label "Pestaña actual">
 <!ENTITY caption.label "Abrir dirección web">
 <!ENTITY openWhere.label "Abrir en:">
 <!ENTITY openBtn.label "Abrir">

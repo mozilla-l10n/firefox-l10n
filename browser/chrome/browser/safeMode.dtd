@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Mike Connor <mconnor@steelgryphon.com>
+   -   Mozilla México - Roberto Alvarado
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,27 +36,19 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY safeModeDialog.title         "Modo seguro de &brandShortName;">
-<!ENTITY window.width                 "37em">
-
-<!ENTITY safeModeDescription.label    "&brandShortName; se está ejecutando en modo seguro, por esta razón, sus parámetros personalizados, temas y extensiones estarán deshabilitados temporalmente.">
-<!ENTITY safeModeDescription2.label   "Puede hacer permanentes todos o algunos de los siguientes cambios:">
-
-<!ENTITY disableAddons.label          "Desactivar todos los complementos">
-<!ENTITY disableAddons.accesskey      "D">
-
-<!ENTITY resetToolbars.label          "Restaurar barras de herramientas y controles">
-<!ENTITY resetToolbars.accesskey      "R">
-
-<!ENTITY resetBookmarks.label         "Restablecer los marcadores predeterminados de &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "b">
-
-<!ENTITY resetUserPrefs.label         "Restaurar todas las preferencias de usuario predeterminadas de &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey     "p">
-
-<!ENTITY restoreSearch.label          "Restaurar motores de búsqueda predeterminados">
-<!ENTITY restoreSearch.accesskey      "s">
-
+<!ENTITY safeModeDialog.title "Modo seguro de &brandShortName;">
+<!ENTITY window.width "37em">
+<!ENTITY safeModeDescription.label "&brandShortName; se está ejecutando en modo seguro, por esta razón, tus parámetros personalizados, temas y complementos estarán deshabilitados temporalmente.">
+<!ENTITY safeModeDescription2.label "Puedes hacer permanentes todos o algunos de los siguientes cambios:">
+<!ENTITY disableAddons.label "Desactivar todos los complementos">
+<!ENTITY disableAddons.accesskey "D">
+<!ENTITY resetToolbars.label "Restaurar barras de herramientas y controles">
+<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY deleteBookmarks.label "Borrar todos los marcadores excepto los respaldos">
+<!ENTITY deleteBookmarks.accesskey "b">
+<!ENTITY resetUserPrefs.label "Restaurar todas las preferencias de usuario predeterminadas de &brandShortName;">
+<!ENTITY resetUserPrefs.accesskey "p">
+<!ENTITY restoreSearch.label "Restaurar motores de búsqueda predeterminados">
+<!ENTITY restoreSearch.accesskey "b">
 <!ENTITY changeAndRestartButton.label "Aplicar cambios y reiniciar">
-<!ENTITY continueButton.label         "Continuar en modo seguro">
+<!ENTITY continueButton.label "Continuar en modo seguro">

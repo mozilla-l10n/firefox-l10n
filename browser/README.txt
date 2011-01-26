@@ -1,4 +1,2 @@
-For information about installing, running and configuring Firefox 
-including a list of known issues and troubleshooting information, 
-refer to: http://getfirefox.com/releases/
-
+Para obtener información acerca de la instalación, funcionamiento y configuración de Firefox
+incluyendo una lista de problemas conocidos e información de solución de problemas, accede aquí: http://getfirefox.com/releases/
