@@ -1,0 +1,14 @@
+<!ENTITY networkPanel.requestURL "Solicitud de URL">
+<!ENTITY networkPanel.requestMethod "Solicitud de Método">
+<!ENTITY networkPanel.statusCode "Código de estado">
+<!ENTITY networkPanel.requestHeaders "Solicitud de encabezados">
+<!ENTITY networkPanel.requestCookie "Cookie enviado">
+<!ENTITY networkPanel.requestBody "Pide">
+<!ENTITY networkPanel.requestFormData "Enviado el formulario de datos">
+<!ENTITY networkPanel.responseHeaders "Encabezados de respuesta">
+<!ENTITY networkPanel.responseBody "Respuesta">
+<!ENTITY networkPanel.responseBodyCached "Datos almacenados en caché">
+<!ENTITY networkPanel.responseBodyUnknownType "Tipo de contenido desconocido">
+<!ENTITY networkPanel.responseNoBody "No hay respuesta">
+<!ENTITY networkPanel.responseImage "Imagen recibida">
+<!ENTITY networkPanel.responseImageCached "Imagen en el caché">
