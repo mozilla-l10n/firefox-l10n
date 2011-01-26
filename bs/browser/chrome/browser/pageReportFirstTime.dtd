@@ -1,7 +1,0 @@
-<!ENTITY startDescriptionText.label        "Web stranica je pokušala otvoriti pop-up prozor bez vaše dozvole. &brandShortName; je automatski zatvorio pop-up prozor.">
-
-<!ENTITY endDescription.label              "Možete kliknuti na ovu ikonu da vidite koje stranice je &brandShortName; blokirao i da omogućite ovim stranicama da otvore pop-up prozore, ukoliko su neophodni za ispravan rad stranice.">
-
-<!ENTITY caption.label                     "O blokiranju pop-up prozora">
-
-<!ENTITY done.label "Gotovo">
