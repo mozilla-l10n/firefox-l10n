@@ -51,7 +51,7 @@
 <!ENTITY            newButton.accesskey    "K">
 <!ENTITY            renameButton.label     "Renomi profilon…">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Forviŝi Profilon…">
+<!ENTITY            deleteButton.label     "Forviŝi profilon…">
 <!ENTITY            deleteButton.accesskey "F">
 
 <!-- manager entities -->
