@@ -35,8 +35,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label                            "kellele ">
-<!ENTITY fromField2.label                          "kellelt ">
+<!ENTITY toField2.label                            "saaja ">
+<!ENTITY fromField2.label                          "saatja ">
 <!ENTITY senderField2.label                        "saatja ">
 <!ENTITY organizationField2.label                  "organisatsioon ">
 <!ENTITY replyToField2.label                       "vastamise aadress ">

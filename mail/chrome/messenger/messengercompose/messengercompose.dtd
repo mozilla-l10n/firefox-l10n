@@ -201,7 +201,7 @@
 <!-- Headers -->
 <!ENTITY fromAddr.label                      "Saatja:">
 <!ENTITY fromAddr.accesskey                  "t">
-<!ENTITY toAddr.label                        "Kellele:">
+<!ENTITY toAddr.label                        "Saaja:">
 <!ENTITY ccAddr.label                        "Koopia:">
 <!ENTITY bccAddr.label                       "Pimekoopia:">
 <!ENTITY replyAddr.label                     "Vastamise aadress:">
