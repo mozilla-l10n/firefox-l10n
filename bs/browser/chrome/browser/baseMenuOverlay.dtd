@@ -29,8 +29,6 @@
 <!ENTITY helpFeedbackPage.label      "Pošalji povratnu informaciju…">
 <!ENTITY helpFeedbackPage.accesskey  "P">
 
-<!ENTITY updateCmd.label                "Provjeri za update…">
-
 <!ENTITY preferencesCmdMac.label        "Postavke…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

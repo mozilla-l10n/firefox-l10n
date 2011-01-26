@@ -48,7 +48,7 @@
 
 <!ENTITY certmgr.mine                         "Imate certifikate od ovih organizacija koji vas identifikuju:">
 <!ENTITY certmgr.others                       "Imate certifikate na fajlu koji identifikuju ove osobe:">
-<!ENTITY certmgr.websites2                    "Imate cetifikate na fajlu koji prepoznaje ove servere:">
+<!ENTITY certmgr.websites2                    "Imate certifikate na fajlu koji prepoznaje ove servere:">
 <!ENTITY certmgr.cas                          "Imate certifikate na fajlu koji identifikuju ove certifikacijske autoritete:">
 <!ENTITY certmgr.orphans                      "Imate certifikate na fajlu koji ne spadaju ni u jednu od ostalih kategorija:">
 
@@ -133,7 +133,7 @@
 <!ENTITY certmgr.addException.accesskey       "D">
 
 <!ENTITY exceptionMgr.title                   "Dodaj sigurnosni izuzetak">
-<!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.label   "Potvrdi sigurnosni izuzetak">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitimne banke, prodavnice, i druge javne stranice vam neće tražiti da radite ovo.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">

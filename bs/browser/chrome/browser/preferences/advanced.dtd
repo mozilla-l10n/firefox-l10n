@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Traži tekst čim počnem da kucam">
 <!ENTITY searchStartTyping.accesskey     "T">
-<!ENTITY blockAutoRefresh.label          "Upozori me kada web stranice pokušaju da redirektuju ili osvježe stranicu">
+<!ENTITY blockAutoRefresh.label          "Upozori me kada web stranice pokušaju da preusmjere ili osvježe stranicu">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Surfanje">
@@ -27,14 +27,14 @@
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "Odmah provjeri">
 <!ENTITY checkNow.accesskey              "O">
-<!ENTITY submitCrashes.label             "Pošaljite izvještaje o rušenju">
-<!ENTITY submitCrashes.accesskey         "P">
+<!ENTITY submitCrashes.label             "Šalji izvještaje o rušenju">
+<!ENTITY submitCrashes.accesskey         "Š">
 
 <!ENTITY networkTab.label                "Mreža">
 
 <!ENTITY connection.label                "Konekcija">
 
-<!ENTITY connectionDesc.label            "Konfiguriši kako se &brandShortName; konektuje na internet">
+<!ENTITY connectionDesc.label            "Konfigurišite kako se &brandShortName; konektuje na internet">
 <!ENTITY connectionSettings.label        "Postavke…">
 <!ENTITY connectionSettings.accesskey    "e">
 

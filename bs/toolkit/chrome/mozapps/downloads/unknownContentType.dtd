@@ -51,7 +51,7 @@
 <!ENTITY  rememberChoice.label        "Od sada ovo čini automatski za fajlove poput ovog.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "koje je:">
+<!ENTITY  whichIsA.label              "što je:">
 
 <!ENTITY  chooseHandlerMac.label      "Izaberi…">
 <!ENTITY  chooseHandlerMac.accesskey  "I">

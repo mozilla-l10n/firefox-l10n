@@ -12,9 +12,9 @@
 <!ENTITY copyCmd.label             "Kopiraj">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "K">
-<!ENTITY pasteCmd.label            "Ubaci">
+<!ENTITY pasteCmd.label            "Zalijepi">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "U">
+<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Obriši">
 <!ENTITY deleteCmd.accesskey       "O">
 <!ENTITY selectAllCmd.label        "Označi sve">

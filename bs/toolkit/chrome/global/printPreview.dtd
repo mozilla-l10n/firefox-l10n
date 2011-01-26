@@ -42,8 +42,8 @@
 <!ENTITY page.label           "Strana:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "od">
-<!ENTITY scale.label          "Skala:">
-<!ENTITY scale.accesskey      "S">
+<!ENTITY scale.label          "Razmjera:">
+<!ENTITY scale.accesskey      "R">
 <!ENTITY portrait.label       "Uspravno">
 <!ENTITY portrait.accesskey   "o">
 <!ENTITY landscape.label      "Položeno">
@@ -64,7 +64,7 @@
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Korisnički…">
 <!ENTITY ShrinkToFit.label    "Smanji da stane">
-<!ENTITY customPrompt.title   "Korisnička skala…">
+<!ENTITY customPrompt.title   "Korisnička razmjera…">
 
 <!ENTITY homearrow.tooltip    "Prva strana">
 <!ENTITY endarrow.tooltip     "Zadnja strana">

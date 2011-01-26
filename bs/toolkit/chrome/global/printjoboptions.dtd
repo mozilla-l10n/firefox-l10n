@@ -18,8 +18,8 @@
 <!ENTITY jobTitleInput.accesskey "N">
 
 <!ENTITY colorGroup.label "Boja:">
-<!ENTITY grayRadio.label "Sive nijanse">
-<!ENTITY grayRadio.accesskey "S">
+<!ENTITY grayRadio.label "Nijanse sive boje">
+<!ENTITY grayRadio.accesskey "N">
 <!ENTITY colorRadio.label "U boji">
 <!ENTITY colorRadio.accesskey "U">
 

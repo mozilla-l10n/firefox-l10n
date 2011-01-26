@@ -39,8 +39,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "P">
 <!ENTITY updates.viewUpdates.label            "Prikaži nedavne update-e">
 <!ENTITY updates.viewUpdates.accesskey        "v">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Automatski vrši update add-ona">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Postavi sve add-one da vrše update automatski">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "r">
 <!ENTITY updates.resetUpdatesToManual.label          "Postavi sve add-one da vrše update ručno">
@@ -187,7 +196,7 @@
 
 <!ENTITY addon.createdBy.label                "Od ">
 
-<!ENTITY eula.title                           "End-User License Agreement">
+<!ENTITY eula.title                           "Ugovor o korištenju za krajnjeg korisnika">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Accept and Install…">
+<!ENTITY eula.accept                          "Prihvati i instaliraj…">

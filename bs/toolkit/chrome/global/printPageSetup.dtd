@@ -12,8 +12,8 @@
 <!ENTITY landscape.label     "Položeno">
 <!ENTITY landscape.accesskey "l">
 
-<!ENTITY scale.label         "Skala:">
-<!ENTITY scale.accesskey     "S">
+<!ENTITY scale.label         "Razmjera:">
+<!ENTITY scale.accesskey     "R">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Skupi da stane širina stranice">

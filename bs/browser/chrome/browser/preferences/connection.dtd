@@ -3,7 +3,7 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Konfiguriši Proxy za pristup internetu">
+<!ENTITY  proxyTitle.label              "Konfigurišite Proxy za pristup internetu">
 <!ENTITY  noProxyTypeRadio.label        "Nema proxyja">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Koristi sistemske proxy postavke">

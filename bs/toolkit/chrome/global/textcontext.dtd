@@ -2,8 +2,8 @@
 <!ENTITY cutCmd.accesskey "I">
 <!ENTITY copyCmd.label "Kopiraj">
 <!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Ubaci">
-<!ENTITY pasteCmd.accesskey "U">
+<!ENTITY pasteCmd.label "Zalijepi">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Poništi">
 <!ENTITY undoCmd.accesskey "P">
 <!ENTITY selectAllCmd.label "Označi sve">

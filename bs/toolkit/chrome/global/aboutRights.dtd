@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "O vašim pravima">
-<!ENTITY rights.intro "&brandFullName; je besplatan i open source softver, napravljen od strane hiljada ljudi iz cjelog svijeta. Postoji nekoliko stvari koje biste trebali znati:">
+<!ENTITY rights.intro "&brandFullName; je besplatan softver otvorenog koda, kojeg je razvila zajednica sačinjena od hiljada ljudi iz cjelog svijeta. Postoji nekoliko stvari koje biste trebali znati:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -37,9 +37,9 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Ako ovaj proizvod inkorporira web servise, bilo kakav primjenjivi uvjet za uslugu(e) bi trebao biti vezan za ">
+<!ENTITY rights.intro-point4a-unbranded "Ukoliko su web servisi uključeni u ovaj proizvod, bilo kakvi primjenjivi uvjeti za uslugu(e) bi trebali biti vezani za ">
 <!ENTITY rights.intro-point4b-unbranded "Web Site servisi">
-<!ENTITY rights.intro-point4c-unbranded " sekcija.">
+<!ENTITY rights.intro-point4c-unbranded " sekciju.">
 
 <!ENTITY rights2.webservices-header "&brandFullName; Web-bazirani informacioni servisi">
 
@@ -70,14 +70,14 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Lokacijski-svjesno surfanje je sada onemogućeno">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Pregled servisa web stranica koje proizvod inkorporira, zajedno sa uputstvima kako da ih onemogućite, ako je primjenjivo, trebali bi biti uključeni ovdje.">
+<!ENTITY rights.webservices-unbranded "Pregled servisa web stranica uključenih u proizvod, zajedno sa uputstvima kako da ih onemogućite, trebao bi biti prikazan ovdje.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Bilo kakvi primjenjivi uslovi korištenja za ovaj proizvod trebaju biti navedeni ovdje.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights2.webservices-term1 "&vendorShortName; i njeni saradnici, davatelji licenci i partneri rade kako bi omogućili najpreciznije Servise. Međutim, mi ne možemo garantovati da je ova informacija opsežna i bez greške. Naprimjer, servis Sigurnog surfanja može ne identifikovati neku riskantnu stranicu, a neke sigurne stranice pogrešno identifikovati, dok su sve lokacije koje vrate naši pružatelji usluga Lokacijski-svjesnog surfanja samo procjena i niti mi niti naši pružatelji usluga možemo garantovati njihovu potpunu tačnost.">
-<!ENTITY rights.webservices-term2 "&vendorShortName; može prekinuti ili promijeniti Servise prema vlastitom nahođenju.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; može ukinuti ili promijeniti Servise prema vlastitom nahođenju.">
 <!ENTITY rights2.webservices-term3 "Dobrodošli ste da koristite ove Servise sa pratećom verzijom &brandShortName;-a, i &vendorShortName; vam daje pravo na to. &vendorShortName; i njeni davaoci licenci zadržavaju sva ostala prava na Servise. Ovi uslovi nisu namijenjeni da ograniče bilo koje pravo izdato pod open source licencama primjenjivim na &brandShortName; i odgovarajuće source code verzije &brandShortName;-a.">
 <!ENTITY rights.webservices-term4 "Servisi su omogućeni &quot;as-is.&quot; &vendorShortName;, sa svojim saradnicima, davateljima licenci, i distributerima, odriče se garancija, bilo izravnih ili neizravnih, uključujući bez ograničenja, garancije da su Servisi podesni za prodaju i da odgovaraju vašim posebnim potrebama. Vi snosite cjelokupan rizik za izbor Servisa za vaše potrebe kao i za kvalitetu i performanse Servisa. Neke jurisdikcije ne dopuštaju isključivanje ili ograničavanje podrazumijevanih garancija, pa se to odricanje ne odnosi na vas.">
 <!ENTITY rights.webservices-term5 "Osim u slučajevima propisanim zakonom, &vendorShortName;, sa svojim saradnicima, davateljima licenci, i distributerima neće biti odgovoran za bilo kakve neizravne, posebne, slučajne, posljedične, kaznene ili primjerne štete koje proizlaze iz ili se na bilo koji način odnose na korištenje &brandShortName;a i Servisa. Kolektivna odgovornost pod ovim uvjetima neće biti veća od $500 (petsto dolara). Neke jurisdikcije ne dopuštaju isključenje ili ograničenje određenih šteta, tako da se ovo isključenje i ograničenje možda ne odnose na vas.">

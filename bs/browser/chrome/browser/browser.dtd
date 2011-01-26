@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Pretplati me na ovu stranicu">
 <!ENTITY subscribeToPageMenuitem.label "Pretplati me na ovu stranicu…">
 <!ENTITY addCurPagesCmd.label "Zabilježi sve tabove…">
-<!ENTITY showAllBookmarks.label "Prikaži sve zabilješke…">
+<!ENTITY showAllBookmarks2.label "Prikaži sve zabilješke">
 <!ENTITY bookmarkAllCmd.label "Zabilježi sve tabove…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži više zabilješki">
 
@@ -228,17 +228,17 @@ can reach it easily. -->
 <!ENTITY copyCmd.label            "Kopiraj">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Ubaci">  
+<!ENTITY pasteCmd.label           "Zalijepi">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "U"> 
+<!ENTITY pasteCmd.accesskey         "p"> 
 <!ENTITY deleteCmd.label          "Obriši">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "O"> 
 <!ENTITY selectAllCmd.label         "Označi sve">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "a"> 
-<!ENTITY preferencesCmd.label       "Opcije…">
-<!ENTITY preferencesCmd.accesskey     "O"> 
+<!ENTITY preferencesCmd2.label       "Opcije">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Postavke">
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
@@ -454,7 +454,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY cutButton.tooltip              "Isjeci">
 <!ENTITY copyButton.tooltip             "Kopiraj">
-<!ENTITY pasteButton.tooltip            "Ubaci">
+<!ENTITY pasteButton.tooltip            "Zalijepi">
 
 <!ENTITY fullScreenButton.tooltip       "Prikaži prozor preko cijelog ekrana">
 
@@ -543,8 +543,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSetup.label              "Podesi &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.label              "Podesite &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "s">
 <!ENTITY syncSyncNowItem.label        "Sinhronizuj sada">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY addonBarCloseButton.tooltip  "Zatvori Add-on traku">

@@ -1,7 +1,7 @@
 <!ENTITY window.width                       "36em">
 
 <!ENTITY     cookiesonsystem.label          "Sljedeći kolačići su smješteni na vašem računaru:">
-<!ENTITY     cookiename.label               "Ime kolačića">
+<!ENTITY     cookiename.label               "Naziv kolačića">
 <!ENTITY     cookiedomain.label             "Stranica"> 
 <!ENTITY     button.removecookies.label     "Ukloni kolačiće">
 <!ENTITY     button.removecookie.label      "Ukloni kolačić">

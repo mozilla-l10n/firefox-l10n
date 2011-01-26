@@ -44,5 +44,5 @@
 <!ENTITY moveResizeWindows.accesskey    "m">
 <!ENTITY raiseLowerWindows.label        "Dizanje ili spuštanje prozora">
 <!ENTITY raiseLowerWindows.accesskey    "r">
-<!ENTITY disableContextMenus.label      "Onemogućivanje ili zamjenu kontekstnih menija">
+<!ENTITY disableContextMenus.label      "Onemogućavanje ili zamjenu kontekstnih menija">
 <!ENTITY disableContextMenus.accesskey  "O">
