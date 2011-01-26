@@ -42,8 +42,8 @@
 <!ENTITY cmdShowFindDialog.accesskey "F">
 <!ENTITY cmdShowFindDialog.key "f">
 
-<!ENTITY cmdFindAgain.label "Find Again">
-<!ENTITY cmdFindAgain.accesskey "g">
+<!ENTITY cmdFindAgain.label "Sonrakini bul">
+<!ENTITY cmdFindAgain.accesskey "S">
 <!ENTITY cmdFindAgain.key "G">
 
 <!ENTITY cmdToggleAnonContent.label "Show Anonymous Content">
