@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY certmgr.title                       "Ziurtagiri kudeatzailea">
+<!ENTITY certmgr.title                       "Ziurtagiri-kudeatzailea">
 
 <!ENTITY certmgr.tab.mine                     "Zure ziurtagiriak">
 <!ENTITY certmgr.tab.others2                  "Pertsonak">
@@ -71,17 +71,17 @@
 <!ENTITY certmgr.certdetail.md5fingerprint    "MD5 hatzmarka">
 
 <!ENTITY certmgr.editcert.title               "Editatu segurtasun ziurtagiriaren ezarpenak">
-<!ENTITY certmgr.editcacert.title             "Editatu AZ ziurtagiriaren fidagarritasun ezarpenak">
-<!ENTITY certmgr.editsslcert.title            "Editatu webgunearen ziurtagiriaren fidagarritasun ezarpenak">
-<!ENTITY certmgr.editcert.edittrust           "Editatu fidagarritasun ezarpenak:">
+<!ENTITY certmgr.editcacert.title             "Editatu AZ ziurtagiriaren fidagarritasun-ezarpenak">
+<!ENTITY certmgr.editsslcert.title            "Editatu webgunearen ziurtagiriaren fidagarritasun-ezarpenak">
+<!ENTITY certmgr.editcert.edittrust           "Editatu fidagarritasun-ezarpenak:">
 <!ENTITY certmgr.editcert.trustssl            "Ziurtagiri honek webguneak identifika ditzake.">
 <!ENTITY certmgr.editcert.trustemail          "Ziurtagiri honek posta erabiltzaileak identifika ditzake.">
 <!ENTITY certmgr.editcert.trustobjsign        "Ziurtagiri honek software egileak identifika ditzake.">
-<!ENTITY certmgr.editsslcert.edittrust        "Editatu ziurtagiri fidagarritasun ezarpenak:">
+<!ENTITY certmgr.editsslcert.edittrust        "Editatu ziurtagiri fidagarritasun-ezarpenak:">
 <!ENTITY certmgr.editsslcert.dotrust          "Fidatu ziurtagiri honen autentikotasunaz.">
 <!ENTITY certmgr.editsslcert.donttrust        "Ez fidatu ziurtagiri honen autentikotasunaz.">
-<!ENTITY certmgr.editemailcert.title          "e-posta ziurtagirien fidagarritasun ezarpenak aldatu">
-<!ENTITY certmgr.editemailcert.edittrust      "Editatu ziurtagiri fidagarritasun ezarpenak:">
+<!ENTITY certmgr.editemailcert.title          "Editatu e-posta ziurtagirien fidagarritasun-ezarpenak">
+<!ENTITY certmgr.editemailcert.edittrust      "Editatu ziurtagiri fidagarritasun-ezarpenak:">
 <!ENTITY certmgr.editemailcert.dotrust        "Fidatu ziurtagiri honen autentikotasunaz.">
 <!ENTITY certmgr.editemailcert.donttrust      "Ez fidatu ziurtagiri honen autentikotasunaz.">
 
@@ -90,7 +90,7 @@
 <!ENTITY certmgr.deletecert.aftername         "Ziur zaude ziurtagiri hau ezabatu nahi duzula?">
 <!ENTITY certmgr.deleteusercert.title         "Ezabatu zure ziurtagiria">
 <!ENTITY certmgr.deleteusercert.beforename    "Ziurtagiri hau ezabatzeko eskatu duzu:">
-<!ENTITY certmgr.deleteusercert.aftername     "Ziurtagiri hau ezabatu ondoren, ezin izango duzu horren bidez zifratutako posta irakurri.">
+<!ENTITY certmgr.deleteusercert.aftername     "Ziurtagiri hau ezabatu ondoren, ezin izango duzu honekin zifratutako posta irakurri.">
 
 <!ENTITY certmgr.certname                     "Ziurtagiriaren izena">
 <!ENTITY certmgr.certserver                   "Zerbitzaria">

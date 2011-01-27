@@ -30,7 +30,7 @@
 <!ENTITY view.searchengines.label             "Bilaketa-motorrak">
 <!ENTITY view.features.label                  "Hedapenak">
 <!ENTITY view.appearance2.label               "Itxura">
-<!ENTITY view.plugins.label                   "Plugin-ak">
+<!ENTITY view.plugins.label                   "Pluginak">
 <!ENTITY view.recentUpdates.label             "Azken eguneraketak">
 <!ENTITY view.availableUpdates.label          "Eguneraketak eskura">
 <!-- addon updates -->

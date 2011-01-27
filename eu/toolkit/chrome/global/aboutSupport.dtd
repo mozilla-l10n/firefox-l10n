@@ -15,7 +15,7 @@ bazabiltza, bisitatu gure <a id='supportLink'>laguntzaren webgunea</a>.">
 <!ENTITY aboutSupport.appBasicsName "Izena">
 <!ENTITY aboutSupport.appBasicsVersion "Bertsioa">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilaren direktorioa">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Gaitutako plugin-ak">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Gaitutako pluginak">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Eraikitze-konfigurazioa">
 <!ENTITY aboutSupport.appBasicsUserAgent "Erabiltzaile-agentea">
 

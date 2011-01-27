@@ -26,6 +26,6 @@
 <!-- Firefox 4 beta version UI -->
 
 <!ENTITY testpilot.enable.label                        "Gaitu erabiltzaile-azterketak">
-<!ENTITY testpilot.feedbackbutton.label                "Berrelikadura">
+<!ENTITY testpilot.feedbackbutton.label                "Iritzia">
 <!ENTITY testpilot.happy.label        "Firefoxek zoriontsu egin nau zeren eta…">
 <!ENTITY testpilot.sad.label          "Firefoxek goibeldu egin nau zeren eta…">

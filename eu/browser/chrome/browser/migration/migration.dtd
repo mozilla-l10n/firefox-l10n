@@ -1,8 +1,8 @@
 
-<!ENTITY migrationWizard.title          "Inportazio morroia">
+<!ENTITY migrationWizard.title          "Inportazio-morroia">
 
-<!ENTITY importFrom.label               "Laster-marka, historia, pasahitzak eta beste zenbait datu hemendik inportatu:">
-<!ENTITY importFromUnix.label           "Hobespenak, laster-markak, historia, pasahitzak eta beste datuak hemendik inportatu:">
+<!ENTITY importFrom.label               "Laster-markak, historia, pasahitzak eta beste zenbait datu hemendik inportatu:">
+<!ENTITY importFromUnix.label           "Hobespenak, laster-markak, historia, pasahitzak eta beste zenbait datu hemendik inportatu:">
 <!ENTITY importFromBookmarks.label      "Laster-markak nondik inportatu:">
 
 <!ENTITY importFromIE.label             "Microsoft internet explorer">
@@ -34,16 +34,16 @@
 <!ENTITY importFromHTMLFile.label       "HTML fitxategi batetik">
 <!ENTITY importFromHTMLFile.accesskey   "f">
 
-<!ENTITY noMigrationSources.label       "Ezin izan da laster-marka, historia edo pasahitz daturik duen programarik aurkitu.">
+<!ENTITY noMigrationSources.label       "Ezin izan da laster-markak, historia edo pasahitz daturik duen programarik aurkitu.">
 
 <!ENTITY importSource.title             "Inportatu ezarpenak eta datuak">
 <!ENTITY importItems.title              "Inportatu beharrekoak">
 <!ENTITY importItems.label              "Aukeratu inportatu beharrekoak:">
 
-<!ENTITY migrating.title                "Inportatzen...">
-<!ENTITY migrating.label                "Honako osagai hauek inportatzen ari da...">
+<!ENTITY migrating.title                "Inportatzen…">
+<!ENTITY migrating.label                "Ondorengo osagaiak inportatzen…">
 
-<!ENTITY selectProfile.title            "Hautatu Profila">
+<!ENTITY selectProfile.title            "Hautatu profila">
 <!ENTITY selectProfile.label            "Inportatzeko honako profil hauek daude eskuragarri:">
 
 <!ENTITY done.title                     "Inportazioa burutu da">

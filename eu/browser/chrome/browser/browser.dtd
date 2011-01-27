@@ -166,7 +166,7 @@ can reach it easily. -->
 <!ENTITY toolsMenu.label              "Tresnak">
 <!ENTITY toolsMenu.accesskey          "T">
 
-<!ENTITY keywordfield.label           "Gehitu bilaketa honentzat gako-hitza...">
+<!ENTITY keywordfield.label           "Gehitu bilaketa honentzat gako-hitza…">
 <!ENTITY keywordfield.accesskey       "k">
 <!ENTITY search.label                 "Web bilaketa">
 <!ENTITY search.accesskey             "b">
@@ -544,7 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSetup.label              "Konfiguratu &syncBrand.shortName.label;">
+<!ENTITY syncSetup.label              "Konfiguratu &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Sinkronizatu orain">
 <!ENTITY syncSyncNowItem.accesskey    "S">
