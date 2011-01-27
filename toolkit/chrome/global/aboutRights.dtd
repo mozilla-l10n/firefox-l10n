@@ -21,10 +21,10 @@
 <!ENTITY rights.intro-point2-c " topa daiteke.">
 <!-- point 2.5 text for official branded builds -->
 
-<!ENTITY rights.intro-point2.5 "&brandShortName;(e)ko hainbat funtzionaltasunek, hala nola hutsegiteen berriemaileak, &vendorShortName;ri berrelikadura emateko aukera ematen dizute. Berrelikadura bidaltzeko aukeratuz gero, &vendorShortName;ri baimena ematen diozu berrelikadura hori bere produktuak hobetzeko, bere webguneetan eta banatzeko erabiltzeko.">
+<!ENTITY rights.intro-point2.5 "&brandShortName;(e)ko hainbat funtzionaltasunek, hala nola hutsegiteen berriemaileak, &vendorShortName;ri iritzia emateko aukera ematen dizute. Iritzia bidaltzea aukeratuz gero, &vendorShortName;ri baimena ematen diozu iritzi hori erabiltzeko bere produktuak hobetzeko, bere webguneetan eta banatzeko.">
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights2.intro-point3a "&brandShortName; bidez &vendorShortName;ri bidalitako zure informazio pertsonala eta berrelikadura nola erabiltzen dugun ">
+<!ENTITY rights2.intro-point3a "&brandShortName; bidez &vendorShortName;ri bidalitako zure informazio pertsonala eta iritzia nola erabiltzen dugun ">
 <!ENTITY rights2.intro-point3b "&brandShortName;(r)en pribatutasun-politika">
 <!ENTITY rights.intro-point3c "n deskribatzen da.">
 <!-- point 3 text for unbranded builds -->

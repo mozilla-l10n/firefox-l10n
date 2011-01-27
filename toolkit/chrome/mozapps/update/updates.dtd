@@ -3,9 +3,9 @@
 <!ENTITY  checking.title                  "Eguneraketen bila">
 <!ENTITY  updateCheck.label               "&brandShortName;(r)en bertsio berrien bila…">
 
-<!ENTITY  pluginupdatesfound.title        "Plugin-en eguneraketak aurkitu dira">
+<!ENTITY  pluginupdatesfound.title        "Pluginen eguneraketak aurkitu dira">
 <!ENTITY  pluginupdatesfound.label        "Zure plugin baten edo gehiagoren bertsio berriak aurkitu dira.">
-<!ENTITY  pluginupdateslink.label         "Ikusi nola bertsio-berri ditzakezun plugin-ak.">
+<!ENTITY  pluginupdateslink.label         "Ikusi nola bertsio-berri ditzakezun pluginak.">
 
 <!ENTITY  noupdatesfound.title            "Ez da eguneraketarik aurkitu">
 <!ENTITY  noupdatesautoenabled.intro      "Ez dago eguneraketarik eskuragarri. &brandShortName;(e)k aldiro 
