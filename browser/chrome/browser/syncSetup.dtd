@@ -68,10 +68,10 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Autentificare">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingSyncKey.description "Puteți obține o copie a cheii de sincronizare accesând opțiunile &syncBrand.shortName.label; de pe dispozitivul dumneavoastră și selectând &#x0022;Cheia mea de sincronizare&#x0022; din &#x0022;Administrare cont&#x0022;.">
 <!ENTITY verifying.label              "Se verifică…">
 <!ENTITY resetPassword.label          "Resetează parola">
-<!ENTITY lostSyncKey.label            "Mi-am pierdut cheia de sincronizare">
+<!ENTITY resetSyncKey.label           "Am pierdut celălalt dispozitiv.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opțiuni de sincronizare">
