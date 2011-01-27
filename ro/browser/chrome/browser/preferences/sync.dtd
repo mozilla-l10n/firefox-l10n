@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; vă permite să accesați istoricul, semnele de carte, parolele și filele deschise de pe toate dispozitivele pe care le aveți.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Cont &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Contul curent:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Actualizează">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "Schimbare parolă">
 <!ENTITY mySyncKey.label              "Cheia mea de sincronizare">
 <!ENTITY resetSync.label              "Resetează sincronizarea">
-<!ENTITY stopUsingAccount.label       "Oprește utilizarea acestui cont">
 <!ENTITY addDevice.label              "Adaugă un dispozitiv">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Sincronizare cu navigatorul">
-<!ENTITY syncComputerName.label       "Nume calculator:">
-<!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sincronizează">
 <!ENTITY engine.bookmarks.label     "Semne de carte">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label         "Preferințe">
 <!ENTITY engine.prefs.accesskey     "P">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Nume calculator:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY deactivateDevice.label       "Dezactivează dispozitivul">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termeni ai serviciului">
