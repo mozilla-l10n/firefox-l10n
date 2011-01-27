@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Historia">
 <!ENTITY desktopHeader.label       "Mahaigaina">
 
+<!ENTITY editBookmarkDialog.title  "Editatu laster-marka">
 <!ENTITY editBookmarkDone.label    "Eginda">
 <!ENTITY editBookmarkTags.label    "Gehitu etiketak hemen">
 
