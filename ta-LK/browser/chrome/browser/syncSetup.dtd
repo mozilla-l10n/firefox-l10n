@@ -82,3 +82,33 @@ Entities below were automatically added by compare-locales,
 <!ENTITY syncKeyEntry.label "உங்களுடைய ஒத்திசைவு விசை">
 <!ENTITY verifying.label "சரிபார்க்கப்படுகிறது...">
 <!ENTITY confirm.client.warning.label "எச்சரிக்கை: இந்த கணினியிலுள்ள அனைத்து &brandShortName; தரவையும் மாற்றிவிடும்!">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY addDevice.dialog.syncKey.label "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
+<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY addDevice.dialog.enterCode.label "Enter the code that the device provides:">
+<!ENTITY signIn.account2.accesskey "A">
+<!ENTITY addDevice.dialog.tryAgain.label "Please try again.">
+<!ENTITY addDevice.dialog.connected.label "Device Connected">
+<!ENTITY signIn.account2.label "Account">
+<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
+<!ENTITY addDevice.title.label "Add a Device">
+<!ENTITY signIn.syncKey.accesskey "K">
+<!ENTITY addDevice.dialog.successful.label "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
+<!ENTITY addDevice.showMeHow.label "Show me how.">
+<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY addDevice.setup.description.label "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
+<!ENTITY button.connect.label "Connect">
+<!ENTITY signIn.syncKey.label "Sync Key">
+<!ENTITY confirm.client2.label "Warning: The following &brandShortName; data on this computer will be deleted:">
+<!ENTITY resetSyncKey.label "I have lost my other device.">
+<!ENTITY addDevice.setup.enterCode.label "Then, enter this code:">
+<!ENTITY addDevice.dontHaveDevice.label "I don't have the device with me">
+<!ENTITY serverType.custom2.label "Use a custom server…">
+<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
+<!ENTITY confirm.server2.label "Warning: The following devices will be overwritten with your local data:">
