@@ -1,13 +1,13 @@
 <!ENTITY addons.windowTitle                   "Upravitelj dodatkov">
 <!ENTITY search.placeholder                   "Išči po vseh dodatkih">
-<!ENTITY loading.label                        "Nalaganje…">
+<!ENTITY loading.label                        "Nalaganje …">
 <!ENTITY listEmpty.installed.label            "Nimate nameščenega nobenega dodatka te vrste.">
 <!ENTITY listEmpty.availableUpdates.label     "Posodobitve niso na voljo">
 <!ENTITY listEmpty.recentUpdates.label        "Nedavno niste posodobili nobenih dodatkov">
 <!ENTITY listEmpty.findUpdates.label          "Poišči posodobitve">
 <!ENTITY listEmpty.search.label               "Ustreznih dodatkov ni bilo mogoče najti">
 <!ENTITY listEmpty.button.label               "Več informacij o dodatkih">
-<!ENTITY installAddonFromFile.label           "Namesti dodatek iz datoteke…">
+<!ENTITY installAddonFromFile.label           "Namesti dodatek iz datoteke …">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Orodja za vse dodatke">
 
@@ -181,9 +181,9 @@
 <!ENTITY addon.updateNow.tooltip              "Namesti posodobitev tega dodatka">
 <!ENTITY addon.includeUpdate.label            "Vključi v posodobitev">
 <!ENTITY addon.updateAvailable.label          "Na voljo je posodobitev">
-<!ENTITY addon.checkingForUpdates.label       "Iskanje posodobitev…">
+<!ENTITY addon.checkingForUpdates.label       "Iskanje posodobitev …">
 <!ENTITY addon.releaseNotes.label             "Opombe k izdaji:">
-<!ENTITY addon.loadingReleaseNotes.label      "Nalaganje…">
+<!ENTITY addon.loadingReleaseNotes.label      "Nalaganje …">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Pri nalaganju opomb k izdaji je prišlo do napake.">
 
 <!ENTITY addon.createdBy.label                "Avtor: ">
@@ -191,4 +191,4 @@
 <!ENTITY eula.title                           "Dovoljenje (EULA)">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Sprejmi in namesti…">
+<!ENTITY eula.accept                          "Sprejmi in namesti …">

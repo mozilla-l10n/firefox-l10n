@@ -29,7 +29,7 @@
 <!ENTITY printPreviewContactCmd.accesskey               "T">
 <!ENTITY printPreviewAddressBook.label                  "Predogled tiskanja adresarja">
 <!ENTITY printPreviewAddressBook.accesskey              "T">
-<!ENTITY printContactCmd.label                          "Natisni stik…">
+<!ENTITY printContactCmd.label                          "Natisni stik …">
 <!ENTITY printContactCmd.accesskey                      "T">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Natisni adresar …">
