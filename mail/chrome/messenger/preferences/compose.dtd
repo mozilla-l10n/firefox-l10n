@@ -44,14 +44,14 @@
 <!ENTITY directories.label                     "Imeniškem strežniku:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "Nič">
-<!ENTITY editDirectories.label                 "Uredi imenike…">
+<!ENTITY editDirectories.label                 "Uredi imenike …">
 <!ENTITY editDirectories.accesskey             "U">
 
 <!ENTITY sendOptionsDescription.label          "Nastavi obnašanje oblike besedila">
-<!ENTITY sendOptions.label                     "Možnosti pošiljanja…">
+<!ENTITY sendOptions.label                     "Možnosti pošiljanja …">
 <!ENTITY sendOptions.accesskey                 "b">
 
 <!ENTITY attachmentReminder.label              "Kontrola, da priponke ne manjkajo">
 <!ENTITY attachmentReminder.accesskey          "s">
-<!ENTITY attachmentReminderOptions.label       "Ključne besede…">
+<!ENTITY attachmentReminderOptions.label       "Ključne besede …">
 <!ENTITY attachmentReminderOptions.accesskey   "K">

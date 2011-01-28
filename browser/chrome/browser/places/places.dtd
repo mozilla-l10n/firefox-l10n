@@ -69,7 +69,7 @@
 <!ENTITY cmd.new_bookmark.label "Nov zaznamek …">
 <!ENTITY cmd.new_bookmark.accesskey "z">
 <!ENTITY cmd.new_folder.label "Nova mapa …">
-<!ENTITY cmd.new_folder.accesskey "i">
+<!ENTITY cmd.new_folder.accesskey "m">
 <!ENTITY cmd.context_new_folder.accesskey "M">
 <!ENTITY cmd.new_separator.label "Nova ločilna črta">
 <!ENTITY cmd.new_separator.accesskey "l">
