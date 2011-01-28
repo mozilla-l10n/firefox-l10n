@@ -1,7 +1,7 @@
 <!ENTITY history.label "Historial">
 <!ENTITY locationBar.label "Barra de direcciones">
 <!ENTITY locbar.pre.label "Cuando se use la barra de direcciones, sugerir:">
-<!ENTITY locbar.pre.accessKey "u">
+<!ENTITY locbar.pre.accessKey "b">
 <!ENTITY locbar.post.label "">
 <!ENTITY locbar.both.label "Historial y marcadores">
 <!ENTITY locbar.history.label "Historial">
@@ -37,7 +37,7 @@
 <!ENTITY dontrememberActions.clearHistory.label "limpiar todo el historial">
 <!ENTITY dontrememberActions.post.label ".">
 <!ENTITY privateBrowsingPermanent.label "Modo permanente de navegación privada">
-<!ENTITY privateBrowsingPermanent.accesskey "e">
+<!ENTITY privateBrowsingPermanent.accesskey "d">
 <!ENTITY rememberHistory.label "Recordar mi historial de navegación">
 <!ENTITY rememberHistory.accesskey "v">
 <!ENTITY rememberDownload.label "Recordar el historial de descargas">
