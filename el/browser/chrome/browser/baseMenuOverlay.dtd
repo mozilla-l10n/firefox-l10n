@@ -28,12 +28,6 @@
 
 
 
-
-<!ENTITY helpReleaseNotes.accesskey     "η">
-<!ENTITY helpReleaseNotes.label         "Σημειώσεις έκδοσης">
-
-
-
 <!ENTITY preferencesCmdMac.label        "Προτιμήσεις...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
