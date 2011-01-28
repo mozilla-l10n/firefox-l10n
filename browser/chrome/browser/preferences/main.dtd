@@ -1,12 +1,12 @@
 <!ENTITY startup.label             "Pokretanje">
 
 <!ENTITY startupPage.label         "Kad se &brandShortName; pokrene:">
-<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupPage.accesskey     "k">
 <!ENTITY startupHomePage.label     "Prikaži moju početnu stranicu">
 <!ENTITY startupBlankPage.label    "Prikaži praznu stranicu">
 <!ENTITY startupLastSession.label  "Prikaži prozore i kartice od prošlog puta">
 <!ENTITY homepage.label            "Početna stranica:">
-<!ENTITY homepage.accesskey        "P">
+<!ENTITY homepage.accesskey        "o">
 <!ENTITY location.label            "Početna stranica:">
 <!ENTITY location.accesskey        "s">
 <!ENTITY useCurrentPage.label      "Koristi trenutnu stranicu">
@@ -15,16 +15,16 @@
 <!ENTITY useBookmark.label         "Koristi zabilješku">
 <!ENTITY useBookmark.accesskey     "B">
 <!ENTITY restoreDefault.label      "Vrati na uobičajeno">
-<!ENTITY restoreDefault.accesskey  "R">
+<!ENTITY restoreDefault.accesskey  "j">
 
 <!ENTITY downloads.label     "Preuzimanja">
 
 <!ENTITY showWhenDownloading.label     "Prikaži prozor preuzimanja pri preuzimanju datoteke">
 <!ENTITY showWhenDownloading.accesskey "D">
 <!ENTITY closeWhenDone.label "Zatvori kada sva preuzimanja završe">
-<!ENTITY closeWhenDone.accesskey "s">
+<!ENTITY closeWhenDone.accesskey "Z">
 <!ENTITY saveTo.label "Spremi datoteke u">
-<!ENTITY saveTo.accesskey "d">
+<!ENTITY saveTo.accesskey "u">
 <!ENTITY chooseFolderWin.label        "Pretraži...">
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Odaberi...">
