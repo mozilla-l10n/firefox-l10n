@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Restartuj sa onemogućenim add-onima…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "Napomene o izdanju">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informacije za rješavanje problema">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
 
