@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Starta om utan tillägg…">
 <!ENTITY helpSafeMode.accesskey   "S">
 
-<!ENTITY helpReleaseNotes.label         "Versionsfakta">
-<!ENTITY helpReleaseNotes.accesskey     "V">
-
 <!ENTITY helpTroubleshootingInfo.label      "Felsökningsinformation">
 <!ENTITY helpTroubleshootingInfo.accesskey  "F">
 
