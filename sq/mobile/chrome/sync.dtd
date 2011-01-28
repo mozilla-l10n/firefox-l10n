@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "URL shërbyesi">
 <!ENTITY sync.setup.connect         "Lidhu">
 <!ENTITY sync.setup.cancel          "Anuloje">
+<!ENTITY sync.setup.tutorial        "Tregomë se si">

@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "Rreth &brandShortName;-ut">
 <!ENTITY about.button                              "Shko te Faqja">
 <!ENTITY content.title                             "Lëndë">
+<!ENTITY reflowZoom.title                          "Rriformato tekstin gjatë zoom-esh">
 <!ENTITY showImages.title                          "Shfaqi figurat">
 <!ENTITY enableJavaScript.title                    "Aktivizo JavaScript-in">
 <!ENTITY enablePlugins.title                       "Aktivizo Shtojcat">
