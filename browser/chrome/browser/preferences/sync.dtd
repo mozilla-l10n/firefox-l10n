@@ -35,3 +35,12 @@ Entities below were automatically added by compare-locales,
 <!ENTITY prefs.ppLink.label "பிரத்தியேகக் கொள்கை">
 <!ENTITY syncComputerName.label "கணினியின் பெயர்:">
 <!ENTITY engine.passwords.accesskey "P">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY addDevice.label "Add a Device">
+<!ENTITY deactivateDevice.label "Deactivate This Device">

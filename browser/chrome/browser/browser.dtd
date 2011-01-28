@@ -519,3 +519,14 @@ Entities below were automatically added by compare-locales,
 <!ENTITY clearRecentHistory.label "அண்மைய வரலாறை சுத்தப்படுத்துக...">
 <!ENTITY zoomOutButton.tooltip "சிறிதாக்குக">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
+<!ENTITY addonBarCloseButton.tooltip "Close Add-on Bar">
+<!ENTITY preferencesCmd2.label "Options">
