@@ -2,7 +2,7 @@
 <!ENTITY about.title "Maidir le &brandShortName;">
 <!ENTITY about.button "Téigh go Leathanach">
 <!ENTITY content.title "Ábhar">
-<!ENTITY reflowZoom.title "Reformat text on zoom">
+<!ENTITY reflowZoom.title "Athfhormáidigh an téacs tar éis súmála">
 <!ENTITY showImages.title "Taispeáin íomhánna">
 <!ENTITY enableJavaScript.title "Cumasaigh JavaScript">
 <!ENTITY enablePlugins.title "Cumasaigh Forlíontáin">
