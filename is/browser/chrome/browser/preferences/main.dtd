@@ -5,7 +5,7 @@
 <!ENTITY startupBlankPage.label "Sýna tóma síðu">
 <!ENTITY startupLastSession.label "Sýna flipa og glugga frá seinustu keyrslu">
 <!ENTITY homepage.label "Heimasíða:">
-<!ENTITY homepage.accesskey "e">
+<!ENTITY homepage.accesskey "i">
 <!ENTITY useCurrentPage.label "Nota núverandi síðu">
 <!ENTITY useCurrentPage.accesskey "o">
 <!ENTITY useMultiple.label "Nota núverandi síður">
