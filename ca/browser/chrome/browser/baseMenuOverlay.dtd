@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Reinicia amb els complements inhabilitats…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.accesskey     "N">
-<!ENTITY helpReleaseNotes.label         "Notes de la versió">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informació per a la resolució d'errors">
 <!ENTITY helpTroubleshootingInfo.accesskey  "r">
 
