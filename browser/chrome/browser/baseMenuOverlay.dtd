@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Rekomenci kun aldonaĵoj malaktivaj…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "Liveraj notoj">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informo por solvado de problemoj">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
