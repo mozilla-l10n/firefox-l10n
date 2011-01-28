@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Ponovno zaženi z onemogočenimi dodatki …">
 <!ENTITY helpSafeMode.accesskey   "z">
 
-<!ENTITY helpReleaseNotes.label "Opombe ob izdaji">
-<!ENTITY helpReleaseNotes.accesskey "m">
-
 <!ENTITY helpTroubleshootingInfo.label      "Reševanje težav …">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
