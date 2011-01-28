@@ -3,10 +3,6 @@
 <!ENTITY setupButton.accesskey      "R">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ju lejon të përdorni historikun, faqerojtësit, fjalëkalimet tuaja dhe të hapni skedat tuaja nëpër krejt pajisjet tuaja.">
 
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Llogari &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Llogaria e Tanishme:">
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Përditësoje">
 <!ENTITY resetPass.label              "Riktheji">
@@ -18,13 +14,12 @@
 <!ENTITY changePassword.label         "Ndryshoni Fjalëkalimin">
 <!ENTITY mySyncKey.label              "Kyçi Im për Sync-un">
 <!ENTITY resetSync.label              "Rikthe Sync-un te Parazgjedhjet">
-<!ENTITY stopUsingAccount.label       "Ndërprisni Përdorimin e Kësaj Llogarie">
 <!ENTITY addDevice.label              "Shtoni një Pajisje">
 
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Njëkohësim Shfletuesi">
+<!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Emri i Kompjuterit:">
 <!ENTITY syncComputerName.accesskey   "E">
+<!ENTITY deactivateDevice.label       "Çaktivizoje Këtë Pajisje">
 
 <!ENTITY syncMy.label               "Njëkohëso">
 <!ENTITY engine.bookmarks.label     "Faqerojtësit e Mij">
