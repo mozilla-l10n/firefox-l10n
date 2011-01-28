@@ -17,7 +17,7 @@
 <!ENTITY  fontsAndColors.label        "Tipos e Cores de Letras">
 
 <!ENTITY exceptions.label "Excepções...">
-<!ENTITY exceptions.accesskey "x">
+<!ENTITY exceptions.accesskey "e">
 
 <!ENTITY advancedFonts.label "Avançado...">
 <!ENTITY advancedFonts.accesskey "d">
@@ -31,4 +31,4 @@
 <!ENTITY languages.label              "Idiomas">
 <!ENTITY chooseLanguage.label         "Escolha o seu idioma preferido para mostrar as páginas">
 <!ENTITY chooseButton.label           "Escolher...">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY chooseButton.accesskey       "l">

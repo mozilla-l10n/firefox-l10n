@@ -1,5 +1,5 @@
 <!ENTITY newWindowsAsTabs.label       "Abrir novas janelas num separador">
-<!ENTITY newWindowsAsTabs.accesskey   "s">
+<!ENTITY newWindowsAsTabs.accesskey   "j">
 
 <!ENTITY warnCloseMultipleTabs.label  "Avisar ao fechar uma janela com múltiplos separadores">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
