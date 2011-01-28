@@ -4,7 +4,7 @@
 # your locale code, and link to your translated pages as soon as they're live.
 
 #define bookmarks_title Zakładki
-#define bookmarks_heading Zakładkiś
+#define bookmarks_heading Zakładki
 
 #define personal_toolbarfolder Folder zakładek osobistych
 
