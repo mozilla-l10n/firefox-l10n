@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "É posíbel modificar a configuración usando o separador Aplicativos nas Preferencias do &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "É posíbel cambiar a configuración usando o separador Aplicativos nas Opcións do &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "É posíbel modificar a configuración usando a lapela Aplicativos nas Preferencias do &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "É posíbel cambiar a configuración usando a lapela Aplicativos nas Opcións do &brandShortName;.">

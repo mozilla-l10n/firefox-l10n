@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Iniciar a navegación privada">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Para deter a navegación privada, seleccione &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, ou peche o &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "Para iniciar a navegación privada, pode tamén seleccionar &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "Para deter a navegación privada, seleccione &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, ou peche o &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Para iniciar a navegación privada, pode seleccionar &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Lembre que aínda que este computador non manteña un rexistro do seu historial de navegación, o seu fornecedor de internet pode saber as páxinas que vostede visita.">
 <!ENTITY privatebrowsingpage.learnMore                 "Saber máis">

@@ -17,6 +17,7 @@
                                            vostede non ten os permisos requeridos para instalala. Por favor, contacte
                                            con administración de sistemas ou intente de novo dende unha conta do sistema con permisos para 
                                            instalar aplicativos neste computador.">
+<!ENTITY  manualUpdate.space.desc         "Está dispoñíbel unha actualización de seguranza e estabilidade, pero non ten espazo suficiente para instalala.">
 <!ENTITY  manualUpdateGetMsg.label        "Sempre pode obter a última versión de &brandShortName; en:">
 
 <!ENTITY  incompatibleCheck.title         "Verificando compatibilidade do complemento">
@@ -61,8 +62,8 @@
 <!ENTITY  errorpatching.intro             "Non foi posíbel aplicar a actualización parcial. 
                                            &brandShortName; tentará de novo descargando a actualización completa.">
 
-<!ENTITY  errorCertAttrNoUpdate.label     "Algo está impedindo que &brandShortName; se actualice de forma segura.
-                                           Comprobe que ten a última versión do &brandShortName; en:">
+<!ENTITY  genericBackgroundError.label    "É imposíbel que &brandShortName; determine se hai unha actualización dispoñíbel. Asegúrese de que ten a última versión do &brandShortName; en:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Algo está impedindo que &brandShortName; se actualice de forma segura. Asegúrese de que ten a última versión do &brandShortName; en:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Algo está tentando enganar ao &brandShortName; para que acepte unha
                                            actualización non segura. Contacte co seu fornecedor de rede e busque axuda.">
 

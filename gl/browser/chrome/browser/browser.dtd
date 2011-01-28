@@ -12,31 +12,37 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación privada)">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Recargar separador">
+<!ENTITY  reloadTab.label                    "Recargar lapela">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Recargar todos os separadores">
+<!ENTITY  reloadAllTabs.label                "Recargar todas as lapelas">
 <!ENTITY  reloadAllTabs.accesskey            "a">
-<!ENTITY  closeOtherTabs.label               "Pechar os outros separadores">
+<!ENTITY  closeOtherTabs.label               "Pechar as outras lapelas">
 <!ENTITY  closeOtherTabs.accesskey           "o">
-<!ENTITY  openTabInNewWindow.label           "Abrir nunha nova xanela">
-<!ENTITY  openTabInNewWindow.accesskey       "x">
-<!ENTITY  pinTab.label                       "Facer un separador de aplicativo">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Facer un separador normal">
-<!ENTITY  unpinTab.accesskey                 "F">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Fixar lapela">
+<!ENTITY  pinAppTab.accesskey                "p">
+<!ENTITY  unpinAppTab.label                  "Eliminar lapela fixa">
+<!ENTITY  unpinAppTab.accesskey              "x">
 <!ENTITY  moveToGroup.label                  "Mover ao grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Novo grupo">
-<!ENTITY  bookmarkAllTabs.label              "Marcar todos os separadores…">
+<!ENTITY  moveToNewWindow.label              "Mover a unha nova xanela">
+<!ENTITY  moveToNewWindow.accesskey          "x">
+<!ENTITY  bookmarkAllTabs.label              "Marcar todas as lapelas…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
-<!ENTITY  undoCloseTab.label                 "Anular o peche do separador">
+<!ENTITY  undoCloseTab.label                 "Anular o peche da lapela">
 <!ENTITY  undoCloseTab.accesskey             "u">
-<!ENTITY  closeTab.label                     "Pechar separador">
+<!ENTITY  closeTab.label                     "Pechar lapela">
 <!ENTITY  closeTab.accesskey                 "c">
 
-<!ENTITY  listAllTabs.label      "Listar todos os separadores">
+<!ENTITY  listAllTabs.label      "Listar todas as lapelas">
 
-<!ENTITY tabCmd.label "Novo separador">
+<!ENTITY tabCmd.label "Nova lapela">
 <!ENTITY tabCmd.accesskey "v">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Abrir localización…">
@@ -64,8 +70,8 @@
 <!ENTITY personalbarCmd.label "Barra de marcadores">
 <!ENTITY personalbarCmd.accesskey "m">
 <!ENTITY bookmarksToolbarItem.label "Elementos da barra de marcadores">
-<!ENTITY taskbarCmd.label "Barra de estado">
-<!ENTITY taskbarCmd.accesskey "t">
+<!ENTITY addonBarCmd.label "Barra de complementos">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Código da páxina">
 <!ENTITY pageSourceCmd.accesskey "C">
@@ -76,8 +82,8 @@
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "a">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Mostrar todos os separadores">
-<!ENTITY showAllTabsCmd.accesskey "t">
+<!ENTITY showAllTabsCmd.label "Mostrar todas as lapelas">
+<!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -96,9 +102,9 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Subscribirse a esta páxina">
 <!ENTITY subscribeToPageMenuitem.label "Subscribirse a esta páxina…">
-<!ENTITY addCurPagesCmd.label "Marcar todos os separadores…">
-<!ENTITY showAllBookmarks.label "Mostrar todos os marcadores…">
-<!ENTITY bookmarkAllCmd.label "Marcar todos os separadores…">
+<!ENTITY addCurPagesCmd.label "Marcar todas as lapelas…">
+<!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
+<!ENTITY bookmarkAllCmd.label "Marcar todas as lapelas…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar máis marcadores">
 
 <!ENTITY backCmd.label                "Atrás">
@@ -107,7 +113,6 @@
 <!ENTITY forwardCmd.label             "Adiante">
 <!ENTITY forwardCmd.accesskey         "d">
 <!ENTITY forwardButton.tooltip        "Avanzar unha páxina">
-<!ENTITY backForwardMenu.tooltip      "Páxinas recentes">
 <!ENTITY reloadCmd.label              "Recargar">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Recargar a páxina actual">
@@ -116,7 +121,6 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Deter a carga desta páxina">
 <!ENTITY goEndCap.tooltip             "Ir ao enderezo da barra de localización">
-<!ENTITY feedButton.tooltip           "Subscribirse a esta páxina…">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta páxina">
 
@@ -127,9 +131,15 @@
 <!ENTITY bookmarksItem.title          "Marcadores">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Inicio">
-<!ENTITY tabViewButton2.label         "Grupos de separadores">
-<!ENTITY tabViewButton2.tooltip       "Agrupar os seus separadores">
+<!ENTITY appMenuButton.label          "Menú">
+<!ENTITY appMenuButton.tooltip        "Abrir o menú do &brandShortName;">
+<!ENTITY homeButton.label             "Inicio">
+
+<!ENTITY tabGroupsButton.label        "Grupos de lapelas">
+<!ENTITY tabGroupsButton.tooltip      "Agrupar as súas lapelas">
+
+<!ENTITY feedButton.label             "Subscribir">
+<!ENTITY feedButton.tooltip           "Subscribirse a esta páxina…">
 
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksButton.tooltip        "Mostrar os marcadores">
@@ -138,6 +148,7 @@
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip        "Mostrar os marcadores">
+<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sen ordenar">
 <!ENTITY viewBookmarksSidebar.label         "Mostrar na barra lateral">
 <!ENTITY viewBookmarksToolbar.label         "Ver a barra de marcadores">
 
@@ -226,8 +237,8 @@
 <!ENTITY selectAllCmd.label         "Seleccionar todo">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "t"> 
-<!ENTITY preferencesCmd.label       "Opcións…">
-<!ENTITY preferencesCmd.accesskey     "O"> 
+<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -243,40 +254,43 @@
 
 <!ENTITY viewMenu.label         "Ver"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY showTabView2.label     "Agrupar os seus separadores…">
-<!ENTITY showTabView2.accesskey     "g">
+<!ENTITY viewTabGroups.label            "Grupos de lapelas">
+<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Barras de ferramentas"> 
 <!ENTITY viewToolbarsMenu.accesskey     "f"> 
 <!ENTITY viewSidebarMenu.label "Barra lateral">
 <!ENTITY viewSidebarMenu.accesskey "B">
 <!ENTITY viewCustomizeToolbar.label       "Personalizar…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY viewTabsOnTop.label            "Separadores na parte superior">
+<!ENTITY viewTabsOnTop.label            "Lapelas na parte superior">
 <!ENTITY viewTabsOnTop.accesskey        "t">
 
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "H">
-<!ENTITY historyUndoMenu.label "Separadores pechados recentemente">
+<!ENTITY historyUndoMenu.label "Lapelas pechadas recentemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Xanelas pechadas recentemente">
+<!ENTITY historyRestoreLastSession.label "Restaurar a sesión anterior">
 
 <!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo o historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
 <!ENTITY appMenuToolbarLayout.label "Disposición da barra de ferramentas…">
 <!ENTITY appMenuSidebars.label "Barras laterais">
 <!ENTITY appMenuFind.label "Buscar…">
 <!ENTITY appMenuUnsorted.label "Marcadores sen ordenar">
+<!ENTITY appMenuWebDeveloper.label "Desenvolvedor web">
 <!ENTITY appMenuGettingStarted.label "Iniciarse">
-
-<!ENTITY developerMenu.label "Desenvolvedor">
+<!ENTITY appMenuSafeMode.label "Reiniciar cos complementos desactivados…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ir a un sitio web">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Trocar ao separador:">
+<!ENTITY urlbar.switchToTab.label     "Cambiar á lapela:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -285,9 +299,9 @@
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -296,21 +310,20 @@
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY openLinkCmdInTab.label       "Abrir a ligazón nun novo separador">
-<!ENTITY openLinkCmdInTab.accesskey   "s">
+<!ENTITY tabView.commandkey           "e">
+
+<!ENTITY openLinkCmdInTab.label       "Abrir a ligazón nunha nova lapela">
+<!ENTITY openLinkCmdInTab.accesskey   "h">
 <!ENTITY openLinkCmd.label            "Abrir a ligazón nunha nova xanela">
 <!ENTITY openLinkCmd.accesskey        "x">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir a ligazón">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
-<!ENTITY openFrameCmdInTab.label      "Abrir o marco nun novo separador">
-<!ENTITY openFrameCmdInTab.accesskey  "s">
+<!ENTITY openFrameCmdInTab.label      "Abrir o marco nunha nova lapela">
+<!ENTITY openFrameCmdInTab.accesskey  "h">
 <!ENTITY openFrameCmd.label           "Abrir o marco nunha nova xanela">
 <!ENTITY openFrameCmd.accesskey       "x">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar só este marco">
@@ -435,14 +448,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "z">
 
-<!ENTITY newTabButton.tooltip           "Abrir un novo separador">
+<!ENTITY newTabButton.tooltip           "Abrir unha nova lapela">
 <!ENTITY newWindowButton.tooltip        "Abrir unha nova xanela">
 <!ENTITY sidebarCloseButton.tooltip     "Pechar a barra lateral">
 
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Pegar">
+
 <!ENTITY fullScreenButton.tooltip       "Mostrar a xanela en pantalla completa">
+
+<!ENTITY zoomOutButton.tooltip          "Reducir">
+<!ENTITY zoomInButton.tooltip           "Ampliar">
+<!ENTITY zoomControls.label             "Controis do zoom">
 
 <!ENTITY quitApplicationCmdWin.label       "Saír"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
@@ -495,10 +513,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Feito">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY editBookmark.undo.label                     "Desfacer">
-<!ENTITY editBookmark.undo.accessKey                 "U">
-<!ENTITY editBookmark.edit.label                     "Editar…">
-<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "Este sitio web non fornece información de identidade.">
 <!ENTITY identity.connectedTo "Esta conectado/a a">
@@ -519,25 +533,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Prema para abrir a xanela de descargas">
 
-<!ENTITY allTabs.filter.emptyText "Buscar separadores">
+<!ENTITY allTabs.filter.emptyText "Buscar lapelas">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Separadores do navegador">
+<!ENTITY tabsToolbar.label "Lapelas do navegador">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Os separadores doutros equipos">
+<!ENTITY syncTabsMenu.label     "As lapelas doutros equipos">
 
-<!ENTITY syncBrand.shortName.label  "Sync">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
-                                              don't use a conflicting access key -->
-<!ENTITY syncMenu.accesskey           "y">
 <!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "g">
-<!ENTITY syncLogInItem.label          "Conectar">
-<!ENTITY syncLogInItem.accesskey      "C">
-<!ENTITY syncLogOutItem.label         "Desconectar">
-<!ENTITY syncLogOutItem.accesskey     "D">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY addonBarCloseButton.tooltip  "Pechar a barra de complementos">

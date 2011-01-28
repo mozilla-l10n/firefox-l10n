@@ -20,16 +20,19 @@
 <!ENTITY rights.intro-point2-b "aquí">
 <!ENTITY rights.intro-point2-c ".">
 
+<!-- point 2.5 text for official branded builds -->
+<!ENTITY rights.intro-point2.5 "Algunhas características do &brandShortName;, como o Informador de erros, dánlle a opción de fornecer información a &vendorShortName;. Cando escolle enviar esa información, dálle a &vendorShortName; permiso para usala para mellorar os seus produtos, para publicala nos seus sitios web e para distribuíla.">
+
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "As políticas de privacidade dos produtos de &vendorShortName; poden encontrarse ">
-<!ENTITY rights.intro-point3b "aquí">
+<!ENTITY rights2.intro-point3a "Como usamos a súa información persoal e as opinións enviadas a &vendorShortName; a través do &brandShortName; descríbese na ">
+<!ENTITY rights2.intro-point3b "Política de privacidade de &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Calquera política de privacidade aplicábel a este produto debe ser listada aquí.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; tamén ofrece servizos de información sobre páxinas web, como o servizo SafeBrowsing;. Porén, no podemos garantirlle que estean libres de erros ao 100&#037;. Máis detalles, incluíndo información sobre como desactivar estes servizos, pode encontrarse nos ">
+<!ENTITY rights2.intro-point4a "Algunhas características de &brandShortName; fan uso de servizos de información baseados na web, porén, non podemos garantirlle que sexan 100&#37; precisos ou libres de erros. Pode encontrar máis información, incluso información sobre como desactivar as características que usan estes servizos, en ">
 <!ENTITY rights.intro-point4b "termos do servizo">
 <!ENTITY rights.intro-point4c ".">
 
@@ -38,16 +41,33 @@
 <!ENTITY rights.intro-point4b-unbranded "Servizos de sitios web">
 <!ENTITY rights.intro-point4c-unbranded ", na súa sección apropiada.">
 
-<!ENTITY rights.webservices-header "Servizos de sitios web do &brandFullName;">
+<!ENTITY rights2.webservices-header "Servizos de información do &brandFullName; baseados na web">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; usa servizos de información de sitios web (&quot;servizos&quot;), como por exemplo o servizo SafeBrowsing, que está dispoñíbel para o seu uso xunto á versión binaria do &brandShortName; como se describe máis abaixo. Se non quere usar os servizos ou os términos que están máis abaixo son inaceptábeis, pode desactivar o servizo SafeBrowsing abrindo as preferencias do aplicativo, seleccionando a sección ">
-<!ENTITY rights.webservices-b "Seguranza">
-<!ENTITY rights.webservices-c "e desmarque as opción para &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights2.webservices-a "&brandFullName; usa servizos de información baseados na web (&quot;Servizos&quot;) para fornecer algunhas das características ofrecidas para o seu uso con esta versión binaria do &brandShortName; baixo os termos descritos a continuación. Se non quere usar un ou máis dos servizos ou os termos que seguen non son aceptábeis, pode desactivar a característica ou servizo(s). As instrucións sobre como desactivar unha característica ou servizo concreto poden encontrarse ">
+<!ENTITY rights2.webservices-b "aquí">
+<!ENTITY rights2.webservices-c ".">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "Non se recomenda desactivar a característica de navegación segura porque pode dar como resultado que visite sitios no seguros. Se desexa desactivar esta característica por completo, siga estes pasos:">
+<!ENTITY rights.safebrowsing-term1 "Abrir as preferencias do aplicativo">
+<!ENTITY rights.safebrowsing-term2 "Seleccione o panel de Seguranza">
+<!ENTITY rights.safebrowsing-term3 "Desmarque as opcións &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Agora a navegación segura está desactivada">
+
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Navegación baseada na localización: ">
+<!ENTITY rights.locationawarebrowsing-b "sempre son a elección do usuario. Nunca se envía información sobre a súa localización sen o seu permiso. Se desexa desactivar esta característica por completo, siga estes pasos:">
+<!ENTITY rights.locationawarebrowsing-term1a "Na barra de navegación, escriba ">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "Introduza geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Prema dúas veces na preferencia geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "Agora a navegación baseada na localización está desactivada">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Deben ser incluídas aquí unha visión xeral dos servizos web que incorpora o produto así como instrucións para desactivalas, de ser o caso.">
@@ -56,9 +76,10 @@
 <!ENTITY rights.webservices-term1-unbranded "Calquera termo de servizo aplicábel para este produto debe ser listado aquí.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; e as persoas colaboradoras, licenciadoras e socios traballan para fornecer a máis precisa e actualizada información sobre falsificación web (phishing) e software malicioso (malware). Porén, non poden garantir que esta información estea completa nin libre de erros; sitios perigosos poden non ser identificados e sitios seguros poden ser identificados erroneamente.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; e as persoas colaboradoras, licenciadoras e socios traballan para fornecer os servizos máis precisos e actualizados. Porén, non é posíbel garantir que esta información sexa exhaustiva e libre de erros. Por exemplo, o Servizo de navegación segura pode non identificar algúns sitios perigosos e pode identificar algúns sitios seguros por erro e os enderezos que devolven os nosos provedores do servizo de navegación baseado na localización só son estimacións e nin nos nin os nosos provedores garanten a exactitude das localizacións fornecidas.
+">
 <!ENTITY rights.webservices-term2 "&vendorShortName; podería interromper ou modificar a prestación dos Servizos unilateralmente.">
-<!ENTITY rights.webservices-term3 "Está convidado a usar estes Servizos xunto coa versión correspondente de &brandShortName;, outorgándoselle os dereitos para facelo. &vendorShortName; e os seus licenciatarios resérvanse todos os demais dereitos nos Servizos. Estes termos non teñen o propósito de limitar calquera dereito concedido baixo licenzas open source aplicábeis a &brandShortName; e ás versións de código fonte correspondentes de &brandShortName;.">
+<!ENTITY rights2.webservices-term3 "Pode usar estes servizos coa versión correspondente do &brandShortName;, e &vendorShortName; outórgalle dereitos para facelo. &vendorShortName; e os seus licenciadores resérvanse o resto de dereitos dos servizos. Estes termos non limitan ningún dereito outorgado polas licenzas de código aberto aplicábeis ó &brandShortName; e as versións do código fonte correspondente do &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Os Servizos fornécense &quot;tal cal&quot; &vendorShortName;, as persoas colaboradoras, licenciatarias e distribuidoras, renuncian a toda garantía, tanto explícitas como implícitas, incluíndo sen limitación, garantías que os Servizos son comercializábeis e satisfagan os seus propósitos particulares. Vostede asume completamente o risco tanto de seleccionar os Servizos como a súa calidade e desempeño. Algunhas xurisdicións non permiten a exclusión de limitacións ou garantías implicadas, de modo que este rexeite de responsabilidades podería non ser aplicábel no seu caso.">
 <!ENTITY rights.webservices-term5 "Agás requirimento legal, &vendorShortName;, as persoas contribuidoras, licenzatarias e distribuidoras non serán responsábeis de calquera prexuízo indirecto, especial, incidental, consecuente, punitivo ou exemplarizante relacionado co uso de &brandShortName; e os Servizos.  A responsabilidade colectiva baixo estes termos non excederá os 500 $ (cincocentos dólares). Algunhas xurisdicións non permiten a exclusión ou limitación de determinados danos, de modo que esta exclusión e limitación podería non ser aplicábel no seu caso.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; podería actualizar estes termos cando sexa necesario. Os termos non deben ser modificados ou anulados sen consentimento escrito de &vendorShortName;.">

@@ -17,6 +17,8 @@
 <!ENTITY helpForIEUsers.label     "Para usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Reiniciar cos complementos desactivados…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpReleaseNotes.label         "Notas de lanzamento">
 <!ENTITY helpReleaseNotes.accesskey     "N">
@@ -26,8 +28,6 @@
 
 <!ENTITY helpFeedbackPage.label      "Enviar opinión…">
 <!ENTITY helpFeedbackPage.accesskey  "o">
-
-<!ENTITY updateCmd.label                "Buscar actualizacións…">
 
 <!ENTITY preferencesCmdMac.label        "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

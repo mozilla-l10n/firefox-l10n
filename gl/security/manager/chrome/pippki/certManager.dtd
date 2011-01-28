@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "Engadir excepción de seguranza">
-<!ENTITY exceptionMgr.exceptionButton         "Confirmar excepción de seguranza">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirmar excepción de seguranza">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "A lexitimación de bancos, tendas e outros sitios públicos non requirirá este proceso.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
 <!ENTITY exceptionMgr.certlocation.url        "Localización:">
