@@ -1,7 +1,7 @@
 <!ENTITY startup.label             "Abioa">
 
 <!ENTITY startupPage.label         "&brandShortName; abiatzean:">
-<!ENTITY startupPage.accesskey     "a">
+<!ENTITY startupPage.accesskey     "z">
 <!ENTITY startupHomePage.label     "Erakutsi nire hasiera-orria">
 <!ENTITY startupBlankPage.label    "Erakutsi orri hutsa">
 <!ENTITY startupLastSession.label  "Berreskuratu azken saioko fitxa eta leihoak">
@@ -11,13 +11,13 @@
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Erabili uneko orriak">
 <!ENTITY useBookmark.label         "Erabili laster-marka">
-<!ENTITY useBookmark.accesskey     "l">
+<!ENTITY useBookmark.accesskey     "m">
 <!ENTITY restoreDefault.label      "Berrezarri lehenetsiak">
 <!ENTITY restoreDefault.accesskey  "r">
 
 <!ENTITY downloads.label     "Deskargak">
 
-<!ENTITY showWhenDownloading.label     "Erakutsi deskarga leihoa fitxategi bat deskargatzerakoan">
+<!ENTITY showWhenDownloading.label     "Erakutsi deskargen leihoa fitxategi bat deskargatzerakoan">
 <!ENTITY showWhenDownloading.accesskey "d">
 <!ENTITY closeWhenDone.label "Itxi deskarga guztiak amaitzean">
 <!ENTITY closeWhenDone.accesskey "I">
