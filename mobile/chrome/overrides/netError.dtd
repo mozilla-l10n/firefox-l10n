@@ -29,11 +29,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mód as líne">
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Déan iarracht eile. Iarrfaidh &brandShortName; ceangal a oscailt agus an leathanach a athluchtú.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> </ul>">
