@@ -1,19 +1,19 @@
 <!ENTITY startup.label             "Opstarte">
 
 <!ENTITY startupPage.label         "As &brandShortName; start:">
-<!ENTITY startupPage.accesskey     "t">
+<!ENTITY startupPage.accesskey     "A">
 <!ENTITY startupHomePage.label     "Myn begjinside toane">
 <!ENTITY startupBlankPage.label    "In lege side toane">
 <!ENTITY startupLastSession.label  "Myn finsters en ljepblêden fan de foarige kear toane">
 <!ENTITY homepage.label            "Begjinside:">
 <!ENTITY homepage.accesskey        "s">
 <!ENTITY useCurrentPage.label      "Aktuele side brûke">
-<!ENTITY useCurrentPage.accesskey  "A">
+<!ENTITY useCurrentPage.accesskey  "k">
 <!ENTITY useMultiple.label         "Aktuele siden brûke">
 <!ENTITY useBookmark.label         "Blêdwizer brûke">
 <!ENTITY useBookmark.accesskey     "B">
 <!ENTITY restoreDefault.label      "Standert werstelle">
-<!ENTITY restoreDefault.accesskey  "S">
+<!ENTITY restoreDefault.accesskey  "w">
 
 <!ENTITY downloads.label     "Ynladen bestannen">
 
@@ -22,7 +22,7 @@
 <!ENTITY closeWhenDone.label           "Slute as alle bestannen ynladen binne">
 <!ENTITY closeWhenDone.accesskey       "u">
 <!ENTITY saveTo.label                  "Bestannen bewarje yn">
-<!ENTITY saveTo.accesskey              "b">
+<!ENTITY saveTo.accesskey              "e">
 <!ENTITY chooseFolderWin.label         "Blêdzje...">
 <!ENTITY chooseFolderWin.accesskey     "d">
 <!ENTITY chooseFolderMac.label         "Kieze...">
@@ -34,4 +34,4 @@
 <!ENTITY manageAddonsDescWin.label     "Opsjes fan jo tafoegings oanpasse.">
 <!ENTITY manageAddonsDescUnix2.label "Foarkarren fan jo tafoegings oanpasse.">
 <!ENTITY manageAddons.label         "Tafoegings beheare...">
-<!ENTITY manageAddons.accesskey     "h">
+<!ENTITY manageAddons.accesskey     "T">
