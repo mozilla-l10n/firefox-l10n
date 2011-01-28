@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Reiniciar com os extras desactivados…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label "Notas de lançamento">
-<!ENTITY helpReleaseNotes.accesskey "N">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informação sobre problemas…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
 
