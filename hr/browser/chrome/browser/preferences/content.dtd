@@ -4,7 +4,7 @@
 <!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  loadImages.label            "Automatski učitaj slike">
-<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  loadImages.accesskey        "u">
 <!ENTITY  exceptions.label            "Iznimke...">
 <!ENTITY  exceptions.accesskey        "I">
 
@@ -28,10 +28,10 @@
 <!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "Boje...">
-<!ENTITY  colors.accesskey            "B">
+<!ENTITY  colors.accesskey            "o">
 
 
 <!ENTITY languages.label              "Jezici">
 <!ENTITY chooseLanguage.label         "Odaberite jezik za prikazivanje stranica">
 <!ENTITY chooseButton.label           "Odabir…">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY chooseButton.accesskey       "d">
