@@ -1,12 +1,14 @@
 <!ENTITY splash_screen_label "á luchtú">
 <!ENTITY splash_screen_installing "leabharlanna á suiteáil\u2026">
-<!ENTITY incompatable_cpu_error "This device does not meet the minimum system requirements for &brandShortName;.">
+<!ENTITY incompatable_cpu_error "Ní chloíonn an gléas seo leis na bunriachtanais chórais le haghaidh &brandShortName;.">
 <!ENTITY no_space_to_start_error "Ní féidir le &brandShortName; tosú mar nach bhfuil go leor spáis ann.">
-<!ENTITY error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY error_loading_file "Tharla earráid agus na comhaid atá riachtanach chun &brandShortName; a rith á luchtú.">
 
 <!ENTITY crash_reporter_title "Tuairisceoir na gClistí &brandShortName;">
-<!ENTITY crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY crash_help_message "Please help us fix this problem!">
+<!ENTITY crash_message "Tá &brandShortName; tar éis tuairteáil. Beidh do chuid chluaisíní liostáilte ar thúsleathanach &brandShortName; nuair a atosóidh tú é.
+
+Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
+<!ENTITY crash_help_message "Cabhraigh linn chun an fhadhb seo a réiteach!">
 <!ENTITY crash_send_report_message "Seol tuairisc ar thuairteáil chuig Mozilla">
 <!ENTITY crash_include_url "Cuir seoladh an leathanaigh san áireamh">
 <!ENTITY crash_close_label "Dún">
