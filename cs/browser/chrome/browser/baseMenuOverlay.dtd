@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label "Restartovat se zakázanými doplňky…">
 <!ENTITY helpSafeMode.accesskey "R">
 
-<!ENTITY helpReleaseNotes.label "Poznámky k vydání">
-<!ENTITY helpReleaseNotes.accesskey "P">
-
 <!ENTITY helpTroubleshootingInfo.label "Technické informace…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
