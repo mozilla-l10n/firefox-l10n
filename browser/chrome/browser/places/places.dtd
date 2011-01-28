@@ -54,10 +54,10 @@
 <!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.open_window.label           "Abrir nunha nova xanela">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_tab.label              "Abrir nun novo separador">
+<!ENTITY cmd.open_tab.label              "Abrir nunha nova lapela">
 <!ENTITY cmd.open_tab.accesskey          "v">
-<!ENTITY cmd.open_all_in_tabs.label      "Abrir todo en separadores">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "A">
+<!ENTITY cmd.open_all_in_tabs.label      "Abrir todo en lapelas">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
 <!ENTITY cmd.properties.label      "Propiedades">
 <!ENTITY cmd.properties.accesskey  "r">
@@ -94,6 +94,8 @@
 
 <!ENTITY search.label                              "Buscar:">
 <!ENTITY search.accesskey                          "B">
+
+<!ENTITY search.in.label                           "Buscar en:">
 <!ENTITY search.scopeFolder.label                  "Cartafol seleccionado">
 <!ENTITY search.scopeFolder.accesskey              "C">
 <!ENTITY search.scopeBookmarks.label               "Marcadores">
@@ -123,3 +125,18 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "Previsualizar">
 <!ENTITY detailsPane.selectAnItemText.description "Seleccionar un elemento para ver e editar as súas propiedades">
+
+<!ENTITY find.label               "Buscar:">
+<!ENTITY find.accesskey           "s">
+<!ENTITY view.label               "Ver">
+<!ENTITY view.accesskey           "V">
+<!ENTITY byDate.label             "Por data">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "Por sitio">
+<!ENTITY bySite.accesskey         "s">
+<!ENTITY byMostVisited.label      "Por núm. de visitas">
+<!ENTITY byMostVisited.accesskey  "v">
+<!ENTITY byLastVisited.label      "Por última visita">
+<!ENTITY byLastVisited.accesskey  "l">
+<!ENTITY byDayAndSite.label       "Por data e sitio">
+<!ENTITY byDayAndSite.accesskey   "t">

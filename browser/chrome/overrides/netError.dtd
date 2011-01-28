@@ -36,11 +36,15 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo sen conexión">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>Desmarque &quot;Traballar sen conexión&quot; no menú Ficheiro e, a seguir tente de novo.</li>
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "<ul>
+  <li>Desmarque o elemento do menú &quot;Traballar sen conexión&quot; e tente de novo.</li>
 </ul>
-">
+   ">
 
 <!ENTITY contentEncodingError.title "Erro de codificación do contido">
 <!ENTITY contentEncodingError.longDesc "<ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">

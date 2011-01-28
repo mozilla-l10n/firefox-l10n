@@ -4,9 +4,9 @@
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "Mostrar a miña páxina de inicio">
 <!ENTITY startupBlankPage.label    "Mostrar unha páxina en branco">
-<!ENTITY startupLastSession.label  "Mostrar as xanelas e os separadores da última vez">
-<!ENTITY location.label            "Páxina de inicio:">
-<!ENTITY location.accesskey        "P">
+<!ENTITY startupLastSession.label  "Mostrar as xanelas e as lapelas da última vez">
+<!ENTITY homepage.label            "Páxina de inicio:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Usar a páxina actual">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Usar as páxinas actuais">

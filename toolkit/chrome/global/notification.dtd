@@ -1,1 +1,3 @@
-﻿<!ENTITY closeNotification.tooltip "Pechar esta mensaxe"> 
+<!ENTITY closeNotification.tooltip "Pechar esta mensaxe">
+
+<!ENTITY closeNotificationItem.label "Not Now">

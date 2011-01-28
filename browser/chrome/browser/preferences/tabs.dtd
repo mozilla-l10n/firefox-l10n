@@ -1,17 +1,17 @@
-<!ENTITY newWindowsAsTabs.label       "Abrir en novos separadores en vez de en novas xanelas">
-<!ENTITY newWindowsAsTabs.accesskey   "s">
+<!ENTITY newWindowsAsTabs.label       "Abrir en novas lapelas en vez de en novas xanelas">
+<!ENTITY newWindowsAsTabs.accesskey   "x">
 
-<!ENTITY warnCloseMultipleTabs.label  "Avisarme ao pechar varios separadores">
+<!ENTITY warnCloseMultipleTabs.label  "Avisarme ao pechar varias lapelas">
 <!ENTITY warnCloseMultipleTabs.accesskey  "v">
 
-<!ENTITY warnOpenManyTabs.label       "Avisarme cando abrir varios separadores diminúa a velocidade de &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "a">
+<!ENTITY warnOpenManyTabs.label       "Avisarme cando abrir varias lapelas diminúa a velocidade de &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label             "Mostrar sempre a barra de separadores">
+<!ENTITY showTabBar.label             "Mostrar sempre a barra de lapelas">
 <!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label        "Mostrar en primeiro plano as ligazóns abertas nun novo separador">
+<!ENTITY switchToNewTabs.label        "Mostrar en primeiro plano as ligazóns abertas nunha nova lapela">
 <!ENTITY switchToNewTabs.accesskey    "s">
 
-<!ENTITY showTabsInTaskbar.label          "Mostrar previsualizacións dos separadores na barra de tarefas de Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "w">
+<!ENTITY showTabsInTaskbar.label          "Mostrar previsualizacións das lapelas na barra de tarefas de Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "M">
