@@ -6,7 +6,7 @@
 <!ENTITY  loadImages.label            "Ofbyldings automatysk laden">
 <!ENTITY  loadImages.accesskey        "O">
 <!ENTITY  exceptions.label            "Utsûnderings...">
-<!ENTITY  exceptions.accesskey        "s">
+<!ENTITY  exceptions.accesskey        "t">
 
 <!ENTITY  enableJavaScript.label      "JavaSkript ynskeakelje">
 <!ENTITY  enableJavaScript.accesskey  "J">
