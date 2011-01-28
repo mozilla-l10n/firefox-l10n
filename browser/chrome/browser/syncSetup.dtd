@@ -73,7 +73,8 @@
 <!ENTITY existingSyncKey.description "Mund të merrni një kopje të Kyçit tuaj për Sync-un duke shkuar te Mundësi &syncBrand.shortName.label;-u te pajisja juaj tjetër, dhe përzgjidhni  &#x0022;Kyçi Im për Sync-un&#x0022; te &#x0022;Administroni Llogari&#x0022;.">
 <!ENTITY verifying.label              "Po verifikohet…">
 <!ENTITY resetPassword.label          "Ricaktoni Fjalëkalimin">
-<!ENTITY lostSyncKey.label            "Kam humbur Kyçin tim për Sync-un">
+<!ENTITY resetSyncKey.label           "E kam humbur pajisjen time tjetër.">
+
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Mundësi Sync-u">

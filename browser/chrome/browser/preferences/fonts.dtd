@@ -49,7 +49,7 @@
 
 <!ENTITY sans-serif.accesskey "e">
 <!ENTITY sans-serif.label "Sans-serif:">
-<!ENTITY serif.accesskey "s">
+<!ENTITY serif.accesskey "r">
 <!ENTITY serif.label "Serif:">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 <!ENTITY useDefaultFontSerif.label "Serif">
@@ -60,5 +60,5 @@
 <!ENTITY  window.width                            "47em">
 <!ENTITY  window.macWidth                         "47em">
 <!ENTITY  window.unixWidth                        "47em">
-<!ENTITY  allowPagesToUse.label                   "Lejo faqe të përdorin shkronja të vetat, në vend të përzgjedhjeve të mia më sipër">
+<!ENTITY  allowPagesToUse.label                   "Lejoji faqet të përdorin shkronja të vetat, në vend të përzgjedhjeve të mia më sipër">
 <!ENTITY  allowPagesToUse.accesskey               "L">

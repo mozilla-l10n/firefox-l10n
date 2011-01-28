@@ -27,7 +27,7 @@
 <!ENTITY useSmoothScrolling.label        "Përdor rrëshqitje të butë">
 <!ENTITY useSmoothScrolling.accesskey    "q">
 <!ENTITY allowHWAccel.label              "Kur mundet, përdor përshpejtim hardware">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY networkTab.label                "Rrjet">
 <!ENTITY connection.label                "Lidhje">
 <!ENTITY connectionDesc.label            "Formësoni mënyrën se si &brandShortName;-i lidhet në Internet">
@@ -81,7 +81,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Përjashtime…">
 <!ENTITY offlineNotifyExceptions.accesskey "p">
 <!ENTITY submitCrashes.label             "Parashtro njoftime vithisjesh">
-<!ENTITY submitCrashes.accesskey         "P">
+<!ENTITY submitCrashes.accesskey         "a">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
