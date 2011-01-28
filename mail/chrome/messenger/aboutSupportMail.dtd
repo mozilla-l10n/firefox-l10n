@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID Montimi Zbatimi">
+
+<!ENTITY aboutSupport.accountsTitle "Llogari Poste dhe Lajmesh">
+<!ENTITY aboutSupport.showPrivateData.mainText "Përfshi emra llogarish">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(të dhëna me gjasë identifikuese)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Emër">
+<!ENTITY aboutSupport.accountsIncomingServer "Shërbyes marrës">
+<!ENTITY aboutSupport.accountsOutgoingServers "Shërbyesa dërgues">
+<!ENTITY aboutSupport.accountsConnSecurity "Siguri lidhjeje">
+<!ENTITY aboutSupport.accountsAuthMethod "Metodë mirëfilltësimi">
+<!ENTITY aboutSupport.accountsDefault "Parazgjedhje?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Dërgoje me email">

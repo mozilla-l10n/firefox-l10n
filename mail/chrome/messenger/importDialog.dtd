@@ -11,10 +11,6 @@
 <!ENTITY importDialog.windowTitle "Importo">
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
-<!ENTITY importHome.label        "Banese">
-<!ENTITY importHome.accesskey    "B">
-<!ENTITY importWork.label        "Pune">
-<!ENTITY importWork.accesskey    "N">
 <!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY importTitle.label        "Ndihmësi &brandShortName; për Importim Poste">
@@ -33,7 +29,3 @@
 
 <!ENTITY title.label              "Titull">
 <!ENTITY processing.label         "Po importohet…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ka një adresë postimi për secilën kartë, kurse &brandShortName;-i ka dy (Banese dhe Pune).">
-<!ENTITY FieldDiscInputText2.label  "Përzgjidhni kategorinë në të cilën doni të ruhen adresat e importuara të postës:">
-<!ENTITY FieldDiscWarning.label  "Kjo kategori do të përdoret për tërë zërat e librit të përzgjedhur të adresave: ">

@@ -401,6 +401,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Si të Lexuar">
 <!ENTITY markAsReadCmd.accesskey "L">
 <!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Si të Palexuar">
+<!ENTITY markAsUnreadCmd.accesskey "P">
+<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Si Rrjedhë e Lexuar">
 <!ENTITY markThreadAsReadCmd.accesskey "R">
 <!ENTITY markThreadAsReadCmd.key "r">

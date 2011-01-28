@@ -20,6 +20,7 @@
 
 <!ENTITY bookmarksHeader.label     "Faqerojtësa">
 
+<!ENTITY editBookmarkDialog.title  "Përpunojeni Faqerojtësin">
 <!ENTITY editBookmarkDone.label    "U bë">
 <!ENTITY editBookmarkTags.label    "Shtoni etiketa këtu">
 
