@@ -6,7 +6,7 @@
 <!ENTITY startupBlankPage.label    "Afficher une page vide">
 <!ENTITY startupLastSession.label  "Afficher les derniers onglets et fenêtres utilisés">
 <!ENTITY homepage.label            "Page d'accueil :">
-<!ENTITY homepage.accesskey        "P">
+<!ENTITY homepage.accesskey        "a">
 <!ENTITY useCurrentPage.label      "Page courante">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Pages courantes">
@@ -18,7 +18,7 @@
 <!ENTITY downloads.label     "Téléchargements">
 
 <!ENTITY showWhenDownloading.label     "Afficher la fenêtre Téléchargements lors du téléchargement d'un fichier">
-<!ENTITY showWhenDownloading.accesskey "A">
+<!ENTITY showWhenDownloading.accesskey "f">
 <!ENTITY closeWhenDone.label "La refermer lorsque tous les téléchargements sont terminés">
 <!ENTITY closeWhenDone.accesskey "L">
 <!ENTITY saveTo.label "Enregistrer les fichiers dans le dossier">
@@ -34,4 +34,4 @@
 <!ENTITY manageAddonsDescWin.label  "Modifie les options pour vos modules">
 <!ENTITY manageAddonsDescUnix2.label "Modifie les préférences pour vos modules">
 <!ENTITY manageAddons.label         "Gérer les modules complémentaires…">
-<!ENTITY manageAddons.accesskey     "m">
+<!ENTITY manageAddons.accesskey     "G">
