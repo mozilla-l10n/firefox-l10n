@@ -17,9 +17,6 @@
 <!ENTITY helpSafeMode.label       "Riniseni me Shtesat të Çaktivizuara…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "Shënime Versioni">
-<!ENTITY helpReleaseNotes.accesskey     "V">
-
 <!ENTITY preferencesCmdMac.label        "Parapëlqime…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
