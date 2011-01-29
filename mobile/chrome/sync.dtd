@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "Server-URL">
 <!ENTITY sync.setup.connect         "Anslut">
 <!ENTITY sync.setup.cancel          "Avbryt">
+<!ENTITY sync.setup.tutorial        "Visa mig">
