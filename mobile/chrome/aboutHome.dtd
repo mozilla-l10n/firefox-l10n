@@ -4,6 +4,8 @@
 <!ENTITY aboutHome.recommendedAddons2           "Complements del &brandShortName;">
 
 <!ENTITY aboutHome.giveFeedback                 "Doneu la vostra opinió">
+<!ENTITY aboutHome.getHelp                      "Obtingueu ajuda">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Obre-ho tot en pestanyes">
 <!ENTITY aboutHome.noTabs                       "Cap pestanya des de la darrera vegada">
 <!ENTITY aboutHome.noAddons                     "No hi ha cap complement recomanat">
