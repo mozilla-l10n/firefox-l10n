@@ -18,3 +18,4 @@
 <!ENTITY sync.serverURL "Indirizzo del server">
 <!ENTITY sync.setup.connect "Connetti">
 <!ENTITY sync.setup.cancel "Annulla ">
+<!ENTITY sync.setup.tutorial "Mostra come">
