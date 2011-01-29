@@ -1,0 +1,36 @@
+<!ENTITY setupButton.label "Настроить &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey "с">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; позволяет вам получить доступ к вашему журналу, закладкам, паролям и открытым вкладкам со всех ваших устройств.">
+<!ENTITY accountGroupboxCaption.label "Учётная запись &syncBrand.fullName.label;">
+<!ENTITY currentAccount.label "Текущая учётная запись:">
+<!ENTITY updatePass.label "Обновить">
+<!ENTITY updatePass.accesskey "б">
+<!ENTITY resetPass.label "Сбросить">
+<!ENTITY resetPass.accesskey "б">
+<!ENTITY manageAccount.label "Управление учётной записью">
+<!ENTITY viewQuota.label "Просмотреть квоту">
+<!ENTITY viewQuota.accesskey "т">
+<!ENTITY changePassword.label "Сменить пароль">
+<!ENTITY changePassword.accesskey "м">
+<!ENTITY mySyncKey.label "Мой ключ синхронизации">
+<!ENTITY mySyncKey.accesskey "о">
+<!ENTITY resetSync.label "Заменить или объединить данные Sync">
+<!ENTITY resetSync.accesskey "м">
+<!ENTITY stopUsingAccount.label "Перестать использовать эту учётную запись">
+<!ENTITY stopUsingAccount.accesskey "с">
+<!ENTITY syncPrefsCaption.label "Синхронизация браузера">
+<!ENTITY syncComputerName.label "Имя компьютера:">
+<!ENTITY syncComputerName.accesskey "я">
+<!ENTITY syncMy.label "Синхронизировать мои">
+<!ENTITY engine.bookmarks.label "Закладки">
+<!ENTITY engine.bookmarks.accesskey "к">
+<!ENTITY engine.tabs.label "Вкладки">
+<!ENTITY engine.tabs.accesskey "л">
+<!ENTITY engine.history.label "Историю">
+<!ENTITY engine.history.accesskey "т">
+<!ENTITY engine.passwords.label "Пароли">
+<!ENTITY engine.passwords.accesskey "р">
+<!ENTITY engine.prefs.label "Настройки">
+<!ENTITY engine.prefs.accesskey "о">
+<!ENTITY prefs.tosLink.label "Условия службы">
+<!ENTITY prefs.ppLink.label "Политика приватности">

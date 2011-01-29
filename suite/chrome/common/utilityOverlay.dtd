@@ -99,3 +99,4 @@
 <!ENTITY showPopupManager.accesskey "п">
 <!ENTITY dontShowMessage.label "Не показывать данное сообщение при включённой блокировке всплывающих окон ">
 <!ENTITY dontShowMessage.accesskey "о">
+<!ENTITY syncToolbarButton.label "Синхронизировать">

@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs "Вкладки с других компьютеров">
 <!ENTITY aboutHome.recommendedAddons2 "Дополнения для вашего &brandShortName;">
 <!ENTITY aboutHome.giveFeedback "Отправить отзыв">
+<!ENTITY aboutHome.getHelp "Получить помощь">
+<!ENTITY aboutHome.footerWidth "10em">
 <!ENTITY aboutHome.openAllTabs "Открыть всё во вкладках">
 <!ENTITY aboutHome.noTabs "Нет вкладок с прошлого раза">
 <!ENTITY aboutHome.noAddons "Нет рекомендуемых дополнений">

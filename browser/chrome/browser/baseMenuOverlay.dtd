@@ -16,8 +16,6 @@
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Перезапустить с отключёнными дополнениями…">
 <!ENTITY helpSafeMode.accesskey "з">
-<!ENTITY helpReleaseNotes.label "Примечания к выпуску">
-<!ENTITY helpReleaseNotes.accesskey "р">
 <!ENTITY helpTroubleshootingInfo.label "Информация для решения проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey "ф">
 <!ENTITY helpFeedbackPage.label "Отправить отзыв…">
