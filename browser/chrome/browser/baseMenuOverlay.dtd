@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Reaviar e deactivar supplements…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "Remartgas davart la versiun">
-<!ENTITY helpReleaseNotes.accesskey     "R">
-
 <!ENTITY helpTroubleshootingInfo.label      "Infurmaziuns per schliar problems">
 <!ENTITY helpTroubleshootingInfo.accesskey  "p">
 
