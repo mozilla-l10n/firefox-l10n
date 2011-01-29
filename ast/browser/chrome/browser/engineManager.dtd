@@ -1,6 +1,6 @@
 <!ENTITY  engineManager.title       "Alministrar la llista de guetadores">
 <!ENTITY  engineManager.style       "min-width: 35em;">
-<!ENTITY  engineManager.intro       "Dispón de los siguientes motores de gueta instalaos:">
+<!ENTITY  engineManager.intro       "Motores de gueta instalaos:">
 
 <!ENTITY  columnLabel.name          "Nome">
 <!ENTITY  columnLabel.keyword       "Pallabra clave">

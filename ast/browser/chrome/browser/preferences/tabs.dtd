@@ -2,7 +2,7 @@
 <!ENTITY newWindowsAsTabs.accesskey   "v">
 
 <!ENTITY warnCloseMultipleTabs.label  "Alvertir al zarrar múltiples llingüetes">
-<!ENTITY warnCloseMultipleTabs.accesskey  "A">
+<!ENTITY warnCloseMultipleTabs.accesskey  "z">
 
 <!ENTITY warnOpenManyTabs.label       "Alvertir al abrir múltiples llingüetes que puean ralentizar &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "l">

@@ -1,4 +1,4 @@
-<!ENTITY setPassword.title                 "Camudar contraseña mayestra">
+<!ENTITY setPassword.title                 "Camudar contraseña maestra">
 <!ENTITY setPassword.tokenName.label       "Preséu de seguridá">
 <!ENTITY setPassword.oldPassword.label     "Contraseña actual:">
 <!ENTITY setPassword.newPassword.label     "Nueva contraseña:">
