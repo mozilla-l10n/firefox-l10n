@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "已打开的消息窗口">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label  "移动或删除后关闭消息窗口">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY closeMsgOnMoveOrDelete.label  "移动或删除后关闭消息窗口/标签">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "自动检查下列组件的更新：">
