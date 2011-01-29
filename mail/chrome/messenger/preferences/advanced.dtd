@@ -46,7 +46,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "D">
 <!ENTITY reuseExpRadio1.label          "Dritare ekzistuese mesazhi">
 <!ENTITY reuseExpRadio1.accesskey      "z">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Me lëvizjen ose fshirjen, mbyll edhe dritaren e mesazhit">
+<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Me lëvizjen ose fshirjen, mbyll edhe dritaren/skedën e mesazhit">
 <!ENTITY closeMsgWindowOnDelete.accesskey "M">
 
 <!-- Update -->
