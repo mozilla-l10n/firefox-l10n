@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "历史">
 <!ENTITY desktopHeader.label       "桌面">
 
+<!ENTITY editBookmarkDialog.title  "编辑书签">
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "标签:">
 

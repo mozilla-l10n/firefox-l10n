@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "服务器网址">
 <!ENTITY sync.setup.connect         "连接">
 <!ENTITY sync.setup.cancel          "取消">
+<!ENTITY sync.setup.tutorial        "教我怎样做">
