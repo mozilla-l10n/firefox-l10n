@@ -108,6 +108,8 @@
 <!ENTITY goMenu.accesskey "p">
 <!ENTITY goHomeCmd.label "Domů">
 <!ENTITY goHomeCmd.accesskey "d">
+<!ENTITY historyRestoreLastSession.label "Obnovit předchozí relaci">
+<!ENTITY historyRestoreLastSession.accesskey "O">
 
 <!ENTITY bookmarksMenu.label "Záložky">
 <!ENTITY bookmarksMenu.accesskey "Z">
@@ -171,3 +173,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label "Přepnout orientaci stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "o">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label "Panely z jiných počítačů">

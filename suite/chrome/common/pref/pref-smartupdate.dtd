@@ -3,8 +3,8 @@
 <!ENTITY smartTitle.label "Správce instalací a aktualizací">
 <!ENTITY enableSU.label "Povolit instalaci rozšíření a automatickou aktualizaci programového vybavení. (Před aktualizací budete upozorněni.)">
 <!ENTITY enableSU.accesskey "P">
-<!ENTITY allowedSites.label "Povolené servery…">
-<!ENTITY allowedSites.accesskey "S">
+<!ENTITY viewPermissions.label "Správce oprávnění">
+<!ENTITY viewPermissions.accesskey "S">
 
 <!ENTITY verifyUpdates.caption "Aktualizace">
 <!ENTITY autoUpdates.label "Automaticky kontrolovat aktualizace pro:">
@@ -15,11 +15,11 @@
 <!ENTITY weekly.label "týdně">
 <!ENTITY appWeekly.accesskey "t">
 <!ENTITY extensionsUpdates.label "Nainstalované doplňky">
-<!ENTITY extensionsUpdates.accesskey "s">
+<!ENTITY extensionsUpdates.accesskey "N">
 <!ENTITY extensionsDaily.accesskey "e">
-<!ENTITY extensionsWeekly.accesskey "n">
+<!ENTITY extensionsWeekly.accesskey "t">
 <!ENTITY addonManagerButton.label "Správce doplňků">
-<!ENTITY addonManagerButton.accesskey "S">
+<!ENTITY addonManagerButton.accesskey "d">
 
 <!ENTITY whenUpdatesFound.label "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
 <!ENTITY askMe.label "Vždy se dotázat na další postup">

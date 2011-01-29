@@ -5,14 +5,14 @@
 <!ENTITY popupBlock.label "Blokovat nevyžádaná vyskakovací okna">
 <!ENTITY popupBlock.accesskey "B">
 
-<!ENTITY popupExceptions.label "Povolené servery…">
-<!ENTITY popupExceptions.accesskey "l">
+<!ENTITY viewPermissions.label "Spravovat oprávnění">
+<!ENTITY viewPermissions.accesskey "S">
 
 <!ENTITY whenBlock.description "Při zablokování vyskakovacího okna:">
 <!ENTITY playSound.label "Přehrát zvuk:">
 <!ENTITY playSound.accesskey "z">
 <!ENTITY systemSound.label "Systémový zvuk">
-<!ENTITY systemSound.accesskey "S">
+<!ENTITY systemSound.accesskey "m">
 <!ENTITY customSound.label "Vlastní zvukový soubor">
 <!ENTITY customSound.accesskey "V">
 
