@@ -6,12 +6,12 @@
 <!ENTITY  loadImages.label            "Cargar imáxenes automáticamente">
 <!ENTITY  loadImages.accesskey        "i">
 <!ENTITY  exceptions.label            "Esceiciones…">
-<!ENTITY  exceptions.accesskey        "e">
+<!ENTITY  exceptions.accesskey        "s">
 
 <!ENTITY  enableJavaScript.label      "Activar JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Avanzáu…">
-<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  advancedJS.accesskey        "n">
 
 <!ENTITY  enableJava.label            "Activar Java">
 <!ENTITY  enableJava.accesskey        "r">
@@ -25,13 +25,13 @@
 <!ENTITY  defaultSize.accesskey       "m">
 
 <!ENTITY  advancedFonts.label         "Avanzaes…">
-<!ENTITY  advancedFonts.accesskey     "A">
+<!ENTITY  advancedFonts.accesskey     "v">
 
 <!ENTITY  colors.label                "Colores…">
 <!ENTITY  colors.accesskey            "C">
 
 
 <!ENTITY languages.label              "Llingües">
-<!ENTITY chooseLanguage.label         "Escoyer llingua prefería p'amosar les páxines web">
+<!ENTITY chooseLanguage.label         "Escoyer llingua preferida p'amosar les páxines web">
 <!ENTITY chooseButton.label           "Seleicionar…">
 <!ENTITY chooseButton.accesskey       "o">

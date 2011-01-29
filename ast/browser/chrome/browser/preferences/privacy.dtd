@@ -15,10 +15,10 @@
 <!ENTITY  acceptCookies.accesskey       "c">
 
 <!ENTITY  acceptThirdParty.label        "Aceutar cookies de terceros">
-<!ENTITY  acceptThirdParty.accesskey    "u">
+<!ENTITY  acceptThirdParty.accesskey    "k">
 
 <!ENTITY  keepUntil.label               "Caltener hasta que:">
-<!ENTITY  keepUntil.accesskey           "C">
+<!ENTITY  keepUntil.accesskey           "h">
 
 <!ENTITY  expire.label                  "caduquen">
 <!ENTITY  close.label                   "zarre &brandShortName;">
@@ -57,7 +57,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "llimpiar tol historial">
 <!ENTITY  dontrememberActions.post.label         ".">
 <!ENTITY privateBrowsingPermanent.label "Mou permanente de navegación privao">
-<!ENTITY privateBrowsingPermanent.accesskey "e">
+<!ENTITY privateBrowsingPermanent.accesskey "M">
 <!ENTITY rememberHistory.label "Remembrar el mio historial de navegación">
 <!ENTITY rememberHistory.accesskey "v">
 
