@@ -1,0 +1,14 @@
+<!ENTITY  splash_screen_label "po ngarkohet">
+<!ENTITY  splash_screen_installing "po instalohen libraritë\u2026">
+<!ENTITY  incompatable_cpu_error "Kjo pajisje nuk plotëson minimumin e sistemit të domosdoshëm për &brandShortName;.">
+<!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;.">
+<!ENTITY  error_loading_file "Ndodhi një gabim gjatë kur po provohej të ngarkoheshin kartela të domosdoshme për xhirimin e &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Njoftues Vithisjesh për &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; u vithis. Skedat tuaja do të duhej t'i shihnit te faqja e fillimit të &brandShortName;, kur ta rinisni.">
+<!ENTITY  crash_help_message "Ju lutem, na ndihmoni ta ndreqim këtë problem!">
+<!ENTITY  crash_send_report_message "Dërgojini Mozilla-s një njoftim vithisjeje">
+<!ENTITY  crash_include_url "Përfshini adresën e faqes">
+<!ENTITY  crash_close_label "Mbylle">
+<!ENTITY  crash_restart_label "Rinis &brandShortName;">
+<!ENTITY  sending_crash_report "Po dërgohet njoftimi i vithisjes\u2026">
