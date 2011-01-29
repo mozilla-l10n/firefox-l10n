@@ -1,0 +1,105 @@
+<!ENTITY accountSetupTitle.label    "Configuração do &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "Bem-vindo, se nunca usou o &syncBrand.fullName.label; antes, precisa de criar uma noca conta.">
+<!ENTITY button.createNewAccount.label "Criar uma Nova Conta">
+<!ENTITY button.haveAccount.label "Tenho uma Conta &syncBrand.fullName.label;">
+
+<!ENTITY setup.choicePage.title.label     "Usou o  &syncBrand.fullName.label; antes?">
+<!ENTITY setup.choicePage.new.label       "Nunca usei o &syncBrand.shortName.label; antes">
+<!ENTITY setup.choicePage.existing.label  "Já estou a usar o &syncBrand.shortName.label; noutro computador">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Servidor">
+<!ENTITY serverType.main.label      "Servidor &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label    "Usar um servidor específico">
+<!ENTITY signIn.account.label       "Endereço de Correio/Utilizador">
+<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY signIn.password.label      "Senha">
+<!ENTITY signIn.password.accesskey  "S">
+<!ENTITY signIn.serverURL.label     "URL de Servidor">
+<!ENTITY signIn.serverURL.accesskey "U">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Detalhes da Conta">
+<!ENTITY setup.confirmPassword.label             "Confirmar Senha">
+<!ENTITY setup.confirmPassword.accesskey         "C">
+<!ENTITY setup.emailAddress.label                "Endereço de Correio">
+<!ENTITY setup.emailAddress.accesskey            "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Concordo com os">
+<!ENTITY setup.tosAgree1.accesskey  "o">
+<!ENTITY setup.tosLink.label        "Termos de Serviço">
+<!ENTITY setup.tosAgree2.label      "e a">
+<!ENTITY setup.ppLink.label         "Política de Privacidade">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "O &brandShortName; Respeita a Sua Privacidade">
+<!ENTITY setup.newSyncKeyPage.description.label "Para assegurar a sua privacidade total, toda a sua informação é cifrada antes de ser enviada. A Chave Sync necessária para decifrar a informação não é enviada.">
+<!ENTITY syncKeyEntry.label        "A Sua Chave Sync">
+<!ENTITY syncKeyEntry.accesskey    "C">
+<!ENTITY syncKeyGenerate.label     "Gerar">
+<!ENTITY syncKeyGenerate.accesskey "G">
+<!ENTITY syncKeyStrength.label     "Força:">
+<!ENTITY syncKeyHelp.label         "O que é que significa força?">
+<!ENTITY syncKeyBackup.description "A sua Chave Sync é necessária para aceder ao &syncBrand.fullName.label; noutras máquinas. Por favor crie uma cópia de segurança. Não podemos ajudá-lo a recuperar a sua Chave Sync.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Imprimir...">
+<!ENTITY button.syncKeyBackup.print.accesskey "I">
+<!ENTITY button.syncKeyBackup.save.label      "Gravar...">
+<!ENTITY button.syncKeyBackup.save.accesskey  "G">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Por Favor Confirme Que Não É Um Robot">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Escreva Informação de Conta">
+<!ENTITY resetPassword.label          "Recriar Senha">
+<!ENTITY connecting.label             "A ligar...">
+
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Escreva a sua Chave Sync">
+<!ENTITY setup.existingSyncKeyPage.description "A Chave Sync foi gerada para si, ou escreveu a sua própria quando se registou para o &syncBrand.fullName.label;. Não é o mesmo que a sua senha.">
+<!ENTITY existingSyncKeyHelp.description "Pode encontrar a sua Chave Sync indo ao seu computador abrindo Preferências, Segurança, Senhas Gravadas. Se não conseguir obter a sua Chave Sync correcta, pode escolher reiniciá-la, mas perderá toda a informação que está no servidor.">
+<!ENTITY lostSyncKey.label            "Perdi a minha Chave Sync">
+<!ENTITY verifying.label              "A verificar...">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Opções de Sincronização">
+<!ENTITY syncComputerName.label       "Nome do Computador:">
+<!ENTITY syncComputerName.accesskey   "C">
+
+<!ENTITY syncMy.label               "Sincronizar">
+<!ENTITY engine.bookmarks.label     "Marcadores">
+<!ENTITY engine.bookmarks.accesskey "M">
+<!ENTITY engine.tabs.label          "Separadores">
+<!ENTITY engine.tabs.accesskey      "e">
+<!ENTITY engine.history.label       "Histórico">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Senhas">
+<!ENTITY engine.passwords.accesskey "S">
+<!ENTITY engine.prefs.label         "Preferências">
+<!ENTITY engine.prefs.accesskey     "P">
+
+<!ENTITY choice2.merge.main.label      "Juntar a informação deste computador com a informação do &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "(recomendado)">
+<!ENTITY choice2.client.main.label     "Substituir a informação neste computador com a informação do &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Substituir a informação noutros dispositivos pela deste computador">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Confirmar">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; vai juntar a informação deste navegador na sua conta Sync.">
+<!ENTITY confirm.client.label         "Toda a informação do &brandShortName; será apagada, incluindo:">
+<!ENTITY confirm.client.moreinfo.label "O &brandShortName; depois copiará a informação do &syncBrand.fullName.label; para este computador.">
+<!ENTITY confirm.client.warning.label "AVISO: Toda a informação do &brandShortName; neste computador será substituída!">
+<!ENTITY confirm.server.label         "Os seguintes dispositivos vão ser reescritos com a informação local:">
+<!ENTITY confirm.server.warning.label "AVISO: A sua informação local substituirá toda a informação do &brandShortName; nestes dispositivos!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Configuração Completa">
+<!ENTITY changeOptions.label "Pode mudar esta preferência nas Opções de Sincronização abaixo.">
+<!ENTITY continueUsing.label "Pode continuar a usar o &brandShortName;.">

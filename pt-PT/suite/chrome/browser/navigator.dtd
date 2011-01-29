@@ -173,3 +173,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Mudar a direcção da página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label         "Separadores De Outros Computadores">

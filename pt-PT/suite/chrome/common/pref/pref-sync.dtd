@@ -1,0 +1,48 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "C">
+<!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite-lhe aceder ao seu histórico, marcadores, senhas e separadores abertos em todos os seus dispositivos.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Conta &syncBrand.fullName.label;">
+<!ENTITY currentAccount.label         "Conta Actual:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Actualizar">
+<!ENTITY updatePass.accesskey         "A">
+<!ENTITY resetPass.label              "Limpar">
+<!ENTITY resetPass.accesskey          "L">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Gerir Conta">
+<!ENTITY viewQuota.label              "Ver Quota">
+<!ENTITY viewQuota.accesskey          "V">
+<!ENTITY changePassword.label         "Mudar Senha">
+<!ENTITY changePassword.accesskey     "M">
+<!ENTITY mySyncKey.label              "A Minha Chave Sync">
+<!ENTITY mySyncKey.accesskey          "C">
+<!ENTITY resetSync.label              "Reiniciar Sync">
+<!ENTITY resetSync.accesskey          "e">
+<!ENTITY stopUsingAccount.label       "Deixar de Usar Esta Conta">
+<!ENTITY stopUsingAccount.accesskey   "D">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Sincronizar Navegador">
+<!ENTITY syncComputerName.label       "Nome do Computador:">
+<!ENTITY syncComputerName.accesskey   "N">
+
+<!ENTITY syncMy.label               "Sincronizar">
+<!ENTITY engine.bookmarks.label     "Marcadores">
+<!ENTITY engine.bookmarks.accesskey "M">
+<!ENTITY engine.tabs.label          "Separadores">
+<!ENTITY engine.tabs.accesskey      "S">
+<!ENTITY engine.history.label       "Histórico">
+<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.passwords.label     "Senhas">
+<!ENTITY engine.passwords.accesskey "S">
+<!ENTITY engine.prefs.label         "Preferências">
+<!ENTITY engine.prefs.accesskey     "P">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Termos de Serviço">
+<!ENTITY prefs.ppLink.label         "Política de Privacidade">
