@@ -2,6 +2,8 @@
 <!ENTITY aboutHome.recentTabs                   "Tab terakhir">
 <!ENTITY aboutHome.remoteTabs                   "Tab dari komputer lainnya">
 <!ENTITY aboutHome.recommendedAddons2           "Pengaya  &brandShortName;">
+<!ENTITY aboutHome.getHelp                      "Buka Bantuan">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.giveFeedback                 "Kirim Saran">
 <!ENTITY aboutHome.openAllTabs                  "Buka semua di tab">
 <!ENTITY aboutHome.noTabs                       "Tidak ada tab terakhir">
