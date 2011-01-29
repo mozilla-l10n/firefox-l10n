@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs                   "其他计算机上的标签页">
 <!ENTITY aboutHome.recommendedAddons2           "你的 &brandShortName; 附加组件">
 <!ENTITY aboutHome.giveFeedback                 "给出反馈意见">
+<!ENTITY aboutHome.getHelp                      "获取帮助">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "打开所有的标签">
 <!ENTITY aboutHome.noTabs                       "上次未打开任何标签页">
 <!ENTITY aboutHome.noAddons                     "无被推荐的附加组件">
