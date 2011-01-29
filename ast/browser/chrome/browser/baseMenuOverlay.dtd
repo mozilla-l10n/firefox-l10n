@@ -19,8 +19,6 @@
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label "Reaniciar colos complementos desactivaos…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY helpReleaseNotes.label         "Notes de la versión">
-<!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY helpTroubleshootingInfo.label "Información pa solucionar problemes">
 <!ENTITY helpTroubleshootingInfo.accesskey "f">
 <!ENTITY helpFeedbackPage.label "Unviar opinión…">
