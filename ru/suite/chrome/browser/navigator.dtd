@@ -139,3 +139,4 @@
 <!ENTITY popupIcon.tooltiptext "Разрешать открытие всплывающих окон с этих веб-сайтов">
 <!ENTITY bidiSwitchPageDirectionItem.label "Переключить направление текста на странице">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "н">
+<!ENTITY syncTabsMenu.label "Вкладки с других компьютеров">

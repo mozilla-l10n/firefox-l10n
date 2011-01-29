@@ -18,3 +18,4 @@
 <!ENTITY sync.serverURL "URL сервера">
 <!ENTITY sync.setup.connect "Соединиться">
 <!ENTITY sync.setup.cancel "Отмена">
+<!ENTITY sync.setup.tutorial "Показать мне как">

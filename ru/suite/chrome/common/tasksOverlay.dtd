@@ -31,3 +31,8 @@
 <!ENTITY addonsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Выбрать другой профиль…">
 <!ENTITY switchProfileCmd.accesskey "ы">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncSetup.label "Настроить синхронизацию…">
+<!ENTITY syncSetup.accesskey "х">
+<!ENTITY syncSyncNowItem.label "Синхронизировать">
+<!ENTITY syncSyncNowItem.accesskey "х">
