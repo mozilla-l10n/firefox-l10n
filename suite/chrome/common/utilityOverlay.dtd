@@ -114,3 +114,5 @@
 <!ENTITY showPopupManager.accesskey   "G">
 <!ENTITY dontShowMessage.label        "Não mostrar esta mensagem quando os popups são bloqueados">
 <!ENTITY dontShowMessage.accesskey    "m">
+
+<!ENTITY syncToolbarButton.label "Sync">

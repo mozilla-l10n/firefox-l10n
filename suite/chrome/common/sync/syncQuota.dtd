@@ -1,0 +1,4 @@
+<!ENTITY quota.dialogTitle.label    "Quota no Servidor">
+<!ENTITY quota.retrievingInfo.label "A obter informação de quota...">
+<!ENTITY quota.typeColumn.label     "Tipo">
+<!ENTITY quota.sizeColumn.label     "Tamanho">
