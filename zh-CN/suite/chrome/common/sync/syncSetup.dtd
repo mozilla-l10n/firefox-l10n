@@ -1,0 +1,105 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; 安装">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "欢迎，如果您以前从未使用过 &syncBrand.fullName.label;，您将需要创建一个新帐户。">
+<!ENTITY button.createNewAccount.label "创建一个新帐户">
+<!ENTITY button.haveAccount.label "我有一个 &syncBrand.fullName.label; 帐户">
+
+<!ENTITY setup.choicePage.title.label     "您以前是否使用过 &syncBrand.fullName.label;？">
+<!ENTITY setup.choicePage.new.label       "我以前从未使用过 &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "我已经在其他计算机上使用过 &syncBrand.shortName.label;">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "服务器">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; 服务器">
+<!ENTITY serverType.custom.label    "使用自定义服务器">
+<!ENTITY signIn.account.label       "电子邮箱地址 / 用户名">
+<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY signIn.password.label      "密码">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.serverURL.label     "服务器网址">
+<!ENTITY signIn.serverURL.accesskey "S">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "帐户资料">
+<!ENTITY setup.confirmPassword.label             "确认密码">
+<!ENTITY setup.confirmPassword.accesskey         "C">
+<!ENTITY setup.emailAddress.label                "电子邮件地址">
+<!ENTITY setup.emailAddress.accesskey            "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "我同意">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "服务条款">
+<!ENTITY setup.tosAgree2.label      "以及">
+<!ENTITY setup.ppLink.label         "隐私策略">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; 保护您的隐私">
+<!ENTITY setup.newSyncKeyPage.description.label "为了保护您的全部隐私，所有数据上传前都会加密。解密您的数据所需的同步密钥不会上传。">
+<!ENTITY syncKeyEntry.label        "您的同步密钥">
+<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY syncKeyGenerate.label     "生成">
+<!ENTITY syncKeyGenerate.accesskey "G">
+<!ENTITY syncKeyStrength.label     "强度：">
+<!ENTITY syncKeyHelp.label         "强度意味着什么？">
+<!ENTITY syncKeyBackup.description "在其他机器访问 &syncBrand.fullName.label; 您的同步密钥是必须的。请创建一个备份副本。我们不能帮助您恢复您的同步密钥。">
+
+<!ENTITY button.syncKeyBackup.print.label     "打印…">
+<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.save.label      "保存…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "请确认您不是机器人">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "输入帐户信息">
+<!ENTITY resetPassword.label          "重置密码">
+<!ENTITY connecting.label             "正在连接...">
+
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "请输入您的同步密钥">
+<!ENTITY setup.existingSyncKeyPage.description "当您第一次登录到 &syncBrand.fullName.label; 时，会为您生成同步密钥，或者您输入自己的。不能与密码相同。">
+<!ENTITY existingSyncKeyHelp.description "通过使用其它电脑您能找到已保存的同步密匙并在安全的状态下检查您曾保存的密码。如果您仍不能获得正确的同步密匙，您可以选择重置，但您将丢失服务器上所有已储存的资料.">
+<!ENTITY lostSyncKey.label            "我已经丢失我的同步密钥">
+<!ENTITY verifying.label              "正在校验…">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "同步选项">
+<!ENTITY syncComputerName.label       "计算机名：">
+<!ENTITY syncComputerName.accesskey   "C">
+
+<!ENTITY syncMy.label               "同步我的">
+<!ENTITY engine.bookmarks.label     "书签">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "标签页">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "历史记录">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "密码">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "首选项">
+<!ENTITY engine.prefs.accesskey     "e">
+
+<!ENTITY choice2.merge.main.label      "用我的 &syncBrand.shortName.label; 数据合并这台电脑的数据">
+<!ENTITY choice2.merge.recommended.label "（推荐）">
+<!ENTITY choice2.client.main.label     "用我的 &syncBrand.shortName.label; 数据替换此计算机上的所有数据">
+<!ENTITY choice2.server.main.label     "用此计算机的数据替换所有其他设备">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "确认">
+<!ENTITY confirm.merge.label    "您已经选择将这台电脑上的数据和其他运行 &syncBrand.fullName.label; 的设备上的数据合并。">
+<!ENTITY confirm.client.label         "这台电脑上的全部 &brandShortName; 数据将会被删除，包括如下：">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; 将会把您的 &syncBrand.fullName.label; 数据复制到这台计算机上。">
+<!ENTITY confirm.client.warning.label "警告：这将导致此电脑上全部 &brandShortName; 数据被替换！">
+<!ENTITY confirm.server.label         "您已经选择用这台电脑上的数据覆盖其他设备。">
+<!ENTITY confirm.server.warning.label "警告：这些设备上全部的 &brandShortName; 数据将会被您的本地数据替换！">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "安装完成">
+<!ENTITY changeOptions.label "您可以选择下面的同步选项更改此首选项。">
+<!ENTITY continueUsing.label "您现在可以继续使用 &brandShortName;。">
