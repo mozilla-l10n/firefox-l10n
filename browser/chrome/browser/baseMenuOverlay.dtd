@@ -16,8 +16,6 @@
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Riavvia disattivando i componenti aggiuntivi">
 <!ENTITY helpSafeMode.accesskey "d">
-<!ENTITY helpReleaseNotes.label "Note di versione">
-<!ENTITY helpReleaseNotes.accesskey "v">
 <!ENTITY helpTroubleshootingInfo.label "Risoluzione dei problemi">
 <!ENTITY helpTroubleshootingInfo.accesskey "R">
 <!ENTITY helpFeedbackPage.label "Invia feedback…">
