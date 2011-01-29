@@ -26,8 +26,9 @@
 <!ENTITY historyHeader.label       "방문 기록">
 <!ENTITY desktopHeader.label       "데스크톱">
 
+<!ENTITY editBookmarkDialog.title  "편집">
 <!ENTITY editBookmarkDone.label    "완료">
-<!ENTITY editBookmarkTags.label    "태그 추가">
+<!ENTITY editBookmarkTags.label    "태그">
 
 <!ENTITY selectHelper.done         "완료">
 

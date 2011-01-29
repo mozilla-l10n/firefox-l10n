@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "&brandShortName; 관하여">
 <!ENTITY about.button                              "페이지로 가기">
 <!ENTITY content.title                             "내용">
+<!ENTITY reflowZoom.title                          "확대 시 텍스트 재설정">
 <!ENTITY showImages.title                          "그림 보이기">
 <!ENTITY enableJavaScript.title                    "자바스크립트 사용">
 <!ENTITY enablePlugins.title                       "플러그인 사용">
