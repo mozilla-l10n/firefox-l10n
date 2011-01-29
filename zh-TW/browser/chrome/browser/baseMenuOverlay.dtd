@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "重新啟動但停用附加元件…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "版本資訊">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 <!ENTITY helpTroubleshootingInfo.label      "疑難排解資訊">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
