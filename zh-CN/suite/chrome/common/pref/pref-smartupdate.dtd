@@ -3,8 +3,8 @@
 <!ENTITY smartTitle.label                     "管理软件安装和更新">
 <!ENTITY enableSU.label                       "允许web站点安装扩展和更新">
 <!ENTITY enableSU.accesskey                   "x">
-<!ENTITY allowedSites.label                   "许可的站点">
-<!ENTITY allowedSites.accesskey               "e">
+<!ENTITY viewPermissions.label                "权限管理">
+<!ENTITY viewPermissions.accesskey            "P">
 
 <!ENTITY verifyUpdates.caption                "更新">
 <!ENTITY autoUpdates.label                    "自动检查下列组件的更新：">

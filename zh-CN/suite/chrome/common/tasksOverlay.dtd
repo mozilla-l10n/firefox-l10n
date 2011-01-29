@@ -45,3 +45,12 @@
 
 <!ENTITY switchProfileCmd.label "切换配置文件…">
 <!ENTITY switchProfileCmd.accesskey "h">
+
+<!ENTITY syncBrand.shortName.label "同步">
+<!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
+     Only one of these will show at a time (based on setup state),
+     so reusing accesskey is ok. -->
+<!ENTITY syncSetup.label           "设置同步…">
+<!ENTITY syncSetup.accesskey       "S">
+<!ENTITY syncSyncNowItem.label     "立即同步">
+<!ENTITY syncSyncNowItem.accesskey "S">

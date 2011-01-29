@@ -5,8 +5,8 @@
 <!ENTITY popupBlock.label               "阻挡未经允许的弹出窗口">
 <!ENTITY popupBlock.accesskey           "B">
 
-<!ENTITY popupExceptions.label          "允许的站点">
-<!ENTITY popupExceptions.accesskey      "A">
+<!ENTITY viewPermissions.label          "权限管理">
+<!ENTITY viewPermissions.accesskey      "M">
 
 <!ENTITY whenBlock.description          "当弹出窗口被阻挡时:">
 <!ENTITY playSound.label                "播放声音:">

@@ -13,5 +13,6 @@
 <!ENTITY  bookmarkGroup.accesskey  "B">
 <!ENTITY  closeTabButton.tooltip   "关闭当前标签页">
 <!ENTITY  newTabButton.tooltip   "打开新标签页">
+<!ENTITY  listAllTabs.tooltip    "列出全部标签页">
 <!ENTITY  undoCloseTab.label    "恢复关闭的标签页">
 <!ENTITY  undoCloseTab.accesskey  "U">

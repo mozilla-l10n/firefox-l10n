@@ -114,3 +114,5 @@
 <!ENTITY showPopupManager.accesskey   "M">
 <!ENTITY dontShowMessage.label        "不要再显示此弹出窗口信息">
 <!ENTITY dontShowMessage.accesskey    "D">
+
+<!ENTITY syncToolbarButton.label "同步">
