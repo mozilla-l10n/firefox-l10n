@@ -1,0 +1,78 @@
+<!ENTITY accountSetupTitle.label "Configuración de &syncBrand.fullName.label;">
+<!ENTITY setup.pickSetupType.description "Bienvenido. Si nunca ha usado &syncBrand.fullName.label; antes, necesita crear ahora una nueva cuenta.">
+<!ENTITY button.createNewAccount.label "Crear una nueva cuenta">
+<!ENTITY button.haveAccount.label "Tengo una cuenta de &syncBrand.fullName.label;">
+<!ENTITY setup.choicePage.title.label "¿Ha usado &syncBrand.fullName.label; antes?">
+<!ENTITY setup.choicePage.new.label "No he usado nunca &syncBrand.shortName.label; antes">
+<!ENTITY setup.choicePage.existing.label "Ya estoy usando &syncBrand.shortName.label; en otro dispositivo">
+<!ENTITY server.label "Servidor">
+<!ENTITY serverType.main.label "Servidor de &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label "Usar un servidor personalizado">
+<!ENTITY signIn.account.label "Dirección de correo / Nombre de usuario">
+<!ENTITY signIn.account.accesskey "D">
+<!ENTITY signIn.password.label "Contraseña ">
+<!ENTITY signIn.password.accesskey "C">
+<!ENTITY signIn.serverURL.label "URL del servidor">
+<!ENTITY signIn.serverURL.accesskey "U">
+<!ENTITY setup.newAccountDetailsPage.title.label "Detalles de la cuenta">
+<!ENTITY setup.confirmPassword.label "Confirmar contraseña">
+<!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.emailAddress.label "Dirección de email">
+<!ENTITY setup.emailAddress.accesskey "e">
+<!ENTITY setup.tosAgree1.label "Acepto los">
+<!ENTITY setup.tosAgree1.accesskey "A">
+<!ENTITY setup.tosLink.label "Términos del Servicio">
+<!ENTITY setup.tosAgree2.label "y la">
+<!ENTITY setup.ppLink.label "Política de privacidad">
+<!ENTITY setup.tosAgree3.label "">
+<!ENTITY setup.tosAgree2.accesskey "">
+<!ENTITY setup.newSyncKeyPage.title.label "A &brandShortName; le importa su privacidad">
+<!ENTITY setup.newSyncKeyPage.description.label "Para asegurar una privacidad total, todos los datos son cifrados antes de ser enviados. La clave de Sync, que es necesaria para descifrar sus datos, no es enviada.">
+<!ENTITY syncKeyEntry.label "Su clave de Sync">
+<!ENTITY syncKeyEntry.accesskey "c">
+<!ENTITY syncKeyGenerate.label "Generar">
+<!ENTITY syncKeyGenerate.accesskey "G">
+<!ENTITY syncKeyStrength.label "Fortaleza:">
+<!ENTITY syncKeyHelp.label "¿Qué significa la fortaleza?">
+<!ENTITY syncKeyBackup.description "Su clave de Sync es necesaria para acceder a &syncBrand.fullName.label; en otros equpos. Por favor, cree una copia ahora. No podemos ayudarle a recuperar su clave de Sync.">
+<!ENTITY button.syncKeyBackup.print.label "Imprimir…">
+<!ENTITY button.syncKeyBackup.print.accesskey "p">
+<!ENTITY button.syncKeyBackup.save.label "Guardar…">
+<!ENTITY button.syncKeyBackup.save.accesskey "r">
+<!ENTITY setup.captchaPage2.title.label "Por favor, confirme que no es un robot">
+<!ENTITY setup.existingAccount.title.label "Introduzca información de la cuenta">
+<!ENTITY resetPassword.label "Restablecer contraseña">
+<!ENTITY connecting.label "Conectando…">
+<!ENTITY setup.existingSyncKeyPage.title "Por favor, introduzca su clave de Sync">
+<!ENTITY setup.existingSyncKeyPage.description "La clave de Sync fue generada por usted, o bien introdujo la suya propia, cuando se inscribió en &syncBrand.fullName.label;. No es la misma que su contraseña.">
+<!ENTITY existingSyncKeyHelp.description "Puede encontrar su clave guardada de Sync yendo a su otro equipo y revisando Contraseñas guardadas en el apartado Seguridad. Si sigue sin poder recuperar su clave correcta de Sync, puede elegir reiniciarla, pero perderá cualquier dato guardado en el servidor.">
+<!ENTITY lostSyncKey.label "He perdido mi clave de Sync">
+<!ENTITY verifying.label "Verificando…">
+<!ENTITY setup.optionsPage.title "Opciones de Sync">
+<!ENTITY syncComputerName.label "Nombre del equipo:">
+<!ENTITY syncComputerName.accesskey "N">
+<!ENTITY syncMy.label "Sincronizar">
+<!ENTITY engine.bookmarks.label "Marcadores">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label "Pestañas">
+<!ENTITY engine.tabs.accesskey "t">
+<!ENTITY engine.history.label "Historial">
+<!ENTITY engine.history.accesskey "H">
+<!ENTITY engine.passwords.label "Contraseñas">
+<!ENTITY engine.passwords.accesskey "C">
+<!ENTITY engine.prefs.label "Preferencias">
+<!ENTITY engine.prefs.accesskey "S">
+<!ENTITY choice2.merge.main.label "Unir los datos de este equipo con los de datos de &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Recomendado:">
+<!ENTITY choice2.client.main.label "Reemplazar todos los datos en este equipo con los datos de &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label "Reemplazar todos los datos de los demás dispositivos con los de este equipo">
+<!ENTITY setup.optionsConfirmPage.title "Confirmar">
+<!ENTITY confirm.merge.label "&syncBrand.fullName.label; ahora unirá los datos del navegador de este equipo con los datos de su cuenta de Sync.">
+<!ENTITY confirm.client.label "Se borrarán todos los datos de &brandShortName; en este equipo, incluyendo los siguientes:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; copiará sus datos de &syncBrand.fullName.label; a este equipo.">
+<!ENTITY confirm.client.warning.label "¡ADVERTENCIA: esto provocará que todos los datos de &brandShortName; en este equipo sean reemplazados!">
+<!ENTITY confirm.server.label "Los siguientes dispositivos serán sobreescritos con sus datos locales:">
+<!ENTITY confirm.server.warning.label "¡ADVERTENCIA: sus datos locales reemplazarán todos los datos de &brandShortName; en estos dispositivos!">
+<!ENTITY setup.successPage.title "Instalación completada">
+<!ENTITY changeOptions.label "Puede cambiar esta preferencia seleccionando las opciones de Sync más abajo.">
+<!ENTITY continueUsing.label "Puede continuar usando &brandShortName;.">

@@ -99,3 +99,4 @@
 <!ENTITY showPopupManager.accesskey "A">
 <!ENTITY dontShowMessage.label "No mostrar este mensaje cuando se bloqueen ventanas emergentes">
 <!ENTITY dontShowMessage.accesskey "N">
+<!ENTITY syncToolbarButton.label "Sync">
