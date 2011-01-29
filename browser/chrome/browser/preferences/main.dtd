@@ -11,23 +11,23 @@
 <!ENTITY useCurrentPage.accesskey "T">
 <!ENTITY useMultiple.label "Uporabi trenutne strani">
 <!ENTITY useBookmark.label "Uporabi zaznamek">
-<!ENTITY useBookmark.accesskey "Z">
+<!ENTITY useBookmark.accesskey "z">
 <!ENTITY restoreDefault.label "Uporabi privzeto stran">
-<!ENTITY restoreDefault.accesskey "P">
+<!ENTITY restoreDefault.accesskey "i">
 
 <!ENTITY downloads.label "Prenosi">
 
-<!ENTITY showWhenDownloading.label "Prikaži okno s prenosi med prenašanjem">
-<!ENTITY showWhenDownloading.accesskey "P">
+<!ENTITY showWhenDownloading.label "Med prenašanjem prikaži okno s prenosi">
+<!ENTITY showWhenDownloading.accesskey "o">
 <!ENTITY closeWhenDone.label "in ga zapri, ko so vsi prenosi končani">
-<!ENTITY closeWhenDone.accesskey "z">
+<!ENTITY closeWhenDone.accesskey "a">
 <!ENTITY saveTo.label "Shrani datoteke v">
-<!ENTITY saveTo.accesskey "v">
+<!ENTITY saveTo.accesskey "S">
 <!ENTITY chooseFolderWin.label "Prebrskaj ...">
 <!ENTITY chooseFolderWin.accesskey "b">
 <!ENTITY chooseFolderMac.label "Izberi ...">
 <!ENTITY chooseFolderMac.accesskey "b">
-<!ENTITY alwaysAsk.label "Vsakokrat me vprašaj, kam shraniti posamezno datoteko">
+<!ENTITY alwaysAsk.label "Pri vsakem prenosu vprašaj, kam želim shraniti datoteko">
 <!ENTITY alwaysAsk.accesskey "V">
 
 <!ENTITY addonsMgr.label "Razširitve in teme">

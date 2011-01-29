@@ -1,5 +1,5 @@
 <!ENTITY blockPopups.label "Prepovej nezahtevana okna">
-<!ENTITY blockPopups.accesskey "P">
+<!ENTITY blockPopups.accesskey "r">
 <!ENTITY popupExceptions.label "Izjeme ...">
 <!ENTITY popupExceptions.accesskey "I">
 
@@ -9,7 +9,7 @@
 <!ENTITY exceptions.accesskey "z">
 
 <!ENTITY enableJavaScript.label "Omogoči JavaScript">
-<!ENTITY enableJavaScript.accesskey "S">
+<!ENTITY enableJavaScript.accesskey "t">
 <!ENTITY advancedJS.label "Napredno ...">
 <!ENTITY advancedJS.accesskey "n">
 
@@ -20,7 +20,7 @@
 <!ENTITY fontsAndColors.label "Pisave in barve">
 
 <!ENTITY defaultFont.label "Privzeta pisava:">
-<!ENTITY defaultFont.accesskey "P">
+<!ENTITY defaultFont.accesskey "a">
 <!ENTITY defaultSize.label "Velikost:">
 <!ENTITY defaultSize.accesskey "V">
 
@@ -34,4 +34,4 @@
 <!ENTITY languages.label "Jeziki">
 <!ENTITY chooseLanguage.label "Izberite prednosten jezik za prikazovanje strani">
 <!ENTITY chooseButton.label "Izberi ...">
-<!ENTITY chooseButton.accesskey "b">
+<!ENTITY chooseButton.accesskey "e">
