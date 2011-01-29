@@ -37,7 +37,7 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey "r">
-<!ENTITY setup.captchaPage2.title.label "Por favor, confirma que no es un robot">
+<!ENTITY setup.captchaPage2.title.label "Por favor, confirme que no es un robot">
 <!ENTITY addDevice.title.label "Añadir un dispositivo">
 <!ENTITY addDevice.showMeHow.label "Enséñeme cómo.">
 <!ENTITY addDevice.dontHaveDevice.label "No tengo el dispositivo conmigo">
