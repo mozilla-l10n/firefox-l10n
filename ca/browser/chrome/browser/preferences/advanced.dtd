@@ -24,7 +24,7 @@
 <!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey          "q">
 <!ENTITY checkSpelling.label             "Comprova l'ortografia mentre escric">
-<!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY checkSpelling.accesskey         "v">
 
 <!ENTITY systemDefaults.label  "Paràmetres predeterminats del sistema">
 
@@ -56,7 +56,7 @@
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB d'espai">
 <!ENTITY clearCacheNow.label             "Neteja-la ara">
-<!ENTITY clearCacheNow.accesskey         "j">
+<!ENTITY clearCacheNow.accesskey         "N">
 <!ENTITY overrideSmartCacheSize.label    "Ignora la gestió automàtica de la memòria cau">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
