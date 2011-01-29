@@ -12,7 +12,7 @@
 <!ENTITY  blockAttackSites.accesskey "B">
 
 <!ENTITY  blockWebForgeries.label     "Bloquiar sitios señalaos como falsificadores">
-<!ENTITY  blockWebForgeries.accesskey "B">
+<!ENTITY  blockWebForgeries.accesskey "l">
 
 <!ENTITY  addonExceptions.label         "Esceiciones…">
 <!ENTITY  addonExceptions.accesskey     "E">

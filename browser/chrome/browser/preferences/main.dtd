@@ -20,15 +20,15 @@
 <!ENTITY showWhenDownloading.label     "Amosar la ventana de descargues cuando se descargue un ficheru">
 <!ENTITY showWhenDownloading.accesskey "d">
 <!ENTITY closeWhenDone.label "Zarrar cuando se completen les descargues">
-<!ENTITY closeWhenDone.accesskey "u">
+<!ENTITY closeWhenDone.accesskey "Z">
 <!ENTITY saveTo.label "Guardar ficheros en">
 <!ENTITY saveTo.accesskey "G">
 <!ENTITY chooseFolderWin.label        "Restolar…">
-<!ENTITY chooseFolderWin.accesskey    "R">
+<!ENTITY chooseFolderWin.accesskey    "l">
 <!ENTITY chooseFolderMac.label        "Escoyer…">
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Entrugame siempre aú guardar los ficheros">
-<!ENTITY alwaysAsk.accesskey "a">
+<!ENTITY alwaysAsk.accesskey "E">
 
 <!ENTITY addonsMgr.label               "Complementos">
 <!ENTITY manageAddonsDescWin.label     "Camudar les opciones de los complementos">

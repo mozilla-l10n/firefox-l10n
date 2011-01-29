@@ -7,14 +7,14 @@
 <!ENTITY useCursorNavigation.label       "Usar siempre les tecles del cursor pa restolar dientro de les páxines">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Guetar testu mientres s'escribe">
-<!ENTITY searchStartTyping.accesskey     "s">
+<!ENTITY searchStartTyping.accesskey     "G">
 <!ENTITY blockAutoRefresh.label          "Avisame de qué páxines intenten redireicionar o recargar">
 <!ENTITY blockAutoRefresh.accesskey      "v">
 
 <!ENTITY browsing.label                  "Restolar">
 
 <!ENTITY useAutoScroll.label             "Usar desplazamientu automáticu">
-<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useAutoScroll.accesskey         "d">
 <!ENTITY useSmoothScrolling.label        "Usar desplazamientu sele">
 <!ENTITY useSmoothScrolling.accesskey    "l">
 <!ENTITY allowHWAccel.label "Usar aceleración de hardware cuando tea disponible">
@@ -24,7 +24,7 @@
 
 <!ENTITY systemDefaults.label            "Por defeutu">
 <!ENTITY alwaysCheckDefault.label        "Comprobar nel aniciu si &brandShortName; ye'l restolador por defeutu"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "s">
+<!ENTITY alwaysCheckDefault.accesskey    "m">
 <!ENTITY checkNow.label                  "Comprobar agora">
 <!ENTITY checkNow.accesskey              "p">
 <!ENTITY submitCrashes.label             "Unviar informes de fallos">
@@ -52,7 +52,7 @@
 <!ENTITY clearCacheNow.label             "Llimpiar agora">
 <!ENTITY clearCacheNow.accesskey         "g">
 <!ENTITY overrideSmartCacheSize.label "Inorar l'alministración automática de caché">
-<!ENTITY overrideSmartCacheSize.accesskey "t">
+<!ENTITY overrideSmartCacheSize.accesskey "n">
 <!ENTITY updateTab.label                 "Anovar">
 
 <!ENTITY autoCheck.label                 "Guetar automáticamente anovamientos pa:">

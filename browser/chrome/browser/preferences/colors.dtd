@@ -2,21 +2,21 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Permitir a les páxines escoyer les sos propies colores, en cuenta de la mio seleición anterior.">
+<!ENTITY  allowPagesToUse.label           "Permitir a les páxines escoyer los sos propios colores, en cuenta de la mio seleición anterior.">
 <!ENTITY  allowPagesToUse.accesskey       "P">
 
 <!ENTITY  color                           "Testu y fondu">
 <!ENTITY  textColor.label                 "Testu:">
-<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Fondu:">
 <!ENTITY  backgroundColor.accesskey       "F">
 <!ENTITY  useSystemColors.label           "Utilizar los colores del sistema">
-<!ENTITY  useSystemColors.accesskey       "s">
+<!ENTITY  useSystemColors.accesskey       "U">
 
 <!ENTITY  underlineLinks.label            "Sorrayar enllaces">
 <!ENTITY  underlineLinks.accesskey        "S">
 <!ENTITY  links                           "Color de los enllaces">
 <!ENTITY  linkColor.label                 "Enllaces non visitaos:">
-<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  linkColor.accesskey             "E">
 <!ENTITY  visitedLinkColor.label          "Enllaces visitaos:">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  visitedLinkColor.accesskey      "n">

@@ -13,7 +13,7 @@
 <!ENTITY  manualTypeRadio.label         "Configuración manual del proxy">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL pa la configuración automática del proxy:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio.accesskey       "L">
 <!ENTITY  reload.label                  "Recargar">
 <!ENTITY  reload.accesskey              "R">
 <!ENTITY  ftp.label                     "Proxy FTP:">
