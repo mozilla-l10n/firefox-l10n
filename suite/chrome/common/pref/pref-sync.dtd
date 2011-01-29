@@ -1,0 +1,36 @@
+<!ENTITY setupButton.label "Configurar &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey "o">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; le permite acceder a sus marcadores, historial, contraseñas, preferencias y pestañas en varios dispositivos.">
+<!ENTITY accountGroupboxCaption.label "Cuenta de &syncBrand.fullName.label;">
+<!ENTITY currentAccount.label "Cuenta actual:">
+<!ENTITY updatePass.label "Actualizar">
+<!ENTITY updatePass.accesskey "A">
+<!ENTITY resetPass.label "Restablecer">
+<!ENTITY resetPass.accesskey "R">
+<!ENTITY manageAccount.label "Administrar cuenta">
+<!ENTITY viewQuota.label "Ver cuota">
+<!ENTITY viewQuota.accesskey "V">
+<!ENTITY changePassword.label "Cambiar contraseña">
+<!ENTITY changePassword.accesskey "C">
+<!ENTITY mySyncKey.label "Mi clave de Sync">
+<!ENTITY mySyncKey.accesskey "M">
+<!ENTITY resetSync.label "Restablecer Sync">
+<!ENTITY resetSync.accesskey "S">
+<!ENTITY stopUsingAccount.label "Dejar de usar esta cuenta">
+<!ENTITY stopUsingAccount.accesskey "D">
+<!ENTITY syncPrefsCaption.label "Sincronización del navegador">
+<!ENTITY syncComputerName.label "Nombre del equipo:">
+<!ENTITY syncComputerName.accesskey "N">
+<!ENTITY syncMy.label "Sincronizar">
+<!ENTITY engine.bookmarks.label "Marcadores">
+<!ENTITY engine.bookmarks.accesskey "e">
+<!ENTITY engine.tabs.label "Pestañas">
+<!ENTITY engine.tabs.accesskey "t">
+<!ENTITY engine.history.label "Historial">
+<!ENTITY engine.history.accesskey "H">
+<!ENTITY engine.passwords.label "Contraseñas">
+<!ENTITY engine.passwords.accesskey "ñ">
+<!ENTITY engine.prefs.label "Preferencias">
+<!ENTITY engine.prefs.accesskey "P">
+<!ENTITY prefs.tosLink.label "Términos del Servicio">
+<!ENTITY prefs.ppLink.label "Política de privacidad">

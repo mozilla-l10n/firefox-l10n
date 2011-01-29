@@ -139,3 +139,4 @@
 <!ENTITY popupIcon.tooltiptext "Desbloquear las ventanas emergentes de este sitio web">
 <!ENTITY bidiSwitchPageDirectionItem.label "Cambiar dirección de la página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY syncTabsMenu.label "Pestañas de otros equipos">
