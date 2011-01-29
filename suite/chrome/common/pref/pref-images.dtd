@@ -14,8 +14,8 @@
 <!ENTITY accOrgImagesRadio.accesskey    "r">
 <!ENTITY disableImages.label            "不载入任何图片">
 <!ENTITY disableImages.accesskey        "n">
-<!ENTITY viewImages.label               "管理图片权限">
-<!ENTITY viewImages.accesskey           "P">
+<!ENTITY viewPermissions.label          "权限管理">
+<!ENTITY viewPermissions.accesskey      "P">
 <!ENTITY animLoopingTitle.label         "循环播放动画">
 <!ENTITY animLoopAsSpecified.label      "多次的形象指定">
 <!ENTITY animLoopAsSpecified.accesskey  "m">

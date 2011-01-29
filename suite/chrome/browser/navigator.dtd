@@ -173,3 +173,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "切换页面方向">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label         "来自其他计算机的标签页">

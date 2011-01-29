@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "所有数据类型">
+<!ENTITY select.cookies.label "仅 Cookies">
+<!ENTITY select.permissions.label "仅权限">
+<!ENTITY select.preferences.label "仅首选项">
+<!ENTITY select.passwords.label "仅密码">
+
 <!ENTITY domain.search.placeholder "搜索域">
 <!ENTITY domain.search.key "f">
 
@@ -93,6 +99,10 @@
 <!ENTITY perm.Allow "允许">
 <!ENTITY perm.AllowSession "在当前会话中允许">
 <!ENTITY perm.Block "阻止">
+
+<!ENTITY perm.host.placeholder "输入一个主机名称">
+<!ENTITY perm.button.add.label "添加">
+<!ENTITY perm.button.add.accesskey "A">
 
 <!-- preferences -->
 <!ENTITY prefs.description "&brandShortName; 可以通过内容首选项保存它的设置，例如针对特定网站的缩放级别。">

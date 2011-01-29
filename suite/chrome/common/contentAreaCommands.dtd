@@ -14,6 +14,8 @@
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openFrameCmdInTab.label      "在新标签页中打开帧">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY keywordfield.label           "为此搜索添加关键字…">
+<!ENTITY keywordfield.accesskey       "K">
 <!ENTITY showOnlyThisFrameCmd.label     "仅显示当前帧">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY goBackCmd.label              "后退">

@@ -22,6 +22,7 @@
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "证书">
 <!ENTITY validation.label "确认">
+<!ENTITY sync.label "同步">
 <!ENTITY advance.label "高级">
 <!ENTITY down.label "下载">
 <!ENTITY cache.label "高速缓存">
