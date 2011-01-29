@@ -23,3 +23,4 @@
 <!ENTITY editBookmarkOverlay.choose.label "Vybrat…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Nová složka">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey "v">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip "Vytvoří novou složku">

@@ -114,3 +114,5 @@
 <!ENTITY showPopupManager.accesskey "S">
 <!ENTITY dontShowMessage.label "Nezobrazovat tuto zprávu, pokud jsou blokována vyskakovací okna">
 <!ENTITY dontShowMessage.accesskey "N">
+
+<!ENTITY syncToolbarButton.label "Sync">

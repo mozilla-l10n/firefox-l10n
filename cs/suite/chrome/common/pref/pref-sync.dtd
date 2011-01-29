@@ -1,0 +1,48 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label "Nastavit &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey "N">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; umožňuje synchronizaci historie, záložek, hesel a otevřených panelů napříč všemi zařízeními.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Úřet &syncBrand.fullName.label;">
+<!ENTITY currentAccount.label "Aktuální účet:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label "Aktulizovat">
+<!ENTITY updatePass.accesskey "A">
+<!ENTITY resetPass.label "Obnovit">
+<!ENTITY resetPass.accesskey "O">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label "Správa účtu">
+<!ENTITY viewQuota.label "Zobrazit kvótu">
+<!ENTITY viewQuota.accesskey "Z">
+<!ENTITY changePassword.label "Změnit heslo">
+<!ENTITY changePassword.accesskey "h">
+<!ENTITY mySyncKey.label "Můj klíč">
+<!ENTITY mySyncKey.accesskey "M">
+<!ENTITY resetSync.label "Změnit typ synchronizace">
+<!ENTITY resetSync.accesskey "t">
+<!ENTITY stopUsingAccount.label "Přestat používat tento účet">
+<!ENTITY stopUsingAccount.accesskey "P">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label "Sync prohlížeče">
+<!ENTITY syncComputerName.label "Název počítače:">
+<!ENTITY syncComputerName.accesskey "N">
+
+<!ENTITY syncMy.label "Synchronizovat">
+<!ENTITY engine.bookmarks.label "Záložky">
+<!ENTITY engine.bookmarks.accesskey "Z">
+<!ENTITY engine.tabs.label "Panely">
+<!ENTITY engine.tabs.accesskey "P">
+<!ENTITY engine.history.label "Historie">
+<!ENTITY engine.history.accesskey "H">
+<!ENTITY engine.passwords.label "Hesla">
+<!ENTITY engine.passwords.accesskey "e">
+<!ENTITY engine.prefs.label "Předvolby">
+<!ENTITY engine.prefs.accesskey "v">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label "Podmínky služby">
+<!ENTITY prefs.ppLink.label "Zásady ochrany soukromí">

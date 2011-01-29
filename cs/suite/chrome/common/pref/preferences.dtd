@@ -22,6 +22,7 @@
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certifikáty">
 <!ENTITY validation.label "Ověřování">
+<!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Rozšířené nastavení">
 <!ENTITY down.label "Ukládání">
 <!ENTITY cache.label "Vyrovnávací paměť">

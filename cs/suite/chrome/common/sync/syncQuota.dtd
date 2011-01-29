@@ -1,0 +1,4 @@
+<!ENTITY quota.dialogTitle.label "Serverová kvóta">
+<!ENTITY quota.retrievingInfo.label "Získávání informací o kvótě…">
+<!ENTITY quota.typeColumn.label "Typ">
+<!ENTITY quota.sizeColumn.label "Velikost">
