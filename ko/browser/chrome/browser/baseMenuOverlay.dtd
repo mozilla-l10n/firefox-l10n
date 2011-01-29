@@ -17,8 +17,6 @@
 <!ENTITY helpSafeMode.label       "부가 기능 정지 후 다시 시작…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label "온라인 제품 소개서">
-<!ENTITY helpReleaseNotes.accesskey "N">
 <!ENTITY helpTroubleshootingInfo.label	"문제 해결 정보…">
 <!ENTITY helpTroubleshootingInfo.accesskey	"T">
 <!ENTITY helpFeedbackPage.label      "의견 보내기…">
