@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Mulai Ulang dengan Pengaya Dinonaktifkan…">
 <!ENTITY helpSafeMode.accesskey   "n">
 
-<!ENTITY helpReleaseNotes.label         "Catatan Rilis">
-<!ENTITY helpReleaseNotes.accesskey     "C">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informasi Pemecahan Masalah…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "m">
 
