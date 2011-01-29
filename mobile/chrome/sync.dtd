@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "서버 URL">
 <!ENTITY sync.setup.connect         "연결">
 <!ENTITY sync.setup.cancel          "취소">
+<!ENTITY sync.setup.tutorial        "도움말">
