@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "ਰੀਲਿਜ਼ ਨੋਟਿਸ">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 <!ENTITY helpTroubleshootingInfo.label      "ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
