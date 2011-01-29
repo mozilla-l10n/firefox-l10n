@@ -1,0 +1,14 @@
+<!ENTITY  splash_screen_label "载入中">
+<!ENTITY  splash_screen_installing "正在安装库文件\\u2026">
+<!ENTITY  incompatable_cpu_error "此设备不满足安装 &brandShortName; 的最低要求。">
+<!ENTITY  no_space_to_start_error "无足够的空间以启动 &brandShortName;。">
+<!ENTITY  error_loading_file "载入运行 &brandShortName; 所需的文件时发生错误">
+
+<!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
+<!ENTITY  crash_message "&brandShortName; 已崩溃。您的标签页将在重启 &brandShortName; 时列在开始页面。">
+<!ENTITY  crash_help_message "请帮助我们修正此问题！">
+<!ENTITY  crash_send_report_message "发送崩溃报告给 Mozilla">
+<!ENTITY  crash_include_url "包含页面地址">
+<!ENTITY  crash_close_label "关闭">
+<!ENTITY  crash_restart_label "重启 &brandShortName;">
+<!ENTITY  sending_crash_report "Sending crash report\u2026">
