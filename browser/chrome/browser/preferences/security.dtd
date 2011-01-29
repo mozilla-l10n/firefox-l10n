@@ -27,7 +27,7 @@
 
 <!ENTITY  useMasterPassword.label        "Usar una contraseña maestra">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Camudar contraseña mayestra…">
+<!ENTITY  changeMasterPassword.label     "Camudar contraseña maestra…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
 <!ENTITY  savedPasswords.label            "Contraseñes guardaes…">
