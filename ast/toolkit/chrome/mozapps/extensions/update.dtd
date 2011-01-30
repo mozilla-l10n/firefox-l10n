@@ -10,11 +10,11 @@
 <!ENTITY  mismatch.win.title              "Complementos incompatibles">
 <!ENTITY  mismatch.top.label              "Los siguientes complementos nun son compatibles con esta versión de
                                            &brandShortName; y desactiváronse:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; pues comprobar si hai versiones compatibles
+<!ENTITY  mismatch.bottom.label           "&brandShortName; pue comprobar si hai versiones compatibles
                                            disponibles d'estos complementos.">
 
 <!ENTITY  checking.wizard.title           "Guetando complementos compatibles">
-<!ENTITY  checking.top.label              "Guetando anovamientos pa los sos complementos incompatibles…">
+<!ENTITY  checking.top.label              "Guetando anovamientos pa los complementos incompatibles…">
 <!ENTITY  checking.status                 "Esto pue llevar unos minutos…">
 
 <!ENTITY  found.wizard.title               "Complementos compatibles alcontraos">
@@ -32,14 +32,14 @@
 <!ENTITY  noupdates.intro.desc            "&brandShortName; nun pudo alcontrar anovamientos de los tos
                                            complementos incompatibles.">
 <!ENTITY  noupdates.error.desc            "Alcontráronse dalgunos problemes al intentar alcontrar anovamientos.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; va guetar davezu ya informarate cuandu
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; va siguir intentándolo ya informaráte cuandu
                                            alcuentre anovamientos compatibles pa estos complementos.">
 
 <!ENTITY  finished.wizard.title           "Complementos compatibles instalaos">
 <!ENTITY  finished.top.label              "&brandShortName; instaló los anovamientos a los tos complementos.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; pue guetar davezu ya informate
                                            cuandu alcuentre anovamientos pa los complementos.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; va guetar periódicamente ya informarate
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; va guetar periódicamente ya informaráte
                                            cuandu alcuentre anovamientos pa los complementos.">
 
 <!ENTITY  adminDisabled.wizard.title      "Nun se puen guetar anovamientos">
