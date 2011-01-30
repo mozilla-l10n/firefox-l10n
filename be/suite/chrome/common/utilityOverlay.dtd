@@ -99,3 +99,4 @@
 <!ENTITY showPopupManager.accesskey "К">
 <!ENTITY dontShowMessage.label "Не паказваць гэтае паведамленне, калі вынырцы затрымліваюцца">
 <!ENTITY dontShowMessage.accesskey "Н">
+<!ENTITY syncToolbarButton.label "Sync">

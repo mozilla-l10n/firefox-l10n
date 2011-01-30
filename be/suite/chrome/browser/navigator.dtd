@@ -139,3 +139,4 @@
 <!ENTITY popupIcon.tooltiptext "Не затрымліваць вынырцы з гэтай сеціўнай пляцоўкі">
 <!ENTITY bidiSwitchPageDirectionItem.label "Пераключыць кірунак старонкі">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "к">
+<!ENTITY syncTabsMenu.label "Устаўкі з іншых кампутараў">

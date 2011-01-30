@@ -16,8 +16,6 @@
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Перазапусціць з забароненымі дадаткамі…">
 <!ENTITY helpSafeMode.accesskey "з">
-<!ENTITY helpReleaseNotes.label "Заўвагі пра выданне">
-<!ENTITY helpReleaseNotes.accesskey "З">
 <!ENTITY helpTroubleshootingInfo.label "Звесткі для вырашэння праблемаў">
 <!ENTITY helpTroubleshootingInfo.accesskey "З">
 <!ENTITY helpFeedbackPage.label "Падаць водгук…">
