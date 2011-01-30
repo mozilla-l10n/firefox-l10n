@@ -115,3 +115,5 @@
 <!ENTITY showPopupManager.accesskey   "G">
 <!ENTITY dontShowMessage.label        "No mostris aquest missatges quan es bloquin emergents">
 <!ENTITY dontShowMessage.accesskey    "N">
+
+<!ENTITY syncToolbarButton.label "Sync">

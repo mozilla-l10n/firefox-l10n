@@ -22,6 +22,7 @@
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificats">
 <!ENTITY validation.label "Validació">
+<!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avançat">
 <!ENTITY down.label "Baixades">
 <!ENTITY cache.label "Memòria cau">
