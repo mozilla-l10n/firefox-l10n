@@ -69,11 +69,3 @@
 
 <!ENTITY title.label "Tytuł">
 <!ENTITY processing.label "Importowanie…">
-
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x ma w każdej wizytówce tylko jeden adres e-mail, podczas gdy &brandShortName; ma dwa adresy (domowy i służbowy)">
-<!ENTITY FieldDiscInputText2.label "Wybierz kategorię, w której zostaną zachowane importowane adresy pocztowe:">
-<!ENTITY FieldDiscWarning.label "Ta kategoria zostanie użyta dla wszystkich danych wybranej książki adresowej: ">
-<!ENTITY importHome.label "Dom">
-<!ENTITY importHome.accesskey "D">
-<!ENTITY importWork.label "Praca">
-<!ENTITY importWork.accesskey "P">
