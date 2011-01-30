@@ -114,3 +114,5 @@
 <!ENTITY showPopupManager.accesskey "M">
 <!ENTITY dontShowMessage.label "Nie pokazuj tej wiadomości, kiedy wyskakujące okna są blokowane">
 <!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY syncToolbarButton.label "Synchronizuj">

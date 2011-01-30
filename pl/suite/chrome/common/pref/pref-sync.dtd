@@ -1,0 +1,48 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label "Konfiguruj usługę &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey "o">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; umożliwia dostęp do twojej historii przeglądania, zakładek, haseł i otwartych kart z poziomu każdego twojego urządzenia.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "Konto &syncBrand.fullName.label;">
+<!ENTITY currentAccount.label "Bieżące konto:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label "Aktualizuj">
+<!ENTITY updatePass.accesskey "u">
+<!ENTITY resetPass.label "Resetuj">
+<!ENTITY resetPass.accesskey "R">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label "Zarządzaj kontem">
+<!ENTITY viewQuota.label "Wyświetl limity">
+<!ENTITY viewQuota.accesskey "W">
+<!ENTITY changePassword.label "Zmień hasło">
+<!ENTITY changePassword.accesskey "m">
+<!ENTITY mySyncKey.label "Mój klucz Sync">
+<!ENTITY mySyncKey.accesskey "a">
+<!ENTITY resetSync.label "Resetuj synchronizację">
+<!ENTITY resetSync.accesskey "e">
+<!ENTITY stopUsingAccount.label "Przestań używać tego konta">
+<!ENTITY stopUsingAccount.accesskey "t">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label "Synchronizacja przeglądarki">
+<!ENTITY syncComputerName.label "Nazwa komputera:">
+<!ENTITY syncComputerName.accesskey "N">
+
+<!ENTITY syncMy.label "Synchronizuj moje:">
+<!ENTITY engine.bookmarks.label "zakładki">
+<!ENTITY engine.bookmarks.accesskey "z">
+<!ENTITY engine.tabs.label "karty">
+<!ENTITY engine.tabs.accesskey "k">
+<!ENTITY engine.history.label "historia">
+<!ENTITY engine.history.accesskey "s">
+<!ENTITY engine.passwords.label "hasła">
+<!ENTITY engine.passwords.accesskey "h">
+<!ENTITY engine.prefs.label "preferencje">
+<!ENTITY engine.prefs.accesskey "p">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label "Warunki korzystania z usługi">
+<!ENTITY prefs.ppLink.label "Polityka prywatności">

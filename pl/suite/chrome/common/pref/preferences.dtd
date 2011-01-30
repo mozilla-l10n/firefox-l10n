@@ -17,10 +17,11 @@
 <!ENTITY images.label "Obrazki">
 <!ENTITY popups.label "Wyskakujące okna">
 <!ENTITY passwords.label "Hasła">
-<!ENTITY masterpass.label "Hasła główne">
+<!ENTITY masterpass.label "Hasło główne">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certyfikaty">
 <!ENTITY validation.label "Weryfikacja">
+<!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Zaawansowane">
 <!ENTITY down.label "Pobierz">
 <!ENTITY cache.label "Pamięć podręczna">

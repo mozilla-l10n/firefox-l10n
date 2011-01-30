@@ -173,3 +173,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label "Zmień kierunek strony">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "s">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label "Karty z innych komputerów">
