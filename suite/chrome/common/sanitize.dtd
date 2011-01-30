@@ -1,4 +1,4 @@
-﻿<!ENTITY sanitizeDialog.title            "Limpar dados privados">
+<!ENTITY sanitizeDialog.title            "Limpar dados privados">
 <!ENTITY sanitizeItems.label             "Limpar agora os seguintes itens:">
 
 <!ENTITY itemHistory.label               "Histórico de navegação">

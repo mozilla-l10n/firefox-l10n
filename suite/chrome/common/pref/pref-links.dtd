@@ -1,4 +1,4 @@
-﻿<!ENTITY linksHeader.label "Comportamento da ligação">
+<!ENTITY linksHeader.label "Comportamento da ligação">
 <!ENTITY newWindow.label "Comportamento da abertura da ligação">
 <!ENTITY newWindowDescription.label "Abrir ligações que deviam abrir numa nova janela">
 <!ENTITY external.label "Ligações de outras aplicações">
