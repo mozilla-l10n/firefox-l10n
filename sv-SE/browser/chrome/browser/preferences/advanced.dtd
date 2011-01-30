@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "ä">
 <!ENTITY checkSpelling.label             "Använd automatisk stavningskontroll">
 <!ENTITY checkSpelling.accesskey         "v">
+<!ENTITY doNotTrack.label                "Be webbplatser att inte spåra mig">
+<!ENTITY doNotTrack.accesskey            "B">
 
 <!ENTITY systemDefaults.label            "Systeminställningar">
 <!ENTITY alwaysCheckDefault.label        "Kontrollera vid start om &brandShortName; är standardwebbläsare"><!--XXX-->
