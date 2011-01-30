@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey "n">
 <!ENTITY openFrameCmdInTab.label "Otwórz ramkę w nowej karcie">
 <!ENTITY openFrameCmdInTab.accesskey "k">
+<!ENTITY keywordfield.label "Utwórz słowo kluczowe dla tej wyszukiwarki…">
+<!ENTITY keywordfield.accesskey "U">
 <!ENTITY showOnlyThisFrameCmd.label "Pokaż tylko tę ramkę">
 <!ENTITY showOnlyThisFrameCmd.accesskey "r">
 <!ENTITY goBackCmd.label "Wstecz">
