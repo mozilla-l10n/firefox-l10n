@@ -16,7 +16,6 @@
 <!ENTITY changePassword.label         "Passwort ändern">
 <!ENTITY mySyncKey.label              "Mein Sync-Schlüssel">
 <!ENTITY resetSync.label              "Sync zurücksetzen">
-<!ENTITY stopUsingAccount.label       "Aufhören, diesen Account zu verwenden">
 <!ENTITY addDevice.label              "Gerät hinzufügen">
 
 <!ENTITY syncMy.label               "Synchronisieren:">
