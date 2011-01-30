@@ -19,7 +19,7 @@
 <!ENTITY  blockPopups.label           "Φραγή αναδυόμενων παραθύρων">
 <!ENTITY  blockPopups.accesskey       "Φ">
 <!ENTITY  popupExceptions.label       "Εξαιρέσεις...">
-<!ENTITY  popupExceptions.accesskey   "Ε">
+<!ENTITY  popupExceptions.accesskey   "ξ">
 
 <!ENTITY  loadImages.label            "Αυτόματη φόρτωση εικόνων">
 <!ENTITY  loadImages.accesskey        "ι">

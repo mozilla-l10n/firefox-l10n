@@ -5,9 +5,9 @@
 <!ENTITY  WPADTypeRadio.label           "Αυτόματος εντοπισμός ρυθμίσεων διαμεσολαβητή για αυτό το δίκτυο">
 <!ENTITY  WPADTypeRadio.accesskey       "υ">
 <!ENTITY  manualTypeRadio.label         "Χειροκίνητη ρύθμιση διαμεσολαβητή:">
-<!ENTITY  manualTypeRadio.accesskey     "χ">
+<!ENTITY  manualTypeRadio.accesskey     "ι">
 <!ENTITY  autoTypeRadio.label           "URL αυτόματης ρύθμισης διαμεσολαβητή:">
-<!ENTITY  autoTypeRadio.accesskey       "υ">
+<!ENTITY  autoTypeRadio.accesskey       "θ">
 <!ENTITY  reload.label                  "Ανανέωση">
 <!ENTITY  reload.accesskey              "ν">
 <!ENTITY  ftp.label                     "Διαμεσολαβητής FTP:">
@@ -42,5 +42,5 @@
 <!ENTITY  shareproxy.accesskey          "δ">
 
 <!ENTITY  systemTypeRadio.label         "Χρήση ρυθμίσεων διαμεσολαβητή συστήματος">
-<!ENTITY  systemTypeRadio.accesskey     "υ">
+<!ENTITY  systemTypeRadio.accesskey     "ω">
 

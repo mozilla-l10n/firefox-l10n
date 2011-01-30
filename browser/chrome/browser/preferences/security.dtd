@@ -26,7 +26,7 @@
 <!ENTITY  addonExceptions.accesskey     "Ε">
 
 <!ENTITY  savedPasswords.label            "Αποθηκευμένοι κωδικοί…">
-<!ENTITY  savedPasswords.accesskey        "δ">
+<!ENTITY  savedPasswords.accesskey        "θ">
 
 
 <!ENTITY  blockAttackSites.label     "Φραγή σελίδων που έχουν αναφερθεί ως κακόβουλες">
