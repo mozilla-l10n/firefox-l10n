@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "Mit &syncBrand.fullName.label; haben Sie Zugriff auf Ihre Surf-Chronik, Passwörter, Tabs und Lesezeichen auf all Ihren Geräten.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-Account">
-<!ENTITY currentAccount.label         "Aktueller Account:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Aktualisieren">
@@ -21,11 +19,6 @@
 <!ENTITY stopUsingAccount.label       "Aufhören, diesen Account zu verwenden">
 <!ENTITY addDevice.label              "Gerät hinzufügen">
 
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser-Sync">
-<!ENTITY syncComputerName.label       "Computer-Name:">
-<!ENTITY syncComputerName.accesskey   "C">
-
 <!ENTITY syncMy.label               "Synchronisieren:">
 <!ENTITY engine.bookmarks.label     "Lesezeichen">
 <!ENTITY engine.bookmarks.accesskey "l">
@@ -37,6 +30,11 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Einstellungen">
 <!ENTITY engine.prefs.accesskey     "E">
+
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Computer-Name:">
+<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY deactivateDevice.label       "Dieses Gerät deaktivieren">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Nutzungsbedingungen">
