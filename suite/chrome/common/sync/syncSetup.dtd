@@ -1,0 +1,105 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;-inställning">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "Välkommen. Har du aldrig använt &syncBrand.fullName.label; förut kommer du att behöva skapa ett nytt konto.">
+<!ENTITY button.createNewAccount.label "Skapa ett nytt konto">
+<!ENTITY button.haveAccount.label "Jag har redan ett &syncBrand.fullName.label;-konto">
+
+<!ENTITY setup.choicePage.title.label     "Har du använt &syncBrand.fullName.label; förut?">
+<!ENTITY setup.choicePage.new.label       "Jag har aldrig använt &syncBrand.shortName.label; förut">
+<!ENTITY setup.choicePage.existing.label  "Jag använder redan &syncBrand.shortName.label; på en annan dator">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Server">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-servern">
+<!ENTITY serverType.custom.label    "Använd en egen server…">
+<!ENTITY signIn.account.label       "E-postadress / Användarnamn">
+<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY signIn.password.label      "Lösenord">
+<!ENTITY signIn.password.accesskey  "L">
+<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY signIn.serverURL.accesskey "S">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Kontodetaljer">
+<!ENTITY setup.confirmPassword.label  "Bekräfta lösenord">
+<!ENTITY setup.confirmPassword.accesskey  "k">
+<!ENTITY setup.emailAddress.label     "E-postadress">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Jag godkänner">
+<!ENTITY setup.tosAgree1.accesskey  "J">
+<!ENTITY setup.tosLink.label        "tjänstevillkoren">
+<!ENTITY setup.tosAgree2.label      "och">
+<!ENTITY setup.ppLink.label         "sekretesspolicyn">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; bryr sig om din personliga integritet">
+<!ENTITY setup.newSyncKeyPage.description.label "För att skydda din personliga integritet kommer all data att krypteras innan den skickas till servern. Sync-nyckeln som du använder för att dekryptera datan kommer inte skickas.">
+<!ENTITY syncKeyEntry.label        "Din Synk-nyckel">
+<!ENTITY syncKeyEntry.accesskey    "D">
+<!ENTITY syncKeyGenerate.label     "Generera">
+<!ENTITY syncKeyGenerate.accesskey "G">
+<!ENTITY syncKeyStrength.label     "Styrka:">
+<!ENTITY syncKeyHelp.label         "Vad betyder styrkevärdet?">
+<!ENTITY syncKeyBackup.description "Din Synk-nyckel behövs för att använda &syncBrand.fullName.label; på din andra enheter. Du bör skapa en säkerhetskopia av nyckeln. Vi kan inte hjälpa dig att återskapa en borttappad Synk-nyckel.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Skriv ut…">
+<!ENTITY button.syncKeyBackup.print.accesskey "u">
+<!ENTITY button.syncKeyBackup.save.label      "Spara…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Bekräfta att du inte är en robot">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Ange kontoinformation">
+<!ENTITY resetPassword.label          "Återställ lösenordet">
+<!ENTITY connecting.label             "Kopplar upp…">
+
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Ange din Synk-nyckel">
+<!ENTITY setup.existingSyncKeyPage.description "Synk-nyckel skapades för dig, eller så angav du en egen, när du för första gången anslöt till &syncBrand.fullName.label;. Det är inte densamma som ditt lösenord.">
+<!ENTITY existingSyncKeyHelp.description "Du kan få en kopia av din Synk-nyckel genom att gå till inställningarna i &syncBrand.shortName.label; på din andra enhet och välja ”Lösenord” under ”Integritet och säkerhet”. Om du fortfarande inte kan få fram en korrekt Synk-nyckel, kan du välja att nollställa den, men då förlorar du all information som ligger på servern.">
+<!ENTITY lostSyncKey.label            "Jag har förlorat min Synk-nyckel">
+<!ENTITY verifying.label              "Verifierar…">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Synkinställningar">
+<!ENTITY syncComputerName.label       "Datorns namn:">
+<!ENTITY syncComputerName.accesskey   "D">
+
+<!ENTITY syncMy.label               "Synka">
+<!ENTITY engine.bookmarks.label     "Bokmärken">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "Flikar">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Historiken">
+<!ENTITY engine.history.accesskey   "o">
+<!ENTITY engine.passwords.label     "Lösenord">
+<!ENTITY engine.passwords.accesskey "L">
+<!ENTITY engine.prefs.label         "Inställningar">
+<!ENTITY engine.prefs.accesskey     "n">
+
+<!ENTITY choice2.merge.main.label      "Samordna datorns data med min &syncBrand.shortName.label;-data">
+<!ENTITY choice2.merge.recommended.label "(rekommenderas)">
+<!ENTITY choice2.client.main.label     "Ersätt all &brandShortName;-data på den här datorn med min &syncBrand.shortName.label;-data">
+<!ENTITY choice2.server.main.label     "Använd data från den här datorn på alla andra enheter">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Bekräfta">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; kommer nu att lägga till webbläsningsdata från den här datorn till ditt Synk-konto.">
+<!ENTITY confirm.client.label         "Varning: Följande &brandShortName;-data på den här datorn kommer att tas bort:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; kommer sedan att kopiera data från &syncBrand.fullName.label; till datorn.">
+<!ENTITY confirm.client.warning.label "Varning: Detta kommer att resultera i att alla &brandShortName;-data på den här datorn kommer att ersättas!">
+<!ENTITY confirm.server.label         "Varning: Följande enheter kommer att skrivas över med din lokala data:">
+<!ENTITY confirm.server.warning.label "Varning: Dina lokala data kommer att ersätta alla &brandShortName;-data på dessa enheter!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Inställningarna är gjorda">
+<!ENTITY changeOptions.label "Du kan ändra den här inställningen genom att välja bland nedanstående synkinställningar.">
+<!ENTITY continueUsing.label "Du kan nu fortsätta att använda &brandShortName;.">

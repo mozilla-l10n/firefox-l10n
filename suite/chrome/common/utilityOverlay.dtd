@@ -114,3 +114,5 @@
 <!ENTITY showPopupManager.accesskey   "H">
 <!ENTITY dontShowMessage.label        "Visa inte detta meddelande när extrafönster blockeras">
 <!ENTITY dontShowMessage.accesskey    "i">
+
+<!ENTITY syncToolbarButton.label "Synk">

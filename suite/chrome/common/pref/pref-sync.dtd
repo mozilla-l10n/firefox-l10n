@@ -1,0 +1,48 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Ställ in &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ger dig tillgång till din historik, dina bokmärken, lösenord och öppna flikar på alla dina enheter.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Konto">
+<!ENTITY currentAccount.label         "Aktuellt konto:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Uppdatera">
+<!ENTITY updatePass.accesskey         "U">
+<!ENTITY resetPass.label              "Återställ">
+<!ENTITY resetPass.accesskey          "s">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Hantera konto">
+<!ENTITY viewQuota.label              "Visa kvot">
+<!ENTITY viewQuota.accesskey          "V">
+<!ENTITY changePassword.label         "Byt lösenord">
+<!ENTITY changePassword.accesskey     "B">
+<!ENTITY mySyncKey.label              "Min Synk-nyckel">
+<!ENTITY mySyncKey.accesskey          "M">
+<!ENTITY resetSync.label              "Återställ Synk">
+<!ENTITY resetSync.accesskey          "e">
+<!ENTITY stopUsingAccount.label       "Sluta använda detta konto">
+<!ENTITY stopUsingAccount.accesskey   "A">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Synka Webbläsare">
+<!ENTITY syncComputerName.label       "Datorns namn:">
+<!ENTITY syncComputerName.accesskey   "N">
+
+<!ENTITY syncMy.label               "Synka mina">
+<!ENTITY engine.bookmarks.label     "Bokmärken">
+<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.tabs.label          "Flikar">
+<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.history.label       "Historiken">
+<!ENTITY engine.history.accesskey   "o">
+<!ENTITY engine.passwords.label     "Lösenord">
+<!ENTITY engine.passwords.accesskey "L">
+<!ENTITY engine.prefs.label         "Inställningar">
+<!ENTITY engine.prefs.accesskey     "n">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Tjänstevillkor">
+<!ENTITY prefs.ppLink.label         "Sekretesspolicy">
