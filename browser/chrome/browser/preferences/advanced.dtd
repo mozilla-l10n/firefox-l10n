@@ -1,5 +1,4 @@
-<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
-     in the Advanced pane are: "b", "j", "q", "z" -->
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Allgemein">
 
@@ -22,7 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "H">
 <!ENTITY checkSpelling.label             "Rechtschreibung während der Eingabe überprüfen">
 <!ENTITY checkSpelling.accesskey         "R">
-
+<!ENTITY doNotTrack.label                "Websites mitteilen, dass ich nicht verfolgt werden möchte ">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Systemeinstellungen">
 <!ENTITY alwaysCheckDefault.label        "Beim Starten überprüfen, ob &brandShortName; der Standardbrowser ist"><!--XXX-->
@@ -55,7 +55,6 @@
 <!ENTITY clearCacheNow.accesskey         "J">
 <!ENTITY overrideSmartCacheSize.label    "Automatisches Cache-Management ausschalten">
 <!ENTITY overrideSmartCacheSize.accesskey "A">
-
 
 <!ENTITY updateTab.label                 "Update">
 
