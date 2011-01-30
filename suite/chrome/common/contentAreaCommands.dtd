@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey "o">
 <!ENTITY openFrameCmdInTab.label "Obre el marc en una nova pestanya">
 <!ENTITY openFrameCmdInTab.accesskey "T">
+<!ENTITY keywordfield.label           "Afegeix una paraula clau per a la cerca…">
+<!ENTITY keywordfield.accesskey       "l">
 <!ENTITY showOnlyThisFrameCmd.label "Mostra només aquest marc">
 <!ENTITY showOnlyThisFrameCmd.accesskey "m">
 <!ENTITY goBackCmd.label "Enrere">
