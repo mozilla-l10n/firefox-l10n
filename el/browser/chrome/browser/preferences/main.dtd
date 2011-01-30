@@ -1,14 +1,14 @@
 <!ENTITY startup.label             "Εκκίνηση">
 
 <!ENTITY startupPage.label         "Στην εκκίνηση του &brandShortName;:">
-<!ENTITY startupPage.accesskey     "σ">
+<!ENTITY startupPage.accesskey     "κ">
 <!ENTITY startupHomePage.label     "Προβολή της αρχικής μου σελίδας">
 <!ENTITY startupBlankPage.label    "Προβολή μιας κενής σελίδας">
 <!ENTITY startupLastSession.label  "Προβολή των παραθύρων και καρτελών που υπήρχαν την τελευταία φορά">
 
 
 <!ENTITY useCurrentPage.label      "Χρήση τρέχουσας σελίδας">
-<!ENTITY useCurrentPage.accesskey  "ρ">
+<!ENTITY useCurrentPage.accesskey  "τ">
 <!ENTITY useMultiple.label         "Χρήση τρεχουσών σελίδων">
 <!ENTITY useBookmark.label         "Χρήση σελιδοδείκτη">
 <!ENTITY useBookmark.accesskey     "σ">
@@ -19,7 +19,7 @@
 <!ENTITY downloads.label     "Λήψεις αρχείων">
 
 <!ENTITY showWhenDownloading.label     "Προβολή του παραθύρου λήψης αρχείων στη λήψη ενός αρχείου">
-<!ENTITY showWhenDownloading.accesskey "β">
+<!ENTITY showWhenDownloading.accesskey "ψ">
 <!ENTITY closeWhenDone.label "Κλείσιμο όταν ολοκληρωθούν όλες οι λήψεις">
 <!ENTITY closeWhenDone.accesskey "λ">
 <!ENTITY saveTo.label "Αποθήκευση αρχείων σε">

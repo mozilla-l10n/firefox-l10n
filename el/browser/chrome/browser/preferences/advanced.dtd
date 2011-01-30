@@ -49,7 +49,7 @@
 <!ENTITY certs.ask.accesskey             "ρ">
 
 <!ENTITY viewCerts.label                 "Προβολή πιστοποιητικών">
-<!ENTITY viewCerts.accesskey             "β">
+<!ENTITY viewCerts.accesskey             "ο">
 
 
 <!ENTITY systemDefaults.label            "Προεπιλογές συστήματος">
@@ -73,7 +73,7 @@
 <!ENTITY useTLS1.accesskey              "1">
 <!ENTITY certificates.label             "Πιστοποιητικά">
 <!ENTITY viewCRLs.label                 "Λίστες ανάκτησης">
-<!ENTITY viewCRLs.accesskey             "τ">
+<!ENTITY viewCRLs.accesskey             "ς">
 <!ENTITY viewSecurityDevices.label      "Συσκευές ασφαλείας">
 <!ENTITY viewSecurityDevices.accesskey  "σ">
 
@@ -113,7 +113,7 @@
 <!ENTITY enableAddonsUpdate2.accesskey   "θ">
 
 <!ENTITY submitCrashes.label             "Υποβολή αναφορών κατάρρευσης">
-<!ENTITY submitCrashes.accesskey         "β">
+<!ENTITY submitCrashes.accesskey         "φ">
 
 <!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης hardware όπου είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey          "h">

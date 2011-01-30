@@ -3,7 +3,7 @@
 <!ENTITY  window.macWidth                         "49em">
 <!ENTITY  window.unixWidth                        "50em">
 <!ENTITY  language.label                          "Γραμματοσειρές για:">
-<!ENTITY  language.accesskey                      "μ">
+<!ENTITY  language.accesskey                      "ρ">
 
 
 <!ENTITY  proportional.label                      "Μεταβλητού πλάτους:">
@@ -14,7 +14,7 @@
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Σταθερού πλάτους:">
-<!ENTITY  monospace.accesskey                     "θ">
+<!ENTITY  monospace.accesskey                     "τ">
 
 
 
@@ -73,5 +73,5 @@
 <!ENTITY  size.label                              "Μέγεθος:">
 
 
-<!ENTITY  sizeProportional.accesskey              "Μ">
+<!ENTITY  sizeProportional.accesskey              "γ">
 <!ENTITY  sizeMonospace.accesskey                 "θ">
