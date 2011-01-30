@@ -3,11 +3,11 @@
 <!ENTITY pref.cache.title "Pamięć podręczna">
 <!ENTITY pref.cache.caption "Ustawienia pamięci podręcznej">
 <!ENTITY cachePara "Kopie często oglądanych stron WWW przechowywane są na dysku twardym komputera, co pozwala na skrócenie czasu koniecznego do pobrania elementów strony (naciśnięcie przycisku Odśwież w oknie przeglądarki spowoduje pobranie aktualnej wersji strony).">
-<!ENTITY cacheCheck.label "Program &brandShortName; będzie automatycznie ustalał rozmiar pamięci podręcznej.">
+<!ENTITY cacheCheck.label "Zezwól programowi &brandShortName; zarządzać wielkością pamięci podręcznej.">
 <!ENTITY cacheCheck.accesskey "r">
 <!ENTITY diskCacheUpTo.label "Używaj do">
 <!ENTITY diskCacheUpTo.accesskey "U">
-<!ENTITY spaceMbytes "MB miejsca na dysku dla pamięci podręcznej.">
+<!ENTITY spaceMbytes "MB miejsca na dysku dla pamięci podręcznej">
 <!ENTITY diskCacheFolder.label "Adres katalogu pamięci podręcznej:">
 <!ENTITY clearDiskCache.label "Wyczyść pamięć podręczną">
 <!ENTITY clearDiskCache.accesskey "d">
