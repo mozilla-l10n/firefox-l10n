@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "Při psaní kontrolovat pravopis">
 <!ENTITY checkSpelling.accesskey "k">
+<!ENTITY doNotTrack.label "Informovat servery, že nechci být sledován">
+<!ENTITY doNotTrack.accesskey "I">
 
 <!ENTITY systemDefaults.label "Nastavení systému">
 <!ENTITY alwaysCheckDefault.label "Při startu kontrolovat, zda je &brandShortName; výchozím prohlížečem"><!--XXX-->
