@@ -1,4 +1,4 @@
-﻿<!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
+<!ENTITY doNotDownloadPop3Movemail.label "Para ter espaço em disco, não transferir:">
 <!ENTITY doNotDownloadNntp.label "Para ter espaço em disco, não transferir para usar no modo desligado:">
 <!ENTITY doNotDownloadImap.label "Para ter espaço em disco, transferir mensagens do servidor e manter cópias locais para uso em modo desligado pode ser restringido por idade ou tamanho.">
 <!ENTITY allFoldersOffline.label "manter mensagens desta conta no computador">
