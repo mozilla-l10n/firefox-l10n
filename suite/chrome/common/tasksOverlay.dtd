@@ -31,3 +31,8 @@
 <!ENTITY addonsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Змяніць профіль…">
 <!ENTITY switchProfileCmd.accesskey "З">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncSetup.label "Уладкаваць Sync…">
+<!ENTITY syncSetup.accesskey "S">
+<!ENTITY syncSyncNowItem.label "Сінхранізаваць зараз ">
+<!ENTITY syncSyncNowItem.accesskey "S">

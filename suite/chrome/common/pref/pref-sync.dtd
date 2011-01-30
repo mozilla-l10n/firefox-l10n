@@ -1,0 +1,36 @@
+<!ENTITY setupButton.label "Уладкаваць &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey "У">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; дазваляе вам мець доступ да вашых гісторыі, закладак, пароляў і адкрытых уставак на ўсіх вашых збудовах.">
+<!ENTITY accountGroupboxCaption.label "Рахунак &syncBrand.fullName.label;">
+<!ENTITY currentAccount.label "Цяперашні рахунак:">
+<!ENTITY updatePass.label "Абнавіць">
+<!ENTITY updatePass.accesskey "А">
+<!ENTITY resetPass.label "Скінуць">
+<!ENTITY resetPass.accesskey "С">
+<!ENTITY manageAccount.label "Кіраваць рахункам">
+<!ENTITY viewQuota.label "Прагледзець абмежаванне">
+<!ENTITY viewQuota.accesskey "м">
+<!ENTITY changePassword.label "Змяніць пароль">
+<!ENTITY changePassword.accesskey "З">
+<!ENTITY mySyncKey.label "Мой ключ Sync">
+<!ENTITY mySyncKey.accesskey "к">
+<!ENTITY resetSync.label "Узнавіць сінхранізацыю">
+<!ENTITY resetSync.accesskey "У">
+<!ENTITY stopUsingAccount.label "Перастаць карыстацца гэтым рахункам">
+<!ENTITY stopUsingAccount.accesskey "р">
+<!ENTITY syncPrefsCaption.label "Сінхранізацыя азіральніка">
+<!ENTITY syncComputerName.label "Назва кампутара:">
+<!ENTITY syncComputerName.accesskey "к">
+<!ENTITY syncMy.label "Sync мяне">
+<!ENTITY engine.bookmarks.label "Закладкі">
+<!ENTITY engine.bookmarks.accesskey "З">
+<!ENTITY engine.tabs.label "Устаўкі">
+<!ENTITY engine.tabs.accesskey "У">
+<!ENTITY engine.history.label "Гісторыя">
+<!ENTITY engine.history.accesskey "Г">
+<!ENTITY engine.passwords.label "Паролі">
+<!ENTITY engine.passwords.accesskey "П">
+<!ENTITY engine.prefs.label "Перавагі">
+<!ENTITY engine.prefs.accesskey "в">
+<!ENTITY prefs.tosLink.label "Умовы абслугоўвання">
+<!ENTITY prefs.ppLink.label "Палітыка адасаблення">

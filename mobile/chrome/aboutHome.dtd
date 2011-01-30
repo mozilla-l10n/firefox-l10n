@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs "Устаўкі з вашых іншых кампутараў">
 <!ENTITY aboutHome.recommendedAddons2 "Дадаткі для вашага &brandShortName;">
 <!ENTITY aboutHome.giveFeedback "Падаць водгук">
+<!ENTITY aboutHome.getHelp "Даведка">
+<!ENTITY aboutHome.footerWidth "12em">
 <!ENTITY aboutHome.openAllTabs "Адкрыць усе ў устаўках">
 <!ENTITY aboutHome.noTabs "Няма адчыненых раней уставак">
 <!ENTITY aboutHome.noAddons "Няма параеных дадаткаў">
