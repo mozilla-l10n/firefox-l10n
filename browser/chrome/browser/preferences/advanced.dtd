@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontroli literumadon dum tajpado">
 <!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY doNotTrack.label                "Diri al retejoj ke mi ne volas esti spurita">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Difinitaj de la sistemo">
 <!ENTITY alwaysCheckDefault.label        "Ĉiam kontroli ĉe la eko ĉu &brandShortName; estas la ĉefa retumilo"><!--XXX-->
