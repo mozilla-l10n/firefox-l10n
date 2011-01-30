@@ -10,11 +10,11 @@
 <!ENTITY featureConfigurator.para.2 "Use this page to configure these new settings. You can always return to the Migration Assistant from the Help menu.">
 
 <!ENTITY featureConfigurator.toolbar.heading "New Message Toolbar">
-<!ENTITY featureConfigurator.toolbar.new.status "Message Buttons Toolbar">
+<!ENTITY featureConfigurator.toolbar.new "Message Buttons Toolbar">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "A clean toolbar with all your messaging buttons at your fingertips.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Keep your original Toolbar buttons">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "Keep your original Toolbar buttons">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Keep any custom toolbar buttons in addition to the new Message Buttons.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Message actions such as reply and forward have moved from the toolbar and onto the message header itself. This ties the action buttons directly to the message, which leaves more room in the toolbar for the richer search textbox, as well as add-ons.">
@@ -51,6 +51,9 @@
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
 <!ENTITY featureConfigurator.folderColumns.install "Install Extra Columns…">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
+<!ENTITY featureConfigurator.autoSync.heading "Disc space">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
 <!ENTITY featureConfigurator.autoSync.para "This new version of &brandShortName; comes with a new and better search functionality.  To experience this new search you'll need to synchronise your email messages.">
