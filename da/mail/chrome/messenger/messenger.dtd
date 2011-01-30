@@ -73,8 +73,6 @@
 <!ENTITY deleteMsgCmd.accesskey "S">
 <!ENTITY undeleteMsgCmd.label "Gendan meddelelsen">
 <!ENTITY undeleteMsgCmd.accesskey "G">
-<!ENTITY cancelNewsMsgCmd.label "Annuller meddelelsen">
-<!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY deleteMsgsCmd.label "Slet de valgte meddelelser">
 <!ENTITY deleteMsgsCmd.accesskey "S">
 <!ENTITY undeleteMsgsCmd.label "Fortryd sletning af valgte meddelelser">
@@ -328,11 +326,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Arkiver">
 <!ENTITY archiveMsgCmd.accesskey "k">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Annuller meddelelsen">
+<!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.label "Svar">
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Svar kun afsenderen">
-<!ENTITY replySenderCmd.accesskey "a">
+<!ENTITY replySenderCmd.accesskey "S">
 <!ENTITY replyNewsgroupCmd.label "Svar nyhedsgruppen">
 <!ENTITY replyNewsgroupCmd.accesskey "n">
 <!ENTITY replyToAllMsgCmd.label "Svar alle">
@@ -396,6 +396,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Som læst">
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "marker som ulæst">
+<!ENTITY markAsUnreadCmd.accesskey "u">
+<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Tråden som læst">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
