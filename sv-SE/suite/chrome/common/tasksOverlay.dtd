@@ -45,3 +45,12 @@
 
 <!ENTITY switchProfileCmd.label "Byt användarprofil…">
 <!ENTITY switchProfileCmd.accesskey "y">
+
+<!ENTITY syncBrand.shortName.label "Synk">
+<!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
+     Only one of these will show at a time (based on setup state),
+     so reusing accesskey is ok. -->
+<!ENTITY syncSetup.label           "Ställ in synkning…">
+<!ENTITY syncSetup.accesskey       "S">
+<!ENTITY syncSyncNowItem.label     "Synka nu">
+<!ENTITY syncSyncNowItem.accesskey "S">
