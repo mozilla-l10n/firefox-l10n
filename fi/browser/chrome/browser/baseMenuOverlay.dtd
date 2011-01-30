@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Käynnistä uudelleen lisäosat pois päältä…">
 <!ENTITY helpSafeMode.accesskey   "K">
 
-<!ENTITY helpReleaseNotes.label          "Julkaisutiedot">
-<!ENTITY helpReleaseNotes.accesskey      "J">
-
 <!ENTITY helpTroubleshootingInfo.label      "Tietoja ongelmatilanteisiin">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 

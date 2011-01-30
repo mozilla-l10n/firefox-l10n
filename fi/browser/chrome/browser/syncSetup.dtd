@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Tervetuloa! Jos et ole aikaisemmin käyttänyt &syncBrand.fullName.label; -palvelua aikaisemmin, sinun tarvitsee luoda uusi tili.">
+<!ENTITY setup.pickSetupType.description "Tervetuloa! Jos et ole aikaisemmin käyttänyt &syncBrand.fullName.label; -palvelua, sinun tarvitsee luoda uusi tili.">
 <!ENTITY button.createNewAccount.label "Luo uusi tili">
 <!ENTITY setup.haveAccount.label "Minulla on jo &syncBrand.fullName.label; -tili.">
 <!ENTITY button.connect.label    "Yhdistä">
@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Voit tarkistaa synkronointiavaimesi avaamalla &syncBrand.shortName.label;in asetukset toisella laitteellasi ja valitsemalla &#x0022;Hallinnoi tiliä&#x0022; ja &#x0022;Synkronointiavaimeni&#x0022;.">
 <!ENTITY verifying.label              "Todennetaan…">
 <!ENTITY resetPassword.label          "Tyhjennä salasana">
-<!ENTITY lostSyncKey.label            "Synkronointiavaimeni on hukkunut">
+<!ENTITY resetSyncKey.label           "Toinen synkronoitava laitteeni on kadonnut.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Synkronointiasetukset">

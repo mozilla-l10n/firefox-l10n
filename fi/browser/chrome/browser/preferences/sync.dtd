@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label;in avulla sivuhistoriasi, kirjanmerkkisi, salasanasi ja avoimet välilehtesi ovat saatavilla kaikissa laitteissasi.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; -tili">
-<!ENTITY currentAccount.label         "Tili:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Päivitä">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "Vaihda salasana">
 <!ENTITY mySyncKey.label              "Synkronointiavaimesi">
 <!ENTITY resetSync.label              "Aloita synkronointi alusta">
-<!ENTITY stopUsingAccount.label       "Lopeta tämän tilin käyttäminen">
 <!ENTITY addDevice.label              "Liitä laite">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Selaimen synkronointi">
-<!ENTITY syncComputerName.label       "Laitteen nimi:">
-<!ENTITY syncComputerName.accesskey   "L">
 
 <!ENTITY syncMy.label               "Synkronoi">
 <!ENTITY engine.bookmarks.label     "Kirjanmerkit">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label         "Asetukset">
 <!ENTITY engine.prefs.accesskey     "e">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Laitteen nimi:">
+<!ENTITY syncComputerName.accesskey   "L">
+<!ENTITY deactivateDevice.label       "Irrota laite palvelusta">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Käyttöehdot">
