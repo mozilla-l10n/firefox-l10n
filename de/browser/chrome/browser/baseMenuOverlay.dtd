@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Mit deaktivierten Add-ons neu starten…">
 <!ENTITY helpSafeMode.accesskey   "A">
 
-<!ENTITY helpReleaseNotes.label         "Versionshinweise">
-<!ENTITY helpReleaseNotes.accesskey     "V">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informationen zur Fehlerbehebung">
 <!ENTITY helpTroubleshootingInfo.accesskey  "z">
 
