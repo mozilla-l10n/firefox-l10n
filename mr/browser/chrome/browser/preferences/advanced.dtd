@@ -107,3 +107,7 @@
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY enableAddonsUpdate2.label       "ॲडऑन्स्">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
+
+<!ENTITY doNotTrack.label                "संकेत स्थळांनी मला ट्रॅक करायचे नाही">
+<!ENTITY doNotTrack.accesskey            "d">
+
