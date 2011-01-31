@@ -1,4 +1,4 @@
-<!ENTITY cookieExceptions.accesskey "x">
+<!ENTITY cookieExceptions.accesskey "E">
 
 <!ENTITY  acceptCookies.label           "स्थळांकडून कुकीज स्विकारा">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -9,17 +9,17 @@
 <!ENTITY  showCookies.label             "कुकीज दर्शवा...">
 <!ENTITY  keepUntil.label               "तोपर्यंत ठेवा जोपर्यंत:">
 <!ENTITY  close.label                   "मी &brandShortName; बंद करतो">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  expire.label                  "ते कालबाह्य होतात">
 <!ENTITY  showCookies.accesskey         "S">
 
 
 <!ENTITY  acceptThirdParty.label        "तिसरे-पक्ष कुकीज स्वीकारा">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
 <!ENTITY  locbar.pre.label              "स्थान पट्टी वापरतेवेळी, सूचवा:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "इतिहास व ओळखचिन्ह">
 <!ENTITY  locbar.history.label          "इतिहास">
@@ -28,7 +28,7 @@
 
 <!ENTITY  locationBar.label             "ठिकाण पट्टी">
 <!ENTITY  historyHeader.pre.label          "&brandShortName; असे करेल:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "इतिहास लक्षात ठेवेल">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कधिच लक्षात ठेवणार नाही">
 <!ENTITY  historyHeader.custom.label       "इतिहास करीता स्वपसंत संयोजना वापरा">
@@ -48,7 +48,7 @@
 <!ENTITY  rememberSearchForm.label       "शोध व फॉर्म इतिहास लक्षात ठेवा">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 <!ENTITY  clearOnClose.label             "&brandShortName; बंद झाल्यावर इतिहास पूसा">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.accesskey         "r">
 <!ENTITY  clearOnCloseSettings.label     "संयोजना…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 <!ENTITY  privateBrowsingPermanent.label "कायमचे व्यक्तिगत ब्राउजिंग मोड">

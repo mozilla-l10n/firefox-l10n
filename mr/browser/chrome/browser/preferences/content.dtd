@@ -1,15 +1,15 @@
 <!ENTITY enableJavaScript.label "जावास्क्रिप्ट कार्यान्वीत करा">
-<!ENTITY enableJavaScript.accesskey "S">
+<!ENTITY enableJavaScript.accesskey "J">
 <!ENTITY advancedJS.label "प्रगत">
 <!ENTITY advancedJS.accesskey "v">
 <!ENTITY exceptions.label "अपवाद">
-<!ENTITY exceptions.accesskey "E">
+<!ENTITY exceptions.accesskey "x">
 <!ENTITY advancedFonts.label "प्रगत...">
-<!ENTITY advancedFonts.accesskey "d">
+<!ENTITY advancedFonts.accesskey "A">
 <!ENTITY colors.label "रंग">
 <!ENTITY colors.accesskey "C">
 <!ENTITY defaultFont.label "मुलभूत फॉंटः">
-<!ENTITY defaultFont.accesskey "F">
+<!ENTITY defaultFont.accesskey "D">
 <!ENTITY  loadImages.accesskey        "I">
 <!ENTITY  enableJava.accesskey        "n">
 <!ENTITY  blockPopups.label           "पॉपअप विंडो अडवा">
@@ -18,7 +18,7 @@
 <!ENTITY  loadImages.label            "चित्र आपोआप दाखल करा">
 <!ENTITY  popupExceptions.accesskey   "E">
 <!ENTITY  popupExceptions.label       "अपवाद...">
-<!ENTITY  defaultSize.accesskey                   "i">
+<!ENTITY  defaultSize.accesskey                   "S">
 <!ENTITY  fontsAndColors.label        "फॉन्ट &amp; रंग">
 <!ENTITY  defaultSize.label                       "आकार:">
 

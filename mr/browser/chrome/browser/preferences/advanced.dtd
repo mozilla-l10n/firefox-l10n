@@ -14,7 +14,7 @@
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
 
-<!ENTITY enableSearchUpdate.label "शोधयंत्र">
+<!ENTITY 	enableSearchUpdate.label "शोधयंत्र">
 <!ENTITY enableSearchUpdate.accesskey "h">
 
 
