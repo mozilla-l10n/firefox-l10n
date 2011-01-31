@@ -22,7 +22,9 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "ਜਿਵੇਂ ਮੈਂ ਲਿਖਾਂ ਤਦੇ ਹੀ ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
 <!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY doNotTrack.label                "ਵੈੱਬਸਾਈਟ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ">
 
+<!ENTITY doNotTrack.accesskey            "d">
 <!ENTITY systemDefaults.label            "ਸਿਸਟਮ ਡਿਫਾਲਟ">
 <!ENTITY alwaysCheckDefault.label        "ਸਟਾਰਟ ਕਰਨ ਸਮੇਂ ਹਮੇਸ਼ਾਂ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ  &brandShortName; ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਹੈ">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
