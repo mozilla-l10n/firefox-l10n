@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs                   "Karty z vašich ostatných počítačov">
 <!ENTITY aboutHome.recommendedAddons2           "Doplnky pre váš &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Váš názor">
+<!ENTITY aboutHome.getHelp                      "Pomoc a podpora">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Otvoriť všetko na kartách">
 <!ENTITY aboutHome.noTabs                       "Žiadne karty z posledného spustenia">
 <!ENTITY aboutHome.noAddons                     "Žiadne odporúčané doplnky">

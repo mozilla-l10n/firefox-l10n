@@ -13,15 +13,12 @@
 <!ENTITY aboutProduct.label       "O prehliadači &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "O">
 <!ENTITY productHelp.label        "Pomocník prehliadača &brandShortName;">
-<!ENTITY productHelp.accesskey    "m">
+<!ENTITY productHelp.accesskey    "P">
 <!ENTITY helpForIEUsers.label     "Pre používateľov Internet Explorera">
 <!ENTITY helpForIEUsers.accesskey "E">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Reštartovať a zakázať doplnky…">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-<!ENTITY helpReleaseNotes.accesskey     "P">
-<!ENTITY helpReleaseNotes.label         "Poznámky k vydaniu">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informácie pre riešenie problémov">
 <!ENTITY helpTroubleshootingInfo.accesskey  "n">
