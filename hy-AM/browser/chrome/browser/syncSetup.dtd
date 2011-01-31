@@ -44,7 +44,7 @@
 <!ENTITY setup.pickSetupType.description "Եթե դուք նախկինում չեք օգտագործել &syncBrand.fullName.label; ապա դուք պետք է ստեղծեք նոր հաշիվ:">
 <!ENTITY button.createNewAccount.label "Ստեղծել նոր հաշիվ">
 <!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
-<!ENTITY button.connect.label    "Connect">
+<!ENTITY button.connect.label    "Միանալ">
 
 <!ENTITY setup.choicePage.title.label     "Դուք նախկինում օգտագործե՞լ եք &syncBrand.fullName.label;">
 <!ENTITY setup.choicePage.new.label       "Ես նախկինում երբեք չեմ օգտագործել &syncBrand.shortName.label;">
@@ -93,11 +93,11 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Խնդրեմ հաստատեք որ դուք Ռոբոտ չեք">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Add a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
+<!ENTITY addDevice.title.label              "Ավելացրեք սարք">
+<!ENTITY addDevice.showMeHow.label          "Ցույց տվեք, թե ինչպես:">
+<!ENTITY addDevice.dontHaveDevice.label     "Սարքը ինձ հետ չի">
 <!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
+<!ENTITY addDevice.setup.enterCode.label    "Այնուհետև մուտքագրեք հետևյալ ծածկագիրը">
 <!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">

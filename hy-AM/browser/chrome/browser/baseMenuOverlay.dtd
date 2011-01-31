@@ -59,9 +59,6 @@
 <!ENTITY helpSafeMode.label       "Վերագործարկել հավելումներն անջատված…">
 <!ENTITY helpSafeMode.accesskey   "Վ">
 
-<!ENTITY helpReleaseNotes.label         "Թողարկման Նշումներ">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 <!ENTITY helpTroubleshootingInfo.label      "Դիագնոստիկական տեղեկություն">
 <!ENTITY helpTroubleshootingInfo.accesskey  "Դ">
 
