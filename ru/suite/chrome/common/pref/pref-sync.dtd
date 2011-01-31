@@ -6,18 +6,18 @@
 <!ENTITY updatePass.label "Обновить">
 <!ENTITY updatePass.accesskey "б">
 <!ENTITY resetPass.label "Сбросить">
-<!ENTITY resetPass.accesskey "б">
+<!ENTITY resetPass.accesskey "р">
 <!ENTITY manageAccount.label "Управление учётной записью">
 <!ENTITY viewQuota.label "Просмотреть квоту">
-<!ENTITY viewQuota.accesskey "т">
+<!ENTITY viewQuota.accesskey "м">
 <!ENTITY changePassword.label "Сменить пароль">
-<!ENTITY changePassword.accesskey "м">
-<!ENTITY mySyncKey.label "Мой ключ синхронизации">
-<!ENTITY mySyncKey.accesskey "о">
-<!ENTITY resetSync.label "Заменить или объединить данные Sync">
-<!ENTITY resetSync.accesskey "м">
+<!ENTITY changePassword.accesskey "е">
+<!ENTITY mySyncKey.label "Мой ключ Sync">
+<!ENTITY mySyncKey.accesskey "й">
+<!ENTITY resetSync.label "Перенастроить Sync">
+<!ENTITY resetSync.accesskey "н">
 <!ENTITY stopUsingAccount.label "Перестать использовать эту учётную запись">
-<!ENTITY stopUsingAccount.accesskey "с">
+<!ENTITY stopUsingAccount.accesskey "а">
 <!ENTITY syncPrefsCaption.label "Синхронизация браузера">
 <!ENTITY syncComputerName.label "Имя компьютера:">
 <!ENTITY syncComputerName.accesskey "я">
@@ -25,11 +25,11 @@
 <!ENTITY engine.bookmarks.label "Закладки">
 <!ENTITY engine.bookmarks.accesskey "к">
 <!ENTITY engine.tabs.label "Вкладки">
-<!ENTITY engine.tabs.accesskey "л">
+<!ENTITY engine.tabs.accesskey "д">
 <!ENTITY engine.history.label "Историю">
 <!ENTITY engine.history.accesskey "т">
 <!ENTITY engine.passwords.label "Пароли">
-<!ENTITY engine.passwords.accesskey "р">
+<!ENTITY engine.passwords.accesskey "л">
 <!ENTITY engine.prefs.label "Настройки">
 <!ENTITY engine.prefs.accesskey "о">
 <!ENTITY prefs.tosLink.label "Условия службы">
