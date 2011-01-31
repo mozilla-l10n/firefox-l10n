@@ -24,15 +24,13 @@
 <!--
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.commandkey "VK_HELP">
--->
-<!-- LOCALIZATION NOTE   and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
 
+LOCALIZATION NOTE   and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales)
 <!ENTITY helpReleaseNotes.label "टिप">
 <!ENTITY helpReleaseNotes.accesskey "N">
-<!--
-<!ENTITY updateCmd.label "अद्ययावताकरता तपासा...">
+<!ENTITY updateCmd.label "सुधारणाकरीता तपासा...">
 <!ENTITY updateCmd.accesskey "o">
 -->
 
