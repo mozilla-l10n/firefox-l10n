@@ -60,6 +60,8 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Տեքստ մուտքագրելու ընթացքում ստուգիր ուղղագրությունը">
 <!ENTITY checkSpelling.accesskey         "Տ">
+<!ENTITY doNotTrack.label                "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Սկզբնական Վիճակ">
 <!ENTITY alwaysCheckDefault.label        "Միանալուց միշտ ստուգիր, աևդյոք &brandShortName; -ը հիմնական բռաուզեր է:"><!--XXX-->
