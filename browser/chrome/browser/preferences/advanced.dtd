@@ -120,3 +120,7 @@
 <!ENTITY allowHWAccel.label              "ಲಭ್ಯವಿದ್ದಾಗ ಯಂತ್ರಾಂಶ ವೇಗವರ್ಧನೆಯನ್ನು ಬಳಸು">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY enableAddonsUpdate2.label       "ಆಡ್-ಆನ್‌ಗಳು">
+
+<!ENTITY doNotTrack.label                "ನನ್ನ ಜಾಡನ್ನು ಇರಿಸಬೇಡಿ ಎಂದು ಜಾಲ ತಾಣಗಳಿಗೆ ತಿಳಿಸಿ">
+<!ENTITY doNotTrack.accesskey            "d">
+
