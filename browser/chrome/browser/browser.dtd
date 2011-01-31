@@ -278,7 +278,7 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "Bearbeiten">
 <!ENTITY appMenuCustomize.label "Anpassen">
-<!ENTITY appMenuToolbarLayout.label "Symbolleisten-Layout…">
+<!ENTITY appMenuToolbarLayout.label "Symbolleisten anpassen…">
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Suchen…">
 <!ENTITY appMenuUnsorted.label "Unsortierte Lesezeichen">

@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
 <!ENTITY tabs.otherComputers.label               "Tabs von anderen Computern">
 
-<!ENTITY tabs.searchText.label                   "Hier suchen, um Tabs zu finden…">
+<!ENTITY tabs.searchText.label                   "Hier nach Tabs suchen…">
 
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->

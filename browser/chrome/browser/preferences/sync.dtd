@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; einrichten">
 <!ENTITY setupButton.accesskey      "e">
-<!ENTITY weaveDesc.label            "Mit &syncBrand.fullName.label; haben Sie Zugriff auf Ihre Surf-Chronik, Passwörter, Tabs und Lesezeichen auf all Ihren Geräten.">
+<!ENTITY weaveDesc.label            "Mit &syncBrand.fullName.label; haben Sie auf all Ihren Geräten Zugriff auf Ihre Surf-Chronik, Passwörter, Tabs und Lesezeichen.">
 
 <!-- The page shown when logged in... -->
 
