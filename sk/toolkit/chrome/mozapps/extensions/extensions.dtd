@@ -29,7 +29,7 @@
 <!ENTITY view.locales.label                   "Jazyky">
 <!ENTITY view.searchengines.label             "Vyhľadávacie moduly">
 <!ENTITY view.features.label                  "Rozšírenia">
-<!ENTITY view.appearance2.label               "Vzhľad">
+<!ENTITY view.appearance2.label               "Témy vzhľadu">
 <!ENTITY view.plugins.label                   "Zásuvné moduly">
 <!ENTITY view.recentUpdates.label             "Nedávno aktualizované">
 <!ENTITY view.availableUpdates.label          "Dostupné aktualizácie">

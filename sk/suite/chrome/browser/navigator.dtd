@@ -173,3 +173,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Prepnúť smer textu stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "x">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label         "Karty z ďalších počítačov">

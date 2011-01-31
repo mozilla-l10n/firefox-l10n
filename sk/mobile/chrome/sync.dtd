@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "Adresa servera">
 <!ENTITY sync.setup.connect         "Pripojiť">
 <!ENTITY sync.setup.cancel          "Zrusiť">
+<!ENTITY sync.setup.tutorial        "Ako na to">
