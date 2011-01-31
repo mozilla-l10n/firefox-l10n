@@ -62,13 +62,13 @@
 <!ENTITY addDevice.dialog.description.label "Chun do ghléas nua a ghníomhachtú, téigh go Roghanna &syncBrand.shortName.label; ar an ngléas agus roghnaigh &#x0022;Ceangail.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label "Cuir isteach an cód a thug an gléas duit:">
 <!ENTITY addDevice.dialog.tryAgain.label "Bain triail as arís.">
-<!ENTITY addDevice.dialog.successful.label "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
+<!ENTITY addDevice.dialog.successful.label "D'éirigh le cur leis an ghléis. D'fhéadfadh an chéadshioncronú leanúint ar feadh cúpla nóiméad agus críochnóidh sé sa chúlra.">
 <!ENTITY addDevice.dialog.syncKey.label "Chun do ghléas a ghníomhachtú, caithfidh tú d'Eochair Sync a chur isteach. Priontáil nó sábháil an eochair seo agus beir leat é.">
 <!ENTITY addDevice.dialog.connected.label "Gléas Ceangailte">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Sínigh Isteach">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingSyncKey.description "Is féidir leat cóip de d'Eochair Shioncronaithe a fháil trí dul go dtí &syncBrand.shortName.label; Roghanna ar do ghléas eile, agus &#x0022;M'Eochair Shioncronaithe&#x0022; a roghnú faoi &#x0022;Bainistiú Cuntais&#x0022;.">
 <!ENTITY verifying.label "Á Dheimhniú…">
 <!ENTITY resetPassword.label "Athshocraigh Focal Faire">
 <!ENTITY resetSyncKey.label "Chaill mé mo ghléas eile.">

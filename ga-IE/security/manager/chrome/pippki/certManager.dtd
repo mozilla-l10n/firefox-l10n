@@ -115,8 +115,8 @@
 <!ENTITY certmgr.export.accesskey "s">
 <!ENTITY certmgr.delete2.label "Scrios…">
 <!ENTITY certmgr.delete2.accesskey "S">
-<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey "D">
+<!ENTITY certmgr.delete_builtin.label "Scrios nó bí mímhuiníneach as…">
+<!ENTITY certmgr.delete_builtin.accesskey "S">
 <!ENTITY certmgr.backup2.label "Cúltaca…">
 <!ENTITY certmgr.backup2.accesskey "C">
 <!ENTITY certmgr.backupall2.label "Cúltaca de gach rud…">
