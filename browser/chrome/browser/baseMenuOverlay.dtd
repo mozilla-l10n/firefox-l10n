@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label "Atosaigh gan aon bhreiseáin…">
 <!ENTITY helpSafeMode.accesskey "A">
 
-<!ENTITY helpReleaseNotes.label "Nótaí Eisiúna">
-<!ENTITY helpReleaseNotes.accesskey "N">
-
 <!ENTITY helpTroubleshootingInfo.label "Fabhtcheartú">
 <!ENTITY helpTroubleshootingInfo.accesskey "t">
 

@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs "Cluaisíní ó do ríomhairí eile">
 <!ENTITY aboutHome.recommendedAddons2 "Breiseáin le haghaidh &brandShortName;">
 <!ENTITY aboutHome.giveFeedback "Seol Aiseolas">
+<!ENTITY aboutHome.getHelp "Cabhair">
+<!ENTITY aboutHome.footerWidth "12em">
 <!ENTITY aboutHome.openAllTabs "Oscail gach rud i gcluaisíní">
 <!ENTITY aboutHome.noTabs "Níl aon chluaisíní ann ón uair roimhe seo">
 <!ENTITY aboutHome.noAddons "Gan breiseáin mholta">
