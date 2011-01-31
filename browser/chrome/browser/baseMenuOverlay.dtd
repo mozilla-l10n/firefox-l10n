@@ -20,8 +20,6 @@
 <!ENTITY helpSafeMode.label "راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…">
 <!ENTITY helpSafeMode.accesskey "م">
 
-<!ENTITY helpReleaseNotes.label         "یادداشت‌های انتشار">
-<!ENTITY helpReleaseNotes.accesskey     "ی">
 <!ENTITY helpTroubleshootingInfo.label "اطلاعات رفع اشکال">
 <!ENTITY helpTroubleshootingInfo.accesskey "ش">
 <!ENTITY helpFeedbackPage.label "ارسال نظر…">
