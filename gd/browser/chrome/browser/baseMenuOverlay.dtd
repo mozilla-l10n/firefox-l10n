@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Ath-thòiseach leis na tuilleadan air an cur à comas…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
-<!ENTITY helpReleaseNotes.label         "Nòtaichean sgaoilidh">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 <!ENTITY helpTroubleshootingInfo.label      "Taic le duilgheadasan">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
