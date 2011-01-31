@@ -72,7 +72,7 @@
 
 <!ENTITY verifying.label              "Überprüfen…">
 <!ENTITY resetPassword.label          "Passwort zurücksetzen">
-<!ENTITY lostSyncKey.label            "Ich habe meinen Sync-Schlüssel verloren">
+<!ENTITY resetSyncKey.label           "Ich habe mein anderes Gerät verloren.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync-Einstellungen">
