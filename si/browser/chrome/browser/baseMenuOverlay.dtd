@@ -12,9 +12,6 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Internet Explorer පරිශීලකයන් සඳහා">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY helpReleaseNotes.label         "නිකුතු සටහන්">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 <!ENTITY preferencesCmdMac.label        "මනාපයන්...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

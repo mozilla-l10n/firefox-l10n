@@ -17,6 +17,8 @@
 <!ENTITY useSmoothScrolling.label        "සුමට ස්ක්‍රෝල් වීම භාවිතා කරන්න">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY checkSpelling.label             "මා යතුරු ලියන අතර අක්ෂර වින්‍යාසය පිරික්සන්න">
+<!ENTITY doNotTrack.label                "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey            "d">
 <!ENTITY checkSpelling.accesskey         "t">
 <!ENTITY offlineNotify.label             "වෙබ් අඩවියක් නොබැඳි භාවිතය සඳහා දත්ත ගබඩා කිරීමට විමසන විට මට දන්වන්න">
 <!ENTITY offlineNotify.accesskey         "T">
