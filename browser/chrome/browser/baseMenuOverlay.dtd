@@ -26,9 +26,6 @@
 <!ENTITY helpFeedbackPage.label      "Nosūtīt atsauksmi…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpReleaseNotes.label "Laidiena piezīmes">
-<!ENTITY helpReleaseNotes.accesskey "N">
-
 <!ENTITY preferencesCmdMac.label "Iestatījumi…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
