@@ -24,7 +24,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "z">
 
 <!ENTITY helpFeedbackPage.label      "Feedback senden…">
-<!ENTITY helpFeedbackPage.accesskey  "R">
+<!ENTITY helpFeedbackPage.accesskey  "s">
 
 <!ENTITY preferencesCmdMac.label        "Einstellungen…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
