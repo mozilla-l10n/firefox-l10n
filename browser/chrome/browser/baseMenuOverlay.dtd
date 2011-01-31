@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Redémarrer avec les modules désactivés…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "Notes de version">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 <!ENTITY helpTroubleshootingInfo.label     "Informations de dépannage">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 
