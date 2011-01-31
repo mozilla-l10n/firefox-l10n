@@ -1,87 +1,46 @@
-<!ENTITY alwaysCheckDefault.accesskey    "h">
-<!ENTITY alwaysCheckDefault.label        "Kontrollo përherë gjatë nisjes për të parë në është &brandShortName;-i shfletuesi parazgjedhje"><!--XXX-->
-<!ENTITY blockAutoRefresh.accesskey      "S">
-<!ENTITY blockAutoRefresh.label          "Sinjalizomë kur &quot;site&quot;-e web përpiqen të ridrejtojnë apo ringarkojnë faqen">
-<!ENTITY checkNow.accesskey              "T">
-<!ENTITY checkNow.label                  "Kontrollo Tani">
-<!ENTITY clearCacheNow.accesskey         "T">        
-<!ENTITY clearCacheNow.label             "Pastroje Tani">
-<!ENTITY overrideSmartCacheSize.label    "Anashkalo administrimin e vetvetishëm të fshehtinës">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
-<!ENTITY systemDefaults.label            "Parazgjedhje Sistemi">
-<!ENTITY verify2.accesskey               "V">
-<!ENTITY verify2.label                   "Vleftësim">
-
-<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
-     in the Advanced pane are: "b", "i", "j", "q", "z" -->
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Të përgjithshme">
+
 <!ENTITY accessibility.label             "Hyrshmëri">
+
 <!ENTITY useCursorNavigation.label       "Përdor përherë taste kursori për lundrim brenda faqesh">
 <!ENTITY useCursorNavigation.accesskey   "P">
 <!ENTITY searchStartTyping.label         "Kërko për tekst kur filloj të shtyp">
 <!ENTITY searchStartTyping.accesskey     "K">
+<!ENTITY blockAutoRefresh.label          "Sinjalizomë kur &quot;site&quot;-e web përpiqen të ridrejtojnë apo ringarkojnë faqen">
+<!ENTITY blockAutoRefresh.accesskey      "S">
+
 <!ENTITY browsing.label                  "Shfletim">
+
 <!ENTITY useAutoScroll.label             "Përdor vetërrëshqitje">
 <!ENTITY useAutoScroll.accesskey         "v">
 <!ENTITY useSmoothScrolling.label        "Përdor rrëshqitje të butë">
 <!ENTITY useSmoothScrolling.accesskey    "q">
 <!ENTITY allowHWAccel.label              "Kur mundet, përdor përshpejtim hardware">
 <!ENTITY allowHWAccel.accesskey          "d">
+<!ENTITY checkSpelling.label             "Kontrollomë drejtshkrimin ndërkohë që shkruaj">
+<!ENTITY checkSpelling.accesskey         "o">
+<!ENTITY doNotTrack.label                "Thuaju &quot;site&quot;-eve web që nuk dua të më gjurmojnë">
+<!ENTITY doNotTrack.accesskey            "u">
+
+<!ENTITY systemDefaults.label            "Parazgjedhje Sistemi">
+<!ENTITY alwaysCheckDefault.label        "Kontrollo përherë gjatë nisjes për të parë në është &brandShortName;-i shfletuesi parazgjedhje"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "h">
+<!ENTITY checkNow.label                  "Kontrollo Tani">
+<!ENTITY checkNow.accesskey              "T">
+<!ENTITY submitCrashes.label             "Parashtro njoftime vithisjesh">
+<!ENTITY submitCrashes.accesskey         "a">
+
 <!ENTITY networkTab.label                "Rrjet">
+
 <!ENTITY connection.label                "Lidhje">
+
 <!ENTITY connectionDesc.label            "Formësoni mënyrën se si &brandShortName;-i lidhet në Internet">
 <!ENTITY connectionSettings.label        "Rregullime…">
 <!ENTITY connectionSettings.accesskey    "R">
-<!ENTITY updateTab.label                 "Përditësim">
-<!ENTITY autoCheck.label                 "Kontrollo vetvetiu për përditësime për:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;-in">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableSearchUpdate.label        "Motorë Kërkimi">
-<!ENTITY enableSearchUpdate.accesskey    "M">
-<!ENTITY whenUpdatesFound.label          "Kur gjenden përditësime të &brandShortName;-it:">
-<!ENTITY askMe.label                     "Pyetmë se çfarë dua të bëj">
-<!ENTITY askMe.accesskey                 "P">
-<!ENTITY modeAutomatic.label             "Shkarko dhe instalo përditësimet vetvetiu">
-<!ENTITY modeAutomatic.accesskey         "k">
-<!ENTITY updateHistory.label             "Shfaq Historik Përditësimesh">
-<!ENTITY updateHistory.accesskey         "H">
-<!ENTITY encryptionTab.label             "Kodim">
-<!ENTITY protocols.label                 "Protokolle">
-<!ENTITY useSSL3.label                   "Përdor SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Përdor TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Dëshmi">
-<!ENTITY certs.auto                      "Përzgjidh një vetvetiu">
-<!ENTITY certs.auto.accesskey            "z">
-<!ENTITY certs.ask                       "Pyetmë përherë">
-<!ENTITY certs.ask.accesskey             "y">
-<!ENTITY viewCerts.label                 "Shihni Dëshmitë">
-<!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewCRLs.label                  "Lista Shfuqizimesh">
-<!ENTITY viewCRLs.accesskey              "L">
-<!ENTITY viewSecurityDevices.label       "Pajisje Sigurie">
-<!ENTITY viewSecurityDevices.accesskey   "P">
-<!ENTITY checkSpelling.label             "Kontrollomë drejtshkrimin ndërkohë që shkruaj">
-<!ENTITY checkSpelling.accesskey         "o">
-<!ENTITY enableAddonsUpdate2.label       "Shtojca">
-<!ENTITY enableAddonsUpdate2.accesskey   "S">
-<!ENTITY modeAutoAddonWarn.label         "Sinjalizomë nëse kështu do të çaktivizohej ndonjë nga shtesat e mia">
-<!ENTITY modeAutoAddonWarn.accesskey     "Z">
-<!ENTITY certSelection.description       "Kur një shërbyes kërkon dëshminë time vetjake:">
-<!ENTITY offlineAppRemove.confirm        "Hiqi të dhënat &quot;offline&quot;">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsList.label           "&quot;Site&quot;-et web vijues kanë të dhëna të instaluara për përdorim &quot;offline&quot;:">
-<!ENTITY offlineAppsListRemove.accesskey "H">
-<!ENTITY offlineAppsListRemove.label     "Hiqeni…">
+
 <!ENTITY offlineStorage.label            "Depozitim &quot;Offline&quot;">
-<!ENTITY offlineNotify.label             "Bëma të ditur kur një &apos;site&apos; web kërkon të depozitojë të dhëna për përdorim &apos;offline&apos;">
-<!ENTITY offlineNotify.accesskey         "B">
-<!ENTITY offlineNotifyExceptions.label   "Përjashtime…">
-<!ENTITY offlineNotifyExceptions.accesskey "p">
-<!ENTITY submitCrashes.label             "Parashtro njoftime vithisjesh">
-<!ENTITY submitCrashes.accesskey         "a">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -92,3 +51,58 @@
 <!ENTITY limitCacheSizeBefore.label      "Kufizoje fshehtinën në">
 <!ENTITY limitCacheSizeBefore.accesskey  "K">
 <!ENTITY limitCacheSizeAfter.label       "MB hapësirë">
+<!ENTITY clearCacheNow.label             "Pastroje Tani">
+<!ENTITY clearCacheNow.accesskey         "T">        
+<!ENTITY overrideSmartCacheSize.label    "Anashkalo administrimin e vetvetishëm të fshehtinës">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+
+<!ENTITY updateTab.label                 "Përditësim">
+
+<!ENTITY autoCheck.label                 "Kontrollo vetvetiu për përditësime për:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;-in">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate2.label       "Shtojca">
+<!ENTITY enableAddonsUpdate2.accesskey   "S">
+<!ENTITY enableSearchUpdate.label        "Motorë Kërkimi">
+<!ENTITY enableSearchUpdate.accesskey    "M">
+<!ENTITY whenUpdatesFound.label          "Kur gjenden përditësime të &brandShortName;-it:">
+<!ENTITY askMe.label                     "Pyetmë se çfarë dua të bëj">
+<!ENTITY askMe.accesskey                 "P">
+<!ENTITY modeAutomatic.label             "Shkarko dhe instalo përditësimet vetvetiu">
+<!ENTITY modeAutomatic.accesskey         "k">
+<!ENTITY modeAutoAddonWarn.label         "Sinjalizomë nëse kështu do të çaktivizohej ndonjë nga shtesat e mia">
+<!ENTITY modeAutoAddonWarn.accesskey     "Z">
+<!ENTITY updateHistory.label             "Shfaq Historik Përditësimesh">
+<!ENTITY updateHistory.accesskey         "H">
+
+<!ENTITY offlineNotify.label             "Bëma të ditur kur një &quot;site&quot; web kërkon të depozitojë të dhëna për përdorim &quot;offline&quot;">
+<!ENTITY offlineNotify.accesskey         "B">
+<!ENTITY offlineNotifyExceptions.label   "Përjashtime…">
+<!ENTITY offlineNotifyExceptions.accesskey "P">
+
+<!ENTITY offlineAppsList.label           "&quot;Site&quot;-et web vijues kanë të dhëna të instaluara për përdorim &quot;offline&quot;:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Hiqeni…">
+<!ENTITY offlineAppsListRemove.accesskey "H">
+<!ENTITY offlineAppRemove.confirm        "Hiqi të dhënat &quot;offline&quot;">
+
+<!ENTITY encryptionTab.label             "Kodim">
+<!ENTITY protocols.label                 "Protokolle">
+<!ENTITY useSSL3.label                   "Përdor SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Përdor TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Dëshmi">
+<!ENTITY certSelection.description       "Kur një shërbyes kërkon dëshminë time vetjake:">
+<!ENTITY certs.auto                      "Përzgjidh një vetvetiu">
+<!ENTITY certs.auto.accesskey            "z">
+<!ENTITY certs.ask                       "Pyetmë përherë">
+<!ENTITY certs.ask.accesskey             "y">
+<!ENTITY viewCerts.label                 "Shihni Dëshmitë">
+<!ENTITY viewCerts.accesskey             "S">
+<!ENTITY viewCRLs.label                  "Lista Shfuqizimesh">
+<!ENTITY viewCRLs.accesskey              "L">
+<!ENTITY verify2.label                   "Vleftësim">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Pajisje Sigurie">
+<!ENTITY viewSecurityDevices.accesskey   "P">
