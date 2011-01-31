@@ -15,8 +15,6 @@
 <!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY helpReleaseNotes.label         "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು">
-<!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY preferencesCmdMac.label        "ಆದ್ಯತೆಗಳು...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
