@@ -21,7 +21,7 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Controllar l'ortografia durant l'endataziun">
 <!ENTITY checkSpelling.accesskey         "r">
-<!ENTITY doNotTrack.label                "Infurmar webistes da na betg suandar mes fastiz">
+<!ENTITY doNotTrack.label                "Infurmar websites da na betg suandar mes fastiz">
 <!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Configuraziuns dal sistem">
