@@ -551,3 +551,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sinhroniziraj">
 
 <!ENTITY addonBarCloseButton.tooltip  "Zapri vrstico dodatkov">
+<!ENTITY toggleAddonBarCmd.key        "/">
