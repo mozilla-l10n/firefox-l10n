@@ -16,8 +16,6 @@
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Reiniciar con complementos deshabilitados">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY helpReleaseNotes.label "Notas sobre esta versión">
-<!ENTITY helpReleaseNotes.accesskey "N">
 <!ENTITY helpTroubleshootingInfo.label "Información">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpFeedbackPage.label "Enviar comentarios...">

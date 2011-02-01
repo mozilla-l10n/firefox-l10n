@@ -416,3 +416,4 @@
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Cerra la barra de complementos">
+<!ENTITY toggleAddonBarCmd.key "/">
