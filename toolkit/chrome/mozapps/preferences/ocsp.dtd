@@ -1,11 +1,13 @@
-<!ENTITY window.width "38em">
-
-<!ENTITY ocspDialog.title "Ukuqinisekisa">
-<!ENTITY validation.ocsp.description "I-&brandShortName; ingasebenzisa iProthokholi Yesimo Sesitifiketi Se-Inthanethi (OCSP) ukuze iqinisekise izitifiketi. Hlela i-&brandShortName; ukuze isebenzise i-OCSP kanje:">
-<!ENTITY disableOCSP.label "Ungayisebenzisi i-OCSP ukuqinisekisa isitifiketi">
-<!ENTITY certOCSP.label "Sebenzisa i-OCSP ukuqinisekisa kuphela izitifiketi ezisho ngqo i-OCSP ephakelwa yi-URL">
-<!ENTITY proxyOCSP.label "Sebenzisa i-OCSP ukuqinisekisa zonke izitifiketi ezisebenzisa le URL nesisayini:">
-<!ENTITY serviceURL.label "Insiza ye-URL:">
-<!ENTITY serviceURL.accesskey "I">
-<!ENTITY signingCA.label "Isisayini Esisabelayo:">
-<!ENTITY signingCA.accesskey "I">
+<!ENTITY ocspDialog.title             "Certificate Validation">
+<!ENTITY enableOCSP.label             "Use the Online Certificate Status Protocol (OCSP) to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey         "U">
+<!ENTITY certOCSP2.label              "Validate a certificate if it specifies an OCSP server">
+<!ENTITY certOCSP2.accesskey          "V">
+<!ENTITY proxyOCSP2.label             "Validate all certificates using the following OCSP server:">
+<!ENTITY proxyOCSP2.accesskey         "a">
+<!ENTITY serviceURL.label             "Insiza ye-URL:">
+<!ENTITY serviceURL.accesskey         "I">
+<!ENTITY signingCA.label              "Isisayini Esisabelayo:">
+<!ENTITY signingCA.accesskey          "I">
+<!ENTITY requireOCSP.label            "When an OCSP server connection fails, treat the certificate as invalid">
+<!ENTITY requireOCSP.accesskey        "W">

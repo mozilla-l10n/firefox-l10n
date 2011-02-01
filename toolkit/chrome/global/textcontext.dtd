@@ -1,19 +1,20 @@
 <!ENTITY cutCmd.label "Sika">
 <!ENTITY cutCmd.accesskey "a">
 <!ENTITY copyCmd.label "Kopisha">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Namathisela">
-<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY pasteCmd.accesskey "N">
 <!ENTITY undoCmd.label "Susa Okwenzile">
-<!ENTITY undoCmd.accesskey "s">
+<!ENTITY undoCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Khetha Konke">
-<!ENTITY selectAllCmd.accesskey "k">
+<!ENTITY selectAllCmd.accesskey "K">
 <!ENTITY deleteCmd.label "Cisha">
-<!ENTITY deleteCmd.accesskey "c">
-<!ENTITY spellAddToDictionary.label "Add to dictionary">
-<!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellEnable.label "Spell check this field">
-<!ENTITY spellEnable.accesskey "S">
-<!ENTITY spellNoSuggestions.label "(No spelling suggestions)">
-<!ENTITY spellDictionaries.label "Languages">
+<!ENTITY deleteCmd.accesskey "C">
+
+<!ENTITY spellAddToDictionary.label "Yengeza kusichazamazwi">
+<!ENTITY spellAddToDictionary.accesskey " ">
+<!ENTITY spellCheckEnable.label "Hlola isipelingi">
+<!ENTITY spellCheckEnable.accesskey "i">
+<!ENTITY spellNoSuggestions.label "(Azikho izipelingi eziphakamisiwe)">
+<!ENTITY spellDictionaries.label "Nezilimi">
 <!ENTITY spellDictionaries.accesskey "l">

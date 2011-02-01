@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Umqondisi Womshini">
+<!ENTITY devmgr.title                           "Umqondisi Womshini">
 
-<!ENTITY devmgr.devlist.label "AmaMojuli Nemishini Yokuvikela">
-<!ENTITY devmgr.details.title "Imininingwane">
-<!ENTITY devmgr.details.title2 "Inani">
-<!ENTITY devmgr.status.label "Isimo">
-<!ENTITY devmgr.version.label "Inguqulo">
+<!ENTITY devmgr.devlist.label                   "AmaMojuli Nemishini Yokuvikela">
+<!ENTITY devmgr.details.title                   "Imininingwane">
+<!ENTITY devmgr.details.title2                  "Inani">
+<!ENTITY devmgr.status.label                    "Isimo">
+<!ENTITY devmgr.version.label                   "Inguqulo">
 
-<!ENTITY devmgr.button.changeslotname.label "Change Slot Name">
+<!ENTITY devmgr.button.changeslotname.label     "Change Slot Name">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label "Log In">
-<!ENTITY devmgr.button.login.accesskey "n">
-<!ENTITY devmgr.button.logout.label "Log Out">
-<!ENTITY devmgr.button.logout.accesskey "O">
-<!ENTITY devmgr.button.changepw.label "Change Password">
-<!ENTITY devmgr.button.changepw.accesskey "P">
-<!ENTITY devmgr.button.load.label "Load">
-<!ENTITY devmgr.button.load.accesskey "L">
-<!ENTITY devmgr.button.unload.label "Unload">
-<!ENTITY devmgr.button.unload.accesskey "U">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.login.label              "Log In">
+<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.logout.label             "Log Out">
+<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.changepw.label           "Change Password">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.load.label               "Load">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "Unload">
+<!ENTITY devmgr.button.unload.accesskey         "U">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info "Faka ukwaziswa kweMojuli ofuna ukuyenezela.">
-<!ENTITY loaddevice.modname "Igama LeMojuli:">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "Imojuli Entsha i-PKCS#11">
-<!ENTITY loaddevice.filename "Igama lefayela leMojuli:">
-<!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "Bheka...">
-<!ENTITY loaddevice.browse.accesskey "B">
+<!ENTITY loaddevice.info                        "Faka ukwaziswa kweMojuli ofuna ukuyenezela.">
+<!ENTITY loaddevice.modname                     "Igama LeMojuli:">
+<!ENTITY loaddevice.modname.accesskey           "Q">
+<!ENTITY loaddevice.modname.default             "Imojuli Entsha i-PKCS#11">
+<!ENTITY loaddevice.filename                    "Igama lefayela leMojuli:">
+<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.browse                      "Bheka…">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title "Layisha uMshini i-PKCS#11">
+<!ENTITY loaddevice.title                       "Layisha uMshini i-PKCS#11">

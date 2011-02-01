@@ -1,8 +1,8 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Iyanyathelisa">
-<!ENTITY title "Isihloko:">
+<!ENTITY title    "Isihloko:">
 <!ENTITY progress "Intuthuko:">
-<!ENTITY preparing "Iyalungiselela...">
+<!ENTITY preparing "Iyalungiselela…">
 <!ENTITY printComplete "Ukunyathelisa Kuphelile.">
 
 <!ENTITY dialogCancel.label "Khansela">
@@ -15,4 +15,3 @@
     #1 will be replaced by the percentage of the file that has been saved -->
 
 <!ENTITY percentPrint "#1&#037;">
-

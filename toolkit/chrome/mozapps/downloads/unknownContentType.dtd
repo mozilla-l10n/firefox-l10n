@@ -37,29 +37,25 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "Ukhethe ukuvula">
-<!ENTITY from.label "kuvela:">
-<!ENTITY actionQuestion.label "I&brandShortName; kufanele yenzeni ngale fayela?">
+<!ENTITY  intro.label                 "Ukhethe ukuvula">
+<!ENTITY  from.label                  "kuvela:">
+<!ENTITY  actionQuestion.label        "I&brandShortName; kufanele yenzeni ngale fayela?">
 
-<!ENTITY openWith.label "Vula nge">
-<!ENTITY openWith.accesskey "v">
-<!ENTITY other.label "Okunye...">
+<!ENTITY  openWith.label              "Vula nge">
+<!ENTITY  openWith.accesskey          "V">
+<!ENTITY  other.label                 "Okunye…">
 
-<!ENTITY save.label "Gcina Kudiski">
-<!ENTITY save.accesskey "g">
+<!ENTITY  saveFile.label              "Save File">
+<!ENTITY  saveFile.accesskey          "s">
 
-<!ENTITY rememberChoice.label "Yenza lokhu ngokuzenzakalelayo emafayeleni anjengale kusukela manje kuqhubeke.">
-<!ENTITY rememberChoice.accesskey "n">
+<!ENTITY  rememberChoice.label        "Yenza lokhu ngokuzenzakalelayo emafayeleni anjengale kusukela manje kuqhubeke.">
+<!ENTITY  rememberChoice.accesskey    "n">
 
-<!ENTITY settingsChange.label "Settings can be changed in the Content section of Tools, Options.">
-<!ENTITY settingsChangeMac.label "Settings can be changed in the Content section of &brandShortName;, Preferences.">
-<!ENTITY settingsChangeUnix.label "Settings can be changed in the Content section of Edit, Preferences.">
+<!ENTITY  whichIsA.label              "eyi:">
 
-<!ENTITY whichIsA.label "eyi:">
+<!ENTITY  chooseHandlerMac.label      "Khetha…">
+<!ENTITY  chooseHandlerMac.accesskey  "K">
+<!ENTITY  chooseHandler.label         "Bheka…">
+<!ENTITY  chooseHandler.accesskey     "B">
 
-<!ENTITY chooseHandlerMac.label "Khetha...">
-<!ENTITY chooseHandlerMac.accesskey "K">
-<!ENTITY chooseHandler.label "Bheka...">
-<!ENTITY chooseHandler.accesskey "B">
-
-<!ENTITY unknownPromptText.label "Would you like to save this file?">
+<!ENTITY  unknownPromptText.label     "Would you like to save this file?">

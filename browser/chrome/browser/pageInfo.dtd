@@ -19,6 +19,8 @@
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,86 +37,92 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY preface "Ukwaziswa kwe-: ">
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
 
-<!ENTITY title "Ukwaziswa Kwekhasi">
-<!ENTITY description "Ukwaziswa ngekhasi elivuliwe manje">
-<!ENTITY pageInfoWindow.width "425">
-<!ENTITY pageInfoWindow.height "470">
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Kopisha">
+<!ENTITY  copy.accesskey        "K">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Khetha Konke">
+<!ENTITY  selectall.accesskey   "K">
+<!ENTITY  closeWindow.key       "w">
 
-<!ENTITY copy.key "C">
-<!ENTITY copy.label "Kopisha">
-<!ENTITY copy.accesskey "K">
-<!ENTITY selectall.key "A">
-<!ENTITY selectall.label "Khetha Konke">
-<!ENTITY selectall.accesskey "K">
-<!ENTITY closeWindow.key "w">
+<!ENTITY  generalTab            "Okuvamile">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "Ikheli:">
+<!ENTITY  generalType           "Uhlobo:">
+<!ENTITY  generalMode           "Indlela yokuhumusha:">
+<!ENTITY  generalSize           "Usayizi:">
+<!ENTITY  generalReferrer       "Ukubhekisela ku-URL:">
+<!ENTITY  generalSource         "Umthombo Wenqolobane:">
+<!ENTITY  generalModified       "Shintshiwe:">
+<!ENTITY  generalEncoding       "Ukufaka Ikhodi:">
+<!ENTITY  generalMetaName       "Igama">
+<!ENTITY  generalMetaContent    "Okuqukethwe">
+<!ENTITY  generalSecurityDetails   "Imininingwane">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY generalTab "Okuvamile">
-<!ENTITY generalAccesskey "G">
-<!ENTITY generalTitle "Isihloko:">
-<!ENTITY generalURL "Ikheli:">
-<!ENTITY generalMode "Indlela yokuhumusha:">
-<!ENTITY generalType "Uhlobo:">
-<!ENTITY generalSize "Usayizi:">
-<!ENTITY generalReferrer "Ukubhekisela ku-URL:">
-<!ENTITY generalSource "Umthombo Wenqolobane:">
-<!ENTITY generalSent "Thumele:">
-<!ENTITY generalModified "Shintshiwe:">
-<!ENTITY generalExpires "Iphelelwa isikhathi:">
-<!ENTITY generalEncoding "Ukufaka Ikhodi:">
-<!ENTITY generalMeta "Imeta:">
-<!ENTITY generalMetaName "Igama">
-<!ENTITY generalMetaContent "Okuqukethwe">
+<!ENTITY  mediaTab              "Umthombo Wezindaba">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Indawo:">
+<!ENTITY  mediaText             "Associated Text:">
+<!ENTITY  mediaAltHeader        "Umbhalo Ohlukile">
+<!ENTITY  mediaAddress          "Ikheli">
+<!ENTITY  mediaType             "Uhlobo">
+<!ENTITY  mediaSize             "Size">
+<!ENTITY  mediaCount            "Bala">
+<!ENTITY  mediaDimension        "Dimensions:">
+<!ENTITY  mediaLongdesc         "Incazelo Ende:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Gcina Ngokuthi…">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Indlela Umthombo Wezindaba Obukeka Ngayo:">
 
-<!ENTITY formsTab "Amafomu">
-<!ENTITY formsAccesskey "F">
-<!ENTITY formAction "Okufezwa Ifomu">
-<!ENTITY formMethod "Indlela Yokwenza">
-<!ENTITY formName "Igama">
-<!ENTITY formNo "Inom.">
-<!ENTITY formEncoding "Ukufaka Ikhodi:">
-<!ENTITY formTarget "Okuhlosiwe:">
-<!ENTITY formFields "Imikhakha:">
-<!ENTITY formLabel "Ilebula">
-<!ENTITY formFName "Igama Lomkhakha">
-<!ENTITY formType "Uhlobo">
-<!ENTITY formCValue "Inani Lamanje">
+<!ENTITY  feedTab               "Feeds">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Bhalisela Ukuthunyelelwa">
+<!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY linksTab "Izixhumo">
-<!ENTITY linksAccesskey "I">
-<!ENTITY linkNo "Inom.">
-<!ENTITY linkName "Igama">
-<!ENTITY linkAddress "Ikheli">
-<!ENTITY linkType "Uhlobo">
-<!ENTITY linkTarget "Okuhlosiwe">
-<!ENTITY linkAccessKey "Ukhiye Wokungena">
+<!ENTITY  permTab               "Izimvume">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Use Default">
+<!ENTITY  permAskAlways         "Always ask">
+<!ENTITY  permAllow             "Vumela">
+<!ENTITY  permAllowSession      "Vumela Kule Nkathi">
+<!ENTITY  permBlock             "Vimbela">
+<!ENTITY  permissionsFor        "Permissions for:">
+<!ENTITY  permImage             "Load Images">
+<!ENTITY  permPopup             "Open Pop-up Windows">
+<!ENTITY  permCookie            "Set Cookies">
+<!ENTITY  permInstall           "Install Extensions or Themes">
+<!ENTITY  permGeo               "Share Location">
 
-<!ENTITY mediaTab "Umthombo Wezindaba">
-<!ENTITY mediaAccesskey "M">
-<!ENTITY mediaHeader "Izithombe ezikulelikhasi">
-<!ENTITY mediaURL "Ikheli:">
-<!ENTITY mediaBase "Ikheli Lasehhovisi Elikhulu:">
-<!ENTITY mediaAlt "Umbhalo Ohlukile:">
-<!ENTITY mediaAltHeader "Umbhalo Ohlukile">
-<!ENTITY mediaNo "Inom.">
-<!ENTITY mediaName "Igama">
-<!ENTITY mediaAddress "Ikheli">
-<!ENTITY mediaType "Uhlobo">
-<!ENTITY mediaCount "Bala">
-<!ENTITY mediaPlugin "Xhuma Izintambo Epulagini:">
-<!ENTITY mediaCharset "Ukufaka Ikhodi:">
-<!ENTITY mediaDimensions "Izilinganiso Eziqondile:">
-<!ENTITY mediaPhysDimensions "Izilinganiso Zangempela:">
-<!ENTITY mediaEncryption "Ukubhala Ngokukhethekile:">
-<!ENTITY mediaTitle "Isihloko:">
-<!ENTITY mediaLongdesc "Incazelo Ende:">
-<!ENTITY mediaSaveAs "Gcina Ngokuthi...">
-<!ENTITY mediaSaveAs.accesskey "S">
-<!ENTITY mediaPreview "Indlela Umthombo Wezindaba Obukeka Ngayo:">
+<!ENTITY  permIndexedDB              "Maintain Offline Storage">
+<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permClearStorage.accesskey "C">
 
-<!ENTITY framesTab "Izinhlaka">
-<!ENTITY framesTab.accesskey "z">
-<!ENTITY frameName "Igama">
-<!ENTITY frameAddress "Ikheli">
-<!ENTITY frameType "Uhlobo">
+<!ENTITY  securityTab           "Ukulondeka">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Ukwaziswa kokuvikeleka kwaleli khasi">
+<!ENTITY  securityView.certView "View Certificate">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Akwaziwa">
+
+
+<!ENTITY  securityView.identity.header   "Web Site Identity">
+<!ENTITY  securityView.identity.owner    "Owner:">
+<!ENTITY  securityView.identity.domain   "Web site:">
+<!ENTITY  securityView.identity.verifier "Verified by:">
+
+<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
+<!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
+<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
+<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
+<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Technical Details">

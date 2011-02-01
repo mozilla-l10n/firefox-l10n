@@ -1,116 +1,202 @@
-<!ENTITY addons.title "Add-ons">
-<!-- Default window size for the addon manager in pixels -->
+<!ENTITY addons.windowTitle                   "Add-ons Manager">
+<!ENTITY search.placeholder                   "Search all add-ons">
+<!ENTITY loading.label                        "Loading…">
+<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.availableUpdates.label     "No updates found">
+<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.findUpdates.label          "Ihlola Okufakwe Muva">
+<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
+<!ENTITY listEmpty.button.label               "Learn more about add-ons">
+<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
 
-<!ENTITY em.width "520">
-<!ENTITY em.height "380">
+<!ENTITY cmd.back.tooltip                     "Hlehla ngekhasi elilodwa">
+<!ENTITY cmd.forward.tooltip                  "Yiya phambili ngekhasi elilodwa">
+<!-- global warnings -->
 
-<!ENTITY cmd.info.commandKey "i">
-<!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
-<!-- View labels -->
+<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label   "Enable">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label       "Enable">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
+<!-- categories / views -->
 
-<!ENTITY extensions.label "Izithasiselo">
-<!ENTITY themes.label "Themes">
-<!ENTITY locales.label "Languages">
-<!ENTITY plugins.label "Plugins">
-<!ENTITY update.label "Updates">
-<!ENTITY install.label "Installation">
-<!-- Command Bar items -->
+<!ENTITY view.search.label                    "Funa">
+<!ENTITY view.discover.label                  "Get Add-ons">
+<!ENTITY view.locales.label                   "Izilimi">
+<!ENTITY view.searchengines.label             "Izinjini Zokucinga">
+<!ENTITY view.features.label                  "Izithasiselo">
+<!ENTITY view.appearance2.label               "Ukubukeka">
+<!ENTITY view.plugins.label                   "Xhuma Izintambo Epulagini:">
+<!ENTITY view.recentUpdates.label             "Recent Updates">
+<!ENTITY view.availableUpdates.label          "Available Updates">
+<!-- addon updates -->
 
-<!ENTITY cmd.checkUpdatesAll.label "Find Updates">
-<!ENTITY cmd.checkUpdatesAll.accesskey "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Finds Updates to your Add-ons">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Finds Updates to your Themes">
-<!ENTITY cmd.installLocalFile.label "Install...">
-<!ENTITY cmd.installFile.accesskey "I">
-<!ENTITY cmd.installFileAddon.tooltip "Install an Add-on">
-<!ENTITY cmd.installFileTheme.tooltip "Install a Theme">
-<!ENTITY cmd.installUpdatesAll.label "Install Updates">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "Installs the selected updates">
-<!ENTITY cmd.restartApp.label "Restart &brandShortName;">
-<!ENTITY cmd.restartApp.accesskey "R">
-<!ENTITY cmd.restartApp.tooltip "Restarts &brandShortName; to finish the installation">
-<!ENTITY cmd.skip.label "Skip">
-<!ENTITY cmd.skip.accesskey "S">
-<!ENTITY cmd.skip.tooltip "Skip these updates">
-<!ENTITY cmd.continue.label "Continue">
-<!ENTITY cmd.continue.accesskey "C">
-<!ENTITY cmd.continue.tooltip "Continue loading &brandShortName;">
+<!ENTITY updates.checkForUpdates.label        "Ihlola Okufakwe Muva">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "View Recent Updates">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "Updating add-ons">
+<!ENTITY updates.installed.label              "Your add-ons have been updated.">
+<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
+<!ENTITY updates.restart.label                "Restart now to complete installation">
+<!ENTITY updates.noneFound.label              "No updates found">
+<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
+<!ENTITY updates.updateSelected.label         "Ifakela Okufakwe Muva">
+<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
+<!-- addon actions -->
 
-<!ENTITY cmd.enableAll.label "Enable All">
-<!ENTITY cmd.enableAll.accesskey "a">
-<!ENTITY cmd.enableAll.tooltip "Enable all displayed Add-ons">
-<!ENTITY cmd.disableAll.label "Disable All">
-<!ENTITY cmd.disableAll.accesskey "s">
-<!ENTITY cmd.disableAll.tooltip "Disable all displayed Add-ons">
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.showDetails.label                "Show More Information">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "Thola Ukulungisa Okwenziwe">
+<!ENTITY cmd.findUpdates.accesskey            "T">
+<!ENTITY cmd.preferencesWin.label             "Options">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "Preferences">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.about.label                      "Mayelana">
+<!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.useTheme.label "Sebenzisa Isihloko">
-<!ENTITY cmd.useTheme.accesskey "I">
-<!ENTITY cmd.useTheme.tooltip "Ishintsha Isihloko se-&brandShortName;">
-<!ENTITY cmd.options.label "Ongakhetha Kukho">
-<!ENTITY cmd.options.accesskey "O">
-<!ENTITY cmd.options.tooltip "Hlela Okungakhethwa Kukho kwezithasiselo zamagama athile">
-<!ENTITY cmd.optionsUnix.label "Okuthandwayo">
-<!ENTITY cmd.optionsUnix.accesskey "k">
-<!ENTITY cmd.optionsUnix.tooltip "Lungisa Okukhethwayo Kwezithasiselo ezithile zamagama">
-<!ENTITY cmd.enable.label "Yenza Kusebenze">
-<!ENTITY cmd.enable.accesskey "Y">
-<!ENTITY cmd.enable.tooltip "Enable this Add-on when &brandShortName; is restarted">
-<!ENTITY cmd.disable.label "Yenza Kungasebenzi">
-<!ENTITY cmd.disable.accesskey "Y">
-<!ENTITY cmd.disable.tooltip "Disable this Add-on when &brandShortName; is restarted">
-<!ENTITY cmd.uninstall.label "Uninstall">
-<!ENTITY cmd.uninstall2.accesskey "U">
-<!ENTITY cmd.uninstall2.tooltip "Uninstall this Add-on when &brandShortName; is restarted">
-<!ENTITY cmd.cancelUninstall.label "Cancel Uninstall">
-<!ENTITY cmd.cancelUninstall.accesskey "C">
-<!ENTITY cmd.cancelUninstall.tooltip "Cancel the uninstall of this Add-on">
-<!ENTITY cmd.installUpdate.label "Install Update">
-<!ENTITY cmd.installUpdate.accesskey "I">
-<!ENTITY cmd.installUpdate.tooltip "Install an update for this Add-on">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "Cancel">
-<!ENTITY cancel.accesskey "C">
-<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.enableAddon.label                "Yenza Kusebenze">
+<!ENTITY cmd.enableAddon.accesskey            "Y">
+<!ENTITY cmd.disableAddon.label               "Yenza Kungasebenzi">
+<!ENTITY cmd.disableAddon.accesskey           "Y">
+<!ENTITY cmd.enableTheme.label                "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.installAddon.label               "Fakela">
+<!ENTITY cmd.installAddon.accesskey           "F">
+<!ENTITY cmd.uninstallAddon.label             "Susa">
+<!ENTITY cmd.uninstallAddon.accesskey         "S">
+<!ENTITY cmd.showPreferencesWin.label         "Ongakhetha Kukho">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
+<!ENTITY cmd.showPreferencesUnix.label        "Okuthandwayo">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Change this add-on's preferences">
+<!ENTITY cmd.contribute.label                 "Contribute">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
 
-<!ENTITY cmd.homepage.label "Iya Ekhasini Lokuqala">
-<!ENTITY cmd.homepage.accesskey "E">
-<!ENTITY cmd.about2.label "About this Add-on">
-<!ENTITY cmd.about.accesskey "A">
-<!ENTITY cmd.checkUpdate.label "Thola Ukulungisa Okwenziwe">
-<!ENTITY cmd.checkUpdate.accesskey "T">
+<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
+<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!ENTITY cmd.includeUpdate.label "Include Update">
-<!ENTITY cmd.includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.label "Include this update">
-<!ENTITY includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.tooltip "Include this Add-on when installing the updates">
-<!-- Status Messsages -->
+<!ENTITY discover.title                       "What are Add-ons?">
+<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
+  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
+  your own.">
+<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
+  some of the best and most popular add-ons for you to try out.">
+<!-- detail view -->
 
-<!ENTITY needsDependencies.label "Requires additional items.">
-<!ENTITY blocklisted.label "Disabled for your protection.">
-<!ENTITY toBeDisabled.label "This add-on will be disabled when &brandShortName; is restarted.">
-<!ENTITY toBeEnabled.label "This add-on will be enabled when &brandShortName; is restarted.">
-<!ENTITY toBeInstalled.label "This add-on will be installed when &brandShortName; is restarted.">
-<!ENTITY toBeUninstalled.label "This add-on will be uninstalled when &brandShortName; is restarted.">
-<!ENTITY toBeUpgraded.label "This add-on will be upgraded when &brandShortName; is restarted.">
+<!ENTITY detail.version.label                 "Inguqulo">
+<!ENTITY detail.lastupdated.label             "Last Updated">
+<!ENTITY detail.creator.label                 "Developer">
+<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.numberOfDownloads.label       "Ukwaziswa Okuthathwe Kwafakwa">
 
-<!ENTITY getExtensions.label "Get Extensions">
-<!ENTITY getExtensions.tooltip "Get Extensions from addons.mozilla.org">
-<!ENTITY getThemes.label "Get Themes">
-<!ENTITY getThemes.tooltip "Get Themes from addons.mozilla.org">
-<!ENTITY previewNoThemeSelected.label "Asikho Isihloko Esikhethiwe">
-<!ENTITY previewNoPreviewImage.label "Akunandlela Yokubona Ukuthi Lesihloko Sizobukeka Kanjani">
-<!ENTITY moreInfo.label "More Information">
-<!ENTITY closeMessage.tooltip "Close this message">
+<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
 
-<!ENTITY updateSuccess.label "Update completed successfully.">
-<!ENTITY installSuccess.label "Install completed successfully.">
-<!ENTITY installSuccessRestart.label "Restart to complete the installation.">
-<!ENTITY installWaiting.label "Waiting...">
-<!ENTITY installIncompatibleUpdate.label "Checking compatibility...">
-<!ENTITY installFinishing.label "Installing...">
-<!ENTITY installFailure.label "Install failed.">
+<!ENTITY detail.updateType                    "Automatic Updates">
+<!ENTITY detail.updateDefault.label           "Okwakhona">
+<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateAutomatic.label         "Kukhanyile">
+<!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
+<!ENTITY detail.updateManual.label            "Kucishile">
+<!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
+<!ENTITY detail.home                          "Homepage">
+<!ENTITY detail.repository                    "Add-on Profile">
+<!ENTITY detail.size                          "Ubungako">
 
+<!ENTITY detail.checkForUpdates.label         "Ihlola Okufakwe Muva">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.showPreferencesWin.label      "Options">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
+<!ENTITY detail.showPreferencesUnix.label     "Preferences">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Change this add-on's preferences">
+<!-- ratings -->
+
+
+<!ENTITY rating2.label                        "Rating">
+<!-- download/install progress -->
+
+<!ENTITY progress.pause.tooltip               "Yima kancane">
+<!ENTITY progress.cancel.tooltip              "Khansela">
+<!-- list sorting -->
+
+
+<!ENTITY sort.name.label                      "Igama">
+<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.dateUpdated.label               "Last Updated">
+<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
+<!ENTITY sort.relevance.label                 "Best match">
+<!ENTITY sort.relevance.tooltip               "Sort by relevance">
+<!ENTITY sort.price.label                     "Price">
+<!ENTITY sort.price.tooltip                   "Sort by price">
+
+<!ENTITY search.filter2.label                 "Funa:">
+<!ENTITY search.filter2.installed.label       "My Add-ons">
+<!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
+<!ENTITY search.filter2.available.label       "Available Add-ons">
+<!ENTITY search.filter2.available.tooltip     "Show add-ons available to install">
+
+<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.details.label                  "Okwengeziwe">
+<!ENTITY addon.details.tooltip                "Show more details about this add-on">
+<!ENTITY addon.unknownDate                    "Akwaziwa">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(disabled)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "Okufakelwe Muva">
+<!ENTITY addon.undoAction.label               "Undo">
+<!ENTITY addon.undoAction.tooltip             "Undo this action">
+<!ENTITY addon.undoRemove.label               "Undo">
+<!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
+<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.install.label                  "Fakela">
+<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.updateNow.label                "Lungisa Manje">
+<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
+<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.checkingForUpdates.label       "Ihlola Okufakwe Muva">
+<!ENTITY addon.releaseNotes.label             "Dedela Amanothi">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+
+<!ENTITY addon.createdBy.label                "By ">
+
+<!ENTITY eula.title                           "End-User License Agreement">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Accept and Install…">

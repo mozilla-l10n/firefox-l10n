@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label "Yenza Uhlamvu Lubhaleke Ngekhodi">
-<!ENTITY current.label "Ukubhala Uhlamvu Ngekhodi Okusebenzayo:">
-<!ENTITY remove.label "Susa">
-<!ENTITY remove.accessKey "S">
-<!ENTITY additional.label "Amakhodi Ezinhlamvu Atholakalayo:">
-<!ENTITY add.label "Nezela">
-<!ENTITY add.accessKey "N">
-<!ENTITY moveUp.label "Yisa Phezulu">
-<!ENTITY moveUp.accessKey "P">
-<!ENTITY moveDown.label "Yisa Phansi">
+<!ENTITY title.label        "Yenza Uhlamvu Lubhaleke Ngekhodi">
+<!ENTITY current.label      "Ukubhala Uhlamvu Ngekhodi Okusebenzayo:">
+<!ENTITY remove.label       "Susa">
+<!ENTITY remove.accessKey   "S">
+<!ENTITY additional.label   "Amakhodi Ezinhlamvu Atholakalayo:">
+<!ENTITY add.label          "Nezela">
+<!ENTITY add.accessKey      "N">
+<!ENTITY moveUp.label       "Yisa Phezulu">
+<!ENTITY moveUp.accessKey   "P">
+<!ENTITY moveDown.label     "Yisa Phansi">
 <!ENTITY moveDown.accessKey "P">
