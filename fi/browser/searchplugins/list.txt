@@ -1,6 +1,6 @@
 bing
 bookplus-fi
 google
-ebay-fi
+eBay-fi
 wikipedia-fi
 yahoo-fi
