@@ -15,8 +15,8 @@
 <!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY helpReleaseNotes.accesskey     "N">
-<!ENTITY helpReleaseNotes.label         "પ્રકાશન નોંધો">
+
+
 
 
 <!ENTITY preferencesCmdMac.label        "પસંદગીઓ...">
