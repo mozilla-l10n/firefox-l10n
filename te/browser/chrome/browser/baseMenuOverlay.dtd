@@ -21,15 +21,6 @@
 
 <!ENTITY helpMac.commandkey       "?">
 
-
-<!ENTITY helpReleaseNotes.label         "విడుదల నోట్స్">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
-
-
-
-
-
 <!ENTITY preferencesCmdMac.label        "అభీష్టాలు...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
