@@ -32,7 +32,7 @@
 <!ENTITY  dontrememberActions.post.label         "।">
 
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; କରିଥାଏ:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "ପୁରୁଣା ତଥ୍ୟକୁ ମନେ ରଖନ୍ତୁ">
 <!ENTITY  historyHeader.dontremember.label "ପୁରୁଣା ତଥ୍ୟକୁ କଦାପି ମନେ ରଖନ୍ତୁ ନାହିଁ">
@@ -55,7 +55,7 @@
 <!ENTITY  acceptCookies.accesskey       "c">
 
 <!ENTITY  acceptThirdParty.label        "ତୃତୀୟ-ପକ୍ଷ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣକରନ୍ତୁ">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
 <!ENTITY  keepUntil.label               "ସେମାନେ ସମାପ୍ତ ହେଲାପର୍ଯ୍ୟନ୍ତ:">
 <!ENTITY  keepUntil.accesskey           "K">
