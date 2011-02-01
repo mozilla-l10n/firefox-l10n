@@ -14,8 +14,8 @@
 <!ENTITY accOrgImagesRadio.accesskey    "L">
 <!ENTITY disableImages.label            "Älä lataa kuvia">
 <!ENTITY disableImages.accesskey        "Ä">
-<!ENTITY viewImages.label               "Poikkeukset">
-<!ENTITY viewImages.accesskey           "P">
+<!ENTITY viewPermissions.label          "Muokkaa oikeuksia">
+<!ENTITY viewPermissions.accesskey      "M">
 <!ENTITY animLoopingTitle.label         "Toista animoidut kuvat">
 <!ENTITY animLoopAsSpecified.label      "Niin monta kertaa kuin kuva määrittää">
 <!ENTITY animLoopAsSpecified.accesskey  "N">

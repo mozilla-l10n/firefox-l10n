@@ -1,4 +1,4 @@
 <!ENTITY appManager.title     "Ohjelman tiedot">
-<!ENTITY appManager.style     "width: 40ch; min-height: 20em;">
+<!ENTITY appManager.style     "width: 40ch; min-height:20em;">
 <!ENTITY remove.label         "Poista">
 <!ENTITY remove.accesskey     "o">

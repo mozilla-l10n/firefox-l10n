@@ -114,3 +114,5 @@
 <!ENTITY showPopupManager.accesskey   "a">
 <!ENTITY dontShowMessage.label        "Älä näytä tätä viestiä, kun ponnahdusikkuna on estetty">
 <!ENTITY dontShowMessage.accesskey    "Ä">
+
+<!ENTITY syncToolbarButton.label "Sync">

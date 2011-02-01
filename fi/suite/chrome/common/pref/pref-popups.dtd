@@ -5,8 +5,8 @@
 <!ENTITY popupBlock.label               "Estä ponnahdusikkunat">
 <!ENTITY popupBlock.accesskey           "E">
 
-<!ENTITY popupExceptions.label          "Sallitut sivustot…">
-<!ENTITY popupExceptions.accesskey      "S">
+<!ENTITY viewPermissions.label          "Muokkaa oikeuksia">
+<!ENTITY viewPermissions.accesskey      "M">
 
 <!ENTITY whenBlock.description          "Kun ponnahdusikkuna on estetty:">
 <!ENTITY playSound.label                "Anna äänimerkki:">

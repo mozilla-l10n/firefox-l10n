@@ -45,3 +45,12 @@
 
 <!ENTITY switchProfileCmd.label "Vaihda profiilia…">
 <!ENTITY switchProfileCmd.accesskey "a">
+
+<!ENTITY syncBrand.shortName.label "Synkronointi">
+<!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
+     Only one of these will show at a time (based on setup state),
+     so reusing accesskey is ok. -->
+<!ENTITY syncSetup.label           "Aseta synkronointiasetukset…">
+<!ENTITY syncSetup.accesskey       "s">
+<!ENTITY syncSyncNowItem.label     "Synkronoi heti">
+<!ENTITY syncSyncNowItem.accesskey "S">

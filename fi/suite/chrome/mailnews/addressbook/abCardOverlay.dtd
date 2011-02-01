@@ -71,22 +71,22 @@
 <!ENTITY PrimaryEmail.accesskey         "ä">
 <!ENTITY SecondEmail.label              "2. sähköposti:">
 <!ENTITY SecondEmail.accesskey          "2">
-<!ENTITY PreferMailFormat.label         "Haluaa saada viestinsä">
+<!ENTITY PreferMailFormat.label         "Vastaanottaa viestit mieluiten muodossa:">
 <!ENTITY PreferMailFormat.accesskey     "d">
-<!ENTITY PlainText.label                "tavallisena tekstinä">
-<!ENTITY HTML.label                     "HTML:nä">
+<!ENTITY PlainText.label                "Tavallinen teksti">
+<!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Tuntematon">
 <!ENTITY ScreenName.label               "Puhuttelunimi:">
-<!ENTITY ScreenName.accesskey           "t">
+<!ENTITY ScreenName.accesskey           "P">
 
 <!ENTITY allowRemoteContent1.label      "Salli etäsisältö">
 <!ENTITY allowRemoteContent1.accesskey  "a">
-<!ENTITY allowRemoteContent1.tooltip    "HTML-viesteihin on mahdollista upottaa sisältöä toisilta palvelimilta. Tällaisen viestin avaaminen luo yhteyden tuohon palvelimeen ja tämä mahdollistaa viestin tilan seuraamisen. Tällä valinnalla hyväksyt tällaisten upotettujen sisältöjen lataamisen tämän yhteyshenkilön lähettämissä sähköposteissa.">
+<!ENTITY allowRemoteContent1.tooltip    "HTML-viesteihin on mahdollista upottaa sisältöä toisilta palvelimilta. Jos tällainen viesti avataan, tuohon palvelimeen avataan yhteys, mikä mahdollistaa viestin tilan seuraamisen. Tällä valinnalla sallit tällaisten upotettujen sisältöjen lataamisen tämän yhteyshenkilön lähettämissä viesteissä.">
 
 <!ENTITY WorkPhone.label                "Työnumero:">
-<!ENTITY WorkPhone.accesskey            "n">
+<!ENTITY WorkPhone.accesskey            "T">
 <!ENTITY HomePhone.label                "Kotinumero:">
-<!ENTITY HomePhone.accesskey            "r">
+<!ENTITY HomePhone.accesskey            "n">
 <!ENTITY FaxNumber.label                "Faksinumero:">
 <!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Hakulaite:">
@@ -97,7 +97,7 @@
 <!ENTITY Home.tab                       "Koti">
 <!ENTITY Home.accesskey                 "o">
 <!ENTITY HomeAddress.label              "Osoite:">
-<!ENTITY HomeAddress.accesskey          "t">
+<!ENTITY HomeAddress.accesskey          "s">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Kaupunki:">
@@ -121,17 +121,17 @@
 <!ENTITY Work.tab                       "Työ">
 <!ENTITY Work.accesskey                 "ö">
 <!ENTITY JobTitle.label                 "Ammattinimi:">
-<!ENTITY JobTitle.accesskey             "n">
-<!ENTITY Department.label               "Osasto:">
-<!ENTITY Department.accesskey           "s">
+<!ENTITY JobTitle.accesskey             "t">
+<!ENTITY Department.label               "Yksikkö:">
+<!ENTITY Department.accesskey           "k">
 <!ENTITY Company.label                  "Organisaatio:">
 <!ENTITY Company.accesskey              "r">
 <!ENTITY WorkAddress.label              "Osoite:">
-<!ENTITY WorkAddress.accesskey          "t">
+<!ENTITY WorkAddress.accesskey          "s">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Kaupunki:">
-<!ENTITY WorkCity.accesskey             "K">
+<!ENTITY WorkCity.accesskey             "n">
 <!ENTITY WorkState.label                "Maakunta:">
 <!ENTITY WorkState.accesskey            "M">
 <!ENTITY WorkZipCode.label              "Postinumero:">

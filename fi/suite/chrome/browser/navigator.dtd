@@ -29,8 +29,8 @@
 <!ENTITY editPageCmd.accesskey "v">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY uploadFile.label "Lähetä tiedosto…">
-<!ENTITY uploadFile.accesskey "L">
+<!ENTITY uploadFile.label "Siirrä tiedosto palvelimelle…">
+<!ENTITY uploadFile.accesskey "l">
 
 <!ENTITY printSetupCmd.label "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey "e">
@@ -57,16 +57,16 @@
 <!ENTITY componentbarCmd.accesskey "o">
 
 <!ENTITY useStyleSheetMenu.label "Sivun tyylit">
-<!ENTITY useStyleSheetMenu.accesskey "v">
+<!ENTITY useStyleSheetMenu.accesskey "i">
 <!ENTITY useStyleSheetNone.label "Ei tyylimäärittelyjä">
 <!ENTITY useStyleSheetNone.accesskey "E">
 <!ENTITY useStyleSheetPersistentOnly.label "Oletustyyli">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "O">
 <!ENTITY pageSourceCmd.label "Sivun lähdekoodi">
-<!ENTITY pageSourceCmd.accesskey "n">
+<!ENTITY pageSourceCmd.accesskey "v">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Sivun tiedot">
-<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.accesskey "u">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Kokoruututila">
 <!ENTITY fullScreenCmd.accesskey "K">
@@ -108,6 +108,8 @@
 <!ENTITY goMenu.accesskey "S">
 <!ENTITY goHomeCmd.label "Aloitussivu">
 <!ENTITY goHomeCmd.accesskey "A">
+<!ENTITY historyRestoreLastSession.label "Palauta edellinen istunto">
+<!ENTITY historyRestoreLastSession.accesskey "P">
 
 <!ENTITY bookmarksMenu.label "Kirjanmerkit">
 <!ENTITY bookmarksMenu.accesskey "K">
@@ -158,7 +160,7 @@
 <!ENTITY  bookmarksButton.tooltip     "Kirjanmerkkilista">
 <!ENTITY  homeButton.label            "Aloitussivu">
 <!ENTITY  bookmarksToolbarItem.label  "Kirjanmerkkipalkin kirjanmerkit">
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+<!ENTITY bookmarksToolbarChevron.tooltip "Näytä enemmän kirjanmerkkejä">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Valmis">
@@ -171,3 +173,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Vaihda sivun suuntaa">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "V">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label         "Välilehdet muissa tietokoneissa">

@@ -99,7 +99,7 @@
 <!ENTITY  mediaPhysDimensions   "Todelliset mitat:">
 <!ENTITY  mediaTitle            "Otsikko:">
 <!ENTITY  mediaLongdesc         "Pitkä kuvaus:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "E">
 <!ENTITY  mediaSaveAs           "Tallenna nimellä…">
 <!ENTITY  mediaSaveAs.accesskey "T">
 <!ENTITY  mediaSaveAs2.accesskey "e">
@@ -141,9 +141,9 @@
 <!ENTITY  securityView.privacy.history                  "Onko sivustolla vierailtu ennen tätä päivää?">
 <!ENTITY  securityView.privacy.cookies                  "Tallentaako sivusto tietoja (evästeitä) tietokoneelle?">
 <!ENTITY  securityView.privacy.viewCookies              "Näytä evästeet">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "N">
 <!ENTITY  securityView.privacy.passwords                "Onko sivuston salasanoja tallennettu?">
 <!ENTITY  securityView.privacy.viewPasswords            "Näytä tallennetut salasanat">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "ä">
 
 <!ENTITY  securityView.technical.header                 "Tekniset yksityiskohdat">

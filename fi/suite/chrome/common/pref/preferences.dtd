@@ -22,6 +22,7 @@
 <!ENTITY ssl.label "Salaus">
 <!ENTITY certs.label "Varmenteet">
 <!ENTITY validation.label "Kelpuutus">
+<!ENTITY sync.label "Synkronointi">
 <!ENTITY advance.label "Lisäasetukset">
 <!ENTITY down.label "Nouda">
 <!ENTITY cache.label "Väliaikaistiedostot">

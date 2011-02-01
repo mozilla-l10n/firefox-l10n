@@ -37,7 +37,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY MainWindow.title "JavaScript-virheidenetsijä">
+<!ENTITY MainWindow.title "Javascript-vianetsintä">
 
 <!-- floating views -->
 <!ENTITY ViewFloat.tooltip      "Kiinnitä tai irroita näkymä napsauttamalla tästä">
@@ -53,7 +53,7 @@
 <!ENTITY MenuBar.tooltip  "Valikkopalkki">
 
 <!-- breakpoint view -->
-<!ENTITY Break.label        "Taukopisteet">
+<!ENTITY Break.label        "Pysäytyspisteet">
 <!ENTITY BreakCol0.label    "Nimi">
 <!ENTITY BreakCol1.label    "Rivi/PC">
 
@@ -65,10 +65,10 @@
 <!ENTITY LocalsCol3.header  "Liput">
 
 <!-- session view -->
-<!ENTITY Session.label      "Vuorovaikutteinen istunto">
+<!ENTITY Session.label      "Interaktiivinen istunto">
 
 <!-- script view -->
-<!ENTITY Scripts.label         "Ladatut istunnot">
+<!ENTITY Scripts.label         "Ladatut komentosarjat">
 <!ENTITY ScriptsSearch.label   "Etsi">
 <!ENTITY ScriptsSearch.tooltip "Tyhjennä haku napsauttamalla tästä">
 <!ENTITY ScriptsCol0.header    "Nimi">
@@ -78,7 +78,7 @@
 <!-- source view -->
 <!ENTITY Source.label       "Lähdekoodi">
 <!ENTITY SourceHeader.tip   "Lähdepalkki">
-<!ENTITY SourceCol0.display "Margin">
+<!ENTITY SourceCol0.display "Marginaalit">
 <!ENTITY SourceCol1.display "Rivinumero">
 
 <!-- stack view -->
@@ -112,7 +112,7 @@
 <!ENTITY BPProps.EarlyReturnRadio.label  "Early return from caller with result">
 <!ENTITY BPProps.PassExceptionsCheck.label   "Pass exceptions to caller">
 <!ENTITY BPProps.LogResultCheck.label        "Log result">
-<!ENTITY BPProps.Apply.label  "Apply">
-<!ENTITY BPProps.Revert.label "Revert">
-<!ENTITY BPProps.Close.label  "Close">
+<!ENTITY BPProps.Apply.label  "Käytä">
+<!ENTITY BPProps.Revert.label "Palauta">
+<!ENTITY BPProps.Close.label  "Sulje">
 

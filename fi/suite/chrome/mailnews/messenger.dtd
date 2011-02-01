@@ -105,8 +105,8 @@
 <!ENTITY settingsOfflineCmd.accesskey "Y">
 <!ENTITY downloadSelectedCmd.label "Nouda valitut viestit">
 <!ENTITY downloadSelectedCmd.accesskey "v">
-<!ENTITY downloadFlaggedCmd.label "Nouda tähdellä merkityt viestit">
-<!ENTITY downloadFlaggedCmd.accesskey "t">
+<!ENTITY downloadFlaggedCmd.label "Nouda lipulla merkityt viestit">
+<!ENTITY downloadFlaggedCmd.accesskey "N">
 <!ENTITY printCmd.label "Tulosta…">
 <!ENTITY printCmd.accesskey "o">
 <!ENTITY printCmd.key "p">
@@ -126,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "o">
 <!ENTITY undeleteMsgsCmd.label "Palauta valitut viestit">
 <!ENTITY undeleteMsgsCmd.accesskey "P">
-<!ENTITY cancelNewsMsgsCmd.label "Peruuta valitut viestit">
-<!ENTITY cancelNewsMsgsCmd.accesskey "P">
 <!ENTITY deleteFolderCmd.label "Poista kansio">
 <!ENTITY deleteFolderCmd.accesskey "P">
 <!ENTITY unsubscribeNewsgroupCmd.label "Peruuta tilaus">
@@ -137,8 +135,8 @@
 <!ENTITY selectThreadCmd.label "Viestiketju">
 <!ENTITY selectThreadCmd.accesskey "V">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Tähdellä merkityt viestit">
-<!ENTITY selectFlaggedCmd.accesskey "T">
+<!ENTITY selectFlaggedCmd.label "Lipulla merkityt viestit">
+<!ENTITY selectFlaggedCmd.accesskey "L">
 <!ENTITY folderPropsCmd.label "Ominaisuudet…">
 <!ENTITY folderPropsFolderCmd.label "Kansion ominaisuudet…">
 <!ENTITY folderPropsNewsgroupCmd.label "Keskusteluryhmän ominaisuudet…">
@@ -185,8 +183,8 @@
 <!ENTITY sortByDateCmd.accesskey "P">
 <!ENTITY sortByReceivedCmd.label "Vastaanotettu">
 <!ENTITY sortByReceivedCmd.accesskey "V">
-<!ENTITY sortByFlagCmd.label "Tähti">
-<!ENTITY sortByFlagCmd.accesskey "T">
+<!ENTITY sortByFlagCmd.label "Lippu">
+<!ENTITY sortByFlagCmd.accesskey "L">
 <!ENTITY sortByPriorityCmd.label "Tärkeysaste">
 <!ENTITY sortByPriorityCmd.accesskey "ä">
 <!ENTITY sortBySizeCmd.label "Koko">
@@ -298,8 +296,8 @@
 <!ENTITY nextUnreadMsgCmd.label "Lukematon viesti">
 <!ENTITY nextUnreadMsgCmd.accesskey "L">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextFlaggedMsgCmd.label "Tähdellä merkitty viesti">
-<!ENTITY nextFlaggedMsgCmd.accesskey "T">
+<!ENTITY nextFlaggedMsgCmd.label "Lipulla merkitty viesti">
+<!ENTITY nextFlaggedMsgCmd.accesskey "L">
 <!ENTITY nextUnreadThread.label "Lukematon viestiketju">
 <!ENTITY nextUnreadThread.accesskey "u">
 <!ENTITY nextUnreadThread.key "t">
@@ -317,8 +315,8 @@
 <!ENTITY goForwardCmd.label "Eteenpäin">
 <!ENTITY goForwardCmd.accesskey "E">
 <!ENTITY goForwardCmd.commandKey "Ä">
-<!ENTITY prevFlaggedMsgCmd.label "Tähdellä merkitty viesti">
-<!ENTITY prevFlaggedMsgCmd.accesskey "T">
+<!ENTITY prevFlaggedMsgCmd.label "Lipulla merkitty viesti">
+<!ENTITY prevFlaggedMsgCmd.accesskey "L">
 <!ENTITY startPageCmd.label "Aloitussivu">
 <!ENTITY startPageCmd.accesskey "A">
 
@@ -409,8 +407,8 @@
 <!ENTITY markAllReadCmd.label "Kaikki luetuksi">
 <!ENTITY markAllReadCmd.accesskey "K">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Tähdellä">
-<!ENTITY markFlaggedCmd.accesskey "T">
+<!ENTITY markFlaggedCmd.label "Lipulla">
+<!ENTITY markFlaggedCmd.accesskey "L">
 <!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Roskapostiksi">
 <!ENTITY markAsJunkCmd.accesskey "R">
@@ -568,7 +566,7 @@
 <!ENTITY folderContextSendUnsentMessages.label "Lähetä lähtevät viestit">
 <!ENTITY folderContextSendUnsentMessages.accesskey "L">
 <!ENTITY folderContextUnsubscribe.label "Peruuta tilaus">
-<!ENTITY folderContextUnsubscribe.accesskey "u">
+<!ENTITY folderContextUnsubscribe.accesskey "P">
 <!ENTITY folderContextMarkNewsgroupRead.label "Merkitse keskusteluryhmä luetuksi">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
 <!ENTITY folderContextMarkMailFolderRead.label "Merkitse kaikki kansion viestit luetuksi">

@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey       "i">
 <!ENTITY openFrameCmdInTab.label      "Avaa kehys uuteen välilehteen">
 <!ENTITY openFrameCmdInTab.accesskey  "v">
+<!ENTITY keywordfield.label           "Lisää pikakomento tälle haulle…">
+<!ENTITY keywordfield.accesskey       "L">
 <!ENTITY showOnlyThisFrameCmd.label     "Näytä vain tämä kehys">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
 <!ENTITY goBackCmd.label              "Edellinen">

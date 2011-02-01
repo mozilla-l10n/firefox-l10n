@@ -1,7 +1,7 @@
 <!ENTITY pref-irc.window.title "ChatZilla">
 
 <!ENTITY pref-irc.open.title     "ChatZillan asetukset">
-<!ENTITY pref-irc.open.desc      "Avaa ChatZillan asetusikkuna painamalla tästä.">
+<!ENTITY pref-irc.open.desc      "Voit avata ChatZillan asetusikkuna painamalla tästä.">
 <!ENTITY pref-irc.open.label     "Avaa ChatZillan asetukset">
 <!ENTITY pref-irc.open.accesskey "A">
 <!ENTITY startup.chat.label "ChatZilla">

@@ -8,7 +8,7 @@
 <!ENTITY  directTypeRadio.accesskey     "E">
 <!ENTITY  systemTypeRadio.label         "Käytä järjestelmän välityspalvelinasetuksia">
 <!ENTITY  systemTypeRadio.accesskey     "K">
-<!ENTITY  manualTypeRadio.label         "Aseta välityspalvelinasetukset käsin">
+<!ENTITY  manualTypeRadio.label         "Aseta välityspalvelinasetukset käsin:">
 <!ENTITY  manualTypeRadio.accesskey     "s">
 <!ENTITY  wpadTypeRadio.label           "Automaattiset välityspalvelinasetukset">
 <!ENTITY  wpadTypeRadio.accesskey       "A">

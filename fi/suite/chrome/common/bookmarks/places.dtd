@@ -84,7 +84,9 @@
 <!ENTITY col.lastmodified.label  "Muokattu">
 
 <!ENTITY search.label                              "Etsi:">
-<!ENTITY search.accesskey                          "s">
+<!ENTITY search.placeholder                        "Etsi kirjanmerkeistä">
+
+<!ENTITY search.in.label                           "Etsi kohteesta:">
 <!ENTITY search.scopeFolder.label                  "Avoin kansio">
 <!ENTITY search.scopeFolder.accesskey              "A">
 <!ENTITY search.scopeBookmarks.label               "Kirjanmerkit">

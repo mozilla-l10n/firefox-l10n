@@ -11,5 +11,9 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "S">
 <!ENTITY useSmoothScroll.label                  "Vieritä sivua portaattomasti">
 <!ENTITY useSmoothScroll.accesskey              "V">
+<!ENTITY allowHWAccel.label                     "Käytä laitteistopohjaista kiihdytystä, jos mahdollista">
+<!ENTITY allowHWAccel.accesskey                 "K">
 <!ENTITY textZoomOnly.label                     "Muuta vain tekstin kokoa">
 <!ENTITY textZoomOnly.accesskey                 "M">
+<!ENTITY blockAutoRefresh.label                 "Varoita, kun sivustot yrittävät päivittää sivua tai uudelleenohjata toiselle sivulle">
+<!ENTITY blockAutoRefresh.accesskey             "a">
