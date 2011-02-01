@@ -1,5 +1,5 @@
 <!ENTITY privatebrowsingpage.title                 "Потайливий режим">
-<!ENTITY privatebrowsingpage.title.normal          "Бажаєте перейти у потайливий режим??">
+<!ENTITY privatebrowsingpage.title.normal          "Бажаєте перейти у потайливий режим?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; не запам’ятовуватиме історію цього сеансу.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; наразі не працює у потайливому режимі.">
