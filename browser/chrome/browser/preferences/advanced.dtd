@@ -110,3 +110,7 @@
 <!ENTITY overrideSmartCacheSize.label    "స్వయంచాలక క్యాచీ నిర్వహణను వోవర్‌రైడ్ చేయుము">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitCrashes.label             "క్రాష్ నివేదికలను అప్పగించుము">
+
+<!ENTITY doNotTrack.label                "నా జాడ తీయవద్దని వెబ్‌సైట్లకు చెప్పు">
+<!ENTITY doNotTrack.accesskey            "d">
+
