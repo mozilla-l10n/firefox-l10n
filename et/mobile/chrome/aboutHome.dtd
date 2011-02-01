@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs                   "Kaardid sinu teistest arvutitest">
 <!ENTITY aboutHome.recommendedAddons2           "Lisad sinu &brandShortName;ile">
 <!ENTITY aboutHome.giveFeedback                 "Anna tagasisidet">
+<!ENTITY aboutHome.getHelp                      "Abiteave">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Ava kõik kaartidel">
 <!ENTITY aboutHome.noTabs                       "Kaarte eelmisest korrast pole">
 <!ENTITY aboutHome.noAddons                     "Lisade soovitusi pole">
