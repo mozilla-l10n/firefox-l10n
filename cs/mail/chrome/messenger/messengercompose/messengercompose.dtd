@@ -209,7 +209,8 @@
 <!ENTITY followupAddr.label "Sledování:">
 <!ENTITY subject.label "Předmět:">
 <!ENTITY subject.accesskey "m">
-<!ENTITY attachments.label "Přílohy:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "P">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
