@@ -32,9 +32,6 @@
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
 
 
-<!ENTITY helpReleaseNotes.label         "Notas de lanzamiento">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 <!ENTITY preferencesCmdMac.label        "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 

@@ -72,13 +72,13 @@
 <!ENTITY setup.signInPage.title.label "Ingresar">
 <!ENTITY existingSyncKey.description "Puede obtener una copia de su clave de sincronización yendo a las Opciones de &syncBrand.shortName.label; en su otro dispositivo y seleccionando &#x0022;Mi clave de sincronización&#x0022; en &#x0022;Administrar cuenta&#x0022;.">
 <!ENTITY resetPassword.label          "Restablecer contraseña">
-<!ENTITY lostSyncKey.label            "Perdí mi clave de sincronización">
+<!ENTITY resetSyncKey.label           "Perdí mi otro dispositivo.">
 <!ENTITY verifying.label              "Verificando…">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opciones de sincronización">
-<!ENTITY syncComputerName.label       "Nombre de computadora:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncComputerName.label       "Nombre del computador:">
+<!ENTITY syncComputerName.accesskey   "n">
 
 <!ENTITY syncMy.label               "Sincronizar mis">
 <!ENTITY engine.bookmarks.label     "Marcadores">
