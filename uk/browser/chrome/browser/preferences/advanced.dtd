@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "а">
 <!ENTITY checkSpelling.label             "Перевіряти орфографію при наборі тексту">
 <!ENTITY checkSpelling.accesskey         "е">
+<!ENTITY doNotTrack.label                "Cказати сайтам що я не хочу щоб мене відслідковували">
+<!ENTITY doNotTrack.accesskey            "с">
 
 <!ENTITY systemDefaults.label            "Встановлення типовим в системі">
 <!ENTITY alwaysCheckDefault.label        "Щоразу перевіряти на початку роботи чи є &brandShortName; типовим браузером"><!--XXX-->

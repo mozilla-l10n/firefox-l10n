@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Перезапуск з вимкненими додатками…">
 <!ENTITY helpSafeMode.accesskey   "П">
 
-<!ENTITY helpReleaseNotes.label         "Інформація про випуск">
-<!ENTITY helpReleaseNotes.accesskey     "ф">
-
 <!ENTITY helpTroubleshootingInfo.label      "Вирішення проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey  "В">
 
