@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Tunandi taaga kaŋ tontoney kayandi...">
 <!ENTITY helpSafeMode.accesskey   "u">
 
-<!ENTITY helpReleaseNotes.label         "Kaataray-dumi hantumey">
-<!ENTITY helpReleaseNotes.accesskey     "K">
-
 <!ENTITY helpTroubleshootingInfo.label      "Tarkahattayan alhabar">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 

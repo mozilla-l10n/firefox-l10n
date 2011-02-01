@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "j">
 <!ENTITY checkSpelling.label             "Ay boŋhantumoo koroši waati kaŋ ay ga hantum">
 <!ENTITY checkSpelling.accesskey         "h">
+<!ENTITY doNotTrack.label                "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Dabariɲaa tilasey">
 <!--XXX-->
