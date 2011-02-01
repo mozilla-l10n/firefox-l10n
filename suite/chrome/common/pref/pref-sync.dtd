@@ -1,0 +1,48 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Tee &syncBrand.fullName.label;in asetukset">
+<!ENTITY setupButton.accesskey      "T">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label;in avulla sivuhistoria, kirjanmerkit, salasanat ja avoimet välilehdet ovat saatavilla kaikissa laitteissasi.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; -tili">
+<!ENTITY currentAccount.label         "Nykyinen tili:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Päivitä">
+<!ENTITY updatePass.accesskey         "P">
+<!ENTITY resetPass.label              "Palauta oletusarvot">
+<!ENTITY resetPass.accesskey          "s">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Muokkaa tiliä">
+<!ENTITY viewQuota.label              "Näytä kiintiö">
+<!ENTITY viewQuota.accesskey          "N">
+<!ENTITY changePassword.label         "Vaihda salasana">
+<!ENTITY changePassword.accesskey     "V">
+<!ENTITY mySyncKey.label              "Synkronointiavain">
+<!ENTITY mySyncKey.accesskey          "S">
+<!ENTITY resetSync.label              "Nollaa Sync">
+<!ENTITY resetSync.accesskey          "N">
+<!ENTITY stopUsingAccount.label       "Lopeta tämän tilin käyttö">
+<!ENTITY stopUsingAccount.accesskey   "a">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Selaimen synkronointi">
+<!ENTITY syncComputerName.label       "Tietokoneen nimi:">
+<!ENTITY syncComputerName.accesskey   "T">
+
+<!ENTITY syncMy.label               "Synkronoi">
+<!ENTITY engine.bookmarks.label     "Kirjanmerkit">
+<!ENTITY engine.bookmarks.accesskey "K">
+<!ENTITY engine.tabs.label          "Välilehdet">
+<!ENTITY engine.tabs.accesskey      "t">
+<!ENTITY engine.history.label       "Sivuhistoria">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Salasanat">
+<!ENTITY engine.passwords.accesskey "S">
+<!ENTITY engine.prefs.label         "Asetukset">
+<!ENTITY engine.prefs.accesskey     "A">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Käyttöehdot">
+<!ENTITY prefs.ppLink.label         "Tietosuojakäytäntö">
