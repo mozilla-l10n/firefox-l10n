@@ -14,9 +14,6 @@
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 
-<!ENTITY helpReleaseNotes.label         "ପ୍ରକାଶନ ଟିପ୍ପଣୀ">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 
 <!ENTITY preferencesCmdMac.label        "ପସନ୍ଦ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
