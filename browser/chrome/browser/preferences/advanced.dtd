@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey            "i">
 <!ENTITY checkSpelling.label               "Kirjutamisel kontrollitakse õigekirja">
 <!ENTITY checkSpelling.accesskey           "r">
+<!ENTITY doNotTrack.label                  "Veebilehtedele antakse teada, et jälitamist ei soovita">
+<!ENTITY doNotTrack.accesskey              "j">
 
 <!ENTITY systemDefaults.label              "Vaikimisi seaded">
 <!ENTITY alwaysCheckDefault.label          "Käivitamisel kontrollitakse alati, kas &brandShortName; on vaikimisi brauser"><!--XXX-->

@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "Serveri URL">
 <!ENTITY sync.setup.connect         "Ühenda">
 <!ENTITY sync.setup.cancel          "Loobu">
+<!ENTITY sync.setup.tutorial        "Abiteave">

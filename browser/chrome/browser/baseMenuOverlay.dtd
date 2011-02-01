@@ -21,9 +21,6 @@
 <!ENTITY helpSafeMode.label                 "Taaskäivita koos lisade keelamisega…">
 <!ENTITY helpSafeMode.accesskey             "T">
 
-<!ENTITY helpReleaseNotes.label             "Väljalaskest">
-<!ENTITY helpReleaseNotes.accesskey         "V">
-
 <!ENTITY helpTroubleshootingInfo.label      "Probleemide lahendamise teave">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
 
