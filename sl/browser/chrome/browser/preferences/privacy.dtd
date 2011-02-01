@@ -60,7 +60,7 @@
 <!ENTITY  privateBrowsingPermanent.label "Stalno zasebno brskanje">
 <!ENTITY  privateBrowsingPermanent.accesskey "S">
 
-<!ENTITY  rememberHistory.label      "Shranjuj zgodoivino brskanja">
+<!ENTITY  rememberHistory.label      "Shranjuj zgodovino brskanja">
 <!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Shranjuj zgodovino prenosov">
