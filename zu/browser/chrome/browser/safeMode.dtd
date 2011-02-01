@@ -36,26 +36,26 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "I&brandShortName; Indawo Elondekile">
-<!ENTITY window.width "37em">
+<!ENTITY safeModeDialog.title         "I&brandShortName; Indawo Elondekile">
+<!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label "I&brandShortName; manje isebenza eSimweni Esilondekile, eyenza okwesikhashana ukuhlelwa kwezinto ezivamile, izindikimba nezithasiselo zamagama kungasebenzi.">
-<!ENTITY safeModeDescription2.label "Ungenza ukuba olunye lwalushintsho noma lonke luhlale njalo:">
+<!ENTITY safeModeDescription.label    "I&brandShortName; manje isebenza eSimweni Esilondekile, eyenza okwesikhashana ukuhlelwa kwezinto ezivamile, izindikimba nezithasiselo zamagama kungasebenzi.">
+<!ENTITY safeModeDescription2.label   "Ungenza ukuba olunye lwalushintsho noma lonke luhlale njalo:">
 
-<!ENTITY disableAddons.label "Disable all add-ons">
-<!ENTITY disableAddons.accesskey "D">
+<!ENTITY disableAddons.label          "Khubaza konke ukugcwalisela">
+<!ENTITY disableAddons.accesskey      "K">
 
-<!ENTITY resetToolbars.label "Hlela kabusha ama-toolbar nezinto zokulawula">
-<!ENTITY resetToolbars.accesskey "H">
+<!ENTITY resetToolbars.label          "Hlela kabusha ama-toolbar nezinto zokulawula">
+<!ENTITY resetToolbars.accesskey      "H">
 
-<!ENTITY resetBookmarks.label "Hlela kabusha izimpawu zokubekisa zibe i-&brandShortName; kwenze ngendlela evamile">
-<!ENTITY resetBookmarks.accesskey "i">
+<!ENTITY deleteBookmarks.label        "Susa konke uphawu lokubekisa ngaphandle kwalokho okukophiwe">
+<!ENTITY deleteBookmarks.accesskey    "u">
 
-<!ENTITY resetUserPrefs.label "Hlela kabusha konke okukhethwa ku &brandShortName; kwenzeke ngendlela evamile njalo">
-<!ENTITY resetUserPrefs.accesskey "k">
+<!ENTITY resetUserPrefs.label         "Hlela kabusha konke okukhethwa ku &brandShortName; kwenzeke ngendlela evamile njalo">
+<!ENTITY resetUserPrefs.accesskey     "k">
 
-<!ENTITY restoreSearch.label "Restore default search engines">
-<!ENTITY restoreSearch.accesskey "s">
+<!ENTITY restoreSearch.label          "Busela ama-enjini wakhona wokusesha ">
+<!ENTITY restoreSearch.accesskey      "e">
 
 <!ENTITY changeAndRestartButton.label "Yenza Ushintsho bese Uqala Kabusha">
-<!ENTITY continueButton.label "Qhubeka Esimweni Esilondekile">
+<!ENTITY continueButton.label         "Qhubeka Esimweni Esilondekile">

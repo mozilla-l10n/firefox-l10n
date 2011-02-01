@@ -1,47 +1,53 @@
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label "Emuva">
-<!ENTITY backButton.accesskey "E">
-<!ENTITY backButton.tooltip "Hlehla ngekhasi elilodwa">
-<!ENTITY forwardButton.label "Phambili">
-<!ENTITY forwardButton.accesskey "P">
-<!ENTITY forwardButton.tooltip "Yiya phambili ngekhasi elilodwa">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "Ekhaya">
-<!ENTITY homeButton.tooltip "Yana ekhasini lokukusiza ukuba uqalise">
-<!ENTITY printButton.label "Printa">
-<!ENTITY printButton.tooltip "Printa leli khasi">
-<!ENTITY closeWindow.commandkey "W">
+<!ENTITY backButton.label               "Emuva">
+<!ENTITY backButton.accesskey           "E">
+<!ENTITY backButton.tooltip             "Hlehla ngekhasi elilodwa">
+<!ENTITY forwardButton.label            "Phambili">
+<!ENTITY forwardButton.accesskey        "P">
+<!ENTITY forwardButton.tooltip          "Yiya phambili ngekhasi elilodwa">
+<!ENTITY copyCmd.label                  "Kopisha">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Khetha Konke">
+<!ENTITY selectAllCmd.accesskey         "K">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Ekhaya">
+<!ENTITY homeButton.tooltip             "Yana ekhasini lokukusiza ukuba uqalise">
+<!ENTITY printButton.label              "Printa">
+<!ENTITY printButton.tooltip            "Printa leli khasi">
+<!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY throbberItem.title "Isikhomba-msebenzi">
-<!ENTITY throbber.tooltip "Thola usizo">
+<!ENTITY search.emptytext               "Funa">
+<!ENTITY searchHeader.label             "Cinga Imiphumela">
+<!ENTITY toctab.label                   "Okuqukethwe">
+<!ENTITY toctab.accesskey               "O">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY searchtab.label "Funa">
-<!ENTITY searchtab.accesskey "F">
-<!ENTITY toctab.label "Okuqukethwe">
-<!ENTITY toctab.accesskey "O">
 
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey "k">
+<!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label "Inkombbe Phezulu Njalo">
-<!ENTITY zLevel.accesskey "N">
+<!ENTITY zLevel.label                   "Inkombbe Phezulu Njalo">
+<!ENTITY zLevel.accesskey               "N">
 
-<!ENTITY textZoomReduceBtn.label "Nciphisa Ubukhulu Bamagama">
-<!ENTITY textZoomReduceBtn.accesskey "N">
-<!ENTITY textZoomEnlargeBtn.label "Khulisa Ubukhulu Bamagama">
-<!ENTITY textZoomEnlargeBtn.accesskey "K">
+<!ENTITY fullZoomReduceBtn.label        "Hlehla Esithombeni">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "Sondela Eduze Kwesithombe">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

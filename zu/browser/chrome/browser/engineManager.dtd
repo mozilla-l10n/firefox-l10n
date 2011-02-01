@@ -1,20 +1,25 @@
-<!ENTITY engineManager.title "Manage Search Engine List">
-<!ENTITY engineManager.style "min-width: 35em;">
-<!ENTITY engineManager.intro "You have the following search engines installed:">
+<!ENTITY  engineManager.title       "Phatha uhlu losesho lwe-enjini">
+<!ENTITY  engineManager.style       "min-width: 35em;">
+<!ENTITY  engineManager.intro       "ufake injini yokusesha elandelayo:">
+
+<!ENTITY  columnLabel.name          "Igama">
+<!ENTITY  columnLabel.keyword       "Igama Eliwukhiye:">
 <!-- Buttons -->
 
-<!ENTITY up.label "Move Up">
-<!ENTITY up.accesskey "U">
-<!ENTITY dn.label "Move Down">
-<!ENTITY dn.accesskey "D">
-<!ENTITY remove.label "Remove">
-<!ENTITY remove.accesskey "R">
+<!ENTITY  up.label                  "Yisa Phezulu">
+<!ENTITY  up.accesskey              "P">
+<!ENTITY  dn.label                  "Yisa Phansi">
+<!ENTITY  dn.accesskey              "P">
+<!ENTITY  remove.label              "Susa">
+<!ENTITY  remove.accesskey          "S">
+<!ENTITY  edit.label                "Hlela igama eliwukhiye...">
+<!ENTITY  edit.accesskey            "a">
 
-<!ENTITY addEngine.label "Get more search engines...">
-<!ENTITY addEngine.accesskey "A">
+<!ENTITY  addEngine.label           "thola ama-enjini wokusesha angaphezulu....">
+<!ENTITY  addEngine.accesskey       "a">
 
-<!ENTITY enableSuggest.label "Show search suggestions">
-<!ENTITY enableSuggest.accesskey "S">
+<!ENTITY  enableSuggest.label       "khomba usesho lokuphakanyisiwe">
+<!ENTITY  enableSuggest.accesskey   "k">
 
-<!ENTITY restoreDefaults.label "Restore Defaults">
-<!ENTITY restoreDefaults.accesskey "e">
+<!ENTITY  restoreDefaults.label     "Buyisela Okwakhona:">
+<!ENTITY  restoreDefaults.accesskey "e">

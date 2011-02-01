@@ -25,7 +25,16 @@
 <!ENTITY netInterrupt.longDesc "<p>Okokubheka kuxhume ngempumelelo, kodwa ukuxhumeka kuphazamiseke ngesikhathi kudluliswa ukwaziswa.  Sicela uphinde uzame.</p><ul><li>Awukwazi yini ukubheka ezinye izingosi? Hlola ukuthi ikhompyutha yakho ixhumekile yini kunethiwekhi.</li><li>Usenenkinga namanje? Thintana nomqondisi wenethiwekhi yakho noma we-Inthanethi ukuze uthole usizo.</li></ul>">
 
 <!ENTITY netOffline.title "Ayikho Ku-Inthanethi">
-<!ENTITY netOffline.longDesc "<p>Okokubheka kusebenza ungaxhumile ku-Inthanethi futhi akukwazi ukuthola le nto oyicelile.</p><ul><li>Ikhompyutha ixhunywe kunethiwekhi esebenzayo yini?</li><li>Xhuma ku-Inthanethi ubeke okokubheka uphinde uzame.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+
+<!ENTITY contentEncodingError.title "Iphutha lokubhala ngokufihla okuqukethwe">
+<!ENTITY contentEncodingError.longDesc "<p>Le khasi ozama ukulibuka alikwazi ukuboniswa ngoba lisebenzisa indlela yokuminyanisa engavumelekile noma engasekelwanga.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngalenkinga.</li></ul>">
+
+<!ENTITY unsafeContentType.title "Uhlobo lwefayela elingaphephile">
+<!ENTITY unsafeContentType.longDesc "<ul>
+<li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngale nkinga.</li>
+</ul>">
 
 <!ENTITY netReset.title "Ukuxhumeka Kuphazamisekile">
 <!ENTITY netReset.longDesc "<p>Isixhumo senethiwekhi siphazamisekile ngesikhathi sizama ukuxhuma. Sicela uphinde uzame.</p>">
@@ -47,3 +56,29 @@
 
 <!ENTITY unknownSocketType.title "Ukusabela Okungeyikho">
 <!ENTITY unknownSocketType.longDesc "<p>Le ngosi isabele esicelweni senethiwekhi ngendlela engalindelekile futhi okokubheka ngeke kuqhubeke.</p>">
+
+<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.longDesc "<p>Le khasi ozama ukulibuka alikwazi ukuboniswa ngenxa yokuthi ukuqinisekiswa kwedatha etholiwe akukwazi ukuqinisekiswa.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga.</li></ul>">
+
+<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Lokhu kungaba yinkinga nokulungiswa kweseva, noma kungaba ngumuntu ozama ukuzifanisa nomunye umutu kuseva.</li> 
+<li>Uma uxhumeke kule seva ngempumelelo ngokwedlule, iphutha lingaba ngelesikhashana, futhi ungabuye uzame kamuva.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Isayithi elisolwa ngokuhlasela!">
+<!ENTITY malwareBlocked.longDesc "<p>Amasayithi wokuhlasela azama ukufaka izinhlelo ezintshontsha ulwazi oluyimfihlo, sebenzisa ikhompyutha yakho ukuhlasela abanye, noma ukumosha uhlelo lwakho.</p> 
+<p>Abanikazi bewebhusayithi abakholelwa ukuthi isayithi labo libikwe njengesayithi lokuhlasela ngephutha okungaholela i-<a href='http://www.stopbadware.org/home/reviewinfo' > cela isibuyekezo</a>.</p>">
+
+<!ENTITY phishingBlocked.title "Ukusolwa kokubhumbuluzwa kwe-webhu!">
+<!ENTITY phishingBlocked.longDesc "<p>Ukufaka noma iyiphi imininingwane yakho kuleli khasi kungaholela ekuntshontweni kobunikazi noma obunye ubukhonyovu.</p> 
+<p>Lezi zinhlobo zokubhumbuluzwa kwewebhu sisetshenziswa ekuqolweni okwaziwa njengokuhlaselwa kwe-phishing, lapho khona amakhasi wewebhu anenkohliso nama-imeyili asetshenziselwa ukufaniswa nemithombo oyithembayo.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Kuvinjelwe inqubomgomo yokuqukethwe yezokuphepha">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Isiphequluli sivimbele leli khasi ukuba lilayishwe ngalendlela ngoba ikhasi linenqubomgomo yokuqukethwe kwezokuvikela okungalivumeli.</p>">
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly. -->
+
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;

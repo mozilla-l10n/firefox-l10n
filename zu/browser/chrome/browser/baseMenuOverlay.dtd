@@ -1,49 +1,40 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Nciphisa">
-<!ENTITY bringAllToFront.label "Kulethe Konke Phambili">
-<!ENTITY zoomWindow.label "Sondeza">
-<!ENTITY windowMenu.label "Iwindi">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Nciphisa">
+<!ENTITY bringAllToFront.label    "Kulethe Konke Phambili">
+<!ENTITY zoomWindow.label         "Sondeza">
+<!ENTITY windowMenu.label         "Iwindi">
 
-<!ENTITY helpMenu.label "Usizo">
-<!ENTITY helpMenu.accesskey "U">
+<!ENTITY helpMenu.label           "Usizo">
+<!ENTITY helpMenu.accesskey       "U">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Usizo">
-<!ENTITY helpMenuWin.accesskey "U">
-<!ENTITY aboutCmd.label "Ngokuphathelene ne-&brandFullName;">
-<!ENTITY aboutCmd.accesskey "N">
-<!ENTITY helpContents.label "Okuqukethwe Usizo">
-<!ENTITY helpContents.accesskey "O">
-<!ENTITY helpContentsMac.label "I-&brandShortName; Usizo">
-<!ENTITY helpForIEUsers.label "Okwabasebenzisa i-Explorer Ye-Inthanethi">
-<!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.commandkey "VK_HELP">
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac2.commandkey "/">
-<!ENTITY openHelpMac2.modifiers "accel,shift">
-<!ENTITY openHelpMac2.frontendCommandkey "?">
-<!ENTITY openHelpMac2.frontendModifiers "accel">
+<!ENTITY helpMenuWin.label        "Usizo">
+<!ENTITY helpMenuWin.accesskey    "U">
+<!ENTITY aboutProduct.label       "Mayelana nebrandShortName;">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "Ne-brandShortName; Nosizo">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY helpForIEUsers.label     "Okwabasebenzisa i-Explorer Ye-Inthanethi">
+<!ENTITY helpForIEUsers.accesskey "i">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Futhi qala kabusha ngokungafakwa okungeziwe kukhutshaziwe...">
+<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label "Dedela Amanothi">
-<!ENTITY helpReleaseNotes.accesskey "A">
-<!ENTITY updateCmd.label "Bheka Okufakelwe Muva...">
-<!ENTITY updateCmd.accesskey "k">
+<!ENTITY helpTroubleshootingInfo.label      "Nemininingwane yokufuna isisombululo senkinga">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY preferencesCmdMac.label "Preferences...">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY helpFeedbackPage.label      "Futhi thumela impendulo">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY servicesMenuMac.label "Services">
+<!ENTITY preferencesCmdMac.label        "Okuthandwayo...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY hideThisAppCmdMac.label "Hide &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY servicesMenuMac.label          "Izinsiza">
 
-<!ENTITY hideOtherAppsCmdMac.label "Hide Others">
+<!ENTITY hideThisAppCmdMac.label        "Fihla ne-brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Fihla abanye">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label "Show All">
+<!ENTITY showAllAppsCmdMac.label        "Veza konke">

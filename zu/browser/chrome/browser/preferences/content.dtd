@@ -1,52 +1,37 @@
-<!ENTITY blockPopups.label "Block pop-up windows">
-<!ENTITY blockPopups.accesskey "B">
-<!ENTITY popupExceptions.label "Exceptions...">
-<!ENTITY popupExceptions.accesskey "E">
+<!ENTITY  blockPopups.label           "Vimbela Amafasitela Aqhamuka Esikhaleni">
+<!ENTITY  blockPopups.accesskey       "V">
+<!ENTITY  popupExceptions.label       "Okuhlukile">
+<!ENTITY  popupExceptions.accesskey   "O">
 
-<!ENTITY loadImages.label "Load images automatically">
-<!ENTITY loadImages.accesskey "I">
-<!ENTITY exceptions.label "Exceptions...">
-<!ENTITY exceptions.accesskey "x">
+<!ENTITY  loadImages.label            "Load images automatically">
+<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  exceptions.label            "Okuhlukile">
+<!ENTITY  exceptions.accesskey        "k">
 
-<!ENTITY enableJavaScript.label "Enable JavaScript">
-<!ENTITY enableJavaScript.accesskey "J">
-<!ENTITY advancedJS.label "Okuthuthukile...">
-<!ENTITY advancedJS.accesskey "u">
+<!ENTITY  enableJavaScript.label      "Yenza Kusebenze iJavaScript">
+<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  advancedJS.label            "Okuthuthukile…">
+<!ENTITY  advancedJS.accesskey        "u">
 
-<!ENTITY enableJava.label "Enable Java">
-<!ENTITY enableJava.accesskey "n">
-
-
-<!ENTITY fontsAndColors.label "Izinhlobo Zemibhalo &amp; Imibala">
-
-<!ENTITY defaultFont.label "Default font:">
-<!ENTITY defaultFont.accesskey "D">
-<!ENTITY defaultSize.label "Size:">
-<!ENTITY defaultSize.accesskey "i">
-
-<!ENTITY advancedFonts.label "Okuthuthukile...">
-<!ENTITY advancedFonts.accesskey "k">
-
-<!ENTITY colors.label "Imibala...">
-<!ENTITY colors.accesskey "I">
+<!ENTITY  enableJava.label            "Yenza Isebenze iJava">
+<!ENTITY  enableJava.accesskey        "J">
 
 
-<!ENTITY feeds.label "Feeds">
+<!ENTITY  fontsAndColors.label        "Izinhlobo Zemibhalo &amp; Imibala">
 
-<!ENTITY feedReader.label "Feed Reader:">
-<!ENTITY feedReader.accesskey "F">
+<!ENTITY  defaultFont.label           "Ifonti Yakhona:">
+<!ENTITY  defaultFont.accesskey       "Y">
+<!ENTITY  defaultSize.label           "Usayizi:">
+<!ENTITY  defaultSize.accesskey       "U">
 
-<!ENTITY feedClick.label "When I click on a web feed:">
-<!ENTITY ask.label "Ask me what to use">
-<!ENTITY ask.accesskey "A">
-<!ENTITY subLiveBookmark.label "Always subscribe with a Live Bookmark">
-<!ENTITY subLiveBookmark.accesskey "L">
-<!ENTITY subReader.label "Always subscribe using the Feed Reader">
-<!ENTITY subReader.accesskey "R">
+<!ENTITY  advancedFonts.label         "Okuthuthukile…">
+<!ENTITY  advancedFonts.accesskey     "u">
+
+<!ENTITY  colors.label                "Imibala…">
+<!ENTITY  colors.accesskey            "I">
 
 
-<!ENTITY fileTypes.label "File Types">
-
-<!ENTITY configureFileTypes.label "Configure how &brandShortName; handles certain types of files">
-<!ENTITY manage.label "Manage...">
-<!ENTITY manage.accesskey "M">
+<!ENTITY languages.label              "Izilimi">
+<!ENTITY chooseLanguage.label         "Choose your preferred language for displaying pages">
+<!ENTITY chooseButton.label           "Khetha">
+<!ENTITY chooseButton.accesskey       "o">

@@ -1,0 +1,5 @@
+<!ENTITY window.title              "Khetha Ifolda">
+<!ENTITY window.style              "width: 40em; height: 38em;">
+<!ENTITY moveTo.label              "Yisa ku-:">
+<!ENTITY newFolderButton.label     "Ifolda Entsha">
+<!ENTITY newFolderButton.accesskey "N">

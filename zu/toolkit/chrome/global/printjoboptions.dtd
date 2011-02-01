@@ -3,26 +3,39 @@
 <!ENTITY printJobOptions.title "Izici Zesinyathelisi">
 
 <!ENTITY paperInput.label "Ubungako Bephepha:">
+<!ENTITY paperInput.accesskey "P">
 
 <!ENTITY plexInput.label "Yenza NgePlex:">
+<!ENTITY plexInput.accesskey "m">
 
 <!ENTITY resolutionInput.label "Izinga/Isimo Sokucaca:">
+<!ENTITY resolutionInput.accesskey "e">
 
 <!ENTITY cmdInput.label "Umyalo Wokunyathelisa:">
+<!ENTITY cmdInput.accesskey "o">
 
 <!ENTITY jobTitleInput.label "Isihloko Somsebenzi:">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Umbala:">
 <!ENTITY grayRadio.label "Isikali Esingwevu">
+<!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "Umbala">
+<!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY colorspaceInput.label "Isikhala sombala:">
+<!ENTITY colorspaceInput.accesskey "s">
 
 <!ENTITY fontsGroup.label "Izinhlobo Zemibhalo:">
 <!ENTITY downloadFonts.label "Zifakwe izinhlobo zombhalo esinyathelisini?">
+<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "Igebe kusuka onqenqemeni lwekhasi kuya ekuQaleni Kombhalo">
 <!ENTITY topInput.label "Phezulu:">
+<!ENTITY topInput.accesskey "T">
 <!ENTITY bottomInput.label "Phansi:">
+<!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "Kwesobunxele:">
+<!ENTITY leftInput.accesskey "L">
 <!ENTITY rightInput.label "Kwesokudla:">
+<!ENTITY rightInput.accesskey "R">
