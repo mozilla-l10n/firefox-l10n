@@ -23,6 +23,8 @@
 <!ENTITY checkSpelling.accesskey         "i">
 <!ENTITY allowHWAccel.label              "Korzystaj z akceleracji sprzętowej, kiedy jest dostępna">
 <!ENTITY allowHWAccel.accesskey          "K">
+<!ENTITY doNotTrack.label                "Informuj witryny, że użytkownik nie chce być śledzony">
+<!ENTITY doNotTrack.accesskey            "o">
 
 <!ENTITY systemDefaults.label  		 "Ustawienia systemowe">
 
