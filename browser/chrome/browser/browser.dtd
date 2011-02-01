@@ -562,4 +562,4 @@
 <!ENTITY preferencesCmd2.accesskey     "O">
 
 <!ENTITY addonBarCloseButton.tooltip  "ॲडऑन पट्टी बंद करा">
-
+<!ENTITY toggleAddonBarCmd.key        "/">
