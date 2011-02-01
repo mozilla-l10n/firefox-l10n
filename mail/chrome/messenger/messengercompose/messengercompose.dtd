@@ -209,7 +209,6 @@
 <!ENTITY followupAddr.label "Reaksjes nei:">
 <!ENTITY subject.label "Underwerp:">
 <!ENTITY subject.accesskey "n">
-<!ENTITY attachments.label "Bylagen:">
 <!ENTITY attachments.accesskey "a">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
